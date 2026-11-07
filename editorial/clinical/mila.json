@@ -418,6 +418,723 @@
         "choice": "Mme Perrin s’assure que Mila peut faire sa pause et revenir si elle le souhaite ; elle ne poursuit pas une question pour obtenir le bon signe. Le matériel est accessible au retour et une autre adulte de l’école connaît le relais prévu.",
         "next": "La boîte et ses six cartes sont prêtes. L’équipe garde la vérification des besoins lors des activités suivantes ; il faut maintenant vérifier les indices et ce que chaque enfant comprend."
       }
+    },
+    {
+      "number": 5,
+      "slug": "mila-apprentissages-deux-lignes",
+      "title": "Une réponse absente peut cacher un acquis et une vraie question",
+      "description": "Deux lignes de trois cases montrent une idée de Mila. L’ordre des couleurs reste à expliquer : son dessin ne dit pas tout.",
+      "context": "À la vérification des six indices et de leur répartition",
+      "topics": [
+        "Apprentissages",
+        "Compréhension des consignes",
+        "Réponse non verbale"
+      ],
+      "clinical_focus": "Apprentissages masqués par la réponse absente",
+      "clinical_intro": "Une absence de réponse orale peut masquer ce qu’un élève a compris tout en empêchant de demander une précision sur ce qui reste difficile. Dans le mutisme sélectif, le silence ne mesure pas les capacités générales. Des productions scolaires peuvent apporter des informations partielles ; l’enseignant continue son travail pédagogique et les questions cliniques restent confiées aux professionnels.",
+      "opening": "Mme Perrin pose les six cartes sorties de la boîte devant le groupe. Chacune a son bord de couleur ; quelques images d’indices sont encore provisoires. Pour le jour du jeu, deux équipes devront recevoir autant de cartes l’une que l’autre. Mila prend une feuille quadrillée. Elle dessine deux longues lignes de trois cases, puis met un petit point au centre de chacune. Six places, aucune carte oubliée. Le tracé la satisfait davantage qu’une pile, où l’on ne voit jamais celle du dessous.\n\n« Comment peut-on vérifier que les groupes en auront autant ? » demande l’enseignante. Mila garde la feuille près d’elle. Elle peut regarder ses cases mais ne les explique pas à voix haute. Un camarade propose de distribuer les cartes une par une. Les deux idées pourraient servir ; seule la seconde est entendue. Mila pousse un peu sa feuille, sans savoir si Mme Perrin a compris ce déplacement.\n\nPuis vient l’ordre des couleurs. Mila croit qu’il faut suivre l’arc de l’affiche, tandis que la consigne prévoit un départ différent pour chaque équipe. Elle hésite entre la bleue et l’orange. Elle voudrait demander si les deux équipes reviennent au même soleil, mais sa question reste là. Sam lui dit qu’elle n’écoute pas. Elle écoutait justement cette phrase sur le départ et ne sait pas comment la reprendre. Mme Perrin vient voir sa feuille. Les deux lignes peuvent montrer une manière de répartir six objets ; elles ne disent pas encore ce que Mila comprend du parcours.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Montrer une partie du raisonnement ne montre pas tout",
+          "text": "Le mutisme sélectif peut empêcher de rendre ses acquis visibles et de demander les précisions nécessaires aux apprentissages. Dans la scène, deux questions doivent rester séparées. Mila a proposé une répartition dessinée ; l’enseignante peut examiner cette production scolaire. L’ordre des couleurs demeure réellement mal compris et demande un nouvel enseignement. Ni le silence ni la réussite d’une manipulation ne permettent de conclure sur l’ensemble de ses compétences. Les supports donnent des indices pédagogiques limités. Une difficulté persistante du langage ou de la compréhension, si elle est envisagée, relève d’une appréciation professionnelle adaptée."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment la réponse absente masque-t-elle les apprentissages ?",
+          "points": [
+            {
+              "heading": "Un raisonnement reste sans explication orale",
+              "text": "Une réponse non entendue peut laisser croire qu’aucune proposition n’existe. Examiner le travail permet d’en connaître une partie sans lui inventer une explication complète.",
+              "examples": [
+                "Mila dessine deux groupes de trois cases mais ne peut commenter son partage devant les autres.",
+                "Son léger déplacement de feuille peut passer inaperçu pendant la proposition orale d’un camarade."
+              ]
+            },
+            {
+              "heading": "Une question sur la consigne ne se formule pas",
+              "text": "L’absence d’initiative orale empêche aussi de signaler une confusion véritable. Tout attribuer au seul accès à la voix ferait manquer ce besoin d’enseignement.",
+              "examples": [
+                "Mila suit mentalement l’ordre de l’affiche alors que chaque équipe doit avoir son propre départ.",
+                "Elle ne parvient pas à demander si les deux trajets reviennent au soleil vert."
+              ]
+            },
+            {
+              "heading": "L’hésitation reçoit une interprétation erronée",
+              "text": "Un comportement visible ne révèle pas sa cause à lui seul. Une hésitation peut appeler une clarification plutôt qu’un jugement d’attention.",
+              "examples": [
+                "Sam lui dit qu’elle n’écoute pas quand elle reste entre les cartes bleue et orange.",
+                "L’enseignante voit les cases régulières, mais doit encore reprendre la consigne d’ordre avant de savoir ce qui reste difficile."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour distinguer acquis visibles et consigne à reprendre",
+          "points": [
+            {
+              "heading": "Laisser une production montrer un raisonnement",
+              "objective": "Donner une place scolaire à une idée qui n’a pas été expliquée oralement.",
+              "exercise": [
+                "Mme Perrin regarde avec Mila les cases ou les objets utilisés pendant la tâche ordinaire.",
+                "Elle décrit ce qu’elle voit sans annoncer que cela prouve une capacité générale.",
+                "Elle laisse Mila déplacer des cartes ou conserver la feuille, sans réclamer ensuite l’explication orale manquante."
+              ],
+              "benefit": "La production peut rendre une proposition repérable, tout en laissant ouvertes les informations qu’elle ne donne pas."
+            },
+            {
+              "heading": "Reprendre la consigne dans l’activité du groupe",
+              "objective": "Traiter la confusion sur le parcours comme un besoin pédagogique.",
+              "exercise": [
+                "L’enseignante montre les deux départs prévus avec le matériel de la classe.",
+                "Elle reprend l’ordre des étapes pour tout le groupe, en français, avec les cartes disponibles.",
+                "Elle observe leur utilisation dans la tâche sans transformer cette activité en test du mutisme ou en score clinique."
+              ],
+              "benefit": "Une consigne plus explicite peut permettre de poursuivre le travail ; la manipulation seule n’évalue pas toutes les compétences linguistiques."
+            },
+            {
+              "heading": "Garder la question non résolue dans son bon cadre",
+              "objective": "Éviter de conclure trop vite à une incapacité ou à une compréhension totale.",
+              "exercise": [
+                "Mme Perrin note séparément la répartition montrée et le point qui avait nécessité une reprise.",
+                "Elle poursuit l’enseignement et distingue une difficulté ponctuelle de questions qui reviennent dans plusieurs situations.",
+                "Avec les parents et les accords convenus, elle apporte les observations utiles au suivi pour que la clinicienne apprécie les relais nécessaires."
+              ],
+              "benefit": "Une trace factuelle peut aider la coordination sans demander à l’école ou à la famille de tester le langage."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Les six cases trouvent leurs cartes",
+      "ending": "Mme Perrin reconnaît la répartition sur la feuille et propose de s’en servir pour ranger les deux ensembles. Elle reprend ensuite les deux départs avec le groupe. Mila peut placer trois cartes sur chaque ligne ; cette fois, le bleu n’a plus à suivre l’orange pour les deux équipes. La question sur le trajet a reçu une explication scolaire, sans que cela prouve tout ce qu’elle sait ou ignore. L’enseignante conserve une observation limitée pour le rendez-vous de suivi convenu avec les parents. Sam propose d’essayer les cachettes avec elle à la récréation. Mila glisse sa feuille dans le plan : les cases serviront encore pour vérifier que personne n’a oublié une carte.",
+      "conclusion": "L’absence de réponse orale ne permettait ni de voir la répartition imaginée ni de repérer précisément la consigne mal comprise. Les deux besoins ont été traités séparément. Le projet garde ses deux ensembles de trois cartes, et le suivi recevra des faits plutôt qu’une conclusion sur Mila.",
+      "mirror": [
+        "Julien peut recevoir cette observation en disant : « Les deux lignes ont servi, et la consigne a été reprise. » Il n’a pas à refaire l’exercice à la maison pour voir si Mila répond mieux. Avec Mme Perrin, les parents conviennent de ce qui sera utile à la consultation et recherchent l’assentiment de leur fille pour ce partage limité. L’enseignante garde la responsabilité des apprentissages ; la clinicienne choisit l’évaluation adaptée si des questions de langage ou de compréhension doivent être approfondies. Le jeu n’établit aucun bilan de ses capacités."
+      ],
+      "sources": [
+        "oms-cddr",
+        "asha-mutisme"
+      ],
+      "continuity": {
+        "choice": "Mme Perrin comprend la répartition dessinée et reprend avec tout le groupe la consigne mal comprise. Mila peut placer les cartes ; l’enseignante conserve une observation factuelle pour le rendez-vous de suivi convenu avec ses parents.",
+        "next": "Deux ensembles de trois cartes sont constitués et les consignes clarifiées. Sam souhaite essayer le parcours avec Mila ; une coopération réelle doit maintenant trouver sa place."
+      }
+    },
+    {
+      "number": 6,
+      "slug": "mila-pairs-cachette-deplacee",
+      "title": "Une préférence empêchée peut disparaître dans les décisions du groupe",
+      "description": "Sam décide trop vite des cachettes et croit Mila d’accord. Une remarque d’exclusion oblige Mme Perrin à rétablir sa place.",
+      "context": "Dans la cour, au premier essai des cachettes sur le plan",
+      "topics": [
+        "Relations avec les pairs",
+        "Initiative empêchée",
+        "Prévention de l’exclusion"
+      ],
+      "clinical_focus": "Réciprocité avec les pairs empêchée",
+      "clinical_intro": "Le mutisme sélectif peut gêner l’initiative et la poursuite des échanges avec les autres enfants. Un silence peut alors être pris à tort pour un accord, tandis qu’une préférence reste sans place. Les adultes protègent la participation et arrêtent les paroles d’exclusion. Les camarades restent des partenaires de jeu, libres de leurs activités, sans rôle de thérapeute.",
+      "opening": "Dans la cour, Sam a transformé le banc en bureau d’expédition. Le plan de Mila est tenu par une pierre à chaque coin ; les vraies cartes sont restées dans la classe, mais six petits papiers permettent d’essayer leurs positions. Il veut cacher l’objet rouge près du bac à feutres et le bleu derrière un livre de la bibliothèque. Mila trouve cette deuxième idée bonne. Elle n’aime pas la dernière : un objet vert près de la plante verte, cela se devine trop facilement.\n\nSam déplace trois papiers à la suite. Il est pressé de finir avant le match de ballon. « Et pour le vert, là. Mila est d’accord. » Elle voudrait arrêter sa main, lui faire regarder l’étagère plus éloignée. La phrase ne vient pas, et le moment pour placer son papier passe entre deux décisions. Sam replie déjà un bord du plan.\n\nUn enfant qui regarde par-dessus le banc demande pourquoi elle ne dit jamais ce qu’elle choisit. Puis il ajoute que, si elle ne répond pas, autant jouer sans elle. Mila fixe la pierre sur le coin du soleil. Ce n’est plus seulement une mauvaise cachette : le jeu qu’elle a inventé semble partir avec les autres. Mme Perrin, qui surveille la cour, a entendu. Elle intervient avant que Sam ramasse les papiers. Elle arrête la remarque d’exclusion et rappelle que chacun garde une place dans le travail. Elle ne donne aucune information sur la santé de Mila pour justifier cette règle.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Ne pas confondre silence et accord",
+          "text": "Les échanges avec les pairs peuvent être difficiles à initier ou à relancer dans le mutisme sélectif, malgré une envie réelle de jouer ensemble. Mila apprécie une idée de Sam et veut en contester une autre ; elle ne peut pas introduire cette nuance dans la succession rapide des décisions. Le risque d’exclusion demande une réponse adulte. La responsabilité de protéger sa place ne revient pas à Sam, et l’amitié ne constitue pas un dispositif de soin. Des règles concrètes peuvent rendre des choix accessibles sans supposer que chaque silence cache le même désir."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment l’échange entre enfants peut-il effacer un choix ?",
+          "points": [
+            {
+              "heading": "Une proposition n’entre pas dans la conversation",
+              "text": "Le rythme des décisions peut laisser trop peu de place à une initiative empêchée. Ce décalage ne signifie pas absence d’idée.",
+              "examples": [
+                "Mila veut éloigner la cachette verte de la plante sans réussir à interrompre Sam.",
+                "Elle garde son petit papier près du plan pendant que plusieurs positions sont annoncées à la suite."
+              ]
+            },
+            {
+              "heading": "Un accord est attribué à tort",
+              "text": "Une absence de contestation audible ne vaut pas consentement. Le partenaire peut se tromper sans être chargé d’interpréter ce que l’enfant pense.",
+              "examples": [
+                "Sam annonce que Mila est d’accord alors qu’elle voulait modifier sa dernière décision.",
+                "Il commence à replier le plan comme si le choix commun était achevé."
+              ]
+            },
+            {
+              "heading": "Une parole d’exclusion menace la participation",
+              "text": "Les difficultés d’échange peuvent exposer à des remarques blessantes. Les arrêter relève de l’adulte, sans exiger que l’enfant concerné explique son trouble.",
+              "examples": [
+                "L’enfant au bord du banc propose de jouer sans Mila parce qu’elle ne répond pas.",
+                "Mila reste devant son soleil tandis que le projet risque de devenir un jeu décidé entièrement par les autres."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour garder une coopération réelle",
+          "points": [
+            {
+              "heading": "Arrêter l’exclusion sans dévoiler la santé",
+              "objective": "Protéger la place de Mila dans une activité de la classe.",
+              "exercise": [
+                "Mme Perrin arrête clairement la remarque selon laquelle une réponse orale serait nécessaire pour jouer.",
+                "Elle rappelle les règles de respect et la possibilité pour chacun de contribuer autrement.",
+                "Elle reste attentive à la suite et traite les moqueries qui se répéteraient dans le cadre de l’école, sans demander à Mila de les résoudre."
+              ],
+              "benefit": "Une intervention adulte peut rétablir une protection immédiate ; elle ne garantit pas à elle seule la qualité de toutes les relations."
+            },
+            {
+              "heading": "Donner une place concrète aux modifications",
+              "objective": "Permettre aux deux concepteurs de faire exister une préférence.",
+              "exercise": [
+                "L’enseignante rouvre les positions encore discutables sur le plan.",
+                "Chacun peut proposer une modification avec un papier ou un autre moyen disponible, sans obligation de commentaire oral.",
+                "Les choix retenus sont indiqués sur le plan et ceux qui restent incertains demeurent ouverts."
+              ],
+              "benefit": "Une règle visible peut limiter les accords supposés ; le support ne révèle pas automatiquement toutes les intentions."
+            },
+            {
+              "heading": "Laisser Sam rester un camarade",
+              "objective": "Soutenir le jeu partagé sans lui confier l’accompagnement de Mila.",
+              "exercise": [
+                "L’adulte lui explique qu’il peut vérifier un choix sans conclure à partir du silence.",
+                "Il peut demander de l’aide à Mme Perrin lorsqu’une décision reste incomprise, plutôt que parler toujours pour Mila.",
+                "Il garde le droit de rejoindre son match ; les adultes assurent la suite et le lien avec la famille ou les soignants."
+              ],
+              "benefit": "Des responsabilités limitées peuvent laisser une place à l’amitié, au désaccord et aux autres intérêts de chacun."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Deux idées restent sur le plan",
+      "ending": "Mme Perrin pose de nouveau le plan à plat. Elle garde un espace où chacun peut déplacer un papier avant que les cachettes soient fixées. Mila décale enfin le vert vers l’autre étagère. Sam regarde, puis replace son idée de plante pour une autre couleur : « Là, c’est plus dur. » Ils ne choisissent pas exactement la même chose, et les deux propositions trouvent une place. Sam annonce qu’il va jouer au ballon. Mila retient la pierre pour que le plan ne s’envole pas et commence à redessiner la dernière flèche. La règle prévoit désormais que les deux concepteurs peuvent modifier le parcours. Il manque encore des images claires pour certains indices ; la prochaine recherche se fera à la bibliothèque.",
+      "conclusion": "L’envie d’échanger n’a pas suffi à faire entendre une préférence. Un accord supposé et une remarque blessante ont demandé deux réponses distinctes : rouvrir les choix et protéger la participation. Le parcours conserve deux idées d’enfants, sans transformer Sam en accompagnant permanent.",
+      "mirror": [
+        "Mme Perrin peut dire à Sam : « Tu peux vérifier le choix, et si tu ne sais pas, je peux aider. Tu peux aussi aller jouer au ballon. » Elle ne lui demande pas de surveiller les silences de Mila. La famille est informée des faits utiles et des mesures prises par l’école, avec une attention aux accords de partage et à l’assentiment recherché de Mila. Les adultes reprennent les difficultés persistantes avec la clinicienne ; aucune amitié n’a à fournir une thérapie ni à garantir une réponse."
+      ],
+      "sources": [
+        "oms-cddr",
+        "hse-mutisme-appuis"
+      ],
+      "continuity": {
+        "choice": "Mila déplace une carte quand la modification devient possible. Sam garde sa cachette pour une autre couleur et dit qu’il veut aussi jouer au ballon ensuite ; leur désaccord ne les empêche pas d’avoir chacun une idée retenue.",
+        "next": "La règle prévoit désormais que les deux concepteurs peuvent modifier le parcours. Une recherche à la bibliothèque doit fournir des images pour les indices manquants."
+      }
+    },
+    {
+      "number": 7,
+      "slug": "mila-langue-album-couleurs",
+      "title": "Ne pas connaître un mot et ne pas pouvoir le dire sont deux questions",
+      "description": "Devant un album anglais, Mila rencontre un mot nouveau et une parole empêchée. L’image sert au jeu, sans test de langage.",
+      "context": "À la bibliothèque, pour choisir les images des indices",
+      "topics": [
+        "Langue de situation",
+        "Compréhension",
+        "Accès à la parole"
+      ],
+      "clinical_focus": "Langue de situation et compréhension",
+      "clinical_intro": "Un silence dans une langue peu connue ne permet pas de conclure à un mutisme sélectif. Apprendre du vocabulaire et accéder à une parole déjà connue sont deux questions distinctes. Chez une enfant dont le diagnostic est établi, une difficulté nouvelle de compréhension mérite aussi d’être considérée pour elle-même, sans comparaison improvisée entre les langues ni démonstration exigée.",
+      "opening": "L’album est presque aussi large que le plan de Mila. La bibliothécaire l’ouvre sur un arbre dont chaque feuille a une couleur différente. Sam trouve cela peu pratique pour un arbre ; Mila trouve cela très pratique pour un livre. Ils cherchent des images plus nettes pour les indices de leur jeu, en respectant les cachettes modifiées dans la cour. La règle des deux concepteurs est restée dessinée au dos du plan.\n\nSous les feuilles, des mots anglais sont imprimés en grosses lettres. Mila s’arrête sur « purple ». Elle ne sait pas ce que ce mot veut dire. La bibliothécaire le prononce et attend un instant, puis regarde Mila pour savoir si elle comprend. Sur la même page, une feuille verte lui est parfaitement familière : à la maison elle raconte en français toutes sortes de verts, du vert de haricot au vert de dragon fatigué. Ici, le mot français qu’elle connaît ne devient pas pour autant facile à dire.\n\nMila voudrait savoir si les joueurs auront besoin de lire les mots anglais. Si oui, elle ne saurait pas leur expliquer celui qu’elle découvre. Sa question ne sort pas. La bibliothécaire voit un regard arrêté sur la page, sans savoir si l’obstacle tient au mot, à la demande ou à autre chose. Mme Perrin rejoint la table. Elle ne propose pas de vérifier devant tout le monde quels mots Mila prononce chez elle. Le groupe est venu choisir des images ; l’adulte peut commencer par rendre la page compréhensible.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Séparer vocabulaire nouveau et parole inaccessible",
+          "text": "La méconnaissance de la langue utilisée dans une situation ne doit pas être confondue avec le mutisme sélectif. Dans cette fiction, Mila utilise habituellement le français à la maison et à l’école ; la découverte d’un album anglais ne lui invente pas une histoire de bilinguisme. Le narrateur distingue un mot effectivement nouveau et un mot français familier qui reste inaccessible à l’oral ici. La bibliothécaire ne peut pas faire cette distinction à partir du seul silence. Les adultes rendent d’abord l’activité compréhensible ; si des questions linguistiques restent utiles au suivi, la clinicienne choisit comment les approfondir."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment des obstacles différents peuvent-ils se ressembler ?",
+          "points": [
+            {
+              "heading": "Un mot de l’album est réellement inconnu",
+              "text": "L’apprentissage d’un mot peut nécessiter une explication ordinaire. Ne pas répondre dans ce cas ne révèle aucune cause clinique particulière.",
+              "examples": [
+                "Mila découvre le mot anglais « purple » sans savoir encore à quelle couleur il correspond.",
+                "Elle ignore si les mots imprimés devront être utilisés dans leur jeu et ne peut le deviner en regardant le titre."
+              ]
+            },
+            {
+              "heading": "Un mot français familier reste difficile à dire ici",
+              "text": "Une connaissance disponible ailleurs ne garantit pas l’accès à la voix dans l’interaction présente. Elle ne suffit pas non plus à établir l’ensemble des compétences linguistiques.",
+              "examples": [
+                "Chez elle, Mila invente des noms de verts en français ; devant la bibliothécaire, elle ne prononce pas même « vert ».",
+                "La feuille familière sur la page attire son choix sans donner lieu à un commentaire oral."
+              ]
+            },
+            {
+              "heading": "La demande de clarification ne démarre pas",
+              "text": "Un silence peut aussi masquer une question sur l’activité. Une explication peut être utile même sans demande formulée.",
+              "examples": [
+                "Mila voudrait demander si les joueurs devront lire l’anglais mais ne peut engager cet échange.",
+                "La bibliothécaire ne sait pas ce que signifie son regard fixe et suspend son interprétation plutôt que de conclure."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour rendre l’activité compréhensible sans épreuve de langue",
+          "points": [
+            {
+              "heading": "Expliquer le vocabulaire avec l’image",
+              "objective": "Donner accès au contenu nouveau de l’album.",
+              "exercise": [
+                "L’adulte relie le mot nouveau à la couleur dessinée et donne son sens en français.",
+                "Il laisse la page accessible et présente les images utiles à la recherche.",
+                "Il poursuit l’activité sans exiger que Mila nomme la couleur pour montrer qu’elle a compris."
+              ],
+              "benefit": "Une explication illustrée peut lever une difficulté de vocabulaire sans transformer sa réponse en mesure du mutisme."
+            },
+            {
+              "heading": "Reprendre le but du jeu dans la langue usuelle",
+              "objective": "Clarifier ce que les joueurs devront réellement faire.",
+              "exercise": [
+                "Mme Perrin rappelle en français que les indices utiliseront des images et les règles déjà approuvées.",
+                "Elle indique que les étiquettes anglaises ne sont pas imposées aux joueurs.",
+                "Elle laisse disponibles les choix d’images sans demander une traduction ou une répétition à Mila."
+              ],
+              "benefit": "Une consigne claire peut réduire une ambiguïté scolaire ; elle ne démontre pas que toutes les difficultés de compréhension sont levées."
+            },
+            {
+              "heading": "Transmettre une question limitée au suivi",
+              "objective": "Garder les questions de langue dans une évaluation adaptée lorsqu’elles sont utiles.",
+              "exercise": [
+                "L’enseignante note le contexte de l’album et ce qui a été expliqué, en séparant faits et hypothèses.",
+                "Elle convient avec les parents du partage utile et recherche l’assentiment de Mila sans solliciter une démonstration domestique.",
+                "La clinicienne apprécie ce qui doit être approfondi à partir de l’histoire des contextes et des langues."
+              ],
+              "benefit": "Ce relais peut éclairer une question persistante ; parents et enseignants ne deviennent pas évaluateurs du langage."
+            }
+          ]
+        }
+      ],
+      "ending_title": "La feuille verte devient une image d’indice",
+      "ending": "La bibliothécaire montre la couleur associée au mot nouveau et Mme Perrin rappelle la règle en français. Les mots anglais resteront dans le livre. Mila choisit une feuille pour l’indice vert et commence à en copier les nervures ; Sam préfère pour une autre carte une forme ronde qui se reconnaîtra de loin. Les six indices ont maintenant leurs images, même si une carte demandera encore une correction après l’essai. Mme Perrin informe les parents de la question de compréhension à reprendre au rendez-vous déjà prévu. Le plan et les seules observations convenues pourront y être apportés. Mila ferme l’album après avoir regardé une dernière fois l’arbre impossible.",
+      "conclusion": "Un mot nouveau et une parole empêchée peuvent produire une même absence de réponse visible. L’activité a été expliquée sans demander à Mila de les départager par une performance. Les images rejoignent le jeu et la question utile rejoint le suivi professionnel.",
+      "mirror": [
+        "La bibliothécaire peut dire : « Ce mot désigne cette couleur ; pour votre jeu, vous pouvez garder l’image. » Elle n’a pas à demander aux parents de prouver ce que Mila dit en français. Julien et Inès peuvent autoriser le partage de cette observation limitée avec la clinicienne en recherchant l’assentiment de leur fille. Ils gardent leurs conversations ordinaires et ne refont pas un questionnaire de couleurs à la maison. Le diagnostic connu n’autorise ni à ignorer une vraie difficulté de compréhension ni à conclure qu’un nouveau trouble existe."
+      ],
+      "sources": [
+        "oms-cddr",
+        "asha-mutisme"
+      ],
+      "continuity": {
+        "choice": "Mila choisit une image de feuille pour le vert. L’album sert à trouver des dessins, sans étiquettes anglaises imposées aux joueurs ; les parents savent qu’une question sur la compréhension sera reprise au rendez-vous déjà prévu.",
+        "next": "Les six indices ont maintenant leurs images. Le plan, les observations scolaires limitées et la question du vocabulaire peuvent être apportés à la consultation avec les accords convenus."
+      }
+    },
+    {
+      "number": 8,
+      "slug": "mila-suivi-page-soleil",
+      "title": "Le suivi clinique n’exige pas une démonstration de parole",
+      "description": "Mila garde une partie de son cahier privée. La clinicienne reçoit des observations limitées et adapte le suivi sans performance imposée.",
+      "context": "À la consultation de suivi avec la docteure Le Goff",
+      "topics": [
+        "Évaluation adaptée",
+        "Observations croisées",
+        "Confidentialité"
+      ],
+      "clinical_focus": "Évaluation adaptée sans démonstration orale",
+      "clinical_intro": "Le suivi d’un mutisme sélectif peut croiser plusieurs contextes, car une consultation ne montre pas à elle seule tout le langage d’un enfant. Les informations de la famille et de l’école peuvent être utiles, avec un partage limité et convenu. La clinicienne décide des évaluations adaptées ; l’enfant n’a pas à fournir une performance orale pour que ses difficultés soient prises au sérieux.",
+      "opening": "Mila a mis le cahier dans son sac à l’envers. Ainsi, en l’ouvrant, on tomberait d’abord sur la dernière page blanche, pas sur l’histoire du dragon qu’elle ne veut montrer à personne. Elle accepte d’apporter le soleil vert et le plan du jeu à la consultation avec la docteure Le Goff. Julien a proposé de marquer la bonne page avec un papier ; elle a choisi le ticket de la bibliothèque. Il dépasse juste assez pour qu’elle le retrouve.\n\nDans le cabinet, la clinicienne s’intéresse au jeu, puis lui pose une question sur la classe. Mila tire le ticket entre ses doigts mais ne répond pas. Elle voudrait montrer comment les deux départs se rejoignent. Son cahier reste fermé sur ses genoux. Julien ne commence pas à raconter tout ce qu’elle dit à la maison pour remplir le silence. Il a apporté les observations convenues avec Mme Perrin : les deux lignes de trois cases, la consigne d’ordre reprise et l’album anglais. Il sait que ce sont des faits limités, pas un bilan du langage.\n\nLa docteure Le Goff laisse du temps et indique que le plan peut être montré si Mila le souhaite. Le diagnostic de mutisme sélectif est connu ; cette rencontre ne sert pas à le refaire par une réponse réussie. Mila pense au soleil, puis au dragon derrière les autres pages. Elle pose un doigt sur le ticket sans encore ouvrir. Ce qu’elle accepte de montrer et ce que les adultes ont besoin de comprendre ne se confondent pas entièrement.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Plusieurs contextes éclairent une situation sans tout révéler",
+          "text": "L’évaluation directe de la parole ou du langage peut être gênée par le mutisme sélectif. L’OMS et le portail professionnel de l’ASHA soulignent l’intérêt d’informations venant de personnes qui connaissent l’enfant et d’une appréciation collaborative. Le langage, l’audition et d’éventuelles difficultés associées relèvent d’évaluations choisies par les professionnels ; un diagnostic connu ne les rend ni automatiquement atteints ni automatiquement préservés. Ici, les parents et l’enseignante apportent des observations restreintes. Ils ne fabriquent pas un test à domicile, et le silence au cabinet ne devient pas une mesure complète des capacités de Mila."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment les contextes compliquent-ils la lecture clinique ?",
+          "points": [
+            {
+              "heading": "Une réponse manque pendant la consultation",
+              "text": "Le cabinet est lui aussi un contexte social. Une absence de réponse peut limiter ce que la clinicienne observe directement sans épuiser ce qu’elle a besoin de comprendre.",
+              "examples": [
+                "Mila ne répond pas à la question sur la classe alors qu’elle souhaite montrer son parcours.",
+                "Le cahier reste fermé un moment malgré la page préparée et le ticket facile à retrouver."
+              ]
+            },
+            {
+              "heading": "Les observations des adultes diffèrent selon les lieux",
+              "text": "Des récits différents ne s’annulent pas nécessairement. Ils décrivent des situations à situer précisément plutôt qu’une enfant supposée incohérente.",
+              "examples": [
+                "Julien connaît les longues explications de Mila dans la cuisine, qui n’ont pas été accessibles en classe.",
+                "Mme Perrin rapporte une répartition dessinée et une question d’ordre reprise, sans prétendre connaître toute sa pensée."
+              ]
+            },
+            {
+              "heading": "Une question de compréhension reste à préciser",
+              "text": "Un support réussi donne une information partielle. Un point linguistique nouveau peut demander un examen professionnel sans annoncer un trouble supplémentaire.",
+              "examples": [
+                "Les six cases montrent une proposition de partage, mais ne renseignent pas toutes les compétences de langage.",
+                "L’album anglais a introduit un mot inconnu et une question sur la consigne, que la seule absence de réponse ne départageait pas."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour préparer un partage utile au suivi",
+          "points": [
+            {
+              "heading": "Convenir de ce qui peut être montré",
+              "objective": "Respecter les limites de Mila tout en laissant une possibilité de communication.",
+              "exercise": [
+                "Avant le rendez-vous, Julien recherche avec elle ce qu’elle souhaite apporter ou garder privé.",
+                "Dans la consultation, les supports disponibles restent facultatifs ; la clinicienne ajuste l’échange sans performance imposée.",
+                "Les adultes ne prennent pas l’ouverture d’une page pour une autorisation de parcourir tout le cahier."
+              ],
+              "benefit": "Un accord précis peut permettre un partage limité ; il ne garantit pas qu’un support préparé soit utilisable le jour venu."
+            },
+            {
+              "heading": "Distinguer les faits des interprétations",
+              "objective": "Donner à la clinicienne des informations situées plutôt que des conclusions domestiques.",
+              "exercise": [
+                "Les adultes décrivent le lieu, l’activité et ce qui a été effectivement observé.",
+                "Ils séparent une production montrée d’une question restée sans réponse, sans compter les mots ni attribuer une motivation.",
+                "Ils laissent à Mila la possibilité d’ajouter ou de ne pas ajouter quelque chose, sans enquête après le rendez-vous."
+              ],
+              "benefit": "Des observations limitées peuvent éclairer le suivi sans transformer les proches en évaluateurs."
+            },
+            {
+              "heading": "Laisser les décisions d’évaluation à la clinicienne",
+              "objective": "Maintenir le langage et l’audition dans leur cadre professionnel.",
+              "exercise": [
+                "Les parents transmettent les questions persistantes, notamment celles de compréhension, dans l’échange convenu.",
+                "La docteure Le Goff apprécie les informations nécessaires et les éventuels relais professionnels adaptés.",
+                "La famille et l’école reprennent seulement les besoins d’accompagnement partagés avec leurs accords, sans reproduire de test ni de protocole."
+              ],
+              "benefit": "Cette coordination peut éviter des conclusions hâtives ; la fiction ne prescrit aucune évaluation particulière et ne pose aucun diagnostic associé."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Le dragon reste dans le sac",
+      "ending": "Mila ouvre enfin le cahier à la page marquée. Elle maintient les autres feuilles d’une main et montre le soleil vert. La docteure Le Goff regarde cette page sans demander le dragon ni une explication orale de tout le parcours. Julien transmet les observations convenues ; les questions de langage seront appréciées dans le suivi, avec les relais que la clinicienne jugera nécessaires. Ensemble, les adultes précisent les besoins utiles à adresser à Mme Perrin et recherchent l’assentiment de Mila pour ce partage. L’enseignante recevra les informations d’accompagnement convenues, pas le contenu de la consultation. Un point de suivi reste prévu. Mila remet le ticket dans l’album du plan : il pourra encore servir de passage secret.",
+      "conclusion": "La consultation réunit des informations que la scène seule ne pouvait fournir, sans exiger de démonstration ni décider d’un trouble supplémentaire. Une page choisie a été partagée, les questions ont un relais professionnel et le projet scolaire peut reprendre avec ses appuis convenus.",
+      "mirror": [
+        "Julien peut dire avant d’entrer : « Tu as choisi la page du soleil ; les autres restent à toi. » Il apporte les observations autorisées sans enregistrer Mila à la maison ni provoquer une réponse pour la clinicienne. Les parents donnent leur accord aux échanges nécessaires et recherchent son assentiment selon ce qu’elle peut exprimer. Ils peuvent demander à la docteure Le Goff quelles informations aideront réellement le suivi. L’école reçoit ce qui lui permet d’accompagner la journée ; elle n’a pas à connaître toutes les paroles ou tous les dessins de la consultation."
+      ],
+      "sources": [
+        "oms-cddr",
+        "asha-mutisme",
+        "nhs-mutisme"
+      ],
+      "continuity": {
+        "choice": "Mila montre seulement la page du soleil. La docteure Le Goff convient avec elle et ses parents des informations utiles à adresser à l’enseignante ; le cahier complet reste dans le sac. Le projet et les soins gardent chacun leur objectif.",
+        "next": "Mme Perrin reçoit les besoins d’accompagnement convenus, pas le contenu de la consultation. La préparation du parcours reprend et un point de suivi reste prévu."
+      }
+    },
+    {
+      "number": 9,
+      "slug": "mila-inquietude-retard-ines",
+      "title": "Une autre inquiétude mérite d’être comprise séparément",
+      "description": "Un possible retard d’Inès occupe Mila jusque dans ses cartes. Les parents organisent le retour et transmettent cette inquiétude au suivi.",
+      "context": "À la maison, avant le jour du jeu de piste",
+      "topics": [
+        "Inquiétude associée",
+        "Organisation familiale",
+        "Suivi clinique"
+      ],
+      "clinical_focus": "Difficultés anxieuses associées à distinguer",
+      "clinical_intro": "Des difficultés anxieuses peuvent coexister avec un mutisme sélectif sans s’expliquer toutes par ce diagnostic. Une préoccupation observée chez un enfant reste à comprendre dans son contexte ; elle ne constitue pas automatiquement un autre trouble. Les proches peuvent donner une information fiable, écouter ce qui vient et transmettre au suivi une inquiétude répétée ou qui gêne la vie quotidienne.",
+      "opening": "Mila prépare des numéros pour ranger les cartes après le jeu. Elle voudrait les dessiner comme des coquilles d’escargot : une spirale, deux spirales, puis elle renonce au troisième parce que cela prend trop de place. Sur la table, le plan porte les deux départs et les cachettes modifiées. Mme Perrin a reçu les besoins d’accompagnement convenus après la consultation, et le prochain point de suivi est resté prévu.\n\nInès pose son téléphone et annonce que la voiture sera réparée le jour du jeu. Elle pourra être retenue au garage et arriver plus tard à la sortie. « Mais qui vient, alors ? » demande Mila. Julien est encore dans la cuisine ; il répond qu’ils vont préciser l’organisation. Mila reprend son feutre puis le repose. « Plus tard après quoi ? Après les autres parents ? » Sa voix est disponible chez elle, mais cela ne suffit pas à libérer son attention.\n\nElle regarde l’horloge et imagine le portail presque vide. Sa carte de rangement reste sans numéro. Inès explique qu’un retard n’est qu’une possibilité ; Mila redemande tout de même qui sera là si le garage ne finit pas. Elle ne parle pas d’expliquer les règles devant la classe. Elle pense au moment où l’on sort et où les autres savent vers qui courir. Elle pourrait raconter davantage, ou pas. Les parents ne savent pas encore si cette inquiétude restera liée à cette annonce ou reviendra dans d’autres journées. Ce soir, elle prend déjà une place dans l’activité qu’elle avait choisie.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Le diagnostic connu ne répond pas à toutes les questions",
+          "text": "D’autres difficultés anxieuses peuvent être associées au mutisme sélectif, mais elles demandent une compréhension distincte. Le diagnostic établi de Mila ne permet pas de conclure à un trouble supplémentaire ni d’affirmer que la séparation cause ses difficultés de parole. Dans cette scène, elle peut parler et reste pourtant préoccupée par le retour de sa mère. L’organisation pratique et l’écoute ont leur place ; elles ne servent pas à prouver qu’elle n’a plus peur. Si l’inquiétude se répète ou entrave ses journées, la clinicienne peut l’apprécier dans le suivi."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment cette inquiétude prend-elle de la place ?",
+          "points": [
+            {
+              "heading": "La même question revient malgré une première réponse",
+              "text": "Les questions répétées décrivent ici un besoin encore difficile à situer. Elles n’établissent pas une catégorie diagnostique.",
+              "examples": [
+                "Mila demande qui viendra après l’annonce d’un possible retard au garage.",
+                "Elle repose la question quand Inès précise que ce retard n’est pas certain."
+              ]
+            },
+            {
+              "heading": "L’attention se fixe sur le scénario du retard",
+              "text": "Une préoccupation peut occuper les pensées même dans un lieu où la voix est disponible. L’accès à la parole ne mesure pas tout le vécu anxieux.",
+              "examples": [
+                "Mila regarde l’horloge et imagine le portail quand les autres parents sont déjà partis.",
+                "Elle cherche ce que veut dire « plus tard » au lieu de poursuivre ses numéros de cartes."
+              ]
+            },
+            {
+              "heading": "Une activité désirée est mise de côté",
+              "text": "Le retentissement visible aide à décider de parler de la situation, sans fabriquer une échelle domestique d’anxiété.",
+              "examples": [
+                "Le troisième numéro reste inachevé alors qu’elle avait choisi de ranger le jeu ce soir-là.",
+                "Elle repose le feutre après chaque information sur le garage, sans revenir encore à ses spirales."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour répondre à une préoccupation sans la diagnostiquer",
+          "points": [
+            {
+              "heading": "Donner une organisation fiable",
+              "objective": "Répondre à la question concrète de la sortie d’école.",
+              "exercise": [
+                "Les parents déterminent quel adulte sera réellement disponible le jour du jeu.",
+                "Ils expliquent à Mila ce qui est prévu et ce qui reste incertain, avec des mots simples.",
+                "Ils transmettent à l’école les seules informations pratiques nécessaires, sans promettre qu’aucun retard n’arrivera jamais."
+              ],
+              "benefit": "Un repère fiable peut lever une incertitude concrète ; il ne garantit pas que toute inquiétude disparaîtra."
+            },
+            {
+              "heading": "Écouter une précision sans poursuivre un interrogatoire",
+              "objective": "Laisser Mila exprimer ce qui la préoccupe sans exiger un récit complet.",
+              "exercise": [
+                "Inès lui laisse la possibilité de préciser sa question ou de s’arrêter.",
+                "Un dessin peut être disponible si elle le souhaite, sans être réclamé ni interprété comme une mesure de sa peur.",
+                "Les parents répondent à ce qu’elle apporte et gardent ensuite une place pour d’autres activités."
+              ],
+              "benefit": "Cette écoute peut faire connaître une préoccupation sans imposer à l’enfant de l’expliquer entièrement."
+            },
+            {
+              "heading": "Transmettre le retentissement au suivi",
+              "objective": "Faire apprécier une inquiétude récurrente ou gênante dans le cadre clinique.",
+              "exercise": [
+                "Les parents retiennent les faits utiles, ici les questions répétées et l’activité mise de côté, sans score ni hypothèse de cause.",
+                "Ils recherchent l’assentiment de Mila et contactent la clinicienne selon les modalités convenues.",
+                "Ils laissent la professionnelle décider de ce qui doit être approfondi, tout en maintenant l’organisation quotidienne."
+              ],
+              "benefit": "Un relais effectif peut éviter de tout attribuer au mutisme ; il ne préjuge ni d’un second diagnostic ni d’un traitement."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Julien sera au portail",
+      "ending": "Julien vérifie sa disponibilité et confirme qu’il sera là à la sortie, quelle que soit l’heure de fin de la réparation. Inès précise qu’elle pourra arriver plus tard ; elle ne promet pas de ne jamais être retenue. Mila écoute, puis dessine un grand J dans une case au dos de sa feuille. Elle ne reprend pas tous les numéros ce soir-là. Les parents lui expliquent qu’ils souhaitent signaler cette préoccupation à la docteure Le Goff et recherchent son assentiment pour les faits partagés. Ils la transmettent dans l’échange convenu ; la clinicienne la reprendra au point de suivi prévu. L’organisation du jour du jeu est réglée. Les parents veulent aussi préserver la soirée suivante des questions répétées sur ses réponses à l’école.",
+      "conclusion": "L’inquiétude de Mila avait un objet distinct de sa parole devant la classe. Une réponse pratique a été donnée et le retentissement a été transmis, sans conclure sur sa cause. Le projet continue avec une organisation claire et une question clinique encore ouverte.",
+      "mirror": [
+        "Inès peut dire : « Julien sera là à la sortie. Je peux te dire ce qui est prévu, et tu peux me demander une précision. » Elle évite de promettre une absence définitive de retard ou de demander à Mila de prouver qu’elle est rassurée. Avec Julien, elle transmet à la clinicienne les observations utiles, en recherchant l’assentiment de leur fille. Les parents gardent leurs limites et des moments ordinaires ; ils n’ont pas à sonder chaque pensée ni à poser eux-mêmes un diagnostic d’anxiété."
+      ],
+      "sources": [
+        "oms-cddr",
+        "nhs-mutisme"
+      ],
+      "continuity": {
+        "choice": "Julien sera l’adulte disponible après l’école ; Inès confirme ce qui est certain sans promettre de ne jamais être en retard. Avec leur accord et celui recherché de Mila, les parents signalent cette préoccupation à la docteure Le Goff, qui la reprendra au point prévu.",
+        "next": "L’organisation du jour du jeu est réglée et l’inquiétude a un relais effectif. Les parents décident aussi de préserver la soirée suivante des questions répétées sur ses réponses scolaires."
+      }
+    },
+    {
+      "number": 10,
+      "slug": "mila-irritabilite-boite-fermee",
+      "title": "La colère après les questions ne rend pas le silence volontaire",
+      "description": "Une question machinale sur sa parole fait refermer la boîte à Mila. Julien arrête le bilan et laisse la carte pour le lendemain.",
+      "context": "À la maison, après un essai scolaire du parcours",
+      "topics": [
+        "Irritabilité",
+        "Pression sur la parole",
+        "Vie familiale"
+      ],
+      "clinical_focus": "Irritabilité après les exigences de parole",
+      "clinical_intro": "Chez certains enfants présentant un mutisme sélectif, des questions sur la parole ou les exigences de la journée peuvent s’accompagner d’irritabilité au retour à la maison. La voix alors disponible ne prouve pas que le silence scolaire était choisi. Toute colère ne relève toutefois pas du trouble : fatigue, contrariétés ordinaires et anxiété demandent à être distinguées si les difficultés persistent.",
+      "opening": "Mila pose la boîte sur la table en laissant dépasser une carte. Pendant l’essai à l’école, une flèche trop large a mangé le bord du soleil ; il faudra la corriger avant le jeu. Le dessin des six images est terminé, mais cette dernière carte lui semble encore mal rangée dans son papier. Elle a demandé à rapporter le feutre orange pour réparer le bord. Julien coupe du pain pendant qu’elle pousse la corbeille à l’autre bout de la table.\n\nL’organisation du jour du jeu est fixée : il sera présent à la sortie si Inès est retenue au garage. Les parents ont aussi décidé de laisser moins de place aux comptes rendus de parole. Pourtant, en voyant la boîte, Julien demande machinalement : « Alors, tu as parlé pendant l’essai ? » Mila rabat le couvercle. « Arrête avec ça ! Toujours cette question ! » Le feutre roule et tombe sous la table. Elle le regarde sans le ramasser.\n\nSa voix remplit maintenant la cuisine ; elle aimerait que cette voix serve à parler du jeu, pas à raconter pourquoi elle ne sort pas ailleurs. Elle n’a plus envie de corriger le bord, ni même de décider où ranger la boîte. Julien s’arrête avec la corbeille dans les mains. Il ne sait pas tout ce qui a pesé dans la journée. Il peut reconnaître sa question sans en faire la cause unique de la colère, et sans utiliser la réponse vive de Mila comme une preuve qu’elle pourrait parler à l’école sur commande.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Une réaction vive ne donne pas une explication totale",
+          "text": "L’irritabilité peut apparaître autour des exigences de parole ou au retour à la maison dans certaines présentations du mutisme sélectif. Une réaction qui paraît oppositionnelle ne justifie pas de traiter le silence comme de l’opposition. Ici, une question centrée sur la voix précède la fermeture de la boîte, mais la fiction ne permet pas d’attribuer toute la colère au diagnostic ni d’accuser les parents de l’avoir causé. Mila peut aussi être fatiguée ou contrariée par sa carte. Arrêter un bilan malvenu et respecter les limites familiales restent possibles sans trancher une explication clinique."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment la tension apparaît-elle au retour ?",
+          "points": [
+            {
+              "heading": "Une question déclenche une réponse irritée",
+              "text": "La réaction rend visible une limite dans cet échange. Elle ne constitue pas un outil pour mesurer la pression vécue ni un signe spécifique.",
+              "examples": [
+                "À la question sur les mots prononcés pendant l’essai, Mila demande vivement à Julien d’arrêter.",
+                "Le couvercle est rabattu avant qu’ils aient parlé de la flèche à corriger."
+              ]
+            },
+            {
+              "heading": "Le projet est momentanément laissé de côté",
+              "text": "La tension atteint aussi une activité choisie. Ce retrait situé n’annonce pas un abandon définitif du jeu.",
+              "examples": [
+                "Mila ne ramasse pas le feutre orange qu’elle avait voulu rapporter pour travailler.",
+                "Elle ne veut plus décider où ranger sa carte pour la reprendre ce soir."
+              ]
+            },
+            {
+              "heading": "Une voix disponible prête à une mauvaise déduction",
+              "text": "Parler avec colère chez elle ne rend pas l’accès à la voix volontaire dans tous les lieux. La disponibilité reste liée aux situations.",
+              "examples": [
+                "Sa phrase vive dans la cuisine ne signifie pas qu’elle pouvait expliquer les indices pendant l’essai scolaire.",
+                "Le lendemain, un nouveau contexte de classe pourra rester difficile malgré cette discussion audible à la maison."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour sortir du bilan de parole à la maison",
+          "points": [
+            {
+              "heading": "Reconnaître la question et l’arrêter",
+              "objective": "Ne pas prolonger un échange vécu comme une surveillance.",
+              "exercise": [
+                "Julien nomme simplement la question qu’il vient de poser et reconnaît qu’elle tombe mal.",
+                "Il cesse de demander combien Mila a parlé ou pourquoi elle n’a pas répondu ailleurs.",
+                "Il maintient un échange respectueux et remet les objets tombés à leur place sans exiger un récit pour conclure."
+              ],
+              "benefit": "Reconnaître un moment mal ajusté peut interrompre une escalade ; cela ne résout pas à lui seul les difficultés de la journée."
+            },
+            {
+              "heading": "Garder un temps familial sans compte rendu",
+              "objective": "Laisser une place à la récupération et aux intérêts ordinaires.",
+              "exercise": [
+                "Les parents laissent un moment où personne n’a à raconter ses performances scolaires.",
+                "Ils gardent le matériel accessible et proposent de reprendre la carte plus tard ou à l’école.",
+                "Ils acceptent que Mila choisisse une autre activité tout en maintenant les règles habituelles de respect et de vie commune."
+              ],
+              "benefit": "Un temps sans bilan peut rendre la maison moins centrée sur la voix ; il ne devient pas une consigne universelle de retrait."
+            },
+            {
+              "heading": "Faire apprécier des soirées durablement difficiles",
+              "objective": "Éviter une explication totale fabriquée à partir d’une seule colère.",
+              "exercise": [
+                "Les adultes distinguent les faits observés, les contrariétés connues et ce qu’ils ne savent pas.",
+                "Si les tensions se répètent ou gênent durablement la vie quotidienne, ils en parlent à la clinicienne selon les modalités du suivi.",
+                "Ils recherchent l’assentiment de Mila pour les informations utiles et laissent la professionnelle apprécier ce qui mérite un autre relais."
+              ],
+              "benefit": "Ce recours peut éclairer une difficulté persistante sans faire des parents sa cause présumée ni attribuer tout changement au mutisme."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Un escargot dans un coin de papier",
+      "ending": "« J’ai encore posé cette question. On peut arrêter ce bilan », dit Julien. Il ramasse le feutre et range le matériel à portée de main. La correction pourra attendre demain, ou Mme Perrin pourra reprendre l’essai avec Mila. Le repas continue avec une discussion sur la soupe trop épaisse. Plus tard, Mila demande son feutre ; elle ne répare pas la flèche, mais dessine un petit escargot dans un coin de papier. « Celui-là porte une maison orange. » Julien regarde le dessin sans revenir aux mots prononcés à l’école. La carte sera corrigée en classe. La reprise du feutre ne solde pas la soirée, et les parents conservent le relais clinique prévu.",
+      "conclusion": "Une réponse vive à la maison ne rend pas volontaire le silence dans un autre contexte. Julien a pu arrêter une question malvenue sans décider de la cause de toute colère. La carte attend le lendemain, tandis que Mila retrouve un petit sujet à elle.",
+      "mirror": [
+        "Devant le couvercle fermé, Julien peut dire : « Je vois que cette question ne te convient pas maintenant. La carte peut attendre. » Il garde sa limite sur la manière de se parler sans demander une preuve de bonne volonté scolaire. Avec Inès, il préserve des échanges sur les couleurs et la vie ordinaire. S’ils doivent transmettre des soirées difficiles à la clinicienne, ils conviennent des faits utiles et recherchent l’assentiment de Mila. Leur rôle est de soutenir et d’observer, pas d’attribuer chaque contrariété au mutisme ou de trouver seuls son traitement."
+      ],
+      "sources": [
+        "oms-cddr",
+        "nhs-mutisme",
+        "hse-mutisme-appuis"
+      ],
+      "continuity": {
+        "choice": "Julien range le matériel accessible et propose de réparer la carte le lendemain, ou de laisser l’essai à Mme Perrin. Plus tard, Mila demande son feutre et dessine un petit escargot dans un coin ; cette reprise ne solde pas les difficultés.",
+        "next": "La carte sera corrigée à l’école. Les parents conservent des échanges sur les couleurs et la vie ordinaire, sans compte rendu quotidien du nombre de mots."
+      }
+    },
+    {
+      "number": 11,
+      "slug": "mila-murmure-feutre-orange",
+      "title": "Quelques mots très bas ne rendent pas la parole disponible partout",
+      "description": "Mila murmure un choix de feutre puis ne peut poursuivre quand les autres arrivent. Mme Perrin répond au choix sans mettre la voix en scène.",
+      "context": "Au seuil de la classe, pendant la correction de la dernière carte",
+      "topics": [
+        "Voix peu audible",
+        "Réponse brève",
+        "Variabilité selon le contexte"
+      ],
+      "clinical_focus": "Réponses brèves et voix peu audible",
+      "clinical_intro": "Certaines présentations du mutisme sélectif comportent quelques mots très bas ou une voix modifiée, avec des difficultés toujours importantes. Une brève réponse ne signifie ni guérison ni disponibilité sur commande. L’adulte peut accueillir le contenu de ce qui a été dit d’une manière ordinaire, sans demander de répétition ni retirer les moyens de communication et le suivi convenus.",
+      "opening": "Le lendemain, la carte est revenue dans la boîte avec son bord abîmé. Mila la sort près du seuil de la classe, à côté de Mme Perrin, pendant un moment de correction prévu. Le soleil restera vert. Il faut seulement refaire l’angle orange autour de lui et amincir la grosse flèche qui déborde. Mila a posé à côté le petit escargot dessiné la veille ; elle hésite à le garder comme signature pour le plan entier.\n\nMme Perrin rassemble les feutres. Le rouge roule vers sa main et elle l’approche du coin à réparer. « Pas celui-là », murmure Mila. Les mots sont si bas qu’ils semblent rester entre le couvercle et la feuille. Elle ne les avait pas préparés comme une étape à réussir. Elle voit seulement cette couleur rouge qui ne doit pas manger son orange. L’enseignante regarde le bord, puis prend le feutre orange disponible.\n\nDeux enfants entrent en parlant du match de la veille. Mila voudrait ajouter que le soleil, lui, doit rester vert et qu’elle fera ensuite la petite flèche. La suite ne vient pas. Elle garde la carte devant elle ; le murmure de tout à l’heure ne rend pas cette nouvelle phrase accessible. Mme Perrin ne l’invite pas à répéter pour les enfants et ne suspend pas l’arrivée de la classe pour annoncer ce qui s’est passé. Mila reprend son trait. La correction lui importe encore, même si quelques mots ont traversé un instant l’échange sans ouvrir tous les suivants.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "La voix ne se réduit pas à présente ou absente",
+          "text": "Une réponse très brève ou peu audible peut coexister avec un mutisme sélectif qui continue de gêner la participation. L’aperçu public du RCSLT décrit notamment des présentations où quelques mots sont possibles ; son contenu professionnel réservé n’est pas utilisé ici. La scène ne fixe aucune progression attendue. Le murmure de Mila est un événement situé, suivi d’une difficulté à poursuivre quand d’autres enfants arrivent. Lui demander de recommencer, annoncer la parole au groupe ou augmenter les exigences à partir de cet instant donnerait à quelques mots une portée qu’ils n’ont pas."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment quelques mots coexistent-ils avec la difficulté ?",
+          "points": [
+            {
+              "heading": "Une réponse brève devient accessible ici",
+              "text": "La parole peut servir une intention précise dans une interaction sans devenir disponible pour toutes les autres. Cet instant n’a pas été organisé comme une épreuve.",
+              "examples": [
+                "Mila dit « pas celui-là » quand le feutre rouge approche de sa carte.",
+                "La réponse concerne un choix immédiat de couleur, sans lancer une explication complète du dessin."
+              ]
+            },
+            {
+              "heading": "Le volume reste très réduit",
+              "text": "Une voix peu audible n’est pas une version volontairement insuffisante d’une réponse. La faire répéter pour obtenir un volume normal peut ajouter une attente.",
+              "examples": [
+                "Les mots de Mila sont à peine audibles à côté de la boîte ouverte.",
+                "Mme Perrin répond en prenant le feutre orange sans réclamer la même phrase plus fort."
+              ]
+            },
+            {
+              "heading": "L’enchaînement se bloque quand le contexte change",
+              "text": "L’arrivée d’autres personnes modifie la situation. La phrase précédente ne prédit ni l’échange suivant ni le lendemain.",
+              "examples": [
+                "Quand deux enfants entrent, Mila ne peut ajouter la précision qu’elle souhaitait sur le soleil vert.",
+                "Elle poursuit le trait dessiné sans pouvoir raconter aux nouveaux arrivants la correction entière."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour accueillir un mot sans en faire une épreuve",
+          "points": [
+            {
+              "heading": "Répondre au contenu ordinaire",
+              "objective": "Recevoir le choix exprimé sans déplacer toute l’attention vers la voix.",
+              "exercise": [
+                "Mme Perrin prend en compte la demande concernant le feutre.",
+                "Elle répond par l’action ou les mots usuels nécessaires à la tâche.",
+                "Elle poursuit la correction sans éloge public de la parole ni commentaire sur le courage de Mila."
+              ],
+              "benefit": "Une réponse ordinaire peut préserver l’échange autour du projet ; elle ne garantit pas que d’autres mots suivront."
+            },
+            {
+              "heading": "Ne pas demander une reproduction",
+              "objective": "Éviter qu’un événement bref devienne une obligation de performance.",
+              "exercise": [
+                "L’adulte ne fait pas répéter le murmure plus fort ou devant une autre personne.",
+                "Il ne provoque pas de nouveau la même situation pour vérifier si la phrase revient.",
+                "Si les autres enfants arrivent, il poursuit leur accueil sans leur annoncer les mots prononcés par Mila."
+              ],
+              "benefit": "L’absence de mise en scène peut éviter une attente supplémentaire, sans constituer à elle seule un traitement du mutisme."
+            },
+            {
+              "heading": "Conserver les appuis et l’échange convenus",
+              "objective": "Ne pas tirer d’une réponse une décision clinique ou scolaire disproportionnée.",
+              "exercise": [
+                "Les supports, les accès aux besoins et le cadre du jeu restent disponibles.",
+                "Mme Perrin transmet seulement l’observation utile dans l’échange factuel autorisé avec la famille, en recherchant l’assentiment de Mila.",
+                "La clinicienne garde l’appréciation de l’évolution et des besoins de suivi ; aucun objectif de répétition domestique n’est ajouté."
+              ],
+              "benefit": "Cette continuité peut empêcher le retrait trop rapide d’une aide sans promettre de conserver chaque aménagement à l’identique pour toujours."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Le bord orange est terminé",
+      "ending": "Mme Perrin tend le feutre orange sur la table et continue à accueillir les enfants. Mila refait l’angle sans toucher au soleil vert. La grosse flèche devient deux traits plus fins ; elle fait enfin rentrer la carte dans son rectangle. Le dernier indice corrigé rejoint les cinq autres dans la boîte. L’enseignante informe la famille uniquement dans le cadre factuel déjà convenu, sans comptage de mots ni cérémonie. Le déroulement du jeu reste celui approuvé : elle lira les règles, les groupes chercheront et Mila participera aux vérifications selon les possibilités du moment. Mila glisse son escargot près du plan. Pour la signature, elle n’a pas encore choisi la place.",
+      "conclusion": "Les quelques mots ont porté un choix réel sans transformer tout l’accès à la parole. La carte est terminée et les appuis restent disponibles. Cet instant peut être reçu sans être reproduit ; l’évolution de Mila demeure une question du suivi, avec sa variabilité.",
+      "mirror": [
+        "Mme Perrin peut simplement répondre : « Je prends l’orange. » Julien et Inès, s’ils reçoivent l’information convenue, peuvent continuer à parler du dessin sans demander à Mila de refaire sa phrase pour eux. Ils recherchent son assentiment pour les observations partagées et ne diffusent pas cet événement à l’entourage. Sam n’a pas à l’obtenir de nouveau. Le suivi professionnel continue ; un murmure ne justifie ni une annonce de guérison ni la suppression immédiate des possibilités de réponse déjà organisées."
+      ],
+      "sources": [
+        "oms-cddr",
+        "rcslt-mutisme",
+        "asha-mutisme"
+      ],
+      "continuity": {
+        "choice": "Mme Perrin prend le feutre orange. Mila reprend sa correction sans être appelée à commenter son murmure ; la carte terminée rejoint la boîte. L’enseignante informe la famille seulement dans le cadre de l’échange factuel convenu, sans comptage ni cérémonie.",
+        "next": "Les six indices sont terminés et le déroulement du jeu est fixé : Mme Perrin lit les règles approuvées, les groupes cherchent, Mila contribue aux vérifications selon les possibilités du moment."
+      }
     }
   ]
 }

@@ -203,7 +203,7 @@
       "ending": "Constance revient vers le vendeur et achète le disque. Ce n'est ni une promesse d'aller mieux ni une obligation de le mettre dès ce soir. Avec Lucile, elle choisit un café à la sortie de la brocante. Pour les photos, elle propose le samedi suivant. « Je veux garder l'idée. Je n'ai pas la même place pour elle aujourd'hui. » Lucile accepte et lui raconte le livre absurde qu'elle vient de trouver. Constance écoute sans retrouver tout l'entrain attendu. Avant de partir, elle dit qu'elle parlera au médecin de cette drôle de distance. Le ticket rejoint la feuille du déjeuner dans son sac. Le cinéma attendra une autre lumière ; la sortie n'est pas devenue une épreuve qu'elles doivent réussir.",
       "conclusion": "L'émoussement du plaisir prend ici la forme d'un écart avec une habitude chère, associé à une préoccupation qui persiste. Constance en parlera dans l'évaluation déjà engagée ; elle garde le disque et une invitation, sans leur demander une réponse médicale.",
       "mirror": [
-        "Lucile peut reprendre les mots de Constance : « On peut acheter le disque et laisser les photos pour samedi. Qu'est-ce qui te convient ? » Elle n'a pas à multiplier les surprises pour obtenir un sourire. Elle peut maintenir son propre envie de brocante et convenir d'un moment où se séparer. Si Constance veut parler du changement, elle peut écouter et soutenir la démarche médicale, sans interpréter l'achat ou le report comme une preuve diagnostique. Le disque pourra rester un objet à partager, pas un test à répéter."
+        "Lucile peut reprendre les mots de Constance : « On peut acheter le disque et laisser les photos pour samedi. Qu'est-ce qui te convient ? » Elle n'a pas à multiplier les surprises pour obtenir un sourire. Elle peut maintenir sa propre envie de brocante et convenir d'un moment où se séparer. Si Constance veut parler du changement, elle peut écouter et soutenir la démarche médicale, sans interpréter l'achat ou le report comme une preuve diagnostique. Le disque pourra rester un objet à partager, pas un test à répéter."
       ],
       "clinical_focus": "Émoussement du plaisir familier",
       "sources": [
@@ -317,6 +317,728 @@
       "continuity": {
         "choice": "Le médecin explique le diagnostic, convient avec Constance d'une aide psychologique et du suivi ; elle garde le compte rendu privé et repère une écoute à la médiathèque.",
         "next": "Le diagnostic est expliqué et le suivi est organisé. Constance sait qui recontacter et n'a pas promis d'en informer le bureau. Elle décide d'essayer une soirée d'écoute musicale à la médiathèque avant de reprendre le travail avec Johanna."
+      }
+    },
+    {
+      "number": 4,
+      "slug": "constance-tension-pendant-pause",
+      "title": "La tension qui demeure pendant une pause choisie",
+      "description": "À la médiathèque, Constance est venue écouter un disque. Le temps est libre, mais elle reste sur le qui-vive.",
+      "context": "Une écoute à la médiathèque",
+      "topics": [
+        "Difficulté à se détendre",
+        "Pause choisie",
+        "Sensations à discuter"
+      ],
+      "clinical_intro": "Disposer d'un moment libre n'entraîne pas toujours une sensation de repos. Dans un tableau anxieux et dépressif mixte, la difficulté à se détendre peut rendre une activité choisie pénible, puis décourageante. Des ajustements modestes restent possibles, sans exiger un apaisement immédiat. Une sensation nouvelle ou préoccupante mérite cependant une évaluation adaptée et ne doit pas être attribuée automatiquement à l'anxiété.",
+      "opening": "La médiathécaire annonce le troisième extrait. Constance connaît le titre : elle l'a relu sur la pochette orange avant de partir. La salle d'écoute est petite, avec des chaises dépareillées et une affiche de concert qui se décolle dans un angle. Elle avait choisi cette soirée après le rendez-vous médical. À présent, aucune feuille n'attend sa signature, personne ne lui demande une réponse, et ses épaules demeurent remontées comme dans un courant d'air.\n\nElle déplace son sac sous la chaise, puis sur la chaise voisine. Elle vérifie la porte du regard quand une personne entre. Le geste lui paraît absurde, mais se le dire ne le fait pas disparaître. Cette tension familière a déjà été évoquée avec le médecin ; le nom expliqué en consultation n'a pas rendu les pauses faciles d'un seul coup. Elle essaie de suivre le morceau et pense surtout au nombre d'extraits restant avant la fin. Elle s'en veut un peu d'attendre la sortie d'un endroit où elle souhaitait venir.\n\nUn son de guitare lui rappelle pourtant le dessin rayé de l'album. Elle voudrait pouvoir rester avec ce détail sans se surveiller. « Service des loisirs sous tension », murmure-t-elle pour elle-même. Son téléphone ne reçoit aucun message urgent. Elle pourrait partir maintenant, changer de place ou rester pour un seul morceau. La médiathécaire montre les sièges du fond à une nouvelle arrivante. Constance comprend qu'elle peut, elle aussi, modifier sa place sans justifier toute sa soirée. Elle pose les pieds autrement et attend de voir ce que ce choix permet, sans le transformer en ordre de se calmer.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Le temps libre et le repos ne coïncident pas toujours",
+          "text": "La difficulté à se détendre peut persister alors qu'une demande extérieure a cessé. L'OMS la décrit parmi les manifestations anxieuses possibles du trouble anxieux et dépressif mixte. Chez Constance, une tension musculaire familière et le sentiment de devoir rester disponible gênent l'écoute ; le peu de plaisir immédiat ajoute du découragement. Cela ne fait pas de toute gêne corporelle une conséquence du diagnostic. La nature d'un symptôme, son contexte et son changement comptent pour l'évaluation. Les propositions de retour à l'environnement présent du guide OMS sur le stress offrent ici une inspiration générale : écouter un son ou modifier une place sont des adaptations facultatives de la scène, pas un traitement spécifique du 6A73. Leur intérêt ne se mesure pas à la disparition des sensations."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment la tension occupe-t-elle une pause ?",
+          "points": [
+            {
+              "heading": "Garder une posture crispée",
+              "text": "Une tension familière peut rendre inconfortable une activité pourtant peu exigeante. La personne peut la constater sans en connaître à elle seule l'origine.",
+              "examples": [
+                "Constance garde les épaules hautes quand la musique commence, comme elle l'a déjà décrit au médecin.",
+                "Elle serre la lanière du sac alors qu'elle n'a rien à transporter dans la salle."
+              ]
+            },
+            {
+              "heading": "Rester sur le qui-vive",
+              "text": "L'attention se porte sur ce qui pourrait solliciter la personne plutôt que sur l'activité choisie. Un lieu tranquille ne suffit pas toujours à changer cette disponibilité inquiète.",
+              "examples": [
+                "Elle regarde la porte à chaque entrée au lieu de suivre la fin d'une phrase musicale.",
+                "Elle vérifie son téléphone sans qu'une demande ait été annoncée pour cette soirée."
+              ]
+            },
+            {
+              "heading": "Souhaiter écourter ce qui était désiré",
+              "text": "L'inconfort peut diminuer l'envie de rester et susciter un reproche envers soi. Choisir une durée plus courte n'annule pas l'intérêt pour la musique.",
+              "examples": [
+                "Constance compte les extraits restants alors qu'elle avait repéré l'annonce avec curiosité.",
+                "Elle regrette de ne pas profiter davantage du morceau et envisage de partir avant sa fin."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour ajuster une pause tendue",
+          "points": [
+            {
+              "heading": "Chercher une place plus confortable",
+              "objective": "L'objectif est d'alléger une contrainte matérielle, sans commander au corps de se détendre.",
+              "exercise": [
+                "Repérer ce qui peut être modifié simplement : position du sac, appui des pieds ou siège disponible.",
+                "Essayer un seul changement autorisé dans le lieu, en gardant celui qui paraît plus confortable.",
+                "Décider si l'on souhaite rester ou sortir, même si une part de tension demeure."
+              ],
+              "benefit": "Le confort matériel peut rendre la pause plus praticable. Le résultat n'est ni une mesure de volonté ni une preuve sur l'origine d'une sensation."
+            },
+            {
+              "heading": "Rejoindre un détail de l’écoute",
+              "objective": "L'objectif est de retrouver un contact choisi avec la salle ou la musique quand l'attention est emportée.",
+              "exercise": [
+                "Choisir un son de l'extrait ou un détail visible, sans devoir fermer les yeux.",
+                "Le décrire brièvement pour soi : un instrument, une couleur ou une phrase entendue.",
+                "Lorsque l'attention repart, choisir librement d'y revenir ou de faire une autre pause."
+              ],
+              "benefit": "Un détail peut offrir un point de retour à l'activité présente. Cet appui général ne promet ni silence des pensées ni détente ; il peut être abandonné s'il ne convient pas."
+            },
+            {
+              "heading": "Porter la gêne au suivi",
+              "objective": "L'objectif est de ne pas laisser le diagnostic remplacer l'évaluation des sensations.",
+              "exercise": [
+                "Décrire la gêne familière et ce qu'elle a empêché pendant l'écoute, sans lui imposer une cause.",
+                "Si elle persiste ou change, contacter le professionnel selon les modalités convenues ; une manifestation nouvelle ou préoccupante demande une appréciation adaptée à sa présentation.",
+                "Demander avec lui ce qui doit être examiné et quelle suite convient, au lieu de prolonger seul un exercice d'apaisement."
+              ],
+              "benefit": "Le récit d'une pause peut informer les soins. Une adaptation de confort n'a pas pour rôle de traiter une situation physique qui demande une évaluation."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Un extrait de plus",
+      "ending": "Constance change de chaise et laisse le sac au sol. Ses épaules ne deviennent pas soudain légères. Elle décide pourtant de rester pour l'extrait annoncé, puis de rentrer. Au milieu du morceau, elle reconnaît une transition dont Lucile aimerait peut-être le rythme. Elle note son nom sur le programme. Une fois chez elle, elle glisse le papier dans la pochette orange et écrit au crayon : à faire écouter. Elle n'essaie pas de calculer la part de la soirée qui a été agréable. Elle a choisi une durée et un morceau, avec de la tension encore présente. Demain, Johanna doit lui faire un retour sur la première rubrique : cette soirée ne lui a pas fourni de garantie pour la réunion, et elle n'avait pas à le faire.",
+      "conclusion": "La pause de Constance reste tendue, mais elle peut en ajuster la place et la durée. Le morceau reconnu demeure un intérêt à partager, tandis que les sensations et leur évolution conservent leur place dans le suivi.",
+      "mirror": [
+        "Si Lucile entend le récit de cette soirée, elle peut demander : « Tu veux me faire écouter le passage que tu as gardé ? » Elle n'a pas à commenter la durée passée dans la salle ni à imposer une séance entière la prochaine fois. Elle peut accueillir une difficulté à se détendre sans attribuer toute sensation au diagnostic. Si Constance décrit un changement physique préoccupant, elle peut soutenir une évaluation professionnelle adaptée, au lieu de lui demander de répéter un exercice jusqu'à ce que cela passe."
+      ],
+      "clinical_focus": "Tension anxieuse pendant les pauses",
+      "sources": [
+        "oms-cddr",
+        "oms-stress-2020"
+      ],
+      "diagnostic_stage": "known",
+      "continuity": {
+        "choice": "Constance choisit un extrait supplémentaire puis rentre ; elle conserve sur la pochette orange le morceau à partager avec Lucile, sans conclure sur son état.",
+        "next": "La pochette porte maintenant le nom d'un morceau à faire écouter à Lucile. Au bureau, Johanna a une remarque réelle sur la première rubrique de remplacement ; Constance devra la traiter sans poursuivre toutes ses conséquences imaginées."
+      }
+    },
+    {
+      "number": 5,
+      "slug": "constance-pensees-sans-solution",
+      "title": "Les pensées qui reviennent sans apporter de solution",
+      "description": "L’ancienne version est repérée et le problème traité. Constance continue pourtant d’en suivre les conséquences imaginées.",
+      "context": "Une version ancienne de la rubrique",
+      "topics": [
+        "Pensées répétitives",
+        "Question traitée",
+        "Limites du relais"
+      ],
+      "clinical_intro": "Revenir sur une difficulté peut aider à la résoudre lorsqu'une question précise reste ouverte. Mais la pensée peut continuer après la réponse, puis passer à d'autres conséquences possibles. Dans un tableau anxieux et dépressif mixte, cette persistance peut prendre une place pénible et décourageante. Distinguer le fait traité de l'incertitude restante préserve les actions utiles sans exiger une certitude totale.",
+      "opening": "Johanna pose deux impressions devant Constance. L'une porte encore un ancien nom de rubrique. « J'ai retrouvé ça dans le dossier d'archives. Il faut éviter qu'il parte avec la version d'essai. » Elles reprennent le rangement, vérifient quelle version est utilisée et mettent à part celle qui ne doit pas être diffusée. La remarque était fondée et la correction nécessaire. Constance inscrit une question : qui gardera l'emplacement de référence après la présentation ?\n\nPuis elle regarde de nouveau l'ancienne feuille. Un collègue aurait pu s'y fier. Il aurait pu demander à la mauvaise personne, qui aurait été absente, puis renoncer à poser sa question. Elle imagine maintenant une erreur dans une future rubrique qui n'existe pas encore. Johanna lui montre l'exemplaire correct. Constance le reconnaît. Elle lui a déjà demandé où elle l'avait trouvé ; elle s'apprête à le demander une autre fois. Ce qu'elle voudrait obtenir n'est plus seulement une adresse de dossier.\n\n« Je suis au stade du recours contre le problème résolu », dit-elle. Johanna sourit, puis revient à son propre écran. Elle peut participer à la décision de rangement, pas reprendre chaque possibilité pendant tout le déjeuner. Constance entend cette limite sans avoir reçu de garantie absolue. Le nom de trouble anxieux et dépressif mixte, expliqué au rendez-vous, lui donne un sujet pour parler au professionnel de ces pensées qui persistent ; il ne lui dit pas quelles règles de travail choisir. Elle se sent découragée devant le projet, comme si une feuille périmée rendait toutes les suivantes inutiles. La question de rangement est encore réelle. Les procès qu'elle déroule autour n'en font pas avancer la réponse.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Quand la réflexion ne produit plus d’information",
+          "text": "Une pensée répétitive peut se distinguer d'une recherche de solution par ce qu'elle apporte à la question du moment. L'OMS décrit notamment des inquiétudes difficiles à contrôler dans le trouble anxieux et dépressif mixte. Le retour de Constance vers l'erreur passée est une forme narrative possible de cette préoccupation, sans caractère obligatoire ni exclusif du diagnostic. Le problème initial n'était pas imaginaire : il fallait identifier la version utilisable. Une fois ce point clarifié, parcourir des scénarios de plus en plus éloignés lui coûte du temps et lui fait perdre l'élan pour la suite. Cela ne démontre pas un autre trouble. Les appuis généraux du guide OMS sur le stress invitent à reconnaître une pensée et à choisir une action utile au présent ; ils ne demandent pas d'interdire de penser ou de supprimer un contrôle de paie requis."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment la pensée répétitive déborde-t-elle la question ?",
+          "points": [
+            {
+              "heading": "Revenir au fait clarifié",
+              "text": "Le fait connu ne devient pas plus précis, mais la pensée le remet au premier plan. Une nouvelle information justifierait de rouvrir la question ; elle n'apparaît pas ici.",
+              "examples": [
+                "Constance regarde l'ancienne feuille après avoir identifié avec Johanna celle qui sera utilisée.",
+                "Elle s'apprête à redemander l'emplacement dont elles viennent de confirmer le contenu."
+              ]
+            },
+            {
+              "heading": "Élargir les conséquences imaginées",
+              "text": "La réflexion se déplace vers des scénarios nouveaux, sans lien avec une décision accessible maintenant. Chaque réponse semble appeler un autre cas.",
+              "examples": [
+                "Elle passe du collègue qui aurait lu l'ancienne version à une absence supposée du mauvais interlocuteur.",
+                "Elle imagine déjà une erreur dans une rubrique que les deux collègues n'ont pas encore rédigée."
+              ]
+            },
+            {
+              "heading": "Perdre l’élan devant une fin introuvable",
+              "text": "La tâche semble interminable lorsque aucune réponse n'est assez étendue pour couvrir toutes les possibilités. Le découragement s'ajoute alors à l'appréhension.",
+              "examples": [
+                "Une correction faite lui donne l'impression qu'il faudrait reprendre tout le projet.",
+                "Au lieu de déjeuner puis de préparer l'essai, elle reste devant la feuille avec l'impression de n'avoir rien réglé."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour retrouver la question du moment",
+          "points": [
+            {
+              "heading": "Séparer le fait et la question ouverte",
+              "objective": "L'objectif est de rendre visible ce qui est établi sans prétendre tout prévoir.",
+              "exercise": [
+                "Écrire une phrase factuelle : la bonne version est identifiée pour l'essai.",
+                "Écrire à part la question encore ouverte, ici l'emplacement de référence après présentation.",
+                "Quand la pensée revient, regarder si elle apporte une information nouvelle à cette question, sans exiger qu'elle cesse."
+              ],
+              "benefit": "La distinction peut rendre un problème abordable. La feuille n'est pas un certificat d'absence de risque et n'a pas à être relue pour obtenir une assurance parfaite."
+            },
+            {
+              "heading": "Choisir une action limitée et utile",
+              "objective": "L'objectif est de faire avancer le rangement réel plutôt que toutes ses conséquences possibles.",
+              "exercise": [
+                "Définir avec la personne concernée la décision qui manque pour l'essai.",
+                "Accomplir l'action convenue, comme retirer l'ancienne feuille de l'ensemble à diffuser.",
+                "Laisser le prochain arbitrage à son moment prévu et reprendre l'activité suivante, en maintenant les vérifications requises."
+              ],
+              "benefit": "Une fin concrète peut marquer l'avancement du travail même si le doute demeure. Elle ne remplace pas les règles professionnelles par une consigne de lâcher prise."
+            },
+            {
+              "heading": "Parler du retour des pensées au professionnel",
+              "objective": "L'objectif est de porter le coût de la boucle dans l'aide engagée.",
+              "exercise": [
+                "Choisir un retour précis de la pensée après une question traitée.",
+                "Décrire ce qu'il prend comme temps et ce qu'il empêche, plutôt que demander au collègue de garantir chaque scénario.",
+                "Reprendre cet exemple avec le professionnel et discuter de l'aide adaptée si cela continue de peser."
+              ],
+              "benefit": "Ce déplacement garde au collègue son rôle et au soin son espace. Les limites de Johanna ne mesurent pas l'importance de la souffrance de Constance."
+            }
+          ]
+        }
+      ],
+      "ending_title": "La feuille reste au bureau",
+      "ending": "Constance retire l'exemplaire ancien du paquet d'essai avec Johanna. Elles laissent sur une note la décision de rangement à confirmer. « Celle-là, on peut vraiment la poser au responsable », dit Johanna. Constance acquiesce. En prenant son manteau pour acheter son déjeuner, elle revoit le salarié imaginaire devant la mauvaise rubrique. Elle ne trouve pas d'élément neuf dans ce retour. Elle le laisse exister sans reprendre la conversation. Sur sa feuille personnelle pour le suivi, elle note seulement combien la question traitée reste présente. Le dossier demeure sur le bureau. Une lecture d'essai est fixée ; elle portera sur ce que les collègues comprennent, pas sur toutes les erreurs qu'aucune page ne pourrait garantir d'éviter.",
+      "conclusion": "Le problème de version reçoit une correction, tandis que la pensée peut encore revenir. Constance distingue une décision de rangement à prendre et une préoccupation à discuter dans le soin ; Johanna conserve un relais de travail avec des limites.",
+      "mirror": [
+        "Johanna peut dire : « La version de l'essai est celle-ci. Je peux décider avec toi du rangement, puis je dois reprendre mon travail. » Cette réponse porte sur le fait et sur sa disponibilité. Elle peut refuser de garantir que personne ne se trompera jamais, sans ridiculiser l'inquiétude. Constance reste libre de parler ou non de son suivi. Si elle en évoque le besoin, Johanna peut soutenir ce recours tout en laissant au professionnel l'appréciation des pensées répétitives et de leur retentissement."
+      ],
+      "clinical_focus": "Pensées répétitives sans solution nouvelle",
+      "sources": [
+        "oms-cddr",
+        "oms-stress-2020"
+      ],
+      "diagnostic_stage": "known",
+      "continuity": {
+        "choice": "L'ancienne version est retirée du paquet d'essai ; la question de rangement est isolée. Constance part déjeuner malgré la pensée récurrente et en garde un exemple pour le suivi.",
+        "next": "La bonne version est identifiée et la question de rangement est isolée. Une lecture d'essai est prévue ; le prochain obstacle sera de suivre ce qui est effectivement écrit lorsque les pensées captent encore son attention."
+      }
+    },
+    {
+      "number": 6,
+      "slug": "constance-attention-detournee",
+      "title": "L’attention détournée au milieu d’une phrase",
+      "description": "Constance vient de lire la rubrique et n’en retrouve plus le sens. Johanna attend une réponse, tandis qu’elle pense déjà à la réunion.",
+      "context": "Une lecture d’essai avec Johanna",
+      "topics": [
+        "Attention détournée",
+        "Préoccupation",
+        "Reprendre le fil"
+      ],
+      "clinical_intro": "Une préoccupation peut occuper l'attention au moment même où l'on lit ou écoute. La personne a parcouru les mots, mais ne retrouve plus ce qu'ils disaient. Cette difficulté située ne suffit pas à conclure à un déficit ni à un nouveau diagnostic. Lorsqu'elle se répète ou s'étend, sa place et son retentissement méritent d'être discutés dans le suivi.",
+      "opening": "Johanna a posé le document d'essai entre elles. Aucun nom de salarié ni donnée personnelle n'y figure : elles cherchent seulement à savoir si le chemin vers un relais est compréhensible. Constance lit la première phrase et suit le bord de la feuille du doigt. Johanna demande où chercher le nom de la personne à contacter. La phrase est encore devant elle, pourtant Constance ne peut pas redire ce qu'elle vient de lire.\n\nElle pensait à l'avis du responsable. Il pourrait demander pourquoi le document est si court ; il pourrait aussi le trouver trop long. Puis elle s'était demandé si tout cela servirait à quelqu'un. Au retour de ces pensées, elle a perdu la question. « Il faudrait peut-être tout reformuler », propose-t-elle. Johanna lui demande quelle partie. Constance regarde le paragraphe. Elle n'a pas de réponse précise.\n\nDans la cour, un véhicule recule ; le signal sonore cesse, et le silence lui permet d'entendre ce qui manque dans son raisonnement. Elle accuse le texte avant d'avoir vérifié qu'elle l'a compris. « Je suis passée à la réunion suivante sans correspondance », dit-elle. Johanna attend qu'elle précise. Constance ajoute : « Je ne t'écoutais plus. Tu peux redire ta question ? » La demande lui coûte un peu, mais moins que de soutenir une correction sans motif. Ce moment ne résume pas toutes ses capacités ni toutes ses journées. Il rend visible une difficulté qu'elle pourra raconter dans le suivi du trouble anxieux et dépressif mixte. Pour l'instant, il y a une seule question de lecture, dans une salle où quelqu'un peut la redire.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Retrouver le contenu avant de le corriger",
+          "text": "L'attention disponible dans une situation peut varier et être détournée par une préoccupation. Chez Constance, c'est le décalage entre les mots parcourus et le sens retenu qui apparaît pendant l'essai. La scène ne mesure pas ses capacités cognitives et ne prouve pas que son diagnostic explique toute difficulté de lecture. Les descriptions cliniques des tableaux dépressifs abordent l'attention ; elles ne permettent pas, à partir de ce passage, de lui attribuer un épisode dépressif complet. L'histoire, les circonstances et la répétition éventuelle restent à apprécier avec le professionnel. Les principes d'évaluation globale de NICE invitent à tenir compte du retentissement quotidien. Ici, un appui de lecture rend l'essai possible, tandis que la question de santé demeure distincte de la qualité du document."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment l’attention détournée gêne-t-elle cet essai ?",
+          "points": [
+            {
+              "heading": "Parcourir sans retenir le sens",
+              "text": "Les yeux peuvent suivre une phrase pendant que la pensée est ailleurs. La présence des mots devant soi ne garantit pas qu'on les a intégrés.",
+              "examples": [
+                "Constance arrive au bout de la rubrique sans savoir redire où figure le relais.",
+                "Elle retrouve la ligne suivie du doigt, mais doit la relire pour comprendre ce qu'elle indique."
+              ]
+            },
+            {
+              "heading": "Perdre la question entendue",
+              "text": "L'échange devient difficile lorsque la question disparaît derrière une anticipation. Demander qu'elle soit répétée donne une information plus juste que répondre à côté.",
+              "examples": [
+                "Elle imagine l'avis du responsable pendant que Johanna demande un emplacement précis.",
+                "Elle propose une réécriture générale sans pouvoir nommer ce qui ne répond pas à la demande."
+              ]
+            },
+            {
+              "heading": "Dépenser davantage pour reprendre",
+              "text": "Revenir au présent peut demander un effort et susciter du découragement. Cet effort ne dit pas que la personne manque de compétence.",
+              "examples": [
+                "Constance doit distinguer ce que Johanna a demandé de la réunion qu'elle imaginait.",
+                "Elle éprouve de la gêne à faire répéter une phrase simple alors qu'elle connaît le projet depuis son début."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour reprendre un fil de lecture",
+          "points": [
+            {
+              "heading": "Revenir à une question unique",
+              "objective": "L'objectif est de rendre l'essai de compréhension assez limité pour savoir ce qu'on cherche.",
+              "exercise": [
+                "Dire quelle question a été perdue et demander qu'elle soit redite.",
+                "Choisir ensemble la partie du document d'essai concernée, sans ouvrir les autres rubriques.",
+                "Chercher la réponse à cette question puis faire une pause ou passer à la suivante d'un commun accord."
+              ],
+              "benefit": "Une unité de lecture peut faciliter la reprise. Elle n'est pas une évaluation cognitive et ne justifie pas de réduire une vérification professionnelle obligatoire."
+            },
+            {
+              "heading": "Reformuler avant de modifier",
+              "objective": "L'objectif est de distinguer une formulation difficile d'un moment d'attention absente.",
+              "exercise": [
+                "Redire avec ses mots ce qu'indique la phrase après l'avoir relue.",
+                "Demander au lecteur d'essai si cette reformulation correspond à ce qu'il cherchait.",
+                "Modifier seulement le passage dont la difficulté est précisée, et garder le reste en l'état s'il répond à l'essai."
+              ],
+              "benefit": "Cette étape peut éviter une réécriture menée sans problème identifié. Elle permet aussi de conserver une vraie remarque sur le texte sans tout attribuer à la santé."
+            },
+            {
+              "heading": "Décrire une répétition au suivi",
+              "objective": "L'objectif est de faire examiner une difficulté qui dépasserait ce moment isolé.",
+              "exercise": [
+                "Garder un exemple de perte du fil et le contexte dans lequel elle s'est produite.",
+                "Noter ce que cela change concrètement, sans fabriquer un inventaire de performances ou se tester sans cesse.",
+                "En parler au professionnel si cela se répète, s'étend ou devient préoccupant, afin de discuter l'évaluation nécessaire."
+              ],
+              "benefit": "Un exemple situé renseigne mieux qu'un verdict sur son intelligence. Le suivi peut examiner d'autres facteurs ; le diagnostic connu ne clôt pas cette recherche."
+            }
+          ]
+        }
+      ],
+      "ending_title": "La question redite",
+      "ending": "Johanna répète : « À qui j'adresse la demande si la personne habituelle est absente ? » Constance relit et trouve la rubrique. Cette fois elle peut expliquer le trajet. Une expression reste ambiguë ; elles la signalent pour la simplifier. Le reste n'a pas besoin d'être refait. « Donc il y avait une phrase à corriger et une voyageuse à récupérer », dit Constance. Johanna lui rend la feuille pour qu'elle y marque leur décision. L'essai peut être transmis au responsable avec la question de rangement déjà isolée. Constance garde pour son suivi une ligne sur l'attention partie vers une réunion future. Elle n'en tire pas un jugement sur tout son travail. Le dossier pourra attendre la rencontre prévue ; elle sort du bureau avec une tâche définie, plutôt qu'un texte entier devenu suspect.",
+      "conclusion": "La perte du fil montre ici où l'attention est partie et l'effort pour revenir. Une question répétée et une reformulation suffisent à poursuivre l'essai ; leur utilité pratique laisse ouverte l'évaluation d'une difficulté qui se répéterait.",
+      "mirror": [
+        "Johanna peut répondre simplement : « Je redis la question, puis on regarde cette partie. » Elle n'a pas à interroger Constance sur la cause de son absence d'attention. Elle peut maintenir un retour réel sur une phrase ambiguë et préciser qu'elle dispose d'un temps limité pour l'essai. Si Constance lui parle de pertes du fil répétées, elle peut soutenir leur discussion avec le professionnel. Faire répéter ne donne pas à la collègue un rôle de test ni une raison de vérifier chaque conversation suivante."
+      ],
+      "clinical_focus": "Attention détournée par la préoccupation",
+      "sources": [
+        "oms-cddr",
+        "nice-depression-constance"
+      ],
+      "diagnostic_stage": "known",
+      "continuity": {
+        "choice": "Constance fait répéter la question, retrouve la rubrique et isole une seule phrase à simplifier ; l'essai est prêt pour le responsable.",
+        "next": "La rubrique est testée et une phrase reste à simplifier. Le dossier peut attendre la réunion prévue ; une nuit hachée montrera cependant que l'attention et l'énergie ne dépendent pas uniquement du document."
+      }
+    },
+    {
+      "number": 7,
+      "slug": "constance-sommeil-fatigue",
+      "title": "La fatigue après une nuit à reprendre au suivi",
+      "description": "Une livraison a réveillé Constance, puis les pensées ont occupé la nuit. Au matin, elle ajuste sa promenade sans conclure sur la cause.",
+      "context": "Un matin après une nuit hachée",
+      "topics": [
+        "Sommeil interrompu",
+        "Fatigue située",
+        "Réévaluation"
+      ],
+      "clinical_intro": "Une nuit interrompue peut rendre la matinée plus difficile, mais le contexte d'un réveil et l'histoire des difficultés comptent pour en comprendre la place. Dans un suivi anxieux et dépressif, sommeil et énergie peuvent être réexaminés sans attribuer toute fatigue au diagnostic connu. Décrire ce qui s'est passé et ajuster une exigence facultative sont des appuis, pas un traitement du sommeil.",
+      "opening": "Le camion de livraison est parti depuis plusieurs heures. Constance se rappelle encore le bruit des roues sur les pavés, puis le volet métallique que quelqu'un avait relevé trop vite. Après ce réveil, elle avait attendu le sommeil en pensant à la réunion. Elle ne sait pas combien de temps elle est restée éveillée. Elle a ensuite dormi par morceaux et retrouvé le matin avec l'impression d'être déjà en retard sur son énergie.\n\nL'appareil photo est posé près d'une tasse. Elle l'avait sorti la veille pour la promenade enfin prévue avec Lucile. Du pain grille dans la cuisine ; le simple trajet vers la rue du cinéma lui paraît maintenant lourd. Elle laisse l'appareil sur la table et regarde l'enseigne d'en face à travers la vitre. Un coin de lettre disparaît derrière le reflet de sa propre lampe. « Aujourd'hui, le service des déplacements fonctionne à domicile », pense-t-elle, sans trouver cela très drôle.\n\nElle pourrait appeler cette fatigue par le nom qu'elle connaît depuis la consultation. Pourtant le bruit a compté, les pensées aussi, et elle ne sait pas quelle place donner à chaque élément. Elle retrouve la feuille où sont notés le prochain rendez-vous et le contact convenu. Elle n'a pas à inventer seule une explication avant de raconter cette nuit. Sur son téléphone, Lucile demande si elles maintiennent l'heure. Constance cherche une réponse qui parle de ce matin, sans annuler toutes les promenades à venir ni promettre qu'une sieste réglerait tout. Elle commence par dire qu'elle a peu dormi et que la sortie longue est trop exigeante aujourd'hui.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Une nuit constitue une information, pas un verdict",
+          "text": "Le sommeil, l'énergie et l'humeur peuvent se modifier ensemble, mais une fatigue ne renseigne pas à elle seule sur son origine. Chez Constance, un bruit a interrompu la nuit, puis les préoccupations ont occupé une partie de l'attente. Le médecin pourra mettre ce récit en rapport avec son état général et avec les autres moments. Les descriptions de l'OMS relatives aux épisodes dépressifs abordent sommeil et énergie ; elles ne permettent pas d'attribuer ici un épisode complet ou un trouble du sommeil supplémentaire. Le suivi du trouble anxieux et dépressif mixte reste ouvert aux facteurs de santé et de vie. Les principes d'évaluation globale de NICE aident à penser cette reprise. Ni une nuit difficile ni le report d'une promenade ne suffisent à reclasser le tableau, et aucune routine présentée ici ne prétend soigner son sommeil."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment cette nuit pèse-t-elle sur la matinée ?",
+          "points": [
+            {
+              "heading": "Attendre sans retrouver facilement le repos",
+              "text": "Un réveil peut être suivi de préoccupations qui rendent l'attente pénible. Leur présence dans cette nuit ne permet pas d'en déduire une règle pour les suivantes.",
+              "examples": [
+                "Après le camion, Constance imagine les questions de la réunion alors que le bruit a cessé.",
+                "Elle se souvient de plusieurs moments d'éveil sans pouvoir en donner une durée exacte."
+              ]
+            },
+            {
+              "heading": "Commencer avec moins de disponibilité",
+              "text": "La fatigue est ici racontée par ce qu'elle change dans un matin concret. Elle reste à mettre en contexte plutôt qu'à attribuer automatiquement au diagnostic.",
+              "examples": [
+                "Préparer la sortie lui paraît déjà lourd devant le petit déjeuner.",
+                "Elle regarde l'appareil préparé la veille et ne se sent pas disponible pour le trajet prévu."
+              ]
+            },
+            {
+              "heading": "Réduire une activité personnelle",
+              "text": "Une activité choisie peut demander trop ce jour-là sans perdre toute sa valeur. Son ajustement ne doit pas effacer le changement à discuter.",
+              "examples": [
+                "Constance laisse le sac photo sur la table au lieu de le préparer pour la promenade longue.",
+                "L'enseigne vue depuis sa fenêtre lui offre une possibilité plus proche, qu'elle hésite encore à considérer comme valable."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour décrire la nuit et ajuster la journée",
+          "points": [
+            {
+              "heading": "Garder un récit simple de la nuit",
+              "objective": "L'objectif est de transmettre un contexte sans surveiller chaque minute de sommeil.",
+              "exercise": [
+                "Noter une fois le réveil lié au bruit et ce qui a occupé l'attente ensuite.",
+                "Décrire l'effet du matin sur une activité, en acceptant de ne pas savoir la durée précise des éveils.",
+                "Conserver cet exemple pour l'échange professionnel plutôt que le transformer en bilan quotidien obligatoire."
+              ],
+              "benefit": "Un récit bref peut soutenir la discussion clinique. Il n'est ni un test d'insomnie ni une méthode pour produire une nuit correcte."
+            },
+            {
+              "heading": "Ajuster une exigence facultative",
+              "objective": "L'objectif est de choisir ce qui reste possible sans se mettre à l'épreuve.",
+              "exercise": [
+                "Repérer une activité optionnelle devenue trop lourde, ici la promenade longue.",
+                "Choisir entre la reporter, la raccourcir ou faire une photo depuis un lieu proche, selon son envie réelle.",
+                "Prévenir la personne concernée et lui laisser aussi le choix de son programme."
+              ],
+              "benefit": "Réduire une exigence peut préserver une marge ce matin. Cela ne promet pas plus d'énergie ensuite et ne se substitue pas aux obligations de sécurité d'une activité professionnelle."
+            },
+            {
+              "heading": "Reprendre la question avec le professionnel",
+              "objective": "L'objectif est de faire apprécier une gêne qui persiste, se répète ou s'accompagne d'un changement préoccupant.",
+              "exercise": [
+                "Reprendre les modalités de contact convenues au rendez-vous, sans attendre une preuve diagnostique personnelle.",
+                "Dire le changement de sommeil, la fatigue et leur retentissement ; si la situation est préoccupante, solliciter une appréciation adaptée sans se limiter à une adaptation domestique.",
+                "Discuter avec le professionnel des éléments à examiner et de la suite, en gardant le rendez-vous prévu."
+              ],
+              "benefit": "Cette discussion laisse une place à d'autres facteurs et à l'évolution. Elle évite de faire du diagnostic déjà connu l'explication automatique d'un symptôme nouveau."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Une photo depuis la fenêtre",
+      "ending": "Constance prévient Lucile qu'elle reporte la longue promenade et lui propose de choisir une autre date ensemble. Elle garde le rendez-vous médical prévu et ajoute l'exemple de cette nuit à sa feuille ; elle sait qu'elle peut contacter plus tôt si cela se répète ou l'inquiète. Puis elle prend l'appareil sans mettre son manteau. Dans la vitre, le reflet de la lampe coupe une lettre et transforme l'enseigne en mot presque comique. Elle fait une photo et l'envoie à Lucile : « Déplacement limité à trois pas. » La réponse parle du reflet, pas de la qualité de sa nuit. Constance reste fatiguée. Une image a tout de même été choisie, tandis que l'explication de la fatigue demeure à reprendre dans le bon cadre.",
+      "conclusion": "La nuit hachée modifie ce matin sans expliquer toute l'évolution de Constance. Une sortie reportée, une photo proche et un exemple pour le suivi permettent de faire place à la fatigue sans lui attribuer seule un nouveau diagnostic.",
+      "mirror": [
+        "Lucile peut répondre : « Je peux faire la grande promenade de mon côté et on choisira une autre date. Tu veux qu'on se parle plus tard ? » Elle respecte le report sans imposer de repos surveillé ni de conseil sur les médicaments. Une photo envoyée ne prouve pas que la fatigue a disparu. Si Constance rapporte des nuits qui se répètent ou un changement préoccupant, Lucile peut soutenir le contact professionnel ; elle reste une amie, libre de son propre programme, et non la responsable de son sommeil."
+      ],
+      "clinical_focus": "Sommeil et fatigue à réévaluer",
+      "sources": [
+        "oms-cddr",
+        "nice-depression-constance"
+      ],
+      "diagnostic_stage": "known",
+      "continuity": {
+        "choice": "Constance garde le suivi, note la nuit et sa fatigue, reporte la longue sortie avec Lucile et prend une photo depuis la fenêtre ; aucune cause unique n'est fixée.",
+        "next": "La mauvaise nuit sera reprise au suivi ; aucune explication n'a été imposée. La photo depuis la fenêtre offre à Lucile un prétexte de conversation, mais Constance risque de transformer cet essai modeste en nouveau motif de reproche envers elle-même."
+      }
+    },
+    {
+      "number": 8,
+      "slug": "constance-autocritique-decouragement",
+      "title": "L’autocritique qui réduit une action à ce qui manque",
+      "description": "Lucile voit un reflet amusant sur la photo. Constance n’y voit d’abord que la promenade qu’elle n’a pas faite.",
+      "context": "Une soirée autour de la photo et du disque",
+      "topics": [
+        "Autocritique située",
+        "Découragement",
+        "Bienveillance envers soi"
+      ],
+      "clinical_intro": "Un jugement sévère peut prendre la place du récit d'une difficulté et rendre la prochaine action moins accessible. La personne ne voit plus ce qu'elle a choisi, seulement ce qui manque. Dans un tableau anxieux et dépressif mixte, ce découragement mérite d'être entendu sans conclure à une conviction générale d'indignité. Chercher des mots moins durs reste une possibilité, sans obligation de se sentir mieux.",
+      "opening": "Quelques jours après la photo prise depuis la fenêtre, Lucile vient boire quelque chose chez Constance. Le disque orange repose enfin près de la platine. Elles ne l'ont pas encore écouté ensemble. Lucile agrandit l'image sur le téléphone et montre le reflet de la lampe : on dirait que l'enseigne porte un chapeau. Constance regarde le coin où la lettre disparaît. « C'est surtout la preuve que je n'ai même plus le courage de traverser ma rue. »\n\nLa phrase la surprend après coup. Elle n'aurait pas répondu cela à Lucile si celle-ci avait reporté une sortie après une mauvaise nuit. La fatigue de ce matin-là avait été réelle ; elle l'a gardée pour le suivi. Mais sur l'image, elle ne voit plus une adaptation choisie. Elle voit une version diminuée d'une journée qu'elle aurait dû mieux remplir. Lucile pose le téléphone et ne proteste pas immédiatement. « Tu voulais sortir davantage, c'est ça ? »\n\nConstance acquiesce. Puis elle ajoute qu'on pourrait écouter le disque une autre fois, quand elle serait de meilleure compagnie. La pochette orange se trouve à portée de sa main ; elle paraît attendre une autorisation administrative. « Il manque le certificat de soirée méritée », dit-elle. La formule lui montre un peu l'exigence qu'elle vient de fabriquer. Elle peut être déçue d'avoir moins fait, sans devoir retirer aussi la musique et la présence de Lucile. Cette distinction ne lui vient pas encore avec conviction. Elle la laisse sur la table, à côté des verres, pendant que son amie lui demande si elle souhaite parler ou choisir une face du disque.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Du fait au verdict sur soi",
+          "text": "L'autocritique peut transformer un fait limité en jugement sévère sur sa manière d'agir. Dans cette soirée, Constance passe de « j'ai réduit une sortie après une nuit difficile » à « je n'ai même plus le courage ». La déception devient plus décourageante lorsque la photo est effacée par ce qu'elle n'a pas fait. Cela ne permet pas d'attribuer une dévalorisation globale et persistante ni un autre trouble dépressif. Le professionnel pourra examiner la place de ces paroles dans son expérience du tableau mixte. Le guide OMS sur le stress propose de reconnaître les pensées qui entraînent et de se parler avec bienveillance ; il s'agit d'un appui général, pas d'une preuve que cette formulation précise traitera le 6A73. La douceur possible ne doit pas devenir une nouvelle performance que Constance devrait réussir."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment l’autocritique alourdit-elle cette soirée ?",
+          "points": [
+            {
+              "heading": "Effacer ce qui a été fait",
+              "text": "Une action réelle est jugée uniquement par rapport à l'action plus grande qui manque. Le regret peut être reconnu sans supprimer toute valeur au choix effectué.",
+              "examples": [
+                "Constance ne parle pas d'abord du reflet qu'elle a cadré, mais de la rue qu'elle n'a pas traversée.",
+                "La photo devient dans sa phrase une preuve d'insuffisance plutôt qu'une image qu'elle a voulu prendre."
+              ]
+            },
+            {
+              "heading": "Comparer durement avec son habitude",
+              "text": "La comparaison avec un fonctionnement plus facile peut accroître le découragement. Le changement est réel à discuter, mais il ne définit pas la personne.",
+              "examples": [
+                "Elle se mesure à la Constance qui aurait fait tout le tour du quartier avec son appareil.",
+                "Elle emploie le mot « courage » pour juger une matinée où elle avait décrit surtout de la fatigue."
+              ]
+            },
+            {
+              "heading": "Faire du plaisir une récompense conditionnelle",
+              "text": "L'exigence envers soi peut reporter une activité accessible jusqu'à une version supposée meilleure de la personne. L'envie déjà faible rencontre alors une condition supplémentaire.",
+              "examples": [
+                "Elle propose de garder le disque pour un jour où elle serait de meilleure compagnie.",
+                "Elle hésite à poser le disque sur la platine comme si l'absence de promenade devait encore être compensée."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour desserrer un jugement trop dur",
+          "points": [
+            {
+              "heading": "Redire le fait sans verdict",
+              "objective": "L'objectif est de distinguer le changement vécu du jugement porté sur sa personne.",
+              "exercise": [
+                "Repérer la phrase exacte qui fait mal, ici « je n'ai même plus le courage ».",
+                "Décrire ce qui s'est passé : une nuit difficile, une promenade reportée et une photo depuis la fenêtre.",
+                "Garder le regret si on le ressent, sans l'ajouter comme preuve de défaut personnel."
+              ],
+              "benefit": "Une description précise peut laisser davantage de place aux choix. Elle ne demande ni de nier une difficulté ni de considérer toute petite action comme un succès."
+            },
+            {
+              "heading": "Essayer une réponse moins dure",
+              "objective": "L'objectif est de disposer d'une autre façon de se parler, même si elle ne paraît pas immédiatement convaincante.",
+              "exercise": [
+                "Se demander ce qu'on pourrait dire à une amie ayant vécu cette même matinée.",
+                "Choisir une phrase sobre qu'on accepte d'essayer pour soi, par exemple « C'était moins que prévu, et c'était possible ce jour-là ».",
+                "Décider d'une activité maintenant disponible sans attendre d'avoir mérité l'instant."
+              ],
+              "benefit": "Cette adaptation du soutien bienveillant peut réduire une condition ajoutée au plaisir. Elle ne garantit pas une émotion différente et peut être discutée si elle sonne faux."
+            },
+            {
+              "heading": "Apporter la phrase dans l’aide engagée",
+              "objective": "L'objectif est de faire entendre au professionnel la manière dont un changement devient un reproche.",
+              "exercise": [
+                "Conserver un exemple de phrase dure et la situation précise à laquelle elle répondait.",
+                "Dire ce qu'elle conduit à ajourner, comme la musique ou une invitation.",
+                "Discuter cet exemple dans l'aide convenue et demander un appui adapté si le découragement prend plus de place."
+              ],
+              "benefit": "Le soin peut accueillir ce rapport à soi sans demander à Lucile d'en contester chaque mot. Un exemple ne devient pas un diagnostic supplémentaire."
+            }
+          ]
+        }
+      ],
+      "ending_title": "La face choisie sans certificat",
+      "ending": "Constance reprend le téléphone. « J'aurais voulu sortir. J'ai quand même choisi ce cadrage-là. » Elle n'essaie pas de trouver la photo extraordinaire ; le reflet lui plaît assez pour la garder. Puis elle pose le disque sur la platine. Lucile préfère le second morceau à celui noté après la médiathèque. « Réclamation recevable », répond Constance. Le désaccord léger remet entre elles autre chose que l'évaluation de son état. Elles conviennent d'une promenade courte le samedi suivant, avec la possibilité de rentrer tôt. Constance note la phrase sur le courage pour en parler dans l'aide engagée. Elle reste déçue de certaines journées, mais la musique ne doit plus attendre qu'une journée les ait toutes réparées.",
+      "conclusion": "L'autocritique peut ajouter une condition au lien et au plaisir déjà difficiles à rejoindre. Constance conserve le regret, la photo et une phrase à discuter en soins ; le disque peut être partagé avant qu'elle se sente redevenue comme avant.",
+      "mirror": [
+        "Lucile peut relever le fait sans contester de force le ressenti : « Tu avais envie d'aller plus loin, et tu as choisi cette image. Tu veux qu'on écoute le disque maintenant ? » Elle peut accepter un refus et parler aussi de ses propres goûts. Elle n'a pas à produire une liste de qualités jusqu'à convaincre Constance. Si ces reproches reviennent et rétrécissent les activités, elle peut encourager leur discussion dans l'aide professionnelle, sans transformer chaque soirée en entretien sur la santé."
+      ],
+      "clinical_focus": "Autocritique qui entretient le découragement",
+      "sources": [
+        "oms-cddr",
+        "oms-stress-2020"
+      ],
+      "diagnostic_stage": "known",
+      "continuity": {
+        "choice": "Constance reconnaît la photo comme un choix possible, écoute le disque avec Lucile et convient d'une sortie courte samedi ; une phrase d'autocritique sera reprise dans l'aide engagée.",
+        "next": "Le disque a été écouté et une sortie courte est convenue. Constance n'a pas besoin de démontrer qu'elle va mieux pour s'y rendre, mais l'approche du rendez-vous rend visible son envie de se retirer."
+      }
+    },
+    {
+      "number": 9,
+      "slug": "constance-retrait-relations",
+      "title": "L’envie de se retirer d’un lien qui compte encore",
+      "description": "Le message d’annulation est prêt. Constance redoute de peser sur Lucile, alors qu’elle tient toujours à leur promenade.",
+      "context": "Avant de rejoindre Lucile pour les photos",
+      "topics": [
+        "Retrait relationnel",
+        "Appréhension",
+        "Présence choisie"
+      ],
+      "clinical_intro": "L'appréhension et le moindre élan peuvent conduire à se retirer d'un rendez-vous avec une personne à laquelle on reste attaché. Le retrait peut alors réduire les occasions de lien, sans traduire un désintérêt pour l'autre. Un format discuté peut rendre une rencontre envisageable ; il doit conserver le droit de refuser, d'écourter et de chercher une aide si les difficultés persistent.",
+      "opening": "Le message commence par « Je suis désolée ». Constance l'a tapé devant sa porte, son sac photo déjà sur l'épaule. Le samedi est arrivé avec une lumière fine sur les vitrines, exactement celle dont Lucile avait parlé pendant l'écoute du disque. Elles ont convenu d'une sortie courte. Pourtant, en cherchant ses clés, Constance s'est imaginée silencieuse pendant tout le trajet, puis Lucile essayant de l'animer, puis une séparation déçue. Elle a préparé l'annulation avant d'avoir échangé un mot ce matin.\n\nDepuis la fenêtre du palier, elle aperçoit le carrefour où son amie attend. Lucile lit quelque chose sur un panneau et ne regarde pas sa montre. Elle ne connaît pas le texte encore non envoyé. Constance n'a pas cessé de vouloir la voir ; elle aimerait seulement arriver avec plus d'envie et moins d'inquiétude. Son appareil lui semble de nouveau lourd, mais elle reconnaît une affiche ancienne dans la rue qu'elle aurait envie de lui montrer. Les deux mouvements restent là, sans se départager proprement.\n\nElle relit le message. Il dit qu'elle ne peut pas venir, alors qu'elle ne sait pas encore si elle pourrait marcher jusqu'au cinéma puis rentrer. « Annulation préventive d'une mauvaise compagnie présumée », pense-t-elle. La formule la fait s'arrêter, pas sortir automatiquement. Le suivi du trouble anxieux et dépressif mixte lui offre un endroit pour parler de ces reculs s'ils se répètent. Ici, elle peut d'abord demander à Lucile si une seule rue lui conviendrait, sans lui promettre d'être enjouée et sans exiger qu'elle accepte.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Se retirer sans avoir cessé de tenir à l’autre",
+          "text": "Un retrait peut résulter de plusieurs difficultés qui convergent dans une situation : moins d'élan pour l'activité, appréhension de la rencontre et anticipation d'être un poids. Dans le tableau de Constance, ces dimensions anxieuses et dépressives rendent un lien important moins facile à rejoindre. Elles ne prouvent ni un autre diagnostic ni que toute annulation serait un symptôme. Un besoin réel de solitude ou une limite doit pouvoir être respecté. Les recommandations NICE sur la dépression adulte relient activités, humeur et évitement dans la présentation d'une thérapie structurée ; la négociation amicale proposée ici reste un choix ordinaire, sans ce statut thérapeutique et sans efficacité promise pour le 6A73. Le point à examiner au suivi est notamment le rétrécissement répété de ce qui compte pour elle, pas l'obligation de réussir chaque sortie."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment le retrait se prépare-t-il avant la rencontre ?",
+          "points": [
+            {
+              "heading": "Prévoir qu’on sera un poids",
+              "text": "L'anticipation d'une rencontre pénible peut sembler déjà certaine, alors qu'aucun échange n'a encore eu lieu. Elle prend la place de ce que l'autre pourrait choisir.",
+              "examples": [
+                "Constance imagine Lucile forcée de la distraire pendant toute la promenade.",
+                "Elle prévoit une amie déçue au carrefour avant de lui avoir demandé ce qui lui conviendrait."
+              ]
+            },
+            {
+              "heading": "Annuler avant de parler du format",
+              "text": "Un message ferme peut masquer une marge encore négociable. Cette marge n'est pas une obligation de venir, mais une possibilité de discussion.",
+              "examples": [
+                "Elle écrit qu'elle ne peut pas sortir alors qu'une seule rue reste peut-être envisageable.",
+                "Le format court déjà convenu disparaît de son esprit au profit d'une promenade qu'il faudrait animer parfaitement."
+              ]
+            },
+            {
+              "heading": "Hésiter malgré l’attachement",
+              "text": "L'envie faible de l'activité ne signifie pas toujours que la relation ne compte plus. L'hésitation laisse voir des souhaits et des contraintes simultanés.",
+              "examples": [
+                "Constance garde son sac à l'épaule tout en préparant l'annulation.",
+                "Elle pense à l'affiche qu'elle voudrait montrer à Lucile, puis revient à la peur de gâcher son samedi."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour discuter une présence possible",
+          "points": [
+            {
+              "heading": "Annoncer un format sans promettre une humeur",
+              "objective": "L'objectif est de dire ce qu'on envisage réellement plutôt que de jouer une version plus disponible de soi.",
+              "exercise": [
+                "Identifier ce qu'on souhaite encore, par exemple voir son amie brièvement.",
+                "Envoyer ou dire une proposition précise : « Une seule rue aujourd'hui me conviendrait, si tu en as envie. »",
+                "Écouter la réponse et garder la possibilité d'annuler si cela ne convient pas à l'une ou à l'autre."
+              ],
+              "benefit": "Une proposition concrète laisse à chacune un choix. Elle ne doit pas devenir une manière de convaincre quelqu'un de sortir malgré son refus."
+            },
+            {
+              "heading": "Convenir d’un trajet réversible",
+              "objective": "L'objectif est de faire une place réelle à la limite annoncée.",
+              "exercise": [
+                "Choisir ensemble un trajet court et un endroit où se séparer facilement.",
+                "Dire que chacune peut poursuivre seule ou rentrer, sans devoir justifier un état émotionnel.",
+                "Au point prévu, décider si l'on s'arrête ou poursuit seulement par accord, sans bilan de réussite."
+              ],
+              "benefit": "Une fin disponible peut rendre le rendez-vous plus praticable. Ce trajet consenti n'est ni une exposition prescrite ni une mesure du courage."
+            },
+            {
+              "heading": "Porter les reculs répétés dans le suivi",
+              "objective": "L'objectif est de faire entendre une réduction des liens lorsqu'elle pèse sur la vie.",
+              "exercise": [
+                "Choisir un exemple d'annulation ou d'hésitation avec son contexte et ce qui comptait dans le rendez-vous.",
+                "Décrire les occasions de lien qui deviennent moins accessibles, sans se reprocher chaque refus.",
+                "En discuter avec le professionnel pour apprécier l'évolution et l'aide nécessaire."
+              ],
+              "benefit": "Le soin peut examiner l'ensemble sans charger l'amie de maintenir seule le lien. Un rendez-vous maintenu ne prouve pas que la difficulté a disparu."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Une seule rue jusqu’au cinéma",
+      "ending": "Constance efface le message et descend. Avant de rejoindre le trottoir, elle appelle Lucile : « Je veux te voir. Je peux faire la rue du cinéma et rentrer au carrefour. Ça te va ? » Lucile accepte ; elle compte poursuivre ensuite vers une librairie. Elles marchent sans chercher à remplir tous les silences. Devant l'enseigne du cinéma, Constance trouve un cadrage où une lettre se reflète dans une vitre. La curiosité est discrète, et l'inquiétude ne s'est pas entièrement tue. Au carrefour convenu, elles se séparent. Lucile ne demande pas combien de plaisir la photo a produit. Constance garde l'image avec celle de la fenêtre. Une objection du responsable les attend au travail : cette rencontre n'aura pas à lui fournir la force de résoudre un problème qui appartient à l'organisation.",
+      "conclusion": "Le retrait peut se préparer au croisement de l'appréhension et d'un moindre élan, alors que l'attachement demeure. Constance choisit une présence limitée et consentie ; le lien se poursuit sans transformer la promenade en preuve d'amélioration.",
+      "mirror": [
+        "Lucile peut dire : « Une rue me va, puis je continuerai vers la librairie. Tu peux me prévenir si tu préfères finalement rentrer. » Elle ne promet pas de porter toute la journée et ne transforme pas l'annulation possible en faute. Elle peut parler de l'enseigne ou de son livre, sans solliciter un bilan d'humeur à la fin. Si les rendez-vous deviennent régulièrement inaccessibles et que Constance le vit mal, elle peut soutenir le recours au professionnel, en conservant des limites et ses propres activités."
+      ],
+      "clinical_focus": "Retrait devant les relations attendues",
+      "sources": [
+        "oms-cddr",
+        "nice-depression-constance"
+      ],
+      "diagnostic_stage": "known",
+      "continuity": {
+        "choice": "Constance propose et réalise avec l'accord de Lucile une seule rue jusqu'au cinéma ; elles se séparent au carrefour prévu, sans bilan de plaisir.",
+        "next": "Une photo du cinéma rejoint celle de la fenêtre ; le lien demeure sans programme imposé. La réunion au travail arrive avec une objection concrète qui demandera autre chose qu'un effort pour supporter l'inquiétude."
+      }
+    },
+    {
+      "number": 10,
+      "slug": "constance-contrainte-reelle-anticipation",
+      "title": "L’inquiétude devant un problème qui demande vraiment une décision",
+      "description": "Qui relaie si Johanna est absente aussi ? La question du responsable révèle une lacune réelle, au milieu des anticipations de Constance.",
+      "context": "La réunion d’essai avec le responsable",
+      "topics": [
+        "Contrainte réelle",
+        "Anticipation anxieuse",
+        "Responsabilité partagée"
+      ],
+      "clinical_intro": "Une inquiétude peut signaler un problème concret tout en s'étendant vers des conséquences encore hypothétiques. Un diagnostic connu ne permet pas de décider que toute difficulté vient de la personne. Nommer l'information manquante et demander la décision à qui elle appartient préserve la réalité de la situation ; l'appréhension qui demeure peut, séparément, être discutée dans le suivi.",
+      "opening": "Le responsable a suivi le trajet de la demande sur le document d'essai. La phrase simplifiée avec Johanna est plus claire. Il s'arrête pourtant au nom du relais. « Et si vous êtes absentes toutes les deux ? » demande-t-il. Constance sent ses mains se crisper sous la table. La question ressemble au début d'une de ses longues suites imaginées. Elle voudrait presque la reconnaître comme telle et passer à la suite. Mais elle relit : aucun circuit n'est indiqué pour ce cas.\n\nJohanna confirme qu'elle ne peut pas être le relais de toutes les absences. Elle aura les siennes, et certaines coïncideront avec celles de Constance. Le responsable attend une proposition. Constance pense soudain que le projet ne sert à rien, qu'elles ont préparé des feuilles pour laisser précisément la seule question importante sans réponse. Puis elle voit les rubriques qui fonctionnent déjà. Il manque un arbitrage ; il ne manque pas tout.\n\nSur son carnet, elle écrit : absences simultanées. Elle ne sait pas encore comment demander la décision sans sembler avoir raté la préparation. « On a bien documenté les cas ordinaires. Il nous manque le destinataire des cas extraordinaires », dit-elle enfin. Le responsable se rapproche du tableau. Ce point relève de son rôle, pas d'un exercice que Constance devrait faire pour se rassurer. La question de rangement laissée ouverte lors de l'ancienne version est aussi dans le carnet. Deux décisions existent donc à prendre dans cette pièce. Toutes les conséquences qu'elle imagine autour n'ont pas besoin d'y être résolues pour que la réunion avance.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Ne pas réduire une contrainte à un symptôme",
+          "text": "Une difficulté de santé n'annule pas les problèmes de l'environnement. L'évaluation globale décrite par NICE pour la dépression adulte tient compte des conditions de vie et de travail ; ce principe s'applique ici avec prudence, sans prétendre constituer une recommandation propre au 6A73. La question sur les absences simultanées est fondée. Chez Constance, l'alarme s'étend ensuite vers l'idée que toute la préparation serait inutile, avec du découragement. Les deux niveaux peuvent être distingués sans opposer un problème « vrai » à une souffrance supposée fausse. L'entreprise doit préciser son organisation fictive. Le suivi du trouble anxieux et dépressif mixte peut accueillir l'appréhension envahissante, mais il n'a pas à inventer le circuit de remplacement. Les appuis du guide OMS sur le stress inspirent une attention à l'action présente ; ils ne transfèrent pas cette responsabilité sur Constance."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment contrainte et anticipation se mêlent-elles ?",
+          "points": [
+            {
+              "heading": "Réagir à une information réellement absente",
+              "text": "La tension survient ici devant un manque vérifiable. Reconnaître ce manque protège la personne d'une interprétation où chaque objection deviendrait un symptôme.",
+              "examples": [
+                "Le document ne dit pas à qui adresser une demande lorsque les deux collègues sont absentes.",
+                "Johanna confirme que son nom ne peut pas constituer une réponse universelle au remplacement."
+              ]
+            },
+            {
+              "heading": "Passer d’une lacune à l’inutilité de tout",
+              "text": "L'anticipation élargit la portée du défaut et retire de la valeur au reste du travail. Cette extension alimente le découragement dans cette scène.",
+              "examples": [
+                "Constance pense aux feuilles entières comme à une préparation vaine après une seule question du responsable.",
+                "Elle oublie un instant que la phrase testée indique correctement le relais dans les cas ordinaires."
+              ]
+            },
+            {
+              "heading": "Hésiter à solliciter l’arbitrage compétent",
+              "text": "La crainte du jugement peut retarder une demande qui appartient au fonctionnement collectif. La personne n'a pas à régler seule ce que son rôle ne permet pas de décider.",
+              "examples": [
+                "Elle cherche d'abord comment répondre elle-même au cas exceptionnel avant de regarder le responsable.",
+                "Elle craint que demander une décision fasse paraître insuffisant le travail d'essai réalisé avec Johanna."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour traiter le manque et situer l’inquiétude",
+          "points": [
+            {
+              "heading": "Formuler l’information absente",
+              "objective": "L'objectif est de définir le problème dans des termes auxquels une réponse est possible.",
+              "exercise": [
+                "Reprendre la question concrète sans y ajouter les scénarios suivants.",
+                "Nommer ce que le document ne précise pas : le destinataire lors d'absences simultanées.",
+                "Vérifier avec les personnes présentes que ce point est bien celui à décider, en conservant les autres rubriques utilisables."
+              ],
+              "benefit": "Une question circonscrite peut devenir une décision collective. Cela ne demande pas de minimiser le risque réel ni de réécrire tout ce qui fonctionne."
+            },
+            {
+              "heading": "Demander l’arbitrage au bon rôle",
+              "objective": "L'objectif est de remettre une décision organisationnelle à la personne qui en porte la responsabilité.",
+              "exercise": [
+                "Dire au responsable quel cas manque et quelle limite Johanna vient de poser.",
+                "Demander qu'il précise le circuit adapté à l'entreprise, sans inventer une règle de droit ou de paie.",
+                "Inscrire la décision et son emplacement sur la version d'essai, puis convenir du moment où l'usage sera réexaminé."
+              ],
+              "benefit": "Un arbitrage explicite partage réellement le fonctionnement. La santé de Constance ne doit pas servir à lui laisser une responsabilité supplémentaire de prévision illimitée."
+            },
+            {
+              "heading": "Séparer le reste de l’appréhension",
+              "objective": "L'objectif est de ne pas confondre une décision prise avec la disparition attendue de toute inquiétude.",
+              "exercise": [
+                "Constater ce qui a reçu une réponse dans la réunion et ce qui demeure matériellement ouvert.",
+                "Si des scénarios reviennent sans décision accessible, les reconnaître comme une préoccupation à raconter plutôt qu'exiger une nouvelle garantie du responsable.",
+                "En discuter dans le suivi si cette persistance reste envahissante ou décourageante."
+              ],
+              "benefit": "Ce partage conserve une place aux difficultés cliniques sans demander au soignant de prendre les décisions de l'entreprise ni aux collègues de traiter l'anxiété."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Un nom pour le cas exceptionnel",
+      "ending": "Le responsable désigne son propre rôle comme destinataire des demandes lors des absences simultanées et précise où ce circuit sera indiqué. Il confirme l'espace commun où conserver la version de référence ; les anciennes feuilles ne feront pas partie du dossier à présenter. Johanna peut ainsi cesser d'être le relais implicite de chaque possibilité. Ils fixent le retour d'expérience au 24 novembre, à 10 heures, et confirment la présentation. Constance ajoute le circuit et le lieu, sans reprendre toutes les rubriques. Sa tension met plus longtemps à descendre que la décision à être écrite. Elle note cet écart pour le rendez-vous médical suivant. « Deux arbitrages, aucune reconstruction générale », dit-elle en rangeant les feuilles. La décision réelle ne soigne pas à elle seule ce qui persiste ; elle donne au projet une réponse qui lui manquait.",
+      "conclusion": "La question concrète reçoit un arbitrage et Johanna conserve une limite. Constance peut distinguer ce travail collectif de l'anticipation qui demeure ; ni le diagnostic ni un appui personnel ne remplacent la responsabilité de l'entreprise.",
+      "mirror": [
+        "Johanna peut dire : « Ce cas manque bien, et je ne pourrai pas le couvrir seule. Demandons la décision au responsable. » Elle soutient une clarification tout en posant sa limite, sans déduire que Constance exagère puisqu'elle paraît tendue. Le responsable peut répondre sur l'organisation et vérifier la compréhension de l'essai, sans demander de dossier médical. Une inquiétude persistante peut être portée au soin si Constance le souhaite ; elle ne justifie pas de retirer les décisions collectives du travail ordinaire."
+      ],
+      "clinical_focus": "Inquiétude et contraintes concrètes",
+      "sources": [
+        "oms-cddr",
+        "oms-stress-2020",
+        "nice-depression-constance"
+      ],
+      "diagnostic_stage": "known",
+      "continuity": {
+        "choice": "Le responsable fixe le circuit des absences simultanées et le rangement de référence ; présentation confirmée et retour d'expérience fixé au 24 novembre à 10 heures. Constance note la tension persistante pour le suivi.",
+        "next": "Le manque concret a reçu une réponse et Johanna a posé sa limite. La présentation peut avoir lieu ; Constance apporte au rendez-vous médical suivant des journées différentes, y compris des difficultés qui demeurent malgré cet arbitrage."
       }
     }
   ]

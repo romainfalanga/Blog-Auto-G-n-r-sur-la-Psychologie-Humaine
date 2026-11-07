@@ -11,7 +11,7 @@
   "episodes": [
     {
       "number": 1,
-      "slug": "preoccupation-odeur-lecture-interrompue",
+      "slug": "fanny-preoccupation-odeur-lecture-interrompue",
       "title": "La préoccupation de son odeur qui interrompt une lecture aimée",
       "description": "Pendant l’atelier, la crainte de son odeur détourne Fanny du texte qu’elle aime. Une question répétée permet de reprendre le travail.",
       "context": "Premier atelier consacré au recueil Les seuils, à la maison de quartier",
@@ -64,7 +64,7 @@
           "heading": "3 techniques pour retrouver une tâche choisie quand la préoccupation revient",
           "points": [
             {
-              "heading": "1. Nommer la difficulté sans demander un verdict",
+              "heading": "Nommer la difficulté sans demander un verdict",
               "objective": "Dire ce qui gêne la présence à l’échange.",
               "exercise": [
                 "Choisissez une phrase courte décrivant votre difficulté actuelle.",
@@ -74,7 +74,7 @@
               "benefit": "L’interlocutrice dispose d’une demande compréhensible sans devoir évaluer une odeur."
             },
             {
-              "heading": "2. Choisir une seule décision éditoriale",
+              "heading": "Choisir une seule décision éditoriale",
               "objective": "Adapter le travail de ce soir aux ressources disponibles.",
               "exercise": [
                 "Reprenez avec la coanimatrice les décisions encore ouvertes.",
@@ -84,7 +84,7 @@
               "benefit": "Le groupe sait ce qui sera terminé et ce qui attendra, sans faire de la séance une épreuve clinique."
             },
             {
-              "heading": "3. Apporter le coût attentionnel au suivi",
+              "heading": "Apporter le coût attentionnel au suivi",
               "objective": "Permettre au thérapeute de comprendre l’effet concret de la préoccupation.",
               "exercise": [
                 "Retenez une situation où vous avez perdu le fil d’une tâche.",
@@ -113,7 +113,7 @@
     },
     {
       "number": 2,
-      "slug": "gestes-ambigus-interpretes-comme-indices",
+      "slug": "fanny-gestes-ambigus-interpretes-comme-indices",
       "title": "Les gestes des autres qui semblent parler de soi",
       "description": "Une fenêtre ouverte et une main vers le visage prennent un sens inquiétant pour Fanny. Le vote sur la couverture reste une autre question.",
       "context": "À la séance suivante, devant les deux maquettes de couverture",
@@ -166,7 +166,7 @@
           "heading": "3 techniques pour garder une décision possible devant un geste ambigu",
           "points": [
             {
-              "heading": "1. Distinguer une fois observation et interprétation",
+              "heading": "Distinguer une fois observation et interprétation",
               "objective": "Décrire la situation sans transformer le sens supposé en fait établi.",
               "exercise": [
                 "Choisissez un seul geste qui vous a arrêté.",
@@ -176,7 +176,7 @@
               "benefit": "Le thérapeute peut entendre le passage entre observation et conviction sans organiser une enquête sur autrui."
             },
             {
-              "heading": "2. Laisser une signification ouverte",
+              "heading": "Laisser une signification ouverte",
               "objective": "Éviter de remplacer la certitude inquiétante par une obligation de preuve inverse.",
               "exercise": [
                 "Reconnaissez que la signification de ce geste n’est pas connue.",
@@ -186,7 +186,7 @@
               "benefit": "La décision du quotidien n’exige pas que toutes les intentions deviennent certaines ; ce choix reste révisable."
             },
             {
-              "heading": "3. Demander un appui sur le vote",
+              "heading": "Demander un appui sur le vote",
               "objective": "Solliciter une aide de coanimation plutôt qu’une évaluation corporelle.",
               "exercise": [
                 "Identifiez la tâche exacte pour laquelle une aide serait utile.",
@@ -215,7 +215,7 @@
     },
     {
       "number": 3,
-      "slug": "verifications-repetees-depart-retarde",
+      "slug": "fanny-verifications-repetees-depart-retarde",
       "title": "Les vérifications répétées qui retardent un départ ordinaire",
       "description": "La pochette du recueil reste près de la porte : Fanny suspend son départ pour vérifier encore la source de l’odeur qu’elle redoute.",
       "context": "Chez Fanny avant le dépôt des textes, puis au rendez-vous de suivi",
@@ -268,7 +268,7 @@
           "heading": "3 techniques pour parler des vérifications et organiser la tâche empêchée",
           "points": [
             {
-              "heading": "1. Décrire ce qui n’a pas pu être fait",
+              "heading": "Décrire ce qui n’a pas pu être fait",
               "objective": "Rendre le coût des vérifications compréhensible dans le suivi.",
               "exercise": [
                 "Choisissez une action que vous vouliez accomplir.",
@@ -278,7 +278,7 @@
               "benefit": "Le professionnel entend le retentissement sans transformer la consultation en relevé d’odeurs."
             },
             {
-              "heading": "2. Discuter d’une réponse adaptée au comportement",
+              "heading": "Discuter d’une réponse adaptée au comportement",
               "objective": "Garder le travail clinique dans une décision partagée.",
               "exercise": [
                 "Dites au thérapeute que le doute revient après vos vérifications.",
@@ -288,7 +288,7 @@
               "benefit": "Un soin peut être discuté sans consigne générale d’arrêt ni nouvelle routine imposée par l’article."
             },
             {
-              "heading": "3. Prévenir du retard matériel",
+              "heading": "Prévenir du retard matériel",
               "objective": "Préserver une coordination de travail lorsque le dépôt n’a pas eu lieu.",
               "exercise": [
                 "Informez la coanimatrice que le dossier ne sera pas disponible ce soir.",
@@ -314,6 +314,823 @@
         "next": "Nora possède les textes validés et prépare le devis. Le prochain échange portera sur le budget ; la réponse clinique aux vérifications reste discutée dans le suivi."
       },
       "conclusion": "Les textes sont transmis avec un jour de retard. Le dépôt et la consultation remplissent des fonctions différentes : l’un permet le devis, l’autre donne une place clinique à la difficulté. Aucun des deux ne garantit que le doute ne reviendra pas."
+    },
+    {
+      "number": 4,
+      "slug": "fanny-reassurance-repetee-relation-limites",
+      "title": "La réassurance répétée qui ne ferme pas la question",
+      "description": "En comparant le devis, Fanny redemande un avis sur son odeur supposée. Nora propose une aide concrète et pose une limite aux verdicts répétés.",
+      "context": "À la maison de quartier, devant le premier devis d’impression",
+      "topics": [
+        "Réassurance répétée",
+        "Soutien et certitude",
+        "Limites relationnelles"
+      ],
+      "clinical_focus": "Réassurance répétée dans la relation",
+      "clinical_intro": "Demander plusieurs fois une assurance peut faire partie du trouble de perception olfactive, même après une réponse reçue. La recherche d’un verdict diffère d’une demande d’aide pour traverser un moment pénible. Chez Fanny, déjà suivie pour ce trouble, elle déplace aujourd’hui une conversation de travail vers son odeur supposée. Nora peut reconnaître la souffrance et garder une limite à ces questions.",
+      "opening": "Nora a récupéré la pochette et obtenu un devis. Les seuils tient maintenant sur une feuille de chiffres : papier, couverture, façonnage, quantité. Fanny suit les lignes avec un crayon bleu. Elle trouve le mot façonnage presque aussi beau qu’un titre et voudrait comprendre pourquoi le prix change si elles commandent quelques exemplaires de plus. Elles disposent d’une enveloppe précise, réservée par la maison de quartier. Rien ne sera demandé aux participantes avant que chacune sache ce que le livre collectif deviendra.\n\nAu milieu de la comparaison, Fanny interrompt Nora pour lui demander un avis sur l’odeur qu’elle craint d’émettre. Nora lui répond une première fois, puis revient au devis. Quelques minutes plus tard, Fanny repose la question autrement. Elle cherche à savoir si la réponse tient encore, si elle concernait vraiment ce qu’elle voulait dire. Son crayon a quitté les chiffres. Elle pense à écrire aussi à Lucie, qui pourrait peut-être formuler la réponse d’une manière qui l’arrêterait enfin.\n\nNora ferme un instant son carnet. Elle a perdu la ligne du calcul et doit partir bientôt. « Je vois que ça te pèse. Je peux reprendre une ligne avec toi, mais je ne peux pas redonner des avis là-dessus. » Fanny entend la fatigue, puis regarde son téléphone. Le message à sa sœur n’est pas encore écrit.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Obtenir une réponse sans obtenir une certitude durable",
+          "text": "La recherche répétée de réassurance peut porter sur l’idée d’émettre une odeur offensante et sur ce que les autres en penseraient. Une réponse ne met pas nécessairement fin au doute ; la personne peut demander une précision ou chercher un autre interlocuteur. Fanny sollicite cette fois autrui, contrairement aux auto-vérifications de l’épisode précédent. Nora n’a pas à fournir un verdict corporel pour rester une coanimatrice attentive. Leur coopération peut se centrer sur une aide concrète et leurs limites respectives."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment une demande d’assurance se répète-t-elle dans la relation ?",
+          "points": [
+            {
+              "heading": "La conversation vise un verdict",
+              "text": "La question recherche une certitude sur l’odeur supposée plutôt qu’une aide à la tâche présente.",
+              "examples": [
+                "Fanny quitte la comparaison du devis pour demander l’avis de Nora sur son odeur.",
+                "Elle attend une réponse qui ferait cesser la crainte avant de revenir aux chiffres."
+              ]
+            },
+            {
+              "heading": "La réponse devient elle-même incertaine",
+              "text": "Le doute peut se déplacer vers la précision ou la portée de ce qui a été dit.",
+              "examples": [
+                "Fanny se demande si Nora avait bien compris la question.",
+                "Elle reformule la même demande au lieu de reprendre la ligne du devis."
+              ]
+            },
+            {
+              "heading": "Un autre interlocuteur paraît nécessaire",
+              "text": "Multiplier les personnes interrogées ne garantit pas une assurance durable et peut envahir les relations.",
+              "examples": [
+                "Fanny envisage de demander aussi à Lucie.",
+                "Nora manque de temps pour le budget parce que l’échange revient à la même recherche de certitude."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour demander du soutien sans réclamer des verdicts répétés",
+          "points": [
+            {
+              "heading": "Clarifier le besoin dans le suivi",
+              "objective": "Distinguer le soutien souhaité d’une recherche de certitude olfactive.",
+              "exercise": [
+                "Décrivez au thérapeute une conversation revenue plusieurs fois à la même question.",
+                "Précisez ce que vous attendiez de la réponse et ce qui restait difficile ensuite.",
+                "Discutez avec lui d’une façon de demander de l’aide adaptée à votre situation."
+              ],
+              "benefit": "La répétition trouve une place dans le soin sans charger un proche d’en résoudre le mécanisme."
+            },
+            {
+              "heading": "Convenir d’une réponse chaleureuse et limitée",
+              "objective": "Préserver la relation et le temps de chacun.",
+              "exercise": [
+                "Dans un moment disponible, parlez ensemble de ce que l’échange répété coûte.",
+                "Proposez une phrase reconnaissant la détresse et nommant l’aide réellement possible.",
+                "Laissez l’autre poser sa limite ou proposer un autre moment."
+              ],
+              "benefit": "Une limite peut coexister avec l’attention portée à la personne, sans approuver la conviction ni promettre l’absence de réaction d’autrui."
+            },
+            {
+              "heading": "Formuler une demande sur le devis",
+              "objective": "Rendre une coopération précise à nouveau possible.",
+              "exercise": [
+                "Repérez la ligne que vous ne comprenez pas.",
+                "Demandez une explication de ce chiffre plutôt qu’un nouvel avis corporel.",
+                "Vérifiez si l’autre a le temps d’y répondre maintenant."
+              ],
+              "benefit": "La réponse peut résoudre une question réelle de travail. Ce changement de demande n’est pas un traitement du trouble."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Quarante-huit exemplaires dans le budget",
+      "ending": "Fanny repose son téléphone sans envoyer de demande à Lucie. Elle dit à Nora qu’elle a besoin de comprendre la différence entre deux quantités. Elles reprennent cette ligne et choisissent quarante-huit exemplaires, dans l’enveloppe disponible. Nora note ce nombre avant de partir. Fanny n’obtient pas une certitude sur sa crainte ; elle obtient une décision qu’elles peuvent transmettre à l’imprimeur. La limite de Nora demeure et pourra se discuter à un autre moment.",
+      "mirror": [
+        "Nora peut dire : « Je vois que c’est pénible. J’ai encore dix minutes pour lire le devis avec toi. » Elle peut s’en tenir à cette offre sans répéter des assurances sur l’odeur. Si Fanny insiste, reprendre calmement la limite évite d’exiger d’elle une disparition immédiate du doute. Nora garde le droit de partir à l’heure prévue ; sa disponibilité ne remplace pas le suivi clinique."
+      ],
+      "sources": [
+        "oms-cddr",
+        "phillips-menard-2011"
+      ],
+      "continuity": {
+        "choice": "Fanny n’envoie pas de nouvelle demande de verdict à Lucie et demande une aide sur le devis ; le tirage est fixé à quarante-huit exemplaires.",
+        "next": "Le budget est arrêté et la limite relationnelle reste explicite. Fanny et Nora doivent préparer une visite à l’imprimerie."
+      },
+      "conclusion": "Le devis a reçu une réponse chiffrée, tandis que la préoccupation reste présente. Cet échange distingue une décision accessible à la coanimatrice et une certitude qu’elle n’a pas à produire. La qualité du soutien ne se mesure pas au nombre d’assurances données."
+    },
+    {
+      "number": 5,
+      "slug": "fanny-camouflage-preparation-envahissante",
+      "title": "Le camouflage qui prend toute la place dans la préparation",
+      "description": "Le sac prévu pour les épreuves se remplit d’affaires destinées à prévenir la crainte de Fanny. Choisir sa chemise devient secondaire.",
+      "context": "Au domicile de Fanny, pendant la préparation de la visite à l’imprimerie",
+      "topics": [
+        "Camouflage excessif",
+        "Préparation envahissante",
+        "Choix personnels"
+      ],
+      "clinical_focus": "Camouflage qui envahit la préparation",
+      "clinical_intro": "Dans le trouble de perception olfactive, des tentatives de camouflage ou de prévention de l’odeur supposée peuvent devenir excessives et contraignantes. Elles se distinguent d’une hygiène ordinaire ou du plaisir de s’habiller par leur place et leur retentissement. Fanny, dont le diagnostic est établi, le remarque dans un sac où les épreuves du livre ne trouvent presque plus de place.",
+      "opening": "Fanny cherche sa chemise à motifs entre deux pulls. Les dessins ressemblent à de petites fenêtres ouvertes, ce qui lui paraît convenir à une visite pour Les seuils. Nora trouve les rapprochements de ce genre un peu faciles ; Fanny les aime quand même. Elles ont fixé le tirage à quarante-huit exemplaires et doivent rencontrer l’imprimeur pour choisir le papier. Fanny a préparé les épreuves et une liste de questions sur les marges, toutes orientées vers la place laissée aux phrases longues.\n\nLe sac attend sur une chaise. Elle l’avait choisi assez grand pour garder les feuilles à plat. Il est maintenant presque rempli d’affaires destinées à prévenir ce qu’elle redoute. Elle ne sait plus si la préparation sera suffisante ; une nouvelle possibilité lui vient au moment où elle pensait passer à autre chose. La chemise reste sur le lit. Le plaisir de reconnaître les petites fenêtres dans le tissu s’efface derrière ce qu’elle croit devoir prévoir avant de rencontrer quelqu’un.\n\nNora appelle pour confirmer le rendez-vous. Fanny regarde les pages qui dépassent du sac, puis l’heure. Elle pourrait lui parler de la marge intérieure, qu’elles doivent encore décider. Elle répond seulement que tout est presque prêt. En prononçant ces mots, elle voit bien que ce presque ne concerne plus les textes. Elle reprend sa chemise sans encore l’enfiler et demande quels papiers Nora comptait apporter.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Quand prévenir la crainte envahit les préparatifs",
+          "text": "Les tentatives excessives pour camoufler, modifier ou prévenir l’odeur supposée sont des manifestations possibles du trouble de perception olfactive. Il ne suffit pas d’aimer une tenue ou d’emporter des affaires pour en conclure à un trouble. Chez Fanny, déjà diagnostiquée, le lien apparaît dans une préparation qu’elle ne trouve jamais suffisamment protectrice et qui prend la place d’autres choix. Son coût mérite d’être discuté avec le thérapeute, sans dresser un inventaire de produits ni imposer une réduction brutale des pratiques."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment la préparation destinée à se protéger devient-elle envahissante ?",
+          "points": [
+            {
+              "heading": "Le matériel du projet perd sa place",
+              "text": "Ce qui doit servir l’activité choisie peut être repoussé par les précautions liées à la crainte.",
+              "examples": [
+                "Les épreuves ne tiennent presque plus dans le sac prévu pour elles.",
+                "Fanny cherche comment transporter les feuilles après avoir rempli l’espace d’affaires protectrices à ses yeux."
+              ]
+            },
+            {
+              "heading": "La préparation ne semble jamais finie",
+              "text": "Le sentiment d’être suffisamment prête peut rester inaccessible malgré le temps consacré aux précautions.",
+              "examples": [
+                "Une nouvelle possibilité à prévoir lui vient alors qu’elle voulait s’habiller.",
+                "Elle dit presque prêt sans penser aux questions sur le papier, qui sont déjà écrites."
+              ]
+            },
+            {
+              "heading": "Un plaisir personnel devient secondaire",
+              "text": "Le retentissement touche aussi les choix qui n’avaient pas pour fonction de répondre à la préoccupation.",
+              "examples": [
+                "Fanny cesse de regarder les dessins de sa chemise pour penser à ce qu’elle devrait encore prévoir.",
+                "La discussion sur les marges attend pendant que le rendez-vous semble dépendre d’une protection suffisante."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour distinguer le projet de la préparation envahissante",
+          "points": [
+            {
+              "heading": "Parler du coût plutôt que des objets",
+              "objective": "Donner au thérapeute une vue du retentissement de la préparation.",
+              "exercise": [
+                "Choisissez un préparatif qui a pris plus de place que prévu.",
+                "Décrivez le temps, l’encombrement ou le choix personnel qu’il a absorbé.",
+                "Discutez dans le suivi de ce que cette difficulté appelle pour vous."
+              ],
+              "benefit": "La conversation porte sur vos besoins de soin sans faire de liste de produits ou proposer une nouvelle routine."
+            },
+            {
+              "heading": "Retrouver le goût d’un choix vestimentaire",
+              "objective": "Laisser une place à une préférence indépendante du trouble.",
+              "exercise": [
+                "Repérez un vêtement que vous aimez pour sa couleur, son confort ou son dessin.",
+                "Dites ce qui vous plaît, sans lui attribuer un pouvoir protecteur.",
+                "Gardez la liberté de le porter ou de choisir autrement."
+              ],
+              "benefit": "Un choix peut retrouver son sens personnel sans devenir un exercice obligatoire ni une condition pour sortir."
+            },
+            {
+              "heading": "Répartir les documents à transporter",
+              "objective": "Résoudre la question matérielle des épreuves avec la coanimatrice.",
+              "exercise": [
+                "Précisez les feuilles dont l’imprimeur aura besoin.",
+                "Demandez quelle partie l’autre peut transporter et écoutez sa réponse.",
+                "Confirmez qui apporte les épreuves et qui garde le devis."
+              ],
+              "benefit": "Le transport devient clair. Personne n’a à retirer les affaires de Fanny ou à contrôler sa préparation."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Les petites fenêtres sur la chemise",
+      "ending": "Fanny enfile la chemise parce qu’elle aime son dessin. Elle demande à Nora d’emporter une partie des épreuves ; Nora accepte et garde aussi le devis. Fanny prendra les textes restants et leurs questions sur le papier. Rien n’a été retiré de force du sac. Le rendez-vous est confirmé ; la préparation envahissante demeure une question pour son suivi, distincte de cette solution de transport.",
+      "mirror": [
+        "Nora peut demander quels papiers il faut apporter et dire ce qu’elle peut porter. Elle n’a pas à fouiller le sac, à juger les affaires de Fanny ou à fabriquer une règle de préparation. Si Fanny dit que cela lui prend toute la soirée, Nora peut reconnaître ce coût : « Ça semble te laisser peu de place pour le reste. » La réponse clinique reste à discuter avec son thérapeute."
+      ],
+      "sources": [
+        "oms-cddr",
+        "phillips-menard-2011"
+      ],
+      "continuity": {
+        "choice": "Fanny choisit sa chemise à motifs pour son goût propre ; Nora accepte de porter une partie des épreuves et le devis.",
+        "next": "Le rendez-vous est confirmé et les papiers répartis. Fanny doit encore choisir comment elle souhaite participer à la rencontre avec l’imprimeur."
+      },
+      "conclusion": "La chemise retrouve le sens d’un vêtement aimé et les feuilles ont un transport prévu. Ces décisions ne règlent pas la préparation envahissante. Elles montrent ce que le trouble peut déplacer, sans transformer les objets du sac en méthode à imiter ou à supprimer."
+    },
+    {
+      "number": 6,
+      "slug": "fanny-evitement-proximite-rencontre-choisie",
+      "title": "L’évitement de la proximité qui éloigne d’une rencontre désirée",
+      "description": "Fanny voulait toucher les papiers chez l’imprimeur. Le matin du rendez-vous, la proximité redoutée lui fait envisager d’y renoncer.",
+      "context": "Le matin de la visite, puis à l’imprimerie avec Nora",
+      "topics": [
+        "Évitement de proximité",
+        "Rencontre désirée",
+        "Adaptation choisie"
+      ],
+      "clinical_focus": "Évitement des situations de proximité",
+      "clinical_intro": "L’évitement de situations sociales ou de proximité peut accompagner le trouble de perception olfactive. La crainte de l’odeur supposée contraint alors des rencontres pourtant souhaitées. Cela ne fait pas de toute préférence de distance un symptôme. Chez Fanny, déjà diagnostiquée, la difficulté apparaît dans l’écart entre son envie de choisir le papier et son projet soudain de supprimer la visite.",
+      "opening": "Fanny avait demandé à voir le papier avant de décider. Sur écran, le blanc lui semblait trop froid pour les récits de trajets du recueil ; elle voulait comprendre la différence en tournant une vraie page. Ce matin pourtant, elle ouvre le message de l’imprimeur pour chercher ce qui pourrait se régler par courriel. Elle imagine la place des sièges, la table et la proximité avec la personne qui montrera les échantillons. La crainte de son odeur supposée passe devant ses questions sur les marges.\n\nElle trouve l’adresse d’un autre atelier, beaucoup plus loin. Aucune qualité de son papier ne motive cette recherche. Elle voudrait surtout ne pas rencontrer aujourd’hui l’homme avec qui elle a déjà échangé. Nora arrive avec sa part des épreuves et le devis de quarante-huit exemplaires. Fanny lui propose d’envoyer seulement les documents. Puis elle commence une longue explication sur le temps gagné et s’interrompt : elles ne gagneraient pas de temps avec une autre imprimerie.\n\nNora pose les feuilles sans les sortir de leur pochette. Elle doit repartir à une heure précise et ne veut pas décider pour Fanny. « Qu’est-ce que tu veux pouvoir choisir là-bas ? » Fanny pense au papier qu’elle n’a pas encore touché. Elle n’a pas envie qu’on fasse de la visite une épreuve. Elle n’a pas non plus envie que son avis sur le livre disparaisse.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Ce que la rencontre permet et ce qui la rend difficile",
+          "text": "L’évitement peut modifier des déplacements ou des échanges lorsque la personne redoute que son odeur supposée gêne autrui. Son effet se comprend à partir de ce que la personne souhaitait faire et de ce qu’elle abandonne sous cette contrainte. Ici, Fanny ne choisit pas une autre imprimerie pour le livre : elle cherche à échapper à la proximité redoutée. Une adaptation décidée avec elle reste un choix de travail ; elle ne devient pas une exposition improvisée ni une mesure de son évolution clinique."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment la proximité redoutée transforme-t-elle le projet de rencontre ?",
+          "points": [
+            {
+              "heading": "Une rencontre souhaitée devient une annulation possible",
+              "text": "Le désir de participer peut persister alors que la personne cherche à éviter la situation.",
+              "examples": [
+                "Fanny voulait voir le papier mais propose soudain de tout régler par courriel.",
+                "Elle garde ses questions sur les marges tout en envisageant de ne pas venir les poser."
+              ]
+            },
+            {
+              "heading": "Le lieu change sans raison liée au projet",
+              "text": "Un déplacement peut viser surtout à s’éloigner de la rencontre déjà envisagée.",
+              "examples": [
+                "Fanny recherche une autre imprimerie sans comparer ses papiers.",
+                "Elle évoque un atelier plus loin malgré le délai supplémentaire que cela créerait."
+              ]
+            },
+            {
+              "heading": "Un choix apprécié risque d’être délégué entièrement",
+              "text": "Le coût de l’évitement peut être la perte d’une part de décision à laquelle la personne tenait.",
+              "examples": [
+                "Nora pourrait finir par choisir seule le papier que Fanny souhaitait examiner.",
+                "L’imagination des sièges prend la place de sa réflexion sur la couleur des pages."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour préserver un choix dans une rencontre difficile",
+          "points": [
+            {
+              "heading": "Nommer l’objet de la visite",
+              "objective": "Retrouver ce que la personne souhaite obtenir pour le projet.",
+              "exercise": [
+                "Dites quelle décision vous intéresse personnellement.",
+                "Précisez la question à laquelle la rencontre peut répondre.",
+                "Choisissez la part que vous souhaitez garder et celle que vous pouvez déléguer."
+              ],
+              "benefit": "L’organisation s’appuie sur votre but, sans transformer la présence en devoir de réussite."
+            },
+            {
+              "heading": "Convenir d’une adaptation et d’une limite",
+              "objective": "Permettre une participation révisable avec un accord clair.",
+              "exercise": [
+                "Demandez ce que l’accompagnante peut faire dans le temps dont elle dispose.",
+                "Décidez ensemble si une partie peut être terminée par courriel ou sans vous.",
+                "Conservez la possibilité de modifier votre participation ou de partir, sans défi de proximité."
+              ],
+              "benefit": "Chacun connaît son rôle et ses limites ; l’accompagnante n’a pas à conduire un exercice thérapeutique."
+            },
+            {
+              "heading": "Décrire la contrainte dans le suivi",
+              "objective": "Discuter cliniquement de ce qui limite les rencontres souhaitées.",
+              "exercise": [
+                "Retenez l’écart entre une envie concrète et ce que vous avez envisagé d’éviter.",
+                "Décrivez au thérapeute ce qui rendait la situation difficile.",
+                "Examinez avec lui les besoins et objectifs qui vous conviennent."
+              ],
+              "benefit": "Le soin peut porter sur le fonctionnement propre à la personne. La visite n’est pas utilisée comme test ou preuve concernant l’odeur."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Une page ivoire entre les doigts",
+      "ending": "Fanny choisit de venir avec Nora pour examiner les papiers ; elles pourront finir par courriel si nécessaire. À l’imprimerie, elle donne son avis sur l’ivoire, où la ponctuation lui paraît moins dure que sur le blanc. Nora partage ce choix et termine la partie administrative comme elles l’ont convenu. Le bon à tirer sera envoyé. Fanny repart encore préoccupée. Elle ne sait pas comment raconter ce que la rencontre lui a coûté, même si sa préférence de papier a été entendue.",
+      "mirror": [
+        "Nora peut dire : « Je peux rester jusqu’à midi et terminer les détails de commande. Tu veux garder le choix du papier ? » Si Fanny souhaite une autre organisation, elles peuvent la discuter. Nora n’a pas à fixer une distance à tenir ni à commenter les réactions de l’imprimeur. Elle peut apprécier leur décision sur le livre sans présenter la visite comme un succès thérapeutique."
+      ],
+      "sources": [
+        "oms-cddr",
+        "phillips-menard-2011"
+      ],
+      "continuity": {
+        "choice": "Fanny participe au choix du papier ivoire ; Nora termine l’administratif selon leur accord et un bon à tirer doit être envoyé.",
+        "next": "Le papier et le tirage sont arrêtés. Fanny reste en difficulté pour dire ce que la visite lui a coûté ; le bon à tirer est attendu."
+      },
+      "conclusion": "Le papier ivoire est choisi, mais la rencontre n’a pas supprimé la préoccupation. La décision montre un partage possible pour cette visite. Ce qui contraint les rencontres de Fanny conserve sa place dans le suivi, sans imposer un parcours de proximité toujours croissante."
+    },
+    {
+      "number": 7,
+      "slug": "fanny-honte-difficulte-a-se-confier",
+      "title": "La honte qui efface les mots avant de demander de l’aide",
+      "description": "Après l’imprimerie, Fanny ne raconte que les délais. La honte lui fait raturer la difficulté qu’elle voudrait apporter au thérapeute.",
+      "context": "Au téléphone avec Lucie, puis dans la préparation et le déroulement d’une consultation",
+      "topics": [
+        "Honte",
+        "Parole limitée",
+        "Transmission au soignant"
+      ],
+      "clinical_focus": "Honte et difficulté à se confier",
+      "clinical_intro": "La honte peut rendre difficile le récit des préoccupations dans le trouble de perception olfactive. Elle peut conduire à minimiser ce qui pèse ou à s’en tenir aux détails pratiques, y compris avec un soignant qui connaît déjà le diagnostic. Fanny veut raconter une visite d’imprimerie ; elle se heurte surtout au jugement sévère qu’elle porte sur elle-même.",
+      "opening": "Lucie appelle pendant que Fanny remet les épreuves dans leur pochette. Elle a quelques minutes avant de préparer son dîner et demande quelle couverture a été retenue. « La porte jaune », répond Fanny. Elle voudrait raconter le papier ivoire, la manière dont une page semble différente dès qu’on la tourne vraiment. Elle commence une phrase sur les virgules, puis se rappelle combien la visite lui a coûté. Un mot arrive contre elle : incapable. Elle a donné son avis chez l’imprimeur, pourtant elle se parle comme si toute la rencontre avait été un échec.\n\nLucie demande quand les livres seront prêts. Fanny détaille l’envoi du bon à tirer et les délais. Ce sont des choses qu’elle sait expliquer. Elle a moins envie de dire qu’elle était préoccupée que de s’entendre raconter seulement le livre. Ce choix pourrait être une limite légitime ; ce soir, elle sent aussi la honte lui fermer des phrases qu’elle aurait voulu prononcer.\n\nAprès l’appel, elle ouvre la note préparée pour son thérapeute. Elle écrit que la crainte de son odeur a pris toute la place, puis efface. Elle remplace cela par le temps passé à l’imprimerie. Le thérapeute connaît son diagnostic ; il n’a pourtant pas accès à ce qu’elle rature chez elle. Fanny relit la note réduite aux délais et voit qu’elle n’y reconnaît plus vraiment sa journée.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Ce qui empêche de raconter une difficulté déjà connue",
+          "text": "La honte et l’embarras peuvent entraver l’expression des préoccupations dans le trouble de perception olfactive, notamment en consultation. Un diagnostic établi ne rend pas toutes les expériences faciles à dire. Chez Fanny, le jugement global contre elle-même remplace le récit précis de la visite. Respecter son droit de choisir ce qu’elle confie à sa sœur n’empêche pas de chercher avec le thérapeute une manière de transmettre ce qui compte pour le soin. La confidentialité n’est pas un défaut à corriger."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment la honte réduit-elle ce qu’on arrive à raconter ?",
+          "points": [
+            {
+              "heading": "Une difficulté devient un jugement sur toute la personne",
+              "text": "L’autocritique peut faire disparaître les faits nuancés de la situation.",
+              "examples": [
+                "Fanny se traite d’incapable alors qu’elle a participé au choix du papier.",
+                "Elle parle intérieurement d’un échec entier sans garder la place de ce qu’elle a aimé."
+              ]
+            },
+            {
+              "heading": "Le récit se limite au pratique",
+              "text": "Les informations matérielles peuvent être plus faciles à partager que le vécu pénible.",
+              "examples": [
+                "Avec Lucie, Fanny détaille le bon à tirer au lieu de dire ce qui lui a coûté.",
+                "Elle raconte le délai d’impression alors qu’elle voulait aussi parler de son plaisir à toucher le papier."
+              ]
+            },
+            {
+              "heading": "Les mots cliniquement utiles sont retirés",
+              "text": "Le professionnel peut connaître le diagnostic et ignorer encore une difficulté actuelle.",
+              "examples": [
+                "Fanny efface la phrase sur sa crainte dans sa note de consultation.",
+                "La durée de la visite reste écrite, mais ce qui a occupé son attention n’y apparaît plus."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour transmettre une difficulté sans devoir tout raconter à tous",
+          "points": [
+            {
+              "heading": "Décrire une expérience plutôt que se qualifier",
+              "objective": "Trouver une formulation qui rende la situation compréhensible sans condamnation globale.",
+              "exercise": [
+                "Repérez le mot sévère que vous employez contre vous.",
+                "Remplacez-le dans une phrase par ce qui s’est passé et ce qui a été difficile.",
+                "Gardez cette formulation si elle vous convient pour en parler au professionnel."
+              ],
+              "benefit": "Le soignant peut entendre un problème précis, au lieu d’avoir à deviner ce que recouvre un jugement sur vous-même."
+            },
+            {
+              "heading": "Choisir la part confiée à un proche",
+              "objective": "Préserver à la fois un lien et le droit à la confidentialité.",
+              "exercise": [
+                "Demandez-vous ce que vous avez envie de partager avec cette personne.",
+                "Dites cette part, même courte, ou indiquez que vous préférez en rester là.",
+                "Proposez si vous le souhaitez un autre sujet qui vous relie."
+              ],
+              "benefit": "Une conversation peut accueillir un besoin sans réclamer une révélation complète ni un avis corporel."
+            },
+            {
+              "heading": "Remettre une phrase au thérapeute",
+              "objective": "Permettre une transmission effective quand parler est difficile.",
+              "exercise": [
+                "Écrivez simplement la difficulté que vous hésitez à nommer.",
+                "Choisissez de lire la phrase ou de remettre la note au rendez-vous.",
+                "Dites au thérapeute ce qui rend ce partage difficile et laissez place à son accueil."
+              ],
+              "benefit": "Le suivi reçoit l’information pertinente sans imposer un récit détaillé à la sœur ou à la coanimatrice."
+            }
+          ]
+        }
+      ],
+      "ending_title": "La phrase qui reste sur la note",
+      "ending": "Fanny rappelle brièvement Lucie et lui raconte le papier ivoire. Elle ajoute que les rencontres lui coûtent beaucoup en ce moment ; elle ne souhaite pas en dire davantage. Lucie écoute puis lui demande quelle première phrase elle a préféré relire. Au rendez-vous suivant, Fanny remet au thérapeute une note où la crainte et la honte sont restées écrites. Il prend le temps de les reprendre avec elle, au-delà des délais du livre. Le bon à tirer arrive après cette séance.",
+      "mirror": [
+        "Lucie peut répondre : « Merci de me le dire. Tu veux qu’on en reste là et qu’on parle du papier ? » Elle n’a pas à obtenir les détails pour rester présente. Si Fanny choisit de ne partager qu’une phrase, sa sœur peut respecter cette limite. Le thérapeute reçoit pour sa part la difficulté clinique ; Lucie garde une place de sœur, avec son temps disponible et leurs goûts de lecture."
+      ],
+      "sources": [
+        "oms-cddr",
+        "phillips-menard-2011"
+      ],
+      "continuity": {
+        "choice": "Fanny partage une part choisie avec Lucie puis remet effectivement sa note au thérapeute, qui reprend la crainte et la honte avec elle.",
+        "next": "Le vécu a été transmis en consultation. Le bon à tirer arrive entre deux séances ; la variation du recul selon la détresse pourra être reprise à partir de situations vécues."
+      },
+      "conclusion": "La note ne raconte pas tout, mais elle contient enfin ce que Fanny voulait faire entendre au soignant. Dire peu à Lucie reste son choix. La honte se comprend ici par les mots qu’elle efface et non par une absence de volonté de recevoir de l’aide."
+    },
+    {
+      "number": 8,
+      "slug": "fanny-recul-variable-detresse-conviction",
+      "title": "Le recul qui devient difficile quand la détresse augmente",
+      "description": "En séance, Fanny envisage un autre sens aux gestes. Devant le bon à tirer, sa conviction reprend de la force ; cela ne la rend pas insincère.",
+      "context": "Entre une consultation et la relecture du bon à tirer à la maison de quartier",
+      "topics": [
+        "Recul variable",
+        "Conviction et détresse",
+        "Réponse différée"
+      ],
+      "clinical_focus": "Recul variable selon l’état de détresse",
+      "clinical_intro": "Le recul vis-à-vis des convictions peut varier dans le trouble de perception olfactive, notamment avec l’anxiété ou la détresse. Une possibilité envisagée à un moment peut devenir difficile à considérer ensuite. Cette variation n’indique ni manque d’intelligence ni mensonge. Fanny connaît son diagnostic ; elle se reproche pourtant de ne pas pouvoir penser à l’atelier comme elle l’a fait en consultation.",
+      "opening": "Au rendez-vous où elle a remis sa note, Fanny a pu parler de l’imprimerie autrement que par ses délais. Le thérapeute l’a écoutée décrire sa crainte et la honte d’en parler. Dans ce contexte, elle a aussi pu dire que les gestes observés pendant la visite avaient peut-être un autre sens que celui qu’elle leur attribuait. Cette phrase ne lui semblait pas alors une concession à faire. Elle décrivait une possibilité qu’elle arrivait réellement à considérer.\n\nDeux jours plus tard, le bon à tirer s’ouvre sur l’écran de la maison de quartier. La porte jaune occupe enfin sa place au-dessus du titre. Les autrices vérifient chacune leur texte ; Fanny suit la dernière phrase du récit de bus, celle dont elle avait défendu la longueur. Une participante s’écarte pour regarder une page. Fanny se sent soudain certaine de comprendre ce mouvement à travers son odeur supposée. La possibilité envisagée en séance paraît inaccessible.\n\nNora demande si le point-virgule doit rester. Fanny voudrait répondre trop vite pour terminer l’échange, puis se reproche ce qu’elle a dit au thérapeute : aurait-elle menti ? Elle reconnaît pourtant les deux moments. Elle avait pu envisager autre chose ; maintenant, elle n’y arrive plus. Le bon à tirer reste ouvert, avec une décision de ponctuation encore à prendre.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Deux moments sincères, un recul différent",
+          "text": "Le degré de recul sur les convictions liées au trouble de perception olfactive peut fluctuer, parfois rapidement avec la détresse. Il ne se déduit pas de la qualité d’un raisonnement littéraire ou d’une seule conversation. Fanny décrit deux vécus différents : une possibilité accessible en consultation et une conviction forte à l’atelier. Cette variation ne permet pas au proche d’attribuer un sous-diagnostic. Elle constitue une information utile à discuter avec le thérapeute, sans obliger Fanny à reconnaître immédiatement une erreur."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment un recul différent apparaît-il selon les moments ?",
+          "points": [
+            {
+              "heading": "Une autre possibilité peut être considérée",
+              "text": "La personne peut parfois reconnaître qu’un geste a une signification incertaine.",
+              "examples": [
+                "En consultation, Fanny peut dire que les mouvements vus à l’imprimerie avaient peut-être un autre sens.",
+                "Elle entend cette possibilité comme réelle, sans chercher seulement à satisfaire son thérapeute."
+              ]
+            },
+            {
+              "heading": "La conviction devient plus forte dans la détresse",
+              "text": "La possibilité précédente peut devenir difficile à garder présente, sans que le geste ait livré une preuve nouvelle.",
+              "examples": [
+                "Pendant la relecture, Fanny se sent certaine du sens d’un déplacement.",
+                "Elle ne parvient plus à considérer l’incertitude dont elle parlait deux jours auparavant."
+              ]
+            },
+            {
+              "heading": "La différence entraîne un nouveau jugement contre soi",
+              "text": "La personne peut confondre cette variation avec un défaut de sincérité ou de capacité.",
+              "examples": [
+                "Fanny se demande si elle a menti en séance.",
+                "Elle se reproche de ne pas pouvoir raisonner de la même manière devant le bon à tirer."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour décrire les variations de recul sans se condamner",
+          "points": [
+            {
+              "heading": "Rapporter les deux moments au thérapeute",
+              "objective": "Rendre visible la variation plutôt que corriger un récit pour le faire paraître cohérent.",
+              "exercise": [
+                "Retenez une situation où une autre possibilité était accessible.",
+                "Décrivez aussi celle où la conviction vous semblait certaine et ce que vous viviez alors.",
+                "Apportez les deux moments au professionnel sans chercher vous-même une nouvelle étiquette."
+              ],
+              "benefit": "Le suivi dispose d’une expérience plus complète que si l’un des deux moments était effacé."
+            },
+            {
+              "heading": "Accueillir la difficulté présente",
+              "objective": "Permettre un échange sans débat imposé sur l’odeur.",
+              "exercise": [
+                "Nommez ce qui est pénible maintenant, selon ce que vous souhaitez dire.",
+                "Demandez une présence ou un appui précis plutôt qu’un verdict corporel.",
+                "Laissez le proche indiquer ce qu’il peut proposer dans ses limites."
+              ],
+              "benefit": "La détresse peut être entendue sans confirmation de la conviction ni obligation de changer d’avis sur-le-champ."
+            },
+            {
+              "heading": "Différer une réponse littéraire",
+              "objective": "Éviter une décision précipitée lorsque la personne souhaite reprendre le texte.",
+              "exercise": [
+                "Indiquez la phrase sur laquelle vous n’arrivez pas à répondre maintenant.",
+                "Demandez si un délai convient au travail collectif.",
+                "Convenez d’un moment de reprise et informez l’autrice concernée."
+              ],
+              "benefit": "Le choix du livre reste révisable ; cette adaptation de travail ne remplace pas une intervention clinique."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Le point-virgule attendra",
+      "ending": "Fanny dit à Nora qu’elle doit relire la phrase avant de répondre. L’autrice accepte de garder cette correction pour le lendemain ; toutes les autres validations sont notées. Lors de son échange de suivi, Fanny raconte effectivement les deux moments au thérapeute, sans retirer ce qu’elle avait dit en consultation. Le bon à tirer attend encore sa ponctuation. Elle garde aussi une question pour le rendez-vous médical déjà prévu le lendemain : ce que désigne exactement son diagnostic en français.",
+      "mirror": [
+        "Nora peut répondre : « On peut laisser cette phrase pour demain si l’autrice est d’accord. » Si Fanny évoque sa conviction du moment, elle peut reconnaître sa détresse sans chercher à lui faire réciter l’interprétation qu’elle envisageait en séance. Elle n’a pas à décider si Fanny est assez lucide. Son aide porte sur le délai ; le thérapeute reçoit la variation du vécu."
+      ],
+      "sources": [
+        "oms-cddr",
+        "phillips-menard-2011"
+      ],
+      "continuity": {
+        "choice": "Fanny diffère la correction de ponctuation avec l’accord de l’autrice et raconte effectivement la variation de recul au thérapeute.",
+        "next": "Une seule correction reste avant validation du bon à tirer. Le lendemain, au rendez-vous médical déjà prévu, Fanny souhaite clarifier le sens de l’intitulé de son diagnostic."
+      },
+      "conclusion": "Le point-virgule reste à décider, mais aucun des deux vécus n’a été effacé pour rendre le récit plus simple. Le recul variable se discute dans le suivi. Le délai choisi pour le texte respecte la difficulté présente sans mesurer une capacité générale de Fanny."
+    },
+    {
+      "number": 9,
+      "slug": "fanny-evaluation-clinique-trouble-olfactif",
+      "title": "Clarifier le diagnostic sans réduire toute question de santé à l’odorat",
+      "description": "Le nom de son diagnostic conduit Fanny vers une page sur la phantosmie. Son médecin précise le sens du trouble et les limites du suivi.",
+      "context": "Avant et pendant le rendez-vous habituel chez le médecin, puis devant la dernière épreuve",
+      "topics": [
+        "Évaluation clinique",
+        "Confusion des termes",
+        "Suivi médical coordonné"
+      ],
+      "clinical_focus": "Périmètre et limites de l’évaluation clinique",
+      "clinical_intro": "Un intitulé peut prêter à confusion sans décrire la même difficulté clinique. Le trouble de perception olfactive désigne ici le diagnostic 6B22, centré sur la préoccupation d’émettre une odeur offensante ; la phantosmie concerne une sensation d’odeur sans stimulus présent. Fanny connaît déjà son diagnostic. Son médecin peut préciser ce qui a été évalué et comment aborder une nouvelle question de santé.",
+      "opening": "Le point-virgule attend dans la marge de la dernière épreuve. Fanny glisse la feuille dans son sac avant de partir chez le médecin. Elle voudrait la relire après le rendez-vous, quand elle pourra penser au texte autrement qu’entre deux recherches sur son téléphone. La veille, en cherchant les mots perception olfactive, elle a trouvé une page sur la phantosmie. Elle y a lu une description qui ne correspondait pas à la question qu’elle avait apportée à son thérapeute. Pourtant, la proximité des mots l’a retenue.\n\nElle se demande maintenant si elle devrait réclamer d’autres examens ou essayer les exercices pour l’odorat apparus dans ses recherches. Elle n’a pas commencé. Son évaluation a déjà eu lieu avant le projet du recueil ; médecin et thérapeute la suivent. Ce qui lui manque ce matin, c’est de comprendre le rapport entre ces pages et le nom qu’elle connaît. Elle enregistre l’adresse de la page et garde une seule question écrite : de quelle difficulté parle exactement mon diagnostic ?\n\nDans la salle d’attente, elle ouvre plutôt le texte de l’arrêt de bus. Le point-virgule relie deux images que l’autrice souhaite garder ensemble. Fanny entend presque la phrase à voix haute. Quand le médecin vient la chercher, elle remet la page dans son sac et prend la note destinée à leur conversation. Le livre peut attendre la fin de ce rendez-vous.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Une préoccupation et une sensation ne désignent pas la même chose",
+          "text": "Le diagnostic 6B22, Olfactory reference disorder, porte sur la préoccupation persistante d’émettre une odeur corporelle ou une haleine offensante et son retentissement. La phantosmie désigne une sensation d’odeur sans stimulus présent ; la parosmie, une modification de la perception d’une odeur présente. Ces distinctions de vocabulaire ne remplacent pas l’évaluation médicale. Le bilan de Fanny a déjà eu lieu. Son diagnostic connu n’expliquerait pas automatiquement une plainte nouvelle ; le médecin apprécie les questions de santé et les démarches pertinentes dans leur contexte."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment une confusion de termes détourne-t-elle la question clinique ?",
+          "points": [
+            {
+              "heading": "Le même mot semble annoncer la même difficulté",
+              "text": "Une ressemblance dans les intitulés peut masquer une différence de ce qui est décrit.",
+              "examples": [
+                "Fanny associe perception olfactive et phantosmie au fil de sa recherche.",
+                "Elle hésite sur le rapport entre une sensation décrite en ligne et sa préoccupation d’émettre une odeur."
+              ]
+            },
+            {
+              "heading": "La recherche devient uniquement sensorielle",
+              "text": "Se concentrer sur l’odorat peut faire perdre de vue la préoccupation et ses conséquences déjà discutées dans le suivi.",
+              "examples": [
+                "Fanny envisage des exercices pour l’odorat alors que sa question concerne le sens du diagnostic établi.",
+                "Elle pense à demander d’autres examens sans savoir quelle question médicale ils devraient éclaircir."
+              ]
+            },
+            {
+              "heading": "Le diagnostic semble devoir répondre à tout",
+              "text": "Un repère connu peut être pris à tort pour une explication universelle ou une garantie sur la santé future.",
+              "examples": [
+                "Fanny se demande jusqu’où ce diagnostic vaut pour les questions qu’elle apportera au médecin.",
+                "Elle a besoin de préciser à qui s’adresser si un changement de santé apparaît, au-delà du recueil."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour préparer une clarification médicale utile",
+          "points": [
+            {
+              "heading": "Poser la question du sens du diagnostic",
+              "objective": "Comprendre ce qui a été évalué dans sa propre situation.",
+              "exercise": [
+                "Apportez le terme ou la page qui vous a laissé dans la confusion.",
+                "Demandez au médecin comment il distingue cette description de votre diagnostic établi.",
+                "Faites préciser ce qui a déjà été examiné et le rôle des professionnels de votre suivi."
+              ],
+              "benefit": "La consultation répond à une question contextualisée sans inventer une nouvelle batterie d’examens."
+            },
+            {
+              "heading": "Clarifier le recours pour un changement de santé",
+              "objective": "Conserver un accès à l’évaluation médicale au-delà du diagnostic connu.",
+              "exercise": [
+                "Demandez quels changements dans votre situation justifieraient de reprendre avis.",
+                "Précisez quel interlocuteur contacter selon les indications du médecin.",
+                "Gardez ces indications avec vos repères de suivi, sans demander de test à l’entourage."
+              ],
+              "benefit": "Les questions futures peuvent être évaluées au bon endroit au lieu d’être attribuées d’avance au trouble."
+            },
+            {
+              "heading": "Reprendre la fonction des démarches dans le suivi",
+              "objective": "Discuter des recherches qui visent surtout une certitude difficile à obtenir.",
+              "exercise": [
+                "Décrivez au thérapeute ce que vous espériez régler par une recherche ou une demande répétée.",
+                "Distinguez avec lui la question médicale précise et la préoccupation qui continue après une réponse.",
+                "Convenez de la suite avec les professionnels concernés."
+              ],
+              "benefit": "Le suivi reste coordonné ; une recherche en ligne ne devient pas un programme de traitement personnel."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Une question éclaircie, une ponctuation choisie",
+      "ending": "Le médecin regarde la page apportée et distingue le diagnostic établi des troubles sensoriels de l’odorat. Il reprend ce qui a été évalué et précise avec Fanny comment revenir vers lui pour un changement de santé. Elle n’entreprend pas les exercices trouvés en ligne. Plus tard, elle relit l’épreuve avec l’autrice : le point-virgule reste. Nora reçoit la version validée et transmet le bon à tirer. L’impression peut commencer ; la question médicale conserve son cadre de suivi.",
+      "mirror": [
+        "Si Nora demande où en est le bon à tirer, Fanny peut répondre sur la correction sans lui raconter la consultation. Si elle souhaite partager sa confusion de vocabulaire, Nora peut écouter et dire : « Tu as pu poser ta question au médecin ? » Elle n’a pas à tester son odorat ou à fournir un avis sur son odeur. Leur décision commune porte sur la version à imprimer."
+      ],
+      "sources": [
+        "oms-cddr",
+        "nidcd-smell-disorders",
+        "phillips-menard-2011"
+      ],
+      "continuity": {
+        "choice": "Le médecin clarifie le diagnostic et le recours pour un changement de santé. Fanny ne commence pas d’exercices en ligne ; l’autrice valide le point-virgule et le bon à tirer est transmis.",
+        "next": "Toutes les épreuves sont validées, l’impression de quarante-huit exemplaires sur papier ivoire peut commencer. Le suivi médical et thérapeutique reste en place."
+      },
+      "conclusion": "Le mot a été précisé sans redécouvrir le diagnostic, et le bon à tirer a été validé. Comprendre le périmètre du trouble aide à poser une question au bon interlocuteur. Cela ne transforme ni le livre ni l’entourage en instruments d’évaluation médicale."
+    },
+    {
+      "number": 10,
+      "slug": "fanny-travail-accompli-cout-invisible",
+      "title": "Le travail accompli qui laisse son coût hors du regard",
+      "description": "Les seuils est sous presse. Derrière les félicitations, Fanny mesure le temps et le plaisir perdus ; elle choisit de limiter la soirée prévue.",
+      "context": "À la réception du message de l’imprimeur, puis en réunion à la bibliothèque",
+      "topics": [
+        "Retentissement fonctionnel",
+        "Réussite et souffrance",
+        "Limite de travail"
+      ],
+      "clinical_focus": "Retentissement masqué par le travail accompli",
+      "clinical_intro": "Un travail mené à terme peut coexister avec une souffrance et des efforts supplémentaires importants dans le trouble de perception olfactive. La qualité du résultat ne suffit pas à apprécier le retentissement. Fanny, déjà suivie, voit son recueil partir à l’impression. Elle pense aussi aux échanges avec sa sœur et au plaisir de lecture que la préoccupation lui a pris.",
+      "opening": "Le message de l’imprimeur contient quatre mots que Fanny attendait : Les seuils sous presse. Nora le lui transfère avec un bravo pour la dernière relecture. Les quarante-huit exemplaires auront leur porte jaune et leurs pages ivoire. Fanny agrandit la petite image jointe et reconnaît le titre placé un peu plus haut qu’au premier essai. Elle aime le résultat. Elle pense aussi à la soirée où Lucie avait du temps et où elle n’en avait plus, retenue par les préparatifs et les préoccupations.\n\nElle a relu tous les textes, parfois sans retrouver le plaisir qui lui avait fait choisir ce métier. Le livre avance ; cette autre histoire reste moins visible. Fanny hésite à la dire parce qu’elle craint de sembler ingrate envers les participantes ou envers Nora. Elle sait pourtant qu’elle peut être contente de leur travail et épuisée par ce qui l’a accompagné.\n\nÀ la bibliothèque, la personne qui prépare la soirée leur propose d’ajouter une courte animation avant la présentation. Fanny aurait d’ordinaire plusieurs idées : écrire une première phrase à partir d’un ticket, inventer une porte qui ne s’ouvre jamais. Elle commence à en raconter une et s’arrête. Accepter remplirait encore la semaine où elle voulait retrouver du temps avec Lucie. Nora regarde le calendrier ; elle a besoin de savoir ce qu’elles réserveront vraiment.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Ce que le résultat ne permet pas de mesurer",
+          "text": "Le retentissement du trouble de perception olfactive peut être important même lorsqu’un fonctionnement professionnel paraît maintenu. Les efforts supplémentaires, le temps relationnel perdu et la diminution du plaisir comptent aussi. Le recueil de Fanny montre une compétence réelle ; il ne permet pas de conclure que la préoccupation lui coûte peu. Décrire ce coût dans le suivi aide les soignants à comprendre sa situation. Une souffrance préoccupante mérite leur attention, quelle que soit la qualité du travail accompli."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment le coût peut-il rester masqué derrière une réussite ?",
+          "points": [
+            {
+              "heading": "Le temps des relations s’est réduit",
+              "text": "Les engagements tenus peuvent avoir pris la place d’échanges auxquels la personne tenait aussi.",
+              "examples": [
+                "Fanny pense à une soirée disponible avec Lucie qu’elle n’a pas pu partager.",
+                "Les préparatifs ont repoussé l’appel qu’elle imaginait après le dépôt des textes."
+              ]
+            },
+            {
+              "heading": "L’énergie disponible ne se lit pas dans le résultat",
+              "text": "Un même travail peut demander beaucoup d’efforts quand la préoccupation occupe une partie de l’attention.",
+              "examples": [
+                "Fanny a terminé la relecture en reprenant plusieurs fois le fil du texte.",
+                "Une animation supplémentaire lui semble coûteuse même si elle a les compétences pour la concevoir."
+              ]
+            },
+            {
+              "heading": "Le plaisir de l’activité a été entamé",
+              "text": "Aimer le résultat n’efface pas les moments où la personne n’a pas pu profiter de l’activité.",
+              "examples": [
+                "Fanny apprécie la couverture imprimée et se rappelle les lectures traversées sans plaisir.",
+                "Elle hésite à dire son épuisement parce que les félicitations portent sur un vrai travail réussi."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour rendre visible le coût derrière le travail accompli",
+          "points": [
+            {
+              "heading": "Décrire ce qui a été perdu ou absorbé",
+              "objective": "Donner au suivi une image du retentissement au-delà de la productivité.",
+              "exercise": [
+                "Choisissez un travail terminé qui vous a demandé beaucoup.",
+                "Décrivez un effet sur votre temps, une relation ou le plaisir de l’activité.",
+                "Apportez ce coût au professionnel sans le minimiser au motif que le résultat est bon."
+              ],
+              "benefit": "La souffrance peut être entendue dans sa réalité, avec une réponse clinique adaptée si elle devient préoccupante."
+            },
+            {
+              "heading": "Négocier une tâche selon les ressources présentes",
+              "objective": "Décider d’un engagement de cette semaine sans en faire une règle générale.",
+              "exercise": [
+                "Précisez ce qui est déjà prévu et ce que l’on vous propose d’ajouter.",
+                "Dites ce que vous pouvez assumer maintenant, en refusant ou en ajustant la tâche supplémentaire.",
+                "Vérifiez l’accord pratique et le calendrier avec les personnes concernées."
+              ],
+              "benefit": "La limite devient concrète et révisable ; elle ne mesure ni la valeur de la personne ni son évolution clinique."
+            },
+            {
+              "heading": "Retrouver un échange littéraire choisi",
+              "objective": "Laisser une place à une relation qui dépasse la préoccupation.",
+              "exercise": [
+                "Proposez à un proche une discussion sur un texte qui vous intéresse.",
+                "Convenez d’un moment qui lui convient aussi.",
+                "Choisissez ensemble un passage à lire, sans lui demander un avis sur votre odeur."
+              ],
+              "benefit": "Le lien peut retrouver un objet partagé. Ce moment agréable ne remplace pas le soin ni ne l’invalide."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Une soirée, sans animation ajoutée",
+      "ending": "Fanny décline l’animation supplémentaire et conserve la présentation du recueil. Nora réserve la salle pour cette seule soirée. Dans son suivi, Fanny décrit le temps pris à sa relation avec Lucie et le plaisir de lecture devenu difficile ; le thérapeute l’entend sans s’arrêter au livre terminé. Elle convient ensuite avec sa sœur d’un appel pour choisir deux premières phrases à lire. L’impression continue, et sa semaine garde une place qu’elle ne souhaite pas remplir davantage.",
+      "mirror": [
+        "Nora peut féliciter Fanny et entendre aussi : « J’ai fait le travail, mais ça m’a coûté beaucoup. » Elle peut répondre : « On garde la soirée prévue et je confirme la salle. » Reconnaître ce coût ne retire rien aux textes réussis. La coanimatrice n’a pas à évaluer la gravité du trouble à partir des pages relues ; cette discussion appartient au suivi de Fanny."
+      ],
+      "sources": [
+        "oms-cddr",
+        "phillips-menard-2011"
+      ],
+      "continuity": {
+        "choice": "Fanny refuse l’animation ajoutée, Nora réserve la salle pour la présentation et le coût du travail est effectivement abordé dans le suivi. Un appel littéraire avec Lucie est convenu.",
+        "next": "La soirée reste centrée sur le recueil. Les deux sœurs ont un rendez-vous de lecture ; la préparation doit préciser l’ordre des textes et les rôles de Fanny et Nora."
+      },
+      "conclusion": "Le livre avance et la souffrance a une place dans le suivi. Refuser une tâche supplémentaire répond aux ressources de cette semaine. Le résultat professionnel, le temps relationnel et le plaisir retrouvé ou perdu racontent des aspects différents de la vie de Fanny."
+    },
+    {
+      "number": 11,
+      "slug": "fanny-autoattention-echanges-litteraires",
+      "title": "L’attention tournée vers soi qui fait perdre les mots des autres",
+      "description": "En préparant les lectures, Fanny retient sa place dans le groupe et perd l’idée d’une autrice. Elle demande à réentendre la proposition.",
+      "context": "À la bibliothèque, pendant la préparation de la soirée de présentation",
+      "topics": [
+        "Autoattention",
+        "Écoute du texte",
+        "Rôles de coanimation"
+      ],
+      "clinical_focus": "Autoattention qui entrave les échanges",
+      "clinical_intro": "L’attention tournée vers soi pendant un échange peut être une piste à explorer dans la compréhension individuelle du trouble de perception olfactive. Elle ne constitue pas un mécanisme universel établi. Fanny, dont le diagnostic est connu, surveille sa propre présence au point de perdre le propos d’une autrice. Son besoin immédiat concerne les mots qu’elle aimerait réellement entendre.",
+      "opening": "Avec Lucie, la veille, Fanny a relu deux premières phrases au téléphone. Elles ont gardé celle du bus et celle d’un retour de voyage ; sa sœur a préféré la plus courte, à la grande surprise de Fanny, qui lui a promis un jour la défense complète des points-virgules. L’appel a duré le temps dont Lucie disposait. Aujourd’hui, à la bibliothèque, ces deux textes figurent sur la feuille où le groupe prépare l’ordre des lectures. Les livres sont presque prêts ; il reste à construire une soirée qui appartienne à toutes les autrices.\n\nUne participante propose de commencer par le texte du retour plutôt que par celui du bus. Fanny écoute le son de sa propre réponse, s’inquiète de sa place dans le cercle et de ce que sa présence pourrait provoquer à cause de l’odeur qu’elle redoute. Quand elle veut revenir au propos, la participante a terminé. Fanny sait où Nora était assise et comment elle-même tenait sa feuille ; elle ne sait plus pourquoi l’ordre proposé lui semblait intéressant.\n\nElle s’entend dire « oui, comme vous voulez » pour abréger, alors qu’elle avait très envie de cette discussion. Nora regarde le texte court qu’elle défend depuis plusieurs séances. Fanny pourrait reprendre leur désaccord habituel, mais elle ne connaît même pas la proposition entière. Elle pose sa feuille et demande à la participante de reprendre son idée, cette fois avec les deux textes devant elles.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Une piste pour comprendre cet échange précis",
+          "text": "L’autoattention désigne ici l’attention absorbée par soi pendant une interaction, au détriment d’une partie de ce qui se dit. Elle se distingue du seul retour d’une pensée préoccupante : Fanny suit sa propre voix et sa place dans le groupe. Cette description peut être discutée avec son thérapeute dans une compréhension collaborative de ses difficultés. Les observations issues d’un cas clinique ne permettent pas d’en faire un mécanisme général du trouble ni un protocole à appliquer seul. Le besoin visible de cette scène reste de réentendre une proposition littéraire."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment l’attention tournée vers soi fait-elle perdre une partie de l’échange ?",
+          "points": [
+            {
+              "heading": "La manière de répondre prend la place du propos",
+              "text": "La personne peut suivre sa propre présence plutôt que les mots qui lui sont adressés.",
+              "examples": [
+                "Fanny écoute le son de sa réponse pendant que la participante explique son choix.",
+                "Elle s’inquiète de sa place dans le cercle et perd la raison proposée pour ouvrir la soirée."
+              ]
+            },
+            {
+              "heading": "La réponse sert à abréger",
+              "text": "Terminer vite l’échange peut l’emporter sur l’envie de discuter vraiment.",
+              "examples": [
+                "Fanny dit comme vous voulez avant de comprendre l’ordre suggéré.",
+                "Elle risque d’abandonner une discussion de lecture qu’elle attendait pourtant avec plaisir."
+              ]
+            },
+            {
+              "heading": "Le souvenir garde les places plutôt que les idées",
+              "text": "Ce qui a retenu l’attention peut laisser une mémoire très inégale de la conversation.",
+              "examples": [
+                "Fanny se rappelle où Nora était assise.",
+                "Elle sait comment elle tenait sa feuille mais ne peut pas reformuler l’idée de l’autrice."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour reprendre un échange dont les mots ont échappé",
+          "points": [
+            {
+              "heading": "Décrire cet effet au thérapeute",
+              "objective": "Explorer une difficulté propre à ses échanges sans en tirer seul un modèle clinique.",
+              "exercise": [
+                "Choisissez une conversation où vous avez perdu le contenu.",
+                "Décrivez ce qui occupait votre attention et ce que vous souhaitiez entendre.",
+                "Discutez de cet écart avec le thérapeute dans le cadre du suivi."
+              ],
+              "benefit": "La formulation peut rester individuelle et révisable, sans scanner le corps ni chercher des preuves dans les réactions d’autrui."
+            },
+            {
+              "heading": "Demander la proposition précise",
+              "objective": "Rendre à la conversation son objet littéraire.",
+              "exercise": [
+                "Dites simplement que vous n’avez pas suivi l’idée jusqu’au bout.",
+                "Demandez de reprendre la proposition ou sa raison principale.",
+                "Reformulez le choix de texte pour en discuter avec l’autrice."
+              ],
+              "benefit": "Les mots manqués redeviennent disponibles sans prétendre que cette reprise traite à elle seule la préoccupation."
+            },
+            {
+              "heading": "Choisir une tâche de coanimation",
+              "objective": "Répartir la soirée en fonction des souhaits et disponibilités des deux animatrices.",
+              "exercise": [
+                "Précisez la part de discussion que vous souhaitez assurer.",
+                "Demandez à la coanimatrice quelle autre tâche elle accepte de prendre.",
+                "Confirmez ensemble la répartition et la possibilité de la revoir."
+              ],
+              "benefit": "Un rôle choisi soutient le travail sur les textes ; il ne sert pas à mesurer une performance clinique ou une tolérance à la proximité."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Le texte court en premier",
+      "ending": "La participante reprend son idée : le retour de voyage donnera au récit du bus une autre résonance. Fanny relit et défend finalement ce texte court avec Nora. Elle décrit aussi au thérapeute, dans son suivi, la manière dont elle a perdu le propos en surveillant sa présence. Pour la soirée, elle choisit une présentation brève des décisions littéraires. Nora accepte la table d’accueil ; elles confirment ce partage et l’ordre des lectures. Les quarante-huit exemplaires seront retirés avant la présentation.",
+      "mirror": [
+        "Nora peut laisser la participante reprendre sa proposition sans faire de la demande de répétition un incident. Elle peut dire ensuite : « Je prends la table d’accueil ce soir-là, et tu présentes les textes ; on se le confirme ensemble avant de commencer. » Ce partage reste leur accord de travail. Elle n’a pas à observer Fanny pour mesurer son attention ou juger les effets de son suivi."
+      ],
+      "sources": [
+        "oms-cddr",
+        "allen-crooks-challacombe-2017"
+      ],
+      "continuity": {
+        "choice": "L’ordre des lectures est arrêté avec le texte court en premier. Fanny rapporte l’autoattention dans son suivi et choisit une présentation littéraire brève ; Nora accepte la table d’accueil.",
+        "next": "Les rôles sont convenus pour cette soirée et peuvent être ajustés ensemble. Les quarante-huit livres seront retirés ; chaque autrice lira son propre texte."
+      },
+      "conclusion": "La proposition a pu être réentendue et le texte court trouve sa place en ouverture. La scène décrit une difficulté de présence à l’échange, à discuter dans le suivi de Fanny. La répartition des rôles répond au projet du soir et ne constitue pas un protocole de soin."
     }
   ]
 }
