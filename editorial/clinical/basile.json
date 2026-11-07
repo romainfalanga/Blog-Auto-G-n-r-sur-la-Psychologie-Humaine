@@ -649,7 +649,7 @@
         {
           "role": "explanation",
           "heading": "Une relation avec un pair ne résume pas les autres",
-          "text": "Les difficultés décrites dans le trouble réactionnel de l’attachement ne signifient pas une absence de capacité à échanger avec autrui. Une conversation inventive avec un camarade peut coexister avec un recours difficile au réconfort adulte. Lila et Basile se répondent, modifient une idée et se disputent aussi le lancement. Ce jeu ne permet ni de réviser leur diagnostic, ni d’en établir un autre, ni de transformer Lila en soutien thérapeutique. L’enseignante garde sa place pour l’organisation et les conflits ; les préférences de chacun restent légitimes, même lorsque cela oblige à interrompre un essai."
+          "text": "Les difficultés décrites dans le trouble réactionnel de l’attachement ne signifient pas une absence de capacité à échanger avec autrui. Une conversation inventive avec un camarade peut coexister avec un recours difficile au réconfort adulte. Lila et Basile se répondent, modifient une idée et se disputent aussi le lancement. Ce jeu ne permet ni de réviser le diagnostic connu de Basile, ni d’en établir un autre, ni de transformer Lila en soutien thérapeutique. L’enseignante garde sa place pour l’organisation et les conflits ; les préférences de chacun restent légitimes, même lorsque cela oblige à interrompre un essai."
         },
         {
           "role": "manifestations",
@@ -1145,6 +1145,111 @@
       "continuity": {
         "choice": "Nora obtient un avis de santé et suit les consignes ; Mme Roux décale l’essai et répartit l’installation pour qu’elle soit possible sans Basile.",
         "next": "La séance reste compatible avec une absence ou une présence brève. La santé garde son suivi ; si son état et les conseils le permettent, Basile pourra choisir un moment de jeu."
+      }
+    },
+    {
+      "number": 12,
+      "slug": "basile-evolution-jeu-trois-chemins",
+      "title": "Une participation réussie sans preuve d’affection exigée",
+      "description": "Les trois chemins accueillent enfin les joueurs. Basile utilise un appui pour une réparation, sans que la séance mesure son attachement.",
+      "context": "La séance de jeu collective et le rangement de la piste",
+      "topics": [
+        "Évolution singulière",
+        "Participation réelle",
+        "Suivi maintenu"
+      ],
+      "clinical_focus": "Une évolution sans preuve d'affection exigée",
+      "diagnostic_stage": "known",
+      "clinical_intro": "L’évolution d’un trouble réactionnel de l’attachement ne se mesure ni à une fête réussie ni à un geste d’affection. Des changements sont possibles, sans trajectoire garantie pour chaque enfant. Basile rejoint la séance de jeu dans une organisation compatible avec les conseils de santé reçus. Sa participation compte pour son projet, tandis que ses besoins de soutien restent présents.",
+      "opening": "Les flèches du panneau se voient depuis la porte. Le rouge conduit vers le départ rapide, le bleu vers le chemin lent ; au milieu, deux ronds indiquent les billes qui doivent partir ensemble. Deux enfants sont déjà assis pour regarder. Lila présente la course à un visiteur et lui conseille de ne pas choisir sa bille préférée, parce qu’elle compte la garder pour le prochain tour.\n\nAvant la séance, Nora et Mme Roux ont vérifié l’organisation au regard des conseils de santé reçus. Basile peut participer un moment si son état le permet, s’arrêter ou regarder. La question de son ventre reste suivie séparément. Aujourd’hui, il se sent disponible pour un essai et rejoint le côté lent. Il reconnaît le petit point de feutre près du mot moustache. Nora reste près d’une chaise, là où il lui a indiqué qu’elle verrait l’arrivée.\n\nLa première bille franchit la descente. À la deuxième, le virage se décolle. Basile l’attrape avant qu’il tombe et reste avec le morceau serré dans les mains. Mme Roux lui signale qu’elle est disponible. Il ne se tourne pas vers elle et ne paraît pas soulagé par ses mots. Le chemin rapide continue à faire du bruit. Au bout de la table, un emplacement a été convenu pour les pièces à réparer ; le ruban y attend. Basile regarde longtemps le raccord, puis le pose à cet endroit sans dire ce qu’il ressent.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Une action observable ne résume pas une évolution clinique",
+          "text": "Une évolution favorable est possible avec des soins et un environnement appropriés, mais une réussite ponctuelle ne permet pas de conclure à la disparition du trouble réactionnel de l’attachement. Des recherches auprès de très jeunes enfants initialement institutionnalisés ont observé, en moyenne, moins de signes inhibés après un accueil familial soutenu que dans un groupe de soins usuels. Elles ne prédisent ni le parcours de Basile, âgé de sept ans, ni un délai de changement, ni l’effet d’un jeu ou d’un geste domestique. Dans la scène, il utilise un emplacement de réparation après être resté seul avec le morceau. C’est une action précise à reconnaître ; son recours au réconfort demeure difficile et son suivi ne se décide pas à partir de cette séance."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment reconnaître un changement sans en faire une preuve de guérison ?",
+          "points": [
+            {
+              "heading": "Une difficulté reste visible",
+              "text": "Le projet peut aboutir alors que certains besoins restent difficiles à partager. La réussite collective n’annule pas ce que l’enfant traverse pendant un incident.",
+              "examples": [
+                "Basile serre le virage détaché sans se tourner vers Mme Roux.",
+                "La proposition de présence ne le fait pas paraître aussitôt apaisé."
+              ]
+            },
+            {
+              "heading": "Un appui concret devient utilisable",
+              "text": "Un geste peut permettre de reprendre l’activité sans contenir une déclaration affective. On peut en décrire la portée limitée plutôt que lui donner une signification cachée.",
+              "examples": [
+                "Basile dépose le raccord à l’endroit convenu pour la réparation.",
+                "Il peut attendre que Mme Roux regarde la pièce sans devoir lui sourire ou raconter sa peine."
+              ]
+            },
+            {
+              "heading": "Plusieurs façons de participer fonctionnent",
+              "text": "La place de chacun se voit dans l’usage réel du projet. Ce résultat appartient aussi aux apprentissages et aux choix du groupe.",
+              "examples": [
+                "Lila lance une course pendant que deux enfants restent assis à regarder.",
+                "Le chemin lent et le départ commun peuvent être utilisés sans obliger tous les joueurs à préférer la même vitesse."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour reconnaître une réussite sans exiger de preuve affective",
+          "points": [
+            {
+              "heading": "Nommer l’action accomplie",
+              "objective": "Pour l’adulte, reconnaître ce qui a changé concrètement sans interpréter l’attachement.",
+              "exercise": [
+                "Décrivez l’action observée, comme déposer la pièce à réparer.",
+                "Répondez au besoin matériel ou à la proposition de l’enfant.",
+                "Laissez la suite se faire sans demander câlin, regard ou remerciement en confirmation."
+              ],
+              "benefit": "La contribution reçoit une réponse utile et ne devient pas un examen des sentiments de l’enfant."
+            },
+            {
+              "heading": "Conserver les repères après la fête",
+              "objective": "Maintenir un soutien prévisible même lorsque le projet fonctionne.",
+              "exercise": [
+                "Gardez les adultes et les relais annoncés pendant toute la séance.",
+                "Respectez les pauses et les adaptations liées aux conseils de santé.",
+                "Annoncez le rangement et la prochaine utilisation sans retirer l’aide au motif que tout aurait réussi."
+              ],
+              "benefit": "Un bon moment n’a pas pour prix la disparition soudaine des appuis dont l’enfant peut encore avoir besoin."
+            },
+            {
+              "heading": "Reprendre les besoins dans la durée",
+              "objective": "Laisser l’appréciation clinique aux échanges de suivi plutôt qu’à un bilan de fête.",
+              "exercise": [
+                "Gardez une description simple de la situation, avec ce qui a aidé et ce qui est resté difficile.",
+                "Partagez les éléments utiles lors du suivi avec les professionnels et les responsables concernés.",
+                "Discutez les ajustements avec eux en tenant compte de la place de l’enfant, sans fixer un pronostic à partir du jeu."
+              ],
+              "benefit": "Les soins peuvent rester individualisés tandis que les réussites ordinaires gardent leur valeur propre."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Un prochain tunnel dans la boîte bleue",
+      "ending": "Mme Roux regarde le raccord à l’endroit convenu. « Tu l’as posé ici ; on peut fixer ce bord. » Elle prépare le ruban et Basile indique quel côté doit rester courbé. Le virage rejoint le chemin lent. Cette fois la bille traverse la moustache, touche le couvercle et s’immobilise. À côté, Lila termine sa course puis vient pour un tour au départ commun. Basile tient la languette, elle place les deux billes ; au lancement suivant, ils échangent leurs places.\n\nLes trois chemins ont servi. Basile s’assied près du plateau et laisse les autres poursuivre. Nora reste à la distance choisie, sans tendre les bras pour clore la séance. Au rangement, les pièces détachables retrouvent la boîte bleue ; le plateau et le panneau sont gardés à plat pour un autre atelier. Les relais de santé et le suivi pédopsychiatrique continuent. Basile soulève le couvercle avant de le fermer : « Un tunnel qui fait deux bruits, ça rentre dans la prochaine ? » Lila répond qu’il faudra quand même garder une course.",
+      "conclusion": "Le projet des trois chemins aboutit sans devenir une épreuve d’attachement. Basile utilise un appui, joue avec Lila puis s’arrête ; des difficultés demeurent et les suivis continuent. Son envie d’un autre tunnel ouvre une suite qui appartient d’abord à sa vie d’enfant.",
+      "mirror": [
+        "Nora peut reconnaître le résultat avec des mots simples : « Les trois chemins ont servi. Tu veux garder le panneau à plat ? » Elle n’a pas à appeler le dépôt du raccord une preuve de confiance ou à attendre un câlin de fin. Avec Mme Roux et l’équipe, elle peut décrire la difficulté persistante et l’aide utilisée, sans pronostic tiré de la fête. Quand Basile propose deux bruits pour le prochain tunnel, elle peut aussi s’intéresser simplement à son idée."
+      ],
+      "sources": [
+        "oms-cddr",
+        "nice-ng26",
+        "smyke-beip-2012",
+        "aacap-non-coercition"
+      ],
+      "continuity": {
+        "choice": "Le virage réparé permet un vrai jeu sur les trois chemins ; Basile partage un tour avec Lila puis se repose. Le matériel est rangé pour être réutilisé.",
+        "next": "L’enjeu collectif est clos. La santé et le suivi pédopsychiatrique conservent leurs relais ; Basile imagine un nouveau tunnel à deux bruits, sans conclusion de guérison."
       }
     }
   ]

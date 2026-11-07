@@ -1,0 +1,54 @@
+{
+  "references": {
+    "oms-mms-6b45": {
+      "title": "OMS, CIM-11 MMS 2026-01, 6B45, Trouble de l’engagement social désinhibé",
+      "url": "https://icd.who.int/browse/2026-01/mms/fr#467941148"
+    },
+    "nice-ng26": {
+      "title": "NICE NG26, Children’s attachment, recommandations 1.1, 1.2, 1.3 et 1.5.4–1.5.7, 2015",
+      "url": "https://www.nice.org.uk/guidance/ng26/chapter/recommendations"
+    },
+    "aacap-non-coercition": {
+      "title": "AACAP, Policy Statement on Coercive Interventions for Attachment Disorders, décembre 2022",
+      "url": "https://aacap.org/AACAP/Policy_Statements/2022/Policy_Statement_Coercive_Interventions_Attachment_Disorders.aspx"
+    },
+    "humphreys-beip-2017": {
+      "title": "Humphreys et coll., Signs of Reactive Attachment Disorder and Disinhibited Social Engagement Disorder at Age 12 Years, Development and Psychopathology 29, 675–684, 2017",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5777580/"
+    },
+    "guyon-harris-beip-2018": {
+      "title": "Guyon-Harris et coll., Course of Disinhibited Social Engagement Disorder From Early Childhood to Early Adolescence, JAACAP, 2018, PMID 29706162",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29706162/"
+    }
+  },
+  "dossier": {
+    "name": "Trouble de l’engagement social désinhibé",
+    "aliases": [
+      "6B45",
+      "Disinhibited social engagement disorder"
+    ],
+    "references": [
+      "oms-cddr",
+      "oms-mms-6b45",
+      "nice-ng26",
+      "aacap-non-coercition",
+      "humphreys-beip-2017",
+      "guyon-harris-beip-2018"
+    ],
+    "points": [
+      "Verification du 7 novembre 2026 : CDDR OMS 2024, chapitre 6B45, pages imprimées 358–360, lu dans le PDF et son texte déjà présents dans le répertoire de recherche du projet. La notice OMS officielle confirme cette édition. Le navigateur MMS français 2026-01 s’ouvre mais son contenu dynamique de catégorie n’est pas extrait ; conserver le libellé et le lien canoniques sans prétendre avoir relu sa définition française. Les formulations françaises des CDDR sont des paraphrases de travail, non une traduction officielle.",
+      "Périmètre diagnostique — CDDR p.358, Essential features : diagnostic antérieur à la série, fondé sur une histoire développementale et une évaluation clinique. Les signes commencent avant cinq ans ; commencer un atelier à huit ans ne signifie pas débuter le trouble à huit ans. Les soins précoces insuffisants ne sont ni détaillés en fiction ni déduits du placement actuel. La plupart des enfants exposés ne développent pas ce trouble (p.359). Aucun auto-test ni questionnaire à remplir par l’animateur.",
+      "Manifestations — CDDR p.358 : faible réserve envers les adultes inconnus, familiarité verbale ou corporelle, faible vérification du retour vers le référent et disposition à partir avec un adulte inconnu. Les épisodes 1–5 distinguent entrée en relation, intimité de conversation, espace corporel, repérage du référent et passage à un départ ; ils ne constituent pas cinq synonymes ni cinq critères à cocher. Les situations restent sécurisées par les adultes.",
+      "Mécanismes et limites — CDDR p.359, Boundary with normality, et p.360, Developmental presentations : sociabilité joyeuse et trouble ne sont pas interchangeables. Un attachement sélectif peut exister. Ne pas raconter un manque d’amour, une séduction intentionnelle, une ruse ou un défaut moral. Épisodes 6 et 7 différencient lien affectif avec Mireille et tempérament enjoué des comportements envers des inconnus.",
+      "Diagnostic différentiel — CDDR p.360, Boundary with ADHD : impulsivité générale et désinhibition sociale ne s’équivalent pas ; une coexistence est possible et relève du spécialiste. Épisode 8 : des difficultés de tâche sont transmises pour évaluation sans diagnostic supplémentaire. Une bonne concentration ponctuelle ne réfute pas un TDAH ; l’animateur ne tranche pas.",
+      "Accompagnement — NICE NG26, 1.1.9–1.1.10, 1.1.18, 1.3.8, 1.5.4–1.5.7 : soutien des accueillants, protection maintenue, coordination spécialisée et interventions adaptées à l’âge scolaire. Portée : recommandations britanniques concernant largement les difficultés d’attachement, non un protocole spécifique au 6B45 ni une règle juridique française. L’atelier d’arts plastiques est une activité de loisir, pas une séance de jeu thérapeutique. Ne pas recopier les programmes préscolaires, durées ou organisations britanniques comme prescription pour Thaël.",
+      "Application narrative proposée, non traitement validé : accueil par un adulte nommé, repère visible dans la salle, circulation accompagnée, formule de salut choisie et liste courte de visiteurs sont des adaptations à discuter avec les responsables et l’équipe. Ni efficacité clinique ni autonomie garantie ne leur sont attribuées. Le repère doit être aussi organisé et maintenu par les adultes ; sa mémorisation n’est jamais la condition pour assurer la sécurité de l’enfant.",
+      "Non-coercition — AACAP, déclaration approuvée décembre 2022, Background et recommandations finales : évaluation spécialisée et plan individualisé ; opposition aux interventions coercitives dangereuses prétendant traiter l’attachement. Épisodes 3 et 10 : aucune immobilisation affective, privation, affection exigée ou humiliation. Les responsables gardent les mesures de protection ordinaires nécessaires ; une limite corporelle n’est pas une punition.",
+      "Évolution — Humphreys et coll. 2017, Abstract, Method et Discussion : suivi BEIP à douze ans, 111 enfants initialement institutionnalisés et 50 témoins ; moins de signes dans le groupe assigné à l’accueil familial. Limites : contexte roumain, changements de placement après randomisation, signes rapportés et incertitude sur les présentations diagnostiques à cet âge. Pas de pronostic individuel ni preuve d’efficacité d’un atelier artistique français.",
+      "Évolution hétérogène — Guyon-Harris et coll. 2018, résumé PubMed, Method/Results/Conclusion : 124 enfants avec histoire institutionnelle, 69 témoins, quatre trajectoires de signes jusqu’à douze ans. Les associations avec conditions de placement ne permettent pas d’imputer une difficulté actuelle à Mireille. Le texte intégral PMC était bloqué lors de cette consultation ; seules les données du résumé sont retenues. Épisode 11 : réapparition en contexte nouveau, sans inventer un facteur causal démontré ou un délai de guérison.",
+      "Retentissement et autonomie — épisodes 9, 10 et 12 sont des enjeux d’accompagnement, non de nouveaux critères diagnostiques : étiquetage par les autres, fatigue des adultes responsables, choix d’un public à l’intérieur d’un cadre sûr. Appuis NICE 1.2.1–1.2.2 (formation), 1.1.10 (soutien), et introduction (participation aux décisions), interprétés avec les CDDR. Les règles de confidentialité françaises ne sont pas déduites de NICE. Pas d’exposition publique du parcours de protection.",
+      "Différence avec Basile 6B44 : aucun parcours fondé sur défaut de recherche du réconfort, retrait, affect positif limité ou câlin final réparateur. Thaël peut demander et recevoir du réconfort de Mireille tout en s’adressant trop familièrement à un inconnu. Sa joie, ses choix artistiques et ses liens ne sont ni niés ni utilisés comme preuves de guérison. Les trois propositions pratiques de chaque futur épisode devront rester des appuis concrets encadrés, pas douze versions d’une thérapie de l’attachement."
+    ]
+  },
+  "direction": "Thaël est un élève de 8 ans dont le diagnostic 6B45 est déjà établi. Il commence un atelier d’arts plastiques et veut fabriquer une marionnette puis décider à qui la montrer. Mireille est son assistante familiale ; Idriss anime l’atelier ; la docteure Sorel appartient à l’équipe spécialisée déjà impliquée. Zoé, autre enfant de l’atelier, fabrique un oiseau et ne devient jamais surveillante de Thaël. Thaël aime les objets qui grincent, les grandes manches et les noms impossibles : sa marionnette s’appelle Monsieur Peut-être. Il dit « Sa bouche, elle doit pouvoir dire non aussi ». Cette voix concrète garde humour, déception et préférences sans vocabulaire clinique. La série se déroule sur plusieurs semaines, de l’arrivée avec une chaussette rayée à une petite présentation choisie. Les deux premières scènes montrent la désinhibition, puis chaque épisode avance un élément réel de fabrication. Les adultes protègent sans punir ; les visiteurs ne servent jamais de pièges expérimentaux. Pas de scène détaillée du passé ni de séparation organisée pour tester le lien. Le projet aboutit devant Mireille, Idriss et Zoé, et non devant tout le centre. La surveillance adaptée et le suivi restent en place après le salut final."
+}

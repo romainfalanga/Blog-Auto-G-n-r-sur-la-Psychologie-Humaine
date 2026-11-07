@@ -930,6 +930,312 @@
         "choice": "Elles séparent leurs informations et laissent l’ordre des visites incertain. Les papiers médicaux sont rangés à part ; Bérénice contacte Karim pour parler concrètement du retour.",
         "next": "Le récit médical n'a pas été forcé et les feuilles du tournoi sont retrouvées. La prochaine décision concerne une activité interrompue et les tâches que Bérénice souhaite reprendre avec Karim."
       }
+    },
+    {
+      "number": 10,
+      "slug": "berenice-retour-accueil-role-choisi",
+      "title": "Retour au travail : retrouver une tâche et choisir sa place",
+      "description": "Au comptoir, Bérénice retrouve son agrafeuse et les inscriptions. Avec Karim, elle précise son rôle et les informations qu’elle souhaite partager.",
+      "context": "Le retour préparé à l’accueil de la salle",
+      "topics": [
+        "Activité interrompue",
+        "Partage des tâches",
+        "Vie médicale privée"
+      ],
+      "clinical_focus": "Retentissement professionnel et retour choisi",
+      "clinical_intro": "Une hospitalisation pour catatonie peut interrompre une activité et déplacer les rôles dans une équipe. La résolution de la phase aiguë et la reprise du travail sont des questions distinctes. Dans le retour préparé avec son suivi et la salle, Bérénice veut retrouver une tâche précise, avec une organisation consentie qui ne transforme pas son collègue en évaluateur de sa santé.",
+      "opening": "L’agrafeuse orange est toujours à gauche du téléphone. Bérénice avait imaginé qu’elle aurait disparu dans un tiroir pendant son absence ; Karim lui montre les feuilles du tournoi rangées juste dessous. Leur échange a été fixé après son appel, dans le cadre du retour préparé avec son suivi et la salle. Il ne s’agit pas de venir faire un essai pour prouver qu’elle va bien. Pourtant, devant le comptoir qu’elle connaît, Bérénice a l’impression d’arriver dans une organisation qui a appris à se passer d’elle.\n\nKarim lui explique où il a classé les inscriptions. « Je peux continuer à tout garder, ne t’embête pas. » Bérénice pose l’enveloppe bleue à côté des feuilles. « Justement, je viens pour reprendre cette partie. Pas toute la salle, les inscriptions. » Il regarde la pile qu’il avait déjà attirée vers lui, puis la repose entre eux. Il lui demande quelle partie elle souhaite garder et ce qu’ils doivent répartir pendant le créneau prévu.\n\nUn collègue passe derrière le comptoir et lui souhaite un bon retour. Bérénice répond qu’elle revient après une hospitalisation. Elle n’ajoute pas le nom du diagnostic. Personne n’a besoin d’ouvrir la pochette médicale pour trouver la liste des joueurs. Elle retrouve le crayon entouré de ruban adhésif dans l’enveloppe et vérifie avec Karim la version du formulaire. Ce petit accord pratique lui paraît plus utile qu’une promesse de reprendre tout comme avant.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Le retour demande aussi une organisation ordinaire",
+          "text": "Le retentissement d’une catatonie peut dépasser la période où les signes aigus sont présents, notamment parce qu’une hospitalisation interrompt les engagements quotidiens. Cette interruption ne signifie pas que le syndrome reste actif au moment du retour. Pour Bérénice, la phase aiguë a été résolue sous soins et les démarches de reprise sont distinctes. Au comptoir, elle doit encore retrouver une place parmi des tâches redistribuées. L’accord avec Karim porte sur le travail concret et sur leurs disponibilités, pas sur son aptitude médicale. Les arrangements décrits sont ceux de cette fiction ; ils ne constituent ni une procédure de santé au travail ni un traitement de la catatonie."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment une interruption médicale transforme-t-elle une place professionnelle ?",
+          "points": [
+            {
+              "heading": "Les tâches ont continué autrement",
+              "text": "Une équipe peut s’être organisée pendant l’absence. Revenir suppose parfois de connaître cette organisation avant de reprendre une responsabilité, sans y voir une mise à l’écart volontaire.",
+              "examples": [
+                "Karim a gardé les inscriptions et classé les feuilles pendant l’hospitalisation de Bérénice.",
+                "Bérénice lui demande quelle version est utilisée avant de ressortir celle de son enveloppe."
+              ]
+            },
+            {
+              "heading": "L’aide proposée peut dépasser ce qui est souhaité",
+              "text": "Faire tout à la place de quelqu’un peut partir d’une attention et réduire pourtant son choix. La répartition gagne à être discutée avec la personne concernée.",
+              "examples": [
+                "Karim propose d’abord de conserver tout le dossier alors que Bérénice veut précisément reprendre les inscriptions.",
+                "Elle précise qu’elle souhaite cette tâche sans devenir responsable de toutes les demandes du comptoir."
+              ]
+            },
+            {
+              "heading": "Le rôle peut être défini sans ouvrir le dossier médical",
+              "text": "L’information utile pour organiser une activité n’est pas nécessairement l’histoire de santé complète. Les préférences de partage et les démarches de soins relèvent d’échanges distincts.",
+              "examples": [
+                "Bérénice dit aux collègues qu’elle revient après une hospitalisation, sans détailler le diagnostic.",
+                "Karim discute de la pile de formulaires et de la relève, sans demander les traitements pour décider de ce qu’elle peut faire."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour préciser une reprise avec les personnes concernées",
+          "points": [
+            {
+              "heading": "Définir une contribution concrète",
+              "objective": "L’objectif est de rendre le rôle choisi compréhensible pour chacun.",
+              "exercise": [
+                "Dans le cadre de la reprise préparée, nommez la tâche que vous souhaitez reprendre.",
+                "Demandez qui garde les autres demandes et qui pourra assurer la relève convenue.",
+                "Vérifiez ensemble les documents et le créneau concernés, sans organiser une épreuve de performance."
+              ],
+              "benefit": "L’accord porte sur des actions observables et des responsabilités partagées. Il n’exige pas de prouver sa récupération à un collègue."
+            },
+            {
+              "heading": "Choisir ce que l’on souhaite partager",
+              "objective": "Le but est de garder une place pour la vie privée dans les échanges ordinaires.",
+              "exercise": [
+                "Préparez une phrase qui donne l’information que vous souhaitez transmettre à vos collègues.",
+                "Dites si vous préférez vous en tenir là plutôt que détailler votre hospitalisation.",
+                "Revenez à la question pratique à régler, comme l’accès aux formulaires ou la répartition des demandes."
+              ],
+              "benefit": "La conversation peut rester utile sans que l’aide soit conditionnée à un récit médical. Cette proposition ne remplace aucune démarche professionnelle nécessaire."
+            },
+            {
+              "heading": "Conserver la place du suivi",
+              "objective": "L’objectif est de ne pas demander au travail de répondre aux questions cliniques.",
+              "exercise": [
+                "Gardez les rendez-vous et démarches prévus avec les professionnels concernés.",
+                "Adressez-leur une question de santé ou de reprise qui dépasse l’organisation du comptoir.",
+                "Discutez ensuite avec les personnes de la salle les aspects pratiques qui les concernent, selon ce qui a été convenu."
+              ],
+              "benefit": "Le collègue peut être un partenaire de travail sans devenir responsable d’apprécier l’état médical. Une reprise réussie ne supprime pas le suivi."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Une pile entre deux collègues",
+      "ending": "Bérénice reprend les inscriptions prévues pendant que Karim garde les demandes générales du comptoir sur ce créneau. Ils placent l’enveloppe bleue dans un endroit accessible à tous deux. L’agrafeuse retrouve son usage : réunir les bonnes feuilles, pas marquer une victoire sur l’hospitalisation.\n\nÀ une question d’un autre collègue, Bérénice reprend sa phrase sur le retour après l’hôpital et s’en tient là. Karim n’ajoute rien. Le rôle choisi commence réellement, avec un partage qui ne dépend pas d’une divulgation médicale. Un autre soir, un délai dans une réponse à Estelle réveillera une inquiétude ; cette question trouvera sa place au contact de suivi, pas dans un jugement tiré de ce premier créneau.",
+      "conclusion": "Reprendre une place après une interruption médicale demande parfois de rendre les tâches explicites et l’aide négociable. Bérénice retrouve les inscriptions avec Karim, tout en gardant son suivi et sa liberté de ne pas raconter sa santé au comptoir.",
+      "mirror": [
+        "Karim peut remplacer « je vais tout faire » par « quelle partie veux-tu garder, et qu’est-ce que je reprends ? ». Il connaît le comptoir et sa propre disponibilité ; il n’a pas à apprécier l’aptitude médicale de Bérénice. En laissant l’enveloppe accessible et en gardant les demandes générales, il soutient un accord concret. Il peut aussi respecter la courte réponse sur l’hospitalisation sans chercher auprès d’Estelle ce que sa collègue n’a pas partagé."
+      ],
+      "sources": [
+        "oms-cddr",
+        "bap-catatonia-2023"
+      ],
+      "continuity": {
+        "choice": "Bérénice reprend les inscriptions et Karim garde les demandes générales sur le créneau. L’enveloppe reste accessible ; les collègues ne reçoivent que l’information qu’elle souhaite partager.",
+        "next": "La contribution est définie et le retour a commencé. Un délai de réponse remarqué un autre soir inquiète Bérénice ; elle apporte ce fait au contact de suivi plutôt que le laisser devenir une certitude de rechute."
+      }
+    },
+    {
+      "number": 11,
+      "slug": "berenice-changement-ulterieur-reevaluation",
+      "title": "Ralentissement ultérieur : demander une nouvelle appréciation",
+      "description": "Un délai de réponse inquiète Bérénice. Elle le rapporte au suivi sans conclure seule à une rechute ni le déclarer sans importance.",
+      "context": "Un changement rapporté au contact de suivi",
+      "topics": [
+        "Observation isolée",
+        "Inquiétude et évaluation",
+        "Relais médical adapté"
+      ],
+      "clinical_focus": "Ralentissement ultérieur et nouvelle évaluation",
+      "clinical_intro": "Un diagnostic connu ne donne pas automatiquement la cause de tout changement ultérieur. Une réponse tardive, à elle seule, ne permet ni d’affirmer une nouvelle catatonie ni d’écarter une difficulté médicale. Bérénice rapporte ce qui l’a inquiétée au professionnel de suivi, qui reprend le contexte et son état actuel. Une altération importante ou brutale appelle, elle, un relais médical urgent.",
+      "opening": "Pendant le contact de suivi, Bérénice commence par une phrase qu’elle a répétée dans sa tête : « L’autre soir, j’ai mis du temps à répondre à Estelle, et j’ai aussitôt pensé à l’hôpital. » Elle avait prévu de raconter aussi le retour au comptoir, l’enveloppe bleue enfin partagée avec Karim et les inscriptions qui avancent. Elle ne veut pas que ces bonnes nouvelles fassent disparaître la question qu’elle apporte aujourd’hui.\n\nÀ sa demande, Estelle est présente pour préciser ce qu’elle a observé. Sa fille avait posé une question à propos d’un joueur ; la réponse avait tardé. Elle décrit ce moment, sans donner un nom au silence ni prétendre avoir mesuré un signe. Bérénice ajoute ce qu’elle en a pensé. La peur d’un retour de la catatonie lui est venue plus vite que toute autre explication.\n\nLe médecin reprend l’événement, ce qui l’entourait et la situation actuelle. Il ne tire pas une conclusion du seul délai raconté, et ne prend pas le créneau réussi à l’accueil pour une garantie médicale. Bérénice voudrait une phrase qui ferme définitivement la question. À la place, elle demande ce que cette appréciation implique pour la suite et quel relais utiliser si un changement devient préoccupant. Estelle n’ouvre pas un carnet de surveillance ; elle écoute les indications avec sa mère, qui garde la parole sur ce qui la concerne.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Le diagnostic antérieur ne remplace pas l’évaluation présente",
+          "text": "Une catatonie est un syndrome évalué cliniquement, et non le nom automatique de toute lenteur chez une personne qui en a présenté une. Un changement ultérieur demande d’être apprécié selon son contexte, l’état actuel et les autres explications possibles. Pour Bérénice, l’inquiétude est réelle, mais elle ne constitue pas une preuve de rechute. Le médecin reprend la situation ; le récit n’affirme aucune nouvelle catatonie et ne transforme pas non plus une observation isolée en certificat d’absence de danger. Une incapacité nouvelle marquée à répondre ou bouger, une altération importante de l’état général ou une aggravation brutale nécessite une aide médicale urgente, sans examen familial préalable."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment un diagnostic connu peut-il orienter trop vite l’interprétation ?",
+          "points": [
+            {
+              "heading": "Une observation reçoit immédiatement un nom",
+              "text": "Le souvenir d’un épisode grave peut rendre une explication particulièrement présente. Le fait observé reste utile au professionnel sans suffire à établir ce nom.",
+              "examples": [
+                "Bérénice associe aussitôt son délai de réponse à la catatonie passée.",
+                "Estelle rapporte une réponse tardive sans déclarer que sa mère présentait de nouveau le syndrome."
+              ]
+            },
+            {
+              "heading": "Une inquiétude et une conclusion clinique se confondent",
+              "text": "La crainte mérite une écoute même si la conclusion reste à établir. La reconnaître n’oblige ni à confirmer le diagnostic redouté ni à rassurer sans évaluation.",
+              "examples": [
+                "Le médecin entend la peur de Bérénice puis reprend les circonstances et son état actuel.",
+                "Il ne considère pas sa réussite au comptoir comme une raison d’écarter la question médicale."
+              ]
+            },
+            {
+              "heading": "Les relais répondent à la situation, pas à l’étiquette",
+              "text": "Le suivi offre un interlocuteur pour le changement rapporté ici. Une altération importante ou brutale réclame une réponse urgente, même si personne ne sait quel diagnostic lui donner.",
+              "examples": [
+                "Bérénice apporte l’événement au contact de suivi et obtient une appréciation professionnelle.",
+                "La conduite convenue pour un changement majeur ne demande pas à Estelle de vérifier d’abord si la catatonie est revenue."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour transmettre un changement et trouver le bon relais",
+          "points": [
+            {
+              "heading": "Séparer le fait de l’interprétation",
+              "objective": "L’objectif est de donner au professionnel une information claire sans produire un diagnostic familial.",
+              "exercise": [
+                "Rapportez le fait qui vous préoccupe et le contexte que vous connaissez.",
+                "Dites séparément ce que vous avez pensé ou redouté à ce moment.",
+                "Répondez aux questions du professionnel sans demander à la personne de reproduire le signe ni d’obtenir un score."
+              ],
+              "benefit": "L’évaluation peut s’appuyer sur une observation et sur l’inquiétude exprimée, sans les confondre. Rassembler des détails ne doit jamais retarder une aide urgente."
+            },
+            {
+              "heading": "Suivre le relais indiqué",
+              "objective": "Le but est que la question reçoive une réponse clinique adaptée à la situation.",
+              "exercise": [
+                "Adressez le changement au professionnel ou au service prévu, selon les indications reçues.",
+                "Laissez-le apprécier le besoin d’une évaluation et la suite à organiser.",
+                "Vérifiez la prochaine étape concrète sans remplacer cette appréciation par une conclusion tirée d’une activité réussie."
+              ],
+              "benefit": "Le suivi reste actif et la personne n’a pas à trancher seule. Le tournoi ou le travail ne deviennent pas des preuves de santé."
+            },
+            {
+              "heading": "Clarifier le recours urgent",
+              "objective": "L’objectif est de ne pas attendre une certitude diagnostique devant une altération importante.",
+              "exercise": [
+                "Demandez au médecin comment obtenir une aide médicale urgente si l’état change fortement ou brutalement.",
+                "Conservez le moyen de contact indiqué à un endroit accessible.",
+                "Devant une altération importante ou brutale, sollicitez cette aide sans test à domicile ni attente du rendez-vous suivant."
+              ],
+              "benefit": "Le proche connaît un relais sans être chargé de déterminer la cause. Ces repères ne constituent pas une liste permettant d’exclure seul tout danger."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Un relais plutôt qu’un carnet de tests",
+      "ending": "Le médecin évalue la situation avec Bérénice et précise la suite du suivi ainsi que le relais à utiliser en cas de changement préoccupant. Elle redemande comment obtenir une aide urgente si son état s’altère fortement ; Estelle écoute cette réponse sans recevoir la mission de noter chaque temps de réponse. Aucune nouvelle catatonie n’est affirmée dans cet échange.\n\nBérénice peut ensuite revenir au tournoi. Elle souhaite maintenir le partage prévu et demander à Karim s’il prend bien la clôture. Ce choix d’organisation n’est pas une conclusion médicale. Il laisse aux joueurs un accueil prévu, à sa fille un rôle défini et au suivi les questions qui relèvent des soins.",
+      "conclusion": "Un événement ultérieur doit être apprécié pour lui-même, même après un diagnostic connu. Bérénice a transmis sa crainte et reçu un relais médical ; elle peut organiser le tournoi sans transformer les inscriptions ou l’attention de sa fille en surveillance clinique.",
+      "mirror": [
+        "Estelle peut dire : « J’ai remarqué que ta réponse avait tardé ; je peux raconter ce moment au médecin avec toi. » Elle n’a pas à nommer une rechute ni à assurer que ce n’est rien. Elle peut suivre les indications du professionnel et conserver le recours urgent convenu. Devant une altération nouvelle importante ou brutale, elle demande une aide médicale sans faire répéter des gestes, mesurer les réponses ou attendre le prochain rendez-vous."
+      ],
+      "sources": [
+        "oms-cddr",
+        "bap-catatonia-2023"
+      ],
+      "continuity": {
+        "choice": "Le changement est évalué par le médecin, qui précise le suivi et le relais urgent. Aucune rechute n’est affirmée ; Bérénice reprend l’organisation des rôles du tournoi.",
+        "next": "Le changement a reçu un relais médical et le suivi continue. Bérénice et Estelle peuvent arrêter le rôle de chacune pour le tournoi ; ce choix ne vaut pas décision clinique sur l'évolution."
+      }
+    },
+    {
+      "number": 12,
+      "slug": "berenice-resolution-reprise-place-tournoi",
+      "title": "Après la phase aiguë : reprendre une place qui reste la sienne",
+      "description": "Au tournoi, Bérénice tient les inscriptions et laisse la clôture à Karim. Son rôle choisi a une issue concrète ; le suivi garde sa place.",
+      "context": "Le jour du tournoi de badminton",
+      "topics": [
+        "Résolution clinique et activités",
+        "Contribution avec relève",
+        "Projet au-delà du diagnostic"
+      ],
+      "clinical_focus": "Résolution clinique et reprise d’une place",
+      "clinical_intro": "La résolution clinique d’une catatonie et la reprise d’une place dans la vie quotidienne suivent des repères différents. Les soins peuvent avoir résolu la phase aiguë alors que les conséquences pratiques de l’interruption restent à organiser. Au tournoi, Bérénice tient un rôle choisi avec une relève prévue ; cette participation ne constitue ni un test de guérison ni une raison de supprimer le suivi.",
+      "opening": "L’agrafeuse orange avale le coin des feuilles avec son petit bruit sec. Bérénice aligne les formulaires derrière le comptoir pendant qu’Estelle cherche où poser l’affiche. Elle la cale contre la porte ouverte. « L’affiche tient, mais personne ne la voit derrière la porte », dit sa mère. Estelle lève les yeux, puis la déplace. Cette fois, la remarque règle un problème de panneau ; personne n’en tire un bilan de santé.\n\nLes premiers joueurs arrivent avec des sacs plus grands que l’espace réservé devant l’accueil. Bérénice vérifie les inscriptions, Estelle répond à leurs questions sur les matchs. Karim passe les saluer et confirme qu’il prendra la clôture comme convenu. Bérénice lui montre où elle laissera les documents. Elle ne veut pas découvrir à la fin de son créneau qu’une relève annoncée n’avait jamais été réellement organisée.\n\nLa phase catatonique a été déclarée résolue par l’équipe avant la sortie de l’hôpital. Les semaines suivantes ont gardé leurs rendez-vous, leurs questions et le retour préparé au travail. Aujourd’hui n’est pas la dernière page d’un dossier médical. Bérénice est venue tenir les inscriptions avec sa fille. Quand un joueur lui demande si elle s’occupe aussi de l’ordre des rencontres, elle lui indique Estelle. Puis elle remet son crayon sur la feuille suivante. Son rôle est suffisamment précis pour qu’elle puisse le remplir sans prendre tout le tournoi sur ses épaules.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Le soin et la reprise d’un rôle ont des repères distincts",
+          "text": "La disparition d’une phase catatonique relève de l’appréciation clinique ; retrouver des activités implique aussi des décisions pratiques, des relations et des préférences personnelles. Le cours souvent bref de la catatonie provoquée par des substances ou des médicaments ne promet pas un délai identique pour tous ni une absence de difficulté ultérieure. Chez Bérénice, les soins ont précédé la reprise, et le changement rapporté ensuite a reçu une nouvelle appréciation médicale. Le tournoi clôt un enjeu de vie : tenir les inscriptions avec une relève réelle. Une journée réussie, un rire ou une tâche accomplie ne mesure pas une guérison. Les arrangements avec Estelle et Karim facilitent l’organisation sans être un traitement du syndrome."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment la reprise d’une place dépasse-t-elle la fin de la phase aiguë ?",
+          "points": [
+            {
+              "heading": "Une décision clinique a déjà eu son lieu",
+              "text": "La reprise d’une activité ne rejoue pas l’évaluation hospitalière devant un public. L’entourage peut accueillir une participation sans lui demander de certifier l’état médical.",
+              "examples": [
+                "La résolution a été constatée par l’équipe avant la sortie, et non le matin où Bérénice utilise son agrafeuse.",
+                "Estelle déplace l’affiche à la remarque de sa mère sans présenter son humour comme la preuve que tout est définitivement réglé."
+              ]
+            },
+            {
+              "heading": "Les conséquences pratiques demandent encore des accords",
+              "text": "L’interruption a déplacé des tâches et rendu certains engagements incertains. Leur reprise devient concrète lorsque les responsabilités et la relève sont réellement partagées.",
+              "examples": [
+                "Karim confirme qu’il prendra la clôture et sait où seront laissés les documents.",
+                "Bérénice renvoie une question sur les rencontres vers Estelle, qui garde les contacts avec les joueurs."
+              ]
+            },
+            {
+              "heading": "La personne garde des envies au-delà de l’épisode médical",
+              "text": "Un projet peut compter pour ce qu’il permet de vivre, sans servir à démontrer une récupération. La personne ne se réduit ni à son diagnostic ni au rôle qu’elle vient de reprendre.",
+              "examples": [
+                "Bérénice souhaite regarder une rencontre avec sa fille après avoir terminé les inscriptions.",
+                "Leur conversation peut porter sur un prochain repas, même si des questions de santé restent disponibles au suivi."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour garder une contribution choisie et une suite ouverte",
+          "points": [
+            {
+              "heading": "Rendre la relève effective",
+              "objective": "L’objectif est de respecter la contribution convenue jusqu’à son terme réel.",
+              "exercise": [
+                "Rappelez avec les personnes concernées la tâche choisie et le moment de la relève.",
+                "Vérifiez où se trouvent les informations nécessaires à la personne qui reprend.",
+                "Transmettez effectivement la tâche au moment prévu au lieu d’élargir silencieusement votre responsabilité."
+              ],
+              "benefit": "Le partage devient un fait, pas seulement une intention. La participation peut avoir une fin sans être vécue comme un échec ou une preuve clinique."
+            },
+            {
+              "heading": "Séparer les deux bilans",
+              "objective": "Le but est de distinguer ce qu’un événement apprend sur son organisation des questions qui concernent la santé.",
+              "exercise": [
+                "Avec les organisateurs, revenez sur un détail pratique utile, comme l’affichage ou les formulaires.",
+                "Gardez les questions médicales pour les professionnels du suivi, sans déduire leur réponse du succès de la journée.",
+                "Maintenez les contacts convenus et demandez une aide médicale urgente si un changement important ou brutal survient."
+              ],
+              "benefit": "Le tournoi peut être apprécié pour lui-même tandis que les soins conservent leurs propres repères. Une réussite n’efface pas le besoin de relais."
+            },
+            {
+              "heading": "Choisir un prochain moment personnel",
+              "objective": "L’objectif est de laisser une perspective qui dépasse le rôle repris et le diagnostic.",
+              "exercise": [
+                "Demandez-vous quel moment ordinaire vous aimeriez partager après l’événement.",
+                "Proposez-le à la personne concernée sans en faire un objectif de récupération.",
+                "Laissez ensemble la possibilité d’en discuter ou de l’ajuster selon vos envies et vos disponibilités."
+              ],
+              "benefit": "Une relation peut continuer autour d’un repas ou d’une rencontre. La suite n’a pas à devenir un programme de progrès à accomplir."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Les feuilles passent, la rencontre commence",
+      "ending": "Les joueurs sont inscrits. Bérénice remet à Estelle les feuilles nécessaires à la suite des matchs et indique à Karim les documents de clôture. Il prend le relais comme prévu. Elle retire son gilet du dossier de la chaise et quitte le comptoir ; elle n’a pas accepté en passant de gérer aussi les scores et le rangement final.\n\nEstelle la rejoint pour regarder une rencontre. Elles parlent d’un échange manqué sur le terrain, puis du prochain repas qu’elles pourraient partager. Bérénice pense encore à une question qu’elle gardera pour le suivi, sans la résoudre dans les applaudissements. Elle a tenu les inscriptions du tournoi préparé avec sa fille. L’enveloppe bleue reste à sa place pour la clôture, et sa journée peut continuer ailleurs que derrière le comptoir.",
+      "conclusion": "La phase aiguë résolue et le rôle retrouvé ne sont pas deux noms d’une même preuve. Bérénice a concrétisé sa contribution avec une relève effective ; elle conserve son suivi, ses questions et des relations qui continuent au-delà du tournoi comme du diagnostic.",
+      "mirror": [
+        "Estelle peut simplement demander : « Tu viens regarder cette rencontre avec moi ? » Elle n’a pas besoin de féliciter sa mère d’être redevenue elle-même ni de faire de la journée un certificat de santé. Karim reprend réellement la clôture, comme il l’avait promis. Chacun tient sa place ; le suivi conserve les questions médicales et Bérénice peut choisir le prochain moment qu’elle souhaite partager avec eux."
+      ],
+      "sources": [
+        "oms-cddr",
+        "bap-catatonia-2023"
+      ],
+      "continuity": {
+        "choice": "Les inscriptions sont terminées et transmises à Estelle ; Karim prend effectivement la clôture. Bérénice regarde une rencontre avec sa fille puis parle d’un prochain repas, en conservant le suivi.",
+        "next": "L'enjeu de la série est résolu : un tournoi préparé avec Estelle et une place précise réellement tenue, avec relève. Bérénice conserve le suivi prévu et le droit de reparler de ses inquiétudes ; ses relations et ses projets continuent au-delà de cet épisode médical."
+      }
     }
   ]
 }

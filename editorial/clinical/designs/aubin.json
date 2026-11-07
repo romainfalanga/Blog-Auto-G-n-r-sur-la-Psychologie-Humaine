@@ -1,0 +1,186 @@
+{
+  "schema_version": 1,
+  "character_id": "aubin",
+  "code": "6B84",
+  "article_format": 2,
+  "bio": "Aubin a 12 ans et est collégien. Il construit les décors du théâtre de l’école et tient à peindre lui-même les nuages. Son Pica, déjà évalué médicalement, oblige les adultes à préparer les espaces et à rester disponibles. Mais il supporte mal les questions posées devant tout le groupe. Avec son parent, sa médecin et l’enseignante du projet, il cherche une aide discrète qui lui permette de garder sa place. Il veut surtout réussir ce ciel gris perle, sans devenir le sujet du spectacle.",
+  "profile_topics": [
+    "Pica",
+    "Envies difficiles à interrompre",
+    "Sécurité des espaces",
+    "Aide discrète",
+    "Participation scolaire"
+  ],
+  "voice": "Aubin remarque les couleurs avant les explications. Il préfère une question précise à un discours rassurant et ose un humour bref ; il peut demander une pause sans fournir aussitôt une analyse de son envie.",
+  "series_goal": "Peindre les nuages du spectacle scolaire et y participer avec une organisation de sécurité réelle, des matériaux adaptés à l’activité et une aide adulte discrète.",
+  "continuity_rules": [
+    "Aubin reste un collégien de 12 ans ; diagnostic et évaluation médicale précèdent le premier épisode. Aucun nouveau diagnostic ni résultat biologique inventé.",
+    "Camille est son parent ; Mme Legrand dirige le projet ; sa médecin reste non nommée ; Inès coopère artistiquement et ne surveille jamais Aubin.",
+    "Le ciel gris perle, le carnet des choix et le signal « entracte » reviennent avec leurs décisions concrètes ; une pause ne fait pas perdre le rôle des nuages.",
+    "Aucun objet à ingérer nommé, aucun geste d’ingestion décrit, aucun test par exposition, punition, contention ou recette de remplacement. Les matériaux artistiques ne sont jamais présentés comme comestibles.",
+    "Une suspicion d’ingestion déclenche un relais médical dans la même scène ; aucune attente de symptômes, traitement improvisé ou reprise décidée contre les consignes.",
+    "Les trois démarches pratiques futures restent des aides de communication, organisation ou recours ; ne pas convertir les scènes en protocole thérapeutique. Les propos aux proches respectent confidentialité, âge et responsabilité adulte."
+  ],
+  "episodes": [
+    {
+      "number": 1,
+      "focus": "Envie persistante malgré la compréhension",
+      "scene": "Au premier atelier, Aubin abandonne le mélange du ciel et rejoint Mme Legrand : une envie liée à son pica l’empêche de rester à sa table, bien qu’il connaisse les règles.",
+      "development": "Ne pas assimiler connaissance du danger et maîtrise immédiate. Sans décrire de matériau ciblé, rendre visible la tâche interrompue. Mme Legrand reste avec lui dans la zone préparée ; la pause ne vaut pas évaluation d’une ingestion.",
+      "ending": "Il garde le rôle des nuages mais demande une phrase courte pour obtenir de l’aide. Le mélange gris perle reste à reprendre.",
+      "next": "Le parent vient discuter de cette demande avant le prochain atelier.",
+      "source_refs": [
+        "oms-cddr",
+        "nhft-pica"
+      ],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 2,
+      "focus": "Honte et confidentialité de l’aide",
+      "scene": "Camille arrive pendant que deux adultes demandent devant le groupe si Aubin va mieux ; il ferme son carnet et pense renoncer aux nuages.",
+      "development": "Montrer le retentissement des questions publiques sans en faire un symptôme obligatoire. Parent et enseignante expliquent les informations de sécurité qui doivent circuler, distinctes d’un récit intime au groupe.",
+      "ending": "Ils conviennent du mot « entracte » et d’un échange à l’écart ; Aubin rouvre son carnet pour montrer la couleur.",
+      "next": "La réunion soulève la question de ce que le bilan médical déjà réalisé permet de dire.",
+      "source_refs": [
+        "oms-cddr",
+        "nhft-pica"
+      ],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 3,
+      "focus": "Carences et bilan individualisé",
+      "scene": "Au suivi déjà prévu, Aubin entend son parent demander si changer son repas ferait disparaître tout le problème ; il veut surtout savoir s’il pourra finir le ciel.",
+      "development": "La médecin rappelle la distinction entre carence causale et pica évalué, sans fabriquer résultat de prise de sang ni prescription. Le diagnostic établi ne dispense pas du suivi et un repas ne constitue pas une épreuve diagnostique.",
+      "ending": "Aubin confie à sa médecin que les questions publiques le gênaient davantage que le rendez-vous. Le plan de participation sera discuté avec les adultes concernés.",
+      "next": "Mme Legrand prépare l’atelier suivant sur cette base, sans recevoir l’ensemble de la consultation.",
+      "source_refs": [
+        "oms-cddr",
+        "nhft-pica"
+      ],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 4,
+      "focus": "Danger et apparence anodine",
+      "scene": "Mme Legrand propose deux organisations possibles du poste de peinture ; Aubin choisit celle d’où il voit Inès, puis demande si « adapté » signifie qu’il ne risque plus rien.",
+      "development": "Distinguer matériel adapté à un usage artistique et produit consommable. L’adulte gère l’accès et la sélection ; aucune marque, substance cible ou technique de manipulation dangereuse. La protection n’efface pas le trouble.",
+      "ending": "Le poste est retenu avec disponibilité adulte ; Aubin trace la place du premier nuage. Il accepte que certaines opérations restent aux adultes.",
+      "next": "La séance longue révèle un moment moins facile : attendre que le fond sèche.",
+      "source_refs": [
+        "oms-cddr",
+        "thomas-oconnor-2023",
+        "nhft-pica"
+      ],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 5,
+      "focus": "Fluctuations selon les temps d’attente",
+      "scene": "Le fond sèche ; Aubin n’a rien à peindre et dit « entracte ». Il est contrarié de ne pas retrouver l’aisance du début.",
+      "development": "Observer avec lui le contexte de l’envie sans provoquer une situation pour tester une hypothèse. L’ennui et le stress ne sont ni cause universelle ni faute. Les adultes proposent une tâche orale de composition dans l’espace préparé.",
+      "ending": "Il dicte à Mme Legrand où placer les ombres et note que l’attente lui a pesé aujourd’hui. Aucun tableau de bonnes conduites n’est affiché.",
+      "next": "Cette nouvelle tâche fait croire à Inès qu’il abandonne la peinture commune.",
+      "source_refs": [
+        "oms-cddr",
+        "nhft-pica"
+      ],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 6,
+      "focus": "Retentissement sur la coopération",
+      "scene": "Inès a déplacé son nuage pour compenser l’absence d’Aubin ; il croit que sa place disparaît chaque fois qu’il demande de l’aide.",
+      "development": "Distinguer conséquence sociale d’une pause et manque d’intérêt pour les autres. Le diagnostic n’est pas révélé à Inès par l’enseignante. Les choix artistiques restent une négociation normale entre camarades.",
+      "ending": "Aubin propose un calendrier de travail à deux et dit seulement qu’il a parfois besoin de sortir avec un adulte. Inès lui réserve la partie haute.",
+      "next": "Le calendrier inclut une répétition dans la salle du spectacle, encore inconnue de leur dispositif.",
+      "source_refs": [
+        "oms-cddr",
+        "nhft-pica"
+      ],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 7,
+      "focus": "Sécurité dans un nouvel environnement",
+      "scene": "Devant la salle de spectacle, Aubin veut vérifier le ciel sous les projecteurs ; Mme Legrand attend que l’espace ait été préparé par les adultes.",
+      "development": "La réussite de l’atelier ne se transfère pas automatiquement ailleurs. Une vérification environnementale est une responsabilité adulte, pas un examen d’Aubin. Reprendre seulement le principe de prévention de l’étude, sans appâts ou test.",
+      "ending": "La visite se fait après préparation avec l’adulte disponible ; Aubin constate que son gris semble trop clair. La retouche est fixée au lendemain.",
+      "next": "La pression de cette retouche sera l’occasion d’observer une variation, pas de conclure à un échec.",
+      "source_refs": [
+        "oms-cddr",
+        "thomas-oconnor-2023"
+      ],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 8,
+      "focus": "Recrudescence sans faute personnelle",
+      "scene": "Le lendemain, une envie plus forte oblige Aubin à arrêter la retouche. Il dit que les efforts précédents n’ont donc servi à rien.",
+      "development": "Évolution variable documentée par l’OMS ; ne pas attribuer mécaniquement la variation au trac. L’enseignante accueille le signal, conserve la protection et transmet au parent les faits utiles pour ajuster le suivi.",
+      "ending": "Le délai du nuage est reporté plutôt que de lui demander de prouver sa volonté. Aubin décide de décrire ce changement à Camille.",
+      "next": "À la maison, il doit pouvoir parler aussi d’une incertitude concernant une ingestion.",
+      "source_refs": [
+        "oms-cddr",
+        "nhft-pica"
+      ],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 9,
+      "focus": "Signalement précoce d’une ingestion possible",
+      "scene": "Chez lui, Aubin dit à Camille qu’il n’est pas certain de ce qui s’est passé plus tôt ; aucune scène d’ingestion ni substance n’est montrée. Il craint surtout une interdiction définitive du théâtre.",
+      "development": "Camille prend au sérieux la possibilité et appelle immédiatement le centre antipoison pour exposer les éléments connus, sans attendre des signes ni chercher à résoudre seul le doute. Aucun aliment, boisson ou vomissement provoqué n’est proposé.",
+      "ending": "Le conseil médical est obtenu et suivi ; le récit ne fixe ni produit ni pronostic ni examen. Camille remercie Aubin de l’avoir averti et organise le suivi demandé.",
+      "next": "L’épisode suivant part explicitement de ce relais effectué ; la reprise dépend des consignes reçues.",
+      "source_refs": [
+        "oms-cddr",
+        "cap-premiers-secours",
+        "ameli-intoxication"
+      ],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 10,
+      "focus": "Coordination après une alerte",
+      "scene": "Après le relais médical et selon les consignes reçues, Camille rencontre Mme Legrand avec Aubin ; on reparle du poste et de l’adulte disponible avant de reprogrammer la retouche.",
+      "development": "Ne pas déduire l’absence de danger de l’apparence d’Aubin. Le partage porte sur les consignes utiles à sa sécurité, avec une explication à l’enfant ; ni débriefing devant la classe ni garantie de secret incompatible avec les soins.",
+      "ending": "Une modalité de reprise est convenue avec les interlocuteurs compétents, et un adulte de remplacement est identifié. Le nuage reste confié à Aubin.",
+      "next": "La répétition suivante vérifie concrètement que le relais adulte existe quand Mme Legrand est occupée.",
+      "source_refs": [
+        "oms-cddr",
+        "cap-premiers-secours",
+        "nhft-pica"
+      ],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 11,
+      "focus": "Autonomie soutenue plutôt que surveillance publique",
+      "scene": "À la répétition, Mme Legrand s’occupe des acteurs ; l’adulte prévu prend le relais. Aubin se rend auprès de lui avec « entracte », puis choisit quand reparler du décor.",
+      "development": "L’aide ne repose ni sur une promesse de tout contrôler ni sur Inès. La discrétion est compatible avec une disponibilité réelle. Ne pas récompenser une absence d’envie ; reconnaître la demande d’aide et la contribution artistique.",
+      "ending": "Aubin achève la retouche dans les conditions convenues et refuse poliment de raconter son suivi à tout le groupe. Inès et lui signent le plan du ciel.",
+      "next": "Le spectacle peut avoir lieu ; il reste à décider de la suite après cette réalisation.",
+      "source_refs": [
+        "oms-cddr",
+        "nhft-pica",
+        "thomas-oconnor-2023"
+      ],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 12,
+      "focus": "Participation durable et évolution ouverte",
+      "scene": "Le soir du spectacle, Aubin regarde le ciel depuis l’emplacement convenu, avec les adultes disponibles. Ses nuages existent enfin dans la lumière.",
+      "development": "Finir le projet ne démontre pas la disparition du pica. Le bilan distingue plaisir, participation et besoins de suivi ; aucune statistique d’incidents n’est présentée comme certificat de guérison.",
+      "ending": "Il décide de rejoindre le prochain projet de décor en gardant une aide discrète révisable. Camille conserve les rendez-vous et Mme Legrand transmet seulement ce qui sera utile à la prochaine équipe.",
+      "next": "La série ferme le spectacle et la place d’Aubin dans ce groupe ; son avenir reste ouvert, avec ses envies de paysages et le suivi à poursuivre.",
+      "source_refs": [
+        "oms-cddr",
+        "nhft-pica"
+      ],
+      "diagnostic_stage": "known"
+    }
+  ]
+}

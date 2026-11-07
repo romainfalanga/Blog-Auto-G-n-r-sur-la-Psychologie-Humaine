@@ -1,0 +1,188 @@
+{
+  "schema_version": 1,
+  "character_id": "thael",
+  "code": "6B45",
+  "article_format": 2,
+  "bio": "Thaël, 8 ans, est élève et commence des ateliers d’arts plastiques avec un adulte référent. Son Trouble de l’engagement social désinhibé est déjà diagnostiqué : il entre parfois très vite en contact avec des adultes inconnus. Il veut fabriquer une marionnette aux manches immenses, puis choisir à qui la montrer. Avec son assistante familiale, l’animateur et une équipe spécialisée, il avance dans un cadre protecteur qui garde sa joie, ses idées et ses choix. Sa marionnette s’appellera Monsieur Peut-être.",
+  "profile_topics": [
+    "Trouble de l’engagement social désinhibé",
+    "familiarité avec les inconnus",
+    "repères de sécurité",
+    "liens sélectifs",
+    "participation aux activités"
+  ],
+  "voice": "Thaël parle par images de matière et de bruit, pose des questions directes et invente des noms absurdes. Il aime la grande manche qui balaie la table et veut que sa marionnette puisse fermer la bouche. Il garde une voix d’enfant, sans exposé diagnostique ni intelligence attribuée au trouble.",
+  "series_goal": "Fabriquer Monsieur Peut-être jusqu’à une petite présentation réelle, puis décider du public dans les possibilités protectrices préparées par les adultes. L’objet et le choix aboutissent sans que le diagnostic soit effacé ou la joie contenue pour obtenir une conformité.",
+  "continuity_rules": [
+    "Thaël reste un élève de 8 ans ; le diagnostic est établi avant le premier épisode et demeure known partout. L’histoire précoce documentée par les professionnels reste hors champ, sans nouvel événement ni souvenir inventé.",
+    "Mireille est l’assistante familiale, Idriss l’animateur, la docteure Sorel un membre de l’équipe spécialisée. Zoé est une enfant avec son propre projet, jamais une surveillante ni thérapeute.",
+    "Conserver dans l’ordre la chaussette rayée, bouche fermable, velours, manche, visage bleu et main jaune, son froissé, duo puis affiches et petite salle. Chaque acquisition reprend la fin précédente ; aucune pièce essentielle ne réapparaît sans avoir été fabriquée.",
+    "Les adultes maintiennent une protection concrète dans les scènes de circulation et de départ. Aucun piège, test d’obéissance, surveillance punitive ou récit détaillé de maltraitance. Ne jamais attendre un incident pour agir ni conditionner la sécurité à la réussite d’un exercice.",
+    "Les épisodes 8 et 11 laissent ouvertes respectivement une question de tâche et l’évolution clinique ; aucun diagnostic de TDAH ou conclusion thérapeutique ne surgit dans la finale. L’atelier demeure un loisir et les appuis pratiques sont des adaptations, non des techniques validées de traitement.",
+    "Finir sur un public choisi parmi Mireille, Idriss et Zoé, avec possibilité de participation brève. La présentation résout le projet personnel, ne certifie ni guérison ni autonomie sans adulte."
+  ],
+  "episodes": [
+    {
+      "number": 1,
+      "focus": "Aborder un inconnu sans réserve",
+      "scene": "Au premier atelier, Thaël montre sa chaussette rayée au père d’un autre enfant avant même de regarder Idriss. Il lui propose immédiatement de fabriquer la marionnette avec lui. Mireille et Idriss restent présents ; le visiteur venait seulement déposer un sac.",
+      "development": "Distinguer initiation rapide avec un inconnu et simple envie de créer. Montrer entrée dans l’échange, rôle attribué trop vite et activité suspendue au visiteur. Trois appuis à développer : Idriss assure un accueil nommé ; Mireille reste disponible à la place convenue ; Thaël choisit entre deux tâches avec l’animateur. Aucun test de méfiance, aucun visiteur présenté comme forcément menaçant.",
+      "ending": "Le visiteur repart seul et Idriss aide Thaël à choisir un carton pour la bouche. Thaël veut qu’elle puisse se fermer complètement.",
+      "next": "La chaussette et la bouche de carton restent dans une boîte à son prénom. Une intervenante vient apporter des tissus à la séance suivante.",
+      "source_refs": [
+        "oms-cddr",
+        "nice-ng26"
+      ],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 2,
+      "focus": "Déborder les limites de conversation",
+      "scene": "À peine l’intervenante arrivée, Thaël lui demande avec qui elle dort et lui propose de venir chez elle pour choisir les tissus. Idriss entend l’échange ; la visiteuse reste dans la salle avec le groupe. Thaël voulait une manche de velours, pas embarrasser quelqu’un.",
+      "development": "Explorer familiarité verbale, sujet intime et invitation personnelle ; distinguer ces limites de l’élan d’approche du premier épisode. Trois appuis : la visiteuse répond brièvement qu’elle garde cela privé ; Idriss propose une question sur les tissus ; Mireille reprend calmement avec Thaël une manière de demander du matériel. Ne pas humilier, obtenir de confession ou transformer toutes ses questions en symptômes.",
+      "ending": "Thaël demande quel tissu grince quand on le frotte. Il garde un morceau de velours et décide que Monsieur Peut-être aura une manche trop grande.",
+      "next": "Le tissu choisi doit être fixé. Une personne extérieure assurera une démonstration de couture sous la responsabilité d’Idriss.",
+      "source_refs": [
+        "oms-cddr",
+        "nice-ng26"
+      ],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 3,
+      "focus": "La proximité corporelle avec un inconnu",
+      "scene": "Pendant la démonstration, Thaël s’installe tout contre la couturière qu’il rencontre pour la première fois et tente de s’appuyer sur elle pour regarder. Elle se décale ; Idriss lui aménage immédiatement une place où voir sans ce contact. La manche reste inachevée.",
+      "development": "Montrer franchissement d’espace corporel, surprise de la visiteuse et besoin de voir préservé. Trois appuis : une limite formulée sans rejet de l’enfant ; une place de démonstration accessible ; un salut ou un geste choisi sans contact imposé. Le consentement vaut pour chacun. Aucune méthode de retenue corporelle présentée comme soin ; les adultes assurent les conditions de sécurité de la couture.",
+      "ending": "Thaël regarde depuis sa place et choisit où Idriss fixera la manche. Il agite le tissu : Monsieur Peut-être ressemble enfin à un personnage.",
+      "next": "La bouche et la manche sont fixées par l’adulte. Il faut choisir la couleur du visage dans la grande salle de matériel.",
+      "source_refs": [
+        "oms-cddr",
+        "nice-ng26",
+        "aacap-non-coercition"
+      ],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 4,
+      "focus": "Ne pas vérifier le retour au référent",
+      "scene": "Dans la grande salle, Thaël avance vers les peintures sans chercher du regard Mireille ou Idriss, puis se met à parler avec un adulte d’un autre atelier. Mireille le suit et rétablit le contact ; personne ne le laisse disparaître pour voir s’il reviendra.",
+      "development": "Le sujet est le contrôle du lien spatial au référent, distinct du départ avec quelqu’un. Montrer déplacement sans retour visuel, repère devenu flou et difficulté à reprendre le choix de peinture. Trois appuis : adulte responsable explicitement désigné ; déplacement effectué ensemble ; endroit de retrouvailles montré avant de choisir. Le repère visuel n’est ni traitement ni remplacement de la responsabilité adulte.",
+      "ending": "Mireille accompagne Thaël jusqu’aux deux pots proposés. Il choisit le bleu et rapporte le pot avec elle ; une main de la marionnette sera jaune.",
+      "next": "La peinture sèche à l’atelier. Un intervenant musique est attendu pour proposer des sons aux marionnettes.",
+      "source_refs": [
+        "oms-cddr",
+        "nice-ng26"
+      ],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 5,
+      "focus": "Accepter de partir avec un adulte inconnu",
+      "scene": "L’intervenant musique mentionne un tambour resté dans le couloir. Thaël se lève aussitôt pour l’accompagner, sans attendre Idriss. Idriss intervient avant qu’ils quittent la salle et organise lui-même la récupération ; l’intervenant comprend le cadre.",
+      "development": "Distinguer disponibilité à suivre une personne et exploration solitaire de l’épisode précédent. Montrer proposition entendue comme autorisation, mouvement vers la porte et déception à l’interruption. Trois appuis : adulte qui arrête et explique calmement le départ ; autorisation clarifiée entre adultes ; choix d’un son sur place pour Thaël. Aucune simulation d’enlèvement, aucune description exploitable de mise en danger ; le professionnel spécialisé est informé de l’observation utile.",
+      "ending": "Le tambour revient avec Idriss. Thaël choisit finalement un froissement de papier pour la voix de Monsieur Peut-être et garde le tambour pour l’entrée.",
+      "next": "La voix est choisie et l’incident a été transmis aux adultes concernés. Mireille rapporte la boîte à la maison pour essayer le son.",
+      "source_refs": [
+        "oms-cddr",
+        "nice-ng26"
+      ],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 6,
+      "focus": "Un lien sélectif peut rester présent",
+      "scene": "Chez Mireille, la bouche de carton se décolle. Thaël vient chercher son aide et se serre un moment près d’elle. Plus tard il lui demande si elle est fâchée de l’avoir vu suivre l’intervenant ; Mireille avait eu peur, sans que ce geste efface leur lien.",
+      "development": "L’aspect est la coexistence possible d’un attachement sélectif et de désinhibition envers les inconnus. Montrer recours personnel à Mireille, souvenir du départ et crainte d’un reproche. Trois appuis : répondre au besoin présent ; dire simplement que la sécurité relève des adultes ; confier l’inquiétude adulte à l’équipe. Aucun câlin utilisé comme certificat d’attachement, aucune réassurance exigée de l’enfant.",
+      "ending": "Mireille explique qu’elle tient à lui et qu’ils continueront l’atelier avec les repères prévus. Ensemble ils réparent la bouche ; Thaël veut lui apprendre à dire peut-être.",
+      "next": "La bouche réparée et le son reviennent à l’atelier. Thaël prépare une réplique comique avec Zoé.",
+      "source_refs": [
+        "oms-cddr",
+        "nice-ng26",
+        "aacap-non-coercition"
+      ],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 7,
+      "focus": "Préserver la joie sans pathologiser",
+      "scene": "Thaël fait dire peut-être à sa marionnette pour chaque question de Zoé. Ils rient beaucoup. Un adulte de passage pense qu’il faudrait le rendre plus réservé pour régler ses difficultés ; Idriss maintient le jeu tout en gardant les règles d’accueil.",
+      "development": "Distinguer tempérament enjoué et comportements socialement désinhibés envers inconnus. Trois angles : humour partagé, plaisir de parler, généralisation abusive par un adulte. Trois appuis : décrire précisément ce qui pose problème ; laisser une scène de rire ordinaire ; rappeler le cadre aux adultes sans qualifier l’enfant. La joie n’est ni symptôme à éteindre ni preuve de guérison.",
+      "ending": "Zoé décide que son oiseau dira non avant le dernier peut-être. Thaël garde cette idée, même s’il aurait préféré avoir le dernier mot.",
+      "next": "Le duo a deux répliques ; il lui manque une entrée de scène. La répétition demandera de garder un ordre court.",
+      "source_refs": [
+        "oms-cddr",
+        "nice-ng26"
+      ],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 8,
+      "focus": "Distinguer impulsivité et désinhibition sociale",
+      "scene": "À la répétition, Thaël commence avant le signal et perd plusieurs fois la feuille des deux répliques. Idriss est tenté de rapporter tout cela au diagnostic connu. Mireille précise que ces difficultés de tâche méritent aussi d’être décrites pour l’équipe.",
+      "development": "Diagnostic différentiel comme enjeu, sans poser un TDAH. Montrer lancement précipité, organisation de tâche et comparaison indue avec familiarité sociale. Trois appuis : noter les faits dans leur contexte ; simplifier matériellement la répétition ; transmettre la question au suivi spécialisé. Ni performance réussie ni ratée ne tranche le diagnostic ; une éventuelle évaluation reste distincte du spectacle.",
+      "ending": "Idriss fixe une feuille commune à la table et annonce chaque essai. Thaël réussit une entrée puis en manque une autre ; Mireille apporte ces observations au rendez-vous prévu.",
+      "next": "Le rendez-vous aura lieu hors atelier, sans résultat diagnostique inventé. Le duo peut néanmoins dessiner une petite affiche de présentation.",
+      "source_refs": [
+        "oms-cddr",
+        "nice-ng26"
+      ],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 9,
+      "focus": "Être étiqueté par sa familiarité",
+      "scene": "Pendant l’affiche, un enfant répète qu’on lui a dit que Thaël colle tout le monde. Thaël retourne le dessin et veut retirer son prénom. Idriss arrête cette façon de parler ; ni son diagnostic ni son histoire ne sont révélés au groupe.",
+      "development": "Retentissement social de l’étiquette, distinct des manifestations et non critère du trouble. Montrer réduction à un comportement, gêne devant les pairs et retrait d’une contribution. Trois appuis : répondre au mot blessant ; rappeler une règle de respect commune ; offrir à Thaël le choix de signer l’œuvre. Les pairs n’ont pas à connaître son dossier ni à devenir des protecteurs ; les échanges professionnels utiles restent organisés.",
+      "ending": "Thaël choisit d’écrire Monsieur Peut-être en grand et son prénom au dos. Zoé garde son propre titre, L’oiseau qui hésite.",
+      "next": "Les affiches privées sont prêtes. Il reste à organiser un public et les adultes doivent examiner leur disponibilité réelle.",
+      "source_refs": [
+        "oms-cddr",
+        "nice-ng26"
+      ],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 10,
+      "focus": "La charge de protection des adultes",
+      "scene": "Mireille et Idriss préparent les places. Mireille reconnaît à l’équipe qu’elle guette chaque mouvement de Thaël et s’épuise ; Idriss ne peut simultanément diriger une salle ouverte et assurer seul tous les relais. Thaël demande simplement combien de chaises il faut peindre.",
+      "development": "Retentissement sur les accueillants et organisation des soutiens. Trois risques : vigilance épuisante, rôles imprécis, restriction de toute activité par fatigue. Trois appuis : échange entre adultes avec l’équipe ; répartition nominative des responsabilités ; format réaliste gardant le projet. Aucun contrat faisant porter la sécurité à l’enfant, aucun enfermement ou retrait punitif. Les aides spécialisées adaptées sont discutées sans promettre un service précis.",
+      "ending": "Les adultes retiennent une présentation courte et privée avec Mireille et Idriss présents. Thaël peint trois dossiers de chaise en carton pour décorer, pas pour signaler qui serait sûr.",
+      "next": "Le format est possible avec ces adultes. Une répétition est organisée dans la petite salle où aura lieu la présentation.",
+      "source_refs": [
+        "oms-cddr",
+        "nice-ng26",
+        "aacap-non-coercition"
+      ],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 11,
+      "focus": "Des progrès variables selon les situations",
+      "scene": "Dans la petite salle nouvelle, Thaël interpelle avec une familiarité immédiate un agent du centre qu’il n’a jamais rencontré. Mireille reste auprès de lui et l’agent poursuit son travail. Après plusieurs séances plus faciles, elle avait espéré que cette difficulté ne reviendrait plus.",
+      "development": "Évolution non linéaire et limites d’un succès local. Montrer difficulté retrouvée, attente déçue de l’adulte et ressources déjà utilisables pour reprendre. Trois appuis : maintenir le cadre malgré les réussites ; décrire l’épisode à l’équipe sans bilan catastrophique ; ajuster l’accueil de la salle. Les études de trajectoire ne prouvent pas que le changement de salle cause la réaction ni que chaque enfant suit une trajectoire donnée.",
+      "ending": "Mireille reprend le repère convenu et Idriss installe les accessoires avec Thaël. Ils répètent une seule fois et gardent le format privé, sans élargir le public pour tester un progrès.",
+      "next": "Le lieu est préparé et les limites sont maintenues. Thaël choisira maintenant qui, parmi les personnes présentes dans ce cadre, verra la marionnette.",
+      "source_refs": [
+        "oms-cddr",
+        "nice-ng26",
+        "humphreys-beip-2017",
+        "guyon-harris-beip-2018"
+      ],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 12,
+      "focus": "Choisir son public dans un cadre protecteur",
+      "scene": "Le jour venu, Thaël choisit Mireille, Idriss et Zoé pour voir Monsieur Peut-être. Il ne veut pas inviter tout l’atelier. À l’arrivée, il commence pourtant une conversation très familière avec un adulte du centre ; Idriss reprend l’accueil et l’accompagne dans la petite salle.",
+      "development": "Participation et pouvoir de décision préservés malgré une vulnérabilité persistante : ce n’est pas un nouveau symptôme. Trois dimensions : choix d’un public, soutien effectif à l’entrée, satisfaction artistique sans bilan clinique. Trois appuis : options réellement possibles ; droit de raccourcir la présentation ; suivi et protection conservés ensuite. La réussite de l’objet ne mesure pas la disparition du trouble ; refuser un public n’est pas une guérison par méfiance.",
+      "ending": "Monsieur Peut-être dit sa réplique et ferme sa bouche ; Zoé fait répondre son oiseau. Thaël montre ensuite le velours à Mireille et range lui-même la marionnette. Il a fabriqué l’objet et choisi à qui le montrer.",
+      "next": "Le projet est terminé. Le suivi, les questions de tâche et les repères d’accueil continuent séparément. Thaël voudrait fabriquer une seconde marionnette qui parle très doucement, sans engagement thérapeutique ajouté à cette envie.",
+      "source_refs": [
+        "oms-cddr",
+        "nice-ng26",
+        "aacap-non-coercition"
+      ],
+      "diagnostic_stage": "known"
+    }
+  ]
+}

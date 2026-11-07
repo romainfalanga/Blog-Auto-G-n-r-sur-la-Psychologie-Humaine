@@ -1,0 +1,49 @@
+{
+  "references": {
+    "oms-mms-pica": {
+      "title": "OMS, CIM-11 MMS 2026-01, 6B84 Pica",
+      "url": "https://icd.who.int/browse/2026-01/mms/fr#833390860"
+    },
+    "nhft-pica": {
+      "title": "Northamptonshire Healthcare NHS Foundation Trust, Pica — guide for parents, carers and teachers, sections du service des troubles alimentaires",
+      "url": "https://www.nhft.nhs.uk/schools"
+    },
+    "thomas-oconnor-2023": {
+      "title": "Thomas et O’Connor (2023), Parent Use of a Safety Checklist to Prevent Their Child’s Pica, étude originale, Behavior Analysis in Practice 16, 879–884",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10480111/"
+    },
+    "cap-premiers-secours": {
+      "title": "Association des centres antipoison et de toxicovigilance, Premiers secours en cas d’intoxication",
+      "url": "https://centres-antipoison.net/premiers-secours"
+    },
+    "ameli-intoxication": {
+      "title": "Assurance maladie, Intoxication par voie orale : conduite à tenir",
+      "url": "https://www.ameli.fr/assure/sante/urgence/accidents-domestiques/intoxication-voie-orale-ingestion"
+    }
+  },
+  "dossier": {
+    "name": "Pica",
+    "aliases": [],
+    "references": [
+      "oms-cddr",
+      "oms-mms-pica",
+      "nhft-pica",
+      "thomas-oconnor-2023",
+      "cap-premiers-secours",
+      "ameli-intoxication"
+    ],
+    "points": [
+      "Lecture vérifiée le 7 novembre 2026 : CDDR OMS 2024, section 6B84, pages imprimées 414–416, texte intégral local oms-cddr.txt du dossier v18-research ; le téléchargement IRIS renvoyait 403 lors de cette recherche. La classification MMS fournit l’identifiant canonique ; son interface ne restituait pas la définition dans la lecture web. Les exigences diagnostiques ci-dessous viennent bien du CDDR consulté, pas d’une inférence depuis le code.",
+      "OMS p. 414, Essential features : consommation régulière de substances non nutritives, persistante ou suffisamment grave pour nécessiter une attention clinique en raison du danger, du dommage ou du retentissement. La capacité attendue de distinguer comestible et non comestible dépend de l’âge et du fonctionnement intellectuel. La simple exploration orale du jeune enfant ne suffit pas. Ne pas importer dans le récit un seuil obligatoire d’un mois provenant du DSM ou du guide NHS.",
+      "OMS p. 415, limites et culture : une pratique culturellement reconnue ne suffit pas à poser ce diagnostic ; le CDDR conserve une possibilité de diagnostic lorsque persistance ou danger justifient une attention spécifique, et précise dans Culture-related features le rôle de quantités exigeant une attention clinique. Ne pas écrire une exclusion culturelle absolue tirée d’un autre référentiel, ni attribuer une pratique culturelle à Aubin sans canon. Il s’agit d’un arbitrage professionnel contextualisé, pas d’un questionnaire public.",
+      "OMS p. 416, carences : quand une ingestion est entièrement la manifestation d’une carence, le pica ne doit pas être diagnostiqué sauf persistance après correction. Ne pas affirmer que le pica signifie forcément manquer de fer, ni que toute carence coexistant avec un diagnostic établi le réfute. Pour Aubin, évaluation et diagnostic sont antérieurs ; aucun résultat biologique, complément ou nouveau trouble n’est inventé.",
+      "OMS p. 415–416 : évolution parfois intermittente, parfois continue ; stress ou anxiété peuvent accompagner les fluctuations sans expliquer tous les cas. Des troubles neurodéveloppementaux ou autres peuvent coexister, mais aucun n’est ajouté à Aubin. Les conduites destinées à se présenter malade relèvent d’un autre raisonnement ; ne jamais interpréter sa demande de discrétion comme manipulation. Les explications publiques restent générales, sans fournir tous les critères pour diagnostiquer quelqu’un.",
+      "NHFT, sections Health risks, Creating safe environments et How to support : risques d’occlusion, toxicité, atteintes dentaires et infections ; protection des lieux sans promesse de risque nul ; réponse sans réprimande, signal discret possible, transmission entre adultes. When are they eating invite à observer le contexte sans exiger une explication. Les bilans et carences relèvent des soignants. Source britannique d’information pratique, pas recommandation française ni essai contrôlé. Exclure ses listes de substances, objets de remplacement, aliments et exercices sensoriels : aucune équivalence « non toxique = comestible ». Ne pas reprendre les formulations absolues sur l’aggravation des envies par la prévention.",
+      "Thomas et O’Connor 2023, Abstract, Method et Discussion : trois dyades parent-enfant avec troubles neurodéveloppementaux ; une checklist adulte a amélioré la sécurisation de transitions et réduit les tentatives dans ce dispositif. Petit effectif spécialisé, sans preuve directe pour le profil d’Aubin ni preuve de disparition des envies ; protection environnementale et traitement restent distincts. Ne transférer que le principe prudent de vérification adulte. Interdiction de reproduire la mise en scène expérimentale avec appâts, l’exposition aux matériaux, le blocage corporel ou les mesures de performance ; aucun protocole thérapeutique à domicile ou au collège.",
+      "Centres antipoison, Premiers secours, et Assurance maladie, Que faire après ingestion : suspicion toxique discutée immédiatement avec le centre antipoison même sans symptômes ; détresse respiratoire ou trouble de conscience : urgence médicale. Ne pas faire vomir, manger ou boire pour traiter. Recueillir les informations utiles sans retarder l’appel. Dans la fiction, un adulte appelle et applique les consignes ; le récit ne donne ni dosage, ni marche à suivre pour ingérer, ni garantie sur un produit. Une douleur abdominale nouvelle ne doit pas être attribuée automatiquement au pica ou au stress.",
+      "Périmètre éditorial : aucun objet ingéré nommé dans les scènes, aucune description du geste ni expérience d’ingestion. Les matériaux de peinture sont sélectionnés et gérés par les adultes pour l’activité, jamais déclarés consommables. Les trois techniques du futur article seront des démarches de communication, préparation ou recours professionnel, pas une thérapie inventée ; une pause seule n’est jamais le traitement d’une suspicion d’ingestion.",
+      "Les douze aspects alternent vécu de l’envie, risque physique, évaluation, confidentialité, environnement, fluctuations, relation aux pairs, signalement, coordination et évolution. Les scènes et noms secondaires sont fictifs ; leurs conséquences n’établissent aucune efficacité clinique. Le tableau d’aide est révisable par les professionnels. Les soutiens accompagnent Aubin sans devenir surveillants omniscients ni lui imposer une divulgation au groupe."
+    ]
+  },
+  "direction": "Aubin, 12 ans, collégien, veut peindre les nuages du théâtre scolaire. Il parle par couleurs et corrections concrètes, avec un humour sec : le ciel ne doit pas ressembler à une couverture. Son parent Camille, sa médecin et Mme Legrand restent les appuis canoniques ; Inès est une camarade de décor, jamais auxiliaire de soin. Le diagnostic de Pica et l’évaluation médicale précèdent toute scène. Un nuage gris perle, le carnet des choix et le mot convenu « entracte » relient les épisodes. Aubin négocie sa place et la discrétion sans porter seul la prévention. Le projet finit par une représentation à laquelle il contribue réellement ; ni applaudissements ni absence d’incident ne certifient une guérison. Distinguer ses préférences artistiques des manifestations cliniques ; ne jamais expliquer tout son caractère par le trouble."
+}
