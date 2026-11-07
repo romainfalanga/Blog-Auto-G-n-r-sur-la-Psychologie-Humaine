@@ -1040,6 +1040,213 @@
         "choice": "Le responsable fixe le circuit des absences simultanées et le rangement de référence ; présentation confirmée et retour d'expérience fixé au 24 novembre à 10 heures. Constance note la tension persistante pour le suivi.",
         "next": "Le manque concret a reçu une réponse et Johanna a posé sa limite. La présentation peut avoir lieu ; Constance apporte au rendez-vous médical suivant des journées différentes, y compris des difficultés qui demeurent malgré cet arbitrage."
       }
+    },
+    {
+      "number": 11,
+      "slug": "constance-variations-reevaluation",
+      "title": "Les variations d’une journée à l’autre et la place du suivi",
+      "description": "Une photo choisie et une matinée pesante ne racontent pas la même chose. Constance les apporte ensemble au rendez-vous de suivi.",
+      "context": "Le rendez-vous médical de réévaluation",
+      "topics": [
+        "Variations dans le temps",
+        "Retentissement",
+        "Suivi maintenu"
+      ],
+      "clinical_intro": "L'évolution d'un trouble anxieux et dépressif mixte s'apprécie dans le temps et dans plusieurs contextes. Un moment apprécié n'annule pas les difficultés ; une journée plus pénible ne suffit pas à conclure à un nouveau trouble ou à effacer les changements. Le suivi aide à examiner ce qui reste préoccupant et à ajuster l'aide avec la personne, sans calendrier de guérison imposé.",
+      "opening": "Constance a posé sa feuille à l'envers dans la salle d'attente. Elle l'a retournée deux fois, sans savoir par quel exemple commencer. La photo du cinéma est dans son téléphone : elle a vraiment aimé choisir ce reflet avec Lucile. Une matinée récente lui a pourtant paru pesante dès les premières heures, sans qu'un problème de rubrique l'explique. Elle craint que raconter le samedi rende l'aide inutile, puis que commencer par le matin efface tout ce qui a bougé.\n\nLe médecin lui demande comment se passent les journées depuis leur rendez-vous. « J'ai des pièces contradictoires au dossier », répond-elle. Il lui propose de les raconter avant de décider qu'elles se contredisent. Elle décrit la promenade courte et la séparation au carrefour, puis la matinée plus difficile. Elle reprend la nuit hachée, le bruit du camion et l'appréhension qui avait suivi. Elle ne prétend pas que cette nuit a ressemblé à toutes les autres.\n\nSur la feuille, les décisions du travail occupent une petite colonne. Le circuit des absences simultanées est maintenant écrit. Une partie de l'inquiétude a quand même persisté après la réunion. Constance parle aussi de l'aide psychologique convenue et de ce qu'elle souhaite encore y apporter, notamment les reproches qu'elle se fait après une activité réduite. Le médecin revient sur l'humeur, l'anxiété, le sommeil, la santé et les circonstances. Il lui demande ce qui a changé depuis la première évaluation, y compris dans les questions restées ouvertes. La présentation à venir n'est pas un examen de fin de soins. Constance peut garder la photo sur son téléphone sans devoir la faire témoigner contre son besoin d'aide.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Lire une trajectoire plutôt qu’une journée isolée",
+          "text": "Une réévaluation met les variations en rapport avec leur contexte, leur durée et leur retentissement. L'OMS décrit des évolutions diverses pour le trouble anxieux et dépressif mixte ; ces observations de groupes ne prédisent ni la trajectoire ni le rythme de Constance. Le professionnel peut poursuivre, préciser ou reprendre son appréciation si de nouveaux éléments le justifient. Ni la photo aimée ni la matinée pesante ne tranchent seules. Le sommeil interrompu, l'attention détournée lors d'un essai et l'autocritique d'une soirée ne sont pas présentés comme des manifestations toutes devenues durables et marquées ensemble. Ils constituent des situations à examiner, avec les éléments de santé et de contexte. Les recommandations NICE sur la dépression adulte soutiennent une discussion suivie des besoins, préférences et options ; leur portée ne doit pas être confondue avec une recommandation spécifique ou française sur le 6A73."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment les variations compliquent-elles le récit de son état ?",
+          "points": [
+            {
+              "heading": "Avoir des moments de disponibilité différente",
+              "text": "Des activités peuvent être plus accessibles à certains moments alors que des difficultés demeurent ailleurs. La différence est une information à décrire.",
+              "examples": [
+                "Constance a trouvé un cadrage qui lui plaisait pendant la promenade courte.",
+                "Une autre matinée lui a semblé lourde malgré la décision professionnelle déjà obtenue."
+              ]
+            },
+            {
+              "heading": "Tirer trop vite une conclusion globale",
+              "text": "La tentation d'utiliser un seul événement comme verdict peut rendre difficile une demande d'aide nuancée. Chaque exemple risque alors d'annuler l'autre.",
+              "examples": [
+                "Elle craint que le samedi apprécié signifie qu'elle n'a plus besoin de suivi.",
+                "Elle redoute qu'une matinée pénible rende sans valeur la sortie qu'elle a pu choisir."
+              ]
+            },
+            {
+              "heading": "Ne plus savoir quoi demander aujourd’hui",
+              "text": "Les difficultés ne conservent pas nécessairement la même place. Le rendez-vous peut aider à préciser le besoin actuel sans imposer une histoire uniforme.",
+              "examples": [
+                "Le manque d'organisation au travail a reçu une réponse, tandis que l'appréhension peut encore revenir.",
+                "Constance veut parler des phrases dures envers elle-même sans faire de chaque photo un relevé de son humeur."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour préparer une réévaluation nuancée",
+          "points": [
+            {
+              "heading": "Apporter des exemples contrastés",
+              "objective": "L'objectif est de rendre visible une trajectoire sans tenir un registre obligatoire de chaque journée.",
+              "exercise": [
+                "Choisir un moment un peu plus accessible et un moment plus difficile, dans leurs contextes.",
+                "Décrire ce qui a été possible et ce qui a coûté dans chacun, plutôt que les classer en réussite et échec.",
+                "Les présenter ensemble au professionnel, en disant les limites de ses souvenirs."
+              ],
+              "benefit": "Le contraste aide à discuter ce qui change et ce qui demeure. Il ne devient pas un score personnel ni un moyen de conclure seul à une rémission."
+            },
+            {
+              "heading": "Demander ce qui doit être repris",
+              "objective": "L'objectif est de comprendre les questions actuelles du suivi et le recours possible entre les rendez-vous.",
+              "exercise": [
+                "Dire ce qui a changé depuis la première évaluation, y compris un élément de santé ou de contexte.",
+                "Demander quels aspects nécessitent d'être réexaminés et ce qui justifierait un contact plus précoce.",
+                "Vérifier avec le professionnel le moyen de reprendre contact, sans attendre la présentation ou une nouvelle preuve au travail."
+              ],
+              "benefit": "Des modalités explicites soutiennent la continuité. Un changement préoccupant ne doit pas rester soumis à un exercice autonome ou à l'avis d'un proche."
+            },
+            {
+              "heading": "Ajuster l’aide avec ses préférences",
+              "objective": "L'objectif est de relier l'aide engagée aux difficultés qui comptent maintenant pour la personne.",
+              "exercise": [
+                "Dire ce qu'on a pu aborder dans l'aide convenue et ce qui reste difficile à y apporter.",
+                "Discuter avec le professionnel des possibilités et des questions pratiques, en nommant ses préférences ou hésitations.",
+                "Convenir de la suite et d'un prochain contact, sans faire du résultat d'une réunion la condition de cette aide."
+              ],
+              "benefit": "Cette discussion peut rendre le suivi plus adapté. Elle ne prévoit pas une évolution identique pour tous et n'engage pas les proches à contrôler les progrès."
+            }
+          ]
+        }
+      ],
+      "ending_title": "La photo reste une photo",
+      "ending": "Constance raconte les deux moments jusqu'au bout. Le médecin ne lui demande pas de choisir celui qui prouverait son état. Ils font le point sur l'aide engagée, reprennent la nuit et les changements récents, puis conviennent de poursuivre le suivi. Le prochain contact est fixé après la présentation ; Constance sait comment signaler plus tôt une modification préoccupante. Elle repart avec sa feuille, sans conclusion de rémission ou de nouveau trouble tirée d'une journée. Sur son téléphone, elle retrouve le cinéma et envoie à Lucile une remarque sur la lettre reflétée. Pour les collègues, elle présentera le fonctionnement du remplacement. Elle n'a pas besoin de raconter cette consultation pour expliquer où les consignes seront rangées. Le travail et le soin continuent, avec chacun leur place.",
+      "conclusion": "Les variations deviennent plus compréhensibles quand aucun moment n'est chargé de prononcer seul le verdict. Constance peut reconnaître une photo aimée et une difficulté persistante ; le suivi se poursuit au-delà de la présentation, sans conclusion anticipée sur son évolution.",
+      "mirror": [
+        "Si Constance parle de sa crainte d'avoir des exemples contradictoires, Lucile peut dire : « Tu peux raconter le samedi et le matin difficile. Je n'ai pas à choisir lequel compte. » Elle peut écouter sans demander de compte rendu du rendez-vous. Johanna reste, elle, dans le fonctionnement du projet. Aucune des deux n'a à annoncer que Constance va mieux ou plus mal sur la base d'une activité. Si un changement l'inquiète, l'appui concret consiste à soutenir le recours professionnel convenu, avec l'accord et les limites appropriées."
+      ],
+      "clinical_focus": "Variations et réévaluation dans le temps",
+      "sources": [
+        "oms-cddr",
+        "nice-depression-constance"
+      ],
+      "diagnostic_stage": "known",
+      "continuity": {
+        "choice": "Constance et le médecin réexaminent les variations, le sommeil et l'aide engagée ; le suivi se poursuit avec prochain contact défini après la présentation. Elle choisit de garder le dossier médical privé au bureau.",
+        "next": "Le suivi se poursuit au-delà de la réunion finale. La version de remplacement est prête, la décision sur les absences simultanées est écrite et Constance choisit de présenter le fonctionnement sans raconter son dossier médical."
+      }
+    },
+    {
+      "number": 12,
+      "slug": "constance-participer-difficultes-persistantes",
+      "title": "Participer avec des difficultés qui n’ont pas toutes disparu",
+      "description": "Constance présente les remplacements avec Johanna. La tension demeure, tandis que le fonctionnement devient réellement partagé.",
+      "context": "La présentation des règles de remplacement",
+      "topics": [
+        "Participation",
+        "Appuis partagés",
+        "Évolution ouverte"
+      ],
+      "clinical_intro": "Prendre part à une activité importante peut rester possible avec des difficultés présentes et des appuis choisis. La participation ne mesure pas à elle seule l'évolution d'un trouble anxieux et dépressif mixte. Répartir les rôles, traiter les questions réelles et préserver une vie hors de l'effort donnent un cadre concret, tandis que le suivi conserve son propre rythme.",
+      "opening": "Constance tient sa feuille par les deux coins. Les mains sont tendues, mais le début est lisible, dans la grande police qu'elle a choisie. Les collègues s'installent ; quelqu'un pose un vêtement de pluie sur un dossier de chaise. Johanna vérifie que le document partagé est ouvert au bon endroit. Elles ont convenu de se répartir les deux premières rubriques et de laisser au responsable les questions qui demandent un arbitrage.\n\nLa pensée revient : et si cela ne suffisait pas ? Constance la reconnaît sans trouver de réponse assez grande pour la fermer. Elle a encore cette tension et un élan moins assuré qu'elle le voudrait. Le rendez-vous médical suivant est déjà fixé ; la réunion ne décidera pas de son maintien. Pour ce soir, elle a proposé à Lucile de retrouver le cinéma sous une autre lumière. Ce n'est pas une récompense qui attendrait une présentation parfaite. Lucile a seulement répondu qu'elle apporterait son appareil.\n\nConstance commence par expliquer où chercher la personne qui relaie une demande. Sa voix accroche un mot, elle reprend. Personne ne quitte la salle. Johanna enchaîne sur la façon de retrouver les consignes, comme prévu, sans attendre que Constance ait couvert toutes les objections possibles. Une collègue lève la main et demande ce qui se passe si les deux sont absentes. Cette fois la question a un circuit écrit, et le responsable peut le présenter. Constance regarde le nom ajouté lors de l'essai. « Nous avons même prévu qui décide de l'imprévu », dit-elle. Elle sourit un peu. La phrase sert à leur projet avant de servir à raconter sa santé, qui reste son affaire.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Une réalisation et une évolution clinique distinctes",
+          "text": "La possibilité d'agir avec des appuis ne démontre pas l'absence de difficultés. L'OMS souligne que des fonctions peuvent rester assurées au prix d'efforts importants dans le trouble anxieux et dépressif mixte ; elle décrit aussi des évolutions variables, qu'une présentation ne permet pas de prédire. Constance a obtenu un fonctionnement partagé, tout en gardant de l'appréhension et une disponibilité à protéger. L'organisation répond à un besoin de travail, elle ne traite pas à elle seule le trouble. Le guide OMS sur le stress inspire le choix d'une action conforme à ce qui compte, sans garantir l'effet de cette adaptation fictive. Les principes de suivi et de choix de NICE sur la dépression adulte soutiennent une aide discutée dans le temps, avec la limite de leur champ : ils ne fournissent pas une ordonnance spécifique au 6A73. Le succès professionnel peut être reconnu pour ce qu'il apporte aux collègues, sans devenir un examen clinique."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment participer avec une difficulté encore présente ?",
+          "points": [
+            {
+              "heading": "Commencer avec de la tension",
+              "text": "Une action n'attend pas toujours un état intérieur parfaitement disponible. La possibilité de commencer ne signifie pas que l'effort est négligeable.",
+              "examples": [
+                "Constance serre sa feuille alors qu'elle prononce la phrase d'ouverture.",
+                "Elle reprend un mot accroché et continue, sans constater pour autant une détente complète."
+              ]
+            },
+            {
+              "heading": "Laisser une place au doute sans tout suspendre",
+              "text": "Le doute demeure dans cette scène, mais il n'occupe pas chaque réponse. La répartition choisie évite que la personne doive tout porter pour participer.",
+              "examples": [
+                "La pensée « et si cela ne suffisait pas ? » revient pendant que Johanna expose sa rubrique.",
+                "Une question réelle sur les absences simultanées reçoit le circuit prévu, plutôt qu'une promesse de tout empêcher."
+              ]
+            },
+            {
+              "heading": "Préserver une disponibilité hors du projet",
+              "text": "L'effort peut déborder sur la fin de journée si tout le temps restant lui est consacré. Une activité personnelle choisie garde une valeur indépendante de la réunion.",
+              "examples": [
+                "Constance maintient l'idée d'une photo avec Lucile sans la conditionner à des félicitations.",
+                "Le suivi médical demeure prévu après la présentation, quel que soit le jugement des collègues sur le document."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour prendre sa part sans tout porter",
+          "points": [
+            {
+              "heading": "Tenir la répartition convenue",
+              "objective": "L'objectif est de participer dans un rôle choisi plutôt que de compenser seule toute incertitude.",
+              "exercise": [
+                "Reprendre avant la présentation qui expose quelle partie et qui répond aux décisions exceptionnelles.",
+                "Pendant l'échange, laisser la personne désignée intervenir sur sa partie, même si une inquiétude pousse à compléter tout de suite.",
+                "À la fin, vérifier ensemble les points de travail restants sans transformer le retour en jugement sur son état de santé."
+              ],
+              "benefit": "Une répartition effective peut réduire la charge portée seule. Elle respecte aussi le travail de Johanna et ne lui attribue pas la mission de calmer Constance."
+            },
+            {
+              "heading": "Répondre à la question ou l’adresser au relais",
+              "objective": "L'objectif est de traiter une demande réelle dans le périmètre disponible.",
+              "exercise": [
+                "Écouter ou faire préciser la question posée, sans répondre à tous les scénarios qui viennent autour.",
+                "Indiquer la réponse prévue si elle existe ; sinon nommer le point qui demande une décision.",
+                "L'adresser au rôle compétent et le garder pour le retour d'expérience convenu, en maintenant les consignes de travail applicables."
+              ],
+              "benefit": "Une réponse limitée peut être une réponse correcte au projet. Elle ne promet pas une organisation sans incident et ne contourne pas une règle professionnelle."
+            },
+            {
+              "heading": "Garder le soin et un temps personnel",
+              "objective": "L'objectif est de ne pas faire d'une réalisation la condition de toute la suite de sa vie.",
+              "exercise": [
+                "Conserver le rendez-vous de suivi et les modalités de contact établies avec le professionnel.",
+                "Choisir une activité personnelle réaliste après l'effort, avec la liberté de la modifier et sans dette de plaisir.",
+                "Dire aux personnes concernées ce qui est possible et ajuster avec elles, sans utiliser la réunion comme preuve de guérison ou d'échec."
+              ],
+              "benefit": "Le temps personnel et le soin peuvent continuer avec leur valeur propre. Ni une photo agréable ni une réunion fatigante ne suffit à trancher l'évolution clinique."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Les feuilles déposées, la lumière du cinéma",
+      "ending": "Le responsable rappelle le circuit pour les absences simultanées. Les collègues retrouvent le document dans l'espace commun choisi et savent à qui adresser les exceptions. La date du 24 novembre, à 10 heures, figure sur l'invitation au retour d'expérience ; les cas rencontrés permettront de reprendre ce fonctionnement. Johanna répond aux questions de sa partie. Constance ne récupère pas toutes les phrases. La présentation est faite et l'essai peut commencer. En sortant, elle garde un peu de tension dans les mains et l'envie de repasser la réunion. Elle note seulement le point concret qui sera repris. Plus tard, elle rejoint Lucile devant le cinéma. La lumière découpe autrement la lettre qu'elles avaient photographiée. « Nouvelle version, même enseigne », dit-elle. Elles cherchent chacune un angle. Constance ne vérifie pas si le plaisir ressenti suffirait à prouver quelque chose. Le prochain contact de soin reste prévu, et l'image peut simplement rejoindre les autres.",
+      "conclusion": "Les règles de remplacement sont désormais présentées, accessibles et portées par plusieurs personnes, avec un retour d'expérience fixé. Constance conserve un lien, un projet et le suivi : cette réalisation ferme une question professionnelle, tandis que son évolution clinique reste ouverte.",
+      "mirror": [
+        "Johanna peut dire : « Je prends les questions de ma rubrique ; le responsable reprend les exceptions. » Elle montre ainsi que le partage annoncé est réel, sans se charger de l'état de Constance. Après la réunion, Lucile peut demander quel angle elle veut photographier, et accepter aussi une présence brève. Aucune des deux n'a à transformer cette journée en preuve d'amélioration. Si Constance dit qu'une difficulté persiste, elles peuvent l'entendre et soutenir le suivi choisi tout en gardant leur rôle, leur disponibilité et leurs limites."
+      ],
+      "clinical_focus": "Participation malgré des difficultés persistantes",
+      "sources": [
+        "oms-cddr",
+        "nice-depression-constance",
+        "oms-stress-2020"
+      ],
+      "diagnostic_stage": "known",
+      "continuity": {
+        "choice": "Règles présentées et déposées dans l'espace commun, circuit exceptionnel confirmé, retour d'expérience le 24 novembre à 10 heures ; Johanna prend sa part. Constance rejoint Lucile au cinéma et conserve le suivi.",
+        "next": "L'enjeu professionnel est résolu : les collègues disposent d'un fonctionnement partagé à essayer puis à réviser. Constance garde ses relations, ses projets et le suivi déjà prévu ; son évolution clinique reste ouverte, indépendante de cette réussite."
+      }
     }
   ]
 }

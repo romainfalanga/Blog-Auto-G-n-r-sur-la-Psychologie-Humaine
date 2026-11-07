@@ -643,7 +643,7 @@
       ],
       "clinical_focus": "Sommeil perturbé et retentissement diurne",
       "clinical_intro": "Les perturbations du sommeil peuvent accompagner la dépression et prendre des formes différentes selon les personnes. Un réveil précoce peut peser sur la journée et réduire la disponibilité du soir. Ni l’heure du réveil ni une nuit difficile ne permettent de conclure à un diagnostic ou à une cause unique. Décrire les changements au médecin aide à discuter les besoins réels.",
-      "opening": "Le port n’est encore éclairé que par les lampes des quais. Louise les aperçoit entre les rideaux et comprend qu’elle est réveillée trop tôt pour le jour qu’elle attendait. Elle se retourne, cherche une position où le sommeil reviendrait, puis écoute un camion passer. Son réveil n’a pas sonné. Elle ne souhaitait pas gagner ce temps-là.\n\nPlus tard, dans la cuisine, sa tasse ébréchée reste à côté du pain. Le thé refroidit pendant qu’elle envisage de retourner se coucher. Le repos n’est pas un bouton qu’elle pourrait retrouver sur le côté de la tasse. Elle s’habille, s’interrompt, reprend. La veille, elle a pu terminer une conversation avec Agnès sans continuer de se condamner pour un vieux règlement ; cela ne lui a pas donné une nuit tranquille par conséquence.\n\nUne répétition est prévue ce soir. Le retour de Claire approche, et Louise connaît maintenant la chanson retenue. Ce matin, pourtant, quand Agnès l’appelle pour un détail d’horaire, elle demande de répéter la dernière phrase. Elle se sent moins disponible avant même d’avoir commencé sa journée. Son épisode dépressif est connu ; elle ne sait pas pour autant ce qui explique exactement ce réveil ni comment se passera la nuit suivante. « Je veux bien entendre le premier passage, pas tenir jusqu’au rangement des chaises », dit-elle. Elle aimerait que cette limite reste modifiable. À côté du téléphone, elle rapproche le petit carnet réservé à son prochain rendez-vous médical.",
+      "opening": "Le port n’est encore éclairé que par les lampes des quais. Louise les aperçoit entre les rideaux et comprend qu’elle est réveillée trop tôt pour le jour qu’elle attendait. Elle se retourne, cherche une position où le sommeil reviendrait, puis écoute un camion passer. Son réveil n’a pas sonné. Elle ne souhaitait pas gagner ce temps-là.\n\nPlus tard, dans la cuisine, sa tasse ébréchée reste à côté du pain. Le thé refroidit pendant qu’elle envisage de retourner se coucher. Le repos n’est pas un bouton qu’elle pourrait retrouver sur le côté de la tasse. Elle s’habille, s’interrompt, reprend. La veille, elle a pu terminer une conversation avec Agnès sans continuer de se condamner pour un vieux règlement ; cette conversation n’a pas garanti une nuit tranquille.\n\nUne répétition est prévue ce soir. Le retour de Claire approche, et Louise connaît maintenant la chanson retenue. Ce matin, pourtant, quand Agnès l’appelle pour un détail d’horaire, elle demande de répéter la dernière phrase. Elle se sent moins disponible avant même d’avoir commencé sa journée. Son épisode dépressif est connu ; elle ne sait pas pour autant ce qui explique exactement ce réveil ni comment se passera la nuit suivante. « Je veux bien entendre le premier passage, pas tenir jusqu’au rangement des chaises », dit-elle. Elle aimerait que cette limite reste modifiable. À côté du téléphone, elle rapproche le petit carnet réservé à son prochain rendez-vous médical.",
       "sections": [
         {
           "role": "explanation",
@@ -1043,6 +1043,214 @@
       "continuity": {
         "choice": "Louise garde sa boîte jusqu’au rendez-vous. Elle appelle le cabinet, échange réellement avec le médecin dans la journée et obtient une consultation le lendemain, avec possibilité de rappeler si l’état s’aggrave.",
         "next": "Le rendez-vous a lieu à l’épisode 11. Louise apporte son carnet de sommeil et les changements de disponibilité et de perspective, sans diagnostic de récidive fait par elle ou Agnès."
+      }
+    },
+    {
+      "number": 11,
+      "slug": "louise-variations-suivi-confidence",
+      "title": "Variations : une meilleure heure n’annule pas le rendez-vous",
+      "description": "Au cabinet, Louise raconte les changements sans conclure à une récidive. Elle décide ensuite de ce qu’elle souhaite confier à Claire.",
+      "context": "au rendez-vous médical rapproché",
+      "topics": [
+        "Variations de l’état",
+        "Évaluation professionnelle",
+        "Confidence choisie"
+      ],
+      "clinical_focus": "Variations sans conclure à une récidive",
+      "clinical_intro": "L’évolution d’un épisode dépressif ne se lit pas dans une seule journée. Un mieux ponctuel peut coexister avec des difficultés importantes, et une période plus difficile mérite d’être évaluée sans être aussitôt nommée récidive. Raconter les changements et leur retentissement aide le suivi. La décision de partager des informations de santé reste distincte de l’évaluation et appartient à la personne.",
+      "opening": "Le lendemain de l’appel, Louise entre dans le cabinet avec le petit carnet préparé après ses nuits écourtées. Elle cherche la page, trouve une liste de mots très simples : réveil, téléphone, répétition. « Ça va paraître incohérent. Hier matin, j’ai eu un moment plus facile. » Elle a pu préparer son repas avec moins d’effort. Une partie d’elle pense que cela aurait dû suffire à annuler le reste, y compris le rendez-vous obtenu après sa conviction que rien ne changerait.\n\nLe médecin lui demande de raconter les deux moments. Louise parle du repas, puis de la boîte qu’elle voulait donner. Il ne choisit pas l’un pour faire taire l’autre. Il reprend avec elle ce qui a changé dans le sommeil, les pensées et la disponibilité au bureau. Elle explique les reprises pour la facture d’Avel, pourtant exacte à l’envoi, et la répétition manquée. Il revient aussi sur son histoire connue et son suivi.\n\nLouise pose le carnet à plat. « Quand c’est pire, je me dis que je recommence une dépression. Quand c’est mieux, que je n’avais pas à appeler. Je ne peux pas avoir raison des deux côtés. » Le médecin poursuit son évaluation à partir de l’ensemble, pas seulement de cette dernière phrase. Elle songe à Claire, dont le retour approche. Doit-elle lui annoncer une nouvelle étiquette pour expliquer qu’elle ne prendra pas toute la soirée en charge ? Elle aimerait pouvoir dire ce qu’elle vit sans faire du prochain couplet une preuve de santé.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Décrire une variation avant de la nommer",
+          "text": "L’évaluation d’une évolution dépressive tient compte de l’histoire, du fonctionnement et du contexte, pas d’un moment isolé. Pour Louise, le diagnostic d’épisode dépressif unique est déjà établi : « unique » décrit l’histoire documentée d’un seul épisode, sans promettre qu’il sera le dernier. Une journée plus difficile ne suffit pas à en annoncer un nouveau ; une meilleure heure n’établit pas non plus une rémission. La gravité et l’état de rémission ne se déduisent pas d’une scène de travail ou d’un moment agréable. Le médecin réévalue les changements et les besoins actuels avec elle. Les mots qu’elle choisira ensuite pour Claire répondent à une autre question : ce qu’elle veut partager dans cette relation, avec quelles limites."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment Louise risque-t-elle de tirer une conclusion de chaque variation ?",
+          "points": [
+            {
+              "heading": "Prendre un mieux pour l’annulation des difficultés",
+              "text": "Une activité devenue plus facile peut être traitée comme si elle rendait les moments pénibles moins réels. La consultation paraît alors devoir être justifiée de nouveau.",
+              "examples": [
+                "Louise pense que le repas préparé avec moins d’effort devrait rendre inutile le rendez-vous rapproché.",
+                "Elle hésite à montrer ses notes de réveils parce que la matinée d’hier n’a pas été entièrement difficile."
+              ]
+            },
+            {
+              "heading": "Prendre un pire pour une récidive certaine",
+              "text": "Le besoin de comprendre peut pousser à nommer immédiatement un nouvel épisode. Ce nom reste pourtant une conclusion clinique, pas un simple équivalent de se sentir plus mal.",
+              "examples": [
+                "Dans sa semaine difficile, Louise a pensé qu’elle recommençait une dépression sans avoir encore échangé au cabinet.",
+                "Elle envisage d’employer ce terme auprès de Claire pour expliquer une présence limitée avant même de savoir ce qu’il signifie pour son histoire."
+              ]
+            },
+            {
+              "heading": "Utiliser l’énergie d’avant comme seule mesure",
+              "text": "Comparer toute participation au fonctionnement ancien peut effacer les choix possibles et les difficultés actuelles. L’alternative devient à tort tout reprendre ou ne pas venir.",
+              "examples": [
+                "Louise se demande encore si une chanson partielle peut compter alors qu’elle organisait autrefois davantage.",
+                "Elle imagine devoir expliquer sa santé pour justifier qu’elle ne gérera ni clés ni buffet, au lieu de pouvoir simplement refuser ces tâches."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour parler de l’évolution sans se donner une étiquette nouvelle",
+          "points": [
+            {
+              "heading": "Raconter des changements et leur retentissement",
+              "objective": "Fournir au soignant une expérience située sans transformer le carnet en grille diagnostique.",
+              "exercise": [
+                "Apporter les notes déjà préparées pour le rendez-vous, en gardant aussi les moments plus faciles.",
+                "Relier les changements à la vie : l’appel repris, la nuit écourtée, le projet de donner les partitions.",
+                "Laisser le médecin explorer ce qui manque à son évaluation et dire lorsque l’on ne sait pas répondre."
+              ],
+              "benefit": "Des expériences différentes peuvent être entendues ensemble. Louise n’a pas à compter des signes, choisir un sous-code ou présenter une semaine entièrement mauvaise pour consulter."
+            },
+            {
+              "heading": "Vérifier la suite du suivi avant de repartir",
+              "objective": "Transformer le rendez-vous en un relais concret plutôt qu’en verdict tiré de l’humeur du jour.",
+              "exercise": [
+                "Demander au médecin quels besoins ils retiennent et quelles options adaptées ils souhaitent discuter ensemble.",
+                "Fixer le prochain point et vérifier comment joindre le cabinet entre-temps.",
+                "Reformuler ce qui est convenu si les difficultés s’accentuent, sans modifier seule les soins."
+              ],
+              "benefit": "Le suivi possède une suite pratique indépendamment de la répétition ou d’une meilleure journée. Les décisions cliniques demeurent partagées avec le professionnel."
+            },
+            {
+              "heading": "Choisir le destinataire et les limites d’une confidence",
+              "objective": "Séparer l’information utile au lien des détails que l’on préfère garder pour soi et les soignants.",
+              "exercise": [
+                "Décider si l’on souhaite parler à Claire maintenant, sans supposer que le groupe doit être informé.",
+                "Choisir une phrase exacte : être suivie après un premier épisode dépressif et souhaiter une participation partielle.",
+                "Préciser ce que l’on ne souhaite pas détailler et demander que cette confidence reste entre les personnes choisies."
+              ],
+              "benefit": "Claire peut comprendre une part du vécu sans recevoir un dossier de soins. La confidence n’est ni une condition de présence ni une annonce de guérison ou de récidive."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Deux couplets, et les mots qu’elle choisit",
+      "ending": "Le médecin demande aussi à Louise ce que les pensées de cette semaine lui font envisager ; il reprend avec elle les questions nécessaires à sa sécurité et aux risques à réévaluer, ainsi que les appuis et les soins disponibles. Ils discutent de ses besoins actuels et des options adaptées. La consultation ne s’arrête pas à son meilleur moment. Avant son départ, ils conviennent d’un prochain point et de reprendre contact avec le cabinet si les difficultés s’accentuent.\n\nChez elle, Louise appelle Claire. « Je suis suivie après un premier épisode dépressif. J’aimerais chanter une partie avec toi. Je ne veux pas détailler mes soins, et je préfère que ça reste entre nous. » Claire répond qu’elle peut garder cette confidence et qu’elle est contente de la retrouver. Louise propose deux couplets, puis une chaise. Elle convient ensuite de cette place avec la cheffe ; d’autres garderont les clés et s’occuperont du buffet. Elle n’explique pas sa santé au groupe pour obtenir cette répartition.",
+      "conclusion": "Louise apporte au médecin les variations et leurs conséquences, sans devoir choisir entre tout va bien et tout recommence. Elle garde une suite de suivi et une confidence à sa mesure. Sa participation à venir ne fera pas office de conclusion clinique.",
+      "mirror": [
+        "Claire peut répondre « Merci de me le dire ; je garde cela entre nous. Tu n’as pas besoin de détailler tes soins pour qu’on chante une partie ensemble. » Elle peut demander ce qui convient à leur rencontre sans réclamer un bilan, et respecter aussi un changement de décision.",
+        "Agnès sait que le rendez-vous a eu lieu si Louise choisit de le lui dire ; elle n’en demande pas le contenu pour vérifier les soins. Une meilleure conversation ne lui permet pas de conclure que le problème est réglé. Les proches peuvent soutenir les modalités convenues et laisser le médecin évaluer l’évolution, les besoins et les risques."
+      ],
+      "sources": [
+        "oms-cddr",
+        "has-depression-adulte",
+        "nice-ng222"
+      ],
+      "continuity": {
+        "choice": "La consultation rapprochée a lieu, le médecin réévalue les besoins et les risques et convient d’un prochain point avec possibilité de reprendre contact. Louise confie à Claire qu’elle est suivie après un premier épisode, sans détails de soins et avec confidentialité demandée.",
+        "next": "Deux couplets puis une chaise sont convenus avec la cheffe. Les clés et le buffet restent attribués à d’autres. Claire a reçu seulement la confidence choisie et n’en demande pas davantage."
+      }
+    },
+    {
+      "number": 12,
+      "slug": "louise-participation-deux-couplets-chaise",
+      "title": "Participation : deux couplets peuvent compter et coûter encore",
+      "description": "Pour le retour de Claire, Louise chante puis s’assoit. Elle garde son rôle musical, refuse les invitations et poursuit son suivi.",
+      "context": "le soir du retour de Claire à la chorale",
+      "topics": [
+        "Participation limitée",
+        "Retentissement persistant",
+        "Suivi maintenu"
+      ],
+      "clinical_focus": "Participation avec un retentissement encore présent",
+      "clinical_intro": "La participation et l’état clinique ne se confondent pas. Une personne suivie après un épisode dépressif peut réaliser un projet tout en restant fatiguée ou gênée dans d’autres activités. L’aide nécessaire peut coexister avec des compétences préservées. Définir une place choisie et maintenir le suivi permet de tenir compte de ce coût sans faire d’une réussite une preuve de guérison.",
+      "opening": "Claire reconnaît la boîte rouge avant de voir Louise. Elle est posée sur la chaise laissée au bord du rang, à côté d’un manteau plié. Presque huit semaines ont passé depuis l’invitation restée dans le sac au bureau. Claire vient déposer son écharpe sur le dossier voisin. « Tu l’as toujours, cette boîte. » Louise répond que les attaches ont surtout besoin qu’on leur laisse du temps.\n\nQuand la cheffe lève la main, Louise prend sa partition. Elle chante les deux couplets qu’elle a choisis. À l’entrée grave qu’elle connaît bien, elle entend la voix de Claire retrouver la sienne et ressent un bref plaisir, puis se concentre sur la suite. Terminer lui coûte encore. Elle ne chante pas le passage suivant : elle s’assoit comme convenu, garde la feuille sur ses genoux et laisse les autres continuer.\n\nLa fatigue ne s’éloigne pas avec la dernière note. Par moments, Louise perd un peu le fil de ce qui se dit autour d’elle. Elle regarde Claire rire près du piano et se réjouit de la revoir, sans pouvoir rester disponible à chaque échange. Son suivi après le premier épisode dépressif ne s’arrête pas à cette scène réussie.\n\nAu buffet, une pile de serviettes glisse. Louise la voit et reste assise ; quelqu’un d’autre la reprend. Puis une choriste s’approche : « Puisque tu es là, tu pourrais reprendre les invitations du trimestre ? Tu les faisais si bien. » Louise sent le vieux rôle arriver avec cette phrase, comme si ses deux couplets venaient de signer un engagement plus grand.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Réussir une chose ne rend pas tout possible",
+          "text": "Le retentissement d’un trouble se comprend aussi par ce qu’une activité demande et laisse possible ensuite. Les trajectoires dépressives sont variables, et des difficultés peuvent persister pendant qu’une personne reprend un lien ou une activité. Chez Louise, chanter deux couplets montre une participation réalisée ; cela ne fixe ni rémission, ni gravité, ni pronostic. Le plaisir bref auprès de Claire n’invalide pas la fatigue qui suit. Sa compétence musicale et son expérience administrative restent présentes, mais elles n’offrent pas une disponibilité illimitée. Le projet de retour a son propre dénouement ; l’évaluation de l’état clinique et la suite des soins gardent leur place avec le médecin."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment le retentissement reste-t-il présent pendant une soirée réussie ?",
+          "points": [
+            {
+              "heading": "Un passage réussi peut demander beaucoup d’effort",
+              "text": "Le résultat entendu par le groupe ne contient pas tout ce qui a été nécessaire pour le produire. Le coût peut surtout devenir sensible après l’action.",
+              "examples": [
+                "Les deux couplets sont chantés jusqu’au bout, mais Louise doit ensuite s’asseoir et laisser la suite aux autres.",
+                "Claire reconnaît leur harmonie familière ; Louise ressent encore la fatigue quand les applaudissements commencent."
+              ]
+            },
+            {
+              "heading": "La disponibilité varie selon la tâche et le moment",
+              "text": "Pouvoir faire une chose ne signifie pas pouvoir enchaîner toutes les autres. L’activité réussie peut être choisie, familière ou compatible avec une présence courte.",
+              "examples": [
+                "Louise suit sa partie d’alto, puis peine par moments à rester dans les conversations autour du piano.",
+                "Elle peut retrouver Claire assise sans pour autant reprendre les invitations du trimestre ou réparer les détails du buffet."
+              ]
+            },
+            {
+              "heading": "Un besoin d’aide coexiste avec les compétences",
+              "text": "Recevoir un appui ne retire pas le savoir-faire ; cela peut rendre une place limitée possible. Le besoin ne s’annule pas dès que la personne montre une capacité préservée.",
+              "examples": [
+                "Louise connaît les entrées du morceau et bénéficie pourtant d’une chaise réservée et d’une suite confiée aux autres voix.",
+                "Elle sait comment organiser des invitations, mais d’autres en garderont la responsabilité pendant qu’elle accueille son amie."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour garder la place choisie après une réussite",
+          "points": [
+            {
+              "heading": "Définir ce qui compte dans sa participation",
+              "objective": "Relier sa présence à un souhait personnel plutôt qu’à la totalité de son ancien rôle.",
+              "exercise": [
+                "Nommer l’enjeu qui compte : retrouver Claire avec la chanson qu’elles aiment.",
+                "Choisir le contenu possible de cette présence, ici deux couplets puis du temps assis ensemble.",
+                "À la fin, regarder ce qui a effectivement eu lieu sans en déduire ce que l’on devra pouvoir faire demain."
+              ],
+              "benefit": "Le projet peut avoir une issue réelle même dans une présence partielle. Cette façon de l’apprécier n’oblige pas à se sentir satisfaite et ne juge pas l’état clinique."
+            },
+            {
+              "heading": "Laisser une répartition devenir réelle",
+              "objective": "Empêcher qu’une aide annoncée soit reprise aussitôt par celle qui devait en bénéficier.",
+              "exercise": [
+                "Confirmer que les clés, le buffet et les invitations ont d’autres responsables qui acceptent ces tâches.",
+                "Répondre à une demande supplémentaire par une limite concrète : « Je ne reprends pas les invitations. »",
+                "Laisser les autres s’occuper des détails à leur façon et revenir à sa propre place, sans coordonner depuis la chaise."
+              ],
+              "benefit": "La responsabilité change effectivement de mains. Louise peut garder ses compétences et refuser une charge ; les autres ne sont pas de simples exécutants qu’elle devrait surveiller."
+            },
+            {
+              "heading": "Maintenir le suivi indépendamment de la soirée",
+              "objective": "Ne pas confier au résultat d’un projet social la décision sur les besoins de santé.",
+              "exercise": [
+                "Conserver le prochain point convenu avec le médecin, même si la chanson s’est passée comme souhaité.",
+                "Décrire aussi bien les moments agréables que le coût et les difficultés restés présents après eux.",
+                "Reprendre contact selon les modalités discutées si l’état s’accentue ou change, sans attendre la prochaine répétition pour en tirer une conclusion."
+              ],
+              "benefit": "Le médecin peut entendre une vie où réussite et difficultés coexistent. La chorale garde sa valeur propre sans devenir un test, une preuve de guérison ou un substitut aux soins."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Deux chaises au bord du groupe",
+      "ending": "« Non, je ne reprends pas les invitations. Je suis venue chanter et voir Claire. » Louise attend la réponse sans ajouter le nom d’un remplaçant à superviser. La choriste dit qu’elle en parlera aux personnes déjà chargées de l’accueil. La question s’éloigne ; elle n’est pas remise dans la boîte rouge.\n\nClaire tire une chaise près de la sienne. Elle raconte son trajet, puis s’arrête pour écouter le début d’un autre chant. Louise n’a pas à remplir le silence. Elle est contente par instants, fatiguée encore, et sa place ne dépend pas d’une joie continue. Les clés restent à la personne qui fermera, le buffet aux personnes qui l’ont préparé.\n\nLe retour de Claire a eu lieu, avec les deux couplets de Louise et ce temps ensemble au bord du groupe. Louise rapporte sa boîte chez elle sans dossier d’invitations. Elle garde son rendez-vous médical. Pour la semaine suivante, elle décidera à nouveau ce qu’elle souhaite et ce qui lui est possible ; la soirée ne l’engage pas à retrouver d’un seul coup toute son énergie d’avant.",
+      "conclusion": "Louise a accueilli Claire avec sa voix et une présence choisie, sans redevenir la responsable de tout. Le projet aboutit tandis que le retentissement reste réel. Sa vie à l’atelier et à la chorale continue, avec un suivi et des possibilités à rediscuter.",
+      "mirror": [
+        "Claire peut s’asseoir près de Louise et proposer « On reste ici un moment ? », sans commenter la chanson comme une preuve qu’elle irait désormais bien. Elle respecte la confidence reçue et ne la raconte pas pour expliquer le refus des invitations. Leur amitié peut retrouver des gestes ordinaires sans bilan de santé exigé.",
+        "Les autres membres peuvent prendre réellement leur part : garder les clés, décider du buffet et organiser les invitations. Remercier Louise pour ses deux couplets n’appelle pas une nouvelle mission. Ils peuvent accueillir une présence différente la semaine suivante sans surveiller ses performances ; l’évaluation de l’évolution reste celle de Louise avec son médecin."
+      ],
+      "sources": [
+        "oms-cddr",
+        "has-depression-adulte",
+        "nice-ng222"
+      ],
+      "continuity": {
+        "choice": "Louise chante deux couplets, s’assoit, refuse les invitations et retrouve Claire sur deux chaises. Les autres gardent les clés, le buffet et l’organisation. Elle rapporte sa boîte rouge et maintient son rendez-vous.",
+        "next": "L’enjeu de série est résolu : Claire est accueillie et Louise a choisi sa place musicale sans reprendre toute l’organisation. Sa participation future demeure ajustable ; aucun état de rémission ou pronostic n’est conclu de la soirée."
       }
     }
   ]

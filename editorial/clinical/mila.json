@@ -813,7 +813,7 @@
         }
       ],
       "ending_title": "Le dragon reste dans le sac",
-      "ending": "Mila ouvre enfin le cahier à la page marquée. Elle maintient les autres feuilles d’une main et montre le soleil vert. La docteure Le Goff regarde cette page sans demander le dragon ni une explication orale de tout le parcours. Julien transmet les observations convenues ; les questions de langage seront appréciées dans le suivi, avec les relais que la clinicienne jugera nécessaires. Ensemble, les adultes précisent les besoins utiles à adresser à Mme Perrin et recherchent l’assentiment de Mila pour ce partage. L’enseignante recevra les informations d’accompagnement convenues, pas le contenu de la consultation. Un point de suivi reste prévu. Mila remet le ticket dans l’album du plan : il pourra encore servir de passage secret.",
+      "ending": "Mila ouvre enfin le cahier à la page marquée. Elle maintient les autres feuilles d’une main et montre le soleil vert. La docteure Le Goff regarde cette page sans demander le dragon ni une explication orale de tout le parcours. Julien transmet les observations convenues ; les questions de langage seront appréciées dans le suivi, avec les relais que la clinicienne jugera nécessaires. Ensemble, les adultes précisent les besoins utiles à adresser à Mme Perrin et recherchent l’assentiment de Mila pour ce partage. L’enseignante recevra les informations d’accompagnement convenues, pas le contenu de la consultation. Un point de suivi reste prévu. Mila remet le ticket entre les pages du cahier, qu’elle referme et range dans son sac : il pourra encore servir de passage secret.",
       "conclusion": "La consultation réunit des informations que la scène seule ne pouvait fournir, sans exiger de démonstration ni décider d’un trouble supplémentaire. Une page choisie a été partagée, les questions ont un relais professionnel et le projet scolaire peut reprendre avec ses appuis convenus.",
       "mirror": [
         "Julien peut dire avant d’entrer : « Tu as choisi la page du soleil ; les autres restent à toi. » Il apporte les observations autorisées sans enregistrer Mila à la maison ni provoquer une réponse pour la clinicienne. Les parents donnent leur accord aux échanges nécessaires et recherchent son assentiment selon ce qu’elle peut exprimer. Ils peuvent demander à la docteure Le Goff quelles informations aideront réellement le suivi. L’école reçoit ce qui lui permet d’accompagner la journée ; elle n’a pas à connaître toutes les paroles ou tous les dessins de la consultation."
@@ -1134,6 +1134,109 @@
       "continuity": {
         "choice": "Mme Perrin prend le feutre orange. Mila reprend sa correction sans être appelée à commenter son murmure ; la carte terminée rejoint la boîte. L’enseignante informe la famille seulement dans le cadre de l’échange factuel convenu, sans comptage ni cérémonie.",
         "next": "Les six indices sont terminés et le déroulement du jeu est fixé : Mme Perrin lit les règles approuvées, les groupes cherchent, Mila contribue aux vérifications selon les possibilités du moment."
+      }
+    },
+    {
+      "number": 12,
+      "slug": "mila-evolution-jeu-acheve",
+      "title": "Un projet réussi ne prédit pas toute l’évolution de la parole",
+      "description": "La classe trouve les six objets après une flèche corrigée. Mila signe son plan ; ses difficultés de parole et le suivi restent présents.",
+      "context": "Le jour du jeu de piste des couleurs en classe",
+      "topics": [
+        "Évolution variable",
+        "Participation choisie",
+        "Poursuite du suivi"
+      ],
+      "clinical_focus": "Évolution variable malgré un projet réussi",
+      "clinical_intro": "L’évolution du mutisme sélectif varie, et une possibilité de communication dans un contexte ne se transfère pas automatiquement à un autre. Un projet collectif peut aboutir tandis que des difficultés importantes restent présentes. Les adultes peuvent reconnaître ce qui a été accompli et réévaluer les besoins avec les professionnels, sans calendrier imposé à la parole ni retrait soudain des appuis.",
+      "opening": "Le soleil vert est à sa place près de la bibliothèque. Mme Perrin lit les règles approuvées pendant que les deux groupes reçoivent chacun leurs trois cartes. Mila a posé la feuille aux deux lignes sous la boîte ouverte ; elle servira à retrouver les six places au retour. Le feutre orange est débouché. Sam regarde encore sa cachette préférée, sans dire où elle est. Quand la recherche commence, les enfants se dispersent dans la classe selon le cadre prévu.\n\nUn cube rouge revient, puis un ruban bleu et une éponge jaune. L’autre groupe rapporte un disque orange et un foulard violet, mais dit avoir déjà fouillé la bonne étagère pour le dernier indice. Mila regarde le petit dessin de feuille verte. Elle suit les flèches du plan avec son doigt et comprend qu’une ligne envoie deux fois au même endroit. Elle prend le feutre et dessine une flèche vers l’autre étagère. Ce n’est pas le bord corrigé hier ; c’est une erreur du trajet qui n’était pas apparue pendant l’essai.\n\nSam se penche sur la correction. Mila lui laisse le plan et montre la nouvelle direction lorsqu’elle le peut. Plusieurs enfants reviennent et lui demandent comment elle a inventé le jeu. Elle pense à la cuisine, au chemin qui s’ennuie, au soleil qui n’a jamais voulu être jaune. Elle ne peut pas leur répondre à voix haute. Le murmure du feutre, la veille, n’ouvre pas cet échange plus large. Le jeu est en train de fonctionner ; la difficulté reste là, au milieu d’un moment qu’elle voulait vivre.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Le résultat du jeu et le suivi répondent à des questions différentes",
+          "text": "Le cours du mutisme sélectif est variable, et des difficultés anxieuses ou de communication peuvent persister. Le portail de l’ASHA rappelle que la personne, le lieu et l’activité influencent l’accès à la communication : un acquis dans une situation ne se généralise pas automatiquement. Ici, le dessin permet une correction et un échange autour du plan, tandis que la réponse orale aux enfants reste inaccessible. Le succès du jeu ne démontre donc ni guérison ni échec du suivi. Il clôt un objectif scolaire ; l’accompagnement clinique poursuit ses propres questions, à réévaluer avec Mila et sa famille."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment réussite et difficulté restent-elles présentes ensemble ?",
+          "points": [
+            {
+              "heading": "Une correction devient accessible par le dessin",
+              "text": "Une contribution peut avoir un effet concret sans explication orale. Ce moyen disponible aujourd’hui n’est pas une garantie pour toutes les activités.",
+              "examples": [
+                "Mila repère le trajet répété vers une étagère et trace une flèche différente.",
+                "La feuille aux six cases sert à voir qu’un objet manque encore sans demander à Mila un compte rendu oral."
+              ]
+            },
+            {
+              "heading": "Un échange choisi existe autour du plan",
+              "text": "L’interaction peut porter sur une tâche partagée dans les possibilités présentes. Elle ne devient pas une mesure générale de l’aisance sociale.",
+              "examples": [
+                "Mila laisse Sam regarder la nouvelle flèche et lui indique la direction quand le geste lui est accessible.",
+                "Après la recherche, elle pourra choisir avec lui une cachette pour rejouer, sans qu’il soit responsable de ses réponses."
+              ]
+            },
+            {
+              "heading": "Une demande nouvelle reste sans réponse orale",
+              "text": "Le contexte change avec plusieurs interlocuteurs et une question ouverte. Une parole brève antérieure ne prédit pas l’accès à cette réponse.",
+              "examples": [
+                "Quand plusieurs enfants demandent l’origine du jeu, Mila ne parvient pas à leur raconter la cuisine.",
+                "Le murmure à Mme Perrin lors de la correction de la carte ne se reproduit pas à ce moment du jeu."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour reconnaître le projet sans conclure sur l’évolution",
+          "points": [
+            {
+              "heading": "Maintenir les moyens convenus pendant le jeu",
+              "objective": "Permettre au projet de se dérouler avec les possibilités présentes.",
+              "exercise": [
+                "Mme Perrin garde le rôle de lecture des règles et les accès aux besoins déjà organisés.",
+                "Les supports restent disponibles quand une question nouvelle rend la parole ou un geste difficiles.",
+                "L’adulte accueille la contribution accessible sans exiger une explication orale pour valider la correction."
+              ],
+              "benefit": "Une continuité peut soutenir la participation ; elle ne garantit pas l’accès permanent à chaque support."
+            },
+            {
+              "heading": "Recueillir ce qui a aidé ou gêné sans bilan du courage",
+              "objective": "Séparer le retour sur une activité scolaire d’une mesure clinique improvisée.",
+              "exercise": [
+                "L’enseignante recueille les corrections du parcours et les difficultés pratiques dans le travail ordinaire de la classe.",
+                "Avec Mila, elle laisse un moment distinct pour partager ce qu’elle souhaite, sans compter les mots ou imposer une satisfaction.",
+                "Elle échange les observations utiles avec les parents dans les limites convenues et en recherchant son assentiment."
+              ],
+              "benefit": "Un retour situé peut préparer une prochaine activité sans faire d’un jour réussi la preuve d’une évolution générale."
+            },
+            {
+              "heading": "Poursuivre la réévaluation avec les professionnels",
+              "objective": "Adapter l’accompagnement aux besoins plutôt qu’au seul résultat du jeu.",
+              "exercise": [
+                "La famille conserve le point de suivi prévu et les questions déjà transmises, dont l’inquiétude de la sortie.",
+                "La clinicienne apprécie avec Mila et ses parents les difficultés présentes, les objectifs à discuter et les relais nécessaires.",
+                "L’école reprend les aménagements convenus sans les retirer soudain ni promettre qu’ils resteront identiques ou produiront la parole à une date donnée."
+              ],
+              "benefit": "Ce suivi garde ouverte une évolution individuelle, avec de possibles changements et des besoins encore présents, sans pronostic tiré d’une fête de classe."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Six objets, une flèche neuve et un escargot",
+      "ending": "Mme Perrin reçoit la correction et aide les enfants à reprendre le bon trajet sans demander à Mila de commenter son invention devant eux. Le cahier vert est retrouvé sur l’autre étagère. Les six objets occupent enfin les six cases ; la classe garde les cartes et la règle corrigée pour rejouer. Mila colle son escargot au bas du plan, avec une maison orange et une minuscule porte verte. Sam lui propose une nouvelle cachette pour le ruban. Elle déplace son petit papier et garde son idée pour le disque. Le projet est achevé, avec un désaccord encore possible et une prochaine partie imaginable. À la sortie, Julien est bien présent comme convenu. La famille conserve le point avec la docteure Le Goff : les difficultés de parole et les autres préoccupations ne sont pas effacées par les six objets retrouvés.",
+      "conclusion": "Le jeu de Mila est réellement terminé et disponible pour la classe. Son plaisir, ses choix et ses relations ont une place malgré des difficultés persistantes. La série se ferme sur un projet accompli, tandis que son accompagnement continue sans échéance imposée à sa voix.",
+      "mirror": [
+        "Julien peut regarder l’escargot et dire : « La flèche a changé ; tu veux me montrer où elle va ? » Mila peut partager le plan ou passer à autre chose. Les parents et l’école conservent les échanges utiles avec son assentiment recherché, sans faire de la journée un bilan du courage. Sam reste libre d’inventer une autre cachette ou de choisir un autre jeu. La clinicienne accompagne la suite et la réévaluation des besoins ; aucun proche n’a à prédire l’avenir de sa parole à partir de cette réussite."
+      ],
+      "sources": [
+        "oms-cddr",
+        "asha-mutisme",
+        "hse-mutisme-appuis"
+      ],
+      "continuity": {
+        "choice": "La classe trouve les six objets et garde les cartes corrigées pour rejouer. Mila ajoute son escargot-signature au plan puis choisit une nouvelle cachette avec Sam. Le jeu est réellement achevé ; ses difficultés de parole et le suivi restent présents, sans conclusion pronostique.",
+        "next": "Parcours clos sur le projet : boîte complète et règle corrigée disponibles pour la classe. Au-delà de la série, Mila conserve des goûts, des relations, des possibilités à explorer avec les adultes et un accompagnement à réévaluer, sans échéance imposée à sa voix."
       }
     }
   ]
