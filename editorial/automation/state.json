@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "revision": 190,
+  "revision": 201,
   "created_at": "2026-11-07T14:47:42Z",
   "cases": {
     "mathis": {
@@ -1644,7 +1644,7 @@
     "berenice": {
       "character_id": "berenice",
       "code": "6A41",
-      "stage": "ready_to_publish",
+      "stage": "published",
       "created_at": "2026-11-07T14:47:42Z",
       "active_job": null,
       "owners": {
@@ -1713,6 +1713,36 @@
         "design_sha256": null,
         "dossier_sha256": null,
         "review_sha256": null
+      },
+      "publication": {
+        "verified_at": "2026-11-07T17:47:54Z",
+        "release": {
+          "date": "2026-11-07",
+          "status": "editorially_reviewed",
+          "article_format": 2,
+          "sha256": "3b6413eb0a15c8314ae38a934deb3dbe359903d74ed202d0b71393d1d37d061c",
+          "dossier_sha256": "4c6f5920980bfbd23ffa27c76ceb8ba945780366e758b1b9a173252ae408f3b7",
+          "design_sha256": "7598c33fedbcaa5971d147789439936aaf4431f7b5b4e46c8edc0def8e6862d1",
+          "independent_review_sha256": "4bc6559c79b65744810a128aa24754dd45cf4283f6e8dcf1cf193944972cfc7c",
+          "review": "Relecture indépendante des douze épisodes : attribution médicale, vécu de peur sans causalité, soins sans protocole domestique, réévaluation et urgence appropriées ; continuité du tournoi et des relais vérifiée."
+        },
+        "files": {
+          "content/posts/comprendre-et-maitriser-ses-emotions/berenice-changement-brutal-relais-medical.md": "72c3aae26eb8c15d8a9eda5da8bcba94acab10b2c788fb2bb1e68eaf341d23f1",
+          "content/posts/comprendre-et-maitriser-ses-emotions/berenice-attribution-traitement-evaluation.md": "ae5284a75889053bf64f635b3687b6d8ccb8393e55674dda5c1022e2c5d97cb5",
+          "content/posts/comprendre-et-maitriser-ses-emotions/berenice-parole-entravee-adresser-personne.md": "1194a07428749ff99c814dd7718b24a5af828497edd81b92c1abb57edb8921b3",
+          "content/posts/comprendre-et-maitriser-ses-emotions/berenice-initiative-motrice-geste-bloque.md": "0d5307ba643dee082ee076e9387ee8e84303a4cb93adc118bc0e1d4376238a5a",
+          "content/posts/comprendre-et-maitriser-ses-emotions/berenice-besoins-corporels-complication.md": "11710ea4bf621031417fdc552e1cb551ef359033a4ba606b8e8fc1ceb7e78ad7",
+          "content/posts/comprendre-et-maitriser-ses-emotions/berenice-fluctuations-appreciation-amelioration.md": "30b5c91314d6e194ab36533b01574bf5a3ce3f5969d79da7855b428cc649a613",
+          "content/posts/comprendre-et-maitriser-ses-emotions/berenice-peur-immobilite-vecue.md": "fe052402b207fbf0cba2cc5c19c8c6fd53765c41dcf416b168853c55f28bddc3",
+          "content/posts/comprendre-et-maitriser-ses-emotions/berenice-inquietudes-participation-soins.md": "ce6e4a091e8df25e2791b55822b3d0573e07dfe0a69186b6d6f9fe54673fb467",
+          "content/posts/comprendre-et-maitriser-ses-emotions/berenice-souvenirs-partiels-recit.md": "6d9ce67977d7736de0540dd662a91d5331f4addd9a92efa4bc33deed3cc90723",
+          "content/posts/comprendre-et-maitriser-ses-emotions/berenice-retour-accueil-role-choisi.md": "ce7c74d44a1a6d9b7e6301e23c840948685048aeb1e1cc0de2b24b8ee11e4f71",
+          "content/posts/comprendre-et-maitriser-ses-emotions/berenice-changement-ulterieur-reevaluation.md": "bf3bdc8ceeb668ff290995cd7256314309efed34d888619718997b89b61b3796",
+          "content/posts/comprendre-et-maitriser-ses-emotions/berenice-resolution-reprise-place-tournoi.md": "ef26ac60a22121af0842eda951610f60bbc78368f84a1655cf5796903ea232cd",
+          "content/personnages/berenice.md": "6d3ccfe0f5e52628d5373334432f50dc0f8d998faa17219c59a722448b407a48",
+          "data/article_mirrors/berenice.json": "5ebec37fa6e16a21243237cd6e20d7d4490cb33696054134a85ff9db527b073c"
+        },
+        "topics_sha256": "e2233c96e9ce055646f450b27821c414108eb419b2d1a801bf6b9c96e36fcbe4"
       }
     },
     "alix": {
@@ -2684,7 +2714,7 @@
     "basile": {
       "character_id": "basile",
       "code": "6B44",
-      "stage": "ready_to_publish",
+      "stage": "published",
       "created_at": "2026-11-07T14:47:42Z",
       "active_job": null,
       "owners": {
@@ -2753,6 +2783,36 @@
         "design_sha256": null,
         "dossier_sha256": null,
         "review_sha256": null
+      },
+      "publication": {
+        "verified_at": "2026-11-07T17:47:54Z",
+        "release": {
+          "date": "2026-11-07",
+          "status": "editorially_reviewed",
+          "article_format": 2,
+          "sha256": "7900b102748643a1b78260d611d38338ae559618f1962f8b10095f210d7c2593",
+          "dossier_sha256": "939284e290150b5e5afa2dee7a0928d202cd47532233a4dba4ae8056733c7b6a",
+          "design_sha256": "0e02ad73a184a095d5aed6748384167c7012a12ea89046e48ab25a38d71542fd",
+          "independent_review_sha256": "680d3bd20ebd816ae371e0345c4f585979e1d0d8507b8009d14e7122c773f75c",
+          "review": "Douze épisodes relus indépendamment : réconfort et réponse distingués, soutien sans coercition, confidentialité et plainte physique respectées ; seule référence ambiguë au diagnostic de Lila corrigée et revalidée. Continuité de la piste collective vérifiée."
+        },
+        "files": {
+          "content/posts/comprendre-et-maitriser-ses-emotions/basile-chercher-reconfort-tunnel-effondre.md": "8264cbe6c8718bc6f3bca51ef11100a46a0e6c601c6c589067bfc0b956184c1c",
+          "content/posts/comprendre-et-maitriser-ses-emotions/basile-recevoir-reconfort-deux-descentes.md": "d911575fe3735bd242fc33eab94a245f5c4952775de671e04fcaa7bc16e4aa1e",
+          "content/posts/comprendre-et-maitriser-ses-emotions/basile-plaisir-peu-visible-toc-final.md": "ddd4a0a31db4f7e417a9feed0e97b9b372cff60efe73337cbf61c9c176ba7289",
+          "content/posts/comprendre-et-maitriser-ses-emotions/basile-irritation-offre-aide-raccord.md": "c378cda8b5d38e2c59877355be91a29a3c92f684f33aa2ae46286a4970db431f",
+          "content/posts/comprendre-et-maitriser-ses-emotions/basile-relais-annonce-atelier-remplacante.md": "f06c466d469eadd8d0e1cd53e7ab6500b38c82cb84fde7edb1814ddced2c3980",
+          "content/posts/comprendre-et-maitriser-ses-emotions/basile-appui-apprendre-mesure-pente.md": "3e1094fd5f6ac136044037c01447e2c5a3fb9fd00e4777344daec4e34532f851",
+          "content/posts/comprendre-et-maitriser-ses-emotions/basile-relations-pairs-depart-deux.md": "7cb615e70d3f89bcdec4226e0206f387a070c3c5f294e6b02b93a368895e0158",
+          "content/posts/comprendre-et-maitriser-ses-emotions/basile-refus-contact-fete-piste.md": "8f14eef23dbb1886daeeba872fb07a79d60b95c32ec7263288bb80b5c4adeec8",
+          "content/posts/comprendre-et-maitriser-ses-emotions/basile-confidentialite-panneau-jeu.md": "0282ada0396edb082ea4e0945d7e45b5784780771d95f33a27f820185e56b3d4",
+          "content/posts/comprendre-et-maitriser-ses-emotions/basile-soutien-adultes-relais-plateau.md": "eb216c06374e6bbad90e0568768cba26b725e7f41dcc130f1d753488fde90953",
+          "content/posts/comprendre-et-maitriser-ses-emotions/basile-changement-sante-mal-ventre.md": "7873cd8381d068738671d81428418d25fb734e10ca95d75bb12c25c726601205",
+          "content/posts/comprendre-et-maitriser-ses-emotions/basile-evolution-jeu-trois-chemins.md": "a11cfd3d2810e45197e48388bd210b77316dd6b97afb7a26ea073feb1438b59a",
+          "content/personnages/basile.md": "ab6c2223f1e37b78771fe85ef2d8757b40192348a5c6f6ad294da2242b1b1daf",
+          "data/article_mirrors/basile.json": "7719db15ad345c76c73275389b249d2ed6062a468000bc6d6d2643605f37fb8d"
+        },
+        "topics_sha256": "97fb0a68553e326ff7e72f841257d462fca2e7cbf8aa6053734335d0121d1838"
       }
     },
     "thael": {
@@ -19383,9 +19443,9 @@
       },
       "snapshot_sha256": "11aeb8a5c3f6943abacf133738aa6d7661ac2063e1fe3a1a95639717085fb7d5",
       "status": "active",
-      "token_sha256": "05631c4ea45bc8ce4ae0b7becf74fd312163f48e4351faa4cdd9d48694c361da",
-      "heartbeat_at": "2026-11-07T15:34:01Z",
-      "expires_at": "2026-11-07T16:04:01Z",
+      "token_sha256": "3ce3955cb9b8c7272a9329b53129c7f5aa9e0a9a85c4137efc3b6bcfcdf1e9cc",
+      "heartbeat_at": "2026-11-07T17:47:30Z",
+      "expires_at": "2026-11-07T18:17:30Z",
       "checkpoints": [
         {
           "at": "2026-11-07T15:32:07Z",
@@ -19428,8 +19488,25 @@
             "dossier_sha256": "e2ec4cc9b8e4c10cbb677a12d2261ade939dbf0af6c5fe148dbbf4959959e100",
             "review_sha256": null
           }
+        },
+        {
+          "at": "2026-11-07T17:47:30Z",
+          "outputs": {
+            "editorial/clinical/aubin.json": "ce2d87b8e63e0b8b9e7ee72abe71e734161c484487aeca7b3bb660290e1334b4"
+          },
+          "observed": {
+            "manuscript_sha256": "ce2d87b8e63e0b8b9e7ee72abe71e734161c484487aeca7b3bb660290e1334b4",
+            "episodes_present": 1,
+            "manuscript_readable": true,
+            "design_sha256": "2e603abdda52c4b662f418ea7ed80ca21b202e6917b904735531a2918cb98601",
+            "dossier_sha256": "e2ec4cc9b8e4c10cbb677a12d2261ade939dbf0af6c5fe148dbbf4959959e100",
+            "review_sha256": null
+          }
         }
-      ]
+      ],
+      "expired_at": "2026-11-07T17:45:37Z",
+      "resumed_at": "2026-11-07T17:46:03Z",
+      "resume_count": 1
     },
     "1d7207c0a54444e7a82390ae075967a4": {
       "id": "1d7207c0a54444e7a82390ae075967a4",
@@ -21555,11 +21632,11 @@
       },
       "snapshot_sha256": "9499502dac002f69dcc22e9435deaf02ef0d14589ab28e687ca8b0c51313b8d3",
       "status": "active",
-      "token_sha256": "81ebd305291e0927b58601257d0dfe369c670f15034d840284f2d3a490bdb023",
-      "heartbeat_at": "2026-11-07T15:34:23Z",
-      "expires_at": "2026-11-07T16:04:23Z",
-      "resumed_at": "2026-11-07T15:31:29Z",
-      "resume_count": 1,
+      "token_sha256": "39565077dc5a5e660aa7a67ad78da60f7a5cc11bd50efd9608fbcbb68af6fcc7",
+      "heartbeat_at": "2026-11-07T17:47:36Z",
+      "expires_at": "2026-11-07T18:17:36Z",
+      "resumed_at": "2026-11-07T17:46:09Z",
+      "resume_count": 2,
       "checkpoints": [
         {
           "at": "2026-11-07T15:34:23Z",
@@ -21602,8 +21679,23 @@
             "dossier_sha256": "da175d9963bd9cc2ff48afed16bf8f74d31667769124bb1c493f65eff59d7ac1",
             "review_sha256": null
           }
+        },
+        {
+          "at": "2026-11-07T17:47:36Z",
+          "outputs": {
+            "editorial/clinical/thael.json": "7102f694de0ca185ddea55bf13c2c73ac58b3fb568f675f428248ab897f6f05d"
+          },
+          "observed": {
+            "manuscript_sha256": "7102f694de0ca185ddea55bf13c2c73ac58b3fb568f675f428248ab897f6f05d",
+            "episodes_present": 1,
+            "manuscript_readable": true,
+            "design_sha256": "dec7a8f9af711389fe081c21e320e79cb56db47289fd6d920c92d07199fef782",
+            "dossier_sha256": "da175d9963bd9cc2ff48afed16bf8f74d31667769124bb1c493f65eff59d7ac1",
+            "review_sha256": null
+          }
         }
-      ]
+      ],
+      "expired_at": "2026-11-07T17:45:37Z"
     },
     "702ae0133123444b900b33699ec07f26": {
       "id": "702ae0133123444b900b33699ec07f26",
@@ -25046,5 +25138,5 @@
       }
     }
   },
-  "updated_at": "2026-11-07T15:34:23Z"
+  "updated_at": "2026-11-07T17:47:54Z"
 }
