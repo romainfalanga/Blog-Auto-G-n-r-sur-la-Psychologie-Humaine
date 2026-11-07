@@ -520,6 +520,416 @@
         "choice": "Estelle réserve la boisson à l’avis de l’équipe et reprend les affaires demandées. Bérénice obtient une distinction entre déshydratation déjà traitée, besoins suivis et soins du syndrome.",
         "next": "Les besoins corporels restent suivis. La variation des réponses et des gestes entre plusieurs moments conduira à interroger la façon dont l’équipe apprécie l’amélioration et la sortie."
       }
+    },
+    {
+      "number": 6,
+      "slug": "berenice-fluctuations-appreciation-amelioration",
+      "title": "Amélioration fluctuante : regarder au-delà d’un bon moment",
+      "description": "Une plaisanterie du matin ne résume pas l’évolution. L’équipe apprécie plusieurs moments avant de constater la résolution et préparer la sortie.",
+      "context": "Évolution de la phase hospitalière",
+      "topics": [
+        "Contraste entre deux moments",
+        "Appréciation clinique dans le temps",
+        "Sortie et contacts de suivi"
+      ],
+      "clinical_focus": "Fluctuations et appréciation de l’amélioration",
+      "clinical_intro": "Les manifestations d’une catatonie peuvent fluctuer pendant la prise en charge. Une conversation plus facile ne suffit pas à conclure au rétablissement, et une difficulté ultérieure ne prouve pas un défaut d’effort. L’équipe apprécie l’évolution dans le temps. Bérénice et Estelle découvrent cette distinction alors qu’un projet de sortie commence à être discuté.",
+      "opening": "Le matin, Bérénice a regardé l’affiche qu’Estelle avait laissée dépasser du sac. « Si tu la caches derrière la porte, on aura surtout un tournoi secret. » Estelle a ri avant de se rendre compte qu’elle attendait depuis plusieurs visites cette manière de contester un détail. Elle a raconté la phrase à la soignante, heureuse de pouvoir rapporter autre chose qu’un geste interrompu. La journée lui a soudain paru déjà orientée vers la maison.\n\nPlus tard, dans la même chambre, les réponses de Bérénice sont de nouveau difficiles et les mouvements moins accessibles qu’au matin. Estelle a l’impression d’avoir annoncé trop vite quelque chose. Elle ne sort pas l’affiche pour réclamer la même remarque. Elle demande à l’équipe si elle s’est trompée sur ce qu’elle avait vu. La soignante reprend les deux moments : celui du matin a existé, celui-ci demande aussi leur attention. Elle transmet les observations au médecin dans le suivi en cours.\n\nL’enveloppe bleue reste fermée sur la chaise. Estelle n’en connaît pas mieux la date d’ouverture pour autant. Elle voudrait demander à sa mère de dire une nouvelle phrase, juste une, qui remettrait la journée sur ses rails. Elle se retient : cette phrase servirait surtout à la rassurer elle. Le point médical porte sur l’évolution observée à plusieurs moments, pas sur la capacité de Bérénice à reproduire une plaisanterie devant sa fille.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "L’évolution s’apprécie sur plusieurs observations",
+          "text": "Des manifestations catatoniques peuvent varier au cours du temps ; leur appréciation clinique ne repose donc pas sur une seule visite. Le contraste ne dit pas que la personne aurait cessé de faire des efforts. L’équipe rassemble les observations, poursuit les soins et réévalue le syndrome ainsi que les besoins corporels. Pour la catatonie provoquée par des substances ou des médicaments, le cours est souvent bref, mais dépend de la cause et de la situation. Ce repère général ne fixe aucun délai individuel et ne propose aucune action sur un traitement. Chez Bérénice, la résolution de la phase aiguë sera constatée par l’équipe après la poursuite de la prise en charge, puis la sortie sera organisée avec elle."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment les fluctuations brouillent-elles la lecture de l’amélioration ?",
+          "points": [
+            {
+              "heading": "Deux moments ne montrent pas la même facilité",
+              "text": "Une observation encourageante peut être réelle sans représenter toute la journée. Le moment plus difficile mérite lui aussi d’être transmis et pris en compte.",
+              "examples": [
+                "Le matin, Bérénice fait une remarque sur l’affiche ; plus tard, sa réponse à une question est difficile.",
+                "Estelle rapporte les deux moments à l’équipe au lieu de supprimer le premier de son récit parce que le second l’inquiète."
+              ]
+            },
+            {
+              "heading": "Le contraste invite à chercher un effort manquant",
+              "text": "Quand une capacité a été visible, on peut être tenté d’en demander la reproduction. Cela confond une manifestation fluctuante avec une décision de coopérer.",
+              "examples": [
+                "Estelle renonce à ressortir l’affiche pour faire revenir la plaisanterie du matin.",
+                "Personne ne demande à Bérénice de reprendre le gilet pour vérifier si elle est aujourd’hui plus décidée."
+              ]
+            },
+            {
+              "heading": "La sortie réclame une appréciation d’ensemble",
+              "text": "Le projet de retour se fonde sur une réévaluation professionnelle et sur l’organisation de la suite. Ni l’espoir familial ni l’échéance du tournoi ne décident de la fin des soins hospitaliers.",
+              "examples": [
+                "Le médecin reprend l’évolution à plusieurs moments et les besoins suivis avant de statuer sur la phase aiguë.",
+                "Le trajet avec Estelle est organisé après la décision clinique, et non pour rendre Bérénice disponible avant la date du tournoi."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour parler de l’évolution avec l’équipe",
+          "points": [
+            {
+              "heading": "Rapporter les contrastes sans verdict",
+              "objective": "L’objectif est de transmettre ce qui varie sans déclarer soi-même une guérison ou une rechute.",
+              "exercise": [
+                "Signalez au soignant le moment qui vous inquiète, sans attendre d’avoir réuni plusieurs exemples.",
+                "Racontez aussi le moment différent que vous avez réellement observé, en le situant simplement.",
+                "Laissez l’équipe apprécier l’ensemble au lieu de demander à la personne de reproduire une tâche."
+              ],
+              "benefit": "Les observations restent utiles sans devenir des notes de performance. Un changement important dans le service est repris par les soignants disponibles."
+            },
+            {
+              "heading": "Demander ce qui fonde le projet de sortie",
+              "objective": "Le but est de comprendre une décision clinique plutôt que de la rattacher à une parole rassurante.",
+              "exercise": [
+                "Demandez à l’équipe où en est son appréciation de la phase aiguë.",
+                "Faites préciser ce qui permet d’envisager le retour et ce qui restera suivi ensuite.",
+                "Posez la question restée ouverte sans proposer l’échéance d’un projet personnel comme critère de sortie."
+              ],
+              "benefit": "La transition peut devenir compréhensible et partagée. Elle conserve son fondement médical, même lorsque le retour à la maison est attendu."
+            },
+            {
+              "heading": "Préparer les contacts après l’hôpital",
+              "objective": "L’objectif est de connaître la suite concrète convenue avec les professionnels.",
+              "exercise": [
+                "Avec l’équipe, identifiez les contacts et rendez-vous prévus après la sortie.",
+                "Demandez comment les joindre pour une question et comment obtenir une aide médicale urgente devant un changement nouveau important ou brutal.",
+                "Organisez avec la personne l’aide pratique qu’elle souhaite, par exemple le trajet, sans mettre en place des tests familiaux."
+              ],
+              "benefit": "Le suivi se poursuit avec des relais identifiés. Le proche peut reprendre une tâche délimitée sans se transformer en surveillant du syndrome."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Un trajet après la décision",
+      "ending": "Les soins continuent et l’équipe réévalue Bérénice au fil de l’évolution. Lors d’un point ultérieur, elle constate la résolution de la phase catatonique. Le médecin reprend avec elle les besoins et la suite du suivi ; la sortie est alors organisée. Cette conclusion ne vient pas de la plaisanterie du matin ni du calendrier de badminton.\n\nBérénice demande où garder les contacts remis par le service. Estelle propose la pochette médicale, séparée des feuilles du tournoi. Elle convient ensuite du trajet pour la ramener chez elle. L’enveloppe bleue voyage aussi dans le sac, encore fermée. Le retour à la maison clôt cette phase hospitalière ; il n’efface pas les questions que Bérénice pourra apporter aux rendez-vous suivants.",
+      "conclusion": "Une amélioration fluctuante demande une appréciation clinique dans le temps, sans jugement sur l’effort. La phase aiguë de Bérénice est désormais résolue selon l’équipe ; la sortie et le suivi sont organisés avant toute reprise du rôle qu’elle souhaite au tournoi.",
+      "mirror": [
+        "Estelle n’a pas rêvé la remarque du matin, et elle n’a pas à la faire revenir pour sécuriser le départ. Elle peut demander : « Qu’est-ce qui fonde votre décision, et qui contacter ensuite ? » Une fois la sortie décidée, elle propose un trajet plutôt qu’un programme de surveillance. Si un changement ultérieur important ou brutal apparaît, le relais médical reste nécessaire sans tentative familiale d’en déterminer la cause."
+      ],
+      "sources": [
+        "oms-cddr",
+        "bap-catatonia-2023"
+      ],
+      "continuity": {
+        "choice": "Après poursuite des soins et réévaluation, l’équipe constate la résolution de la phase catatonique et organise la sortie avec Bérénice. Les contacts sont définis ; Estelle assure le trajet convenu.",
+        "next": "Bérénice est chez elle dans les semaines suivant la sortie, avec le suivi prévu. Elle pourra rapporter un vécu de peur qui ne se déduisait pas de son apparence à l’hôpital."
+      }
+    },
+    {
+      "number": 7,
+      "slug": "berenice-peur-immobilite-vecue",
+      "title": "Peur derrière l’immobilité : écouter le vécu après coup",
+      "description": "L’immobilité avait paru calme à Estelle. À la maison, Bérénice raconte une peur qu’elle ne pouvait montrer et choisit où s’arrêter.",
+      "context": "Une conversation à la maison après la sortie",
+      "topics": [
+        "Apparence et vécu",
+        "Peur rapportée après coup",
+        "Récit libre"
+      ],
+      "clinical_focus": "Peur vécue derrière l’immobilité apparente",
+      "clinical_intro": "L’apparence immobile d’une personne pendant une catatonie ne permet pas de connaître ce qu’elle éprouve. Certaines personnes rapportent ensuite de la peur ; ce vécu n’est ni universel ni une explication de l’origine du syndrome. Après sa sortie, Bérénice peut raconter ce qu’elle se rappelle, sans devoir confirmer l’impression que sa fille avait gardée de la visite.",
+      "opening": "Le gilet gris est posé sur le dossier de la chaise, dans la cuisine de Bérénice. Il a retrouvé cette place sans que personne ait à demander où le laisser. Depuis la sortie organisée par l’équipe, les journées reprennent des contours ordinaires ; les rendez-vous de suivi restent dans la pochette médicale. Ce soir, Estelle a apporté une version corrigée de l’affiche du tournoi. Elle la déplie puis, en regardant le gilet, revient à une visite à l’hôpital.\n\n« Ce jour-là, tu avais l’air si calme. Je croyais au moins que tu n’avais pas peur. » Bérénice cesse de suivre du doigt le bord de l’affiche. « Moi, je me souviens d’avoir eu très peur. Je n’arrivais pas à te le montrer comme je voulais. » Estelle regarde sa mère, puis le vêtement, comme si ces deux images ne pouvaient pas appartenir au même souvenir. Elle commence à expliquer que son visage ne laissait rien voir. Elle entend aussitôt que ce serait répéter exactement ce que Bérénice vient de lui dire.\n\nSa mère reprend : elle parle de ce moment dont elle se rappelle la peur, pas de chaque minute de l’hospitalisation. Elle ne cherche pas à lui révéler un récit complet. Puis elle tire l’affiche vers elle. « Je veux bien te dire ça. Mais pour ce soir, j’aimerais qu’on sorte de la chambre. » Estelle reste un instant sans savoir si elle doit poser une dernière question. La feuille dépliée leur offre déjà un autre sujet.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Une apparence ne donne pas accès au vécu",
+          "text": "Une expression extérieure peu mobile ne démontre pas une absence d’émotion. Des récits recueillis après une catatonie décrivent notamment la peur et la difficulté à se faire comprendre, avec des expériences diverses. Ces observations exploratoires ne sont pas propres à la catatonie d’origine médicamenteuse et ne permettent pas de savoir ce qu’une personne précise a vécu. Ici, c’est Bérénice qui nomme sa peur. Sa parole éclaire une expérience singulière ; elle ne prouve ni une compréhension intacte de tous les événements ni une cause émotionnelle du syndrome. Écouter cette parole demande aussi d’accepter qu’elle s’arrête."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment l’apparence peut-elle masquer une expérience différente ?",
+          "points": [
+            {
+              "heading": "Le calme est une impression de l’observateur",
+              "text": "Un visage peu expressif peut recevoir une signification rassurante pour celui qui regarde. Cette lecture reste une impression, même lorsque le proche connaît bien la personne.",
+              "examples": [
+                "Estelle avait interprété l’immobilité de sa mère comme une absence de peur pendant une visite.",
+                "À la maison, elle découvre que la phrase « tu semblais calme » décrit son regard de fille et non ce que Bérénice dit avoir ressenti."
+              ]
+            },
+            {
+              "heading": "Une émotion n’a pas trouvé son expression",
+              "text": "Le vécu raconté après coup peut être très différent de ce que les autres ont pu percevoir. Il ne faut pas exiger un signe visible ancien pour recevoir le récit présent.",
+              "examples": [
+                "Bérénice dit qu’elle avait peur et ne pouvait la montrer comme elle le voulait.",
+                "Estelle renonce à lui opposer le souvenir d’un visage immobile comme une preuve contraire."
+              ]
+            },
+            {
+              "heading": "Raconter une part ne signifie pas vouloir tout reprendre",
+              "text": "La personne peut souhaiter partager un fragment puis retourner à un sujet ordinaire. Cette limite ne permet pas de conclure à un autre trouble ou à un refus d’aide.",
+              "examples": [
+                "Bérénice précise qu’elle parle d’un moment dont elle se souvient, sans raconter toute l’hospitalisation.",
+                "Elle rapproche l’affiche et demande des nouvelles du tournoi au lieu de répondre à une série de questions."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour accueillir un vécu sans l’imposer",
+          "points": [
+            {
+              "heading": "Distinguer ce qui a été vu de ce qui est raconté",
+              "objective": "L’objectif est de reconnaître la parole de la personne sans réécrire son expérience depuis l’extérieur.",
+              "exercise": [
+                "Écoutez le mot qu’elle emploie pour son vécu, ici la peur.",
+                "Si vous partagez votre souvenir, présentez-le comme votre impression : « Je croyais te voir calme. »",
+                "Reconnaissez que vous ne saviez pas ce qu’elle éprouvait et laissez-la préciser seulement ce qu’elle souhaite."
+              ],
+              "benefit": "Deux perspectives peuvent coexister sans que le proche corrige le sentiment rapporté. Aucun souvenir exhaustif n’est nécessaire pour être entendu."
+            },
+            {
+              "heading": "Demander si l’échange doit continuer",
+              "objective": "Le but est de laisser à la personne une prise réelle sur la conversation actuelle.",
+              "exercise": [
+                "Proposez simplement de continuer ou de changer de sujet.",
+                "Recevez la réponse sans demander une dernière explication obligatoire.",
+                "Passez au sujet choisi ou partagez un moment ordinaire, comme regarder l’affiche ensemble."
+              ],
+              "benefit": "La relation ne dépend plus d’un récit médical à livrer. S’arrêter peut être un choix respecté sans prétendre traiter une difficulté."
+            },
+            {
+              "heading": "Proposer une place au suivi",
+              "objective": "L’objectif est d’offrir un relais pour un vécu que la personne voudrait aborder avec un professionnel.",
+              "exercise": [
+                "Demandez si elle souhaite parler de ce souvenir au rendez-vous prévu.",
+                "Si elle le souhaite, aidez-la à garder ses propres mots pour cet échange.",
+                "Laissez le professionnel accueillir la question et respectez le choix de la personne sur la présence d’un proche."
+              ],
+              "benefit": "Une expérience préoccupante peut trouver une place dans les soins. La proposition ne suppose ni diagnostic supplémentaire ni récit forcé."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Sortir de la chambre en parlant des joueurs",
+      "ending": "« Je ne savais pas que tu avais peur », dit Estelle. Elle laisse de côté la question qui lui venait. Bérénice lui demande combien de joueurs ont confirmé et si quelqu’un a enfin corrigé l’heure sur l’affiche. Estelle lui montre la ligne. Leur conversation avance vers un détail qu’elles peuvent réellement régler ce soir.\n\nBérénice ne se sent pas tenue d’avoir tout expliqué avant de reprendre le tournoi. Elle garde la possibilité de reparler de cette peur au suivi. Pour le prochain rendez-vous, une autre inquiétude est déjà présente : comment parler des traitements après ce qui s’est passé, sans qu’une question soit prise pour une décision qu’elle aurait conduite seule.",
+      "conclusion": "Le vécu d’une catatonie ne se lit pas sur l’immobilité. Bérénice a pu raconter une peur puis interrompre le récit ; Estelle entend cette limite et retrouve avec elle un projet qui n’exige pas de confession préalable.",
+      "mirror": [
+        "Devant le gilet, Estelle peut dire : « Ce que j’ai vu ne me disait pas ce que tu ressentais. Tu veux continuer ou parler des joueurs ? » Elle n’a pas à recueillir chaque détail de l’hôpital. Si sa mère souhaite porter ce vécu au suivi, elle peut l’aider à conserver sa question. Le lien reste aussi fait d’affiches à corriger et de sujets qui n’appartiennent pas aux soins."
+      ],
+      "sources": [
+        "oms-cddr",
+        "zingela-experience-2022",
+        "bap-catatonia-2023"
+      ],
+      "continuity": {
+        "choice": "Bérénice raconte sa peur puis demande de changer de sujet. Estelle reconnaît les limites de son observation et reprend avec elle les nouvelles du tournoi.",
+        "next": "Bérénice a pu dire une part de son vécu sans devoir tout raconter. Au rendez-vous prévu, elle veut aussi parler de sa crainte d'un médicament sans que cette crainte soit prise pour une décision sur la prescription."
+      }
+    },
+    {
+      "number": 8,
+      "slug": "berenice-inquietudes-participation-soins",
+      "title": "Inquiétude sur un traitement : trouver sa place dans le suivi",
+      "description": "Au rendez-vous, Bérénice apporte ses questions et les documents demandés. Comprendre les réponses lui permet de participer aux soins.",
+      "context": "Un rendez-vous après l’hospitalisation",
+      "topics": [
+        "Crainte après une complication",
+        "Information compréhensible",
+        "Questions et suivi"
+      ],
+      "clinical_focus": "Inquiétudes et participation aux soins",
+      "clinical_intro": "Après une complication attribuée à un traitement, l’inquiétude peut rester présente même lorsque la phase aiguë est résolue. En parler avec le médecin permet de demander une explication adaptée sur les soins, leurs bénéfices, leurs risques et les incertitudes. Bérénice souhaite participer à cet échange sans porter seule une décision médicale ni laisser sa fille parler à sa place.",
+      "opening": "Bérénice a posé la liste de traitements devant elle, sur le bureau du médecin. C’est le document qu’il lui avait demandé d’apporter ; elle a gardé les questions dans la même pochette, à distance des feuilles du tournoi. Estelle s’est assise à côté d’elle. Sa mère lui a proposé de l’accompagner, puis a précisé dans le couloir : « Je voudrais commencer. Tu m’aideras si je te demande. »\n\nLe médecin lui demande comment se sont passées les journées depuis leur dernier échange. Bérénice parle du retour à la maison, puis tourne la feuille. « J’ai peur que quelque chose recommence. Je ne veux pas décider toute seule de ce qui serait en cause, mais j’ai besoin de comprendre ce qu’on fait maintenant. » Elle craint de paraître méfiante. Le médecin reprend sa question et examine avec elle l’histoire des traitements et les besoins actuels. Il ne lui demande pas d’effacer cette peur avant de discuter.\n\nQuand une formulation lui échappe, Bérénice regarde Estelle par habitude. Sa fille attend. « Vous pouvez me redire cette partie autrement ? » demande finalement Bérénice au médecin. Elle garde un doigt sur sa première question, celle des bénéfices et des risques dans sa situation. La seconde concerne la personne à joindre si une interrogation survient entre deux rendez-vous. Pour une fois, la feuille ne doit pas servir à terminer un dossier ; elle sert à garder la place de ses questions dans une conversation.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Participer commence par une information que l’on peut discuter",
+          "text": "Une prise en charge de catatonie comprend l’évaluation de sa cause et la conduite des soins par les professionnels. Après l’hospitalisation, comprendre les décisions et pouvoir poser des questions reste une part de l’échange clinique. Bérénice connaît l’attribution retenue par l’équipe, mais cela ne répond pas automatiquement à ses inquiétudes actuelles. Le médecin reprend l’histoire et la situation présente, explique les bénéfices, risques et limites des choix discutés, et organise la suite. La participation de Bérénice ne signifie pas qu’elle doit vérifier seule une cause ou conduire un changement de prescription. Les appuis proposés ici préparent le dialogue ; ils ne constituent pas des consignes médicamenteuses."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment une inquiétude peut-elle prendre place dans les soins ?",
+          "points": [
+            {
+              "heading": "La peur persiste après l’explication du diagnostic",
+              "text": "Recevoir une explication sur ce qui s’est passé ne suffit pas toujours à se sentir rassuré pour l’avenir. Cette inquiétude mérite d’être formulée sans devoir la convertir en conclusion médicale.",
+              "examples": [
+                "Bérénice sait que l’équipe a identifié un traitement en cause, mais redoute encore qu’une complication se reproduise.",
+                "Elle dit sa peur au médecin sans désigner elle-même ce qui expliquerait un éventuel changement futur."
+              ]
+            },
+            {
+              "heading": "L’information doit pouvoir être reprise",
+              "text": "Un terme entendu n’est pas toujours compris dans ses conséquences. Demander une autre formulation permet au professionnel de vérifier avec la personne ce qui a été retenu.",
+              "examples": [
+                "Bérénice fait reprendre une phrase sur la prise en charge au lieu de laisser Estelle acquiescer pour elle.",
+                "En fin d’entretien, elle reformule ce qu’elle comprend et demande où reste une incertitude."
+              ]
+            },
+            {
+              "heading": "La question ne transfère pas la responsabilité médicale",
+              "text": "La personne peut participer activement sans devoir tirer seule une conduite à tenir d’un document. L’accompagnement reste nécessaire pour relier son histoire aux besoins actuels.",
+              "examples": [
+                "La liste apportée est examinée par le médecin, elle ne devient pas une feuille de comparaison utilisée seule à la maison.",
+                "Estelle complète un fait à la demande de sa mère, puis laisse le médecin conduire la réponse clinique."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour préparer un échange sur les soins",
+          "points": [
+            {
+              "heading": "Garder deux questions prioritaires",
+              "objective": "L’objectif est de rendre les préoccupations audibles pendant la consultation.",
+              "exercise": [
+                "Écrivez avec vos mots une ou deux questions, par exemple sur les bénéfices et risques dans votre situation.",
+                "Rassemblez les documents demandés par le professionnel sans essayer d’en tirer une décision médicale.",
+                "Présentez vos questions au début de l’échange et indiquez si vous souhaitez l’aide d’un proche."
+              ],
+              "benefit": "Le professionnel connaît ce qui vous préoccupe. La préparation sert à ouvrir la discussion, pas à résoudre la prescription hors du suivi."
+            },
+            {
+              "heading": "Vérifier ce qui a été compris",
+              "objective": "Le but est de repérer un malentendu sans se soumettre à un examen de connaissances.",
+              "exercise": [
+                "Demandez une reformulation du passage qui reste obscur.",
+                "Redites en quelques mots ce que vous en retenez.",
+                "Laissez le médecin corriger ou compléter et signalez ce qui reste incertain."
+              ],
+              "benefit": "L’information peut devenir plus utilisable et plus précise. Il est possible de participer sans maîtriser le vocabulaire médical."
+            },
+            {
+              "heading": "Identifier la suite de la conversation",
+              "objective": "L’objectif est de savoir où porter une question après le rendez-vous.",
+              "exercise": [
+                "Demandez quel point sera repris à la prochaine consultation.",
+                "Vérifiez auprès du médecin le contact prévu pour une question entre deux échanges et le recours urgent si un changement important ou brutal survient.",
+                "Conservez ces coordonnées avec vos documents de suivi, à l’endroit que vous choisissez."
+              ],
+              "benefit": "Les questions disposent d’un relais concret. Une situation urgente ne doit pas attendre le prochain rendez-vous ni la reconstitution de l’histoire des traitements."
+            }
+          ]
+        }
+      ],
+      "ending_title": "La question qui reste sur la feuille",
+      "ending": "Bérénice reformule la réponse avec ses mots. Le médecin précise une distinction et convient de reprendre un point encore incertain lors du prochain rendez-vous. Lorsqu’il revient sur un moment de l’hospitalisation, elle invite Estelle à rappeler le document qu’elle avait apporté. Sa fille complète ce fait, puis Bérénice reprend sa question.\n\nEn partant, elle vérifie le contact prévu pour la suite. La feuille ne contient pas une réponse à tout, mais le point restant n’est plus perdu au milieu de ses craintes. Les décisions médicales restent conduites dans le suivi. De retour chez elle, elle dépose la pochette à côté de l’enveloppe bleue : il faudra maintenant remettre chaque papier à sa place.",
+      "conclusion": "Participer aux soins peut consister à exprimer une crainte, demander une reformulation et connaître la suite de l’échange. Bérénice n’a pas eu à devenir sa propre prescriptrice pour faire entendre une inquiétude réelle et garder une question ouverte.",
+      "mirror": [
+        "Estelle peut respecter la demande entendue dans le couloir : « Tu commences ; je complète si tu me le demandes. » Sa présence aide sans prendre toute la place. Quand sa mère hésite sur un mot, elle peut la laisser demander au médecin une explication, plutôt que traduire elle-même une décision. Elle n’a pas à obtenir que Bérénice sorte entièrement rassurée ; elle peut simplement l’aider à conserver le contact et les questions convenus."
+      ],
+      "sources": [
+        "oms-cddr",
+        "bap-catatonia-2023"
+      ],
+      "continuity": {
+        "choice": "Bérénice conduit ses questions, reformule les réponses et garde un point pour le prochain rendez-vous. Estelle complète seulement le fait demandé ; le contact de suivi est vérifié.",
+        "next": "Le rendez-vous a eu lieu et les questions restantes ont une place définie. En rangeant les papiers à la maison, Bérénice et Estelle constatent qu'elles ne se rappellent pas la même partie de l'hospitalisation."
+      }
+    },
+    {
+      "number": 9,
+      "slug": "berenice-souvenirs-partiels-recit",
+      "title": "Souvenirs partiels : laisser une place à ce qui reste incertain",
+      "description": "Une phrase revient à Bérénice, mais l’ordre des visites lui échappe. Avec Estelle, elle distingue souvenirs et faits sans forcer un récit.",
+      "context": "Le rangement des papiers à la maison",
+      "topics": [
+        "Souvenir fragmentaire",
+        "Origine des informations",
+        "Chronologie laissée ouverte"
+      ],
+      "clinical_focus": "Souvenirs partiels et récit de l’épisode",
+      "clinical_intro": "Après une catatonie, les souvenirs rapportés peuvent être divers et parfois imprécis. Un fragment net à côté d’un moment non rappelé ne suffit pas à établir un trouble de la mémoire ni à en déterminer la cause. Bérénice et Estelle apprennent à distinguer ce que chacune se rappelle, ce qui a été observé et ce qui demanderait une explication médicale.",
+      "opening": "L’enveloppe bleue contient une ancienne affiche, deux feuilles d’inscription et un petit papier plié qui n’a rien à faire là. Estelle l’a glissé parmi les documents pendant l’hospitalisation ; Bérénice le remet à côté de la pochette médicale. Depuis le rendez-vous, elles veulent surtout retrouver la dernière version des inscriptions. Le tri s’arrête pourtant sur une annotation au crayon.\n\nEstelle dit que c’est le jour où elle avait apporté le gilet. Bérénice se rappelle une phrase prononcée dans la chambre, mais ne retrouve pas si la visite avec les affiches venait avant ou après celle dont sa fille parle maintenant. Estelle commence : « Tu dois te rappeler, c’était quand… » Puis elle se tait. Sa mère regarde le papier. « Je veux bien que tu me dises ce que tu as vu. Mais pas ce que je devais forcément penser. »\n\nLeurs deux places à la table rendent soudain visible ce qui les sépare : Estelle a fait des trajets et transporté des objets ; Bérénice a vécu des moments dont elle ne peut pas produire aujourd’hui une suite complète. Elle ne veut pas combler le blanc avec une version seulement vraisemblable. La phrase lui reste, l’ordre des visites non. Elle pose la feuille d’inscription devant elle et demande qu’elles laissent cette chronologie en suspens. Il est possible de finir le rangement sans terminer l’histoire de l’hôpital.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Un récit peut rester incomplet sans perdre sa valeur",
+          "text": "Les récits recueillis après une catatonie montrent des souvenirs variés, parfois imprécis, mais ces données exploratoires n’établissent pas un mécanisme unique de mémoire. Elles ne permettent pas d’attribuer un blanc particulier à un médicament, à un soin ou au syndrome sans évaluation. Dans cette scène, Bérénice rapporte une phrase et une incertitude sur l’ordre de deux visites. Estelle peut contribuer par ce qu’elle a vu ; le dossier peut apporter des informations médicales expliquées par les professionnels. Ces sources ne sont pas interchangeables. Une information apprise après coup ne devient pas automatiquement un souvenir personnel, et aucun récit exhaustif n’est exigé pour reprendre la vie ordinaire."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment un souvenir précis peut-il côtoyer un blanc ?",
+          "points": [
+            {
+              "heading": "Un détail revient sans toute la scène",
+              "text": "Se rappeler un élément ne garantit pas que son contexte ou sa place dans le temps soit disponible. Le détail peut être accueilli sans le transformer en début d’une reconstitution obligatoire.",
+              "examples": [
+                "Bérénice se souvient d’une phrase entendue dans la chambre sans retrouver l’ordre des visites.",
+                "Le gilet lui est familier aujourd’hui, mais elle ne s’en sert pas pour déduire exactement le moment de chaque échange hospitalier."
+              ]
+            },
+            {
+              "heading": "Deux personnes apportent des informations différentes",
+              "text": "Le proche raconte ce qu’il a observé depuis sa propre place. Son récit peut compléter une connaissance des faits sans remplacer l’expérience subjective de l’autre.",
+              "examples": [
+                "Estelle peut dire qu’elle a transporté des affiches et le gilet, mais pas ce que sa mère pensait à chaque instant.",
+                "Bérénice peut recevoir une précision de sa fille en disant « tu me l’apprends » plutôt que « je m’en souviens »."
+              ]
+            },
+            {
+              "heading": "Le besoin de cohérence risque de créer une pression",
+              "text": "Une histoire ordonnée rassure parfois l’entourage. Cette envie ne justifie pas d’insister pour obtenir un souvenir ni de présenter une supposition comme certaine.",
+              "examples": [
+                "Estelle interrompt son « tu dois te rappeler » lorsqu’elle entend ce que cette phrase exige.",
+                "Les deux femmes terminent le tri en laissant une question de chronologie sans réponse."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour parler des souvenirs sans les forcer",
+          "points": [
+            {
+              "heading": "Autoriser un élément non rappelé",
+              "objective": "L’objectif est de parler d’un fragment sans demander un récit complet.",
+              "exercise": [
+                "Accueillez ce que la personne dit se rappeler avec ses propres mots.",
+                "Si un détail manque, acceptez « je ne sais plus » sans multiplier les indices ou les sollicitations.",
+                "Demandez si elle souhaite poursuivre ou revenir à l’activité en cours."
+              ],
+              "benefit": "L’échange peut rester supportable et fidèle à ce qui est réellement rapporté. Il ne vise pas à récupérer une mémoire manquante."
+            },
+            {
+              "heading": "Nommer d’où vient chaque information",
+              "objective": "Le but est de ne pas confondre souvenir, observation et information reçue.",
+              "exercise": [
+                "Présentez votre contribution comme ce que vous avez vu ou entendu vous-même.",
+                "Distinguez explicitement ce qui vous a été raconté ensuite.",
+                "Laissez la personne préciser ce qui rejoint son souvenir et ce qui reste pour elle une information nouvelle."
+              ],
+              "benefit": "Les versions peuvent coexister sans qu’une personne impose son expérience à l’autre. Une incertitude n’a pas besoin d’être effacée pour poursuivre l’échange."
+            },
+            {
+              "heading": "Porter une question médicale au bon interlocuteur",
+              "objective": "L’objectif est de réserver les explications cliniques aux professionnels.",
+              "exercise": [
+                "Si une question médicale reste ouverte, formulez-la sans lui attribuer une cause.",
+                "Demandez à l’équipe de suivi une explication des informations pertinentes du dossier.",
+                "Gardez la réponse distincte du souvenir personnel et abordez avec elle une difficulté de mémoire qui vous préoccupe."
+              ],
+              "benefit": "Le besoin d’information trouve un relais sans technique familiale de reconstitution. La question peut être évaluée sans diagnostic ajouté par le récit."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Deux pochettes et une question laissée ouverte",
+      "ending": "Estelle reprend : « Ce que je peux te dire, c’est ce que j’ai apporté. Pour le reste, je ne sais pas à ta place. » Elles ne tranchent pas l’ordre des deux visites. Bérénice range le papier médical dans la pochette et garde les inscriptions dans l’enveloppe bleue. La table se dégage sans que sa mémoire ait dû fournir une dernière pièce.\n\nElle prend ensuite son téléphone pour demander à Karim à quel moment ils pourraient reparler de son retour au comptoir. Elle veut retrouver la tâche des inscriptions, pas présenter un récit complet de son hospitalisation avant d’entrer dans la salle. Le suivi garde ses questions ; la conversation avec Karim portera sur une organisation concrète.",
+      "conclusion": "Souvenir personnel, observation d’un proche et information médicale peuvent apporter des éléments différents sans former une histoire parfaitement continue. Bérénice conserve ce qu’elle sait et ce qu’elle ignore, puis reprend une démarche professionnelle sans devoir d’abord combler tous les blancs.",
+      "mirror": [
+        "Estelle peut remplacer « tu dois te rappeler » par « je peux te dire ce que j’ai vu, si tu le souhaites ». Le papier retrouvé ne l’oblige pas à rouvrir toutes les visites. Elle peut accepter une incertitude, finir le rangement et laisser les questions médicales au suivi. Aucun objet, photo ou récit répété ne doit devenir une épreuve destinée à faire revenir le souvenir de sa mère."
+      ],
+      "sources": [
+        "oms-cddr",
+        "zingela-experience-2022",
+        "bap-catatonia-2023"
+      ],
+      "continuity": {
+        "choice": "Elles séparent leurs informations et laissent l’ordre des visites incertain. Les papiers médicaux sont rangés à part ; Bérénice contacte Karim pour parler concrètement du retour.",
+        "next": "Le récit médical n'a pas été forcé et les feuilles du tournoi sont retrouvées. La prochaine décision concerne une activité interrompue et les tâches que Bérénice souhaite reprendre avec Karim."
+      }
     }
   ]
 }

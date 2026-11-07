@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "revision": 126,
+  "revision": 151,
   "created_at": "2026-11-07T14:47:42Z",
   "cases": {
     "mathis": {
@@ -1734,7 +1734,7 @@
     "louise": {
       "character_id": "louise",
       "code": "6A70",
-      "stage": "ready_to_publish",
+      "stage": "published",
       "created_at": "2026-11-07T14:47:42Z",
       "active_job": null,
       "owners": {
@@ -1803,6 +1803,36 @@
         "design_sha256": "bcfb9e1edb478d682630d77267f3c93038efa711543dc141916c3eb982bdc2f2",
         "dossier_sha256": "2ba6f0b351f8d9c8ba8e25440170fce210ad905f44cc3a9d9a051e90cb81a25f",
         "review_sha256": null
+      },
+      "publication": {
+        "verified_at": "2026-11-07T15:26:39Z",
+        "release": {
+          "date": "2026-11-07",
+          "status": "editorially_reviewed",
+          "article_format": 2,
+          "sha256": "52c99f632da65fec513189c4e1f120e3eecacecec0e238a53c0e8029388d45ad",
+          "dossier_sha256": "2ba6f0b351f8d9c8ba8e25440170fce210ad905f44cc3a9d9a051e90cb81a25f",
+          "design_sha256": "bcfb9e1edb478d682630d77267f3c93038efa711543dc141916c3eb982bdc2f2",
+          "independent_review_sha256": "0f5957cab728d19adffeaba7cab018e56954b017a8501ac10b15693804c37b33",
+          "review": "Relecture indépendante des douze épisodes : énergie, plaisir et ralentissement distingués ; facture et boîte suivies ; échange médical effectif au désespoir puis réévaluation ; confidence choisie et participation finale sans pronostic de guérison. Portée anglaise de NICE explicitée."
+        },
+        "files": {
+          "content/posts/comprendre-et-maitriser-ses-emotions/louise-energie-gestes-familiers.md": "79ef9e8d20c5c4f62138cf524d5ebe406afc11d7cb57980a05fada038ca9b16b",
+          "content/posts/comprendre-et-maitriser-ses-emotions/louise-plaisir-emousse-chanson.md": "10d3f597a1b5000313563cef205a5d7f2f6cc26b49c75f3c69cdfe70b8444630",
+          "content/posts/comprendre-et-maitriser-ses-emotions/louise-ralentissement-reponses-gestes.md": "809e560178805b406d29a0479afe9eab7dc9564c462ef0ec39cf7ef686f0f9c2",
+          "content/posts/comprendre-et-maitriser-ses-emotions/louise-concentration-facture-avel.md": "f069dada178dc36c5b6dc0439633a034d8d13f869c92b7fb373f816410018f8d",
+          "content/posts/comprendre-et-maitriser-ses-emotions/louise-indecision-deux-partitions.md": "d3a81f819b91705fc44eeeca154aa199ec2c9e4a539bd44ea716e19d43796a7c",
+          "content/posts/comprendre-et-maitriser-ses-emotions/louise-devalorisation-retard-repare.md": "58431864dd9db1b565b400db6c41c829f9fc099a50e429abf95650899afe98c2",
+          "content/posts/comprendre-et-maitriser-ses-emotions/louise-sommeil-reveil-precoce.md": "ab980096c9139414537ed9a5408089aeb68010c27aeeb3c8da12b3636cae30da",
+          "content/posts/comprendre-et-maitriser-ses-emotions/louise-ruminations-appel-clos.md": "45b0aca021aabcae10c919f21e076649edeb67763f2c03e84e285109332657b4",
+          "content/posts/comprendre-et-maitriser-ses-emotions/louise-retrait-desir-lien.md": "3cccf1bfd1180fa161affceb68323a819591c86dffa089aef7d60de1aaf3a10c",
+          "content/posts/comprendre-et-maitriser-ses-emotions/louise-desespoir-avenir-retreci.md": "7ff4f7e7d5383b6baf0d3f7ff73cf59968ca4b66913ced66185672bc47c98f40",
+          "content/posts/comprendre-et-maitriser-ses-emotions/louise-variations-suivi-confidence.md": "22865824ef4de58d28d9757b7016ec866662637ced6d7bde35b61fc89724fbe2",
+          "content/posts/comprendre-et-maitriser-ses-emotions/louise-participation-deux-couplets-chaise.md": "fcad7644d8a065838c4fb595d9a4090feb07c95d6273f566ad80983781dcd94b",
+          "content/personnages/louise.md": "5643c586e57a785b1c7ac022332d3f5a34b7e0671161b5ec4b9e7f1f1182bbd5",
+          "data/article_mirrors/louise.json": "307db7eacb6e7242653f20c9457faec7bbf9ab68c7903d5b6b3f39737296ffb7"
+        },
+        "topics_sha256": "262871c068b61037679f3e1639d7d8ee687419bbb5bf8ded597c0a5640f11901"
       }
     },
     "timothee": {
@@ -1858,7 +1888,7 @@
     "constance": {
       "character_id": "constance",
       "code": "6A73",
-      "stage": "ready_to_publish",
+      "stage": "published",
       "created_at": "2026-11-07T14:47:42Z",
       "active_job": null,
       "owners": {
@@ -1927,6 +1957,36 @@
         "design_sha256": "a9dee0417d0da2040a537a0946e5227759414badf611c4d768b4158449c7aad1",
         "dossier_sha256": "b7ccbaf0fa02bce3cedf49448c222df5b04bdea0432d106f6ce90ad56e5412e5",
         "review_sha256": null
+      },
+      "publication": {
+        "verified_at": "2026-11-07T15:26:39Z",
+        "release": {
+          "date": "2026-11-07",
+          "status": "editorially_reviewed",
+          "article_format": 2,
+          "sha256": "ca2e8d0eb85e94b0720c598a68eb6143f42955de8e6c2f298a3b58352a2a374e",
+          "dossier_sha256": "b7ccbaf0fa02bce3cedf49448c222df5b04bdea0432d106f6ce90ad56e5412e5",
+          "design_sha256": "a9dee0417d0da2040a537a0946e5227759414badf611c4d768b4158449c7aad1",
+          "independent_review_sha256": "1269e2ca1bdbc166bb72d1e60f2a12476444ac70cf1e5bebe179fc693de3b50b",
+          "review": "Relecture indépendante des douze épisodes : évaluation 1–2, diagnostic professionnel expliqué en 3, réévaluation réelle en 11 ; symptômes associés situés sans diagnostics ajoutés ; circuit et rangement résolus avant présentation finale ; confidentialité et limites des proches ; NG222 et OMS utilisés selon leur portée."
+        },
+        "files": {
+          "content/posts/comprendre-et-maitriser-ses-emotions/constance-effort-invisible.md": "8ae6a56379e9c5d60100d0ac0607a96e97d5edc34394d59d8870781fb87065c1",
+          "content/posts/comprendre-et-maitriser-ses-emotions/constance-plaisir-emousse.md": "58dc02ad0dcec5bcc30d9753501702e455ebac5430a4601165ad32d40cca873d",
+          "content/posts/comprendre-et-maitriser-ses-emotions/constance-comprendre-tableau-mixte.md": "2facf0ed18568ec3eb8a933d5ef62a96c43b5f2b60071c7da6940bea457f6564",
+          "content/posts/comprendre-et-maitriser-ses-emotions/constance-tension-pendant-pause.md": "99dfa0fc78860a68e811024a79dd6ff1ebec097ca6ee8af8753d5fd38a1defed",
+          "content/posts/comprendre-et-maitriser-ses-emotions/constance-pensees-sans-solution.md": "77c2201270552833303432ead76a156010a03aedf3062916026b7d55ab2e5aba",
+          "content/posts/comprendre-et-maitriser-ses-emotions/constance-attention-detournee.md": "d8130d233d5259254bbfe6c87f5a129db8d4d747e3b158a18a58f972f27beed9",
+          "content/posts/comprendre-et-maitriser-ses-emotions/constance-sommeil-fatigue.md": "2f69c2e152948c5cc1da50f887d900d7a0a5b12c0e71cdbca80daa9c98b10222",
+          "content/posts/comprendre-et-maitriser-ses-emotions/constance-autocritique-decouragement.md": "bf3fee25f9f20dbe60b186c7722f18dba699433b0eef53b676f9f4273c363f36",
+          "content/posts/comprendre-et-maitriser-ses-emotions/constance-retrait-relations.md": "561677b2a5e08fc0e38bb31d4105d678c6f051e6a42e3f1744a3b5a022b3383d",
+          "content/posts/comprendre-et-maitriser-ses-emotions/constance-contrainte-reelle-anticipation.md": "1bb84c7e14d97e38f7b0009becc5ab8131a2924163e2fa0f929fa90a2b681ace",
+          "content/posts/comprendre-et-maitriser-ses-emotions/constance-variations-reevaluation.md": "5bcaf414f004419d76499e210f86d5dbb25957e193fc198d603bead648d58026",
+          "content/posts/comprendre-et-maitriser-ses-emotions/constance-participer-difficultes-persistantes.md": "950249de433708a47340a3562b616485a11198272063daa30540df1a2db6f909",
+          "content/personnages/constance.md": "386ec3c61d5751191df2410bf274e20c5254109cc5e7c671c273f236f17279ff",
+          "data/article_mirrors/constance.json": "1c7199b834c353c7bc5a02d2121bd55aab7edae1a8eb806e8502051412093225"
+        },
+        "topics_sha256": "f6a1d0ce29667e930ef898ea44166d113794a450e624ec35b72179aad40d18f9"
       }
     },
     "joachim": {
@@ -2082,7 +2142,7 @@
     "mila": {
       "character_id": "mila",
       "code": "6B06",
-      "stage": "ready_to_publish",
+      "stage": "published",
       "created_at": "2026-11-07T14:47:42Z",
       "active_job": null,
       "owners": {
@@ -2151,6 +2211,36 @@
         "design_sha256": "52ad3a7463a696d1ba22945b6478cdc077bbca01fbcd65e847a9915e9d6bc877",
         "dossier_sha256": "9fca6fd10d5a7f1878eb82d01aac20dabbbef69e7202caf008dcf92a759682d0",
         "review_sha256": null
+      },
+      "publication": {
+        "verified_at": "2026-11-07T15:26:40Z",
+        "release": {
+          "date": "2026-11-07",
+          "status": "editorially_reviewed",
+          "article_format": 2,
+          "sha256": "435dc4bcf0aa207ae933e61de50438f59341169766dc6cc21f3c7d4c63bc946f",
+          "dossier_sha256": "9fca6fd10d5a7f1878eb82d01aac20dabbbef69e7202caf008dcf92a759682d0",
+          "design_sha256": "52ad3a7463a696d1ba22945b6478cdc077bbca01fbcd65e847a9915e9d6bc877",
+          "independent_review_sha256": "17baa94fdfdeea0faa6e1ffc9b121d3315091a9c68a70028c447ae64feaa6b62",
+          "review": "Relecture indépendante des douze épisodes : besoins accessibles sans condition de parole, évaluation et consultation effectives, inquiétude distincte transmise ; colère non assimilée à une opposition ; murmure sans demande de reproduction ni récompense ; jeu achevé avec six objets et suivi maintenu."
+        },
+        "files": {
+          "content/posts/comprendre-et-maitriser-ses-emotions/mila-parole-contextes-soleil-vert.md": "229653594360d0ccf3f29416bda1bee72fb95408e745bdbc7ede4e6e8ee75740",
+          "content/posts/comprendre-et-maitriser-ses-emotions/mila-figement-carte-bleue.md": "f2b88ea070c3867ec726ce883ca679fe667887d3bbf9211c0a0fefddae9e52b9",
+          "content/posts/comprendre-et-maitriser-ses-emotions/mila-anticipation-affiche-retournee.md": "ffb1c7d91d4994abe0f7943ed7a06be0cac06d1928db3422427ebb9012c40a69",
+          "content/posts/comprendre-et-maitriser-ses-emotions/mila-besoins-pause-boite.md": "49c9e227f952d95d4291cca91287880625dfaf5848ec8bee2da9564b90ff371a",
+          "content/posts/comprendre-et-maitriser-ses-emotions/mila-apprentissages-deux-lignes.md": "3f4f40bf990352be20974bf84b1992197233922fa2b1f317196ecf5b176c82c4",
+          "content/posts/comprendre-et-maitriser-ses-emotions/mila-pairs-cachette-deplacee.md": "137baebb3064b3518e2bb561b22891317c3c9e8c00ffe684a612d7df783dfd73",
+          "content/posts/comprendre-et-maitriser-ses-emotions/mila-langue-album-couleurs.md": "667cb3dffc2f07b939214980361e58b28399854e67cdac675a256ff5c06cbf98",
+          "content/posts/comprendre-et-maitriser-ses-emotions/mila-suivi-page-soleil.md": "772835315c3da116bc5a2e5c6b556f695752e2008ae4aeb88aac2840232198f4",
+          "content/posts/comprendre-et-maitriser-ses-emotions/mila-inquietude-retard-ines.md": "401d744ce52a78baed1cb93c7c8698b593c31cd5b3197b28d5fb310e7416111c",
+          "content/posts/comprendre-et-maitriser-ses-emotions/mila-irritabilite-boite-fermee.md": "b8059f30f5eb8449173557e69928d12051ff357e8ee2a3be3d06b0e829bf09de",
+          "content/posts/comprendre-et-maitriser-ses-emotions/mila-murmure-feutre-orange.md": "578af013536c128c97497ac6e7dac0c5c133fbe2bd42015d008162059fb7530e",
+          "content/posts/comprendre-et-maitriser-ses-emotions/mila-evolution-jeu-acheve.md": "83d4ee617b513b970700bd41c95f65028a7ea6bd4c1d5502ce9d8dff2d2fdc4f",
+          "content/personnages/mila.md": "bf35a0853a336870efe1da5257918ec5bc67acf33cc6cff1cce0c98c802d44fc",
+          "data/article_mirrors/mila.json": "37d5ba1cf9d2ec7c242dce79ba531acd960f067f2b271de9f9d2df2f36e6c385"
+        },
+        "topics_sha256": "7f6c6579f988fa5bd712b0ce1ca335739e7694eba67f90bcb0593e3cc5c30de4"
       }
     },
     "sebastien": {
@@ -2206,7 +2296,7 @@
     "fanny": {
       "character_id": "fanny",
       "code": "6B22",
-      "stage": "ready_to_publish",
+      "stage": "published",
       "created_at": "2026-11-07T14:47:42Z",
       "active_job": null,
       "owners": {
@@ -2275,6 +2365,36 @@
         "design_sha256": "9e48382ab72a437ad31a2ed1b1bb5087629eeb82b5044699c049e622cf11f0e8",
         "dossier_sha256": "478c5c949726e5133ce1e4cbc6bea43c1374186561bb293322884134a171b341",
         "review_sha256": null
+      },
+      "publication": {
+        "verified_at": "2026-11-07T15:26:40Z",
+        "release": {
+          "date": "2026-11-07",
+          "status": "editorially_reviewed",
+          "article_format": 2,
+          "sha256": "adff5eaf37c01f91a8f859c3921f0e25616a2b9997b60384130073c682ba4fc3",
+          "dossier_sha256": "478c5c949726e5133ce1e4cbc6bea43c1374186561bb293322884134a171b341",
+          "design_sha256": "9e48382ab72a437ad31a2ed1b1bb5087629eeb82b5044699c049e622cf11f0e8",
+          "independent_review_sha256": "60f9d850732679e4f353e7bf558c4c0d754d0e295cc4f69fbbe13e7b6b5cdfe0",
+          "review": "Relecture indépendante des douze épisodes : préoccupation distincte de la phantosmie, consultations effectivement réalisées, douze aspects et raccords du recueil ; autoattention limitée à une piste individuelle issue du cas publié ; proches sans évaluation olfactive ni exposition imposée ; réussite du projet distincte de l’évolution clinique."
+        },
+        "files": {
+          "content/posts/comprendre-et-maitriser-ses-emotions/fanny-preoccupation-odeur-lecture-interrompue.md": "b661d5448ec77cf1b621a195a919c84494d5c19d6ea878c5ba88a4570788e009",
+          "content/posts/comprendre-et-maitriser-ses-emotions/fanny-gestes-ambigus-interpretes-comme-indices.md": "3d26793d1f178dcbb73e5ceab92840dfa969e1d292b0c3d937c956d311bccdcc",
+          "content/posts/comprendre-et-maitriser-ses-emotions/fanny-verifications-repetees-depart-retarde.md": "3570c2e9a24b4e44df7ba40bbad444d5867aeb55f232c1f1025597ef59442987",
+          "content/posts/comprendre-et-maitriser-ses-emotions/fanny-reassurance-repetee-relation-limites.md": "6f565e3620c409f51859def148538b5c7912af1100b3d7edd6b82d5956222602",
+          "content/posts/comprendre-et-maitriser-ses-emotions/fanny-camouflage-preparation-envahissante.md": "4c63ad7b8b7b3550317435ceaa7eb657c0e97a54db3178572a6172b4ed358e10",
+          "content/posts/comprendre-et-maitriser-ses-emotions/fanny-evitement-proximite-rencontre-choisie.md": "c3562e59fac0ba6982e1c331a21cd3fe4322b8e292c6c2f2107907b969189ba5",
+          "content/posts/comprendre-et-maitriser-ses-emotions/fanny-honte-difficulte-a-se-confier.md": "6eaf1e06783d8ebcb30678f86c33ba99bd51e54462fe06674b0a9c4b270e1672",
+          "content/posts/comprendre-et-maitriser-ses-emotions/fanny-recul-variable-detresse-conviction.md": "97eefcbefb4566883765e3f1b48814bc2aa093ee641707f21161cb629ccf0277",
+          "content/posts/comprendre-et-maitriser-ses-emotions/fanny-evaluation-clinique-trouble-olfactif.md": "bcdb52fe3bb5136ad1a1e9d6a032b0b877904d0c194c9ff9bcddc560bc1b96d1",
+          "content/posts/comprendre-et-maitriser-ses-emotions/fanny-travail-accompli-cout-invisible.md": "377a8d0d5e31543473f28a7f7c2f1b5c200fcc575165f972e4093d90d4a60fab",
+          "content/posts/comprendre-et-maitriser-ses-emotions/fanny-autoattention-echanges-litteraires.md": "d689367db55f8c21493fbb0ebb581cfcb853208411216a75c38c1515ed0a10bf",
+          "content/posts/comprendre-et-maitriser-ses-emotions/fanny-projet-reussi-preoccupation-persistante.md": "d6487e5e4784cd7a074ae112dcccbe0d7f209f3343658f11460b6f7f6d6ed35d",
+          "content/personnages/fanny.md": "086475802ff3d9cdc2ebcfe06099fa2cf22970b3163178620f0e6a76820f6e8f",
+          "data/article_mirrors/fanny.json": "f8be009a24e00bb729b4661746472f9fbcfa744293875a056405b7e3d6a76bb1"
+        },
+        "topics_sha256": "2fef3cd3979cff36fe7ea99e23ea00a48ec9efe85958dc85616d6ce1ba9401b2"
       }
     },
     "lenaic": {
@@ -2572,9 +2692,11 @@
       "code": "6B45",
       "stage": "character",
       "created_at": "2026-11-07T14:47:42Z",
-      "active_job": null,
+      "active_job": "07cadf3cd0d742a2a79b1d86e0e04323",
       "owners": {
-        "character": [],
+        "character": [
+          "personnage_thael"
+        ],
         "story": [],
         "review": []
       },
@@ -2960,9 +3082,11 @@
       "code": "6B84",
       "stage": "character",
       "created_at": "2026-11-07T14:47:42Z",
-      "active_job": null,
+      "active_job": "aa560393b93f4db4b9a52e19949566b3",
       "owners": {
-        "character": [],
+        "character": [
+          "personnage_aubin"
+        ],
         "story": [],
         "review": []
       },
@@ -16011,9 +16135,9 @@
       },
       "snapshot_sha256": "28a7bc2918bfc2504ff8111bd9309aa7164e3d7d67a9b74bb9874cbefde6530b",
       "status": "active",
-      "token_sha256": "749aeb9092832509f59e0193ca4651fbdcc8777fa93468b7580040268f85022c",
-      "heartbeat_at": "2026-11-07T15:17:51Z",
-      "expires_at": "2026-11-07T15:47:51Z",
+      "token_sha256": "017429dc3626202791c2570a85e7fc26a99294e63851004d32a091ad3b28093c",
+      "heartbeat_at": "2026-11-07T15:27:22Z",
+      "expires_at": "2026-11-07T15:57:22Z",
       "checkpoints": [
         {
           "at": "2026-11-07T15:12:06Z",
@@ -16098,8 +16222,80 @@
             "dossier_sha256": "939284e290150b5e5afa2dee7a0928d202cd47532233a4dba4ae8056733c7b6a",
             "review_sha256": null
           }
+        },
+        {
+          "at": "2026-11-07T15:19:01Z",
+          "outputs": {
+            "editorial/clinical/basile.json": "6a886513a117275d98b4b039b843b8b002964ed06ecb64fd46e72bf1954ff331"
+          },
+          "observed": {
+            "manuscript_sha256": "6a886513a117275d98b4b039b843b8b002964ed06ecb64fd46e72bf1954ff331",
+            "episodes_present": 7,
+            "manuscript_readable": true,
+            "design_sha256": "0e02ad73a184a095d5aed6748384167c7012a12ea89046e48ab25a38d71542fd",
+            "dossier_sha256": "939284e290150b5e5afa2dee7a0928d202cd47532233a4dba4ae8056733c7b6a",
+            "review_sha256": null
+          }
+        },
+        {
+          "at": "2026-11-07T15:20:04Z",
+          "outputs": {
+            "editorial/clinical/basile.json": "bfed31f1d0fda73a19310f0cb5f83187daf67f9aeb283787224b0e53dc66ab13"
+          },
+          "observed": {
+            "manuscript_sha256": "bfed31f1d0fda73a19310f0cb5f83187daf67f9aeb283787224b0e53dc66ab13",
+            "episodes_present": 8,
+            "manuscript_readable": true,
+            "design_sha256": "0e02ad73a184a095d5aed6748384167c7012a12ea89046e48ab25a38d71542fd",
+            "dossier_sha256": "939284e290150b5e5afa2dee7a0928d202cd47532233a4dba4ae8056733c7b6a",
+            "review_sha256": null
+          }
+        },
+        {
+          "at": "2026-11-07T15:25:04Z",
+          "outputs": {
+            "editorial/clinical/basile.json": "e60f8e7952fb694908a2463215a94a470e6aa397009c31295e8240c1743c517d"
+          },
+          "observed": {
+            "manuscript_sha256": "e60f8e7952fb694908a2463215a94a470e6aa397009c31295e8240c1743c517d",
+            "episodes_present": 9,
+            "manuscript_readable": true,
+            "design_sha256": "0e02ad73a184a095d5aed6748384167c7012a12ea89046e48ab25a38d71542fd",
+            "dossier_sha256": "939284e290150b5e5afa2dee7a0928d202cd47532233a4dba4ae8056733c7b6a",
+            "review_sha256": null
+          }
+        },
+        {
+          "at": "2026-11-07T15:26:16Z",
+          "outputs": {
+            "editorial/clinical/basile.json": "810426e8a194ca9b4ff27e4c76259851eea6338f4928874b63ab1092211d49fe"
+          },
+          "observed": {
+            "manuscript_sha256": "810426e8a194ca9b4ff27e4c76259851eea6338f4928874b63ab1092211d49fe",
+            "episodes_present": 10,
+            "manuscript_readable": true,
+            "design_sha256": "0e02ad73a184a095d5aed6748384167c7012a12ea89046e48ab25a38d71542fd",
+            "dossier_sha256": "939284e290150b5e5afa2dee7a0928d202cd47532233a4dba4ae8056733c7b6a",
+            "review_sha256": null
+          }
+        },
+        {
+          "at": "2026-11-07T15:27:22Z",
+          "outputs": {
+            "editorial/clinical/basile.json": "76a233379c6cd26978e6683198cee6fa4f9f06bb8f21a98c371fd83423cc890a"
+          },
+          "observed": {
+            "manuscript_sha256": "76a233379c6cd26978e6683198cee6fa4f9f06bb8f21a98c371fd83423cc890a",
+            "episodes_present": 11,
+            "manuscript_readable": true,
+            "design_sha256": "0e02ad73a184a095d5aed6748384167c7012a12ea89046e48ab25a38d71542fd",
+            "dossier_sha256": "939284e290150b5e5afa2dee7a0928d202cd47532233a4dba4ae8056733c7b6a",
+            "review_sha256": null
+          }
         }
-      ]
+      ],
+      "resumed_at": "2026-11-07T15:23:31Z",
+      "resume_count": 1
     },
     "cd0a13ac35bf4388bb062fdd7f109866": {
       "id": "cd0a13ac35bf4388bb062fdd7f109866",
@@ -16474,9 +16670,9 @@
       },
       "snapshot_sha256": "556ad49d2541de82548f6bb01500b9a136910b27079ef53330e9c7ea19bbf2f1",
       "status": "active",
-      "token_sha256": "bbd025412c16ec5a7aafd049efd57a8e94cbd94482fa939c7e2ec8f511bb9bb4",
-      "heartbeat_at": "2026-11-07T15:18:19Z",
-      "expires_at": "2026-11-07T15:48:19Z",
+      "token_sha256": "2beea3c29f1f794239cf05d3238ab1d5ac32529c289c3cd56b6b01f748c9f100",
+      "heartbeat_at": "2026-11-07T15:27:26Z",
+      "expires_at": "2026-11-07T15:57:26Z",
       "checkpoints": [
         {
           "at": "2026-11-07T15:13:48Z",
@@ -16547,9 +16743,347 @@
             "dossier_sha256": "4c6f5920980bfbd23ffa27c76ceb8ba945780366e758b1b9a173252ae408f3b7",
             "review_sha256": null
           }
+        },
+        {
+          "at": "2026-11-07T15:19:25Z",
+          "outputs": {
+            "editorial/clinical/berenice.json": "8ead481db35039a2f739864d7d81093e96ba6a00b61e94cc4df90bb1809c819c"
+          },
+          "observed": {
+            "manuscript_sha256": "8ead481db35039a2f739864d7d81093e96ba6a00b61e94cc4df90bb1809c819c",
+            "episodes_present": 6,
+            "manuscript_readable": true,
+            "design_sha256": "7598c33fedbcaa5971d147789439936aaf4431f7b5b4e46c8edc0def8e6862d1",
+            "dossier_sha256": "4c6f5920980bfbd23ffa27c76ceb8ba945780366e758b1b9a173252ae408f3b7",
+            "review_sha256": null
+          }
+        },
+        {
+          "at": "2026-11-07T15:25:11Z",
+          "outputs": {
+            "editorial/clinical/berenice.json": "d2f222206c3fff175c231799e32129a412749a5a64e065d09fb65cfbb9cf3e79"
+          },
+          "observed": {
+            "manuscript_sha256": "d2f222206c3fff175c231799e32129a412749a5a64e065d09fb65cfbb9cf3e79",
+            "episodes_present": 7,
+            "manuscript_readable": true,
+            "design_sha256": "7598c33fedbcaa5971d147789439936aaf4431f7b5b4e46c8edc0def8e6862d1",
+            "dossier_sha256": "4c6f5920980bfbd23ffa27c76ceb8ba945780366e758b1b9a173252ae408f3b7",
+            "review_sha256": null
+          }
+        },
+        {
+          "at": "2026-11-07T15:26:19Z",
+          "outputs": {
+            "editorial/clinical/berenice.json": "95865071119a6156439b414a9d17a29876e6cdd488a3a4fdee1560b6b121a35e"
+          },
+          "observed": {
+            "manuscript_sha256": "95865071119a6156439b414a9d17a29876e6cdd488a3a4fdee1560b6b121a35e",
+            "episodes_present": 8,
+            "manuscript_readable": true,
+            "design_sha256": "7598c33fedbcaa5971d147789439936aaf4431f7b5b4e46c8edc0def8e6862d1",
+            "dossier_sha256": "4c6f5920980bfbd23ffa27c76ceb8ba945780366e758b1b9a173252ae408f3b7",
+            "review_sha256": null
+          }
+        },
+        {
+          "at": "2026-11-07T15:27:26Z",
+          "outputs": {
+            "editorial/clinical/berenice.json": "f8e4751ad562edb1800f9abc3973369f5701914c23488cdc5f874bc6f53fb694"
+          },
+          "observed": {
+            "manuscript_sha256": "f8e4751ad562edb1800f9abc3973369f5701914c23488cdc5f874bc6f53fb694",
+            "episodes_present": 9,
+            "manuscript_readable": true,
+            "design_sha256": "7598c33fedbcaa5971d147789439936aaf4431f7b5b4e46c8edc0def8e6862d1",
+            "dossier_sha256": "4c6f5920980bfbd23ffa27c76ceb8ba945780366e758b1b9a173252ae408f3b7",
+            "review_sha256": null
+          }
         }
-      ]
+      ],
+      "resumed_at": "2026-11-07T15:23:36Z",
+      "resume_count": 1
+    },
+    "07cadf3cd0d742a2a79b1d86e0e04323": {
+      "id": "07cadf3cd0d742a2a79b1d86e0e04323",
+      "character_id": "thael",
+      "role": "character",
+      "owner": "personnage_thael",
+      "created_at": "2026-11-07T15:25:56Z",
+      "snapshot": {
+        "prompt_file": "editorial/agents/characters.md",
+        "prompt": "# Agent créateur de personnages\n\nCe rôle est exécuté par un vrai sous-agent ChatGPT dans la conversation. Le contrôleur prépare et attribue le travail ; il ne lance aucun modèle par API et ne tourne pas après la fin de la session. Ne pas utiliser GitHub Actions pour produire ces articles.\n\nLire le brief de la mission, le canon dans `data/clinical_catalog.json` ou `editorial/clinical/additional_characters.json`, `editorial/clinical/charter.md` et l’article modèle `content/posts/comprendre-et-maitriser-ses-emotions/alexithymie-en-couple.md`. Préserver l’identifiant, le prénom, l’âge, le métier, le projet et la chronologie diagnostique canoniques. Si une donnée est contradictoire, signaler le problème au pilote avant de la modifier.\n\nMener une recherche individuelle dans les sources primaires : CDDR de l’OMS, classification citée dans le canon et recommandations ou travaux originaux pertinents. Vérifier les pages ou sections qui soutiennent les affirmations. Distinguer diagnostic, manifestations, mécanismes, retentissement, évolution et prise en charge. Documenter les limites des études, traductions et transpositions de pays. Une référence générale ou un code de classification ne prouve pas une recommandation thérapeutique.\n\nÉcrire uniquement les deux fichiers attribués :\n\n- `editorial/clinical/dossiers/<id>.json`, au format consommé par `clinical_editorial.character_evidence` : références individuelles, dossier clinique et direction narrative ;\n- `editorial/clinical/designs/<id>.json`, au contrat validé par `scripts/clinical_agent_contracts.py character <id>`.\n\nLe plan contient `schema_version: 1`, `character_id`, `code`, `article_format: 2`, une biographie de 60 à 105 mots avec prénom, âge et intitulé exact du trouble, cinq `profile_topics` distincts dont le premier est cet intitulé, `voice`, `series_goal`, au moins trois `continuity_rules` et douze `episodes`. Chaque épisode contient `number`, un `focus` distinct de 2 à 9 mots (95 caractères maximum), `scene`, `development`, `ending`, `next`, au moins deux `source_refs` autorisées dont la référence primaire et `diagnostic_stage`. Un diagnostic établi vaut `known` partout ; un diagnostic annoncé à l’épisode prévu vaut `under_assessment` avant, `diagnosis_explained` à cet épisode, puis `known`.\n\nFaire vivre douze aspects différents d’un même trouble à travers une personne ayant une voix, un projet indépendant, des relations et des choix. Ne pas fabriquer douze synonymes d’une même manifestation ni une liste de symptômes. Préparer des ouvertures, conséquences et raccords qui permettent une véritable série.\n\nNe pas écrire le manuscrit, les pages publiques, les registres partagés ou les fichiers d’un autre personnage. Ne pas publier, committer ou se relire à la place du relecteur. Une fois les deux fichiers validés, exécuter `editorial_pipeline.py finish` avec la mission et le jeton attribués ; transmettre les empreintes et les limites utiles au rédacteur. Après gel, toute modification demande une nouvelle validation des dépendances par le pilote.\n",
+        "inputs": {
+          "data/clinical_catalog.json": "ea545ea8ad5aaa94b2b2e45e2816cde36bc101dc205b0da50e9303a12015cefa",
+          "data/clinical_sources.json": "fdaee525b573758c9f0f33cb52b62bfb2f077402336475a6f859762fea48e6e6",
+          "editorial/clinical/additional_characters.json": "8834d18f0c86a439357f6f776429d57b23c4acab8b88b5c55d1c3dacd651ada3",
+          "editorial/clinical/charter.md": "8032bcae9a54b787febdbc3a99e8811893663c9f93dc323b0108e07c3849cb0b",
+          "editorial/automation/policy.json": "883ae80b4685fbc1365af6494b693358da050e2266554992f11d12dcbde6c1d0",
+          "scripts/clinical_editorial.py": "f1fc7eb80b0eca35fad58925b323b5dee69bc738d3df031a41e465a64e3342d3",
+          "editorial/automation/legacy-publications.json": "974d070654ecad7d2408ecfe893a767fa97352922acca107b768b63a31277ceb",
+          "scripts/clinical_agent_contracts.py": "2deec8afbd14289192fa3b86edf5e6529e1690c2daecbce4d6798d826d5f1774",
+          "editorial/agents/characters.md": "2de803e0641d430501849923e110a575278708dfeeb0eb8b7bc8eecec15a7713"
+        },
+        "data": {
+          "clinical_brief": {
+            "agent_id": "redaction-thael",
+            "character": {
+              "id": "thael",
+              "name": "Thaël",
+              "code": "6B45",
+              "related_codes": [],
+              "wave": 13,
+              "diagnosis": {
+                "timing": "established",
+                "episode": null
+              },
+              "canon": {
+                "age": 8,
+                "setting": "Commence des ateliers d'arts plastiques avec un adulte référent.",
+                "independent_goal": "Fabriquer une marionnette, puis choisir à qui il veut la montrer.",
+                "tension": "Il cherche parfois rapidement le contact d'adultes inconnus. L'équipe ajuste l'environnement sans qualifier l'enfant de manipulateur.",
+                "supports": "Assistante familiale, animateur et équipe spécialisée.",
+                "trajectory": "Travail sur des repères de sécurité constants et une participation à l'atelier qui garde sa joie et ses choix.",
+                "guardrail": "Pas de surveillance punitive ni récit détaillé de maltraitance. Cadre protecteur et évaluation professionnelle.",
+                "occupation": "élève"
+              },
+              "sources": [
+                "https://icd.who.int/browse/2026-01/mms/fr#467941148",
+                "https://www.who.int/publications/i/item/9789240077263"
+              ],
+              "research_status": "prise_en_charge_a_documenter"
+            },
+            "direction": null,
+            "dossier": null,
+            "references": {},
+            "charter": "# Charte de rédaction des parcours cliniques\n\nÉcrire en français pour des lecteurs sans formation clinique. Choisir pour chaque épisode un aspect du trouble qui se distingue des onze autres et que la scène permet de comprendre. Cet aspect peut être une manifestation, un mécanisme, un retentissement ou une particularité de l’évolution. Relier le titre, le résumé, l’explication et le dénouement à cet aspect. Une activité, une décision ou un rendez-vous fournit le cadre où il devient perceptible.\n\nSuivre le déroulé de l’[article de Youssef sur l’alexithymie en couple](../../content/posts/comprendre-et-maitriser-ses-emotions/alexithymie-en-couple.md).\n\n1. Ouvrir sur une scène d’au moins 180 mots, sans intertitre. Montrer ce que la difficulté change pour le personnage dans cette situation.\n2. Expliquer l’aspect et son lien avec le trouble dans une section dédiée. Partir d’une phrase générale autonome, puis revenir à ce qui se joue dans la scène.\n3. Montrer comment l’aspect se manifeste. Sous « Comment … ? », développer trois sous-parties avec une explication et deux exemples concrets chacune. Situer ce que l’on observe dans chaque exemple.\n4. Proposer trois techniques numérotées. Donner pour chacune un objectif, un exercice pratique en trois étapes et une explication de son utilité possible. Adapter les étapes au contexte et au niveau de risque, en incluant le recours à un professionnel lorsque nécessaire.\n5. Revenir à l’histoire sous un intertitre tiré de la scène. Montrer un essai ou une décision, sa conséquence et l’incertitude qui reste. Les difficultés peuvent revenir après un essai qui a fonctionné ailleurs.\n6. Conclure après un séparateur. Résumer ce que cet épisode permet de comprendre et inscrire le dénouement dans le parcours du personnage.\n7. Terminer par « Du côté des proches ». Relier leur point de vue à ce que la scène a montré.\n\nRespecter les faits du canon et la chronologie du diagnostic. Si l’évaluation est en cours, faire comprendre les difficultés sans annoncer le résultat à la place du professionnel. Un diagnostic connu entre dans le récit quand il aide à situer l’expérience. La personne conserve un métier ou un projet, des relations, des ressources, des préférences et le droit de ne pas tout partager.\n\nFonder chaque affirmation clinique sur les points vérifiés du dossier de sources. Renseigner les références dans le dossier et les champs éditoriaux de chaque épisode. Distinguer récit, vécu et description générale du trouble. Les articles ne donnent ni critères permettant de conclure sur soi ou un tiers, ni posologies, ni gestes dangereux, ni promesses de guérison. Une scène de fiction ne représente qu’une présentation possible. Proposer des adaptations discutées avec la personne et situer le recours aux professionnels quand le besoin est clinique ou urgent.\n\nDans « Du côté des proches », partir d’un geste, d’une parole ou d’un besoin visible dans la scène. Donner une réponse concrète que le proche pourrait essayer, dans des mots qu’il pourrait dire. Respecter son périmètre et la possibilité de se retirer ou de passer le relais. Aucun proche ne doit jouer au diagnosticien ou imposer un soin. Dans les situations d’emprise ou de danger, favoriser la sécurité et un appui spécialisé.\n\nRelecture par vague. Relire les douze ouvertures et leurs fins dans l’ordre, puis vérifier les faits cliniques et les propositions aux proches, chaque fois avec le dossier de sources. Annoter les erreurs et les choix qui ont fonctionné. Inscrire les leçons réutilisables dans la charte avant de générer le lot suivant. Une validation de structure ou une relecture par un modèle laisse ouverte la vérification éditoriale des faits et de leur contexte.\n\nLe lot pilote a montré que le premier intertitre explicatif peut varier. Commencer cette section par une phrase générale autonome que le site peut reprendre. Donner à la scène finale un titre tiré de son geste ou de sa décision. Distinguer un signe à discuter d’un épisode ou d’un diagnostic établi. Maintenir les procédures de sécurité réelles et le rôle des soignants, même lorsque le personnage essaie une façon différente de répondre à sa difficulté.\n\nLa deuxième vague distingue l’accord de la personne pour partager ses informations et les démarches de sécurité qui s’appliquent à la situation. Montrer dans le récit qui prévient le service compétent et quand, sans reporter cette action au conseil pour les proches. Pour une règle de métier, utiliser une source du domaine en plus du guide clinique. Le miroir reste ancré dans la scène et conserve sa limite de sécurité jusqu’à la dernière phrase.\n\nLa troisième vague vérifie que le trouble a un effet perceptible dans la vie du personnage dès les deux premières scènes. Montrer ce vécu sans inventaire de signes, description de pratiques dangereuses ou explication totale de sa personnalité. Suivre séparément les questions de santé et les décisions du quotidien. Reprendre les objets, lieux et engagements déjà nommés et fermer les questions concrètes dont la résolution est nécessaire à la scène suivante.\n\nAvant d’écrire, l’agent dédié au personnage fixe une direction dans son dossier. Il y précise ce qui distingue sa voix, son projet et son entourage, les faits cliniques qu’il mettra en scène et les interprétations à écarter. À la fin de chaque épisode, il inscrit la décision prise et ce qu’elle change pour la suite. Au dernier épisode, il résout l’enjeu de la série et garde la perspective du personnage au-delà de cette décision. La relecture reprend les douze scènes dans l’ordre et vérifie les conseils adressés aux proches en regard de chaque scène.\n\nLa quatrième vague distingue les repères du premier diagnostic et ceux des épisodes ultérieurs. Quand une situation urgente se présente, vérifier que son origine n’est pas présumée à partir du diagnostic connu. La première section s’ouvre sur une phrase générale qui fonctionne seule. Les détails de la scène viennent ensuite, après le passage que le site peut reprendre en introduction.\n\nLes histoires d’origine donnent la direction. Le titre commence par le sujet de l’article, une difficulté, une émotion ou un mécanisme réel dans une situation concrète. Le prénom figure séparément au-dessus du titre. Dans la présentation, nommer le trouble documenté et ce qu’il change pour ce personnage. Le premier mot-clé reprend son intitulé et les quatre autres indiquent des manifestations ou enjeux qui reviennent dans plusieurs épisodes. La fiche peut annoncer un diagnostic que le personnage découvre plus tard dans l’histoire.\n\nDans le résumé de la fiche et de la carte, relier une réaction de la scène à l’aspect abordé. Dans un récit d’enfance, vérifier l’apport de cette période pour comprendre le trouble et ouvrir sur d’autres contextes lorsque les sources l’appuient. Lors de la relecture, nommer l’aspect illustré dans chaque épisode, puis retrouver le moment où il devient visible et vérifier que les exemples et les techniques restent centrés sur lui. Renseigner les références dans le manuscrit et le dossier éditorial, sans bibliographie dans le fil de l’article.\n\nLa huitième vague vérifie qui peut savoir quoi, à quel moment et avec quel accord. En cas de changement préoccupant, distinguer le fait observable, ce qu’en dit le personnage, la réponse d’un proche et l’évaluation de l’équipe de soins. Faire apparaître le relais dans la scène où il se produit et en reprendre les conséquences dans la suivante.\n\nLa reprise suivante distingue le résumé affiché avant le récit et l’explication qui vient après. Éviter de recopier le résumé mot pour mot dans cette explication : celle-ci développe le mécanisme et le contraste rendu visible par la scène. Pour les articles d’origine, relire les manifestations et les exercices eux-mêmes ; trois intertitres ou une étiquette ne prouvent pas que les exemples, l’objectif, les trois actions et l’utilité sont présents. Une prose déjà complète peut être conservée. Garder une preuve de lecture liée à l’empreinte du corps et une seconde relecture des passages sensibles.\n",
+            "files": {
+              "manuscript": "editorial/clinical/thael.json",
+              "dossier": "editorial/clinical/dossiers/thael.json"
+            },
+            "manifest_fields": [
+              "character_id",
+              "bio",
+              "profile_topics",
+              "episodes"
+            ],
+            "profile_topics_count": 5,
+            "episode_fields": [
+              "number",
+              "slug",
+              "title",
+              "description",
+              "context",
+              "topics",
+              "clinical_focus",
+              "clinical_intro",
+              "opening",
+              "sections",
+              "ending_title",
+              "ending",
+              "mirror",
+              "sources",
+              "continuity",
+              "conclusion"
+            ],
+            "sections": {
+              "explanation": {
+                "fields": [
+                  "heading",
+                  "text"
+                ]
+              },
+              "manifestations": {
+                "fields": [
+                  "heading",
+                  "points"
+                ],
+                "count": 3,
+                "point_fields": [
+                  "heading",
+                  "text",
+                  "examples"
+                ],
+                "examples_count": 2
+              },
+              "strategies": {
+                "fields": [
+                  "heading",
+                  "points"
+                ],
+                "count": 3,
+                "point_fields": [
+                  "heading",
+                  "objective",
+                  "exercise",
+                  "benefit"
+                ],
+                "exercise_count": 3
+              }
+            },
+            "total_episodes": 12,
+            "continuity": [],
+            "ready_to_draft": false,
+            "instruction": "Vérifier les sources cliniques et renseigner un dossier avant de lancer la rédaction."
+          },
+          "findings": [],
+          "existing_manuscript": null
+        },
+        "allowed_outputs": [
+          "editorial/clinical/designs/thael.json",
+          "editorial/clinical/dossiers/thael.json"
+        ],
+        "output_baseline": {
+          "editorial/clinical/designs/thael.json": null,
+          "editorial/clinical/dossiers/thael.json": null
+        }
+      },
+      "snapshot_sha256": "8417b51edebf9713686e3dae105a6bff9ac648fc7d1c9e37b04ec764f8bb46aa",
+      "status": "active",
+      "token_sha256": "bff8750436ee52c24fe11cee832bf2981526c3a2e14db15ff7b0477c4d76c315",
+      "heartbeat_at": "2026-11-07T15:25:56Z",
+      "expires_at": "2026-11-07T15:55:56Z"
+    },
+    "aa560393b93f4db4b9a52e19949566b3": {
+      "id": "aa560393b93f4db4b9a52e19949566b3",
+      "character_id": "aubin",
+      "role": "character",
+      "owner": "personnage_aubin",
+      "created_at": "2026-11-07T15:26:03Z",
+      "snapshot": {
+        "prompt_file": "editorial/agents/characters.md",
+        "prompt": "# Agent créateur de personnages\n\nCe rôle est exécuté par un vrai sous-agent ChatGPT dans la conversation. Le contrôleur prépare et attribue le travail ; il ne lance aucun modèle par API et ne tourne pas après la fin de la session. Ne pas utiliser GitHub Actions pour produire ces articles.\n\nLire le brief de la mission, le canon dans `data/clinical_catalog.json` ou `editorial/clinical/additional_characters.json`, `editorial/clinical/charter.md` et l’article modèle `content/posts/comprendre-et-maitriser-ses-emotions/alexithymie-en-couple.md`. Préserver l’identifiant, le prénom, l’âge, le métier, le projet et la chronologie diagnostique canoniques. Si une donnée est contradictoire, signaler le problème au pilote avant de la modifier.\n\nMener une recherche individuelle dans les sources primaires : CDDR de l’OMS, classification citée dans le canon et recommandations ou travaux originaux pertinents. Vérifier les pages ou sections qui soutiennent les affirmations. Distinguer diagnostic, manifestations, mécanismes, retentissement, évolution et prise en charge. Documenter les limites des études, traductions et transpositions de pays. Une référence générale ou un code de classification ne prouve pas une recommandation thérapeutique.\n\nÉcrire uniquement les deux fichiers attribués :\n\n- `editorial/clinical/dossiers/<id>.json`, au format consommé par `clinical_editorial.character_evidence` : références individuelles, dossier clinique et direction narrative ;\n- `editorial/clinical/designs/<id>.json`, au contrat validé par `scripts/clinical_agent_contracts.py character <id>`.\n\nLe plan contient `schema_version: 1`, `character_id`, `code`, `article_format: 2`, une biographie de 60 à 105 mots avec prénom, âge et intitulé exact du trouble, cinq `profile_topics` distincts dont le premier est cet intitulé, `voice`, `series_goal`, au moins trois `continuity_rules` et douze `episodes`. Chaque épisode contient `number`, un `focus` distinct de 2 à 9 mots (95 caractères maximum), `scene`, `development`, `ending`, `next`, au moins deux `source_refs` autorisées dont la référence primaire et `diagnostic_stage`. Un diagnostic établi vaut `known` partout ; un diagnostic annoncé à l’épisode prévu vaut `under_assessment` avant, `diagnosis_explained` à cet épisode, puis `known`.\n\nFaire vivre douze aspects différents d’un même trouble à travers une personne ayant une voix, un projet indépendant, des relations et des choix. Ne pas fabriquer douze synonymes d’une même manifestation ni une liste de symptômes. Préparer des ouvertures, conséquences et raccords qui permettent une véritable série.\n\nNe pas écrire le manuscrit, les pages publiques, les registres partagés ou les fichiers d’un autre personnage. Ne pas publier, committer ou se relire à la place du relecteur. Une fois les deux fichiers validés, exécuter `editorial_pipeline.py finish` avec la mission et le jeton attribués ; transmettre les empreintes et les limites utiles au rédacteur. Après gel, toute modification demande une nouvelle validation des dépendances par le pilote.\n",
+        "inputs": {
+          "data/clinical_catalog.json": "ea545ea8ad5aaa94b2b2e45e2816cde36bc101dc205b0da50e9303a12015cefa",
+          "data/clinical_sources.json": "fdaee525b573758c9f0f33cb52b62bfb2f077402336475a6f859762fea48e6e6",
+          "editorial/clinical/additional_characters.json": "8834d18f0c86a439357f6f776429d57b23c4acab8b88b5c55d1c3dacd651ada3",
+          "editorial/clinical/charter.md": "8032bcae9a54b787febdbc3a99e8811893663c9f93dc323b0108e07c3849cb0b",
+          "editorial/automation/policy.json": "883ae80b4685fbc1365af6494b693358da050e2266554992f11d12dcbde6c1d0",
+          "scripts/clinical_editorial.py": "f1fc7eb80b0eca35fad58925b323b5dee69bc738d3df031a41e465a64e3342d3",
+          "editorial/automation/legacy-publications.json": "974d070654ecad7d2408ecfe893a767fa97352922acca107b768b63a31277ceb",
+          "scripts/clinical_agent_contracts.py": "2deec8afbd14289192fa3b86edf5e6529e1690c2daecbce4d6798d826d5f1774",
+          "editorial/agents/characters.md": "2de803e0641d430501849923e110a575278708dfeeb0eb8b7bc8eecec15a7713"
+        },
+        "data": {
+          "clinical_brief": {
+            "agent_id": "redaction-aubin",
+            "character": {
+              "id": "aubin",
+              "name": "Aubin",
+              "code": "6B84",
+              "related_codes": [],
+              "wave": 16,
+              "diagnosis": {
+                "timing": "established",
+                "episode": null
+              },
+              "canon": {
+                "age": 12,
+                "setting": "Construit des décors pour le théâtre de l'école et tient beaucoup à peindre les nuages.",
+                "independent_goal": "Prendre part au projet avec des matériaux adaptés et des adultes disponibles.",
+                "tension": "Il ne veut pas que chaque adulte lui pose des questions devant son groupe après une difficulté liée à des substances non alimentaires.",
+                "supports": "Parent, médecin et enseignante chargée du projet.",
+                "trajectory": "Protection des espaces, évaluation médicale déjà faite, puis choix d'une activité et d'une modalité d'aide discrète.",
+                "guardrail": "Pas d'objets à imiter, de punition ni de minimisation de risques toxiques ou d'occlusion.",
+                "occupation": "collégien"
+              },
+              "sources": [
+                "https://icd.who.int/browse/2026-01/mms/fr#833390860",
+                "https://www.who.int/publications/i/item/9789240077263"
+              ],
+              "research_status": "prise_en_charge_a_documenter"
+            },
+            "direction": null,
+            "dossier": null,
+            "references": {},
+            "charter": "# Charte de rédaction des parcours cliniques\n\nÉcrire en français pour des lecteurs sans formation clinique. Choisir pour chaque épisode un aspect du trouble qui se distingue des onze autres et que la scène permet de comprendre. Cet aspect peut être une manifestation, un mécanisme, un retentissement ou une particularité de l’évolution. Relier le titre, le résumé, l’explication et le dénouement à cet aspect. Une activité, une décision ou un rendez-vous fournit le cadre où il devient perceptible.\n\nSuivre le déroulé de l’[article de Youssef sur l’alexithymie en couple](../../content/posts/comprendre-et-maitriser-ses-emotions/alexithymie-en-couple.md).\n\n1. Ouvrir sur une scène d’au moins 180 mots, sans intertitre. Montrer ce que la difficulté change pour le personnage dans cette situation.\n2. Expliquer l’aspect et son lien avec le trouble dans une section dédiée. Partir d’une phrase générale autonome, puis revenir à ce qui se joue dans la scène.\n3. Montrer comment l’aspect se manifeste. Sous « Comment … ? », développer trois sous-parties avec une explication et deux exemples concrets chacune. Situer ce que l’on observe dans chaque exemple.\n4. Proposer trois techniques numérotées. Donner pour chacune un objectif, un exercice pratique en trois étapes et une explication de son utilité possible. Adapter les étapes au contexte et au niveau de risque, en incluant le recours à un professionnel lorsque nécessaire.\n5. Revenir à l’histoire sous un intertitre tiré de la scène. Montrer un essai ou une décision, sa conséquence et l’incertitude qui reste. Les difficultés peuvent revenir après un essai qui a fonctionné ailleurs.\n6. Conclure après un séparateur. Résumer ce que cet épisode permet de comprendre et inscrire le dénouement dans le parcours du personnage.\n7. Terminer par « Du côté des proches ». Relier leur point de vue à ce que la scène a montré.\n\nRespecter les faits du canon et la chronologie du diagnostic. Si l’évaluation est en cours, faire comprendre les difficultés sans annoncer le résultat à la place du professionnel. Un diagnostic connu entre dans le récit quand il aide à situer l’expérience. La personne conserve un métier ou un projet, des relations, des ressources, des préférences et le droit de ne pas tout partager.\n\nFonder chaque affirmation clinique sur les points vérifiés du dossier de sources. Renseigner les références dans le dossier et les champs éditoriaux de chaque épisode. Distinguer récit, vécu et description générale du trouble. Les articles ne donnent ni critères permettant de conclure sur soi ou un tiers, ni posologies, ni gestes dangereux, ni promesses de guérison. Une scène de fiction ne représente qu’une présentation possible. Proposer des adaptations discutées avec la personne et situer le recours aux professionnels quand le besoin est clinique ou urgent.\n\nDans « Du côté des proches », partir d’un geste, d’une parole ou d’un besoin visible dans la scène. Donner une réponse concrète que le proche pourrait essayer, dans des mots qu’il pourrait dire. Respecter son périmètre et la possibilité de se retirer ou de passer le relais. Aucun proche ne doit jouer au diagnosticien ou imposer un soin. Dans les situations d’emprise ou de danger, favoriser la sécurité et un appui spécialisé.\n\nRelecture par vague. Relire les douze ouvertures et leurs fins dans l’ordre, puis vérifier les faits cliniques et les propositions aux proches, chaque fois avec le dossier de sources. Annoter les erreurs et les choix qui ont fonctionné. Inscrire les leçons réutilisables dans la charte avant de générer le lot suivant. Une validation de structure ou une relecture par un modèle laisse ouverte la vérification éditoriale des faits et de leur contexte.\n\nLe lot pilote a montré que le premier intertitre explicatif peut varier. Commencer cette section par une phrase générale autonome que le site peut reprendre. Donner à la scène finale un titre tiré de son geste ou de sa décision. Distinguer un signe à discuter d’un épisode ou d’un diagnostic établi. Maintenir les procédures de sécurité réelles et le rôle des soignants, même lorsque le personnage essaie une façon différente de répondre à sa difficulté.\n\nLa deuxième vague distingue l’accord de la personne pour partager ses informations et les démarches de sécurité qui s’appliquent à la situation. Montrer dans le récit qui prévient le service compétent et quand, sans reporter cette action au conseil pour les proches. Pour une règle de métier, utiliser une source du domaine en plus du guide clinique. Le miroir reste ancré dans la scène et conserve sa limite de sécurité jusqu’à la dernière phrase.\n\nLa troisième vague vérifie que le trouble a un effet perceptible dans la vie du personnage dès les deux premières scènes. Montrer ce vécu sans inventaire de signes, description de pratiques dangereuses ou explication totale de sa personnalité. Suivre séparément les questions de santé et les décisions du quotidien. Reprendre les objets, lieux et engagements déjà nommés et fermer les questions concrètes dont la résolution est nécessaire à la scène suivante.\n\nAvant d’écrire, l’agent dédié au personnage fixe une direction dans son dossier. Il y précise ce qui distingue sa voix, son projet et son entourage, les faits cliniques qu’il mettra en scène et les interprétations à écarter. À la fin de chaque épisode, il inscrit la décision prise et ce qu’elle change pour la suite. Au dernier épisode, il résout l’enjeu de la série et garde la perspective du personnage au-delà de cette décision. La relecture reprend les douze scènes dans l’ordre et vérifie les conseils adressés aux proches en regard de chaque scène.\n\nLa quatrième vague distingue les repères du premier diagnostic et ceux des épisodes ultérieurs. Quand une situation urgente se présente, vérifier que son origine n’est pas présumée à partir du diagnostic connu. La première section s’ouvre sur une phrase générale qui fonctionne seule. Les détails de la scène viennent ensuite, après le passage que le site peut reprendre en introduction.\n\nLes histoires d’origine donnent la direction. Le titre commence par le sujet de l’article, une difficulté, une émotion ou un mécanisme réel dans une situation concrète. Le prénom figure séparément au-dessus du titre. Dans la présentation, nommer le trouble documenté et ce qu’il change pour ce personnage. Le premier mot-clé reprend son intitulé et les quatre autres indiquent des manifestations ou enjeux qui reviennent dans plusieurs épisodes. La fiche peut annoncer un diagnostic que le personnage découvre plus tard dans l’histoire.\n\nDans le résumé de la fiche et de la carte, relier une réaction de la scène à l’aspect abordé. Dans un récit d’enfance, vérifier l’apport de cette période pour comprendre le trouble et ouvrir sur d’autres contextes lorsque les sources l’appuient. Lors de la relecture, nommer l’aspect illustré dans chaque épisode, puis retrouver le moment où il devient visible et vérifier que les exemples et les techniques restent centrés sur lui. Renseigner les références dans le manuscrit et le dossier éditorial, sans bibliographie dans le fil de l’article.\n\nLa huitième vague vérifie qui peut savoir quoi, à quel moment et avec quel accord. En cas de changement préoccupant, distinguer le fait observable, ce qu’en dit le personnage, la réponse d’un proche et l’évaluation de l’équipe de soins. Faire apparaître le relais dans la scène où il se produit et en reprendre les conséquences dans la suivante.\n\nLa reprise suivante distingue le résumé affiché avant le récit et l’explication qui vient après. Éviter de recopier le résumé mot pour mot dans cette explication : celle-ci développe le mécanisme et le contraste rendu visible par la scène. Pour les articles d’origine, relire les manifestations et les exercices eux-mêmes ; trois intertitres ou une étiquette ne prouvent pas que les exemples, l’objectif, les trois actions et l’utilité sont présents. Une prose déjà complète peut être conservée. Garder une preuve de lecture liée à l’empreinte du corps et une seconde relecture des passages sensibles.\n",
+            "files": {
+              "manuscript": "editorial/clinical/aubin.json",
+              "dossier": "editorial/clinical/dossiers/aubin.json"
+            },
+            "manifest_fields": [
+              "character_id",
+              "bio",
+              "profile_topics",
+              "episodes"
+            ],
+            "profile_topics_count": 5,
+            "episode_fields": [
+              "number",
+              "slug",
+              "title",
+              "description",
+              "context",
+              "topics",
+              "clinical_focus",
+              "clinical_intro",
+              "opening",
+              "sections",
+              "ending_title",
+              "ending",
+              "mirror",
+              "sources",
+              "continuity",
+              "conclusion"
+            ],
+            "sections": {
+              "explanation": {
+                "fields": [
+                  "heading",
+                  "text"
+                ]
+              },
+              "manifestations": {
+                "fields": [
+                  "heading",
+                  "points"
+                ],
+                "count": 3,
+                "point_fields": [
+                  "heading",
+                  "text",
+                  "examples"
+                ],
+                "examples_count": 2
+              },
+              "strategies": {
+                "fields": [
+                  "heading",
+                  "points"
+                ],
+                "count": 3,
+                "point_fields": [
+                  "heading",
+                  "objective",
+                  "exercise",
+                  "benefit"
+                ],
+                "exercise_count": 3
+              }
+            },
+            "total_episodes": 12,
+            "continuity": [],
+            "ready_to_draft": false,
+            "instruction": "Vérifier les sources cliniques et renseigner un dossier avant de lancer la rédaction."
+          },
+          "findings": [],
+          "existing_manuscript": null
+        },
+        "allowed_outputs": [
+          "editorial/clinical/designs/aubin.json",
+          "editorial/clinical/dossiers/aubin.json"
+        ],
+        "output_baseline": {
+          "editorial/clinical/designs/aubin.json": null,
+          "editorial/clinical/dossiers/aubin.json": null
+        }
+      },
+      "snapshot_sha256": "8fb60222560be2e42a5fe455cccb31023f398f3715dfbc5a89ff109cd952ae8b",
+      "status": "active",
+      "token_sha256": "79c4297bd3871e7a113a78980af73ff5c7051deb962faaf7fc52318efa2a0abe",
+      "heartbeat_at": "2026-11-07T15:26:03Z",
+      "expires_at": "2026-11-07T15:56:03Z"
     }
   },
-  "updated_at": "2026-11-07T15:18:19Z"
+  "updated_at": "2026-11-07T15:27:26Z"
 }

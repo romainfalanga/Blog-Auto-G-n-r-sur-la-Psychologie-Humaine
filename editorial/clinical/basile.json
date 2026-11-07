@@ -629,6 +629,523 @@
         "choice": "Basile conserve sa marque ; l’aide de Mme Roux permet de mesurer la cale lente, tandis que Lila garde une hauteur distincte pour le rapide.",
         "next": "Les deux hauteurs sont fixées sur le plan. Le troisième trajet reste à construire autour d’un départ possible avec deux billes."
       }
+    },
+    {
+      "number": 7,
+      "slug": "basile-relations-pairs-depart-deux",
+      "title": "Les échanges entre enfants gardent leur propre histoire",
+      "description": "Basile et Lila inventent un départ à deux, puis se disputent le lancement. Leur jeu vivant ne résout pas toutes les relations avec les adultes.",
+      "context": "L’invention du troisième chemin avec Lila",
+      "topics": [
+        "Échange entre pairs",
+        "Désaccord de jeu",
+        "Cadre collectif"
+      ],
+      "clinical_focus": "Les pairs gardent une relation propre",
+      "diagnostic_stage": "known",
+      "clinical_intro": "Un enfant présentant un trouble réactionnel de l’attachement peut avoir des échanges réciproques avec ses camarades tout en gardant des difficultés de réconfort auprès des adultes. Basile, dont le diagnostic est connu, invente un départ avec Lila. Leur complicité et leur désaccord appartiennent aussi à une relation entre deux enfants qui ont chacun des envies.",
+      "opening": "La hauteur du chemin lent est écrite à gauche du plan ; celle du rapide, à droite. Au milieu, Basile a dessiné deux ronds pour le dernier départ. Lila pose sa bille rouge dans l’un. « La mienne gagne. » Basile installe la verte dans l’autre. « C’est pas une course si elles vont dans le même trou. » Ils font partir les deux avec une languette de carton. L’une touche le couvercle avant l’autre. Toc, toc.\n\nLila veut monter son côté. Basile veut ajouter le virage moustache avant l’arrivée. « On va attendre cent ans ! » dit-elle. Il lui montre comment ralentir seulement la bille qui arrive trop tôt. Ils changent une bande, recommencent et entendent presque un seul bruit. Basile ouvre de grands yeux vers le couvercle. « Deux billes, un toc. C’est un piège à oreilles. » Lila pose sa main dessus : elle veut sentir les deux chocs.\n\nPuis ils saisissent la languette en même temps. Basile dit qu’il l’a fabriquée. Lila répond qu’elle a trouvé la bonne hauteur. Chacun garde deux doigts sur le carton et aucune bille ne part. Mme Roux vient demander où ils en sont. Basile ne lui explique pas le désaccord. Il regarde la languette, toujours serrée entre leurs mains. Lila, elle, annonce qu’elle veut lancer. Leur échange était rapide et plein d’idées ; l’appui de l’adulte ne devient pas pour autant simple à utiliser lorsque le jeu se bloque.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Une relation avec un pair ne résume pas les autres",
+          "text": "Les difficultés décrites dans le trouble réactionnel de l’attachement ne signifient pas une absence de capacité à échanger avec autrui. Une conversation inventive avec un camarade peut coexister avec un recours difficile au réconfort adulte. Lila et Basile se répondent, modifient une idée et se disputent aussi le lancement. Ce jeu ne permet ni de réviser leur diagnostic, ni d’en établir un autre, ni de transformer Lila en soutien thérapeutique. L’enseignante garde sa place pour l’organisation et les conflits ; les préférences de chacun restent légitimes, même lorsque cela oblige à interrompre un essai."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment l’échange entre pairs garde-t-il sa place ?",
+          "points": [
+            {
+              "heading": "Inventer à partir de la réponse de l’autre",
+              "text": "La coopération se voit dans les modifications que les enfants apportent ensemble. Elle n’a pas besoin d’être interprétée comme une étape de soin.",
+              "examples": [
+                "Lila propose de changer la hauteur et Basile cherche comment ralentir la bille qui arrive en avance.",
+                "À l’idée du toc unique, Lila ajoute la possibilité de sentir les deux chocs sous sa main."
+              ]
+            },
+            {
+              "heading": "Défendre des envies différentes",
+              "text": "Un camarade peut contredire Basile ou préférer un autre jeu. Le désaccord n’est pas automatiquement une manifestation clinique.",
+              "examples": [
+                "Lila veut une course tandis que Basile veut écouter l’arrivée commune.",
+                "Ils revendiquent chacun le premier lancement pour des raisons qui leur semblent justes."
+              ]
+            },
+            {
+              "heading": "Rencontrer encore un besoin de cadre adulte",
+              "text": "Une bonne interaction avec un pair ne garantit pas que l’enfant pourra utiliser facilement l’appui d’un adulte lors du conflit.",
+              "examples": [
+                "Basile ne répond pas à Mme Roux sur le blocage, même après avoir beaucoup parlé avec Lila.",
+                "La languette reste prise entre quatre doigts tant qu’aucune règle de tour n’est convenue."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour garder au jeu sa place entre enfants",
+          "points": [
+            {
+              "heading": "Laisser chacun exprimer son choix",
+              "objective": "Pour l’adulte, éviter d’assigner un camarade au soutien d’un autre enfant.",
+              "exercise": [
+                "Demandez ce que chacun souhaite faire dans le jeu.",
+                "Accueillez aussi l’envie de changer de groupe ou de regarder.",
+                "Organisez la suite sans demander à l’un d’accepter pour faire plaisir à l’autre."
+              ],
+              "benefit": "Le lien entre pairs peut rester une relation réciproque avec des limites, plutôt qu’une mission de soutien."
+            },
+            {
+              "heading": "Rendre le tour visible",
+              "objective": "Donner à tous une règle simple lorsque le lancement se bloque.",
+              "exercise": [
+                "Arrêtez les lancements le temps de protéger le matériel.",
+                "Proposez un ordre de passage lisible et négociable dans les limites du groupe.",
+                "Vérifiez après un essai si la règle permet à chacun de jouer ou s’il faut la modifier."
+              ],
+              "benefit": "Une règle commune porte le conflit sur l’organisation sans définir lequel des enfants aurait un problème."
+            },
+            {
+              "heading": "Garder un relais adulte disponible",
+              "objective": "Maintenir un cadre sans demander aux enfants de résoudre les difficultés cliniques de l’autre.",
+              "exercise": [
+                "Indiquez où se trouve l’adulte pendant le jeu.",
+                "Intervenez sur les faits du conflit sans exposer une histoire personnelle.",
+                "Conservez les soutiens habituels en dehors du jeu, même après une séance très complice."
+              ],
+              "benefit": "Les enfants peuvent continuer à inventer ou se séparer un moment sans porter une responsabilité de soin."
+            }
+          ]
+        }
+      ],
+      "ending_title": "La languette attend le deuxième tour",
+      "ending": "Mme Roux propose un tour chacun. Lila préfère d’abord aller finir l’arrivée rapide avec un autre groupe. « Je reviens après celle-là. » Basile garde la languette mais laisse les billes dans la boîte. Il pourrait lancer seul ; pour entendre leur toc commun, il décide d’attendre le prochain essai à deux.\n\nAu retour de Lila, elle lance une fois, puis lui. Ils creusent deux petits emplacements dans le carton pour que les billes ne roulent pas avant le départ. Le troisième chemin fonctionne à côté du lent et du rapide. Les camarades veulent montrer le plateau terminé à Nora lorsqu’elle viendra le récupérer après la classe. Lila annonce qu’elle présentera d’abord le chemin rapide. Basile conserve le toc à deux pour la suite.",
+      "conclusion": "L’invention et le désaccord peuvent coexister dans une relation entre enfants. Le départ à deux aboutit grâce à des choix de jeu et à une règle commune. Cette réussite ne supprime ni les préférences de Lila ni les besoins d’appui de Basile auprès des adultes.",
+      "mirror": [
+        "Mme Roux peut dire : « Lila peut finir l’autre arrivée ; ici, le prochain essai se fera avec un tour chacun. » Elle ne lui demande pas de rester parce que Basile en aurait besoin. Elle ne transforme pas non plus son rire en preuve que le suivi devrait changer. Nora peut écouter l’histoire des deux billes et laisser Basile raconter la dispute s’il le souhaite. Le jeu mérite son intérêt pour ce qu’ils ont fabriqué ensemble."
+      ],
+      "sources": [
+        "oms-cddr",
+        "nice-ng26"
+      ],
+      "continuity": {
+        "choice": "Lila change de groupe puis revient ; Basile et elle essayent un tour chacun et fixent deux emplacements pour le départ commun.",
+        "next": "Les trois chemins fonctionnent. Nora vient récupérer le plateau, et les enfants préparent la façon de le lui présenter."
+      }
+    },
+    {
+      "number": 8,
+      "slug": "basile-refus-contact-fete-piste",
+      "title": "Refuser un câlin sans perdre sa place dans la fête",
+      "description": "Pour fêter la piste, une camarade propose un câlin collectif. Le non de Basile doit pouvoir rester simple et valable pour tous.",
+      "context": "La présentation du plateau à Nora après la classe",
+      "topics": [
+        "Choix du contact",
+        "Fête collective",
+        "Accompagnement non coercitif"
+      ],
+      "clinical_focus": "Le refus de contact reste un droit",
+      "diagnostic_stage": "known",
+      "clinical_intro": "Refuser un câlin est un droit qui ne permet pas de conclure à un trouble. Pour Basile, déjà diagnostiqué avec un trouble réactionnel de l’attachement, l’accompagnement doit aussi respecter ce choix. Une fête autour de la piste risque de devenir une obligation affective si les adultes attendent un contact pour reconnaître sa participation.",
+      "opening": "Nora arrive lorsque Lila remet la bille rouge en haut du chemin rapide. Les deux emplacements du départ commun sont alignés comme des yeux sur le carton. Basile a passé une dernière fois le doigt sur la languette pour enlever une aspérité. Le plateau n’est plus seulement son prototype : d’autres mains ont ajouté les bordures, dessiné les flèches et choisi les couleurs.\n\nUne camarade propose de faire un grand câlin à tout le monde pour fêter la piste. Elle se place déjà entre deux chaises. « Toi aussi, Basile ! » Il se remet devant le départ à deux. « Non. » Elle lui dit que c’est pour la fête, pas pour de vrai, et avance encore. Lila serre la bille rouge dans son poing. « Moi, je veux montrer ça. » Nora, qui levait une main pour saluer, la laisse à hauteur de son épaule. Mme Roux arrête l’insistance : chacun peut choisir de dire bonjour et de fêter le travail sans câlin.\n\nBasile regarde si la languette passe toujours sous les deux billes. Il ne répète pas son non. Il n’a pas à trouver un meilleur motif que celui qu’il vient de donner. La camarade se tourne vers une autre enfant qui a envie de l’embrasser. Nora reste de l’autre côté du plateau. Elle peut voir les trois chemins de là. Basile pose la verte dans son emplacement, puis cherche la bille qui fera le deuxième bruit. Lila lui tend la sienne, mais précise qu’elle veut la récupérer pour la course.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Le choix du contact ne mesure pas l’attachement",
+          "text": "L’acceptation d’un geste affectueux ne constitue ni une preuve d’attachement ni un résultat thérapeutique. Le refus d’un câlin n’est pas, à lui seul, un signe de trouble réactionnel de l’attachement. Dans l’accompagnement d’un enfant ayant ce diagnostic, aucune pression corporelle ne doit être utilisée pour produire le lien attendu. Les interventions coercitives prétendant traiter l’attachement sont dangereuses et ne disposent pas de preuves d’efficacité. Ici, la règle de la fête vaut pour toute la classe : montrer, saluer, regarder ou parler sont possibles sans récompense liée à un contact. Les adultes continuent d’assurer la protection ordinaire et expliquent les gestes nécessaires à la sécurité lorsqu’ils doivent intervenir."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment une fête peut-elle devenir une obligation de proximité ?",
+          "points": [
+            {
+              "heading": "Un non recouvert par la bonne intention",
+              "text": "La joie du groupe ne retire pas sa portée au refus. L’adulte peut arrêter l’insistance avant que l’enfant doive se défendre plus fortement.",
+              "examples": [
+                "La camarade avance encore en expliquant que le câlin est seulement pour la fête.",
+                "Basile se replace devant le départ au lieu de rejoindre les bras tendus."
+              ]
+            },
+            {
+              "heading": "La gratitude attendue sous forme de contact",
+              "text": "L’aide reçue ne crée pas de dette affective. On peut remercier autrement ou ne pas trouver de mots à ce moment-là.",
+              "examples": [
+                "Le travail de Mme Roux mérite d’être reconnu sans que chaque enfant la prenne dans ses bras.",
+                "Nora peut regarder le plateau même si Basile ne vient pas l’embrasser à son arrivée."
+              ]
+            },
+            {
+              "heading": "Une place dans le groupe mise en condition",
+              "text": "La participation devient fragile si elle dépend d’une manière unique de fêter. Plusieurs possibilités doivent rester réellement accessibles.",
+              "examples": [
+                "Lila choisit de présenter la bille rouge au lieu de rejoindre le câlin.",
+                "Basile peut faire entendre le départ à deux depuis l’autre côté du plateau."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour célébrer sans imposer de contact",
+          "points": [
+            {
+              "heading": "Arrêter l’insistance",
+              "objective": "Pour l’adulte, rendre le refus valable sans explication publique.",
+              "exercise": [
+                "Interrompez calmement la nouvelle tentative de contact.",
+                "Rappelez la règle commune : chacun choisit pour son corps.",
+                "Redirigez le groupe vers l’activité sans demander à l’enfant de justifier son non."
+              ],
+              "benefit": "La limite peut être respectée avant que l’enfant ait besoin d’insister ou de quitter le jeu."
+            },
+            {
+              "heading": "Ouvrir plusieurs salutations",
+              "objective": "Permettre une rencontre qui ne dépend pas d’un geste affectueux.",
+              "exercise": [
+                "Proposez un mot, un signe ou une démonstration du jeu.",
+                "Acceptez aussi l’absence de réponse immédiate.",
+                "Poursuivez l’accueil avec la même attention, quelle que soit l’option retenue."
+              ],
+              "benefit": "L’intérêt de l’adulte reste disponible sans devenir une récompense pour la proximité."
+            },
+            {
+              "heading": "Séparer affection et protection",
+              "objective": "Garder une règle claire sur les gestes de l’adulte.",
+              "exercise": [
+                "Évitez les contacts affectueux que l’enfant ne souhaite pas.",
+                "Lorsqu’une intervention de sécurité est nécessaire, annoncez ce que vous faites autant que la situation le permet.",
+                "Revenez ensuite à une distance respectueuse sans transformer l’intervention en exercice de confiance."
+              ],
+              "benefit": "Le refus d’affection reste respecté tout en laissant aux adultes leurs responsabilités ordinaires de protection."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Le toc traverse le plateau",
+      "ending": "Basile attend que Nora le regarde, puis soulève la languette. Les deux billes touchent presque ensemble le couvercle. « Faut écouter par là », dit-il en montrant le bord. Nora se décale sans se rapprocher de lui. Lila reprend sa bille et lance aussitôt la course promise.\n\nMme Roux demande comment accueillir les autres visiteurs lors de la séance de jeu. Les enfants veulent garder une place pour ceux qui regardent d’abord. Basile propose un œil dessiné près des chemins. Personne ne réclame un câlin pour fermer la présentation. Nora emporte le plateau ; la prochaine tâche sera un panneau qui dira comment regarder ou jouer sans devoir donner une explication personnelle.",
+      "conclusion": "Le choix d’un contact affectueux appartient à l’enfant et ne renseigne pas à lui seul sur un diagnostic. La fête continue lorsque les adultes protègent ce choix. Basile partage un son et une construction ; sa place ne dépend d’aucun geste affectueux.",
+      "mirror": [
+        "Nora peut garder sa main en signe de bonjour puis dire : « Je regarde d’ici. Montre-moi si tu veux. » Mme Roux arrête la camarade sans lui attribuer une mauvaise intention : « Tu as envie de fêter, et lui ne veut pas de câlin. On peut faire autrement. » La même règle vaut pour Lila et tous les visiteurs. Aucun adulte n’a besoin d’expliquer le diagnostic de Basile pour faire respecter ce choix, ni de proposer ensuite un contact plus petit comme nouvel objectif."
+      ],
+      "sources": [
+        "oms-cddr",
+        "aacap-non-coercition",
+        "nice-ng26"
+      ],
+      "continuity": {
+        "choice": "Basile présente le toc à distance ; la classe décide que les visiteurs pourront saluer comme ils souhaitent et regarder avant de jouer.",
+        "next": "Nora rapporte le plateau ; à l’école, il faut rédiger le panneau avec les trois chemins et la possibilité de regarder."
+      }
+    },
+    {
+      "number": 9,
+      "slug": "basile-confidentialite-panneau-jeu",
+      "title": "Participer sans exposer son histoire personnelle",
+      "description": "Le panneau doit présenter la piste. Une question sur les adultes de Basile menace de transformer son dessin en explication de sa vie.",
+      "context": "La rédaction du panneau des trois chemins",
+      "topics": [
+        "Confidentialité",
+        "Participation préservée",
+        "Informations utiles"
+      ],
+      "clinical_focus": "Participer sans exposer son histoire",
+      "diagnostic_stage": "known",
+      "clinical_intro": "L’accompagnement d’un enfant ayant un trouble réactionnel de l’attachement nécessite des échanges entre adultes concernés, sans rendre son histoire publique. La confidentialité et la participation peuvent aller ensemble. Basile prépare le panneau de sa piste : il doit pouvoir présenter une règle de jeu sans avoir à raconter son diagnostic ou sa famille à la classe.",
+      "opening": "Sur la grande feuille, Lila trace une flèche rouge pour le chemin rapide. Basile a dessiné un œil près du chemin lent : les visiteurs pourront regarder avant de choisir une bille. Le plateau est revenu à l’école pour servir de modèle. Mme Roux demande quels mots écrire sous les dessins. « On regarde aussi avec les oreilles », propose Basile. Lila trouve que cela ressemble à une devinette. Ils cherchent une phrase plus courte.\n\nUn enfant lève la tête : « Pourquoi des fois tu arrives avec Nora et Samira ? » Basile garde son feutre ouvert. Une adulte venue aider à installer les tables suggère qu’on pourrait expliquer ses difficultés sur le panneau : ainsi, les visiteurs comprendraient pourquoi il faut laisser regarder. Elle n’a pas encore écrit. Basile pose sa main à plat sur le virage moustache qu’il vient de dessiner. Sa paume cache le nom et une partie du chemin.\n\nIl était en train de présenter une piste avec trois départs. Tout à coup, la conversation parle des personnes qui viennent le chercher. Lila continue à colorier la pointe de sa flèche, puis s’arrête parce que le bras de Basile traverse la feuille. Mme Roux rapproche le brouillon où figuraient seulement les règles du jeu. Elle ne demande pas à Basile de répondre devant les autres. « Ce panneau explique comment jouer. On n’a pas besoin de raconter la vie de quelqu’un pour pouvoir regarder. » Le feutre reste ouvert dans sa main ; il n’a pas encore découvert son dessin.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Le soutien ne demande pas une présentation publique de soi",
+          "text": "La confidentialité permet de soutenir un enfant sans le réduire à une histoire personnelle ou à un diagnostic. Dans le trouble réactionnel de l’attachement, les adultes peuvent avoir besoin de coordonner leurs réponses ; cela ne justifie pas de rendre ces informations accessibles aux camarades ou aux visiteurs. Les recommandations sur les difficultés d’attachement invitent à prévenir l’étiquetage et à tenir compte des préférences de l’enfant. Ici, le geste de Basile montre une contribution qui se retire au moment où le panneau devient trop personnel. Il ne révèle pas à lui seul une émotion précise. Les échanges nécessaires restent organisés par les adultes compétents selon leurs responsabilités, sans faire porter leur gestion à un enfant de sept ans."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment une présentation du jeu déborde-t-elle sur la vie privée ?",
+          "points": [
+            {
+              "heading": "Une question change le sujet",
+              "text": "La curiosité d’un camarade peut dépasser le cadre de l’activité. L’adulte peut poser une limite sans accuser celui qui demande ni mettre l’enfant interrogé en devoir de répondre.",
+              "examples": [
+                "La question sur Nora et Samira arrive pendant le choix des mots du panneau.",
+                "Le dessin de la piste cesse un moment d’être le centre de la conversation."
+              ]
+            },
+            {
+              "heading": "Une explication personnelle paraît nécessaire",
+              "text": "Une intention de faire comprendre peut conduire à partager davantage que ce qui sert réellement au jeu. Une règle commune peut souvent être expliquée par son usage.",
+              "examples": [
+                "L’adulte propose d’inscrire les difficultés de Basile pour justifier la place de ceux qui regardent.",
+                "Le droit de regarder risquerait ainsi de sembler réservé à un enfant particulier."
+              ]
+            },
+            {
+              "heading": "La contribution se retire",
+              "text": "Le changement de cadre peut interrompre la participation. On peut protéger sa place sans lui demander de décrire publiquement le malaise supposé.",
+              "examples": [
+                "Basile recouvre le virage au lieu de poursuivre la légende.",
+                "Lila ne peut plus terminer la flèche tant que son bras reste au milieu de la feuille."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour préserver une participation sans dévoilement",
+          "points": [
+            {
+              "heading": "Recentrer le support public",
+              "objective": "Pour les adultes, expliquer une règle sans exposer une personne.",
+              "exercise": [
+                "Arrêtez la proposition d’information personnelle avant de l’inscrire.",
+                "Reprenez le but concret du panneau : comprendre les trois chemins.",
+                "Formulez la règle pour tous et laissez l’enfant reprendre sa contribution quand il le souhaite."
+              ],
+              "benefit": "L’activité peut retrouver son objet sans que l’enfant ait à défendre seul sa confidentialité."
+            },
+            {
+              "heading": "Organiser les échanges nécessaires",
+              "objective": "Maintenir la coordination hors de la présentation à la classe.",
+              "exercise": [
+                "Reprenez avec les responsables de l’enfant et les professionnels qui doit recevoir quelles informations utiles.",
+                "Expliquez à l’enfant, avec des mots adaptés, ce qui doit être partagé et recherchez ses préférences.",
+                "Utilisez le cadre convenu entre adultes concernés, en respectant leurs obligations."
+              ],
+              "benefit": "Protéger la vie privée n’empêche pas les relais nécessaires au soutien ; aucune promesse de secret absolu n’est imposée."
+            },
+            {
+              "heading": "Proposer une réponse facultative",
+              "objective": "Donner un appui face à une question sans imposer une prise de parole.",
+              "exercise": [
+                "À un moment tranquille, proposez une phrase comme « Ici, je montre la piste ».",
+                "Laissez l’enfant choisir de l’utiliser, de ne pas répondre ou de vous laisser intervenir.",
+                "Respectez ce choix au prochain échange sans lui demander de raconter davantage."
+              ],
+              "benefit": "Une sortie simple de la conversation peut rester accessible, sans transformer l’enfant en porte-parole de son dossier."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Le nom du virage suffit",
+      "ending": "Mme Roux écarte la proposition personnelle : le panneau ne parlera ni des difficultés de Basile ni des adultes qui l’accompagnent. Elle écrit : « On peut regarder avant de jouer. » La même règle vaut pour la flèche rouge et pour le départ à deux. Basile enlève sa main. Le feutre a laissé un petit point sur le carton, mais le mot moustache est lisible.\n\n« Je fais le nom en grand », dit-il. Lila termine sa flèche. Plus tard, Mme Roux reprend avec les adultes concernés les informations utiles et la façon de les échanger ; elle propose à Basile de répondre pour lui si une question revient. Il préfère qu’elle s’en charge. Le panneau terminé rentre à plat avec le plateau : à la maison, il faudra lui trouver une place qui ne le plie pas.",
+      "conclusion": "La confidentialité ne coupe pas les relais de soutien. Elle distingue les échanges utiles entre adultes concernés de ce qui appartient à une présentation publique. Basile peut contribuer au panneau avec le nom de son virage ; son histoire n’en devient pas la légende.",
+      "mirror": [
+        "Mme Roux peut dire devant la feuille : « Pour expliquer cette règle, nous parlons du jeu. » Elle protège ainsi Basile sans confirmer ni détailler son diagnostic. Plus tard, elle peut lui proposer : « Si on te redemande, je peux répondre que cela reste personnel. » Elle garde avec les responsables les échanges nécessaires au soutien. Basile n’a pas à choisir seul ce que les professionnels doivent savoir, ni à expliquer son silence à ses camarades."
+      ],
+      "sources": [
+        "oms-cddr",
+        "nice-ng26"
+      ],
+      "continuity": {
+        "choice": "Le panneau décrit uniquement les trois chemins et la possibilité de regarder ; Basile y écrit le nom du virage et préfère laisser Mme Roux répondre aux questions personnelles.",
+        "next": "Le panneau et le plateau rentrent à la maison ; leur rangement et leur transport demandent un relais matériel entre Nora et Julien."
+      }
+    },
+    {
+      "number": 10,
+      "slug": "basile-soutien-adultes-relais-plateau",
+      "title": "Le découragement des adultes a besoin de ses propres appuis",
+      "description": "Nora se décourage devant le silence de Basile. Un relais avec Julien et un échange avec Samira évitent de lui demander de la rassurer.",
+      "context": "Le rangement du panneau et du plateau à la maison",
+      "topics": [
+        "Soutien des accueillants",
+        "Relais annoncé",
+        "Charge affective"
+      ],
+      "clinical_focus": "Soutenir les adultes sans charger l'enfant",
+      "diagnostic_stage": "known",
+      "clinical_intro": "Prendre soin d’un enfant qui répond peu au réconfort peut mettre les adultes en difficulté. Leur besoin de soutien mérite sa propre place dans l’accompagnement du trouble réactionnel de l’attachement. Nora se sent découragée après un nouvel incident de carton ; Basile n’a pas à démontrer sa gratitude pour l’aider à retrouver confiance dans ce qu’elle fait.",
+      "opening": "Le grand panneau entre dans la cuisine avant Basile. Il le tient par les coins, les bras écartés, pour ne pas froisser la moustache écrite en grand. Nora libère une place sur la table. Le plateau attend à côté ; une bordure s’est décollée pendant le transport et pend au-dessus du couvercle. Basile pose le panneau et tire un peu sur le morceau. Le raccord se défait complètement.\n\nNora lui propose de rester avec lui. Elle dit que c’est pénible quand quelque chose se détache après tant d’essais. Il ne répond pas. Il retourne le carton, cherche l’endroit où le ruban a lâché et le serre contre le plateau. Nora s’assied, puis repose la boîte de ruban un peu plus près. Il reste tout aussi tendu. Elle entend sa propre voix commencer : « Tu vois quand même tout ce que j’essaie… » La phrase s’arrête là. Basile n’a pas levé les yeux.\n\nJulien passe la porte avec le sac des courses. Nora se tourne vers lui et lui demande de prendre le relais pour le rangement. Elle prévient Basile : Julien restera avec le matériel pendant qu’elle prendra un moment dans l’autre pièce. Samira doit venir pour le rendez-vous déjà prévu ; Nora gardera aussi un temps d’échange avec elle. Le plateau ne quitte pas la table. Basile indique seulement que le panneau ne doit pas être roulé. Julien pose le sac au sol pour avoir les deux mains libres.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Le soutien de l’adulte ne se demande pas à l’enfant",
+          "text": "Les personnes accueillantes peuvent avoir besoin d’aide face à des échanges durablement difficiles, même lorsqu’elles comprennent le diagnostic de l’enfant. Une réponse limitée au réconfort peut laisser Nora découragée ; elle ne prouve pas que ses attentions sont inutiles ni que Basile veut les rejeter. Le risque apparaît lorsqu’une marque de reconnaissance lui est demandée pour apaiser l’adulte. Le soutien des accueillants et les interventions adaptées se discutent avec les professionnels, en tenant compte de l’âge et de la situation. Ici, Samira et l’équipe pédopsychiatrique conservent leur rôle ; le partage des transports et du rangement est un appui quotidien, pas un programme de traitement."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment le découragement peut-il peser sur les échanges ?",
+          "points": [
+            {
+              "heading": "Chercher l’effet de chaque attention",
+              "text": "L’adulte peut se mettre à attendre un signe immédiat que sa présence fonctionne. Cette attente peut augmenter sa déception lorsque rien ne change visiblement.",
+              "examples": [
+                "Nora rapproche le ruban après que sa proposition de présence est restée sans réponse.",
+                "Elle remarque surtout que les mains de Basile restent serrées malgré ses paroles douces."
+              ]
+            },
+            {
+              "heading": "Demander une reconnaissance qui rassure",
+              "text": "Le besoin d’être soutenu est légitime, mais l’enfant n’est pas chargé de le satisfaire. La gratitude ne devient pas une condition pour recevoir de l’attention.",
+              "examples": [
+                "La phrase de Nora commence à demander à Basile s’il voit ses efforts.",
+                "Un remerciement attendu à ce moment ferait passer le raccord et la difficulté de l’enfant au second plan."
+              ]
+            },
+            {
+              "heading": "Avoir moins de marge pour rester cohérent",
+              "text": "La fatigue peut rendre les réponses plus hésitantes ou insistantes. Elle appelle un soutien concret sans conclure à une faute de l’accueillant.",
+              "examples": [
+                "Nora multiplie les petites propositions autour de la table sans savoir laquelle maintenir.",
+                "Elle sent qu’elle a besoin de quitter un moment l’échange avant de reprendre le rangement."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour soutenir les adultes sans charger l’enfant",
+          "points": [
+            {
+              "heading": "Adresser son besoin à un adulte",
+              "objective": "Permettre à la personne accueillante de parler de son découragement à quelqu’un qui peut la soutenir.",
+              "exercise": [
+                "Interrompez la demande de réassurance adressée à l’enfant si vous la repérez.",
+                "Nommez votre besoin à un adulte disponible, sans dévaloriser l’enfant devant lui.",
+                "Prévoyez un moment hors de sa charge pour parler de ce qui vous met en difficulté."
+              ],
+              "benefit": "L’adulte peut recevoir une écoute sans que l’enfant doive offrir une preuve d’affection en retour."
+            },
+            {
+              "heading": "Préparer un relais concret",
+              "objective": "Conserver les besoins ordinaires et les repères pendant une pause de l’adulte.",
+              "exercise": [
+                "Vérifiez qu’un autre adulte peut réellement reprendre la tâche.",
+                "Dites à l’enfant qui reste, pour quoi faire et ce qui est prévu ensuite.",
+                "Transmettez les détails utiles, puis reprenez le quotidien sans réclamer une réparation affective."
+              ],
+              "benefit": "La pause peut protéger la continuité des soins et de l’activité sans être vécue comme une sanction annoncée."
+            },
+            {
+              "heading": "Discuter du soutien avec l’équipe",
+              "objective": "Chercher des appuis adaptés à la famille et à l’âge de l’enfant.",
+              "exercise": [
+                "Décrivez à l’éducatrice ou à l’équipe une situation concrète et ce qui vous a manqué.",
+                "Examinez ensemble les besoins de soutien et les options adaptées, avec les responsables et la place de l’enfant respectée.",
+                "Convenez d’une suite réaliste à revoir avec les professionnels, plutôt que d’appliquer seul un programme."
+              ],
+              "benefit": "Les adultes ne restent pas seuls devant la difficulté ; aucune thérapie particulière ni guérison par leurs efforts n’est promise."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Le panneau restera à plat",
+      "ending": "Julien confirme qu’il portera le plateau pour les prochains essais. Il remet le raccord sur la table, sans obliger Basile à le réparer maintenant. Nora précise simplement que sa phrase n’avait pas à lui demander de la rassurer. Elle garde le rendez-vous avec Samira et utilise leur temps entre adultes pour parler de son découragement. Elles conviennent de reprendre les besoins de soutien avec l’équipe qui connaît Basile.\n\nAu repas, Nora ne réclame aucun mot sur ce qui s’est passé. Basile choisit l’étagère large pour le panneau, posé à plat au-dessus de la boîte bleue. Il dit aussi qu’il a mal au ventre ; Nora l’écoute et s’occupe de lui sans en chercher une explication dans le raccord. Le transport reste prévu avec Julien, mais le jeu n’a pas à passer avant son état du moment.",
+      "conclusion": "Le découragement d’un adulte mérite une réponse qui ne repose pas sur la gratitude de l’enfant. Un relais annoncé et un échange avec les professionnels maintiennent ici les appuis. Le rangement avance, tandis que les difficultés relationnelles restent suivies dans leur propre cadre.",
+      "mirror": [
+        "Julien peut répondre à Nora : « Je prends le plateau et le rangement ; tu pourras en parler avec Samira. » Devant Basile, il suffit d’annoncer ce relais sans lui raconter toute la fatigue de l’adulte. Nora peut revenir au repas avec une présence ordinaire, sans guetter un merci ou une excuse. Si ces moments deviennent difficiles à tenir, elle peut demander avec l’équipe un soutien plus adapté ; elle n’a pas à attendre de se sentir complètement débordée."
+      ],
+      "sources": [
+        "oms-cddr",
+        "nice-ng26",
+        "aacap-non-coercition"
+      ],
+      "continuity": {
+        "choice": "Julien prend le transport du plateau ; Nora utilise le temps prévu avec Samira pour demander du soutien. Basile choisit une étagère pour le panneau et signale un mal de ventre.",
+        "next": "Le rangement est réglé. Le lendemain, la répétition de la plainte avant les essais appelle une attention de santé distincte du diagnostic connu."
+      }
+    },
+    {
+      "number": 11,
+      "slug": "basile-changement-sante-mal-ventre",
+      "title": "Un changement de santé mérite sa propre attention",
+      "description": "Basile dit de nouveau qu’il a mal au ventre. L’essai s’arrête pour lui et Nora demande un avis de santé sans présumer la cause.",
+      "context": "La plainte répétée avant les essais en classe",
+      "topics": [
+        "Santé physique",
+        "Observation sans interprétation",
+        "Relais professionnel"
+      ],
+      "clinical_focus": "Un changement mérite sa propre évaluation",
+      "diagnostic_stage": "known",
+      "clinical_intro": "Un diagnostic connu ne permet pas d’expliquer automatiquement une nouvelle difficulté. Chez un enfant suivi pour un trouble réactionnel de l’attachement, la santé physique garde toute sa place dans l’évaluation. Basile se plaint de nouveau du ventre avant les essais : les adultes écoutent cette plainte et cherchent un avis de santé sans lui attribuer une cause relationnelle.",
+      "opening": "Julien dépose le plateau sur la table du fond, comme il l’avait annoncé. Le panneau a voyagé à plat entre deux cartons. Basile vérifie que le grand mot moustache n’a pas été plié, puis laisse Mme Roux le fixer près des trois chemins. Les enfants doivent essayer l’installation avant la séance avec les visiteurs. Lila a déjà choisi la bille rouge. Deux chaises attendent ceux qui voudront regarder.\n\nBasile pousse la boîte bleue loin du bord. « J’ai encore mal au ventre. » Mme Roux cesse de disposer les billes. Il garde une main sur son pull et ne prend pas celle que Lila lui présente. L’enseignante lui dit qu’il peut arrêter l’activité et s’installe avec lui dans un endroit tranquille, sous la surveillance prévue par l’école. Elle prévient Nora. Au téléphone, celle-ci précise qu’il avait déjà parlé de son ventre au repas de la veille.\n\nLe grand panneau venait d’être terminé et Nora avait enfin réparti les transports. Cela aurait été facile de penser que Basile hésitait devant la séance. Mme Roux ne le lui demande pas. Elle rapporte ses mots et le fait qu’il a laissé le matériel. Nora organise avec l’école la suite de sa prise en charge et contacte un professionnel de santé pour demander un avis. Dans la classe, Lila remet la bille rouge dans son compartiment. Le chemin lent reste vide ; aucun enfant n’a besoin de décider pourquoi Basile ne joue pas.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Ne pas faire du diagnostic une réponse à tout",
+          "text": "Une appréciation globale tient compte des problèmes de santé physique autant que des difficultés relationnelles ou psychiques. Le trouble réactionnel de l’attachement de Basile ne fournit pas la cause d’un mal de ventre récent. La répétition de ses paroles et l’interruption de l’activité sont des informations utiles à transmettre, pas des preuves d’une origine particulière. Le professionnel de santé évalue la situation et indique la suite appropriée. Les adultes assurent l’écoute, les besoins immédiats et le relais ; ils n’ont pas à choisir entre croire l’enfant et préserver son projet. Ils peuvent suspendre l’essai sans poser de nouveau diagnostic et sans attendre qu’il explique une émotion."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment distinguer une plainte de l’explication qu’on imagine ?",
+          "points": [
+            {
+              "heading": "Entendre ce que l’enfant dit",
+              "text": "La parole de l’enfant décrit d’abord un problème à prendre en compte. Elle ne doit pas être traduite immédiatement en message sur sa relation aux autres.",
+              "examples": [
+                "Basile dit « encore mal au ventre », sans parler de peur devant les visiteurs.",
+                "Il laisse la bille proposée ; Mme Roux accepte l’arrêt sans exiger une raison supplémentaire."
+              ]
+            },
+            {
+              "heading": "Rassembler des observations situées",
+              "text": "Le rapprochement entre deux moments aide à transmettre une information plus précise. Il ne suffit pas à déterminer une cause ou une gravité.",
+              "examples": [
+                "Nora rapporte que la même plainte avait été formulée au repas la veille.",
+                "Mme Roux indique que Basile a interrompu l’activité avant le premier lancement."
+              ]
+            },
+            {
+              "heading": "Laisser les hypothèses ouvertes",
+              "text": "Une proximité dans le temps avec un événement ne démontre pas un lien causal. Les questions cliniques appartiennent au professionnel sollicité.",
+              "examples": [
+                "La séance approche, mais les adultes n’appellent pas la douleur une réaction au public.",
+                "Le diagnostic d’attachement est connu, mais ne remplace pas l’avis demandé pour le ventre."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour garder un relais de santé distinct",
+          "points": [
+            {
+              "heading": "Écouter et suspendre la demande",
+              "objective": "Pour l’adulte, prendre en compte la plainte avant de poursuivre l’activité.",
+              "exercise": [
+                "Accueillez les mots de l’enfant sans les corriger par une explication supposée.",
+                "Arrêtez pour lui l’activité qui peut attendre et assurez ses besoins immédiats dans votre cadre de responsabilité.",
+                "Organisez le relais nécessaire avec les adultes responsables, sans attendre un récit émotionnel."
+              ],
+              "benefit": "L’enfant n’a pas à prouver une cause pour recevoir de l’attention ; cet appui ne remplace pas l’évaluation de santé."
+            },
+            {
+              "heading": "Transmettre et suivre les consignes",
+              "objective": "Permettre au professionnel de santé de disposer des faits utiles.",
+              "exercise": [
+                "Rassemblez les paroles et les moments observés, en distinguant ce que chacun a réellement vu.",
+                "Demandez un avis professionnel en précisant le changement et les informations utiles au suivi.",
+                "Appliquez les consignes reçues et reprenez contact selon celles-ci ou si la situation change."
+              ],
+              "benefit": "La conduite à tenir repose sur une appréciation clinique plutôt que sur une interprétation familiale du diagnostic connu."
+            },
+            {
+              "heading": "Adapter le projet séparément",
+              "objective": "Laisser au groupe une organisation qui ne force pas la présence de l’enfant.",
+              "exercise": [
+                "Reportez les essais qui peuvent attendre.",
+                "Répartissez l’installation pour qu’elle soit possible en son absence.",
+                "En fonction de son état et des conseils reçus, prévoyez une présence brève, une pause ou une absence sans pénalité."
+              ],
+              "benefit": "Le projet peut continuer sans devenir un motif pour retarder les soins ou demander à l’enfant de tenir malgré sa difficulté."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Le plateau peut attendre son joueur",
+      "ending": "Nora obtient un avis professionnel et organise la suite de l’évaluation selon les consignes reçues. Elle ne reçoit pas du plateau une réponse à la question du ventre : cette question garde son propre suivi. Mme Roux décale l’essai général et informe le groupe que l’installation se fera avec les tâches réparties, même si Basile doit se reposer.\n\nLila choisit de préparer le départ rapide. Les autres reprennent le dessin pour le trajet lent et le départ commun. Basile n’a pas à donner d’instructions supplémentaires ce jour-là. La boîte bleue reste fermée avec les billes triées. Pour la séance, les adultes prévoient une place où il pourra regarder et la possibilité de ne pas venir ; sa participation dépendra de son état et des conseils de santé, pas du nombre de cartons terminés.",
+      "conclusion": "Une difficulté nouvelle ne se résume pas au trouble déjà connu. En séparant la plainte, les observations et les hypothèses, les adultes rendent possible un relais de santé réel. La piste reste un projet auquel Basile peut participer selon sa situation, sans obligation de présence.",
+      "mirror": [
+        "Nora peut dire à Mme Roux : « Il m’en a parlé hier aussi ; je vais demander un avis. » Elle transmet les faits sans affirmer que la douleur vient du stress ou de l’attachement. L’enseignante peut répondre à la classe : « Nous avons réparti l’installation, Basile n’a rien à terminer aujourd’hui. » Les autres enfants n’ont pas besoin de détails médicaux. Chacun garde son rôle pendant que la question de santé suit son cours."
+      ],
+      "sources": [
+        "oms-cddr",
+        "nice-ng26"
+      ],
+      "continuity": {
+        "choice": "Nora obtient un avis de santé et suit les consignes ; Mme Roux décale l’essai et répartit l’installation pour qu’elle soit possible sans Basile.",
+        "next": "La séance reste compatible avec une absence ou une présence brève. La santé garde son suivi ; si son état et les conseils le permettent, Basile pourra choisir un moment de jeu."
+      }
     }
   ]
 }
