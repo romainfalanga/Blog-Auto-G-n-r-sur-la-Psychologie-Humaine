@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "execution_environment": "ChatGPT session with real sub-agents",
+  "background_execution": false,
+  "model_api_calls": false,
+  "github_actions": false,
+  "lease_seconds": 1800,
+  "max_active_jobs": 6,
+  "role_limits": {
+    "character": 4,
+    "story": 4,
+    "review": 2
+  },
+  "max_revision_rounds": 2,
+  "priority_characters": ["louise", "constance", "mila", "fanny"],
+  "stages": ["character", "story", "review", "ready_to_publish", "published", "blocked"],
+  "publication": "Observe only: require independent review, exact release hashes, and already integrated public files",
+  "recovery": "Expired or stale jobs remain reserved; only their owner can claim --resume. Existing drafts are preserved."
+}

@@ -255,6 +255,24 @@ def arc_outputs(character, manifest, publication, order, evidence, article_forma
     return outputs, topics
 
 
+def agent_review_required(ident, release):
+    """Grandfather only the exact clinical manuscripts reviewed before migration.
+
+    A missing design must never silently remove the independent-review gate.
+    Every new manuscript remains subject to it even if both draft artifacts are
+    accidentally deleted. The migration registry is immutable editorial evidence.
+    """
+    migration = read(ROOT / 'editorial/automation/legacy-publications.json')
+    design = EDITORIAL / 'designs' / (ident + '.json')
+    review = EDITORIAL / 'reviews' / (ident + '.json')
+    original = migration['manuscripts'].get(ident)
+    manuscript = EDITORIAL / (ident + '.json')
+    return (design.exists() or review.exists()
+            or 'design_sha256' in release or 'independent_review_sha256' in release
+            or original is None or release.get('sha256') != original
+            or not manuscript.exists() or hashlib.sha256(manuscript.read_bytes()).hexdigest() != original)
+
+
 def integrate(check):
     characters, shared = sources_and_characters()
     reviewed = read(EDITORIAL / 'releases.json')['arcs']
@@ -271,6 +289,14 @@ def integrate(check):
         evidence, dossier_review = character_evidence(character, shared)
         digest = dossier_review['sha256'] if dossier_review else None
         require(digest == release.get('dossier_sha256'), f'Dossier modifié depuis la relecture : {ident}')
+        if agent_review_required(ident, release):
+            from clinical_agent_contracts import validate_review
+            approval = validate_review(ident)
+            require(approval['status'] == 'passed', f'Relecture indépendante non acceptée : {ident}')
+            for folder, key in (('designs', 'design_sha256'), ('reviews', 'independent_review_sha256')):
+                path = EDITORIAL / folder / (ident + '.json')
+                require(path.is_file() and release.get(key) == hashlib.sha256(path.read_bytes()).hexdigest(),
+                        f'Preuve indépendante modifiée depuis la relecture : {ident}, {folder}')
         publication = date.fromisoformat(release['date']).isoformat()
         # The old format is available only through already registered reviews.
         article_format = release.get('article_format', 1)
@@ -354,6 +380,13 @@ def record_review(ident, publication, note):
     path = EDITORIAL / 'releases.json'
     registry = read(path)
     hashes = validate_manuscript(ident, publication)
+    previous = registry['arcs'].get(ident, {})
+    if agent_review_required(ident, {**previous, **hashes}):
+        from clinical_agent_contracts import validate_review
+        approval = validate_review(ident)
+        require(approval['status'] == 'passed', f'Relecture indépendante non acceptée : {ident}')
+        hashes['design_sha256'] = hashlib.sha256((EDITORIAL / 'designs' / (ident + '.json')).read_bytes()).hexdigest()
+        hashes['independent_review_sha256'] = hashlib.sha256((EDITORIAL / 'reviews' / (ident + '.json')).read_bytes()).hexdigest()
     release = {'date':publication, 'status':'editorially_reviewed', 'article_format':ARTICLE_FORMAT, **hashes, 'review':note}
     registry['arcs'][ident] = release
     path.write_text(dump(registry))

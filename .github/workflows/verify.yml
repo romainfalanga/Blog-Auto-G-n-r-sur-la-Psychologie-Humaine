@@ -29,3 +29,5 @@ jobs:
       - run: node --test tests/*.test.cjs
       - run: npm --prefix journal test
       - run: python -m unittest discover -s journal/tests -p 'test_personal*.py'
+      - run: python -m unittest discover -s tests -p 'test_*pipeline.py'
+      - run: python -m unittest discover -s tests -p 'test_clinical_agent_contracts.py'

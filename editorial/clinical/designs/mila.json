@@ -1,0 +1,191 @@
+{
+  "schema_version": 1,
+  "character_id": "mila",
+  "code": "6B06",
+  "article_format": 2,
+  "bio": "Mila a huit ans et collectionne les noms de couleurs qu’elle invente : son orange préféré est du rouge qui hésite. Elle dessine un jeu de piste pour faire chercher des objets à sa classe, avec Sam, qui adore déplacer ses cachettes. Son mutisme sélectif, déjà diagnostiqué, rend la parole inaccessible dans certaines situations scolaires, même lorsqu’elle a quelque chose à proposer. À la maison, elle raconte volontiers ses idées. Avec ses parents, son enseignante et sa clinicienne, Mila cherche des façons de participer à son rythme, tout en gardant la main sur ses cartes et son projet.",
+  "profile_topics": [
+    "Mutisme sélectif",
+    "Anxiété de parole",
+    "Communication selon le contexte",
+    "Participation scolaire",
+    "Relations avec les pairs"
+  ],
+  "voice": "Mila pense en trajets, en cachettes et en couleurs mal nommées exprès. Dans les contextes où sa voix est disponible, ses phrases sont vives et concrètes ; elle peut contredire Sam et faire des blagues sans devenir une enfant exceptionnellement sage. À l’école, quelques mots écrits, des corrections dessinées ou des gestes peuvent porter ses choix, mais ne donnent pas accès à tout ce qu’elle pense et ne sont pas toujours possibles. Le narrateur distingue ce qu’elle éprouve, ce que les adultes observent et ce qu’ils ne savent pas ; Mila ne récite aucune explication clinique.",
+  "series_goal": "Concevoir, essayer puis faire jouer à sa classe un jeu de piste de couleurs dont Mila conserve les choix graphiques et partage les décisions de jeu. Au douzième épisode, la classe trouve les objets et Mila corrige un indice pour une prochaine utilisation ; cette réussite collective clôt le projet sans servir d’épreuve de parole ou de résultat thérapeutique.",
+  "continuity_rules": [
+    "Mila a huit ans, est élève et vit un mutisme sélectif dont le diagnostic est déjà établi avant la série. Les douze épisodes restent au stade known ; le suivi ne recrée pas une découverte diagnostique.",
+    "La langue usuelle de Mila à la maison et à l’école est le français. Son intérêt pour un album anglais ne lui invente pas une histoire migratoire ou un bilinguisme et ne permet pas de conclure sur une compétence linguistique.",
+    "Inès et Julien sont ses parents ; Mme Perrin est son enseignante ; la docteure Le Goff est la pédopsychiatre déjà impliquée ; Sam est son camarade de jeu. Les adultes assurent les besoins et le relais clinique, avec des échanges limités et convenus, tandis que Sam peut refuser un rôle ou quitter le jeu.",
+    "Le plan plié, les six cartes de couleurs, le soleil vert, le feutre orange et la boîte à indices sont repris et modifiés dans l’ordre. Les cartes relient les épisodes sans que chaque scène se déroule autour de la même table.",
+    "Le silence ne prouve ni opposition ni méconnaissance ; il n’est pas traité comme une simple timidité. Parler chez elle ou chuchoter une fois ne rend pas une réponse orale disponible partout.",
+    "Aucun défi de parole, récompense conditionnée, tour de rôle oral imposé, enregistrement domestique diffusé, invité introduit par surprise ou exposition thérapeutique improvisée. Une adaptation quotidienne ne devient pas un protocole de soin.",
+    "Une carte, un geste ou un écrit peut aussi devenir inaccessible. L’adulte n’attend jamais une réponse réussie pour garantir eau, toilettes, pause, protection et assistance ; il ne suppose pas qu’un silence signifie absence de besoin.",
+    "Les parents et l’école ne parlent pas systématiquement à sa place et ne lui imposent pas de raconter son diagnostic à la classe. Les explications aux adultes concernés et le partage nécessaire au suivi restent leur responsabilité, avec accord parental et assentiment recherché de Mila.",
+    "Les appuis favorisent une participation présente et des possibilités nouvelles à discuter avec les professionnels ; ils ne garantissent ni absence définitive de parole ni parole future. L’évolution ne se déduit pas du succès du jeu."
+  ],
+  "episodes": [
+    {
+      "number": 1,
+      "focus": "Parole accessible selon les contextes",
+      "scene": "Dans la cuisine, Mila raconte à Inès que le soleil de son plan sera vert. Le lendemain, quand Mme Perrin l’invite à présenter cette même idée, elle ne peut pas la dire ; le crayon reste posé sur le soleil. Le projet risque de partir sans sa règle préférée.",
+      "development": "Distinguer accès à la parole et volonté de participer, à partir du contraste entre deux situations, sans portrait de timidité générale. Trois manifestations à développer : idée racontée spontanément chez elle, mot indisponible devant la classe, choix néanmoins porté par le dessin. Trois appuis quotidiens : reconnaître le contraste sans lui demander de se justifier ; convenir avec elle et ses parents d’un support possible pour soumettre le plan ; garder une possibilité de réponse ultérieure sans reporter toutes les décisions à la maison. Ces appuis ne font pas disparaître la difficulté et ne servent pas à tester le diagnostic connu.",
+      "ending": "Mme Perrin regarde le plan à côté de Mila après l’activité. Mila entoure le soleil vert ; l’enseignante conserve ce choix dans la première règle au lieu de décider que le jeu doit attendre une présentation orale.",
+      "next": "Le plan plié est accepté comme proposition. Six cartes restent à dessiner ; Mme Perrin annonce le moment où elles seront regardées, sans réserver un tour de parole à Mila.",
+      "source_refs": [
+        "oms-cddr",
+        "asha-mutisme"
+      ],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 2,
+      "focus": "Figement sous attente de parole",
+      "scene": "Au moment prévu, un autre adulte demande soudain à Mila quelle carte vient en premier. Les doigts de Mila se raidissent sur le feutre orange ; même tendre la carte bleue devient difficile. Le dessin accepté la veille ne suffit plus dans cette interaction.",
+      "development": "L’aspect est le blocage aigu sous une attente sociale, y compris au-delà de la voix. Trois manifestations : corps soudain immobile, réponse orale inaccessible, geste habituellement possible qui se bloque aussi. Ne pas leur donner valeur de critères ni prétendre que tout silence s’accompagne de figement. Trois appuis : Mme Perrin interrompt la demande répétée et rétablit une activité ordinaire ; elle laisse une présence et du temps sans surveiller l’apparition d’un signe ; les adultes conviennent ensuite, entre eux et avec la famille, d’éviter les sollicitations surprises. La carte n’est pas brandie devant Mila jusqu’à ce qu’elle la prenne.",
+      "ending": "L’adulte retourne à l’installation de la table ; Mme Perrin reste disponible. Plus tard Mila pose la carte bleue dans la boîte à indices, quand ce geste lui est accessible, sans que la classe soit réunie pour le constater.",
+      "next": "La boîte contient une première carte. Le besoin d’un cadre prévisible est transmis aux adultes ; le projet passe à l’affiche qui annoncera le jeu.",
+      "source_refs": [
+        "oms-cddr",
+        "nhs-mutisme",
+        "rcslt-mutisme"
+      ],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 3,
+      "focus": "Anticipation du regard sur sa parole",
+      "scene": "Mila découvre que les beaux dessins de la classe sont parfois montrés avec une explication orale de leur auteur. Elle retourne son affiche avant que Mme Perrin arrive, alors qu’elle voulait y laisser son soleil vert. Le jeu perdrait sa carte principale si elle la cachait.",
+      "development": "L’anticipation d’une demande de parole peut détourner une activité désirée avant toute sollicitation réelle. Trois manifestations : affiche retournée quand l’enseignante approche, préférence cachée pour éviter une question, attention absorbée par ce qui sera attendu au lieu du dessin. Trois appuis : Mme Perrin clarifie en privé ce qui sera montré et par qui ; Mila peut choisir une contribution au panneau avec un support disponible ; l’équipe remarque et discute cette restriction de participation avec la famille, sans organiser une démonstration de courage. Le goût de bien dessiner ne devient pas un symptôme ; c’est ici le lien avec la parole attendue qui compte.",
+      "ending": "Après avoir vérifié le déroulement, Mila remet l’affiche face visible et colle un petit soleil vert dans le coin. Mme Perrin annoncera le principe général du jeu à partir des règles approuvées ; l’affiche n’entraîne pas une invitation orale surprise.",
+      "next": "L’affiche annonce la recherche d’objets. Il faut préparer la boîte et le matériel pendant une activité où les besoins pratiques devront rester accessibles.",
+      "source_refs": [
+        "oms-cddr",
+        "nhs-mutisme"
+      ],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 4,
+      "focus": "Demande d’aide et besoins quotidiens",
+      "scene": "Pendant la préparation du matériel, Mila a besoin d’une pause et n’arrive pas à solliciter Mme Perrin. Elle reste près de la boîte ouverte pendant que les autres se servent. L’enseignante vient vérifier les besoins du petit groupe et lui propose les possibilités ordinaires, sans réclamer une explication.",
+      "development": "Le retentissement concerne l’initiative pour obtenir quelque chose de nécessaire, pas seulement répondre à une question. Trois manifestations : matériel manquant qu’elle ne demande pas, pause qu’elle n’arrive pas à signaler, attente silencieuse pouvant passer inaperçue. Trois appuis : accès direct organisé aux besoins usuels ; vérification discrète par un adulte disponible, même sans signe réussi ; signal simple discuté avec Mila et ses parents, accompagné d’une autre solution si elle ne peut pas l’utiliser. Ne pas attendre un malaise ni mettre en scène une privation pour apprendre à demander ; les camarades n’assurent pas cette vigilance.",
+      "ending": "Mme Perrin s’assure que Mila peut faire sa pause et revenir si elle le souhaite ; elle ne poursuit pas une question pour obtenir le bon signe. Le matériel est accessible au retour et une autre adulte de l’école connaît le relais prévu.",
+      "next": "La boîte et ses six cartes sont prêtes. L’équipe garde la vérification des besoins lors des activités suivantes ; il faut maintenant vérifier les indices et ce que chaque enfant comprend.",
+      "source_refs": [
+        "oms-cddr",
+        "asha-mutisme",
+        "hse-mutisme-appuis"
+      ],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 5,
+      "focus": "Apprentissages masqués par la réponse absente",
+      "scene": "Pour répartir les six indices entre deux groupes, Mme Perrin demande comment vérifier les quantités. Mila a dessiné deux lignes de trois cases mais ne l’explique pas à voix haute. Une confusion subsiste sur l’ordre des couleurs ; son silence empêche de savoir ce qu’elle a compris.",
+      "development": "L’absence de réponse peut masquer un acquis et empêcher de clarifier un point réellement difficile ; ne conclure ni à une incapacité générale ni à une compréhension totale. Trois manifestations : raisonnement non entendu, question non posée sur l’ordre, hésitation prise pour inattention. Trois appuis : laisser montrer un raisonnement avec des cases ou objets ; vérifier les consignes à partir d’une tâche scolaire ordinaire sans score clinique ; garder une trace de la question non résolue pour reprendre l’enseignement et en parler au suivi si les difficultés dépassent ces circonstances. Les supports donnent des informations partielles et ne remplacent pas l’évaluation professionnelle.",
+      "ending": "Mme Perrin comprend la répartition dessinée et reprend avec tout le groupe la consigne mal comprise. Mila peut placer les cartes ; l’enseignante conserve une observation factuelle pour le rendez-vous de suivi convenu avec ses parents.",
+      "next": "Deux ensembles de trois cartes sont constitués et les consignes clarifiées. Sam souhaite essayer le parcours avec Mila ; une coopération réelle doit maintenant trouver sa place.",
+      "source_refs": [
+        "oms-cddr",
+        "asha-mutisme"
+      ],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 6,
+      "focus": "Réciprocité avec les pairs empêchée",
+      "scene": "Dans la cour, Sam choisit toutes les cachettes à la suite et annonce que Mila est d’accord. Elle voulait déplacer la dernière carte mais n’arrive pas à l’interrompre. Un enfant dit que si elle ne répond pas, autant jouer sans elle ; Mme Perrin entend et intervient.",
+      "development": "La difficulté à initier et relancer l’échange peut effacer une préférence et exposer à l’exclusion, tout en laissant intacte l’envie d’amitié. Trois manifestations : proposition non introduite, décision attribuée à tort, participation menacée par une parole blessante. Trois appuis : l’enseignante arrête l’exclusion sans dévoiler la santé de Mila ; les règles du jeu donnent à chacun une possibilité concrète de modifier une cachette ; Sam peut demander comment vérifier un choix puis retourner jouer sans devenir interprète permanent. Les pairs partagent une activité et des limites, sans mission d’entraînement ou de surveillance.",
+      "ending": "Mila déplace une carte quand la modification devient possible. Sam garde sa cachette pour une autre couleur et dit qu’il veut aussi jouer au ballon ensuite ; leur désaccord ne les empêche pas d’avoir chacun une idée retenue.",
+      "next": "La règle prévoit désormais que les deux concepteurs peuvent modifier le parcours. Une recherche à la bibliothèque doit fournir des images pour les indices manquants.",
+      "source_refs": [
+        "oms-cddr",
+        "hse-mutisme-appuis"
+      ],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 7,
+      "focus": "Langue de situation et compréhension",
+      "scene": "À la bibliothèque, un album présente des couleurs en anglais. Mila ne connaît pas un des mots ; ailleurs sur la même page, elle reconnaît une couleur qu’elle nomme en français chez elle sans pouvoir la dire ici. La bibliothécaire ne sait pas quel obstacle elle rencontre.",
+      "development": "Séparer apprentissage d’un mot et accès à la parole dans le contexte, sans inviter le lecteur à les diagnostiquer. Trois manifestations situées : mot anglais effectivement inconnu, mot français familier inaccessible à l’oral ici, demande de clarification difficile à initier. Trois appuis : l’adulte rend le vocabulaire nouveau compréhensible avec l’image ; Mme Perrin reprend les consignes en français sans exiger la répétition ; la question des langues et des capacités de compréhension est transmise de façon factuelle à la clinicienne si elle aide le suivi. Un silence dans une langue peu connue ne devient jamais une preuve de mutisme ; Mila n’a pas à démontrer devant la bibliothécaire ce qu’elle dit à la maison.",
+      "ending": "Mila choisit une image de feuille pour le vert. L’album sert à trouver des dessins, sans étiquettes anglaises imposées aux joueurs ; les parents savent qu’une question sur la compréhension sera reprise au rendez-vous déjà prévu.",
+      "next": "Les six indices ont maintenant leurs images. Le plan, les observations scolaires limitées et la question du vocabulaire peuvent être apportés à la consultation avec les accords convenus.",
+      "source_refs": [
+        "oms-cddr",
+        "asha-mutisme"
+      ],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 8,
+      "focus": "Évaluation adaptée sans démonstration orale",
+      "scene": "Au rendez-vous de suivi avec la docteure Le Goff, Mila veut montrer le soleil vert mais ne peut pas répondre à une question sur la classe. Julien apporte les observations convenues avec Mme Perrin ; il sait que Mila ne veut pas partager tout son cahier.",
+      "development": "Un suivi clinique peut intégrer plusieurs contextes sans faire du silence au cabinet une mesure complète du langage. Trois manifestations : réponse manquante dans la consultation, récit parental différent du vécu scolaire, information sur la compréhension qui reste à préciser. Trois appuis : la clinicienne accueille les moyens de communication disponibles sans performance imposée ; les adultes distinguent observations et interprétations ; elle décide des évaluations ou relais éventuellement nécessaires en tenant compte notamment du langage et de l’audition, sans que le récit invente un trouble associé. Aucune vidéo domestique, grille ni test reproductible n’est proposé. Le diagnostic reste connu ; ce rendez-vous ajuste le suivi.",
+      "ending": "Mila montre seulement la page du soleil. La docteure Le Goff convient avec elle et ses parents des informations utiles à adresser à l’enseignante ; le cahier complet reste dans le sac. Le projet et les soins gardent chacun leur objectif.",
+      "next": "Mme Perrin reçoit les besoins d’accompagnement convenus, pas le contenu de la consultation. La préparation du parcours reprend et un point de suivi reste prévu.",
+      "source_refs": [
+        "oms-cddr",
+        "asha-mutisme",
+        "nhs-mutisme"
+      ],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 9,
+      "focus": "Difficultés anxieuses associées à distinguer",
+      "scene": "Un soir, Inès annonce qu’une réparation de voiture pourrait retarder son arrivée le jour du jeu. Chez elle, où elle peut parler, Mila redemande qui viendra et hésite à retourner travailler sur ses cartes. Son inquiétude ne concerne pas seulement une présentation orale.",
+      "development": "D’autres préoccupations anxieuses peuvent coexister avec le mutisme et demandent d’être comprises séparément. Trois manifestations fictives : questions répétées sur le retour d’Inès, attention prise par le scénario du retard, activité désirée mise de côté. Elles ne forment ni un second diagnostic ni la preuve que la séparation cause son mutisme. Trois appuis : donner une information pratique fiable sur l’adulte présent ; écouter ce que Mila souhaite préciser sans interrogatoire ; contacter la clinicienne dans le suivi si cette inquiétude se répète ou gêne les journées. La possibilité de dessiner sa préoccupation reste une option et non une mesure de son anxiété.",
+      "ending": "Julien sera l’adulte disponible après l’école ; Inès confirme ce qui est certain sans promettre de ne jamais être en retard. Avec leur accord et celui recherché de Mila, les parents signalent cette préoccupation à la docteure Le Goff, qui la reprendra au point prévu.",
+      "next": "L’organisation du jour du jeu est réglée et l’inquiétude a un relais effectif. Les parents décident aussi de préserver la soirée suivante des questions répétées sur ses réponses scolaires.",
+      "source_refs": [
+        "oms-cddr",
+        "nhs-mutisme"
+      ],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 10,
+      "focus": "Irritabilité après les exigences de parole",
+      "scene": "À la maison, Julien demande machinalement si Mila a parlé pendant l’essai. Elle referme sèchement la boîte et lui dit d’arrêter de poser cette question. Le feutre orange roule sous la table ; il reste une carte à corriger mais elle ne veut plus s’y mettre.",
+      "development": "La réaction au retour et à la surveillance de la parole peut être mal lue comme une preuve que le silence est volontaire. Trois manifestations : colère lors d’une question, retrait du projet à ce moment, contraste avec une voix disponible chez elle. Ne pas attribuer toute contrariété au diagnostic ou décrire les parents comme sa cause. Trois appuis : Julien reconnaît la question malvenue et interrompt le bilan oral ; la famille garde un temps ordinaire de récupération sans devoir rendre compte ; si les soirées deviennent durablement difficiles, les parents en parlent à la clinicienne plutôt que de fabriquer une explication. Les limites familiales et le respect de chacun demeurent.",
+      "ending": "Julien range le matériel accessible et propose de réparer la carte le lendemain, ou de laisser l’essai à Mme Perrin. Plus tard, Mila demande son feutre et dessine un petit escargot dans un coin ; cette reprise ne solde pas les difficultés.",
+      "next": "La carte sera corrigée à l’école. Les parents conservent des échanges sur les couleurs et la vie ordinaire, sans compte rendu quotidien du nombre de mots.",
+      "source_refs": [
+        "oms-cddr",
+        "nhs-mutisme",
+        "hse-mutisme-appuis"
+      ],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 11,
+      "focus": "Réponses brèves et voix peu audible",
+      "scene": "Au seuil de la classe, Mila corrige la dernière carte à côté de Mme Perrin. En voyant le feutre rouge approcher du soleil, elle murmure spontanément « pas celui-là ». La phrase est très basse ; les autres enfants arrivent et la suite reste difficile à dire.",
+      "development": "Une parole très brève ou modifiée peut coexister avec une difficulté importante ; la voix n’est pas simplement présente ou absente. Trois manifestations : quelques mots audibles dans cette interaction, volume réduit, impossibilité d’enchaîner quand le contexte change. Trois appuis : l’adulte répond au choix du feutre d’une manière ordinaire ; elle ne fait ni répéter ni annoncer le mot aux autres ; elle conserve les supports et le suivi déjà convenus au lieu d’augmenter les exigences. La scène n’est préparée ni comme un exercice d’exposition ni comme un événement qui devrait se reproduire. Ce que la voix a permis ici ne prédit pas demain.",
+      "ending": "Mme Perrin prend le feutre orange. Mila reprend sa correction sans être appelée à commenter son murmure ; la carte terminée rejoint la boîte. L’enseignante informe la famille seulement dans le cadre de l’échange factuel convenu, sans comptage ni cérémonie.",
+      "next": "Les six indices sont terminés et le déroulement du jeu est fixé : Mme Perrin lit les règles approuvées, les groupes cherchent, Mila contribue aux vérifications selon les possibilités du moment.",
+      "source_refs": [
+        "oms-cddr",
+        "rcslt-mutisme",
+        "asha-mutisme"
+      ],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 12,
+      "focus": "Évolution variable malgré un projet réussi",
+      "scene": "Le jour du jeu, les deux groupes rapportent leurs objets. Mila découvre qu’un indice envoie deux fois vers la même étagère et dessine une flèche pour le corriger. Quand plusieurs enfants lui demandent ensuite comment elle l’a inventé, elle ne peut pas leur répondre à voix haute.",
+      "development": "Distinguer résolution d’un projet, possibilités de participation et évolution clinique. Trois manifestations : choix et correction accessibles avec le dessin, interaction choisie autour de la boîte, parole toujours difficile sous des demandes nouvelles malgré le murmure précédent. Trois appuis : les adultes maintiennent le déroulement et les moyens convenus ; ils recueillent séparément ce qui aide ou gêne sans bilan du courage ; la famille et la clinicienne poursuivent le suivi en fonction des besoins, avec des objectifs à discuter. Aucune réussite n’autorise à retirer d’un coup les appuis ou à promettre une généralisation, et aucun silence n’annule le plaisir du jeu.",
+      "ending": "La classe trouve les six objets et garde les cartes corrigées pour rejouer. Mila ajoute son escargot-signature au plan puis choisit une nouvelle cachette avec Sam. Le jeu est réellement achevé ; ses difficultés de parole et le suivi restent présents, sans conclusion pronostique.",
+      "next": "Parcours clos sur le projet : boîte complète et règle corrigée disponibles pour la classe. Au-delà de la série, Mila conserve des goûts, des relations, des possibilités à explorer avec les adultes et un accompagnement à réévaluer, sans échéance imposée à sa voix.",
+      "source_refs": [
+        "oms-cddr",
+        "asha-mutisme",
+        "hse-mutisme-appuis"
+      ],
+      "diagnostic_stage": "known"
+    }
+  ]
+}

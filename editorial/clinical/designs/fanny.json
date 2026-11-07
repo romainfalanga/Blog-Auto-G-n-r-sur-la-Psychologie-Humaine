@@ -1,0 +1,185 @@
+{
+  "schema_version": 1,
+  "character_id": "fanny",
+  "code": "6B22",
+  "article_format": 2,
+  "bio": "À 33 ans, Fanny anime un atelier d’écriture dans une maison de quartier et défend les phrases longues face à Nora, sa coanimatrice amatrice de textes brefs. Son trouble de perception olfactive, déjà diagnostiqué, l’occupe parfois au point de perdre le fil d’une lecture et de chercher une assurance dans les gestes d’autrui. Avec son médecin et son thérapeute, elle explore ces difficultés. Elle veut surtout imprimer le recueil Les seuils avec les participantes et choisir la part d’accueil qu’elle assurera le soir de sa présentation.",
+  "profile_topics": [
+    "Trouble de perception olfactive",
+    "Préoccupation et attention",
+    "Interprétation des gestes",
+    "Vérification et réassurance",
+    "Participation choisie"
+  ],
+  "voice": "Fanny pense en phrases longues, s'arrête au milieu pour remplacer un mot et s'intéresse d'abord à ce qui rend un texte vivant. Elle peut défendre une virgule avec sérieux, puis rire de sa propre obstination. Quand elle est inquiète, ses réponses deviennent plus brèves et elle manque une question ; ce changement contraste avec sa voix habituelle sans devenir son seul trait. Elle sait contredire Nora sur la littérature et peut dire qu'elle souhaite reprendre un échange plus tard.",
+  "series_goal": "Mener avec les participantes l'impression de quarante-huit exemplaires du recueil Les seuils, puis décider de sa part d'accueil à la soirée de présentation. La résolution est matérielle et relationnelle : les textes appartiennent à leurs autrices, les livres sont remis, Nora tient la table d'accueil et Fanny choisit une présentation littéraire brève. Sa participation et ses limites ne mesurent pas une guérison.",
+  "continuity_rules": [
+    "Fanny a 33 ans et anime un atelier d'écriture dans une maison de quartier ; le diagnostic de 6B22 est établi avant le premier épisode et reste connu dans les douze plans.",
+    "Le nom exact du dossier est Trouble de perception olfactive ; préciser le sens Olfactory reference disorder lorsqu'il est nécessaire de lever la confusion avec un trouble sensoriel. Aucun sous-code d'insight n'est inventé.",
+    "Nora est coanimatrice, aime les textes courts et a ses propres limites ; Lucie est la sœur adulte de Fanny. Le médecin et le thérapeute sont déjà présents dans son suivi, sans être remplacés par l'entourage.",
+    "Le recueil collectif s'appelle Les seuils, comporte les textes validés par leurs autrices et sera tiré à quarante-huit exemplaires. Fanny n'écrit pas à la place des participantes et ne leur doit aucune révélation clinique.",
+    "Le récit parle d'une préoccupation et d'interprétations ; il ne confirme aucune mauvaise odeur, ne ridiculise aucune crainte et ne transforme pas les gestes des autres en preuves ou en démentis certains.",
+    "Ne jamais proposer d'évaluation olfactive par les proches, de rituel d'hygiène, de questionnaire d'autodiagnostic, d'exposition forcée ou d'expérience de proximité improvisée. Les choix de travail ne sont pas un protocole de soin.",
+    "Chaque consultation annoncée est effectivement située et son apport est repris ensuite. Un symptôme médical nouveau ne serait pas automatiquement expliqué par le diagnostic connu.",
+    "La réalisation du recueil et la part d'accueil choisie ne mesurent pas une guérison. Une difficulté peut réapparaître sans annuler une décision antérieure ; les appuis et le suivi restent révisables."
+  ],
+  "episodes": [
+    {
+      "number": 1,
+      "focus": "Préoccupation persistante autour de l’odeur",
+      "scene": "Au premier atelier consacré au recueil Les seuils, Fanny lit une page sur un arrêt de bus désert. Elle connaît presque le texte par cœur, mais la crainte de son odeur reprend toute la place ; lorsqu'une participante demande où couper un paragraphe, elle doit faire répéter. Nora voudrait choisir la couverture ce soir, Fanny tient d'abord à laisser l'autrice finir sa phrase.",
+      "development": "Expliquer la préoccupation persistante au-delà d'une inquiétude banale, sans certifier une odeur. Trois manifestations à développer : retour de la pensée pendant une lecture aimée ; difficulté à suivre une question ; temps mental pris sur une décision littéraire. Trois appuis possibles : nommer brièvement la préoccupation comme une expérience pénible, sans débat olfactif ; choisir avec Nora la seule tâche éditoriale à terminer ce soir ; apporter au thérapeute l'effet sur l'attention plutôt qu'un relevé d'odeurs. Ces gestes ordinaires et cette transmission clinique ne sont pas un traitement autonome.",
+      "ending": "Fanny demande que la question sur la coupe du paragraphe soit répétée, puis travaille avec l'autrice. La couverture attendra ; elle emporte les deux propositions que Nora a préparées, sans que la préoccupation ait disparu.",
+      "next": "Les deux couvertures restent à départager à la prochaine séance. Fanny a identifié une difficulté réelle de présence au texte et prévoit d'en parler dans son suivi déjà en cours.",
+      "source_refs": [
+        "oms-cddr",
+        "phillips-menard-2011"
+      ],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 2,
+      "focus": "Gestes d’autrui interprétés comme des indices",
+      "scene": "À la séance suivante, les deux maquettes de couverture sont posées côte à côte. Une participante porte la main à son visage, Nora ouvre la fenêtre et une autre personne quitte la salle pour répondre au téléphone. Fanny les relie aussitôt à sa crainte et se prépare à remballer les feuilles avant le vote.",
+      "development": "Expliquer les idées de référence : des gestes ambigus peuvent être compris comme des messages sur soi. Trois manifestations : surveiller des mouvements plutôt que les maquettes ; les relier entre eux ; se sentir jugée sans parole explicite. Trois appuis : séparer une fois, dans ses propres mots, le geste observé et l'interprétation ; laisser sa signification indéterminée plutôt que rechercher une preuve inverse ; demander à Nora un appui sur le vote, sans l'interroger sur ce que les autres auraient senti. Ne pas produire d'explication certaine à chaque geste ni demander au groupe de se justifier.",
+      "ending": "Fanny pose la question prévue sur les couvertures et note le choix des participantes : une porte dessinée en jaune. Elle reste tendue ; la sélection porte sur le livre et ne lui apprend pas ce que signifiait la fenêtre.",
+      "next": "La couverture jaune est retenue. Fanny doit transmettre les textes relus pour un premier devis ; le prochain obstacle apparaîtra chez elle, au moment de partir avec le dossier.",
+      "source_refs": [
+        "oms-cddr",
+        "phillips-menard-2011"
+      ],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 3,
+      "focus": "Vérifications répétées de la source supposée",
+      "scene": "Chez elle, Fanny a rangé les textes et les coordonnées de l'imprimeur dans une pochette jaune. Elle devrait descendre les déposer dans la boîte interne de la maison de quartier. Elle suspend pourtant plusieurs fois son départ pour vérifier ce qu'elle croit être la source de l'odeur ; la pochette reste près de la porte.",
+      "development": "Distinguer l'auto-vérification des demandes adressées à autrui. Trois manifestations : un contrôle interrompt l'action commencée ; le doute revient après celui-ci ; une tâche simple occupe une part croissante de la soirée. Ne décrire ni méthode de contrôle ni séquence à reproduire. Trois appuis : expliquer au thérapeute ce que les interruptions empêchent de faire ; discuter avec lui d'une réponse adaptée aux vérifications, sans consigne générale d'arrêt ; convenir avec Nora du dépôt matériel du dossier, qui reste un échange de travail et non une validation corporelle. Aucun journal d'odeurs ou test domestique n'est proposé.",
+      "ending": "Fanny prévient Nora du retard et dépose finalement la pochette le lendemain matin. Elle a transmis la difficulté lors de son rendez-vous de suivi ; elle ne transforme pas cette discussion en obligation de réussir tous les départs suivants.",
+      "next": "Nora possède les textes et peut préparer le devis. Au prochain échange, Fanny sollicitera cette fois une assurance auprès d'elle, ce qui permettra de distinguer un autre comportement.",
+      "source_refs": [
+        "oms-cddr",
+        "phillips-menard-2011"
+      ],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 4,
+      "focus": "Réassurance répétée dans la relation",
+      "scene": "Pendant qu'elles comparent le devis à leur budget, Fanny interrompt Nora pour demander un avis sur son odeur supposée. Après une première réponse, elle reformule sa question puis envisage un message à Lucie. Nora perd le fil des chiffres et dit qu'elle n'a plus le temps de reprendre toute la conversation.",
+      "development": "Expliquer la recherche répétée de réassurance sans faire du proche un détecteur. Trois manifestations : demander un verdict ; douter de la réponse obtenue ; vouloir multiplier les personnes interrogées. Trois appuis : définir avec le thérapeute la différence entre solliciter du soutien et demander une certitude olfactive ; préparer avec Nora une réponse chaleureuse centrée sur la détresse et sa limite ; formuler une demande concrète sur le devis. Nora peut dire qu'elle voit la difficulté et peut relire une ligne, tout en refusant de donner des verdicts répétés. Ne ni approuver la conviction, ni promettre que personne ne remarque rien.",
+      "ending": "Fanny renonce à envoyer ce soir une nouvelle demande de verdict à Lucie et dit à Nora qu'elle a besoin d'aide pour comprendre le devis. Elles s'accordent sur le nombre de livres : quarante-huit, dans le budget disponible.",
+      "next": "Le tirage est fixé à quarante-huit exemplaires. La limite de Nora reste valable et pourra être renégociée ; Fanny doit maintenant préparer leur visite à l'imprimerie.",
+      "source_refs": [
+        "oms-cddr",
+        "phillips-menard-2011"
+      ],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 5,
+      "focus": "Camouflage qui envahit la préparation",
+      "scene": "Fanny cherche sa chemise à motifs pour rencontrer l'imprimeur. Le sac qu'elle voulait réserver aux épreuves est presque plein d'affaires destinées à prévenir ce qu'elle redoute. Son plaisir de choisir une tenue s'efface devant une préparation qu'elle a du mal à considérer comme suffisante.",
+      "development": "Expliquer les tentatives excessives de camouflage et de prévention, en les distinguant de l'hygiène ordinaire et des goûts vestimentaires. Trois manifestations : encombrement du sac ; temps de préparation qui déborde ; rendez-vous conditionné au sentiment d'être assez protégée. Trois appuis : parler du coût de cette préparation au thérapeute, sans dresser un inventaire clinique de produits ; conserver le choix d'une tenue pour son goût propre ; répartir simplement le transport des épreuves avec Nora. Les affaires ne sont ni retirées par la coanimatrice ni remplacées par une nouvelle routine. Aucun mode d'emploi de camouflage ou de réduction forcée n'est donné.",
+      "ending": "Fanny choisit sa chemise parce qu'elle aime ses motifs et confie une partie des épreuves à Nora pour des raisons de transport. Elle garde pour le suivi la question de cette préparation envahissante ; le rendez-vous est confirmé.",
+      "next": "La visite de l'imprimerie est fixée et chacune sait quels papiers apporter. Reste la rencontre elle-même, que Fanny commence à envisager à travers la proximité avec l'imprimeur.",
+      "source_refs": [
+        "oms-cddr",
+        "phillips-menard-2011"
+      ],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 6,
+      "focus": "Évitement des situations de proximité",
+      "scene": "Le matin de la visite, Fanny propose soudain de tout régler par courriel et cherche un autre imprimeur plus éloigné, sans raison liée au livre. Elle voudrait examiner le papier de près avec le professionnel, mais imagine surtout la distance entre leurs sièges. Nora ne veut pas décider à sa place et doit repartir à une heure précise.",
+      "development": "Expliquer l'évitement lié à la crainte d'émettre une odeur, sans qualifier toute préférence de distance de symptôme. Trois manifestations : annuler une rencontre désirée ; changer de lieu pour échapper à une proximité redoutée ; abandonner un choix de papier qui l'intéresse. Trois appuis : nommer ce que Fanny souhaite réellement obtenir du rendez-vous ; garder la possibilité d'une adaptation et d'un départ, sans défi de proximité ; discuter avec le thérapeute de ce qui contraint ses choix. Nora accompagne la tâche professionnelle dans son temps disponible ; elle ne devient ni monitrice d'exposition ni évaluatrice d'odeur.",
+      "ending": "Fanny choisit de venir avec Nora pour parler du papier et conserve la liberté de terminer par courriel. La visite a lieu ; elle donne son avis sur le papier ivoire puis laisse Nora achever la commande administrative comme convenu.",
+      "next": "Le papier ivoire est choisi ; un bon à tirer sera envoyé. La visite n'est pas comptée comme un succès thérapeutique. Fanny sait encore difficilement comment dire à Nora ce qu'elle a traversé.",
+      "source_refs": [
+        "oms-cddr",
+        "phillips-menard-2011"
+      ],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 7,
+      "focus": "Honte et difficulté à se confier",
+      "scene": "Après la visite, Lucie appelle pour demander quelle couverture a été retenue. Fanny voudrait lui raconter son plaisir du papier ivoire, mais se traite intérieurement d'incapable. Dans la note préparée pour son thérapeute, elle efface les mots qui décrivent sa crainte, puis finit par ne plus parler que du délai d'impression.",
+      "development": "Expliquer comment honte et embarras peuvent limiter la parole sur les préoccupations. Trois manifestations : autocritique globale ; récit réduit aux détails pratiques ; difficulté à nommer la préoccupation en consultation. Trois appuis : reprendre une formulation simple de la difficulté sans jugement de personne ; choisir ce qu'elle veut dire à Lucie sans devoir tout révéler ; lire ou remettre au thérapeute la phrase qu'elle peine à dire. Ne pas transformer la confidentialité en secret à abolir ni présenter la sœur comme un recours clinique. La transmission effective au soignant doit être montrée et reprise ensuite.",
+      "ending": "Fanny parle du papier ivoire avec Lucie, puis lui dit seulement que les rencontres lui coûtent beaucoup en ce moment. Au rendez-vous suivant, elle remet sa note au thérapeute, qui prend le temps de l'entendre sans la réduire au retard du livre.",
+      "next": "La préoccupation et la honte ont été exprimées en consultation. Le thérapeute et Fanny peuvent reprendre ce qu'elle croit dans les situations tendues ; le bon à tirer arrive entre les deux séances.",
+      "source_refs": [
+        "oms-cddr",
+        "phillips-menard-2011"
+      ],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 8,
+      "focus": "Recul variable selon l’état de détresse",
+      "scene": "En consultation, Fanny peut dire que les gestes observés à l'imprimerie avaient peut-être un autre sens. Deux jours plus tard, pendant la relecture du bon à tirer, une participante s'écarte pour regarder une page et cette possibilité lui semble soudain inaccessible. Elle croit avec force avoir compris pourquoi, puis se reproche d'avoir dit autre chose au thérapeute.",
+      "development": "Expliquer la variabilité de l'insight, distincte d'un manque d'intelligence ou de sincérité. Trois manifestations : possibilité d'envisager une autre interprétation dans un contexte ; conviction accrue dans la détresse ; jugement contre soi devant cette différence. Trois appuis : rapporter au thérapeute les deux moments sans chercher un sous-diagnostic ; accueillir le niveau de détresse sans débattre du verdict olfactif ; permettre une réponse différée à la question littéraire lorsque Fanny le choisit. Aucun proche ne doit lui faire admettre immédiatement qu'elle se trompe. Ne pas attribuer de spécificateur 6B22.0 ou 6B22.1.",
+      "ending": "Fanny dit à Nora qu'elle doit reprendre la phrase plutôt que répondre trop vite. Elle réserve une correction de ponctuation pour le lendemain et parle effectivement au thérapeute de cette variation, au lieu de réécrire ce qu'elle avait dit en séance.",
+      "next": "Le bon à tirer attend cette dernière correction. Fanny garde son suivi ; au rendez-vous médical déjà prévu, elle veut aussi clarifier ce que désigne exactement l'intitulé français de son diagnostic.",
+      "source_refs": [
+        "oms-cddr",
+        "phillips-menard-2011"
+      ],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 9,
+      "focus": "Périmètre et limites de l’évaluation clinique",
+      "scene": "Avant son rendez-vous habituel chez le médecin, Fanny a trouvé une page sur la phantosmie en recherchant les mots « perception olfactive ». Elle se demande si elle devrait demander des examens supplémentaires ou suivre des exercices pour l'odorat. Elle apporte la page, ainsi que la question qu'elle avait notée, tandis que les épreuves du recueil restent dans son sac.",
+      "development": "Distinguer le sens de 6B22, l'évaluation médicale et les troubles sensoriels. Trois difficultés à éclaircir : un intitulé qui induit une confusion ; la recherche d'une explication uniquement sensorielle ; l'idée erronée qu'un diagnostic connu expliquerait toute plainte future. Trois appuis : faire préciser au médecin la préoccupation d'émettre une odeur et ce qui a déjà été évalué ; lui demander quels changements justifieraient un nouvel avis ; revenir avec le thérapeute sur les démarches qui visent une certitude impossible. La consultation a lieu, sans redécouvrir le diagnostic ni dresser une batterie d'examens. Ne reproduire aucun entraînement olfactif et ne faire aucun test par Nora.",
+      "ending": "Le médecin distingue le diagnostic établi des troubles de l'odorat et répond aux questions de suivi. Fanny conserve un interlocuteur médical pour un changement de santé ; elle ne commence pas les exercices trouvés en ligne et termine ensuite sa correction de ponctuation.",
+      "next": "Le bon à tirer est validé après cette correction. L'impression peut commencer. L'évaluation reste un repère clinique coordonné ; elle ne fournit ni certificat d'absence d'odeur à montrer au groupe ni explication de toute difficulté future.",
+      "source_refs": [
+        "oms-cddr",
+        "nidcd-smell-disorders",
+        "phillips-menard-2011"
+      ],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 10,
+      "focus": "Retentissement masqué par le travail accompli",
+      "scene": "Le message de l'imprimeur confirme que Les seuils est sous presse. Nora félicite Fanny pour la relecture ; Fanny pense aux heures prises sur une soirée avec Lucie et au plaisir de lecture qu'elle a perdu en restant préoccupée. Dans une réunion à la bibliothèque, on lui propose d'ajouter encore une animation avant la présentation du livre.",
+      "development": "Expliquer qu'un résultat professionnel réussi peut coexister avec un coût fonctionnel important. Trois manifestations : temps relationnel perdu ; énergie absorbée par la préoccupation ; difficulté à apprécier un travail accompli. Trois appuis : décrire concrètement ce coût dans le suivi plutôt que se juger d'après sa productivité ; refuser ou négocier une tâche supplémentaire selon ses ressources ; retrouver un échange littéraire avec Lucie qui ne tourne pas autour d'une assurance corporelle. L'adaptation répond au besoin de cette semaine et ne vaut pas prescription générale. Une souffrance préoccupante est discutée avec les soignants, sans la banaliser parce que le livre avance.",
+      "ending": "Fanny refuse l'animation supplémentaire et conserve la présentation du recueil. Elle convient d'un appel avec Lucie pour choisir deux premières phrases à lire ; Nora réserve la salle de bibliothèque pour la soirée déjà prévue.",
+      "next": "La soirée demeure centrée sur le recueil, sans animation ajoutée. La salle est réservée et les deux sœurs ont un rendez-vous de lecture ; Fanny doit choisir comment elle souhaite être présente dans les échanges préparatoires.",
+      "source_refs": [
+        "oms-cddr",
+        "phillips-menard-2011"
+      ],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 11,
+      "focus": "Autoattention qui entrave les échanges",
+      "scene": "Pendant la préparation de la soirée à la bibliothèque, une participante propose un ordre de lecture inattendu. Fanny a écouté sa propre voix et surveillé sa place dans le groupe ; elle peut raconter où les autres étaient assises, mais a perdu l'idée de l'autrice. La discussion littéraire qu'elle attendait lui échappe à nouveau, malgré les livres presque prêts.",
+      "development": "Distinguer la pensée préoccupante de l'attention tournée vers soi au cours d'un échange. Trois manifestations : suivre ses propres sensations plutôt que le propos ; répondre trop rapidement pour abréger ; retenir des détails de distance au détriment des mots lus. Trois appuis narratifs à discuter dans le suivi : décrire cet effet au thérapeute ; demander à réentendre l'idée littéraire précise ; choisir une tâche de coanimation soutenant l'écoute du texte. Il ne s'agit pas de scanner son corps, d'observer autrui pour prouver une absence d'odeur ou d'improviser une expérience comportementale. La source de cas propose une formulation possible, sans établir un mécanisme universel.",
+      "ending": "Fanny demande que l'ordre de lecture soit repris, puis défend le texte court choisi par Nora, qui lui plaît finalement. Elle souhaite présenter ce travail éditorial le soir venu et demande à Nora de tenir la table d'accueil ; elles vérifient que ce partage leur convient à toutes deux.",
+      "next": "L'ordre des lectures et les rôles sont arrêtés : Nora à la table d'accueil, Fanny pour une présentation brève des choix littéraires. Les quarante-huit exemplaires seront retirés avant la soirée ; cette répartition peut être ajustée d'un commun accord.",
+      "source_refs": [
+        "oms-cddr",
+        "allen-crooks-challacombe-2017"
+      ],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 12,
+      "focus": "Persistance possible après un projet réussi",
+      "scene": "Les quarante-huit exemplaires à couverture jaune sont arrivés et les autrices retrouvent leurs textes sur le papier ivoire. Le soir de la présentation, Fanny pense encore à son odeur supposée avant de parler. Nora est à la table d'accueil ; Fanny regarde la première phrase qu'elle voulait défendre et choisit de présenter brièvement le travail des participantes comme elles l'ont prévu.",
+      "development": "Expliquer qu'un objectif de vie atteint ne permet pas de prédire l'évolution clinique. Trois manifestations de cette coexistence : préoccupation encore présente le jour d'une réussite ; hésitation possible après une interaction agréable ; besoin de suivi qui demeure au-delà de l'événement. Trois appuis : tenir la part d'accueil choisie avec possibilité d'ajustement, sans défi imposé ; faire un retour sur le travail du livre sans le transformer en score de symptômes ; maintenir le rendez-vous de suivi et discuter les besoins suivants. Aucun enthousiasme de la salle ni silence d'une proche n'est présenté comme un verdict olfactif ou une garantie de guérison.",
+      "ending": "Fanny présente les choix de ponctuation et de papier, puis les participantes lisent leurs propres textes. Les exemplaires sont remis et une petite pile reste à la maison de quartier. Elle confirme que la table d'accueil revient à Nora pour cette soirée, puis parle avec Lucie de la prochaine histoire qu'elle aimerait écrire.",
+      "next": "Le recueil imprimé et la part d'accueil choisie sont résolus. Fanny reste animatrice, sœur et lectrice avec des envies qui dépassent ce projet. Le suivi continue ; l'intensité future de la préoccupation et les prochains rôles qu'elle choisira restent ouverts.",
+      "source_refs": [
+        "oms-cddr",
+        "phillips-menard-2011"
+      ],
+      "diagnostic_stage": "known"
+    }
+  ]
+}

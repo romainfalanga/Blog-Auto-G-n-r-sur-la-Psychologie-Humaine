@@ -1,0 +1,192 @@
+{
+  "schema_version": 1,
+  "character_id": "louise",
+  "code": "6A70",
+  "article_format": 2,
+  "bio": "Louise, 53 ans, est secrétaire dans un atelier de réparation de bateaux. Un épisode dépressif unique, déjà diagnostiqué, l’a conduite à réduire ses heures. Elle connaît les noms des coques, corrige au stylo violet et garde ses partitions d’alto dans une boîte rouge. Le chant lui manque, même quand le plaisir ne suit pas. Pour accueillir Claire, une amie qui revient à la chorale, elle cherche une place qui lui ressemble sans redevenir la responsable de tout. Agnès et son médecin traitant l’accompagnent.",
+  "profile_topics": [
+    "Épisode dépressif unique",
+    "Énergie diminuée",
+    "Plaisir émoussé",
+    "Ruminations et dévalorisation",
+    "Participation et suivi"
+  ],
+  "voice": "Louise parle par détails concrets : une voix dans le combiné, un chiffre déplacé, le papier qui résiste à l’agrafeuse. Son humour discret coupe court aux phrases trop générales. Elle sait être sèche sans être froide, aime les harmonies graves et peut discuter longtemps du nom d’un bateau. Les mots cliniques restent ceux du suivi ; elle préfère raconter ce qu’une matinée lui coûte. Faire entendre des échanges incomplets, des préférences et quelques plaisanteries sans transformer chaque réplique en leçon ou en métaphore maritime.",
+  "series_goal": "Accueillir le retour de Claire à la chorale en choisissant une contribution musicale et une présence possibles, sans reprendre les invitations, le buffet ou les clés. La progression conduit d’une envie tenue à distance à deux couplets et un moment assis avec son amie. Le projet aboutit au douzième épisode, tandis que le suivi et les incertitudes cliniques restent ouverts.",
+  "continuity_rules": [
+    "Louise a 53 ans et reste secrétaire de l’atelier de réparation de bateaux. Ses heures ont été réduites après son premier épisode dépressif ; elle ne prend pas en charge une manœuvre, une réparation ni un trajet en bateau pour tester sa récupération.",
+    "Le diagnostic d’épisode dépressif unique est établi avant le premier épisode de récit ; les douze étapes restent known. Aucun épisode antérieur, trouble récurrent, sous-code de gravité, état de rémission ou traitement précis n’est ajouté au canon.",
+    "La série couvre environ huit semaines et suit un seul fil : le retour à la chorale de Claire, partie vivre ailleurs. Elle ne remplace pas l’amie de soutien présente sur place : Agnès, qui travaille certains jeudis, peut limiter sa disponibilité.",
+    "Louise tient son stylo violet au bureau et sa boîte rouge de partitions à la chorale. La facture Avel est corrigée et envoyée à l’épisode 4 ; la rumination de l’épisode 8 porte sur un dossier réellement clos, sans créer une dette ou une erreur administrative nouvelle.",
+    "Agnès connaît le diagnostic parce que Louise le lui a dit ; Marc ne connaît que les horaires et adaptations qui concernent le bureau. Claire ne reçoit une information de santé qu’après la décision explicite de Louise à l’épisode 11. Aucune diffusion au groupe ou à l’employeur n’est supposée.",
+    "Le rendez-vous rapproché sollicité pendant la semaine difficile de l’épisode 10 a réellement lieu à l’épisode 11. Le médecin réévalue et organise le suivi ; un ami ne qualifie pas une récidive et une meilleure journée n’annule pas le besoin de soins.",
+    "Les appuis de chaque article sont des essais du quotidien, des gestes relationnels ou un recours au soignant. Ne pas présenter le chant, une pause, une pensée reformulée ou une répartition des tâches comme protocole de soin, obligation de résultat ou garantie d’évolution favorable.",
+    "La présence partielle, une absence et une émotion agréable peuvent coexister avec des difficultés. L’issue finale confirme uniquement une place et un retour d’amitié : deux couplets puis une chaise, d’autres personnes responsables des invitations, du buffet et des clés, et un suivi maintenu."
+  ],
+  "episodes": [
+    {
+      "number": 1,
+      "focus": "Énergie diminuée dans les gestes familiers",
+      "scene": "Lundi, Louise ouvre le courrier de l’atelier avec son stylo violet. Déplacer la boîte de factures et rappeler un client lui coûte déjà un effort qui n’a rien à voir avec l’ampleur du dossier. Marc croit lui rendre service en ajoutant une enveloppe « puisque c’est presque fini ». Dans son sac, l’invitation au retour de Claire attend encore une réponse.",
+      "development": "Expliquer la baisse d’énergie par le coût inhabituel d’actes familiers, sans la confondre avec la paresse ou le ralentissement des gestes du plan 3. Montrer trois retentissements : l’effort pour commencer l’appel, l’épuisement après une courte tâche et le choix forcé entre deux activités importantes. Préparer trois appuis distincts : réduire un engagement à son contenu nécessaire, ménager une récupération choisie, porter la fatigue persistante au rendez-vous médical déjà prévu. Marc peut reprendre une tâche délimitée ; il ne mesure pas son état et ne promet pas que le repos suffira.",
+      "ending": "Louise termine le rappel client puis refuse l’enveloppe supplémentaire. Elle répond à Agnès qu’elle aimerait accueillir Claire, sans encore dire quelle place elle pourra prendre. Ses heures de travail restent celles déjà réduites avec son suivi.",
+      "next": "Agnès lui apporte le morceau envisagé. Louise a accepté d’écouter, pas de diriger la préparation, et découvre que l’envie de retrouver le chant n’assure pas le retour du plaisir.",
+      "source_refs": [
+        "oms-cddr",
+        "has-depression-adulte"
+      ],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 2,
+      "focus": "Plaisir émoussé dans une activité aimée",
+      "scene": "Chez elle, Louise ouvre la boîte rouge de partitions. Agnès fait écouter le début d’une chanson que Claire réclame depuis des années. Louise reconnaît la ligne d’alto et le souvenir du fou rire qui allait avec ; la chaleur attendue ne vient pas. Elle dit que le morceau est juste, puis craint que son absence d’enthousiasme fasse croire qu’elle ne veut plus revoir Claire.",
+      "development": "Distinguer attachement, intérêt conservé pour un projet et plaisir effectivement ressenti. Montrer trois manifestations possibles : anticipation terne, satisfaction faible pendant l’écoute, culpabilité secondaire de ne pas réagir comme attendu. Celle-ci ne sert pas à diagnostiquer la culpabilité excessive du plan 6. Trois appuis à développer : décrire son ressenti sans jouer la joie, essayer un bref contact musical sans objectif de plaisir, convenir avec Agnès d’une présence où le silence est permis. Situer ces essais dans le suivi : aimer une activité ou y revenir ne remplace pas les soins.",
+      "ending": "Elle écoute la fin sans se forcer à applaudir. Elle garde la partition et choisit de passer à la prochaine répétition pour entendre les voix, même si elle ne sait pas ce qu’elle ressentira.",
+      "next": "Sa venue est décidée. Une question différente apparaît à la répétition : son rythme de parole et de gestes laisse les autres la devancer.",
+      "source_refs": [
+        "oms-cddr",
+        "has-depression-adulte",
+        "nice-ng222"
+      ],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 3,
+      "focus": "Ralentissement des gestes et des réponses",
+      "scene": "Dans la salle de chorale, Louise cherche le signet jaune de la boîte rouge. Elle ouvre les attaches lentement ; quand elle commence à répondre à la cheffe, une autre choriste a déjà parlé. Agnès tend la main vers la boîte, puis attend que Louise dise si elle souhaite de l’aide. Rien n’est pressé, mais Louise sent combien le rythme du groupe la dépasse.",
+      "development": "Expliquer le ralentissement psychomoteur comme un changement pouvant être observable, distinct d’un simple sentiment de fatigue. Trois manifestations ancrées : gestes plus lents avec les attaches, délai avant une réponse et temps supplémentaire pour passer d’une action à une autre. Ne pas attribuer une maladresse nouvelle ou tout silence à la dépression. Trois appuis : laisser un vrai temps de réponse, demander avant de finir le geste à sa place, signaler au médecin une lenteur qui se maintient ou se modifie. Les proches décrivent une situation sans faire un examen de vitesse.",
+      "ending": "Louise répond elle-même : elle écoutera ce soir depuis une chaise. Elle accepte qu’Agnès porte la boîte, mais garde sa partition et le temps nécessaire pour la ranger.",
+      "next": "Elle a pu rester sans être pressée. Au bureau, un problème moins visible surgit : elle entend les informations d’un client mais n’en conserve pas le fil.",
+      "source_refs": [
+        "oms-cddr",
+        "has-depression-adulte"
+      ],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 4,
+      "focus": "Concentration fragile malgré les compétences",
+      "scene": "Au téléphone, le propriétaire du bateau Avel précise un nom et une adresse de facturation. Louise sait parfaitement établir la facture, mais elle revient au début de sa note après chaque interruption. Le tic du radiateur et la question de Marc lui font perdre l’endroit où elle en était. Elle vérifie le document avant tout envoi et constate que le travail connu demande maintenant plusieurs reprises.",
+      "development": "Centrer l’explication sur l’attention soutenue et la charge de reprise, sans transformer la scène en test de mémoire ou en incapacité générale. Montrer trois manifestations : perdre le fil pendant l’appel, relire sans intégrer la suite, commettre une omission rattrapée à la vérification. Trois appuis possibles : demander une information à la fois au client, protéger un court temps sans interruption avec l’accord de Marc, rapporter au médecin les conséquences professionnelles concrètes. Le contrôle de la facture reste un geste professionnel ordinaire, pas un exercice censé rééduquer le cerveau.",
+      "ending": "Louise rappelle pour confirmer l’adresse, corrige l’omission puis envoie la facture exacte. Elle dit à Marc qu’elle pourra répondre à sa question quand l’envoi sera terminé.",
+      "next": "La facture Avel est close. Agnès demande seulement quel morceau Louise choisirait pour Claire ; cette fois les informations sont claires, mais décider reste difficile.",
+      "source_refs": [
+        "oms-cddr",
+        "has-depression-adulte"
+      ],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 5,
+      "focus": "Indécision devant des choix ordinaires",
+      "scene": "À la boulangerie près du port, Agnès a posé deux partitions sur une table. Les deux chansons conviennent et personne n’attend une réponse urgente. Louise comprend les différences, change plusieurs fois de choix puis s’en veut de ne pas trancher. Elle reste pareillement bloquée quand la serveuse lui demande ce qu’elle prendra. La difficulté déborde donc la seule préparation du retour.",
+      "development": "Distinguer l’indécision dépressive d’un manque d’information et du désaccord normal. Montrer trois manifestations : choix répété sans élément nouveau, crainte disproportionnée de choisir mal pour une petite décision, épuisement qui pousse à laisser tout décider. Trois appuis : reconnaître que le choix est réversible, choisir une option assez acceptable plutôt qu’une certitude parfaite, confier à quelqu’un un choix délimité sans abandonner toutes ses préférences. Présenter ces appuis comme essais quotidiens ; une difficulté persistante qui entrave les activités entre dans la discussion clinique.",
+      "ending": "Louise retient la chanson dont la partie d’alto lui est la plus familière. Elle laisse à Agnès la commande des boissons mais précise qu’elle veut un thé, et conserve ainsi une préférence même en acceptant une aide.",
+      "next": "Le morceau est fixé. En retrouvant une ancienne annotation dans sa partition, Louise transforme un petit retard administratif passé en jugement sur toute sa valeur.",
+      "source_refs": [
+        "oms-cddr",
+        "has-depression-adulte",
+        "nice-ng222"
+      ],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 6,
+      "focus": "Dévalorisation et culpabilité disproportionnée",
+      "scene": "La partition porte au crayon « salle réglée jeudi ». Louise se rappelle un virement de location envoyé en retard, plusieurs années auparavant, sans conséquence restée ouverte. Elle raconte à Agnès qu’elle fait toujours du tort aux gens et qu’une autre aurait mieux mérité sa place. Agnès comprend qu’il ne s’agit plus de régler une facture ; le dossier est clos, la condamnation de Louise continue.",
+      "development": "Relier la scène aux jugements de faible valeur et à la culpabilité excessive, tout en conservant les faits de l’erreur ancienne. Trois manifestations : généraliser un retard à tous ses actes, se définir comme nuisible, écarter les éléments qui limitent sa responsabilité. Ne pas qualifier ainsi un reproche portant seulement sur le fait d’être malade. Trois appuis : séparer le fait réparé du verdict sur soi, entendre une réponse factuelle et chaleureuse sans débat interminable, apporter ce type de pensée au médecin pour discuter l’aide adaptée. Agnès n’a pas à devenir thérapeute ni à fournir chaque soir une preuve de valeur.",
+      "ending": "Louise ne se persuade pas soudain qu’elle est formidable. Elle peut cependant dire que le retard a été réparé et accepter que la conversation s’arrête. Elle garde la place d’alto qu’elle avait choisie.",
+      "next": "Le jugement perd un peu de place dans cet échange sans disparaître. La nuit suivante, Louise se réveille bien avant le jour ; sa disponibilité diurne devient le sujet suivant.",
+      "source_refs": [
+        "oms-cddr",
+        "has-depression-adulte",
+        "nice-ng222"
+      ],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 7,
+      "focus": "Sommeil perturbé et retentissement diurne",
+      "scene": "Avant que le port s’éclaire, Louise est déjà réveillée et n’arrive pas à retrouver le sommeil. Au matin, la tasse ébréchée reste froide pendant qu’elle hésite à repartir se coucher. Le soir même une répétition est prévue. Elle connaît la chanson mais peine à suivre une conversation après cette nuit, et n’a pas envie que la chorale devienne une épreuve de résistance.",
+      "development": "Montrer une perturbation du sommeil possible, sans en faire le signe d’un sous-type ou d’une cause unique. Trois manifestations : réveil précoce vécu comme subi, difficulté à reprendre une activité au matin, disponibilité moindre le soir. Trois appuis : noter brièvement ce qui a changé pour préparer le rendez-vous, conserver des repères de journée réalistes discutés dans le suivi, renoncer à l’obligation de tenir toute la soirée. Si le problème se prolonge ou change, Louise en parle au médecin. Aucun protocole de restriction du sommeil, produit à prendre ou automédication ne doit apparaître.",
+      "ending": "Elle avertit Agnès qu’elle ne viendra que pour entendre le premier passage, puis décide finalement de rester chez elle quand la fatigue s’accentue. Elle prépare quelques notes de sommeil pour sa consultation prévue.",
+      "next": "L’absence est annoncée et ne crée pas une énigme pour le groupe. Dans le calme de la maison, Louise se remet pourtant à repasser mentalement ses erreurs, ce qui appelle un autre angle que le sommeil.",
+      "source_refs": [
+        "oms-cddr",
+        "has-depression-adulte"
+      ],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 8,
+      "focus": "Ruminations sur les erreurs passées",
+      "scene": "En pliant un torchon dans sa cuisine, Louise repasse l’appel du client d’Avel, bien que la facture soit partie sans erreur. Elle rejoue le ton de sa propre voix, cherche ce qu’il a dû penser, puis recommence. Le torchon reste dans ses mains et la réponse à Claire attend sur son téléphone. La pensée occupe la soirée sans résoudre de problème nouveau.",
+      "development": "Expliquer la rumination comme une répétition négative qui peut être associée à la dépression, sans l’assimiler à toute réflexion, à une obsession ou à une cause unique du trouble. Trois manifestations : revenir au même passage, confondre examen des faits et recherche impossible de certitude, perdre le contact avec une activité ou une relation en cours. Trois appuis : nommer la boucle sans se reprocher de penser, distinguer une action réellement restante d’un dossier clos, revenir à un geste choisi puis décrire la persistance au soignant. Aucun ordre de chasser les pensées, rituel de neutralisation ou séance de TCC improvisée par Agnès.",
+      "ending": "Louise constate que la facture est close et pose le torchon plié. Elle n’obtient pas la certitude d’avoir été irréprochable, mais commence une phrase pour Claire sans attendre cette certitude.",
+      "next": "Le brouillon existe mais n’est pas envoyé. Le silence relationnel qui s’allonge devient perceptible lorsque Claire laisse un message affectueux.",
+      "source_refs": [
+        "oms-cddr",
+        "nice-ng222",
+        "has-depression-adulte"
+      ],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 9,
+      "focus": "Retrait relationnel malgré le désir de lien",
+      "scene": "Claire laisse un message vocal : elle aimerait retrouver Louise avant la soirée de chorale, même pour un café. Louise réécoute sa voix avec tendresse puis retourne le téléphone. Répondre lui semble demander une personne plus vive qu’elle. Agnès passe devant chez elle avec la boîte rouge et propose de la déposer ; elle dit aussi qu’elle travaillera jeudi et ne pourra pas rester.",
+      "development": "Montrer le retrait comme retentissement possible plutôt que comme preuve d’indifférence. Trois manifestations : reporter une réponse désirée, éviter un rendez-vous par anticipation de son coût, voir les occasions de contact se raréfier. Trois appuis : proposer un contact précis et facultatif, permettre une réponse brève sans compte rendu de santé, choisir une présence compatible avec les limites des deux personnes. Les proches peuvent dire qu’ils tiennent à elle sans relances en rafale ni contrôle d’activité. Le contact social et les essais inspirés de l’activation ne sont pas présentés comme un traitement autonome.",
+      "ending": "Louise envoie à Claire qu’elle souhaite la voir à la chorale mais ne peut pas promettre le café avant. Elle accepte le dépôt de la boîte et respecte le départ d’Agnès, sans demander qu’elle reste de garde.",
+      "next": "Claire sait que le lien compte et ne multiplie pas les demandes. Louise traverse ensuite une semaine où cette possibilité lui paraît pourtant définitivement hors de portée.",
+      "source_refs": [
+        "oms-cddr",
+        "has-depression-adulte",
+        "nice-ng222"
+      ],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 10,
+      "focus": "Désespoir et avenir qui se rétrécit",
+      "scene": "Pendant une semaine plus difficile, Louise regarde la date du retour de Claire et dit à Agnès que rien ne changera jamais. Elle envisage de donner sa boîte de partitions, comme si le futur ne pouvait contenir aucune autre place pour elle. Agnès entend cette conviction nouvelle et lui propose de contacter son médecin. Louise appelle effectivement le cabinet et obtient un échange puis un rendez-vous rapproché.",
+      "development": "Centrer l’explication sur le désespoir et la difficulté à imaginer une possibilité future, distincts du plaisir émoussé au présent et du jugement sur sa valeur. Trois manifestations : transformer le ressenti du jour en avenir certain, renoncer d’avance à des choix pourtant encore ouverts, réduire tous les futurs à une même impasse. Trois appuis : différer une décision durable telle que donner la boîte, partager la conviction avec un interlocuteur choisi, recourir au médecin dans la scène. Agnès accueille la souffrance sans promettre un dénouement heureux ni conclure à une récidive ; la recherche d’aide ne dépend pas de la réussite d’un exercice.",
+      "ending": "Louise garde la boîte chez elle jusqu’au rendez-vous. Elle ne promet pas de venir chanter. Le cabinet lui indique la suite du contact et la possibilité de rappeler si son état s’aggrave ; le soutien d’Agnès reste un appui, le médecin prend le relais clinique.",
+      "next": "Le rendez-vous rapproché a lieu dans l’épisode suivant. Louise y apporte les changements de sommeil, de disponibilité et de perspective plutôt qu’une conclusion déjà faite sur un nouvel épisode.",
+      "source_refs": [
+        "oms-cddr",
+        "has-depression-adulte",
+        "nice-ng222"
+      ],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 11,
+      "focus": "Variations sans conclure à une récidive",
+      "scene": "Dans le cabinet, Louise déplie les notes préparées après les nuits courtes et la semaine difficile. Elle a eu un meilleur moment hier et craint de ne plus avoir le droit de consulter. Le médecin écoute ce qui a changé, ce qui reste difficile au travail et à la maison, et reprend son histoire connue. Louise demande si elle doit dire à Claire qu’elle « recommence une dépression ».",
+      "development": "Expliquer la différence entre une variation vécue, une aggravation à évaluer et la conclusion professionnelle d’un nouvel épisode. Trois manifestations narratives : prendre une journée mieux comme invalidation de la souffrance, prendre une journée pire comme certitude de récidive, se comparer à l’énergie d’avant pour juger toute participation. Trois appuis : raconter les changements et leur retentissement sans comptage diagnostique, vérifier avec le médecin comment poursuivre le suivi et reprendre contact, choisir les mots et destinataires de sa confidence. Le médecin réévalue réellement les besoins et les risques ; ni le récit ni Agnès n’assignent un état de rémission ou une étiquette nouvelle.",
+      "ending": "Louise et son médecin conviennent d’un prochain point et de ce qu’elle peut faire si les difficultés s’accentuent. Elle choisit d’expliquer à Claire qu’elle est suivie après un premier épisode dépressif et qu’elle aimerait chanter une partie, sans détailler ses soins.",
+      "next": "Claire reçoit cette seule confidence de Louise et l’accueille sans demander de bilan. La place à la soirée est arrêtée : deux couplets possibles, puis une chaise, tandis que d’autres gardent clés et buffet.",
+      "source_refs": [
+        "oms-cddr",
+        "has-depression-adulte",
+        "nice-ng222"
+      ],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 12,
+      "focus": "Participation avec un retentissement encore présent",
+      "scene": "Le soir du retour, Claire reconnaît la boîte rouge sur la chaise réservée à Louise. Louise chante les deux couplets qu’elle a choisis, s’assoit pendant la suite et ne traverse pas la salle pour réparer un détail du buffet. Elle est heureuse de revoir Claire par instants, encore fatiguée, parfois absente au milieu des voix. Quand quelqu’un lui demande de reprendre les invitations du trimestre, elle sent le vieux rôle revenir.",
+      "development": "Centrer le dernier article sur le fonctionnement : participer peut rester coûteux et limité, même lorsqu’un projet aboutit. Trois manifestations : effort invisible derrière un passage réussi, capacité différente selon la tâche ou le moment, besoin d’aide qui coexiste avec des compétences intactes. Trois appuis : définir sa participation par ce qui compte pour elle, accepter une répartition réelle où les autres restent responsables de leur part, maintenir le point médical prévu indépendamment du résultat de la soirée. Distinguer reprise d’un lien, état clinique et guérison ; ni applaudissements ni absence ponctuelle ne les mesurent.",
+      "ending": "Louise refuse les invitations du trimestre et rejoint Claire sur deux chaises au bord du groupe. Le retour de son amie est accueilli, elle a donné sa voix sans reprendre l’organisation. Elle rapporte sa boîte rouge chez elle, garde son rendez-vous et laisse ouverte sa façon de participer la semaine suivante.",
+      "next": "Enjeu de série résolu : Claire a retrouvé sa place et Louise a choisi la sienne. Sa vie continue à l’atelier et à la chorale ; les difficultés actuelles et leur évolution restent suivies sans pronostic tiré de cette soirée.",
+      "source_refs": [
+        "oms-cddr",
+        "has-depression-adulte",
+        "nice-ng222"
+      ],
+      "diagnostic_stage": "known"
+    }
+  ]
+}

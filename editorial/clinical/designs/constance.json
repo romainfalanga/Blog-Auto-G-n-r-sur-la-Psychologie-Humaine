@@ -1,0 +1,147 @@
+{
+  "schema_version": 1,
+  "character_id": "constance",
+  "code": "6A73",
+  "article_format": 2,
+  "bio": "Constance, 35 ans, est chargée de paie dans une entreprise de paysage. Le trouble anxieux et dépressif mixte donne chez elle une place envahissante aux conséquences possibles d'une erreur, tandis que ses sorties pour photographier les enseignes perdent leur attrait. Son humour précis demeure, comme son goût des disques chinés avec Lucile. Avec sa collègue Johanna, elle veut présenter des règles de remplacement qui permettent de s'absenter plus sereinement. Une évaluation médicale déjà engagée l'aide à comprendre ce qui lui arrive et à choisir la suite.",
+  "profile_topics": [
+    "Trouble anxieux et dépressif mixte",
+    "Pensées répétitives",
+    "Intérêt et plaisir émoussés",
+    "Effort pour continuer",
+    "Évaluation et suivi"
+  ],
+  "voice": "Constance parle par détails concrets, puis ajoute une formule légèrement sèche qui désamorce la solennité. Elle dit « une réunion préparatoire à la réunion préparatoire » quand elle se surprend à tout reprendre. Elle peut aussi demander nettement qu'on la laisse finir ou reconnaître une information manquante. Les photos d'enseignes, les pochettes de disques et son plaisir de repérer une bonne tournure donnent une place à sa curiosité, même quand elle est moins accessible. Sa réserve sur sa santé au bureau reste un choix personnel.",
+  "series_goal": "Avec Johanna, obtenir une présentation puis une mise à disposition de règles de remplacement utilisables par les collègues : relais identifié, consignes retrouvables et question exceptionnelle adressée à la bonne personne. Le projet traverse une première version, un essai, une objection fondée et une présentation finale avec retour d'expérience prévu. Constance conserve en parallèle son lien avec Lucile et une sortie photo choisie. L'aboutissement concerne le partage des responsabilités ; l'évolution clinique reste suivie séparément.",
+  "continuity_rules": [
+    "Constance a 35 ans, travaille dans la paie d'une entreprise de paysage et porte avec Johanna le projet de règles de remplacement. Aucune scène ne fournit de règle juridique, de calcul de paie ou de contournement d'une procédure obligatoire.",
+    "Une évaluation par le médecin est déjà engagée avant l'ouverture. Épisodes 1 et 2 : under_assessment, sans nom du diagnostic dans la bouche du personnage ou de ses proches. Épisode 3 : diagnosis_explained par le médecin. Épisodes 4 à 12 : known, avec poursuite du suivi.",
+    "Le trouble associe humeur et anxiété dans une expérience globale. Il ne résulte pas d'une addition domestique de signes et n'équivaut pas à un épisode dépressif complet accompagné d'un TAG. Les difficultés ponctuelles de sommeil, d'attention et d'autocritique ne deviennent pas toutes durablement présentes ensemble.",
+    "Le médecin examine durée, retentissement, histoire, facteurs somatiques, substances ou médicaments, antécédents d'élévation de l'humeur et rapport aux événements de vie. Le projet professionnel n'est pas inventé comme cause unique. Un changement nouveau peut appeler une autre appréciation.",
+    "Johanna est une collègue avec son propre travail et ses limites ; Lucile est une amie adulte qui chine et marche avec Constance. Elles ne diagnostiquent pas, ne surveillent pas son humeur et ne conditionnent pas leur présence à une amélioration. Les informations médicales demeurent choisies par Constance.",
+    "Le suivi convenu à l'épisode 3 reste en cours, même après une bonne sortie ou un succès au travail. L'épisode 11 réévalue les variations. Le dernier épisode résout la présentation et les relais, sans annoncer une guérison ni un futur trouble plus sévère.",
+    "Les appuis proposés sont des essais personnels ou des sujets à discuter avec le professionnel, et non une psychothérapie improvisée. Les contrôles professionnels requis restent en place. Une sensation physique nouvelle ou préoccupante appelle une évaluation adaptée ; aucun danger n'est traité par un exercice de détente."
+  ],
+  "episodes": [
+    {
+      "number": 1,
+      "focus": "Retentissement masqué par le surcroît d'effort",
+      "scene": "Après une paie terminée selon les contrôles habituels, Constance reste devant le dossier fermé alors que Johanna l'attend pour déjeuner. Elle imagine encore les effets d'une erreur introuvable, et le petit appareil photo posé dans son sac lui semble soudain encombrant. Le médecin lui a déjà demandé de revenir raconter comment ses journées se passent ; elle ne sait pas quoi lui dire puisque le travail est fait.",
+      "development": "Faire comprendre le coût d'un fonctionnement extérieurement préservé, sans conclure encore sur sa cause. Trois manifestations à développer : attention qui reste retenue après la fin de la tâche ; pause mangée par l'appréhension ; disponibilité appauvrie pour une activité personnelle. Trois appuis possibles : décrire un exemple de coût au médecin ; distinguer les contrôles réellement nécessaires du temps passé sans élément neuf ; convenir avec Johanna d'un relais circonscrit pour pouvoir prendre la pause. Aucun inventaire diagnostique ni suppression de contrôle professionnel.",
+      "ending": "Constance ferme le dossier et rejoint Johanna pour un déjeuner tardif. Elle ne se sent pas soudain légère, mais relève sur une feuille ce que cette matinée lui a coûté. Elles choisissent seulement la première rubrique à transmettre pour le projet de remplacement.",
+      "next": "Une première rubrique existe, et Constance a un exemple à apporter au médecin. Le dimanche prévu avec Lucile permettra de voir ce qui se passe lorsque la paie n'occupe plus la scène.",
+      "source_refs": ["oms-cddr", "nice-depression-constance"],
+      "diagnostic_stage": "under_assessment"
+    },
+    {
+      "number": 2,
+      "focus": "Émoussement du plaisir familier",
+      "scene": "À la brocante, Lucile déniche un disque dans une pochette orange que Constance cherchait depuis longtemps. Constance reconnaît la trouvaille, plaisante sur le prix et n'éprouve presque pas l'élan attendu. Une ancienne enseigne de cinéma, leur prochain arrêt photo, lui paraît aussi loin qu'un déplacement professionnel. Elle entend pourtant l'inquiétude revenir au sujet du mois suivant.",
+      "development": "Distinguer une activité choisie qui perd de son attrait d'une préférence qui aurait simplement changé, en laissant l'évaluation ouverte. Trois manifestations : plaisir moins accessible malgré un objet apprécié ; difficulté à se projeter dans une sortie familière ; préoccupation qui s'invite dans un temps libre. Trois appuis : choisir une sortie plus courte sans exiger de joie ; dire à Lucile ce qui est possible aujourd'hui ; raconter au médecin ce changement par rapport à ses habitudes. Ne pas appeler cette scène seule une dépression ou le futur trouble mixte.",
+      "ending": "Constance achète le disque pour le réécouter plus tard et propose de remettre la promenade photo au samedi suivant. Elle dit à Lucile qu'elle a besoin de parler de cet écart avec le médecin. Lucile accepte le report sans transformer le disque en test de plaisir.",
+      "next": "Le disque orange reste chez Constance et la sortie photo est reportée, pas annulée. Elle apporte à la consultation le déjeuner perdu et la brocante devenue terne, deux contextes qui ne donnent pas encore une réponse.",
+      "source_refs": ["oms-cddr", "nice-depression-constance"],
+      "diagnostic_stage": "under_assessment"
+    },
+    {
+      "number": 3,
+      "focus": "Appréciation clinique du tableau mixte",
+      "scene": "En consultation, Constance pose sa feuille à côté d'un ticket de brocante retrouvé dans son sac. Le médecin reprend avec elle l'histoire des difficultés, leur durée, leur présence hors du bureau et ce qui a déjà été examiné. Constance attend une explication qui tienne ensemble la tension et la vie devenue moins engageante, sans qu'un ticket ou une erreur supposée tranche à sa place.",
+      "development": "Le médecin explique ici pour la première fois le trouble anxieux et dépressif mixte, à partir de son appréciation globale : plusieurs manifestations anxieuses et un versant dépressif ont un retentissement réel, sans que chacun constitue un autre trouble complet. Trois manifestations illustrables : coexistence de l'appréhension et de l'élan diminué ; effort caché par les résultats ; difficultés dans plusieurs contextes. Trois appuis : reformuler l'explication avec ses mots ; demander ce qui reste à examiner ; convenir des options d'aide et du suivi. Ne pas détailler un barème, exclure d'autres causes par simple déclaration ou donner un traitement standard du 6A73.",
+      "ending": "Constance reformule ce qu'elle a compris et demande comment reparler d'une difficulté qui changerait. Le médecin répond, poursuit l'examen des explications pertinentes et convient avec elle d'une aide psychologique ainsi que d'un rendez-vous de suivi. Elle garde le compte rendu pour elle.",
+      "next": "Le diagnostic est expliqué et le suivi est organisé. Constance sait qui recontacter et n'a pas promis d'en informer le bureau. Elle décide d'essayer une soirée d'écoute musicale à la médiathèque avant de reprendre le travail avec Johanna.",
+      "source_refs": ["oms-cddr", "nice-depression-constance"],
+      "diagnostic_stage": "diagnosis_explained"
+    },
+    {
+      "number": 4,
+      "focus": "Tension anxieuse pendant les pauses",
+      "scene": "À la médiathèque, un extrait du disque orange est annoncé. Constance a une place, aucune tâche à rendre et les épaules toujours remontées. Elle change deux fois la position de son sac et se surprend à souhaiter que la séance finisse alors qu'elle avait choisi de venir. L'absence de plaisir immédiat ajoute du découragement à cette attente tendue.",
+      "development": "Centrer l'épisode sur la difficulté à se détendre quand les circonstances permettent une pause, sans assimiler toute sensation corporelle à l'anxiété. Trois manifestations : tension musculaire familière déjà évoquée au médecin ; sensation d'être sur le qui-vive ; envie d'écourter un moment pourtant souhaité. Trois appuis : prendre une posture ou une place plus confortable ; ramener doucement l'attention vers un son ou un détail de la pièce ; transmettre au soignant une gêne persistante ou nouvelle. Aucune respiration obligatoire, aucune promesse que le corps se calme, aucune banalisation de symptômes préoccupants.",
+      "ending": "Constance choisit de rester pour un extrait supplémentaire puis de rentrer, plutôt que de se fixer la séance entière comme épreuve. Elle retrouve un passage qu'elle reconnaît sans en tirer de verdict sur sa santé. Elle le note sur la pochette orange.",
+      "next": "La pochette porte maintenant le nom d'un morceau à faire écouter à Lucile. Au bureau, Johanna a une remarque réelle sur la première rubrique de remplacement ; Constance devra la traiter sans poursuivre toutes ses conséquences imaginées.",
+      "source_refs": ["oms-cddr", "oms-stress-2020"],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 5,
+      "focus": "Pensées répétitives sans solution nouvelle",
+      "scene": "Johanna signale qu'une ancienne version de la rubrique est encore dans un dossier d'archives. Elles vérifient ensemble laquelle est utilisée et corrigent le rangement prévu. Constance repart pourtant vers les salariés qui auraient pu chercher au mauvais endroit, puis vers ceux qui pourraient un jour perdre une consigne. L'incident traité devient une longue série de procès imaginaires.",
+      "development": "Expliquer la différence entre travailler sur une question définie et revenir sans information nouvelle sur ses conséquences possibles. Trois manifestations : retour mental à un fait déjà clarifié ; déplacement vers d'autres scénarios ; découragement devant une tâche qui semble ne jamais être terminée. Trois appuis : noter le fait vérifié et la question encore ouverte, s'il y en a une ; choisir une action utile limitée à cette question ; parler de la boucle au professionnel plutôt que demander à Johanna des garanties illimitées. Préserver les contrôles ordinaires, sans qualifier cette scène de TOC.",
+      "ending": "Constance retire l'ancienne version avec Johanna et inscrit une seule question de rangement à décider. Lorsque la pensée revient, elle n'y trouve pas de nouvelle démarche à faire ce jour-là. Elle part acheter son déjeuner en gardant le dossier à sa place.",
+      "next": "La bonne version est identifiée et la question de rangement est isolée. Une lecture d'essai est prévue ; le prochain obstacle sera de suivre ce qui est effectivement écrit lorsque les pensées captent encore son attention.",
+      "source_refs": ["oms-cddr", "oms-stress-2020"],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 6,
+      "focus": "Attention détournée par la préoccupation",
+      "scene": "Pendant une lecture d'essai sans données personnelles, Johanna demande à Constance où chercher le nom du relais. Constance vient de parcourir la phrase mais ne saurait pas la redire : elle pensait déjà à l'avis du responsable et à l'inutilité possible de toute cette préparation. Elle accuse d'abord la formulation, puis reconnaît qu'elle n'était plus dans la ligne.",
+      "development": "Montrer une difficulté d'attention située et à discuter, sans en faire un déficit intellectuel ni un nouveau diagnostic. Trois manifestations : lecture sans maintien du sens ; perte de la question de Johanna ; effort accru pour reprendre le fil. Trois appuis : revenir à une question à la fois sur le document d'essai ; reformuler ce qui a été compris avant de corriger ; signaler au suivi si cette difficulté se répète ou s'étend. Les outils n'évaluent pas la cognition et ne remplacent pas une vérification professionnelle requise.",
+      "ending": "Constance demande que Johanna redise la question et trouve la rubrique sans modifier tout le texte. Elles distinguent une phrase à simplifier d'un moment où Constance avait perdu le fil. L'essai est assez avancé pour être transmis au responsable.",
+      "next": "La rubrique est testée et une phrase reste à simplifier. Le dossier peut attendre la réunion prévue ; une nuit hachée montrera cependant que l'attention et l'énergie ne dépendent pas uniquement du document.",
+      "source_refs": ["oms-cddr", "nice-depression-constance"],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 7,
+      "focus": "Sommeil et fatigue à réévaluer",
+      "scene": "Un matin, Constance laisse son appareil photo sur la table parce qu'elle a dormi par fragments. Le bruit d'une livraison l'avait réveillée, puis les pensées s'étaient mises à occuper l'attente. Devant le petit déjeuner, tout lui paraît plus lourd ; elle ne sait pas quelle part vient de la nuit, de la tension ou de son humeur. Elle possède toujours les coordonnées convenues pour le suivi.",
+      "development": "Explorer une variation de sommeil et de disponibilité comme information à examiner, sans diagnostiquer une insomnie ni attribuer automatiquement la fatigue au 6A73. Trois manifestations : difficulté à retrouver un repos après un réveil ; fatigue le matin ; tâche personnelle réduite parce qu'elle demande davantage. Trois appuis : rapporter simplement la nuit et son contexte ; ajuster une exigence facultative de la journée ; discuter avec le professionnel si la gêne persiste, se répète ou s'accompagne d'un changement préoccupant. Aucun protocole de restriction du sommeil ou conseil médicamenteux.",
+      "ending": "Constance garde le rendez-vous médical prévu et prépare un exemple à y apporter ; elle sait qu'elle peut recontacter plus tôt si nécessaire. Pour ce matin, elle prend seulement une photo depuis la fenêtre et remet la promenade longue à un jour choisi avec Lucile.",
+      "next": "La mauvaise nuit sera reprise au suivi ; aucune explication n'a été imposée. La photo depuis la fenêtre offre à Lucile un prétexte de conversation, mais Constance risque de transformer cet essai modeste en nouveau motif de reproche envers elle-même.",
+      "source_refs": ["oms-cddr", "nice-depression-constance"],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 8,
+      "focus": "Autocritique qui entretient le découragement",
+      "scene": "Lucile regarde la photo de la fenêtre et remarque un reflet amusant sur une enseigne. Constance répond qu'elle n'a même plus le courage de traverser sa rue, puis se reprend : la phrase est plus dure que ce qu'elle aurait dit à une amie. Le disque orange est enfin posé près de la platine, mais elle hésite à le faire écouter, comme s'il fallait d'abord mériter une soirée agréable.",
+      "development": "Centrer l'aspect sur un jugement sévère à propos d'une difficulté précise et sur son effet décourageant, sans inventer une conviction globale et persistante d'indignité. Trois manifestations : réduction d'une action faite à ce qui manque ; comparaison défavorable avec son fonctionnement habituel ; plaisir ajourné au nom d'une exigence envers soi. Trois appuis : reformuler le fait sans verdict sur sa personne ; essayer une réponse moins dure qu'elle accepterait d'adresser à quelqu'un d'autre ; apporter cette façon de se parler à l'aide professionnelle convenue. Lucile peut relever une phrase sans contester de force ce que Constance ressent.",
+      "ending": "Constance admet que la photo peut être un vrai choix ce jour-là, même si elle aurait voulu sortir. Elle met le disque et laisse Lucile préférer un autre morceau. Elles se donnent rendez-vous pour une courte promenade photo le samedi, avec la possibilité de rentrer tôt.",
+      "next": "Le disque a été écouté et une sortie courte est convenue. Constance n'a pas besoin de démontrer qu'elle va mieux pour s'y rendre, mais l'approche du rendez-vous rend visible son envie de se retirer.",
+      "source_refs": ["oms-cddr", "oms-stress-2020"],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 9,
+      "focus": "Retrait devant les relations attendues",
+      "scene": "À l'heure de retrouver Lucile pour les photos, Constance prépare un message d'annulation. Elle redoute de gâcher la promenade avec son humeur, et l'envie de photographier reste faible. Elle n'a pourtant pas cessé de tenir à cette amie. Au coin de la rue, Lucile attend sans connaître le message encore non envoyé.",
+      "development": "Montrer comment appréhension et moindre élan peuvent converger vers un retrait qui rétrécit les occasions de lien. Trois manifestations : anticiper qu'on sera un poids ; préparer l'annulation avant d'avoir parlé ; hésiter à rejoindre une relation encore souhaitée. Trois appuis : annoncer le format de présence possible ; choisir avec l'amie un trajet réversible et bref ; discuter de retraits répétés avec le professionnel. Ce choix de promenade reste une adaptation consentie, pas une exposition prescrite ni une injonction à sortir malgré tout.",
+      "ending": "Constance rejoint Lucile et dit qu'elle souhaite une seule rue aujourd'hui. Elles photographient l'enseigne du vieux cinéma puis se séparent au carrefour convenu. Lucile ne demande ni bilan de plaisir ni promesse pour la semaine suivante.",
+      "next": "Une photo du cinéma rejoint celle de la fenêtre ; le lien demeure sans programme imposé. La réunion au travail arrive avec une objection concrète qui demandera autre chose qu'un effort pour supporter l'inquiétude.",
+      "source_refs": ["oms-cddr", "nice-depression-constance"],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 10,
+      "focus": "Inquiétude et contraintes concrètes",
+      "scene": "En réunion d'essai, le responsable demande qui pourrait réellement remplacer Johanna pendant une absence simultanée. Cette possibilité manque dans la première version. Constance sent monter la tension puis le découragement : elle croit reconnaître sa boucle habituelle, mais la question cette fois n'a pas encore de réponse. Johanna confirme qu'elle ne peut pas être le relais de tous les cas.",
+      "development": "Distinguer un problème réel à traiter de l'extension anxieuse de ses conséquences, sans expliquer toute difficulté par la santé de Constance. Trois manifestations : alarme devant une lacune réelle ; passage de cette lacune à l'idée que tout le projet est inutile ; hésitation à demander une décision à la personne responsable. Trois appuis : préciser l'information effectivement absente ; demander un arbitrage organisationnel circonscrit ; laisser l'incertitude restante comme sujet à discuter au suivi si elle devient envahissante. Les responsabilités de l'entreprise ne sont pas remplacées par une technique de gestion émotionnelle.",
+      "ending": "Le responsable nomme le circuit de décision pour les absences simultanées et accepte une date de retour d'expérience après l'essai. Constance et Johanna ajoutent cette consigne sans refaire toutes les rubriques. La présentation est confirmée, avec ce point encore à éprouver en pratique.",
+      "next": "Le manque concret a reçu une réponse et Johanna a posé sa limite. La présentation peut avoir lieu ; Constance apporte au rendez-vous médical suivant des journées différentes, y compris des difficultés qui demeurent malgré cet arbitrage.",
+      "source_refs": ["oms-cddr", "oms-stress-2020"],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 11,
+      "focus": "Variations et réévaluation dans le temps",
+      "scene": "Au rendez-vous de suivi, Constance ne sait pas s'il faut commencer par la sortie photo réussie ou par une nouvelle matinée pesante. Elle craint qu'un bon samedi rende l'aide superflue, puis qu'un matin difficile annule tout ce qui a changé. Elle a gardé la photo du cinéma, l'exemple de nuit hachée et les décisions du travail, sans leur attribuer la même signification.",
+      "development": "Faire comprendre que le suivi porte sur une trajectoire, ses contextes et son retentissement plutôt que sur le verdict d'une journée. Trois manifestations : juxtaposition de moments plus accessibles et plus difficiles ; tentation de conclure trop vite dans les deux sens ; incertitude sur ce qui a besoin d'aide aujourd'hui. Trois appuis : apporter des exemples contrastés ; demander ce qui doit être réévalué et quand recontacter ; ajuster avec le professionnel l'aide engagée. Le médecin reprend sommeil, humeur, anxiété, santé et contexte sans déduire rémission ou aggravation diagnostique d'un seul événement.",
+      "ending": "Constance et le médecin font le point sur l'aide engagée, réexaminent les questions encore ouvertes et conviennent de poursuivre le suivi. Elle repart avec un prochain contact défini, sans avoir reçu la présentation professionnelle comme preuve d'amélioration. Elle peut maintenant préparer ce qu'elle souhaite réellement dire aux collègues.",
+      "next": "Le suivi se poursuit au-delà de la réunion finale. La version de remplacement est prête, la décision sur les absences simultanées est écrite et Constance choisit de présenter le fonctionnement sans raconter son dossier médical.",
+      "source_refs": ["oms-cddr", "nice-depression-constance"],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 12,
+      "focus": "Participation malgré des difficultés persistantes",
+      "scene": "Devant les collègues, Constance commence la présentation avec les mains tendues autour de sa feuille. Elle connaît l'ouverture, mais la question « et si cela ne suffisait pas ? » demeure. Johanna expose la seconde rubrique comme convenu. Constance a réservé sa fin de journée pour retrouver Lucile devant le cinéma ; elle ne veut plus en faire la récompense d'une réunion parfaite.",
+      "development": "Centrer la conclusion sur la possibilité de prendre part à une activité importante avec des appuis, sans utiliser la performance comme mesure de guérison. Trois manifestations : tension encore présente au moment d'agir ; doute qui n'empêche pas toute parole ; disponibilité personnelle à protéger après un effort. Trois appuis : tenir la répartition convenue avec Johanna ; répondre à une question réelle ou l'adresser au relais compétent ; conserver le rendez-vous de suivi et un temps personnel choisi. Aucune affirmation que l'organisation traite à elle seule le trouble.",
+      "ending": "Les règles de remplacement sont présentées, déposées à l'endroit convenu et accompagnées du circuit de décision et d'une date de retour d'expérience. Johanna prend les questions de sa partie. Constance rejoint ensuite Lucile pour une photo du cinéma sous une autre lumière, sans vérifier si ce plaisir prouve quelque chose.",
+      "next": "L'enjeu professionnel est résolu : les collègues disposent d'un fonctionnement partagé à essayer puis à réviser. Constance garde ses relations, ses projets et le suivi déjà prévu ; son évolution clinique reste ouverte, indépendante de cette réussite.",
+      "source_refs": ["oms-cddr", "nice-depression-constance", "oms-stress-2020"],
+      "diagnostic_stage": "known"
+    }
+  ]
+}

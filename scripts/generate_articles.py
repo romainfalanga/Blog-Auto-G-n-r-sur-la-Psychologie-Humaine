@@ -1,6 +1,13 @@
 #!/usr/bin/env python3
 """
-Génère 3 articles de blog quotidiens (1 par catégorie)
+Générateur public historique, désactivé comme point d'entrée.
+
+Les nouveaux parcours sont rédigés par les agents ChatGPT décrits dans
+editorial/agents, pilotés par scripts/editorial_pipeline.py. Aucun appel API
+n'est lancé par cette file. Certains helpers restent importés par les anciens
+outils de migration ; ils sont conservés pour cette compatibilité.
+
+Ancien fonctionnement (archivé) : générer 3 articles quotidiens (1 par catégorie)
 en appelant l'API OpenRouter (Gemini pour la suggestion, GPT pour la rédaction)
 et en créant des fichiers Markdown Hugo.
 
@@ -2805,4 +2812,4 @@ def main():
 
 
 if __name__ == "__main__":
-    main()
+    raise SystemExit("Générateur public historique désactivé. Utiliser scripts/editorial_pipeline.py status, puis attribuer les missions à de vrais agents ChatGPT selon editorial/agents/.")
