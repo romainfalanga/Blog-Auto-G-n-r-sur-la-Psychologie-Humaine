@@ -39,44 +39,57 @@ Ces catégories peuvent aider Margot à nommer certaines exigences. Elles ne sig
 
 ## Comment les drivers contraignants se manifestent-ils en reconversion professionnelle ?
 
-La reconversion professionnelle est un terrain particulièrement fertile pour les drivers contraignants. Pourquoi ? Parce qu'elle nous place dans une position de vulnérabilité : on quitte un domaine maîtrisé pour devenir débutant dans un autre. Margot s’aperçoit qu’elle s’impose les mêmes critères qu’autrefois dans son métier, alors qu’elle apprend.
+Margot utilise cette grille pour nommer des exigences présentes dans son récit. Elle n’en déduit ni un profil fixe ni l’origine de sa difficulté.
 
-### Le driver « Sois parfait » en reconversion
+### Le message « Sois parfait » devant le mémoire
 
-Margot en est l'illustration vivante. Son mémoire n'est jamais assez bon. Ses notes de cours doivent être irréprochables. Avant de poser une question en formation, elle vérifie trois fois qu'elle n'est pas « stupide ». Ce driver transforme chaque étape d'apprentissage en examen de passage, et chaque imperfection en preuve d'incompétence.
+Le critère de fin recule lorsque chaque détail améliorable devient une condition de remise. Margot peut maintenir les exigences de la formation tout en regardant ce qu’une retouche apporte réellement.
 
-### Le driver « Sois fort » face au changement
+Elle change un verbe puis déplace toute la phrase, au point que deux paragraphes se répètent. Elle garde aussi quatre versions dont une déjà appelée « définitif ». La réécriture et la conservation de variantes sont deux gestes différents qui rendent la dernière version difficile à arrêter.
 
-C'est celui qui empêche Margot de partager ses doutes avec son groupe de formation. Elle se dit qu'une femme de 52 ans, ancienne directrice commerciale, ne peut pas avouer qu'elle se sent perdue. Résultat : elle s'isole, accumule la fatigue émotionnelle et perd l'accès à l'une des ressources les plus précieuses d'une reconversion, le soutien collectif.
+### Le message « Sois fort » dans la demande d’aide
 
-### Le driver « Fais des efforts » et l'épuisement
+Margot sait répondre à une question du groupe, mais trouve plus coûteux de montrer ce qui lui manque. L’âge et l’ancien métier deviennent pour elle des raisons imaginées de ne pas demander, alors qu’ils ne disent pas ce que les autres accepteraient de relire.
 
-Ce driver pousse à croire que si quelque chose semble facile, c'est que l'on ne travaille pas assez. Margot passe des heures supplémentaires sur des exercices que ses camarades bouclent en une soirée. Non pas parce qu'elle est moins capable, mais parce que son driver lui interdit de considérer que « suffisant » peut être « bien ».
+Dans le métro, elle envoie la réponse sur l’annexe sans la demande d’avis sur son introduction. Chez elle, elle dit à Philippe qu’elle monte dès qu’elle a fini au lieu de nommer ce qui la bloque. Ces deux réponses gardent le travail en cours peu visible pour l’entourage.
 
-Le temps qu’elle passe à réécrire son mémoire montre le coût de cette exigence dans le récit. Il ne permet pas de prédire si elle terminera sa reconversion.
+### Le message « Fais des efforts » au moment de terminer
 
-## 3 techniques pour se libérer des drivers contraignants en reconversion professionnelle
+Margot peut confondre l’effort encore possible et l’effort nécessaire. Le temps passé reste réel, mais ne permet pas à lui seul de décider si le mémoire répond aux critères.
 
-La bonne nouvelle, c'est que les drivers contraignants, une fois identifiés, perdent une grande partie de leur emprise. Voici trois techniques concrètes pour commencer à s'en libérer.
+Elle ouvre un document vierge alors qu’un texte presque rendu existe déjà. Elle reprend aussi un entretien qu’elle a elle-même mené, sans question précise sur ce qui doit être corrigé. Recommencer le support et reprendre un passage familier ajoutent du travail sans définir sa fin.
 
-### 1. Repérer une phrase qui revient
+## 3 techniques pour desserrer une exigence dans la situation
 
-Pendant une semaine, notez chaque soir les moments de la journée où vous vous êtes senti sous pression, frustrée ou bloquée. Pour chaque situation, posez-vous cette question : « Quelle petite voix me parlait à ce moment-là ? » Était-ce « Ce n'est pas assez bien » (Sois parfait) ? « Je ne dois pas montrer que c'est dur » (Sois fort) ? « Il faut que je fasse plus » (Fais des efforts) ? Au bout de quelques jours, un schéma apparaît clairement. Cette prise de conscience est le premier pas, et souvent le plus important.
+### 1. Repérer une phrase et le geste qui la suit
 
-### 2. Reformuler le message intérieur avec une permission
+L’objectif est de décrire un moment du mémoire, sans surveillance de toute la semaine ni obligation de trouver un driver dominant.
 
-En analyse transactionnelle, à chaque driver correspond une « permission », c’est-à-dire une formulation que l’on peut essayer quand une exigence devient pesante. Par exemple :
-- Face à « Sois parfait » : « Tu as le droit d'être humain et de faire des erreurs. »
-- Face à « Sois fort » : « Tu as le droit de ressentir et de demander de l'aide. »
-- Face à « Fais des efforts » : « Tu as le droit de réussir facilement. »
-- Face à « Dépêche-toi » : « Tu as le droit de prendre ton temps. »
-- Face à « Fais plaisir » : « Tu as le droit de penser à toi. »
+1. Choisir le dernier passage où Margot a voulu tout reprendre et noter la phrase qui lui vient, si elle la retrouve.
+2. Décrire le geste qui suit : changer un mot, créer une version ou effacer la demande d’aide.
+3. Regarder ce que ce geste apporte et ce qu’il reporte, puis choisir une seule question à clarifier pour la suite.
 
-Écrivez votre permission sur un post-it visible (écran d'ordinateur, miroir de salle de bain). Chaque fois que le driver se manifeste, lisez cette phrase à voix haute ou mentalement. Vous pouvez ajuster le message si les mots choisis ne vous parlent pas.
+Cette observation peut rendre l’exigence discutable. Si aucune formule de Kahler ne lui convient, elle peut garder les mots ordinaires de son expérience.
 
-### 3. S'exposer volontairement à l'imparfait
+### 2. Essayer une permission liée à une action
 
-Choisissez une tâche à faible enjeu et fixez à l’avance ce qui serait suffisant pour la terminer. Rendez un exercice sans le relire une dernière fois. Posez une question en formation sans la formuler parfaitement dans votre tête. Envoyez un message dans votre groupe en disant simplement : « Je bloque sur ce sujet, quelqu'un peut m'aider ? » Cette exposition progressive à l'imperfection permet de constater que le monde ne s'effondre pas, et que les autres ne vous jugent pas comme vous le craigniez.
+Dans cette grille, une « permission » est une formulation à essayer. Margot cherche une réponse praticable à son exigence, sans devoir la croire immédiatement.
+
+1. Choisir le message qui lui pèse maintenant, comme « je dois me débrouiller seule sur cette introduction ».
+2. Écrire une réponse ajustée : « je peux demander la relecture de deux pages », plutôt qu’une consigne générale de réussir facilement.
+3. Vérifier si cette demande lui convient et choisir à qui l’adresser avec la possibilité d’un refus ou d’un autre créneau.
+
+La phrase peut aider à proposer un appui limité. Elle ne promet ni une émotion plus douce ni une disponibilité du groupe.
+
+### 3. Définir une fin suffisante pour un travail limité
+
+Margot veut remettre le mémoire selon les critères demandés, en gardant les vérifications utiles. Il ne s’agit pas de suivre une exposition à l’imperfection.
+
+1. Reprendre la consigne de la formation et identifier ce qui doit encore être vérifié avant vendredi.
+2. Faire relire les deux pages acceptées par une camarade et distinguer sa question ou les fautes signalées d’une simple préférence de style.
+3. Préparer le fichier qui répond aux critères, conserver la trace d’une amélioration éventuelle pour plus tard et décider de l’envoi à l’échéance prévue.
+
+Ce cadre peut l’aider à terminer sans attendre d’aimer chaque transition. Il reste révisable si un point important de la consigne demeure non rempli.
 
 ## Le mémoire part vendredi
 

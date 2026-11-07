@@ -39,17 +39,32 @@ Salomé imagine que mentionner son identité une fois l’obligera à en parler 
 
 La diffusion publique demande néanmoins une vigilance réelle : une version publiée peut être copiée et rester accessible. Réviser un choix ne garantit pas d’effacer toutes les traces. Salomé ne doit donc pas se convaincre que rien n’a d’importance. Elle peut tenir ensemble deux informations : ses préférences restent révisables et certains supports gardent une mémoire. Cela l’aide à demander des précisions pratiques avant d’envoyer le texte.
 
+Deux exemples dans cette situation :
+
+- Devant le bouton d’envoi, Salomé imagine que la mention figurera désormais dans toutes ses présentations, bien que cette fiche seule soit en préparation.
+- Elle relit la version centrée sur la lutherie comme si elle lui interdisait de nommer son identité lors d’une autre rencontre.
+
 ### Confondre visibilité et preuve de sincérité
 
 Une voix intérieure lui dit qu’une personne bien avec elle-même devrait tout assumer publiquement. Cette règle transforme une liberté en devoir. Elle oublie que la sincérité ne consiste pas à donner toutes les informations disponibles à tous les publics. Salomé peut écrire un texte professionnel entièrement vrai et ne pas y mentionner son identité. Elle peut également souhaiter la nommer, sans que ce choix soit interprété comme une demande d’explications sur sa vie privée.
 
 Elle connaît aussi des exemples de visibilité qui lui font du bien. Elle aimerait peut-être contribuer à rendre d’autres parcours plus ordinaires dans l’artisanat. Ce souhait est réel et ne doit pas être effacé sous une prudence automatique. La question devient personnelle : veut-elle porter cela sur ce support, avec ce public et à ce moment ? Elle n’a pas à représenter toutes les personnes non binaires pour faire un choix valable.
 
+Deux exemples dans cette situation :
+
+- Elle se demande si un texte sans mention personnelle serait moins sincère, alors que chaque ligne sur ses réparations est exacte.
+- Elle songe à garder des détails de parcours dans le programme pour montrer qu’elle assume son choix, sans avoir envie de les rendre publics.
+
 ### Donner à un public imaginé une seule réaction
 
 Salomé imagine tour à tour une salle accueillante et une série de questions intrusives. Dans les deux scénarios, tout le public semble réagir pareil. L’incertitude réelle est plus variée. Certaines personnes s’intéresseront au bois, d’autres aux accords, d’autres ne liront pas la fiche. Elle ne peut pas anticiper chaque réaction. Elle peut en revanche demander comment les échanges seront animés et quelle place elle souhaite donner aux questions personnelles.
 
 Elle distingue alors la réception souhaitée et les conditions qu’elle peut vérifier. Elle ne peut pas savoir à l’avance comment le public réagira. Elle peut demander qui relira le texte, quelles photos pourront être publiées et à qui s’adresser en cas de problème. La préparation utile porte sur ces éléments contrôlables. Elle évite ainsi de chercher une certitude sociale complète avant toute décision, tout en refusant de traiter les conditions de diffusion comme un détail sans conséquence.
+
+Deux exemples dans cette situation :
+
+- Elle imagine toutes les personnes venues écouter les instruments posant ensuite les mêmes questions intimes.
+- À l’inverse, elle prépare une version très personnelle en supposant que la salle entière accueillera cette visibilité comme Nora.
 
 ## Trois techniques pour choisir ce que l’on révèle
 
@@ -61,6 +76,12 @@ Ces informations ne choisissent pas à sa place. Elles clarifient ce qu’une ph
 
 Pour essayer cet exercice, partez d’un partage précis plutôt que de la question générale « suis-je assez ouverte ? ». Un repas, une fiche publique et une conversation privée ne forment pas le même cadre. Vérifiez qui recevra l’information, ce qui peut circuler et ce que vous souhaitez obtenir. Vous pouvez découvrir qu’une petite information suffit au but visé, ou qu’un partage plus personnel vous importe réellement dans ce contexte.
 
+Pour passer à une action limitée :
+
+1. Choisissez la fiche précise que vous envisagez d’envoyer.
+2. Demandez où elle paraîtra, qui pourra la reprendre et si vous la relirez avant diffusion.
+3. Écrivez le but de cette présentation et les informations qui y contribuent.
+
 ### 2. Choisir plusieurs niveaux d’information possibles
 
 Salomé prépare trois niveaux, sans obligation de tous les utiliser. Le premier indique son prénom, son métier et ses accords féminins. Le deuxième mentionne son identité non binaire dans une phrase de présentation. Le troisième comprend des éléments de parcours qu’elle ne souhaite pas publier. Cette distinction lui permet de ne pas confondre une mention publique et l’ouverture de tous les sujets qui pourraient lui être associés.
@@ -69,6 +90,12 @@ Elle demande à Nora, son amie, de lire uniquement les deux versions qu’elle e
 
 Vous pouvez conserver une information pour vous sans promettre de la partager un jour. Vous pouvez aussi changer d’avis après avoir préparé un texte. L’exercice ne sert pas à construire une progression obligatoire vers une révélation complète. Il donne plusieurs options à une décision qui semble parfois binaire. Chaque niveau doit correspondre à un choix réel, pas à une concession faite pour apaiser la curiosité d’une autre personne.
 
+Pour passer à une action limitée :
+
+1. Préparez une version professionnelle et une version avec la mention que vous envisagez.
+2. Placez les détails que vous souhaitez garder privés dans des notes séparées, sans les transmettre pour relecture.
+3. Comparez les versions selon votre préférence ; un proche peut commenter leur clarté sans décider de votre visibilité.
+
 ### 3. Prévoir la suite du partage et une limite aux questions
 
 Salomé décide finalement de mentionner qu’elle est non binaire, avec ses accords féminins, puis de consacrer le reste du texte au travail de réparation. Elle prépare une réponse pour la rencontre : « C’est la manière dont je me définis. Aujourd’hui, je préfère vous montrer comment j’examine cet instrument. » La limite ne retire pas la phrase publique. Elle précise que le partage d’une information n’ouvre pas un accès illimité à son histoire.
@@ -76,6 +103,12 @@ Salomé décide finalement de mentionner qu’elle est non binaire, avec ses acc
 Elle vérifie aussi la procédure de relecture et demande qu’aucune photo de visiteurs devant son établi ne soit publiée sans les accords nécessaires. Elle pense à la diffusion comme à une organisation, pas seulement à un courage individuel. Le texte final lui sera envoyé avant mise en ligne. Si l’accord n’est pas respecté, elle pourra demander une correction et revoir sa participation. Les conditions comptent autant que sa propre formulation.
 
 Après la publication, elle peut faire un bilan limité : le contenu correspond-il au choix, les règles sont-elles suivies, souhaite-t-elle garder cette version ? Elle n’a pas besoin de surveiller toutes les réactions pour savoir si son identité est valable. Une réception mitigée pourrait être pénible sans rendre son choix honteux. Elle pourra ajuster la suite à partir des faits, avec du soutien si nécessaire, sans se reprocher de ne pas avoir prédit chaque effet.
+
+Pour passer à une action limitée :
+
+1. Choisissez le contenu et confirmez les supports autorisés avec l’organisation.
+2. Préparez une limite aux questions personnelles et un retour aux instruments.
+3. Après diffusion, vérifiez la conformité du texte et ajustez la suite à partir des faits, sans chercher toutes les réactions possibles.
 
 ## Le bouton Envoyer
 

@@ -31,15 +31,21 @@ L'agacement ne s'exprime pas toujours par des cris. Il s'insinue dans les petits
 
 ### 1. La focalisation sélective sur les détails irritants
 
-Lucas remarque surtout les objets qui traînent et les bruits qui l’interrompent. Cela ne lui dit pas si Romain voulait le déranger ; la gêne reste réelle.
+L’irritation peut amener Lucas à remarquer surtout ce qui gêne son travail dans la pièce partagée. La gêne existe même s’il ne sait pas si Romain en a conscience. Il peut décrire chaque fait sans en faire la preuve d’un manque de respect général.
+
+Le grincement de la fourchette attire son attention malgré les écouteurs et coupe sa lecture. La tache de sauce sur le plan de travail lui fait ensuite revoir tous les objets laissés dans la cuisine. Le premier exemple concerne le bruit pendant une tâche ; le second, le rangement. Les distinguer l’aide à ne pas demander une solution unique à deux problèmes différents.
 
 ### 2. L'accumulation silencieuse et le retrait social
 
-Lucas passe davantage de temps dans sa chambre. Il souhaite du calme, mais hésite aussi à parler des espaces communs avec ses colocataires. Il peut distinguer ces deux besoins.
+Se retirer peut répondre à un besoin de calme. Cela peut aussi laisser sans réponse un problème commun si Lucas attend que Maxime et Romain devinent pourquoi il s’éloigne. Il peut choisir ce qui doit rester personnel et ce qui demande un accord pratique.
+
+Rejoindre sa chambre pour terminer une page du mémoire lui permettrait de travailler ailleurs sans régler la question du bruit pendant la visioconférence. Éviter ensuite un repas commun parce qu’il redoute de reparler de la vaisselle lui ferait renoncer à un moment qu’il pourrait souhaiter partager. Ces deux retraits n’ont pas le même objet : un lieu de travail et une discussion sur la vie commune.
 
 ### 3. Les micro-réactions passives et agressives
 
-Faute d'oser exprimer clairement son besoin de calme ou d'ordre, l'agacé utilise souvent des voies détournées. Cela peut être un soupir sonore en nettoyant une tache que l'autre a laissée, ou le fait de ranger la vaisselle avec un peu trop de vigueur pour faire passer un message. Pour Lucas, cela se traduit par des réponses courtes et sèches lorsqu'on lui pose une question, ou par le fait de ne plus proposer de partager ses moments de détente comme ses sessions de basket. C'est une manière de reprendre le pouvoir sur une situation où il se sent impuissant, un peu comme lorsqu'il avait envoyé un message d'hésitation au groupe au lieu de son oui automatique habituel pour tester son autonomie.
+Un geste peut exprimer l’irritation sans rendre le besoin compréhensible. Il n’est pas nécessaire de lui attribuer une volonté de reprendre le pouvoir. Lucas peut constater ce que son interlocuteur reçoit et ce qui reste à demander.
+
+Un soupir appuyé devant la poêle ne dit pas à Romain s’il doit la laver maintenant ou simplement libérer l’évier. Une réponse sèche à une question de Maxime peut lui faire entendre un reproche alors qu’il ne sait rien de la réunion imminente. Ces deux signaux peuvent tendre les échanges sans préciser l’action souhaitée. Lucas peut reprendre sa demande s’il remarque ce décalage.
 
 ## Techniques pour agir face à l'agacement
 
@@ -47,15 +53,33 @@ Il est possible de transformer cette tension avant qu'elle ne devienne une ruptu
 
 ### 1. Remarquer quand on a besoin d’une pause
 
-Quand Lucas serre les dents, il se demande s’il peut encore formuler une demande sans lancer de reproche. Il peut prendre une pause ou mettre un casque. Il n’a pas besoin de noter l’intensité ni de supposer qu’un seuil permet de prédire sa réaction.
+L’objectif est de choisir comment répondre avant d’ajouter un reproche à la demande. Lucas n’a pas besoin de noter l’intensité de son agacement ni d’atteindre un seuil particulier.
+
+1. Quand il serre les dents devant la poêle, interrompre un instant l’écriture et nommer le besoin immédiat : finir une page ou préparer la réunion.
+2. Choisir ce qui est possible maintenant : changer de place, garder le casque ou demander brièvement du calme. Le casque ne résout pas la place bloquée dans l’évier.
+3. Vérifier s’il reste une question à discuter avec les colocataires et noter laquelle, au lieu de la laisser devenir un reproche sur toute leur manière de vivre.
+
+La pause laisse une place à la décision. Elle ne garantit pas que l’irritation baisse et ne reporte pas une demande urgente de place ou de calme.
 
 ### 2. Choisir un moment pour en parler
 
-Une question qui peut attendre peut être reprise quand chacun est disponible. Si Lucas a besoin de calme avant sa réunion, il peut le dire tout de suite. Aucun délai ne garantit qu’il parlera calmement.
+Lucas distingue l’arrangement nécessaire avant la visioconférence d’une discussion plus large sur la cuisine. Le bon moment dépend aussi de la disponibilité des autres.
+
+1. Identifier ce qui ne peut pas attendre : l’heure de la réunion et l’espace dont il a besoin maintenant.
+2. Formuler cette demande courte, puis proposer à Maxime et Romain un autre moment pour les horaires ou le rangement récurrent.
+3. Au rendez-vous accepté, reprendre un exemple précis et chercher un accord faisable. Si le moment ne convient plus, en choisir un autre au lieu d’en conclure que personne ne veut écouter.
+
+Cette organisation sépare deux conversations et permet aux autres de répondre. Aucun délai ne garantit une parole parfaitement calme ou un accord immédiat.
 
 ### 3. La communication par le message-Je
 
-Le [modèle de communication de Marshall Rosenberg](https://www.nonviolentcommunication.com/pdf_files/4part_nvc_process.pdf) propose notamment de formuler une observation et une demande précise. Lucas peut dire ce qui le gêne et demander une action concrète. Romain peut répondre et proposer un autre arrangement.
+Le [modèle de communication de Marshall Rosenberg](https://www.nonviolentcommunication.com/pdf_files/4part_nvc_process.pdf) propose notamment de formuler une observation et une demande précise. Lucas peut s’en servir sans réciter un texte ni expliquer la personnalité de Romain.
+
+1. Décrire le fait : « La poêle prend la place dans l’évier et ma réunion commence bientôt. » Éviter « tu ne respectes jamais rien ».
+2. Dire le besoin et l’action recherchée : « J’ai besoin de cette place ; peux-tu la laver avant la réunion ? » Il peut reconnaître que son ton a été sec sans retirer la demande.
+3. Écouter la réponse et préciser l’arrangement : maintenant, un autre emplacement ou un horaire convenu. Si le problème revient, le reprendre avec les trois colocataires.
+
+Les mots rendent le problème et la réponse plus visibles. Ils ne contraignent pas Romain à accepter et ne remplacent pas des règles communes lorsqu’elles sont nécessaires.
 
 ## La poêle dans l’évier
 

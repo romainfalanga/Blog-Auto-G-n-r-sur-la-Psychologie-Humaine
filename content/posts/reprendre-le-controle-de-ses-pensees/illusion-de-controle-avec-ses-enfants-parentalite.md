@@ -37,13 +37,25 @@ Ce biais s'insinue dans les gestes les plus banals du quotidien parental, transf
 
 L'illusion de contrôle avec ses enfants se traduit souvent par un agenda surchargé. Nadia, par exemple, ne conçoit pas un mercredi après-midi sans un programme structuré. Elle pense que si elle remplit chaque heure d'activités ludo-éducatives, elle garantit le développement optimal de sa fille. Elle laisse peu de place aux activités que Yasmine pourrait choisir elle-même. Dans ce schéma, le parent devient un manager d'emploi du temps, s'épuisant à maintenir une structure que l'enfant finit par subir plus qu'à apprécier. Nadia y reconnaît la difficulté qu'elle éprouve au bureau à laisser un programme inachevé.
 
+Exemples situés :
+- Le programme de Nadia prévoit le cercle de perles avant les boissons, comme si cet ordre garantissait une fête réussie.
+- Yasmine déplace les assiettes pour ses copines ; Nadia peut être tentée de rétablir le plan avant d’entendre ce qu’elle organise.
+
 ### 2. La recherche du comportement parfait en public
 
 Une autre manifestation courante est l'idée que le comportement de l'enfant est le reflet direct et unique de la compétence parentale. Quand Yasmine fait une colère ou se montre impolie, Nadia le vit comme un échec personnel de sa stratégie de gestion. Elle oublie que Yasmine est une personne à part entière avec ses propres émotions et sa propre fatigue. En essayant de contrôler l'image que sa fille renvoie, Nadia cherche en réalité à valider sa propre identité de mère parfaite, ce qui crée une tension permanente lors des interactions sociales. Ce besoin de perfection est une armure qu'elle a héritée de l'éducation rigide de sa mère Fatima, une exigence qu'elle tente désormais de ne plus projeter sur son entourage.
 
+Exemples situés :
+- Devant Karim, Nadia peut vivre les perles renversées comme un jugement sur son organisation plutôt que comme un accident.
+- À l’arrivée des invités, elle pourrait vouloir corriger chaque détail du comportement de Yasmine pour préserver la photo de fête imaginée.
+
 ### 3. Le micro-management de l'autonomie
 
 Nadia peut décider de laisser Yasmine choisir ses vêtements ou préparer une partie de son sac, avec une aide disponible si nécessaire. La marge d'autonomie dépend de l'âge, des capacités et du risque. Une situation dangereuse appelle une intervention, même si l'on ne peut pas tout prévoir.
+
+Exemples situés :
+- Nadia allait reprendre le pot de perles pour gagner du temps alors que Yasmine essayait de récupérer celles du couvercle.
+- Elle peut fournir une soucoupe et garder les règles de cuisine tout en laissant sa fille choisir deux bandes de couleurs.
 
 ## Techniques pour lâcher prise face à l'illusion de contrôle
 
@@ -53,13 +65,40 @@ Sortir de ce biais demande un entraînement de l'esprit pour accepter l'incertit
 
 Dessinez deux cercles pour distinguer ce que vous pouvez décider maintenant et ce qui ne dépend pas entièrement de vous. Vous pouvez préparer le gâteau et choisir comment répondre à un contretemps. Vous pouvez aussi aider un enfant à se calmer sans décider à sa place de ce qu'il ressent.
 
+Objectif : distinguer une responsabilité concrète d’une issue qu’on ne garantit pas.
+
+Exercice pratique :
+1. Dans un premier cercle, écrivez ce que vous pouvez décider : surveiller le four et préparer le matériel adapté.
+2. Dans l’autre, notez ce qui ne dépend pas de vous seule, comme la préférence de Yasmine pour les couleurs.
+3. Choisissez un geste du premier cercle et une question à lui laisser répondre dans le second.
+
+Utilité possible : les cercles conservent la responsabilité de sécurité sans faire du plaisir de l’enfant un résultat à commander.
+
 ### 2. Laisser un choix sans enjeu
 
 Dans une situation ordinaire et sûre, laissez l'enfant choisir entre deux activités adaptées. Gardez les règles utiles à sa sécurité et restez disponible s'il a besoin d'aide. Observez ce qui se passe quand vous laissez ouvert un détail sans conséquence.
 
+Objectif : offrir une marge d’initiative ordinaire et sûre.
+
+Exercice pratique :
+1. Choisissez un détail sans enjeu de sécurité, comme les couleurs des décorations.
+2. Laissez Yasmine décider parmi les possibilités adaptées et restez disponible pour l’aide qu’elle demande.
+3. Regardez le résultat sans le remettre aussitôt au modèle photographié ; intervenez si un besoin de sécurité apparaît.
+
+Utilité possible : Nadia peut observer une initiative réelle de sa fille sans transformer l’anniversaire en exposition obligatoire à l’imprévu.
+
 ### 3. Le questionnement des conséquences réelles
 
 Pour un petit contretemps, demandez-vous quelles conséquences sont probables et si elles exigent une action. Une tache de sirop se nettoie ; une difficulté qui met l'enfant en danger se traite tout de suite. Nadia n'a pas besoin de réagir de la même façon à chaque imprévu.
+
+Objectif : proportionner la réponse au contretemps présent.
+
+Exercice pratique :
+1. Décrivez le problème concret, comme les perles au sol, au lieu de conclure que toute la fête est compromise.
+2. Traitez ce qui demande une action et choisissez qui peut aider ; Karim peut ramasser pendant que Nadia échange avec Yasmine.
+3. Reprenez le programme seulement pour la contrainte utile, comme l’arrivée des invités, et laissez les détails sans conséquence ouverts.
+
+Utilité possible : une action pratique prend la place du verdict global, sans renoncer aux interventions nécessaires.
 
 ## Deux couleurs au lieu d’une
 

@@ -36,13 +36,19 @@ Lorsqu'on quitte son environnement familier pour s'installer ailleurs ou simplem
 
 Pour un expatrié ou un voyageur, cela se traduit par une indifférence frappante face aux découvertes. Alors que l'entourage s'attend à de l'émerveillement, la personne reste de marbre. Bernard, par exemple, voit les chefs-d'œuvre de la Renaissance comme de simples objets sans âme. Ce désintérêt peut toucher la gastronomie, les visites ou les rencontres locales. On finit par rester dans sa chambre d'hôtel ou son nouveau logement, non par peur, mais parce que l'effort de sortir semble disproportionné par rapport au plaisir attendu, qui est inexistant.
 
+**Deux situations possibles :** Bernard replie la carte devant le musée sans trouver de raison personnelle d’y entrer. À la pension, il laisse passer la présentation des spécialités locales sans avoir envie de choisir l’une d’elles.
+
 ### 2. La réduction des interactions sociales
 
 Bernard remarque qu’il a moins envie d’initier des échanges. On cesse d'initier des conversations, on répond par monosyllabes et on évite de se lier d'amitié avec d'autres voyageurs ou résidents. Le lien social demande une énergie que l'on n'a plus envie de mobiliser. On observe les autres vivre depuis une bulle de verre, sans désir d'en sortir. C'est une forme de retrait social passif où l'on subit l'absence de contact sans pour autant chercher à la combler. Pour Bernard, ce retrait est une résonance de ses vieux réflexes de surcontrôle, où le silence était sa seule zone de sécurité face aux tensions familiales.
 
+**Deux situations possibles :** il dit seulement à Éric que le trajet s’est bien passé, sans raconter la place où il est assis. Quand un voyageur lui demande son programme, il répond brièvement puis regarde sa montre au lieu de prolonger l’échange.
+
 ### 3. L'incapacité à prendre des décisions simples
 
 Même choisir un menu ou un itinéraire devient une tâche herculéenne. Bernard n’a pas de préférence nette ; d’autres personnes peuvent hésiter pour des raisons différentes. Tout se vaut. Cette manifestation est particulièrement handicapante en expatriation, où de nombreux choix logistiques sont nécessaires. La personne reporte tout au lendemain, laissant les événements décider pour elle, ce qui renforce le sentiment d'être spectateur de sa propre vie.
+
+**Deux situations possibles :** entre la ruelle et le musée indiqués sur la carte, Bernard ne trouve aucune préférence. Devant deux plats ordinaires, il attend que le serveur lui en propose un. Ces hésitations décrivent le moment, sans identifier leur cause.
 
 ## Techniques pour agir face à l'apathie
 
@@ -50,15 +56,33 @@ Voici quelques façons d’occuper un moment qui peuvent convenir à Bernard. El
 
 ### 1. Choisir une petite activité à sa portée
 
-Vous pouvez choisir un geste à votre portée, comme marcher un peu ou acheter quelque chose pour le repas. C’est une proposition de rythme, pas une façon de réactiver des circuits cérébraux. L’activation comportementale est aussi le nom d’une intervention clinique ; elle ne se résume pas à cet exercice.
+**Objectif :** Donner une forme modeste à la prochaine sortie, sans devoir éprouver du plaisir.
+
+1. Choisir une seule destination proche de la pension, par exemple la place où se trouve un banc.
+2. Vérifier que le trajet convient à son état et garder la possibilité de revenir.
+3. À son retour, constater seulement ce qui a été fait et décider librement de la suite.
+
+Cette organisation peut alléger le choix d’un programme. Elle ne constitue pas une activation comportementale thérapeutique et ne remplace pas un avis si le désintérêt est marqué ou persistant.
 
 ### 2. La journalisation sensorielle descriptive
 
-Pour lutter contre l'émoussement émotionnel, il est utile de se focaliser sur des détails techniques et sensoriels bruts, ce qui court-circuite le jugement global. L'exercice consiste à choisir un objet ou un paysage et à en décrire par écrit uniquement les caractéristiques physiques : textures, nuances de couleurs, bruits ambiants, température. Pour un artisan comme Bernard, décrire le veinage d'une porte en bois ou la densité d'une pierre permet de reprendre contact avec la réalité matérielle sans la pression de devoir ressentir une émotion esthétique.
+**Objectif :** Observer un détail familier à son métier sans se commander de l’admirer.
+
+1. Choisir, depuis un endroit confortable, une porte ou un assemblage visible.
+2. Écrire trois caractéristiques observables, comme la couleur, les joints et le dessin du bois.
+3. Refermer le carnet ou garder un croquis à raconter à Éric, même sans émotion particulière.
+
+La description peut offrir un sujet concret pendant ce séjour. Bernard peut l’arrêter si elle devient fastidieuse ; aucune sensation attendue ne valide l’exercice.
 
 ### 3. La méthode des ancres de continuité
 
-L'apathie en voyage est souvent exacerbée par la rupture brutale avec le quotidien. Créer des ponts avec ce que l'on aime chez soi permet de sécuriser le psychisme. L'exercice consiste à intégrer une habitude familière et réconfortante dans le nouveau contexte, sans lien avec le tourisme. Cela peut être écouter une émission de radio spécifique, pratiquer un geste manuel ou cuisiner un plat connu. Ces ancres servent de base de sécurité à partir de laquelle la curiosité pourra, plus tard, refaire surface.
+**Objectif :** Conserver un repère quotidien choisi pendant le voyage.
+
+1. Repérer une habitude accessible ici, telle qu’écouter son émission de radio à la pension.
+2. Lui réserver un moment compatible avec le séjour, sans reconstruire toute la journée d’atelier.
+3. Vérifier ensuite si ce repère lui convient et le garder, le changer ou l’abandonner.
+
+Une habitude familière peut rendre une journée plus lisible. Elle ne garantit ni sécurité psychique ni retour de la curiosité.
 
 ## Le détour par l’atelier
 

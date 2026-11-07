@@ -39,17 +39,23 @@ Vincent sait déjà qu’il peut être fatigué sans manquer d’amour. Pourtant
 
 Prévoir un répit ne signifie pas ignorer les besoins réels. Cela demande de les distinguer d’une attente hypothétique. Vincent et Cédric peuvent examiner ce qui doit être organisé, ce que chacun souhaite faire et ce qui peut attendre. Une pause peut avoir sa place dans ce calendrier, au même titre qu’un rendez-vous ou qu’une tâche, sans devenir systématiquement l’élément supprimé dès qu’un imprévu apparaît.
 
+Il attend une réponse sur la porte avant de confirmer l’atelier ; il pourrait aussi remplir la soirée sans démarches par un appel encore possible. Le dossier non clos et la tâche facultative auraient alors chacun priorité sur un repos qui n’a jamais son propre créneau.
+
 ### Un soutien occasionnel devient toute la structure
 
 Le retrait effectué par Julie fonctionne bien. Vincent pourrait en déduire qu’elle sera toujours disponible pour les courses difficiles à placer. Mais sa sœur indique des semaines chargées et ne souhaite pas un rôle régulier. S’appuyer sur elle sans revoir l’accord déplacerait la charge plutôt que construire une entraide soutenable. La gratitude ne remplace pas une vérification de ses possibilités.
 
 Une entraide durable peut rester partielle et irrégulière. Ce qui compte est de savoir sur quoi on peut compter, à quel moment et avec quelles limites. Certaines tâches demandent un autre recours. Si aucun n’existe aujourd’hui, cette absence doit apparaître dans l’organisation. Elle ne peut pas être résolue en attribuant silencieusement la mission à la personne qui dit le moins souvent non.
 
+Le retrait de Julie peut devenir, dans son planning, une promesse de toutes les courses ; les dix minutes de Denis peuvent devenir l’espoir d’une écoute disponible après chaque journée. L’accord ponctuel de l’une comme de l’autre ne permet pas de prévoir cette permanence.
+
 ### Le bilan devient une évaluation de sa capacité à tenir
 
 Vincent pourrait mesurer le succès du répit à une seule question : est-il maintenant assez reposé pour tout reprendre sans difficulté ? Il risquerait alors de cacher une fatigue persistante pour ne pas déclarer la pause inutile. Le bilan porterait sur sa performance, tandis que l’intensité des contraintes et la qualité des appuis resteraient hors de la discussion.
 
 Un bilan plus utile regarde ce que la pause change, ce qui reste lourd et ce qui doit être ajusté. Il peut conclure qu’un appui fait du bien mais ne suffit pas. Il peut aussi montrer qu’une activité choisie demande trop de préparation pour le moment. Renoncer à une formule ne signifie pas renoncer au besoin de répit ; cela invite à chercher une forme plus adaptée.
+
+Après l’atelier, une fatigue encore présente pourrait lui faire déclarer la pause ratée ; après la soirée sans démarche, les appels du lendemain pourraient lui faire croire qu’il doit maintenant tout absorber. Ni l’activité appréciée ni l’intervalle tranquille ne promettent une réserve illimitée.
 
 ## Trois techniques pour relier répit et entraide durable
 

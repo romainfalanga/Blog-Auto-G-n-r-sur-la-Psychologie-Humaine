@@ -33,22 +33,49 @@ La psychogénéalogie d’Anne Ancelin Schützenberger propose une lecture symbo
 ### 1. La répétition des modèles éducatifs restrictifs
 Il arrive à Fabien d’employer les mêmes tournures sèches que son père. Observer ces ressemblances lui donne une question à explorer. L’apprentissage auprès des proches coexiste avec l’influence de l’école, des amis, des conditions de vie et des événements propres à chacun.
 
+**Deux exemples précis :** Fabien se souvient que son père allumait la télévision devant une question gênante. Il constate avoir laissé le documentaire occuper presque tout le temps passé avec Lucas. Les ressemblances sont observables, mais leur sens peut différer.
+
 ### 2. Le poids des non-dits et des tabous émotionnels
 Les enfants peuvent être sensibles à la façon dont on leur parle et à ce qui est tu, sans qu’on puisse déduire leurs émotions de ce seul silence. Fabien peut parler brièvement de ce qui le concerne, à hauteur d’enfant, sans demander à Marine et Lucas de le rassurer sur son divorce.
+
+**Deux exemples :** au déjeuner, Fabien attend une anecdote que son père ne raconte pas. Avec Marine, il commence habituellement par les révisions plutôt que par une nouvelle de sa propre journée. Il peut ouvrir un autre sujet sans demander à ses enfants de réparer sa solitude.
 
 ### 3. Les rôles qui semblent se répéter
 Certains rôles se répètent dans une famille, mais les raisons sont souvent multiples. Fabien se demande si son goût pour la médiation rappelle sa place à la maison. Il ne peut pas en déduire pourquoi il a choisi son métier.
 
+**Deux situations à examiner :** Fabien veut apaiser le déjeuner avant de poser sa question sur les disputes anciennes. Avec Lucas, il pourrait organiser le moment comme une médiation plutôt que demander ce qu’il souhaite regarder. Ces rapprochements ne prouvent ni vocation imposée ni destin familial.
+
 ## Techniques pour agir face aux transmissions transgénérationnelles
 
 ### 1. La construction du génogramme commenté
-Si vous dessinez un arbre familial, séparez ce que vous savez de ce que vous supposez. Notez éventuellement une phrase entendue ou un événement daté, et laissez vide ce que vous ignorez. Une répétition apparente ne prouve ni une cause ni un secret.
+
+**Objectif :** Séparer quelques faits familiaux des rapprochements supposés.
+
+1. Si cela l’intéresse, dessiner un arbre limité aux personnes qu’il connaît et noter un fait daté ou une phrase entendue.
+2. Distinguer explicitement les inconnues des souvenirs personnels, sans compléter les blancs par des secrets présumés.
+3. Retenir une question actuelle ou refermer la feuille ; personne n’a à confirmer une interprétation ni à raconter son passé.
+
+Le schéma peut organiser des informations déjà connues. Il ne révèle ni transmission biologique de traumatisme ni causalité cachée et n’est pas nécessaire pour demander de l’aide.
 
 ### 2. La lettre libératrice non postée
-Si écrire vous convient, décrivez dans un brouillon ce que vous aimeriez faire différemment aujourd’hui. Vous n’avez pas à reconstituer une histoire manquante, ni à lire la lettre à quelqu’un. Arrêtez si l’exercice vous bouleverse.
+
+**Objectif :** Préparer un changement présent sans reconstituer l’histoire familiale.
+
+1. Choisir un échange actuel qu’il souhaite faire autrement, comme le prochain appel à Marine.
+2. Écrire ce qu’il voudrait raconter ou demander, sans accusation ni recherche de souvenir manquant.
+3. Garder une phrase utile, ranger le brouillon ou l’abandonner ; arrêter si l’écriture bouleverse.
+
+Le brouillon peut préciser son intention. Son intitulé ne garantit aucune libération et il n’a pas à être envoyé ou lu à son père.
 
 ### 3. Préparer une phrase pour aujourd’hui
-Choisissez une phrase que vous pourriez dire dans un échange ordinaire et sûr. Fabien pense à dire à Lucas qu’il est content de le voir. Il peut aussi attendre un moment plus propice. C’est une préparation à la conversation, pas un traitement des traumatismes.
+
+**Objectif :** Ouvrir un échange ordinaire en laissant à l’autre sa réponse.
+
+1. Choisir une nouvelle qu’il souhaite partager, telle que le déjeuner, plutôt qu’un bilan complet sur les générations.
+2. Vérifier que Marine ou Lucas a un moment pour l’entendre et proposer une phrase courte.
+3. Écouter ce que l’autre reprend ou change dans la conversation, comme la question de Marine sur le cinéma.
+
+Une phrase peut offrir un autre début d’appel. Elle ne traite pas un traumatisme et ne transforme pas les enfants en confidents du divorce.
 
 ## Pendant que son père débarrasse
 

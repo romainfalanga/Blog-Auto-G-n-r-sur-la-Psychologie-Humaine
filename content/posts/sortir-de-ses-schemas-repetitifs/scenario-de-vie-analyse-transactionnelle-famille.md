@@ -33,27 +33,51 @@ Fabien reconnaît une règle qu’il croit avoir apprise : montrer le moins poss
 
 Pour un ancien enfant parentifié comme Fabien, le scénario de vie se manifeste souvent par un besoin compulsif de prendre soin des autres au détriment de ses propres besoins. En famille, cela se traduit par une posture de sauveur ou de médiateur permanent. Fabien a passé des années à tenter de stabiliser son couple avec Véronique en utilisant ses outils de RH, au lieu d'exprimer sa vulnérabilité. Cette manifestation du scénario empêche une véritable connexion authentique, car le personnage reste masqué derrière une fonction. On ne rencontre pas Fabien l'homme, on rencontre Fabien le régulateur de conflits. Cette tendance à vouloir tout lisser pour éviter le chaos émotionnel est un vestige de son enfance, une nappe phréatique invisible qui continue d'alimenter ses réactions actuelles.
 
+**Deux exemples actuels :** Fabien veut trouver seul le planning qui empêchera tout mécontentement. Il traite l’annulation du cinéma comme un problème à réguler avant d’avoir demandé ce que Lucas veut lui dire. Dans ce modèle, il peut questionner cette habitude sans conclure à un scénario établi.
+
 ### 2. La reproduction du mutisme transgénérationnel
 
 Fabien reconnaît avec Lucas un silence qui lui rappelle les déjeuners avec son père. Les façons de parler des émotions peuvent s’apprendre et changer, et un silence n’a pas partout la même fonction. Il se demande ce qu’il aimerait dire à Lucas aujourd’hui.
+
+**Deux exemples :** il garde pour lui sa déception après l’annulation de la sortie. Il retourne aux dossiers quand il pense au ton employé envers Lucas dans la cuisine. Ces silences lui rappellent son père, mais leur fonction actuelle reste à examiner.
 
 ### 3. Le choix inconscient des partenaires et des dynamiques
 
 Fabien se demande comment sa manière d’éviter certaines conversations a pesé dans le couple. Cette question lui appartient. Son divorce ne prouve ni qu’il a choisi Véronique pour rejouer son enfance ni que leur séparation était écrite.
 
+**Deux questions situées :** avec Véronique, quelles décisions pratiques a-t-il discutées sans dire ses préférences ? Dans l’organisation actuelle des vacances, que peut-il lui demander directement plutôt que de charger Lucas de choisir ? Ces exemples portent sur des échanges observables ; ils ne démontrent pas un choix inconscient de partenaire.
+
 ## Techniques pour modifier son script intérieur
 
 ### 1. L'identification des injonctions parentales
 
-Cette technique consiste à lister les phrases répétitives ou les attitudes fortes que vous avez intégrées durant votre enfance. Prenez un carnet et notez les messages que vous avez reçus concernant la réussite, l'amour, la santé et l'expression des sentiments. Posez-vous la question suivante : quelle était la devise de ma famille ? Pour Fabien, cela pourrait être : un homme ne se plaint jamais. Une fois ces injonctions identifiées, essayez de repérer à quel moment précis de votre journée elles s'activent. L'objectif est de passer du mode automatique au mode conscient en observant ces pensées comme des objets extérieurs à vous-même, ce qui permet de réduire leur emprise sur vos décisions actuelles.
+**Objectif :** Repérer une règle actuelle sans devoir établir son origine familiale.
+
+1. Partir de la pensée présente, par exemple « Je ne dois pas montrer que l’annulation me déçoit ».
+2. Noter si elle rappelle une phrase réellement entendue ou s’il s’agit d’un rapprochement incertain ; laisser inconnue toute histoire manquante.
+3. Choisir ce qu’il souhaite dire aujourd’hui, comme reconnaître son ton envers Lucas, indépendamment de cette origine.
+
+La note peut distinguer une règle personnelle d’un fait. Elle ne révèle ni script caché ni programme de l’enfance.
 
 ### 2. La rédaction d'un nouveau contrat de vie
 
-Dans le vocabulaire de l’analyse transactionnelle, le contrat sert à préciser ce qu’on souhaite essayer. Fabien peut prévoir d’inviter Lucas à parler d’un échange précis. Son fils peut décliner, et Fabien peut quand même reconnaître le ton qu’il a pris la dernière fois.
+**Objectif :** Préciser un engagement que Fabien peut tenir sans engager Lucas à sa place.
+
+1. Choisir un échange précis, celui où il a parlé comme si Lucas compliquait volontairement le planning.
+2. Préparer la reconnaissance de sa part et une proposition d’en parler si Lucas le souhaite.
+3. Dire cette reconnaissance dans un moment approprié, puis reprendre avec Véronique les décisions qui relèvent des parents.
+
+Dans le vocabulaire de l’analyse transactionnelle, ce « contrat » peut servir à préciser une intention. Il ne promet ni réponse ni réconciliation et le fils peut décliner la discussion.
 
 ### 3. La technique du miroir émotionnel inversé
 
-Dans un échange sûr, Fabien peut faire une pause et choisir de dire ce qui lui importe, ou de proposer de reprendre la discussion plus tard. En cas de menace ou de contrainte, se retirer et chercher un appui peut être la meilleure option. L’exercice sert à envisager un choix, sans attribuer la réponse à un « enfant blessé » en soi.
+**Objectif :** Garder une option de réponse avant de se réfugier dans les dossiers.
+
+1. Remarquer le moment où il voudrait clore l’échange, sans l’attribuer automatiquement à son enfance.
+2. Choisir entre une phrase personnelle, une question concrète ou la proposition de reprendre plus tard.
+3. Si l’échange est sûr et souhaité, utiliser ce choix puis écouter ; en cas de menace ou de contrainte, se retirer et chercher un appui.
+
+Envisager plusieurs réponses peut élargir le choix du moment. Il ne s’agit pas de faire parler un « enfant blessé » ni de forcer une divulgation.
 
 ## Il revient sur le ton qu’il a pris
 

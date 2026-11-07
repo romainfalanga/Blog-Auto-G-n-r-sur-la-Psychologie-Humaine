@@ -27,25 +27,55 @@ Pour Margot, le virement rend une possibilité plus concrète : elle a réussi �
 
 ## Comment l’espoir se manifeste chez Margot
 
-### La réévaluation du champ des possibles
-Ce premier contrat ouvre plusieurs idées à Margot. Elle peut se réjouir d’avoir trouvé une cliente et choisir un projet à essayer ensuite, sans tirer de ce seul résultat une conclusion sur le marché ou sur son avenir.
+### 1. Le champ des possibles s’élargit
 
-### La transformation de la vision du passé
-Avec ce premier contrat, Margot se surprend à relire son expérience passée autrement. Margot regarde ses vingt-cinq ans de carrière commerciale non plus comme un gâchis ou une erreur, mais comme un réservoir de compétences qui vont nourrir son espoir de réussite future. C'est une restructuration cognitive où le succès présent valide le chemin parcouru, transformant la nostalgie mélancolique en une force tranquille. L'espoir permet de réintégrer les morceaux de soi que l'on pensait perdus. Elle comprend désormais que son passé n'est pas un destin tracé par un biais rétrospectif, mais une base solide sur laquelle elle choisit de construire.
+Le premier programme payé rend une prochaine étape imaginable. Margot peut accueillir cet élan tout en distinguant la cliente actuelle des inscriptions qu’elle espère. L’espoir ne constitue pas une prévision du marché.
 
-### Le renforcement du sentiment d'auto-efficacité
-Chez Margot, l’espoir coexiste avec une peur de l’échec qui a un peu moins de place ce jour-là. Puisque la preuve du succès est là, le dialogue interne change. Les messages contraignants comme le "sois parfaite" ou le "fais des efforts" perdent de leur superbe. On commence à se dire que la réussite est possible non pas malgré ce que l'on est, mais grâce à ce que l'on est. C'est une sensation de solidité intérieure, un ancrage qui permet d'envisager les crises personnelles, comme les tensions avec Philippe, avec une nouvelle perspective de résolution.
+Elle remplit une ligne sur la feuille laissée vide en mars. Elle imagine ensuite deux personnes puis quatre dans le calendrier : cette seconde scène montre une possibilité envisagée, tandis que le virement reste le seul engagement confirmé.
 
-## Trois techniques pour canaliser l'espoir après un succès
+### 2. Le passé peut recevoir une autre lecture
 
-### 1. Lister plusieurs chemins vers le même objectif
-Cette technique consiste à transformer l'émotion de l'espoir en une stratégie concrète pour éviter que l'élan ne retombe. Prenez une feuille de papier et tracez trois colonnes. Dans la première, notez votre prochain objectif majeur. Dans la deuxième, listez au moins trois chemins différents pour y parvenir (la pensée des voies). Dans la troisième, identifiez ce qui booste votre motivation pour agir (l’élan à agir). Pour Margot, cela signifie prévoir comment stabiliser son activité de coaching tout en gérant sa vie de couple, en s'appuyant sur les ressources qu'elle a découvertes lors de ses séances avec Sylvie.
+Une réussite peut donner à Margot l’occasion de reconsidérer un savoir qu’elle minimisait. Cela ne transforme pas les années difficiles en étapes nécessaires ni ne fait disparaître ce qu’elle en regrette. Elle choisit les compétences pertinentes pour l’accompagnement présent.
 
-### 2. Le journal d'anticipation positive
-Contrairement au journal de gratitude qui se concentre sur le passé immédiat, cette pratique consiste à écrire chaque matin trois choses que vous avez hâte de vivre dans les mois à venir grâce à votre succès récent. L'exercice doit être sensoriel : imaginez l'arôme d'une boisson chaude lors d'un futur séminaire, le son de la voix d'un client satisfait, ou la sensation de légèreté lors d'une prochaine marche en forêt. Ces images peuvent aider à préciser ce que vous aimeriez vivre, sans promettre de maintenir le même état d’esprit.
+Elle peut reconnaître que préparer un rendez-vous était déjà un geste familier dans le commerce. Elle peut aussi se rappeler l’importance de reformuler une question, apprise avec Claire lors de l’essai. Ces deux appuis sont différents : une expérience antérieure et une correction récente, sans preuve que toutes ses compétences soient transférables.
 
-### 3. La technique de l'ancrage par le succès
-Quand l'espoir vous submerge ou que le doute pointe son nez derrière la réussite, utilisez un objet physique qui symbolise votre succès. Pour Margot, cela pourrait être son nouveau carnet de notes de coach. Tenez l'objet dans vos mains, fermez les yeux et rappelez-vous l'instant précis où vous avez reçu la nouvelle de votre succès. Ressentez la chaleur dans votre poitrine et la clarté d'esprit. Le carnet peut servir de rappel de ce que Margot a déjà fait ; il n’a pas besoin de lui faire revivre la même émotion pour être utile.
+### 3. L’élan rencontre les limites du calendrier
+
+Se sentir davantage en mesure d’agir ne signifie pas disposer de plus d’heures. Margot doit encore préparer le programme vendu et garder la place qu’elle souhaite donner à sa vie personnelle. Une crainte peut rester présente à côté de l’enthousiasme.
+
+Elle commence à ajouter une séance fictive sur le créneau de marche choisi avec Philippe, puis l’efface. Elle laisse aussi les autres rendez-vous en brouillon, car personne ne les a confirmés. Ces deux limites donnent une forme pratique à un avenir encore ouvert.
+
+## Trois techniques pour canaliser l’espoir après un succès
+
+### 1. Lister plusieurs chemins vers un objectif limité
+
+Margot veut préparer le programme payé sans remplir son agenda de clients imaginés.
+
+1. Inscrire cet objectif actuel et ses deux créneaux de préparation, avant de projeter de nouvelles inscriptions.
+2. Noter quelques voies possibles si une question de préparation apparaît : reprendre ses notes, revoir le cadre annoncé ou demander un avis ciblé à Sylvie.
+3. Choisir la prochaine action disponible et ce qui indiquera qu’une précision manque, plutôt que lancer toutes les voies ensemble.
+
+La feuille peut rendre le prochain pas plus clair. Elle ne garantit ni la satisfaction de la cliente ni de futurs contrats.
+
+### 2. Décrire une attente et les conditions qui la rendent possible
+
+Le journal sert à préciser ce que Margot aimerait vivre, sans obligation d’imaginer chaque matin un avenir heureux.
+
+1. Choisir une seule attente proche : préparer une séance avec assez de temps, ou garder la marche de lundi.
+2. Décrire ce qui dépend d’elle et ce qui dépend d’un accord, d’une réponse ou de la météo.
+3. Garder une option si la première ne tient pas, puis refermer la page pour revenir aux engagements présents.
+
+Cette anticipation peut orienter un choix. Elle peut rester factuelle si les images sensorielles n’aident pas ou si se projeter lui pèse.
+
+### 3. Garder un rappel factuel de ce qui est déjà accompli
+
+Le carnet peut conserver la trace du succès sans devoir provoquer la même sensation que le virement.
+
+1. Noter le fait exact : un programme complet a été payé, avec la date et les préparations qu’il demande.
+2. Ajouter une action réellement accomplie pour y parvenir et une incertitude qui reste ouverte.
+3. Lorsqu’un doute revient, relire cette page pour choisir une action du jour, puis reposer le carnet.
+
+Le rappel peut nuancer « rien n’avance » sans devenir « tout va réussir ». Margot n’a pas à fermer les yeux, à retrouver une chaleur particulière ou à prouver qu’elle espère assez.
 
 ## Deux créneaux sur le calendrier
 

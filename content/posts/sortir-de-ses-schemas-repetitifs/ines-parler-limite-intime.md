@@ -39,17 +39,23 @@ Inès compose mentalement une explication trop vaste. Elle cherche des arguments
 
 Clara n’exige pas ce débat. Inès anticipe une contestation à partir de sa propre exigence de cohérence. Cette observation reste locale : elle ne suffit pas à lui attribuer un fonctionnement permanent. Le contexte compte aussi. Les discussions publiques sur la sexualité peuvent rendre certaines personnes inquiètes d’être jugées trop prudentes ou trop curieuses. Aucune de ces normes ne décide à leur place. L’intimité n’est pas un examen d’ouverture d’esprit.
 
+Chercher une preuve générale que cette pratique ne convient pas et défendre son image de personne ouverte sont deux débats qui déborderaient le seul choix d’Inès.
+
 ### Laisser la décision en suspens pour amortir le refus
 
 « On verra » semble préserver toutes les possibilités, mais ne correspond pas toujours à une véritable indécision. Pour Inès, ces mots servent à repousser une gêne. Ils conduisent ensuite à surveiller le sujet, à anticiper une relance et à composer des excuses. Son envie de ménager l’échange crée ainsi une incertitude qu’elle doit porter plus longtemps. Elle peut corriger cette réponse sans se reprocher d’avoir cherché du temps.
 
 Une formulation provisoire reste utile lorsqu’elle exprime une vraie hésitation : « Je ne sais pas et je ne veux pas décider maintenant. » Cette phrase contient déjà une limite actuelle. Ni « on verra » ni un temps de réflexion ne donnent le feu vert pour commencer. Inès peut préciser son choix quand elle le souhaite ; Clara doit attendre un accord libre avant d’envisager un geste. Inès apprend à distinguer ses besoins : parfois elle veut réfléchir, parfois elle sait qu’elle refuse et cherche seulement comment le dire.
 
+Ajouter « peut-être plus tard » sur le chemin, alors qu’elle ne le souhaite pas, prolongerait comme le premier « on verra » une décision déjà prise.
+
 ### Croire que comprendre signifie obtenir tous les détails
 
 Lorsque Clara demande une explication, Inès imagine qu’elle doit trouver une cause intime dans son passé. Elle n’a pourtant aucune histoire particulière à communiquer sur ce point. Dire cela lui paraît presque insuffisant. La recherche d’un « pourquoi » peut devenir une enquête sans fin lorsque chaque réponse appelle une nouvelle vérification. Une curiosité respectueuse accepte aussi de ne pas recevoir l’ensemble des informations qu’elle souhaiterait.
 
 Clara précise alors sa question : elle veut savoir si elle a insisté sans le remarquer. Cette précision change l’échange. Inès peut répondre sur un comportement concret : la proposition n’est pas répétée, mais sa propre réponse reste ambiguë. Elles peuvent discuter de cette ambiguïté sans explorer le contenu privé de toutes les préférences d’Inès. Comprendre comment mieux se parler n’exige pas toujours de connaître l’origine d’une limite.
+
+Une question sur sa réaction présente et une demande de récit sur son passé n’appellent pas le même contenu ; Inès peut répondre à la première sans ouvrir le second.
 
 ## Dire la limite sans lui donner une date d’expiration
 

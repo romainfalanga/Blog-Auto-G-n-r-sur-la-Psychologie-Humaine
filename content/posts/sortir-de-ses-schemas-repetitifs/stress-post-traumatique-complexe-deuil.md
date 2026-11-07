@@ -33,28 +33,75 @@ Un deuil peut s’accompagner de tristesse, de fatigue, de troubles du sommeil o
 
 Pour Djamila, penser aux paroles qu’elle aurait aimé dire à sa grand-mère et avoir soudain l’impression que Samir est de nouveau dans le couloir sont deux expériences différentes. Si les nuits agitées, les souvenirs ou l’état d’alerte perturbent son quotidien, elle peut en parler à un professionnel de santé et décrire ce qu’elle vit, sans devoir choisir elle-même une étiquette.
 
+### Le manque de la personne décédée
+
+Djamila garde l’envie de raconter un détail à sa grand-mère. Le manque et les souvenirs peuvent rester douloureux sans permettre de conclure à un trouble. Les mots qu’elle choisit pour parler du lien perdu ont leur place à côté des autres difficultés.
+
+Exemples situés :
+
+- En voyant le verre d’Adam, Djamila pense à ce qu’elle aurait aimé raconter à sa grand-mère.
+- Elle prend son téléphone avec l’idée de lui parler, puis se rappelle qu’elle ne peut plus l’appeler.
+
+### Les rappels de violence et l’alerte
+
+Un bruit lui rappelle Samir et son corps reste tendu un moment. Un rappel, un sursaut ou une crainte ne suffisent pas à établir que l’ensemble des conditions du TSPT ou du TSPT complexe est réuni. Elle peut décrire cette expérience avec ses propres mots.
+
+Exemples situés :
+
+- Au claquement de porte, elle serre ses clés et repense aux soirs où Samir haussait la voix.
+- Au retour du groupe, le bruit du portail la fait encore sursauter ; le souvenir agréable partagé n’a pas supprimé cette réaction.
+
+### Le retentissement à décrire dans la vie quotidienne
+
+La question clinique porte aussi sur ce qui devient difficile dans le sommeil, le travail ou les liens. Une gêne peut avoir plusieurs explications et mérite d’être examinée sans attendre que Djamila tranche entre elles. Ces exemples servent à préparer une description, pas à se noter des symptômes.
+
+Exemples situés :
+
+- Si elle reste éveillée après les bruits du palier, elle peut décrire ce qui se passe à son médecin sans décider du diagnostic.
+- Si la fatigue gêne un entretien à l’association, elle peut préciser ce retentissement avec l’appui de la consultation, sans l’attribuer seule au deuil ou au trauma.
+
 ## Trois appuis pour les journées difficiles
 
-Ces pistes sont facultatives. Elles peuvent aider à traverser un moment difficile ; elles ne sont pas un traitement du TSPT complexe.
+Les propositions suivantes restent facultatives ; elles portent sur des choix actuels et ne demandent pas de revisiter seul une violence.
 
 ### 1. Revenir à ce qui se passe autour de soi
 
-Si le lieu est sûr, on peut sentir ses pieds au sol et nommer quelques choses que l’on voit ou entend. Djamila remarque la lumière dans le couloir et la voix d’Adam dans la pièce voisine. Le [guide de l’OMS sur le stress](https://tdr.who.int/home/our-work/global-engagement/9789240003927) propose des exercices de ce type. Si se concentrer sur ses sensations aggrave le malaise, on peut arrêter.
+Objectif : Trouver un repère présent sans chercher à faire disparaître un souvenir.
+
+1. Si le lieu est sûr, choisir un détail de l’entrée, comme la lumière de la veilleuse ou le torchon sous les clés.
+2. Le regarder brièvement ou remarquer un contact confortable, les yeux ouverts si préférable, puis arrêter si cela aggrave le malaise.
+3. Choisir le geste suivant ou la présence à demander, sans exiger que le sursaut soit terminé.
+
+Utilité possible : Le [guide de l’OMS sur le stress](https://tdr.who.int/home/our-work/global-engagement/9789240003927) propose des exercices de retour à l’environnement. Ils peuvent offrir un point d’appui ; ils ne traitent pas le TSPT complexe.
 
 ### 2. Choisir ce qu’on souhaite écrire
 
-Djamila peut noter un souvenir ordinaire de sa grand-mère ou une chose qui l’aiderait aujourd’hui. Elle n’a pas à raconter en détail les violences ni à relire une scène qui l’envahit. Si elle préfère, elle peut laisser le carnet fermé et en parler plus tard avec son médecin.
+Objectif : Préparer quelques mots pour la consultation sans récit détaillé de violence.
+
+1. Choisir un souvenir ordinaire de sa grand-mère ou une difficulté actuelle que Djamila souhaite pouvoir dire.
+2. Noter quelques mots, comme le rire raconté au groupe ou le sursaut au portail, sans reconstituer la scène violente.
+3. Garder la note pour le médecin, ou laisser le carnet fermé et demander de l’aide pour commencer à parler.
+
+Utilité possible : Ces mots peuvent faciliter un premier échange. Aucune écriture traumatique ni distinction diagnostique n’est demandée à Djamila.
 
 ### 3. Demander une présence ou un accompagnement
 
-Une amie peut l’accompagner en promenade, ou Djamila peut essayer un groupe de parole si elle en a envie. Si les souvenirs de violence reviennent au point de perturber son sommeil ou son travail, une évaluation est indiquée. Pour le TSPT, les [recommandations du NICE](https://www.nice.org.uk/guidance/ng116/chapter/Recommendations) prévoient notamment des thérapies centrées sur le trauma avec des professionnels formés, adaptées aux besoins et à la sécurité de la personne.
+Objectif : Choisir un appui adapté à ce que Djamila cherche aujourd’hui.
 
-### Quand demander de l’aide
+1. Distinguer l’envie d’une promenade, d’un groupe de parole ou d’un rendez-vous de santé.
+2. Vérifier l’accord et la disponibilité de l’appui choisi, avec droit de ne pas raconter les violences dans un groupe.
+3. Si les souvenirs ou l’alerte perturbent le quotidien, décrire leur retentissement au professionnel pour discuter des besoins et de la suite.
 
-Le deuil peut être très douloureux et coexister avec les suites de violences. Il est possible de demander de l’aide dès que la souffrance pèse sur la vie quotidienne. Décrire les souvenirs, le sommeil, les situations évitées et ce qui vous aide à tenir donne un point de départ à la consultation.
+Utilité possible : Les [recommandations du NICE](https://www.nice.org.uk/guidance/ng116/chapter/Recommendations) prévoient pour le TSPT des thérapies centrées sur le trauma avec des professionnels formés, adaptées aux besoins et à la sécurité. Ces appuis quotidiens ne se substituent pas à une évaluation ou à ces soins.
 
 ## Les deux lignes du carnet
 
 Après une première rencontre avec le groupe de parole, Djamila note ce dont elle a parlé : le rire de sa grand-mère quand Adam lui demandait de refaire une histoire. Elle est contente d’avoir raconté ce détail. Au retour, le bruit du portail lui fait encore serrer les clés.
 
 Dans le carnet, sous le souvenir de sa grand-mère, elle écrit une deuxième ligne : « Le portail. Même sursaut en rentrant. » Elle garde les deux pour son rendez-vous avec le médecin.
+
+---
+
+Le deuil peut être très douloureux et coexister avec les suites de violences. Djamila garde dans son carnet le souvenir raconté au groupe et le sursaut au portail : pouvoir partager le premier n’a pas fait disparaître le second. Ces deux lignes lui donnent un point de départ pour la consultation, sans qu’elle ait à conclure elle-même à un diagnostic.
+
+Il est possible de demander de l’aide dès que la souffrance pèse sur la vie quotidienne. Décrire les souvenirs, le sommeil, les situations évitées et ce qui vous aide à tenir donne un point de départ à la consultation.

@@ -39,17 +39,32 @@ La veste sombre ne modifie pas la manière dont Salomé ajuste un instrument. El
 
 Elle n’a pas besoin de nier que les apparences jouent un rôle social. Elle peut reconnaître cet effet et choisir sa réponse. Porter une tenue pour une photographie ne signifie pas nécessairement se trahir. La refuser ne prouve pas automatiquement davantage d’authenticité. Le choix devient plus libre lorsque la personne sait ce qu’elle adapte, pourquoi elle le fait et quelles limites elle souhaite conserver, au lieu d’en déduire sa valeur.
 
+Deux exemples dans cette situation :
+
+- En regardant sa manche brodée sous la veste prêtée, Salomé se demande si son propre vêtement la fait paraître moins professionnelle.
+- Elle pourrait accepter un jugement sur ses réglages à partir de cette photo sans qu’aucun instrument ait été examiné.
+
 ### Traiter l’accord du groupe comme une absence d’alternative
 
 Les autres participantes et participants prennent les vestes rapidement. Salomé imagine qu’ils approuvent tous la consigne. Certains peuvent simplement ne pas y attacher d’importance, vouloir terminer vite ou penser eux aussi que la tenue est obligatoire. Un comportement commun ne révèle pas nécessairement un jugement partagé. Elle ne peut pas savoir ce que chacun pense sans poser de question, mais peut éviter de transformer leur geste en verdict unanime sur le sien.
 
 La question qu’elle pose n’engage pas à convaincre tout le groupe. Elle cherche d’abord l’information qui manque à son choix. Si une alternative est possible, d’autres pourront éventuellement l’utiliser ; ils restent libres de ne pas le faire. Salomé ne doit pas devenir la porte-parole de toutes les réserves imaginées. Elle peut parler pour elle-même et laisser les autres décider du poids qu’ils donnent à cette photographie.
 
+Deux exemples dans cette situation :
+
+- Les artisans enfilent les vestes et elle en conclut qu’ils les souhaitent tous, alors que Gaspard pense lui aussi suivre une obligation.
+- Le passage des cintres lui donne l’impression que la décision est déjà prise, même si personne ne lui a confirmé le statut de la consigne.
+
 ### Se demander comment paraître acceptable avant de savoir ce qui compte
 
 Salomé pense d’abord à éviter d’être « celle qui complique ». Elle cherche donc une adaptation assez discrète pour ne susciter aucune réaction. Cette priorité lui fait oublier sa question initiale : souhaite-t-elle être représentée ainsi ? Le regard anticipé du groupe décide de l’ordre de ses pensées. La préférence personnelle n’arrive qu’après une longue vérification de son acceptabilité, parfois trop tard pour être réellement considérée.
 
 Elle peut modifier cet ordre sans garantir une absence de gêne. Elle examine d’abord ce qui compte : rester reconnaissable sur une image publique et comprendre le projet collectif. Puis elle cherche les conditions d’un ajustement possible. L’objectif n’est pas de mépriser le groupe ni de refuser tout compromis. Il est de faire participer ses propres valeurs à la décision, au même titre que l’horaire, le rendu visuel et les attentes exprimées.
+
+Deux exemples dans cette situation :
+
+- Elle cherche une manière de garder sa chemise sans être remarquée avant même de demander ce que le photographe attend.
+- Elle se prépare à expliquer longuement son choix personnel alors qu’un essai de cadrage peut répondre à la question du contraste.
 
 ## Trois techniques pour examiner une norme avant de s’y adapter
 
@@ -61,6 +76,12 @@ L’exercice ne consiste pas à supposer que toute consigne cachera une liberté
 
 Vous pouvez préparer une question courte plutôt qu’un argumentaire complet. Elle peut être posée en privé, par écrit ou avec un relais si le cadre le permet. Le choix du canal compte lorsque l’exposition publique coûte davantage. Si questionner présente un risque réel, une adaptation temporaire peut être la décision la plus sûre. Elle ne prouve pas votre accord intérieur et ne retire pas le droit de revoir le cadre plus tard.
 
+Pour passer à une action limitée :
+
+1. Reprenez les mots employés pour demander la veste, sans leur ajouter une règle absente.
+2. Si le contexte permet la question, demandez le rendu recherché et si le vêtement est imposé.
+3. Vérifiez les alternatives et conséquences concrètes avant de décider, en choisissant un canal ou un relais adapté si nécessaire.
+
 ### 2. Séparer l’exigence réelle, le jugement supposé et sa préférence
 
 Salomé note mentalement trois informations. L’exigence réelle concerne la lisibilité de l’image. Le jugement supposé est qu’on la trouvera peu sérieuse sans veste. Sa préférence est de porter sa chemise. Elle peut désormais chercher un ajustement entre des éléments distincts, au lieu de débattre intérieurement d’une phrase globale : « Je dois changer pour être crédible. » Cette décomposition ne décide pas du résultat, mais rend les options visibles.
@@ -69,6 +90,12 @@ Elle demande si son vêtement peut être vérifié dans le cadrage. La propositi
 
 Pour essayer, partez d’une situation limitée : une formule de présentation, un repas collectif, un vêtement ou un usage de réunion. Demandez ce qui est explicitement attendu et ce que vous imaginez ajouté par les autres. Puis écrivez votre préférence avant de chercher un compromis. Si les conséquences du désaccord sont lourdes, faites aussi une place aux ressources matérielles et aux appuis disponibles. La marge de choix ne se mesure pas seulement au courage ressenti.
 
+Pour passer à une action limitée :
+
+1. Écrivez la contrainte confirmée : ici la lisibilité de l’image.
+2. Distinguez le jugement que vous anticipez de votre préférence pour la chemise.
+3. Proposez un ajustement qui tient compte des deux données réelles, comme vérifier le motif dans le cadre.
+
 ### 3. Choisir un essai limité et observer la réponse
 
 Salomé propose de garder sa chemise pour un premier cliché. Elle regarde ensuite l’image avec la personne qui organise la séance. Le motif reste discret et le collectif demeure lisible. L’essai répond à la question technique mieux que la longue préparation d’arguments qu’elle imagine au départ. La réponse du groupe devient une observation : certaines personnes ne commentent pas, une autre demande où elle trouve le tissu, et la séance continue.
@@ -76,6 +103,12 @@ Salomé propose de garder sa chemise pour un premier cliché. Elle regarde ensui
 Cette réception ne garantit pas que toute différence sera bien accueillie ailleurs. Salomé peut garder le résultat local sans en faire une règle universelle. Elle peut aussi remarquer ce qui lui coûte : poser la question en public reste fatigant. Un essai utile ne doit pas être déclaré agréable pour compter. Il fournit des informations sur le cadre, les conséquences et le degré d’ajustement qu’elle souhaite reproduire.
 
 Le bilan peut tenir en trois phrases : qu’est-ce que je choisis, qu’est-ce qui se produit, qu’est-ce que je garde pour la suite ? Il ne demande pas de noter sa capacité à résister aux normes. Parfois, le choix sera de suivre un usage qui convient ; parfois, de le discuter ; parfois, de chercher un autre environnement. La finalité est une décision informée, dans les possibilités réelles de la situation.
+
+Pour passer à une action limitée :
+
+1. Convenez d’un premier cliché avec la tenue choisie si cet essai est accessible.
+2. Regardez le rendu et les réponses effectives du groupe, plutôt que leurs opinions supposées.
+3. Décidez ce que vous gardez pour cette photo et ce qui mérite une clarification future, sans généraliser à tous les collectifs.
 
 ## La chemise reste dans le cadre
 

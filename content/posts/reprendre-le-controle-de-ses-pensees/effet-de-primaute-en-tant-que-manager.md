@@ -35,22 +35,47 @@ En 1946, Solomon Asch a notamment comparé les impressions de personnes qui lisa
 ### L'ancrage lors des processus de recrutement
 Nadia note la maladresse de Marc avant qu'il ait présenté son travail. Elle peut se demander si ce détail est pertinent pour le poste et s'il mérite plus de poids que les exemples de mise en œuvre qu'il donne ensuite.
 
+Exemples situés :
+- Le mot « hésitant » écrit après le heurt de la chaise prend de la place avant que Marc raconte son lancement.
+- L’aisance d’entrée de Sarah conduit Nadia à cocher « communication » avant d’avoir comparé ses réponses à celles de Marc.
+
 ### La cristallisation des opinions en réunion d'équipe
 Une première idée peut orienter l'image que Nadia se fait d'un collaborateur. Pour une décision de travail, elle peut comparer les contributions pertinentes tout au long du projet.
 
+Exemples situés :
+- Dans un projet, Nadia pourrait garder l’impression d’un premier échange peu clair avec Julie même si les versions suivantes sont mieux documentées.
+- À l’inverse, une proposition initiale très convaincante ne dispense pas de vérifier les réponses données aux objections ultérieures.
+
 ### L'évaluation annuelle et le poids du passé
 Lors d'une évaluation annuelle, un exemple des premières semaines peut rester saillant. Nadia peut le mettre en regard de faits documentés sur la période et des changements observés depuis.
+
+Exemples situés :
+- Pour un bilan, Nadia peut retrouver le premier rapport d’un collaborateur et examiner aussi les corrections apportées pendant l’année.
+- Si elle se rappelle surtout un lancement réussi en début de période, elle peut compléter ce fait avec les contributions documentées des mois suivants.
 
 ## Techniques pour agir avec discernement
 
 ### 1. La technique de l'inversion des preuves
 Dans une colonne, notez l'impression immédiate. Dans l'autre, notez ce que la personne a fait ou expliqué. Relevez les faits qui nuancent l'impression et ceux qui la soutiennent, puis écartez ceux qui ne renseignent pas sur le poste.
 
+L’objectif est de comparer une impression et les faits pertinents pour le poste. Les trois actions sont de noter l’impression initiale, de relever les réponses qui la soutiennent ou la nuancent, puis d’écarter les éléments non pertinents comme le heurt de la chaise. L’utilité possible est de redonner une place à la réponse de Marc sur le lancement, sans remplacer une impression favorable par une défavorable.
+
 ### 2. Des critères communs à tous les candidats
 Préparez les mêmes questions principales et les mêmes critères pour chaque candidat. Nadia peut noter, par exemple, les éléments de maîtrise technique, de coopération et de mise en œuvre. Des critères liés au travail sont plus utiles qu'une moyenne de quarts d'heure qui ne portent pas sur les mêmes choses.
 
+Objectif : rendre les réponses comparables sur le travail attendu.
+
+Exercice pratique :
+1. Avec Julie, choisissez avant l’entretien les critères utiles au poste et deux cas identiques à présenter.
+2. Posez ces cas à chaque candidat et notez les éléments de réponse selon les mêmes critères.
+3. Comparez les réponses plutôt que l’aisance des entrées ou des quarts d’heure consacrés à des thèmes différents.
+
+Utilité possible : la grille peut rendre visibles les écarts d’information ; elle ne garantit pas l’absence de biais.
+
 ### 3. La prise de note différée et collaborative
 Prenez des notes factuelles pendant l'entretien et reportez le jugement global. Quand plusieurs personnes évaluent la candidature, chacune peut d'abord remplir sa propre grille. Les écarts permettent ensuite de revenir sur les exemples qui les expliquent.
+
+L’objectif est de différer le jugement global tout en gardant les faits. Dans la scène, Nadia et Julie peuvent noter les réponses pendant l’entretien, remplir chacune leur grille avant de connaître l’avis de l’autre, puis discuter un écart à partir d’un exemple précis. L’utilité possible est de faire apparaître une relance différente, comme celle sur les délais, plutôt que fusionner d’emblée leurs impressions.
 
 ## Julie remet une réponse dans la balance
 

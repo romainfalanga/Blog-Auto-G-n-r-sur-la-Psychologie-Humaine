@@ -33,9 +33,28 @@ Dans la salle des professeurs, plusieurs personnes généralisent un incident à
 
 L’équipe dispose de renseignements sur quelques élèves. Quand elle parle de tout un quartier, elle dépasse ces informations. Isabelle peut revenir à la question de départ : qu’a-t-on observé, et qu’est-ce qui doit encore être vérifié ?
 
+Exemples concrets
+
+- Le professeur passe d’un incident impliquant quelques élèves à toutes les familles du quartier.
+- Claire reprend un jugement sur les valeurs des parents sans ajouter de fait sur l’événement.
+
 ### L’accord apparent gêne les objections
 
 Isabelle hésite à parler parce qu’elle craint d’être isolée. Son silence pourrait être entendu comme un accord, même si elle doute. Elle peut choisir une formulation courte ou demander un échange avec une collègue après la réunion.
+
+Exemples concrets
+
+- Isabelle hésite à objecter parce que plusieurs collègues acquiescent.
+- Son silence autour de la tasse pourrait être compris comme l’approbation du jugement collectif.
+
+### Chercher du soutien semble exiger le même jugement
+
+Isabelle apprécie l’appui de ses collègues après des journées éprouvantes. Dans cette réunion, elle craint que la solidarité demande d’accepter leurs propos sur les familles. Elle peut distinguer le besoin de soutien de son avis sur l’incident et les personnes concernées.
+
+Exemples concrets
+
+- Après les journées éprouvantes, Isabelle ressent un soulagement à se ranger avec ses collègues.
+- Elle peut vouloir leur soutien sans accepter de qualifier toutes les familles de démissionnaires.
 
 ## Trois façons de revenir à la situation
 
@@ -43,13 +62,43 @@ Isabelle hésite à parler parce qu’elle craint d’être isolée. Son silence
 
 Isabelle distingue la conduite reprochée à certains élèves des suppositions concernant leur famille. Le groupe peut entendre les personnes concernées dans le cadre adapté, puis décider quelle suite donner à l’événement.
 
+**Objectif :** Revenir à l’incident connu.
+
+Exercice pratique
+
+- Relevez ce que l’équipe sait de l’incident et des élèves présents.
+- Séparez ces faits du jugement sur le quartier.
+- Demandez quelles personnes doivent être entendues ou contactées dans le cadre de l’établissement.
+
+**Utilité possible :** La description des faits peut limiter la portée du jugement sans effacer les responsabilités.
+
 ### 2. Préciser un objectif commun
 
 Le bien-être et la sécurité des élèves donnent une question concrète à l’équipe : quelle réponse permet de traiter l’incident et d’informer les familles ? Un objectif partagé n’oblige personne à s’accorder sur tous les faits ni à négliger une responsabilité.
 
+**Objectif :** Répartir une réponse commune sans généraliser aux familles.
+
+Exercice pratique
+
+- Proposez de traiter l’événement et d’informer les familles concernées.
+- Demandez qui prend les appels et sur quels faits chacun s’appuie.
+- Vérifiez les responsabilités et les désaccords restants sans rechercher une unanimité générale.
+
+**Utilité possible :** Une tâche attribuée rend la suite concrète même si les collègues restent en désaccord.
+
 ### 3. Garder une pause avant de prendre position
 
 Isabelle remarque qu’elle se crispe. Elle prend un instant pour distinguer sa colère, les informations entendues et ce qu’elle souhaite proposer. Ce sont ses propres réactions, même si la discussion les influence. Elle peut demander un temps de vérification avant qu’une décision soit prise.
+
+**Objectif :** Choisir une intervention compatible avec sa position dans le groupe.
+
+Exercice pratique
+
+- Remarquez l’envie d’acquiescer ou la crainte d’être isolée.
+- Distinguez ce ressenti de l’information effectivement entendue.
+- Choisissez une question brève en réunion ou un échange ultérieur adapté avant la décision.
+
+**Utilité possible :** Ce temps peut aider Isabelle à choisir sa contribution sans garantir l’accueil de son objection.
 
 ## Une objection autour de la table
 

@@ -31,15 +31,21 @@ La recherche d’approbation peut passer par des choix minuscules : un détail a
 
 ### 1. La mise en scène de soi et l'exagération des succès
 
-Au stage, Lucas a passé l’après-midi sur Excel. En quelques phrases, il transforme ce travail banal en décision stratégique. L’écart entre ce qu’il a fait et ce qu’il raconte lui montre combien il se sent encore tenu de prouver qu’il a sa place à l’école.
+Au stage, Lucas a passé l’après-midi sur Excel. En quelques phrases dans le salon, il transforme ce travail en décision stratégique. Le rire de Romain devient le signal qu’il peut ajouter un détail encore plus valorisant, plutôt qu’une simple réaction à une histoire.
+
+Quand la conversation porte sur les recrutements, il peut aussi être tenté d’inventer qu’un cabinet de conseil l’a approché. Dans le premier exemple, il agrandit un fait ; dans le second, il songe à fabriquer une nouvelle réussite. Le décalage avec sa journée réelle lui indique combien le récit dépend alors de l’effet qu’il attend sur ses amis.
 
 ### 2. La difficulté à exprimer un désaccord
 
-Dire non peut sembler risqué quand on craint de décevoir ses amis. Pour le ski, Lucas avait inventé une mission freelance pour décliner l’invitation, plutôt que de dire que le prix dépassait son budget. Il a pu éviter la dépense, mais il n’a pas pu proposer ouvertement une sortie qu’il aurait eu les moyens de faire.
+Lucas peut éviter de contredire un ami même lorsqu’une préférence ou une contrainte mérite d’être dite. Pour le ski, il invente une mission freelance plutôt que de dire que le prix dépasse son budget. Il évite la dépense, mais ne peut pas discuter ouvertement d’une autre sortie.
+
+Dans la conversation sur le stage, il pourrait également acquiescer à l’idée qu’une journée sur des tableaux n’a aucun intérêt, alors qu’il souhaite raconter ce qu’il a appris. Ce second exemple concerne une appréciation, pas une dépense. Dans les deux cas, protéger l’approbation attendue risque de rendre son propre avis invisible. Un silence choisi pour garder sa vie privée reste une autre possibilité.
 
 ### 3. La dépendance aux signes extérieurs de validation
 
-Un message qui reste sans réponse peut donner envie de vérifier la conversation encore une fois. Lucas peut avoir l’impression que le silence lui est adressé, alors qu’il ne sait pas ce que ses amis font ni quand ils liront le message.
+Lucas cherche parfois une réponse visible pour savoir ce qu’il doit penser de sa propre journée. Un signe le rassure brièvement, puis un autre détail relance le doute. L’enjeu n’est pas d’interdire le plaisir d’être écouté, mais d’observer ce qui se passe quand l’approbation prend toute la place.
+
+Dans le salon, Maxime regarde son téléphone et Lucas cherche immédiatement une nouvelle anecdote. Après un message, il peut rouvrir la conversation en espérant qu’une réponse confirme qu’il n’a pas ennuyé ses amis. Le regard détourné et le message sans réponse sont deux faits différents ; ni l’un ni l’autre ne lui donne, à lui seul, le jugement de Maxime ou de Romain.
 
 ## Trois façons de desserrer la pression
 
@@ -47,15 +53,33 @@ Lucas n’a pas besoin de renoncer au plaisir d’être apprécié. Il essaie de
 
 ### 1. Regarder ce qu’on a fait avant de chercher un compliment
 
-Après une journée au stage, il peut se demander : « Qu’est-ce que j’ai fait, et qu’est-ce que j’en pense ? » Il a mis des tableaux en forme, vérifié quelques chiffres et demandé de l’aide quand une formule bloquait. Il n’a pas à transformer ce bilan en exploit pour qu’il compte.
+L’objectif est de conserver un avis sur une journée avant d’attendre qu’une réaction du salon lui en donne la valeur.
+
+1. Avant de raconter son stage, Lucas note les actions : mettre les tableaux en forme, vérifier des chiffres et demander de l’aide sur une formule.
+2. Il choisit ce qu’il en pense : un point utile, une difficulté ou une partie répétitive. Il n’est pas obligé d’y trouver une réussite remarquable.
+3. Il raconte un de ces éléments sans lui ajouter une mission plus prestigieuse, puis laisse les autres répondre ou passer à un autre sujet.
+
+Ce repère garde la journée racontable même sans compliment. Il ne garantit pas que Lucas se sentira immédiatement satisfait de lui-même.
 
 ### 2. Partager un détail à la mesure de la confiance
 
-Avec un ami en qui il a confiance, Lucas pourrait dire simplement : « J’ai passé un temps fou sur ces tableaux, j’en ai eu marre. » Il peut s’arrêter là. Il choisit ce qu’il veut partager, et la réaction de l’autre lui apprend quelque chose sur cet échange précis.
+Lucas peut essayer une parole plus proche de son vécu avec un ami choisi, sans se donner pour tâche de tout avouer.
+
+1. Choisir un détail qu’il accepte de partager avec Romain ou Maxime : « J’ai passé longtemps sur ces tableaux, j’en ai eu marre. » Garder hors de l’échange ce qui doit rester privé.
+2. Vérifier que l’ami a un moment, dire cette phrase puis attendre sans la remplacer aussitôt par une anecdote plus impressionnante.
+3. Observer ce qui est réellement répondu. Il peut préciser qu’il souhaite juste raconter, poser une question à l’autre ou clore le sujet si cela ne lui convient pas.
+
+L’essai donne une information sur cet échange. Une réponse distraite n’autorise pas à conclure que toute l’amitié dépend de ses performances.
 
 ### 3. Mettre une ancienne règle à l’épreuve
 
-Quand il pense « Je dois montrer que les sacrifices de mes parents ont payé », Lucas peut se demander à quoi cette règle l’oblige aujourd’hui. La rendre moins sévère peut vouloir dire accepter de raconter une journée ordinaire, ou parler à ses parents de ce qui l’intéresse dans le stage autant que de ses résultats.
+La règle « je dois montrer que les sacrifices de mes parents ont payé » est une phrase que Lucas se donne. Il ne la traite pas comme la preuve de ce que Sandrine et Jean-Marc exigent aujourd’hui.
+
+1. Écrire ce que cette règle lui demande dans le salon : embellir le stage ou cacher une journée banale. Relever le coût de cette réponse pour lui.
+2. Chercher une formulation plus praticable : « Je peux prendre mes études au sérieux et raconter une difficulté. » Il peut conserver les mots qui lui conviennent sans se forcer à y croire pleinement.
+3. Choisir une action limitée : raconter la journée telle qu’elle est, ou demander à ses parents ce qu’ils souhaitent savoir du stage en dehors des résultats.
+
+Cette démarche ouvre une autre réponse à la pression. Elle ne décide pas de l’origine de la règle ni de la réaction de ses proches.
 
 ## Une histoire qui n’impressionne personne
 

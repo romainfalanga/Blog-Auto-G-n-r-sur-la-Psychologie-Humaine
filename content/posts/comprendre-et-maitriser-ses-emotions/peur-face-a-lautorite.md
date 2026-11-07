@@ -34,22 +34,61 @@ Devant une personne en position d’autorité, on peut craindre une évaluation,
 ### Hypervigilance et évitement
 Mei sait bien repérer ce comportement : ses sens se tournent vers chaque détail extérieur pour détecter un signe de jugement. En cours, elle reste au fond, observe les gestes des autres dessinateurs, guette les reformulations de M. Dubois plutôt que de suivre son propre élan. Cette hypervigilance culmine parfois en évitement. Plutôt que d'envoyer son portfolio en ligne ou d'exposer lors d'un petit salon, elle laisse ses feuilles dans un tiroir. Par exemple, elle décline une proposition de présentation devant la classe, prétextant un emploi du temps chargé, alors qu'en réalité c'est la peur d'affronter une figure de jugement qui la retient. Elle se rappelle l'effet spotlight qui la paralysait autrefois en atelier : cette certitude que chaque trait de crayon était une erreur exposée au monde entier, l'empêchant de simplement exister parmi ses pairs.
 
+Deux exemples dans cet épisode :
+
+- Mei regarde le créneau libre plusieurs fois tout en gardant la main sur le tiroir où elle vient de déposer le dessin.
+- Elle laisse vide la ligne de remarques malgré la question préparée, pour éviter de l’exposer au moment de la note.
+
 ### Silence, conformisme et fausse conformité
 Face à une figure d'autorité, de nombreuses personnes optent pour la conformité visible. Pour Mei, cela se matérialise par des acquiescements rapides en réunion de critique, par la répétition des mots du professeur pour paraître d'accord, ou par la suppression d'un détail qui lui tient à cœur dans une illustration. Ce silence n'est pas neutre : il protège, mais il efface aussi une partie de l'expression artistique. Lors d'une critique, M. Dubois suggère d'éliminer une couleur qu'il juge trop personnelle, et Mei accepte sans proposer d'alternative, bien qu'elle sente que la teinte est essentielle à son intention. Ce mécanisme de fusion, elle l'a aussi observé avec Julien, où elle s'oubliait pour mimer les désirs de l'autre, transformant sa vie en une performance de docilité pour éviter le rejet.
 
+Deux exemples dans cet épisode :
+
+- Elle pourrait accepter immédiatement de retirer le bleu avant de demander sur quel critère il sera évalué.
+- Elle reformule le vocabulaire de M. Dubois pour paraître d’accord sans expliquer la place qu’elle souhaite garder à cette couleur.
+
 ### Blocage créatif et réactions corporelles
-La peur peut se traduire par des symptômes physiques et un ralentissement de la créativité. Pour Mei, le simple fait d'imaginer la correction transforme les traits en hésitations tournant en ratures. Elle ressent une tension dans les mains quand elle commence un nouveau dessin pour le cours de M. Dubois, et parfois une migraine sourde après des heures passées à tenter de rendre quelque chose de conforme. Ces manifestations montrent que la peur face à l'autorité interfère directement avec la production artistique.
+La peur peut se traduire par des symptômes physiques et un ralentissement de la créativité. Pour Mei, le simple fait d'imaginer la correction transforme les traits en hésitations tournant en ratures. Elle ressent une tension dans les mains quand elle commence un nouveau dessin pour le cours de M. Dubois, et parfois une migraine sourde après des heures passées à tenter de rendre quelque chose de conforme. Dans le récit, ces difficultés accompagnent l’anticipation de la correction ; elles ne suffisent pas à attribuer toute douleur ou tout ralentissement à la peur.
+
+Deux exemples dans cet épisode :
+
+- Ses doigts tremblent sur la poignée en imaginant le temps nécessaire pour refaire la planche.
+- Elle multiplie les essais de contour en anticipant la correction et n’arrive plus à décider lequel montrer ; cette difficulté ne suffit pas à expliquer toute douleur ou fatigue.
 
 ## Techniques pour affronter la peur face à l'autorité
 
 ### 1. La mise en mots ciblée et le rappel de faits
-Cette technique consiste à nommer précisément ce que l'on ressent dans la situation et à distinguer les faits des interprétations. Avant une interaction avec un professeur, vous pouvez écrire sur une feuille en deux colonnes. À gauche, notez les faits observables : "M. Dubois a dit que la composition manque de lisibilité", "il a posé trois questions". À droite, notez vos pensées et interprétations : "il pense que je suis une imposture", "il me juge comme incapable". Lisez ensuite chaque paire fait et pensée et reformulez l'interprétation en une hypothèse testable, par exemple : "il parle de lisibilité, je peux lui montrer mon intention et demander un exemple concret". L'objectif est de réduire l'amalgame entre une remarque technique et une attaque personnelle, ce qui diminue la charge émotionnelle et permet une réponse plus claire.
+Cette technique consiste à nommer précisément ce que l'on ressent dans la situation et à distinguer les faits des interprétations. Avant une interaction avec un professeur, vous pouvez écrire sur une feuille en deux colonnes. À gauche, notez les faits observables : "M. Dubois a dit que la composition manque de lisibilité", "il a posé trois questions". À droite, notez vos pensées et interprétations : "il pense que je suis une imposture", "il me juge comme incapable". Lisez ensuite chaque paire fait et pensée et reformulez l'interprétation en une hypothèse testable, par exemple : "il parle de lisibilité, je peux lui montrer mon intention et demander un exemple concret". L'objectif est de réduire l'amalgame entre une remarque technique et une attaque personnelle, sans garantir une diminution de la peur.
+
+Objectif de cet essai : Distinguer un retour connu et la réaction redoutée.
+
+1. Écrivez le retour réellement reçu sur la planche ou le critère encore inconnu.
+2. Séparez la sanction que vous redoutez de ce qui a été annoncé.
+3. Choisissez la question qui fournirait une information utile, sans conclure d’avance qu’elle sera bien accueillie.
+
+Utilité possible : La note donne une question de travail sans promettre de réduire la peur.
 
 ### 2. Choisir une étape et un appui
 Dans un cadre sûr, Mei peut choisir une action qui l’intéresse, comme montrer une page à Océane avant de demander un retour au professeur. Tenir son carnet lui sert de repère si elle le souhaite. Une confrontation n’est pas une étape obligatoire. Face à des menaces, à une discrimination ou à des représailles possibles, privilégiez un appui et les recours de l’établissement.
 
+Objectif de cet essai : Choisir un appui ou un canal accessible.
+
+1. Examinez les conditions de l’échange et les signes de risque réels.
+2. Choisissez si vous voulez montrer d’abord la page à Océane, écrire la question ou demander un accompagnement.
+3. Maintenez, différez ou abandonnez cette démarche selon vos moyens ; face à des représailles possibles, cherchez un appui adapté.
+
+Utilité possible : L’appui élargit les options sans imposer une confrontation ou une exposition.
+
 ### 3. Préparation de scripts assertifs et mise en scène
-Élaborer des phrases courtes, claires et respectueuses pour expliquer un choix artistique ou demander des précisions permet de mieux réagir le moment venu. Écrivez trois scripts adaptés aux moments où vous vous sentez jugé. Exemples pour Mei : "Merci pour ce retour. J'aimerais expliquer l'intention derrière cette couleur.", "Je comprends votre point. Accepteriez-vous que je l'explique dans ma prochaine version ?", "Je prends note de votre remarque, pouvez-vous me donner un exemple visuel ?" Enregistrez-vous en train de dire chaque phrase, puis jouez l'enregistrement et répliquez devant un miroir ou avec un proche. La mise en scène réduit la surprise et facilite la réponse réelle quand la situation se présente. Ce travail reprend l'apprentissage de la nomination vu précédemment et l'associe à une action concrète.
+Élaborer des phrases courtes, claires et respectueuses pour expliquer un choix artistique ou demander des précisions permet de mieux réagir le moment venu. Écrivez trois scripts adaptés aux moments où vous vous sentez jugé. Exemples pour Mei : "Merci pour ce retour. J'aimerais expliquer l'intention derrière cette couleur.", "Je comprends votre point. Accepteriez-vous que je l'explique dans ma prochaine version ?", "Je prends note de votre remarque, pouvez-vous me donner un exemple visuel ?" Vous pouvez relire une phrase seule ou avec une personne choisie si cela vous aide ; ni enregistrement ni mise en scène ne sont nécessaires. Ce travail reprend l'apprentissage de la nomination vu précédemment et l'associe à une action concrète.
+
+Objectif de cet essai : Préparer une question courte sans performance de répétition.
+
+1. Écrivez la question sur ce qui comptera dans la note.
+2. Relisez-la seule ou avec une personne choisie si cela vous aide, sans enregistrement ni miroir nécessaires.
+3. Utilisez-la si vous le souhaitez et gardez la réponse pour votre essai, sans noter votre assurance.
+
+Utilité possible : La préparation rend la demande disponible sans garantir la réponse du professeur ni la note.
 
 ## La note viendra plus tard
 

@@ -35,13 +35,28 @@ Il reste important de distinguer l’inconnu d’une information ignorée alors 
 
 Baptiste regarde d’abord la confusion, puis cherche les signes qui auraient dû l’annoncer. Les arguments favorables à sa proposition paraissent alors faibles, même s’ils répondaient à des problèmes réellement observés. Il peut reprendre l’ordre chronologique : quel besoin existait, quelles options ont été comparées, quels critères ont été utilisés ? Cette reprise ne sert pas à rendre son choix admirable. Elle permet de vérifier ce qui était cohérent et ce qui ne l’était pas avant de connaître la suite. Le besoin de rendre le résumé lisible n’a pas disparu parce qu’une autre difficulté est apparue dans la version testée.
 
+Exemples concrets
+
+- Baptiste ne voit plus les intitulés qu’à travers la confusion du compte rendu.
+- Il minimise le résumé plus visible qui répondait pourtant à une difficulté repérée avant l’essai.
+
 ### Une question ouverte est relue comme un avertissement précis
 
 Dans ses notes, Baptiste avait écrit que certains intitulés restaient à vérifier. Après l’essai, il peut interpréter cette phrase comme la preuve qu’il savait déjà exactement ce qui n’allait pas. Or repérer une incertitude et connaître son résultat sont deux choses différentes. Il faut regarder ce qu’il a fait de la question : a-t-il prévu un examen adapté, écarté un avis clair ou supposé sans vérification que tout irait bien ? Ici, l’essai limité cherchait justement à éclairer cette zone. Le regret peut lui faire oublier que faire apparaître une difficulté constituait l’un des résultats possibles annoncés.
 
+Exemples concrets
+
+- La note « intitulés à vérifier » lui paraît annoncer exactement une confusion qu’il ne connaissait pas encore.
+- La phrase d’Emmanuel perd dans son souvenir les mots « avec la nouvelle remarque ».
+
 ### Le reproche global prend la place d’une correction utile
 
 Penser qu’il n’est pas fait pour coordonner un projet donne à Baptiste une conclusion très large, mais aucune action précise. Reconnaître qu’un groupe d’utilisateurs manque dans la première consultation apporte au contraire une question concrète : comment repérer les usages à inclure dans la prochaine préparation ? L’erreur éventuelle n’a pas besoin d’être minimisée pour rester limitée. Une correction proportionnée peut aussi examiner le cadre de travail, le temps accordé et les personnes chargées de valider. Tout attribuer à un défaut personnel rendrait invisibles ces dimensions autant que tout attribuer à l’imprévisible.
+
+Exemples concrets
+
+- Baptiste se dit inapte à coordonner au lieu de décrire le groupe absent de la consultation.
+- Ajouter cet usage à la prochaine préparation répond à une omission que se reprocher toute la fiche ne corrige pas.
 
 ## Trois pistes pour transformer le regret en examen utile
 
@@ -49,13 +64,31 @@ Penser qu’il n’est pas fait pour coordonner un projet donne à Baptiste une 
 
 Baptiste utilise ses notes, les messages et le compte rendu pour séparer trois moments : la préparation, la décision d’essayer et les observations nouvelles. Il ne cherche pas une archive parfaite ni une preuve pour se défendre contre tout reproche. Il veut retrouver ce qui était réellement connu à chaque étape. Lorsque les traces manquent, il peut le dire au lieu de compléter les espaces avec des certitudes actuelles. Une autre personne peut avoir conservé une information différente ; elle mérite d’être examinée avec sa date et son contexte. Cet exercice peut rester bref pour une décision ordinaire. Dans une situation avec des conséquences importantes, les procédures de retour d’expérience et les interlocuteurs compétents priment sur une simple reconstruction personnelle.
 
+Exercice pratique
+
+- Placez les premières notes, la décision d’essai et le compte rendu dans l’ordre.
+- Indiquez pour chaque moment les informations effectivement disponibles.
+- Marquez les traces manquantes sans les remplacer par ce que vous savez aujourd’hui.
+
 ### 2. Distinguer le choix, la méthode et le résultat
 
 Baptiste peut poser trois questions différentes : la version retenue répondait-elle aux critères définis, la manière de la choisir comportait-elle une omission et qu’a réellement produit l’essai ? Les réponses ne seront pas nécessairement toutes favorables ou toutes défavorables. Le résumé plus visible peut être pertinent, la consultation incomplète et la version globale insatisfaisante. Cette nuance permet de conserver une information utile sans sauver tout le projet ni tout rejeter. Elle évite aussi d’exiger de son état émotionnel qu’il tranche l’affaire. Se sentir honteux ne prouve pas un manquement supplémentaire ; se sentir soulagé ne prouve pas qu’aucune correction n’est nécessaire. Les éléments concrets restent le point de départ de l’examen.
 
+Exercice pratique
+
+- Examinez la lisibilité recherchée dans la version choisie.
+- Repérez séparément l’omission du groupe d’utilisateurs.
+- Décrivez le résultat de l’essai sans en faire le verdict unique sur les deux premiers points.
+
 ### 3. Choisir une correction pour la suite et une limite à la relecture
 
 Baptiste décide de préparer avec Patricia une courte liste des usages à consulter avant une autre proposition. Cette action répond à l’omission repérée. Il ne promet pas de ne plus jamais oublier une perspective ni de consulter toutes les personnes possibles pour chaque document. Ils doivent définir un cadre réaliste selon le projet. Une fois cette correction notée et la discussion prévue, Baptiste peut cesser de rouvrir le fichier pour chercher un sentiment de pardon complet. Le regret peut rester présent sans nécessiter une nouvelle analyse identique. Si la relecture devient envahissante ou si elle s’accompagne d’une forte dévalorisation, un soutien professionnel peut aider à examiner ce cycle, tout en conservant les responsabilités réelles à traiter.
+
+Exercice pratique
+
+- Préparez avec Patricia les usages à associer au prochain échange.
+- Notez la correction et le moment où elle sera discutée.
+- Une fois ce point préparé, fermez la relecture répétée et sollicitez un appui si elle devient envahissante.
 
 ## Ce qu’il savait avant l’essai
 

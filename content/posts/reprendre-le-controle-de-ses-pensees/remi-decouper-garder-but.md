@@ -39,17 +39,23 @@ Rémi étiquette trois boîtes avant de savoir ce qu'elles contiendront. Le gest
 
 Le nombre de cases cochées n'est donc pas toujours un bon indicateur. Rémi peut faire moins d'actions et obtenir un résultat plus utile en libérant d'abord une zone précise. Il ne méprise pas les petits gestes ; il les relie à leur fonction. La question devient : cette étape rend-elle la suivante possible ou rapproche-t-elle le placard de l'usage choisi ? Si non, elle peut attendre ou être supprimée.
 
+L’étiquetage des boîtes produit des cases faciles à cocher ; sortir tout le contenu sans destination pour les dons produit aussi beaucoup d’activité, mais encombre l’entrée au lieu de rendre l’aspirateur accessible.
+
 ### Confondre une étape et un projet entier
 
 « Donner les objets » contient plusieurs décisions : vérifier leur état, choisir une destination, connaître les modalités, organiser le transport. Rémi écrit une ligne mais engage en réalité un autre projet. Quand il ne termine pas, il se sent lent. La liste ne montre pas la complexité qu'elle lui demande de porter. Nommer quelques dépendances suffit parfois à expliquer pourquoi une action supposée rapide prend plus longtemps.
 
 À l'inverse, détailler chaque mouvement rendrait l'outil lourd à consulter. Rémi n'a pas besoin d'écrire comment ouvrir le placard ou tenir une boîte. Il cherche le niveau où un choix, une attente ou un moyen devient important. Ce niveau change selon son expérience. Un geste familier peut rester regroupé ; une démarche nouvelle mérite davantage d'explications. Le plan doit aider la personne qui l'utilise, pas démontrer une méthode parfaite.
 
+La ligne « donner » cache les conditions de dépôt et le transport ; la ligne « remettre » cache le choix commun de ce qui doit rester. Ces deux verbes ne deviennent exécutables qu’une fois leurs dépendances précisées.
+
 ### Oublier que le projet est partagé
 
 Julie préfère garder un objet que Rémi classe déjà parmi les dons. S'il traite sa liste comme une vérité neutre, leur désaccord ressemble à un obstacle ajouté par l'autre. Pourtant, l'accord sur ce qui peut sortir du placard fait partie du travail depuis le début. Une étape de décision commune n'est pas du temps perdu. Elle évite d'obtenir un rangement propre au prix d'une tension durable entre colocataires.
 
 Cette observation rejoint ce que Rémi rencontre avec ses consignes professionnelles : un support doit être compris et reconnu par les personnes concernées. Il peut préparer un tri sans décider à la place de tous. Il peut aussi dire qu'il ne souhaite pas porter seul tout le projet. Le découpage sert alors à partager des responsabilités précises, plutôt qu'à rendre invisible celui qui doit penser à chaque suite.
+
+Le vieux câble demande d’abord de savoir à qui il appartient ; l’objet que Julie souhaite garder exige son accord avant tout don. Ni l’un ni l’autre ne peut être décidé par la seule place disponible dans la boîte.
 
 ## 3 techniques pour découper une tâche en gardant son sens
 

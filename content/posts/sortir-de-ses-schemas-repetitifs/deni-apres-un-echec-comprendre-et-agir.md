@@ -22,45 +22,74 @@ Cette réaction lui rappelle étrangement ses longues nuits d'insomnie dans son 
 Il sent pourtant une raideur inhabituelle dans sa nuque. Son carnet de notes, celui qu'il avait commencé à remplir après avoir pris conscience de ses biais de négativité, reste fermé au fond de son sac. Il y a une forme de confort anesthésiant dans cette passivité. En refusant de regarder la réalité de ce rejet en face, Adrien se protège d'une douleur qu'il craint de ne pas pouvoir gérer. Il s'est construit une bulle de verre où il se persuade que ce silence créatif est une pause nécessaire, et non la conséquence directe d'une blessure d'ego qu'il n'ose pas nommer.
 
 ## Définition du déni et de ses mécanismes
-
 En psychologie, le [déni](https://dictionary.apa.org/denial) désigne notamment, dans les modèles psychodynamiques, la non-reconnaissance d’une réalité pénible. Le mot s’emploie aussi plus librement pour parler de quelque chose qu’on a du mal à accepter. Adrien sait que sa candidature a été refusée ; l’enjeu du récit est surtout qu’il minimise ce que ce refus représente pour lui.
 
 Le modèle des étapes popularisé par Elisabeth Kübler-Ross venait de son travail auprès de personnes en fin de vie. Il ne permet pas de prédire une première étape obligatoire après une perte ou un revers professionnel. Les réactions d’Adrien peuvent changer d’un jour à l’autre.
 
 ## Manifestations du déni après un échec
-
 Les gestes qui suivent évoquent, chez Adrien, la minimisation et l’évitement. On ne peut pas déduire un mécanisme inconscient de l’un de ces signes isolés.
 
 ### 1. La minimisation et la rationalisation excessive
 
 Adrien se persuade que le projet n’était pas si important et soupçonne des critères injustes. Les critères peuvent réellement avoir joué un rôle ; la question du récit est de savoir s’il peut aussi reconnaître sa déception. Dire « ce n’est pas grave » ne révèle pas à lui seul ce qu’une autre personne éprouve.
 
+Exemples situés :
+
+- Adrien dit que le marché n’avait pas d’importance alors qu’il espérait le gagner.
+- Il peut attribuer le refus au seul jugement de la marque sans laisser de place à sa propre déception ; cette explication reste à vérifier.
+
 ### 2. Les tâches secondaires pour remettre le dossier à plus tard
 
 Le déni se manifeste aussi par une incapacité à traiter les conséquences concrètes de l'échec. Cela peut prendre la forme d'une procrastination sélective : on traite toutes les tâches secondaires avec un zèle inhabituel pour ne pas avoir à se confronter au dossier qui a posé problème. Adrien nettoie son atelier de fond en comble, trie ses mails anciens et organise ses factures, tout en étant incapable de rouvrir son logiciel de dessin. C'est une fuite en avant qui donne l'illusion de l'action tout en maintenant un blocage profond par rapport au cœur du problème.
 
+Exemples situés :
+
+- Il nettoie ses pinceaux pendant le temps prévu pour rouvrir le travail.
+- Il réorganise les anciens courriels et les dossiers sans décider de ce qu’il souhaite faire après le refus.
+
 ### 3. Le maintien d'une façade de normalité
 
-Pour les proches, le déni se traduit par un discours qui sonne faux. Le sujet maintient une image de contrôle et de réussite, refusant toute aide ou toute discussion sur le sujet sensible. Adrien ment à Charlotte et évite Julien car il sait que son ami percevra sa tristesse derrière ses paroles assurées. Ce décalage entre la réalité interne et la façade projetée crée une isolation sociale progressive, car le sujet doit dépenser une énergie considérable pour maintenir ce faux-semblant, tant vis-à-vis des autres que de lui-même.
+Adrien ne dit pas à Charlotte combien le refus le touche et hésite à rencontrer Julien. Ses proches peuvent remarquer un décalage, mais ne peuvent pas savoir à partir d’un ton assuré ce qu’il ressent ou quel mécanisme serait à l’œuvre. Il peut choisir un échange limité ou dire qu’il ne veut pas en parler maintenant, sans devoir tout dévoiler.
+
+Exemples situés :
+
+- À Charlotte, il annonce d’autres pistes très intéressantes sans dire ce qu’il connaît réellement de ces possibilités.
+- Il peut éviter un appel de Julien parce qu’il ne souhaite pas parler du contrat, sans que Julien puisse deviner ce choix.
 
 ## Techniques pour sortir du déni
-
-Adrien peut prendre le temps de reconnaître ce qui s’est passé, sans se forcer à tout analyser d’un coup. L'objectif est de réintégrer progressivement la réalité.
+Ces propositions restent des essais d’observation, d’organisation ou de communication. Elles peuvent être adaptées ou laissées de côté.
 
 ### 1. La technique des faits bruts sans adjectifs
 
-Cet exercice consiste à noter sur une feuille de papier uniquement les faits observables de la situation, en s'interdisant tout jugement, toute justification ou tout adjectif qualificatif. Au lieu de se dire que les clients n'ont pas de goût, Adrien doit écrire : "J'ai envoyé un dossier le 10 avril. J'ai reçu une réponse négative le 16 avril." La liste lui donne un point de départ pour distinguer les faits, ses hypothèses et ses émotions.
+Objectif : Nommer le revers sans lui attribuer toute la valeur d’Adrien.
+
+1. Retrouver les dates de l’envoi et de la réponse dans les courriels disponibles.
+2. Noter ces faits séparément des hypothèses sur les critères et de l’émotion actuelle.
+3. Choisir la question encore utile, telle la possibilité d’un retour, ou constater qu’aucune action n’est nécessaire maintenant.
+
+Utilité possible : La note peut servir de point de départ partagé. Elle ne force pas Adrien à accepter immédiatement ce qu’il ressent ni à tenir la sélection pour juste.
 
 ### 2. Revenir au dossier à son rythme
 
-S’il le souhaite, Adrien peut rouvrir le dossier du projet refusé deux minutes pour relever une idée qu’il voudrait garder. Il peut s’arrêter, marcher un instant ou en parler à quelqu’un si l’émotion monte.
+Objectif : Regarder un élément du travail refusé seulement si Adrien le souhaite.
 
-### 3. La méthode du scénario du pire réaliste
+1. Décider s’il veut rouvrir le dossier et pour quelle question, par exemple conserver une idée graphique.
+2. Regarder cette seule partie pendant le temps qu’il choisit, avec droit d’arrêter, de marcher ou de chercher une présence.
+3. Noter l’idée à garder ou fermer sans note, puis décider de la suite en fonction de ce qui est praticable.
 
-Adrien redoute ce que reconnaître sa déception voudrait dire pour lui. Cette approche consiste à se demander quelles seraient les conséquences concrètes si l'on reconnaissait que cet échec est douloureux. On liste alors les impacts réels et non fantasmés. Adrien pourrait s'apercevoir que s'il admet sa tristesse, il devra éventuellement chercher un autre contrat plus rapidement, mais il ne perdra pas son talent. Identifier que la réalité de l'échec est gérable rend le déni moins nécessaire comme bouclier.
+Utilité possible : Un essai peut aider à séparer le travail réalisé du résultat de la candidature. Il ne constitue pas une exposition à réussir et le report reste possible.
+
+### 3. Vérifier les conséquences à traiter
+
+Objectif : Distinguer une obligation actuelle des conséquences qu’Adrien redoute.
+
+1. Nommer ce qui exige concrètement une décision après le refus, comme un créneau de prospection à réorganiser.
+2. Séparer l’information connue, celle qui manque et la crainte globale de perdre toute compétence.
+3. Choisir un prochain geste réaliste ou l’appui nécessaire pour une difficulté qu’il ne peut pas traiter seul.
+
+Utilité possible : Ce relevé peut préciser une suite sans prétendre que toutes les conséquences sont maîtrisables. Reconnaître sa déception ne crée pas à lui seul une obligation financière nouvelle.
 
 ## Ce qu’il dit du refus
-
 Sur son banc face au canal, Adrien soupèse son stylet. Il se souvient de la période qui a suivi sa rupture avec Marina, lorsqu'il se perdait dans des activités secondaires pour ne pas voir que la relation était terminée. Il reconnaît ce goût amer, ce même cynisme qu'il avait ressenti au square du Temple en observant son ancienne agence. Il comprend que son silence créatif actuel n'est pas une panne d'inspiration, mais une réaction de son esprit qui refuse de valider sa souffrance.
 
 Il sort finalement son carnet, celui qui contient ses réflexions sur ses schémas passés. Il écrit une seule phrase, la main un peu tremblante : "Je suis triste et j'ai honte d'avoir perdu ce contrat." En traçant ces mots, il sent un picotement derrière ses yeux, une sensation qu'il avait étouffée par une discipline de fer ces derniers jours. Il ne cherche pas à se justifier, il ne blâme pas le client, il ne se traite pas d'incapable. Il reconnaît simplement l'émotion telle qu'elle est, appliquant enfin la leçon apprise lors de ses crises de rumination nocturnes : nommer le sentiment pour ne plus le laisser devenir une faillite identitaire globale.

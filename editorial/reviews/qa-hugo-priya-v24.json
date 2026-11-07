@@ -1,0 +1,494 @@
+{
+  "task": "qa-hugo-priya-v24",
+  "mode": "independent_read_only",
+  "scope": {
+    "batches": [
+      8,
+      9
+    ],
+    "characters": [
+      "hugo",
+      "priya"
+    ],
+    "expected_bodies": 22,
+    "expected_mirror_lists": 22,
+    "completed_bodies": 22,
+    "completed_mirror_lists": 22,
+    "pending": [],
+    "excluded": "Autres personnages et articles hors manifestes 8/9 ; aucune déclaration de relecture intégrale du texte de chaque source citée."
+  },
+  "canon_read": [
+    "hugo",
+    "priya"
+  ],
+  "files": [
+    {
+      "character": "hugo",
+      "path": "content/posts/comprendre-et-maitriser-ses-emotions/euphorie-apres-un-succes-psychologie.md",
+      "status": "reviewed_no_issue",
+      "body_read_fully": true,
+      "mirror_reviewed": true,
+      "mirror_read_fully": true,
+      "body_sha256": "3cb4107cf8745687dabf2a2ad86466097554f9cf3ce42492865ddc62a2cacb6e",
+      "mirror_sha256": "1a16990d21f6e6154e36db5f5546b1ed89b82ff0a0f8d0cb77078cf890f92fd8",
+      "review_note": "Joie de concert séparée d’un syndrome ; signes de changement durable renvoyés à une évaluation médicale ; déclaration à Chloé sans droit à réponse.",
+      "findings": [],
+      "owner_hashes_match": true
+    },
+    {
+      "character": "hugo",
+      "path": "content/posts/comprendre-et-maitriser-ses-emotions/trahison-en-situation-de-competition-musicale.md",
+      "status": "reviewed_no_issue",
+      "body_read_fully": true,
+      "mirror_reviewed": true,
+      "mirror_read_fully": true,
+      "body_sha256": "d28f00d4fedec2a1db17b5fd2025acf2db125c6ae06a36c6f1a805bcf6b2a019",
+      "mirror_sha256": "d5ececd07280a3d5c531b5900318e1b1f117a238a0c61253d355ef2bcfebe53f",
+      "review_note": "Blessure distinguée d’une promesse rompue ; question limitée avec disponibilité de Samba, distance et collaboration facultatives.",
+      "findings": [],
+      "owner_hashes_match": true
+    },
+    {
+      "character": "hugo",
+      "path": "content/posts/comprendre-et-maitriser-ses-emotions/vide-interieur-apres-rupture-amoureuse.md",
+      "status": "reviewed_no_issue",
+      "body_read_fully": true,
+      "mirror_reviewed": true,
+      "mirror_read_fully": true,
+      "body_sha256": "e67b3b0244682d947236d88c8e83b96318bf9e3e4320eeabb26017c1905dbedb",
+      "mirror_sha256": "d28af594fac15657eb23b279a0bd58eaab75ace45f1900c6554f0e6a0993f2ba",
+      "review_note": "Expression courante séparée de la dépression ; attention présente et écriture facultatives, absence de calendrier, appui sans charge de réassurance du frère.",
+      "findings": [],
+      "owner_hashes_match": true
+    },
+    {
+      "character": "hugo",
+      "path": "content/posts/reprendre-le-controle-de-ses-pensees/divination-en-amitie-predire-avenir-negativement.md",
+      "status": "reviewed_no_issue",
+      "body_read_fully": true,
+      "mirror_reviewed": true,
+      "mirror_read_fully": true,
+      "body_sha256": "ae355dddcf8edf6e8ae221ba2b8f5881818bfabd42a8123837c9bdd2415204d1",
+      "mirror_sha256": "6aaa33f08f81b93bfe752af2edf769f8dd9fd587d670450412ca339dc1600728",
+      "review_note": "Prédiction distinguée des faits et des engagements réellement non tenus ; aucun tiers envoyé surveiller Samba ; demande bornée dans le temps.",
+      "findings": [],
+      "owner_hashes_match": true
+    },
+    {
+      "character": "hugo",
+      "path": "content/posts/reprendre-le-controle-de-ses-pensees/personnalisation-reseaux-sociaux.md",
+      "status": "reviewed_no_issue",
+      "body_read_fully": true,
+      "mirror_reviewed": true,
+      "mirror_read_fully": true,
+      "body_sha256": "546e6abbb2477eb21af8c2cfefad4e764859d23ed81f9127007480792a0d8113",
+      "mirror_sha256": "802da80e5e03caa4be2ddf0fdab815fb22875e41d4eda427bc4a530611383ab1",
+      "review_note": "Personnalisation et lecture de pensée distinguées ; commentaire ordinaire sans retour attendu ni conclusion en cas de silence, menace prise au sérieux.",
+      "findings": [],
+      "owner_hashes_match": true
+    },
+    {
+      "character": "hugo",
+      "path": "content/posts/reprendre-le-controle-de-ses-pensees/raisonnement-emotionnel-en-couple.md",
+      "status": "reviewed_no_issue",
+      "body_read_fully": true,
+      "mirror_reviewed": true,
+      "mirror_read_fully": true,
+      "body_sha256": "1e5a52fd6c74547b5b5160be647461ac39bef38a75ea8a4d9f37adcb08e6d855",
+      "mirror_sha256": "4980c6acb5865a1403784c5c6b86da99142c7d34fb49e4bc8161a2240a552eeb",
+      "review_note": "Ressenti distingué du fait et de l’intention ; précision unique dans les limites de contact, refus de réassurance imposée ; sécurité avant tout test.",
+      "findings": [],
+      "owner_hashes_match": true
+    },
+    {
+      "character": "hugo",
+      "path": "content/posts/sortir-de-ses-schemas-repetitifs/abandon-instabilité-couple-causes-solutions.md",
+      "status": "reviewed_no_issue",
+      "body_read_fully": true,
+      "mirror_reviewed": true,
+      "mirror_read_fully": true,
+      "body_sha256": "3bfb8e64286eaabf181decc08d55a52ce3071f6f412c2ec86fa6aa45ba069175",
+      "mirror_sha256": "1cfdeabb24b4d3665bff66759d4b91eb4092c1ae173c2d8c63393a458904f6fd",
+      "review_note": "Modèle de schémathérapie présenté comme cadre ; demande musicale séparée de la reprise de couple ; reconnaissance de la responsabilité et sortie de Chloé respectée.",
+      "findings": [],
+      "owner_hashes_match": true
+    },
+    {
+      "character": "hugo",
+      "path": "content/posts/sortir-de-ses-schemas-repetitifs/attachement-desorganise-craintif-oscillation-rupture-amoureuse.md",
+      "status": "reviewed_no_issue",
+      "body_read_fully": true,
+      "mirror_reviewed": true,
+      "mirror_read_fully": true,
+      "body_sha256": "b16bddb200ea3b488783ca826d8d6d788f87b13101ea183fb8649d9429d13961",
+      "mirror_sha256": "016ab2e924d3ea7be7162bb00cbb35070075842019c110eead3072c1f7e2ed9a",
+      "review_note": "Classification infantile désorganisée distincte du modèle adulte craintif ; aucun style ni traumatisme déduit ; absence de contact respectée et carnet facultatif.",
+      "findings": [],
+      "owner_hashes_match": true
+    },
+    {
+      "character": "hugo",
+      "path": "content/posts/sortir-de-ses-schemas-repetitifs/etats-du-moi-conflit-hugo.md",
+      "status": "reviewed_no_issue",
+      "body_read_fully": true,
+      "mirror_reviewed": true,
+      "mirror_read_fully": true,
+      "body_sha256": "830a8eb44507dfa2bb409b5327709f13d0f820540348553aad85b74afd0a33e0",
+      "mirror_sha256": "26bbc9d43b52af4e4284c122c00957c2a0ac628c272ca9aebe6d758ad7446f01",
+      "review_note": "États du Moi présentés comme repères théoriques ; aucun diagnostic ou étiquetage de Chloé ; accord limité aux répétitions et sécurité après geste violent.",
+      "findings": [],
+      "owner_hashes_match": true
+    },
+    {
+      "character": "hugo",
+      "path": "content/posts/sortir-de-ses-schemas-repetitifs/humour-defense-conflit-hugo.md",
+      "status": "reviewed_no_issue",
+      "body_read_fully": true,
+      "mirror_reviewed": true,
+      "mirror_read_fully": true,
+      "body_sha256": "93697b2978e7e68e20158782b89bad701cca0b2bb05f8b797c3e6ddf31574168",
+      "mirror_sha256": "c656bb8fc2b00d82ff920484a483a9313ff0dcda5e063265b28f881feb944daf",
+      "review_note": "Humour étudié comme usages distincts, sans causalité diagnostique ; excuse sans pardon dû ; récupération des affaires et départ respectés.",
+      "findings": [],
+      "owner_hashes_match": true
+    },
+    {
+      "character": "hugo",
+      "path": "content/posts/sortir-de-ses-schemas-repetitifs/idealisation-devaluation-en-couple.md",
+      "status": "reviewed_no_issue",
+      "body_read_fully": true,
+      "mirror_reviewed": true,
+      "mirror_read_fully": true,
+      "body_sha256": "195a8a96033830fd72c01e211bc35ed73bd3bbb87f847e9fddb602040cef496d",
+      "mirror_sha256": "55ec0655177e4c4a613de749fcde7429e8e2146d1a056ff80f26ec311f078ac4",
+      "review_note": "Modèle psychodynamique circonscrit ; pas de diagnostic ni cause d’enfance déduite ; écriture présente possible, question sans enquête des amis ni contrôle des activités de Chloé.",
+      "findings": [],
+      "owner_hashes_match": true
+    },
+    {
+      "character": "priya",
+      "path": "content/posts/comprendre-et-maitriser-ses-emotions/anxiete-face-maladie-blouse.md",
+      "status": "reviewed_no_issue",
+      "body_read_fully": true,
+      "mirror_reviewed": true,
+      "mirror_read_fully": true,
+      "body_sha256": "4835afc9cb7270440e5a437038cd57e1893e8f4f3702ae9db7fd30b46253ec98",
+      "mirror_sha256": "1f9c9967f2bfdc3cc1f08282d9bb99198f2d9260c0b6998d112bf7440c69a9ac",
+      "review_note": "Vérifications professionnelles séparées du besoin de nouvelles familiales ; observation physique facultative, cause non déduite et avis pour symptôme nouveau ; confidentialité respectée dans le miroir.",
+      "findings": [],
+      "owner_hashes_match": true
+    },
+    {
+      "character": "priya",
+      "path": "content/posts/comprendre-et-maitriser-ses-emotions/indifference-face-maladie.md",
+      "status": "reviewed_no_issue",
+      "body_read_fully": true,
+      "mirror_reviewed": true,
+      "mirror_read_fully": true,
+      "body_sha256": "fc95a8221dc11b31d13eb6faa5d5c8a31f29ea751132d98cb7e1ffe303869412",
+      "mirror_sha256": "dbd4885ce4d7c9fd03d686741f9a0279c6e4746146dea5cc9e8fd6c02a706414",
+      "review_note": "Expérience et retentissement pratique du patient reconnus sans remplacer l’évaluation clinique ; pas d’origine d’attachement ou de Damien déduite ; notes privées sans données identifiantes.",
+      "findings": [],
+      "owner_hashes_match": true
+    },
+    {
+      "character": "priya",
+      "path": "content/posts/comprendre-et-maitriser-ses-emotions/mepris-face-a-l-autorite-mecanisme-defense.md",
+      "status": "reviewed_no_issue",
+      "body_read_fully": true,
+      "mirror_reviewed": true,
+      "mirror_read_fully": true,
+      "body_sha256": "9db5480368605e981923cdb7e4615011f75b263509b254171af11029917e94c2",
+      "mirror_sha256": "41d200f7452c7993e009dcb65412bdff3f0eaf44283e3e9233997c225d19c9d9",
+      "review_note": "Mépris distingué d’une peur cachée dans la définition et les exercices ; question professionnelle, désaccord et choix de ne pas s’associer conservés.",
+      "findings": [],
+      "owner_hashes_match": true
+    },
+    {
+      "character": "priya",
+      "path": "content/posts/comprendre-et-maitriser-ses-emotions/trahison-en-amitie-impacts-quotidiens.md",
+      "status": "reviewed_no_issue",
+      "body_read_fully": true,
+      "mirror_reviewed": true,
+      "mirror_read_fully": true,
+      "body_sha256": "950cf1bec7dc7dfb993ba69ceab316de0139714c9f25b67a72c4551521901774",
+      "mirror_sha256": "bf260506d5f14491ec78302a6625210ccdbb138e8ba6aa96ac0b1f30fdff101b",
+      "review_note": "Confidentialité vis-à-vis de Damien prioritaire ; aucune obligation de reprise de lien ou de test de fiabilité ; rencontre fortuite non assimilée à trauma ; miroir sans enquête auprès de Damien.",
+      "findings": [],
+      "owner_hashes_match": true
+    },
+    {
+      "character": "priya",
+      "path": "content/posts/comprendre-et-maitriser-ses-emotions/vulnerabilite-en-couple-signes.md",
+      "status": "reviewed_resolved",
+      "body_read_fully": true,
+      "mirror_reviewed": true,
+      "mirror_read_fully": true,
+      "body_sha256": "0a2b2e01f50f7fffb82ed69d09728f8342f68fed5a2780fa6116dd2661865f42",
+      "mirror_sha256": "550c0b43d44efc0141674ae6db8254c40c2473539b5d49cf8a14e8a57917f71f",
+      "review_note": "Confidence et contenu privé restent choisis, sans dette de réciprocité ni test de sécurité ; résidu causal de la manifestation 2 transmis au propriétaire.",
+      "findings": [
+        "priya-vulnerability-availability"
+      ],
+      "initial_body_sha256": "d7bd1bff31604fb61e1e6e03cfd1e776318cbdee93bb1570745e823b835a9a26",
+      "resolution_reviewed": true,
+      "resolution_note": "Paragraphes corrigés relus ; reconstruction du corps avant correction vérifiée par empreinte, confirmant que seul le passage signalé a changé.",
+      "owner_hashes_match": true
+    },
+    {
+      "character": "priya",
+      "path": "content/posts/reprendre-le-controle-de-ses-pensees/biais-autorite-face-a-l-autorite-priya.md",
+      "status": "reviewed_no_issue",
+      "body_read_fully": true,
+      "mirror_reviewed": true,
+      "mirror_read_fully": true,
+      "body_sha256": "9a6f021f4dc43877de43f4a2cac546757b8deae407459f71503b3e9bcc9f18b0",
+      "mirror_sha256": "9192a2e212f238e312e4001e3c33480de293039661059b2843e2947ea62fdff9",
+      "review_note": "Milgram circonscrit à l’obéissance expérimentale ; rejet distingué du biais d’autorité ; décision de soin après vérification de source/preuve/applicabilité, canaux et confidentialité maintenus.",
+      "findings": [],
+      "owner_hashes_match": true
+    },
+    {
+      "character": "priya",
+      "path": "content/posts/reprendre-le-controle-de-ses-pensees/biais-de-disponibilite-face-a-une-decision-importante.md",
+      "status": "reviewed_no_issue",
+      "body_read_fully": true,
+      "mirror_reviewed": true,
+      "mirror_read_fully": true,
+      "body_sha256": "5f750bb3ee10966d23868dcaf16e33c88da5805fc38aa0136b5adede741f7534",
+      "mirror_sha256": "24ca0660140c74b833af6950c66721df5b76b2b82b97d7dde8799f6301c0ddd3",
+      "review_note": "Rappel facile séparé de la fréquence et du caractère de Marc ; critères comparables sur trois dossiers, pas de score inventé ni d’entretien agréable pris pour preuve de fiabilité.",
+      "findings": [],
+      "owner_hashes_match": true
+    },
+    {
+      "character": "priya",
+      "path": "content/posts/reprendre-le-controle-de-ses-pensees/biais-de-survivant-face-decision-importante.md",
+      "status": "reviewed_no_issue",
+      "body_read_fully": true,
+      "mirror_reviewed": true,
+      "mirror_read_fully": true,
+      "body_sha256": "86c1827016a733d82934ee7e0be0cee7ab2bec1b72ffd3252abb784f3fae0326",
+      "mirror_sha256": "a16babf0ef0634b3c1faf82075fdf285dd1e41ffafe027a7671f3450353cafbf",
+      "review_note": "Sélection promotionnelle et échantillon de départs reconnus comme incomplets ; aucune anecdote convertie en taux ; récit de départ recherché avec accord du témoin.",
+      "findings": [],
+      "owner_hashes_match": true
+    },
+    {
+      "character": "priya",
+      "path": "content/posts/sortir-de-ses-schemas-repetitifs/attachement-evitant-dans-intimite.md",
+      "status": "reviewed_no_issue",
+      "body_read_fully": true,
+      "mirror_reviewed": true,
+      "mirror_read_fully": true,
+      "body_sha256": "e18d9a0067ac222c18158736f6949c54f6bc76feb26c38eb04eb90f97df0adce",
+      "mirror_sha256": "82a8ec0a3888765d1c28d40d33372b703c02299677b1243e629587707bf0d85e",
+      "review_note": "Catégories de recherche non diagnostiques ; besoin de solitude non pathologisé, refus respecté sans justification ou promesse ; ancrage facultatif hors poursuite de contact.",
+      "findings": [],
+      "owner_hashes_match": true
+    },
+    {
+      "character": "priya",
+      "path": "content/posts/sortir-de-ses-schemas-repetitifs/mefiance-abus-face-a-l-autorite.md",
+      "status": "reviewed_resolved",
+      "body_read_fully": true,
+      "mirror_reviewed": true,
+      "mirror_read_fully": true,
+      "body_sha256": "26865056fb63d7972037f3282768b6326e2ba213e15acfbe12be6bd219402491",
+      "mirror_sha256": "11a49b817f62e1893025688eb0bb618403eefcd12616f0b1ffd47d069aca2133",
+      "review_note": "Modèle distingué d’un jugement de sûreté institutionnelle ; relecture et avis indépendant, sans exposition de confiance ; résidu causal de manifestation 3 transmis au propriétaire.",
+      "findings": [
+        "priya-mistrust-causal-wording"
+      ],
+      "initial_body_sha256": "e6f4245fe0550e22b5bdb7dbffec21c6b36a929d39d7e027efdc0433f8508b3a",
+      "resolution_reviewed": true,
+      "resolution_note": "Paragraphes corrigés relus ; reconstruction du corps avant correction vérifiée par empreinte, confirmant que seul le passage signalé a changé.",
+      "owner_hashes_match": true
+    },
+    {
+      "character": "priya",
+      "path": "content/posts/sortir-de-ses-schemas-repetitifs/rationalisation-face-a-une-decision-importante.md",
+      "status": "reviewed_no_issue",
+      "body_read_fully": true,
+      "mirror_reviewed": true,
+      "mirror_read_fully": true,
+      "body_sha256": "bf94e8255ffc1c61fa75fdf09106b595b8c17941dacd62da4658a041484e1265",
+      "mirror_sha256": "3632964b5dbcaf480430ca76bec4d81da898b0faa63c09a87c631d3a6ea5f885",
+      "review_note": "Raisons pratiques, continuité des soins et craintes relationnelles gardées ensemble ; sensation non utilisée comme décision, aucun proche testé ni motivations cachées prétendument révélées.",
+      "findings": [],
+      "owner_hashes_match": true
+    }
+  ],
+  "findings": [
+    {
+      "id": "priya-mistrust-causal-wording",
+      "character": "priya",
+      "path": "content/posts/sortir-de-ses-schemas-repetitifs/mefiance-abus-face-a-l-autorite.md",
+      "location": "Manifestation « La contre-attaque préemptive par le mépris », paragraphe explicatif",
+      "severity": "editorial_causal_overstatement",
+      "status": "resolved_by_owner_and_rechecked",
+      "issue": "Le texte affirme que le dédain est une stratégie de survie qui masque une peur intense issue de Damien, alors que définition et technique 2 gardent la fonction cachée comme hypothèse.",
+      "recommendation": "Formuler une possibilité située ou une question de Priya, sans déduire une fonction protectrice ni une cause passée à partir du mépris.",
+      "owner_notified": "/root/anatole_v24",
+      "root_notified": true,
+      "resolution": "Fonction protectrice, peur cachée et cause passée gardées comme questions possibles ; distinction disponibilité/défense explicite.",
+      "final_body_sha256": "26865056fb63d7972037f3282768b6326e2ba213e15acfbe12be6bd219402491"
+    },
+    {
+      "id": "priya-vulnerability-availability",
+      "character": "priya",
+      "path": "content/posts/comprendre-et-maitriser-ses-emotions/vulnerabilite-en-couple-signes.md",
+      "location": "Manifestation 2 « Rationalisation émotionnelle », dernières phrases",
+      "severity": "editorial_concept_and_causal_overstatement",
+      "status": "resolved_by_owner_and_rechecked",
+      "issue": "La peur dite convertie en biais de disponibilité confond une heuristique cognitive et une fonction de défense présentée comme établie ; la phrase suivante affirme le rôle protecteur du mécanisme.",
+      "recommendation": "Rappeler les souvenirs et informations effectivement observés lors des candidatures, puis garder ouverte la fonction que Priya leur prête dans la conversation intime.",
+      "owner_notified": "/root/anatole_v24",
+      "root_notified": true,
+      "resolution": "Fonction protectrice, peur cachée et cause passée gardées comme questions possibles ; distinction disponibilité/défense explicite.",
+      "final_body_sha256": "0a2b2e01f50f7fffb82ed69d09728f8342f68fed5a2780fa6116dd2661865f42"
+    }
+  ],
+  "source_checks": [
+    {
+      "url": "https://www.ameli.fr/assure/sante/themes/trouble-bipolaire/symptomes",
+      "status": "checked",
+      "note": "Rupture avec fonctionnement habituel, réduction du besoin de sommeil, activité et risques ; le texte ne transforme pas la joie de Hugo en diagnostic."
+    },
+    {
+      "url": "https://www.ameli.fr/assure/sante/themes/depression-troubles-depressifs/symptomes-diagnostic-evolution",
+      "status": "checked",
+      "note": "Association de signes, persistance et retentissement ; le vide isolé n’est pas présenté comme un diagnostic."
+    },
+    {
+      "url": "https://cci.health.wa.gov.au/~/media/CCI/Mental-Health-Professionals/Eating-Disorders/Eating-Disorders---Information-Sheets/Eating-Disorders-Information-Sheet---Unhelpful-Thinking-Styles.pdf",
+      "status": "checked",
+      "note": "Fiche officielle distingue predictive thinking, mind reading, emotional reasoning et personalisation ; les trois articles gardent ces distinctions."
+    },
+    {
+      "url": "https://tdr.who.int/home/our-work/global-engagement/9789240003927",
+      "status": "checked",
+      "note": "Guide OMS et exercices d’ancrage confirmés ; les adaptations narratives sont facultatives et ne promettent pas un soin."
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/1920064/",
+      "status": "checked_abstract",
+      "note": "Modèle adulte à quatre catégories confirmé ; aucune attribution individuelle tirée de la seule ambivalence."
+    },
+    {
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4321742/",
+      "status": "checked",
+      "note": "Étude historique par archives et entretiens sur la catégorie infantile, son contexte et ses mésusages ; l’article ne confond pas ce cadre avec l’adulte craintif."
+    },
+    {
+      "url": "https://staging.itaaworld.org/key-concepts-transactional-analysis",
+      "status": "checked",
+      "note": "ITAA présente Parent/Adulte/Enfant comme systèmes du modèle théorique ; le manuscrit les garde comme repères et non diagnostics."
+    },
+    {
+      "url": "https://www.schematherapysociety.org/Schema-Therapy",
+      "status": "checked_indexed_official_content",
+      "note": "Page officielle retrouvée dans les résultats malgré timeout/502 à l’ouverture ; définition d’abandon/instabilité conforme au contenu officiel indexé."
+    },
+    {
+      "url": "https://www.sciencedirect.com/science/article/pii/S0092656602005342",
+      "status": "checked_publisher_abstract",
+      "note": "Ouverture directe 403 ; résumé primaire de l’éditeur retrouvé par recherche, quatre usages de l’humour et associations, sans causalité à une dépendance affective."
+    },
+    {
+      "url": "https://journals.sagepub.com/doi/10.1177/000306516701500309",
+      "status": "bibliography_checked_full_text_restricted",
+      "note": "Référence Kernberg 1967 confirmée sur éditeur ; texte intégral restreint. Le manuscrit circonscrit cette référence à un modèle clinique sans diagnostiquer Hugo."
+    },
+    {
+      "url": "https://arretonslesviolences.gouv.fr/besoin-d-aide",
+      "status": "checked",
+      "note": "Ressource officielle d’aide ; sécurité et distance de Chloé préservées dans corps et miroir."
+    },
+    {
+      "url": "https://www.inrs.fr/risques/psychosociaux/facteurs-risques",
+      "status": "checked",
+      "note": "Charge, exigences émotionnelles et soutien sont traités comme facteurs de travail ; aucune cause unique personnelle ne leur est substituée."
+    },
+    {
+      "url": "https://www.has-sante.fr/jcms/c_2040144/fr/demarche-centree-sur-le-patient-information-conseil-education-therapeutique-suivi",
+      "status": "checked",
+      "note": "Écoute, expérience et préférences du patient avec continuité ; les exercices ne remplacent pas l’évaluation."
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/17605592/",
+      "status": "checked_abstract",
+      "note": "Trois études sur colère/mépris et rejet ; le manuscrit distingue association observée et peur cachée individuelle."
+    },
+    {
+      "url": "https://dynamic.uoregon.edu/jjf/defineBT.html",
+      "status": "checked_author_page",
+      "note": "Le domaine de la théorie de Freyd est circonscrit ; la rencontre fortuite n’est pas déclarée traumatique."
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/10870908/",
+      "status": "checked_with_author_full_text",
+      "author_full_text": "https://labs.psych.ucsb.edu/collins/nancy/UCSB_Close_Relationships_Lab/Publications_files/Collins%20and%20Feeney,%202000.pdf",
+      "note": "Cadre et méthode de recherche de soutien consultés dans le papier déposé par l’autrice ; ils ne déterminent pas le style d’une personne à partir d’un refus de confidence."
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/14049516/",
+      "status": "checked_bibliography_and_publisher_abstract",
+      "publisher_url": "https://doi.org/10.1037/h0040525",
+      "note": "Étude de laboratoire sur obéissance ; la définition précise que cette question diffère de croire une proposition en raison d’un titre."
+    },
+    {
+      "url": "https://www.sciencedirect.com/science/article/pii/0010028573900339",
+      "status": "checked_publisher_abstract",
+      "note": "Disponibilité définie par facilité de rappel pour juger fréquence/probabilité ; les techniques ne font pas de quelques anecdotes un taux."
+    },
+    {
+      "url": "https://www.cna.org/analyses/1980/a-method-of-estimating-plane-vulnerability",
+      "status": "checked_public_report",
+      "report_url": "https://www.cna.org/reports/1980/0204320000.pdf",
+      "note": "Rapport primaire de Wald retrouvé ; la sélection des survivants est décrite sans récit non sourcé sur des trous de balles ni extrapolation individuelle."
+    },
+    {
+      "url": "https://dictionary.apa.org/rationalization",
+      "status": "checked_indexed_official_definition",
+      "note": "Définition officielle retrouvée dans les résultats malgré page dynamique ; le texte conserve le statut de modèle et la coexistence de raisons réelles."
+    }
+  ],
+  "limitations": [
+    "Kernberg 1967 : identification bibliographique vérifiée, texte intégral non accessible par cette lecture ; aucune validation détaillée de ce texte primaire revendiquée."
+  ],
+  "status": "complete",
+  "completed_at": "2026-11-07T13:23:32.594707+00:00",
+  "validation": {
+    "fully_read_bodies": 22,
+    "fully_read_mirror_lists": 22,
+    "unique_paths": 22,
+    "final_body_hashes_verified": 22,
+    "final_mirror_hashes_verified": 22,
+    "owner_hashes_match": 22,
+    "findings_detected": 2,
+    "findings_resolved_by_owner": 2,
+    "unresolved_findings": 0,
+    "blockers": [],
+    "content_files_modified_by_reviewer": 0
+  },
+  "source_current_checks": {
+    "checked_at": "2026-11-07T13:42:38.115745+00:00",
+    "canonical_review_registry": "editorial/reviews/originaux-v24.json",
+    "article_body_hashes_matching": 22,
+    "canonical_mirror_hashes_matching": 22,
+    "owner_proofs_matching": 22,
+    "mismatches": [],
+    "method": "Compare each exact-body SHA256 and normalized canonical mirror-list SHA256 against current repository files and the consolidated owner registry."
+  },
+  "provenance": {
+    "historical_ephemeral_input": {
+      "name": "qa-hugo-priya-v24.json",
+      "sha256": "48fd8590fa55589e27cc2996f303d9de93f35d5458af4900482f27b5d7bf00ba"
+    },
+    "note": "Historical input filename only, not a persistent file link. Source access limits and read-only findings are preserved from the independent reviewer."
+  },
+  "historical_ephemeral_modified_files": [
+    "qa-hugo-priya-v24.json"
+  ]
+}

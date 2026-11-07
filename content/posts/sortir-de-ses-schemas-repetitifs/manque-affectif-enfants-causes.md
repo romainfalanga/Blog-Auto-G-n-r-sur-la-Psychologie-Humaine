@@ -35,42 +35,50 @@ Les manifestations du manque affectif avec ses enfants prennent des formes vari�
 ### 1. Communication non verbale excessive : l'amour matérialisé
 Bernard exprime une partie de son affection par des objets. Bernard crée des meubles solides, précis, presque ritualisés. Pour lui, chaque tiroir est une phrase qu'il n'ose pas prononcer. Cela ressemble à une déclaration, mais c'est un langage dont le récepteur peut se sentir privé. Par exemple, un père offre un lit en attendant que la qualité du travail suffise à compenser l'absence de discussions sur les ressentis mutuels.
 
+**Deux situations concrètes :** Bernard montre la commode prête au lieu de dire qu’il espère la visite d’Éric. Il explique le polissage des poignées mais laisse implicite son plaisir à travailler pour lui. Le travail peut exprimer une affection réelle tout en laissant certains besoins à formuler.
+
 ### 2. Retrait et distance sous couvert de protection
 Parfois le manque affectif se traduit par une posture protectrice devenue froide. Le parent pense protéger l'enfant de ses propres fragilités en évitant d'exprimer ses émotions, ce qui crée une distance émotionnelle au fil du temps. Dans le cas de Bernard, sa pudeur et son isolement choisi prennent l'apparence d'une force tranquille, alors que pour Éric cela peut ressembler à un refus d'engagement émotionnel.
 
+**Deux situations possibles :** quand Éric entre, Bernard poursuit le racloir pour ne pas montrer son trouble. Lors d’une pause, il remet la radio plus fort plutôt que de demander si son fils a du temps. La signification de ce silence pour Éric reste à entendre.
+
 ### 3. Contradictions entre investissement matériel et critique affective
 Une autre manifestation est la contradiction entre l'attention aux choses matérielles et la critique ou l'attente envers l'enfant. Le parent compense par l'aide tangible, la réparation ou la solennité des objets, mais il peut aussi juger l'enfant pour son manque d'effort émotionnel. Offrir une commode impeccable puis reprocher au fils de ne pas appeler assez souvent nourrit la frustration des deux côtés.
+
+**Deux situations possibles :** Bernard offre la commode puis associe son merci à un reproche sur les appels trop rares. Il propose un coup de main pour un meuble, mais attend en secret que son fils reste toute la soirée. Exprimer séparément l’aide et l’invitation éviterait de laisser ces attentes implicites.
 
 ## Techniques pour réparer le lien
 Voici trois façons de proposer un échange si chacun le souhaite. Elles ne constituent pas un traitement ni une obligation de renouer.
 
 ### 1. Technique d'expression progressive : le mot en petites étapes
-Bernard essaie une phrase qui a un sens pour lui. Les durées et fréquences qu’il choisit sont des détails de sa vie, pas des consignes à suivre.
 
-Exercice concret :
-- Objectif pour la semaine : envoyer une phrase simple et factuelle à votre enfant, trois fois dans la semaine. Par exemple : "J'ai terminé la commode, elle t'attend" ou "Je passe chez toi samedi matin". Aucune émotion n'est requise au début, seule la constance compte.
-- Progresser : après une ou deux semaines, ajouter une phrase qui contient une émotion légère, par exemple : "Je suis content que tu viennes". L'important est la répétition, pas la performance verbale.
+**Objectif :** Préparer un message qui exprime une intention actuelle.
 
-Ces phrases peuvent donner un début à la conversation si chacun le souhaite. Bernard peut intégrer des phrases courtes dans les moments de transition.
+1. Choisir ce qu’il veut proposer à Éric : vérifier le tiroir ou passer un moment ensemble.
+2. Écrire une phrase factuelle et, s’il le souhaite, ajouter « Je suis content que tu viennes ».
+3. L’envoyer au moment choisi en laissant Éric répondre sur sa disponibilité, sans quota de messages.
+
+Une phrase brève peut amorcer un échange. Les trois messages du récit sont le choix de Bernard, sans progression obligatoire vers des confidences.
 
 ### 2. Technique de partage d'une activité structurée : l'atelier partagé
-Proposer une tâche à faire ensemble donne un motif de rencontre. L’autre personne peut la refuser ou préférer un autre moment.
 
-Exercice concret :
-- Planifier une séance d'atelier de 90 minutes avec un objectif précis comme poncer deux tiroirs ou choisir le vernis ensemble. Avant de commencer, poser une règle simple : 10 minutes de travail silencieux, puis 10 minutes où chacun dit une observation factuelle sur le travail effectué.
-- Intégrer une micro-règle d'expression : une phrase personnelle autorisée à la fin de la séance, comme "J'ai aimé ce moment" ou "Merci d'être venu".
+**Objectif :** Prévoir un temps côte à côte qui laisse aussi une place à la parole.
 
-La tâche commune permet d'échanger sans exiger des déclarations émotionnelles lourdes. Pour Bernard, l'atelier partagé transforme son langage naturel en une porte d'accès à la relation.
+1. Demander à Éric s’il souhaite vérifier le dernier tiroir et convenir de la durée qui leur convient.
+2. Avant de toucher au meuble, choisir une tâche sûre et l’aide nécessaire ; arrêter les machines pour discuter.
+3. À une pause, proposer une observation ou un remerciement et demander s’il veut continuer, parler ou s’arrêter.
+
+Une activité choisie peut offrir un support d’échange. Le rythme de dix minutes retenu par les personnages n’est pas une règle pour réparer une relation.
 
 ### 3. Technique d'interprétation compassionnelle : revisiter l'histoire familiale
-Vous pouvez réfléchir à ce que vous souhaitez offrir aujourd’hui, sans être sûr d’où vient votre habitude actuelle.
 
-Exercice concret :
-- Prenez une feuille et tracez trois colonnes : "Ce que j'ai vécu", "Ce que j'ai appris à faire", "Ce que je veux offrir aujourd'hui". Remplissez honnêtement, sans autocensure.
-- Exemple pour Bernard : "Ce que j'ai vécu : parents réservés", "Ce que j'ai appris : ne pas montrer mes émotions", "Ce que je veux offrir aujourd'hui : présence régulière, phrases simples".
-- Partager ensuite un extrait de la colonne "Ce que je veux offrir aujourd'hui" avec votre enfant lors d'un moment calme, en commençant par une phrase très courte.
+**Objectif :** Préparer ce qu’il souhaite offrir aujourd’hui sans conclure à une cause unique.
 
-Cette note sert à préparer une proposition. L’autre reste libre de ne pas en parler ou de préférer une autre forme de contact.
+1. Noter une habitude dont il a conscience, par exemple parler des meubles quand il est embarrassé, sans rechercher de souvenirs cachés.
+2. À côté, écrire une alternative actuelle : demander si Éric souhaite prendre un café après les tiroirs.
+3. S’il le souhaite, partager cette proposition avec son fils et écouter ce qui lui conviendrait.
+
+La note peut soutenir un choix présent. Elle ne nécessite ni certitude sur l’enfance ni récit familial partagé pour être utile.
 
 ## Éric soulève le tiroir
 La porte de l'atelier s'ouvre, Éric apparaît, la commode en toile de fond. Bernard sent une familiarité nerveuse, mais il a repris la phrase qu’il avait prononcée une semaine plus tôt et s’est essayé à écrire avant leur prochain rendez-vous. Il a envoyé trois messages courts, il a tenu la règle des phrases factuelles. Éric remarque la régularité et cela désamorce une partie de la rancœur.

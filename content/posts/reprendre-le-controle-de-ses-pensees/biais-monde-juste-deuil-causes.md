@@ -22,53 +22,67 @@ La sonnette retentit. Geneviève apporte des madeleines encore tièdes et demand
 Pendant que Geneviève répartit les madeleines, Monique regarde la liasse depuis la porte. Il y a un mot dans un compte rendu qu’elle aimerait qu’on lui explique. Elle a aussi envie qu’on lui dise à quel moment elle aurait dû insister. Dans la cuisine, Geneviève attend toujours de savoir où sont les petites cuillères.
 
 ## Qu'est-ce que le biais du monde juste ?
-
 La croyance en un monde juste est l’idée que les gens reçoivent ce qu’ils méritent. Dans une [expérience de 1966](https://pubmed.ncbi.nlm.nih.gov/5969146/), Melvin Lerner et Carolyn Simmons ont observé que, dans certaines conditions, des témoins dévalorisaient une victime innocente. Cela décrit une réaction possible dans ce dispositif, pas la proportion des personnes qui pensent ainsi ni une explication de tous les regrets après un décès.
 
 Monique glisse de « Est-ce que quelque chose aurait pu être fait autrement ? » à « Quelqu’un a forcément mal agi ». Une question sur les soins peut être légitime. Le résultat ne suffit pas, à lui seul, à établir une faute ou à expliquer ce qui se serait passé autrement.
 
 ## Comment le biais du monde juste se manifeste dans le deuil ?
-
 ### 1. Culpabilisation et recherche de responsables
+
 Monique se met à rejouer mentalement les décisions médicales et les conversations passées. Elle explore les pages du carnet comme si elle pouvait y débusquer le point précis où la trajectoire aurait pu dévier. Ce besoin de trouver une erreur est typique : on cherche un coupable pour rendre l'événement explicable. Concrètement, cela peut conduire à s'accuser soi-même ("Si j'avais insisté pour un deuxième avis...") ou à pointer du doigt les soignants, sans tenir compte des limites réelles de la médecine.
 
-Exemple concret : une personne s'imagine que si elle avait modifié le régime alimentaire du défunt plus tôt, la maladie aurait reculé. Cette croyance ignore la complexité biologique et génère un regret dévastateur.
+Exemples concrets :
+- Monique rapproche une phrase sans date d’une convocation et commence à y voir la preuve d’un retard déterminant.
+- Elle peut souhaiter comprendre un terme médical sans déduire du résultat qu’un soignant ou elle-même a nécessairement fauté.
 
 ### 2. Narration morale et rejet du hasard
+
 Ce biais pousse à transformer une tragédie en une fable morale, où la vertu devrait être récompensée et la négligence punie. Monique, attachée aux règles et aux valeurs familiales, est tentée de construire un récit où la "bonne conduite" protège du malheur. Elle repense aux rites qu'elle et Jean-Claude respectaient, à leur droiture, et s'interroge : pourquoi cela n'a-t-il pas suffi ? Cette logique cherche à évincer la part de hasard inhérente à la vie.
 
-Exemple concret : attribuer un décès à un prétendu "manque de volonté" ou à une hygiène de vie imparfaite, plutôt qu'à des facteurs pathologiques, c'est plaquer de la morale sur de la complexité.
+Exemples concrets :
+- La question « pourquoi Jean-Claude alors qu’il était bon ? » relie une qualité morale à une issue médicale.
+- Attribuer une maladie à un manque de volonté serait une autre façon de traiter l’issue comme une sanction, sans établir ce qui s’est passé.
 
 ### 3. Résistance au changement et blocage
+
 Monique hésite aussi à accepter une invitation : elle craint qu’un bon moment efface quelque chose de Jean-Claude. Ce sentiment de loyauté ne découle pas nécessairement de la croyance en un monde juste. Le chagrin et la crainte de changer de vie méritent aussi d’être entendus.
 
-Exemple concret : refuser une aide logistique parce que l'accepter signifierait valider que la perte est définitive et non une injustice que l'on pourrait réparer par la souffrance.
+Exemples concrets :
+- Monique peut hésiter à prendre une madeleine ou à accepter une invitation parce qu’elle pense encore à Jean-Claude.
+- Cette hésitation ne prouve pas une croyance en une justice du monde ; elle peut la décrire sans décider ce qui la cause.
 
 ## 3 techniques pour prendre de la distance avec ce biais
-
 ### 1. Le journal des faits et des probabilités
-Si une pensée accusatrice revient, distinguez ce que vous savez, ce que vous supposez et ce qui reste inconnu. Pour une question médicale précise, un professionnel peut aider à comprendre un compte rendu ; des statistiques générales ne disent pas ce qui aurait changé le cours de la maladie de Jean-Claude.
+Objectif : Conserver séparément une trace et les questions qu’elle ouvre.
 
-Monique note la phrase du carnet. À côté, elle écrit ce qu’elle sait de la chronologie et les questions qu’elle aimerait poser, sans transformer les inconnues en preuves contre elle.
+Exercice pratique :
+- Recopier la phrase telle qu’elle figure sur le papier en notant que sa date manque.
+- Inscrire à part la chronologie connue et les rapprochements encore supposés.
+- Préparer une question médicale précise pour un professionnel si elle souhaite comprendre un terme ou une décision.
 
-Pourquoi ça marche : Cette méthode mobilise les capacités d'analyse de Monique pour objectiver ses croyances et réintroduire la notion d'incertitude là où elle voyait une erreur personnelle.
+Utilité possible : La séparation peut empêcher qu’une inconnue soit présentée comme une preuve, sans interdire une question légitime sur les soins.
 
 ### 2. La lettre de perspective croisée
-Technique : Écrire une lettre adressée à "l'ordre des choses", en demandant pourquoi cet événement a eu lieu. Ensuite, répondez à votre propre texte en adoptant un point de vue neutre et extérieur (celui d'un chercheur, d'un statisticien ou d'un observateur impartial) qui expose les causes multiples et la part de hasard. Ce dialogue permet de séparer l'émotion de l'explication factuelle.
+Objectif : Distinguer la demande de sens et une explication factuelle.
 
-Monique écrit : « Pourquoi Jean-Claude, alors que c’était un homme bon ? » Elle se répond que les qualités d’une personne n’expliquent pas sa maladie et qu’elle peut rester sans réponse sur certains points.
+Exercice pratique :
+- Écrire, si elle le souhaite, la question qui revient à Monique sur Jean-Claude.
+- Séparer ce qui exprime sa peine des informations médicales qui manquent réellement.
+- Laisser les inconnues ouvertes ou demander un soutien, plutôt qu’inventer la réponse d’un statisticien ou d’un observateur omniscient.
 
-Pourquoi ça marche : La mise en dialogue crée un décalage salutaire. Pour une femme de lettres comme Monique, transformer la pensée en récit dialogué permet de nuancer l'idée d'une justice immanente.
+Utilité possible : La note peut clarifier ce qu’elle cherche sans promettre de répondre au deuil ni produire une explication médicale fictive.
 
 ### 3. L'expérimentation comportementale douce
-Technique : Planifier une action simple qui semble contredire la logique du biais, pour vérifier si l'adaptation entraîne réellement une perte de sens ou de mémoire. On teste ainsi une croyance par l'acte : "Si je m'autorise ce plaisir, est-ce que je trahis Jean-Claude ?". On commence par des gestes très accessibles.
+Objectif : Choisir un moment de vie sans en faire un test de fidélité.
 
-Exercice concret : Monique se lance un défi : accepter un déjeuner familial où Jean-Claude sera évoqué, mais où la vie reprendra aussi ses droits. Avant d'y aller, elle note ses craintes (par exemple : "Je vais me sentir coupable de rire"). Après l'événement, elle consigne ce qui s'est passé : les moments de nostalgie, mais aussi les instants de connexion sincère avec ses proches. Elle réalise que vivre n'efface pas le souvenir.
+Exercice pratique :
+- Repérer une invitation ou un petit geste que Monique souhaite réellement accepter.
+- Décider de sa participation et de sa limite sans chercher à provoquer ou contredire une émotion.
+- Après, noter si elle le veut ce qu’elle a vécu, y compris la peine, sans verdict sur la mémoire de Jean-Claude.
 
-Pourquoi ça marche : L'action produit des preuves concrètes qui contredisent les théories émotionnelles. Cela aide Monique à revenir à une approche plus empirique de sa propre vie.
+Utilité possible : Un choix personnel peut garder plusieurs sentiments présents ; il ne sert pas à prouver qu’une croyance est fausse ni qu’un deuil est résolu.
 
 ## Une phrase sans date
-
 Plus tard, Monique recopie la phrase avec les points de suspension. Elle veut ajouter le nom d’un médecin qu’elle a retrouvé dans le dossier, puis le laisse sur la feuille d’à côté. Elle pourrait demander une explication sur un terme médical qu’elle ne comprend pas. Elle n’a pas de réponse au « si seulement ».
 
 Geneviève a laissé trois madeleines. Monique en prend une pour la manger avec le thé qu’elle n’a pas bu pendant la visite. Elle retourne la page sur le bureau. Quand elle la rouvrira, elle veut retrouver les deux choses séparées : ce que Jean-Claude a écrit et ce qu’elle imagine à partir de là.

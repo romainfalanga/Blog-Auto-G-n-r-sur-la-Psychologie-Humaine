@@ -30,22 +30,61 @@ Dans [le modèle proposé par Kristin Neff](https://doi.org/10.1080/152988603090
 ### 1. Distinguer une erreur d’un verdict sur soi
 Camille peut se dire « j’ai perdu patience » sans en conclure « je suis une mauvaise mère ». Elle peut ensuite décider s’il y a quelque chose à réparer.
 
+Exemples situés :
+- Devant le lait renversé, Camille peut décrire la table à essuyer sans qualifier Léo ou elle-même de maladroit ou d’incapable.
+- Après avoir crié pour les chaussures de foot, elle peut reconnaître son ton sans transformer ce cri en verdict sur toute sa maternité.
+
 ### 2. Nommer sa fatigue avant de répondre
 Camille remarque sa fatigue et la colère qui monte. Elle peut faire une pause et demander à David de l’aider si elle en a besoin. Cela ne garantit pas qu’elle se sentira aussitôt calme.
 
+Exemples situés :
+- Dans la cuisine, Camille remarque qu’elle veut tout essuyer elle-même alors qu’elle est fatiguée et que David est là.
+- Avant les cartables, elle peut dire à David qu’elle manque d’énergie et lui demander de finir la table.
+
 ### 3. Reconnaître sa part et réparer
 Si Camille parle trop durement à Léo, elle peut reconnaître ce qu’elle a fait et s’excuser. Elle peut expliquer qu’elle est fatiguée sans demander aux enfants de la rassurer.
+
+Exemples situés :
+- Si elle parle sèchement à Léo pour le bol, Camille peut s’excuser de son ton et lui proposer de l’aider à trouver le torchon.
+- Si Emma s’inquiète en voyant sa mère tendue, Camille peut préciser que sa fatigue relève des adultes, sans attendre que sa fille la console.
 
 ## Techniques pour agir avec douceur au quotidien
 
 ### 1. Le geste d'apaisement physique
 Si le geste lui convient, Camille peut poser sa main sur son avant-bras un instant. [Un essai mené par Dreisoerner et ses collègues](https://pubmed.ncbi.nlm.nih.gov/35757667/) a observé une réponse du cortisol moins élevée après un stress de laboratoire dans le groupe qui utilisait un toucher apaisant. Ce résultat n’établit ni un arrêt de la production du cortisol ni le même effet dans une dispute familiale.
 
+Objectif : se donner un bref appui avant de répondre au milieu du petit déjeuner.
+
+Exercice pratique :
+1. Posez le torchon et vérifiez que le lait au sol et les enfants peuvent attendre ce bref instant, ou demandez un relais à David.
+2. Si ce contact vous convient, posez doucement la main sur votre avant-bras ; sinon, laissez simplement vos mains au repos.
+3. Dites-vous « Je suis fatiguée » puis choisissez une demande précise, comme laisser David terminer la table.
+
+Utilité possible : ce geste marque une pause choisie. Il n’a pas besoin de produire un apaisement immédiat pour que Camille puisse demander de l’aide.
+
 ### 2. La phrase de rappel de l'humanité commune
 Camille se sent seule avec sa fatigue. On a souvent l'impression d'être la seule mère à perdre pied ou la seule personne à ne pas savoir gérer sa charge mentale. La technique de l'humanité commune invite à se répéter une phrase simple : d’autres parents peuvent traverser des moments semblables. L'exercice pratique est de choisir une formule qui résonne en soi, comme l'imperfection fait partie de l'expérience humaine, et de la prononcer mentalement dès qu'un sentiment de honte apparaît. Cela permet de se reconnecter aux autres plutôt que de s'enfermer dans sa propre détresse.
 
+Objectif : répondre au sentiment d’être la seule mère à perdre patience.
+
+Exercice pratique :
+1. Repérez la phrase qui vous isole, comme « Toutes les autres sauraient gérer ce matin ».
+2. Choisissez une réponse crédible pour vous : « D’autres parents connaissent aussi des matins difficiles ».
+3. Revenez à un geste possible maintenant : chercher le torchon avec Léo ou laisser David essuyer.
+
+Utilité possible : le rappel élargit la perspective sans excuser un cri ni exiger que Camille se sente aussitôt mieux.
+
 ### 3. La lettre de l'ami bienveillant
 Pour contrer le critique intérieur, cet exercice demande d'écrire, même mentalement, ce qu'un ami imaginaire, inconditionnellement aimant, dirait de notre situation. Si Nathalie, l'amie de Camille, la voyait dans sa cuisine ce matin, elle ne lui dirait pas qu'elle est une mauvaise mère. Elle lui dirait qu'elle fait un travail admirable, qu'elle sort d'une garde éprouvante et que renverser du lait n'est pas un drame. L'exercice consiste à reformuler ses reproches en paroles de soutien : au lieu de se dire qu'on est nulle, on se dit qu'on traverse une passe difficile et que l'on fait de son mieux avec les ressources disponibles.
+
+Objectif : préparer des paroles de soutien qui gardent une place à la responsabilité.
+
+Exercice pratique :
+1. Plus tard, écrivez à Nathalie une description imaginaire de ce matin : le bol, la fatigue et la phrase que vous avez failli dire.
+2. Rédigez la réponse bienveillante et réaliste que vous pourriez lui faire si elle vivait cette scène.
+3. Gardez une phrase de cette réponse pour vous et une réparation concrète si vous avez blessé Léo.
+
+Utilité possible : cette autre adresse aide à chercher des mots moins accusateurs sans nier ce qui doit être réparé.
 
 ## Le torchon est à portée
 

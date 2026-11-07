@@ -34,24 +34,63 @@ Ce phénomène ne se limite pas aux discussions sur le choix du dîner. Il s'inf
 ### 1. L'effacement des désirs sexuels personnels
 Mei hésite parfois à dire qu’elle ne veut pas poursuivre. Elle peut dire non, changer d’avis ou faire arrêter un geste, même si elle en avait envie au départ. Son partenaire doit tenir compte de son hésitation et s’assurer de son accord avant de continuer. La responsabilité de respecter ses limites ne repose pas sur elle seule.
 
+Deux exemples dans cet épisode :
+
+- Mei peut hésiter à dire qu’elle ne souhaite pas poursuivre un contact même si elle a accepté de passer la soirée ensemble.
+- Si elle change d’envie après un premier accord, elle peut demander l’arrêt ; Julien doit respecter ce changement sans exiger d’explication.
+
 ### 2. La peur de la divergence et le mimétisme émotionnel
 La manifestation la plus courante est l'incapacité à supporter un désaccord dans l'intimité. La fusion pousse à croire que si les deux partenaires ne ressentent pas la même chose au même moment, le lien est en danger. Cela crée un mimétisme où l'un calque ses émotions sur l'autre. Si le partenaire est triste, on se sent obligé d'être triste. S'il est d'humeur badine, on réprime ses propres soucis. Dans la chambre à coucher, cela empêche toute communication authentique sur l'état de fatigue ou l'envie réelle, car dire que l'on ne souhaite pas de rapport ce soir est perçu comme une rupture du lien fusionnel plutôt que comme une simple limite personnelle.
+
+Deux exemples dans cet épisode :
+
+- Elle tape « j’adore ce réalisateur » pour ressembler à l’enthousiasme supposé de Julien alors qu’elle ne connaît que le nom de l’affiche.
+- Elle a envie d’ajouter « on fera comme tu veux » après avoir proposé sa chambre, comme si une préférence différente menaçait leur soirée.
 
 ### 3. Le retrait émotionnel après l'acte
 Mei peut aussi avoir envie de rester seule après un moment de proximité. Ce besoin n’est ni un signe d’un profil évitant ni la preuve d’un cycle psychologique. Une discussion peut porter sur ce qui lui convient, si elle peut le faire sans pression.
 
+Deux exemples dans cet épisode :
+
+- Après avoir partagé un thé ou un moment de proximité, elle peut souhaiter retrouver seule son carnet.
+- Elle peut vouloir voir Julien un soir et demander du temps personnel ensuite, sans que cette alternance signifie un rejet ou un profil relationnel.
+
 ## Techniques pour s'affirmer face à la fusion
 
-Pour sortir de ce cercle vicieux, il est nécessaire de réapprendre à habiter son propre espace psychique, même en présence de l'autre. Voici des exercices concrets pour y parvenir.
+Mei peut chercher ce qu’elle souhaite pour la soirée et ce qu’elle veut dire, sans devoir accomplir un programme d’affirmation.
 
 ### 1. La technique des cercles de préférences
-Cette méthode consiste à rééduquer le muscle du choix personnel en dehors de toute pression. Prenez une feuille de papier et dessinez trois cercles concentriques. Dans le cercle central, inscrivez les choses qui ne sont pas négociables pour vous, comme vos valeurs ou vos limites physiques absolues. Dans le deuxième, vos préférences, c'est-à-dire ce que vous aimez mais sur quoi vous pouvez transiger. Dans le dernier, vos curiosités, ce que vous ne connaissez pas encore. Faites cet exercice seule d'abord, particulièrement sur les aspects de l'intimité. L'objectif est de réclamer la propriété de votre paysage intérieur. En sachant précisément ce qui se trouve dans votre cercle central, il devient plus facile de dire que vous préférez ceci ou que vous ne souhaitez pas cela lors d'une interaction avec votre partenaire.
+Cette proposition consiste à noter des préférences si cela aide à préparer une réponse. Prenez une feuille de papier et dessinez trois cercles concentriques. Dans le cercle central, vous pouvez noter ce que vous ne souhaitez pas dans la situation présente, sans définir de limites valables pour toute votre vie. Dans le deuxième, vos préférences, c'est-à-dire ce que vous aimez mais sur quoi vous pouvez transiger. Dans le dernier, vos curiosités, ce que vous ne connaissez pas encore. Faites cet exercice seule d'abord, particulièrement sur les aspects de l'intimité. L’objectif est de disposer de mots pour une préférence actuelle, même incertaine. Rien dans les autres cercles ne constitue un accord à une pratique, et ne pas avoir préparé de liste n’enlève rien au droit de refuser.
+
+Objectif de cet essai : Repérer une préférence actuelle sans établir une liste d’accords futurs.
+
+1. Choisissez une situation actuelle, comme l’invitation au film, sans inventorier vos expériences intimes.
+2. Notez ce qui vous convient, ce qui reste incertain et ce que vous ne voulez pas ce soir.
+3. Décidez ce que vous souhaitez communiquer ; ces notes ne sont ni un contrat ni un consentement pour la suite.
+
+Utilité possible : La note aide à préparer une réponse choisie tout en laissant les préférences changer.
 
 ### 2. L'exercice de la météo intérieure partagée
 Avant un moment de proximité, on peut dire simplement ce dont on a envie, ce qui est incertain ou ce qu’on ne souhaite pas. L’énergie ou l’émotion ne remplace pas le consentement, et personne n’est tenu de donner une note ni de justifier un refus.
 
+Objectif de cet essai : Dire ce que l’on souhaite avant un moment de proximité, si on le veut.
+
+1. Si vous souhaitez en parler, dites ce qui vous ferait plaisir maintenant, comme la soirée et le thé.
+2. Nommez aussi une incertitude ou une limite sans note d’énergie ni justification exigée.
+3. Vérifiez que chacun peut changer d’avis ; cet échange ne vaut pas accord à un contact précis ni à sa poursuite.
+
+Utilité possible : Les mots rendent un souhait visible sans remplacer le consentement spécifique et révocable.
+
 ### 3. Ralentir ou arrêter si on le souhaite
 Si vous hésitez, êtes mal à l’aise ou n’avez plus envie, il est possible de ralentir ou d’arrêter. Vous n’avez pas à supporter un contact en vous concentrant sur vos sensations. Si votre partenaire insiste, menace ou ne respecte pas votre refus, privilégiez votre sécurité et cherchez de l’aide auprès d’une personne de confiance ou d’un service spécialisé.
+
+Objectif de cet essai : Pouvoir ralentir ou arrêter et chercher un appui en cas de pression.
+
+1. Si vous n’avez plus envie ou si vous hésitez, ralentissez ou arrêtez selon ce qui est accessible.
+2. Le partenaire doit cesser et vérifier l’accord, sans vous imposer de clarifier parfaitement votre ressenti.
+3. En cas d’insistance, de menace ou de refus ignoré, privilégiez votre sécurité et contactez un appui sûr plutôt que poursuivre l’exercice.
+
+Utilité possible : La possibilité d’arrêt n’est pas une technique pour supporter un contact ; le respect de la limite incombe aussi au partenaire.
 
 ## La lampe reste allumée
 

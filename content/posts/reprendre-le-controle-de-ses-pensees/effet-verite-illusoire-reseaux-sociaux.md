@@ -36,17 +36,32 @@ Mei remarque que certaines idées s'insinuent sans débat, simplement parce qu'e
 
 Exemple concret : voir le même conseil reformulé par plusieurs comptes d'influence, puis le lire repris dans les commentaires et finalement l'entendre en cours, peut suffire à faire accepter l'idée comme une norme.
 
+Deux exemples dans cet épisode :
+
+- À la troisième publication, Mei connaît déjà la fin de la phrase sur les six pages avant de l’ouvrir.
+- Elle a inscrit le chiffre près de son portfolio alors qu’elle ne retrouve pas le studio qui l’aurait demandé.
+
 ### 2. La confusion entre popularité et validité
 
 Un nombre de partages renseigne sur la circulation du contenu. La popularité et la répétition sont deux indices distincts : une affirmation très partagée reste à vérifier.
 
 Exemple concret : un tutoriel viral sur une technique d'ombrage devient la méthode à adopter parce qu'il est populaire, même si son style personnel s'en éloigne. Sa peur du jugement la pousse alors à intégrer cette règle dans ses propres œuvres, au détriment de son originalité.
 
+Deux exemples dans cet épisode :
+
+- Un grand nombre de reprises de la vidéo peut lui sembler confirmer la règle, même si tous les comptes citent le même extrait.
+- Des commentaires approbateurs peuvent rendre le conseil convaincant sans apporter le nom d’un recruteur ni une consigne vérifiable.
+
 ### 3. La répétition transformée en norme émotionnelle
 
-Sur les réseaux sociaux, l'affirmation répétée ne se contente pas de modifier une croyance factuelle, elle sculpte aussi une norme émotionnelle. Les messages qui valorisent la performance, la comparaison ou l'apparence provoquent chez Mei une tension interne : elle commence à surveiller son image, à calibrer ses publications et à mesurer sa valeur artistique à l'aune de ces répétitions.
+Dans le récit, Mei peut transformer un conseil répété en attente personnelle. Cela ne démontre pas que la répétition explique à elle seule ses émotions ou ses choix. Les messages qui valorisent la performance, la comparaison ou l'apparence provoquent chez Mei une tension interne : elle commence à surveiller son image, à calibrer ses publications et à mesurer sa valeur artistique à l'aune de ces répétitions.
 
 Exemple concret : voir des séries d'images avant et après qui célèbrent des corrections perçues comme des améliorations peut la convaincre qu'il faut gommer toute trace d'imperfection pour être légitime, alors que son style joue justement sur ces traces.
+
+Deux exemples dans cet épisode :
+
+- La règle des six pages lui fait envisager de retirer une planche avant de savoir à quelle candidature elle la destine.
+- Elle pourrait lire un conseil répété de portfolio minimaliste comme un jugement sur ses dessins détaillés, alors qu’une exigence de candidature et un choix de style doivent être distingués.
 
 ## Techniques pour résister au biais de répétition
 
@@ -61,25 +76,41 @@ Exercice concret :
 
 Pour Mei, cela signifie noter sur la première page de son carnet le titre d'un post viral et chercher s'il existe une référence vérifiable. Elle utilise les acquis de son voyage à Florence, où l'expérience du petit soi face à l'immensité des Alpes lui a appris à relativiser l'importance des jugements immédiats et des normes sociales étroites.
 
-### 2. Le compteur de répétitions personnelles
+Objectif de cet essai : Retrouver l’origine et le contexte d’une consigne.
 
-Cette méthode consiste à tenir un court registre des idées répétées pendant une semaine pour observer lesquelles se présentent le plus souvent.
+1. Choisissez la phrase précise à vérifier, ici la limite de six pages.
+2. Remontez vers la première publication et le destinataire ou recruteur nommé.
+3. Cherchez une consigne sur le support du studio concerné ; si elle manque, gardez la question ouverte avant de partager ou modifier le portfolio.
 
-Exercice concret :
-- Créer une liste simple dans le carnet : date, idée répétée, sources, sensation générée (par exemple : envie de changer de matériel).
-- À la fin de la semaine, relire la liste et se poser la question : Est-ce que cette idée me parle personnellement ou est-elle devenue familière par répétition ?
+Utilité possible : La recherche précise ce qui est documenté sans garantir de trouver une règle ni de prévoir la décision d’un studio.
 
-Pour Mei, qui dessine dans les transports, le geste d'annoter prend peu de place. Elle se rappelle de l'effet de simple exposition qu'elle a identifié le 19 avril ; ce compteur l'aide à différencier exposition et conviction personnelle.
+### 2. Comparer les reprises d’une même idée
 
-### 3. L'atelier de contre-preuves créatives
+Mei peut comparer les publications déjà enregistrées pour vérifier si elles apportent des informations distinctes. Il n’est pas nécessaire de tenir un compteur quotidien ni de prolonger la consultation.
 
-Chaque fois qu'une affirmation semble s'imposer, l'idée est de produire une petite création qui défie la norme pour tester sa validité émotionnelle et esthétique.
+Pour Mei, qui dessine dans les transports, le geste d'annoter prend peu de place. Elle se rappelle de l'effet de simple exposition qu'elle a identifié le 19 avril ; cette comparaison distingue le nombre de publications et le nombre de sources.
 
-Exercice concret :
-- Remplacer l'habitude de sauvegarder un post par celle de faire un croquis de dix minutes qui va à l'opposé du conseil répété.
-- Écrire une phrase critique courte en dessous du croquis : ce que vous aimez dans votre version et pourquoi.
+Objectif de cet essai : Distinguer plusieurs publications de plusieurs sources indépendantes.
+
+1. Prenez les quelques publications déjà rencontrées sans prolonger la recherche pour en compter davantage.
+2. Vérifiez si elles renvoient au même extrait ou à des sources réellement différentes.
+3. Notez ce que la répétition ajoute comme information ; plusieurs copies n’établissent pas plusieurs confirmations.
+
+Utilité possible : La comparaison évite de confondre circulation et confirmation sans mesure psychologique de la conviction.
+
+### 3. Séparer la consigne et le choix créatif
+
+Un essai peut aider Mei à choisir un style pour son travail. Il ne permet pas de vérifier une règle factuelle sur le recrutement. Elle peut comparer deux cadrages si elle le souhaite, tout en cherchant séparément les consignes du studio auquel elle postulera.
 
 Pour Mei, qui aime expérimenter, cet exercice devient un terrain d'entraînement pour refuser la fusion aux tendances. Elle sait, depuis son travail sur la honte face à l'autorité, qu'exprimer une préférence personnelle est un acte qui peut être accompli sans sacrifier son identité d'artiste pour obtenir une simple approbation.
+
+Objectif de cet essai : Séparer une exigence vérifiable et un conseil artistique à essayer librement.
+
+1. Déterminez si le message concerne une exigence de candidature ou une préférence esthétique.
+2. Pour la candidature, vérifiez la consigne du destinataire ; pour un choix de dessin, comparez une variante seulement si cela vous intéresse.
+3. Gardez le choix artistique qui sert votre projet sans présenter un croquis comme une preuve sur les pratiques de recrutement.
+
+Utilité possible : La distinction permet une expérience de dessin sans l’utiliser pour démontrer qu’une affirmation factuelle est fausse.
 
 ## La recommandation introuvable
 

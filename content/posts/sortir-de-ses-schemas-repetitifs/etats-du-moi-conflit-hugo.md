@@ -27,36 +27,56 @@ Les états du Moi, nommés Parent, Adulte et Enfant, appartiennent au modèle de
 Hugo peut utiliser le modèle pour remarquer une règle qu'il répète, un besoin qu'il peine à dire ou un fait qu'il vient d'apprendre. On peut éprouver de la tristesse ou de la colère et regarder ce qui se passe ici et maintenant.
 
 ## Manifestations des états du Moi en situation de conflit
-### 1. Le Parent critique et la répétition des scripts familiaux
-Dans un conflit, le Parent critique se manifeste par des sentences automatiques : reproches, jugements, consignes morales. Pour Hugo, cela prend souvent la forme de phrases intérieures qui imitent son père Alain, chez qui l'amour semblait conditionnel à la performance. Par exemple, face à une remarque anodine de Chloé sur ses horaires, il sent surgir une pensée qui ressemble à une condamnation apprise : "Tu ne t'organises jamais." Ce Parent critique peut fermer toute possibilité de dialogue et déclencher la réponse opposée chez l'autre, aggravant la rupture.
 
-Il arrive que Hugo réponde avant de savoir ce que Chloé essaie de lui dire. Quand le ton monte, il se rappelle parfois le rire qu’il avait entendu au bar et les mots cassants qui lui étaient venus. La grille des états du Moi lui fournit des mots pour regarder ces réactions après coup. Elle ne dit pas ce que Chloé ressent ni comment elle doit lui répondre.
+### 1. Une règle prend la forme d’un reproche global
 
-### 2. L'Enfant blessé qui réclame et idéalise
-Dans cette grille, Hugo peut associer certains élans à des façons de réagir qu'il reconnaît depuis longtemps. Appeler Chloé à toute heure ou couper court à une dispute ne suffit pas à déterminer son style d'attachement. Il reste responsable de respecter la disponibilité et les limites de l'autre.
+Dans cette grille, Hugo peut appeler « Parent critique » une façon de répéter un jugement ou une obligation. Ce mot ne prouve pas d’où vient la phrase et ne décrit pas ce que Chloé pense. Hugo peut observer ses propres mots sans attribuer un état à l’autre.
 
-Après une remarque froide, l'Enfant d'Hugo transforme la situation en question de survie émotionnelle, ce qui le pousse à exiger des garanties d'amour ou à menacer d'abandonner la relation pour se protéger. C'est cet Enfant qui, lors de la répétition du 2 avril, avait saboté l'harmonie du groupe à la guitare par simple peur d'être trop heureux.
+Il prépare trois reproches avant d’avoir entendu ce qu’elle veut dire. Dans l’escalier, il demande à Théo pourquoi elle n’a pas répondu, comme si son frère devait fournir la réponse. Le reproche préparé et la question adressée à un tiers peuvent tous deux précéder l’information de Chloé.
 
-### 3. Quand les faits passent au second plan
-Lors du tremplin, Hugo apprend la décision de Samba et croit aussitôt en connaître l'intention. Le mot « Adulte », dans ce modèle, l'invite à revenir à ce qu'il sait de la décision et à ce qu'il pourrait demander, si Samba souhaite en parler.
+### 2. Un besoin de réponse devient une exigence
 
-Face à une accusation, au lieu de demander des précisions ou proposer un temps de parole, Hugo répond par une généralisation accusatrice, ce qui enflamme davantage la situation. Il laisse son raisonnement émotionnel transformer ses peurs en vérités absolues, comme lorsqu'il était persuadé de la rupture avant même d'avoir parlé à Chloé.
+Le mot « Enfant » peut servir à Hugo de repère pour un besoin difficile à formuler. Il n’efface pas sa responsabilité et ne transforme pas l’autre en personne chargée de le rassurer. Le modèle ne permet pas de déduire un style d’attachement.
+
+Il imagine le moment où Chloé devra lui donner raison, moins celui où elle refusera. Il a aussi envie de relire la déclaration du Melody pour défendre le ton qu’il croyait lui donner. Dans ces deux préparations, la réponse espérée risque de prendre le pas sur la possibilité d’une limite actuelle.
+
+### 3. Le fait disponible passe derrière le récit déjà préparé
+
+Le repère « Adulte » invite ici à examiner ce qui est connu et ce qui reste à demander. Il n’impose ni calme parfait ni absence de colère. Une émotion peut rester présente pendant une question factuelle.
+
+Au tremplin, Hugo a attribué une intention à Samba avant de connaître le moment de sa décision. Devant « On doit parler », il s’est préparé à une rupture alors que le sujet restait inconnu. Ces deux échanges montrent la place prise par une réponse imaginée avant la question réelle.
 
 ## Techniques pour gérer les états du Moi
-### 1. Nommer l'état du Moi présent
-Au début d'un échange tendu, Hugo peut nommer ce qui se passe en quelques mots : « Je me sens rejeté » ou « Je suis en train de répéter un reproche entendu autrefois. » S'il a besoin d'interrompre l'échange, il peut le dire clairement.
 
-Nommer permet de mettre de la distance. L'Adulte reprend de la place quand l'émotion est observée plutôt que vécue comme l'unique réalité.
+### 1. Nommer ses mots plutôt qu’étiqueter l’autre
 
-### 2. Rediriger vers l'Adulte avec trois questions factuelles
-Il s'agit de ramener le dialogue vers des éléments vérifiables pour sortir du script émotionnel. Hugo utilise une trame simple en conversation : 1) Quel est le fait observable ? 2) Qu'est-ce que je ressens ? 3) Qu'est-ce que je veux maintenant ? Par exemple, si Chloé dit "Tu es distant", il répond en Adulte : "Quel moment précis tu évoques ? Je ressens de la tristesse. Ce que je veux, c'est clarifier ce point ce soir." En répétant cette structure, il entraîne sa façon de réagir.
+Hugo cherche une description courte de sa réaction, sans déterminer quel état le « gouverne » ni analyser Chloé.
 
-L'Adulte s'appuie sur des données claires. En orientant la discussion sur des faits, on évite les projections et on diminue la charge affective du Parent et de l'Enfant.
+1. Repérer une phrase qu’il s’apprête à prononcer, comme un des trois reproches préparés.
+2. Dire pour lui-même ce qu’il observe : un jugement général, une crainte ou une demande non formulée ; utiliser les mots du modèle seulement s’ils l’aident.
+3. Choisir de reformuler une question précise ou d’annoncer une interruption, selon ce qu’il peut réellement faire maintenant.
 
-### 3. Le contrat de communication temporaire
-Cette méthode permet d'instaurer une règle simple pour gérer le conflit en temps réel. Hugo propose à voix posée un contrat au début d'un échange : par exemple, dix minutes pour s'exprimer sans interruption, puis dix minutes pour répondre en respectant la trame Adulte (faits, émotions, besoins). Pendant le temps d'expression, on note les mots-clés sur un papier plutôt que d'interrompre. Pour s'entraîner, Hugo répète ce contrat avec Théo ou Samba lors d'une répétition, en simulant une dispute. Le contrat peut s'appuyer sur une phrase courte : "Je veux qu'on s'exprime sans s'agresser pendant quinze minutes."
+Ce repère peut rendre une parole plus discutable. Trouver la bonne catégorie n’est pas un préalable à une excuse ou au respect d’un refus.
 
-Des tours de parole ne rendent pas un échange sûr s'il y a intimidation, menaces ou gestes violents. Jeter une guitare peut blesser ou effrayer. Dans ce cas, interrompre l'échange et se mettre en sécurité passe en premier. Le [site gouvernemental Arrêtons les violences](https://arretonslesviolences.gouv.fr/besoin-d-aide) indique où trouver de l'aide.
+### 2. Revenir au fait, au ressenti et à une demande
+
+L’objectif est de distinguer trois éléments sans transformer la discussion en récitation.
+
+1. Choisir le fait présent, par exemple Chloé a accepté un court échange avant son départ, et demander le temps dont elle dispose.
+2. Nommer son ressenti sans lui en donner la charge : il est inquiet ou a envie de se justifier.
+3. Préparer une demande limitée sur la suite des contacts, puis écouter la réponse sans exiger qu’elle confirme son interprétation.
+
+Cette trame peut clarifier le sujet. Elle n’oblige pas Chloé à répondre sur sa vie privée ni à poursuivre l’échange pour qu’Hugo se sente mieux.
+
+### 3. Convenir d’un échange court qui peut s’arrêter
+
+Hugo peut proposer un cadre seulement si chacun souhaite parler et que la situation est sûre.
+
+1. Demander si dix minutes conviennent avant le départ et accepter un autre moment ou un refus.
+2. Laisser Chloé terminer ce qu’elle dit, en notant au besoin son propre point plutôt que l’interrompre pour défendre le concert.
+3. Reformuler la limite entendue et vérifier seulement l’information pratique nécessaire, puis terminer à l’heure ou dès qu’un arrêt est demandé.
+
+Ce cadre peut rendre la durée plus prévisible. Des tours de parole ne rendent pas un échange sûr en cas d’intimidation, de menace ou de geste violent. Jeter une guitare peut blesser ou effrayer : interrompre et se mettre en sécurité passe en premier. Le [site gouvernemental Arrêtons les violences](https://arretonslesviolences.gouv.fr/besoin-d-aide) indique où trouver de l’aide.
 
 ## Il reste dix minutes avant le départ
 

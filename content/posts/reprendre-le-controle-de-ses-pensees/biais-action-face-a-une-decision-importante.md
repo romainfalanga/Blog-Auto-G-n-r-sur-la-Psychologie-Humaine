@@ -20,45 +20,74 @@ Il jette un regard vers la fenêtre qui donne sur le jardin. Sofia aide Lina ave
 Pourtant, Karim hésite. Il se rappelle les leçons de ces derniers mois sur son besoin de contrôle et son enthousiasme parfois aveugle. Cette excitation qui le gagne est la même que celle qui l'avait poussé à ignorer les alertes financières de Romain lors de l'aventure lyonnaise, le menant droit dans le mur des dettes. Il sent que s'il signe ce document maintenant, ce n'est pas parce que c'est la meilleure décision, mais parce qu'il ne supporte plus de rester immobile. Son téléphone vibre dans sa poche, une tentation de plus de se replonger dans le mouvement perpétuel. Il s'assoit lentement, forçant son corps à rester immobile malgré l'urgence intérieure qui le pousse à finaliser ce bail avant la fin de journée.
 
 ## Définition du concept de biais d'action
-
 On parle de biais d'action quand la préférence pour intervenir l'emporte sans raison suffisante sur une option d'attente. Dans [leur étude de tirs au but](https://www.sciencedirect.com/science/article/pii/S0167487006001048), Michael Bar-Eli et ses collègues estimaient que rester au centre était plus avantageux dans leurs données, alors que les gardiens plongeaient le plus souvent. [Une réplication ultérieure](https://www.sciencedirect.com/science/article/pii/S0167487026000103) ne retrouve pas ce résultat. L'exemple illustre la question à poser : agir apporte-t-il vraiment un avantage dans cette situation ?
 
 Karim sait combien l'attente lui pèse. Signer ferait disparaître une partie de cette incertitude, mais ne lui en dirait pas plus sur le coût du bail. Se sentir soulagé après une décision ne suffit pas à en mesurer l'intérêt.
 
 ## Manifestations du biais d'action face à une décision importante
-
 Les trois situations suivantes montrent ce qui peut pousser Karim à signer avant d'avoir examiné les options.
 
 ### 1. La précipitation pour soulager l'anxiété
-
 Karim a envie de signer pour ne plus laisser le dossier en suspens. Ce sentiment peut compter dans sa décision, à côté d'autres éléments : l'échéance du bail, le temps nécessaire pour vérifier les clauses et les conséquences d'une signature.
 
-### 2. La valorisation excessive de l'effort visible
+Exemples concrets :
+- Dans le garage, Karim arrive à la signature avant d’avoir lu les conditions de sortie.
+- Le rendez-vous comptable est prévu lundi, mais il voudrait conclure le vendredi surtout pour ne plus attendre.
 
+### 2. La valorisation excessive de l'effort visible
 Ouvrir un nouveau restaurant est visible et donne des résultats faciles à annoncer. À Lyon, les services continuent pendant qu’il examine avec Romain les comptes et ce qu’une fermeture engagerait pour l’équipe. Avant d'engager des fonds, Karim peut comparer ce que chaque projet apporterait et ce qu'il laisserait sans solution.
 
-### 3. La peur du regret lié à l'inaction
+Exemples concrets :
+- Karim peut annoncer une ouverture plus facilement que le travail discret de lecture des comptes avec Romain.
+- Une nouvelle dépense visible ne règle pas à elle seule les échéances du restaurant de Lyon.
 
+### 3. La peur du regret lié à l'inaction
 Karim imagine qu'il s'en voudrait s'il laissait passer ce local. Il peut aussi se demander ce qu'il regretterait d'avoir signé trop vite. Dans certains cas, attendre fait perdre une occasion ou aggrave le problème : le coût de ce délai doit aussi entrer dans la comparaison.
 
-## Techniques pour agir avec discernement
+Exemples concrets :
+- Il imagine le regret de perdre le local si une autre offre arrive pendant le délai.
+- Il peut aussi examiner le regret possible d’un bail signé sans avoir lu les clauses déterminantes.
 
+## Techniques pour agir avec discernement
 Avant de signer, Karim peut examiner ce qu'il gagne à agir aujourd'hui et ce qu'il risque en attendant.
 
 ### 1. Fixer un délai selon l'échéance
+Objectif : Faire dépendre le délai de l’échéance réelle.
 
 Identifiez la date à laquelle une décision est réellement nécessaire. Si le délai le permet, utilisez-le pour relire les clauses et demander un avis aux personnes concernées. En cas d'urgence, cherchez les informations disponibles avant l'échéance. Karim vérifie qu'il peut reprendre le dossier lundi avec Romain.
 
+Exercice pratique :
+- Repérer dans les échanges la date à laquelle une réponse au bail est exigée.
+- Vérifier avec l’interlocuteur si le rendez-vous de lundi reste possible avant cette date.
+- Utiliser le temps disponible pour transmettre les clauses à examiner à Romain et au professionnel compétent.
+
+Utilité possible : Le délai peut servir une vérification utile sans traiter toute attente comme nécessairement meilleure que l’action.
+
 ### 2. L'analyse du coût de l'agitation
+Objectif : Comparer ce que chaque calendrier engage.
 
 Comparez les effets d'une signature immédiate et ceux d'un report : frais engagés, possibilité de renoncer, information à vérifier et risque de perdre le local. Un associé peut apporter un autre regard et un professionnel compétent peut éclairer une clause. Un désaccord ne prouve pas un biais.
 
+Exercice pratique :
+- Écrire les effets connus d’une signature immédiate.
+- Inscrire à côté les effets d’un report, dont le risque de perdre le local et l’information attendue lundi.
+- Faire examiner les points mal compris par la personne compétente avant de trancher.
+
+Utilité possible : La comparaison peut rendre visibles les coûts des deux options sans confondre soulagement et intérêt de la décision.
+
 ### 3. La pratique de l'inaction stratégique
+Objectif : Employer l’attente à obtenir une information déterminante.
 
 Si la signature peut attendre, notez l'information qui pourrait changer votre choix et une manière de l'obtenir. Karim pourrait passer dans le quartier à d'autres heures si la fréquentation lui paraît déterminante. S'il dispose déjà des renseignements nécessaires, attendre davantage n'est pas forcément utile.
 
-## Le bail reste sur l’établi
+Exercice pratique :
+- Choisir une information dont la réponse pourrait changer le choix de local.
+- Définir comment et quand la recueillir, par exemple la fréquentation à un autre horaire si elle est pertinente.
+- Reprendre la décision avec cette information à l’échéance, sans ajouter un délai devenu sans objet.
 
+Utilité possible : L’attente devient une étape informative plutôt qu’une posture ou une épreuve d’immobilité.
+
+## Le bail reste sur l’établi
 Assis sur son tabouret, Karim lâche enfin le dossier du bail. Après avoir vérifié l'échéance du bail, il laisse son téléphone dans le garage pour le dîner. Il se remémore les paroles de Sofia lors de leur dernière promenade : il n'a plus rien à prouver à personne, ni à son père, ni à lui-même. Il réalise que son envie de signer ce contrat à l'instant même est une résurgence de son ancien moi, celui qui cherchait dans l'hyperactivité un remède à son sentiment d'illégitimité et qui utilisait des cadeaux coûteux pour masquer ses failles. Il choisit de respirer l'odeur du bois scié dans son garage et de savourer la liberté de ne pas décider tout de suite.
 
 Il se lève et quitte son espace de travail. En entrant dans la cuisine, il voit Sofia qui range les assiettes. D'habitude, il lui aurait annoncé fièrement qu'il avait réglé l'affaire du bail, cherchant une validation immédiate pour nourrir son besoin de grandiosité. Ce soir, il s'approche d'elle et lui propose simplement de l'aider à débarrasser la table. Il sent une légère frustration intérieure, mais il peut rester à table malgré l'envie de retourner au garage. En choisissant de rester présent avec sa famille plutôt que de se perdre dans ses projets, il répare le lien qu'il avait failli briser.

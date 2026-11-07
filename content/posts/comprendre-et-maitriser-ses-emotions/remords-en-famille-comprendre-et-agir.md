@@ -36,13 +36,25 @@ Le remords en famille possède une texture particulière car il s'inscrit dans u
 
 Nadia se demande si elle a parlé à sa mère comme à quelqu'un dont elle devait contrôler le travail. Elle repense aussi à la scène de la farine avec Yasmine. Elle peut reconnaître ce qu'elle a fait et se demander quel ton elle aimerait employer la prochaine fois.
 
+Exemples situés :
+- En relisant « avec toi, il n’y a jamais de limite », Nadia remarque le jugement global porté sur Fatima.
+- Le verre pris par Yasmine lui rappelle qu’une discussion sur l’heure du coucher a été menée devant sa fille plutôt qu’entre adultes.
+
 ### Le besoin de réparation immédiate et le perfectionnisme
 
 Le remords en famille peut aussi déclencher une envie de sur-réparer. Nadia a tendance à vouloir effacer son erreur par des gestes matériels ou une organisation parfaite du prochain événement familial. C'est une manifestation du remords filtrée par son perfectionnisme. Elle cherche à compenser une maladresse émotionnelle par une efficacité logistique, espérant que la perfection d'aujourd'hui fera oublier l'offense d'hier. C'est un piège classique où l'action remplace la parole authentique. Ce besoin de tout lisser rappelle son obsession pour le tableur Excel lors de l'anniversaire de sa fille, où chaque détail devait masquer l'imprévisibilité de sa nouvelle vie de divorcée.
 
+Exemples situés :
+- Dans la voiture, Nadia peut vouloir passer pour le gilet afin de réparer par un service sans nommer sa remarque.
+- Pour la prochaine visite, elle peut préparer une organisation parfaite en espérant que Fatima n’aura plus besoin de reparler des mots blessants.
+
 ### Le poids de l’histoire familiale
 
 Parfois, le remords est amplifié par l'histoire familiale. Pour Nadia, critiquer Fatima réveille la peur de ne pas être une bonne fille selon les standards culturels qu'elle a intégrés. Le remords devient alors un mélange de regret personnel et de peur de rompre la chaîne de solidarité familiale. Elle se sent responsable du bonheur de sa mère, un fardeau qu'elle porte depuis ses dix ans, ce qui donne au moindre conflit une dimension dramatique et accablante.
+
+Exemples situés :
+- Devant le nom de Fatima dans les contacts, Nadia peut craindre qu’un désaccord sur le coucher fasse d’elle une mauvaise fille.
+- Après les excuses, elle peut avoir envie d’obtenir aussitôt une réponse chaleureuse pour se rassurer sur tout leur lien, alors que Fatima préfère attendre.
 
 ## Techniques pour agir face au remords
 
@@ -52,13 +64,40 @@ Les pistes ci-dessous servent à distinguer ce qu'on ressent, ce qu'on peut assu
 
 Écrivez si cela vous aide, sans obligation d'envoyer la lettre. Nommez le geste précis que vous regrettez et dites ce que vous pourriez faire autrement. Nadia peut écrire : « Je regrette de t'avoir parlé sèchement devant Yasmine. » Elle n'a pas à endosser toute la responsabilité du conflit ni à demander une réconciliation immédiate.
 
+Objectif : nommer sa part sans obtenir de pardon par l’écrit.
+
+Exercice pratique :
+1. Écrivez la phrase précise que vous regrettez, sans commencer par votre fatigue.
+2. Ajoutez ce que vous souhaitez faire autrement, comme reprendre le désaccord hors de la présence de Yasmine.
+3. Choisissez de garder la note ou d’utiliser une phrase dans l’appel, sans exiger une réconciliation immédiate.
+
+Utilité possible : Nadia prépare une responsabilité limitée à ses paroles, sans endosser toutes les émotions de Fatima.
+
 ### 2. Le recadrage temporel des émotions
 
 Demandez-vous quelle valeur était en jeu. Pour Nadia, c'est le respect. Elle peut choisir un geste compatible avec cette valeur et avec la situation : laisser du temps à Fatima, écouter ce qu'elle a à dire ou s'engager à ne pas rouvrir le désaccord devant Yasmine.
 
+Objectif : donner une suite au respect souhaité, avec le temps de l’autre.
+
+Exercice pratique :
+1. Nommez la valeur que vous voulez traduire dans l’échange, ici le respect.
+2. Choisissez un geste présent compatible, comme demander quand Fatima souhaite reparler du coucher.
+3. Si elle préfère attendre, fixez seulement ce qu’elle accepte et reprenez vos autres tâches sans relancer pour obtenir un apaisement.
+
+Utilité possible : le regret peut conduire à un changement de conduite qui respecte aussi la disponibilité de Fatima.
+
 ### 3. La pratique de l'auto-compassion différenciée
 
 La notion d'autocompassion, telle que la décrit Kristin Neff, invite notamment à se parler avec bienveillance quand on se trouve en difficulté. Nadia peut s'en inspirer : « Je regrette ce que j'ai dit. Je peux en répondre sans résumer toute ma valeur à cette dispute. » C'est une façon de préparer le dialogue, sans demander à Fatima de la rassurer.
+
+Objectif : préparer une réponse responsable sans verdict global sur soi.
+
+Exercice pratique :
+1. Repérez le jugement « Je suis une mauvaise fille » s’il accompagne le remords.
+2. Reformulez en tenant ensemble le fait et votre dignité : « J’ai parlé durement, je peux répondre de ces mots ».
+3. Revenez au geste choisi, l’excuse ou l’attente, sans demander à Fatima de vous rassurer sur votre valeur.
+
+Utilité possible : Nadia peut conserver une place pour la réparation sans faire de sa détresse une tâche supplémentaire pour sa mère.
 
 ## Le gilet attendra
 

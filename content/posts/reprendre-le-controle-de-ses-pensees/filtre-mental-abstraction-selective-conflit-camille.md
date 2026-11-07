@@ -33,13 +33,25 @@ Il arrive qu’un détail prenne toute la place après un désaccord. Voici ce q
 
 Dans un conflit, l'abstraction sélective pousse à isoler une seule phrase maladroite parmi des heures de discussion. Camille, par exemple, ignore les efforts de David pour communiquer ses besoins et ne retient que l'allusion à sa fatigue. Elle interprète ce détail comme une preuve de son échec. Cette manifestation crée une asymétrie dans la communication : l'un des partenaires essaie de résoudre un problème global tandis que l'autre reste bloqué sur un point de détail, empêchant toute résolution réelle du différend.
 
+Exemples situés :
+- Près de l’évier, Camille retient « très fatiguée » et se rappelle mal la proposition de vacances qui précédait.
+- En racontant la discussion à Nathalie, elle pourrait citer uniquement cette phrase ; elle peut préciser qu’elle n’a pas encore repris tout l’échange.
+
 ### 2. L'effacement des preuves de soutien
 
 Camille se rappelle que David lui a proposé de prendre en charge des devoirs et un rendez-vous. Elle peut tenir compte de ce soutien sans faire disparaître la question de la fatigue.
 
+Exemples situés :
+- La fatigue mentionnée prend toute la place alors que David a préparé le dîner ce soir-là.
+- En reprenant la semaine, Camille peut retrouver sa proposition sur les devoirs sans que ce soutien efface une parole qui l’a blessée.
+
 ### 3. L’intention qu’elle prête à David
 
 Camille entend une critique ; elle sait ce qui a été dit mais ignore encore ce que David voulait exprimer. L’interprétation d’une intention et le fait de retenir une seule phrase sont deux questions distinctes.
+
+Exemples situés :
+- Camille entend dans « très fatiguée » un reproche d’incompétence que David n’a pas formulé.
+- Dans le salon, elle peut demander s’il parlait des vacances ou d’un allégement de la semaine plutôt que répondre à cette intention supposée.
 
 ## 3 techniques pour agir face au filtre mental et l'abstraction sélective
 
@@ -49,13 +61,40 @@ Pour briser ce cercle vicieux, il est utile d'apprendre à élargir son champ de
 
 Camille note la phrase qui l’a blessée et les autres éléments de la discussion qu’elle juge pertinents. Elle n’a pas besoin de trouver un nombre donné de points positifs.
 
+Objectif : remettre un détail dans l’échange sans l’annuler.
+
+Exercice pratique :
+1. Notez exactement la phrase sur la fatigue, autant que vous vous en souvenez.
+2. Ajoutez les autres éléments pertinents : proposition de vacances, repas préparé, demande restée sans réponse.
+3. Relisez l’ensemble et choisissez ce qui reste à clarifier avec David.
+
+Utilité possible : plusieurs éléments redeviennent disponibles ; aucun nombre de gestes aimables n’oblige à oublier une remarque blessante.
+
 ### 2. Le questionnement socratique de la preuve
 
 Camille distingue les mots entendus, leur effet sur elle et ce qu’elle suppose. Un [relevé des pensées du NHS](https://www.nhs.uk/every-mind-matters/mental-wellbeing-tips/self-help-cbt-techniques/thought-record/) propose une démarche de ce type. Elle peut reconnaître qu’une phrase lui a fait mal, même si l’intention reste inconnue.
 
+Objectif : distinguer parole entendue, effet et intention supposée.
+
+Exercice pratique :
+1. Écrivez les mots entendus dans la cuisine.
+2. Sur une autre ligne, décrivez ce qu’ils vous ont fait et l’intention que vous leur avez attribuée.
+3. Indiquez ce que vous savez de cette intention et ce que seule une réponse de David pourrait éclairer.
+
+Utilité possible : Camille peut tenir son ressenti pour réel sans traiter sa première interprétation comme une certitude.
+
 ### 3. Demander plutôt que deviner
 
 Si l’échange lui paraît sûr, Camille peut demander à David ce qu’il voulait dire et lui expliquer comment elle l’a compris. En présence de menaces, d’humiliations répétées ou de violence, la priorité est de se protéger et de chercher du soutien.
+
+Objectif : poser une question précise lorsque l’échange est sûr et souhaité.
+
+Exercice pratique :
+1. Proposez à David un moment pour revenir sur la phrase, sans poursuivre la dispute dans le passage.
+2. Dites comment vous l’avez comprise et demandez ce qu’il voulait exprimer.
+3. Écoutez sa réponse puis précisez votre besoin, par exemple revoir les dates demain ; si l’échange devient intimidant, interrompez-le et cherchez du soutien.
+
+Utilité possible : une réponse remplace une supposition sans imposer l’accord ni la poursuite d’une conversation dangereuse.
 
 ## David répond à sa question
 

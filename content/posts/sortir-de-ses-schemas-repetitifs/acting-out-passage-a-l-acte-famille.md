@@ -32,19 +32,70 @@ Dans un conflit, frapper ou casser un objet peut mettre les personnes présentes
 
 Patrick quitte la pièce puis frappe un établi avec une massue. Il endommage le bois, réveille une douleur et effraie Catherine. Le récit permet de décrire ces conséquences et le contexte du deuil. Il ne permet pas de déduire un conflit inconscient. Selon les cadres cliniques, le terme « acting out » peut désigner une interprétation du sens d’un acte. Ici, on s’en tient au geste et à ce que Patrick et Catherine en disent.
 
+### Quitter la pièce ne suffit pas à créer une pause sûre
+
+Patrick s’éloigne du tri sans annoncer ce qu’il va faire, puis frappe l’établi. Le changement de pièce ne transforme pas le geste destructeur en moyen d’apaisement. Catherine entend les coups et peut chercher de la distance.
+
+**Exemples concrets**
+
+- La chaise repoussée puis les coups dans le garage ne donnent pas à Catherine une information sur la possibilité de rester près de lui sans danger.
+- L’éclat tombé près de la porte montre qu’un objet cassé peut exposer aussi les personnes qui ne sont pas visées.
+
+### Le contexte ne retire pas la responsabilité du geste
+
+Les papiers de Marcel et la difficulté à les trier font partie de cette journée. Ils n’obligent pas Patrick à frapper le bois et ne permettent pas de conclure à un conflit inconscient. Revenir aux conséquences évite de faire du deuil une explication suffisante.
+
+**Exemples concrets**
+
+- La facture restée sur la table indique ce que Patrick faisait avant les coups ; elle ne justifie pas ceux-ci.
+- La douleur réveillée après le geste est une conséquence à prendre en compte, à côté de la peur de Catherine et du bois endommagé.
+
+### La personne effrayée choisit sa distance
+
+Catherine n’a pas à revenir dans le garage pour calmer Patrick. Elle peut prendre ses affaires et demander un appui pour elle-même. La reconnaissance de l’acte ne lui impose ni pardon ni nouvelle séance de tri.
+
+**Exemples concrets**
+
+- Catherine attend dans le couloir et choisit de passer l’après-midi chez sa sœur.
+- Patrick peut entendre qu’elle ne souhaite pas reprendre les papiers sans lui demander de démontrer qu’elle n’a plus peur.
+
 ## Ce qui peut protéger les personnes présentes
 
-### S’éloigner du danger
+### 1. S’éloigner du danger
 
-Si vous craignez de frapper quelqu’un ou de briser un objet, posez ce que vous tenez si vous pouvez le faire en sécurité. Éloignez-vous des autres et demandez de l’aide. Si le danger est immédiat, contactez les services d’urgence. Les personnes présentes peuvent quitter la pièce et demander un appui. Elles n’ont pas à calmer une personne menaçante.
+**Objectif** : Protéger les personnes avant toute recherche d’explication.
 
-### Distinguer une pause d’une menace
+**Exercice pratique**
 
-Sortir quelques minutes d’une discussion peut être utile quand la situation est sûre. Casser un meuble ou frapper un objet peut faire peur, même si le geste ne vise personne. L’intention de prendre l’air ne suffit pas à décrire l’effet d’un geste destructeur.
+- Si vous craignez de frapper ou de casser, posez ce que vous tenez seulement si vous pouvez le faire en sécurité et gardez de la distance avec les autres.
+- Demandez de l’aide ; si le danger est immédiat, contactez les services d’urgence. La personne menacée peut partir et appeler pour elle-même sans intervenir auprès de vous.
+- Ne cherchez pas à reprendre la discussion ou à obtenir le retour de la personne effrayée. Suivez les indications des intervenants si un relais est nécessaire.
 
-### Revenir sur l’acte quand chacun se sent en sécurité
+**Utilité possible** : La mise en sécurité ne dépend pas d’un accord sur les raisons du geste. Les proches n’ont pas à calmer une personne menaçante.
 
-Patrick peut dire ce qu’il a fait, reconnaître la peur que cela a pu provoquer et demander ce dont Catherine a besoin. Elle peut vouloir rester à distance. Il peut prendre rendez-vous pour discuter de ce comportement, de sa douleur et de son deuil. Ce rendez-vous peut aider à préparer une réponse pour une prochaine montée de tension.
+### 2. Distinguer une pause d’une menace
+
+**Objectif** : Choisir un éloignement qui ne comporte ni destruction ni intimidation.
+
+**Exercice pratique**
+
+- Lorsque la situation permet une pause sûre, annoncez que vous interrompez l’échange sans menacer l’autre ni lui barrer le passage.
+- Éloignez-vous des objets que vous pourriez utiliser pour frapper et demandez un appui si vous craignez de recommencer.
+- Laissez l’autre choisir sa propre distance ; aucune reprise n’est due à la fin d’un délai que vous auriez fixé seul.
+
+**Utilité possible** : Sortir quelques minutes et casser un meuble ont des effets différents. L’intention de prendre l’air ne suffit pas à décrire un geste destructeur.
+
+### 3. Revenir sur l’acte quand chacun se sent en sécurité
+
+**Objectif** : Reconnaître sa responsabilité et chercher une aide sans demander à Catherine de la porter.
+
+**Exercice pratique**
+
+- Si un échange est possible et souhaité, nommez ce que vous avez fait et son effet, sans le justifier par le tri ou le deuil.
+- Écoutez la limite formulée. Catherine peut préférer rester chez sa sœur ou ne pas reparler des papiers.
+- Cherchez rapidement un appui professionnel pour le comportement dangereux et préparez vos questions sur une autre réponse à la tension, séparément de l’avis sur votre dos.
+
+**Utilité possible** : Cette démarche reconnaît le besoin de protection et d’accompagnement. Elle ne garantit pas le rétablissement de la confiance ni une réconciliation.
 
 ## Catherine prend ses affaires
 

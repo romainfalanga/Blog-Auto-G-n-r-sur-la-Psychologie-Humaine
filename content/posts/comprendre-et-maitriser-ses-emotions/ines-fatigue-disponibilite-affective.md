@@ -39,17 +39,23 @@ Clara voit Inès chercher ses clés tout en écoutant. Elle en déduit qu’elle
 
 Inès peut donner une information plus utile : « Je perds le fil quand plusieurs éléments arrivent ensemble. » Cette phrase ne demande pas à Clara d’effacer son besoin. Elle décrit une difficulté située qui permet de choisir la suite. Clara peut alors dire si sa question doit être réglée immédiatement ou si elle souhaite surtout être accompagnée. Préciser l’urgence change les possibilités, alors que discuter de qui aime le plus écouter les réduit.
 
+Le dossier apporte un autre exemple : la question répétée par Inès peut être entendue comme un désintérêt, alors qu’elle décrit une difficulté à retenir l’ordre des éléments.
+
 ### Faire durer une présence qui devient pénible
 
 Pour éviter de décevoir, Inès peut rester pendant toute la conversation en répondant machinalement. Elle semble disponible, mais sa patience diminue. Elle finit par couper une phrase ou proposer une solution sans avoir compris. Ce résultat ne vient pas nécessairement d’un défaut d’empathie ; il peut aussi venir d’un mauvais ajustement entre les exigences du moment et ce qu’elle peut faire. L’hypothèse reste à vérifier dans la situation réelle.
 
 Le report n’est toutefois pas toujours possible. Clara peut avoir une décision urgente à prendre. Elles peuvent alors réduire la tâche : identifier ce qui est nécessaire maintenant, chercher un autre appui ou répartir les démarches. Un temps de présence limité peut être préférable à une disponibilité annoncée sans limite puis interrompue par une irritation. Cette réduction doit être dite ensemble, sans laisser la personne préoccupée deviner ce qui lui est accordé.
 
+À côté de la solution donnée trop vite, une autre réponse machinale serait d’acquiescer à chaque étape du courrier sans pouvoir redire quelle aide Clara demande.
+
 ### Transformer le repos en dette à rembourser
 
 Inès envisage de promettre une longue soirée d’écoute le lendemain. Elle ne connaît pourtant pas encore son énergie ni les besoins de Clara à ce moment-là. La promesse vise surtout à rendre le repos acceptable. Elle risque ensuite de vivre la conversation comme une obligation accumulée. Le fonctionnement ressemble à celui qu’elle reconnaît déjà dans l’intimité : compenser une limite présente par un engagement futur trop large.
 
 Un repère de retour peut rester utile s’il correspond à une intention réaliste et révisable. « Je te propose qu’on fasse le point après le repas » diffère de « je serai entièrement disponible demain ». Le premier donne une prochaine étape ; le second promet un état intérieur. Clara peut accepter le repère ou dire qu’elle a besoin d’un autre soutien. Le repos d’Inès ne lui impose pas d’attendre seule lorsque son propre besoin est important.
+
+Après avoir promis une soirée entière demain, Inès pourrait aussi annuler une activité personnelle pour rembourser le silence de ce soir, sans qu’elles aient choisi cet accord.
 
 ## Dire le temps dont on dispose
 

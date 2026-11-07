@@ -20,47 +20,76 @@ C’est Romain. Un prospect veut une réponse rapide pour un contrat de restaura
 En sortant du restaurant, l'air est frais et les pas résonnent sur le trottoir. La discussion avec l'associé au téléphone s'étire, il promet, il planifie, il s'engage. Dans la voiture, il regarde le message de Sofia, court et sec : « C'était notre anniversaire. Tu comptes pour la boîte, c'est certain, mais et nous ? » Karim éprouve une pointe de regret différente de celle qu'il a décrite l'autre soir dans son bureau, quand il avait reçu la vidéo de Sami. Là, il avait compris qu'il pouvait réparer certaines choses. Ce soir, il comprend autre chose : l'adrénaline du succès l'emporte encore plus souvent qu'il ne le croyait.
 
 ## Qu'est-ce que le contrôle de soi insuffisant ?
-
 Dans [le modèle de Jeffrey Young et ses collègues](https://www.guilford.com/excerpts/young.pdf?t=1), le schéma de « contrôle de soi ou autodiscipline insuffisants » décrit notamment une difficulté récurrente à supporter une frustration ou à différer une réponse. C'est une notion de thérapie des schémas, pas un diagnostic que l'on peut tirer d'un téléphone consulté à table. Les contraintes et l'organisation du travail comptent aussi.
 
 Karim reçoit des sollicitations hors de ses horaires et redoute de manquer une occasion. Ses difficultés ne prouvent pas qu'il aurait épuisé une réserve de volonté. Dans [une réplication menée dans plusieurs laboratoires](https://pubmed.ncbi.nlm.nih.gov/27474142/), l'effet attendu d'une première tâche de contrôle de soi sur une seconde n'a pas été retrouvé avec le protocole utilisé.
 
 ## Comment le contrôle de soi insuffisant se manifeste au travail
-
 ### 1. Acceptation impulsive d'opportunités sans évaluer les conséquences
-
 Karim répond oui avant d'avoir regardé son planning et vérifié ce qu'il promet. Pour une proposition non urgente, il peut accuser réception et convenir d'un moment pour répondre après avoir vérifié ses engagements.
 
-### 2. Interruption permanente du temps de récupération par des sollicitations professionnelles
+Exemples concrets :
+- Pendant le dîner d’anniversaire, Karim parle du montant du contrat avant d’en examiner les conséquences.
+- À une proposition de fournisseur non urgente, il peut annoncer une réponse le lendemain plutôt que promettre immédiatement.
 
+### 2. Interruption permanente du temps de récupération par des sollicitations professionnelles
 Quand les messages professionnels arrivent à toute heure, une limite individuelle peut être difficile à tenir. Karim peut convenir avec Romain d'horaires de réponse, d'un relais et d'un moyen de les joindre en cas d'urgence réelle.
 
-### 3. Micro-gestion et réactions émotionnelles face aux imprévus
+Exemples concrets :
+- Le téléphone reste visible sur la nappe parce qu’aucun relais clair n’a été prévu avec Romain.
+- Au petit-déjeuner, un appel ordinaire peut interrompre le temps familial si le moyen réservé aux urgences n’est pas convenu.
 
+### 3. Micro-gestion et réactions émotionnelles face aux imprévus
 Quand une livraison change, Karim reprend parfois le travail d'un collègue avant d'avoir demandé ce qu'il avait déjà prévu. Il peut commencer par clarifier qui prend la décision, quelles consignes s'appliquent et à quel moment il doit intervenir.
 
-## 3 façons d'ajuster ses habitudes et son organisation
+Exemples concrets :
+- Lors d’une livraison modifiée, Karim peut reprendre le travail sans connaître la réponse déjà prévue par le collègue.
+- Une question sur le responsable de la décision peut éviter de modifier plusieurs fois des consignes contradictoires.
 
+## 3 façons d'ajuster ses habitudes et son organisation
 ### 1. Technique de l'intervalle programmé
+Objectif : Faire une place à la vérification avant une réponse non urgente.
 
 Pour une décision qui peut attendre, donnez-vous un moment pour vérifier le calendrier, les personnes concernées et les effets d'un engagement. Le délai dépend de l'échéance ; une urgence peut demander un relais immédiat.
 
 Karim choisit de reprendre une proposition de fournisseur le lendemain matin parce que le délai le permet. Il annonce ce moment à son interlocuteur et réserve un créneau pour consulter Romain.
 
+Exercice pratique :
+- Identifier l’échéance réelle de la proposition du fournisseur.
+- Annoncer le moment de réponse possible et réserver la consultation de Romain.
+- Vérifier les engagements et les effets attendus avant de répondre au créneau convenu.
+
+Utilité possible : Le délai peut éviter un oui donné pour l’adrénaline du contrat, sans retarder une urgence qui demande un relais.
+
 ### 2. Protéger les moments hors travail
+Objectif : Protéger une disponibilité promise avec une organisation de travail.
 
 Choisissez des créneaux qui comptent pour vous et vérifiez comment le travail sera couvert pendant ces périodes. Au besoin, prévenez les collègues des horaires et du moyen de vous joindre pour une urgence.
 
 Karim convient avec Sofia de moments où il sera disponible, puis organise le relais avec Romain. Il lui revient de tenir ou de renégocier ses engagements. Les enfants n'ont pas à surveiller son téléphone ni à le récompenser.
 
+Exercice pratique :
+- Choisir avec Sofia un moment familial que Karim souhaite et peut réserver.
+- Prévoir avec Romain le relais et le moyen de signaler une urgence réelle.
+- Tenir le moment ou prévenir et renégocier si une contrainte imprévue le demande.
+
+Utilité possible : Le créneau peut devenir praticable sans faire des enfants les surveillants du téléphone ni demander une disponibilité totale au collègue.
+
 ### 3. Planification d'intentions si et alors
+Objectif : Préparer une réponse à une situation ordinaire récurrente.
 
 Les « intentions de mise en œuvre », étudiées par [Peter Gollwitzer et Veronika Brandstätter](https://www.socmot.uni-konstanz.de/publications/implementation-intentions-and-effective-goal-pursuit), associent une situation à une action prévue : « Si un appel ordinaire arrive pendant le dîner, je rappelle après. » Cet outil peut aider à s'en tenir à une intention. Il dépend des conditions de travail et n'automatise pas la réponse à toutes les situations.
 
 Karim distingue l'appel ordinaire du message urgent signalé par Romain. Pour le premier, il garde le créneau de rappel convenu. Pour le second, il vérifie si son relais peut traiter la situation.
 
-## Le téléphone au petit-déjeuner
+Exercice pratique :
+- Choisir le déclencheur précis : un appel professionnel ordinaire pendant le dîner.
+- Formuler l’action convenue : rappeler au créneau prévu après le repas.
+- Distinguer avec Romain le signal urgent et réviser la phrase si les conditions de travail changent.
 
+Utilité possible : La consigne peut soutenir une intention ; elle ne traite pas automatiquement toutes les sollicitations et n’efface pas les contraintes.
+
+## Le téléphone au petit-déjeuner
 Le dimanche suivant, lors du petit-déjeuner familial, la maison est animée. Amine et Lina discutent d'un projet scolaire, Sami finit son toast. Karim sent l'ancienne habitude surgir, l'envie de vérifier sa boîte. Il se rappelle de sa nouvelle règle et de sa phrase d'intention. Il sort son carnet, inscrit la demande et replace son téléphone dans son sac, loin de la table. Il entend le bourdonnement d'un appel, mais il tient. Il ressent une tension qui ressemble à de l'impatience, mais il ne cède pas.
 
 Cette résistance est une victoire silencieuse contre le remords moral qu'il ressentait seul dans son bureau quelques jours plus tôt. En choisissant de rester présent pour le petit-déjeuner, il ne se contente plus de constater ses absences passées, il agit sur le présent pour ne pas avoir à réparer le futur.

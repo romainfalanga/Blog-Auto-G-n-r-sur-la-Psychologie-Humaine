@@ -30,19 +30,70 @@ Pennebaker et Beall ont étudié des exercices où des participants écrivaient 
 
 Dans un essai mené chez des personnes récemment endeuillées, Stroebe et ses collègues n’ont pas trouvé d’amélioration de l’adaptation au deuil liée à la consigne d’écriture étudiée. Patrick choisit d’écrire parce qu’il en a envie et qu’il veut préparer quelques mots. Il n’en fait pas une étape nécessaire après le décès de Marcel.
 
+### Choisir un détail plutôt qu’un récit complet
+
+Patrick ne sait pas s’il veut commencer par Marcel ou par les coups. Il peut choisir quelques mots sur un objet et garder une page inachevée. La difficulté à commencer ne constitue pas une consigne de revenir à l’événement le plus pénible.
+
+**Exemples concrets**
+
+- La pince et le ruban offrent un détail qu’il souhaite garder, sans devoir écrire toute l’histoire de Marcel.
+- Laisser deux lignes vides lui permet de distinguer ce souvenir de sa peur de reprendre le tri.
+
+### Préparer un échange ne décide pas de la réponse
+
+Le carnet peut aider Patrick à préciser ce qu’il souhaite dire. Catherine conserve le choix d’écouter maintenant, plus tard ou de garder de la distance. Ce qu’il écrit pour lui ne devient pas automatiquement un texte à lui remettre.
+
+**Exemples concrets**
+
+- Il peut noter que le message pour le rendez-vous est laissé sans demander à Catherine de le rappeler à sa place.
+- La proposition de reprendre les papiers peut recevoir un « pas aujourd’hui », même si Patrick a préparé sa phrase avec soin.
+
+### L’écriture garde une limite
+
+Patrick peut fermer le carnet, écrire une liste pratique ou demander un soutien différent. Si les mots augmentent sa détresse ou l’entraînent à refaire sans fin la même phrase, il n’a pas à continuer pour réussir un exercice.
+
+**Exemples concrets**
+
+- Il s’arrête lorsqu’il réécrit la même phrase au lieu d’en faire une séance à terminer coûte que coûte.
+- Il peut noter le rappel attendu du professionnel et la tâche à proposer à Stéphanie plutôt que détailler les coups dans le garage.
+
 ## Trois façons d’utiliser son carnet
 
-### Une note sur ce qui lui manque
+### 1. Une note sur ce qui lui manque
 
-Patrick peut noter ce qui lui revient aujourd’hui, comme une scène dans l’atelier ou la façon dont Marcel rangeait ses outils. Il peut choisir un souvenir moins pénible, faire une pause ou fermer le carnet s’il se sent envahi.
+**Objectif** : Choisir librement un détail de souvenir à mettre en mots.
 
-### Quelques mots avant un échange
+**Exercice pratique**
 
-Il peut écrire ce qu’il aimerait dire à Catherine à propos des papiers, de son chagrin ou de son comportement dans le garage. Il décide de ce qu’il garde privé. Elle reste libre d’en parler plus tard ou de demander de l’espace.
+- Si vous en avez envie, choisissez une scène ou un objet que vous souhaitez évoquer aujourd’hui, comme la pince de Marcel.
+- Écrivez quelques mots sans rechercher une révélation ni revivre l’événement le plus pénible. Vous pouvez choisir un souvenir moins difficile.
+- Relisez seulement si cela vous convient, puis gardez la note, faites une pause ou fermez le carnet si vous vous sentez envahi.
 
-### Une décision concrète à retenir
+**Utilité possible** : Cette note peut conserver un souvenir choisi. Elle n’est ni une étape obligatoire du deuil ni une promesse d’aller mieux.
 
-Patrick peut noter le rendez-vous qu’il souhaite prendre ou la tâche qu’il aimerait partager. Une liste pratique lui convient aussi. Le carnet reste un support parmi d’autres, à côté de l’aide de proches ou d’un professionnel.
+### 2. Quelques mots avant un échange
+
+**Objectif** : Distinguer ce que l’on veut dire de ce que l’on garde privé.
+
+**Exercice pratique**
+
+- Notez le fait que vous souhaitez transmettre à Catherine, comme le message laissé pour demander un rendez-vous.
+- Choisissez une phrase et écartez les passages qui doivent rester privés ; le carnet n’a pas à être remis à l’autre.
+- Demandez si elle souhaite échanger et acceptez sa réponse, y compris un report ou un besoin de distance.
+
+**Utilité possible** : Préparer ses mots peut clarifier une proposition. Cela ne crée aucune obligation d’écoute ou de reprise du tri.
+
+### 3. Une décision concrète à retenir
+
+**Objectif** : Utiliser le support pour une suite ordinaire et un recours adapté.
+
+**Exercice pratique**
+
+- Écrivez la prochaine démarche qui compte, par exemple vérifier les modalités du rendez-vous demandé.
+- Séparez cette démarche de la tâche familiale que vous pourriez proposer à Stéphanie ou Catherine, en laissant leur accord ouvert.
+- Gardez la note accessible si elle vous aide, puis revenez à votre journée. Si la détresse ou la crainte d’un geste dangereux persiste, cherchez un appui professionnel sans attendre de finir d’écrire.
+
+**Utilité possible** : Une liste pratique peut suffire. Le carnet reste un support parmi d’autres, à côté des proches et des professionnels.
 
 ## Quelques lignes, puis la porte
 

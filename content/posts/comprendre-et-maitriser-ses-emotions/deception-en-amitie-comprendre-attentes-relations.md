@@ -33,13 +33,25 @@ On peut être déçu, en colère et triste à la fois. Léa espérait un moment 
 
 L'une des premières manifestations de la déception est l'apparition d'un inventaire mental. On se surprend à lister tout ce que l'on a donné, sacrifié ou toléré pour l'autre. Léa compare les efforts qu’elle a faits et ceux qu’elle croit recevoir ; ce décompte décrit sa réaction. On a l'impression que la balance est déséquilibrée. Léa, par exemple, se rappelle immédiatement la fois où elle a annulé un rendez-vous important pour consoler Zoé, et compare ce sacrifice au décalage qu’elle observe aujourd’hui. Cette sensation d'être lésée transforme la générosité passée en amertume présente.
 
+Exemples situés :
+- À la bibliothèque, Léa additionne les résumés et les heures d’écoute donnés à Zoé au lieu de regarder seulement le déjeuner annulé.
+- En relisant le message de midi, elle peut penser qu’un service rendu devait assurer sa disponibilité ; elle peut distinguer cette attente d’un accord réellement formulé.
+
 ### Le retrait émotionnel et la désidéalisation
 
 La déception agit comme un voile qui tombe. On commence à voir les défauts de l'ami que l'on ignorait ou que l'on excusait jusqu'alors. Ce processus de désidéalisation est douloureux car il oblige à redéfinir la place de l'autre dans sa vie. On peut ressentir une envie soudaine de ne plus répondre aux messages, de s'éloigner physiquement ou de devenir froid. Ce n'est pas forcément une volonté de rompre, mais une protection instinctive pour ne plus être vulnérable face à une personne qui ne répond plus à nos standards de sécurité affective.
 
+Exemples situés :
+- Léa choisit une table hors du regard de Zoé pour ne pas avoir à engager tout de suite la conversation.
+- Avant un prochain message, elle peut vouloir ne plus répondre du tout ; elle peut choisir une pause sans en faire un test destiné à faire revenir son amie.
+
 ### La remise en question de sa propre valeur
 
 Souvent, la déception en amitié se déplace vers soi-même. On se demande ce que l'on a fait de mal ou pourquoi on n'est pas assez pour mériter la vérité ou l'attention de l'autre. Léa reconnaît une peur familière de ne pas compter pour ses proches. Elle peut éprouver cela sans avoir à prouver que cette peur vient de son enfance. On finit par se reprocher d'avoir été trop naïf ou de s'être trop investi, ce qui alimente une déception envers soi-même, mélangeant ainsi la douleur de la trahison à une baisse d'estime personnelle.
+
+Exemples situés :
+- En voyant Zoé rire avec trois étudiants, Léa peut conclure qu’elle n’est pas assez intéressante, au-delà de ce que cette scène lui apprend.
+- En repensant aux services offerts, elle peut se reprocher d’avoir été naïve plutôt que nommer son souhait d’un déjeuner à deux.
 
 ## Techniques pour agir face à la déception
 
@@ -47,13 +59,36 @@ Souvent, la déception en amitié se déplace vers soi-même. On se demande ce q
 
 Dans son carnet, Léa peut noter ce qu’elle a observé, ce qu’elle espérait et ce qu’elle ignore. Elle ne connaît pas les raisons de Zoé et n’a pas à décider de la part de faute de chacune pour savoir qu’elle est déçue.
 
+Objectif : reconnaître la déception sans décider des raisons de Zoé à sa place.
+
+Exercice pratique :
+1. Notez le fait disponible : le déjeuner a été annulé et vous voyez ensuite Zoé à la bibliothèque.
+2. Ajoutez votre attente, un moment à deux, puis l’information absente sur ce qui s’est passé.
+3. Choisissez la question que vous voulez poser plus tard, ou laissez l’échange pour un autre moment.
+
+Utilité possible : Léa peut formuler ce qui lui manque sans convertir la scène en bilan de sa valeur ou de toutes les intentions de son amie.
+
 ### 2. La communication non violente par le Je
 
 Au lieu de ruminer ou de lancer des reproches qui braqueront l'autre, cette technique vise à exprimer sa déception de manière constructive. L'exercice consiste à formuler une phrase suivant cette structure : "Quand j'ai vu que tu étais à la bibliothèque alors que je pensais que tu voulais être seule, je me suis sentie déçue et confuse, car j'accorde beaucoup d'importance à notre complicité. J'aurais besoin de comprendre ce qui s'est passé." L'objectif n'est pas d'obtenir des excuses immédiates, mais de poser ses limites et de vérifier ses perceptions. Une telle phrase peut ouvrir une conversation si les deux le souhaitent.
 
+Pour l’essayer :
+1. Choisissez un moment où Zoé peut entendre la question, plutôt que l’interpeller devant tout le groupe.
+2. Décrivez le déjeuner annulé et dites que vous avez été déçue, sans affirmer connaître sa raison.
+3. Demandez ce qu’elle souhaite expliquer et si un autre moment à deux est possible, en acceptant de ne pas obtenir une réponse immédiate.
+
+Utilité possible : une demande limitée peut éclairer la situation sans imposer une excuse ou une disponibilité.
+
 ### 3. Le réajustement des attentes et la diversification
 
 Cette technique invite à ne pas placer tous ses besoins affectifs sur une seule personne. En psychologie, on parle de soutien social diversifié. L'exercice est simple : listez différents types de besoins (besoin de rire, besoin d'être écouté, besoin de travailler, besoin d'aventure) et associez-y plusieurs personnes différentes. Si Zoé est la personne avec qui Léa aime rire, elle n'est peut-être pas celle qui peut lui offrir la sécurité émotionnelle dont elle a besoin pour ses études. En acceptant que Zoé ait des limites, Léa diminue la pression qu'elle met sur cette amitié et se protège des futures déceptions en investissant dans d'autres liens, comme son bénévolat ou ses échanges avec le Dr Moreau.
+
+Pour garder cette proposition concrète :
+1. Choisissez un besoin actuel, comme travailler un cours au calme, plutôt que dresser une liste de toutes vos relations.
+2. Repérez un autre cadre que la seule disponibilité de Zoé : un groupe de révision ou un échange pédagogique avec le Dr Moreau.
+3. Faites une proposition précise si vous le souhaitez, puis voyez ce qui vous convient sans utiliser ce lien pour rendre Zoé jalouse.
+
+Utilité possible : d’autres possibilités deviennent visibles ; cela ne promet ni de prévenir toutes les déceptions ni de remplacer les personnes entre elles.
 
 ## Le déjeuner annulé
 

@@ -1,0 +1,71 @@
+{
+  "references": {
+    "apa-personnalite": {
+      "title": "American Psychiatric Association, What are Personality Disorders? — page publique adossée au DSM-5-TR, révision médicale novembre 2024",
+      "url": "https://www.psychiatry.org/patients-families/personality-disorders/what-are-personality-disorders"
+    },
+    "apa-dsm5tr-public": {
+      "title": "American Psychiatric Association, About DSM-5-TR — présentation publique du manuel et du jugement clinique",
+      "url": "https://www.psychiatry.org/psychiatrists/practice/dsm/about-dsm"
+    },
+    "medline-personnalite-evitante": {
+      "title": "MedlinePlus, National Library of Medicine, Avoidant personality disorder — révision du 20 octobre 2024",
+      "url": "https://medlineplus.gov/ency/article/000940.htm"
+    },
+    "nice-anxiete-sociale": {
+      "title": "NICE CG159, Social anxiety disorder: recognition, assessment and treatment, recommandations adultes 1.2 et 1.3",
+      "url": "https://www.nice.org.uk/Guidance/CG159/chapter/recommendations"
+    },
+    "rcpsych-anxiete-sociale": {
+      "title": "Royal College of Psychiatrists, Shyness and social phobia — information des patients et proches",
+      "url": "https://www.rcpsych.ac.uk/mental-health/mental-illnesses-and-mental-health-problems/shyness-and-social-phobia"
+    }
+  },
+  "dossier": {
+    "name": "Trouble de la personnalité évitante",
+    "aliases": [
+      "Personnalité évitante"
+    ],
+    "references": [
+      "apa-personnalite",
+      "apa-dsm5tr-public",
+      "oms-cddr",
+      "medline-personnalite-evitante",
+      "nice-anxiete-sociale",
+      "rcpsych-anxiete-sociale"
+    ],
+    "points": [
+      "Cadre documentaire : DSM5TR-AVPD est un identifiant éditorial, pas un code CIM. Le trouble de la personnalité évitante est une catégorie du DSM-5-TR. La page publique de l’APA sur les personnalités s’y réfère explicitement et décrit une crainte du rejet et de la critique, une faible estime de soi et des restrictions relationnelles ou professionnelles. La page publique About DSM-5-TR rappelle que les critères s’adressent aux professionnels exerçant leur jugement clinique. Le manuel protégé n’a pas été consulté intégralement : aucune liste, seuil ou paraphrase suivie de ses critères n’est reproduit.",
+      "L’APA et MedlinePlus situent l’évaluation dans la durée et le retentissement. Le diagnostic de Doriane est établi avant le début de la série par un professionnel de santé mentale. Il est évoqué pour comprendre des difficultés déjà évaluées dans plusieurs relations, jamais obtenu en comptant les gestes montrés. La réserve, le besoin de solitude, une peur avant une lecture ou un refus isolé ne permettent pas de conclure à un trouble. Les préférences de Doriane restent légitimes, y compris quand elle refuse une activité.",
+      "Le CDDR OMS 2024, pages imprimées 553 à 559, décrit les troubles de la personnalité selon les difficultés durables du fonctionnement de soi et des relations, leur retentissement et leur sévérité. La CIM-11 n’isole pas une catégorie évitante équivalente à la catégorie DSM-5-TR. Le clinicien évalue d’abord le trouble et sa sévérité, puis peut préciser les dimensions de traits pertinentes. Un nom DSM ne se convertit pas automatiquement en code de sévérité ou en assemblage de traits CIM. La série ne classe pas Doriane dans une sévérité CIM.",
+      "CDDR pages 559 à 561 : l’affectivité négative (6D11.0) recouvre notamment une propension aux émotions pénibles, une faible confiance en soi et des réactions aux critiques ; le détachement (6D11.1) décrit une distance interpersonnelle ou émotionnelle. Ces dimensions sont continues avec les variations ordinaires et ne constituent pas seules des diagnostics. Elles peuvent contribuer à une description clinique individualisée, mais ne sont pas des synonymes d’évitement ou de personnalité évitante. Le désir de lien de Doriane ne permet ni d’attribuer ni d’écarter une dimension à distance. Aucun équivalent automatique « évitante = affectivité négative + détachement ».",
+      "L’anxiété sociale peut concerner de nombreuses interactions et relations ; elle ne se réduit pas à une peur de parler en public. Les difficultés de Doriane se recoupent avec des mécanismes d’anxiété sociale décrits par NICE et RCPsych. Le recouvrement ne rend pas les diagnostics interchangeables ; ils peuvent coexister. La série ne pose pas un second diagnostic. Le fonctionnement durable, le vécu de soi, les liens et les autres explications sont examinés en suivi, dans leur contexte, sans dichotomie simpliste entre anxiété ponctuelle et personnalité.",
+      "L’enjeu clinique est le coût de la peur sur des choix que la personne souhaite faire. L’APA décrit des occasions relationnelles et professionnelles délaissées par crainte d’être jugée. La fiction montre un désir de participer, des ressources réelles, une lecture personnelle appréciée et un métier maîtrisé. Elle n’assimile ni introversion ni solitude choisie à une maladie, ne fait pas du contact social une obligation et ne suppose pas que toute critique serait imaginaire ou toute relation accueillante.",
+      "NICE CG159 et RCPsych décrivent, pour l’anxiété sociale, des prédictions négatives, l’attention tournée sur soi, des conduites destinées à prévenir le jugement, l’anticipation et les reprises mentales après un événement. Ces mécanismes servent ici à comprendre des situations particulières de Doriane, en complément du dossier de personnalité, sans devenir des critères spécifiques du trouble évitant. La brièveté d’un message ou un silence ne révèlent pas directement l’intention d’autrui. La répétition de demandes de réassurance est un mécanisme possible dans cette histoire, pas une caractéristique nécessaire de toutes les personnes concernées.",
+      "Les techniques proposées sont des adaptations éditoriales de principes de formulation cognitive, d’attention à la tâche, de clarification et d’essais progressifs. NICE concerne le trouble d’anxiété sociale, pas une recommandation spécifique à toute personnalité évitante. Les résultats de ce champ ne prouvent pas l’efficacité de ces trente-six exercices pour le trouble de personnalité. Leur utilité est exprimée comme possible, sans protocole standard, durée obligatoire, score, vidéo imposée ou promesse. La psychothérapeute aide Doriane à choisir et ajuster ses essais ; des cartes ou répétitions utiles peuvent être conservées. Aucun exercice ne demande de tolérer une humiliation réelle ni de dépasser ses limites pour guérir.",
+      "L’APA et MedlinePlus situent la psychothérapie parmi les soins proposés ; ses objectifs et sa forme dépendent de la personne. Une crainte du jugement peut également compliquer la demande d’aide ou l’expression d’un désaccord en séance. Le récit permet d’en parler directement au thérapeute et de discuter le cadre et la relation. Il ne présume pas que l’attitude du soignant est toujours appropriée, n’impose pas de rester avec un praticien et n’attribue pas à une amie ou collègue la conduite d’une thérapie.",
+      "L’évolution se juge sur des possibilités de vie et des difficultés encore présentes. Une nouvelle situation peut rester difficile après un essai réussi. La série résout le choix d’un livre et sa présentation lors d’une lecture de quartier à trois adultes, sans affirmer une rémission diagnostique. Le suivi continue indépendamment du calendrier du projet. Les proches peuvent proposer une aide précise et limitée, demander l’accord de Doriane, garder leurs propres limites et entendre un refus. Le diagnostic n’est partagé avec eux que si Doriane le choisit ; il n’est pas transmis à Malik ou au public."
+    ]
+  },
+  "direction": "Doriane, trente-six ans, est technicienne dans une bibliothèque. Elle aime les romans où les lieux gardent les traces des habitants et sait retrouver un livre à partir d’un souvenir de lecteur. Sa voix devient très précise à propos d’une page, plus hésitante quand elle formule une préférence devant quelqu’un. Elle souhaite choisir et partager un livre au sein des Lectures du square, projet préparé avec Élise, sa collègue, et Malik, bénévole du quartier. Anaïs est son amie de longue date. La psychothérapeute, désignée par sa fonction sans prénom inventé, suit Doriane depuis avant le premier épisode ; le diagnostic DSM-5-TR de personnalité évitante est connu. Élise connaît l’existence du suivi parce que Doriane le lui a dit, mais pas le diagnostic ; Anaïs n’en reçoit pas l’intitulé dans la série ; Malik ne sait rien des soins. Le projet s’étend sur plusieurs semaines : invitation, livre Les maisons du passage (titre fictif), table de préparation, choix d’un extrait, partage personnel, rôle de présentation, répétition, horaire, séance de suivi, débriefing d’une répétition, salle de repli puis lecture publique. Douze angles : conflit entre envie et retrait ; dévalorisation de sa préférence ; quête de certitude d’être acceptée ; interprétation du retour d’autrui ; réserve dans l’intimité ; restrictions de rôle professionnel ; attention à soi sous le regard ; coût du désaccord ; peur du jugement dans le soin ; rumination après interaction ; transfert difficile d’un essai à un autre contexte ; évolution évaluée par les choix possibles. Les objets raccords sont l’enveloppe d’inscription, le livre à couverture verte, trois onglets papier et la fiche de présentation. Ni scénario d’enfance explicatif ni guérison par une lecture réussie. Doriane finit par choisir et présenter Les maisons du passage à sa manière dans le projet commun ; elle garde le droit de refuser l’animation du prochain cycle et poursuit ses soins.",
+  "relecture": {
+    "date": "2026-11-07",
+    "sources_verifiees": "Pages publiques APA personnalité et About DSM-5-TR ouvertes ; page MedlinePlus et document RCPsych ouverts ; recommandations NICE CG159 vérifiées par extraction indexée du domaine officiel après accès direct refusé. CDDR OMS intégral local, pages imprimées 553 à 561, lu pour les modèles de personnalité et dimensions. Aucun accès prétendu au manuel DSM-5-TR intégral.",
+    "aspects_distincts": [
+      "Conflit entre envie et évitement",
+      "Dévalorisation de sa propre préférence",
+      "Besoin de certitude relationnelle",
+      "Interprétation personnelle d’un retour",
+      "Réserve dans une relation proche",
+      "Restriction des possibilités de participation",
+      "Attention centrée sur ses signes d’anxiété",
+      "Inhibition du désaccord relationnel",
+      "Crainte du jugement dans le soin",
+      "Rumination après une interaction",
+      "Fragilité du transfert entre situations",
+      "Évolution des possibilités de choix"
+    ],
+    "raccords": "Les douze ouvertures, fins et conseils aux proches ont été relus dans l’ordre. Invitation puis choix du livre, constitution du groupe, coupe, confidence, rôle, répétition, horaire, soin, bilan de répétition, salle de repli et lecture finale. Le récit referme la visite du matin, le choix de seize heures, les trois textes et le maintien du suivi. La première confusion sur le troisième livre d’Élise et la répétition littérale des introductions dans l’analyse ont été corrigées.",
+    "limites": "Une fiction parmi d’autres. Pas de liste de critères, d’autodiagnostic, de correspondance DSM-CIM automatique, d’attribution d’une sévérité ou d’un trait CIM à Doriane. Les mécanismes issus de l’anxiété sociale sont signalés comme tels. Une fiche, un relais, un refus ou la solitude choisie ne sont pas traités en soi comme des problèmes. Aucun proche ne conduit de thérapie ; le diagnostic reste privé et une issue publique favorable ne clôt pas le soin."
+  }
+}

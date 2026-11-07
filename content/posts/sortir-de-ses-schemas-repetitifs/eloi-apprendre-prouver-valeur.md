@@ -39,11 +39,15 @@ Le cadre doit être cohérent avec cette intention. Si la séance annoncée comm
 
 Il n'a pas à chercher systématiquement l'exercice le plus difficile. Un défi mal calibré pourrait le mettre en échec sans information utile. Le choix pertinent dépend de son niveau et de l'appui disponible. Il peut demander une étape intermédiaire. Cette décision ressemble moins à une preuve de courage qu'à une organisation du travail : choisir une difficulté précise, avec les moyens de l'examiner et une suite possible.
 
+En cuisine, Éloi pourrait de même demander à refaire uniquement le lot déjà validé pour éviter de montrer une étape encore lente. La fiche familière au centre et le lot connu au restaurant peuvent tous deux servir à consolider un acquis. Ils laissent cependant le besoin suivant de côté si leur seule fonction devient de donner une bonne image de lui.
+
 ### Cacher une question pour préserver une place
 
 Pendant une explication, Éloi comprend le début et perd un lien dans la suite. Il pourrait le signaler. Il préfère attendre, espérant retrouver seul ce qui manque. Cette stratégie protège brièvement son image, mais rend la fin de l'explication plus opaque. Il doit ensuite travailler avec une méthode incomplète. L'effort supplémentaire devient invisible, et la question initiale se transforme en confusion plus large.
 
 Il peut reconnaître que demander comporte un risque relationnel. Un interlocuteur peut répondre trop vite ou de manière désagréable. Il ne suffit pas de lui dire de ne pas avoir peur. Le cadre doit prévoir des moments de clarification et un traitement respectueux des difficultés. Dans une entreprise industrielle, Amy Edmondson observe un lien entre la possibilité perçue de prendre des risques relationnels et des comportements d'apprentissage en équipe. Au centre de formation, la manière dont les questions sont reçues peut aider Éloi à trouver le bon moment pour demander une explication.
+
+Devant Cédric, la même réserve pourrait l’amener à dire qu’il a compris une démonstration alors qu’il ne repère pas le moment du contrôle. Au centre, il manque un lien dans une explication ; en cuisine, un détail dans un geste. Ces questions différentes peuvent être reportées à un temps adapté, mais faire semblant de les avoir résolues n’ajoute pas l’information manquante.
 
 ### Le résultat efface les informations du parcours
 

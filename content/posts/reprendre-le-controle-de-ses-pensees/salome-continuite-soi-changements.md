@@ -39,17 +39,32 @@ Salomé utilise aujourd’hui une autre façon de préparer certaines tâches. E
 
 Cette nuance vaut aussi pour sa manière de se présenter. Elle peut modifier une biographie ou préciser une limite sans considérer que tout ce qu’elle dit avant est faux. Elle peut également reconnaître un mot qui ne lui convient plus. Le changement n’exige pas une défense de toutes les versions antérieures. Il permet de garder une relation à elles, avec des accords, des désaccords et la liberté de ne pas tout expliquer publiquement.
 
+Deux exemples dans cette situation :
+
+- Devant les anciennes annotations serrées, Salomé résume son apprentissage à des erreurs alors qu’elle reconnaît le geste qu’elle cherchait.
+- Une biographie modifiée lui paraît démentir tous ses anciens textes, même lorsqu’elle précise simplement ce qui lui convient aujourd’hui.
+
 ### Chercher une cohérence que l’on devrait prouver aux autres
 
 Depuis le portrait de l’atelier, Salomé imagine parfois des questions sur les différences entre ses anciens textes et sa présentation actuelle. Elle voudrait disposer d’une explication sans faille. Pourtant, un texte public ne donne pas accès à toutes les raisons d’une évolution. Elle peut corriger les informations utiles sans construire une chronologie complète de son identité. La cohérence pratique ne nécessite pas une biographie ouverte à l’examen de chaque lecteur.
 
 Elle peut aussi dire qu’elle ne sait pas encore comment raconter un changement. Cette incertitude ne rend pas sa préférence actuelle moins valable. Les mots utilisés aujourd’hui suffisent pour demander une adresse respectueuse maintenant. Il serait injuste d’exiger un récit continu et démonstratif pour valider un choix présent. Salomé peut chercher du sens pour elle sans transformer cette recherche en dossier destiné à convaincre un public.
 
+Deux exemples dans cette situation :
+
+- Elle imagine un lecteur comparant deux portraits et commence à rédiger une explication de chaque changement.
+- Au moment de demander le féminin sur une fiche, elle pourrait ajouter une chronologie intime qui n’est pas nécessaire à cet usage présent.
+
 ### Confondre la mémoire et l’obligation de tout garder
 
 La caisse contient des documents utiles, des doublons et des traces qu’elle aime revoir. Si elle garde tout pour préserver son histoire, l’espace de travail devient moins accessible. Si elle jette tout pour montrer qu’elle avance, elle perd peut-être des éléments qu’elle souhaite conserver. Les deux règles globales empêchent un tri adapté. L’usage des objets et leur valeur personnelle peuvent être examinés séparément, pièce par pièce ou par petits ensembles.
 
 Salomé n’a pas besoin de prendre toutes les décisions le même jour. Un rangement provisoire peut être une solution choisie, pas un échec à accepter le changement. Elle peut aussi demander de l’aide pour déplacer les cartons sans ouvrir leur contenu aux commentaires. Préserver un lien au passé ne signifie pas accepter une visite guidée de toutes ses archives par les personnes présentes dans son atelier.
+
+Deux exemples dans cette situation :
+
+- Gaspard demande où placer la caisse ; Salomé entend presque qu’elle doit décider maintenant si son passé mérite d’être conservé.
+- Elle hésite à recycler des doublons parce qu’un document jeté lui semble devenir une expérience annulée.
 
 ## Trois techniques pour se relier à son histoire sans la figer
 
@@ -61,6 +76,12 @@ Elle laisse aussi une différence sans l’expliquer : elle apprécie désormais
 
 Pour essayer, prenez quelques événements ordinaires plutôt que chercher les moments les plus importants de votre vie. Décrivez ce qui se passe, les possibilités disponibles et ce qui change. Vous pouvez constater une continuité, une rupture ou un mélange. Évitez de forcer une conclusion positive. Si certains souvenirs deviennent trop difficiles à explorer, interrompez l’exercice et cherchez un soutien adapté plutôt que de poursuivre pour obtenir une histoire complète.
 
+Pour passer à une action limitée :
+
+1. Choisissez deux ou trois scènes ordinaires dont un croquis ancien et un travail présent.
+2. Décrivez pour chacune l’action, les moyens et ce qui compte alors.
+3. Notez un lien et une différence, ou laissez une question ouverte ; cessez si ce retour devient trop difficile.
+
 ### 2. Relier une valeur à plusieurs façons de la vivre
 
 La précision compte pour Salomé, mais ne prend pas toujours la même forme. Dans ses premiers croquis, elle copie beaucoup de repères. Aujourd’hui, elle sait mieux lesquels sont nécessaires pour une tâche. Dans ses échanges, la précision consiste parfois à demander une adresse au féminin ou à nommer une limite. Elle voit un lien entre ces actions sans en conclure que son métier explique son identité ou que son identité explique son métier.
@@ -69,6 +90,12 @@ Elle choisit une autre valeur, la liberté, et observe qu’elle peut demander d
 
 Vous pouvez retenir une valeur réellement importante et chercher deux actions différentes qui la servent. L’exercice n’exige pas que tous vos choix passés y correspondent. Il peut révéler un écart ou une tension. Vous pouvez alors choisir un petit ajustement actuel, sans réécrire le passé pour le rendre exemplaire. La continuité peut aussi se construire dans la manière dont on répond aujourd’hui à ce que l’on ne souhaite plus répéter.
 
+Pour passer à une action limitée :
+
+1. Retenez une valeur qui compte aujourd’hui, comme la précision.
+2. Repérez deux manières différentes de la vivre, sans relier de force métier et identité.
+3. Choisissez un petit ajustement actuel, même si certains choix passés ne correspondent pas à cette valeur.
+
 ### 3. Choisir ce que l’on garde, transforme ou laisse partir
 
 Salomé distingue trois décisions matérielles. Elle garde un croquis qui lui plaît, photographie un ensemble utile avant de libérer le carton et recycle des doublons sans valeur particulière pour elle. Elle ne décide pas selon une règle de courage ou de nostalgie. Elle regarde l’usage, l’espace et l’attachement réel. Une image numérique n’est pas toujours un remplacement satisfaisant ; ici, elle convient pour certains documents seulement.
@@ -76,6 +103,12 @@ Salomé distingue trois décisions matérielles. Elle garde un croquis qui lui p
 Elle prépare aussi une phrase pour les changements visibles : « Ma façon de présenter mon travail évolue. Les informations actuelles sont celles de cette fiche. » Elle peut préciser davantage si elle le veut, sans ouvrir ses archives. Les éléments publics utiles sont mis à jour ; le reste garde sa place personnelle. Cette distinction protège la continuité pratique sans transformer le passé en contenu disponible sur demande.
 
 Après le tri, elle laisse une petite zone pour les décisions reportées. Ce choix évite d’utiliser la fatigue de la journée pour se débarrasser de ce qu’elle pourrait regretter. Elle prévoit de revoir la caisse à un moment choisi. Pour adapter cette piste, gardez une échelle raisonnable : quelques objets, un texte ou un engagement. La continuité de soi ne se règle pas en une séance et n’exige pas une transformation complète du logement ou de l’identité publique.
+
+Pour passer à une action limitée :
+
+1. Examinez un petit ensemble de documents selon son usage et votre attachement.
+2. Décidez lesquels garder, transformer ou laisser partir, en réservant une place aux hésitations.
+3. Fixez un moment pour revoir les décisions reportées et gardez les archives privées que vous ne souhaitez pas montrer.
 
 ## Trois croquis sur l’établi
 

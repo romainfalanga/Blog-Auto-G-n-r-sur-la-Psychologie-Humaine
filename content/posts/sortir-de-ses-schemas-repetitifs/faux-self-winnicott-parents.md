@@ -30,38 +30,72 @@ Mei emprunte cette image pour parler du décalage entre ce qu’elle dit au dîn
 ### 1. Conformité performative : agir selon les attentes
 Le faux self s'exprime souvent par une soumission apparente. Pour Mei, cela se traduit par des réponses automatiques et des signes d'acquiescement qui évitent le conflit. Elle accepte de parler de médecine, donne des détails flous sur ses études sans mentionner son travail d'illustratrice, et choisit des mots qui apaisent ses interlocuteurs. C'est une stratégie de survie relationnelle. Par exemple, quand Wei lui demande si elle avance dans son cursus, Mei répond "Ça va" plutôt que d'évoquer son projet de série d'illustrations, car elle anticipe une déception et cherche à écourter l'échange.
 
+Deux exemples dans cet épisode :
+
+- Wei évoque la médecine et Mei répond qu’elle va voir alors qu’elle était en train de raconter le vernissage.
+- Elle prend le ticket pour la cuisine et laisse de côté l’explication qu’elle souhaitait donner sur les mains dessinées.
+
 ### 2. Perfectionnisme comme camouflage : l'identité irréprochable
 Un autre aspect du faux self est la recherche de perfection. Pour que son identité artistique soit tolérée, Mei s'impose de produire des œuvres sans défaut. Le perfectionnisme devient un outil de contrôle sur la perception de ses parents. Au lieu de montrer des ébauches, elle les cache dans son carnet. Elle peut retoucher pendant des semaines un dessin qu'elle apprécie, non pas pour s'améliorer, mais pour éviter tout jugement si l'œuvre semble trop personnelle. Ce besoin de perfection masque sa vulnérabilité et retarde le moment où elle pourrait être vue pour ce qu'elle est vraiment.
+
+Deux exemples dans cet épisode :
+
+- Elle pourrait recadrer plusieurs fois la photo pour cacher toute zone qu’elle imagine critiquable avant de l’envoyer à Li.
+- Un dessin encore en recherche peut rester dans son carton parce qu’elle voudrait montrer seulement une réalisation à laquelle aucun reproche ne serait possible.
 
 ### 3. Communication indirecte et retrait émotionnel
 Le faux self se manifeste également par une distance dans les échanges. Mei privilégie souvent l'écrit ou les messages brefs plutôt qu'une discussion directe. Avec Li et Wei, elle préfère envoyer des photos de ses croquis plutôt que d'en parler de vive voix, ce qui lui permet de filtrer les réactions. Parfois, après un repas tendu, elle laisse un carnet ouvert derrière le comptoir du restaurant, espérant qu'un dessin attire un regard positif sans qu'elle ait besoin de justifier ses choix de vie.
 
+Deux exemples dans cet épisode :
+
+- Dans la réserve, elle répond par un pouce à la photo d’Océane alors qu’elle aurait envie de parler de son travail.
+- Après le service, elle choisit une image recadrée pour Li ; cette possibilité de partage n’oblige pas à ouvrir ensuite une conversation avec Wei.
+
 ## 3 techniques pour apprivoiser le faux self (Winnicott) face à ses parents
 ### 1. Le journal à deux voix
 Le carnet peut aider à distinguer ce que Mei dit de ce qu’elle éprouve.
-Chaque soir, Mei prend quelques minutes dans sa chambre et divise une page en deux colonnes. À gauche, elle note les phrases "officielles" dites à ses parents ("Oui, je travaille dur", "C'est une bonne idée"). À droite, elle inscrit ce qu'elle ressentait à ce moment-là ("J'aimerais qu'ils voient mes dessins", "J'ai peur de les décevoir"). Cet exercice permet d'externaliser le faux self et de clarifier ses aspirations réelles. C'est une extension de la méthode qu'elle a apprise pour nommer ses émotions lors de ses crises d'embarras : mettre des mots précis sur le décalage entre son intérieur et son extérieur.
+Chaque soir, Mei prend quelques minutes dans sa chambre et divise une page en deux colonnes. À gauche, elle note les phrases "officielles" dites à ses parents ("Oui, je travaille dur", "C'est une bonne idée"). À droite, elle inscrit ce qu'elle ressentait à ce moment-là ("J'aimerais qu'ils voient mes dessins", "J'ai peur de les décevoir"). Cette page met côte à côte les paroles et les souhaits que Mei choisit de noter, sans matérialiser deux identités. C'est une extension de la méthode qu'elle a apprise pour nommer ses émotions lors de ses crises d'embarras : mettre des mots précis sur le décalage entre son intérieur et son extérieur.
 
-Application pratique : ranger le carnet dans son sac après chaque repas de famille. Relire les colonnes pour repérer les thèmes qui reviennent. Après deux semaines, identifier trois phrases du faux self qu'il est possible de nuancer lors d'un prochain échange.
+Elle peut garder la note à l’abri des regards et la relire si elle le souhaite, sans suivi à chaque repas ni échéance obligatoire.
+
+Objectif de cet essai : Distinguer ses mots dans l’échange et ce qu’on aurait voulu dire.
+
+1. Reprenez un échange ordinaire, comme la question de Wei sur la médecine.
+2. Notez ce que vous avez dit et, séparément, ce que vous souhaitiez exprimer ou garder privé.
+3. Conservez une formulation que vous aimeriez utiliser ou laissez la note privée ; aucun délai de changement n’est nécessaire.
+
+Utilité possible : La note rend visible un décalage sans établir un mécanisme inconscient ni classer les phrases comme vraies ou fausses identités.
 
 ### 2. Choisir ce que l’on veut partager
-L'objectif est de réduire l'évitement et l'appréhension du jugement en montrant progressivement sa vraie personnalité.
-Mei choisit une œuvre qu'elle juge peu risquée et en montre un extrait à ses parents, par étapes.
-- Première étape : envoyer une photo d'un détail technique (une texture, un trait) avec un commentaire descriptif.
-- Deuxième étape : montrer une planche complète par message avec une brève explication sur sa démarche.
-- Troisième étape : expliquer de vive voix une intention derrière l'œuvre si le contexte s'y prête.
-Chaque étape est calibrée pour que l'anxiété reste gérable.
+L’objectif est de choisir ce que l’on veut rendre accessible. Un détail technique, une planche complète ou une explication orale sont des options distinctes ; elles ne forment pas une progression à accomplir. Mei peut choisir la photo recadrée pour Li et ne rien montrer d’autre.
 
 Aucune note d’inquiétude ne décide de ce qu’il faut montrer. Mei peut choisir de ne pas parler de ses dessins ou d’en parler à quelqu’un d’autre. En cas de crainte de sanction ou de rejet qui la mettrait en difficulté, elle peut chercher un appui avant de décider.
+
+Objectif de cet essai : Choisir un contenu et un destinataire sans progression imposée.
+
+1. Choisissez si vous souhaitez partager quelque chose et avec qui, en tenant compte des conditions réelles.
+2. Décidez d’un contenu qui vous convient, comme une photo recadrée, sans le considérer comme une première étape obligatoire.
+3. Transmettez-le seulement si vous le voulez et gardez l’initiative de la suite, même si l’autre demande davantage.
+
+Utilité possible : Le choix porte sur un accès à votre travail, sans objectif de révéler progressivement toute votre personnalité.
 
 ### 3. Le rituel de présentation en "trois faits"
 L'objectif est de structurer la parole pour réduire la charge émotionnelle.
 Mei prépare une présentation concise de son travail qu'elle peut utiliser quand le sujet est abordé. Le format repose sur trois faits simples :
-1) "Je suis en troisième année d'illustration dans telle école."
+1) « J’étudie l’illustration en école d’art. »
 2) "Ma série actuelle explore les émotions à travers des silhouettes à l'encre."
-3) "J'expose une planche la semaine prochaine."
+3) « Cette planche a été présentée au vernissage. »
 Ces points offrent une base stable, sans être dans la provocation ni dans la défense. Si la réaction est froide, ces faits restent neutres ; si elle est positive, ils ouvrent la voie à un dialogue plus profond.
 
-Application pratique : répéter ces phrases seule, puis devant des amis, jusqu'à ce qu'elles deviennent naturelles. Utiliser ce script pour remplacer les réponses automatiques habituelles.
+Mei peut relire la phrase si cela lui sert, sans devoir s’entraîner devant des amis ni remplacer toutes ses réponses par un script.
+
+Objectif de cet essai : Préparer une présentation factuelle brève de son travail.
+
+1. Choisissez trois informations actuelles et exactes sur vos études ou votre planche.
+2. Mettez-les dans une phrase courte que vous êtes libre de relire ou de modifier.
+3. Utilisez seulement la partie utile dans l’échange souhaité, sans répéter devant d’autres jusqu’à paraître naturelle.
+
+Utilité possible : Les faits donnent un contenu disponible sans réduire nécessairement l’émotion ni garantir la réaction parentale.
 
 ## La photo recadrée
 

@@ -31,27 +31,62 @@ Djamila reconnaît dans son histoire avec Samir l’alternance entre les insulte
 
 Amina lui propose des vacances sans lui demander de contrepartie. Djamila se surprend à trouver ce calme presque ennuyeux. Elle peut prendre ce sentiment au sérieux et envisager plusieurs explications : un rythme nouveau, peu d’envie de voyager, ou simplement une journée de fatigue. Rien ne l’oblige à accepter.
 
+Exemples situés :
+
+- Une invitation sans contrepartie annoncée paraît inhabituelle à Djamila après les accalmies vécues avec Samir.
+- Elle peut hésiter devant deux jours de voyage simplement parce qu’elle préfère une sortie plus courte ou du repos.
+
 ### 2. Elle se demande quelle place elle occupe
 
 Djamila a souvent l’impression qu’elle doit être indispensable pour garder une relation. Elle essaie d’imaginer comment elle pourrait passer un bon moment avec Amina sans organiser tout le séjour ni résoudre un problème pour elle.
+
+Exemples situés :
+
+- Djamila imagine organiser tout le séjour pour être suffisamment utile à Amina.
+- Elle peut se demander si une journée à marcher ensemble aurait une place même si elle n’a aucun problème à résoudre pour son amie.
 
 ### 3. Elle hésite à accueillir l’invitation
 
 Djamila se demande si elle devra rendre service à Amina en retour. Elle peut regarder comment son amie réagit quand elle demande du temps ou quand elle refuse une proposition. Les comportements répétés renseignent davantage qu’un seul geste aimable.
 
+Exemples situés :
+
+- Elle se demande ce qu’il faudra rendre après le week-end, bien qu’aucune attente n’ait été annoncée.
+- Elle peut proposer de rentrer le soir et attendre la réponse réelle, sans en faire une preuve définitive sur toute l’amitié.
+
 ## Trois pistes pour faire un choix en amitié
+
+Les propositions suivantes restent facultatives ; elles portent sur des choix actuels et ne demandent pas de revisiter seul une violence.
 
 ### 1. Se donner du temps
 
-Djamila peut se demander de quoi elle a envie aujourd’hui : un café, une journée à la mer, un week-end ou du repos chez elle. Aucun choix ne dit si elle est guérie ni si son amitié est saine.
+Objectif : Choisir le format d’une sortie en fonction de l’envie et des conditions présentes.
+
+1. Relire la proposition d’Amina et identifier ce qui attire Djamila ou la retient.
+2. Vérifier les contraintes concrètes, notamment Adam et le retour, sans transformer une hésitation en signe de guérison insuffisante.
+3. Choisir de demander du temps, de refuser ou de proposer une journée, sans décider maintenant de tous les voyages futurs.
+
+Utilité possible : Une option plus courte peut rendre le choix plus praticable. Elle ne prouve pas qu’une amitié est saine et aucun voyage n’est une étape obligatoire de reconstruction.
 
 ### 2. Remarquer les gestes et le respect des limites
 
-Elle peut noter qu’Amina écoute ses préférences et ne lui en veut pas de refuser. Elle peut aussi garder en tête un geste qui l’a mise mal à l’aise. Le but est de considérer les deux, sans chercher uniquement des preuves de bienveillance ou de danger.
+Objectif : Observer la relation sans chercher exclusivement des signes rassurants ou menaçants.
+
+1. Choisir un comportement réellement connu, comme la manière dont une préférence a été accueillie.
+2. Garder aussi un geste qui a déplu et distinguer ce fait d’une intention supposée.
+3. S’appuyer sur les comportements répétés pour préciser une limite ou demander un appui, sans tester l’autre avec une confidence.
+
+Utilité possible : Cette observation peut éclairer un choix présent. Un seul geste agréable ne compense pas des menaces et une hésitation ne diagnostique pas un lien traumatique.
 
 ### 3. Parler de ses préférences si elle le souhaite
 
-Djamila peut dire : « Merci, j’ai envie de te voir, mais j’aimerais d’abord qu’on en parle. » Elle n’a aucune obligation de raconter ses violences passées pour poser une limite. Si l’autre menace, isole ou cherche à contrôler, il est légitime de demander du soutien sans tester sa réaction par une confidence.
+Objectif : Formuler une proposition à Amina sans devoir justifier son passé.
+
+1. Préparer une phrase sur l’envie de se voir et le format souhaité : une journée avec retour le soir.
+2. L’envoyer ou la dire si Djamila le choisit, sans raconter les violences pour obtenir le droit de poser cette limite.
+3. Attendre la réponse et décider de la suite selon l’accord possible ; en cas de menaces ou de contrôle, chercher du soutien plutôt que multiplier les essais de confidence.
+
+Utilité possible : Une proposition claire peut ouvrir une discussion. La réaction d’Amina lui appartient et Djamila conserve le droit de revoir son choix.
 
 ## Une invitation qu’elle peut modifier
 

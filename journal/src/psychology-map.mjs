@@ -1,4 +1,5 @@
 import { PSYCHOLOGY_CATALOG } from './psychology-catalog.generated.mjs';
+import {hasReviewedStoryLinks} from './recommendations.mjs';
 export { PSYCHOLOGY_CATALOG };
 const patterns=new Map(PSYCHOLOGY_CATALOG.patterns.map(p=>[p.id,p]));
 const PERSONAL={profile:['self_description','self_perception','recurring_patterns','emotions','current_context'],like:['reason','differences'],person:['relationship_text'],event:['description','meaning_now'],feedback:['feelings','why','differences','correction','preference','avoid'],memory:['text']};
@@ -43,7 +44,7 @@ export function validatePsychologicalMap(value,sources,citations,invalid=message
 }
 const norm=s=>String(s||'').normalize('NFD').replace(/[\u0300-\u036f]/g,'').toLowerCase();
 const words=s=>new Set(norm(s).match(/[a-z]{4,}/g)||[]);
-function relatedArticles(pattern,examples){const keys=words([pattern.label,...pattern.keywords].join(' '));return examples.map(e=>{const text=words([e.title,e.sujet,e.canonical_concept,...(e.keywords||[])].join(' '));const reviewed=e.pattern_source==='editorial_pack_v10_reviewed_story'&&Array.isArray(e.pattern_ids)&&e.pattern_ids.includes(pattern.id);return {e,reviewed,n:[...keys].filter(k=>text.has(k)).length}}).filter(x=>x.reviewed||x.n>0).sort((a,b)=>Number(b.reviewed)-Number(a.reviewed)||b.n-a.n||a.e.id.localeCompare(b.e.id)).slice(0,3).map(({e})=>({id:e.id,title:e.title,url:e.url,character:e.character}));}
+function relatedArticles(pattern,examples){const keys=words([pattern.label,...pattern.keywords].join(' '));return examples.map(e=>{const text=words([e.title,e.sujet,e.canonical_concept,...(e.keywords||[])].join(' '));const reviewed=hasReviewedStoryLinks(e)&&e.pattern_ids.includes(pattern.id);return {e,reviewed,n:[...keys].filter(k=>text.has(k)).length}}).filter(x=>x.reviewed||x.n>0).sort((a,b)=>Number(b.reviewed)-Number(a.reviewed)||b.n-a.n||a.e.id.localeCompare(b.e.id)).slice(0,3).map(({e})=>({id:e.id,title:e.title,url:e.url,character:e.character}));}
 export function buildPsychologyMap(context,examples=[]){
  const portrait=context.portrait,allowed=new Map((context.sources||[]).map(s=>[s.id,s]));
  let active=[];

@@ -1,0 +1,77 @@
+{
+  "references": {
+    "pnds-tourette-2022": {
+      "title": "Centre de référence Syndrome Gilles de la Tourette, PNDS, juin 2022, hébergé par la HAS",
+      "url": "https://www.has-sante.fr/upload/docs/application/pdf/2022-06/texte_pnds_sgt_2022.pdf"
+    },
+    "has-statut-pnds-tourette": {
+      "title": "HAS, présentation et statut du PNDS Syndrome Gilles de la Tourette, 27 juillet 2022",
+      "url": "https://www.has-sante.fr/jcms/p_3346137/fr/syndrome-gilles-de-la-tourette"
+    },
+    "aan-tics-2019": {
+      "title": "American Academy of Neurology, Practice guideline: treatment of tics in people with Tourette syndrome and chronic tic disorders, 2019",
+      "url": "https://www.aan.com/Guidelines/Home/GetGuidelineContent/964"
+    },
+    "essts-evaluation-2022": {
+      "title": "ESSTS, European clinical guidelines for Tourette syndrome and other tic disorders, version 2.0, Part I: assessment, 2022",
+      "url": "https://link.springer.com/article/10.1007/s00787-021-01842-2"
+    }
+  },
+  "dossier": {
+    "name": "Syndrome de la Tourette",
+    "aliases": [
+      "Syndrome Gilles de la Tourette",
+      "Tics moteurs et phoniques"
+    ],
+    "references": [
+      "oms-cddr",
+      "pnds-tourette-2022",
+      "has-statut-pnds-tourette",
+      "aan-tics-2019",
+      "essts-evaluation-2022"
+    ],
+    "points": [
+      "OMS, CDDR, code 8A05.00, p.154–157 (pages imprimées), vérifié dans le texte local. Les tics sont des mouvements ou vocalisations soudains, rapides, récurrents, non rythmiques. Le syndrome associe des tics moteurs et phoniques au cours de son histoire, sans exiger leur présence simultanée ou continue. Leur histoire développementale et les autres causes possibles relèvent de l’évaluation clinique ; le récit ne fournit pas de grille diagnostique. Le diagnostic d’Anatole est établi avant le premier épisode.",
+      "OMS, p.154–155 : les tics peuvent fluctuer en nature et en intensité ; stress et contexte peuvent les modifier, et une activité agréable et concentrée peut les diminuer. Ces possibilités ne prédisent pas chaque situation. Une répétition réussie ou un moment sans tic visible ne prouve pas que la personne commande ses tics. L’évolution moyenne pendant l’adolescence ne promet pas leur disparition chez un adulte donné.",
+      "OMS, p.155, et ESSTS, rubriques Characteristics of tics et Clinical interview : les sensations prémonitoires, la conscience des tics et la possibilité de les retenir diffèrent selon les personnes et les tics. Anatole décrit une traction avant certains mouvements du cou, sans sensation identifiable avant chaque clignement. Aucun exercice de déclenchement, reproduction ou endurance ne doit servir à prouver cette expérience.",
+      "PNDS 2022, §3.1, p.7 : la suppression temporaire peut demander un effort mental important. ESSTS, Characteristics of tics : la tension et la suppression varient. Le récit montre le coût rapporté par Anatole sans affirmer un rebond systématique ni prescrire de retenir ou de libérer les tics à une heure donnée.",
+      "OMS, p.154 : la suggestibilité peut faire réapparaître des tics quand on les évoque. Le texte ne présente pas ce phénomène comme contagion ni comme réaction universelle. On peut interrompre une description trop détaillée, demander l’accord avant de discuter des symptômes et revenir au sujet choisi.",
+      "OMS, p.156–157 : les stéréotypies et les compulsions peuvent ressembler à certains tics. Les stéréotypies sont souvent plus prolongées et rythmiques ; leur contexte et leur histoire comptent. Les compulsions peuvent viser à neutraliser une pensée ou prévenir une conséquence redoutée ; distinguer un tic complexe d’une compulsion peut être difficile. Un geste volontaire, un mouvement isolé ou une vérification nécessaire ne permettent aucune conclusion. Aucun TOC, autisme ou trouble des mouvements stéréotypés n’est attribué à Anatole ou à un visiteur. ESSTS, Tic-related phenomena : une sensation de geste « pas juste » et certains comportements complexes se situent à une frontière difficile ; l’absence d’une peur formulée ne suffit pas à identifier un tic plutôt qu’une compulsion.",
+      "OMS, p.155 : la coprolalie est une manifestation minoritaire, non nécessaire au syndrome. Anatole n’en présente pas dans ce récit. Un tic phonique n’est pas une insulte volontaire ; une insulte ne devient pas un tic parce qu’une personne a un diagnostic. La série ne donne pas à entendre de propos obscènes et ne les utilise pas comme attraction.",
+      "OMS, p.157, et ESSTS, Clinical interview : la répétition de certains tics peut avoir un retentissement physique, dont des douleurs. Une douleur nouvelle n’est pas attribuée automatiquement au syndrome. Anatole sollicite son médecin traitant, puis informe sa neurologue de cette évaluation ; aucune manipulation ni stratégie corporelle n’est prescrite.",
+      "AAN 2019, recommandations 1–2 et 6–7 : le retentissement, les préférences et les difficultés associées orientent une décision de soins partagée ; les traitements ne suppriment généralement pas tous les tics. Le programme comportemental CBIT est structuré et accompagné par un professionnel formé. Il n’est pas reproduit dans les exercices éditoriaux. Le rendez-vous d’information choisi par Anatole n’engage ni un traitement ni un résultat.",
+      "PNDS 2022, §6 : l’accompagnement du travail peut nécessiter des adaptations. Les accords du musée sont ici des choix d’organisation réversibles, discutés avec Anatole : fiche, temps entre groupes, relais consenti et diffusion choisie des informations. Ils ne constituent ni une prescription de soin ni une règle juridique. La page HAS précise que le PNDS a été élaboré par le centre de référence selon sa méthodologie, sans validation ni participation de la HAS.",
+      "Les scènes et les techniques sont des propositions de communication et d’organisation inventées pour ce personnage. Elles ne permettent pas d’identifier un syndrome chez soi ou un tiers, n’entraînent pas à supprimer les tics et ne promettent pas de les diminuer. Le ressenti de fatigue, le choix de divulgation et les réactions des visiteurs sont situés dans la fiction, non généralisés à toutes les personnes concernées."
+    ]
+  },
+  "direction": "Anatole a 29 ans et travaille comme médiateur scientifique dans un musée des techniques. Il veut concevoir avec Salomé, sa collègue, un parcours où les visiteurs essaient une maquette manuelle d’engrenages puis posent leurs questions. La maquette, conçue pour les ateliers, se tourne lentement à la main ; les mécanismes de collection restent en vitrine. Anatole aime les comparaisons simples et les questions imprévues, préfère les essais aux discours de lancement et possède de l’humour sans faire des tics un numéro. Elias, son ami illustrateur, lui donne un avis sur les dessins et garde avec lui des projets extérieurs au musée. La docteure Lenoir, neurologue, suit un syndrome diagnostiqué depuis l’enfance ; le médecin traitant évalue une douleur nouvelle. Salomé peut se tromper et ne devient jamais thérapeute. Trajectoire sur six semaines : distinction moteurs/phoniques, coût de la suppression, fluctuations, sensations prémonitoires variables, suggestibilité, concentration agréable, différence avec stéréotypies et gestes volontaires, frontière avec compulsions, douleur et avis médical, stigmatisation/coprolalie/divulgation, décision de soin partagée, bilan du parcours accessible. Aucun entraînement à imiter ou retenir les tics, pas de démonstration de symptôme, de délai de guérison, de médicament nommé ou de posologie. À chaque épisode, une décision précise modifie la préparation : prototype, relais, marge, mots choisis, limites de questions, fiche, vocabulaire, vérification commune, mobilier, consigne publique, rendez-vous, cadence définitive. La fin ouvre effectivement le parcours au public avec les rôles et deux dates confirmés, tout en laissant le suivi et l’évolution des symptômes ouverts.",
+  "verification": {
+    "date": "2026-11-07",
+    "sources_consultees": [
+      "CDDR OMS local : section 8A05.00, pages imprimées 154–157 et frontière des mouvements stéréotypés p.152.",
+      "PNDS juin 2022 : §3.1, §3.4–3.5, §4.3, §5–6 ; page HAS de présentation pour son statut.",
+      "AAN 2019 : retentissement, choix partagés, attentes et recommandations sur les approches comportementales, dont 7a–7c.",
+      "ESSTS version 2.0, évaluation : Characteristics of tics, Tic-related phenomena, Stereotypies, Clinical interview."
+    ],
+    "limites": "Les propositions de communication et de travail sont des adaptations de fiction, non des protocoles thérapeutiques. Le récit ne prétend pas à une présentation universelle du syndrome."
+  },
+  "relecture": {
+    "format": 2,
+    "ouvertures_et_fins": "Les douze ouvertures, dénouements, conclusions et miroirs ont été relus dans l’ordre. Douze aspects distincts ; les décisions réapparaissent ensuite ; ouverture de six visiteurs effectivement réalisée et deux dates ultérieures confirmées.",
+    "controle_clinique": "Distinction moteurs/phoniques, suppression temporaire coûteuse sans rebond systématique, variations, sensations variables, suggestibilité non universelle, concentration sans garantie, frontières stéréotypies/compulsions sans test, douleur nouvelle évaluée, coprolalie minoritaire et droit aux adaptations, décision de soin partagée.",
+    "corrections": [
+      "Ouverture 1 reformulée comme dessin puis manipulation de cartons pour éviter de prêter au prototype non construit un mouvement déjà réel.",
+      "Épisode 3 : suppression d’une mention inutile du suivi et correction de « son son » ; maintien du contraste entre répétitions sans attribuer une cause certaine.",
+      "Épisode 10 : retour aux familles et à l’atelier plutôt qu’à un scénario abstrait ; ajout explicite du respect dû aux personnes qui présentent une coprolalie.",
+      "Dossier : précision sur les vécus de geste « pas juste » afin que l’absence d’une peur formulée ne serve pas de règle de diagnostic différentiel."
+    ],
+    "proches": "Douze miroirs relus face à leur scène : gestes et paroles concrets, accord de partage, rôle limité, disponibilité personnelle ; aucun proche ne teste, n’imite, n’immobilise ni ne prescrit.",
+    "lecons_reutilisables": [
+      "Un moment sans tic visible ne mesure ni le confort ni le coût de la suppression.",
+      "Une amélioration pendant une activité appréciée ne doit pas devenir un objectif exigé de cette activité.",
+      "Pour distinguer des gestes répétés, conserver la complexité clinique et travailler les besoins concrets au lieu de distribuer des étiquettes.",
+      "Une correction du préjugé de coprolalie doit préserver explicitement le respect des personnes qui en présentent."
+    ],
+    "gel": "Relecture terminée ; fichiers remis pour intégration par le coordinateur. Aucune publication ni inscription dans les fichiers partagés."
+  }
+}

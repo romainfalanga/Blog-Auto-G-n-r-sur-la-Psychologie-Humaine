@@ -22,45 +22,74 @@ La veille, Sofia lui a demandé s’ils pouvaient regarder les prochaines dépen
 Karim ouvre le tiroir près de la caisse. Le dossier de Marseille est là, avec l’enveloppe de la réservation. Il le trouve en moins d’une minute. Il referme le tiroir et reprend le téléphone.
 
 ## Définition des prophéties autoréalisatrices
-
 Dans le sens proposé par [le sociologue Robert K. Merton](https://www.jstor.org/stable/4609265), une prophétie autoréalisatrice commence par une définition fausse de la situation. Cette définition suscite des actes qui contribuent à rendre l'issue attendue plus plausible ou réelle. Une prédiction qui se vérifie pour des raisons indépendantes ne suffit pas à illustrer le mécanisme.
 
 Karim s'attend à ce que Romain rejette son idée, alors il lui présente le projet sans lui montrer tous les chiffres. Faute d'informations, Romain a davantage de raisons d'émettre des réserves. Cela pourrait conforter l'attente de Karim, même si les réserves peuvent aussi être justifiées par les chiffres.
 
 ## Manifestations du concept face à une décision importante
-
 Karim peut distinguer ce qu'il prévoit, ce qu'il fait en réponse à cette prévision et les réactions qu'il observe.
 
 ### Réagir à une opposition encore incertaine
-
 Si Karim prête à Romain un refus avant qu'il ait répondu, il peut écourter l'échange ou omettre des informations. Cela réduit leurs chances de clarifier le désaccord. Romain reste libre de refuser pour ses propres raisons.
 
-### Distinguer l'attente et les causes indépendantes
+Exemples concrets :
+- Karim affiche le numéro de Romain puis raccroche avant d’entendre sa réaction.
+- Il invoque le dossier à retrouver alors que les papiers de Marseille sont dans le tiroir près de lui.
 
+### Distinguer l'attente et les causes indépendantes
 Écarter des chiffres défavorables parce qu'on prévoit un succès peut relever du biais d'optimisme. Pour parler ici de prophétie autoréalisatrice, il faudrait montrer que l'attente a modifié des actes qui ont contribué à produire l'issue attendue. Les prix, le nombre de clients et les conditions du bail peuvent aussi peser sans dépendre de l'attente de Karim.
 
-### La création de tensions par l'anticipation négative
+Exemples concrets :
+- Une échéance défavorable du bail pourrait produire un problème même si Karim parle ouvertement à Romain.
+- À l’inverse, ne pas transmettre les chiffres parce qu’il prévoit un rejet peut priver leur discussion d’informations utiles.
 
+### La création de tensions par l'anticipation négative
 Si Karim ouvre la discussion en accusant Romain de ne jamais le soutenir, il lui sera plus difficile de savoir si la réponse vise son projet ou le ton de l'échange. Poser la question sur le projet donne une autre occasion de comprendre la réponse ; cela ne garantit pas l'accord.
 
-## Techniques pour agir face aux prophéties autoréalisatrices
+Exemples concrets :
+- En accusant d’avance Romain de ne jamais le soutenir, Karim risquerait d’obtenir une réponse sur le ton de l’échange.
+- En demandant les réserves sur Marseille, il peut entendre un refus motivé sans le confondre avec le rejet de toute sa personne.
 
+## Techniques pour agir face aux prophéties autoréalisatrices
 Les exercices suivants aident à distinguer une prévision, un geste que l'on peut choisir et une réaction qui appartient à l'autre.
 
 ### 1. Vérifier ce qui soutient une attente
+Objectif : Vérifier une attente sans écarter les risques réels.
 
 Notez ce que vous attendez, les faits qui rendent cette attente plausible et ceux qui restent à vérifier. Si votre inquiétude repose sur un risque réel, tenez-en compte. Karim peut demander à Romain quel aspect du projet suscite sa réserve plutôt que lui attribuer une intention.
 
+Exercice pratique :
+- Écrire la réaction que Karim attend de Romain.
+- Séparer les paroles déjà reçues des intentions qu’il lui attribue encore.
+- Poser une question sur la réserve précise et tenir compte des faits qui soutiennent une inquiétude.
+
+Utilité possible : La vérification peut clarifier le désaccord sans demander de se convaincre qu’une relation est forcément accueillante.
+
 ### 2. Le journal des attentes et des résultats
+Objectif : Conserver plusieurs éléments du déroulement d’un échange.
 
 Après un échange, vous pouvez noter ce que vous prévoyiez, ce que vous avez dit, ce que l'autre a dit et ce qui pourrait expliquer la différence. Un seul échange ne suffit pas à établir que votre comportement a causé l'issue.
 
+Exercice pratique :
+- Après l’appel, noter ce que Karim attendait avant de composer le numéro.
+- Écrire ce qu’il a réellement transmis et ce que Romain a répondu.
+- Ajouter les autres explications possibles de la différence, sans attribuer une cause certaine à un seul échange.
+
+Utilité possible : La trace peut éviter de retenir seulement la réaction qui confirme l’attente et garde les causalités ouvertes.
+
 ### 3. La reformulation des intentions relationnelles
+Objectif : Choisir un geste de communication qui dépend de soi.
 
 Choisissez une action qui dépend de vous : partager les chiffres à l'avance, poser une question ou laisser l'autre finir. La réponse de l'autre et le résultat de la décision restent ouverts.
 
-## Karim rappelle son associé
+Exercice pratique :
+- Retrouver les conditions de réservation et préparer leur transmission.
+- Appeler Romain puis envoyer les documents demandés avant de repousser encore.
+- Laisser Romain exprimer ses réserves et convenir de la prochaine démarche sans exiger son accord sur le projet.
 
+Utilité possible : Le geste peut donner des éléments à l’autre pour répondre ; il ne garantit ni la réponse souhaitée ni la résolution du dossier.
+
+## Karim rappelle son associé
 Assis dans son bureau dont les murs sont couverts de photos de ses trois enfants, Karim regarde son téléphone sans le toucher. Il se souvient de la console de jeux qu'il avait offerte à Lina pour compenser son absence, réalisant maintenant que ce geste n'était qu'une brique de plus dans la prophétie de son propre échec en tant que père. Il comprend que s'il continue à agir comme un homme qui doit tout acheter pour être aimé, il finira par ne plus être aimé que pour ses achats. Cette prise de conscience marque un tournant : il ne veut plus que son escalade d'engagement dans des projets risqués serve de rempart à son incapacité à affronter la réalité de ses relations.
 
 Karim finit par appeler Romain. « Je ne sais pas comment on sort de Marseille. Et je t’ai laissé te débrouiller avec ça. » Romain ne lui épargne pas sa colère. Il lui demande de lui renvoyer les conditions de la réservation pour qu’ils reprennent le dossier ensemble. Karim le fait devant lui, au téléphone, avant d’être tenté de repousser encore.

@@ -39,17 +39,32 @@ Salomé voit dans son atelier les hésitations, les essais et les traces tempora
 
 Elle peut corriger l’unité de comparaison. Une réparation en cours se compare à des exigences propres à cette étape, pas à une image finale choisie pour communiquer. Un espace partagé comporte aussi des contraintes différentes d’une pièce réservée à la prise de vue. Reconnaître ces éléments ne garantit pas que tout soit bien organisé chez elle. Cela permet de chercher un problème réel sans utiliser une image comme verdict sur toute l’activité.
 
+Deux exemples dans cette situation :
+
+- Salomé regarde les protections et notes d’une réparation inachevée puis les compare à l’instrument terminé de la photographie.
+- En cadrant sa propre image, elle voit les objets qu’elle a déplacés hors champ et comprend que le cadrage ne représente pas une journée entière.
+
 ### Déduire l’atelier entier de ce qui entre dans le cadre
 
 La photographie montre des outils alignés et aucun document. Salomé imagine que l’ensemble de l’atelier reste ainsi toute la journée. Elle attribue au hors-champ les mêmes caractéristiques que la partie visible. Cette supposition peut être exacte ou non ; elle n’est pas vérifiable depuis l’image. La prudence consiste à garder l’inconnu, sans remplacer l’idéalisation par la conviction que tout serait une mise en scène trompeuse.
 
 Elle remarque aussi qu’une autre publication du même atelier montre une équipe lors d’une présentation. Cette information modifie la comparaison : certaines tâches peuvent être réparties. Salomé et Gaspard partagent un lieu, mais n’emploient pas une équipe de communication. Les conditions réelles ne justifient pas de renoncer à toute amélioration. Elles aident à choisir une action proportionnée, comme dégager un coin pour photographier, plutôt que refaire l’atelier entier.
 
+Deux exemples dans cette situation :
+
+- À partir du seul mur clair, elle suppose que tous les espaces de l’autre atelier sont toujours aussi dégagés.
+- La photographie d’équipe vue ensuite lui fait remarquer qu’elle ignorait qui préparait les images et avec quels moyens.
+
 ### Chercher une validation globale dans une réaction particulière
 
 La question d’Étienne arrive au moment où Salomé doute déjà. Elle l’entend à travers le jugement qu’elle se porte. Si elle ne vérifie pas, elle pourrait acheter une machine ou défendre son matériel pour répondre à une critique inexistante. Une information utile devient accessible lorsqu’elle demande : « Vous cherchez à savoir à quoi cela sert ? » Étienne confirme. Le sens de l’échange se précise sans qu’elle ait à lui demander de garantir sa valeur professionnelle.
 
 Un client peut réellement formuler une critique, et celle-ci mérite alors d’être examinée dans son contenu. Une insatisfaction sur un délai n’est pas une preuve sur toutes les compétences techniques. Un retour positif n’est pas non plus une garantie de perfection. Salomé travaille déjà cette nuance après un rendez-vous déplacé. Elle peut la reprendre ici pour donner à chaque information une portée adaptée, au lieu de chercher un verdict unique sur elle-même.
+
+Deux exemples dans cette situation :
+
+- Quand Étienne demande à quoi sert la machine photographiée, elle se prépare à défendre son équipement avant qu’il ait formulé une critique.
+- Après un retour sur un réglage à revoir, elle pourrait invalider toute sa pratique alors que le client décrit un point précis.
 
 ## Trois techniques pour retrouver des critères professionnels réels
 
@@ -61,6 +76,12 @@ Elle cherche ensuite une question d’apprentissage limitée. Comment rendre lis
 
 Pour essayer, évitez de remplir les inconnues par des hypothèses favorables ou défavorables. « Je ne sais pas » est une réponse utile. Choisissez ensuite un élément pertinent pour votre travail et vos moyens présents. Si la consultation ne fournit plus aucune idée concrète et nourrit seulement une dévalorisation générale, vous pouvez l’arrêter. Ce choix porte sur l’usage du moment, sans obligation de quitter tous les réseaux ni de déclarer leurs contenus inutiles.
 
+Pour passer à une action limitée :
+
+1. Décrivez une publication : étape du travail, zone visible et résultat montré.
+2. Notez les conditions inconnues sans leur inventer une explication.
+3. Choisissez une seule question d’apprentissage pertinente pour votre réparation ou votre photographie.
+
 ### 2. Évaluer une tâche avec des critères observables
 
 Pour le réglage d’Étienne, Salomé revient aux demandes convenues et aux vérifications nécessaires dans sa pratique. Elle examine ce qui est réalisé, ce qui doit encore être contrôlé et ce qu’elle ne peut pas conclure seule. Elle échange avec le client sur son expérience de l’instrument. Cette évaluation ne dépend pas du nombre de personnes qui apprécient la page de l’atelier. Elle porte sur une tâche et sur les informations disponibles pour la juger.
@@ -69,6 +90,12 @@ Elle garde aussi les difficultés d’organisation : le coin photographique manq
 
 Dans votre contexte, vous pouvez définir quelques critères liés au résultat, au processus et aux engagements pris. Ils doivent correspondre au travail réel et pouvoir être discutés avec une personne pertinente. Si vous manquez de repères, demander une supervision, une formation ou un avis professionnel peut être adapté. Une évaluation nuancée admet les compétences présentes et les apprentissages nécessaires, sans faire dépendre votre dignité de l’absence d’écart.
 
+Pour passer à une action limitée :
+
+1. Reprenez les demandes convenues pour l’instrument d’Étienne.
+2. Distinguez les vérifications réalisées, celles encore nécessaires et le retour à demander au client.
+3. Choisissez un ajustement précis à examiner, avec un avis de métier si nécessaire, sans attribuer une note globale à votre personne.
+
 ### 3. Donner une fonction et une fin à la consultation
 
 Salomé revient en ligne avec une intention écrite : trouver deux idées de cadrage pour présenter une réparation. Elle enregistre ce qui l’aide, puis arrête la consultation lorsque la question est traitée. La limite ne repose pas sur un temps universellement bon pour toutes les personnes. Elle dépend du but. Si elle se met à comparer les ateliers entiers, elle peut revenir à son intention ou choisir de fermer la page.
@@ -76,6 +103,12 @@ Salomé revient en ligne avec une intention écrite : trouver deux idées de cad
 Elle prépare ensuite une photographie qui montre ce qu’elle veut expliquer, avec les traces du travail lorsqu’elles sont pertinentes. Elle ne cherche pas à produire une image volontairement négligée pour prouver son authenticité. Une présentation soignée peut être sincère. Elle veut simplement savoir ce qu’elle sélectionne et ne pas confondre ce choix de communication avec la totalité de l’atelier. Elle peut appliquer le même discernement aux images des autres.
 
 Après quelques essais, elle évalue l’usage : la consultation lui apporte-t-elle des idées, des informations ou surtout un jugement répété sur elle-même ? Les réponses peuvent varier selon les jours et les comptes. Elle peut ajuster ce qu’elle regarde, demander des explications à un pair ou revenir à des échanges plus détaillés. Le but est une source d’apprentissage praticable, pas une discipline parfaite face à toutes les images qui circulent.
+
+Pour passer à une action limitée :
+
+1. Écrivez la question qui justifie l’ouverture du fil, par exemple le cadrage d’une zone du bois.
+2. Retenez les idées utiles et fermez la consultation quand cette question est traitée ou qu’elle ne vous aide plus.
+3. Essayez un cadrage avec vos moyens puis jugez son utilité pour montrer le travail.
 
 ## Le réglage qu’Étienne veut reprendre
 

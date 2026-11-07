@@ -43,6 +43,8 @@ Une course, une sortie ou un échange peuvent apporter un appui, mais leur inté
 
 Odile répond souvent que tout va bien parce qu’elle ne souhaite pas transformer chaque rencontre en conversation sur le décès. Ce choix de confidentialité peut lui convenir. Il devient plus coûteux lorsqu’elle se sent obligée de maintenir la même humeur pendant toute une sortie. Elle n’a alors plus de mots pour demander quelques minutes seule ou changer un horaire. Expliquer une variation ne nécessite pas de tout raconter : elle peut dire qu’un souvenir l’a touchée et qu’elle préfère poursuivre plus doucement. Son interlocutrice dispose d’une indication concrète, sans devenir responsable de son état émotionnel.
 
+Dans le bus, Odile peut vouloir parler moins sans souhaiter rentrer ; au guichet, elle peut être gênée qu’une connaissance conclue de son sourire qu’elle a « retrouvé le moral ». Ces deux moments demandent des précisions différentes : ce qu’elle souhaite pendant le trajet, puis la portée limitée d’une impression extérieure. Elle reste libre de ne pas donner d’explication détaillée.
+
 ## Laisser de la place à la suite de la journée
 
 ### 1. Remplacer le verdict par une observation située

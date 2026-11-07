@@ -33,13 +33,28 @@ Le biais d'autorité face à l'autorité s'immisce dans les interactions profess
 
 La manifestation la plus fréquente est l'effacement de son propre jugement face à un titre prestigieux. Lorsqu'un expert reconnu s'exprime, le cerveau active un raccourci cognitif : si cette personne est diplômée ou haut placée, elle a forcément raison. Cela conduit à accepter des directives parfois inadaptées sans oser poser de questions par crainte de paraître incompétent. Priya observe cela chez certains confrères qui appliquent des protocoles sans les questionner, simplement parce qu'ils émanent d'une instance supérieure.
 
-### La réactance défensive face à l'autorité perçue comme illégitime
+Deux exemples dans cet épisode :
 
-Le ton d’Antoine agace Priya. Elle peut demander si la consigne relève de son domaine de compétence et sur quoi elle repose. Elle peut aussi vérifier ce qui est obligatoire et ce qui est une recommandation.
+- Priya reconnaît le nom admiré par Raj avant de lire le titre et copie une suggestion après quelques lignes.
+- Elle s’apprête à fermer le document avant qu’un mot lui rappelle qu’il concerne une autre situation que celle du patient.
+
+### Donner un poids différent à deux documents selon leur auteur
+
+Priya compare la lenteur avec laquelle elle a traité le courrier de l’Ordre et la rapidité de sa première lecture de la recommandation. Le contraste l’invite à regarder ce que le contenu justifie réellement. Le rejet par irritation reste distinct du biais d’autorité, comme l’indique la définition ; il mérite lui aussi des vérifications de domaine et de portée.
+
+Deux exemples dans cet épisode :
+
+- Elle a passé plusieurs jours sur la lettre de l’Ordre mais quelques secondes sur la recommandation signée du professeur.
+- Le prestige familier peut rendre une ligne facile à retenir tandis qu’une consigne au ton agaçant demande un examen distinct de son statut et de son contenu.
 
 ### La quête de validation par les pairs supérieurs
 
 Une autre manifestation réside dans le surinvestissement pour plaire à la hiérarchie. On ne travaille plus pour le sens de la tâche, mais pour obtenir un hochement de tête approbateur de celui qu'on admire. Priya a longtemps cherché cette validation auprès de son père Raj. Dans son cabinet aujourd'hui, cela se traduit par une quête de perfectionnisme épuisante, où chaque dossier doit être irréprochable au cas où un organisme de contrôle viendrait à l'examiner, transformant le soin en une épreuve de jugement permanent.
+
+Deux exemples dans cet épisode :
+
+- Elle peut chercher dans la signature du professeur une approbation imaginée de son choix avant de vérifier l’applicabilité.
+- La pensée d’un dossier irréprochable aux yeux d’un contrôle peut détourner sa préparation de la question réellement posée par la consultation.
 
 ## Techniques pour reprendre le pouvoir
 
@@ -49,13 +64,37 @@ Pour sortir de l'emprise de ce biais, il est nécessaire de réapprendre à diss
 
 Lire une phrase sans penser à son auteur peut aider à examiner son contenu. Dans une décision de soin, il faut ensuite vérifier la source, le niveau de preuve et l’applicabilité au patient ; anonymiser la directive ne permet pas de choisir le traitement.
 
+Objectif de cet essai : Lire la proposition puis vérifier sa source et sa portée clinique.
+
+1. Résumez ce que la phrase propose sans utiliser le nom du professeur comme argument.
+2. Vérifiez la source, les éléments de preuve et la situation visée dans le cadre de votre pratique.
+3. Distinguez ce qui est applicable, ce qui ne l’est pas et ce qui demande un avis complémentaire avant toute décision de soin.
+
+Utilité possible : La lecture limite la place d’une impression de prestige sans anonymiser la source pour choisir un soin.
+
 ### 2. Le questionnement socratique sur la légitimité
 
 Il s'agit de déconstruire ses propres critères d'autorité par une série de questions ciblées. Face à un sentiment de mépris ou de soumission, il est utile de se demander sur quel domaine précis cette personne est experte. Son autorité s'applique-t-elle réellement à la situation présente ? Quels sont les faits concrets qui soutiennent sa position ? Pour Priya, cela signifie reconnaître qu'Antoine, même s'il n'est pas médecin, peut avoir une expertise réelle sur la logistique des transmissions, et que le professeur d'université peut donner de bons conseils sans pour autant diriger sa vie.
 
+Objectif de cet essai : Examiner le domaine d’autorité et la nature de la consigne.
+
+1. Nommez le sujet exact : recommandation clinique ou logiciel du cabinet.
+2. Vérifiez le domaine de compétence de l’émetteur et si le texte est obligatoire, recommandé ou à préciser.
+3. Posez la question correspondante par un canal adapté sans accepter ni rejeter le contenu sur le seul statut.
+
+Utilité possible : Les questions clarifient ce que l’autorité couvre sans rendre son statut suffisant pour conclure.
+
 ### 3. Demander un second regard
 
-Visualiser une scène de tension avec l'autorité comme si un témoin extérieur était présent permet de mieux comprendre la situation. Observez la dynamique entre les deux personnes. Au lieu de se sentir attaquée ou écrasée, il convient d'analyser les rôles sociaux qui se jouent. Priya peut utiliser cette technique lorsqu'elle se sent irritée par un courrier officiel. En se plaçant comme observatrice externe, elle réalise que l'administration fait simplement son travail de régulation et qu'elle-même joue le rôle de la résistante. Cette mise à distance émotionnelle permet de répondre de façon calme et factuelle plutôt que de réagir avec le mépris qui l'isolait autrefois.
+Priya peut demander à une personne compétente de relire le point incertain avec elle. Elle ne doit pas décider d’avance que l’administration agit sans problème ou qu’elle-même résiste à tort. L’avis recherché porte sur le texte, sa portée et les informations nécessaires pour répondre.
+
+Objectif de cet essai : Demander un regard pertinent sans conclure d’avance à la bonne intention d’une institution.
+
+1. Choisissez le point incertain et la personne compétente pour un second regard.
+2. Transmettez seulement les informations nécessaires dans le cadre professionnel approprié, en respectant la confidentialité.
+3. Comparez les éléments reçus et gardez séparées les décisions de soin, de logiciel et d’association avec Marc.
+
+Utilité possible : L’avis peut éclairer un point sans garantir le calme, la confiance ou l’absence de problème institutionnel.
 
 ## Deux lignes à garder
 

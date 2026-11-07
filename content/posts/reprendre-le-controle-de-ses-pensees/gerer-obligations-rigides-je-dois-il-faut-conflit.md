@@ -32,22 +32,49 @@ Dans le modèle d’Ellis, certaines exigences absolues peuvent contribuer à la
 ### 1. L'exigence de perfection relationnelle
 En situation de conflit, la personne qui cherche à plaire à tout le monde s'impose souvent l'idée qu'il ne doit jamais y avoir de désaccord. Fabien pense ainsi qu'il doit être capable de résoudre toutes les tensions familiales sans que personne ne soit mécontent. Cette obligation rigide transforme le moindre débat en un échec personnel. Au lieu d'écouter le besoin de Lucas, il s'épuise à essayer de rétablir une harmonie parfaite qui n'existe que dans ses manuels de procédure.
 
+**Deux exemples dans la cuisine :** Fabien se répète qu’il doit rester parfaitement calme avant même d’avoir lu les horaires. Il veut trouver une date qui satisfasse tout le monde immédiatement, alors que deux disponibilités restent incompatibles.
+
 ### 2. La tyrannie de la réciprocité imposée
 Une autre manifestation fréquente est l'idée que les autres doivent agir selon nos propres codes de conduite. Fabien estime qu'il faut que Lucas soit reconnaissant des efforts qu'il fait pour aménager ce nouvel appartement. Lorsque son fils se montre distant, le conflit explose non pas à cause de l'acte lui-même, mais à cause du décalage entre la règle rigide de Fabien et la réalité de l'adolescence. On attend des autres une perfection qu'ils n'ont jamais promis d'atteindre.
+
+**Deux situations à distinguer :** il pourrait considérer que l’appartement aménagé lui donne droit à une réponse reconnaissante de Lucas. Il pourrait lire le sac posé brusquement comme la preuve d’un manque de respect, avant de demander ce que son fils voulait dire. Une règle réelle sur le rangement peut être discutée sans exiger une émotion en retour.
 
 ### 3. L'inhibition de ses propres besoins
 Pour celui qui veut satisfaire tout le monde, l'injonction de faire passer les autres en priorité est une règle absolue. En plein conflit avec Véronique ou ses enfants, Fabien s'interdit d'exprimer sa fatigue ou son agacement. Il s'oblige à rester ce cadre RH posé et analytique, même quand il bout intérieurement. Cette rigidité émotionnelle finit par créer un mur, empêchant toute véritable résolution du conflit car ses propres besoins sont systématiquement étouffés sous le poids du devoir de force.
 
+**Deux exemples :** Fabien ne dit pas qu’il lui manque les informations du match avant de répondre à Véronique. Il évite de demander un délai de réflexion pour rester le médiateur qui règle tout. Une demande de temps peut coexister avec sa responsabilité d’organiser les vacances.
+
 ## 3 techniques pour agir face aux obligations rigides
 
 ### 1. La substitution sémantique par le désir
-Cette technique consiste à remplacer les termes de contrainte par des termes de préférence ou de souhait. Au lieu de se dire je dois calmer Lucas, Fabien peut s'entraîner à formuler intérieurement : j'aimerais que la discussion soit apaisée, mais si ce n'est pas le cas, je saurai le gérer. L'exercice consiste à noter sur un carnet trois phrases de type il faut qui ont surgi durant la journée et à les réécrire en commençant par je préférerais ou il serait souhaitable que. Cela permet de transformer une règle contraignante en un objectif flexible, réduisant la charge émotionnelle associée.
+
+**Objectif :** Assouplir une exigence de résultat en conservant les obligations réelles.
+
+1. Écrire une phrase précise : « Il faut que personne ne soit mécontent des vacances ».
+2. Distinguer le respect des engagements et de la sécurité, qui demeurent nécessaires, du souhait que tout le monde approuve.
+3. Préparer une version praticable : « Je souhaite trouver une date ; je peux d’abord vérifier les horaires et tolérer un désaccord ».
+
+Cette reformulation peut clarifier ce qu’il vise. Changer un mot ne garantit pas le calme ni la résolution du planning.
 
 ### 2. Le test de réalité par l'analyse des conséquences
-Face à une obligation rigide, il est utile de questionner la validité de la loi que l'on s'impose. Si Fabien se dit je dois plaire à tout le monde dans cette pièce, il peut se demander qui a écrit cette règle et ce qu'il se passera réellement s'il ne la respecte pas. L'exercice pratique consiste à imaginer le scénario redouté si l'obligation n'est pas remplie, puis à évaluer objectivement sa capacité à y faire face. Souvent, on réalise que le drame anticipé est plusieurs issues sont plausibles. Si la conséquence redoutée est réaliste, par exemple une sanction ou des représailles, la priorité est de chercher des appuis plutôt que de la minimiser.
+
+**Objectif :** Examiner ce qui arriverait s’il ne répondait pas tout de suite.
+
+1. Choisir une prédiction concrète, telle que « Si je demande à vérifier, la discussion sera impossible ».
+2. Relever les informations disponibles et celles qui manquent, notamment l’horaire déjà envoyé par Lucas.
+3. Décider d’une suite adaptée, comme annoncer à Véronique quand il pourra répondre, sans minimiser un risque réel.
+
+L’examen peut distinguer une anticipation d’une contrainte confirmée. Une menace ou des représailles demandent des appuis, pas une réassurance forcée.
 
 ### 3. La technique du camembert des responsabilités
-En situation de conflit, les obligations rigides nous poussent souvent à porter l'intégralité de la responsabilité de l'issue de l'échange. Pour contrer cela, on dessine un cercle représentant la situation globale. Fabien peut alors attribuer des parts de ce cercle à différents facteurs : son attitude, l’horaire qui vient de changer, le désaccord exprimé par Lucas et les éléments qui restent à clarifier. En visualisant que sa part de responsabilité n'est qu'une fraction du tout, il se libère de l'injonction de tout régler seul et accepte que certains éléments lui échappent.
+
+**Objectif :** Répartir les tâches du planning sans reporter le conflit des adultes sur Lucas.
+
+1. Lister les éléments de la situation : dates proposées, informations manquantes et ton employé dans la cuisine.
+2. Distinguer ce que Fabien peut réparer ou vérifier, ce qui se discute avec Véronique et ce que Lucas peut seulement préciser sur ses horaires.
+3. Choisir une action de sa part, comme reconnaître son ton, puis reprendre l’organisation directement avec Véronique.
+
+Le dessin peut aider à séparer les contributions sans attribuer des pourcentages de faute. Lucas n’a pas à résoudre le désaccord entre ses parents.
 
 ## Il reste deux dates sur la table
 

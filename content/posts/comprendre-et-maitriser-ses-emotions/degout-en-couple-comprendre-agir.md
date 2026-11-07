@@ -31,25 +31,55 @@ Le mépris implique un jugement de supériorité envers une autre personne ; il 
 
 ## Comment le dégoût en couple se manifeste-t-il au quotidien ?
 
-### 1. L'hypersensibilité aux habitudes physiques
-Lorsque le dégoût s'installe, les aspects sensoriels du partenaire deviennent des agressions. Cela peut être le bruit de sa respiration, son odeur corporelle pourtant familière, ou ses manières de table comme Margot l'expérimente ce soir. Ce qui était autrefois perçu comme une simple habitude ou un trait de caractère sans importance devient un déclencheur de rejet viscéral. Pour Margot, le bruit des couverts devient si envahissant qu’elle a envie de quitter la table.
+### 1. Une gêne sensorielle prend toute la place
 
-### 2. Le retrait de l'intimité et de la tendresse
-On peut avoir envie de reculer devant un contact ou de demander de l’espace, et chacun a le droit de refuser un baiser ou une caresse sans devoir expliquer son ressenti.
+À table, Margot remarque surtout ce qu’elle supporte mal. Une sensation désagréable peut occuper son attention sans lui fournir une explication complète sur Philippe ou sur leur relation. Elle peut reconnaître cette gêne et s’écarter ; elle n’a pas à rester au contact pour vérifier si son émotion est fondée.
 
-### 3. La dépréciation morale et le jugement permanent
-Margot remarque que sa répulsion sensorielle s’accompagne parfois d’un jugement sur Philippe. Les deux ne se confondent pas. On commence à juger les valeurs du partenaire, son manque d'ambition, sa paresse ou sa façon de gérer les problèmes comme étant inférieurs ou dégradants. Dans le cas de Margot, sa reconversion exigeante et sa quête de sens font que le comportement plus pantouflard de Philippe lui semble soudainement médiocre. Ce décalage crée une hiérarchie dans le couple où celui qui ressent le dégoût se sent moralement supérieur, ce qui érode les fondements de l'égalité et du respect mutuel. Margot réalise que son driver fais des efforts la pousse à mépriser ceux qui, à ses yeux, semblent se laisser porter par le courant.
+Le frottement du couteau sur la faïence lui donne envie de quitter la table. Le bruit de la mastication l’incite ensuite à imaginer une place à l’autre bout de la pièce. Ce sont deux éléments précis du dîner, pas deux preuves que toute présence de Philippe serait devenue insupportable.
+
+### 2. La recherche d’espace peut rester difficile à dire
+
+Le mouvement de recul et la demande formulée ne sont pas la même chose. Margot sait qu’elle veut de la distance maintenant, mais hésite sur les mots et sur le temps dont elle a besoin. Elle peut refuser un contact ou demander une place différente sans devoir fournir une théorie de son ressenti.
+
+Elle se lève avec son verre au lieu d’annoncer qu’elle souhaite interrompre le repas. Si Philippe proposait un geste tendre alors qu’elle veut encore rester seule, elle pourrait dire qu’elle ne le souhaite pas à cet instant. Le premier départ laisse Philippe interpréter ; la seconde réponse hypothétique lui donnerait une limite explicite, sans promesse pour plus tard.
+
+### 3. Le jugement sur l’autre dépasse la sensation
+
+Margot risque de transformer « ce bruit me gêne » en « tu es insupportable ». Le jugement porte alors sur Philippe tout entier. Le distinguer de la répulsion ne l’oblige ni à trouver la situation agréable ni à effacer un désaccord réel sur leurs soirées.
+
+Le bruit du repas pourrait lui faire conclure qu’il ne fait aucun effort. Son souvenir des soirées passées chacun de leur côté pourrait lui faire dire qu’ils ne se parlent plus, alors qu’elle se rappelle leur échange sur Martin la veille. Ces deux conclusions trop larges masqueraient ce qu’elle souhaite précisément aborder aujourd’hui.
 
 ## 3 techniques pour agir concrètement face au dégoût en couple
 
-### 1. La technique de l'observation phénoménologique
-Cette méthode consiste à observer la sensation de dégoût comme un phénomène extérieur sans porter de jugement moral sur soi ou sur l'autre. Lorsque la sensation de rejet monte, installez-vous confortablement dans une pièce calme et décrivez précisément ce qui se passe dans votre corps : une tension dans la mâchoire, une lourdeur dans l'estomac, ou une envie de reculer. L'exercice consiste à noter ces faits sur un carnet pendant dix minutes, en utilisant des phrases commençant par "je remarque que". Margot peut essayer de distinguer la sensation, la situation et ce qu’elle en déduit, sans se donner pour objectif d’effacer la sensation.
+### 1. Observer une situation sans lui demander un verdict
 
-### 2. La réévaluation cognitive par le biais de la gratitude
-Si Margot en a envie, elle peut noter un souvenir agréable pour compléter le récit qu’elle se fait de sa relation. Un bon souvenir ne change rien à son droit de refuser un contact ou de poser une limite aujourd’hui.
+L’objectif est de séparer ce que Margot éprouve de ce qu’elle en déduit, à partir du seul dîner.
 
-### 3. La communication des limites territoriales
-Si la discussion peut se faire en sécurité, Margot peut demander un moment de tranquillité qui lui convient. Si vous subissez des menaces, des violences ou des pressions sexuelles, [chercher du soutien et vous mettre en sécurité](https://www.service-public.gouv.fr/particuliers/vosdroits/F12544) passe avant la discussion de couple.
+1. Une fois à distance si elle le souhaite, noter le moment précis : couteau sur l’assiette, mastication ou rapprochement de la chaise.
+2. Ajouter ce qu’elle remarque et veut faire, par exemple respirer par la bouche ou quitter la table, sans chercher une émotion cachée obligatoire.
+3. Écrire à part son interprétation sur Philippe et laisser ouverte la question de ce qu’elle comprend encore mal.
+
+Cette courte note peut l’aider à parler d’un fait situé. Elle peut s’arrêter après quelques mots ; ni dix minutes d’observation ni la disparition de la répulsion ne sont des résultats à obtenir.
+
+### 2. Compléter son récit sans effacer sa limite
+
+Le but est de garder plusieurs faits disponibles, si Margot souhaite utiliser un souvenir agréable. Il ne s’agit pas de se convaincre d’accepter le repas ou un contact.
+
+1. Choisir un fait récent qu’elle se rappelle réellement, comme le rire partagé à propos de Martin la veille.
+2. Le placer à côté du fait du soir : elle a voulu s’écarter et reste gênée par certains bruits.
+3. Vérifier ce que ces deux faits lui permettent de dire : une soirée difficile et un échange apprécié existent tous deux, mais sa limite présente demeure.
+
+Ce contraste peut éviter une description totale de Philippe. Si le souvenir ajoute de la culpabilité ou ne lui convient pas, elle peut laisser cet exercice de côté.
+
+### 3. Demander un espace et une reprise possibles
+
+Margot cherche une limite compréhensible, dans un échange où chacun peut s’exprimer en sécurité.
+
+1. Dire ce qu’elle souhaite maintenant, par exemple s’isoler un moment plutôt que continuer le dîner en parlant sèchement.
+2. Demander à Philippe quel moment lui conviendrait pour parler des soirées, sans promettre qu’elle aura alors résolu toute son émotion.
+3. Lors de cette reprise, décrire son départ et écouter ce qu’il a compris avant de choisir un point concret à discuter.
+
+Cette démarche peut réduire les malentendus autour du silence. Si vous subissez des menaces, des violences ou des pressions sexuelles, [chercher du soutien et vous mettre en sécurité](https://www.service-public.gouv.fr/particuliers/vosdroits/F12544) passe avant la discussion de couple.
 
 ## Parler avant de servir le thé
 

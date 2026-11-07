@@ -34,15 +34,21 @@ Camille commence à noircir son agenda avec des listes supplémentaires, elle mu
 
 Exemple : ne pas accepter un dîner familial par peur qu'il compromette une bonne décision, ou préparer des plannings détaillés pour imaginer qu'ainsi la décision sera moins risquée.
 
+Autre exemple situé : au casier, Camille compte déjà les mercredis sur son téléphone alors qu’elle n’a pas reçu les modalités de prise de poste.
+
 ### 2. L'inquiétude qui fonctionne par ruminations silencieuses
 Au lieu d'une inquiétude explosive, Camille garde ses pensées en boucle. Elle relit les mêmes arguments pour et contre, repasse les détails d'un échange avec un collègue, imagine des critiques de sa mère, et finit par perdre le fil de la décision. Les ruminations occupent de l'espace mental sans conduire à un plan d'action.
 
 Exemple : relire le même e-mail plusieurs fois et se focaliser sur une formulation mineure en imaginant des conséquences catastrophiques, ce qui érode la confiance et le sommeil.
 
+Autre exemple situé : dans le bus, Camille reprend la même formulation du mail sans obtenir de renseignement supplémentaire sur les horaires.
+
 ### 3. L'inquiétude qui se traduit par des réactions corporelles subtiles
 Plutôt que des signes extrêmes, l'inquiétude peut produire des indices physiques discrets : tension de la mâchoire, mains froides, maux de tête récurrents ou sommeil fragmenté. Ces signes ont plusieurs causes possibles. Camille remarque qu’elle dort moins et qu'elle se réveille à des heures irrégulières, bien que sa journée semble identique.
 
 Exemple : se surprendre à vérifier plusieurs fois un dossier la nuit ou à se lever pour écrire une note, comme si l'action empêchait l'angoisse de monter. Ces micro-comportements peuvent passer inaperçus mais maintiennent l'alerte.
+
+Autre exemple situé : pendant que Léo raconte son match, Camille remarque sa mâchoire serrée. Cette sensation lui signale un inconfort à décrire, pas sa cause ni le bon choix professionnel.
 
 ## Techniques pour apaiser l'inquiétude et décider sereinement
 L’offre soulève trois questions différentes. Camille essaie de séparer ce qu’elle craint, ce qu’elle peut demander au service et ce qu’elle devra décider elle-même.
@@ -54,6 +60,13 @@ Exercice concret : sur une page, tracez trois colonnes intitulées "meilleur sc�
 
 Cela donne à Camille des questions à poser sur les horaires et le soutien de l’équipe.
 
+Pour garder l’exercice praticable :
+1. Choisissez une seule question du poste, par exemple les réunions qui changeraient les mercredis.
+2. Écrivez les trois scénarios et deux actions envisageables pour chacun, sans chercher à prévoir leur probabilité.
+3. Retenez la question à adresser au service et laissez les autres hypothèses de côté jusqu’à la réponse.
+
+L’utilité possible est de transformer une projection en demande vérifiable, sans exiger une prévision complète de l’avenir.
+
 ### 2. Examiner ce qui appuie la crainte
 Objectif : distinguer une question à éclaircir d’une issue que l’on ne peut pas prévoir.
 
@@ -61,12 +74,26 @@ Exercice : écrivez la crainte et les éléments disponibles. Camille ne sait pa
 
 Le [NHS](https://www.nhs.uk/every-mind-matters/mental-wellbeing-tips/self-help-cbt-techniques/tackling-your-worries/) distingue les problèmes sur lesquels on peut agir des soucis hypothétiques. Camille n’a pas besoin de chiffrer le risque d’être jugée.
 
+Exercice en trois étapes :
+1. Écrivez une crainte précise : « L’équipe pensera que je fuis les gardes ».
+2. Séparez un fait disponible et une information absente ; le mail propose un poste, il ne rapporte pas l’avis des collègues.
+3. Choisissez une demande qui éclaire la décision, par exemple les modalités d’accompagnement, plutôt que solliciter chacun pour être rassurée.
+
+Utilité possible : Camille distingue la recherche d’un renseignement utile de la recherche d’une certitude sur tous les jugements.
+
 ### 3. Le rituel de décision limité dans le temps
 Objectif : mettre une borne temporelle à l'indécision pour éviter les ruminations prolongées.
 
 Exercice : vérifiez la date réelle de réponse et choisissez quand reprendre les informations. Camille peut demander si un délai, une période d’essai ou un accompagnement sont possibles avant de s’engager.
 
 Le délai sert à organiser les démarches ; il ne garantit pas que l’inquiétude disparaîtra. Pour Camille, la date fixe surtout le moment où elle reprendra les informations disponibles et décidera de sa réponse.
+
+Exercice en trois étapes :
+1. Relevez la date de réponse indiquée dans le mail et demandez une précision si elle reste ambiguë.
+2. Fixez avec David un moment pour reprendre ensemble les horaires quand le service aura répondu.
+3. À cette date, formulez votre réponse ou demandez explicitement un délai supplémentaire, sans promettre qu’il sera accordé.
+
+Utilité possible : le calendrier organise une démarche réelle ; il ne donne pas à Camille une obligation d’avoir cessé de s’inquiéter avant de répondre.
 
 ## Ce qu’il reste à demander
 Camille applique la technique du scénario balisé dans la salle d'archives de l'hôpital, entourée d'odeurs de papier et du froissement des gants jetables. Elle écrit, au stylo bleu, trois lignes pour chaque scénario, et découvre qu'elle peut imaginer des actions concrètes qui ne dévorent pas sa vie familiale. Elle se rappelle qu'elle a appris à reconnaître sa réaction à la toux de Léo, et cette prise de conscience l'aide à distinguer les scénarios plausibles des scénarios dramatiques.

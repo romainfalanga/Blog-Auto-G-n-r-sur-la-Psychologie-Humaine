@@ -29,29 +29,53 @@ Ce modèle invite Thomas à se demander comment les avis divergents sont sollici
 
 ### 1. L'autocensure systématique des membres
 
-La première manifestation invisible est l'autocensure. Thomas, bien qu'il occupe une fonction de coordination, garde ses doutes pour lui car il craint de passer pour un élément perturbateur. Il se convainc que si tout le monde est d'accord, c'est sans doute lui qui se trompe. Cette minimisation de ses propres doutes est typique du salarié ou du manager qui veut préserver l'ambiance à tout prix. On ne dit rien, on sourit, et on finit par croire que le silence vaut accord, alors qu'il ne s'agit que de peur sociale. Thomas reconnaît ici ce même effacement de soi qui l'avait paralysé au supermarché, incapable de choisir un café par peur de mal faire face aux attentes d'Émilie.
+Thomas peut garder une réserve parce qu’il anticipe une tension. Le silence ne lui dit pas ce que pensent les autres. Même dans une équipe soudée, il faut distinguer un accord exprimé d’une question qui n’a pas été soumise à la discussion.
+
+Pour les sorties en Provence, il peut taire l’effet du projet sur les secondes parce que deux collègues acquiescent. Lors de la réunion antérieure sur le protocole, il a déjà attendu presque la fin pour demander un essai. Ces deux épisodes concernent des décisions différentes. Les rapprocher lui donne une question sur la manière de faire remonter les objections, sans démontrer que l’équipe souffre d’une pensée de groupe.
 
 ### 2. L'illusion d'unanimité et la garde d'esprit
 
-Le groupe finit par croire qu'il est infaillible. Dans cette salle de réunion, l'enthousiasme de Valérie crée une bulle où aucune critique ne semble pouvoir pénétrer. Certains membres du groupe peuvent même jouer le rôle de gardes d'esprit, des personnes qui écartent activement les informations contradictoires pour protéger le leader ou la décision collective. Thomas remarque que la discussion porte surtout sur la charge administrative. Il propose d’examiner aussi ce que les élèves et leurs familles retirent du voyage.
+Le modèle de Janis invite à examiner les informations qui parviennent à la discussion et celles qui pourraient être écartées. Il ne permet pas de qualifier Valérie de « garde d’esprit » à partir de son enthousiasme ni de conclure que le groupe se croit infaillible.
+
+Si la réunion ne porte que sur la charge administrative, l’intérêt pédagogique du voyage peut rester sans examen. Si une réserve sur le calendrier est écartée par « tout le monde est d’accord », l’avis réel des personnes qui se taisent peut aussi manquer. Dans ces deux cas possibles, Thomas peut demander quelle information n’a pas encore été regardée au lieu d’attribuer une intention de protection du groupe à un collègue.
 
 ### 3. La pression sur les dissidents potentiels
 
-Si quelqu'un tente d'émettre une réserve, le groupe réagit souvent par une pression subtile ou directe. Cela peut passer par un commentaire ironique, un soupir d'agacement ou un rappel à l'ordre sur la solidarité de l'équipe. Pour Thomas, qui a déjà identifié sa peur de la punition et du conflit lors de ses échanges avec son élève Julie, cette pression est vécue comme une menace d'isolement total. Le manager préfère alors suivre une mauvaise direction plutôt que de marcher seul, même si cela nuit à la mission finale de son service ou de sa classe.
+Une objection peut devenir plus difficile à exprimer si la réponse porte sur la loyauté de la personne plutôt que sur son argument. Cette possibilité doit être distinguée d’un désaccord ordinaire où les raisons sont examinées.
+
+Répondre à Thomas « tu compliques toujours les sorties » ne traiterait pas sa question sur les secondes. Lui dire qu’un collègue solidaire doit accepter une tâche supplémentaire ne préciserait pas la charge réelle. Ces deux réponses, si elles survenaient, déplaceraient la discussion de l’objet vers sa place dans l’équipe. Il peut demander de revenir à la tâche et chercher un autre canal sans devoir soutenir une confrontation publique.
 
 ## Techniques pour agir face à la pensée de groupe
 
 ### 1. La technique de l'avocat du diable institutionnalisé
 
-Cette méthode consiste à désigner officiellement une personne lors de chaque réunion dont le rôle sera de critiquer systématiquement la décision envisagée. Cette invitation peut aider à ouvrir la discussion, mais ne garantit pas que les objections seront entendues. Pour Thomas, cela signifie qu'il peut proposer au groupe de nommer un collègue différent à chaque fois pour lister les points faibles d'un projet. L'exercice concret consiste à dire : Je propose que nous passions dix minutes à chercher ensemble pourquoi cette idée pourrait échouer, afin de la rendre plus solide. Cela transforme l'opposition en une contribution constructive au succès du groupe.
+Le groupe peut réserver une place explicite à l’examen des limites du projet. Il n’a pas à désigner une personne chargée d’attaquer tout ce qui est proposé ni à supposer que cet exercice rendra la décision sûre.
+
+1. Thomas demande si l’équipe accepte un temps pour relever les questions encore ouvertes sur les sorties scolaires.
+2. Chacun peut proposer un point concret : effet sur les secondes, organisation ou ressources. Les questions restent distinctes des jugements sur Valérie et peuvent être réparties à vérifier.
+3. Avant la décision, reprendre ces points et indiquer ce qui a reçu une réponse ou reste inconnu. Une objection ne disparaît pas simplement parce qu’elle a été entendue.
+
+Ce cadre peut rendre l’examen moins dépendant de celui qui ose parler. Son utilité dépend aussi de la façon dont le groupe traite réellement les réponses.
 
 ### 2. Le recours aux experts extérieurs et à l'anonymat
 
-Pour briser l'illusion d'unanimité, il est essentiel d'intégrer des points de vue qui n'appartiennent pas au cercle restreint du pouvoir. Comme coordinateur de niveau, Thomas peut solliciter l'avis de collègues d'autres établissements ou utiliser des boîtes à idées anonymes avant les réunions décisives. L'exercice pratique réside dans la collecte de notes écrites non signées. Thomas peut demander à chacun d'écrire anonymement sur un papier son plus grand doute concernant le projet de Valérie, puis de mélanger les papiers pour les lire à haute voix. Des notes non signées peuvent faciliter la prise de parole, sans garantir l’anonymat dans une petite équipe.
+Thomas peut proposer un mode de recueil et un interlocuteur adaptés au type d’information qui manque. Une note non signée ne garantit pas l’anonymat, surtout dans une petite équipe.
+
+1. Définir la question à éclairer : ce que les familles retirent du voyage, sa faisabilité ou les conséquences pour une classe. Ne pas demander un jugement sur la personne qui porte le projet.
+2. Choisir avec l’équipe un canal approprié : questions écrites volontaires ou consultation d’un interlocuteur compétent, en annonçant qui verra les réponses et sans information personnelle inutile sur les élèves.
+3. Faire un retour des éléments pertinents et de leurs limites avant de décider. Une absence de contribution ne sera pas comptée comme un accord.
+
+Cette collecte peut élargir les informations examinées. Elle ne rend pas toute parole représentative et ne protège pas automatiquement son auteur de toute identification.
 
 ### 3. La méthode du second tour de table différé
 
-Si le calendrier le permet, le groupe peut prévoir un temps de réflexion avant de valider la décision. Après être parvenu à un accord, le manager demande à chacun de rentrer chez soi et de revenir le lendemain avec une perspective fraîche. L'exercice consiste à clore la séance en disant : Nous sommes d'accord sur le principe, mais nous ne validerons rien avant demain matin pour laisser infuser nos réflexions personnelles. Pour Thomas, ce temps mort est vital. Il permet de sortir de l'influence du groupe, de discuter avec Émilie ou de courir le matin pour retrouver sa propre boussole interne avant de s'engager.
+Si le calendrier et le rôle de l’équipe le permettent, une reprise peut être prévue avant la décision. Le délai doit servir des vérifications, sans promesse qu’une nuit donnera une opinion plus juste.
+
+1. Identifier les points qui justifient la reprise et convenir d’une date compatible avec l’échéance, sans annoncer un accord déjà acquis.
+2. Répartir les informations à chercher avec des responsables et un périmètre clairs, par exemple le retour des interlocuteurs concernés par les sorties.
+3. Au second échange, inviter chacun à dire ce qui a changé ou reste incertain, puis suivre le mode de décision prévu.
+
+La reprise laisse une place aux objections tardives et aux données nouvelles. Elle ne doit pas devenir une nouvelle tâche indéfinie hors du temps disponible ni remplacer les responsabilités de décision.
 
 ## Faire un tour des objections
 

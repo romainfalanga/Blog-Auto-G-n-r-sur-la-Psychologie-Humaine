@@ -35,13 +35,28 @@ Une fois l’objectif choisi, les conditions peuvent encore changer. Un interloc
 
 Vérifier deux façades ne consiste pas seulement à appuyer sur le bouton de l’appareil. Baptiste doit connaître ce qu’il cherche, se déplacer, observer depuis un espace adapté et transmettre les éléments au format prévu. Cette description n’a pas besoin d’inclure chaque seconde, mais elle doit rendre visibles les étapes qui consomment réellement des ressources. Au travail, préparer une question peut demander un échange préalable. À la maison, trier ensemble suppose que Caroline soit disponible et souhaite participer à ce moment. Les actions dépendantes ne deviennent pas réalisables parce qu’elles sont résumées par un seul verbe.
 
+Exemples concrets
+
+- La ligne « vérifier deux façades » ne montre ni le trajet ni la transmission des images.
+- Le tri des vêtements suppose un moment convenu avec Caroline, pas seulement une boîte ouverte par Baptiste.
+
 ### Les espaces blancs sont pris pour du temps sans besoin
 
 Baptiste remplit une soirée qui n’a aucun rendez-vous, puis s’aperçoit qu’il n’y a plus de place pour le repas et la récupération. Une absence d’engagement affiché ne signifie pas une disponibilité intégrale. Le repos et les relations peuvent avoir besoin d’un espace qui ne produit aucune tâche terminée. Cela ne demande pas d’inscrire chaque plaisir comme une obligation supplémentaire. Il suffit parfois de ne pas considérer toute marge comme un gaspillage à corriger. Si la charge réelle dépasse durablement le temps disponible, mieux découper les objectifs ne remplace pas une discussion sur ce qui doit être réduit, partagé ou organisé autrement.
 
+Exemples concrets
+
+- Une soirée sans rendez-vous est déjà occupée en partie par le repas et la récupération.
+- Réduire sur le papier le temps d’envoi des photographies ne raccourcit pas le déplacement.
+
 ### L’aide des autres est déjà comptée avant leur accord
 
 Caroline, Patricia et les participants du parcours peuvent fournir des informations ou partager une tâche. Leur présence ne constitue pas une ressource libre dont Baptiste peut disposer sans échange. Il doit connaître leurs contraintes et la contribution acceptée. Une demande peut recevoir une réponse partielle ou tardive. Prévoir une alternative ne consiste pas à traiter ces personnes comme peu fiables ; cela reconnaît simplement que le projet ne dépend pas d’une volonté individuelle unique. Une liste qui repose sur plusieurs accords non vérifiés possède encore des hypothèses, pas seulement des actions prêtes à être exécutées.
+
+Exemples concrets
+
+- Baptiste a inscrit le tri alors que Caroline et lui n’ont pas choisi de date.
+- Le prochain échange avec Patricia dépend encore d’une disponibilité à vérifier.
 
 ## Trois pistes pour ajuster l’objectif à la semaine réelle
 
@@ -49,13 +64,31 @@ Caroline, Patricia et les participants du parcours peuvent fournir des informati
 
 Pour le parcours photographique, Baptiste ne se donne pas pour objectif de produire un travail remarquable. Il doit vérifier deux lieux et apporter les informations demandées. Il note les questions à éclaircir avant le déplacement et les étapes de transmission. Cette précision permet de savoir quand la contribution sera suffisamment réalisée, sans lui ajouter une série d’améliorations infinies. Il peut ensuite vérifier si les conditions existent réellement. Pour un objectif spécialisé ou réglementé, les exigences du cadre doivent rester présentes ; on ne peut pas les réduire simplement pour que le travail tienne dans un créneau. Si les moyens manquent, cela devient une information à discuter avec les interlocuteurs concernés, pas une difficulté à dissimuler derrière une promesse plus ambitieuse.
 
+Exercice pratique
+
+- Écrivez ce que le collectif attend des deux façades.
+- Ajoutez les informations, le trajet et le format de retour nécessaires.
+- Demandez les précisions manquantes avant de considérer l’objectif comme prêt.
+
 ### 2. Compter les transitions et garder une marge adaptée
 
 Baptiste regarde le trajet, l’échange préalable et le moment où il pourra préparer l’envoi. Il compare son estimation avec des activités proches déjà réalisées, sans inventer une durée standard valable pour toutes les personnes. Il laisse une marge là où l’incertitude paraît réelle. Cette marge ne garantit pas qu’aucun retard n’arrivera et ne doit pas être remplie d’avance par une nouvelle tâche. Elle permet de conserver quelques options si les conditions changent. Lorsque l’emploi du temps ne possède presque aucune souplesse, le besoin peut être un relais ou un allègement plutôt qu’un meilleur chronométrage. La planification reste un appui parmi d’autres, pas un moyen de créer des heures supplémentaires sans coût pour le sommeil et les relations.
 
+Exercice pratique
+
+- Reprenez le déplacement et l’envoi des images comme deux étapes distinctes.
+- Comparez leur durée à un repérage déjà réalisé et gardez une marge lorsque vous hésitez.
+- Laissez cette marge disponible au lieu d’y ajouter d’avance le tri familial.
+
 ### 3. Choisir ce qui sera réduit ou reporté si nécessaire
 
 Avec Caroline, Baptiste décide de commencer par une seule catégorie de vêtements, à un moment convenu. Le reste n’est pas abandonné ; il n’est simplement plus présenté comme une tâche complète à finir cette semaine. Au travail, il vérifie quel point doit réellement être préparé maintenant. Pour les photographies, il connaît la personne à prévenir si une partie du repérage devient impossible. Ces décisions donnent un cadre à l’imprévu avant qu’il soit vécu comme une faute. Il ne s’agit pas de préparer toutes les exceptions imaginables. Il suffit parfois d’identifier une priorité, un périmètre minimal et un interlocuteur. Si la même difficulté se répète, un bilan peut montrer que l’objectif reste trop coûteux ou que l’organisation réclame un changement plus large.
+
+Exercice pratique
+
+- Choisissez avec Caroline la catégorie de vêtements à traiter.
+- Vérifiez avec Patricia le point professionnel réellement prioritaire.
+- Prévenez le collectif si une façade reste masquée et transmettez la limite au lieu de forcer le résultat.
 
 ## La façade derrière les travaux
 

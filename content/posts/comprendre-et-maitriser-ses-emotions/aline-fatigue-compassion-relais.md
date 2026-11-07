@@ -55,6 +55,8 @@ Quand Aline souhaite que les conversations s’arrêtent, elle se juge dure. Ell
 
 Elle peut reconnaître son état sans lui confier toute la conduite de l’échange. Être lassée ne l’autorise pas à répondre avec mépris. Cela peut en revanche l’amener à demander un relais, à préciser le temps disponible et à différer une discussion. Une limite précoce permet parfois davantage de respect qu’une présence prolongée jusqu’au moment où elle n’arrive plus à écouter.
 
+La demande de Claire sur la prochaine permanence offre un autre point de vigilance. Aline pourrait accepter la préparation pour se prouver qu’elle reste volontaire, alors qu’elle souhaite d’abord parler de la soirée qui vient de finir. Rester vingt minutes avec un visiteur et reprendre aussitôt une mission future seraient deux façons différentes de répondre au même reproche intérieur. Ni l’une ni l’autre ne renseignerait Claire sur le besoin de relais.
+
 ## Trois techniques pour construire des relais utilisables
 
 ### 1. Décrire les signes et les conditions plutôt que s’étiqueter

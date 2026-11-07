@@ -41,6 +41,11 @@ Cette accumulation peut le fatiguer avant même une tâche particulièrement com
 
 Une information accessible change réellement la charge. Un plan à jour, un interlocuteur identifié et des consignes explicites ne se contentent pas de rassurer. Ils évitent des recherches et rendent le travail plus sûr. La réponse au stress peut donc commencer par une amélioration de l’organisation, pas seulement par un exercice individuel.
 
+Exemples concrets
+
+- Malik cherche le vestiaire alors que son travail technique lui est familier.
+- Le détour de Bastien vers une mauvaise porte montre un besoin de plan partagé par l’équipe.
+
 ### La fatigue est interprétée comme une régression
 
 Malik pense qu’après quatre ans, il ne devrait plus avoir à demander. Cette règle mélange la durée de sa présence et la nouveauté du lieu. Il ne retourne pas au point de départ parce qu’il cherche un vestiaire. Son expérience reste disponible pour de nombreuses tâches, tandis qu’une autre partie du contexte demande un apprentissage actuel.
@@ -49,11 +54,21 @@ Le sentiment de recommencer peut être particulièrement pénible lorsqu’il re
 
 Bastien constitue ici un repère utile : lui aussi découvre les locaux et pose des questions. Cela ne rend pas leurs expériences entièrement identiques, notamment après la décision de Marc. Cela montre seulement qu’une partie du changement concerne l’équipe. Les besoins collectifs ne doivent pas être traités comme la fragilité particulière de Malik.
 
+Exemples concrets
+
+- Malik prend la question sur un couloir pour une preuve qu’il devrait tout savoir après quatre ans.
+- Sa compétence de mécanicien reste pourtant utilisable pendant qu’il apprend l’organisation du dépôt provisoire.
+
 ### Tous les liens demandent un ajustement simultané
 
 Le trajet plus long déplace son heure de repas, les appels avec Awa et les rencontres photo. Malik veut garder chaque habitude pour ne pas donner l’impression que la transition le déborde. Il risque alors de supprimer le repos entre plusieurs engagements. Maintenir tous les rendez-vous n’est pas forcément la meilleure preuve de continuité.
 
 Un lien peut tolérer un changement annoncé sans disparaître. Awa peut proposer un échange plus court ; le groupe photo peut lui transmettre le thème suivant. Ces possibilités dépendent d’accords réels, pas de personnes toujours disponibles. Malik peut demander une adaptation précise plutôt que promettre la même présence dans une semaine matériellement différente.
+
+Exemples concrets
+
+- Le trajet nouveau décale à la fois le repas, l’appel avec Awa et la rencontre photo.
+- Maintenir tous les rendez-vous pourrait retirer le repos dont Malik a besoin cette semaine.
 
 ## Ce qu’il faut apprendre dans un nouveau dépôt
 
@@ -65,6 +80,12 @@ Demandez ensuite où obtenir l’information fiable et quel soutien peut facilit
 
 La liste peut rester très courte. Si elle devient un inventaire de tous les changements à absorber, choisissez seulement l’étape du lendemain. L’objectif n’est pas de transformer la transition en projet parfait. Il consiste à réduire une incertitude évitable et à laisser visible ce qui dépend encore d’une décision extérieure.
 
+Exercice pratique
+
+- Décrivez un repère précis qui manque pour la prochaine prise de poste.
+- Identifiez qui peut confirmer le trajet ou la consigne dans le cadre du dépôt.
+- Gardez les procédures et vérifications techniques prévues sans compenser l’inconnu par une improvisation.
+
 ### 2. Reconnaître un appui déjà acquis et une aide actuelle
 
 Pour la même difficulté, nommez une ressource personnelle située et un soutien extérieur possible. Malik connaît les exigences de sa prise de poste ; il peut demander un plan à jour au bon interlocuteur. Ces deux ressources se complètent. L’une ne rend pas l’autre superflue et aucune ne garantit l’absence de fatigue.
@@ -73,6 +94,12 @@ Il peut également retrouver un geste familier sans rapport avec la performance 
 
 Si l’appui attendu manque, notez cette absence plutôt que de la remplacer par une injonction à mieux s’adapter. Une information inaccessible ou un trajet impraticable mérite d’être signalé. Le repérage des ressources comprend aussi le constat qu’elles sont insuffisantes et qu’une réponse organisationnelle est nécessaire.
 
+Exercice pratique
+
+- Nommez ce que vous savez déjà sur les exigences de votre poste.
+- Demandez le plan ou l’interlocuteur qui manque pour les nouveaux locaux.
+- Signalez une information inaccessible au lieu de la traiter comme un effort personnel insuffisant.
+
 ### 3. Ajuster temporairement un engagement sans fermer le lien
 
 Choisissez un engagement qui peut être réduit ou déplacé avec l’accord des personnes concernées. Malik annonce à Awa qu’il attend encore son planning et propose de confirmer un créneau plutôt que de manquer un rendez-vous promis trop vite. Il informe aussi Fatou qu’il ne participera pas à toute la prochaine rencontre.
@@ -80,6 +107,12 @@ Choisissez un engagement qui peut être réduit ou déplacé avec l’accord des
 Précisez ce qui reste possible : un message différé, un passage court ou une reprise à une date à vérifier. Cette information garde une continuité sans créer une promesse irréaliste. Les autres peuvent dire leurs propres contraintes. L’ajustement ne doit pas demander qu’ils absorbent indéfiniment toute l’incertitude à sa place.
 
 Réévaluez lorsque les repères se stabilisent. Une réduction temporaire peut devenir inutile, ou au contraire révéler un besoin durable de changer le rythme. Il n’est pas nécessaire de revenir exactement à l’organisation précédente pour prouver que l’adaptation est réussie. Un arrangement différent peut mieux correspondre à la vie actuelle.
+
+Exercice pratique
+
+- Indiquez à Awa ce qui attend la confirmation du planning.
+- Proposez à Fatou le passage limité que vous pouvez tenir plutôt qu’une présence entière supposée.
+- Reprenez ces accords quand les horaires se stabilisent, avec les besoins de chacun.
 
 ## Malik apprend un nouveau trajet sans redevenir débutant partout
 

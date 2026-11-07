@@ -32,24 +32,54 @@ Dans une situation de violence ou de contrôle, la personne qui la subit n’a p
 ## Comment les jeux psychologiques (triangle de Karpman : persécuteur, victime, sauveur) se manifestent-ils dans le couple ?
 
 ### 1. Le sauveur qui impose des solutions non demandées
-Un partenaire anticipe la solution avant même d'avoir fini d'écouter et prend en charge les problèmes à la place de l'autre. C'est ce qui arrive quand Thomas propose des démarches administratives et des congés à Émilie au lieu de simplement accueillir son émotion. Le sauveur cherche à réparer pour se sentir utile et valorisé. Dans le couple, cela donne souvent à l'autre le sentiment d'être infantilisé, ce qui mène droit à la frustration.
+
+Thomas peut reconnaître une proposition qui dépasse l’aide demandée, sans se définir comme « sauveur » en toute circonstance. Son intention d’être utile ne dit pas ce qu’Émilie attend. Le triangle sert ici à interroger un geste, pas à attribuer un motif caché.
+
+Proposer un congé avant la fin du récit remplace la question du soutien souhaité par une décision sur son travail. Offrir de faire la paperasse du week-end ajoute une autre prise en charge qu’elle n’a pas demandée. Ces deux propositions peuvent être refusées séparément. Leur utilité dépend de l’accord d’Émilie et des possibilités de Thomas, pas de la rapidité avec laquelle il les imagine.
 
 ### 2. Demander une écoute sans demander de solution
-Émilie raconte une journée difficile. Repousser des conseils n’est pas un signe de passivité ni une façon d’obtenir de l’attention. Thomas peut lui demander ce qu’elle attend de lui, puis écouter la réponse.
+
+Émilie exprime un besoin d’écoute. Repousser des conseils ne démontre ni passivité ni recherche d’attention. Une personne peut vouloir être entendue, réfléchir elle-même ou demander ensuite une aide précise.
+
+Quand elle raconte la journée difficile, Thomas peut attendre la fin sans proposer immédiatement un rendez-vous. Quand elle lui demande de ne pas couper sa parole, il peut entendre cette demande de conversation sans conclure qu’elle refuse toute son aide. Ces deux indications concernent la forme de l’échange. Elles ne permettent pas de lui assigner le rôle de « victime ».
 
 ### 3. Quand les conseils tournent aux reproches
-Thomas pourrait répondre sèchement si Émilie refuse son aide. Il peut s’en tenir à ce qui s’est passé et reconnaître son ton, sans attribuer à sa compagne une part de responsabilité dans ses reproches.
+
+Une proposition d’aide peut laisser place à un reproche si Thomas traite le refus comme une offense. Ce changement est un comportement à reconnaître, sans en faire la responsabilité d’Émilie ou une étape obligatoire du triangle.
+
+Il pourrait ainsi répondre « tu n’acceptes jamais rien » après le refus de la paperasse. Il pourrait aussi dire « alors ne viens pas te plaindre » lorsqu’elle souhaite seulement terminer son récit. Ces deux phrases changeraient la proposition en pression. Thomas peut reconnaître leur effet s’il les prononce, maintenir sa propre limite et demander quelle suite de discussion reste souhaitée.
 
 ## 3 techniques pour transformer son comportement face aux jeux psychologiques
 
 ### 1. Observer ce que l’on fait dans la discussion
-Après un échange, Thomas peut noter ce qu’il a fait, ce qu’Émilie a dit et ce qu’il ne sait pas encore. Le carnet ne lui sert pas à attribuer les rôles du triangle.
+
+L’objectif est de relire des paroles observables, au lieu de distribuer les trois rôles du triangle.
+
+1. Thomas choisit un échange et note ses trois propositions : congé, discussion avec le chef et paperasse du week-end.
+2. Il écrit séparément ce qu’Émilie lui a demandé, notamment de terminer sans être interrompue, puis ce qu’il ignore encore de sa journée.
+3. Il prépare une seule question pour reprendre : « Qu’est-ce que tu voulais me raconter après ce moment ? » Il la pose si elle souhaite poursuivre.
+
+La note montre où l’écoute a été interrompue. Elle ne mesure pas les torts de chacun et n’exige pas qu’Émilie recommence le récit à sa demande.
 
 ### 2. Poser une limite et reformuler (les messages en "je")
-Il s'agit d'utiliser l'assertivité pour exprimer un besoin sans l'imposer. Thomas peut préparer quelques phrases pour poser une limite sans culpabilité. Par exemple : "Je t'entends, je vois que tu es stressée, et j'ai besoin de comprendre ce que tu attends de moi maintenant." Puis il attend la réponse. Si l'envie de "sauver" est trop forte, il peut ajouter : "Je peux t'aider à chercher des solutions si tu veux, ou simplement t'écouter si c'est ce dont tu as besoin." Formuler sa demande peut aider à préciser ce que l’on peut proposer. Émilie peut aussi préférer remettre la discussion à plus tard.
+
+Thomas veut préciser le soutien qu’il peut offrir sans décider de ce qu’Émilie doit souhaiter. Ses limites comptent aussi ; elles peuvent être formulées sans reproche.
+
+1. Demander quelle forme d’échange est attendue : « Tu veux raconter ou chercher une solution ensemble ? » Puis laisser la réponse venir.
+2. Dire ce qui est possible pour lui : écouter maintenant un moment, chercher une information plus tard ou demander une pause s’il n’arrive plus à suivre.
+3. Reformuler l’accord obtenu et s’y tenir : s’il écoute, ne pas ajouter aussitôt une liste de démarches ; si le moment ne convient pas, convenir d’une reprise.
+
+Cette formulation rend la proposition et ses limites compréhensibles. Elle ne garantit pas un accord ni la disparition de l’agacement.
 
 ### 3. Proposer une pause
-Si tous deux se sentent libres de parler, Thomas et Émilie peuvent convenir d’une pause quand ils en ont besoin. Ils peuvent ensuite reprendre ou remettre l’échange à plus tard. Une pause convenue ne règle pas une situation de violence.
+
+Une pause peut limiter la confusion si chacun se sent libre de parler et de s’éloigner. Elle n’est ni une punition silencieuse ni une solution à la violence.
+
+1. Thomas remarque qu’il cherche encore un conseil au lieu de suivre la phrase et demande s’il peut s’arrêter un moment.
+2. Il précise ce qu’il propose : reprendre après le café ou à un autre horaire convenu, sans imposer à Émilie de continuer immédiatement.
+3. Au retour, il repart de la question restée ouverte et vérifie si elle souhaite encore cet échange. Si l’un ne veut plus parler, la suite reste à discuter.
+
+Le repère donne une fin à l’interruption sans promettre une conversation facile. Dans une situation de violence ou de contrôle, la sécurité et l’aide adaptée passent avant une reprise négociée.
 
 ## Ce qu’Émilie n’a pas fini de dire
 

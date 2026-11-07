@@ -43,6 +43,8 @@ Odile imagine parfois qu’un tri serait une déclaration sur l’amour qu’ell
 
 Josiane connaît Odile depuis plusieurs années, mais pas toute son histoire familiale. En entendant la remarque sur le beurre, elle découvre une sœur moqueuse et précise, différente de l’image solennelle laissée par les conversations autour du décès. Partager n’efface pas la douleur et ne garantit pas un soulagement. Cela peut simplement élargir la façon dont une personne est racontée. Odile garde aussi le droit de ne pas répondre à toutes les questions. Un souvenir transmis n’oblige pas à ouvrir l’ensemble de son histoire ni à se rendre disponible pour les émotions de chaque interlocuteur.
 
+Avec Lucie, la photographie de la recette permet un autre échange : sa fille peut reconnaître l’écriture et associer la remarque à sa propre relation avec sa tante. Ce partage à distance ne ressemble pas à la présence de Josiane devant les biscuits. Les deux destinataires reçoivent une partie de l’histoire ; Odile peut choisir ce qu’elle leur raconte sans devoir produire le même souvenir pour chacune.
+
 ## Choisir ce qu’on fait du papier
 
 ### 1. Distinguer ce qui compte de ce qui semble obligatoire

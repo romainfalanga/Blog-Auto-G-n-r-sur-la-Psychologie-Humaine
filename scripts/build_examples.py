@@ -171,6 +171,16 @@ def build(write=True):
     pack_path = ROOT / 'data/editorial_pack_v10.json'
     pack_rows = {row['path']: row for row in json.loads(pack_path.read_text())['rows']} if pack_path.exists() else {}
     pattern_ids = {row['id'] for row in json.loads((ROOT / 'data/psychology_catalog.json').read_text())['patterns']}
+    coverage_rows = {}
+    coverage_pairs = set()
+    for row in json.loads((ROOT / 'data/psychology_coverage_review.json').read_text())['links']:
+        pair = (row['article_id'], row['pattern_id'])
+        if (row['pattern_id'] not in pattern_ids or row['role'] not in {'direct', 'secondary'}
+                or pair in coverage_pairs or not row.get('evidence')):
+            raise ValueError('Invalid reviewed psychology link: ' + str(pair))
+        coverage_pairs.add(pair)
+        coverage_rows.setdefault(row['article_id'], []).append(row)
+    reviewed_articles = set()
     for path in sorted((ROOT / 'content/posts').rglob('*.md')):
         if path.name == '_index.md':
             continue
@@ -187,6 +197,17 @@ def build(write=True):
                 raise ValueError('Missing or invalid editorial concept links: ' + str(path))
             metadata['pattern_ids'] = list(dict.fromkeys(reviewed['pattern_ids']))
             metadata['pattern_source'] = 'editorial_pack_v10_reviewed_story'
+        for reviewed in coverage_rows.get(relative.as_posix(), []):
+            if (reviewed['source_body_sha256'] != metadata['content_hash']
+                    or any(not item.get('quote') or body[item['start']:item['end']] != item['quote']
+                           for item in reviewed['evidence'])):
+                raise ValueError('Stale psychology review evidence: ' + str(path))
+            metadata.setdefault('pattern_ids', []).append(reviewed['pattern_id'])
+            metadata['pattern_ids'] = list(dict.fromkeys(metadata['pattern_ids']))
+            metadata['pattern_source'] = ('editorial_pack_v10_and_coverage_reviewed_story'
+                                          if meta.get('editorial_pack') == 'psychology-v10'
+                                          else 'psychology_coverage_reviewed_story')
+            reviewed_articles.add(relative.as_posix())
         if meta.get('clinical_code'):
             metadata['clinical_code'] = meta['clinical_code']
             metadata['clinical_diagnosis'] = meta['clinical_diagnosis']
@@ -222,6 +243,8 @@ def build(write=True):
         })
     if not examples or len({e['id'] for e in examples}) != len(examples):
         raise ValueError('Empty or duplicate catalogue')
+    if reviewed_articles != set(coverage_rows):
+        raise ValueError('Psychology review references an absent or unpublished article')
     outputs = {
         ROOT / 'data/character_keywords.json': json.dumps(characters, ensure_ascii=False, indent=2) + '\n',
         ROOT / 'data/article_keywords.json': json.dumps(articles_data, ensure_ascii=False, indent=2) + '\n',

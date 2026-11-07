@@ -27,33 +27,57 @@ Dans leur [étude sur les styles d’humour](https://www.sciencedirect.com/scien
 
 Hugo peut se demander si sa plaisanterie facilite l'échange ou évite une réponse attendue. Il peut aussi écouter l'effet qu'elle a eu, même si cet effet diffère de ce qu'il souhaitait.
 
-## Manifestations de l'humour en situation de conflit
+## Manifestations de l’humour en situation de conflit
 
-### 1. L'humour qui détourne la responsabilité
-Hugo fait souvent une plaisanterie pour désamorcer une accusation ou minimiser son rôle. Par exemple, quand Chloé évoque un comportement blessant, il rit et raconte une anecdote exagérée sur son talent pour tout gâcher, transformant une demande sérieuse en scène comique. Ce type d'humour évite la reconnaissance de ses actes et empêche la réparation. Dans le bar, lorsqu'un collègue le critique, il répond par une vanne qui fait rire la table, mais la critique réelle reste sans réponse.
+### 1. La plaisanterie détourne une réponse attendue
 
-### 2. L'humour qui déplace la colère
-Une plaisanterie peut aussi servir à dire une colère de biais. Hugo imite le ton de scène de Chloé quand elle lui demande de ranger les cartons. Elle peut rire une seconde, puis entendre le reproche. Il lui revient de dire ce qu’il voulait lui reprocher, ou de reconnaître qu’elle n’a rien demandé qui justifie cette pique.
+Hugo peut faire rire sans répondre au point soulevé. Le rire éventuel ne permet pas de savoir si le sujet est réglé. Ce qui compte est aussi ce qui reste sans réponse après la boutade.
 
-### 3. L'humour qui sollicite l'approbation sociale
-Après le concert, Hugo envoie à Chloé un message plein d'esprit. Le récit laisse ouverte la question de savoir ce qu'il cherche : partager une joie, renouer ou éviter de dire qu'elle lui manque. Un rire ne vaut ni accord ni invitation à relancer.
+Quand Chloé nomme un geste blessant, une anecdote exagérée sur son talent pour tout gâcher déplacerait la conversation vers lui. Au bar, une vanne lancée après une critique d’un collègue peut aussi faire rire la table sans traiter sa demande. Ces deux exemples n’excusent pas le détour par le malaise ressenti.
 
-## Techniques pour transformer l'humour comme défense
+### 2. Une pique donne un reproche sans le formuler clairement
 
-### 1. La technique de la question claire
-Exercice : quand une blague surgit en conflit, interrogez-vous en une phrase : "Est-ce que je fais une blague pour éviter de dire que j'ai peur, que je suis blessé ou que j'ai besoin de quelque chose ?" Écrivez la question sur votre téléphone ou un carnet et répondez honnêtement en une ligne.
+L’humour peut servir à dire sa colère de biais. Hugo doit regarder ce qu’il a dit, et non conclure que Chloé aurait dû comprendre qu’il plaisantait. Il n’a pas besoin de connaître l’origine de son réflexe pour en reconnaître l’effet.
 
-Hugo peut noter la remarque exacte qu’il a faite, le reproche qu’elle contenait et ce qu’il voulait obtenir. Ce n’est pas une préparation d’excuses parfaites : il essaie de comprendre la différence entre la blague et ce qu’il aurait pu demander.
+Il commente son entrée comme si elle jouait une scène théâtrale. Il peut aussi imiter son ton lorsqu’elle lui demande de déplacer un carton. La remarque sur l’arrivée et l’imitation d’une demande font porter deux piques différentes sur Chloé plutôt que préciser ce qu’il souhaite lui-même.
 
-### 2. Le jeu du je dis vrai
-Exercice : reformulez la phrase en deux versions, d'abord la blague, puis la version honnête en commençant par "Je ressens..." ou "J'ai peur que...". Répétez à voix haute en vous concentrant sur la sincérité pendant vingt secondes avant d'envoyer ou de parler.
+### 3. Le rire espéré peut devenir une demande de rapprochement
 
-Hugo peut dire à Chloé : « J’ai fait une blague sur toi parce que j’étais gêné. C’était une pique et je n’aurais pas dû. » Si elle ne souhaite pas poursuivre, il peut s’en tenir là.
+Hugo peut souhaiter alléger l’échange ou retrouver de la complicité. Mais une plaisanterie n’autorise pas à insister si l’autre veut seulement récupérer ses affaires. Même un rire ne vaut ni pardon ni invitation à poursuivre.
 
-### 3. Le décryptage en trois colonnes
-Exercice : prenez un format simple sur papier ou dans une note : colonne 1 "Blague", colonne 2 "Pensée probable derrière", colonne 3 "Besoin réel". Remplissez pour une situation précise.
+Chloé rit une seconde à la boutade, puis son regard reste dur. Plus tard, une remarque du même genre à un collègue peut lui donner envie de chercher un autre rire plutôt que reprendre sa phrase. Dans les deux cas, une réaction sociale immédiate ne suffit pas à connaître l’effet du propos.
 
-Le soir, Hugo peut reprendre les mots exacts qu’il a lancés à Chloé. En les écrivant, il entend mieux ce qui faisait d’une imitation une attaque. S’il retrouve le même ton avec un collègue, il peut s’interrompre et revenir à ce qu’il voulait lui demander.
+## Techniques pour transformer l’humour comme défense
+
+### 1. Retrouver la phrase que la blague a remplacée
+
+Hugo veut observer une seule boutade sans devoir découvrir une émotion profonde derrière chaque plaisanterie.
+
+1. Noter les mots exacts de sa remarque sur l’entrée de Chloé, quand il dispose d’un moment pour le faire.
+2. Écrire la question ou le reproche qu’il évitait peut-être ; garder « je ne sais pas » si rien ne se précise.
+3. Distinguer ce qu’il aurait pu demander de ce qu’il doit reconnaître maintenant dans la pique réellement dite.
+
+Cette note peut séparer son besoin de la forme blessante choisie. Elle n’est pas une justification à faire accepter à Chloé.
+
+### 2. Reconnaître le geste sans attendre une réparation de l’ambiance
+
+Le but est une excuse précise, pas une déclaration de sincérité à répéter jusqu’à être cru.
+
+1. Dire ce qu’il a fait : une imitation ou une pique sur Chloé, sans commencer par expliquer le concert ou son enfance.
+2. Reconnaître que ce propos n’était pas nécessaire et s’excuser sans demander qu’elle le rassure.
+3. Demander si elle souhaite qu’il la laisse finir sa tâche et respecter la réponse, même si l’échange reste froid.
+
+Une excuse peut rendre sa responsabilité claire. Elle ne garantit ni pardon ni conversation supplémentaire.
+
+### 3. Préparer une demande ordinaire pour le prochain échange
+
+Hugo cherche une autre façon de répondre lorsqu’une remarque similaire lui vient au bar.
+
+1. Sur une note, séparer la blague, la pensée qu’il lui associe et la demande utile, comme préciser où ranger un objet.
+2. Choisir une phrase directe qui porte sur la tâche, sans analyser la personnalité du collègue.
+3. S’il a déjà lancé la pique, s’interrompre, la reconnaître puis reprendre sa demande avec la possibilité pour l’autre de ne pas poursuivre.
+
+Cette préparation peut fournir une autre phrase disponible. Le collègue n’a pas à participer à un exercice ni à donner un signe d’approbation.
 
 ## La plaisanterie tombe mal
 

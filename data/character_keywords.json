@@ -431,6 +431,18 @@
     ],
     "source": "repères des parcours cliniques de fiction"
   },
+  "anatole": {
+    "id": "anatole",
+    "name": "Anatole",
+    "keywords": [
+      "Syndrome de la Tourette",
+      "Tics moteurs et phoniques",
+      "Effort de suppression",
+      "Variabilité des tics",
+      "Réactions des autres"
+    ],
+    "source": "repères des parcours cliniques de fiction"
+  },
   "antonin": {
     "id": "antonin",
     "name": "Antonin",
@@ -560,6 +572,18 @@
       "Honte après une crise",
       "Peur de la rechute",
       "Reprise du travail"
+    ],
+    "source": "repères des parcours cliniques de fiction"
+  },
+  "doriane": {
+    "id": "doriane",
+    "name": "Doriane",
+    "keywords": [
+      "Trouble de la personnalité évitante",
+      "Crainte du rejet",
+      "Estime de soi",
+      "Relations proches",
+      "Choix et participation"
     ],
     "source": "repères des parcours cliniques de fiction"
   },
@@ -815,6 +839,18 @@
     ],
     "source": "repères des parcours cliniques de fiction"
   },
+  "malo": {
+    "id": "malo",
+    "name": "Malo",
+    "keywords": [
+      "Catatonie associée à un autre trouble mental",
+      "Réactivité et parole",
+      "Évaluation médicale urgente",
+      "Reprise des décisions",
+      "Suivi et entourage"
+    ],
+    "source": "repères des parcours cliniques de fiction"
+  },
   "martin": {
     "id": "martin",
     "name": "Martin",
@@ -860,6 +896,18 @@
       "Peur de l’abandon",
       "Réactivité émotionnelle",
       "Image de soi instable"
+    ],
+    "source": "repères des parcours cliniques de fiction"
+  },
+  "mireille": {
+    "id": "mireille",
+    "name": "Mireille",
+    "keywords": [
+      "Trouble neurocognitif léger",
+      "Mémoire récente",
+      "Attention",
+      "Autonomie",
+      "Incertitude"
     ],
     "source": "repères des parcours cliniques de fiction"
   },

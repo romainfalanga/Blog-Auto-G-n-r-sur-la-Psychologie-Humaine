@@ -39,17 +39,32 @@ Nora aime entendre les histoires de ses amis. Son intérêt peut être chaleureu
 
 Salomé n’a pas besoin de suspecter Nora pour garder ses photos. Elle peut lui faire confiance sur d’autres sujets et choisir une réserve ici. Le degré d’accès n’est pas une note globale attribuée à l’amitié. Une telle note obligerait à classer la personne entière comme sûre ou peu sûre avant chaque choix. Il est souvent plus juste de parler d’un contenu, d’un moment et d’une préférence, avec la possibilité de les modifier plus tard.
 
+Deux exemples dans cette situation :
+
+- Salomé voit l’invitation chaleureuse de Nora et pense devoir fournir une photo pour lui montrer qu’elle lui fait confiance.
+- À table, une question sur les souvenirs pourrait lui paraître donner accès à la boîte entière, alors qu’elle peut choisir un seul récit ou aucun.
+
 ### Inventer un obstacle pour ne pas nommer un choix
 
 Dire qu’elle ne retrouve pas les photos pourrait éviter une conversation immédiate. Mais cela ferait de leur découverte future un changement de situation qui appellerait un nouveau partage. Salomé devrait continuer à maintenir le prétexte ou annoncer ensuite une autre raison. La recherche d’une excuse lui demanderait davantage de gestion que la limite initiale, tout en cachant la préférence qu’elle souhaite réellement voir respectée.
 
 Cela ne permet pas de juger toutes les stratégies de discrétion. Dans un contexte hostile, une réponse d’évitement peut protéger et rester nécessaire. Salomé examine ici une amitié dans laquelle une demande simple a des chances d’être entendue. Elle peut donc essayer une formulation plus directe sans transformer cette expérience en règle à imposer ailleurs. La sécurité du contexte participe au choix de la réponse.
 
+Deux exemples dans cette situation :
+
+- Elle s’apprête à écrire qu’elle ne retrouve pas les photos tout en gardant la boîte ouverte devant elle.
+- Si Nora proposait de l’aider à chercher, elle devrait entretenir le prétexte au lieu de nommer la réserve souhaitée.
+
 ### Supposer qu’un refus doit être définitif pour être sérieux
 
 Salomé pense un instant qu’elle doit annoncer qu’elle ne montrera jamais aucune photo d’enfance. Une telle formule lui semble fermer la question plus fermement. Elle ne connaît pourtant pas son envie future. Elle peut garder une limite actuelle sans prendre une décision pour toute sa vie. Une phrase située n’autorise pas pour autant les autres à relancer régulièrement dans l’espoir qu’elle change.
 
 Elle peut dire : « Je préfère ne pas partager ces images. Si cela change, je te le dirai. » Cette formulation laisse l’initiative du changement à la personne concernée. Elle ne crée pas une promesse de révélation ultérieure. Le caractère révisable de la vie privée ne transforme pas le refus présent en attente à contourner. Une limite peut être claire et souple dans le temps, sans devenir négociable à chaque rencontre.
+
+Deux exemples dans cette situation :
+
+- Elle envisage de promettre de ne jamais montrer de photo pour rendre son refus du soir assez ferme.
+- Elle craint qu’une limite formulée pour cette soirée autorise ses amis à demander à chaque rencontre si son avis a changé.
 
 ## Trois techniques pour garder sa vie privée sans dossier justificatif
 
@@ -61,6 +76,12 @@ Cette préparation l’aide à ne pas confondre politesse et justification. Elle
 
 Pour essayer, demandez-vous ce qui doit être compris pour respecter votre choix. Souvent, la consigne pratique est plus limitée que toutes les raisons possibles. Vous pouvez donner ces dernières si vous en avez envie, puis vous arrêter. Si la phrase vous paraît trop exposante, choisissez un canal plus accessible. Une note écrite peut convenir. L’objectif est une limite utilisable, sans exiger une aisance particulière dans la prise de parole.
 
+Pour passer à une action limitée :
+
+1. Écrivez le choix pratique : venir sans photo.
+2. Ajoutez seulement ce que vous souhaitez vraiment partager, comme votre plaisir de retrouver Nora.
+3. Choisissez un canal utilisable et envoyez la formulation sans inventer un obstacle ni promettre une compensation.
+
 ### 2. Préparer une réponse brève à une relance
 
 Salomé imagine une question à table : « Tu n’as vraiment aucune photo à nous montrer ? » Elle prépare : « J’en ai, mais je préfère les garder privées. » Si la question continue, elle peut ajouter qu’elle ne souhaite pas expliquer davantage. Cette réponse distingue l’existence des images et l’autorisation de les voir. Elle n’a pas besoin d’affirmer qu’elles sont douloureuses, rares ou introuvables pour que le choix soit cohérent.
@@ -69,6 +90,12 @@ Nora peut aussi soutenir le cadre en rappelant que chaque partage est facultatif
 
 Une relance peut venir d’un oubli ou d’une curiosité maladroite. Une insistance répétée après une limite claire demande une autre réponse. Vous pouvez interrompre le sujet, vous éloigner ou parler ensuite du comportement. L’exercice ne consiste pas à trouver une phrase si parfaite que personne ne pourrait mal agir. La personne qui reçoit la limite reste responsable de ce qu’elle fait de l’information, même si vous parlez brièvement.
 
+Pour passer à une action limitée :
+
+1. Préparez une réponse qui indique que les photos existent mais restent privées.
+2. Si vous souhaitez un relais de Nora, convenez d’un rappel général du caractère facultatif du partage.
+3. En cas de relances répétées, interrompez le sujet ou éloignez-vous plutôt que chercher une histoire qui justifierait davantage votre choix.
+
 ### 3. Choisir une présence qui ne dépend pas du dévoilement
 
 Salomé se demande ce qu’elle souhaite vivre pendant la soirée. Elle veut écouter quelques récits, manger avec Nora et essayer leur énigme. Elle peut poser des questions auxquelles les autres restent libres de ne pas répondre. Cette attention à la réciprocité l’aide à ne pas transformer son propre droit à la réserve en exception personnelle. Elle souhaite un cadre où chacune et chacun peuvent choisir le degré de partage.
@@ -76,6 +103,12 @@ Salomé se demande ce qu’elle souhaite vivre pendant la soirée. Elle veut éc
 Elle peut aussi sortir prendre l’air si le format devient trop centré sur des confidences qu’elle ne souhaite pas entendre ou commenter. Le choix de sa présence reste ajustable. Elle n’a pas à rester en retrait toute la soirée pour rendre sa limite crédible. Elle peut rire, raconter un souvenir récent et garder ses photos d’enfance. La vie privée n’exige pas une fermeture uniforme sur tous les contenus.
 
 Après la rencontre, elle évaluera le respect du cadre plutôt que la quantité de choses qu’elle raconte. Peut-elle dire non, les relances cessent-elles, le groupe lui laisse-t-il une place ordinaire ? Ces questions permettent de regarder l’environnement. Si la réserve est accueillie, elle dispose d’un appui pour d’autres échanges. Si elle est tournée en ridicule, le problème ne sera pas seulement sa difficulté à expliquer : la relation demandera aussi un ajustement.
+
+Pour passer à une action limitée :
+
+1. Repérez ce que vous voulez faire à la soirée : écouter, manger ou jouer.
+2. Choisissez vos partages éventuels séparément, sans que l’un ouvre tous les autres souvenirs.
+3. Après, regardez si le cadre a respecté vos choix et ajustez votre participation future en fonction de cette réponse.
 
 ## La boîte reste sur l’étagère
 

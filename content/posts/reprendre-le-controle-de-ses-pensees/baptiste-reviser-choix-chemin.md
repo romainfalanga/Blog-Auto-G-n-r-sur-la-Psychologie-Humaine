@@ -35,13 +35,28 @@ Réviser ne demande pas de transformer chaque effort abandonné en apprentissage
 
 Baptiste ressent qu’arrêter laisserait du temps perdu. Pourtant, une poursuite demanderait encore des ressources et pourrait retarder une réponse plus adaptée au besoin. Il peut examiner les conséquences futures séparément du souhait de rendre le passé satisfaisant. Le temps consacré ne disparaîtra pas si le projet s’arrête ; il ne sera pas automatiquement récupéré si le projet continue. Cette distinction n’autorise pas à ignorer un engagement en cours ou les conséquences d’un retrait. Elle invite à vérifier ce qui reste réellement dû, ce qui peut être terminé proprement et ce qui ne doit pas être prolongé seulement pour sauver une image.
 
+Exemples concrets
+
+- Baptiste cherche un public à la fiche arrêtée avant d’avoir identifié un besoin actuel.
+- Poursuivre pour rentabiliser la mise en page ajouterait du travail sans rendre les heures passées récupérables.
+
 ### Changer d’option semble changer de personne
 
 Baptiste a défendu la lisibilité de sa proposition et peut craindre que la révision le rende incohérent. Il peut montrer les informations qui ont modifié son avis au lieu de présenter son premier choix comme une conviction intangible. La constance ne réside pas toujours dans le même moyen ; elle peut aussi se trouver dans la manière de regarder les besoins et de tenir les accords. Une personne peut rester attentive à la coopération en abandonnant un outil. D’autres pourront être déçues ou en désaccord. La cohérence n’exige pas qu’elles approuvent toutes immédiatement la nouvelle lecture.
 
+Exemples concrets
+
+- Abandonner la nouvelle fiche semble à Baptiste contredire son souci de clarté.
+- Expliquer à Emmanuel les observations nouvelles permet de garder cette direction avec un autre moyen.
+
 ### On veut soit conserver tout le passé, soit le condamner entièrement
 
 Le projet contient des pages inutilisées, des remarques pertinentes, une consultation trop étroite puis des retours plus riches. Ces éléments ne portent pas tous le même jugement. Baptiste peut conserver les informations utiles et reconnaître une omission sans réhabiliter chaque décision. Il peut également laisser de côté une partie du travail sans se décrire comme incapable. Cette séparation aide à préparer une suite concrète. Elle évite que le dossier soit transformé en monument à préserver ou en preuve à faire disparaître. Une révision utile garde ce qui sert encore, avec une trace suffisante pour comprendre pourquoi la direction change.
+
+Exemples concrets
+
+- La consultation trop étroite et les observations utiles coexistent dans le même dossier.
+- Ranger une page sans usage n’oblige pas à effacer les questions transmises par les lecteurs.
 
 ## Trois pistes pour choisir la suite sans sauver tout le passé
 
@@ -49,13 +64,31 @@ Le projet contient des pages inutilisées, des remarques pertinentes, une consul
 
 Baptiste reprend le problème actuel : certaines personnes ne comprennent pas la même chose dans une consigne du support existant. Il compare une clarification, une modification de présentation et la préparation d’un autre outil, selon leurs conditions et les validations nécessaires. Il ne choisit pas la première option uniquement parce qu’elle semble plus petite ou moins coûteuse. Elle doit répondre au besoin. Il conserve les incertitudes et les questions spécialisées au lieu de les remplir par son intuition. Cette comparaison peut aussi montrer que plusieurs actions seront nécessaires. L’objectif n’est pas de prouver que la nouvelle idée est parfaite, mais de reconnaître que l’information disponible n’accorde plus le même poids aux solutions qu’au début du projet.
 
+Exercice pratique
+
+- Reformulez le problème actuel de compréhension du support existant.
+- Comparez clarification, présentation et nouvel outil selon ce besoin.
+- Soumettez les questions de validation aux personnes compétentes avant tout usage.
+
 ### 2. Distinguer ce qui reste utile, ce qui demande une fin et ce qui s’arrête
 
 Baptiste conserve les observations de lecture et les questions des équipes. Il prépare une explication courte pour les participants à l’essai afin qu’ils sachent pourquoi la version ne sera pas poursuivie. Cette information fait partie des engagements à tenir ; elle ne disparaît pas avec l’outil. Les pages de mise en forme sans usage prévu sont rangées comme travail arrêté, sans chercher immédiatement à les imposer à un autre groupe. Cette distinction demande parfois une discussion avec les personnes concernées. Certaines tâches ne peuvent pas être interrompues sans conséquence ou sans relais. Réviser un choix reste une action responsable, pas seulement une permission intérieure de partir dès qu’une autre option semble plus attirante.
 
+Exercice pratique
+
+- Gardez les observations de lecture utiles à la suite.
+- Préparez l’information due aux participants sur l’arrêt de la version.
+- Rangez les pages sans usage prévu comme travail arrêté, sans chercher à les imposer ailleurs.
+
 ### 3. Annoncer la nouvelle direction et une prochaine étape proportionnée
 
 Baptiste peut expliquer ce qui a changé dans la compréhension du besoin, ce qui est conservé et ce qui doit encore être validé. Il ne présente pas l’ajustement comme un triomphe destiné à effacer toute déception. Il peut reconnaître le travail fourni et les réserves des participants. La prochaine action sera limitée : réunir les éléments nécessaires à la clarification, puis les soumettre aux interlocuteurs compétents. Elle ne devient pas automatiquement un nouveau grand projet pour remplacer celui qui s’arrête. Une limite de temps et un point de bilan peuvent éviter de reproduire la même pression sous une autre forme. Si la révision réveille un reproche personnel sans fin, un appui extérieur peut aider à le distinguer des tâches et responsabilités réelles qui restent à traiter.
+
+Exercice pratique
+
+- Expliquez à Patricia et Emmanuel ce qui a modifié votre lecture du besoin.
+- Définissez la proposition courte à préparer et ses limites.
+- Fixez le prochain examen dans le cadre de validation, sans relancer la fiche arrêtée.
 
 ## Deux fiches détachées du mur
 

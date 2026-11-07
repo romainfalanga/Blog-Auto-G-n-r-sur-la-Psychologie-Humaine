@@ -41,6 +41,11 @@ Cette attente transforme l'invisibilité en obligation de preuve. Pourtant, ses 
 
 Tout le monde ne répondra pas idéalement. Une remarque maladroite peut survenir, même dans une relation affectueuse. Anaïs peut choisir de la clarifier ou de la reprendre plus tard. Elle n'a pas à démontrer sa fatigue en poursuivant une tâche qui lui coûte trop, simplement parce qu'un invité ne sait pas immédiatement comment réagir.
 
+Exemples concrets
+
+- Avant l’arrivée des amis, elle attend que ses mains lâchent les assiettes pour envisager de s’asseoir.
+- Si un invité la trouve souriante, elle hésite à demander qu’il porte le dessert.
+
 ### L'accueil devient une preuve d'égalité
 
 Elle veut être une amie parmi les autres, et non le sujet de toutes les attentions. Elle cherche cette égalité dans une quantité identique de gestes : servir, débarrasser, se lever autant que chacun. Mais les coûts ne sont pas identiques. Copier la part visible des autres peut lui laisser moins de place dans les conversations qu'elle souhaite partager.
@@ -49,6 +54,11 @@ Une rencontre plus égalitaire peut organiser les contributions autrement. Anaï
 
 Elle peut également dire ce qu'elle ne souhaite pas : qu'on commente chaque fois qu'elle se lève, qu'on surveille son assiette ou qu'on lui propose sans cesse des solutions médicales. Recevoir de l'aide n'autorise pas tout le monde à diriger sa journée. Le respect accompagne le soutien concret.
 
+Exemples concrets
+
+- À table, se lever pour chaque plat lui laisse moins de disponibilité pour écouter Mireille.
+- Elle pourrait refuser qu’on serve le café à sa place, afin de faire autant de gestes que les invités.
+
 ### La pause crée une dette imaginaire
 
 Si elle s'assied maintenant, Anaïs se promet déjà de tout ranger après le départ. Elle remplace une activité actuelle par une autre, plus tardive, pour rendre la pause acceptable. Le repos ne trouve ainsi aucune place nette. Il devient un délai entre deux moments où elle prouve sa participation.
@@ -56,6 +66,11 @@ Si elle s'assied maintenant, Anaïs se promet déjà de tout ranger après le d�
 Cette dette n'est pas forcément demandée par Benoît. Il souhaite parfois simplement que certaines tâches soient réparties, sans attendre une compensation exacte. Lorsqu'elle anticipe seule le remboursement, elle ne lui laisse même pas la possibilité de proposer un autre accord. Elle se retrouve avec une obligation qu'ils n'ont jamais négociée.
 
 La répartition peut néanmoins être déséquilibrée pour lui aussi. L'enjeu n'est pas de déclarer toute demande illégitime parce qu'Anaïs est malade. Il est d'en parler sur la durée, avec les contraintes des deux personnes, plutôt que d'utiliser chaque pause comme occasion d'un règlement de comptes domestique.
+
+Exemples concrets
+
+- Assise avant le repas, elle se promet déjà de ranger seule la cuisine après le départ.
+- Si Benoît débarrasse, elle envisage de prendre tout le linge le lendemain sans lui en parler.
 
 ## 3 techniques pour donner une place réelle au repos
 
@@ -67,6 +82,16 @@ Cette décision ne porte pas sur la qualité générale de son accueil. Elle con
 
 Anaïs formule cette fin à Benoît pour qu'ils partagent le repère : « Pour moi, c'est prêt. Je m'assieds et on n'ajoute pas de préparation. » Il peut signaler un oubli concret. Ils ne reprennent pas toute la liste pour rechercher une perfection qui se déplace à chaque vérification.
 
+Pour essayer dans cette situation
+
+Objectif : Arrêter les préparatifs au niveau nécessaire à la rencontre.
+
+1. Regarder avec Benoît si le repas, les places et les conditions d’hygiène sont prêts.
+2. Laisser les serviettes telles quelles et nommer la fin des préparatifs.
+3. S’installer pour la pause choisie sans ajouter une dernière tâche de décoration.
+
+Une fin concrète peut préserver du temps pour la rencontre plutôt que déplacer sans cesse le moment de s’arrêter.
+
 ### 2. Annoncer le besoin avant qu'il devienne une urgence
 
 Elle prépare une phrase simple pour les invités : « Je suis contente de vous voir. Je suis fatiguée aujourd'hui, alors je vais rester davantage assise et vous laisser servir certaines choses. » La phrase relie sa présence, son besoin et l'organisation. Elle évite de laisser les autres interpréter son retrait comme un manque d'intérêt.
@@ -75,6 +100,16 @@ Elle n'a pas à fournir davantage d'informations médicales que ce qu'elle souha
 
 Dans une autre situation, notamment au travail, les modalités diffèrent. Une difficulté récurrente exige un cadre adapté, une évaluation et des protections. Une annonce informelle aux collègues ne remplace pas un aménagement nécessaire. Anaïs conserve cette distinction entre l'organisation d'un repas chez elle et celle de son activité professionnelle.
 
+Pour essayer dans cette situation
+
+Objectif : Informer les invités d’un besoin pratique sans récit médical public.
+
+1. Choisir avant leur arrivée la phrase qu’Anaïs souhaite dire sur sa fatigue.
+2. Demander à Mireille de poser le dessert et à Benoît de servir les plats selon leur accord.
+3. Préciser qu’elle préfère ensuite discuter du spectacle, si elle ne veut pas poursuivre les questions de santé.
+
+Cette annonce peut rendre les rôles plus lisibles et laisser à Anaïs le choix des sujets.
+
 ### 3. Garder la pause sans la soumettre à un résultat
 
 Anaïs choisit une période moins sollicitante, dans une installation qui lui convient et respecte les conseils reçus. Elle ne se demande pas toutes les minutes si elle récupère assez. Une surveillance constante transformerait la pause en examen. Elle peut laisser la conversation ou une activité calme exister sans mesurer immédiatement son efficacité.
@@ -82,6 +117,16 @@ Anaïs choisit une période moins sollicitante, dans une installation qui lui co
 Après, elle regarde ce qui reste possible. Elle peut poursuivre la rencontre, demander un autre relais ou se retirer plus tôt. L'arrangement garde une souplesse, car son état ne répond pas à un horaire précis. Le fait de ne pas pouvoir reprendre toutes les tâches ne rend pas la pause inutile ni mensongère.
 
 Si la fatigue change, persiste de façon préoccupante ou s'accompagne de manifestations inhabituelles, elle en parle à son équipe médicale. Elle ne compense pas ce questionnement par une multiplication d'exercices ou par une modification de ses soins. Le repos quotidien et le suivi restent deux dimensions qui se complètent.
+
+Pour essayer dans cette situation
+
+Objectif : Garder une pause sans dette de travail automatique.
+
+1. Choisir une place et un moment moins sollicitants compatibles avec les conseils reçus.
+2. Ne pas conclure pendant la pause ce qu’elle devra obligatoirement accomplir ensuite.
+3. Avec Benoît, regarder après le repas ce qui peut attendre et qui est réellement disponible.
+
+L’accord porte sur les tâches restantes plutôt que sur une preuve de récupération.
 
 ## Le dessert à sa place
 

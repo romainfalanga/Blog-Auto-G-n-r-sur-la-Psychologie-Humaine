@@ -6,6 +6,14 @@ import {scenarios} from './fixtures/recommendation-scenarios.mjs';
 const rows=[['anger','Colère','Conflit'],['grief','Deuil','Famille'],['perfection','Perfectionnisme','Travail'],['seed','Limites','Travail'],['gratitude','Gratitude','Finances']].map(([id,...keywords],index)=>({id,keywords,title:keywords.join(' '),character:'Personnage'+index,url:'/'+id,sujet:keywords[0]}));
 const engine=createRecommender(rows),at=Date.parse('2026-11-03');
 const r=ctx=>engine.recommend(ctx,{now:at});
+test('all verified editorial provenances retrieve an implicit topic while unknown links stay unused',()=>{
+ for(const pattern_source of ['editorial_pack_v10_reviewed_story','editorial_pack_v10_and_coverage_reviewed_story','psychology_coverage_reviewed_story']){
+  const examples=[{id:'reviewed',title:'Après la réunion',url:'/reviewed/',pattern_ids:['rumination'],pattern_source},{id:'unreviewed',title:'Dans la cuisine',url:'/unreviewed/',pattern_ids:['rumination'],pattern_source:'unrecognized_review'}];
+  const result=createRecommender(examples).recommend({sources:[]},{query:'Pensées en boucle',includeLiked:true});
+  assert.ok(result.some(row=>row.id==='reviewed'),pattern_source);
+  assert.equal(result.some(row=>row.id==='unreviewed'),false,pattern_source);
+ }
+});
 test('zero likes with declared event, relationship or memory produces sourced suggestions',()=>{
  for(const ctx of [{events:[{id:'e',description:'Je souhaite explorer la colère.'}]},{people:[{id:'p',relationship_text:'Je souhaite explorer la colère.'}]},{memory:{text:'Je souhaite explorer la colère.'}}]){
   const a=r(ctx);assert.equal(a[0].id,'anger');assert.equal(a[0].reason_sources[0].kind,'request');assert(engine.provisionalPortrait(ctx));

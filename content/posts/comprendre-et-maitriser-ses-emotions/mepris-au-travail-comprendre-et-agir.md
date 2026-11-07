@@ -36,13 +36,19 @@ Le mépris au travail ne s'exprime que rarement par des insultes directes. Il pr
 
 Cette forme de mépris se manifeste par le fait d'ignorer systématiquement les interventions d'un collègue lors d'une réunion. On ne contredit pas la personne, on fait comme si elle n'avait pas parlé. Cela se traduit par l'absence de feedback, le regard qui fuit quand l'autre prend la parole, ou le fait de ne pas l'inclure dans des boucles de mails essentielles. Pour Fabien, cela ressemble aux silences de son père, une manière de signifier que sa présence n'a aucun impact sur l'environnement. Cette nappe phréatique invisible de l'inhibition relationnelle, qu'il a héritée de sa lignée, trouve ici un écho professionnel violent qu'il doit apprendre à contrer.
 
+**Deux situations à documenter si elles se produisent :** la proposition de Fabien est ignorée à plusieurs réunions alors que d’autres sont examinées. Il ne reçoit pas un courriel indispensable à son dossier. Il faut vérifier les circonstances ; une omission isolée ne prouve pas une volonté de l’écarter.
+
 ### L'ironie et la condescendance
 
 Ici, on utilise l'humour pour rabaisser. Ce sont les petites phrases sur l'incapacité supposée à comprendre les nouvelles technologies ou l'usage de diminutifs infantilisants. Cette forme de mépris au travail utilise souvent le sarcasme pour maintenir une distance hiérarchique ou intellectuelle factice. Le donneur d'ordre ou le collègue se place en position de sachant universel, transformant chaque échange en une leçon non sollicitée qui vide l'autre de sa crédibilité professionnelle.
 
+**Deux exemples possibles :** une remarque répétée sur l’âge de Fabien remplace une réponse sur le compte rendu. Un diminutif rabaissant est utilisé devant l’équipe quand il demande un chiffre. À l’inverse, le sourire observé dans la scène garde plusieurs interprétations.
+
 ### La remise en cause des compétences de base
 
 Cela se traduit par un contrôle excessif, une forme de micromanagement déguisé en aide. On réexplique des concepts élémentaires à un cadre expérimenté comme Fabien, ou on lui demande de justifier chaque minute de son emploi du temps. C'est une négation de son parcours et de son expertise. Cette manifestation du mépris au travail est particulièrement destructrice pour les profils analytiques qui ont besoin d'autonomie et de reconnaissance de leur compétence pour se sentir investis.
+
+**Deux situations à distinguer :** demander la source d’un chiffre est une question professionnelle ordinaire. Répéter devant l’équipe que Fabien est incapable de lire le tableau, sans examiner sa réponse, serait un propos rabaissant à relever. Le degré de contrôle, à lui seul, n’établit pas l’intention.
 
 ## Techniques pour agir face au mépris
 
@@ -50,15 +56,33 @@ Pour ne pas se laisser consumer par le mépris au travail, il est utile de sorti
 
 ### 1. La technique du miroir factuel
 
-Cette méthode consiste à décrire objectivement le comportement de l'autre sans porter de jugement de valeur, afin de le placer face à ses propres actes. Lorsque vous identifiez un signe de dédain, nommez-le froidement. Par exemple, si un collègue lève les yeux au ciel pendant que vous parlez, vous pouvez dire : j'observe que tu lèves les yeux au ciel au moment où j'aborde le budget, est-ce que cela signifie que tu as une objection technique à formuler ? En faisant cela, vous transformez une attaque émotionnelle invisible en un sujet de discussion concret, ce qui laisse à l’interlocuteur la possibilité de préciser son objection.
+**Objectif :** Revenir à l’objet professionnel de la remarque si un échange direct est possible.
+
+1. Distinguer les mots entendus du sens prêté au sourire, sans chercher à lire l’expression du consultant.
+2. Demander quel passage du compte rendu pose problème, en montrant le document.
+3. Noter la précision obtenue ou clore l’échange s’il devient rabaissant ; choisir un appui si nécessaire.
+
+Une question précise peut clarifier un désaccord. Elle ne garantit ni respect ni sécurité et ne doit pas devenir une confrontation imposée.
 
 ### 2. Le recadrage interne de la valeur
 
-Vous pouvez vous rappeler un fait concret de votre travail pour remettre la remarque en perspective. Cela n’oblige ni à deviner les motivations de l’autre ni à faire seul le travail de prévention.
+**Objectif :** Séparer une remarque du bilan de tout son travail.
+
+1. Relever la critique exacte et la question professionnelle qu’elle pose, s’il y en a une.
+2. Rappeler un fait vérifiable, par exemple la source du chiffre ou la remise du compte rendu, sans devoir prouver sa valeur humaine.
+3. Décider de la suite utile : vérifier le chiffre, préparer la prochaine réunion ou demander un conseil extérieur.
+
+Ce recul peut aider à choisir une réponse. Il ne rend pas Fabien responsable de la prévention des humiliations dans l’entreprise.
 
 ### 3. La communication non-violente appliquée au cadre pro
 
-Il s'agit d'exprimer votre besoin de respect sans attaquer. La formule consiste à énoncer un fait précis, l'émotion ressentie, le besoin professionnel et enfin une demande claire. Par exemple : quand mes propositions sont écartées sans analyse, je me sens frustré car j'ai besoin de collaboration pour avancer, j'aimerais que nous prenions dix minutes pour les examiner sérieusement. Cette technique demande du courage, mais elle impose une limite claire et montre que vous ne validez pas le jeu de pouvoir instauré par le mépris.
+**Objectif :** Préparer une demande professionnelle sans s’obliger à confronter le consultant.
+
+1. Choisir si la demande sera directe, écrite ou portée avec un appui, notamment en cas de répétition ou de crainte de représailles.
+2. Formuler le fait et son incidence : une proposition écartée sans examen laisse une question de dossier sans réponse.
+3. Demander une suite précise, comme examiner le passage concerné ; si les faits continuent, solliciter les ressources de prévention citées en conclusion.
+
+Une demande explicite peut préciser ce qui est nécessaire au travail. Aucun format de communication ne garantit que l’autre respectera une limite.
 
 ## La question après le sourire
 

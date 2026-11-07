@@ -35,33 +35,54 @@ Bernard parle en meubles. Le buffet réparé, la chaise restaurée, la table off
 
 La table d’atelier que Bernard finit pour Éric comporte un tiroir assez profond pour ses outils. C'est une manière de dire qu'il connaît ses besoins sans prononcer un mot.
 
+**Autre exemple situé :** dans le tiroir de la table, la note « Pour tes outils » précise à Éric ce que Bernard avait en tête. Un objet et son commentaire peuvent être reçus différemment : Bernard peut demander si cet aménagement lui sera utile.
+
 ### 2. Le soin quotidien et la constance
 La tendresse s'exprime aussi par la régularité : appeler pour demander si tout va bien, laisser du pain dans le frigo, réparer la poignée de la voiture de son fils. Ces petits gestes répétés créent une trame de sécurité affective.
 
 Bernard n'appelle pas souvent, mais quand il remarque par hasard qu'Éric manque d'une table de chevet, il en fabrique une et la laisse sur le palier. Ce geste, fait sans annonce, est une marque d'attention durable.
+
+**Autre exemple situé :** Bernard garde l’embout prêt pour le jour où Éric vient chercher son outil et lui dit qu’il a pensé à sa visite. Cette attention ne présume pas de ce dont son fils a besoin ; il peut le lui demander.
 
 ### 3. La présence silencieuse et la disponibilité pratique
 Pour un artisan, être là, aider physiquement, donner un coup de main relève de la tendresse. Porter un sac, prêter une remorque, rester quelques heures pour monter une étagère sont autant de façons concrètes de traduire un attachement.
 
 Lors d'une dispute il y a quelques semaines, Bernard est resté au garage, sans intervenir, mais la nuit suivante il refait les serrures et renvoie un message laconique. Sa présence matérielle indique qu'il veille, même si ses mots manquent. Il a cessé de voir son atelier comme un simple refuge contre le chagrin pour en faire un lieu de réconciliation possible.
 
+**Deux exemples sans imposer d’aide :** Bernard propose de chercher l’embout pendant qu’Éric décrit la vis grippée. Pour régler le tiroir, il lui demande quel samedi lui conviendrait. Une disponibilité proposée laisse à l’autre le choix de l’accepter.
+
 ## Techniques pour exprimer la tendresse
 Voici trois techniques simples, adaptées à un parent réservé comme Bernard. Chacune est présentée avec un exercice concret à pratiquer.
 
 ### 1. Nommer l'intention
-Cette technique consiste à verbaliser l'intention derrière un geste. Pour l'exercice, il s'agit de choisir un geste habituel comme réparer un meuble ou préparer un repas. Avant d'offrir le geste, il convient de dire une phrase courte et factuelle : "Je t'ai réparé cette chaise pour que tu l'aies" ou "J'ai pensé à toi en refaisant la table".
 
-Répéter cet exercice trois fois la semaine suivante permet d'introduire progressivement la verbalisation sans forcer sur l'intimité. Cela transforme un message muet en un message reconnaissable par l'enfant.
+**Objectif :** Rendre lisible une attention déjà prévue.
+
+1. Choisir un geste concret, tel que le rangement prévu pour les outils d’Éric.
+2. Préparer une phrase simple : « J’ai pensé à tes outils en faisant ce tiroir. »
+3. La dire ou l’écrire une fois, puis laisser Éric commenter ou passer à autre chose.
+
+Le mot peut préciser le sens du geste. Aucune fréquence n’est nécessaire et aucun remerciement n’est dû en échange.
 
 ### 2. Proposer un geste et respecter la réponse
-Avant un geste de contact, demandez ou vérifiez que la personne en a envie. Un signe de la main, un mot ou une poignée de main proposée conviennent aussi. Une habitude n’est pas un accord donné pour chaque fois.
 
-Si l’autre se retire ou hésite, respectez cette limite et choisissez une autre forme d’attention.
+**Objectif :** Exprimer une affection qui respecte le confort d’Éric.
+
+1. Attendre que chacun ait posé les outils et soit disponible.
+2. Demander s’il peut poser sa main sur l’épaule, ou proposer simplement un mot sans contact.
+3. Respecter la réponse et tout retrait ultérieur, puis reprendre l’échange sans réclamer d’explication.
+
+La demande peut rendre l’attention plus ajustée. Une habitude n’est pas un accord permanent et un refus du contact n’est pas un refus de la relation.
 
 ### 3. Le partage d'une compétence
-Transformer une transmission de savoir-faire en moment relationnel est une méthode efficace. Le parent identifie une tâche qu'il maîtrise, comme teinter le bois ou régler un outil, et propose à l'enfant un petit atelier de trente minutes.
 
-Pendant la session, il s'agit de poser trois phrases clés pour expliquer, encourager et complimenter. Enseigner est un moyen d'être proche sans forcer l'expression émotionnelle. Le parent montre sa confiance dans l'autre et crée des souvenirs partagés.
+**Objectif :** Proposer un temps commun qui intéresse aussi Éric.
+
+1. Demander s’il a envie de regarder ensemble le réglage du tiroir, et convenir d’un moment.
+2. Choisir une tâche familière et sûre, outils motorisés arrêtés pour toute discussion, puis écouter sa manière de faire.
+3. À la pause, dire ce qu’il a apprécié du moment et laisser ouverte une suite sans obligation.
+
+Une activité choisie peut soutenir un échange. Éric peut préférer un café ou une autre rencontre ; l’objectif n’est pas une leçon réussie.
 
 ## Demander avant de poser la main
 Aujourd’hui, dans l’atelier, Bernard garde ses outils sur l’établi. Quand Éric se tourne, il lui demande s’il peut lui poser la main sur l’épaule. Éric acquiesce, surpris. Le geste est bref et Bernard laisse son fils reprendre sa place à l’établi.

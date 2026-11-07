@@ -20,45 +20,74 @@ Djamila sent ses mains devenir moites. Elle se rappelle sa prise de conscience l
 Elle pose ses paumes à plat sur la table en bois mélaminé. Le contact froid du bureau l'aide à ne pas exploser. Elle ne veut pas redevenir cette femme qui subit en silence, ni celle qui hurle pour être entendue. Son regard vigilant se fixe sur les mains d'Antoine. Elle se demande si cette rage qui l'étouffe est proportionnée à l'instant présent ou si elle est en train de payer pour toutes les fois où Samir a bafoué ses droits sans jamais être inquiété. Le sentiment d'injustice en situation de conflit devient un brouillard épais qui l'empêche de réfléchir calmement.
 
 ## Définition du sentiment d'injustice
-
 Le sentiment d’injustice peut surgir lorsqu’une décision, une parole ou une pratique paraît violer un droit, une règle ou une attente. Les [travaux de Melvin Lerner et Carolyn Simmons](https://pubmed.ncbi.nlm.nih.gov/5969146/) sur la réaction des observateurs face à une personne lésée ont notamment exploré le fait de dévaloriser une victime innocente dans certaines conditions expérimentales. Ils ne font pas de chaque sentiment d’injustice un effet d’une croyance en un monde juste.
 
 Pour Djamila, ce qu’elle vit au bureau fait aussi écho à des humiliations passées. Cela n’annule pas la question présente : la famille qu’elle accompagne a besoin d’une réponse et elle n’en a pas encore reçu.
 
 ## Manifestations du sentiment d'injustice en situation de conflit
-
 Une forte colère peut pousser à réagir vite ou à revenir longtemps sur l’échange. Elle peut aussi alerter sur un problème réel. Les émotions, les faits observés et les décisions à prendre sont trois éléments à considérer.
 
 ### 1. La rumination mentale et la préparation de plaidoiries
 
-La manifestation la plus fréquente est le monologue intérieur incessant. Le sujet passe des heures à construire des argumentaires juridiques ou moraux dans sa tête pour prouver qu'il a raison. Djamila, par exemple, imagine déjà tout ce qu'elle dira à la direction pour dénoncer l'inaction d'Antoine. Cette rumination alimente une colère froide qui empêche toute résolution pragmatique du problème, car l'esprit est focalisé sur la validation du préjudice plutôt que sur la recherche d'une issue.
+Djamila reprend les arguments qu’elle voudrait adresser à la direction pour faire reconnaître la situation. Préparer une démarche peut être utile ; elle remarque une boucle lorsque les mêmes phrases reviennent sans préciser la réponse attendue, le délai ou le prochain interlocuteur. Cela n’annule pas le préjudice dont elle veut parler.
+
+Exemples situés :
+
+- Djamila peut préparer toute une plainte à la direction pendant qu’elle attend encore une réponse sur le relogement.
+- Elle reprend mentalement sa dernière réplique au lieu d’identifier qui pourra décider si le report se prolonge.
 
 ### 2. L'hypersensibilité aux signaux de mépris
 
 Le regard baissé d’Antoine rappelle à Djamila le mépris de Samir. Elle peut reconnaître que ce souvenir joue un rôle et garder la question professionnelle ouverte : est-ce que la demande a été entendue, et comment obtenir une réponse ?
 
+Exemples situés :
+
+- Le regard d’Antoine sur son téléphone rappelle le mépris de Samir, alors que la demande professionnelle actuelle reste à traiter.
+- Une réponse courte peut lui faire anticiper une nouvelle humiliation avant de savoir quel délai ou quelle pièce est en cause.
+
 ### 3. Le besoin de réparation immédiate ou de vengeance
 
 Le besoin d’être entendu ou d’obtenir réparation peut être pressant. Si l’échange s’envenime, il est possible de le suspendre, de faire appel à un tiers ou de suivre la procédure prévue. La colère de Djamila ne lui attribue pas la responsabilité des agissements d’autrui.
 
-## Techniques pour agir face au sentiment d'injustice
+Exemples situés :
 
-Apprendre à gérer cette émotion demande de différencier les faits des blessures du passé. Voici des méthodes concrètes pour retrouver de la clarté.
+- Elle veut obtenir immédiatement d’Antoine la reconnaissance du tort, même si la décision urgente pour la famille doit aussi être cherchée ailleurs.
+- Après un nouveau report, elle peut avoir envie de répondre sur le même ton ; noter le délai et demander un relais demeure une autre possibilité.
+
+## Techniques pour agir face au sentiment d'injustice
+Ces propositions sont facultatives et ne remplacent pas une réponse de protection lorsqu’elle est nécessaire.
 
 ### 1. La technique de la double colonne de validation
 
-Cet exercice consiste à séparer physiquement les faits objectifs des ressentis émotionnels sur une feuille de papier. Dans la colonne de gauche, listez uniquement ce qui est incontestable par une caméra ou un témoin neutre (exemple : Antoine n'a pas répondu à ma question pendant trois minutes). Dans la colonne de droite, notez l'interprétation et l'émotion associée (exemple : il me traite comme Samir le faisait, c'est insupportable). Cet exercice permet de valider votre émotion sans la laisser piloter votre réaction. Djamila peut ainsi se dire que sa colère est légitime au vu de son histoire, mais que pour aider la famille en détresse, elle doit s'appuyer uniquement sur les faits de la colonne de gauche lors de son prochain échange.
+Objectif : Distinguer les observations, leurs limites et le ressenti sans nier le préjudice.
+
+1. Noter les paroles et gestes dont Djamila se souvient, en indiquant les approximations plutôt que supposer une caméra ou un témoin parfaitement neutre.
+2. À côté, écrire l’émotion et ce qu’elle redoute, puis distinguer les intentions qu’elle ne peut pas vérifier.
+3. Formuler la réponse nécessaire au dossier et le contact à solliciter, sans attendre que la colère disparaisse si la sécurité d’une personne exige une action.
+
+Utilité possible : La note peut soutenir une demande précise et rendre l’expérience dicible. Elle ne retire pas la valeur de son témoignage et ne réduit pas une injustice à son interprétation.
 
 ### 2. Le questionnement de la règle universelle
 
-Demandez-vous quelle attente est en jeu : une préférence personnelle, une règle de travail ou un droit. Dans la scène, Djamila distingue le ton qui l’a blessée de l’urgence du dossier et des obligations professionnelles. Quand une personne est en danger, l’action requise n’a pas à attendre que l’émotion retombe.
+Objectif : Préciser ce qui est attendu dans la situation professionnelle.
+
+1. Nommer le besoin actuel : une réponse sur la situation de la famille, distincte du ton qui a blessé.
+2. Chercher la procédure ou le rôle compétent permettant de traiter ce besoin, sans décider seule d’une qualification juridique.
+3. Poser la question sur le délai et le recours approprié si la décision manque, en donnant priorité aux mesures prévues en cas de danger.
+
+Utilité possible : Distinguer les attentes peut aider à choisir une démarche. L’exercice n’oblige pas à tolérer le mépris ni à régler seule un problème d’organisation.
 
 ### 3. La méthode du tiers médiateur interne
 
-Djamila imagine ce qu’elle demanderait à une collègue qui lui raconterait cette scène. Quelle réponse attend-elle, depuis quand et qui peut la lui donner ? Elle peut poser ces mêmes questions pour préparer la suite. Prendre le temps de choisir à qui s’adresser ne signifie pas qu’elle doit écarter sa colère ou régler le problème seule.
+Objectif : Préparer une suite à partir des questions que Djamila poserait dans son métier.
+
+1. Imaginer les questions utiles à une collègue : quelle réponse manque, depuis quand et pour quelle situation ?
+2. Répondre avec les informations disponibles et laisser les inconnues visibles.
+3. Choisir l’interlocuteur ou l’appui concret à contacter, plutôt que demander uniquement si elle avait raison d’être en colère.
+
+Utilité possible : Cette mise en ordre peut rendre l’aide plus facile à demander. Un tiers imaginé ne remplace pas un relais réel ou une procédure de protection.
 
 ## Deux dates à noter
-
 « On verra ça demain », dit Antoine. Djamila rassemble ses feuilles. Elle a encore envie de lui répondre sur le même ton, et la réunion de mardi lui revient. Cette fois, elle sait ce qu’elle lui a remis et ce qu’elle n’a pas obtenu : une décision, ou au moins un délai auquel se tenir.
 
 À côté de l’école d’Adam, elle sort son carnet. Elle écrit la date de sa première demande et celle du report. Au-dessous : « Qui peut trancher si ce n’est pas fait demain ? » Elle pourra poser cette question à une collègue sans lui demander si elle a eu raison d’être en colère.
@@ -71,4 +100,4 @@ Le sentiment d'injustice est l'une des émotions les plus difficiles à réguler
 
 Mettre les faits par écrit peut aider à choisir une démarche. Cela ne retire rien au préjudice et ne transfère pas la responsabilité de l’injustice à la personne qui la subit.
 
-Si vous sentez que ce sentiment d'injustice devient omniprésent au point de paralyser votre quotidien ou vos relations, solliciter l'aide d'un psychologue spécialisé dans les traumatismes peut être une démarche utile. Un accompagnement professionnel permet de traiter les racines de ces blessures et d'apprendre à construire des frontières solides qui vous protègeront durablement.
+Si vous sentez que ce sentiment d'injustice devient omniprésent au point de paralyser votre quotidien ou vos relations, solliciter l'aide d'un psychologue spécialisé dans les traumatismes peut être une démarche utile. Un accompagnement peut aider à décrire ce qui pèse et à choisir des appuis adaptés. Il ne garantit pas la protection contre les actes d’autrui : les risques concrets et les démarches nécessaires restent à examiner, sans en rendre la personne qui subit l’injustice responsable.

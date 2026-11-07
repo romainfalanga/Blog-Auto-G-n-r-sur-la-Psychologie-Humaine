@@ -33,29 +33,68 @@ Un revers peut faire revenir des doutes familiers. Sophie remarque qu’elle pas
 
 La première manifestation est la transformation d'un incident isolé en une vérité universelle. Pour Sophie, le refus de l'association n'est pas lié à un manque spécifique de management, mais devient la preuve qu'elle est une mauvaise développeuse et qu'elle ne progressera jamais. Cette distorsion cognitive efface des années de travail acharné. Sous le coup de la déception, elle oublie les nuances du courrier, dont le besoin précis exprimé par l’association.
 
+Exemples concrets :
+
+- Le besoin d’expérience en gestion d’équipe devient « je ne réussirai jamais », alors que le mail reconnaît son expertise technique.
+- Elle peut relire le refus comme une preuve qu’elle est mauvaise développeuse, bien que la raison annoncée porte sur un autre rôle.
+
 ### Le retrait social et le désinvestissement
 
 Après ce refus, Sophie envisage un temps de ne plus postuler. Faire une pause peut être légitime ; une seule décision de retrait ne suffit pas à conclure à une « impuissance acquise ». Les [travaux de Maier et Seligman](https://pmc.ncbi.nlm.nih.gov/articles/PMC4920136/) portaient initialement sur l’exposition à des événements aversifs incontrôlables et ne décrivent pas à eux seuls sa réaction.
+
+Exemples concrets :
+
+- Elle envisage de ne plus postuler immédiatement après le courrier ; cela ne fixe pas sa décision pour toutes les offres futures.
+- Accepter de dîner avec Claire ne lui impose pas de parler du recrutement ni de transformer la soirée en nouveau projet de candidature.
 
 ### La compensation par le sur-contrôle
 
 À l'opposé du retrait, certains réagissent par une hyper-vigilance épuisante. Sophie se souvient comment, après ses tensions avec Marc, elle s'était mise à vérifier son code dix fois avant chaque soumission. C'est une tentative désespérée de racheter son image. On cherche à atteindre une perfection absolue pour que plus personne ne puisse trouver de faille. Malheureusement, maintenir ce niveau d’exigence lui coûte du temps. Une erreur ordinaire peut alors lui paraître énorme. Ce besoin de contrôle est souvent une réponse à l'anxiété de performance qui s'est installée depuis ses premières années d'études, où chaque ligne de code devait être irréprochable pour justifier sa place.
 
+Exemples concrets :
+
+- Le souvenir des dix vérifications du code lui propose encore l’idée qu’un travail parfait empêcherait tout refus.
+- Elle pourrait reprendre tout son portfolio pour annuler la déception, alors que le retour disponible concerne l’expérience d’encadrement.
+
 ## Techniques pour agir face à l'échec
 
 Pour briser ce cycle, il est nécessaire d'adopter des outils qui permettent de décentrer le regard et de traiter l'information de manière plus objective.
 
-### 1. La technique des colonnes de preuves
+### 1. Les colonnes de preuves
 
-Sophie peut séparer ce que dit le courrier de ce qu’elle en conclut. Le retour demande plus d’expérience en gestion d’équipe ; il mentionne aussi son expertise technique. Le [relevé des pensées du NHS](https://www.nhs.uk/every-mind-matters/mental-wellbeing-tips/self-help-cbt-techniques/thought-record/) propose de confronter une interprétation aux éléments qui la soutiennent et à ceux qui la nuancent.
+Objectif : Lire le retour disponible sans en faire une note sur toute sa personne.
+
+Exercice pratique :
+
+- Recopiez les éléments du mail : l’expertise technique appréciée et l’expérience d’encadrement recherchée.
+- Séparez les conclusions que vous ajoutez, comme « je ne réussirai jamais », des faits qui les soutiennent ou les nuancent.
+- Écrivez une lecture qui garde aussi les inconnues. Arrêtez si cette relecture devient une boucle supplémentaire.
+
+Utilité possible : Le [relevé des pensées du NHS](https://www.nhs.uk/every-mind-matters/mental-wellbeing-tips/self-help-cbt-techniques/thought-record/) propose cet examen. Un refus peut rester douloureux malgré une lecture plus nuancée.
 
 ### 2. Répondre à sa déception comme à celle d’une amie
 
-Sophie se demande ce qu’elle dirait à Claire si elle recevait le même refus : « Tu avais des raisons de postuler. Tu peux être déçue et réfléchir plus tard à l’expérience de management que tu aimerais acquérir. » Elle essaie de se parler sur le même ton, sans se forcer à revivre un souvenir difficile.
+Objectif : Faire une place à la peine sans ajouter un jugement dévalorisant.
 
-### 3. La réattribution des causes externes
+Exercice pratique :
 
-Le courrier donne une raison : l’expérience en gestion d’équipe. Sophie ignore les autres éléments du recrutement et n’a pas besoin d’en inventer. Elle peut noter ce qu’elle sait, ce qu’elle pourrait demander et ce qui restera inconnu.
+- Nommez ce qui fait mal aujourd’hui : l’attente du poste et la réponse reçue.
+- Cherchez ce que vous diriez à Claire dans ce cas, sans vous forcer à revivre une scène difficile : elle avait des raisons de postuler et peut être déçue.
+- Choisissez ce qui vous conviendrait maintenant, repos ou compagnie par exemple, avant de décider d’une prochaine candidature.
+
+Utilité possible : Une parole avec égard ne transforme pas le refus en bonne nouvelle et ne demande pas de retrouver immédiatement de la confiance.
+
+### 3. Distinguer les causes connues des hypothèses
+
+Objectif : Garder les questions de recrutement à leur portée réelle.
+
+Exercice pratique :
+
+- Notez la raison annoncée, l’expérience en gestion d’équipe, sans inventer les autres critères du recrutement.
+- Séparez ce qui pourrait être demandé à l’association et ce qui restera probablement inconnu.
+- Si vous souhaitez un retour plus précis, préparez une question limitée puis laissez la possibilité d’une réponse incomplète ou absente.
+
+Utilité possible : Le refus peut fournir une information utile sans devenir la preuve d’une incapacité générale ni exiger une cause entièrement connue.
 
 ## La réponse de l’association
 

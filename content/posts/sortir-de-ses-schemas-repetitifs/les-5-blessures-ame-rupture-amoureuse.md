@@ -35,13 +35,28 @@ Le livre de Lise Bourbeau qui présente les « cinq blessures de l’âme » rel
 
 Relire un message peut d’abord servir à vérifier ce que l’autre a dit. La difficulté apparaît quand Isabelle revient au même passage, espère y trouver une réponse nouvelle et finit chaque fois plus inquiète. Ces pensées répétées peuvent occuper une soirée entière. Elle peut observer ce qui se passe après une relecture : lui reste-t-il une question précise et utile ou repart-elle dans la même enquête ?
 
+Exemples concrets
+
+- Isabelle relit le dernier message d’Aurélie en espérant encore y trouver une explication nouvelle.
+- La matinée de relecture lui laisse moins de place pour décider de son samedi.
+
 ### Le silence reçoit parfois un sens trop vite
 
 Lorsque Catherine met quelques heures à répondre, Isabelle pense d’abord qu’elle l’ennuie. Catherine a aussi des journées chargées. Rien ne permet de conclure à son intention à partir de ce seul délai. Dans une relation où une promesse a réellement été rompue, la déception peut être justifiée. Examiner ses interprétations laisse une place à ces deux possibilités.
 
+Exemples concrets
+
+- Quelques heures sans réponse de Catherine deviennent d’abord un signe qu’Isabelle l’ennuie.
+- Le délai seul ne permet pas de savoir si Catherine est disponible pour la promenade.
+
 ### Se tenir occupée peut aider ou fatiguer
 
 Préparer un cours ou cuisiner pour Théo donne parfois à Isabelle un répit bienvenu. À d’autres moments, elle ajoute des tâches alors qu’elle aimerait demander de la compagnie. La différence tient à ce que l’activité lui apporte ce jour-là. Elle essaie de remarquer quand son emploi du temps la soutient et quand il l’épuise.
+
+Exemples concrets
+
+- Cuisiner avec Théo peut offrir un répit qu’Isabelle apprécie.
+- Ajouter des tâches le samedi peut au contraire lui coûter la compagnie qu’elle souhaitait demander.
 
 ## Trois pistes pour retrouver des repères
 
@@ -51,13 +66,43 @@ Choisissez un épisode récent et notez les faits, l’émotion et l’interpré
 
 Le relevé de pensées utilisé en thérapie comportementale et cognitive propose cette distinction. Il peut servir à formuler une question ou à attendre une information, selon la situation. Si la prise de notes ramène à la même discussion sans éclaircir le choix, elle peut s’arrêter là.
 
+**Objectif :** Distinguer l’événement de l’interprétation qui suit.
+
+Exercice pratique
+
+- Séparez « Catherine n’a pas répondu », le sentiment de solitude et l’idée qu’elle s’ennuie.
+- Regardez les éléments disponibles et ce qui reste inconnu.
+- Gardez une phrase prudente puis arrêtez le relevé s’il répète la même enquête.
+
+**Utilité possible :** La distinction peut soutenir un choix sans donner une explication unique à la rupture.
+
 ### 2. Choisir un appui concret
 
 Isabelle hésite à dire à Catherine qu’elle redoute le samedi. Elle pourrait lui demander une promenade de vingt minutes ou appeler une autre amie. Cela n’efface pas le manque d’Aurélie. Une demande à laquelle l’autre peut répondre lui donne toutefois une possibilité pour l’après-midi. Elle garde aussi le droit de préférer un moment seule.
 
+**Objectif :** Trouver une demande de soutien à laquelle l’autre peut répondre.
+
+Exercice pratique
+
+- Choisissez l’appui souhaité pour samedi, par exemple une courte promenade.
+- Demandez à Catherine si elle a ce temps, sans lui confier le rôle de faire disparaître le manque.
+- Gardez une autre possibilité qui vous convient si elle est indisponible ou si vous préférez rester seule.
+
+**Utilité possible :** Une compagnie possible peut compter sans effacer la peine ni imposer le retour au marché.
+
 ### 3. Adapter l’écriture à ce qu’elle vous apporte
 
 Un carnet peut servir à préparer les échanges nécessaires, à garder la trace d’un événement ou à formuler un besoin. Écrire en détail sur une séparation n’aide pas tout le monde. Dans un essai de Sbarra et de ses collègues, certaines personnes séparées, notamment celles qui revenaient beaucoup sur l’événement, ont rapporté davantage de détresse après un exercice d’écriture émotionnelle que dans la condition de comparaison. Isabelle choisit donc quelques lignes sur ce dont elle a besoin aujourd’hui. Quand les notes la replongent dans le dernier échange, elle ferme le carnet.
+
+**Objectif :** Utiliser l’écriture selon son effet vécu.
+
+Exercice pratique
+
+- Choisissez une question pratique d’aujourd’hui plutôt que tout le récit de la séparation.
+- Écrivez quelques lignes sur le besoin ou l’échange nécessaire.
+- Fermez le carnet si les notes vous replongent dans la même relecture et cherchez un appui si la détresse devient difficile.
+
+**Utilité possible :** Un carnet limité peut garder une utilité pratique sans imposer une écriture émotionnelle détaillée.
 
 ## Isabelle décide pour son samedi
 

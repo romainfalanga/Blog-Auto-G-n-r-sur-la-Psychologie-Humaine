@@ -23,39 +23,59 @@ Dans le miroir de l’entrée, elle cherche l’air assuré qu’elle avait quan
 
 « Croyance limitante » est une expression courante pour une idée qui décourage d’agir. Le terme n’est pas un diagnostic. Un [exercice de TCC présenté par le NHS](https://www.nhs.uk/every-mind-matters/mental-wellbeing-tips/self-help-cbt-techniques/thought-record/) propose de noter une pensée et d’examiner les éléments qui la soutiennent ou la nuancent, au lieu de présumer qu’elle est vraie ou fausse.
 
-Pour Margot, ces croyances agissent comme des plafonds de verre psychologiques. Ce ne sont pas des faits, mais des interprétations que son cerveau a fini par valider comme des vérités universelles. Lorsqu'elle se dit qu'elle est trop vieille pour apprendre ou que son passé commercial annule sa capacité à être empathique, elle ne décrit pas la réalité. Elle active un filtre déformant qui occulte ses compétences réelles pour ne laisser place qu'à la peur du jugement. Dans le récit, la peur du jugement fait hésiter Margot. Cela ne signifie pas qu’elle aurait adopté ces pensées pour se protéger.
+Margot peut examiner ce qu’elle conclut d’un silence ou d’une question à reformuler. Certaines difficultés appellent un apprentissage, une limite claire ou des moyens concrets ; d’autres donnent lieu à un jugement sur toute sa personne. Il s’agit de les distinguer, sans présumer qu’une inquiétude est fausse ni qu’elle aurait une fonction cachée.
 
 ## Manifestations des croyances en période de reconversion professionnelle
 
-La transition de carrière est un terrain fertile pour l'émergence de ces barrières mentales. Elles ne se contentent pas de générer du stress, elles sabotent activement les tentatives de changement en créant une dissonance entre qui nous étions et qui nous aspirons à devenir.
+### 1. Une difficulté précise devient une illégitimité générale
 
-### 1. Se sentir illégitime dans un nouveau rôle
+Margot doit encore apprendre à conduire des échanges dans un autre métier. Un point à améliorer peut rester réel sans prouver qu’elle n’a pas sa place dans toute activité d’accompagnement. Son expérience commerciale peut offrir des appuis et comporte aussi des habitudes à revoir.
 
-Dans le cas de Margot, cela se traduit par une dévalorisation systématique de ses acquis. Elle pense que ses vingt-cinq années d'expérience sont des années perdues pour le coaching, alors qu'elles constituent un réservoir immense de compréhension des rapports humains. Cette manifestation pousse souvent les personnes en reconversion à multiplier les formations à l'infini, pensant qu'un certificat de plus calmera enfin cette voix intérieure qui leur dit qu'elles ne sont pas à leur place. La croyance sous-jacente est souvent liée au sentiment de ne pas avoir le droit de réussir dans un domaine où l'on n'a pas passé sa vie entière.
+Elle se rappelle surtout le silence de Claire avant la demande de clarification, en oubliant qu’elles ont trouvé ensemble des mots plus clairs. Elle lit ensuite sa première question comme une clause de contrat et risque d’y voir une incapacité à écouter. Ces deux observations peuvent guider un ajustement, sans servir de verdict sur toute la séance avec Julie.
 
-### 2. La peur du regard social et le poids des étiquettes
+### 2. Le regard imaginé rend la présentation plus difficile
 
-Le changement de statut social est une autre source de manifestations concrètes. Margot craint d'être perçue comme quelqu'un qui fait une crise de la cinquantaine, une étiquette qui décrédibilise sa démarche de quête de sens. Cette croyance limitante se manifeste par une difficulté à présenter son nouveau projet lors de dîners ou de rencontres professionnelles. On bafouille, on minimise son activité, on utilise le conditionnel. On agit comme si on demandait la permission d'exister dans ce nouveau rôle, car on est convaincu que les autres ne nous verront jamais autrement que par notre ancien métier.
+Margot peut chercher l’assurance de son ancien rôle pour entrer dans le nouveau. Mais elle ne connaît pas encore la façon dont Julie comprendra sa proposition. Il faut distinguer ce qu’une autre personne lui dit de la réponse qu’elle imagine.
 
-### 3. La rigidité face à l'incertitude financière et temporelle
+Elle examine son visage dans le miroir en cherchant son ancien air assuré. Elle prépare aussi les questions avant de savoir ce que Julie apportera. Si ces deux préparations visent à ne laisser voir aucune hésitation, elles risquent de prendre la place d’une présentation simple et d’une écoute de la demande réelle.
 
-Enfin, les croyances limitantes en période de reconversion professionnelle portent souvent sur la sécurité. Margot s'inquiète pour ses finances, une peur qu'elle avait déjà explorée sur le parking de sa formation à Lyon après avoir pourtant reçu des retours positifs de Sylvie. Quitter un salaire fixe peut poser un vrai problème financier. Margot peut chiffrer ses dépenses et réfléchir à la façon dont elle veut lancer son activité, sans présumer que toute inquiétude relève d’une croyance.
+### 3. L’incertitude ne concerne pas seulement une pensée
+
+Construire une activité peut poser des questions de revenus, de disponibilité et de compétence. Les appeler « croyances » ne les résout pas. Margot peut décrire les moyens nécessaires et les limites de ce qu’elle propose aujourd’hui.
+
+Le temps à réserver à une séance doit être distingué du temps de préparation. Le tarif prévu doit être comparé aux frais réels, plutôt qu’à l’idée qu’une ancienne commerciale devrait immédiatement savoir lancer toute activité. Ces deux vérifications d’organisation peuvent rester nécessaires même si elle se parle avec plus de considération.
 
 ## Techniques pour agir concrètement face aux croyances limitantes
 
-Si vous le souhaitez, vous pouvez examiner une pensée précise et réfléchir à la prochaine action qui vous convient. Ces exercices permettent de passer d'une réaction émotionnelle subie à une analyse rationnelle et constructive.
+### 1. Mettre une pensée à l’épreuve des faits disponibles
 
-### 1. La technique de la mise à l'épreuve des faits
+Margot cherche à examiner « je ne saurai pas mener cet échange » sans présumer que cette phrase est entièrement vraie ou fausse.
 
-Cette méthode consiste à traiter sa croyance comme une hypothèse et non comme une vérité de foi. Prenez une feuille de papier et tracez deux colonnes. Dans la première, inscrivez la croyance qui vous bloque, par exemple : à 52 ans, on ne peut plus apprendre un nouveau métier. Dans la seconde, notez les éléments disponibles pour et contre cette idée. Margot pourrait noter qu'elle a validé ses examens de coaching avec brio, ou citer des exemples de personnalités ayant réussi après 50 ans. Le but est de distinguer les obstacles réels des conclusions trop larges. Une discrimination, par exemple, ne se résout pas par une affirmation positive.
+1. Noter la pensée précise avant l’arrivée de Julie et ce qui la déclenche : la question relue ou le souvenir du silence de Claire.
+2. Inscrire ce qui la soutient et ce qui la nuance, dont la formulation que Claire et elle ont finalement clarifiée ; ne pas inventer un résultat d’examen.
+3. Choisir le point à préparer ou à demander à Sylvie, et laisser ouverte la réponse sur ce qu’elle ne sait pas encore faire.
 
-### 2. Le recadrage par la tierce personne
+Cette note peut distinguer un besoin d’apprentissage d’une conclusion totale. Un obstacle financier ou une discrimination éventuelle demande une réponse concrète, pas une pensée positive.
 
-Nous sommes souvent beaucoup plus durs avec nous-mêmes qu'avec nos proches. Pour cette technique, imaginez qu'un ami très cher ou votre propre enfant, comme Martin ou Chloé pour Margot, vienne vous voir avec exactement la même crainte. Que lui diriez-vous ? Écririez-vous une lettre de conseils à cet ami pour l'encourager ? En déplaçant le point de vue, on accède à une part de soi plus bienveillante et rationnelle. Margot réaliserait sans doute qu'elle trouverait admirable et courageux qu'un ami change de vie à son âge, ce qui lui permettrait d'appliquer cette même indulgence à son propre parcours.
+### 2. Changer de point de vue sans se donner un brevet de compétence
 
-### 3. La transformation de la croyance en affirmation de croissance
+Le détour par une autre personne sert à formuler une réponse moins dure et plus utile.
 
-On peut essayer une formulation qui colle mieux à ce que l’on sait aujourd’hui. Une fois la croyance limitante identifiée, il s'agit de rédiger une version alternative qui soit à la fois réaliste et motivante. Au lieu de dire je n'ai aucune expérience en coaching, Margot peut formuler : je mets mes vingt-cinq ans de compréhension du monde de l'entreprise au service de l'accompagnement humain. L'exercice consiste à répéter cette nouvelle affirmation chaque matin en lien avec une action concrète. Par exemple, chaque fois qu'elle prépare une séance, elle se rappelle que son passé n'est pas un obstacle, mais un socle unique qui la différencie des autres coachs.
+1. Imaginer qu’une amie lui parle du même silence suivi d’une question de clarification, sans ajouter d’autres épreuves à son histoire.
+2. Écrire ce qu’elle lui dirait : la question a demandé une reformulation, et l’échange a pu continuer.
+3. Reprendre pour elle une phrase qu’elle trouve juste, puis choisir une préparation limitée plutôt qu’une comparaison flatteuse avec autrui.
+
+La réponse peut ouvrir une action sans effacer la gêne. Elle n’a pas à admirer obligatoirement la reconversion pour se traiter avec respect.
+
+### 3. Relier une formulation nuancée à l’accueil réel
+
+Margot veut une phrase qui aide à tenir le cadre, plutôt qu’une affirmation à répéter pour se convaincre.
+
+1. Remplacer « je dois tout savoir avant qu’elle arrive » par « je peux expliquer mon cadre et écouter sa demande » si ces mots lui conviennent.
+2. Écrire les limites de sa proposition, dont le fait que le coaching ne remplace pas des soins psychologiques.
+3. Garder une place libre sur la feuille pour ce que Julie demandera, puis adapter la première question dans ce cadre plutôt que suivre un texte coûte que coûte.
+
+Cet appui peut rendre l’accueil plus lisible. Il ne garantit pas que la demande de Julie relèvera du coaching ni que Margot saura y répondre seule.
 
 ## Julie pose son sac
 

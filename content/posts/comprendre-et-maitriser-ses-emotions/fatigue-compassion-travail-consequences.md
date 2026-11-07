@@ -36,13 +36,28 @@ Isabelle se sent fatiguée et moins disponible après plusieurs entretiens rappr
 
 Après plusieurs échanges difficiles, Isabelle a besoin de temps pour reprendre son rapport. Elle remarque que ses réponses deviennent plus brèves. Avant d’y voir de l’indifférence, elle peut regarder ce qui lui est demandé dans la journée et ce qu’elle pourrait partager avec son équipe.
 
+Exemples concrets
+
+- Isabelle relit le début de son rapport sans retrouver ce qu’elle voulait ajouter.
+- Elle commence par accepter un créneau qui se touche avec un autre entretien, puis vérifie son agenda.
+
 ### Des pensées qui suivent le retour à la maison
 
 Le soir, une scène revient alors qu’elle voudrait dormir. Un mauvais sommeil ou des maux de tête peuvent avoir des causes diverses. Isabelle peut signaler ces difficultés au médecin du travail si elles persistent, sans les attribuer d’emblée à un seul mécanisme.
 
+Exemples concrets
+
+- Au retour, Isabelle pense encore à la disponibilité qu’elle voudrait avoir pour écouter le morceau de Théo.
+- Si une scène d’entretien revient au coucher plusieurs soirs, elle peut décrire ce changement au médecin du travail.
+
 ### La crainte de demander un relais
 
 Elle repousse une réunion parce qu’elle craint que son besoin d’aide soit interprété comme une faiblesse. Un relais clair peut pourtant améliorer la continuité du suivi. Elle peut préciser quels rendez-vous se succèdent sans pause et quelles tâches demandent une autre organisation.
+
+Exemples concrets
+
+- Isabelle efface « je vais trouver une place » avant d’interroger l’équipe sur le relais.
+- Elle peut présenter trois entretiens consécutifs comme une charge à examiner plutôt qu’une faiblesse à cacher.
 
 ## Trois pistes dans le cadre du travail
 
@@ -50,13 +65,43 @@ Elle repousse une réunion parce qu’elle craint que son besoin d’aide soit i
 
 Avant de partir, Isabelle note l’action professionnelle suivante dans l’outil prévu par son établissement. Les informations sur les élèves restent dans les canaux autorisés. Elle s’accorde ensuite une courte transition, comme marcher quelques minutes, si cela lui convient.
 
+**Objectif :** Faciliter une reprise sans emporter les informations des élèves.
+
+Exercice pratique
+
+- Notez l’action suivante dans le dossier professionnel autorisé avant de fermer le rapport.
+- Vérifiez que les informations d’élèves restent dans ce cadre et ne partent pas dans un carnet personnel.
+- Choisissez une courte transition avant de retrouver Théo si cela vous convient.
+
+**Utilité possible :** L’action notée peut rendre le lendemain plus lisible ; la transition ne remplace pas un allègement nécessaire.
+
 ### 2. Organiser une orientation
 
 Elle peut dire : « Je vais vérifier avec vous qui peut vous accompagner pour la suite. » Si une situation impose une intervention urgente ou un signalement, elle suit le protocole de l’établissement et transmet les informations aux personnes habilitées. L’objectif est de clarifier la continuité de l’aide.
 
+**Objectif :** Assurer une continuité professionnelle clairement attribuée.
+
+Exercice pratique
+
+- Identifiez avec l’équipe la personne habilitée pour la suite du rendez-vous.
+- Transmettez les informations nécessaires dans le canal prévu et selon le protocole applicable.
+- Vérifiez que le relais est effectif, sans différer une intervention urgente pour cet exercice.
+
+**Utilité possible :** Un relais confirmé permet de savoir qui accompagne la suite plutôt que de laisser une promesse vague.
+
 ### 3. Discuter de la charge avec l’équipe
 
 Une supervision organisée dans un cadre professionnel peut servir à examiner les situations, les appuis et les responsabilités. Les changements à discuter peuvent concerner les créneaux, le nombre de suivis ou les relais. Les temps de repos et l’organisation du travail ont leur place dans cet échange.
+
+**Objectif :** Rendre la charge et les ressources discutables avec l’équipe.
+
+Exercice pratique
+
+- Apportez à l’échange professionnel la succession des créneaux et la tâche de rapport restante.
+- Demandez quels rendez-vous, pauses ou relais peuvent être réorganisés.
+- Convenez de qui reprend chaque action et du moment pour revoir la charge.
+
+**Utilité possible :** Le partage des tâches peut agir sur l’organisation au lieu de demander seulement à Isabelle de récupérer davantage.
 
 ## Le relais du lendemain
 

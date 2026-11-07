@@ -35,13 +35,28 @@ Les valeurs peuvent également être partagées sans recevoir le même poids dan
 
 Pour Baptiste, utiliser un autre moyen de transport exprime souvent une attention importante. Il risque pourtant de traiter ce moyen comme la valeur elle-même. Si une seule action permet de rester cohérent, toute contrainte devient une menace contre son identité. Il peut revenir à ce qu’il souhaite soutenir, puis examiner les façons possibles de le faire dans la durée. Cela ne rend pas tous les moyens équivalents et ne résout pas les conséquences concrètes. Cela permet seulement de ne pas conclure qu’un choix situé dit tout de sa conviction ou de celle de Caroline.
 
+Exemples concrets
+
+- Baptiste lit le choix de la voiture comme la preuve qu’il ne tient plus à limiter ses trajets.
+- Caroline peut souhaiter une visite familiale confortable sans avoir abandonné toute préférence pour les transports collectifs.
+
 ### On compare ses raisons aux caricatures de celles de l’autre
 
 Baptiste pourrait entendre dans la proposition de Caroline une recherche de facilité. Elle pourrait entendre dans ses questions une volonté de compliquer la visite. Ces interprétations laissent de côté les raisons exprimées : le temps avec les parents, le rythme d’Elsa, la fatigue et une préférence de déplacement. Ils peuvent vérifier ce que l’autre défend avant de répondre à une intention supposée. Le désaccord peut rester entier après cette clarification. Mais il concerne alors des besoins et des engagements réels, plutôt qu’une personne présentée comme paresseuse ou rigide pour rendre son propre choix plus évident.
 
+Exemples concrets
+
+- Baptiste entend de la facilité là où Caroline parle du temps disponible chez ses parents.
+- Caroline pourrait entendre un refus de la visite alors que Baptiste cherche un autre horaire de retour.
+
 ### On demande à une décision de résoudre toute la cohérence future
 
 Le trajet du dimanche n’établit pas à lui seul toutes les habitudes de la famille. Baptiste peut toutefois craindre qu’une exception devienne automatiquement la règle. Cette inquiétude mérite une discussion sur les accords et les prochaines occasions, pas nécessairement une bataille sur ce seul déplacement. À l’inverse, promettre une organisation parfaite à l’avenir pour rendre la décision présente acceptable serait peu solide. Il vaut mieux préciser ce qui est décidé aujourd’hui, ce qui ne l’est pas et les informations dont ils auraient besoin pour préparer différemment une autre visite.
+
+Exemples concrets
+
+- Un dimanche en voiture devient, dans la pensée de Baptiste, l’annonce de tous leurs futurs déplacements.
+- Promettre immédiatement plusieurs visites sans voiture ajoute des engagements que le couple n’a pas examinés.
 
 ## Trois pistes pour arbitrer sans effacer une valeur
 
@@ -49,13 +64,31 @@ Le trajet du dimanche n’établit pas à lui seul toutes les habitudes de la fa
 
 Baptiste peut écrire ce qu’il veut préserver sans présenter une option comme le courage et l’autre comme une faiblesse. Il souhaite garder une attention à ses déplacements ; il souhaite aussi partager du temps familial dans des conditions soutenables. Caroline peut préciser ses propres formulations. Elles ne seront pas forcément identiques. Cette étape sert à vérifier le désaccord réel, pas à obtenir une belle liste de mots communs avant de décider comme prévu. Si une direction reste difficile à nommer, on peut partir d’un geste ou d’une conséquence qui compte. Une valeur personnelle ne donne toutefois pas le droit de disposer librement du temps d’autrui : ses préférences et ses contraintes doivent entrer dans la discussion, même lorsqu’on défend une intention jugée importante.
 
+Exercice pratique
+
+- Écrivez séparément ce que vous voulez préserver dans la visite et dans les déplacements.
+- Demandez à Caroline comment elle nommerait ces deux directions, sans lui fournir la bonne réponse.
+- Reformulez le désaccord en termes d’options pour ce dimanche plutôt que de cohérence personnelle.
+
 ### 2. Examiner les options avec les contraintes présentes
 
 Ils regardent les horaires disponibles, la durée souhaitée sur place, le coût supportable et les disponibilités de chacun. Ils distinguent les informations vérifiées des trajets simplement imaginés et des possibilités qui demandent encore une réponse. Ils peuvent demander aux parents si un autre créneau serait possible, vérifier un trajet différent ou envisager une visite plus longue à une autre date. Chaque option doit être examinée avec ses coûts réels, sans supposer que les autres personnes pourront toujours s’adapter. Si aucune combinaison ne permet de préserver toutes les directions, cette limite mérite d’être nommée. Chercher une solution ne signifie pas qu’une solution sans perte existe nécessairement, ni qu’un effort de réflexion supplémentaire finira toujours par la faire apparaître.
 
+Exercice pratique
+
+- Posez côte à côte les horaires collectifs vérifiés et le trajet routier.
+- Demandez aux parents quel décalage du déjeuner est réellement possible.
+- Comparez les options restantes avec le temps sur place, la fatigue et l’accord de Caroline.
+
 ### 3. Distinguer l’arbitrage d’aujourd’hui de la direction conservée
 
 Le couple peut choisir une option pour cette visite et préciser ce qu’il souhaite revoir ensuite. Une décision située n’a pas besoin d’être accompagnée d’une promesse de compensation parfaite. Baptiste n’a pas à transformer chaque trajet futur en remboursement d’une faute présente. Ils peuvent plutôt choisir un moment où ils disposent d’informations pour discuter des prochaines visites. Cette limite évite que l’arbitrage devienne soit une règle absolue, soit une exception qui dispense à jamais de réfléchir. Le regret peut rester présent et être nommé sans obliger l’autre à rouvrir indéfiniment la décision. Si leurs accords se heurtent régulièrement, un échange plus large ou un accompagnement professionnel peut aider à examiner l’organisation et les attentes, sans donner automatiquement raison à la personne qui défend la valeur la plus valorisée socialement.
+
+Exercice pratique
+
+- Annoncez ensemble l’organisation choisie pour cette visite.
+- Nommez la préférence contrariée sans demander à l’autre de la faire disparaître.
+- Notez un renseignement à chercher plus tôt la prochaine fois, sans promettre une compensation.
 
 ## Ce dimanche, ils prennent la voiture
 

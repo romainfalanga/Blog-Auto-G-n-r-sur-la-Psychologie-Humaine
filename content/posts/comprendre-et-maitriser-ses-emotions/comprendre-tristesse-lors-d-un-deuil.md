@@ -34,22 +34,49 @@ Le chagrin varie d’une personne à l’autre et peut revenir par vagues, parfo
 ### 1. Le ralentissement psychomoteur et le retrait
 Bernard fait des gestes plus lents et a du mal à se concentrer. Certaines personnes en deuil éprouvent de la fatigue ou ont besoin de temps seules. Le ralentissement n’établit pas un mécanisme d’économie d’énergie et le retrait ne constitue pas une étape nécessaire.
 
+**Deux exemples dans cette journée :** Bernard reste assis avec la poignée au lieu de reprendre aussitôt son embout. Il prévient le client du retard plutôt que de forcer une finition quand son attention est ailleurs.
+
 ### 2. La nostalgie douloureuse et les rappels sensoriels
 Un détail peut rappeler la personne disparue. Chez Bernard, le toucher du bois ou l’odeur du vernis rappelle des moments vécus avec Hélène. Ce qui compte dans la scène est le souvenir que le détail fait surgir.
+
+**Deux exemples :** le poids de la poignée lui rappelle le choix d’Hélène pour le buffet. Sur le chemin avec Sultan, une remarque qu’il lui aurait faite lui revient. Ces souvenirs peuvent avoir des effets différents selon les moments.
 
 ### 3. La désorganisation des habitudes de vie
 Lors d'un deuil, la tristesse perturbe les routines les plus ancrées. On peut observer des changements dans l'appétit, des troubles du sommeil ou une perte d'intérêt pour des passions autrefois centrales. Chez Bernard, cela s'est traduit par une période d'apathie où même le travail du bois, sa raison de vivre, lui semblait dénué de sens. Cette désorganisation est le signe que le cadre de vie doit être reconstruit sans la présence de l'autre, un processus qui demande du temps et de la patience.
 
+**Deux situations possibles :** Bernard arrive à l’heure habituelle à l’atelier mais ne commence pas la pièce prévue. Le soir, il repousse le repas parce que l’heure autrefois partagée avec Hélène lui pèse. Ces changements ne sont ni obligatoires ni une preuve qu’il devrait reconstruire sa vie d’une façon précise.
+
 ## Techniques pour agir face à la tristesse lors d'un deuil
 
 ### 1. La technique de l'ancrage sensoriel bienveillant
-Cette méthode consiste à accueillir l'émotion sans chercher à la fuir par l'action. Lorsque la tristesse monte, asseyez-vous dans un endroit calme. Identifiez trois sensations physiques présentes sans les juger, comme le contact de vos pieds sur le sol, le poids de vos mains sur vos cuisses ou la fraîcheur de l'air. L'exercice consiste à dire mentalement : j'observe que je ressens de la tristesse en ce moment, et c'est une réaction normale de mon corps à mon histoire. Cela permet de ne plus subir l'émotion comme une agression, mais de l'intégrer comme une information légitime.
+
+**Objectif :** S’accorder une pause présente quand la poignée fait surgir le chagrin.
+
+1. Poser les outils et choisir une place stable où s’asseoir, loin des machines.
+2. Remarquer un appui confortable, comme les pieds au sol ou les mains sur les cuisses, sans rechercher une sensation particulière.
+3. Choisir de rester un moment, de changer d’activité ou d’appeler quelqu’un ; nommer la tristesse seulement si le mot convient.
+
+Cette pause peut aider à décider de la prochaine action. Elle n’oblige ni à accueillir une émotion ni à la faire diminuer.
 
 ### 2. L'expression symbolique par l'objet ou l'écrit
-Puisque la parole est parfois difficile, notamment pour des tempéraments pudiques, utilisez un support externe. L'exercice consiste à choisir un objet qui représente un souvenir et à lui dédier un moment de réflexion ou d'écriture. Vous pouvez écrire une lettre à la personne disparue, non pas pour l'envoyer, mais pour donner une forme concrète aux mots qui restent bloqués à l'intérieur. Pour Bernard, cela peut être de travailler une pièce de bois spécifique en y mettant l'intention de dire ce qu'il n'a pas su formuler, transformant ainsi la création en un dialogue silencieux mais reconnu, loin de la simple fabrication utilitaire de la commode pour Éric.
+
+**Objectif :** Donner une place à un souvenir déjà présent, si Bernard le souhaite.
+
+1. Choisir la poignée ou un souvenir qu’il connaît déjà, sans en rechercher d’autres.
+2. Écrire une phrase à propos d’Hélène ou de ce que cet objet représente aujourd’hui.
+3. Garder la note, la ranger ou proposer de la partager avec Éric, sans attendre une réponse déterminée.
+
+L’écrit peut offrir une forme à ce qu’il a envie de dire. Il peut aussi être laissé de côté ; ce n’est ni une étape du deuil ni un exercice de rappel imposé.
 
 ### 3. La planification de micro-connexions sociales
-Si un peu de compagnie vous ferait du bien, proposez une activité simple à quelqu’un de confiance. Vous pouvez aussi demander une aide pratique sans raconter votre peine. Le besoin d’être seul par moments n’établit pas un trouble du deuil.
+
+**Objectif :** Demander une présence ou une aide qui corresponde au besoin du jour.
+
+1. Décider s’il préfère parler d’Hélène, marcher avec quelqu’un ou recevoir une aide pratique.
+2. Adresser à Éric ou Marcel une proposition précise, avec la possibilité de refuser ou de différer.
+3. Si l’échange a lieu, dire ce qui lui convient ; sinon choisir une autre ressource ou du temps seul.
+
+Une demande précise peut faciliter une rencontre sans imposer un récit de sa peine. Le besoin de solitude ponctuel reste légitime.
 
 ## Le buffet reste dans l’atelier
 

@@ -33,17 +33,23 @@ Léo tousse et Camille imagine aussitôt une nuit à l’hôpital. Ce tableau lu
 
 Exemple concret : un petit écoulement de nez après le goûter et voilà que Camille imagine Léo isolé à l'hôpital, elle culpabilise de ne pas avoir surveillé la fenêtre ouverte la veille et redoute la réaction de Françoise.
 
+Autre exemple situé : dans la cuisine, Camille voit mentalement une nuit d’hôpital alors que Léo a seulement commencé à décrire sa toux ; cette image ne renseigne pas sur son état.
+
 ### 2. Anticipation des jugements et culpabilité parentale
 
 La dramatisation se nourrit aussi du regard anticipé d'autrui. Camille anticipe les critiques de sa mère, la culpabilité étant un fil rouge de son éducation. Cette anticipation transforme la probabilité d'erreur en certitude de désapprobation, rendant chaque décision parentale lourde de conséquences morales.
 
 Exemple concret : si David propose une solution pratique, Camille entend l'idée qu'elle ne fait pas assez et s'imagine devoir justifier chaque choix auprès de sa mère, ce qui amplifie l'angoisse et réduit sa capacité à trancher sereinement.
 
+Autre exemple situé : avant l’appel de Françoise, Camille prépare déjà une justification sur sa présence à la maison alors qu’aucun reproche n’a encore été formulé.
+
 ### 3. Reprendre des réflexes du travail à la maison
 
 À la maison, Camille se surprend à repasser des situations vues au travail. Elle reconnaît qu’il lui est difficile de revenir à ce qu’elle observe réellement chez Léo. Cela ne signifie pas que la fatigue de compassion est la cause de cette inquiétude.
 
 Exemple concret : pendant la sieste, elle ressort son carnet professionnel pour vérifier des notes sur des symptômes respiratoires, transformant un après-midi familial en réunion de crise potentielle.
+
+Autre exemple situé : au son de la toux dans la cuisine, Camille revoit un patient de sa dernière garde ; elle peut distinguer ce souvenir de ce qu’elle observe chez son fils.
 
 ## Techniques pour apaiser la catastrophisation
 
@@ -55,6 +61,15 @@ Exercice concret, une fois le besoin de soins évalué : Camille note « Léo a 
 
 Quelques lignes suffisent. Cet exercice ne sert pas à choisir un traitement ou à décider seul si une situation est urgente.
 
+Objectif : après la réponse au besoin de soins, ne pas laisser l’image de l’hôpital décider aussi de l’organisation familiale.
+
+Exercice pratique :
+1. Notez un fait de la scène et la crainte qui s’y est ajoutée, en deux lignes distinctes.
+2. Choisissez la question pratique encore ouverte, par exemple qui peut rester avec Léo.
+3. Convenez avec David de cette aide et du message utile au service, sans remplacer les indications médicales.
+
+Utilité possible : le tri sépare les soins de l’anticipation des conséquences ; il ne sert jamais à retarder un appel nécessaire.
+
 ### 2. Journal des preuves et doutes
 
 Principe : reprendre une interprétation plus tard, quand on a assez de recul. Le [relevé des pensées du NHS](https://www.nhs.uk/every-mind-matters/mental-wellbeing-tips/self-help-cbt-techniques/thought-record/) propose de regarder les éléments qui appuient une pensée et ceux qui la nuancent.
@@ -63,6 +78,15 @@ Exercice concret : Camille note une crainte et un fait qui l’aide à la situer
 
 Camille garde ce carnet pour elle. Les enfants n’ont pas à surveiller leurs sensations ni à la rassurer.
 
+Objectif : reprendre plus tard une interprétation sur le jugement ou le travail.
+
+Exercice pratique :
+1. Choisissez une seule pensée, comme « David croit que je n’en fais pas assez ».
+2. Notez les mots qu’il a réellement prononcés et ce que vous ignorez encore de son intention.
+3. Posez-lui une question si cela aide à organiser la journée, puis refermez le carnet sans nouveau contrôle de santé pour l’exercice.
+
+Utilité possible : Camille met à part une supposition relationnelle et garde aux observations de santé leur conduite propre.
+
 ### 3. Planification réaliste et limite de temps pour l'inquiétude
 
 Principe : réserver un bref moment aux inquiétudes qui peuvent attendre, comme dans l’[exercice du NHS](https://www.nhs.uk/every-mind-matters/mental-wellbeing-tips/self-help-cbt-techniques/tackling-your-worries/). Une question de sécurité, elle, se traite quand elle se présente.
@@ -70,6 +94,15 @@ Principe : réserver un bref moment aux inquiétudes qui peuvent attendre, comme
 Exercice concret : après le goûter, Camille reprend l’inquiétude de manquer une garde et convient d’une solution avec David. Si la même image revient sans information nouvelle, elle reprend ce qu’elle faisait. Elle ne reporte pas un appel médical nécessaire.
 
 La durée n’est pas une règle. Camille peut laisser tomber le carnet s’il lui donne une chose de plus à faire.
+
+Objectif : réserver un moment aux questions non urgentes qui restent ouvertes.
+
+Exercice pratique :
+1. Distinguez ce qui doit être traité maintenant selon les besoins de soins et ce qui concerne seulement une organisation ultérieure.
+2. Choisissez avec David un moment pour reprendre la question de la garde de travail ou du trajet scolaire.
+3. À ce moment, prenez une décision pratique ou notez l’information manquante ; laissez l’exercice si le carnet alourdit la soirée.
+
+Utilité possible : la question familiale reçoit un temps sans reporter une consigne médicale ni imposer une durée fixe à l’inquiétude.
 
 ## Léo reprend sa phrase
 

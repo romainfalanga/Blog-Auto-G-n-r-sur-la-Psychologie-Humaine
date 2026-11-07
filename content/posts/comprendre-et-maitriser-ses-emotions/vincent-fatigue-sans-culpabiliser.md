@@ -45,11 +45,15 @@ Il se promet de s’asseoir quand tout sera réglé. Mais une réponse manque, u
 
 Le problème ne se résout pas simplement en pensant autrement. Certaines obligations existent vraiment. Vincent peut toutefois distinguer une échéance réelle d’une préférence personnelle, une urgence d’un souhait et une responsabilité acceptée d’une tâche récupérée par habitude. La liste gagne en précision, ce qui rend possible une pause organisée plutôt qu’un arrêt imposé par saturation.
 
+Il voudrait attendre d’avoir retiré l’étagère pour s’asseoir ; il voudrait aussi obtenir la réponse du service avant de fermer ses messages. La course qu’il peut reporter et la réponse qu’il ne commande pas rendent chacune la fin de liste incertaine.
+
 ### La souffrance est mise en concurrence
 
 « Cédric a bien plus de raisons que moi d’être fatigué », pense Vincent. Il transforme une attention à son compagnon en règle de silence. Pourtant, Cédric ne lui demande pas de comparer leurs journées. Dire qu’il a besoin d’une soirée plus calme ne retire rien aux obstacles que son compagnon rencontre ni à ses propres choix.
 
 Cette concurrence peut aussi rendre les échanges trompeurs. Si Vincent affirme toujours que tout va bien, les autres disposent d’informations inexactes pour organiser les tâches avec lui. Reconnaître sa fatigue permet de discuter sur une base plus juste. Il peut le faire sans raconter toute l’intimité du couple ni demander à Cédric de le rassurer pendant une heure.
+
+Il tait d’abord sa fatigue à Denis en invoquant les choses à faire ; il entend ensuite la question de Cédric sur le meuble comme une obligation de poursuivre. La comparaison des difficultés agit dans un échange professionnel comme dans la soirée à deux.
 
 ## Trois techniques pour reconnaître sa fatigue sans culpabiliser
 

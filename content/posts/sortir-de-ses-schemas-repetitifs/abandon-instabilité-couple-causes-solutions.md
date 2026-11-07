@@ -29,33 +29,57 @@ Dans la [schémathérapie](https://www.schematherapysociety.org/Schema-Therapy) 
 
 Hugo surveille parfois les signes d'éloignement. Le récit explore son inquiétude, mais certains liens sont réellement instables : une inquiétude n'est ni la preuve que l'autre part, ni une raison d'écarter ce qu'on observe.
 
-## Comment la peur de l'abandon apparaît-elle dans le couple ?
+## Comment la peur de l’abandon apparaît-elle dans le couple ?
 
-### 1. L'hypervigilance aux signaux de rejet
+### 1. L’attention se fixe sur ce qui pourrait annoncer un départ
 
-Dans une relation marquée par ce schéma, le moindre changement d'humeur du partenaire est interprété comme une preuve de désamour imminent. Si Chloé met plus de temps à répondre à un message ou si elle semble pensive, Hugo ne perçoit pas cela comme une fatigue passagère mais comme le début de la fin. Cette interprétation rend le silence difficile à supporter pour Hugo, même s'il ne sait pas encore pourquoi Chloé ne répond pas.
+Hugo peut observer un signe puis attendre aussitôt le signe contraire. Cette attente est une expérience présente ; elle ne dit pas ce que Chloé compte faire. Leurs échanges pour la musique ne valent pas accord sur une reprise du couple.
 
-### 2. Les tests de loyauté répétés
+Quand elle sourit, il attend presque qu’elle se détourne. Lorsqu’elle demande à se placer de son côté pour entendre l’ampli, il se demande déjà si elle proposera une sortie après la répétition. Le sourire et la demande technique reçoivent ainsi un enjeu relationnel qu’elle n’a pas formulé.
 
-Hugo peut être tenté de provoquer une dispute pour savoir si Chloé restera. Demander une preuve à répétition peut peser sur l'autre. Si Chloé prend de la distance, cela ne prouve pas que les premières craintes de Hugo étaient justes.
+### 2. Chercher une réaction peut déplacer le travail commun
 
-### 3. L'alternance entre fusion et retrait
+Hugo peut avoir envie de savoir ce que Chloé ressent et agir d’une façon qui appelle une réaction plutôt que poser une question. Le récit ne permet pas de connaître une intention cachée derrière chaque geste. Il peut en revanche regarder ce qu’il fait et l’effet sur la répétition.
 
-L'instabilité se traduit souvent par des variations émotionnelles intenses. On passe de moments de fusion, où l'on idéalise l'autre pour combler son vide intérieur, à des moments où il se retire brusquement parce qu'il redoute d'être quitté. Hugo utilise le retrait comme un bouclier. En se mettant à distance émotionnellement, il tente de se protéger d'une douleur qu'il juge inévitable. C'est une stratégie de survie qui empêche pourtant toute construction durable. Hugo commence à réaliser que ce retrait est le jumeau de son splitting : soit il fusionne totalement, soit il érige une muraille de glace pour ne plus rien ressentir.
+Il laisse Chloé déplacer seule son micro alors qu’il prétend encore s’accorder. Il regarde ensuite Samba comme s’il devait trancher quand Chloé demande de baisser le volume. Dans les deux cas, le besoin d’une information ou d’un accord est remplacé par un détour qui pèse sur d’autres personnes.
 
-## Trois pistes pour répondre à la peur de l'abandon
+### 3. L’envie de rapprochement côtoie le retrait
 
-### 1. La distinction entre la peur passée et la réalité présente
+Hugo espère parfois retrouver Chloé et prépare aussi une façon de ne pas paraître attendre. Ces envies peuvent coexister sans décrire un style d’attachement ni rendre inévitable une rupture supplémentaire.
 
-Hugo peut noter séparément ce qui s'est passé, ce qu'il ressent et les informations qui lui manquent. Par exemple : « Elle n'a pas répondu aujourd'hui ; j'ai peur de la perdre ; je ne sais pas pourquoi elle n'a pas répondu. » Si des limites ou des engagements sont régulièrement ignorés, il peut aussi les prendre en compte.
+Il imagine qu’ils pourraient encore se retrouver après son explication du message. Il s’entraîne pourtant à répondre qu’il a déjà quelque chose si elle lui propose de sortir. L’espoir d’une invitation et le refus préparé ne sont pas deux décisions déjà prises par Chloé.
 
-### 2. Chercher du soutien
+## Trois pistes pour répondre à la peur de l’abandon
 
-Quand l'inquiétude prend toute la place, Hugo peut choisir un appui qui ne dépend pas d'une réponse immédiate de Chloé : retrouver une activité familière, parler à Théo ou demander un avis professionnel si la difficulté revient souvent.
+### 1. Distinguer le fait, la peur et l’information manquante
 
-### 3. La communication vulnérable plutôt que réactive
+Hugo cherche à décrire le présent plutôt qu’à vérifier un schéma chez lui ou chez Chloé.
 
-Si chacun souhaite parler, Hugo peut dire ce qu'il ressent et demander une précision. Chloé peut répondre, demander du temps ou poser une limite. Dire sa peur n'autorise pas à réclamer des garanties ni à vérifier sans cesse où l'autre se trouve.
+1. Choisir un seul moment : la demande de déplacement du micro ou celle de baisser le volume.
+2. Noter les mots entendus, ce qu’il éprouve et ce qu’il suppose sur leur relation dans des espaces séparés.
+3. Revenir à l’action demandée maintenant ; s’il souhaite une autre conversation, la proposer séparément avec possibilité de refus.
+
+Cette distinction peut éviter de faire porter à une consigne musicale la réponse sur le couple. Elle reste compatible avec la prise au sérieux d’engagements réellement ignorés.
+
+### 2. Chercher un appui qui ne repose pas sur une preuve de Chloé
+
+Hugo veut retrouver un choix possible lorsque l’attente occupe toute sa place au studio.
+
+1. Identifier ce qui lui manque maintenant : une pause, un repère sur le morceau ou quelqu’un à qui parler.
+2. Demander à Samba ou à Théo une disponibilité précise, sans les envoyer obtenir des informations de Chloé.
+3. Utiliser l’appui accepté ou prévoir une autre option, et envisager un professionnel si la peur revient souvent et lui pèse.
+
+Un soutien peut compter sans trancher l’avenir du lien. Le proche n’a pas à garantir que Chloé restera.
+
+### 3. Reconnaître un geste et proposer une suite consentie
+
+Hugo cherche une réponse responsable à ce qui vient de se passer dans la répétition.
+
+1. Nommer son action observable : il a joué par-dessus la voix malgré le volume convenu.
+2. Demander si Chloé souhaite reprendre et écouter sa réponse avant tout nouveau décompte.
+3. Si elle veut sortir ou ne pas parler, lui laisser la place et choisir avec Samba ce qui peut continuer entre eux, si son ami en a envie.
+
+La réparation peut commencer par ce respect concret. Dire sa peur n’efface pas le geste et ne crée pas une obligation de reprendre la musique ou la relation.
 
 ## Samba arrête la répétition
 

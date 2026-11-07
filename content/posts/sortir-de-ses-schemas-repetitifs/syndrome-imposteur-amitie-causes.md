@@ -29,39 +29,66 @@ Ici, le compliment porte sur son travail et vient d’une amie. Sa peur d’êtr
 
 ### 1. Minimiser les compliments et attribuer la réussite à la chance
 Sophie reçoit un compliment de Claire sur son code et répond en disant qu'elle a juste eu de la chance. Ce comportement est typique : au lieu d'intégrer l'éloge, la personne le dissout dans une explication externe. Concrètement :
-- Exemple : quand une amie loue une idée de sortie, la personne dit que c'était un coup de tête plutôt qu'une bonne idée.
-- Conséquence : l'estime reçue ne renforce pas l'estime personnelle, elle s'évapore.
+
+Exemples concrets :
+
+- À « le test m’a fait gagner du temps », Sophie répond que le bug était facile, sans reprendre l’action que Claire a appréciée.
+- Elle attribue le résultat à la chance et commence à prévoir la prochaine tâche qui la démasquerait.
 
 ### 2. Sur-adaptation relationnelle pour éviter d'être démasquée
 Pour éviter d'exposer ce qu'elle perçoit comme ses failles, Sophie adopte souvent une attitude conciliatrice excessive : elle accepte les plans que Claire propose même quand elle n'en a pas envie, ou elle s'excuse pour des détails insignifiants. Sophie remarque un écart semblable à celui de la réunion avec Marc entre ce qu’elle veut faire et ce qu’elle dit. Concrètement :
-- Exemple : accepter de venir aider pour un déménagement alors qu'on est épuisée, par peur que le refus n'entraîne un jugement.
-- Conséquence : fatigue émotionnelle, ressentiment et accumulation de preuves internes que la valeur doit être prouvée en permanence.
+
+Exemples concrets :
+
+- Elle peut accepter une sortie qui ne lui convient pas pour essayer de conserver une image irréprochable auprès de Claire.
+- Avant de demander de décaler un rendez-vous, elle peut préparer de longues excuses alors qu’elle n’a pas encore entendu la réponse de son amie.
 
 ### 3. Comparaison constante et lecture hostile des silences
 En amitié, un silence, un changement de ton ou une blague qui ne vise pas la personne peuvent être interprétés comme un jugement. Sophie lit parfois les silences de Claire comme des indices qu'elle va se rendre indigne d'amitié. Ce mécanisme rappelle ses réactions au travail face aux remarques de Marc. Concrètement :
-- Exemple : une amie qui répond moins vite à un message devient moins proche et la preuve d'un rejet imminent.
-- Conséquence : anxiété relationnelle, tentatives de réparation excessives ou retrait pour se protéger.
+
+Exemples concrets :
+
+- Un délai de réponse de Claire peut lui sembler annoncer un rejet sans qu’elle sache ce qui occupe son amie.
+- Pendant la discussion de playlist, elle peut supposer un jugement dans un silence ou laisser ce silence exister sans chercher immédiatement une explication.
 
 ## Trois façons de répondre à un compliment
 Sophie choisit ce qu’elle a envie d’essayer. Elle ne doit ni se convaincre immédiatement qu’elle est à la hauteur ni demander à Claire de la rassurer chaque fois.
 
 ### 1. Garder la trace d’un retour concret
-L'objectif est de contrebalancer l'interprétation biaisée des compliments par des faits concrets. Exercice concret : après un compliment ou une remarque positive, Sophie note ce que Claire a apprécié et, si cela lui semble utile, une action qui a contribué au travail. Par exemple : « J’ai écrit le test qui a permis de reproduire le bug. » Elle n’a pas besoin de relever les rires ou les silences pour établir sa valeur en amitié.
-Comment le pratiquer :
-- Une note suffit ; si les notes tournent à la vérification de chaque rencontre, Sophie peut s’en passer.
-- Ce que cela change : un exemple précis lui permet de se rappeler sa contribution. Sophie réutilise ici son habitude de noter, mais avec une intention ciblée vers la relation.
 
-### 2. L'échange de miroir guidé
-L'objectif est de permettre à l'amie de donner un retour structuré et réduire la distorsion de lecture. Exercice concret : Sophie propose à Claire un petit rituel après un compliment. Claire formule d'abord l'observation (Tu as bien géré X), Sophie répète simplement (Tu dis que j'ai bien géré X), puis Claire explicite pourquoi (parce que tu as su...), et enfin Sophie remercie en acceptant l'information sans la défaire.
-Comment le pratiquer :
-- Durée : 2 minutes lors d'une conversation en tête-à-tête.
-- Ce que Sophie en fait : elle demande un exemple seulement si cela l’intéresse et si Claire a envie d’en parler. Sophie réutilise sa capacité d'analyse pour structurer l'échange plutôt que pour le déconstruire.
+Objectif : Reconnaître une contribution sans surveiller toute la relation.
 
-### 3. L'entraînement à la réponse affirmative courte
-L'objectif est de réduire l'auto-défense immédiate qui efface un compliment. Exercice concret : préparer trois phrases courtes à utiliser en réponse à un compliment, par exemple « Merci, ça me fait plaisir », « Merci, j'y ai travaillé », ou « Merci, contente que tu le voies ». Sophie s'entraîne devant son carnet pendant cinq répétitions.
-Comment le pratiquer :
-- Durée : 10 minutes d'entraînement, puis application en situation.
-- But : essayer d’accueillir le compliment sans le contester sur-le-champ. Elle peut encore douter après l’échange.
+Exercice pratique :
+
+- Si cela vous aide, notez ce que Claire a apprécié, le test ajouté qui lui a fait gagner du temps.
+- Identifiez une action qui a contribué au résultat, comme reproduire le bug, sans effacer le rôle des autres.
+- Revenez à l’échange. Une note suffit ; vous pouvez vous en passer si elle devient une vérification des rires et des silences.
+
+Utilité possible : L’exemple rappelle un travail précis. Il ne mesure pas votre valeur en amitié et ne demande pas une collecte permanente de compliments.
+
+### 2. Écouter un exemple si chacun le souhaite
+
+Objectif : Comprendre un retour sans installer une réassurance obligatoire.
+
+Exercice pratique :
+
+- Si le compliment vous intéresse et si Claire en a envie, demandez quel aspect du test lui a servi.
+- Reformulez ce que vous avez compris sans demander une garantie sur toutes vos compétences ou sur l’avenir de l’amitié.
+- Remerciez ou répondez à votre manière, puis laissez le retour exister même si vous doutez encore.
+
+Utilité possible : Un exemple peut préciser ce qui est apprécié. Aucun rituel, durée de deux minutes ou devoir de rassurer n’est imposé à Claire.
+
+### 3. Préparer une réponse affirmative courte
+
+Objectif : Essayer une réponse qui ne défait pas immédiatement le compliment.
+
+Exercice pratique :
+
+- Choisissez une phrase qui vous paraît naturelle, comme « merci, j’y ai travaillé » ou « contente que cela ait servi ».
+- Vous pouvez la noter ou la dire pour vous, sans nombre de répétitions ni temps d’entraînement requis.
+- À une occasion qui vous convient, essayez-la puis poursuivez l’échange. Le doute peut encore être présent après.
+
+Utilité possible : La réponse conserve le retour reçu sans obliger à se convaincre sur-le-champ ni à accepter tout jugement d’autrui.
 
 ## Recevoir le compliment avant d’expliquer le bug
 Aujourd'hui, après l'échange initial avec Claire, Sophie décide d'essayer l'entraînement à la réponse affirmative. Quand Claire lui dit que son dernier push était très propre, Sophie sent la vieille impulsion qui la pousse à expliquer. Elle retient sa première réaction et, intérieurement, visualise la phrase préparée : « Merci, ça me fait plaisir. »

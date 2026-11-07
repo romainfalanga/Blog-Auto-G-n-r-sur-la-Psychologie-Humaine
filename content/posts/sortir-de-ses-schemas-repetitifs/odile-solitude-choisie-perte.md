@@ -35,6 +35,8 @@ Le NIH présente plusieurs manières de développer ou d’entretenir des relati
 
 Odile se sent soulagée après avoir refusé le déjeuner, mais ce ressenti ne suffit pas à expliquer tous ses motifs. Elle peut apprécier sa liberté, vouloir éviter une conversation difficile ou être momentanément fatiguée, parfois ensemble. Elle peut regarder ce qui se passe ensuite : retrouve-t-elle l’activité désirée, souhaite-t-elle joindre quelqu’un, se sent-elle enfermée dans un refus qu’elle n’ose plus modifier ? L’observation n’a pas pour but de débusquer une vérité cachée. Elle permet simplement d’ajuster le programme si le choix ne répond plus à son besoin.
 
+À la bibliothèque, revenir au dessin après le message donnerait une première information sur son choix. Le soir, souhaiter finalement joindre Lucie en donnerait une autre, sans rendre l’après-midi faux. Ces deux moments peuvent mener à des décisions différentes. Odile n’a pas à défendre son premier refus toute la journée pour paraître cohérente.
+
 ### Dire non aujourd’hui ne ferme pas toutes les invitations
 
 La réponse à Gérard comporte un refus et une possibilité de rencontre. Odile n’est pas obligée d’offrir un autre rendez-vous à chaque fois ; elle le fait ici parce qu’elle en a envie. Elle peut aussi expliquer qu’un refus ne signifie pas qu’elle ne souhaite plus être invitée. Cette précision évite que les autres doivent deviner le sens de chaque décision. Elle ne garantit pas qu’ils comprendront immédiatement. Gérard peut être déçu et Lucie rester inquiète. Ces réactions méritent un échange, sans devenir à elles seules la preuve qu’Odile devrait renoncer à son après-midi.
@@ -42,6 +44,8 @@ La réponse à Gérard comporte un refus et une possibilité de rencontre. Odile
 ### On peut apprécier d’être seule et avoir besoin d’appui
 
 Lorsqu’un objet rappelle Françoise ou qu’une démarche paraît pénible, Odile peut souhaiter une présence. Cette demande ne contredit pas son refus du déjeuner. L’autonomie comprend aussi la possibilité de choisir et de solliciter des aides. Si elle tente de protéger une image de parfaite indépendance, elle risque de ne plus demander ce qui lui serait utile. À l’inverse, accepter une aide ponctuelle ne donne pas à son entourage le pouvoir d’organiser toutes ses journées. Les besoins changent ; les accords peuvent rester précis plutôt que définir une identité de personne solitaire ou dépendante.
+
+Odile peut ainsi vouloir lire la remarque de Françoise à Lucie après avoir choisi un temps de cuisine seule. Pour la conférence qu’elle aimerait rejoindre, elle peut chercher avec une voisine un trajet qui évite la correspondance difficile. Le premier appui concerne un échange souhaité ; le second, l’accès à une sortie. Aucun ne donne à l’entourage la responsabilité générale de son emploi du temps.
 
 ## Dire ce qu’on souhaite garder pour soi
 

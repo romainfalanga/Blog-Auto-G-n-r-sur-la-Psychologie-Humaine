@@ -41,6 +41,11 @@ Au groupe photo, une autre étiquette pourrait apparaître : celui qui photograp
 
 L’entourage n’a pas forcément l’intention de l’enfermer. Bastien peut accueillir une nouvelle image lorsqu’elle lui est montrée. Malik peut donc vérifier les réactions plutôt que supposer que tout changement sera refusé. Si une personne insiste pour le réduire à un rôle, une limite peut ensuite devenir nécessaire.
 
+Exemples concrets
+
+- Bastien s’attend encore à des rames alors que Malik apporte la photo d’une chaise.
+- La précision reconnue au travail ne donne pas à Malik la réponse à toute consigne administrative.
+
 ### Le récit doit prouver une cohérence parfaite
 
 Malik cherche parfois à raconter son installation ici comme une histoire sans hésitation, parce qu’elle relève d’un choix. Une difficulté présente pourrait alors ressembler à un démenti de la décision initiale. Il risque de cacher une fatigue ou un manque pour défendre l’idée que son parcours se tient.
@@ -49,11 +54,21 @@ Un choix peut rester souhaité et comporter des coûts. La distance avec Awa, le
 
 Cette nuance concerne également les liens culturels. Les recherches de Benet-Martínez et Haritatos distinguent différentes dimensions de l’expérience biculturelle, plutôt qu’une opposition uniforme entre deux appartenances. Pour Malik, cette prudence invite à regarder les situations concrètes sans convertir chaque tension en combat entre son origine et son présent.
 
+Exemples concrets
+
+- Malik pourrait cacher le manque d’Awa pour présenter son installation choisie comme sans coût.
+- Une fatigue actuelle ne rend pas automatiquement faux les motifs du départ.
+
 ### Une injustice risque de devenir le seul nom disponible
 
 Après la décision de Marc, Malik possède un récit important à faire entendre auprès des interlocuteurs concernés. Il peut aussi souhaiter ne pas être présenté partout par cette expérience. Garder d’autres dimensions n’exige pas de minimiser le fait. La question du traitement discriminatoire reste ouverte même lorsqu’il parle de photographie.
 
 Son entourage peut soutenir ce choix en demandant ce qu’il souhaite partager. Fatou peut respecter la notice qu’il écrit ; Awa peut écouter un récit différent dans leur relation intime. Aucun cercle n’a besoin de recevoir toute la biographie pour rencontrer quelque chose de vrai. Le droit à une identité personnelle comprend celui de sélectionner les informations selon le contexte.
+
+Exemples concrets
+
+- Le carton d’exposition pourrait être envahi par l’histoire avec Marc si Malik croyait devoir tout expliquer.
+- Il peut garder cette discrimination pour un interlocuteur compétent tout en parlant réparation à une visiteuse.
 
 ## Choisir ce que la notice doit dire
 
@@ -65,6 +80,12 @@ Essayez deux formulations brèves et observez ce qu’elles ouvrent. « Je suis 
 
 Conservez la possibilité d’en dire moins. Une présentation peut rester simple et ne contenir ni origine, ni situation affective, ni difficulté récente. Cette sélection n’est pas une honte à corriger lorsqu’elle correspond à un choix libre. Dans un contexte qui exige certaines informations, vérifiez séparément ce qui est nécessaire et exact.
 
+Exercice pratique
+
+- Définissez le rôle du carton : introduire la série montrée à l’accrochage.
+- Essayez deux phrases sur les tramways et l’intérêt pour les objets.
+- Gardez ce qui éclaire les images et laissez de côté les informations privées que cette notice n’exige pas.
+
 ### 2. Chercher une continuité dans des gestes plutôt que dans une étiquette
 
 Choisissez deux situations différentes où quelque chose compte pour vous. Malik pense au soin apporté à un travail autorisé au dépôt et à son attention devant une chaise réparée. Il y reconnaît un intérêt pour ce qui permet aux objets de continuer à servir. Cette continuité ne supprime pas les différences entre métier et loisir.
@@ -73,6 +94,12 @@ On peut aussi retrouver une valeur dans une limite : respecter un engagement, pr
 
 Si aucune continuité claire n’apparaît, laissez la question ouverte. Certaines périodes comportent une exploration réelle. Une identité n’a pas besoin d’être immédiatement racontable pour être légitime. Le but n’est pas d’inventer un fil parfait qui relierait tous les événements, mais de repérer des appuis sans effacer les contradictions présentes.
 
+Exercice pratique
+
+- Comparez votre attention devant un travail autorisé au dépôt et devant la chaise réparée.
+- Nommez le geste ou l’intérêt que vous souhaitez garder à travers ces deux situations.
+- Laissez les différences et les questions sans fil unique si rien de plus ne s’impose.
+
 ### 3. Essayer une nuance et écouter les réactions réelles
 
 Dans un contexte suffisamment sûr, exprimez un élément qui élargit une description habituelle. Malik montre à Bastien la photo de la chaise et dit qu’il souhaite explorer d’autres objets. Il ne présente pas ce geste comme une rupture spectaculaire. Il observe simplement si cette nuance peut entrer dans leur conversation.
@@ -80,6 +107,12 @@ Dans un contexte suffisamment sûr, exprimez un élément qui élargit une descr
 L’autre peut être surpris, intéressé ou peu disponible. Une première réaction ne raconte pas toujours toute la relation. Si un malentendu apparaît, on peut expliquer une phrase. Si une réduction se répète ou devient méprisante, il est possible de poser une limite et de choisir un autre espace de partage.
 
 Après l’essai, demandez-vous ce que vous souhaitez garder, modifier ou laisser privé. La souplesse ne signifie pas s’adapter au goût de chaque interlocuteur. Malik peut conserver une image que Bastien apprécie moins et changer une formulation qui ne lui convient plus. Le choix revient à ce qu’il souhaite exprimer, avec les contraintes du contexte.
+
+Exercice pratique
+
+- Montrez à Bastien l’image de la chaise dans cet échange suffisamment sûr.
+- Expliquez votre envie d’explorer cet objet sans annoncer une rupture de métier.
+- Écoutez sa réaction puis décidez de la nuance à garder, modifier ou réserver à un autre espace.
 
 ## Malik signe une présentation qui laisse de la place
 

@@ -31,13 +31,28 @@ L’âge ne suffit pas à dire ce dont les parents ont besoin. La charge peut ve
 
 Sophie illustre parfaitement cette manifestation : elle ne répond pas seulement aux demandes formulées, elle les devance. Dans cette scène, Sophie interprète presque chaque changement comme le signe d’un besoin auquel elle doit répondre. Un oubli de clé, une démarche plus lente ou un soupir deviennent des urgences absolues à combler. Cette hyper-vigilance rappelle à Sophie ses épisodes de réflexion intense au travail, où elle analysait chaque silence de Marc comme une menace. Ici, elle analyse chaque ride ou chaque silence de son père comme un appel au secours auquel elle se sent obligée de répondre immédiatement, sacrifiant son temps personnel.
 
+Exemples concrets :
+
+- Le soupir de son père devant la télécommande la fait attendre qu’il l’appelle, avant même de connaître sa demande.
+- Voir les traits fatigués de sa mère la conduit à envisager toute la liste des tâches sans lui demander lesquelles sont nécessaires aujourd’hui.
+
 ### 2. La culpabilité de la distance
 
 Vivre seule en ville pendant que ses parents vieillissent en province génère chez Sophie une culpabilité sourde. Lorsqu'elle est dans son appartement parisien, elle s'empêche parfois de profiter d'une sortie avec Claire car elle imagine ses parents isolés. Le sacrifice de soi se manifeste alors par une auto-punition : on s'interdit le plaisir tant que l'autre n'est pas dans un confort total. C'est un cercle vicieux où le bien-être personnel est perçu comme une trahison envers ceux qui nous ont élevés, surtout quand on a grandi, comme Sophie, avec l'idée que l'excellence et le dévouement sont les seules mesures de l'amour. Elle réalise que ce besoin de se sacrifier est le prolongement de son exigence élevée : si elle n'est pas une aidante parfaite, elle redevient à ses propres yeux la petite fille qui craint de ne pas être à la hauteur du regard parental.
 
+Exemples concrets :
+
+- À Paris, Sophie peut renoncer à une sortie avec Claire sur la seule idée que ses parents sont isolés, sans avoir échangé avec eux.
+- Avant son train, elle envisage d’annuler son repos du soir pour faire encore une course qu’elle n’a pas vérifiée avec sa mère.
+
 ### 3. L'effacement des limites personnelles
 
 Sophie a du mal à refuser des demandes qu’elle pourrait différer ou partager. Sophie accepte de nettoyer le réfrigérateur, de trier le courrier et d'aller à la pharmacie en une seule après-midi, tout en sachant que son train de retour est dans deux heures. Elle ne pose aucune limite car elle craint que le moindre refus n'accélère le déclin de ses parents ou ne les blesse. Elle finit par ne plus exister en tant qu'individu avec ses propres limites physiques, mais uniquement en tant que fonction support, une extension logistique de la vie de ses parents.
+
+Exemples concrets :
+
+- Elle ajoute pharmacie et courrier au réfrigérateur alors que l’horaire du train n’a pas changé.
+- Elle peut chercher un relais pour une tâche indispensable et reporter la télécommande, au lieu de traiter toutes les demandes comme une urgence identique.
 
 ## Techniques pour agir face au sacrifice de soi
 
@@ -47,13 +62,19 @@ Pour sortir de ce schéma, il est nécessaire de réapprendre à s'inclure dans 
 
 Cet exercice consiste à noter sur une feuille, en deux colonnes, les besoins de la personne aidée et ses propres besoins immédiats. Sophie peut l'utiliser dans son carnet lorsqu'elle sent la pression monter. Par exemple, à gauche : Mon père a besoin que je répare la télécommande. À droite : J'ai besoin de trente minutes de calme avant mon train pour ne pas arriver stressée au bureau demain. L'objectif est de visualiser que les deux besoins ont une légitimité égale. Sophie doit ensuite s'entraîner à répondre au besoin de l'autre seulement après avoir validé ou planifié une réponse à son propre besoin.
 
+Pour essayer, écrivez la demande réellement formulée et votre besoin ; vérifiez avec vos parents ce qui est nécessaire aujourd’hui et les relais possibles ; choisissez ensuite une aide qui tienne compte de l’ensemble. Cette comparaison n’impose pas de faire passer votre confort avant un besoin indispensable non couvert.
+
 ### 2. Le quota de services hebdomadaire
 
 On peut convenir à l’avance du temps disponible pour des tâches reportables. Sophie propose de revoir la télécommande lors d’une prochaine visite. En revanche, un besoin indispensable, comme l’accès à un médicament nécessaire, demande de vérifier qu’un relais peut s’en charger. Les [plateformes de répit et points d’information locaux](https://www.pour-les-personnes-agees.gouv.fr/des-annuaires-pour-les-personnes-agees-et-les-aidants) peuvent aider quand la charge est régulière.
 
+Pour essayer, annoncez le temps disponible avant le train ; vérifiez avec votre mère le délai réel de la pharmacie ; convenez d’un relais si elle ne peut pas attendre ou reportez une tâche non urgente. Une limite de temps ne supprime pas la recherche d’une réponse au besoin indispensable.
+
 ### 3. La restructuration cognitive de la culpabilité
 
 Cette technique vise à modifier le dialogue intérieur. Quand Sophie se dit que si elle ne nettoie pas cette cuisine, elle est une mauvaise fille, elle doit remplacer cette pensée par une affirmation plus réaliste. Par exemple : Ma présence et mon affection sont plus précieuses pour mes parents que la propreté de leur réfrigérateur. Je préserve ma santé pour pouvoir les accompagner sur le long terme. L'exercice consiste à identifier la pensée culpabilisante dès qu'elle surgit et à la noter, puis à écrire en dessous une version bienveillante et rationnelle de la situation, en se traitant comme elle traiterait son amie Claire lorsqu'elles discutaient au parc de ses contradictions.
+
+Pour essayer, notez le jugement « mauvaise fille » ; reprenez les engagements et possibilités concrètes plutôt que supposer les sentiments de vos parents ; écrivez une lecture plus nuancée puis choisissez l’aide que vous pouvez proposer.
 
 ## Refuser la pharmacie et prendre le train
 

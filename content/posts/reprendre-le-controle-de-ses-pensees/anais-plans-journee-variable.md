@@ -41,6 +41,11 @@ Ce verdict protège parfois d'une nouvelle déception. Si elle renonce à tout, 
 
 La question devient plus précise lorsqu'elle sépare les éléments. Que faut-il réellement faire aujourd'hui ? Qu'est-ce qui compte pour elle ? Qu'est-ce qui peut attendre sans conséquence importante ? Ces questions ne suppriment pas la maladie. Elles empêchent un imprévu d'obtenir automatiquement un pouvoir sur chaque dimension de la journée.
 
+Exemples concrets
+
+- Reporter le magasin lui fait d’abord dire que toute la journée est annulée.
+- Ne pas venir au centre culturel lui paraît supprimer aussi toute possibilité de parler des affiches.
+
 ### Le plan de repli ressemble à une punition
 
 Quand elle renonce à une sortie, Anaïs remplit parfois la période libre de rangement. Elle pense qu'au moins elle peut se rendre utile. Mais cette nouvelle activité peut lui demander autant ou davantage d'énergie. Le repos disparaît, et le plaisir retiré n'est remplacé que par une autre obligation.
@@ -49,6 +54,11 @@ Elle peut aussi choisir une version si réduite qu'elle ne répond plus à son e
 
 Une alternative respectueuse peut être simple : une conversation plus courte, une activité choisie dans une installation qui convient, ou un repos sans tâche supplémentaire. Elle reste compatible avec les conseils de santé qui la concernent. La souplesse ne demande pas de remplacer chaque activité par une autre pour maintenir coûte que coûte une quantité de production.
 
+Exemples concrets
+
+- Après avoir renoncé au marché, elle pourrait remplir la matinée de ménage.
+- Remplacer la rencontre par des corrections urgentes seule chez elle préserverait la tâche mais pas le lien recherché.
+
 ### L'incertitude se propage dans les relations
 
 Anaïs retarde le message à Mireille parce qu'elle espère encore retrouver le programme initial. Pendant ce temps, son amie ne sait pas si elle doit attendre. Le souhait de ne pas décevoir produit finalement davantage de flou. L'organisation devient plus difficile pour les deux.
@@ -56,6 +66,11 @@ Anaïs retarde le message à Mireille parce qu'elle espère encore retrouver le 
 Prévenir ne signifie pas annoncer un état définitif. Anaïs peut dire ce qu'elle sait maintenant et à quel moment elle confirmera la suite. Elle n'a pas à garantir l'absence de tout changement, mais elle peut rendre le processus plus prévisible. Une information partielle et claire aide souvent davantage qu'un silence destiné à préserver une possibilité.
 
 Benoît a besoin de cette clarté aussi. Il peut proposer un relais sans suspendre sa propre journée dans l'attente. Si chaque option dépend de lui au dernier moment, la flexibilité d'Anaïs devient une disponibilité imposée à son compagnon. Ils doivent donc vérifier que les alternatives conviennent réellement aux deux personnes.
+
+Exemples concrets
+
+- Mireille attend une confirmation tandis qu’Anaïs garde l’espoir de venir.
+- Benoît risque de suspendre sa sortie personnelle si elle ne précise pas quel achat elle souhaite partager.
 
 ## 3 techniques pour préparer une journée adaptable
 
@@ -67,6 +82,16 @@ Elle n'a pas besoin de sauver toute la journée. Elle choisit une ou deux foncti
 
 Les obligations de santé restent traitées selon leur cadre propre. Un rendez-vous ou une consigne ne se déplace pas simplement parce qu'une autre activité plaît davantage. Si une difficulté rend un soin ou un déplacement médical compliqué, Anaïs contacte le professionnel ou le service concerné pour chercher une solution adaptée.
 
+Pour essayer dans cette situation
+
+Objectif : Repérer ce qu’il vaut la peine de préserver dans le programme.
+
+1. Associer chaque adresse à sa fonction : achat, lien avec Benoît, notice et conversation.
+2. Vérifier le délai réel de la commande avant de la reporter.
+3. Choisir les fonctions importantes aujourd’hui en gardant les obligations de santé dans leur cadre.
+
+Le choix porte sur ce qu’elle veut préserver, sans exiger de maintenir le même itinéraire.
+
 ### 2. Prévoir deux options réellement différentes
 
 Pour la rencontre, elle propose soit un passage court si son état le permet, soit un échange à distance à une heure convenue avec transmission du document. Les deux options doivent rester praticables. L'alternative ne consiste pas à faire exactement la même réunion dans des conditions moins confortables pour éviter le mot « report ».
@@ -75,6 +100,16 @@ Elle garde aussi la possibilité de ne pas participer aujourd'hui si aucune vers
 
 Avec Benoît, elle vérifie les appuis disponibles : peut-il faire un achat seul, souhaite-t-il garder une sortie personnelle, que peuvent-ils partager plus tard ? Elle ne transforme pas sa préférence en demande automatique. Leur solution doit tenir compte de la santé d'Anaïs et de la vie de Benoît, sans opposer ces réalités.
 
+Pour essayer dans cette situation
+
+Objectif : Prévoir des options qui respectent les contraintes de chacun.
+
+1. Pour Mireille, comparer un passage court et un appel à une heure convenue.
+2. Vérifier avec Benoît les achats qu’il peut faire et les projets qu’il veut garder.
+3. Conserver aussi l’arrêt ou le report si aucune option ne convient à son état.
+
+Les alternatives peuvent être réellement habitables au lieu de déplacer la même charge ailleurs.
+
 ### 3. Fixer un point de décision et prévenir simplement
 
 Plutôt que réévaluer le programme sans cesse, Anaïs choisit un moment assez proche pour disposer d'informations utiles et assez tôt pour respecter les autres. Elle décide alors de la version retenue et envoie un message clair. Si un nouveau changement apparaît ensuite, elle prévient de nouveau, sans considérer que la première décision était mensongère.
@@ -82,6 +117,16 @@ Plutôt que réévaluer le programme sans cesse, Anaïs choisit un moment assez 
 Elle formule le message autour de l'organisation : « Je ne viens pas au centre aujourd'hui. Je peux t'appeler à l'heure prévue et t'envoyer la notice. Est-ce que cela te convient ? » Elle peut ajouter le contexte qu'elle souhaite, sans donner un bilan médical détaillé. Mireille sait ce qui change et ce qui reste proposé.
 
 Après la journée, Anaïs regarde ce qui fonctionne pour préparer une prochaine fois. Elle ne se note pas selon la ressemblance avec le programme initial. Elle examine si le plan respecte ses besoins, les conseils reçus et les contraintes des personnes concernées. Une option utile aujourd'hui peut demander une révision la semaine suivante.
+
+Pour essayer dans cette situation
+
+Objectif : Décider assez tôt pour rendre la modification compréhensible.
+
+1. Choisir un moment de décision qui laisse à Mireille le temps de s’organiser.
+2. Envoyer la version retenue, la proposition d’appel et une demande d’accord.
+3. Après la journée, relever ce qui demande une révision plutôt que noter la ressemblance avec le plan initial.
+
+Un processus de décision visible peut réduire le flou relationnel sans promettre l’absence d’imprévu.
 
 ## Une adresse barrée
 

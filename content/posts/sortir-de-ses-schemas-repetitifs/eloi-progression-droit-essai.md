@@ -45,6 +45,8 @@ Le nombre de cartes correctement placées reste proche. Éloi pourrait conclure 
 
 Il faut rester honnête : un plateau peut aussi montrer qu'une méthode ne suffit plus. Le reconnaître n'enlève rien à l'effort fourni. Ils peuvent regarder si l'exercice est adapté, si le retour est compris et si les occasions de pratique sont assez régulières. La réponse n'est pas toujours de répéter davantage. Parfois, il faut changer la forme de l'explication, réduire une difficulté ou rendre une dépendance plus visible.
 
+Un autre changement peut apparaître dans sa manière de demander : au premier essai, il dit seulement qu’il est perdu ; au suivant, il peut montrer les deux cartes dont l’ordre l’embarrasse. Le nombre de cartes bien placées peut rester identique. La précision de la question apporte néanmoins une information différente, sans prouver à elle seule que l’ensemble de l’organisation est acquis.
+
 ### L'erreur pousse à augmenter la quantité sans vérifier la qualité
 
 Après une mauvaise séquence, Éloi veut recommencer immédiatement plusieurs fois. Il espère effacer la sensation d'échec. Ce choix peut l'amener à répéter la même confusion, surtout lorsqu'il ne sait pas encore ce qui doit changer. Une pause pour comprendre le retour peut être plus utile qu'une nouvelle série automatique. Le volume de pratique n'est pas un indicateur suffisant de sa qualité.

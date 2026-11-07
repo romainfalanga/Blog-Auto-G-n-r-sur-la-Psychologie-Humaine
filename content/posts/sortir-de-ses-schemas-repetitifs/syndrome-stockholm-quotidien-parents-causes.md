@@ -33,15 +33,21 @@ Lors de cette visite, Stéphane remarque les moments où il défend ses parents 
 
 ### 1. Chercher une explication aux remarques qui blessent
 
-Stéphane dit parfois que son père ne fait que le motiver. Il peut reconnaître cette intention possible sans s'interdire de dire que les comparaisons avec Philippe lui font mal. Il se rappelle le déjeuner du 28 avril, où il s'était déjà retenu de parler des tensions avec Maxime.
+Stéphane peut souhaiter comprendre ses parents et reconnaître malgré cela l’effet d’une parole. Une intention bienveillante supposée ne démontre ni l’innocuité d’une remarque ni une intention malveillante cachée.
+
+Quand son père le compare à Philippe, il peut répondre intérieurement « il veut me motiver » et écarter sa propre peine. Quand sa mère parle de sa solitude, il pourrait se croire tenu d’excuser toutes les remarques de la visite par son inquiétude. Ces deux explications possibles concernent des personnes et des paroles différentes. Elles ne l’empêchent pas de demander une limite ou de décider de ce qu’il souhaite prendre en charge.
 
 ### 2. Le sacrifice de ses propres besoins par loyauté
 
-Stéphane a le droit d'aider ses parents et de réfléchir à ce qu'il peut donner. Lorsqu'une visite déborde ou qu'un appel devient pesant, il peut se demander ce qu'il souhaite, ce qu'il peut faire et ce qu'il redoute s'il dit non.
+Stéphane a le droit d’aider ses parents et d’en choisir la portée. L’attachement ne rend pas toute disponibilité exigible et la difficulté du parent ne dit pas à elle seule ce que le fils peut faire.
+
+Il peut être tenté de manquer le train de seize heures pour finir la facture sans justificatif, alors que l’information manque encore. Il peut aussi promettre de répondre à tout appel dans la semaine avant d’avoir regardé son travail et sa vie avec Sandrine et Maxime. La première extension concerne la visite, la seconde une disponibilité future. Les préciser rend son aide plus lisible sans décider de l’importance du lien familial.
 
 ### 3. Reprendre à son compte des critères familiaux
 
-Quand son père évoque Philippe, Stéphane se surprend à évaluer tout son travail à partir d'une vieille rivalité. Le récit montre comment cette comparaison revient ; elle ne suffit pas à expliquer à elle seule son rapport au travail ou à l'échec.
+Une comparaison exprimée par son père peut devenir le critère que Stéphane s’applique dans plusieurs domaines. Le retour de cette rivalité dans le récit n’en fait pas une cause établie de tout son rapport au travail.
+
+La réussite immobilière de Philippe peut lui donner l’impression que son parcours commercial vaut moins, alors que les objets comparés diffèrent. La perte de Lemoine peut aussi lui sembler confirmer l’ancienne place de celui qui ne fait jamais assez, sans bilan des conditions du dossier. Ces deux glissements peuvent être notés sans accepter le classement comme une règle de vie et sans devoir convaincre son père qu’il est injuste.
 
 ## Des pistes pour choisir ce que l'on veut faire
 
@@ -49,15 +55,33 @@ Les choix possibles dépendent de la relation, du soutien disponible et de la s�
 
 ### 1. Nommer le fait et ce qu'il provoque
 
-Stéphane peut se dire : « Mon père vient encore de comparer mon travail à celui de Philippe, et je me sens rabaissé. » Il n'a pas besoin de décider de l'intention de son père pour entendre son propre malaise.
+Stéphane peut décrire le présent sans devoir déterminer l’intention de son père. Cette étape peut rester intérieure si parler ne lui convient pas ou ne paraît pas sûr.
 
-### 2. Le journal de la réalité objective
+1. Relever les mots ou la comparaison dont il se souvient, sans ajouter ce que son père penserait de toute sa vie.
+2. Nommer l’effet qu’il remarque : peine, irritation ou envie de justifier, avec des mots provisoires si nécessaire.
+3. Choisir son besoin immédiat : continuer une tâche précise, ne pas discuter de Philippe ou préparer le départ. Il n’est pas obligé de l’expliquer sur-le-champ.
 
-S'il peut le faire en privé, Stéphane peut noter une phrase prononcée, son effet sur lui et ce qui l'aiderait lors d'une prochaine visite. Il peut aussi en parler à une personne de confiance et laisser de côté le carnet.
+Cette description peut rendre sa décision plus proche de la scène. Elle ne transforme pas un ressenti en preuve d’emprise ou en diagnostic sur la famille.
+
+### 2. Garder une note privée de la visite
+
+S’il souhaite garder une note, Stéphane le fait dans un cadre privé. Le carnet distingue une parole mémorisée, une interprétation et son propre choix ; il n’est pas un enregistrement objectif de toute la relation.
+
+1. Après la visite, noter un échange limité, avec les réserves nécessaires sur les mots dont il n’est pas sûr.
+2. Ajouter ce qui l’a gêné et l’appui qu’il souhaiterait, par exemple parler à Sandrine de son heure de départ sans raconter tous les dossiers familiaux.
+3. Choisir s’il veut préparer une prochaine visite, chercher un avis extérieur ou ne rien faire de plus aujourd’hui. Il peut préférer une conversation à l’écriture.
+
+La trace peut servir à clarifier une suite. Elle ne demande pas de surveiller ses proches ni d’accumuler des éléments pour les convaincre de sa version.
 
 ### 3. La mise en place de micro-limites temporelles
 
-Si partir à une heure choisie est sans danger, Stéphane peut prévoir son trajet retour et annoncer son départ simplement. En cas de menaces, de contrôle ou de violences, la priorité est de trouver un soutien sûr ; il n'est pas nécessaire de confronter ses proches. Le [ministère de la Justice](https://www.justice.fr/je-suis-victime/violences) oriente les personnes confrontées à des violences, y compris intrafamiliales.
+Si le départ choisi est sans danger, Stéphane peut organiser une aide bornée. La limite ne dépend pas de sa capacité à rendre tous les papiers terminés ou ses parents satisfaits.
+
+1. Vérifier le train de retour et le temps réellement disponible, puis annoncer l’heure de départ au début de la visite.
+2. Choisir la tâche possible dans ce créneau et signaler l’information manquante, comme le justificatif de la facture. Il peut noter le numéro à appeler sans promettre de tout résoudre lui-même.
+3. À l’heure prévue, clore l’aide du jour et partir, ou revoir librement l’accord si une information le justifie. Le mécontentement seul n’impose pas de prolonger la visite.
+
+En cas de menaces, de contrôle ou de violences, la priorité est de trouver un soutien sûr ; il n’est pas nécessaire de confronter ses proches. Le [ministère de la Justice](https://www.justice.fr/je-suis-victime/violences) oriente les personnes confrontées à des violences, y compris intrafamiliales.
 
 ## Monter dans le train prévu
 

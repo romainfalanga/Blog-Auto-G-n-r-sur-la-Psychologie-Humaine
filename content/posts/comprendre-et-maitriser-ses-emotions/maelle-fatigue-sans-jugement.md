@@ -41,6 +41,8 @@ Elle peut regarder les indices qui résistent à sa condamnation : elle a prépa
 
 Julien ne comprend pas toujours la force de cette condamnation. Pour lui, proposer de prendre le chariot revient à résoudre un problème pratique. Pour Maëlle, accepter ressemble à signer une déclaration d'incapacité. La conversation gagne donc à porter sur le sens de son aide, autant que sur la répartition des sacs.
 
+Relire une ligne au rayon du riz et repasser dans une allée déjà parcourue peuvent toutes deux devenir « je ne sais plus rien gérer », au lieu de rester deux difficultés de ces courses.
+
 ### La comparaison fait disparaître le coût réel
 
 Une personne âgée traverse le rayon avec deux paniers. Maëlle s'en sert aussitôt contre elle : si cette personne peut porter autant, elle devrait pouvoir terminer sa liste. Elle ne connaît pourtant rien de son sommeil, de sa journée ou de sa santé. Elle compare une scène extérieure à l'ensemble de ses sensations intérieures.
@@ -49,6 +51,8 @@ Cette comparaison oublie aussi les tâches déjà effectuées. La sortie au maga
 
 Maëlle n'a pas besoin de gagner une discussion sur celle qui fatigue le plus. Elle a besoin de déterminer si continuer lui coûte davantage que ce que la tâche exige réellement. Acheter le riz aujourd'hui n'est pas une mesure de sa dignité. Le produit peut être choisi par Julien sans que leur relation change de nature.
 
+Maëlle pourrait aussi comparer sa liste à celle d’avant la rotation, sans prendre en compte la récupération différente ; comme la comparaison avec les paniers, cela effacerait le contexte.
+
 ### L'autocritique rend l'aide plus difficile à recevoir
 
 Plus Maëlle se juge, plus elle cache la difficulté. Elle répond « ça va », accélère, puis s'agace lorsqu'une autre question survient. Julien voit une contradiction : elle semble peiner mais refuse sa proposition. Il risque alors d'insister ou de se retirer, ce qui lui donne à nouveau l'impression d'être incomprise.
@@ -56,6 +60,8 @@ Plus Maëlle se juge, plus elle cache la difficulté. Elle répond « ça va »,
 L'autocritique prétend parfois prévenir le regard d'autrui : si Maëlle se montre assez exigeante envers elle-même, personne ne pourra la trouver négligente. Mais ce contrôle peut l'empêcher de donner une information utile. Julien ne peut pas deviner quel soutien convient si toute question reçoit la même réponse défensive.
 
 Recevoir une aide située ne signifie pas déléguer toute sa vie. Maëlle peut choisir ce qu'elle garde, ce qu'elle partage et ce qu'elle reporte. Son autonomie comprend cette capacité d'arbitrage. Elle n'est pas seulement le fait d'accomplir seule toutes les tâches prévues, quel qu'en soit le coût.
+
+Répondre « ça va » à l’offre du chariot et accélérer pour ne pas être questionnée sont deux réponses défensives qui cachent à Julien l’appui dont elle aurait besoin.
 
 ## Simplifier la tâche quand la fatigue se fait sentir
 

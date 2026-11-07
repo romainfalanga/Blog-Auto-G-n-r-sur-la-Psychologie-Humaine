@@ -41,6 +41,11 @@ Il ne faut pas exiger un vocabulaire émotionnel élaboré à tout moment. Aprè
 
 La précision peut également venir plus tard. Il peut dire qu’il ne sait pas encore comment nommer ce qui se passe et demander à reprendre la conversation. Ce délai ne signifie pas qu’il cache volontairement quelque chose. Il laisse une place à l’exploration, à condition de ne pas devenir une manière de fermer indéfiniment toute discussion importante.
 
+Exemples concrets
+
+- « Fatigué » peut conduire Mariama à parler de sommeil alors que Malik veut aussi nommer la déception.
+- L’image d’une photo choisie avec Awa dans la même pièce précise le manque sans mot parfait.
+
 ### Une traduction exacte ne garantit pas le même effet
 
 Deux formulations proches peuvent évoquer des habitudes différentes. Malik associe une expression à une plaisanterie de couple et une autre à une demande plus grave. Awa peut leur donner une nuance légèrement différente. Le problème ne vient pas nécessairement d’une langue mal maîtrisée ; le sens dépend aussi de leur histoire et du ton entendu.
@@ -49,6 +54,11 @@ Dans un message vocal, un rire, un arrêt ou une phrase coupée ajoutent des ind
 
 Ils peuvent changer de langue, reprendre la même phrase ou utiliser un exemple sans considérer ce détour comme un échec. La compréhension se construit dans l’échange. Une personne bilingue n’a pas à produire une traduction impeccable de son monde intérieur avant de mériter une écoute patiente.
 
+Exemples concrets
+
+- Une formule habituelle de plaisanterie peut sembler plus légère à Malik qu’à Awa.
+- Un arrêt dans l’enregistrement peut faire entendre un reproche qu’il ne souhaitait pas formuler.
+
 ### Les habitudes d’un lien orientent ce qui peut être dit
 
 Avec Mariama, Malik commence souvent par les nouvelles concrètes. Cette habitude les aide à rester en contact. Elle peut aussi lui donner l’impression qu’une émotion sans solution immédiate n’a pas sa place dans l’appel. Il ne sait pas si sa mère attend réellement cette retenue ou s’il poursuit simplement leur format habituel.
@@ -56,6 +66,11 @@ Avec Mariama, Malik commence souvent par les nouvelles concrètes. Cette habitud
 Une expérience limitée permet de le vérifier : ajouter un mot sur son état et voir comment elle répond. Elle peut l’écouter, proposer trop vite une solution ou avoir elle-même peu de disponibilité. Une réponse maladroite ne décrit pas toute leur relation ni une norme générale de famille sénégalaise. Elle appartient à cet échange entre deux personnes.
 
 Malik conserve aussi des limites. Il peut souhaiter parler d’une émotion à Awa et garder ce détail privé avec sa mère. Tout dire à chacun ne constitue pas une meilleure expression de soi. Le choix du destinataire fait partie d’une communication respectueuse de ses besoins et de ceux des autres.
+
+Exemples concrets
+
+- Avec Mariama, les nouvelles pratiques occupent le début de l’appel par habitude.
+- Malik peut garder une émotion intime pour Awa sans devoir l’expliquer aussi à sa mère.
 
 ## Chercher une phrase que l’autre peut entendre
 
@@ -67,6 +82,12 @@ Ajoutez un ou deux mots émotionnels si cela aide : déçu, heureux, irrité, to
 
 Si la scène reste confuse, commencez par un fait corporel ou un comportement observable, sans le traiter comme une preuve certaine d’émotion. Malik remarque qu’il réenregistre plusieurs fois. Cela peut signaler une hésitation ; il cherche ensuite ce qu’il veut protéger dans le message. Le corps fournit un indice parmi d’autres, pas une traduction automatique.
 
+Exercice pratique
+
+- Choisissez la scène de la photo à accrocher ensemble.
+- Décrivez ce que vous souhaiteriez partager en présence avant de chercher un nom d’émotion.
+- Ajoutez un mot provisoire si cela aide et gardez le droit de ne pas encore savoir.
+
 ### 2. Comparer deux formulations dans les langues disponibles
 
 Dites ou écrivez une même idée de deux manières qui vous viennent naturellement. Vous pouvez changer de langue, de registre ou simplement de phrase. Malik compare une formule courte en français et une autre qu’il utilise avec Awa en wolof. Il écoute ce que chacune évoque pour lui, sans chercher laquelle serait supérieure.
@@ -75,6 +96,12 @@ Demandez-vous ensuite laquelle correspond à l’intention actuelle : partager u
 
 Si l’autre ne parle pas la langue choisie, expliquez le sens avec vos propres mots et laissez la possibilité de poser une question. On peut aussi conserver une expression privée sans la traduire entièrement. L’exercice ne doit pas devenir une injonction à exposer sa culture ou à servir de traducteur permanent de son intimité.
 
+Exercice pratique
+
+- Formulez le même manque de deux façons dans les langues ou registres qui vous viennent.
+- Comparez ce que chaque phrase évoque dans votre histoire avec Awa, sans classer les langues.
+- Choisissez ou combinez les mots qui portent votre intention actuelle.
+
 ### 3. Vérifier l’effet et préciser le soutien souhaité
 
 Après une phrase importante, demandez ce que l’autre entend. Malik peut dire : « Je te raconte ce qui me manque ; est-ce que cela ressemble à un reproche pour toi ? » La question laisse une place à la réponse d’Awa. Elle n’est pas destinée à lui faire confirmer qu’il communique parfaitement.
@@ -82,6 +109,12 @@ Après une phrase importante, demandez ce que l’autre entend. Malik peut dire 
 Précisez ensuite ce que vous souhaitez pour le moment. Cela peut être une écoute, une idée à chercher ensemble ou simplement un message quand l’autre sera disponible. Awa peut indiquer ce qu’elle peut offrir. L’expression émotionnelle ne donne pas un droit immédiat à toute l’attention de l’interlocuteur, mais elle permet de négocier une réponse plus adaptée.
 
 Si un malentendu apparaît, reprenez une phrase au lieu de défendre l’ensemble du message. Reconnaître un effet blessant n’oblige pas à retirer l’émotion initiale. Malik peut dire qu’il ne souhaite pas accuser Awa et garder sa tristesse de ne pas partager certaines activités. Les deux informations rendent l’échange plus honnête.
+
+Exercice pratique
+
+- Demandez à Awa si elle entend votre phrase comme un partage ou comme un reproche.
+- Écoutez sa réponse et reprenez un passage si un malentendu apparaît.
+- Précisez si vous souhaitez une écoute ou une idée à chercher ensemble et vérifiez sa disponibilité.
 
 ## Malik envoie un message suffisamment précis
 

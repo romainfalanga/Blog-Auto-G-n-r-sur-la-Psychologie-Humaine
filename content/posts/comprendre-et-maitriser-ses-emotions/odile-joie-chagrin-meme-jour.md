@@ -35,6 +35,8 @@ La difficulté vient parfois moins du plaisir que de la signification qu’on lu
 
 Pendant la première scène, Odile ne pense pas à Françoise. Cela ne signifie pas que la relation disparaît de son histoire. L’attention se porte sur une action et ne peut pas garder tout le passé au premier plan. Lorsqu’un souvenir revient, il peut être accueilli ou laissé de côté selon le moment. Odile n’a pas à maintenir une pensée permanente pour prouver qu’elle se souvient. Cette distinction n’enlève rien au manque. Elle lui permet simplement de reconnaître qu’une personne peut compter profondément sans occuper consciemment chaque minute d’une activité présente.
 
+La même différence apparaît lorsqu’elle vérifie une plaque de biscuits au lieu de parler de Françoise : son attention passe à la cuisson, sans que la relation soit effacée. Le rire pendant la scène et la vérification des biscuits sont deux activités présentes. Odile peut s’y engager sans maintenir un souvenir au premier plan à chaque instant.
+
 ### On cherche une émotion qui dirait toute la vérité
 
 Odile voudrait parfois savoir si elle est réellement contente ou réellement triste. La question devient trop étroite si les deux expériences concernent des aspects différents de la soirée. Elle peut être contente d’avoir accepté l’invitation et triste de ne pas pouvoir raconter ensuite le spectacle à sa sœur. Ces précisions apportent davantage d’informations qu’une note générale de bonne ou de mauvaise humeur. Elles peuvent également aider Josiane : celle-ci n’a pas besoin d’annuler immédiatement la sortie parce qu’Odile exprime une peine, ni d’ignorer cette peine parce qu’elle l’a vue rire.
@@ -43,11 +45,15 @@ Odile voudrait parfois savoir si elle est réellement contente ou réellement tr
 
 Dire que Françoise aurait voulu Odile heureuse peut sembler doux. Mais personne ne connaît exactement ce qu’elle aurait dit aujourd’hui, et cette supposition risque de faire du bonheur un devoir envers elle. D’autres paroles peuvent être plus proches des faits : la sortie semble lui plaire, sa sœur lui manque, une pause est possible si elle le souhaite. Un soutien n’a pas à fournir une explication rassurante à chaque émotion. Il peut laisser la place à une expérience mêlée, sans chercher à la corriger ni à obtenir un résultat joyeux avant la fin de l’entracte.
 
+Une autre formule, « maintenant que tu ris, il faut en profiter toute la soirée », ajouterait une attente sur la durée de la joie. La parole sur ce que Françoise aurait voulu et l’invitation à rester joyeuse jusqu’au bout imposeraient deux règles différentes à Odile. Josiane peut plutôt lui demander ce qu’elle souhaite à l’entracte et accepter une réponse qui change.
+
 ## Rester avec ce qu’on éprouve à la fois
 
 ### 1. Décrire ce qui plaît et ce qui manque séparément
 
 Odile peut formuler deux phrases simples : elle aime le jeu du comédien et voudrait pouvoir en parler à sa sœur. Il n’est pas nécessaire d’ajouter un lien logique qui annulerait l’une des deux. Cette description peut rester intérieure ou être partagée avec quelqu’un qui l’écoute. Elle ne vise pas une analyse détaillée de chaque variation. Elle sert surtout lorsque le besoin de choisir l’émotion correcte devient pesant. Une autre personne pourrait reconnaître de l’irritation et de la tendresse, ou un soulagement accompagné de peine. Les mots restent des essais proches du vécu, pas des cases à remplir. Si nommer les ressentis ne convient pas, regarder le programme, écouter la salle ou demander une présence silencieuse peut constituer un autre appui.
+
+À l’entracte, Odile peut d’abord choisir les mots du plaisir, puis ceux du manque, avant de dire à Josiane ce qu’elle souhaite faire : boire un verre d’eau et reprendre la lecture. Cette suite n’exige pas qu’elle trouve deux émotions parfaitement nommées. Elle sert à garder une décision possible même si l’expérience reste mêlée.
 
 ### 2. Examiner la règle qui transforme le plaisir en faute
 

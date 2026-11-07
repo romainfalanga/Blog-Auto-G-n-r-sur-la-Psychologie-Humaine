@@ -35,27 +35,51 @@ Bernard sait qu’Hélène est morte et que la lettre est là. Il remet à plus 
 
 La manifestation la plus fréquente du biais de l'autruche lors d'un deuil concerne la gestion du quotidien laissé par le défunt. Cela peut se traduire par des piles de courriers non ouverts, des abonnements qui continuent de courir inutilement ou des chambres que l'on refuse de ranger pendant des années. Pour Bernard, l'enveloppe du notaire représente la confrontation finale avec le fait que sa femme n'est plus une entité juridique, mais une succession. En ignorant le courrier, il gagne quelques jours de répit factice, évitant ainsi de ressentir la déchirure que provoque chaque signature sur un document officiel.
 
+**Deux exemples dans l’atelier :** Bernard glisse l’enveloppe sous la radio au lieu d’en vérifier l’objet. Il la déplace ensuite sous un catalogue quand il prépare ses clés. Ces gestes ne disent rien du moment où il devrait ranger les vêtements d’Hélène.
+
 ### Le filtrage des conversations sociales et familiales
 
 Le biais se manifeste aussi dans les interactions avec les proches. Lorsqu'un ami ou un enfant tente d'aborder un sujet lié à la perte, la personne touchée par le biais de l'autruche change brusquement de sujet ou se focalise sur un détail technique. On observe souvent ce comportement chez des individus qui, comme Bernard, sont déjà enclins au surcontrôle émotionnel. Ils filtrent les informations entrantes pour ne garder que celles qui ne présentent aucun risque de déstabilisation. Chaque question d'Éric sur l'avenir de la maison est perçue par Bernard comme une menace à son équilibre fragile, ce qui le pousse à se murer dans des discussions sur son travail d'artisan. Il se rend compte que ce mutisme, qu'il utilisait jadis pour fuir le jugement de ses parents, s'est transformé en un outil de tri sélectif pour écarter les demandes légitimes de son fils.
+
+**Deux exemples :** à une question d’Éric sur les comptes, Bernard répond sur le vernis. Quand le téléphone affiche un appel au sujet du dossier, il se remet à parler des tiroirs plutôt que de demander quelle information manque. Il peut aussi différer une conversation pour une raison pratique ou parce qu’il n’est pas disponible.
 
 ### La focalisation excessive sur des micro-détails
 
 Un autre signe caractéristique est l'investissement disproportionné dans des tâches secondaires pour masquer l'essentiel. Bernard peut passer des jours entiers à chercher l'outil parfait ou à réorganiser ses tiroirs de vis avec une minutie extrême. Cette hyper-focalisation sert d'écran de fumée. En occupant son esprit avec des micro-décisions techniques, il ne laisse aucune place au traitement de l'information principale : le processus de deuil et la nécessité de se reconstruire. C'est une forme de procrastination émotionnelle où l'on se sent productif alors que l'on est en réalité en train de stagner face à la situation qui demande le plus d'attention. Il utilise son atelier non plus seulement comme un sanctuaire créatif, mais comme une cellule d'isolement où chaque coup de rabot remplace une pensée douloureuse.
 
+**Deux exemples :** il reprend le ponçage d’une irrégularité déjà vérifiée alors que la lettre est sur l’établi. Il trie un nouveau sachet de vis au moment prévu pour regarder le courrier. Ce qui l’interroge est ce report précis, pas le soin habituel de son métier.
+
 ## Techniques pour affronter l'évitement
 
 ### 1. Définir la prochaine démarche
 
-Si une démarche vous paraît lourde, commencez par vérifier s’il y a une échéance ou demandez au notaire de préciser la prochaine étape. Vous pouvez choisir de lire la lettre avec un proche. Un découpage pratique n’est pas un exercice d’exposition thérapeutique.
+**Objectif :** Identifier une demande administrative sans se forcer à tout traiter.
+
+1. Lire l’expéditeur et l’objet du courrier si Bernard s’en sent capable, ou appeler l’étude pour les faire préciser.
+2. Demander quelle action est attendue et s’il existe une échéance, sans déduire seul les conséquences juridiques.
+3. Inscrire une seule suite possible : demander un rendez-vous, une explication ou l’aide d’Éric pour la lecture.
+
+Ce découpage peut clarifier la demande. Il ne constitue pas une exposition thérapeutique et ne fixe aucun calendrier pour le deuil.
 
 ### 2. Le questionnement des coûts cachés
 
-Bernard peut comparer le soulagement immédiat à ce qui reste concrètement à organiser. Cette technique demande de lister sur un papier les conséquences réelles de l'évitement. Bernard pourrait noter que son refus de traiter les papiers crée une tension constante avec son fils Éric et augmente les risques de pénalités financières. L'exercice pratique est de diviser une feuille en deux colonnes : à gauche, le bénéfice immédiat de ne pas regarder, soit un soulagement temporaire, et à droite, le coût à long terme, incluant les conflits familiaux, l'anxiété persistante et le blocage administratif. Voir ces éléments écrits noir sur blanc aide à briser la rationalisation de la fuite.
+**Objectif :** Comparer ce qui est connu et ce qui reste à vérifier dans le report.
+
+1. Noter ce que fermer l’enveloppe lui évite aujourd’hui, sans se reprocher ce soulagement.
+2. À côté, inscrire les questions concrètes laissées ouvertes, comme le document demandé ou la date de réponse ; ne pas inventer de pénalités.
+3. Choisir une question à poser au notaire avant de décider de la suite.
+
+La feuille peut distinguer une crainte d’une information manquante. Elle ne cherche pas à prouver que l’ouverture serait toujours la meilleure décision immédiate.
 
 ### 3. La mise en place d'un binôme de réalité
 
-Si Bernard le souhaite, Marcel peut rester près de lui pendant l’ouverture de l’enveloppe, sans avoir à lire le document. Bernard garde la décision de demander une pause et peut se tourner vers le notaire pour comprendre les termes du courrier.
+**Objectif :** Demander une présence en gardant la maîtrise des informations partagées.
+
+1. Demander à Marcel ou Éric s’il peut rester près de lui pour un moment choisi.
+2. Préciser l’aide souhaitée : être présent, lire un passage autorisé ou noter une question, avec possibilité de pause.
+3. À la fin, décider lui-même ce qui sera rangé, demandé au notaire ou repris plus tard.
+
+Une présence consentie peut faciliter une démarche lourde. Le proche n’a pas besoin de lire le dossier ni d’interpréter le deuil.
 
 ## Une enveloppe entre eux
 

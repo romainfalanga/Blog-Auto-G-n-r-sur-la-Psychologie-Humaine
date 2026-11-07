@@ -27,27 +27,53 @@ Dans [leur étude de 1999](https://pubmed.ncbi.nlm.nih.gov/10626367/), Justin Kr
 
 La courbe virale qui fait monter la confiance dès qu’on débute, puis la fait chuter avant de remonter avec l’expertise, ne figure pas dans l’étude de 1999. Celle-ci compare des personnes à un moment donné ; elle ne suit pas les étapes d’apprentissage de Sophie. Elle donne ici un point de départ pour demander comment Sophie estime sa préparation au nouveau poste.
 
-## Comment l'effet Dunning-Kruger se manifeste face à une décision importante ?
+## Ce que Sophie peut vérifier sur sa préparation
 
-### 1. Les aspects d’un poste qu’on connaît mal
-Lorsqu'on envisage une nouvelle voie ou un projet d'envergure, on ne voit souvent que la partie émergée de l'iceberg. C'est ce qui arrive à Sophie lorsqu'elle regarde les responsabilités de direction technique. Elle se dit que c'est une simple extension de son rôle actuel. Cette méconnaissance des subtilités du poste crée une confiance artificielle. On prend alors une décision importante sur la base d'une vision simpliste, ignorant les compétences réelles nécessaires pour gérer les conflits d'équipe ou les budgets, car on ne sait pas encore que ces domaines sont des disciplines à part entière.
+Un résultat moyen observé entre groupes ne permet pas de nommer un biais chez Sophie à partir de son doute. Les trois situations suivantes montrent ce qu’elle peut examiner pour préparer sa décision ; elles ne constituent pas des signes diagnostiques de l’effet Dunning-Kruger.
 
-### 2. Le travail qu’on ne sait plus décrire
-Sophie connaît aussi le problème inverse : elle oublie parfois ce qu’il lui a fallu apprendre pour faire une tâche devenue familière. Puisqu'elle maîtrise l'architecture logicielle avec une aisance naturelle, elle pense que cela n'a aucune valeur marchande ou stratégique. Face à sa décision, elle risque de ne pas mettre en avant ses points forts les plus solides, pensant qu'ils sont banals, tout en s'inquiétant de lacunes qu'elle est pourtant tout à fait capable de combler.
+### Les aspects du poste qu’elle connaît mal
 
-### 3. Le blocage par l'analyse excessive
-Sophie se surprend à ruminer sur ce qu’elle n’a peut-être pas vu dans la fiche de poste. En étant consciente qu'elle pourrait surestimer ses capacités dans un nouveau domaine, elle se met à analyser chaque détail à l'excès pour compenser. Cela crée un cercle vicieux où la peur d'être victime de ce biais cognitif l'empêche d'agir, transformant une saine prudence en une paralysie décisionnelle. Elle finit par ne plus faire confiance à son jugement, craignant d'être l'aveugle qui ne sait pas qu'elle ne voit pas. Elle repense à cette nuit blanche passée à réécrire une fonction de code pour Marc : ce n'était pas seulement de la rigueur, c'était déjà cette incapacité à mesurer la valeur réelle de son travail accompli.
+Le travail de direction ne se réduit pas à l’extension d’une tâche de développement. Sophie peut reconnaître les responsabilités qu’elle n’a pas encore exercées et chercher ce qu’elles demandent. La confiance qu’elle ressent ne fournit pas cette information ; l’ignorance d’une partie du rôle ne prouve pas non plus, à elle seule, un effet Dunning-Kruger.
+
+Exemples concrets :
+
+- Sophie sait décrire la livraison qu’elle a coordonnée, mais n’a pas encore demandé ce que comprend le recrutement d’une équipe.
+- La partie gestion budgétaire de la fiche lui est moins familière que l’architecture logicielle ; elle peut la traiter comme une question à documenter.
+
+### Le travail familier qu’elle a du mal à décrire
+
+Sophie peut sous-estimer l’intérêt d’une tâche devenue habituelle lorsqu’elle prépare sa lettre. Ce vécu n’est pas le simple envers du résultat de l’étude de 1999. Reprendre les projets réalisés l’aide surtout à donner des exemples précis de ce qu’elle sait faire, sans garantir son aptitude à toutes les responsabilités nouvelles.
+
+Exemples concrets :
+
+- Elle a des exemples techniques à donner dans sa candidature, même si ces tâches lui paraissent aujourd’hui ordinaires.
+- Répartir des tâches pendant une livraison et recruter une équipe sont deux expériences différentes ; reconnaître la première n’oblige pas à prétendre avoir la seconde.
+
+### La recherche de certitude qui retarde la question utile
+
+Savoir que les estimations de soi peuvent être imparfaites peut conduire Sophie à remettre tout son jugement en question. Une nouvelle analyse mentale n’apporte pas nécessairement une information sur le poste. Elle peut choisir une question adressée à une personne qui l’exerce, en gardant l’incertitude sur sa propre candidature.
+
+Exemples concrets :
+
+- La case « expérience de coordination » reste vide pendant qu’elle repasse mentalement toutes les responsabilités possibles.
+- Elle peut ajouter une nouvelle liste de risques sans obtenir l’information que Julie, déjà responsable d’équipe, pourrait lui fournir.
 
 ## Techniques pour agir en conscience face à l'effet Dunning-Kruger
 
 ### 1. Ce que je sais, ce qu’il me reste à demander
 Cette technique consiste à distinguer ce que vous savez, les lacunes que vous voyez déjà et les questions à poser à quelqu’un du métier. Pour Sophie, cela implique de prendre son carnet et de diviser une page en trois colonnes. Dans la première, elle note ses acquis techniques vérifiables. Dans la deuxième, elle inscrit les compétences du nouveau poste qu'elle identifie comme lacunaires, comme la gestion budgétaire. La troisième colonne reste la plus importante : elle y note les domaines où elle doit demander l'avis d'un expert pour savoir ce qu'elle ne voit pas encore. L'exercice consiste à solliciter un échange avec une personne occupant déjà ce poste pour l'interroger sur les défis invisibles du quotidien.
 
+Objectif : distinguer acquis et questions sur le poste. Pour essayer, commencez par les acquis et les lacunes déjà repérées ; formulez ensuite les questions qui nécessitent une expérience du métier ; choisissez enfin à qui les poser. L’échange peut renseigner une candidature, sans garantir de supprimer les erreurs d’estimation.
+
 ### 2. Le test de l'explication simple
 Pour vérifier si l'on ne surestime pas sa compréhension d'un sujet lié à une décision, on peut essayer de l’expliquer sans jargon. Elle consiste à essayer d'expliquer le concept ou le projet à un enfant de dix ans ou à une personne totalement étrangère au domaine. Sophie peut tenter d'expliquer à Claire pourquoi elle pense que sa vision technique est la bonne pour cette association. Une explication difficile à suivre invite à chercher ce qui manque. Une explication fluide peut être erronée ; Sophie peut la faire relire ou la confronter à un exemple concret.
 
+Pour essayer, choisissez une responsabilité de la fiche, proposez à Claire d’écouter l’explication si elle en a envie, puis vérifiez un exemple auprès d’une personne qui connaît ce travail. Cela prépare une question ; ni Claire ni un enfant n’a à évaluer votre aptitude au poste.
+
 ### 3. Des retours sur des exemples précis
 Sophie peut demander à Marc ou à une ancienne responsable : « Dans quel projet m’as-tu vue structurer un travail complexe ? Qu’est-ce qu’il me manquerait pour coordonner une équipe ? » Un retour reflète aussi la perspective de son auteur. Elle le rapproche de la fiche de poste et d’autres exemples avant d’en tirer une conclusion.
+
+Pour essayer, choisissez un projet que votre interlocuteur connaît, demandez un exemple de ce qui a été fait et de ce qui manque, puis rapprochez ce retour des responsabilités visées. Vous pouvez garder un désaccord ou une question ouverte.
 
 ## Envoyer la candidature avec une question ouverte
 
@@ -59,4 +85,4 @@ Deux jours plus tard, après un échange avec Julie, Sophie envoie sa candidatur
 
 ---
 
-Si vous constatez que ces biais cognitifs ou que l'analyse excessive entravent durablement votre épanouissement personnel ou professionnel, consulter un psychologue peut être une aide précieuse. Un travail thérapeutique permet de déconstruire ces schémas de pensée et de retrouver une confiance solide et harmonieuse en vos capacités.
+Si vous constatez que ces biais cognitifs ou que l'analyse excessive entravent durablement votre épanouissement personnel ou professionnel, consulter un psychologue peut être une aide précieuse. Un accompagnement peut aider à examiner les jugements sur vos compétences et les situations où ils vous empêchent de choisir.

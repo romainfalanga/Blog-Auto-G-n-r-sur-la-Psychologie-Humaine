@@ -33,13 +33,23 @@ Cette habitude n’est pas à elle seule un diagnostic ou un signe d’attacheme
 
 Dans un conflit, la pensée tout-ou-rien pousse à transformer une critique ponctuelle en une preuve que l'autre ne tient plus à la relation. Par exemple, Youssef fait une remarque sèche sur la manière dont Léa organise leurs rendez-vous. Son esprit dit immédiatement « il ne m'aime plus » plutôt que « il est fatigué aujourd'hui » ou « il a réagi sans réfléchir ». Cette interprétation extrême augmente la détresse et déclenche des comportements de réparation excessive, comme annuler ses propres besoins pour apaiser l'autre. Léa se revoit alors passer une nuit blanche pour le dossier de Zoé, agissant sous l'emprise de cette même urgence : faire l'impossible pour ne pas devenir inutile aux yeux de l'autre.
 
+Autre exemple situé : devant le mug resté sur la table, Léa peut transformer le départ de Youssef après la dispute en certitude qu’il rompt, alors qu’elle ne sait pas ce qu’il envisage.
+
 ### 2. Le test du tout ou rien dans les concessions
 
 La pensée dichotomique se manifeste aussi quand une personne impose des règles absolues à elle-même ou à l'autre pendant le conflit. Par exemple, Léa pense que si elle ne montre pas immédiatement qu'elle va changer, il la quittera, ce qui la pousse à promettre des transformations irréalistes. Sur le plan relationnel, cela crée un cycle où l'une des parties s'épuise à tenter d'atteindre un idéal inatteignable, et l'autre reçoit cette urgence comme de la pression.
 
+Exemples situés :
+- En rangeant les tomates, Léa peut vouloir promettre de ne plus soulever la remarque pour éviter toute séparation.
+- Dans son message, elle peut être tentée de proposer de tout régler immédiatement, au-delà de ce qu’elle veut ou peut accepter.
+
 ### 3. L'absence de zones grises dans la communication
 
 Enfin, dans les disputes, la pensée tout-ou-rien empêche de considérer plusieurs explications simultanées. Au lieu d'envisager que les deux partenaires sont à la fois blessés et contradictoires, la personne raisonne en termes de coupable et victime. Cela se traduit par des accusations radicales ou par un retrait total. Léa hésite entre tenir sa lecture pour certaine et accepter entièrement celle de Youssef. Vérifier les faits ne veut pas dire qu’elle est responsable des propos qu’il tient ou de la manière dont il lui répond.
+
+Exemples situés :
+- Léa passe de « Il va partir » à « Je dois faire comme si rien ne s’était passé », sans nommer d’abord la remarque blessante.
+- Elle peut demander un temps d’écoute tout en restant incertaine sur l’avenir du couple : cette incertitude ne rend pas la limite moins légitime.
 
 ## Techniques pour rapprocher les points de vue
 
@@ -47,9 +57,25 @@ Enfin, dans les disputes, la pensée tout-ou-rien empêche de considérer plusie
 
 Léa note « Il va me quitter », puis ce qu’elle sait : il a prononcé des paroles qui l’ont blessée ; elle ne sait pas s’il envisage une rupture. Des projets communs ne garantissent pas qu’il restera, et une remarque ne permet pas d’attribuer un pourcentage à cette éventualité. Elle peut décider comment répondre à la remarque elle-même.
 
+Objectif : définir la prochaine décision sans prétendre connaître l’avenir du couple.
+
+Exercice pratique :
+1. Écrivez les deux phrases extrêmes qui reviennent près de l’évier.
+2. Notez ce que vous savez de la remarque et ce que vous ignorez de l’intention de rupture.
+3. Choisissez une réponse présente, par exemple demander un moment d’écoute ou interrompre un échange dénigrant.
+
+Utilité possible : la nuance porte sur ce qui demeure inconnu, sans diluer une limite ni obliger à reprendre la discussion.
+
 ### 2. La mise à l'épreuve des pensées : technique de recadrage cognitif
 
-Il s'agit de challenger la croyance binaire avec des questions structurées. On peut appliquer le questionnaire en cinq étapes issu de la thérapie cognitive : Quelle est la pensée automatique ? Quelles preuves avons-nous pour et contre ? Y a-t-il une explication alternative plausible ? Que dirais-je à une amie dans la même situation ? Quelle action testable puis-je entreprendre pour vérifier ma croyance ? Léa utilise cette méthode en présence du Dr Moreau lors d'une séance de supervision, puis à la maison après un désaccord avec Youssef. Elle écrit ses réponses et choisit une action testable, par exemple demander à Youssef calmement ce qu'il voulait dire, sans interpréter. Le format écrit aide à séparer une hypothèse et les éléments qu’elle connaît.
+L’objectif est de comparer une interprétation aux informations disponibles. Léa peut préparer l’exercice lors de son travail avec le Dr Moreau ou le laisser de côté si cela augmente la rumination.
+
+Exercice pratique :
+1. Relevez une pensée précise, comme « Si je ne répare pas tout ce soir, tout est perdu ».
+2. Séparez les paroles connues, l’effet qu’elles ont eu et ce que vous ne savez pas de la suite ; imaginez la question utile que vous poseriez à une amie.
+3. Retenez une action choisie et suffisamment sûre, comme chercher l’appui de Zoé ou proposer un moment pour parler, sans tester la réaction de Youssef.
+
+Utilité possible : le format écrit peut rendre une question plus précise. Ce n’est ni un protocole universel en cinq étapes ni une raison de nier des propos blessants.
 
 ### 3. Script de communication en trois parties pour désamorcer l'escalade
 

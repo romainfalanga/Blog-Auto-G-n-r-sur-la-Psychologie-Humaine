@@ -27,37 +27,59 @@ Elle tire une chaise. Elle serre encore le dossier alors que les pieds ont cess�
 
 La respiration en boîte, ou respiration carrée, alterne quatre phases de durée égale : inspiration, pause, expiration, pause. Un [essai de Balban et de ses collègues](https://pubmed.ncbi.nlm.nih.gov/36630953/) a comparé des exercices respiratoires et une pratique de méditation, à raison de cinq minutes par jour pendant un mois. Il ne portait pas sur les disputes de couple et ne démontre pas que la respiration carrée réduit immédiatement le cortisol ou interrompt un conflit.
 
-## Comment la respiration en boîte se manifeste dans le contexte en couple ?
+## Comment la pause intervient-elle dans le désaccord ?
 
-Dans la scène, Margot tente de compter, puis revient à son souffle habituel. L’important pour elle est d’avoir un moment avant de répondre. La pause n’agit pas sur le comportement de Philippe.
+La scène décrit ce que Margot tente avant de répondre. Une respiration volontaire reste facultative et n’agit pas sur le comportement de Philippe.
 
 ### Une courte pause avant de répondre
 
-Margot remarque que sa nuque chauffe et qu’elle s’apprête à répondre sèchement. Elle peut faire une pause et reprendre la conversation plus tard, si elle le souhaite et si le cadre est sûr.
+Margot remarque son envie d’accumuler les reproches. La pause peut lui laisser un intervalle pour décider ce qu’elle souhaite dire ; elle ne démontre pas que son émotion disparaît.
 
-### La gestion du silence oppressant
+Elle serre le dossier de la chaise alors que les pieds ne bougent plus. Elle prépare ensuite le nombre des repas sans conversation et des départs vers son bureau. Le geste et la liste sont deux indices situés qu’elle s’apprête à répondre autrement qu’elle le voudrait.
 
-Un silence peut donner du temps ou rendre l’échange plus tendu. À l’évier, Margot entend que Philippe s’impatiente. Elle lui a dit qu’elle reviendrait et peut préciser de combien de temps elle a besoin. Si le cadre n’est pas sûr, elle peut s’éloigner.
+### Le silence doit aussi être compréhensible
 
-### La préparation à une conversation difficile
+Une pause non précisée peut rendre l’échange plus incertain. Annoncer une reprise permet à chacun de dire ce qui lui convient, sans obligation d’attendre indéfiniment ni de reprendre avant d’être prêt.
 
-Avant d'aborder des sujets cruciaux comme le syndrome du nid vide ou la répartition des tâches ménagères, la respiration en boîte prépare le terrain émotionnel. Une pause peut lui donner le temps de préparer ce qu’elle souhaite dire. Au lieu d'arriver avec ses croyances limitantes et ses anciens réflexes de directrice commerciale, le partenaire utilise cet outil pour se recentrer sur ses besoins réels et ses émotions profondes, facilitant ainsi un dialogue plus authentique.
+À l’évier, Margot a dit qu’elle reviendrait mais n’a pas précisé quand. Philippe dit qu’il ne souhaite pas attendre toute la soirée. Ces deux paroles laissent une question pratique ouverte : quel intervalle demandent-ils et comment se retrouveront-ils pour parler ?
 
-## 3 techniques pour rester calme grâce à la respiration en boîte
+### Préparer le sujet ne résout pas le désaccord
 
-Pour intégrer cet outil dans votre quotidien amoureux, voici trois exercices concrets qui vous aideront à naviguer dans les eaux troubles de la vie de couple.
+Une pause peut aider Margot à choisir une demande plus précise. Elle ne remplace pas la réponse de Philippe et ne rend pas leurs calendriers compatibles. La fatigue et le droit de reporter la discussion restent à considérer.
 
-### 1. La technique du carré invisible en plein conflit
+Elle veut d’abord parler des moments à table, alors que Philippe ouvre un calendrier. Lorsqu’ils cherchent ensuite un soir, jeudi ne lui convient pas à cause d’une séance. Le premier écart porte sur la conversation souhaitée, le second sur leurs disponibilités ; un souffle plus lent ne tranche ni l’un ni l’autre.
 
-Si vous souhaitez essayer, asseyez-vous confortablement et respirez sans forcer. Pour la version carrée, comptez la même durée à chaque phase si cela vous convient. En cas de vertige, d’essoufflement ou d’inconfort, revenez à votre souffle habituel. Vous pouvez aussi [respirer doucement sans retenue](https://www.nhs.uk/mental-health/self-help/guides-tools-and-activities/breathing-exercises-for-stress/). Il n’y a pas de durée à tenir.
+## 3 techniques pour organiser une pause pendant le désaccord
 
-### 2. La synchronisation respiratoire apaisante
+### 1. Essayer un souffle confortable après avoir annoncé la pause
 
-Si les deux personnes en ont envie, chacune peut prendre une pause au même moment en respirant à son rythme. Vous n’avez pas à vous synchroniser, à vous toucher ni à reprendre la discussion avant d’être prêts.
+Margot cherche un moment avant de répondre, sans résultat respiratoire à réussir.
 
-### 3. La respiration d'ancrage avant les retrouvailles
+1. Dire qu’elle souhaite une courte pause et proposer quand revenir, en vérifiant que le cadre permet de s’éloigner.
+2. Si elle en a envie, s’installer et essayer les quatre phases de la respiration carrée à une durée confortable, sans chercher une retenue difficile ; elle peut aussi [respirer doucement sans retenue](https://www.nhs.uk/mental-health/self-help/guides-tools-and-activities/breathing-exercises-for-stress/).
+3. Revenir au souffle habituel dès qu’elle le préfère ou en cas de vertige, d’essoufflement ou d’inconfort, puis décider si elle peut reprendre ou doit annoncer un autre moment.
 
-En rentrant du travail, vous pouvez prendre un moment pour remarquer ce que vous avez encore en tête avant de lancer une discussion. Si vous essayez de ralentir votre respiration, faites-le sans forcer et arrêtez si vous êtes mal à l’aise. Si la fatigue est toujours là, vous pouvez convenir d’un autre moment pour parler.
+L’essai peut fournir un intervalle. Le comptage parfait et l’apaisement ne sont pas des conditions pour que sa demande mérite d’être entendue.
+
+### 2. Convenir d’une pause commune sans synchronisation
+
+Les deux personnes peuvent suspendre la discussion ensemble tout en gardant chacune leur rythme.
+
+1. Demander si une interruption convient aussi à Philippe et préciser le point auquel ils souhaitent revenir.
+2. Choisir chacun ce qui convient pendant ce temps : silence, quelques pas ou souffle habituel, sans toucher ni surveiller l’autre.
+3. Au moment annoncé, vérifier la disponibilité des deux avant de reprendre ou de convenir explicitement d’une autre reprise.
+
+Cet accord peut éviter qu’un retrait soit pris pour la fin imposée de l’échange. Il ne garantit pas qu’ils seront prêts au même instant ni d’accord sur le fond.
+
+### 3. Préparer une demande avant les retrouvailles
+
+Margot veut distinguer la soirée souhaitée du règlement de tous leurs désaccords.
+
+1. Avant de lancer la conversation, noter en une phrase ce qu’elle souhaite aborder : un moment ensemble, plutôt que le compte de tous les repas passés.
+2. Regarder sa fatigue et demander à Philippe si le moment convient, sans devoir faire un exercice respiratoire.
+3. Choisir un point concret à discuter et vérifier leurs contraintes, comme la séance de jeudi, pour proposer une option possible.
+
+Cette préparation peut rendre la demande plus claire. Si la discussion n’est pas sûre, la priorité reste de s’éloigner et de chercher un appui, pas de tenir la pause ou le dialogue.
 
 ## Deux minutes à l’évier
 

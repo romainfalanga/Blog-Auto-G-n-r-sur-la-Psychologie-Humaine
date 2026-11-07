@@ -39,17 +39,23 @@ Le mauvais classement est un événement vérifiable. Rémi le relie à ses dema
 
 Sa trace de reprise ne promet jamais un travail infaillible. Le critère de fin du bilan ne garantit pas qu'il ne classera plus aucun papier au mauvais endroit. Rémi peut garder ces outils comme des appuis partiels, avec leurs limites. Une amélioration n'a pas à supprimer toute erreur future pour être réelle. Cette nuance lui permet de rester responsable du cas présent sans réécrire son parcours comme une suite de faux progrès.
 
+Une remarque sur le dossier lui fait donc douter du droit de demander des priorités claires ; le souvenir du bilan corrigé lui fait ensuite déprécier les appuis déjà utiles. Dans les deux cas, il étend un défaut local à une question beaucoup plus large.
+
 ### Se surveiller fait perdre des informations sur l'échange
 
 Pendant que Claire parle, Rémi imagine qu'elle remarque son hésitation. Il règle le ton de sa prochaine réponse et tente de cacher sa gêne. Il ne voit plus clairement si elle pose une question, vérifie un fait ou attend une décision. Son attention sur lui-même produit alors un paradoxe : il cherche à mieux répondre, mais dispose de moins d'informations pour comprendre ce qu'on lui demande réellement.
 
 Il peut revenir à des éléments observables. Quels mots Claire emploie-t-elle ? Quelle action souhaite-t-elle maintenant ? A-t-elle formulé un jugement personnel ou seulement une correction ? Cela n'implique pas qu'il doive ignorer une parole blessante si elle existe. Il cherche à distinguer une remarque entendue d'un commentaire qu'il attribue à l'autre. Les deux peuvent faire mal, mais ne demandent pas la même réponse.
 
+Quand il cherche le ton qui cachera sa gêne, il manque la fin de la consigne ; quand il observe le visage de Claire pour y lire un avis sur lui, il risque de ne pas entendre quelle vérification elle lui demande. Ce sont deux informations de travail distinctes qu’il lui faut retrouver.
+
 ### Le retrait soulage d'abord puis rend le retour difficile
 
 Sur le banc, Rémi n'a plus à surveiller sa manière de parler. Le soulagement est réel. Après quelques minutes, il repense pourtant à l'échange et imagine ce que les collègues racontent en son absence. Il refuse ensuite de revenir parce qu'il redoute une question sur son départ. Le retrait crée une nouvelle situation à expliquer, alors que personne ne lui demande encore de justification.
 
 Il peut décider d'un temps seul qui possède une fonction et une fin souple : manger au calme, puis vérifier s'il souhaite un contact bref. Il n'a pas à rejoindre un groupe pour prouver qu'il va bien. Il peut également choisir une personne avec laquelle l'échange est généralement respectueux. Le contact utile n'est pas forcément une grande discussion sur son erreur. Une conversation ordinaire peut déjà interrompre la place exclusive qu'elle occupe.
+
+Le refus de la place proposée lui évite d’abord les regards ; rester ensuite sur le banc pour ne pas expliquer ce refus lui coûte le contact qu’il aurait peut-être choisi. Le second retrait n’est plus tout à fait le même repos que le premier.
 
 ## 3 techniques pour réparer sans s'attaquer après une erreur
 

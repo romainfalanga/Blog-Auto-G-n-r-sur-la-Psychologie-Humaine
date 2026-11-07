@@ -36,29 +36,68 @@ Le dépaysement lié à l'expatriation ou au voyage est un terrain fertile pour 
 
 Pour Mei, le trajet paraît suspendu lorsqu’elle découvre les montagnes. On peut aussi remarquer un paysage sans perdre la notion du temps, et un déplacement ou une expatriation peuvent s’accompagner de fatigue, de contraintes ou d’incertitude.
 
+Deux exemples dans cet épisode :
+
+- Mei suit au crayon les câbles et les versants puis remarque que la gare qu’elle surveillait est passée.
+- Elle reprend le billet et vérifie la correspondance ; le moment de dessin n’efface pas les besoins du trajet.
+
 ### La réduction des préoccupations égocentrées
 
-C'est l'une des manifestations les plus libératrices. Face à l'immensité d'une chaîne de montagnes ou à la richesse d'un musée étranger, nos problèmes personnels, nos doutes sur nos capacités ou nos peurs sociales paraissent dérisoires. L'émerveillement en voyage ou en expatriation permet de mettre en sourdine le critique intérieur. On ne se demande plus si l'on est assez bien, on se contente d'être le témoin d'une beauté qui nous dépasse, ce qui procure un immense soulagement émotionnel.
+Dans le récit, Mei passe un moment à observer un paysage plutôt qu’à vérifier sa planche. Ses préoccupations ne deviennent pas dérisoires : elles restent présentes et pourront reprendre de la place. Cette variation de l’attention ne garantit aucun soulagement.
+
+Deux exemples dans cet épisode :
+
+- Pendant le tracé du paysage, la copie de la planche de M. Dubois reste dans le carnet sans retenir toute son attention.
+- Sous la coupole, elle cherche la bande d’ocre à dessiner sans savoir davantage quelle sera sa note au retour.
 
 ### L'ouverture à l'altérité et à la nouveauté
 
 L'émerveillement agit comme un moteur de curiosité. Il pousse le voyageur à sortir de sa zone de confort pour comprendre ce qu'il observe. Cela se manifeste par une envie soudaine d'apprendre la langue, de goûter des saveurs inconnues ou d'échanger avec des habitants. Pour Mei, cela signifie par exemple oser poser une question à un guide ou observer les gestes d'un artisan dans une ruelle de Florence sans avoir l'impression d'être une intruse, loin des préoccupations qui l’occupent d’ordinaire en classe.
 
+Deux exemples dans cet épisode :
+
+- Le passage du train lui donne envie d’essayer un autre appui du crayon pour suivre la pente.
+- À Florence, elle s’arrête pour comprendre un contraste non prévu sur son parcours, sans devoir parler à un guide ou changer tout son programme.
+
 ## Techniques pour cultiver l'émerveillement
 
-Pour profiter pleinement de l'émerveillement en voyage ou en expatriation, il est nécessaire de savoir ralentir et de diriger volontairement son attention vers ce qui nous entoure plutôt que de rester enfermé dans ses pensées.
+Mei peut choisir un moment d’observation compatible avec son trajet, sans chercher à produire une émotion.
 
 ### 1. La pratique de la marche sensorielle lente
 
-Cette technique consiste à se déplacer dans un nouvel environnement sans but précis, en se focalisant sur un seul sens à la fois pendant quelques minutes. Commencez par les sons : le chant des oiseaux, le brouhaha des conversations dans une langue étrangère, le bruit de vos pas sur les pavés. Passez ensuite aux odeurs, puis aux textures. L'exercice consiste à marcher pendant vingt minutes en changeant de focus sensoriel toutes les cinq minutes. Cela permet de briser le pilote automatique et de laisser la place à l'étonnement face aux détails du quotidien.
+Cette technique consiste à se déplacer dans un nouvel environnement sans but précis, en se focalisant sur un seul sens à la fois pendant quelques minutes. Commencez par les sons : le chant des oiseaux, le brouhaha des conversations dans une langue étrangère, le bruit de vos pas sur les pavés. Passez ensuite aux odeurs, puis aux textures. L’observation peut rester brève et porter sur un seul détail ; ni durée ni succession de sens n’est nécessaire.
+
+Objectif de cet essai : Observer un détail du trajet dans des conditions praticables.
+
+1. Choisissez une portion de trajet sûre où l’observation ne gêne pas votre orientation.
+2. Remarquez un détail accessible, comme un son ou une ligne de façade, sans devoir parcourir tous les sens.
+3. Revenez aux besoins du déplacement et poursuivez ou arrêtez cette observation selon votre envie.
+
+Utilité possible : L’observation ajoute une possibilité au trajet sans garantir un étonnement ni remplacer les contraintes pratiques.
 
 ### 2. La tenue d'un journal d'étonnement visuel
 
-Plutôt que de simplement prendre des photos avec un smartphone, ce qui peut parfois nous détacher de l'expérience réelle et nous soumettre à l'effet de simple exposition des réseaux sociaux, essayez de décrire par écrit ou par le dessin un seul détail qui vous a frappé dans la journée. Cela peut être la couleur particulière d'un volet, la forme d'un nuage au-dessus d'un monument ou la lumière sur une place de marché. L'exercice consiste à consacrer dix minutes le soir à retranscrire cette vision en utilisant des adjectifs précis. Le journal donne à Mei une trace du détail qu’elle a choisi d’observer.
+Vous pouvez garder une trace par le moyen qui vous convient : photographie, mots ou dessin d’un détail. Cela peut être la couleur particulière d'un volet, la forme d'un nuage au-dessus d'un monument ou la lumière sur une place de marché. L'exercice consiste à consacrer dix minutes le soir à retranscrire cette vision en utilisant des adjectifs précis. Le journal donne à Mei une trace du détail qu’elle a choisi d’observer.
+
+Objectif de cet essai : Garder une trace visuelle choisie.
+
+1. Retenez un détail qui vous intéresse, tel que la courbe d’un câble ou la bande d’ocre.
+2. Choisissez le moyen qui vous convient : croquis, mots ou photographie.
+3. Conservez la trace si vous le souhaitez sans en évaluer la beauté ni la quantité d’émerveillement obtenue.
+
+Utilité possible : La trace permet de retrouver le détail choisi sans faire du dessin une méthode supérieure à la photographie.
 
 ### 3. La technique de la contemplation statique
 
-Choisissez un lieu qui vous inspire et asseyez-vous pendant au moins quinze minutes sans rien faire d'autre que regarder. Au début, votre esprit risque de vagabonder vers vos inquiétudes ou votre liste de tâches. Accueillez ces pensées et laissez-les passer. Revenez doucement à l'observation de ce qui est devant vous. L'exercice consiste à remarquer trois choses que vous n'aviez pas vues durant les cinq premières minutes. Vous pouvez rester le temps qui vous convient. Il n’y a rien à réussir ni d’émotion particulière à provoquer.
+Choisissez un lieu qui vous inspire et installez-vous le temps qui vous convient pour observer. Au début, votre esprit risque de vagabonder vers vos inquiétudes ou votre liste de tâches. Accueillez ces pensées et laissez-les passer. Revenez doucement à l'observation de ce qui est devant vous. Vous pouvez remarquer un nouveau détail sans nombre à atteindre. Vous pouvez rester le temps qui vous convient. Il n’y a rien à réussir ni d’émotion particulière à provoquer.
+
+Objectif de cet essai : S’arrêter librement devant un lieu ou une œuvre sans provoquer une émotion.
+
+1. Choisissez un arrêt où vous pouvez rester sans gêner le passage ni vous mettre en difficulté.
+2. Regardez un contraste, une forme ou ce qui attire votre attention, aussi brièvement que vous voulez.
+3. Décidez de dessiner, de repartir ou de chercher une information ; il n’y a pas de durée minimale ni d’émotion attendue.
+
+Utilité possible : L’arrêt donne une place à la curiosité tout en laissant les préoccupations revenir.
 
 ## Une ligne sous la coupole
 

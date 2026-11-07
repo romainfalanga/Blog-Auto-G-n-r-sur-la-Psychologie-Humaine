@@ -35,13 +35,28 @@ Les valeurs ne suppriment pas les contraintes ni les conflits. Elles peuvent mê
 
 Baptiste associe la fiabilité au fait d’être disponible. Cette association peut l’aider dans certaines situations, mais devient impossible si elle signifie répondre à toutes les demandes nouvelles sans réviser aucun accord. Être fiable peut également consister à annoncer une limite tôt, à transmettre une information et à ne pas promettre une présence fictive. Le mot ne suffit donc pas ; il faut regarder le comportement qu’il inspire ici. Une valeur qui ne possède plus aucune limite risque de ressembler à une obligation rigide plutôt qu’à une direction choisie et adaptée aux circonstances.
 
+Exemples concrets
+
+- Baptiste croit que la fiabilité exige sa présence pendant chaque minute de la réunion.
+- Préparer l’exemple pour Emmanuel peut aussi soutenir l’équipe sans promettre une présence depuis le trajet.
+
 ### Le dernier message semble plus réel que l’accord ancien
 
 La réunion apparaît sur l’écran avec une heure précise et le nom de sa responsable. La récupération d’Elsa existe depuis plusieurs jours dans l’organisation du couple. Baptiste ressent pourtant la demande récente comme celle à laquelle il faudrait répondre d’abord. Cette différence de visibilité n’indique pas nécessairement une différence d’importance. Il peut remettre les engagements sur le même plan de description : qui attend quoi, pour quelle raison et avec quelles possibilités de modification ? Cela ne garantit pas que le rendez-vous professionnel puisse changer, mais évite de déplacer automatiquement la contrainte vers la personne qui sollicite moins bruyamment.
 
+Exemples concrets
+
+- Le message de Patricia paraît plus urgent parce qu’il vient d’arriver sur l’écran.
+- La récupération d’Elsa était pourtant déjà répartie avec Caroline avant l’ajout de la réunion.
+
 ### On cherche une image de soi plutôt qu’une solution praticable
 
 Participer à la réunion depuis le trajet donnerait à Baptiste l’impression de n’avoir rien refusé. Pourtant, l’attention disponible et les conditions concrètes pourraient rendre cette solution peu satisfaisante. Il peut examiner ce qu’elle permet réellement au lieu de la juger seulement à l’image de collaborateur et de parent qu’elle préserve. Certains compromis sont utiles ; d’autres ne font que masquer une incompatibilité. Reconnaître cette différence demande parfois d’accepter qu’une personne puisse être déçue, même lorsque le choix est réfléchi et annoncé avec respect. L’absence totale de mécontentement n’est pas une garantie accessible.
+
+Exemples concrets
+
+- La participation depuis le trajet permettrait d’afficher deux présences avec une attention insuffisante.
+- Demander spontanément à Caroline de changer son programme préserverait l’image du collègue disponible en déplaçant le coût.
 
 ## Trois pistes pour relier ses valeurs à une décision concrète
 
@@ -49,13 +64,31 @@ Participer à la réunion depuis le trajet donnerait à Baptiste l’impression 
 
 Baptiste écrit ce que soutenir l’équipe pourrait vouloir dire dans cette réunion : expliquer un problème de transmission, apporter deux exemples et entendre les contraintes du second dépôt. Il décrit également l’accord familial : arriver à l’heure, écouter Elsa et éviter que Caroline doive improviser un changement. Ces formulations permettent de voir les parties qui demandent sa présence et celles qui pourraient passer par un document ou un autre horaire. Elles ne servent pas à fabriquer une justification après coup pour l’option déjà préférée. Si une tâche possède une exigence réelle de sécurité ou de responsabilité, elle doit être traitée selon les procédures du travail, pas relativisée par un exercice de valeurs. Le but est de mieux connaître les options, avec leurs limites effectives.
 
+Exercice pratique
+
+- Écrivez les gestes nécessaires à la réunion : deux exemples et les questions à entendre.
+- Décrivez l’accord de récupération d’Elsa et ce qu’il demande concrètement.
+- Distinguez les parties qui exigent votre présence de celles qui pourraient être préparées autrement.
+
 ### 2. Comparer ce qui est fixe et ce qui peut se discuter
 
 Avant de déplacer l’engagement familial, Baptiste peut demander la raison de l’horaire choisi et les autres créneaux possibles. Il peut vérifier auprès de Caroline les contraintes réelles, sans présenter déjà sa modification comme nécessaire. Dans certaines situations, aucune souplesse ne sera disponible ; il faudra alors examiner les relais et reconnaître le coût pour chacun. Ici, il ne possède pas encore cette information. Faire une demande de clarification peut donc être plus utile que prolonger seul la réflexion. Cette étape évite également de supposer que la personne silencieuse dispose d’une marge illimitée. Un agenda professionnel et une organisation familiale contiennent tous deux des engagements, même s’ils ne sont pas présentés avec les mêmes mots ni les mêmes signes d’urgence.
 
+Exercice pratique
+
+- Demandez à Patricia pourquoi cet horaire a été retenu.
+- Vérifiez les autres créneaux professionnels avant de supposer que Caroline doit bouger le sien.
+- Si un relais devient nécessaire, demandez son accord à la personne qui en porterait la charge.
+
 ### 3. Annoncer un choix avec ce qu’il permet et ce qu’il laisse ouvert
 
 Une fois l’information recueillie, Baptiste peut expliquer sa proposition sans se qualifier lui-même de bon ou de mauvais collègue. Il indique sa disponibilité, la contribution qu’il peut fournir et les éléments qu’il souhaite reprendre ensuite. Il n’a pas besoin de raconter toute sa vie familiale pour qu’un horaire annoncé soit considéré. Il peut néanmoins préciser la contrainte utile dans le cadre de leur relation professionnelle. Si son choix déplace une tâche vers Emmanuel, son collègue, il doit vérifier son accord et la charge correspondante plutôt que nommer cela entraide par principe. La cohérence se regarde dans les actes et leurs conséquences, pas seulement dans le sentiment d’avoir choisi selon ses valeurs. Un bilan ultérieur peut permettre d’ajuster ce qui ne fonctionne pas.
+
+Exercice pratique
+
+- Annoncez le créneau où vous pouvez participer.
+- Convenez avec Emmanuel de la note dont il a besoin pour présenter l’exemple tardif.
+- Prévoyez la lecture du compte rendu et signalez à Patricia le coût de préparation dans votre charge.
 
 ## L’heure de la réunion
 

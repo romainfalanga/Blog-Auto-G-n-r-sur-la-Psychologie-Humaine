@@ -32,15 +32,21 @@ Camille reçoit des compliments pour une procédure réussie, puis explique imm�
 
 Par exemple, après une réunion où elle présente un protocole amélioré, elle répète qu'elle a juste relayé une idée alors que plusieurs collègues la félicitent pour la clarté et la pertinence de sa proposition.
 
+Autre exemple situé : dans sa réponse au message qui la félicite, Camille commence par effacer son propre rôle pour ne mentionner que Suzanne et le reste de l’équipe.
+
 ### 2. Peur de la découverte et surtravail compensatoire
 Après un succès, l'inquiétude qu'un jour quelqu'un découvre son incompétence pousse à travailler davantage pour prévenir l'erreur. Camille se retrouve à vérifier deux fois chaque dossier la nuit suivante et à refuser une délégation qui lui permettrait de souffler. Ce comportement entretient l'épuisement et renforce l'idée qu'elle ne peut jamais se reposer sur ses acquis. Elle reconnaît ici le même mécanisme qui l'avait conduite à ignorer ses propres signaux d'alarme avant d'identifier sa fatigue de compassion : cette croyance que seul un effort démesuré peut justifier sa place.
 
 Concrètement, elle accepte de reprendre un service supplémentaire après avoir été félicitée, justifiant l'acceptation par sa responsabilité, alors qu'en réalité elle cherche à apaiser la crainte d'être démasquée.
 
+Autre exemple situé : après le retour positif de Suzanne, Camille pourrait vouloir revérifier un dossier au-delà des contrôles requis uniquement pour se rassurer sur sa place ; elle peut distinguer cette envie des vérifications réellement nécessaires au soin.
+
 ### 3. Dissonance affective : plaisir bloqué et culpabilité
 La réussite devrait produire de la joie, mais elle est souvent teintée de malaise. Camille ressent une sorte d'inadéquation : le plaisir est suivi d'un sentiment de culpabilité, comme si être heureuse de réussir était indécent. Elle se demande ce qui la gêne dans le fait d’être félicitée.
 
 Lors d'un dîner où l'équipe lui offre une petite attention, elle sourit mais se sent coupable de recevoir sans avoir payé son dû par un effort supplémentaire.
+
+Autre exemple situé : lorsque David lui dit qu’il est fier d’elle, Camille éprouve l’envie de répondre qu’il n’y a rien à célébrer avant même de lui raconter sa contribution.
 
 ## Techniques pour apprivoiser le sentiment d'imposture
 Voici trois essais que Camille peut choisir selon la situation.
@@ -50,15 +56,42 @@ Camille peut noter une tâche précise qu’elle a accomplie, par exemple avoir 
 
 Le [relevé des pensées du NHS](https://www.nhs.uk/every-mind-matters/mental-wellbeing-tips/self-help-cbt-techniques/thought-record/) donne un exemple de comparaison entre une interprétation et des faits.
 
+Objectif : garder une trace limitée de sa contribution sans en faire un examen de sa valeur.
+
+Exercice pratique :
+1. Choisissez une tâche de la journée, comme la coordination citée par Suzanne.
+2. Notez ce que vous avez fait et la part des autres, sans détail permettant d’identifier un patient.
+3. Relisez cette ligne lorsque vous pensez n’avoir rien apporté, puis refermez le carnet.
+
+Utilité possible : la trace remet un fait à disposition lorsque Camille minimise son rôle, tout en laissant le droit de douter.
+
 ### 2. Expérimentation comportementale : accepter le compliment et le mesurer
 Au prochain compliment, Camille peut simplement dire merci et attendre avant de répondre davantage. Elle n’a pas à surveiller la réaction de l’autre pour déterminer si le compliment était mérité.
 
 Un compliment peut être accueilli même quand le doute reste présent.
 
+Objectif : accueillir une parole positive sans devoir la réfuter immédiatement.
+
+Exercice pratique :
+1. Choisissez le prochain retour précis d’une collègue, plutôt qu’un bilan général sur vous.
+2. Répondez « merci » et, si vous le souhaitez, nommez simplement la tâche dont elle parle.
+3. Reprenez ensuite votre activité sans ajouter une justification ou examiner sa réaction comme une note.
+
+Utilité possible : cet essai porte sur la réponse de Camille, pas sur une mesure de ce qu’elle mérite ni sur la disparition de son malaise.
+
 ### 3. Redéfinir l'erreur : carnet d'apprentissages
 Si une erreur survient, Camille identifie ce qu’elle peut en apprendre. Un incident de soin se signale et se traite selon les procédures de l’établissement ; le carnet personnel ne les remplace pas.
 
 Associez une fréquence fixe, par exemple une fois par semaine, pour éviter que l'exercice ne devienne une source supplémentaire de charge mentale.
+
+Objectif : tirer une suite pratique d’une erreur sans transformer le carnet en procédure de soin.
+
+Exercice pratique :
+1. S’il y a un incident de soin, appliquez d’abord les procédures de l’établissement et informez les personnes compétentes.
+2. Au moment choisi pour votre bilan personnel, formulez sans information patient une difficulté de travail et ce que vous avez appris.
+3. Retenez une question ou un ajustement à discuter lors de la prochaine transmission, puis arrêtez le bilan.
+
+Utilité possible : Camille relie la difficulté à une amélioration située ; elle n’a pas à se prouver qu’elle ne fera plus aucune erreur.
 
 ## Répondre à Suzanne
 Le lendemain, Suzanne, une infirmière de nuit, lui envoie un message : « Bien joué hier, tu as géré la situation. » Camille lit le message en préparant les repas pour l'école, un geste devenu automatique depuis qu'elle s'astreint à noter les priorités la veille. Elle répond merci et se force à ne pas ajouter d'explication. Puis, comme le propose la technique du journal de preuves, elle inscrit sur la ligne du jour : coordination de l’équipe, retour de Suzanne.

@@ -39,6 +39,8 @@ Sur le tableau, les trois aimants rouges ne donnent aucune information sur ce qu
 
 Il peut demander quelle conséquence est acceptable : un bilan plus tard, une autre répartition de la réception ou un départ ajusté selon les procédures. Ce ne sont pas des décisions équivalentes et il ne les prend pas à la place de Claire. Les présenter rend l'arbitrage concret. « Quelle est la priorité ? » reste parfois trop vague ; nommer les demandes et ce que chacune empêche permet une réponse plus utile.
 
+Le contrôle du départ exige sa présence au moment même où la réception commence ; la relecture du bilan occupe, sur le papier, ce même créneau. Ces deux chevauchements ne se règlent pas en déplaçant simplement un aimant rouge.
+
 ### Les ajustements réussis deviennent invisibles
 
 Rémi récupère un document manquant, explique une consigne à un collègue et reprend un contrôle interrompu. Le lot finit par partir. Sur le tableau, une ligne passe simplement dans la colonne terminée. L'effort pour résoudre ces obstacles disparaît du résultat visible. Si l'on se fonde uniquement sur le départ réussi, on peut supposer que le même volume restera faisable avec les mêmes moyens ou avec moins de temps.
@@ -50,6 +52,8 @@ Il n'a pas besoin de rédiger un récit de chaque minute. Quelques exemples repr
 Rémi songe à utiliser sa pause pour finir le bilan. Cette solution lui paraît discrète et évite une discussion inconfortable. Répétée, elle peut masquer une charge incompatible avec les moyens. Le travail semble tenir parce qu'une ressource nécessaire à sa récupération disparaît du calcul. Il commence ensuite le poste suivant avec moins de disponibilité, ce qui peut rendre les mêmes tâches plus coûteuses.
 
 Chez lui, Julie remarque qu'il n'a plus envie de parler de la facture commune, même une fois le repas préparé. Elle ne connaît pas le détail du quai, mais voit les conséquences sur leur quotidien. Rémi n'en conclut pas que toute fatigue est anormale. Il observe une répétition : ses ajustements professionnels débordent sur sa récupération et les projets partagés. Cette information mérite d'être prise au sérieux avant qu'il ne soit plus capable de compenser.
+
+La pause utilisée pour rédiger le bilan et le temps du repas encore occupé à reconstruire le planning sont deux endroits où l’écart risque ainsi de disparaître du tableau sans disparaître de sa journée.
 
 ## 3 techniques pour discuter la charge et les priorités
 

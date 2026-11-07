@@ -35,13 +35,28 @@ Quand on se retrouve face à soi-même, sans les distractions du travail ou des 
 
 Dans la solitude, une pensée automatique peut transformer un événement neutre en un jugement de valeur personnel. Pour Isabelle, le message de sa mère n'est pas vu comme une simple sollicitation, mais comme la preuve qu'elle échoue dans son rôle de pilier familial. La solitude amplifie cette voix intérieure qui affirme sa nécessité d'être disponible en permanence. On ne voit plus la réalité de la situation, mais uniquement le poids d'une obligation morale auto-imposée qui génère un stress disproportionné. Cette tendance à s'attribuer la faute de l'humeur de Geneviève est le miroir inversé du biais d'attribution qu'elle avait identifié chez Mathieu : là où elle jugeait l'élève trop vite, elle se juge ici elle-même avec une sévérité injustifiée.
 
+Exemples concrets
+
+- Isabelle lit « tu ne décroches jamais » comme la preuve qu’elle échoue envers Geneviève.
+- Elle transforme le départ ordinaire de Théo chez Laurent en soirée où elle devrait rester disponible à tout appel.
+
 ### 2. L'escalade des scénarios catastrophes
 
 Seule dans son salon, Isabelle imagine que son silence risque de rendre sa mère malade et qu’elle en serait responsable. Ce scénario illustre une anticipation catastrophique. Elle peut regarder ce qui soutient cette crainte, se rappeler la teneur exacte du message et distinguer une urgence d’une attente ordinaire.
 
+Exemples concrets
+
+- Isabelle imagine qu’attendre demain rendrait sa mère malade alors que le message n’annonce aucune urgence.
+- Elle peut confondre la crainte d’un drame et une information nouvelle sur la santé de Geneviève.
+
 ### 3. Le sentiment d'isolement émotionnel
 
 La solitude physique peut glisser vers un sentiment d'abandon si les croyances, le point B de la méthode, sont teintées d'insécurité. Si l'on pense que notre valeur dépend de ce que nous apportons aux autres, se retrouver seule devient une menace. On a l'impression que si l'on ne rend pas service, on n'existe plus pour personne. C'est ici que l'analyse d'Ellis intervient pour rappeler que notre valeur est intrinsèque et ne dépend pas de notre utilité immédiate pour autrui. Isabelle comprend que son besoin de fusionner avec les attentes des autres, qu'il s'agisse d'Aurélie ou de ses collègues en réunion, n'est qu'un rempart fragile contre cette peur de ne pas suffire.
+
+Exemples concrets
+
+- L’appartement vide donne à Isabelle l’impression qu’elle doit rendre un service pour compter.
+- L’absence de tâche immédiate ne lui dit pourtant rien de la solidité de sa relation avec Théo.
 
 ## Techniques pour agir avec la méthode ABCDE
 
@@ -51,13 +66,43 @@ Pour transformer ces moments de tension en opportunités de croissance, Isabelle
 
 Dans la colonne A, Isabelle note le message reçu. En B, elle écrit « je devrais toujours répondre aussitôt ». En C, elle décrit sa culpabilité et son envie d’appeler. Les trois colonnes lui permettent de distinguer plusieurs aspects du même moment. Elles ne donnent pas une explication complète de son émotion.
 
+**Objectif :** Séparer situation, croyance et conséquence dans le carnet.
+
+Exercice pratique
+
+- En A, recopiez le message de Geneviève sans ajouter son intention.
+- En B, notez la règle « je devrais toujours répondre aussitôt ».
+- En C, décrivez la culpabilité et l’envie d’appeler, sans traiter ces colonnes comme une explication complète.
+
+**Utilité possible :** Les colonnes peuvent rendre visibles plusieurs aspects du moment sans attribuer toute l’émotion à la pensée.
+
 ### 2. Le questionnement socratique du point D
 
 Une fois les croyances identifiées, il faut passer à l'étape D : la dispute. Pour cet exercice, on se comporte comme un avocat de la défense ou un détective. On se pose des questions précises sur chaque croyance notée en B. Est-ce vraiment vrai ? Quelle preuve existe-t-il que ce silence va causer un drame ? Est-ce une loi universelle que de répondre dans l'heure ? Cet échange interne permet de fissurer les certitudes douloureuses. On cherche les nuances, les exceptions et les alternatives logiques pour affaiblir l'emprise du schéma de parentification.
 
+**Objectif :** Examiner une obligation plutôt que mener un procès intérieur.
+
+Exercice pratique
+
+- Reprenez une seule règle écrite en B.
+- Examinez ce que le message soutient et ce qu’il ne dit pas, notamment sur une urgence.
+- Formulez une question ouverte ou une exception plausible sans chercher à vous convaincre de force.
+
+**Utilité possible :** Le questionnement peut garder l’incertitude ouverte ; il n’a pas à produire un apaisement immédiat.
+
 ### 3. Formuler une pensée plus nuancée
 
 Isabelle essaie une phrase compatible avec la situation : « Je tiens à ma mère et je peux lui proposer de parler demain. » Elle peut relire cette phrase pour préparer sa décision. Si la pensée lui paraît trop éloignée de ce qu’elle ressent, elle peut en écrire une plus simple ou s’arrêter pour ce soir.
+
+**Objectif :** Préparer une réponse nuancée qui peut être tenue.
+
+Exercice pratique
+
+- Écrivez une réponse tenable, comme rappeler le lendemain matin.
+- Vérifiez qu’elle respecte la situation connue et votre disponibilité.
+- Choisissez de l’envoyer, de la simplifier ou de laisser l’exercice si cette réflexion devient trop coûteuse.
+
+**Utilité possible :** Une phrase praticable peut soutenir une décision, même si l’envie de vérifier revient.
 
 ## Le message peut attendre
 

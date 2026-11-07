@@ -20,44 +20,79 @@ Il jette un regard à son carnet de notes posé à côté du clavier, ce même c
 La playlist lo-fi tourne en boucle dans son casque, mais la musique ne parvient pas à couvrir la petite voix intérieure qui lui murmure qu'il est un imposteur. Il pense à sa sœur Charlotte qui, au téléphone hier, lui disait qu'il gérait très bien sa nouvelle vie de freelance. Si seulement elle pouvait le voir maintenant, incapable de valider une simple modification de couleur sans avoir envie de demander la permission à la terre entière. Il se sent coincé dans ce besoin de validation, ce sentiment d'incompétence qui surgit dès qu'une figure hiérarchique entre dans son champ de vision, réactivant ce schéma d'instabilité qu'il avait pourtant cru identifier lors de ses récentes soirées de solitude.
 
 ## Qu'est-ce que la dépendance et l'incompétence ?
-
 Dans la [thérapie des schémas de Young, Klosko et Weishaar](https://www.guilford.com/excerpts/young.pdf?t=1), « dépendance/incompétence » désigne la croyance que l’on ne peut pas assumer des responsabilités ordinaires sans aide importante. Le mot « incompétence » décrit ici une croyance, pas un résultat d’évaluation. L’aide peut être utile ou nécessaire et en demander ne permet pas d’identifier ce schéma.
 
 Adrien associe une partie de ses doutes aux responsabilités qu’il prenait très jeune et à la façon dont son père corrigeait son travail. C’est la lecture qu’il fait de son propre parcours : l’histoire ne permet pas de conclure que ces expériences expliquent le même ressenti chez quelqu’un d’autre.
 
 ## Comment la dépendance et l'incompétence se manifestent face à l'autorité ?
-
 Face à un client dont l’avis compte, Adrien a plus de mal à reconnaître les choix qu’il peut faire de lui-même.
 
 ### 1. La quête de réassurance permanente
+
 Adrien se surprend à envoyer des messages inutiles à Antoine pour confirmer des détails insignifiants. C'est l'une des manifestations les plus courantes de la dépendance et l'incompétence face à l'autorité. Le sujet craint tellement de commettre une erreur irréparable qu'il délègue sa prise de décision à l'autorité. Cela crée un cercle vicieux : plus on demande de validation, moins on se sent capable d'agir seul la fois suivante, ce qui lui laisse moins d’occasions de voir comment il se débrouille de lui-même.
 
+Exemples situés :
+
+- Adrien prépare une demande de validation générale alors qu’Antoine a seulement précisé le lettrage et le fond.
+- Il peut demander plusieurs confirmations d’un paramètre technique qu’il sait déjà régler, au lieu de poser la vraie question manquante sur le support final.
+
 ### 2. La paralysie devant l'initiative
+
 Quand Adrien doute de son travail, il propose moins facilement les idées qui s'écartent du brief. Il peut vérifier quelles contraintes viennent du client et où il garde une liberté de création.
 
+Exemples situés :
+
+- Il n’essaie pas la variante sur fond sombre avant d’avoir obtenu une approbation sur l’ensemble.
+- Une proposition graphique qu’il peut préparer dans une copie reste de côté parce qu’il veut une permission pour chaque choix.
+
 ### 3. La procrastination par peur de l'échec
+
 Quand Adrien craint l'évaluation du client, il reporte parfois une tâche. Dans cette scène, repousser le travail éloigne momentanément une tâche qui l’inquiète. Il peut y avoir d’autres raisons de procrastiner. En reculant le moment d'agir, il évite temporairement la confrontation avec son sentiment d'incompétence, même si cela finit par générer un stress encore plus grand au moment de la date limite.
 
-## Techniques pour s'affirmer face à la dépendance et l'incompétence
+Exemples situés :
 
-Pour briser ce cycle, il est nécessaire de rééduquer son sentiment de compétence par des actions concrètes et graduelles.
+- Il ouvre des tutoriels sur des réglages maîtrisés pendant que la version demandée attend.
+- Il pourrait relire plusieurs fois le message d’Antoine sans commencer le changement de lettrage, jusqu’à rendre l’échéance plus difficile.
+
+## Techniques pour s'affirmer face à la dépendance et l'incompétence
+Ces propositions restent des essais d’observation, d’organisation ou de communication. Elles peuvent être adaptées ou laissées de côté.
 
 ### 1. La technique du micro-choix délibéré
-L'objectif est de reprendre l'habitude de décider sans consulter personne sur des points à faible enjeu. Pour Adrien, cela consiste à choisir une palette de couleurs pour son projet et à la valider définitivement dans son logiciel avant d'ouvrir sa boîte mail. L'exercice consiste à noter chaque soir trois micro-décisions prises seul durant la journée. Cela permet de muscler la confiance en son propre jugement et de réaliser que le monde ne s'écroule pas lorsque l'on n'a pas sollicité l'avis d'une autorité.
 
-### 2. Le dialogue avec l'enfant intérieur parentifié
-Adrien peut écrire à son moi plus jeune comme il écrirait à une personne qu’il voudrait rassurer. L’« enfant intérieur » est une image : l’exercice ne sert pas à retrouver l’âge auquel cette crainte aurait commencé. Il peut aussi se contenter de noter ce qu’il sait faire aujourd’hui.
+Objectif : Définir une petite décision qui relève effectivement de la marge du graphiste.
+
+1. Relire les contraintes écrites du client et choisir un détail réversible qui reste à la décision d’Adrien.
+2. Faire un choix provisoire dans une copie du fichier, sans le confondre avec la validation finale du client.
+3. Noter le critère utilisé puis distinguer la précision réellement nécessaire à demander, comme le support de diffusion.
+
+Utilité possible : Le choix peut rendre visible la marge professionnelle d’Adrien. Demander un renseignement utile reste compatible avec l’autonomie.
+
+### 2. Le dialogue avec l’enfant intérieur parentifié
+
+Objectif : Utiliser une image facultative pour se parler avec plus de précision et de douceur.
+
+1. Choisir de s’adresser à son moi plus jeune ou, si l’image déplaît, à lui-même aujourd’hui.
+2. Écrire ce qu’il sait faire dans cette commande et une phrase de soutien, sans chercher l’âge ou l’événement où le doute aurait commencé.
+3. Garder seulement ce qui aide à reprendre une décision actuelle, puis ranger la note si elle devient une nouvelle évaluation de soi.
+
+Utilité possible : La note peut rappeler une compétence connue. Elle ne permet pas d’établir une parentification ni de prouver que l’autorité actuelle ne pose aucun problème.
 
 ### 3. Essayer une tâche simple sans vérification immédiate
-Sur un détail à faible enjeu, Adrien peut travailler quelques minutes avant de demander un avis. Il relit ensuite son travail avec un critère précis, par exemple la lisibilité du logo. Quand le brief est ambigu ou que l’enjeu est élevé, consulter reste pertinent.
+
+Objectif : Examiner son propre travail sur un critère avant de demander un retour global.
+
+1. Choisir la modification de lettrage et vérifier qu’un essai est de faible enjeu et réversible.
+2. La réaliser dans le temps disponible puis examiner sa lisibilité sur le fond prévu.
+3. Demander un avis ciblé si une information manque ou si l’enjeu le justifie, en séparant cette demande d’une assurance sur sa valeur personnelle.
+
+Utilité possible : Ce contrôle peut aider Adrien à formuler une question utile. Il ne retire aucun appui nécessaire et ne demande pas de se passer du client pour les décisions qui lui appartiennent.
 
 ## Une version à envoyer
-
 Adrien lève les mains de son clavier et observe ses tatouages au poignet, des lignes géométriques qu'il a lui-même dessinées il y a des années. Il se souvient qu'à l'époque, il n'avait demandé l'avis de personne pour ce choix qui marque sa peau pour toujours. Pourquoi serait-il moins capable aujourd'hui de choisir entre deux nuances de bleu pour un client ? Il ferme les tutoriels ouverts sur son navigateur. Un calme étrange s'installe dans la pièce, seulement troublé par le ronronnement du ventilateur de son ordinateur.
 
 Il repense à sa progression depuis sa rupture avec Marina. Il a appris à identifier ses raisonnements émotionnels et à ne plus se laisser submerger par l'anxiété. S'il a réussi à transformer sa mélancolie en un moteur pour son art plutôt qu'en un frein, il peut aussi dompter ce besoin de tutelle. Aujourd'hui, il s'attaque à un pilier plus solide : sa propre légitimité. Il écrit une réponse concise à Antoine, expliquant ses choix graphiques avec assurance, sans poser de question ni solliciter de validation préalable. Il clique sur envoyer sans laisser le temps à l'hésitation de s'installer.
 
-En se levant pour aller vers sa fenêtre qui donne sur une petite rue de Lyon, Adrien ressent une forme de solidité nouvelle. Le sentiment d'être un imposteur n'a pas totalement disparu, mais il ne dirige plus ses doigts sur le clavier. Il réalise que l'autorité n'est qu'un miroir sur lequel il projetait ses propres doutes d'enfant. En choisissant d'agir malgré la peur de l'incompétence, il commence enfin à devenir le propre patron de son esprit, une étape cruciale pour son épanouissement en tant qu'homme et en tant qu'artiste indépendant.
+En se levant pour aller vers sa fenêtre qui donne sur une petite rue de Lyon, Adrien ressent une forme de solidité nouvelle. Le sentiment d'être un imposteur n'a pas totalement disparu, mais il ne dirige plus ses doigts sur le clavier. Il peut distinguer son doute de la décision professionnelle à prendre : certains choix graphiques lui reviennent, tandis qu’Antoine garde un rôle réel dans la validation de la commande. En choisissant d'agir malgré la peur de l'incompétence, il commence enfin à devenir le propre patron de son esprit, une étape cruciale pour son épanouissement en tant qu'homme et en tant qu'artiste indépendant.
 
 Il envoie à Antoine les deux versions et lui demande sur quel support le lettrage doit rester lisible. Il cherche encore son accusé de réception avant de quitter le bureau.
 

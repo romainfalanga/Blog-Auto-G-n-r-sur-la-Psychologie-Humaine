@@ -41,6 +41,11 @@ Cette promesse fragile pourrait décevoir davantage les proches et renforcer le 
 
 Mariama peut néanmoins être triste de ne pas retrouver son fils au moment souhaité. Cette émotion mérite une place sans devenir une preuve que Malik doit changer sa réponse. On peut comprendre une déception et garder une contrainte. Le respect mutuel ne suppose pas que tout le monde se sente immédiatement satisfait de l’accord.
 
+Exemples concrets
+
+- Le cousin transforme la disponibilité du dimanche en preuve d’affection.
+- Malik pourrait promettre l’appel pour arrêter ce jugement puis le manquer en raison du poste.
+
 ### Les habitudes anciennes deviennent des obligations permanentes
 
 Au début de son installation ici, Malik accepte volontiers des appels très fréquents. Ils l’aident à partager ses découvertes et à rester proche. Quatre ans plus tard, son quotidien comporte d’autres horaires et des liens locaux plus installés. Le rythme initial peut ne plus convenir, sans que sa valeur passée soit remise en cause.
@@ -49,6 +54,11 @@ Changer une habitude demande parfois d’expliquer ce qui évolue. Les proches p
 
 La modification peut aussi venir des proches. Mariama peut avoir d’autres activités et souhaiter elle-même un contact moins dispersé. Négocier ne consiste donc pas seulement pour Malik à défendre sa liberté contre des exigences extérieures. Il écoute également les besoins qui motivent la nouvelle proposition et cherche ce qui peut être partagé.
 
+Exemples concrets
+
+- Un rythme choisi lors de l’installation continue à être attendu quatre ans plus tard.
+- Mariama souhaite moins d’appels dispersés, ce qui peut aussi modifier une habitude ancienne.
+
 ### Une personne devient responsable de l’accord de tous
 
 Malik se retrouve à comparer les horaires, relancer les absents et rassurer ceux qui se sentent oubliés. Il apprécie parfois ce rôle, mais n’a pas toujours l’énergie de coordonner tout le groupe. Sa disponibilité numérique peut donner l’impression qu’il se trouve naturellement chargé de cette organisation.
@@ -56,6 +66,11 @@ Malik se retrouve à comparer les horaires, relancer les absents et rassurer ceu
 Le groupe peut répartir cette tâche ou accepter qu’un appel ne rassemble pas chacun à chaque fois. Aucune solution ne garantit une réunion complète. L’objectif peut être de conserver des occasions de lien plutôt que de produire une présence familiale parfaite. Une absence ponctuelle n’a pas besoin de déclencher une enquête sur les priorités de la personne.
 
 Malik peut proposer une idée sans devenir responsable de sa réussite. Les autres gardent leur rôle dans la confirmation, la ponctualité et l’expression de leurs limites. Une négociation plus équitable commence aussi par ne pas laisser la même personne porter tout le travail qui permet à l’accord d’exister.
+
+Exemples concrets
+
+- Malik commence à comparer tous les horaires pour trouver la réunion parfaite.
+- Oumar peut transmettre les informations pratiques sans que Malik reprenne ensuite toute la coordination.
 
 ## Une date que chacun peut accepter ou refuser
 
@@ -67,6 +82,12 @@ Exprimez ensuite votre propre besoin avec une limite concrète. Malik veut reste
 
 Si une phrase transforme la demande en jugement d’affection, ramenez la discussion à ce qui peut être convenu. Malik peut répondre qu’il tient à sa famille et qu’il parle maintenant d’un horaire. Cette limite ne garantit pas l’écoute du cousin. Elle lui permet de ne pas accepter le cadre d’un concours d’attachement.
 
+Exercice pratique
+
+- Demandez à Mariama ce qu’un appel prévisible lui apporterait.
+- Dites votre souhait de lien et les dimanches où le poste empêche une présence.
+- Ramenez une remarque sur l’affection à la question concrète du créneau à convenir.
+
 ### 2. Proposer un essai limité et une confirmation réaliste
 
 Choisissez une période courte pour tester une organisation. Malik peut rejoindre l’appel collectif lorsqu’il confirme sa disponibilité, puis prévoir un contact individuel avec Mariama à un autre moment si nécessaire. Chacun vérifie ce qu’il peut réellement tenir. Une proposition ne devient un accord que lorsque les personnes concernées l’acceptent.
@@ -75,6 +96,12 @@ Précisez aussi la manière d’annoncer un empêchement et ce qui se passe sans
 
 Après l’essai, demandez ce qui convient et ce qui doit changer. Il est possible que le créneau collectif reste utile à certains et pas à d’autres. Une organisation familiale n’a pas besoin d’être uniforme pour conserver du sens. Le test sert à observer la vie réelle, pas à faire réussir une formule choisie à l’avance.
 
+Exercice pratique
+
+- Proposez un essai où la participation collective dépend de la disponibilité confirmée.
+- Convenez avec les personnes concernées de l’annonce des empêchements et du contact individuel possible.
+- Faites un bilan après l’essai sans imposer le même rythme à tous.
+
 ### 3. Accueillir la déception sans retirer automatiquement la limite
 
 Préparez une phrase qui reconnaît l’effet de votre réponse. Malik peut dire à Mariama qu’il comprend son envie de le voir pendant l’appel et qu’il regrette de manquer certains moments. Il ne promet pas ensuite une présence impossible pour faire disparaître sa tristesse. L’affection peut être dite séparément du calendrier.
@@ -82,6 +109,12 @@ Préparez une phrase qui reconnaît l’effet de votre réponse. Malik peut dire
 Laissez un temps de réaction sans remplir immédiatement l’espace avec une concession. Une personne peut être déçue et retrouver ensuite un accord. Cela ne signifie pas qu’il faut accepter des reproches répétés ou une pression humiliante. Dans ce cas, interrompre et reprendre avec un appui peut être préférable.
 
 Si vous modifiez finalement votre réponse, faites-le à partir d’une possibilité réelle, pas uniquement pour arrêter la culpabilité. Malik peut changer un rendez-vous privé s’il le souhaite et si cela convient à l’autre personne. Il n’est pas tenu de rendre chaque limite intouchable ; il cherche un choix qui lui appartienne et reste respectueux des engagements déjà pris.
+
+Exercice pratique
+
+- Reconnaissez le souhait de Mariama de vous voir sans promettre un horaire impossible.
+- Laissez un temps à sa réaction au lieu de concéder aussitôt une présence.
+- Revoyez la réponse seulement si une possibilité réelle apparaît, en gardant vos autres engagements.
 
 ## Malik garde le lien et renonce à tout coordonner
 

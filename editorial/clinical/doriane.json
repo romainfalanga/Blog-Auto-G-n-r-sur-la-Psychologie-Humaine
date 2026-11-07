@@ -1,0 +1,1253 @@
+{
+  "character_id": "doriane",
+  "bio": "Doriane, 36 ans, est technicienne dans une bibliothèque. Elle reconnaît les livres aux souvenirs que les lecteurs lui en confient et voudrait partager un roman aux Lectures du square, avec Élise et Malik. Le trouble de la personnalité évitante, diagnostiqué avant le récit dans le cadre du DSM-5-TR, restreint ses choix par la crainte du rejet dans plusieurs relations. Avec sa psychothérapeute, elle prépare des essais à sa mesure. Son amie Anaïs lui garde une place sans décider à sa place.",
+  "profile_topics": [
+    "Trouble de la personnalité évitante",
+    "Crainte du rejet",
+    "Estime de soi",
+    "Relations proches",
+    "Choix et participation"
+  ],
+  "episodes": [
+    {
+      "number": 1,
+      "slug": "doriane-envie-rejoindre-groupe",
+      "title": "Envie de rejoindre un groupe : quand la peur du rejet décide",
+      "description": "Doriane garde une invitation dans son tiroir. Elle souhaite participer aux lectures, mais anticipe le rejet avant toute rencontre.",
+      "context": "Une invitation aux lectures de quartier",
+      "topics": [
+        "désir de lien",
+        "évitement",
+        "invitation"
+      ],
+      "clinical_focus": "Conflit entre envie et évitement",
+      "clinical_intro": "Un évitement relationnel peut éloigner une personne d’une rencontre qu’elle désire. Le soulagement de renoncer ne signifie donc pas toujours que la solitude lui convient. Dans un trouble de la personnalité évitante déjà évalué, comprendre ce conflit permet de regarder les possibilités abandonnées et les besoins de lien, sans transformer chaque refus en symptôme.",
+      "opening": "Doriane retrouve l’enveloppe au fond du tiroir où elle range les cartes de prêt abîmées. Élise y a glissé une invitation aux Lectures du square, un projet de quartier qui réunira trois adultes pour choisir des livres et préparer un après-midi de lecture. Doriane a déjà entouré la date. Elle a même pensé au roman vert dont une phrase lui revient quand elle traverse les immeubles derrière la bibliothèque.\n\nAu déjeuner, Élise lui demande si elle a eu le temps d’y réfléchir. Doriane ouvre la bouche pour parler du livre, puis demande plutôt s’il reste beaucoup de rangement à faire en réserve. Elle imagine Malik, le bénévole qu’elle ne connaît pas encore, découvrant qu’elle n’a rien d’intéressant à dire. Élise ne fait aucun commentaire. Cette absence lui paraît aussitôt annoncer une déception.\n\nDepuis plusieurs années, la peur lui fait laisser passer des rencontres, même avec des personnes qu’elle apprécie. Elle en parle déjà avec sa psychothérapeute ; le diagnostic de personnalité évitante a été posé avant ce projet. Élise sait seulement qu’elle est suivie, parce que Doriane a choisi de le lui dire. Elle n’a pas à expliquer son dossier au travail.\n\nDoriane se remet à classer les retours. Renoncer lui apporte quelques minutes de calme. Mais, quand elle aperçoit Élise recopier les noms sur la feuille de préparation, elle voudrait encore que le sien y figure. L’enveloppe dépasse de sa poche.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Le désir de lien face au retrait",
+          "text": "L’évitement peut procurer un apaisement immédiat tout en laissant insatisfait un désir de relation. Le trouble de la personnalité évitante est ici nommé dans le cadre du DSM-5-TR ; le diagnostic connu de Doriane ne découle pas de sa réaction à une invitation.\n\nLa scène ne montre pas une personne indifférente aux autres : Doriane a une idée de livre et souhaite entrer dans le projet. Elle écarte la rencontre pour éviter une douleur attendue. Le diagnostic ne vient pas de cette enveloppe ; il repose sur une évaluation antérieure de son fonctionnement durable et de son retentissement dans plusieurs liens. Une préférence pour travailler au calme ou une invitation refusée pour une autre raison gardent toute leur place. Une réserve choisie n’est pas un trouble. Ce sont l’histoire, le vécu, les restrictions durables dans plusieurs liens et les autres explications possibles qui ont été examinés en suivi."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment le conflit entre envie et retrait se manifeste-t-il ?",
+          "points": [
+            {
+              "heading": "Préparer une rencontre sans y entrer",
+              "text": "Le désir peut se lire dans ce qui a été préparé, alors que la peur bloque le geste qui rendrait la participation réelle.",
+              "examples": [
+                "Dans le tiroir, la date entourée montre que Doriane a envisagé sa présence.",
+                "À la bibliothèque, elle pense à un roman mais ne donne pas encore son titre à Élise."
+              ]
+            },
+            {
+              "heading": "Remplacer une réponse par une tâche connue",
+              "text": "Une activité maîtrisée peut devenir un refuge quand une réponse expose au regard d’autrui. Sa fonction dépend de la situation.",
+              "examples": [
+                "Au déjeuner, Doriane interroge Élise sur la réserve au lieu de répondre à l’invitation.",
+                "En fin de service, elle reprend le classement au moment où les noms sont inscrits."
+              ]
+            },
+            {
+              "heading": "Se sentir soulagée puis privée de quelque chose",
+              "text": "Le calme immédiat et le regret ultérieur peuvent coexister. Les observer aide à comprendre ce que le retrait coûte à cette personne.",
+              "examples": [
+                "Après avoir évité de répondre, Doriane respire plus facilement pendant quelques minutes.",
+                "Devant la feuille de préparation, elle ressent de nouveau l’envie d’avoir une place."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour identifier un choix que l’on souhaite faire",
+          "points": [
+            {
+              "heading": "Séparer envie et prédiction",
+              "objective": "L’objectif est de distinguer ce qui attire de ce que la peur annonce.",
+              "exercise": [
+                "Sur une feuille privée, écrire ce que l’on aimerait trouver dans cette rencontre.",
+                "Noter à côté la réaction redoutée, en la présentant comme une prédiction.",
+                "Choisir le point que l’on souhaite discuter en suivi, sans se forcer à accepter."
+              ],
+              "benefit": "Cette distinction peut rendre le désir plus visible sans exiger de certitude sur la réaction des autres."
+            },
+            {
+              "heading": "Demander un renseignement délimité",
+              "objective": "L’objectif est d’obtenir une information pratique sans demander une garantie d’être aimé.",
+              "exercise": [
+                "Repérer ce qui manque réellement : durée, nombre de personnes ou rôle attendu.",
+                "Poser une seule question à l’organisateur, par exemple sur la première réunion.",
+                "Utiliser la réponse pour décider d’un engagement précis ou d’un refus."
+              ],
+              "benefit": "Une information concrète peut soutenir la décision ; elle ne promet ni absence d’inquiétude ni accueil parfait."
+            },
+            {
+              "heading": "Préparer un premier engagement avec le thérapeute",
+              "objective": "L’objectif est de choisir un essai compatible avec ses ressources.",
+              "exercise": [
+                "Apporter au suivi l’exemple de l’invitation et ce qui a empêché de répondre.",
+                "Définir ensemble une première participation limitée et les conditions pour l’ajuster.",
+                "Après l’essai, reprendre ce qui a été vécu avant de choisir une autre étape."
+              ],
+              "benefit": "Un accompagnement peut aider à observer le coût de l’évitement et à doser l’effort, plutôt qu’à accumuler des défis."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Le nom sur la feuille",
+      "ending": "À la fin de la journée, Doriane demande combien de temps durera la première préparation. « Une demi-heure, avec Malik et moi », répond Élise. Doriane dit qu’elle voudrait venir avec une proposition de roman. Elle s’inscrit elle-même sur la feuille.\n\nEn rentrant, elle se demande encore si elle a été trop enthousiaste. Elle conserve l’enveloppe pour en parler au prochain suivi, mais ne retire pas son nom. Élise lui a envoyé l’heure et le lieu ; elle n’a pas eu à lui promettre que tout le monde l’apprécierait. Le roman vert attend sur la table de Doriane.",
+      "conclusion": "Cet épisode montre la place que peut prendre une peur du rejet dans un choix désiré. L’inscription ne règle pas les difficultés de Doriane ; elle transforme une invitation gardée secrète en une première rencontre concrète. Le choix du livre reste à faire.",
+      "mirror": [
+        "Quand Élise voit l’enveloppe ressortir, elle peut proposer : « Je peux te préciser le déroulement, puis tu me diras ce que tu choisis. » Elle laisse une réponse possible sans interpréter le silence comme un refus définitif. Elle n’a pas à obtenir une confidence sur les soins ni à convaincre Doriane d’assister à chaque rencontre."
+      ],
+      "sources": [
+        "apa-personnalite",
+        "apa-dsm5tr-public",
+        "oms-cddr"
+      ],
+      "continuity": {
+        "choice": "Doriane s’inscrit à une préparation de trente minutes avec Élise et Malik.",
+        "next": "Elle doit choisir un roman à proposer ; le livre vert devient le fil matériel."
+      }
+    },
+    {
+      "number": 2,
+      "slug": "doriane-preference-livre-devalorisation",
+      "title": "Dévaloriser sa préférence avant même de proposer un livre",
+      "description": "Devant trois romans, Doriane écarte celui qu’elle aime. Elle confond la valeur d’un choix avec la valeur qu’elle s’accorde.",
+      "context": "Choisir un roman pour le groupe",
+      "topics": [
+        "dévalorisation",
+        "préférence",
+        "choix du livre"
+      ],
+      "clinical_focus": "Dévalorisation de sa propre préférence",
+      "clinical_intro": "Une image très défavorable de soi peut retirer du poids à ses goûts avant toute discussion. Une personne peut connaître son sujet et supposer malgré cela que sa proposition vaut moins que celle des autres. Cette difficulté peut participer au retentissement d’une personnalité évitante ; elle ne mesure ni la compétence réelle ni la qualité d’un livre.",
+      "opening": "Le dimanche, Doriane pose trois romans sur sa table. Celui à couverture verte s’intitule Les maisons du passage. Elle l’a lu pendant ses trajets et a recopié une phrase sur un quartier dont les habitants changent sans que les chemins disparaissent. Ce serait son premier choix pour les Lectures du square. Les deux autres titres sont plus connus ; elle les a ajoutés après avoir imaginé la table de préparation.\n\nElle prépare des notices bibliographiques nettes, avec l’année, l’éditeur et la durée approximative des extraits. Pour le roman vert, elle écrit seulement : « Peut-être, à voir. » Elle sait pourtant très bien ce qu’elle pourrait en dire. Ce qu’elle redoute, ce n’est pas uniquement que le groupe préfère un autre livre. Elle imagine qu’un choix trop personnel révélera qu’elle est moins intéressante qu’Élise et Malik.\n\nAnaïs appelle pour demander si elles marcheront après le déjeuner. Doriane répond qu’elle doit encore trouver quelque chose de présentable. « Tu n’avais pas déjà un roman ? » demande son amie. Doriane décrit les deux titres connus et garde le vert hors de la conversation.\n\nÀ la bibliothèque, elle aide régulièrement des lecteurs à préciser un souvenir ou une envie de lecture. Seule devant ses propres livres, cette compétence ne lui paraît pas compter. Elle empile les notices, prête à laisser la décision aux deux autres, alors que personne ne lui a demandé de renoncer à sa préférence.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Quand sa préférence paraît sans valeur",
+          "text": "Une évaluation défavorable de soi peut s’étendre à des choix qui étaient pourtant clairs. Le sentiment de valoir moins que les autres ne constitue pas une mesure fiable de la qualité d’une proposition, et les goûts restent discutables sans que la personne entière soit évaluée.\n\nDoriane ne manque pas d’arguments littéraires. Elle disqualifie leur origine : parce qu’ils sont les siens, ils lui semblent moins recevables. Dans son parcours, le travail porte sur cette évaluation globale de soi et ses effets sur les choix. Le groupe pourra avoir des préférences différentes ; un désaccord sur un roman ne tranche pas la valeur de celle qui le propose."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment la dévalorisation réduit-elle une proposition ?",
+          "points": [
+            {
+              "heading": "Retirer ses raisons personnelles",
+              "text": "Une présentation peut devenir très prudente quand parler de ce que l’on aime paraît exposer une insuffisance.",
+              "examples": [
+                "Sur sa notice, Doriane efface la raison pour laquelle Les maisons du passage l’a touchée.",
+                "Au téléphone, elle nomme les deux autres titres et omet son favori."
+              ]
+            },
+            {
+              "heading": "Donner plus de poids au choix supposé des autres",
+              "text": "L’avis d’autrui est parfois anticipé avant d’avoir été demandé. La comparaison porte alors sur des personnes imaginées plus légitimes.",
+              "examples": [
+                "À sa table, Doriane traite la notoriété d’un roman comme la preuve qu’Élise le préférera.",
+                "Elle suppose Malik meilleur juge sans l’avoir encore rencontré."
+              ]
+            },
+            {
+              "heading": "Ne plus reconnaître une compétence familière",
+              "text": "Une capacité peut rester disponible au travail tout en étant écartée de l’image que l’on a de soi.",
+              "examples": [
+                "En service, Doriane sait rapprocher une envie de lecture et un ouvrage.",
+                "Chez elle, elle juge cette expérience sans rapport avec le droit de proposer son livre au groupe."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour donner une place à sa préférence",
+          "points": [
+            {
+              "heading": "Écrire une raison qui vient de soi",
+              "objective": "L’objectif est de formuler une préférence sans la faire valider à l’avance.",
+              "exercise": [
+                "Choisir un livre que l’on souhaite réellement proposer.",
+                "Écrire une phrase concrète : une scène, une voix ou un sujet que l’on aime.",
+                "Garder cette phrase pour la préparation, même si le groupe choisit ensuite autrement."
+              ],
+              "benefit": "Une raison précise peut rendre la proposition partageable ; elle ne transforme pas un goût en vérité universelle."
+            },
+            {
+              "heading": "Distinguer le choix et le jugement sur soi",
+              "objective": "L’objectif est de repérer quand une discussion littéraire devient une condamnation personnelle.",
+              "exercise": [
+                "Noter la pensée qui surgit, par exemple « mon livre montrera que je suis sans intérêt ».",
+                "Séparer ce que le groupe peut discuter du livre de ce que cette pensée affirme sur la personne.",
+                "Apporter cet écart au suivi si la dévalorisation bloque régulièrement les choix."
+              ],
+              "benefit": "Cette séparation peut ouvrir un travail sur l’estime de soi sans imposer de se sentir aussitôt compétente."
+            },
+            {
+              "heading": "Présenter une proposition complète mais courte",
+              "objective": "L’objectif est d’offrir au groupe de quoi choisir.",
+              "exercise": [
+                "Préparer le titre, une raison et une limite pratique, comme la longueur de l’extrait.",
+                "Présenter ces trois éléments à une personne consentante ou directement en réunion.",
+                "Écouter la réponse en relevant les éléments concernant le projet, sans exiger un compliment."
+              ],
+              "benefit": "Le format peut aider à sortir d’une proposition rendue invisible, tout en laissant une place aux autres livres."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Une phrase sous le titre vert",
+      "ending": "Doriane reprend la notice du roman vert. Elle y écrit : « J’aime la façon dont les lieux relient des habitants qui ne se connaissent pas. » Elle ne demande pas à Anaïs si cette raison est assez intelligente. Elle lui dit seulement qu’elle a retrouvé son premier choix.\n\nLe lundi, elle emporte Les maisons du passage et les deux autres notices. Sa proposition n’est pas une décision collective déjà prise : Élise et Malik auront leurs propres idées. Dans le sac, le livre vert reste au-dessus. Doriane a encore envie de présenter d’abord les titres connus, mais elle sait désormais ce qu’elle souhaite ajouter à la conversation.",
+      "conclusion": "La dévalorisation peut agir avant toute critique, en effaçant une préférence pourtant construite. Doriane apporte une proposition qui lui ressemble et accepte que le groupe puisse la discuter. Ce premier choix personnel donnera un contenu à la rencontre où elle s’est inscrite.",
+      "mirror": [
+        "Anaïs peut s’appuyer sur le livre déjà nommé : « Tu peux me dire ce qui t’a plu, si tu en as envie. » Elle n’a pas à classer les romans ni à prouver que le goût de Doriane est excellent. Son intérêt laisse une place à cette préférence ; son amie conserve la décision de la partager au groupe."
+      ],
+      "sources": [
+        "apa-personnalite",
+        "oms-cddr",
+        "medline-personnalite-evitante"
+      ],
+      "continuity": {
+        "choice": "Doriane choisit Les maisons du passage comme première proposition et conserve une raison personnelle sur sa notice.",
+        "next": "Elle apporte le livre vert à la première rencontre avec Élise et Malik."
+      }
+    },
+    {
+      "number": 3,
+      "slug": "doriane-certitude-etre-acceptee",
+      "title": "Chercher la certitude d’être acceptée avant de prendre sa place",
+      "description": "Une chaise est réservée à Doriane. Elle voudrait pourtant vérifier encore qu’elle peut venir, malgré les informations déjà reçues.",
+      "context": "La première préparation à trois",
+      "topics": [
+        "réassurance",
+        "incertitude",
+        "place dans le groupe"
+      ],
+      "clinical_focus": "Besoin de certitude relationnelle",
+      "clinical_intro": "La crainte du rejet peut conduire à chercher des garanties répétées avant de rejoindre les autres. Une réponse rassurante apporte parfois un apaisement bref sans lever l’incertitude sur le lien. Dans un parcours de personnalité évitante, on peut travailler cette difficulté sans demander aux proches de garantir leurs sentiments ni supprimer une aide pratique utile.",
+      "opening": "À onze heures cinquante, Doriane a terminé les retours du matin. La préparation commence à midi dans la petite salle derrière l’accueil. Élise a déjà confirmé la durée de trente minutes. Un message de Malik indique qu’il apportera un recueil. Doriane tient Les maisons du passage contre elle et relit l’invitation, toujours pliée dans son enveloppe.\n\nElle écrit à Élise : « C’est toujours bon pour moi ? » Puis elle efface. L’heure n’a pas changé, son nom figure sur la feuille, personne n’a annulé. Ce qu’elle voudrait vérifier n’a pas vraiment de réponse pratique : elle voudrait savoir qu’ils ne regretteront pas sa présence. Une première confirmation lui avait permis de s’inscrire. Depuis le matin, elle a trouvé trois raisons de douter à nouveau.\n\nÉlise passe chercher une carafe. « On t’attend », dit-elle. Doriane sourit, mais se demande si sa collègue le dit par politesse. Elle s’apprête à demander si Malik est vraiment d’accord. Élise ne connaît pas cette question intérieure. Elle dépose simplement une troisième tasse sur la table.\n\nDoriane reste près du rayonnage des dictionnaires. Son silence peut donner l’impression qu’elle n’est pas pressée. En réalité, elle guette un signe supplémentaire qui lui permettrait de traverser les quelques mètres jusqu’à la salle. Sa notice du roman vert se froisse sous sa main.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Information pratique et garantie d’acceptation",
+          "text": "Une demande d’information et une recherche de garantie affective peuvent prendre la forme de la même question. Leur fonction se comprend dans le contexte et avec la personne ; aucune formulation de message ne permet à elle seule de les distinguer.\n\nUne confirmation d’horaire et une garantie d’acceptation n’ont pas la même portée. Ici, les renseignements utiles sont obtenus, mais Doriane attendrait volontiers une certitude que personne ne peut lui fournir pour toute la rencontre. Ce mécanisme est décrit à partir de son expérience ; des demandes de précision peuvent être entièrement justifiées et ne disent rien, à elles seules, d’un diagnostic."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment la quête de certitude retarde-t-elle la rencontre ?",
+          "points": [
+            {
+              "heading": "Reposer une question déjà renseignée",
+              "text": "La question apparente peut cacher une inquiétude différente de son objet pratique.",
+              "examples": [
+                "Doriane relit l’heure alors que la préparation n’a pas été déplacée.",
+                "Elle prépare un message pour vérifier sa venue alors que son inscription a été confirmée."
+              ]
+            },
+            {
+              "heading": "Écarter rapidement une réponse favorable",
+              "text": "Une parole reçue peut être requalifiée en politesse, de sorte qu’elle ne suffit plus à agir.",
+              "examples": [
+                "Le « on t’attend » d’Élise apaise Doriane un instant puis devient suspect.",
+                "La troisième tasse lui paraît un geste d’organisation qui ne prouverait pas qu’elle est souhaitée."
+              ]
+            },
+            {
+              "heading": "Laisser l’action dépendre d’un signe supplémentaire",
+              "text": "La participation est retardée pendant que la personne cherche un indice plus sûr.",
+              "examples": [
+                "Doriane s’arrête près des dictionnaires au lieu d’entrer avec son livre.",
+                "Elle pense demander à Élise de parler pour elle à Malik, sans avoir encore échangé avec lui."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour entrer dans une situation encore incertaine",
+          "points": [
+            {
+              "heading": "Nommer la question derrière la question",
+              "objective": "L’objectif est de distinguer information manquante et peur relationnelle.",
+              "exercise": [
+                "Relire ce que l’on sait déjà sur le rendez-vous.",
+                "Écrire ce que l’on espère réellement apprendre par une nouvelle confirmation.",
+                "Si la question concerne surtout l’assurance d’être apprécié, la garder comme sujet de suivi plutôt que multiplier les messages."
+              ],
+              "benefit": "Cela peut limiter les échanges qui soulagent brièvement sans répondre au besoin durable ; une vraie information manquante reste à demander."
+            },
+            {
+              "heading": "Choisir un geste sans preuve supplémentaire",
+              "objective": "L’objectif est de rendre possible un essai préparé avec son thérapeute.",
+              "exercise": [
+                "Définir un geste modeste, comme entrer et poser le livre sur la table.",
+                "S’appuyer sur l’accord déjà reçu, tout en reconnaissant la peur qui demeure.",
+                "Observer ensuite ce qui s’est passé, sans devoir conclure que le lien est définitivement sûr."
+              ],
+              "benefit": "L’essai peut apporter une expérience différente de l’attente ; il n’oblige pas à rester si les conditions deviennent irrespectueuses."
+            },
+            {
+              "heading": "Convenir d’un soutien qui ne décide pas",
+              "objective": "L’objectif est d’obtenir une aide précise sans déléguer toute la relation.",
+              "exercise": [
+                "Demander à un proche disponible une aide concrète, par exemple rappeler le lieu.",
+                "Préciser ce que l’on fera soi-même, comme saluer Malik et présenter son titre.",
+                "Reprendre avec le thérapeute ce qui a aidé et ce qui a prolongé l’attente."
+              ],
+              "benefit": "Un soutien ainsi délimité peut faciliter la rencontre sans transformer le proche en garant de l’acceptation par tous."
+            }
+          ]
+        }
+      ],
+      "ending_title": "La tasse à côté du livre",
+      "ending": "Doriane entre sans envoyer son message. Elle pose le roman vert près de la troisième tasse et se présente à Malik. Il lui montre le recueil qu’il a apporté. Ils passent quelques minutes à chercher un thème commun ; Élise propose les lieux du quartier.\n\nQuand vient son tour, Doriane lit la phrase de sa notice. Elle parle bas mais ne la retire pas. Malik demande quelle longueur ferait l’extrait. La question ne lui dit pas s’il l’apprécie ; elle leur permet pourtant de travailler. Ils conviennent que chacun apportera un passage court à la prochaine préparation. En sortant, Doriane a encore envie de demander à Élise si elle a été à sa place.",
+      "conclusion": "La rencontre n’a pas fourni de garantie sur les sentiments d’autrui. Elle a permis à Doriane d’échanger à partir d’une inscription déjà acceptée. Le groupe dispose maintenant d’un thème commun et attend des extraits ; la recherche de certitude reste un sujet du suivi.",
+      "mirror": [
+        "Élise peut confirmer une fois l’information utile : « Oui, la préparation est à midi, ta place est prévue. » Si Doriane redemande une garantie sur Malik, elle peut répondre : « Je ne peux pas parler de ce qu’il pense ; vous pourrez échanger autour des livres. » Elle garde un ton accueillant et ne transforme pas cette limite en exercice imposé."
+      ],
+      "sources": [
+        "apa-personnalite",
+        "oms-cddr",
+        "rcpsych-anxiete-sociale"
+      ],
+      "continuity": {
+        "choice": "Doriane rejoint la table sans nouvelle confirmation et présente son titre ; le groupe choisit le thème des lieux du quartier.",
+        "next": "Chacun apportera un extrait court ; le retour sur sa longueur sera travaillé dans la scène suivante."
+      }
+    },
+    {
+      "number": 4,
+      "slug": "doriane-retour-pratique-jugement-personnel",
+      "title": "Entendre une correction comme un jugement sur sa personne",
+      "description": "Élise trouve l’extrait trop long. Doriane entend qu’elle a mal choisi et pense retirer son livre du projet.",
+      "context": "Un retour sur la longueur de l’extrait",
+      "topics": [
+        "critique",
+        "interprétation",
+        "retour pratique"
+      ],
+      "clinical_focus": "Interprétation personnelle d’un retour",
+      "clinical_intro": "Un retour limité à une tâche peut être vécu comme un jugement beaucoup plus large sur soi. La sensibilité à la critique peut alors empêcher de distinguer une demande concrète et une conclusion sur sa valeur. Dans le parcours d’une personnalité évitante, cette distinction aide à discuter le travail sans présumer que toute remarque est injuste ou anodine.",
+      "opening": "La semaine suivante, Doriane arrive avec deux pages marquées dans Les maisons du passage. Élise a apporté un recueil de récits du quartier et Malik une page de son recueil. Ils lisent chacun à leur tour, autour de la même carafe. Doriane commence trop vite puis ralentit quand elle retrouve la phrase sur les chemins entre les immeubles.\n\nÉlise regarde l’heure. « C’est un beau passage, mais il faudrait le raccourcir pour laisser une place aux trois livres. » Malik propose de garder le paragraphe où les habitants traversent la cour. Doriane entend surtout « raccourcir ». Elle ferme le roman avant qu’ils aient fini de chercher la coupure. Le compliment lui paraît être une précaution avant un refus qu’ils n’oseraient pas formuler.\n\nElle pense qu’elle aurait dû choisir l’un des titres connus. La notice préparée avec soin lui semble soudain prétentieuse. Elle dit qu’ils peuvent faire l’après-midi à deux, qu’elle s’occupera des chaises. Élise répond qu’elle parle du temps disponible, pas d’enlever le livre. Doriane acquiesce mais range déjà ses pages dans son sac.\n\nSur la table restent les trois tasses de leur première rencontre. Tout semble identique, alors que Doriane se sent maintenant de trop. La longueur pose réellement un problème à leur programme. Elle voudrait pouvoir régler ce problème sans que sa place entière lui paraisse remise en question.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "La portée donnée à une correction",
+          "text": "La portée d’une remarque peut être élargie par la crainte qu’elle éveille. Discuter un retour demande alors de distinguer son objet, la manière dont il a été formulé et les conclusions personnelles qui lui ont été ajoutées.\n\nÉlise a formulé une limite réelle : trois passages doivent tenir dans le temps prévu. Doriane ajoute une conclusion sur sa légitimité dans le groupe. Les deux niveaux sont à examiner séparément. Clarifier le retour n’impose pas de l’accepter tel quel, et une remarque blessante resterait à nommer. Ici, la discussion porte encore sur la coupe d’un texte commun au projet."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment une correction devient-elle une mise à l’écart ?",
+          "points": [
+            {
+              "heading": "Élargir la portée d’une phrase",
+              "text": "Une remarque sur un détail peut être comprise comme l’évaluation de toute la contribution.",
+              "examples": [
+                "À la table, Doriane entend « ce livre ne convient pas » quand Élise demande un passage plus court.",
+                "Elle remet en cause son choix du roman alors que Malik propose précisément un paragraphe à conserver."
+              ]
+            },
+            {
+              "heading": "Traiter une appréciation favorable comme une précaution",
+              "text": "Une parole positive peut perdre tout poids quand elle est supposée cacher un rejet.",
+              "examples": [
+                "Doriane considère le « beau passage » comme une formule destinée à atténuer un refus.",
+                "Elle n’examine pas d’abord la proposition de Malik parce qu’elle croit la décision déjà prise contre elle."
+              ]
+            },
+            {
+              "heading": "Retirer davantage que ce qui est demandé",
+              "text": "Le retrait peut dépasser la correction nécessaire et priver le projet de la contribution souhaitée.",
+              "examples": [
+                "Doriane propose de ne plus lire, alors qu’une coupe suffirait au programme.",
+                "Elle ferme le livre avant de comparer les deux paragraphes possibles."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour discuter un retour sans s’effacer",
+          "points": [
+            {
+              "heading": "Reprendre les mots et leur objet",
+              "objective": "L’objectif est de situer exactement ce qui est demandé.",
+              "exercise": [
+                "Noter mentalement la phrase reçue sans lui ajouter une intention.",
+                "Identifier son objet concret : durée, longueur ou organisation.",
+                "Demander une précision si nécessaire : « Tu proposes de garder quel passage ? »"
+              ],
+              "benefit": "Cette clarification peut ramener la discussion à une tâche ; elle ne prouve pas que toutes les réactions sont favorables."
+            },
+            {
+              "heading": "Séparer la remarque de sa conclusion",
+              "objective": "L’objectif est de repérer le saut entre un retour et une condamnation de soi.",
+              "exercise": [
+                "Écrire le fait observable, comme la demande de raccourcir deux pages.",
+                "Écrire séparément la conclusion personnelle apparue, par exemple « je n’ai rien à apporter ».",
+                "Examiner cet écart avec le thérapeute si le même mouvement revient dans plusieurs liens."
+              ],
+              "benefit": "La distinction peut créer un peu d’espace pour répondre sans exiger que la blessure disparaisse immédiatement."
+            },
+            {
+              "heading": "Proposer une modification limitée",
+              "objective": "L’objectif est de tester une réponse proportionnée au problème réel.",
+              "exercise": [
+                "Choisir ce que l’on souhaite conserver dans sa contribution.",
+                "Présenter une modification concrète, comme garder un paragraphe et une phrase d’introduction.",
+                "Vérifier avec le groupe si cette version répond au temps disponible."
+              ],
+              "benefit": "Une modification circonscrite peut préserver la participation et permettre un désaccord argumenté, sans imposer d’accepter une humiliation."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Le paragraphe de la cour",
+      "ending": "Doriane ressort le livre. Elle demande à Malik de lui montrer la coupe qu’il envisage. Ils relisent le paragraphe de la cour, puis le précédent. Elle préfère garder la dernière phrase du premier pour que la scène soit compréhensible. Élise chronomètre cette version avec leur accord ; elle tient dans la place prévue.\n\nDoriane ne se sent pas aussitôt rassurée sur elle-même. Elle repart toutefois avec une correction précise, plutôt qu’avec un livre retiré. Trois onglets papier marquent le début, la fin et la phrase de présentation à reprendre. Le soir, elle pense à appeler Anaïs pour lui lire ce qui reste.",
+      "conclusion": "La sensibilité à un retour peut faire paraître une place menacée alors que la tâche demande un ajustement. Doriane garde son livre et négocie une coupe. Elle conserve la trace du malaise pour son suivi, sans attendre du groupe qu’il règle son estime d’elle-même.",
+      "mirror": [
+        "Quand Doriane propose de se retirer, Élise peut préciser : « Je voudrais garder ton livre et réduire le passage. On peut regarder la coupe ensemble. » Elle énonce la contrainte réelle et entend un éventuel désaccord. Elle n’a pas à multiplier les compliments ni à expliquer la réaction de Doriane par un diagnostic qu’elle ne connaît pas."
+      ],
+      "sources": [
+        "apa-personnalite",
+        "oms-cddr",
+        "nice-anxiete-sociale"
+      ],
+      "continuity": {
+        "choice": "Le groupe retient un extrait court du roman vert ; Doriane défend une phrase utile à sa compréhension.",
+        "next": "Trois onglets marquent le texte ; Doriane veut en parler à Anaïs et hésitera à dire pourquoi il compte pour elle."
+      }
+    },
+    {
+      "number": 5,
+      "slug": "doriane-reserver-parole-amie",
+      "title": "Garder pour soi ce qui compte, même auprès d’une amie",
+      "description": "Doriane lit un passage à Anaïs mais hésite à dire pourquoi il la touche. La peur du ridicule s’invite dans un lien ancien.",
+      "context": "Parler du roman avec une amie",
+      "topics": [
+        "intimité",
+        "peur du ridicule",
+        "partage personnel"
+      ],
+      "clinical_focus": "Réserve dans une relation proche",
+      "clinical_intro": "La peur d’être rabaissé peut limiter le partage de pensées personnelles jusque dans une relation ancienne. Elle peut coexister avec l’affection et l’envie de proximité. Dans une personnalité évitante, cette retenue peut contribuer aux difficultés relationnelles ; elle ne retire jamais le droit de choisir son intimité, son silence ou les sujets que l’on souhaite garder privés.",
+      "opening": "Anaïs et Doriane marchent jusqu’au petit jardin derrière les immeubles. Doriane a apporté le roman vert pour lui lire l’extrait retenu par le groupe. Les trois onglets dépassent de la couverture. Elles s’assoient sur un banc encore tiède ; Anaïs pose son sac entre elles pour que le livre reste ouvert.\n\nDoriane lit le passage de la cour et explique où Malik a proposé la coupe. Anaïs lui demande ensuite ce qu’elle aime personnellement dans cette scène. Doriane répond par la construction des phrases, puis par le choix du narrateur. Elle pourrait continuer longtemps sur la ponctuation. Elle n’a rien à inventer sur le livre. C’est le lien avec elle-même qu’elle contourne.\n\nLa scène lui rappelle les trajets qu’elle fait dans son quartier, les fenêtres qu’elle reconnaît sans connaître leurs habitants, le plaisir qu’elle aurait à mettre des voix sur ces passages. Elle craint qu’Anaïs trouve cela sentimental ou lui demande pourquoi elle ne parle pas simplement à davantage de gens. Son amie ne l’a pas dit ; la réponse redoutée occupe déjà le banc.\n\nAnaïs est présente dans sa vie depuis des années. Elles partagent des promenades et un humour sur les horaires de bus. Cette familiarité n’efface pas la crainte de montrer un désir qui pourrait être tourné en dérision. Doriane ferme un instant le livre et demande si elles devraient bientôt rentrer.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Choisir ce que l’on confie",
+          "text": "Le droit de garder une pensée privée et la peur qui empêche un partage désiré peuvent coexister. Comprendre cette différence suppose de partir de ce que la personne souhaitait dire et de ce qu’elle imaginait risquer dans ce lien.\n\nLa question d’Anaïs invite à une parole plus personnelle ; elle ne crée pas une obligation de confidence. Doriane aimerait répondre, mais anticipe une humiliation. L’enjeu de cette scène est d’accroître sa liberté de choisir ce qu’elle dit, pas de tout dévoiler. Elle peut parler de son rapport au quartier sans transmettre son diagnostic ou raconter son suivi."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment la peur du ridicule limite-t-elle la proximité ?",
+          "points": [
+            {
+              "heading": "Répondre juste sans répondre personnellement",
+              "text": "Une réponse précise peut protéger de l’exposition d’un sentiment tout en laissant le désir de partage insatisfait.",
+              "examples": [
+                "Sur le banc, Doriane parle du narrateur plutôt que de son envie de rencontrer les habitants.",
+                "Elle détaille une coupe du texte quand Anaïs l’interroge sur ce qui la touche."
+              ]
+            },
+            {
+              "heading": "Prévoir une réponse blessante avant de l’entendre",
+              "text": "La personne peut préparer sa défense contre une réaction qui n’a pas encore eu lieu.",
+              "examples": [
+                "Doriane imagine qu’Anaïs qualifiera son goût de sentimental.",
+                "Elle anticipe une leçon sur sa façon de vivre alors que son amie a posé une question ouverte."
+              ]
+            },
+            {
+              "heading": "Raccourcir le moment au seuil d’une confidence",
+              "text": "Changer d’activité peut interrompre un échange que la personne souhaiterait pourtant poursuivre.",
+              "examples": [
+                "Doriane ferme le livre au moment où elle pourrait nommer son désir de lien.",
+                "Elle propose de rentrer bien qu’elles n’aient pas encore parlé de la suite du projet."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour choisir un partage personnel à sa mesure",
+          "points": [
+            {
+              "heading": "Définir une phrase et une frontière",
+              "objective": "L’objectif est de rendre une confidence possible sans abandonner sa vie privée.",
+              "exercise": [
+                "Choisir une phrase que l’on souhaite vraiment partager, comme ce que le quartier représente.",
+                "Identifier ce que l’on ne veut pas aborder pour le moment.",
+                "Dire la phrase, puis préciser sa limite si la conversation va plus loin."
+              ],
+              "benefit": "Préparer une frontière peut soutenir un échange choisi ; aucune relation ne donne droit à l’ensemble des informations personnelles."
+            },
+            {
+              "heading": "Demander la forme d’écoute souhaitée",
+              "objective": "L’objectif est de rendre son besoin compréhensible.",
+              "exercise": [
+                "Vérifier que l’autre est disponible pour écouter quelques minutes.",
+                "Préciser si l’on souhaite une écoute, un avis sur le texte ou une aide pratique.",
+                "Après sa réponse, dire ce qui a convenu ou demander une pause."
+              ],
+              "benefit": "Une demande concrète peut réduire les malentendus sans garantir une réaction parfaite ni rendre l’amie responsable de la peur."
+            },
+            {
+              "heading": "Parler de la retenue en suivi",
+              "objective": "L’objectif est de comprendre un blocage qui revient aussi dans les liens proches.",
+              "exercise": [
+                "Noter un moment où l’on voulait parler et ce que l’on a imaginé.",
+                "Apporter cet exemple au thérapeute sans devoir raconter tous les détails à l’ami.",
+                "Choisir avec lui un prochain essai ou décider qu’un sujet restera privé."
+              ],
+              "benefit": "Le travail peut porter sur la marge de choix et la crainte d’être rabaissé, plutôt que sur une quantité de confidences à atteindre."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Le sac reste sur le banc",
+      "ending": "« J’ai encore quelque chose à te dire sur le passage », reprend Doriane. Anaïs laisse son sac entre elles. Doriane explique qu’elle aime reconnaître des lieux sans connaître encore les gens, et que les lectures lui donnent envie de changer un peu cela. « Je veux juste te le raconter, pas trouver un plan pour rencontrer tout le quartier. »\n\nAnaïs répond qu’elle comprend mieux son choix du livre. Elle ne lui demande pas d’autres confidences. Elles restent quelques minutes, puis rentrent comme prévu. Doriane se sent exposée en repensant à sa phrase ; elle ne regrette pourtant pas de l’avoir dite. Le lendemain, elle pourra présenter le roman sans raconter ce moment au groupe.",
+      "conclusion": "Une relation proche ne supprime pas toujours la peur du ridicule. Doriane partage une raison personnelle et pose une limite à la conversation. Cette marge nouvelle n’oblige pas à dévoiler son suivi : le projet public peut s’appuyer sur le livre tout en préservant son intimité.",
+      "mirror": [
+        "Sur le banc, Anaïs peut répondre : « Tu peux m’en dire une phrase, ou garder ça pour toi. Tu préfères que j’écoute ? » Elle n’insiste pas si Doriane referme le livre et peut aussi dire qu’elle doit rentrer. Sa disponibilité reste une proposition d’amie ; elle n’a pas à transformer la promenade en séance de soin."
+      ],
+      "sources": [
+        "apa-personnalite",
+        "oms-cddr",
+        "medline-personnalite-evitante"
+      ],
+      "continuity": {
+        "choice": "Doriane confie à Anaïs une raison personnelle de son choix et demande une écoute sans plan d’action.",
+        "next": "Elle garde son diagnostic privé ; la préparation suivante portera sur le rôle que chacun tiendra devant le public."
+      }
+    },
+    {
+      "number": 6,
+      "slug": "doriane-renoncer-role-peur-contact",
+      "title": "Renoncer à un rôle souhaité par peur du regard des autres",
+      "description": "Doriane propose de gérer les chaises alors qu’elle souhaite présenter son roman. Le rôle choisi risque d’être celui de la peur.",
+      "context": "Répartir les rôles de la lecture",
+      "topics": [
+        "rôle dans le projet",
+        "retrait",
+        "compétence"
+      ],
+      "clinical_focus": "Restriction des possibilités de participation",
+      "clinical_intro": "La peur de l’évaluation peut réduire les activités qu’une personne s’autorise à choisir, même lorsqu’elle possède les compétences nécessaires. Dans une personnalité évitante, ce coût peut concerner le travail et les projets collectifs. Un rôle discret peut aussi être une vraie préférence : la question est de savoir si la personne peut décider selon ce qu’elle souhaite.",
+      "opening": "La préparation suivante doit fixer les rôles pour l’après-midi au square. Élise présentera le projet ; chacun annoncera ensuite le livre qu’il a choisi avant d’en lire un passage. Doriane connaît maintenant son extrait court. Elle a vérifié les exemplaires disponibles à la bibliothèque et préparé une fiche que les lecteurs pourront consulter après la rencontre.\n\nQuand Élise lui propose d’annoncer elle-même Les maisons du passage, Doriane regarde le plan d’installation. Elle répond qu’elle peut transporter les chaises et tenir la liste des ouvrages. Les deux tâches sont utiles. Elles lui permettraient aussi de rester occupée pendant que quelqu’un d’autre parlerait du roman vert. Doriane imagine un habitant demandant pourquoi elle a retenu ce livre, puis tous les visages attendant une réponse qu’elle jugera forcément insuffisante.\n\nAu travail, elle sait guider une recherche, expliquer un classement et transmettre une information à ses collègues. Elle ne devient pas soudain incapable devant une fiche de présentation. Mais l’idée d’être identifiée comme celle qui a choisi le texte lui paraît plus risquée que l’ensemble du rangement. Elle commence à ajouter des tâches à sa colonne.\n\nMalik demande qui présentera son roman à sa place. Doriane ne trouve personne qu’elle souhaite désigner. Elle voudrait parler de la cour et des passages ; elle voudrait aussi n’être regardée par personne. Le plan reste entre eux, avec une case encore vide.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Le coût de la peur sur les rôles choisis",
+          "text": "Les effets d’une peur relationnelle peuvent se lire dans la réduction des rôles envisagés, au-delà de la gêne du moment. La présence d’une compétence et la possibilité de l’utiliser devant les autres ne progressent pas nécessairement au même rythme.\n\nLa restriction est visible dans l’écart entre le rôle souhaité et celui que Doriane s’apprête à prendre pour éviter le regard. Le rangement n’est pas inférieur à la présentation. Ce qui compte ici est la possibilité de choisir réellement, sans conclure qu’une fonction très exposée serait nécessairement meilleure ou que la compétence ferait disparaître la peur."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment la peur réduit-elle les rôles possibles ?",
+          "points": [
+            {
+              "heading": "Surcharger les tâches de fond",
+              "text": "Une personne peut occuper tout son temps avec des tâches utiles pour ne plus avoir à envisager celle qui l’expose.",
+              "examples": [
+                "Sur le plan, Doriane ajoute les chaises puis la liste des ouvrages à sa colonne.",
+                "Elle propose de rester à l’installation pendant que le public écoutera les présentations."
+              ]
+            },
+            {
+              "heading": "Sous-estimer ce qui est déjà maîtrisé",
+              "text": "Le sentiment d’insuffisance peut empêcher de s’appuyer sur une expérience pourtant disponible.",
+              "examples": [
+                "Doriane sait présenter un classement aux collègues mais juge cette pratique sans valeur pour parler du livre.",
+                "Sa fiche est prête ; elle continue d’imaginer qu’elle n’aura aucune réponse à donner."
+              ]
+            },
+            {
+              "heading": "Déléguer la part que l’on voulait garder",
+              "text": "Une délégation peut soulager tout en retirant au projet son intérêt personnel.",
+              "examples": [
+                "Doriane envisage qu’Élise présente le roman qu’elle a elle-même choisi.",
+                "Quand Malik demande un nom, elle remarque qu’elle ne souhaite réellement confier ce moment à personne."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour choisir un rôle selon son projet",
+          "points": [
+            {
+              "heading": "Comparer le rôle désiré et le rôle refuge",
+              "objective": "L’objectif est de comprendre ce que chaque tâche représente pour soi.",
+              "exercise": [
+                "Écrire ce que l’on aimerait faire si l’inquiétude était moins envahissante.",
+                "Repérer les tâches choisies par intérêt et celles ajoutées pour éviter toute exposition.",
+                "Discuter en suivi d’un rôle qui garde une part de l’envie sans surcharger l’effort."
+              ],
+              "benefit": "La comparaison peut éclairer un choix ; elle ne sert pas à disqualifier le travail discret ni à imposer une prise de parole."
+            },
+            {
+              "heading": "Découper la contribution",
+              "objective": "L’objectif est de donner une forme limitée à la présentation souhaitée.",
+              "exercise": [
+                "Choisir ce que l’on souhaite dire personnellement, par exemple le titre et une raison.",
+                "Convenir avec l’équipe de la transition vers la lecture et d’un relais possible.",
+                "Essayer ce format en préparation avant de confirmer la place au programme."
+              ],
+              "benefit": "Une contribution définie peut rendre l’essai plus accessible sans exiger de prendre en charge tout l’après-midi."
+            },
+            {
+              "heading": "Vérifier la charge totale",
+              "objective": "L’objectif est de préserver les moyens nécessaires à la participation choisie.",
+              "exercise": [
+                "Lister les tâches que l’on a réellement acceptées.",
+                "Demander une répartition des tâches qui ne laisse pas toute l’installation à une seule personne.",
+                "Réviser le plan avec le groupe selon les disponibilités de chacun."
+              ],
+              "benefit": "Une organisation partagée peut éviter que la peur conduise à une surcharge cachée ; les autres gardent eux aussi leurs limites."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Une ligne au programme",
+      "ending": "Doriane dit qu’elle voudrait essayer la présentation du roman, puis lire l’extrait qu’ils ont raccourci. Élise propose de reprendre les informations pratiques après chaque lecture. Malik accepte de répartir les chaises avec elle. La fiche bibliographique restera sur une petite table, sans que Doriane ait à la tenir pendant toute la rencontre.\n\nIls inscrivent son prénom devant Les maisons du passage. Elle vérifie deux fois la ligne et ne demande pas à l’effacer. Le rôle a une taille précise, avec une répétition prévue la semaine suivante. Dans le bus, elle pense déjà à sa voix devant les autres. Le choix est fait ; la peur n’a pas reçu la même nouvelle.",
+      "conclusion": "Le retentissement de l’évitement peut se lire dans les rôles que l’on abandonne avant de les essayer. Doriane garde une place qu’elle désirait et partage les tâches pratiques. Son choix ne vaut pas obligation de tout réussir ; la répétition servira à ajuster le format.",
+      "mirror": [
+        "Devant la colonne de tâches qui s’allonge, Élise peut demander : « Qu’est-ce que tu souhaites garder dans le programme ? On peut répartir le reste. » Elle ne transforme pas le rangement en preuve de fuite et accepte un refus de parler. Son rôle consiste à organiser le projet avec Doriane, pas à lui prescrire une exposition."
+      ],
+      "sources": [
+        "apa-personnalite",
+        "oms-cddr",
+        "medline-personnalite-evitante"
+      ],
+      "continuity": {
+        "choice": "Doriane choisit de présenter puis lire l’extrait ; installation partagée et relais pratique confié à Élise.",
+        "next": "Une répétition est prévue ; la peur de sa voix et du regard d’autrui devient le prochain enjeu."
+      }
+    },
+    {
+      "number": 7,
+      "slug": "doriane-surveiller-voix-perdre-fil",
+      "title": "Surveiller sa voix au point de perdre le fil de la lecture",
+      "description": "À la répétition, Doriane guette le moindre tremblement. Cette surveillance l’éloigne du passage qu’elle veut partager.",
+      "context": "Une répétition dans la petite salle",
+      "topics": [
+        "attention à soi",
+        "voix",
+        "peur visible"
+      ],
+      "clinical_focus": "Attention centrée sur ses signes d’anxiété",
+      "clinical_intro": "Quand une personne craint d’être jugée, elle peut surveiller son visage, sa voix ou ses gestes au lieu de suivre l’échange. Ce mécanisme, décrit dans l’anxiété sociale, peut éclairer certaines difficultés d’une personne ayant une personnalité évitante. Il n’est ni spécifique ni suffisant pour ce diagnostic, et la présence d’une hésitation ne dit pas ce que les autres pensent.",
+      "opening": "Pour la répétition, Doriane a écrit sa présentation sur une petite fiche. Le titre du roman est suivi de la phrase qu’elle avait gardée sur sa notice. Élise et Malik s’installent en face d’elle dans la salle de préparation. Personne d’autre n’est attendu. La porte reste fermée parce que l’accueil de la bibliothèque est encore ouvert.\n\nDoriane prononce Les maisons du passage, puis s’écoute prononcer le dernier mot. Elle trouve sa voix plus aiguë que d’habitude. Au lieu de regarder la phrase suivante, elle guette sa gorge et serre la fiche pour empêcher ses mains de bouger. Une pensée arrive : s’ils voient qu’elle est inquiète, ils comprendront qu’elle n’est pas faite pour ce rôle.\n\nElle reprend depuis le début. Cette fois, elle surveille le débit, puis la couleur de ses joues. Elle saute une ligne, s’excuse et propose de recommencer encore. Malik demande où le personnage du roman se trouve quand il traverse la cour. Doriane connaît la réponse mais n’a presque pas entendu la question. Elle essaie de déterminer si son silence a duré trop longtemps.\n\nLa fiche devait l’aider à partager un livre. Elle est devenue un objet qu’elle tient devant elle pendant qu’elle vérifie sans cesse l’impression produite. Élise lui demande si elle veut faire une pause ou reprendre au paragraphe marqué. Doriane regarde enfin le premier onglet et retrouve le début de la scène.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Quand l’attention revient sans cesse sur soi",
+          "text": "L’attention tournée sur soi peut rendre une conversation plus difficile à suivre. Doriane consacre une partie de ses ressources à vérifier l’impression qu’elle imagine donner ; elle entend moins bien Malik. Ce mécanisme est travaillé dans certains soins de l’anxiété sociale. Ici, il aide à décrire un moment du parcours de Doriane, sans poser un second diagnostic ni supposer que toute manifestation visible doit être cachée. La fiche peut rester un appui utile : sa présence n’est pas en elle-même un problème."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment la surveillance de soi détourne-t-elle de la tâche ?",
+          "points": [
+            {
+              "heading": "Prendre une sensation pour une information sur autrui",
+              "text": "Le ressenti intérieur peut sembler révéler l’impression produite, alors qu’il ne permet pas de lire les réactions des autres.",
+              "examples": [
+                "Doriane entend sa voix aiguë et en déduit qu’Élise la trouve inadaptée.",
+                "Elle sent ses joues chauffer et suppose que Malik y voit une preuve d’incapacité."
+              ]
+            },
+            {
+              "heading": "Vérifier au lieu d’écouter",
+              "text": "Le contrôle de ses signes d’inquiétude peut prendre la place de l’attention à l’échange.",
+              "examples": [
+                "Doriane surveille ses mains pendant que Malik pose sa question.",
+                "Elle compte la durée de son silence au lieu de retrouver la réponse sur la cour."
+              ]
+            },
+            {
+              "heading": "Recommencer pour obtenir une version sans défaut",
+              "text": "La répétition peut perdre sa fonction de préparation si chaque hésitation oblige à repartir de zéro.",
+              "examples": [
+                "Après une ligne sautée, Doriane veut reprendre toute la présentation.",
+                "Elle cherche une voix parfaitement stable plutôt qu’un passage compréhensible pour ses deux auditeurs."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour revenir à ce que l’on veut partager",
+          "points": [
+            {
+              "heading": "Choisir un repère dans la tâche",
+              "objective": "L’objectif est de ramener une part d’attention au contenu.",
+              "exercise": [
+                "Avant de lire, choisir une idée du passage à transmettre.",
+                "Lorsque la surveillance de la voix prend toute la place, revenir à la phrase qui porte cette idée.",
+                "Après l’essai, regarder si le contenu a pu être partagé, même avec une voix hésitante."
+              ],
+              "benefit": "Le repère peut soutenir l’engagement dans la lecture ; il ne vise pas à faire disparaître toute sensation anxieuse."
+            },
+            {
+              "heading": "Écouter une question jusqu’à son objet",
+              "objective": "L’objectif est de rejoindre l’échange plutôt que l’image de soi.",
+              "exercise": [
+                "Laisser l’autre terminer sa question.",
+                "Reformuler son objet si l’on a perdu le fil, sans inventer une réponse.",
+                "Répondre à cet objet ou dire que l’on a besoin de retrouver la page."
+              ],
+              "benefit": "Cette manière de reprendre peut rendre la conversation plus accessible et autoriser un temps de réponse ordinaire."
+            },
+            {
+              "heading": "Définir la fonction de la répétition",
+              "objective": "L’objectif est de préparer la lecture sans rechercher une prestation sans signe de peur.",
+              "exercise": [
+                "Choisir avec le groupe ce qui doit être vérifié : ordre, audibilité ou coupe du texte.",
+                "Faire un essai délimité en gardant les appuis qui sont utiles.",
+                "Noter un ajustement pratique et discuter en suivi de la surveillance qui persiste."
+              ],
+              "benefit": "Un but précis peut limiter les reprises sans fin ; l’adaptation clinique de ce travail appartient au thérapeute."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Reprendre à l’onglet",
+      "ending": "Doriane choisit de reprendre au passage de la cour, sans recommencer l’introduction. Sa voix hésite encore. Quand Malik pose sa question une seconde fois, elle la laisse finir et lui montre la phrase précédente. Ils décident qu’une courte précision sur le lieu suffira avant la lecture.\n\nÉlise confirme que le texte est audible depuis le fond de la petite salle. Elle n’évalue ni les joues ni les mains de Doriane. Celle-ci garde la fiche et les onglets : ils l’aident à se retrouver. Elle repart avec une précision à ajouter et la sensation peu familière d’avoir pu continuer après une hésitation. Il reste à fixer l’heure avec le groupe.",
+      "conclusion": "La peur peut déplacer l’attention du livre vers l’impression que l’on croit donner. Pendant cet essai, Doriane retrouve le fil et répond à une question sans obtenir une voix parfaitement stable. Le format devient plus clair, tandis que l’inquiétude reste à travailler dans le suivi.",
+      "mirror": [
+        "Élise peut proposer : « Tu veux reprendre au passage marqué ou faire une pause ? » Si Doriane demande un retour, elle peut répondre sur ce qui était convenu, comme l’audibilité. Elle évite de surveiller son visage ou de retirer la fiche pour lui prouver qu’elle peut s’en passer. La préparation reste un travail commun, avec son accord."
+      ],
+      "sources": [
+        "apa-personnalite",
+        "oms-cddr",
+        "nice-anxiete-sociale"
+      ],
+      "continuity": {
+        "choice": "Doriane continue après une hésitation et ajoute une précision de lieu ; elle conserve fiche et onglets.",
+        "next": "Le format de lecture est prêt à être inscrit au programme ; le choix de l’heure nécessite un échange."
+      }
+    },
+    {
+      "number": 8,
+      "slug": "doriane-desaccord-peur-perdre-place",
+      "title": "Craindre qu’un désaccord fasse perdre sa place dans le groupe",
+      "description": "Doriane accepte presque un horaire qui lui convient mal. Elle redoute que sa préférence soit entendue comme un refus du projet.",
+      "context": "Fixer l’heure des Lectures du square",
+      "topics": [
+        "désaccord",
+        "limites",
+        "organisation"
+      ],
+      "clinical_focus": "Inhibition du désaccord relationnel",
+      "clinical_intro": "La peur du rejet peut rendre difficile l’expression d’une limite ou d’un avis différent. Une personne risque alors d’accepter un arrangement qui lui coûte pour préserver sa place dans le lien. Dans une personnalité évitante, cet enjeu peut être travaillé en respectant les contraintes de chacun ; exprimer une préférence ne garantit pas que le groupe puisse la retenir.",
+      "opening": "Élise a imprimé une ébauche d’affiche pour les Lectures du square. La date convient aux trois adultes. Malik propose dix heures, quand le passage près des commerces est plus fréquent. Doriane regarde l’espace blanc sous le titre. Elle préférerait seize heures : le matin de ce samedi, elle a déjà prévu une visite à son oncle, qu’elle voit rarement.\n\nElle pourrait déplacer cette visite, mais elle n’en a pas envie. La première phrase qui lui vient est pourtant « dix heures, très bien ». Elle craint qu’une objection soit interprétée comme une façon de revenir sur sa participation. Après toutes les discussions sur son extrait, elle se sent déjà celle pour qui le groupe doit faire des efforts. Elle ne sait pas si Malik partage cette impression ; elle la tient néanmoins pour presque certaine.\n\nÉlise lui demande si l’horaire lui convient. Doriane répond qu’elle peut s’arranger. Elle pense à son oncle et à l’appel qu’elle devra passer pour annuler. Le coût lui paraît plus facile à porter seule qu’à mettre sur la table. Malik commence à noter dix heures au crayon.\n\nLe roman vert est posé près de l’affiche. Doriane avait choisi de garder une phrase qui lui importait malgré une correction. Dire qu’elle tient aussi à une visite lui semble maintenant beaucoup plus risqué. Elle retient le crayon du bout du doigt, sans encore trouver comment commencer.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Dire une limite sans savoir la réponse",
+          "text": "Une limite personnelle peut être exprimée même quand on souhaite participer pleinement. Doriane associe ici le désaccord sur l’heure à une menace sur sa place. Le CDDR décrit le fonctionnement relationnel et la gestion des conflits parmi les dimensions à examiner ; cet échange en est une illustration particulière, pas une façon de diagnostiquer une personne conciliante. Le groupe conserve de vraies contraintes, et un compromis reste à chercher."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment la peur du désaccord fait-elle taire une limite ?",
+          "points": [
+            {
+              "heading": "Donner un accord avant d’examiner le coût",
+              "text": "Le souhait d’éviter une tension peut précéder l’évaluation de ses propres engagements.",
+              "examples": [
+                "Doriane s’apprête à approuver dix heures avant de rappeler sa visite.",
+                "Elle envisage l’appel d’annulation à son oncle sans avoir proposé d’autre horaire."
+              ]
+            },
+            {
+              "heading": "Transformer une préférence en menace pour le lien",
+              "text": "Une différence sur l’organisation peut prendre le sens d’un risque de rejet personnel.",
+              "examples": [
+                "Doriane imagine que Malik entendra « je ne veux plus participer » si elle propose seize heures.",
+                "Elle suppose que l’ajustement de son extrait lui a déjà fait perdre le droit de demander quoi que ce soit."
+              ]
+            },
+            {
+              "heading": "Rendre sa disponibilité illisible",
+              "text": "L’autre peut recevoir un accord sans savoir qu’il repose sur un renoncement coûteux.",
+              "examples": [
+                "Élise entend « je peux m’arranger » et ne connaît pas le choix auquel Doriane pense renoncer.",
+                "Malik écrit dix heures parce qu’aucune autre proposition n’a encore été formulée."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour exprimer un avis sans promettre l’accord",
+          "points": [
+            {
+              "heading": "Formuler le fait et la préférence",
+              "objective": "L’objectif est de rendre sa position compréhensible.",
+              "exercise": [
+                "Identifier le fait utile à partager, sans détailler toute sa vie privée.",
+                "Préparer une phrase brève : « J’ai un engagement le matin ; je préférerais seize heures. »",
+                "Dire la phrase avant de proposer soi-même un renoncement."
+              ],
+              "benefit": "Cette formulation peut donner au groupe une information qui lui manque, sans exiger qu’il adopte la préférence."
+            },
+            {
+              "heading": "Demander le temps de vérifier",
+              "objective": "L’objectif est d’éviter un accord donné sous la seule pression de la peur.",
+              "exercise": [
+                "Quand une proposition arrive, repérer si l’on connaît réellement sa disponibilité.",
+                "Demander un délai concret pour répondre si nécessaire.",
+                "Revenir dans ce délai avec un accord, une limite ou une autre option."
+              ],
+              "benefit": "Un temps de réflexion peut soutenir un choix plus libre et permettre à l’équipe de s’organiser."
+            },
+            {
+              "heading": "Préparer une réponse à la différence",
+              "objective": "L’objectif est de dissocier négociation et rupture automatique.",
+              "exercise": [
+                "Avec le thérapeute, repérer la réaction redoutée quand on n’est pas d’accord.",
+                "Préparer une question sur la contrainte de l’autre et une limite que l’on souhaite garder.",
+                "Après l’échange, examiner ce qui a été dit et ce qui reste à négocier."
+              ],
+              "benefit": "Le travail peut aider à prendre part à un désaccord ordinaire ; il ne demande pas de rester dans des échanges méprisants."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Seize heures au crayon",
+      "ending": "Doriane demande s’ils peuvent regarder seize heures avant de fixer l’affiche. Elle dit simplement qu’elle a une visite prévue le matin. Malik explique son idée sur le passage des commerces ; Élise rappelle que plusieurs familles leur ont demandé un créneau d’après-midi. Ils choisissent seize heures et gardent la même date.\n\nLe groupe n’a pas eu besoin de connaître la relation avec son oncle pour examiner cette possibilité. Doriane reste inquiète d’avoir compliqué la préparation. Elle note la phrase qu’elle a dite pour la reprendre avec sa psychothérapeute au rendez-vous déjà prévu. Le programme avance ; le suivi ne dépend pas du succès de cette discussion.",
+      "conclusion": "Le silence sur une limite peut réduire la liberté de participer à un projet désiré. Doriane propose un horaire et écoute les contraintes du groupe. Le compromis respecte sa visite ; il ne prouve pas qu’un avis différent sera toujours suivi ni que la peur du rejet a disparu.",
+      "mirror": [
+        "Élise peut demander : « Quand tu dis que tu peux t’arranger, est-ce l’horaire que tu choisis, ou veux-tu proposer une autre option ? » Elle écoute la réponse sans exiger d’explication intime. Si l’horaire ne peut pas changer, elle le dit clairement et laisse Doriane décider de sa disponibilité ; l’accord ne se négocie pas par culpabilisation."
+      ],
+      "sources": [
+        "apa-personnalite",
+        "oms-cddr",
+        "rcpsych-anxiete-sociale"
+      ],
+      "continuity": {
+        "choice": "Doriane exprime sa préférence ; le groupe choisit seize heures à la même date et sa visite du matin est maintenue.",
+        "next": "Elle apporte au rendez-vous de suivi la peur d’avoir compliqué le projet, malgré le compromis trouvé."
+      }
+    },
+    {
+      "number": 9,
+      "slug": "doriane-peur-jugement-therapeute",
+      "title": "Avoir peur d’être jugée jusque dans le rendez-vous de soin",
+      "description": "Doriane prépare un bilan de progrès pour sa séance. Elle risque d’y cacher la difficulté qui la préoccupe encore.",
+      "context": "Un rendez-vous de psychothérapie prévu",
+      "topics": [
+        "relation de soin",
+        "désaccord",
+        "peur du jugement"
+      ],
+      "clinical_focus": "Crainte du jugement dans le soin",
+      "clinical_intro": "La crainte d’être mal jugé peut aussi s’inviter dans une relation de soin. Une personne peut minimiser ses difficultés ou éviter une question pour ne pas décevoir le professionnel. Dans un suivi pour personnalité évitante, parler de ce qui se passe en séance peut aider à ajuster l’accompagnement ; cela ne suppose pas que le soignant ait toujours raison.",
+      "opening": "Dans la salle d’attente, Doriane sort une feuille pliée en quatre. Elle a écrit « participation », « extrait choisi » et « horaire discuté ». Les mots ressemblent aux rubriques d’un bilan qu’elle voudrait rendre satisfaisant. Elle a effectivement fait ces choses. Mais, depuis la préparation, elle imagine encore Malik regrettant d’avoir accepté seize heures.\n\nÀ la séance précédente, sa psychothérapeute lui avait demandé ce qui se passait lorsqu’elle cherchait une nouvelle confirmation. Doriane avait entendu une critique de sa manière de demander encore une réponse. Elle n’avait pas dit qu’elle s’était sentie embarrassée. Depuis, elle prépare ses rendez-vous comme s’il fallait montrer qu’elle utilise correctement ce dont elles parlent.\n\nQuand la séance commence, elle décrit le programme et la coupe du roman vert. Elle tient le livre sur ses genoux, les onglets tournés vers le fauteuil. La psychothérapeute demande comment elle a vécu la discussion sur l’heure. Doriane répond d’abord qu’elle a réussi à proposer autre chose. Elle tait la soirée passée à repenser au visage de Malik.\n\nPuis elle remarque qu’elle cherche ici aussi la bonne réponse, celle qui préserverait l’estime de la personne en face. Le rendez-vous était prévu avant que l’horaire soit choisi ; elle n’a pas besoin d’apporter une réussite pour y avoir sa place. Elle regarde sa feuille et hésite à lire la petite phrase ajoutée tout en bas.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "La peur du jugement dans la relation de soin",
+          "text": "La qualité du lien de soin fait partie du travail clinique et peut être discutée. Doriane n’invente pas ses progrès ; elle filtre ce qu’elle raconte pour éviter un jugement redouté. Exprimer cette peur permet de vérifier ce qu’elle a compris et ce que la thérapeute voulait explorer. Si une parole ou une attitude de soin pose réellement problème, elle peut demander une clarification, un changement ou un autre avis. Le diagnostic ne retire pas ce droit."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment la peur du jugement modifie-t-elle une séance ?",
+          "points": [
+            {
+              "heading": "Préparer un bilan uniquement favorable",
+              "text": "Une personne peut présenter les faits positifs tout en laissant de côté ce qui reste pénible.",
+              "examples": [
+                "Doriane inscrit ses décisions sur une feuille mais n’y met pas d’abord la soirée d’inquiétude.",
+                "Elle raconte le programme avant de dire ce qu’elle redoute encore après la discussion sur l’heure."
+              ]
+            },
+            {
+              "heading": "Garder pour soi une réaction au soignant",
+              "text": "Une question peut avoir été vécue comme une critique sans que le professionnel le sache.",
+              "examples": [
+                "Doriane s’est sentie embarrassée lors d’un échange sur les confirmations répétées.",
+                "À la séance suivante, elle veut prouver qu’elle a compris plutôt que vérifier le sens de cette question."
+              ]
+            },
+            {
+              "heading": "Chercher la réponse qui conserverait l’estime",
+              "text": "Le travail risque de devenir une tentative de satisfaire le thérapeute au lieu d’explorer une difficulté.",
+              "examples": [
+                "Doriane commence par annoncer qu’elle a réussi à changer l’horaire.",
+                "Elle retient un doute parce qu’il lui semble contredire le progrès qu’elle vient de présenter."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour rendre le suivi plus ajustable",
+          "points": [
+            {
+              "heading": "Apporter un point encore difficile",
+              "objective": "L’objectif est de faire une place à ce qui reste pénible malgré une décision utile.",
+              "exercise": [
+                "Choisir une situation récente sans préparer un dossier exhaustif.",
+                "Noter le fait, la peur encore présente et la question que l’on souhaite poser.",
+                "Lire ou montrer cette note au professionnel si commencer oralement est difficile."
+              ],
+              "benefit": "La note peut faciliter une information utile au soin ; elle n’est ni un devoir ni un test de bonne participation."
+            },
+            {
+              "heading": "Dire comment une question a été reçue",
+              "objective": "L’objectif est de rendre un malentendu ou une blessure discutable.",
+              "exercise": [
+                "Reprendre les mots ou le moment dont on se souvient, en signalant une incertitude éventuelle.",
+                "Dire ce que l’on a compris et ce que l’on a ressenti.",
+                "Demander ce que le professionnel cherchait à comprendre et discuter de la suite."
+              ],
+              "benefit": "L’échange peut aider à ajuster la relation sans obliger à considérer d’avance sa propre interprétation comme fausse."
+            },
+            {
+              "heading": "Vérifier les options dans le cadre du soin",
+              "objective": "L’objectif est de garder une possibilité de choix si la relation ne convient pas.",
+              "exercise": [
+                "Préciser ce dont on aurait besoin pour travailler dans des conditions respectueuses.",
+                "Demander un ajustement du cadre ou une explication des options disponibles.",
+                "Si le problème persiste, envisager un autre avis ou accompagnement selon ses possibilités."
+              ],
+              "benefit": "Un suivi peut se discuter ; craindre le rejet ne condamne pas à accepter toutes les pratiques d’un professionnel."
+            }
+          ]
+        }
+      ],
+      "ending_title": "La phrase en bas de la feuille",
+      "ending": "« J’ai peur de vous décevoir si je dis que je demande encore des confirmations », lit Doriane. Elle précise ensuite comment elle avait compris la question de la séance précédente. La psychothérapeute l’écoute, explique ce qu’elle souhaitait explorer et lui demande ce qui rendrait ces échanges plus faciles à reprendre quand ils la blessent.\n\nElles consacrent la suite du rendez-vous à cette peur, plutôt qu’à valider une liste de progrès. Doriane dit aussi qu’elle voudrait garder la fiche pendant la répétition. Elles conviennent d’observer ce qui l’aide à partager le texte et ce qui l’amène à chercher une prestation parfaite. Le prochain rendez-vous est maintenu ; aucune réussite publique n’est attendue pour y revenir.",
+      "conclusion": "La peur du jugement peut limiter ce que l’on ose dire au professionnel qui accompagne cette peur. Doriane apporte un doute et une réaction à la séance elle-même. Le suivi reprend à partir de son expérience réelle ; il ne devient pas un concours de progrès ni une garantie contre toute difficulté.",
+      "mirror": [
+        "Si Doriane dit à Anaïs qu’elle appréhende son rendez-vous, son amie peut proposer : « Veux-tu noter la question que tu aimerais poser ? » Elle n’a pas à demander le contenu de la séance, à confirmer que la thérapeute a raison ou à contacter celle-ci. Doriane peut garder le suivi privé et chercher un autre avis si elle le souhaite."
+      ],
+      "sources": [
+        "apa-personnalite",
+        "apa-dsm5tr-public",
+        "oms-cddr",
+        "medline-personnalite-evitante"
+      ],
+      "continuity": {
+        "choice": "Doriane exprime sa peur de décevoir et clarifie une question précédente ; le travail tient compte de ce qui l’aide réellement.",
+        "next": "Elle garde la fiche pour la prochaine répétition et un prochain rendez-vous indépendant de la lecture publique."
+      }
+    },
+    {
+      "number": 10,
+      "slug": "doriane-rejouer-repetition-soiree",
+      "title": "Rejouer une répétition jusqu’à ne plus voir que l’erreur",
+      "description": "Après avoir sauté une ligne, Doriane repasse la scène toute la soirée. Le bilan du groupe disparaît derrière ce seul moment.",
+      "context": "Le soir après une répétition au square",
+      "topics": [
+        "rumination après échange",
+        "erreur",
+        "bilan"
+      ],
+      "clinical_focus": "Rumination après une interaction",
+      "clinical_intro": "Repasser un échange en cherchant sans fin ce que l’on aurait dû faire peut prolonger la peur du jugement. Ce traitement après coup est décrit dans l’anxiété sociale et peut éclairer une difficulté d’une personne ayant une personnalité évitante. Il se distingue d’un bilan utile quand il ne débouche plus sur une information nouvelle ou un ajustement concret.",
+      "opening": "La répétition au square a duré moins longtemps que la première. Doriane avait sa fiche et les trois onglets dans le roman vert. Au milieu de la lecture, elle a sauté une ligne, s’est arrêtée puis a repris la phrase précédente. Élise et Malik ont ensuite vérifié avec elle où poser la petite table des livres. Ils ont convenu que la voix portait assez à l’endroit choisi et que le programme restait dans le temps prévu.\n\nLe soir, Doriane ne revoit presque plus que l’arrêt. Dans sa cuisine, elle entend sa propre excuse comme si elle avait occupé toute la répétition. Elle imagine qu’Élise a dû trouver le moment gênant. Elle ne sait pas ce que sa collègue en a pensé ; la scène rejouée semble pourtant répondre à sa place.\n\nElle ouvre la conversation du groupe et écrit une longue excuse. Elle la relit, l’allonge, puis l’efface. La faute de lecture est déjà corrigée sur la page. Il n’y a rien de nouveau à envoyer, mais elle voudrait obtenir une réponse qui fermerait la soirée. Anaïs lui avait proposé une promenade ; Doriane regarde l’heure passée sans avoir répondu.\n\nSur la table, la fiche de présentation porte encore la petite précision sur la cour. Doriane a pu reprendre la lecture malgré la ligne sautée. Dans le récit qu’elle fait intérieurement de l’après-midi, cette reprise n’a presque aucune place. Le livre reste ouvert tandis que le dîner refroidit.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Un bilan qui ne trouve plus sa fin",
+          "text": "La rumination après un échange peut maintenir l’impression d’une évaluation défavorable sans apporter d’élément supplémentaire. Doriane transforme un arrêt bref en résumé de toute la répétition. Il y a bien une erreur, mais aussi une reprise et des décisions communes. Le travail consiste à rendre ces informations disponibles et à limiter le bilan à son utilité, sans prétendre contrôler chaque pensée ni obtenir une preuve que personne n’a été déçu."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment la répétition mentale rétrécit-elle le bilan ?",
+          "points": [
+            {
+              "heading": "Conserver un seul instant",
+              "text": "Un souvenir peut se concentrer sur la partie redoutée et perdre le déroulement complet.",
+              "examples": [
+                "Dans sa cuisine, Doriane réentend son excuse mais ne se rappelle pas d’abord avoir repris la phrase.",
+                "Elle oublie le choix de la table alors qu’il a occupé une part de la rencontre."
+              ]
+            },
+            {
+              "heading": "Remplir l’inconnu par un jugement supposé",
+              "text": "L’absence d’information sur la pensée d’autrui peut être remplacée par une conclusion défavorable.",
+              "examples": [
+                "Doriane imagine le malaise d’Élise sans qu’Élise l’ait exprimé.",
+                "Elle traite son propre embarras comme une preuve que la répétition a été pénible pour tous."
+              ]
+            },
+            {
+              "heading": "Chercher une réparation sans objet nouveau",
+              "text": "Un message peut viser surtout à obtenir la fin d’une inquiétude, alors que le point pratique est déjà réglé.",
+              "examples": [
+                "Doriane rédige une excuse alors que la ligne sautée est repérée sur son texte.",
+                "Elle retarde la réponse à Anaïs en attendant une formule qui lui donnerait enfin une certitude."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour faire un bilan qui puisse se terminer",
+          "points": [
+            {
+              "heading": "Restituer le déroulement entier",
+              "objective": "L’objectif est d’examiner l’événement sans le réduire à l’erreur.",
+              "exercise": [
+                "Noter ce qui s’est passé avant, pendant et après le moment difficile.",
+                "Séparer les paroles entendues des pensées attribuées aux autres.",
+                "Identifier une information encore manquante, ou constater que le reste est incertain."
+              ],
+              "benefit": "Ce retour peut élargir le bilan sans remplacer une conclusion négative par une assurance artificielle que tout a plu."
+            },
+            {
+              "heading": "Choisir un ajustement utile",
+              "objective": "L’objectif est de rendre le bilan utilisable pour la suite.",
+              "exercise": [
+                "Repérer un problème concret qui peut être modifié, comme une coupure de ligne peu lisible.",
+                "Faire une seule modification répondant à ce problème.",
+                "Ranger le support et prévoir de parler en suivi de ce qui continue à tourner."
+              ],
+              "benefit": "Une action délimitée peut éviter de reprendre toute la prestation ; elle ne garantit pas que les pensées s’arrêteront aussitôt."
+            },
+            {
+              "heading": "Revenir à l’activité laissée de côté",
+              "objective": "L’objectif est de préserver un autre morceau de la soirée.",
+              "exercise": [
+                "Repérer une activité ou un lien que la répétition mentale a interrompu.",
+                "Choisir un geste accessible, comme répondre à la proposition de promenade.",
+                "Si la pensée revient, la reconnaître puis revenir à ce que l’on avait décidé de faire, sans se punir."
+              ],
+              "benefit": "Cette reprise peut réduire la place prise par le bilan dans la vie quotidienne ; une rumination très envahissante reste à discuter avec un professionnel."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Une marge autour de la ligne",
+      "ending": "Doriane note trois faits sur une feuille : la ligne sautée, la reprise, la table choisie. Elle ajoute une marge au passage pour mieux retrouver la phrase. Elle ne refait pas la fiche entière et n’envoie pas l’excuse dont elle attendait une garantie.\n\nElle écrit à Anaïs qu’elle a manqué son message et lui propose une marche le lendemain. Pendant le dîner, le souvenir de l’arrêt revient encore. Doriane le notera au suivi sans décider ce soir de retirer son nom du programme. Dans la conversation du groupe arrive ensuite un message pratique d’Élise : la météo pourrait obliger à utiliser la salle de repli prévue pour la rencontre.",
+      "conclusion": "Un bilan peut devenir coûteux lorsqu’il ne conserve qu’un moment embarrassant et ne se termine plus. Doriane corrige un point de lecture et revient à sa soirée malgré des pensées encore présentes. Le programme est maintenu ; une nouvelle incertitude concerne désormais le lieu.",
+      "mirror": [
+        "Anaïs peut entendre : « Je repasse l’arrêt de la lecture en boucle », puis répondre : « Je peux t’écouter un moment ; est-ce qu’il reste quelque chose à régler pour demain ? » Elle n’a pas à analyser chaque visage ni à répondre sans fin que personne n’a jugé Doriane. Elle peut maintenir sa proposition de marche et ses propres disponibilités."
+      ],
+      "sources": [
+        "apa-personnalite",
+        "oms-cddr",
+        "nice-anxiete-sociale",
+        "rcpsych-anxiete-sociale"
+      ],
+      "continuity": {
+        "choice": "Doriane fait une modification limitée, n’envoie pas la longue excuse et maintient sa participation ; elle répond à Anaïs.",
+        "next": "La météo rend probable la salle de repli ; Élise envoie une information pratique au groupe."
+      }
+    },
+    {
+      "number": 11,
+      "slug": "doriane-nouveau-lieu-peur-revient",
+      "title": "Voir la peur revenir quand le lieu de la rencontre change",
+      "description": "La lecture doit se tenir dans une salle de repli. Doriane redoute de ne plus savoir faire ce qu’elle avait préparé au square.",
+      "context": "Visiter la salle de repli",
+      "topics": [
+        "changement de contexte",
+        "peur qui revient",
+        "adaptation"
+      ],
+      "clinical_focus": "Fragilité du transfert entre situations",
+      "clinical_intro": "Un essai utile dans un cadre familier ne rend pas toutes les situations suivantes faciles. Un changement de lieu, de personnes ou de rôle peut réactiver la peur d’être jugé. Dans un parcours de personnalité évitante, cette variation invite à ajuster l’accompagnement et les appuis, sans effacer ce qui a été appris ni interpréter chaque difficulté comme un échec global.",
+      "opening": "La pluie est annoncée pour le samedi des Lectures du square. Élise confirme la salle de repli de la maison de quartier, à quelques rues de la bibliothèque. L’horaire de seize heures et l’ordre des trois interventions ne changent pas. Doriane lit le message, puis regarde les trois onglets du roman vert. Elle avait imaginé les bancs, la table basse et les passants du square ; elle ne connaît pas cette salle.\n\nÉlise lui propose de visiter le lieu avec Malik au moment où la responsable pourra leur ouvrir. Doriane pense d’abord demander à sa collègue de la présenter. Elle imagine une pièce avec une estrade, des rangées très serrées et quelqu’un qui attendrait d’elle une assurance qu’elle n’a pas. La responsable ne l’a jamais rencontrée. Cette inconnue suffit à rendre l’ensemble du rôle plus grand.\n\nDoriane écrit qu’elle peut seulement déposer les livres puis revenir les chercher. Elle n’envoie pas la phrase. Ce retrait aurait réglé la peur du nouveau lieu en lui retirant précisément ce qu’elle voulait faire depuis l’enveloppe d’invitation. Elle remarque aussi sa fatigue après une semaine de travail : elle n’a pas besoin de tout expliquer par le diagnostic.\n\nÀ l’heure de la visite, elle rejoint Élise et Malik devant la maison de quartier. Le livre est dans son sac, la fiche dans sa poche. Elle voudrait retrouver immédiatement la familiarité de la petite salle de préparation, sans savoir encore où leur table pourra être placée.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Ce qui varie avec un nouveau contexte",
+          "text": "Les possibilités d’agir peuvent varier selon le contexte, même lorsque les difficultés sont durables. Doriane n’a pas perdu son texte ou sa capacité de lecture : elle retrouve une forte crainte devant un lieu et une interlocutrice inconnus. Une réussite antérieure ne constitue donc pas un test de guérison. L’anxiété sociale peut elle aussi concerner de nombreux contextes ; on ne distingue pas les diagnostics en comptant les lieux où quelqu’un a peur. Leur évaluation tient compte de l’histoire, du fonctionnement de soi, des liens et des autres explications possibles."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment un changement fait-il paraître l’acquis inaccessible ?",
+          "points": [
+            {
+              "heading": "Agrandir le rôle à partir d’un lieu imaginé",
+              "text": "L’anticipation peut attribuer à un cadre inconnu des exigences qui ne sont pas encore vérifiées.",
+              "examples": [
+                "Doriane imagine une estrade avant d’avoir vu la salle.",
+                "Elle suppose que la responsable attend une présentation très assurée, sans qu’aucune consigne de ce type ait été donnée."
+              ]
+            },
+            {
+              "heading": "Lire le retour de la peur comme une perte totale",
+              "text": "Une difficulté nouvelle peut sembler annuler ce qui a été possible auparavant.",
+              "examples": [
+                "Doriane pense qu’elle ne saura plus présenter le livre dans un autre bâtiment.",
+                "Elle ne s’appuie plus spontanément sur la fiche qui lui avait permis de continuer à la répétition."
+              ]
+            },
+            {
+              "heading": "Préparer un retrait avant de demander les faits",
+              "text": "Un changement d’organisation peut rouvrir la tentation d’une place uniquement en coulisses.",
+              "examples": [
+                "Doriane rédige un message où elle ne ferait que déposer les ouvrages.",
+                "Elle envisage de laisser Élise la présenter avant de connaître la disposition de la salle."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour adapter un essai à un nouveau contexte",
+          "points": [
+            {
+              "heading": "Repérer ce qui change et ce qui demeure",
+              "objective": "L’objectif est de ne pas traiter le projet entier comme une tâche nouvelle.",
+              "exercise": [
+                "Lister les faits modifiés, comme le lieu et la personne qui ouvre.",
+                "Identifier les éléments conservés : horaire, équipe, extrait et ordre prévu.",
+                "Choisir le seul point à préparer en priorité pour cette transition."
+              ],
+              "benefit": "Cette distinction peut rendre l’adaptation plus précise sans minimiser la peur liée au changement."
+            },
+            {
+              "heading": "Demander une information sur le lieu",
+              "objective": "L’objectif est de remplacer une supposition pratique par un renseignement.",
+              "exercise": [
+                "Choisir une question utile, par exemple où seront les lecteurs et le public.",
+                "La poser soi-même si cela correspond à l’essai préparé, ou demander une aide délimitée.",
+                "Utiliser la réponse pour ajuster le matériel et le placement avec l’équipe."
+              ],
+              "benefit": "L’information peut faciliter l’organisation ; elle ne doit pas devenir une recherche de garantie sur l’opinion de la responsable."
+            },
+            {
+              "heading": "Reprendre une étape accessible",
+              "objective": "L’objectif est d’ajuster le degré de nouveauté sans abandonner automatiquement le projet.",
+              "exercise": [
+                "Avec le thérapeute ou à partir d’un essai déjà discuté, choisir une étape réaliste.",
+                "Essayer seulement le début prévu dans le nouveau lieu, si l’on en a l’énergie et l’accord.",
+                "Décider ensuite de ce qui reste faisable et de l’aide nécessaire, en tenant compte aussi de la fatigue."
+              ],
+              "benefit": "Une étape choisie peut soutenir le transfert entre situations ; une adaptation ou un refus restent possibles sans jugement de valeur."
+            }
+          ]
+        }
+      ],
+      "ending_title": "La table près de la fenêtre",
+      "ending": "Doriane demande à la responsable où l’équipe peut placer les livres. La pièce n’a pas d’estrade. Ensemble, ils choisissent une table près de la fenêtre et trois chaises face à celles du public. L’ordre des interventions reste celui qu’ils avaient répété.\n\nAvec l’accord du groupe, Doriane dit son introduction une fois dans la salle vide. Elle retrouve sa fiche, s’arrête et reprend au premier onglet. Elle ne se sent pas aussi à l’aise qu’à la bibliothèque ; elle confirme pourtant sa place pour samedi. La responsable reçoit les renseignements utiles à l’accueil, sans information sur les soins. La visite terminée, Doriane rentre se reposer plutôt que prolonger les répétitions.",
+      "conclusion": "Le retour de la peur dans un autre lieu ne suffit pas à annuler une expérience précédente. Doriane conserve son extrait, vérifie l’organisation et ajuste sa préparation à sa fatigue. La lecture aura lieu dans cette salle ; sa participation reste choisie et l’accompagnement se poursuit.",
+      "mirror": [
+        "À l’entrée, Élise peut proposer : « On peut regarder la disposition ensemble. Tu préfères poser la question ou que je demande ? » Elle respecte la réponse sans prendre automatiquement la parole au nom de Doriane. Elle transmet à la responsable les besoins pratiques du groupe et garde privées les informations de suivi que Doriane lui a confiées."
+      ],
+      "sources": [
+        "apa-personnalite",
+        "apa-dsm5tr-public",
+        "oms-cddr",
+        "nice-anxiete-sociale"
+      ],
+      "continuity": {
+        "choice": "Après la visite et un court essai, Doriane confirme sa présentation dans la salle de repli ; repos prévu ensuite.",
+        "next": "Le samedi à seize heures, l’équipe de trois adultes présentera les livres dans la salle de la maison de quartier."
+      }
+    },
+    {
+      "number": 12,
+      "slug": "doriane-participer-peur-encore-presente",
+      "title": "Participer avec une peur encore présente : ce qui a changé",
+      "description": "Doriane présente enfin son livre. Elle mesure le changement à ses choix possibles, puis décide ce qu’elle souhaite garder pour la suite.",
+      "context": "La lecture publique à la maison de quartier",
+      "topics": [
+        "évolution",
+        "choix possible",
+        "suivi"
+      ],
+      "clinical_focus": "Évolution des possibilités de choix",
+      "clinical_intro": "Une évolution favorable ne se résume pas à l’absence de peur lors d’un événement. Elle peut aussi se lire dans la possibilité de choisir, d’exprimer une préférence et de maintenir des liens qui comptent. Dans un suivi pour personnalité évitante, ces changements s’évaluent avec les difficultés persistantes ; une lecture réussie ne permet pas de conclure sur l’évolution d’un diagnostic.",
+      "opening": "Samedi, Doriane rend visite à son oncle le matin, comme elle l’avait prévu. À quinze heures trente, elle retrouve Élise et Malik dans la salle de la maison de quartier. La table est près de la fenêtre. Les trois livres y sont posés avec les fiches bibliographiques. Doriane vérifie ses onglets une fois, puis aide Malik à disposer les dernières chaises.\n\nQuand les premiers habitants arrivent, elle sent sa gorge se serrer. Elle reconnaît une lectrice de la bibliothèque et lui indique la table des ouvrages. Elle n’a pas raconté son suivi au public, ni à Malik, ni à la responsable. Elle peut être ici la technicienne qui a choisi un roman et qui attend son tour.\n\nÉlise présente le projet, puis Malik ouvre le programme avec son recueil. Doriane pense un instant lui demander de prendre aussi son livre. Elle regarde la couverture verte et la phrase gardée sur la fiche. Elle voudrait toujours parler de ces passages entre les immeubles. Quand vient son tour, elle donne le titre, explique brièvement pourquoi les lieux l’intéressent et commence le paragraphe de la cour.\n\nSa voix accroche au milieu d’une phrase. Elle reprend sans revenir au début. Quelques personnes regardent le livre, d’autres la regardent elle. Doriane ne sait pas tout ce qu’elles pensent. Elle continue jusqu’à l’onglet de fin, puis laisse Élise donner les informations pratiques comme convenu.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Évaluer les choix possibles dans la durée",
+          "text": "Le fonctionnement d’une personne peut évoluer sans que toutes ses difficultés disparaissent. Doriane a pu choisir son livre, discuter une coupe, exprimer une limite et prendre la parole. Elle reste sensible au jugement et souhaite poursuivre le suivi.\n\nSon diagnostic connu est nommé dans le cadre du DSM-5-TR. La CIM-11 décrit autrement les troubles de la personnalité : elle évalue notamment leur sévérité et peut préciser des dimensions de traits, comme l’affectivité négative ou le détachement. Elle ne propose pas une catégorie évitante identique. Ces dimensions ne sont pas un nouveau nom à lui attribuer ; elles ne se déduisent pas de cette lecture. Aucun passage automatique entre les deux cadres ni réévaluation diagnostique ne peut se faire à partir de la scène."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment observer un changement sans exiger la disparition de la peur ?",
+          "points": [
+            {
+              "heading": "Retrouver la possibilité de faire un choix désiré",
+              "text": "Le changement peut concerner l’action rendue possible et ce qu’elle représente pour la personne.",
+              "examples": [
+                "Doriane présente le roman qu’elle avait failli remplacer par un titre jugé plus légitime.",
+                "Elle garde la visite à son oncle grâce à l’horaire discuté avec l’équipe."
+              ]
+            },
+            {
+              "heading": "Continuer avec un appui choisi",
+              "text": "Utiliser un support ou un relais peut faire partie d’une participation autonome.",
+              "examples": [
+                "Doriane lit avec sa fiche et ses onglets, sans devoir prouver qu’elle peut s’en passer.",
+                "Elle laisse Élise reprendre les informations pratiques selon leur accord, après avoir lu son propre extrait."
+              ]
+            },
+            {
+              "heading": "Conserver des limites après un moment réussi",
+              "text": "Un progrès n’oblige pas à élargir tous les engagements ni à déclarer le suivi terminé.",
+              "examples": [
+                "Doriane peut choisir de participer à une autre lecture sans animer le cycle entier.",
+                "Elle peut rapporter au prochain rendez-vous la peur encore ressentie devant les premiers habitants."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour faire une place au changement dans la durée",
+          "points": [
+            {
+              "heading": "Relier le bilan au projet initial",
+              "objective": "L’objectif est d’évaluer ce qui comptait pour soi.",
+              "exercise": [
+                "Reprendre le souhait formulé au départ : choisir et partager un livre.",
+                "Noter ce qui a été possible et ce qui a encore coûté, sans note de performance.",
+                "Apporter ce bilan nuancé au suivi pour discuter des besoins suivants."
+              ],
+              "benefit": "Le projet offre un repère personnel qui peut compléter l’observation des symptômes sans conclure seul à un changement diagnostique."
+            },
+            {
+              "heading": "Choisir le prochain engagement séparément",
+              "objective": "L’objectif est de préserver une décision libre après la réussite d’une étape.",
+              "exercise": [
+                "Demander ce que comporte réellement une nouvelle proposition.",
+                "Prendre un temps pour distinguer son envie, ses limites et la peur éventuelle.",
+                "Répondre sur cet engagement précis, avec un accord, une adaptation ou un refus."
+              ],
+              "benefit": "Ce choix peut éviter que le progrès devienne une obligation d’accepter toujours davantage ; une limite n’efface pas le chemin parcouru."
+            },
+            {
+              "heading": "Prévoir une réponse si la peur reprend de la place",
+              "objective": "L’objectif est de garder un accès au soutien sans attendre un échec majeur.",
+              "exercise": [
+                "Repérer un changement concret, comme de nouveaux renoncements qui touchent plusieurs liens.",
+                "Recontacter le professionnel selon le cadre convenu et décrire les situations concernées.",
+                "Réviser avec lui les objectifs et les appuis, sans abandonner d’avance ce qui reste possible."
+              ],
+              "benefit": "Une anticipation souple peut soutenir la continuité du soin ; elle ne prédit pas une trajectoire identique pour toutes les personnes."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Le livre laissé ouvert",
+      "ending": "Élise lit ensuite son propre passage et clôt les trois présentations. Après la lecture, une habitante demande à Doriane où retrouver le roman. Elle lui montre la fiche et échange quelques mots sur le passage de la cour. Elle ne demande pas si sa voix a semblé inquiète. D’autres personnes partent sans parler ; la rencontre ne livre pas un verdict commun sur elle.\n\nQuand ils rangent la salle, Malik évoque le prochain cycle. Doriane dit qu’elle aimerait proposer un autre livre plus tard, mais qu’elle ne souhaite pas coordonner l’ensemble. Élise et Malik en prennent note pour leur organisation. Elle laisse Les maisons du passage ouvert sur la table le temps de ramasser les fiches.\n\nChez elle, elle note pour son rendez-vous déjà prévu : « J’ai choisi ce livre, je l’ai partagé, j’ai encore eu peur. » Le projet initial a eu lieu. Doriane garde un métier, des promenades avec Anaïs, des visites et d’autres lectures qui ne sont pas des exercices.",
+      "conclusion": "Le parcours aboutit au choix et au partage d’un roman dans un projet commun. La peur demeure, mais elle ne décide plus seule de cette participation. Doriane garde le droit de limiter la suite et poursuit son accompagnement ; sa vie ne se réduit ni au diagnostic ni à cet après-midi.",
+      "mirror": [
+        "À la fin, Élise peut demander : « Comment as-tu vécu la lecture ? On peut aussi en parler une autre fois. » Elle accueille un bilan mêlé et entend le refus de coordonner le cycle suivant. Anaïs peut proposer une promenade ordinaire. Aucun proche n’a à annoncer que Doriane est guérie ou à faire de chaque nouvelle rencontre une épreuve de progrès."
+      ],
+      "sources": [
+        "apa-personnalite",
+        "apa-dsm5tr-public",
+        "oms-cddr",
+        "medline-personnalite-evitante"
+      ],
+      "continuity": {
+        "choice": "Doriane choisit et partage son roman lors de la lecture publique ; elle refuse de coordonner le prochain cycle et maintient son suivi.",
+        "next": "L’enjeu de la série est résolu. D’autres propositions, les liens et le soin restent ouverts sans obligation d’élargir les engagements."
+      }
+    }
+  ]
+}

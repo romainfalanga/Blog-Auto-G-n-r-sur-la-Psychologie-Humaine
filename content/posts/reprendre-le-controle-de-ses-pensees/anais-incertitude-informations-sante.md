@@ -41,6 +41,11 @@ Une information prudente peut paraître moins enthousiasmante précisément parc
 
 Anaïs remarque qu'elle cherche surtout une garantie sur son avenir. Aucune page ne peut la lui fournir entièrement. Elle peut donc séparer cette inquiétude profonde de la question concrète : ce contenu apporte-t-il une information étayée et pertinente à discuter ? Cette question plus limitée reste examinable.
 
+Exemples concrets
+
+- Sur la feuille de Mireille, une promesse rapide paraît plus rassurante que les limites expliquées en consultation.
+- Le soir, une page affirmant une cause unique lui semble plus convaincante qu’une ressource qui précise son champ.
+
 ### La ressemblance donne l'impression d'une preuve personnelle
 
 La personne du témoignage a un âge proche du sien et décrit des mains douloureuses. Ces détails créent une proximité immédiate. Anaïs pense : cette histoire ressemble à la mienne, donc sa conclusion devrait me concerner. Elle ne connaît pourtant pas les éléments médicaux qui permettraient une comparaison.
@@ -49,6 +54,11 @@ La ressemblance peut aider à se sentir moins seule. Elle ne remplace pas la con
 
 Elle se méfie particulièrement des explications qui lui attribuent la responsabilité de la maladie par ses pensées, son caractère ou une émotion supposée cachée. La polyarthrite ne devient pas une preuve de mauvais fonctionnement psychologique. Une démarche de soutien émotionnel peut l'aider à vivre la situation, sans inventer la cause de l'inflammation.
 
+Exemples concrets
+
+- L’âge voisin de l’auteur l’incite à rapprocher directement les deux histoires.
+- Les mains douloureuses décrites dans le témoignage lui font croire que la même méthode devrait lui convenir.
+
 ### Vérifier se transforme en recherche sans fin
 
 Anaïs consulte un site, puis un deuxième pour vérifier le premier, puis une discussion qui pose de nouvelles questions. Au terme de la soirée, elle dispose de davantage d'informations et de moins de clarté. La recherche ne porte plus sur une question précise. Elle vise un état où aucun doute ne resterait.
@@ -56,6 +66,11 @@ Anaïs consulte un site, puis un deuxième pour vérifier le premier, puis une d
 Ce mouvement peut coûter du repos et amplifier la préoccupation. Il ne signifie pas qu'elle devrait renoncer à comprendre sa santé. Il indique qu'une limite de méthode serait utile : choisir la question, les sources de départ et ce qui nécessite l'avis d'un professionnel. L'accès à beaucoup de contenus ne l'oblige pas à tous les traiter.
 
 Le calendrier compte également. Une inquiétude urgente ou un symptôme inhabituel ne doit pas attendre qu'elle termine une enquête en ligne. Elle suit les consignes de son équipe et contacte le professionnel approprié. Les recherches documentaires servent à préparer une compréhension, sans remplacer les voies de soins prévues.
+
+Exemples concrets
+
+- Elle ouvre un deuxième site pour vérifier le premier puis repart vers une discussion.
+- Une question initiale sur la feuille se transforme en recherche de toutes les causes possibles de ses variations.
 
 ## 3 techniques pour utiliser une information de santé
 
@@ -67,6 +82,16 @@ Elle distingue ensuite témoignage, information générale et recommandation per
 
 Pour commencer une recherche, elle privilégie des ressources institutionnelles comme l'Assurance maladie, l'Inserm ou le Service public d'information en santé. Santé.fr, le site du Service public d'information en santé, indexe notamment des contenus produits par des acteurs publics de santé. Ces repères facilitent l'orientation ; ils ne dispensent pas d'examiner la date et la portée d'une information précise.
 
+Pour essayer dans cette situation
+
+Objectif : Replacer le témoignage dans sa catégorie d’information.
+
+1. Sur la feuille, chercher l’auteur, la date, les références et la finalité commerciale éventuelle.
+2. Distinguer le récit personnel d’une recommandation générale ou d’un conseil adapté à son dossier.
+3. Chercher une ressource institutionnelle de départ sans supposer qu’elle répond à sa situation individuelle.
+
+Ce tri peut rendre la lecture plus précise sans obliger Anaïs à réfuter seule chaque phrase.
+
 ### 2. Transformer le doute en question pour le suivi
 
 Elle écrit ce qu'elle souhaite savoir en une phrase : « Ce témoignage affirme qu'une méthode explique les variations de douleur ; existe-t-il des éléments sérieux et cela concerne-t-il ma situation ? » Elle peut apporter la référence au rendez-vous ou utiliser le canal de contact prévu par son équipe selon la nature de la question.
@@ -75,6 +100,16 @@ Elle garde également ce qui l'inquiète personnellement : peur de manquer une p
 
 Entre-temps, elle ne modifie pas son traitement ni les consignes de suivi. Une information trouvée ne devient pas une décision personnelle simplement parce qu'elle semble cohérente. Si elle éprouve un doute sur les soins prescrits, elle en parle aux professionnels concernés et demande les explications ou l'avis approprié.
 
+Pour essayer dans cette situation
+
+Objectif : Préparer une question exploitable par l’équipe de soins.
+
+1. Copier la référence et l’affirmation qui la préoccupe.
+2. Écrire séparément la question sur sa pertinence et la peur de manquer une possibilité.
+3. Apporter ces éléments par le canal approprié, en conservant entre-temps les soins et consignes reçus.
+
+Le doute devient un sujet d’échange plutôt qu’une décision de traitement improvisée.
+
 ### 3. Définir une fin à la recherche du jour
 
 Anaïs choisit un objectif limité : retrouver une source claire et préparer la question suivante. Quand cet objectif est atteint, elle peut s'arrêter sans considérer qu'elle néglige sa santé. La fin d'une recherche ne signifie pas la fin de son intérêt ; elle signifie qu'elle dispose de suffisamment d'éléments pour l'étape actuelle.
@@ -82,6 +117,16 @@ Anaïs choisit un objectif limité : retrouver une source claire et préparer la
 Elle peut dire à Mireille : « Merci d'avoir pensé à moi. Je vérifie les informations de santé avec mon équipe, alors je préfère que tu me demandes avant de m'envoyer d'autres méthodes. » Cette demande protège son énergie et leur relation. Elle indique une préférence plutôt qu'une accusation contre l'intention de son amie.
 
 Avec Benoît, elle précise ce qu'elle attend : écouter sa crainte ou l'aider à retrouver une référence, sans passer la soirée à multiplier les scénarios. Un soutien concret peut rendre la question plus accessible. Il ne doit pas transformer le couple en comité permanent chargé de résoudre toutes les inconnues médicales.
+
+Pour essayer dans cette situation
+
+Objectif : Mettre fin à une recherche délimitée pour aujourd’hui.
+
+1. Choisir comme but une source claire et une question pour le suivi.
+2. Lorsque ce but est atteint, ranger la feuille avec les documents de consultation.
+3. Dire à Mireille quels envois elle préfère recevoir et proposer à Benoît un autre sujet pour la soirée.
+
+Cette limite peut préserver leur relation et du temps pour la vie commune sans renoncer à comprendre sa santé.
 
 ## Replier le témoignage
 

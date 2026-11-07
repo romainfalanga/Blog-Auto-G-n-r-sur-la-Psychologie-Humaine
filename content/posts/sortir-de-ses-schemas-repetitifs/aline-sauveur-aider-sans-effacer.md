@@ -55,6 +55,8 @@ Quand Claire remercie tout le groupe sans la nommer, Aline relit la phrase. Elle
 
 L’association n’est pas un tribunal où chaque heure doit produire une récompense identique. Mais un fonctionnement durable permet de parler des contributions et des contraintes. Aline peut demander une meilleure répartition sans transformer la gratitude en dette. Elle peut également apprécier un merci sans en faire la preuve exclusive qu’elle compte pour les autres.
 
+Avec Bastien, le même décalage pourrait apparaître s’il rend la perceuse sans raconter longuement comment elle lui a servi : Aline pourrait entendre un manque de gratitude dans un retour pourtant conforme au prêt. Le remerciement collectif de Claire et le retour de l’outil sont deux faits différents. Dans les deux cas, l’attente devient coûteuse si Aline exige intérieurement un signe particulier sans l’avoir jamais exprimé.
+
 ## Trois techniques pour aider sans s’effacer
 
 ### 1. Vérifier la demande avant de construire la solution

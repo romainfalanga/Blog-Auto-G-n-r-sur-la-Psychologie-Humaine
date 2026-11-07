@@ -22,7 +22,6 @@ Elle propose de préparer la salle. Un cousin répond qu’il faut surtout quelq
 Soraya lui passe une feuille vierge et demande si la répartition doit être revue. Samira répond que oui, pour elle. La phrase lui paraît plus difficile que les longues explications qu’elle prépare habituellement. Elle ne dit pas que tout le projet est mauvais. Elle ouvre une discussion sur les moyens réels, en gardant la possibilité de participer autrement.
 
 ## Qu’est-ce que lier sa valeur personnelle à son budget ?
-
 Lier sa valeur personnelle à son budget consiste à traiter ses moyens financiers ou sa capacité de payer comme une preuve de sa valeur en tant que personne. Une limite de ressources devient alors un verdict sur la générosité, la compétence ou la place dans un groupe. Cette association peut être alimentée par des normes sociales autant que par des habitudes de pensée personnelles.
 
 Jennifer Crocker et Connie Wolfe proposent un modèle des conditions sur lesquelles l’estime de soi peut reposer. Selon ce cadre, des réussites ou des échecs dans un domaine investi peuvent faire varier le regard sur soi. Il ne démontre pas que la précarité de Samira vient de son estime personnelle. Il aide simplement à comprendre pourquoi une discussion pratique peut prendre la dimension d’un examen global de sa valeur.
@@ -32,31 +31,41 @@ L’argent possède une portée matérielle réelle. Il permet ou empêche certa
 Parler d’un budget n’oblige pas davantage à communiquer tous ses revenus. Une information suffisante pour décider ensemble peut rester limitée : une dépense n’est pas possible, une somme doit être vérifiée ou une autre contribution est envisageable. La confidentialité n’empêche pas une conversation honnête. Elle aide à préserver la relation lorsque l’exposition complète des comptes n’est ni nécessaire ni souhaitée.
 
 ## Comment le budget devient-il une mesure de la personne ?
-
 ### La dépense sert de certificat de générosité
-
 Samira craint qu’une contribution moins coûteuse signifie qu’elle aime moins sa famille. Personne ne le formule, mais certaines habitudes de fête entretiennent cette équivalence : remercier d’abord ceux qui achètent, nommer les montants et oublier le travail de rangement. Une règle apparemment identique pour tous peut alors masquer des moyens très différents.
 
 Il ne s’agit pas d’affirmer que les achats n’ont pas d’importance. Ils doivent être financés et répartis de manière praticable. Le problème apparaît lorsqu’une discussion sur les besoins communs devient une hiérarchie morale. Samira ne devrait pas devoir choisir une dépense impossible pour prouver un attachement qui existe déjà dans ses liens et ses gestes.
 
 La préparation de la salle peut constituer une contribution choisie. Elle ne doit toutefois pas devenir une compensation sans limite imposée à celle qui possède moins d’argent. Donner davantage d’heures pour éviter la honte risquerait de lui coûter le repos et la disponibilité dont elle a aussi besoin. Son temps compte, même lorsqu’il n’apparaît pas sur un ticket.
 
-### La précision disparaît dans la justification
+Exemples situés :
 
+- Pendant le repas familial, Samira pourrait compter les bouteilles apportées par chacun et omettre le temps passé à préparer la salle.
+- Si sa sœur propose un achat plus cher, elle peut être tentée d'ajouter une somme indisponible pour paraître aussi généreuse.
+
+### La précision disparaît dans la justification
 Samira commence à raconter les prix de plusieurs magasins. Ses proches comprennent qu’elle cherche une bonne affaire, sans entendre encore la limite qui compte. Elle peut finir avec la charge d’organiser tous les achats, alors que sa difficulté initiale concerne la possibilité de les financer. Une explication longue peut ainsi rendre le message moins clair.
 
 La phrase « je ne peux pas prendre cette dépense cette semaine » transmet une information plus directe. Elle ne comporte pas la promesse d’acheter plus tard ni l’obligation d’expliquer pourquoi. Si Samira souhaite donner un contexte, elle peut ajouter que ses missions varient. Elle reste libre de s’arrêter là et d’orienter la conversation vers les modalités possibles.
 
 Cette précision n’élimine pas toutes les réactions. Quelqu’un peut insister ou formuler un jugement. Samira ne contrôle pas la qualité de l’écoute familiale. Elle peut préparer sa limite et rechercher l’appui de Soraya, mais un échange irrespectueux ne prouverait pas qu’elle choisit mal ses mots. Les interlocuteurs gardent leur propre responsabilité.
 
-### La comparaison gomme les différences de situation
+Exemples situés :
 
+- À la question sur les boissons, elle répond par plusieurs magasins moins chers sans dire qu'elle ne peut pas payer cette ligne.
+- Si un cousin l'interroge sur sa participation, elle pourrait détailler ses factures alors qu'une limite sur cet achat suffirait à organiser le repas.
+
+### La comparaison gomme les différences de situation
 Soraya peut annoncer une dépense sans la même hésitation. Samira regarde cette facilité et pense qu’elle devrait être au même point. Elles partagent une histoire familiale, mais pas les mêmes horaires, les mêmes revenus ni la même organisation parentale. La proximité rend la comparaison tentante sans rendre les conditions équivalentes.
 
 Pour l’instant, Samira n’a pas besoin d’examiner toute leur relation de sœurs. Elle peut simplement reconnaître que le budget de Soraya ne définit pas ce qu’elle devrait pouvoir payer. La question de la rencontre commune exige une répartition concrète, et non un classement de leurs parcours. Ce repère garde la discussion à une échelle plus juste.
 
-## 3 techniques pour parler de moyens sans juger la personne
+Exemples situés :
 
+- En écoutant Soraya annoncer ce qu'elle apporte, Samira pourrait comparer leurs montants sans tenir compte de leurs horaires différents.
+- Devant la liste, elle peut dévaloriser son créneau de préparation au seul motif qu'il ne ressemble pas à un achat.
+
+## 3 techniques pour parler de moyens sans juger la personne
 ### 1. Nommer la limite utile à la décision
 
 Préparez une phrase qui décrit ce qui est possible ou impossible aujourd’hui. Samira choisit : « Je ne peux pas financer cette ligne, mais je peux participer à la préparation pendant le créneau convenu. » Elle ne commence pas par se qualifier de mauvaise organisatrice ou par présenter des excuses pour son existence dans le groupe.
@@ -82,7 +91,6 @@ Si quelqu’un propose de couvrir une dépense, clarifiez la nature de cette pro
 L’accord peut rester impossible ou nécessiter une autre organisation. Samira garde le droit de réduire sa participation à la rencontre plutôt que de dépasser ses limites. Une relation respectueuse permet de discuter un arrangement ; elle ne garantit pas que toutes les envies communes deviennent accessibles. Le désaccord pratique peut être reconnu sans devenir une rupture d’affection.
 
 ## Il faut quand même quelqu’un pour les boissons
-
 Soraya propose de reprendre les lignes à plusieurs plutôt que de maintenir une personne par achat. Samira précise qu’elle ne souhaite pas présenter ses comptes et que son créneau de préparation reste limité. Sa sœur répond qu’elle a seulement besoin de savoir sur quoi compter. La tension ne disparaît pas, mais les mots portent enfin sur l’organisation réelle.
 
 Le cousin insiste encore sur le coût total. Samira ne cherche plus un magasin pour faire oublier sa limite. Elle répète qu’elle ne prend pas cette dépense. Le groupe doit revoir ses quantités ou sa répartition ; ce travail ne lui revient pas automatiquement. Elle aide à déplacer une table, puis s’arrête à l’heure prévue pour retrouver Noé.

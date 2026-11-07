@@ -39,17 +39,23 @@ Vincent entend sa propre phrase se charger de toutes les démarches récentes. I
 
 Séparer les dossiers ne réduit pas l’importance des obstacles répétés. Vincent peut garder l’idée qu’ils forment un contexte pesant et choisir de traiter cette accumulation dans un autre espace. Pour l’instant, décrire ce qui bloque le passage permet d’obtenir une réponse vérifiable. La colère garde un objet concret au lieu de devoir représenter toutes les difficultés de la semaine.
 
+La file devant les tables lui rappelle les appels sur la porte de l’immeuble ; la réponse imprécise de l’accueil réveille ensuite l’irritation liée aux informations déjà contradictoires. Le lieu de projection reçoit ainsi le poids de deux dossiers qui n’ont pas le même responsable.
+
 ### L’urgence d’agir remplace le consentement
 
 Vincent pense proposer une autre entrée avant même que Cédric puisse poser sa question. Il cherche une solution rapidement, mais ne connaît pas les conditions du chemin alternatif. Il pourrait ajouter une contrainte ou transformer l’activité de son compagnon en problème à résoudre par n’importe quel moyen. La vitesse de sa réaction ne garantit ni sécurité ni respect des choix.
 
 Cédric peut préférer attendre, demander une précision ou renoncer. Vincent peut exprimer son propre souhait et ses limites, mais il ne décide pas du déplacement de l’autre. Leur expérience de l’exposition reste un repère : un soutien utile commence par une proposition et un accord. Une émotion forte ne suspend pas ce principe, même quand elle naît d’un obstacle réel.
 
+Proposer immédiatement une autre entrée devance le trajet que Cédric veut choisir ; répondre à sa place à l’accueil devance la demande qu’il souhaite formuler lui-même. L’empressement peut prendre le contrôle par le programme comme par la parole.
+
 ### Une remarque minimisante devient le centre de tout
 
 La personne à l’accueil dit que les tables ne devraient pas rester longtemps. Vincent reçoit cette réponse comme si le problème ne comptait pas. Il a envie de discuter de chaque mot. Il peut demander une durée précise sans supposer qu’il connaît l’intention de cette personne. Une formulation maladroite et une absence de solution ne sont pas exactement la même information.
 
 Si l’interlocuteur minimise effectivement l’obstacle, Vincent n’a pas à approuver. Il peut répéter le fait et la demande, ou demander à parler au responsable compétent. L’objectif n’est pas de convaincre tout le monde que sa colère est parfaite. Il est d’obtenir une réponse sur l’accès, de préserver leurs choix et de décider ce qu’ils souhaitent faire si aucune solution adaptée n’est proposée.
+
+Il peut se fixer sur « pas longtemps » sans obtenir de délai ; il peut aussi débattre de la bonne volonté de l’accueil alors que personne n’a encore dit qui retirera les tables. Dans ces deux cas, le désaccord sur les mots risque de laisser l’accès sans réponse.
 
 ## Trois techniques pour répondre à la colère et aux obstacles matériels
 

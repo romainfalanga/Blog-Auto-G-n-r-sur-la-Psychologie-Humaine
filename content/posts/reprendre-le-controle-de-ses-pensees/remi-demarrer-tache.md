@@ -39,17 +39,23 @@ Rémi range le classeur parce qu'il en aura peut-être besoin. Puis il renomme u
 
 Il n'est pas nécessaire de condamner tout rangement comme une fuite. Un espace dégagé et des documents accessibles peuvent aider. La distinction utile est fonctionnelle : après cette action, le premier geste du travail est-il plus clair ou plus faisable ? Si la réponse reste non, Rémi peut arrêter la préparation et chercher l'information manquante. Cette question est plus précise que « est-ce que je suis en train de perdre mon temps ? ».
 
+Ranger les bons retarde la recherche des informations attendues ; renommer le dossier retarde ensuite la première ligne du bilan. Ces deux préparations n’ont d’utilité pour ce créneau que si elles rendent effectivement cette entrée plus accessible.
+
 ### Une tâche connue devient un refuge immédiat
 
 Replacer des bacs demande un effort physique réel, mais son résultat est certain. Le tableau implique davantage d'incertitude. Rémi choisit donc une tâche qui lui rend rapidement un sentiment d'utilité. Le problème n'est pas qu'il aime les activités concrètes. Il apparaît si toute demande visible prend la place d'une activité moins définie, même quand celle-ci a une échéance et une importance reconnues.
 
 Il peut conserver cette ressource sans laisser la succession des sollicitations décider seule. Pour cela, les priorités doivent être discutées. Si Claire lui attribue un bilan tout en le maintenant disponible pour chaque besoin du quai, l'incompatibilité mérite d'être nommée. Un créneau annoncé ne devient pas un temps de travail protégé par sa seule présence dans un agenda. Les autres personnes doivent savoir quelle activité peut alors attendre.
 
+Les bacs offrent à Rémi un résultat immédiat quand le tableau reste ambigu ; reprendre encore l’ancien modèle lui offre une occupation familière quand il faudrait demander quelles catégories Claire attend. L’utilité apparente peut, dans les deux cas, masquer la question ouverte.
+
 ### Le premier geste est confondu avec le résultat final
 
 Rémi se représente déjà un document complet, compréhensible et sans erreur. Il compare le tableau vide à cet idéal, puis se sent très loin du but. Il oublie qu'une première action peut simplement produire une question fiable ou une colonne provisoire. Le commencement n'a pas à ressembler au livrable final. Il doit seulement créer une suite possible, compatible avec les exigences de la tâche.
 
 Cette différence l'aide à repérer un obstacle réel : une donnée n'est pas disponible avec son accès actuel. Il ne peut pas résoudre cela en se concentrant plus fort. Il peut en revanche demander l'accès approprié ou convenir d'un autre périmètre avec Claire. Reconnaître cette limite protège aussi la qualité du travail. Inventer une valeur pour remplir un blanc serait une façon d'avancer en apparence, avec un coût professionnel bien plus élevé.
+
+Il attend de connaître tout le tableau pour relever un premier intitulé ; il attend aussi d’avoir toutes les données alors qu’il pourrait déjà identifier celle dont l’accès manque. Dans les deux cas, le résultat complet prend la place d’une action d’entrée pertinente.
 
 ## 3 techniques pour démarrer une tâche de façon réaliste
 

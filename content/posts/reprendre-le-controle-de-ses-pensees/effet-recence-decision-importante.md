@@ -31,29 +31,53 @@ Une décision n’est pas un test de mémoire. Le dernier avis peut rester en t�
 
 ### Influence des derniers retours reçus
 
-Lucas s'aperçoit que le commentaire le plus récent de son tuteur occupe toute la scène mentale : une critique formulée la semaine précédente résonne plus fort que des mois de compliments sur son travail. Concrètement, cela se manifeste par une propension à corriger la trajectoire en réponse au dernier avis, même si cet avis n'est ni représentatif ni complet. Par exemple, un manager reçoit deux rapports positifs en mars et avril, puis un rapport mitigé en mai. Sous l'effet de récence, le dernier rapport influence davantage la décision de promotion que les deux précédents réunis.
+Le commentaire récent du tuteur est plus accessible à Lucas que plusieurs échanges plus anciens. Le récit utilise cette situation pour questionner le poids d’un avis, sans assimiler une décision de carrière à l’expérience sur le rappel de mots.
+
+Après la remarque sur la structure d’une présentation, Lucas peut laisser ce défaut occuper tout son bilan du stage. S’il reçoit ensuite un compliment bref, il pourrait à l’inverse oublier les mêmes points à travailler. Dans ces deux exemples, la proximité d’une parole remplace l’examen de ce sur quoi elle porte. Une appréciation reste une information située, positive ou négative.
 
 ### Poids des dernières impressions sociales
 
-Lors d'une discussion avec Maxime et Romain, Lucas note que c'est le dernier argument entendu qui reste. Si, au dîner, Romain exprime des réserves sur Lyon, Lucas a tendance à surévaluer ce dernier avis. Dans un contexte de colocation ou d'équipe, les avis exprimés en dernier deviennent des leviers puissants pour une personne qui craint le jugement social. Cela crée un cycle où l'on suit la dernière opinion exprimée pour réduire l'incertitude, au détriment d'une analyse pondérée.
+La dernière personne entendue peut rester plus présente dans sa réflexion. Ce n’est pas nécessairement son avis le plus pertinent ni une influence que Lucas doit combattre par principe : il lui faut connaître l’argument et sa source.
+
+Si Romain exprime une réserve sur Lyon à la fin du dîner, Lucas peut la reprendre comme une raison décisive sans vérifier ce qui la fonde. Si Maxime l’encourage ensuite, il peut être tenté de changer encore de conclusion avant d’obtenir une donnée nouvelle. Ces deux avis peuvent être sincères ; leur ordre ne les transforme pas en renseignements sur le contrat ou l’accompagnement.
 
 ### Impact des dernières informations disponibles
 
-Une nouvelle version du contrat peut remplacer des conditions anciennes. Lucas vérifie ce qui a changé et si cette différence compte pour lui. La date du message ne suffit pas à en juger.
+Une information récente peut modifier légitimement un choix. Lucas gagne à distinguer une donnée nouvelle d’une répétition formulée plus tard. Écarter le dernier message uniquement parce qu’il est récent serait aussi une mauvaise règle.
+
+Une version du contrat qui change la date de prise de poste peut compter parce qu’il doit finir son stage et déposer son mémoire. Un rappel de Mathieu qui reprend le même salaire ne fournit pas pour autant une deuxième preuve de son intérêt. Le premier exemple modifie une condition ; le second peut seulement la rendre plus visible. Lucas vérifie le contenu, pas seulement la date.
 
 ## Techniques pour limiter l'effet de récence face à une décision importante
 
 ### 1. Le journal des éléments en perspective
 
-L'objectif est d'externaliser et de classer chronologiquement toutes les informations pertinentes pour éviter que la dernière ne prenne le pas sur les autres. Avant de trancher, Lucas s'oblige à écrire sur un document tous les éléments qui comptent pour la décision en les datant. Il note les offres reçues, les retours du tuteur, les conversations avec Maxime et Romain, les contraintes financières, les objectifs personnels et les attentes parentales. Puis il classe ces éléments par thème et non par date. L'idée est de transformer une pile d'impressions récentes en un panorama structuré. Il distingue ce qui est confirmé, ce qu’il souhaite et les questions qu’il reste à poser. Un chiffre attribué par Lucas resterait un choix personnel.
+L’objectif est de rendre les informations utiles consultables sans devoir les garder toutes en tête. Lucas peut limiter la note à ce qui concerne réellement les options actuelles.
+
+1. Relever les conditions écrites de l’offre, le terme du stage et les questions encore ouvertes, avec leur date et leur source.
+2. Regrouper par thème : emploi, revenu, logement et liens. Garder à part les avis de Maxime, Romain ou du tuteur et ses propres préférences.
+3. Relire chaque thème pour choisir ce qui doit être confirmé avant la réponse, plutôt que de traiter le dernier commentaire comme un bilan complet.
+
+La note conserve des inconnues. Elle ne transforme pas un avis en mesure objective et ne demande pas de reconstituer tous les événements des derniers mois.
 
 ### 2. Se donner un délai si le calendrier le permet
 
-Si le calendrier le permet, Lucas peut prendre le temps de vérifier les termes du contrat et de relire les éléments utiles. Il n’existe pas ici de délai qui reproduise l’expérience sur le rappel de mots ou garantisse une meilleure décision.
+Lucas cherche du temps pour une vérification identifiable. Il n’existe pas de délai qui reproduise ici l’expérience sur le rappel de mots ou assure une meilleure décision.
+
+1. Vérifier la date limite auprès de Mathieu et les contraintes de fin de stage. Demander une extension seulement si elle est nécessaire et possible.
+2. Choisir ce qu’il fera dans ce temps : relire le contrat ou poser la question sur l’accompagnement. Prévoir un moment réaliste pour cette démarche.
+3. À ce moment, regarder la réponse obtenue et décider de la suite avant l’échéance. Si l’information manque encore, le dire au recruteur au lieu d’attendre indéfiniment une certitude.
+
+Le délai donne une place à l’action. Il n’oblige pas à reporter une décision déjà suffisamment informée et ne garantit pas l’absence de regret.
 
 ### 3. La règle des preuves multiples et du critère prédéfini
 
-Lucas choisit des critères qui comptent pour lui, comme le salaire, les horaires et le soutien prévu. Il demande un avis sur un élément précis et peut donner du poids à une information nouvelle si elle est pertinente.
+La règle consiste à comparer les avis aux critères, sans imposer un nombre de témoignages ni une majorité de réponses favorables.
+
+1. Lucas choisit les critères qui comptent : conditions salariales, horaires et accompagnement, en précisant ce qu’il sait de chacun.
+2. Il demande un avis ciblé à une personne pertinente, par exemple comment comprendre un point du contrat. Il distingue cette aide d’une permission générale de partir.
+3. Il revient aux critères avec la donnée reçue. Une condition nouvelle importante peut modifier le choix ; plusieurs encouragements identiques ne remplacent pas une information absente.
+
+Cette comparaison permet de garder une raison explicable pour la décision. Elle ne calcule pas une option parfaite et laisse à Lucas ses préférences et ses compromis.
 
 ## Deux jours pour choisir
 

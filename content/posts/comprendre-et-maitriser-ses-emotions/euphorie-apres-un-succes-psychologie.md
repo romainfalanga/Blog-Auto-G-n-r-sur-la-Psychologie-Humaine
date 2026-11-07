@@ -25,27 +25,57 @@ Après une réussite, l'euphorie désigne ici une joie très intense. Hugo sort 
 
 Dans le récit, Hugo peine surtout à séparer le plaisir d'avoir bien joué de l'urgence à prendre de grandes décisions. Une joie débordante n'a pas forcément de retombée pénible, et elle n'a rien à prouver.
 
-## Manifestations de l'euphorie dans le contexte de la réussite
+## Manifestations de l’euphorie dans le contexte de la réussite
 
-### 1. Une distorsion de la perception relationnelle
-Lorsqu'un succès professionnel ou artistique survient, l'individu euphorique a tendance à idéaliser ses relations de manière subite. Hugo, par exemple, efface instantanément les griefs passés avec Chloé. Cette manifestation se traduit par une volonté de fusion absolue, où les limites de l'autre ne sont plus respectées. On envoie des messages passionnés, on fait des promesses grandioses ou on décide que tous les problèmes de communication sont résolus par la seule force de cette réussite éphémère. C'est une forme de déni émotionnel qui utilise le succès comme une preuve que tout est possible.
+### 1. Le plaisir du concert déborde vers un autre choix
 
-### 2. Un sentiment d'invulnérabilité risqué
-L'euphorie après un succès peut conduire à une altération du jugement concernant les risques. On se sent capable de tout, ce qui peut mener à des décisions de carrière impulsives ou une négligence des besoins physiques élémentaires comme le sommeil. Pour Hugo, cela se traduit par l'envie de tout plaquer, de réserver un studio d'enregistrement onéreux ou de s'engager dans des projets sans vérifier leur viabilité. Sur le moment, l'idée lui plaît tellement qu'il oublie de vérifier son budget.
+Hugo a très envie de partager ce qu’il vient de vivre. Il peut être heureux du concert et souhaiter revoir Chloé, sans que la réussite musicale règle leurs difficultés ou indique ce qu’elle souhaite. Ces sujets demandent des accords différents.
 
-### 3. La recherche d'une stimulation permanente
-Une fois le sommet atteint, la personne euphorique cherche à maintenir ce niveau d'excitation. On rejoue la scène du succès en boucle dans sa tête, on cherche la validation sociale sur les réseaux ou auprès des proches de manière compulsive. Cette manifestation est souvent le signe d'une tentative de combler un vide intérieur par une source extérieure de gratification. Si l'excitation retombe, le contraste avec la réalité quotidienne devient difficile à supporter, ce qui pousse à provoquer de nouveaux pics d'intensité, parfois de manière artificielle ou dramatique.
+Il efface le simple récit du concert pour envoyer une déclaration et une proposition de reprendre à deux. Sur le quai, il imagine déjà lui rejouer le morceau chez lui. Le message et la scène imaginée donnent à sa joie une suite que Chloé n’a pas acceptée.
 
-## Techniques pour réguler l'euphorie
+### 2. Une idée plaisante semble devoir être réalisée tout de suite
 
-### 1. La technique de l'ancrage sensoriel différé
-Si Hugo a besoin de ralentir, il peut remarquer le poids de sa guitare, le tissu de sa veste et le contact de ses pieds avec le sol. C'est une façon possible de revenir à ce qu'il est en train de faire, inspirée des exercices d'ancrage du [guide de l’OMS](https://tdr.who.int/home/our-work/global-engagement/9789240003927). Il peut aussi simplement profiter du trajet.
+L’élan peut rendre l’attente difficile à choisir pour Hugo. Il n’est pas nécessaire de le décrire comme invulnérable ou de lui attribuer des dépenses qu’il n’a pas engagées. L’observation porte sur l’écart entre l’idée et le moment de décider.
+
+Après deux heures sur scène, il aurait envie de repartir du premier accord avant même de ranger. Il envoie aussi le message avant d’avoir atteint le métro, sans laisser de temps à une relecture. Rejouer et écrire concernent deux décisions dont le délai peut être examiné séparément.
+
+### 3. Revenir au moment agréable prend beaucoup de place
+
+Hugo peut savourer les applaudissements et chercher à prolonger le partage. Ce plaisir n’a pas nécessairement une cause cachée et ne prédit pas une retombée pénible. Il peut regarder ce qu’il souhaite garder et ce qu’il attend désormais d’autrui.
+
+Il demande à une personne du premier rang quel passage elle a préféré. Dans la rue, il repense aux deux mots repris par le public. Le compliment échangé et le souvenir rejoué peuvent rester des plaisirs, sans exiger de Chloé qu’elle confirme toute la soirée.
+
+## Techniques pour réguler l’euphorie
+
+### 1. Retrouver l’action présente dans le trajet
+
+Hugo peut choisir un repère concret s’il souhaite ralentir avant d’écrire. Cette option s’inspire des exercices d’ancrage du [guide de l’OMS](https://tdr.who.int/home/our-work/global-engagement/9789240003927).
+
+1. S’arrêter dans un endroit adapté du trajet pour fermer l’étui et vérifier que la sangle ne dépasse plus.
+2. Remarquer un détail présent, comme le poids de la guitare ou le contact des pieds, sans rechercher une sensation précise.
+3. Reprendre le trajet et choisir si le message attendra ; laisser l’exercice de côté s’il ne lui convient pas.
+
+Ce repère peut lui rendre le geste en cours plus visible. Il peut aussi simplement profiter de sa joie et du trajet sans exercice.
 
 ### 2. Relire une décision qui peut attendre
-Hugo peut noter un projet coûteux et relire le budget à tête reposée avant de s'engager. Cette pause concerne une décision qu'il peut reporter ; si son comportement le met en danger ou met quelqu'un d'autre en danger, il cherche de l'aide tout de suite.
 
-### 3. Garder une trace du plaisir
-Hugo note ce qui lui a plu : l'enchaînement d'accords qu'il a réussi, les applaudissements, le compliment d'Antoine. Il peut garder ce souvenir sans décider, ce soir-là, de ce qu'il signifie pour tout le reste de sa vie.
+L’objectif est de distinguer une idée et un engagement, particulièrement lorsqu’une autre personne est concernée.
+
+1. Garder dans un brouillon la proposition qu’il souhaite faire, sans l’ajouter aussitôt à la conversation.
+2. À la relecture, séparer le récit du concert de la demande sur la relation et vérifier les limites de contact convenues.
+3. Choisir d’attendre, de supprimer la demande ou de proposer seulement un échange souhaité par les deux, sans relance pour obtenir une réponse immédiate.
+
+La pause peut aider à examiner le message. Elle concerne une décision reportable ; si son comportement met quelqu’un en danger, chercher de l’aide ne doit pas attendre.
+
+### 3. Garder une trace du plaisir sans lui donner une mission
+
+Hugo veut conserver ce qui lui a plu sans faire du concert une preuve sur tout le reste de sa vie.
+
+1. Noter un détail réellement vécu : les deux mots repris par le public ou le compliment reçu à la sortie.
+2. Ajouter ce qu’il souhaite garder pour son travail musical, comme un passage à reprendre une prochaine fois.
+3. Ranger cette note puis décider de la suite ordinaire de la soirée, sans devoir publier, rallumer l’ampli ou faire répondre Chloé.
+
+Le souvenir peut rester disponible quand il le souhaite. Il n’a pas à maintenir la même intensité de joie pour conserver sa valeur.
 
 ## Un seul message
 

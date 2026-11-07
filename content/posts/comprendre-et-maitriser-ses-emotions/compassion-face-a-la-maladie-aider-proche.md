@@ -31,13 +31,25 @@ Camille peut être touchée par ce que vit la famille sans devoir savoir exactem
 
 Dans le cadre d'un accompagnement, la compassion se traduit d'abord par une qualité de présence. Il ne s'agit pas de faire quelque chose à tout prix, mais d'être là. Pour Camille, cela signifie écouter les craintes de l'épouse de Monsieur Girard sans essayer de les corriger immédiatement. Elle accepte que la détresse soit présente dans la pièce sans s’obliger à trouver immédiatement de quoi rassurer. Cette présence permet à la personne malade ou à son proche de se sentir vu et entendu dans sa réalité la plus brute.
 
+Exemples situés :
+- Dans la chambre 412, Camille demande la permission de s’asseoir au lieu d’imposer une conversation à l’épouse de Monsieur Girard.
+- Si cette femme veut parler de son inquiétude, Camille peut l’écouter sans lui garantir ce que le médecin annoncera.
+
 ### 2. L'action juste et mesurée
 
 La compassion pousse à agir, mais pas n'importe comment. Elle se manifeste par des gestes concrets qui répondent aux besoins réels de l'autre plutôt qu'à notre propre besoin de réduire notre malaise. Cela peut être d’expliquer un soin, de proposer de faire venir un membre de l’équipe ou de faciliter un appel. Camille a appris à ne plus se surcharger de tâches inutiles par culpabilité, mais à choisir des actions qui ont un impact réel sur le confort du patient. C'est une aide qui respecte l'autonomie de l'autre tout en lui offrant un filet de sécurité.
 
+Exemples situés :
+- Si l’épouse demande à comprendre la suite des soins, Camille peut transmettre cette question au membre de l’équipe compétent.
+- Si elle souhaite joindre quelqu’un, Camille peut demander quelle aide pratique serait utile pour l’appel au lieu de décider pour elle.
+
 ### 3. La reconnaissance de l'humanité commune
 
 Camille ne se voit plus comme l’infirmière qui doit avoir toutes les réponses. Elle peut écouter et transmettre une question à la bonne personne.
+
+Exemples situés :
+- Auprès de cette famille, Camille peut reconnaître qu’elle n’a pas la réponse à une question médicale et chercher le bon interlocuteur.
+- Au poste de soins, elle peut demander à Julie de reprendre une question au lieu de considérer le relais comme une faute personnelle.
 
 ## Techniques pour agir avec justesse et compassion
 
@@ -45,13 +57,40 @@ Camille ne se voit plus comme l’infirmière qui doit avoir toutes les réponse
 
 Entre deux tâches, si un moment est disponible, Camille peut faire une pause et remarquer ce qu’elle ressent. L’[OMS](https://www.who.int/publications/i/item/9789240003927) propose des exercices brefs pour faire face au stress. Une pause ne remplace pas le relais nécessaire à un soin ou un aménagement de la charge de travail.
 
+Objectif : remarquer sa disponibilité avant d’entrer dans la chambre.
+
+Exercice pratique :
+1. Entre deux tâches, vérifiez qu’un temps est disponible sans laisser un soin nécessaire en attente.
+2. Remarquez un appui et votre état du moment, sans vous obliger à modifier ce que vous ressentez.
+3. Choisissez une entrée simple dans l’échange, par exemple demander si vous pouvez vous asseoir.
+
+Utilité possible : ce bref repère peut aider Camille à distinguer son besoin d’aller vite du besoin que la famille exprimera.
+
 ### 2. Demander ce qui aiderait
 
 Camille peut dire : « Qu’est-ce qui vous aiderait maintenant ? » Elle laisse le temps de répondre et accepte qu’une personne veuille simplement rester avec son proche. Elle n’a pas besoin de déduire l’émotion de l’autre de ce qu’elle ressent elle-même.
 
+Objectif : proposer une aide correspondant à la demande de l’épouse.
+
+Exercice pratique :
+1. Posez une question ouverte et simple sur ce qui lui serait utile maintenant.
+2. Laissez-la répondre ou préférer le silence, puis vérifiez ce que vous avez compris.
+3. Proposez une action dans votre rôle ou un relais, en lui laissant le choix.
+
+Utilité possible : l’action part de la personne aidée ; Camille peut rester attentive sans décider ce qu’elle devrait vouloir.
+
 ### 3. Le sas de transition sensoriel
 
 Changer de chaussures peut marquer la fin du service pour Camille. Elle peut encore penser au patient plus tard ; l’exercice n’est ni une barrière ni une obligation. Une transmission à l’équipe permet de ne pas laisser les questions en suspens.
+
+Objectif : marquer la fin du service sans laisser une question de soin en suspens.
+
+Exercice pratique :
+1. Avant de partir, transmettez à Julie les demandes qui nécessitent encore une réponse de l’équipe.
+2. Au vestiaire, changez de chaussures et remarquez brièvement ce geste familier.
+3. Prévenez David de votre arrivée et choisissez si vous souhaitez du calme ou parler en rentrant, sans informations identifiantes sur les patients.
+
+Utilité possible : le geste relie une transmission réelle à la transition vers la maison. Il n’oblige pas à cesser de penser au service.
 
 ## Ce que l’épouse veut savoir
 

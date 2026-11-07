@@ -29,29 +29,53 @@ Thomas se souvient des comptes tenus par ses parents. Ce souvenir l’aide à fo
 
 ### 1. Le sacrifice de soi systématique
 
-Chez les personnes qui, comme Thomas, ont une tendance au sacrifice de soi et au besoin de validation, la culpabilité financière se traduit par une incapacité à dépenser pour leur propre bien-être. Chaque achat personnel est perçu comme un vol commis au détriment du foyer ou des projets communs. Thomas peut ainsi passer des heures à comparer le prix de chaussures de course, indispensables pour son jogging matinal, pour finir par ne rien acheter du tout, se sentant coupable de dépenser cent euros pour son seul plaisir. Cette manifestation crée un déséquilibre où l'individu s'oublie totalement pour éviter de ressentir le malaise de la dépense.
+Thomas peut traiter une dépense personnelle comme si elle retirait nécessairement quelque chose au foyer. Le budget peut imposer de vrais choix ; le sentiment de faute ne permet pas de connaître à lui seul la marge disponible ou la nécessité de l’achat.
+
+Il peut ainsi comparer longtemps des chaussures de course sans décider s’il doit remplacer les siennes ni ce qu’il peut y consacrer. Dans le rayon du café, il peut aussi hésiter à garder le paquet qu’il souhaite partager avec Émilie avant d’examiner le stock et le prix. Ces deux dépenses ne sont pas identiques. Elles demandent des informations et un accord éventuel, plutôt qu’un jugement général sur son égoïsme.
 
 ### 2. L'évitement et la procrastination budgétaire
 
-La culpabilité peut mener à une forme de paralysie. Plutôt que de faire face à la réalité des chiffres, on évite de regarder son compte en banque. Pour Thomas, ouvrir l'application de sa banque déclenche une anxiété sourde. Il a peur d'y voir le reflet de ses prétendus échecs, comme n'avoir pas assez mis de côté pour le projet de parentalité avec Émilie, ou avoir trop dépensé pour un livre d'histoire rare le mois dernier. Cet évitement est un mécanisme de défense pour ne pas affronter le sentiment d'indignité qui surgit face aux chiffres. On préfère l'ignorance à la confrontation avec ce que l'on perçoit comme une faute morale.
+La crainte de se juger devant les chiffres peut conduire Thomas à différer leur consultation. Cette réponse ne prouve ni mécanisme de défense particulier ni cause familiale unique. Elle peut laisser une question pratique sans réponse.
+
+Il peut éviter de regarder ce qui a réellement été mis de côté pour le projet commun, puis continuer à s’en croire responsable sans chiffre précis. Il peut aussi repousser la vérification du prix d’un livre d’histoire qu’il a acheté, en craignant d’y trouver la preuve d’un manque de sérieux. Dans les deux cas, la dépense et le jugement sur soi se mélangent. Les séparer rend possible un examen du budget réel.
 
 ### 3. Le besoin de justification permanente
 
-Une autre manifestation fréquente est la nécessité de justifier chaque dépense auprès de son entourage, même quand cela n'est pas demandé. Thomas se surprend souvent à expliquer longuement à Émilie pourquoi il a dû acheter un nouveau cartable pour ses cours au lycée, listant tous les défauts de l'ancien. Il cherche une validation extérieure pour apaiser sa tension intérieure. Dans son esprit, si l'autre valide l'achat, la culpabilité s'atténue. C'est une extension de son rôle de sauveur et de sa peur de décevoir, car il veut prouver qu'il reste quelqu'un de raisonnable et de dévoué, malgré la transaction financière.
+Thomas peut chercher une approbation sur une dépense même lorsqu’Émilie ne la lui demande pas. Un échange sur les finances communes reste utile ; il devient plus lourd si chaque achat est présenté comme un procès où il doit démontrer qu’il est raisonnable.
+
+Pour un cartable de cours, il peut énumérer tous les défauts de l’ancien avant de dire le montant. Pour le café, il peut préparer une longue défense de la marque au lieu de demander ce qu’ils souhaitent garder dans leurs courses. Le premier achat concerne son équipement, le second un usage partagé. Une validation peut le soulager un moment sans remplacer la discussion des règles qu’ils veulent réellement appliquer.
 
 ## Techniques pour agir face à la culpabilité financière
 
 ### 1. Identifier ses scripts financiers hérités
 
-Thomas note une phrase qu’il entendait chez lui à propos de l’argent. Il regarde ensuite à quels besoins cette règle répondait à l’époque et à quoi elle pourrait lui servir, ou non, maintenant.
+L’objectif est d’examiner une phrase familiale dans la situation actuelle, sans en faire l’origine certaine de toutes ses décisions.
+
+1. Thomas note la règle qui lui revient devant le café, avec les mots dont il se souvient, sans chercher un souvenir plus ancien ou plus précis.
+2. Il distingue ce qu’il sait des contraintes d’alors et du budget d’aujourd’hui. Une information manquante peut rester inconnue ; il n’a pas à imaginer ce que ses parents pensaient.
+3. Il choisit la question actuelle à vérifier : prix, stock déjà au placard ou engagement pris avec Émilie. Il peut conserver, adapter ou laisser de côté la règle selon ce qu’elle permet ici.
+
+Cette réflexion relie un souvenir à un choix présent. Elle ne conclut ni que la règle était mauvaise ni que le budget permet forcément l’achat.
 
 ### 2. Discuter de la marge pour les dépenses personnelles
 
-Si leur budget laisse une marge, Thomas et Émilie peuvent convenir d’un montant dont chacun dispose pour ses dépenses personnelles, avec des règles claires pour les dépenses communes. L’idée est d’éviter de justifier chaque café, pas de cacher des dépenses.
+Thomas et Émilie peuvent chercher un accord compréhensible si leur budget laisse une marge. Le but est de réduire les autorisations implicites, pas de cacher des achats ou d’imposer une somme universelle.
+
+1. Choisir ensemble un moment pour regarder les dépenses et engagements communs avec les informations disponibles.
+2. Distinguer ce qu’ils souhaitent décider à deux et ce qui peut relever d’un choix personnel, puis préciser ce que chacun peut réellement engager.
+3. Convenir de quand reparler de cet accord si les moyens ou les projets changent. Une question précise peut être laissée à vérifier plutôt que résolue sous la pression du rayon.
+
+L’accord peut rendre les attentes plus lisibles. Il ne crée pas de ressources supplémentaires et un budget insuffisant peut demander un appui pratique adapté.
 
 ### 3. Pratiquer l'auto-compassion financière
 
-La culpabilité se nourrit d'un discours interne critique et sévère. La technique de l'auto-compassion, développée par la chercheuse Kristin Neff, consiste à se traiter avec la même gentillesse que l'on traiterait un ami. Quand Thomas ressent cette oppression au moment de payer, il peut se dire intérieurement qu'il est normal de ressentir une tension car il a appris que l'argent était une ressource rare, mais qu'aujourd'hui, cet achat est cohérent avec sa vie. L'exercice consiste à remplacer le mot faute par le mot choix. On ne commet pas une faute en achetant du café de qualité, on fait un choix conscient qui honore le goût de sa compagne et le plaisir de partager un moment ensemble.
+Thomas peut se parler avec moins de dureté pendant une hésitation. Cela ne consiste pas à déclarer toute dépense justifiée ni à attribuer son émotion uniquement à l’enfance.
+
+1. Relever la phrase accusatrice, par exemple « acheter ce café fait de moi quelqu’un d’égoïste », et nommer l’hésitation qu’elle accompagne.
+2. La remplacer par une description : « Je veux choisir sans négliger notre budget. Je dois regarder ce qui reste et ce que nous avons convenu. » Il peut garder des mots plus simples s’il préfère.
+3. Revenir à l’information utile, puis acheter, choisir une autre option ou différer. La décision peut rester inconfortable sans devoir être répétée pour obtenir une assurance parfaite.
+
+Cette parole évite d’ajouter une condamnation personnelle à la vérification. Elle ne remplace pas les comptes ni la discussion avec Émilie.
 
 ## Un seul paquet dans le panier
 

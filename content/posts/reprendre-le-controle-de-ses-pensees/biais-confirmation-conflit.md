@@ -20,47 +20,74 @@ Antoine parle de délai et tourne une page. Djamila lui rappelle qu’il est ent
 Elle sort boire un verre d’eau. Son téléphone s’allume sous son pouce. Le dessin de dragon qu’Adam lui a montré le matin, sur la table du salon, s’affiche encore. Elle retourne à la salle avec le verre à moitié plein. Antoine a laissé le dossier ouvert. Djamila lui montre enfin la ligne. Elle ne sait toujours pas s’ils sont d’accord sur la suite. Elle voudrait entendre précisément ce qui lui manque pour se prononcer.
 
 ## Définition du biais de confirmation
-
 Le biais de confirmation désigne la tendance à rechercher ou interpréter les informations d’une manière qui favorise une idée déjà présente. Dans une [expérience de 1960](https://journals.sagepub.com/doi/10.1080/17470216008416717), Peter Wason demandait aux participants de découvrir une règle qui décrivait des suites de nombres. Beaucoup s’en tenaient à des essais compatibles avec leur idée de départ. Une tâche de raisonnement ne permet toutefois pas de conclure qu’une personne qui soupçonne une violence se trompe.
 
 Djamila a appris à repérer très vite certains signes de tension avec Samir. Au travail, un ton sec lui rappelle ces moments. Elle cherche ce qui permet de distinguer la remarque qu’elle vient d’entendre de l’intention qu’elle prête à Antoine, tout en gardant la possibilité d’un problème réel.
 
 ## Manifestations du biais en situation de conflit
-
 ### 1. La perception sélective des preuves
+
 Dans un conflit, le biais de confirmation pousse à remarquer surtout les éléments qui confirment l'idée que l'autre a tort ou souhaite nuire. Par exemple, lorsqu'Antoine affirme qu'il n'avait pas reçu le courriel, Djamila retient uniquement le fait que sa voix était sèche et oublie la possibilité d'une erreur technique. La perception sélective transforme des indices ambigus en preuves définitives. Concrètement, cela signifie garder en mémoire un mot prononcé il y a six mois par un collègue et l'utiliser comme preuve d'une intention générale, tout en effaçant les gestes de soutien ou les éléments neutres.
 
 Avec Samir, surveiller son humeur a parfois aidé Djamila à éviter une scène. Aujourd’hui, le même type d’attention peut la pousser à tirer une conclusion rapide d’un indice ambigu. La présence de ce réflexe ne signifie pas que l’environnement professionnel est sûr ou dangereux.
 
-### 2. Lecture intentionnelle hostile
-Le biais de confirmation alimente la tendance à attribuer des motivations négatives aux actions des autres. En situation de conflit, on commence à supposer que les remarques sont intentionnelles, même quand elles sont neutres. Pour Djamila, qui a survécu à des manipulations, il est facile de traduire un retrait de parole d'Antoine en tentative de domination. Le cerveau remplit rapidement le vide d'information par la version la plus menaçante.
+Exemples situés :
 
-Un silence après une proposition devient une stratégie pour déstabiliser. Une erreur administrative se transforme en sabotage. Cette lecture réduit la capacité à poser des questions et à vérifier les faits, car la conclusion est déjà prête.
+- Le ton sec d’Antoine peut prendre plus de place que la question précise qu’il pose sur le dossier.
+- Djamila peut ne retenir d’un échange que l’interruption, en laissant de côté un élément écrit utile ; l’interruption reste néanmoins un fait à examiner.
+
+### 2. Lecture intentionnelle hostile
+
+Djamila peut attribuer une volonté de domination à un silence ou à une question d’Antoine. Cette intention reste à distinguer des paroles entendues et de leurs conséquences. Une interprétation peut être trop rapide ou être soutenue par des faits répétés : la vérification n’exige pas de présumer que la remarque est neutre.
+
+Exemples situés :
+
+- Un silence après sa proposition peut être interprété comme une tentative de domination avant d’en connaître la raison.
+- Un document annoncé manquant peut devenir dans son esprit la preuve d’un sabotage, alors qu’il faut encore vérifier la transmission et prendre au sérieux une éventuelle répétition.
 
 ### 3. Recherche d'alliés et isolement
-En conflit, il est courant de chercher des personnes qui corroborent notre version des faits. Ce comportement crée des cercles d'alliés qui amplifient la conviction initiale. Djamila peut se tourner vers une collègue qui partage sa méfiance et ensemble elles accumulent anecdotes et remarques qui renforcent la croyance d'être constamment jugées. Ce renforcement social donne l'impression d'avoir raison à plusieurs et rend plus difficile l'ouverture à d'autres interprétations.
 
-Après une réunion tendue, Djamila échange avec une collègue qui évoque ce type d'attitude déjà constaté chez le coordinateur. Ces récits se transforment en dossier mental et diminuent l'incitation à tester une autre hypothèse.
+Djamila peut chercher des échanges qui confirment son interprétation et cesser d’examiner ce qui manque encore pour la préciser. Chercher un appui n’est pourtant pas une erreur : un récit concordant peut signaler un problème réel. Elle peut distinguer le soutien dont elle a besoin, les observations rapportées et les conclusions encore à examiner.
+
+Exemples situés :
+
+- Elle pourrait chercher uniquement une collègue qui confirme qu’Antoine veut nuire, au lieu de préciser ce qu’elle attend comme appui.
+- Plusieurs anecdotes concordantes peuvent être reprises comme une conclusion certaine ; des récits répétés restent aussi des informations à faire examiner, pas à écarter d’emblée.
 
 ## Techniques pour contrer le biais de confirmation
+Ces propositions sont facultatives et ne remplacent pas une réponse de protection lorsqu’elle est nécessaire.
 
 ### 1. Technique du contre-échantillonnage
-Si une situation est ambiguë et que vous pouvez prendre du recul, notez ce que vous avez observé, les explications possibles et les éléments qui permettraient de les départager. Une colonne peut rester vide : l’exercice ne demande pas de fabriquer des arguments ou d’ignorer des faits de violence.
 
-À la suite d'une remarque d'Antoine, Djamila inscrit voix sèche, a coupé la parole dans la colonne pour, puis cherche dans la colonne contre : il a approuvé ma dernière note la semaine passée, il a un stress administratif aujourd'hui, il peut y avoir eu un malentendu sur l'heure. Cet exercice l'aide à ralentir l'accumulation automatique de preuves et à évaluer la situation de façon plus nuancée. Le contre-échantillonnage brise l'algorithme mental par lequel on ne collecte que les cas confirmants.
+Objectif : Examiner une situation ambiguë sans fabriquer de preuves rassurantes.
+
+1. Noter l’observation précise et l’idée qu’elle semble confirmer.
+2. Ajouter les explications possibles en les marquant comme hypothèses, et les faits connus qui les soutiennent ou les limitent ; une zone peut rester vide.
+3. Choisir l’information qui permettrait de les départager, sans exiger une explication bienveillante d’un fait de violence.
+
+Utilité possible : Le relevé peut montrer ce qui reste inconnu. Une approbation antérieure n’annule pas une humiliation et ne démontre pas la sécurité actuelle.
 
 ### 2. Questionnement socratique ciblé
-Transformez vos pensées automatiques en hypothèse testable. Pour chaque pensée accusatrice, formulez trois questions courtes qui peuvent affaiblir ou renforcer la croyance. Par exemple : Quelle preuve directe ai-je que cette équipe veut me nuire ? Quelle autre explication existe pour ce comportement ? Comment vérifier rapidement cette information ?
 
-Djamila entend dans sa tête qu'Antoine la remet en cause volontairement. Elle pose les questions : Quand l'a-t-il fait auparavant de façon répétée ? A-t-il montré aussi des signes de soutien récemment ? Qui peut me confirmer le calendrier des échanges ? Puis elle vérifie les e-mails, relit les comptes rendus et demande à Amina un regard extérieur. Les réponses la poussent à nuancer son jugement. Ce questionnement transforme un sentiment en une interrogation empirique, ce qui diminue l'autorité de la conviction initiale.
+Objectif : Transformer une attribution d’intention en question limitée et vérifiable.
+
+1. Écrire la conclusion qui vient, par exemple « il cherche à me prendre en défaut ».
+2. Demander quels mots ou actes répétés la soutiennent et quelle information manque sur cet épisode.
+3. Vérifier une trace accessible ou demander un appui pour examiner la situation, sans exposer de données confidentielles de la bénéficiaire.
+
+Utilité possible : Cette préparation peut faire apparaître une question concrète. Elle n’oblige pas à discuter directement avec la personne si cela expose à des représailles.
 
 ### 3. Script de reformulation et demande de précisions
-Lors d'un échange conflictuel, utilisez un script simple en trois étapes : reformulez en une phrase neutre ce que vous avez entendu, demandez une précision factuelle, puis proposez une action concrète pour clarifier.
 
-Djamila peut dire : « Tu dis que le dossier n’était pas conforme. Tu parles de quelle pièce ? » Antoine peut préciser, éluder ou contester sa question. Demander ce qui manque donne un point à vérifier. Si le refus ou le dénigrement se répète, cela reste un fait à prendre au sérieux.
+Objectif : Faire préciser la demande d’Antoine lorsque l’échange est possible.
+
+1. Reformuler les mots entendus sans leur attribuer une intention : « tu demandes ce qui manque au dossier ».
+2. Poser une question factuelle sur la pièce ou le point concerné.
+3. Proposer la suite correspondante ou noter le refus de préciser et chercher un relais si le dénigrement persiste.
+
+Utilité possible : Le script peut clarifier un point de travail. La réaction d’Antoine reste la sienne ; une bonne formulation ne protège pas à elle seule d’agissements abusifs.
 
 ## Ce qu’Antoine a demandé
-
 Après la réunion, Djamila ouvre son carnet à la page du 19 mars. Elle relit l’heure et les quelques mots qu’elle a notés après l’entretien interrompu. Aujourd’hui, elle écrit la question d’Antoine aussi fidèlement qu’elle le peut, puis, sur une autre ligne, la réponse qu’elle s’est attendue à entendre.
 
 Dans le couloir, Antoine la rappelle. Elle lui demande de lui montrer la pièce qui lui manque. Il désigne un document qu’elle peut aller chercher. Ils sont encore en désaccord sur la marche à suivre. Djamila ne jette aucune des deux notes.

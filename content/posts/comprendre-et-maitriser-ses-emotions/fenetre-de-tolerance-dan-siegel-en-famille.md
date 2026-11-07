@@ -31,13 +31,28 @@ Dans des ressources d’accompagnement, la « fenêtre de tolérance », associ�
 
 Isabelle entend la réponse de Théo et remarque sa nuque tendue. Son premier élan est de répliquer aussitôt. Elle peut reconnaître cet élan sans conclure que son cerveau est passé dans un état distinct.
 
+Exemples concrets
+
+- Isabelle commence à demander moins de bruit avec une voix déjà plus forte.
+- La boîte renversée lui paraît urgente alors qu’elle n’a pas encore vérifié ce qui s’est passé.
+
 ### Elle peut aussi avoir besoin de silence
 
 Les jours où elle rentre épuisée, elle a parfois peu d’énergie pour parler. La fatigue, la contrariété, le souhait d’être seule ou un malaise peuvent avoir des effets semblables dans une conversation. Elle peut dire ce qu’elle ressent ou se donner du temps avant de répondre.
 
+Exemples concrets
+
+- Après le collège, elle peut vouloir poser son sac avant de parler de la répétition de Théo.
+- Sur le canapé, ne pas relancer aussitôt la dispute peut correspondre à un besoin d’espace.
+
 ### Les réactions de chacun peuvent s’influencer
 
 Parler calmement et respecter une demande d’espace peut rendre la suite plus facile. Isabelle ne peut pas prévoir l’état de Théo à partir du sien. Elle peut lui demander s’il préfère parler plus tard et entendre ce qu’il en dit.
+
+Exemples concrets
+
+- Une réplique forte d’Isabelle peut prolonger l’échange tendu sans révéler un état biologique distinct.
+- Théo peut choisir de ramasser les céréales puis de s’asseoir sans être prêt à parler.
 
 ## Trois façons de reprendre une discussion familiale
 
@@ -45,13 +60,43 @@ Parler calmement et respecter une demande d’espace peut rendre la suite plus f
 
 Isabelle connaît l’envie de parler plus fort quand elle se crispe. Elle peut s’en servir pour vérifier si elle souhaite continuer maintenant ou revenir au sujet plus tard.
 
+**Objectif :** Repérer une limite de disponibilité dans la conversation.
+
+Exercice pratique
+
+- Repérez dans cet échange l’envie de répondre plus fort.
+- Demandez-vous si vous pouvez écouter maintenant ou souhaitez une pause.
+- Annoncez votre choix sans nommer l’état psychologique de Théo.
+
+**Utilité possible :** La pause peut éviter de répondre immédiatement à l’élan de hausser le ton, sans promettre l’apaisement.
+
 ### 2. Essayer un repère concret
 
 Elle peut sentir le contact de la tasse ou regarder un objet autour d’elle. Ce geste lui laisse un instant avant de répondre. Elle peut aussi choisir de se lever, de boire de l’eau ou de s’asseoir, selon ce qui lui convient.
 
+**Objectif :** Se donner un instant avec un repère librement choisi.
+
+Exercice pratique
+
+- Choisissez la tasse, un objet visible ou le fait de vous asseoir comme repère.
+- Prenez l’instant dont vous avez besoin avant de répondre.
+- Laissez ce repère s’il vous gêne et choisissez une autre manière de faire une pause.
+
+**Utilité possible :** Un repère simple peut servir à marquer une transition ; il ne mesure pas une fenêtre cérébrale.
+
 ### 3. Convenir d’un moment pour reparler
 
 « Je suis fatiguée et j’ai besoin d’une pause. On pourra reprendre quand tu voudras en parler », dit-elle. Lorsque le sujet demande une décision, elle peut proposer un moment concret. Théo garde lui aussi la possibilité de dire ce dont il a besoin.
+
+**Objectif :** Préparer une reprise qui respecte les deux participants.
+
+Exercice pratique
+
+- Dites que vous venez de rentrer et avez besoin d’un moment.
+- Si une décision doit être prise, proposez un horaire et demandez celui qui convient à Théo.
+- Au moment choisi, vérifiez s’il souhaite reprendre plutôt que de supposer sa disponibilité.
+
+**Utilité possible :** Un accord de reprise peut rendre l’attente plus claire sans obliger Théo à parler aussitôt.
 
 ## De l’autre côté du canapé
 

@@ -37,11 +37,15 @@ La honte en colocation prend souvent la forme d'une dissimulation systématique 
 
 ### 2. La comparaison sociale ascendante
 
-Vivre avec d'autres personnes nous expose constamment à leurs réussites, leurs habitudes de consommation et leur aisance. Lucas se compare sans cesse à Maxime, dont la famille semble ne jamais s'inquiéter des factures. Cette comparaison ascendante alimente un sentiment d'infériorité. Chaque objet acheté par ses colocataires, chaque sortie proposée devient un rappel de ce qu'il n'a pas. La honte se nourrit de ce décalage perçu, poussant l'individu à se replier sur lui-même ou, au contraire, à surcompenser par une arrogance défensive.
+Les dépenses visibles des colocataires deviennent pour Lucas une mesure de sa place parmi eux. Il connaît son propre solde et l’aide de Sandrine, mais pas tout le budget de Maxime ou de Romain. La différence de moyens peut être réelle ; elle ne décrit pas à elle seule la qualité de leur amitié ou les capacités de Lucas.
+
+Devant le prix du chalet proposé par Maxime, il pourrait conclure « je ne suis pas au niveau » au lieu de constater qu’il ne peut pas financer ce séjour. Devant une nouvelle sortie proposée dans le salon, il pourrait également supposer que tous les autres peuvent payer sans effort parce qu’ils ne parlent pas du coût. Ces deux comparaisons mélangent une dépense concrète, des informations manquantes et un jugement sur soi.
 
 ### 3. Le retrait émotionnel et le secret
 
-Pour se protéger de la possibilité d'être jugé, celui qui éprouve de la honte en colocation finit par s'isoler tout en étant présent physiquement. Lucas sourit, participe aux blagues, mais ne partage jamais ses doutes réels. Lucas se sent parfois seul avec cette inquiétude. Il peut aussi garder des informations privées sans avoir à s’en justifier. Plus Lucas cache sa situation à ses amis, plus il se sent étranger à leur groupe. Ce retrait crée une barrière invisible qui empêche toute connexion authentique, transformant la colocation en un théâtre permanent où il joue un rôle épuisant.
+Lucas peut souhaiter garder ses finances privées et avoir malgré cela besoin de dire qu’un programme ne lui convient pas. La difficulté apparaît lorsque cacher devient la seule réponse possible et l’oblige à soutenir un récit qui lui coûte.
+
+Il invente ainsi une mission freelance pour expliquer son absence au ski, puis part dans la cuisine au lieu de rester dans la conversation. Ce sont deux gestes distincts : le premier remplace sa contrainte par un motif prestigieux ; le second lui donne un abri momentané mais laisse les colocataires sans information sur une autre sortie possible. Il peut préserver sa vie privée sans devoir prétendre que tout lui convient.
 
 ## Techniques pour agir face à la honte
 
@@ -49,15 +53,33 @@ Il est possible de briser le cycle de la honte en changeant son rapport à cette
 
 ### 1. La technique de la nomination émotionnelle
 
-Lucas peut se dire : « Je ressens de la honte à l’idée de parler du prix. » Le [guide de l’OMS sur le stress](https://www.who.int/publications/i/item/9789240003927) propose de remarquer et de nommer un ressenti. Cela ne change pas son budget et ne l’oblige pas à en parler.
+L’objectif est de distinguer le sentiment de honte, le jugement sur soi et le prix réellement demandé. Le [guide de l’OMS sur le stress](https://www.who.int/publications/i/item/9789240003927) propose de remarquer et de nommer un ressenti ; il ne résout pas la contrainte financière.
+
+1. Devant la proposition de chalet, Lucas peut noter : « Je ressens de la honte à l’idée de parler du prix », sans se traiter de personne honteuse.
+2. Il sépare deux lignes : « ce séjour dépasse mon budget » et « j’imagine perdre ma place dans le groupe ». La seconde est sa crainte, pas une réponse déjà donnée par Maxime.
+3. Il choisit une suite possible : demander le coût total, décliner ou remettre sa réponse à un moment où il peut regarder ses comptes.
+
+La note lui permet de répondre à un problème identifiable. Elle ne l’oblige ni à se calmer ni à révéler le virement de sa mère.
 
 ### 2. Le partage de la vulnérabilité sélective
 
-S’il le souhaite, Lucas peut dire : « Le ski dépasse mon budget ce mois-ci. On peut se voir autrement ? » Il peut aussi refuser sans parler d’argent. Une réaction bienveillante est possible, mais personne ne lui doit de révéler sa situation.
+Lucas cherche à formuler une limite sans devoir raconter toutes ses finances. Il peut choisir Romain, avec qui un échange au calme est possible, ou garder l’information pour lui.
+
+1. Déterminer ce qu’il veut transmettre : le ski est trop cher ce mois-ci. Le montant de son solde et les efforts de ses parents peuvent rester privés.
+2. Demander si Romain a un moment, puis dire la phrase choisie : « Je ne pourrai pas payer le ski. Une sortie moins coûteuse me conviendrait. » Il peut également se limiter à « je passe cette fois ».
+3. Écouter la réponse et préciser sa préférence sans promettre une autre dépense. Si l’échange devient indiscret, il peut dire qu’il ne souhaite pas donner davantage de détails.
+
+Cette démarche rend la limite connue et ouvre éventuellement une autre proposition. Elle ne garantit pas l’accord ni la bienveillance de l’interlocuteur.
 
 ### 3. La réévaluation des standards de réussite
 
-La honte se nourrit de critères de succès rigides et souvent externes. Lucas peut travailler sur sa boussole interne en listant ses propres valeurs, indépendamment de celles de son école ou de ses colocataires. L'exercice consiste à écrire trois choses dont il est fier et qui ne sont pas liées à l'argent ou au prestige social. Il peut s'agir de sa persévérance, de son soutien envers ses parents ou de ses compétences sportives. En renforçant son estime de soi globale, il rend son identité moins vulnérable aux fluctuations de son compte en banque.
+Il s’agit de remettre le budget à sa place parmi plusieurs aspects de sa vie, sans remplacer une compétition financière par une compétition de qualités morales.
+
+1. Lucas choisit une action réelle sans rapport avec le prix du chalet : reprendre une page de son rapport, aider un coéquipier au basket ou répondre à Sandrine. Il n’a pas besoin d’un exploit.
+2. Il précise ce qui compte pour lui dans cette action, par exemple apprendre, participer ou garder le lien, plutôt que d’écrire seulement « je suis quelqu’un de bien ».
+3. Il choisit une activité compatible avec ses moyens pour le week-end et peut la proposer aux colocataires. Leur disponibilité reste à vérifier.
+
+L’exercice lui donne un autre critère pour organiser ce temps libre. Il ne rend pas l’écart de ressources imaginaire et ne promet pas de faire disparaître la honte.
 
 ## Ce que coûte le week-end
 

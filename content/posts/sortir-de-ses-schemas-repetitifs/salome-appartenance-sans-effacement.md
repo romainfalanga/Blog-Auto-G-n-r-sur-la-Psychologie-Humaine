@@ -39,17 +39,32 @@ La réparation du banc donne à Salomé une utilité immédiatement visible. Ell
 
 Elle peut proposer une réparation un autre jour si elle le veut réellement. Elle peut aussi garder son métier hors de cette activité. Les deux décisions restent possibles. Le groupe a le droit de demander et elle le droit de répondre. Ce qui mérite attention est la réaction au refus : accepte-t-on une autre contribution, précise-t-on les besoins communs ou laisse-t-on entendre que sa présence n’a de valeur qu’à travers le service attendu ?
 
+Deux exemples dans cette situation :
+
+- Le sachet de graines reste dans sa main tandis qu’on lui apporte déjà un tournevis pour le banc.
+- Elle cherche une vis pour être utile, puis réalise qu’elle n’a toujours pas demandé comment effectuer son premier semis.
+
 ### Deviner des conditions que personne n’a formulées
 
 Salomé entend « reviens samedi » et imagine une obligation de présence chaque semaine. Elle ne connaît pas encore les usages du jardin. Certaines personnes viennent régulièrement, d’autres selon leurs disponibilités. Une invitation répétée peut signifier qu’on apprécie sa présence, sans exiger un abonnement à tous les créneaux. Elle peut demander le fonctionnement au lieu de traiter sa première interprétation comme un règlement établi.
 
 Il peut aussi exister de vraies conditions d’engagement. Les connaître lui permettra de choisir une participation adaptée. Si le jardin nécessite un créneau fixe, elle pourra dire ce qu’elle peut offrir et examiner une autre formule. Le but n’est pas d’obtenir une appartenance sans aucune contrainte. Il est de distinguer les règles explicites des attentes supposées, puis de vérifier si le cadre correspond à ses moyens et à ses envies.
 
+Deux exemples dans cette situation :
+
+- L’invitation à revenir samedi devient dans sa tête une promesse hebdomadaire avant qu’elle connaisse les créneaux.
+- Elle commence à compter des heures de réparation comme une condition d’entrée alors que plusieurs membres peuvent s’occuper du banc.
+
 ### Renoncer aux différences pour garder une ambiance accueillante
 
 Au repas partagé, Salomé n’est pas d’accord avec une proposition de plantation. Elle pense au risque que des bacs prennent trop de place dans le passage. Elle hésite à le dire parce qu’elle vient juste d’être accueillie. Son désaccord lui semble presque impoli. Elle imagine qu’une nouvelle participante doit d’abord approuver avant de pouvoir apporter une observation. Cette règle rend sa présence plus lisse et moins réelle.
 
 Une remarque peut être formulée avec curiosité : elle peut demander comment le passage restera accessible. Elle n’a pas besoin de posséder toutes les connaissances du jardin pour poser cette question. Le groupe peut ensuite expliquer les contraintes ou modifier le plan. Appartenir ne signifie pas obtenir toujours gain de cause. Cela signifie aussi pouvoir contribuer à la discussion sans que chaque différence menace automatiquement sa place.
+
+Deux exemples dans cette situation :
+
+- Au repas, elle garde pour elle sa question sur le passage entre les bacs afin de ne pas paraître exigeante dès sa première visite.
+- Elle pourrait approuver le dessin sans comprendre le chemin prévu pour les brouettes, en réservant son avis à un futur statut de membre confirmée.
 
 ## Trois techniques pour contribuer sans disparaître
 
@@ -61,6 +76,12 @@ Elle peut alors dire qu’elle souhaite revenir deux fois avant de choisir un en
 
 Pour essayer, demandez ce qui est attendu, à quelle fréquence et avec quelle possibilité de révision. Vous pouvez distinguer une visite, une aide ponctuelle et une responsabilité régulière. Ces trois formes ne demandent pas le même accord. Si le cadre reste flou malgré vos questions, accordez-vous du temps avant de promettre. L’intérêt pour un groupe ne doit pas vous conduire à remplir seule tous les blancs de son organisation.
 
+Pour passer à une action limitée :
+
+1. Demandez qui peut expliquer le fonctionnement et les tâches suivies.
+2. Distinguez une visite, une aide ponctuelle et un créneau régulier.
+3. Annoncez seulement l’engagement que vous pouvez choisir maintenant, puis précisez quand vous le reverrez.
+
 ### 2. Choisir une contribution et un souhait personnel
 
 Salomé propose de ranger le matériel de semis à la fin de la séance. Elle choisit une tâche utile, limitée et compatible avec sa découverte du jardin. Elle exprime aussi son souhait d’apprendre à reconnaître quelques plantes. Les deux informations évitent une entrée uniquement fondée sur le service : elle apporte quelque chose et reçoit une expérience qui l’intéresse. La réciprocité devient une circulation plutôt qu’un remboursement immédiat de l’invitation.
@@ -69,6 +90,12 @@ Cette distinction l’aide à garder un repère pendant la séance. Si elle se r
 
 Vous pouvez préparer une phrase qui associe contribution et limite : « Je peux aider au rangement aujourd’hui, mais je ne prends pas la réparation. J’aimerais aussi participer aux plantations. » L’autre peut alors discuter d’une proposition claire. Si une seule forme d’utilité est reconnue et que vos souhaits sont systématiquement écartés, le contexte mérite d’être réévalué. L’ajustement ne peut pas toujours venir d’une meilleure façon de demander.
 
+Pour passer à une action limitée :
+
+1. Nommez l’activité que vous souhaitez découvrir : ici les semis.
+2. Proposez une tâche limitée, comme ranger le matériel à la fin.
+3. Si une autre demande vous détourne entièrement de votre choix, confirmez votre limite ou décidez librement de modifier votre contribution.
+
 ### 3. Tester une différence ordinaire et regarder son accueil
 
 Salomé choisit de poser sa question sur le passage entre les bacs. Elle ne commence pas par s’excuser d’être nouvelle ni par affirmer qu’elle n’y connaît rien. Elle demande comment le plan tient compte du cheminement avec les brouettes. Une personne lui montre le croquis et reconnaît qu’un espace pourrait être réduit. Le groupe déplace un bac sur le dessin. La différence devient une contribution au lieu d’une menace pour l’ambiance.
@@ -76,6 +103,12 @@ Salomé choisit de poser sa question sur le passage entre les bacs. Elle ne comm
 Le résultat pourrait être différent sans devenir un rejet. Le groupe pourrait expliquer pourquoi la proposition ne peut pas être retenue. Salomé regarderait alors la manière dont sa question est accueillie : écoute, explication, moquerie ou fermeture. Elle distingue sa place de l’adoption de son idée. Elle n’a pas besoin d’être toujours suivie pour appartenir, mais elle a besoin que sa parole puisse exister sans sanction disproportionnée.
 
 Après la visite, elle fait un bilan simple : quel moment l’intéresse, quelle limite est respectée, quelle attente doit encore être clarifiée ? Elle évite de juger tout le groupe à partir d’un seul détail favorable. Elle peut revenir et observer davantage. Elle peut aussi choisir de ne pas poursuivre si le cadre ne lui convient pas. Une appartenance choisie inclut la possibilité d’évaluer le lieu, et pas seulement de se demander si le lieu l’accepte.
+
+Pour passer à une action limitée :
+
+1. Choisissez une question liée à la séance, par exemple l’accès entre les bacs.
+2. Posez-la sans vous attribuer une expertise que vous n’avez pas.
+3. Regardez l’écoute et l’explication reçues, puis décidez si le cadre vous convient, même si votre proposition n’est pas retenue.
 
 ## La terre dans les dents du râteau
 

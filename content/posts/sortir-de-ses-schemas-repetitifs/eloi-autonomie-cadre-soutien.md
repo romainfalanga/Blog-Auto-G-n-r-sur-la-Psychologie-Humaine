@@ -39,11 +39,15 @@ Un cadre soutenant définit les exigences nécessaires, les marges et les appuis
 
 Cela ne signifie pas qu'il faut réduire indéfiniment ses décisions à deux options préparées par quelqu'un d'autre. La marge peut s'élargir avec les compétences et les situations. Éloi peut aussi proposer une autre piste et expliquer son intérêt. Le cadre sert de base à la discussion. Il n'a pas à devenir un système où chaque préférence personnelle doit recevoir l'accord d'un supérieur avant d'exister.
 
+Au foyer, accepter de préparer l’accueil sans savoir qui confirme le nombre de personnes poserait une autre difficulté : le choix est réel, mais une donnée manque pour l’exercer. Comme avec les fiches devant Cédric, Éloi peut demander le résultat attendu et le recours disponible. Le besoin de cadre ne se limite donc pas à une consigne technique de cuisine.
+
 ### Les règles et les préférences se mélangent
 
 Certaines consignes de cuisine correspondent à des exigences de sécurité, de qualité ou de coordination. D'autres concernent une manière personnelle de disposer un support ou d'expliquer une méthode. Éloi peut les entendre comme une seule catégorie d'ordres. Il ne sait plus ce qu'il doit appliquer strictement, ce qu'il peut adapter et ce qu'il peut questionner à un moment approprié.
 
 Demander la fonction d'une règle peut éclairer cette différence. La réponse peut aussi être qu'une décision appartient à un autre rôle. Comprendre la limite ne garantit pas qu'il l'appréciera. Il peut respecter une exigence nécessaire et discuter de son effet sur l'apprentissage dans un temps prévu. Si une consigne reste incohérente ou risquée, la clarification doit être adressée aux interlocuteurs compétents plutôt que compensée par une improvisation.
+
+À la réception, la référence différente exige l’avis d’Agnès selon le cadre de l’équipe : Éloi ne choisit pas de la valider seul. Pour son carnet d’apprentissage, il peut en revanche demander s’il peut disposer autrement sa propre note sans changer le document professionnel. La décision sur le produit et la présentation d’un support personnel ne doivent pas devenir deux interdictions indistinctes.
 
 ### Demander un appui semble annuler le choix
 

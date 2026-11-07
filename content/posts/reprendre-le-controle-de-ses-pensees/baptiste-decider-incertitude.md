@@ -35,13 +35,28 @@ Une fois les informations nécessaires obtenues, une part d’inconnu peut reste
 
 Baptiste place sur une même liste une rubrique mal comprise et la crainte qu’un collègue préfère une autre couleur. La première peut modifier la qualité des informations recueillies ; la seconde peut rester une préférence discutée ensuite. Les distinguer ne signifie pas mépriser les remarques de présentation. Il s’agit de regarder ce qu’elles changent pour l’objectif actuel. Une information utile à la décision répond à une question précise. Si chaque possibilité abstraite reçoit le même poids, la liste peut continuer de grandir sans aider à choisir ce qui mérite réellement une vérification.
 
+Exemples concrets
+
+- Une rubrique mal comprise et une couleur hypothétiquement déplaisante occupent la même liste de Baptiste.
+- Il traite la provenance des exemples, qui doit être vérifiée, comme une question aussi ouverte que le goût de chacun pour la mise en page.
+
 ### On essaie de prévoir la réaction avant de créer l’échange
 
 Baptiste aimerait savoir comment les équipes utiliseront la fiche sans leur en montrer une version imparfaite. Il peut imaginer des difficultés pertinentes, mais ses suppositions ne remplacent pas les observations des personnes concernées. Une proposition explicite peut fournir de meilleures informations qu’une nouvelle soirée à anticiper leurs réponses. Cela demande de présenter le document comme un travail à examiner, pas comme une décision déjà imposée. Les destinataires savent alors ce qui est attendu et les parties sur lesquelles ils peuvent réellement apporter une remarque. L’incertitude devient un motif de consultation plutôt qu’un obstacle à tout premier échange.
 
+Exemples concrets
+
+- Baptiste imagine la navigation des lecteurs sans leur montrer les deux supports.
+- Une nouvelle soirée à inverser les feuilles retarde la rencontre où Emmanuel pourrait chercher une information.
+
 ### Le sentiment de sécurité devient le seul critère d’arrêt
 
 Baptiste pense qu’il saura qu’il a assez réfléchi lorsqu’il se sentira complètement tranquille. Or une réponse factuelle peut laisser une inquiétude présente, et une impression de confiance peut exister malgré une information insuffisante. Il est utile de distinguer ces deux niveaux. Il peut vérifier les critères du travail, entendre une objection et conserver malgré cela une gêne. Cette gêne mérite d’être reconnue, mais elle ne donne pas à elle seule la liste des recherches encore nécessaires. À l’inverse, se sentir pressé ou lassé ne dispense pas d’une vérification qui concerne une conséquence réelle.
+
+Exemples concrets
+
+- Baptiste attend d’être entièrement tranquille avant de proposer le document.
+- La lassitude de comparer ne suffirait pas, à elle seule, à considérer la vérification de confidentialité comme faite.
 
 ## Trois pistes pour choisir sans demander une garantie totale
 
@@ -49,13 +64,31 @@ Baptiste pense qu’il saura qu’il a assez réfléchi lorsqu’il se sentira c
 
 Baptiste écrit ce qu’il doit faire maintenant : proposer un support de discussion à Patricia, avec une question pour les équipes. Il ne valide pas encore un nouveau fonctionnement. Il précise les exigences connues : les informations essentielles restent présentes, les exemples ne révèlent pas de données confidentielles et les procédures en vigueur continuent de s’appliquer. Ce cadre lui permet de vérifier les deux versions selon des critères communs. Il peut ensuite demander l’avis d’une personne compétente sur un point qui le dépasse. Dans une autre situation, ce travail pourrait révéler que la décision est plus engageante qu’imaginé et exige davantage d’information. L’exercice ne vise pas à choisir plus vite par principe, mais à ajuster la préparation à ce qui est réellement en jeu.
 
+Exercice pratique
+
+- Écrivez que la décision présente est une proposition de discussion, pas une procédure adoptée.
+- Relevez les exigences communes aux deux supports, dont la provenance des exemples.
+- Faites examiner par Patricia les points qui relèvent de sa validation avant l’envoi.
+
 ### 2. Demander quelle information changerait la proposition
 
 Baptiste choisit quelques questions utiles : les lecteurs trouvent-ils la date et le responsable du document ? Savent-ils où repérer le détail ? Une confusion sur ces points pourrait modifier la version. En revanche, connaître à l’avance toutes les préférences de chaque utilisateur n’est pas nécessaire pour organiser la première discussion. Il peut garder un espace pour ces remarques sans les résoudre seul. Se demander ce qui changerait effectivement l’action aide à reconnaître les recherches qui ne produisent plus qu’un apaisement temporaire. Cette distinction reste à revoir si une information nouvelle révèle un risque ou une contrainte. Il ne s’agit pas de s’interdire toute vérification supplémentaire une fois une liste arbitraire terminée.
 
+Exercice pratique
+
+- Choisissez une question de lecture susceptible de modifier la fiche, comme retrouver la date.
+- Séparez-la d’une préférence encore hypothétique sur les couleurs.
+- Préparez la rencontre qui permettra d’observer cette lecture sur un exemple fictif.
+
 ### 3. Présenter les hypothèses et le prochain moment de révision
 
 Avec sa proposition, Baptiste peut indiquer pourquoi il privilégie une version et ce qu’il souhaite encore apprendre. Il propose un échange où les utilisateurs chercheront une information à partir d’un exemple fictif, sans modifier les transmissions réelles. Le compte rendu permettra ensuite de choisir la suite dans le cadre prévu. Cette annonce évite que le document soit pris pour un résultat définitif. Elle protège aussi Baptiste de la nécessité de défendre chaque détail pour ne pas paraître s’être trompé. Réviser une hypothèse devient une partie attendue du travail. Lorsque l’incertitude concerne un domaine spécialisé, le moment de révision doit inclure les interlocuteurs compétents ; un simple engagement personnel à rester souple ne remplace pas leur validation.
+
+Exercice pratique
+
+- Indiquez pourquoi vous proposez le résumé séparé.
+- Nommez la navigation et les intitulés comme points encore ouverts.
+- Convenez avec Patricia du bilan où les retours seront examinés dans le cadre prévu.
 
 ## Un résumé à faire lire
 

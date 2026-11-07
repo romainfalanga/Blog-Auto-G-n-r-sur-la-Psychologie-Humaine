@@ -30,31 +30,70 @@ Un sentiment de décalage ne permet pas de conclure à un haut potentiel intelle
 
 ## Manifestations de l'inadéquation à l'école et aux études
 
-### Le sentiment de décalage cognitif permanent
+### Le décalage avec le rythme de la discussion
 
-Mei s’ennuie dans ce cours et ne retrouve pas les questions qui l’intéressent. Une consigne floue, un rythme inadéquat ou un sujet familier peuvent contribuer à cette impression ; rien n’autorise à conclure que ses camarades pensent moins vite.
+Mei voit quelque chose à dire sur la planche mais ne trouve pas quand intervenir. Le rythme de la discussion laisse peu de place à sa formulation ; cela ne permet pas de conclure que ses camarades pensent moins vite.
+
+Deux exemples dans cet épisode :
+
+- Mei comprend le problème du cadrage mais la page est tournée avant qu’elle ait trouvé quand le dire.
+- Elle observe Océane demander aussi qu’on l’écoute : le rythme du groupe n’est pas une mesure de la vitesse de pensée de chacune.
 
 ### La sensation d'être un imposteur social
 
 Dans les couloirs ou les cafétérias, l'inadéquation se traduit par une difficulté à se joindre aux conversations légères. Ce que les autres appellent des discussions normales paraît parfois superficiel ou dénué de sens pour la personne concernée. On finit par porter un masque pour s'intégrer, une forme de camouflage social qui épuise l'énergie mentale. On observe les autres interagir avec une aisance naturelle, tout en se demandant quel code secret a été manqué lors de son éducation.
 
+Deux exemples dans cet épisode :
+
+- Elle répond à Julien que les cours se passent bien plutôt que décrire la difficulté à entrer dans la discussion.
+- À la table de critique, elle hésite à proposer sa planche parce qu’elle ne sait pas encore comment prendre sa place dans l’échange.
+
 ### L'hypersensibilité aux jugements académiques
 
 Une simple remarque d'un professeur ou une note légèrement en dessous des attentes peut déclencher une remise en question totale de sa légitimité. L'inadéquation à l'école ou aux études fait que l'on n'évalue pas sa performance, mais son identité entière. Si le travail n'est pas parfait, c'est la preuve que l'on n'est pas à sa place. Cette pression interne transforme chaque rendu de projet en une épreuve émotionnelle intense, où l'on craint que le masque ne finisse par tomber.
+
+Deux exemples dans cet épisode :
+
+- L’annotation « intention ? » pourrait lui sembler invalider toute sa présence dans l’école au lieu d’indiquer une question sur un contour.
+- Elle peut hésiter à montrer les trois cadres parce qu’ils ne forment pas encore un travail achevé, alors qu’ils expliquent déjà une différence observable.
 
 ## Techniques pour agir face à l'inadéquation
 
 ### 1. La cartographie des zones de compétence
 
-Pour contrer l'impression globale d'être inadaptée, il est utile de segmenter la réalité. L'exercice consiste à prendre une feuille et à dessiner deux colonnes : ce que je maîtrise techniquement et ce que je ressens socialement. En isolant les faits des émotions, on réalise que l'inadéquation est souvent un sentiment diffus et non une réalité objective. Par exemple, Mei peut noter qu'elle maîtrise parfaitement la perspective et la théorie des couleurs, même si elle se sent incapable de tenir une conversation sur les potins de l'école. Cette technique permet de réancrer l'esprit dans des preuves tangibles de succès académique, limitant ainsi l'invasion du sentiment d'illégitimité.
+Pour contrer l'impression globale d'être inadaptée, il est utile de segmenter la réalité. L'exercice consiste à prendre une feuille et à dessiner deux colonnes : ce que je maîtrise techniquement et ce que je ressens socialement. Distinguer ces éléments laisse une place au ressenti et aux obstacles concrets, sans décider d’avance que le problème serait seulement une impression. Par exemple, Mei peut noter qu’elle sait montrer comment un cadrage change la lecture d’un personnage, même si elle se sent incapable de tenir une conversation sur les potins de l'école. La page donne des informations sur ce qu’elle sait faire et sur ce qu’elle souhaite demander.
+
+Objectif de cet essai : Distinguer savoir-faire, difficulté d’échange et conditions de travail.
+
+1. Décrivez ce que vous savez montrer sur une planche, sans vous déclarer experte de tout.
+2. Notez séparément ce qui vous manque dans l’échange, comme un temps pour finir une phrase.
+3. Ajoutez les conditions matérielles ou pédagogiques qui font obstacle et choisissez la question à poser.
+
+Utilité possible : La distinction rend les besoins discutables sans nier des obstacles réels ni conclure à un haut potentiel.
 
 ### 2. Le recadrage de la singularité
 
 Reformulez une conclusion globale en une observation et, si possible, une demande. Mei peut passer de « je suis bizarre » à « j’ai peu d’occasions de parler de cette exposition ; je peux proposer le sujet à Océane ». Si des conditions de travail font obstacle, la demande peut aussi être adressée à l’équipe pédagogique.
 
+Objectif de cet essai : Transformer une conclusion sur soi en observation et demande.
+
+1. Reprenez une phrase globale telle que « je n’ai pas ma place ».
+2. Nommez une scène précise : vous n’avez pas trouvé quand expliquer le cadrage.
+3. Formulez une demande adaptée, à Océane pour un échange bref ou à l’équipe pour les conditions de la critique.
+
+Utilité possible : La demande porte sur une situation modifiable sans promettre que le groupe y répondra.
+
 ### 3. La recherche de pairs électifs
 
-L'inadéquation se nourrit de l'isolement. L'exercice pratique ici est d'identifier, même en dehors de son cercle habituel, une ou deux personnes qui partagent une intensité similaire, que ce soit dans l'art, la science ou toute autre passion. Il ne s'agit pas de s'intégrer à un grand groupe, mais de trouver des niches de résonance. Ces interactions de qualité agissent comme un miroir positif. En discutant avec quelqu'un qui comprend vos références complexes sans sourciller, vous validez votre propre fonctionnement. Cela diminue le besoin de porter un faux self et permet de réaliser que l'inadéquation n'est pas en vous, mais dans l'interaction entre votre profil et un environnement parfois trop étroit.
+Mei peut chercher une personne avec qui parler d’un intérêt réel, dans sa promotion ou ailleurs, sans devoir partager la même intensité ou un profil particulier. Il ne s'agit pas de s'intégrer à un grand groupe, mais de trouver des niches de résonance. Un échange peut accueillir des références communes et des différences. Il ne doit pas devenir un test pour valider son fonctionnement ou décider à lui seul d’où vient le décalage.
+
+Objectif de cet essai : Chercher un échange réciproque autour d’un intérêt réel.
+
+1. Choisissez une personne et un sujet que vous avez envie de discuter, sans rechercher un profil identique au vôtre.
+2. Vérifiez si un court échange lui convient, comme les cinq minutes sur vos planches.
+3. Écoutez aussi sa difficulté puis décidez de poursuivre ou non, sans devoir rejoindre tout un groupe.
+
+Utilité possible : Un échange choisi peut apporter un retour précis sans valider une catégorie psychologique ni annuler le décalage.
 
 ## Une critique à deux
 

@@ -41,6 +41,8 @@ Il peut pourtant aimer la musique de Denis et souhaiter une soirée différente 
 
 Le verdict rend aussi le repos plus difficile. Si Vincent refuse la sortie pour prouver son attachement, il risque de rester à la maison avec un agacement supplémentaire. Cédric ne lui demande pas cette présence. Le choix peut alors répondre davantage au procès intérieur de Vincent qu’au besoin réel de l’un ou de l’autre.
 
+Le plaisir d’aller au concert devient ainsi une crainte de fuir le couple ; l’agacement devant les appels devient, lui, le soupçon de ne pas apprécier le week-end. Deux émotions portant sur des moments précis finissent par juger l’ensemble du lien.
+
 ### Le récit social laisse peu de place aux nuances
 
 Quand Julie dit qu’il assure beaucoup, Vincent entend presque une attente de courage constant. Elle ne lui demande pourtant pas d’être héroïque. Certaines représentations de l’aidance lui semblent néanmoins imposer un rôle : celui qui soutient doit rester patient, reconnaissant et toujours disponible. Il hésite à montrer une émotion qui ne correspond pas à ce portrait.
@@ -49,11 +51,15 @@ Il peut répondre à sa sœur avec une phrase plus complète : « Le week-end me
 
 La vie privée de Cédric reste protégée. Vincent peut parler de ses propres émotions sans donner les détails que son compagnon ne souhaite pas partager. Le besoin d’être entendu ne demande pas de transformer l’autre en personnage d’une histoire racontée à tout le monde. Il peut choisir un interlocuteur et un niveau d’information adaptés.
 
+À la question sur le séjour, il croit devoir ne raconter que les vitrines heureuses ; à la remarque de Julie sur ce qu’il assure, il croit devoir cacher les trois appels. Dans les deux échanges, le portrait attendu prend la place de son expérience nuancée.
+
 ### Cacher l’émotion rend le besoin illisible
 
 Vincent dit parfois qu’il est simplement occupé alors qu’il se sent irrité et fatigué. Il espère préserver l’ambiance. Mais il devient plus bref, repousse une question ordinaire et laisse Cédric deviner ce qui se passe. Son silence ne protège pas nécessairement le lien ; il peut rendre une difficulté d’organisation plus confuse et plus personnelle qu’elle ne l’est.
 
 Exprimer l’émotion demande de distinguer le ressenti et l’attribution. « Je suis agacé par les relances » décrit une expérience précise. « Tu rends tout compliqué » donne à Cédric la responsabilité de difficultés qui dépendent aussi des services et des lieux. Vincent peut être honnête sans transformer la parole émotionnelle en accusation.
+
+Il écourte une réponse à Cédric sans expliquer que les relances l’agacent ; il hésite aussi à parler du concert, de peur que son envie de sortir soit mal comprise. Le besoin de temps personnel comme celui d’une autre répartition restent alors difficiles à reconnaître.
 
 ## Trois techniques pour laisser plusieurs émotions exister
 

@@ -30,31 +30,67 @@ Dans ce scénario, une parole ironique, un rire ou une imitation agit comme une 
 
 Après une remarque sarcastique lors d'une réunion, une personne peut passer l'après-midi à relire l'enregistrement, chercher des indices d'hostilité dans les messages de l'équipe et éviter les interactions futures avec les mêmes collègues.
 
+Exemples concrets :
+
+- Sophie peut repasser l’imitation de Marc tout en ne sachant toujours pas ce que les collègues en ont pensé.
+- Relire les messages après la réunion peut devenir une recherche d’un verdict sur toute sa compétence, sans effacer la moquerie effectivement entendue.
+
 ### 2. Retrait social et comportements de réparation ou de soumission
 L'humiliation pousse parfois à des comportements défensifs visibles : se justifier de façon excessive, s'excuser pour des éléments hors de sa portée ou accepter des demandes inconfortables pour réparer l'image ternie. Sophie remarque ce schéma quand elle propose de tout réécrire après la réunion, même si la modification n'est pas techniquement nécessaire. Sophie se demande si elle cherche surtout à éviter une nouvelle moquerie.
 
 Cela peut se traduire par le fait d'accepter immédiatement de refaire une tâche en détail, offrir des démonstrations supplémentaires ou adopter un ton très conciliant pour apaiser les autres. Sophie remarque un décalage : elle a envie de hurler contre l'impolitesse de Marc, mais son réflexe est de lui sourire et de s'excuser pour sa propre hésitation.
+
+Exemples concrets :
+
+- Elle peut proposer une refonte non nécessaire pour essayer d’éviter une nouvelle remarque.
+- S’excuser pour son hésitation lui vient alors que l’imitation relève de la responsabilité de Marc, pas d’une réparation qu’elle lui devrait.
 
 ### 3. Colère froide et évitement futur
 Parfois l'humiliation génère une colère contenue, difficile à exprimer, mêlée à une honte profonde. Au lieu d'exprimer la colère, la personne se replie, évite les réunions importantes ou adopte un silence défensif. Sophie ressent cette colère silencieuse : elle ne conteste pas le rire de Marc, mais elle imagine des scénarios où elle quitte l'entreprise. Éviter certaines réunions peut aussi être une façon de se protéger en attendant que la situation soit prise au sérieux.
 
 Décliner une présentation importante, ne plus prendre la parole dans des événements d'équipe ou refuser des opportunités de visibilité sont des exemples fréquents de cet évitement.
 
+Exemples concrets :
+
+- Elle envisage de ne plus présenter le produit pour éviter de se retrouver exposée à la même conduite.
+- Sortir avec Claire quelques minutes lui offre une distance choisie avant de décider si elle souhaite parler ou demander un relais.
+
 ## Techniques pour se protéger face à l'humiliation
-### 1. Nommer l'émotion et la documenter par le repérage factuel
-Sophie utilise déjà son carnet pour noter ses pensées. Elle y réserve une place aux faits, une à ce qu’elle ressent et une à ce qu’elle en conclut. Si les incidents se répètent, dates, mots prononcés et personnes présentes peuvent lui servir pour demander de l’aide.
+### 1. Nommer l’émotion et conserver les faits
 
-Si elle en a l’énergie, elle peut noter les mots exacts et le contexte, puis revenir à ses notes plus tard. Elle n’a pas besoin de tout revivre sur le moment.
+Objectif : Garder une trace de ce qui s’est passé sans devoir tout revivre.
 
-### 2. Recadrage cognitif guidé par des preuves
-La tendance à interpréter une remarque comme une preuve d'incompétence est fréquente chez les personnes perfectionnistes. Examiner les preuves permet de nuancer cette conclusion.
+Exercice pratique :
 
-Un [relevé des pensées, comme celui du NHS](https://www.nhs.uk/every-mind-matters/mental-wellbeing-tips/self-help-cbt-techniques/thought-record/), peut aider à distinguer la moquerie observée de l’idée « tout le monde pense que je suis nulle ». Une autre lecture serait : « Marc m’a imitée ; cela ne dit rien de la qualité de mon travail. » L’exercice ne demande pas de trouver une excuse au collègue.
+- Si vous en avez l’énergie, notez les mots ou gestes, le contexte et les personnes présentes : ici, Marc a imité l’hésitation.
+- Séparez ce fait de ce que vous ressentez et de ce que vous supposez sur l’avis du reste du groupe.
+- Choisissez de fermer le carnet ou d’utiliser la note pour demander un appui. En cas d’incidents répétés, les dates et mots peuvent servir à expliquer la situation.
+
+Utilité possible : Le carnet peut préparer une demande d’aide. Sophie n’a pas à consigner chaque détail ni à établir seule un dossier parfait pour être entendue.
+
+### 2. Examiner le jugement sur ses compétences
+
+Objectif : Distinguer la moquerie réelle d’une conclusion globale sur soi.
+
+Exercice pratique :
+
+- Reprenez le fait observé sans le minimiser : « Marc m’a imitée pendant la réunion. »
+- Regardez séparément les éléments disponibles sur votre travail et la conclusion « tout le monde pense que je suis nulle ».
+- Essayez une formulation plus précise : « Ce geste m’a blessée ; il ne décide pas de la qualité de mon travail. » Vous pouvez rester en colère.
+
+Utilité possible : Un [relevé des pensées du NHS](https://www.nhs.uk/every-mind-matters/mental-wellbeing-tips/self-help-cbt-techniques/thought-record/) peut aider à cet examen. Il ne demande pas de trouver une excuse au collègue.
 
 ### 3. Préparer une réponse ou demander un relais
-Si elle se sent en sécurité pour parler, Sophie peut préparer une phrase brève avec Claire. Elle peut aussi choisir de quitter la discussion ou de demander à quelqu’un d’intervenir.
 
-Une phrase possible : « Je préfère qu’on discute de la technique plutôt que de la manière dont j’ai parlé. » S’il y a des incidents répétés ou si parler seule l’expose davantage, elle peut demander un relais au travail. [Service Public](https://www.service-public.gouv.fr/particuliers/vosdroits/F2354) détaille les recours, notamment auprès de la hiérarchie, du CSE et des services de santé au travail.
+Objectif : Choisir une possibilité de protection sans confrontation imposée.
+
+Exercice pratique :
+
+- Si vous le souhaitez, demandez à Claire un appui pour décider de ce que vous voulez faire ; elle peut dire ce qu’elle est disponible pour soutenir.
+- Préparez une phrase brève, telle que « je préfère qu’on discute de la technique », ou choisissez de quitter l’échange et de demander directement un relais.
+- Si les incidents se répètent ou si parler seule vous expose, sollicitez un interlocuteur adapté au travail et gardez la distance nécessaire.
+
+Utilité possible : [Service Public](https://www.service-public.gouv.fr/particuliers/vosdroits/F2354) présente les recours, notamment hiérarchie, CSE et santé au travail. Aucune méthode personnelle ne garantit l’arrêt des moqueries.
 
 ## Ce que Claire a entendu
 Après la réunion, Sophie suit les trois étapes qu'elle connaît maintenant bien. Elle ouvre son carnet sur la terrasse du bâtiment, écrit les faits observables, puis remplit le tableau des preuves. À la lecture, certaines pensées noires perdent leur force. Elle appelle Claire pour répéter le script et l'entendre formulé à voix haute lui donne une consistance différente.

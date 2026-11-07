@@ -45,6 +45,8 @@ Poser le courrier sur le sac permet à Rémi de quitter rapidement les démarche
 
 Il retrouve ici la question de l'émotion de la tâche. Certains courriers sont plus désagréables que d'autres et ne se régleront pas par un simple changement de boîte. L’habitude peut rendre l’emplacement plus prévisible, sans supprimer l’inconfort d’une demande. Il peut ensuite prévoir un moment et un appui si nécessaire. Cela évite de demander à un seul automatisme de résoudre à la fois le rangement, la motivation, la compréhension et la décision.
 
+Déposer la facture avec le reste du courrier lui évite d’ouvrir une démarche dès le seuil ; la laisser ensuite dans le sac lui évite de choisir quand la consulter. Le soulagement de l’arrivée peut donc se prolonger en report, même si une boîte rend le rangement plus simple.
+
 ### Le changement de contexte fait apparaître la fragilité du système
 
 Julie déplace parfois la boîte pour nettoyer ou libérer le passage. Rémi ne peut pas exiger que tout reste immobile. Leur espace est commun. Ils doivent choisir un emplacement utile pour tous les deux et une solution temporaire compréhensible. Une habitude personnelle qui gêne l'autre devient une question de cohabitation, même si elle fonctionne bien pour celui qui la met en place.

@@ -41,6 +41,11 @@ Elle utilise également le mot « repos » pour le temps passé chez elle. Pourt
 
 Son compagnon voit cette accumulation lorsqu'elle lui énumère le programme. Il peut aider à la rendre visible, mais ne connaît pas à sa place le coût des gestes. Leur discussion gagne à partir d'exemples : ce qui lui demande davantage aujourd'hui, ce qu'elle peut faire avec une autre installation, ce qu'elle préfère reporter.
 
+Exemples concrets
+
+- Les courses comprennent les sacs et le trajet, au-delà des quelques achats inscrits sur le carnet.
+- Chez elle, classer des documents est appelé repos simplement parce que le guichet est fermé.
+
 ### Une période meilleure déclenche le rattrapage
 
 Quand Anaïs se sent plus disponible, elle veut accomplir tout ce qui attend. La perspective est compréhensible : elle aime retrouver de l'initiative et ne souhaite pas laisser la maladie organiser chaque décision. Le risque est de donner à cette période une charge exceptionnelle, puis de juger la suivante à partir de ce maximum.
@@ -49,6 +54,11 @@ Elle n'a pas à renoncer à toute activité parce que ses capacités fluctuent. 
 
 Le rattrapage concerne aussi les relations. Elle accepte plusieurs invitations pour compenser les absences récentes. Chacune lui fait plaisir, mais leur accumulation réduit le temps de récupération. Elle peut conserver le lien par des formats différents, sans devoir prouver son attachement en reproduisant toutes les sorties manquées.
 
+Exemples concrets
+
+- Une période plus disponible conduit Anaïs à ajouter le linge au programme déjà prévu.
+- Après plusieurs invitations manquées, elle envisage de les accepter toutes sur une même semaine.
+
 ### Demander un relais menace l'image d'autonomie
 
 Au guichet, Anaïs tient à sa compétence. Elle connaît les démarches et sait accueillir des personnes inquiètes. Lorsque Céline porte les dossiers, elle craint que cette aide fasse oublier tout ce qu'elle apporte au service. Elle associe trop vite autonomie et réalisation solitaire de chaque tâche.
@@ -56,6 +66,11 @@ Au guichet, Anaïs tient à sa compétence. Elle connaît les démarches et sait
 Pourtant, son travail repose déjà sur des ressources partagées : logiciels, collègues, procédures, transmission d'informations. Un relais supplémentaire ne transforme pas automatiquement la coopération en dépendance. L'enjeu est qu'il soit organisé, respectueux et compatible avec la charge des autres, plutôt que demandé dans l'urgence à une personne toujours disponible.
 
 Anaïs peut recevoir de l'aide tout en conservant une place dans les décisions. Elle peut préciser ses préférences et refuser qu'on décide sans elle de ce qu'elle ne fera plus. La santé limite certaines possibilités ; elle ne supprime pas sa voix dans la manière d'aménager les activités.
+
+Exemples concrets
+
+- Lorsque Céline porte les dossiers, Anaïs craint qu’on oublie son travail de vérification.
+- Une aide pour les sacs lui fait envisager de laisser Benoît décider aussi de toute la soirée.
 
 ## 3 techniques pour rendre le rythme plus praticable
 
@@ -67,6 +82,16 @@ Elle ajoute ce qui facilite la tâche. Un dossier accessible à bonne hauteur, u
 
 Si sa fatigue ou ses douleurs changent, elle en parle à son équipe médicale plutôt que de tout attribuer au programme de la veille. Elle conserve les prescriptions et les consignes reçues. L'ajustement quotidien ne lui demande pas d'expliquer seule chaque variation de santé.
 
+Pour essayer dans cette situation
+
+Objectif : Décrire le coût des activités plutôt que compter seulement leur nombre.
+
+1. Choisir le classement de fin de permanence et une tâche prévue au retour.
+2. Noter pour chaque tâche le geste, le déplacement ou l’absence de relais qui gêne aujourd’hui.
+3. Ajouter un appui utile et garder les changements de santé à discuter avec les soignants.
+
+La description peut aider aux choix et aux demandes d’adaptation sans inventer une réserve chiffrée d’énergie.
+
 ### 2. Choisir une priorité et préserver une marge
 
 Pour la fin de journée, elle distingue ce qui est nécessaire, ce qui lui fait plaisir et ce qui peut attendre. Ces catégories peuvent se rejoindre, mais aucune ne doit disparaître systématiquement. Une vie faite uniquement de tâches obligatoires et de récupération perdrait aussi des activités qui comptent pour elle.
@@ -75,6 +100,16 @@ Aujourd'hui, elle choisit de rentrer, de partager un repas simple et de garder l
 
 Pour le travail, elle ne modifie pas seule les règles du service. Elle prépare plutôt les questions à porter au bon interlocuteur : quels relais sont possibles, quelles tâches demandent une adaptation et comment préserver des pauses utilisables ? La marge personnelle complète une organisation adaptée, elle ne s'y substitue pas.
 
+Pour essayer dans cette situation
+
+Objectif : Préserver une fin de journée qui ne soit pas uniquement du rattrapage.
+
+1. Séparer le nécessaire, le plaisir du moment avec Benoît et ce qui peut attendre.
+2. Vérifier puis reporter la commande ou le linge qui ne demande pas d’action immédiate.
+3. Fixer une fin au programme domestique et porter les questions du guichet aux interlocuteurs professionnels.
+
+Une marge peut laisser une place au lien et aux besoins de repos sans prétendre supprimer les symptômes.
+
 ### 3. Négocier un appui précis sans dette immédiate
 
 Anaïs peut dire à Céline : « Peux-tu porter ces dossiers aujourd'hui ? Je garde la vérification des pièces, qui me convient mieux à cet instant. » La proposition conserve sa participation et donne une limite claire au relais. Si la tâche pose régulièrement problème, elles doivent en parler dans le cadre professionnel au lieu d'installer un arrangement invisible et permanent.
@@ -82,6 +117,16 @@ Anaïs peut dire à Céline : « Peux-tu porter ces dossiers aujourd'hui ? Je ga
 Avec Benoît, la demande peut être différente : porter les sacs, préparer une partie du repas ou reporter un déplacement. Il peut exprimer ses propres contraintes. Ils cherchent une répartition soutenable pour deux personnes, sans transformer le soutien en comptabilité où chaque geste doit être rendu le jour même.
 
 Elle peut aussi demander l'avis d'un ergothérapeute ou d'un autre professionnel de son suivi lorsqu'un geste revient parmi les difficultés. L'Assurance maladie présente ces appuis comme des ressources pour le quotidien. Anaïs n'a pas à inventer seule une méthode de protection articulaire à partir d'une vidéo ou d'un conseil reçu au hasard.
+
+Pour essayer dans cette situation
+
+Objectif : Recevoir un appui délimité sans contrat de remboursement.
+
+1. Demander à Céline le portage des dossiers et préciser la vérification qu’Anaïs garde.
+2. Avec Benoît, vérifier un partage réaliste du repas ou des sacs et ses propres contraintes.
+3. Si le besoin au poste revient, demander une discussion organisée plutôt qu’un dépannage permanent de Céline.
+
+Le soutien peut devenir plus prévisible et protéger la place d’Anaïs comme la charge des autres.
 
 ## Les dossiers et le dîner
 

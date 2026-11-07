@@ -33,13 +33,25 @@ Dans un contexte médical ou de soin à un proche, ce schéma prend une dimensio
 
 Après une garde difficile, Camille continue de penser à certains patients quand elle prépare le repas. Elle se souvient du jour où elle avait écrit « vide » sur un post-it. Ce souvenir ne suffit pas à expliquer son épuisement.
 
+Exemples situés :
+- Devant les lunchboxes, Camille peut vouloir repartir sur une question déjà transmise au lieu de demander comment sa famille organise la soirée.
+- À la fin de sa garde, elle peut prolonger sans besoin identifié une transmission pour se convaincre qu’elle a assez donné ; elle peut vérifier avec Nathalie ce qui reste réellement à transmettre.
+
 ### La négligence systématique de ses propres signaux corporels
 
 Camille remet souvent à plus tard le moment de boire, de manger ou de s’arrêter. L’[INRS](https://www.inrs.fr/risques/epuisement-burnout/ce-qu-il-faut-retenir.html) décrit l’épuisement professionnel en lien avec le stress chronique au travail et recommande d’agir sur l’organisation. Une pause manquée ne permet pas de prédire un burnout.
 
+Exemples situés :
+- La bouteille reste pleine au poste alors que la pause est organisée et que Camille pourrait boire.
+- Lorsqu’une collègue lui propose de s’asseoir sur un temps disponible, Camille peut commencer par énumérer des tâches supplémentaires plutôt que dire sa fatigue.
+
 ### La difficulté à déléguer et à recevoir de l'aide
 
 L'abnégation s'accompagne souvent d'une croyance selon laquelle personne ne peut faire le travail aussi bien ou avec autant de cœur qu'elle. Camille refuse l'aide de David pour les tâches ménagères ou l'organisation des enfants, craignant de l'encombrer ou de ne pas remplir son rôle de mère parfaite. À l'hôpital, elle préfère finir le dossier d'un collègue plutôt que de rentrer à l'heure. En refusant l'aide, elle maintient un contrôle qui la rassure mais qui l'isole radicalement. Elle rationalise ce comportement en se disant que sa réussite lors de la procédure complexe du 18 mars 2026 n'était qu'un coup de chance, ce qui l'oblige à redoubler d'efforts personnels pour compenser ce qu'elle perçoit comme une imposture.
+
+Exemples situés :
+- Au poste, Camille a envie de refuser que Nathalie finisse le rangement des chariots après la relève.
+- À la maison, elle peut répondre à David qu’elle fera seule les repas alors qu’il propose de les préparer.
 
 ## Techniques pour agir face à l'abnégation et au sacrifice de soi
 
@@ -49,13 +61,38 @@ Camille peut reconnaître ses besoins et regarder comment organiser la prise en 
 
 Cette méthode consiste à s'arrêter trois fois par jour, même pendant seulement trente secondes, pour évaluer ses besoins sur une échelle de un à dix. Camille peut pratiquer cet exercice entre deux chambres de patients. Elle doit se poser trois questions : Quel est mon niveau de fatigue physique ? Quel est mon niveau de soif ou de faim ? Quelle émotion je ressens là, tout de suite ? En nommant ses besoins, elle commence à réintégrer l'idée qu'elle existe en dehors de son rôle de soignante. L'objectif n'est pas de tout résoudre immédiatement, mais de briser l'automatisme de l'anesthésie de soi.
 
+Pour l’essayer sans nouvelle obligation :
+1. Choisissez un temps disponible où les soins sont assurés, plutôt qu’interrompre une tâche nécessaire.
+2. Remarquez un besoin actuel, avec ou sans chiffre : la bouteille pleine peut simplement rappeler la soif.
+3. Formulez une demande réalisable ou une question à l’équipe si ce besoin reste régulièrement sans réponse.
+
+Utilité possible : ce repère conduit à une action ou une discussion d’organisation ; il ne remplace pas un avis sur une douleur ou un symptôme préoccupant.
+
 ### 2. Entendre la culpabilité sans lui laisser décider
 
 Quand une pause lui fait honte, Camille se rappelle qu’elle peut la prendre dès que la relève est assurée. Elle n’a pas besoin de déterminer si la culpabilité vient de Françoise pour demander un relais.
 
+Objectif : pouvoir utiliser une relève assurée même quand la culpabilité reste présente.
+
+Exercice pratique :
+1. Repérez la pensée qui accompagne l’offre de Nathalie, comme « Je devrais encore rester ».
+2. Vérifiez avec elle que les informations nécessaires sont transmises et que le relais est effectif.
+3. Acceptez la pause ou le départ convenu, sans attendre de résoudre l’origine de la culpabilité.
+
+Utilité possible : Camille prend appui sur une condition réelle de sécurité plutôt que sur l’exigence de se sentir pleinement autorisée.
+
 ### 3. Prévoir une vraie relève et du temps pour soi
 
 Camille vérifie comment les pauses s’organisent au service. Si elle ne peut pas les prendre régulièrement, elle peut en parler avec l’équipe ou la santé au travail. Chez elle, elle convient avec David d’un moment pour se reposer, sans en faire une obligation à réussir.
+
+Objectif : rendre le repos possible par une organisation partagée.
+
+Exercice pratique :
+1. Demandez au service qui assure les pauses et à quel moment la relève est prévue.
+2. Si ces temps sont régulièrement impossibles, portez les exemples au responsable ou au service de prévention et de santé au travail.
+3. Chez vous, convenez avec David d’une tâche qu’il prend et d’un moment de repos ajustable.
+
+Utilité possible : le besoin reçoit une réponse collective et familiale ; le repos ne devient pas une performance individuelle supplémentaire.
 
 ## Passer la main à Nathalie
 

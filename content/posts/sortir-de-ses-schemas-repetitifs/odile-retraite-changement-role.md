@@ -35,13 +35,19 @@ Les ressources institutionnelles sur les liens sociaux présentent diverses form
 
 L’expression « tu es retraitée » ne donne pas accès à l’agenda d’Odile. Elle ne dit rien de ses autres engagements, de son énergie, de ses déplacements ou de son envie de participer. Certaines obligations restent invisibles, comme un rendez-vous médical ou une démarche familiale. Un temps sans obligation visible peut également être choisi pour lui-même. Odile peut préciser ce qu’elle propose sans dresser la liste de tout ce qui rendrait son refus acceptable. L’examen porte sur sa disponibilité réelle et son accord, pas sur une comparaison avec les personnes qui ont un emploi rémunéré.
 
+L’après-midi de bibliothèque laissé libre ne constitue donc pas une réserve d’heures disponible pour le quartier. De même, pouvoir être chez elle le soir ne signifie pas qu’elle accepte les appels concernant les clés. Ce sont deux disponibilités que Gérard pourrait lui attribuer sans connaître son choix. Elle peut les refuser sans produire une autre obligation en guise de justification.
+
 ### Une compétence se transforme en fonction automatique
 
 Parce qu’Odile sait classer des documents, on imagine qu’elle veut forcément s’en charger. Pourtant, savoir faire et souhaiter faire sont deux informations différentes. Elle peut proposer une méthode une fois sans devenir la responsable de tous les dossiers. Elle peut aussi préférer apprendre une activité où elle débute. Cette distinction protège les échanges de la distribution des tâches par habitude : la personne compétente ne devient pas nécessairement celle qui travaille pendant que les autres choisissent leur participation. Ses limites permettent parfois au groupe de rendre visibles les responsabilités qu’il doit répartir.
 
+Deux tâches permettent de préciser la différence : Odile peut vouloir corriger l’adresse peu lisible du programme grâce à son expérience des documents, sans vouloir tenir ensuite tous les horaires à jour. Elle peut aussi connaître les habitants sans accepter de garder le trousseau. Le savoir-faire rend une proposition possible ; il ne vaut pas accord sur la responsabilité qui l’accompagne.
+
 ### L’utilité finit par prendre toute la place dans l’estime de soi
 
 Odile apprécie la confiance du groupe et n’a pas à se méfier de ce plaisir. La difficulté apparaît lorsqu’elle commence à croire qu’elle doit accepter pour rester intéressante ou conserver les invitations. Elle peut vérifier ce que les autres apprécient dans la relation : sa conversation, ses idées et sa présence ne se résument pas à la possession d’un trousseau. Les réponses ne seront pas toujours rassurantes. Si un collectif ne lui fait une place qu’à condition d’un travail qu’elle ne souhaite pas, cette information mérite d’être prise au sérieux, au lieu de chercher uniquement à renforcer sa confiance personnelle.
+
+Si elle pense devoir prendre les clés pour conserver l’estime de Gérard, le service devient une condition supposée de leur amitié. Si elle ajoute les appels du soir pour montrer au groupe qu’elle reste utile, la même pression s’étend à une autre tâche. Ces deux attentes méritent d’être vérifiées dans les paroles et les réponses reçues, sans être attribuées d’avance aux autres.
 
 ## Fixer le périmètre avant de s’engager
 
@@ -56,6 +62,8 @@ Odile peut accepter une permanence précise sans prendre en charge l’ensemble 
 ### 3. Garder plusieurs sources d’intérêt et de relation
 
 Si Odile attend de ce projet qu’il lui redonne toute la place laissée vide par sa sœur, la responsabilité risque de devenir disproportionnée. Elle ne peut pas remplacer Françoise par un groupe, mais elle peut préserver différents appuis : sa relation avec Lucie, les sorties avec Josiane, la lecture, le dessin ou de nouvelles rencontres. Ces possibilités ne sont pas une ordonnance d’occupation du temps. Certaines semaines, une seule activité lui suffit. La question est plutôt de ne pas confier à un rôle unique la tâche de prouver sa valeur, de remplir toutes ses journées et de supprimer le manque. Un professionnel peut aider à examiner cette pression si elle devient pesante, tout comme un proche peut simplement rappeler qu’il apprécie sa compagnie sans service rendu.
+
+Pour le rendre concret, Odile peut d’abord nommer ce qu’elle attend de la réunion et ce qu’elle apprécie ailleurs, comme sa conversation avec Lucie ou le carnet de dessins. Elle garde ensuite un temps libre qui ne sert pas à préparer le programme. Après les deux séances, elle regarde si son engagement laisse encore ces possibilités, puis choisit ce qu’elle souhaite maintenir. Ce bilan ne lui impose ni une nouvelle activité ni un nombre minimal de relations.
 
 ## Deux rendez-vous au crayon
 

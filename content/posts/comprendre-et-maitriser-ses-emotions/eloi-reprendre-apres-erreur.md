@@ -39,6 +39,8 @@ Le plateau incomplet ressemble à d'autres moments où Éloi expose un résultat
 
 Il peut reconnaître ce réflexe sans s'en vouloir. Une anticipation issue de l'expérience cherche souvent à protéger. Elle devient moins utile lorsqu'elle ne laisse plus entrer les données nouvelles. Éloi peut garder sa prudence et commencer par les faits du travail. Il verra ensuite la réponse réelle. Ce choix lui permet de transmettre une information nécessaire sans devoir obtenir d'abord la certitude qu'il sera accueilli comme il le souhaite.
 
+Une réponse courte à une question différable pourrait déclencher une autre suite imaginée : Éloi entendrait « pas maintenant » comme « je ne veux jamais t’expliquer ». Le plateau incomplet concerne une correction immédiate ; la question de méthode concerne un temps à organiser. Les distinguer permet de demander un rendez-vous sans présumer que le silence ou le reproche sont déjà décidés.
+
 ### Les retours différents sont rangés parmi les exceptions sans effet
 
 Cédric lui donne déjà des repères précis sur un lot et accepte des questions dans un temps prévu. Éloi apprécie ces moments, puis les oublie lorsqu'une nouvelle erreur apparaît. Il conserve la règle générale négative et classe chaque retour respectueux comme une exception qui ne change rien. L'attente devient ainsi difficile à réviser : tout événement inconfortable la confirme, aucun autre ne peut vraiment la nuancer.
@@ -50,6 +52,8 @@ Il n'a pas à remplacer cette règle par son contraire. « Cédric répond toujo
 Éloi pense qu'il doit prouver immédiatement qu'il regrette assez son erreur. Il ajoute des reproches contre lui-même, comme si une parole dure garantissait son sérieux. Cédric a surtout besoin d'un état fiable pour organiser la suite. La responsabilité professionnelle demande de signaler, corriger et comprendre, pas de produire une humiliation visible. Éloi peut reconnaître le coût causé sans faire de sa personne le sujet principal du service.
 
 Cela n'enlève pas le besoin d'excuses lorsqu'elles sont appropriées. Il peut dire simplement qu'il se trompe et qu'il reprend le contrôle demandé. La suite montre aussi sa responsabilité. Si une conséquence affecte quelqu'un, elle doit être traitée dans le cadre adapté. La réparation garde un objet concret, au lieu de devenir une recherche sans fin de pardon ou d'assurance sur sa place dans l'équipe.
+
+Devant les deux portions manquantes, « je ralentis toute l’équipe » déplacerait la discussion vers sa valeur au lieu de préciser l’écart. Après la correction, répéter « vous ne pourrez plus me faire confiance » demanderait à Cédric de le rassurer au lieu de vérifier le prochain contrôle. Dans ces deux cas, une parole contre soi prendrait la place de l’information dont le travail a besoin.
 
 ## Séparer la correction du reproche attendu
 

@@ -41,6 +41,11 @@ Cette distinction est importante. Conseiller à Malik de montrer encore plus sa 
 
 Bastien peut l’aider en décrivant ce qu’il constate, sans promettre qu’un bon résultat technique finira par convaincre le responsable. Son soutien porte d’abord sur le fait et sur les besoins de Malik. Il ne remplace pas une réponse de l’organisation au comportement de Marc.
 
+Exemples concrets
+
+- Malik cherche un défaut à corriger sur sa fiche alors que Marc a donné son origine pour motif.
+- Bastien rappelle la compétence sans obtenir de réponse technique justifiant le retrait.
+
 ### Le regard sur tout le milieu peut devenir plus vigilant
 
 Après l’échange, Malik écoute autrement les conversations du vestiaire. Il se demande qui partage le choix de Marc, qui le conteste et qui préfère l’ignorer. Cette vigilance prend sens après un événement réel. Elle ne doit pas être automatiquement traitée comme une erreur de pensée à faire disparaître.
@@ -49,11 +54,21 @@ Elle peut néanmoins être fatigante et laisser des questions sans réponse. Mal
 
 Certaines réactions peuvent apporter de nouveaux faits, favorables ou défavorables. Une personne qui minimise le motif rend la relation plus difficile. Une autre peut proposer un appui précis. Malik peut prendre ces réponses au sérieux et ajuster sa confiance. Il ne lui appartient pas de restaurer seul une sécurité collective que l’organisation contribue à fragiliser.
 
+Exemples concrets
+
+- Malik écoute différemment les conversations du vestiaire après le refus explicite.
+- Il sait que Bastien intervient, mais ne connaît pas encore la position de chaque autre collègue.
+
 ### Le récit risque d’occuper toutes les rencontres
 
 Malik veut parler à Awa, puis craint de ne plus rien partager d’autre avec elle. Il hésite à venir au groupe photo pour ne pas être interrogé sur son humeur. Le besoin de soutien et le besoin de garder un espace ordinaire peuvent coexister. Aucun des deux ne signifie que l’autre serait faux.
 
 Il peut choisir le destinataire et le périmètre du récit. Awa peut connaître la scène ; Fatou peut simplement savoir qu’il traverse une journée difficile et préfère regarder les images. Il ne ment pas en gardant certains détails privés. Il ne trahit pas davantage sa dignité s’il souhaite raconter précisément l’injustice à quelqu’un qui l’écoute.
+
+Exemples concrets
+
+- Malik voudrait parler à Awa sans consacrer tous leurs prochains appels à Marc.
+- Au groupe photo, il peut demander à regarder les contrastes en gardant les détails du dépôt privés.
 
 ## Rassembler les faits et choisir des appuis
 
@@ -65,6 +80,12 @@ Séparez ensuite les phrases qui visent votre valeur : « je ne suis pas assez l
 
 Pour une situation réelle, la conservation et l’usage d’éléments peuvent soulever des questions de confidentialité ou de droit. Un interlocuteur qualifié peut expliquer les options adaptées. Cet exercice sert à garder des repères personnels fiables ; il ne constitue pas une stratégie juridique universelle ni une recommandation de recueillir des informations par n’importe quel moyen.
 
+Exercice pratique
+
+- Notez le contexte, les mots de Marc, la décision et la présence de Bastien sans prendre de risque pour chercher de nouveaux éléments.
+- Séparez ce fait de la conclusion « je dois être meilleur pour mériter ma place ».
+- Gardez vos repères dans un cadre approprié et demandez un avis qualifié sur leur conservation et leur usage si nécessaire.
+
 ### 2. Demander un soutien avec un rôle précis
 
 Choisissez une personne ou un service selon le besoin actuel : être écouté, comprendre des possibilités, décrire un fait observé ou être accompagné. Malik demande à Bastien de dire ce qu’il entend dans la scène. Il cherche ensuite une information auprès d’un interlocuteur compétent sur les situations de discrimination au travail.
@@ -73,6 +94,12 @@ Précisez ce que vous ne souhaitez pas pour l’instant. Malik peut demander que
 
 Si une réponse minimise le fait ou exige une réaction immédiate que vous ne pouvez pas porter, cherchez si possible un autre appui. Le choix de différer une démarche peut répondre à des contraintes réelles. Personne ne devrait imposer à Malik de représenter toutes les personnes discriminées pour recevoir une écoute sur ce qui lui arrive.
 
+Exercice pratique
+
+- Dites à Bastien si vous souhaitez une présence ou le récit des faits qu’il a entendus.
+- Cherchez l’interlocuteur compétent pour comprendre les options sans promettre une démarche immédiate.
+- Précisez quelles informations vous acceptez de partager et avec qui.
+
 ### 3. Préserver un espace qui ne doit rien prouver
 
 Identifiez une activité ou une relation que vous souhaitez garder pour elle-même. Malik peut regarder des photos avec Fatou sans transformer la rencontre en démonstration de force ou de résilience. Il peut aussi annuler si son énergie manque. Le choix porte sur son besoin, pas sur une image à donner de la bonne manière de faire face.
@@ -80,6 +107,12 @@ Identifiez une activité ou une relation que vous souhaitez garder pour elle-mê
 Dites une limite utile : « Je souhaite participer, mais pas raconter le travail aujourd’hui. » Les autres peuvent alors respecter son périmètre. Si l’émotion revient pendant l’activité, cela ne signifie pas qu’il échoue à préserver cet espace. L’événement peut rester présent sans devenir le seul sujet autorisé.
 
 Cet appui ordinaire ne remplace pas une réponse au fait discriminatoire. Il aide à conserver une vie qui ne se confond pas avec la démarche. Les institutions et les personnes responsables gardent leur rôle. Malik peut chercher réparation ou protection tout en continuant à être un compagnon, un collègue et un amateur de photographie.
+
+Exercice pratique
+
+- Choisissez si vous souhaitez rejoindre Fatou pour regarder les tirages.
+- Dites que vous ne voulez pas raconter le travail aujourd’hui si c’est votre préférence.
+- Gardez le droit de partir ou de changer de sujet sans prouver que l’émotion a disparu.
 
 ## Malik choisit un premier appui sans annoncer la fin du problème
 

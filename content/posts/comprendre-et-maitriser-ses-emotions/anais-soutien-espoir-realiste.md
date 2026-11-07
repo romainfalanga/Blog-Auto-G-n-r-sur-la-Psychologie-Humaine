@@ -41,6 +41,11 @@ Elle peut garder une portée plus exacte : les conditions de cette présence lui
 
 Elle n'a donc pas à cacher sa joie pour rester crédible. Elle peut expliquer un autre jour qu'une activité lui est difficile, même si elle apprécie celle-ci maintenant. La reconnaissance des besoins ne devrait pas exiger une humeur ou une apparence identique en permanence.
 
+Exemples concrets
+
+- Après sa réponse au visiteur, elle pourrait promettre de rester toutes les prochaines après-midi.
+- La joie ressentie devant l’affiche pourrait lui sembler incompatible avec une demande de repos le lendemain.
+
 ### Le soutien dépend d'un récit encourageant
 
 Lorsque les proches souhaitent la rassurer, Anaïs peut se sentir obligée de leur fournir des signes d'amélioration. Elle choisit alors les nouvelles positives et tait les questions ouvertes. Le soutien devient paradoxal : elle reçoit de l'attention à condition de protéger les autres de sa réalité complète.
@@ -49,6 +54,11 @@ Elle peut préciser ce qu'elle souhaite : être écoutée sans conclusion rapide
 
 Si elle préfère parfois garder une difficulté pour le cadre de soins ou un autre espace, ce choix reste le sien. L'authenticité ne demande pas de tout raconter à tous. Elle signifie ici qu'elle n'a pas à fabriquer une histoire de mieux-être pour mériter la présence ou l'aide.
 
+Exemples concrets
+
+- Elle pourrait ne raconter à Benoît que les compliments reçus et taire la fatigue du départ.
+- Avant de remercier Mireille pour le relais, elle se sent tentée de dire que tout va désormais mieux.
+
 ### L'absence de garantie rend les progrès insignifiants
 
 Anaïs sait qu'un aménagement professionnel peut demander du temps et qu'une activité adaptée ne contrôle pas toute la fatigue. Cette lucidité risque parfois de lui faire conclure que rien ne compte tant que le problème principal existe. Une amélioration partielle devient trop petite pour être reconnue.
@@ -56,6 +66,11 @@ Anaïs sait qu'un aménagement professionnel peut demander du temps et qu'une ac
 Pourtant, une information comprise, un geste moins coûteux ou une rencontre possible possède une utilité concrète. Ces éléments ne doivent pas être exagérés, mais ils ne disparaissent pas parce qu'ils restent incomplets. Les reconnaître aide à savoir ce qu'il vaut la peine de maintenir et ce qui nécessite encore une demande.
 
 Elle peut conserver une insatisfaction légitime. Être reconnaissante envers Céline ne l'oblige pas à accepter des conditions inadaptées. Apprécier l'exposition ne lui interdit pas de regretter certaines possibilités. Un bilan réaliste peut contenir des appuis utiles et des besoins non satisfaits, sans obliger l'un à effacer l'autre.
+
+Exemples concrets
+
+- Une démarche au travail encore ouverte pourrait lui faire oublier qu’un interlocuteur est identifié.
+- Le fait de devoir partir tôt pourrait lui faire juger inutiles les réponses déjà données aux visiteurs.
 
 ## 3 techniques pour soutenir un espoir qui respecte la réalité
 
@@ -67,6 +82,16 @@ Cette distinction évite deux raccourcis : traiter un projet comme un résultat 
 
 Pour les questions médicales, Anaïs garde le cadre de son équipe. Elle demande les explications utiles et les repères de suivi, sans déduire une prévision de ses activités associatives. Elle peut espérer les objectifs discutés avec les soignants tout en reconnaissant ce qu'elle ne sait pas encore.
 
+Pour essayer dans cette situation
+
+Objectif : Donner à une possibilité actuelle une portée exacte.
+
+1. Choisir soit la démarche au guichet, soit la prochaine rencontre associative.
+2. Écrire ce qui existe réellement et ce qui reste sans réponse.
+3. Nommer une prochaine action avec son interlocuteur et garder les questions médicales dans le suivi.
+
+Cette distinction peut soutenir un projet sans présenter son issue comme acquise.
+
 ### 2. Nommer les appuis sans les transformer en dette
 
 Anaïs identifie ce qui l'aide réellement : Benoît porte un sac et respecte son choix ; Mireille organise un relais ; Céline facilite un échange au travail ; les professionnels examinent les questions relevant de leur rôle. Cette diversité évite de demander à une seule personne de garantir toute sa stabilité.
@@ -75,6 +100,16 @@ Elle remercie pour les gestes précis et peut signaler ce qui lui convient moins
 
 Elle vérifie aussi la soutenabilité des appuis pour chacun. Les proches peuvent exprimer leurs contraintes et demander un relais. La relation devient plus fiable lorsque les limites sont connues plutôt que masquées par une promesse de disponibilité totale. Anaïs garde sa place dans cette répartition sans en devenir l'unique coordinatrice.
 
+Pour essayer dans cette situation
+
+Objectif : Reconnaître un geste de soutien sans l’acheter par une disponibilité illimitée.
+
+1. Nommer le geste utile de Benoît ou de Mireille et le remercier précisément.
+2. Dire aussi ce qu’Anaïs ne souhaite pas, comme prolonger sa présence pour prouver l’utilité du relais.
+3. Vérifier avec chacun la disponibilité pour la suite et chercher un autre appui si nécessaire.
+
+Les limites explicites peuvent rendre le soutien plus soutenable pour toutes les personnes concernées.
+
 ### 3. Préserver une possibilité choisie sans exiger une preuve
 
 Pour les prochains jours, elle retient une activité qui compte et les conditions nécessaires, dans le respect des recommandations reçues. Il peut s'agir d'un échange autour d'un film, d'une notice à relire ou d'une activité physique adaptée discutée avec les professionnels. La valeur n'est pas déterminée par la quantité accomplie.
@@ -82,6 +117,16 @@ Pour les prochains jours, elle retient une activité qui compte et les condition
 Elle prévoit comment réduire, reporter ou transmettre si son état le demande. Cette marge ne dévalorise pas le projet. Elle permet d'y penser sans promettre une disponibilité qu'elle ne possède pas. Si aucune version ne convient, elle conserve le droit de s'arrêter et de chercher un autre appui.
 
 Après, elle regarde ce qu'elle souhaite retenir : une présence, une question, une difficulté à faire examiner. Le bilan ne devient pas un score de courage. Il l'aide à préparer la suite, avec la possibilité de demander du soutien psychologique lorsque l'incertitude, la tristesse ou la fatigue émotionnelle prennent trop de place.
+
+Pour essayer dans cette situation
+
+Objectif : Préserver une possibilité qui compte sans exiger une journée parfaite.
+
+1. Choisir pour les prochains jours une conversation sur le film ou une notice à relire.
+2. Convenir de la manière de réduire ou reporter ce moment selon son état et les recommandations reçues.
+3. Après, garder un plaisir ou une question utile et décider seulement de la suite adaptée.
+
+Un bilan limité à cette expérience peut laisser exister à la fois le plaisir et les besoins non résolus.
 
 ## Mireille prend la question suivante
 

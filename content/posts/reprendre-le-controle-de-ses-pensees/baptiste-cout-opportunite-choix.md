@@ -35,13 +35,28 @@ Reconnaître un coût n’implique donc pas qu’il faut renoncer à l’activit
 
 L’atelier possède un horaire, un trajet et une météo incertaine. Dans son imagination, la sortie à vélo reste un moment parfaitement agréable, sans fatigue ni problème d’organisation. S’il inverse la comparaison, il obtient le résultat inverse : la promenade comporte des contraintes et les photographies semblent offrir une expérience idéale. Baptiste peut chercher une description plus équilibrée des deux activités. Cela ne demande pas de les dévaloriser. Il s’agit de comparer deux possibilités réelles, avec leurs avantages et leurs limites, plutôt qu’une proposition concrète à une image entièrement favorable de celle qu’il laisse passer.
 
+Exemples concrets
+
+- En regardant les images du vélo, Baptiste oublie le trajet et la fatigue possibles de cette sortie.
+- Pendant l’explication de l’atelier, il imagine les cyclistes déjà dehors sans savoir comment leur matinée se déroule.
+
 ### On oublie qui fournit la marge nécessaire
 
 Baptiste pourrait tenter de faire les deux activités en rentrant plus tard que prévu. Le temps supplémentaire ne se crée pas pour autant. Caroline devrait peut-être modifier son programme, Elsa attendre une autre organisation, et lui-même renoncer à un repos souhaité. Ces conséquences méritent une discussion plutôt qu’une présentation de la seconde sortie comme un simple supplément gratuit. L’attention portée aux coûts ne porte pas seulement sur l’individu qui choisit. Elle concerne aussi les engagements déjà pris et les personnes dont la souplesse serait mobilisée. Un accord permet de vérifier cette possibilité ; une supposition ne la remplace pas.
 
+Exemples concrets
+
+- Faire les deux sorties pourrait prolonger le créneau que Caroline et lui avaient convenu.
+- Ajouter le vélo à l’atelier peut retirer un temps de récupération plutôt que créer une activité gratuite.
+
 ### On promet au futur de rembourser toutes les occasions manquées
 
 Pour rendre son choix moins désagréable, Baptiste peut annoncer qu’il fera bientôt la promenade, l’étagère et une autre sortie familiale. Ces projets peuvent être souhaitables, mais occupent à leur tour des créneaux limités. Les promettre sans les examiner déplace l’arbitrage au lieu de le résoudre. Il peut conserver une envie sans en faire immédiatement un engagement. Il peut également laisser partir une occasion précise, même si une autre activité du même type sera possible plus tard. Cette reconnaissance donne une place au regret sans lui attribuer le pouvoir d’exiger un nouveau programme chargé.
+
+Exemples concrets
+
+- Baptiste pourrait promettre une nouvelle promenade avant de connaître les prochains samedis disponibles.
+- L’étagère, le vélo et une sortie familiale deviennent trois dettes s’il les annonce tous pour calmer son regret.
 
 ## Trois pistes pour comparer les possibilités sans tout comptabiliser
 
@@ -49,13 +64,31 @@ Pour rendre son choix moins désagréable, Baptiste peut annoncer qu’il fera b
 
 Baptiste commence par le samedi qu’il possède, pas par celui qu’il aimerait inventer. Il regarde le créneau discuté avec Caroline, les trajets et le besoin de récupérer avant la semaine suivante. Il vérifie aussi ce qu’une modification changerait pour les autres. Ce cadre ne constitue pas une prison à respecter sans conversation : il peut être renégocié si chacun le souhaite et si les conditions le permettent. Mais il doit rester visible. Dans d’autres situations, l’argent, la santé ou l’accès aux transports réduisent davantage encore le choix. Les nommer permet de ne pas attribuer à une mauvaise organisation personnelle ce qui dépend de ressources insuffisantes. La meilleure option théorique ne devient pas accessible uniquement parce qu’on lui trouve beaucoup d’avantages.
 
+Exercice pratique
+
+- Reprenez le créneau du samedi déjà discuté avec Caroline.
+- Ajoutez le trajet et le temps de récupération que chaque sortie demande.
+- Vérifiez avec elle tout changement qui déplacerait une charge vers son programme.
+
 ### 2. Décrire les quelques alternatives qui peuvent vraiment être choisies
 
 Baptiste retient trois possibilités : l’atelier, la promenade ou une matinée sans engagement extérieur. Pour chacune, il note ce qu’elle lui apporte et ce qu’elle remplace. Il laisse de côté les activités qu’il ne ferait vraisemblablement pas même avec le temps libre, ainsi que les projets qui exigeraient d’autres ressources. Cette réduction n’impose pas de choisir celle qui accumule le plus de points. Les critères n’ont pas forcément le même poids : une envie rare peut compter davantage aujourd’hui, tandis que le repos serait prioritaire une autre semaine. L’exercice sert à rendre les différences compréhensibles. Il ne demande pas de calculer chaque plaisir, de comparer la valeur des personnes ou d’optimiser toutes les heures d’un week-end.
 
+Exercice pratique
+
+- Décrivez l’atelier, le vélo et la matinée sans engagement extérieur.
+- Pour chaque possibilité, notez un apport et l’alternative accessible qu’elle remplace.
+- Choisissez le critère qui compte le plus cette semaine sans additionner toutes les activités imaginables.
+
 ### 3. Choisir et nommer ce qui restera non vécu
 
 S’il choisit l’atelier, Baptiste peut dire à Emmanuel qu’il regrette de manquer la sortie et qu’il ne sera pas présent cette fois. Il n’a pas besoin d’ajouter immédiatement un rendez-vous de compensation. Une envie de promenade peut rester ouverte sans date promise. Reconnaître ce renoncement évite d’attendre du choix retenu qu’il efface toutes les qualités de l’autre. L’atelier pourra être intéressant et comporter des moments moins agréables ; cela ne rendra pas automatiquement la promenade supérieure. Après l’expérience, Baptiste pourra regarder ce qu’il a appris pour de prochains choix, en tenant compte des informations dont il disposait réellement. La comparaison ne doit pas devenir une vérification permanente de l’activité alternative pendant celle qu’il a choisie.
+
+Exercice pratique
+
+- Donnez votre réponse à l’atelier et à Emmanuel avant l’échéance annoncée.
+- Dites que la promenade vous plaisait, sans réserver immédiatement un autre samedi.
+- Après la matinée choisie, relevez ce que vous en retenez sans reconstruire une sortie alternative parfaite.
 
 ## Le vélo attendra
 

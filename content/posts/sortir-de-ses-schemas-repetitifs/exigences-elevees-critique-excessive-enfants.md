@@ -33,29 +33,68 @@ L'expression de ce schéma envers les plus jeunes prend des formes subtiles mais
 
 Chez un profil comme Youssef, l'interaction avec un enfant devient une série d'objectifs à atteindre. Si l'enfant dessine, l'adulte ne voit pas l'expression créative, mais le dépassement des contours. On se surprend à dire que ce n'est pas la bonne couleur pour un ciel, ou que l'enfant devrait tenir son crayon plus fermement. Si les corrections prennent le pas sur le jeu, elles peuvent décourager l’enfant de poursuivre. L’effet dépend notamment de la répétition et de la manière d’intervenir.
 
+Deux exemples dans cet épisode :
+
+- Devant la file de voitures, Youssef redresse la roue sans demander ce que son neveu construit.
+- S’il proposait un dessin au petit, il pourrait commenter le dépassement des contours avant de regarder ce que l’enfant veut représenter.
+
 ### 2. L'intolérance à l'imperfection logistique
 
 Les exigences élevées se manifestent aussi par une rigidité face au chaos inhérent à la vie de famille. Une tache sur un vêtement neuf, un jouet qui traîne dans le couloir ou un horaire de sieste décalé de dix minutes sont perçus comme des dysfonctionnements graves. L'adulte réagit avec une irritation disproportionnée, car ces petits imprévus sont vécus comme une perte de maîtrise personnelle. Pour Youssef, le désordre n'est pas qu'un souci esthétique, c'est une preuve d'échec dans l'organisation de sa vie.
+
+Deux exemples dans cet épisode :
+
+- Une voiture laissée au passage peut déclencher chez lui une réprimande générale alors qu’il suffit d’examiner le risque et de la déplacer.
+- Au jardin, le pantalon taché attire son attention avant le projet de transvasement, tandis que l’eau proche de la prise demande une intervention de sécurité réelle.
 
 ### 3. La transmission inconsciente du stress de performance
 
 Un adulte peut reconnaître qu’un ton très critique met une pression inutile. Youssef se demande ce qu’il aurait voulu entendre quand il était petit. Le silence de son neveu ne lui suffit pas à savoir ce que celui-ci a compris.
 
+Deux exemples dans cet épisode :
+
+- Après « c’est mieux comme ça », le neveu interrompt son jeu et Youssef serait tenté de lui demander de recommencer plus proprement.
+- Il pourrait multiplier les remarques sur l’alignement pour encourager l’application sans vérifier si l’enfant souhaite cette aide.
+
 ## Techniques pour assouplir ses exigences
 
-Pour briser ce cycle, il est nécessaire de rééduquer son regard et d'apprendre à valoriser l'expérience plutôt que le résultat final.
+Youssef peut examiner les corrections nécessaires et celles qui répondent seulement à ses préférences.
 
 ### 1. La technique du bon assez
 
-Cette méthode consiste à redéfinir volontairement le seuil de satisfaction. Youssef peut décider quelles règles sont nécessaires pour la sécurité et quels détails peuvent être laissés au choix de l’enfant. Par exemple, lors d'une sortie au parc, l'objectif n'est plus que tout le monde rentre propre et à l'heure, mais que chacun ait passé un moment agréable. L'exercice consiste à lister trois imperfections acceptables avant de commencer une activité. Accepter que la table soit mal débarrassée ou qu'un vêtement soit froissé permet de libérer de l'espace mental pour la connexion émotionnelle.
+Cette méthode consiste à redéfinir volontairement le seuil de satisfaction. Youssef peut décider quelles règles sont nécessaires pour la sécurité et quels détails peuvent être laissés au choix de l’enfant. Par exemple, une tache sur un vêtement peut être acceptable dans un jeu prévu pour cela, tout en respectant l’horaire convenu avec les responsables de l’enfant. L'exercice consiste à lister trois imperfections acceptables avant de commencer une activité. Youssef peut choisir de laisser un vêtement froissé ou un garage de travers, sans relâcher les règles de sécurité.
+
+Objectif de cet essai : Séparer une règle nécessaire d’un détail laissé au choix de l’enfant.
+
+1. Avant le jeu, repérez les limites nécessaires de sécurité avec l’adulte responsable.
+2. Choisissez des détails que vous pouvez laisser à l’enfant, comme la couleur ou l’alignement des véhicules.
+3. Quand vous voulez corriger, vérifiez si cela répond à une limite nécessaire ou à votre préférence.
+
+Utilité possible : La distinction réserve l’intervention aux besoins réels sans exiger le désordre ou l’absence de limites.
 
 ### 2. Le recadrage du critique intérieur par la compassion
 
 Dans [un exercice proposé par Kristin Neff](https://self-compassion.org/exercises/exercise-1-how-would-you-treat-a-friend/), on compare la façon dont on se parle à celle dont on parlerait à un ami en difficulté. Youssef peut s'en inspirer pour remarquer sa frustration avant de répondre à l'enfant. Une phrase précise lui donne quelque chose à faire : « Le verre est renversé, allons chercher de quoi essuyer. »
 
+Objectif de cet essai : Répondre au problème concret avec respect.
+
+1. Repérez votre phrase critique à propos du jouet ou du verre renversé.
+2. Cherchez la formulation précise que vous utiliseriez avec une personne respectée.
+3. Nommez la situation et proposez l’action utile sans jugement global sur l’enfant.
+
+Utilité possible : La phrase donne une suite praticable à l’incident sans promettre d’annuler l’irritation.
+
 ### 3. La pratique du jeu non dirigé
 
 Dans un cadre sûr et en restant attentif, l’adulte peut laisser l’enfant choisir le jeu, commenter ce qu’il fait et intervenir si la sécurité l’exige. Les [conseils des CDC sur le jeu dirigé par l’enfant](https://www.cdc.gov/parenting-toddlers/communication/special-playtime.html) proposent quelques minutes de jeu partagé. Youssef peut commencer par suivre le choix de son neveu.
+
+Objectif de cet essai : Suivre le jeu choisi par le neveu dans un cadre sûr.
+
+1. Laissez le neveu choisir un jeu adapté au cadre prévu.
+2. Suivez ce qu’il fait et demandez s’il veut votre aide avant de modifier sa construction.
+3. Restez attentif à la sécurité et intervenez si nécessaire, en expliquant la règle sans corriger tous les détails du jeu.
+
+Utilité possible : Le jeu peut accueillir les choix de l’enfant sans faire du plaisir ou de sa réaction un résultat obligatoire.
 
 ## Un garage de travers
 

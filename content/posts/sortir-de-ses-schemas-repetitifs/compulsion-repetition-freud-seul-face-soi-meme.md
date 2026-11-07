@@ -32,22 +32,49 @@ Fabien y trouve une façon de raconter son expérience : le silence de son appar
 ### 1. Le choix de l'isolement sécuritaire
 Dans l'intimité de son foyer, la compulsion de répétition se manifeste par une tendance à saboter les opportunités de connexion. Fabien, par exemple, décline souvent les invitations de son ami Bernard ou évite d'appeler Véronique pour discuter de l'éducation de Lucas, préférant rester dans son propre silence. Pour Fabien, ces refus rappellent une époque où il évitait de déranger les autres. Un refus peut aussi avoir des raisons très actuelles.
 
+**Deux exemples à examiner :** Fabien hésite à s’inscrire à une nouvelle séance de lecture malgré son intérêt pour le livre. Il diffère une proposition de balade à Bernard tout en souhaitant sortir. Un soir où il veut réellement rester seul peut avoir un autre sens.
+
 ### 2. La recherche inconsciente de la saturation
 Une autre manifestation courante consiste à se surcharger de responsabilités pour recréer l'état de tension de l'enfance. Fabien frôle l'épuisement parce qu'il accepte des dossiers complexes même le week-end, se retrouvant seul face à ses dossiers comme il était seul face aux angoisses de sa mère étant petit. Il s’interroge à la fois sur ce qu’il accepte et sur la charge qui lui est confiée.
+
+**Deux situations possibles :** il ouvre un rapport le jour férié sans échéance vérifiée. Il accepte une nouvelle tâche avant d’avoir regardé le temps déjà engagé. Ces choix permettent d’interroger la charge actuelle ; ils ne démontrent pas une recherche inconsciente de tension.
 
 ### 3. Le maintien d'un environnement sensoriel familier
 La répétition passe aussi par des détails du quotidien. L'aménagement spartiate de l'appartement de Fabien, l'absence de photos personnelles ou le choix de musiques mélancoliques créent une ambiance qui rappelle inconsciemment la maison de son père. Ce rapprochement lui appartient : un choix de décor ou de musique n’est pas un signe de compulsion.
 
+**Deux exemples :** les disques restent alignés comme dans un intérieur qu’il connaît bien. La lampe choisie par Marine attend dans un carton alors qu’il utilise toujours le même éclairage. Le sens donné à ces détails lui appartient ; aucun ne prouve une compulsion.
+
 ## Techniques pour agir face à la compulsion de répétition
 
 ### 1. La cartographie des échos émotionnels
-Si vous avez envie d’écrire, partez d’une situation actuelle : que s’est-il passé, quelle réponse avez-vous choisie et qu’aimeriez-vous tenter la prochaine fois ? Un souvenir spontané peut éclairer votre réflexion sans servir de preuve. Vous n’avez pas à chercher des souvenirs manquants ni à poursuivre si l’exercice vous met en difficulté.
+
+**Objectif :** Décrire une habitude actuelle sans démontrer qu’elle vient de l’enfance.
+
+1. Choisir un moment précis, comme l’hésitation devant l’inscription au cercle de lecture.
+2. Noter ce qui s’est passé, la réponse retenue et les contraintes actuelles ; distinguer tout souvenir spontané d’un fait explicatif certain.
+3. Écrire une autre réponse possible pour une prochaine occasion, ou décider de ne rien changer aujourd’hui.
+
+La note peut aider à comparer des choix. Elle ne nécessite aucun souvenir manquant et peut être arrêtée si elle bouleverse.
 
 ### 2. Le contre-scénario expérimental
-Choisissez, si vous le souhaitez, une petite variante à une habitude actuelle : par exemple proposer une balade à un ami ou préparer un repas différent. Observez si le changement vous convient. Il ne permet pas de conclure à une cause ni à un changement cérébral.
+
+**Objectif :** Essayer une variante quotidienne qui intéresse Fabien.
+
+1. Choisir une variante modeste, telle qu’installer la lampe de Marine près du fauteuil.
+2. L’essayer dans un contexte sûr sans en faire une preuve de changement psychique.
+3. Observer si elle lui convient et la garder, l’adapter ou revenir à l’usage précédent.
+
+Un essai peut préciser une préférence. L’intensité de la lampe ou l’envie de rester seul ne valident ni n’invalident une théorie de la répétition.
 
 ### 3. Une lettre sur ses attentes actuelles
-Vous pouvez écrire ce que vous vous demandez d’habitude et ce qui serait raisonnable aujourd’hui. Fabien note qu’il aimerait parfois pouvoir laisser un rapport attendre. Si une menace ou un danger est actuel, chercher de l’aide et se mettre en sécurité passe avant un exercice d’écriture.
+
+**Objectif :** Choisir une attente raisonnable pour ce jour férié.
+
+1. Écrire une demande qu’il s’adresse aujourd’hui, comme finir un rapport alors qu’aucune urgence n’est confirmée.
+2. Vérifier les engagements réels et reformuler ce qui peut attendre.
+3. Retenir une décision concrète, comme fermer le dossier et préparer son repas, sans devoir appeler quelqu’un.
+
+Le brouillon peut préciser une priorité présente. Il ne traite pas un traumatisme et une menace actuelle appelle d’abord aide et sécurité.
 
 ## Une lampe et un rendez-vous incertain
 

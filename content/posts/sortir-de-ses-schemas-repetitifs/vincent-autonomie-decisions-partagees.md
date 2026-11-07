@@ -41,6 +41,8 @@ Ce raccourci peut se produire sans intention de contrôler. Son effet reste néa
 
 Ils peuvent reconnaître les deux faits ensemble. Vincent apporte du temps et une recherche utile ; la décision n’est pas encore partagée. Le premier fait n’efface pas le second. Cédric peut remercier pour les informations tout en préférant une autre option. Cette distinction évite de transformer le choix d’un hébergement en test de gratitude.
 
+Il retient l’hébergement alternatif avant d’entendre la préférence de Cédric ; il note aussi l’arrivée envisagée avant de comparer les horaires à deux. Le choix du lieu et celui du départ peuvent ainsi être présentés comme réglés par une seule recherche.
+
 ### La protection se fonde sur une préférence supposée
 
 Vincent pense que Cédric souhaite éviter toute complication. Cédric dit aujourd’hui qu’il préfère rester près de l’exposition, quitte à effectuer une vérification supplémentaire. Vincent ne peut pas déduire cette préférence de la mobilité réduite de son compagnon. Il doit l’entendre dans les mots actuels, même si une autre décision leur convient lors d’un voyage précédent.
@@ -49,11 +51,15 @@ Les besoins et les envies peuvent varier selon le projet. Une personne peut priv
 
 Vincent peut également décrire son propre besoin de simplicité. Cette parole est plus juste que de l’attribuer à Cédric. Dire « je suis fatigué et je voudrais limiter les recherches cette semaine » permet un arbitrage commun. Dire « c’est forcément mieux pour toi » ferme la discussion sous une apparence de sollicitude.
 
+Il suppose que l’accès confirmé doit faire préférer le lieu éloigné ; il peut aussi supposer qu’un départ plus simple doit primer sur l’activité voisine de l’exposition. Cédric formule pourtant une proximité et des vérifications qui comptent pour ce séjour précis.
+
 ### L’information reste dans les mains de celui qui recherche
 
 Vincent garde les réponses des hébergements dans sa messagerie. Cédric reçoit seulement son résumé. Il doit poser plusieurs questions pour connaître les détails, ce qui donne l’impression que le choix devient compliqué à cause de lui. En réalité, une partie de la difficulté vient d’un accès inégal aux informations nécessaires.
 
 Ils peuvent partager les réponses utiles sans créer un dossier interminable. Une adresse, les points vérifiés, les questions restantes et le prix suffisent pour comparer les options. La transparence de l’information soutient la décision, tandis que l’accumulation de recherches sans conclusion peut épuiser les deux. Il faut donc convenir aussi d’une manière de s’arrêter lorsque les éléments sont suffisants.
+
+Le message confirmant l’accès reste dans sa boîte ; le détail du trajet alternatif reste dans ses notes. Cédric doit demander la source de la première assurance comme les conditions de la seconde pour comparer réellement les options.
 
 ## Trois techniques pour partager les décisions
 

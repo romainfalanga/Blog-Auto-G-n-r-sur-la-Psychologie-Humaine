@@ -33,13 +33,25 @@ La trahison en couple prend des formes variées, allant de l'acte explicite au r
 
 Youssef répond d’une manière que Léa trouve distante. Elle n’a pas à excuser ce qui l’a blessée, et elle ne sait pas encore s’il a compris ce qu’elle attendait.
 
+Exemples situés :
+- Sur le canapé, Léa attend une question sur sa peur et reçoit une réponse sur son stage.
+- Quand Youssef évoque le Dr Moreau, elle peut entendre que sa confidence est renvoyée ailleurs, sans savoir s’il avait compris la demande d’écoute.
+
 ### 2. La trahison des secrets partagés
 
 Divulguer une confidence ou s’en servir pour humilier l’autre peut rompre la confiance. Une réponse maladroite à une confidence est une autre situation. Confier une peur profonde, c'est donner à l'autre le pouvoir de nous blesser. Si le partenaire minimise cette peur ou la transforme en sujet d'étude froid, il brise le lien de sacralité de l'échange. Le sentiment de trahison en couple naît alors de l'impression d'avoir été manipulé ou d'avoir donné ses clés à quelqu'un qui ne sait pas protéger la maison.
 
+Exemples situés :
+- Dans la scène du studio, Léa ne rapporte aucune divulgation : elle peut nommer sa solitude sans ajouter cet acte à ce que Youssef a fait.
+- Dans un autre couple, raconter au groupe d’amis une confidence intime sans l’accord de la personne serait un fait distinct d’une réponse maladroite sur un canapé.
+
 ### 3. Un désaccord sur les priorités
 
 Si l’un des deux se sent régulièrement relégué au second plan, il peut vouloir discuter de la place du travail, des amis et de la famille. Aucun partenaire n’est tenu de placer tous les autres liens après le couple.
+
+Exemples situés :
+- Léa peut demander un temps d’écoute maintenant sans exiger que Youssef renonce à tout autre sujet ou lien.
+- Si une discussion sur le stage prend toute la place après sa confidence, elle peut préciser qu’elle souhaite d’abord finir ce qu’elle disait de sa peur.
 
 ## Techniques pour agir face à la trahison en couple
 
@@ -49,13 +61,38 @@ Faire face à ce sentiment de trahison demande de la clarté et une capacité à
 
 Cette méthode consiste à verbaliser non pas le reproche, mais le besoin non comblé. Au lieu de dire à l'autre qu'il est froid ou traître, on exprime ce que son silence provoque à l'intérieur. L'exercice est simple : utilisez la structure suivante, quand tu restes silencieux face à mon histoire, je me sens trahie dans mon besoin de sécurité parce que j'interprète cela comme un rejet. Léa peut dire plus simplement : « Quand tu m’as renvoyée vers mon stage, je me suis sentie seule. J’aurais aimé que tu m’écoutes. » Sa demande ne garantit pas la réponse de Youssef.
 
+Objectif : rendre explicite la demande d’écoute dans un échange sûr et souhaité.
+
+Exercice pratique :
+1. Choisissez la réponse précise que vous voulez reprendre, comme le renvoi vers le stage.
+2. Dites son effet sur vous sans conclure à une intention : « Je me suis sentie seule ».
+3. Demandez un temps limité pour poursuivre votre confidence et choisissez de vous arrêter si la conversation ne vous convient plus.
+
+Utilité possible : Youssef peut entendre une demande précise ; Léa n’a pas à prouver une trahison ni à obtenir une réaction particulière pour reconnaître sa peine.
+
 ### 2. La cartographie des attentes explicites
 
 Souvent, la trahison naît d'un malentendu sur les règles du jeu relationnel. Prenez une feuille de papier et listez ce que vous considérez comme des piliers non négociables de la fidélité émotionnelle. Demandez à votre partenaire de faire de même. Comparez vos listes. Pour Léa, la validation émotionnelle est un pilier, tandis que pour Youssef, la fidélité est peut-être purement factuelle. En identifiant ces zones d'ombre, on peut renégocier le contrat de couple pour éviter que des comportements perçus comme anodins par l'un ne soient vécus comme des trahisons par l'autre.
 
+Objectif : parler d’une attente concrète plutôt que supposer un contrat identique pour les deux.
+
+Exercice pratique, seulement si chacun souhaite cet échange et qu’il est sûr :
+1. Écrivez une attente à propos des confidences, par exemple demander avant de transmettre une information intime.
+2. Invitez l’autre à préciser son attente et comparez vos formulations sans attribuer d’avance une définition à Youssef.
+3. Retenez un accord concret si vous le partagez, ou reconnaissez le désaccord et cherchez un appui si une limite est menacée.
+
+Utilité possible : le dialogue peut rendre les attentes visibles. Une humiliation, une pression ou une violence n’a pas à devenir un compromis à négocier.
+
 ### 3. L'ancrage de la sécurité interne
 
-Léa peut prendre du recul et choisir si elle souhaite parler, faire une pause ou appeler une personne de confiance. Elle n’a pas besoin de se replonger dans l’enfance pour savoir qu’une limite lui importe.
+L’objectif est de choisir une suite à la conversation sans devoir expliquer son histoire.
+
+Exercice pratique :
+1. Prenez un moment à l’écart si vous le souhaitez et pouvez le faire en sécurité.
+2. Nommez votre préférence actuelle : parler encore, arrêter pour ce soir ou appeler une personne de confiance.
+3. Mettez en place ce choix avec un appui concret, par exemple demander à Zoé si elle est disponible.
+
+Utilité possible : Léa garde plusieurs réponses possibles. Elle n’a pas besoin de se replonger dans l’enfance ni de convaincre Youssef avant de chercher du soutien.
 
 ## Deux minutes sur le canapé
 

@@ -36,11 +36,23 @@ L'histoire de Nadia permet de distinguer ce qu'elle connaît déjà, ce qu'elle 
 ### 1. La surestimation des coûts de transition
 Nadia pense aux nouveaux logiciels et aux trajets pour déposer Yasmine à l'école. Ces contraintes méritent d'être chiffrées ou vérifiées. Elle peut aussi demander ce que le nouveau poste lui apporterait concrètement, au lieu de tenir ce bénéfice pour acquis.
 
+Exemples situés :
+- Dans son calendrier, Nadia inscrit d’abord « tard tous les soirs » pour le nouveau poste sans avoir reçu cet horaire.
+- Elle peut compter les trajets d’école comme une contrainte réelle puis demander leur compatibilité avec l’offre, plutôt que les transformer d’emblée en impossibilité.
+
 ### 2. La peur du regret et la responsabilité de l'action
 Nadia craint de regretter son départ si le nouveau poste ne lui convient pas. Elle envisage moins spontanément de regretter d'être restée. Selon les circonstances et le moment où l'on y repense, le regret peut concerner les deux décisions.
 
+Exemples situés :
+- Nadia imagine regretter un départ à la scale-up si les soirées sont plus longues.
+- Elle peut aussi demander ce qui se passerait si elle restait avec la même charge, sans décider que ce regret serait forcément plus grand.
+
 ### 3. La rationalisation de l'insatisfaction actuelle
 Nadia se surprend à minimiser les soirs où elle rentre épuisée. Elle peut aussi avoir raison de donner du poids à des horaires compatibles avec la garde alternée. La dissonance cognitive, dans la théorie qui porte ce nom, désigne l'inconfort lié à une incompatibilité entre des éléments comme ses croyances et ses actes ; ce n'est pas un autre nom de la rationalisation.
+
+Exemples situés :
+- « Horaires connus » peut désigner un vrai appui de garde ou masquer les soirées où Nadia rouvre encore le portable.
+- Le souhait de garder ses repères avec Julie peut compter dans le choix sans faire disparaître les possibilités de transmission qu’elles pourraient organiser.
 
 ## Techniques pour agir face au biais de statu quo
 
@@ -49,11 +61,38 @@ Ces exercices servent à comparer les options et à repérer ce qui manque pour 
 ### 1. La technique de l'inversion du statu quo
 Imaginez que les deux postes vous soient proposés aujourd'hui. Est-ce que l'ordre de vos préférences change ? La réponse peut faire émerger un critère oublié. Revenez ensuite aux conditions réelles : trajet, salaire, contraintes familiales et coûts de transition.
 
+Objectif : repérer un critère au-delà du seul caractère familier du poste.
+
+Exercice pratique :
+1. Présentez-vous les deux postes comme deux offres du même jour, avec les données effectivement connues.
+2. Notez le critère qui devient plus visible, comme les horaires compatibles avec Yasmine.
+3. Revenez aux coûts réels de transition et demandez les informations manquantes avant de conclure.
+
+Utilité possible : le détour examine une préférence sans faire du départ le choix attendu.
+
 ### 2. L'analyse du coût de l'inaction
 Décrivez ce qui pourrait se passer si vous restez et ce qui pourrait se passer si vous partez. Pour chaque option, distinguez les conséquences déjà connues des hypothèses. Nadia peut par exemple demander si une baisse de sa charge actuelle est envisageable.
 
+Objectif : comparer les suites possibles de rester et de partir.
+
+Exercice pratique :
+1. Décrivez une conséquence connue pour chaque option, en distinguant les soirées actuelles des horaires encore inconnus.
+2. Ajoutez une question à vérifier de chaque côté, comme l’allégement de charge actuel et les lancements à la scale-up.
+3. Reprenez ces réponses selon vos priorités de travail et de garde, sans additionner des inconnues comme des faits.
+
+Utilité possible : les deux options peuvent recevoir un examen comparable, y compris les avantages réels de rester.
+
 ### 3. La politique des petits paris réversibles
 Repérez un pas qui apporte de l'information avant de vous engager. Nadia peut rencontrer l'équipe et clarifier les conditions de l'offre. Une période d'essai ne garantit pas le retour à son ancien poste ; elle vérifie quels choix restent réellement ouverts.
+
+Objectif : obtenir une information avant l’engagement sans promettre un retour possible.
+
+Exercice pratique :
+1. Choisissez un pas d’information, comme rencontrer l’équipe ou appeler le recruteur sur la disponibilité.
+2. Demandez ce qui engage déjà votre décision et ce qui reste ouvert, sans supposer qu’une période d’essai protège l’ancien poste.
+3. Notez les réponses et choisissez de poursuivre, demander du temps ou rester.
+
+Utilité possible : le premier pas peut être limité à une question réelle ; il ne rend pas tous les choix réversibles.
 
 ## Trois horaires à vérifier
 

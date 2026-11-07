@@ -51,8 +51,16 @@ L’[article sur l’alexithymie en couple](https://decodetonesprit.fr/posts/com
 
 Les 48 parcours déjà publiés à l’ouverture de cette reprise, soit 576 épisodes, suivent la trame. Le registre conserve les dates, les empreintes des manuscrits et les notes de relecture. Les épisodes reprennent leurs adresses et leur place dans les parcours.
 
-Le catalogue clinique compte 59 parcours et 708 épisodes à cette trame. Les 27 sujets de la file prioritaire actuelle ont un parcours publié. Les dossiers comparatifs et les autres cas restent suivis dans la cartographie.
+Le catalogue clinique compte 63 parcours et 756 épisodes à cette trame. Les 27 sujets de la file prioritaire actuelle ont un parcours publié. Les dossiers comparatifs et les autres cas restent suivis dans la cartographie.
 
-Le [dossier préparatoire de Malo](../editorial/clinical/dossiers/malo.json) documente la catatonie parmi les autres sujets à cadrer.
+Malo (catatonie), Mireille (trouble neurocognitif léger), Anatole (Tourette) et Doriane (personnalité évitante, DSM-5-TR) ajoutent 48 épisodes. Les dossiers et les douze scènes ont reçu une seconde relecture éditoriale indépendante, consignée dans [le rapport de vague](../editorial/reviews/nouveaux-parcours-v24.json).
+
+Le [bilan de couverture](etat-couverture.md), le [registre de tous les codes](../data/coverage_status.json) et la [revue des concepts](../data/psychology_coverage_review.json) conservent les limites et les cas non publiés. Les 91 cas restants ne doivent pas être oubliés à la reprise suivante.
 
 `python3 scripts/clinical_editorial.py progress` indique les priorités, les dossiers, les manuscrits et les parcours déjà relus. Pour une reprise, partir de ces états et du registre avant de rédiger ou d’intégrer une série.
+
+## Relecture des histoires d’origine
+
+La [reprise du 7 novembre](reprise-editoriale-v24.md) étend la lecture sémantique aux 387 articles des 33 personnages d’origine et à leurs conseils pour les proches. Les corps de 371 articles sont corrigés ou complétés par rapport au début de cette reprise. Les preuves, les exceptions factuelles autorisées et les empreintes figurent dans [le registre des originaux](../editorial/reviews/originaux-v24.json).
+
+Les contrôles de publication vérifient que chaque preuve correspond encore au corps et au miroir lus. Les trois manifestations et les trois exercices doivent être réels et distincts, même lorsqu’ils sont formulés en prose. Un contrôle automatique de marqueurs ne remplace pas cette lecture. La version courante compte 1143 articles et 96 personnages ; les cas encore à traiter restent explicitement listés dans l’état de couverture.

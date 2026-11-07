@@ -35,13 +35,19 @@ Pour Odile, appartenir au groupe n’exige pas de devenir semblable à tous ses 
 
 Odile craint que contester la disposition de l’affiche soit reçu comme une critique des personnes. Elle peut donc renoncer à une idée utile pour préserver une atmosphère agréable. Pourtant, participer à une tâche commune comporte la possibilité de comparer des propositions. Elle peut décrire un problème concret, comme la visibilité de l’adresse, sans juger Gérard incompétent. La réponse du groupe comptera aussi. S’il devient impossible de poser une question sans être disqualifié, le problème ne sera pas résolu uniquement en demandant à Odile de se montrer plus à l’aise.
 
+Odile peut proposer d’agrandir le titre, puis demander de déplacer l’adresse qui tombe dans le pli. Ces deux remarques portent sur des éléments distincts de l’affiche, pas sur la valeur de Gérard. Elle peut garder une préférence sur l’un même si le groupe refuse l’autre, sans conclure que sa participation entière vient d’être rejetée.
+
 ### Une norme implicite remplace l’engagement annoncé
 
 La remarque sur les personnes vraiment investies introduit une mesure morale du temps donné. Odile a accepté deux séances et commence à croire qu’il faut ajouter une journée pour prouver son intérêt. Cette nouvelle attente n’annule pas automatiquement l’accord initial. Elle peut demander si le samedi est nécessaire, à quelles tâches il correspond et comment elles seront réparties. Un collectif peut avoir de vrais besoins sans pouvoir les imposer à une personne par une définition de sa bonne volonté. Clarifier permet de distinguer une demande nouvelle d’une obligation déjà acceptée.
 
+La demande du samedi ajoute une journée aux deux séances convenues. La proposition antérieure de garder les clés aurait, elle, ajouté des ouvertures et des appels non définis. Ces deux extensions sont différentes et peuvent répondre à de vrais besoins. Elles restent à discuter comme de nouveaux engagements, au lieu d’être déduites de la présence d’Odile à la première réunion.
+
 ### On demande au groupe de remplir tous les espaces laissés vides
 
 L’activité apporte à Odile des échanges différents de ceux qu’elle partage avec Lucie ou Josiane. Elle ne remplace pas sa sœur. Si elle attend du collectif qu’il supprime tout sentiment de manque, elle risque de considérer chaque désaccord comme une menace immense. Garder plusieurs relations et plusieurs intérêts peut permettre de laisser à cette activité une fonction plus limitée. Cela ne signifie pas que chacun possède facilement d’autres appuis. Lorsqu’un groupe constitue la seule occasion de contact, les possibilités de choix sont plus étroites et peuvent nécessiter un soutien concret pour être élargies.
+
+Par exemple, attendre de Gérard qu’il retrouve les commentaires familiers de Françoise donnerait à leur travail sur l’affiche une mission qu’il ne peut pas remplir. Prendre l’intérêt d’une participante pour le carnet comme la promesse d’une proximité familiale ferait peser une autre attente sur une rencontre légère. Ce sont des risques possibles, pas des intentions établies chez Odile ; elle peut apprécier chacun de ces échanges pour ce qu’il apporte déjà.
 
 ## Contribuer sur un temps convenu
 

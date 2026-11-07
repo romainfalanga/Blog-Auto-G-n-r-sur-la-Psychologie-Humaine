@@ -41,6 +41,11 @@ Cette projection n'est pas une faute. Elle correspond au plaisir de retrouver un
 
 Elle peut apprécier une bonne période sans la convertir intégralement en travail supplémentaire. Garder une marge n'enlève rien au plaisir. Cela laisse de la place aux activités ordinaires, au suivi et au repos, qui ne disparaissent pas parce qu'un projet devient passionnant.
 
+Exemples concrets
+
+- Un jour plus disponible, Anaïs passe dans sa tête de deux notices à six sans revoir le calendrier.
+- Une séance agréable lui donne envie d’accepter aussi le transport des cadres qu’elle n’avait pas prévu.
+
 ### Une difficulté possible devient un renoncement certain
 
 À l'inverse, Anaïs imagine parfois le jour où elle doit annuler et refuse avant même de préciser le rôle. Elle se protège d'une déception éventuelle, mais perd aussi une possibilité de participation. L'incertitude est transformée en impossibilité, alors que plusieurs formes du projet restent peut-être accessibles.
@@ -49,6 +54,11 @@ La prudence peut être nécessaire. Certaines tâches ou périodes ne conviennen
 
 Mireille peut l'aider en décrivant les besoins réels de l'exposition. Une notice transmise à temps ne demande pas forcément une présence à chaque réunion. Un rôle limité peut avoir une utilité claire. Anaïs ne peut pas inventer seule cette organisation ; elle a besoin que le groupe rende ses attentes discutables.
 
+Exemples concrets
+
+- Elle pourrait décliner toute l’exposition en imaginant une seule réunion manquée.
+- Avant que Mireille détaille le rôle, elle suppose qu’écrire une notice exige une présence à tous les montages.
+
 ### Le retard devient une preuve sur sa personne
 
 Si une séance prévue ne se déroule pas comme elle l'espère, Anaïs risque de conclure qu'elle n'est plus capable de projets. Ce verdict dépasse la difficulté rencontrée. Une tâche peut demander une autre durée, une autre installation ou une autre répartition sans que tout intérêt pour l'activité disparaisse.
@@ -56,6 +66,11 @@ Si une séance prévue ne se déroule pas comme elle l'espère, Anaïs risque de
 Elle peut aussi confondre délai et qualité. Une notice plus lente à produire peut rester utile et bien écrite. Le groupe doit néanmoins connaître les contraintes de calendrier pour s'organiser. La nuance consiste à informer assez tôt, plutôt qu'à cacher la difficulté jusqu'au moment où seule une urgence reste possible.
 
 Le projet n'est pas un test médical ni une mesure de sa valeur. Son résultat peut informer ses préférences et les conditions qui lui conviennent. Il ne décide pas de tout son avenir. Garder cette portée limitée lui permet d'essayer sans transformer chaque étape en verdict définitif.
+
+Exemples concrets
+
+- Une première séance plus courte que prévu lui fait craindre de ne plus pouvoir porter de projet.
+- Une date de rédaction reportée lui semble invalider la qualité d’un texte déjà utile.
 
 ## 3 techniques pour construire un engagement ajustable
 
@@ -67,6 +82,16 @@ Cette distinction permet de proposer un rôle cohérent : préparer un petit ens
 
 Elle garde aussi une question ouverte sur le plaisir. Si la recherche devient une obligation permanente, le rôle mérite d'être revu. Ce qui l'intéresse aujourd'hui ne lui impose pas de conserver la même place jusqu'à l'exposition, quelles que soient les conditions. Un engagement discuté peut inclure un point de révision.
 
+Pour essayer dans cette situation
+
+Objectif : Proposer une contribution dont le contenu reste attirant.
+
+1. Nommer ce qui plaît dans l’affiche rouge : la recherche et l’écriture.
+2. Séparer ces opérations du transport et des longues séances, en gardant les repères de santé reçus.
+3. Proposer à Mireille deux notices et les conditions d’accès aux documents nécessaires.
+
+Un périmètre précis peut conserver le sens de sa participation sans absorber toutes les tâches du projet.
+
 ### 2. Prévoir des étapes transmissibles et un relais
 
 Avec Mireille, elle choisit une première notice et une date de point commun. Les références et les versions du texte restent au bon endroit pour que quelqu'un puisse poursuivre si nécessaire. Le relais ne dépend pas d'une longue explication improvisée au dernier moment. Cette organisation profite aussi aux autres membres du groupe.
@@ -75,6 +100,16 @@ Elles distinguent ce qu'Anaïs promet de ce qu'elle souhaite essayer. Elle s'eng
 
 Un relais doit être accepté et réellement disponible. Écrire le nom de Mireille dans une case ne suffit pas si elle porte déjà toutes les autres tâches. Elles vérifient donc la répartition et les limites de chacune. L'adaptation ne consiste pas à déplacer silencieusement l'épuisement d'une personne vers une autre.
 
+Pour essayer dans cette situation
+
+Objectif : Rendre une étape transmissible si les conditions changent.
+
+1. Choisir avec Mireille une première notice et un point commun.
+2. Ranger au même endroit les références et la version du texte.
+3. Vérifier qu’un relais accepte réellement de poursuivre au besoin et distinguer le travail promis des essais supplémentaires.
+
+Le groupe peut mieux reprendre une étape sans réclamer une transmission improvisée à Anaïs.
+
 ### 3. Fixer un moment pour réviser le projet
 
 Anaïs prévoit de revoir l'accord après la première étape, plutôt que de décider chaque jour si elle est « encore capable ». Elle observe la durée réelle, les conditions utiles et ce qui se répercute sur le reste de sa vie. Ces informations soutiennent une discussion concrète sur la suite.
@@ -82,6 +117,16 @@ Anaïs prévoit de revoir l'accord après la première étape, plutôt que de d�
 Elle ne cherche pas à prouver qu'une meilleure organisation supprime les symptômes. Si une difficulté de santé apparaît ou change, elle en parle à son équipe soignante et suit les consignes qui la concernent. Le projet peut attendre ou être modifié ; il ne devient pas une raison de repousser un besoin de soins.
 
 Au point prévu, trois issues restent possibles : continuer de la même manière, réduire le rôle ou passer le relais. Aucune ne résume toute sa valeur. Le critère est la compatibilité entre le projet, les capacités présentes et les autres besoins. Anaïs peut rester liée à l'exposition sous une autre forme si l'écriture ne convient plus.
+
+Pour essayer dans cette situation
+
+Objectif : Réviser l’accord sur une expérience réelle.
+
+1. Noter après la première séance sa durée et les conditions qui ont compté.
+2. Au point prévu, comparer ces faits avec le rôle convenu plutôt qu’avec une idée de la fiabilité.
+3. Choisir avec Mireille de continuer, réduire ou passer le relais, et contacter les soignants pour un changement de santé.
+
+Le projet peut être ajusté avant qu’une difficulté devienne une urgence collective.
 
 ## Deux notices pour l’affiche rouge
 

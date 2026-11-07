@@ -32,15 +32,21 @@ Camille remarque qu’elle se sent distante auprès de ce patient, alors qu’el
 
 Exemple concret : une infirmière qui, après des semaines de gardes intenses, répond par des phrases courtes aux confidences d'un malade et évite le contact visuel, alors qu'elle faisait preuve de beaucoup de chaleur auparavant.
 
+Autre exemple situé : au poste, Camille écrit « vide » après un échange où elle cherchait d’habitude davantage ses mots ; elle peut rapporter ce changement sans s’attribuer un diagnostic.
+
 ### 2. Irritabilité, épuisement et perte de sens
 La fatigue de compassion peut aussi se traduire par une irritabilité accrue, une tolérance réduite au bruit et l'impression que le travail a perdu de son utilité. Camille remarque qu'elle s'emporte plus facilement lors des réunions d'équipe et qu'elle rumine ses erreurs comme si elles étaient irréparables.
 
 Exemple concret : se focaliser uniquement sur les gestes techniques sans prendre le temps d'expliquer les soins, par manque d'énergie émotionnelle, ce qui peut créer des tensions avec les proches ou les collègues.
 
+Autre exemple situé : pendant une réunion du service, une demande ordinaire d’un collègue agace Camille davantage qu’elle ne l’aurait attendu ; elle distingue cette réaction de la question de fond sur la charge.
+
 ### 3. Symptômes physiques et évitement
 L’insomnie, les maux de tête et la fatigue peuvent accompagner une période éprouvante et ont de nombreuses causes possibles. Le comportement d'évitement apparaît aussi : on retarde une visite à un patient difficile, on écourte les échanges ou, à l'inverse, on se surinvestit pour compenser un sentiment d'impuissance.
 
 Exemple concret : arriver en retard aux rendez-vous familiaux pour essayer de « refaire le plein » d'énergie, ou annuler des sorties par peur de ne pas tenir le coup émotionnellement.
+
+Autre exemple situé : devant le tableau des soins, Camille hésite à rencontrer une famille tout en voyant que deux tâches restent à transmettre. Cette hésitation peut être discutée avec l’équipe sans être réduite à un seul mot.
 
 ## 3 techniques pour se protéger face à la fatigue de compassion
 
@@ -62,6 +68,8 @@ Exercice concret :
 *   Pendant une à trois minutes, pratiquez l'ancrage : posez les mains sur vos cuisses, sentez la texture du tissu, identifiez trois sons autour de vous. Respirez à votre rythme, puis nommez simplement l'émotion présente sans la juger (« fatigue », « tristesse » ou « agacement »).
 *   Notez ce mot sur un carnet, puis refermez-le. Si vous notez quelque chose, ne consignez aucun détail permettant d’identifier un patient.
 
+L’objectif est de remarquer son état entre deux tâches lorsque les conditions de soin le permettent. Ce repère peut aider Camille à formuler un besoin de relais ; il ne supprime pas la fatigue ni les contraintes du service.
+
 ### 3. Le script de parole et les limites bienveillantes
 Apprendre à formuler des limites claires permet de préserver son énergie sans pour autant renoncer à la bienveillance. Cette forme d'affirmation de soi protège contre la tendance à vouloir tout porter sur ses épaules.
 
@@ -71,6 +79,10 @@ Exercice concret :
     *   Pour un collègue qui a besoin de se confier longuement : « Je peux t'écouter quelques minutes, ensuite je devrai retourner finir mes soins. »
     *   Pour vos proches : « J'ai besoin de vingt minutes de calme pour décompresser avant que nous discutions de la soirée. »
 *   Entraînez-vous à dire ces phrases avec assurance. Au travail, convenez d’un relais si un patient a besoin d’aide dans l’intervalle.
+
+Troisième étape : après l’échange, vérifiez que le relais annoncé est réellement assuré et que la personne sait qui recontacter. Camille peut ainsi confirmer avec sa collègue qui répondra à la famille, plutôt que promettre seule de revenir à une heure incertaine.
+
+Utilité possible : préparer, prononcer puis confirmer le relais rend la limite concrète. À la maison, le même principe consiste à convenir avec David de qui prend la douche des enfants, pas à demander aux enfants d’absorber sa fatigue.
 
 ## Le premier mot à David
 

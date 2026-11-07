@@ -39,17 +39,23 @@ Inès classe implicitement les raisons. Une douleur lui paraît solide, une fati
 
 Or le bien-être n’est pas une disponibilité générale. Inès peut passer une journée plaisante sans souhaiter toutes les activités possibles. Cette évidence lui paraît facile au sujet d’un jeu ou d’une promenade et moins facile dans l’intimité, où elle attribue davantage de sens au refus. Elle peut remarquer cette différence de règle sans se condamner. L’objectif est de redonner une place au choix, pas de s’obliger à refuser sans aucune hésitation.
 
+Inventer le mal de tête pendant la journée libre et attendre une fatigue visible avant de refuser sont deux façons de placer un empêchement au-dessus de son choix.
+
 ### Inviter involontairement l’autre à résoudre le mauvais problème
 
 Clara entend « mal à la tête » et propose un ajustement. Elle répond au problème qui lui est présenté. Inès peut alors vivre cette réponse comme une tentative de contourner son non, alors que le refus n’est pas encore formulé clairement. Leur malentendu se construit avec deux informations différentes : Inès pense annoncer qu’elle ne veut pas ; Clara croit apprendre qu’elle souhaite peut-être, mais qu’un inconfort la gêne.
 
 Le malentendu porte sur l’explication, sans autoriser le geste : un doute, une hésitation ou une absence de réponse demandent de s’arrêter et de vérifier, sans insister. Inès n’a pas à produire un refus parfaitement formulé. Inès peut corriger son information sans exiger de Clara qu’elle devine ce qui se trouve derrière chaque prétexte. Clara peut accueillir la correction sans reprocher à Inès de ne pas avoir mieux parlé du premier coup. Le respect doit rester possible même lorsque l’expression initiale est maladroite ou change en cours de conversation.
 
+Après le store baissé, la proposition d’eau traiterait encore la douleur annoncée ; ni ce geste d’aide ni le doute ne valent un accord pour le massage.
+
 ### Construire une cohérence qui enferme la suite
 
 Si Inès prétend être trop fatiguée, elle peut ensuite se sentir empêchée de sortir jardiner ou de lire longtemps. Elle surveille ses activités pour rester crédible. Son refus exige alors une mise en scène continue, plus coûteuse que la phrase qu’elle cherche à éviter. La fatigue n’interdit d’ailleurs pas toutes les activités de la même manière. Chercher cette cohérence simplifiée l’éloigne encore de son expérience réelle.
 
 Elle peut choisir de corriger un motif inexact tout en gardant sa limite. « Ce que je viens de dire n’est pas juste. Je ne souhaite simplement pas ce geste maintenant. » L’honnêteté porte sur la raison, le refus sur son choix. Clara peut être contrariée par l’information inventée et en parler. Cela ne crée pas pour Inès une obligation de consentir afin de réparer le mensonge. Les deux sujets doivent conserver leurs frontières.
+
+Rester immobile pour rendre le mal de tête crédible et renoncer au rempotage qu’elle désire seraient deux contraintes ajoutées par l’explication inventée.
 
 ## Laisser le refus tenir tout seul
 

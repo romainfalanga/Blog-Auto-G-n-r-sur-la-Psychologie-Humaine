@@ -29,13 +29,22 @@ Les psychologues Hal Arkes et Catherine Blumer ont étudié cet effet, notamment
 
 ## Comment le biais du coût irrécupérable se manifeste-t-il après une rupture amoureuse ?
 
-Après une rupture, ce biais peut se manifester de plusieurs façons :
+Le critère du biais est la place donnée à ce qui est déjà engagé dans une décision actuelle. Espérer, relire un souvenir ou ressentir du chagrin ne suffit pas à le reconnaître.
 
-- Se raccrocher aux souvenirs et à l’espoir : On repense sans cesse aux bons moments et on s’accroche à l’idée que la relation peut être sauvée, parce qu’on a « déjà donné tellement de soi ».
-- Entretenir des habitudes toxiques : Relire d’anciens messages, consulter les réseaux sociaux de l’ex-partenaire, ou même le contacter malgré les blessures.
-- Ignorer les signaux d’alerte : Continuer à se blâmer, à espérer que l’autre reviendra, même si cela nourrit un mal-être grandissant.
+### 1. Faire du temps passé une raison de reprendre
+Fabien ne regrette pas les samedis consacrés à la maison. Il se demande pourtant s’ils devraient encore déboucher sur une reprise du couple. Le passé devient un argument de décision quand il prend la place de ce que chacun souhaite aujourd’hui.
 
-Dans le cas de Fabien, chaque message non répondu est un rappel cruel de ce qu’il a investi et perdu. Son cerveau lui souffle qu’il doit continuer à espérer, car renoncer serait comme jeter tous ces mois par la fenêtre. Mais le poids du passé l’empêche de construire un futur apaisé.
+**Deux exemples :** dans le parc, les aménagements réalisés ensemble lui semblent appeler une suite entre eux. Dans le brouillon, il écrit « On a quand même construit tout ça ensemble » sans préciser ce qu’il voudrait changer maintenant.
+
+### 2. Continuer une démarche pour ne pas perdre l’investissement
+On peut maintenir un effort actuel principalement pour justifier ceux déjà consentis. Il faut examiner la raison de cet effort, et non déclarer toxique tout contact avec une ex-partenaire.
+
+**Deux situations possibles :** Fabien reprendrait plusieurs fois son brouillon seulement parce qu’il a déjà passé du temps dessus. Il chercherait un nouvel argument sur les travaux de la maison au lieu de se demander si cette conversation correspond à une demande actuelle partagée.
+
+### 3. Laisser le passé écarter d’autres options
+Une décision peut se rétrécir quand reconnaître d’autres possibilités semble annuler ce qu’on a vécu. Envisager une sortie ou une nouvelle habitude ne détruit pourtant pas les samedis dont Fabien garde le souvenir.
+
+**Deux situations possibles :** il repousserait le film avec Marine pour rester disponible à une réponse que Véronique n’a pas annoncée. Il laisserait la platine dans le carton parce que l’installer lui semblerait accepter que les années de couple ne comptent plus. Ce sont des pistes de comparaison, pas des conclusions sur ses intentions.
 
 ## 3 techniques pour reprendre le contrôle sur le biais du coût irrécupérable après une rupture amoureuse
 
@@ -43,24 +52,42 @@ Il est possible de s’éloigner de ce piège mental en adoptant des pratiques c
 
 ### 1. Faire un inventaire réaliste de ses investissements
 
-Prenez une feuille et notez tout ce que vous avez investi dans la relation : temps, émotions, projets, etc. Puis, questionnez-vous honnêtement : « Est-ce que cette dépense d’énergie actuelle ou future me rapproche d’un mieux-être ? » Souvent, prendre du recul sur ce que l'on a donné aide à distinguer l’attachement sain de l’attachement douloureux.
+**Objectif :** Distinguer le passé qui compte de la décision à prendre maintenant.
+
+1. Noter un investissement auquel il tient, comme les samedis d’aménagement avec Véronique, sans faire le compte de toutes leurs années.
+2. Écrire séparément ce qu’il envisage aujourd’hui : demander de reprendre la relation ou organiser les vacances.
+3. Examiner ce qui justifierait ce choix désormais, en respectant les souhaits de Véronique et les besoins pratiques des enfants.
+
+La séparation peut éclairer une décision. Elle ne classe pas l’attachement comme sain ou pathologique et ne rend pas les souvenirs sans valeur.
 
 ### 2. Se projeter dans l’avenir avec un nouveau récit
 
-Imaginez votre vie dans un an, sans cette relation. Que voulez-vous construire pour vous-même ? Faites un exercice d’écriture où vous décrivez ce futur positif, en vous concentrant sur vos besoins et vos envies. Ce carnet peut donner une place à vos projets en plus de celle que prend le passé.
+**Objectif :** Préparer un projet actuel qui ne dépende pas d’une reprise du couple.
+
+1. Choisir un horizon proche et une envie concrète, comme le film envisagé avec Marine.
+2. Noter ce qui dépend de Fabien et ce qui nécessite l’accord ou la disponibilité d’une autre personne.
+3. Faire une proposition avec une alternative possible, puis garder la possibilité d’un autre projet si elle ne convient pas.
+
+Un projet peut donner une place à d’autres liens. Il n’exige pas un futur positif écrit à l’avance ni la disparition du chagrin.
 
 ### 3. Mettre en place des barrières numériques et émotionnelles
 
-Vous pouvez couper certaines notifications ou ranger des archives si cela vous aide à choisir à quoi donner votre attention. Respectez une demande de non-contact. Des échanges nécessaires, par exemple pour l’organisation avec les enfants, peuvent rester dans un cadre convenu.
+**Objectif :** Choisir l’usage de la conversation avec Véronique sans interrompre les échanges nécessaires.
 
-### Conclusion : un chemin possible pour vous aussi
+1. Identifier ce qu’il consulte par automatisme et ce qui sert réellement à organiser la famille.
+2. Choisir un réglage ou un rangement d’archives réversible qui conserve l’accès aux messages pratiques convenus.
+3. Vérifier que l’organisation reste accessible aux deux parents et respecter toute demande de non-contact hors de ce cadre.
 
-Le temps passé ensemble peut compter pour Fabien sans déterminer sa prochaine décision. Il peut revenir à la question plus tard et garder les échanges nécessaires à l’organisation de la famille.
-
-N’oubliez pas : faire ce travail demande du temps et de la douceur envers soi. Si la douleur devient trop intense, consulter un professionnel de la psychologie peut être un précieux soutien. Vous n’êtes pas seul(e).
+Un réglage peut rendre l’attention plus choisie. Il n’est ni une stratégie pour obtenir une réponse ni une obligation d’effacer l’histoire commune.
 
 ## Le prochain dimanche
 
 Fabien efface le brouillon et garde la conversation ouverte. Il en aura encore besoin pour régler les vacances avec Véronique. Le soir, à l’appartement, il écrit le nom de Marine à côté de celui d’un film qu’ils avaient prévu de voir ensemble. Il lui demande si elle veut y aller dimanche. Elle a déjà quelque chose de prévu, mais lui propose le suivant.
 
 Il hésite encore à appeler Véronique une fois le téléphone posé. À défaut de décider ce qu’il fera les autres soirs, il range son manteau, prend un disque dans le carton et s’aperçoit que la platine n’est pas encore branchée.
+
+---
+
+Le temps passé ensemble peut compter pour Fabien sans déterminer sa prochaine décision. Il garde les échanges nécessaires à l’organisation de la famille et propose une sortie à Marine. Son envie d’appeler Véronique demeure ; l’effacement du brouillon ne tranche pas à lui seul ce qu’il souhaite pour la suite.
+
+Si la douleur devient trop intense, consulter un professionnel de la psychologie peut être un soutien.

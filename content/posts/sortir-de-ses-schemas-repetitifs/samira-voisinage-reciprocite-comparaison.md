@@ -22,7 +22,6 @@ Soraya lui envoie régulièrement des nouvelles de ses propres voisins. Sa sœur
 Mireille lui demande seulement si elle peut relire les étiquettes avant de partir. Cette aide correspond à quelques minutes présentes, sans promesse pour le mois suivant. Samira accepte. La réciprocité pourrait peut-être ressembler à un accord précis entre personnes, plutôt qu’à un examen comparatif où sa sœur servirait de mesure et chaque service devrait être remboursé aussitôt.
 
 ## Qu’est-ce que la réciprocité dans le soutien de voisinage ?
-
 La réciprocité désigne ici la possibilité que chacun puisse contribuer et recevoir dans une relation, selon ses capacités et les accords du moment. Elle n’exige pas une équivalence immédiate entre deux services. Une aide consentie peut être ponctuelle, inégale dans le temps et limitée sans devenir une dette morale indéfinie.
 
 Le soutien de voisinage possède un intérêt concret : proximité, connaissance de trajets communs et possibilités de petits relais. Il comporte aussi des limites. Un voisin ne remplace pas un service public ou une solution régulière de garde. Transformer l’entraide en obligation permanente risquerait d’épuiser les personnes qui disposent déjà de peu de temps ou de ressources.
@@ -32,31 +31,41 @@ La comparaison fraternelle peut modifier la manière de recevoir ce soutien. Sam
 Ce cadre rappelle que la comparaison peut coexister avec de l’affection. Samira aime sa sœur et apprécie ses nouvelles. Elle peut néanmoins se sentir diminuée lorsqu’elle transforme leurs situations différentes en classement de personnes. Comprendre ce mouvement aide à revenir à la relation présente avec Mireille, sans condamner Soraya ou faire de leurs écarts matériels une question de mérite.
 
 ## Comment l’entraide devient-elle une dette ou une comparaison ?
-
 ### Le service reçu occupe toute la relation
-
 Depuis la séance de dessin, Samira se demande comment remercier suffisamment Mireille pour la garde de Noé. Elle repère chaque besoin de sa voisine comme une occasion de rétablir l’équilibre. Cette attention peut être chaleureuse, mais elle devient fatigante si elle lui interdit de recevoir un service sans chercher immédiatement son prix.
 
 Mireille peut apprécier une présence ou une aide concrète sans souhaiter une compensation correspondante. Elle possède aussi ses propres raisons d’accepter un moment avec Noé. Ces raisons ne créent aucune obligation de recommencer. Les demander et les entendre vaut mieux que décider seule que toute générosité dissimule nécessairement une attente future.
 
 La vigilance de Samira n’est pas absurde pour autant. Certaines relations utilisent les services pour imposer une disponibilité ou des confidences. Si une demande devient insistante, elle mérite d’être examinée. L’objectif n’est donc pas de faire confiance sans limite, mais de vérifier les attentes réelles au lieu de fabriquer une dette dans chaque geste.
 
-### La sœur devient une référence qui efface le contexte
+Exemples situés :
 
+- Après la garde de Noé, Samira cherche aussitôt quel service rendre à Mireille pour remettre le compte à zéro.
+- Elle peut proposer une permanence future sans connaître son planning, uniquement pour ne plus se sentir redevable aujourd'hui.
+
+### La sœur devient une référence qui efface le contexte
 Soraya raconte un repas improvisé avec ses voisins. Samira entend surtout qu’elle sait recevoir et aider sans compter. Elle compare cette image à ses propres demandes de garde, comme si elles accomplissaient la même tâche avec les mêmes moyens. Or leurs contraintes diffèrent : horaires, logement, ressources et organisation quotidienne ne sont pas interchangeables.
 
 La comparaison fraternelle possède une force particulière parce qu’une histoire familiale commune donne l’impression d’un départ identique. Même lorsqu’elles partagent certains souvenirs, leurs vies présentes ne sont pas une expérience contrôlée. On ne peut pas attribuer l’écart actuel à une qualité supérieure de l’une ou à une insuffisance de l’autre.
 
 Samira peut aussi reconnaître ce qu’elle apporte sans chercher à battre un autre score. Elle connaît les trajets du quartier, vérifie volontiers une information et sait écouter un récit d’enfant. Ces contributions ne compensent pas moralement son manque d’argent. Elles existent simplement comme des capacités parmi d’autres, dans des relations qui peuvent les accueillir librement.
 
-### La rotation commune devient une disponibilité supposée
+Exemples situés :
 
+- Le récit d'un repas improvisé chez Soraya devient une comparaison de générosité sans regarder leurs horaires différents.
+- Samira compare ses demandes ponctuelles de garde aux invitations de sa sœur, alors que ces gestes ne répondent pas aux mêmes conditions.
+
+### La rotation commune devient une disponibilité supposée
 La proposition d’une semaine de rangement semble équitable parce qu’elle donne la même durée à chaque foyer. Samira voit pourtant qu’une présence hebdomadaire n’a pas le même coût pour tous. Une permanence imprévisible peut entrer en conflit avec une mission, une démarche ou la sortie d’école. Elle ne veut pas promettre ce qu’elle devra ensuite négocier dans l’urgence.
 
 Elle peut signaler cette limite sans contester l’intérêt de la boîte à livres. Une contribution différente, plus courte ou confirmée au cas par cas peut être discutée. Le groupe reste libre de chercher un autre fonctionnement. L’entraide ne devient pas plus juste lorsqu’elle impose une règle identique sans écouter les situations réelles.
 
-## 3 techniques pour construire une réciprocité praticable
+Exemples situés :
 
+- Une semaine de rangement identique pour chaque foyer peut être beaucoup moins praticable avec les missions changeantes de Samira.
+- Une contribution de dix minutes aux étiquettes peut être tenue aujourd'hui, tandis qu'une disponibilité le mois suivant reste inconnue.
+
+## 3 techniques pour construire une réciprocité praticable
 ### 1. Vérifier la nature du service reçu
 
 Lorsqu’une aide vous laisse une impression de dette, demandez simplement ce que l’autre propose et pour combien de temps. Samira peut dire à Mireille : « Merci pour cette garde. Je veux vérifier que tu me préviens quand ce n’est pas possible. » Cette phrase reconnaît le service et ouvre une limite sans annoncer un échange de valeur égale.
@@ -82,7 +91,6 @@ Précisez la manière de confirmer ou de décliner la prochaine demande. Une lim
 Après le geste, arrêtez-vous à la limite convenue si rien ne justifie de la revoir. L’inconfort d’avoir reçu davantage peut revenir. Il ne constitue pas à lui seul une dette à payer. On peut remercier, rester attentif à la relation et attendre une occasion choisie, plutôt que remplir chaque intervalle par une compensation urgente.
 
 ## Une place pour les livres d’enfants
-
 Dans le hall, Samira explique qu’elle ne peut pas assurer une semaine complète. Le voisin semble déçu et propose de réfléchir à une autre organisation. Personne n’applaudit sa limite. Elle ressent le besoin de revenir sur sa phrase, puis garde la proposition qu’elle peut tenir : relire les étiquettes et aider aujourd’hui pendant le créneau annoncé.
 
 Mireille lui tend le feutre. Elles corrigent un nom de rayon et réservent un espace aux livres d’enfants. Noé choisit de déposer un album qu’il ne lit plus, après avoir vérifié qu’il souhaite vraiment le donner. Samira ne présente pas ce geste comme sa contribution obligatoire au service rendu par la voisine. La boîte n’est pas un compte familial à équilibrer.

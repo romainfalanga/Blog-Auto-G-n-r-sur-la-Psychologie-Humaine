@@ -28,11 +28,26 @@ Sophie relie son envie de rendre ses réussites visibles à l’importance qu’
 ### 1. Surexplication et sur-justification
 Sophie raconte souvent en détail ses réussites à ses parents, comme si chaque précision technique pouvait combler un manque affectif. Elle transforme des succès en preuves tangibles : nombre d'heures passées sur une fonction, optimisation mesurée en millisecondes, complexité d'un algorithme. Cette surexplication est une stratégie pour provoquer un compliment spécifique, une validation qui confirmerait sa valeur. Par exemple, lors d'un déjeuner à Nantes, elle énumère les étapes d'un déploiement juste pour voir si sa mère émettra un jugement admiratif. C'est un prolongement de son habitude de s'excuser excessivement en public pour réparer son image sociale dès qu'elle se sent vulnérable.
 
+Exemples concrets :
+
+- Au téléphone, elle ajoute le détail d’une optimisation alors que son père vient seulement de demander une nouvelle du projet.
+- Après l’appel, la capture d’écran qu’elle s’apprête à envoyer servirait à continuer de convaincre plutôt qu’à répondre à une demande exprimée.
+
 ### 2. Minimisation et auto-dénigrement après un compliment
 Quand ses parents émettent une reconnaissance banale, Sophie minimise aussitôt : "Ce n'est rien, j'ai juste suivi la doc." Ce réflexe renforce le besoin de preuves supplémentaires et entretient le sentiment d’imposture. Elle a déjà vécu ce schéma après la félicitation de Claire en mai au salon de thé ; au lieu d'entendre le compliment, elle le rationalise, analysant ce qui manque encore à ses compétences. Elle traite les éloges comme des erreurs de calcul de la part de l'autre.
 
+Exemples concrets :
+
+- Au bref « c’est bien », elle peut opposer « j’ai juste suivi la doc » au lieu de laisser le retour rester tel quel.
+- Elle reconnaît le même effacement que devant Claire au salon de thé, même si les deux conversations n’ont pas le même contexte.
+
 ### 3. Hyper-responsabilité et sur-adaptation
 Lorsqu'elle se trouve physiquement avec eux, pour une aide logistique ou de petites missions domiciliaires, Sophie accepte souvent plus que nécessaire. Ce comportement n'est pas uniquement altruiste : il sert à créer une image d'enfant utile et digne. Lors de sa dernière visite, Sophie avait d’abord pensé annuler sa soirée pour passer à la pharmacie, avant de vérifier avec sa mère que la tâche pouvait attendre. Cette habitude nourrit la croyance que son utilité détermine l'estime parentale.
+
+Exemples concrets :
+
+- À Nantes, elle peut accepter une liste de services pour obtenir une approbation qui n’a pourtant pas été promise.
+- Avant la pharmacie, vérifier le besoin avec sa mère permet de distinguer une course reportable de l’idée qu’elle doit tout faire pour compter.
 
 ## Techniques pour diminuer la dépendance à la reconnaissance
 ### 1. Identifier et reformuler les critères internes de valeur
@@ -44,6 +59,8 @@ Exercice concret :
 - Relis la liste au bout de sept jours et constate l'écart entre accomplissements objectifs et évaluation émotionnelle.
 
 Pour Sophie, cette liste donne une place à ce qu’elle souhaite cultiver, même quand personne ne le remarque. Elle peut l’abandonner si elle devient une nouvelle obligation à remplir.
+
+Les sept jours sont un exemple possible ; une note occasionnelle peut suffire. L’objectif ne demande pas de remplacer le jugement parental par un nouveau score de performance.
 
 ### 2. Entretien factuel avec séparation des faits et interprétations
 L'objectif est d'apprendre à distinguer ce qui est observable de ce qui est une interprétation émotionnelle, afin de réduire la rumination.
@@ -66,6 +83,8 @@ Exercice concret :
 - Après l'exercice, note le feedback et sépare ce qui est factuel de ce qui relève d'une appréciation globale. Elle peut répéter l’exercice si Claire en a envie et si le jeu de rôle lui sert.
 
 Demander une reconnaissance précise permet de transformer l'approbation en informations utiles plutôt qu'en jugement global. Sophie, qui aime les données, peut ainsi recevoir des retours exploitables sans laisser la place à l'interprétation émotionnelle.
+
+Le jeu de rôle reste facultatif et commence par l’accord de Claire et de Sophie. Elles peuvent choisir une situation mineure, un temps qui leur convient et un arrêt sans justification ; aucune scène pénible du passé n’a à être rejouée. Le retour de Claire ne prédit pas celui du parent.
 
 ## Changer de sujet après une seule réponse
 Quand elle raccroche, Sophie ne sait pas si son père a apprécié son explication. Il lui a posé deux questions et a dit qu’il devait préparer le dîner. Elle était sur le point de lui envoyer une capture d’écran pour finir de convaincre. Elle referme la conversation. La solution mérite peut-être une note pour l’équipe ; son père n’a pas besoin d’en recevoir une copie.

@@ -39,17 +39,32 @@ Salomé veut vérifier la qualité du bois, son stockage et les dimensions comma
 
 Ce coût peut rester bref ou durer davantage selon la suite. Si le vendeur corrige simplement, la transaction reprend. S’il se lance dans une discussion publique, Salomé doit choisir comment y mettre fin. L’environnement participe donc à la charge vécue. Il serait réducteur de lui demander seulement d’être moins sensible. Une bonne partie de l’ajustement peut venir d’un interlocuteur qui écoute l’information et revient à la commande.
 
+Deux exemples dans cette situation :
+
+- Au moment de signer, Salomé regarde le vendeur pour trouver quand le corriger plutôt que relire les dimensions du bois.
+- Revenue à l’atelier, elle doit reprendre la vérification de la commande à laquelle elle venait pourtant consacrer sa sortie.
+
 ### Préparer des justifications avant même la demande
 
 Salomé imagine devoir prouver la cohérence de ses accords féminins avec son identité non binaire. Or ces deux informations ne demandent pas une validation extérieure. Elle sait ce qu’elle souhaite dans cette conversation. La recherche d’une démonstration parfaite peut retarder une demande simple. Elle passe alors du choix des mots utiles à la préparation d’un dossier personnel qu’elle n’a pas envie d’exposer.
 
 Elle peut pourtant rencontrer de vraies questions ou contestations. L’anticipation ne sort pas nécessairement de nulle part. L’enjeu n’est donc pas de la déclarer irrationnelle, mais de distinguer ce qui se produit maintenant de ce qui pourrait arriver. Cette distinction lui permet de préparer une réponse courte à une question intrusive sans raconter d’avance tout ce qu’elle redoute de devoir défendre.
 
+Deux exemples dans cette situation :
+
+- Avant même que le vendeur questionne quoi que ce soit, elle prépare une explication sur la non-binarité et les accords féminins.
+- Elle imagine devoir commenter sa tenue pour obtenir la modification d’une simple formule sur le reçu.
+
 ### Attendre d’être parfaitement calme pour se croire légitime
 
 Une fois sortie, Salomé juge son ton. Elle pense qu’une demande juste devrait pouvoir être formulée sans agacement. Cette exigence ajoute une nouvelle condition au respect : elle devrait non seulement préciser comment elle souhaite être appelée, mais le faire avec une sérénité irréprochable. Pourtant, une voix un peu sèche ne rend pas son prénom moins valable. Elle peut ajuster la forme si elle le souhaite sans retirer le fond.
 
 Cela ne signifie pas que tous les comportements seraient acceptables au nom de l’agacement. Salomé peut vouloir éviter une insulte ou revenir sur une remarque injuste. Ici, elle prononce une phrase courte et respectueuse. Elle peut donc renoncer à rejouer le comptoir pour chercher un ton idéal. La reconnaissance obtenue reste un événement situé, et non une récompense liée à la qualité parfaite de sa présentation.
+
+Deux exemples dans cette situation :
+
+- Une fois dehors, elle réécoute mentalement sa phrase et se reproche d’avoir gardé de l’agacement dans la voix.
+- Elle risque d’écarter le fait que le reçu porte son prénom parce que son échange ne lui paraît pas assez assuré.
 
 ## Trois pistes pour dire comment vous appeler
 
@@ -61,6 +76,12 @@ L’exercice consiste à nommer l’usage souhaité, puis à s’arrêter. Une f
 
 Pour adapter cette piste, choisissez les mots qui correspondent vraiment à votre préférence. Il n’est pas nécessaire d’utiliser une formule recommandée par un groupe si elle ne vous convient pas. La personne concernée est la mieux placée pour indiquer sa préférence. Si la situation paraît peu sûre, gardez la correction pour un autre canal ou renoncez à la faire maintenant. Une technique utile élargit les choix ; elle ne crée pas un devoir de confrontation.
 
+Pour passer à une action limitée :
+
+1. Repérez l’usage à corriger : prénom, accord ou document.
+2. Choisissez une phrase courte avec vos mots, ou un canal écrit si cela vous convient.
+3. Décidez si vous souhaitez la transmettre maintenant selon le contexte ; ne pas corriger ne retire pas votre préférence.
+
 ### 2. Prévoir une réponse aux questions hors sujet
 
 Salomé imagine une question possible : « Pourquoi le féminin si vous êtes non binaire ? » Elle prépare : « C’est ainsi que je souhaite être désignée. Pour aujourd’hui, j’aimerais surtout vérifier la commande. » La première phrase maintient la demande. La seconde ramène au but de la rencontre. Elle ne cherche pas à rendre toute question impossible, mais à choisir le contenu qu’elle accepte de traiter dans ce lieu.
@@ -69,6 +90,12 @@ Le vendeur ne pose finalement pas la question. La préparation reste néanmoins 
 
 Un retour au sujet concret peut être préparé à l’avance : le devis, le rendez-vous, le document à recevoir. Cela offre une direction à l’échange après la limite. Si l’interlocuteur insiste ou humilie, Salomé peut partir et chercher un relais adapté. Elle n’a pas à poursuivre une discussion pour démontrer que sa correction est raisonnable. Le comportement de l’autre reste sa responsabilité, y compris face à une réponse brève.
 
+Pour passer à une action limitée :
+
+1. Repérez une question hors sujet que vous souhaitez laisser fermée.
+2. Préparez une réponse qui maintient l’usage demandé sans biographie justificative.
+3. Ajoutez un retour à la commande ou cherchez un relais si le comportement empêche de poursuivre.
+
 ### 3. Regarder la suite concrète plutôt que noter sa performance
 
 À l’atelier, Salomé note les faits sur le coin de son planning : elle corrige, le vendeur acquiesce, le reçu utilise son prénom, la transaction se termine. Elle peut aussi inscrire son agacement. Ces éléments n’ont pas besoin d’être réduits à une seule appréciation positive ou négative. Une demande respectée peut laisser une fatigue. Une interaction maladroite peut contenir une correction réelle.
@@ -76,6 +103,12 @@ Un retour au sujet concret peut être préparé à l’avance : le devis, le ren
 Elle évite de se demander seulement si elle paraît assez assurée. La question plus utile est : l’usage demandé est-il compris et suivi ? Si elle retourne chez ce fournisseur, elle pourra observer ce point sans devoir le surveiller à chaque seconde. Une erreur future permettra une nouvelle décision selon le contexte. Elle ne devra ni conclure immédiatement à une intention hostile ni effacer une répétition évidente pour rester conciliante.
 
 On peut également chercher un appui pratique : faire mettre à jour une fiche, demander à un collègue de reprendre correctement une présentation ou choisir un canal où la correction sera conservée. L’objectif n’est pas de tout gérer seule par une meilleure formulation. La reconnaissance peut être soutenue par l’organisation. Les personnes et les structures qui utilisent l’information ont leur part à prendre dans sa bonne transmission.
+
+Pour passer à une action limitée :
+
+1. Relevez les faits de la transaction : demande, réponse et prénom sur le reçu.
+2. Laissez une place à l’agacement sans en faire une preuve d’échec.
+3. Si un appui pratique vous convient, demandez la mise à jour de la fiche pour les commandes suivantes.
 
 ## Le paquet est à son nom
 

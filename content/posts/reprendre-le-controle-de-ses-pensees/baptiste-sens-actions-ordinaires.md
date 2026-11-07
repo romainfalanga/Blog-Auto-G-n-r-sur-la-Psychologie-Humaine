@@ -35,13 +35,28 @@ Chercher un sens n’exige pas davantage de tirer une leçon positive de tout ce
 
 La coordination produit parfois un résultat qui ne ressemble pas à un objet terminé. Une question est comprise, une ambiguïté diminue ou une suite devient possible. Ces effets doivent pouvoir être observés sans être exagérés. Baptiste peut reprendre le retour d’Emmanuel comme une information limitée : pour ce point précis, la séance a évité des recherches supplémentaires à son collègue. Il n’a pas besoin d’affirmer qu’elle a sauvé tout le fonctionnement du service. La modestie de l’effet n’oblige pas à le nier, pas plus qu’un effet réel n’autorise à oublier les aspects mal organisés de la réunion.
 
+Exemples concrets
+
+- La répartition d’un suivi entre deux personnes paraît insignifiante à Baptiste une fois la salle vide.
+- Le retour d’Emmanuel décrit pourtant trois interlocuteurs qu’il n’a plus besoin de rechercher.
+
 ### Le ressenti immédiat devient l’unique preuve d’importance
 
 Baptiste quitte la salle fatigué et peu satisfait. Il peut alors conclure que le travail n’avait pas de sens, alors que son état dépend aussi de la durée, du manque de pause et de ses attentes. L’émotion donne une information sur l’expérience vécue ; elle ne remplace pas l’examen de tous les faits. À l’inverse, une réunion très stimulante peut produire peu de suite concrète. Il est utile de séparer l’intérêt ressenti, l’utilité observée et le coût supporté. Ces distinctions permettent de modifier une activité sans devoir en détruire ou en défendre l’ensemble.
 
+Exemples concrets
+
+- La fatigue en fin de réunion fait oublier à Baptiste les responsabilités clarifiées.
+- Une réunion stimulante pourrait à l’inverse laisser la question du responsable sans réponse.
+
 ### On demande au travail de fournir toutes les directions de vie
 
 Baptiste peut chercher dans le projet une preuve de compétence, une reconnaissance, une utilité sociale et un sentiment permanent de progression. Certaines attentes sont légitimes, mais les réunir toutes dans chaque séance augmente la pression. Sa vie comporte aussi des liens avec Caroline et Elsa, des intérêts pour le vélo ou la photographie et des temps qui n’ont pas de résultat attendu. Ces domaines ne doivent pas servir d’excuse à un travail durablement insatisfaisant. Ils montrent seulement qu’une source de sens ne possède pas nécessairement la mission de remplacer toutes les autres.
+
+Exemples concrets
+
+- Baptiste voudrait que la fiche lui apporte en même temps utilité, reconnaissance et progression visible.
+- Regarder une photographie avec Caroline peut compter sans devoir compenser toute sa frustration professionnelle.
 
 ## Trois pistes pour examiner ce qui compte sans l’embellir
 
@@ -49,13 +64,31 @@ Baptiste peut chercher dans le projet une preuve de compétence, une reconnaissa
 
 Baptiste peut reprendre les points du tableau et demander ce qui a réellement changé après l’échange. Une responsabilité est clarifiée ; une date reste inconnue ; un document n’est pas validé. Cette liste conserve les limites au même niveau que les résultats. Il peut aussi recueillir un retour de quelques personnes, sans leur demander de confirmer qu’il a bien travaillé. Une question utile serait de savoir ce qui reste difficile à utiliser ou à comprendre. Ce type d’examen évite que la recherche de sens se réduise à trouver des compliments. Dans un autre contexte, il pourrait montrer qu’une tâche ajoute peu d’utilité et doit être revue. Reconnaître cette possibilité protège l’exercice d’un optimisme imposé à tout résultat.
 
+Exercice pratique
+
+- Reprenez les points du tableau après la réunion.
+- Séparez responsabilité clarifiée, date inconnue et document non validé.
+- Demandez à Emmanuel ce qui reste difficile à retrouver, sans chercher seulement un compliment.
+
 ### 2. Relier une contribution à une direction choisie
 
 Baptiste tient à une coopération où les personnes disposent d’informations assez claires pour agir dans leur cadre de responsabilité. Transmettre les points de la réunion peut servir cette direction, même si la tâche ne lui plaît pas particulièrement. Il n’est pas obligé de trouver une grande valeur à chaque ligne du compte rendu. Il peut chercher quels éléments sont nécessaires et lesquels sont devenus des habitudes sans fonction claire. La direction peut alors guider une simplification, une demande de moyens ou un partage différent du travail. Elle ne doit pas devenir une formule qui justifie tous les efforts demandés. Si le temps manque ou si les responsabilités restent mal réparties, ces contraintes constituent des sujets à traiter avec les interlocuteurs concernés.
 
+Exercice pratique
+
+- Nommez ce que vous souhaitez soutenir dans la coopération entre dépôts.
+- Repérez le point du compte rendu qui sert concrètement cette direction.
+- Discutez avec Patricia une rubrique sans fonction claire ou un moyen qui manque.
+
 ### 3. Choisir un ajustement qui respecte aussi ses ressources
 
 Baptiste peut proposer une fin de séance plus courte avec trois points de suite, plutôt qu’un long document rédigé seul après son horaire. Il vérifie que ce format convient au besoin réel et aux règles du service. Cette proposition n’assure pas que tout sera simple, mais elle relie l’utilité souhaitée à une façon de travailler plus soutenable. Il peut également préserver une activité personnelle sans lui demander de compenser toute la frustration professionnelle. Les loisirs ne sont pas des outils obligatoires pour supporter une organisation excessive. Si l’impression de vide ou l’épuisement persistent, un professionnel peut aider à examiner la santé, les attentes et les conditions de vie, tandis que certains changements demanderont une réponse collective ou organisationnelle.
+
+Exercice pratique
+
+- Proposez une fin de séance avec les points de suite nécessaires.
+- Vérifiez auprès de Patricia que ce format respecte le besoin et le cadre du service.
+- Délimitez le travail de reprise pour garder aussi la place de vos autres engagements.
 
 ## Les deux points qui ont avancé
 

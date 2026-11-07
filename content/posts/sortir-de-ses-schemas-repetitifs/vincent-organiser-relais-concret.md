@@ -39,6 +39,8 @@ Le relais ne supprime pas toute responsabilité ni tout imprévu. Les engagement
 
 Ni l’un ni l’autre ne dispose d’un accès direct aux pensées de l’autre. Une proposition précise permet de vérifier un besoin sans imposer sa solution. Julie dit où elle passe et quand elle est libre. Vincent peut relier cette possibilité à une tâche, ou expliquer qu’une autre forme de soutien serait plus utile. Le refus d’une offre n’annule pas le besoin d’aide.
 
+Quand Julie demande seulement de la prévenir au besoin, Vincent doit encore imaginer la course à lui confier ; quand lui répond « ça ira », elle ne peut pas savoir que le retrait de l’étagère ne tient plus dans son planning. L’offre vague et la réponse rassurante laissent deux informations nécessaires inexprimées.
+
 ### La délégation conserve un poste de contrôle permanent
 
 Vincent envisage d’envoyer plusieurs rappels, puis de vérifier lui-même le retrait auprès du magasin. Il cherche ainsi à rendre le relais fiable. Mais cette surveillance peut occuper le temps qu’il espère dégager et transmettre à Julie l’idée qu’elle ne dispose d’aucune latitude. Une mission confiée reste alors une mission qu’il accomplit à distance.
@@ -50,6 +52,8 @@ Certaines vérifications sont légitimes : la commande doit pouvoir être remise
 Au début, Vincent dit : « Tu me préviens quand tu pars et je lui explique. » Cédric lui rappelle qu’il peut convenir directement de l’arrivée avec Julie. En voulant faciliter le relais, Vincent ajoute une étape et parle à la place de celui qui reçoit la commande. Il reconnaît ce détour sans se défendre par sa bonne intention.
 
 Un relais concerne souvent plusieurs personnes avec des préférences différentes. Leur accord ne se résume pas à celui de l’aidant. Cédric peut accepter une livraison et refuser une installation improvisée. Julie peut accepter le trajet et refuser de monter un meuble. Ces limites dessinent une mission réaliste ; elles ne constituent pas des obstacles qu’il faudrait contourner pour que l’aide ait lieu.
+
+Faire passer l’heure d’arrivée par Vincent éloigne Cédric de l’accord de réception ; ajouter l’installation au trajet sans demander éloignerait Julie de la mission qu’elle accepte. Le destinataire comme la personne qui aide doivent pouvoir délimiter leur participation.
 
 ## Trois techniques pour organiser un relais concret
 

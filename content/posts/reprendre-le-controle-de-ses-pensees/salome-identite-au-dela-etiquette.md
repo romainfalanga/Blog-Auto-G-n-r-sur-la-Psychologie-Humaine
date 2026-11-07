@@ -39,17 +39,32 @@ Salomé répond aux premières questions parce qu’elle accepte d’aborder son
 
 Ce déplacement ne remet pas en cause la sincérité de ce qu’elle vient de dire. Il lui permet de choisir ce qui manque. Elle peut demander la liste des angles prévus ou rappeler le sujet annoncé. La personne qui mène l’entretien garde ses contraintes éditoriales et peut expliquer son projet. Salomé peut ensuite décider si elle souhaite y participer, à quelles conditions et avec quels éléments explicitement hors du portrait.
 
+Deux exemples dans cette situation :
+
+- Salomé répond à une troisième question sur le genre tandis que le chevalet prévu pour la démonstration reste intact à côté du micro.
+- Elle tente d’ajouter une précision sur la réparation dans une réponse personnelle, mais l’entretien revient immédiatement aux mêmes thèmes.
+
 ### Interpréter chaque émotion à travers la même dimension
 
 Après une journée difficile, Salomé pourrait chercher uniquement ce que son identité explique du malaise. Or elle peut être contrariée par une réparation délicate, fatiguée par le bruit ou heureuse d’une rencontre au jardin. Les événements qui touchent à la reconnaissance méritent d’être pris au sérieux lorsqu’ils se produisent. Ils ne doivent pas devenir la cause supposée de toutes ses expériences, ni pour elle ni pour les personnes qui l’écoutent.
 
 Cette prudence vaut dans les deux directions. Il ne serait pas juste de déclarer que son identité n’a jamais de place dans un problème. Un commentaire hostile peut réellement la viser. Le travail consiste à regarder les faits et les autres explications possibles, avec leur portée. L’identité n’est ni une cause automatique ni une dimension qu’il faudrait systématiquement exclure pour produire un récit considéré comme universel.
 
+Deux exemples dans cette situation :
+
+- Une difficulté de réglage pourrait être racontée uniquement comme une difficulté de reconnaissance, sans examiner ce qui se passe sur l’instrument.
+- À l’inverse, réduire le commentaire du couloir à une simple fatigue écarterait l’hostilité réellement exprimée.
+
 ### Se sentir tenue d’incarner une catégorie de façon cohérente
 
 Salomé craint parfois qu’un goût banal déçoive l’image qu’on se fait d’elle. Elle pourrait préférer une tenue, une activité ou une opinion en se demandant si elles paraissent assez compatibles avec l’étiquette donnée. Ce calcul peut devenir une seconde forme de réduction, venue cette fois de son propre souci de cohérence. Elle se retrouve à prouver une catégorie au lieu de choisir selon son expérience.
 
 Elle peut reconnaître les influences sociales sans chercher une pureté impossible de ses goûts. Aucun choix ne se forme entièrement hors des rencontres et des habitudes. La question utile reste : est-ce que cette préférence lui convient, ou la maintient-elle surtout pour éviter de sembler contradictoire ? Elle peut aimer des choses différentes selon les moments. Cette variation ne retire rien à la validité des mots qu’elle utilise pour se définir.
+
+Deux exemples dans cette situation :
+
+- Au moment de choisir une tenue pour une rencontre, Salomé pourrait écarter un vêtement qui lui plaît parce qu’il ne correspond pas à l’image attendue.
+- Elle pourrait se croire obligée de donner une opinion au nom de toutes les personnes non binaires alors qu’on lui demande son témoignage.
 
 ## Trois techniques pour donner de l’espace à plusieurs facettes
 
@@ -61,6 +76,12 @@ Cette carte ne doit pas devenir un inventaire de rôles à remplir. Salomé n’
 
 Pour essayer, choisissez quelques moments réellement vécus et décrivez ce que vous y faites, aimez ou protégez. Évitez de décider immédiatement ce qu’ils prouvent sur votre personnalité. Vous pouvez découvrir des tensions et des différences sans devoir les résoudre. Si une dimension vous paraît centrale, elle peut le rester. L’objectif est d’ouvrir le portrait, pas de vous convaincre que toutes les appartenances devraient occuper la même place.
 
+Pour passer à une action limitée :
+
+1. Notez quelques scènes réellement vécues à l’atelier, au jardin ou avec Nora.
+2. Écrivez ce que vous y faites et ce qui y compte, sans chercher ce qu’elles prouvent sur une catégorie.
+3. Choisissez les aspects que vous souhaitez montrer et ceux qui restent privés ; ils n’ont pas à occuper une place égale.
+
 ### 2. Demander un changement d’angle dans la conversation
 
 Pendant l’entretien, Salomé propose une transition concrète : elle souhaite montrer comment elle choisit de conserver une trace d’usure au lieu de chercher à la faire disparaître. Ce sujet relie une valeur professionnelle et un objet présent sur la table. Elle ne remplace pas une identité par un discours abstrait sur ses compétences. Elle donne un contenu précis à l’élargissement qu’elle demande, ce qui rend la suite de l’échange plus facile à organiser.
@@ -69,6 +90,12 @@ La personne qui l’interroge accepte et pose une question sur la réparation. S
 
 Vous pouvez utiliser une formule simple : « Cet aspect compte, et j’aimerais aussi parler de… » Elle permet d’élargir sans nier. Si l’autre refuse tout changement d’angle, vous pouvez vérifier le projet ou mettre fin à votre participation. Une demande de nuance ne doit pas vous obliger à fournir toujours plus de matière personnelle pour obtenir une écoute plus complète. Le choix de l’échange reste révisable.
 
+Pour passer à une action limitée :
+
+1. Nommez l’aspect déjà abordé et celui qui manque au projet annoncé.
+2. Proposez un objet ou une question précise, comme le choix de conserver une trace sur le bois.
+3. Vérifiez si l’angle peut évoluer ; sinon, rediscutez votre participation plutôt que fournir davantage de confidences.
+
 ### 3. Garder un repère personnel quand le regard extérieur rétrécit
 
 Après l’entretien, Salomé relit les situations notées sur sa carte. Elle choisit un repère qui n’est pas une affirmation grandiose : « Ce portrait public ne contient qu’une partie de moi. » La phrase ne nie pas l’importance de ce qui sera publié. Elle rappelle simplement que l’article ne détient pas l’ensemble de sa personne. Elle peut demander des corrections sur les faits sans vouloir y faire entrer chaque goût et chaque lien.
@@ -76,6 +103,12 @@ Après l’entretien, Salomé relit les situations notées sur sa carte. Elle ch
 Elle prévoit aussi une activité choisie pour elle, sans fonction de représentation : terminer une énigme commencée avec Nora. Ce moment ne sert pas à fuir une difficulté ni à démontrer qu’elle possède une vie diversifiée. Il garde une place ordinaire dans sa semaine. Elle peut passer d’un contexte public à un lien où personne ne lui demande de résumer ce qu’elle représente.
 
 Un repère utile peut être une relation, un objet, un projet ou une phrase liée à des faits. Il n’a pas à annuler la douleur d’une réduction extérieure. Si une institution vous classe de façon contraignante, des changements pratiques peuvent être nécessaires. Le rappel personnel soutient votre jugement ; il ne remplace pas les demandes d’ajustement, les corrections ni les appuis qui permettent d’être mieux reconnue dans l’environnement.
+
+Pour passer à une action limitée :
+
+1. Rappelez-vous ce que le portrait choisi contient et ce qu’il laisse simplement hors champ.
+2. Demandez la correction d’un fait inexact, notamment des accords, sans chercher à tout y faire entrer.
+3. Retrouvez une activité choisie, telle que l’énigme avec Nora, qui n’a pas à représenter une catégorie.
 
 ## Le chevalet à côté du micro
 

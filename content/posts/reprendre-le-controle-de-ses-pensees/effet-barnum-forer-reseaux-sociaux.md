@@ -31,15 +31,21 @@ Un fil personnalisé peut donner l’impression qu’une vidéo s’adresse à n
 
 ### 1. La catégorisation par les tests de personnalité et l'astrologie
 
-On voit fleurir des publications affirmant définir votre caractère selon votre signe astrologique, votre type de personnalité ou même votre couleur préférée. Ces contenus utilisent des formulations stratégiquement larges. Par exemple, dire que vous avez un grand besoin d'être aimé et admiré, tout en étant capable de vous montrer critique envers vous-même, semble très personnel. Pourtant, cela décrit l'immense majorité des êtres humains. Pour un profil comme Lucas, qui cherche constamment l'approbation de ses amis et de ses parents, ces phrases agissent comme un aimant émotionnel.
+Un portrait général peut utiliser des formulations qui laissent beaucoup de place à l’interprétation personnelle. Le fait qu’une phrase touche Lucas ne dit pas combien de personnes pourraient aussi s’y reconnaître ni si elle distingue des situations particulières.
+
+« Tu fais rire les autres mais tu doutes parfois de toi » lui rappelle la soirée avec Maxime et Romain. « Tu aimes être apprécié mais tu sais aussi te critiquer » peut lui rappeler son rapport corrigé et sa peur de décevoir. Ces deux phrases permettent de choisir un souvenir qui correspond ; aucune ne précise dans quelles circonstances elle serait fausse. Les relier à un signe astrologique ou à une couleur n’apporte pas cette précision.
 
 ### 2. La pathologisation de traits de caractère communs
 
-Se reconnaître dans un contenu sur la concentration ou la fatigue ne permet pas d’identifier un TDAH. L’[Assurance Maladie](https://www.ameli.fr/assure/sante/themes/trouble-deficit-attention-hyperactivite-tdah/symptomes-diagnostic-evolution) décrit une évaluation clinique qui tient compte de plusieurs contextes. « Hypersensibilité » peut être un mot courant et le haut potentiel n’est pas un trouble de santé mentale.
+Un portrait peut aussi donner l’impression qu’une difficulté ordinaire révèle immédiatement un trouble ou une identité précise. Se reconnaître dans un contenu sur la concentration ou la fatigue ne permet pas d’identifier un TDAH. L’[Assurance Maladie](https://www.ameli.fr/assure/sante/themes/trouble-deficit-attention-hyperactivite-tdah/symptomes-diagnostic-evolution) décrit une évaluation clinique qui tient compte de plusieurs contextes. « Hypersensibilité » peut être un mot courant et le haut potentiel n’est pas un trouble de santé mentale.
+
+Une difficulté à suivre le mémoire après une soirée chargée ne permet donc pas à Lucas de se donner un diagnostic à partir d’une vidéo. Le sentiment de porter un masque devant ses colocataires ne permet pas davantage de déduire un haut potentiel. Ce sont deux expériences à décrire dans leur contexte, plutôt que deux réponses à un test caché dans son fil.
 
 ### 3. L'illusion de la communauté de destin
 
-Les commentaires montrent que d’autres personnes se reconnaissent aussi dans le portrait. Cela peut procurer un sentiment d’appartenance ; cela ne confirme pas la précision de la description.
+Les réactions d’autres utilisateurs peuvent procurer un sentiment d’appartenance. Elles ne constituent pas une vérification indépendante du portrait : les personnes qui commentent sont déjà celles qui choisissent de réagir au contenu.
+
+Lucas lit des « moi aussi » et peut y voir la confirmation que la vidéo a découvert une catégorie très précise. Il peut aussi prendre le grand nombre de réactions pour une preuve que le texte explique ses difficultés avec ses parents. Dans le premier cas, il interprète un accord ; dans le second, une quantité d’interactions. Aucun des deux ne valide à lui seul l’explication de son histoire.
 
 ## 3 techniques pour reprendre le contrôle face à l'effet Barnum et Forer
 
@@ -47,15 +53,33 @@ Pour ne plus se laisser définir par des phrases toutes faites, il est nécessai
 
 ### 1. La technique du miroir inversé
 
-Cette méthode consiste à prendre la description qui vous semble si pertinente et à essayer de prouver exactement le contraire. Si une publication affirme que vous êtes quelqu'un de calme mais capable d'exploser si l'on dépasse vos limites, cherchez activement des moments où vous avez été agité sans raison ou des moments où vous avez gardé votre sang-froid malgré une provocation majeure. L'objectif est de réaliser que la phrase initiale est une vérité évidente : elle englobe tout et son contraire. En trouvant des contre-exemples dans votre propre vie, vous brisez le lien d'exclusivité entre le texte et votre identité profonde.
+Lucas cherche à examiner la précision d’une phrase, sans s’obliger à prouver qu’elle est fausse ni à retrouver un souvenir pénible.
+
+1. Copier une seule affirmation de la vidéo, par exemple « tu doutes derrière tes blagues », au lieu d’évaluer tout le portrait d’un coup.
+2. Relever une situation ordinaire qui lui correspond et une qui la nuance : une anecdote embellie au salon, puis un moment où il plaisante simplement avec Maxime sans chercher de validation.
+3. Demander ce que le texte permettrait réellement de distinguer. S’il accepte ces deux situations sans rien changer, conserver « description large » plutôt que « explication personnelle démontrée ».
+
+Le contre-exemple renseigne sur la formulation. Il ne suffit pas à établir un autre portrait de Lucas.
 
 ### 2. Se demander à qui d’autre la phrase s’applique
 
-Lucas se demande si le portrait pourrait aussi convenir à Romain. Il n’a pas à deviner les réactions de ses proches ni à compter des réponses : il regarde si la phrase précise les situations où elle s’applique et celles où elle ne s’applique pas.
+L’objectif est d’examiner le caractère général des mots sans transformer les colocataires en sujets de test.
+
+1. Lucas remplace mentalement « toi » par « une personne qui étudie et travaille » dans la phrase sur l’ambition et le doute.
+2. Il regarde les conditions précisées : quelle activité, quel moment, quel comportement observable ? Il laisse la question ouverte si le texte n’en donne aucune.
+3. Il peut se demander si la formulation pourrait convenir à Romain, puis s’arrête sans lui attribuer d’émotions ni lui demander de confirmer un profil.
+
+Cette lecture peut rendre visible une phrase peu discriminante. Elle ne permet pas de savoir ce que vivent réellement les autres ni d’évaluer un trouble.
 
 ### 3. La mise en perspective factuelle et temporelle
 
-Au lieu de valider une émotion globale, astreignez-vous à noter des faits précis. Si vous lisez que vous êtes une personne qui a peur de l'échec, au lieu d'acquiescer, listez trois situations concrètes récentes où cette peur s'est manifestée et trois situations où vous avez agi malgré l'incertitude. Comparez ensuite ces faits avec la description lue. Souvent, vous réaliserez que votre réalité est bien plus nuancée et changeante que l'étiquette figée proposée par les réseaux sociaux. Cette technique renforce votre ancrage dans la réalité vécue plutôt que dans la projection mentale suggérée par l'écran.
+Lucas peut revenir à quelques faits de sa semaine au lieu de prendre une émotion de reconnaissance pour un bilan complet.
+
+1. Choisir un épisode précis : le commentaire du tuteur ou la conversation sur le stage. Écrire ce qui se passe et ce qu’il en pense à ce moment-là.
+2. Ajouter un autre moment où sa réaction diffère, s’il lui en vient un. Aucun nombre de souvenirs n’est à atteindre et une case peut rester vide.
+3. Comparer ces notes à la portée de la vidéo. Garder ce qu’elle formule comme une question éventuelle, et remettre à plus tard tout partage ou abonnement qu’il ne souhaite plus faire.
+
+La note permet une description plus située. Elle ne remplace pas une évaluation professionnelle si une difficulté durable demande un avis.
 
 ## La vidéo repasse
 

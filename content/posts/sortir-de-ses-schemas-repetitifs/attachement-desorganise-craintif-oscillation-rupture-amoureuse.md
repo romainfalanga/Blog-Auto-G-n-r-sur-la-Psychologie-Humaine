@@ -31,35 +31,55 @@ Une alternance d'envies après une rupture ne permet ni d'attribuer une de ces c
 
 ## Comment cette ambivalence apparaît-elle chez Hugo ?
 
-Hugo vient de perdre un lien qui comptait pour lui. Il lui arrive d'avoir envie de revoir Chloé, puis de se rappeler ce qui lui fait préférer la distance.
+### 1. Se rapprocher et s’éloigner restent deux envies présentes
 
-### 1. L'envie de retrouver l'autre, puis de garder ses distances
+Hugo souhaite parfois retrouver Chloé et éviter l’attente d’une réponse. Il peut éprouver ces envies ensemble ou à des moments différents ; elles ne sont pas des étapes obligatoires après la rupture.
 
-Hugo peut passer une nuit à composer une chanson pour Chloé et ne plus avoir envie de lui parler le lendemain. Il peut éprouver ces envies à des moments différents ou en même temps ; ce ne sont pas des étapes à traverser.
+Il prend le téléphone pour appeler puis ouvre le menu de blocage. Il sort aussi deux tasses avant de replacer celle de Chloé en haut de l’étagère. Le contact envisagé et l’objet déplacé montrent deux façons différentes de rencontrer la proximité puis la distance.
 
-### 2. L'impression de ne plus savoir ce qu'on ressent
+### 2. L’envie de contact ne dit pas encore ce qu’il veut en faire
 
-Hugo reste parfois longtemps devant le mur sans savoir s'il est triste ou en colère. Il se rappelle le vide ressenti sur le banc après le départ de Chloé. Ce passage décrit une impression de détachement ; il ne suffit pas à reconnaître un trouble dissociatif. Si cette impression revient ou gêne le quotidien, un professionnel peut aider à faire le point.
+Hugo peut avoir envie d’entendre Chloé sans être prêt à savoir ce qu’il lui dirait. Cette incertitude ne permet pas de reconnaître un trouble dissociatif ou un style d’attachement. Une impression de détachement persistante ou gênante peut être discutée avec un professionnel.
 
-### 3. L'envie de chercher un signe de l'autre
+Il imagine une visite agréable jusqu’à la conversation qu’il faudrait avoir dans la cuisine. Devant la cafetière, il souhaite qu’elle appelle tout en redoutant que l’écran s’allume. Dans les deux moments, l’envie et l’appréhension portent sur des aspects différents du même échange.
 
-Hugo est tenté de publier un message ambigu pour voir si Chloé répond. Il peut reconnaître cette envie sans agir dessus. Une réponse ne l'autorise pas à insister, et une absence de réponse ne lui dit pas tout de ce qu'elle pense.
+### 3. Chercher un signe peut remplacer une demande claire
+
+Hugo peut espérer une réponse qui l’aiderait à décider, alors qu’il ne sait pas encore quelle question poser. Une réaction de Chloé ne lui donnerait pas pour autant un accord sur la reprise du couple. Une absence de réponse ne livre pas toute sa pensée.
+
+Il tape seulement « Salut » puis s’arrête, en attendant peut-être que la suite vienne d’elle. Il prépare aussi une excuse pour la répétition, aussitôt suivie d’une question sur son silence. Le premier début de message et le second brouillon n’ont pas le même objet ; les réunir risquerait de faire porter une demande de réassurance à l’excuse.
 
 ## Trois pistes quand les envies se contredisent
 
-Hugo peut essayer une de ces pistes selon ce dont il a besoin sur le moment. Aucune ne sert à identifier son style d'attachement.
+### 1. Revenir à ce qu’il est en train de faire
 
-### 1. Porter attention à quelques sensations
+Hugo peut essayer un repère présent parmi les options d’ancrage du [guide de l’OMS](https://tdr.who.int/home/our-work/global-engagement/9789240003927), sans chercher à faire disparaître les envies.
 
-Quand Hugo a besoin de revenir à ce qu'il fait, il peut remarquer quelques détails autour de lui : une couleur, un son, la sensation de ses pieds sur le sol. C'est une option parmi les exercices d'ancrage proposés par le [guide de l’OMS](https://tdr.who.int/home/our-work/global-engagement/9789240003927) ; il peut la laisser de côté si elle ne lui convient pas.
+1. Poser le téléphone dans un endroit adapté avant de prendre la cafetière, afin de finir ce geste sans jongler avec les deux.
+2. Remarquer un détail autour de lui, comme un son ou une couleur, si cela lui convient.
+3. Choisir l’action immédiate suivante, par exemple boire sa tasse puis consulter l’heure prévue avec Samba ; arrêter l’exercice s’il ne l’aide pas.
 
-### 2. Noter ce qui manque et ce qui fait préférer la distance
+Ce retour peut donner un point d’appui à une décision ordinaire. Il ne mesure ni l’attachement ni la gravité de son mal-être.
 
-Hugo peut écrire d'un côté ce qui lui manque et de l'autre ce qui lui fait choisir la distance. Les deux listes peuvent coexister. Il n'a pas à décider laquelle décrit toute la relation.
+### 2. Noter deux envies sans faire gagner une liste
 
-### 3. Faire une pause et respecter les limites
+Le carnet sert à distinguer ce qui lui manque de ce qui lui fait préférer la distance.
 
-Si un message n'est pas nécessaire, Hugo peut écrire un brouillon sans l'envoyer et laisser retomber l'urgence. Si Chloé a demandé de ne plus être contactée, il respecte cette limite. Une personne de confiance peut l'écouter sans qu'il ait besoin de reprendre contact.
+1. Écrire une chose qu’il aimerait partager avec Chloé aujourd’hui, sans lui prêter de réponse.
+2. Inscrire en face ce qui rend ce contact difficile maintenant, comme la tentation de lui reprocher son silence.
+3. Choisir ce qu’il peut laisser ouvert pour le moment et refermer la note, sans devoir décider de toute la relation.
+
+Les deux lignes peuvent coexister. Si écrire devient plus pénible, il peut rester sur une activité ou demander une présence sans poursuivre la note.
+
+### 3. Différer un message et respecter les limites convenues
+
+Hugo cherche un choix qui ne transforme pas son urgence en obligation pour Chloé.
+
+1. Garder un brouillon non nécessaire au lieu d’appeler pour obtenir aussitôt une réponse.
+2. Vérifier ce qui est effectivement convenu pour leurs contacts ; si Chloé a demandé de ne plus être contactée, respecter cette limite.
+3. Choisir un autre appui disponible, comme demander à Samba s’il souhaite jouer avant de parler de la tournée, sans l’envoyer relancer Chloé.
+
+Cette pause peut préserver une possibilité de choix. Elle ne promet pas qu’Hugo cessera d’attendre ni qu’un contact reprendra ensuite.
 
 ## Ce qui peut attendre demain
 

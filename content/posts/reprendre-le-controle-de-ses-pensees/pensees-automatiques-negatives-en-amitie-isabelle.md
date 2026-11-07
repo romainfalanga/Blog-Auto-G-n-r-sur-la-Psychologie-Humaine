@@ -36,13 +36,28 @@ En amitié aussi, un silence ou un geste ambigu peut susciter une interprétatio
 
 Isabelle suppose que Catherine juge sa vie de divorcée. En TCC, on parle parfois de « lecture de pensée » quand on traite une supposition sur l’esprit de l’autre comme une certitude. Isabelle se replie, alors qu’elle ignore encore pourquoi Catherine se tait.
 
+Exemples concrets
+
+- Isabelle suppose que Catherine juge sa vie de divorcée alors qu’elle ne connaît pas le motif du silence.
+- La question sur son heure de départ précède une vérification de sa disponibilité réelle.
+
 ### 2. Le filtre mental et la minimisation du positif
 
 Isabelle accorde plus de poids au téléphone qu’aux rires partagés et au fait que Catherine a proposé le rendez-vous. Ce filtre peut orienter son jugement. Les faits qui lui échappent méritent aussi une place.
 
+Exemples concrets
+
+- Le téléphone allumé pèse plus que l’invitation de Catherine à se voir.
+- Isabelle remarque l’écran sans accorder autant de place à la question posée sur Théo.
+
 ### 3. La personnalisation excessive des événements extérieurs
 
 Isabelle se croit responsable de l’humeur de Catherine, sans élément précis. Le souvenir d’avoir essayé de garder la paix chez elle lui vient, mais ne tranche pas la question. Elle pourrait demander si son amie attend une nouvelle.
+
+Exemples concrets
+
+- Isabelle cherche à rendre son récit plus intéressant pour changer l’humeur supposée de Catherine.
+- Elle tire l’addition vers elle comme si elle avait provoqué un ennui qui n’a pas été confirmé.
 
 ## Techniques pour agir face aux pensées automatiques
 
@@ -52,13 +67,43 @@ Pour briser ce cycle, il est nécessaire de passer d'une réaction émotionnelle
 
 Dans un relevé de pensées, on peut noter la situation, l’émotion, la première interprétation et les faits pour ou contre. Regarder son téléphone n’est pas en soi une preuve d’ennui. Isabelle se rappelle que Catherine a proposé de se voir et a posé des questions sur Théo. Elle peut rester sur une conclusion ouverte.
 
+**Objectif :** Séparer ce qui est vu de ce qui est conclu.
+
+Exercice pratique
+
+- Notez séparément le téléphone regardé, votre émotion et « elle s’ennuie ».
+- Ajoutez l’invitation et les questions de Catherine aux faits à considérer.
+- Gardez une phrase ouverte sur ce que vous ignorez plutôt que décider de son intention.
+
+**Utilité possible :** Un relevé bref peut aider à formuler une question ; il peut s’arrêter s’il alimente une relecture répétée.
+
 ### 2. Le questionnement socratique appliqué à l'amitié
 
 Que sait Isabelle ? Que dirait-elle à Catherine si leurs rôles étaient inversés ? Ces questions lui permettent de suspendre un jugement, comme elle l’a fait face aux absences de Mathieu.
 
+**Objectif :** Ouvrir le jugement à une autre lecture.
+
+Exercice pratique
+
+- Demandez-vous ce que vous savez exactement de ce regard vers l’écran.
+- Imaginez la réponse mesurée que vous donneriez à Catherine si elle était à votre place.
+- Choisissez une question utile ou la poursuite du récit, sans chercher une certitude sur toute l’amitié.
+
+**Utilité possible :** Le changement de perspective peut nuancer une conclusion sans prouver ce que Catherine pense.
+
 ### 3. La vérification de la réalité par la communication authentique
 
 Quand la relation et le moment s’y prêtent, Isabelle peut demander : « Tu sembles attendre quelque chose, tout va bien ? » Elle laisse à Catherine la possibilité de répondre ou de garder cela privé. Une question posée pour mieux comprendre peut être plus utile que des demandes répétées de réassurance.
+
+**Objectif :** Vérifier le besoin présent par une communication limitée.
+
+Exercice pratique
+
+- Demandez une fois si Catherine attend une nouvelle ou préfère un autre moment.
+- Laissez-lui le droit d’expliquer, de corriger ou de garder le motif privé.
+- Convenez de continuer, marcher ou reporter selon vos disponibilités respectives.
+
+**Utilité possible :** Un accord sur le moment peut être plus utile que des demandes répétées pour se rassurer.
 
 ## Catherine attend des nouvelles
 

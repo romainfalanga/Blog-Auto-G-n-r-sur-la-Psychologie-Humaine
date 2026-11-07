@@ -25,29 +25,46 @@ La [formation réactionnelle](https://dictionary.apa.org/reaction-formation) dé
 
 Sophie, elle, sait qu’elle est en colère et sourit quand même. Elle peut vouloir temporiser, rester professionnelle ou éviter que Marc hausse le ton. Elle repense au calme valorisé par ses parents, sans savoir quel rôle cela joue aujourd’hui.
 
-## Manifestations de la formation réactionnelle en situation de conflit
+## Décalages observables pendant le conflit
 
-Le comportement visible ne suffit pas à savoir ce que la personne ressent. Voici trois décalages que Sophie peut observer, sans y lire un mécanisme inconscient certain.
+Le comportement visible ne suffit pas à savoir ce que la personne ressent. Voici trois décalages que Sophie peut observer sans y lire un mécanisme inconscient certain.
 
 ### 1. Une politesse qui cache le désaccord
 
 Au moment où Marc écarte son travail, Sophie le remercie. Être polie dans une situation où elle se sent attaquée ne donne pas raison à Marc ; c’est ce qu’elle arrive à faire dans l’instant.
 
+Exemples concrets :
+
+- En réunion, elle dit à Marc qu’il a probablement raison alors qu’elle souhaite examiner les arguments contre sa structure.
+- Elle remercie pour la patience du collègue en éprouvant de l’agacement ; ce décalage conscient ne suffit pas à établir une formation réactionnelle.
+
 ### 2. Proposer d’en faire davantage
 
 Sophie propose de tout reprendre alors qu’elle voudrait défendre son travail. Les raisons peuvent aller du souci de terminer la réunion à la crainte des conséquences d’un refus. Faire un geste d’apaisement face à un rapport de force ne prouve pas qu’on redoute sa propre agressivité.
+
+Exemples concrets :
+
+- Elle promet une reprise complète de la base sans avoir séparé les corrections utiles des points à défendre.
+- Elle peut offrir du travail supplémentaire pour terminer l’échange, alors qu’une réponse différée serait aussi à envisager si elle peut la choisir.
 
 ### 3. Évoquer aussi les qualités de l’autre
 
 Sophie peut reconnaître les compétences de Marc et trouver son ton déplacé. Admettre ces deux choses ensemble lui permet de décrire le désaccord sans tirer un verdict sur lui ni sur elle.
 
-## Techniques pour agir face à la formation réactionnelle
+Exemples concrets :
 
-Si Sophie a la possibilité de prendre du recul, elle peut noter le décalage et décider de ce qu’elle souhaite communiquer.
+- Sophie peut juger une remarque technique pertinente tout en considérant le ton de Marc déplacé.
+- Elle peut garder la structure initiale pour des raisons de performance et demander un examen collectif de deux points de désaccord.
+
+## 3 techniques pour préparer une réponse au désaccord
+
+Sophie peut noter le décalage conscient et choisir ce qu’elle souhaite communiquer si la situation le permet. Ces appuis ne diagnostiquent pas une défense inconsciente.
 
 ### 1. La pause de détection émotionnelle
 
 La première étape consiste à repérer le décalage physique entre l'émotion ressentie et le comportement affiché. Lorsque vous sentez ce sourire automatique s'installer en plein conflit, faites une pause mentale de dix secondes. Observez si vos mâchoires sont contractées malgré votre ton calme, ou si votre estomac se noue alors que vous dites oui. L'exercice consiste à ne rien dire pendant ces quelques secondes, à simplement laisser l'émotion initiale, la colère ou la frustration, exister dans votre corps sans la recouvrir par de la gentillesse. Si la pause lui est utile, Sophie peut ensuite choisir de répondre ou de reprendre la discussion plus tard.
+
+Une pause peut rester brève et adaptée au moment ; les dix secondes évoquées sont un exemple, pas une règle à appliquer dans toute situation.
 
 ### 2. La verbalisation neutre et factuelle
 
@@ -56,6 +73,8 @@ Pour contrer la tendance à l'obséquiosité, entraînez-vous à utiliser des ph
 ### 3. Le carnet des vérités cachées
 
 Après un conflit où vous avez eu l'impression de jouer un rôle, prenez votre carnet de notes. Divisez une page en deux colonnes. Dans la colonne de gauche, écrivez ce que vous avez dit et fait. Dans la colonne de droite, écrivez ce que vous pensiez et ressentiez réellement. Cet exercice permet de comparer ce que vous avez ressenti et ce que vous avez dit. Il ne mesure pas la dissociation et ne la traite pas. En relisant ces pages, vous commencez à donner une place légitime à votre colère, lui montrant qu'elle a le droit d'exister, même si elle n'est pas encore prête à être exprimée tout haut devant l'autre. Sophie utilise ici ses acquis précédents sur les pensées automatiques pour ne plus laisser son cerveau transformer ses doutes en vérités absolues.
+
+Enfin, choisissez ce que vous souhaitez communiquer et ce qui restera privé ; vous pouvez fermer le carnet si cette comparaison vous pèse.
 
 ## Revenir sur la proposition rejetée
 

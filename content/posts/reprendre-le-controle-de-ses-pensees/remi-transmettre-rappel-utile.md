@@ -39,17 +39,23 @@ Rémi décrit bien le traitement habituel. Il oublie de rendre visible la valida
 
 Une transmission peut ainsi être complète sur le plan des gestes et incomplète sur le plan des dépendances. Rémi retrouve un acquis de son tri de placard : une étape attend parfois un élément extérieur. Au travail, ce lien doit être visible pour celui qui reprend, pas seulement conservé dans la tête de celui qui prépare. Sinon, le destinataire doit relancer pour découvrir où se situe réellement le dossier.
 
+Nicolas attend la validation pour poursuivre le retour ; le service qui reprend le dossier a aussi besoin de savoir quel point reste à clarifier. Dans les deux cas, décrire tous les gestes ne dit pas encore si la suite est autorisée.
+
 ### L'intention revient quand l'action n'est plus disponible
 
 Rémi pense à Nicolas pendant le trajet de retour, lorsqu'il ne peut plus effectuer la transmission selon le cadre prévu. Il se reproche alors de se souvenir trop tard. Le contenu n'est pas perdu. L'indice utile manque au moment d'agir. Une liste consultée seulement à la maison ne résoudrait pas cette difficulté. Le rappel doit se trouver dans le parcours professionnel où l'information arrive et où le relais est possible.
 
 Cette distinction lui évite d'ajouter des rappels au hasard. Il cherche l'événement pertinent : réception de la validation, fin de la vérification en cours ou point de relève. Le bon choix dépend des procédures et de la disponibilité du destinataire. Un signal qui apparaît pendant une action exigeant toute son attention pourrait encore être différé. Il faut alors qu'il reste accessible jusqu'au moment de transmission, sans gêner la sécurité du poste.
 
+La promesse formulée à la lecture de la réponse ne revient pas à la fin du contrôle ; elle peut revenir pendant le trajet alors que Nicolas n’est plus au point de relève. Le contenu est connu dans les deux moments, mais son rappel ne rejoint pas l’action disponible.
+
 ### La peur de l'oubli ramène au contrôle permanent
 
 Après l'incident, Rémi voudrait vérifier sans cesse si Nicolas avance. Cette surveillance lui donnerait une impression de maîtrise, mais elle doublerait le travail et rendrait le partage peu réel. Nicolas doit pouvoir utiliser les consignes et signaler ses propres questions. Un point de retour convenu permet de suivre les éléments importants sans inspecter chaque geste ni reprendre systématiquement la tâche dès qu'une incertitude apparaît.
 
 Rémi doit également accepter que Nicolas organise certaines actions autrement si le cadre le permet. Transmettre le résultat attendu, les contraintes et les validations n'exige pas de recopier toute sa manière personnelle de faire. La procédure commune reste la référence. Le partage peut même révéler un support peu clair. Cette information mérite une correction collective, plutôt qu'une conclusion selon laquelle il serait toujours plus sûr de tout garder pour soi.
+
+Rémi pourrait demander plusieurs fois si Nicolas avance, ou reprendre lui-même un point dès que Nicolas pose une question. Ces deux façons de prévenir un oubli apparent annuleraient une partie du partage convenu avec Claire.
 
 ## 3 techniques pour transmettre et se rappeler au bon moment
 

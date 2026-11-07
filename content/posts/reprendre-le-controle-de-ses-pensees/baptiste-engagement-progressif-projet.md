@@ -35,13 +35,28 @@ L’engagement dépend aussi du cadre proposé par le collectif. Un organisateur
 
 Choisir quelques images paraît simple jusqu’à ce que Baptiste l’associe à l’impression, à la prise de parole et à une organisation régulière. Certaines étapes feront peut-être partie du projet, d’autres non. Les rassembler immédiatement rend le départ plus coûteux qu’il ne l’est réellement. Il peut séparer ce qui est demandé maintenant de ce qui reste à discuter. Cette distinction ne consiste pas à ignorer les suites prévisibles. Elle permet de connaître le niveau d’engagement de chaque choix, plutôt que traiter toute action comme l’acceptation définitive de la plus grande version imaginable du projet.
 
+Exemples concrets
+
+- Sélectionner trois photographies semble à Baptiste l’engager déjà dans une exposition complète.
+- Le premier courriel lui fait imaginer l’impression et toutes les prises de parole avant que le collectif ait défini les rôles.
+
 ### On attend une assurance personnelle que l’expérience devait construire
 
 Baptiste ne sait pas encore si ses photographies intéresseront le groupe. Il pourrait considérer cette incertitude comme une raison de ne rien montrer. Pourtant, la proposition ne lui demande pas de se présenter comme photographe confirmé. Une discussion sur quelques images peut lui donner des informations sur le rôle et le niveau attendu. Le retour pourra être favorable, mitigé ou négatif. Il ne doit pas devenir un verdict sur son droit d’avoir cet intérêt. La prudence consiste à préciser sa place actuelle, pas à attendre une confiance absolue avant de participer à une activité où l’apprentissage reste possible.
 
+Exemples concrets
+
+- Baptiste hésite à montrer une façade parce qu’il ne sait pas si le groupe la trouvera intéressante.
+- La troisième image peut être peu adaptée au trajet sans prouver qu’il n’a pas sa place parmi les débutants.
+
 ### Le temps limité est traité comme un obstacle à contourner
 
 Baptiste peut imaginer qu’un vrai engagement exigerait de trouver du temps coûte que coûte. Cette règle risque de déplacer la charge sur Caroline, de supprimer le repos ou de rendre le loisir plus lourd que souhaité. Sa disponibilité constitue une information de départ, pas une résistance psychologique à vaincre. Le projet doit pouvoir y trouver une place réaliste. Si ce n’est pas possible, une participation différente ou un refus peuvent être cohérents. Un petit objectif n’est pas automatiquement adapté parce qu’il est petit ; il doit rester compatible avec les engagements et les moyens déjà présents.
+
+Exemples concrets
+
+- Baptiste pourrait accepter les repérages en comptant d’avance sur toutes ses soirées.
+- Un parcours très long proposé par le groupe peut dépasser le temps discuté avec Caroline.
 
 ## Trois pistes pour commencer avec un accord assez clair
 
@@ -49,13 +64,31 @@ Baptiste peut imaginer qu’un vrai engagement exigerait de trouver du temps co�
 
 Baptiste propose de sélectionner trois images et de venir à une rencontre de préparation. Il précise qu’il débute et ne souhaite pas assurer seul l’organisation du parcours. Cette description donne un contenu au premier engagement. L’organisatrice peut dire si cela répond au besoin, demander une autre contribution ou constater qu’un rôle différent est nécessaire. Baptiste n’a pas besoin d’affaiblir sa proposition par une série d’excuses ; il annonce simplement ce qu’il est prêt à faire. Dans un autre projet, il peut s’agir d’une séance, d’un document ou d’une tâche ponctuelle. Les limites doivent être assez concrètes pour éviter que les participants donnent tous le même oui en y comprenant des engagements très différents.
 
+Exercice pratique
+
+- Rédigez une proposition de trois images et d’une rencontre.
+- Précisez votre place de débutant et l’absence d’engagement pour l’organisation générale.
+- Demandez à l’organisatrice si cette contribution répond au besoin du collectif.
+
 ### 2. Préparer un premier geste avec les moyens actuels
 
 Baptiste choisit un créneau pour regarder ses images et vérifier les lieux qu’elles montrent. Il ne décide pas de parcourir toute la ville ni d’acheter du matériel. Il peut noter ce qui manque et demander si cela doit réellement être préparé avant la rencontre. Cette étape réduit le travail imaginaire qui n’aurait peut-être servi à rien. Il garde aussi une attention aux personnes et aux espaces représentés : montrer une façade ne signifie pas qu’il peut diffuser sans discussion une image prise dans un cadre privé. Les règles et les accords utiles doivent être vérifiés avec le collectif. Un essai léger reste un engagement respectueux, pas une manière de remettre toutes les précautions à une étape future.
 
+Exercice pratique
+
+- Choisissez dans votre agenda un créneau de sélection des images.
+- Vérifiez ce que les photographies montrent et les accords utiles à leur présentation.
+- Notez une question à apporter au groupe puis arrêtez la préparation au périmètre annoncé.
+
 ### 3. Prévoir un point où la suite sera choisie de nouveau
 
 Après la rencontre, Baptiste souhaite savoir quelle tâche pourrait lui convenir, quel temps elle demanderait et quels appuis seraient disponibles. Il ne promet pas qu’un essai agréable mènera forcément à un rôle plus grand. Le groupe doit pouvoir compter sur ce qu’il a accepté, puis réexaminer la suite avec lui. Cette manière de procéder laisse aussi une place à une découverte moins favorable : trop de réunions, un objectif qui ne lui plaît pas ou une charge mal répartie. Dans ce cas, il pourra terminer une contribution annoncée et ne pas continuer. Un bilan n’a pas à chercher uniquement les raisons de s’investir davantage ; il sert à comparer le projet réel avec l’intérêt et les ressources qui l’avaient rendu possible au départ.
+
+Exercice pratique
+
+- Après la rencontre, demandez le temps et le format du repérage de deux façades.
+- Vérifiez ce que cette tâche prend dans l’agenda partagé.
+- Acceptez ou déclinez cette étape distinctement de tout rôle permanent.
 
 ## Trois images sur la table
 

@@ -27,25 +27,55 @@ Une [reformulation théorique chez l’humain](https://pubmed.ncbi.nlm.nih.gov/6
 
 ## Manifestations de la résignation au quotidien
 
-### 1. L'érosion de l'initiative et la passivité comportementale
-La manifestation la plus flagrante est l'arrêt progressif de toute tentative de changement. Pour quelqu'un comme Margot, cela signifie ne plus relancer de nouveaux clients, ne plus mettre à jour son site internet ou cesser de pratiquer les exercices de méditation qui l'aidaient pourtant. On se contente d'accomplir les tâches minimales, les gestes automatiques, sans aucune intentionnalité. Ce retrait peut avoir plusieurs causes ; ce qui inquiète Margot, c’est qu’il tranche avec sa façon habituelle de travailler.
+### 1. Un geste de travail n’a plus de suite évidente
 
-### 2. La distorsion cognitive des opportunités
-Lorsque la résignation s'installe, le filtre avec lequel nous percevons le monde change. Les opportunités ne sont plus vues comme des chances de réussir, mais comme des risques supplémentaires de souffrir. Si un ami propose une mise en relation professionnelle, la personne résignée trouvera une excuse pour l'éviter, persuadée que cela ne mènera à rien. On interprète chaque petit succès comme un coup de chance isolé et chaque échec comme une preuve irréfutable de notre incompétence, ce qui renforce le sentiment d'impuissance. Margot reconnaît là ce biais rétrospectif qui l'avait déjà piégée par le passé, transformant ses récents refus en un destin inéluctable.
+Margot se décourage devant les réponses absentes et le refus reçu. Elle envisage moins facilement une action, mais cela ne permet pas de conclure qu’elle serait passive dans toute sa vie. Elle peut aussi manquer d’informations pour choisir une relance pertinente.
 
-### 3. L'anesthésie émotionnelle et le repli sur soi
-Au lieu de ressentir une tristesse vive ou une colère motrice, on tombe dans une forme de mélancolie plate. La maison, devenue silencieuse depuis le départ des enfants, ne semble plus être un espace de liberté mais une cage dorée. On évite les discussions authentiques avec ses proches, comme Margot évite d'en parler à Philippe, car expliquer son état demanderait une énergie que l'on n'a plus. On se mure dans un silence protecteur, espérant que le temps passera plus vite si l'on ne bouge plus.
+Elle n’ouvre plus le carnet resté dans son sac. Dans le magasin, elle imagine une page neuve puis remet le carnet en rayon, parce qu’un autre support ne lui donne aucune information supplémentaire. Ces deux gestes montrent la difficulté à reprendre, sans faire du nouvel achat une solution nécessaire.
+
+### 2. Les issues différentes deviennent une même conclusion
+
+Un refus explicite et un silence ne disent pas la même chose. Les réunir sous « cela ne marchera jamais » donne à Margot une certitude qu’elle ne possède pas. Elle peut reconnaître un coût réel sans inventer la cause du refus.
+
+Elle cherche une remarque sur son tarif dans un message qui n’en donne aucune. Elle traite aussi les lignes sans réponse comme si elles confirmaient ce même rejet. Le courriel et les attentes restent pourtant deux types d’informations distincts.
+
+### 3. La perspective de parler semble déjà trop lourde
+
+Le découragement peut rendre une conversation difficile à commencer, même lorsque Margot en aurait envie. Un moment seule peut convenir ; ce qui lui pèse ici est de ne plus voir comment expliquer la situation sans devoir tout résoudre.
+
+Elle pense appeler Sylvie puis anticipe une question sur la prochaine proposition avant même l’échange. Elle hésite aussi à parler à Philippe, alors qu’elle pourrait lui demander de marcher sans exposer tout son projet. L’appel professionnel et la présence d’un proche ne répondent pas au même besoin.
 
 ## Techniques pour agir face à la résignation
 
-### 1. La technique de la réattribution causale
-Cette méthode consiste à contester consciemment les interprétations que nous donnons à nos échecs. Prenez une feuille de papier et tracez trois colonnes. Dans la première, notez l'échec récent. Dans la seconde, listez les raisons qui ne dépendent pas de vous, comme le budget de l'entreprise, le timing du prospect ou la conjoncture économique. Dans la troisième, notez ce qui dépend de vous mais qui est modifiable, par exemple votre accroche commerciale ou le choix de votre cible. L'objectif est de transformer une cause perçue comme stable et globale en une série de facteurs spécifiques et temporaires. En réalisant que l'échec n'est pas une condamnation de votre être mais le résultat de variables mouvantes, vous rouvrez la porte à l'action.
+### 1. Séparer les faits et les causes encore inconnues
 
-### 2. La méthode des micro-victoires planifiées
-La résignation se nourrit de l'impression que rien de ce que nous faisons n'a de valeur. Pour casser ce cycle, choisissez un geste assez simple pour vous sembler faisable. Il ne s'agit pas de trouver un client, mais simplement d'ouvrir votre boîte mail à une heure précise ou de ranger un seul dossier sur votre bureau. Vous pouvez noter ce qui était faisable ce jour-là et ajuster la suite en fonction de votre énergie et du contexte. Le résultat ne dit rien de votre valeur.
+L’objectif est d’éviter qu’une explication imaginée devienne un verdict sur sa reconversion.
 
-### 3. Écrire une réponse à « tout est inutile »
-Margot peut noter cette phrase puis imaginer la réponse qu’elle adresserait à une amie dans la même situation. Elle peut reconnaître la fatigue et proposer un geste réaliste, comme demander à quelqu’un de l’écouter. Il n’est pas nécessaire de revivre la scène du refus.
+1. Choisir le dernier courriel et recopier le fait : le contact décline sans donner de raison.
+2. Inscrire à part les hypothèses, comme le tarif ou le calendrier, en les laissant clairement non confirmées.
+3. Choisir si une question limitée lui serait utile et acceptable, ou décider de ne pas relancer aujourd’hui en gardant la note.
+
+Cette distinction peut rendre une prochaine décision plus précise. Elle ne promet pas une cause modifiable et n’oblige pas à chercher une explication à chaque refus.
+
+### 2. Préparer un geste qui ne dépend pas d’obtenir un oui
+
+Margot cherche une action assez limitée pour ses ressources du jour, sans transformer l’exercice en défi de productivité.
+
+1. Ouvrir l’ancien carnet sur la ligne du contact, au lieu de refaire toute l’organisation sur un carnet neuf.
+2. Noter une seule information connue et la question qui reste ouverte, puis regarder si elle souhaite continuer.
+3. Choisir la suite : écrire un brouillon, prévoir un autre moment ou fermer le carnet après cette note.
+
+Le résultat est une trace utilisable, pas une cliente gagnée. S’arrêter à cette étape peut convenir si poursuivre ajoute trop de fatigue.
+
+### 3. Répondre à « tout est inutile » par une demande actuelle
+
+Le but est de trouver une parole assez juste pour demander un soutien sans revivre la scène du refus.
+
+1. Noter la phrase qui revient, si cela lui convient, et ce qu’elle rend difficile maintenant.
+2. Imaginer ce qu’elle dirait à une amie : reconnaître le découragement sans annoncer que la prochaine offre réussira.
+3. Transformer cette réponse en demande précise, comme proposer une marche à Philippe ou une écoute à Sylvie sans recherche immédiate de solution.
+
+Une présence choisie peut compter sans changer les réponses des contacts. Si même cette demande est trop coûteuse, elle peut la différer ou chercher un autre appui.
 
 ## Une question qu’elle remet à demain
 

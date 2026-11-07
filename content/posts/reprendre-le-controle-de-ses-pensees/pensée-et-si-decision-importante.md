@@ -31,27 +31,60 @@ Léa anticipe surtout des difficultés après son départ. Certaines appellent u
 
 Léa enchaîne des visions dramatiques sans cesse renouvelées : elle imagine des ruptures, des échecs académiques ou l'effondrement de son engagement bénévole. Concrètement, cela se traduit par des nuits où elle réécrit mentalement chaque décision possible, jusqu'à perdre l'énergie nécessaire pour comparer objectivement les options. Devant l'offre de stage, elle voit seulement le pire cas, comme si chaque option conduisait automatiquement à une catastrophe. Cette tendance est le prolongement direct de sa pensée dichotomique : soit elle reste et sauve tout, soit elle part et tout s'écroule.
 
+Exemples situés :
+- Devant le bureau du Dr Moreau, une réponse positive au stage fait aussitôt imaginer à Léa une rupture avec Youssef.
+- Elle peut ensuite passer de cette image à l’échec des examens, sans avoir encore vérifié le rythme réel du stage.
+
 ### 2. Paralysie décisionnelle par surcharge d'anticipations
 
 Sous l'effet des "et si", Léa met la décision en attente. Elle multiplie les listes, consulte ses notes, demande l'avis de Dr Moreau et de Zoé, sans jamais trancher. Cette paralysie tient moins à une absence d'information qu'à l'illusion que toutes les conséquences possibles doivent être connues avant d'agir. Elle refuse de répondre à l'offre tant qu'elle n'aura pas simulé tous les scénarios imaginables.
+
+Exemples situés :
+- Alors que la réponse est attendue aujourd’hui, Léa relit ses listes au lieu de retenir les questions indispensables à l’établissement.
+- Elle peut demander successivement l’avis de Zoé et du Dr Moreau sur la même inconnue relationnelle qu’aucun ne peut résoudre pour elle.
 
 ### 3. Sur-responsabilisation et tentative de contrôle sur l'incontrôlable
 
 Les "et si" conduisent Léa à croire qu'elle peut prévenir chaque douleur d'autrui ou chaque risque en faisant le choix parfait. Pour Léa, accepter ressemble un moment à une faute envers Youssef, alors qu’elle peut réfléchir à son projet et à sa relation séparément. Elle considère que partir signifierait abandonner Youssef, comme si sa présence seule garantissait la survie du couple, une résonance directe avec le divorce de ses parents où elle s'était sentie investie d'une mission de médiatrice impuissante.
 
+Exemples situés :
+- Léa traite un moment son départ à Grenoble comme s’il décidait à lui seul de la solidité du couple.
+- Elle peut croire devoir maintenir toutes ses séances de bénévolat à l’identique avant d’accepter le stage, plutôt que parler d’une réorganisation avec l’association.
+
 ## Techniques pour reprendre le contrôle
 
 ### 1. Séparer ce que l’on sait, ce que l’on craint et ce que l’on peut faire
 
-Notez la question qui revient, les informations dont vous disposez et une action éventuelle. Léa ne peut pas chiffrer le risque de rupture ; elle peut réfléchir à ce qu’elle souhaite demander à Youssef. Pour la bourse, elle peut vérifier le calendrier auprès de l’établissement.
+L’objectif est de distinguer une demande vérifiable d’une conséquence impossible à garantir.
+
+Exercice pratique :
+1. Écrivez un « et si » précis, comme la peur que la distance fragilise le couple.
+2. Placez à part ce que vous savez du stage à Grenoble et du projet de Youssef à Lyon, sans présenter une vie commune comme décidée.
+3. Choisissez une action propre à chaque question : vérifier le calendrier de bourse auprès de l’établissement ou demander une conversation sur vos projets.
+
+Utilité possible : chaque démarche reçoit un interlocuteur, sans calcul fictif du risque de rupture.
 
 ### 2. Expérimentation raisonnée et plan d'action à petite échelle
 
-Cette méthode transforme l'indécision en test contrôlé. Définissez un petit engagement de durée limitée qui simule la décision. Par exemple, demandez à l’équipe ce qui est possible dans la convention et si un point de suivi peut être prévu. Établissez un critère de réussite simple, comme la possibilité de suivre les cours et de participer à deux sessions de bénévolat par mois. Notez la durée de l'expérimentation et un plan de secours si vos critères ne sont pas atteints. Les expériences réduisent l'incertitude réelle et montrent que l'on peut tester sans tout sacrifier, ce qui rassure la partie contrôlante de l'esprit.
+L’objectif est de demander quelles possibilités d’ajustement existent réellement, sans supposer qu’une convention de stage autorise un essai ou une mobilité.
+
+Exercice pratique :
+1. Relevez le point qui demande une précision, par exemple le rythme des trajets et des cours.
+2. Demandez à l’équipe ce que la convention permet et si un point de situation à six semaines est possible, sans le tenir pour acquis.
+3. À partir de la réponse, choisissez ce que vous pouvez accepter et une organisation alternative pour le bénévolat si nécessaire.
+
+Utilité possible : Léa réduit une inconnue pratique avec une information réelle. La démarche ne simule pas toute sa vie future et ne garantit pas que chaque difficulté sera réversible.
 
 ### 3. Dialogue socratique avec votre conseiller interne
 
-Il s'agit de challenger les croyances automatiques derrière les "et si" en adoptant une posture interrogative. Quand une pensée surgit, écrivez-la en une phrase, puis posez cinq questions : quelles preuves montrent que cela est systématiquement vrai ? Quelle est l'alternative la plus plausible ? Que dirait un ami objectif ? Quelle est la pire conséquence réaliste et comment y répondre ? Quelle décision semble la plus alignée avec mes valeurs de psychologue en devenir ? Pour Léa, ce dialogue l'aide à se rappeler ses valeurs professionnelles et à opposer des preuves concrètes aux scénarios alarmistes, sans devoir prouver que toutes ses inquiétudes sont infondées. La méthode transforme une rumination en examen critique, ce qui affaiblit les raisonnements erronés nés de la peur.
+L’objectif est de clarifier une pensée sans exiger de la réfuter ni jouer seule tous les scénarios.
+
+Exercice pratique :
+1. Choisissez une croyance qui revient, comme « Partir signifie abandonner tout le monde ».
+2. Notez les engagements effectivement pris et la question qu’une amie bienveillante poserait sur vos propres souhaits.
+3. Retenez une priorité pour votre réponse au stage et un point à reprendre avec le Dr Moreau, puis arrêtez la réflexion pour ce moment.
+
+Utilité possible : Léa peut revenir à ce qui compte pour sa formation sans transformer l’exercice en recherche de certitude ou en dévalorisation de ses inquiétudes.
 
 ## La réponse au stage
 

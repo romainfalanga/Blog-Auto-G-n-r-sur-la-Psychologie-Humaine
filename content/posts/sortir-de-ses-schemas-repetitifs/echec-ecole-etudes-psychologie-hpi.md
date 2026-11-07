@@ -29,29 +29,53 @@ Les difficultés et les besoins varient d’une personne à l’autre. Le [minis
 
 ### Le perfectionnisme paralysant et la procrastination
 
-Lucas passe beaucoup de temps sur l’introduction et reporte le plan. Il peut se demander s’il manque de temps, de repères sur l’exercice ou d’un retour assez précis. Reporter le travail ne suffit pas à établir une intention inconsciente de se protéger.
+Lucas passe beaucoup de temps sur l’introduction et reporte le plan. Une phrase retouchée peut lui donner l’impression d’avancer alors que l’organisation du rapport reste sans réponse. Il peut se demander s’il manque de temps, de critères ou d’un retour précis, sans déduire une intention inconsciente de se protéger.
+
+Il peut ainsi reformuler plusieurs fois la première page au lieu d’envoyer le plan au tuteur. Il peut aussi rouvrir le fichier pour vérifier le commentaire « refusé », puis le refermer sans sélectionner la source à rechercher. Ces deux activités entourent le travail à faire sans encore traiter la question de structure ou de documentation.
 
 ### Un sujet trop large pour le temps disponible
 
-Le sujet choisi par Lucas est trop vaste pour le délai. Il peut demander à son tuteur quelle question garder et quels exemples retirer. Il n’a pas besoin de conclure qu’il s’est volontairement mis en échec.
+Une difficulté peut venir de la taille du sujet plutôt que d’une incapacité générale. Si Lucas tente de répondre à plusieurs questions à la fois, chacune réclame des données et une argumentation qu’il ne peut pas développer dans le délai.
+
+Dans le plan, accumuler plusieurs pistes peut l’empêcher de choisir celle que le correcteur attend de voir défendue. Dans la partie documentaire, conserver un exemple supplémentaire peut lui demander de vérifier de nouvelles sources au lieu de consolider l’argument déjà souligné. Il peut demander au tuteur quelle question garder et quel exemple retirer. Ce tri ne démontre pas qu’il s’est volontairement mis en échec.
 
 ### Des exigences différentes à l’oral et à l’écrit
 
-Une personne peut être à l’aise à l’oral et avoir besoin d’aide pour structurer un écrit. Cette différence n’indique pas une façon particulière de penser ni un type d’intelligence.
+Une explication donnée à voix haute et un rapport écrit n’offrent pas les mêmes appuis. À l’oral, Lucas peut répondre à une question qui lui signale un lien manquant. Dans le document, le lecteur doit retrouver ce lien sans lui demander immédiatement de le préciser. Cette différence ne désigne pas un type d’intelligence.
+
+Lorsqu’il raconte son travail à Maxime, une relance peut l’aider à expliquer pourquoi il a changé un tableau. Sur la page commentée par le tuteur, il doit écrire l’argument et indiquer la source qui permet de le vérifier. Être à l’aise dans la première situation n’annule pas le besoin d’aide dans la seconde ; la correction écrite ne retire pas non plus son aisance à expliquer un projet.
 
 ## Techniques pour agir face à l'échec scolaire
 
 ### 1. La technique du feedback neutre
 
-Cette méthode consiste à dissocier la valeur de la personne de la valeur du résultat obtenu. Au lieu de se dire que sa valeur personnelle est remise en cause par le rejet de son rapport, Lucas peut apprendre à traiter l'information comme une donnée brute. L'exercice consiste à lister uniquement les faits objectifs mentionnés par le correcteur, sans y ajouter d'adjectifs qualificatifs personnels. Par exemple, constater que la deuxième partie manque de sources devient une tâche logistique à accomplir, et non une critique de son intelligence. Cela permet de désamorcer la charge émotionnelle liée à la performance académique.
+L’objectif est de transformer le commentaire du correcteur en demande de travail, sans exiger de Lucas qu’il le trouve agréable.
+
+1. Relever les mots utiles du mail et de la page : argument à reprendre, sources à vérifier. Garder à part le jugement « je suis incapable » qui ne vient pas du commentaire.
+2. Associer chaque point à une question : quel lien manque dans l’argument, quelles sources sont attendues ? Lucas peut envoyer celle dont la réponse conditionne le reste au tuteur.
+3. Choisir la première correction après cette précision et garder une version du passage pour demander si elle répond mieux à l’attente.
+
+Cette traduction fournit une suite vérifiable. Elle ne rend pas le travail purement logistique : comprendre l’argument peut demander une nouvelle explication ou un accompagnement.
 
 ### 2. La décomposition par la méthode des petits pas
 
-Face à une charge de travail qui semble insurmontable après une difficulté, le cerveau sature. La technique consiste à diviser l'objectif global en micro-tâches de quinze minutes maximum. Pour Lucas, cela signifie ne plus se dire qu'il doit réécrire son mémoire, mais qu'il va rédiger les trois premières phrases de la page 12. L'exercice pratique est de régler un minuteur sur 15 minutes et de s'engager à ne faire qu'une seule action concrète. Une fois le temps écoulé, le sentiment d'accomplissement, même minime, favorise la motivation et brise le cercle de la paralysie.
+Lucas peut donner un bord à une séance de reprise au lieu de se fixer « réécrire le mémoire » comme unique tâche. La durée dépend du temps dont il dispose et de ce qu’il cherche à faire ; quinze minutes ne constituent pas un seuil nécessaire.
+
+1. Choisir un seul objet : retrouver la référence des deux sources surlignées, ou écrire les phrases qui relient un exemple à l’argument.
+2. Préparer le document et les informations nécessaires, puis réserver un créneau réaliste avant la prochaine obligation. Si une donnée manque, noter la question plutôt que remplir le vide.
+3. À la fin, marquer ce qui est fait, ce qui reste incomplet et la prochaine reprise. Il peut s’arrêter même si la page entière n’est pas terminée.
+
+Cette découpe rend l’action visible et facilite une demande ciblée. Elle ne garantit ni la motivation ni un résultat correct sans retour sur le fond.
 
 ### 3. La restructuration cognitive de l'erreur
 
-Cette technique de psychologie cognitive vise à transformer l'échec en un processus de croissance. Il s'agit de s'interroger systématiquement sur la leçon apprise plutôt que sur la perte subie. L'exercice consiste à écrire une lettre à soi-même en adoptant la posture d'un mentor bienveillant. Dans cette lettre, Lucas peut identifier quel outil ou quelle compétence lui a manqué cette fois-ci, comme la gestion du temps, la méthodologie de recherche ou la communication avec le tuteur, et comment il compte acquérir cet outil spécifique. On passe alors d'une posture de passivité à une posture d'acteur de son apprentissage.
+Lucas cherche une conclusion proportionnée à ce rapport pour choisir l’aide suivante. Il n’a pas à trouver une leçon positive à tout prix ni à s’écrire une longue lettre s’il n’en a pas envie.
+
+1. Écrire la conclusion qui lui vient : « Ce refus prouve que je ne peux pas finir mes études. » Puis nommer ce que le retour établit réellement sur ce document.
+2. Distinguer les besoins possibles : structuration de l’argument, vérification des sources ou temps disponible. Les garder comme pistes à discuter, pas comme des causes déjà prouvées.
+3. Choisir avec son référent une aide et un point de retour sur un premier plan, puis inscrire le rendez-vous ou la question à envoyer.
+
+La réflexion sert une décision sur le travail et ses conditions. Elle peut laisser la déception intacte tout en évitant qu’un seul refus décide de toute la suite.
 
 ## Reprendre une page du rapport
 

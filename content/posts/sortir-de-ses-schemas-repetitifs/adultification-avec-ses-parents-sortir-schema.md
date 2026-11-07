@@ -33,13 +33,19 @@ Les effets varient selon les situations et les soutiens. Dans le récit, Fabien 
 
 Un enfant peut devenir le confident régulier d’un adulte pour des difficultés qui le dépassent. Fabien pense à quelques conversations qu’il a entendues jeune. Il rapproche cette habitude d’écoute de certains gestes de son travail actuel, sans pouvoir en faire l’origine certaine de son métier ni la description de toutes ses relations.
 
+**Deux situations à différencier :** un enfant auquel un parent demanderait régulièrement de calmer les conflits du couple porterait une charge à examiner avec le soutien disponible. Fabien adulte qui écoute ponctuellement une difficulté de son père ne fournit pas, par ce seul geste, une preuve de parentification passée.
+
 ### La gestion des responsabilités logistiques précoces
 
 La parentification peut aussi concerner une charge matérielle disproportionnée pour l’âge, par exemple la responsabilité habituelle de la paperasse ou de la fratrie. Aujourd’hui, Fabien peut commencer par demander quelle aide son père souhaite pour ces factures et décider ce qu’il peut prendre en charge.
 
+**Deux exemples distincts :** la gestion habituelle de factures laissée à un enfant au détriment de son repos peut illustrer une responsabilité disproportionnée. Aujourd’hui, Fabien classe les lettres avant même que son père ait expliqué le montant : cette aide d’adulte appelle une discussion de périmètre, pas un diagnostic d’enfance.
+
 ### L'inhibition des besoins personnels
 
-L'enfant adultifié apprend très tôt que ses émotions sont secondaires. S'il va mal, qui s'occupera du parent ? Cette répression conduit à une déconnexion de soi. Fabien, malgré son analyse fine des situations et son esprit HPI, est souvent incapable de dire ce qu'il ressent vraiment dans l'instant. Il remplace le sentiment par l'analyse. Cette solitude qu'il ressent dans son nouvel appartement lyonnais est le cri d'un enfant qui n'a jamais appris à demander de l'aide, persuadé qu'il doit être le roc sur lequel les autres s'appuient, une position de vie -/+ où il s'oublie pour maintenir l'équilibre des autres.
+Une charge de soutien peut laisser peu de place aux besoins d’un enfant, sans que les conséquences soient identiques pour tous. Dans la scène actuelle, Fabien organise déjà des appels sans avoir dit de quel temps il dispose. Il peut nommer sa fatigue ou son besoin d’aide sans attribuer sa solitude à un rôle d’enfance certain ni à un profil intellectuel.
+
+**Deux repères actuels :** Fabien calcule déjà les appels qu’il ferait pendant sa pause sans dire s’il a ce temps. Il prépare les lettres pour son sac alors que son père demande une explication sur une seule. Il peut exprimer sa disponibilité sans devoir démontrer l’origine du réflexe.
 
 ## 3 pistes pour ajuster l’aide apportée à ses parents
 
@@ -47,15 +53,33 @@ Sortir de ce rôle de pilier demande de déconstruire des décennies de réflexe
 
 ### 1. La technique du périmètre de responsabilité
 
-Cette méthode consiste à lister concrètement ce qui vous appartient et ce qui appartient à vos parents. Prenez une feuille de papier et tracez deux colonnes. Dans la première, notez vos responsabilités réelles : votre bien-être, votre travail, l'éducation de vos enfants mineurs. Dans la seconde, notez les responsabilités de vos parents : leur santé financière, leur gestion des émotions, leur solitude, leurs choix de vie. L'exercice consiste, lors de chaque interaction, à se demander mentalement dans quelle colonne se situe le problème actuel. Si c'est dans celle du parent, apprenez à rester un témoin bienveillant plutôt qu'un acteur. Vous pouvez dire : "je vois que c'est difficile pour toi, comment comptes-tu t'y prendre ?" au lieu de : "je vais m'en occuper".
+**Objectif :** Définir une aide réelle sans décider seul de ce dont son père a besoin.
+
+1. Demander quelle lettre pose problème et quelle aide son père souhaite exactement.
+2. Nommer ce qu’il peut faire cette semaine, comme lire le passage et passer un appel ensemble, plutôt qu’emporter toute la pile.
+3. Convenir de ce qui reste à faire et, si nécessaire, chercher avec son père un service adapté.
+
+Ce périmètre peut rendre l’aide plus soutenable. Il ne demande pas de laisser un proche sans soutien ni de classer tous ses besoins hors de sa responsabilité.
 
 ### 2. Le dialogue avec l'enfant intérieur délaissé
 
-Fabien pense à l’enfant qu’il était : le petit garçon de sept ans qui voulait jouer au train électrique sans se soucier du silence de son père. Ce souvenir donne un sens personnel à un moment de loisir aujourd’hui. Une balade, un disque ou un moment sur un banc suffisent si l’activité lui plaît ; c’est une pause qu’il choisit.
+**Objectif :** Préserver un temps personnel choisi aujourd’hui.
+
+1. Choisir une activité qui lui plaît actuellement, comme écouter un disque ou faire une balade, sans rechercher un souvenir d’enfance.
+2. Repérer un créneau compatible avec ses engagements et annoncer une indisponibilité si nécessaire.
+3. Après ce temps, constater s’il lui a convenu et décider s’il souhaite le renouveler, sans lui attribuer un effet réparateur obligatoire.
+
+Un loisir peut avoir sa place à côté de l’aide familiale. La métaphore de l’enfant intérieur n’est ni une preuve sur le passé ni une consigne de rappel traumatique.
 
 ### 3. La pratique de l'affirmation des besoins limités
 
-Commencez par poser de petites limites claires lors des visites familiales. Au lieu de rester tout le dimanche à régler des problèmes, fixez une heure de départ dès votre arrivée. Utilisez des phrases courtes qui ne justifient pas votre choix, car la justification est souvent une résurgence de la peur de décevoir le parent. Par exemple : "je viendrai déjeuner, mais je partirai à quinze heures pour m'occuper de mes propres affaires". Observez l'inconfort que cela provoque en vous, cette culpabilité résiduelle, et respirez. C'est en traversant ce malaise que l'on redessine la place de fils, et non de parent de ses parents.
+**Objectif :** Annoncer une limite claire avec une solution pour les demandes laissées ouvertes.
+
+1. Identifier une limite réelle, par exemple ne pas pouvoir assurer les autres appels cette semaine.
+2. La dire à son père en indiquant l’aide proposée et, si utile, l’heure de départ, sans obligation de tout justifier.
+3. Écouter la demande restante et proposer de chercher un relais, en maintenant ou ajustant sa limite selon ses moyens.
+
+Une limite explicite peut éviter les accords implicites. La culpabilité ou le désaccord du père ne prouvent ni une erreur de Fabien ni un rôle ancien à traverser coûte que coûte.
 
 ## Une seule enveloppe
 

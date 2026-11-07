@@ -35,9 +35,28 @@ Après un décès, les membres d’une famille peuvent éprouver des émotions d
 
 Geneviève peut ne pas vouloir trier les affaires de son frère aujourd’hui. Isabelle peut lui demander ce qui lui paraît urgent et ce qu’elle souhaite reporter. La préférence de sa mère sur le calendrier est distincte de la façon dont elle lui parle.
 
+Exemples concrets
+
+- Isabelle arrive avec les papiers sans savoir si Geneviève veut les ouvrir aujourd’hui.
+- Reporter le tri sur le buffet peut respecter le rythme du jour sans abandonner une échéance réelle.
+
 ### L’effet de la remarque
 
 « Tu n’as jamais rien compris à la famille » blesse Isabelle. Elle n’a pas besoin de savoir si sa mère avait l’intention de la rabaisser pour en parler. Elle peut faire une pause ou revenir à la question des démarches quand elles peuvent en discuter.
+
+Exemples concrets
+
+- La phrase sur la « grande psychologue » atteint Isabelle dans ce qu’elle propose.
+- Le jugement « jamais rien compris à la famille » lui rappelle d’autres paroles sans prouver une intention actuelle.
+
+### Le reproche élargit la dispute
+
+Isabelle est tentée de rappeler tout ce qu’elle fait depuis des années. La discussion risque alors de passer des papiers de ce jour à un jugement global sur leur relation. Elle peut choisir de répondre à la parole qui l’a blessée avant de décider si elle veut aborder cette histoire plus large.
+
+Exemples concrets
+
+- Isabelle a envie d’énumérer ses années d’aide alors que le dossier concerne son oncle.
+- Elle peut répondre à la remarque de ce jour sans décider de régler toute leur relation au salon.
 
 ## Trois façons de répondre selon le moment
 
@@ -45,13 +64,43 @@ Geneviève peut ne pas vouloir trier les affaires de son frère aujourd’hui. I
 
 Isabelle pose le dossier et se donne le temps d’écouter la fin de la phrase. Elle peut se demander si elle souhaite rester, répondre ou repartir. Une pause n’oblige pas à excuser ce qui a été dit.
 
+**Objectif :** Choisir comment rester dans la scène ou la quitter.
+
+Exercice pratique
+
+- Posez les papiers et écoutez ce qui est effectivement prononcé.
+- Repérez si vous souhaitez rester, répondre ou prendre une pause.
+- Choisissez la distance possible dans cette situation sans devoir justifier le deuil de l’autre.
+
+**Utilité possible :** Le temps pris peut laisser une place au choix sans excuser les mots prononcés.
+
 ### 2. Laisser la cause ouverte
 
 Elle sait que sa mère est endeuillée. Elle ignore ce que la remarque voulait obtenir. Elle peut lui poser une question simple, « Est-ce que tu préfères qu’on en reparle demain ? », sans interpréter ses émotions pour elle.
 
+**Objectif :** Vérifier une préférence de calendrier sans interpréter une intention.
+
+Exercice pratique
+
+- Gardez distincts le décès connu et le motif de la remarque que vous ignorez.
+- Demandez à Geneviève si elle souhaite reporter les démarches.
+- Écoutez sa réponse sans lui attribuer une peur cachée ou une étape de deuil.
+
+**Utilité possible :** Une question sur les papiers peut ouvrir une réponse pratique sans résoudre le deuil.
+
 ### 3. Dire ce qui permet de poursuivre
 
 Isabelle peut préciser : « Je peux t’aider pour les papiers, mais cette remarque me blesse. Je vais prendre l’air un moment. » Elle adapte cette décision aux circonstances. Si les propos se répètent ou si elle se sent en danger, elle peut chercher un appui et choisir la distance dont elle a besoin.
+
+**Objectif :** Formuler une limite sur les paroles et la suite de l’échange.
+
+Exercice pratique
+
+- Dites quelle parole vous a blessée en restant sur cet échange.
+- Annoncez ce que vous pouvez proposer maintenant et la pause ou la limite nécessaire.
+- Si les propos persistent ou vous inquiètent, interrompez et cherchez l’appui ou la distance adaptés.
+
+**Utilité possible :** La limite peut protéger l’échange ou permettre de le terminer, même si l’autre ne la partage pas.
 
 ## Les papiers sur le buffet
 

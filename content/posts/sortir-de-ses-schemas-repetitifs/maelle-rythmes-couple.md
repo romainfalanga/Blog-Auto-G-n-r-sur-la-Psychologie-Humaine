@@ -41,6 +41,8 @@ Maëlle peut reconnaître que Julien lui manque sans promettre de rester éveill
 
 Ils perdent cette possibilité lorsqu'ils utilisent des mots absolus : elle n'est « jamais là », il ne « comprend rien ». Ces phrases ont parfois la force d'un ressenti, mais décrivent mal les faits. Elles effacent les repas qui fonctionnent, les adaptations déjà tentées et les conditions dans lesquelles un autre arrangement pourrait réussir.
 
+L’heure regardée avant le poste et le repas interrompu avant le récit de Julien deviennent deux indices de désintérêt si leurs contraintes respectives restent implicites.
+
 ### Un partenaire devient le gardien du planning
 
 Depuis qu'ils essaient de protéger le repos, Julien rappelle parfois à Maëlle qu'elle devrait aller se coucher. Elle apprécie l'intention, puis se sent surveillée. Il se retrouve dans une position peu agréable : s'il l'encourage à rester, il nuit peut-être à son repos ; s'il lui rappelle l'heure, il ressemble à celui qui dirige son corps.
@@ -49,6 +51,8 @@ Maëlle peut reprendre la responsabilité de ses choix sans renoncer au soutien.
 
 Cela n'empêche pas de se prévenir en cas de risque concret ou de s'inquiéter d'une fatigue importante. La différence tient au caractère explicite de l'accord. Un rappel demandé n'a pas le même sens qu'une série de commentaires sur toutes les heures de sommeil. Ils peuvent en discuter avant que la lassitude ne s'accumule.
 
+Un rappel de coucher non demandé et une série de questions sur les heures dormies peuvent tous deux installer Julien dans un rôle de surveillance plutôt que de relais choisi.
+
 ### Les rares moments communs doivent tout contenir
 
 Quand ils trouvent une plage libre, ils veulent y placer les courses, les démarches, une sortie et une conversation importante. Cette concentration transforme le temps partagé en séance de rattrapage. Ils se retrouvent ensemble, mais avec une succession de tâches qui demande davantage d'énergie que le moment n'en offre.
@@ -56,6 +60,8 @@ Quand ils trouvent une plage libre, ils veulent y placer les courses, les démar
 Le repas d'aujourd'hui supporte ainsi plusieurs objectifs : manger, régler un paiement, décider d'une visite familiale et se sentir proches. Maëlle s'inquiète de partir en retard ; Julien voudrait cesser de parler d'organisation. Aucun n'a nommé la surcharge du rendez-vous. Ils cherchent la proximité dans un temps qu'ils remplissent d'abord de logistique.
 
 Une activité courte et agréable peut avoir une valeur propre, même si les démarches ne sont pas toutes réglées. À l'inverse, un moment de coordination peut être utile sans devoir ressembler à un rendez-vous amoureux. Le couple peut choisir ce qu'un temps commun doit permettre, au lieu d'exiger qu'il répare tous les manques à la fois.
+
+Au repas, traiter le paiement et décider la visite familiale ajoutent deux demandes logistiques au souhait de se raconter leurs journées avant le départ.
 
 ## Les moments qu’ils peuvent vraiment partager
 

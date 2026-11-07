@@ -39,17 +39,23 @@ Arroser les plantes n'est pas inutile. C'est justement ce qui rend le détour co
 
 Il n'a pas à condamner ces activités. Il peut simplement décider de leur place. Arroser après un brouillon limité devient un choix ; arroser pour ne pas rencontrer la première phrase entretient le report. Le même geste peut avoir une fonction différente selon le moment. Cette précision est plus utile qu'une séparation morale entre les activités productives et celles qui ne le seraient pas.
 
+L’arrosoir lui donne une bonne raison de quitter la première phrase ; chercher encore une comparaison de prix lui permet ensuite d’éviter la question déjà identifiée. Ces deux détours utiles en apparence laissent la même demande intacte.
+
 ### L'émotion est attendue comme une condition de départ
 
 Rémi se promet d'écrire lorsqu'il sera moins agacé. Mais chaque nouveau report ajoute la contrariété de ne pas avancer. L'état idéal s'éloigne. Il pourrait attendre d'être parfaitement calme, sûr de ses mots et certain de recevoir une bonne réponse. Aucune de ces conditions n'est indispensable pour rédiger une question factuelle. Certaines ne sont même pas accessibles avant d'agir.
 
 Il peut commencer avec un inconfort modéré, tout en restant attentif à ses limites. Cela ne signifie pas se forcer lorsqu'il est épuisé ou en détresse. Il choisit une action dont le coût reste supportable et dont la suite peut être discutée. La présence d'une émotion ne décide pas à elle seule de ce qu'il doit faire. Elle apporte une information à intégrer avec les moyens, l'enjeu et la disponibilité réelle.
 
+Il attend d’être moins irrité pour commencer le brouillon, puis d’être certain de ne pas paraître négligent pour l’envoyer. La première phrase et l’envoi se retrouvent ainsi suspendus à deux garanties qu’il ne possède pas.
+
 ### Le report fabrique une tâche plus lourde
 
 La demande initiale tient en quelques questions. Après plusieurs jours, Rémi y ajoute des comparaisons, des justifications et des reproches contre lui-même. Il veut expliquer pourquoi il n'écrit pas plus tôt, alors que le fournisseur n'a pas connaissance de ce délai intérieur. Le message devient une scène de défense de sa compétence. Il n'essaie plus seulement d'obtenir une information, mais de prouver qu'il n'est pas négligent.
 
 Julie lui rappelle le résultat choisi lors de leur comparaison : comprendre les conditions avant de décider ensemble. Ce but reste plus simple que le dossier qu'il construit maintenant. Rémi peut supprimer les paragraphes qui servent surtout à se protéger d'un jugement imaginé. Il ne retire pas les informations nécessaires. Il cherche un message qui permette une réponse précise et qui ne demande pas au destinataire de comprendre toute sa relation personnelle aux démarches.
+
+Il ajoute une nouvelle comparaison alors que les questions sont prêtes ; il développe aussi une justification de son délai que le fournisseur ne lui réclame pas. La recherche et l’explication allongent ici le message sans préciser l’information attendue.
 
 ## 3 techniques pour agir avec l'émotion de la tâche
 

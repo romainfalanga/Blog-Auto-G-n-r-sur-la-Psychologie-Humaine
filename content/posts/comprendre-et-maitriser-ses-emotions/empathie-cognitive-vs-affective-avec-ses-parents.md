@@ -33,13 +33,28 @@ L’empathie cognitive désigne la tentative de comprendre le point de vue ou l�
 
 Isabelle se crispe à mesure que sa mère parle. Elle ne sait pas quelle part de cette réaction tient à ce qu’elle entend, à sa journée ou à ses souvenirs. Elle peut constater qu’elle a besoin d’un moment avant de décider comment répondre.
 
+Exemples concrets
+
+- Isabelle lit une partie de la lettre sans la retenir après sa journée au collège.
+- Le ton de Geneviève la fait se raidir avant qu’elle ait vérifié à qui le « tu » s’adresse.
+
 ### Le point de vue de Geneviève reste à vérifier
 
 Isabelle suppose que sa mère s’inquiète de son autonomie. Elle peut lui demander ce qui lui paraît difficile dans la lettre. La réponse de Geneviève lui en dira davantage que le ton ou l’expression de son visage.
 
+Exemples concrets
+
+- Isabelle pense à une inquiétude d’autonomie, mais Geneviève pourrait désigner seulement le délai du courrier.
+- Une voix tendue ne dit pas quel numéro Geneviève a déjà essayé ni quelle réponse lui manque.
+
 ### L’aide et la disponibilité sont deux questions
 
 Isabelle peut être touchée et choisir de revenir le lendemain. Son émotion n’indique pas combien de tâches elle doit prendre en charge. Elles peuvent convenir d’un moment ou chercher une aide compétente selon le contenu du courrier.
+
+Exemples concrets
+
+- Isabelle peut écouter le souci de sa mère puis proposer le lendemain après sa promenade.
+- Si le délai est plus court, elles peuvent chercher un service compétent sans lui attribuer toute la démarche.
 
 ## Trois repères dans une conversation chargée
 
@@ -47,13 +62,43 @@ Isabelle peut être touchée et choisir de revenir le lendemain. Son émotion n�
 
 Isabelle peut se rappeler le fait immédiat : Geneviève a reçu un courrier et aimerait en parler. Elle regarde la table ou écoute une phrase entière. Si le malaise ou l’impression d’irréalité revient, elle peut faire une pause et en parler au professionnel qui l’accompagne.
 
+**Objectif :** Distinguer la scène immédiate de la réaction personnelle.
+
+Exercice pratique
+
+- Posez la lettre le temps de distinguer le courrier reçu du reproche entendu.
+- Regardez un repère de la pièce ou écoutez une phrase entière, selon ce qui vous convient.
+- Dites si vous avez besoin d’une pause ; si le malaise revient, reprenez-le avec votre professionnel.
+
+**Utilité possible :** Un repère choisi peut laisser un temps pour écouter sans prétendre transmettre ou lire les émotions.
+
 ### 2. Nommer ce que l’on ressent et ce que l’on peut offrir
 
 Elle se sent tendue et souhaite rentrer à l’heure prévue. Elle peut offrir un créneau le lendemain. Si le courrier est urgent, elles peuvent chercher ensemble une personne disponible ou un service compétent.
 
+**Objectif :** Proposer une aide compatible avec la disponibilité réelle.
+
+Exercice pratique
+
+- Nommez la tension que vous ressentez et l’heure à laquelle vous souhaitez rentrer pour Théo.
+- Proposez le créneau du lendemain que vous pouvez réellement offrir.
+- Vérifiez le délai de la lettre avant de confirmer ce report ou de chercher un relais.
+
+**Utilité possible :** Le créneau et le délai rendent la limite concrète, même si la culpabilité reste présente.
+
 ### 3. Vérifier une reformulation
 
 « Est-ce le délai indiqué qui t’inquiète ? » demande Isabelle. Geneviève peut confirmer, corriger ou parler d’autre chose. La reformulation est une proposition pour mieux se comprendre, avec la possibilité d’entendre une réponse inattendue.
+
+**Objectif :** Vérifier le point de vue au lieu de le supposer.
+
+Exercice pratique
+
+- Reprenez un point précis du courrier : « Est-ce ce délai qui t’inquiète ? »
+- Laissez Geneviève confirmer ou corriger votre proposition.
+- Décidez avec elle de l’aide utile à partir de sa réponse, sans déduire le besoin de son ton.
+
+**Utilité possible :** La réponse de Geneviève peut orienter la démarche plus précisément que l’interprétation de son visage.
 
 ## Jusqu’à demain
 

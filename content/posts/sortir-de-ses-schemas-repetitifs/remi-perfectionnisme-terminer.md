@@ -39,17 +39,23 @@ Au départ, Rémi veut un bilan qui distingue les principaux motifs. Quand il ob
 
 Cette boucle diffère d'une correction justifiée par une information nouvelle. Si Claire signale une erreur de regroupement, le bilan doit être repris. Si Rémi change une préférence visuelle sans effet sur la compréhension, la nécessité mérite d'être examinée. Il peut conserver l'idée pour un prochain document au lieu de la traiter comme un obstacle à l'envoi actuel. Une amélioration possible n'est pas automatiquement une urgence présente.
 
+Le bilan doit d’abord distinguer les motifs ; Rémi lui demande ensuite de tenir sur une page, puis de paraître moins chargé. L’intitulé devenu plus élégant et la page devenue plus aérée appellent chacun une nouvelle retouche au lieu de fermer le travail.
+
 ### La qualité du document porte la valeur de la personne
 
 Rémi souhaite que le bilan montre qu'il mérite les appuis demandés depuis plusieurs prises de poste. Une critique de forme lui paraît pouvoir invalider ses questions sur la charge réelle. Il attribue donc au document une responsabilité excessive : prouver qu'il est un salarié organisé et digne de confiance. Aucun tableau ne peut fournir une garantie aussi large. Une remarque précise risque toujours d'être entendue comme un jugement sur tout son parcours.
 
 Il peut rappeler les faits déjà disponibles. Ses traces de reprise aident sur certaines interruptions. La procédure unique clarifie des retours. Les priorités discutées rendent un poste plus lisible, tout en laissant un manque de moyens. Ces observations ne deviennent pas fausses si une colonne mérite un autre titre. Le bilan est un outil de travail parmi d'autres, pas un examen final de sa légitimité à demander des conditions adaptées.
 
+Il souhaite que le tableau justifie les créneaux de préparation obtenus ; il souhaite aussi qu’il rende ses demandes sur la charge incontestables. Ces deux attentes dépassent la décision que Claire doit prendre avec le bilan.
+
 ### La vérification ne produit plus d'information nouvelle
 
 Rémi relit une ligne dont la donnée et la source sont déjà contrôlées. Il ne cherche plus un type d'erreur précis. Il veut ressentir une certitude complète avant de s'arrêter. Or cette sensation peut manquer même après un contrôle suffisant. Recommencer sans question claire consomme alors du temps sans améliorer la fiabilité de façon identifiable. L'incertitude revient dès qu'il pense à transmettre.
 
 Il doit néanmoins rester prudent : un doute précis sur une donnée importante demande une vérification, même s'il se sent fatigué de contrôler. Le critère n'est pas le nombre de relectures en lui-même. C'est ce qu'il cherche et ce qu'il obtient. Savoir dire « je vérifie ce total avec cette source » aide davantage que « je relis encore pour être vraiment sûr ». L'une de ces phrases possède une fin observable.
+
+Il relit un total déjà confronté à sa source sans chercher d’écart précis ; il compare encore les bordures sans changer la lecture des données. Dans ces deux passages, il attend surtout la sensation de pouvoir enfin envoyer.
 
 ## 3 techniques pour terminer avec un niveau de qualité défini
 

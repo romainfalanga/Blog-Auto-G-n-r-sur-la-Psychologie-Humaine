@@ -29,29 +29,53 @@ Lucas craint le regard de ses camarades et se demande ce qu’il doit aux effort
 
 ### 1. La sur-préparation et le perfectionnisme paralysant
 
-Lucas passe parfois plus de temps que prévu sur ses présentations. Il remarque qu’il voudrait se protéger de toute critique ; le temps passé sur un devoir ne suffit pas à qualifier son malaise.
+Préparer sérieusement une présentation peut être nécessaire. Lucas cherche parfois autre chose : qu’aucune critique ne reste possible et qu’aucune question ne révèle son hésitation. Le temps passé sur un devoir ne suffit pas à qualifier son malaise ; il peut regarder ce qu’il retouche et ce qu’il espère empêcher.
+
+Il pourrait reprendre plusieurs fois une diapositive déjà lisible au lieu de vérifier l’argument qu’elle contient. En cours de microcrédit, il peut aussi préparer intérieurement une question parfaite jusqu’à laisser passer le moment de la poser. La première situation concerne un support, la seconde une prise de parole. Dans les deux cas, l’absence de défaut devient une condition préalable difficile à atteindre.
 
 ### 2. Reporter le travail quand le doute s’installe
 
-Lucas a parfois du mal à se mettre à son mémoire. Les causes possibles incluent un sujet trop large, des consignes peu claires et la fatigue. Le retard ne prouve pas qu’il veut échouer.
+Le retard n’établit pas que Lucas souhaite échouer. Un sujet trop large, des consignes peu claires ou la fatigue peuvent rendre le démarrage difficile. Ce qui l’aide est de repérer l’étape où il s’arrête, plutôt que de se décrire comme incapable de travailler.
+
+Devant le mémoire, il peut rouvrir les annotations sans choisir le passage à reprendre. Devant les deux études sur le microcrédit, il peut attendre d’avoir tout compris pour noter la différence qui lui manque. Dans ces deux exemples, une question limitée pourrait rendre l’aide plus précise. Elle ne supprime pas les contraintes et ne prouve pas que toute la difficulté vient de son doute.
 
 ### 3. La comparaison sociale ascendante systématique
 
-Lucas se compare à Romain, qui lui paraît à l’aise. Il occulte ses propres réussites pour ne voir que les facilités apparentes des autres. Cette comparaison est biaisée car elle oppose son ressenti intérieur, pétri de doutes, à l'apparence extérieure des autres, qui masquent souvent eux aussi leurs propres difficultés. Dans le milieu des études supérieures, où la compétition est valorisée, ce biais cognitif renforce l'idée que l'on est l'unique erreur du processus d'admission.
+Lucas voit l’aisance de Romain et connaît davantage ses propres hésitations. Il ne possède pas pour autant un accès à tout ce que Romain comprend, prépare ou redoute. Une comparaison devient trop large lorsqu’une conduite visible sert à décider qui mérite sa place à l’école.
+
+Au moment où une étudiante prend la parole, Lucas pourrait conclure que sa question à lui est trop élémentaire avant d’avoir entendu la réponse du professeur. Quand Romain paraît détendu à la sortie, il pourrait également y voir la preuve que son camarade ne doute jamais. Ces deux impressions portent sur des comportements visibles ; elles ne permettent pas de comparer intégralement leurs connaissances ou leurs expériences.
 
 ## Techniques pour agir concrètement face au syndrome de l'imposteur
 
 ### 1. La tenue d'un journal de faits objectifs
 
-S’il en a envie, Lucas peut noter un exemple de ce qu’il a accompli et ce qu’il lui reste à apprendre. Une note renseigne sur un travail donné ; elle ne résume pas sa compétence ou sa place à l’école.
+Lucas peut garder une trace d’un travail sans en faire un registre de preuves qu’il mérite d’exister à l’école. L’objectif est de rendre l’acquis et le besoin d’apprentissage assez précis pour choisir la suite.
+
+1. Après le cours, noter le point qu’il cherchait à comprendre entre les deux études et ce qu’il peut désormais en dire.
+2. Ajouter la source de l’appui : réponse du professeur, notes d’un camarade ou passage du texte. Recevoir une explication n’efface pas ce qu’il en comprend.
+3. Écrire une seule question restante à reprendre dans les notes ou avec le professeur, puis fermer le carnet.
+
+Cette trace renseigne sur un contenu déterminé. Elle ne mesure ni toute sa compétence ni sa légitimité et peut rester incomplète.
 
 ### 2. La technique de l'externalisation du critique intérieur
 
-Lucas peut remarquer : « J’ai peur que ma question paraisse idiote. » Cela lui permet de distinguer sa crainte de la réponse du professeur. Le [guide de l’OMS sur le stress](https://www.who.int/publications/i/item/9789240003927) propose une manière comparable de remarquer des pensées difficiles.
+Le [guide de l’OMS sur le stress](https://www.who.int/publications/i/item/9789240003927) propose de remarquer des pensées difficiles. Lucas peut distinguer une phrase redoutée d’une réponse qui aurait déjà eu lieu, sans chercher à supprimer cette pensée.
+
+1. Devant le point d’interrogation, relever la phrase : « Ma question va paraître idiote. » Puis la reformuler : « Je remarque que je crains ce jugement. »
+2. Revenir au contenu manquant : quelle différence entre les deux études veut-il comprendre ? Il peut l’écrire avec ses mots, même imparfaits.
+3. Choisir comment chercher la précision : relire les notes, poser la question après le cours ou préparer un message. Il n’a pas à parler devant l’amphi pour réussir l’exercice.
+
+La pensée peut rester présente pendant l’action choisie. Cette distinction aide à préparer une demande sans prédire l’accueil du professeur.
 
 ### 3. Le partage de vulnérabilité sélectif
 
-Lucas peut choisir de parler de ses doutes à une personne de confiance. Il n’a pas à révéler son budget ou son histoire familiale. L'exercice consiste à choisir une personne de confiance, comme son colocataire Maxime avec qui il a déjà commencé à être plus honnête, et à exprimer ses doutes. En verbalisant "J'ai peur que mes parents soient déçus si je n'ai pas les meilleures notes", Lucas brise le cercle de l'isolement. Souvent, la réponse de l'autre révèle que lui aussi traverse des phases de doute. Cela permet de normaliser l'anxiété liée à la performance et de réaliser que le masque social est une construction partagée par beaucoup, ce qui diminue le sentiment d'être une exception défectueuse.
+Parler à Maxime peut fournir un appui pour préciser un doute. Lucas choisit ce qu’il souhaite raconter ; son budget et son histoire familiale ne sont pas des informations à fournir obligatoirement.
+
+1. Demander à Maxime s’il a un moment pour parler du cours ou du mémoire, puis choisir un seul sujet.
+2. Dire le ressenti et l’aide souhaitée : « J’ai peur que ma question soit trop simple. Tu peux regarder ce que j’ai écrit ? » Il peut aussi demander seulement une écoute.
+3. Prendre dans la réponse ce qui concerne la question, préciser une limite privée si besoin et garder la possibilité d’un autre interlocuteur.
+
+L’échange peut rendre la demande moins solitaire. Maxime n’est pas tenu de révéler ses propres doutes et sa réponse ne détermine pas à elle seule la place de Lucas à l’école.
 
 ## La question après le cours
 

@@ -31,9 +31,9 @@ Dans le récit, la seconde d'hésitation lui revient sans cesse. Il ignore ce qu
 
 ### 1. Surévaluation des erreurs dans les échanges rapides
 
-Au cocktail du 18 mars 2026, Stéphane se rappelle sa pause sur le tarif. Ses interlocuteurs ont pu la remarquer ou non, et, s'ils l'ont remarquée, il ne sait pas le sens qu'ils lui ont donné.
+Stéphane se rappelle sa pause sur le tarif. Les interlocuteurs ont pu la remarquer ou non ; il ne connaît pas davantage le sens qu’ils lui auraient donné. Le souvenir très accessible d’un détail ne mesure pas l’attention du groupe.
 
-Quelqu'un peut retenir le prix annoncé, un détail du dossier, l'hésitation ou autre chose. Une réaction visible n'est qu'un indice.
+Après sa présentation, il ajoute une précision non demandée comme s’il devait effacer l’hésitation. Lorsqu’une invitée revient sur le délai d’intégration, il cherche aussi sur son visage une confirmation qu’elle a retenu le défaut plutôt que l’offre. Ces deux réponses déplacent l’attention : l’une prolonge la présentation, l’autre transforme une question commerciale en recherche de jugement. Il reste possible de répondre à la question sans connaître tout ce qui a été remarqué.
 
 ### 2. Comparaison sociale amplifiée par l'attention portée à soi
 
@@ -49,39 +49,35 @@ Dans un dîner professionnel, il répète des anecdotes qu'il estime sécurisant
 
 ## Techniques pour reprendre le contrôle
 
-### 1. Technique du test comportemental
+### 1. Observer un échange ordinaire
 
-Stéphane peut comparer une crainte à ce qu'il observe dans une interaction ordinaire, sans provoquer de malaise ni mesurer ce que pensent les autres.
+Stéphane peut comparer une crainte à ce qui est observable dans un échange ordinaire. Il ne provoque ni erreur ni malaise pour tester les autres.
 
-Exercice concret :
-- Choisir une situation sociale modérée comme une réunion courte, une pause café ou un cocktail.
-- Si une hésitation se présente, continuer la conversation sans se sentir obligé de se corriger plusieurs fois.
-- Après l'échange, distinguer ce qui a été dit ou fait de ce qu'on a imaginé.
-- Si c'est utile, noter une observation ; il n'y a pas de nombre de séances à suivre.
+1. Choisir une question professionnelle qu’il souhaite réellement poser à la directrice marketing, plutôt qu’un défi destiné à attirer les regards.
+2. Si une hésitation arrive, laisser la conversation continuer ou préciser l’information nécessaire, sans se sentir obligé de réparer plusieurs fois son image.
+3. Après l’échange, distinguer les paroles et les actions observées de ce qu’il imagine. Une note brève peut suffire et le silence ne prouve pas que personne n’a rien remarqué.
 
-Un retour concret peut éclairer une interaction. Un silence ne prouve pas que personne n'a rien remarqué.
+Cette observation concerne un échange. Elle ne mesure pas les pensées des invités et ne demande aucune série d’expositions graduées.
 
 ### 2. Technique du changement de focus
 
-Cette méthode vise à diminuer l'auto-observation en augmentant l'intérêt pour l'autre personne.
+L’objectif est de laisser de la place au sujet de la conversation, sans remplacer la surveillance de soi par un test de mémoire ou une lecture des émotions de l’autre.
 
-Exercice concret :
-- Avant une interaction sociale, choisir une question ouverte et décider d'écouter activement pendant au moins deux minutes.
-- Pendant ces deux minutes, noter mentalement trois détails sur l'interlocuteur (un fait, une émotion, une opinion).
-- Après l'échange, évaluer combien de ces détails vous avez retenus et comment l'impression que vous aviez de vous-même a évolué.
+1. Reprendre la question qu’il souhaite poser sur l’intégration de l’offre ou sur le travail de la directrice marketing.
+2. Écouter sa réponse et relever un fait qu’elle dit elle-même. Si un point reste flou, demander une précision au lieu de deviner son avis sur lui.
+3. Répondre à ce contenu ou noter le suivi professionnel à faire. S’il se surprend à surveiller sa voix, il peut revenir à la phrase entendue sans se noter sur son attention.
 
-L'effet spotlight s'alimente d'une attention tournée vers soi. En dirigeant son attention vers l'autre, on relève non seulement des informations utiles, mais on constate que l'autre est souvent centré sur lui-même aussi. Pour Stéphane, ce petit déplacement autorise des interactions plus authentiques et réduit la pression de bien paraître. C'est une évolution majeure par rapport à sa tendance habituelle à guetter les signes de validation dans les yeux de son interlocuteur.
+Ce déplacement peut rendre disponibles des informations utiles à l’échange. Il n’assure ni spontanéité parfaite ni diminution du stress et ne suppose pas que l’autre soit centré sur lui-même.
 
 ### 3. Demander un retour précis si besoin
 
-Après une présentation importante, Stéphane peut demander un retour sur la compréhension de l'offre plutôt que vérifier sans cesse l'image qu'il a donnée.
+Après une présentation, un retour peut être utile sur la clarté de l’offre. Il n’a pas à devenir une demande répétée d’assurance sur toute son image.
 
-Exercice concret :
-- Noter une question précise : « Le tarif et ce qu'il comprenait étaient-ils clairs ? »
-- Écouter la réponse comme l'avis d'une personne sur cette présentation.
-- Si possible, demander à un collègue de confiance de donner un retour objectif sur un ou deux événements.
+1. Choisir le point à vérifier : « Le tarif et ce qu’il comprend étaient-ils clairs ? » et un interlocuteur qui a effectivement entendu la présentation.
+2. Poser la question si le moment convient, puis écouter la réponse comme un avis situé. Marc, occupé à une autre table, ne sait pas forcément ce qui a été dit.
+3. Décider de la précision à envoyer ou constater qu’aucune action supplémentaire n’est nécessaire. Conserver ce qui reste inconnu sans interroger successivement tous les invités.
 
-Il peut ensuite décider s'il a besoin de préciser un point. Il n'a pas à transformer chaque interaction en exercice de mesure.
+Le retour peut guider une correction du message. Il ne produit pas un jugement objectif de sa personne et n’est pas obligatoire après chaque conversation.
 
 ## Reprendre une conversation après l’hésitation
 

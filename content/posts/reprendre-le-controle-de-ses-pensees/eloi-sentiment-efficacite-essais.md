@@ -39,17 +39,23 @@ Enfin, une réussite n'appartient pas forcément à une personne isolée. Elle p
 
 Savoir vérifier un lot représente une capacité réelle, même si elle ne résume pas le métier. Elle peut devenir un appui pour apprendre une étape supplémentaire. Ce lien doit rester explicite. Répéter indéfiniment une tâche déjà maîtrisée ne garantit pas la suite. À l'inverse, sauter toutes les étapes intermédiaires risque de produire un échec trop vaste pour comprendre ce qui manque. Le défi doit permettre d'apprendre quelque chose d'identifiable.
 
+Le même élargissement pourrait se produire lorsqu’il relit la fiche de quantités : expliquer correctement une ligne lui semblerait sans valeur tant qu’il ne sait pas remplir toute la feuille. Le lot et la ligne de calcul sont deux unités limitées. Les reconnaître ne prouve pas une maîtrise générale, mais évite d’exiger de chaque petit essai une réponse sur tout le métier.
+
 ### L'aide est prise comme preuve d'incapacité
 
 Éloi pense que montrer son travail à Cédric annule la réussite. Pourtant, le chef ne fait pas la tâche à sa place. Il valide un critère et signale un ajustement. Cette vérification fait partie du cadre prévu pour l'apprenti. Confondre appui et substitution rend toute progression suspecte : s'il réussit avec une aide, ce n'est jamais lui ; s'il échoue seul, tout semble lui appartenir.
 
 Il peut distinguer les rôles. Qu'effectue-t-il lui-même ? Quel repère utilise-t-il ? Quelle décision reste à faire valider ? Cette description précise ne gonfle pas artificiellement son autonomie. Elle reconnaît ce qui est déjà possible et protège ce qui demande encore un contrôle. La compétence professionnelle comprend aussi la capacité à identifier le moment où l'on doit demander un avis, plutôt que continuer pour préserver une image d'assurance.
 
+Quand Cédric indique un repère avant la préparation, Éloi pourrait aussi attribuer tout le résultat au chef : « Sans son explication, je n’aurais rien fait. » Ce cas diffère de la validation finale qu’il hésite à demander. Dans l’un, il reçoit une information ; dans l’autre, il fait contrôler son travail. Ni l’un ni l’autre n’efface automatiquement les gestes qu’il réalise.
+
 ### Une sensation d'inquiétude est confondue avec une prévision
 
 Avant de montrer le lot, Éloi sent ses mains moites et vérifie encore la liste. Il prend cet inconfort pour un signe que le résultat est mauvais. Pourtant, une sensation renseigne sur son état, pas directement sur la conformité du travail. Il peut être inquiet devant une tâche correctement réalisée ou très à l'aise devant un détail qu'il ne connaît pas encore suffisamment.
 
 Il n'a pas besoin de supprimer l'inquiétude avant de faire vérifier. Il peut consulter les critères disponibles et apporter le résultat au moment convenu. Cette démarche reste prudente : elle ne consiste pas à ignorer les signes de fatigue ou à poursuivre un geste dangereux. Elle distingue simplement la question « comment je me sens ? » de la question « quels éléments permettent de juger ce travail ? ».
+
+À la pause, la question de Quentin peut également le faire hésiter à montrer le résultat : sa gêne de répondre risque de devenir « le lot doit être mauvais ». Ici, l’échange avec un camarade et les mains moites devant Cédric sont deux occasions de séparer son état du contrôle professionnel. Il garde le droit d’être mal à l’aise pendant une vérification utile.
 
 ## S’essayer à une tâche dont on connaît le bord
 
@@ -74,6 +80,8 @@ Au foyer, Nora lui demande ce qu'il sait mieux faire, et non s'il a enfin confia
 Quand le premier lot est validé, Éloi demande quelle variation il peut essayer ensuite. Une quantité différente, un autre ordre de demande ou un contexte un peu moins calme peuvent constituer une étape, selon ce que le formateur juge approprié. Il ne modifie pas tout en même temps. Cette progression permet de mieux comprendre ce qui se passe si le résultat devient moins régulier.
 
 L'appui est défini avant l'essai. Éloi sait qui peut répondre et à quel moment il doit s'arrêter pour vérifier. Il ne transforme pas le test en défi solitaire destiné à prouver sa valeur. Si la difficulté dépasse ce qui est prévu, revenir à un cadre plus accompagné est une décision d'apprentissage. Il pourra reprendre ensuite avec une information supplémentaire, plutôt qu'avec la seule obligation de réussir davantage.
+
+Après cette variation, Éloi reprend les deux notes avec Cédric. Il indique ce qui reste conforme, ce qui change avec la cadence et l’appui encore nécessaire. Ils choisissent alors de garder cette variation, de la réduire ou de prévoir une autre explication. Cette dernière étape donne une suite à l’essai sans transformer un résultat moins régulier en obligation de recommencer seul.
 
 ## Le premier lot contrôlé
 

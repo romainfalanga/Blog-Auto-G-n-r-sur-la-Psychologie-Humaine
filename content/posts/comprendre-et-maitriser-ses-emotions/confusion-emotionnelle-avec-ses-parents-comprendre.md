@@ -33,15 +33,30 @@ La dynamique familiale est souvent le terrain le plus fertile pour ce type de fl
 
 Chez Youssef, la confusion naît souvent du décalage entre l'adulte qu'il est devenu et le fils qu'il reste dans la cuisine de Leïla. Lorsqu'elle exprime une émotion forte, il se sent investi d'une mission de protection qu'il ne sait pas remplir. Cela crée une tension interne massive. Il ressent à la fois de l'empathie, de la culpabilité de ne pas être assez présent, et une envie de fuite. Il peut éprouver plusieurs choses en même temps sans savoir laquelle décrire en premier.
 
+Deux exemples dans cet épisode :
+
+- Quand Leïla pose sa main sur la sienne, Youssef voudrait répondre avec tendresse tout en cherchant comment terminer sa visite.
+- Il regarde l’heure et se demande s’il abandonne sa mère en pensant à partir, alors qu’il ne sait pas ce qu’elle attend.
+
 ### L'intellectualisation comme bouclier de protection
 
 Comme il l'a découvert lors de ses précédentes réflexions sur son exigence élevée, Youssef utilise la logique pour cartographier son monde. Face à ses parents, cette tendance s'accentue. Quand il repense à une remarque de Hamid sur sa carrière, Youssef n’éprouve pas toujours immédiatement de la colère ou de l'oppression. À la place, il analyse la structure syntaxique de la phrase de son père ou évalue la pertinence statistique de son argument. Se concentrer sur les mots du père laisse à Youssef moins de place pour se demander ce qu’il éprouve, dans ce moment précis.
 
 Youssef se souvient du besoin de tout remettre en ordre qu’il a éprouvé en regardant jouer son neveu. Il s’interroge sur ce que ces scènes ont en commun, sans y voir la preuve d’un mécanisme ou d’une cause unique.
 
+Deux exemples dans cet épisode :
+
+- Le bruit du robinet devient un calcul de débit pendant que sa mère poursuit son souvenir.
+- En repensant à une remarque de Hamid sur sa carrière, il examine la construction de la phrase plutôt que ce qu’il souhaite en dire aujourd’hui.
+
 ### Les façons de parler dans sa famille
 
 Youssef est sensible à la retenue de Hamid et à la façon plus directe dont Léa parle de ses sentiments. Il se demande comment trouver ses propres mots quand il est chez ses parents. Ces façons de parler appartiennent aux personnes et à leur histoire ; le récit ne les attribue pas à la Tunisie ou à la France.
+
+Deux exemples dans cet épisode :
+
+- Chez Leïla, il prépare un sourire bref parce que cette réponse lui est familière, sans savoir si elle correspond à ce qu’il veut partager.
+- En imaginant raconter la visite à Léa, il cherche des mots rarement utilisés à la table familiale, sans que cette façon de parler doive remplacer toutes les autres.
 
 ## Techniques pour agir face à la confusion émotionnelle
 
@@ -49,15 +64,39 @@ Youssef peut essayer de décrire une sensation ou de choisir un mot approximatif
 
 ### 1. La cartographie sensorielle immédiate
 
-Cette technique consiste à décomposer l'émotion en sensations physiques brutes sans chercher à leur donner un nom complexe. Au lieu de se demander ce que je ressens, question qui mène souvent à une impasse, on se demande où est-ce que ça se passe dans mon corps. L'exercice consiste à scanner son corps de haut en bas. Youssef peut noter la tension dans ses mâchoires, la fraîcheur de l'air dans ses narines, ou le poids de ses pieds sur le sol. En se concentrant sur le fonctionnement physique plutôt que sur l'explication psychologique, il court-circuite l'intellectualisation et crée un espace où l'émotion peut enfin se décanter.
+Cette technique consiste à décomposer l'émotion en sensations physiques brutes sans chercher à leur donner un nom complexe. Au lieu de se demander ce que je ressens, question qui mène souvent à une impasse, on se demande où est-ce que ça se passe dans mon corps. L’exercice peut rester limité à un repère ordinaire que Youssef remarque déjà, sans balayage imposé. Youssef peut noter la tension dans ses mâchoires, la fraîcheur de l'air dans ses narines, ou le poids de ses pieds sur le sol. Cette description lui donne une autre façon de parler du moment, sans devoir expliquer ce qu’elle signifie.
+
+Objectif de cet essai : Décrire un repère présent sans lui attribuer une émotion certaine.
+
+1. Choisissez un moment de la visite que vous souhaitez observer, sans chercher un souvenir difficile.
+2. Relevez un repère accessible, tel que les pieds au sol ou les mains sur la nappe ; laissez l’attention corporelle de côté si elle vous gêne.
+3. Décrivez ce que vous remarquez et revenez à l’échange, sans correspondance obligatoire avec une émotion.
+
+Utilité possible : Une observation brève fournit une description du moment sans révéler automatiquement une émotion.
 
 ### 2. L'utilisation d'une roue des émotions simplifiée
 
-Une roue d’émotions peut servir de liste de mots. Elle ne permet pas de déduire une émotion à partir d’une sensation. Pour quelqu'un qui souffre de confusion émotionnelle avec ses parents, l'objectif est de partir d'une émotion primaire (peur, colère, tristesse, joie) pour aller vers des nuances plus fines (appréhension, frustration, mélancolie, satisfaction). Youssef peut s'entraîner à utiliser cet outil après une visite chez ses parents. En repensant à un moment précis, il essaie de choisir trois mots dans la roue. Même s'il n'est pas sûr de ses choix, l'acte de nommer permet de structurer le chaos interne et de réduire l'anxiété liée à l'inconnu.
+Une roue d’émotions peut servir de liste de mots. Elle ne permet pas de déduire une émotion à partir d’une sensation. Pour quelqu’un qui cherche à décrire un flou émotionnel avec ses parents, l'objectif est de partir d'une émotion primaire (peur, colère, tristesse, joie) pour aller vers des nuances plus fines (appréhension, frustration, mélancolie, satisfaction). Youssef peut s'entraîner à utiliser cet outil après une visite chez ses parents. En repensant à un moment précis, il peut essayer un ou plusieurs mots dans la roue. Même s’il n’est pas sûr de ses choix, il peut garder ces mots comme des hypothèses à reprendre ou à abandonner.
+
+Objectif de cet essai : Essayer des mots sans nombre minimal ni réponse définitive.
+
+1. Reprenez un moment du récit de Leïla plutôt que toute la relation familiale.
+2. Consultez quelques mots courants et gardez ceux qui semblent proches, même s’il n’y en a aucun.
+3. Formulez une hypothèse si vous le souhaitez, par exemple « de la tendresse et peut-être de la fatigue ».
+
+Utilité possible : La liste sert de vocabulaire disponible sans garantir un apaisement ni établir un diagnostic.
 
 ### 3. La pause de validation sans jugement
 
 Il s'agit d'une technique de pleine conscience appliquée aux relations familiales. Lorsqu'une sensation de flou apparaît, au lieu de lutter contre elle ou de chercher une explication logique, on s'autorise à dire intérieurement : en ce moment, je ressens quelque chose de confus, et c'est normal. L'exercice consiste à accepter le brouillard comme un état en soi, plutôt que comme un problème à résoudre. Pour Youssef, cela signifie accepter qu'il puisse se sentir à la fois aimant et étouffé par sa mère, sans que cela fasse de lui un mauvais fils. Il peut garder plusieurs mots possibles, ou ne pas en choisir pour l’instant.
+
+Objectif de cet essai : Laisser le flou exister et choisir ce que l’on communique.
+
+1. Constatez « je ne sais pas encore ce que je ressens » sans chercher à résoudre immédiatement l’incertitude.
+2. Choisissez si vous souhaitez écouter, demander une précision ou faire une pause.
+3. Dites seulement ce que vous voulez partager à Leïla ; vous pouvez reprendre la réflexion plus tard ou la laisser ouverte.
+
+Utilité possible : Cette pause distingue l’absence de mot d’une obligation de se justifier ou de produire une émotion.
 
 ## Ce que Leïla raconte encore
 

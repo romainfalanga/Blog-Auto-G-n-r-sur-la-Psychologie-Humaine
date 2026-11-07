@@ -39,17 +39,23 @@ Lorsque Rémi indique où se trouve le bon de livraison, la réponse prend peu d
 
 Claire observe généralement le résultat final, pas toutes les reprises qui le précèdent. Rémi croit donc devoir les cacher. Il garde une allure rapide, évite de poser une question et compte deux fois en cachette. Ce surcroît d'effort protège parfois le travail, mais il augmente sa lassitude. Décrire les reprises permet de parler du processus sans accuser les collègues de malveillance ni prétendre que toute demande extérieure est abusive.
 
+La question sur le bon l’éloigne de la dernière quantité comptée ; l’étiquette déchirée l’éloigne ensuite de la référence qu’il vérifie. La réponse demandée change, mais la difficulté de retrouver une étape sûre revient dans les deux cas.
+
 ### La vitesse sert à rattraper un temps déjà perdu
 
 Après la deuxième interruption, Rémi saute une vérification qu'il effectue habituellement. Il ne choisit pas délibérément de travailler moins bien : il cherche à tenir le départ annoncé. La pression du délai modifie ce qu'il pense pouvoir s'autoriser. Il passe d'une tâche à l'autre sans noter l'étape en cours, puis perd davantage de temps à corriger. L'accélération donne un soulagement bref, parce qu'elle ressemble à une réponse active.
 
 Dans une expérience simulant des tâches de bureau, Gloria Mark et ses collègues ont observé que les participants interrompus terminaient plus vite tout en signalant davantage d’effort et de stress. Ce résultat invite à regarder le coût du travail en plus du délai, sans prédire l’effet de chaque interruption sur le quai. Rémi peut terminer un chargement dans les temps tout en le payant par une tension accrue. Une journée apparemment réussie ne prouve pas que l'organisation est soutenable. Inversement, un retard ne renseigne pas à lui seul sur la qualité de son attention ou sa bonne volonté.
 
+Il saute d’abord une vérification pour rattraper le départ ; il mélange ensuite deux documents en passant trop vite à la signature attendue. Ces deux raccourcis ne suppriment pas le travail : ils le déplacent vers une correction.
+
 ### Le jugement remplace la description
 
 Dans sa tête, « je cherche la dernière ligne contrôlée » devient « je suis toujours dispersé ». La seconde phrase est plus large que l'événement. Elle ne lui indique aucune action utile et masque les moments où il travaille correctement : préparation d'un lot sans sollicitation, rangement des retours, contrôle avec un repère clair. Ces contre-exemples ne nient pas le problème ; ils aident à localiser les conditions dans lesquelles il augmente.
 
 À l'appartement, Julie lui demande seulement si le bordereau propose une case pour marquer l'avancement. Il répond d'abord que tout le monde devrait pouvoir retenir cela. Puis il pense aux étiquettes de rayonnage dont personne ne conteste l'utilité. Un repère extérieur ne devient pas moins légitime parce qu'il soutient une personne plutôt qu'un rangement. Cette comparaison lui donne une idée à proposer, sans transformer Julie en responsable de son organisation.
+
+Le recomptage devient dans sa tête une preuve de dispersion ; demander une case d’avancement lui paraît ensuite prouver qu’il aurait besoin de plus d’aide que les autres. Ni le premier ni le second jugement ne décrit précisément le lot à reprendre.
 
 ## 3 techniques pour reprendre le fil après les interruptions
 

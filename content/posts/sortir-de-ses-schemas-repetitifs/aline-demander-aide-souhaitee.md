@@ -37,7 +37,7 @@ La sécurité reste un sujet distinct. Si une situation comporte un danger, l’
 
 Pour Aline, le tiroir doit coulisser correctement à la fin du créneau. Pour Hélène, le résultat comprend aussi la compréhension du réglage. Si Aline intervient seule, elle peut réussir techniquement tout en manquant l’objectif principal. L’objet réparé ne raconte pas à lui seul la qualité du soutien. Il faut aussi demander ce que la personne souhaite emporter de l’expérience.
 
-Ce décalage se retrouve dans d’autres moments ordinaires. Un ami qui parle d’un souci peut chercher une écoute avant une solution. Un collègue qui demande une information peut vouloir terminer lui-même sa tâche. L’aide ne devient pas mauvaise parce qu’elle est rapide ; elle devient moins ajustée lorsqu’une seule définition du problème remplace toutes les autres sans discussion.
+Ce décalage se retrouve dans d’autres moments ordinaires. Quand Étienne parle d’un souci professionnel, il peut chercher une écoute avant une liste de solutions. De même, Bastien demande une perceuse pour son étagère, pas nécessairement une soirée où Aline réalise le montage. L’aide ne devient pas mauvaise parce qu’elle est rapide ; elle devient moins ajustée lorsqu’une seule définition du problème remplace toutes les autres sans discussion.
 
 Aline apprécie profondément la satisfaction d’un mécanisme qui fonctionne. Elle peut garder ce plaisir et le partager, sans en faire l’unique mesure de la rencontre. Si Hélène comprend un réglage mais ne termine pas tout aujourd’hui, l’atelier peut néanmoins lui être utile. Cette possibilité demande que le groupe accepte de regarder autre chose que le nombre de meubles sortis de la salle.
 

@@ -33,13 +33,25 @@ La jalousie en situation de conflit ne s'exprime pas toujours par des cris ou de
 
 Dans un contexte de tension, la jalousie pousse à guetter le moindre signe de désintérêt ou de trahison. On se surprend à analyser le ton d'un message, la durée d'un regard porté sur un tiers ou les silences lors d'une conversation. Pour Léa, cela se traduit par une observation minutieuse des interactions de Zoé avec les autres étudiants. Elle cherche inconsciemment des preuves que Zoé s'éloigne d'elle, ce qui alimente son ressentiment et prépare le terrain pour une confrontation défensive.
 
+Exemples situés :
+- Dans l’amphithéâtre, Léa suit le regard de Zoé vers l’exposé de l’étudiant au lieu d’écouter le début du cours.
+- Elle cherche dans leur rire un signe sur sa propre place, alors qu’elle n’entend pas les mots échangés.
+
 ### Le retrait affectif et la punition par le silence
 
 Parfois, la jalousie en situation de conflit se manifeste par une fermeture totale. Au lieu d'exprimer sa peur d'être remplacée, la personne jalouse se mure dans un silence punitif, espérant que l'autre remarquera son absence et viendra la rassurer. C'est une forme de test relationnel risqué : si l’autre ne vient pas, Léa peut y voir une confirmation, même si plusieurs explications restent possibles. Si l'autre vient, le soulagement n'est que temporaire car le problème de fond, l'insécurité intérieure, n'est pas résolu.
 
+Exemples situés :
+- Léa choisit le fond de la salle en espérant que Zoé remarquera son éloignement.
+- Quand Zoé se retourne, elle fait semblant de lire pour que son amie découvre seule qu’elle est blessée, plutôt que lui dire ce qu’elle souhaite.
+
 ### La dévaluation du rival et les reproches indirects
 
 Le conflit nourri par la jalousie prend souvent la forme de critiques acerbes envers la tierce personne perçue comme une menace. On pointe ses défauts, on remet en question ses compétences ou son honnêteté devant l'être aimé. Léa remarque qu’elle est tentée de critiquer l’étudiant pour obtenir de Zoé un signe de préférence. Ces reproches sont rarement formulés comme une expression de vulnérabilité, mais plutôt comme des jugements moraux, ce qui rend la communication particulièrement stérile et agressive.
+
+Exemples situés :
+- Léa espère qu’il manque quelque chose à l’exposé de l’étudiant pour pouvoir retrouver une place préférée auprès de Zoé.
+- La phrase « Tu as déjà quelqu’un » lui vient avant une demande sur leur séance de révision ; elle peut laisser cette pointe de reproche sans la prononcer.
 
 ## Techniques pour agir avec discernement face à la jalousie
 
@@ -47,15 +59,36 @@ Pour ne plus subir les assauts de cette émotion dévastatrice, il est essentiel
 
 ### 1. La technique du triangle de différenciation
 
-Cette méthode consiste à dessiner mentalement ou sur papier un triangle représentant les trois acteurs de la situation : vous, le proche, et la personne qui suscite la jalousie. Pour chaque pointe du triangle, listez les faits objectifs sans interprétation émotionnelle. Par exemple : Zoé discute de cours avec cet étudiant. Ensuite, identifiez le besoin non comblé derrière l'émotion. Souvent, la jalousie cache un besoin de reconnaissance ou de sécurité. En nommant précisément le besoin, vous passez d'une réaction défensive à une demande constructive que vous pourrez exprimer une fois le calme revenu.
+L’objectif est de distinguer les faits de la crainte de perdre sa place, sans évaluer les personnes.
+
+Exercice pratique :
+1. Notez les trois personnes présentes et une observation précise : Zoé regarde un exposé avec l’étudiant, Léa est au fond.
+2. Séparez votre peur, comme être remplacée, de ce que vous savez de leurs intentions, qui reste limité.
+3. Choisissez une demande concernant votre lien, par exemple confirmer la séance de révision, sans exiger que Zoé réduise ses autres amitiés.
+
+Utilité possible : la feuille peut soutenir une demande directe au lieu d’un classement entre Léa et le tiers.
 
 ### 2. L'ancrage dans la réalité présente
 
-La jalousie projette souvent dans des scénarios catastrophes futurs. Pour contrer cela, utilisez un exercice de pleine conscience sensorielle dès que la tension monte. Nommez intérieurement cinq couleurs présentes autour de vous, quatre textures sous vos doigts, trois sons distincts, deux odeurs et une sensation physique interne. Il peut donner à Léa un instant pour prêter attention à autre chose avant de répondre. Une fois ancrée dans le présent, demandez-vous si la menace est une réalité immédiate ou un écho de vos blessures passées, comme le sentiment d'invisibilité que Léa ressentait enfant lors des disputes de ses parents.
+L’objectif est de prendre un bref repère dans l’amphithéâtre avant de répondre, sans examiner ni faire revivre son enfance.
+
+Exercice pratique :
+1. Si vous le souhaitez, remarquez un détail accessible, comme la couleur d’une page ou le contact de votre stylo.
+2. Laissez votre attention revenir au cours ou à votre place, sans quantité de sensations à réussir ni obligation d’être calme.
+3. Choisissez si vous voulez parler à Zoé après le cours, ou attendre un autre moment.
+
+Utilité possible : ce détour peut laisser un temps de choix ; il ne tranche pas la réalité d’une menace relationnelle et ne justifie aucune surveillance.
 
 ### 3. La reformulation de la vulnérabilité
 
-En situation de conflit, au lieu de dire que l'autre passe trop de temps avec un tiers, essayez d'utiliser le message-je centré sur votre émotion. Formulez ainsi : quand je vous vois rire ensemble alors que nous sommes en tension, je me sens insécure et j'ai peur de perdre notre lien. Cette technique demande du courage car elle expose votre fragilité, mais elle est la clé pour transformer un conflit destructeur en une occasion de renforcement du lien. Elle peut parler de sa peur sans demander à Zoé de limiter ses amitiés. Elle ne contrôle pas la réponse de Zoé.
+L’objectif est de dire sa peur sans faire d’un tiers un adversaire ni demander de préférence exclusive.
+
+Exercice pratique :
+1. Lorsque Zoé propose de réviser, demandez si vous pouvez parler de votre matinée.
+2. Dites que vous avez eu peur de perdre votre complicité, sans attribuer à l’étudiant une intention ou un défaut.
+3. Formulez une demande limitée, comme garder un moment de révision à deux, et écoutez ce qui est possible pour Zoé.
+
+Utilité possible : Léa rend son besoin compréhensible tout en laissant l’autre libre de ses liens et de sa réponse.
 
 ## Au pied de l’amphithéâtre
 

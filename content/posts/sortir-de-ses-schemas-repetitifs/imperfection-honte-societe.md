@@ -28,36 +28,54 @@ Stéphane ne redoute pas seulement de manquer une réponse ; il craint que cela 
 ## Manifestations de l'imperfection et de la honte en société
 
 ### 1. Le contrôle excessif et la préparation paralysante
-Chez beaucoup de timides qui se montrent compétents, l'imperfection et la honte se traduisent par une tentative de contrôle permanent. Stéphane prépare ses présentations jusqu'à l'épuisement. Il répète des chiffres dans sa tête pendant les trajets, vérifie ses slides une dernière fois dans l'ascenseur, redoute la moindre question imprévue. Cela provoque fatigue, rigidité dans la prise de parole et une réduction de la spontanéité, rendant parfois les interventions moins naturelles et, paradoxalement, plus susceptibles de déclencher l'angoisse qu'elles veulent éviter.
 
-Exemple : lors d'un dîner client, une question imprévue sur un tarif le piège. Au lieu d'admettre une approximation, il tente de bricoler une réponse, ce qui accentue son malaise et nourrit la honte.
+Préparer un tarif est une exigence professionnelle réelle. Stéphane peut aussi chercher une certitude impossible sur toutes les questions du dîner. La difficulté se situe dans ce qu’il vérifie et la manière dont il sait qu’une préparation suffit, pas dans un nombre universel de répétitions.
+
+Dans le hall, il rouvre la pochette pour une version de prix qu’il n’y trouvera pas tant que le bureau ne l’aura pas confirmée. Dans l’ascenseur, il peut également répéter tous les chiffres au lieu de préparer la phrase indiquant qu’un point reste à vérifier. Le premier geste cherche une donnée manquante ; le second tente d’éviter toute hésitation. Ils n’offrent pas la même information pour répondre au client.
 
 ### 2. La comparaison sociale et le doute sur sa légitimité
-Stéphane se compare à Philippe et à ses collègues. Il attribue parfois ses propres résultats à la chance et redoute qu'on le juge moins compétent qu'il n'en a l'air. Ce doute ne suffit pas à identifier un trouble.
 
-Exemple : après une vente réussie, il minimise son rôle et interprète la reconnaissance comme une erreur, anticipant la révélation qu'il ne mérite pas le succès.
+Stéphane peut laisser la comparaison dépasser ce que les faits permettent de juger. Il connaît ses propres doutes et voit davantage la présentation publique des autres. Ce contraste ne permet pas d’identifier un trouble ou de comparer toute leur compétence.
+
+Les félicitations reçues par Marc peuvent lui faire classer sa propre semaine comme insuffisante sans bilan de son travail. Une réussite de Philippe peut aussi lui faire interpréter le tarif manquant comme une preuve qu’il est moins capable dans tous les domaines. Dans ces deux cas, la question concrète reste limitée : ce qui a été reconnu chez l’un, puis ce que Stéphane doit encore vérifier dans son dossier.
 
 ### 3. L'évitement relationnel et la façade sociale
-Pour éviter la honte, certaines personnes construisent une façade sociale impeccable. Stéphane excelle dans le réseautage, il sait plaisanter et paraît sûr, mais il évite d'aborder certains sujets profonds de peur qu'ils révèlent une vulnérabilité. Cela crée des relations en surface, parfois satisfaisantes mais dépourvues d'authenticité et d'intimité. Ce sourire de façade, qu'il utilisait autrefois pour masquer son dégoût face aux méthodes de Marc, devient ici un bouclier contre sa propre humanité.
 
-Exemple : il refuse d'évoquer une erreur stratégique passée avec un client de peur que cela entache son image, alors que partager l'apprentissage aurait pu renforcer la confiance.
+Stéphane peut choisir de rester discret sur une difficulté personnelle. Ce choix n’est pas un manque d’authenticité en soi. Le coût apparaît s’il doit donner une information fausse ou perdre l’objet de la conversation pour paraître parfaitement assuré.
+
+Au dîner, inventer le tarif qu’il n’a pas sous les yeux lui éviterait un aveu bref mais exposerait le client à une réponse non vérifiée. En réunion, refuser tout retour sur un choix commercial qu’il pourrait améliorer laisserait une question de travail sans examen. Ces deux situations permettent une réponse professionnelle limitée, sans confession sur son enfance ou ses doutes privés.
 
 ## Techniques pour apprivoiser l'imperfection et la honte
 
-### 1. Expérimentation sociale graduelle
-S'il hésite dans un échange professionnel ordinaire, Stéphane peut dire qu'il préfère vérifier une information. Il peut ensuite noter ce qui a réellement été dit, sans supposer que les autres n'ont rien pensé ni chercher à provoquer une situation humiliante.
+### 1. Vérifier une information sans improviser
 
-Cela transforme l'hypothèse interne ("si je montre une faiblesse, je serai rejeté") en une question testable. Pour Stéphane, cela s'appuie sur l'identification d'un déclencheur précis et le test d'une réponse alternative à la préparation panique.
+Stéphane peut utiliser une réponse exacte lorsqu’une information manque dans un échange ordinaire. Il ne cherche pas à provoquer une erreur ou une humiliation pour tester sa peur.
+
+1. Identifier le point non confirmé avant le dîner : la dernière version du tarif, distincte de ce qu’il peut déjà présenter.
+2. Préparer et dire si nécessaire : « Je préfère vérifier cette donnée et revenir vers vous. » Convenir d’une suite possible sans annoncer un chiffre incertain.
+3. Après l’échange, noter ce qui a été répondu et effectuer la vérification promise. Le silence ne permet pas de conclure que le client n’a rien remarqué ou jugé.
+
+La démarche peut apporter un retour sur cette réponse professionnelle. Elle n’est pas un programme d’exposition et ne garantit pas l’absence de gêne.
 
 ### 2. Auto-affirmation et reformulation bienveillante
-Stéphane peut remplacer « je suis nul » par deux phrases : « J'ai hésité sur ce tarif. Je peux vérifier et revenir avec le bon chiffre. » Il peut essayer cette reformulation quand elle lui est utile.
 
-La reformulation transforme une maladresse en information utile plutôt qu'en condamnation identitaire. Pour quelqu'un comme Stéphane, habitué à l'auto-jugement, cette technique offre un espace de respiration mentale. Il comprend que bégayer sur ses tarifs, comme lors du cocktail de mars, n'est pas une humiliation publique mais un moment de la conversation dont il peut tenir compte sans se réduire à lui.
+L’objectif est de décrire une difficulté assez précisément pour pouvoir y répondre, plutôt que lui donner la valeur d’une identité.
+
+1. Relever « je suis nul » et la situation associée : le tarif n’est pas disponible dans la pochette.
+2. Préparer une formulation fidèle : « Je n’ai pas cette donnée sous les yeux ; je peux la faire confirmer. » La gêne peut être nommée séparément si cela lui est utile.
+3. Choisir l’action correspondante, ici demander la confirmation au bureau et répondre au client selon l’accord, puis arrêter la vérification lorsqu’elle remplit cet objet.
+
+Cette parole conserve la responsabilité du suivi sans ajouter un jugement global sur soi. Elle ne transforme pas une approximation en information correcte et ne garantit pas un apaisement.
 
 ### 3. Récits contrôlés et partage stratégique
-S'il a envie de raconter une erreur qui a permis un apprentissage, Stéphane peut choisir une situation appropriée et respecter les informations confidentielles. Il n'a pas à révéler ses difficultés personnelles pour paraître sincère.
 
-Dans le récit, Stéphane trouve utile de dire ce qu'il a appris. Une réponse professionnelle peut aussi rester brève et ne porter que sur l'information à vérifier.
+Un récit professionnel choisi peut expliquer un apprentissage. Stéphane n’a pas à dévoiler ses difficultés personnelles pour prouver sa sincérité.
+
+1. Choisir une situation qu’il est autorisé à évoquer et le point de méthode utile, en retirant les données confidentielles sur les clients ou les collègues.
+2. Dire brièvement le fait, l’ajustement et sa limite, sans construire une confession destinée à obtenir de la gratitude ou à garantir la confiance.
+3. Vérifier si l’échange appelle une question de travail, puis laisser le récit s’arrêter. S’il préfère ne pas partager cette histoire, une phrase sur le tarif à confirmer peut suffire.
+
+Le partage peut fournir une explication de méthode à l’équipe. Il ne rend pas nécessaire de raconter une erreur dans chaque rencontre et ne prédit pas le jugement reçu.
 
 ## Vérifier le tarif le lendemain
 

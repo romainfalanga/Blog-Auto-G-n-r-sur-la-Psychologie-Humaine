@@ -38,29 +38,64 @@ Une plaisanterie peut offrir un point d’entrée. Après avoir ri du plafond, �
 
 On peut observer l’après plutôt que surveiller chaque blague. Est-ce que vous vous sentez compris, un peu plus libre de parler, ou obligé de rester divertissant ? Votre interlocuteur dispose-t-il d’une indication sur ce dont vous avez besoin ? Ces questions restent des repères, pas un contrôle de la spontanéité. Certaines conversations n’offrent pas assez de sécurité pour se dévoiler. Préserver sa discrétion au travail, dans un groupe ou face à une personne moqueuse peut être une décision adaptée. Le choix d’un moment et d’un lien compte autant que l’expression elle-même.
 
+Exemples concrets :
+* Au déjeuner, Élise peut garder la formule « plafond optionnel », puis raconter à Françoise ce qui lui a coûté dans la matinée.
+* Au téléphone avec Mireille, si chaque question sur les sièges recevait une plaisanterie, elles risqueraient de terminer sans savoir ce qu’il faut vérifier avant la rencontre dehors.
+
 ### Se rabaisser peut sembler moins risqué que se montrer
 
 Élise sait faire rire en exagérant ses propres maladresses. Parfois, cette manière de raconter lui convient. D’autres fois, elle se désigne comme incapable avant que quelqu’un puisse l’évaluer. Elle obtient un rire mais conserve ensuite une petite dureté envers elle-même. On peut remarquer ce coût lorsque les plaisanteries laissent un sentiment d’exposition ou deviennent la seule façon de demander de l’attention. Il ne s’agit pas de décréter que l’autodérision abîme toujours. Le repère reste la latitude dont on dispose et l’effet réel sur soi et sur la relation.
 
 La comparaison avec des situations plus graves peut également fermer une porte. Il est exact que la réunion perturbée n’a rien d’une catastrophe. Cela ne dit rien de la déception d’Élise à ce moment. Une émotion n’a pas besoin de gagner un concours de gravité pour être nommée. Reconnaître ce qui touche n’oblige pas les proches à tout résoudre, ni à prolonger indéfiniment la conversation. Une phrase précise permet souvent un échange plus simple qu’une longue série de plaisanteries dont chacun doit deviner ce qu’elles recouvrent.
 
+Exemples concrets :
+* Au restaurant, « personne n’est mort » compare l’incident à une situation plus grave avant qu’Élise ait dit sa déception.
+* Si elle racontait l’accueil écourté en se présentant seulement comme incapable de déplacer trois chaises, Françoise entendrait une moquerie envers elle-même sans connaître ce qui l’a touchée chez l’habitante repartie.
+
+### La légèreté devient une tâche à maintenir
+
+Élise aime rire avec Françoise. Le plaisir change lorsqu’elle se sent chargée de protéger tout le déjeuner contre une parole sérieuse. Elle peut observer cette obligation dans l’échange, sans décider qu’un sourire ou une serviette froissée révèle nécessairement une émotion cachée. Le repère est ce qu’elle voudrait pouvoir dire et qu’elle retient.
+
+Exemples concrets :
+* Quand le serveur repart, Élise continue de sourire et froisse la serviette. Elle peut se demander si elle souhaite poursuivre les plaisanteries ou répondre à la question de son amie.
+* Si un silence apparaissait après « cela m’a fait de la peine », elle pourrait chercher aussitôt une nouvelle blague pour le remplir. Elle pourrait aussi laisser Françoise répondre avant de choisir la suite.
+
 ## Changer de registre au milieu d’une phrase
 
 ### 1. Ajouter une phrase vraie après la formule drôle
 
-Il est possible de conserver la plaisanterie puis de lui adjoindre une information simple : j’en ris, et j’ai été déçue de ne pas pouvoir accueillir les gens comme prévu. Cette phrase ne doit pas dévoiler toute votre histoire. Elle peut seulement nommer une émotion ou un besoin actuel. Élise aurait aussi pu dire qu’elle était fatiguée et qu’elle préférait en parler demain. L’enjeu est d’élargir ses options. Ni le silence, ni le rire, ni la parole sérieuse ne doivent devenir l’unique réponse obligatoire à chaque question.
+Objectif : conserver l’humour et pouvoir partager aussi ce qui touche.
 
-Vous pouvez choisir une personne suffisamment fiable et un sujet d’intensité modérée pour essayer. Il n’est pas nécessaire de commencer par la difficulté la plus intime. Voyez si la phrase vous ressemble et si l’autre la respecte. Une réponse maladroite ne prouve pas que votre émotion est excessive, mais elle peut renseigner sur les limites de cet échange. Vous gardez le droit de revenir à un sujet plus léger. Exprimer une chose vraie n’est pas signer un engagement à tout raconter, à répondre à toutes les questions ou à accepter les conseils proposés.
+Exercice pratique :
+* Choisissez un échange avec une personne fiable et une difficulté que vous souhaitez aborder. Élise peut essayer avec Françoise, sans commencer par ce qu’elle garde de plus intime.
+* Après la plaisanterie, ajoutez une phrase précise : « J’en ris, et j’ai été déçue de ne pas pouvoir accueillir les gens comme prévu. » Vous pouvez aussi dire que vous préférez en parler plus tard.
+* Laissez à l’autre le temps de répondre, puis choisissez ce que vous souhaitez ajouter. Une phrase ne vous engage pas à tout raconter ni à accepter les conseils proposés.
 
-Cette démarche ne demande pas de traquer l’authenticité dans chaque conversation. On peut plaisanter simplement parce que c’est agréable. Le repère devient utile lorsque vous remarquez une tension entre ce que vous montrez et ce que vous aimeriez pouvoir partager. Dans le cas d’Élise, sa serviette froissée attire son attention sur ce décalage. Elle ne traite pas ce geste comme un signe clinique. Elle s’en sert pour se demander si sa réponse correspond encore à ce qu’elle souhaite dire, ici, avec cette amie.
+Utilité possible : Françoise dispose d’une information qu’elle n’a plus à deviner derrière le ton drôle. Élise garde le droit de revenir à un sujet léger ou de s’arrêter si la réponse ne lui convient pas.
 
 ### 2. Vérifier ce dont la conversation a besoin
 
-Avant de chercher une bonne formule, demandez-vous ce que vous attendez de l’échange. Être écouté, rire ensemble, obtenir un conseil pratique ou parler d’autre chose sont des attentes différentes et toutes peuvent être légitimes. Élise dit à Françoise qu’elle aimerait raconter ce moment sans chercher immédiatement comment mieux organiser la prochaine rencontre. Cette précision évite que l’amie se lance dans des solutions alors qu’Élise essaie seulement de comprendre sa déception. Plus tard, elles pourront examiner les idées pour le jardin partagé si toutes deux en ont envie.
+Objectif : indiquer le soutien souhaité sans demander à l’autre de résoudre toute la situation.
 
-Si l’autre plaisante pendant que vous essayez de parler sérieusement, vous pouvez indiquer ce qui manque : cette histoire me touche davantage que mon ton ne le laisse entendre. Une telle phrase n’accuse pas nécessairement l’autre de cruauté. Il a peut-être suivi le registre que vous aviez vous-même installé. S’il continue à rabaisser votre ressenti, poser une limite ou chercher un autre interlocuteur peut être préférable. L’humour partagé suppose une possibilité de dire que cela ne fait plus rire, sans devoir se justifier longuement ni supporter des commentaires blessants.
+Exercice pratique :
+* Demandez-vous ce que vous attendez maintenant : être écouté, rire ensemble, chercher une solution ou parler d’autre chose. Ces besoins peuvent changer pendant le repas.
+* Formulez une demande limitée : « J’aimerais te raconter ce moment sans chercher tout de suite comment organiser la prochaine rencontre. » Vérifiez que l’autre est disponible.
+* Au bout de l’échange, décidez ensemble si vous continuez ou passez à autre chose. Les questions sur le jardin peuvent attendre un moment où toutes deux souhaitent les examiner.
 
-Lorsque toute expression émotionnelle paraît dangereuse, ou que le décalage entre le rire affiché et la souffrance devient épuisant, un professionnel peut aider à explorer ce fonctionnement. Un psychologue n’a pas pour rôle de retirer l’humour d’une personne. Il peut l’aider à disposer d’autres manières de reconnaître ses besoins. Les proches apportent une présence différente, précieuse mais limitée. Françoise peut écouter le récit du déjeuner ; elle n’a pas à interpréter chaque plaisanterie ni à devenir responsable de ce qu’Élise ressent ensuite.
+Utilité possible : cette précision donne à Françoise une manière concrète d’être présente. Elle conserve ses propres limites et n’a pas à interpréter chaque plaisanterie ni à prendre en charge les émotions d’Élise.
+
+### 3. Reprendre un sujet après une plaisanterie qui l’a fermé
+
+Objectif : retrouver la possibilité d’un échange sérieux sans devoir renoncer au rire.
+
+Exercice pratique :
+* Repérez la question que vous aimeriez reprendre. Élise peut revenir à l’habitante repartie sans avoir participé plutôt que résumer de nouveau toute la matinée.
+* Annoncez le changement de registre : « Cette histoire me touche davantage que mon ton ne le laisse entendre. Est-ce que je peux te raconter ce moment ? »
+* Si l’autre continue de plaisanter, précisez votre limite ou arrêtez le sujet. Vous pouvez chercher un autre interlocuteur ou un autre moment ; vous n’avez pas à supporter des commentaires blessants pour poursuivre.
+
+Utilité possible : une première pirouette ne décide pas de toute la conversation. Élise peut revenir sur ce qu’elle a laissé de côté, tout en gardant la possibilité de ne pas approfondir si le cadre ne lui convient plus.
+
+Lorsque toute expression émotionnelle paraît dangereuse, ou que le décalage entre le rire affiché et la souffrance devient épuisant, un professionnel peut aider à explorer ce fonctionnement. Les proches apportent une présence différente, précieuse mais limitée.
 
 ## Ce qu’elle raconte à Mireille
 

@@ -39,17 +39,23 @@ Clara associe parfois le récit d’une journée à une manière de se retrouver
 
 Inès précise qu’écrire ne remplace pas sa relation avec Clara. Cela lui permet de chercher des mots avant d’en choisir certains pour la conversation. Clara peut comprendre cette fonction sans lire les pages. Elle peut aussi dire que de longues périodes sans échange lui manquent. Elles disposent alors de deux besoins observables : un espace d’élaboration personnel et un temps de présence commune. Aucun n’exige d’abolir l’autre pour exister.
 
+Une réponse brève au repas peut être lue par Clara comme une distance ; une question sur le carnet peut être lue par Inès comme un refus de lui laisser penser seule.
+
 ### Confondre accessibilité matérielle et permission
 
 Le carnet est posé sur une table partagée. Cela ne signifie pas qu’il est destiné à être lu, pas plus qu’un écran resté allumé ne propose automatiquement l’ensemble d’une correspondance. Cependant, les usages implicites varient. Inès peut supposer que la frontière est évidente tandis que Clara ne sait pas ce qui est personnel ou commun. Une règle formulée évite de transformer chaque objet en petit test silencieux.
 
 Leur appartement ne comporte pas de bureau individuel. Il serait peu réaliste de demander que tous les objets privés restent hors de vue. Elles choisissent plutôt un principe concret : la présence d’un carnet ou d’un courrier ne vaut pas invitation à l’ouvrir. Si l’une cherche une information commune, elle pose la question. Cette règle ne dépend pas de la capacité d’Inès à ranger parfaitement ni du soin de Clara à deviner les titres des cahiers.
 
+Le carnet sur la table et l’écran de correspondance resté allumé sont deux accès matériels qui ne disent pas à eux seuls quelle consultation est autorisée.
+
 ### Chercher à rassurer en livrant plus que souhaité
 
 Inès envisage de laisser Clara lire une seule page pour prouver qu’elle ne cache rien de grave. Elle remarque ensuite que cette démonstration ne répond pas à son besoin. Elle souhaiterait pouvoir garder une page privée même si elle contient une pensée embarrassante ou mal formulée. Une confidence offerte pour mettre fin à un soupçon peut soulager l’échange sur le moment, tout en rendant plus difficile le refus suivant.
 
 Cela ne signifie pas que tout partage supplémentaire est mauvais. Inès peut lire un passage parce qu’elle le souhaite, puis garder les autres pour elle. Le critère utile est la liberté ressentie et réelle : peut-elle refuser sans être punie, interrogée indéfiniment ou accusée ? Peut-elle changer les règles d’accès ? Observer ces conditions aide davantage que compter les informations révélées et les comparer à une norme supposée du couple transparent.
+
+Montrer une page pour écarter le soupçon ou raconter les notes de travail avant de le vouloir offriraient deux confidences surtout destinées à rassurer.
 
 ## Ce que le carnet ne doit pas expliquer
 

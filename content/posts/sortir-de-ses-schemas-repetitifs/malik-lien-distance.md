@@ -41,6 +41,11 @@ Ils peuvent donner des fonctions différentes à leurs contacts. Un bref message
 
 Le besoin de moments ordinaires reste important. Malik ne souhaite pas que leur couple ne parle que de ses difficultés ou de son calendrier. Voir Awa choisir une image ou chercher un objet peut nourrir une forme de vie partagée. Ces moments valent par leur caractère choisi, pas comme une obligation de laisser une caméra ouverte.
 
+Exemples concrets
+
+- Le repas filmé doit porter à la fois les nouvelles, la proximité et la question du prochain séjour.
+- L’interruption d’Awa semble alors faire disparaître toute la soirée attendue plutôt qu’un seul échange.
+
 ### Le support devient une source de surveillance
 
 Après l’interruption, Malik regarde si Awa paraît connectée. Cette information lui donne l’illusion de pouvoir comprendre son absence. Elle ne dit pourtant pas ce qu’elle fait, ce qu’elle peut répondre ni la qualité de son attention. Il risque de remplacer une question adressée à sa compagne par une enquête sur les indices du service utilisé.
@@ -49,6 +54,11 @@ Awa peut également attendre une réponse rapide de Malik lorsqu’il rentre tar
 
 Le respect de la vie privée demeure une condition du lien. Les mots de passe, la localisation ou les preuves d’emploi du temps ne constituent pas des exercices d’intimité. Si l’un exige une surveillance ou impose des restrictions, le problème dépasse une simple préférence de rythme et mérite un soutien adapté.
 
+Exemples concrets
+
+- Malik regarde le statut connecté pour comprendre l’absence sans connaître l’attention disponible.
+- Demander des mots de passe ou une localisation transformerait le contact en contrôle plutôt qu’en intimité.
+
 ### Le désaccord paraît dangereux parce qu’il reste suspendu
 
 Quand une conversation se termine sur une tension, Malik ne peut pas revenir dans la pièce pour proposer une autre phrase. Le silence du support semble rendre le désaccord plus grand. Il pense parfois qu’il faut tout résoudre avant de raccrocher, même si Awa est épuisée et qu’il ne l’écoute plus bien lui-même.
@@ -56,6 +66,11 @@ Quand une conversation se termine sur une tension, Malik ne peut pas revenir dan
 Une pause peut être utile lorsqu’elle possède un repère partagé. Dire que l’on reprend demain à un moment à confirmer est différent de disparaître sans explication après une phrase blessante. L’accord n’efface pas la déception de devoir attendre, mais il donne une continuité possible à la discussion.
 
 Ils ne pourront pas toujours trouver un créneau parfait. Une réparation peut commencer par un message bref qui reconnaît l’effet de la dernière phrase, puis se poursuivre plus tard. Le couple gagne à disposer de plusieurs formes de reprise, au lieu de considérer le contact synchrone comme la seule preuve valable d’attention.
+
+Exemples concrets
+
+- Malik voudrait résoudre avant de raccrocher alors qu’Awa est épuisée.
+- Un message qui reconnaît une phrase sèche peut préparer la reprise sans régler toute la question à distance.
 
 ## Savoir ce qu’on attend d’un appel
 
@@ -67,6 +82,12 @@ Vérifiez que ces usages correspondent aux contraintes réelles : travail, conne
 
 Essayez cette organisation pendant une période limitée, puis demandez ce qui aide et ce qui alourdit. Un rythme convenable peut changer. La règle ne doit pas devenir un engagement impossible dont chaque écart mesurerait l’affection. Elle sert à faciliter le lien, pas à produire un calendrier à surveiller mutuellement.
 
+Exercice pratique
+
+- Distinguez avec Awa les nouvelles courtes des sujets demandant un rendez-vous.
+- Vérifiez vos contraintes de poste, de connexion et de repos pour ces deux usages.
+- Choisissez une période d’essai puis rediscutez ce qui aide au lieu de surveiller chaque écart.
+
 ### 2. Prévoir une phrase pour les rendez-vous qui débordent
 
 Préparez un message utilisable lorsque le moment prévu ne peut pas se tenir. Il peut indiquer que l’on n’est plus disponible, que l’autre peut poursuivre sa soirée et que l’on proposera une reprise. Awa et Malik choisissent une formulation qui laisse les deux libres de ne pas attendre indéfiniment.
@@ -75,6 +96,12 @@ Cette phrase ne remplace pas une explication lorsqu’un changement se répète 
 
 Si l’on ne peut pas envoyer de message sur le moment, l’accord peut prévoir une attitude par défaut : manger, sortir ou se reposer après un certain repère choisi ensemble. Il ne s’agit pas d’une punition. Cela évite que l’absence d’information immobilise toute la soirée de l’autre personne.
 
+Exercice pratique
+
+- Préparez ensemble une phrase indiquant qu’un rendez-vous déborde et que l’autre peut poursuivre sa soirée.
+- Convenez d’un repère par défaut si personne ne peut envoyer de message sur le moment.
+- Reprenez ensuite l’effet du retard si cela reste important, sans transformer le repère en punition.
+
 ### 3. Partager un détail et nommer une attente
 
 Pendant un échange disponible, racontez un détail concret de votre journée, puis dites ce que vous souhaitez en le partageant. Malik montre une photo et demande un avis sur deux tirages. Awa raconte un incident et souhaite seulement être écoutée. Une question explicite réduit le risque d’apporter une solution là où l’autre cherche une présence.
@@ -82,6 +109,12 @@ Pendant un échange disponible, racontez un détail concret de votre journée, p
 Gardez aussi une place pour les sujets difficiles. Une discussion sur les visites futures ou les attentes du couple ne doit pas être évitée sous prétexte de préserver les rares moments agréables. Il est possible de réserver un créneau spécifique et de dire ce qui reste à décider, sans promettre une solution immédiate.
 
 Après un désaccord, reprenez un effet précis : une phrase trop sèche, une attente sans repère ou une demande qui paraît intrusive. Écoutez la réponse avant de réexpliquer votre intention. Cette réparation ne garantit pas l’accord, mais elle permet de parler du problème présent sans transformer chaque incident en verdict sur toute la relation.
+
+Exercice pratique
+
+- Choisissez un détail à partager, comme deux tirages à départager.
+- Dites si vous souhaitez un avis, une écoute ou un moment pour un sujet difficile.
+- Après un malentendu, reconnaissez un effet précis et écoutez la réponse avant de réexpliquer votre intention.
 
 ## Malik mange, puis retrouve Awa autrement
 

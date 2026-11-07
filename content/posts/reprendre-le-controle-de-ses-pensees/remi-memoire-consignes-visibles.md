@@ -39,17 +39,23 @@ Claire présente la procédure comme une chaîne logique. Elle sait déjà où e
 
 L'expression « c'est simple » le décourage de demander une pause. Elle décrit peut-être la simplicité d'une procédure pour qui la connaît ; elle ne décrit pas l'effort d'apprentissage. Il peut être compétent sur les retours ordinaires et avoir besoin d'une présentation différente pour un changement. Cette coexistence est importante. Soutenir une acquisition nouvelle ne retire rien à ce qu'une personne maîtrise déjà dans son poste.
 
+Chercher où relever le motif lui fait moins entendre la pièce jointe ; le passage de l’engin pendant le trajet rend aussi moins accessible le début de la séquence. L’oubli apparent peut ainsi porter sur deux moments différents de la transmission.
+
 ### Retenir des détails sans savoir lesquels priment
 
 Tous les éléments semblent avoir le même poids. Rémi conserve la couleur du bac et le nom d'un service, mais laisse échapper l'ordre qui empêche une mauvaise orientation. Une procédure utile signale les dépendances : ce qui doit être terminé avant d'envoyer, ce qui se vérifie ensemble, ce qui nécessite un avis. Elle ne demande pas au lecteur de deviner cette hiérarchie au milieu d'une longue suite de verbes.
 
 Il découvre que sa feuille ancienne porte encore une mention différente. Il ne s'agit plus seulement de mieux mémoriser : il faut une version fiable. Un outil extérieur mal entretenu peut augmenter la confusion. Rémi fait donc attention à ne pas multiplier les copies personnelles qui continueront à circuler après une modification. La source de référence et son responsable comptent autant que la qualité visuelle du document.
 
+Il retient la couleur du bac sans conserver l’ordre de vérification ; il retrouve ensuite deux mentions différentes entre la feuille ancienne et le message de Claire. L’information manque dans un cas et se contredit dans l’autre.
+
 ### La honte ajoute une tâche supplémentaire
 
 Pendant qu'il reçoit une explication, Rémi surveille aussi son visage et ses réponses. Paraît-il assez rapide ? Claire remarque-t-elle son hésitation ? Cette surveillance occupe une place dont il aurait besoin pour comprendre. Il anticipe ensuite le jugement du service retours avant même d'avoir retrouvé le document. L'incident devient plus difficile à traiter parce qu'il se double d'une défense de son image.
 
 En demandant une clarification, il redoute d'abord de confirmer une faiblesse. Pourtant, la question apporte une information utile à l'équipe : plusieurs supports coexistent. La collègue des retours lui montre qu'elle vérifie elle aussi la procédure lorsqu'un cas sort de l'ordinaire. Son expérience ne consiste pas à tout retenir sans aide. Elle consiste notamment à savoir quelle information contrôler, auprès de qui et à quel moment.
+
+Il surveille d’abord son visage pendant que Claire explique la procédure ; il prépare ensuite sa défense avant de rappeler le service retours. Apprendre la séquence et protéger son image se disputent ainsi sa disponibilité dans deux échanges distincts.
 
 ## 3 techniques pour soutenir la mémoire de travail
 

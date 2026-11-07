@@ -30,11 +30,23 @@ Dans le [paradigme expérimental d’Anderson et Green](https://pubmed.ncbi.nlm.
 ### 1. Minimiser sa propre souffrance pour répondre aux attentes parentales
 Camille parle du planning alors qu’elle se sent blessée. Elle peut choisir de ne pas dire tout ce qu’elle ressent pendant l’appel. Ce choix ne prouve pas un mécanisme inconscient.
 
+Exemples situés :
+- Pendant l’appel sur le parking, Camille peut détailler les rendez-vous au lieu de dire que les commentaires la blessent.
+- Après un message sur la discipline de Léo, elle peut répondre seulement au point pratique alors qu’elle ressent de la colère ; ce choix ne permet pas de conclure à un refoulement.
+
 ### 2. Ne pas se souvenir de tous les détails
 Camille se souvient de certains moments de son adolescence et pas de tous leurs détails. Un souvenir flou n’établit ni un refoulement ni la cause de son mauvais sommeil. L’[American Psychological Association](https://www.apa.org/topics/trauma/memories) recommande la prudence devant les affirmations sur les souvenirs récupérés.
 
+Exemples situés :
+- Camille peut se rappeler une remarque de Françoise à l’adolescence sans retrouver tous les mots qui l’entouraient.
+- Lors d’un échange avec sa thérapeute, elle peut dire qu’elle ne sait plus quand une conversation ancienne a eu lieu, sans que ce blanc soit traité comme un souvenir à récupérer.
+
 ### 3. Réaction vive à des paroles qui réveillent le passé
 Une remarque peut être pénible en elle-même ou rappeler un échange ancien. Camille peut reconnaître ce qu’elle ressent sans conclure qu’un souvenir inaccessible en est la cause.
+
+Exemples situés :
+- Le ton de Françoise pendant l’appel rappelle à Camille des attentes scolaires ; elle peut décrire le malaise actuel sans en déduire un événement caché.
+- Un commentaire récent sur Léo peut la blesser même si elle n’y associe aucun souvenir précis.
 
 ## Trois façons de répondre au malaise actuel
 
@@ -43,15 +55,42 @@ Une fois garée, Camille note une phrase prononcée pendant l’appel et ce qu�
 
 La note sert à mettre des mots sur ce qui vient de se passer. Elle n’est pas une méthode de recherche de souvenirs cachés. Camille peut s’arrêter si écrire augmente son malaise.
 
+Objectif : préparer une réponse au présent, sans rechercher ce qui aurait été oublié.
+
+Exercice pratique :
+1. Restez garée et relevez une phrase de l’appel telle que vous vous en souvenez maintenant.
+2. Écrivez ce que cette phrase vous a fait, ou indiquez que vous ne savez pas encore le nommer.
+3. Choisissez une limite concrète pour le prochain échange puis refermez le carnet ; arrêtez plus tôt si écrire augmente le malaise.
+
+Utilité possible : la note sert à une décision actuelle, comme mettre fin à un sujet, sans devenir une enquête sur la mémoire.
+
 ### 2. Nommer une émotion actuelle
 Camille peut dire ou écrire « Je me sens blessée après cet appel ». Elle peut aussi ne pas savoir encore comment nommer son émotion.
 
 Le [guide de l’OMS sur le stress](https://www.who.int/publications/i/item/9789240003927) propose de remarquer et nommer une pensée ou un ressenti. Cet exercice ne détermine pas ce qui se passe dans le cerveau d’une personne ni ce qui lui est arrivé.
 
+Objectif : trouver une façon de décrire son expérience après le message de Françoise.
+
+Exercice pratique :
+1. Reprenez le fait récent qui vous préoccupe, comme le commentaire sur la discipline de Léo.
+2. Proposez un mot pour votre ressenti, éventuellement « blessée », « en colère » ou « je ne sais pas ».
+3. Décidez si vous souhaitez répondre, attendre ou en parler à un adulte choisi, sans demander aux enfants de confirmer l’émotion.
+
+Utilité possible : le mot peut orienter une réponse sans expliquer à lui seul ce qui s’est passé dans l’enfance.
+
 ### 3. En parler à une professionnelle si nécessaire
 Si des souvenirs ou des réactions lui pèsent, Camille peut choisir d’en parler à sa thérapeute et dire ce qu’elle ne souhaite pas aborder. Elle n’a pas à revisiter seule une scène pénible.
 
 Certaines thérapies indiquées après évaluation d’un stress post-traumatique travaillent sur des souvenirs avec des praticiens formés, comme le précisent [les recommandations du NICE](https://www.nice.org.uk/guidance/ng116/chapter/recommendations). Ce n’est ni un exercice général de récupération de souvenirs ni un traitement à reproduire à partir de ce récit.
+
+Objectif : demander un appui sur une détresse qui pèse aujourd’hui.
+
+Exercice pratique :
+1. Choisissez une situation récente à présenter à la thérapeute, par exemple cet appel.
+2. Indiquez ce que vous voulez travailler et ce que vous préférez ne pas aborder pour le moment.
+3. Demandez comment avancer à partir de ce que vous savez déjà, en laissant les incertitudes reconnues comme telles.
+
+Utilité possible : Camille peut obtenir un accompagnement sans obligation de retrouver des souvenirs ni de revivre seule une scène pénible.
 
 ## Mettre fin à l’appel
 

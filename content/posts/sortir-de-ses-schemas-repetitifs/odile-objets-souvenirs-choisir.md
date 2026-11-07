@@ -35,13 +35,19 @@ L’objet ne fournit pas à lui seul une mesure de l’amour ou du manque. Garde
 
 Devant le vase, Odile se demande à la fois si elle l’aime, si elle possède la place nécessaire, si sa sœur y tenait et ce qu’elle ressentirait après un don. Aucune de ces questions ne résout automatiquement les autres. Elle peut juger le vase peu pratique tout en éprouvant de l’affection pour la scène qu’il évoque. Les séparer permet de mieux comprendre l’hésitation. Le choix ne concerne pas uniquement une quantité d’objets à réduire ; il concerne aussi des usages, des relations et des contraintes qui ne se combinent pas toujours simplement.
 
+L’écharpe offre un autre exemple : elle peut rappeler une plaisanterie de Françoise et être agréable à porter, sans que ces deux raisons soient identiques. Odile peut vérifier si elle souhaite l’utiliser tout en gardant le souvenir indépendamment de cet usage. Le vase et l’écharpe montrent ainsi pourquoi une seule question, « est-ce sentimental ? », ne suffit pas à décider pour toutes les choses.
+
 ### Le provisoire peut soulager et coûter de la place
 
 Ne pas décider tout de suite peut offrir une pause utile, surtout après des semaines de démarches. Mais le carton d’Odile gêne désormais son passage et lui rappelle une décision évitée chaque fois qu’elle rentre. Ce coût concret mérite d’être considéré sans qualifier son hésitation de trouble. Elle peut modifier le rangement sans prendre immédiatement une décision définitive sur chaque contenu. Un endroit moins gênant et un moment choisi pour revenir à la question peuvent déjà améliorer le quotidien. Cela ne rend pas obligatoire un tri rapide pour toutes les personnes endeuillées.
 
+Les magazines sans rayon prévu occupent le passage, tandis que le vase attend une information sur une personne susceptible de le souhaiter. Ces deux attentes n’ont pas le même objet. Odile peut déplacer le carton qui gêne aujourd’hui et conserver une question précise sur le vase, sans faire du dégagement de l’entrée une décision définitive sur son contenu.
+
 ### Les souvenirs ne sont pas identiques entre proches
 
 Lucie souhaite le bol bleu pour des vacances chez sa tante ; Odile l’associe à une autre période. Leurs préférences ne forment pas un concours de fidélité. Elles peuvent décrire ce que chacune aimerait faire de l’objet et vérifier ce qui a déjà été convenu concernant sa propriété. Dans d’autres familles, un désaccord matériel ou juridique exige des informations et des interlocuteurs adaptés. Une technique émotionnelle ne tranche pas ces questions. Ici, Odile possède le choix, mais elle peut prendre en compte le souhait de sa fille sans être obligée de le satisfaire immédiatement.
+
+L’écharpe fait apparaître une autre divergence : Lucie peut la voir comme un vêtement à donner, alors qu’Odile souhaite d’abord l’essayer. Après le bol associé à des scènes différentes, ce second objet rappelle que l’aide au tri n’efface pas la préférence de sa propriétaire. Elles peuvent demander ce que chacune souhaite sans traiter une réponse comme plus fidèle que l’autre.
 
 ## Trier un carton à la fois
 
@@ -52,6 +58,8 @@ Odile commence par trois objets plutôt que par l’ensemble du carton. Pour cha
 ### 2. Séparer le souvenir de son unique support possible
 
 Odile peut raconter à Lucie le déjeuner associé au bol avant de décider où celui-ci ira. Elle peut également écrire quelques mots ou prendre une photographie si elle le souhaite. Ces options ne remplacent pas parfaitement l’objet et ne garantissent pas de ne jamais regretter son absence. Elles permettent seulement de voir qu’une histoire peut circuler sous plusieurs formes. Certaines personnes préfèrent garder la chose elle-même ; d’autres n’ont besoin d’aucune trace supplémentaire. Le choix ne doit pas devenir une injonction à documenter tous les souvenirs. Odile possède déjà la recette de Françoise dans son classeur et peut trouver suffisant de conserver peu de choses. Ce nombre n’a pas à correspondre à celui que sa fille choisirait à sa place.
+
+Après avoir raconté le déjeuner, Odile peut regarder si elle souhaite une trace supplémentaire. Elle choisit éventuellement une photo, puis vérifie avec Lucie ce qu’elle veut en faire ; elle peut aussi décider que la conversation suffit. Ce dernier choix évite de remplacer l’obligation de tout garder par celle de tout photographier.
 
 ### 3. Prévoir une décision bornée et un droit de pause
 

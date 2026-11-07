@@ -30,22 +30,61 @@ Dans le cas de Youssef, plusieurs mots lui permettent de préciser ce qu’il ap
 ### La sortie du flou relationnel
 Dans une relation, le manque de granularité crée souvent des malentendus profonds. Lorsqu'un partenaire se sent simplement mal sans pouvoir préciser pourquoi, l'autre peut interpréter ce silence ou cette froideur comme du désintérêt ou de l'hostilité. Pour Youssef, cela se traduit souvent par une fermeture totale. S'il n'arrive pas à nommer son malaise, il préfère se murer dans le silence, ce qui laisse Léa dans l'insécurité. Chez eux, un mot plus précis peut servir de point de départ à une conversation.
 
+Deux exemples dans cet épisode :
+
+- Léa demande comment se passe l’attente et reçoit « bof » ; elle ne sait pas s’il parle du travail, de leur échange ou de sa fatigue.
+- Youssef prépare une réponse sur le lundi, puis remarque qu’elle ne dit rien de son impatience en attendant.
+
 ### Des mots différents pour une absence
 Quand Léa est absente, Youssef peut se sentir seul, inquiet pour elle ou simplement déçu qu’un projet commun soit reporté. Le mot choisi l’aide à formuler ce qu’il aimerait partager, sans promettre d’apaiser l’émotion.
+
+Deux exemples dans cet épisode :
+
+- Si Léa rentre à son studio, Youssef peut regretter leur soirée sans être inquiet pour sa sécurité.
+- « Déçu qu’un projet soit reporté » et « inquiet de ne pas avoir de nouvelles » ouvrent des demandes différentes, à préciser avec elle.
 
 ### L'amélioration de l'empathie et de la connexion
 Trouver un mot pour soi ne dit pas ce que l’autre éprouve. Youssef peut écouter les mots que Léa choisit pour elle-même. En cessant de voir les émotions comme des blocs monolithiques et menaçants, Youssef peut enfin accueillir la vulnérabilité de Léa sans se sentir agressé. Il ne s'agit plus de résoudre un problème technique, mais de partager un état intérieur. Cette finesse de perception permet de répondre de manière ajustée : on ne console pas une personne frustrée de la même manière qu'une personne qui éprouve du regret.
 
+Deux exemples dans cet épisode :
+
+- Quand Léa parle de son stage, Youssef peut lui demander quel mot elle choisirait plutôt que reprendre sa propre peur du travail.
+- Si elle dit être frustrée par une organisation, il peut vérifier si elle veut en parler sans décider qu’elle est triste à partir de son ton.
+
 ## Techniques pour gagner en précision émotionnelle
 
 ### 1. La roue des nuances affectives
-Cette technique consiste à utiliser un support visuel pour sortir des émotions primaires comme la joie, la colère ou la tristesse. L'exercice consiste, chaque soir, à choisir un moment de la journée et à essayer de trouver au moins trois adjectifs précis pour décrire son état intérieur à ce moment-là. Par exemple, au lieu de dire qu'il était stressé lors de son appel avec son ami Nicolas, Youssef peut chercher s'il se sentait plutôt inadéquat, envieux de la réussite de son ami, ou simplement nostalgique de leur complicité passée. L'objectif est de s'éloigner des termes génériques pour s'approcher de la vérité du ressenti.
+Cette technique consiste à utiliser un support visuel pour sortir des émotions primaires comme la joie, la colère ou la tristesse. L’exercice consiste à choisir un moment de la journée et à essayer quelques mots pour décrire son état intérieur, s’il souhaite y revenir. Par exemple, au lieu de dire qu'il était stressé lors de son appel avec son ami Nicolas, Youssef peut chercher s'il se sentait plutôt inadéquat, envieux de la réussite de son ami, ou simplement nostalgique de leur complicité passée. L’objectif est de disposer de formulations plus précises lorsqu’elles lui conviennent.
+
+Objectif de cet essai : Comparer quelques mots à propos d’un moment réel.
+
+1. Choisissez un moment précis, comme l’attente d’une nouvelle professionnelle.
+2. Cherchez quelques nuances autour du mot initial, sans nombre minimal à atteindre.
+3. Gardez une formulation qui vous convient ou notez que le mot reste à trouver.
+
+Utilité possible : Le support rend des mots disponibles ; il ne mesure pas la qualité d’une émotion ni celle du couple.
 
 ### 2. Le balayage sensoriel et sémantique
 Pour ceux qui ont une tendance à l'intellectualisation, cette méthode aide à relier le corps aux mots. Installez-vous dans un endroit calme et localisez une sensation physique, par exemple une tension dans la mâchoire ou une chaleur dans le ventre. Au lieu d'analyser pourquoi vous ressentez cela, essayez de lui donner un nom émotionnel en testant plusieurs mots à voix haute. Dites : est-ce de l'irritation ? Est-ce de l'impatience ? Est-ce de l'inquiétude ? Gardez le mot qui vous semble le plus proche, si vous en trouvez un. La sensation physique ne permet pas de confirmer qu’il est le bon.
 
+Objectif de cet essai : Mettre en regard sensation et mots sans correspondance automatique.
+
+1. Si cela vous convient, relevez une sensation déjà présente pendant l’échange.
+2. Essayez quelques mots possibles en tenant compte de la situation, sans utiliser le corps comme preuve.
+3. Choisissez ce que vous voulez en dire à Léa ou conservez l’hypothèse pour vous.
+
+Utilité possible : L’essai peut faciliter une description sans confirmer qu’un mot est exact.
+
 ### 3. La technique du scénario alternatif
-Cet exercice se pratique idéalement à deux ou par écrit. Face à une situation qui a provoqué une réaction émotionnelle forte, essayez de rédiger trois versions différentes de ce que vous avez ressenti. La première version utilise des mots simples (bien, mal, énervé). La deuxième version cherche des nuances sociales (rejeté, ignoré, soutenu). La troisième version explore des nuances existentielles (impuissant, épanoui, désorienté). En comparant ces versions, vous apprenez à voir la complexité de votre paysage intérieur. Pour Youssef, cela signifie admettre que derrière son calme apparent face à son père Hamid, il y a de l'admiration mêlée à une profonde frustration.
+Cet exercice se pratique idéalement à deux ou par écrit. Face à une situation qui a provoqué une réaction émotionnelle forte, essayez de rédiger trois versions différentes de ce que vous avez ressenti. La première version utilise des mots simples (bien, mal, énervé). La deuxième version cherche des nuances sociales (rejeté, ignoré, soutenu). La troisième version explore des nuances existentielles (impuissant, épanoui, désorienté). Vous pouvez comparer les versions sans devoir retenir les mots les plus complexes. Youssef peut, par exemple, essayer plusieurs mots pour parler d’un souvenir de Hamid, sans devoir retrouver une émotion particulière.
+
+Objectif de cet essai : Comparer plusieurs formulations de la même expérience.
+
+1. Écrivez une première version de « bof » à propos de l’attente.
+2. Essayez une version plus précise sur la relation ou le projet, sans ajouter un ressenti pour remplir une catégorie.
+3. Comparez et gardez la formulation qui convient à ce moment, même simple ou contradictoire.
+
+Utilité possible : La comparaison montre ce qu’une nuance ajoute au message sans imposer une vérité intérieure définitive.
 
 ## Après « bof »
 

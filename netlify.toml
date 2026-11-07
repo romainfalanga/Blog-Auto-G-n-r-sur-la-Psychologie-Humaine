@@ -1,6 +1,6 @@
 [build]
   publish = "public"
-  command = "node scripts/build_navigation.mjs --check && python3 scripts/build_article_intros.py && hugo --minify"
+  command = "node scripts/build_navigation.mjs --check && python3 scripts/build_article_intros.py --check && python3 scripts/check_original_article_structure.py --audit editorial/reviews/originaux-v24.json --require-reviewed && python3 scripts/build_coverage_status.py --check && hugo --minify"
 
 [build.environment]
   HUGO_VERSION = "0.140.0"

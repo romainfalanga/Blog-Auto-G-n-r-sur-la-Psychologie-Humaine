@@ -33,13 +33,28 @@ Face à un choix crucial, ce biais agit comme un filtre déformant qui simplifie
 
 Priya n’a rencontré que les médecins encore en poste. Leur façon de travailler l’intéresse, mais elle ignore qui a quitté la clinique et ce qui a compté dans ces départs. Elle peut demander combien de personnes ont changé de poste et à qui elle pourrait parler des horaires tels qu’ils se passent en pratique.
 
+Deux exemples dans cet épisode :
+
+- La brochure présente trois médecins encore en poste et ne dit rien de ceux qui ont refusé ou quitté la fonction.
+- Priya reconnaît un bâtiment et imagine modifier l’organisation du service sans connaître une semaine de travail réelle.
+
 ### 2. La minimisation des risques réels
 
 Ne voir que les témoignages favorables ne suffit pas à estimer le risque. Priya peut demander le nombre de départs, les motifs connus et les conditions de travail. Le récit d’un seul départ complète la brochure sans donner un taux fiable.
 
+Deux exemples dans cet épisode :
+
+- Elle sait ce qui a donné envie d’accepter aux trois personnes mais ignore le nombre de départs.
+- Le médecin évoqué par Julie peut apporter un autre récit sans permettre de calculer un taux à partir d’un seul cas.
+
 ### 3. La pression sociale de la réussite visible
 
-Le biais de survivant est alimenté par les récits que la société valorise. Les réseaux sociaux et les médias ne donnent pas de tribune à ceux qui ont démissionné après six mois à cause d'un épuisement professionnel ou d'une mauvaise ambiance. Priya reçoit des messages de sa mère Anjali qui lui cite des exemples de cousins ayant réussi de brillantes carrières à l'étranger. Ces récits tronqués créent une norme factice qui rend la décision encore plus pesante, car l'échec semble alors être une anomalie personnelle plutôt qu'une possibilité statistique réelle.
+Le biais de survivant est alimenté par les récits que la société valorise. Les témoignages sélectionnés peuvent laisser hors champ des départs et leurs motifs, sans que Priya sache ce qui s’est produit dans cette clinique. Dans l’épisode, Priya imagine déjà ce que Raj apprécierait dans la fonction. Cette attente familiale compte pour elle, mais ne renseigne ni les conditions du poste ni les expériences des personnes absentes de la brochure.
+
+Deux exemples dans cet épisode :
+
+- Priya imagine ce que Raj trouverait intéressant dans le poste avant de pouvoir lui dire ce qu’elle ferait au quotidien.
+- Les seules phrases favorables de la brochure peuvent devenir une attente de réussite personnelle alors que les expériences absentes restent inconnues.
 
 ## Techniques pour agir et décider avec lucidité
 
@@ -49,13 +64,37 @@ Pour reprendre le contrôle de son jugement, il est essentiel de réintégrer le
 
 Priya peut demander si des données sur le renouvellement de l’équipe existent, ou parler à des personnes encore en poste et à d’anciens membres. Changer de travail, rester ou partir d’un établissement ne suffit pas à définir une réussite ou un échec.
 
+Objectif de cet essai : Identifier qui manque à la sélection visible.
+
+1. Décrivez la sélection visible : trois personnes satisfaites encore en fonction.
+2. Demandez si des informations sur les refus, changements et départs sont disponibles.
+3. Si une personne partie accepte de parler, écoutez aussi ce récit sans le tenir pour plus représentatif par principe.
+
+Utilité possible : L’examen élargit les questions sans définir rester ou partir comme une réussite ou un échec.
+
 ### 2. Le questionnement des variables cachées
 
 Distinguez ce que les témoignages établissent des questions qu’ils laissent ouvertes : horaires, charge de travail, soutien de l’équipe, autonomie. Évitez d’attribuer aux personnes des privilèges ou des problèmes privés dont vous ne savez rien.
 
+Objectif de cet essai : Vérifier les conditions derrière les témoignages.
+
+1. Relevez une affirmation de la brochure, comme la possibilité de modifier l’organisation.
+2. Distinguez ce qu’elle établit et les conditions inconnues : horaires, autonomie, charge et appuis.
+3. Demandez une description d’une semaine réelle sans inventer de privilège ou de difficulté privée aux témoins.
+
+Utilité possible : La description rend une promesse plus concrète sans garantir l’accès à toutes les informations.
+
 ### 3. Examiner le coût d’une situation difficile
 
 Priya imagine qu’elle a pris le poste et qu’en octobre elle envisage de partir. Elle note des questions qu’elle aurait aimé poser avant de signer. Qui décide de l’amplitude des consultations ? Que se passe-t-il quand un médecin refuse un créneau ? Ce sont des risques à examiner avec les équipes avant de prendre une décision.
+
+Objectif de cet essai : Préparer des questions sur une difficulté possible sans prédire l’échec.
+
+1. Choisissez une difficulté professionnelle plausible à examiner, par exemple un créneau refusé.
+2. Écrivez ce que vous auriez besoin de savoir sur la décision, les responsabilités et les moyens de révision.
+3. Posez ces questions aux équipes ou aux interlocuteurs compétents avant de conclure, sans transformer le scénario en prévision.
+
+Utilité possible : Le scénario sert à préparer une demande sans fournir un taux de risque ni une raison automatique de refuser.
 
 ## Julie connaît quelqu’un qui est parti
 

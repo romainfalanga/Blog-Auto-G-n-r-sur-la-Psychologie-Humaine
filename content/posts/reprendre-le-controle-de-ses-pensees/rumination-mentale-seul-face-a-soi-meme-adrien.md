@@ -20,45 +20,74 @@ Il revoit la scène de leur rupture, il y a un an déjà. Pourquoi a-t-elle dit 
 Adrien se souvient de ce qu'il a appris ces dernières semaines. Il reconnaît ce reflet dans le miroir de son esprit, cette tendance à l'idéalisation qu'il avait identifiée lors de ses précédentes crises de mélancolie. Pourtant, savoir ne suffit pas toujours à arrêter la machine. Sa dépendance affective, qu'il pensait avoir domptée après avoir affronté ses peurs face à l'autorité de ses clients, revient par la fenêtre sous une forme plus insidieuse. Ce n'est plus une émotion vive, c'est une glue mentale qui l'empêche d'avancer, faisant de sa solitude un tribunal où il est à la fois l'accusé et le juge.
 
 ## Définition de la rumination mentale
-
 La rumination désigne ici le retour répété sur une détresse, ses causes ou ses conséquences, avec peu de réponses nouvelles. Dans une [étude de suivi de Susan Nolen-Hoeksema](https://pubmed.ncbi.nlm.nih.gov/11016119/), les réponses ruminatives étaient liées à des symptômes dépressifs et anxieux ultérieurs. Cette association ne démontre pas que la rumination suffit à provoquer un trouble chez une personne donnée.
 
 Dans le cas d’Adrien, les mêmes questions sur la rupture reprennent le dessus tandis que son projet de logo reste vide. Ce qui distingue sa rumination d’une réflexion utile, c’est qu’il revient au même point, sans découvrir d’information nouvelle ni dégager de décision.
 
 ## Manifestations de la rumination seul face à soi-même
-
 Dans le silence de l’atelier, Adrien remarque que les mêmes questions reviennent. D’autres personnes peuvent ruminer en compagnie, ou trouver la solitude reposante.
 
 ### L'analyse rétrospective sans fin
 
 Une forme possible est le besoin de comprendre le pourquoi des événements passés. Adrien passe des heures à décortiquer les derniers messages de Marina, cherchant un sens caché ou un signe qu'il aurait manqué. Cette analyse ne vise pas à apprendre de ses erreurs, mais à tenter de réécrire l'histoire. On se retrouve à imaginer des dialogues alternatifs, des regrets ou des suppositions qui ne font que creuser le sentiment d'impuissance.
 
+Exemples situés :
+
+- Adrien relit les mots de Marina sans en tirer d’information nouvelle pour sa soirée.
+- Il reprend mentalement une réponse différente à la rupture, puis revient à la même question sur ce qu’il aurait dû comprendre.
+
 ### La généralisation de l'échec personnel
 
 La rumination transforme un incident isolé en une vérité absolue sur soi. Parce qu'Adrien n'arrive pas à se concentrer sur son logo ce soir, son esprit en conclut qu'il est un mauvais graphiste, qu'il va rater sa carrière en freelance et qu'il finira seul. Ce glissement sémantique est typique de la rumination mentale seul face à soi-même : on part d'une difficulté ponctuelle pour aboutir à une condamnation globale de sa personnalité, renforçant les schémas d'incompétence déjà présents. Ce mécanisme lui rappelle cruellement les moments où il se sentait écrasé par les attentes de son père, transformant chaque petite erreur technique en une faillite identitaire totale.
 
+Exemples situés :
+
+- Un logo encore vide lui fait conclure qu’il ne pourra pas exercer son métier.
+- Le retour d’une pensée sur Marina devient pour lui la preuve qu’il n’avance dans aucune part de sa vie.
+
 ### La paralysie par l'analyse créative
 
-Pour un profil comme celui d'Adrien, la rumination peut se déguiser en processus créatif. Il croit dessiner pour exorciser ses démons, mais en réalité, il ne fait que figer sa douleur dans des traits répétitifs. L'action créative perd sa fonction libératrice pour devenir un support de fixation. On ne crée plus pour s'exprimer, on crée pour rester en contact avec l'objet de sa souffrance, ce qui entretient la dépendance affective sous un vernis esthétique. Il réalise que ce calque Marina-test est le prolongement exact de ses errances de mars dernier, quand il préférait dessiner ses souvenirs plutôt que de répondre à ses obligations.
+Sur le calque Marina-test, Adrien répète un geste sans choisir de nouvelle direction. Le dessin peut être une activité qu’il aime ou une façon d’exprimer une émotion ; c’est ici l’absence d’information nouvelle et de décision qui lui fait remarquer la boucle. Dessiner Marina ne prouve pas, à lui seul, une dépendance affective.
+
+Exemples situés :
+
+- Sur Marina-test, il déplace le nez, annule, puis refait le même mouvement.
+- Il peut consacrer l’heure prévue pour le logo à ces mêmes traits sans choisir une modification ou un point d’arrêt.
 
 ## Techniques pour agir face à la rumination
+Voici trois adaptations pour le quotidien des exercices présentés notamment par le [Centre for Clinical Interventions](https://www.cci.health.wa.gov.au/Treatment/Worry-and-Rumination-Course). Elles restent facultatives.
 
-Voici trois pistes à essayer. Le [Centre for Clinical Interventions](https://www.cci.health.wa.gov.au/Treatment/Worry-and-Rumination-Course) présente notamment des exercices pour reporter une inquiétude et ramener l’attention à une activité. Les gestes proposés ici sont des adaptations pour le quotidien.
+### 1. La technique de l’ajournement des pensées
 
-### 1. La technique de l'ajournement des pensées
+Objectif : Réserver une question pour un moment choisi sans tenter de chasser la pensée.
 
-Cette méthode consiste à ne pas lutter contre la pensée, ce qui ne ferait que la renforcer, mais à lui assigner un rendez-vous précis. L'exercice consiste à se dire que le sujet sera traité plus tard, par exemple demain de 17h00 à 17h15. En fixant une limite temporelle stricte, on autorise l'esprit à lâcher prise pour le moment présent. Adrien peut ainsi noter l'idée sur un coin de son carnet et se concentrer sur une tâche immédiate, sachant que la pensée aura son espace plus tard. Si, au moment prévu, vous n’avez plus envie de revenir sur la question, vous pouvez passer à autre chose.
+1. Noter quelques mots de la question qui revient sur Marina, sans recopier toute la discussion.
+2. Choisir, si cela convient, un court moment ultérieur pour voir s’il existe une décision utile à prendre ; aucun retour forcé au sujet n’est nécessaire.
+3. Revenir à une action présente choisie, comme tracer une forme du logo ; si la pensée revient, reprendre le repère sans s’imposer de réussite.
+
+Utilité possible : La note peut éviter de refaire toute la préparation maintenant. Elle ne garantit pas que la pensée cessera ni qu’un créneau de réflexion sera utile.
 
 ### 2. Un retour aux sensations ordinaires
 
-Vous pouvez faire une courte pause et choisir un détail auquel prêter attention : la couleur de cinq objets, vos pieds au sol ou une chanson. Adrien s’étire et change l’éclairage de son atelier. L’exercice ne demande pas de provoquer une sensation douloureuse.
+Objectif : Faire une transition d’attention confortable à partir de l’atelier.
 
-### 3. La reformulation par l'écriture descriptive objective
+1. Choisir un détail extérieur accessible, par exemple la lampe ou une chanson, plutôt qu’un exercice corporel qui déplaît.
+2. Le regarder ou l’écouter brièvement, en gardant les yeux ouverts et le droit de bouger ou d’arrêter.
+3. Décider du prochain geste : ajuster l’éclairage, boire de l’eau ou fermer le logiciel pour dormir.
 
-Adrien essaie de passer de « Pourquoi cela m’arrive ? » à « Qu’est-ce que je fais en ce moment ? » Il note quelques faits de la dernière heure, comme avoir ouvert son logiciel, tracé des lignes ou bu un verre d’eau. Si écrire entretient la boucle, il peut ranger son carnet.
+Utilité possible : Ce repère peut aider à retrouver une activité ordinaire. Il ne demande ni sensation intense ni interruption de la pensée à tout prix.
+
+### 3. La reformulation par l’écriture descriptive objective
+
+Objectif : Remplacer une question sans fin par une description de l’action actuelle.
+
+1. Écrire « qu’est-ce que je fais maintenant ? » à côté du calque Marina-test.
+2. Noter un fait de l’heure écoulée, comme avoir déplacé puis annulé un trait, sans interpréter une intention cachée.
+3. Choisir un seul geste suivant ou ranger le carnet si l’écriture nourrit la même boucle.
+
+Utilité possible : La description peut rendre une prochaine décision plus accessible. Elle ne juge pas le dessin ni ce que Marina représentait pour Adrien.
 
 ## Une forme avant d’aller dormir
-
 Adrien dépose son stylet sur la tablette graphique. Le silence de l'appartement ne lui semble plus aussi menaçant. Il observe le dessin de Marina. Il y a apporté trois corrections, qu’il saurait à peine retrouver. Se souvenant de sa prise de conscience sur le raisonnement émotionnel quelques semaines plus tôt, il comprend que sa tristesse actuelle n'est pas une preuve qu'il est un raté, mais simplement une tristesse qui revient avec ses souvenirs de Marina.
 
 Il se lève et se dirige vers la cuisine. Il boit un grand verre d'eau fraîche, se concentrant uniquement sur la sensation du liquide. C'est un geste simple, mais il le fait avec une intention totale. Il écrit « demain » sur le bord d’une feuille et laisse le reste de la ligne vide. Il compte toujours rejoindre Julien pour leur séance de sport. Il aimerait pouvoir l’écouter parler un peu, lui aussi. Pour l'instant, la priorité n'est plus de comprendre Marina, mais de respecter son propre engagement professionnel.

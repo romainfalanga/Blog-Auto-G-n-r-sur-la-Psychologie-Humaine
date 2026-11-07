@@ -41,6 +41,11 @@ Une nouvelle activité solitaire peut l’occuper sans répondre à ce manque. C
 
 Cette observation évite aussi d’opposer autonomie et relation. Préparer une invitation constitue une action personnelle tournée vers un besoin partagé. Malik n’attend pas nécessairement qu’un autre organise toute sa vie. Il cherche un accord avec une personne libre de répondre, dans des contraintes qui appartiennent à chacun.
 
+Exemples concrets
+
+- Malik apprécie de suivre seul la feuille prise dans une grille sans devoir poursuivre le trajet.
+- Le dimanche, regarder les mêmes images ne remplace pas l’échange qu’il voudrait avoir.
+
 ### Un moment vide se transforme en verdict sur les liens
 
 Lorsque personne n’est disponible, Malik pense que ses relations ne sont peut-être pas assez solides. Il oublie les conversations récentes et les contraintes connues. Un dimanche devient la mesure de quatre années de vie. Le sentiment est réel, mais la conclusion dépasse les informations disponibles.
@@ -49,6 +54,11 @@ Fatou peut apprécier ses images et ne pas consulter ses messages ce jour-là. A
 
 Malik peut donc noter le besoin présent sans fermer l’enquête : il souhaite une compagnie aujourd’hui et ne trouve pas encore de personne disponible. Cette phrase laisse la place à la déception. Elle évite d’y ajouter un verdict sur sa valeur ou sur l’ensemble de ses appartenances.
 
+Exemples concrets
+
+- L’indisponibilité de Bastien ce jour-là devient pour Malik une question sur toute sa place ici.
+- La réponse de Fatou le lundi ne prouve pas que son silence du dimanche était un rejet.
+
 ### Le retrait peut rester après le besoin de calme
 
 Après une semaine dense, Malik refuse volontiers une invitation pour se reposer. Il apprécie ce choix. Plus tard, il continue parfois à décliner par habitude, même lorsque la fatigue diminue et que le besoin de rencontre revient. Le même comportement peut donc changer de fonction au fil des jours.
@@ -56,6 +66,11 @@ Après une semaine dense, Malik refuse volontiers une invitation pour se reposer
 Il peut observer l’effet plutôt que se forcer à sortir. Après une soirée seul, se sent-il suffisamment reposé, encore tendu ou surtout privé d’échange ? Aucune réponse ne crée une obligation. Cette observation aide à choisir la forme de contact souhaitée : une visite brève, une activité de groupe ou un appel personnel.
 
 Les obstacles matériels comptent également. Un horaire tardif, un trajet ou un coût peuvent empêcher une sortie appréciée. Il serait injuste de traiter ces contraintes comme un évitement intérieur. Chercher un contact accessible demande de considérer le lieu et le temps disponibles, pas seulement la volonté de rejoindre les autres.
+
+Exemples concrets
+
+- Une invitation refusée pour se reposer peut encore être déclinée par habitude après le retour de l’envie de lien.
+- Un coût de trajet peut empêcher une sortie souhaitée sans constituer un retrait volontaire.
 
 ## Que cherche-t-on à partager aujourd’hui ?
 
@@ -67,6 +82,12 @@ Choisissez ensuite un geste correspondant au besoin principal. Pour le repos, il
 
 Si la réponse reste floue, essayez une option courte et observez son effet. On peut sortir quelques minutes dans un lieu accessible puis décider de rentrer, sans transformer cet essai en preuve de courage. L’objectif consiste à recueillir une information sur le besoin, pas à se forcer à apprécier une expérience choisie trop vite.
 
+Exercice pratique
+
+- Distinguez ce qui vous manque aujourd’hui : calme ou échange sur les tirages.
+- Choisissez un geste correspondant à ce besoin sans fixer une identité de solitaire ou de sociable.
+- Si vous hésitez, essayez une option brève et accessible puis décidez de la poursuivre ou non.
+
 ### 2. Formuler une invitation qui permet une réponse claire
 
 Préparez une proposition avec une activité, un créneau et une durée approximative. Malik demande à Fatou si elle souhaite regarder des tirages à la médiathèque un jour où ils y passent déjà. Cette précision facilite la réponse et évite de lui laisser deviner qu’un simple envoi de photo contient une demande de présence.
@@ -75,6 +96,12 @@ Laissez une possibilité réelle de refuser ou de proposer autre chose. Un besoi
 
 Si personne n’est disponible, nommez le résultat sans l’élargir. L’invitation n’aboutit pas pour ce créneau. Elle n’établit pas que vous n’intéressez personne. Si les réponses négatives se répètent, il peut être utile d’examiner le réseau, les modalités des propositions ou les conditions d’accès avec un soutien, plutôt que d’insister seul indéfiniment.
 
+Exercice pratique
+
+- Proposez à Fatou de regarder quelques tirages à la médiathèque.
+- Précisez un créneau et une durée auxquels elle peut répondre librement.
+- Acceptez un refus ou une autre date sans multiplier les demandes de validation.
+
 ### 3. Garder un passage entre solitude et compagnie
 
 Lorsqu’un temps seul est choisi, donnez-lui une fin souple ou un point de réévaluation. Malik prévoit de regarder ses images jusqu’à son repas, puis de voir s’il souhaite appeler quelqu’un. Ce repère lui évite de laisser une habitude décider de toute la journée alors que ses besoins peuvent évoluer.
@@ -82,6 +109,12 @@ Lorsqu’un temps seul est choisi, donnez-lui une fin souple ou un point de ré�
 Le passage peut être très simple : rejoindre un lieu fréquenté, demander un rendez-vous futur ou participer à une activité connue. Il ne faut pas confondre cette ouverture avec une garantie de lien intime. Être parmi des personnes peut faire du bien sans répondre à tout le besoin. Malik peut rechercher ensuite une conversation plus personnelle.
 
 Préservez aussi le droit de revenir au calme. Une rencontre ne devient pas une obligation de rester jusqu’au bout si les conditions permettent un départ respectueux. L’équilibre ne se mesure pas à une quantité idéale de sorties. Il se cherche dans la possibilité de choisir, d’ajuster et de disposer de liens suffisamment accessibles.
+
+Exercice pratique
+
+- Donnez à la séance solitaire de tri des images un point de réévaluation, par exemple le repas.
+- À ce moment, demandez-vous si vous souhaitez encore du calme ou préparer un contact.
+- Choisissez un passage accessible vers la compagnie tout en gardant le droit de rentrer au calme.
 
 ## Malik prépare une rencontre sans renier sa promenade
 

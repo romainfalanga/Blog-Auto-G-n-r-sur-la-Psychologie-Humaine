@@ -39,17 +39,23 @@ Inès prépare d’abord une longue description de son état au marché. Elle ve
 
 Reconnaître ces phrases ne lui impose pas de se présenter comme une mauvaise personne. Cette conclusion globale ramènerait encore l’attention sur le besoin de la rassurer. Elle peut rester au niveau d’une action qu’elle regrette. Le contexte viendra ensuite pour comprendre comment éviter une répétition, avec l’accord de Clara. Une explication devient utile lorsqu’elle ouvre une modification, plutôt que lorsqu’elle efface ce dont l’autre parle.
 
+Au marché, invoquer aussitôt le bruit et la fatigue ferait passer le contexte avant les mots ; se déclarer ensuite une mauvaise personne détournerait encore l’échange vers sa réassurance.
+
 ### Remplacer l’écoute par une correction de l’intention
 
 Clara explique qu’elle se sent piégée : proposer et ne pas proposer semblent également susceptibles de lui être reprochés. Inès veut répondre qu’elle ne cherche jamais à la piéger. Cette précision peut être sincère et insuffisante. Clara parle de l’effet de deux remarques, pas d’un projet malveillant qu’Inès aurait préparé. Les deux dimensions doivent pouvoir être entendues sans que l’une annule l’autre.
 
 Inès essaie donc de reformuler l’effet avant de revenir sur son intention. Elle vérifie qu’elle comprend bien ce que Clara décrit. Il ne s’agit pas d’adopter toutes les interprétations comme des faits incontestables. Si un point lui paraît différent, elle peut le dire ensuite. L’écoute sert d’abord à savoir quelle expérience demande réparation, au lieu de défendre une version intérieure que la personne blessée ne peut pas observer directement.
 
+Répondre « je ne veux pas te piéger » à l’effet décrit ou rappeler seulement qu’elle voulait être autonome laisserait de côté la place impossible ressentie par Clara.
+
 ### Demander une conclusion positive pour supporter sa culpabilité
 
 La phrase « tu ne m’en veux plus ? » vient rapidement à Inès. Elle aimerait une réponse qui clôture son malaise. Clara pourrait cependant avoir besoin de temps et ne pas savoir encore où elle en est. Une demande répétée de réassurance risque de transformer la réparation en nouvelle charge : la personne blessée doit désormais prendre soin de celle qui regrette. Cela peut déplacer l’échange sans résoudre le comportement initial.
 
 Inès peut dire qu’elle regrette et tolérer que l’ambiance reste moins légère. Elle peut également prendre soin de son propre inconfort par une marche, une activité ou un échange approprié avec une personne extérieure, sans diffuser des détails privés de Clara. Elle n’a pas à se punir pour être crédible. La responsabilité consiste à agir plus justement, pas à souffrir assez pour obtenir l’effacement de la remarque.
+
+Multiplier les messages avant leur retour et redemander un pardon après l’entretien pourraient toutes deux servir l’urgence d’Inès plutôt que le rythme de Clara.
 
 ## Reprendre les mots qui ont blessé
 

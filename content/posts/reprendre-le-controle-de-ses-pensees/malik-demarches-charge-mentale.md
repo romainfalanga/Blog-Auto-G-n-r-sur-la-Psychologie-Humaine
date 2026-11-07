@@ -41,6 +41,11 @@ Il serait trop simple de lui conseiller de cesser de s’inquiéter. Une pièce 
 
 Un repère écrit peut garder les éléments déjà contrôlés. Malik note que le document s’ouvre et contient toutes ses pages. Il ne conclut pas qu’il répond à la demande. Cette précision évite de refaire la même inspection tout en laissant visible la question administrative qui demande une explication.
 
+Exemples concrets
+
+- Malik ouvre une quatrième fois le fichier sans savoir si la demande vise une autre pièce.
+- La vérification des pages déjà faite peut être notée sans conclure que le document sera accepté.
+
 ### Plusieurs numéros et intitulés se ressemblent
 
 Le numéro du dossier, celui du message et la référence du document ne portent pas le même nom. Malik les cherche dans des endroits différents. Il craint de poser une question sans la bonne référence et de perdre le rendez-vous. L’effort vient en partie de la manière dont les informations sont présentées, pas d’une mémoire défaillante.
@@ -49,11 +54,21 @@ Préparer les éléments utiles peut réduire ce coût, à condition de ne pas c
 
 La personne qui aide doit expliquer son rôle. Malik peut accepter une assistance à la navigation sans demander que quelqu’un décide à sa place. Il reste utile de savoir ce qui sera fait, quelles informations sont nécessaires et ce qui dépend d’un échange avec l’organisme. Recevoir de l’aide n’exige pas de renoncer à comprendre sa propre démarche.
 
+Exemples concrets
+
+- Il recopie deux références dont les fonctions ne sont pas identiques.
+- La difficulté à retrouver un numéro peut venir de la navigation sans montrer une mémoire déficiente.
+
 ### L’attente paraît incompatible avec le repos
 
 Une fois le message envoyé, Malik pense qu’il devrait vérifier plus souvent. Il ne connaît pas le délai de traitement et transforme cette absence de repère en disponibilité permanente. Sa soirée reste attachée au dossier, même lorsqu’aucune réponse n’arrive. Awa lui demande s’il peut choisir un moment pour revenir à leur conversation.
 
 Une fréquence de vérification peut être discutée selon les indications du service et l’urgence réelle. Il n’existe pas de règle universelle valable pour tous les dossiers. Un délai ou une échéance incertaine demande une clarification, pas une décision improvisée à partir d’un conseil général. Malik peut chercher cette information avant de se donner un rythme.
+
+Exemples concrets
+
+- Malik laisse la page ouverte pendant le créneau prévu avec Awa.
+- Après l’envoi, l’absence de délai connu pourrait lui faire vérifier tout au long de la soirée.
 
 ## Poser une question à l’interlocuteur qui peut y répondre
 
@@ -65,6 +80,12 @@ Préparez ensuite une question qui peut être adressée à l’organisme ou à u
 
 Si une échéance apparaît dans les documents, signalez-la à l’interlocuteur et demandez comment elle s’applique à votre situation. Ne la modifiez pas en fonction d’un exercice d’organisation. Pour une question de droits ou de statut, un professionnel compétent doit examiner les éléments particuliers. La note sert à préparer l’échange, pas à remplacer cet examen.
 
+Exercice pratique
+
+- Notez sur un support privé les formulations du fichier transmis et de la pièce attendue.
+- Écrivez la question sur leur correspondance au lieu de reprendre toutes les hypothèses.
+- Signalez à l’interlocuteur toute échéance indiquée et demandez comment elle s’applique.
+
 ### 2. Chercher un accompagnement au périmètre clair
 
 Vérifiez les possibilités locales avant de vous déplacer. France services présente un accompagnement pour certaines démarches quotidiennes et pour l’usage des outils numériques, notamment avec l’Assurance Maladie. Malik demande les modalités de rendez-vous et les éléments à apporter. Il ne présume pas que tout problème sera résolu lors d’un passage sans préparation.
@@ -73,6 +94,12 @@ Au début, précisez le besoin : comprendre une consigne et préparer une questi
 
 Restez attentif à la confidentialité. Malik se connecte lui-même lorsqu’il le peut et vérifie les modalités d’assistance avant toute autre action. La CNIL rappelle l’importance d’un accompagnement transparent et de la protection des données. Il peut demander un espace adapté et une explication, sans devoir laisser ses identifiants à un proche pour gagner du temps.
 
+Exercice pratique
+
+- Vérifiez les modalités de rendez-vous et les pièces à apporter à France services.
+- Demandez à Gaëlle ce qui relève de l’aide à la navigation et de la décision de l’organisme.
+- Gardez vos accès personnels dans les modalités transparentes d’assistance convenues.
+
 ### 3. Garder une prochaine étape, puis fermer le temps de suivi
 
 À la fin de l’échange, reformulez ce qui est compris : question envoyée, pièce à vérifier ou contact suivant. Notez également ce qui n’est pas encore confirmé. Malik distingue la preuve d’un envoi et l’acceptation de son contenu. Cette différence évite de croire le dossier terminé ou, à l’inverse, de considérer que rien n’avance.
@@ -80,6 +107,12 @@ Restez attentif à la confidentialité. Malik se connecte lui-même lorsqu’il 
 Demandez les repères disponibles pour la suite : canal de réponse, délai indicatif s’il existe et manière de reprendre contact. L’information peut rester partielle. Il vaut mieux conserver cette incertitude explicite que transformer une formule vague en date garantie. Les indications précises de l’organisme priment sur tout rythme personnel de vérification.
 
 Lorsque rien d’autre n’est possible pour le moment, choisissez une fin concrète : ranger les documents, fermer la page et retrouver l’activité suivante. Malik prévient Awa qu’il pourra parler après ce rangement. Le souci peut revenir ; il dispose alors d’une note indiquant l’action accomplie et ce qui attend une réponse extérieure.
+
+Exercice pratique
+
+- Reformulez la clarification obtenue et la question encore adressée à l’organisme.
+- Notez le canal et les repères de suivi effectivement disponibles sans inventer de délai.
+- Rangez la pochette et fermez la page pour retrouver Awa lorsque rien d’autre n’est possible sur le moment.
 
 ## Malik ressort avec une question adressée au bon service
 

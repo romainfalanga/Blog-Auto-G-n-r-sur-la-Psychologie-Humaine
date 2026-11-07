@@ -41,6 +41,8 @@ Expliquer une contrainte peut faciliter l'entraide. Se soumettre à un interroga
 
 Elle remarque un indice utile : une information est assez précise lorsqu'elle permet de s'organiser ; une défense sans fin cherche une autorisation émotionnelle impossible à garantir. Julie a besoin de savoir si sa sœur reste pour les vitres. Elle n'a pas besoin de certifier toute sa fatigue pour répondre à cette question pratique.
 
+Une autre défense possible consisterait à comparer ses rotations avec le chantier de son frère : le débat sur qui a le plus travaillé remplacerait encore l’heure de départ à organiser.
+
 ### Toute déception semble équivaloir à une faute
 
 Maëlle aime les journées en famille. Renoncer à une partie de celle-ci lui déplaît aussi. Elle peut être triste de partir et décidée à rentrer. Pourtant, elle interprète souvent cette tristesse comme la preuve qu'elle choisit mal. Si Julie regrette son départ, le raisonnement devient encore plus rapide : quelqu'un est déçu, donc elle doit rester.
@@ -49,6 +51,8 @@ Les attentes ne disparaissent pas dès qu'une limite est légitime. Une sœur pe
 
 Maëlle confond également disponibilité et affection. Elle se demande si une sœur aimante lave les vitres jusqu'au bout. Pourtant, elle connaît des gestes d'affection moins coûteux : apporter le gratin, demander comment avance le chantier, proposer une autre présence. Son attachement ne se réduit pas à la quantité d'effort qu'elle fournit aujourd'hui.
 
+La tristesse de manquer la fin du chantier et le souhait de Julien d’une sortie sont deux déceptions possibles ; aucune ne définit à elle seule l’engagement de Maëlle.
+
 ### Une pause appelle aussitôt une compensation
 
 Lorsqu'elle décide de rentrer, elle envisage déjà de nettoyer tout l'appartement le lendemain. Le repos devient une avance qu'elle devrait rembourser. Cette règle transforme chaque période préservée en dette future. Elle protège une heure mais surcharge la journée suivante, sans vérifier si sa récupération a réellement de la place.
@@ -56,6 +60,8 @@ Lorsqu'elle décide de rentrer, elle envisage déjà de nettoyer tout l'appartem
 La compensation peut être juste quand elle correspond à une répartition négociée. Julien peut faire une course aujourd'hui et Maëlle une autre tâche à un moment qui lui convient. Le problème apparaît lorsque l'échange devient une punition ou une obligation de rendre immédiatement autant. Le soutien perd alors sa fonction : il ne desserre plus la contrainte, il la déplace.
 
 Elle observe que sa famille n'applique pas toujours cette comptabilité. Julie s'assied quand elle a mal aux pieds. Son frère reporte un trajet lorsque sa voiture est au garage. Maëlle accepte ces limites sans les soumettre à un calcul moral. Cette différence lui montre surtout combien sa propre règle est rigoureuse.
+
+Après les vitres laissées à la famille, promettre un grand ménage ou une course supplémentaire à Julien déplacerait dans les deux cas le repos vers une dette future.
 
 ## Aider sans promettre de rester jusqu’au bout
 

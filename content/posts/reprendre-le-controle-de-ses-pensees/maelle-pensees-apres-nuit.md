@@ -41,6 +41,8 @@ Elle peut néanmoins retrouver ce qu'elle sait vraiment. Claire cherche une fich
 
 Accepter cette incertitude ne revient pas à nier une éventuelle responsabilité. Si Maëlle souhaite clarifier ou présenter des excuses pour une réponse précise, elle peut le faire au prochain moment approprié. Elle n'a pas besoin de construire avant cela un procès complet sur ce que tous les collègues penseraient d'elle.
 
+Imaginer Claire contrariée dans l’atelier et imaginer les collègues en parler ensuite sont deux scènes ajoutées aux quelques faits réellement connus de l’échange.
+
 ### Le questionnement ne trouve jamais son point d'arrêt
 
 Elle se demande pourquoi elle répond ainsi, puis pourquoi elle n'arrive pas à arrêter d'y penser, puis ce que cette difficulté révèle. Chaque question ouvre une autre question, sans produire un geste possible. Le raisonnement conserve l'apparence d'une recherche sérieuse, mais change de niveau dès qu'une réponse simple se présente.
@@ -49,6 +51,8 @@ Si elle conclut « je suis fatiguée », elle se reproche d'utiliser cette fatig
 
 Son corps reste assis, mais son temps de retour n'a plus de frontière. Le trajet pourrait être une transition. Il devient une réunion intérieure où personne ne prononce la fin. La fatigue qu'elle décrit depuis plusieurs jours rend particulièrement précieux les moments où aucune tâche nouvelle ne s'impose.
 
+Chercher pourquoi elle est désagréable puis pourquoi elle ne peut plus s’arrêter d’y penser déplace deux fois la question, sans préciser où ranger la fiche.
+
 ### Les outils deviennent parfois des prolongations du poste
 
 Maëlle tient un carnet pour rendre ses contraintes visibles. Elle pourrait y recopier toute la nuit, chercher les détails manquants et vérifier ensuite ses souvenirs auprès de plusieurs personnes. L'outil resterait le même, mais sa fonction changerait. Il ne servirait plus à préparer une démarche limitée ; il alimenterait la recherche d'une certitude inaccessible.
@@ -56,6 +60,8 @@ Maëlle tient un carnet pour rendre ses contraintes visibles. Elle pourrait y re
 Le même risque existe avec les échanges entre collègues. Une transmission nécessaire protège le travail. Une conversation sans fin sur les intentions supposées d'une personne peut maintenir l'inquiétude et empiéter sur le repos de chacun. La question n'est pas de supprimer le soutien, mais de préciser ce qu'on attend de l'échange.
 
 Maëlle peut donc examiner le coût et l'utilité de ses démarches. Demander une information qui modifie une décision a une fonction claire. Reposer la même question après une réponse suffisante cherche parfois un apaisement qui ne tient que quelques instants. Cette observation ne mérite pas une nouvelle accusation ; elle aide à choisir autrement la suite.
+
+Recopier toute la nuit dans le carnet et demander à plusieurs collègues de confirmer le ton employé prolongeraient le même dossier au-delà de la transmission utile.
 
 ## Que faire de ce qui revient dans le bus ?
 

@@ -39,6 +39,8 @@ Recevoir une information et pouvoir l'appliquer sont enfin deux étapes différe
 
 En ralentissant sa demande, Éloi découvre qu'il peut regarder un seul aspect à la fois. Il ne s'agit pas de réduire indéfiniment la tâche à des fragments sans lien. Il cherche un point d'entrée : comment le chef choisit-il la régularité, quel repère contrôle-t-il avant d'accélérer ? Ces questions orientent l'attention vers des informations que la fascination pour la vitesse laisse de côté.
 
+Sur sa propre planche, Éloi voit deux morceaux qui ne cuiront pas au même rythme : il lui faut un repère de régularité. En observant Cédric, il remarque au contraire surtout que le bac se remplit vite : il lui manque le moment du contrôle. Ces deux observations ne demandent pas la même précision. Regarder plus longtemps ne suffit pas si la question reste indistincte.
+
 ### La critique déclenche une course à la vitesse
 
 Lorsque son premier essai échoue, Éloi accélère. Il espère rejoindre l'allure de Cédric et faire disparaître l'écart. Ce choix rend le geste moins contrôlable. Il manque ensuite une occasion de comparer calmement son résultat au critère demandé. Le problème n'est pas un manque général de confiance : il existe aussi une compétence précise encore en cours d'acquisition, qui demande des essais adaptés.

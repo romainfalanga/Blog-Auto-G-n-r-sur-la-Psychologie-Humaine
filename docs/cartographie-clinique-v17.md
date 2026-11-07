@@ -4,7 +4,7 @@ Le registre couvre les **858 codes** du chapitre 06 de la CIM‑11 pour les stat
 
 | Traitement éditorial | Codes | Utilisation |
 | --- | ---: | --- |
-| Cas de travail | 150 | Scénarios possibles dans le registre, dont 57 publiés. |
+| Cas de travail | 150 | Scénarios possibles dans le registre, dont 59 publiés. |
 | Rattachement documenté | 499 | Présentation, phase, précision, groupe ou syndrome analogue pour une autre substance. |
 | Sujet hors parcours propre | 209 | Deux cents codes résiduels, trois catégories ouvertes et six entrées de facteurs associés. |
 
@@ -23,14 +23,15 @@ Les 150 canons étaient des hypothèses de récit. Le registre sert à retrouver
 
 | Statut | Cas | Traitement éditorial |
 | --- | ---: | --- |
-| Parcours publiés | 57 | Onze parcours du neurodéveloppement et 46 dans les autres familles. |
-| Sujets à documenter en priorité | 0 | La [note de reprise](plan-v17.md#reprise-de-la-trame-de-youssef) donne l’ordre des sujets encore ouverts. |
+| Parcours publiés | 59 | Onze parcours du neurodéveloppement et 48 dans les autres familles. |
 | Variantes à traiter par famille | 61 | Trente-sept autres cas liés aux substances, quatorze causes de démence et dix syndromes secondaires. |
-| Autres sujets à cadrer | 32 | Par exemple catatonie, tableaux périnataux avec symptômes psychotiques, troubles de l’attachement et troubles factices. Le format dépend du contexte d’apparition, de l’apport psychologique et du relais clinique à décrire. |
+| Autres sujets à cadrer | 30 | Par exemple autres formes de catatonie, tableaux périnataux avec symptômes psychotiques, troubles de l’attachement et troubles factices. Le format dépend du contexte d’apparition, de l’apport psychologique et du relais clinique à décrire. |
 
-Les [codes prioritaires](../editorial/clinical/priorities.json) alimentent le suivi éditorial. Certains sujets pourront être expliqués en complétant un parcours ou en comparant deux manifestations dans un même dossier.
+Les 27 sujets de l’ancienne [file prioritaire](../editorial/clinical/priorities.json) ont tous un parcours. Cette liste fermée ne constitue pas un inventaire de tous les sujets restant à traiter. Certains sujets pourront être expliqués en complétant un parcours ou en comparant deux manifestations dans un même dossier.
 
-Deux autres parcours complètent les 57 du chapitre 06. Le trouble de la personnalité narcissique de Renaud est décrit selon le DSM-5-TR. La CIM-11 décrit la sévérité et les traits du trouble de la personnalité. L’insomnie chronique d’Élvire est décrite selon le code 7A00 du chapitre veille-sommeil de la CIM-11. Le dossier de Lila associe le premier épisode dépressif et le contexte périnatal sans symptômes psychotiques. [American Psychiatric Association](https://www.psychiatry.org/news-room/apa-blogs/what-is-narcissistic-personality-disorder/) · [Manuel clinique OMS](https://www.who.int/publications/i/item/9789240077263) · [Insomnie chronique dans la CIM-11](https://icd.who.int/browse/2026-01/mms/fr#323148092)
+Quatre autres parcours complètent les 59 du chapitre 06. Le trouble de la personnalité narcissique de Renaud est décrit selon le DSM-5-TR. La CIM-11 décrit la sévérité et les traits du trouble de la personnalité. L’insomnie chronique d’Élvire est décrite selon le code 7A00 du chapitre veille-sommeil de la CIM-11. Anatole développe le syndrome de la Tourette (8A05.00) et Doriane le trouble de la personnalité évitante dans le DSM-5-TR, sans équivalence automatique avec les traits de la CIM-11. Le dossier de Lila associe le premier épisode dépressif et le contexte périnatal sans symptômes psychotiques. [American Psychiatric Association](https://www.psychiatry.org/news-room/apa-blogs/what-is-narcissistic-personality-disorder/) · [Manuel clinique OMS](https://www.who.int/publications/i/item/9789240077263) · [Insomnie chronique dans la CIM-11](https://icd.who.int/browse/2026-01/mms/fr#323148092)
+
+L’[état de couverture courant](etat-couverture.md) distingue chaque code publié, cas candidat et simple renvoi. Les 91 cas encore sans parcours ne sont pas comptés comme des articles écrits.
 
 Cette couverture correspond au périmètre de la CIM‑11 MMS, chapitre 06. Le CDDR décrit aussi des diagnostics et situations situés dans d’autres chapitres. Une piste éditoriale distincte retient notamment le syndrome de la Tourette et les tics chroniques, l’insomnie chronique, les cauchemars et le trouble dysphorique prémenstruel. Le deuil ordinaire, l’épuisement professionnel et les risques liés à l’usage d’une substance ou d’un jeu ont leurs repères propres. La diversité de genre, l’orientation et la neurodiversité sont des dimensions de vie à représenter sans attribuer de pathologie. La situation de travail, la précarité, la discrimination, la langue et l’accessibilité peuvent modifier ce qu’une personne vit et les aides dont elle dispose. [Guide clinique CDDR](https://www.who.int/publications/i/item/9789240077263) · [OMS, épuisement professionnel](https://www.who.int/News/Item/28-05-2019-Burn-out-an-occupational-phenomenon-International-Classification-of-Diseases) · [OMS, diversité de genre](https://www.who.int/standards/classifications/frequently-asked-questions/gender-incongruence-and-transgender-health-in-the-icd)
 

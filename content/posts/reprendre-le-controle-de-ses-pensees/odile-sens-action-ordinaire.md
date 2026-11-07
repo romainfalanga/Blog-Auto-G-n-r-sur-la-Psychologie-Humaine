@@ -35,19 +35,27 @@ La perte de Françoise ne doit pas davantage être justifiée par un sens qu’O
 
 Gérard pense à une exposition parce qu’il apprécie les dessins et imagine une occasion de rencontre. Odile peut entendre cette proposition sans accepter que l’exposition devienne la condition de son plaisir. Si elle doit terminer une série, solliciter une salle et penser au regard d’un public, l’activité change de nature. Ce changement pourrait lui plaire une autre fois ; aujourd’hui, il risque d’effacer la liberté recherchée. Une proposition généreuse reste une proposition. Elle ne révèle pas que le dessin privé serait une version incomplète ou moins valable du même intérêt.
 
+La question se pose aussi pour le programme de quartier : cette page doit être lisible et prête pour la séance, parce qu’elle sert une tâche commune. Le carnet privé n’a ni le même destinataire ni la même échéance. L’exposition proposée et le document attendu sont deux résultats visibles différents ; Odile peut en choisir un pour le collectif sans donner cette obligation à tous ses dessins.
+
 ### On attend d’une activité qu’elle remplace une relation
 
 Françoise savait remarquer les progrès d’Odile et se moquer gentiment d’un détail trop appliqué. Le carnet ne peut pas offrir cette réponse. Si Odile lui demande de remplir l’absence de sa sœur, elle le trouvera forcément insuffisant. L’activité peut apporter autre chose : une attention à la rue, une curiosité et un moment choisi. Elle peut aussi devenir un sujet de conversation avec Lucie ou Josiane sans leur demander de réagir comme Françoise. Les nouvelles expériences n’ont pas besoin de réussir le remplacement d’un lien irremplaçable pour compter dans la vie actuelle.
 
+Elle pourrait ainsi trouver le carnet décevant parce qu’il ne lui renvoie pas l’avis de sa sœur, ou attendre de Lucie une réaction identique à celle qu’aurait eue Françoise devant les lettres. Dans le premier cas, elle demande une réponse à un objet ; dans le second, elle demande à une autre personne de reprendre une place qui n’est pas la sienne. Reconnaître cette différence laisse au dessin et à la conversation leurs propres possibilités.
+
 ### On transforme une direction en nouvelle règle exigeante
 
 Odile pourrait décider qu’elle doit désormais accomplir chaque jour une action porteuse de sens. Cette règle ajoute un examen à ses journées, y compris celles où elle est fatiguée ou occupée par des contraintes. Une valeur comme la curiosité peut guider sans devenir un quota. Elle peut être exprimée dans un dessin, une question ou une lecture, puis rester au second plan lorsque d’autres besoins prennent la place. Ne pas se sentir inspiré un jour ne signifie pas avoir perdu sa direction. Il reste possible de faire une tâche nécessaire sans y trouver une signification particulière.
+
+Dessiner une lettre tous les jours pour prouver sa curiosité transformerait le carnet en contrôle de présence. Chercher ensuite une leçon personnelle dans la course chez le cordonnier ferait porter la même exigence à une tâche pratique. Ces deux usages de la règle dépasseraient ce qu’Odile souhaite aujourd’hui. Elle peut apprécier une recherche ou faire réparer un sac sans en tirer une preuve sur le sens de sa vie.
 
 ## Garder un usage qui nous convient
 
 ### 1. Partir d’une expérience plutôt que d’une mission
 
 Odile peut regarder ce qui lui plaît précisément dans le dessin : observer une forme, essayer un geste et décider elle-même quand s’arrêter. Elle n’a pas besoin d’adopter immédiatement un grand mot pour résumer cette expérience. Elle peut ensuite voir si curiosité, création ou liberté correspondent assez bien. Cet examen s’applique aussi à une conversation, à une préparation de repas ou à une démarche pratique. Il ne consiste pas à embellir toutes les obligations. Certaines activités restent imposées et peu intéressantes ; le reconnaître permet de ne pas transformer une contrainte en préférence supposée. La question peut rester simple : qu’est-ce que je souhaite préserver ou exprimer dans cette action, s’il y a quelque chose ? Une absence de réponse immédiate est également possible.
+
+Pour cet après-midi, elle peut retenir un seul élément à préserver, par exemple chercher l’espace entre les lettres. Elle choisit alors si elle souhaite reprendre ce détail maintenant ou laisser la page ouverte pour une autre fois. La description débouche sur une possibilité concrète, sans faire de la curiosité une obligation supplémentaire.
 
 ### 2. Distinguer l’action choisie du projet ajouté autour
 

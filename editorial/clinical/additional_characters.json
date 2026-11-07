@@ -38,5 +38,45 @@
       "guardrail": "Distinguer une nuit difficile, une autre cause de somnolence et une insomnie chronique évaluée. Éviter les consignes de restriction du sommeil à appliquer seul.",
       "occupation": "planificatrice des tournées"
     }
+  },
+  {
+    "id": "anatole",
+    "name": "Anatole",
+    "code": "8A05.00",
+    "primary_reference": "oms-cddr",
+    "diagnosis": {
+      "timing": "established",
+      "episode": null
+    },
+    "canon": {
+      "age": 29,
+      "setting": "Médiateur dans un musée des techniques, prépare une démonstration pour le public.",
+      "independent_goal": "Concevoir avec sa collègue un parcours où chacun peut essayer une maquette et poser des questions.",
+      "tension": "Les tics et les efforts pour les retenir peuvent gêner ses échanges et le fatiguer. Il veut décider comment répondre aux réactions.",
+      "supports": "Collègue, ami et neurologue, dans un suivi déjà établi.",
+      "trajectory": "Compare les contextes, demande des adaptations et choisit ce qu’il explique au public.",
+      "guardrail": "Distinguer tics moteurs et phoniques, stéréotypies, compulsions et insultes volontaires. Aucun exercice d’imitation ou de suppression forcée, ni promesse d’effet.",
+      "occupation": "médiateur scientifique"
+    }
+  },
+  {
+    "id": "doriane",
+    "name": "Doriane",
+    "code": "DSM5TR-AVPD",
+    "primary_reference": "apa-personnalite",
+    "diagnosis": {
+      "timing": "established",
+      "episode": null
+    },
+    "canon": {
+      "age": 36,
+      "setting": "Technicienne dans une bibliothèque, souhaite rejoindre une équipe qui prépare des lectures de quartier.",
+      "independent_goal": "Choisir et partager un livre dans un projet qu’elle prépare avec deux autres adultes.",
+      "tension": "Elle désire les rencontres et craint durablement le rejet et l’évaluation négative dans plusieurs relations, ce qui restreint ses choix.",
+      "supports": "Psychothérapeute, collègue et amie, qui respectent leurs limites et celles de Doriane.",
+      "trajectory": "Le diagnostic est connu. Elle observe plusieurs situations et choisit des essais discutés en suivi sans disparition magique de la peur.",
+      "guardrail": "Distinguer réserve, anxiété sociale et diagnostic de personnalité selon le dossier. Préciser le cadre DSM-5-TR et les dimensions de la CIM-11. Aucun diagnostic du lecteur ou d’un proche.",
+      "occupation": "technicienne de bibliothèque"
+    }
   }
 ]

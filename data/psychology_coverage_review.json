@@ -1,0 +1,825 @@
+{
+  "version": 1,
+  "reviewed_on": "2026-11-07",
+  "scope": "Revue ciblée initialement menée sur les 19 repères sans liaison parmi 1095 articles et 92 personnages, puis preuves relues après les révisions et l’extension à 1143 articles et 96 personnages. Les associations concernent les récits fictifs, jamais leurs lecteurs. APA, RDoC et CIF sont des grilles distinctes. Aucun taux de couverture de toute la psychologie n’est calculé.",
+  "method": {
+    "inputs": [
+      "docs/audit-comparatif-couverture.md",
+      "data/psychology_catalog.json",
+      "data/article_keywords.json",
+      "data/editorial_pack_v10.json",
+      "data/article_intros.json",
+      "content/posts/**/*.md"
+    ],
+    "direct": "Objet explicite de la scène et de son explication ; ne certifie pas un traitement complet du concept.",
+    "secondary": "Passage précis développé dans un épisode dont le sujet principal diffère.",
+    "mention": "Mot, trait ou cooccurrence : insuffisant pour créer un lien.",
+    "existing_pack_checks": "À la baseline historique, les 156 articles/533 couples v10 ont des identifiants valides et concordent avec pattern_ids dans l’index. Les écarts de corps constatés alors sont conservés dans baseline à titre historique. La présente relecture sémantique porte sur les 19 nouveaux liens et les passages proches des lacunes ; elle ne recertifie pas intégralement les 533 liens antérieurs.",
+    "external_gap_search": "Recherche de termes et variantes dans tous les corps, puis lecture des accroches et passages des candidats proches. Lacune = angle direct non retenu dans cette revue ; aucune prétention à exclure toute formulation implicite."
+  },
+  "baseline": {
+    "articles": 1095,
+    "characters": 92,
+    "patterns": 161,
+    "domains": 16,
+    "subdomains": 44,
+    "articles_with_pattern_ids": 156,
+    "article_pattern_pairs": 533,
+    "linked_pattern_ids": 142,
+    "initially_unlinked_pattern_ids": [
+      "abandonment_fear",
+      "all_or_nothing",
+      "appeasement",
+      "confirmation",
+      "emotional_detachment",
+      "emotional_reasoning",
+      "emotional_suppression",
+      "family_roles",
+      "impostor",
+      "impulsive_reaction",
+      "inherited_rules",
+      "intellectualization",
+      "mind_reading",
+      "negative_filter",
+      "parentification",
+      "personalization",
+      "rationalization",
+      "reassurance",
+      "relational_jealousy"
+    ],
+    "selected_articles_awaiting_index_rebuild": [
+      "posts/sortir-de-ses-schemas-repetitifs/abandon-instabilite-face-solitude"
+    ],
+    "pack_articles_awaiting_index_rebuild": [
+      "posts/comprendre-et-maitriser-ses-emotions/elise-humour-emotions"
+    ],
+    "status": "historical_before_revision_and_four_new_arcs"
+  },
+  "existing_pack_validation": {
+    "articles": 156,
+    "article_pattern_pairs": 533,
+    "errors": [],
+    "stage": "historical_baseline"
+  },
+  "links": [
+    {
+      "pattern_id": "intellectualization",
+      "article_id": "posts/sortir-de-ses-schemas-repetitifs/intellectualisation-au-travail-hpi-solutions",
+      "role": "direct",
+      "rationale": "Analyse employée pour tenir un ressenti à distance.",
+      "limits": "Un raisonnement détaillé ou le HPI ne suffisent pas.",
+      "source_body_sha256": "a7e85ad50cdece3c4656497727b1e61b7987398bc9bf6f7f3d20cc0b4f0cf1c6",
+      "evidence": [
+        {
+          "quote": "Dans le vocabulaire psychodynamique, l’intellectualisation désigne l’usage d’idées générales et d’explications abstraites pour tenir à distance un ressenti. Les [échelles d’observation des mécanismes de défense](https://pmc.ncbi.nlm.nih.gov/articles/PMC8555762/) la décrivent parmi d’autres défenses. Un raisonnement détaillé, une profession technique ou un haut potentiel intellectuel ne suffisent pas à conclure qu’une personne intellectualise.",
+          "start": 1833,
+          "end": 2279
+        },
+        {
+          "quote": "Lorsqu'un désaccord survient avec un collègue, l'intellectualisation pousse à analyser la structure de la communication plutôt que de reconnaître l'agacement ou la blessure. Pour Youssef, cela se manifestait souvent par l'utilisation d'un jargon technique ou psychologique pour expliquer l'attitude de l'autre. En se focalisant sur le pourquoi systémique du conflit, il évitait de ressentir l'injustice de la situation. On observe alors des individus qui peuvent parler pendant des heures de la dynamique de leur équipe sans jamais dire \"je me sens seul\" ou \"je me sens déprécié\".",
+          "start": 3064,
+          "end": 3644
+        }
+      ]
+    },
+    {
+      "pattern_id": "mind_reading",
+      "article_id": "posts/reprendre-le-controle-de-ses-pensees/lecture-de-pensee-en-amitie-psychologie",
+      "role": "direct",
+      "rationale": "Léa transforme un regard en certitude sur le jugement de Zoé.",
+      "limits": "Une intention exprimée reste distincte d’une intention supposée.",
+      "source_body_sha256": "f05fc9538dcc910f418ff83d987bb68c8bf4650b6d60226eddf56b7335ad6098",
+      "evidence": [
+        {
+          "quote": "En thérapie cognitive et comportementale, la « lecture de pensée » décrit le fait de conclure trop vite à ce que pense l’autre sans éléments suffisants. Le [Royal National Orthopaedic Hospital](https://www.rnoh.nhs.uk/patients-and-visitors/patient-information-guides/unhelpful-thinking-styles) la présente comme une habitude de pensée. Observer un ton ou un regard peut donner une piste ; cela ne révèle pas à lui seul l’intention de l’autre.",
+          "start": 1681,
+          "end": 2123
+        },
+        {
+          "quote": "Elle n'entend rien, mais elle interprète tout. Le petit coup d'œil rapide que Zoé jette dans sa direction avant de se replonger dans sa conversation agit comme une preuve irréfutable. Dans l'esprit de Léa, le verdict est déjà tombé : Zoé la trouve ennuyeuse, elle regrette leur amitié et elle est en train de la remplacer par quelqu'un de plus solaire. Cette certitude s'installe dans sa poitrine, rendant chaque bouchée de sa salade difficile à avaler. Elle se sent redevenir cette petite fille de six ans, tapie dans l'ombre du couloir, essayant de décoder les silences pesants de ses parents pour savoir si l'orage allait éclater. Ce besoin de tout anticiper pour se protéger du rejet est une vieille armure qu'elle porte depuis le divorce de ses parents, une époque où chaque non-dit semblait annoncer une nouvelle rupture.",
+          "start": 260,
+          "end": 1087
+        }
+      ]
+    },
+    {
+      "pattern_id": "all_or_nothing",
+      "article_id": "posts/reprendre-le-controle-de-ses-pensees/pensee-tout-ou-rien-conflit",
+      "role": "direct",
+      "rationale": "Deux extrêmes et leur effet dans le conflit sont développés.",
+      "limits": "Une violence réelle ne se réduit pas à une distorsion.",
+      "source_body_sha256": "ee5a28cccab3d860a38bfd6f9cd1feae2864dfe20200c2f53a2866b0aa01e0ab",
+      "evidence": [
+        {
+          "quote": "La pensée tout-ou-rien consiste à réduire une situation à deux extrêmes alors que d’autres possibilités existent. Le [service de santé britannique](https://www.rnoh.nhs.uk/patients-and-visitors/patient-information-guides/unhelpful-thinking-styles) la présente comme une habitude de pensée abordée en TCC. « Si je ne répare pas tout ce soir, tout est perdu » en est un exemple.",
+          "start": 1457,
+          "end": 1833
+        },
+        {
+          "quote": "Dans un conflit, la pensée tout-ou-rien pousse à transformer une critique ponctuelle en une preuve que l'autre ne tient plus à la relation. Par exemple, Youssef fait une remarque sèche sur la manière dont Léa organise leurs rendez-vous. Son esprit dit immédiatement « il ne m'aime plus » plutôt que « il est fatigué aujourd'hui » ou « il a réagi sans réfléchir ». Cette interprétation extrême augmente la détresse et déclenche des comportements de réparation excessive, comme annuler ses propres besoins pour apaiser l'autre. Léa se revoit alors passer une nuit blanche pour le dossier de Zoé, agissant sous l'emprise de cette même urgence : faire l'impossible pour ne pas devenir inutile aux yeux de l'autre.",
+          "start": 2196,
+          "end": 2905
+        }
+      ]
+    },
+    {
+      "pattern_id": "confirmation",
+      "article_id": "posts/reprendre-le-controle-de-ses-pensees/biais-confirmation-conflit",
+      "role": "direct",
+      "rationale": "Définition, sélection des indices et examen d’autres hypothèses.",
+      "limits": "Le repère n’invalide pas des faits de violence.",
+      "source_body_sha256": "5027fdc9b647ab7a0e27c77adbb3f190c083be88858b2062995090c2d6259944",
+      "evidence": [
+        {
+          "quote": "Le biais de confirmation désigne la tendance à rechercher ou interpréter les informations d’une manière qui favorise une idée déjà présente. Dans une [expérience de 1960](https://journals.sagepub.com/doi/10.1080/17470216008416717), Peter Wason demandait aux participants de découvrir une règle qui décrivait des suites de nombres. Beaucoup s’en tenaient à des essais compatibles avec leur idée de départ. Une tâche de raisonnement ne permet toutefois pas de conclure qu’une personne qui soupçonne une violence se trompe.",
+          "start": 1316,
+          "end": 1836
+        },
+        {
+          "quote": "Dans un conflit, le biais de confirmation pousse à remarquer surtout les éléments qui confirment l'idée que l'autre a tort ou souhaite nuire. Par exemple, lorsqu'Antoine affirme qu'il n'avait pas reçu le courriel, Djamila retient uniquement le fait que sa voix était sèche et oublie la possibilité d'une erreur technique. La perception sélective transforme des indices ambigus en preuves définitives. Concrètement, cela signifie garder en mémoire un mot prononcé il y a six mois par un collègue et l'utiliser comme preuve d'une intention générale, tout en effaçant les gestes de soutien ou les éléments neutres.",
+          "start": 2228,
+          "end": 2839
+        }
+      ]
+    },
+    {
+      "pattern_id": "emotional_suppression",
+      "article_id": "posts/sortir-de-ses-schemas-repetitifs/surcontrole-emotionnel-famille",
+      "role": "direct",
+      "rationale": "La suppression expressive est distinguée du refoulement puis reliée à la retenue de Patrick.",
+      "limits": "Ni profil clinique ni cause d’une douleur ne sont établis.",
+      "source_body_sha256": "f9eb48bc5634ddd95d127086577eb9f80d90b046add2e4fe7facb62b981457d7",
+      "evidence": [
+        {
+          "quote": "Dans les recherches sur la régulation émotionnelle, la suppression expressive désigne le fait de retenir les signes visibles d’une émotion que l’on éprouve. La personne peut le faire volontairement. Cela se distingue du refoulement, qui désigne un autre concept dans les théories psychanalytiques. « Surcontrôle » est employé ici dans son sens courant pour parler d’une retenue répétée, sans attribuer à Patrick un profil clinique.",
+          "start": 1330,
+          "end": 1761
+        },
+        {
+          "quote": "Patrick est touché par la confidence de Stéphanie. Quand il parle de la météo, sa fille a peu d’indices sur ce qu’il a compris. Il peut lui dire qu’il l’écoute ou lui demander si elle souhaite parler de sa journée.",
+          "start": 2175,
+          "end": 2389
+        }
+      ]
+    },
+    {
+      "pattern_id": "impostor",
+      "article_id": "posts/comprendre-et-maitriser-ses-emotions/sentiment-imposture-apres-un-succes",
+      "role": "direct",
+      "rationale": "Minimisation de la réussite et doute de légitimité après un succès.",
+      "limits": "Vécu, pas diagnostic ni signe de HPI.",
+      "source_body_sha256": "9edbe1c636299f75bca78aaaddc4d5c7a9cc6e1ef02a6b058aa5769196f2c1ed",
+      "evidence": [
+        {
+          "quote": "[Pauline Clance et Suzanne Imes](https://paulineroseclance.com/pdf/ip_high_achieving_women.pdf) ont décrit en 1978 des femmes dont les réussites n’effaçaient pas le sentiment d’avoir trompé leur entourage sur leurs compétences. Le « phénomène de l’imposteur » désigne un vécu, pas un diagnostic. Les estimations changent selon les groupes et questionnaires. Ce vécu ne permet pas non plus de déduire un haut potentiel intellectuel.",
+          "start": 1894,
+          "end": 2325
+        },
+        {
+          "quote": "Camille reçoit des compliments pour une procédure réussie, puis explique immédiatement que c'était grâce à la disponibilité de l'équipe ou à la chance. Ce réflexe d'attribuer son succès à des facteurs externes fonctionne comme une soupape qui empêche d'intégrer la réussite dans son identité professionnelle. Camille peut reconnaître la part de l’équipe et la sienne dans le même échange.",
+          "start": 2850,
+          "end": 3238
+        }
+      ]
+    },
+    {
+      "pattern_id": "reassurance",
+      "article_id": "posts/sortir-de-ses-schemas-repetitifs/recherche-approbation-reconnaissance-amitie-enfance",
+      "role": "direct",
+      "rationale": "La valeur de la journée de Lucas dépend de l’approbation attendue de Maxime.",
+      "limits": "Aimer être apprécié ne suffit pas.",
+      "source_body_sha256": "ed0a7ba377ab04353c0b9f9a656433826a055ebbb74ecdd53327b78e60c32023",
+      "evidence": [
+        {
+          "quote": "Aimer être apprécié par ses amis fait partie du lien. Cela peut devenir pesant si leur réaction prend le pas sur ce qu’on pense, ce qu’on peut se permettre ou ce qu’on a envie de dire. Lucas ne voulait pas seulement raconter sa journée : pendant quelques minutes, il a laissé le regard qu’il attendait de Maxime décider de ce qu’elle valait.",
+          "start": 1651,
+          "end": 1992
+        },
+        {
+          "quote": "Un silence s'installe pendant que Maxime consulte son téléphone. Lucas sent une pointe d'angoisse monter. Est-ce qu'il en a trop fait ? Est-ce qu'ils s'ennuient ? Pour combler le vide, il enchaîne immédiatement sur une autre anecdote, plus impressionnante, sur ses futurs projets de carrière. Il surveille chaque micro-expression sur leurs visages, cherchant désespérément un signe de validation, un hochement de tête, n'importe quoi qui lui confirmerait qu'il est à la hauteur de ce milieu d'école de commerce où il se sent encore comme un intrus. Il se rappelle soudain l'entretien à La Défense où il pensait que tout le monde fixait sa cravate ; ici, c'est son CV imaginaire qu'il essaie de rendre impeccable pour ne pas être démasqué.",
+          "start": 251,
+          "end": 989
+        }
+      ]
+    },
+    {
+      "pattern_id": "family_roles",
+      "article_id": "posts/sortir-de-ses-schemas-repetitifs/aline-desaccord-lien-famille",
+      "role": "secondary",
+      "rationale": "Le rôle récurrent de médiatrice est nommé et discuté dans un épisode sur le désaccord.",
+      "limits": "Un rôle adulte ne démontre aucune parentification.",
+      "source_body_sha256": "8cb229df59795b50ea00fcf2e34f08f2b105ae689eb94c10b4ad396a748f784b",
+      "evidence": [
+        {
+          "quote": "Aline regarde les noms et compte immédiatement les appels à passer. Elle connaît ce rôle de médiatrice, nommé ouvertement dans la famille : quand deux personnes ne s’entendent pas, on lui demande de transmettre, reformuler et adoucir. Aujourd’hui, sa mère précise aussi l’attente : « Pour nous, la famille passe avant les activités du week-end. » Aline entend une priorité familiale explicite, pas une intention cachée qu’il faudrait démasquer.",
+          "start": 450,
+          "end": 894
+        },
+        {
+          "quote": "La place de médiatrice constitue une autre question. Aline peut écouter son père ou son frère lorsqu’elle le souhaite. Elle n’a pas pour autant à devenir le canal obligatoire de leur relation. Si elle transmet chaque remarque, elle risque de porter une tension qu’elle ne peut pas résoudre, puisque les personnes concernées ne s’adressent plus directement leurs demandes.",
+          "start": 2525,
+          "end": 2896
+        }
+      ]
+    },
+    {
+      "pattern_id": "parentification",
+      "article_id": "posts/sortir-de-ses-schemas-repetitifs/parentification-avec-ses-parents-causes-solutions",
+      "role": "direct",
+      "rationale": "Responsabilités émotionnelles précoces, répétition et limites actuelles sont développées.",
+      "limits": "L’aide adulte ne suffit pas ; âge et limites causales sont précisés.",
+      "source_body_sha256": "f499b4383ee3b8014bd25e38af096bd4ce052bde2a815d13cdb1cb381db81c44",
+      "evidence": [
+        {
+          "quote": "La parentification désigne des situations où un enfant endosse des responsabilités qui excèdent ce qu’il peut raisonnablement porter à son âge. Elle peut prendre une forme pratique, comme assurer seul des soins, ou émotionnelle, comme se sentir chargé de protéger un parent de sa détresse. Le soutien reçu, la durée, la possibilité de choisir et le contexte familial changent ce que l’enfant vit. Une tâche ménagère adaptée ou l’aide volontaire d’un adulte à son parent ne suffit pas à parler de parentification.",
+          "start": 1298,
+          "end": 1810
+        },
+        {
+          "quote": "Théo, son fils, l’a appelée pour lui demander s’il restait des pâtes. Sa voix légère contraste avec le sérieux dont Isabelle se souvient à huit ans, lorsqu’elle essayait d’apaiser ses parents. En triant les factures, elle se demande quelle aide elle souhaite apporter à sa mère aujourd’hui.",
+          "start": 967,
+          "end": 1257
+        },
+        {
+          "quote": "Isabelle se souvient qu’elle devait souvent faire le lien entre ses parents lorsqu’ils se disputaient. Elle a parfois associé sa place dans la famille à sa capacité à aider. Les recherches recensées par Dariotis et ses collègues rapportent des expériences et des conséquences diverses, en fonction notamment des responsabilités et du soutien disponible. Elles ne justifient pas un profil unique.",
+          "start": 1812,
+          "end": 2207
+        }
+      ]
+    },
+    {
+      "pattern_id": "abandonment_fear",
+      "article_id": "posts/sortir-de-ses-schemas-repetitifs/abandon-instabilite-face-solitude",
+      "role": "direct",
+      "rationale": "L’attente d’une rupture du lien structure la scène d’Adrien.",
+      "limits": "La rupture passée ne démontre ni cause infantile ni diagnostic.",
+      "source_body_sha256": "ec565456f1a76999df8ec0793254d2db724aed580240e9561534940373e99d2c",
+      "evidence": [
+        {
+          "quote": "Dans le [modèle de Jeffrey Young, Janet Klosko et Marjorie Weishaar](https://www.guilford.com/excerpts/young.pdf?t=1), le schéma « abandon/instabilité » décrit l’attente que les proches ne seront pas disponibles ou que le lien risque de se rompre. Les auteurs proposent que certaines expériences précoces puissent y contribuer. Une peur de la solitude ou une rupture récente ne permettent pas d’en déduire l’origine, et ce repère n’est pas un diagnostic.",
+          "start": 1359,
+          "end": 1813
+        },
+        {
+          "quote": "Adrien laisse le brouillon ouvert et essaie de dire tout bas ce qui le gêne. Il a peur que Julien se soit senti obligé de répondre à son invitation. Il sait seulement que son ami a envoyé une photo et qu’il n’a pas encore répondu. Il garde cette différence en tête le temps d’aller chercher une orange dans la cuisine.",
+          "start": 6304,
+          "end": 6622
+        }
+      ]
+    },
+    {
+      "pattern_id": "impulsive_reaction",
+      "article_id": "posts/sortir-de-ses-schemas-repetitifs/controle-de-soi-insuffisant-travail",
+      "role": "direct",
+      "rationale": "Engagement avant vérification, regret et essai d’un délai sont développés.",
+      "limits": "Les contraintes du travail et l’urgence réelle comptent aussi.",
+      "source_body_sha256": "417a1e2a9b2bfeefd4c958376787377a672e11dce4dbdaa2a4029b4eb68722f1",
+      "evidence": [
+        {
+          "quote": "Karim répond oui avant d'avoir regardé son planning et vérifié ce qu'il promet. Pour une proposition non urgente, il peut accuser réception et convenir d'un moment pour répondre après avoir vérifié ses engagements.",
+          "start": 2176,
+          "end": 2390
+        },
+        {
+          "quote": "Karim reçoit des sollicitations hors de ses horaires et redoute de manquer une occasion. Ses difficultés ne prouvent pas qu'il aurait épuisé une réserve de volonté. Dans [une réplication menée dans plusieurs laboratoires](https://pubmed.ncbi.nlm.nih.gov/27474142/), l'effet attendu d'une première tâche de contrôle de soi sur une seconde n'a pas été retrouvé avec le protocole utilisé.",
+          "start": 1649,
+          "end": 2034
+        }
+      ]
+    },
+    {
+      "pattern_id": "personalization",
+      "article_id": "posts/reprendre-le-controle-de-ses-pensees/personnalisation-reseaux-sociaux",
+      "role": "direct",
+      "rationale": "Hugo attribue un silence à sa prestation sans éléments suffisants.",
+      "limits": "Visibilité de la publication et décisions du collègue restent inconnues.",
+      "source_body_sha256": "8389bc9d4e73bfe82661a41dd086c47efcdfb0f1addc7378a13c12211eb5b233",
+      "evidence": [
+        {
+          "quote": "Dans le vocabulaire des thérapies cognitives, la personnalisation consiste notamment à s'attribuer une responsabilité sans éléments suffisants. Le [Centre for Clinical Interventions](https://cci.health.wa.gov.au/~/media/CCI/Mental-Health-Professionals/Eating-Disorders/Eating-Disorders---Information-Sheets/Eating-Disorders-Information-Sheet---Unhelpful-Thinking-Styles.pdf) la distingue du fait de croire savoir ce que pense quelqu'un. Hugo peut faire les deux : supposer qu'on l'ignore, puis attribuer ce silence à sa prestation.",
+          "start": 1421,
+          "end": 1952
+        },
+        {
+          "quote": "Après un concert, la photo publiée par Hugo reçoit peu de réactions. Il pense avoir mal joué, alors qu'il ignore combien de personnes l'ont vue et pourquoi elles ont réagi ou non.",
+          "start": 5148,
+          "end": 5327
+        }
+      ]
+    },
+    {
+      "pattern_id": "negative_filter",
+      "article_id": "posts/reprendre-le-controle-de-ses-pensees/filtre-mental-abstraction-selective-conflit-camille",
+      "role": "direct",
+      "rationale": "Une phrase négative occupe le bilan en laissant le reste de côté.",
+      "limits": "Le contexte ne supprime pas une remarque blessante.",
+      "source_body_sha256": "a68c0f1b97286ba09aced62ba57a2a562f7408a364cee52c6b8fffe8fe44b00c",
+      "evidence": [
+        {
+          "quote": "Dans le cadre cognitif issu des [travaux d’Aaron Beck](https://pubmed.ncbi.nlm.nih.gov/14045261/), l’abstraction sélective consiste à tirer une conclusion sur la situation en isolant un détail de son contexte. Dans le récit, Camille retient une phrase et laisse de côté ce que David a dit d’autre.",
+          "start": 1739,
+          "end": 2036
+        },
+        {
+          "quote": "Camille se souvient de sa discussion avec Nathalie, sa collègue, sur la compassion il y a quelques jours. Elle avait réussi à ne pas se laisser submerger par la détresse de Monsieur Girard, mais ici, dans l'intimité de son foyer, ses vieux démons resurgissent. Camille associe ses exigences envers elle-même à des souvenirs de Françoise. Ce soir, un détail négatif suffit à lui faire oublier le reste de la conversation. Elle se sent injustement attaquée, oubliant que la relation est un ensemble de nuances et non une suite de reproches. Cette hypervigilance face à la critique lui rappelle cruellement ses propres réactions lors de sa gêne thoracique évaluée à l’hôpital en avril, quand elle craignait que la moindre faiblesse physique ne soit le signe d'une défaillance totale.",
+          "start": 896,
+          "end": 1676
+        }
+      ]
+    },
+    {
+      "pattern_id": "emotional_reasoning",
+      "article_id": "posts/reprendre-le-controle-de-ses-pensees/raisonnement-emotionnel-en-couple",
+      "role": "direct",
+      "rationale": "Le passage du ressenti de rejet à une certitude sur les faits est l’objet de l’épisode.",
+      "limits": "La peur ne prouve ni n’infirme seule la situation.",
+      "source_body_sha256": "da0d520e99c65eb75e8e135d3cb1af033ebd648cc849d66fe60961f3046a0144",
+      "evidence": [
+        {
+          "quote": "Le raisonnement émotionnel consiste à tirer une conclusion sur les faits à partir de son seul ressenti : « Je me sens abandonné, donc elle m'abandonne. » Le [Centre for Clinical Interventions](https://cci.health.wa.gov.au/~/media/CCI/Mental-Health-Professionals/Eating-Disorders/Eating-Disorders---Information-Sheets/Eating-Disorders-Information-Sheet---Unhelpful-Thinking-Styles.pdf) le décrit parmi les styles de pensée abordés en thérapie cognitive.",
+          "start": 2099,
+          "end": 2551
+        },
+        {
+          "quote": "Sans réfléchir, Hugo commence une partition mentale : \"Si elle veut parler, c'est fini.\" La guitare dans son étui lui semble lourde, comme si chaque corde vibrait d'une accusation. Il évite d'appeler Théo parce qu'il sait qu'il pourrait tout noyer sous des hypothèses. Il ouvre un carnet et cherche à appliquer ce qu'il a appris ces dernières semaines, à savoir donner un nom à son émotion et repérer le tout ou rien. Mais la voix intérieure qui traduit la sensation en verdict est coriace : \"Elle ne m'aime plus.\" Ce passage du ressenti à la vérité est exactement ce qu'on appelle le raisonnement émotionnel, et dans un couple fragile, il a l'habitude de déclencher des ruptures dramatiques.",
+          "start": 912,
+          "end": 1604
+        }
+      ]
+    },
+    {
+      "pattern_id": "inherited_rules",
+      "article_id": "posts/sortir-de-ses-schemas-repetitifs/surcontrole-emotionnel-famille",
+      "role": "secondary",
+      "rationale": "Maxime paternelle et persistance dans un récit sur la suppression expressive.",
+      "limits": "Ni cause certaine ni traitement complet de la transmission familiale.",
+      "source_body_sha256": "f9eb48bc5634ddd95d127086577eb9f80d90b046add2e4fe7facb62b981457d7",
+      "evidence": [
+        {
+          "quote": "Stéphanie se lève pour ramasser les assiettes. « Attends, laisse celle-là. » Patrick lui tend sa tasse au lieu de lui dire de se rasseoir. Il a le bras un peu trop loin de la table et doit le ramener quand elle ne prend pas la tasse tout de suite. Marcel, son père, répétait qu’un homme ne pleure pas. Patrick n’a jamais beaucoup discuté cette consigne. Il se demande à présent ce que sa fille a pu entendre dans sa remarque sur la pluie.",
+          "start": 824,
+          "end": 1262
+        },
+        {
+          "quote": "Patrick se rappelle les paroles de Marcel et remarque que certaines lui viennent encore. Parfois, il préfère garder un sentiment pour lui et cette réserve lui convient. D’autres fois, il aimerait dire quelque chose mais redoute la réponse. Il peut observer la différence selon le sujet et la personne.",
+          "start": 2745,
+          "end": 3046
+        }
+      ]
+    },
+    {
+      "pattern_id": "rationalization",
+      "article_id": "posts/sortir-de-ses-schemas-repetitifs/rationalisation-face-a-une-decision-importante",
+      "role": "direct",
+      "rationale": "Justification du choix et dévaluation après coup de l’option non choisie sont développées.",
+      "limits": "Les vraies motivations ne sont pas déduites de l’extérieur.",
+      "source_body_sha256": "22835f81f0ddaa99c1a42f3e38853dfdfc75ad1072f8a1cd3acefe76b2574899",
+      "evidence": [
+        {
+          "quote": "La [rationalisation](https://dictionary.apa.org/rationalization) désigne le fait de donner une justification plausible à une décision ou une réaction. Dans la théorie psychanalytique, elle est décrite comme un mécanisme de défense. Cela ne permet pas de déterminer de l’extérieur les « vraies » motivations d’une personne.",
+          "start": 1322,
+          "end": 1644
+        },
+        {
+          "quote": "Priya peut réellement s’inquiéter du loyer et craindre de déplaire à ses parents. Les deux raisons peuvent coexister. Vérifier les coûts et la continuité des soins reste utile, même après avoir reconnu son appréhension.",
+          "start": 1646,
+          "end": 1865
+        }
+      ]
+    },
+    {
+      "pattern_id": "emotional_detachment",
+      "article_id": "posts/sortir-de-ses-schemas-repetitifs/isolation-affect-conflit-comprendre-mecanisme",
+      "role": "direct",
+      "rationale": "Le décalage temporaire entre récit factuel et ressenti accessible est décrit.",
+      "limits": "Lecture psychodynamique possible de l’accès limité au ressenti ; ni diagnostic ni preuve d’un mécanisme inconscient. Ne pas confondre avec suppression volontaire ou dissociation.",
+      "source_body_sha256": "9f24097862f1185cfe49586761fda9ea1b2dc28009ee0569634d5610a16d7bdf",
+      "evidence": [
+        {
+          "quote": "Dans certains modèles psychodynamiques, l’isolation de l’affect décrit le fait de pouvoir évoquer une expérience précise avec peu de ressenti accessible sur le moment. Les [échelles d’observation des mécanismes de défense](https://pmc.ncbi.nlm.nih.gov/articles/PMC8555762/) la distinguent de l’intellectualisation, qui passe davantage par des idées générales. C’est une lecture possible du récit, sans observation directe d’un mécanisme inconscient.",
+          "start": 1064,
+          "end": 1513
+        },
+        {
+          "quote": "Youssef peut dire : « J’entends ce que tu dis. Je ne sais pas encore ce que je ressens, et j’aimerais faire une pause. » Il peut se limiter à décrire son état, sans présumer pourquoi il lui arrive ni comment Léa va réagir.",
+          "start": 5447,
+          "end": 5669
+        }
+      ]
+    },
+    {
+      "pattern_id": "appeasement",
+      "article_id": "posts/sortir-de-ses-schemas-repetitifs/assujettissement-face-a-l-autorite-se-liberer",
+      "role": "direct",
+      "rationale": "Effacement de la préférence pour éviter une réaction hostile.",
+      "limits": "La scène n’établit pas que le professeur soit dangereux ; un risque réel nécessite des appuis adaptés.",
+      "source_body_sha256": "69a80a4fa1fcf8f80a181495e2fd338b0df9ffd657bcb9dd593980a7872dfcf5",
+      "evidence": [
+        {
+          "quote": "Une première manifestation, dans ce récit, est la difficulté à exprimer une préférence face au professeur. Mei prépare ses réponses en donnant beaucoup de poids à ce qu’elle imagine de ses attentes, sans que cela prouve un effacement total ou permanent. Mei, par exemple, accepte des corrections qu'elle juge absurdes sur ses dessins simplement parce que c'est le professeur qui les suggère. Elle étouffe son intuition artistique pour coller à une norme imposée, craignant qu'une contradiction ne déclenche une réaction hostile. Cela crée un décalage douloureux entre ce qu'elle ressent au fond d'elle et ce qu'elle montre au monde.",
+          "start": 2142,
+          "end": 2774
+        },
+        {
+          "quote": "Mei rapproche ce qu’elle ressent devant M. Dubois de scènes vécues au restaurant familial. Cela ne suffit pas à établir une parentification ni une colère refoulée. Quand une personne risque réellement une sanction, une intimidation ou une agression, se taire peut être une façon de se protéger ; il faut alors examiner la situation et les appuis possibles.",
+          "start": 1679,
+          "end": 2035
+        }
+      ]
+    },
+    {
+      "pattern_id": "relational_jealousy",
+      "article_id": "posts/comprendre-et-maitriser-ses-emotions/jalousie-en-situation-de-conflit-comprendre-agir",
+      "role": "direct",
+      "rationale": "Peur de perdre sa place, tentatives de contrôle et expression respectueuse sont développées.",
+      "limits": "Le ressenti ne justifie ni surveillance ni restriction de la liberté d’autrui.",
+      "source_body_sha256": "5009878851fc97455425d39752676fcad59610f424377dea79af675a55197945",
+      "evidence": [
+        {
+          "quote": "La jalousie peut apparaître quand on craint de perdre une relation importante au profit d’une autre personne. Dans [leurs études sur la jalousie et l’envie](https://pubmed.ncbi.nlm.nih.gov/8326472/), W. Gerrod Parrott et Richard Smith ont distingué cette crainte de l’envie, qui concerne davantage quelque chose que l’autre possède. Les deux peuvent se mêler : Léa peut redouter de perdre sa place et souhaiter l’aisance du nouvel étudiant.",
+          "start": 1343,
+          "end": 1783
+        },
+        {
+          "quote": "Elle explique simplement qu'elle a passé une matinée difficile et qu'elle a eu peur que leur complicité s'effrite avec l'arrivée de nouveaux étudiants dans leur cercle. Sa franchise semble surprendre Zoé, dont le visage s'adoucit instantanément. Ce moment de vérité ne règle pas tout en une seconde, mais il casse le cycle de la rancœur. Léa ne cherche plus à contrôler son amie ou à se protéger par la froideur. Elle accepte d'habiter sa propre place, avec ses doutes et sa force naissante, apprenant à naviguer dans les eaux parfois troubles de l'attachement sans s'y noyer.",
+          "start": 8191,
+          "end": 8767
+        }
+      ]
+    }
+  ],
+  "rejected_candidates": [
+    {
+      "pattern_id": "parentification",
+      "article_id": "posts/sortir-de-ses-schemas-repetitifs/assujettissement-face-a-l-autorite-se-liberer",
+      "role": "mention",
+      "decision": "do_not_add_this_pair",
+      "reason": "Le texte exclut explicitement de déduire une parentification de la scène d’assujettissement. Le rôle de Mei devant une autorité ne documente ni durée ni charge infantile excessive.",
+      "source_body_sha256": "69a80a4fa1fcf8f80a181495e2fd338b0df9ffd657bcb9dd593980a7872dfcf5",
+      "evidence": [
+        {
+          "quote": "Mei rapproche ce qu’elle ressent devant M. Dubois de scènes vécues au restaurant familial. Cela ne suffit pas à établir une parentification ni une colère refoulée. Quand une personne risque réellement une sanction, une intimidation ou une agression, se taire peut être une façon de se protéger ; il faut alors examiner la situation et les appuis possibles.",
+          "start": 1679,
+          "end": 2035
+        }
+      ]
+    },
+    {
+      "pattern_id": "emotional_suppression",
+      "article_id": "posts/sortir-de-ses-schemas-repetitifs/isolation-affect-conflit-comprendre-mecanisme",
+      "role": "mention",
+      "decision": "do_not_add_this_pair",
+      "reason": "L’émotion ressentie et cachée est distinguée du faible accès au ressenti. Un ton neutre ne permet pas de fusionner les deux repères ; emotional_detachment est retenu ici.",
+      "source_body_sha256": "9f24097862f1185cfe49586761fda9ea1b2dc28009ee0569634d5610a16d7bdf",
+      "evidence": [
+        {
+          "quote": "Cacher volontairement une émotion que l’on sent est une autre situation. Un ton neutre ne permet pas de trancher entre ces possibilités, et avoir momentanément l’impression de regarder la scène de l’extérieur n’établit pas un trouble dissociatif.",
+          "start": 1515,
+          "end": 1761
+        }
+      ]
+    },
+    {
+      "pattern_id": "intellectualization",
+      "article_id": "posts/reprendre-le-controle-de-ses-pensees/effet-dunning-kruger-decision-importante",
+      "role": "mention",
+      "decision": "do_not_add_this_pair",
+      "reason": "La recherche de certitude et les listes de risques n’apportent pas nécessairement une information sur le poste. L’usage de l’abstraction pour tenir un ressenti à distance n’est pas suffisamment établi pour ajouter ce couple.",
+      "source_body_sha256": "2e3a66b17a54b1c1d91d99f322825198ac4714c8ccf5a982537819506266efbb",
+      "evidence": [
+        {
+          "quote": "Savoir que les estimations de soi peuvent être imparfaites peut conduire Sophie à remettre tout son jugement en question. Une nouvelle analyse mentale n’apporte pas nécessairement une information sur le poste. Elle peut choisir une question adressée à une personne qui l’exerce, en gardant l’incertitude sur sa propre candidature.",
+          "start": 5155,
+          "end": 5485
+        }
+      ]
+    }
+  ],
+  "unlinked_pattern_ids_after_review": [],
+  "projection_after_build": {
+    "articles_with_pattern_ids": 173,
+    "article_pattern_pairs": 552,
+    "linked_pattern_ids": 161,
+    "meaning": "Au moins une association par repère, dont deux ajouts secondaires ; pas 161 traitements complets, ni une psychologie exhaustive."
+  },
+  "official_sources": [
+    {
+      "id": "apa_standards_2022",
+      "url": "https://www.apa.org/education-career/k12/national-standards",
+      "checked_on": "2026-11-07",
+      "scope": "Standards pédagogiques : cinq piliers, 17 unités et socle de méthodes."
+    },
+    {
+      "id": "nimh_rdoc_definitions",
+      "url": "https://www.nimh.nih.gov/research/research-funded-by-nimh/rdoc/definitions-of-the-rdoc-domains-and-constructs",
+      "checked_on": "2026-11-07",
+      "scope": "Cadre de recherche à six domaines, distinct des diagnostics."
+    },
+    {
+      "id": "who_icf",
+      "url": "https://www.who.int/standards/classifications/international-classification-of-functioning-disability-and-health",
+      "checked_on": "2026-11-07",
+      "scope": "Fonctionnement, activités, participation et environnement."
+    },
+    {
+      "id": "who_icf_beginners_2002",
+      "url": "https://cdn.who.int/media/docs/default-source/classification/icf/icfbeginnersguide.pdf?download=true&sfvrsn=eead63d3_4",
+      "checked_on": "2026-11-07",
+      "scope": "Guide officiel, pages imprimées 11–12 : capacité et performance."
+    }
+  ],
+  "external_open_gaps": [
+    {
+      "id": "apa_intelligence_measurement",
+      "framework": "APA",
+      "area": "Intelligence",
+      "official_source_id": "apa_standards_2022",
+      "official_target": "Évaluation de l’intelligence, validité et fiabilité des scores, difficultés d’interprétation (standards 2.2–2.3 et 3.1).",
+      "status": "direct_angle_not_found",
+      "open_angle": "Un récit qui distingue performance située, mesure standardisée des capacités cognitives et interprétation prudente du score.",
+      "corpus_evidence": [
+        {
+          "article_id": "posts/reprendre-le-controle-de-ses-pensees/effet-dunning-kruger-decision-importante",
+          "source_body_sha256": "2e3a66b17a54b1c1d91d99f322825198ac4714c8ccf5a982537819506266efbb",
+          "evidence": [
+            {
+              "quote": "Dans [leur étude de 1999](https://pubmed.ncbi.nlm.nih.gov/10626367/), Justin Kruger et David Dunning ont comparé des performances à des estimations faites par les participants après des tâches d’humour, de logique ou de grammaire. En moyenne, le groupe qui obtenait les scores les plus bas surestimait le plus son rang relatif. Les auteurs ont proposé que certaines compétences utiles à la tâche servent aussi à repérer ses erreurs. [Gignac et Zajenkowski](https://www.sciencedirect.com/science/article/pii/S0160289620300271) ont montré avec d’autres données que la façon de grouper et de comparer les scores peut produire une partie de ce motif ; l’explication reste discutée.",
+              "start": 2313,
+              "end": 2990
+            }
+          ],
+          "why_insufficient": "Compare performance et estimation subjective ; ne développe pas une mesure standardisée de l’intelligence."
+        }
+      ],
+      "next_step": "Prévoir un épisode consacré à la mesure et à ses limites, sans inférer intelligence ou HPI d’un métier ou d’une réussite.",
+      "search": {
+        "body_pattern": "psychométr|test.{0,15}intelligen|score.{0,15}intelligen|WAIS|WISC|fiabilité.{0,30}validité|validité.{0,30}fiabilité",
+        "matching_article_ids": [],
+        "interpretation": "Signal de recherche seulement ; les correspondances sont vérifiées par leur contenu, pas comptées comme traitement.",
+        "review_stage": "Après révision des corps ; les correspondances restent des signaux, les passages probants sont relus séparément."
+      }
+    },
+    {
+      "id": "apa_representative_sampling",
+      "framework": "APA",
+      "area": "Démarche scientifique et méthodes",
+      "official_source_id": "apa_standards_2022",
+      "official_target": "Importance d’échantillons représentatifs et de la réplication (2.3), conclusions adaptées aux plans corrélationnels et expérimentaux (4.2).",
+      "status": "direct_angle_not_found",
+      "open_angle": "Une décision reposant sur une enquête dont la sélection des participants change ce qu’on peut généraliser. Les limites d’un fil sélectionné et de la corrélation sont déjà développées chez Lucas.",
+      "corpus_evidence": [
+        {
+          "article_id": "posts/reprendre-le-controle-de-ses-pensees/effet-dunning-kruger-decision-importante",
+          "source_body_sha256": "2e3a66b17a54b1c1d91d99f322825198ac4714c8ccf5a982537819506266efbb",
+          "evidence": [
+            {
+              "quote": "Dans [leur étude de 1999](https://pubmed.ncbi.nlm.nih.gov/10626367/), Justin Kruger et David Dunning ont comparé des performances à des estimations faites par les participants après des tâches d’humour, de logique ou de grammaire. En moyenne, le groupe qui obtenait les scores les plus bas surestimait le plus son rang relatif. Les auteurs ont proposé que certaines compétences utiles à la tâche servent aussi à repérer ses erreurs. [Gignac et Zajenkowski](https://www.sciencedirect.com/science/article/pii/S0160289620300271) ont montré avec d’autres données que la façon de grouper et de comparer les scores peut produire une partie de ce motif ; l’explication reste discutée.",
+              "start": 2313,
+              "end": 2990
+            }
+          ],
+          "why_insufficient": "La discussion du regroupement des scores est présente ; elle ne développe pas la représentativité de la population étudiée."
+        },
+        {
+          "article_id": "posts/reprendre-le-controle-de-ses-pensees/correlation-illusoire-sur-les-reseaux-sociaux",
+          "source_body_sha256": "b74153db7585cb011eecc871ee40f63558a899bf2de3f8a0606dc0ade239cf87",
+          "evidence": [
+            {
+              "quote": "Un fil contient des images sélectionnées, pas une mesure commune du travail des personnes montrées. Lucas peut relier deux éléments parce qu’ils apparaissent ensemble dans une publication, sans disposer des observations nécessaires pour juger cette association.",
+              "start": 2448,
+              "end": 2709
+            }
+          ],
+          "why_insufficient": "La sélection des images et l’absence de mesure commune ou de comparaison sont directement discutées. L’angle encore ouvert concerne spécifiquement une enquête, ses participants et la population à laquelle on peut généraliser."
+        }
+      ],
+      "next_step": "Reprendre une enquête concrète, identifier qui a répondu et qui manque avant de généraliser. La présence de références expérimentales ne suffit pas à fermer cette lacune.",
+      "search": {
+        "body_pattern": "échantillon.{0,20}représent|biais de sélection|répartition aléatoire|groupe témoin|groupe.{0,15}comparaison",
+        "matching_article_ids": [
+          "posts/comprendre-et-maitriser-ses-emotions/salome-bienveillance-apres-interaction",
+          "posts/reprendre-le-controle-de-ses-pensees/eloi-expliquer-echec"
+        ],
+        "interpretation": "Signal de recherche seulement ; les correspondances sont vérifiées par leur contenu, pas comptées comme traitement.",
+        "review_stage": "Après révision des corps ; les correspondances restent des signaux, les passages probants sont relus séparément."
+      }
+    },
+    {
+      "id": "apa_memory_leading_question",
+      "framework": "APA",
+      "area": "Mémoire",
+      "official_source_id": "apa_standards_2022",
+      "official_target": "Mémoire comme processus reconstructif (Mémoire, 2.2). L’effet d’une question orientée est une inférence éditoriale à partir de cet objectif ; ce n’est pas un intitulé distinct des standards.",
+      "status": "source_uncertainty_present_leading_question_open",
+      "open_angle": "Observer l’effet d’une question orientée sur un souvenir ordinaire. L’incertitude sur l’origine d’un détail est déjà développée chez Odile et ne constitue plus une lacune retenue.",
+      "corpus_evidence": [
+        {
+          "article_id": "posts/reprendre-le-controle-de-ses-pensees/peak-end-rule-decision-importante",
+          "source_body_sha256": "a17ed8c4d344164a4aab6055ae81c9976c5d1ea521f7c6dea58d0622833b9171",
+          "evidence": [
+            {
+              "quote": "Utilité possible : Les souvenirs disponibles peuvent devenir plus variés sans que la frise prétende mesurer fidèlement trente-huit ans de vie.",
+              "start": 4369,
+              "end": 4511
+            }
+          ],
+          "why_insufficient": "La prudence sur le bilan reconstruit est déjà présente ; l’effet d’une question orientée ne fait pas l’objet de la scène."
+        },
+        {
+          "article_id": "posts/sortir-de-ses-schemas-repetitifs/refoulement-avec-ses-parents-causes",
+          "source_body_sha256": "55a6dd91d45025c85b5ad612c1990f90c44ecfc66a2c9bfe17454a01fb68b171",
+          "evidence": [
+            {
+              "quote": "Camille se souvient de certains moments de son adolescence et pas de tous leurs détails. Un souvenir flou n’établit ni un refoulement ni la cause de son mauvais sommeil. L’[American Psychological Association](https://www.apa.org/topics/trauma/memories) recommande la prudence devant les affirmations sur les souvenirs récupérés.",
+              "start": 2888,
+              "end": 3216
+            }
+          ],
+          "why_insufficient": "L’article écarte le souvenir flou comme preuve et les souvenirs récupérés ; il ne met pas en scène l’effet d’une question orientée sur un souvenir ordinaire."
+        },
+        {
+          "article_id": "posts/sortir-de-ses-schemas-repetitifs/odile-transmettre-souvenir-maniere",
+          "source_body_sha256": "d2d4cc172aa27034de0e5569f816de3b45598f5d0dbb8c6c3a49a27505394c48",
+          "evidence": [
+            {
+              "quote": "À un moment, Odile s’interrompt parce qu’un autre détail lui revient. Elle ne sait plus s’il appartient à ce voyage ou à une autre sortie. Elles le laissent hors du premier fichier et le notent séparément avec cette réserve. Lucie ne lui demande pas de choisir immédiatement. Odile apprécie ce droit à l’incertitude. Elle peut raconter sans se présenter comme une mémoire parfaitement fiable et sans entendre chaque hésitation comme une perte de compétence liée à son âge. Dans d’autres circonstances, une difficulté de mémoire qui inquiète mérite un avis médical ; cette conversation n’établit à elle seule ni problème de santé ni bilan cognitif.",
+              "start": 9549,
+              "end": 10196
+            }
+          ],
+          "why_insufficient": "La confusion possible entre deux sorties, la mise à part du détail incertain et le refus de conclure médicalement sont développés. Aucune question suggérant un contenu nouveau n’est mise à l’épreuve : seul cet angle précis reste ouvert."
+        }
+      ],
+      "next_step": "Une conversation ordinaire où une question contient un détail suggéré, puis distinction entre ce qui est rappelé et ce qui vient d’être proposé. Aucune recherche de souvenir caché ; ne pas demander à Odile de produire une mémoire exacte.",
+      "search": {
+        "body_pattern": "faux souvenir|reconstr.{0,25}souvenir|reconstr.{0,25}mémoire|mémoire.{0,25}reconstr|source.{0,15}souvenir|question.{0,12}orient|appartient à ce voyage",
+        "matching_article_ids": [
+          "posts/comprendre-et-maitriser-ses-emotions/eloi-motivation-interet",
+          "posts/comprendre-et-maitriser-ses-emotions/lison-faire-attendre-le-fournisseur",
+          "posts/comprendre-et-maitriser-ses-emotions/nils-ordre-des-bacs",
+          "posts/comprendre-et-maitriser-ses-emotions/nostalgie-avec-ses-enfants-syndrome-nid-vide",
+          "posts/reprendre-le-controle-de-ses-pensees/eloi-retour-apprentissage",
+          "posts/sortir-de-ses-schemas-repetitifs/malik-soutiens-plusieurs-cercles",
+          "posts/sortir-de-ses-schemas-repetitifs/odile-transmettre-souvenir-maniere",
+          "posts/sortir-de-ses-schemas-repetitifs/samira-demander-aides-droits"
+        ],
+        "interpretation": "Signal de recherche seulement ; les correspondances sont vérifiées par leur contenu, pas comptées comme traitement.",
+        "review_stage": "Après révision des corps ; les correspondances restent des signaux, les passages probants sont relus séparément."
+      }
+    },
+    {
+      "id": "rdoc_reward_prediction_error",
+      "framework": "RDoC",
+      "area": "Systèmes de valence positive — apprentissage de récompense",
+      "official_source_id": "nimh_rdoc_definitions",
+      "official_target": "Écart entre récompense anticipée et obtenue, et ajustement de l’apprentissage.",
+      "status": "direct_angle_not_found",
+      "open_angle": "Montrer séparément ce qui était attendu, le résultat meilleur ou moins bon que prévu et l’ajustement du choix suivant.",
+      "corpus_evidence": [
+        {
+          "article_id": "posts/reprendre-le-controle-de-ses-pensees/eloi-retour-apprentissage",
+          "source_body_sha256": "19a9492d119cbd9dfc239cc3b472386b570d54e58838320804cc90520a8954e3",
+          "evidence": [
+            {
+              "quote": "Un retour d'apprentissage est une information sur un travail ou une manière de faire, destinée à aider une personne à comprendre l'écart entre ce qu'elle produit et un objectif. Il peut venir d'un formateur, d'un collègue ou d'une comparaison avec un critère explicite. Pour être utilisable, il doit indiquer quelque chose que l'apprenant peut examiner ou modifier. Une appréciation globale ne remplit pas toujours cette fonction, même quand elle est prononcée avec une intention pédagogique.",
+              "start": 1197,
+              "end": 1689
+            }
+          ],
+          "why_insufficient": "Le retour d’exécution et l’apprentissage par observation sont développés ; ce n’est pas un traitement de la surprise de récompense."
+        },
+        {
+          "article_id": "posts/comprendre-et-maitriser-ses-emotions/gabin-message-au-dessert",
+          "source_body_sha256": "41efe16622b1a8eef5c6a93f72c782eff8d4e1b2a68f5a1691e223ace2e37f15",
+          "evidence": [
+            {
+              "quote": "Il retourne le téléphone sur la table. Nora lui demande si l’atelier a répondu. Il dit qu’il n’a pas regardé et reprend sa cuillère. Il sait encore où la notification s’afficherait s’il rallumait l’écran. L’idée de retourner voir le message lui prend une partie de ce qu’elle vient de lui dire. Il lui demande de répéter le nom de la personne qui cherchait des plats. Nora le lui redonne. Cette fois, il l’écrit sur le carton du dessert.",
+              "start": 461,
+              "end": 898
+            }
+          ],
+          "why_insufficient": "Une sollicitation de jeu capte l’attention ; elle ne mesure ni n’explique une erreur de prédiction de récompense."
+        }
+      ],
+      "next_step": "Une activité ordinaire avec attentes, résultat et décision suivante. Garder RDoC comme grille de recherche ; un récit n’atteste pas une activité neuronale.",
+      "search": {
+        "body_pattern": "erreur.{0,12}prédiction|récompense.{0,25}attend|attend.{0,25}récompense|satiété|rassasiement",
+        "matching_article_ids": [],
+        "interpretation": "Signal de recherche seulement ; les correspondances sont vérifiées par leur contenu, pas comptées comme traitement.",
+        "review_stage": "Après révision des corps ; les correspondances restent des signaux, les passages probants sont relus séparément."
+      }
+    },
+    {
+      "id": "icf_capacity_performance",
+      "framework": "CIF",
+      "area": "Activités/participation — capacité et performance",
+      "official_source_id": "who_icf_beginners_2002",
+      "official_target": "Différencier l’aptitude à une tâche dans un environnement défini et ce qui est effectivement réalisé dans l’environnement actuel (pages imprimées 11–12).",
+      "status": "functional_examples_present_formal_distinction_open",
+      "open_angle": "Expliquer la différence entre capacité évaluée et performance quotidienne, avec le rôle des soutiens et obstacles.",
+      "corpus_evidence": [
+        {
+          "article_id": "posts/sortir-de-ses-schemas-repetitifs/anais-amenagement-travail",
+          "source_body_sha256": "7059320bf71c9d4ced2ff992413d70305a3a419fad00a6f8f6356251c616b620",
+          "evidence": [
+            {
+              "quote": "Un aménagement du travail lié à la santé est une adaptation des conditions d'exercice destinée à tenir compte de la situation d'une personne, dans un cadre évalué et approprié. Il peut concerner le matériel, l'installation, certaines modalités d'organisation ou d'autres conditions du poste. Sa forme ne se déduit pas d'un diagnostic isolé et ne se choisit pas uniquement à partir d'une préférence personnelle.",
+              "start": 1280,
+              "end": 1690
+            }
+          ],
+          "why_insufficient": "Le retentissement et l’aménagement sont directement traités. Il manque l’explication explicite du couple capacité/performance au sens de la CIF."
+        }
+      ],
+      "next_step": "Compléter un épisode de fonctionnement déjà concret avec cette distinction. Aucun score CIF individuel ni évaluation automatique à partir d’un récit.",
+      "search": {
+        "body_pattern": "capacité.{0,30}performance|performance.{0,30}capacité|environnement standard|qualificateur",
+        "matching_article_ids": [
+          "posts/reprendre-le-controle-de-ses-pensees/biais-attribution-fondamentale-ecole"
+        ],
+        "interpretation": "Signal de recherche seulement ; les correspondances sont vérifiées par leur contenu, pas comptées comme traitement.",
+        "review_stage": "Après révision des corps ; les correspondances restent des signaux, les passages probants sont relus séparément."
+      }
+    }
+  ],
+  "audit_updates_for_parent": [
+    {
+      "area": "APA — apprentissage par observation",
+      "old_open_question": "Ajouter un apprentissage par observation et une scène de transfert.",
+      "current_finding": "La première partie est désormais explicitement développée dans Éloi ; la question du transfert est déjà nuancée selon la tâche et le matériel. Ne plus présenter l’apprentissage par observation comme absent.",
+      "evidence": {
+        "article_id": "posts/reprendre-le-controle-de-ses-pensees/eloi-retour-apprentissage",
+        "source_body_sha256": "19a9492d119cbd9dfc239cc3b472386b570d54e58838320804cc90520a8954e3",
+        "evidence": [
+          {
+            "quote": "Au foyer, Nora lui demande qui lui montre une manière respectueuse de poser une question. Il pense à une collègue qui annonce clairement ce qu'elle sait et ce qu'elle doit confirmer. L'apprentissage par observation concerne aussi cette parole. Éloi peut choisir des modèles différents pour des compétences différentes, sans idéaliser une personne entière. Il peut apprendre le geste de Cédric et une manière de demander auprès d'une autre collègue.",
+            "start": 6060,
+            "end": 6508
+          },
+          {
+            "quote": "Il conserve une note courte sur le repère validé, sans remplacer les documents professionnels ni prendre d'image d'une personne sans son accord. Au prochain essai, il regarde si ce repère l'aide encore. Le modèle de Barry Zimmerman décrit ce cycle de préparation, d'observation et de bilan. Ici, Éloi le fait avec les validations prévues en cuisine. Si la tâche ou le matériel change, il demande ce qui reste valable. Apprendre implique aussi de connaître les limites d'une méthode, plutôt que de transférer automatiquement un geste à toutes les situations.",
+            "start": 8755,
+            "end": 9312
+          }
+        ],
+        "why_insufficient": "Ce récit fournit une présence positive, sans revendiquer une couverture complète de toutes les formes de transfert."
+      }
+    },
+    {
+      "area": "APA/CIF — apprentissage, trouble et participation",
+      "current_finding": "Célian reproduit une démonstration puis bute sur la lecture devant le groupe. Cette scène apporte un appui secondaire distinct de l’explication principale sur la dyslexie.",
+      "evidence": {
+        "article_id": "posts/comprendre-et-maitriser-ses-emotions/celian-fiche-et-spatule",
+        "source_body_sha256": "c57e6ae92b0dff98c9bc8633bdd3a03e088b5474ec6ce6a96da0d08950ac87eb",
+        "evidence": [
+          {
+            "quote": "Célian regarde Aïcha enfoncer la spatule jusqu’au fond du saladier, puis relever juste le poignet. La préparation revient sur elle-même. Elle repasse près du bord, là où lui aurait recommencé au milieu. Il attend qu’elle pose la spatule et fait le geste dans le vide, les doigts serrés sur un manche imaginaire. Maxime s’en aperçoit. Il fait mine de lui tendre un saladier invisible. Célian lui rend le poids du récipient d’un coup sec et tous les deux éclatent de rire.",
+            "start": 2,
+            "end": 472
+          }
+        ],
+        "why_insufficient": "Ne suffit pas seul à dire que toute l’unité apprentissage est développée."
+      }
+    }
+  ],
+  "post_revision": {
+    "reviewed_on": "2026-11-07",
+    "status": "final_bodies_reread",
+    "articles": 1143,
+    "characters": 96,
+    "patterns": 161,
+    "articles_with_pattern_ids": 173,
+    "article_pattern_pairs": 552,
+    "linked_pattern_ids": 161,
+    "reviewed_links": 19,
+    "direct_links": 17,
+    "secondary_links": 2,
+    "reviewed_link_evidence_quotes": 39,
+    "evidence_location": "Les champs links[].source_body_sha256 et links[].evidence[].{quote,start,end} contiennent les preuves finales relues ; les candidats rejetés, cinq angles externes et deux constats positifs ont également été relus et rafraîchis.",
+    "hash_method": "SHA256 du corps brut Markdown : texte.split(\"---\", 2)[2], sans strip ; offsets en caractères Python dans ce même corps.",
+    "quote_replacements": [
+      "rationalization : justification et inquiétude réelle peuvent coexister, selon la formulation finale de Priya",
+      "appeasement : formulation finale de la préférence de Mei et de l’anticipation de l’autorité",
+      "emotional_detachment : définition développée et distinction d’avec intellectualisation/suppression/dissociation",
+      "candidat intellectualization/Dunning-Kruger : nouvelle formulation de la recherche de certitude",
+      "angle mémoire : nouvelle utilité de la frise chez Monique et détail de source incertaine chez Odile"
+    ],
+    "external_open_angles": 5,
+    "memory_correction": "Source du détail incertaine déjà développée chez Odile ; seul l’effet d’une question orientée est retenu comme angle mémoire encore ouvert.",
+    "baseline_preserved": "1095 articles/92 personnages décrivent uniquement l’état historique avant révision et quatre nouveaux arcs.",
+    "meaning": "552 associations à 161 repères internes, dont 19 nouvelles liaisons vérifiées. Une association directe ne certifie pas un traitement complet ; aucune exhaustivité de la psychologie, de l’APA, du RDoC ou de la CIF n’est revendiquée.",
+    "generated_metadata": "Reconstruction par le parent prévue après ce gel ; aucun fichier généré réécrit dans cette mission.",
+    "validation": {
+      "body_hashes_and_offsets": "54 citations vérifiées sur les corps finaux, dont 39 citations pour les 19 liens",
+      "in_memory_build": {
+        "articles": 1143,
+        "characters": 96,
+        "articles_with_pattern_ids": 173,
+        "article_pattern_pairs": 552,
+        "linked_pattern_ids": 161,
+        "written_generated_files": 0
+      },
+      "scoped_diff_check": "passed"
+    }
+  }
+}

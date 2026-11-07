@@ -20,59 +20,70 @@ Elle se rappelle le vent et le plan qu’ils ont déplié contre une portière. 
 Elle pose le tirage à côté du carnet où elle avait copié la phrase de Jean-Claude en mars. « Si seulement on avait commencé plus tôt… » Il manque toujours la date sur ce papier-là. Au dos de la photo, elle retrouve la sienne, écrite sans autre commentaire. Elle prépare une page pour ce qu’elle se rappelle du voyage. Avant d’y ajouter ce qu’elle sait aujourd’hui, elle glisse un morceau de papier sous le tirage pour pouvoir le retourner facilement.
 
 ## Définition du biais rétrospectif
-
 Le biais rétrospectif consiste à juger une issue plus prévisible une fois qu’on la connaît. Dans son [expérience de 1975](https://pubmed.ncbi.nlm.nih.gov/12897366/), Baruch Fischhoff a montré que connaître l’issue modifiait les jugements sur la probabilité d’événements. Ce résultat ne dit pas que l’on préfère forcément ses anciens souvenirs à sa vie actuelle.
 
 Pour Monique, la distinction est concrète. « Ce séjour était parfait » peut exprimer la nostalgie. « J’aurais dû savoir que Jean-Claude était déjà malade » fait intervenir ce qu’elle a appris plus tard. Voir un signe après coup ne signifie pas qu’il était clair, ni qu’une action aurait changé l’issue.
 
 ## Quand le deuil change le regard sur le passé
-
 ### 1. L’idéalisation du passé est une autre question
-
 La photo ramène d’abord à Monique les moments heureux ; elle pense moins à la dispute du même soir. La nostalgie et la sélection des souvenirs sont distinctes du jugement sur ce qu’elle aurait pu prévoir.
 
 Concrètement, cela signifie que les moments négatifs sont moins accessibles, ou bien ils sont réinterprétés comme mineurs. Pour quelqu'un en deuil, cette idéalisation peut servir à maintenir un lien sécurisant avec la personne perdue, mais elle complique la possibilité d'avancer dans une nouvelle relation.
 
-### 2. Surévaluation de la prévisibilité et culpabilité rétroactive
+Exemples concrets :
+- La photo de Bretagne ramène un moment heureux alors que Monique se souvient aussi du désaccord sur le trajet.
+- Ne pas retrouver d’emblée la dispute ne lui apprend pas ce qu’elle pouvait prévoir de la maladie.
 
+### 2. Surévaluation de la prévisibilité et culpabilité rétroactive
 Après une rupture ou une perte, il est fréquent de se dire que l'on aurait dû voir venir les choses, même en l'absence d'indices clairs. Chez Monique, cela prend la forme d'une culpabilité générationnelle : elle se reproche de ne pas avoir anticipé la détérioration des petits signes. Ce sentiment est amplifié par le biais rétrospectif qui transforme des événements ambigus en signes évidents après coup.
 
 Cette surévaluation de la prévisibilité peut conduire à des ruminations et à une hyper-responsabilisation. Les personnes croient à tort qu'elles auraient pu empêcher l'issue, ce qui intensifie la douleur et freine l'engagement futur, comme son hésitation face à Jacques.
 
-### 3. Comparaison biaisée entre passé et présent
+Exemples concrets :
+- Depuis qu’elle connaît la suite, Monique examine la main de Jean-Claude comme si le signe avait été clair à l’époque.
+- La date au dos du tirage situe le voyage sans montrer ce qu’ils savaient de sa santé ce jour-là.
 
+### 3. Comparaison biaisée entre passé et présent
 Monique compare parfois une scène de vacances heureuse aux incertitudes d’aujourd’hui. Elle peut apprécier le souvenir sans lui demander de décider si elle veut vivre avec Jacques.
 
 Cette comparaison faussée conforte la résistance au changement et justifie des décisions conservatrices, comme s'obstiner à rester seule pour respecter le passé, alors que ce choix peut répondre davantage à un biais cognitif qu'à une vérité émotionnelle.
 
+Exemples concrets :
+- Une image de vacances ne montre pas les jours ordinaires que Monique veut examiner avec Jacques.
+- Elle peut garder la photo et vérifier le train du samedi sans demander au souvenir de décider si elle souhaite vendre sa maison.
+
 ## Techniques pour réévaluer ses souvenirs
-
 ### 1. Journal de faits datés et vérifiables
+Objectif : Situer ce qui était connu au moment du souvenir.
 
-L'objectif est de contrer la reconstruction globale en ancrant les souvenirs dans des éléments concrets.
+Exercice pratique :
+- Noter la date présente au dos de la photo et les éléments du voyage dont Monique se souvient.
+- Placer à part les informations apprises après le séjour.
+- Laisser vide ce qui ne peut pas être retrouvé au lieu de rendre un verdict sur ce qui aurait dû être su.
 
-Si vous souhaitez revenir sur un événement précis, vous pouvez séparer ce que vous saviez à l’époque et ce que vous avez appris plus tard. Une date sur une photo peut aider à situer la scène. Il n’est pas nécessaire de retrouver des paroles exactes ni de rendre un verdict sur les souvenirs.
+Utilité possible : La chronologie peut soutenir une distinction sans rendre la mémoire complète ou parfaitement vérifiable.
 
-Pour Monique, cela reprend la pratique d'écriture qu'elle a utilisée après sa visite chez le notaire. Elle transforme son récit intime en une liste de faits, ce qui rend la nostalgie plus nuancée et moins toute-puissante.
+### 2. Les questions restées ouvertes
+Objectif : Faire apparaître une question sans fabriquer une autre histoire médicale.
 
-### 2. Écriture contrefactuelle guidée
+Exercice pratique :
+- Choisir une conclusion apparue après coup, comme « j’aurais dû comprendre ».
+- Noter quelles informations de l’époque la soutenaient réellement et lesquelles manquent.
+- Garder la question ouverte ou la porter à un professionnel si elle concerne les soins, sans imaginer les pensées cachées de Jean-Claude.
 
-L'objectif est de remettre en question la nécessité des événements passés en explorant d'autres scénarios plausibles.
+Utilité possible : La note peut éviter une explication inventée qui ajouterait de la certitude au lieu d’en retirer.
 
-L'exercice consiste à écrire deux paragraphes pour un souvenir clé. Le premier paragraphe raconte le souvenir tel qu'il est perçu aujourd'hui, en adoptant le récit automatique. Le second paragraphe imagine trois alternatives crédibles qui auraient pu se produire à ce moment-là et explique pourquoi ces variantes n'impliquent pas nécessairement une faiblesse personnelle. Par exemple, au lieu de se dire qu'elle aurait dû remarquer que Jean-Claude allait mal, elle peut écrire qu'il est possible qu'il ait caché son malaise pour protéger la famille, ou que le contexte médical ait été trompeur.
+### 3. Un repère partagé avec un proche
+Objectif : Demander un repère à un proche sans le nommer arbitre du souvenir.
 
-Cet exercice aide à réduire la culpabilité rétroactive en montrant qu'il existe souvent plusieurs lectures d'un même événement. C'est une technique que Monique, férue de lettres et de textes, peut aborder comme un travail d'analyse littéraire appliqué à sa vie.
+Exercice pratique :
+- Vérifier qu’Isabelle ou Geneviève est disponible pour parler d’un point limité du voyage.
+- Demander une date ou un détail dont elle se souvient, en distinguant les versions.
+- Conserver les différences et incertitudes sans demander à la proche de dire quel récit personnel est vrai.
 
-### 3. Expérience de réalité contrôlée avec témoin neutre
-
-L'objectif est de confronter la mémoire à un point de vue externe pour détecter les réécritures.
-
-Il s'agit de choisir une personne de confiance, un ami ou un membre de la famille qui n'est pas impliqué émotionnellement dans la rupture, et de lui demander de relire certains extraits du journal de faits datés. On invite cette personne à indiquer les éléments qui semblent amplifiés, ceux qui manquent, ou ceux qui sont interprétés. Si la personne n'est pas disponible, on compare son récit avec des documents objectifs comme des relevés, des photos prises à la date ou des messages écrits.
-
-Pour Monique, cela peut être sa fille Isabelle ou sa voisine Geneviève, selon l'épisode. Elle doit toutefois se prémunir contre les jugements hâtifs car l'objectif n'est pas de valider une version bonne ou mauvaise, mais d'identifier les distorsions.
+Utilité possible : L’échange peut apporter un élément ou une autre mémoire sans transformer la relation en contrôle de réalité.
 
 ## Au dos du tirage
-
 Elle écrit la date, le nom du village dont Isabelle lui a parlé et deux choses dont elle est sûre. À part, elle note ce qu’elle a appris plus tard. Il manque une information entre les deux colonnes. Elle laisse cet endroit vide.
 
 Jacques demande à quelle heure elle viendra samedi. Elle lui répond qu’elle doit encore vérifier le train. Elle replace la photographie dans l’enveloppe, avec celle où ils avaient raté le cadrage. Elle ne choisit pas aujourd’hui ce que ces photos disent de sa maison.

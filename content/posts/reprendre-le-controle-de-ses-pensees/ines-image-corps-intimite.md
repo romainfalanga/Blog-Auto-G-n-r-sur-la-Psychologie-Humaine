@@ -39,17 +39,23 @@ La photo choisit un instant, un cadrage et une distance. Inès la traite pourtan
 
 Sa décision de ne pas publier l’image peut rester valable même après cette distinction. Il n’est pas nécessaire de s’exposer pour démontrer une meilleure confiance. Inès peut également souhaiter un souvenir de cette journée sans garder cette photo précise. Le travail sur l’image du corps ne consiste pas à accepter toutes les images, tous les commentaires ni toutes les formes de visibilité. Il vise une marge de choix plus grande autour de ce qu’elle veut vivre.
 
+La même généralisation apparaît lorsqu’un détail de la photo devient, dans le tram, une prédiction sur le regard de Clara dans leur chambre.
+
 ### Devenir la spectatrice de ses propres gestes
 
 Lorsque Clara l’enlace, Inès calcule la position de son ventre et la tension du tissu. Elle ne pense plus beaucoup à la pression agréable du bras contre son dos. Cette surveillance ressemble à la vérification d’un spectacle que personne ne lui demande de jouer. Plus elle veut contrôler l’impression donnée, moins elle dispose d’attention pour reconnaître si la proximité lui convient et quelle forme elle préfère.
 
 La réponse n’est pas de se forcer à oublier son apparence. Chasser une pensée peut elle-même devenir une tâche supplémentaire. Inès peut noter qu’une évaluation est là, puis choisir un élément présent : un point de contact, la texture de son pull, le désir de bouger ou de s’écarter. Cette orientation reste volontaire. Si prêter attention au corps devient désagréable ou accablant, elle peut choisir un repère extérieur et interrompre l’exercice.
 
+Le choix d’une posture imaginée dans le tram et le calcul de l’angle de ses bras pendant l’étreinte sont deux moments où Inès observe sa présentation plutôt que son envie.
+
 ### Demander une certitude qu’aucun compliment ne garantit
 
 Inès envisage de demander à Clara si elle trouve son ventre différent. Un compliment pourrait lui faire plaisir. Il ne garantirait pas qu’elle ne reposera plus la question cinq minutes après. Elle peut avoir besoin d’affection, mais aussi chercher une certitude impossible sur tous les regards futurs. Ces deux demandes ne sont pas identiques. Les distinguer lui permet de recevoir une attention sans faire de Clara une examinatrice permanente de son apparence.
 
 Clara peut dire qu’elle aime être près d’elle, sans discuter chaque détail comme un défaut à réfuter. Inès peut préciser ce qui l’aide : entendre une parole chaleureuse, choisir ses vêtements ou éviter les commentaires comparatifs. Si un commentaire réel la blesse, elle peut en parler directement. Il ne serait pas juste de renvoyer toute difficulté à sa seule interprétation. Les faits du lien restent importants, même lorsqu’une inquiétude intérieure joue un rôle.
+
+À côté de la question sur son ventre, elle pourrait demander plusieurs fois si le vêtement cache assez ses bras ; chaque réponse porterait encore sur un détail à vérifier.
 
 ## Revenir à ce que le corps perçoit
 

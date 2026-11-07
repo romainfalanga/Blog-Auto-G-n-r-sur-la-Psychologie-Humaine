@@ -39,17 +39,23 @@ Inès entend parfois « tu ne veux pas de moi » derrière la déception de Clar
 
 Elles peuvent vérifier ces interprétations sans promettre que tout désir reviendra exactement comme avant. « Quand tu dis que nos rythmes diffèrent, est-ce que tu parles de tristesse, de doute ou d’une demande concrète ? » Cette question ralentit le passage entre une situation et un jugement global. Elle laisse aussi la place à une vraie difficulté relationnelle si elle existe. La nuance ne sert pas à écarter une souffrance, mais à savoir de quoi parler.
 
+Au cinéma, un refus de rentrer devient ainsi une question sur les trois années du couple ; à la maison, une initiative absente peut être lue comme un défaut d’attirance.
+
 ### Éviter toute tendresse pour éviter la suite
 
 Dans l’appartement, Inès remarque qu’elle raccourcit certains gestes affectueux. Elle redoute qu’un baiser soit compris comme l’annonce de davantage. Clara, qui reçoit moins de proximité, se demande alors si elle doit proposer plus souvent pour maintenir le lien. Ce fonctionnement peut alimenter leur malaise, mais il reste une hypothèse à vérifier avec elles. Un comportement semblable pourrait également correspondre à une préférence ou à une fatigue temporaire.
 
 Inès ne doit pas accepter une tendresse qu’elle ne souhaite pas pour rassurer Clara. Elle peut néanmoins préciser celle qu’elle choisit : « J’ai envie de rester contre toi pendant le film, sans aller plus loin. » La précision permet à Clara de répondre à une proposition réelle. Une affection choisie retrouve ainsi sa valeur propre, au lieu de servir d’étape supposée dans un parcours dont la fin serait déjà écrite.
 
+Autre exemple possible pendant leur marche : Inès pourrait retirer sa main, pourtant bien accueillie, uniquement pour éviter qu’elle annonce une proximité supplémentaire.
+
 ### Compter les occasions plutôt que décrire les expériences
 
 Le dimanche, Clara commence par évoquer les semaines écoulées. Inès se met à chercher des contre-exemples dans sa mémoire. Elles risquent de produire un inventaire où chaque souvenir devient une pièce à conviction. Même si des repères temporels peuvent être utiles, cette comptabilité ne leur apprend pas forcément ce qui rend un moment agréable, ce qui le freine ou ce qu’elles voudraient préserver.
 
 Inès change de question : « Dans les moments que tu aimerais retrouver, qu’est-ce qui te manque le plus ? » Clara parle d’un départ spontané en promenade et d’un sentiment d’attention réciproque. La réponse n’épuise pas la question sexuelle, mais elle donne une texture à son attente. Inès peut alors dire ce qui lui manque à elle : du temps sans tâche suivante et la certitude qu’un arrêt sera simple, même après un début agréable.
+
+La comparaison pourrait porter sur le nombre de propositions de Clara, puis sur le nombre d’initiatives d’Inès ; ces deux inventaires laisseraient encore de côté le vécu de chaque moment.
 
 ## Parler du désir à distance du moment
 

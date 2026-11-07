@@ -39,17 +39,32 @@ La première réponse de Salomé parle de la diversité des parcours. Elle souha
 
 Elle peut corriger la trajectoire sans se reprocher de ne pas réussir du premier coup. Une phrase ultérieure reste valable : « Je ne souhaite pas en parler. » Elle ne doit pas continuer parce qu’elle commence à répondre. Un échange peut changer de périmètre dès qu’une personne précise son choix. Ce point rejoint sa manière de gérer les présentations publiques : choisir une information n’engage pas à accepter toutes les questions qui suivent.
 
+Deux exemples dans cette situation :
+
+- Salomé explique que les parcours sont divers, et le visiteur reprend aussitôt sa question sur sa propre vie amoureuse.
+- Le stylo reste au-dessus de la fiche tandis qu’elle cherche une nouvelle réponse générale plutôt que dire ce qu’elle souhaite garder privé.
+
 ### Chercher une raison que l’autre ne pourrait pas discuter
 
 Salomé imagine annoncer qu’elle ne dispose pas de temps, puis craint qu’on lui propose de parler à la fin du rendez-vous. Elle pourrait évoquer sa fatigue, mais cela ne décrit pas vraiment le sujet. Elle veut garder cette information privée. Chercher une raison incontestable risque de transformer chaque refus en problème à résoudre. Le visiteur pourrait répondre à l’obstacle annoncé sans comprendre la préférence qui reste derrière.
 
 Elle peut donc nommer la limite plutôt qu’un empêchement. Cela ne lui interdit pas de donner du contexte si elle le souhaite. Elle peut dire que le rendez-vous concerne l’instrument et qu’elle garde certains sujets hors de ses échanges professionnels. Elle n’a cependant pas à obtenir l’accord du visiteur sur cette philosophie avant qu’il arrête de poser la question. La consigne pratique reste assez simple pour être comprise sans débat.
 
+Deux exemples dans cette situation :
+
+- Si elle invoque seulement le temps disponible, le visiteur peut proposer d’attendre la fin du rendez-vous alors que le sujet reste fermé.
+- Elle prépare une explication sur la fatigue, puis remarque qu’elle ne souhaite pas répondre même un jour où elle serait reposée.
+
 ### S’occuper immédiatement de la gêne provoquée par le refus
 
 Lorsque le visiteur explique qu’il ne veut pas la mettre mal à l’aise, Salomé ressent l’envie de rassurer longuement. Elle pourrait alors raconter un détail pour montrer qu’elle ne lui en veut pas. Le sujet privé reviendrait dans l’échange au moment même où elle essaie de le fermer. Elle peut reconnaître l’intention annoncée sans offrir une confidence comme preuve d’absence de rancune.
 
 Une gêne brève peut accompagner la correction d’un cadre. Elle ne signifie pas que la limite est trop dure. Salomé peut rester polie, laisser quelques secondes et reprendre la fiche de réception. Le visiteur garde la possibilité de s’excuser ou de passer à la suite. Si toute gêne doit être effacée par la personne qui pose une limite, celle-ci dispose de moins de place pour protéger le contenu qu’elle souhaite garder.
+
+Deux exemples dans cette situation :
+
+- Quand le visiteur dit ne pas vouloir la gêner, elle a envie d’offrir un petit détail intime pour le rassurer.
+- Elle pourrait multiplier les plaisanteries après son refus et remettre elle-même le sujet au centre pour réparer quelques secondes de silence.
 
 ## Trois techniques pour interrompre un sujet sans s’y enfermer
 
@@ -61,6 +76,12 @@ Elle choisit un ton qu’elle peut tenir, sans chercher une douceur parfaite. «
 
 Pour adapter cette piste, préparez le retour au but réel : un achat, une activité, une tâche ou une conversation commune. Vous pouvez dire que vous ne souhaitez pas répondre puis poser une question sur ce sujet. Cela ne signifie pas que vous devez maintenir toute relation après une intrusion. Le retour offre une possibilité dans un contexte assez sûr. Vous pouvez choisir d’interrompre entièrement l’échange si les conditions ne vous conviennent plus.
 
+Pour passer à une action limitée :
+
+1. Nommez simplement le sujet que vous souhaitez garder privé.
+2. Indiquez le sujet professionnel qui reste ouvert, comme l’examen de l’instrument.
+3. Reprenez une question de la fiche si poursuivre vous convient ; sinon, choisissez une pause ou une fin d’échange.
+
 ### 2. Répéter la limite sans enrichir le dossier
 
 À la phrase sur la bonne intention, Salomé répond qu’elle l’entend et ne souhaite toujours pas répondre. Elle ne produit pas de nouvel argument. Cette répétition n’est pas une technique pour gagner un duel verbal. Elle évite seulement que chaque relance obtienne un fragment supplémentaire de l’information refusée. Le visiteur peut désormais choisir de respecter la limite sans attendre d’avoir compris toutes les raisons personnelles.
@@ -69,6 +90,12 @@ Salomé remarque qu’elle n’a pas à reformuler indéfiniment. Si l’insista
 
 Vous pouvez préparer une deuxième formulation aussi courte que la première. Évitez d’y ajouter un détail privé uniquement pour rendre la limite plus crédible. Si vous choisissez librement de donner une raison, ce choix reste valable ; l’exercice n’impose pas le silence. Il vise surtout à conserver la distinction entre expliquer par envie et expliquer parce que le refus semble suspendu à la qualité du récit.
 
+Pour passer à une action limitée :
+
+1. Choisissez une deuxième phrase aussi brève que la première.
+2. À une relance, reprenez la limite sans ajouter de détail pour la rendre crédible.
+3. Si l’insistance continue, cessez de chercher une meilleure formulation et choisissez la suite accessible dans ce contexte.
+
 ### 3. Définir une suite pratique si la curiosité insiste
 
 Avec Gaspard, Salomé discute ensuite d’un principe simple pour l’atelier : lorsqu’un rendez-vous devient intrusif, chacun peut demander un relais ou suspendre l’échange. Elle précise ce qu’elle souhaite de son collègue. Un retour au sujet professionnel peut l’aider ; une présentation publique de son identité à sa place ne l’aide pas. Gaspard n’a pas à devenir son porte-parole permanent, mais peut soutenir un cadre commun de respect.
@@ -76,6 +103,12 @@ Avec Gaspard, Salomé discute ensuite d’un principe simple pour l’atelier : 
 Elle identifie aussi ce qui justifierait de revoir la relation professionnelle : questions répétées après un refus, remarques dévalorisantes ou pression sur la commande. Les faits seraient notés brièvement si nécessaire, sans construire une surveillance de chaque client. Un cadre utile doit être simple à utiliser. Il ne doit pas demander à Salomé de se préparer à toutes les intrusions imaginables avant d’ouvrir la porte chaque jour.
 
 Dans votre contexte, la suite peut être un changement de sujet, une pause, un départ ou un recours à une personne responsable. Choisissez ce qui est accessible et proportionné. Une limite ne devient pas moins valable si vous manquez de moyens pour la faire respecter immédiatement. Chercher du soutien permet parfois de déplacer la responsabilité vers l’environnement, au lieu de demander toujours une formulation plus efficace à la personne interrogée.
+
+Pour passer à une action limitée :
+
+1. Identifiez les comportements qui justifieraient un relais : répétition, pression ou remarque dévalorisante.
+2. Convenez avec Gaspard de l’aide souhaitée sans l’autoriser à raconter votre parcours.
+3. Si cela se produit, demandez le relais ou suspendez l’échange selon vos moyens, puis réévaluez les conditions du rendez-vous.
 
 ## La conversation revient à l’instrument
 

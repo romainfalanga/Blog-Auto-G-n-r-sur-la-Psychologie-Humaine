@@ -34,27 +34,66 @@ Paul Gilbert a étudié des liens entre la honte et le rang social perçu. Ces o
 
 Mei retourne sa planche avant qu’Océane puisse lire l’annotation. Ce geste lui évite d’en parler sur-le-champ, alors que les autres sont encore dans l’atelier. Il ne dit pas ce qu’elle pourra faire plus tard ni ce qu’elle ressent devant tous ses professeurs.
 
+Deux exemples dans cet épisode :
+
+- Mei retourne sa planche quand Océane revient prendre son stylet.
+- Elle dit avoir encore du rangement pour attendre que l’atelier se vide avant de rouvrir son carton.
+
 ### La paralysie cognitive et le bafouillage
 
 Sous pression, Mei perd le fil, bafouille ou répond trop vite. Cela décrit ce qu’elle vit ; les mêmes signes peuvent avoir d’autres causes et ne démontrent pas un blocage cérébral.
+
+Deux exemples dans cet épisode :
+
+- Au moment de poser une question, elle pourrait répondre trop vite qu’elle va tout reprendre sans préciser ce que le point d’interrogation signifie.
+- Elle prépare plusieurs formulations devant le panneau des horaires mais risque de perdre la question concrète sur le contour.
 
 ### L'autocritique préventive et brutale
 
 Mei est tentée de résumer sa planche à son défaut le plus visible. Elle aurait alors une réponse prête si M. Dubois lui faisait un reproche. C’est une des réactions possibles à la honte. Le point d’interrogation ne suffit pas à savoir ce qu’il pense du dessin.
 
+Deux exemples dans cet épisode :
+
+- Elle pourrait présenter toute sa série comme ratée à partir d’un seul cercle sur la planche.
+- Elle s’apprête à durcir le trait sur toute la longueur pour anticiper un reproche qui n’a pas encore été formulé.
+
 ## Techniques pour agir face à la honte
 
 ### 1. La technique du témoin compatissant
 
-Cette méthode consiste à observer l'émotion sans s'y identifier, en utilisant un dialogue interne bienveillant pour briser le cycle de l'autocritique. Au lieu de se dire que l'on est nulle d'avoir peur, il est préférable de nommer l'émotion comme un phénomène extérieur : une partie de moi ressent de la honte en ce moment parce qu'elle cherche à me protéger d'un rejet. Imaginez que vous parlez à une version plus jeune de vous-même qui a eu peur de ses parents ou de ses professeurs par le passé. En devenant votre propre témoin compatissant, vous créez une distance de sécurité entre votre identité et l'émotion brute.
+Mei peut décrire ce qu’elle vit sans reprendre un jugement global sur elle-même : « Cette annotation me donne envie de cacher ma planche. Je peux chercher ce qu’elle veut dire sans me déclarer incapable. » Elle n’a pas à retrouver une scène d’enfance ni à décider de la fonction de sa honte pour essayer une phrase respectueuse.
+
+Objectif de cet essai : Se parler avec respect à propos de la planche présente.
+
+1. Nommez ce qui est connu : un cercle et « intention ? » sur le dessin.
+2. Reprenez le jugement global que vous vous adressez et cherchez une phrase respectueuse sur cette difficulté précise.
+3. Choisissez une prochaine action, comme montrer le passage à Océane ou garder la question pour plus tard, sans revenir à un souvenir d’enfance.
+
+Utilité possible : La phrase garde la difficulté à son échelle sans demander une bienveillance ressentie ni un rappel du passé.
 
 ### 2. Le redressement postural conscient
 
 Trouvez une posture confortable si cela vous aide à faire une pause. Mei sent ses pieds sur le sol avant de frapper. Ce geste lui donne un repère ; deux minutes ne constituent pas un protocole hormonal et il n’y a pas de posture imposée.
 
+Objectif de cet essai : Prendre une pause dans une posture qui convient.
+
+1. Choisissez une position confortable avant le rendez-vous, sans modèle de posture à reproduire.
+2. Si cela aide, remarquez vos pieds au sol ou le support du carnet.
+3. Décidez de frapper, de préparer encore votre question ou de chercher un appui ; le calme n’est pas un préalable obligatoire.
+
+Utilité possible : La pause donne un repère sans effet hormonal promis ni posture imposée.
+
 ### 3. La déconstruction du piédestal de l'autorité
 
 Rappelez-vous ce qui relève du rôle de la personne et ce qui dépasse ce rôle. M. Dubois peut commenter un dessin sans se prononcer sur la valeur de Mei. Une humiliation ou une discrimination ne se réduit pas à une impression : on peut en parler à une personne de confiance ou au dispositif de signalement de son établissement.
+
+Objectif de cet essai : Distinguer le pouvoir d’évaluation du professeur et le contenu du retour.
+
+1. Repérez la zone annotée et la question que vous voulez clarifier.
+2. Si le cadre vous le permet, demandez si l’on attend une modification du contour ou une explication du choix.
+3. Distinguez la réponse technique d’un propos humiliant ; dans ce dernier cas, cherchez un appui plutôt que vous forcer à relativiser.
+
+Utilité possible : La question précise le travail à faire sans nier le pouvoir de notation ni les comportements réels d’une autorité.
 
 ## Le point d’interrogation
 

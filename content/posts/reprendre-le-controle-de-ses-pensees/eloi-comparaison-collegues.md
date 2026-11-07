@@ -39,6 +39,8 @@ Sur le stand, le nombre de portions est visible. Les vérifications de Cédric l
 
 Il peut demander quels critères priment pendant cet événement. Cédric lui indique la partie du travail qu'il doit garder stable et le moment où il transmet. Éloi n'a pas à décider seul de la meilleure combinaison entre vitesse et qualité. Le cadre collectif apporte une hiérarchie. Sans cette précision, il serait tenté de suivre l'allure la plus impressionnante, même si elle ne correspond pas à ce qu'on attend actuellement de lui.
 
+Regarder les portions qui quittent Cédric peut donc conduire Éloi à réduire trop vite sa propre portion ; regarder Quentin terminer avant lui peut lui faire sauter la vérification convenue. Ce sont deux occasions différentes de copier une cadence visible. Dans les deux cas, il risque de perdre le critère de sa tâche en essayant seulement de diminuer l’écart entre personnes.
+
 ### La comparaison devient globale et personnelle
 
 Éloi ne pense plus seulement « Cédric prépare plus vite ». Il ajoute qu'il est plus à l'aise, plus utile et plus légitime. Plusieurs dimensions se rejoignent dans un classement unique. Pourtant, le chef possède une expérience et une responsabilité différentes. Son aisance relationnelle avec le public ne mesure pas directement le niveau technique d'Éloi. Une scène ne permet pas de résumer la place de chacun dans toute l'équipe.
@@ -50,6 +52,8 @@ L'apprenti peut rester impressionné sans se décrire comme inférieur en tout. 
 Quentin rejoint parfois le stand et effectue une tâche connue plus rapidement qu'Éloi. L'écart lui paraît plus menaçant, puisqu'ils sont tous deux apprentis. Ils discutent ensuite et découvrent qu'ils ne pratiquent pas aussi souvent cette tâche. Cette information ne suffit pas à expliquer tout l'écart, mais elle montre ce qui manque à une comparaison fondée sur le seul statut.
 
 Éloi n'a pas besoin d'enquêter sur chaque réussite d'un collègue pour la rendre moins impressionnante. Il peut admettre qu'il ne connaît pas toutes les conditions. Il peut aussi apprendre auprès de Quentin et lui apporter un appui sur un autre aspect. La relation n'est pas obligée de rester un classement. Elle peut devenir un échange de repères, tout en laissant chacun avec ses besoins de progression.
+
+Le décalage peut aussi concerner ses propres essais : le lot vérifié dans un créneau calme ne se compare pas directement à une portion préparée devant la file du stand. Le public et la coordination occupent une part de son attention. Noter cette différence ne garantit pas une meilleure cadence ; cela évite d’attribuer tout changement à une perte de compétence.
 
 ## Choisir ce qu’on veut observer chez un collègue
 
@@ -74,6 +78,8 @@ Si le collègue ne peut pas répondre sur le moment, Éloi garde sa question pou
 Pour observer sa progression, Éloi regarde deux essais portant sur une tâche similaire, avec un critère connu. Il note ce qui change dans le résultat et dans l'aide nécessaire. Une différence de contexte reste mentionnée : poste calme, public présent, quantité différente. Cette comparaison avec sa propre expérience n'est pas automatiquement plus juste ; elle doit aussi tenir compte des conditions pour ne pas créer un autre classement trompeur.
 
 Il inclut une limite ou un échec sans effacer toute progression. Une tâche réussie calmement peut demander un nouvel apprentissage dans une cadence différente. Sa note indique alors un acquis et un besoin. Cette manière de suivre le travail reprend ce qu'il commence avec son sentiment d'efficacité : une capacité possède une portée. Elle peut être réelle, même si elle ne s'étend pas encore à toutes les situations du métier.
+
+Il choisit ensuite une seule question à emporter au prochain temps de formation, par exemple conserver le repère de portion quand une demande arrive. Il la vérifie avec Cédric avant un nouvel essai adapté. La comparaison débouche alors sur une prochaine action limitée, plutôt que sur un nouveau contrôle permanent de sa vitesse.
 
 ## Chacun à sa place derrière le stand
 

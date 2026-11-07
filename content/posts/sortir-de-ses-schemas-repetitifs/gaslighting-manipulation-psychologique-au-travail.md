@@ -27,35 +27,68 @@ Deux souvenirs divergents, un courriel oublié ou une remarque blessante n’ét
 
 ## Comment le gaslighting et la manipulation psychologique se manifestent au travail ?
 
-Identifier ces comportements dans le milieu professionnel est ardu, car ils sont souvent masqués par des impératifs d'efficacité ou des traits d'humour sarcastiques. La manipulation s'immisce dans les interstices de la communication quotidienne, transformant des interactions banales en pièges psychologiques.
+Les situations suivantes distinguent les faits observés, les répétitions à examiner et les intentions encore inconnues. Elles ne constituent pas un test de manipulation.
 
 ### Le déni de la parole et des faits
 
 Un supérieur peut nier à répétition avoir donné des consignes alors que des traces montrent le contraire. Cela peut faire douter la personne qui subit ces dénis. Djamila, elle, vérifie si elle a reçu le message annoncé : ne pas le retrouver ne suffit pas à démontrer qu’Antoine l’a inventé.
 
+Exemples situés :
+
+- Antoine annonce un message ; Djamila peut vérifier sa réception sans conclure que l’absence de notification prouve un mensonge.
+- Des consignes niées à plusieurs reprises malgré des traces disponibles appelleraient un examen de la répétition, au-delà d’un désaccord de mémoire isolé.
+
 ### La décrédibilisation émotionnelle
 
 Une autre tactique consiste à utiliser vos émotions contre vous pour invalider vos remarques légitimes. On vous dira que vous êtes trop sensible, que vous manquez d'humour ou que vous êtes fatiguée dès que vous tentez de poser une limite. Cette étiquette émotionnelle sert d'écran de fumée : au lieu de traiter le problème de fond, le manipulateur déplace le débat sur votre prétendue instabilité. C'est une manière de vous réduire au silence en vous faisant croire que votre réaction est le problème, et non le comportement qui l'a déclenchée.
+
+Exemples situés :
+
+- Lorsqu’elle rappelle la confidentialité de l’entretien, la remarque sur sa susceptibilité déplace la discussion vers son émotion.
+- Si chaque demande de frapper à la porte recevait un reproche sur son humeur, elle pourrait décrire cette répétition sans devoir prouver une intention cachée.
 
 ### La rétention d'informations stratégique
 
 Être régulièrement privé d’informations utiles puis blâmé pour les conséquences peut faire partie d’une mise à l’écart. Une erreur de transmission ponctuelle est une autre possibilité. Les circonstances, les répétitions et les conséquences éclairent davantage la situation qu’une supposition sur l’intention de la personne.
 
+Exemples situés :
+
+- Un horaire de visite non transmis puis reproché à Djamila serait un fait à documenter avec ses limites connues.
+- Un courriel perdu une fois et une exclusion répétée des informations utiles ne s’examinent pas de la même façon ; aucun ne se déduit du seul ton d’Antoine.
+
 ## 3 techniques pour agir face à la manipulation
 
-Il est possible de chercher de l’aide sans devoir trancher soi-même entre conflit, violence interne et harcèlement. L’[INRS](https://www.inrs.fr/risques/harcelements-violences-internes/ce-qu-il-faut-retenir) distingue ces situations et rappelle la responsabilité de l’employeur en matière de prévention.
+Les propositions suivantes restent facultatives ; elles portent sur des choix actuels et ne demandent pas de revisiter seul une violence.
 
-### 1. La tenue d'un journal de faits objectifs
+### 1. La tenue d’un journal de faits objectifs
 
-Si c’est possible et sûr, notez la date, le contexte et les mots dont vous êtes sûr, en indiquant ce qui reste approximatif. Respectez la confidentialité des bénéficiaires et les règles applicables aux documents professionnels. Ces notes servent à décrire ce qui s’est passé ; elles ne sont pas une condition pour demander du soutien.
+Objectif : Garder une description utile de l’incident sans constituer un dossier au prix de la confidentialité.
 
-### 2. Le recours à la validation par un tiers neutre
+1. Si cela est possible et sûr, noter la date, l’interruption et les mots dont Djamila se souvient, en signalant les approximations.
+2. Séparer la vérification du message annoncé de l’intrusion observée, sans recopier les informations confidentielles de la bénéficiaire.
+3. Conserver la note selon les règles professionnelles et choisir l’appui auquel décrire le problème, même si aucune note complète n’est disponible.
 
-Une personne de confiance peut aider à remettre les événements en ordre. Si les agissements continuent ou si vous craignez des représailles, vous pouvez vous tourner vers le service de prévention et de santé au travail, un représentant du personnel ou un interlocuteur compétent dans votre structure. Vous n’avez pas à affronter seul la personne mise en cause.
+Utilité possible : Une trace peut faciliter la description d’une répétition. Elle ne prouve pas à elle seule un gaslighting et n’est pas une condition pour demander de l’aide.
+
+### 2. Le recours à un appui extérieur adapté
+
+Objectif : Chercher un soutien sans confier à un tiers le rôle de décider ce que Djamila doit avoir vécu.
+
+1. Choisir ce qu’elle souhaite obtenir : être écoutée, comprendre une procédure ou préparer une démarche.
+2. Identifier un interlocuteur approprié dans ou hors la structure, en tenant compte de la confidentialité et des représailles qu’elle redoute.
+3. Formuler cette demande avec les faits qu’elle peut partager et convenir d’une prochaine étape, sans devoir affronter Antoine seule.
+
+Utilité possible : Une personne de confiance, le service de prévention et de santé au travail ou un représentant du personnel peuvent avoir des rôles différents. L’[INRS](https://www.inrs.fr/risques/harcelements-violences-internes/ce-qu-il-faut-retenir) rappelle la responsabilité de l’employeur dans la prévention.
 
 ### 3. La pratique de la réponse courte et factuelle
 
-Si vous le souhaitez et que l’échange est possible, formulez une demande concrète : « Merci de frapper et d’attendre ma réponse quand la porte est fermée. » Une réponse calme ne protège pas à elle seule de violences ou de représailles. Vous pouvez aussi différer l’échange et demander un appui.
+Objectif : Poser une demande professionnelle si l’échange est possible.
+
+1. Choisir la limite précise : frapper et attendre l’accord avant d’entrer pendant un entretien.
+2. Préparer une phrase courte qui porte sur cette règle, sans raconter son histoire avec Samir.
+3. Dire la demande dans un cadre adapté ou différer avec un appui ; noter la réponse utile à la suite sans poursuivre si l’échange devient menaçant.
+
+Utilité possible : La phrase peut rendre la demande explicite. Une réponse calme ne suffit pas à prévenir des violences et Djamila reste libre de chercher une autre voie.
 
 ## Une porte à garder fermée
 

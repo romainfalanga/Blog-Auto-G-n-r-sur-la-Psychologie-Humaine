@@ -27,29 +27,53 @@ On peut ressentir du dégoût face à un aliment avarié ou employer le même mo
 
 ### Le dégoût moral et le jugement d'autrui
 
-Stéphane a envie de s'éloigner quand il entend Marc raconter comment il a obtenu le contrat. Le dégoût peut coexister avec la colère ou l'inquiétude. Il renseigne Stéphane sur son propre malaise, sans établir à lui seul ce que Marc a fait.
+Stéphane réprouve ce qu’il entend. Le dégoût peut se mêler à la colère ou à l’inquiétude ; il décrit son malaise sans établir à lui seul la nature des faits ni l’ensemble de la personne de Marc.
+
+La plaisanterie sur un client lui donne envie de ne pas rire avec le groupe. Le récit de Marc sur la manière d’obtenir un contrat peut aussi lui donner envie de demander ce qui s’est réellement passé avant de travailler sur le dossier. Ces deux situations n’appellent pas forcément la même suite : désapprouver une remarque et vérifier une pratique sont deux actions différentes.
 
 ### La crainte d'être associé à un comportement
 
-Stéphane craint que son équipe interprète son silence comme une approbation. Il peut préciser qu'il désapprouve une pratique, sans réduire Marc à ce geste ni prendre la réaction du groupe pour acquise.
+Stéphane peut craindre que son attitude soit comprise comme un accord. Il ne sait pas pour autant ce que les autres invités concluent de son silence. Il peut distinguer sa position d’une intention qu’il leur attribuerait.
+
+Rire par habitude à la plaisanterie de Marc peut lui sembler participer à ce qu’il réprouve. Reprendre le dossier avec lui le lendemain peut aussi l’inquiéter s’il imagine que toute coopération vaudrait approbation de sa conduite. Ces deux actes ont des objets différents. Il peut refuser une remarque et continuer une tâche nécessaire avec des limites précises, ou demander un appui si une pratique pose un problème qu’il ne peut traiter seul.
 
 ### Les réactions somatiques dans l'échange
 
-Dans la scène, Stéphane sent son estomac se nouer et s'écarte. Ces signes décrivent sa réaction ; ils ne mesurent ni la gravité d'un acte ni la fiabilité de son premier jugement.
+La réaction physique de Stéphane peut être décrite sans en faire un instrument de jugement moral. Elle ne mesure ni la gravité d’un acte ni la fiabilité de sa première interprétation.
+
+Quand la remarque revient au cocktail, il sent un rejet dans la gorge et tient son verre devant lui. Lorsqu’il s’écarte, il remarque son estomac noué et le souhait de quitter la conversation. Ces deux observations situent des moments de l’échange ; elles ne prouvent pas que Marc représente un danger ou une contamination. Stéphane peut choisir une pause et examiner les faits utiles ensuite.
 
 ## Techniques pour gérer le dégoût relationnel
 
 ### 1. La cartographie des valeurs fondamentales
 
-Stéphane peut noter ce qu'il a effectivement entendu et la valeur qui lui importe, ici l'intégrité dans une négociation. S'il ignore ce qui s'est passé, il peut se renseigner avant d'accuser quelqu'un.
+Stéphane cherche à relier ce qu’il réprouve à un comportement précis et à une réponse, sans faire de l’émotion une preuve.
+
+1. Noter les mots de la plaisanterie ou du récit de négociation aussi exactement que possible, en gardant l’incertitude sur les détails.
+2. Nommer la valeur qu’il souhaite défendre, ici le respect du client ou l’intégrité, puis distinguer ce qu’il sait du dossier de ce qu’il suppose.
+3. Choisir une suite proportionnée : dire qu’il ne souhaite pas participer à cette plaisanterie, poser une question sur les faits ou chercher un interlocuteur professionnel adapté.
+
+La note peut préciser le sujet d’un échange. Elle ne certifie pas les intentions de Marc et n’oblige pas à lancer une accusation pour être fidèle à ses valeurs.
 
 ### 2. La technique de la distanciation cognitive
 
-Il peut prendre un peu de distance, observer son envie de réagir et choisir la suite : demander un fait précis, poser une limite ou solliciter un appui professionnel si la situation le dépasse.
+L’objectif est de conserver une possibilité de décision quand Stéphane ressent une forte répulsion. Prendre de la distance ne signifie pas nier ce qui a été dit.
+
+1. S’il le souhaite, s’éloigner un moment de la table en gardant les modalités ordinaires du cocktail, sans chercher un geste de purification.
+2. Décrire sa réaction : « Je n’ai pas envie de rire à cette remarque », plutôt que « cette personne est entièrement méprisable ».
+3. Décider s’il revient avec une phrase de limite, reporte un échange sur le dossier ou demande un appui. Il peut ne pas poursuivre la conversation s’il ne le souhaite pas.
+
+Cette séparation laisse une place au choix et aux faits. Elle ne garantit pas un ressenti plus agréable et ne demande pas d’accepter une conduite qui pose problème.
 
 ### 3. Revenir à une activité ordinaire
 
-Après le cocktail, Stéphane peut marcher un moment ou en parler avec Sandrine. Il n'a rien à nettoyer sur lui : prendre une pause ou retrouver son activité suffit s'il en ressent le besoin.
+Après l’échange, Stéphane peut reprendre un autre moment de sa vie sans devoir d’abord chasser le dégoût. Il n’a rien à nettoyer sur lui du fait d’avoir parlé avec Marc.
+
+1. Choisir une activité ordinaire après le cocktail : rentrer, marcher sur le trajet ou préparer le dîner, selon ses possibilités.
+2. S’il souhaite parler à Sandrine, lui demander si elle a un moment et préciser qu’il veut raconter sa réaction, en protégeant les informations professionnelles confidentielles.
+3. Garder seulement la question de travail à reprendre le lendemain et poursuivre la soirée choisie. Si la pensée revient, cela ne l’oblige pas à refaire tout le récit pour se rassurer.
+
+Cette transition peut préserver de la place pour une autre activité ou relation. Elle ne règle pas les faits du dossier et ne garantit pas la disparition de l’émotion.
 
 ## Laisser la plaisanterie tomber
 

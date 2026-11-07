@@ -1,0 +1,39 @@
+{
+  "references": {
+    "has-tnc-definition": {
+      "title": "HAS, Troubles cognitifs et troubles neurocognitifs, fiche 1 (mai 2018)",
+      "url": "https://www.has-sante.fr/upload/docs/application/pdf/2018-05/fiche_1_troubles_cognitifs_et_trouble_neurocognitifs.pdf"
+    },
+    "has-tnc-parcours": {
+      "title": "HAS, Guide du parcours de soins des patients présentant un trouble neurocognitif associé à la maladie d’Alzheimer ou à une maladie apparentée (mai 2018)",
+      "url": "https://www.has-sante.fr/upload/docs/application/pdf/2018-05/parcours_de_soins_alzheimer.pdf"
+    },
+    "has-tnc-autonomie": {
+      "title": "HAS, Préserver une autonomie fonctionnelle, prise en charge non médicamenteuse, fiche 12 (mai 2018)",
+      "url": "https://www.has-sante.fr/upload/docs/application/pdf/2018-05/fiche_12_tnm_preserver_autonomie_cognitivo-fonctionnelle.pdf"
+    }
+  },
+  "dossier": {
+    "name": "Trouble neurocognitif léger",
+    "aliases": [
+      "TNC léger"
+    ],
+    "references": [
+      "oms-cddr",
+      "has-tnc-definition",
+      "has-tnc-parcours",
+      "has-tnc-autonomie"
+    ],
+    "points": [
+      "OMS, CDDR, 6D71, pp. 608–609 imprimées : le trouble correspond à un déclin léger acquis dans un ou plusieurs domaines cognitifs par rapport au niveau antérieur, au-delà de ce qui est attendu avec l’âge. Les domaines peuvent inclure mémoire, attention, fonctions exécutives et langage ; leur atteinte n’est ni uniforme ni obligatoire. Dans la fiction, les manifestations sont réparties en situations et ne constituent pas une liste de critères pour le lecteur.",
+      "OMS, CDDR, 6D71, pp. 608–609 : le retentissement ne compromet pas significativement la réalisation des activités importantes ; les gestes élémentaires sont conservés et certaines activités complexes peuvent demander plus d’effort ou des compensations. HAS fiche 1, p. 1 : des capacités préservées permettent de réaliser seul les activités quotidiennes. Une aide choisie pour le carnet ne permet pas d’inférer une incapacité générale ; aucune activité à risque n’est employée pour tester l’autonomie.",
+      "OMS, CDDR, 6D71, p. 608 et p. 610 : le diagnostic s’appuie sur l’histoire, les observations et une évaluation clinique cognitive quantifiée, habituellement des tests standardisés adaptés. Le bilan tient compte du niveau antérieur et du contexte culturel ou linguistique. HAS guide, chapitre 1 et chapitre 2 : démarche clinique, recherche des causes et facteurs associés, examens selon le contexte et consultation mémoire. Aucun score, seuil, questionnaire ni exercice d’autodiagnostic n’est fourni.",
+      "OMS, CDDR, 6D71, pp. 608–609 et p. 611 : les causes peuvent être diverses, identifiées ou non ; une autre affection, des substances, des médicaments, une affection somatique, une humeur dépressive ou un trouble du sommeil doivent être considérés par le clinicien. Le diagnostic de Mireille est établi au début ; sa cause n’est pas spécifiée dans le canon et n’est pas inventée. Les rendez-vous ultérieurs clarifient le suivi et les facteurs associés sans promettre de réversibilité ni proposer de modifier soi-même un traitement.",
+      "OMS, CDDR, 6D71, p. 609 : anxiété, perturbations du sommeil ou humeur dépressive peuvent être associées. P. 611 : des difficultés cognitives peuvent aussi relever principalement d’un trouble du sommeil ou d’un autre trouble mental ; cette distinction appartient à l’évaluation. La fiction peut montrer inquiétude et fatigue sans les diagnostiquer ni attribuer chaque variation au trouble connu.",
+      "OMS, CDDR, 6D71, Course features, p. 610 : l’évolution peut être stable, progressive, améliorée ou résolutive selon la cause et les options thérapeutiques. Certains cas précèdent une affection qui répondra plus tard aux exigences de démence, mais ce devenir n’est pas général ni prévisible à partir d’un oubli ou de la réussite du carnet. HAS guide, p. 16 : répondre aux difficultés présentes sans anticiper ou minimiser les difficultés futures. Aucune courbe de déclin, échéance ni probabilité individuelle n’est donnée.",
+      "HAS fiche 12, p. 1, et guide chapitre 3 : les objectifs fonctionnels sont personnalisés à partir du bilan, des compétences préservées, des habitudes, des préférences et de l’environnement. Carnet, onglet, fiche, pause et répartition des tâches sont des adaptations fictives choisies et réévaluées ; elles ne sont pas des protocoles validés ni des promesses d’amélioration cognitive ou de prévention d’une démence. Le guide concerne les TNC associés à Alzheimer ou une maladie apparentée : ses repères généraux d’accompagnement sont utilisés ici sans attribuer cette cause à Mireille ni transposer des dispositifs spécifiques à son cas.",
+      "HAS guide, chapitres 2 à 5 : suivi coordonné, explications adaptées, participation de la personne et attention au vécu de l’entourage. Les informations personnelles ne sont partagées dans la fiction qu’avec l’accord de Mireille ; sa petite-fille peut proposer et limiter son aide sans devenir évaluatrice. Un changement durable appelle un échange avec le soignant ; un changement brutal avec confusion importante relève d’une évaluation urgente et n’est pas assimilé au TNC léger habituel."
+    ]
+  },
+  "direction": "Mireille, 66 ans, ancienne agente des jardins publics, tient le carnet des arbres remarquables de sa commune. Sa voix est précise, un peu ironique devant les mots administratifs ; elle aime décrire une cicatrice d’écorce avant de parler de santé. Sa petite-fille Alice, étudiante adulte, souhaite apprendre le carnet, mais son envie de numériser et de tout sécuriser peut prendre trop de place. Le diagnostic de trouble neurocognitif léger a déjà été établi en consultation mémoire ; le récit ne reconstitue ni une enquête diagnostique domestique ni une découverte d’Alzheimer. Le projet suit un printemps et l’été jusqu’à une présentation du carnet à la bibliothèque. Douze aspects : mémorisation d’une information récente ; attention en présence d’interruptions ; planification de plusieurs opérations ; accès à un mot ; rappel d’une intention différée ; autonomie avec compensations ; interprétation globale du bilan ; inquiétude et surveillance de soi ; sommeil et contexte des variations ; acceptabilité d’une aide ; suivi et incertitude évolutive ; participation sociale et transmission avec compétences préservées. Faire varier parc, cuisine, archives, bibliothèque, consultation et promenade. Chaque épisode ferme une petite décision et en transmet la conséquence. Les outils sont des essais personnels révisables, pas des techniques de guérison. Le dernier épisode résout le partage : copie annotée pour Alice, original conservé et nouvelles observations écrites par Mireille. Son avenir reste ouvert ; aucune réussite ou difficulté ne prédit son évolution."
+}

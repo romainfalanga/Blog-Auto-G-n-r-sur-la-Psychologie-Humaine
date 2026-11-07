@@ -35,13 +35,28 @@ Il n’existe pas une répartition parfaite entre préparer et laisser de la mar
 
 Baptiste imagine parfois qu’il pourra retrouver facilement les objets, terminer un document et répondre à Elsa dans le même créneau court. Il ne vérifie pas les transitions, les demandes prévisibles ni le temps déjà occupé. Cette image rend le report agréable ce soir, mais ne décrit pas vraiment la matinée. Il peut regarder les contraintes qu’il connaît sans inventer tous les imprévus possibles. Une préparation ciblée peut alors être utile : mettre le badge au bon endroit ou noter un point à reprendre au travail. Il n’est pas nécessaire de simuler chaque minute pour reconnaître qu’une période possède déjà peu de marge.
 
+Exemples concrets
+
+- Baptiste confie au matin la recherche du badge et la fin d’un document dans un créneau déjà court.
+- Il oublie que le départ plus tôt laisse moins de temps pour les demandes ordinaires d’Elsa.
+
 ### On fait du présent un simple atelier de réparation du futur
 
 À l’inverse, Baptiste peut prolonger la soirée pour éviter tout effort demain. Il ne compte plus le repos perdu, le temps avec Caroline ou l’activité qu’il souhaitait faire. La préparation possède elle aussi un coût. Si elle retire des ressources essentielles au lendemain, son bénéfice devient moins évident. Il peut comparer ce qu’elle allège et ce qu’elle consomme, sans demander une mesure chiffrée précise. Une tâche peut rester utile tout en devant être raccourcie, partagée ou déplacée. Le futur n’a pas besoin de recevoir une matinée parfaite au prix d’une soirée toujours épuisante.
 
+Exemples concrets
+
+- Préparer toutes les affaires ferait disparaître la soirée de photographies proposée par Caroline.
+- Rouvrir tous les fichiers peut coûter du repos alors que seule une version disponible doit partir dans le sac.
+
 ### On prépare les besoins des autres sans vérifier les accords
 
 Le programme imaginaire de Baptiste inclut les affaires d’Elsa et plusieurs tâches que Caroline a déjà prises en charge. Il risque de créer du travail en double ou de modifier une organisation qui convenait. Anticiper ensemble demande de partager les informations nécessaires, pas de décider seul de tout ce qui aiderait la famille. Chacun peut exprimer sa disponibilité et ses priorités. Une préparation utile pour lui ne l’est pas forcément pour sa compagne. Les besoins futurs des autres restent à discuter, au lieu de devenir un motif supplémentaire pour prendre la responsabilité de toutes les tâches visibles et supposées.
+
+Exemples concrets
+
+- Baptiste commence à refaire une préparation d’Elsa que Caroline a déjà assurée.
+- Une intention d’aider devient du travail en double s’il ne demande pas ce qui reste à confirmer.
 
 ## Trois pistes pour préparer avec des ressources limitées
 
@@ -49,13 +64,31 @@ Le programme imaginaire de Baptiste inclut les affaires d’Elsa et plusieurs t�
 
 Baptiste regarde le départ prévu, les objets nécessaires et les accords déjà pris pour Elsa. Il ne cherche pas à anticiper toutes les émotions ou tous les retards possibles. Il veut repérer les difficultés connues auxquelles une action simple peut répondre. Il demande à Caroline ce qui est déjà fait et ce qui reste réellement partagé. Cette description évite de préparer une journée imaginaire plus chargée encore que la vraie. Dans une autre situation, il peut être utile de regarder l’accès à un document, le temps d’ouverture d’un service ou la présence d’un relais. Si l’information manque, la prochaine action peut consister à la demander plutôt qu’à multiplier les préparations au hasard. La précision reste un appui, pas une obligation de maîtriser l’avenir.
 
+Exercice pratique
+
+- Notez l’heure de départ et les objets nécessaires pour demain.
+- Vérifiez avec Caroline l’organisation déjà prévue pour Elsa.
+- Repérez une information qui devra être demandée au travail plutôt que recherchée ce soir.
+
 ### 2. Choisir un geste qui allège vraiment la suite
 
 Le badge dans le sac répond à un problème déjà rencontré. Préparer la version disponible du document peut également éviter une recherche, si cette version est bien celle dont il a besoin. En revanche, corriger tous les fichiers pour obtenir un dossier impeccable n’est pas nécessaire à la matinée. Baptiste peut comparer ces actions selon leur effet probable et leur coût présent. Il peut en choisir une ou deux, puis laisser les autres pour un moment adapté. Un appui extérieur, comme une note ou un repère visible, peut être plus simple qu’un effort prolongé de mémoire. Il n’a pas besoin de devenir dépendant d’une liste exhaustive : l’outil doit rester assez léger pour être utilisé et modifié lorsque les conditions changent.
 
+Exercice pratique
+
+- Placez le badge dans le sac qui sera utilisé.
+- Ajoutez le document disponible dont vous avez effectivement besoin.
+- Écrivez la question qui attend l’interlocuteur compétent au lieu de rouvrir tous les messages.
+
 ### 3. Fixer une fin qui protège aussi un besoin actuel
 
 Baptiste décide d’arrêter la préparation après avoir rangé les objets essentiels et vérifié le point partagé avec Caroline. Il ne promet pas que tout le reste sera facile. Il conserve du temps pour regarder les photographies et se coucher à une heure qui lui convient. Cette limite ne transforme pas le loisir en récompense méritée ; elle reconnaît qu’il fait déjà partie des besoins de la soirée. Si une tâche réellement urgente apparaît, ils pourront réexaminer l’accord avec ses conséquences. La limite n’a pas à devenir une règle rigide qui ignore les situations. Elle évite surtout que le mot demain autorise une prolongation sans fin de tout ce qui pourrait être fait aujourd’hui.
+
+Exercice pratique
+
+- Convenez avec Caroline de la confirmation familiale encore nécessaire.
+- Arrêtez la préparation après les objets essentiels et ce point partagé.
+- Gardez le temps choisi pour les photographies et le repos, quitte à laisser des tâches ordinaires au matin.
 
 ## Mettre le badge dans le sac
 

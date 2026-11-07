@@ -39,17 +39,23 @@ Vincent entend dans sa propre tête : « Si je ne viens pas, je suis un compagno
 
 Pourtant, il n’a pas confirmé la réunion. Cette précision ne rend pas l’avis de Cédric sans importance. Elle change la nature du problème : ils discutent d’un souhait et de leurs contributions, pas d’un engagement rompu qu’il faudrait reconnaître et réparer. La responsabilité devient plus lisible quand elle porte sur ce qui est réellement convenu plutôt que sur une identité de compagnon irréprochable.
 
+Choisir la formation lui paraît signifier qu’il n’est pas fiable pour Cédric ; envisager la réunion lui paraît menacer la place qu’il veut donner à l’apprentissage. Chacune des deux cases risque ainsi de devenir un jugement sur la personne qu’il serait.
+
 ### Le compromis imaginaire évite de reconnaître une perte
 
 Vincent cherche à fractionner les deux rendez-vous. Il imagine arriver en retard à la formation puis repartir avant la fin. Sur le papier, il peut écrire son nom dans les deux cases. Mais cette présence morcelée risque de ne répondre ni à son désir d’apprendre ni au souhait de Cédric de présenter la situation ensemble. Le compromis existe seulement parce qu’il minimise chaque coût.
 
 Un arrangement partiel peut être utile s’il reste honnête et accepté. Il devient trompeur lorsqu’il promet une pleine disponibilité dans deux lieux incompatibles. Vincent peut vérifier les horaires, les déplacements et l’intérêt réel d’une présence partielle. Si le résultat ne convient pas, il peut le reconnaître. Renoncer à une combinaison irréaliste rend parfois le désaccord plus clair, sans le rendre agréable.
 
+Arriver après le début du contenu technique lui ferait manquer ce qu’il souhaite apprendre ; repartir de la réunion avant l’échange sur le passage réduirait la présence que Cédric demande. Écrire deux présences partielles sur l’agenda ne dit pas ce qu’elles apportent réellement.
+
 ### La déception de l’autre devient un ordre silencieux
 
 Cédric dit qu’il est déçu à l’idée de venir sans Vincent. Celui-ci ressent l’envie de retirer immédiatement sa préférence. Il pourrait ensuite en vouloir à son compagnon pour une décision qu’il n’ose pas assumer. La déception mérite d’être entendue ; elle ne permet pas, à elle seule, de savoir qui doit choisir quoi ni de supprimer tous les autres intérêts.
 
 Cédric peut exprimer son souhait sans être accusé de culpabiliser Vincent. Vincent peut conserver son choix sans prétendre que son compagnon devrait être ravi. Cette distinction laisse à chacun sa parole. Un échange respectueux n’exige pas que les émotions concordent avant la décision. Il demande que les arguments et les conséquences soient pris au sérieux, sans menace ni effacement automatique.
+
+Il peut retirer sa préférence dès que Cédric dit sa déception ; il peut aussi chercher à obtenir son enthousiasme avant d’oser confirmer la formation. Dans les deux cas, il attendrait que l’émotion de l’autre tranche ou autorise une décision qui lui revient aussi.
 
 ## Trois techniques pour choisir quand des valeurs entrent en tension
 

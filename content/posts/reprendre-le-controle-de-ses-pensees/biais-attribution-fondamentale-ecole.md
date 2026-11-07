@@ -36,13 +36,28 @@ Dans l’expérience de Jones et Harris, des participants ont parfois attribué 
 
 Quand un élève manque souvent la dernière heure, un adulte peut supposer qu’il se désintéresse du cours. Des difficultés de transport, de santé ou d’organisation familiale peuvent aussi compter. Une absence peut demander un suivi. Un jugement rapide risque d’orienter la réponse avant que les obstacles soient connus.
 
+Exemples concrets
+
+- Isabelle pense « manque de motivation » en regardant les trois absences de Mathieu.
+- Un bus manqué peut affecter une présence sans décrire l’intérêt d’un élève pour son cours.
+
 ### 2. Expliquer les performances faibles par le manque de capacité
 
 Après une mauvaise note, dire qu’une élève « n’est pas faite pour les mathématiques » laisse peu de place aux difficultés précises et aux moyens d’apprendre. L’élève peut avoir manqué une notion ou avoir besoin d’un autre appui. Il vaut mieux vérifier ces possibilités avant de réduire ses occasions de progresser.
 
+Exemples concrets
+
+- Une mauvaise note peut être transformée en verdict « pas faite pour les mathématiques ».
+- Un élève qui a manqué une notion peut avoir besoin de la reprendre plutôt que recevoir moins d’occasions d’apprendre.
+
 ### 3. Interpréter les comportements difficiles comme des traits de caractère
 
 Un comportement agressif ou un retrait social est souvent interprété comme une mauvaise personnalité. Si Fatima se montre agressive durant la récréation, la réaction immédiate d'un adulte peut être de penser qu'elle est méchante. En réalité, ce comportement peut être une réponse à des tensions familiales, à une rupture d'amitié ou à la fatigue. L'attribution interne simplifie mais isole la cause du comportement, empêchant des réponses adaptées. Pour les adultes, cela peut provoquer un épuisement émotionnel et un sentiment d'impuissance.
+
+Exemples concrets
+
+- Le geste agressif de Fatima à la récréation peut être décrit avant de lui attribuer une méchanceté stable.
+- Le sac gardé sur les genoux par Mathieu ne suffit pas à conclure qu’il refuse l’entretien.
 
 ## Techniques pour changer son regard sur les comportements
 
@@ -50,13 +65,43 @@ Un comportement agressif ou un retrait social est souvent interprété comme une
 
 Distinguez l’observation, par exemple trois absences, des hypothèses qui demandent une vérification. Une question sur les obstacles rencontrés peut être plus utile que plusieurs suppositions sur la vie familiale. Dans un cadre professionnel, gardez uniquement les informations nécessaires au suivi, selon les règles de confidentialité.
 
+**Objectif :** Distinguer le relevé d’absence de l’explication supposée.
+
+Exercice pratique
+
+- Notez les trois heures manquées comme observation, dans l’outil professionnel prévu.
+- Séparez l’hypothèse de motivation de ce que le relevé permet réellement de savoir.
+- Posez à Mathieu une question sur ce qui a empêché la présence en gardant seulement les informations nécessaires.
+
+**Utilité possible :** La note peut soutenir un suivi plus précis sans devenir une collecte générale sur la vie familiale.
+
 ### 2. Le temps des trois vérifications
 
 Cette technique de pause réflexive permet d'insérer une micro-pause cognitive pour éviter le jugement instantané. Avant de prononcer une phrase qui étiquette un élève, appliquez trois vérifications internes : qu'est-ce que je sais réellement de la situation ? Quelles causes contextuelles sont plausibles ? Quelle question utile puis-je poser à l'élève pour en savoir plus ? En pratique, cela devient une courte liste mentale utilisée avant d'écrire une remarque dans un dossier ou de décider d'une sanction. La vérification transforme une réaction affective en une action professionnelle réfléchie.
 
+**Objectif :** Suspendre une étiquette le temps d’une vérification.
+
+Exercice pratique
+
+- Reprenez mentalement les faits connus avant d’écrire « paresseux ».
+- Gardez ouvertes quelques explications contextuelles sans les présenter comme acquises.
+- Choisissez la question utile à Mathieu plutôt qu’une conclusion sur son caractère.
+
+**Utilité possible :** La pause sert à ouvrir une question ; elle ne garantit pas une interprétation sans biais.
+
 ### 3. L'entretien exploratoire et l'enquête collaborative
 
 L'objectif est d'explorer les causes situées avec l'élève ou la famille sans imposer une explication. Lors d'un entretien, au lieu de commencer par un reproche, utilisez une approche par étapes : demandez à l'élève de décrire ce qui s'est passé, ce qui a rendu la situation difficile et s'il y a eu des changements récents. Terminez en cherchant ensemble ce qui pourrait être testé pour améliorer la situation. En gardant un ton curieux et en évitant de valider une attribution interne, vous déplacez la discussion des jugements vers la recherche de solutions concrètes.
+
+**Objectif :** Construire une suite avec les personnes concernées.
+
+Exercice pratique
+
+- Demandez à Mathieu de raconter le début du cours manqué.
+- Vérifiez avec lui l’obstacle et les changements pertinents, puis associez la famille dans le cadre adapté.
+- Convenez d’une suite concrète avec les personnes habilitées et d’un moment pour la revoir.
+
+**Utilité possible :** L’accord permet d’examiner une solution et ses limites plutôt que de présumer la cause.
 
 ## Ce que Mathieu peut expliquer
 

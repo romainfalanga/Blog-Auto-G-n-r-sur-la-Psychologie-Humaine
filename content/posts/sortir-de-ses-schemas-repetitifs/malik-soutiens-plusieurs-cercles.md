@@ -41,6 +41,11 @@ Awa peut souhaiter écouter et ne pas pouvoir examiner un document. Elle peut au
 
 Leur relation conserve une réciprocité. Awa possède aussi des choses à raconter et des besoins qui ne ressemblent pas aux siens. Malik peut lui laisser une place sans se reprocher d’avoir cherché du soutien. L’enjeu consiste à rendre les attentes visibles, pas à supprimer toute conversation difficile du couple.
 
+Exemples concrets
+
+- L’appel avec Awa commence par le dossier, le dépôt puis le choix d’une photo.
+- La limite d’Awa sur le nombre de sujets n’indique pas qu’elle refuse tout soutien.
+
 ### La compétence et la disponibilité sont confondues
 
 Bastien comprend les lieux du travail et peut décrire la scène à laquelle il assiste. Cela ne fait pas de lui un spécialiste du droit ou de toutes les démarches possibles. Fatou peut aider à regarder les images sans connaître la réponse à un dossier d’Assurance Maladie. Une relation chaleureuse ne donne pas automatiquement une expertise.
@@ -49,6 +54,11 @@ Reconnaître cette limite protège aussi les proches. Ils peuvent proposer une p
 
 Les services professionnels possèdent à leur tour un périmètre. Gaëlle facilite une démarche numérique mais ne décide pas de son dossier. Un interlocuteur compétent sur les discriminations peut examiner des options sans prendre en charge toute sa vie affective. Plusieurs soutiens se complètent mieux lorsque chacun sait ce qu’il peut réellement apporter.
 
+Exemples concrets
+
+- Bastien peut décrire les mots de Marc sans être conseiller juridique.
+- Gaëlle peut résoudre une navigation tout en laissant la décision de la pièce à l’Assurance Maladie.
+
 ### La confidentialité paraît impossible à préserver
 
 Malik craint qu’en demandant un appui local, toute l’équipe ou tout le groupe photo connaisse sa situation. Cette crainte mérite une vérification. Certaines personnes racontent facilement les nouvelles d’autrui ; d’autres respectent une demande claire. Les conditions d’un service peuvent aussi être expliquées avant qu’il partage un contenu sensible.
@@ -56,6 +66,11 @@ Malik craint qu’en demandant un appui local, toute l’équipe ou tout le grou
 Il peut demander une aide sans fournir l’ensemble du récit. Pour préparer l’accrochage, Fatou a besoin de connaître ses contraintes de présence, pas le motif de sa discussion avec Marc. Pour un échange sur le travail, Bastien peut rester sur ce qu’il observe. Des informations limitées peuvent suffire au besoin concret.
 
 Cela ne garantit pas une confidentialité absolue dans toute relation. Malik peut choisir de ne pas se confier à une personne qui ne respecte pas ses limites. Le droit de sélectionner les destinataires ne constitue pas un refus de recevoir de l’aide. Il participe au contraire à rendre l’appui suffisamment sûr pour être utilisé.
+
+Exemples concrets
+
+- Fatou peut répartir les cartons sans connaître le détail de la scène au dépôt.
+- Malik peut demander avant de parler à Bastien ce qu’il gardera privé de leur échange.
 
 ## Trouver un interlocuteur selon ce qu’on demande
 
@@ -67,6 +82,12 @@ Cherchez ensuite qui possède la disponibilité et, si nécessaire, la compéten
 
 Si aucun contact ne correspond, notez le besoin sans inventer un relais. Un service ou une association accessible peut être recherché selon la situation. Cette recherche demande parfois elle-même un accompagnement. L’absence de réponse ne prouve pas que le besoin est excessif ou que Malik devrait savoir s’en passer.
 
+Exercice pratique
+
+- Distinguez l’écoute sur le travail, les cartons et la question administrative.
+- Choisissez l’interlocuteur pertinent pour une demande, en vérifiant sa disponibilité.
+- Si aucun appui ne correspond, gardez le besoin visible et cherchez une ressource accessible plutôt que l’inventer.
+
 ### 2. Préciser le périmètre et la confidentialité
 
 Avant l’échange, indiquez les limites utiles. Malik peut demander à Bastien de rester sur les éléments du dépôt et de ne pas diffuser la conversation. Il peut demander à un service quelles informations seront nécessaires et comment elles seront utilisées. Les réponses obtenues l’aident à décider ce qu’il souhaite partager.
@@ -75,6 +96,12 @@ Gardez la possibilité de poser une question sans remettre tout le dossier. Un p
 
 Si la personne propose d’agir davantage, reformulez ce que vous acceptez. Écouter, accompagner et contacter quelqu’un à votre place ne sont pas le même accord. Malik peut apprécier l’initiative et refuser qu’une démarche soit lancée sans lui. Le soutien vise à élargir ses possibilités, pas à retirer sa décision.
 
+Exercice pratique
+
+- Dites à Bastien sur quels faits vous souhaitez rester et ce qui ne doit pas être diffusé.
+- Demandez au service compétent quelles informations il utilisera avant de remettre un dossier.
+- Vérifiez séparément votre accord si une personne propose de contacter quelqu’un à votre place.
+
 ### 3. Vérifier l’effet de l’appui et laisser une place à l’autre
 
 Après l’échange, demandez-vous ce qui aide réellement. Malik peut constater qu’une préparation collective réduit le travail matériel, tandis qu’un appel avec Awa l’aide à nommer sa colère. Il ne compare pas la valeur des personnes ; il identifie des effets différents et les besoins encore sans réponse.
@@ -82,6 +109,12 @@ Après l’échange, demandez-vous ce qui aide réellement. Malik peut constater
 Vérifiez aussi comment l’aide se passe pour l’autre, sans transformer chaque service en dette à rembourser aussitôt. Un remerciement précis et une question sur les limites peuvent suffire. L’autre personne peut souhaiter changer le créneau ou ne pas recommencer. Cette réponse doit pouvoir être donnée sans menacer la relation.
 
 Gardez enfin des temps partagés qui ne servent pas à résoudre un problème. Malik peut regarder une photo avec Fatou ou parler d’un détail avec Bastien. Les relations ne sont pas des outils classés par fonction. La réflexion sur les soutiens aide à mieux demander, tandis que le lien conserve sa spontanéité et ses autres raisons d’exister.
+
+Exercice pratique
+
+- Repérez ce que l’appui a permis et ce qui reste sans réponse.
+- Remerciez précisément et demandez si la limite ou le créneau doit changer.
+- Gardez un temps avec Awa, Fatou ou Bastien qui ne soit pas consacré à résoudre un problème.
 
 ## Malik ne demande plus la même chose à chaque rencontre
 

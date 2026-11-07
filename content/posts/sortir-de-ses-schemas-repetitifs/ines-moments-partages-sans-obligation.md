@@ -39,17 +39,23 @@ Inès ne veut pas seulement voir des machines sonores. Elle espère sentir que l
 
 Inès peut reconnaître cette attente et choisir de la discuter ailleurs. Si elle souhaite savoir comment Clara vit leurs récents échanges, une conversation directe sera plus fiable que l’interprétation de son enthousiasme devant une exposition. La journée commune peut alors retrouver un objectif assez simple : découvrir quelque chose et passer un temps ensemble. Cet objectif laisse de la place à des goûts différents, à un retard et à une attention qui varie.
 
+Le retard du tram et l’hésitation de Clara devant une salle deviennent ainsi deux détails susceptibles de porter la même question générale sur leur lien.
+
 ### Confondre préparation et droit à une réponse attendue
 
 Inès choisit les billets, vérifie les horaires et prépare le trajet. Elle peut espérer que ce soin soit reconnu. Elle ne peut pas en déduire une obligation de tendresse supplémentaire ou une soirée intime à la fin. Clara, de son côté, peut apprécier l’organisation sans souhaiter exactement le même programme. La gratitude pour un effort ne vaut pas consentement à une suite qui n’est pas discutée.
 
 Il est utile de nommer ce qui est réellement offert et ce qui est espéré. « J’ai envie d’organiser une visite » diffère de « je prépare tout pour que tu te sentes plus proche de moi ». La seconde phrase contient un besoin qui mérite d’être entendu, mais dont l’issue reste libre. Plus les attentes sont explicites, moins un geste de générosité risque de devenir une facture affective présentée après coup.
 
+La réservation des billets et la préparation du trajet sont deux efforts qu’Inès peut souhaiter voir reconnus ; aucun ne crée un accord pour une proximité après le musée.
+
 ### Vouloir que toutes les heures soient communes
 
 Au musée, Clara préfère écouter longuement une installation tandis qu’Inès veut essayer un dispositif manuel. Elles pourraient se forcer à rester côte à côte et perdre chacune une partie de leur intérêt. Inès associe d’abord le petit écart à une occasion manquée de partager. Pourtant, elles peuvent aussi vivre dix minutes différentes et se retrouver pour raconter. La proximité ne se mesure pas uniquement au temps passé à regarder exactement le même objet.
 
 Cette possibilité dépend d’un accord réel. Si l’une se sent régulièrement laissée seule lors de sorties annoncées comme communes, le besoin de présence mérite d’être discuté. Ici, elles proposent une courte séparation et un lieu de retour. L’espace personnel ne sert pas à effacer la demande initiale d’être ensemble. Il ajoute une souplesse qui permet à chacune de rester intéressée, plutôt que de tenir une présence uniquement pour respecter une image du couple.
+
+Au musée, écouter la même installation malgré des goûts différents et prolonger ensemble le retour malgré un projet personnel seraient deux manières de contraindre toutes les heures à rester communes.
 
 ## Partir ensemble sans choisir la fin à l’avance
 

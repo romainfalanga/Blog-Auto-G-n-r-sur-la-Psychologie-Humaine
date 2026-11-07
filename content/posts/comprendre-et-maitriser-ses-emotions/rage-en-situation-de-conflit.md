@@ -31,23 +31,40 @@ La remarque d’Antoine rappelle à Léa une nuit de son enfance. Elle peut reco
 
 Dans une réunion ou un échange tendu, la rage peut se traduire par des paroles plus tranchantes, un rythme accéléré, des phrases courtes et percutantes. Pour Léa, cela ressemble à un besoin urgent d'être comprise et de faire justice immédiatement. Par exemple, elle coupe la parole d'Antoine, sa voix devient plus aiguë, elle cite des statistiques sur les violences conjugales sans laisser d'espace aux nuances. Ce type de manifestation vise à imposer la gravité de la situation, mais peut aussi déclencher un mouvement de retrait chez les autres, qui se sentent attaqués.
 
+Autre exemple situé : pendant la réunion, Léa peut préparer une réponse avant qu’Antoine ait fini d’expliquer qui reprend le dossier ; elle peut demander la parole et laisser la référente donner les faits disponibles.
+
 ### 2. Comportements de sur-contrôle et zèle moral
 
 La rage peut pousser à se surinvestir dans l'action, comme si l'inaction était inacceptable. Léa le vit quand elle propose de gérer tous les appels, d'organiser des rendez-vous avec des avocats ou de rédiger des communiqués en une nuit. Léa reconnaît cette envie de prendre toutes les tâches en charge. Elle peut soutenir une démarche tout en respectant le rôle de l’équipe et les choix de la personne concernée. Une intervention non coordonnée peut aussi créer des risques. Léa doit suivre les procédures de l’association et préserver la confidentialité. C'est le même mécanisme qui l'avait poussée à rédiger le dossier de Zoé au lieu de réviser sa psychopathologie, une forme de codépendance où la colère contre l'injustice se transforme en sacrifice de soi.
+
+Exemples situés :
+- Devant le report proposé, Léa peut vouloir annoncer seule une série d’appels avant d’avoir vérifié les démarches déjà engagées.
+- Elle peut envisager de travailler toute la nuit sur un communiqué alors que le besoin immédiat est que la référente évalue le risque et coordonne la suite avec la personne concernée.
 
 ### 3. Le retrait quand les mots manquent
 
 Paradoxalement, la rage peut aussi se transformer en retrait stratégique. Quand la colère est trop dangereuse pour être exprimée directement, elle peut passer par des silences glacés, des gestes symboliques ou des messages aiguisés. Léa connaît ce mouvement depuis son histoire avec Youssef : après une dispute, elle se tait, change de sujet, ou se montre excessivement conciliante pour éviter le conflit, ce qui reviendrait à nier sa propre colère. Ce comportement est une manière de contrôler la colère en la refoulant, mais il alimente la rancœur.
 
+Exemples situés :
+- À la réunion, Léa peut vouloir ne plus rien dire à Antoine après sa proposition de report alors qu’une question concrète reste à poser.
+- Après la reprise du dossier, elle peut garder sa contestation pour un autre échange ; ce choix de moment n’exige pas de nier sa colère.
+
 ## Techniques pour gérer la rage en situation de conflit
 
 ### 1. Nommer et cartographier la colère
 
-Cette technique consiste à écrire pour clarifier ses pensées. À la première montée de colère, Léa prend cinq minutes pour noter sur une feuille quatre rubriques : le déclencheur concret, le souvenir lié, la pensée associée et une action possible non impulsive. Pour la réunion d'aujourd'hui, le déclencheur est la minimisation d'un dossier, le souvenir lié concerne les nuits d'enfance à guetter les cris, la pensée est que personne ne prend cette violence au sérieux, et l'action possible consiste à proposer un point à l'ordre du jour limité à dix minutes avec des faits précis. Ce temps de réflexion peut aider si la situation le permet. En cas de danger immédiat pour la personne victime, suivre le protocole d’urgence et [contacter les secours](https://www.service-public.gouv.fr/particuliers/vosdroits/F12544) passe avant une discussion en réunion.
+L’objectif est de clarifier une réponse présente quand la situation laisse du temps. En cas de danger immédiat pour la personne victime, suivre le protocole d’urgence et [contacter les secours](https://www.service-public.gouv.fr/particuliers/vosdroits/F12544) passe avant l’écriture ou une discussion en réunion.
+
+Exercice pratique, si ce temps est disponible :
+1. Notez la proposition entendue et la question encore ouverte, par exemple qui évalue l’urgence et reprend le dossier.
+2. Distinguez votre colère et votre interprétation de ce que la référente peut confirmer ; il n’est pas nécessaire de chercher un souvenir d’enfance.
+3. Préparez une action dans votre rôle : demander cette confirmation, puis respecter la coordination et la confidentialité de l’association.
+
+Utilité possible : la note peut aider Léa à porter une question utile sans retarder la protection ni prendre toutes les tâches en charge.
 
 ### 2. Script assertif et contrat de parole
 
-Il s'agit de préparer un court discours en utilisant le "je" pour exprimer la colère sans déchaînement. Avant d'intervenir, Léa rédige une phrase courte suivant ce modèle : « Je perçois cette situation comme injuste parce que tel élément me semble risqué. J'ai besoin que nous fassions ceci, pendant un temps défini. » Elle répète silencieusement cette phrase pour la mémoriser. À la réunion, au lieu d'interrompre, elle lève la main et utilise son script. Ce format réduit la dramatisation et rend la colère instrumentale.
+Il s'agit de préparer un court discours en utilisant le "je" pour exprimer la colère sans déchaînement. Avant d'intervenir, Léa rédige une phrase courte suivant ce modèle : « Je perçois cette situation comme injuste parce que tel élément me semble risqué. J'ai besoin que nous fassions ceci, pendant un temps défini. » Elle répète silencieusement cette phrase pour la mémoriser. À la réunion, au lieu d'interrompre, elle lève la main et utilise son script. Ce format peut rendre la demande plus précise, sans garantir que la colère baisse ni que l’équipe soit d’accord.
 
 ### 3. Transformation par l'écriture expressive
 

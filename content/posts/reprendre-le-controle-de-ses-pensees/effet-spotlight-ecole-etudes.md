@@ -36,13 +36,28 @@ Dans le cas de Mei, l'effet spotlight s'insère naturellement après ses précé
 
 Dans un atelier d'école d'art, le calme relatif transforme chaque petit bruit en événement. Pour Mei, le frottement d'un crayon devient un acte public. Elle interprète la concentration ambiante comme une attention dirigée vers elle. Concrètement, cela se traduit par l'évitement : elle recule, efface plus souvent, et rechigne à présenter un croquis au groupe. Par exemple, quand un professeur propose un retour collectif, Mei anticipe que ses fautes seront commentées longuement, alors qu'en réalité l'enseignant peut souligner un point puis passer au suivant.
 
+Deux exemples dans cet épisode :
+
+- Quand M. Dubois parle avec le voisin, Mei imagine déjà la longue discussion qu’il aura sur sa bavure.
+- Le bruit du pinceau ou un pas derrière elle paraît annoncer l’attention du groupe alors qu’Océane revient simplement poser le diluant.
+
 ### 2. Les comparaisons qui semblent publiques
 
-L'effet spotlight alimente la comparaison sociale en transformant une pensée intérieure en impression d'évaluation externe. Mei, perfectionniste, voit la précision du trait d'une camarade et croit que tout le monde, y compris la professeure, la compare à elle. Cela peut pousser à l'isolement en session de travail ou au refus des critiques constructives. Elle évite ainsi d'afficher ses études de personnage sur le mur de critique par peur d'être perçue comme celle qui ne parvient pas à proportionner un visage. Ce besoin de se cacher est un vestige de son faux self, cette armure de docilité qu'elle a longtemps portée pour satisfaire les attentes médicales de ses parents et qui, aujourd'hui, l'empêche de s'assumer pleinement comme artiste devant ses pairs.
+L'effet spotlight alimente la comparaison sociale en transformant une pensée intérieure en impression d'évaluation externe. Mei, perfectionniste, voit la précision du trait d'une camarade et croit que tout le monde, y compris M. Dubois, la compare à elle. Cela peut pousser à l'isolement en session de travail ou au refus des critiques constructives. Elle évite ainsi d'afficher ses études de personnage sur le mur de critique par peur d'être perçue comme celle qui ne parvient pas à proportionner un visage. Ce besoin de se cacher est un vestige de son faux self, cette armure de docilité qu'elle a longtemps portée pour satisfaire les attentes médicales de ses parents et qui, aujourd'hui, l'empêche de s'assumer pleinement comme artiste devant ses pairs.
+
+Deux exemples dans cet épisode :
+
+- Mei regarde le trait d’une camarade et suppose que toute la table utilise cette planche pour évaluer la sienne.
+- Elle hésite à laisser sécher son dessin au chevalet comme si l’exposition de la feuille lançait un classement public de toutes les mains dessinées.
 
 ### 3. Les micro-interactions perçues comme des jugements
 
 Un regard bref, un battement de cils ou un commentaire anodin deviennent pour Mei des preuves d'attention ciblée. L'effet spotlight transforme ces micro-échanges en scénarios imaginés où l'ensemble de la classe se concentre sur sa maladresse. Elle anticipe des conséquences négatives et prépare des stratégies pour se protéger : parler le moins possible, se cacher derrière un carnet ou contourner les présentations. Quand M. Dubois s'approche pour corriger un geste technique, Mei prend cela comme une mise en lumière personnelle plutôt que comme une aide pédagogique.
+
+Deux exemples dans cet épisode :
+
+- La remarque d’Océane sur deux formes lui paraît annoncer un examen de la bavure sans qu’elle vérifie de quelle image elle parle.
+- Un arrêt derrière son tabouret devient dans son esprit une inspection du défaut alors que le motif de cet arrêt reste inconnu.
 
 ## Techniques pour diminuer l'effet spotlight
 
@@ -54,17 +69,24 @@ Dans un atelier où l’on se sent en sécurité, demander un retour précis sur
 
 L’échange ne permet pas de savoir qui a regardé ni ce que chacun a pensé. Son intérêt est de comparer l’anticipation à un retour concret, sans faire un test psychologique.
 
+Objectif de cet essai : Demander un retour de dessin limité à une personne.
+
+1. Choisissez une question ouverte sur l’image sans désigner d’avance la bavure.
+2. Demandez à Océane si elle souhaite donner ce retour.
+3. Écoutez ce qu’elle décrit sans lui demander d’en déduire le regard de toute la classe.
+
+Utilité possible : Le retour apporte une observation située sans tester l’attention du groupe.
+
 ### 2. L'ancrage tactile et le nommage des sensations
 
-L'objectif est de réduire l'intensité des sensations d'exposition sans recourir à des stratégies d'évitement.
+L’objectif est de faire une courte pause d’attention si un repère tactile convient à Mei.
 
 Exercice pratique :
-1. Choisissez un geste simple qui vous relie au présent, par exemple presser la tranche de votre carnet entre les paumes ou laisser le bord du papier entre le pouce et l'index.
-2. Associez ce geste à un mot-clé court que vous pouvez mentalement répéter, par exemple stabilité ou motif. Ne le prononcez pas à voix haute.
-3. Lorsqu'une pensée d'exposition surgit, activez le geste et énoncez mentalement le mot-clé. Maintenez l'ancrage pendant un ou deux cycles de mouvement de main.
-4. Pratiquez hors atelier pour que le geste devienne familier et facile à déclencher.
+1. Si cela vous convient, remarquez le contact du carnet ou du papier sans le presser pour obtenir un effet.
+2. Choisissez une prochaine tâche de dessin, comme préparer la couleur pendant le séchage.
+3. Reprenez-la ou faites une pause ; le geste tactile n’est pas une condition pour rester à l’atelier.
 
-L'ancrage tactile aide à rompre la spirale des pensées sans devoir modifier la respiration. Mei connaît déjà l'idée d'ancrage physique depuis ses dîners en famille ; elle transfère ici ce savoir à l'atelier pour calmer l'alerte interne et permettre à l'attention de revenir à son dessin. Elle se souvient comment, face à l'insistance de son père Wei au restaurant, ce simple contact avec la matière l'avait aidée à ne pas s'effondrer.
+Le contact peut servir de repère ordinaire s’il lui convient. Il ne doit pas devenir un geste à déclencher pour faire disparaître chaque pensée, ni une obligation de rester dans une situation pénible.
 
 ### 3. Distinguer un fait d’une interprétation
 
@@ -73,6 +95,14 @@ Vous pouvez distinguer un fait (« le professeur a demandé un contraste plus ma
 Si un comportement ciblé se répète, décrire les faits à un adulte de confiance ou à l’établissement peut être plus utile que chercher à relativiser.
 
 Cette note ne mesure pas l’anxiété ni l’attention du groupe. Évitez de vous obliger à compter les regards si cela prend toute la place.
+
+Objectif de cet essai : Distinguer l’observation et le sens qu’on lui attribue.
+
+1. Relevez un seul fait, tel que le passage d’Océane derrière le tabouret.
+2. Séparez l’interprétation « elle regarde ma bavure » de ce qui reste inconnu.
+3. Décidez si une information utile manque ; en cas de comportements ciblés répétés, cherchez un appui sans compter tous les regards.
+
+Utilité possible : La distinction garde l’incertitude visible et n’annule pas un comportement réellement hostile.
 
 ## Ce qu’Océane avait vu
 

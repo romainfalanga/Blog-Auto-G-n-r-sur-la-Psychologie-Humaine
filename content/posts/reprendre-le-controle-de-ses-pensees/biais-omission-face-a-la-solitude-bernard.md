@@ -35,15 +35,21 @@ Dans cette situation, l’idée est de regarder aussi ce qui pourrait arriver si
 
 ### 1. La paralysie de l'initiative relationnelle
 
-Chez une personne comme Bernard, cela se traduit par l'incapacité à envoyer ce fameux message ou à passer un appel. On se dit que si l'on n'appelle pas, il ne se passe rien. Mais ce rien est en soi une dégradation. On préfère subir la solitude plutôt que de risquer une maladresse. C'est la peur de la commission, c'est-à-dire l'acte de faire une erreur, qui fige l'individu. Dans le cadre du deuil, Bernard évite de parler d'Hélène car il a peur de dire le mot de trop, alors que son silence prive Éric d'un partage essentiel. Il se rappelle l'enveloppe notariale qu'il a laissée traîner des semaines sur son buffet : en ne l'ouvrant pas, il pensait ne pas faire de mal, alors qu'il ne faisait que prolonger l'agonie du deuil pour lui et son fils.
+Chez une personne comme Bernard, cela se traduit par l'incapacité à envoyer ce fameux message ou à passer un appel. On se dit que si l'on n'appelle pas, il ne se passe rien. Cette absence de message peut laisser passer une occasion, sans être nécessairement une dégradation. On préfère subir la solitude plutôt que de risquer une maladresse. C'est la peur de la commission, c'est-à-dire l'acte de faire une erreur, qui fige l'individu. Dans le cadre du deuil, Bernard évite de parler d'Hélène car il a peur de dire le mot de trop, alors que son silence prive Éric d'un partage essentiel. Il se rappelle l'enveloppe notariale qu'il a laissée traîner des semaines sur son buffet : en ne l'ouvrant pas, il pensait ne pas faire de mal, alors que la démarche administrative restait à organiser ; cela ne permet pas de mesurer le deuil de son fils.
+
+**Deux exemples :** Bernard remet le point d’interrogation de son invitation mais garde encore le brouillon. Il cherche une nouvelle réparation à proposer, alors qu’il voudrait simplement dîner avec Éric. Le biais est ici une piste pour comparer ses choix, pas la preuve que son silence cause la solitude.
 
 ### 2. La préférence pour les objets et les actes indirects
 
-Le biais d'omission pousse à privilégier des modes d'expression indirects. Bernard fabrique des meubles magnifiques pour montrer son attachement. C'est une forme d'action, mais qui omet la communication verbale directe. On se cache derrière des tâches matérielles pour ne pas affronter la vulnérabilité de la parole. L'objet devient un bouclier. On se convainc que le meuble suffit à dire son affection, évitant ainsi le risque d'une conversation émotionnelle qui pourrait déraper ou réveiller de vieilles blessures familiales. Cette tendance à matérialiser ses sentiments est un héritage qu'il tente aujourd'hui de déconstruire, conscient que la commode d'Éric ne pourra jamais remplacer une discussion sincère.
+Dans cet épisode, Bernard examine aussi ce qu’il laisse implicite dans ses gestes indirects. Bernard fabrique des meubles magnifiques pour montrer son attachement. C'est une forme d'action, mais qui omet la communication verbale directe. On se cache derrière des tâches matérielles pour ne pas affronter la vulnérabilité de la parole. L'objet devient un bouclier. On se convainc que le meuble suffit à dire son affection, évitant ainsi le risque d'une conversation émotionnelle qui pourrait déraper ou réveiller de vieilles blessures familiales. Cette tendance à matérialiser ses sentiments est un héritage qu'il tente aujourd'hui de déconstruire, conscient que la commode d'Éric ne pourra jamais remplacer une discussion sincère.
+
+**Deux exemples :** il pourrait annoncer seulement que la chaise est finie en omettant son envie de partager le repas. Il peut préparer le meuble à la perfection sans demander quel jour conviendrait à Éric. Offrir un objet reste une action et peut avoir une valeur propre.
 
 ### 3. La minimisation des conséquences de l'inaction
 
-On a tendance à sous-estimer l'impact du temps qui passe sans échange. Dans l'esprit de celui qui souffre de solitude, chaque jour de silence est perçu comme une absence d'erreur. Pourtant, pour celui qui attend à l'autre bout, comme Éric, ce silence est interprété comme un désintérêt ou une froideur. Le biais d'omission masque la réalité : ne pas agir est une décision qui a autant de poids qu'une parole. C'est un choix qui nourrit activement la distance et renforce le sentiment d'abandon chez les proches. Bernard ne sait pas ce qu’Éric comprend de son silence. Il peut lui demander sans lier cette situation à son mal de dos.
+On a tendance à sous-estimer l'impact du temps qui passe sans échange. Dans l'esprit de celui qui souffre de solitude, chaque jour de silence est perçu comme une absence d'erreur. Pourtant, pour celui qui attend à l'autre bout, comme Éric, ce silence est interprété comme un désintérêt ou une froideur. Le biais d'omission masque la réalité : ne pas agir est une décision qui a autant de poids qu'une parole. Selon le contexte, l’absence de proposition peut laisser une distance inchangée ; elle ne prouve pas un sentiment d’abandon chez le proche. Bernard ne sait pas ce qu’Éric comprend de son silence. Il peut lui demander sans lier cette situation à son mal de dos.
+
+**Deux exemples :** Bernard ne compte que la maladresse possible d’un message, sans examiner la possibilité d’une occasion manquée. Il suppose qu’Éric devinera la disponibilité du dimanche sans la lui avoir indiquée. La comparaison porte sur ces possibilités, sans présumer ce qu’Éric ressent.
 
 ## Techniques pour agir et sortir de l'isolement
 
@@ -51,15 +57,33 @@ Sortir de ce piège cognitif demande de réévaluer le poids de nos silences et 
 
 ### 1. La règle de l'imperfection volontaire
 
-Cette technique consiste à s'autoriser délibérément une action imparfaite pour briser la paralysie du biais d'omission. L'objectif est de déconstruire l'idée que le silence est plus pur que la parole maladroite. Pour mettre cela en pratique, Bernard peut décider d'envoyer un message sans le relire dix fois, en acceptant d'avance qu'il ne sera peut-être pas parfait. L'exercice consiste à noter sur un papier la pire chose qui puisse arriver en parlant, puis la pire chose qui arrivera en continuant de se taire. Il peut comparer les possibilités sans présumer que l’une serait toujours meilleure.
+**Objectif :** Écrire une invitation suffisamment claire sans exiger une formulation parfaite.
+
+1. Définir son intention : revoir Éric autour d’un repas, et non lui demander une réparation.
+2. Préparer un message bref avec une date et une question, puis vérifier qu’il correspond à ce qu’il souhaite proposer.
+3. Choisir de l’envoyer ou de le garder, en laissant à Éric la possibilité d’un autre jour ou d’un refus.
+
+Cette limite à la révision peut aider à prendre une décision. Elle n’oblige pas à contacter quelqu’un ni à supprimer toute prudence.
 
 ### 2. Le recadrage de la responsabilité par l'inaction
 
-Vous pouvez noter ce que vous avez envisagé, ce qui vous a retenu et les options encore ouvertes. « Je n’ai pas écrit aujourd’hui » décrit un fait ; « j’ai choisi de m’isoler » attribue une intention qu’on n’a pas nécessairement eue.
+**Objectif :** Examiner le choix du jour sans s’attribuer une intention certaine.
+
+1. Écrire le fait : « Le message pour dimanche est encore dans le téléphone. »
+2. Noter ce qui a retenu l’envoi et les suites possibles des deux options, sans traiter le silence comme nécessairement nocif.
+3. Décider ce qu’il souhaite aujourd’hui : envoyer, modifier, différer ou ne pas proposer.
+
+Une description précise peut soutenir un choix personnel. Elle n’oblige pas à qualifier le retrait de faute et respecte les limites relationnelles.
 
 ### 3. La méthode des petits pas conversationnels
 
-Plutôt que d'envisager une grande discussion émotionnelle intimidante, cette technique propose de multiplier des micro-actions de présence. L'idée est de réduire le risque perçu de la commission. Pour Bernard, cela peut être d'envoyer simplement une photo de la chaise en cours de finition, sans texte complexe. L'engagement à une micro-interaction quotidienne permet de muscler sa capacité à sortir du biais d'omission sans se sentir submergé. On apprend ainsi que chaque petit mot envoyé est une pierre posée pour reconstruire le pont avec l'autre.
+**Objectif :** Préparer une suite brève si Éric accepte l’échange.
+
+1. Choisir un sujet qu’il a envie de partager, par exemple un détail de la chaise en cerisier.
+2. Ajouter une question ouverte sur la disponibilité ou l’avis d’Éric, plutôt que multiplier les messages.
+3. Attendre sa réponse et adapter la suite à celle-ci ; si elle tarde, poursuivre sa journée sans en déduire un rejet.
+
+Un point de départ concret peut faciliter une conversation. Il n’est pas nécessaire de pratiquer chaque jour ni d’obtenir une réponse pour avoir fait une proposition valable.
 
 ## Le point d’interrogation
 

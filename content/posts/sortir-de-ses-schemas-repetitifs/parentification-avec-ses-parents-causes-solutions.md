@@ -35,13 +35,28 @@ Certaines habitudes d’aide peuvent rester familières. Une personne peut aussi
 
 Isabelle se souvient d’avoir tenté de rassurer chacun de ses parents sur les intentions de l’autre. Aujourd’hui, elle remarque qu’elle propose parfois de régler un désaccord avant même qu’on le lui demande. Elle peut s’interroger sur cette habitude sans la traiter comme l’explication de ses qualités professionnelles.
 
+Exemples concrets
+
+- Isabelle ouvre une enveloppe avant que Geneviève ait fini de dire ce qu’elle attend.
+- Elle propose parfois de régler un conflit familial sans vérifier si une médiation lui est demandée.
+
 ### 2. L'hyper-responsabilité émotionnelle
 
 Isabelle se sent parfois coupable de prendre du temps pour elle quand sa mère demande de l’aide. D’autres personnes peuvent éprouver de la fierté, de la colère ou aucune difficulté particulière. Ce qui compte dans la scène est le coût concret des demandes et la possibilité d’y répondre à sa mesure.
 
+Exemples concrets
+
+- Elle peut se sentir coupable de laisser le classeur chez Geneviève alors que certaines factures attendront.
+- Le dîner avec Théo devient difficile à préserver si chaque plainte de sa mère est traitée comme une tâche immédiate.
+
 ### 3. La difficulté à recevoir de l'aide
 
 Recevoir de l’aide est parfois inconfortable pour Isabelle, qui se voit spontanément comme celle qui organise. Plusieurs éléments contribuent à sa fatigue, dont son emploi du temps et les demandes en cours. Elle peut chercher un relais sans décider d’abord quelle expérience a causé la difficulté.
+
+Exemples concrets
+
+- Isabelle pense spontanément à ce qu’elle organisera avant de demander un relais.
+- Recevoir une aide pour une démarche peut la gêner même lorsque son agenda est déjà rempli.
 
 ## 3 techniques pour poser des limites face à la parentification
 
@@ -51,13 +66,43 @@ Se libérer de ce schéma demande un effort conscient pour redéfinir les fronti
 
 Lorsque la situation le permet, demandez ce qui est urgent, ce qui relève de vous et quelle aide est réellement souhaitée. Isabelle peut proposer à Geneviève de noter le numéro de la mutuelle ou de préparer avec elle les questions à poser. Si sa mère a besoin de soins ou d’une aide qu’elle ne peut assurer seule, elles peuvent chercher un relais adapté.
 
+**Objectif :** Clarifier la demande et les responsabilités actuelles.
+
+Exercice pratique
+
+- Demandez à Geneviève quelle aide elle souhaite et quelles échéances sont réelles.
+- Choisissez la part que vous acceptez, comme préparer les questions pour la mutuelle.
+- Identifiez avec elle un relais adapté si ses besoins dépassent ce que vous pouvez assurer.
+
+**Utilité possible :** La répartition peut rendre l’aide plus précise sans diagnostiquer la relation actuelle.
+
 ### 2. Repérer un besoin dans le moment
 
 À un moment choisi, essayez de nommer simplement une sensation ou un besoin. Isabelle peut constater qu’elle a faim ou qu’elle souhaite rentrer. Ce repère lui permet de décider si elle continue, se repose ou convient d’un autre moment.
 
+**Objectif :** Faire entrer un besoin personnel dans la décision.
+
+Exercice pratique
+
+- Interrompez un instant le tri pour nommer faim, fatigue ou envie de rentrer.
+- Regardez ce que continuer le classeur changerait au repas prévu avec Théo.
+- Choisissez de poursuivre une partie, faire une pause ou convenir d’un autre moment.
+
+**Utilité possible :** Un besoin nommé peut soutenir une limite, même si la culpabilité n’a pas disparu.
+
 ### 3. Examiner une obligation que l’on s’impose
 
 Repérez une règle que vous vous appliquez, comme « je dois répondre aussitôt ». Cherchez une option possible, par exemple convenir d’une heure pour rappeler en cas de demande ordinaire. Vous pouvez en discuter avec quelqu’un de confiance si cette idée vous met en difficulté.
+
+**Objectif :** Examiner une règle sans reconstruire de force l’enfance.
+
+Exercice pratique
+
+- Écrivez l’obligation précise, par exemple répondre aussitôt à une demande ordinaire.
+- Cherchez une réponse tenable comme proposer une heure de rappel.
+- Discutez de cette possibilité avec une personne de confiance ou un professionnel si elle reste difficile à envisager.
+
+**Utilité possible :** Une alternative concrète peut ouvrir une discussion sans attribuer une origine certaine à l’obligation.
 
 ## Le classeur reste chez Geneviève
 

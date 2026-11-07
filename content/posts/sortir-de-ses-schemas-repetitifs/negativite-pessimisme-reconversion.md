@@ -29,31 +29,55 @@ Margot peut avoir raison de se préoccuper de ses économies. Il est utile de di
 
 ## Comment la négativité se manifeste-t-elle en période de reconversion ?
 
-### 1. Anticipations catastrophiques et blocage des décisions
-Margot imagine déjà les pires scénarios : absence de clientèle, échec financier, regard critique de ses anciens collègues. Cette vigilance constante agit comme un frein qui empêche de passer à l'action. Cela se traduit par des mois de préparation sans lancement concret, des analyses obsessionnelles de la concurrence et des listes interminables de conditions préalables avant de démarrer. Les conséquences sont réelles : les projets restent au stade de brouillon, les opportunités s'éloignent et la confiance s'étiole.
+### 1. Une réponse défavorable est imaginée avant la proposition
 
-### 2. Dévaloriser les acquis de son ancien métier
-Le pessimisme transforme les réussites passées en simples coups de chance ou en éléments hors sujet. Pour Margot, ses vingt-cinq ans d'expérience comme directrice commerciale deviennent des compétences périmées. Elle minimise ses capacités d'écoute, de gestion de groupe ou de négociation. Cette tendance à se déprécier l'empêche de se présenter comme une coach légitime, car elle perçoit son parcours comme insuffisant plutôt que comme un socle solide. C'est ici que le driver "fais des efforts" devient toxique : elle a l'impression que si ce n'est pas douloureux ou laborieux, cela n'a pas de valeur.
+Margot peut préparer une décision comme si le rejet avait déjà eu lieu. Elle peut pourtant avoir des risques réels à examiner, notamment ses frais. Le problème est de donner le même statut au calcul disponible et à une phrase attribuée à Claire sans l’avoir entendue.
 
-### 3. Focalisation sur les signaux d'échec
-En pleine transition, le pessimisme pousse à ne retenir que les informations confirmant la peur de l'échec : une hésitation chez un prospect, un article alarmiste sur le secteur du coaching ou des statistiques économiques moroses. Cette lecture sélective crée l'illusion d'un danger généralisé alors que la réalité est souvent plus nuancée. Margot note scrupuleusement les incidents qui semblent prouver que son projet est voué à l'échec, mais elle oublie les encouragements de Sylvie ou les retours positifs reçus durant sa formation.
+Sur le parking, elle imagine Claire lui dire qu’elle aurait dû garder son poste. Devant le message à rédiger, elle entend sa propre présentation comme une excuse avant d’avoir proposé le tarif ou le contenu. Le jugement imaginé et le ton qu’elle anticipe rendent l’envoi plus difficile de deux façons.
 
-## 3 techniques pour transformer le pessimisme
+### 2. Un acquis est traité comme inutilisable
 
-### 1. Le journal des preuves contraires
-L'objectif est de rassembler des faits objectifs qui contredisent les scénarios sombres.
+L’ancien métier ne suffit pas à rendre Margot compétente dans le nouveau. Il ne rend pas non plus tout apprentissage antérieur caduc. Elle peut reconnaître un savoir précis et examiner ce qu’il faut adapter, sans transformer l’un ou l’autre en preuve globale de légitimité.
 
-Pendant deux semaines, chaque soir, Margot note trois éléments concrets venant infirmer une pensée négative apparue dans la journée. Par exemple, si elle se dit qu'elle ne trouvera jamais de clients, elle inscrit : "1) J'ai reçu un message d'intérêt de Claire, 2) J'ai animé un atelier et deux personnes ont sollicité mes ressources, 3) J'ai identifié trois réseaux professionnels pertinents." Cet exercice oblige à délaisser l'interprétation au profit de l'observation. Une [fiche du NHS pour examiner ses pensées](https://www.nhs.uk/every-mind-matters/mental-wellbeing-tips/self-help-cbt-techniques/thought-record/) propose de noter aussi les faits qui vont dans l’autre sens. Vous pouvez le faire quand c’est utile ; quinze jours ne constituent pas un délai au bout duquel le doute doit changer.
+Elle sait calculer combien d’entretiens couvriraient ses frais mais modifie le tarif trois fois au lieu de choisir un essai. Elle sait aussi présenter un service, puis commence par « j’aurais besoin d’un service » comme si elle ne pouvait proposer le sien. Ces deux gestes montrent où un acquis reste difficile à utiliser dans le nouveau cadre.
 
-### 2. Les expériences comportementales graduées
-L'idée est de tester ses prédictions pessimistes par des actions concrètes plutôt que par le débat mental.
+### 3. Un indice négatif prend plus de place que les autres
 
-Margot choisit une croyance à tester, par exemple : "Personne ne voudra payer pour mes services." Elle met en place trois étapes de difficulté croissante : a) proposer une séance gratuite à une connaissance contre un retour structuré, b) organiser un atelier à tarif réduit pour un petit groupe, c) lancer une offre payante auprès de son réseau. Pour chaque étape, elle consigne les résultats réels (nombre de participants, retours, inscriptions) et les compare à ses craintes initiales. Ces petits pas permettent d'ajuster ses croyances à partir de données réelles et de bâtir une confiance progressive.
+Margot peut garder la remarque qui l’inquiète et négliger une information différente. Les faits favorables n’annulent pas une difficulté ; ils doivent simplement rester disponibles avec elle. La nuance ne nécessite pas un équilibre artificiel entre les deux.
 
-### 3. Le recadrage des causes : du global au spécifique
-Cette technique vise à modifier le réflexe qui consiste à attribuer un échec à une cause générale et immuable.
+Elle imagine la critique de Claire alors que la dernière question entendue portait sur le déroulement de la formation. Elle retient aussi le risque de la séance, tandis que Sylvie a identifié une personne précise à qui la proposer. La curiosité de Claire et la proposition de Sylvie ne garantissent aucun résultat, mais elles ne sont pas les rejets anticipés.
 
-Lorsqu'une pensée négative surgit, Margot répond par trois questions : "Que s'est-il passé factuellement ?", "Cette cause est-elle permanente ou passagère ?", "Est-elle spécifique à cette situation ou concerne-t-elle tous les domaines de ma vie ?" Par exemple, face à la pensée "Je ne suis pas faite pour ce métier", elle analyse : "Fait : j'ai perdu mes moyens durant l'atelier. Cause possible : manque de pratique sur ce nouvel outil. Est-ce qu’un nouvel essai ou un retour extérieur pourrait m’éclairer ? Spécifique ? Oui, cela ne remet pas en cause mes capacités relationnelles globales." En procédant ainsi, le problème devient un point technique à améliorer plutôt qu'un jugement définitif sur sa valeur.
+## 3 techniques pour examiner le pessimisme
+
+### 1. Un journal des faits qui vont dans les deux sens
+
+Margot veut examiner une prévision, sans devoir produire trois preuves positives chaque soir.
+
+1. Noter la phrase précise, par exemple « Claire trouvera cette proposition ridicule », et la distinguer d’un fait.
+2. Relever ce qu’elle a effectivement entendu ou fait, avec les éléments qui soutiennent et ceux qui nuancent la prévision, comme le propose la [fiche du NHS pour examiner ses pensées](https://www.nhs.uk/every-mind-matters/mental-wellbeing-tips/self-help-cbt-techniques/thought-record/).
+3. Écrire ce qui reste inconnu et une formulation assez juste pour décider si elle veut proposer l’essai.
+
+Le journal peut éviter d’effacer une donnée disponible. Il peut rester bref, sans délai imposé au bout duquel le doute devrait changer.
+
+### 2. Proposer un essai délimité et lire le retour entier
+
+L’objectif est d’obtenir une information sur une offre réelle, avec un accord commercial clair. Il ne s’agit pas de s’imposer une progression d’expositions.
+
+1. Préparer pour Claire le contenu, la durée et le tarif de la séance, en lui laissant la possibilité de refuser ou d’indiquer une contrainte.
+2. Si elle accepte, convenir d’un essai et de questions de retour précises sur ce qui lui a servi et ce qu’elle n’a pas compris.
+3. Après l’échange, garder ces deux types de retours et choisir une modification proportionnée, sans annoncer que l’essai mesure tout le marché.
+
+Une réponse peut aider à améliorer la proposition. Un refus ou une difficulté ne donne pas à lui seul la cause ni un verdict sur toute la reconversion.
+
+### 3. Passer d’un jugement global à une question vérifiable
+
+Margot cherche ce qu’elle peut apprendre d’un événement connu, sans lui inventer une cause rassurante.
+
+1. Décrire le fait limité : une question a demandé une explication ou une proposition reste sans réponse.
+2. Séparer les causes possibles et ce qu’elle sait réellement ; noter aussi un facteur extérieur encore inconnu.
+3. Choisir une précision à demander ou une formulation à ajuster, puis laisser les autres hypothèses ouvertes.
+
+Cette démarche peut ouvrir une suite concrète. Elle n’oblige pas à trouver que toute difficulté est temporaire ou qu’elle dépend seulement de son attitude.
 
 ## Une séance avec Claire
 

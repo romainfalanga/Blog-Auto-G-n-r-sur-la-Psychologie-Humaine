@@ -31,43 +31,55 @@ Si une perte d'intérêt ou de plaisir s'installe, s'accompagne d'autres changem
 
 ## Comment ce sentiment peut-il se manifester après une rupture ?
 
-### 1. Un sentiment de perte profonde et de désorientation  
+### 1. Des repères ordinaires deviennent difficiles à retrouver
 
-Après une rupture, Hugo ressent comme une faille ouverte au cœur de son existence. Ce n’est pas seulement la perte de sa relation, c’est un bouleversement de ses repères affectifs. Il peut se sentir désorienté, ne plus savoir qui il est sans l’autre. Ce sentiment de perte crée ce vide intérieur, comme si une partie de lui-même avait disparu, le laissant désemparé et sans direction.  
+Le départ de Chloé modifie des moments familiers pour Hugo. Il peut savoir où aller et ne pas avoir envie de retrouver les mêmes lieux. Ce décalage décrit son expérience actuelle, sans établir qu’il aurait perdu toute identité hors de la relation.
 
-Par exemple, Hugo a du mal à retrouver ses habitudes, même simples, et sa vie quotidienne semble dépourvue de sens. Ce désordre intérieur génère une confusion qui peut renforcer le sentiment d’être seul face à ce vide.  
+En sortant du bar, il prolonge le trajet vers le parc plutôt que rejoindre immédiatement la cafetière et le canapé. Sur le banc, il garde l’étui entre ses genoux sans trouver le refrain qu’il aurait habituellement envie d’essayer. Le retour à la maison et le moment musical n’ont plus leur suite aussi évidente.
 
-### 2. Un engourdissement émotionnel ou une tristesse paralysante  
+### 2. Ce qu’il ressent reste difficile à décrire
 
-Hugo remarque qu'il n'arrive plus à s'émouvoir comme avant. Ce brouillard décrit son vécu ; il ne révèle pas à lui seul pourquoi il se sent ainsi.
+Hugo n’a pas forcément un mot précis pour ce qui se passe. Se sentir peu touché ou ne pas savoir ce qui ferait plaisir peut être pénible. La scène ne permet pas d’en connaître seule la cause ni d’identifier un trouble.
 
-D’un autre côté, certains peuvent vivre cette période comme une tristesse paralysante, où les larmes coulent sans cesse, mais le cœur reste obstinément vide. Hugo, parfois, se surprend à pleurer sans comprendre vraiment pourquoi il se sent aussi vidé.  
+Il se rappelle le verre renversé et le chiffon pendant le service mais peine à raconter le reste de la soirée. Devant la fiche de Théo, il remarque surtout le froid dans ses jambes plutôt qu’une phrase sur le manque de Chloé. Le récit de la soirée et la réponse au frère restent tous deux difficiles à commencer.
 
-### 3. Une dépendance accrue aux autres pour combler le vide  
+### 3. Un besoin de compagnie rencontre la peur de devoir rassurer
 
-Hugo cherche davantage de présence après le départ de Chloé. Il peut demander de la compagnie sans se juger pour ce besoin, et voir quels échanges lui font du bien sans attendre qu'une seule personne comble tout ce qui lui manque.
+Hugo peut souhaiter une présence sans être prêt à tout expliquer. Demander de la compagnie n’est pas en soi une dépendance. L’échange gagne à préciser ce qu’il souhaite et à laisser à l’autre sa disponibilité.
 
-Cette recherche désespérée de « remplissage » peut mener à une surcharge émotionnelle ou au contraire renforcer la sensation d’insatisfaction et d’abandon, car aucun lien ne peut vraiment compenser ce vide intérieur. Hugo se sent alors piégé dans ce cercle vicieux, qui agit comme un miroir déformant de sa souffrance intérieure.  
+Il ouvre la fiche de Théo mais ne rappelle pas, car il n’a pas envie de promettre qu’il ira bientôt mieux. Il peut en revanche envisager une marche après son service, sans discussion obligatoire sur toute la rupture. Le premier échange lui paraît trop large ; le second donne à la présence une forme plus limitée.
 
 ## Trois pistes pour traverser ce sentiment
 
-### 1. La pratique de la pleine conscience  
+### 1. Porter attention à un moment présent, si cela convient
 
-La pleine conscience consiste à porter une attention bienveillante et sans jugement à ce que l’on ressent ici et maintenant. Pour Hugo, cela signifie s'autoriser à ressentir son vide intérieur sans chercher à le fuir. L’exercice concret consiste à s’asseoir quelques minutes chaque jour, respirer lentement et observer ses émotions comme si elles étaient des nuages qui passent dans le ciel.  
+Hugo cherche un repère dans ce qu’il fait maintenant, sans devoir accueillir une émotion ni méditer chaque jour.
 
-Plutôt que de lutter contre cette sensation de vide, Hugo apprend à l’accueillir, à l’observer avec curiosité. Cette présence attentive aide à diminuer l’intensité de la souffrance et à créer un espace intérieur où peut s’installer la reconstruction.  
+1. Choisir un moment ordinaire et une position confortable, plutôt que rester sur le banc humide pour faire l’exercice.
+2. Remarquer un détail accessible, comme le contact de l’étui ou un son, sans ralentir le souffle à tout prix ni chercher une sensation particulière.
+3. Décider de la prochaine action utile : rentrer, se réchauffer ou demander une présence ; abandonner l’exercice s’il augmente le malaise.
 
-### 2. L’écriture expressive  
+Ce repère peut l’aider à choisir un geste immédiat. Il n’est pas censé diminuer forcément la souffrance ni remplacer un appui lorsque le quotidien devient difficile.
 
-L'écriture peut servir de support pour mettre des mots sur ce qu'il traverse. Hugo peut commencer par noter un moment difficile et ce dont il aurait eu besoin à ce moment-là.
+### 2. Écrire quelques mots sans devoir produire une chanson
 
-S'il en a envie, Hugo peut transformer quelques lignes en paroles de chanson. Il peut aussi arrêter si écrire ravive trop la douleur et appeler une personne de confiance.
+Le carnet peut conserver une expérience difficile à raconter, à la condition que l’écriture lui convienne.
 
-### 3. Se reconnecter à ses besoins personnels  
+1. Noter une seule scène récente, par exemple la sortie du bar ou le banc, sans raconter toute la relation.
+2. Ajouter ce dont il aurait eu besoin à ce moment, même si les mots restent imprécis.
+3. Choisir de garder ces lignes, d’en tirer un vers ou de refermer le carnet ; s’arrêter et chercher une présence si écrire ravive trop la douleur.
 
-Souvent, le vide intérieur cache aussi un éloignement de soi et de ses besoins essentiels. Hugo peut prendre le temps de se poser cette question : « De quoi ai-je vraiment besoin aujourd’hui pour me sentir mieux ? » Cela peut être du repos, du contact avec la nature, une activité créative ou simplement un moment de douceur.  
+La note peut fournir un début de parole. Un texte jugé maladroit ou rayé reste compatible avec cet usage ; aucune qualité artistique n’est attendue.
 
-Un exercice concret est de faire une liste de petites actions qui nourrissent le corps et l’esprit, puis de s’engager à en pratiquer une chaque jour. Ce retour à soi est un premier pas vers la reconstruction d’une vie riche et autonome, qui ne dépend plus uniquement de l’autre.  
+### 3. Donner une forme concrète au besoin du jour
+
+L’objectif est de trouver une demande ou une action possible sans exiger d’une personne qu’elle fasse disparaître le manque.
+
+1. Distinguer ce qui serait utile maintenant : manger, se reposer, se réchauffer ou voir quelqu’un.
+2. Choisir une proposition limitée, comme demander à Théo s’il est libre pour marcher après le service.
+3. Écouter sa disponibilité et ajuster le lieu ou le moment ; si ce soutien ne suffit pas, envisager un autre proche ou un professionnel.
+
+Cette demande peut rendre un appui plus accessible. Elle ne crée ni obligation de réponse ni calendrier de rétablissement.
 
 ## Un appel qu’il n’a pas encore rendu
 

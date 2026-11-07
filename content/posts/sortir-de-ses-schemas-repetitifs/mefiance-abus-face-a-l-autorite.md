@@ -32,24 +32,63 @@ Priya remarque qu’elle passe beaucoup de temps à chercher un sous-entendu dan
 ### L'hyper-vigilance textuelle et verbale
 Priya relit la lettre plusieurs fois et craint qu’une phrase annonce un contrôle. Elle peut distinguer ce qui est écrit et ce qu’elle redoute. Il n’est pas nécessaire de qualifier sa vigilance de paranoïa.
 
+Deux exemples dans cet épisode :
+
+- Le mot « vérification » fait relire à Priya son nom sur l’enveloppe comme si l’envoi la visait personnellement.
+- Elle cherche un sous-entendu dans la deuxième page avant de retrouver le sujet de la phrase sur la première.
+
 ### Le retrait défensif et l'isolement
-Priya a parfois l'impression que moins elle se fait remarquer, moins elle risque d'être mise en difficulté. Priya limite ses interactions avec ses collègues ou les instances représentatives au strict minimum. Elle refuse de déléguer, de demander de l'aide ou de s'impliquer dans des projets collectifs, craignant que ses idées ne soient volées ou que sa vulnérabilité ne soit exploitée. Ce comportement renforce son image de femme froide et évitante, créant un cercle vicieux : son isolement suscite des interrogations de la part de l'autorité, ce qui alimente en retour sa méfiance. Elle remarque qu'elle hésite à demander de l'aide, sans encore savoir à qui elle pourrait parler en confiance.
+Priya a parfois l'impression que moins elle se fait remarquer, moins elle risque d'être mise en difficulté. Priya limite ses interactions avec ses collègues ou les instances représentatives au strict minimum. Elle refuse de déléguer, de demander de l'aide ou de s'impliquer dans des projets collectifs, craignant que ses idées ne soient volées ou que sa vulnérabilité ne soit exploitée. La scène ne permet pas de savoir comment l’institution interprète son retrait ni si celui-ci déclenche une réaction de sa part. Elle remarque qu'elle hésite à demander de l'aide, sans encore savoir à qui elle pourrait parler en confiance.
+
+Deux exemples dans cet épisode :
+
+- Elle hésite à demander à qui la mesure s’applique et poursuit seule ses relectures.
+- Le dossier de Marc reste sur le côté alors qu’une discussion pourrait préciser le partage des décisions ; cela ne dit pas si une association lui conviendrait.
 
 ### La contre-attaque préemptive par le mépris
-Parfois, la meilleure défense reste l'attaque. Comme Priya l'a expérimenté lors de sa visioconférence avec Antoine, le mépris sert de bouclier. En dévaluant les compétences de la figure d'autorité, le sujet se place symboliquement au-dessus de la zone de danger. Si l'autre est jugé incompétent ou illégitime, son pouvoir de nuisance semble diminuer. C'est une stratégie de survie émotionnelle qui permet de masquer une peur intense d'être à nouveau rabaissée ou manipulée, comme elle l'était autrefois dans le huis clos de sa relation toxique.
+Priya peut être tentée de dévaloriser l’interlocuteur avant de poser sa question ; cela décrit une réaction à examiner, pas une conduite recommandée. En repensant à la visioconférence avec Antoine, elle peut se demander si sa remarque lui a permis de mettre sa gêne à distance ou si elle exprimait surtout son désaccord avec la procédure. Le souvenir de Damien peut compter dans les questions qu’elle se pose, sans expliquer à lui seul sa réaction actuelle. La scène n’établit ni une peur cachée ni la fonction d’une défense inconsciente. Son appréciation d’Antoine ne modifie pas le pouvoir réel de l’institution ni les points du courrier à vérifier.
+
+Deux exemples dans cet épisode :
+
+- Elle pourrait qualifier Antoine d’incompétent avant de connaître la réponse sur le logiciel.
+- Une réplique de dédain pourrait remplacer la précision qu’elle souhaite demander sur la circulaire, sans diminuer le pouvoir réel de l’émetteur.
 
 ## Techniques pour désamorcer la méfiance et l'abus
 
-Sortir de ce schéma demande un travail de distinction entre les dangers du passé et la réalité du présent. Voici des exercices concrets pour commencer à fissurer cette armure de protection.
+Priya peut distinguer les éléments du courrier, ses craintes et les confirmations accessibles. Elle n’a pas à déclarer le présent sûr pour examiner une demande.
 
 ### 1. Relire le courrier avec son objet
-Cet exercice consiste à prendre un message ou une situation qui déclenche de la méfiance et à rédiger deux interprétations radicalement différentes. Dans une colonne, vous notez l'interprétation dictée par le schéma (par exemple : ils veulent me contrôler). Dans la seconde, vous rédigez une interprétation neutre ou fonctionnelle (par exemple : ils mettent à jour leurs fichiers pour des raisons logistiques). Priya peut appliquer cela à son courrier de l'Ordre. L'objectif n'est pas de devenir aveugle aux dangers réels, mais de réaliser que l'interprétation menaçante est une construction mentale habituelle, et non une vérité absolue.
+Cet exercice consiste à prendre un message ou une situation qui déclenche de la méfiance et à rédiger deux interprétations radicalement différentes. Dans une colonne, vous notez l'interprétation dictée par le schéma (par exemple : ils veulent me contrôler). Dans la seconde, vous rédigez une interprétation neutre ou fonctionnelle (par exemple : ils mettent à jour leurs fichiers pour des raisons logistiques). Priya peut appliquer cela à son courrier de l'Ordre. L’objectif est de garder les interprétations comme des hypothèses, favorables ou défavorables, et de vérifier la demande. Une lecture menaçante peut contenir un problème réel ; aucune grille ne tranche sa validité à elle seule.
+
+Objectif de cet essai : Relire la demande dans son contexte sans choisir d’avance une interprétation rassurante.
+
+1. Reprenez les lignes qui précèdent le mot « vérification » et le sujet de la phrase.
+2. Séparez ce que le courrier demande, les cabinets concernés et ce que vous craignez qu’il signifie.
+3. Gardez les points inconnus comme des questions à confirmer sans devoir remplacer la lecture inquiétante par une lecture favorable.
+
+Utilité possible : La relecture peut préciser la demande sans décider que toute vigilance est infondée.
 
 ### 2. Nommer ce qui inquiète dans la demande
 Priya peut se demander ce qui la rassurerait concrètement : vérifier l’expéditeur, obtenir une réponse écrite ou demander un avis indépendant. Aucun dialogue intérieur n’établit que l’on est en sécurité.
 
+Objectif de cet essai : Nommer l’information qui manque et le type d’appui souhaité.
+
+1. Choisissez le point qui vous préoccupe, comme la conformité du logiciel installé.
+2. Dites ce qui vous manque : expéditeur confirmé, portée de la mesure ou réponse écrite.
+3. Choisissez un appui approprié à ce besoin sans lui demander de garantir toute l’institution.
+
+Utilité possible : Le besoin devient formulable sans diagnostic du passé ni certitude de sécurité.
+
 ### 3. Demander une précision ou un avis indépendant
 Priya peut, si elle le souhaite, demander une précision par un canal officiel. En cas de pressions ou de menaces, elle peut garder ses distances et solliciter un interlocuteur indépendant. Une réponse rassurante ne garantit pas que la personne restera fiable.
+
+Objectif de cet essai : Vérifier un point par un canal adapté ou un interlocuteur indépendant.
+
+1. Utilisez un canal officiel déjà vérifié pour une question limitée si cela vous convient.
+2. Ne transmettez que les informations nécessaires et gardez la réponse dans le cadre professionnel approprié.
+3. En cas de pression ou de menace, maintenez la distance et sollicitez un avis indépendant plutôt que tester la confiance par une exposition.
+
+Utilité possible : La confirmation éclaire un point et reste distincte d’une garantie de fiabilité future.
 
 ## La rubrique sur les cabinets concernés
 

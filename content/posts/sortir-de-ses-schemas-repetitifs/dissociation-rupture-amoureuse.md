@@ -32,13 +32,28 @@ On parle de dépersonnalisation lorsqu’une personne se sent détachée d’ell
 
 Une photocopie faite deux fois peut tenir à la fatigue ou à la distraction. Des trous de mémoire répétés, une perte de connaissance ou des périodes pendant lesquelles on ne sait plus ce qui s’est passé demandent un avis médical. En cas de confusion soudaine ou de perte de connaissance, demandez rapidement une aide médicale. Si les épisodes gênent la conduite, évitez de conduire en attendant cet avis.
 
+Exemples concrets
+
+- Isabelle retrouve un dossier rangé sans se rappeler l’avoir fait.
+- La photocopie doublée peut relever de la distraction et ne tranche pas l’origine de ses autres absences.
+
 ### Se sentir distante de ce qui se passe
 
 Isabelle dit que les voix lui semblent lointaines, alors qu’elle sait qu’elle est dans son bureau. Décrire la sensation dans ses propres mots est plus utile que de supposer sa cause. Elle peut aussi décrire son sommeil, les moments où cela survient et les difficultés que cela entraîne.
 
+Exemples concrets
+
+- Les voix lui semblent venir du couloir alors que la personne est près d’elle.
+- Elle peut savoir qu’elle est au bureau tout en décrivant cette distance inhabituelle.
+
 ### Ressentir des émotions très différentes
 
 Passer du chagrin à un moment de répit ou se sentir momentanément engourdie ne démontre pas une fragmentation de l’identité. Isabelle peut garder ces observations distinctes de ses trous de mémoire.
+
+Exemples concrets
+
+- Un moment de répit après le départ d’Aurélie ne montre pas une identité fragmentée.
+- Se sentir engourdie pendant une soirée reste à distinguer d’une période dont elle ne sait plus ce qui s’est passé.
 
 ## Trois pistes pour chercher des appuis
 
@@ -46,13 +61,43 @@ Passer du chagrin à un moment de répit ou se sentir momentanément engourdie n
 
 Lors d’un moment d’irréalité, si la situation est sûre, Isabelle essaie de regarder un objet familier ou de sentir ses pieds au sol. Elle peut arrêter si cela ne l’aide pas. Ce geste lui sert de repère dans l’instant.
 
+**Objectif :** Retrouver un repère dans un instant sûr.
+
+Exercice pratique
+
+- Si la situation est sûre, choisissez le tissu de la veste, un objet familier ou les pieds au sol.
+- Regardez ou sentez ce repère sans chercher à provoquer ni analyser le malaise.
+- Arrêtez si cela gêne et demandez l’appui nécessaire ; une confusion soudaine ou une perte de connaissance relève d’une aide médicale rapide.
+
+**Utilité possible :** Le repère peut aider sur le moment sans expliquer la cause ni remplacer l’évaluation.
+
 ### 2. Décrire ce qui s’est passé
 
 Elle note la date, le lieu, la durée approximative et ce qu’elle a remarqué avant et après. Quelques faits peuvent aider lors de la consultation. Elle ne cherche pas à reconstituer de force des souvenirs manquants.
 
+**Objectif :** Préparer une description sans rappel de souvenirs forcé.
+
+Exercice pratique
+
+- Notez brièvement date, lieu et durée approximative si vous pouvez les situer.
+- Décrivez ce dont vous vous souvenez avant et après sans reconstruire les blancs.
+- Gardez ces observations pour le médecin plutôt que multiplier les recherches sur une cause supposée.
+
+**Utilité possible :** Quelques faits situés peuvent soutenir la consultation sans prétendre combler la mémoire.
+
 ### 3. Prendre rendez-vous
 
 Isabelle décide de parler de ces épisodes à son médecin. Celui-ci pourra l’interroger, vérifier d’autres causes et l’orienter si nécessaire. Elle peut demander un relais à une collègue habilitée si un épisode l’empêche d’assurer un rendez-vous.
+
+**Objectif :** Obtenir une évaluation et assurer le relais nécessaire.
+
+Exercice pratique
+
+- Appelez le cabinet pour décrire les épisodes répétés et leur retentissement.
+- Demandez l’orientation adaptée et suivez les indications reçues, y compris pour les activités gênées comme la conduite.
+- Au collège, organisez un relais avec une collègue habilitée si vous ne pouvez assurer l’entretien.
+
+**Utilité possible :** Le rendez-vous permet d’examiner les différentes causes possibles pendant que le travail est organisé avec ses relais.
 
 ## Un rendez-vous pour comprendre
 

@@ -32,31 +32,52 @@ Le clivage pousse à attribuer à l'autre un rôle sans nuance. Dans un conflit 
 
 Lors d'une discussion sur les meubles d'Hélène, un commentaire anodin d'Éric devient la preuve d'une volonté systématique d'effacer la mémoire de sa mère. Ainsi, chaque initiative d'Éric active la catégorie « mauvaise » dans l'esprit de Bernard, rendant la discussion stérile.
 
+**Autre exemple situé :** Bernard entend « vendre » quand Éric propose seulement une estimation. Reprendre le mot exact permet de distinguer la liste réelle de la décision qu’il imagine déjà prise.
+
 ### 2. Oscillation émotionnelle et réactions instantanées
 Dans la scène, Bernard change de ton et interrompt l’échange. Cela peut se produire pour de multiples raisons. Reconnaître le changement de ton ne dit pas ce qu’il se passe dans son esprit.
 
 Après un commentaire d'Éric, Bernard propose de sceller une armoire dans le grenier plutôt que d'en discuter, décision qui exprime un rejet immédiat plutôt qu'une négociation.
+
+**Autre exemple situé :** à la deuxième possibilité exposée par Éric, Bernard l’interrompt avant d’avoir lu la liste. Constater cette interruption décrit un acte observable ; cela ne diagnostique pas le clivage.
 
 ### 3. Quand un objet prend toute la place dans l’échange
 Un meuble peut représenter un souvenir sans remplacer la relation. Bernard montre une table à Éric et se rend compte qu’il aimerait aussi lui dire pourquoi elle compte. Ce geste n’est pas un signe clinique.
 
 Quand Éric propose de réarranger la maison, Bernard répond en montrant une table qu'il a refaite et affirme que le travail manuel dira ce qu'il n'arrive pas à dire à voix haute. Cette tendance à matérialiser ses sentiments, qu'il avait déjà identifiée en fabriquant la commode pour son fils, reste son refuge le plus tenace.
 
+**Autre exemple situé :** Bernard montre le chevet restauré plutôt que de répondre à la question sur l’entretien de la maison. Le meuble peut ensuite servir de point de départ, s’il lui ajoute ce qu’il souhaite en dire.
+
 ## Techniques pour gérer le clivage
 ### 1. Nommer une émotion en une phrase
-L'objectif est de ralentir l'automatisme de catégorisation en ajoutant un descriptif simple et vérifiable. Lors d'un échange conflictuel, il s'agit de dire une phrase courte commençant par « J'éprouve... » et de décrire une sensation physique ou une émotion factuelle, par exemple : « J'éprouve de la peur quand on parle de la maison ». La règle consiste à n'utiliser qu'une seule phrase, sans justification ni attaque.
 
-Bernard peut reprendre cet exercice dans l'atelier. Plutôt que d'opposer « Tu veux vendre tout et tout perdre », il peut dire « J'éprouve de la colère en imaginant que la maison change ». Cette simple formulation fragmente le mécanisme du clivage en ajoutant de l'information nuancée. Bernard peut parler du changement qu’il redoute sans chercher une explication à son mal de dos.
+**Objectif :** Faire entendre sa réaction sans attribuer une intention à Éric.
+
+1. Attendre l’arrêt complet des machines et poser la pièce travaillée.
+2. Choisir un mot qui lui convient aujourd’hui, puis une phrase telle que « Je suis en colère quand j’imagine la maison changée ».
+3. Demander de reprendre le terme exact utilisé par Éric, puis écouter sa réponse sans devoir poursuivre aussitôt.
+
+Cette phrase peut préciser le désaccord. Elle ne fragmente pas un mécanisme clinique et ne traite pas la douleur physique de Bernard.
 
 ### 2. Le petit accord : valider puis proposer
-L'idée est de sortir de la logique tout ou rien en posant d'abord une validation factuelle, puis une proposition modérée. Dans une discussion, commencez par reconnaître un point valable chez l'autre (« Tu as raison que la maison a besoin d'entretien »), puis énoncez une suggestion limitée et réversible (« Et si on commençait par trier une seule pièce ensemble samedi matin ? »).
 
-Face à Éric, Bernard peut accepter la préoccupation de son fils sur l'entretien, puis proposer une action conjointe qui n'implique pas d'effacement mémoriel. Cela rompt la polarisation et crée un espace pour l'ambivalence, ce que le clivage refuse. Bernard a appris à planifier des gestes concrets comme réparer une chaise ou restaurer un buffet. Transformer ces gestes en actions partagées est une suite logique.
+**Objectif :** Séparer une préoccupation commune d’une décision encore ouverte.
+
+1. Repérer dans la liste un fait qu’il peut reconnaître, tel que l’entretien nécessaire de la maison.
+2. Le reformuler sans approuver une vente : « Je suis d’accord pour examiner l’entretien. »
+3. Proposer une suite réversible, comme demander deux informations avant d’en reparler, et vérifier l’accord d’Éric.
+
+Un accord limité peut rendre la discussion plus précise. Il ne garantit pas un compromis et n’est pas adapté à une situation menaçante ou violente.
 
 ### 3. Le discours en objet détaché
-Cette technique utilise l'attachement aux objets comme passerelle vers la parole, sans remplacer la relation. Prenez un meuble ou un objet qui appartient à la personne disparue et décrivez son histoire en trois phrases : origine, souvenir partagé, proposition d'avenir. Par exemple : « Ce chevet était le cadeau du premier Noël, il me rappelle son rire, on pourrait le garder dans une pièce commune ou en faire une boîte de souvenirs que nous choisirons ensemble ».
 
-Bernard transforme sa tendance à s'exprimer uniquement par le travail en une invitation au dialogue. En racontant l'histoire du buffet à Éric, il ouvre la porte à la co-construction d'une décision. L'exercice donne à la fois du respect pour le passé et une possibilité de futur partagé. Ces trois techniques visent à réduire l'urgence du jugement dichotomique pour créer une tierce position entre tout garder et tout jeter.
+**Objectif :** Raconter pourquoi un meuble compte sans en faire la réponse à toute la maison.
+
+1. Choisir un objet accessible, sans devoir soulever un meuble lourd pour parler.
+2. Dire un souvenir déjà connu et ce qu’il souhaite garder aujourd’hui, sans chercher un souvenir enfoui.
+3. Demander à Éric ce que cet objet représente pour lui, puis noter séparément les décisions restant à prendre.
+
+Le récit d’un objet peut ouvrir deux points de vue. Il n’impose ni tri des affaires ni décision sur le logement.
 
 ## Reprendre la discussion sur la maison
 Dans l'atelier, Bernard prend le chevet en noyer qu'il a restauré pour Hélène et suit l'exercice du discours en objet détaché. Il tient l'objet avec respect. Au lieu d'opposer immédiatement les propositions d'Éric, il prononce la phrase préparée : « J'éprouve de la colère quand je pense que la maison va changer ». La voix est rauque, mesurée, c'est une phrase courte qui ne condamne pas. Éric fronce les sourcils, surpris par ce ton nouveau.

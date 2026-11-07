@@ -45,6 +45,8 @@ Le besoin d'information ne correspond pas forcément à une recherche excessive 
 
 Lorsqu'elle ne fait pas cette distinction, elle se reproche d'être anxieuse alors qu'elle manque d'un repère indispensable. Sa réaction contient peut-être une anticipation pénible, mais aussi une demande légitime d'organisation. Les deux peuvent être examinées séparément, sans que l'une invalide l'autre.
 
+Réserver deux trajets possibles et déplacer mentalement le repas avec Julien sont deux préparations imposées par l’horaire encore incertain ; le besoin de confirmation ne relève pas seulement d’une pensée à calmer.
+
 ### L'effort d'adaptation n'a plus de limite visible
 
 Maëlle aime être considérée comme fiable. Elle trouve des solutions, échange un trajet, annule un rendez-vous, puis laisse penser que le changement ne pose pas de problème. Les adaptations existent réellement. Leur coût devient pourtant invisible, puisque seul le résultat final est observé : elle arrive à l'heure.
@@ -53,6 +55,8 @@ Cette discrétion peut entretenir une règle trompeuse. Si elle réussit une foi
 
 Rendre le coût visible ne consiste pas à refuser toute coopération. Elle peut préciser les conditions de sa disponibilité : tel transport est possible, tel enchaînement compromet sa récupération, telle confirmation est nécessaire. La fiabilité comprend aussi le fait de signaler une limite avant qu'elle ne devienne un risque.
 
+Échanger un covoiturage et renoncer au repas commun rendent tous deux l’arrivée ponctuelle possible, tout en masquant les conséquences qui l’ont précédée.
+
 ### La tension continue après la sortie du poste
 
 À la maison, Maëlle pourrait reprendre le problème avec Julien pendant tout le repas, puis consulter ses messages professionnels au moment de se reposer. Elle retrouve alors la difficulté des pensées répétées, mais avec une différence : une information externe manque encore. Il ne suffit pas de fermer le carnet pour que la question matérielle soit résolue.
@@ -60,6 +64,8 @@ Rendre le coût visible ne consiste pas à refuser toute coopération. Elle peut
 Elle peut néanmoins identifier une frontière. Attendre une confirmation prévue à un moment donné n'exige pas toujours de vérifier en continu. Si l'organisation attend d'elle une disponibilité particulière, celle-ci doit être clarifiée dans le cadre professionnel. Elle n'a pas à transformer spontanément tout son temps privé en permanence de planning.
 
 Julien peut l'aider à examiner un trajet ou une contrainte domestique. Il ne peut pas confirmer une décision d'entreprise. Lorsque leur conversation tourne autour de suppositions, ils risquent de s'épuiser sans accéder au bon niveau d'action. Savoir quel interlocuteur détient l'information devient donc une ressource importante.
+
+Le repas rempli de scénarios et la consultation des messages pendant la période de repos sont deux prolongations du planning dans le temps privé, sans information nouvelle assurée.
 
 ## Faire préciser le planning et ses conséquences
 

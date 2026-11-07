@@ -30,21 +30,60 @@ Priya aimerait parler un peu d’elle et en même temps garder des choses pour e
 ### 1. Retrait discret après un moment d'intimité
 Dans cette scène, Priya change de sujet quand l’échange devient personnel. Le même geste pourrait avoir d’autres raisons chez quelqu’un d’autre, notamment la fatigue ou le besoin d’intimité.
 
+Deux exemples dans cet épisode :
+
+- Au lieu de parler du dahl qu’elle cuisine le dimanche, Priya dit avoir un dossier à finir.
+- Elle revient au travail après la question personnelle et laisse son interlocuteur ramener son assiette pendant qu’elle poursuit son récit.
+
 ### 2. Rationalisation émotionnelle
-La vulnérabilité peut se cacher derrière l'intellect. Au lieu de nommer un besoin, on le transforme en problème à résoudre. Dire que l'on est inquiet parce qu'il faut planifier les finances devient une analyse sur les risques financiers des couples non mariés. C'est une stratégie courante chez les professionnels qui privilégient l'analyse au partage. Priya connaît bien ce réflexe. Lors de la sélection d'un associé au cabinet, elle a converti une peur personnelle en biais de disponibilité professionnel. Dans le couple, ce mécanisme protège en transformant l'émotion en cas clinique.
+Au dîner, Priya parle longuement des dossiers quand on lui demande ce qui lui plaît en dehors du travail. Elle peut se demander si ce sujet familier lui évite de préciser ce qu’elle souhaite partager, ou si elle a simplement du mal à trouver sa réponse sur le moment. Lors de la sélection d’un associé, des souvenirs faciles à rappeler avaient orienté ses questions ; ce raccourci de disponibilité ne prouve pas la fonction d’une défense dans cet échange intime. Ici, parler du travail peut laisser la question personnelle en suspens sans révéler à lui seul une peur cachée.
+
+Deux exemples dans cet épisode :
+
+- Elle détaille un formulaire réimprimé, un sujet dont elle peut parler sans chercher ce qu’elle veut rendre personnel.
+- Dans le bus, elle commence un message factuel sur son retour avant de reconnaître qu’elle n’est pas encore arrivée.
 
 ### 3. Tests et méfiance déguisée en humour
 Certaines personnes testent leur partenaire pour mesurer sa fiabilité avant d'exposer un besoin profond. Cela peut prendre la forme d'ironie, de petites provocations ou de blagues acides qui servent à jauger la réaction. Une pique sur le manque d'ambition de l'autre peut masquer une peur d'être jugé. Priya a appris que la méfiance s'active rapidement quand elle perçoit une potentielle mise en danger de son image. Dans la relation, cela se traduit par des dévalorisations pour éviter d'être elle-même rabaissée, une armure de mépris qu'elle avait déjà utilisée pour se protéger d'Antoine lors de leur visioconférence.
 
+Deux exemples dans cet épisode :
+
+- Si une question sur ses loisirs lui paraît intrusive, une remarque ironique sur celle de l’autre pourrait lui éviter de dire sa propre limite.
+- Elle pourrait dévaloriser le récit de son interlocuteur pour interrompre le sujet plutôt que dire qu’elle préfère ne pas répondre ; cela reste une possibilité à examiner, pas un test conseillé.
+
 ## Techniques pour accueillir la vulnérabilité en couple
 ### 1. Nommer une émotion en une phrase courte
-L'objectif est de transformer une sensation diffuse en communication simple et testable. L'exercice consiste d'abord à identifier un moment récent où la vulnérabilité a paru menaçante. Il s'agit ensuite de formuler une phrase courte en "je" qui désigne l'émotion sans l'amplifier, par exemple : « Je me sens mal à l'aise quand on parle de projets personnels. » Enfin, on partage cette phrase en demandant un retour neutre pour savoir comment l'autre l'entend. L'économie du langage réduit la tentation de réfuter ou de se réfugier dans l'analyse. Pour une personne évitante comme Priya, l'exercice permet d'expérimenter une ouverture contrôlée.
+L’objectif est de trouver une formulation personnelle que Priya est libre de partager. L'exercice consiste d'abord à identifier un moment récent où la vulnérabilité a paru menaçante. Il s'agit ensuite de formuler une phrase courte en "je" qui désigne l'émotion sans l'amplifier, par exemple : « Je me sens mal à l'aise quand on parle de projets personnels. » Elle peut choisir de partager cette phrase ou de la garder privée. Ni la brièveté du message ni la réponse reçue ne constituent un test d’attachement ou de sécurité.
+
+Objectif de cet essai : Trouver une phrase personnelle facultative.
+
+1. Choisissez un moment présent que vous avez envie de préciser, sans chercher un souvenir douloureux.
+2. Écrivez une phrase en « je » avec un mot qui vous convient, même approximatif.
+3. Décidez de la garder pour vous ou de la partager ; l’autre ne doit pas fournir un retour pour la valider.
+
+Utilité possible : La phrase rend un élément dicible sans être une épreuve de vulnérabilité ou un test de relation.
 
 ### 2. Revenir sur une question au moment choisi
-Cette méthode vise à créer des expériences à faible enjeu pour vérifier la sécurité relationnelle. Il convient de choisir un créneau court et répété, comme dix minutes deux fois par semaine, dédié au partage. Chaque personne raconte un élément modeste de son vécu émotionnel, comme une fatigue ou une petite déception. L'autre écoute sans chercher à résoudre, puis reformule ce qu'il a entendu en une phrase. En réduisant le temps et l'attente de performance, la personne vulnérable peut s'exposer par paliers. Priya peut intégrer ces rendez-vous comme une routine, transformant la vulnérabilité en un acte régulier et prévisible.
+Priya peut revenir à la question sur ses loisirs lorsqu’elle en a envie. Elle peut demander si le moment convient et parler du dahl sans raconter Damien. Un échange agréable ne prouve pas la sécurité d’une relation ; il n’y a ni fréquence ni palier de confidence à accomplir.
+
+Objectif de cet essai : Revenir sur une question au moment choisi.
+
+1. Retenez la question du dîner à laquelle vous voulez revenir.
+2. Vérifiez si le moment convient à tous deux et choisissez le détail à raconter, comme le plat du dimanche.
+3. Arrêtez où vous le souhaitez ; une réponse tardive n’ouvre pas tous les autres sujets personnels.
+
+Utilité possible : Le retour à la question donne une seconde occasion choisie, sans routine de confidence ni sécurité garantie.
 
 ### 3. Garder le choix de ce qu’on partage
 Il n’y a pas d’étape obligatoire où raconter un souvenir douloureux. Priya peut attendre ou simplement dire qu’un sujet est privé. La réaction à une confidence ne suffit pas à établir la sécurité de la relation. En cas de contrôle, de pressions ou de menaces, demander de l’aide est possible via le [portail Arrêtons les violences](https://arretonslesviolences.gouv.fr/besoin-d-aide), sans confronter l’autre par un test.
+
+Objectif de cet essai : Délimiter les contenus privés sans devoir prouver une ouverture.
+
+1. Repérez un sujet que vous souhaitez garder privé aujourd’hui, tel que l’histoire avec Damien.
+2. Préparez une limite simple si une question arrive, sans justification obligatoire.
+3. Selon le comportement réel de l’autre, choisissez de poursuivre, de différer ou de chercher un appui en cas de pression.
+
+Utilité possible : La limite garde une place au partage volontaire et aux décisions de sécurité.
 
 ## Une réponse en retard
 

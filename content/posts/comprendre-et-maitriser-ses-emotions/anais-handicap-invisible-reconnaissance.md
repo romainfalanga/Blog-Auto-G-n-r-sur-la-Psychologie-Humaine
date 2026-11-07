@@ -41,6 +41,11 @@ Cette situation peut créer une pression à montrer davantage la difficulté. An
 
 Elle peut rendre le coût concret sans tout exposer : un passage encombré complique ses déplacements ; une tâche répétée nécessite une évaluation ; une organisation sans relais devient difficile. Ces descriptions ne remplacent pas l'avis médical. Elles relient le besoin aux conditions de travail plutôt qu'au jugement extérieur sur sa mine.
 
+Exemples concrets
+
+- Un accueil courtois est pris dans le hall pour une preuve qu’Anaïs peut contourner les cartons.
+- Après une permanence menée jusqu’au bout, une demande de relais pour les dossiers peut être moins comprise.
+
 ### Le loisir devient une pièce à charge
 
 Anaïs craint qu'une sortie soit interprétée comme la preuve qu'elle pourrait faire davantage au travail. Cette crainte peut l'amener à cacher ce qui lui fait plaisir, voire à y renoncer. Elle serait alors privée d'une activité choisie pour éviter une comparaison qui ne tient pas compte de sa nature ni de son coût.
@@ -49,6 +54,11 @@ Regarder un film assise, porter un dossier et tenir une permanence ne demandent 
 
 Anaïs peut expliquer cette différence à une personne avec qui l'échange semble possible. Elle n'a pas à plaider chaque sortie devant tout le service. Si des soupçons ou des remarques répétées affectent ses conditions de travail, elle peut rechercher un appui approprié. La difficulté ne se réduit plus alors à la manière dont elle interprète une phrase isolée.
 
+Exemples concrets
+
+- Une photo de sortie au cinéma pourrait être comparée à tort au transport des dossiers.
+- Sa présence assise à l’exposition pourrait être opposée à son besoin de dégager l’arrière du guichet.
+
 ### La preuve demandée empiète sur la vie privée
 
 Pour être crue, Anaïs peut ressentir l'envie de citer ses examens, ses rendez-vous et ses traitements. Elle donnerait ainsi davantage d'informations qu'elle ne le souhaite, sans garantie que le jugement change. Une personne sceptique peut toujours déplacer la question et demander un détail supplémentaire.
@@ -56,6 +66,11 @@ Pour être crue, Anaïs peut ressentir l'envie de citer ses examens, ses rendez-
 Elle distingue désormais l'interlocuteur qui a besoin d'informations médicales dans un cadre de soins de celui qui doit organiser une tâche. Le contenu transmis n'est pas le même. Une discussion sur un passage encombré ne nécessite pas que tout le hall connaisse sa situation clinique.
 
 Cette limite ne signifie pas qu'elle cache quelque chose de suspect. Elle préserve un espace personnel et rend le dialogue plus proportionné. Anaïs peut demander conseil au service compétent sur ce qui doit être communiqué, à qui et par quel canal, plutôt que décider sous la pression d'une remarque publique.
+
+Exemples concrets
+
+- Dans le hall, elle songe à citer ses examens pour obtenir le déplacement des cartons.
+- Face à une autre question insistante, elle pourrait raconter un traitement alors qu’elle souhaite seulement organiser un relais.
 
 ## 3 techniques pour demander reconnaissance et respect
 
@@ -67,6 +82,16 @@ Si l'échange le permet, elle peut ajouter une explication sur la variabilité. 
 
 Cette stratégie ne garantit pas une réponse respectueuse. Si une situation devient hostile ou discriminante, elle mérite d'être signalée et accompagnée dans un cadre approprié. Anaïs n'a pas à trouver la formulation parfaite pour faire cesser seule un comportement répété. La protection de la parole et des conditions de travail concerne aussi l'organisation.
 
+Pour essayer dans cette situation
+
+Objectif : Ramener l’échange au passage encombré.
+
+1. Nommer les cartons et le déplacement qu’ils compliquent, sans évaluer sa santé devant le public.
+2. Demander leur déplacement à la personne qui peut le faire.
+3. Si la remarque sur son apparence continue, demander un échange dans le cadre approprié avec Gabrielle.
+
+La demande devient traitable matériellement même si l’interlocuteur ne comprend pas tout son vécu.
+
 ### 2. Choisir le niveau d'information pour chaque échange
 
 Avec une amie, elle peut parler de ce qu'elle ressent et de ce qui l'aide. Avec sa responsable, elle peut décrire les difficultés de tâche et les besoins à examiner. Avec le professionnel de santé au travail ou de prévention, elle peut aborder la compatibilité du poste avec sa santé dans le cadre prévu. Les informations répondent à des fonctions différentes.
@@ -75,6 +100,16 @@ Elle prépare une phrase pour marquer sa limite : « Je préfère garder les dé
 
 Benoît peut l'aider à préparer ces phrases si elle le souhaite. Il ne parle pas automatiquement à sa place lorsqu'une remarque survient. Anaïs peut demander un soutien précis : reprendre le besoin pratique, rester près d'elle ou l'aider ensuite à trouver un interlocuteur. L'appui respecte sa manière de se présenter.
 
+Pour essayer dans cette situation
+
+Objectif : Choisir ce que chacun a besoin de savoir dans cet échange.
+
+1. Repérer si l’interlocuteur est un proche, une responsable ou un professionnel de santé.
+2. Préparer pour Gabrielle une description du travail gêné et réserver les documents médicaux au bon cadre.
+3. Dire qu’elle ne souhaite pas détailler davantage si une question dépasse ce qu’elle a choisi de partager.
+
+Ce tri peut protéger sa vie privée sans rendre le besoin fonctionnel imprécis.
+
 ### 3. Chercher un cadre de reconnaissance adapté
 
 Pour les difficultés professionnelles qui reviennent, Anaïs s'informe sur le service de médecine de prévention, le référent handicap et les relais disponibles dans sa collectivité. Le portail Mon Parcours Handicap présente le médecin du travail ou de prévention comme un interlocuteur pour les difficultés de santé au poste. Elle peut demander comment accéder à ce cadre.
@@ -82,6 +117,16 @@ Pour les difficultés professionnelles qui reviennent, Anaïs s'informe sur le s
 Une démarche administrative éventuelle demande des informations personnalisées sur ses objectifs et les conditions applicables. Elle peut se renseigner auprès des services compétents, sans considérer que sa maladie lui donne automatiquement toutes les aides ni qu'une absence de statut rend ses besoins inexistants. Les deux questions ne sont pas identiques.
 
 Elle conserve des exemples utiles et recherche un accompagnement si les démarches deviennent trop lourdes. La reconnaissance ne doit pas être un nouveau travail invisible à accomplir seule. Certaines réponses prendront du temps ; cela ne l'oblige pas à attendre pour faire examiner un obstacle immédiat ou une difficulté de sécurité.
+
+Pour essayer dans cette situation
+
+Objectif : Trouver un interlocuteur pour les difficultés récurrentes.
+
+1. Demander à Gabrielle comment contacter le service de prévention et les relais de la collectivité.
+2. Garder deux situations de travail à présenter plutôt qu’un dossier destiné à convaincre tout le hall.
+3. Prévoir avec l’interlocuteur identifié comment reprendre la démarche si elle reste sans suite.
+
+Une suite identifiée peut éviter que chaque nouvel obstacle redemande une justification publique.
 
 ## Dégager le passage du guichet
 

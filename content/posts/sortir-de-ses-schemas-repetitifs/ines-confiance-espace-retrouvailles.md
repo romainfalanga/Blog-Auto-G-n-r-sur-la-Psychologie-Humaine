@@ -39,17 +39,23 @@ Le deuxième jour, Inès envoie une photo d’un roman découvert au marché. La
 
 Elle distingue aussi un message offert d’une demande de contact. Une photo n’annonce pas nécessairement qu’elle souhaite une réponse rapide. Si elle veut entendre Clara ce jour-là, elle peut le demander et vérifier la disponibilité. Cette clarté ne garantit pas l’appel, mais évite que l’attente se construise sur une intention invisible. Elle permet à chacune de comprendre ce qui serait aidant, au lieu de recevoir après coup le bilan d’un test qu’elle ignore.
 
+Relire la photo du roman en attendant une réponse et imaginer que le silence signifie qu’Inès dérange sont deux réactions possibles au même créneau d’ateliers.
+
 ### Mettre sa propre soirée entre parenthèses
 
 Inès hésite à rejoindre Cécile pour une séance de lecture publique, au cas où Clara souhaiterait appeler. Elle pourrait rester près de son appareil, puis ressentir une frustration si l’appel n’arrive pas. Son renoncement ne serait pourtant pas demandé. Elle peut prévenir qu’elle sera indisponible pendant la séance et proposer un autre créneau. L’existence de ce temps personnel ne signifie pas que le contact avec Clara compte moins.
 
 Elle remarque que choisir une activité ne supprime pas nécessairement l’envie d’avoir des nouvelles. Les deux peuvent coexister. L’activité n’est pas un exercice pour prouver qu’elle ne dépend de personne, ni une punition adressée à sa compagne. C’est une partie de sa vie qu’elle souhaite réellement maintenir. La confiance soutient ici une organisation concrète : chacune n’a pas besoin de rester en attente pour que l’autre puisse la retrouver.
 
+Une autre soirée pourrait être organisée autour d’un repas retardé au cas où l’appel arriverait ; comme la lecture avec Cécile, ce temps serait suspendu sans demande de Clara.
+
 ### Attendre un retour qui efface toute distance
 
 Avant le retour, Inès imagine une longue soirée à raconter leurs journées. Clara annonce que le trajet lui laisse surtout envie de se doucher et de poser ses affaires. Inès peut entendre cette demande comme le prolongement d’une absence qu’elle voudrait déjà refermer. Clara peut, elle, trouver injuste d’être attendue sur une disponibilité totale dès la porte franchie. Le décalage vient de deux scénarios préparés séparément.
 
 Les retrouvailles constituent un moment à organiser, pas seulement un événement qui devrait produire spontanément la même émotion. Un accueil bref, une pause puis un repas peuvent convenir davantage qu’un programme entier. Inès peut dire qu’elle souhaite un temps partagé, tandis que Clara peut préciser de quoi elle est capable à l’arrivée. Leur confiance gagne à supporter ce passage, avec des rythmes qui se rapprochent sans devoir coïncider immédiatement.
+
+Une attente de récit complet dès le quai et une attente de tendresse dès la porte peuvent toutes deux dépasser la disponibilité annoncée par Clara après son trajet.
 
 ## Prévoir le retour aussi bien que le départ
 

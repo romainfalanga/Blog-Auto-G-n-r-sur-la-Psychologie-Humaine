@@ -31,11 +31,15 @@ Lucas a envie d’être avec ses amis et craint de dépasser son budget. L’adh
 
 ### 1. Conformité aux plans et pression du groupe
 
-Dans les groupes d'amis, il arrive souvent qu'une option devienne rapidement la norme : le restaurant, le bar ou le festival. Lucas remarque que, dans la colocation, quand Maxime propose une idée avec enthousiasme, la discussion bascule en quelques messages vers l’approbation générale. Le refus paraît anormal. Pour une personne cherchant constamment à plaire comme Lucas, dire non équivaut à risquer l’exclusion. Par exemple, Romain évoque un week-end à petit budget que Lucas sait ne pas pouvoir payer sans demander de l’aide à sa mère. Plutôt que d’expliquer sa contrainte, il acquiesce, imagine des solutions financières rapides et s’inscrit à l’événement. Le résultat produit un malaise intérieur et des dettes émotionnelles.
+L’adhésion des autres peut devenir une raison de répondre avant d’examiner la proposition. Lucas peut aimer une sortie et subir en même temps la pression de ne pas être le seul à hésiter. Cela n’établit pas que ses amis veulent l’exclure.
+
+Sur le quai, il commence « pareil » après les accords de Romain et d’un autre ami, avant de consulter son solde. Dans le salon, l’enthousiasme de Maxime peut aussi lui faire annoncer une présence avant de vérifier le travail restant sur le mémoire. Le premier exemple concerne l’argent, le second le temps. Dans les deux cas, le nombre de réponses positives risque de tenir lieu de vérification personnelle.
 
 ### 2. Adoption d’opinions majoritaires sans vérification
 
-L'effet bandwagon se glisse aussi dans les conversations d’opinion. Quand un sujet d’actualité surgit, le groupe prend vite une position. Lucas, compétitif en surface, choisit souvent l’angle consensuel pour éviter le débat. Plutôt que d’exprimer une nuance, il répète la position majoritaire. Lors d’un débat sur une intervention d’entreprise sur le campus, il se range au camp le plus applaudi, même si, en privé, il doute de cette approche. Cette conformité l’empêche d’affiner sa pensée critique et nourrit son sentiment d’imposture.
+Une influence de groupe peut aussi porter sur un avis. Suivre une position parce qu’elle paraît majoritaire ne permet pas de savoir quels arguments la soutiennent. Ce phénomène est voisin de l’entraînement d’une demande ; les études de conformité et l’effet économique décrit plus haut ne se confondent pas.
+
+Lors d’un débat sur une intervention d’entreprise sur le campus, Lucas se range du côté le plus applaudi alors qu’il conserve un doute. Dans la colocation, il pourrait reprendre un jugement de Romain sur un stage avant d’avoir lu ce qui lui est proposé. Ces deux situations peuvent l’amener à parler comme s’il avait vérifié une opinion qu’il adopte surtout parce qu’elle est déjà partagée.
 
 ### 3. Effet d'entraînement sur l'image personnelle et le comportement
 
@@ -45,15 +49,33 @@ L’imitation va au-delà des décisions, elle touche l’identité. Dans la pro
 
 ### 1. La pause décisionnelle pour s'accorder un délai concret
 
-Si la réponse peut attendre, Lucas peut prendre un moment pour vérifier ses disponibilités et le prix. Il peut aussi décliner tout de suite si le coût dépasse ce qu’il veut dépenser.
+Lucas cherche à répondre à une proposition connue, plutôt qu’à l’urgence ressentie devant les messages. Le délai reste compatible avec la réservation et peut être inutile si sa réponse est déjà claire.
+
+1. Lire le prix et l’heure limite de réponse. Si une information manque, la demander au groupe avant de s’engager.
+2. Dire quand il pourra répondre, puis regarder une fois son solde et le temps réservé au mémoire. Il peut aussi décliner directement si la dépense ne lui convient pas.
+3. Envoyer la réponse annoncée et préciser uniquement ce qu’il accepte : venir, rejoindre plus tard ou passer cette fois. « Peut-être » ne devient pas un accord caché.
+
+Ce délai sépare la vérification de l’imitation immédiate. Il ne garantit pas que refuser sera confortable ou que le groupe gardera la même option.
 
 ### 2. Le filtre des trois valeurs pour décider selon soi-même
 
-Lucas se demande ce qu’il souhaite cette semaine et quelle somme il peut engager. Plusieurs intérêts peuvent compter à la fois ; il n’a pas besoin de leur attribuer un score ni de juger sa décision moralement.
+Le but est de garder plusieurs choses importantes dans la décision, sans calcul de mérite. Pour Lucas, le lien amical, le budget et le travail du mémoire peuvent compter ensemble.
+
+1. Écrire ce qu’il souhaite dans cette soirée : voir ses amis, découvrir l’événement ou simplement ne pas rester seul. Il distingue l’envie de la crainte de déplaire.
+2. Comparer cette envie aux contraintes connues : somme disponible, transport et tâche à rendre. Il peut reconnaître un conflit sans le résoudre par une note chiffrée.
+3. Choisir une réponse et, s’il le souhaite, une alternative précise : un moment à la coloc ou une sortie moins coûteuse à proposer séparément.
+
+Ce filtre rend ses raisons explicites. Il ne crée pas un budget supplémentaire et ne demande pas que chaque décision satisfasse toutes ses priorités.
 
 ### 3. L'entraînement des micro-désaccords et simulations
 
-Lucas peut préparer une réponse courte pour les fois où il hésite. Des formulations comme « Je passe cette fois, merci d’avoir pensé à moi » ou « Je préfère y réfléchir et te dire plus tard » lui donnent deux options. Lucas s’entraîne avec un ami de confiance, Romain, à jouer des épisodes où il s’oppose sur un choix de musique pour la soirée ou sur une décision de groupe. Répéter une phrase peut lui donner des mots quand il hésite. Cela ne garantit pas sa réaction ni celle des autres.
+Lucas peut préparer des mots avec Romain si tous deux le souhaitent. La répétition porte sur une scène ordinaire, pas sur une épreuve qu’il faudrait réussir en affrontant une pression croissante.
+
+1. Choisir ensemble un cas simple, comme une musique ou une sortie proposée, et une phrase : « Je passe cette fois, merci d’avoir pensé à moi. »
+2. Dire la phrase une fois, puis demander à Romain ce qu’il a compris de la réponse. Il ne lui demande pas de jouer un ami menaçant ni de le convaincre à tout prix.
+3. Préciser les mots ambigus, conserver la version qui lui convient et décider s’il souhaite l’utiliser pour l’invitation actuelle.
+
+La préparation peut lui donner une formulation lorsqu’il hésite. Elle ne prédit ni sa réaction dans le groupe ni celle des autres et ne l’oblige pas à multiplier les désaccords.
 
 ## Lucas répond au groupe
 

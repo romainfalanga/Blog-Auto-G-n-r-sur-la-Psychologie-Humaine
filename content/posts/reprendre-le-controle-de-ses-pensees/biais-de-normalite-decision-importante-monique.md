@@ -22,45 +22,68 @@ Elle prend le téléphone pour appeler François. Il lui a déjà dit qu’il ai
 Sur un coin de la page, elle écrit : « Ce que j’aurais envie de garder. » Le premier mot qui lui vient est « table ». Elle attend un peu avant de préciser de quelle table elle parle.
 
 ## Qu'est-ce que le biais du statu quo ?
-
 Le [biais du statu quo](https://doi.org/10.1007/BF00055564), étudié par William Samuelson et Richard Zeckhauser, désigne une préférence pour l’option en place quand on la présente comme le point de départ. C’est un repère pour examiner la décision de Monique. Il se distingue du « biais de normalité », terme employé à propos de la sous-estimation d’une menace qui rompt avec la routine.
 
 Rester chez soi n’est pas nécessairement un biais. Monique peut préférer son jardin, craindre une dépense ou ne pas être prête à cohabiter. La question est de savoir si elle accorderait le même poids à ses raisons si elle comparait les options sans traiter l’une d’elles comme la seule voie possible.
 
 ## Comment le biais du statu quo se manifeste face à une décision importante ?
-
 L’habitude peut peser dans une décision sans la déterminer. Pour Monique, il est utile d’examiner ce qui relève de l’attachement à sa maison et ce qui relève de faits encore à vérifier.
 
 ### La minimisation des bénéfices du changement
-
 L'une des premières manifestations est la tendance à dévaluer systématiquement les aspects positifs d'une nouvelle option. Monique, par exemple, balaie l'idée d'avoir moins de ménage à faire dans un appartement moderne ou la joie de partager ses petits-déjeuners. Elle se concentre uniquement sur ce qu'elle perdrait, comme le jardin qu'elle entretient par habitude, la proximité avec Geneviève, ou la disposition des meubles qu'elle connaît par cœur. Le cerveau refuse d'intégrer les informations utiles pour juger si la nouvelle situation lui conviendrait.
 
-### L'invention de faux obstacles logiques
+Exemples concrets :
+- Monique peut considérer seulement le jardin qu’elle perdrait et omettre l’entretien plus léger d’un appartement.
+- À l’inverse, le souhait de garder un lieu de lecture reste une préférence à entendre, pas un obstacle à supprimer.
 
+### L'invention de faux obstacles logiques
 Les coûts, le marché immobilier et l’entretien ne sont pas des obstacles inventés. Monique peut vérifier les informations qui lui manquent et garder séparément ses raisons personnelles de rester ou de partir.
 
-### La recherche de validation du statu quo
+Exemples concrets :
+- La brochure ne suffit pas à connaître le budget de la cohabitation ou les frais d’une vente.
+- La marche de l’entrée et la fatigue des soirs de courses constituent des contraintes à discuter sans inventer une urgence de déménagement.
 
+### La recherche de validation du statu quo
 Face à un choix crucial, nous avons tendance à solliciter l'avis de personnes qui, nous le savons, nous encourageront à ne rien changer. Monique est tentée d'appeler son fils François, qui est très attaché à la maison familiale, plutôt que sa fille Isabelle, qui l'encourage souvent à vivre pour elle-même. En cherchant des alliés de la stabilité, nous renforçons notre biais du statu quo en créant un consensus social autour de notre immobilisme, ce qui calme temporairement notre anxiété mais bloque notre évolution personnelle.
 
-## 3 techniques pour agir face au biais du statu quo
+Exemples concrets :
+- Monique pense appeler François parce qu’elle connaît son attachement à la maison familiale.
+- Elle peut aussi demander à Isabelle un avis différent, sans en faire automatiquement la personne qui saurait le bon choix.
 
+## 3 techniques pour agir face au biais du statu quo
 Pour briser les chaînes de ce biais cognitif et reprendre le contrôle de ses pensées, il est nécessaire d'utiliser des outils qui forcent le cerveau à sortir de ses rails habituels. Voici trois approches concrètes pour aborder une décision importante avec plus de clarté.
 
 ### 1. La technique du scénario de l'inaction prolongée
+Objectif : Comparer deux quotidiens sans dévaloriser celui qui existe.
 
-Imaginez les conditions de vie qui comptent pour vous si vous restez et si vous changez : liens de voisinage, coût, espace, accès aux proches. Il n’est pas nécessaire de rendre l’option actuelle inconfortable pour réfléchir aux deux.
+Exercice pratique :
+- Lister ce qui compte pour Monique : lecture, voisinage, entretien et budget.
+- Écrire ce qui est connu et ce qui manque pour rester chez elle ou vivre avec Jacques.
+- Choisir une information à vérifier avant de décider, en gardant le droit de rester ou d’attendre.
+
+Utilité possible : La comparaison peut élargir l’examen sans transformer le changement en obligation.
 
 ### 2. Le questionnement par un tiers imaginaire
+Objectif : Préparer des questions en prenant un peu de distance.
 
-Pour court-circuiter l'attachement émotionnel à la norme, il est utile de se demander : si un ami très cher était dans ma situation exacte, que lui conseillerais-je ? Monique pourrait imaginer qu'Isabelle se retrouve seule dans une maison trop grande et qu'un homme bon lui propose de reconstruire un foyer. En déplaçant le problème sur quelqu'un d'autre, on s'extrait de sa propre peur. Cet exercice permet d'accéder à sa sagesse intérieure sans les interférences du système de défense qui protège nos habitudes. On peut même rédiger cette réponse sous forme de lettre à cet ami fictif pour matérialiser la réflexion.
+Exercice pratique :
+- Imaginer qu’une personne respectée présente les mêmes préférences et contraintes, sans idéaliser sa relation.
+- Écrire les questions qu’on lui poserait avant de lui conseiller quoi que ce soit.
+- Reprendre pour soi celles qui manquent encore, plutôt qu’utiliser la lettre comme un verdict.
+
+Utilité possible : Le détour peut faire apparaître une question pratique sans effacer l’attachement à la maison ni garantir un recul émotionnel.
 
 ### 3. La méthode des petits pas expérimentaux
+Objectif : Obtenir une information par un essai vraiment limité.
 
-Un essai réversible peut donner des informations, par exemple passer un week-end chez Jacques. Il n’engage pas Monique à vendre et ne garantit pas qu’elle voudra vivre avec lui.
+Exercice pratique :
+- Discuter avec Jacques des deux nuits envisagées et de ce que chacun souhaite préserver.
+- Garder l’activité de lecture et les moments ordinaires, sans organiser un week-end parfait à tout prix.
+- Faire ensuite un point sur ce qui convient et ce qui reste à examiner, sans engager une vente.
+
+Utilité possible : L’essai peut informer un choix de quotidien ; il ne décide pas de l’ensemble du projet immobilier ou relationnel.
 
 ## Un essai de deux nuits
-
 Monique garde la brochure ouverte sur la table et appelle Jacques. Elle lui dit que l’idée de vendre est trop avancée pour elle. Ils parlent de passer deux nuits chez lui pour voir comment se passe une journée ordinaire ensemble, sans caler le week-end sur une sortie.
 
 Elle demande si elle pourrait apporter son livre et finir de le lire dans un coin le dimanche matin. Jacques lui répond qu’il va souvent faire le marché à cette heure-là. Quand elle raccroche, la brochure est toujours là. Elle la range avec la lettre, pas avec les papiers qui attendent une signature.

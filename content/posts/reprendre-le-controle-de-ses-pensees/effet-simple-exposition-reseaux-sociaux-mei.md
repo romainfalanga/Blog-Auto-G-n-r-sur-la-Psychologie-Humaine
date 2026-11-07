@@ -33,31 +33,70 @@ Un fil peut présenter plusieurs fois une image, un produit ou un style. Le rés
 
 ### La standardisation des canons de beauté et de succès
 
-Pour une artiste comme Mei, ce biais se manifeste par une uniformisation de ses goûts. À force de voir défiler des illustrations au style très propre, minimaliste et coloré, elle finit par trouver ses propres dessins oniriques trop sombres ou désordonnés. L'exposition répétée à un type précis d'esthétique crée un nouveau standard de normalité dans son esprit. Ce n'est plus une question de talent, mais une saturation visuelle. Ce qui est vu souvent finit par être perçu comme la seule manière valable de créer, ce qui aggrave son anxiété sociale et sa peur du jugement lorsqu'elle doit présenter son travail à M. Dubois ou à ses parents. Elle réalise que ce besoin de conformité numérique n'est qu'une extension du faux self qu'elle a construit pour satisfaire Li et Wei, une nouvelle armure de perfection qu'elle s'impose pour ne pas détonner.
+Pour une artiste comme Mei, ce biais se manifeste par une uniformisation de ses goûts. À force de voir défiler des illustrations au style très propre, minimaliste et coloré, elle finit par trouver ses propres dessins oniriques trop sombres ou désordonnés. Mei se demande quelle place ces images prennent dans ses critères. La scène ne permet pas d’attribuer à la seule répétition un changement de norme ni une aggravation de l’anxiété. Elle réalise que ce besoin de conformité numérique n'est qu'une extension du faux self qu'elle a construit pour satisfaire Li et Wei, une nouvelle armure de perfection qu'elle s'impose pour ne pas détonner.
+
+Deux exemples dans cet épisode :
+
+- Mei reconnaît la démonstration avant l’apparition de la main et regarde les lignes lisses comme un repère familier.
+- Elle gomme le bord irrégulier de l’aile après cette image alors que ce bord participait à son intention de papier découpé.
 
 ### L'illusion de nécessité pour les produits de consommation
 
 Mei remarque que des objets dont elle n'avait aucun besoin finissent par devenir des envies pressantes. Une marque de pinceaux spécifiques ou une tablette graphique dernier cri apparaissent dans les mains de tous les artistes qu'elle suit. Au début, elle est indifférente. Puis, à la cinquième apparition, elle devient curieuse. Puis elle se demande si ces outils seraient utiles. Cette impression peut tenir à la répétition ou aux recommandations qui l’accompagnent ; ni l’une ni les autres ne suffisent à juger de la qualité du matériel.
 
+Deux exemples dans cet épisode :
+
+- Le nom du logiciel lui vient spontanément au moment d’envisager un changement d’outil.
+- Elle rouvre la démonstration pour savoir s’il traiterait le passage de l’aile devant la patte, mais l’exemple montre seulement un fond uni.
+
 ### La modification des opinions et des comportements relationnels
 
-Même dans sa relation avec Julien, ce biais s'immisce. Mei voit passer des vidéos sur ce que doit être un couple parfait. À force de voir ces mises en scène répétées, elle commence à comparer sa réalité avec ces modèles fictionnels. Le danger est que la répétition de ces schémas relationnels simplistes finisse par lui faire croire que la fusion totale est la norme, alors qu'elle travaille justement à sortir de ce mécanisme de faux self qu'elle a développé avec ses parents, Li et Wei. Elle comprend que l'effet spotlight, qui lui donne l'impression d'être scrutée en permanence, est nourri par cette exposition constante à des vies sans défauts.
+Même dans sa relation avec Julien, ce biais s'immisce. Mei voit passer des vidéos sur ce que doit être un couple parfait. À force de voir ces mises en scène répétées, elle commence à comparer sa réalité avec ces modèles fictionnels. Le danger est que la répétition de ces schémas relationnels simplistes finisse par lui faire croire que la fusion totale est la norme, alors qu'elle travaille justement à sortir de ce mécanisme de faux self qu'elle a développé avec ses parents, Li et Wei. Ce rapprochement avec ses autres préoccupations ne démontre pas que la répétition est à l’origine de l’effet spotlight.
+
+Deux exemples dans cet épisode :
+
+- Une vidéo de couple souvent revue pourrait rendre une soirée toujours partagée attirante sans dire ce que Mei souhaite ce soir avec Julien.
+- Elle peut comparer l’invitation au film à une image familière de complicité alors qu’elle veut aussi garder du temps pour dessiner.
 
 ## 3 techniques pour agir face à l'effet de simple exposition
 
-Il est possible de reprendre le contrôle sur ce mécanisme automatique en devenant un spectateur actif plutôt qu'un récepteur passif. Voici des exercices concrets pour désamorcer l'influence de la répétition.
+Mei peut examiner ce qu’elle regarde et ce qui lui servirait, sans chercher à supprimer toute influence sur ses goûts.
 
-### 1. La cure de diversité visuelle volontaire
+### 1. Comparer plusieurs références visuelles
 
-Cette technique consiste à casser la boucle de répétition en introduisant intentionnellement des stimuli radicalement différents. Pour Mei, cela signifie s'abonner à des comptes d'artistes dont le style est à l'opposé de ce qu'elle voit d'habitude, ou même suivre des thématiques éloignées de l'art. L'objectif est de forcer le cerveau à traiter de nouvelles informations non familières. En faisant cela, on réduit la dominance d'un seul modèle esthétique. Exercice : chaque semaine, identifiez un sujet qui vous est totalement étranger et passez dix minutes à explorer des images ou des articles sur ce thème pour rééduquer votre curiosité.
+Cette technique consiste à casser la boucle de répétition en introduisant intentionnellement des stimuli radicalement différents. Pour Mei, cela signifie s'abonner à des comptes d'artistes dont le style est à l'opposé de ce qu'elle voit d'habitude, ou même suivre des thématiques éloignées de l'art. L’objectif est de disposer d’autres références si elles l’intéressent. Mei peut chercher une texture adaptée à son dessin sans durée ni programme de rééducation de la curiosité.
+
+Objectif de cet essai : Élargir les références visuelles sans chercher à rééduquer ses goûts.
+
+1. Repérez le style ou la démonstration qui revient dans votre fil.
+2. Si vous en avez envie, regardez une autre référence pertinente, par exemple une texture de papier ou une œuvre au musée.
+3. Comparez ce que vous souhaitez en retenir pour l’aile, sans obligation d’aimer l’image la moins familière.
+
+Utilité possible : La comparaison ajoute des possibilités sans neutraliser une influence ni rendre un goût plus authentique.
 
 ### 2. Le marquage de l'intentionnalité
 
 Vous pouvez remarquer qu’un produit revient souvent et vous demander à quoi il vous servirait. Faites la différence entre le connaître, le trouver attirant et avoir une raison concrète de l’acheter.
 
+Objectif de cet essai : Séparer familiarité, attrait et usage concret avant un achat.
+
+1. Notez le nom du logiciel et ce que vous en connaissez réellement.
+2. Décrivez la tâche qu’il devrait vous permettre de faire en plus de votre outil actuel.
+3. Vérifiez cette fonction dans une information adaptée ou laissez l’achat ouvert si vous ne disposez pas d’élément utile.
+
+Utilité possible : La question d’usage apporte un critère de décision que la répétition seule ne fournit pas.
+
 ### 3. Faire une pause si elle est utile
 
 Choisissez une pause qui vous convient si le fil vous fatigue, ou essayez un dessin d’observation sans regarder d’exemples. Aucune durée n’est nécessaire pour « retrouver » ses goûts ; l’idée est de se donner une autre activité possible.
+
+Objectif de cet essai : Choisir une autre activité quand la consultation n’aide plus.
+
+1. Repérez si vous ouvrez encore la publicité pour une question nouvelle ou par simple retour au fil.
+2. Choisissez une pause ou revenez au dessin du passage entre l’aile et la patte.
+3. Après cet essai, décidez si une recherche supplémentaire vous servirait, sans durée imposée pour retrouver vos goûts.
+
+Utilité possible : Une autre tâche reste disponible sans faire de la fermeture du fil une épreuve de contrôle.
 
 ## Le trait sous l’aile
 

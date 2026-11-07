@@ -33,28 +33,49 @@ Bernard pense aux réactions de ses parents et à ce qu’il a appris à montrer
 ### Le poids du silence et des règles tacites
 Dans beaucoup de familles, les émotions ne font pas partie du vocabulaire quotidien. Un enfant apprend par observation ce qui est acceptable ou non. Pour Bernard, cela s'est traduit par un apprentissage silencieux : on ne pleure pas devant les autres, on ne montre pas ses failles. Le silence des parents finit par devenir la norme. Par exemple, si un père exprime rarement sa tristesse, l'enfant grandit avec l'idée que montrer sa peine est interdit ou dangereux. Bernard se souvient de la dignité glaciale de son père lors des enterrements : pas une larme, pas un tremblement. Il a intégré que la force résidait dans l'absence de vagues, une leçon qu'il applique encore aujourd'hui, même quand son cœur s'asphyxie.
 
+**Autre exemple actuel :** Bernard voudrait saluer Éric mais finit le deuxième tiroir avant de lever la tête. Ce geste peut rappeler une règle qu’il a intériorisée ; il ne révèle pas à lui seul son histoire familiale.
+
 ### L'hyper-responsabilité pour garder le contrôle
 L'inhibition prend parfois la forme d'un besoin de tout gérer. Quand on a grandi dans un foyer où l'émotion était perçue comme un élément perturbateur, on apprend à contrôler son environnement pour éviter tout débordement. Bernard maîtrise son atelier, ses outils et son emploi du temps. Maîtriser ses émotions lui semble être la suite logique. Il s'occupe des meubles et des détails techniques comme un mécanicien qui resserre chaque vis pour empêcher une fuite.
+
+**Deux situations possibles :** il vérifie les serre-joints plutôt que de regarder la feuille apportée par Éric. Il reprend seul l’ordre de l’atelier dès qu’une conversation devient incertaine. Ces choix l’interrogent quand ils éloignent un échange qu’il souhaite, pas parce qu’un atelier ordonné serait un signe clinique.
 
 ### Communiquer par les objets plutôt que par les mots
 Quand les mots manquent, les gestes prennent le relais. Bernard fabrique des meubles pour dire "je t'aime" sans avoir à le prononcer. L'inhibition le pousse à placer toute son affection dans les objets : une commode parfaitement polie devient une lettre silencieuse. Ce mode de communication est fréquent dans les familles où l'expression directe a été découragée. Cela crée une forme de proximité, mais aussi un certain malaise, car celui qui reçoit le cadeau reste souvent dans l'attente d'une parole.
 
+**Deux exemples situés :** il soigne le fond du tiroir en espérant qu’Éric y lise son affection. Il prépare une plaque gravée mais hésite à dire où elle se trouve. L’objet garde sa valeur, et une phrase peut en préciser l’intention.
+
 ## 3 techniques pour apprendre à lâcher prise
 
 ### 1. Nommer l'émotion (l'exercice du vocabulaire affectif)
-Bernard utilise un mot pour nommer ce qu’il ressent, sans chercher à faire disparaître une tension physique. Si vous voulez garder une trace, notez une situation et le mot qui vous vient, sans ordre imposé. Il est aussi possible de ne pas écrire ou de garder la note pour soi.
+
+**Objectif :** Trouver un mot pour le moment présent sans devoir l’expliquer par le passé.
+
+1. Une fois l’outil posé, décrire la situation : Éric est entré et a déposé une feuille.
+2. Choisir un mot qui convient, tel que gêne, joie ou incertitude ; plusieurs mots ou aucun peuvent aussi convenir.
+3. Décider de garder ce mot pour soi, de l’écrire ou de l’utiliser pour préparer une phrase.
+
+La note peut rendre une expérience plus facile à décrire. Elle ne vise pas à supprimer la tension de la gorge et n’est pas un diagnostic.
 
 ### 2. Préparer une phrase à son rythme
-Le but est de s'exposer très progressivement à l'expression d'un besoin ou d'un sentiment, dans un cadre rassurant. 
-En pratique : préparer trois phrases très courtes, classées par difficulté. Pour Bernard, cela pourrait être :
-*   Niveau 1 : "Je suis content que tu sois là."
-*   Niveau 2 : "J'aimerais qu'on passe plus de temps ensemble."
-*   Niveau 3 : "Parfois, je me sens seul depuis la mort d'Hélène."
-Bernard choisit une phrase qui lui convient et un moment où il souhaite la dire. Il peut aussi attendre ou écrire. Si le contexte est hostile, chercher un appui est préférable à une divulgation forcée.
+
+**Objectif :** Choisir une parole que Bernard veut réellement adresser à Éric.
+
+1. Écrire une phrase possible : « Je suis content que tu sois là », sans classement obligatoire en niveaux.
+2. Vérifier que le moment est sûr et que chacun est disponible, machines arrêtées.
+3. Dire, remettre par écrit ou différer la phrase, puis laisser à Éric sa réponse sans ajouter une confidence imposée.
+
+Cette préparation peut faciliter un essai ponctuel. Elle ne constitue pas une exposition thérapeutique et reste facultative, surtout si le contexte est hostile.
 
 ### 3. Le rituel du partage accompagné d'un mot
-Il s'agit d'utiliser un geste concret pour soutenir une parole brève. 
-En pratique : en terminant la commode pour Éric, Bernard peut graver discrètement une initiale ou un symbole à l'intérieur d'un tiroir. Au moment de donner le meuble, il remet la clé à son fils avec une phrase préparée : "Ouvre le tiroir demain, j'y ai laissé quelque chose pour toi." Si parler de vive voix est trop dur, l'objet porte le message et la phrase crée l'ouverture. On combine ainsi le langage des objets, confortable pour Bernard, avec une première tentative de verbalisation.
+
+**Objectif :** Relier le détail fabriqué à son intention personnelle.
+
+1. Choisir un élément déjà prévu pour la commode, comme la plaque du tiroir, sans fabriquer une preuve supplémentaire d’affection.
+2. Préparer une indication simple : « J’ai laissé quelque chose dans le tiroir pour toi ».
+3. La dire ou l’écrire et laisser Éric découvrir l’objet au moment qui lui convient.
+
+Le mot peut rendre l’attention perceptible. Il ne garantit pas une conversation et ne crée aucune obligation de gratitude ou de réconciliation.
 
 ## Le tiroir encore ouvert
 

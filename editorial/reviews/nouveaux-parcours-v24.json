@@ -1,0 +1,149 @@
+{
+  "schema_version": 1,
+  "arcs": [
+    {
+      "character_id": "malo",
+      "manuscript_path": "editorial/clinical/malo.json",
+      "manuscript_sha256": "545f759294c44b813de50621ad455c45d3f7a49e1ecb78ead1643da72a5f9437",
+      "dossier_path": "editorial/clinical/dossiers/malo.json",
+      "dossier_sha256": "bb30fe12bdf1d4a3cfebb22f15116bbdac7a066671302a63cb00e764f92abfc1",
+      "episodes_read": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "status": "independent_editorial_read_no_blocking_finding",
+      "scope": "Lecture intégrale des ouvertures, introductions, explications, manifestations/exemples, techniques, dénouements, conclusions, miroirs et continuités, en regard de la direction et des points vérifiés du dossier. Pas de nouvelle vérification externe de chacune des sources.",
+      "findings": [],
+      "checked_continuity": [
+        "Appel immédiat puis prise en charge effective E1 ; diagnostic expliqué après évaluation E2.",
+        "Mallette gardée par Léonie puis Enora, retour domicile E6, une rangée E7, dépôt effectif 4 juin E11, réexamen 18 juin puis 25 août E12.",
+        "Nouvelle difficulté évaluée réellement E8 ; suivi maintenu séparément de la garde et de la diffusion des images."
+      ],
+      "checked_boundaries": [
+        "Trouble associé gardé privé ; cause jamais déduite du travail.",
+        "Refus actuel distinct de la rupture de réactivité ; proches sans rôle de surveillance médicale.",
+        "Recours urgent conservé sans test domestique ni délai d’attente."
+      ],
+      "modified_by_qa": false
+    },
+    {
+      "character_id": "mireille",
+      "manuscript_path": "editorial/clinical/mireille.json",
+      "manuscript_sha256": "1c18088826b61691a2475cdb60acfb06952907b1f2bbaeb8b7322742a058853d",
+      "dossier_path": "editorial/clinical/dossiers/mireille.json",
+      "dossier_sha256": "162d92cff34813dd0979ab0162103573366d86e4571d765849bda5b85f1854ce",
+      "episodes_read": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "status": "independent_editorial_read_no_blocking_finding",
+      "scope": "Lecture intégrale des ouvertures, introductions, explications, manifestations/exemples, techniques, dénouements, conclusions, miroirs et continuités, en regard de la direction et des points vérifiés du dossier. Pas de nouvelle vérification externe de chacune des sources.",
+      "findings": [],
+      "checked_continuity": [
+        "Six arbres sélectionnés ; clé USB oubliée mercredi puis transférée vendredi ; copies et original séparés.",
+        "Consultation bilan E7, sommeil évalué E9 puis suivi ; album sans alertes E10 ; présentation de juin puis carnet poursuivi E12."
+      ],
+      "checked_boundaries": [
+        "Outils choisis sans test de mémoire ni prise de contrôle globale par Alice.",
+        "Cause et évolution non présumées ; réussite du carnet sans valeur de pronostic.",
+        "Consentement aux partages et temps individuel de consultation maintenus."
+      ],
+      "modified_by_qa": false
+    },
+    {
+      "character_id": "anatole",
+      "manuscript_path": "editorial/clinical/anatole.json",
+      "manuscript_sha256": "62eac56ccefe3c2ce6fc46054264ea60c009398a44e12f7ce43409abfa302a88",
+      "dossier_path": "editorial/clinical/dossiers/anatole.json",
+      "dossier_sha256": "93ca0bb99eeef2e0ecf41a0d812874ccc096b200ca357ec9eb49a670a1ba89d0",
+      "episodes_read": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "status": "independent_editorial_read_no_blocking_finding",
+      "scope": "Lecture intégrale des ouvertures, introductions, explications, manifestations/exemples, techniques, dénouements, conclusions, miroirs et continuités, en regard de la direction et des points vérifiés du dossier. Pas de nouvelle vérification externe de chacune des sources.",
+      "findings": [],
+      "checked_continuity": [
+        "Prototype manuel et groupe de six, table plus large, fiche/flèche, chaise et relais précisés successivement.",
+        "Douleur nouvelle évaluée par médecin traitant E9 puis compte rendu transmis et suivi conservé E10-E12.",
+        "Ouverture effective puis deux nouvelles séances et bilan E12."
+      ],
+      "checked_boundaries": [
+        "Ni suppression des tics ni concentration agréable exigées comme résultat.",
+        "Frontières tics/stéréotypies/compulsions nuancées, sans diagnostic sur autrui.",
+        "Coprolalie non attribuée au personnage ; confidentialité et adaptation choisie préservées."
+      ],
+      "modified_by_qa": false
+    },
+    {
+      "character_id": "doriane",
+      "manuscript_path": "editorial/clinical/doriane.json",
+      "manuscript_sha256": "8c96455d8139f42662f3f5ae191730cf0f53e08da6d84849566ca275afb43f6c",
+      "dossier_path": "editorial/clinical/dossiers/doriane.json",
+      "dossier_sha256": "42b8b16a0685f1fa7f74d868f6b6bdafc028bd4be343a7641439341158514da4",
+      "episodes_read": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "status": "independent_editorial_read_no_blocking_finding",
+      "scope": "Lecture intégrale des ouvertures, introductions, explications, manifestations/exemples, techniques, dénouements, conclusions, miroirs et continuités, en regard de la direction et des points vérifiés du dossier. Pas de nouvelle vérification externe de chacune des sources.",
+      "findings": [],
+      "checked_continuity": [
+        "Invitation et roman vert, extrait court puis trois onglets, fiche conservée, horaire seize heures et visite de l’oncle maintenus.",
+        "Salle de repli visitée et essai choisi E11 ; lecture effectuée E12 et refus de coordonner le prochain cycle accepté."
+      ],
+      "checked_boundaries": [
+        "Diagnostic DSM connu avant série ; cadre CIM différent, pas de correspondance automatique ni second diagnostic.",
+        "Élise connaît le suivi mais pas le diagnostic ; Malik, responsable et public non informés ; Anaïs ne reçoit pas l’intitulé.",
+        "Essais délimités et travail thérapeutique sans exposition forcée, retrait imposé d’appuis ni obligation d’élargir les confidences."
+      ],
+      "modified_by_qa": false
+    }
+  ],
+  "summary": {
+    "arcs_read": 4,
+    "episodes_read": 48,
+    "blocking_findings": 0
+  },
+  "reviewed_on": "2026-11-07"
+}

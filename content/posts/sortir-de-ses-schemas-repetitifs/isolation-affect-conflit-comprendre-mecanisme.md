@@ -33,29 +33,68 @@ En période de tension relationnelle, ce mécanisme transforme radicalement la d
 
 Youssef peut raconter en détail les paroles et les gestes de Léa, mais ne sait pas quoi dire de son émotion. Lorsqu’il réduit la dispute à une question de logistique, cette deuxième réaction ressemble davantage à de l’intellectualisation.
 
+Deux exemples dans cet épisode :
+
+- Youssef sait restituer l’ordre des phrases de Léa mais ne sait pas ce qu’il éprouve en les racontant.
+- Il répète les horaires du devis quand elle demande s’il a entendu sa remarque sur leur échange ; ce déplacement vers la logistique est distingué du seul manque de ressenti accessible.
+
 ### Le sentiment d'être un observateur extérieur
 
 Youssef a l’impression de regarder la scène à distance. Cette impression n’indique pas à elle seule qu’il s’agit d’une dissociation ou d’une défense particulière. Il peut choisir de faire une pause.
+
+Deux exemples dans cet épisode :
+
+- Le feutre reste dans sa main tandis qu’il se sent à distance de la scène, sans que cette impression fournisse un diagnostic.
+- Il reconnaît la table et les livres mais se décrit comme spectateur de la dispute, ce qui peut suffire à demander une pause sans nommer un trouble.
 
 ### La substitution de l'émotion par l'intellectualisation
 
 Les deux notions ne sont pas interchangeables. Une explication abstraite peut éloigner l’attention du vécu, tandis que l’isolation de l’affect décrit le faible accès au ressenti quand on raconte un événement. Au lieu de dire je suis blessé, le sujet va expliquer pourquoi, d'un point de vue sociologique ou psychologique, la réaction de l'autre est prévisible. On utilise des concepts complexes pour mettre une distance de sécurité entre soi et le ressenti. Dans un conflit, cela se traduit par des phrases comme "ton agressivité est une projection de tes insécurités liées à ton enfance" plutôt que de reconnaître l'impact émotionnel de la dispute. On traite l'autre comme un cas d'étude plutôt que comme un partenaire.
 
+Deux exemples dans cet épisode :
+
+- Au lieu de répondre à la demande sur samedi, il pourrait théoriser les attentes de Léa comme s’il observait un cas extérieur.
+- Il pourrait expliquer sa réaction par l’enfance supposée de Léa plutôt que reconnaître les paroles qu’elle lui a demandé de ne plus tourner en dérision.
+
 ## Techniques pour agir face à l'isolement
 
-Sortir de ce mécanisme demande de la patience et une volonté de réintégrer progressivement le corps et le cœur dans la discussion.
+Youssef peut décrire ce décalage et discuter de la suite, sans devoir retrouver une émotion avant de prendre sa part dans l’échange.
 
 ### 1. La technique de l'ancrage sensoriel immédiat
 
 Si la situation est sûre, Youssef peut prendre une pause et remarquer un détail ordinaire : ses pieds sur le parquet ou la texture du carton. Il n’a pas à faire venir une émotion. En cas de menace ou de violence, la priorité est de [se mettre en sécurité et chercher du soutien](https://www.service-public.gouv.fr/particuliers/vosdroits/F12544).
 
+Objectif de cet essai : Retrouver un repère du moment sans chercher à faire venir une émotion.
+
+1. Vérifiez si une pause est possible dans ce contexte ; en cas de menace, cherchez d’abord sécurité et soutien.
+2. Si cela vous convient, posez le feutre et remarquez un contact ordinaire de la pièce.
+3. Choisissez si vous souhaitez continuer ou demander du temps, sans essayer de provoquer un ressenti.
+
+Utilité possible : La pause soutient un choix immédiat sans démontrer ni traiter un mécanisme inconscient.
+
 ### 2. La verbalisation de l'état de coupure
 
 Youssef peut dire : « J’entends ce que tu dis. Je ne sais pas encore ce que je ressens, et j’aimerais faire une pause. » Il peut se limiter à décrire son état, sans présumer pourquoi il lui arrive ni comment Léa va réagir.
 
+Objectif de cet essai : Décrire sa difficulté et demander du temps sans interpréter Léa.
+
+1. Nommez ce que vous pouvez dire : les mots entendus et l’incertitude sur votre propre état.
+2. Formulez votre demande de pause sans analyser les intentions ou l’enfance de Léa.
+3. Écoutez sa réponse et respectez sa décision si elle veut partir ou ne pas reprendre immédiatement.
+
+Utilité possible : Une description limitée clarifie la demande tout en laissant à l’autre la liberté d’arrêter l’échange.
+
 ### 3. La pause de réintégration affective
 
 Si le dialogue est possible et souhaité, les deux peuvent choisir un moment où reprendre. Youssef peut se demander s’il a besoin de calme ou de temps pour trouver ses mots.
+
+Objectif de cet essai : Organiser la suite consentie et traiter séparément les engagements pratiques.
+
+1. Distinguez la discussion relationnelle et la question du déménagement de samedi.
+2. Si vous souhaitez tous deux reprendre, proposez un moment sans exiger que Léa reste jusqu’à ce que vous trouviez les mots.
+3. Traitez vos engagements pratiques, comme rappeler le déménageur, sans prendre ces actions pour une résolution du conflit.
+
+Utilité possible : La suite garde les responsabilités concrètes visibles sans imposer un calendrier émotionnel au couple.
 
 ## Le devis et la question de Léa
 

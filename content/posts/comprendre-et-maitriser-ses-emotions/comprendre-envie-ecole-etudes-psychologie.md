@@ -33,22 +33,49 @@ Une expérience d’imagerie publiée dans Science en 2009 a observé que les si
 ### 1. La comparaison ascendante paralysante
 Dans le milieu scolaire, l'envie se manifeste souvent par une comparaison systématique avec ceux qui réussissent mieux. L'étudiant ne se concentre plus sur ses propres progrès, mais sur l'écart qui le sépare du premier de la classe ou de celui qui a obtenu le stage prestigieux. Cette focalisation externe détourne l'énergie nécessaire à l'apprentissage pour l'investir dans une rumination mentale épuisante. On observe alors une baisse de la motivation intrinsèque : on n'étudie plus pour savoir, mais pour dépasser l'autre.
 
+**Deux exemples pour Lucas :** il regarde le résultat d’admission affiché sur son téléphone pendant que sa propre réponse est encore attendue. Il s’arrête sur le camarade qui a fini le montage avant lui plutôt que sur l’étape de physique qu’il cherche à comprendre.
+
 ### 2. Le dénigrement défensif des réussites d'autrui
 Pour protéger une estime de soi malmenée, l'envie peut se transformer en hostilité déguisée. Cela se traduit par des remarques minimisant le travail des autres, comme le fait de dire qu'un camarade a réussi grâce au favoritisme ou à la chance. C'est un mécanisme de défense psychologique qui vise à rétablir une forme d'équilibre interne. En discréditant la source de l'envie, le sujet tente de réduire la douleur de sa propre perception d'échec, ce qui crée souvent des tensions au sein des groupes de travail ou des promotions.
+
+**Deux exemples possibles :** Lucas dit que le camarade a « de la chance sans rien faire », sans connaître sa préparation. Il pourrait attribuer un exercice réussi au favoritisme avant d’avoir regardé la consigne. L’une ou l’autre remarque ne permet pas à son père de connaître toute son émotion.
 
 ### 3. Le désengagement par crainte de l'infériorité
 Un étudiant peut se désengager pour éviter une comparaison douloureuse. Mais un retrait a de nombreuses explications possibles, dont le manque de soutien, des obstacles matériels ou la fatigue. Mieux vaut demander ce qui rend les études difficiles plutôt que conclure à l’envie ou à l’auto-handicap.
 
+**Deux situations à explorer sans conclure :** Lucas referme le manuel après avoir vu le travail terminé d’un autre. Il renonce à demander une précision parce qu’il anticipe une comparaison avec le premier. Fabien peut demander ce qui bloque ; une consigne mal comprise ou un manque de ressources peuvent aussi compter.
+
 ## 3 techniques pour agir face à l'envie à l'école ou aux études
 
 ### 1. La technique de la déconstruction des critères de réussite
-Cette méthode consiste à lister précisément ce qui suscite l'envie et à interroger la valeur réelle de ces éléments dans sa propre vie. Souvent, nous envions un camarade pour un résultat qui ne correspond même pas à nos aspirations profondes, simplement parce que le système éducatif le valorise. L'exercice consiste à prendre une feuille et à écrire le nom de la personne enviée, puis l'objet de l'envie. Dans une seconde colonne, il faut noter si cet objet contribue réellement à son propre projet de vie à long terme ou s'il s'agit d'une validation sociale superficielle. Cela permet de ramener l'attention sur ses besoins authentiques.
+
+**Objectif :** Préciser ce que Lucas souhaite pour son propre travail.
+
+1. S’il en a envie, choisir un avantage précis qui retient son attention, comme finir le montage expérimental.
+2. Distinguer ce qu’il souhaite apprendre du résultat ou du classement qu’il voit chez l’autre, sans dévaloriser son ambition.
+3. Choisir une question concrète sur sa propre copie ou une ressource à demander ; Fabien n’écrit pas la réponse à sa place.
+
+Cette distinction peut orienter la prochaine demande d’aide. Elle ne tranche pas entre un projet « authentique » et une ambition supposée superficielle.
 
 ### 2. La transformation de l'envie malveillante en envie bénigne
-Van de Ven et ses collègues ont étudié deux formes d’envie : l’une orientée vers l’amélioration de sa propre situation, l’autre vers la perte de l’avantage d’autrui. Dans un échange où chacun se sent à l’aise, on peut demander à un camarade comment il a préparé une étape qui nous intéresse. Cela donne une information concrète ; personne n’a à convertir son émotion sur commande.
+
+**Objectif :** Obtenir une information utile sans exiger de changer d’émotion.
+
+1. Choisir une étape où une information manque réellement, telle que la lecture du schéma de montage.
+2. Si le contexte lui convient, demander à un camarade comment il l’a préparée, ou préférer un enseignant ou le manuel.
+3. Retenir une idée applicable et reconnaître ce qui reste différent dans leurs moyens ou leurs objectifs.
+
+Les recherches de Van de Ven distinguent des orientations de l’envie ; elles n’imposent pas à Lucas de transformer la sienne. La question peut apporter une information même si la comparaison reste désagréable.
 
 ### 3. Le renforcement de l'auto-compassion et de la gratitude
-L’autocompassion invite à se traiter avec la bienveillance qu’on offrirait à un ami en difficulté. Si l’exercice vous convient, notez un progrès qui ne dépend pas du classement, comme comprendre un concept difficile. Vous pouvez garder en vue le rôle des ressources, des contraintes et du soutien disponible dans les parcours scolaires.
+
+**Objectif :** Se répondre sans se réduire au résultat du camarade.
+
+1. Noter une phrase de jugement qui vient devant le manuel, puis ce qu’il dirait à un ami dans cette attente.
+2. Décrire un effort ou un progrès précis, même partiel, et une difficulté ou un besoin de soutien réel.
+3. Choisir une aide ou une pause adaptée ; remercier quelqu’un seulement si cette gratitude correspond à ce qu’il ressent.
+
+Cette note peut ouvrir une autre manière de parler de son travail. Elle ne remplace pas les ressources scolaires et n’exige pas de trouver un côté positif à tout.
 
 ## Lucas garde la main sur le manuel
 

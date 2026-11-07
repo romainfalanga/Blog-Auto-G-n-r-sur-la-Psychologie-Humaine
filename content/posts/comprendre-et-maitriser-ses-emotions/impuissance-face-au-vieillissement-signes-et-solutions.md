@@ -38,27 +38,66 @@ L’impuissance apprise est un terme issu d’expériences sur les conséquences
 
 Patrick s’arrête quand sa douleur irradie dans la jambe. Les conditions de manutention et l’organisation de l’aide méritent d’être examinées. La cause de sa douleur demande un avis adapté, même s’il pense qu’elle tient à son âge.
 
+**Exemples concrets**
+
+- Il lâche la poignée avant de soulever la plaque ; le geste interrompu ne permet pas de décider ce qu’il pourra faire à l’avenir.
+- Il reste contre le poteau et hésite à avancer. Il peut décrire cette difficulté au lieu de devoir la faire disparaître devant Antoine.
+
 ### Une autre personne peut prendre le relais
 
 Antoine peut reprendre la tâche selon les règles de sécurité. Cela ne dit rien de la place de Patrick dans l’équipe. Il peut participer à la préparation, au suivi des travaux ou à la coordination si cela correspond à ses capacités et au poste.
+
+**Exemples concrets**
+
+- Antoine va chercher le chariot pendant que Patrick indique l’autre accès aux ouvriers qui attendent.
+- Depuis le poteau, Patrick peut montrer le repère sur le mur sans prétendre pouvoir accompagner la plaque en marchant.
 
 ### Ses proches peuvent demander ce qu’il préfère
 
 Si ses enfants veulent le ménager, ils peuvent lui demander ce qu’il souhaite faire. Patrick peut leur parler de l’aide qui lui convient et des tâches qu’il aimerait continuer.
 
+**Exemples concrets**
+
+- Il peut demander à Julien un relais pour l’établi sans devoir renoncer à montrer le mètre à Léo.
+- À Catherine, il peut décrire ce qui s’est passé avec la plaque plutôt que répondre que tout passera. Le soutien recherché peut être une écoute ou une aide pratique.
+
 ## Trois décisions que Patrick peut prendre
 
 ### 1. Faire examiner la douleur et le poste
 
-Il peut demander un avis médical et signaler les circonstances dans lesquelles le geste est devenu difficile. Le service de prévention et de santé au travail peut aider à examiner les adaptations possibles. Patrick n’a pas à choisir un programme d’exercice sur la seule base de ce récit.
+**Objectif** : Obtenir des avis distincts sur la santé et les conditions de travail.
+
+**Exercice pratique**
+
+- Demandez un avis médical en décrivant ce qui s’est passé à la plaque et ce qui gêne encore vos activités ; ne reportez pas ce recours pour finir un exercice écrit.
+- Signalez aussi la difficulté aux interlocuteurs de prévention et de santé au travail pour examiner le poste.
+- Préparez vos questions sur les adaptations et les conditions de reprise. Ne choisissez pas un programme d’exercice à partir de ce récit.
+
+**Utilité possible** : Cette démarche remet l’évaluation dans les mains des personnes compétentes sans attribuer la douleur au vieillissement.
 
 ### 2. Séparer les contraintes des marges d’action
 
-Il ne décide pas de la douleur du jour. Il peut arrêter une tâche qui lui paraît risquée, demander un relais et se renseigner sur les conditions de reprise. Les moyens disponibles dépendent aussi des décisions de l’équipe et de l’employeur.
+**Objectif** : Identifier une décision possible sans nier la difficulté présente.
+
+**Exercice pratique**
+
+- Sur la situation de la plaque, distinguez ce que vous ne commandez pas aujourd’hui et ce qui peut être organisé avec l’équipe.
+- Demandez un relais et laissez interrompue une tâche risquée selon les consignes ; le chariot et l’accès doivent être examinés dans leur contexte.
+- Précisez qui doit décider de la suite et quelle information manque, sans faire peser toute la solution sur votre volonté.
+
+**Utilité possible** : Une marge d’action peut être collective. Elle ne prouve ni la disparition de la douleur ni une obligation de rester productif.
 
 ### 3. Transmettre une compétence qui compte pour lui
 
-S’il souhaite apprendre à Antoine à lire un plan, il peut proposer un moment pour le faire. C’est une manière possible de participer au travail. Patrick peut aussi avoir besoin de repos et d’appui indépendamment de ce qu’il apporte.
+**Objectif** : Choisir une participation qui a du sens sans la rendre obligatoire.
+
+**Exercice pratique**
+
+- Si vous en avez envie et que votre situation le permet, choisissez ce que vous aimeriez transmettre, par exemple lire un plan avec Antoine.
+- Convenez avec lui d’un moment et d’un cadre compatibles avec le travail et les appuis nécessaires.
+- À la fin, regardez si cette forme de participation vous convient et ajustez-la ; vous pouvez aussi avoir besoin de repos et d’aide.
+
+**Utilité possible** : Transmettre peut garder une place à un intérêt de Patrick. Sa légitimité à recevoir du soutien ne dépend pas de ce qu’il apporte.
 
 ## Patrick sort le mètre
 

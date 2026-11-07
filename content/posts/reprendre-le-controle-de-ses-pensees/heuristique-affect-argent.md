@@ -30,31 +30,67 @@ Sophie consulte son application bancaire et voit un solde qui semble plus bas qu
 
 Exemple concret : recevoir une dépense imprévue de 60 euros et imaginer automatiquement une cascade de problèmes à trois chiffres qui s'ensuivent, alors que son budget mensuel le supporte.
 
+Exemples concrets :
+
+- À la laverie, elle relit le montant sans regarder la date, puis imagine des paiements impossibles avant de vérifier les échéances.
+- L’idée de transférer toute son épargne peut apparaître avec la peur du solde, sans qu’elle ait établi le montant nécessaire aux dépenses prévues.
+
 ### 2. Une offre attrayante paraît plus sûre
 À l'inverse, lorsqu'une action ou une promotion financière lui procure une sensation positive, par exemple une publicité promettant un rendement rapide, Sophie peut associer ce frisson agréable à une idée de sécurité. L'heuristique d'affect la pousse alors à croire qu'un produit financier est bon parce que l'annonce la rassure ou l'excite, sans décortiquer les frais, la volatilité ou l'horizon temporel réaliste.
 
 Exemple : une publicité évoque un rendement élevé et garanti. Ce langage peut rassurer, mais l’[AMF](https://www.amf-france.org/fr/espace-epargnants/proteger-son-epargne/placements-atypiques/placements-atypiques-des-investissements-considerer-avec-prudence) invite à la prudence devant de telles promesses et à vérifier l’offre et l’intermédiaire avant de s’engager.
+
+Exemples concrets :
+
+- L’offre juste sous la notification lui paraît une solution simple parce que son intitulé lui apporte un soulagement.
+- Une formule « rendement élevé et garanti » peut retenir son attention ; cette impression n’est pas une vérification de l’intermédiaire ou des risques.
 
 ### 3. Aversion au risque amplifiée par souvenirs émotionnels
 Sophie repense au refus de sa candidature quand elle hésite devant une offre. Pour elle, les deux situations évoquent un risque de se tromper. Elle n’a pas besoin de décider que sa prudence est excessive : elle peut vérifier ce qui justifie cette prudence dans le cas présent.
 
 Sophie peut préférer une épargne disponible en cas de besoin : ce choix peut être adapté. Elle se demande seulement si sa décision actuelle tient à un besoin identifié ou si elle réagit à un souvenir sans rapport direct avec l’offre.
 
+Exemples concrets :
+
+- Le refus du poste lui revient lorsqu’elle hésite sur l’offre, alors qu’il ne renseigne pas son fonctionnement financier.
+- Préférer garder une somme disponible peut répondre à un besoin réel ; elle peut le préciser au lieu de considérer toute prudence comme un biais.
+
 ## Techniques pour reprendre le contrôle
-### 1. Nommer l'émotion avant d'agir
-Sophie note le ressenti du moment et vérifie d’abord s’il faut agir : une opération inconnue mérite d’être examinée sans délai auprès de sa banque. Pour une décision importante qui peut attendre, elle se donne le temps de reprendre les chiffres à tête reposée.
+### 1. Nommer l’émotion avant d’agir
 
-Nommer son inquiétude permet à Sophie de la consigner séparément de l’action envisagée. Elle peut ensuite décider de vérifier le solde disponible et les dépenses à venir.
+Objectif : Distinguer ressenti et décision à prendre.
 
-### 2. Découper la décision en micro-critères factuels
-Transformez une décision financière en une checklist de critères simples et mesurables. Par exemple, pour un achat ou un investissement, demandez-vous quel est l'impact sur le budget mensuel, si ce poste est essentiel ou discrétionnaire, quel est l'horizon temporel recommandé et quels sont les frais. Créez un modèle de quelques lignes dans un carnet où vous répondez à ces questions avant d'autoriser la transaction. Pour tout achat au-dessus d'un seuil personnel, la checklist est obligatoire.
+Exercice pratique :
 
-Cela relie la décision à des données plutôt qu'à une impression. Sophie, qui apprécie l'analyse, trouve dans cette technique un terrain familier où la rigueur remplace l'instinct émotionnel. Elle applique ici la même discipline qu'elle a apprise pour déconstruire ses pensées automatiques négatives lors de ses soirées de doute à Paris.
+- Notez brièvement la peur du solde ou le soulagement apporté par l’offre, sans les traiter comme des avis financiers.
+- Vérifiez de quelle opération il s’agit, sa date et les dépenses prévues. Une opération inconnue demande un examen sans délai auprès de la banque.
+- Pour une décision importante qui peut attendre, gardez le temps de consulter les informations utiles avant de vous engager.
 
-### 3. Simuler l'issue rationnelle et l'issue affective
-Dans une colonne, notez les conséquences établies et ce qu’il reste à vérifier ; dans l’autre, les craintes et les attentes. Sophie peut ainsi constater que sa peur d’un découvert repose, ou non, sur des dépenses déjà prévues. L’exercice ne donne pas un avis sur un placement.
+Utilité possible : Le ressenti garde une place dans le carnet, séparé de l’action envisagée. Il ne suffit ni à confirmer ni à écarter un risque.
 
-Cette technique met en lumière l'écart entre le ressenti et la réalité mesurable. Sophie utilise ses compétences analytiques pour contrer le biais affectif.
+### 2. Découper la décision en critères factuels
+
+Objectif : Identifier les informations nécessaires à un engagement.
+
+Exercice pratique :
+
+- Précisez votre besoin, les moyens disponibles et ce que la dépense changerait pour le budget.
+- Pour une offre de placement, examinez son fonctionnement, les frais et les possibilités de sortie avec les informations et interlocuteurs compétents ; vérifiez aussi l’intermédiaire.
+- Conservez la décision ouverte si des informations essentielles manquent ou si vous ne comprenez pas l’offre. Le carnet ne remplace pas un conseil autorisé.
+
+Utilité possible : La liste peut aider Sophie à formuler ses questions. Elle ne rend pas un produit sûr et n’impose aucun seuil universel de dépense.
+
+### 3. Comparer conséquences établies et attentes
+
+Objectif : Voir ce que les informations disponibles permettent réellement de dire.
+
+Exercice pratique :
+
+- Dans une colonne, notez les conséquences connues de la décision et les points encore à vérifier.
+- Dans une autre, écrivez les craintes et espoirs, par exemple l’idée que l’offre résoudrait toute l’inquiétude du jour.
+- Choisissez la vérification utile, puis décidez si une aide compétente est nécessaire. Ne transformez pas les colonnes en avis favorable ou défavorable sur un placement.
+
+Utilité possible : L’exercice peut rendre un raisonnement plus lisible. Il ne mesure pas le risque réel du produit ni la rationalité d’une personne.
 
 ## Lire la date avant de toucher à ses économies
 La machine s’arrête. Avant de sortir le linge, Sophie regarde la date et retrouve le paiement qu’elle attendait depuis plusieurs jours. Le solde est celui qu’elle avait prévu, à quelques euros près. L’offre de placement lui paraît encore rassurante. Elle garde son nom de côté pour vérifier plus tard qui la propose, puis referme l’application.

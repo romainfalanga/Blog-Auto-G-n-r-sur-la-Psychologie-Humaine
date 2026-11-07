@@ -39,30 +39,71 @@ L'une des manifestations les plus visibles de l'embarras est l'évitement du reg
 
 Par exemple, lors d'un apéritif, si quelqu'un raconte une anecdote maladroite sur elle, Mei préfère se replier et aller se servir un verre plutôt que de répondre. Ce comportement laisse parfois les autres perplexes ou peut être interprété, à tort, comme de la froideur ou du dédain.
 
+Deux exemples dans cet épisode :
+
+- Mei baisse les yeux vers le programme quand la visiteuse comprend qu’elle est l’artiste.
+- Elle envisage de prétexter une course à l’autre bout de la salle pour interrompre l’attente devant sa planche.
+
 ### Rougissement, voix tremblante et signes physiques
 L'embarras s'accompagne souvent de réactions physiques marquées. Mei sent ses joues s'échauffer, sa voix perdre en assurance et ses mains devenir moites. Ces réactions varient d’une personne et d’une situation à l’autre.
 
 On peut citer l'exemple d'une présentation en petit comité : Mei bafouille sur une phrase, rougit et perd le fil. Même si l'erreur est minime, ses réactions physiques lui donnent l'impression que sa maladresse est bien plus grave qu'elle ne l'est en réalité.
 
-### Différencier l'embarras, la honte et la timidité
+Deux exemples dans cet épisode :
+
+- Le feuillet lui échappe pendant qu’elle essaie de retrouver le pli et elle ne sait plus quoi dire en se relevant.
+- Quand elle parle plus tard du gris à une étudiante, elle sent encore ses joues chauffer ; la conversation peut pourtant porter sur le dessin.
+
+### Étendre une hésitation au jugement sur soi
+Après son hésitation, Mei peut se mettre à juger toute sa manière de parler plutôt que ce moment précis. Une gêne située et une conclusion sur sa valeur ne portent pas sur la même chose.
+
 L'embarras partage des points communs avec la honte et la timidité, mais ce n'est pas la même chose. La timidité est un trait de caractère, une tendance durable à se sentir mal à l'aise avec les autres. La honte, elle, touche à l'estime de soi profonde (se dire "je ne vaux rien"). L'embarras est plus passager et lié à un événement précis. Sa fonction est sociale : elle montre que l'on a conscience d'une maladresse et invite les autres à passer à autre chose.
 
 Mei est timide par tempérament et ressent souvent une appréhension avant une réunion. Mais quand elle est interrompue par une boutade, l'émotion vive qu'elle ressent à cet instant précis est de l'embarras, et non une remise en question profonde de sa valeur.
+
+Deux exemples dans cet épisode :
+
+- Après le rire, Mei pourrait passer de « j’ai hésité sur mon prénom » à « je ne sais pas parler de mon travail ».
+- Elle pourrait renoncer à décrire le gris à une autre étudiante en traitant la première hésitation comme un verdict sur toute la soirée.
 
 ## 3 techniques pour mieux vivre l'embarras en public
 
 ### 1. La respiration ancrante : apaiser le corps pour retrouver ses mots
 Vous pouvez marquer une courte pause, laisser votre respiration se faire sans la forcer et reprendre quand vous le souhaitez. Cela peut donner du temps pour retrouver un mot. Si porter attention à votre souffle vous gêne, passez cette étape.
 
+Objectif de cet essai : Se donner un bref temps de réponse sans exiger un apaisement.
+
+1. Si vous le souhaitez, marquez une pause avant de répondre à la visiteuse.
+2. Laissez votre respiration se faire sans la régler ; si cette attention gêne, gardez simplement le temps de pause.
+3. Décidez de donner votre prénom, de parler du dessin ou de terminer cet échange selon votre envie.
+
+Utilité possible : La pause laisse du temps pour choisir les mots sans rendre la disparition des rougeurs nécessaire.
+
 ### 2. La réévaluation cognitive : changer de regard sur la situation
 L'embarras s'amplifie quand on imagine que la situation est catastrophique pour notre image. La réévaluation consiste à repérer la pensée automatique qui nous envahit pour la remplacer par une vision plus réaliste. Posez-vous trois questions :
 1. Ai-je une preuve réelle que tout le monde me juge ?
 2. Quelle autre explication est possible (par exemple, les gens rient de la situation, pas de moi) ?
 3. Que dirais-je à un ami qui vit la même chose ?
-Ensuite, reformulez votre pensée : "Ils ont ri, mais ils ne cherchent sans doute pas à me blesser." En réunion, Mei peut se répéter cette phrase intérieurement pour faire redescendre la pression.
+Ensuite, vous pouvez garder une formulation limitée : « J’ai entendu un rire, je ne sais pas ce qui l’a provoqué. » Mei peut reconnaître son embarras sans devoir décider que les personnes étaient bienveillantes.
+
+Objectif de cet essai : Garder plusieurs explications au rire sans en choisir une comme certitude.
+
+1. Notez le fait connu : un rire a été entendu derrière vous.
+2. Distinguez votre interprétation d’autres possibilités, en gardant la raison inconnue.
+3. Si cela vous aide, échangez avec Océane sur ce qu’elle a entendu, sans lui demander de garantir l’opinion de toute la salle.
+
+Utilité possible : La distinction évite de transformer le rire en preuve ou en événement forcément bienveillant.
 
 ### 3. Choisir un petit pas social
 Si vous souhaitez participer davantage dans un contexte où vous vous sentez en sécurité, choisissez une petite action utile, comme dire bonjour ou poser une question. Aucune progression n’est imposée. L’exposition thérapeutique pour une anxiété sociale importante se décide avec un professionnel formé. Une moquerie, une humiliation ou une menace réelle appelle du soutien, pas un exercice pour s’y habituer.
+
+Objectif de cet essai : Choisir une participation utile sans programme de progression.
+
+1. Choisissez ce que vous souhaitez partager, par exemple le changement de gris.
+2. Repérez un échange où vous avez envie de le dire et où vous vous sentez assez en sécurité.
+3. Essayez si vous le voulez, ou renoncez pour ce moment ; aucun nombre d’interactions ni résultat émotionnel n’est attendu.
+
+Utilité possible : Le choix garde une place à votre intérêt pour le dessin sans demander de vous habituer aux humiliations.
 
 ## Le gris qu’elle avait choisi
 

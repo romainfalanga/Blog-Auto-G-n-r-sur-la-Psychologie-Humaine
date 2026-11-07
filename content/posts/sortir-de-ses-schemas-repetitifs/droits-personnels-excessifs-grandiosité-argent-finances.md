@@ -20,45 +20,74 @@ Dans l’épicerie de son père, il détestait quand un fournisseur se réservai
 L'odeur du cuir neuf des fauteuils et le scintillement de sa montre de luxe lui procurent un apaisement instantané, une armure contre le sentiment d'échec qui rôde. Il se souvient de l'après-midi passé avec Lina, où il avait tenté de combler son absence par une console de jeux coûteuse. Aujourd'hui, il réalise que ce geste n'était pas seulement pour elle, mais pour maintenir sa propre image de patriarche providentiel. Ce besoin de briller est devenu son mode de fonctionnement par défaut, une extension de cette micro-optimisation d'agenda qu'il utilisait autrefois pour masquer son incapacité à dire non aux opportunités. Il décroche son téléphone pour appeler Romain, prêt à utiliser son charisme habituel pour faire oublier les failles du bilan comptable.
 
 ## Qu'est-ce que les droits personnels excessifs et la grandiosité ?
-
 Dans [la thérapie des schémas de Jeffrey Young et ses collègues](https://www.guilford.com/excerpts/young.pdf?t=1), les « droits personnels excessifs ou la grandiosité » désignent une tendance à se croire dispensé de certaines règles communes ou en droit d'obtenir un traitement particulier. Ce modèle sert à explorer des habitudes relationnelles. Une dépense ou une décision ambitieuse ne suffit pas à identifier ce schéma ni à établir un diagnostic.
 
 Karim prend l'habitude de considérer certains plafonds comme des règles qui valent pour les autres établissements. Il veut aussi que son nouveau bureau reflète sa réussite. L'histoire ne permet pas de déduire une origine dans l'enfance, une personnalité ou une aptitude financière à partir de ces choix.
 
 ## Comment les droits personnels excessifs et la grandiosité se manifestent face à l'argent et aux finances ?
-
 Chez Karim, la question est de savoir si le budget et les règles de décision s'appliquent aussi quand un achat lui tient particulièrement à cœur.
 
 ### 1. L'achat impulsif comme marqueur de statut
-
 Karim apprécie ce que ses nouveaux fauteuils disent de son entreprise. Ce goût ne pose pas à lui seul un problème. Dans le contexte d'une trésorerie tendue, il peut vérifier si cette dépense répond à un besoin et ce qu'elle laisse comme marge.
 
-### 2. Le mépris des limites budgétaires et des alertes
+Exemples concrets :
+- Karim peut apprécier les fauteuils neufs tout en examinant ce qu’ils coûtent à la trésorerie tendue.
+- Il peut observer si la réservation de Marseille répond à un projet vérifié ou surtout à l’image de réussite qu’il veut présenter.
 
+### 2. Le mépris des limites budgétaires et des alertes
 Karim écarte les chiffres de Romain en partant de l'idée que son établissement échappera aux mêmes difficultés que les autres. Il peut demander ce qui explique réellement cette différence et quelles limites ils s'étaient fixées.
 
-### 3. La confusion entre générosité et contrôle
+Exemples concrets :
+- Le montant entouré par Romain oblige à regarder l’échéance de Lyon que le virement n’a pas réglée.
+- Un plafond commun ne peut devenir une exception au seul motif que ce local paraît irremplaçable à Karim.
 
+### 3. La confusion entre générosité et contrôle
 Karim espère parfois qu'un cadeau permettra d'éviter une conversation avec Sofia ou Lina. Un cadeau peut aussi être offert sans cette intention. Ici, la question est de savoir s'il est prêt à entendre ce que sa famille attend de lui, indépendamment de ce qu'il dépense.
 
-## Techniques pour agir face aux droits personnels excessifs et à la grandiosité
+Exemples concrets :
+- La console destinée à Lina peut lui servir à espérer une réponse souriante plutôt qu’une conversation sur l’absence.
+- Un achat destiné à Sofia ne remplace pas l’information sur les fonds déjà engagés à Marseille.
 
+## Techniques pour agir face aux droits personnels excessifs et à la grandiosité
 Karim peut commencer par clarifier ses raisons d'acheter et la manière dont la décision doit être prise.
 
 ### 1. Demander un avis et suivre les règles de décision
+Objectif : Respecter les responsabilités de décision avant une dépense.
 
 Pour une dépense importante, vérifiez les règles d'approbation de l'entreprise et consultez les personnes qui ont la responsabilité de la décision. L'expert-comptable peut aider à lire les chiffres ; son avis ne lui donne pas le pouvoir de décider à la place des personnes habilitées.
 
+Exercice pratique :
+- Repérer les règles d’approbation applicables à l’entreprise.
+- Présenter l’achat aux personnes habilitées avec les informations qu’elles doivent examiner.
+- Demander une lecture des chiffres à l’expert-comptable si nécessaire, sans lui déléguer un pouvoir de décision qu’il n’a pas.
+
+Utilité possible : Le circuit peut rendre une exception discutable et conserver les rôles réels de chacun.
+
 ### 2. Écrire les raisons d'une dépense
+Objectif : Donner des raisons examinables à un achat désiré.
 
 Avant l'achat, notez ce qu'il doit apporter, son coût total, les alternatives et la date où il faut décider. Une autre question peut aider Karim : « Est-ce que je le recommanderais à Romain dans la même situation ? »
 
+Exercice pratique :
+- Écrire le besoin auquel répondrait la dépense et son coût total connu.
+- Noter les autres options et la date réelle de décision.
+- Comparer ce raisonnement à celui que Karim accepterait pour une proposition de Romain.
+
+Utilité possible : La note peut aider à voir si une règle commune est appliquée, sans conclure qu’un goût pour un bel objet serait pathologique.
+
 ### 3. La réévaluation des valeurs de réussite
+Objectif : Examiner la réussite avec plusieurs priorités choisies.
 
 Karim peut nommer ce qu'il souhaite protéger en plus de ses objectifs financiers : la confiance de son équipe, un contrat bien tenu ou sa disponibilité pour ses enfants. Ces priorités lui donnent d'autres critères pour examiner un achat.
 
-## Ce qu’il a déjà engagé
+Exercice pratique :
+- Nommer une priorité financière et une priorité relationnelle que Karim souhaite préserver.
+- Regarder ce que l’achat laisse comme marge pour chacune.
+- En discuter avec les personnes concernées avant de présenter une dépense comme une preuve de générosité ou de succès.
 
+Utilité possible : Plusieurs critères peuvent éclairer le choix sans garantir l’accord de Sofia, de l’équipe ou de Romain.
+
+## Ce qu’il a déjà engagé
 Assis dans un petit café sans prétention près de la Place Bellecour, Karim n'a pas sorti son téléphone une seule fois depuis vingt minutes. En face de lui, Romain semble d'abord sur la défensive, s'attendant à une nouvelle joute verbale pour défendre le projet de Marseille. Mais Karim lève la main, non pas pour l'interrompre, mais pour lui signifier qu'il l'écoute. Pour la première fois, il admet que les chiffres rouges l'effraient et que son optimisme forcené était une façade pour ne pas voir les difficultés qui s'accumulent.
 
 Karim propose d’arrêter toute nouvelle dépense pour Marseille. Romain lui fait remarquer que l’argent versé n’est pas revenu pour autant. Ils se donnent un moment pour relire les conditions de réservation avec les documents sous les yeux. Karim doit encore dire à Sofia ce qu’il a engagé. Il remet son téléphone sur la table, écran vers le haut, et commence à chercher l’heure où il pourra l’appeler.

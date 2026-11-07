@@ -24,42 +24,59 @@ Elle écrit en haut de la feuille : « Je devais m’en douter. » Si elle s’e
 ## Définition du biais rétrospectif
 Le biais rétrospectif consiste à surestimer, après avoir pris connaissance d’un résultat, à quel point on aurait pu le prévoir. Dans les [expériences de Baruch Fischhoff](https://www.cmu.edu/epp/people/faculty/faculty-images-and-files/jep-hpp-hindsight-foresight-1975.pdf), apprendre l’issue d’un événement modifiait les jugements sur sa probabilité avant l’annonce.
 
-Dans le contexte de Margot, le biais rétrospectif colore son interprétation de ses choix passés et de leurs liens avec son offre actuelle. Il transforme des éléments incertains d'hier en certitudes d'aujourd'hui, et rend les options futures plus tranchées qu'elles ne le sont réellement. Ici, l’événement déjà connu est l’arrivée de l’offre ; Margot ne connaît pas encore l’issue de la négociation.
+Dans cette scène, l’information déjà connue est l’exigence nouvelle d’un script, annoncée pendant la réunion. Le biais concerne ce qu’elle pense avoir pu prévoir avant cette annonce. Elle ne connaît pas encore l’issue de la négociation ; imaginer un futur regret pose une autre question.
 
 ## Manifestations du biais face à une décision importante
-### 1. Le sentiment d'évidence qui restreint les options
-Margot pense que son retour possible vers une structure plus corporate est la suite logique et prévisible de ses vingt-cinq ans dans le commerce. Cette narration interne transforme une offre parmi d'autres en évidence : si elle accepte, c'est parce que tout conspire vers ce résultat. Dans la pratique, cela réduit sa capacité à considérer des alternatives moins visibles, comme développer un groupe ciblé de clients privés ou proposer des ateliers thématiques qui correspondent mieux à ses valeurs.
 
-Par exemple, après avoir accepté un entretien avec l'entreprise, elle commence à imaginer les étapes comme si elles étaient déjà décidées, oubliant qu'elle conserve la liberté de négociation. Son esprit juge le futur à l'aune d'une logique construite après coup, et non à partir des inconnues présentes avant la proposition. Margot remarque que ce récit lui donne l’impression que tout était joué d’avance, alors qu’elle peut encore discuter des clauses.
+### 1. L’information nouvelle paraît avoir toujours été évidente
 
-### 2. Réinterpréter ses actions passées pour justifier un choix présent
-Le biais rétrospectif amène Margot à lire son parcours professionnel comme une série d'étapes menant inéluctablement à la décision actuelle. Elle repasse mentalement ses années en commerce et entend chaque événement comme une preuve qu'elle appartient encore à cet univers. Ce récit rétroactif conforte une tendance au contrôle : justifier une décision actuelle en alignant le passé sur cette option.
+Le script prend beaucoup de place après son annonce. Margot risque alors de surestimer ce qui lui était accessible pendant le premier appel. La facilité actuelle à imaginer cette contrainte ne démontre pas qu’elle pouvait la prévoir précisément.
 
-Concrètement, elle retrouve un vieux contrat dans ses archives et l'associe soudainement à la preuve que son style commercial est toujours pertinent. Cette relecture l'empêche de voir comment ses compétences acquises peuvent prendre d'autres formes dans un rôle de coach indépendant. Elle se souvient de sa première cliente reçue à domicile, où elle craignait que son passé n'invalide sa légitimité ; aujourd'hui, elle utilise ce même passé pour s'enfermer dans une voie qu'elle pensait pourtant avoir quittée.
+Elle trouve le script si central qu’elle doute qu’il n’ait jamais été mentionné. Elle relit aussi le numéro griffonné dans la marge comme si une autre indication devait s’y cacher. Le cahier des charges reçu et les notes anciennes correspondent pourtant à deux moments d’information différents.
 
-### 3. Culpabilité et regret amplifiés
-Margot imagine le reproche qu’elle pourrait se faire plus tard. Ce regret anticipé n’est pas le biais rétrospectif, qui suppose un résultat déjà connu. Margot imagine que si elle refuse l'offre, elle sera pénalisée pour ne pas avoir su anticiper l'opportunité. Inversement, si elle accepte et que les choses tournent mal, elle se convainc qu'elle aurait dû prévoir l'échec. Le résultat est un renforcement inutile de la culpabilité et du regret, qui brouille la prise de décision.
+### 2. Les gestes antérieurs reçoivent un sens qu’ils n’avaient pas
 
-Elle s'imagine racontant à Philippe qu'elle a manqué la chance parce qu'elle n'a pas reconnu le signe. Ce récit futur accentue le poids de la décision actuelle, alors même que beaucoup d'éléments restent incertains.
+Après l’annonce, Margot peut reconstruire sa préparation comme si elle avait été menée malgré un avertissement connu. Elle peut ensuite tirer un jugement de cette reconstruction. Il reste nécessaire de regarder ce qu’elle savait réellement au moment d’agir.
+
+L’activité qu’elle a préparée à partir des situations des participants lui paraît maintenant avoir ignoré une contrainte essentielle. La page où elle avait noté salle et groupes lui paraît insuffisante parce qu’elle n’inclut pas le format découvert aujourd’hui. Dans les deux cas, elle juge un travail antérieur avec une information arrivée ensuite.
+
+### 3. Le reproche de ne pas avoir prévu masque la suite possible
+
+Le « je devais m’en douter » peut occuper la place de la question actuelle : le script est-il obligatoire et sur combien de séances ? Cela ne signifie pas qu’aucune amélioration de sa prise d’information n’est possible. Il faut distinguer ce qu’elle peut apprendre pour un prochain échange de ce qu’elle se reproche après coup.
+
+Elle se blâme de ne pas avoir demandé le script avant de préparer son activité. Elle pourrait aussi interpréter son carnet refermé pendant la réunion comme la preuve qu’elle sait depuis toujours que l’offre ne lui convient pas. La première phrase juge le passé ; la seconde donnerait rétrospectivement à sa réaction présente une signification définitive.
 
 ## Techniques pour décider avec discernement
-### 1. Tenir un journal de décision
-Avant de trancher, notez sur une page l'option envisagée, pourquoi elle vous attire, pourquoi elle vous rebute, les informations manquantes, et surtout vos prédictions sur l'issue. Conservez cette note et relisez-la quelques mois après la décision pour comparer vos prédictions au résultat réel.
 
-Aujourd'hui, Margot écrit pour l'offre de l'entreprise :
-- Option A (accepter) : liste de bénéfices attendus, risques, estimation de la probabilité perçue.
-- Option B (refuser et renégocier) : même format.
-Elle inscrit une prédiction claire sur son niveau de satisfaction futur, puis elle date et range la feuille. Cette habitude aide à repérer le biais rétrospectif parce qu'elle crée une trace des pensées avant le résultat, diminuant ainsi la tentation de remodeler le passé pour qu'il s'ajuste à la décision prise.
+### 1. Tenir un journal de décision daté
 
-### 2. Le pré-mortem inversé
-Au lieu d'expliquer pourquoi une décision a échoué après coup, imaginez que vous êtes déjà dans l'avenir et que le projet a réussi. Ensuite, identifiez quelles erreurs du passé auraient pu menacer cette réussite. Cet exercice sert ici à imaginer plusieurs issues et à repérer ce qui manque pour décider.
+Margot cherche une trace des informations disponibles à chaque moment, sans chiffrer une issue qu’elle ne connaît pas.
 
-Margot se place dans six mois, alors que sa collaboration a bien fonctionné. Elle note trois facteurs qui auraient pu empêcher ce succès, comme une mauvaise adéquation des valeurs ou une surcharge administrative. Pour chacun, elle écrit une mesure concrète de protection à mettre en place maintenant, par exemple des clauses de sortie ou un calendrier de test. Cet exercice recentre l'attention sur des facteurs contrôlables.
+1. Retrouver la page du premier appel et relever seulement les informations réellement notées : salle, groupes et contact.
+2. Dater à part l’annonce du script et les questions encore ouvertes sur le format et les horaires.
+3. Avant de répondre, inscrire les options, leurs raisons et ce qui changerait son choix, puis conserver cette version pour une relecture ultérieure.
 
-### 3. Demander des perspectives externes structurées
-Sollicitez un avis extérieur mais encadré. Au lieu de demander ce que l'autre ferait à votre place, demandez des retours factuels sur les questions à poser à l'entreprise ou les signes indiquant un manque d'alignement. Préférez des personnes qui ne cherchent pas à vous conforter dans une vérité préétablie.
+Le carnet peut lui permettre de comparer ses souvenirs à une trace. Il ne garantit pas un souvenir parfait et une marge vide ne prouve pas tout ce qui a été dit.
 
-Margot sollicite Sylvie pour un échange de trente minutes. Elle prépare trois documents : le résumé de l'offre, son journal de décision initial et sa liste de critères personnels non négociables. Elle demande à Sylvie d'énumérer des indicateurs objectifs d'alarme et des signaux d'opportunité, sans juger ce qui semble évident. Ensuite, elle écoute le point de vue de Philippe sur ces critères factuels. Ce cadre l’aide à noter les questions encore ouvertes.
+### 2. Le pré-mortem inversé, comme exercice d’hypothèses
+
+L’appellation désigne ici un détour d’imagination : Margot envisage plusieurs suites sans annoncer qu’une collaboration réussira.
+
+1. Décrire une suite possible où le format lui convient et une autre où les scripts limitent trop son travail.
+2. Pour chacune, noter la condition à vérifier aujourd’hui, par exemple le nombre de séances communes et la marge laissée aux autres.
+3. Transformer ces conditions en une question ou un amendement à transmettre, puis revenir aux réponses réelles.
+
+Cette comparaison peut rendre une inconnue plus visible. Les scénarios ne sont ni des souvenirs ni des prédictions à retenir comme des faits.
+
+### 3. Demander une perspective extérieure ciblée
+
+Margot veut examiner ses questions avec Sylvie sans lui confier un verdict sur ce qu’elle aurait dû savoir.
+
+1. Préparer les notes du premier appel, le cahier des charges reçu et les points qu’elle souhaite discuter.
+2. Demander à Sylvie de distinguer information connue, information nouvelle et question non résolue, plutôt que de dire si tout était évident.
+3. Choisir les questions à poser à la responsable et garder la décision pour après les réponses ; demander ensuite un autre avis seulement sur un besoin précis.
+
+Cet échange peut apporter une lecture différente. Sylvie n’a pas assisté au premier appel et ne peut garantir ni ce qui y a été dit ni l’issue de la négociation.
 
 ## Les clauses sur lesquelles elle revient
 

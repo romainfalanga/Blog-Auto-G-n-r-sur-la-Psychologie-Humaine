@@ -31,28 +31,61 @@ La méta-analyse de Grijalva et de ses collègues rapporte une association entre
 ## Quels comportements observer au travail ?
 ### 1. Charisme et besoin de reconnaissance
 Manifestation : Un manager comme Nadia peut rayonner en réunion, porter des idées ambitieuses et galvaniser une équipe. Ce charisme, couplé à une confiance affirmée, aide à convaincre les parties prenantes et à mobiliser des ressources. Par exemple, Nadia porte une campagne audacieuse et obtient le budget parce qu'elle défend la vision avec force.
-Risques : Si le besoin de reconnaissance devient obsessionnel, le manager cherche l'admiration avant l'efficacité, reprend systématiquement la parole, attribue les succès à sa seule personne et minimise les contributions d'autrui. Cela crée un climat où les collègues se taisent, les idées cessent d'émerger et la satisfaction au travail chute. Nadia doit rester vigilante à l'illusion de transparence : elle pense souvent que son besoin d'admiration est invisible, alors que son équipe perçoit parfois sa rigidité comme un manque d'ouverture.
+Risques : Si le besoin de reconnaissance devient obsessionnel, le manager cherche l'admiration avant l'efficacité, reprend systématiquement la parole, attribue les succès à sa seule personne et minimise les contributions d'autrui. Cela crée un climat où les collègues se taisent, les idées cessent d'émerger et la satisfaction au travail chute. Nadia peut demander un retour sur une conduite précise, comme la place laissée à une objection. Ce qu’elle éprouve et ce que les collègues perçoivent ne se déduisent pas l’un de l’autre.
+
+Exemples situés :
+- Nadia peut défendre une campagne avec conviction tout en laissant Marc questionner les dates ; cette assurance ne suffit pas à identifier un trait narcissique.
+- Lorsqu’elle répète que son ordre a déjà été communiqué, elle peut remarquer qu’elle défend sa décision avant d’entendre le problème de lancement soulevé.
 
 ### 2. Perfectionnisme, contrôle et difficulté à déléguer
 Manifestation : L'exigence de qualité ne renseigne pas, à elle seule, sur les traits de personnalité d'un manager. Nadia, avec son sens du détail, corrige un plan de communication pour qu'il soit impeccable. Elle a déjà appris, depuis l'épisode du tableur d'anniversaire et l'illusion de contrôle, à structurer ses projets comme des opérations précises.
 Risques : Vérifier chaque détail ou retirer sans cesse des décisions à une équipe peut compliquer son travail. Si Nadia revient sur des décisions déjà déléguées, elle peut clarifier avec Julie ce qu'elle souhaite revoir et ce que Julie peut décider seule.
 
+Exemples situés :
+- Nadia voit la proposition de décalage de Julie mais poursuit son propre argument sans ouvrir le commentaire.
+- Après avoir confié le calendrier, elle peut vouloir remettre une date avant de demander à Julie la raison de son déplacement.
+
 ### 3. Réactivité face à la critique et manipulation relationnelle
 Manifestation : Un leader peut défendre ses idées avec fermeté et accepter la critique constructive en la replaçant dans un cadre logique. Dans une configuration saine, la personne ajuste sa stratégie après un retour pertinent.
 Risques : Dévaloriser un collègue, le couper systématiquement ou exercer des représailles après une objection sont des comportements à prendre au sérieux. On peut décrire les faits et demander l'appui approprié sans attribuer de trouble à la personne.
 
+Exemples situés :
+- Dans la réunion, Nadia répond à la répétition de Marc en demandant enfin quel lancement pose problème plutôt que le disqualifier.
+- Dans une équipe, une représaille après une objection serait un fait à signaler avec l’appui approprié ; ce n’est pas un acte supplémentaire attribué à Nadia dans cette scène.
+
 ## Trois façons d’ajuster ses pratiques de management
 ### 1. Recalibrer la reconnaissance par les faits
-L'objectif est de transformer la quête de reconnaissance en rétroaction utile et objective.
-Exercice : Demandez un exemple précis de ce qui a aidé ou gêné le travail de l'équipe. Par exemple : « À quel moment mes consignes t'ont-elles été utiles ? » Laissez la personne libre de répondre et examinez le fait décrit plutôt que de compter les compliments.
+
+L’objectif est d’obtenir un retour utile sur un comportement de travail, sans compter les marques d’admiration.
+
+Exercice pratique :
+1. Choisissez un point précis, comme la clarté de l’ordre des campagnes communiqué.
+2. Demandez un exemple de ce qui a aidé ou gêné, en laissant le collègue libre de répondre.
+3. Examinez le fait décrit et choisissez une clarification ou un ajustement, sans conclure à un diagnostic de personnalité.
+
+Utilité possible : le retour porte sur une conduite modifiable et peut rester distinct d’un jugement sur toute la personne.
 
 ### 2. Délégation contractuelle progressive
-L'objectif est de réduire la microgestion et de renforcer la compétence des collaborateurs sans perdre le contrôle opérationnel.
-Exercice : pour chaque mission déléguée, rédigez un court contrat de délégation de deux colonnes : résultats attendus avec des critères de réussite mesurables et autonomie autorisée avec les niveaux de décision accordés. Définissez une échéance de révision claire, par exemple sept jours. Lors des premières semaines, faites des points brefs et structurés qui évaluent les écarts par rapport aux critères. Pour un profil comme Nadia, cette méthode transforme le besoin de contrôle en un processus systématique et vérifiable, compatible avec son goût pour la rigueur.
+
+L’objectif est de clarifier ce que Julie peut décider pour le calendrier et quand un point commun est nécessaire.
+
+Exercice pratique :
+1. Convenez du résultat attendu et des décisions que Julie prend seule sur le calendrier média.
+2. Précisez les changements qui demandent une concertation, notamment ceux concernant une autre équipe, et le moment pour les reprendre.
+3. Au point convenu, examinez un écart avec Julie avant d’annuler une modification.
+
+Utilité possible : l’accord rend la délégation vérifiable sans transformer le besoin de contrôle en traitement d’un profil supposé.
 
 ### 3. Entraînement empathique avec mise en pratique
-L'objectif est de développer l'empathie cognitive et émotionnelle pour réduire les réponses défensives et l'exploitation relationnelle.
-Exercice : Écoutez le point de vue d'un collègue sans l'interrompre, puis résumez ce que vous avez compris. Demandez-lui de corriger ou de préciser. Il n'a pas à partager ses émotions pour que vous puissiez clarifier un problème de travail.
+
+L’objectif est de comprendre une objection concrète sans demander au collègue de partager sa vie émotionnelle.
+
+Exercice pratique :
+1. Laissez Marc terminer l’explication du lancement concurrent.
+2. Résumez ce que vous avez compris du problème de date et demandez-lui de corriger ce qui manque.
+3. Convenez avec lui et Julie de l’information ou de la décision à reprendre, dans le rôle de chacun.
+
+Utilité possible : l’écoute peut rendre le désaccord plus précis ; elle n’établit ni un degré d’empathie ni l’absence d’un trouble.
 
 ## Le calendrier reste chez Julie
 

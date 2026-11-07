@@ -1,0 +1,1249 @@
+{
+  "character_id": "mireille",
+  "bio": "Mireille, 66 ans, ancienne agente des jardins publics, entretient le carnet des arbres remarquables de sa commune. Son trouble neurocognitif léger rend certaines informations récentes et les tâches à plusieurs étapes plus difficiles à garder en tête. Elle connaît toujours ses arbres, ses goûts et ses priorités. Avec Alice, sa petite-fille, elle prépare un partage du carnet sans abandonner sa propre écriture. Entre consultation mémoire, essais pratiques et désaccords familiaux, elle choisit les aides qui lui conviennent et apprend à faire une place aux incertitudes du suivi.",
+  "profile_topics": [
+    "Trouble neurocognitif léger",
+    "Mémoire récente",
+    "Attention",
+    "Autonomie",
+    "Incertitude"
+  ],
+  "episodes": [
+    {
+      "number": 1,
+      "slug": "mireille-information-recente",
+      "title": "Mémoire récente : retrouver la remarque sur le platane",
+      "description": "Mireille connaît le platane par cœur, mais la remarque de la veille lui échappe. Elle choisit une trace pour ses nouvelles observations.",
+      "context": "au pied du platane des écoles",
+      "topics": [
+        "Mémoire récente",
+        "Carnet",
+        "Compensation"
+      ],
+      "clinical_focus": "Mémorisation des informations récentes",
+      "clinical_intro": "La mémoire des informations récentes peut devenir moins fiable dans un trouble neurocognitif léger, alors que des connaissances anciennes restent accessibles. Cette différence varie selon les personnes et les situations. Elle s’apprécie dans un bilan clinique et dans l’histoire du fonctionnement quotidien ; un oubli isolé ne permet pas de conclure à un trouble ni de prévoir son évolution.",
+      "opening": "Mireille pose son carnet sur le muret de l’école, à l’endroit où la pierre est assez plate pour écrire. Le platane dépasse la toiture et garde, près de la première branche, la cicatrice qu’elle a dessinée douze ans auparavant. Alice, sa petite-fille, lui demande où placer la photographie prise la veille. « Avec la remarque de Paul sur la branche basse », ajoute-t-elle. Mireille reconnaît la photographie, le soleil de travers, les vélos derrière la grille. La remarque de Paul, elle, ne revient pas.\n\nElle tourne deux pages, puis trois. Elle se souvient très bien de l’année où une barrière a été déplacée pour épargner les racines. Elle peut encore expliquer pourquoi cette ancienne taille était mauvaise. Pourtant, elle doit demander ce que Paul leur a dit hier. Alice répond qu’une branche avait été observée par le service des jardins ; il ne leur avait demandé aucune intervention. Mireille avait voulu en noter la date dans son carnet.\n\nDepuis le diagnostic de trouble neurocognitif léger établi en consultation mémoire, elle remarque davantage ces décalages. Ils l’agacent surtout lorsqu’ils touchent son travail de transmission. Elle ne souhaite pas que chaque promenade devienne une vérification. Alice sort son téléphone pour lui montrer leur échange. « Attends. Lis-moi seulement la phrase », demande Mireille. Elle veut retrouver l’information avant de choisir où l’écrire. Le carnet reste ouvert devant elle, avec une place pour la photographie et une autre pour la remarque qui lui manquait.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Pourquoi le détail de la veille manque",
+          "text": "Retenir une nouvelle information et disposer d’un savoir ancien ne sollicitent pas exactement la même histoire d’apprentissage. Une difficulté peut apparaître dans l’un de ces usages de la mémoire alors qu’un autre reste une ressource. Ce contraste explique pourquoi l’assurance de Mireille devant la cicatrice du platane ne lui rend pas automatiquement la remarque de Paul. Elle n’invente pas une réponse pour préserver sa place : elle revient à la source et choisit une trace utile. L’objectif de cette trace est de retrouver un détail nécessaire à son carnet, sans lui demander de mémoriser toute la conversation."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment cette difficulté apparaît-elle ici ?",
+          "points": [
+            {
+              "heading": "L’information nouvelle manque au moment utile",
+              "text": "Une conversation peut laisser un souvenir de son contexte sans que tous ses détails restent disponibles. Ici, Mireille connaît le sujet de la visite mais doit retrouver une information exacte.",
+              "examples": [
+                "Sur le muret de l’école, elle reconnaît la photo de la veille et demande ce que Paul a dit.",
+                "À la maison, elle sait qu’un document a été reçu, mais recherche sa date dans le courrier plutôt que de la deviner."
+              ]
+            },
+            {
+              "heading": "Les repères anciens restent présents",
+              "text": "La difficulté récente ne fait pas disparaître toutes les connaissances. Les capacités préservées servent au projet, sans annuler la gêne éprouvée dans un autre domaine.",
+              "examples": [
+                "Devant le platane, Mireille raconte pourquoi la barrière a changé de place.",
+                "Dans le carnet ancien, elle retrouve le dessin d’une cicatrice et en explique la forme à Alice."
+              ]
+            },
+            {
+              "heading": "Retrouver la source demande un détour",
+              "text": "Lorsque l’information n’est plus disponible, sa recherche peut interrompre l’activité. Une trace accessible peut éviter de répéter longtemps la même recherche.",
+              "examples": [
+                "Au pied de l’arbre, trois pages tournées ne lui rendent pas la remarque absente.",
+                "Sur la table du salon, le message de Paul lui permet de vérifier la date avant de l’inscrire."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour garder une trace utile",
+          "points": [
+            {
+              "heading": "Une observation, une ligne",
+              "objective": "Conserver les détails utiles sans transformer le carnet en compte rendu exhaustif.",
+              "exercise": [
+                "Après une visite, choisir une seule information à garder, par exemple la date de la remarque de Paul.",
+                "L’écrire immédiatement dans un emplacement décidé par Mireille, en nommant la source.",
+                "À la prochaine utilisation, vérifier si cette ligne est assez claire et modifier son format si nécessaire."
+              ],
+              "benefit": "Cette trace peut réduire la charge de rappel. Son intérêt se juge à l’usage du carnet, sans supposer une amélioration de la mémoire."
+            },
+            {
+              "heading": "Une place pour les informations à confirmer",
+              "objective": "Permettre une vérification sans remplir les blancs par une supposition.",
+              "exercise": [
+                "Tracer une petite zone « à confirmer » sur la fiche en cours.",
+                "Y écrire la question exacte, puis retrouver le message ou demander à la personne concernée.",
+                "Reporter la réponse vérifiée et barrer la question pour ne pas la reprendre inutilement."
+              ],
+              "benefit": "La distinction entre souvenir et information vérifiée protège la qualité du carnet et laisse le droit de ne pas savoir."
+            },
+            {
+              "heading": "Une aide demandée précisément",
+              "objective": "Garder la main sur le soutien proposé par Alice.",
+              "exercise": [
+                "Dire ce qui manque : « la phrase de Paul, pas toute la conversation ».",
+                "Écouter ou lire la source ensemble, sans questions destinées à tester le souvenir.",
+                "Mireille choisit ensuite la formulation et l’endroit où la garder."
+              ],
+              "benefit": "Une demande limitée peut rendre l’aide acceptable et préserver l’auteur du carnet. Un besoin nouveau ou croissant pourra être discuté en consultation."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Une ligne sous la photographie",
+      "ending": "Mireille écrit la date sous la photographie, puis ajoute : « remarque de Paul, service des jardins ». Elle ne recopie pas tout le message. Alice propose un dossier de photos ; Mireille accepte pour les images, mais conserve les observations dans l’original. Avant de repartir, elles vérifient seulement que la note répond à la question du jour. La conversation de la veille ne revient pas entière, et elles cessent de la chercher.\n\nAu prochain arbre, Mireille oubliera peut-être encore un détail. Elle sait désormais quelle trace essayer. Elle demande aussi à Alice de garder la prochaine promenade pour regarder les arbres, avec un court moment d’écriture à la fin.",
+      "conclusion": "Une information récente peut manquer au milieu de connaissances toujours utiles. Mireille commence son partage par une trace qu’elle a choisie et par une demande précise à Alice. Ce premier essai soutient le carnet ; il ne renseigne pas à lui seul sur la suite de son trouble.",
+      "mirror": [
+        "Alice voit sa grand-mère tourner les pages et peut demander : « Tu veux que je retrouve le message ou que je te laisse chercher un moment ? » Elle peut ensuite donner l’information sans organiser un jeu de mémoire. Son aide porte sur une ligne ; Mireille garde le choix de l’inscrire et peut préférer revenir à la promenade."
+      ],
+      "sources": [
+        "oms-cddr",
+        "has-tnc-definition",
+        "has-tnc-autonomie"
+      ],
+      "continuity": {
+        "choice": "Mireille conserve l’original et ajoute une ligne datée par observation nouvelle.",
+        "next": "La prochaine sortie mettra cette trace à l’épreuve au milieu des interruptions du parc."
+      }
+    },
+    {
+      "number": 2,
+      "slug": "mireille-attention-interruptions",
+      "title": "Attention : perdre le fil quand le parc s’anime",
+      "description": "Entre une question, une tondeuse et son carnet, Mireille perd sa ligne. Elle aménage un temps calme pour finir une observation.",
+      "context": "pendant une sortie au parc",
+      "topics": [
+        "Attention",
+        "Interruptions",
+        "Environnement"
+      ],
+      "clinical_focus": "Attention face aux interruptions",
+      "clinical_intro": "L’attention permet de sélectionner les informations utiles et de garder le fil d’une activité. Elle peut être fragilisée dans un trouble neurocognitif léger. Le bruit, plusieurs sollicitations ou la fatigue peuvent aussi gêner une personne sans expliquer à eux seuls un diagnostic. Adapter une situation sert d’abord à faciliter une tâche réelle, sans mesurer sa valeur ou son intelligence.",
+      "opening": "Le samedi suivant, Mireille retrouve Alice près du kiosque avec son carnet et deux photographies. Elle veut décrire le tilleul dont les premières feuilles se déplient. Sa ligne de la veille lui convient : une date, l’arbre, puis une remarque. Elle commence à écrire quand une tondeuse passe derrière la haie. Alice demande si la photo doit être recadrée. Au même moment, une ancienne collègue les salue et parle de la fête du parc.\n\nMireille répond avec plaisir. Elle veut savoir qui prépare les plantations et plaisante sur les géraniums toujours trop serrés. Quand son amie repart, son crayon demeure au-dessus de la page. Elle relit « petites feuilles », puis ne sait plus ce qu’elle voulait préciser. Elle regarde l’arbre, regarde la photo, recommence la phrase. Alice lui propose une autre image. « J’ai déjà un tilleul devant moi, c’est suffisant », répond-elle, plus sèchement qu’elle ne le voulait.\n\nLa conversation l’intéressait ; elle n’aurait pas souhaité qu’on la protège de toute rencontre. Ce qui la dérange est de devoir tenir ensemble le salut, la question technique et l’observation. Elle peut encore décrire les nervures lorsqu’elles ne parlent que de cela. Elle montre à Alice le banc derrière le kiosque. Elles n’ont aucune urgence à finir debout à cet endroit. Mireille voudrait essayer une façon d’accueillir les rencontres sans perdre chaque fois sa phrase.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Quand les sollicitations se superposent",
+          "text": "Écrire une observation demande de choisir ce qui compte et de maintenir une idée pendant qu’on la formule. Une interruption ajoute ensuite un travail de reprise : retrouver l’idée, le point arrêté et la prochaine action. Pour Mireille, répondre à son ancienne collègue reste possible et agréable ; reprendre sa précision sur le tilleul lui coûte davantage. La question sur le cadrage arrive alors comme une demande supplémentaire. Séparer ces moments permet d’agir sur la situation sans réduire toute la promenade à une activité protégée. Le banc et le trait de reprise servent ce but concret."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment cette difficulté apparaît-elle ici ?",
+          "points": [
+            {
+              "heading": "Plusieurs demandes se disputent la même place",
+              "text": "Garder une consigne pendant qu’une autre arrive peut devenir coûteux. Les interlocuteurs ne perçoivent pas toujours cet effort quand la personne répond correctement à chaque question séparée.",
+              "examples": [
+                "Sous le kiosque, la question sur le cadrage arrive pendant que Mireille choisit ses mots.",
+                "Chez elle, deux commentaires sur des photos l’obligent à laisser de côté la légende qu’elle composait."
+              ]
+            },
+            {
+              "heading": "Une interruption efface le point de reprise",
+              "text": "L’activité peut rester connue mais le moment exact où elle a été laissée devient difficile à retrouver. Il faut alors relire ou recommencer une partie du travail.",
+              "examples": [
+                "Après le salut de sa collègue, Mireille ne retrouve plus la précision prévue après « petites feuilles ».",
+                "À la bibliothèque, un appel l’oblige à relire le dernier paragraphe avant de poursuivre sa fiche."
+              ]
+            },
+            {
+              "heading": "Le cadre modifie l’effort demandé",
+              "text": "Une tâche réalisable au calme peut devenir plus difficile dans un environnement animé. Cette différence renseigne sur les conditions utiles, sans prouver une évolution du trouble.",
+              "examples": [
+                "Sur le banc derrière le kiosque, Mireille décrit les nervures en regardant une seule photo.",
+                "Près de la tondeuse, elle répète le début de sa phrase sans parvenir à la terminer."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour retrouver le fil",
+          "points": [
+            {
+              "heading": "Un sujet à la fois",
+              "objective": "Réduire les décisions simultanées pendant l’observation.",
+              "exercise": [
+                "Nommer la tâche du moment : décrire la feuille, choisir une photo ou discuter.",
+                "Mettre de côté les questions de cadrage jusqu’à la fin de la phrase.",
+                "Avant de changer de sujet, demander à Mireille si elle a fini ce qu’elle souhaitait noter."
+              ],
+              "benefit": "La séparation des demandes peut rendre le fil plus facile à maintenir sans limiter les sujets qu’elle souhaite aborder."
+            },
+            {
+              "heading": "Un repère avant de répondre",
+              "objective": "Créer un point de retour quand une rencontre interrompt l’écriture.",
+              "exercise": [
+                "Avant de fermer le carnet, souligner le dernier mot ou écrire un mot de suite.",
+                "Participer à l’échange si Mireille en a envie, sans devoir continuer à rédiger.",
+                "Au retour, lire le repère et reprendre ou reformuler la phrase librement."
+              ],
+              "benefit": "Le repère fournit une information extérieure au moment de la reprise. Il peut échouer certains jours et rester modifiable."
+            },
+            {
+              "heading": "Choisir le lieu de finition",
+              "objective": "Distinguer la promenade vivante du moment où une note doit être précise.",
+              "exercise": [
+                "Repérer un banc ou une table moins sollicitée, accessible pendant la sortie.",
+                "Y terminer une seule note avant de traiter les photographies.",
+                "Comparer le confort de cet essai avec l’écriture près du passage et garder le lieu préféré."
+              ],
+              "benefit": "L’aménagement agit sur la charge de la situation. Il ne remplace pas un avis soignant si une difficulté inhabituelle apparaît."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Le banc derrière le kiosque",
+      "ending": "Sur le banc, Alice garde la question de cadrage pour plus tard. Mireille regarde la branche puis complète sa phrase. Elle n’a pas retrouvé exactement les mots de tout à l’heure, mais l’observation lui paraît juste. Quand une famille passe, elle pose un trait sous sa ligne avant de leur indiquer le chemin de la mare.\n\nLe trait ne garantit pas qu’elle retrouvera chaque fois son idée. Cette fois, il lui permet de revenir au tilleul sans feuilleter plusieurs pages. Elle propose une sortie aux archives la semaine suivante pour choisir les arbres de la présentation : « Là, il faudra surtout se mettre d’accord sur l’ordre. »",
+      "conclusion": "Les interruptions peuvent faire perdre une intention d’écriture sans faire disparaître les connaissances nécessaires. Mireille garde les rencontres auxquelles elle tient et ménage un endroit pour terminer. Cette distinction ouvre la prochaine étape : organiser plusieurs opérations au lieu de les garder toutes en tête.",
+      "mirror": [
+        "Alice peut partir de la phrase restée en suspens : « Je garde ma question sur la photo pour après ? » Elle peut aussi dire qu’elle a besoin d’une réponse avant de partir, puis convenir d’un moment. Réduire les demandes simultanées se négocie ; cela n’oblige personne à faire taire les autres promeneurs ou à surveiller continuellement Mireille."
+      ],
+      "sources": [
+        "oms-cddr",
+        "has-tnc-definition",
+        "has-tnc-autonomie"
+      ],
+      "continuity": {
+        "choice": "Mireille garde un repère de reprise et choisit un banc pour finir ses notes.",
+        "next": "Aux archives, elles devront classer les étapes de la sélection des arbres."
+      }
+    },
+    {
+      "number": 3,
+      "slug": "mireille-planification-etapes",
+      "title": "Planification : préparer une sélection sans tout faire ensemble",
+      "description": "Aux archives, Mireille ouvre trois dossiers et ne sait plus lequel terminer. Elle sépare les étapes du choix des arbres.",
+      "context": "à la table des archives municipales",
+      "topics": [
+        "Planification",
+        "Étapes",
+        "Projet"
+      ],
+      "clinical_focus": "Organisation des tâches successives",
+      "clinical_intro": "Planifier consiste à choisir un ordre, garder un objectif et vérifier où l’on en est. Ces opérations peuvent demander davantage d’effort dans un trouble neurocognitif léger, même lorsque chaque geste reste réalisable. Un support d’étapes peut aider une activité concrète. Son utilisation ne signifie pas que la personne a perdu sa capacité de décider ou de comprendre le projet.",
+      "opening": "Les archives municipales ont réservé une grande table pour le carnet. Mireille a apporté les photographies du platane, du tilleul et du cèdre de la place. Alice a imprimé le message de la bibliothécaire : six arbres au maximum pour une petite présentation en début d’été. Mireille aime cette limite. Elle veut que les visiteurs aient le temps de regarder les dessins, plutôt que de traverser une exposition de cinquante étiquettes.\n\nElle ouvre le dossier du cèdre, puis cherche la photo du tilleul pour comparer leurs formats. Une date manque sur une copie. Elle retourne au carnet, retrouve un dessin ancien et pense qu’il faudrait l’agrandir. Au bout d’un moment, les trois dossiers sont ouverts, mais aucun arbre n’est vraiment retenu. Alice demande lequel scanner en premier. Mireille répond « celui-ci », puis reprend le cèdre qu’elle venait de mettre de côté.\n\nElle comprend parfaitement l’invitation de la bibliothèque. Ce qu’elle n’arrive plus à tenir facilement, c’est l’ordre des opérations : sélectionner, vérifier, puis préparer les copies. Auparavant, elle pouvait laisser plusieurs dossiers en chantier sans perdre leur état. Aujourd’hui, cette manière de travailler la fatigue. Elle rapproche une feuille blanche et écrit « six arbres ». Alice attend au lieu de lancer le scanner. Mireille veut décider d’abord ce qui mérite d’être montré, avec ses raisons à elle, avant de s’occuper de la taille des images.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Ce que demande l’ordre des opérations",
+          "text": "Une tâche à plusieurs étapes demande de conserver un but, choisir ce qui vient d’abord et reconnaître ce qui est terminé. Il est possible de connaître chaque opération tout en ayant du mal à les coordonner. Aux archives, Mireille sait comparer les arbres et juger une photographie ; la gêne apparaît lorsqu’elle passe sans cesse du choix au format, puis à la date manquante. La feuille « six arbres » rend l’objectif présent et les piles indiquent l’état des décisions. Ces repères soutiennent son organisation tout en lui laissant les arbitrages sur le contenu."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment cette difficulté apparaît-elle ici ?",
+          "points": [
+            {
+              "heading": "Le moyen prend la place du but",
+              "text": "Une sous-tâche attire l’attention et l’objectif initial devient moins facile à garder. La personne peut consacrer beaucoup d’effort sans avancer sur la décision attendue.",
+              "examples": [
+                "Aux archives, Mireille cherche un agrandissement avant d’avoir choisi les arbres.",
+                "Sur sa table, elle ajuste les pochettes alors que la liste des six noms reste ouverte."
+              ]
+            },
+            {
+              "heading": "L’état des dossiers devient difficile à suivre",
+              "text": "Plusieurs travaux ouverts peuvent demander de retenir ce qui est terminé et ce qui reste à faire. Un classement visible réduit cette information à garder mentalement.",
+              "examples": [
+                "Mireille reprend le cèdre sans savoir si elle l’a retenu ou seulement regardé.",
+                "Une photo déjà datée revient dans la pile des images à vérifier."
+              ]
+            },
+            {
+              "heading": "La décision reste possible avec un ordre clair",
+              "text": "Une difficulté d’organisation n’équivaut pas à une absence de préférences. Laisser du temps à la comparaison aide à distinguer choix et mise en œuvre.",
+              "examples": [
+                "Mireille explique pourquoi le platane doit figurer parmi les six arbres.",
+                "Une fois les images mises de côté, elle écarte une notice trop technique pour les visiteurs."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour ordonner la préparation",
+          "points": [
+            {
+              "heading": "Séparer choisir et fabriquer",
+              "objective": "Éviter que les opérations techniques envahissent la sélection.",
+              "exercise": [
+                "Écrire l’objectif de la séance sur une feuille : retenir six arbres.",
+                "Garder les décisions de format sur une seconde feuille sans les traiter immédiatement.",
+                "Quand la sélection est arrêtée, convenir d’un autre moment pour scanner et agrandir."
+              ],
+              "benefit": "Un but visible peut faciliter l’arbitrage et laisser à Mireille le temps de justifier son choix."
+            },
+            {
+              "heading": "Trois emplacements sur la table",
+              "objective": "Rendre l’état du travail directement visible.",
+              "exercise": [
+                "Préparer des espaces « à regarder », « retenu » et « écarté pour cette fois ».",
+                "Déplacer un seul dossier après chaque décision prise par Mireille.",
+                "Avant de partir, recopier la sélection et ranger chaque ensemble avec son étiquette."
+              ],
+              "benefit": "Le déplacement des dossiers peut éviter de refaire un choix déjà posé. Les catégories restent révisables si un nouvel arbre s’impose."
+            },
+            {
+              "heading": "Une vérification de fin de séance",
+              "objective": "Fermer la séance sans se fier au seul souvenir de ce qui a été fait.",
+              "exercise": [
+                "Relire ensemble la liste des arbres retenus sans poser de questions de mémoire.",
+                "Nommer une prochaine tâche précise et qui s’en chargera, avec son accord.",
+                "Laisser la feuille avec le carnet pour pouvoir reprendre au même point."
+              ],
+              "benefit": "Cette clôture peut réduire l’effort de reprise. Si l’organisation devient difficile dans plusieurs activités, la consultation peut aider à adapter les appuis."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Six noms avant le scanner",
+      "ending": "Mireille retient le platane et le tilleul, puis ajoute le cèdre pour son histoire avec les habitants. Trois autres arbres complètent la feuille. Elle demande à Alice de scanner uniquement ces dossiers lors de leur prochain rendez-vous. Une photographie plus spectaculaire reste écartée : « Elle est belle, mais on n’a rien à raconter dessus. »\n\nLa feuille rend la séance plus courte qu’elle ne le craignait. Mireille devra peut-être modifier la liste après un échange avec la bibliothécaire. Elle garde cette possibilité et prépare, pour leur rencontre, une phrase sur chacun des six arbres.",
+      "conclusion": "Organiser plusieurs étapes peut devenir difficile alors que le jugement sur le contenu reste solide. Mireille sépare la sélection de sa fabrication et repart avec une suite visible. Elle demeure responsable des arbres présentés, même lorsque quelqu’un d’autre réalisera une partie des copies.",
+      "mirror": [
+        "En voyant trois dossiers ouverts, Alice peut dire : « Tu veux qu’on termine le choix avant de scanner ? » Elle peut proposer de manipuler les piles sans choisir les arbres à sa place. Elle peut aussi préciser son temps disponible pour les copies ; une autre séance ou l’appui de la bibliothèque restent possibles si le travail dépasse ce temps."
+      ],
+      "sources": [
+        "oms-cddr",
+        "has-tnc-definition",
+        "has-tnc-autonomie"
+      ],
+      "continuity": {
+        "choice": "Six arbres sont retenus ; Alice numérisera seulement ces dossiers.",
+        "next": "La rencontre avec la bibliothécaire demandera à Mireille de mettre ses connaissances en mots."
+      }
+    },
+    {
+      "number": 4,
+      "slug": "mireille-chercher-un-mot",
+      "title": "Chercher un mot : continuer à raconter le cèdre",
+      "description": "Devant la bibliothécaire, un nom échappe à Mireille. Elle cherche une autre façon de raconter sans céder toute la parole.",
+      "context": "lors de la préparation à la bibliothèque",
+      "topics": [
+        "Langage",
+        "Conversation",
+        "Transmission"
+      ],
+      "clinical_focus": "Accès aux mots",
+      "clinical_intro": "L’accès à un mot peut devenir moins fluide dans certaines présentations du trouble neurocognitif léger. La personne peut savoir ce qu’elle veut dire et avoir besoin de temps ou d’une autre formulation pour l’exprimer. Ces difficultés ne se retrouvent pas chez tout le monde et ne permettent pas, à elles seules, de déterminer un diagnostic ou une cause.",
+      "opening": "La bibliothécaire, Nadia, pose les six photographies sur le bureau des inscriptions. Mireille lui présente le cèdre de la place, celui dont les racines ont conduit la commune à déplacer un banc. Elle explique son port, montre l’écorce, puis cherche le mot qui désigne ses petites structures dressées sur les branches. Elle connaît la forme et le cycle. Le nom ne vient pas.\n\nAlice croit l’aider en proposant plusieurs mots. Mireille les écarte, et sa phrase se brise entre deux réponses. Nadia se tourne vers Alice pour lui demander la longueur des notices. Mireille reste devant la photo, la main encore levée. Elle craint que cette hésitation suffise à lui retirer le récit. Elle sait que sa petite-fille n’a pas cette intention, mais elle vient de perdre à la fois un mot et son tour de parole.\n\n« Je vais vous le décrire », dit-elle enfin. Elle parle des formes dressées sur les branches, puis le mot « cônes » lui revient au milieu de l’explication. Nadia écoute et note la phrase. La suite est plus facile. Mireille décrit l’ombre de cet arbre les jours de marché et se rappelle les commerçants qui protégeaient les jeunes plantations avec leurs caisses.\n\nÀ la fin de cet échange, elle demande à Alice de ne lui donner un mot que lorsqu’elle le sollicite. Elle accepte qu’Alice traite les dimensions des images après son récit. La question devient alors très concrète : comment rester dans l’échange lorsque le nom exact prend du temps, sans faire de chaque silence un événement ?",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Quand le mot tarde à venir",
+          "text": "Connaître une chose et retrouver immédiatement son nom sont deux expériences distinctes. Une recherche lexicale peut interrompre une phrase sans supprimer l’intention de parler ni toutes les connaissances concernées. Mireille garde l’image des cônes et leur position sur la branche ; la description lui offre un autre chemin pour poursuivre. Les propositions rapides d’Alice font en revanche entrer plusieurs mots dans un moment déjà exigeant. La scène montre donc à la fois une difficulté de langage et un effet de l’échange sur cette difficulté : attendre, demander puis proposer aide à préserver le tour de parole."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment cet aspect se manifeste-t-il dans la scène ?",
+          "points": [
+            {
+              "heading": "Le mot arrive après son idée",
+              "text": "Le contenu peut être accessible avant sa forme verbale précise. Une pause ou une description permet parfois de continuer sans retrouver immédiatement le terme exact.",
+              "examples": [
+                "Devant la photo du cèdre, Mireille montre une forme qu’elle ne parvient pas encore à nommer.",
+                "En relisant sa notice, elle remplace provisoirement un terme technique par « le bord de la feuille »."
+              ]
+            },
+            {
+              "heading": "Les propositions coupent la formulation",
+              "text": "Des suggestions rapprochées peuvent ajouter des informations à trier et rendre le retour à la phrase plus difficile. Leur utilité dépend du souhait de la personne.",
+              "examples": [
+                "Au bureau de Nadia, plusieurs noms proposés par Alice interrompent la description qui commençait.",
+                "À la maison, Mireille demande un premier son lorsqu’elle veut cette aide et refuse une liste complète."
+              ]
+            },
+            {
+              "heading": "Le tour de parole devient fragile",
+              "text": "Le silence peut conduire l’interlocuteur à s’adresser à quelqu’un d’autre. Cela touche la place de la personne dans l’échange, au-delà du mot manquant.",
+              "examples": [
+                "Nadia demande la longueur des notices à Alice alors que Mireille n’a pas fini son récit.",
+                "Lors d’une visite préparatoire, Mireille reprend sa place en annonçant qu’elle va décrire l’arbre autrement."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour préserver la conversation",
+          "points": [
+            {
+              "heading": "Convenir d’un temps d’attente",
+              "objective": "Laisser la phrase se construire sans imposer un effort prolongé.",
+              "exercise": [
+                "Mireille choisit une phrase comme « laisse-moi un instant » pour signaler son souhait.",
+                "L’interlocuteur attend et évite les propositions successives.",
+                "Si la recherche devient pénible, demander si elle préfère une suggestion, une description ou passer au point suivant."
+              ],
+              "benefit": "Ce temps négocié peut protéger le fil de la conversation et diminuer la pression de répondre vite."
+            },
+            {
+              "heading": "Décrire avant de nommer",
+              "objective": "Continuer à transmettre une idée quand le nom exact manque.",
+              "exercise": [
+                "Montrer l’objet ou l’image concerné.",
+                "Dire ce qui compte pour l’histoire : sa forme, son emplacement ou son usage.",
+                "Ajouter le terme précis plus tard si Mireille le souhaite, après vérification dans son carnet."
+              ],
+              "benefit": "Le message peut rester compréhensible grâce à plusieurs voies d’expression. Le terme retrouvé n’est pas une preuve de récupération générale."
+            },
+            {
+              "heading": "Préparer un appui pour la présentation",
+              "objective": "Alléger la recherche des quelques mots utiles devant le public.",
+              "exercise": [
+                "Choisir avec Mireille les mots qu’elle veut avoir sous les yeux, sans dresser un glossaire exhaustif.",
+                "Les placer près de la photographie correspondante sur sa fiche.",
+                "Essayer une explication à voix haute et retirer les indications qui distraient plutôt qu’elles n’aident."
+              ],
+              "benefit": "Un appui ciblé peut faciliter le récit. Si le langage gêne plusieurs échanges, le médecin pourra discuter d’un accompagnement adapté, notamment orthophonique selon le bilan."
+            }
+          ]
+        }
+      ],
+      "ending_title": "« Je vais vous le décrire »",
+      "ending": "Avant de quitter le bureau, Nadia demande à Mireille quel titre elle souhaite pour sa présentation. Mireille répond : « Six arbres qui ont fait déplacer quelque chose. Un banc, une grille, parfois les habitudes. » Alice sourit et attend la fin avant d’aborder les formats. Elles conviennent d’un nouveau rendez-vous pour les copies.\n\nSur la fiche du cèdre, Mireille ajoute seulement « cônes dressés ». Elle ne veut pas réciter une notice entière. Elle pourra encore chercher un mot devant les visiteurs ; ce qui l’aide aujourd’hui est de savoir qu’elle peut conserver la parole et raconter autrement.",
+      "conclusion": "La recherche d’un mot peut modifier la conversation sans résumer les connaissances de la personne. Mireille précise la forme d’aide qu’elle souhaite et conserve la conduite du récit. Sa présentation se prépare avec des mots repères, une possibilité de décrire et des interlocuteurs qui lui laissent le temps.",
+      "mirror": [
+        "Alice peut dire devant Nadia : « Mireille allait expliquer cette partie ; on peut lui laisser un moment. » Elle peut ensuite demander en aparté quelle aide convient quand un mot manque. Si l’attente devient longue ou inconfortable, elle peut proposer une pause sans compléter toutes les phrases ni demander à sa grand-mère de prouver qu’elle connaît le terme."
+      ],
+      "sources": [
+        "oms-cddr",
+        "has-tnc-definition",
+        "has-tnc-autonomie"
+      ],
+      "continuity": {
+        "choice": "Mireille demande un temps de parole et choisit quelques mots repères.",
+        "next": "Le rendez-vous de copie est fixé ; il faudra se rappeler l’action prévue au moment utile."
+      }
+    },
+    {
+      "number": 5,
+      "slug": "mireille-intention-differee",
+      "title": "Mémoire des intentions : apporter la clé USB mercredi",
+      "description": "Mireille sait quelles images copier, mais la clé USB reste chez elle. Elle relie le rappel au moment de préparer son sac.",
+      "context": "au départ pour les copies",
+      "topics": [
+        "Mémoire prospective",
+        "Rappels",
+        "Préparation"
+      ],
+      "clinical_focus": "Rappel des intentions différées",
+      "clinical_intro": "Se souvenir de faire quelque chose plus tard demande de retrouver une intention au bon moment. Cette mémoire des actions prévues peut être moins fiable lorsque les fonctions cognitives sont fragilisées. La connaissance du projet peut rester intacte alors que son rappel arrive trop tard. Une adaptation utile relie l’action à une situation concrète, sans servir d’épreuve diagnostique.",
+      "opening": "Mercredi, Mireille arrive à la bibliothèque avec les six dossiers dans un sac en toile. Elle connaît le rendez-vous et trouve Nadia derrière les retours de livres. Alice a réservé le scanner et préparé les tailles d’images. Mireille sort le carnet, la feuille de sélection, ses lunettes. La petite clé USB qui doit accueillir les copies est restée à côté du téléphone, dans sa cuisine.\n\nElle sait aussitôt pourquoi elle devait l’apporter. Elle se souvient même de l’avoir posée bien en vue le soir précédent. Pourtant, au moment de fermer le sac, ce geste ne lui est pas revenu. Le problème ne porte pas sur les arbres ou sur l’utilité de la clé. Il se trouve dans le passage entre « mercredi, il faudra » et le départ de la maison.\n\nAlice soupire avant de se reprendre. Elle n’a qu’une heure avant son cours. Mireille n’a aucune envie qu’elle fasse l’aller-retour pour réparer l’oubli. Nadia propose d’enregistrer les images dans un dossier de travail de la bibliothèque, puis de les transférer lors d’un prochain passage. Mireille vérifie avec elle quelles pages seront copiées : uniquement les six arbres, sans ses notes personnelles.\n\nElles peuvent donc avancer aujourd’hui. Cela n’efface pas la gêne de Mireille ni l’agacement d’Alice. En sortant du scanner, Mireille regarde la feuille où figure le prochain rendez-vous. Elle veut y inscrire une action qui lui parle au moment où elle prépare son sac, au lieu d’ajouter encore un objet à surveiller toute la semaine.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Se rappeler d’agir au moment utile",
+          "text": "Une intention différée doit être reliée à un moment, un lieu ou un événement pour se transformer en action. Garder le sens du projet ne suffit pas toujours à faire revenir le geste au départ. La clé USB rappelle immédiatement à Mireille ce qu’elle devait faire, mais seulement lorsqu’elle arrive au scanner sans elle. Posée près du téléphone, elle n’a pas rencontré la préparation du sac. L’adaptation cherchée porte donc sur ce lien entre le repère et l’action. Les solutions de report traitent aussi le retentissement sur Alice et Nadia sans leur demander une disponibilité illimitée."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment cet aspect se manifeste-t-il dans la scène ?",
+          "points": [
+            {
+              "heading": "L’intention est connue une fois rappelée",
+              "text": "La personne peut expliquer ce qu’elle devait faire lorsqu’un indice le lui rappelle. Le décalage porte sur le déclenchement de l’action au moment opportun.",
+              "examples": [
+                "Devant le scanner, Mireille sait à quoi la clé USB devait servir.",
+                "En voyant son sac vide, elle retrouve l’idée d’y glisser une photo promise à Nadia."
+              ]
+            },
+            {
+              "heading": "L’objet visible ne rencontre pas toujours le départ",
+              "text": "Un objet posé « bien en vue » n’est utile que si le regard et l’action se croisent au bon moment. Les habitudes de préparation comptent autant que la visibilité.",
+              "examples": [
+                "La clé reste près du téléphone tandis que Mireille prépare son sac à une autre table.",
+                "La feuille d’horaire est lue la veille, mais elle n’est plus consultée avant de fermer la porte."
+              ]
+            },
+            {
+              "heading": "Un oubli peut désorganiser plusieurs personnes",
+              "text": "Le retentissement comprend les ajustements d’horaires et la négociation d’une solution. Le reconnaître permet d’organiser l’aide sans attribuer une faute morale.",
+              "examples": [
+                "Alice doit garder l’heure de son cours même si le transfert est reporté.",
+                "Nadia propose un dossier temporaire afin de préserver la séance déjà réservée."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour retrouver une intention au bon moment",
+          "points": [
+            {
+              "heading": "Relier l’action au sac",
+              "objective": "Faire apparaître l’intention au moment où elle peut être réalisée.",
+              "exercise": [
+                "Choisir un point stable pour préparer le sac avant la bibliothèque.",
+                "Placer la clé et une courte note « copies : prendre la clé » à cet endroit.",
+                "Au départ, glisser la clé dans la poche prévue puis retirer la note de la pile des choses à faire."
+              ],
+              "benefit": "Un lien entre lieu, objet et geste peut rendre le rappel plus accessible. Il reste à vérifier dans l’usage si ce repère convient."
+            },
+            {
+              "heading": "Un rappel formulé comme une action",
+              "objective": "Éviter une alerte qui annonce un événement sans dire quoi préparer.",
+              "exercise": [
+                "Si Mireille souhaite une alerte, choisir ensemble un horaire où elle peut agir.",
+                "Écrire « mettre la clé USB dans le sac » plutôt que le seul mot « bibliothèque ».",
+                "Après l’essai, conserver, déplacer ou supprimer l’alerte selon son utilité et son caractère intrusif."
+              ],
+              "benefit": "Le rappel peut soutenir une intention précise. Une accumulation d’alertes risque de devenir une charge supplémentaire."
+            },
+            {
+              "heading": "Prévoir une solution de report",
+              "objective": "Limiter les conséquences d’un oubli sans imposer un sauvetage familial.",
+              "exercise": [
+                "Nommer avec Nadia ce qui peut être fait même si un accessoire manque.",
+                "Convenir de la façon de conserver seulement les documents choisis par Mireille.",
+                "Fixer ensuite une nouvelle action et un responsable disponible, sans exiger qu’Alice manque son cours."
+              ],
+              "benefit": "Un plan de repli peut préserver le projet et les limites de chacun. Il ne dispense pas de réexaminer les aides si les oublis se multiplient."
+            }
+          ]
+        }
+      ],
+      "ending_title": "La poche du sac",
+      "ending": "Les scans sont terminés à l’heure. Mireille les vérifie avec Nadia puis accepte de revenir vendredi pour le transfert. Alice part à son cours ; elle n’emporte ni le carnet ni une tâche de plus. Chez elle, Mireille met la clé dans la poche intérieure de son sac, avec la feuille de rendez-vous.\n\nVendredi, elle l’a avec elle. Ce succès lui est utile sans devenir une garantie pour les prochains départs. Elle note aussi qu’un report a été possible sans mobiliser toute la famille. La semaine suivante, elle veut acheter elle-même les pochettes nécessaires aux copies.",
+      "conclusion": "Une intention peut être bien comprise et ne pas revenir au moment d’agir. Mireille essaie un repère placé dans sa préparation habituelle et un report réaliste. Le projet avance avec les disponibilités d’Alice, sans transformer chaque oubli en urgence ou en preuve sur l’avenir.",
+      "mirror": [
+        "Alice peut reconnaître sa contrainte sans reproche : « Je suis déçue, et je dois partir à l’heure ; voyons ce qui est faisable avec Nadia. » Elle peut proposer un rappel si Mireille le souhaite, puis laisser cette organisation suivre son cours. Elle n’a pas à devenir responsable de tous les objets du sac ni à vérifier chaque départ."
+      ],
+      "sources": [
+        "oms-cddr",
+        "has-tnc-definition",
+        "has-tnc-autonomie"
+      ],
+      "continuity": {
+        "choice": "Mireille associe la clé au sac ; Nadia conserve temporairement les seules copies autorisées.",
+        "next": "Les copies transférées permettront d’acheter les pochettes et de discuter de ce qu’autonomie veut dire ici."
+      }
+    },
+    {
+      "number": 6,
+      "slug": "mireille-autonomie-appuis",
+      "title": "Autonomie : faire ses courses avec un repère choisi",
+      "description": "Pour acheter les pochettes, Mireille utilise sa liste et demande un renseignement. Elle précise ce qu’elle souhaite encore faire seule.",
+      "context": "à la papeterie et au marché",
+      "topics": [
+        "Autonomie",
+        "Capacités préservées",
+        "Aide choisie"
+      ],
+      "clinical_focus": "Autonomie avec compensations",
+      "clinical_intro": "Le trouble neurocognitif léger peut rendre certaines activités complexes plus laborieuses tout en laissant la personne autonome au quotidien. Des stratégies de compensation peuvent soutenir cette autonomie. Le besoin d’un renseignement ou d’une liste n’autorise pas à conclure à une incapacité générale. Les aides gagnent à être adaptées aux activités réelles, aux préférences et à leur évolution dans le temps.",
+      "opening": "À la papeterie, Mireille déplie la feuille où elle a écrit le format des six photographies. Elle veut des pochettes qui s’ouvrent sur le côté : les premières ont rayé un dessin lorsqu’elle l’a retiré. Le rayon a changé depuis sa dernière visite et les dimensions sont imprimées en petit. Elle demande au vendeur où se trouvent les pochettes, puis compare deux paquets avec sa liste.\n\nAlice la rejoint après son cours. Elle propose de prendre en charge les achats suivants pour lui éviter ces démarches. Mireille entend la gentillesse, mais aussi la disparition possible d’une sortie qu’elle aime. Elle avait prévu de passer au marché, discuter avec le fleuriste et choisir des pommes. Le magasin lui a demandé plus de temps qu’autrefois ; cela ne signifie pas qu’elle voudrait rester chez elle.\n\nElle explique à Alice ce qui a été difficile : retrouver le rayon, conserver les dimensions en tête et résister à la publicité d’un paquet plus grand. La feuille a suffi pour décider. Elle choisit les pochettes, paie et range le ticket avec le carnet. Au marché, elle achète les pommes qu’elle voulait et demande des nouvelles de la serre du fleuriste.\n\nSur le banc près des halles, Alice demande enfin quelle partie serait utile à partager. Mireille réfléchit. Porter les grands cartons pour l’exposition l’arrangerait. Choisir les pochettes et parler aux commerçants lui convient encore. Elle veut que cette répartition puisse être rediscutée, sans qu’un effort visible lui retire d’avance toute une activité.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Ce qu’un appui permet de garder",
+          "text": "L’autonomie se comprend dans la réalisation des activités importantes et dans les moyens utilisés pour les mener. Un effort supplémentaire, une liste ou un renseignement peuvent faire partie de cette réalisation. Dans la papeterie, Mireille conserve le jugement sur les pochettes et la décision d’achat ; sa feuille soutient la comparaison des dimensions. La proposition d’Alice de reprendre les courses répond à une intention d’aider, mais dépasse le besoin décrit. Leur échange conduit à une aide partielle, le transport du carton, qui laisse à Mireille une sortie et des relations auxquelles elle tient."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment cet aspect se manifeste-t-il dans la scène ?",
+          "points": [
+            {
+              "heading": "Une activité complexe demande plus d’appuis",
+              "text": "Les tâches qui combinent plusieurs informations peuvent devenir plus lentes. Une adaptation peut permettre leur réalisation sans que quelqu’un reprenne toute l’activité.",
+              "examples": [
+                "Dans le rayon, Mireille compare les dimensions en s’appuyant sur sa feuille.",
+                "Pour la présentation, elle vérifie le nombre de pochettes avec sa sélection déjà écrite."
+              ]
+            },
+            {
+              "heading": "Les capacités ne sont pas touchées de la même façon",
+              "text": "Les préférences, les connaissances et plusieurs gestes restent disponibles. Les reconnaître permet de construire une aide proportionnée plutôt que globale.",
+              "examples": [
+                "Mireille explique pourquoi une ouverture latérale convient mieux à ses dessins.",
+                "Au marché, elle choisit ses pommes et mène la conversation avec le fleuriste."
+              ]
+            },
+            {
+              "heading": "L’aide utile peut porter sur une partie seulement",
+              "text": "Partager une tâche ne suppose pas d’en transférer toutes les décisions. Les besoins peuvent aussi dépendre du volume du travail et des moyens matériels.",
+              "examples": [
+                "Mireille demande le transport des cartons sans déléguer le choix des notices.",
+                "Elle accepte une indication du vendeur puis compare elle-même les deux paquets."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour soutenir les activités choisies",
+          "points": [
+            {
+              "heading": "Décrire l’activité par morceaux",
+              "objective": "Identifier où un soutien serait utile sans retirer toute la sortie.",
+              "exercise": [
+                "Choisir une activité actuelle, par exemple préparer l’exposition.",
+                "Mireille indique ce qu’elle veut faire, ce qui lui demande un repère et ce qu’elle souhaite déléguer.",
+                "Écrire une répartition courte et prévoir de la revoir après un essai."
+              ],
+              "benefit": "La discussion peut rendre l’aide plus précise et préserver les engagements qui comptent pour la personne."
+            },
+            {
+              "heading": "Partir des appuis déjà utilisés",
+              "objective": "Éviter de multiplier les dispositifs lorsque certains fonctionnent.",
+              "exercise": [
+                "Regarder avec Mireille la liste de dimensions et la poche du sac qu’elle utilise déjà.",
+                "Garder ces repères pour un nouvel achat similaire si elle les trouve utiles.",
+                "Après la sortie, demander ce qui a facilité ou compliqué l’activité, sans noter une performance."
+              ],
+              "benefit": "La continuité d’un outil peut réduire l’effort de préparation. Son maintien dépend de son utilité, pas d’une obligation d’être autonome à tout prix."
+            },
+            {
+              "heading": "Discuter les changements avec le soignant",
+              "objective": "Faire évaluer un besoin qui dépasse l’organisation du carnet.",
+              "exercise": [
+                "Si des difficultés nouvelles persistent dans d’autres activités, noter un ou deux faits avec leur contexte.",
+                "En parler au médecin ou à la consultation mémoire plutôt que conclure en famille.",
+                "Décider avec les professionnels et Mireille des appuis à ajuster et du moment de leur réévaluation."
+              ],
+              "benefit": "Une évaluation située peut distinguer un obstacle matériel, un facteur de santé et un changement des besoins."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Les cartons, mais pas les pommes",
+      "ending": "Mireille glisse les pochettes dans son sac. Alice se charge du grand carton prévu pour la bibliothèque, à une date où elle sera disponible. Elles ne signent aucun partage définitif. Mireille pourra demander davantage, et Alice pourra dire qu’elle a besoin d’un autre relais.\n\nAu retour, Mireille range le ticket et retrouve la lettre de la consultation mémoire pour son suivi. Elle veut y apporter cette expérience : le temps supplémentaire dans le magasin, l’utilité de sa liste, mais aussi tout ce qu’elle a fait et choisi. Elle refuse que le bilan de sa journée se limite à l’étagère qu’elle n’a pas trouvée.",
+      "conclusion": "L’autonomie peut s’appuyer sur une liste, un renseignement et une aide partielle. Mireille garde une sortie qui lui plaît et délègue le transport des cartons. Pour la consultation suivante, elle retient les difficultés autant que les capacités préservées, afin de discuter des besoins réels.",
+      "mirror": [
+        "Alice peut remplacer son offre générale par : « Est-ce le transport, le choix ou autre chose que tu voudrais partager ? » Elle respecte la réponse et précise ce qu’elle peut faire. Si une difficulté l’inquiète, elle peut décrire le fait et proposer d’en parler au médecin, sans utiliser le diagnostic pour décider seule du quotidien de Mireille."
+      ],
+      "sources": [
+        "oms-cddr",
+        "has-tnc-definition",
+        "has-tnc-autonomie"
+      ],
+      "continuity": {
+        "choice": "Mireille garde les achats ; Alice transportera les cartons à une date convenue.",
+        "next": "La consultation de suivi permettra de replacer ces faits dans le bilan global sans réduire Mireille à un score."
+      }
+    },
+    {
+      "number": 7,
+      "slug": "mireille-bilan-contexte",
+      "title": "Bilan cognitif : une journée ne tient pas dans un score",
+      "description": "En consultation, Mireille veut comprendre ce que le bilan décrit. Elle apporte ses difficultés, ses appuis et ses choix.",
+      "context": "en consultation mémoire de suivi",
+      "topics": [
+        "Bilan",
+        "Contexte",
+        "Dialogue clinique"
+      ],
+      "clinical_focus": "Interprétation globale du bilan cognitif",
+      "clinical_intro": "Le bilan d’un trouble neurocognitif associe l’histoire des difficultés, leur retentissement, une évaluation clinique et des mesures cognitives adaptées. Les résultats se comprennent par rapport au fonctionnement antérieur et au contexte de la personne. Un score isolé ne décrit ni toutes ses capacités ni ses besoins. Le professionnel recherche aussi les causes possibles et les facteurs qui peuvent influencer le fonctionnement.",
+      "opening": "Dans la salle d’attente, Mireille sort la feuille des courses plutôt que son ancien compte rendu. Elle a inscrit trois choses : les dimensions difficiles à garder en tête, la liste qui a aidé et la conversation avec le fleuriste. Alice s’est demandé s’il fallait noter aussi les erreurs. Mireille lui a répondu qu’elle ne faisait pas un dossier à charge, ni un album des réussites. Elle veut raconter une journée utilisable par le médecin.\n\nLa consultation de suivi commence. Le diagnostic de trouble neurocognitif léger a été établi plusieurs mois auparavant ; il ne s’agit pas de le décider aujourd’hui à partir du carnet. Mireille demande ce que signifiaient les différentes épreuves du bilan. Elle avait surtout retenu le mot « mémoire » et craint que chaque résultat soit devenu une note sur sa vie entière.\n\nLe médecin reprend les conclusions avec elle. Il situe les difficultés observées, les capacités préservées et la place du quotidien. Il précise que rechercher ou préciser une cause est une question différente de décrire le niveau des difficultés. Il lui demande aussi comment elle dort et quels changements de santé ou de traitement sont survenus depuis leur rencontre. Mireille n’a rien modifié seule.\n\nAvant qu’Alice parle, le médecin demande à Mireille si elle souhaite son témoignage. Elle accepte qu’elles évoquent ensemble les sorties du carnet, puis demande un temps d’entretien seule. Alice convient de l’attendre dehors. Mireille pose sa feuille près du compte rendu : elle veut que ces deux descriptions de son fonctionnement puissent se répondre.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Lire les résultats avec la vie quotidienne",
+          "text": "Une mesure cognitive décrit une performance dans des conditions d’évaluation données. Son interprétation demande de la rapprocher du fonctionnement antérieur, des autres observations et du retentissement dans les activités. La feuille de Mireille apporte une information différente du compte rendu : elle montre où une liste a été nécessaire et ce qu’elle a rendu possible. Ces éléments ne remplacent pas les examens ; ils aident le professionnel à discuter des besoins. La recherche d’une cause garde également sa place, car nommer un niveau de difficulté ne désigne pas automatiquement la maladie ou le facteur qui l’explique."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment cet aspect apparaît-il au quotidien ?",
+          "points": [
+            {
+              "heading": "Le résultat gagne un contexte",
+              "text": "Une mesure clinique éclaire un domaine dans des conditions données. Son sens dépend notamment de l’histoire et du niveau antérieur, et se discute avec la personne.",
+              "examples": [
+                "Mireille demande ce qu’une difficulté observée lors du bilan change pour la préparation des notices.",
+                "Le médecin rapproche les efforts récents de ce qu’elle faisait auparavant, sans se fier au seul mot « mémoire »."
+              ]
+            },
+            {
+              "heading": "Le quotidien décrit aussi les appuis",
+              "text": "Les difficultés et les adaptations rendent compte de besoins que la seule performance à une épreuve ne résume pas. Les compétences préservées sont utiles au projet d’accompagnement.",
+              "examples": [
+                "La feuille des courses indique à la fois l’hésitation dans le rayon et l’usage de la liste.",
+                "L’épisode du scanner renseigne sur le rappel d’une intention et sur le report qui a permis de continuer."
+              ]
+            },
+            {
+              "heading": "Le syndrome et sa cause sont deux questions",
+              "text": "Nommer un niveau de difficulté ne suffit pas à identifier ce qui le produit. Le professionnel examine le contexte de santé et les explications possibles.",
+              "examples": [
+                "Mireille demande si le diagnostic connu dit déjà pourquoi ces difficultés sont apparues.",
+                "Le médecin questionne le sommeil et les traitements sans en déduire d’emblée la cause du trouble."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour préparer un échange clinique utile",
+          "points": [
+            {
+              "heading": "Préparer deux situations utiles",
+              "objective": "Faciliter une consultation sans constituer un registre quotidien de fautes.",
+              "exercise": [
+                "Choisir une ou deux situations récentes que Mireille veut comprendre.",
+                "Écrire pour chacune ce qui était prévu, ce qui a gêné et ce qui a aidé.",
+                "Apporter aussi une question prioritaire, puis laisser le médecin compléter son évaluation."
+              ],
+              "benefit": "Des faits situés peuvent rendre l’échange plus précis sans demander à la famille de mesurer le trouble."
+            },
+            {
+              "heading": "Demander une reformulation",
+              "objective": "Vérifier le sens d’une conclusion clinique avec son auteur.",
+              "exercise": [
+                "Repérer dans le compte rendu une phrase qui reste obscure.",
+                "Demander au professionnel de la reformuler et de donner une conséquence pratique possible.",
+                "Redire ce que l’on en comprend et demander une trace écrite des décisions utiles."
+              ],
+              "benefit": "La reformulation peut limiter les conclusions trop générales tirées d’un mot ou d’un résultat isolé."
+            },
+            {
+              "heading": "Définir la place de l’accompagnante",
+              "objective": "Permettre une contribution d’Alice selon le souhait de Mireille.",
+              "exercise": [
+                "Avant le rendez-vous, Mireille choisit ce qu’elle veut discuter avec Alice présente.",
+                "Au début, demander au soignant un temps commun et, si souhaité, un temps individuel.",
+                "À la sortie, ne partager que les décisions que Mireille veut transmettre et préciser qui en assure la suite."
+              ],
+              "benefit": "Un accord clair peut soutenir le dialogue clinique et préserver un espace personnel. La proche apporte un vécu, pas un diagnostic."
+            }
+          ]
+        }
+      ],
+      "ending_title": "La feuille près du compte rendu",
+      "ending": "Mireille demande une explication écrite des objectifs du suivi et des adaptations à essayer. Le médecin lui rappelle comment reprendre contact si le quotidien change avant le prochain rendez-vous. Elle garde les documents dans une pochette distincte du carnet des arbres.\n\nÀ la sortie, elle raconte à Alice la partie qu’elle souhaite partager : ses outils peuvent être conservés s’ils lui servent, et la suite sera appréciée dans le temps. Elle ne lui remet pas tout le compte rendu. Dans le bus, elle avoue surtout sa peur de transformer la présentation de juin en examen. Alice lui propose d’en reparler devant une tasse, sans ouvrir les dossiers.",
+      "conclusion": "Le bilan se comprend avec l’histoire de la personne, son contexte et les activités qui comptent pour elle. Mireille obtient des explications et une suite de soins sans réduire sa vie au compte rendu. Elle garde aussi la possibilité de choisir ce qu’elle partage avec Alice.",
+      "mirror": [
+        "Alice peut demander avant d’entrer : « Tu veux que je raconte le scanner, ou tu préfères le faire ? » Elle peut ensuite décrire une scène concrète sans interpréter les résultats. Lors du temps individuel, elle attend dehors et ne réclame pas le détail à la sortie. Ses propres inquiétudes peuvent être formulées, avec Mireille ou auprès d’un soutien adapté."
+      ],
+      "sources": [
+        "oms-cddr",
+        "has-tnc-parcours",
+        "has-tnc-definition"
+      ],
+      "continuity": {
+        "choice": "Mireille demande des explications et un temps seule ; les documents de santé restent séparés du carnet.",
+        "next": "La peur de se sentir examinée devient le sujet de leur prochaine rencontre."
+      }
+    },
+    {
+      "number": 8,
+      "slug": "mireille-inquietude-surveillance",
+      "title": "Inquiétude : quand chaque hésitation devient un verdict",
+      "description": "Avant la présentation, Mireille compte ses hésitations et perd le plaisir du récit. Elle distingue sa peur de l’observation à écrire.",
+      "context": "autour d’une répétition dans la cuisine",
+      "topics": [
+        "Anxiété",
+        "Surveillance de soi",
+        "Présentation"
+      ],
+      "clinical_focus": "Inquiétude et surveillance de soi",
+      "clinical_intro": "Un diagnostic de trouble neurocognitif léger peut s’accompagner d’inquiétude. Surveiller chaque hésitation peut alors occuper une place importante et rendre une activité plus pénible. Cette réaction ne décrit pas toutes les personnes concernées et ne permet pas d’expliquer toutes leurs difficultés cognitives. Une souffrance persistante mérite d’être entendue et, si nécessaire, accompagnée par un professionnel.",
+      "opening": "La tasse est encore chaude lorsque Mireille commence son histoire du cèdre. Elle a invité Alice pour parler de sa crainte, puis a aussitôt sorti ses fiches. Au troisième mot cherché, elle pose un petit trait dans la marge. Alice lui demande ce qu’il signifie. « Je voulais voir combien de fois ça arrive », répond Mireille. Trois traits occupent déjà plus de place dans son regard que le dessin de l’arbre.\n\nElle reprend au début. Elle connaît l’histoire du banc, mais guette désormais le prochain accroc. Une phrase dite sans hésitation ne la rassure que quelques secondes ; une pause lui paraît annoncer que la présentation sera impossible. Depuis la consultation, elle comprend mieux le bilan, mais ce savoir ne l’a pas débarrassée de ses images de l’avenir. Elle pense aux visiteurs qui attendront, au mot qui ne viendra pas, à Alice obligée de finir toutes les histoires.\n\nAlice lui fait remarquer qu’elle n’a encore jamais raconté les six arbres à la suite. Mireille entend cette remarque comme une épreuve supplémentaire. Puis elle regarde sa tasse et demande qu’on range les fiches. Elles parlent des tomates que le voisin leur a données et rient de leur forme. L’inquiétude ne disparaît pas, mais elle cesse quelques minutes de remplir la table.\n\nMireille voudrait préparer la présentation sans tenir une comptabilité de ses ratés. Elle ne demande pas à Alice de lui promettre que tout ira bien. Elle veut pouvoir dire qu’elle a peur et retrouver une taille raisonnable pour la prochaine répétition.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Quand préparer devient surveiller",
+          "text": "L’anticipation d’un regard extérieur peut déplacer l’attention du récit vers la crainte d’échouer. Le geste de vérification occupe alors une place qui ne renseigne plus utilement sur la tâche. Dans la cuisine, Mireille compte ses pauses et recommence pour obtenir un soulagement ; chaque accroc relance au contraire la question de la présentation entière. Cela n’annule pas les difficultés cognitives documentées et ne les explique pas toutes. Délimiter une seule correction pratique permet de rendre la répétition à son but. Si la peur déborde ce moment, son retentissement mérite une attention clinique propre."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment cet aspect apparaît-il au quotidien ?",
+          "points": [
+            {
+              "heading": "L’attention se tourne vers les ratés",
+              "text": "La personne peut guetter une difficulté au point de moins profiter de l’activité. L’observation devient alors une source de tension plutôt qu’une information utile.",
+              "examples": [
+                "Dans la cuisine, Mireille regarde ses traits au lieu de la photographie du cèdre.",
+                "Pendant une promenade, elle repasse une hésitation en tête et écoute moins la remarque d’Alice sur une feuille."
+              ]
+            },
+            {
+              "heading": "Un incident prend une signification immense",
+              "text": "Une pause ou un oubli peut être interprété comme une preuve sur la présentation entière ou sur l’avenir. Cette interprétation dépasse ce que l’incident permet de savoir.",
+              "examples": [
+                "Un mot manquant conduit Mireille à imaginer l’échec des six histoires.",
+                "Une mauvaise répétition lui fait demander si elle pourra encore tenir le carnet l’an prochain."
+              ]
+            },
+            {
+              "heading": "La préparation devient une vérification sans fin",
+              "text": "Recommencer peut momentanément rassurer puis relancer le doute. Dans cette scène, la répétition n’aide plus à préparer un passage délimité.",
+              "examples": [
+                "Mireille revient trois fois au début au lieu de choisir une seule histoire à ajuster.",
+                "Après une phrase réussie, elle veut la redire immédiatement pour vérifier qu’elle la sait encore."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour laisser moins de place à la surveillance",
+          "points": [
+            {
+              "heading": "Séparer le fait et la peur",
+              "objective": "Donner des mots à l’inquiétude sans lui donner valeur de pronostic.",
+              "exercise": [
+                "Dire le fait précis : « j’ai cherché un mot pendant cette histoire ».",
+                "Dire séparément ce qui fait peur : « j’imagine que je ne pourrai pas continuer ».",
+                "Choisir une question à discuter ou un appui concret pour l’étape actuelle, sans chercher une garantie sur l’avenir."
+              ],
+              "benefit": "Cette distinction peut rendre la peur partageable et réduire les conclusions tirées d’un seul incident."
+            },
+            {
+              "heading": "Une répétition avec un terme",
+              "objective": "Préparer un contenu sans transformer la soirée en contrôle continu.",
+              "exercise": [
+                "Choisir ensemble une histoire et le point pratique à travailler, par exemple la place de la photo.",
+                "Prévoir une seule lecture puis un retour limité à ce point.",
+                "Ranger la fiche à la fin, même si une hésitation reste, et passer à une activité choisie par Mireille."
+              ],
+              "benefit": "Une limite convenue peut protéger le temps de préparation et le plaisir d’être ensemble. Elle n’exige pas de supprimer l’inquiétude."
+            },
+            {
+              "heading": "Faire une place au soutien psychologique",
+              "objective": "Ne pas laisser une peur persistante réduire seule les activités.",
+              "exercise": [
+                "Si l’inquiétude prend beaucoup de place, l’indiquer au médecin avec un exemple de son retentissement.",
+                "Demander quelles formes de soutien psychologique adaptées seraient possibles.",
+                "Choisir avec le professionnel une suite acceptable et en réévaluer l’intérêt, sans faire d’Alice la thérapeute."
+              ],
+              "benefit": "Un accompagnement peut aider à vivre l’incertitude et la souffrance associée, sans promettre un effet sur l’évolution cognitive."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Les traits quittent la marge",
+      "ending": "Mireille barre les trois traits d’un seul coup et écrit à leur place : « montrer la photo avant de parler du banc ». C’est la seule correction qu’elle garde pour aujourd’hui. Elle raconte l’histoire une fois à Alice. Un mot manque encore ; elle le décrit et poursuit. Alice commente seulement l’ordre choisi, comme elles l’ont convenu.\n\nMireille range ensuite les fiches. Elle ne se sent pas assurée de réussir devant tout le monde. Elle est soulagée d’avoir arrêté la vérification. Si cette peur continue à réduire ses journées, elle en parlera au médecin. Pour l’instant, elle propose une courte promenade le lendemain plutôt qu’une nouvelle répétition tardive.",
+      "conclusion": "L’inquiétude peut amplifier la place donnée aux hésitations sans résumer le trouble cognitif. Mireille cesse de compter les erreurs et borne une répétition à un objectif pratique. Elle garde la possibilité d’un soutien professionnel si la peur envahit ses activités et préserve un temps de relation avec Alice.",
+      "mirror": [
+        "Alice peut répondre : « Je vois que les traits te préoccupent ; tu veux parler de ce qui te fait peur ? » Elle peut écouter sans annoncer que tout ira bien, puis convenir d’une répétition courte. Si elle est fatiguée ou ne sait plus aider, elle peut le dire et proposer un relais ; elle n’a pas à rassurer à chaque hésitation."
+      ],
+      "sources": [
+        "oms-cddr",
+        "has-tnc-parcours",
+        "has-tnc-definition"
+      ],
+      "continuity": {
+        "choice": "Mireille remplace le comptage par un objectif de répétition et décide d’arrêter à l’heure prévue.",
+        "next": "Une promenade après des nuits moins bonnes fera distinguer fatigue et interprétation d’une aggravation."
+      }
+    },
+    {
+      "number": 9,
+      "slug": "mireille-sommeil-variations",
+      "title": "Sommeil : décrire une mauvaise matinée sans tout lui attribuer",
+      "description": "Après plusieurs nuits courtes, Mireille peine sur une notice. Elle ajuste sa journée et parle du sommeil à son médecin.",
+      "context": "après une promenade matinale",
+      "topics": [
+        "Sommeil",
+        "Fatigue",
+        "Contexte de santé"
+      ],
+      "clinical_focus": "Sommeil et variations du fonctionnement",
+      "clinical_intro": "Le sommeil et l’état général peuvent influencer l’attention et la mémoire. Des troubles du sommeil peuvent aussi coexister avec un trouble neurocognitif et doivent être considérés dans son suivi. Une matinée plus difficile ne permet pas d’en déterminer la cause ni de conclure à une aggravation. Le professionnel apprécie les changements et les facteurs associés avec la personne.",
+      "opening": "Mireille avait proposé une promenade courte. Au matin, elle hésite à l’annuler : plusieurs nuits ont été hachées, entre la chaleur de sa chambre et des pensées qui reviennent lorsqu’elle éteint. Elle ne se sent pas désorientée ; elle est fatiguée et a la tête lourde. Alice lui offre de rester dans la cour. Mireille préfère marcher jusqu’au tilleul, sans emporter tous les dossiers.\n\nDevant le banc, elle relit deux fois une ligne qu’elle avait comprise sans effort la semaine précédente. Elle perd le début en arrivant à la fin. « Voilà, ça descend », dit-elle. Alice pense immédiatement au manque de sommeil, mais s’arrête avant d’en faire l’explication certaine. Elle demande depuis quand ces nuits sont difficiles. Mireille parle des derniers jours et de sa crainte de ne pas être prête pour juin.\n\nElles rentrent plus tôt. Sur la table, Mireille laisse la notice pour l’après-midi et garde seulement une question : faut-il changer quelque chose dans l’organisation de ses soirées ? Elle ne veut pas essayer un produit conseillé par une voisine ni modifier seule ce qu’elle prend habituellement. Elle appelle le cabinet de son médecin traitant, décrit les nuits et la gêne dans la journée. Un rendez-vous est fixé deux jours plus tard.\n\nL’appel ne donne pas encore la cause de cette matinée. Il donne une suite. Mireille choisit de ne pas compenser en travaillant plus longtemps : aujourd’hui, la présentation attendra que le médecin l’aide à comprendre ce qui mérite d’être ajusté.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Tenir compte du sommeil dans le suivi",
+          "text": "Le fonctionnement cognitif s’observe dans un état de santé et des conditions qui peuvent varier. Le sommeil fait partie des éléments que le clinicien explore, y compris lorsqu’un diagnostic neurocognitif existe déjà. Mireille rapporte des nuits fragmentées et un effort inhabituel pour lire une ligne ; leur coexistence ne suffit pas à établir une relation de cause. Ajuster la promenade répond à sa fatigue actuelle. Appeler puis rencontrer le médecin permet de traiter séparément la question du sommeil, sans interpréter cette matinée comme une trajectoire ni engager seule un changement de traitement."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment cet aspect apparaît-il au quotidien ?",
+          "points": [
+            {
+              "heading": "Le même travail demande un effort variable",
+              "text": "Les conditions d’une journée peuvent modifier l’effort nécessaire. Une variation est à décrire dans son contexte avant de lui donner une signification durable.",
+              "examples": [
+                "Au banc, Mireille relit la ligne sans en garder le début.",
+                "Un après-midi moins chargé, elle préfère revoir une photo plutôt que reprendre six notices à la suite."
+              ]
+            },
+            {
+              "heading": "La fatigue modifie le programme",
+              "text": "L’activité peut être ajustée en fonction du confort actuel sans décider de son abandon définitif. Les besoins se discutent avec la personne.",
+              "examples": [
+                "La promenade se termine au tilleul au lieu de parcourir tous les arbres.",
+                "Mireille reporte la correction des textes et garde seulement la question destinée au médecin."
+              ]
+            },
+            {
+              "heading": "Un facteur de santé mérite sa propre attention",
+              "text": "Un diagnostic connu ne doit pas absorber toutes les explications. Des nuits difficiles, un changement de traitement ou d’autres signes de santé se discutent cliniquement.",
+              "examples": [
+                "Mireille décrit au cabinet plusieurs nuits fragmentées et leur effet dans la journée.",
+                "Elle garde la liste de ses traitements pour la consultation plutôt que de supprimer seule une prise."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour ajuster le rythme et demander conseil",
+          "points": [
+            {
+              "heading": "Un relevé bref pour le rendez-vous",
+              "objective": "Transmettre le contexte du sommeil sans surveiller chaque minute.",
+              "exercise": [
+                "Noter pendant quelques jours, si cela convient à Mireille, une indication simple sur la nuit et la gêne du lendemain.",
+                "Ajouter les changements récents qu’elle souhaite signaler, sans chercher elle-même une cause.",
+                "Apporter ces éléments et les traitements habituels au médecin, puis suivre avec lui la suite proposée."
+              ],
+              "benefit": "Ce relevé peut soutenir l’entretien. Il ne remplace pas l’évaluation et peut être arrêté s’il accroît l’inquiétude."
+            },
+            {
+              "heading": "Alléger la tâche du jour",
+              "objective": "Adapter une activité sans transformer la fatigue en échec.",
+              "exercise": [
+                "Choisir ce qui est réellement nécessaire aujourd’hui et ce qui peut attendre.",
+                "Garder une tâche courte et un moment de pause, en fonction de l’état de Mireille.",
+                "Décider plus tard du retour au programme, sans imposer de rattrapage le soir."
+              ],
+              "benefit": "Un programme ajusté peut limiter la surcharge et préserver une activité appréciée, sans promettre de corriger le trouble."
+            },
+            {
+              "heading": "Préparer une soirée plus simple",
+              "objective": "Essayer une organisation compatible avec le repos et les conseils médicaux.",
+              "exercise": [
+                "Choisir une heure de fin pour les fiches et placer le matériel hors du moment du coucher.",
+                "Garder une activité calme que Mireille apprécie plutôt qu’une nouvelle répétition.",
+                "Discuter au rendez-vous de la persistance des nuits difficiles et de tout projet de produit ou traitement avant de changer quoi que ce soit."
+              ],
+              "benefit": "La séparation entre travail et soirée peut améliorer le confort. Une difficulté persistante demande une réponse adaptée à sa cause, appréciée par le médecin."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Un rendez-vous, puis le carnet fermé",
+      "ending": "Deux jours plus tard, Mireille raconte ses nuits au médecin et lui montre les quelques notes prises. Il reprend avec elle le contexte de santé, les traitements habituels et la suite à donner au sommeil. Elle repart avec des conseils adaptés et un point de suivi convenu. Le récit de cette seule semaine ne permet pas de trancher l’évolution cognitive.\n\nElle informe Alice du fait qu’un suivi est engagé, sans détailler toute la consultation. Elles gardent des séances plus courtes pour l’exposition. La prochaine aura lieu l’après-midi et portera sur une question matérielle : le nouvel outil numérique d’Alice facilite-t-il vraiment la lecture ?",
+      "conclusion": "Le contexte de sommeil peut compter dans une journée difficile, mais sa part ne se devine pas. Mireille décrit les faits, ajuste son programme et rencontre son médecin. L’organisation du carnet reste souple pendant cette évaluation ; une meilleure séance ou une mauvaise nuit ne devient pas un pronostic.",
+      "mirror": [
+        "Alice peut dire : « Tu me dis que tu dors mal et que cette ligne te demande plus d’effort ; veux-tu qu’on appelle le cabinet ensemble ? » Elle évite de conclure que tout vient du sommeil. Elle peut aider au rendez-vous si Mireille le demande, puis reprendre ses activités ; le suivi appartient aux professionnels et à Mireille."
+      ],
+      "sources": [
+        "oms-cddr",
+        "has-tnc-parcours",
+        "has-tnc-definition"
+      ],
+      "continuity": {
+        "choice": "Mireille consulte pour le sommeil et conserve des séances courtes selon son confort.",
+        "next": "Un essai du support numérique permettra de discuter de son utilité et du droit de le refuser."
+      }
+    },
+    {
+      "number": 10,
+      "slug": "mireille-choisir-aide",
+      "title": "Aide cognitive : accepter les photos et refuser les alertes",
+      "description": "Alice a préparé un carnet numérique. Mireille en choisit certaines fonctions et laisse les autres pour garder une aide utilisable.",
+      "context": "devant une tablette dans le salon",
+      "topics": [
+        "Aides",
+        "Préférences",
+        "Adaptation"
+      ],
+      "clinical_focus": "Acceptabilité des aides cognitives",
+      "clinical_intro": "Une aide cognitive est utile lorsqu’elle répond à un besoin réel et reste utilisable par la personne. Dans le trouble neurocognitif léger, les préférences, les habitudes et l’environnement comptent autant que la présence d’un outil. Une solution peut faciliter une tâche et en compliquer une autre. L’essai et sa réévaluation se construisent avec la personne, sans imposer un format unique.",
+      "opening": "Alice pose la tablette au bout du canapé, dans un support qu’elle a fabriqué avec deux morceaux de carton. Elle a classé les six arbres, agrandi les photographies et ajouté un rappel pour chaque séance de préparation. Mireille apprécie immédiatement les images : on voit mieux la cicatrice du platane. Elle fait défiler deux pages, puis un encadré surgit au milieu du dessin. « Revoir le cèdre demain. » Elle cherche à le fermer et quitte l’album entier.\n\nAlice veut lui montrer le geste. Mireille reprend la tablette, mais une autre proposition occupe déjà le haut de l’écran. Ce qui devait simplifier le carnet lui demande de distinguer la photo, l’alerte et le bouton. Elle finit par rendre l’appareil. Alice le prend un peu vite et dit qu’elle y a passé son dimanche. Un silence se pose entre elles, plus lourd que le carton du support.\n\nMireille ne souhaite pas rejeter ce travail. Elle voudrait conserver l’agrandissement des images et laisser de côté les rappels. Elle a déjà la clé dans la poche du sac et une feuille pour les séances ; tout remplacer maintenant lui coûterait davantage que continuer avec ces repères. Elle reconnaît aussi qu’elle peut avoir besoin d’une démonstration plus lente pour certaines commandes.\n\n« Je te dis ce qui m’aide, pas ce que vaut ton dimanche », finit-elle par dire. Alice rit un peu, puis rouvre l’album. Elles décident de regarder une fonction à la fois, en commençant par ce que Mireille a demandé : voir l’écorce sans faire apparaître une consigne par-dessus.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Quand une aide ajoute aussi une charge",
+          "text": "Les compensations peuvent soutenir le fonctionnement quotidien, mais leur mise en place demande elle-même de l’attention et des apprentissages. L’utilité d’un outil se juge donc dans la tâche où il doit servir. Une nouvelle fonction n’apporte pas nécessairement un bénéfice si elle multiplie les informations à traiter. Dans le salon, Mireille distingue un avantage précis, agrandir les photographies, et un coût précis, gérer les alertes. Son refus partiel donne une indication sur l’aménagement à essayer ; il ne suffit pas à expliquer son rapport aux soins ou ses capacités avec le numérique."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment cet enjeu se manifeste-t-il dans la scène ?",
+          "points": [
+            {
+              "heading": "Une fonction facilite une tâche précise",
+              "text": "Le même objet peut offrir un appui dans un usage et une gêne dans un autre. Il est utile de décrire ce contraste plutôt que juger l’outil en bloc.",
+              "examples": [
+                "L’agrandissement permet à Mireille de voir la cicatrice du platane sans rapprocher la page.",
+                "L’alerte superposée lui fait perdre l’album qu’elle cherchait à consulter."
+              ]
+            },
+            {
+              "heading": "Le changement ajoute un apprentissage",
+              "text": "Remplacer plusieurs habitudes à la fois peut augmenter les opérations à retenir. La personne peut préférer conserver des repères déjà utiles.",
+              "examples": [
+                "Mireille sait retrouver sa feuille de séance, mais doit apprendre où disparaissent les notifications.",
+                "Un déplacement du bouton lui demande une nouvelle recherche alors que le carnet papier s’ouvre à son onglet."
+              ]
+            },
+            {
+              "heading": "Le refus partiel précise le besoin",
+              "text": "Une personne peut accepter une aide et en écarter une autre pour des raisons concrètes. Écouter ce choix permet de chercher un meilleur ajustement.",
+              "examples": [
+                "Mireille veut les grandes photos et refuse les rappels pour l’instant.",
+                "Elle accepte une démonstration du défilement, mais demande qu’on ne programme pas tout son agenda."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour choisir une aide qui convient",
+          "points": [
+            {
+              "heading": "Définir l’utilité attendue",
+              "objective": "Relier l’outil à un besoin exprimé plutôt qu’à toutes ses possibilités.",
+              "exercise": [
+                "Demander à Mireille ce qu’elle voudrait faire plus facilement : ici voir un détail d’écorce.",
+                "Choisir une seule fonction qui répond à ce besoin.",
+                "L’essayer dans la situation réelle et demander si elle réduit ou ajoute de l’effort."
+              ],
+              "benefit": "Un objectif concret permet de juger l’aide selon l’expérience de Mireille et d’arrêter un essai qui ne lui convient pas."
+            },
+            {
+              "heading": "Garder un chemin simple",
+              "objective": "Réduire les opérations nécessaires pour retrouver une information.",
+              "exercise": [
+                "Ouvrir un album limité aux six arbres choisis.",
+                "Avec l’accord de Mireille, désactiver les rappels et éléments qui interrompent cet usage.",
+                "Laisser à portée le support papier qu’elle préfère si elle souhaite revenir à lui."
+              ],
+              "benefit": "Un parcours plus simple peut rendre l’image accessible sans transformer l’essai en obligation d’abandonner un repère familier."
+            },
+            {
+              "heading": "Revoir l’aide après usage",
+              "objective": "Permettre une décision révisable plutôt qu’un engagement définitif.",
+              "exercise": [
+                "Choisir une courte durée d’essai sur une ou deux séances.",
+                "Mireille dit ensuite quelle fonction elle garde, retire ou souhaite mieux comprendre.",
+                "Si plusieurs outils restent difficiles à utiliser, en parler à un professionnel qui pourra proposer un aménagement adapté au bilan."
+              ],
+              "benefit": "La réévaluation peut éviter l’accumulation d’aides inutilisées et faire apparaître un besoin d’accompagnement plus précis."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Les photos sans les encadrés",
+      "ending": "Alice retire les alertes qu’elles viennent de choisir de supprimer. Mireille agrandit la photo du platane, revient à la vue d’ensemble et essaie une seconde fois. Elle garde l’album pour la présentation, avec ses fiches papier pour raconter. Alice conserve le modèle numérique sans ajouter d’autres fonctions.\n\nLa séance se termine par un accord simple : les photos peuvent être copiées, les observations restent écrites par Mireille dans l’original. Elle hésite encore sur la date à laquelle elle voudra confier davantage de travail à Alice. Cette question dépasse la tablette ; elle la gardera pour son prochain échange avec le médecin.",
+      "conclusion": "Une aide peut être utile en partie et rester modifiable. Mireille choisit l’agrandissement des photos, conserve ses fiches et refuse les rappels. L’accord prend en compte le travail d’Alice et l’expérience de Mireille, sans faire du numérique une mesure d’autonomie ou une promesse sur l’évolution du trouble.",
+      "mirror": [
+        "Alice peut dire : « J’aimerais comprendre ce qui t’aide dans cet album et ce qui te gêne. » Elle peut aussi reconnaître qu’elle a investi du temps et a besoin de faire une pause avant de modifier le reste. Les fonctions sont négociables ; son travail ne crée pas une obligation d’utiliser l’outil. Un professionnel peut aider si elles restent bloquées."
+      ],
+      "sources": [
+        "oms-cddr",
+        "has-tnc-parcours",
+        "has-tnc-autonomie"
+      ],
+      "continuity": {
+        "choice": "Mireille garde l’album agrandissable sans alertes et les fiches papier pour le récit.",
+        "next": "Elle veut demander au médecin comment décider de la transmission sans connaître l’avenir."
+      }
+    },
+    {
+      "number": 11,
+      "slug": "mireille-evolution-incertaine",
+      "title": "Évolution incertaine : choisir la prochaine étape du carnet",
+      "description": "Mireille voudrait une date pour savoir quand passer le relais. Le suivi aide à préparer des choix sans prédire son avenir.",
+      "context": "au rendez-vous de suivi chez le médecin",
+      "topics": [
+        "Évolution",
+        "Suivi",
+        "Décisions présentes"
+      ],
+      "clinical_focus": "Incertitude sur l’évolution individuelle",
+      "clinical_intro": "L’évolution d’un trouble neurocognitif léger dépend notamment de sa cause et peut varier. Certaines situations restent stables, d’autres s’améliorent ou progressent ; certaines précèdent un trouble plus important. Ce diagnostic ne fixe donc pas à lui seul un avenir individuel. Le suivi sert à apprécier les changements, à explorer les facteurs de santé et à ajuster les aides avec la personne.",
+      "opening": "Au rendez-vous convenu avec son médecin à propos du sommeil, Mireille apporte une enveloppe portant le prénom d’Alice. Elle n’y a placé aucun document de santé. Elle y a glissé une copie du sommaire du carnet et une question : « Quand faudra-t-il lui confier la suite ? » Les nuits sont discutées en premier, avec ce qui s’est passé depuis la consultation précédente. Puis elle pose l’enveloppe sur la table.\n\nLa présentation approche. Certaines séances se sont bien déroulées ; d’autres lui ont demandé plus de temps. Elle a envie de lire dans cette alternance une réponse sur les années à venir. Si la présentation se passe bien, pourra-t-elle garder le carnet longtemps ? Si elle cherche plusieurs mots, faudra-t-il le donner tout de suite ? Elle sait que le médecin ne peut pas répondre par un calendrier, mais elle voudrait malgré tout une date qui la soulagerait du choix.\n\nIl reprend avec elle la différence entre les difficultés décrites aujourd’hui et leur évolution possible. Le diagnostic seul n’annonce pas une démence certaine. Il ne garantit pas non plus la stabilité. Ils parlent du suivi déjà organisé et des changements de fonctionnement à signaler, en gardant les tâches de sa vie réelle comme repères.\n\nMireille revient à l’enveloppe. Une copie peut être confiée à Alice maintenant pour partager un travail, sans devenir une décision définitive sur l’original. Elle demande qu’ils écrivent cette distinction sur sa feuille de questions. Pour la première fois, le choix du cadeau se sépare un peu de la peur d’une échéance inconnue.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Ce que le suivi peut préciser",
+          "text": "L’évolution clinique se juge dans le temps ; une activité réussie ou manquée n’en fournit pas une trajectoire. Le suivi permet de comparer le fonctionnement et les besoins, puis d’ajuster les décisions. Il ne transforme pas l’incertitude en calendrier. Pour Mireille, la copie du sommaire peut avoir deux sens très différents : partager aujourd’hui un projet ou anticiper une perte qu’elle imagine. Clarifier le premier sens rend une action possible tout en laissant le pronostic à son évaluation clinique, avec les limites que le médecin vient d’expliquer."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment cet enjeu se manifeste-t-il dans la scène ?",
+          "points": [
+            {
+              "heading": "L’avenir est recherché dans chaque séance",
+              "text": "Lorsque la suite inquiète, un événement ordinaire peut sembler annoncer toute une trajectoire. L’événement reste pourtant insuffisant pour cette conclusion.",
+              "examples": [
+                "Une histoire racontée aisément donne à Mireille envie d’une garantie de stabilité.",
+                "Un mot recherché pendant une répétition lui fait envisager de céder immédiatement l’original."
+              ]
+            },
+            {
+              "heading": "Le suivi donne des repères présents",
+              "text": "Un échange clinique peut préciser les besoins actuels et les changements à signaler. Ces repères servent à organiser une suite de soins, sans prétendre supprimer toute incertitude.",
+              "examples": [
+                "Le médecin reprend l’effort demandé par les notices et les appuis qui restent utiles.",
+                "Mireille repart en sachant comment reprendre contact si ses activités changent avant le point prévu."
+              ]
+            },
+            {
+              "heading": "Un choix peut rester révisable",
+              "text": "L’absence de prévision précise n’empêche pas de prendre une décision pour aujourd’hui. Il est possible d’en définir la portée et les conditions de réexamen.",
+              "examples": [
+                "Mireille peut offrir une copie des six arbres sans décider du devenir de tout le carnet.",
+                "Elle convient de revoir le partage des tâches après la présentation et selon son expérience."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour avancer avec une suite ouverte",
+          "points": [
+            {
+              "heading": "Écrire les questions pour le soignant",
+              "objective": "Obtenir une réponse située plutôt qu’une promesse générale.",
+              "exercise": [
+                "Formuler la question exacte : ce qui est connu aujourd’hui, ce qui reste incertain et à quoi sert le suivi.",
+                "La poser au médecin et demander une explication adaptée à la situation de Mireille.",
+                "Noter le prochain point et la façon de reprendre contact si le besoin change."
+              ],
+              "benefit": "Ces informations peuvent rendre le suivi plus compréhensible et éviter qu’une séance du carnet serve de prévision médicale."
+            },
+            {
+              "heading": "Séparer le cadeau et le relais",
+              "objective": "Donner au partage une portée choisie dans le présent.",
+              "exercise": [
+                "Mireille nomme ce qu’elle souhaite transmettre maintenant : les copies et leurs histoires.",
+                "Elle indique ce qu’elle garde : l’original et l’ajout de nouvelles observations.",
+                "Alice et elle prévoient de reparler des tâches si leurs envies, disponibilités ou besoins changent."
+              ],
+              "benefit": "Une décision délimitée peut laisser avancer le projet sans exiger de connaître l’avenir ni fixer un renoncement définitif."
+            },
+            {
+              "heading": "Des faits utiles au suivi",
+              "objective": "Repérer les changements sans organiser une surveillance permanente.",
+              "exercise": [
+                "Lorsqu’une difficulté nouvelle se répète ou gêne davantage une activité, noter le fait et son contexte.",
+                "Le transmettre au soignant avec Mireille plutôt qu’en tirer une conclusion en famille.",
+                "Si un changement brutal s’accompagne d’une confusion importante, demander une évaluation urgente au lieu d’attendre le prochain suivi."
+              ],
+              "benefit": "Cette distinction peut soutenir une réponse adaptée au changement observé et éviter d’attribuer automatiquement tout événement au trouble connu."
+            }
+          ]
+        }
+      ],
+      "ending_title": "L’enveloppe n’est pas une échéance",
+      "ending": "Mireille sort du cabinet avec le prochain point de suivi noté et l’enveloppe toujours à la main. Chez elle, elle remplace la question sur la date par une phrase pour Alice : « Voici six arbres à regarder ensemble ; le carnet continue sur ma table. » Elle conserve ses questions de santé dans l’autre pochette.\n\nElle ressent encore l’envie d’obtenir une certitude. La phrase ne la lui donne pas. Elle lui permet de préparer le cadeau de juin sans attendre. Alice accepte la copie et demande si elle pourra y ajouter ses photographies à elle. Mireille propose une page séparée pour leurs observations communes.",
+      "conclusion": "Le diagnostic connu n’offre pas de calendrier individuel. Mireille garde un suivi et des repères pour signaler des changements, tout en décidant du partage actuel du carnet. La copie devient un cadeau présent ; elle ne certifie ni une stabilité future ni la nécessité imminente d’un relais.",
+      "mirror": [
+        "Alice peut répondre à l’enveloppe : « Je veux partager ces arbres avec toi maintenant ; on rediscutera de la suite quand tu le souhaiteras. » Elle évite de tirer une assurance ou une alarme d’une répétition. Si elle observe un changement qui l’inquiète, elle le décrit à Mireille et propose un échange avec le soignant plutôt que d’imposer le transfert du carnet."
+      ],
+      "sources": [
+        "oms-cddr",
+        "has-tnc-parcours",
+        "has-tnc-autonomie"
+      ],
+      "continuity": {
+        "choice": "Mireille offre une copie limitée et conserve l’original ; le suivi clinique garde sa propre place.",
+        "next": "La présentation de juin rendra ce partage concret et laissera chacune préciser sa contribution."
+      }
+    },
+    {
+      "number": 12,
+      "slug": "mireille-transmission-participation",
+      "title": "Transmission : partager le carnet en gardant sa place",
+      "description": "À la bibliothèque, Mireille raconte six arbres et offre une copie à Alice. Elle garde l’original ouvert pour ses observations à venir.",
+      "context": "pendant la présentation à la bibliothèque",
+      "topics": [
+        "Participation sociale",
+        "Transmission",
+        "Compétences préservées"
+      ],
+      "clinical_focus": "Participation sociale et compétences préservées",
+      "clinical_intro": "Un trouble neurocognitif léger n’efface pas l’ensemble des savoirs, des liens et des projets. Les capacités préservées peuvent soutenir une participation sociale choisie, avec des adaptations si elles sont utiles. La réussite d’une activité ne mesure pas l’évolution du trouble. L’enjeu est de conserver une place réelle dans ce qui compte pour la personne et de pouvoir ajuster cette place.",
+      "opening": "Nadia a installé six chaises devant la table de la bibliothèque. D’autres visiteurs pourront rester près des rayons, mais Mireille a demandé un petit groupe. Les photographies s’affichent sur la tablette sans alerte. Ses fiches sont rangées dans l’ordre choisi aux archives, avec quelques mots près des images. Alice a porté le carton puis s’est assise sur le côté. Elle sait qu’elle passera à la photo suivante quand sa grand-mère lui fera signe.\n\nMireille commence par le platane. Elle raconte la barrière déplacée pour les racines, montre sa cicatrice et relit la date de la remarque de Paul. Une visiteuse lui demande depuis quand elle dessine les arbres. Mireille répond, puis regarde le trait placé au bord de sa fiche pour retrouver l’histoire en cours. Elle prend un peu de temps. Personne ne lui demande de recommencer depuis le début.\n\nDevant le cèdre, elle cherche un mot et décrit la forme avec la main. Alice attend. Mireille finit par montrer la photographie et poursuit sur le banc déplacé. La pause reste visible ; elle ne détruit pas la rencontre. Un ancien collègue reconnaît une anecdote et apporte sa version. Mireille discute un détail, le corrige, puis rit avec lui.\n\nSur une chaise vide, une copie reliée attend dans l’enveloppe d’Alice. L’original reste près du coude de Mireille. Elle ne sait pas encore si elle voudra refaire une présentation. Elle sait qu’elle veut donner cette copie à sa petite-fille et retrouver, la semaine suivante, le hêtre qu’elles n’ont pas choisi cette fois.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Garder une place dans un projet partagé",
+          "text": "Participer suppose de disposer d’une place et de moyens adaptés, pas de faire disparaître toute difficulté devant les autres. Les compétences préservées peuvent être mobilisées dans un projet qui a du sens pour la personne. À la bibliothèque, Mireille apporte ses connaissances, ses choix et ses récits ; les fiches et l’aide technique d’Alice facilitent leur expression. Cette participation n’est ni une épreuve clinique ni une intervention dont on pourrait déduire un effet protecteur individuel. Sa valeur tient aussi au plaisir de discuter un souvenir et de décider de la suite."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment cet enjeu se manifeste-t-il dans la scène ?",
+          "points": [
+            {
+              "heading": "Les savoirs restent utiles au groupe",
+              "text": "Une personne peut apporter une expertise et prendre part à une discussion tout en rencontrant des difficultés dans certains domaines cognitifs. Les appuis ne retirent pas la valeur de sa contribution.",
+              "examples": [
+                "Mireille explique le déplacement de la barrière à partir de son expérience des jardins.",
+                "Elle discute une date avec un ancien collègue et choisit ce qui sera corrigé dans la copie."
+              ]
+            },
+            {
+              "heading": "L’aménagement rend une place possible",
+              "text": "Un rythme ou un support peut permettre une participation sans exiger une performance sans accroc. L’aménagement reste lié à la situation et au souhait exprimé.",
+              "examples": [
+                "Le trait sur la fiche aide Mireille à reprendre après la question d’une visiteuse.",
+                "Alice avance les images sur signe et laisse sa grand-mère conduire l’histoire du cèdre."
+              ]
+            },
+            {
+              "heading": "Transmettre peut créer une relation nouvelle",
+              "text": "Le partage ne se réduit pas au remplacement de la personne. Il peut ouvrir une activité commune où les contributions sont distinctes et discutées.",
+              "examples": [
+                "Alice reçoit une copie où elle pourra ranger ses photographies sur une page séparée.",
+                "Mireille garde l’original et propose une prochaine observation au pied du hêtre."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour transmettre en gardant sa place",
+          "points": [
+            {
+              "heading": "Préparer les conditions de sa place",
+              "objective": "Rendre la participation compatible avec les besoins et les envies actuels.",
+              "exercise": [
+                "Demander à Mireille le format de rencontre qu’elle préfère, sa durée et le rôle souhaité pour chacun.",
+                "Prévoir les supports déjà essayés et la possibilité de s’arrêter ou de répondre autrement.",
+                "Après la rencontre, lui demander ce qu’elle voudrait garder ou changer pour une autre occasion."
+              ],
+              "benefit": "L’organisation peut soutenir une place active sans demander de réussir devant le groupe pour conserver cette place."
+            },
+            {
+              "heading": "Donner un rôle limité à l’aide",
+              "objective": "Faire fonctionner le soutien sans prendre la direction du récit.",
+              "exercise": [
+                "Mireille et Alice conviennent d’une tâche précise, ici avancer les photos sur un signe.",
+                "Pendant l’échange, laisser Mireille répondre ou demander une aide, et respecter une pause.",
+                "À la fin, vérifier ensemble si ce rôle a convenu et s’il reste possible pour Alice la prochaine fois."
+              ],
+              "benefit": "Une contribution définie peut préserver l’initiative de Mireille et les limites de disponibilité de sa petite-fille."
+            },
+            {
+              "heading": "Ouvrir une suite choisie",
+              "objective": "Inscrire le partage dans un projet vivant plutôt que dans une épreuve finale.",
+              "exercise": [
+                "Mireille remet les copies qu’elle veut offrir et garde les pages qu’elle ne souhaite pas transmettre.",
+                "Chacune propose une prochaine contribution, comme une photo ou une observation au hêtre.",
+                "Choisir seulement la prochaine rencontre, en laissant les autres projets se rediscuter et le suivi de santé suivre son cours."
+              ],
+              "benefit": "Une petite suite concrète peut préserver le lien et le droit de changer d’avis, sans faire de projet une obligation ni une garantie clinique."
+            }
+          ]
+        }
+      ],
+      "ending_title": "La copie dans les mains d’Alice",
+      "ending": "Lorsque les visiteurs repartent, Mireille donne l’enveloppe à Alice. Elles ouvrent la copie ensemble. Une page porte « observations communes » ; les suivantes gardent les dessins de Mireille et les photographies qu’Alice a sélectionnées avec elle. Nadia demande si la bibliothèque peut conserver un exemplaire des six notices. Mireille accepte cette version et garde ses pages personnelles dans l’original.\n\nElle est fatiguée et demande à rentrer avant de ranger les chaises. Nadia s’en charge avec un collègue ; Alice reprend le carton. La semaine suivante, au pied du hêtre, Mireille note une branche qui a changé d’angle. Elle demande à Alice une photographie et choisit elle-même la phrase qu’elle ajoute. Le carnet a été partagé et reste le sien.",
+      "conclusion": "Mireille a transmis une copie du carnet en gardant sa place d’autrice et son droit d’ajouter des observations. Les hésitations n’ont pas disparu ; les appuis ont soutenu une rencontre qu’elle avait choisie. Le projet se poursuit avec Alice et le suivi clinique, sans que cette fin de présentation permette de prédire l’évolution de son trouble.",
+      "mirror": [
+        "Alice peut accueillir la copie en disant : « Je mettrai mes photos sur notre page ; tu me diras lesquelles tu veux dans le carnet. » Elle peut être fière du moment sans annoncer que sa grand-mère a prouvé quoi que ce soit sur sa santé. Après la rencontre, elle respecte sa fatigue et partage le rangement avec Nadia au lieu de lui demander une dernière démonstration."
+      ],
+      "sources": [
+        "oms-cddr",
+        "has-tnc-parcours",
+        "has-tnc-autonomie"
+      ],
+      "continuity": {
+        "choice": "Mireille remet les copies choisies à Alice et à la bibliothèque ; l’original et ses nouvelles observations restent chez elle.",
+        "next": "Le partage est réalisé. Les prochaines sorties, les besoins d’aide et le suivi resteront discutés avec Mireille, sans pronostic fixé."
+      }
+    }
+  ]
+}

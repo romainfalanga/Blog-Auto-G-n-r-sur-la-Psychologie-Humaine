@@ -31,13 +31,25 @@ Camille remarque qu’elle a plus d’exemples de ce qui pourrait mal se passer 
 
 Camille pense surtout à un conflit possible avec une collègue. Elle peut aussi examiner les horaires qu’on lui propose, puis demander quels appuis existent si un désaccord surgit.
 
+Exemples situés :
+- Sur le banc du vestiaire, la crainte d’un conflit d’équipe occupe Camille avant même qu’elle ait demandé les horaires.
+- Devant l’enveloppe, elle peut imaginer la perte de proximité avec les patients et oublier de vérifier la place clinique réellement prévue au poste.
+
 ### 2. La dépréciation des ressources personnelles
 
 Une autre manifestation courante est l'incapacité à se projeter comme capable de gérer les difficultés futures. Camille oublie ses succès passés et les compétences qu'elle a acquises. Le biais de négativité assombrit la perception qu'elle a de ses propres ressources. Elle se voit échouer devant un obstacle mineur au lieu de se souvenir de son sang-froid lors d'urgences vitales au service de cardiologie. La décision devient terrifiante car elle ne voit que le problème, sans visualiser la solution qu'elle est pourtant tout à fait apte à mettre en œuvre.
 
+Exemples situés :
+- En envisageant une réunion difficile, Camille peut oublier qu’elle a déjà coordonné une équipe lors de la procédure de mars.
+- Au moment de demander le rendez-vous, elle peut penser qu’elle devra tout savoir d’emblée sans examiner la formation ou l’appui disponibles.
+
 ### 3. L'anticipation des regrets futurs
 
 Face à une décision importante, le biais de négativité nous projette souvent dans un scénario où nous regrettons amèrement notre choix. Camille imagine la scène où, dans six mois, elle se dit qu'elle n'aurait jamais dû accepter. Elle ressent physiquement ce regret fictif, ce qui crée une barrière émotionnelle à l'action. On préfère souvent rester dans une situation insatisfaisante mais connue plutôt que de risquer une situation potentiellement meilleure mais qui comporte une part d'incertitude négative.
+
+Exemples situés :
+- Avant d’avoir lu la fiche détaillée, Camille imagine se reprocher son choix dans six mois.
+- Devant le calendrier familial, elle peut traiter comme certain un samedi manqué alors qu’elle attend encore les horaires du poste.
 
 ## Techniques pour équilibrer sa perception
 
@@ -45,13 +57,40 @@ Face à une décision importante, le biais de négativité nous projette souvent
 
 Le ratio popularisé par [John Gottman](https://www.gottman.com/blog/the-magic-relationship-ratio-according-science/) concerne des interactions de couple étudiées en situation de conflit, pas les décisions professionnelles. Camille peut faire une liste sans compter les points : horaires et soutien confirmés, incertitudes sur la charge, effet possible sur sa vie familiale.
 
+Objectif : voir les informations utiles sans compter des points favorables contre des points défavorables.
+
+Exercice pratique :
+1. Relevez dans l’enveloppe ce qui est confirmé et indiquez comme hypothèses les horaires ou avantages encore inconnus.
+2. Écrivez un risque qui compte pour vous, un bénéfice possible et la question qui permettrait de les préciser.
+3. Adressez cette question au service avant d’arbitrer selon vos priorités.
+
+Utilité possible : Camille peut prendre au sérieux un risque décisif tout en vérifiant qu’elle ne le tient pas pour établi trop tôt.
+
 ### 2. Imaginer deux journées de travail plausibles
 
 Camille imagine une journée ordinaire et une journée difficile, puis compare ses hypothèses avec les renseignements dont elle dispose. Une image rassurante n’est pas une preuve que le poste lui conviendra.
 
+Objectif : examiner les demandes du poste dans des situations concrètes.
+
+Exercice pratique :
+1. Décrivez une journée ordinaire à partir des missions indiquées, en laissant des blancs là où vous ne savez pas.
+2. Ajoutez une journée difficile, par exemple un désaccord d’équipe, avec les appuis qu’il faudrait connaître.
+3. Comparez ces descriptions avec une personne qui connaît le poste et rectifiez vos hypothèses.
+
+Utilité possible : les images deviennent des questions sur le travail réel, sans constituer une prévision rassurante ou alarmante.
+
 ### 3. Le questionnement de la validité par un tiers imaginaire
 
 Camille se demande ce qu’elle conseillerait à Nathalie : vérifier la fiche de poste, parler à une personne qui occupe la fonction et demander comment l’équipe est soutenue. Elle peut ensuite appliquer ces questions à sa propre situation.
+
+Objectif : reprendre pour soi les demandes que l’on jugerait légitimes pour une collègue.
+
+Exercice pratique :
+1. Imaginez Nathalie recevant la même enveloppe et notez ce que vous lui conseilleriez de vérifier.
+2. Choisissez parmi ces demandes celle qui manque dans votre propre démarche.
+3. Préparez la phrase à poser au rendez-vous, par exemple sur le soutien lors du passage de fonction.
+
+Utilité possible : le détour aide Camille à formuler une question qu’elle s’interdisait, sans demander à Nathalie de choisir à sa place.
 
 ## Les questions avant la réponse
 

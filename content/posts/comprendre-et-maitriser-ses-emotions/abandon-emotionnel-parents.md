@@ -35,17 +35,23 @@ L'invisibilité survient quand un parent est là physiquement, mais reste hermé
 
 Exemple : un parent qui, une fois rentré du travail, reste absorbé par son téléphone durant tout le dîner, peut manquer ce que son enfant cherche à lui raconter. Le contexte et le caractère répété de la situation comptent.
 
+Autre exemple situé : dans le garage, Léa peut demander à Anne ce dont elle se souvient et se sentir seule si la question reste sans réponse. Cette réaction actuelle ne permet pas, à elle seule, d’établir ce qui se passait à six ans.
+
 ### 2. La sur-responsabilisation et le rôle de "soignant"
 
 On parle de parentification lorsqu’un enfant prend durablement des responsabilités de soin habituellement assumées par des adultes, au-delà de ce que son âge permet d’attendre. Des [travaux sur la parentification](https://pubmed.ncbi.nlm.nih.gov/21520081/) ont relevé des associations avec certaines difficultés à l’âge adulte, sans établir le parcours d’un enfant à partir d’un seul souvenir.
 
 Exemple : Léa prend systématiquement les nouveaux amis de son entourage sous son aile. Elle organise tout et devance les besoins pour éviter le moindre malaise, agissant comme un rempart contre une éventuelle rupture du lien.
 
+Autre exemple situé : lorsqu’Anne commence à reparler du conflit avec Michel, Léa peut se sentir chargée de réconcilier ses parents au lieu de choisir si elle souhaite entendre cette conversation.
+
 ### 3. La peur du vide et l'idéalisation
 
 Léa redoute parfois que les personnes auxquelles elle tient se détournent d’elle. Pour se protéger, on peut avoir tendance à idéaliser ses relations, plaçant l'autre sur un piédestal pour ignorer les signes de détachement. Cette idéalisation crée une illusion de sécurité.
 
 Exemple : Léa perçoit souvent ses partenaires comme des sauveurs providentiels. Elle occulte leurs défauts et surestime leur capacité à réparer ses blessures, ce qui peut la décevoir quand leurs attentes diffèrent.
+
+Autre exemple situé : devant un silence de Zoé, Léa peut espérer qu’un service de plus garantira leur amitié ; ce souhait ne permet pas de connaître la réponse de Zoé.
 
 ## Trois techniques pour faire face à l'abandon émotionnel
 
@@ -56,38 +62,33 @@ Ces méthodes sont conçues pour s'intégrer au quotidien, en utilisant des outi
 L’objectif est de préciser ce qui pourrait vous aider aujourd’hui, sans devoir en trouver l’origine.
 
 Exercice pratique :
-*   Prenez une demi-heure avec un carnet. Tracez trois colonnes : "Besoins non satisfaits", "Signes d'alerte", "Réponses possibles".
-*   Dans la première colonne, soyez précise : "besoin d'être écoutée sans jugement" ou "besoin de reconnaissance".
-*   Dans la deuxième, notez les manifestations physiques ou mentales : une boule au ventre, l'envie soudaine d'aider quelqu'un pour exister, une angoisse avant un message.
-*   Dans la troisième, listez des actions concrètes pour répondre vous-même à ces besoins : appeler une personne de confiance, s'accorder une pause, noter ses réussites du jour.
-*   Relisez cette carte régulièrement pour transformer vos automatismes en choix conscients.
+1. Dans le carnet, choisissez un moment actuel, comme la conversation du garage, et nommez un besoin : être écoutée sur ce dessin.
+2. Notez ce que vous remarquez maintenant et ce que vous ne savez pas ; le malaise n’explique pas à lui seul votre histoire.
+3. Choisissez une réponse accessible, par exemple poser une question à Anne, appeler une personne disponible ou laisser le carton pour plus tard, puis refermez la note.
 
-Pourquoi cela fonctionne : En identifiant vos besoins, vous cessez de les projeter sur les autres et reprenez le pouvoir sur votre propre régulation.
+Utilité possible : la carte relie un besoin à un choix présent. Elle n’impose ni une durée d’écriture ni de répondre seule à tous ses besoins.
 
 ### 2. Utiliser des scripts relationnels
 
-Il s'agit d'apprendre à exprimer ses limites ou ses attentes sans que la peur de l'abandon ne paralyse la parole.
+L’objectif est de préparer une attente ou une limite avant une conversation difficile.
 
 Exercice pratique :
-*   Préparez trois phrases types pour des situations récurrentes.
-*   *Situation 1 (demande excessive) :* "Je comprends que tu traverses un moment difficile, mais je n'ai pas l'énergie pour porter cela aujourd'hui. Voici comment je peux t'aider autrement."
-*   *Situation 2 (minimisation de vos émotions) :* "Quand tu dis que j'exagère, je me sens isolée. J'ai besoin que mon ressenti soit simplement entendu."
-*   *Situation 3 (demande de soutien) :* "Je vis quelque chose de lourd, serais-tu disponible pour m'écouter quelques minutes ?"
-*   Entraînez-vous à voix haute. Commencez par des situations simples pour gagner en assurance.
+1. Choisissez la situation à laquelle vous voulez répondre : Anne commence à raconter une dispute avec Michel.
+2. Préparez une phrase qui correspond à votre besoin, par exemple « Je ne souhaite pas être la médiatrice de cette discussion » ; pour demander une écoute, vous pouvez aussi dire « Serais-tu disponible quelques minutes ? ».
+3. Essayez la phrase dans un échange suffisamment sûr, puis choisissez de poursuivre, changer de sujet ou arrêter si la limite n’est pas respectée.
 
-Pourquoi cela fonctionne : Avoir des mots prêts à l'emploi diminue le stress du moment et permet d'affirmer sa place dans la relation.
+Utilité possible : avoir quelques mots peut rendre une réponse plus praticable sans garantir la réaction de l’autre ni obliger à discuter.
 
 ### 3. Établir un dialogue intérieur avec son histoire
 
-L'idée est de construire une sécurité interne là où la présence parentale a été défaillante.
+L’objectif est de chercher des mots de réconfort pour soi aujourd’hui. Léa peut utiliser l’image de la petite fille du dessin si elle lui parle ; elle n’a pas à retrouver ce que cette enfant aurait exactement pensé.
 
 Exercice pratique :
-*   Si l’idée vous parle, écrivez des mots de réconfort que vous aimeriez entendre aujourd’hui. Il n’est pas nécessaire de revisiter un souvenir difficile.
-*   Écrivez une lettre à l'enfant que vous étiez. Validez ses émotions, expliquez-lui qu'elle n'était pas responsable du silence ou de la colère des adultes. Offrez-lui les paroles rassurantes qu'elle attendait.
-*   Répondez à cette lettre avec votre regard d'adulte aujourd'hui, en listant trois engagements que vous prenez envers vous-même pour vous protéger.
-*   Gardez ces écrits à portée de main pour les relire quand l'insécurité resurgit.
+1. Choisissez d’écrire quelques mots depuis le présent, ou renoncez à la lettre si l’image accroît votre malaise.
+2. Formulez une parole de soutien que vous souhaiteriez entendre, sans reconstruire une scène ni combler un souvenir manquant.
+3. Retenez un engagement actuel et limité, comme demander à ne plus entendre les disputes parentales ; gardez la lettre privée ou laissez-la de côté.
 
-Vous pouvez laisser cette lettre de côté si l’exercice accroît la détresse ; elle ne répare pas à elle seule une relation.
+Utilité possible : le texte peut aider à nommer une attention envers soi. Il ne répare pas à lui seul une relation et ne demande pas de revisiter un souvenir pénible.
 
 ## Le carton reste ouvert
 

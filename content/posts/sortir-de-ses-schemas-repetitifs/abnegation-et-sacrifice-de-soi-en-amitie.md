@@ -37,11 +37,15 @@ Ce réflexe est d'autant plus puissant chez lui qu'il s'accompagne souvent d'une
 
 ### 2. La mise au second plan systématique de ses besoins
 
-Le sacrifice de soi en amitié se manifeste aussi par l'effacement de ses propres préférences. Si le groupe d'amis choisit un restaurant que Thomas n'aime pas ou une activité qui l'épuise, il ne dira rien. Il finit par perdre le contact avec ce qu'il ressent vraiment, ses goûts et ses limites. Cette inhibition émotionnelle est un moyen de garantir l'harmonie du groupe, mais elle peut lui donner le sentiment que ses amis connaissent mal ses préférences. On est entouré, mais personne ne connaît vraiment la personne derrière le masque de la complaisance.
+Thomas peut laisser sa préférence hors de la conversation pour conserver un accord apparent. Un renoncement ponctuel peut être choisi ; il devient difficile à ajuster si l’autre ne connaît jamais ce qu’il laisse de côté.
+
+Pour le déménagement de Loïc, le message flou risque d’effacer la sortie déjà promise à Émilie. Pour une proposition de restaurant, Thomas pourrait de même accepter un prix ou un horaire qui ne lui convient pas sans le dire. Le premier exemple oppose deux engagements, le second une préférence et une proposition de groupe. Dans les deux cas, les amis ne peuvent pas discuter d’une contrainte rendue invisible.
 
 ### 3. Le ressentiment silencieux et l'épuisement
 
-À force de s'oublier, le sacrifice de soi génère une fatigue chronique et, parfois, une amertume sourde. Thomas commence à ressentir une pointe d'agacement quand le téléphone vibre, tout en s'en voulant d'éprouver cette émotion. C'est le paradoxe de l'abnégation : on donne tout pour être aimé, mais on finit par ressentir de la colère envers ceux qui reçoivent, car ils ne voient pas l'effort surhumain que cela demande. Cet agacement lui donne une raison de regarder ce qu’il peut offrir et ce dont il a besoin.
+Une disponibilité plus grande que ce que Thomas souhaite peut s’accompagner de fatigue ou de ressentiment. Ces réactions méritent une description située ; elles ne démontrent pas à elles seules une fatigue chronique causée par l’abnégation.
+
+Le téléphone qui vibre avec le message de Loïc peut lui donner envie de l’éviter avant même de répondre. La perspective d’annuler l’exposition peut aussi le rendre irrité envers Émilie si elle rappelle leur accord, alors que c’est lui qui n’a pas encore précisé son offre à Loïc. Ces deux tensions donnent une raison de regarder ses engagements et de parler de la limite, sans attribuer à tous les autres la volonté de l’épuiser.
 
 ## 3 techniques pour agir face à l'abnégation et au sacrifice de soi
 
@@ -49,15 +53,33 @@ Sortir de ce schéma demande un entraînement progressif pour réapprendre à s'
 
 ### 1. La technique du délai de réponse
 
-L'un des plus grands défis de Thomas est sa réactivité impulsive à la demande. Pour casser ce réflexe d'approbation automatique, il est nécessaire d'instaurer un espace entre la sollicitation et la réponse. L'exercice consiste à dire systématiquement qu'il doit regarder son emploi du temps et qu'il donnera une réponse plus tard. Ce délai permet de sortir de l'émotion de peur immédiate et de se demander honnêtement s'il possède l'énergie, le temps et l'envie de le faire. Cela permet de passer d'une réaction automatique à un choix conscient.
+Si la demande peut attendre, Thomas peut réserver un délai à une vérification concrète. Il n’a pas à différer tous ses petits accords ni à attendre la disparition de la culpabilité.
 
-### 2. La pyramide des besoins prioritaires
+1. Demander à Loïc à quel moment il a besoin d’une réponse et quelles tâches sont recherchées samedi.
+2. Vérifier la sortie avec Émilie, les copies et le temps de repos, puis choisir une disponibilité réelle au lieu de laisser « je verrai » valoir une journée entière.
+3. Répondre à l’heure annoncée en précisant ce qu’il peut offrir ou en refusant. Une information nouvelle pourra être examinée sans rouvrir la décision au seul retour de la gêne.
 
-Thomas peut noter les contraintes qui comptent ce samedi : la sortie prévue, son temps de repos et la durée d’aide demandée. Il choisit ce qu’il peut offrir, sans utiliser cette liste comme un barème.
+Le délai permet de connaître l’engagement avant de le prendre. Il ne garantit pas que Loïc sera satisfait et ne constitue pas une excuse à prolonger indéfiniment l’attente.
+
+### 2. Comparer les engagements du samedi
+
+La liste sert ici à mettre les engagements côte à côte, sans hiérarchie psychologique ni barème universel. Thomas cherche ce qui peut vraiment tenir dans son samedi.
+
+1. Noter l’heure de l’exposition déjà prévue, le travail à finir et le temps qu’il veut garder libre.
+2. Ajouter la durée et le trajet demandés par le déménagement, en marquant ce que Loïc doit encore préciser.
+3. Choisir une proposition compatible, comme une heure pour les livres s’il la souhaite, et annoncer aussi l’heure de départ. Il peut choisir de ne rien ajouter si aucune place ne convient.
+
+Cette comparaison rend visibles des renoncements réels. Elle ne mesure pas l’importance de Loïc ou d’Émilie dans sa vie et ne décide pas à leur place de la suite.
 
 ### 3. L'affirmation de soi par le ressenti
 
-Au lieu de se justifier par des excuses complexes qui ouvrent la porte à la négociation, il s'agit d'exprimer son état interne. Dire à un ami qu'on aimerait beaucoup l'aider, mais qu'on se sent très fatigué et qu'on a besoin de ce samedi pour récupérer, est beaucoup plus puissant qu'une excuse matérielle. Cette technique humanise la limite. Elle apprend à Thomas que ses émotions sont des raisons valables en soi. L'exercice pratique consiste à s'entraîner à formuler une phrase courte commençant par "je me sens", pour poser une limite sans attaquer l'autre.
+Thomas peut dire sa décision et son besoin sans présenter un dossier de fatigue. Une limite ne dépend pas d’un état d’épuisement suffisant et un ressenti ne garantit pas l’accord de l’ami.
+
+1. Préparer une phrase fidèle : « J’ai déjà prévu la sortie avec Émilie. Je ne serai pas disponible pour tout le déménagement. » Il peut ajouter son besoin de repos s’il souhaite en parler.
+2. Dire ensuite la contribution qu’il choisit, ou le refus, sans laisser une alternative entendre qu’il prendra finalement tout en charge.
+3. Écouter la réponse de Loïc, répondre à une question pratique et répéter le périmètre si nécessaire. Il n’a pas à proposer davantage pour faire cesser un mécontentement.
+
+La phrase rend son accord compréhensible. Le regret de ne pas aider plus peut rester présent et une autre forme de soutien reste un choix à discuter.
 
 ## Une heure pour les livres
 

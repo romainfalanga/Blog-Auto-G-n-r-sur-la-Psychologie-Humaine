@@ -30,29 +30,35 @@ Une charge excessive, des consignes peu claires ou des humiliations peuvent auss
 ### 1. La sur-analyse qui devient rituel de sécurité
 
 Sophie connaît bien cette manifestation : elle relit et remanie son code plusieurs fois avant une démo, non parce que la logique l'exige, mais parce que la relecture lui donne l'illusion de prévenir la catastrophe. La sur-analyse se présente souvent comme une stratégie adaptative pour réduire l'incertitude. Concrètement, elle peut prendre ces formes :
-- relire des emails plusieurs fois avant d'envoyer,
-- multiplier les tests sur un morceau de code déjà fonctionnel,
-- procrastiner sur une décision en accumulant des vérifications.
 
 Une relecture peut être utile, voire obligatoire. Sophie se demande surtout ce que lui apporte la vérification suivante : un contrôle technique prévu ou quelques minutes de répit avant que le doute revienne ?
+
+Exemples concrets :
+
+- Avant de répondre au message de Marc, Sophie envisage encore de relire son texte alors que la demande porte sur le code renvoyé par l’API.
+- Relancer un contrôle prévu sur le champ vide a un objet précis ; répéter le même contrôle sans fait nouveau peut seulement la rassurer un moment.
 
 ### 2. Une attention accrue aux réactions des collègues
 
 Quand elle est inquiète, Sophie prête plus d’attention aux signes qui pourraient annoncer une critique. Sophie surveille la posture de Marc pendant une réunion, note chaque silence et interprète les inflexions de voix. Cela se manifeste de façon discrète :
-- interpréter un silence comme une critique,
-- relancer des explications alors qu'elles ne sont pas demandées,
-- anticiper des reproches et se justifier spontanément.
 
 Surveiller en permanence les réactions des autres peut être fatigant. Les réactions de collègues ne sont pas toujours neutres ; mieux vaut distinguer une remarque réellement déplacée d’un silence dont Sophie ne connaît pas le sens.
+
+Exemples concrets :
+
+- Pendant la réunion, un silence de Marc peut devenir dans sa tête un reproche dont elle ne connaît pourtant pas le contenu.
+- Elle peut commencer à défendre son travail avant de demander quel cas son collègue veut vérifier ; une remarque réellement humiliante resterait à traiter comme telle.
 
 ### 3. Fatigue cognitive sans symptômes évidents
 
 L'anxiété au travail peut discrètement épuiser l’attention. Sophie remarque que certaines tâches simples lui demandent plus d'effort intellectuel qu'avant : le suivi d'une réunion technique lui semble plus difficile, elle oublie des petites étapes de déploiement. Les signes concrets incluent :
-- difficulté à maintenir l'attention sur une tâche longue,
-- erreurs d'inattention sur des détails habituels,
-- impression d'avoir déjà anticipé trop de scénarios et d'être mentalement encombrée.
 
 Cette fatigue n'est pas toujours visible pour les collègues, car la personne continue souvent d'assurer ses responsabilités.
+
+Exemples concrets :
+
+- Sophie perd le fil d’une explication sur l’API pendant qu’elle prépare une réponse à une critique supposée.
+- Elle peut devoir revenir à sa liste de préparation de la démo après avoir consacré son attention aux scénarios de la réunion.
 
 ## 3 techniques pour gérer l'anxiété au travail
 

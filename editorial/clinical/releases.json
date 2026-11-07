@@ -460,6 +460,38 @@
       "sha256": "7d191416e7e3c51019e69b0f3ce61967e4140078ce5e29d0f3393f955e89ab3a",
       "dossier_sha256": "e885b7a3411972d7c3444459497379c63e1e5ab7acbfd9a013ce88eae096cf21",
       "review": "Relecture des scènes dans l’ordre, des sources et du rôle des proches. Les manifestations, les trois techniques, le dénouement et la conclusion suivent l’aspect de chaque épisode. La série relie notamment temps absorbé et obligations négligées, honte morale et perte de contrôle et choix possible malgré une envie présente."
+    },
+    "malo": {
+      "date": "2026-11-07",
+      "status": "editorially_reviewed",
+      "article_format": 2,
+      "sha256": "545f759294c44b813de50621ad455c45d3f7a49e1ecb78ead1643da72a5f9437",
+      "dossier_sha256": "bb30fe12bdf1d4a3cfebb22f15116bbdac7a066671302a63cb00e764f92abfc1",
+      "review": "Lecture séquentielle puis seconde relecture indépendante des douze épisodes contre le dossier : appel immédiat et relais effectif au premier, diagnostic au deuxième, distinction entre parole inaccessible et refus actuel, complications et récidive confiées au soin. Garde de la mallette, dépôt et dates de réexamen cohérents. Douze aspects du syndrome et du suivi, trame complète de Youssef."
+    },
+    "anatole": {
+      "date": "2026-11-07",
+      "status": "editorially_reviewed",
+      "article_format": 2,
+      "sha256": "62eac56ccefe3c2ce6fc46054264ea60c009398a44e12f7ce43409abfa302a88",
+      "dossier_sha256": "93ca0bb99eeef2e0ecf41a0d812874ccc096b200ca357ec9eb49a670a1ba89d0",
+      "review": "Lecture séquentielle puis seconde relecture indépendante contre le dossier : tics moteurs et phoniques, variabilité, sensations prémonitoires, suppression et suggestibilité sans test ni exercice de contrôle. Douleur nouvelle évaluée médicalement. Différentiels et limites du PNDS précisés. Matériel du musée, groupes et accords de travail cohérents ; trame complète de Youssef."
+    },
+    "mireille": {
+      "date": "2026-11-07",
+      "status": "editorially_reviewed",
+      "article_format": 2,
+      "sha256": "1c18088826b61691a2475cdb60acfb06952907b1f2bbaeb8b7322742a058853d",
+      "dossier_sha256": "162d92cff34813dd0979ab0162103573366d86e4571d765849bda5b85f1854ce",
+      "review": "Lecture séquentielle, explications réécrites pour éviter la répétition des intros, puis seconde relecture indépendante contre dossier. Déclin acquis et autonomie compensée distingués, bilan contextualisé, aucune cause ni évolution présumée. Carnet, copies choisies et rôle d’Alice cohérents. Douze aspects et trame complète de Youssef."
+    },
+    "doriane": {
+      "date": "2026-11-07",
+      "status": "editorially_reviewed",
+      "article_format": 2,
+      "sha256": "8c96455d8139f42662f3f5ae191730cf0f53e08da6d84849566ca275afb43f6c",
+      "dossier_sha256": "42b8b16a0685f1fa7f74d868f6b6bdafc028bd4be343a7641439341158514da4",
+      "review": "Lecture séquentielle puis seconde relecture indépendante contre dossier : catégorie DSM explicitement distinguée des dimensions CIM-11, désir de lien et réserve ordinaire respectés, mécanismes transversaux non présentés comme critères exclusifs. Préférences, désaccord et refus possibles ; aucune exposition imposée. Livre, horaire et salles cohérents. Douze aspects et trame complète de Youssef."
     }
   }
 }

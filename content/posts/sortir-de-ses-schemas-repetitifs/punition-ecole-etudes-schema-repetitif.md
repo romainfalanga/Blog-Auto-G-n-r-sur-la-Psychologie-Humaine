@@ -31,15 +31,21 @@ Une note renseigne sur un travail selon des critères donnés. Elle ne doit pas 
 
 ### La sanction par l'isolement social et le regard
 
-Thomas se rappelle des moments où il a vécu une remarque comme une mise à l’écart. Il ne sait pas si Julie vit cette situation de la même manière. Il lui demande ce qui l’a empêchée de rendre son travail.
+Thomas peut se rappeler une mise à l’écart lorsqu’il voit Julie attendre. Le souvenir lui appartient ; la posture de l’élève ne lui apprend pas ce qu’elle ressent. Il peut regarder comment sa manière de poser la question rend la situation plus ou moins exposée.
+
+Demander devant les autres pourquoi le devoir manque pourrait mêler la vérification à une mise en difficulté publique. Un commentaire général sur le sérieux de Julie pourrait aussi faire entendre un jugement sur sa personne au lieu de préciser ce qui est attendu. Ce sont deux risques possibles, pas la description de ce qu’il a déjà fait. Il peut demander les faits dans un échange adapté sans supposer qu’elle revit sa propre histoire.
 
 ### L'autosanction par le perfectionnisme excessif
 
-Après un résultat décevant, certaines personnes se privent de loisirs ou de repos. Thomas reconnaît que cela lui est arrivé. Le récit ne permet pas d’en déduire une cause générale liée à l’école ou à sa famille.
+Thomas reconnaît s’être parfois privé de repos après un résultat décevant. Ce comportement ne prouve pas une origine scolaire ou familiale unique et ne constitue pas une manière nécessaire de prendre ses responsabilités.
+
+Il pourrait renoncer à sa course du matin pour se punir d’une pile de copies non terminée, sans vérifier si cette heure changera réellement le problème. Il pourrait également reprendre toute une préparation de cours après une seule consigne mal comprise, au lieu d’identifier le passage à préciser. Ces deux réponses ajoutent du travail ou retirent du repos ; elles ne garantissent pas une correction plus pertinente.
 
 ### La punition comme outil de pouvoir et de contrôle
 
-Thomas s’aperçoit qu’il hésite entre ignorer le travail manquant et donner une note pour marquer le coup. Il peut examiner la situation avec Julie et appliquer le cadre prévu sans inventer une mesure.
+Thomas hésite entre laisser de côté le travail manquant et donner une note pour marquer son mécontentement. Il peut distinguer l’évaluation attendue, le fait à comprendre avec Julie et un éventuel problème de comportement à traiter dans le cadre prévu.
+
+Une note choisie pour « faire comprendre » son irritation confondrait la mesure du travail et la réaction disciplinaire. À l’inverse, promettre qu’aucun devoir ne sera à rendre uniquement pour éviter une discussion laisserait la question d’évaluation sans réponse. Ces deux raccourcis peuvent être remplacés par la vérification de la modalité applicable. Thomas n’a pas à inventer une pénalité ou une dispense pour obtenir immédiatement l’accord de l’élève.
 
 ## Techniques pour transformer le rapport à la punition
 
@@ -47,15 +53,33 @@ Face à la punition à l'école ou aux études, il est possible de sortir des au
 
 ### 1. Vérifier les règles d’évaluation applicables
 
-Thomas demande à Julie ce qui s’est passé, puis lui explique la modalité de remise ou de rattrapage prévue par le lycée. Il ne fixe pas une pénalité improvisée et garde les mêmes critères d’évaluation pour le travail.
+L’objectif est de connaître la réponse prévue pour ce travail manquant, plutôt que choisir entre sévérité et gentillesse comme deux traits personnels.
+
+1. Thomas demande à Julie ce qui a empêché la remise et relève les informations utiles, sans déduire une intention de sa posture.
+2. Il vérifie le projet d’évaluation de l’établissement et, s’il hésite, demande aux interlocuteurs compétents quelle modalité s’applique à ce devoir.
+3. Il explique à Julie la suite retenue, son délai et les critères du travail, puis vérifie qu’elle sait ce qu’elle doit rendre.
+
+Cette démarche peut rendre la règle compréhensible et l’appliquer au cas réel. Elle ne consiste pas à annoncer une note destinée à punir un comportement.
 
 ### 2. Remarquer le souvenir sans le confondre avec la scène
 
-Thomas peut reconnaître que la scène lui rappelle sa propre scolarité. Son malaise ne lui dit ni ce que Julie ressent ni ce que prévoit le règlement. Il peut demander un avis à un collègue s’il hésite.
+Thomas peut reconnaître son malaise sans utiliser Julie comme moyen de réparer sa propre scolarité. Le repère sert à revenir à sa fonction présente.
+
+1. Se dire brièvement : « Cette attente me rappelle quelque chose de ma scolarité », sans rechercher une scène ancienne ou la raconter à l’élève.
+2. Distinguer ce souvenir des faits connus aujourd’hui : un travail manque et Julie peut préciser sa situation. Le malaise n’est pas un test de ce qu’elle vit.
+3. Revenir à la question pédagogique et au cadre vérifié. Si l’hésitation reste forte, prendre un avis professionnel adapté avant de répondre plutôt que faire dépendre la décision de l’émotion.
+
+Cette séparation laisse le souvenir à sa place. Elle ne promet pas d’effacer la gêne et ne donne pas une explication générale des réactions de Thomas.
 
 ### 3. Clarifier la procédure avec l’équipe
 
-Thomas peut demander à Valérie : « Quelle modalité prévoit notre projet d’évaluation pour ce devoir ? » Si un problème de comportement distinct se pose, il en parle avec l’équipe selon le règlement intérieur, indépendamment de la note.
+Thomas peut faire préciser une règle qui ne doit pas reposer sur son interprétation isolée. La question concerne la pratique de l’établissement et les responsabilités de chacun.
+
+1. Préparer pour Valérie ou le responsable concerné la question précise : « Quelle modalité prévoit notre projet d’évaluation pour ce devoir non rendu ? »
+2. Relever la réponse et le document de référence, puis vérifier la différence avec une question distincte de comportement si elle se pose réellement.
+3. Transmettre à Julie la suite confirmée et prévoir avec l’équipe la manière de traiter le même type de situation, sans improviser une pénalité personnelle.
+
+L’échange harmonise les informations disponibles. Il ne remplace pas le projet d’évaluation ni le règlement intérieur, qui répondent à des questions différentes.
 
 ## Un délai, puis une note sur le travail rendu
 

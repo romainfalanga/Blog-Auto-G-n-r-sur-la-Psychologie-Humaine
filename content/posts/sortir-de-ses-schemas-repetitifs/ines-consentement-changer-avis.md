@@ -39,17 +39,23 @@ Inès se répète qu’elle commence le rapprochement. Dans son raisonnement, l�
 
 La distinction compte, car toutes les difficultés à dire non ne viennent pas du même endroit. Une règle intérieure peut se travailler dans un lien respectueux. Des pressions réelles exigent aussi une réponse tournée vers la sécurité. Si Clara insistait, menaçait de partir ou punissait systématiquement les refus, la solution ne consisterait pas à mieux formuler la phrase. Ici, elle s’arrête. Inès peut donc observer sa gêne sans devoir négocier la fin du geste.
 
+Le même raisonnement pourrait l’empêcher d’arrêter après avoir choisi la chambre ou commencé une étreinte : ces choix ne fixent pourtant pas l’accord pour la suite.
+
 ### Traiter la déception comme une faute personnelle
 
 Clara paraît surprise et demande si elle a fait quelque chose de désagréable. Inès entend aussitôt une accusation que la question ne contient pas forcément. Elle commence à répondre par une liste de compliments. Elle voudrait garantir que personne ne ressentira rien de pénible. Cette garantie lui demanderait de contrôler les émotions de deux personnes à la fois, tout en restant attentive à ce qu’elle veut elle-même.
 
 Une déception peut exister sans devenir une pression. Clara peut avoir envie d’autre chose et respecter l’arrêt. Inès peut reconnaître cette différence sans revenir sur sa décision. Ce qui compte se voit dans les comportements : le geste cesse, le refus n’entraîne pas de représailles, aucune nouvelle demande n’arrive pour user la résistance. L’absence de joie immédiate ne retire pas sa légitimité à la limite. La culpabilisation répétée, en revanche, mérite d’être prise au sérieux.
 
+Les compliments en réponse à la surprise de Clara et la promesse imaginée pour le lendemain peuvent toutes deux chercher à effacer sa déception avant qu’elle soit comprise.
+
 ### Remplacer une information claire par des indices
 
 Demander une couverture permet à Inès de gagner quelques secondes, mais ne transmet pas ce qu’elle veut. Clara peut légitimement croire qu’elle a froid. Si l’autre se fige, paraît absente ou si l’accord devient incertain, on arrête le geste et on vérifie si elle souhaite quelque chose. Les signes corporels n’ont pas un sens universel. En l’absence d’un accord libre et clair, on ne reprend pas.
 
 Inès n’est pas coupable d’hésiter ni obligée de parler parfaitement pour être respectée. Elle peut chercher une manière accessible de signaler l’arrêt. Un mot bref, une main écartée ou un geste convenu peuvent aider si parler devient difficile. L’important est que la partenaire accueille l’information et cesse, plutôt que d’exiger une explication complète avant d’entendre la limite. Les ajustements de communication soutiennent le droit de choisir ; ils ne le conditionnent pas.
+
+Après la demande de couverture, un sourire destiné à masquer sa gêne pourrait créer une autre ambiguïté ; il n’autoriserait pas Clara à poursuivre sans accord.
 
 ## Quand l’une veut s’arrêter
 

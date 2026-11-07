@@ -49,11 +49,15 @@ Cette habitude peut produire une double difficulté. Vincent se sent seul à gar
 
 Ils peuvent choisir une répartition différente selon les périodes. Un dossier peut rester à Cédric et un trajet être assuré par Vincent. Cette variété n’a pas besoin d’être parfaitement symétrique pour être respectueuse. Elle demande surtout que les tâches et les décisions soient visibles, discutables et ajustables lorsque les contraintes changent.
 
+Le premier appel concernant l’entrée le place peu à peu au centre des réponses ; son envie de vérifier le remboursement pourtant repris par Cédric montre le même rôle qui se prolonge au-delà de la tâche initiale. Dans ces deux dossiers, une initiative ne vaut pas mandat permanent.
+
 ### La fatigue se cache derrière des phrases rassurantes
 
 Quand Julie, sa sœur, demande comment ils vont, Vincent répond souvent qu’ils gèrent. La phrase contient une part de vérité : beaucoup de choses fonctionnent. Elle cache aussi les délais, les appels et les soirées passées à anticiper. Julie ne peut pas proposer une aide précise si elle ne sait pas qu’un besoin existe.
 
 Vincent craint qu’en parlant de sa fatigue, il donne de Cédric une image injuste. Il peut toutefois décrire son expérience et les obstacles sans divulguer sa vie privée ni lui attribuer des intentions. « Je passe beaucoup de temps à organiser les trajets » ne signifie pas « mon compagnon me demande trop ». La première phrase ouvre une discussion sur les appuis possibles ; la seconde risque de réduire toute la relation à une accusation.
+
+Avec Denis, l’expression « seulement un appel rapide » réduit de la même façon l’attente et la relance à un détail. Julie entend qu’ils gèrent ; Denis entend que l’appel est bref. Aucun ne voit encore la place cumulée que ces démarches prennent.
 
 ## Trois techniques pour rendre la charge discutable
 

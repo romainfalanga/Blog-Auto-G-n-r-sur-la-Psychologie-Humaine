@@ -31,15 +31,34 @@ Les questionnaires étudiés notamment par Fraley, Waller et Brennan décrivent 
 
 ## Comment se manifeste l'attachement anxieux-préoccupé en couple ?
 
-Dans le contexte du couple, l’attachement anxieux-préoccupé se traduit souvent par :
+Dans cette scène, trois formes de l’inquiétude sont visibles ; elles ne déterminent pas un style fixe.
 
-- Une recherche continue de signes d’amour et de présence de la part du partenaire.
-- Une hypervigilance aux moindres indices pouvant révéler un désintérêt ou une possible rupture.
-- Des réactions émotionnelles intenses face à la moindre distance, un retard de message, ou un silence.
-- Une tendance à interpréter négativement les comportements du partenaire, même neutres.
-- Un sentiment de dépendance affective qui peut générer des conflits répétitifs.
+### Chercher un signe de contact
 
-Dans l’histoire, Isabelle revient souvent à ses conversations pour se rassurer. Le soulagement éventuel peut être bref, et les attentes peuvent redevenir une source de tension. Les raisons de ces gestes varient selon la personne et la relation.
+Isabelle revient au téléphone pour obtenir un repère sur le lien. La question pratique qu’elle prépare peut aussi porter une attente de réassurance.
+
+Exemples concrets
+
+- Isabelle vérifie deux fois que les notifications ne sont pas coupées.
+- Elle envisage une question sur le lait dont elle attend surtout un signe de lien.
+
+### Lire les indices comme une réponse sur le lien
+
+Une phrase courte ou un bruit reçoit un poids important alors qu’Isabelle ignore encore la disponibilité d’Aurélie. L’interprétation reste à distinguer de l’information donnée.
+
+Exemples concrets
+
+- Elle cherche dans « à tout à l’heure » le ton qu’Aurélie avait le matin.
+- Le bruit d’une portière lui fait poser la main sur le téléphone retourné.
+
+### Rester dans l’attente d’une conversation
+
+Isabelle voudrait reprendre la dispute sans savoir quand Aurélie sera disponible. Cette attente occupe une partie de son attention dans le rangement puis la lecture.
+
+Exemples concrets
+
+- Isabelle interrompt le rangement pour laisser à Aurélie l’occasion de reprendre la dispute.
+- Elle relit le même paragraphe au coucher alors qu’une heure de conversation a été convenue.
 
 ### Quel rôle le passé et la relation actuelle peuvent-ils jouer ?
 
@@ -55,22 +74,52 @@ Si vous vous reconnaissez dans le vécu d’Isabelle, voici quelques pistes conc
 
 Si vous le souhaitez, accordez-vous un instant pour nommer ce que vous ressentez avant de décider s’il faut répondre. Vous pouvez garder une respiration ordinaire ou regarder autour de vous si l’attention au corps vous gêne.
 
+**Objectif :** Se donner un instant avant de décider de contacter.
+
+Exercice pratique
+
+- Nommez, si vous le souhaitez, l’inquiétude présente pendant les courses d’Aurélie.
+- Gardez une respiration ordinaire ou un repère visuel selon votre confort.
+- Décidez ensuite si une question concrète est nécessaire, sans exiger la disparition de l’émotion.
+
+**Utilité possible :** Le repère peut laisser un choix sans mesurer ni supprimer une « hyperactivation ».
+
 ### 2. Utiliser la communication ouverte et assertive
 
 Exprimer ses besoins sans agressivité ni accusation est essentiel. Plutôt que de reprocher l’absence de message, Isabelle a appris à dire à Aurélie : « Quand tu ne réponds pas, je me sens un peu inquiète, j’aimerais savoir que tout va bien. » Cette communication calme et claire favorise la compréhension mutuelle et diminue les malentendus.
+
+**Objectif :** Formuler le besoin de conversation de manière directe.
+
+Exercice pratique
+
+- Distinguez la dispute à reprendre de la question sur l’heure du retour.
+- Demandez à Aurélie un moment pour cette conversation.
+- Vérifiez l’horaire qu’elle propose en laissant une place à vos deux besoins.
+
+**Utilité possible :** Une demande précise peut clarifier l’attente ; elle ne garantit ni accord immédiat ni fin de l’inquiétude.
 
 ### 3. Construire un espace personnel rassurant
 
 L’indépendance affective ne signifie pas couper le lien, mais développer ses propres ressources : hobbies, activités sociales, moments de détente seule. Isabelle a commencé à pratiquer la marche en nature et la lecture, ce qui lui a permis de se recentrer sur elle-même et de ne plus dépendre exclusivement des signes d’attention d’Aurélie.
 
-### En parler quand le silence inquiète
+**Objectif :** Garder une activité personnelle pendant une attente réelle.
 
-Si les silences vous préoccupent, une pause, une demande concrète et des activités qui vous intéressent peuvent vous donner des options. Vous pouvez observer ce qui vous aide dans cette relation et à quels moments.
+Exercice pratique
 
-Si l’attente ou les conflits prennent une place difficile à supporter au quotidien, vous pouvez en parler avec un professionnel.
+- Choisissez une marche ou quelques pages que vous souhaitez pour vous.
+- Placez cette activité dans le temps d’attente sans en faire un test de détachement.
+- Réajustez-la si elle ne vous convient pas et gardez l’heure convenue pour reparler.
+
+**Utilité possible :** L’activité a sa valeur propre et peut soutenir l’attente sans devenir une obligation d’indépendance.
 
 ## Quand Aurélie revient
 
 Quand Aurélie revient, Isabelle l’aide à ranger les courses. Elle lui demande si elles peuvent reparler de leur dispute après le repas. Aurélie dit qu’elle préfère attendre le lendemain. Isabelle tend la main vers son téléphone, puis lui demande simplement si le lendemain soir lui convient.
 
 Plus tard, elle lit deux pages dans son lit et reprend le même paragraphe. La question lui revient. Au moins, elle a une heure pour en reparler.
+
+---
+
+Isabelle obtient un moment pour reprendre la discussion, sans obtenir la réponse immédiate qu’elle espérait. Cette demande concrète laisse à Aurélie le temps qu’elle souhaite et à Isabelle un repère pour le lendemain. Son inquiétude revient pendant la lecture : l’accord sur une heure ne règle pas toute la tension entre elles.
+
+Si l’attente ou les conflits prennent une place difficile à supporter au quotidien, vous pouvez en parler avec un professionnel.

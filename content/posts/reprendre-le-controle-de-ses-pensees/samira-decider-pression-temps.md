@@ -22,7 +22,6 @@ L’interlocutrice lui laisse un court délai pour rappeler. Samira note l’heu
 Sur un petit square, elle pose sa pochette entre elle et le dossier du banc. Une partie d’elle veut dire oui pour ne pas perdre la mission ; une autre veut refuser pour arrêter l’urgence. Aucune des deux réactions ne résume son choix. Elle peut essayer de vérifier une information décisive avant que la pression ne décide entièrement à sa place.
 
 ## Qu’est-ce que décider sous la pression du temps ?
-
 Décider sous la pression du temps consiste à choisir alors que le délai disponible paraît insuffisant pour examiner les informations et les conséquences importantes. La personne peut accélérer son raisonnement, simplifier les critères ou se concentrer sur certains risques. Ces adaptations ne sont pas toujours mauvaises ; leur utilité dépend de la tâche et des informations disponibles.
 
 Dans une recherche expérimentale, John Maule et ses collègues étudient comment un délai imposé modifie l’état émotionnel et les stratégies de décision dans des scénarios incertains. Leurs résultats varient selon les caractéristiques des choix proposés. Cela interdit de conclure que toute décision rapide est irrationnelle ou qu’une personne pressée prend nécessairement davantage de risques.
@@ -32,39 +31,53 @@ La situation de Samira comprend des contraintes que les scénarios de laboratoir
 L’objectif raisonnable n’est pas de produire le choix idéal en quelques minutes. Il consiste à identifier ce qui doit être vérifié, ce qui rend une option impraticable et ce qui peut rester incertain. Demander un délai peut aider lorsqu’il est possible. Lorsqu’il ne l’est pas, cette absence devient elle-même une donnée de la décision, pas un échec de préparation.
 
 ## Comment la pression du temps influence-t-elle les choix de Samira ?
-
 ### Le soulagement immédiat ressemble à une solution
-
 Dire oui arrêterait la crainte de perdre le revenu proposé. Dire non arrêterait la recherche de garde. Ces deux réponses peuvent procurer un soulagement rapide, alors que leurs conséquences se poursuivront après l’appel. Samira observe qu’elle est attirée par la fin de l’urgence autant que par chacune des options elles-mêmes.
 
 Cette observation ne suffit pas à choisir. Elle l’aide seulement à poser une question : qu’est-ce qui restera à organiser après ma réponse ? Si elle accepte sans relais confirmé, la garde devient une difficulté plus pressante encore. Si elle refuse sans vérifier une disponibilité possible, elle pourrait regretter d’avoir fermé une option qu’elle souhaitait examiner.
 
 Il ne faut pas transformer ce constat en obligation de tout vérifier. Un délai court limite réellement l’exploration. Samira doit sélectionner les informations les plus importantes et accepter qu’elle ne puisse pas connaître toutes les conséquences. Une décision adaptée aux données disponibles peut rester inconfortable et comporter un renoncement.
 
-### Une conséquence prend toute la place
+Exemples situés :
 
+- Dire oui à l'agence mettrait fin à la peur de perdre la mission tout en laissant une garde non confirmée.
+- Dire non immédiatement arrêterait les appels de garde, mais fermerait l'option avant une vérification que Samira souhaite encore faire.
+
+### Une conséquence prend toute la place
 Le mot « mission » évoque immédiatement un revenu qui manque. Samira risque alors de reléguer les horaires de Noé au rang de détail qui se résoudra bien. À d’autres moments, l’inquiétude pour son enfant occupe tout l’espace et rend le travail impossible à considérer. Les deux besoins restent pourtant légitimes et concrets.
 
 Mettre deux critères essentiels côte à côte ne les rend pas compatibles par magie. Cela évite de faire disparaître l’un pendant que l’autre parle plus fort. Samira peut reconnaître qu’elle souhaite travailler et qu’une garde sûre est nécessaire. Un refus lié à l’absence de garde ne devient pas un refus de travailler ; une envie d’accepter ne devient pas un manque d’attention à son fils.
 
 L’entourage peut aider sans imposer ses propres moyens comme norme. Une personne qui dispose d’un véhicule ou d’une famille proche n’évalue pas le même trajet. Les conseils rapides oublient parfois le coût du déplacement et le temps de récupération de l’enfant. Pour Samira, une option n’existe vraiment que si elle est matériellement praticable.
 
-### Des choix successifs finissent par se brouiller
+Exemples situés :
 
+- Le revenu annoncé peut lui faire traiter le déplacement de Noé comme un détail à régler après l'accord.
+- À l'inverse, penser au début de matinée sans garde peut lui faire écarter toute la proposition avant d'en connaître l'horaire exact.
+
+### Des choix successifs finissent par se brouiller
 La pression du délai tient au peu de temps accordé. La surcharge de décisions concerne aussi le nombre de choix successifs et leur dépendance : accepter la mission exige une garde, dont le lieu détermine le transport, lequel modifie l’heure de départ. Même avec un délai plus long, Samira devrait encore coordonner ces conditions. Sur le banc, elle recommence plusieurs comparaisons sans savoir laquelle tranche réellement la possibilité de travailler.
 
 Cette saturation devant les choix ne prouve pas qu’une réserve de volonté s’épuise automatiquement. Samira hiérarchise les conditions réelles : horaire confirmé, garde sûre, trajet faisable. Elle vérifie d’abord celle qui peut rendre l’ensemble impossible. Elle peut alors laisser de côté des variantes secondaires et demander une information précise, sans prétendre que cette simplification crée un relais absent.
 
-### Le résultat futur devient le juge du choix présent
+Exemples situés :
 
+- Une réponse de Jeanne sur un créneau oblige Samira à vérifier le transport avant de savoir si ce relais couvre vraiment la mission.
+- Comparer deux trajets secondaires ne l'aide pas si aucun adulte n'a encore confirmé la garde du début de journée.
+
+### Le résultat futur devient le juge du choix présent
 Samira imagine déjà se reprocher sa réponse. Si elle refuse, elle pense qu’elle aurait pu trouver une solution. Si elle accepte, elle craint de se découvrir piégée par un horaire imprécis. Elle tente de garantir dès maintenant qu’elle ne regrettera rien, ce qui rend le délai encore plus oppressant.
 
 Or les événements futurs peuvent apporter des informations impossibles à connaître aujourd’hui. Une personne peut se rendre disponible après le délai, une mission peut changer ou un autre besoin peut apparaître. Ces faits modifieraient la situation, mais ne prouveraient pas que Samira décide mal avec les éléments actuels. Le choix mérite d’être évalué dans son contexte de départ.
 
 Cette prudence ne signifie pas qu’aucune leçon n’est possible. Elle permet de rechercher une amélioration précise plutôt qu’une condamnation générale. Pour une prochaine proposition, Samira pourra peut-être préparer un contact de garde ou demander plus tôt certaines précisions. Elle ne pourra pas supprimer seule les offres faites au dernier moment.
 
-## 3 techniques pour choisir avec les informations disponibles
+Exemples situés :
 
+- Après le délai de réponse, une disponibilité nouvelle de Mireille ne prouverait pas qu'elle existait au moment de choisir.
+- Voir une autre mère utiliser une garde familiale ne démontre pas que Samira pouvait organiser le même relais ce samedi.
+
+## 3 techniques pour choisir avec les informations disponibles
 ### 1. Fixer deux conditions essentielles
 
 Nommez les éléments sans lesquels une option n’est pas praticable. Samira retient un horaire suffisamment précis et un adulte de confiance réellement disponible pour Noé. Elle ne dresse pas une liste de tous ses souhaits. Les conditions essentielles servent à distinguer une possibilité réelle d’une réponse donnée dans l’espoir que tout s’arrange ensuite.
@@ -90,7 +103,6 @@ Si un regret apparaît, comparez-le à ces données plutôt qu’à une version 
 On peut aussi partager le choix avec une personne respectueuse, en précisant que l’on souhaite être écouté plutôt que jugé. Cette présence peut aider à supporter un renoncement. Elle n’a pas pour fonction de certifier que tout se passera bien. Certaines décisions restent difficiles parce qu’elles opposent des besoins importants dans une marge insuffisante.
 
 ## Samira rappelle avant de repartir
-
 Mireille ne peut pas accueillir Noé ce samedi. Jeanne propose un créneau qui ne couvre pas le début de mission. Samira apprécie leurs réponses claires, même si elles ne résolvent rien. Elle rappelle l’agence et demande si un autre horaire est envisageable. La proposition concerne précisément l’ouverture du magasin ; aucune adaptation n’est possible aujourd’hui.
 
 Elle refuse donc la mission en expliquant la contrainte de garde, sans raconter tout son budget. La déception reste vive. Le revenu aurait compté. Elle n’essaie pas de transformer le refus en victoire ni d’affirmer qu’une meilleure occasion arrivera forcément. Elle indique simplement les créneaux qu’elle peut confirmer pour les prochaines propositions.

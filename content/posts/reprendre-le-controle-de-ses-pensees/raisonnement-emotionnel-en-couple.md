@@ -29,41 +29,55 @@ Une émotion renseigne sur ce qu'on vit et mérite d'être écoutée. Pour savoi
 
 ## Manifestations du raisonnement émotionnel dans le couple
 
-### 1. Interpréter un silence comme une condamnation
+### 1. Une émotion donne l’impression de connaître le sens d’un signe
 
-Dans la vie de Hugo, un silence de Chloé n'est pas une pause mais une sentence. Par exemple, si elle met quelques heures pour répondre à un message après son service au bar, Hugo en conclut qu'elle s'éloigne. De même, lors d'un concert qu'ils jouent ensemble, un regard distrait est lu comme un désamour définitif.
+Hugo peut éprouver une peur très convaincante sans connaître encore ce que Chloé veut lui dire. L’émotion mérite d’être prise au sérieux ; elle ne contient pas à elle seule la réponse de l’autre.
 
-Ce phénomène est typique du raisonnement émotionnel en couple : l'émotion, qu'il s'agisse de peur, de colère ou de tristesse, se transforme en preuve. Le partenaire devient le juge sans audience.
+Un délai de réponse après son service peut lui faire conclure qu’elle s’éloigne. Un regard ailleurs pendant une répétition peut lui sembler annoncer le même rejet. Le délai et le regard sont observables ; le sens qu’il leur donne demande d’autres éléments.
 
-### 2. Transformer une inquiétude en certitude catastrophique
+### 2. L’inquiétude prend la forme d’un scénario certain
 
-Hugo a tendance à transformer une peur en scénario extrême. Un doute mineur devient une rupture imminente. Une dispute sur la répartition des tâches domestiques se change en "elle va me quitter", tandis qu'une remarque maladroite sur une chanson devient la confirmation d'un désintérêt pour sa carrière.
+Hugo ne reste pas seulement sur « cela m’inquiète ». Il imagine une issue entière et commence à y répondre. Plus la peur lui paraît forte, plus il risque de tenir cette issue pour établie.
 
-Ici, la logique n'est pas factuelle mais affective : l'intensité du ressenti sert de mesure de la réalité, ce qui alimente des comportements impulsifs comme des ruptures ou des déclarations dramatiques.
+Devant « On doit parler », il pense « c’est fini » sans connaître le sujet. Au souvenir de la scène du bar, il pourrait aussi traiter son malaise devant le rire de Chloé comme la preuve qu’elle veut l’écarter. Une phrase courte et un rire ambigu ne suffisent pas à établir ces deux conclusions.
 
-### 3. Lire dans les pensées et projeter des intentions
+### 3. Une intention supposée s’ajoute au ressenti
 
-Hugo glisse parfois de « je me sens mis à distance » à « elle cherche à me faire partir ». Prêter cette intention ajoute une seconde hypothèse, différente du ressenti lui-même.
+Prêter une intention à Chloé est une hypothèse supplémentaire. Se sentir mis à distance ne permet pas de savoir si elle cherche à le blesser. Une parole ou un comportement réellement blessant peut toutefois être nommé sans attendre de deviner son intention.
+
+Hugo peut lire « On doit parler » comme une façon de lui annoncer volontairement le pire. Il peut aussi croire qu’un silence est destiné à le faire insister. Ces deux explications ajoutent un projet de Chloé qu’il n’a pas entendu de sa bouche.
 
 ## Techniques pour apaiser le raisonnement émotionnel
 
-### 1. Interroger les preuves par le questionnement socratique
+### 1. Interroger les éléments qui soutiennent la conclusion
 
-L'objectif est de distinguer ce que vous ressentez de ce qui est objectivement observable. Quand une pensée surgit, comme "Elle ne m'aime plus", écrivez-la en haut d'une page. Listez ensuite les preuves pour cette pensée (faits observables) et les preuves contre (éléments contraires).
+Hugo veut distinguer le message reçu, la peur et ce qu’il en déduit, sans se convaincre que tout va bien.
 
-Hugo peut noter ce qu'il observe, ce qu'il ressent et ce qu'il en conclut. Il peut ensuite se demander ce qui appuie sa lecture, ce qui la contredit et ce qui reste inconnu.
+1. Recopier les mots exacts de Chloé et écrire à part « je crains qu’elle veuille rompre ».
+2. Noter les faits qui soutiennent ou nuancent cette lecture, en laissant une place aux limites ou engagements réellement répétés.
+3. Écrire l’information qui manque : le sujet de la conversation ; choisir si une question sur ce point lui serait utile.
 
-### 2. Utiliser le journal en double colonne
+La note peut montrer où une conclusion dépasse les données. Elle ne promet pas que la réponse sera rassurante.
 
-Cette technique de la TCC permet d'externaliser le raisonnement émotionnel pour le rendre examinable. Tracez une colonne "Pensée automatique" et une colonne "Interprétation alternative". Inscrivez la pensée automatique immédiatement après l'événement.
+### 2. Garder plusieurs lectures sans leur donner le statut de faits
 
-Dans la colonne alternative, écrivez au moins deux interprétations plausibles mais moins catastrophiques. Ajoutez une colonne "Plan d'action" avec une étape concrète pour vérifier l'interprétation, par exemple demander un rendez-vous pour parler ou proposer un horaire précis. Hugo écrit "Elle veut rompre" puis note des alternatives : "Elle veut clarifier quelque chose" ou "Elle est stressée par un concert". Son plan consiste à envoyer un message calme proposant un moment pour échanger de vive voix.
+Le journal sert à éviter qu’un scénario soit le seul disponible, pas à produire des certitudes positives.
 
-### 3. Pratiquer l'expérimentation comportementale
+1. Dans une première colonne, inscrire la conclusion automatique : « elle veut rompre ».
+2. Dans une deuxième, noter une autre possibilité, comme un point de répétition à discuter, et la marquer comme hypothèse encore inconnue.
+3. Dans une dernière, choisir ce qui peut attendre et ce qui demande une précision concrète, puis refermer la note plutôt que multiplier les scénarios.
 
-Si les deux personnes veulent parler et que le cadre s'y prête, Hugo peut poser une question précise à Chloé : « Quand tu as dit que tu voulais de l'espace, qu'est-ce que tu voulais dire ? » Il peut entendre sa réponse sans insister pour la faire changer.
+Ce support peut séparer les possibilités de ce qui est confirmé. Hugo peut aussi conserver « je ne sais pas » sans trouver deux alternatives qui le convainquent.
 
-Engagez l'action en observant seulement ce qui est dit et fait, sans ajouter d'interprétations. Notez le résultat et comparez-le à l'hypothèse initiale. Au lieu d'envoyer un message accusateur, Hugo choisit d'écrire : "J'ai vu ton message, je suis disponible pour parler. Je veux t'écouter." Il teste ainsi si la réponse confirme son scénario ou non.
+### 3. Demander une précision en respectant la réponse
+
+L’objectif est une clarification ordinaire si Chloé souhaite échanger, sans mise à l’épreuve de son affection.
+
+1. Préparer une question sur le message présent, par exemple demander de quoi elle souhaite parler en disant qu’il s’est inquiété.
+2. Envoyer cette seule demande si elle entre dans les limites de contact convenues, puis lui laisser sa disponibilité pour répondre.
+3. Lire ce qu’elle dit effectivement et choisir une suite proportionnée : convenir de la répétition, demander une précision utile ou respecter un refus de poursuivre.
+
+Cette démarche peut rendre le sujet plus clair. Elle ne donne pas droit à une réassurance immédiate ni à des relances répétées.
 
 ## Ce qu’elle voulait lui dire
 

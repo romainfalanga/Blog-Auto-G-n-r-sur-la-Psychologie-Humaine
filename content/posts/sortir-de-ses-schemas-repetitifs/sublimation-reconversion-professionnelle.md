@@ -31,59 +31,53 @@ Ce que Thomas peut observer, c’est son goût pour la relecture et sa difficult
 
 ### 1. Canaliser le besoin de sauver en projet créatif
 
-La personne convertit son désir d'aider tout le monde en un travail utile qui a du sens, mais parfois en continuant à chercher la validation externe. Par exemple, Thomas passe des soirées à corriger des manuscrits gratuits pour des auteurs qu'il a rencontrés en ligne, convaincu que c'est la voie la plus rapide pour entrer dans l'édition. Ce comportement lui donne une satisfaction immédiate, des remerciements, des retours positifs, mais il peut masquer la peur de demander rémunération ou d'affirmer sa valeur.
+Un projet créatif peut intéresser Thomas et reprendre des tâches d’aide qu’il connaît déjà. Observer le travail offert et son coût est possible ; conclure à une transformation d’impulsions par sublimation ne l’est pas à partir de ces seuls gestes.
 
-Exemple pratique : Philippe, ancien infirmier en reconversion vers la communication, accepte de monter bénévolement une newsletter d'association pour se sentir utile, mais finit par négliger ses propres candidatures payantes.
+Thomas peut passer une soirée à relire gratuitement un manuscrit en espérant apprendre, puis découvrir qu’il n’a pas gardé le temps prévu pour sa candidature. Dans un autre exemple illustratif, Philippe, ancien infirmier en reconversion vers la communication, peut accepter la newsletter d’une association sans préciser le temps disponible. Les deux situations demandent d’examiner l’accord et la place du projet professionnel, sans déduire une peur cachée de demander une rémunération.
 
 ### 2. Réutiliser l'hyper-responsabilité comme stratégie d'apprentissage
 
-Thomas suit des formations et prépare son dossier. Quand il renonce au sommeil pour le perfectionner, il peut revoir son échéance et ses priorités. Le temps qu’il consacre au dossier ne prouve pas une sublimation.
+Préparer un dossier demande un travail réel. La question pour Thomas est ce qu’il choisit de faire, ce qu’il peut tenir et ce qui reste à apprendre avec un retour. Le temps consacré n’est pas une preuve de sublimation ni de qualité professionnelle.
 
-Exemple pratique : Clara, ex-enseignante en reconversion, réalise un portfolio détaillé et reçoit des compliments, pourtant elle continue à craindre que tout s'effondre si elle pose une limite sur son temps.
+Thomas peut prolonger une correction tard dans la nuit pour retoucher une page déjà lisible, sans avoir demandé quel type d’annotation l’atelier attend. Clara, enseignante en reconversion dans l’exemple, peut recevoir des compliments sur un portfolio et pourtant continuer à craindre de refuser une nouvelle demande. La retouche du document et l’extension des engagements sont deux points différents où préciser les critères et les limites.
 
 ### 3. Détournement des émotions en activités sociales et culturelles valorisées
 
-Thomas envisage un club d’écriture. Ce projet peut l’intéresser ou l’épuiser selon les conditions et le temps qu’il y consacre. Il ne suffit pas à savoir ce qui motive l’activité.
+Une activité culturelle peut donner à Thomas une occasion d’apprendre ou de rencontrer des personnes. Elle peut aussi devenir trop lourde selon le format retenu. Il n’est pas nécessaire de lui attribuer une fonction inconsciente pour examiner ces conditions.
 
-Exemple pratique : un collègue organise des ateliers de bénévolat littéraire pour compenser un sentiment d'inutilité, ce qui l'aide à reprendre confiance mais n'annule pas la nécessité d'aborder son burn-out avec un professionnel.
+À la librairie, venir une fois à l’atelier et proposer aussitôt de l’organiser n’engagent pas la même responsabilité. Pour un collègue qui envisage du bénévolat littéraire, participer à une séance et porter toute la programmation sont également deux offres différentes. Le plaisir de l’activité ne démontre pas un traitement de l’épuisement ; si celui-ci persiste, un avis adapté reste nécessaire.
 
 ## Techniques pour canaliser la sublimation
 
 ### 1. Regarder ce qui compte dans chaque activité
 
-Le but est de clarifier si une action relève d'une vraie aspiration professionnelle ou d'une ancienne compulsion à plaire.
+Thomas cherche ses raisons et les moyens du projet sans distinguer une « vraie aspiration » d’une compulsion supposée. Plusieurs motivations peuvent coexister et le carnet ne permet pas d’identifier une défense inconsciente.
 
-Exercice concret :
-1. Prenez un carnet dédié à votre reconversion. Listez trois activités que vous faites régulièrement pour votre projet (par exemple : corriger des manuscrits, suivre des cours, réseauter).
-2. Pour chacune, répondez en une phrase aux deux questions suivantes : "Pourquoi je fais cela ?" et "Qu'est-ce que je recevrais si j'arrêtais ?" Plusieurs motifs peuvent coexister. Un projet peut lui plaire même s’il craint aussi de décevoir. Ce carnet ne permet pas de reconnaître une compulsion.
-3. Établissez une règle simple : conservez deux actions clairement liées à vos objectifs professionnels, mettez en pause les autres pendant une semaine et notez votre ressenti.
+1. Choisir une action actuelle, comme annoter la page apportée à la librairie, et décrire ce qu’elle demande concrètement.
+2. Noter ce qu’il souhaite y trouver : apprendre une manière de lire, recevoir un retour ou aider l’atelier. Distinguer ces souhaits du résultat qu’il connaît déjà.
+3. Décider de poursuivre, de demander les attentes ou de mettre cette action en pause selon le temps et l’énergie disponibles. Il n’a pas à conserver un quota d’activités pendant une durée imposée.
 
-Durée : 20 à 30 minutes, à répéter une fois par semaine.
+Cette note peut préciser sa prochaine question. Elle ne donne pas la cause de son intérêt et ne promet pas de départager définitivement toutes ses motivations.
 
 ### 2. Redirection créative encadrée : transformer sans s'effacer
 
-L'objectif est d'utiliser la pulsion d'aider pour créer une offre limitée et réciproque, qui respecte vos limites.
+L’objectif est d’essayer une activité éditoriale dont les conditions sont connues, sans demander à Thomas de transformer toute sa fatigue en travail. Le mot redirection décrit ici un choix d’activité, pas une intervention sur une pulsion.
 
-Exercice concret :
-1. Définissez un micro-projet lié à l'édition qui a un début et une fin (par exemple : proposer un atelier de relecture payant pour cinq participants, ou éditer un dossier de trois nouvelles en échange d'une rétribution symbolique).
-2. Écrivez un contrat simple pour vous-même : objectifs, durée, prix ou échange, nombre maximal d’heures par semaine. Engagez-vous à respecter ce cadre.
-3. Testez le projet pendant un mois. À la fin, évaluez si vous l'avez vécu comme une expression de votre intérêt ou comme une répétition du schéma du sauveur.
+1. Demander à la libraire ce que comporte une première participation à l’atelier, le temps prévu et le retour possible sur sa page.
+2. Choisir un périmètre qu’il souhaite réellement essayer, avec les règles pratiques et les éventuelles conditions financières clairement annoncées. Participer ne signifie pas organiser aussitôt un service pour les autres.
+3. Après cet essai, regarder l’intérêt, la charge et les questions restantes avant d’envisager une suite ou un autre format. Il peut décider d’arrêter sans traiter l’essai comme perdu.
 
-Durée : micro-projet de 1 mois, évaluation toutes les deux semaines.
+Le cadre fournit des informations sur une activité. Il n’en fait pas un traitement de l’épuisement et ne garantit pas une entrée dans le métier.
 
-### 3. Technique de mise à l'épreuve des limites : dire non avec une alternative
+### 3. Préparer une réponse délimitée
 
-Il s'agit d'exercer la pose de limites tout en proposant une solution constructive, pour réduire la fuite dans l'action.
+Thomas peut préparer une réponse à une demande de relecture, sans devoir proposer une compensation pour avoir le droit de refuser. L’alternative reste une option choisie.
 
-Exercice concret :
-1. Imaginez une situation type où vous auriez tendance à dire oui automatique (par exemple un auteur vous demande une relecture gratuite). Écrivez trois réponses possibles :
-   - Une réponse de refus net.
-   - Une réponse de refus suivie d'une proposition alternative (par exemple proposer une réduction, un délai, une rencontre payante ou un groupe d'entraide).
-   - Une réponse différée (demander du temps pour décider).
-2. Entraînez-vous à prononcer ces réponses à voix haute, puis testez-les en situation réelle, en commençant par la moins menaçante (un message sur un forum, un échange par e-mail).
-3. Notez la réaction de l'autre et votre ressenti. Vous pouvez essayer une réponse quand la situation s’y prête. L’inconfort peut rester présent.
+1. Relever la demande exacte : texte concerné, délai et retour attendu. Marquer ce qui reste à préciser avant d’accepter.
+2. Choisir une réponse : refus, délai de décision ou proposition réellement limitée. Il peut l’essayer une fois à voix haute s’il souhaite avoir les mots disponibles.
+3. La transmettre quand la situation se présente, entendre la réponse et maintenir le périmètre annoncé. Un mécontentement ne l’oblige pas à relire davantage ; une nouvelle information peut justifier une discussion.
 
-Durée : sessions de 10 minutes, pratique progressive.
+Cette préparation rend l’accord plus lisible. Elle n’est ni un programme d’exposition graduée ni une garantie d’accueil favorable, et ne fixe pas de séance obligatoire de dix minutes.
 
 ## Venir une fois pour voir
 

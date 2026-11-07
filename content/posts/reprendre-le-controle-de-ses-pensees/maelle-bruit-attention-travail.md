@@ -41,6 +41,8 @@ Elle a tendance à acquiescer trop tôt pour ne pas ralentir le groupe. Le signe
 
 La vérification qu'elles effectuent aujourd'hui montre un contre-exemple utile. Demander de répéter ne dégrade pas automatiquement la coopération. Cela peut au contraire éviter un malentendu. La gêne de paraître lente dure quelques instants ; une action effectuée sur une instruction supposée peut avoir des conséquences bien plus importantes.
 
+Une indication de caisse concurrente d’un voyant et une fin de consigne masquée par le bruit posent deux problèmes distincts : choisir l’information prioritaire et comprendre ce qui est réellement dit.
+
 ### L'accumulation devient invisible à force d'habitude
 
 Maëlle distingue mal le moment où sa concentration commence à lui coûter davantage. Elle connaît si bien les sons du poste qu'elle ne les cite plus lorsqu'on lui demande ce qui la fatigue. Elle parle de son manque de sommeil, puis s'arrête là. L'environnement disparaît de sa description précisément parce qu'il est permanent.
@@ -56,6 +58,8 @@ Après un échange mal compris, Maëlle repasse la scène : Claire la pense-t-el
 Elle peut examiner cette histoire sans nier le malentendu. Oui, elle n'entend pas une consigne. Non, cela ne prouve pas qu'elle est devenue incapable. Elle dispose même d'un indice opposé : elle vérifie avant d'agir. Sa vigilance comprend cette capacité à reconnaître une incertitude, pas seulement la rapidité avec laquelle elle répond.
 
 Cette distinction ne sert pas à banaliser les erreurs ou à dissimuler les incidents. Lorsqu'un événement doit être signalé, il mérite de l'être selon les procédures prévues. Une description factuelle protège davantage le collectif qu'un récit centré sur la honte ou qu'une tentative de faire oublier ce qui arrive.
+
+Après s’être demandé ce que Claire pense, Maëlle pourrait aussi repasser son erreur supposée pendant la transmission suivante ; le jugement ajouterait alors une tâche à l’écoute présente.
 
 ## De la consigne entendue à la consigne vérifiée
 

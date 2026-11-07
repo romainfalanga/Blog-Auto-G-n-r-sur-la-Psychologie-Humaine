@@ -33,13 +33,28 @@ Face à une décision importante, ce biais agit comme un filtre déformant qui n
 
 Dans le cadre d'un changement de carrière, nous avons tendance à croire qu'il faut posséder tous les traits de caractère du stéréotype lié à la profession visée. Youssef pense que son introversion est un frein pour le conseil, car il compare sa personnalité au prototype du consultant extraverti qu'il a croisé durant sa carrière d'ingénieur. Il oublie que l'expertise et la loyauté, deux de ses traits dominants, sont des atouts majeurs dans ce secteur. Le cerveau fait un lien erroné : si je ne ressemble pas à l'image du consultant, alors je ne peux pas être un bon consultant.
 
+Deux exemples dans cet épisode :
+
+- Devant la terrasse, Youssef compare son introversion à l’assurance apparente des personnes en sweat avant de connaître leur activité.
+- Il pourrait rejeter une mission de conseil parce qu’il n’imagine pas la présenter comme les inconnus du café, sans examiner le travail demandé.
+
 ### 2. L'oubli des probabilités réelles
 
 Le biais de représentativité nous fait souvent ignorer les faits concrets au profit d'anecdotes frappantes. Par exemple, une personne peut refuser d'investir dans une entreprise innovante parce que son créateur ressemble à un ami qui a échoué par le passé. Ici, la décision n'est pas basée sur le business plan, mais sur une ressemblance physique ou comportementale superficielle. On accorde plus d'importance à une image mentale familière qu'aux informations concrètes qui pourraient aider à évaluer le projet.
 
+Deux exemples dans cet épisode :
+
+- La présence d’ordinateurs et d’autocollants pourrait lui sembler annoncer la réussite d’une entreprise dont il ne connaît ni les clients ni les résultats.
+- Il pourrait accepter une donnée générale sur les entreprises sans vérifier si elle concerne le même métier, la même période ou le même groupe de référence.
+
 ### 3. Le poids des héritages familiaux et culturels
 
 Youssef associe la réussite au souvenir de son père, Hamid : un bureau, des horaires fixes, une hiérarchie stable. Le conseil indépendant ressemble peu à cette image. Il interprète ce manque de ressemblance comme un signal de danger. C'est une manifestation du biais qui utilise le passé familial comme unique grille de lecture pour valider ou invalider une décision présente. Cette erreur se distingue de l’ancrage sur un salaire : ici, c’est la ressemblance avec une image de la réussite qui guide son jugement.
+
+Deux exemples dans cet épisode :
+
+- Le message d’une banque paraît rassurant parce qu’il rappelle le cadre professionnel de Hamid, avant même d’en connaître les conditions.
+- Le conseil indépendant lui semble risqué parce qu’il ressemble peu au bureau paternel, indépendamment des missions ou ressources à vérifier.
 
 ## Techniques pour agir face au biais de représentativité
 
@@ -47,15 +62,39 @@ Voici trois façons de vérifier ce qu'un exemple permet de conclure et quelles 
 
 ### 1. La déconstruction du prototype
 
-Cette technique consiste à lister toutes les caractéristiques que vous associez à une situation ou à un métier, puis à les confronter à la réalité. Prenez une feuille et dessinez deux colonnes. Dans la première, inscrivez les traits du stéréotype, par exemple l'idée qu'un consultant doit être un grand orateur. Dans la seconde, cherchez des contre-exemples réels ou des compétences alternatives qui mènent au même résultat. Pour Youssef, cela signifie réaliser qu'un consultant peut aussi réussir par la précision de ses rapports écrits et la pertinence de ses analyses techniques, des domaines où il excelle. Cet exercice permet de casser l'image mentale rigide qui bloque la décision.
+Cette technique consiste à lister toutes les caractéristiques que vous associez à une situation ou à un métier, puis à les confronter à la réalité. Prenez une feuille et dessinez deux colonnes. Dans la première, inscrivez les traits du stéréotype, par exemple l'idée qu'un consultant doit être un grand orateur. Dans la seconde, cherchez des contre-exemples réels ou des compétences alternatives qui mènent au même résultat. Pour Youssef, cela signifie réaliser qu'un consultant peut aussi réussir par la précision de ses rapports écrits et la pertinence de ses analyses techniques, des domaines où il excelle. Cet exercice sert à examiner ce qui vient d’une image et ce qui concerne effectivement le travail.
+
+Objectif de cet essai : Distinguer une image du métier et les tâches qu’il demande.
+
+1. Écrivez les traits associés à votre image du consultant, comme l’aisance orale supposée.
+2. Séparez les apparences des compétences qui pourraient concerner une mission réelle.
+3. Demandez à la personne dont vous avez lu le rapport comment s’est déroulée une mission, sans traiter son seul parcours comme une preuve générale.
+
+Utilité possible : La distinction transforme le stéréotype en questions de métier sans garantir la viabilité du projet.
 
 ### 2. L'analyse des fréquences de base
 
-Au lieu de se demander si une option ressemble à un succès connu, il s'agit de regarder les chiffres. Posez-vous la question suivante : quelles données concernent une activité suffisamment proche de celle que j’envisage, et que laissent-elles dans l’ombre ? Si l'on prend le cas d'une reconversion, au lieu de se focaliser sur l'apparence des autres entrepreneurs, on étudie le taux de survie des entreprises dans le secteur visé et les compétences réelles demandées. En ramenant la réflexion sur le terrain des faits et des probabilités, on court-circuite le biais de représentativité qui préfère les histoires aux statistiques. C'est une méthode efficace pour les profils comme Youssef qui ont besoin de s'appuyer sur des données concrètes.
+Au lieu de se demander si une option ressemble à un succès connu, il s'agit de regarder les chiffres. Posez-vous la question suivante : quelles données concernent une activité suffisamment proche de celle que j’envisage, et que laissent-elles dans l’ombre ? Si l'on prend le cas d'une reconversion, au lieu de se focaliser sur l'apparence des autres entrepreneurs, on étudie le taux de survie des entreprises dans le secteur visé et les compétences réelles demandées. Les données méritent elles aussi un examen de leur provenance et de leur pertinence ; un chiffre sans groupe comparable ne remplace pas une image par une estimation fiable.
+
+Objectif de cet essai : Examiner des données comparables en gardant leurs limites.
+
+1. Formulez la question à éclairer avant de chercher un chiffre.
+2. Vérifiez le groupe de référence, la période et la définition du résultat dans une donnée pertinente, si elle est disponible.
+3. Notez ce que la donnée laisse inconnu et confrontez-la aux conditions concrètes du projet ; n’inventez pas de taux si vous n’en trouvez pas.
+
+Utilité possible : Une donnée correctement située complète l’examen ; elle ne prédit pas l’issue individuelle.
 
 ### 3. La technique du regard extérieur neutre
 
-Imaginez que vous conseillez un ami qui a exactement les mêmes compétences et le même projet que vous. Ce changement de point de vue peut l’aider à poser des critères concrets. En déplaçant le problème sur une tierce personne fictive, comme un ancien collègue, vous gagnez en objectivité. Est-ce que vous diriez à cet ami qu'il va échouer simplement parce qu'il ne porte pas de sweat à capuche ou qu'il est introverti ? Probablement pas. Vous analyseriez ses diplômes, son expérience et sa motivation. Cette mise à distance aide à voir que les critères de ressemblance sont souvent superficiels et non prédictifs de la réussite.
+Imaginez que vous conseillez un ami qui a exactement les mêmes compétences et le même projet que vous. Ce changement de point de vue peut l’aider à poser des critères concrets. En décrivant le projet comme celui d’un pair, vous pouvez rendre plus visibles les critères que vous utilisez. Est-ce que vous diriez à cet ami qu'il va échouer simplement parce qu'il ne porte pas de sweat à capuche ou qu'il est introverti ? Probablement pas. Vous analyseriez ses diplômes, son expérience et sa motivation. Cette mise à distance permet de demander ce que chaque critère apporte réellement à l’évaluation, sans prédire la réussite.
+
+Objectif de cet essai : Appliquer à son projet des critères que l’on demanderait aussi à un pair.
+
+1. Décrivez le projet et les compétences de Youssef sans tenue ni apparence.
+2. Écrivez les informations que vous demanderiez à un pair avant de juger la faisabilité.
+3. Reprenez une de ces questions pour votre propre projet, en gardant ouverte la réponse.
+
+Utilité possible : Ce changement de point de vue rend les critères explicites sans rendre le jugement parfaitement neutre.
 
 ## Demander à quoi ressemble une mission
 

@@ -39,17 +39,23 @@ Il faut distinguer le jugement imaginé et les conduites qui donnent de vraies r
 
 L’humour n’est pas le problème en soi. Elles peuvent rire ensemble et garder une parole importante. La question est de savoir si Inès choisit le ton ou l’utilise pour rendre sa préférence révocable avant toute réponse. Elle remarque que la plaisanterie apparaît surtout lorsqu’elle espère quelque chose de Clara. Elle peut essayer de la reporter après la phrase principale, en laissant d’abord quelques secondes pour que celle-ci existe.
 
+Froisser la carte avant de la montrer et présenter la même demande comme une blague sont deux façons de retirer sa portée avant que Clara puisse répondre.
+
 ### Imaginer une règle commune sur ce qui devrait plaire
 
 Inès suppose qu’une personne autonome ne devrait pas demander des mots d’affection. Cette règle lui paraît cohérente avec le travail qu’elle fait pour garder ses limites et son espace privé. Pourtant, l’autonomie ne l’oblige pas à n’avoir aucun besoin relationnel. Elle peut choisir une proximité et aimer certains signes d’attention, tout en restant libre de refuser d’autres gestes. Les dimensions de son expérience ne s’annulent pas.
 
 Clara peut préférer montrer son affection par des actions. Cette différence ne tranche pas la question de savoir qui exprime l’amour correctement. Elles peuvent chercher ce que chaque geste signifie et ce que chacune peut offrir sincèrement. Inès ne doit pas abandonner sa préférence pour correspondre à un idéal de détachement. Clara ne doit pas non plus adopter une parole qui lui semblerait artificielle pour réussir une épreuve affective.
 
+Une autre règle imaginée serait qu’une demande valable doit être spontanée : la carte préparée lui semblerait alors moins légitime que les gestes habituels de Clara.
+
 ### Chercher une formulation qui supprime tout risque
 
 La carte barrée contient moins une difficulté de vocabulaire qu’une tentative de contrôler la réponse. Inès veut des mots assez précis pour être comprise et assez vagues pour ne pas être vraiment exposée. Aucun texte ne peut remplir entièrement ces deux fonctions. Même une formulation soigneuse laisse l’autre personne libre de réagir, de poser une question et parfois de ne pas partager la préférence.
 
 Le choix utile porte alors sur un risque raisonnable et limité. Inès peut commencer par une demande simple, dans un moment calme, sans raconter toutes ses attentes ni choisir la situation qui la met le plus à nu. Elle peut aussi décider de ne pas parler aujourd’hui. La progression n’exige pas une escalade vers des confidences toujours plus intimes. Elle consiste à retrouver le choix entre parler, attendre et garder une part privée.
+
+Changer « apprécies » peut devenir une longue recherche du mot irréprochable ; préparer la plaisanterie de secours peut viser à rendre la même phrase impossible à refuser ou à prendre au sérieux.
 
 ## Faire entendre une préférence sans la défendre
 

@@ -20,57 +20,73 @@ La demande d’Antoine attend depuis le matin. Ce message, demandant une énièm
 Il se lève, marche jusqu'à la fenêtre qui donne sur la cour pavée et saisit son carnet. Plutôt que d'effacer ou de fuir, comme il l'avait fait au canal Saint-Martin en se cachant derrière des tâches techniques stériles, il feuillette les entrées où il avait appris à repérer ses pensées automatiques. Il sait désormais que la rumination n'est pas neutre : elle travaille comme un acide qui ronge la confiance et transforme le passé en condamnation. Aujourd'hui, il veut comprendre pourquoi cette orientation vers le regret prend autant de place.
 
 ## Comprendre le regret après une rupture
+
 Le regret peut naître lorsqu’on imagine une issue préférable à celle qui s’est produite et qu’on l’associe à une décision. [Marcel Zeelenberg et Rik Pieters](https://research.tilburguniversity.edu/en/publications/a-theory-of-regret-regulation-10/) ont proposé une théorie sur le rôle du regret dans les décisions. Imaginer « si j’avais fait autrement » relève de la [pensée contrefactuelle](https://pubmed.ncbi.nlm.nih.gov/18453477/) : on peut en tirer une idée pour la suite, ou revenir sans cesse au même scénario. Dans cet article, « orientation vers le regret » décrit cette habitude d’Adrien, sans désigner un diagnostic.
 
 ## Manifestations après une rupture amoureuse
+
 ### Intrusions de « j'aurais dû » et scénarios alternatifs incessants
+
 Après une rupture, l'orientation vers le regret se manifeste souvent par des pensées intrusives qui modifient le récit du passé. Ces pensées sont des scénarios alternatifs détaillés où l'on imagine des réponses plus habiles, des gestes manqués ou des paroles différentes. Pour Adrien, cela prend la forme d'une boucle où il revisite la dernière dispute en variant les dialogues, cherchant la version idéale de lui-même. Ces constructions mentales donnent l'impression d'un contrôle illusoire et renforcent le sentiment d'échec.
 
-Exemple concret : Adrien imagine plusieurs façons d'avoir réagi lors de la rupture, et chacune valide l'idée qu'il a failli. Plus il répète ces scénarios, plus il se sent responsable, même quand la réalité comportait des parts de responsabilité partagée.
+Exemples situés :
+
+- Adrien réécrit mentalement la dernière dispute avec Marina en changeant sa propre réponse.
+- Il peut lire le même dessin comme la preuve qu’un autre geste aurait suffi à empêcher la rupture, sans pouvoir vérifier cette issue.
 
 ### Procrastination et paralysie dans le présent
+
 Chez Adrien, reprendre mentalement le fil de la dispute finit par occuper le temps qu’il voulait consacrer à d’autres activités. Adrien le vit quand il laisse traîner la réponse à un client important, préférant passer du temps à redessiner des portraits de Marina plutôt qu'à créer un logo. Ce comportement fait écho à sa tendance à l'évitement proactif, où il s'enferme dans une bulle de nostalgie pour ne pas affronter les exigences du monde réel.
 
-Exemple concret : Le temps qu'il consacre à refaire mentalement des scènes passées se transforme en retard sur des échéances professionnelles, et la culpabilité nourrit à son tour la rumination.
+Exemples situés :
+
+- La version qu’Antoine attend reste ouverte pendant qu’Adrien sépare et redessine les portraits de Marina.
+- Il peut passer le créneau prévu pour une réponse professionnelle à reprendre un dialogue ancien qui n’apporte aucune décision nouvelle.
 
 ### Idéalisation nostalgique et minoration du présent
+
 L'orientation vers le regret alimente souvent l'idéalisation de la relation perdue. La mémoire sélectionne des détails flatteurs et gomme les conflits antérieurs, créant un tableau impossible à atteindre et rendant le présent fade. Chez Adrien, la nostalgie se transforme en refuge : il donne à ses dessins une dimension romantique pour conserver une idée intangible de ce qu'il appelle « le bon amour ».
 
-Exemple concret : Lors d'une sortie au parc avec sa sœur Charlotte, il compare machinalement les passants aux souvenirs de sa vie passée, prolongeant la sensation d'absence et refusant de voir les possibilités nouvelles.
+Exemples situés :
+
+- Un message tendre devient le résumé de la relation, tandis que les désaccords connus passent au second plan.
+- Lors d’une promenade avec Charlotte, une comparaison avec un souvenir de Marina peut prendre toute la place de l’échange présent.
 
 ## Trois pistes pour faire de la place au présent
-### 1. Restructuration des pensées (exercice guidé)
-On ne peut pas vérifier ce qui se serait passé en faisant un autre choix. On peut examiner les informations disponibles à l’époque et en tirer une question utile pour une situation à venir. Au lieu d'alimenter une version idéalisée du passé, il s'agit d'accepter la pluralité des facteurs qui ont mené à la rupture.
+Les propositions suivantes sont facultatives et peuvent être adaptées aux moyens du jour.
 
-Exercice concret :
-- Prenez votre carnet. Notez une pensée de regret précise, par exemple « j'aurais dû partir plus tôt ce soir-là ».
-- Écrivez trois facteurs externes et internes qui ont contribué à la décision de rester (contexte professionnel, état émotionnel, paroles de l'autre).
-- Pour chaque facteur, formulez une alternative réaliste moins culpabilisante, par exemple « même si j'étais resté, la dynamique n'aurait pas forcément changé ».
-- Concluez par une action concrète que vous pouvez tester la semaine suivante.
+### 1. Restructuration des pensées : une question pour la suite
 
-Le but est de réduire la charge émotionnelle du scénario alternatif et de transformer le regret en apprentissage pratique.
+Objectif : Tirer une question actuelle d’un regret sans inventer une autre issue à la rupture.
+
+1. Noter une phrase de regret qui revient, sans reprendre toute la dispute.
+2. Indiquer ce qu’Adrien savait alors et ce qu’il ne peut pas vérifier aujourd’hui, notamment la réaction qu’aurait eue Marina à une autre réponse.
+3. Choisir une question utile pour un échange actuel, par exemple demander une précision plutôt que supposer une intention, puis fermer le carnet.
+
+Utilité possible : Ce tri peut limiter la place d’une hypothèse invérifiable. Il ne garantit pas l’apaisement ni que la même décision aurait sauvé la relation.
 
 ### 2. Carnet factuel et balance des preuves
-Cette technique capitalise sur une habitude déjà acquise par Adrien : noter ses pensées. Ici, l'objectif est d'équilibrer la narration interne en créant une balance des preuves pour chaque jugement auto-accusateur. Cela permet de contrer le biais de négativité qui l'avait tant paralysé lors de l'appel d'offres face à Julie.
 
-Exercice concret :
-- Dans le carnet, créez deux colonnes sous un titre clair, par exemple « Preuve que j'ai échoué » et « Preuve que j'ai agi de façon raisonnable ».
-- Reformulez le jugement en termes concrets : « Dans cette discussion, qu’ai-je dit ou fait ? » Notez un fait qui vous préoccupe et un fait qui nuance votre interprétation. Une scène difficile ne définit pas votre valeur.
-- Relisez une fois si cela vous aide. Si vous repartez dans la même boucle, vous pouvez fermer le carnet.
+Objectif : Examiner une accusation contre soi à partir de faits précis.
 
-L'objectif est de ramener le récit émotionnel vers des données vérifiables et de limiter les généralisations.
+1. Créer deux zones : le fait préoccupant et les éléments qui nuancent l’interprétation.
+2. Noter ce qu’Adrien a effectivement dit ou fait et un élément connu qui empêche d’en faire une définition de toute sa personne.
+3. Relire une fois pour retenir une formulation précise ; fermer le carnet si la même boucle reprend.
+
+Utilité possible : La note peut aider à décrire une responsabilité limitée sans se condamner globalement. Elle ne doit pas devenir un procès de Marina ou de soi-même.
 
 ### 3. Micro-engagements ancrés dans le présent
-L'orientation vers le regret se nourrit d'inactivité et d'évitement. Réintroduire des actions significatives permet de reconsolider la confiance. Pour un créatif comme Adrien, l'idée est de rediriger la créativité vers des projets qui le relient au présent.
 
-Exercice concret :
-- Choisissez 3 micro-actions quotidiennes à haute valeur émotionnelle mais faibles en effort, par exemple : dessiner 20 minutes un sujet non lié à la relation, envoyer une proposition claire à un client, appeler un ami pour parler d'un projet.
-- Programmez ces actions dans un créneau précis du jour et variez les lieux pour changer l'ambiance (atelier, salle de sport, café).
-- Après chaque micro-action, notez une brève phrase sur ce que vous avez ressenti.
+Objectif : Réserver une place à une activité actuelle sans imposer une performance quotidienne.
 
-Cela permet de rendre visible la possibilité d'agir immédiatement et de casser le cercle de la procrastination.
+1. Choisir une seule action qui compte aujourd’hui, comme reprendre un motif urbain ou préparer la version pour Antoine.
+2. Lui donner un créneau compatible avec les obligations et choisir un point d’arrêt.
+3. Après l’essai, noter ce qui est fait ou la difficulté rencontrée, puis décider de la suite sans quota d’actions.
+
+Utilité possible : Ce repère peut réintroduire une activité à côté du regret. Son utilité ne dépend pas de la disparition de la pensée ou d’un sentiment immédiat de confiance.
 
 ## Le dessin et le contrat
+
 Il reprend un croquis, mais cette fois-ci il suit l'exercice de restructuration : il écrit sur la marge « ce que je sais » et « ce que j'imagine ». Là où autrefois l'image ravivait la douleur, il inscrit des éléments concrets, comme les discussions ratées, les nuits de fatigue après des semaines de non-dits ou son manque d'expérience dans la gestion des émotions. Il appelle ensuite sa sœur Charlotte pour lui raconter la méthode, et elle répond avec un rire franc qui allège l'atmosphère. Ils conviennent d'un défi : Adrien enverra une version du logo révisée à Antoine avant la fin de la journée.
 
 Il applique la balance des preuves à une pensée plus globale : « je suis incapable d'aimer ». La colonne de droite se remplit : projets menés, soutien offert à Charlotte lors de son déménagement, moments où il a su se montrer vulnérable sans être rejeté. Ce n'est pas une victoire totale, mais il sent moins le besoin de tourner et retourner une même scène. L'atelier redevient un espace d'expérimentation, loin de l'amertume qui l'avait poussé à s'isoler au square du Temple.

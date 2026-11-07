@@ -41,6 +41,11 @@ Elle peut ajouter une scène précise : après la permanence, elle relit une dé
 
 À l'inverse, trop de détails peuvent noyer ce qui compte. Elle n'a pas besoin de raconter chaque minute du trajet. Choisir quelques situations représentatives aide à faire entendre la question principale. Le rendez-vous peut ensuite préciser les éléments nécessaires, plutôt que devenir la lecture d'un inventaire impossible à terminer.
 
+Exemples concrets
+
+- Après la permanence, le mot « fatigue » ne dit pas qu’elle relit une démarche sans en garder le fil.
+- Au retour, le même mot ne précise pas qu’elle renonce au détour prévu avec Benoît.
+
 ### L'explication arrive sous la forme d'un reproche
 
 Après une séance de rédaction pour l'exposition, Anaïs ressent davantage de gêne. Elle pense aussitôt qu'elle ne sait pas s'arrêter. Cette conclusion contient peut-être une question pratique sur la durée ou l'installation, mais la formule lui attribue une responsabilité générale. Elle ne laisse plus de place aux autres explications possibles.
@@ -49,6 +54,11 @@ Elle peut conserver l'information temporelle : telle activité précède telle s
 
 Le reproche inverse existe aussi : si elle se repose et reste gênée, elle pourrait conclure qu'elle récupère mal ou qu'elle pense trop à son corps. Là encore, elle donne à une persistance un sens moral. Les symptômes d'une maladie ne suivent pas nécessairement les attentes que l'on place dans une pause.
 
+Exemples concrets
+
+- Après une séance de notices, elle transforme la gêne ressentie en reproche sur son incapacité à s’arrêter.
+- Si la pause ne change pas immédiatement la sensation, elle pourrait s’accuser de ne pas savoir récupérer.
+
 ### L'inquiétude change ce qu'elle cherche à entendre
 
 Anaïs veut parfois une garantie : que la gêne ne signifie rien d'important, que l'avenir restera identique, que son activité n'aura aucune conséquence. Elle entend alors les nuances comme des réponses insuffisantes. Le professionnel peut apporter des explications et un cadre de suivi sans pouvoir promettre toute l'évolution.
@@ -56,6 +66,11 @@ Anaïs veut parfois une garantie : que la gêne ne signifie rien d'important, qu
 Elle peut dire cette attente explicitement : « Ce changement m'inquiète et je cherche à savoir ce qui doit me faire vous recontacter. » La question devient plus utilisable qu'une demande de certitude totale. Elle cherche un repère d'action, pas une prédiction absolue sur les prochains mois.
 
 L'émotion a ainsi sa place dans la consultation. Elle ne diminue pas la valeur de l'expérience physique et ne constitue pas une explication concurrente qui l'annulerait. Anaïs peut parler d'une douleur et de la peur qu'elle suscite, en laissant les deux dimensions être entendues ensemble.
+
+Exemples concrets
+
+- En consultation, une explication nuancée pourrait lui sembler insuffisante faute de garantie sur les mois suivants.
+- Avant le rendez-vous, elle cherche une assurance que son travail sur les notices n’aura aucune conséquence.
 
 ## 3 techniques pour préparer une description utile
 
@@ -67,6 +82,16 @@ Pour une gêne à la main, elle peut noter qu'elle a du mal à manipuler certain
 
 Cette méthode reste compatible avec les consignes d'alerte reçues. Si un signe demande une prise de contact, Anaïs ne le conserve pas simplement pour sa liste. La feuille sert à préparer les questions ordinaires ; elle ne devient pas un motif pour retarder une démarche de soins appropriée.
 
+Pour essayer dans cette situation
+
+Objectif : Apporter une expérience et une question plutôt qu’une cause déjà décidée.
+
+1. Décrire avec ses mots la sensation à la main et le contexte où elle la remarque.
+2. Indiquer le geste concret gêné, comme manipuler des dossiers au guichet.
+3. Écrire ce qu’elle veut demander au professionnel sur cette gêne ou son installation.
+
+Les trois rubriques peuvent aider le dialogue sans demander à Anaïs de conclure médicalement.
+
 ### 2. Choisir quelques changements représentatifs
 
 Elle privilégie ce qui est nouveau, différent ou particulièrement gênant, plutôt que de recopier toutes les sensations connues. Elle ajoute ce qui semble aider ou aggraver le confort, en le présentant comme une observation. « Je remarque ceci dans cette situation » reste plus précis qu'une règle générale sur son corps.
@@ -75,6 +100,16 @@ Benoît peut l'aider à se rappeler une scène si elle le souhaite. Il ne corrig
 
 Elle peut demander au rendez-vous quelle forme de suivi personnel serait utile. Certaines informations ont plus de valeur que d'autres selon la question médicale. Ajuster la note avec le professionnel évite de lui imposer une surveillance dont personne n'a réellement besoin et qui consommerait une part de son énergie.
 
+Pour essayer dans cette situation
+
+Objectif : Sélectionner des faits qui éclairent le changement.
+
+1. Retenir deux situations nouvelles ou particulièrement gênantes au lieu d’un inventaire de la journée.
+2. Si elle le souhaite, demander à Benoît de rappeler un fait visible sans corriger son ressenti.
+3. Demander en consultation quelles informations il est utile de conserver ensuite.
+
+La sélection peut alléger la note tout en préservant ce que le professionnel doit pouvoir explorer.
+
 ### 3. Demander une reformulation et une suite claire
 
 Pendant la consultation, Anaïs garde le droit de ne pas comprendre immédiatement. Elle peut demander une explication en mots plus simples, reprendre ce qu'elle croit entendre et vérifier la suite. La HAS encourage ce dialogue, ainsi que la préparation des questions. Comprendre les repères du suivi compte autant que réussir à tout raconter.
@@ -82,6 +117,16 @@ Pendant la consultation, Anaïs garde le droit de ne pas comprendre immédiateme
 Elle peut demander : quels changements dois-je signaler, par quel canal et dans quel délai selon les consignes qui me concernent ? Elle ne cherche pas une liste universelle transposable à tout lecteur. Elle cherche un cadre personnel établi avec l'équipe qui connaît sa situation et son traitement.
 
 Si elle souhaite être accompagnée, elle en discute avec Benoît et avec le professionnel. Elle peut aussi préférer un entretien seule. L'appui ne doit pas lui retirer sa parole. Une personne présente peut aider à retenir une information sans devenir celle qui décide de ce qu'Anaïs ressent ou de ce qui l'inquiète.
+
+Pour essayer dans cette situation
+
+Objectif : Comprendre les prochaines actions du suivi.
+
+1. Demander une reformulation de la réponse qui reste floue.
+2. Redire ce qu’elle comprend, puis vérifier le canal et les repères de contact qui la concernent.
+3. Conserver la suite utile sur sa feuille et décider si elle souhaite un accompagnement à un prochain entretien.
+
+Une suite claire peut rendre sa participation plus praticable sans détailler un conseil médical transposable au lecteur.
 
 ## Une feuille pour le médecin
 

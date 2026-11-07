@@ -45,32 +45,50 @@ La peur de perdre un lien peut rendre une limite plus difficile à poser. Cela n
 
 Accepter une remarque humiliante sans répondre, puis rationaliser en se répétant qu'elle exagère, permet de préserver une illusion de stabilité affective, même si celle-ci est douloureuse. Léa identifie ici une répétition de sa déception vécue à la bibliothèque avec Zoé : elle avait alors compris que son dévouement était une armure contre l'abandon, mais elle voit maintenant que dans l'intimité avec Youssef, cette armure se transforme en une prison où elle étouffe ses propres cris pour ne pas déranger l'autre.
 
+Autre exemple situé : après un nouveau doute porté sur sa mémoire, Léa peut vouloir détailler chaque mot pour garder le lien alors qu’elle souhaite arrêter la conversation ; elle a le droit de chercher un appui sans convaincre Youssef.
+
 ### 3. L'idéalisation suivie de dévalorisation
 
 Léa remarque que ses jugements sur son partenaire varient lorsqu’elle se sent blessée. Cette variation ne suffit pas à caractériser son attachement.
+
+Exemples situés :
+- Léa peut vouloir retrouver seulement les échanges chaleureux de Youssef au moment où le silence actuel l’inquiète, sans que cela efface la remarque blessante.
+- Après la dispute, elle peut passer d’un jugement global très favorable à un jugement global très défavorable ; elle peut revenir aux paroles et à la limite qui comptent aujourd’hui, sans conclure de cette variation à un style d’attachement.
 
 ## Techniques pour mieux gérer l'anxiété relationnelle
 
 ### 1. Redéfinir la sécurité affective par une cartographie émotionnelle
 
-L'objectif est de distinguer les réactions de survie des envies d'amour authentiques. Pendant une semaine, il est utile de noter trois fois par jour la situation relationnelle (qui a dit quoi, le ton du message), l'émotion ressentie (colère, peur, ennui), l'intensité sur une échelle de 0 à 10 et l'action impulsive envisagée (répondre tout de suite, attendre, appeler). À la fin de la semaine, repérer les patterns permet de voir si les actions impulsives diminuent quand l'intensité est modérée. Léa utilise déjà cette technique en version simplifiée depuis son atelier avec le docteur Moreau ; elle l'adapte ici au couple pour repérer que ses envois répétés après un silence sont davantage une réponse d'alerte qu'un besoin affectif réfléchi.
+L’objectif est de distinguer un fait, un ressenti et une réponse envisagée dans une situation choisie. Le relevé n’est ni un test d’attachement ni une obligation à répéter trois fois par jour.
 
-Ce relevé n’est pas un test. Vous pouvez garder seulement les notes qui vous aident à décider ce que vous souhaitez demander.
+Exercice pratique :
+1. Choisissez le moment où vous avez voulu envoyer un nouveau message et notez les paroles connues ou le délai constaté.
+2. Décrivez ce que vous ressentez et ce que vous avez envie de faire, sans qualifier ce besoin d’amour faux ou authentique.
+3. Retenez la demande ou l’appui dont vous avez besoin maintenant, puis refermez la note ; vous pouvez laisser l’écriture de côté si elle entretient la boucle.
+
+Utilité possible : Léa dispose d’un repère sur son action actuelle. Le relevé n’explique pas à lui seul son histoire et ne la rend pas responsable des propos de Youssef.
 
 ### 2. Poser des limites concrètes en scriptant des réponses
 
-Le but est de transformer les réactions émotionnelles en actions choisies et respectueuses de soi. Il s'agit de préparer trois scripts simples selon des scénarios courants. Par exemple :
-- Si le partenaire répond tardivement au message : « J'ai remarqué que tu réponds plus tard ces jours-ci. J'en prends note et je t'en reparle ce soir. »
-- Si une remarque blessante est faite : « Quand tu dis cela, je me sens ainsi. J'aimerais qu'on en parle calmement. »
-- Si la relation semble éviter la discussion importante : « J'ai besoin de parler de quelque chose d'important. Es-tu disponible à 19 h ? »
+Le but est de préparer une limite praticable, sans obligation de poursuivre une discussion qui déstabilise.
 
-Léa teste ces scripts d'abord avec elle-même, en répétant à voix haute, puis dans une situation neutre avec Zoé. Elle sait déjà qu'anticiper réduit l'escalade émotionnelle, un apprentissage issu de ses exercices précédents sur la lecture de pensée. Avoir un cadre verbal diminue la tentation de réagir sous l'effet de la peur et clarifie les attentes sans attaquer l'autre.
+Exercice pratique :
+1. Choisissez une seule situation et la limite qui compte, par exemple ne pas continuer un échange où votre mémoire est dénigrée.
+2. Préparez une phrase courte, comme « Je ne souhaite pas continuer comme ça », et essayez-la seule ou avec Zoé si cela vous aide.
+3. Dans une situation suffisamment sûre, utilisez la phrase ou choisissez directement de vous mettre à l’écart et de chercher un appui ; vous n’avez pas à obtenir l’accord du partenaire.
+
+Utilité possible : les mots soutiennent un choix de protection et de communication. Ils ne préviennent pas les violences ni ne remplacent le recours extérieur rappelé plus bas.
 
 ### 3. Pratiquer la mise en relation entre passé et présent
 
-Léa peut écrire quelques phrases bienveillantes à son moi plus jeune si l’image lui parle. Elle peut aussi se limiter à ce qu’elle voudrait dire aujourd’hui, sans revivre un souvenir pénible.
+Léa peut écrire quelques phrases bienveillantes à son moi plus jeune si l’image lui parle. Elle peut aussi se limiter à ce qu’elle voudrait entendre aujourd’hui, sans revivre un souvenir pénible. L’objectif est un soutien actuel, sans chercher l’origine certaine de ses réactions.
 
-Les deux lettres restent privées car l'objectif n'est pas de blâmer mais de clarifier. Léa pratique déjà l'écriture thérapeutique sur son blog personnel, mais ici elle l'utilise comme outil pour que la fille qu'elle était comprenne la femme qu'elle devient. Externaliser les émotions permet de les relire avec distance et d'éviter que la réaction primaire prenne le contrôle des interactions.
+Exercice pratique :
+1. Choisissez un destinataire imaginaire pour quelques lignes : vous aujourd’hui ou votre moi plus jeune, selon ce qui vous convient.
+2. Écrivez une parole de soutien et une limite présente, par exemple le droit d’arrêter une conversation qui vous déstabilise.
+3. Gardez le texte privé dans un endroit approprié ou laissez-le de côté, puis choisissez l’appui réel souhaité, comme appeler Zoé.
+
+Utilité possible : le texte peut rendre une préférence plus claire sans exiger deux lettres, un souvenir retrouvé ou un apaisement. Il ne prend pas la place d’un soutien adapté.
 
 ## Léa interrompt la discussion
 

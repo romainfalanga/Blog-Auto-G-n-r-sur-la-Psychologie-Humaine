@@ -28,37 +28,61 @@ Dans le langage courant, on parle parfois de « somatisation » pour évoquer de
 
 Bernard ressent une douleur vive dans le bas du dos en soulevant et en tournant une lourde planche. L’effort fait partie de l’histoire à raconter au médecin. Ni son âge, ni son silence, ni le deuil ne permettent d’en déduire la cause.
 
-## Comment la somatisation se manifeste face au vieillissement
+## Ce que Bernard peut observer sans en déduire une cause
 
 Une douleur récente peut mériter un avis médical, notamment si elle est intense ou s’accompagne d’autres signes. Le stress et le sommeil peuvent compter dans la façon dont on vit la douleur, sans en expliquer l’origine à eux seuls.
 
-### 1. La rigidité musculaire comme armure émotionnelle
+### 1. La difficulté à bouger après l’effort
 
 Bernard a du mal à se redresser après l’effort. Cette raideur ne permet pas de lire son état émotionnel. Il peut dire à son médecin à quel moment la douleur est apparue et quels mouvements l’aggravent.
 
-### 2. Les troubles fonctionnels liés à l'anxiété du temps qui passe
+**Deux repères observables :** Bernard ne parvient pas à se redresser après avoir tiré la planche. Le premier pas le fait s’arrêter de nouveau. Il peut décrire ces difficultés ; elles ne confirment ni tension émotionnelle ni diagnostic.
+
+### 2. D’autres symptômes à décrire séparément
 
 Une palpitation, un trouble digestif ou un mauvais sommeil ne prouve pas une origine psychologique. Ces symptômes n’ont pas tous les mêmes causes ni la même conduite à tenir.
 
-### 3. La fatigue chronique et le sentiment d'épuisement vital
+**Deux situations à décrire si elles surviennent :** un sommeil interrompu la nuit suivant la douleur ; un malaise inhabituel pendant une tâche. Ce ne sont pas des symptômes établis chez Bernard. Il peut en préciser le contexte au professionnel sans les réunir sous une explication par l’âge ou l’anxiété.
+
+### 3. Une fatigue inhabituelle qui gêne le quotidien
 
 Une fatigue inhabituelle ou persistante mérite d’être discutée avec un professionnel. Rien ne permet de l’attribuer d’emblée à des émotions retenues.
 
-## Techniques pour agir face à la somatisation
+**Deux situations à signaler si elles se présentent :** devoir interrompre plusieurs tâches ordinaires à cause d’une fatigue nouvelle ; se sentir épuisé après une nuit de repos. Une fatigue du jour ne devient pas « chronique » par cette observation, et son origine reste à évaluer.
+
+## Trois démarches distinctes pour demander conseil et du soutien
 
 Pour Bernard, la première étape consiste à interrompre l’effort et à demander conseil. La douleur lui rappelle aussi qu’il aimerait pouvoir parler à Éric, deux besoins qu’il peut traiter séparément.
 
 ### 1. Décrire la douleur pour demander conseil
 
-Pour préparer un avis médical, notez le moment du début, l’effort en cours, la localisation de la douleur et d’éventuels autres symptômes. Un carnet ne remplace pas l’évaluation, et il ne faut pas arrêter ou modifier un médicament prescrit sur la base de cet exercice.
+**Objectif :** Transmettre au professionnel les faits utiles de cet épisode.
+
+1. Dire quand la douleur a commencé et décrire le soulèvement puis la rotation de la planche.
+2. Préciser où elle se situe, ce qu’elle empêche et tout autre signe remarqué, sans refaire le mouvement pour la tester.
+3. Demander la conduite à tenir et suivre les indications reçues ; les signes urgents de la conclusion passent avant la rédaction d’un carnet.
+
+Une description concrète peut faciliter l’évaluation. Elle ne remplace pas l’avis, ne détermine pas la cause et ne justifie aucune modification d’un traitement prescrit.
 
 ### 2. La verbalisation par l'objet ou la métaphore
 
-Pour ceux qui ont du mal à poser des mots directs sur leurs sentiments, utiliser un médiateur est précieux. Cela consiste à décrire son état interne en utilisant des termes liés à une passion ou un métier. On peut dire qu'on se sent comme un bois qui a trop séché et qui risque de fendre, ou comme un mécanisme dont les rouages sont grippés par la poussière. En parlant de l'objet, on commence à parler de soi. L'exercice consiste à choisir un objet quotidien et à expliquer à voix haute en quoi cet objet nous ressemble aujourd'hui. Cela permet de briser le mutisme protecteur sans l'agression d'une confrontation directe.
+**Objectif :** Formuler une demande relationnelle distincte des informations médicales.
+
+1. Après avoir sollicité l’aide médicale nécessaire, choisir s’il souhaite aussi parler à Éric.
+2. Utiliser une image seulement si elle lui convient, puis une demande claire : « J’aimerais un coup de main et un moment pour parler ».
+3. Préciser ce qui peut attendre et écouter la disponibilité de son fils, sans lui demander d’interpréter la douleur.
+
+La métaphore peut servir à dire un ressenti. Pour le dos, Bernard décrit les faits plutôt qu’une « armure » ou un chagrin supposé responsable.
 
 ### 3. Un moment de confort si on le souhaite
 
-Pendant qu’il attend un avis, Bernard apprécie simplement la chaleur de Sultan contre lui. Ce moment de réconfort ne traite pas la douleur et n’a pas de durée particulière.
+**Objectif :** Organiser une attente qui lui convienne sans retarder les soins.
+
+1. Une fois le recours médical engagé, choisir une présence appréciée, telle que Sultan près de lui ou Marcel au téléphone.
+2. Demander une aide pratique précise si nécessaire, comme mettre le téléphone à portée, sans essai de mouvement douloureux.
+3. Rester disponible pour l’avis attendu et rappeler si son état change selon les consignes reçues.
+
+La compagnie peut rendre l’attente moins seule. Elle ne traite pas la douleur et ne remplace pas une évaluation urgente lorsqu’elle est nécessaire.
 
 ## Éric prend l’autre côté
 

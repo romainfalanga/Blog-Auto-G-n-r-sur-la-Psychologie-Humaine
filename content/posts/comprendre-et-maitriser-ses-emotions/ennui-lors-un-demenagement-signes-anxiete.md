@@ -32,26 +32,56 @@ Thomas peut ressentir ensemble de la lassitude, de l’ennui et de l’inquiétu
 Une journée de déménagement peut être fatigante et répétitive. Pour Thomas, plusieurs décisions attendent alors qu’il a surtout envie de s’arrêter.
 
 ### 1. La paralysie décisionnelle et le désintérêt
-Thomas regarde un carton sans savoir par quoi commencer. Il peut se donner une décision à prendre ou reporter le tri après une pause.
+
+Le nombre de choix et la répétition peuvent rendre le prochain geste difficile à repérer. Cela ne prouve pas que Thomas fuit une question plus profonde. Il peut décrire ce qui bloque et ce dont il dispose maintenant.
+
+Devant le carton « livres » qui contient aussi un câble et des photos, il commence plusieurs piles sans savoir où les installer. Quand Émilie demande où mettre les verres, il répond poliment sans choisir de place. Le premier cas concerne le tri d’objets différents ; le second une décision partagée. Une pause ou une seule décision à prendre peuvent répondre à des besoins différents.
 
 ### 2. Le sentiment de déconnexion temporelle
-Lors d'un déménagement, le temps semble parfois s'étirer de manière insupportable. Les heures passées à emballer ou déballer se ressemblent toutes. Pour Thomas, chaque minute passée à scotcher des boîtes devient une éternité grise. Il perd la notion du but final. Ce sentiment d'ennui profond naît de la répétition de gestes mécaniques qui ne nourrissent plus son besoin de validation ou sa créativité. Il se sent étranger à sa propre vie, comme si le temps s'était arrêté entre l'ancien et le nouveau logement.
+
+Les gestes proches peuvent donner à Thomas l’impression que la journée se prolonge sans résultat visible. Il peut perdre de vue le but pratique tout en étant fatigué des allers-retours. Cette description ne permet pas d’attribuer l’ennui à son besoin de validation ou à une déconnexion particulière.
+
+Reprendre livre après livre sans emplacement final peut lui donner l’impression de recommencer la même tâche. Attendre assis sur un carton pendant que les autres décisions continuent peut, à l’inverse, lui faire sentir le temps qui passe sans qu’il participe. Ces deux moments ne demandent pas forcément plus de vitesse : il peut leur manquer une destination claire ou un arrêt choisi.
 
 ### 3. Des préoccupations qui coexistent avec l’ennui
-Thomas s’interroge aussi sur leur projet de parentalité. Il peut en parler avec Émilie quand ils le souhaitent, sans supposer que cette question explique à elle seule son ennui.
+
+Une autre question peut occuper Thomas pendant le déménagement sans expliquer à elle seule son ennui. Il peut reconnaître plusieurs expériences en même temps, y compris la fatigue physique.
+
+Le carton et la pièce encore sans usage peuvent lui rappeler les décisions qu’il discute avec Émilie sur un futur enfant. Les allers-retours faits avec Antoine peuvent aussi lui faire regretter de ne pas avoir précisé son besoin de repos. Le projet familial et l’aide au transport sont deux préoccupations distinctes. Il peut décider d’en parler à un autre moment sans avoir à les résoudre avant de ranger quelques photos.
 
 ## Techniques pour agir face à l'ennui
 
 Pour sortir de cet état de stagnation, il est essentiel de réinjecter du sens et de la conscience dans l'action, tout en acceptant ses limites émotionnelles.
 
 ### 1. La technique du micro-engagement conscient
-Cette méthode consiste à fragmenter l'activité globale en micro-tâches de cinq minutes maximum, sans porter de jugement sur la lenteur du processus. Au lieu de voir tout l'appartement à ranger, Thomas peut se dire qu'il va simplement s'occuper de trois livres. L'exercice consiste à se focaliser uniquement sur la texture du papier, le poids de l'objet et son emplacement final. Un petit carton donne à Thomas un point de départ s’il souhaite poursuivre.
+
+Thomas cherche un début assez limité pour savoir ce qu’il fait, s’il souhaite poursuivre. Il n’existe pas ici de durée maximale universelle ni d’obligation de se concentrer sur les sensations.
+
+1. Choisir un objet du carton, par exemple les albums, et décider seulement de leur destination provisoire.
+2. Préparer l’emplacement convenu avec Émilie, puis déplacer ce petit ensemble sans ajouter aussitôt le reste de l’appartement.
+3. Regarder si la tâche est terminée et s’il souhaite continuer, demander une précision ou s’arrêter. Un point de départ peut rester petit même si l’ennui demeure.
+
+Cette limite rend l’action et sa fin visibles. Elle ne garantit pas un regain d’élan et ne remplace pas le repos dont il peut avoir besoin.
 
 ### 2. Le questionnement des valeurs
-Le tri peut lui paraître monotone même s’il tient à son nouveau logement. Pour contrer cela, il est utile de se demander en quoi ce geste contribue à ce qui est important pour soi. Thomas peut transformer une corvée ennuyeuse en un acte de soin envers Émilie ou envers lui-même. L'exercice pratique consiste à nommer à voix haute l'intention derrière la tâche : il range ces verres car il valorise le confort et la convivialité dans ce nouveau foyer. Cette formulation lui rappelle ce qu’il attend de la pièce une fois les cartons rangés.
+
+Le tri peut rester monotone tout en servant un logement que Thomas souhaite habiter. Il cherche un usage concret, sans devoir transformer chaque corvée en expérience riche de sens.
+
+1. Nommer ce que le rangement doit permettre : retrouver les livres, brancher la lampe ou laisser le passage libre avant le soir.
+2. Choisir avec Émilie une de ces priorités et le critère suffisant pour aujourd’hui. Il n’a pas à lui prouver son attachement par un appartement entièrement terminé.
+3. Après cette partie, vérifier l’usage obtenu et décider ce qui peut attendre. Si aucune signification particulière ne lui vient, la tâche peut rester simplement nécessaire.
+
+La question clarifie ce qui compte dans la pièce. Elle ne rend pas automatiquement agréable un geste répétitif ni toutes les contraintes choisies.
 
 ### 3. L'acceptation de la pause émotionnelle
-Thomas peut s’accorder un moment sans trier. S’il remarque une autre préoccupation, il peut la noter ; s’il ne remarque rien, la pause reste possible.
+
+Thomas peut interrompre le tri sans devoir identifier une émotion cachée. Une pause est aussi une décision à articuler avec l’engagement de libérer le passage.
+
+1. Dire à Émilie qu’il souhaite s’arrêter et vérifier ce qui doit rester accessible pendant ce temps.
+2. Choisir une pause qui lui convient, seul ou avec elle, sans obligation d’analyser le projet familial. Si une préoccupation vient, il peut la noter pour un autre échange.
+3. Au moment convenu, regarder s’il peut reprendre une tâche limitée ou s’il doit revoir avec Émilie le programme du jour.
+
+Cette reprise garde une place au repos et à l’accord pratique. Elle ne promet pas que l’ennui disparaîtra et n’impose pas de se remettre au travail malgré une fatigue inquiétante.
 
 ## Un carton de photos suffit
 

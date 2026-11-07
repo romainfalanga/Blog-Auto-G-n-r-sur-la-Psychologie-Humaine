@@ -44,6 +44,8 @@ L'avis qu'il prête à Chloé pèse sur la façon dont Hugo se voit ce jour-là.
 
 Après une soirée où Chloé semble distante, Hugo délaisse sa composition et s'installe devant sa guitare pour écrire des textes chargés d'accusation. Sa créativité devient un instrument de réparation émotionnelle plutôt qu'un plaisir autonome. Ce réflexe de repli sur l'instrument rappelle ses moments de solitude après la rupture, mais cette fois, il tente d'utiliser la musique non plus pour s'y noyer, mais pour décortiquer l'orage qui le traverse.
 
+Au bar, le rire qu’il ne comprend pas peut aussi devenir « je ne compte pas », au point de lui faire oublier ce qu’il préparait au comptoir. Dans l’autre situation décrite, il délaisse sa composition après une soirée vécue comme distante. Le jugement supposé de Chloé pèse ainsi sur son travail au bar comme sur la place laissée à sa propre musique.
+
 ## Techniques pour apaiser les oscillations relationnelles
 
 ### 1. Nommer le mouvement : pause d'observation en trois étapes
@@ -54,7 +56,7 @@ Exercice concret :
 2. Il peut noter un fait observable et l'émotion qui l'accompagne, par exemple : « Je n'ai pas reçu de réponse ce soir ; je me sens inquiet. »
 3. Il peut relire sa note seul, en parler à Théo ou à Samba, ou l'utiliser comme point de départ d'un morceau s'il en a envie.
 
-Mettre du temps entre l'émotion et l'acte réduit l'impact du mécanisme de splitting. Hugo trouve ici un outil pratique pour séparer faits et interprétations, une compétence qu'il a commencé à esquisser lorsqu'il tentait de nommer son "vide" sur son banc de parc.
+Une pause peut laisser une place à la relecture du message ; elle ne garantit pas que l’émotion changera. Hugo trouve ici un outil pratique pour séparer faits et interprétations, une compétence qu'il a commencé à esquisser lorsqu'il tentait de nommer son "vide" sur son banc de parc.
 
 ### 2. Écrire depuis le passé : relecture des scripts familiaux
 Un souvenir peut donner des mots à une émotion présente, sans démontrer d'où elle vient. Hugo peut rester dans le présent si évoquer l'enfance le met trop mal à l'aise.
@@ -66,15 +68,16 @@ Exercice concret :
 
 L'écriture donne à Hugo une manière personnelle de prendre un peu de recul avant de parler ou de décider.
 
-### 3. Demander et vérifier : script de communication
-L'idée est de remplacer les projections par des demandes de clarification pour réduire les interprétations hâtives.
+### 3. Demander une précision sur un échange réel
 
-Exercice concret :
-1. Avant une conversation difficile, Hugo prépare trois phrases en "je" qui décrivent uniquement ce qu'il ressent et ce qu'il aimerait, par exemple : "Je me sens inquiet quand je vois des photos où je ne suis pas, j'aimerais comprendre comment tu vois cette soirée."
-2. Il s'entraîne une fois avec Théo ou Samba, qui jouent le rôle de Chloé, afin de repérer les mots qui enflamment sa réaction.
-3. Si Chloé souhaite parler, Hugo peut décrire ce qu'il a observé, l'écouter et respecter sa réponse. Elle n'a pas à rendre compte de ses activités ou de ses amitiés.
+Hugo veut clarifier la scène du bar sans demander à Chloé de rendre compte de ses amitiés ou de ses activités.
 
-Beaucoup de basculements viennent d'interprétations non vérifiées. En adoptant un script simple et répétable, Hugo diminue la part d'imaginaire qui transforme un silence en trahison. Il apprend à décrocher son téléphone quand Théo l'appelle pour s'entraîner, acceptant enfin l'aide extérieure qu'il fuyait auparavant.
+1. Choisir le seul fait observé : elle a ri à une blague dont il n’a pas entendu la fin, et il a commencé un message accusateur.
+2. Préparer une question sur ce moment et demander si elle souhaite en parler, sans lui faire répéter des garanties d’affection.
+3. Écouter ce qu’elle dit et accepter de garder un point inconnu ou de terminer l’échange si elle le demande ; ne pas envoyer Théo ou Samba enquêter à sa place.
+
+Cette demande peut distinguer la scène de l’interprétation qu’il en a faite. Elle ne garantit pas un accord sur leur relation et n’efface pas la responsabilité d’un message blessant.
+
 
 ## Le message attend la fin du service
 

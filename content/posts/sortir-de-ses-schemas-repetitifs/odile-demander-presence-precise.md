@@ -35,13 +35,19 @@ Une demande n’est pas davantage une preuve de dépendance générale. L’auto
 
 Odile compare spontanément sa demande à celles de personnes plus éprouvées. Elle n’est ni immobilisée ni privée de moyens de transport ; elle croit donc qu’elle devrait aller à la réunion sans rien demander. Cette comparaison ignore l’appui concret qu’elle souhaite. Un besoin de présence n’exige pas une incapacité totale pour pouvoir être exprimé. Il peut être modeste et important à la fois. La personne sollicitée reste libre de sa réponse, mais Odile n’a pas besoin d’amplifier sa détresse pour obtenir le droit de poser la question.
 
+Le même besoin d’autorisation pourrait apparaître pour un appel à Lucie : Odile pourrait attendre une peine très forte avant de proposer de raconter la recette, alors qu’elle souhaite simplement partager la remarque. La réunion et l’appel ne demandent pas le même appui. Dans les deux cas, elle peut exprimer un souhait ordinaire et entendre les limites de la personne sollicitée.
+
 ### On confond l’aide reçue avec un pouvoir donné
 
 La proposition de Lucie part d’une intention attentive. Elle peut pourtant dépasser le besoin si le déplacement se transforme en prise en charge de tous les dossiers. Odile craint ce glissement avant même qu’il ait lieu. Elle peut expliquer ce qu’elle souhaite garder : choisir ses questions, conserver les documents et décider des suites. Cette précision ne rejette pas sa fille. Elle situe l’appui dans une relation où les décisions ne changent pas automatiquement de main. Si une personne a réellement besoin d’un accompagnement plus important, celui-ci mérite également des accords adaptés plutôt qu’une déduction fondée uniquement sur son âge.
 
+Avec Josiane, Odile pourrait de même craindre que des notes prises pendant la réunion donnent à son amie le droit de répondre à toutes ses questions. Pourtant, elle peut demander une comparaison à la sortie tout en gardant sa parole dans la salle. Le déplacement proposé par Lucie et les notes de Josiane sont deux aides dont la portée peut être précisée avant de leur attribuer une prise en charge générale.
+
 ### On formule une devinette au lieu d’une proposition
 
 Le message « Tu fais quoi jeudi ? » peut laisser Josiane penser qu’il s’agit d’un repas ou d’une course. Odile espère qu’elle devinera une disponibilité suffisante et qu’il sera ensuite plus facile de demander. Cette stratégie risque pourtant de mettre chacune dans une position inconfortable. Josiane peut s’être déclarée libre sans souhaiter l’activité ; Odile peut avoir l’impression de transformer cette réponse en obligation. Une demande explicite permet à l’autre de savoir à quoi elle répond. Elle n’assure pas un accord, mais réduit les attentes qui reposeraient uniquement sur une interprétation.
+
+« Tu fais quoi jeudi ? » laisse inconnue l’activité ; « tu peux rester un peu après ? » laisserait encore inconnue sa durée. La première question pourrait amener Josiane à accepter une rencontre qu’elle n’imagine pas, la seconde à prévoir moins de temps qu’Odile. Le lieu de la réunion et les quelques minutes de comparaison des notes rendent ces deux parties de la demande plus compréhensibles.
 
 ## Préciser la demande, entendre la réponse
 

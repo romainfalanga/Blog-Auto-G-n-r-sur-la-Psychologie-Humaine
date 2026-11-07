@@ -20,50 +20,72 @@ Le carnet traîne sur une pile de feuilles. Adrien l’ouvre à la page où il a
 Adrien sent aussi que la mélancolie n'est pas seulement une douleur : c'est une texture qui nourrit ses compositions, une tonalité qu'il sait extraire et transformer en projet. Pourtant, il reconnaît le piège. Quand il laisse la mélancolie prendre la main, il procrastine, il idéalise la relation passée, il répond moins aux mails. Aujourd'hui il décide de voir cette nuance de plus près : qu'est-ce qui, chez lui, est tristesse passagère et qu'est-ce qui relève d'une mélancolie plus profonde liée à sa sensibilité d'artiste et à sa solitude de freelance ? Il se souvient de ces soirs de pluie où le silence de son téléphone semblait hurler un rejet définitif ; il comprend désormais que cette mélancolie est le prolongement de ce schéma d'instabilité qu'il tente de déconstruire.
 
 ## Définition et mécanismes de la mélancolie
-
 Dans le langage courant, Adrien appelle « mélancolie » une humeur triste et songeuse, teintée de nostalgie. En clinique, l’expression « caractéristiques mélancoliques » peut décrire certains épisodes dépressifs, avec notamment une perte de plaisir marquée. C’est un usage différent, qui suppose une évaluation clinique ; une humeur sombre ou une sensibilité artistique ne suffit pas à l’établir. Voir le [dossier de l’Inserm sur la dépression](https://www.inserm.fr/dossier/depression/).
 
 On peut prêter attention à la durée d’une humeur et à son retentissement sur la vie quotidienne sans chercher à classer son expérience avec un carnet.
 
 ## Manifestations de la mélancolie face à la solitude
-
 ### 1. Esthétique du vide et inspiration qui bloque
-Chez Adrien, la mélancolie prend souvent la forme d'une inspiration à la fois riche et paralysante. Il sent des images fortes, des couleurs qui parlent directement de Marina, des compositions qui pourraient être saisissantes, et pourtant il repousse le moment de produire. Ce paradoxe est fréquent : la sensation est esthétique, belle et poétique, mais elle emprisonne l'action. Concrètement, il peut passer des heures à faire des esquisses sans aboutir, à sélectionner des photos de références, ou à réarranger son espace de travail. L'issue est une procrastination esthétisée, où le travail créatif devient un rituel de préparation plutôt qu'une production.
 
-Exemple concret : il commence un portrait, corrige la ligne du nez quinze fois, puis range tout sans signer la planche. La mélancolie le nourrit en images mais retire le cadre nécessaire pour terminer.
+Devant le logo, Adrien trouve des images mais hésite à leur donner une fin. Il peut préparer des références, corriger un détail ou réorganiser sa table au lieu de décider ce qu’il veut livrer. Dans sa situation, l’humeur songeuse accompagne ce décalage ; elle ne suffit pas à expliquer toute procrastination et ne constitue pas une propriété de la créativité.
+
+Exemples situés :
+
+- Adrien peut reprendre plusieurs fois le nez d’un portrait puis ranger la planche sans décider ce qu’il veut en faire.
+- Le devis du logo reste ouvert pendant qu’il réorganise les références liées à Marina.
 
 ### 2. Idéalisation et nostalgie dans la mémoire sentimentale
-La solitude amplifie une tendance d'Adrien à idéaliser sa relation passée. La mélancolie invite la mémoire à sélectionner des instants très précis, un rire capté au fond d'un bar ou une remarque anodine transformée en preuve d'amour, et à en faire la norme. Ce processus ne ressemble pas à une tristesse passagère après un événement, il modèle une histoire continue où la rupture devient une perte presque mythique.
 
-Exemple concret : en triant ses archives, il remet en avant de vieux messages de Marina et compose mentalement des scènes où ils se retrouvent. Ces scénarios l'empêchent d'investir émotionnellement des rencontres réelles, parce que rien ne semble atteindre l'idéal construit dans son souvenir.
+Certains souvenirs heureux de Marina occupent une place particulière lorsqu’Adrien se sent seul. Il peut leur comparer toute sa vie actuelle et laisser hors champ les désaccords qu’il connaît aussi. Cette sélection décrit ce qu’il remarque dans l’épisode ; elle ne permet pas de distinguer une tristesse ordinaire d’un état clinique.
+
+Exemples situés :
+
+- En triant ses archives, il peut ne retenir qu’un message tendre et omettre les désaccords dont il se souvient aussi.
+- Une scène heureuse imaginée avec Marina peut lui servir de comparaison inaccessible pendant un échange réel avec Charlotte.
 
 ### 3. Isolement productif et retrait social
-La mélancolie face à la solitude peut se traduire par des comportements contradictoires : Adrien accepte des cafés pour travailler, il échange des messages avec Julien, il répond aux briefs, mais il s'éclipse aussi facilement. Le résultat est une présence fragmentée : il est social sur de courtes périodes, puis il se retire, ce qui renforce l'impression de solitude. La mélancolie devient alors un système qui protège et qui coupe : protéger parce qu'elle offre un monde intérieur riche, couper parce qu'elle empêche l'investissement relationnel stable.
 
-Exemple concret : il accepte une invitation à une exposition mais arrive en retard, reste près du vestiaire, puis part avant la fin. Les interactions restent superficielles, et le sentiment de solitude s'accentue après l'événement.
+Adrien échange des messages puis se retire, parfois alors qu’il souhaitait encore de la compagnie. Le retrait peut être un besoin de repos ou un signe de disponibilité réduite. La question concrète est de savoir quel échange il souhaite et peut tenir aujourd’hui, sans faire de la solitude un défaut à corriger dans chaque soirée.
+
+Exemples situés :
+
+- Il peut accepter une exposition puis partir du vestiaire sans avoir dit à Julien qu’il se sent peu disponible.
+- Après quelques messages professionnels, il peut couper ses échanges pour la soirée sans savoir s’il souhaite du repos ou un bref contact.
 
 ## Techniques pour composer avec la mélancolie
+Les propositions suivantes sont facultatives et peuvent être adaptées aux moyens du jour.
 
 ### 1. Nommer et cartographier les émotions
-L'objectif est de rendre visible ce qui jusque-là reste flou. Adrien utilise déjà un carnet pour noter ses émotions. La technique consiste à cartographier durant deux semaines les épisodes où il se sent bas, en notant la durée, l'intensité, le déclencheur, les pensées associées et le comportement qui suit. À la fin de chaque semaine, il repère les schémas récurrents.
 
-Exercice concret :
-Pendant 14 jours, après chaque épisode émotionnel notable, Adrien note en quelques lignes l'heure et la durée approximative, ce que la pensée raconte et ce qu'il fait ensuite. À la fin de la semaine, il relit et surligne ce qui revient le plus. Le carnet l’aide à repérer les moments où son humeur lui pèse. Il ne permet pas de trancher entre des états cliniques.
+Objectif : Observer un moment difficile sans classer son humeur dans une catégorie clinique.
+
+1. Choisir un moment où le logo reste en attente et noter en quelques mots l’humeur, le contexte et ce qu’Adrien fait.
+2. Lors d’un autre moment, ajouter une observation seulement si cela reste utile et supportable ; aucun relevé de chaque émotion n’est exigé.
+3. Relire ces quelques notes pour repérer une condition modifiable, comme travailler sans pause, ou les apporter à un professionnel si l’humeur pèse durablement.
+
+Utilité possible : Le carnet peut rendre une difficulté plus facile à décrire. Il ne permet ni de distinguer des épisodes dépressifs ni d’expliquer à lui seul une baisse d’élan.
 
 ### 2. Cadencer la création par des sessions bornées
-Il s'agit de transformer la mélancolie en ressource sans qu'elle devienne une excuse à l'inaction. Adrien peut conserver sa sensibilité en lui donnant des limites temporelles et des règles simples. Fixer une session créative de 50 minutes suivie d'une pause de 10 minutes aide à avancer tout en laissant la place à l'expression.
 
-Exercice concret :
-Il choisit un projet précis et définit trois tâches réalisables dans le temps imparti. Il utilise un minuteur et s'engage à ne pas interrompre la session. Après 50 minutes, il note ce qui a progressé, puis fait une pause de 10 minutes en sortant marcher ou en envoyant un message bref à un ami. Ce cadre contient la mélancolie : elle continue d'exister mais devient un accompagnement ponctuel.
+Objectif : Donner un début et une fin à une tâche du logo sans exiger une humeur particulière.
+
+1. Choisir une étape du logo et une durée praticable ; les cinquante minutes qu’essaie Adrien sont une option, pas une règle.
+2. Travailler cette étape avec un repère de fin, en gardant le droit de faire une pause ou d’adapter la durée.
+3. À la fin choisie, enregistrer ce qui existe et noter la prochaine correction avant de se reposer.
+
+Utilité possible : Ce cadre peut rendre visible une avancée ou une difficulté précise. Il ne promet pas de transformer la mélancolie en ressource ni de produire à chaque essai.
 
 ### 3. Restaurer les micro-contacts relationnels
-L'idée est de réduire la dépendance affective et l'idéalisation en multipliant des interactions courtes et sécurisées. Cette technique propose des rencontres programmées et sans enjeu pour restaurer la confiance dans le lien social.
 
-Exercice concret :
-Adrien fait une liste de trois personnes de confiance et propose des rendez-vous brefs : vingt minutes de balade ou un appel audio de dix minutes. Il prépare une phrase simple pour clore l'échange si besoin. Après chaque rencontre, il note un élément concret partagé. Ces rencontres lui donnent l’occasion de voir quels échanges lui font du bien.
+Objectif : Chercher un lien choisi sans faire de Julien le responsable de l’humeur d’Adrien.
+
+1. Identifier une personne avec qui Adrien souhaite réellement échanger, comme Julien.
+2. Proposer une promenade ou un appel avec une durée et un moment à confirmer ensemble, en laissant la possibilité de refuser.
+3. Après l’échange, retenir un élément partagé et décider s’il souhaite proposer un autre contact, sans quota de rencontres.
+
+Utilité possible : Un échange limité peut offrir de la compagnie. Il ne mesure pas la réussite de la relation et ne traite pas à lui seul un isolement ou une dépression.
 
 ## Le logo attend la suite
-
 Ce soir, il teste la première session de 50 minutes. Il choisit de travailler sur le logo client en le divisant en trois étapes simples. Le minuteur marque le rythme, et la contrainte lui plaît plus qu'il ne l'avait imaginé. À la dixième minute, une image de Marina surgit et tente de le distraire ; il note la pensée dans son carnet, la note comme un souvenir qui revient sans qu’il l’ait choisi et revient à sa tâche. Le geste de noter est devenu une habitude, il le fait sans dramatiser. Il observe avec recul que cette envie de tout arrêter n'est qu'une manifestation de son raisonnement émotionnel, une vieille connaissance qu'il apprend à ne plus laisser diriger ses pinceaux.
 
 La semaine suivante, il organise un rendez-vous avec Julien pour une promenade près du marché des Carmes. Ils échangent sur un projet commun, Julien raconte une anecdote et Adrien rit franchement. Ce bref contact ne résout pas sa solitude, mais il la rend moins menaçante. Il réalise qu'il peut garder sa sensibilité mélancolique et la limiter à des plages choisies plutôt qu'à une ambiance permanente.

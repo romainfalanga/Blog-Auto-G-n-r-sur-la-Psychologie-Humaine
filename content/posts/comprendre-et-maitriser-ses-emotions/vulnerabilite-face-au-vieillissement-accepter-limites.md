@@ -31,23 +31,66 @@ Il avait dit à Catherine que son dos coinçait, l’autre soir, en sortant les 
 
 Patrick a mal au pouce quand il tourne le couvercle. Il peut interrompre le geste ou essayer un ouvre-bocal adapté. Si la douleur revient ou gêne ses activités, il peut demander un avis médical. Son âge et la difficulté à ouvrir ce bocal ne suffisent pas à identifier la cause de la douleur.
 
+**Exemples concrets**
+
+- La douleur apparaît pendant qu’il tourne le couvercle ; elle ne dit pas ce qu’il peut faire pour tout le déjeuner.
+- Il retire la petite cuillère et cherche l’ouvre-bocal au lieu de continuer à forcer pour cacher sa gêne.
+
 ### Un rôle qui change avec les circonstances
 
 Patrick aime aider ses enfants. Aujourd’hui, il aimerait savoir s’il peut à son tour demander un coup de main. Ce changement n’implique pas qu’il perde sa place dans la famille. Chacun peut exprimer ce qu’il a envie d’offrir ou de recevoir.
+
+**Exemples concrets**
+
+- Catherine peut ouvrir le bocal pendant que Patrick poursuit le repas en cherchant la passoire.
+- Avec Léo, Patrick propose de tenir le seau puis écoute l’enfant qui préfère essayer seul. L’aide se discute dans les deux sens.
+
+### Dire un besoin laisse une réponse ouverte
+
+Montrer une difficulté ne garantit pas que l’autre sera disponible ou proposera l’aide espérée. Ici, Catherine attend la demande et Patrick lui fait de la place. Il peut préciser ce dont il a besoin sans devoir raconter toutes ses craintes liées au chantier ou à Marcel.
+
+**Exemples concrets**
+
+- « Mon pouce, là, ça tire » donne à Catherine une information sur ce geste précis.
+- Patrick peut accepter l’ouverture du pot et garder pour un autre moment la gêne qu’il éprouve à demander de l’aide au travail.
 
 ## Trois possibilités à sa portée
 
 ### 1. Dire ce qui est difficile aujourd’hui
 
-Patrick peut dire « Mon pouce me fait mal quand je tourne le couvercle. » Il peut ajouter qu’il est contrarié s’il souhaite partager ce sentiment.
+**Objectif** : Décrire le geste gênant sans conclure sur toute sa valeur ou ses capacités.
+
+**Exercice pratique**
+
+- Arrêtez le geste qui pose problème et prenez un fait précis : « Mon pouce me fait mal quand je tourne le couvercle. »
+- Si vous souhaitez le partager, ajoutez ce que cela vous fait, comme l’agacement ; vous pouvez aussi vous en tenir au fait.
+- Précisez ce dont vous avez besoin pour la suite et demandez un avis médical si la douleur revient ou gêne vos activités.
+
+**Utilité possible** : Une description située peut rendre la difficulté compréhensible sans lui attribuer une cause ni un avenir.
 
 ### 2. Demander une aide concrète
 
-Il demande à Catherine si elle peut ouvrir le bocal. Elle pourra répondre selon ce qu’elle peut faire. Patrick garde la possibilité de préférer un outil ou d’essayer un autre jour.
+**Objectif** : Finir le repas avec un soutien choisi.
+
+**Exercice pratique**
+
+- Demandez à Catherine si elle peut ouvrir ce bocal, plutôt que de lui laisser deviner toute la difficulté.
+- Écoutez sa réponse. Vous pouvez choisir un outil adapté ou reporter cette partie du repas si l’aide ne convient pas.
+- Conservez ce que vous voulez et pouvez faire, comme chercher la passoire, sans transformer la répartition en preuve que vous allez bien.
+
+**Utilité possible** : La demande porte sur une tâche et laisse à chacun sa possibilité de répondre ou de proposer autrement.
 
 ### 3. Choisir ce qu’il souhaite partager
 
-Si les souvenirs de Marcel lui reviennent, Patrick peut écrire quelques lignes ou en parler à quelqu’un de confiance. Il peut aussi se contenter de préparer le dîner. Le choix dépend de ce qu’il aimerait faire de ce moment.
+**Objectif** : Garder une limite personnelle au moment de se confier.
+
+**Exercice pratique**
+
+- Distinguez ce que vous voulez dire maintenant : le bocal, le chantier ou un souvenir de Marcel.
+- Si vous souhaitez en parler, demandez un moment à une personne de confiance ; quelques lignes privées peuvent aussi vous aider à préparer la phrase.
+- Arrêtez-vous au point qui vous convient. Vous pouvez revenir au dîner ou reprendre la conversation un autre jour.
+
+**Utilité possible** : Se montrer vulnérable peut rester un choix limité ; cela ne demande pas une révélation complète sur soi.
 
 ## Le château de Léo
 

@@ -1,5 +1,7 @@
 import { PSYCHOLOGY_CATALOG } from './psychology-catalog.generated.mjs';
 import {createRecommender as createBaselineRecommender} from './recommendations-baseline.mjs';
+const REVIEWED_STORY_SOURCES=new Set(['editorial_pack_v10_reviewed_story','editorial_pack_v10_and_coverage_reviewed_story','psychology_coverage_reviewed_story']);
+export function hasReviewedStoryLinks(article){return Array.isArray(article?.pattern_ids)&&REVIEWED_STORY_SOURCES.has(article.pattern_source)}
 // Content similarity is a reading aid, never a psychological diagnosis.
 // Only the public catalogue is indexed globally; all user vectors are request-local.
 const STOP=new Set('avec dans pour une des les leur leurs cette cet ces est sont etre avoir plus moins tout tous toute toutes sur par qui que quoi quand comme mais donc car pas ne ni sans mon ma mes ton ta tes son sa ses nous vous ils elles elle lui aux du de le la et un en se ce il je tu me te au ou on ses tres aussi fait faire peut dont ses cela ca cet apres avant parce parle parler retrouve retrouver reconnais reconnait reconnais reconnaissant article histoire recit lecture actuellement aujourd hui surtout plutot explorer'.split(' '));
@@ -41,9 +43,9 @@ export function createRecommender(examples){
   const v=vectorText(e.title+' '+(e.description||''));
   add(v,vectorText(e.summary||''),.35);
   for(const w of [...e.keywords,e.sujet||'',e.canonical_concept||''])add(v,vectorText(w),3);
-  // Human-reviewed story links improve vocabulary coverage; they never create
+  // Editorially reviewed story links improve vocabulary coverage; they never create
   // a personal hypothesis or count as additional evidence about the reader.
-  if(e.pattern_source==='editorial_pack_v10_reviewed_story')for(const id of new Set(e.pattern_ids||[])){
+  if(hasReviewedStoryLinks(e))for(const id of new Set(e.pattern_ids)){
    const pattern=PSYCHOLOGY_CATALOG.patterns.find(p=>p.id===id);if(pattern)add(v,vectorText(pattern.label),.75);
   }
   // Character identity is not a signal about the reader or the article's topic.

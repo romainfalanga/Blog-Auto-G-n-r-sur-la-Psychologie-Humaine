@@ -32,22 +32,61 @@ Un cadre attire l'attention sur une façon de lire les conséquences. L'aversion
 ### 1. Ce que la formulation met en avant
 Dire qu'un projet a 30 % de chances d'échouer ou 70 % de chances de réussir peut orienter différemment l'attention, à condition que les deux résultats soient complémentaires, sur la même période et avec les mêmes hypothèses. Pour Nadia, une formulation met au premier plan ce qu'elle a peur de perdre.
 
+Exemples situés :
+- Avec « 80 % conservé », Nadia écrit d’abord que le portefeuille constitue une base suffisante.
+- Avec « 20 % perdu », elle veut reporter le lancement, avant d’avoir confirmé que le mois et le groupe de clients sont identiques.
+
 ### 2. L'influence des mots et de la tonalité émotionnelle
 Des mots comme « protection » ou « sacrifice » attirent l'attention sur différents aspects d'une décision. En examinant une promotion, Nadia peut prendre au sérieux le temps passé avec Yasmine et comparer aussi les horaires, les trajets et les possibilités d'aménagement.
 
+Exemples situés :
+- Le titre « portefeuille perdu » peut attirer l’attention de Nadia sur la perte davantage que la même information formulée comme conservation.
+- Devant une offre de poste, appeler un horaire « disponibilité » ne lui apprend pas combien de soirées seraient concernées ; elle peut demander les faits derrière le mot.
+
 ### 3. Le cadrage temporel et l'urgence perçue
 Vérifiez l'horizon temporel des chiffres. Une estimation sur un trimestre et une projection sur cinq ans peuvent donner deux informations réellement différentes. Si la durée est pertinente pour la décision, comparez les scénarios sur la même période avant de conclure à un simple effet de formulation.
+
+Exemples situés :
+- Nadia repère le même mois sous les deux graphiques mais doit encore vérifier que leurs hypothèses se recouvrent.
+- Si une page concernait le trimestre et l’autre cinq ans, elle ne pourrait pas traiter l’écart comme une simple reformulation du même résultat.
 
 ## Techniques pour agir face au biais de cadrage
 
 ### 1. La technique du recadrage inversé
 Réécrivez les chiffres sous deux formes si elles sont bien équivalentes. Par exemple, si les résultats possibles sont la réussite ou l'échec et qu'une estimation prévoit 90 % de chances de réussite, elle implique 10 % de chances d'échec dans les mêmes conditions. Nadia vérifie que les deux formulations portent bien sur le même portefeuille client et le même horizon.
 
+Objectif : comparer deux formes d’une information réellement équivalente.
+
+Exercice pratique :
+1. Demandez à Julie la base, la période et les hypothèses de chaque graphique.
+2. Si les résultats sont bien complémentaires, placez portefeuille conservé et portefeuille perdu sur une même ligne.
+3. Reprenez votre critère de lancement avec les incertitudes de méthode encore ouvertes.
+
+Utilité possible : la comparaison évite de traiter une nouvelle couleur comme un nouveau risque sans vérifier les données.
+
 ### 2. La consultation d'un tiers naïf
 Une personne moins impliquée peut repérer un mot chargé, une donnée manquante ou une comparaison inégale. Donnez-lui les mêmes informations pour chaque option, avec les hypothèses, puis demandez ce qui lui semble ambigu. Son avis reste un point de vue.
 
+Objectif : obtenir un autre regard sur une ambiguïté du dossier.
+
+Exercice pratique :
+1. Choisissez une personne disponible qui peut lire les informations sans connaître la discussion de préférence initiale.
+2. Donnez-lui les deux pages avec les mêmes hypothèses et demandez ce qui lui manque pour comparer.
+3. Vérifiez la donnée qu’elle signale sans faire de son avis une décision d’autorité.
+
+Utilité possible : une question nouvelle peut devenir visible, comme la part du portefeuille interrogée, sans rendre ce lecteur exempt de biais.
+
 ### 3. La méthode de la chaise vide de la décision
 Imaginez que vous devez expliquer la décision à quelqu'un qui vient de prendre le poste. Que lui diriez-vous sur les options, les coûts et ce qui reste incertain ? Ce détour aide à expliciter les critères. L'historique reste pertinent quand il change les coûts ou les conséquences.
+
+Objectif : expliciter ses critères avant de valider ou reporter.
+
+Exercice pratique :
+1. Imaginez expliquer le dossier à la personne qui reprendrait la responsabilité du lancement.
+2. Énoncez les options, les coûts connus et une incertitude de méthode, comme l’échantillon de clients.
+3. Retenez l’information à demander pour la prochaine réunion et suspendez ce qui ne peut pas encore être tranché.
+
+Utilité possible : ce détour met les critères en mots ; il n’efface pas les coûts historiques ni ne transforme l’imagination en preuve.
 
 ## Le même scénario sur une ligne
 

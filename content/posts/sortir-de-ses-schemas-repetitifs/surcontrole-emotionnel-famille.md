@@ -33,27 +33,66 @@ Dans une expérience de Gross et Levenson, la consigne de retenir l’expression
 
 Patrick est touché par la confidence de Stéphanie. Quand il parle de la météo, sa fille a peu d’indices sur ce qu’il a compris. Il peut lui dire qu’il l’écoute ou lui demander si elle souhaite parler de sa journée.
 
+**Exemples concrets**
+
+- Stéphanie décrit la demande de son responsable ; la remarque sur la pluie ne lui permet pas de savoir si son père a entendu ce qui la gêne.
+- Patrick lui tend sa tasse alors qu’il voudrait qu’elle se rassoie. Dire « j’aimerais entendre la suite » rendrait cette intention plus claire.
+
 ### Les habitudes et le contexte comptent
 
 Patrick se rappelle les paroles de Marcel et remarque que certaines lui viennent encore. Parfois, il préfère garder un sentiment pour lui et cette réserve lui convient. D’autres fois, il aimerait dire quelque chose mais redoute la réponse. Il peut observer la différence selon le sujet et la personne.
+
+**Exemples concrets**
+
+- Devant la serviette que Stéphanie lisse, il pense surtout à ce qu’il dirait au responsable et n’arrive pas à lui adresser sa propre inquiétude.
+- Dans la cuisine, il peut garder privée la feuille destinée à Marcel tout en demandant à Catherine comment sa fille est rentrée. Tout partager n’est pas nécessaire pour rester en lien.
 
 ### Il peut demander un soutien précis
 
 Quand il est préoccupé par la retraite, il peut proposer à Julien une promenade ou un moment pour parler. Une phrase peut suffire à ouvrir l’échange, si l’autre est disponible.
 
+**Exemples concrets**
+
+- Si Julien propose déjà une solution, Patrick peut demander à finir ses deux phrases avant d’en chercher une.
+- Il peut dire à Catherine qu’il souhaite parler de la discussion du repas, puis lui demander si elle a un moment. Elle peut proposer plus tard.
+
 ## Trois façons d’essayer une autre réponse
 
 ### 1. Chercher un mot qui convient
 
-Patrick peut se dire « j’ai été touché » ou « je suis inquiet », à voix basse ou par écrit. Il peut aussi laisser l’émotion un peu floue. Le mot lui sert à décider s’il a envie de parler.
+**Objectif** : Préparer une parole sur le repas sans devoir être certain de son émotion.
+
+**Exercice pratique**
+
+- Reprenez un fait précis : Stéphanie a parlé des heures demandées après son service.
+- Essayez un mot qui vous paraît assez juste, comme « touché » ou « inquiet ». Vous pouvez aussi écrire que vous ne savez pas encore.
+- Décidez ensuite si vous souhaitez le dire à Stéphanie, le garder dans votre note ou en reparler plus tard.
+
+**Utilité possible** : Le mot sert à choisir une réponse ; il ne devient ni un test ni une obligation de se confier.
 
 ### 2. Dire si l’on souhaite écouter ou chercher une solution
 
-À Stéphanie, il peut demander « Tu veux que je t’écoute ou que je t’aide à réfléchir à la suite ? » Il peut faire une demande similaire à Catherine quand il souhaite être entendu.
+**Objectif** : Vérifier ce que Stéphanie attend avant de répondre au responsable à sa place.
+
+**Exercice pratique**
+
+- Demandez : « Tu veux que je t’écoute ou que je t’aide à réfléchir à la suite ? »
+- Laissez-la répondre et préciser la demande de son responsable sans interrompre avec votre solution.
+- Suivez ce qu’elle demande dans la mesure de votre disponibilité ; si cela change, vérifiez de nouveau au lieu de décider pour elle.
+
+**Utilité possible** : Cette question peut rendre l’attention de Patrick perceptible et laisser à sa fille la direction de son récit.
 
 ### 3. Préparer une phrase avant de parler
 
-Il note ce qu’il aimerait dire à Marcel et relit la phrase quand il se sent prêt. Il peut la garder pour lui. Ce geste l’aide à préparer ses mots sans fixer de durée ni promettre de faire disparaître une émotion.
+**Objectif** : Trouver ses propres mots en gardant le choix de leur destinataire.
+
+**Exercice pratique**
+
+- Sur une feuille, notez une phrase que vous aimeriez dire à Marcel ou à propos du repas, sans devoir tout raconter.
+- Relisez-la si vous vous sentez prêt. Vous pouvez la raccourcir, la laisser imparfaite ou fermer le tiroir si l’écriture vous pèse.
+- Choisissez ce qui reste privé et, si vous voulez parler à Catherine, demandez d’abord si le moment lui convient.
+
+**Utilité possible** : Le brouillon peut préparer un échange sans imposer de durée d’écriture ni promettre de faire disparaître l’émotion.
 
 ## Avant que Stéphanie se lève
 

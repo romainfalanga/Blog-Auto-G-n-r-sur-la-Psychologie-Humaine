@@ -30,26 +30,56 @@ Après la perte du contrat, Stéphane se sent comme autrefois face à un mauvais
 Pleurer, se taire ou demander du réconfort n'indique pas qu'un adulte a perdu sa maturité. Voici ce que Stéphane remarque dans sa façon de réagir.
 
 ### 1. Avoir du mal à dire ce dont on a besoin
-Stéphane voudrait que Sandrine comprenne sa déception sans qu'il ait à la nommer. Il peut lui dire qu'il a besoin d'être écouté, sans lui demander de régler le problème.
+
+Après la perte du contrat, Stéphane peut souhaiter une présence sans trouver d’emblée comment la demander. Ce besoin de réconfort n’établit pas une perte de maturité ni un retour réel en enfance.
+
+Au téléphone avec sa mère, il espère entendre qu’il n’a pas démérité sans préciser ce qu’il souhaite recevoir. Avec Sandrine, il voudrait qu’elle comprenne sa déception sans avoir à la nommer. Dans le premier échange, il cherche une validation ; dans le second, une écoute encore peu formulée. Il peut préciser l’appui demandé sans demander à l’autre de réparer Lemoine.
 
 ### 2. Le repli sur des comportements de réconfort immédiat
-Stéphane a envie de s'isoler et de jouer quelque temps. Il peut avoir besoin d'une pause. S'il utilise régulièrement l'alcool pour supporter la tension et que cela le préoccupe, il peut en parler à un professionnel.
+
+Une activité familière ou un moment seul peuvent être souhaités après une déception. Leur présence ne démontre pas une régression et ne dit pas si la pause répond à son besoin dans la durée.
+
+Stéphane peut avoir envie de rester quelque temps seul avant de raconter le résultat à Sandrine. Il peut aussi souhaiter jouer un moment pour ne pas poursuivre immédiatement le dossier. Ces deux choix peuvent être examinés selon ce qu’il souhaite ensuite, sans obligation de reprendre le travail pour prouver son sérieux. S’il utilise régulièrement l’alcool pour supporter la tension et que cela le préoccupe, il peut en parler à un professionnel.
 
 ### 3. Tirer une conclusion générale d'un revers
-Sur le parking, Stéphane passe de « j'ai perdu ce contrat » à « j'ai tout raté ». Quand il se sent prêt, il peut distinguer le résultat, les informations qui lui manquent et les décisions qui restent à sa portée.
+
+Un résultat professionnel peut prendre une portée plus large dans le jugement que Stéphane se porte. Il peut distinguer cette conclusion de la perte réelle du contrat et des autres questions qui demandent une réponse.
+
+Sur le parking, « Lemoine a choisi un concurrent » devient « j’ai tout raté ». À la maison, il pourrait aussi prendre une sortie avec Maxime encore non fixée pour la preuve qu’il manque à tous ses rôles. La décision du client et l’organisation familiale ne sont pas le même problème. Les nommer séparément peut rendre une prochaine question possible sans promettre de se sentir capable partout.
 
 ## Techniques pour agir face à la régression après un échec
 
 Quelques gestes peuvent l'aider à reprendre le fil de la journée, sans en faire un test de maturité.
 
 ### 1. Dire ce qui fait mal aujourd'hui
-Stéphane peut écrire une phrase sur sa déception et une autre sur ce qui lui serait utile : parler à Sandrine, demander un retour au directeur ou prendre le reste de la soirée pour souffler. Il n'a pas à rechercher un souvenir douloureux.
 
-### 2. L'ancrage sensoriel par l'action compétente
-Choisir une activité familière peut lui faire du bien : préparer le dîner ou ranger un dossier, s'il en a envie. Le but peut être simplement de reprendre une activité ordinaire ; il n'a rien à démontrer en la réussissant.
+Stéphane cherche des mots sur la déception présente, sans devoir rechercher un souvenir douloureux ou expliquer son enfance.
+
+1. Écrire ou dire le fait et son effet : « Nous avons perdu Lemoine et je m’en veux. » Il peut garder des mots plus provisoires s’il préfère.
+2. Choisir ce qui lui serait utile maintenant : une écoute de Sandrine, une pause ou un retour professionnel prévu avec l’équipe.
+3. Formuler cette demande à l’interlocuteur choisi et entendre sa disponibilité. Il peut ajuster le moment sans traiter une réponse partielle comme un abandon.
+
+La formulation peut rendre l’appui plus accessible. Elle n’efface pas l’échec et ne demande pas que l’autre garantisse qu’il n’a aucune responsabilité.
+
+### 2. Retrouver une activité familière
+
+Une activité familière peut donner une place à autre chose dans la soirée. Il ne s’agit pas de prouver sa compétence ni de neutraliser une réaction par un exercice de réussite.
+
+1. Choisir une activité qu’il souhaite réellement : préparer une partie du dîner, ranger le dossier ou rester au calme. Il n’a pas à choisir la plus productive.
+2. Lui donner un périmètre ordinaire, sans reprendre en même temps toute la préparation du lendemain ni se noter sur son efficacité.
+3. À la fin, décider de poursuivre, de se reposer ou de rejoindre Sandrine. Le retour d’une pensée sur Lemoine n’oblige pas à recommencer l’activité.
+
+Ce choix peut aider à reprendre le fil de la soirée. Il ne traite pas l’origine de la détresse et ne garantit pas qu’une tâche familière fera du bien aujourd’hui.
 
 ### 3. La réattribution factuelle de l'échec
-Quand Stéphane a accès au retour du client, il peut noter ce qui a compté dans la décision, ce qu'il pourra modifier et ce qu'il ignore encore. Il peut aussi demander un retour concret à son équipe.
+
+Quand un retour est disponible, Stéphane peut chercher ce qu’il apprend de cette décision commerciale. Les raisons ne doivent pas être inventées pour lui retirer ou lui attribuer toute la responsabilité.
+
+1. Rassembler le retour client et les éléments du suivi qu’il est autorisé à consulter, en séparant les faits des suppositions.
+2. Avec son équipe, identifier ce qui a pesé, ce qu’il pourra modifier et ce qui reste inconnu. La panne, le calendrier et le choix du concurrent peuvent demander des précisions différentes.
+3. Choisir un ajustement ou une information à demander pour un prochain dossier, sans tirer un bilan définitif de toute sa capacité à vendre.
+
+Cette analyse peut orienter le travail suivant. Elle ne rend pas la perte agréable et ne suffit pas à expliquer l’ensemble de la réaction de Stéphane.
 
 ## Proposer une sortie après la perte de Lemoine
 

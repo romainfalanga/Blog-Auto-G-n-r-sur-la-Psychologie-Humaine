@@ -20,45 +20,74 @@ Pourtant, cette sensation s'accompagne d'une rigidité soudaine. Elle repense à
 Elle s'assoit, ses mains expressives triturant nerveusement le bord de son dossier. Malgré les félicitations, elle ressent le besoin de préciser que tout n'est pas parfait, que le mérite revient aussi à l'équipe, une manière de diluer cette intensité intérieure qui l'effraie. Sa méfiance, cette vieille compagne de route, murmure que la chute est proche si elle savoure trop ce moment. Elle perçoit que cette émotion, qu'elle identifie maintenant comme une forme de fierté, agit comme un bouclier mais aussi comme une barrière entre elle et les autres. Elle se sent à la fois au-dessus et isolée, une dualité fatigante qui l'empêche de simplement savourer l'instant présent avec ses collègues.
 
 ## Définition de la fierté et mécanismes psychologiques
-
 La fierté est une émotion liée à la manière dont on évalue une réussite ou une qualité que l’on s’attribue. Dans leurs [travaux sur deux facettes de la fierté](https://pubmed.ncbi.nlm.nih.gov/17352606/), Jessica Tracy et Richard Robins distinguent notamment une fierté liée à des accomplissements d’une fierté centrée sur la supériorité. Cette distinction est un modèle de recherche ; les deux termes ne sont pas des diagnostics et recevoir un compliment ne dit pas à quelle facette appartient une personne.
 
 Djamila passe la scène en revue et se demande si elle pourra refaire aussi bien. Ce sont ses propres réactions, que son histoire avec Samir aide à éclairer dans le récit. Les profils à haut potentiel sont divers, comme le rappelle le [vade-mecum d’Éduscol](https://eduscol.education.fr/document/1083/download) dans le contexte scolaire. Il n’y a pas lieu de déduire du haut potentiel une façon particulière de ressentir la fierté.
 
 ## Manifestations de la fierté dans le contexte professionnel
-
-La fierté au travail ne se résume pas à fanfaronner après une promotion. Elle s'immisce dans les détails du quotidien, parfois de manière très subtile, surtout chez ceux qui ont appris à masquer leurs émotions par stratégie de survie.
+Ces situations concernent la manière dont Djamila reçoit la reconnaissance dans cet épisode. Elles ne décrivent ni un profil de haut potentiel ni une réaction obligatoire après des violences.
 
 ### 1. L'exigence de perfection et l'isolement
 
 Djamila hésite à demander de l’aide même quand elle en aurait besoin. Elle craint de ternir le travail dont elle est fière ou de s’exposer à un jugement. La charge de travail, les relations dans l’équipe et l’expérience avec Samir peuvent aussi éclairer cette hésitation.
 
+Exemples situés :
+
+- Après le remerciement sur les rendez-vous obtenus, Djamila prépare aussitôt la liste de ce qui reste à régler.
+- Elle pourrait garder une difficulté du projet pour elle par crainte de contredire le compliment reçu.
+
 ### 2. La sur-justification et le besoin de contrôle
 
-Au travail, la fierté peut aussi se manifester par une tendance à justifier chaque décision de manière exhaustive. Lorsqu'on présente un projet, comme Djamila vient de le faire, le besoin que chaque détail soit reconnu comme le fruit d'une réflexion intense est une forme de fierté intellectuelle. Cela peut donner l'impression aux autres membres de l'équipe que leur avis compte peu, car le créateur du projet protège son œuvre comme une partie de son identité. Si une critique est émise, même constructive, elle est vécue comme une attaque personnelle contre cette fierté durement acquise, déclenchant des mécanismes de défense ou de l'hypervigilance.
+Djamila prépare parfois une explication très longue lorsqu’une question touche un projet dont elle est fière. Elle craint qu’un détail non justifié expose l’ensemble de son travail au jugement. Cette réaction lui appartient ; demander une précision ou être fière ne suffit pas à conclure à de l’hypervigilance ou à un besoin général de contrôler les autres.
+
+Exemples situés :
+
+- À une question sur une étape du projet, elle peut répondre par tous les détails de sa préparation alors qu’un seul point était demandé.
+- Une réserve sur un rendez-vous peut lui paraître contester tout son travail, avant qu’elle ait fait préciser la remarque.
 
 ### 3. La minimisation défensive des succès
 
 Remercier une équipe n’est pas un signe de fierté « inversée ». Djamila remarque que, pour elle, nommer le mérite collectif est parfois une façon d’éviter de recevoir le compliment. Elle peut reconnaître les deux contributions à la fois, sans prêter le même motif à toutes les personnes modestes.
 
+Exemples situés :
+
+- Djamila nomme les contributions de l’équipe pour éviter de répondre au compliment sur ses rendez-vous.
+- Elle peut commencer un merci par une correction sur les défauts restants, même si la collègue n’a pas annoncé une évaluation globale.
+
 ## Techniques pour apprivoiser la fierté
+Ces propositions sont facultatives et ne remplacent pas une réponse de protection lorsqu’elle est nécessaire.
 
-Apprivoiser sa fierté au travail demande de la pratique et une observation honnête de ses propres mécanismes internes. Voici des exercices concrets pour transformer cette émotion en un allié serein.
+### 1. La technique de l’ancrage sensoriel de la réussite
 
-### 1. La technique de l'ancrage sensoriel de la réussite
+Objectif : S’accorder un instant avant de répondre au compliment.
 
-Si elle a envie de marquer le moment, Djamila peut sentir le gobelet dans sa main et se dire ce qui lui a fait plaisir. Ce geste lui donne un instant pour accueillir le compliment avant de répondre.
+1. Choisir un repère confortable, comme regarder la feuille où son nom est inscrit ou remarquer le gobelet dans sa main.
+2. Nommer ce qui lui fait plaisir dans la remarque précise, sans devoir produire une sensation de fierté.
+3. Décider d’une réponse brève ou d’une pause, en laissant les détails du travail pour un autre échange si elle le souhaite.
+
+Utilité possible : Ce temps peut aider Djamila à choisir ses mots. Il ne demande ni de relâcher le corps ni de recevoir un contact physique qu’elle ne souhaite pas.
 
 ### 2. Le journal des attributions internes et externes
 
-Pour équilibrer la fierté authentique et éviter l'orgueil ou la dévalorisation, prenez l'habitude d'écrire chaque soir trois réussites de la journée, aussi petites soient-elles. Pour chaque réussite, notez ce qui relève de votre effort personnel (attribution interne) et ce qui relève de l'aide des autres ou de la chance (attribution externe). Par exemple, Djamila pourrait écrire que la clarté de sa présentation vient de son travail de recherche, mais que l'écoute de l'assemblée est un facteur externe positif. Cet exercice aide à muscler la fierté saine, celle qui reconnaît sa propre valeur sans nier l'interdépendance avec les autres, ce qui est essentiel pour une reconstruction relationnelle après un abus.
+Objectif : Reconnaître une contribution personnelle et l’aide collective sans les opposer.
+
+1. Choisir un résultat précis du projet, tel un rendez-vous obtenu.
+2. Noter ce que Djamila a fait et ce qui relève des collègues ou des conditions de travail, sans répartir tout le mérite en pourcentages.
+3. Garder une phrase sur chaque contribution puis fermer le carnet ; aucune liste quotidienne de réussites n’est exigée.
+
+Utilité possible : Cette trace peut rendre le remerciement plus concret. Elle ne classe pas la fierté de Djamila et ne constitue pas une étape obligatoire de reconstruction après une violence.
 
 ### 3. La pratique de la vulnérabilité choisie
 
-Djamila peut, si elle le souhaite, demander un avis à Amina sur un point précis. Dans un climat de travail qui ne lui paraît pas sûr, elle peut aussi choisir un autre interlocuteur ou ne rien partager. La réaction d’un collègue ne mesure pas sa compétence ni les progrès de sa reconstruction.
+Objectif : Demander un avis professionnel ciblé sans devoir raconter une fragilité intime.
+
+1. Choisir une question du projet sur laquelle Djamila souhaite un avis et un interlocuteur qui lui convient, Amina si elle le souhaite.
+2. Demander si la personne peut regarder ce seul point, en conservant la possibilité de ne rien partager si le contexte paraît peu sûr.
+3. Utiliser le retour pour une décision du projet ou demander une précision, sans en faire une mesure de sa compétence entière.
+
+Utilité possible : Un échange circonscrit peut offrir une aide de travail. Il ne teste pas la loyauté d’Amina ni les progrès de Djamila.
 
 ## Un merci sans rectificatif
-
 Près de la machine à eau, Amina lève la main vers son épaule, puis s’arrête : « Je peux ? » À la brasserie, Djamila n’avait pas eu le temps de répondre à cette question. Cette fois, elle acquiesce. Elle a encore la nuque serrée et n’a pas envie de rester dans le couloir à parler d’elle.
 
 « Merci », dit-elle à Amina. Elle pense à ajouter que tout le monde avait fait sa part. Elle le pense toujours en allant chercher Adam, et elle sait à qui elle voudrait le dire. Pour le moment, c’est son propre travail qu’on vient de reconnaître.

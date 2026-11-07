@@ -33,15 +33,21 @@ Le cas de Lucas aide à se demander si ce qu’on a déjà prend une place parti
 
 ### La surévaluation de l'existant
 
-Lorsqu'on doit prendre une décision, on a tendance à magnifier les aspects positifs de notre situation actuelle tout en minimisant ses défauts. Lucas oublie soudainement les remarques acerbes de son tuteur de stage ou ses doutes sur son mémoire. Il ne voit plus que le confort de ses habitudes. Il attribue une valeur sentimentale et stratégique à ses dossiers actuels qui, pourtant, ne lui appartiennent pas. C'est cette tendance à croire que ce que nous détenons est intrinsèquement plus précieux que ce que nous pourrions obtenir.
+Ce qui appartient déjà au quotidien de Lucas peut prendre une valeur particulière au moment d’envisager un départ. Cela mérite d’être distingué de ses avantages réels : connaître une équipe et disposer d’un logement sont des informations utiles, pas des erreurs de raisonnement.
+
+Lucas peut ainsi donner une place centrale à son bureau près de la fenêtre en laissant de côté les conditions du stage qui lui pèsent. Il peut aussi traiter le dossier sur lequel il travaille depuis trois mois comme irremplaçable sans demander ce qu’il pourra encore y apprendre. Le premier exemple porte sur un cadre familier ; le second, sur une activité investie. Aucun ne suffit à prouver que Paris serait un mauvais choix.
 
 ### La peur du regret liée au changement
 
-Lucas anticipe le regret si le poste lyonnais se passe mal. Préférer le statu quo, anticiper le regret ou tenir compte des coûts de déménagement ne sont pas des synonymes de l’effet de dotation.
+Lucas imagine le regret possible si le travail lyonnais lui convient moins qu’espéré. Anticiper ce regret ou préférer le statu quo n’est pas synonyme d’effet de dotation. L’intérêt est ici de séparer les questions au lieu de faire d’une seule étiquette la cause de toute son hésitation.
+
+Il peut redouter de quitter la colocation et de moins voir Maxime et Romain : c’est un coût relationnel à examiner. Il peut aussi craindre de manquer d’accompagnement dans le futur poste : c’est une information à demander lors de l’entretien final. Ces deux préoccupations n’appellent pas la même réponse et ne deviennent pas irrationnelles parce qu’elles concernent ce qu’il pourrait perdre.
 
 ### L'investissement émotionnel et temporel
 
-Lucas a passé plusieurs mois sur ses dossiers et ne veut pas avoir le sentiment de les abandonner. Lucas a investi de l'énergie pour s'intégrer dans son agence, pour comprendre les rouages de l'entreprise et pour prouver sa valeur malgré son sentiment d’imposture. Se séparer de ce stage revient, dans son esprit, à jeter tout ce travail. Il confond la valeur de son effort passé avec la valeur de l'opportunité future, ce que les économistes appellent aussi le piège des coûts irrécupérables. Ce mécanisme rappelle sa difficulté à abandonner ses sujets de mémoire trop complexes : il préfère s'épuiser sur un acquis difficile plutôt que de repartir sur une base plus saine mais inconnue.
+Les efforts déjà faits comptent dans l’histoire de Lucas. Ils ne donnent cependant pas, à eux seuls, la valeur d’une possibilité future. Le raisonnement sur un coût déjà engagé est voisin de la réflexion sur la perte, mais distinct de l’effet de dotation étudié avec des objets possédés.
+
+Lucas peut vouloir rester sur son dossier parce qu’il y passe plusieurs mois, même s’il lui reste à demander quelle suite est réellement disponible. Pour son mémoire, il peut vouloir garder un sujet trop vaste parce qu’il a déjà accumulé des notes. Dans ces deux exemples, la question utile est ce que la prochaine étape demande et apporte encore. L’effort passé n’est pas effacé lorsqu’il choisit de modifier la suite.
 
 ## Techniques pour agir avec discernement
 
@@ -49,15 +55,33 @@ Pour sortir de cette paralysie, il est nécessaire de décentrer sa perception e
 
 ### 1. La technique du test de remplacement
 
-Cette méthode consiste à imaginer que vous ne possédez pas encore l'option actuelle et que vous devez choisir entre les deux propositions à partir de zéro. Imaginez que vous êtes aujourd'hui sans emploi et que deux enveloppes sont sur la table : l'une contient le poste actuel de Lucas à Paris, l'autre contient l'offre de Lyon. Dans cette configuration, laquelle choisiriez-vous ? Imaginer les deux options comme nouvelles peut faire apparaître des critères qu’il oubliait. Il doit ensuite réintégrer les différences réelles, comme les coûts et les liens sur place.
+Imaginer les deux options comme nouvelles peut faire apparaître des critères que la familiarité masque. Ce détour ne doit pas effacer le contrat actuel ni les coûts réels d’une transition.
+
+1. Sur deux feuilles, Lucas décrit seulement les conditions connues à Paris et celles évoquées à Lyon, en marquant ce qui reste à confirmer. Rien n’est encore signé à Lyon.
+2. Il demande ce qu’il voudrait savoir ou choisir si ces options arrivaient ensemble aujourd’hui, sans faire de l’attachement actuel une faute.
+3. Il réintroduit la fin du stage, le logement, les liens et les frais de départ avant de choisir la prochaine démarche, ici demander des précisions à l’entretien.
+
+Le test met des critères en discussion. Il ne démontre pas qu’un départ serait préférable et ne transforme pas une hypothèse en offre confirmée.
 
 ### 2. L'analyse du coût d'opportunité réel
 
-L'effet de dotation nous fait regarder ce que nous perdons, mais il nous rend aveugle à ce que nous ne gagnons pas en restant sur place. Prenez une feuille de papier et tracez deux colonnes. Dans la première, notez ce que vous perdez concrètement en quittant votre situation actuelle (vos habitudes, vos collègues, votre confort). Dans la seconde, listez tout ce que vous renoncez à obtenir en refusant la nouvelle opportunité (salaire, apprentissage, prestige, épanouissement). En visualisant le coût de l'inaction, vous transformez l'évitement de la perte en une motivation pour le gain. Les deux décisions impliquent des renoncements et des possibilités. Lucas peut comparer les conditions qu’il connaît sans traiter la carrière à Lyon comme un gain assuré.
+L’objectif est de regarder ce que chaque décision permet et ce qu’elle laisse de côté, avec les mêmes exigences d’information.
+
+1. Lucas note ce qu’il conserverait à Paris et ce qu’il quitterait : relations de travail, colocation et suite du stage, selon les possibilités réelles.
+2. Il fait la même chose pour Lyon : salaire annoncé, apprentissages envisagés, dépenses et appuis inconnus. Il distingue un renseignement confirmé d’un espoir.
+3. Il choisit la question susceptible de modifier la comparaison, par exemple l’accompagnement prévu ou la date de prise de poste, et la pose à Mathieu.
+
+La comparaison conserve des renoncements des deux côtés. Elle ne donne pas une valeur certaine au poste lyonnais et n’oblige pas Lucas à transformer chaque hésitation en occasion manquée.
 
 ### 3. La mise en perspective du futur moi
 
-Lucas peut imaginer les deux trajectoires sans chercher à prédire celle qu’il regrettera. Il identifie ce qu’il aimerait apprendre et ce que chaque poste lui permettrait réellement d’essayer.
+Se projeter sert ici à préciser une vie quotidienne possible, sans prédire quel choix il regrettera.
+
+1. Lucas choisit un horizon lié à la décision, par exemple la période après le stage et le mémoire, et décrit ce qu’il aimerait pouvoir apprendre et organiser.
+2. Pour chaque option, il distingue ce que les renseignements actuels rendent possible de ce qu’il imagine seulement : travail, trajet, logement et lien avec ses amis.
+3. Il revient au présent et choisit l’information ou l’échange nécessaire avant de décider. Si une inconnue importante reste ouverte, il peut la garder comme telle.
+
+Cette projection fournit des questions concrètes. Elle n’est pas un accès à son avis futur et ne remplace pas la vérification des conditions.
 
 ## Un dernier entretien à Lyon
 

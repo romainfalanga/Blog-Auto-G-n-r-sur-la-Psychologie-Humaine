@@ -33,13 +33,28 @@ Une exigence peut aider à accomplir une tâche. Sophie regarde plutôt les mome
 
 Chez Sophie, cela se traduit par un besoin viscéral de prouver sa valeur à travers ses titres professionnels ou ses compétences techniques. Lors des repas familiaux, chaque question sur sa carrière est perçue comme un test de compétence. Elle a l'impression que si elle n'annonce pas une promotion ou une réussite majeure, elle déçoit les attentes de ses parents. Cette dynamique crée un état de vigilance constante, où elle prépare mentalement ses réponses pour paraître la plus performante possible, reproduisant le schéma de la première de classe qu'elle était autrefois.
 
+Exemples concrets :
+
+- Au déjeuner de Nantes, la question sur la candidature l’amène à préparer une démonstration de compétence plutôt qu’une simple nouvelle.
+- Elle pense déjà aux questions de l’entretien que son père pourrait lui poser, même lorsqu’il n’a pas demandé de justification supplémentaire.
+
 ### 2. L'intolérance envers ses propres failles
 
 La critique excessive se manifeste par une voix intérieure qui résonne comme celle de ses parents lorsqu'ils étaient exigeants. Sophie ne se pardonne rien. Si elle commet une petite erreur de syntaxe dans son code, elle ne voit pas cela comme un aléa du métier, mais comme une preuve d'incompétence. Ce mécanisme est exacerbé en présence de son père et de sa mère, car elle craint qu’ils la jugent aussi sévèrement qu’elle se juge. Elle imagine qu'ils voient ses doutes et ses faiblesses, ce qui renforce son sentiment d'illégitimité et l'empêche de savourer ses réelles victoires.
 
+Exemples concrets :
+
+- Elle repasse la réponse trop rapide sur la taille de l’équipe en oubliant les autres éléments de l’entretien.
+- Une erreur de syntaxe corrigible peut devenir à ses yeux un jugement sur toute sa compétence, au lieu de rester un point technique.
+
 ### 3. La difficulté à lâcher prise sur le temps libre
 
 Même durant ses moments de repos chez ses parents, Sophie se sent coupable de ne pas être productive. Si elle s'installe dans le jardin pour lire sans but précis, une pensée parasite lui rappelle qu'elle pourrait perfectionner son apprentissage d'un nouveau langage informatique. Ce schéma interdit la gratuité du moment présent. Sophie se demande si les encouragements à faire toujours plus ont compté dans cette idée que le repos se mérite. La séance de yoga, qu'elle s'impose habituellement, devient parfois un autre objectif de performance plutôt qu'un espace de détente.
+
+Exemples concrets :
+
+- Dans le jardin, ouvrir un roman peut lui sembler moins défendable que travailler un nouveau langage.
+- Sa séance de yoga peut devenir une chose de plus à réussir si elle lui demande d’être parfaitement détendue.
 
 ## Techniques pour agir face aux exigences élevées et à la critique excessive
 
@@ -51,9 +66,13 @@ Cette méthode consiste à identifier la critique interne et à la confronter à
 
 Pour sortir de la pensée binaire du tout ou rien, il est utile de définir des seuils de réussite plus souples. Au lieu de viser la perfection inatteignable, fixez-vous trois niveaux pour une tâche donnée : le minimum acceptable, le niveau satisfaisant et le niveau bonus. Par exemple, pour un repas de famille, le niveau acceptable peut être simplement d'être présente et polie. Le niveau satisfaisant serait de partager un moment de discussion agréable. Le niveau bonus serait d'aborder un sujet de réussite. Cela permet de réaliser que même si le bonus n'est pas atteint, la mission reste accomplie. Notez ces critères dans un carnet avant l'événement pour ancrer cette nouvelle perspective.
 
+Pour essayer, nommez d’abord ce qui compte pour cette visite ; distinguez ensuite votre souhait des obligations réelles ; après le repas, revenez à un fait du moment sans noter la qualité de la relation. Les niveaux proposés sont des repères facultatifs, pas une évaluation à réussir.
+
 ### 3. Essayer de s’arrêter à « assez bien »
 
 Dans une situation sans enjeu important, Sophie peut admettre qu’elle ne connaît pas la réponse à une question de son père, sans promettre de la trouver dans l’heure. Elle observe ce qui se passe, qu’il réagisse bien ou non. Le [Centre for Clinical Interventions](https://www.cci.health.wa.gov.au/Resources/For-Clinicians/Perfectionism) propose des exercices comparables pour examiner des attentes liées au perfectionnisme. Cela n’oblige pas à se mettre en difficulté ou à négliger une vérification qui protège quelqu’un.
+
+Pour essayer, choisissez une question sans enjeu de sécurité ; dites que vous ne savez pas encore sans promettre une recherche immédiate ; observez ensuite l’échange et décidez si vous souhaitez reprendre ce sujet ou maintenir votre limite.
 
 ## La tarte aux bords trop cuits
 

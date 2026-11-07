@@ -20,43 +20,74 @@ Elle décroche, la voix un peu trop haute, un réflexe de défense qu'elle a ide
 Pendant que sa mère égrène la liste de ses déceptions, Djamila observe sa main qui serre le rebord de la table. Elle anticipe que sa mère va crier, puis l’appeler le lendemain d’une voix douce pour proposer de garder Adam. Cette alternance lui rappelle certaines périodes avec Samir. Elle veut comprendre ce rapprochement sans en faire une règle qui expliquerait toute son histoire.
 
 ## Définition du cycle de l’abus : tension, violence et accalmie
-
 À la fin des années 1970, [Lenore Walker](https://www.ojp.gov/ncjrs/virtual-library/abstracts/psychotherapy-and-counseling-battered-women-research-violent) a proposé un modèle en trois phases à partir de violences dans le couple : montée de la tension, épisode violent, puis période d’excuses ou d’accalmie. Djamila se sert de cette image pour décrire une alternance qu’elle reconnaît dans ses relations familiales. Le modèle n’établit pas que toutes les violences suivent ces étapes. Certaines sont continues, et une personne peut contrôler ou menacer l’autre sans jamais s’excuser.
 
 Un retour au calme peut susciter un soulagement ou l’espoir que les faits ne se reproduiront pas. Il ne prouve pas que la situation est redevenue sûre. Les décisions dépendent aussi des risques concrets, de l’argent, du logement, des enfants et de l’aide disponible. La responsabilité de la violence appartient à la personne qui l’exerce.
 
 ## Manifestations du cycle dans le contexte avec ses parents
-
 Dans sa famille, Djamila repère des épisodes qui lui rappellent ces trois temps. Un soupir, un désaccord ou un cadeau pris isolément ne suffisent pas à conclure à des violences ; la répétition, les humiliations, les menaces et le contrôle comptent.
 
 ### 1. La phase de tension et le climat d'alerte
 
-Chez les parents de Djamila, la tension ne s'exprime pas toujours par des mots. Elle se manifeste par des soupirs lourds, des regards désapprobateurs ou un silence glacial qui s'installe dès qu'elle franchit la porte. C'est le moment où Djamila sent qu'elle doit marcher sur des œufs. Elle surveille chaque mot, vérifie que la tenue d'Adam est impeccable et tente de deviner l'humeur de son père au simple bruit de ses pas dans le couloir. Cette phase installe une anxiété latente qui épuise les ressources psychologiques, car la menace est invisible mais omniprésente.
+Djamila décrit des moments où elle surveille les réactions de ses parents et prépare ses paroles en anticipant des reproches. Un silence ou un soupir isolé ne suffit pas à qualifier la relation. Ce sont les faits, les répétitions, les humiliations ou les menaces qu’elle souhaite pouvoir examiner et prendre au sérieux.
+
+Exemples situés :
+
+- Lors d’un appel, Djamila surveille sa propre voix pour éviter les reproches qu’elle anticipe.
+- Avant une visite, elle peut vérifier plusieurs fois la tenue d’Adam en espérant qu’aucune critique ne commence.
 
 ### 2. L'explosion émotionnelle et le rejet
 
 Dans le souvenir de Djamila, un retard ou un désaccord sur l’éducation d’Adam précède parfois des cris et des insultes. Ces faits ne sont pas causés par le retard ou le désaccord. Quand sa mère hurle, Djamila repense à des scènes avec Samir et à ces journées de deuil où le moindre bruit la faisait sursauter.
 
+Exemples situés :
+
+- Des cris après un retard restent des actes de la personne qui crie ; ils ne deviennent pas la faute de Djamila arrivée tard.
+- Une insulte après un désaccord sur Adam ne se réduit pas à une discussion éducative entre adultes.
+
 ### 3. La lune de miel et la culpabilisation par la gentillesse
 
 Quelques jours après un esclandre, ses parents l’appellent comme si de rien n’était ou arrivent avec un jouet pour Adam. Djamila se sent à la fois soulagée et coupable de garder ses distances. Elle peut apprécier un geste sans y voir une réparation : les insultes ont eu lieu, et la question reste de savoir si ses limites seront respectées dans la durée.
 
+Exemples situés :
+
+- Une proposition de garde après un esclandre peut donner à Djamila envie de rapprocher les visites sans que les insultes aient été reconnues.
+- Un jouet offert à Adam peut être apprécié sans engager Djamila à modifier la sortie en forêt promise à son fils.
+
 ## Des repères pour décider quoi faire
+Ces propositions sont facultatives et ne remplacent pas une réponse de protection lorsqu’elle est nécessaire.
 
 ### 1. Privilégier la sécurité si la tension monte
 
-Il n’est pas nécessaire de rester dans la pièce pour tenir tête ni de se persuader d’être en sécurité. Selon la situation, Djamila peut mettre fin à un appel ou demander à un proche de l’aider à organiser les échanges. Si partir ou poser une limite risque d’aggraver le danger, un service spécialisé peut aider à réfléchir à un plan adapté. En France, le [portail Arrêtons les violences](https://arretonslesviolences.gouv.fr/besoin-d-aide) oriente vers les services d’aide ; en cas de danger immédiat, appelez le 17 ou le 112.
+Objectif : Chercher une option adaptée au risque plutôt qu’imposer une confrontation.
+
+1. Repérer ce qui se passe maintenant et si Adam est présent, sans attendre une phase particulière du modèle pour prendre une menace au sérieux.
+2. Si cela peut se faire sans accroître le danger, choisir de terminer l’appel ou de s’éloigner ; si cette option inquiète, demander une aide spécialisée pour réfléchir à une manière adaptée.
+3. Choisir un appui fiable pour préparer les échanges suivants, sans faire d’Adam un messager ou un protecteur.
+
+Utilité possible : Aucune phrase ne garantit la sécurité. Le [portail Arrêtons les violences](https://arretonslesviolences.gouv.fr/besoin-d-aide) oriente vers des services d’aide ; en cas de danger immédiat, appelez le 17 ou le 112.
 
 ### 2. Distinguer un geste aimable d’un changement durable
 
-Un cadeau ne vous oblige pas à répondre, à reprendre une visite ni à accepter que votre enfant y participe. Vous pouvez prendre du temps et demander de l’aide pour peser vos options. Djamila choisit de décliner l’invitation pour Adam. C’est possible dans cette scène ; la confrontation n’est pas une condition pour être protégé.
+Objectif : Décider d’une invitation sans devoir la payer par un rapprochement.
+
+1. Séparer le cadeau ou l’offre de garde des faits de violence et des limites non respectées.
+2. Vérifier ce que Djamila souhaite pour le prochain week-end et les besoins concrets d’Adam, sans lui faire choisir entre les adultes.
+3. Prendre du temps, décliner ou demander un soutien pour peser les options ; aucune réponse n’est exigée pour prouver sa gratitude.
+
+Utilité possible : Cette distinction peut préserver le choix de Djamila. Une accalmie ne prouve pas un changement durable et le refus n’est pas une condition obligatoire pour être protégée.
 
 ### 3. Remarquer la tension quand on est à l’abri
 
-Au calme, Djamila peut remarquer qu’elle serre la mâchoire ou qu’elle tremble et se demander ce qui l’aiderait : faire une pause, appeler une personne de confiance, choisir un autre moment pour lire ses messages. Une sensation ne permet pas à elle seule de prévoir les actes d’autrui ; elle mérite tout de même qu’on y prête attention.
+Objectif : Choisir un appui après l’échange sans utiliser le corps comme détecteur d’autrui.
+
+1. Une fois à l’abri, remarquer un signe actuel si cela convient, ou simplement observer un objet de la cuisine.
+2. Se demander ce qui aiderait maintenant : pause, personne de confiance ou autre moment pour lire les messages.
+3. Essayer cet appui puis l’adapter ou l’arrêter si l’alerte augmente, en réservant l’examen des violences à un échange adapté avec un adulte ou un professionnel.
+
+Utilité possible : Le repère peut faciliter une transition après l’appel. Une sensation ne permet pas de prédire les actes de la mère de Djamila.
 
 ## Le samedi d’Adam
-
 Sa mère lui demande si Adam ne préférerait pas passer le week-end chez elle. Djamila manque de répondre qu’elle verra. Elle a déjà promis à Adam qu’ils iraient en forêt. « Samedi, on garde notre sortie », dit-elle. Elle accepte de reparler d’une visite un autre jour, puis termine l’appel.
 
 Dans la cuisine, elle continue à entendre la voix de sa mère un moment après avoir raccroché. Adam lui montre un arbre qu’il a dessiné. Il veut savoir s’ils en verront un aussi grand. Djamila lui demande de laisser le dessin sur la table pour qu’ils pensent à l’emporter.

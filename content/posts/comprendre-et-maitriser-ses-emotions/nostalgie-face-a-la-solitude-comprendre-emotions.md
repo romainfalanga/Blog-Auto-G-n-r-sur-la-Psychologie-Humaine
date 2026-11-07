@@ -31,27 +31,66 @@ La nostalgie mêle parfois le plaisir de se rappeler une expérience et le regre
 
 Le niveau à bulle évoque le travail avec Marcel et les moments avec Julien. Patrick retrouve des détails agréables et ressent aussi leur absence. Il peut éprouver ces réactions ensemble.
 
+**Exemples concrets**
+
+- Le coin cabossé rappelle la tentative de Julien d’utiliser le niveau comme un marteau et le sourire de Marcel.
+- Le bleu trop grand de Stéphanie lui rappelle sa persévérance ; la photo souligne aussi qu’elle n’est pas dans le garage aujourd’hui.
+
 ### Être seul et se sentir seul diffèrent
 
 Le garage est vide pendant les courses de Catherine. Ce qui pèse sur Patrick est le manque de conversations qu’il souhaiterait avoir avec ses enfants. Ce sentiment peut apparaître même quand une personne a des contacts réguliers. Certains moments seuls peuvent aussi être choisis et agréables.
+
+**Exemples concrets**
+
+- Patrick a une activité prévue et Catherine rentrera, mais il aimerait partager autre chose qu’une heure de rendez-vous avec Stéphanie.
+- Rester un moment sur son tabouret peut lui convenir. Ce choix n’a pas le même sens que rester parce qu’il n’ose pas proposer un échange.
 
 ### Le souvenir suggère une envie actuelle
 
 Patrick aimerait reparler d’une ancienne photo. Il peut envoyer un message et laisser Stéphanie répondre quand elle en aura envie. Certains souvenirs rendent plutôt triste. Il peut choisir une autre activité s’il remarque que les regarder le fait tourner en rond.
 
+**Exemples concrets**
+
+- Il choisit la photo de l’étagère pour poser une question à Stéphanie et lui dire sa fierté.
+- Après l’envoi, il peut remettre le tabouret d’aplomb plutôt que surveiller le téléphone pour obtenir tout de suite une réponse.
+
 ## Des pistes à essayer selon le souvenir
 
 ### 1. Raconter un détail
 
-Patrick se rappelle que Julien tenait le marteau à deux mains. Il peut écrire cette scène ou simplement la garder en mémoire.
+**Objectif** : Choisir ce que l’on souhaite garder du souvenir.
+
+**Exercice pratique**
+
+- Prenez un détail présent sur l’objet ou la photo, comme le coin cabossé du niveau ou les ourlets de Stéphanie.
+- Décrivez ce dont vous vous souvenez en distinguant ce que vous savez de ce qui reste incertain ; chercher une date n’oblige pas à la retrouver.
+- Décidez de garder la note pour vous, de la montrer ou de passer à une autre activité si le souvenir vous pèse.
+
+**Utilité possible** : Le détail peut donner une forme à ce qui compte sans imposer de retrouver une version parfaite du passé.
 
 ### 2. Retrouver une activité qui lui plaît
 
-Il peut proposer à Léo un petit bricolage adapté, si l’enfant en a envie. Ce sera un nouveau moment partagé, avec ses propres contraintes.
+**Objectif** : Faire une place au plaisir actuel en tenant compte des possibilités de chacun.
+
+**Exercice pratique**
+
+- Choisissez une activité simple qui vous plaît aujourd’hui : regarder une photo ensemble ou proposer un petit bricolage adapté à Léo.
+- Vérifiez l’envie de l’autre et les conditions réelles, y compris vos douleurs et le matériel ; adaptez ou reportez si nécessaire.
+- Laissez ce moment prendre une autre forme que le souvenir de Marcel, et arrêtez-le quand cela convient.
+
+**Utilité possible** : Une rencontre peut prolonger un intérêt partagé sans devoir reproduire la scène ancienne ni effacer le manque.
 
 ### 3. Se tourner vers quelqu’un aujourd’hui
 
-Patrick choisit un message bref à Stéphanie. Quand la solitude lui pèse, il peut aussi demander un appel ou proposer une rencontre. La réponse de l’autre reste ouverte.
+**Objectif** : Transformer une envie de lien en proposition précise.
+
+**Exercice pratique**
+
+- Choisissez une personne et une proposition : envoyer la photo à Stéphanie, demander un appel ou proposer une rencontre.
+- Exprimez le détail que vous voulez partager et laissez l’autre répondre selon sa disponibilité.
+- Après l’envoi, reprenez une occupation choisie. Si la solitude continue de peser, cherchez une autre possibilité de contact ou un soutien adapté.
+
+**Utilité possible** : La proposition ouvre un échange ; son effet ne dépend pas d’une réponse immédiate ni d’une émotion obligatoirement agréable.
 
 ## La photo sous la boîte de vis
 

@@ -20,35 +20,41 @@ En quittant le restaurant, Karim pense à la console que Lina n’avait pas ouve
 Assis sur la banquette d'une aire de livraison, il lit un message de Romain qui met en garde une nouvelle fois sur les finances. Karim suppose aussitôt que Romain veut freiner l'expansion par peur et non par prudence. Il imagine que ses équipes partagent son appétit du risque. Cette certitude rapide l'empêche d'entendre les signaux réels du conflit. Karim est confronté à une version familière d'un piège cognitif : il donne une réalité sociale à ses impressions, sans vérifier. Ce biais s'infiltre dans ses disputes et dans ses décisions impulsives.
 
 ## Définition du concept de biais de faux consensus
-
 Le faux consensus consiste à surestimer combien d'autres personnes partagent notre avis ou notre choix. Dans [les expériences de Lee Ross, David Greene et Pamela House](https://www.sciencedirect.com/science/article/pii/002210317790049X), les participants jugeaient leur propre choix plus fréquent que ne le jugeaient ceux qui avaient choisi autrement. Ces tâches ne permettent pas de conclure ce que pense une équipe au travail.
 
 Karim s'attend à ce que son équipe partage son envie d'ouvrir un nouveau restaurant. Il redoute aussi que tout le monde lui en veuille parce que Sofia et Romain contestent certaines décisions. Cette seconde supposition généralise deux avis ; elle n'est pas, à elle seule, du faux consensus.
 
 ## Manifestations du biais de faux consensus en situation de conflit
-
 Dans la dispute, Karim peut distinguer ce qu'on lui a dit, ce qu'il attribue aux autres et ce qui reste à demander.
 
 ### 1. Généraliser une critique à tout le groupe
-
 Après une critique, Karim imagine que d'autres la partagent. Pour savoir si c'est le cas, il lui faut d'autres avis. Cette supposition n'est pas le faux consensus sauf si Karim attribue à ces personnes une opinion qui est aussi la sienne.
 
 Si un salarié dit que le calendrier est trop serré, Karim connaît l'avis de cette personne sur le calendrier. Il ne connaît ni l'avis des autres salariés ni ce que cette personne pense de lui en général.
 
-### 2. Minimiser la diversité d'opinions pour légitimer une action
+Exemples concrets :
+- Si la cheffe de cuisine trouve le calendrier trop court, Karim connaît cet avis sans connaître celui de toute l’équipe.
+- Les réserves de Sofia et de Romain ne suffisent pas à dire que tous les salariés lui en veulent.
 
+### 2. Minimiser la diversité d'opinions pour légitimer une action
 Karim tient son propre choix pour évident et suppose que son équipe le voit de la même façon. Quand plusieurs personnes sont concernées, elles peuvent accorder un poids différent à la charge de travail ou au risque financier.
 
 La réserve de Romain sur la trésorerie est un avis sur les chiffres et les échéances. Karim peut lui demander de préciser ses raisons sans présumer que Romain partage son enthousiasme ou s'oppose à tout changement.
 
-### 3. Chercher des preuves confirmant sa croyance sociale
+Exemples concrets :
+- Karim suppose que les salariés désirent l’ouverture de Marseille parce que lui-même la souhaite.
+- Il présente l’expansion comme une évidence avant de demander le poids que l’équipe donne à la charge supplémentaire.
 
+### 3. Chercher des preuves confirmant sa croyance sociale
 Karim se rappelle les commentaires qui vont dans son sens et écarte ceux qui l'embarrassent. Cette sélection relève du biais de confirmation. Elle peut entretenir une impression de faux consensus si Karim en déduit que son avis est partagé.
 
 Après un commentaire positif d'un client, Karim l'érige en preuve que l'ensemble du personnel est d'accord avec son plan, alors que plusieurs employés ont des réserves non exprimées. Le manque d'écoute réelle nourrit de nouvelles frictions.
 
-## Techniques pour repérer et désamorcer le biais de faux consensus
+Exemples concrets :
+- Il garde en mémoire le client satisfait et l’utilise pour imaginer l’accord du personnel.
+- Il écarte les alertes financières de Romain puis peut croire que seul un avis isolé s’oppose à sa propre lecture.
 
+## Techniques pour repérer et désamorcer le biais de faux consensus
 Les exercices qui suivent aident à préparer une conversation ; ils ne mesurent pas ce que pense un groupe.
 
 ### 1. Demander l'avis des personnes concernées
@@ -85,7 +91,6 @@ Exercice concret :
 La pause laisse du temps pour vérifier un fait. Sa durée dépend du délai disponible, sans garantie sur l'effet émotionnel.
 
 ## La réponse de Sofia
-
 Le soir, Sofia lui demande ce qu’il a engagé à Marseille avant de lui dire qu’elle a annulé un rendez-vous pour être là. Karim répond d’abord que Romain finirait par comprendre. « Je te demande ce que tu as fait, moi », dit-elle. Il lui donne le montant et précise ce qu’il ignore encore. Elle ne lui dit pas que ce n’est pas grave.
 
 Assis à la table du salon, le téléphone posé face visible, il écrit rapidement trois voix imaginées : l'avis d'Amine, qui pourrait craindre une perte de présence paternelle ; l'avis d'un chef de cuisine, qui verrait la nouvelle ouverture comme un risque ; l'avis d'une cliente fidèle, qui pourrait attendre plus de constance. En relisant ces voix, Karim sent son ton se modifier. Il pose une question à Sofia au lieu d'argumenter et demande si elle accepte d'exprimer son point de vue par écrit pour qu'ils puissent en discuter calmement le lendemain.

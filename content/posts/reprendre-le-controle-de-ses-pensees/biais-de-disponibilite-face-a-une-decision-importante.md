@@ -29,29 +29,68 @@ Les souvenirs de Damien et le récit d’un litige viennent vite à l’esprit d
 
 ### 1. La dominance des souvenirs émotionnels récents
 
-Lorsqu'une personne est confrontée à un choix crucial, les expériences récentes qui ont provoqué une forte réponse émotionnelle prennent toute la place. Pour Priya, la mention de son ex-partenaire par son amie Julie agit comme un aimant mémoriel. Cette information, bien que sans lien direct avec le recrutement d'un associé, surcharge sa capacité de jugement. Elle projette les traits de caractère de Damien sur le candidat Marc simplement parce que la douleur de la trahison est encore vive. Le cerveau ignore alors les preuves de fiabilité factuelles pour se concentrer sur la protection contre une menace fantôme.
+Dans le récit, le souvenir de Damien revient rapidement pendant la lecture du dossier de Marc. Il occupe une place importante avant la vérification des candidatures. La ressemblance de parcours et la facilité de rappel ne sont pas des preuves de caractère ; Priya peut conserver les questions utiles sans conclure que Marc est fiable ou dangereux.
+
+Deux exemples dans cet épisode :
+
+- Une ligne du parcours de Marc rappelle Damien et Priya pose le dossier de côté avant sa seconde page.
+- Elle prévoit d’appeler ses références puis remarque que les recommandations des deux autres candidats restent aussi peu examinées.
 
 ### 2. L'influence des médias et des informations spectaculaires
 
 Le biais de disponibilité se nourrit également de ce que nous consommons de manière externe. Un médecin comme Priya, régulièrement exposée à des revues professionnelles ou à des actualités médicales, peut être influencée par des cas isolés de fautes professionnelles ou de litiges entre associés. Parce que ces récits sont dramatiques, ils marquent durablement l'esprit. Au moment de choisir un partenaire de travail, ces exemples frappants reviennent en premier, occultant les milliers de collaborations qui se passent sans aucun heurt quotidiennement. L'exception devient la règle dans l'esprit de celui qui décide.
 
+Deux exemples dans cet épisode :
+
+- Le récit du litige lu la veille lui revient avec le montant de la dette et l’emplacement du texte à l’écran.
+- Elle ignore depuis combien de temps les médecins travaillaient ensemble mais imagine déjà le même désaccord pour son futur cabinet.
+
 ### 3. La surestimation des risques familiers
 
-Nous avons tendance à craindre davantage ce que nous pouvons imaginer facilement. Si Priya a déjà vécu une situation de perte de contrôle, son esprit va générer des scénarios de catastrophe très détaillés. Cette capacité de visualisation rend le danger plus réel qu'il ne l'est statistiquement. Elle finit par prendre une décision basée sur la peur d'un scénario imaginaire mais très présent à l'esprit, plutôt que sur une analyse équilibrée des avantages et des inconvénients. Un scénario facile à imaginer peut occuper beaucoup de place sans fournir d’information sur sa fréquence.
+Nous avons tendance à craindre davantage ce que nous pouvons imaginer facilement. Si Priya a déjà vécu une situation de perte de contrôle, son esprit va générer des scénarios de catastrophe très détaillés. Le détail du scénario le rend présent à son esprit sans établir sa probabilité. Elle finit par prendre une décision basée sur la peur d'un scénario imaginaire mais très présent à l'esprit, plutôt que sur une analyse équilibrée des avantages et des inconvénients. Un scénario facile à imaginer peut occuper beaucoup de place sans fournir d’information sur sa fréquence.
+
+Deux exemples dans cet épisode :
+
+- Elle cherche dans le CV de Marc un engagement sur le partage des gardes alors que ce point demanderait un entretien.
+- Elle peut développer un scénario de conflit détaillé sans que le dossier fournisse une estimation de sa fréquence ou de sa probabilité.
 
 ## Techniques pour agir et décider sereinement
 
 ### 1. Comparer les mêmes éléments
 
-Cette méthode consiste à sortir de la narration interne pour se concentrer exclusivement sur des données quantifiables. Pour Priya, cela signifie créer un tableau comparatif où chaque critère de sélection est noté de manière indépendante. Elle doit lister les compétences techniques, les années d'expérience et les références vérifiables de chaque candidat. En forçant son esprit à traiter des chiffres et des faits bruts, elle réduit l'influence des images mentales intrusives. L'exercice consiste à accorder un coefficient à chaque fait et à ne regarder le résultat final qu'une fois la grille totalement remplie, sans laisser la place à l'intuition immédiate.
+Priya peut comparer les compétences, expériences et références des trois candidats à partir de critères pertinents. Le tableau sert aussi à garder les questions ouvertes, notamment sur le partage des gardes. Il ne demande ni chiffre pour chaque élément, ni coefficient arbitraire, ni suppression des souvenirs qui lui viennent.
+
+Objectif de cet essai : Comparer les trois candidatures selon les mêmes questions.
+
+1. Choisissez les critères pertinents pour le cabinet, dont les compétences et le partage des décisions.
+2. Reportez les mêmes questions sur les trois dossiers, en gardant visibles les informations absentes.
+3. Prévoyez les vérifications et entretiens comparables sans décider par un score inventé ni par une ressemblance de parcours.
+
+Utilité possible : La comparaison montre ce qui manque à chaque candidature sans promettre une décision neutre ou sans risque.
 
 ### 2. Chercher des exemples comparables
 
 Cherchez des informations favorables et défavorables sur des cas comparables. Se rappeler trois réussites peut nuancer l’image du moment, mais trois anecdotes ne donnent pas un taux de réussite.
 
+Objectif de cet essai : Élargir les informations comparables sans compter des anecdotes comme un taux.
+
+1. Nommez le récit marquant qui revient, comme le litige lu la veille.
+2. Cherchez des expériences favorables et défavorables concernant des associations comparables, si elles sont accessibles.
+3. Notez les différences et les limites ; quelques récits ne donnent pas une fréquence du risque.
+
+Utilité possible : Des cas situés peuvent suggérer des questions sans remplacer une information représentative.
+
 ### 3. La mise en perspective temporelle et statistique
 
 Si des données comparables existent, elles peuvent aider à situer le risque. Leur rôle est d’éclairer la décision, qu’elles rassurent ou non. Priya peut aussi vérifier les références et les conditions de l’association, sans chiffrer ce qu’elle ne sait pas.
+
+Objectif de cet essai : Examiner la portée des données et les conditions d’association.
+
+1. Pour une donnée trouvée, vérifiez le groupe, la période et ce qu’elle mesure.
+2. Distinguez ce qu’elle apprend et ce qu’elle ne permet pas d’estimer pour votre projet.
+3. Préparez les questions sur les gardes, les désaccords et les conditions de retrait avec les interlocuteurs compétents, sans chiffrer l’inconnu.
+
+Utilité possible : Les données et conditions éclairent la décision sans garantir la fiabilité d’un associé.
 
 ## Les références à vérifier
 

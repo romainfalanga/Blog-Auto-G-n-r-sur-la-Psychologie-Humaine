@@ -32,34 +32,64 @@ Comprendre la surpensée comme un processus, et non comme un simple trait de car
 ### Pensées répétitives et blocage décisionnel
 L'overthinking se traduit souvent par l'incapacité à prendre des décisions simples, par peur de faire le mauvais choix. Sophie explore dix architectures de fonction avant de valider une modification, parce qu'elle imagine tous les scénarios d'erreurs possibles. Ces pensées reviennent en boucle, comme un disque rayé, et chaque nouvelle idée nourrit la précédente. Résultat : le délai augmente, la productivité chute et la satisfaction s'évapore.
 
-Exemple concret : devant un choix technique, une personne qui surpense passera des heures à lire des articles et à comparer les options, au lieu d'appliquer une solution validée pour ensuite l'ajuster.
+Exemples concrets :
+
+- À vingt et une heures, Sophie remet la fonction dans la version déjà présente à vingt heures, sans information nouvelle sur le cas d’erreur.
+- Elle peut continuer à comparer des architectures alors que la question de Marc porte sur une entrée précise à tester.
 
 ### Anticipation catastrophique et perte de confiance
 Une autre manifestation fréquente est l'anticipation exagérée des pires scénarios. Sophie se voit déjà expliquer la cause d'un crash devant toute l'équipe, rougissant, incapable de répondre. Ce scénario va de pair avec un sentiment d’imposture : à force d'imaginer l'échec, elle finit par croire qu'elle est incompétente. Cette habitude érode la confiance et amplifie l'autocritique.
 
-Exemple concret : après une présentation, au lieu de savourer sa réussite, Sophie peut ressasser chaque phrase, interprète un simple regard comme une condamnation et oublie totalement les retours positifs.
+Exemples concrets :
+
+- Elle imagine un crash pendant la démonstration avant d’avoir établi que cette entrée provoque une erreur.
+- La remarque de Marc devient « je ne devrais pas présenter la démo », alors qu’elle n’a ajouté aucun fait entre les deux phrases.
 
 ### Multitasking mental et fatigue cognitive
 Sophie remarque qu’elle passe sans cesse d’un sujet à l’autre. Sophie se trouve simultanément en train d'écrire du code, de planifier les tests, de repenser à un échange avec Claire et d'imaginer comment expliquer une erreur au directeur technique. Quand son attention passe d’un souci à un autre, elle a parfois du mal à reprendre le fil du code. À force de vouloir être partout, elle n'est plus nulle part.
 
-Exemple concret : tenter de corriger un bug tout en répondant à des messages internes, oublier d'enregistrer sa progression, et se retrouver à refaire un travail déjà commencé.
+Exemples concrets :
+
+- Elle passe de la fonction à une réponse à Marc, puis au thé refusé à Claire, et cherche où elle en était dans le code.
+- Elle rouvre son carnet pour prévoir l’explication d’un échec encore hypothétique au lieu de garder la trace du test qu’elle préparait.
 
 ## 3 techniques pour reprendre le contrôle face à la surpensée
 
-### 1. La règle des 5 minutes : interrompre la boucle pensée-action
-Exercice concret : Quand la pensée commence à tourner en boucle, Sophie se donne 5 minutes pour écrire la pensée exacte dans son carnet et noter son intensité sur une échelle de 0 à 10. Une fois ce temps écoulé, elle ferme le carnet, lance un minuteur de 25 minutes (technique Pomodoro) et se concentre uniquement sur une tâche précise. Si la pensée revient, elle la note brièvement et se replonge dans son travail. Cet exercice crée une séparation entre la réflexion et l'action.
+### 1. La règle des cinq minutes comme repère adaptable
 
-Ce que Sophie essaie : noter la question, puis revenir à une tâche définie. Les durées sont des exemples et elle peut les adapter. Sophie utilise déjà un carnet depuis son travail sur l'irritabilité, et cette règle renforce cette bonne habitude.
+Objectif : Relier une inquiétude à une tâche définie, sans faire du minuteur une règle de soin.
 
-### 2. La distanciation métacognitive : regarder la pensée comme un objet
-Exercice concret : Sophie apprend à se dire : "Je remarque que je suis en train d'anticiper un bug" plutôt que "Je vais forcément faire une erreur". Elle pratique cet exercice trois fois par jour : assise, les yeux fermés, elle observe une pensée liée au travail et lui donne un nom simple, comme "anticipation" ou "jugement". Elle visualise la pensée comme un nuage qui passe, sans s'y accrocher.
+Exercice pratique :
 
-Ce que Sophie essaie : reconnaître une pensée sans la traiter comme une prédiction. Le [guide de l’OMS sur le stress](https://www.who.int/publications/i/item/9789240003927) propose une pratique comparable. Si l’exercice l’agite, elle peut l’interrompre.
+- Notez la phrase qui tourne, par exemple « si la démo plante, je serai exposée ». La durée de cinq minutes et une éventuelle note d’intensité sont des repères personnels, pas des seuils.
+- Choisissez la question concrète à traiter : dans cette scène, écrire un test pour l’entrée qui inquiète Marc.
+- Revenez au résultat, puis décidez de la suite et d’une pause. Une alerte réelle ou une vérification obligatoire ne doit pas attendre la fin du minuteur.
 
-### 3. Le plan de vérification limité : réduire l'obsession du détail
-Exercice concret : Pour éviter de réécrire la même fonction dix fois, Sophie définit un plan de vérification en deux étapes : d'abord une checklist minimale pour les points critiques (tests validés, revue par Marc), puis un temps maximum pour les améliorations secondaires (par exemple 30 minutes). Elle s'engage à respecter ce plan et à fermer son ticket même si elle n'a pas l'impression que tout est parfait.
+Utilité possible : Le carnet peut séparer question et action. Sophie peut adapter le temps prévu et arrêter la notation si elle devient une vérification répétitive.
 
-Ce que Sophie essaie : convenir d’un point d’arrêt, sans écourter les vérifications nécessaires. Sophie, qui a grandi avec les attentes élevées de son père ingénieur, trouve ici une façon structurée d'honorer ses standards sans y laisser toute son énergie.
+### 2. La distanciation métacognitive : remarquer la pensée
+
+Objectif : Reconnaître une anticipation sans la prendre immédiatement pour une prédiction.
+
+Exercice pratique :
+
+- Lorsque la phrase sur le bug revient, essayez « je remarque que je suis en train d’anticiper un bug ».
+- Laissez la pensée rester présente sans devoir la chasser ni décider tout de suite qu’elle est vraie. Aucun nombre de répétitions ni fermeture des yeux n’est nécessaire.
+- Ramenez votre attention à la tâche choisie, ou interrompez l’exercice s’il vous agite et cherchez un appui si nécessaire.
+
+Utilité possible : Le [guide de l’OMS sur le stress](https://www.who.int/publications/i/item/9789240003927) propose une pratique comparable. Ici, Sophie essaie de nommer sa pensée ; le geste ne garantit pas sa disparition.
+
+### 3. Le plan de vérification convenu
+
+Objectif : Distinguer les contrôles utiles des améliorations secondaires.
+
+Exercice pratique :
+
+- Reprenez les vérifications nécessaires au code et à la démo, notamment tests et revue avec Marc.
+- Séparez-les des améliorations facultatives et convenez d’un point de discussion ou d’arrêt adapté au travail.
+- Faites le point sur ce qui est effectivement vérifié et ce qui reste ouvert. Ne fermez pas un ticket avec un défaut important pour respecter une limite de temps arbitraire.
+
+Utilité possible : Le plan peut rendre la suite plus claire sans demander de négliger la qualité du travail ni de se sentir parfaitement rassurée.
 
 ## Un seul test à écrire
 

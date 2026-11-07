@@ -29,29 +29,53 @@ Sur le terrain, Lucas envie le tir et l’assurance d’Antoine. Il repense à d
 
 ### 1. Le prisme de la comparaison ascendante permanente
 
-En compétition, l'envie se manifeste d'abord par une focalisation obsessionnelle sur les atouts de l'adversaire. Lucas ne voit plus le jeu dans sa globalité, il voit uniquement les segments où Antoine excelle. Se comparer à quelqu’un qu’on estime plus avancé sur un point est une comparaison ascendante, dans la lignée des [travaux de Leon Festinger](https://journals.sagepub.com/doi/10.1177/001872675400700202). Pour un étudiant ambitieux, cela se traduit par une dépréciation systématique de ses propres compétences. On finit par croire que le succès de l'autre est la preuve irréfutable de notre propre médiocrité, oubliant que la réussite est souvent le fruit d'un contexte et d'un parcours différent du nôtre.
+Lucas remarque surtout le tir et l’assurance d’Antoine. Se comparer à quelqu’un qu’on estime plus avancé sur un point est une comparaison ascendante, dans la lignée des [travaux de Leon Festinger](https://journals.sagepub.com/doi/10.1177/001872675400700202). La comparaison devient moins informative lorsqu’un écart de jeu se transforme en classement général des personnes.
+
+Au premier échange, Lucas tire tout de suite pour répondre au panier d’Antoine, sans reprendre la question qu’il se posait sur la passe. À la reprise, il va seul vers le panier alors qu’il a vu Maxime à droite. Dans ces deux séquences, vouloir être celui qu’on regarde prend la place d’une observation du jeu. Le résultat ne dit pas tout de ses capacités ni de celles d’Antoine.
 
 ### 2. La décharge émotionnelle et le retrait social
 
-Dans les vestiaires, Lucas ne trouve pas les mots pour féliciter Antoine. Il sourit pour cacher sa déception, puis se tient à l’écart des autres. Il remarque combien le classement du jour a pris de place dans l’idée qu’il se fait de lui-même.
+Lucas peut être déçu du match, envieux d’Antoine et avoir besoin de calme. Le retrait n’établit pas à lui seul une hostilité. Ce qui l’intéresse est la place que la comparaison prend dans les échanges après le jeu.
+
+Dans les vestiaires, les plaisanteries de Romain lui deviennent difficiles à suivre et il reste à l’écart. Devant Antoine, il ne trouve pas les mots pour reconnaître le bon match sans se sentir rabaissé. Le premier exemple concerne une conversation amicale ; le second, la personne qu’il envie. Il peut choisir quand parler sans faire de cette gêne une preuve qu’il doit dévaloriser l’autre.
 
 ### 3. La distorsion de la perception de l'effort
 
-Lucas se demande si Antoine a bénéficié de meilleures conditions d’entraînement. C’est possible, mais il ne le sait pas encore. Les ressources disponibles et le travail fourni peuvent compter ensemble.
+Le résultat visible ne montre pas tout l’entraînement, les ressources ou les interruptions du parcours d’Antoine. Lucas peut poser une question sur un point qui l’intéresse, mais il ne connaît pas encore la réponse. Reconnaître cette inconnue ne revient pas à nier des écarts de moyens.
+
+Après le tir réussi, il pourrait penser « il sait faire cela sans travailler » parce qu’il n’a pas vu les séances qui le précèdent. Après son propre tir manqué, il pourrait au contraire conclure que ses efforts ne servent à rien en ne retenant que ce résultat. Ces deux raccourcis effacent une partie des conditions. Ils n’autorisent ni à inventer le parcours d’Antoine ni à promettre à Lucas le même résultat avec le même entraînement.
 
 ## Techniques pour agir face à l'envie
 
 ### 1. La déconstruction par l'analyse fonctionnelle
 
-Cette technique consiste à observer l'envie comme une donnée informative plutôt que comme une sentence. Au lieu de subir la douleur de l'infériorité, il s'agit de lister précisément ce qui provoque l'envie chez l'autre. Est-ce sa technique de tir ? Sa gestion du stress ? Sa capacité à communiquer avec l'équipe ? En segmentant l'objet de l'envie, on transforme une masse émotionnelle informe en objectifs concrets et atteignables. L'exercice consiste à noter sur un carnet trois points spécifiques admirés chez l'autre et à définir une action simple pour travailler sur l'un de ces points lors de la prochaine session. Lucas peut s’en servir pour choisir ce qu’il veut travailler. Il peut encore se sentir envieux.
+L’objectif est de préciser ce que Lucas envie afin de choisir une question de jeu, sans traiter l’émotion comme un verdict.
+
+1. Reprendre une séquence du match et nommer le détail observé : Antoine regarde son coéquipier avant de tirer. Séparer ce fait de l’impression « il est meilleur en tout ».
+2. Dire ce qu’il aimerait comprendre : comment Antoine choisit entre la passe et le tir. Noter ce qui reste inconnu plutôt que supposer un talent sans travail.
+3. Préparer une question à poser si Antoine est disponible, ou discuter avec Maxime d’un point à travailler lors d’un entraînement ordinaire.
+
+Le choix devient plus précis que « ne plus être envieux ». Lucas peut encore ressentir de l’envie et demander un appui sur un geste sans organiser seul un programme d’entraînement.
 
 ### 2. Le recadrage de la trajectoire personnelle
 
-L'envie naît souvent d'une vision en tunnel où l'on oublie son propre chemin. Le recadrage consiste à réintégrer sa propre histoire dans l'équation. Pour quelqu'un comme Lucas, cela signifie se rappeler d'où il vient et les obstacles déjà franchis, comme la gestion de sa honte sociale ou ses progrès en gestion émotionnelle depuis son entretien d'embauche. L'exercice pratique est de rédiger une liste de trois réussites passées qui n'ont rien à voir avec la compétition actuelle. Cela aide à stabiliser l'estime de soi en rappelant que notre valeur ne dépend pas d'une performance unique face à un individu spécifique à un instant T.
+Lucas cherche à conserver les autres informations sur son parcours, sans établir un palmarès destiné à compenser la défaite.
+
+1. Noter une action du match qu’il souhaite revoir et une action réelle dans un autre domaine, par exemple demander au tuteur une précision sur son rapport.
+2. Décrire pour chacune l’effort, l’aide et le résultat connu. Ni le panier raté ni la demande académique ne résument toute sa personne.
+3. Choisir la suite de la journée : récupérer ses affaires, parler avec un ami ou garder une question pour samedi. Il n’a pas à rattraper sa place par un nouvel exploit immédiat.
+
+Cette mise en perspective peut empêcher la comparaison de devenir l’unique sujet de la soirée. Elle ne retire pas à la défaite son importance et ne garantit pas une meilleure estime de soi.
 
 ### 3. La pratique de la célébration intentionnelle
 
-C'est sans doute la technique la plus difficile mais la plus libératrice. Elle consiste à aller activement vers la personne enviée pour lui demander un conseil ou la féliciter sincèrement. En brisant la barrière du secret et de la comparaison silencieuse, on humanise l'adversaire. On réalise souvent que celui que l'on envie a aussi ses propres doutes et ses propres luttes. L'exercice consiste à engager une conversation de deux minutes avec le compétiteur après l'événement, en posant une question sur sa méthode. Si tous deux sont d’accord, Lucas peut obtenir un renseignement utile. Le malaise peut aussi persister.
+La démarche consiste ici à ouvrir un échange choisi avec Antoine, pas à se forcer à paraître admiratif ou à obtenir une confidence en retour.
+
+1. Lucas vérifie s’il souhaite parler maintenant. Il peut choisir une félicitation précise sur le dernier quart-temps ou garder sa question pour un autre moment.
+2. S’Antoine est disponible, il demande un seul renseignement sur sa méthode et écoute la réponse sans se comparer à chaque phrase. Il accepte qu’Antoine ne souhaite pas développer.
+3. Il garde l’information utile pour en reparler avec Maxime avant le prochain entraînement, sans conclure qu’il connaît désormais tout le parcours de son adversaire.
+
+Un échange peut fournir un détail et laisser la gêne présente. Lucas peut aussi prendre de la distance après le match ; féliciter l’autre n’est pas le prix à payer pour avoir le droit d’être déçu.
 
 ## À la sortie du gymnase
 

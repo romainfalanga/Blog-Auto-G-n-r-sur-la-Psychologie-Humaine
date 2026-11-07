@@ -25,31 +25,55 @@ On se sent parfois trahi quand une décision prise en situation de rivalité sem
 
 ## Comment la trahison en situation de compétition se manifeste-t-elle ?
 
-### La distorsion de l'intention d'autrui
+### La décision et l’intention deviennent une même certitude
 
-Hugo entend le choix professionnel de Samba comme une volonté de lui nuire. Le départ peut lui faire mal sans que Samba ait cherché à le rabaisser. À l'inverse, si un engagement précis avait été pris, Hugo peut nommer cet engagement et demander ce qu'il est devenu.
+Hugo apprend un choix professionnel et lui attribue aussitôt un sens personnel. Il peut être blessé par la façon de l’apprendre sans savoir encore ce que Samba a voulu. Un engagement précis mérite d’être recherché, sans être inventé pour justifier l’émotion.
 
-### Le repli défensif et le sabotage
+L’entrée de Samba dans le groupe rival lui paraît signifier qu’il souhaite l’écraser. L’annonce reçue avant que son ami lui en parle lui paraît aussi démontrer une volonté de l’exclure. Le choix du groupe et le moment de l’annonce posent pourtant deux questions différentes.
 
-Une autre manifestation courante est le retrait émotionnel ou l'agressivité soudaine. Face à ce qu'il perçoit comme une trahison en situation de compétition, un individu peut choisir de saboter ses propres chances de réussite pour ne plus avoir à subir la comparaison. Cela se traduit par un refus de collaborer, des critiques envers les alliés restants ou une baisse de motivation. C'est un mécanisme de protection : si l'on échoue par sa propre volonté, on conserve une forme de contrôle sur la situation. Hugo se rappelle amèrement comment il a déjà utilisé cette tactique en sabotant l'harmonie du groupe lors d'une répétition avec Chloé, préférant briser le lien lui-même plutôt que d'attendre d'être rejeté.
+### Le retrait risque de supprimer les échanges encore possibles
 
-### La comparaison sociale destructrice
+Hugo peut avoir besoin de distance. Il peut aussi répondre à une intention qu’il suppose avant de poser la question qui l’intéresse. Observer cette différence ne revient pas à lui demander de collaborer ou de pardonner immédiatement.
 
-Le sentiment de trahison est exacerbé par la comparaison sociale ascendante, où l'on se mesure constamment à celui que l'on juge déloyal. La réussite de l'autre devient un miroir difficile de sa propre insuffisance. Pour Hugo, voir Samba réussir ailleurs réveille le souvenir de l'amour conditionnel de son père. Il ne s'agit plus de musique, mais de prouver sa valeur. Cette manifestation pousse à une quête de performance épuisante, dictée par la rancœur plutôt que par la passion créative.
+Il se détourne de Chloé lorsqu’elle passe aux coulisses, alors qu’elle n’est pas celle qui a pris la décision de tournée. Il envisage ensuite de tout laisser tomber avant son set solo. Éviter un regard et quitter sa propre prestation ne répondraient pas à la même difficulté avec Samba.
+
+### La comparaison déborde le projet musical
+
+Voir l’ami rejoindre un autre groupe peut faire douter Hugo de sa place. Ce doute ne mesure ni la valeur des musiciens ni le contenu de leur amitié. La tournée et le tremplin restent deux engagements à préciser.
+
+Il imagine la réussite future de Samba comme sa propre mise à l’écart. Il risque aussi de traiter son passage solo comme l’obligation de prouver immédiatement qu’il vaut autant que le groupe rival. Dans les deux cas, la comparaison ajoute une épreuve que le morceau n’a pas à résoudre.
 
 ## 3 techniques pour agir face à la trahison et la compétition
 
-### 1. La technique du recadrage des faits
+### 1. Séparer les faits des intentions attribuées
 
-Cette méthode consiste à séparer rigoureusement les faits objectifs des interprétations émotionnelles. Pour Hugo, le fait est que Samba a accepté un contrat. L'interprétation est que Samba veut l'écraser. L'exercice pratique consiste à rédiger deux colonnes : dans la première, inscrivez uniquement ce qui est prouvable, comme un mail ou une action précise. Dans la seconde, listez les intentions que vous prêtez à l'autre. Ensuite, cherchez trois raisons alternatives et neutres qui pourraient expliquer l'action de l'autre, par exemple un besoin financier, une opportunité de croissance ou le hasard. Cela permet de faire baisser la pression émotionnelle en sortant du scénario unique de la trahison.
+Hugo cherche ce qu’il sait avant d’interroger Samba, sans devoir inventer trois explications rassurantes.
 
-### 2. L'ancrage dans les valeurs propres
+1. Noter le fait reçu : son ami a confirmé sa participation à la tournée avec l’autre groupe.
+2. Inscrire à part l’intention supposée, comme « il veut me rabaisser », et les accords qu’il se rappelle réellement sur leurs dates.
+3. Choisir la question qui manque, par exemple quand Samba a donné sa réponse ou ce que cela change pour un engagement précis.
 
-Quand toute l'attention de Hugo se porte sur le choix de Samba, il peut revenir à ce qu'il tient à faire en musique : progresser, jouer sincèrement et partager quelque chose avec le public. Cela ne règle pas le désaccord, mais lui donne un repère pour décider de la suite.
+Ce tri peut rendre l’échange plus précis. L’absence d’information laisse une question ouverte et ne prouve pas que personne n’a manqué à un accord.
 
-### 3. La communication non violente différée
+### 2. Revenir au choix musical qui lui appartient maintenant
 
-Si l'échange paraît possible, Hugo peut attendre de pouvoir formuler une question simple : « J'ai été blessé d'apprendre ton départ. J'avais compris qu'on s'était engagés pour le tremplin. Tu l'avais compris de la même façon ? » Il peut aussi décider qu'il lui faut d'abord de la distance.
+Le but est de distinguer son passage au tremplin de la résolution immédiate du désaccord.
+
+1. Reprendre la liste ou la première entrée du morceau qu’il avait préparé avant l’annonce.
+2. Vérifier les conditions présentes avec l’équipe du lieu : heure de passage et matériel nécessaire, sans demander un verdict sur Samba.
+3. Choisir s’il peut jouer dans ce cadre ou s’il doit signaler un besoin concret, puis réserver la question de tournée à un autre échange.
+
+Ce repère peut l’aider à décider pour sa prestation. Il n’oblige ni à rester sur scène malgré un danger ni à faire de la musique une preuve de sa valeur.
+
+### 3. Formuler la blessure et une demande limitée
+
+Hugo peut chercher une explication si Samba souhaite parler, sans ouvrir tout le dossier pendant l’appel à monter sur scène.
+
+1. Vérifier qu’un court moment convient à son ami et poser la question factuelle choisie.
+2. Dire ce qui l’a blessé, comme apprendre la nouvelle par quelqu’un d’autre, sans affirmer l’intention de nuire.
+3. Écouter la réponse et convenir si possible d’un autre moment pour les dates ; garder le droit à une distance si la discussion ne convient pas.
+
+Cette conversation peut clarifier un point. Elle ne garantit pas une réparation complète et ne contraint pas Hugo à poursuivre la collaboration.
 
 ## La conversation après le tremplin
 

@@ -22,7 +22,6 @@ Autour de lui, l'environnement sonore habituel l'enveloppe : une mélodie lo-fi 
 Adrien choisit de ne pas céder immédiatement à l'autocritique. Il décide d'observer, de noter la pensée dans un carnet et de l'interroger. Il est temps de décoder le raisonnement émotionnel seul(e) face à soi-même pour apprendre à distinguer ses ressentis des événements objectifs.
 
 ## Qu'est-ce que le raisonnement émotionnel ?
-
 Le raisonnement émotionnel désigne le fait de tirer une conclusion à partir de son ressenti, sans examiner les autres indices : « Je me sens incompétent, donc je le suis. » Le [service de santé britannique](https://www.rnoh.nhs.uk/patients-and-visitors/patient-information-guides/unhelpful-thinking-styles) le présente parmi les habitudes de pensée abordées en thérapie cognitive et comportementale (TCC). Une émotion est bien réelle et peut attirer l’attention sur une difficulté ; elle ne permet pas de conclure seule à ce qui s’est passé ou se passera.
 
 Dans cette histoire, le terme décrit une façon ponctuelle de raisonner. Il ne suffit pas pour reconnaître un trouble anxieux ou dépressif.
@@ -30,35 +29,67 @@ Dans cette histoire, le terme décrit une façon ponctuelle de raisonner. Il ne 
 Pour Adrien, graphiste freelance réceptif aux ambiances, ses émotions créatives se transforment parfois en jugements définitifs sur sa valeur. Lorsqu'il se sent vide, il conclut qu'il est indésirable. Ce raisonnement émotionnel seul(e) face à soi-même agit alors comme un filtre déformant sur sa vie professionnelle et affective, faisant écho à ces soirs de pluie où le manque de notifications sur son écran devenait, dans son esprit, la preuve irréfutable de son isolement social définitif.
 
 ## Comment le raisonnement émotionnel se manifeste-t-il dans le contexte "seul(e) face à soi-même" ?
-
 ### 1. Des pensées immédiates perçues comme des faits
+
 Adrien est assis devant sa toile et l'idée que son projet est mauvais surgit sans fondement. Le raisonnement émotionnel transforme une sensation intérieure en vérité indiscutable. Par exemple, à la lecture d'un brief, son ventre se noue. Il en déduit que la demande est trop complexe et qu'il va échouer, alors qu'aucune analyse concrète du travail n'a encore été réalisée.
 
+Exemples situés :
+
+- Le ventre noué à la lecture du brief devient pour Adrien la preuve que la tâche dépasse ses compétences.
+- Les deux traits lui semblent ratés après le courriel, alors que leur forme et le contenu de la demande n’ont pas changé.
+
 ### 2. La généralisation à partir d'une émotion passagère
+
 Une soirée de solitude devient la preuve que toutes ses relations sont vouées à l'échec. Lorsqu'il repense à sa rupture avec Marina, le sentiment de rejet se transforme en règle universelle. Il glisse d'une expérience émotionnelle ponctuelle vers une croyance globale : « Je ne pourrai jamais être aimé. » Chez Adrien, cette conclusion lui donne envie de demander à être rassuré.
 
+Exemples situés :
+
+- Une soirée sans réponse de Julien peut devenir la conclusion qu’aucun lien ne tiendra.
+- La tristesse liée à Marina peut lui faire affirmer qu’il ne sera plus aimé, alors qu’elle ne renseigne pas sur toutes ses relations à venir.
+
 ### 3. Procrastination et auto-sabordage
+
 Le raisonnement émotionnel peut paralyser l'action. Adrien, persuadé que son manque d'inspiration est un signe de déclin, repousse ses projets en se convainquant qu'il n'est pas en état de produire quoi que ce soit de qualité. Ce retrait renforce son sentiment d'incompétence et installe un cercle vicieux.
 
+Exemples situés :
+
+- Adrien reporte la première esquisse parce qu’il se sent sans inspiration, avant de vérifier ce qu’il peut déjà tracer.
+- Il peut repousser une demande de dimension au client en prenant son inquiétude pour la preuve que tout le projet est mauvais.
+
 ## 3 techniques pour reprendre le contrôle face au raisonnement émotionnel seul(e) face à soi-même
+Les propositions suivantes sont facultatives et peuvent être adaptées aux moyens du jour.
 
 ### 1. La distinction entre faits et émotions
-Lorsqu'une pensée accusatrice survient, Adrien utilise deux colonnes : « Faits » et « Émotions ». Dans la première, il liste les éléments vérifiables : l'échéance, le contenu du brief, les échanges réels avec le client. Dans la seconde, il dépose ses ressentis : anxiété, vide, découragement. Il reformule ensuite la situation : « Je me sens inquiet à l'idée de livrer, mais le brief est précis et j'ai déjà validé la première étape avec mon interlocuteur. »
 
-Cette méthode s’inspire d’un [exercice de prise de notes utilisé en TCC](https://www.nhs.uk/every-mind-matters/mental-wellbeing-tips/self-help-cbt-techniques/thought-record/). Elle invite à garder séparés ce que l’on ressent, les faits dont on dispose et ce qu’on en déduit.
+Objectif : Garder séparés la demande du client, le ressenti et la conclusion qu’Adrien en tire.
 
-### 2. La mise à l'épreuve par l'action limitée
-Au lieu de laisser l'émotion paralyser son travail, Adrien se lance un défi de 30 minutes. La consigne est simple : produire trois esquisses rapides sans porter de jugement, puis en développer une pendant 15 minutes. Il utilise un minuteur et s'autorise à s'arrêter une fois le temps écoulé, quel que soit le résultat.
+1. Noter le contenu précis du brief et une information réellement échangée avec le client.
+2. À côté, écrire l’émotion et la conclusion qui vient, comme « inquiet » puis « tout est raté ».
+3. Reformuler ce qui reste vrai et la précision manquante à demander, sans exiger que l’inquiétude baisse.
 
-Cette expérience permet d’observer ce qui se passe en travaillant un court moment, y compris si des difficultés se présentent. L'objectif n'est pas d'atteindre la perfection, mais de constater que l'action génère des résultats objectifs qui viennent bousculer la pensée initiale.
+Utilité possible : Cette adaptation d’un [exercice de prise de notes utilisé en TCC](https://www.nhs.uk/every-mind-matters/mental-wellbeing-tips/self-help-cbt-techniques/thought-record/) peut rendre la question de travail plus lisible. Elle ne prouve pas que toutes les craintes sont fausses.
+
+### 2. La mise à l’épreuve par l’action limitée
+
+Objectif : Observer ce qui se passe dans un essai de dessin à faible enjeu.
+
+1. Choisir une tâche du brief et une durée disponible, éventuellement trente minutes pour Adrien.
+2. Produire quelques esquisses puis en choisir une à examiner, en gardant le droit de modifier la durée ou de s’arrêter.
+3. Comparer l’essai à un critère du brief et noter une avancée ou une difficulté précise, sans en tirer un verdict sur son talent.
+
+Utilité possible : L’essai peut apporter une information que le seul ressenti ne donnait pas. Une difficulté réelle reste une information recevable et peut justifier une aide.
 
 ### 3. Le questionnement socratique
-Quand Adrien se dit : « Si je me sens nul, c'est que mon travail ne vaut rien », il s'astreint à une série de questions précises : « Quelles preuves soutiennent cette idée ? Existe-t-il des contre-exemples ? Que dirait un collègue neutre ? Quel est le scénario le plus réaliste et comment y ferais-je face ? » Il note ses réponses, même brièvement.
 
-Le questionnement socratique ébranle les certitudes émotionnelles. Il donne à Adrien l’occasion d’examiner d’autres explications avant de conclure.
+Objectif : Examiner une conclusion avant de la prendre pour un fait.
+
+1. Écrire une seule pensée, par exemple « mon travail ne vaut rien ».
+2. Noter les faits qui la soutiennent, ceux qui la nuancent et ce qui reste inconnu ; ne pas inventer l’avis d’un collègue supposé neutre.
+3. Formuler une question vérifiable, comme la dimension attendue par le client, puis choisir de la poser ou de reprendre un détail du dessin.
+
+Utilité possible : Le questionnement peut éviter une conclusion trop vaste. Il ne sert pas à contester chaque émotion ni à obtenir une assurance permanente.
 
 ## Deux traits sur le papier
-
 Après avoir pratiqué ces techniques, Adrien observe un changement dans son quotidien. En utilisant la colonne des faits alors qu'il hésitait à dessiner, il s'est aperçu que sa liste concrète était bien plus rassurante que sa narration intérieure : le client n'avait jamais exprimé de mécontentement et les derniers retours étaient positifs. Ce constat a immédiatement atténué la violence de son autocritique.
 
 La mise à l'épreuve par l'action lui a permis de faire émerger une piste graphique intéressante. En envoyant ce croquis à Julien, il a reçu un message d'encouragement. Adrien utilise désormais ce retour comme une preuve tangible de la qualité de son travail. Son ressenti n'est plus l'unique boussole de sa valeur professionnelle.

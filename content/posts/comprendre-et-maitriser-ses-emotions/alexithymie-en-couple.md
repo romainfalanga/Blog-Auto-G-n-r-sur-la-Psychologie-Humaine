@@ -32,22 +32,22 @@ Dans le cas de Youssef, la définition prend tout son sens : il comprend intelle
 L'un des signes les plus fréquents est l'incapacité à répondre à une question simple sur un ressenti. Lorsque Léa demande "Qu'est-ce que ça t'a fait ?", Youssef répond "C'est logique" ou "Je ne sais pas" au lieu de dire "J'ai été surpris" ou "J'étais inquiet". Ce silence crée souvent de la frustration chez le partenaire qui cherche une connexion sincère.
 
 Exemples concrets :
-*   Réponses factuelles : "Il a changé de poste, c'est comme ça", au lieu de "Je me fais du souci pour lui."
-*   Généralisation : détailler les conséquences pratiques d'un événement plutôt que d'évoquer un sentiment.
+* Devant la tasse, Youssef dit « il a changé de poste » quand Léa lui demande ce que l’annonce de Nicolas lui a fait.
+* Il détaille l’adresse du nouveau bureau de Nicolas alors qu’il cherche encore comment dire qu’il lui manquera le jeudi.
 
 ### Expression émotionnelle limitée et retrait affectif
 L'alexithymie peut pousser une personne à s'isoler physiquement ou verbalement quand les discussions deviennent intimes. Chez Youssef, cela se traduit par des moments où il s'éloigne pour coder un projet personnel le soir, ou par des silences prolongés après une dispute, que Léa interprète comme de la froideur.
 
 Exemples concrets :
-*   Évitement des conversations profondes : préférer parler de travail ou d'organisation.
-*   Gestes discrets mais peu explicites : un câlin sans paroles, ou des attentions pratiques sans commentaire affectif.
+* Après une question de Léa sur ce qu’il éprouve, Youssef revient au trajet de Nicolas plutôt qu’au changement dans leur amitié.
+* Un soir où les mots lui manquent, il peut offrir une attention pratique à Léa sans lui dire ce qu’il souhaitait exprimer.
 
 ### Passer par les faits quand les mots manquent
 Parler surtout de faits n’indique pas à lui seul que l’on cherche à tenir une émotion à distance. Youssef, ingénieur en informatique, applique sa pensée analytique à ses relations. Il explique, compile des données et cherche des causes au lieu de dire "je me sens". Cela peut donner l'impression qu'il minimise les besoins affectifs de sa compagne.
 
 Exemples concrets :
-*   Références constantes à des probabilités ("Les chiffres montrent que...") plutôt qu'à des impressions personnelles.
-*   Ambiguïté dans la communication : utiliser les mots justes mais avec un ton détaché qui freine l'empathie.
+* À propos de la mutation, il compare les conséquences du nouveau poste avant de trouver une phrase sur ce que cela change pour lui.
+* Quand il dit « c’est logique », Léa ne sait pas s’il approuve seulement le choix de Nicolas ou s’il souhaite encore en parler.
 
 ## 3 techniques pour mieux identifier ses émotions
 
@@ -69,7 +69,7 @@ Exercice pratique :
 *   Ensuite, affinez votre choix : la "tristesse" peut devenir de la "déception" ou de la "nostalgie". Choisissez un mot précis et demandez-vous pourquoi il semble juste.
 *   À faire en couple : Léa peut demander : "Si tu devais choisir un mot pour ta journée dans cette roue, lequel serait-ce ?" Youssef peut aussi répondre « je ne sais pas encore » ou préférer en parler plus tard.
 
-Pourquoi ça marche : avoir des mots à disposition réduit l'effort mental nécessaire pour s'exprimer et permet de se sentir compris plus facilement.
+Utilité possible : des mots à disposition offrent des formulations à essayer, sans garantir qu’ils conviennent ni que le partenaire les comprenne immédiatement.
 
 ### 3. La micro-divulgation guidée
 Il s'agit de pratiquer le partage émotionnel par petites étapes, avec le soutien du partenaire.
@@ -77,9 +77,9 @@ Il s'agit de pratiquer le partage émotionnel par petites étapes, avec le souti
 Exercice pratique :
 *   Si vous êtes tous les deux d'accord, laissez à chacun un peu de temps pour parler. Youssef dit : « Je crois que j'étais inquiet pour lui. » Léa peut vérifier : « Tu veux dire que tu t'inquiétais pour lui ? » Il peut préciser ou laisser la question ouverte.
 *   Si un mot ne vient pas, proposez un choix sans attendre de réponse forcée : « Tu veux chercher un mot ensemble ou en reparler plus tard ? »
-*   Prévoyez un signal : si l'un de vous se sent submergé, faites une pause de deux minutes pour respirer ensemble avant de continuer.
+*   Prévoyez un signal : si l’un se sent submergé, faites une pause, puis choisissez si et quand reprendre ; respirer ensemble n’est pas une condition.
 
-Pourquoi ça marche : cette méthode transforme l'expression des sentiments en une habitude progressive, sans exiger de grandes révélations immédiates.
+Utilité possible : un échange bref permet de préciser un mot ou de laisser la question ouverte sans grande révélation exigée.
 
 ## Le jeudi sans Nicolas
 Youssef fait tourner sa tasse. « C’est logique, pour son boulot. Mais ça va me faire drôle de ne plus le voir le jeudi. » Le mot « triste » lui paraît trop grand, le mot « inquiet » un peu plus proche. Léa lui demande si Nicolas lui a dit quand il partirait. Youssef n’a pas pensé à le lui demander.

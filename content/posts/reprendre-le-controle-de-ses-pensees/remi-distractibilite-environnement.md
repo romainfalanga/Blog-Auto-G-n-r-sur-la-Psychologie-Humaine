@@ -45,11 +45,15 @@ Rémi vérifie souvent le cycle, de peur de laisser le linge attendre. Chaque co
 
 Il peut décider que cette attente convient à une activité plus simple : noter les questions à poser, classer les pages ou vérifier une donnée déjà repérée. La comparaison détaillée aura un autre moment. Ce choix n'est pas une capitulation devant la distraction. Il adapte le niveau d'exigence aux conditions disponibles. Il évite aussi de prendre une décision coûteuse sur la base d'une lecture qu'il sait incomplète.
 
+Le signal d’arrivée d’une personne le fait quitter la clause en cours ; le contrôle répété du temps du cycle lui fait ensuite abandonner la comparaison entre les deux offres. La sollicitation extérieure et la vérification qu’il entreprend lui-même imposent ici chacune une reprise.
+
 ### Un environnement idéal peut devenir un nouveau piège
 
 Rémi imagine un lieu sans bruit, une grande table et un long créneau. Il risque alors de reporter la lecture jusqu'à une situation qui n'arrive jamais. La colocation n'offre pas toujours une pièce libre et son emploi du temps varie. Chercher des conditions plus favorables ne veut pas dire attendre qu'elles soient parfaites. Il lui faut une amélioration suffisante, accessible sans dépense ou organisation démesurée.
 
 Une table dégagée pendant un créneau convenu avec Julie peut suffire. Une place de lecture disponible à la médiathèque est une autre possibilité, si ses horaires correspondent. Rémi ne transforme pas ces options en obligation quotidienne. Il les compare à ses moyens réels, au transport nécessaire et à la confidentialité du document. Une adaptation doit réduire la charge totale, pas déplacer le problème dans une préparation plus lourde que la lecture.
+
+Il peut écarter la table commune parce que Julie y passe encore, puis la médiathèque parce que le trajet réduirait trop le créneau. Si toute option légèrement imparfaite devient inutilisable, la recherche du bon lieu finit par retarder la lecture elle-même.
 
 ## 3 techniques pour agir sur la distractibilité et le contexte
 

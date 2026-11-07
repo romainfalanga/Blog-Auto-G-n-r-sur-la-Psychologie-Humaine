@@ -41,6 +41,11 @@ Il n’est pas nécessaire d’attribuer immédiatement une intention unique à 
 
 Une réponse courte lui permet parfois de choisir le niveau de conversation. Il peut dire que les deux photos racontent sa vie, ou qu’il préfère présenter son travail aujourd’hui. Il n’a pas besoin de nier ses liens avec le Sénégal pour garder ce choix. Son droit à une réponse personnelle ne dépend pas de la curiosité satisfaite de l’interlocuteur.
 
+Exemples concrets
+
+- La question sur la « vraie » provenance fait paraître insuffisante la photo du quartier actuel.
+- Malik voulait montrer une fenêtre et se retrouve à préparer tout le récit de son arrivée.
+
 ### Chaque groupe semble réclamer une version différente
 
 Avec ses collègues, Malik parle volontiers de mécanique et de prises de poste. Avec Awa, il partage des détails plus intimes. Au groupe de photographie, il commence par écouter les goûts des autres. Ces variations ne signifient pas qu’il possède plusieurs personnalités contradictoires. Toute relation rend certaines dimensions plus présentes que d’autres.
@@ -49,11 +54,21 @@ La difficulté apparaît lorsqu’il pense qu’un milieu doit ignorer tout ce q
 
 Le choix de révéler reste le sien. Il peut préserver une vie privée ou ne pas vouloir traduire toutes ses expériences. L’objectif n’est pas d’être entièrement transparent dans chaque cercle. Il consiste à vérifier si certaines séparations le protègent utilement ou s’il les maintient seulement parce qu’il suppose que ses univers ne pourraient pas coexister.
 
+Exemples concrets
+
+- Il hésite à parler photographie au dépôt de peur de paraître distrait de son métier.
+- Il peut garder une histoire intime pour Awa sans devoir la rendre transparente au groupe photo.
+
 ### La fidélité ressemble à une quantité limitée
 
 En sélectionnant davantage d’images de son quartier actuel, Malik craint de moins montrer ce qui le relie à Dakar. Il raisonne comme si une place prise ici devait être retirée là-bas. Pourtant, une série de trois photos ne mesure pas son attachement à sa famille ou à Awa. Elle représente un choix pour une rencontre donnée.
 
 Cette impression peut aussi venir des attentes des proches. Une personne peut se sentir déçue d’être moins présente dans les récits. Cette déception mérite éventuellement une conversation, sans devenir la preuve que Malik s’éloigne volontairement. L’affection ne se compte pas uniquement au nombre d’images, de références ou de souvenirs partagés dans chaque espace.
+
+Exemples concrets
+
+- Choisir davantage d’images du quartier semble retirer à Malik de la fidélité à Dakar.
+- Trois photos pour samedi ne mesurent pourtant ni l’affection envers Mariama ni la place d’Awa.
 
 ## Choisir les histoires que l’on souhaite partager
 
@@ -65,6 +80,12 @@ Reliez ensuite deux éléments qui se rencontrent déjà. La photographie d’un
 
 Si certaines dimensions ne se croisent pas, ne forcez pas leur mélange. Un espace peut rester privé ou avoir une importance particulière. La feuille ne sert pas à évaluer un degré d’intégration. Elle aide à voir les choix possibles et les contraintes, sans décider qu’une identité réussie devrait rendre tous les milieux compatibles en permanence.
 
+Exercice pratique
+
+- Notez les relations, activités et lieux qui comptent actuellement avec un geste pour chacun.
+- Reliez deux éléments déjà réunis, comme rame et photographie.
+- Laissez privés les domaines que vous ne souhaitez pas croiser, sans noter votre intégration.
+
 ### 2. Préparer une réponse à une question réductrice
 
 Choisissez une phrase qui élargit la réponse sans vous obliger à raconter davantage. Malik essaie : « Mon quartier et Dakar font partie de ma vie. Pour cette série, je montre mon trajet actuel. » Il peut la reformuler selon le contexte et l’énergie disponible. Une limite brève peut suffire.
@@ -73,6 +94,12 @@ Avec une personne respectueuse, il peut ajouter une explication sur l’effet de
 
 Après la scène, distinguez ce que vous souhaitez reprendre et ce que vous préférez laisser. Malik peut reparler à Bastien à un moment calme, parce qu’ils travaillent ensemble et qu’il connaît son écoute. Il ne doit pas mener la même conversation avec chaque personne rencontrée pour justifier sa présence dans le quartier.
 
+Exercice pratique
+
+- Préparez une phrase disant que le quartier actuel et Dakar font partie de votre vie.
+- Choisissez si vous voulez expliquer l’effet de la question à Bastien à un moment calme.
+- Gardez une réponse courte ou un changement de sujet si la curiosité insiste.
+
 ### 3. Essayer une contribution choisie dans un groupe
 
 Identifiez un espace où vous souhaitez participer, puis proposez un geste limité qui correspond à votre intérêt. Malik apporte trois photos à la rencontre. Il ne se présente ni comme spécialiste de son pays d’origine ni comme représentant de tous les mécaniciens. Il propose des images qu’il souhaite commenter en son nom.
@@ -80,6 +107,12 @@ Identifiez un espace où vous souhaitez participer, puis proposez un geste limit
 Observez ensuite la réponse du groupe. Les questions ouvrent-elles la conversation ou vous enferment-elles dans une seule dimension ? Peut-on dire que l’on ne souhaite pas répondre ? Cette observation sert à apprécier l’accueil réel. Si un lieu demeure réducteur malgré vos limites, le problème ne se résout pas nécessairement en vous exposant davantage.
 
 L’essai peut être partiel. Malik peut apprécier un échange et rester réservé avec une autre personne. Il peut revenir, demander une autre forme de participation ou choisir un autre groupe. Le sentiment de place se construit parfois dans des expériences répétées, mais aucune personne n’est responsable à elle seule de rendre un espace accueillant.
+
+Exercice pratique
+
+- Choisissez les trois images que vous souhaitez commenter chez Fatou.
+- Présentez-les en votre nom sans devoir représenter un pays ou un métier entier.
+- Regardez si les questions et les limites sont respectées avant de décider de revenir.
 
 ## Malik présente trois images qui ne racontent pas la même chose
 

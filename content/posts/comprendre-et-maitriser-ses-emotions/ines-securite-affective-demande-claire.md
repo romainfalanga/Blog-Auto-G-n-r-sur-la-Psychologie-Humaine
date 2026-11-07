@@ -39,17 +39,23 @@ Inès s’installe près des feuilles de Clara sans dire ce qu’elle souhaite. 
 
 Nommer l’attente réduit cette ambiguïté. Cela n’implique pas qu’il faille formuler chaque émotion en demande bien construite pour mériter de l’attention. Une partenaire peut proposer spontanément une présence et remarquer un malaise. Mais lorsque plusieurs réponses seraient possibles, Inès gagne à dire celle qu’elle recherche. La clarté ne remplace pas la sensibilité de Clara ; elle lui donne une information qui lui manque.
 
+La même attente implicite peut se voir à la porte : préparer « ça va » tout en espérant que Clara entende le besoin de raconter ne lui donne pas la forme d’aide recherchée.
+
 ### Confondre soutien et verdict sur ce qui s’est passé
 
 Clara pourrait commencer à analyser la règle de réservation. Inès ne cherche pourtant pas encore un avis professionnel. Elle veut raconter le moment où plusieurs personnes la regardent et entendre que cette expérience peut être éprouvante. Une analyse juste de la procédure pourrait alors lui paraître froide, non parce qu’elle est fausse, mais parce qu’elle répond à une autre question. Les intentions d’aide et l’effet ressenti peuvent diverger.
 
 Inès peut donc préciser : « Je ne te demande pas de décider qui a raison. » Elle garde la possibilité de demander plus tard un avis ou de parler avec sa collègue Lucie des aspects du travail. Cette répartition évite de donner à Clara la charge de valider toutes ses décisions. Elle permet aussi de recevoir une écoute sans la confondre avec une preuve qu’elle agit parfaitement. Être soutenue ne nécessite pas d’être déclarée irréprochable.
 
+Autre exemple possible : conseiller à Inès une phrase pour la prochaine réservation répondrait à la procédure alors qu’elle souhaite parler du regard des usagers aujourd’hui.
+
 ### Imaginer qu’une limite de l’autre annule le lien
 
 Lorsque Clara demande quelques minutes avant de venir, Inès ressent une déception immédiate. Elle peut interpréter ce délai comme un manque de place dans la relation. Elle peut aussi regarder les éléments disponibles : Clara propose un repère précis et revient effectivement. Le délai reste désagréable, mais son sens change. Il devient une limite de disponibilité dans un lien où une réponse demeure possible.
 
 Si les reports s’accumulent sans retour, la question serait différente et mériterait une conversation. Le but n’est pas de trouver une explication rassurante à chaque absence. Il est d’évaluer les comportements sur une durée adaptée. Une sécurité suffisante se construit aussi dans la fiabilité des reprises annoncées. Inès n’a pas à se persuader qu’un lien la soutient si les faits montrent régulièrement qu’elle ne peut pas y exprimer de besoin.
+
+Un refus lié à la réunion associative peut susciter la même interprétation que le paragraphe à finir ; dans les deux cas, un retour convenu et réel donne une information différente du seul délai.
 
 ## Demander de l’écoute et laisser l’autre répondre
 

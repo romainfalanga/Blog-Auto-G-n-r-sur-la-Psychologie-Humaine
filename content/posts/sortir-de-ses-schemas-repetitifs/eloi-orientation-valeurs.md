@@ -45,6 +45,8 @@ Les brochures montrent des espaces propres et des gestes maîtrisés. Éloi imag
 
 Il peut garder l'intérêt suscité par une image tout en le traitant comme une hypothèse. Une visite ou un entretien doit permettre de poser des questions sur l'activité ordinaire, pas seulement sur les moments les plus attractifs. Les personnes rencontrées peuvent avoir des expériences différentes. Éloi cherche des informations situées et plusieurs points de vue lorsque c'est possible, sans attendre qu'une seule conversation lui garantisse tout un futur.
 
+Le retour en bus fournit un second exemple concret. Une brochure peut annoncer un accompagnement intéressant, mais Éloi doit encore vérifier si l’horaire lui permet de rester sur place assez longtemps puis de rentrer au foyer. L’image de la cuisine et le trajet disponible sont deux informations de nature différente. La première suscite un intérêt ; la seconde participe à la faisabilité de l’exploration.
+
 ### Le choix semble devoir prouver une ambition
 
 Quentin parle parfois d'un environnement qui le fait rêver. Éloi se demande si choisir un cadre plus compatible avec son énergie serait manquer d'ambition. Il reprend alors une comparaison déjà connue : le projet d'un autre devient une mesure globale de sa valeur. Pourtant, leurs besoins et leurs contraintes peuvent différer. La qualité d'un choix ne se résume pas à ce qu'il semble impressionnant lorsqu'on le raconte.

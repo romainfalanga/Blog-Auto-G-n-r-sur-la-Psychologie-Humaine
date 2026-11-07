@@ -33,13 +33,25 @@ Les situations qui suivent concernent ce que fait Camille quand l’inquiétude 
 
 Un pincement au thorax pousse Camille à vouloir lire toutes les causes possibles. Chercher en ligne n’établit pas la cause d’un symptôme ; demander un avis pour une gêne nouvelle ou préoccupante reste approprié.
 
+Exemples situés :
+- Dans la réserve, Camille remarque sa gêne thoracique et peut avoir envie d’ouvrir plusieurs pages web avant d’en parler ; la demande d’avis vient d’abord.
+- Après le message de David depuis le parc, une sensation corporelle peut lui faire imaginer plusieurs maladies ; ces images ne tranchent pas leur cause.
+
 ### 2. Chercher à nouveau une réponse après un avis
 
 Après un examen et des consignes de suivi, certaines personnes continuent de demander la même confirmation alors que rien n’a changé. Le [NHS](https://www.nhs.uk/mental-health/conditions/health-anxiety/) décrit ce phénomène dans l’anxiété liée à la santé. Reconsulter si les symptômes changent, persistent ou s’aggravent est une autre démarche.
 
+Exemples situés :
+- Après avoir reçu une évaluation et des consignes, Camille peut vouloir redemander la même certitude à Nathalie alors qu’aucun fait n’a changé.
+- Chez elle, elle peut vouloir rouvrir un résultat déjà expliqué uniquement pour calmer le doute ; un symptôme nouveau ou aggravé appelle une autre réponse, conforme aux consignes reçues.
+
 ### 3. Répéter des contrôles ou éviter certaines activités
 
 Camille peut noter l’envie de reprendre une mesure qui n’était pas indiquée. Elle continue les mesures prescrites et discute avec un soignant si elle ne sait pas lesquelles faire.
+
+Exemples situés :
+- Une mesure non demandée peut tenter Camille après l’évaluation ; elle peut vérifier avec le soignant quelles mesures sont réellement indiquées.
+- Elle peut envisager d’annuler une sortie pour éviter toute incertitude sur sa santé ; elle peut discuter de cette difficulté au suivi sans utiliser un exercice pour décider si la sortie est médicalement adaptée.
 
 ## Techniques pour agir face à la vulnérabilité au danger
 
@@ -49,13 +61,40 @@ La première étape est de répondre au besoin de soins. Les pistes qui suivent 
 
 Une douleur ou une oppression thoracique inquiétante demande une évaluation rapide. En France, l’[Assurance Maladie](https://www.ameli.fr/assure/sante/themes/douleur-thoracique/reconnaitre-agit-urgence) indique d’appeler le 15 ou le 112 en présence de symptômes inquiétants, par exemple une oppression accompagnée d’essoufflement ou de malaise. N’attendez pas la fin d’un exercice et ne tentez pas de chiffrer vous-même le risque.
 
+Objectif : obtenir un avis sur la gêne actuelle avant tout travail sur la peur.
+
+Dans la scène de l’hôpital :
+1. Prévenez sans attendre la collègue présente de la gêne préoccupante et demandez le relais nécessaire auprès des patients.
+2. Joignez l’équipe chargée des urgences internes et décrivez le début et l’évolution du symptôme, sans chercher à le tester vous-même.
+3. Suivez l’évaluation et les indications données par l’équipe, y compris les motifs de reconsultation.
+
+Utilité possible : la réponse est confiée aux professionnels. Hors de ce cadre, les numéros urgents et indications rappelés ci-dessus restent prioritaires ; aucune étape d’écriture ne doit les retarder.
+
 ### 2. Parler de la peur une fois le besoin de soins évalué
 
 Une fois les soins organisés, Camille peut dire à une personne de confiance qu’elle a eu peur et que cette peur lui rappelle des souvenirs. Elle n’a pas besoin de retracer son enfance ni de se convaincre que tout danger est exclu.
 
+Objectif : partager le vécu sans demander une garantie médicale à un proche.
+
+Exercice pratique :
+1. Après l’évaluation, choisissez un adulte disponible, comme David, et demandez s’il peut écouter quelques minutes.
+2. Dites ce qui vous a inquiétée et ce que vous attendez de lui : une écoute, un repas ou une présence.
+3. Gardez les questions sur l’évolution physique pour l’équipe et convenez d’un autre moment si la peur reste envahissante.
+
+Utilité possible : la famille peut apporter un soutien concret sans devenir responsable de certifier que tout danger est exclu.
+
 ### 3. Examiner l’envie de refaire une recherche
 
 Si une évaluation a déjà été faite, que la situation n’a pas changé et qu’elle connaît les consignes de suivi, Camille peut noter qu’elle veut rouvrir les mêmes pages web et choisir de passer à autre chose. Cet essai ne remplace ni les consignes reçues ni une consultation pour un symptôme préoccupant.
+
+Objectif : repérer une recherche répétée sans information nouvelle, dans le cadre des consignes reçues.
+
+Exercice pratique :
+1. Vérifiez que la situation correspond bien au cadre décrit : évaluation faite, absence de changement et consignes comprises ; sinon, demandez l’avis approprié.
+2. Nommez la question que vous vouliez à nouveau saisir et demandez-vous si elle apporte une information différente.
+3. Si vous reconnaissez la même recherche de certitude, choisissez une autre activité accessible, ou portez cette difficulté au suivi.
+
+Utilité possible : cet essai donne un choix sur la navigation web ; il ne supprime aucune surveillance prescrite et ne décide jamais qu’un symptôme est bénin.
 
 ## Faire évaluer la douleur
 

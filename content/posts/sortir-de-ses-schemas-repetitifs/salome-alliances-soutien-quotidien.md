@@ -39,17 +39,32 @@ Salomé sait corriger un message. Elle pourrait donc conclure qu’elle doit le 
 
 Elle peut garder sa voix tout en laissant Gaspard agir sur un point discuté. L’autonomie se voit dans la possibilité de décider de l’appui et de le modifier, pas seulement dans l’absence d’aide. Salomé n’a pas besoin d’attendre d’être débordée pour accepter une contribution. Elle peut construire un fonctionnement ordinaire où les tâches communes et les corrections accessibles ne reposent pas toujours sur la personne directement visée.
 
+Deux exemples dans cette situation :
+
+- La pièce à coller attend sur l’établi, mais Salomé pourrait reprendre seule le courriel parce qu’elle sait rédiger une correction.
+- Elle serait tentée de refuser le relais de Gaspard pour montrer qu’une erreur de présentation ne la dépasse pas.
+
 ### Accepter une aide trop large pour ne pas décevoir
 
 Lorsque Nora propose de venir à la réunion, Salomé pourrait dire oui par gratitude, même si elle souhaite s’y rendre seule. Son amie pourrait alors organiser sa soirée pour une présence qui n’est pas réellement voulue. Le soutien deviendrait une nouvelle coordination à gérer. Une préférence claire peut éviter ce décalage : Salomé apprécie l’offre et choisit un échange après, avec une durée qui convient à Nora.
 
 Cette sélection n’évalue pas l’amitié. Refuser une forme d’aide ne signifie pas refuser la personne. Nora garde aussi le droit de dire qu’elle ne sera pas disponible après la réunion. Elles peuvent chercher un autre moment ou laisser l’offre de côté. Une alliance ne demande pas que chaque proposition soit utilisée. Elle offre des possibilités qui doivent rester compatibles avec les besoins et les moyens de plusieurs personnes distinctes.
 
+Deux exemples dans cette situation :
+
+- Elle envisage d’accepter Nora à la réunion alors qu’elle souhaite s’y présenter seule.
+- Nora pourrait réserver toute sa soirée si Salomé ne précise pas qu’un simple échange après la rencontre lui suffit.
+
 ### Faire du soutien une dette sans limite
 
 Salomé imagine parfois qu’accepter un service l’obligera à répondre présente à la prochaine demande. Elle pourrait alors hésiter à recevoir, même lorsque l’aide est simple. La réciprocité compte dans leurs relations, mais elle ne nécessite pas une équivalence immédiate entre chaque geste. Gaspard peut corriger un courriel aujourd’hui ; Salomé peut contribuer autrement à l’atelier plus tard, selon un choix et non selon une facture affective invisible.
 
 Il est utile de discuter les engagements réels lorsqu’une aide prend du temps ou se répète. Un relais ponctuel ne doit pas devenir un rôle permanent sans accord. De même, une demande future peut recevoir un non même après un service reçu. La gratitude et la limite peuvent coexister. Ce fonctionnement demande une organisation assez claire pour que personne ne soit supposé disponible indéfiniment au nom de la solidarité.
+
+Deux exemples dans cette situation :
+
+- Après la correction, Salomé pourrait se croire obligée d’accepter une tâche proposée par Gaspard sans vérifier son temps disponible.
+- Un message d’écoute de Nora pourrait lui sembler ouvrir une disponibilité permanente en retour, alors qu’aucun engagement de ce type n’est convenu.
 
 ## Trois techniques pour construire des alliances concrètes
 
@@ -61,6 +76,12 @@ Gaspard lui montre la formulation, puis envoie le message après son accord. La 
 
 Pour essayer, formulez une demande limitée : qui fait quoi, auprès de qui et jusqu’où ? Vous pouvez préciser ce qui ne doit pas être transmis. La personne qui aide peut dire qu’elle n’est pas à l’aise avec l’action ou proposer un autre moyen. Une alliance ne se construit pas sur la disparition de sa liberté. Cherchez un arrangement praticable, pas un engagement général à vous défendre dans toutes les circonstances futures.
 
+Pour passer à une action limitée :
+
+1. Nommez la correction exacte souhaitée dans le fil des artisans.
+2. Dites à Gaspard où il peut répondre et quelles informations restent privées.
+3. Vérifiez ensemble la formulation convenue avant l’envoi, puis rediscutez toute extension du rôle.
+
 ### 2. Répartir les appuis selon les situations
 
 Salomé fait une carte simple de ses besoins. À l’atelier, Gaspard peut soutenir le cadre d’accueil ou partager une tâche matérielle. Avec Nora, elle peut parler d’une rencontre ou choisir une activité qui lui fait du bien. Pour un événement, l’organisation doit fournir les informations et les relais relevant du lieu. Aucun appui ne remplace tous les autres. Cette répartition évite de confier à une seule personne le rôle d’interlocutrice, de protectrice et de conseillère permanente.
@@ -69,6 +90,12 @@ Elle distingue aussi ce qu’elle souhaite faire elle-même. Elle veut répondre
 
 Vous pouvez commencer avec deux ou trois ressources réelles, puis repérer les manques. Si aucune personne n’est disponible pour une situation importante, ce manque demande parfois une recherche concrète de relais associatif, organisationnel ou professionnel. Il ne se résout pas toujours en apprenant à moins demander. La carte doit montrer les possibilités et les contraintes, sans inventer un réseau idéal ni vous reprocher de ne pas déjà l’avoir.
 
+Pour passer à une action limitée :
+
+1. Distinguez une tâche d’atelier, une information d’organisation et un besoin d’écoute.
+2. Vérifiez la disponibilité de l’interlocuteur pertinent sans tout confier à une seule personne.
+3. Gardez visibles les démarches que vous préférez faire seule et les besoins pour lesquels aucun relais n’est encore trouvé.
+
 ### 3. Vérifier l’effet de l’aide et ajuster les accords
 
 Après la correction du courriel, Salomé regarde ce qui se produit : la présentation est modifiée, aucune information supplémentaire n’est diffusée et elle peut poursuivre sa tâche. Elle remercie Gaspard pour l’action précise. Elle lui demande aussi si ce type de relais lui convient à l’avenir, à condition de vérifier le contexte. Il répond qu’il peut le proposer, sans promettre d’être disponible à chaque fois. L’accord reste assez modeste pour être crédible.
@@ -76,6 +103,12 @@ Après la correction du courriel, Salomé regarde ce qui se produit : la présen
 Avec Nora, le bilan est différent. L’échange après la réunion dure plus longtemps que prévu et son amie commence à manquer d’attention. Salomé remarque le décalage et propose d’arrêter. Elles choisiront un autre moment si le sujet reste important. Le soutien n’est pas moins sincère parce qu’il a une fin. Leur relation peut contenir de l’écoute et des activités communes qui ne sont pas consacrées à résoudre une difficulté.
 
 Un ajustement peut aussi porter sur un geste qui aide mal. Vous pouvez dire qu’une intervention attire trop l’attention ou transmet plus que ce que vous souhaitez. La personne alliée peut reconnaître cette information sans attendre d’être déclarée parfaite. Une alliance utile accepte les corrections. Si les limites sont régulièrement ignorées au nom de l’aide, il peut être nécessaire de réduire le rôle confié et de chercher un autre appui.
+
+Pour passer à une action limitée :
+
+1. Regardez si la correction a été faite dans le périmètre choisi.
+2. Remerciez pour l’action précise et demandez quelle disponibilité est réaliste pour une prochaine fois.
+3. Ajustez la durée ou la forme de l’échange avec Nora et laissez une place à vos activités communes.
 
 ## Nora écrit après la réunion
 

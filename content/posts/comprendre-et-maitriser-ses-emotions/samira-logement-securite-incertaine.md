@@ -22,7 +22,6 @@ Le papier lui rappelle tout ce qui dépend de cette adresse : l’école à dist
 Mireille, sa voisine, vient récupérer un livre prêté à Noé. Samira hésite, puis lui montre le courrier. Mireille ne se présente pas comme une spécialiste. Elle propose de garder Noé pendant que Samira cherche un interlocuteur compétent. Pour la première fois depuis l’ouverture de la lettre, la question se partage entre une information à vérifier et un appui tout à fait concret.
 
 ## Qu’est-ce que le sentiment de sécurité lié au logement ?
-
 Le sentiment de sécurité lié au logement est la possibilité de percevoir son lieu de vie comme suffisamment stable et protecteur pour organiser le quotidien. Il dépend de conditions matérielles, de droits, de relations et d’informations compréhensibles. Une porte qui ferme ne suffit pas toujours à se sentir en sécurité lorsqu’on ignore si l’on pourra continuer à habiter derrière elle.
 
 Les recommandations de l’Organisation mondiale de la santé sur le logement soulignent l’importance de conditions d’habitation adéquates pour la santé. Elles portent notamment sur des risques matériels et sur les politiques nécessaires pour les réduire. Elles ne proposent pas de transformer une inquiétude résidentielle en simple problème de pensée. Pour Samira, obtenir des renseignements fiables reste aussi important que trouver une manière de traverser l’attente.
@@ -32,31 +31,41 @@ Une incertitude peut activer une attention soutenue : écouter chaque bruit du p
 Reconnaître ce contexte évite deux erreurs. La première serait de promettre qu’il n’arrivera rien sans connaître la situation. La seconde serait de traiter chaque scénario imaginé comme un événement déjà certain. Entre les deux, Samira peut chercher des faits vérifiés tout en admettant que l’attente reste pénible. Cette position ne supprime pas le risque ; elle aide à ne pas vivre tous ses développements possibles simultanément.
 
 ## Comment l’incertitude du logement modifie-t-elle les repères ?
-
 ### Le futur envahit les objets présents
-
 En regardant l’étagère de Noé, Samira voit soudain le problème de son transport. Devant le placard, elle imagine ce qu’il faudrait jeter. Elle n’est pourtant pas en train de préparer un départ confirmé. Son esprit essaie d’anticiper une difficulté aux conséquences importantes, avec des moyens limités et sans calendrier clair.
 
 L’anticipation peut être utile quand elle débouche sur une information ou une préparation proportionnée. Elle devient coûteuse lorsqu’un objet ordinaire déclenche toute une chaîne de scénarios impossibles à départager. Samira commence à décrocher une affiche, puis la laisse en place. Ce geste lui montre qu’elle se comporte déjà comme si une réponse définitive existait.
 
 Il serait maladroit de lui demander de profiter simplement de son intérieur. Son appartement est précisément ce qu’elle cherche à protéger. Elle peut plutôt remarquer : « Je prépare un départ dont je ne connais pas encore la nécessité. » Cette phrase garde la possibilité ouverte sans lui imposer de faire comme si le courrier n’existait pas.
 
-### L’enfant cherche une réponse à sa mesure
+Exemples situés :
 
+- Samira regarde l'étagère de Noé comme un meuble à transporter avant qu'un départ soit confirmé.
+- Elle commence à décrocher une affiche comme si le courrier avait déjà fixé la date d'un déménagement.
+
+### L’enfant cherche une réponse à sa mesure
 Noé demande s’il faudra changer d’école. La question paraît excessive à Samira, puis elle comprend qu’il essaie de relier une information vague à son propre monde. À neuf ans, il ne dispose pas des mêmes repères administratifs qu’un adulte. Il entend surtout que l’adresse pourrait ne plus être certaine et cherche ce que cela signifie pour demain.
 
 Samira n’a pas besoin de lui exposer chaque hypothèse ni de cacher toute inquiétude. Elle peut différencier ce qui est connu, ce qu’elle cherche à comprendre et ce qui reste identique aujourd’hui. Il va à l’école demain, ses affaires restent dans sa chambre, et elle demande une explication sur la lettre. Ce sont des informations limitées, mais vérifiables.
 
 La conversation peut revenir plusieurs fois. Noé ne devrait pas devenir celui qui rassure sa mère ou l’aide à porter les décisions de logement. Mireille représente ici un appui adulte. Samira peut réserver avec elle les échanges plus complexes et donner à son fils une réponse simple, sans lui demander de garder un secret ou de surveiller son humeur.
 
-### L’attente devient une tâche sans fin
+Exemples situés :
 
+- Noé demande s'il changera d'école ; Samira peut répondre sur le lendemain connu sans promettre ce qu'elle ignore pour les mois suivants.
+- S'il demande à nouveau pour ses constructions, elle peut reprendre les mêmes repères plutôt que lui montrer toutes les hypothèses échangées avec Mireille.
+
+### L’attente devient une tâche sans fin
 Samira songe à consulter des annonces pendant sa pause de caisse. Elle constate vite que cette recherche lui apporte surtout de nouvelles questions. Quels documents faudrait-il ? Quel trajet serait possible ? Elle n’a même pas encore fait expliquer son courrier. L’effort d’anticipation se multiplie avant que le premier point soit clarifié.
 
 Une personne extérieure peut penser qu’elle s’agite inutilement. Ce serait oublier que le coût potentiel d’une information manquée est élevé pour elle. L’enjeu consiste à définir une prochaine étape utile, pas à condamner sa vigilance. Une information spécialisée peut aider à hiérarchiser, tout en laissant des délais et des décisions hors de son contrôle.
 
-## 3 techniques pour traverser une incertitude de logement
+Exemples situés :
 
+- Sur sa pause de caisse, Samira compare des annonces avant de connaître la portée du courrier.
+- Dans l'escalier, un propos de voisin peut l'amener à reprendre toutes ses recherches, alors que la prochaine étape reste d'obtenir une information écrite.
+
+## 3 techniques pour traverser une incertitude de logement
 ### 1. Séparer la lettre de ses interprétations
 
 Sur un support disponible, tracez deux petites zones. Dans la première, recopiez seulement les éléments certains : l’expéditeur, la date, les mots précis qui nécessitent une explication. Dans la seconde, notez les questions que cela soulève. Samira écrit « projet pour l’immeuble » d’un côté et « qu’est-ce que cela change pour notre location ? » de l’autre.
@@ -82,7 +91,6 @@ Pour elle-même, Samira garde un court temps consacré aux questions de logement
 Un repère peut aussi être relationnel : une voisine qui accepte un appel après le rendez-vous, une personne qui accompagne un déplacement, une activité gratuite déjà familière. Il ne doit pas coûter davantage que ce qu’il apporte. Une routine idéale impossible à tenir peut accroître la pression ; un geste modeste et réaliste suffit pour essayer.
 
 ## L’étagère reste où elle est
-
 Mireille garde Noé un mercredi où Samira ne travaille pas. Sur la table de l’accueil, la lettre semble moins énorme lorsqu’elle est posée à côté des questions écrites. La conseillère lui demande des précisions et distingue ce qui peut être expliqué maintenant de ce qui exige d’autres éléments. Samira ne ressort pas avec une garantie absolue.
 
 Elle possède cependant une liste courte de points à vérifier et sait quel document apporter au prochain échange. Elle remarque aussi qu’une phrase inquiétante n’a pas nécessairement le sens qu’elle lui attribue seule sur le palier. Cette clarification ne justifie pas le manque de lisibilité du courrier. Elle montre la valeur d’un accueil qui prend le temps d’expliquer.

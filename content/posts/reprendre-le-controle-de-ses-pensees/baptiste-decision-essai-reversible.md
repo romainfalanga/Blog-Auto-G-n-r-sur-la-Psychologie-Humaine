@@ -35,13 +35,28 @@ Les ressources du NHS sur la résolution de problèmes proposent de définir une
 
 Baptiste appelle le document version de travail, mais les destinataires ne savent pas nécessairement ce qui change. Si le fichier ressemble aux outils habituels et circule dans les mêmes canaux, certaines personnes peuvent le prendre pour une nouvelle consigne. La diffusion devient alors plus engageante que la simple préparation initiale. Préciser le contexte, le groupe concerné et le statut du document permet de limiter cette ambiguïté. Cela ne dispense pas des contrôles requis. Une mention visible ne suffit pas si l’organisation ne possède pas de moyen fiable pour séparer les usages et les responsabilités.
 
+Exemples concrets
+
+- Un fichier nommé « version de travail » pourrait être pris pour une nouvelle consigne s’il arrive dans le canal habituel.
+- Montrer les exemples à d’autres équipes sans vérifier l’accord élargirait l’essai préparé avec Patricia.
+
 ### On ne sait pas ce qui permettrait d’arrêter
 
 Emmanuel et Baptiste pourraient décider de continuer parce que quelques participants apprécient la présentation, même si d’autres ne trouvent plus une information essentielle. Sans critères discutés, chaque réaction peut servir à confirmer l’envie de poursuivre. Ils peuvent préparer les questions à observer et les difficultés qui demanderaient une révision. Les critères n’ont pas besoin d’inclure un score arbitraire de satisfaction. Ils peuvent porter sur la compréhension d’une rubrique, l’identification d’une date ou la possibilité de retrouver une information. Ce qui reste trop incertain doit pouvoir conduire à un arrêt ou à une étape différente, pas seulement à une justification supplémentaire.
 
+Exemples concrets
+
+- Le résumé plaît à plusieurs lecteurs alors que deux champs restent confondus.
+- L’envie de continuer pourrait conduire à traiter toute hésitation comme un détail sans critère de révision.
+
 ### Le coût déjà engagé transforme l’essai en promesse
 
 Baptiste a passé du temps sur la mise en page et Emmanuel a mobilisé des collègues. Ils peuvent ressentir une pression à montrer que cet effort valait la peine. Pourtant, découvrir qu’une proposition ne convient pas peut être précisément l’information recherchée. Les efforts passés ne disparaissent pas ; ils ne rendent pas automatiquement la suite nécessaire. Le cadre de l’essai doit permettre de reconnaître cette possibilité sans humilier les personnes qui l’ont préparé. Un groupe qui n’autorise aucun résultat défavorable transforme progressivement une expérience d’apprentissage en engagement dont il devient difficile de sortir.
+
+Exemples concrets
+
+- Baptiste voudrait rentabiliser les heures de mise en page en diffusant la fiche.
+- Emmanuel peut hésiter à annoncer l’arrêt après avoir invité des collègues à contribuer.
 
 ## Trois pistes pour préparer une possibilité réelle de révision
 
@@ -49,13 +64,31 @@ Baptiste a passé du temps sur la mise en page et Emmanuel a mobilisé des coll�
 
 Baptiste décrit un échange sur des exemples fictifs, pendant un créneau prévu avec les personnes autorisées. Il n’y aura pas de modification des transmissions utilisées pour les interventions. Il précise les destinataires du document de travail et le lieu où la version sera conservée. Ces éléments ne sont pas des détails administratifs ajoutés après l’idée : ils participent à son sens et à sa sécurité. Dans une décision personnelle, l’examen peut porter sur d’autres limites, comme une séance unique plutôt qu’un abonnement ou une tâche précise plutôt qu’une responsabilité durable. Les conditions concrètes doivent être vérifiées auprès des interlocuteurs concernés. Qualifier un choix de réversible ne permet pas d’inventer un droit d’annulation, de négliger le consentement d’autrui ou de promettre qu’aucune conséquence ne restera.
 
+Exercice pratique
+
+- Décrivez les exemples fictifs, les destinataires autorisés et le lieu de conservation de la version.
+- Faites confirmer avec Patricia que les transmissions et procédures réelles restent dans leur cadre habituel.
+- Présentez ces limites aux participants avant la séance.
+
 ### 2. Choisir ce que l’essai doit permettre d’apprendre
 
 Baptiste souhaite observer si les lecteurs comprennent l’organisation des rubriques et savent où chercher une information. Il ne cherche pas à prouver que sa première version était bonne. Il prépare quelques questions et laisse également un espace aux remarques non prévues. Cette intention rend possible une conclusion limitée : le support semble plus lisible pour certains usages, une rubrique crée de la confusion, ou les informations recueillies ne suffisent pas à choisir. Une expérience n’a pas à fournir une réponse générale sur tout le projet. Définir ce qu’elle peut apprendre aide à ne pas lui demander une certitude qu’elle ne produira pas. Cela permet aussi de décider qu’un autre type d’information, ou une compétence différente, est nécessaire avant la prochaine étape.
 
+Exercice pratique
+
+- Choisissez une question de lisibilité, comme distinguer les deux champs.
+- Préparez l’exemple fictif et un espace pour les observations non prévues.
+- Notez quelles difficultés devront conduire au bilan plutôt qu’à une adoption immédiate.
+
 ### 3. Prévoir une date de décision et la manière de revenir sur la proposition
 
 Avant la séance, Baptiste et Patricia conviennent d’un point de bilan. Le document ne passera pas automatiquement à l’étape suivante. Si la proposition est arrêtée, les participants en seront informés et la version de travail ne restera pas présentée comme active. Emmanuel pourra expliquer ce qui a été appris sans défendre une adoption à tout prix. Ce retour demande donc un peu de travail et une responsabilité identifiée. Dans une autre situation, il faudrait également examiner les dépenses, les personnes engagées et les conséquences impossibles à effacer. Une date de bilan n’a d’intérêt que si plusieurs suites restent réellement possibles : poursuivre, modifier, chercher d’autres informations ou arrêter. Si l’une est interdite d’avance, mieux vaut reconnaître qu’il ne s’agit pas d’un essai entièrement ouvert.
+
+Exercice pratique
+
+- Fixez avec Patricia le point où la suite sera décidée.
+- Désignez qui préviendra les participants et retirera la version active si elle est arrêtée.
+- Gardez au bilan les possibilités de modifier, chercher une autre information ou arrêter.
 
 ## Deux champs portent à confusion
 

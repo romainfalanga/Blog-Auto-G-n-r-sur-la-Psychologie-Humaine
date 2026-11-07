@@ -45,11 +45,15 @@ Quand Cédric évoque une difficulté professionnelle, Vincent cherche une solut
 
 Rester curieux signifie aussi ne pas écrire la réponse de l’autre à sa place. Vincent ne sait pas si Cédric veut sortir, être seul ou partager une activité tant qu’ils n’en parlent pas. Les préférences peuvent varier. Un choix pour cette soirée ne devient pas un trait permanent ni un signe caché de la qualité de leur relation.
 
+Pour la traduction, il propose d’abord une méthode de fin alors que Cédric demande un avis sur la formule ; pour la fin du repas, il pourrait proposer d’emblée une écoute musicale alors que Cédric préfère lire seul. Aider et être présent ne consistent pas à deviner une même réponse aux deux moments.
+
 ### Le moment partagé devient une preuve à fournir
 
 Vincent voudrait parfois qu’une sortie réussie confirme que leur couple résiste à tout. Un contretemps prend alors une importance disproportionnée : si le restaurant ne convient pas ou s’ils se disputent, il croit voir un échec de leur lien. Cette pression rend difficile un plaisir simple, avec une activité moyenne, un peu de fatigue et un désaccord sans portée générale.
 
 La proximité n’est pas un examen. Cédric peut refuser une proposition sans refuser Vincent. Ils peuvent aussi souhaiter des formes d’affection différentes à un moment donné. Demander ce qui convient permet d’éviter que le besoin d’être rassuré se transforme en insistance. L’attachement n’efface pas le droit de ne pas avoir envie et n’exige pas une démonstration immédiate.
+
+Il pourrait lire un restaurant inadapté comme l’échec de leur sortie ; il pourrait aussi lire le souhait de lire seul comme l’échec du dîner partagé. Le contretemps matériel et la préférence du soir deviennent alors deux preuves supposées que l’activité devait empêcher.
 
 ## Trois techniques pour garder une place de couple dans l’aidance
 

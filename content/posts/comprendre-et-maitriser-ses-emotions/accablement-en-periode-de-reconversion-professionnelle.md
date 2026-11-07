@@ -26,24 +26,54 @@ Le mot « accablement » décrit ce que Thomas éprouve : une lourdeur et le sen
 ## Comment l'accablement se manifeste dans le contexte de la reconversion professionnelle ?
 
 ### 1. La paralysie devant la prise de décision
-Dans le cadre d'un changement de carrière, l'accablement se traduit souvent par une incapacité totale à faire des choix, même minimes. Pour Thomas, choisir entre deux formations ou décider du titre de son futur CV devient une torture mentale. Chaque option semble porter le poids d'un échec potentiel définitif, réveillant cette peur de la punition qu'il projetait sur son élève Julie lorsqu'il n'osait pas la sanctionner. Thomas a du mal à décider alors qu’il se sent débordé. Cela ne permet pas de déduire ce qui se passe dans son cerveau.
+
+Thomas se sent débordé et les choix lui paraissent difficiles à commencer ou à terminer. Cela ne permet pas de savoir ce qui se passe dans son cerveau ni de désigner une cause unique à son état.
+
+Comparer deux formations peut l’arrêter parce qu’il essaie de décider de toute sa carrière à partir de leurs intitulés. Choisir le titre du CV peut aussi lui sembler engager définitivement la personne qu’il doit devenir. Ces deux décisions n’ont pas la même portée réelle. Les traiter séparément peut rendre le besoin d’information plus précis, sans supposer qu’un simple effort de volonté suffira.
 
 ### 2. Le désinvestissement affectif et social
-L'individu accablé commence à se retirer du monde. On observe un émoussement des émotions : les activités qui plaisaient autrefois, comme cuisiner pour ses proches ou courir le matin, ne provoquent plus aucun plaisir. Thomas ne trouve plus la force de s'intéresser aux récits de ses élèves ou aux projets d'Émilie. Ce retrait peut avoir plusieurs causes. Le cercle social est perçu comme une source de demandes supplémentaires auxquelles on ne peut plus répondre, un écho à ce besoin d'autocensure qu'il ressentait en réunion pédagogique pour éviter le conflit.
+
+Dans cette période, Thomas décrit moins d’élan et moins de disponibilité pour certaines activités ou relations. Le retrait peut avoir plusieurs causes et mérite un avis s’il persiste ou gêne le quotidien, plutôt qu’une explication automatique par son projet de reconversion.
+
+Il peut ne plus trouver l’énergie de cuisiner le week-end alors que cette activité lui plaît habituellement. Il peut aussi laisser un message de Valérie sans réponse parce qu’il y voit une demande supplémentaire qu’il ne sait pas prendre en charge. Le premier exemple concerne une activité personnelle, le second un échange professionnel. Les décrire permet de demander des appuis sans conclure à un diagnostic.
 
 ### 3. La sensation d'un futur bouché
-En pleine reconversion, l'horizon devrait être synonyme de renouveau. Pourtant, face à l'accablement, le futur est perçu comme un mur infranchissable. La personne est convaincue que peu importe ses efforts, le résultat sera médiocre. C'est une distorsion cognitive où l'on oublie ses compétences passées. Thomas, malgré ses années de pédagogie réussie, se sent aujourd'hui incapable de transmettre quoi que ce soit, persuadé que sa transition vers l'édition est une erreur monumentale vouée à l'échec.
+
+Le manque d’énergie actuel peut donner à Thomas l’impression qu’aucune suite n’est possible. Une anticipation pessimiste n’explique pas toute sa fatigue et ne rend pas imaginaires les délais, les moyens nécessaires ou les difficultés d’accès à un autre métier.
+
+Le portfolio inachevé peut devenir pour lui « je ne pourrai jamais travailler dans l’édition ». La pile de copies peut aussi devenir « je n’arriverai plus à remplir aucun de mes rôles ». Ces deux conclusions dépassent ce que les tâches présentes établissent. Thomas peut chercher ce qui doit être reporté, partagé ou évalué, sans devoir se promettre un futur certain pour demander de l’aide.
 
 ## 3 techniques pour agir face à l'accablement
 
 ### 1. La technique du découpage atomique
-Pour contrer la sensation d'être écrasé par une montagne de tâches, il est utile de réduire chaque action à sa plus petite unité possible. L'exercice consiste à ne jamais noter "travailler sur ma reconversion" sur sa liste, mais plutôt "ouvrir un document Word" ou "écrire une seule phrase de présentation". Le but est de choisir une tâche faisable, à condition qu’il ait assez d’énergie ; demander de l’aide reste une option. Thomas peut ainsi se fixer comme unique but de la journée de classer un seul document, sans se préoccuper du reste de la pile.
+
+Thomas peut choisir une action dont la taille correspond à ses moyens du moment. L’objectif n’est pas de prouver qu’il reste productif ; demander une aide ou un délai peut être l’action utile.
+
+1. Choisir un seul objet : le message sur le portfolio, plutôt que l’ensemble de la reconversion et des copies.
+2. Définir une action faisable : retrouver le message, préparer une phrase pour demander un autre délai ou demander à Émilie de l’aider à formuler sa demande s’il le souhaite.
+3. Après cette action, s’arrêter et voir ce qui reste nécessaire. S’il ne peut pas la faire, le noter comme un besoin d’appui plutôt que réduire encore les tâches pour se forcer seul.
+
+Cette découpe peut rendre une prochaine démarche visible. Elle ne traite pas la cause de la fatigue et ne remplace pas une évaluation de santé lorsqu’elle est nécessaire.
 
 ### 2. Le balayage sensoriel d'ancrage
-L'accablement projette souvent l'esprit dans un futur catastrophique ou un passé rempli de regrets. Pour revenir au présent, Thomas essaie de remarquer ce qu’il perçoit autour de lui. Il s’arrête et prête attention à un son dans la pièce ou au contact du coton sur sa peau. Le [guide de l’OMS sur le stress](https://www.who.int/publications/i/item/9789240003927) décrit un exercice de ce type. Il ne garantit pas un apaisement et ne change pas la charge de travail.
+
+Le [guide de l’OMS sur le stress](https://www.who.int/publications/i/item/9789240003927) décrit un ancrage sensoriel. Thomas peut essayer un repère extérieur s’il lui convient, sans chercher une mesure d’amélioration.
+
+1. Interrompre un instant l’écran et remarquer un élément simple dans la cuisine, comme le son de la bouilloire ou le bord de la table.
+2. Revenir à ce qu’il est en train de faire, avec ses gestes ordinaires. Il peut laisser la respiration suivre son rythme et arrêter l’exercice si cela lui déplaît ou augmente le malaise.
+3. Choisir la suite présente : boire, rester assis ou demander un appui, plutôt que repartir automatiquement sur toute la liste du travail.
+
+Le repère peut donner une transition entre deux moments. Il ne garantit pas un apaisement, ne change pas la charge et ne remplace pas les soins dont il pourrait avoir besoin.
 
 ### 3. Se parler avec bienveillance
-Inspiré des [travaux de Kristin Neff](https://doi.org/10.1080/15298860309032), cet exercice consiste à se parler comme on parlerait à un ami très cher en difficulté. Au lieu de se fustiger pour son manque de productivité, l'exercice demande d'écrire une lettre de trois lignes à soi-même. On y reconnaît sa souffrance sans jugement, par exemple : je vois que tu traverses un moment très difficile, il est normal d'être épuisé après tant d'années de sacrifice. Cela permet de briser le cycle de la honte qui nourrit l'accablement et de restaurer un dialogue intérieur bienveillant, essentiel pour envisager un nouveau départ.
+
+Les [travaux de Kristin Neff](https://doi.org/10.1080/15298860309032) proposent un cadre pour la bienveillance envers soi. Dans cet épisode, Thomas peut essayer une parole qui ne transforme pas sa difficulté en faute, sans s’attribuer une cause déjà certaine.
+
+1. Écrire ce qu’il constate : « Je n’arrive pas à finir le portfolio ce matin et cela me pèse. » Il peut le dire à voix basse plutôt qu’écrire si c’est plus accessible.
+2. Retirer l’accusation personnelle et nommer un besoin : « Je ne sais pas d’où vient cette fatigue ; j’ai besoin d’un délai et d’un appui. » Il n’a pas à conclure que des années de sacrifice expliquent tout.
+3. Choisir qui peut l’aider sur ce besoin : l’interlocuteur du portfolio pour l’échéance, Émilie pour un accompagnement consenti, ou un professionnel pour la santé.
+
+La formulation peut servir une demande concrète en évitant une attaque contre soi. Elle ne restaure pas à elle seule l’énergie et n’oblige pas à se sentir mieux après l’exercice.
 
 ## Demander un délai pour le portfolio
 

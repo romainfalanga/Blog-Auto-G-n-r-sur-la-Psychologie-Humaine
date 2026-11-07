@@ -35,47 +35,53 @@ L'une des formes les plus fréquentes d'isolement en amitié est le retrait qui 
 
 Lors d'un repas de quartier, la personne peut accepter l'invitation mais manger à l'écart, sourire poliment, et n'initier aucune discussion intime.
 
+**Deux repères pour Bernard :** il entend les voisins passer mais tarde à ouvrir la porte de l’atelier. Une fois au stand, il peut rester sur le bord tout en souhaitant participer. Rester à l’écart peut aussi lui convenir : il faut distinguer son souhait de ce que les autres voient.
+
 ### 2. Conversion des liens en objets symboliques
 Offrir un meuble ou réparer un objet peut être une manière d’exprimer son affection. Chez Bernard, l’objet est parfois le début d’un échange. La façon de donner un cadeau n’est pas un signe d’aliénation.
 
 Cela peut consister à envoyer régulièrement des colis ou réparer les choses des autres sans jamais évoquer ses émotions ou ses besoins.
+
+**Deux exemples situés :** Bernard prépare la commode d’Éric sans avoir encore proposé le transport. Pour Marcel, il pourrait réparer un outil puis éviter de répondre à sa proposition de café. Le cadeau n’est pas le problème ; la question est l’échange qu’il souhaite et ne propose pas.
 
 ### 3. Peur du jugement et stratégies d'évitement
 L'isolement social s'alimente souvent d'une croyance profonde selon laquelle on ne sera pas compris ou que l'on dérangera. Cette peur conduit à des stratégies d'évitement comme les rires nerveux, le changement de sujet, le silence, ou encore des plaisanteries qui dévient la conversation. Dans l'enfance de Bernard, le silence servait à échapper au jugement parental. Aujourd'hui, il répète ce schéma avec ses amis.
 
 Refuser les invitations en invoquant une occupation matérielle, comme un travail urgent ou une réparation, masque souvent une réticence à dévoiler ses vulnérabilités.
 
+**Deux exemples situés :** il prépare une excuse de finition urgente pour ne pas rejoindre Marcel. À la question « Comment vas-tu ? », il commence par parler du chantier alors qu’il voudrait dire que sa journée est lourde. Rien n’oblige à se confier pour participer à la rencontre.
+
 ## Techniques pour rompre l'isolement social et l'aliénation en amitié
 
 ### 1. Technique du petit pont : invitations progressives et spécifiques
-Le principe est d'éviter d'affronter d'emblée une grande réunion en construisant des ponts sociaux ciblés, durables et prévisibles. Cette approche réduit la charge émotionnelle et transforme l'évitement en expérience contrôlée.
 
-Exercice concret :
-1. Identifier une personne de confiance, par exemple Marcel, et proposer une interaction simple et courte, précise dans le temps. On peut par exemple passer quinze minutes à examiner un outil ou partager un morceau de pain lors de la fête.
-2. Formuler l'invitation de manière factuelle : « Marcel, j'aurai mon établi dehors cet après-midi, si tu veux, on peut parler cinq minutes. »
-3. Après l'interaction, noter brièvement sur un carnet ce qui s'est passé pour construire une trace positive.
+**Objectif :** Proposer à Marcel un échange bref qui convienne aux deux.
 
-Une invitation précise peut rendre l’échange plus facile à envisager. Bernard, qui maîtrise le travail concret, peut utiliser sa manière d'entrer en relation en proposant de montrer une technique de menuiserie comme prétexte social.
+1. Choisir un lieu accessible, comme le bord du stand, et un moment où Bernard peut quitter l’atelier.
+2. Demander à Marcel s’il veut parler quelques minutes, sans utiliser la fête comme une épreuve à réussir.
+3. Après l’échange, noter ce qui a réellement eu lieu, agréable ou difficile, puis décider librement d’une autre rencontre.
+
+Une proposition précise peut rendre la rencontre plus facile à prévoir. Elle ne garantit pas une expérience positive et n’impose pas d’augmenter les contacts.
 
 ### 2. Technique du message matériel avec émotion verbalisée
-L'idée est de combiner l'expression symbolique par un objet avec une phrase courte et sincère qui précise l'intention affective. Cela permet de garder la force de ce que Bernard sait faire, fabriquer, tout en ajoutant un mot qui humanise le geste.
 
-Exercice concret :
-1. Choisir un meuble ou un objet en cours de fabrication destiné à un ami ou à Éric.
-2. Préparer une carte ou un court message de une à deux phrases : « J'ai fait ce meuble pour toi. Je voulais que tu saches que je pense à toi. »
-3. Joindre le message à l'objet et le remettre en main propre ou par l'intermédiaire d'un voisin si l'affronter directement est trop difficile.
+**Objectif :** Ajouter une intention lisible à la remise de la commode.
 
-L'objet devient une porte d'entrée symbolique et la phrase courte brise le silence sans demander une longue conversation. Bernard a déjà offert des meubles, cette technique transforme chaque don en une tentative de communication verbale minimale.
+1. Choisir une phrase qui correspond à ce que Bernard souhaite dire à Éric : « Je voulais que tu aies ça ».
+2. L’écrire sur l’étiquette et organiser avec Éric une remise compatible avec leurs disponibilités et l’aide nécessaire au transport.
+3. Au moment de la remise, dire ou laisser lire la phrase, puis accueillir la réponse sans demander une confidence en retour.
+
+La carte peut préciser le sens du geste. Elle ne fait pas du cadeau une dette affective ni du transport une obligation pour le destinataire.
 
 ### 3. Technique d'entraînement aux petites vulnérabilités
-Il s'agit de pratiquer des micro-expressions émotionnelles pour augmenter la tolérance à l'expression. Le but n'est pas de raconter toute son histoire, mais d'oser des indices de ressenti dans des contextes sûrs.
 
-Exercice concret :
-1. Choisir un moment calme chez soi, devant son programme radio préféré, et s'entraîner à dire une phrase simple liée à l'émotion : « Ce chantier m'a rendu heureux aujourd'hui » ou « J'ai eu une journée lourde. »
-2. Miser sur des formats courts et répétables, par exemple trois phrases de trente secondes sur trois jours différents.
-3. Tester ces phrases d'abord avec le chien, puis avec Marcel, puis avec Éric, en augmentant progressivement la portée.
+**Objectif :** Préparer une parole personnelle qu’il garde le droit de partager ou non.
 
-Bernard peut choisir ce qu’il a envie de partager et quand, sans fréquence imposée. Après avoir déjà accepté sa tristesse lors d'un épisode récent dans son atelier, où il avait laissé couler ses larmes devant Sultan sans chercher à les transformer en travail productif, Bernard peut étendre cette capacité à des paroles brèves dirigées vers un ami.
+1. Choisir une seule observation actuelle, par exemple « J’ai eu une journée lourde », sans revisiter toute son histoire.
+2. Vérifier à qui il souhaite la dire et si le moment lui convient ; il peut la garder pour lui.
+3. S’il la partage avec Marcel, préciser s’il souhaite parler davantage ou simplement être en sa compagnie.
+
+Cette préparation peut faciliter une parole choisie. Aucun passage obligatoire du chien au voisin puis au fils, ni fréquence, n’est nécessaire.
 
 ## Un café après la livraison
 

@@ -41,6 +41,11 @@ Il peut éprouver de la tristesse même si Oumar continue son activité et reste
 
 Inversement, la transformation de l’atelier ne supprime pas tous ses repères. Awa, sa mère et d’autres espaces existent toujours dans sa vie. Les rappeler n’a pas pour but de réduire la peine, mais de garder la perte à sa taille réelle. Un endroit important change ; tout le monde familier ne disparaît pas avec lui.
 
+Exemples concrets
+
+- Malik reconnaît le banc du souvenir mais ne sait pas s’il pourra encore visiter l’atelier.
+- Une rencontre chaleureuse avec Oumar ailleurs pourrait coexister avec le manque de l’ancienne cour.
+
 ### Les nouvelles partielles entretiennent une surveillance
 
 Une photo de travaux arrive, puis aucune information pendant plusieurs jours. Malik cherche alors d’autres images et relit les messages de la famille. Chaque détail semble pouvoir annoncer l’issue. Il espère trouver un signe que l’atelier reviendra ou une preuve qui lui permettrait enfin de cesser d’attendre.
@@ -49,11 +54,21 @@ Cette recherche devient vite coûteuse, car les personnes sur place ne connaisse
 
 Malik peut chercher un repère d’information sans exiger une surveillance permanente. Il peut demander à être prévenu lorsqu’une nouvelle étape fiable apparaît, plutôt que de faire commenter chaque image. Ce choix ne retire pas l’importance du lieu. Il limite l’effort répété pour résoudre une incertitude qui dépend d’autres conditions.
 
+Exemples concrets
+
+- Malik agrandit une photo de panneaux pour chercher une preuve de retour.
+- Awa peut décrire l’état visible lors d’un passage sans connaître la décision future.
+
 ### Un changement de lieu semble menacer la continuité personnelle
 
 L’atelier lui rappelle des discussions, des objets réparés et une manière d’observer les gestes. Malik retrouve quelque chose de ces intérêts dans son métier et ses photos. Il craint que la disparition du décor rende ces liens moins accessibles. L’inquiétude porte donc aussi sur la possibilité de raconter une part de son histoire.
 
 Une continuité ne demande pourtant pas que le lieu reste intact. Des souvenirs, des relations et certaines pratiques peuvent se poursuivre ailleurs. Ce constat ne rend pas la transformation indifférente. Il ouvre seulement plusieurs supports possibles, au lieu de demander à un seul espace de conserver toute une histoire personnelle.
+
+Exemples concrets
+
+- La transformation du décor fait craindre à Malik de moins bien raconter les gestes appris avec son oncle.
+- La photo du banc reste un support possible sans garantir que l’endroit reprendra sa fonction.
 
 ## Garder le souvenir et laisser une place à l’incertitude
 
@@ -65,6 +80,12 @@ Ajoutez ce que chacun peut réellement savoir. Une personne peut décrire l’é
 
 Si l’incertitude reste entière, une phrase à deux dimensions peut convenir : le lieu est déjà changé et une partie de son avenir demeure inconnue. Tenir ces deux informations ne consiste pas à renoncer à comprendre. Cela permet de ne pas suspendre toute sa vie jusqu’à l’arrivée d’une réponse que personne ne peut encore fournir.
 
+Exercice pratique
+
+- Notez travaux, matériel conservé et activité actuelle d’Oumar comme faits confirmés.
+- Gardez séparées la rumeur de fermeture et la possibilité de retour encore ouverte.
+- Adressez une question à la personne qui peut savoir sans demander à Awa une certitude qu’elle n’a pas.
+
 ### 2. Garder un lien choisi sans fabriquer un adieu obligatoire
 
 Choisissez une manière de conserver ce qui compte déjà : une photo, le récit d’une scène ou une conversation avec la personne liée au lieu. Malik demande à Oumar s’il souhaite raconter un objet de l’atelier. Son oncle peut accepter, préférer parler de son installation actuelle ou ne pas être disponible pour cette évocation.
@@ -73,6 +94,12 @@ Il ne s’agit pas de recueillir tous les souvenirs avant une fermeture certaine
 
 Laissez également les autres entretenir un lien différent au même endroit. Oumar peut être davantage préoccupé par les conditions de son travail présent que par l’ancienne cour. Cette différence ne retire rien au souvenir de Malik et ne lui donne pas la priorité sur les besoins de son oncle. Plusieurs expériences du changement peuvent coexister.
 
+Exercice pratique
+
+- Choisissez un souvenir ou une image que vous souhaitez conserver.
+- Demandez à Oumar s’il veut évoquer un objet ou préfère raconter son installation présente.
+- Gardez cette trace sans en faire un adieu obligatoire ni une collecte exhaustive.
+
 ### 3. Limiter la recherche de certitude et garder un projet présent
 
 Définissez quelle information utile vous souhaitez recevoir et comment elle peut arriver. Malik demande à Oumar de le prévenir s’il connaît une décision concernant le retour. Il retire à Awa la mission implicite de vérifier les panneaux lors de chaque passage. Les proches ne deviennent pas des gardiens permanents du lieu pour lui.
@@ -80,6 +107,12 @@ Définissez quelle information utile vous souhaitez recevoir et comment elle peu
 Choisissez ensuite une activité actuelle qui ne dépend pas de cette réponse. Il peut préparer ses tirages, voir un ami ou discuter d’un autre sujet avec Awa. Cette activité n’est pas un exercice destiné à oublier. Elle permet de continuer une vie présente alors qu’une question importante reste ouverte dans un autre espace.
 
 Si le projet concerne un futur séjour, évitez de fonder tout le programme sur une issue inconnue. Malik peut souhaiter revoir la cour et prévoir aussi des rencontres ailleurs. Les décisions pratiques devront suivre les informations disponibles au moment concerné. Le but n’est pas de garantir l’absence de déception, mais de laisser plusieurs possibilités à la visite.
+
+Exercice pratique
+
+- Demandez à Oumar de vous prévenir d’une décision fiable concernant le retour.
+- Dites à Awa qu’elle n’a pas à vérifier les panneaux à chacun de ses passages.
+- Préparez vos tirages ou un autre projet présent en gardant l’avenir de la cour ouvert.
 
 ## Malik garde une place au lieu sans attendre devant lui
 

@@ -35,35 +35,77 @@ Bluma Zeigarnik a publié ses expériences en 1927. En 2025, Ghibellini et Meier
 
 Au travail, les interruptions, les échéances et les responsabilités peuvent toutes expliquer qu'un dossier revienne à l'esprit. Les exemples suivants illustrent ce que Nadia remarque dans son quotidien.
 
-- Interruption dans la gestion d’un projet : Vous commencez à préparer un rapport ou une présentation pour votre équipe et vous êtes interrompu par un appel ou une réunion urgente. Vous avez du mal à vous concentrer après, car la tâche inachevée occupe votre esprit.
+### Retrouver le fil après une interruption
 
-- Emails non répondus : Plusieurs messages restent à traiter. Nadia se demande lesquels requièrent une réponse avant ce soir, même en ouvrant un autre dossier.
+Nadia quitte une tâche, répond à quelqu’un et revient à l’écran sans retrouver immédiatement ce qu’elle examinait. Cela décrit une difficulté dans la reprise de son travail. La scène ne compare pas son rappel de tâches terminées et interrompues et ne permet donc pas de conclure à un effet Zeigarnik.
 
-- Feedbacks en suspens : Vous avez promis à un collaborateur un retour sur son travail, mais vous n’avez pas encore trouvé le temps. Cette responsabilité non réglée vous hante, et vous empêche d’être pleinement disponible pour d'autres tâches.
+Exemples concrets :
+* Après avoir tendu les dossiers à sa collègue, Nadia rouvre la première pièce jointe : elle ne sait plus laquelle elle venait d’écarter.
+* Si un appel l’interrompait pendant la comparaison des séries du tableau, elle pourrait retrouver les documents ouverts sans se rappeler la question précise qu’elle était en train de vérifier.
 
-Nadia s’inquiète de la qualité du résultat, ce qui lui donne une autre raison de repenser au dossier. Ni cette inquiétude ni les pensées répétitives ne suffisent à identifier un effet sur la mémoire.
+### Garder en tête une réponse encore due
+
+Un dossier peut revenir parce qu’une échéance ou une réponse attendue compte pour la personne. L’enjeu pratique est alors de savoir ce qui doit être fait et quand. La présence de cette pensée ne renseigne pas, à elle seule, sur un avantage de mémoire lié à l’interruption.
+
+Exemples concrets :
+* En relisant le message de Julie, Nadia doit encore établir quelle série utiliser. Ce point ouvert concerne le contenu du diaporama.
+* Si elle avait promis un retour à une collaboratrice pour le lendemain, elle pourrait y repenser au moment de partir et avoir besoin de vérifier le délai, même après une journée sans interruption.
+
+### Chaque retouche aperçue devient une nouvelle priorité
+
+Nadia s’inquiète de la qualité du résultat. Lorsqu’elle voit un autre détail à corriger, elle s’y attarde avant d’avoir terminé sa vérification. Cette exigence donne une autre raison de revenir au document. Il reste utile de distinguer les corrections nécessaires, les préférences de présentation et le temps disponible.
+
+Exemples concrets :
+* Avant de retrouver le chiffre, Nadia raccourcit le titre de la diapositive suivante et change son alignement.
+* Une fois la légende écrite, elle a envie d’ouvrir la page suivante alors que le trajet pour retrouver Yasmine ne peut plus être repoussé de la même façon.
+
+Ni cette inquiétude ni les pensées répétitives ne suffisent à identifier un effet sur la mémoire.
 
 ## 3 techniques pour reprendre le contrôle avec l’effet Zeigarnik en tant que manager
 
 Voici des façons d'organiser le travail ou de faire une pause, à adapter aux contraintes du poste.
 
-1. Écrire et prioriser les tâches
-   Notez toutes les tâches inachevées sur une liste visible. Pour un dossier qui revient sans cesse, ajoutez une prochaine étape et un moment réaliste pour la reprendre. Dans certaines expériences, prévoir une étape précise pour un but inachevé a réduit les pensées liées à ce but. Ensuite, classez-les par ordre de priorité. Cela vous permet d’aborder chaque chose à son moment sans être submergée.
+### 1. Écrire une prochaine étape et la prioriser
 
-2. Utiliser la technique Pomodoro
-   Travaillez par intervalles de 25 minutes dédiés à une seule tâche, suivis de courtes pauses. Cela vous aide à avancer progressivement même sur des projets longs, en évitant la paralysie due à la peur de ne pas faire assez. Vingt-cinq minutes est un repère d'organisation ; vous pouvez choisir une durée adaptée au travail.
+Objectif : garder un point de reprise sans devoir terminer chaque dossier avant de partir.
 
-3. S’accorder des pauses mentales conscientes
-   Lorsque vous êtes interrompu ou que vous ne pouvez pas finir une tâche, pratiquez la pleine conscience pour revenir au moment présent sans culpabilité. Par exemple, fermez les yeux, observez votre respiration, et acceptez que la tâche attendra. Si cela ne vous convient pas, notez seulement à quel endroit reprendre, puis faites votre pause habituelle.
+Exercice pratique :
+* Listez brièvement les tâches encore ouvertes et vérifiez lesquelles demandent réellement une réponse avant votre départ. Si les priorités dépassent le temps disponible, demandez un arbitrage.
+* Pour le dossier qui revient à l’esprit, notez une action précise. Nadia peut écrire : « Vérifier avec Julie d’où vient la série de mars. »
+* Choisissez un moment réaliste pour reprendre cette action et conservez la note à un endroit accessible. Si une échéance doit bouger, prévenez la personne concernée.
 
-### Ce que l’exemple de Nadia permet de distinguer
+Utilité possible : la note indique quoi faire au retour. Dans certaines expériences, prévoir une étape précise pour un but inachevé a réduit les pensées liées à ce but. Cela ne garantit pas qu’un dossier cessera d’occuper l’esprit de Nadia.
 
-L’effet Zeigarnik est un résultat de recherche sur le rappel, aux résultats variables. Dans le quotidien de Nadia, noter la prochaine étape est une façon de retrouver le fil au retour d'une interruption.
+### 2. Délimiter un temps pour une seule tâche
 
-Si les pensées liées au travail deviennent envahissantes ou nuisent durablement au repos, vous pouvez en parler à un professionnel de santé.
+Objectif : travailler sur une partie définie du dossier plutôt que passer sans fin d’une correction à l’autre.
+
+Exercice pratique :
+* Choisissez un résultat limité : retrouver le chiffre pour la légende, par exemple. Vérifiez que vous disposez d’un créneau compatible avec les obligations du poste.
+* Fixez une durée adaptée et gardez cette seule tâche pendant ce créneau lorsque c’est possible. Les vingt-cinq minutes de la méthode Pomodoro sont un repère d’organisation, pas une durée obligatoire.
+* À la fin, notez ce qui est fait et ce qui reste. Prenez la pause prévue ou passez à la priorité suivante, sans ajouter automatiquement toutes les retouches aperçues en chemin.
+
+Utilité possible : la limite rend visible le passage d’une action à une autre. Pour Nadia, finir la légende n’oblige pas à raccourcir aussitôt le titre de chaque diapositive. Une interruption urgente peut modifier ce programme.
+
+### 3. Préparer une pause sans exiger le calme
+
+Objectif : quitter momentanément le dossier en gardant une indication de reprise.
+
+Exercice pratique :
+* Vérifiez que le moment permet une pause et que les transmissions nécessaires sont faites. Nadia peut conserver sa question pour Julie avant de fermer l’ordinateur.
+* Si cela vous convient, regardez autour de vous ou remarquez quelques respirations ordinaires. Vous pouvez aussi faire simplement votre pause habituelle ; il n’est pas nécessaire de fermer les yeux ou de surveiller votre état intérieur.
+* Si une pensée sur le dossier revient, rappelez-vous où se trouve votre note, puis revenez à l’activité du moment. Si une information exige réellement une action, réévaluez-la selon les contraintes du travail.
+
+Utilité possible : la pause peut avoir lieu alors que les pensées persistent. Dans le trajet de Nadia, se souvenir de la question écrite est un repère pratique, sans établir un effet particulier sur la mémoire.
 
 ## Une question pour Julie
 
 Nadia retrouve le chiffre et écrit la légende. La diapositive suivante lui paraît tout de suite plus urgente. Elle pose le doigt sur la touche pour l’ouvrir, puis note sur un papier : « Demain : vérifier avec Julie d’où vient la série de mars. »
 
 Elle entend la notification de Julie en fermant l’ordinateur. Sur le trajet pour aller chercher Yasmine, elle pense encore au diaporama à deux reprises. La deuxième fois, elle se rappelle la question qu’elle a laissée sur le papier et descend à son arrêt.
+
+---
+
+L’effet Zeigarnik est un résultat de recherche sur le rappel, aux résultats variables. Pour Nadia, noter la question à poser à Julie donne un point de reprise au dossier. Elle y pense encore dans le trajet : ce repère lui permet de partir retrouver Yasmine sans avoir terminé toutes les diapositives.
+
+Si les pensées liées au travail deviennent envahissantes ou nuisent durablement au repos, vous pouvez en parler à un professionnel de santé.

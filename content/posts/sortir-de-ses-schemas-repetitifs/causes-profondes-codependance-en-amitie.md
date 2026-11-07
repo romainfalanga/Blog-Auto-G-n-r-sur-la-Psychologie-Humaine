@@ -33,13 +33,25 @@ La codépendance en amitié est souvent plus subtile que dans les relations amou
 
 La manifestation la plus flagrante est l'incapacité à dire non, même lorsque cela nuit gravement à son propre équilibre. Léa, en rédigeant le dossier de Zoé au détriment de ses propres révisions, illustre parfaitement ce point. On observe alors une annulation de soi : le codépendant met de côté ses examens, son sommeil ou ses autres rendez-vous pour être disponible à la moindre sollicitation de l'autre. Cette disponibilité n'est pas choisie librement, elle est vécue comme une obligation morale dont le non-respect déclencherait une culpabilité insupportable.
 
+Exemples situés :
+- À deux heures du matin, Léa travaille encore sur les références de Zoé pendant que ses propres notes restent sous l’ordinateur.
+- La relecture de deux pages s’est étendue à la mise en page, sans qu’elle ait repris avec son amie la limite initiale du service.
+
 ### 2. L'hyper-responsabilisation face aux émotions de l'autre
 
 Quand Zoé s’interrompt, Léa cherche déjà ce qu’elle pourrait dire pour la faire aller mieux. Elle a connu ce réflexe dans d’autres conversations, où elle avait pris un silence pour une réponse. Cette fois, elle demande à Zoé si elle souhaite continuer à en parler ou passer à autre chose.
 
+Exemples situés :
+- Avant d’annoncer qu’elle arrête le dossier, Léa peut vouloir trouver les mots qui garantiraient que Zoé ne soit pas déçue.
+- Si Zoé s’interrompt en parlant d’une difficulté, Léa peut se mettre à proposer des solutions avant de lui demander si elle souhaite une aide.
+
 ### 3. Vérifier l’aide que l’autre demande
 
 Léa se demande si Zoé voulait seulement un regard sur sa bibliographie. Elle craint que l’amitié change si elle s’arrête, mais on ne peut pas en conclure qu’elle cherche à rendre Zoé dépendante d’elle.
+
+Exemples situés :
+- Devant la bibliographie, Léa peut constater qu’elle ne sait plus quelle tâche Zoé avait réellement demandé de relire.
+- Quand Zoé demande ensuite l’ordinateur, Léa peut distinguer cette nouvelle demande de la relecture déjà faite et choisir de garder son matériel pour ses révisions.
 
 ## Techniques pour poser des limites face à la codépendance
 
@@ -49,13 +61,34 @@ Sortir de ce schéma demande un effort conscient pour rétablir une frontière e
 
 L'une des plus grandes difficultés de la codépendance en amitié est la réponse impulsive au besoin de l'autre. Pour contrer cela, il est possible de prendre un délai de réflexion pour une demande qui n’est pas urgente avant d'accepter de rendre un service ou d'apporter une aide. L'exercice consiste à dire que l'on regarde son emploi du temps avant de répondre. Ce laps de temps permet de sortir de la réaction émotionnelle immédiate et de se demander honnêtement si l'on a l'énergie, le temps et l'envie réelle d'aider. C'est un moyen de reprendre le pouvoir sur son propre espace mental et temporel.
 
+Une mise en pratique possible :
+1. Pour une prochaine demande de dossier non urgente, dites à Zoé quand vous pourrez lui répondre après avoir regardé votre travail.
+2. Vérifiez votre temps, votre fatigue et le service exact demandé, au lieu de supposer qu’il faut tout reprendre.
+3. Revenez avec une réponse bornée : deux pages, un autre moment ou un refus, sans promesse de compenser par une nuit de travail.
+
+Utilité possible : la réponse correspond à une disponibilité vérifiée et laisse à Zoé la responsabilité de terminer son dossier.
+
 ### 2. Le journal de la responsabilité émotionnelle
 
 Cet exercice consiste à noter sur une feuille, lors d'une interaction tendue, ce qui appartient à soi et ce qui appartient à l'ami. On trace deux colonnes. Dans la première, on inscrit ses propres émotions, par exemple la fatigue ou la peur de décevoir. Dans la seconde, on inscrit les faits concernant l'autre, comme son retard ou son stress. L'objectif est de visualiser que le stress de l'autre est son propre fardeau et que l'on ne peut pas le porter à sa place. Vous pouvez choisir ce que vous avez le temps et l’énergie de proposer.
 
+Pour rester sur cette scène :
+1. Notez votre état et votre besoin : fatigue, crainte de décevoir, examen à réviser.
+2. Dans l’autre colonne, écrivez la demande connue de Zoé et les questions dont vous ne connaissez pas la réponse, sans décider de son émotion pour elle.
+3. Choisissez ce que vous proposez réellement, puis arrêtez la note et rendez le fichier à son autrice.
+
+Utilité possible : les colonnes distinguent une aide choisie de la tentative de garantir ce que l’autre ressentira.
+
 ### 3. La pratique de l'affirmation des besoins primaires
 
 Il s'agit de s'entraîner à exprimer un besoin personnel simple avant de s'occuper de celui de l'autre. Pour une demande ordinaire, avant d’accepter d’aider, l'exercice demande de verbaliser une limite physique ou temporelle. Par exemple, préciser que l'on souhaite manger d'abord, ou que l'aide sera limitée à trente minutes avant d'aller dormir. Commencer par de petites affirmations permet de muscler sa capacité à exister à côté de l'autre, et non plus seulement à travers lui.
+
+Un essai en trois actions :
+1. Nommez le besoin qui ne peut plus être repoussé, comme dormir avant votre propre examen.
+2. Dites à Zoé ce que vous avez terminé et la limite actuelle : la mise en page reste à sa charge.
+3. Transmettez le fichier si nécessaire et mettez fin au travail convenu, sans ajouter aussitôt une nouvelle offre qui annule la limite.
+
+Utilité possible : la phrase s’accompagne d’un geste réel ; elle n’exige ni accord immédiat de Zoé ni disparition de la culpabilité.
 
 ## À Zoé de terminer
 

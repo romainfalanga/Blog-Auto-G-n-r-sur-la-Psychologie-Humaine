@@ -24,6 +24,8 @@ jobs:
       - run: python scripts/clinical_editorial.py check
       - run: python scripts/check_editorial_pack.py
       - run: python scripts/integrate_editorial_pack.py --check
+      - run: python scripts/check_original_article_structure.py --audit editorial/reviews/originaux-v24.json --require-reviewed
+      - run: python scripts/build_coverage_status.py --check
       - run: node --test tests/*.test.cjs
       - run: npm --prefix journal test
       - run: python -m unittest discover -s journal/tests -p 'test_personal*.py'

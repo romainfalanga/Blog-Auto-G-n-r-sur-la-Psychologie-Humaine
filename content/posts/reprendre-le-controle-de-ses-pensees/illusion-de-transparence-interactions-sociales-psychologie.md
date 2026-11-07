@@ -35,13 +35,25 @@ L'illusion de transparence en société et dans les interactions sociales agit c
 
 Lorsqu'une personne timide ou perfectionniste comme Nadia prend la parole, elle ressent souvent une déconnexion totale entre son expérience interne et son apparence externe. Elle peut avoir l'impression que sa voix chevrote de manière catastrophique alors que pour l'auditoire, elle semble simplement poser sa voix. Cette manifestation de l'illusion de transparence pousse souvent l'individu à s'autocensurer ou à écourter son intervention de peur que son stress ne devienne embarrassant pour les autres. Nadia se rappelle comment, quelques semaines plus tôt, elle avait failli refuser une opportunité de direction générale par peur de ne pas paraître assez solide ; elle réalise aujourd'hui que cette peur était nourrie par l'idée fausse que ses doutes étaient lisibles par tous.
 
+Exemples situés :
+- Entre les pages cinq et six, Nadia croit que ses secondes d’hésitation renseignent toute la salle sur son trac.
+- En voyant Mathieu immobiliser son stylo, elle peut imaginer qu’il a compris son malaise alors qu’elle ignore encore pourquoi il a cessé d’écrire.
+
 ### 2. La certitude que notre malaise est contagieux
 
 Dans une soirée ou un événement de réseautage, il arrive que l'on se sente mal à l'aise ou hors de sa place. L'illusion de transparence nous persuade alors que tout le monde dans la pièce a remarqué notre gêne. On s'imagine que notre posture un peu rigide ou notre silence sont interprétés comme de l'arrogance ou de l'incompétence sociale. Certains n'ont peut-être rien remarqué ; d'autres ont pu voir une hésitation sans en conclure la même chose.
 
+Exemples situés :
+- Pendant la réunion, Nadia peut penser que son inconfort rend toute la salle mal à l’aise sans avoir recueilli ce point de vue.
+- Dans un échange après la présentation, elle peut interpréter un silence comme la gêne de son interlocuteur à propos de son trac, alors qu’il cherche peut-être une date.
+
 ### 3. L'attente tacite que les proches devinent nos besoins
 
 Ce biais ne se limite pas aux inconnus. Dans le couple ou avec les amis, nous tombons souvent dans le piège de croire que nos émotions sont si évidentes que l'autre devrait les comprendre sans que nous ayons besoin de parler. Nadia a souvent reproché à Antoine de ne pas voir qu'elle était à bout de forces après une journée de travail, simplement parce qu'elle ressentait son épuisement de manière cuisante. Elle oubliait alors que pour Antoine, elle renvoyait simplement l'image d'une femme efficace qui gère ses dossiers sur son ordinateur portable, une image qu'elle s'efforce de maintenir depuis son enfance pour satisfaire les standards de sa mère.
+
+Exemples situés :
+- Après la réunion, Nadia peut souhaiter du repos chez Antoine et s’étonner qu’il ne le propose pas de lui-même.
+- Au bureau, elle peut espérer que Julie voie sa fatigue plutôt que demander un délai précis pour la vérification du calendrier.
 
 ## Techniques pour agir face à l'illusion de transparence
 
@@ -51,13 +63,40 @@ Pour ne plus se laisser paralyser par ce phénomène, il est utile de rééduque
 
 Si vous avez besoin d'un retour sur votre présentation, posez à une personne de confiance une question concrète : « Mon débit t'a-t-il gêné pour suivre ? » Sa réponse renseigne sur ce qu'elle a perçu, sans mesurer votre stress ni représenter tous les auditeurs. Si demander encore et encore vous sert surtout à vous rassurer, vous pouvez vous arrêter à un seul retour ou vous en passer.
 
+Objectif : obtenir une information sur un point de présentation, sans mesurer le trac.
+
+Exercice pratique :
+1. Choisissez un point qui aiderait votre travail, comme la lisibilité de la dernière date.
+2. Demandez un retour ponctuel à Mathieu et écoutez l’exemple qu’il donne.
+3. Ajustez ce point si utile, puis laissez la réponse limitée à ce qu’il a perçu sans consulter toute la salle pour vous rassurer.
+
+Utilité possible : Nadia peut améliorer une page avec un retour situé, sans garantie sur l’image générale qu’elle a donnée.
+
 ### 2. Le basculement de l'attention vers l'extérieur
 
 Si vous remarquez que vous surveillez vos battements de cœur au point de perdre le fil, essayez de ramener votre attention sur la phrase suivante, le graphique ou la question de votre interlocuteur. C'est un repère pour la tâche en cours, sans obligation de faire disparaître le trac.
 
+Objectif : retrouver le fil de la présentation tout en pouvant garder du trac.
+
+Exercice pratique :
+1. Repérez que vous surveillez votre apparence ou votre voix au lieu du contenu.
+2. Choisissez un repère de tâche, comme le prochain intitulé du calendrier ou la question posée.
+3. Revenez à la phrase utile ou demandez de répéter si le fil manque encore.
+
+Utilité possible : l’action porte sur ce que Nadia veut communiquer ; elle n’a pas à vérifier si l’auditoire a remarqué son état.
+
 ### 3. La mise en mot explicite des émotions
 
 Avec une personne de confiance, dire ce qu'on ressent ou ce qu'on demande peut éviter un malentendu. Nadia peut dire à Antoine qu'elle a besoin de repos, sans attendre qu'il le devine. Au travail ou dans une situation peu sûre, chacun choisit ce qu'il souhaite partager.
+
+Objectif : rendre un besoin compréhensible dans un cadre choisi.
+
+Exercice pratique :
+1. Choisissez la personne et le contexte où vous souhaitez partager ce besoin, par exemple Antoine à la maison.
+2. Dites la demande concrète : vous reposer maintenant et reparler du travail demain.
+3. Écoutez ce qui est possible et précisez votre limite sans justifier toute votre fatigue.
+
+Utilité possible : l’autre reçoit des mots plutôt qu’une attente de lecture de pensée ; Nadia reste libre de garder son ressenti privé au travail.
 
 ## Ce que Mathieu a relevé
 

@@ -20,41 +20,70 @@ Karim pose un paquet sur la table de la cuisine. Lina continue son dessin. Elle 
 Une chaleur désagréable grimpe le long de sa nuque, une sensation qu'il connaît bien mais qu'il a longtemps étouffée sous l'adrénaline des affaires. Il repense à son père, l'épicier qui ne comptait jamais ses heures pour offrir un avenir à ses enfants, et il réalise que l'héritage qu'il transmet est peut-être plus toxique qu'il ne le pensait. Ce n'est plus seulement le regret de ne pas avoir vu la première dent de Sami tomber ou la déception de Sofia après son dernier coup d'éclat impulsif. C'est un poids sourd, une certitude d'avoir transgressé une règle invisible de la paternité. Il se sent coupable d'avoir utilisé son ambition comme une excuse pour fuir l'intimité de son foyer, là où il ne maîtrise pas les codes aussi bien que dans une cuisine professionnelle.
 
 ## Définition de la culpabilité parentale
-
 La culpabilité peut apparaître quand on pense avoir agi contre une valeur ou causé du tort. Dans une [étude de June Price Tangney](https://doi.org/10.1177/0146167292182011), les étudiants associaient souvent la culpabilité à une faute précise et la honte au regard porté sur eux. Les mêmes situations pouvaient susciter l'un ou l'autre sentiment. Se sentir coupable ne prouve ni qu'on a causé du tort, ni qu'on doit tout réparer seul.
 
 Karim mesure l'écart entre la place qu'il voulait donner à sa vie de famille et les moments qu'il a manqués. Certaines absences appellent peut-être des excuses ; d'autres tiennent à des contraintes qu'il n'aurait pas pu changer. Le silence de Lina ne lui dit pas comment elle a vécu ces moments. Pour le savoir, il devra lui laisser la possibilité de le lui dire.
 
 ## Manifestations de la culpabilité avec ses enfants
-
 ### Le cadeau qui tient lieu de conversation
-
 Karim espère que la console compensera ses absences. Offrir un cadeau ne signifie pas qu'un parent évite une conversation ; ici, Karim sait qu'il préférerait voir Lina sourire plutôt que lui parler de ces semaines passées au travail.
 
-### Vouloir reprendre toutes les décisions
+Exemples concrets :
+- Dans la cuisine, Karim répète que Lina peut ouvrir la console plutôt que demander ce qu’elle a attendu à la sortie de l’école.
+- Il peut proposer le paquet et constater qu’elle continue son dessin, sans traiter ce silence comme un pardon ou un refus.
 
+### Vouloir reprendre toutes les décisions
 Lorsqu'il est à la maison, Karim se surprend à vérifier chaque détail des devoirs d'Amine et du rangement de Sami. Cela lui donne une tâche précise quand il ne sait pas comment reprendre sa place. Il ne sait pas comment les enfants vivent ces interventions. Il peut leur demander ce qui les aiderait et en discuter avec Sofia.
 
-### Le retrait émotionnel par peur de mal faire
+Exemples concrets :
+- Avec Amine, reprendre chaque détail des devoirs lui donnerait une tâche sans lui apprendre l’aide souhaitée.
+- Avec Sami, contrôler le rangement pourrait remplacer une question sur le moment qu’ils veulent partager.
 
+### Le retrait émotionnel par peur de mal faire
 Karim a failli ne pas entrer dans la cuisine : il redoutait de ne pas savoir quoi dire à Lina. Reporter la discussion lui aurait épargné ce moment gênant, sans lui permettre de savoir ce dont elle avait envie.
 
-## Techniques pour agir face à la culpabilité
+Exemples concrets :
+- Karim hésite à entrer dans la cuisine parce qu’il ne sait pas comment aborder l’absence.
+- Une fois près de Lina, il pourrait repartir au travail avant de savoir si elle souhaite raconter sa journée.
 
+## Techniques pour agir face à la culpabilité
 ### 1. La technique de la réparation narrative
+Objectif : Nommer une promesse manquée sans demander à l’enfant de rassurer.
 
 Lorsqu'une promesse a été manquée, on peut la nommer et présenter ses excuses : « Je t'avais dit que je viendrais au spectacle. Je n'étais pas là et je suis désolé. » L'enfant peut vouloir en parler, ou pas. Les excuses ne lui demandent ni de rassurer son parent ni de passer aussitôt à autre chose. Le parent peut ensuite dire ce qu'il changera et choisir un engagement qu'il pourra tenir.
 
+Exercice pratique :
+- Choisir avec Lina un fait précis que Karim connaît : il n’était pas à la sortie comme annoncé.
+- Présenter ses excuses puis lui laisser le choix de parler ou de poursuivre son dessin.
+- Avant de promettre vendredi, vérifier l’agenda et donner la réponse dans le délai annoncé.
+
+Utilité possible : Une excuse précise peut ouvrir une conversation et un engagement réaliste, sans demander que le cadeau règle l’absence.
+
 ### 2. La micro-présence de qualité
+Objectif : Proposer un temps où la disponibilité est réelle.
 
 Karim peut proposer un moment où il est disponible, sans écran s'il le peut. Il laisse Sami choisir le jeu, ou demande à Amine s'il veut parler du collège. Il n'y a pas de durée qui garantisse un effet : l'idée est de dégager un temps faisable et de le tenir. Ce moment ne dispense pas de reparler d'une absence si l'enfant en a besoin.
 
+Exercice pratique :
+- Repérer avec Sofia un moment où le travail dispose d’un relais.
+- Proposer à Sami un jeu ou à Amine un échange, en leur laissant le choix.
+- Tenir ce moment et prévenir clairement si un empêchement réel impose de le modifier.
+
+Utilité possible : Un temps faisable peut rendre la présence plus concrète ; il n’efface pas les autres conversations nécessaires.
+
 ### 3. La réévaluation des standards parentaux
+Objectif : Séparer l’exigence générale de la promesse qui engage.
 
 Notez une situation qui vous pèse et la règle que vous vous imposez. « Je dois être là à chaque événement » et « J'avais promis d'être là » ne désignent pas la même chose. Demandez-vous ce qui dépendait de vous et ce que vous pouvez ajuster. Le but est de choisir un geste utile plutôt que de rendre un verdict sur votre valeur de parent.
 
-## La console attendra
+Exercice pratique :
+- Noter la situation de la sortie d’école et la règle que Karim s’adresse.
+- Distinguer « être à chaque événement » de la promesse effectivement donnée à Lina.
+- Choisir ce qui peut être ajusté avec Sofia et Romain plutôt qu’un jugement global sur sa valeur de père.
 
+Utilité possible : Le constat peut guider une responsabilité limitée sans ajouter une obligation parentale impossible à tenir.
+
+## La console attendra
 « J’ai acheté ça parce que j’étais en retard. » Karim attend que Lina relève la tête. Elle lui demande s’il pourra venir la chercher vendredi. Il commence par répondre oui, puis sort son agenda pour regarder.
 
 Romain a prévu un rendez-vous fournisseur à la même heure. Karim lui demande de l’appeler plus tard pour voir si quelqu’un d’autre peut y aller. À Lina, il promet de lui donner une réponse avant le lendemain. La console reste dans son emballage pendant qu’ils terminent le dessin.

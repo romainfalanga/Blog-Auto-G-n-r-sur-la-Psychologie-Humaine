@@ -51,6 +51,8 @@ Après une semaine chargée, Éloi n'a pas envie de préparer un repas élaboré
 
 Il ne doit pas non plus attendre d'être parfaitement reposé pour prendre au sérieux ce qui lui pèse. Si certaines tâches restent systématiquement difficiles ou si le rythme est trop soutenu, la question mérite une discussion. Distinguer fatigue, intérêt et conditions n'est pas une façon de reporter indéfiniment son avis. C'est chercher une base plus solide qu'un verdict lancé au moment où il n'a plus de ressources.
 
+À un autre moment, l’odeur de menthe peut lui donner envie de comprendre une différence entre deux préparations, même s’il reste peu attiré par le concours. À l’inverse du repas élaboré qu’il n’a plus l’énergie de faire au foyer, cette curiosité vise un détail précis du travail. Ces deux exemples invitent à examiner le moment et la tâche, sans conclure que le repos restaurera forcément tous ses intérêts.
+
 ## Voir ce qui donne envie de revenir
 
 ### 1. Décrire plusieurs raisons d'agir
@@ -74,6 +76,8 @@ Le test doit rester proportionné à sa disponibilité. Il n'ajoute pas une acti
 Éloi choisit aussi une activité au foyer qui n'a pas à améliorer ses compétences professionnelles. Il rejoint parfois une partie de jeu dans la salle commune ou sort marcher avec Quentin. Ces moments n'ont pas besoin d'être justifiés comme des techniques de productivité. Ils lui permettent d'exister autrement que comme un apprenti évalué. Son intérêt pour le métier peut rester important sans occuper toute sa personne.
 
 Il décide de ne pas s'inscrire au concours pour l'instant et explique simplement qu'il garde ses forces pour la formation actuelle. Il pourra revoir ce choix. Une décision temporaire lui évite de transformer une proposition en engagement définitif ou en renoncement total. Si une pression insiste, il peut en parler à son référent. Le droit à un rythme soutenable ne dépend pas d'une démonstration permanente d'enthousiasme.
+
+Pour rendre cette place concrète, il regarde le planning du foyer, choisit un moment libre sans préparation de concours et prévient Quentin de ce qu’il souhaite partager. Après ce moment, il vérifie seulement si le créneau a pu rester personnel, sans noter un gain de productivité. Il pourra en modifier l’heure ou l’activité ; le loisir n’a pas à devenir un nouveau devoir.
 
 ## L’odeur de menthe revient
 

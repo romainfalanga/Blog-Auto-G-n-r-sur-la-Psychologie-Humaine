@@ -33,13 +33,28 @@ Priya ne crie pas. Elle coupe le micro et lâche une remarque qu’Antoine n’e
 
 Cette manifestation consiste à réduire l'interlocuteur à ses lacunes supposées. Priya, par exemple, balaie les arguments d'Antoine en se focalisant uniquement sur son manque d'expérience de terrain. On observe alors une focalisation sélective : le sujet ignore les points valides de l'autorité pour ne retenir que les erreurs de forme ou les imprécisions. Cela crée une bulle de supériorité où l'autorité est perçue comme un obstacle absurde plutôt que comme une fonction nécessaire. Ce mécanisme rappelle la froideur avec laquelle elle a mis une semaine à rappeler Julie après son message concernant Damien.
 
+Deux exemples dans cet épisode :
+
+- Priya pense qu’Antoine devrait venir un mardi au cabinet avant d’examiner quelle information manque encore.
+- Elle tape « personne n’a prévu ce cas » alors que deux médecins viennent justement de poser la question sur le chat.
+
 ### 2. Le désengagement ironique et le cynisme
 
 Le mépris se traduit souvent par un retrait émotionnel teinté d'ironie. Cela peut passer par des soupirs inaudibles, des regards levés au ciel ou des échanges de messages moqueurs avec des collègues pendant une réunion. En traitant les directives de l'autorité comme une farce, le sujet s'extrait de la hiérarchie. On ne subit plus la règle, on l'observe avec un détachement moqueur, ce qui permet de préserver son ego de toute sensation de soumission. L'ironie permet à Priya de dire son désaccord à une collègue sans avoir à l'exprimer pendant la réunion. Elle ne dit rien, à elle seule, de la façon dont Priya vit ses liens intimes.
 
-### 3. Le sabotage par l'excellence isolée
+Deux exemples dans cet épisode :
 
-Parfois, le mépris pousse à un surinvestissement paradoxal. Pour prouver que l'autorité est inutile, le sujet devient irréprochable dans sa technique tout en refusant toute collaboration. Priya utilise son perfectionnisme médical comme une preuve de sa supériorité sur le système administratif. C'est une manière de dire que l'on est au-dessus des lois communes car on est plus performant que ceux qui les édictent. C'est une manifestation de mépris face à l'autorité qui nourrit l'isolement professionnel et le surmenage, un schéma qu'elle a déjà identifié lors de ses gardes hospitalières nocturnes.
+- Elle coupe le micro pour lâcher sa remarque plutôt que demander la marche à suivre pour les dossiers ouverts.
+- Elle peut ironiser sur la page de connexion et laisser passer le moment où elle voudrait obtenir une réponse technique.
+
+### 3. Écarter une discussion de collaboration
+
+Dans l’épisode, Priya trouve déplacée la question de Marc sur le partage des décisions. Si elle réduit sa demande à une prétention illégitime, elle risque de fermer l’échange avant de connaître ce qu’il veut proposer. Cela ne prouve ni un sabotage ni un désir d’être au-dessus des règles : elle peut examiner la question et rester libre de ne pas s’associer.
+
+Deux exemples dans cet épisode :
+
+- Le dossier de Marc reste sous sa feuille parce qu’elle a trouvé sa question sur les décisions à deux déplacée.
+- Elle pourrait préparer seule les horaires pour éviter la discussion que Marc demande, alors qu’un projet d’association suppose de clarifier ce point.
 
 ## Techniques pour agir face au mépris
 
@@ -47,15 +62,39 @@ Priya peut chercher la réponse technique dont elle a besoin même si elle reste
 
 ### 1. Revenir à la question de travail
 
-L'objectif est de dissocier l'individu de la fonction qu'il occupe pour neutraliser le jugement de valeur personnel. Au lieu de voir Antoine comme un administratif incompétent, Priya peut s'exercer à le voir comme un simple vecteur d'information dont elle a besoin pour la gestion de son cabinet. L'exercice consiste, lors d'une interaction tendue, à l'écrire sur un carnet : quelle est l'information utile transmise, indépendamment de la personne qui la transmet ? En se concentrant sur le contenu plutôt que sur l'émetteur, on abaisse le besoin de dévaluer l'autre pour se protéger.
+L’objectif est de retrouver la question professionnelle sans devoir neutraliser tout jugement ou toute émotion. Au lieu de voir Antoine comme un administratif incompétent, Priya peut s'exercer à le voir comme un simple vecteur d'information dont elle a besoin pour la gestion de son cabinet. L'exercice consiste, lors d'une interaction tendue, à l'écrire sur un carnet : quelle est l'information utile transmise, indépendamment de la personne qui la transmet ? Le contenu de la demande devient plus précis sans garantir un changement du regard porté sur l’interlocuteur.
 
-### 2. L'identification de la peur sous-jacente
+Objectif de cet essai : Obtenir la précision technique sans juger toute la personne.
+
+1. Nommez le point de travail non résolu, ici les dossiers commencés.
+2. Séparez cette question du jugement que vous portez sur Antoine.
+3. Formulez la demande ou gardez-la en attente si le cadre ne permet pas de la poser ; les procédures restent à confirmer.
+
+Utilité possible : La question donne une chance d’obtenir l’information sans exiger que l’agacement disparaisse.
+
+### 2. Distinguer le contenu, le ton et ce que l’échange rappelle
 
 Priya peut se demander ce qui l’agace : un ton condescendant, le contenu de la règle ou le souvenir d’avoir été contrôlée. Plusieurs éléments peuvent se mêler. Un problème réel dans l’échange reste possible même si celui-ci lui rappelle Damien.
+
+Objectif de cet essai : Examiner ce qui agace sans présumer une peur cachée.
+
+1. Reprenez un détail de la réunion qui vous a agacée.
+2. Distinguez le contenu manquant, le ton reçu et les souvenirs éventuellement associés, sans devoir trouver une peur sous-jacente.
+3. Choisissez ce qui appelle une précision, un retour sur le cadre ou un appui indépendant.
+
+Utilité possible : L’examen garde la place d’un problème réel au lieu de tout attribuer à une défense personnelle.
 
 ### 3. Reprendre un échange précis
 
 Priya remarque la fatigue d’Antoine et reprend la discussion par une question concrète. Cela ne l’oblige pas à excuser un manque de respect ni à renoncer à contester une directive.
+
+Objectif de cet essai : Reprendre un échange limité en gardant son désaccord.
+
+1. Choisissez une conversation précise à reprendre, avec Antoine sur le logiciel ou avec Marc sur les décisions.
+2. Demandez si un échange est possible et annoncez le point à clarifier.
+3. Écoutez la réponse puis décidez de la suite ; poser une question n’oblige ni à adopter une directive ni à accepter une association.
+
+Utilité possible : La reprise rend la décision plus explicite sans garantir un accord ou excuser le manque de respect.
 
 ## La question qui reste dans le chat
 

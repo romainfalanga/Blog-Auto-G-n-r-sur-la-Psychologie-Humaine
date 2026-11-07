@@ -38,44 +38,42 @@ Ici, la surgénéralisation opère au niveau collectif. Un cours qui ne capte pa
 Exemple concret : un enseignant observe un groupe distrait pendant une séance et conclut que son lycée est devenu ingérable, évitant dès lors d'introduire des méthodes plus exigeantes.
 
 ### 3. Anticipation catastrophique pour les choix d'orientation et de reconversion
-La surgénéralisation influence aussi les décisions majeures. Un refus pour un stage ou un commentaire négatif peut être interprété comme la preuve qu'une voie professionnelle est impossible. Pour Thomas, qui souhaite se reconvertir dans l'édition, une remarque sceptique d'un collègue ou une hésitation lors d'un atelier suffit à transformer son avenir en impasse : s'il ne convainc pas maintenant, il ne réussira jamais dans l'édition. Cette peur viscérale de l'échec est le moteur de son accablement récent, celui qui l'empêche parfois de corriger ses copies ou d'avancer sur son portfolio par simple crainte de confirmer ses propres prédictions sombres.
 
-Exemple concret : un étudiant qui ne reçoit pas d'admission pour un master particulier peut penser qu'il n'a aucun talent pour la recherche et abandonner des options qui lui conviendraient mieux.
+Une conclusion sur un événement peut être étendue au futur et à d’autres domaines sans informations suffisantes. Le risque de refus ou les difficultés matérielles restent réels ; ils n’autorisent pas à annoncer tout l’avenir à partir d’un seul retour.
+
+Pour Thomas, une remarque sceptique sur son projet peut devenir « je ne travaillerai jamais dans l’édition », sans examen du dossier ou des possibilités d’apprentissage. Pour un étudiant, un refus dans un master particulier peut devenir « aucune voie de recherche ne m’est accessible », alors que les autres options n’ont pas été examinées. Ces deux conclusions dépassent le retour reçu. Elles ne donnent pas une explication complète de l’épuisement, qui peut demander une évaluation et des appuis distincts.
 
 ## 3 techniques pour reprendre le contrôle face à la surgénéralisation
 
 ### 1. La question de l'incident unique
-Cette méthode consiste à isoler l'événement déclencheur et à l'examiner comme un fait ponctuel, en le séparant des conclusions globales.
 
-Exercice concret :
-1. Identifiez l'énoncé généralisant (par exemple : "Je suis nul en pédagogie").
-2. Reformulez en une phrase factuelle et datée : "Lors du dernier cours, plusieurs élèves n’ont pas terminé le deuxième exercice."
-3. Notez des situations comparables qui aident à nuancer la conclusion, sans compter les points ni noter d’informations permettant d’identifier un élève.
-4. Concluez par une phrase nuancée : "Un incident s'est produit aujourd'hui, cela ne prouve pas que je sois incapable d'enseigner."
+Thomas cherche à comparer la portée de sa conclusion à celle de l’incident, sans devoir prouver que son enseignement réussit toujours.
 
-Le but est de comparer l’ampleur de la conclusion à ce que l’événement permet réellement de dire.
+1. Relever « ma classe est un désastre », puis écrire le fait limité et daté : la réponse à cet exercice ne comporte pas la justification attendue.
+2. Examiner la consigne et quelques situations comparables sans informations identifiantes sur les élèves. Il peut laisser une conclusion ouverte si les éléments manquent.
+3. Formuler ce que le constat permet de dire et la question suivante : montrer la trace attendue ou demander à l’équipe un avis sur la consigne.
+
+La question ramène au travail observable. Elle n’efface pas l’erreur et ne garantit pas que tous les autres cours fonctionnent.
 
 ### 2. Le dossier des exceptions
-Constituer un dossier concret rassemblant les exceptions aux règles négatives permet de contester les généralisations par la preuve empirique.
 
-Exercice concret :
-1. Prenez un carnet ou un dossier numérique.
-2. Si cela vous aide, notez des exemples concrets où vos actions ont donné un résultat positif (retours d'élèves, réussite d'un atelier, compliments d'un collègue).
-3. Pour chaque exemple, précisez la date, le contexte, ce que vous avez fait et le résultat observé.
-4. Relisez ce dossier avant de prendre une décision importante ou quand une pensée généralisante survient.
+Une trace choisie peut rendre accessibles des faits que Thomas oublie lorsqu’un incident occupe tout son bilan. Ce dossier ne doit pas devenir une collection obligatoire de réussites ou une archive d’informations privées sur les élèves.
 
-En accumulant des données précises, vous opposez des faits vérifiables aux croyances globalisantes. Pour Thomas, qui lit beaucoup et apprécie les preuves, ce dossier devient un outil rassurant face à la paralysie décisionnelle.
+1. Choisir un exemple pertinent pour la conclusion actuelle : une autre consigne qui a permis aux élèves de justifier, plutôt qu’un compliment sans rapport avec l’exercice.
+2. Noter brièvement le contexte, son action, les appuis et le résultat observé, en gardant aussi la limite de l’exemple. Ne pas identifier les élèves.
+3. Comparer cet élément à « aucun cours ne fonctionne », puis revenir à la correction précise de la séance actuelle. Il peut arrêter la note après cet usage.
+
+Une exception peut nuancer une règle absolue. Elle ne calcule pas le niveau général de Thomas ni ne rend inutile la modification d’une consigne.
 
 ### 3. L'expérimentation comportementale graduée
-Plutôt que de laisser la pensée généralisante décider pour vous, planifiez de petites expériences mesurables pour tester l'hypothèse globale.
 
-Exercice concret :
-1. Formulez l'hypothèse issue de la surgénéralisation (ex : "Si j'envoie mon manuscrit à une maison d'édition, il sera rejeté et cela prouvera que je ne suis pas fait pour l'édition").
-2. Définissez une expérience courte et limitée dans le temps (par exemple : envoyer une proposition à deux maisons d'édition choisies, préparer un courriel type).
-3. Définissez ce qui dépend de vous, par exemple préparer et envoyer le dossier, et ce qu’un retour éventuel pourra éclairer.
-4. Exécutez l'expérience, notez les résultats et comparez-les à l'hypothèse initiale.
+Dans ce récit, l’essai porte sur une action pédagogique limitée et prévue dans son rôle, pas sur une exposition forcée au jugement. Le résultat ne doit pas servir de verdict sur toute sa carrière.
 
-La démarche peut apporter un retour sur cette proposition précise. Une réponse, même négative, ne tranche pas la question de l’aptitude à travailler dans l’édition. Pour Thomas, ce protocole l'aide à avancer dans sa reconversion sans que la peur du rejet devienne un frein absolu.
+1. Choisir la question issue de la copie : les élèves savent-ils quelle trace écrite est attendue pour justifier la réponse ?
+2. Préparer une clarification de la consigne et, dans le cadre du cours, montrer les exemples anonymes nécessaires. Garder les règles d’évaluation et demander un avis à l’équipe si besoin.
+3. Regarder ce que les réponses suivantes permettent d’observer et ce qui reste incertain, puis choisir une autre explication ou un appui approprié. Une séance ne permet pas d’attribuer tout changement au seul essai.
+
+Cette action peut apporter une information sur une consigne précise. Elle ne met pas les élèves au service d’un test de confiance de Thomas et ne prouve ni n’infirme son aptitude à l’édition.
 
 ## Reprendre la consigne, pas toute la classe
 

@@ -39,6 +39,8 @@ Enfin, comprendre une cause ne dispense pas d'en traiter les conséquences. Une 
 
 La formatrice lui demande une description observable. Il découvre alors que sa méthode contient un point vulnérable : il modifie certaines informations avant de reprendre chaque ligne, sans contrôle d'ensemble explicite. Cela ne prouve pas que toute l'erreur vient de là. Ils peuvent néanmoins tester cette piste et vérifier aussi sa compréhension des calculs. L'analyse s'ouvre dès qu'une cause supposée devient une question examinable.
 
+Il pourrait employer la même phrase après une portion irrégulière en cuisine, alors que le point à vérifier serait le repère du geste, et non le calcul de la fiche. Dire « je manque d’attention » dans ces deux situations masquerait précisément leur différence. Une explication devient utile lorsqu’elle aide à choisir entre une demande sur la méthode écrite et une demande sur le geste.
+
 ### Les réussites sont classées hors du dossier
 
 Éloi considère son lot validé comme trop simple pour compter, mais donne à la fiche ratée une portée très large. Les deux expériences ne portent pas exactement sur la même compétence. Elles doivent donc rester distinctes. La réussite en préparation ne garantit pas le calcul ; la difficulté en calcul n'annule pas le savoir-faire déjà observé. Une description plus juste garde plusieurs informations à la fois, même si elles ne racontent pas une histoire uniforme.
@@ -74,6 +76,8 @@ Il conserve également ce qui dépend du cadre : temps de relecture, accès au s
 Éloi essaie une formulation factuelle : « Cette fiche comporte des erreurs, je dois comprendre la méthode et la faire vérifier. » Elle ne nie pas la difficulté. Elle lui indique une suite possible. Il peut y ajouter son émotion : « Je suis déçu et j'ai peur de ne pas y arriver. » Le ressenti n'a pas besoin d'être transformé en description définitive de ses capacités pour être entendu.
 
 Dans une expérience de Juliana Breines et Serena Chen, après un premier test difficile, les participants invités à se traiter avec bienveillance ont consacré plus de temps à étudier que ceux des groupes de comparaison. Le temps d'étude est le résultat observé ici. Pour apprendre le calcul, Éloi a toujours besoin de l'explication et de la pratique. Éloi retient surtout qu'il peut chercher à corriger sans s'attaquer. Une parole utile rend la réparation pensable ; elle ne sert ni à excuser une erreur non traitée ni à exiger une émotion positive.
+
+Pour l’utiliser sur sa feuille, Éloi commence par entourer la ligne à reprendre, formule la phrase factuelle puis prépare une demande : « Peux-tu regarder avec moi l’étape où je change le nombre de convives ? » Il apporte cette question à la formatrice et garde la correction à faire valider. La parole moins dure sert ainsi une action concrète ; elle ne remplace ni l’explication ni la réparation.
 
 ## La deuxième ligne reste à revoir
 

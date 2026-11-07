@@ -55,6 +55,8 @@ Quand Étienne lui demande de préciser, Aline entend une négociation et répon
 
 Aline peut conserver sa décision et reconnaître la dureté de cette réponse. Les deux gestes ne s’annulent pas. Présenter des excuses pour un ton accusateur ne l’oblige pas à venir au dîner. Cette distinction lui manque souvent : elle pense qu’en admettant une maladresse, elle doit aussi abandonner la demande qui l’accompagne. Le désaccord devient alors un bloc impossible à réparer.
 
+Une autre question pratique pourrait produire le même glissement : si Étienne lui demande à quelle heure il peut prendre le vélo, Aline pourrait répondre « tu vois bien que je veux être seule » au lieu de préciser l’horaire. La demande de réservation et celle du vélo ne portent pas sur la validité de son refus. Leur prêter une intention de contrôle rendrait deux échanges ordinaires inutilement hostiles.
+
 ## Trois techniques pour garder le lien en posant une limite
 
 ### 1. Associer un fait personnel à une décision précise

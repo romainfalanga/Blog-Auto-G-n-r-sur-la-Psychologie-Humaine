@@ -28,24 +28,54 @@ Le récit transpose ce résultat par analogie à un plan commercial. Stéphane e
 ## Manifestations de l'effet IKEA face à une décision importante
 
 ### Le rejet systématique des alternatives externes
-Stéphane est tenté d'écarter ce qui vient de Marc parce que ce dernier n'a pas participé au projet. Il peut néanmoins comparer la réponse de Marc aux critères retenus pour le dossier.
+
+Stéphane peut tenir à sa version parce qu’il en connaît tout le travail de préparation. Cela ne donne pas à ses critères plus de valeur qu’à ceux des autres et ne prouve pas que toute objection extérieure est meilleure.
+
+Il peut écarter les corrections de Marc parce que celui-ci n’a pas construit le calendrier. Il peut aussi défendre une ligne de coût devant le directeur en rappelant les soirées passées sur le plan, plutôt qu’en répondant à la question de viabilité. Le premier cas rejette une autre proposition ; le second répond par l’effort à un critère de travail. Les deux peuvent être repris avec des données comparables.
 
 ### La persistance dans l'erreur par investissement
-Tenir à sa production diffère de poursuivre un projet uniquement parce qu'on y a déjà investi du temps ou de l'argent. Ce deuxième phénomène a été étudié par [Arkes et Blumer](https://doi.org/10.1016/0749-5978%2885%2990049-4) sous le nom d'effet des coûts irrécupérables. Les deux idées peuvent éclairer le récit, sans être interchangeables.
+
+Tenir à sa production diffère de poursuivre un projet uniquement parce qu’on y a déjà investi du temps ou de l’argent. Ce deuxième phénomène a été étudié par [Arkes et Blumer](https://doi.org/10.1016/0749-5978%2885%2990049-4) sous le nom d’effet des coûts irrécupérables. Les deux idées peuvent éclairer le récit sans être interchangeables.
+
+Stéphane peut vouloir conserver les graphiques parce qu’ils lui plaisent davantage après les avoir réalisés : cela concerne la valeur qu’il leur attribue. Il peut aussi refuser de déplacer l’appel juridique pour ne pas « perdre » les soirées consacrées au calendrier : cela concerne la place donnée à un effort passé dans une décision à venir. Dans les deux cas, il faut encore examiner les critères du dossier et ce que chaque version permet maintenant.
 
 ### L'aveuglement face aux défauts de conception
-Stéphane connaît le travail qu'ont demandé ses graphiques. Les collègues, eux, doivent pouvoir lire les données. Il peut leur demander quel chiffre ils comprennent et ce qu'ils ne retrouvent pas.
+
+Connaître le cheminement de la préparation peut donner à Stéphane une compréhension que les lecteurs n’ont pas. Ils ont besoin de retrouver les données et l’enchaînement sans connaître les intentions derrière chaque graphique.
+
+Un graphique très travaillé peut rester difficile à lire si les collègues ne retrouvent pas le coût recherché. Le calendrier peut aussi masquer une dépendance : attendre un accord avant l’appel au service juridique risque de retarder la suite. Le premier exemple demande une clarification de lecture ; le second une vérification de séquence. Leur coût de préparation ne tranche ni l’un ni l’autre.
 
 ## Techniques pour prendre de la distance
 
 ### 1. La méthode de l'avocat du diable externe
-Pour briser le cercle vicieux de l'autovalidation, il est utile de solliciter une personne qui n'a absolument pas participé à la phase de création. L'exercice consiste à présenter son projet ou sa décision à un tiers neutre, comme Stéphane pourrait le faire avec Sandrine ou un collègue d'un autre département, en lui demandant explicitement de trouver trois failles majeures. L'astuce est de ne pas défendre son point de vue pendant l'exposition des critiques. En acceptant ce regard extérieur, on force le cerveau à se détacher de l'objet créé pour redevenir un simple observateur de la donnée factuelle.
+
+Un collègue autorisé à voir le dossier peut examiner une question dont Stéphane connaît moins bien les limites. Il n’est pas forcément neutre et n’a pas à trouver trois défauts pour que son retour compte.
+
+1. Choisir le point à regarder et la personne compétente, en gardant les informations commerciales dans leur cadre de confidentialité.
+2. Lui demander ce qu’elle comprend, ce qui manque et ce qui paraît fragile dans le calendrier ou les coûts. Écouter avant de défendre le temps investi.
+3. Vérifier le point soulevé avec les données du dossier, puis retenir, adapter ou laisser ouverte la proposition selon les critères convenus.
+
+La seconde lecture peut rendre un défaut visible. Elle ne transforme pas tout avis extérieur en vérité et ne force pas Stéphane à abandonner sa propre version sans examen.
 
 ### 2. Relire quand le calendrier le permet
-S'il dispose du temps nécessaire, Stéphane peut relire le plan plus tard ou demander une seconde lecture. Il n'y a pas de délai de quarante-huit heures à respecter pour juger un document.
+
+Stéphane peut préparer une relecture qui a un objet précis. Il n’existe pas de délai obligatoire de quarante-huit heures pour bien juger le plan.
+
+1. Vérifier l’échéance et réserver le temps réellement disponible pour revoir les dates ou demander une seconde lecture.
+2. Marquer le point resté en suspens, comme la date de l’appel juridique, afin de ne pas consacrer le créneau à une nouvelle retouche de présentation.
+3. Reprendre les deux versions avec ce critère, noter ce qui change et faire confirmer la dépendance qui reste incertaine.
+
+La relecture sert une vérification identifiable. Elle ne garantit pas plus de détachement avec le seul passage du temps et peut rester partielle si l’information manque.
 
 ### 3. La déconstruction du processus par les coûts
-Il peut séparer le temps déjà passé, les coûts à venir et les bénéfices attendus, puis comparer les options selon les mêmes critères. Le nombre de lignes dans chaque colonne ne permet pas de détecter un biais.
+
+L’objectif est de séparer l’effort déjà fourni des ressources que la prochaine décision demande. Il ne s’agit pas de détecter un biais en comptant les lignes d’un tableau.
+
+1. Noter ce qui appartient au passé : les soirées de préparation et les données déjà assemblées, sans exiger qu’elles soient perdues ou rentabilisées.
+2. Comparer les versions sur les mêmes critères à venir : temps de reprise, validation juridique et calendrier client, avec les coûts ou bénéfices encore inconnus.
+3. Choisir l’information ou l’arbitrage nécessaire, puis enregistrer la version retenue avec les questions encore ouvertes. Une modification ne décide pas de la valeur personnelle de son auteur.
+
+Cette séparation documente le choix présent. Elle ne calcule pas un résultat certain pour Lemoine et n’oblige pas à conserver ou remplacer tout le plan d’un seul geste.
 
 ## Enregistrer une autre version du plan
 

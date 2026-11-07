@@ -31,15 +31,21 @@ Dans ce conflit, Stéphane traite son jugement sur Marc comme une explication al
 
 ### 1. Expliquer un retard par le caractère
 
-Dans le feu de l'action, nous avons tendance à croire que l'autre agit par malveillance ou par défaut de caractère. Si un collègue ne répond pas à un e-mail urgent, nous nous disons qu'il est arrogant ou désorganisé. Nous oublions qu'il traverse peut-être une crise familiale ou que sa boîte de réception est saturée par un problème technique. Pour Stéphane, voir Marc bafouiller devient la preuve d'une nature fragile, et non le signe d'une fatigue accumulée après une nuit de travail sur les serveurs. Ce réflexe de condamnation immédiate rappelle à Stéphane son récent dégoût viscéral envers les méthodes de Marc lors du dernier séminaire ; il réalise que son cerveau utilise ses griefs passés pour valider son jugement actuel, transformant une circonstance technique en un défaut moral définitif.
+Stéphane peut prendre une observation limitée pour une explication stable de la conduite de Marc. Prendre en compte une circonstance ne signifie pas que tout le retard vient d’elle ni que personne n’a de responsabilité.
+
+Le retard de signature lui fait penser « Marc est désorganisé » avant de lire le message sur la panne. L’hésitation de Marc sur l’heure d’un appel lui semble aussi prouver qu’il ne sait pas gérer la pression. Le premier fait concerne le calendrier, le second une explication en cours. Chacun peut appeler une question précise plutôt qu’une étiquette, sans inventer une fatigue ou une crise personnelle dont Stéphane ne sait rien.
 
 ### 2. Comparer les informations dont on dispose
 
-Stéphane connaît ses propres raisons quand il arrive en retard, sans forcément connaître celles de Marc. Ce contraste n'est pas la définition du biais. Une [méta-analyse de Bertram Malle](https://pubmed.ncbi.nlm.nih.gov/17073526/) n'a pas retrouvé l'asymétrie générale souvent résumée par « nos actes s'expliquent par la situation, ceux des autres par leur caractère ».
+Stéphane connaît ses propres raisons dans certaines situations, sans forcément connaître celles de Marc. Ce contraste n’est pas la définition du biais. Une [méta-analyse de Bertram Malle](https://pubmed.ncbi.nlm.nih.gov/17073526/) n’a pas retrouvé l’asymétrie générale souvent résumée par « nos actes s’expliquent par la situation, ceux des autres par leur caractère ».
+
+Il sait quel tarif lui manquait au dîner, alors qu’il ignore d’abord quelles données Marc ne pouvait pas transmettre pendant la panne. Il connaît le temps passé à son propre plan, alors qu’il n’a pas encore reconstitué l’ordre des appels de son collègue. Ces deux écarts d’information peuvent être reconnus sans expliquer automatiquement toutes ses réactions par une règle générale sur soi et les autres.
 
 ### 3. L'ancrage dans l'éducation et la comparaison
 
-Stéphane se souvient des comparaisons avec Philippe et se demande si elles influencent son regard aujourd'hui. C'est une piste du récit, pas une cause établie du biais.
+Le souvenir de Philippe revient à Stéphane ; il peut le noter sans le traiter comme une cause établie de son jugement. La question actuelle reste ce qu’il sait de l’action et des conditions dans lesquelles elle a lieu.
+
+Il pourrait comparer l’aisance supposée de Philippe à la parole hésitante de Marc, en laissant de côté les tâches réellement différentes. À la maison, il pourrait aussi prendre la deuxième ligne d’un exercice où Maxime s’arrête pour une preuve qu’il ne se concentre pas, sans lui demander ce qu’il cherche. Ces deux glissements sont des possibilités à examiner dans le présent, pas la preuve d’une transmission familiale ou d’un mécanisme inconscient.
 
 ## Techniques pour agir avec discernement
 
@@ -47,15 +53,33 @@ Tenir compte des circonstances aide à décider quoi demander. Cela n'efface pas
 
 ### 1. La technique des trois scénarios alternatifs
 
-Avant de juger le retard, Stéphane peut identifier un autre facteur possible : une consigne floue, une donnée manquante ou la panne de serveur. Il peut ensuite chercher à vérifier plutôt que choisir l'explication qui lui convient.
+Stéphane cherche un facteur qu’il peut vérifier, sans devoir produire trois histoires rassurantes. Les explications possibles restent des hypothèses jusqu’à l’examen des faits.
+
+1. Relever le retard connu et la conclusion sur Marc, puis choisir l’information manquante utile : le moment où la transmission a été interrompue.
+2. Lire le message sur le serveur et demander à Marc la chronologie ou la consigne qui faisait obstacle. Ne pas lui attribuer une situation familiale imaginée.
+3. Comparer ce qui est confirmé à l’étiquette initiale et noter ce que la panne n’explique pas encore. Une responsabilité éventuelle reste à examiner sur des faits.
+
+La vérification peut ouvrir une question plus précise. Elle ne garantit pas une seule cause et ne demande pas d’excuser un manquement réellement établi.
 
 ### 2. Le retournement de perspective temporelle
 
-Se rappeler sa propre nervosité peut ouvrir une hypothèse sur celle de Marc. Cela ne permet pas de savoir avec certitude ce qu'il éprouve.
+Le souvenir de sa propre hésitation peut aider Stéphane à reconnaître ce qu’il ignore sur Marc. Il ne lui permet pas de connaître avec certitude l’émotion de son collègue.
+
+1. Reprendre l’épisode du tarif manquant et distinguer ce qu’un invité pouvait voir de ce que Stéphane savait de sa préparation.
+2. Revenir à la réunion actuelle : que voit-il de Marc, quelles données sur la transmission ne possède-t-il pas encore ? Les ressemblances ne prouvent pas que les causes sont identiques.
+3. Choisir une question sur le travail plutôt qu’une conclusion sur le caractère, puis écouter la réponse avant de décider du suivi.
+
+Ce détour met en évidence une limite de connaissance. Il ne transforme pas sa propre expérience en test de la vie intérieure de Marc.
 
 ### 3. La reformulation centrée sur le contexte
 
-Lors d'une confrontation, évitez les phrases commençant par "tu es" ou "il est", qui figent l'identité. Remplacez-les par des descriptions de situations. Au lieu de penser que Marc est brouillon, considérez que le processus de transmission des données semble avoir rencontré un obstacle. En changeant votre langage intérieur, vous modifiez votre réponse émotionnelle. Cela permet de désamorcer l'agressivité et d'ouvrir un espace de dialogue où l'autre ne se sent pas attaqué dans son être, mais soutenu dans la résolution d'un problème.
+L’objectif est de rendre le problème discutable sans figer l’autre dans « tu es ». Une description peut rester ferme sur l’effet du retard et sur le travail attendu.
+
+1. Dire le fait : « La signature Lemoine est retardée et nous devons reprendre la transmission », en gardant les heures à confirmer.
+2. Demander quel obstacle ou quelle décision manque, plutôt qu’annoncer que la panne explique déjà tout.
+3. Convenir du prochain appel, du responsable de l’action et du point à vérifier. Stéphane peut aussi reconnaître qu’il a jugé trop vite.
+
+Cette reformulation donne un objet à la discussion. Elle ne garantit pas une réaction calme et n’efface pas les responsabilités à établir.
 
 ## Demander ce qui bloque la signature
 

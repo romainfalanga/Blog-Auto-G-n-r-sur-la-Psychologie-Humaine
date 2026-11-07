@@ -35,13 +35,28 @@ Dans le travail de Baptiste, une responsabilité n’équivaut pas à une maîtr
 
 Baptiste a rédigé sa demande avec soin et s’attend donc à une réponse rapide. La clarté peut aider, mais elle ne règle pas l’agenda du destinataire, ses priorités ou les informations qui lui manquent. Si Baptiste interprète le silence comme la preuve que son message était forcément mauvais, il peut recommencer sans fin. Il peut vérifier une fois les éléments nécessaires, puis chercher l’information utile sur la suite. Une demande bien construite garde une valeur même lorsque la réponse n’est pas immédiate, et un retard mérite d’être traité selon ses conséquences plutôt que comme une appréciation personnelle.
 
+Exemples concrets
+
+- Baptiste prend le silence du destinataire pour le signe que son courriel n’était pas assez clair.
+- Une réponse partielle peut arriver malgré une demande qui donnait correctement les créneaux.
+
 ### Une action répétée remplace une information nouvelle
 
 Actualiser la messagerie donne à Baptiste l’impression de rester actif. Cela ne modifie pourtant pas le moment où la réponse arrive. La répétition peut devenir coûteuse si elle interrompt les tâches qui restent possibles. Il peut examiner ce que chaque nouvelle action ajoute : une relance transmet-elle une échéance, un document ou une question différente ? Si elle ne produit rien de nouveau, il peut attendre le point de suivi prévu. Cette limite ne s’applique pas indistinctement aux situations urgentes, aux obligations de sécurité ou aux procédures qui demandent une réaction précise. Le cadre réel prime sur une règle générale d’attente.
 
+Exemples concrets
+
+- Baptiste actualise sa messagerie alors qu’il n’a aucune information nouvelle à ajouter.
+- Le troisième courriel reste ouvert tandis qu’un élément préparatoire pourrait avancer avec Emmanuel.
+
 ### On se rend responsable de l’état de tous les autres
 
 Baptiste voudrait que Patricia reste satisfaite, qu’Emmanuel ne perde pas de temps et que le destinataire ne se sente pas pressé. Ces souhaits peuvent orienter une communication respectueuse, mais ils ne sont pas tous garantissables. Quelqu’un peut être contrarié malgré une demande proportionnée. Quelqu’un peut aussi apprécier une proposition tout en la refusant. Baptiste peut tenir compte de ces réactions sans les prendre automatiquement pour un problème qu’il doit effacer. Les autres conservent leur point de vue ; lui conserve la responsabilité de ses actes et la possibilité d’entendre un retour concret.
+
+Exemples concrets
+
+- Baptiste voudrait éviter à la fois l’attente d’Emmanuel et la contrariété possible du destinataire.
+- Face à la construction écroulée d’Elsa, il peut aider sans garantir que sa déception cessera.
 
 ## Trois pistes pour agir dans une marge réelle
 
@@ -49,13 +64,31 @@ Baptiste voudrait que Patricia reste satisfaite, qu’Emmanuel ne perde pas de t
 
 Baptiste souhaite fixer un échange avec les personnes nécessaires. Il peut vérifier les disponibilités déjà connues, préparer les questions et préciser ce qui manque. Il ne peut pas confirmer seul l’horaire du destinataire silencieux. Cette description empêche le résultat final d’absorber toutes les actions intermédiaires. Il peut se demander ce qu’il ferait différemment avec une information nouvelle et ce qui reste utile sans elle. Une telle liste doit rester liée à la situation, pas à une croyance générale qu’il faudrait toujours se concentrer uniquement sur soi. Les décisions d’autrui peuvent être influencées par une discussion ou une mobilisation collective. Le but est de reconnaître les moyens disponibles et les limites de leur effet, sans rendre invisibles les rapports de pouvoir.
 
+Exercice pratique
+
+- Écrivez le résultat attendu : fixer l’échange sur les supports.
+- Séparez la confirmation manquante des éléments préparatoires disponibles.
+- Choisissez avec Emmanuel une rubrique qui peut avancer sans inventer la réponse attendue.
+
 ### 2. Préparer une demande proportionnée et un point de suivi
 
 Baptiste vérifie que sa demande indique l’objectif, les créneaux et le délai de réponse utile au projet. Il choisit ensuite avec Patricia le moment où ils feront le point si rien n’arrive. Ce cadre peut inclure un autre interlocuteur ou une modification du programme. Il ne fixe pas seul une cadence de relance destinée à obliger le destinataire à réagir. Les pratiques professionnelles et les responsabilités doivent être respectées. Dans une relation personnelle, un accord semblable peut porter sur le moment d’un appel ou les informations attendues, avec le droit de dire non. Préciser le suivi permet de ne pas demander à chaque minute d’attente de produire une nouvelle action, tout en gardant une manière concrète de traiter un retard qui devient important.
 
+Exercice pratique
+
+- Relisez le courriel pour vérifier objectif, créneaux et délai utile.
+- Convenez avec Patricia du prochain point si la confirmation manque.
+- Précisez le relais ou l’ajustement à examiner à ce point, selon le cadre du service.
+
 ### 3. Reconnaître ce qui reste incertain et choisir une autre action possible
 
 Baptiste peut constater qu’il ne connaît pas encore la date, puis avancer sur un élément préparatoire qui ne dépend pas de cette décision. Il ne s’agit pas de faire n’importe quoi pour oublier. L’action doit avoir une utilité ou répondre à un besoin réel, y compris une pause. Si la pensée revient, il peut se rappeler le prochain point de suivi plutôt que recommencer toute la recherche. L’inconfort ne disparaît pas nécessairement. Il n’a pas besoin de contrôler parfaitement cet état pour poursuivre une activité. Si l’attente révèle une charge excessive ou une responsabilité sans moyens, la prochaine action peut être d’en parler et de chercher un appui, plutôt que de développer seul davantage de tolérance à une situation mal organisée.
+
+Exercice pratique
+
+- Nommez la date qui reste inconnue sans remplir la case par supposition.
+- Reprenez l’élément préparatoire choisi ou une pause dont vous avez besoin.
+- Si l’envie de revérifier revient, regardez le point de suivi prévu avant d’ajouter une action.
 
 ## La réponse peut encore manquer
 

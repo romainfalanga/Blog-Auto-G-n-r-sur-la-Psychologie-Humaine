@@ -35,6 +35,8 @@ Il faut également reconnaître les contraintes présentes. Si un transport manq
 
 Gérard envisage une visite. Odile transforme progressivement cette information en départ certain, puis en fin de leurs rencontres. Or plusieurs étapes restent inconnues : l’appartement peut ne pas lui convenir, le projet peut prendre du temps et les modalités de leurs rencontres peuvent évoluer. Ces possibilités ne garantissent pas que rien ne changera. Elles empêchent simplement de traiter une seule trajectoire comme un fait. Odile peut dire qu’elle craint un éloignement sans annoncer à elle-même que son ami disparaît déjà de sa vie. Le mot choisi donne une mesure plus juste de l’information disponible.
 
+Le panneau de bus peut produire une autre suite supposée : un horaire modifié deviendrait l’idée qu’elle ne pourra bientôt plus rejoindre les personnes du quartier. Le projet d’appartement concerne le choix encore ouvert de Gérard ; le panneau concerne un trajet à vérifier. Aucun de ces deux points ne suffit à annoncer la disparition de tous ses liens.
+
 ### Les événements différents deviennent les preuves d’une même menace
 
 Une fermeture provisoire, un changement de bus et un projet de déménagement n’ont pas la même portée. En les réunissant, Odile rend son scénario très convaincant : elle voit une série plutôt que des faits distincts. Elle peut reprendre chaque élément et chercher ce qui est réellement connu. Le commerce rouvre-t-il, quel trajet change, de quel départ parle-t-on ? Certaines réponses peuvent rester préoccupantes. Les distinguer permet alors de chercher l’appui pertinent pour chacune, au lieu d’affronter une impression globale de perte contre laquelle aucune action limitée ne paraît suffisante.
@@ -42,6 +44,8 @@ Une fermeture provisoire, un changement de bus et un projet de déménagement n�
 ### La préparation ne possède plus de point d’arrêt
 
 La première recherche d’itinéraire a une question précise. Les suivantes se multiplient parce qu’Odile espère obtenir une sécurité complète. Chaque réponse ouvre une autre possibilité, et elle ne sait plus ce qui lui permettrait de fermer le plan. Ce n’est pas le temps passé seul qui indique si la démarche est utile. Elle peut examiner le résultat : dispose-t-elle d’une information nécessaire, d’une décision possible ou seulement de nouveaux scénarios ? Définir le besoin de départ et le prochain point de vérification peut rendre plus visible le moment où la recherche a rempli sa fonction.
+
+Vérifier une correspondance vers l’adresse envisagée peut répondre à sa première question. Chercher ensuite des itinéraires vers plusieurs communes dont Gérard n’a pas parlé n’ajoute pas nécessairement une réponse à ce projet. Ce contraste situe deux usages du même plan : obtenir une information utile, puis essayer de prévenir toutes les variantes d’un avenir encore inconnu.
 
 ## Vérifier une information, laisser le reste ouvert
 
@@ -52,6 +56,8 @@ Odile écrit : « Si Gérard choisit cet appartement, existe-t-il un trajet que 
 ### 2. Donner une place à la crainte sans lui demander une prédiction
 
 Odile peut formuler ce qui la touche : l’idée de rencontres moins spontanées et la peur de connaître de nouvelles absences. Ces mots n’exigent pas une liste complète des personnes qu’elle pourrait perdre. Elle peut les partager avec Lucie ou un autre interlocuteur, si elle souhaite être écoutée. L’échange ne doit pas obliger l’autre à promettre qu’il sera toujours présent. Une réponse plus réaliste peut porter sur les liens actuels et les possibilités de contact. Le manque de Françoise peut également être reconnu sans servir d’explication certaine à toute inquiétude nouvelle. Si l’anticipation devient très envahissante, un professionnel peut aider à examiner le deuil, la santé et les conditions de vie plutôt que demander simplement de penser positivement.
+
+Si elle choisit d’en parler à Lucie, Odile peut préciser sa demande : « J’aimerais te dire ce qui m’inquiète, sans te demander de promettre que rien ne changera. » Elle écoute ce que sa fille peut offrir et choisit la suite de l’appel. Nommer la crainte, définir l’écoute souhaitée et entendre cette réponse donnent un cadre à la conversation sans l’utiliser comme garantie sur l’avenir.
 
 ### 3. Prévoir quand revenir à l’information, puis reprendre une action présente
 

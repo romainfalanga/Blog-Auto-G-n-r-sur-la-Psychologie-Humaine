@@ -27,35 +27,68 @@ Djamila craint qu’Amina attende quelque chose en retour. Le souvenir de Samir 
 
 ## Manifestations du schéma en amitié
 
-Dans le cadre des relations amicales, le schéma de méfiance et abus transforme des interactions simples en véritables défis émotionnels. La personne craint en permanence que son ami ne finisse par utiliser ses confidences contre elle ou ne l'abandonne une fois qu'il aura obtenu ce qu'il voulait.
+Dans cette scène, Djamila cherche à distinguer une crainte, une préférence de confidentialité et une limite sur le contact physique. Aucun de ces éléments isolés ne décide si Amina est fiable.
 
 ### 1. Le test de loyauté permanent
 
-Une manifestation courante consiste à tester sans cesse l'engagement et la fiabilité de ses amis. La personne peut se montrer distante ou difficile pour voir si l'ami va insister ou partir. Si l'ami insiste, Djamila peut penser qu'il est intrusif. S'il part, elle se dit qu'elle avait raison de ne pas lui faire confiance. C'est un cercle vicieux où l'ami finit par s'épuiser, confirmant ainsi le sentiment de trahison redouté au départ.
+Djamila peut imaginer mettre Amina à l’épreuve en se montrant distante, puis donner un sens menaçant à des réponses opposées. Ce scénario ne permet pas de connaître les intentions d’Amina. Elle peut préférer une demande explicite ou garder du temps pour répondre, sans être tenue de démontrer sa confiance.
+
+Exemples situés :
+
+- Djamila pourrait se montrer distante pour voir si Amina insiste, puis interpréter toute réaction comme un signe de danger.
+- Elle peut imaginer que décliner le service fera partir Amina avant de connaître sa réponse réelle ; un refus n’a pas à devenir un test de loyauté.
 
 ### 2. Le surcontrôle de l'information personnelle
 
 Djamila évite de parler à Amina de ses doutes sur une décision concernant Adam. Elle redoute que la conversation circule ensuite à l’association. Elle peut tenir à cette amitié et préférer parler d’Adam ailleurs. Si elle a envie d’en dire davantage, elle peut d’abord demander à Amina si la conversation restera entre elles.
 
+Exemples situés :
+
+- Djamila peut souhaiter parler d’une préférence de sortie tout en gardant une décision concernant Adam hors de l’association.
+- Elle peut demander la confidentialité avant une conversation et décider ensuite de ne pas donner davantage de détails.
+
 ### 3. L'interprétation erronée des signaux neutres
 
-Le cerveau hypervigilant interprète chaque petit changement de comportement comme une preuve de malveillance. Un retard de dix minutes à un rendez-vous n'est pas vu comme un aléa du quotidien, mais comme un manque de respect délibéré. Un message resté sans réponse pendant quelques heures devient le signe précurseur d'un désintérêt total. Cette lecture biaisée empêche de savourer la spontanéité de l'amitié, car chaque interaction est soumise à une analyse froide et suspicieuse.
+Une attente, une absence de message ou un contact imprévu peuvent recevoir très vite un sens menaçant pour Djamila. L’information reste parfois incomplète ; cela ne rend pas sa limite illégitime. Elle peut demander de ne pas être touchée par surprise sans devoir établir que le geste était malveillant.
+
+Exemples situés :
+
+- Un message sans réponse peut lui faire supposer un désintérêt avant de connaître la disponibilité d’Amina.
+- Le contact inattendu sur son bras peut lui déplaire et justifier une limite, même si elle ne connaît pas l’intention d’Amina.
 
 ## Techniques pour désamorcer la méfiance
 
-Djamila essaie de faire la différence entre un indice ambigu et un comportement qui appelle une limite. Aucun exercice n’oblige à faire confiance, à confier quelque chose de personnel ni à écarter un danger.
+Les propositions suivantes restent facultatives ; elles portent sur des choix actuels et ne demandent pas de revisiter seul une violence.
 
 ### 1. La technique des preuves contradictoires
 
-L'objectif de cet exercice est de forcer le cerveau à sortir de son biais de confirmation. Prenez un carnet et divisez une page en deux colonnes. Dans la première, notez la pensée méfiante qui vient de surgir, par exemple : Amina veut me remplacer sur ce dossier car elle me trouve incompétente. Dans la seconde, listez trois faits objectifs qui contredisent cette pensée : Amina m'a félicitée pour mon rapport la semaine dernière, elle a elle-même beaucoup de travail, elle sait que je suis fatiguée en ce moment. Cet exercice aide à rationaliser les peurs et à redonner du pouvoir à la partie observatrice de l'esprit.
+Objectif : Mettre une crainte et les faits disponibles côte à côte, sans forcer une conclusion rassurante.
 
-### 2. La divulgation progressive et contrôlée
+1. Écrire la crainte précise suscitée par l’offre sur le dossier Lopez.
+2. Distinguer l’offre connue, les attentes encore à clarifier et les comportements observés, sans inventer trois preuves de bienveillance.
+3. Choisir la question à poser ou le temps à prendre, en conservant tout fait qui appelle une limite.
 
-Pour réapprendre la vulnérabilité sans se sentir en danger, il est utile d'utiliser la méthode des petits pas. Choisissez une information personnelle mineure, un petit doute ou une préférence, et partagez-la avec une personne de confiance. Observez la réaction de l'autre sans anticiper le pire. Si la réaction est bienveillante, notez la sensation de soulagement que cela vous procure. Ce processus permet de construire une base de données de sécurité relationnelle. Djamila pourrait par exemple confier à Amina qu'elle se sent un peu débordée par les préparatifs de l'anniversaire d'Adam, sans pour autant dévoiler ses traumatismes profonds liés à Samir.
+Utilité possible : La note peut rendre l’incertitude plus précise. Une attention passée n’annule pas un geste déplaisant et ne prouve pas la fiabilité globale d’une personne.
 
-### 3. L'ancrage corporel de sécurité
+### 2. Une préférence partagée par choix
 
-Quand elle se sait à l’abri, Djamila peut remarquer le contact de ses pieds au sol et regarder autour d’elle. Le [guide de l’OMS sur le stress](https://tdr.who.int/home/our-work/global-engagement/9789240003927) propose des exercices de ce type. Ils donnent un point d’appui dans l’instant ; ils ne démontrent pas qu’une personne est fiable et ne sont pas un traitement du TSPT.
+Objectif : Dire une préférence sans devoir faire une confidence pour progresser.
+
+1. Choisir ce que Djamila souhaite dire, comme sa préférence pour qu’Amina demande avant de la toucher.
+2. Demander un court échange si le contexte convient, puis formuler seulement cette préférence sans raconter les violences passées.
+3. Décider ensuite de la suite qu’elle souhaite, en tenant compte des comportements dans la durée ; si l’échange ne paraît pas sûr, elle peut ne rien partager et chercher un autre appui.
+
+Utilité possible : Une préférence explicite peut faciliter un accord. La réaction d’Amina n’est pas un test à provoquer et aucune confidence intime n’est requise.
+
+### 3. L’ancrage corporel de sécurité
+
+Objectif : Trouver un appui confortable quand Djamila se sait à l’abri.
+
+1. Choisir le contact des pieds au sol ou un détail extérieur de la brasserie, selon son confort.
+2. Y prêter attention un bref instant, avec droit de bouger ou d’arrêter si le malaise augmente.
+3. Revenir à sa décision sur le service proposé : demander une précision, prendre du temps ou décliner.
+
+Utilité possible : Le [guide de l’OMS sur le stress](https://tdr.who.int/home/our-work/global-engagement/9789240003927) propose des repères de ce type. Ils ne démontrent pas qu’une personne est fiable et ne sont pas un traitement du TSPT.
 
 ## La manche et la serviette
 

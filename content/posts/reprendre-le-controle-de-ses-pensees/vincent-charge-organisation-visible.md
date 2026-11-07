@@ -39,17 +39,23 @@ Rendre visible n’est donc pas seulement mieux classer. Le classement peut aide
 
 Décrire ces étapes ne sert pas à gonfler artificiellement le mérite de celui qui les accomplit. Cela permet d’estimer ce qui est nécessaire pour que la demande avance. Cédric peut dire quelles informations il souhaite prendre en charge et celles qui lui manquent. Ils discutent de faits observables, au lieu de s’opposer autour d’une accusation générale comme « je dois penser à tout ».
 
+Le numéro imprimé ne dit pas si l’intervention a une date ; la note « porte entrée » ne dit pas quelle question poser ensuite. Le document officiel comme le carnet personnel laissent chacun une partie de la suite à reconstruire.
+
 ### Une aide garde besoin d’un rappel extérieur
 
 Cédric accepte de reprendre un appel, mais Vincent prévoit encore de lui demander si le contact répond. Si ce suivi n’est pas convenu, ils peuvent se retrouver dans une boucle : l’un attend que l’autre rappelle et l’autre croit qu’il doit continuer à coordonner. Ce décalage n’exprime pas forcément de la mauvaise volonté. Les responsabilités restent simplement trop floues.
 
 Un partage plus complet précise qui repère la prochaine échéance et à quel moment l’information doit revenir. Le responsable d’une étape n’a pas à deviner tout le dossier, mais il doit disposer des moyens nécessaires pour la suivre. Vincent peut cesser certains rappels lorsque la transmission est réelle. Il conserve une possibilité d’échanger sans vérifier en permanence la fiabilité de son compagnon.
 
+Vincent peut rappeler à Cédric de joindre le gestionnaire, puis lui redemander si une date est arrivée. Si l’initiative et le suivi restent tous deux chez lui, le changement d’interlocuteur ne suffit pas à faire quitter le dossier à son agenda.
+
 ### L’incertitude reste traitée comme une tâche ouverte en continu
 
 Le gestionnaire ne donne pas de date ferme. Vincent consulte sa messagerie plusieurs fois, alors qu’aucune nouvelle démarche n’est possible dans l’intervalle. L’absence de réponse devient une activité mentale presque continue. Il ne peut pourtant pas produire seul la décision d’un service extérieur. Sa vigilance ne répare pas la porte et ne garantit pas une intervention plus rapide.
 
 Une attente peut être consignée comme telle, avec un moment de réexamen. Cette distinction évite de confondre ce qui demande une action aujourd’hui et ce qui dépend d’un tiers. Elle ne demande pas d’accepter passivement un obstacle. Elle aide à réserver les relances aux moments où elles ont une fonction, tout en reconnaissant que le retard peut rester pénible et contraignant.
+
+Il consulte la messagerie au travail pour une date non annoncée ; au retour, voir la porte résistante lui fait refaire mentalement le dernier appel. La consultation et la reconstruction entretiennent l’attente sans donner un moyen supplémentaire de réparer.
 
 ## Trois techniques pour rendre visible la charge d’organisation
 

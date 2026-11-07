@@ -27,39 +27,57 @@ Il faut distinguer cette erreur de logique du biais de confirmation, qui peut am
 
 Margot raisonne ainsi : « Les contrats qui me font renoncer à ma méthode imposent des échéances. Ce contrat impose des échéances. Donc il me fera renoncer à ma méthode. » Même si elle accepte les deux premières propositions, la conclusion n’en découle pas. Le contrat peut comporter des échéances tout en lui laissant une marge sur la méthode.
 
-## Manifestations du biais de croyance lors d'une décision importante
+## Manifestations du biais de croyance lors d’une décision importante
 
-### 1. Filtrage sélectif des informations
-Ce tri des indices se rapproche d’un biais de confirmation, distinct de l’évaluation logique d’un argument. Par exemple, Margot lit la clause sur les méthodes imposées et la transforme en preuve que l'offre va la contraindre à trahir ses valeurs. Elle minimise en revanche les garanties financières et l'accès à une clientèle qui pourrait lui offrir de l'expérience.
+### 1. Une conclusion plausible semble déjà démontrée
 
-Un exemple concret se retrouve lorsqu'une personne reçoit un retour négatif sur un projet mais ignore les six retours positifs, car le commentaire négatif confirme sa croyance d'être un imposteur. Ce tri cognitif perturbe l'évaluation équilibrée des risques et des bénéfices.
+Margot connaît des contrats contraignants et reconnaît une clause d’échéances. Elle peut craindre de retrouver son ancien rythme. Mais la présence du calendrier ne suffit pas à établir que sa méthode sera imposée. La conclusion doit être examinée séparément de son caractère familier.
 
-### 2. Raisonnement motivé et interprétation des probabilités
-Confrontée au contrat, Margot imagine qu’elle pourrait perdre sa liberté créative. Pour savoir si cette crainte est justifiée, elle doit regarder ce que les clauses exigent et ce qu’elles laissent ouvert.
+Elle écrit « retour au même poste » à côté des échéances. Elle réinterprète ensuite la question ouverte sur la conduite des séances comme une simple politesse. La première annotation et la seconde lecture peuvent paraître cohérentes avec sa crainte sans démontrer la même conclusion.
 
-Quand elle a envie de répondre tout de suite, Margot peut demander à son interlocuteur un exemple concret d’une méthode acceptée ou refusée.
+### 2. Le tri des informations peut confirmer la première idée
 
-### 3. Résistance au changement et justification du statu quo
-Une conclusion qui semble évidente peut laisser peu de place à la négociation. Après son épisode de renoncement du 7 mai, Margot oscille entre l'envie de sécuriser un revenu et la peur d'abandonner l'image d'une coach indépendante. Le biais la pousse à justifier soit l'acceptation, soit le refus en s'appuyant sur des expériences passées plutôt que sur une analyse de la situation actuelle.
+Ce tri relève d’une question distincte de la validité logique : quels indices Margot retient-elle ? Elle peut regarder la clause gênante et l’information qui la nuance, sans devoir les compter comme deux preuves de même force.
 
-Cela arrive fréquemment quand quelqu'un refuse une opportunité parce qu'elle ne correspond pas à l'image qu'il a de lui-même, même si cette occasion permettrait un apprentissage essentiel et aligné avec des objectifs à long terme. Margot réalise que ce blocage ressemble à la stagnation qu'elle a ressentie dans son couple avant de commencer à pratiquer la respiration consciente pour briser ses schémas de défense.
+Elle relit deux fois l’échéance imprimée, tandis que la question sur sa méthode reste seulement dans son souvenir du rendez-vous. Elle remarque ensuite qu’aucune ligne du document ne précise cette méthode. La première absence de note et la seconde absence de clause demandent une clarification, pas l’invention d’une liberté garantie ou d’une interdiction écrite.
+
+### 3. L’évidence ressentie raccourcit le choix
+
+Si elle traite sa conclusion comme certaine, Margot risque de refuser avant de demander ce que signifie le calendrier. À l’inverse, le souhait d’un revenu pourrait lui faire considérer toute question comme superflue. Ces deux raccourcis laisseraient le contenu réel du contrat insuffisamment examiné.
+
+Elle replie vivement le document après la clause, prête à le ranger avec les contraintes de son ancien poste. Elle pourrait aussi préparer un « je suis ravie d’accepter » avant de connaître les conditions de modification des créneaux. Ni le rejet immédiat ni l’acceptation anticipée ne renseigneraient ces points.
 
 ## Techniques pour contrecarrer le biais de croyance
 
-### 1. Technique du contre-exemple structuré
-L'objectif est de générer consciemment des preuves qui contredisent la croyance dominante. Pour pratiquer cet exercice, prenez une feuille et écrivez la croyance centrale, par exemple : "Ce contrat va me forcer à trahir mes valeurs". Sous cette phrase, listez cinq contre-exemples plausibles et vérifiables.
+### 1. Chercher un contre-exemple au raisonnement
 
-Pour Margot, cela pourrait être : le contrat prévoit des ajustements individuels, la période d'essai permet une renégociation, d'autres coaches ont conservé leur style en collaborant, la visibilité peut attirer des clients alignés, ou encore sa mentor Sylvie peut relire les clauses. Pour chaque point, notez une action concrète à entreprendre, comme appeler le contact ou demander un amendement. Cette méthode ne cherche pas à effacer la crainte, mais à équilibrer le champ des preuves. En vérifiant ce qui figure dans le document, elle peut distinguer ses hypothèses de ce qu’elle sait.
+L’objectif est de vérifier si la conclusion découle des informations, sans fabriquer des preuves favorables à l’offre.
+
+1. Écrire le raisonnement de Margot en séparant les deux propositions sur les échéances de la conclusion sur sa méthode.
+2. Examiner l’hypothèse logique d’un contrat qui impose un calendrier mais laisse choisir les séances : elle suffit à montrer que le calendrier seul ne démontre pas la contrainte de méthode.
+3. Revenir au document réel et demander ce qui est effectivement prévu sur la méthode, sans prendre ce contre-exemple hypothétique pour une clause existante.
+
+Ce détour peut faire apparaître une question à poser. Il ne prouve pas que l’offre respecte ses valeurs et ne lui demande pas de l’accepter.
 
 ### 2. Classer les conséquences selon les informations disponibles
-Margot sépare ce qui est écrit, ce que le partenaire lui a dit et ce qui reste une hypothèse. Pour chaque inquiétude, elle note une question à poser ou une clause à vérifier.
 
-Si une conséquence lui paraît inacceptable, elle peut chercher une protection concrète ou renoncer au contrat. Il n’est pas utile de donner une probabilité chiffrée sans données pour l’estimer.
+Margot veut relier chaque inquiétude à une source précise avant de négocier.
 
-### 3. Journal de décision avec retour post-action
-Ce journal sert à garder la trace de ce que Margot sait avant de décider et de ce qu’elle découvrira ensuite. Avant de décider, écrivez une note brève comprenant la date, les choix possibles, les raisons favorables et défavorables, ce que vous espérez tester et un horizon de réévaluation, par exemple six semaines.
+1. Relever ce qui est écrit, notamment les échéances, puis noter séparément ce qui a été dit au rendez-vous.
+2. Pour la méthode et les changements de créneaux, écrire les questions encore ouvertes et demander une confirmation écrite utile.
+3. Examiner la réponse : choisir un amendement concret ou conserver la possibilité de renoncer si une conséquence ne lui convient pas.
 
-Si Margot accepte le contrat, elle s'engage à une réévaluation après deux mois. Une fois le délai passé, elle relit la note et compare les attentes aux résultats réels. Ce retour d'expérience sert à corriger la tendance à généraliser un échec isolé en verdict global. Documenter la décision réduit la tentation d'interpréter l'issue uniquement à travers des croyances antérieures et crée une base factuelle pour mesurer la réalité de ses craintes.
+Ce classement peut éviter de confondre une hypothèse avec une obligation. Il n’est pas utile de lui attribuer une probabilité chiffrée sans données.
+
+### 3. Garder une trace avant toute réponse définitive
+
+Le journal de décision conserve ce qui est connu aujourd’hui, au lieu de prévoir à l’avance le résultat d’un contrat accepté.
+
+1. Dater les points encore négociés : nombre de séances, délais, modification et manière de mettre fin à un éventuel essai.
+2. Inscrire les conditions souhaitées pour un essai de trois mois, en distinguant ce qu’elle propose de ce que l’autre partie accepte.
+3. Après la réponse, comparer les clauses obtenues à cette note et choisir l’accord, une nouvelle question ou le refus ; prévoir une révision seulement si un essai est convenu.
+
+La trace peut aider à évaluer l’offre et, plus tard, le déroulement réel. Elle ne transforme pas une proposition conditionnelle en contrat déjà signé.
 
 ## Une réponse conditionnelle
 
@@ -69,6 +87,6 @@ Dans son carnet, elle note trois mois à l’essai. Il faudra encore s’entendr
 
 ---
 
-Margot ne supprime pas soudainement toutes ses appréhensions, mais elle refuse de les laisser commander sa vie. Elle accepte le contrat à titre expérimental, avec des garanties écrites et un plan d'évaluation. Ce faisant, elle se rappelle que les décisions importantes gagnent en sagesse lorsqu'on confronte ses croyances à des preuves et à des actions mesurables.
+Margot garde des appréhensions et demande que les conditions d’un éventuel essai soient précisées par écrit. Elle n’a pas encore donné d’accord définitif : sa réponse dépend des points à éclaircir sur les séances, les délais et la manière d’arrêter. Elle peut ainsi examiner ce que le contrat prévoit avant de choisir.
 
 Si ces blocages persistent ou si la prise de décision génère une paralysie durable, il est utile de consulter un professionnel de la santé mentale ou un superviseur. Un accompagnement adapté peut aider à démêler les croyances enracinées et à retrouver votre capacité à choisir.

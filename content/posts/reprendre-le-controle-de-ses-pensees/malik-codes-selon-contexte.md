@@ -41,6 +41,11 @@ Fatou l’aide en disant clairement qu’elle souhaite un retour direct. L’eff
 
 Malik garde ses propres préférences. Il peut aimer formuler une critique avec une question et ne pas vouloir imiter la personne la plus expansive. Comprendre un code ne l’oblige pas à l’adopter entièrement. Il cherche un ajustement suffisant pour l’échange, pas une disparition de ses habitudes personnelles.
 
+Exemples concrets
+
+- Malik entoure de précautions son avis sur le cadrage sans connaître la demande exacte de Fatou.
+- L’invitation de Fatou à être direct rend une attente explicite sans obliger Malik à parler comme les autres.
+
 ### Le ton d’un milieu continue dans le suivant
 
 Après un poste exigeant, Malik peut répondre brièvement à Awa comme s’il transmettait une information opérationnelle. Elle entend parfois une distance là où il éprouve surtout de la fatigue et le besoin de terminer une phrase clairement. Aucun des deux n’a tort de remarquer ce décalage. Le ton porte un effet que l’intention ne suffit pas à annuler.
@@ -49,6 +54,11 @@ Ils peuvent le nommer sans transformer leur relation en problème culturel. Awa 
 
 Cette phrase ne donne pas un permis de répondre sèchement. Elle ouvre une explication et permet de chercher un autre rythme. Si Awa se sent blessée, Malik peut l’écouter et réparer la formulation. Le changement de code reste une pratique relationnelle, pas une excuse technique qui rendrait les effets de ses paroles sans importance.
 
+Exemples concrets
+
+- Malik peut garder avec Awa le ton bref utilisé après un poste exigeant.
+- Une légende expliquée avec le vocabulaire photo peut perdre Bastien jusqu’à la reformulation par la rame.
+
 ### L’ajustement peut ressembler à un examen d’authenticité
 
 Malik se demande parfois quelle version de lui est la plus vraie. Celle qui donne une consigne au dépôt ? Celle qui plaisante avec Awa ? Celle qui cherche ses mots devant une image ? Cette question suppose une manière unique d’être authentique, alors qu’il peut sincèrement vouloir des choses différentes dans des relations différentes.
@@ -56,6 +66,11 @@ Malik se demande parfois quelle version de lui est la plus vraie. Celle qui donn
 L’authenticité peut aussi se comprendre comme la possibilité de garder certaines valeurs à travers les variations : respect, précision, curiosité ou humour choisi. Les mots changent, mais Malik ne souhaite pas humilier une personne dans aucun de ses cercles. Cette continuité n’exige pas de parler exactement de la même façon à tout le monde.
 
 Une difficulté réelle apparaît s’il ne peut exprimer aucun désaccord ou doit toujours prétendre apprécier ce qui lui déplaît. Il mérite alors de regarder la pression du milieu, et pas seulement son habileté à s’y adapter. Certaines règles peuvent être négociées ; d’autres espaces peuvent rester trop coûteux ou peu accueillants.
+
+Exemples concrets
+
+- Malik cherche laquelle de ses voix serait la seule authentique.
+- Il peut garder précision et respect tout en formulant autrement une consigne et une plaisanterie intime.
 
 ## Changer de registre selon ce qu’on veut dire
 
@@ -67,6 +82,12 @@ Observez ensuite si la réponse correspond aux échanges réels. Un groupe peut 
 
 Si poser directement la question est difficile, une personne de confiance peut aider à décoder une seule situation. Malik peut demander à Fatou comment se déroule la discussion avant la séance. Il n’a pas besoin d’un manuel complet ni d’une liste de fautes à éviter. Une attente claire suffit parfois à réduire une grande part de la surveillance.
 
+Exercice pratique
+
+- Demandez à Fatou si elle souhaite un avis sur le cadrage, les couleurs ou l’ensemble.
+- Donnez un retour correspondant à cette demande avec votre manière de parler.
+- Regardez si l’accueil réel laisse aussi la place à un avis différent.
+
 ### 2. Préparer une transition entre deux contextes
 
 À la fin d’un temps de travail, repérez à qui vous allez parler ensuite et ce que vous souhaitez partager. Malik range sa tenue, puis choisit un détail de sa journée à raconter à Awa. Ce geste bref lui rappelle qu’il rejoint une relation où l’échange ne se limite pas à transmettre une consigne.
@@ -75,6 +96,12 @@ Il peut annoncer sa disponibilité réelle : quelques minutes maintenant ou un m
 
 Si le changement de ton ne vient pas immédiatement, nommez le décalage et reformulez une phrase. Aucun rituel ne garantit une transition parfaite. Le geste utile peut rester minuscule : poser une question ouverte, demander si l’autre souhaite raconter sa journée ou reconnaître que l’on parle encore trop vite.
 
+Exercice pratique
+
+- À la fin du poste, repérez le moment où vous rejoignez l’appel avec Awa.
+- Annoncez votre disponibilité réelle et demandez la sienne.
+- Si le ton reste trop opérationnel, reformulez une phrase sans exiger une transition parfaite.
+
 ### 3. Distinguer adaptation choisie et pression excessive
 
 Après une interaction qui fatigue, demandez-vous ce que vous changez, pourquoi et avec quel effet. Malik remarque qu’il simplifie volontiers un terme technique pour Bastien lorsqu’il parle de photographie. En revanche, il n’aime pas supprimer systématiquement toute référence personnelle avant même de savoir si elle serait accueillie.
@@ -82,6 +109,12 @@ Après une interaction qui fatigue, demandez-vous ce que vous changez, pourquoi 
 Choisissez ensuite un petit essai sûr. Il peut conserver une expression qui lui ressemble, poser une limite ou raconter un détail qui relie deux de ses univers. Observez la réaction au lieu de prévoir automatiquement un rejet. Cette expérience doit rester proportionnée au contexte ; elle ne justifie pas de s’exposer à un milieu manifestement hostile.
 
 Si l’ajustement répond à une discrimination ou à une menace réelle, la priorité change. Un soutien adapté et une réflexion sur les conditions extérieures peuvent être nécessaires. La capacité à changer de codes ne doit pas devenir une exigence de tolérer toute pression. Le droit au respect ne dépend pas d’une performance sociale irréprochable.
+
+Exercice pratique
+
+- Décrivez l’ajustement fait dans une interaction précise et son coût.
+- Choisissez dans un contexte sûr une nuance que vous souhaitez conserver ou une limite à dire.
+- Observez la réaction et cherchez un appui si la pression relève d’une injustice ou d’une menace réelle.
 
 ## Malik garde une voix reconnaissable dans plusieurs échanges
 

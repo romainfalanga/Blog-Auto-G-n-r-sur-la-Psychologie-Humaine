@@ -41,6 +41,11 @@ Elle peut reconnaître cette différence sans se reprocher d'être difficile. Le
 
 Benoît peut, de son côté, poser une question ouverte plutôt qu'agir immédiatement : « Veux-tu un coup de main, et pour quoi ? » Cette question ne le dispense pas d'attention. Elle lui permet de vérifier que son geste correspond au besoin, au lieu de choisir une solution qui pourrait retirer à Anaïs une part de son initiative.
 
+Exemples concrets
+
+- Anaïs change le sac de main et suppose que Benoît y reconnaîtra la demande.
+- Près de la caisse, il regarde les horaires sans savoir qu’elle attend un relais jusqu’au fauteuil.
+
 ### Une aide excessive fait craindre toutes les suivantes
 
 Lorsqu'il s'inquiète, Benoît propose parfois de renoncer au programme entier. Son intention est protectrice, mais Anaïs entend que sa présence devient trop compliquée. Elle refuse alors l'aide suivante, même lorsqu'elle serait utile. Un geste trop large peut ainsi rendre plus difficile une demande limitée.
@@ -49,6 +54,11 @@ Ils ont besoin de distinguer plusieurs niveaux : aider à une tâche, modifier l
 
 Au cinéma, le besoin exprimé reste pratique. Si un signe inhabituel ou une difficulté de santé le nécessite, ils suivent le cadre médical approprié. La précision de la demande ne sert pas à minimiser un risque. Elle évite seulement que tout inconfort soit interprété d'avance comme l'annulation de toute possibilité.
 
+Exemples concrets
+
+- Au cinéma, une proposition de rentrer pourrait lui faire refuser un simple portage du sac.
+- À la maison, anticiper qu’il décidera de tout le programme peut la dissuader de demander un seul déplacement.
+
 ### La demande contient des excuses avant même d'exister
 
 Anaïs commence souvent par « désolée de t'embêter » et termine par « ce n'est pas grave si tu ne peux pas ». Entre les deux, le besoin disparaît presque. Benoît peut entendre une préférence très légère alors qu'elle souhaite réellement un relais. Elle reste ensuite déçue d'une réponse qu'elle prépare elle-même à être négative.
@@ -56,6 +66,11 @@ Anaïs commence souvent par « désolée de t'embêter » et termine par « ce n
 La politesse ne demande pas d'effacer l'importance du besoin. Anaïs peut remercier, reconnaître une contrainte et rester claire sur ce qu'elle demande. Elle peut également choisir une autre option si Benoît ne peut pas aider. Ces possibilités ne rendent pas sa première demande illégitime.
 
 Les excuses peuvent aussi contenir une dette anticipée. Elle promet de tout faire le lendemain pour compenser un sac porté ce soir. Le couple gagne à discuter de la répartition générale plutôt qu'à négocier une équivalence immédiate pour chaque geste. L'appui perd son utilité si sa réception crée aussitôt une nouvelle surcharge.
+
+Exemples concrets
+
+- Dans le hall, « laisse, je me débrouille » efface le relais qu’elle voulait réellement.
+- Avant de demander le sac porté, elle pourrait promettre de prendre toutes les tâches du lendemain.
 
 ## 3 techniques pour demander un appui précis
 
@@ -67,6 +82,16 @@ La phrase peut être adaptée à d'autres contextes : demander un objet à port�
 
 Elle peut aussi dire ce qu'elle préfère ne pas recevoir : « Je n'ai pas besoin que tu décides tout le programme ; j'ai besoin de ce relais. » Cette précision ne rejette pas l'attention de Benoît. Elle l'oriente vers une forme qui soutient l'activité au lieu de la remplacer.
 
+Pour essayer dans cette situation
+
+Objectif : Rendre l’appui demandé limité et compréhensible.
+
+1. Dire à Benoît qu’elle souhaite qu’il porte le sac.
+2. Préciser jusqu’où : de la caisse à leur place.
+3. Ajouter qu’elle veut toujours voir le film, en gardant les repères de santé qui la concernent.
+
+La demande peut réduire le malentendu entre aide à un geste et modification de toute la sortie.
+
 ### 2. Vérifier l'accord sans exiger une réaction parfaite
 
 Benoît peut répondre oui tout en demandant où placer son propre sac, ou proposer un autre arrangement. Anaïs écoute cette contrainte au lieu d'y voir immédiatement une réticence. Ils recherchent un geste réalisable pour les deux. La première réponse n'a pas besoin d'être parfaitement formulée pour devenir un accord utile.
@@ -75,6 +100,16 @@ Elle peut demander une clarification si elle se sent jugée : « Quand tu propos
 
 Si la situation se répète, ils en parlent à un moment moins chargé. Le hall bruyant n'est pas le meilleur endroit pour traiter tout leur rapport à la maladie. Une demande immédiate peut être résolue maintenant ; la manière dont chacun vit le soutien peut recevoir un autre espace, avec un accompagnement si nécessaire.
 
+Pour essayer dans cette situation
+
+Objectif : Construire un accord qui inclut les contraintes de Benoît.
+
+1. Laisser Benoît préciser ce qu’il peut faire et où placer ses propres affaires.
+2. Si sa proposition de rentrer la blesse, lui demander ce qui la motive plutôt que supposer son intention.
+3. Convenir d’une solution immédiate et garder une discussion plus large pour un lieu moins bruyant.
+
+Une réponse imparfaite peut devenir utilisable sans exiger de régler tout le soutien dans le hall.
+
 ### 3. Conserver une place active après le relais
 
 Une fois le sac porté, Anaïs ne cherche pas une tâche plus difficile pour rétablir aussitôt l'équilibre. Elle participe autrement : elle garde les billets, repère les sièges ou choisit ce qu'elle peut faire sans se mettre en difficulté. Sa présence ne se mesure pas seulement à la part de charge physique prise en main.
@@ -82,6 +117,16 @@ Une fois le sac porté, Anaïs ne cherche pas une tâche plus difficile pour ré
 Elle remercie Benoît pour le geste exact. Ce retour l'aide aussi à savoir ce qui lui convient : « Cela me permet de garder la sortie plus confortable. » Le remerciement ne promet pas un résultat de santé ni une dette. Il décrit l'utilité du relais dans cette situation précise.
 
 Plus tard, ils peuvent revoir les appuis récurrents. Certaines demandes occasionnelles restent simples ; d'autres signalent un besoin d'organisation ou de conseil professionnel. Anaïs ne souhaite pas dépendre de l'improvisation permanente de Benoît. Rendre les besoins plus prévisibles peut protéger son autonomie et la disponibilité de son compagnon.
+
+Pour essayer dans cette situation
+
+Objectif : Recevoir le relais tout en restant participante.
+
+1. Une fois le sac confié, choisir un geste qui lui convient, comme garder les billets.
+2. Remercier Benoît pour l’utilité précise du portage sans promettre une compensation.
+3. Plus tard, revoir ensemble les besoins qui se répètent et les appuis professionnels éventuellement nécessaires.
+
+Le relais peut soutenir l’activité commune sans créer une dette immédiate ou retirer l’initiative d’Anaïs.
 
 ## Garder sa place au cinéma
 

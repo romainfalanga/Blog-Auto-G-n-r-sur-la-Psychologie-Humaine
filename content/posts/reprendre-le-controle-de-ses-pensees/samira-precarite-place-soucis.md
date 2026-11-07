@@ -22,7 +22,6 @@ Le ticket sort de l’imprimante pendant que Samira cherche déjà comment régl
 Sur le trajet, ils s’arrêtent devant un banc encore humide. Elle garde le cartable sur ses genoux et écrit trois choses sur le dos d’une enveloppe : rappeler l’agence, retrouver la facture, écouter l’histoire de l’aimant. Ces trois tâches ne sont pas équivalentes. Les voir séparées lui offre cependant un début de repère. Elle n’a pas trouvé l’argent manquant. Elle cesse seulement, pendant quelques instants, de demander à sa mémoire de tout conserver ensemble.
 
 ## Qu’est-ce que la place prise par les soucis de précarité ?
-
 Les soucis de précarité occupent l’attention lorsque des besoins matériels incertains réclament des vérifications, des anticipations et des décisions répétées. Il ne s’agit pas d’une faiblesse de caractère. Chercher comment payer, manger, se déplacer ou garder un logement constitue un travail réel. Quand les ressources restent imprévisibles, certaines questions reviennent parce que leur réponse dépend d’informations encore absentes.
 
 Anandi Mani et ses collègues ont observé des différences dans les résultats de certains tests cognitifs lorsque les préoccupations financières étaient plus présentes, dans les situations qu’ils ont étudiées. Une autre étude, menée par Leandro Carvalho et ses collègues auprès de ménages américains aux revenus modestes, n’a pas trouvé de différence dans ces tests autour du jour de paie. Ces travaux ne mesurent pas les capacités de Samira. Dans son histoire, les horaires à vérifier, les factures et la garde mobilisent concrètement du temps et de l’attention.
@@ -32,31 +31,41 @@ L’attention disponible varie aussi avec le sommeil, les interruptions et les e
 Il est néanmoins possible de réduire certaines charges évitables. Un horaire confirmé, une information compréhensible, une personne qui garde un document ou un accueil accessible peuvent changer concrètement la journée. Les exercices proposés ici visent cette marge. Ils ne remplacent ni des revenus suffisants ni les réponses collectives nécessaires à la précarité.
 
 ## Comment les soucis de précarité traversent-ils la journée ?
-
 ### Quand une question en appelle plusieurs
-
 Le rappel de l’agence semble être une seule tâche. Pour Samira, il implique de trouver un moment autorisé, de vérifier son trajet, puis de savoir qui récupère Noé si l’horaire change. Une réponse favorable sur le travail peut donc créer aussitôt une nouvelle difficulté de garde. Son hésitation ne signifie pas qu’elle refuse une occasion. Elle évalue plusieurs conséquences dont certaines sont difficiles à absorber.
 
 Cette ramification explique pourquoi une liste immense peut décourager davantage qu’aider. Chaque ligne visible en cache parfois quatre autres. Samira écrit « chaussures » mais pense au prix, au magasin accessible, au bus et à la pluie annoncée. Un appui utile commence par demander ce que recouvre le mot, sans supposer que la solution consiste à mieux classer ses achats.
 
 Le corps participe à cet effort. Elle remarque qu’elle serre les dents lorsque l’on annonce une modification de planning. Cette sensation lui indique une tension, pas un diagnostic. Elle peut l’observer sans devoir lui attribuer une cause unique. L’inconfort peut aussi diminuer lorsqu’une réponse arrive, ce qui confirme l’importance des conditions extérieures.
 
-### Quand vérifier ne donne plus d’information
+Exemples situés :
 
+- Rappeler l'agence demande aussi de savoir à quelle pause appeler et qui pourra récupérer Noé si l'horaire change.
+- La ligne « chaussures » de l'enveloppe recouvre un prix, un magasin accessible et un trajet possible.
+
+### Quand vérifier ne donne plus d’information
 Relire un message procure parfois une impression momentanée de maîtrise. Samira cherche peut-être un détail oublié, un créneau possible, une certitude. Une première vérification est utile. La cinquième ne lui apporte rien de plus, mais interrompt ce qu’elle essaie de faire avec son fils. Elle voudrait distinguer la surveillance nécessaire de la répétition qui l’épuise.
 
 Cette différence dépend du contexte. Si l’agence peut réellement appeler à tout moment et exige une réponse immédiate, rester attentive comporte un enjeu professionnel. Samira ne peut pas décider seule de supprimer cette contrainte. Elle peut en revanche demander comment les propositions sont envoyées et quels délais de réponse sont effectivement attendus. Une règle explicite réduit parfois une partie des vérifications défensives.
 
 La difficulté n’est pas toujours visible de l’extérieur. Chantal voit une collègue absorbée par son écran. Elle ignore les journées sans salaire qui se jouent derrière ce geste. Une explication brève peut rendre l’appui possible, mais Samira conserve le choix de ce qu’elle révèle. Elle ne doit pas raconter ses finances pour mériter une pause ou une information claire.
 
-### Quand un oubli devient un jugement global
+Exemples situés :
 
+- Samira relit le message déjà reçu au lieu de découvrir un nouvel horaire.
+- Sur le trajet de l'école, elle peut rouvrir la conversation avec l'agence alors qu'un délai de confirmation n'est pas encore écoulé.
+
+### Quand un oubli devient un jugement global
 Ne pas suivre immédiatement l’histoire de Noé donne lieu chez Samira à une conclusion immense : elle ne serait pas assez présente. Le fait observable est plus restreint. Elle perd le fil d’un récit alors que plusieurs problèmes concrets réclament son attention. La conclusion la blesse et ajoute une accusation à une journée déjà chargée.
 
 Cela ne rend pas les besoins de Noé secondaires. Il peut être déçu et demander un autre moment. Les reconnaître ensemble aide davantage qu’un verdict sur sa mère. Samira peut dire qu’elle écoute mal maintenant, proposer de regarder l’expérience après le repas et tenir cet engagement si les conditions le permettent. Elle n’a pas besoin de prétendre que tout va bien.
 
-## 3 techniques pour rendre les soucis un peu moins envahissants
+Exemples situés :
 
+- Perdre le fil de l'histoire de l'aimant lui fait conclure qu'elle est une mère insuffisamment présente.
+- Relire un montant à la caisse peut devenir dans son discours intérieur une preuve d'incompétence, alors que ce fait isolé ne décrit pas son travail entier.
+
+## 3 techniques pour rendre les soucis un peu moins envahissants
 ### 1. Donner un support à une seule boucle
 
 Choisissez une préoccupation qui revient aujourd’hui. Sur un papier déjà disponible, écrivez ce qui manque pour avancer et la prochaine action possible. Samira note : « Horaire de jeudi inconnu. Demander quand l’agence pourra confirmer. » Elle ne rédige ni un budget complet ni un inventaire de toutes ses inquiétudes. Le support sert à ne pas refaire mentalement la même préparation.
@@ -82,7 +91,6 @@ Avant l’échange, elle prépare une phrase et une question : « Je dois organi
 Une personne de confiance peut également aider à préparer l’appel ou rester présente à côté d’elle. Il faut vérifier ce soutien plutôt que le présumer disponible. Le partage d’une petite tâche a parfois plus d’effet qu’un long encouragement. Il rend une part de l’environnement plus praticable, même lorsque le problème de revenus reste entier.
 
 ## Les trombones derrière la tasse
-
 Le lendemain, Chantal lui garde une place dans le petit local de pause, sans lui promettre de solution. Samira appelle l’agence. Elle apprend que la confirmation arrivera en fin d’après-midi et qu’une réponse le lendemain reste possible. Cette précision n’ajoute aucune heure au contrat. Elle lui évite cependant de surveiller son appareil pendant tout le trajet de l’école.
 
 Sur son enveloppe, elle barre « rappeler » et écrit le nouveau délai. Le geste lui plaît plus qu’elle ne l’attend : une tâche possède maintenant une fin provisoire. Elle conserve la facture sur la liste. Elle ne transforme pas ce repère en preuve que tous ses soucis pourraient être maîtrisés avec un crayon. Ce qui dépend d’autres personnes demeure clairement indiqué.

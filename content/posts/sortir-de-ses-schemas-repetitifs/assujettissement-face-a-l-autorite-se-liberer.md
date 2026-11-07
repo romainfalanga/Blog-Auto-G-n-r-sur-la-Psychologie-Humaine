@@ -32,15 +32,30 @@ Mei rapproche ce qu’elle ressent devant M. Dubois de scènes vécues au restau
 
 ### 1. La suppression des besoins personnels
 
-La première manifestation est l'incapacité à exprimer une préférence ou une limite face à un supérieur. La personne assujettie s'efface totalement, persuadée que ses idées n'ont aucune valeur face à celles de l'autorité. Mei, par exemple, accepte des corrections qu'elle juge absurdes sur ses dessins simplement parce que c'est le professeur qui les suggère. Elle étouffe son intuition artistique pour coller à une norme imposée, craignant qu'une contradiction ne déclenche une réaction hostile. Cela crée un décalage douloureux entre ce qu'elle ressent au fond d'elle et ce qu'elle montre au monde.
+Une première manifestation, dans ce récit, est la difficulté à exprimer une préférence face au professeur. Mei prépare ses réponses en donnant beaucoup de poids à ce qu’elle imagine de ses attentes, sans que cela prouve un effacement total ou permanent. Mei, par exemple, accepte des corrections qu'elle juge absurdes sur ses dessins simplement parce que c'est le professeur qui les suggère. Elle étouffe son intuition artistique pour coller à une norme imposée, craignant qu'une contradiction ne déclenche une réaction hostile. Cela crée un décalage douloureux entre ce qu'elle ressent au fond d'elle et ce qu'elle montre au monde.
+
+Deux exemples dans cet épisode :
+
+- Mei place au-dessus la version qu’elle préfère le moins pour anticiper le choix de M. Dubois.
+- Elle propose de déplacer plusieurs éléments avant d’avoir expliqué la continuité du bras avec les signes.
 
 ### 2. L’anticipation d’une réaction hostile
 
 L'assujettissement se nourrit d'une hypersensibilité aux signes de mécontentement. Un simple froncement de sourcils ou un ton un peu sec de la part d'une figure d'autorité est perçu comme une menace imminente. Dans l'esprit de Mei, si M. Dubois n'aime pas son travail, c'est elle-même qui est remise en question. Cette peur panique conduit à une hyper-vigilance constante : elle guette les moindres indices verbaux ou non-verbaux pour s'adapter instantanément et neutraliser toute tension potentielle avant même qu'elle n'éclate.
 
+Deux exemples dans cet épisode :
+
+- Une pause du professeur devant la planche peut lui sembler annoncer un reproche qu’elle doit prévenir immédiatement.
+- Elle lit sa main tendue vers la seconde version comme une demande d’ajustement avant de lui demander ce qu’il souhaite regarder.
+
 ### 3. Le ressentiment silencieux
 
 Bien que la personne paraisse docile en surface, l'assujettissement génère souvent une accumulation de frustration. Comme les besoins ne sont jamais exprimés, ils finissent par se transformer en amertume ou en comportements passifs-agressifs. Mei peut passer des heures à dessiner ce qu'on lui demande tout en ressentant une fatigue immense et un dégoût pour son propre travail. Ce schéma crée un cercle vicieux : on obéit pour avoir la paix, mais cette paix intérieure est détruite par le sentiment d'être trahi par soi-même.
+
+Deux exemples dans cet épisode :
+
+- Elle pourrait refaire les signes en pensant qu’elle n’a pas le choix, puis perdre l’envie de reprendre cette planche.
+- Après avoir dit oui trop vite, elle peut rester contrariée de n’avoir pas parlé du bleu, sans que cela prouve une colère refoulée ou une cause unique.
 
 ## Techniques pour s'affirmer face à l'assujettissement
 
@@ -48,13 +63,37 @@ Bien que la personne paraisse docile en surface, l'assujettissement génère sou
 
 Remarquez si vous vous sentez pressé de donner une réponse immédiate. Quand c’est possible, vous pouvez dire « j’ai entendu votre remarque, je voudrais y réfléchir ». Il n’existe pas de seuil chiffré qui dise quand répondre ou vous protéger.
 
+Objectif de cet essai : Se donner un délai quand une réponse immédiate n’est pas nécessaire.
+
+1. Repérez l’accord que vous vous sentez pressée de donner sur la variante.
+2. Si le cadre le permet, dites que vous souhaitez réfléchir à la remarque.
+3. Vérifiez le délai réel avant de promettre une modification, ou cherchez un appui si demander ce temps présente un risque.
+
+Utilité possible : Le délai sépare l’écoute d’une remarque et l’engagement de tout refaire.
+
 ### 2. Préparer un échange et chercher un appui
 
 Notez ce que vous auriez voulu dire, sans chercher à remonter à un souvenir ni à vous convaincre que la situation est sûre. Vous pouvez ensuite préparer une question sur le projet ou demander à quelqu’un de vous accompagner.
 
-### 3. L'affirmation graduelle par le petit non
+Objectif de cet essai : Préparer une question et le soutien souhaité.
+
+1. Notez le choix que vous vouliez expliquer, comme le passage du bras dans les signes.
+2. Préparez une question sur le critère d’évaluation plutôt qu’un récit de vos raisons personnelles.
+3. Choisissez un canal ou une personne de soutien si cela vous aide, sans vous convaincre que tout échange est sûr.
+
+Utilité possible : La préparation donne un contenu à l’échange tout en gardant la possibilité d’un appui.
+
+### 3. Formuler une préférence située
 
 Dans un échange sûr, essayez si vous le souhaitez de formuler une préférence ordinaire. Mei peut proposer un autre lieu de déjeuner à Océane. Si vous redoutez des représailles, parler à une personne de confiance ou demander un accompagnement est une autre option.
+
+Objectif de cet essai : Exprimer une préférence délimitée dans un cadre praticable.
+
+1. Choisissez une préférence réelle à transmettre, par exemple garder une partie du bleu.
+2. Nommez-la puis demandez comment examiner une variante qui conserve cette intention.
+3. Évaluez la réponse et les conséquences ; vous pouvez différer ou chercher un relais sans devoir répéter un petit non dans d’autres situations.
+
+Utilité possible : La préférence rend le désaccord précis sans garantir une autorisation ni imposer une progression d’affirmation.
 
 ## Le bleu qu’elle demande à garder
 

@@ -34,22 +34,61 @@ Dans une famille, une attente irréaliste, un moment de fatigue ou plusieurs con
 ### L'exigence de perfection déplacée
 Nadia se surprend à traiter la préparation du gâteau comme un dossier à livrer. Elle attend de Yasmine la même précision qu'au travail. Une fois cette attente repérée, elle peut se demander ce qui compte ici : passer du temps ensemble ou obtenir un résultat impeccable.
 
+Exemples situés :
+- Nadia a déjà imaginé le gâteau au four avant que Yasmine finisse de peser la farine.
+- Devant le saladier, elle peut vouloir reprendre la spatule pour obtenir plus vite le résultat au lieu de laisser sa fille préparer.
+
 ### L'impatience et le raccourcissement du délai de réaction
 La frustration peut aller de pair avec de l'impatience. Nadia répond avant que Yasmine ait pu terminer sa phrase. Elle se rend compte après coup que la farine renversée ne suffit pas à expliquer l'intensité de sa réaction.
 
+Exemples situés :
+- Nadia hausse la voix avant que le paquet de farine touche le sol.
+- Elle envoie Yasmine dans sa chambre sans entendre la phrase où la petite expliquait comment elle voulait rattraper le paquet.
+
 ### Le retrait émotionnel ou le silence punitif
 La frustration peut s'exprimer par un ton sec ou un silence. En envoyant Yasmine dans sa chambre sans explication, Nadia laisse sa fille dans le doute sur ce qui vient de se passer. Une pause annoncée, suivie d'un retour vers l'enfant, est différente d'un silence utilisé comme punition.
+
+Exemples situés :
+- Dans la cuisine, Nadia continue seule le nettoyage pendant que Yasmine reste à l’étage sans savoir si elle pourra revenir.
+- Elle pourrait finir le gâteau sans revenir sur ses paroles ; annoncer une pause puis retrouver sa fille donnerait une autre suite à la scène.
 
 ## 3 techniques pour agir face à la frustration avec ses enfants
 
 ### 1. La technique de l'ancrage sensoriel immédiat
 Si l'enfant est en sécurité, faites une pause avant de répondre. Vous pouvez porter brièvement attention à un repère concret : l'eau sur vos mains ou le contact de vos pieds avec le sol. Essayez ensuite de dire une phrase simple. Vous pouvez aussi demander à un autre adulte de prendre le relais quelques minutes.
 
+Objectif : prendre un bref temps avant une parole trop dure.
+
+Exercice pratique :
+1. Vérifiez que Yasmine et la cuisine sont en sécurité et demandez un relais si nécessaire.
+2. Remarquez un appui simple, comme le sol ou l’eau sur vos mains, sans attendre un calme parfait.
+3. Revenez à une phrase utile : proposer de poser le paquet puis ramasser ensemble.
+
+Utilité possible : le repère laisse un temps de choix, sans garantir qu’un cri sera évité à chaque fois.
+
 ### 2. Le recadrage cognitif de l'intention
 Interrogez l'interprétation qui vous vient d'emblée. Yasmine a renversé de la farine ; cela ne suffit pas pour conclure à de la provocation ou à un manque de soin habituel. Nadia peut reconnaître l'accident, puis lui proposer de ramasser ensemble. Elle peut aussi maintenir une limite si elle en a besoin, en décrivant le geste concerné.
 
+Objectif : séparer l’accident de l’intention que l’adulte lui attribue.
+
+Exercice pratique :
+1. Décrivez le fait : le paquet a accroché la balance et la farine s’est renversée.
+2. Laissez Yasmine expliquer ce qu’elle essayait de faire, sans conclure à une provocation.
+3. Choisissez une consigne proportionnée et une aide adaptée, en gardant les limites utiles de la cuisine.
+
+Utilité possible : Nadia répond à la scène actuelle plutôt qu’à un portrait général de sa fille.
+
 ### 3. Faire une transition ou annoncer une pause
 Au retour du travail, si vous en avez le temps, essayez de noter ce qui reste à traiter et quand vous pourrez le reprendre. Dans l'échange avec l'enfant, une phrase comme « Je suis énervée, je vais prendre une minute et revenir » aide à annoncer la pause. Restez à proximité si l'enfant a besoin de surveillance. Revenez ensuite dire ce que vous regrettez ou ce que vous demandez pour la suite.
+
+Objectif : s’arrêter sans laisser l’enfant porter le silence comme une punition.
+
+Exercice pratique :
+1. Dites que vous êtes énervée et que vous prenez un bref moment, en assurant la surveillance nécessaire.
+2. Pendant ce temps, choisissez ce que vous allez reconnaître ou demander, sans faire de l’enfant votre confident de travail.
+3. Revenez, nommez le ton regretté et écoutez ce que Yasmine souhaite dire avant de reprendre le gâteau.
+
+Utilité possible : la pause comprend un retour réel. L’excuse n’impose pas à Yasmine de rassurer Nadia ou de reprendre aussitôt le jeu.
 
 ## Une deuxième place devant le saladier
 

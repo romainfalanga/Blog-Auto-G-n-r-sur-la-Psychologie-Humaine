@@ -32,41 +32,56 @@ Un des signaux les plus courants du biais d'ancrage est la fixation sur une prem
 
 Pour Youssef, il calcule son budget mensuel en partant du 48 000, puis ajuste mentalement ses attentes pour rester en cohérence avec cette ancre. Son mode de raisonnement mathématique renforce l'illusion d'objectivité : il croit qu'il compare des éléments, alors qu'il commence déjà par un point de départ qui enferme ses possibilités. Il retrouve ici cette rigidité héritée de son père, cette volonté de faire entrer le réel dans des cases étroites, comme lorsqu'il s'obstinait à corriger l'alignement des jouets de son neveu pour satisfaire un besoin d'ordre purement arbitraire.
 
+Deux exemples dans cet épisode :
+
+- Dès la sortie de l’ascenseur, Youssef estime ce qui resterait après un loyer à partir de 48 000 euros.
+- Avant de demander le contenu du poste, il cherche une première annonce dont le prix entre dans ce calcul.
+
 ### 2. Une première impression à examiner séparément
 Un premier témoignage peut aussi orienter la façon dont on aborde une décision. Il peut être utile d’en écouter d’autres sans traiter cette influence comme la preuve du même effet d’ancrage.
 
 Pour Youssef, quand Nicolas lui confie en aparté que sa mutation l'a surpris, Youssef interprète l'incertitude de son ami comme un signal pour temporiser. Sa tendance à intellectualiser transforme ce témoignage en règle implicite, réduisant sa capacité à considérer d'autres témoignages plus favorables. Il s'aperçoit aussi qu'il utilise ses propres filtres culturels et familiaux pour juger la pertinence de ce conseil. Cette fois, il essaie de ne pas projeter sa propre peur du changement sur les propos de Nicolas, conscient que son besoin de contrôle cherche souvent à masquer son insécurité intérieure.
+
+Deux exemples dans cet épisode :
+
+- Le récit de mutation de Nicolas peut lui faire privilégier les raisons de temporiser sans examiner les différences entre leurs situations.
+- Quand sa collègue nomme un quartier, il reprend cette piste familière dans la conversation avec Léa plutôt que vérifier si elle correspond au travail proposé.
 
 ### 3. Le besoin de cohérence cognitive qui verrouille les alternatives
 Face à une décision importante, l'esprit cherche la cohérence. Youssef peut partir du montant affiché, puis se mettre à ne chercher que ce qui le rend plausible. L’effet d’un repère initial et le tri d’informations qui confirment une idée décrivent deux phénomènes distincts.
 
 Pour Youssef, il se remémore l'épisode où il a corrigé l'alignement des jouets de son neveu : sa recherche d'ordre le pousse aujourd'hui à transformer le premier chiffre en règle immuable. Il a appris à repérer sa tendance à surcontrôler, mais l'ancre profite de ses automatismes pour se coller aux routines intellectuelles qu'il déploie quand il veut maîtriser une situation.
 
+Deux exemples dans cet épisode :
+
+- Il pourrait ne retenir que les annonces de salaire proches de 48 000 euros pour rendre l’offre cohérente.
+- Une information sur la charge de l’équipe pourrait rester hors de son tableau parce qu’elle ne sert pas à confirmer le montant initial.
+
 ## 3 techniques pour reprendre le contrôle face au biais d'ancrage
 
 ### 1. Créer plusieurs ancres alternatives
 L'idée est de générer volontairement plusieurs points de départ pour élargir le champ des possibles. Voici un exercice concret :
-1. Listez cinq scénarios différents pour la décision (optimiste, conservateur, neutre, contraint, expansion).
-2. Attribuez à chacun une valeur chiffrée ou une impression clé (par exemple salaire 55 000, salaire 48 000, rester en poste actuel).
-3. Comparez ensuite les conséquences matérielles et relationnelles de chaque ancre au lieu de vous arrêter à la première.
+1. Inscrivez le montant offert puis mettez-le provisoirement à part.
+2. Décrivez les options réellement ouvertes : rester, discuter le poste ou demander des conditions de mobilité.
+3. Comparez leurs conséquences avec des informations indépendantes, en laissant inconnus les montants non documentés.
 
 Pour Youssef, cela signifie écrire sur son carnet trois scénarios : rester, accepter avec négociation, accepter avec conditions de mobilité. En mettant ces ancres côte à côte, le « 48 000 » cesse d'être l'unique horizon et devient une option parmi d'autres. Cet exercice aide à comparer plusieurs options à partir de leurs conséquences, sans promettre d’effacer l’effet du premier chiffre.
 
 ### 2. Tester l'ancre par une question adversative
 Plutôt que d'accepter l'ancre comme évidente, formulez une question qui remet en cause son utilité. Voici un exercice concret :
-1. Notez l'information initiale qui vous sert d'ancre.
-2. Posez trois questions du type « Et si c'était faux ? », « Qu'est-ce qui changerait si l'ancre était 20 % plus haute ? », « Quelles preuves auraient valeur pour moi ? ».
-3. Cherchez activement des données contraires et évaluez leur crédibilité.
+1. Nommez l’information qui sert de référence, ici 48 000 euros.
+2. Demandez au contact RH comment le poste, le périmètre et la rémunération ont été définis.
+3. Examinez les éléments obtenus et leur comparabilité plutôt que chercher uniquement un chiffre plus favorable.
 
 Youssef utilise cette technique en envoyant un e-mail au RH : il demande sur quelle base le package salarial a été choisi et sollicite des comparaisons de marché. En formulant la question, il se force à faire apparaître des éléments qui pourraient contredire l'ancre. Sa formation technique l'aide à disséquer les données, mais cette méthode l'invite aussi à écouter les réponses, et pas seulement à confirmer ce qui lui semble logique. Il se souvient de la tasse qu'il fixait pour éviter le regard de Léa ; aujourd'hui, il choisit de lever les yeux vers les faits extérieurs plutôt que de s'enfermer dans ses propres craquelures mentales.
 
 ### 3. Mettre en place une pause délibérée structurée
 Une pause peut donner du temps pour chercher des éléments indépendants. Voici un exercice concret :
-1. Si vous en avez la possibilité, convenez d’un délai réaliste pour obtenir les informations manquantes.
-2. Durant ce délai, appliquez les deux exercices précédents : générez des ancres alternatives et posez des questions adversatives.
-3. Notez quotidiennement une petite phrase décrivant votre confiance relative sur une échelle de 1 à 10 et observez l'évolution.
+1. Vérifiez la date de réponse attendue et convenez d’un délai si possible.
+2. Répartissez les questions manquantes : missions au responsable, conditions au contact RH et effets du projet dans l’échange avec Léa.
+3. À l’échéance, distinguez les réponses reçues, les incertitudes restantes et la décision ou demande supplémentaire que vous pouvez formuler.
 
-Pour Youssef, la pause n'est pas une fuite émotionnelle mais une procédure technique. Il s'accorde trois jours pour rassembler des données, parler avec Léa et consulter une personne extérieure, comme Nicolas ou un mentor, et il consigne ses intuitions et ses contre-arguments. Ce délai lui laisse le temps de comparer les réponses avec ce qu’il avait supposé au départ. La pause structurée transforme son besoin de décision rapide en protocole réfléchi.
+Pour Youssef, la pause n'est pas une fuite émotionnelle mais une procédure technique. Il s'accorde trois jours pour rassembler des données, parler avec Léa et consulter une personne extérieure, comme Nicolas ou un mentor, et il consigne ses intuitions et ses contre-arguments. Ce délai lui laisse le temps de comparer les réponses avec ce qu’il avait supposé au départ. La pause organise les démarches possibles sans garantir que toutes les réponses seront disponibles.
 
 ## Ce que le mail ne dit pas
 

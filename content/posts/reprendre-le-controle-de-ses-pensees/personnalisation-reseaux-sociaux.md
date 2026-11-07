@@ -30,14 +30,16 @@ Comprendre la personnalisation, c'est accepter que notre cerveau cherche des cau
 ## Manifestations de la personnalisation sur les réseaux sociaux
 
 ### 1. Lire un commentaire neutre comme une attaque personnelle
-Sur les réseaux sociaux, un commentaire bref peut sembler chargé. Par exemple, un ancien collègue poste une photo de groupe et quelqu'un écrit « belle soirée ». Hugo lit cette phrase et la transforme en « ils font la soirée sans moi », puis « ils préfèrent faire sans moi », puis « je ne compte pas ». Ce glissement va de l'observation à l'interprétation personnelle sans éléments objectifs. En réalité, la plupart des commentaires sont génériques, destinés à plusieurs personnes, ou simplement polis. La personnalisation fait le grand écart entre l'information minimale et la conviction intime.
+Sur les réseaux sociaux, un commentaire bref peut sembler chargé. Par exemple, un ancien collègue poste une photo de groupe et quelqu'un écrit « belle soirée ». Hugo lit cette phrase et la transforme en « ils font la soirée sans moi », puis « ils préfèrent faire sans moi », puis « je ne compte pas ». Ce glissement va de l'observation à l'interprétation personnelle sans éléments objectifs. Le commentaire seul ne permet pas de connaître les destinataires visés ni ce que son auteur pense d’Hugo. La personnalisation fait le grand écart entre l'information minimale et la conviction intime.
 
-Exemple concret : Hugo voit un post de Samba avec des photos de répétition et s'imagine immédiatement mis à l'écart, alors que Samba a simplement oublié d'identifier tout le monde. Cette réaction est d'autant plus vive qu'il porte encore la cicatrice du 8 avril, quand il avait perçu le départ de Samba vers un groupe rival comme une trahison identitaire totale plutôt qu'un choix professionnel.
+Exemple concret : Hugo voit un post de Samba avec des photos de répétition et s'imagine immédiatement mis à l'écart, sans savoir pourquoi son nom n’y figure pas. Cette réaction est d'autant plus vive qu'il porte encore la cicatrice du 8 avril, quand il avait perçu le départ de Samba vers un groupe rival comme une trahison identitaire totale plutôt qu'un choix professionnel.
 
 ### 2. Comparaison sociale et jugement sur sa valeur
 Les flux montrent souvent des moments valorisants : coups de projecteur, réussites professionnelles, photos retouchées. Pour une personne timide et sensible, ces images ne restent pas des images, elles deviennent un comparateur automatique. Hugo se compare, puis conclut que son propre parcours est insuffisant. La personnalisation intervient quand il traduit cette comparaison en condamnation personnelle : « Ils réussissent parce qu'ils sont meilleurs que moi », ou pire, « je mérite d'être seul parce que je n'arrive pas à être à la hauteur ».
 
 Se comparer aux publications des autres et s'attribuer la cause de leur silence sont deux réflexes différents. Hugo peut commencer par repérer lequel est en jeu.
+
+Devant l’affiche, Hugo compare sa place absente à celle du bassiste qu’il reconnaît. Pendant le service, il repense ensuite à son entrée ratée et se l’attribue comme raison de ne pas avoir été appelé. La première scène concerne une comparaison ; la seconde ajoute une responsabilité personnelle qu’aucun message ne confirme.
 
 ### 3. Silence et absence d'interaction comme preuve de rejet
 Les plateformes offrent des signes visibles d'attention : likes, commentaires, vues. L'absence de ces signes devient une donnée facile à interpréter. Si Hugo publie une chanson et reçoit peu de réactions, il n'entend pas la réalité technique liée à l'horaire de publication, à l'algorithme ou à la visibilité, il entend : « je ne suis pas aimé ». La personnalisation prend la place du raisonnement objetif, et les algorithmes invisibles sont lus comme des jugements personnels.
@@ -54,18 +56,17 @@ Exercice concret :
 2. Écrivez ensuite deux autres explications non personnelles : « peut-être qu'ils ne l'ont pas vu » et « peut-être qu'ils étaient occupés ».
 3. Si cela a un intérêt, choisissez une suite simple : attendre, demander un détail ou passer à autre chose. Un retour n'est pas dû.
 
-Ce geste réduit l'urgence émotionnelle et invite à une attitude scientifique vis-à-vis des relations digitales. Hugo utilise déjà une version de cette méthode issue des TCC quand il lutte contre le raisonnement émotionnel, et l'applique ici avec son fil d'actualité.
+Ce geste peut lui donner une question plus précise sans garantir que l’urgence ressentie diminue. Hugo utilise déjà une version de cette méthode issue des TCC quand il lutte contre le raisonnement émotionnel, et l'applique ici avec son fil d'actualité.
 
 ### 2. Le cadrage relationnel et la liste de preuves
 Cette méthode permet de contrebalancer l'interprétation par un inventaire factuel de preuves sur la relation, plutôt que de se focaliser sur l'instantanéité d'un post.
 
 Exercice concret :
-1. Prenez un carnet ou une note sur votre téléphone.
-2. Pour une personne ou un groupe qui vous semble vous ignorer, listez trois interactions passées réelles qui montrent de l'intérêt ou de la connexion (messages, invitations, soutien).
-3. Notez aussi les informations qui vous manquent, par exemple combien de personnes ont vu la publication.
-4. Relisez cette liste avant de réagir ou de poster.
+1. Sur une note, choisir la seule publication qui lui pose question et relever une interaction passée réelle, comme la façon dont le collègue lui a montré où reprendre après l’entrée ratée.
+2. Ajouter ce qui nuance ou complique sa lecture, puis les informations manquantes : heure du concert, organisation de l’équipe et raison de l’absence de son nom, si elle n’est pas connue.
+3. Décider si une question précise lui serait utile et s’il souhaite la poser ; garder une inconnue plutôt que demander une justification sur sa valeur.
 
-Pour un créatif comme Hugo, ce travail transforme la morsure d'un post en une perspective plus large : il se souvient des moments où Samba l'a défendu ou où Théo lui a proposé une répétition improvisée. Ces preuves aident à empêcher le glissement immédiat vers la conclusion personnelle. Il tente d'ailleurs de mobiliser son état du Moi Adulte pour tempérer son Enfant blessé, celui-là même qui l'avait poussé à saboter l'harmonie du groupe le 2 avril par peur de l'intimité.
+Cette liste peut replacer la publication parmi plusieurs faits. Une interaction appréciée ne prouve pas que l’absence d’invitation n’a aucune importance, et le collègue ne doit pas une réponse immédiate. Hugo peut choisir la place qu’il souhaite donner à ce message sans s’obliger à collectionner des preuves positives.
 
 ### 3. Observer une interaction ordinaire
 Dans un échange ordinaire et sans risque particulier, Hugo peut essayer de repérer la différence entre ce qu'il voit et ce qu'il imagine.

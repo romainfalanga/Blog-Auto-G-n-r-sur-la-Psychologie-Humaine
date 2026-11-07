@@ -41,6 +41,11 @@ Elle peut parler des dossiers trop éloignés, des déplacements répétés ou d
 
 La précision protège aussi la reconnaissance de ses compétences. Elle ne sert pas à prouver qu'elle reste excellente malgré tout. Elle empêche simplement qu'une difficulté dans une partie du poste soit étendue automatiquement à toutes ses fonctions. Le besoin d'adaptation ne supprime pas sa contribution professionnelle.
 
+Exemples concrets
+
+- La difficulté à atteindre les dossiers devient dans sa phrase « je ne tiens plus l’accueil ».
+- Des déplacements répétés lui font oublier, dans sa description, les usagers qu’elle sait orienter.
+
 ### Les arrangements ponctuels cachent le besoin durable
 
 Céline porte parfois les dossiers ou aide à une tâche. Anaïs apprécie cet appui. Mais si le relais devient fréquent sans discussion, sa collègue peut accumuler une charge non prévue, tandis que l'organisation reste inchangée. Le problème semble résolu parce que quelqu'un compense, et les besoins des deux agentes deviennent moins visibles.
@@ -49,6 +54,11 @@ Elles peuvent signaler ce qui revient et ce qui coûte. Cela ne remet pas en cau
 
 Anaïs garde également le droit de dire qu'un arrangement annoncé n'est pas utilisable. Un équipement peut être présent sans convenir à la tâche ; une pause peut exister sur le planning sans être accessible dans les faits. Ces écarts demandent des exemples et un retour vers les interlocuteurs, plutôt qu'une accusation contre son manque d'adaptation.
 
+Exemples concrets
+
+- Céline transporte souvent les dossiers sans que ce temps apparaisse dans la répartition.
+- Une pause inscrite au planning peut rester inaccessible lorsque personne ne prend le relais au guichet.
+
 ### La demande expose à des questions trop larges
 
 Gabrielle a besoin de comprendre les effets sur le travail et les démarches à engager. Elle n'a pas besoin de devenir la lectrice de chaque examen. Anaïs peut ressentir une pression à tout raconter pour rendre son besoin convaincant. Cette exposition risque de dépasser ce qui lui paraît juste, surtout si l'échange se tient dans un lieu de passage.
@@ -56,6 +66,11 @@ Gabrielle a besoin de comprendre les effets sur le travail et les démarches à 
 Elle peut demander un rendez-vous approprié et distinguer les documents destinés aux professionnels de santé des informations nécessaires à l'organisation. En cas de doute, elle demande conseil sur le circuit. La confidentialité ne devrait pas être improvisée au moment où quelqu'un réclame un détail médical.
 
 Cette limite n'empêche pas de parler franchement des difficultés. Anaïs peut décrire un geste, son retentissement et le besoin d'une évaluation. Une information fonctionnelle peut être précise sans devenir un récit clinique public. Le respect de la vie privée et la recherche d'une adaptation ne sont pas des objectifs incompatibles.
+
+Exemples concrets
+
+- Dans un lieu de passage, Anaïs hésite à montrer des examens pour appuyer sa demande.
+- Une question d’organisation sur le clavier pourrait s’élargir à des détails de traitement qu’elle ne veut pas donner.
 
 ## 3 techniques pour préparer et suivre la démarche
 
@@ -67,6 +82,16 @@ Elle formule ensuite des questions : qui peut évaluer l'installation, comment a
 
 Les événements qui relèvent d'une alerte ou d'une situation de sécurité doivent être traités dans le cadre prévu, sans attendre cette préparation. Le dossier de demande ne devient pas une raison de poursuivre une situation dangereuse. Anaïs conserve les consignes médicales et professionnelles qui la concernent pendant toute la démarche.
 
+Pour essayer dans cette situation
+
+Objectif : Préparer une discussion sur le poste réel.
+
+1. Choisir les moments d’arrivée des dossiers, de classement et de déplacement dans l’arrière-guichet.
+2. Pour chacun, noter la tâche attendue, la gêne concrète et l’appui déjà utile, sans données d’usagers.
+3. Écrire les questions sur l’évaluation de l’installation et l’accès au service de prévention.
+
+Les scènes peuvent nourrir une évaluation sans transformer Anaïs en conceptrice unique de son poste.
+
 ### 2. Identifier les rôles et le circuit de réponse
 
 Avec Gabrielle, elle clarifie ce que la responsable peut traiter directement et ce qui demande un avis ou un autre service. Le médecin du travail, le service de prévention, les ressources humaines ou le référent handicap peuvent avoir des rôles différents selon le besoin et l'organisation. Anaïs demande un interlocuteur concret plutôt qu'une liste générale de possibilités.
@@ -75,6 +100,16 @@ Elle vérifie où transmettre les éléments de santé et ce qu'elle souhaite co
 
 Le portail Mon Parcours Handicap insiste sur l'intérêt d'anticiper les problèmes de santé au travail. Anaïs n'attend donc pas d'être entièrement empêchée pour demander cet examen. L'anticipation ne signifie pas prédire toute l'évolution de sa polyarthrite. Elle signifie traiter les obstacles connus avant qu'ils ne reposent uniquement sur l'urgence et l'improvisation.
 
+Pour essayer dans cette situation
+
+Objectif : Savoir qui peut répondre et à quelles informations.
+
+1. Demander à Gabrielle un interlocuteur concret pour le cadre de prévention.
+2. Distinguer ce que le service peut revoir directement de ce qui nécessite un avis compétent.
+3. Vérifier où transmettre les documents de santé et réserver les échanges d’organisation aux informations utiles.
+
+La démarche peut devenir plus lisible et protéger le périmètre de chaque interlocuteur.
+
 ### 3. Prévoir une suite et une évaluation en situation
 
 Anaïs demande ce qui se passe après l'échange : quel rendez-vous est envisagé, qui reprend contact et comment sera suivie la question ? Une suite compréhensible limite les relances dispersées. Elle peut conserver une trace des demandes et des réponses dans le cadre approprié, sans y mêler les informations personnelles d'autres personnes.
@@ -82,6 +117,16 @@ Anaïs demande ce qui se passe après l'échange : quel rendez-vous est envisag�
 Si une mesure est proposée, l'enjeu est de voir comment elle fonctionne dans l'activité réelle. Anaïs peut faire un retour sur son utilisation, les difficultés restantes et les effets sur la répartition. Un aménagement doit pouvoir être réexaminé lorsque le poste ou la santé change. La première version n'est pas nécessairement la dernière.
 
 Si la réponse tarde ou ne traite pas la difficulté, elle recherche un appui compétent pour comprendre les suites possibles, notamment dans les relais de prévention ou de représentation disponibles. Elle ne transforme pas un échange insuffisant en preuve qu'aucune aide n'existe. Elle n'a pas non plus à engager seule toutes les démarches sans soutien.
+
+Pour essayer dans cette situation
+
+Objectif : Donner une suite à la demande et à son utilisation.
+
+1. Noter le prochain contact et qui reprend la question.
+2. Si une mesure est mise en place, décrire son usage réel et les difficultés restantes.
+3. Si la suite manque, solliciter le relais de prévention ou de représentation approprié pour comprendre les options.
+
+Une trace et un retour en situation peuvent éviter que l’échange reste une promesse générale.
 
 ## Le trajet des dossiers
 

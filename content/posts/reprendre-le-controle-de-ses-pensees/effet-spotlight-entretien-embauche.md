@@ -45,9 +45,9 @@ Exemple concret : un sourire discret du recruteur peut être perçu comme de la 
 
 ### L'hyper-focalisation sur soi
 
-Sous l'influence de ce "projecteur" imaginaire, l'attention de Lucas se verrouille sur ses sensations internes (palpitations, mains moites). Cette concentration excessive réduit l'espace disponible pour réfléchir, argumenter et échanger avec fluidité. L'entretien devient alors une performance que l'on juge en temps réel au lieu d'être une simple conversation professionnelle.
+Sous l'influence de ce « projecteur » imaginaire, Lucas surveille ses palpitations, ses mains et sa posture pendant qu’il voudrait suivre l’échange. Cette attention tournée vers lui laisse moins de place à la question professionnelle. Il peut prendre une sensation pour un événement que les autres voient aussi clairement que lui, alors qu’il ne sait pas ce qu’ils remarquent.
 
-Exemple concret : au lieu d'expliquer une stratégie marketing, Lucas s'observe en train de rougir et finit par perdre le fil de son raisonnement.
+Deux situations permettent de le repérer : en voulant expliquer la campagne de marketing, il pourrait surveiller son rougissement au point de perdre le chiffre qu’il voulait donner ; dans la salle d’attente, ajuster encore la veste sur la cravate pourrait l’empêcher d’entendre qu’on vient le chercher. Dans les deux cas, la tâche devient plus difficile parce qu’une partie de son attention sert à se regarder agir.
 
 ## 3 techniques pour reprendre le contrôle face à l'effet spotlight
 
@@ -67,22 +67,21 @@ Le retour d’une personne renseigne sur cet entretien blanc. Il peut aider Luca
 L'objectif est de rediriger l'attention vers l'extérieur et vers la tâche à accomplir plutôt que de rester bloqué sur soi-même.
 
 Exercice pratique :
-1. Si cela vous convient, remarquez brièvement quelque chose que vous voyez ou entendez, ou le contact de vos pieds sur le sol.
-2. Respirez à votre rythme si cela vous convient, sans vous imposer de blocage ni de durée.
-3. Quand l’entretien commence, revenez à la question et à ce que vous voulez répondre.
+1. Dans le hall, Lucas peut remarquer le contact du fauteuil ou le bruit de la porte, sans inspecter à nouveau la tache. Il peut aussi garder simplement les yeux sur ses notes.
+2. Il laisse sa respiration suivre son rythme, sans blocage ni durée imposée, puis écoute si on l’appelle. Il n’attend pas d’être parfaitement calme pour se lever.
+3. Quand l’entretien commence, il revient à la question et au premier fait qu’il souhaite donner sur le projet marketing, plutôt qu’à l’impression produite par la cravate.
 
 Le [guide de l’OMS sur le stress](https://www.who.int/publications/i/item/9789240003927) propose un ancrage sensoriel. Lucas peut aussi simplement écouter la question et demander un instant pour y répondre.
 
 ### 3. La préparation cognitive et l'auto-compassion
 
-Préparer une phrase simple à utiliser en cas d’hésitation donne à Lucas quelque chose sur quoi s’appuyer.
+Lucas cherche une réponse disponible lorsqu’un mot lui manque, plutôt qu’une assurance qu’il n’hésitera pas. Il peut préparer ce soutien avec le projet marketing qu’il connaît déjà.
 
-Exercice pratique :
-1. Pratiquez le "pré-mortem" : imaginez ce qui vous fait le plus peur (par exemple, oublier le nom d'un logiciel). Préparez une réponse simple : "Le nom m'échappe à l'instant, je vous le préciserai par mail juste après l'entretien."
-2. Utilisez une phrase d'apaisement : "Je fais de mon mieux, ma valeur ne se résume pas à cette interaction." Répétez-la intérieurement.
-3. Préparez trois anecdotes courtes sur votre parcours. Choisissez des exemples dont vous vous souvenez bien et qui illustrent votre travail.
+1. Choisir une difficulté ordinaire, comme oublier le nom d’un logiciel, et écrire une réponse honnête : « Le nom m’échappe, je peux vous le préciser ensuite. » Il n’a pas à imaginer le pire entretien possible.
+2. Relire une phrase descriptive : « J’ai préparé ce projet et je peux demander un instant. » Si une formule rassurante ne lui convient pas, il garde seulement l’action à faire.
+3. Reprendre avec Maxime le début d’une anecdote réelle sur le tableau marketing, puis s’entraîner une fois à demander un moment pour structurer une réponse.
 
-Préparer une réponse peut donner un point d’appui si Lucas hésite. Le stress peut rester présent. Lucas, qui craint souvent de décevoir ses proches, trouve dans cette méthode un moyen de protéger sa motivation sans s'effondrer à la moindre difficulté.
+Cette préparation lui donne des mots et un exemple professionnel accessibles. Elle ne permet pas de prévoir le jugement du recruteur et le stress peut rester présent.
 
 ## Une question plus longue que prévu
 

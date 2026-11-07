@@ -23,35 +23,59 @@ Philippe passe devant la porte, manteau sur le bras. Il demande s’il doit l’
 
 Un coût irrécupérable est une dépense passée qu’on ne peut plus récupérer, quelle que soit la décision actuelle. Dans les [expériences de Hal Arkes et Catherine Blumer](https://www.sciencedirect.com/science/article/pii/0749597885900494), un investissement passé pouvait inciter à poursuivre une activité, même sans avantage futur correspondant. Une crainte de paraître gaspiller peut y contribuer ; ce n’est pas l’unique explication.
 
-Dans le cas de Margot, son passé de directrice commerciale agit comme une ancre. Elle ne garde pas ces dossiers parce qu'ils sont utiles à son futur de coach, mais parce que elle espère que garder ces papiers donnera une autre issue à l’effort déjà fourni. Ce mécanisme cognitif nous pousse à finir un mauvais film au cinéma simplement parce qu'on a payé le billet, ou à rester dans une relation malheureuse parce qu'on y a consacré dix ans de sa vie. Le biais du coût irrécupérable face à une décision importante nous fait regarder dans le rétroviseur alors que la route se trouve devant nous.
+Pour Margot, la question est de savoir si l’effort déjà fourni devient la seule raison de conserver les archives. Un document peut encore servir, devoir être gardé ou avoir une valeur affective présente. Le conserver ne suffit donc pas à identifier le biais ; il faut regarder la raison du choix et ses conséquences actuelles.
 
 ## Manifestations du biais face à une décision importante
 
-### 1. La peur de l'échec et du gaspillage
+### 1. L’effort passé devient une raison de conserver
 
-Lorsque nous faisons face à un tournant de vie, le biais se manifeste par une culpabilité intense à l'idée de gâcher. Margot se dit que si elle ne valorise pas son expérience commerciale dans son nouveau métier, elle aura gaspillé sa jeunesse. Cette sensation de gâchis occulte le fait que les compétences acquises, comme l'empathie, l'écoute ou la stratégie, sont déjà en elle, indépendamment des supports matériels. La décision de jeter les archives devient alors symboliquement la décision d'échouer, alors qu'en réalité, c'est un acte de libération.
+Le problème n’est pas que Margot garde une trace de son ancien travail. Il apparaît si les soirées déjà consacrées à un dossier deviennent sa seule raison de lui réserver encore de la place, sans regarder son usage actuel. Le choix peut aussi avoir une valeur affective présente, à distinguer de cette logique.
 
-### 2. La justification de la persévérance irrationnelle
+Elle s’apprête à recycler la courbe de 2018 puis la repose en voyant ses annotations : elle pense aux soirées qu’elle y a passées. Elle hésite aussi devant le trophée en se rappelant le salon où elle l’a reçu. Pour l’un comme pour l’autre, elle peut demander ce qui justifie de le garder aujourd’hui, sans conclure d’avance qu’il faut le jeter.
 
-Ce biais nous pousse à inventer des raisons logiques pour continuer à porter un fardeau devenu inutile. On se convainc que l'on pourrait avoir besoin de ces vieux contacts, que ces méthodes pourraient servir un jour, ou que l'on doit honorer le chemin parcouru. Dans une transition professionnelle, cela se traduit par une difficulté à investir pleinement dans de nouveaux outils ou de nouvelles formations, car une partie de notre énergie reste mobilisée pour maintenir en vie l'ancien système. Margot se demande si elle garde ces papiers pour un usage précis ou parce qu’elle a du mal à tourner la page.
+### 2. Réorganiser reporte la décision sur l’usage
 
-### 3. Le dilemme de la légitimité
+Margot peut entretenir la pile plutôt que choisir. Le classement donne une activité visible, mais ne dit pas si le dossier doit rester dans le bureau. Une justification devient peu utile lorsqu’elle demeure vague et ne peut être reliée à aucun besoin actuel.
 
-Le coût irrécupérable crée une distorsion sur notre valeur personnelle. On pense que notre légitimité provient du temps passé dans une direction, plutôt que de la pertinence de nos actions présentes. Margot craint que sans ses titres passés, elle ne soit plus rien. Elle s'accroche aux preuves de son ancien succès pour compenser le vertige de sa nouvelle activité. Ce biais transforme le passé en une prison dont les barreaux sont faits de nos propres victoires d'autrefois.
+Elle empile les papiers dans un autre ordre pendant une demi-heure sans dégager la chaise. Elle envisage ensuite de repousser le carton dans le placard, ce qui conserverait le même obstacle pour le prochain rendez-vous. Deux déplacements différents laisseraient ainsi la décision à plus tard.
+
+### 3. Les anciennes preuves de réussite portent la légitimité présente
+
+Margot peut craindre qu’en retirant un objet elle renie son expérience. Pourtant, la place du trophée et la pertinence d’une compétence pour le coaching sont deux questions distinctes. Ni conserver ni donner un objet ne valide à soi seul sa nouvelle activité.
+
+Le trophée lui rappelle une reconnaissance professionnelle précise. La fiche de préparation d’entretien peut, elle, servir à préparer un échange actuel. Le premier peut être gardé pour sa valeur personnelle et la seconde pour son usage, sans devoir leur attribuer la même fonction devant Julie.
 
 ## Techniques pour agir face au biais du coût irrécupérable
 
-### 1. La règle du coût nul
+### 1. La règle du coût nul, avec les besoins actuels
 
-Cette technique consiste à imaginer que vous partez de zéro aujourd'hui, sans aucun passé. Posez-vous la question suivante : si je n'avais pas passé vingt-cinq ans dans le commerce et que je découvrais ces dossiers pour la première fois dans ce bureau, est-ce que je choisirais de les garder ? Si la réponse est non, demandez-vous si un objet a aujourd’hui une utilité, une valeur affective ou doit être conservé. Le simple fait de le garder ne suffit pas à identifier un biais. Pour Margot, cela signifie s'autoriser à regarder son bureau comme une page blanche. L'exercice consiste à lister les trois éléments essentiels pour sa séance de demain et à constater que les trophées de 2014 n'en font pas partie.
+La question imaginaire sert à regarder ce que Margot choisirait aujourd’hui. Elle ne lui demande pas d’effacer son passé.
 
-### 2. Le recadrage par l'apprentissage
+1. Choisir un seul document et se demander si elle lui réserverait cette place sans les heures déjà investies.
+2. Vérifier séparément son usage actuel, sa valeur affective et une éventuelle obligation de conservation avant tout tri.
+3. Décider pour ce document : conserver, déplacer, vérifier avant décision ou recycler si cela convient ; laisser le reste du carton hors de l’exercice.
 
-Plutôt que de voir les ressources investies comme une perte, il s'agit de les transformer en frais de scolarité pour la vie. Au lieu de se dire que l'on a perdu vingt-cinq ans, on peut considérer que l'on a payé ce temps pour acquérir la sagesse nécessaire à sa mission d'aujourd'hui. L'investissement est déjà consommé, vous ne le récupérerez pas en restant immobile. L'exercice pratique est de noter sur une feuille tout ce que ces années ont apporté en termes de savoir-être, puis de se séparer des supports matériels pour ne garder que l'immatériel.
+Cette distinction peut rendre le choix plus clair. Elle permet aussi de garder un objet sans que sa conservation soit traitée comme un échec.
 
-### 3. La technique du futur soi
+### 2. Séparer un apprentissage du support qui le représente
 
-Projetez-vous dans deux ans, alors que votre nouvelle activité est florissante. Imaginez votre futur bureau. Est-ce que ce personnage que vous êtes devenu s'encombre encore de ces archives ? Cette projection permet de se détacher de l'émotion présente liée à la perte. Margot peut visualiser son cabinet de coaching, serein et épuré, où elle reçoit ses clients. Elle réalise alors que le biais du coût irrécupérable face à une décision importante n'est qu'un mirage qui l'empêche d'atteindre cette vision. En agissant comme si elle y était déjà, elle facilite le tri actuel.
+Margot cherche ce qu’elle souhaite réutiliser de son expérience sans obliger chaque archive à rester près de sa chaise.
+
+1. Prendre la fiche d’entretien et nommer le geste qu’elle pourrait encore utiliser, par exemple préparer des questions adaptées.
+2. Noter ce que le nouveau cadre de coaching demande de vérifier ou d’apprendre, plutôt que déclarer toutes ses compétences déjà acquises.
+3. Choisir où garder la fiche et ce qu’il convient de faire d’un autre support devenu sans usage, sans se forcer à le supprimer aujourd’hui.
+
+La note peut distinguer ce qu’elle sait faire d’une preuve matérielle de son ancien poste. Elle n’efface ni les difficultés ni le coût réel de la transition.
+
+### 3. Imaginer un bureau utilisable, sans prédire l’activité future
+
+Le « futur soi » reste ici une manière de décrire l’usage souhaité du bureau pour la prochaine séance.
+
+1. Imaginer seulement l’arrivée de Julie : une chaise accessible, une place pour son sac et les documents nécessaires.
+2. Regarder quel objet gêne cet usage et quel espace serait disponible pour le déplacer sans porter un carton trop lourd seule.
+3. Choisir un aménagement limité, puis vérifier que le passage convient ; reporter une décision affective qui n’empêche pas la séance.
+
+Cette projection peut guider un rangement concret. Elle n’exige ni un cabinet florissant dans deux ans ni une séparation définitive avec les souvenirs.
 
 ## Ce qui tient dans une chemise
 

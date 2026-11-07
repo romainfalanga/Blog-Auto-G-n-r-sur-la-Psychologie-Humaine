@@ -22,7 +22,6 @@ La question des dépenses réveille la discussion familiale récente. Samira com
 Au bureau d’accueil, elle demande comment fonctionne l’atelier. Une séance de découverte est proposée sans matériel à acheter, mais la place et l’horaire doivent être confirmés. Samira note ces conditions. Son souhait devient une question concrète à examiner, avec la possibilité d’un essai et celle d’un report qui ne signifierait pas l’abandon définitif de ce qu’elle aime.
 
 ## Qu’est-ce que faire une place à un projet reporté ?
-
 Faire une place à un projet reporté consiste à lui donner une forme d’action compatible avec les conditions présentes, sans exiger qu’il soit immédiatement réalisable dans toute son ampleur. Le report peut venir de contraintes matérielles, de responsabilités, d’incertitudes ou d’une envie encore à préciser. Il ne prouve pas automatiquement un manque de motivation.
 
 Peter Gollwitzer étudie les intentions de mise en œuvre, c’est-à-dire des plans qui relient une situation repérable à une action choisie. Ce cadre aide à réfléchir au passage d’une intention à un geste. Il ne permet pas de créer du temps, une garde ou de l’argent. Une occasion doit réellement être disponible pour qu’un plan puisse y prendre appui.
@@ -32,31 +31,41 @@ Samira ne peut donc pas résoudre son problème en inscrivant simplement « dess
 Un projet personnel n’a pas besoin de prouver son utilité économique pour être légitime. Samira peut aimer dessiner sans devoir vendre ses dessins ou transformer cette pratique en formation. L’activité ne devient pas davantage un traitement de sa précarité. Elle représente une dimension de sa vie qui mérite d’exister à côté des besoins matériels, et non de les remplacer.
 
 ## Comment un projet reste-t-il toujours pour plus tard ?
-
 ### Attendre que toutes les conditions soient réglées
-
 Samira se dit qu’elle pourra penser à l’atelier lorsque son travail et son logement seront parfaitement stables. Ce souhait de sécurité est compréhensible. Il risque pourtant de fixer une condition sans date ni critère clair. Chaque difficulté nouvelle pourrait repousser encore toute activité qui ne répond pas directement à une urgence.
 
 La distinction utile porte sur les conditions réellement indispensables à un premier essai. Une garde sûre et un coût supportable comptent. Posséder déjà du matériel professionnel ou savoir dessiner avant de venir n’est peut-être pas demandé. Il faut vérifier plutôt que supposer. Une information précise peut montrer une possibilité modeste, ou confirmer un obstacle qu’il serait injuste de nier.
 
 Samira garde le droit de reporter si les conditions ne conviennent pas. On ne soutient pas une envie en lui demandant de sacrifier un besoin essentiel pour la prouver. Le projet peut rester vivant sous une forme différente : regarder une démonstration gratuite, dessiner quelques minutes avec un crayon déjà présent ou conserver simplement les coordonnées pour une autre période.
 
-### Confondre essai et engagement durable
+Exemples situés :
 
+- Samira attend une stabilité parfaite du travail et du logement avant même de demander le prix de la découverte.
+- Elle peut croire qu'il faut déjà du matériel de dessin, alors que les conditions de cette séance restent à vérifier.
+
+### Confondre essai et engagement durable
 En lisant l’affiche, Samira imagine immédiatement une inscription régulière, des séances manquées et un coût futur. Elle essaie de résoudre toute l’année avant de demander comment se passe une découverte. Cette anticipation agrandit le projet jusqu’à le rendre impossible. Elle n’a pourtant pas encore vérifié si elle apprécie le groupe ou l’activité proposée.
 
 Un essai peut avoir sa propre fin. Participer une fois ne promet pas de poursuivre, et ne pas revenir ne retire pas la valeur de l’expérience. Samira peut aimer observer les objets et ne pas aimer le rythme de l’atelier. Le résultat lui apprendrait quelque chose sur ses préférences, au lieu de constituer un échec à persévérer.
 
 Les organisateurs ont aussi besoin de conditions claires. Une place réservée, une annulation et le prêt de matériel impliquent des règles à respecter. Samira peut les demander sans accepter un engagement qu’elle ne pourrait tenir. La souplesse utile se construit dans un accord réel, et non dans une promesse vague de disponibilité permanente.
 
-### Faire de l’envie une obligation supplémentaire
+Exemples situés :
 
+- L'affiche d'une séance lui fait imaginer toutes les absences possibles sur une année d'atelier.
+- Réserver un essai pourrait lui sembler promettre de revenir chaque semaine, même si aucun accord de ce type n'est demandé.
+
+### Faire de l’envie une obligation supplémentaire
 Samira connaît déjà la fatigue des listes. Une activité choisie pourrait devenir une nouvelle case à réussir si elle se reproche chaque semaine de ne pas progresser. Elle risquerait alors de retrouver devant le papier la même surveillance de ses performances que devant ses démarches. Le dessin perdrait l’espace de curiosité qu’elle y cherche.
 
 Elle peut définir un critère d’essai différent : est-ce que cette expérience m’intéresse et comment se passe-t-elle dans ma journée ? Une feuille maladroite n’est pas une réponse négative à ces questions. L’apprentissage comprend des hésitations. Le plaisir peut aussi être variable, sans que cela signifie que le projet est faux ou qu’il faudrait s’y accrocher davantage.
 
-## 3 techniques pour essayer sans se mettre une nouvelle pression
+Exemples situés :
 
+- Un pied de chaise trop long devient pour elle la preuve qu'elle devrait abandonner, au lieu d'être un élément du premier essai.
+- Elle peut se reprocher de ne pas dessiner dans une semaine de missions chargée et transformer cette envie en tâche supplémentaire.
+
+## 3 techniques pour essayer sans se mettre une nouvelle pression
 ### 1. Décrire ce qui attire dans le projet
 
 Complétez une phrase concrète : « Dans cette activité, j’ai envie de… » Samira choisit « regarder les objets et essayer leurs formes ». Cette formulation l’aide à distinguer son intérêt de ce qu’elle pense devoir accomplir. Elle ne cherche ni à devenir experte ni à justifier une reconversion. Le projet répond d’abord à une curiosité présente.
@@ -82,7 +91,6 @@ Avant de commencer, décidez ce que vous examinerez après l’expérience. Sami
 L’étape suivante peut être de recommencer, de modifier ou de suspendre. Aucun de ces choix n’a besoin d’être présenté comme une grande décision identitaire. Une pratique personnelle gagne parfois à rester légère. Samira peut garder un dessin dans sa pochette sans lui demander de prouver qu’elle avance enfin dans sa vie.
 
 ## La chaise qui danse
-
 L’agence confirme un horaire compatible avec la découverte. Mireille accepte de rester avec Noé pendant le créneau précis, et Samira vérifie qu’elle peut revenir à temps. Elle confirme sa place. Ces accords ne constituent pas une disponibilité générale pour les semaines suivantes. Ils rendent possible cette séance particulière, avec des limites connues de chacune.
 
 Devant la chaise installée au milieu du groupe, Samira commence par tracer un pied trop long. Elle voudrait retourner la feuille pour cacher le dessin. L’animatrice lui propose de regarder l’espace entre les barreaux plutôt que de corriger tout le contour. Samira essaie et découvre une manière nouvelle d’observer. Elle n’a pas soudain du talent à prouver ; elle apprend un geste qui l’intéresse.

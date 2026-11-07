@@ -39,11 +39,15 @@ La compétence peut enfin être collective. Éloi agit dans un cadre où d'autre
 
 Cela ne signifie pas que chaque habitude quotidienne doit devenir une ligne de dossier. Il faut choisir ce qui répond à la situation visée et peut être illustré. Éloi cherche un exemple où son action change quelque chose : une limite est reconnue, une information est obtenue ou une suite est rendue possible. Ce critère l'aide à distinguer une description crédible d'une longue liste d'adjectifs qu'il aurait du mal à expliquer.
 
+Éloi retrouve aussi ce problème dans la fiche de parcours : il pourrait laisser vide la ligne sur la vérification d’informations parce qu’il ne fait que comparer un bon et une référence. À côté du critère demandé à Cédric, ce second exemple montre une action discrète mais descriptible. Pour la retenir, il doit dire ce qu’il compare et quand il cherche un avis, sans prétendre maîtriser toute la réception.
+
 ### Une aide reçue semble retirer toute part personnelle
 
 Lors de la livraison, Agnès prend la décision attendue. Éloi conclut qu'il ne fait rien d'important. Il oublie qu'il repère l'écart, ne valide pas ce qu'il ne connaît pas et transmet les éléments utiles. La décision de la responsable reste bien la sienne. La contribution d'Éloi existe aussi. Reconnaître l'une ne demande pas d'effacer l'autre.
 
 La description peut garder cette répartition : il identifie une incertitude et cherche le bon relais dans les règles du poste. Cette phrase précise une capacité et une limite. Elle est plus utile que « je gère les livraisons », qui pourrait suggérer une responsabilité plus large. Elle est également plus juste que « je ne sais rien faire seul », qui ne permet pas de comprendre sa contribution ni son prochain besoin d'apprentissage.
+
+Quand Cédric valide le lot préparé, Éloi pourrait également dire que le chef a tout réussi. Pourtant, le chef contrôle et l’apprenti prépare selon le repère. À la réception, Agnès prend la décision sur la référence ; devant le lot, Cédric évalue le résultat. Dans ces deux répartitions, l’appui et l’action personnelle peuvent être décrits séparément, sans revendiquer les responsabilités de l’autre.
 
 ### Le nouveau contexte fait oublier les ressemblances utiles
 

@@ -34,27 +34,51 @@ Dans cette grille, les signes plus et moins représentent l’acceptation et la 
 
 Dans cette configuration, l'individu se perçoit comme moins compétent ou moins légitime que ses interlocuteurs. C'est la posture typique de la personne qui cherche à plaire et qui, comme Fabien, tente d'éviter le conflit à tout prix. Au travail, cela se traduit par une incapacité à dire non, des excuses fréquentes pour des erreurs inexistantes et une tendance à sur-justifier ses décisions. Le salarié se sent chanceux d'être là et craint en permanence le jugement de ses collègues ou de sa hiérarchie, qu'il place sur un piédestal. Cette position nourrit l'épuisement professionnel, car l'individu utilise ses ressources pour satisfaire les attentes supposées des autres. Fabien identifie ici ce qu'il appelle sa nappe phréatique invisible : ce besoin de s'effacer qu'il observait déjà chez son père lors de leurs déjeuners silencieux, où l'évitement du conflit tenait lieu de communication.
 
+**Deux exemples du brouillon :** Fabien présente des excuses avant d’avoir identifié le problème de Julie. Il envisage de promettre un délai qu’il n’a pas le pouvoir d’accorder. La grille l’aide ici à relire ces formulations, sans mesurer sa personnalité ni diagnostiquer un épuisement.
+
 ### 2. La position de domination et de mépris (+/-)
 
 Cette position figure une manière de traiter le point de vue de l’autre comme inférieur. Fabien se souvient du consultant qui a écarté sa proposition. Il peut décrire ce qui a été dit et l’effet de l’échange sans conclure aux insécurités du consultant ni lui attribuer un biais.
+
+**Deux situations possibles :** répondre à Julie qu’elle devrait déjà savoir appliquer la directive écarterait sa question concrète. Lui renvoyer seulement le fichier sans examiner les horaires traiterait son information comme sans intérêt. Constater cela ne permet pas de lire ses intentions ou celles de Fabien.
 
 ### 3. La position de résignation et de retrait (-/-)
 
 Ce repère désigne une impression de ne plus pouvoir compter ni sur soi ni sur les autres dans une situation. Un retrait au travail peut aussi refléter une charge excessive, un désaccord persistant ou l’absence de réponse à des alertes. Il ne permet pas de conclure à un épuisement professionnel.
 
+**Deux formulations possibles :** « Mon explication ne servira à rien et personne ne cherchera de solution » fermerait les deux côtés de l’échange. Laisser le brouillon sans réponse parce que les deux horaires semblent insolubles pourrait maintenir la question ouverte sans demande d’aide. Un délai nécessaire ou un signalement resté sans réponse a toutefois un autre contexte à examiner.
+
 ## Techniques pour évoluer vers une posture constructive
 
 ### 1. La technique du miroir de valeur objective
 
-Cette méthode consiste à dissocier ses compétences techniques de sa valeur intrinsèque en tant qu'être humain pour sortir de la position -/+. Pour la mettre en œuvre, vous pouvez lister par écrit trois faits concrets et vérifiables de votre réussite professionnelle récente, sans utiliser d'adjectifs qualificatifs. Par exemple, au lieu de noter que vous avez été gentil avec l'équipe, indiquez que vous avez finalisé le rapport de médiation dans les délais impartis. En visualisant ces faits, vous vous entraînez à réévaluer votre position à + (je suis capable) sans attendre la validation extérieure. L'exercice consiste à relire cette liste dès qu'une sensation d'infériorité apparaît lors d'une réunion.
+**Objectif :** Rappeler sa contribution sans réduire la valeur de Julie à son accord.
+
+1. Noter un fait vérifiable sur son travail : le dossier comporte une date arrêtée et une pièce qu’il doit encore transmettre.
+2. Distinguer ce qu’il sait expliquer de ce qu’il doit demander à Julie sur la relève.
+3. Préparer une réponse qui apporte l’information disponible et reconnaît la question restante, sans excuse pour une faute inexistante.
+
+Les faits peuvent soutenir une réponse plus précise. Ils ne mesurent ni la valeur humaine de Fabien ni une position « plus » objective.
 
 ### 2. La reformulation empathique bidirectionnelle
 
-Fabien peut répondre à Julie avec les mots de leur travail : « Si je comprends bien, l’atelier doit garder deux personnes au poste pendant la bascule. De mon côté, je dois annoncer une date. Est-ce qu’on peut revoir ensemble les contraintes de chaque équipe ? » Cette réponse permet de mettre le désaccord sur la table sans réduire l’échange à une formule.
+**Objectif :** Mettre les contraintes des deux fonctions dans la même discussion.
+
+1. Reprendre la question explicite de Julie : qui pourra tenir le poste pendant la bascule ?
+2. Expliquer de son côté la date et la pièce manquante, sans promettre un délai qu’il ne peut accorder.
+3. Proposer de regarder ensemble la relève et vérifier que ce point répond bien à sa difficulté.
+
+La reformulation peut rendre le désaccord examinable. Respecter les deux personnes ne garantit pas une solution gagnante pour chacun et ne remplace pas les moyens nécessaires.
 
 ### 3. Prendre un moment avant de répondre
 
-Avant de répondre, vous pouvez prendre un moment pour remarquer un son ou le contact de vos pieds avec le sol. Si cette pause est utile, relisez le message et distinguez la demande explicite de votre première interprétation. Ce geste ne mesure aucun état du moi et ne traite pas un risque lié à l’organisation.
+**Objectif :** Relire une demande avant d’envoyer une réponse dictée par la première impression.
+
+1. Laisser le brouillon ouvert un instant et choisir un repère confortable, comme le contact des pieds au sol, si cela aide.
+2. Relire le message complet en séparant « Je ne vois pas comment » des horaires et de la question qui suivent.
+3. Vérifier les pièces jointes puis choisir de répondre ou de demander une précision, sans faire de la pause une obligation.
+
+Ce temps peut faciliter une lecture plus complète. Il ne mesure aucun état du moi et ne traite pas un risque organisationnel ou des violences au travail.
 
 ## La directive passe par l’atelier
 

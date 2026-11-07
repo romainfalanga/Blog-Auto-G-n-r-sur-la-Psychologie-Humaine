@@ -22,7 +22,6 @@ Chantal lui propose de regarder les documents à la pause. Samira répond sèche
 Dans le local des casiers, elle pose les deux versions côte à côte. La différence tient en quelques chiffres, mais elle déplace tout le trajet de sortie d’école. Samira veut qu’un adulte entende cette conséquence sans la réduire à une mère qui se complique la vie. Sa colère lui indique ce qui doit rester au centre : son temps n’est pas une réserve disponible sans discussion.
 
 ## Qu’est-ce que la colère face à une injustice ?
-
 La colère face à une injustice est une réaction émotionnelle à une situation perçue comme contraire à un traitement équitable ou à un besoin légitime. Elle peut mobiliser l’attention et l’envie d’agir. Elle ne garantit pas que toute interprétation soit exacte, mais elle ne constitue pas non plus la preuve qu’une personne exagère ou pense mal.
 
 Dans des recherches expérimentales sur l’action collective, Martijn van Zomeren et ses collègues étudient le rôle de la colère liée au groupe et du sentiment de pouvoir agir ensemble. Ces travaux montrent l’intérêt de distinguer émotion et ressources d’action. Ils ne permettent pas de prévoir la réaction de Samira ni de lui imposer un engagement collectif lorsqu’elle cherche d’abord à protéger son travail.
@@ -32,33 +31,43 @@ Ici, l’injustice décrite appartient aux faits de la fiction : une modificatio
 Réguler l’expression de la colère signifie choisir comment agir avec elle, pas renoncer à ce qu’elle signale. On peut suspendre une réponse pour préserver sa sécurité et poursuivre une demande plus tard. On peut aussi parler avec fermeté. Le bon choix dépend notamment du rapport de pouvoir, des soutiens présents et des conséquences possibles, pas d’une obligation générale de rester agréable.
 
 ## Comment la colère face à l’injustice se manifeste-t-elle au travail ?
-
 ### L’envie de prouver immédiatement
-
 Samira serre le planning entre ses doigts. Elle pense qu’il faut montrer tout de suite qu’elle n’invente rien. Cette urgence s’explique : le responsable lui attribue implicitement la faute. Elle souhaite rétablir le fait avant qu’une version défavorable s’installe. Son désir de preuve correspond à un enjeu réel de reconnaissance et de confiance.
 
 Dans cet état, elle peut néanmoins perdre le fil de ce qu’elle demande. Elle commence à raconter chaque difficulté de garde de la semaine. L’interlocuteur peut alors déplacer la conversation vers sa vie familiale, alors que le point initial concerne une modification de planning. Garder un fait précis aide à ne pas laisser l’ensemble de sa situation devenir le sujet à juger.
 
 Cela ne veut pas dire que les conséquences personnelles sont hors sujet. Elles expliquent pourquoi une heure compte. Samira peut les nommer brièvement sans défendre chaque choix familial. Elle souhaite une réponse sur cet horaire et sur la manière d’être informée, pas une évaluation de son aptitude à concilier seule toutes les contraintes.
 
-### La colère cherche un destinataire accessible
+Exemples situés :
 
+- Devant le responsable, Samira pourrait raconter tout le trajet de l'école avant de montrer les deux versions du planning.
+- Au vestiaire, elle peut vouloir envoyer immédiatement un message collectif, alors qu'elle souhaite d'abord vérifier quelle version a été communiquée.
+
+### La colère cherche un destinataire accessible
 Chantal est présente, disponible et peu menaçante. Samira lui répond donc plus vivement qu’au responsable. Ce déplacement est compréhensible dans un rapport de pouvoir inégal, mais il peut fragiliser un appui utile. Reconnaître ce geste donne l’occasion de réparer la relation sans retirer sa plainte initiale.
 
 Elle peut dire : « Je te réponds mal alors que tu essaies de m’aider. Je suis en colère pour le planning. » Chantal n’est pas obligée de tout accepter. Une émotion justifiée n’accorde pas un droit illimité sur les proches ou les collègues. La réparation porte sur la manière de leur parler, pas sur l’obligation de devenir moins sensible à l’injustice.
 
 À la maison, un risque semblable apparaît lorsque Noé prend du temps pour mettre ses chaussures. La lenteur de l’enfant n’est pas la cause du planning modifié. Samira peut lui donner une consigne simple puis réserver la discussion professionnelle à un autre adulte. Elle garde sa responsabilité relationnelle sans transformer la colère elle-même en faute honteuse.
 
-### Le pouvoir d’agir paraît tout ou rien
+Exemples situés :
 
+- Lorsque Chantal propose de comparer les feuilles, Samira lui répond sèchement comme si elle avait décidé du changement.
+- À la maison, une chaussure de Noé laissée dans le passage pourrait recevoir un reproche nourri par le conflit du magasin ; l'enfant n'en est pourtant pas responsable.
+
+### Le pouvoir d’agir paraît tout ou rien
 Samira imagine deux options : protester devant tout le magasin ou se taire définitivement. Cette opposition laisse peu d’espace à une action proportionnée. Entre ces deux extrêmes, elle peut vérifier des documents, demander un échange, rechercher une information professionnelle ou s’appuyer sur une personne de confiance.
 
 Ces options ne sont pas égales en coût ni en sécurité. Être intérimaire limite sa marge. Une personne installée dans un emploi stable pourrait sous-estimer ce que représente une demande pour elle. Samira n’a pas à démontrer son courage en prenant un risque qu’une autre ne porterait pas à sa place.
 
 L’absence de protestation publique ne vaut donc pas consentement. Elle peut être une décision provisoire pour préserver une ressource essentielle. L’enjeu est de garder si possible une trace de ce qui pose problème et un chemin pour y revenir, plutôt que de conclure qu’elle n’aurait rien à dire parce qu’elle ne le dit pas immédiatement.
 
-## 3 techniques pour choisir une réponse sans effacer l’injustice
+Exemples situés :
 
+- Samira imagine devoir contester devant toute l'équipe ou ne plus rien dire, sans envisager une demande brève dans un échange privé.
+- Si elle doit partir chercher Noé, conserver les deux plannings pour un contact ultérieur peut rester possible sans accepter le changement.
+
+## 3 techniques pour choisir une réponse sans effacer l’injustice
 ### 1. Relier le fait, son effet et la demande
 
 Sur un papier ou mentalement, formez trois phrases courtes. Samira retient : l’horaire reçu et l’horaire affiché diffèrent ; le changement empêche la récupération de son enfant comme prévu ; elle demande quel arrangement est possible aujourd’hui et comment les changements seront communiqués. Elle peut s’en tenir à ces phrases pendant l’échange.
@@ -84,7 +93,6 @@ Précisez ce que vous attendez : écouter, regarder un document, accompagner un 
 Si aucun relais n’est disponible immédiatement, garder les éléments peut constituer une étape suffisante pour aujourd’hui. Samira ne doit pas porter l’amélioration de tout le magasin à elle seule. La réponse collective reste souhaitable lorsqu’elle est possible ; elle ne devient pas une obligation morale ajoutée à une journée déjà chargée.
 
 ## Les deux plannings restent pliés
-
 À la pause, Samira commence par reparler à Chantal de sa réponse sèche. Sa collègue accepte l’explication et regarde les plannings. Elles constatent la différence sans spéculer sur les intentions du responsable. Samira prépare sa demande et choisit de ne pas mener l’échange devant les clients. Ce choix correspond à sa situation, pas à une disparition de sa colère.
 
 Le responsable accepte de revoir l’organisation de cette fin de journée. Il ne reconnaît pas clairement le problème de communication et la discussion reste insatisfaisante. Samira obtient pourtant une réponse praticable pour récupérer Noé. Elle garde les deux documents et demande par quel canal seront transmis les changements suivants. Aucun accord général n’est encore acquis.

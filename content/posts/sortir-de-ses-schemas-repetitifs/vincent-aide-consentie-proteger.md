@@ -49,6 +49,8 @@ Vincent peut accepter que son intention et l’effet du geste diffèrent. Il sou
 
 Il reste également libre de proposer un autre appui plus tard. Un refus maintenant n’interdit pas toute aide dans le séjour. Cédric peut lui demander de porter un sac après l’exposition ou de vérifier un horaire. La relation ne doit pas choisir entre une prise en charge complète et une disponibilité retirée parce qu’un premier geste est refusé.
 
+Le non aux poignées pourrait lui faire refuser ensuite de porter la brochure demandée ; le souhait de Cédric de répondre lui-même à l’accueil pourrait lui faire retirer toute participation au choix du passage. Dans les deux cas, il donnerait à un refus précis une portée qu’il n’a pas.
+
 ### La protection absorbe les préférences de celui qui aide
 
 Vincent voudrait quitter le passage parce qu’il trouve la foule désagréable. Il peut nommer cette préférence au lieu de l’attribuer à Cédric. « J’aimerais qu’on se mette sur le côté pour regarder le plan » exprime son besoin. « Tu seras mieux ailleurs » prétend connaître celui de son compagnon. Les deux phrases n’ouvrent pas la même discussion.

@@ -33,29 +33,62 @@ Dans cette scène, la séparation et la boîte retrouvée rapprochent deux momen
 
 L’absence de Samir peut laisser un vide, même si Djamila a voulu partir et se sait plus en sécurité. Elle peut ressentir du manque, du soulagement ou de la colère. Aucune de ces émotions ne l’oblige à reprendre contact ni ne prouve une blessure ancienne.
 
+Exemples situés :
+
+- Devant le carton presque terminé, Djamila peut ressentir un manque sans souhaiter le retour de Samir.
+- La boîte de son acte d’adoption peut susciter des questions sur les récits connus sans constituer une explication de sa séparation.
+
 ### Le retour des schémas de sauvetage
 
 Djamila repense à ses efforts pour anticiper les réactions de Samir. Elle se sent parfois coupable de n’avoir pas pu le faire changer. Ses efforts et son métier d’aide aux autres ne la rendent pas responsable de ses actes ; la violence n’était pas un problème qu’elle pouvait résoudre en s’adaptant davantage.
+
+Exemples situés :
+
+- Elle peut imaginer qu’une autre adaptation de sa part aurait changé Samir ; cette hypothèse ne la rend pas responsable de ses violences.
+- Son métier d’aide aux femmes peut lui donner envie de chercher encore une solution pour autrui au moment où elle a besoin d’une pause pour elle.
 
 ### L'hypervigilance et la méfiance protectrice
 
 Djamila remarque qu’elle hésite parfois à accepter un geste de gentillesse d’Amina. Elle peut se donner le temps d’observer leur relation et choisir ce qu’elle a envie de dire, sans devoir rattacher chaque hésitation à un événement précis.
 
+Exemples situés :
+
+- Le bruit du palier lui fait serrer la feuille, puis elle reconnaît les pas du voisin ; cette sensation ne tranche pas à elle seule la sécurité du lieu.
+- Chez Amina, elle peut hésiter entre parler du carton et rester sur un sujet ordinaire, sans devoir justifier ce choix par son passé.
+
 ## 3 techniques pour dialoguer avec l'enfant intérieur
 
-Les idées suivantes sont des façons facultatives de réfléchir au présent. On peut les interrompre si elles ravivent des souvenirs pénibles.
+Les propositions suivantes restent facultatives ; elles portent sur des choix actuels et ne demandent pas de revisiter seul une violence.
 
 ### 1. Écrire ou dessiner comme on en a envie
 
-Écrivez ou dessinez avec la main que vous préférez. Djamila choisit la gauche parce que le trait lui paraît plus libre. Elle se demande ce qui lui ferait du bien aujourd’hui. Changer de main ne révèle ni une vérité cachée ni un souvenir fiable.
+Objectif : Choisir une forme d’expression actuelle sans chercher de vérité cachée.
+
+1. Prendre une feuille si elle le souhaite et utiliser la main qu’elle préfère ; Djamila peut essayer la gauche sans lui attribuer un pouvoir particulier.
+2. Tracer quelques formes ou noter ce qui aiderait aujourd’hui, sans reconstituer les années inconnues autour de l’adoption.
+3. Garder la feuille, la ranger ou arrêter selon ce qu’elle apporte, puis choisir une suite concrète comme préparer le départ chez Amina.
+
+Utilité possible : Le support peut rendre un souhait plus facile à nommer. Le trait ne vérifie ni souvenir, ni blessure d’abandon, ni cause de la séparation.
 
 ### 2. Revenir à la pièce où l’on se trouve
 
-Si cela vous convient, remarquez un détail familier autour de vous, comme une couleur ou le contact d’une tasse. Le [guide de l’OMS](https://tdr.who.int/home/our-work/global-engagement/9789240003927) propose de revenir à l’environnement immédiat lorsqu’on est pris dans des pensées difficiles. Il n’est pas nécessaire d’imaginer la scène qui a fait le plus mal.
+Objectif : Retrouver un repère extérieur confortable avant la prochaine action.
+
+1. Si le lieu est sûr, choisir un détail de la cuisine, comme la couleur d’un dessin d’Adam.
+2. L’observer brièvement, sans fermer les yeux ni imaginer une scène pénible ; bouger ou arrêter si le malaise augmente.
+3. Revenir au geste choisi : ranger l’acte, prendre son sac ou demander une présence.
+
+Utilité possible : Le [guide de l’OMS](https://tdr.who.int/home/our-work/global-engagement/9789240003927) propose ce type de retour à l’environnement. Ce repère peut faciliter une transition et ne remplace pas une mesure de protection.
 
 ### 3. Le journal des besoins fondamentaux
 
-Choisissez un moment de la journée et demandez-vous ce qui vous aiderait maintenant : du repos, un échange avec un proche, une limite ou une aide concrète. Il n’est pas nécessaire d’identifier un besoin d’enfance pour décider de ce petit pas.
+Objectif : Préciser un besoin actuel plutôt que lui chercher une origine d’enfance.
+
+1. Choisir le moment présent et noter une question : de quoi Djamila aurait-elle besoin avant d’aller chercher Adam ?
+2. Identifier un appui possible, comme du repos, une conversation consentie avec Amina ou une aide pour le tri.
+3. Choisir de le demander, de le préparer ou de reporter, en gardant les informations qu’elle ne souhaite pas partager.
+
+Utilité possible : La note peut rendre une demande plus concrète. Aucun besoin ancien n’a à être retrouvé pour avoir droit à un soutien aujourd’hui.
 
 ## Le dessin à emporter
 

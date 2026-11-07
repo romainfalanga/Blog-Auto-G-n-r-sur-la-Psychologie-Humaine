@@ -27,29 +27,59 @@ Thomas entend le ton d’Émilie et pense à des moments où il a craint de déc
 
 ## Comment les déclencheurs émotionnels se manifestent dans le contexte en situation de conflit ?
 
-Le conflit est le terrain de jeu favori des triggers, car il nous place naturellement dans une posture de vulnérabilité où nos mécanismes de défense sont aux aguets.
+Dans cet échange, Thomas peut examiner séparément les sensations, le sens qu’il donne aux mots et la réponse qu’il s’apprête à faire. Ces trois aspects ne suffisent pas à établir une origine traumatique.
 
 ### Les manifestations physiques immédiates
-Thomas remarque ses mains moites et une sensation de froid. Ces réactions ne permettent pas de savoir si un souvenir a été réactivé. Une gêne thoracique préoccupante mérite une [évaluation médicale](https://www.ameli.fr/assure/sante/themes/douleur-thoracique/reconnaitre-agit-urgence).
+
+Thomas remarque des sensations avant de savoir comment répondre. Elles décrivent son état présent et ne permettent pas de reconnaître un souvenir réactivé, un traumatisme ou une intention d’Émilie.
+
+Après le bruit du couvercle, il sent ses mains devenir moites. Après la question sur le portfolio, il a l’impression que sa respiration se bloque. Ces deux moments peuvent être notés séparément, avec ce qui vient de se passer, sans leur donner une cause unique. Une gêne thoracique préoccupante mérite une [évaluation médicale](https://www.ameli.fr/assure/sante/themes/douleur-thoracique/reconnaitre-agit-urgence). Un exercice d’attention ne tranche pas une question de santé.
 
 ### La distorsion de la perception de l'autre
-Sous l'influence d'un trigger, notre vision de l'interlocuteur change radicalement. Thomas ne voit plus sa compagne Émilie, mais une figure d'autorité qu'il doit satisfaire à tout prix. En situation de conflit, le déclencheur nous pousse à interpréter chaque mot comme une attaque personnelle ou une preuve de notre incapacité. On prête à l'autre des intentions malveillantes ou un mépris qu'il n'exprime pas forcément. Cette déformation cognitive nous empêche d'écouter réellement les besoins de l'autre, car nous sommes trop occupés à protéger notre propre intégrité émotionnelle.
+
+Thomas peut donner très vite un sens à ce qu’il entend. Une interprétation peut être plausible sans être établie. Il ne sait pas ce qu’Émilie souhaite tant qu’elle ne l’a pas précisé ; cela n’efface pas une parole réellement blessante si elle est prononcée.
+
+Le couvercle qui claque peut lui sembler un reproche adressé personnellement, alors qu’il ne connaît pas la raison du bruit. La demande sur le portfolio peut lui paraître exiger une justification de toute sa reconversion, alors qu’une question pratique reste possible. Dans ces deux cas, il peut distinguer le fait et l’ampleur de la conclusion avant de répondre. L’impression de retrouver une autorité de son enfance ne démontre pas ce qui motive la scène actuelle.
 
 ### Le passage à des comportements réflexes
-Le déclencheur évince la réponse choisie au profit de la réaction automatique. Pour un people pleaser comme Thomas, cela se manifeste par une sur-adaptation immédiate : l'excuse systématique, la recherche de compromis hâtif ou le silence défensif. Pour d'autres, le déclencheur peut provoquer une ironie mordante ou une colère explosive. Ces comportements sont des stratégies de protection apprises de longue date pour mettre fin à l'inconfort émotionnel du conflit le plus rapidement possible, même si cela signifie sacrifier ses propres limites.
+
+Thomas peut répondre pour faire cesser rapidement le malaise plutôt que choisir ce qu’il peut réellement dire ou promettre. Cette observation n’établit pas l’origine du comportement ni une défense particulière.
+
+Il peut commencer par s’excuser sans savoir quelle faute il aurait commise après le bruit. Il peut aussi promettre de finir le portfolio le soir même avant d’avoir vérifié son énergie et les autres tâches. Le premier geste cherche un pardon sans objet connu ; le second crée un engagement. Les repérer permet de revenir à une question ou une réponse délimitée, sans rendre Émilie responsable de ses promesses.
 
 ## 3 techniques pour agir face aux déclencheurs émotionnels
 
 Sortir de l'emprise des déclencheurs émotionnels en situation de conflit demande de l'entraînement et une grande dose de bienveillance envers soi-même.
 
-### 1. La technique du scan corporel express
-Si Thomas se sent en sécurité, il peut sentir ses pieds au sol et remarquer ce qu’il perçoit autour de lui. L’[OMS](https://www.who.int/publications/i/item/9789240003927) propose un ancrage comparable. Il peut laisser tomber l’exercice s’il augmente son malaise.
+### 1. Choisir un repère dans le présent
+
+Si Thomas se sent en sécurité, il peut choisir un repère simple du présent. L’[OMS](https://www.who.int/publications/i/item/9789240003927) propose un ancrage comparable ; il n’a pas besoin d’examiner tout son corps ni de rechercher un souvenir.
+
+1. Remarquer le contact des pieds ou un objet du salon, sans interpréter cette observation comme la mesure d’un traumatisme.
+2. Revenir aux mots réellement entendus et vérifier s’il peut encore suivre la question. Si l’attention au corps augmente son malaise, il abandonne l’exercice et peut regarder autour de lui ou demander un arrêt.
+3. Choisir une suite possible : répondre à une question précise, demander une reformulation ou annoncer une pause.
+
+Ce repère peut donner un moment pour choisir. Il ne remplace pas une évaluation médicale et ne demande pas de rester dans une situation dangereuse.
 
 ### 2. Distinguer ce qui s’est dit de ce qui revient en mémoire
-Thomas peut séparer les mots qu’il a entendus, son souvenir et ce dont il a besoin maintenant. L’impression de redevenir petit n’est ni un test ni une preuve sur le passé.
+
+L’objectif est de conserver des catégories différentes sans organiser un rappel du passé. Thomas utilise uniquement ce qui lui vient déjà, s’il souhaite le noter.
+
+1. Reprendre la phrase sur le portfolio aussi exactement qu’il s’en souvient, en laissant incertains les mots dont il n’est pas sûr.
+2. Mettre à part le rapprochement personnel, par exemple la peur de décevoir. L’impression de redevenir petit n’est ni un test ni une preuve sur l’enfance.
+3. Nommer le besoin actuel : comprendre si Émilie parle de l’avancée du projet ou de l’organisation du week-end, puis demander cette précision si l’échange le permet.
+
+La distinction peut rendre sa réponse plus proche du présent. Elle ne permet pas de conclure à une origine cachée ni de connaître l’intention de l’autre.
 
 ### 3. Demander une pause si l’échange est sûr
-Quand la discussion est sûre, Thomas peut dire qu’il souhaite une pause et proposer de reprendre plus tard. Si l’autre menace, contrôle ou empêche de partir, la priorité est de se mettre à l’abri et de [chercher de l’aide](https://www.arretonslesviolences.gouv.fr/besoin-d-aide/violences-au-sein-du-couple), sans obligation de reprendre le dialogue.
+
+Thomas peut proposer une interruption si chacun peut parler et partir librement. Une pause ne devient pas un moyen d’obtenir le silence ou l’accord d’Émilie.
+
+1. Dire ce qui est possible maintenant : « J’ai du mal à répondre à tout ce sujet. J’aimerais m’arrêter un moment. »
+2. Proposer une reprise réaliste et demander ce qui doit être décidé sans attendre, comme le déjeuner du lendemain.
+3. À la reprise consentie, revenir au point précis resté ouvert et garder le droit de revoir le moment si nécessaire.
+
+Si l’autre menace, contrôle ou empêche de partir, la priorité est de se mettre à l’abri et de [chercher de l’aide](https://www.arretonslesviolences.gouv.fr/besoin-d-aide/violences-au-sein-du-couple), sans obligation de reprendre le dialogue. Une formule mieux préparée ne rend pas sûre une situation de violence.
 
 ## Répondre pour demain
 

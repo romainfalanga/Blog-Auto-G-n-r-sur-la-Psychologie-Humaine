@@ -30,11 +30,26 @@ Priya a des raisons de ne pas vouloir que Damien sache quoi que ce soit sur sa v
 ### 1. Rupture de confiance et retrait social
 La première manifestation est souvent une fermeture progressive : la personne se retire des sorties, réduit les confidences, évite les conversations personnelles. Par exemple, Priya décline l'invitation de Julie et reporte les échanges à plus tard, et ne reprend la conversation qu’une semaine plus tard. Ce retrait n'est pas toujours visible aux yeux des autres ; il peut se traduire par des réponses courtes, des silences lors des échanges de groupe ou une participation réduite aux événements. Une réponse courte peut laisser l’autre sans explication. Elle peut aussi donner à la personne qui la formule le temps dont elle a besoin.
 
+Deux exemples dans cet épisode :
+
+- Priya décline le dîner de Julie par une phrase brève sans dire ce qu’elle souhaite vérifier.
+- Pendant la semaine, elle reporte le rappel et garde pour elle la question qu’elle avait effacée dans l’escalier.
+
 ### 2. Interprétations ruminatives et scénarios de trahison
 Lorsque la confiance est ébranlée, une personne peut reprendre un échange à plusieurs reprises et y chercher un indice qu’elle aurait manqué. Priya repasse mentalement la conversation de Julie, tente de recoller des éléments, imagine des complicités invisibles. Ces ruminations consomment de l'énergie cognitive et interfèrent avec la concentration au travail. Pour elle, habituée à l'hyper-productivité, ces pensées deviennent une distraction insidieuse pendant ses consultations : elle s'interroge sur la façon dont ses collègues lui parlent ou sur la manière dont ses collègues la perçoivent. Elle retrouve ici cette rigidité mentale qu'elle avait observée en traitant le dossier de pathologie chronique qui lui rappelait son père, Raj ; le besoin de contrôle clinique devient un rempart contre l'imprévisibilité des autres.
 
+Deux exemples dans cet épisode :
+
+- Elle ouvre plusieurs fois l’échange et passe sur la réponse où Julie propose de remettre le dîner.
+- Elle imagine le contenu des deux minutes avec Damien sans disposer du récit de Julie.
+
 ### 3. Réactivation des anciennes blessures et renforcement des mécanismes évitants
 La mention de Damien rappelle à Priya les nouvelles qu’il demandait autrefois à ses proches. Cet antécédent lui donne une raison de vérifier ce qui a été dit. Il ne tranche pas la question à la place de Julie. Rester à distance est une option. Si Priya souhaite reprendre contact, elle peut choisir ce qu’elle veut éclaircir avant de décider de la suite.
+
+Deux exemples dans cet épisode :
+
+- La mention de Damien lui rappelle que des proches lui transmettaient autrefois des informations sur elle.
+- Elle voudrait que Julie devine d’elle-même la limite qu’elles n’avaient pas encore discutée, puis cherche comment la formuler explicitement.
 
 ## Techniques pour réagir face à la trahison
 
@@ -44,22 +59,22 @@ Exercice concret :
 - Notez la situation factuelle : qui a dit quoi, où, quand.
 - Distinguez les faits des interprétations : écrivez d'abord les éléments objectifs, puis à côté ce que vous supposez ou ressentez.
 - Notez l’attente précise que vous aviez. Aviez-vous déjà eu l’occasion de la dire ?
-Mettre des mots et une structure sur l'événement réduit l'ampleur des interprétations automatiques et permet de voir si la réaction correspond à une blessure ancienne. Priya utilise déjà ce type d'exercice pour repérer ses déclencheurs depuis qu'elle explore son attachement évitant-dédaigneux. Ici, elle le transforme en outil pour décider si la rupture est ponctuelle ou symptomatique d'un schéma.
+Cette distinction conserve ce qui est connu et ce qui reste à demander. Elle ne permet pas de déterminer une blessure ancienne ni un style d’attachement à partir de la réaction de Priya.
 
 ### 2. Communication calibrée et demande de clarification
 Il s'agit de préparer un message ou une demande d'entretien où l'on cherche d'abord à comprendre avant d'accuser.
 Exercice concret :
-- Formulez en une phrase courte ce que vous avez reçu comme information et ce que vous voudriez savoir : « Julie, tu dis que tu as croisé Damien et échangé quelques mots. Peux-tu me dire comment ça s'est passé et ce que tu as ressenti ? »
+- Formulez en une phrase courte ce que vous avez reçu comme information et ce que vous voudriez savoir : « Julie, tu dis que tu as croisé Damien et échangé quelques mots. Peux-tu me dire ce qui a été dit sur moi ? »
 - Évitez les généralisations et les accusations lors du premier échange ; optez pour des formulations centrées sur votre expérience.
 - Si l'échange devient trop chargé, proposez une pause et repassez à une discussion plus tard, ou écrivez une lettre que vous n'envoyez pas pour clarifier vos pensées.
-La clarification permet souvent de réduire l'incertitude qui alimente la rumination. Priya, qui tend à fermer la porte, s'entraîne à poser cette question simple sans se lancer dans une attaque. Elle sait écrire une demande courte. Cette fois, il lui faut aussi écouter la réponse.
+La clarification peut apporter une information nouvelle, sans garantir une diminution de l’inquiétude. Priya, qui tend à fermer la porte, s'entraîne à poser cette question simple sans se lancer dans une attaque. Elle sait écrire une demande courte. Cette fois, il lui faut aussi écouter la réponse.
 
 ### 3. Choisir la distance qui vous convient
-Priya peut choisir de parler brièvement à Julie si elle le souhaite, de différer la réponse ou de garder ses distances.
+Priya peut choisir de parler brièvement à Julie si elle le souhaite, de différer la réponse ou de garder ses distances. L’objectif est de décider de la suite, sans prouver la qualité de l’amitié par une reprise de contact.
 Exercice concret :
 - Si vous décidez d’échanger, choisissez un format qui vous convient. Une conversation n’est pas un test de sécurité.
-- Avant l'échange, définissez votre objectif concret, par exemple écouter dix minutes sans chercher à prouver une trahison.
-- Après l'échange, notez ce qui est allé contre vos peurs et ce qui les a confirmées. Faites un bilan factuel.
+- Avant l'échange, définissez votre objectif concret, par exemple savoir si des informations personnelles ont été transmises, sans durée d’écoute imposée.
+- Après l’échange, relevez ce qui a été dit et ce qui demeure inconnu, puis choisissez la distance qui vous convient. Un seul échange ne garantit pas la fiabilité future.
 En cas de menaces, de pressions ou de risque que des informations circulent vers une personne violente, il est légitime de demander un appui. Vous n’avez pas à reprendre contact pour vérifier une crainte.
 
 ## Sept jours avant de rappeler

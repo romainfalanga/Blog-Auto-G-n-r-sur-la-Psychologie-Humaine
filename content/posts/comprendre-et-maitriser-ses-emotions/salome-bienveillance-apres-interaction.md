@@ -39,17 +39,32 @@ Salomé passe de « je ne préviens pas Étienne du retard » à « je ne suis p
 
 Ce bilan nuancé ne sert pas à rendre l’erreur négligeable. Le trajet d’Étienne reste inutile, même si Salomé travaille bien à d’autres moments. Elle peut reconnaître cet effet et agir dessus. La distinction importante est entre mesurer un comportement et condamner une personne entière. Le premier donne des informations pour changer. Le second peut produire beaucoup de douleur sans indiquer la prochaine étape.
 
+Deux exemples dans cette situation :
+
+- Devant le carnet où le rendez-vous était bien noté, Salomé pense « je ne suis pas fiable », sans distinguer la date inscrite de l’appel oublié.
+- Quand Gaspard lui demande ce qui se passe, elle répond qu’elle devrait devenir professionnelle plutôt que nommer le client à prévenir.
+
 ### Rejouer le ton pour chercher une certitude sur le regard du client
 
 Salomé repasse la façon dont Étienne prononce « je pensais pouvoir compter sur cette date ». Elle voudrait savoir s’il ne lui fera plus jamais confiance. Cette conclusion ne se lit pas avec certitude dans une phrase de contrariété. Le client peut être déçu et revenir. Il peut aussi choisir un autre professionnel. Elle ne maîtrise pas cette décision, même en examinant longtemps son intonation.
 
 Elle peut demander ce qui lui serait utile maintenant et tenir les engagements proposés. Elle peut également accepter que la confiance se reconstruise par des faits. Une explication répétée ne permettra pas de garantir l’opinion d’Étienne. Lorsque l’analyse tourne sans nouvelle information, Salomé peut revenir à la tâche qui dépend d’elle. Ce choix ne nie pas la relation ; il arrête de chercher une réponse dans une scène qui ne la contient pas entièrement.
 
+Deux exemples dans cette situation :
+
+- En relisant « je pensais pouvoir compter sur cette date », elle essaie de prévoir si Étienne reviendra, alors qu’il ne le dit pas.
+- Après avoir proposé le lendemain, elle voudrait ajouter un message pour obtenir un signe de confiance avant même sa réponse.
+
 ### Confondre punition intérieure et changement utile
 
 La phrase « tu devrais être professionnelle » lui donne l’impression d’être exigeante. Pourtant, elle ne dit ni quand vérifier les retards ni comment prévenir les personnes concernées. Salomé peut passer une demi-heure à se réprimander et garder le même système. Le volume de l’autocritique ne mesure donc pas automatiquement l’effort d’amélioration. Une action modeste et ciblée peut être plus exigeante au sens utile du terme.
 
 Cela ne signifie pas que toute autocritique doit être remplacée par une formule agréable. Certaines remarques intérieures pointent un problème réel. Salomé peut en garder l’information et changer le ton ainsi que la portée. « Il faut vérifier les rendez-vous liés à cette livraison » contient une tâche. « Tu fais tout mal » contient surtout un verdict. Elle peut choisir la première sans prétendre que la situation lui convient.
+
+Deux exemples dans cette situation :
+
+- Elle déplace plusieurs fois une boîte en se reprochant son caractère ; aucun rappel de livraison n’est pourtant ajouté au planning.
+- Elle pourrait continuer ses excuses au prochain rendez-vous, alors que vérifier le nouveau délai et les réglages répondrait plus directement au problème.
 
 ## Trois techniques pour répondre à soi avec plus de justesse
 
@@ -61,6 +76,12 @@ Elle inscrit ensuite ce qui dépend d’elle : donner une date vérifiée, propo
 
 Pour essayer, gardez l’écriture brève. Il ne s’agit pas de constituer un procès où l’on collecte les preuves à charge et à décharge pendant des heures. Quelques phrases suffisent à différencier l’événement et les conclusions ajoutées. Si vous repérez une erreur, cherchez l’ajustement correspondant. Si vous repérez un comportement humiliant de l’autre, donnez-lui également une place dans les faits au lieu de l’intégrer automatiquement à votre culpabilité.
 
+Pour passer à une action limitée :
+
+1. Écrivez l’information oubliée et la conséquence connue pour Étienne.
+2. Mettez à part ce que vous ignorez de sa confiance future.
+3. Retenez une réponse qui dépend de vous : date vérifiée ou information à transmettre.
+
 ### 2. Choisir une phrase que l’on pourrait adresser à une personne respectée
 
 Salomé imagine Gaspard dans la même situation. Elle ne lui dirait pas que tout son travail est invalide. Elle lui demanderait comment prévenir le client, puis l’aiderait à vérifier le prochain rendez-vous. Elle reprend ce niveau de respect pour elle-même : « Tu manques une information importante. Il faut réparer ce qui peut l’être et prévoir un repère pour la prochaine fois. » La phrase reste exigeante et ne l’insulte pas.
@@ -69,6 +90,12 @@ Elle n’a pas besoin d’y croire avec enthousiasme. Elle peut simplement chois
 
 Vous pouvez chercher une phrase qui reconnaît la difficulté et laisse une possibilité d’action. Évitez une rassurance totale, telle que l’idée que tout se passera forcément bien. La bienveillance peut admettre une conséquence déplaisante et un regret. Elle permet de traverser cette conséquence sans transformer la souffrance en obligation de se dévaloriser. Une personne reste digne de respect même lorsqu’une erreur doit être corrigée.
 
+Pour passer à une action limitée :
+
+1. Reprenez une phrase dure que vous vous adressez après le rendez-vous.
+2. Imaginez ce que vous diriez à Gaspard en gardant la même exigence professionnelle.
+3. Choisissez une version crédible, même neutre, et utilisez-la pour nommer la prochaine action.
+
 ### 3. Faire une réparation concrète puis arrêter le procès intérieur
 
 Salomé vérifie la livraison et écrit à Étienne avec une date qu’elle peut tenir. Elle reconnaît qu’elle oublie de prévenir et lui propose de choisir entre deux modalités de récupération. Elle évite les longues justifications destinées à obtenir une réassurance. Le message sert au client, pas au besoin de Salomé d’entendre immédiatement qu’elle reste compétente. Elle laisse à Étienne le temps de répondre.
@@ -76,6 +103,12 @@ Salomé vérifie la livraison et écrit à Étienne avec une date qu’elle peut
 Dans son carnet, elle ajoute un repère simple : tout décalage de livraison entraîne une vérification des rendez-vous associés. Elle choisit un endroit visible dans son organisation habituelle. L’ajustement doit être utilisable, pas spectaculaire. Elle ne crée pas une procédure compliquée pour prouver qu’elle se punit suffisamment. Si le repère ne fonctionne pas, elle pourra le revoir à partir d’une difficulté réelle plutôt que d’une peur abstraite de tout oublier.
 
 Une fois ces actions effectuées, elle note que la tâche est traitée pour aujourd’hui. Le regret peut revenir. Elle peut lui répondre en retrouvant les faits et les actions déjà faites, puis choisir une autre activité. Cela ne signifie pas interdire toute pensée sur l’échange. Il s’agit d’éviter un nouveau jugement sans information nouvelle. Si les épisodes deviennent fréquents ou envahissants, un accompagnement peut aider à comprendre ce qui entretient cette répétition.
+
+Pour passer à une action limitée :
+
+1. Vérifiez le délai avant de proposer la récupération au client.
+2. Ajoutez dans votre planning habituel le rappel lié aux livraisons décalées.
+3. Notez ce qui est traité aujourd’hui et revenez à une autre réparation ; une information nouvelle pourra justifier une reprise.
 
 ## Le lendemain à l’heure dite
 

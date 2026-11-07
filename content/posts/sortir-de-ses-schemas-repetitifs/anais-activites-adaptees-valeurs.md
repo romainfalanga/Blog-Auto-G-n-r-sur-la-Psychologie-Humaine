@@ -41,6 +41,11 @@ Elle peut regarder plusieurs éléments : les conditions sont-elles adaptées, l
 
 Une séance plus courte ne doit pas devenir automatiquement une réussite héroïque ou un échec. Elle peut simplement correspondre à la modalité appropriée. Anaïs n'a pas besoin d'un commentaire sur son courage chaque fois que le programme change. Elle préfère qu'on lui demande ce qui lui convient et ce qu'elle souhaite partager.
 
+Exemples concrets
+
+- La distance des anciennes promenades devient une mesure qui dévalue la sortie actuelle.
+- Une séance plus courte lui fait oublier la conversation agréable qu’elle recherchait.
+
 ### Le conseil utile se transforme en dette morale
 
 Lorsqu'une activité est recommandée, Anaïs peut entendre qu'elle doit la réussir pour être une bonne patiente. Si elle rencontre une difficulté, elle craint d'être tenue responsable de son état. Cette interprétation lui donne moins envie de poser des questions, alors qu'elles sont nécessaires pour adapter la démarche.
@@ -49,6 +54,11 @@ Le suivi n'est pas un jugement de mérite. Elle peut signaler ce qui ne fonction
 
 La maladie reste une maladie, même lorsqu'Anaïs participe aux soins et aux activités conseillées. Une journée difficile ne permet pas de conclure qu'elle s'investit mal. Elle peut avoir besoin d'une évaluation, d'un ajustement encadré ou d'un autre appui, plutôt que d'une nouvelle exhortation à penser positivement.
 
+Exemples concrets
+
+- Devant l’intervenante, elle pourrait taire une difficulté pour paraître une bonne patiente.
+- Si une proposition ne lui plaît pas, elle hésite à le dire de peur d’être accusée de ne pas s’investir.
+
 ### Le groupe impose son rythme sans le vouloir
 
 Une activité collective apporte de la présence, mais peut aussi créer une comparaison. Anaïs regarde les autres et souhaite suivre pour ne pas gêner. Elle risque alors de taire un besoin, surtout si elle pense que l'adaptation sera interprétée comme une interruption pour tous.
@@ -56,6 +66,11 @@ Une activité collective apporte de la présence, mais peut aussi créer une com
 L'organisation doit rendre les différences possibles. Un relais, une option prévue ou une consigne claire peut éviter que chaque limite demande une négociation publique. Ces éléments relèvent des professionnels et du cadre de l'activité. Anaïs peut les demander avant de s'engager, plutôt que tester seule ce qu'elle supporte.
 
 Le groupe n'est pas toujours la meilleure forme, et la solitude n'est pas nécessairement un échec relationnel. Elle peut préférer une présence réduite, une activité individuelle encadrée ou une autre modalité appropriée. La valeur de lien peut être nourrie ailleurs si ce format ne lui convient pas.
+
+Exemples concrets
+
+- Sur la photographie du jardin, elle imagine devoir suivre tout le groupe pour ne ralentir personne.
+- Lors d’un échange de préparation, elle pourrait attendre la fin pour demander comment une pause serait organisée.
 
 ## 3 techniques pour relier adaptation et choix personnel
 
@@ -67,6 +82,16 @@ Elle peut aussi nommer ce qu'elle ne recherche pas : une compétition, une compa
 
 Ses préférences peuvent changer. Une activité qui lui plaît maintenant peut ne plus lui convenir, pour des raisons de santé ou d'intérêt. Le choix n'a pas besoin d'être définitif pour être sérieux. Elle conserve un point de discussion avec les professionnels et les personnes concernées par l'organisation.
 
+Pour essayer dans cette situation
+
+Objectif : Donner à l’orientation une direction personnelle.
+
+1. Nommer le paysage, le lien et le rythme de conversation qu’elle souhaite retrouver.
+2. Dire ce qu’elle ne cherche pas, notamment la compétition ou la démonstration de courage.
+3. Demander à l’intervenante quelles propositions peuvent respecter ces préférences dans le cadre médical reçu.
+
+Ses goûts peuvent guider la recherche d’une forme appropriée sans prescrire une pratique.
+
 ### 2. Vérifier les conditions avec les professionnels
 
 Anaïs demande comment la proposition tient compte de sa polyarthrite et des recommandations de son équipe. Elle veut comprendre à qui signaler une difficulté, comment la pratique peut être adaptée et quels repères personnels suivre. Les réponses doivent se construire dans ce cadre, pas dans l'article ni à partir d'une expérience attribuée à une autre participante.
@@ -75,6 +100,16 @@ Elle indique les obstacles concrets : transport, horaires après le travail, ins
 
 Si une question médicale reste ouverte, elle est renvoyée vers l'interlocuteur compétent. Anaïs ne la tranche pas par désir de commencer. Elle peut attendre, demander une autre proposition ou rechercher un relais pour l'accès. La prudence ne retire pas la valeur de son envie ; elle lui donne des conditions plus justes.
 
+Pour essayer dans cette situation
+
+Objectif : Vérifier ensemble les conditions d’accès et de santé.
+
+1. Demander comment l’activité prend en compte les recommandations de son équipe et qui contacter en cas de difficulté.
+2. Décrire le transport, les horaires et l’installation nécessaires.
+3. Faire traiter la question médicale encore ouverte par le professionnel compétent avant de choisir.
+
+Les obstacles pratiques peuvent être discutés avant de faire reposer toute l’adaptation sur sa motivation.
+
 ### 3. Évaluer l'expérience sans la réduire à la performance
 
 Après un premier essai approprié et encadré selon sa situation, Anaïs regarde ce qu'elle souhaite rapporter au professionnel : confort, difficultés, compréhension des consignes, plaisir ou absence d'intérêt. Elle peut signaler un changement de santé selon les recommandations reçues. Elle n'attend pas qu'un résultat devienne spectaculaire pour formuler une question.
@@ -82,6 +117,16 @@ Après un premier essai approprié et encadré selon sa situation, Anaïs regard
 Elle retient aussi ce qu'elle vit : une conversation, une odeur de feuilles, un endroit qu'elle aime revoir. Ces détails ne remplacent pas l'évaluation de la santé. Ils rendent visible la raison pour laquelle l'activité a une place dans sa vie. Un mouvement peut être utile et rester sans attrait ; cette information mérite aussi d'être entendue.
 
 Avec Benoît, elle évite de transformer le retour en compte rendu de performance. Il peut demander ce qu'elle apprécie plutôt que seulement combien elle fait. Anaïs garde ainsi la possibilité de parler de l'activité comme d'une expérience choisie, et pas uniquement comme d'une épreuve médicale à valider.
+
+Pour essayer dans cette situation
+
+Objectif : Rapporter une expérience complète après un essai approprié.
+
+1. Décrire au professionnel le confort, les difficultés et la compréhension des consignes dans le cadre prévu.
+2. Nommer aussi un détail apprécié ou une absence d’intérêt.
+3. Avec Benoît, parler de ce vécu plutôt que d’une distance ou d’une quantité à prouver.
+
+Ce retour peut aider à ajuster la proposition tout en gardant la signification personnelle de l’activité.
 
 ## Le jardin sur la photographie
 

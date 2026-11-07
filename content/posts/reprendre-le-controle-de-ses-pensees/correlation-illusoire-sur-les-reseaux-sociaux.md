@@ -29,29 +29,53 @@ Lucas voit les photos qu’un ancien camarade choisit de publier. Il ne dispose 
 
 ### 1. La confusion entre style de vie et compétence réelle
 
-Un fil contient une sélection de publications. Lucas voit une montre ou un voyage, mais pas les données nécessaires pour relier ces détails à la compétence.
+Un fil contient des images sélectionnées, pas une mesure commune du travail des personnes montrées. Lucas peut relier deux éléments parce qu’ils apparaissent ensemble dans une publication, sans disposer des observations nécessaires pour juger cette association.
+
+Le coach montre un réveil à cinq heures à côté d’un récit de réussite : Lucas en tire une règle sur l’horaire qui permettrait de réussir. Une photo de montre ou de voyage peut de même lui sembler démontrer une compétence professionnelle. Le premier exemple associe une habitude et un résultat ; le second, une consommation et une capacité. Les images seules ne permettent pas d’établir ces liens ni leur causalité.
 
 ### 2. L'association systématique entre bonheur et visibilité
 
-Les mentions « j’aime » indiquent des interactions avec une publication. Elles ne suffisent pas à savoir si son auteur est heureux, pas plus qu’un silence ne permet de conclure qu’il est malheureux.
+Les mentions « j’aime » indiquent des interactions avec une publication. Elles ne mesurent pas l’état émotionnel de son auteur. Inversement, une absence de publication laisse beaucoup d’informations inconnues.
+
+Lucas peut interpréter une photo souriante et très commentée comme la preuve d’une vie heureuse en permanence. Il peut aussi traiter le silence d’un camarade dans son fil comme un signe d’échec ou de mal-être. Le volume visible et l’absence de contenu sont deux données différentes ; aucun des deux ne renseigne seul sur ce que la personne vit en dehors de la plateforme.
 
 ### 3. Les exemples que le fil ne montre pas
 
-Les ressources et le milieu social peuvent compter dans les trajectoires. Les photos d’héritiers qui réussissent ne mesurent pas ces écarts ; quelques personnes qui réussissent en dépit d’obstacles ne les annulent pas.
+Quelques récits ne permettent pas de comparer des trajectoires avec les mêmes critères. Les ressources et le milieu social peuvent compter, mais Lucas ne peut pas mesurer leur rôle à partir de photos choisies. Répéter la même personne dans deux vidéos ne crée pas deux parcours indépendants.
+
+S’il ne voit que des personnes qui attribuent leur réussite au réveil matinal, il lui manque celles qui ont la même habitude sans le résultat montré. S’il ne retient qu’une réussite malgré des obstacles financiers, il ne sait pas ce qui arrive aux autres personnes confrontées à ces obstacles. Ces deux absences limitent la conclusion ; elles n’autorisent pas à inventer des échecs cachés ni à nier les inégalités.
 
 ## Techniques pour agir face à la corrélation illusoire
 
 ### 1. La recherche active de contre-exemples
 
-Un contre-exemple suffit à mettre en cause une règle formulée avec « toujours ». Il ne suffit pas à dire s’il existe une tendance générale. Lucas peut chercher d’où viennent les données et quelles personnes sont absentes de la comparaison.
+Lucas cherche d’abord à connaître la portée de la règle, sans enquêter sur la vie privée du coach. Un contre-exemple peut contredire « toujours » ; il ne suffit pas à mesurer une tendance générale.
 
-### 2. Le journal de bord des variables indépendantes
+1. Écrire la proposition exacte : « Pour réussir, il faut se lever à cinq heures. » Distinguer cette règle du simple récit d’une personne.
+2. Regarder ce que le contenu apporte réellement : mêmes personnes reprises, définition de la réussite, comparaison disponible ou source consultable. Une absence de donnée reste une limite.
+3. Garder la conclusion au niveau permis : « Ces vidéos ne permettent pas de savoir. » Il n’a pas besoin de changer son réveil à partir de cette publication et peut revenir à une source qui explique ses méthodes si la question l’intéresse.
 
-Lucas note ce qu’il observe, ce qu’il en conclut et ce qui manque pour décider. Pour une photo de vacances, il peut s’arrêter à « je ne connais pas les finances de cette personne » sans inventer d’autres explications.
+Cette démarche peut arrêter une généralisation hâtive. Elle ne prouve pas l’absence de tout lien entre les habitudes et les résultats.
+
+### 2. Le carnet des observations et des hypothèses
+
+Lucas veut séparer ce qu’il voit de ce qu’il ajoute à l’image. Le carnet reste une note de lecture, pas une expérience permettant d’isoler les causes d’un résultat.
+
+1. Pour une publication, écrire l’observation : heure affichée, photo et récit choisi, sans y ajouter les revenus ou le sommeil que Lucas ne connaît pas.
+2. Écrire ensuite la conclusion qui lui vient, puis les renseignements manquants. Pour une photo de vacances, « je ne connais pas ses finances » peut suffire.
+3. Choisir une suite proportionnée : laisser l’affirmation en suspens, demander une source publique ou fermer le fil. Il ne cherche pas à obtenir des informations privées sur son camarade.
+
+Cette note rend la différence entre constat et hypothèse consultable. Elle ne transforme pas quelques publications en étude de la réussite.
 
 ### 3. La pause de contextualisation émotionnelle
 
-Si le fil lui pèse, Lucas peut poser le téléphone et revenir à son travail. Il peut remarquer une comparaison sans décider qu’elle révèle un mécanisme caché.
+Si le fil prend la place du mémoire, Lucas peut choisir de suspendre la lecture. La pause porte sur son usage présent, sans chercher un mécanisme caché derrière chaque réaction.
+
+1. Remarquer le moment où il passe de la vidéo au jugement « mon stage vaut moins ». Nommer la comparaison sans devoir la résoudre immédiatement.
+2. Poser le téléphone et retrouver la note qu’il cherchait pour son mémoire, ou choisir une vraie pause s’il ne souhaite plus travailler.
+3. Avant de rouvrir l’application, préciser ce qu’il veut y faire : retrouver une source ou consulter un message. Il peut conserver l’incertitude sur les vidéos sans poursuivre une recherche pour se rassurer.
+
+Cette décision réserve de la place à une autre activité. Elle ne garantit ni le calme ni une meilleure concentration et peut être adaptée selon sa journée.
 
 ## Ce que les vidéos ne montrent pas
 

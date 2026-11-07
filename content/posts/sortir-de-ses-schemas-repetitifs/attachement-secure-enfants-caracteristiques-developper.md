@@ -30,22 +30,61 @@ Ces observations ne donnent pas un pourcentage valable pour tous les adultes. El
 ### La régulation émotionnelle partagée
 Un parent peut parfois se sentir dépassé. Quand Emma refuse de se brosser les dents, Camille peut écouter ce qui la contrarie, puis rappeler la règle sans lui reprocher d’être en colère.
 
+Exemples situés :
+- Devant le refus de brossage, Camille peut entendre la contrariété d’Emma tout en maintenant la règle du soir.
+- Si la course du dinosaure devient trop bruyante, elle peut demander un jeu moins sonore et accueillir la déception sans exiger un sourire.
+
 ### L'autonomie encouragée sans crainte
 Camille laisse Léo explorer et jouer dans un cadre adapté à son âge. Il peut lui demander de l’aide s’il en a besoin. C’est l’idée de « base de sécurité », pas l’absence de surveillance.
 
+Exemples situés :
+- Camille regarde les enfants adapter leur course au dinosaure à trois pattes sans corriger aussitôt leur jeu.
+- Pendant les devoirs, elle laisse David répondre à Léo et reste disponible si une aide supplémentaire est demandée.
+
 ### Reprendre le lien après avoir crié
 Quand Camille crie injustement, elle peut reconnaître ce qu’elle a fait et dire que les enfants n’en sont pas responsables. Une excuse compte, mais ne suffit pas à elle seule à déterminer la sécurité du lien.
+
+Exemples situés :
+- Après une parole trop dure pour un jouet, Camille peut nommer le ton qu’elle regrette et reparler du rangement simplement.
+- Si Emma s’est arrêtée de jouer en l’entendant crier, elle peut lui demander si elle souhaite sa présence sans réclamer qu’elle la rassure.
 
 ## Techniques pour développer un attachement sécure
 
 ### 1. La technique de l'ancrage sensoriel en présence
 Si elle en a le temps et que les enfants sont en sécurité, Camille peut remarquer un objet autour d’elle et prendre une pause. L’[OMS](https://www.who.int/publications/i/item/9789240003927) donne des exemples d’ancrage pour le stress. Cet exercice ne mesure pas l’attachement.
 
+Objectif : retrouver un bref repère avant d’intervenir dans le jeu.
+
+Exercice pratique :
+1. Vérifiez que les enfants jouent dans le cadre de sécurité habituel et que vous pouvez prendre un instant.
+2. Remarquez le contact du tapis ou un objet présent, sans chercher à vous rendre obligatoirement calme.
+3. Regardez de nouveau ce qui se passe et choisissez si une intervention est utile ou si le jeu peut continuer.
+
+Utilité possible : le bref arrêt peut laisser une place à l’observation ; il n’établit ni la qualité du lien ni un style d’attachement.
+
 ### 2. Distinguer ses besoins de ceux des enfants
 Camille peut se demander ce que ses enfants attendent d’elle maintenant et ce qui lui rappelle sa propre enfance. Elle n’a pas besoin de retrouver des souvenirs précis pour adapter sa réponse.
 
+Objectif : répondre à la scène actuelle sans lui faire porter toutes les attentes de l’enfance.
+
+Exercice pratique :
+1. Décrivez le besoin visible maintenant : Léo demande de vérifier un calcul ou Emma cherche une patte du dinosaure.
+2. Notez pour vous votre propre besoin, comme du calme ou un relais, sans partir à la recherche d’un souvenir.
+3. Choisissez une réponse adaptée ou demandez à David de vous relayer en précisant ce qui est utile.
+
+Utilité possible : distinguer les besoins soutient un choix présent sans demander aux enfants de résoudre l’histoire de leur mère.
+
 ### 3. La pratique de la résonance empathique
 Camille peut demander à Emma : « Tu es déçue que ton dessin soit taché ? » Emma peut confirmer ou la corriger. Camille écoute ensuite ce que sa fille souhaite. Ces échanges n’ont pas besoin d’être comptés.
+
+Objectif : vérifier une hypothèse sur ce que vit l’enfant.
+
+Exercice pratique :
+1. Décrivez simplement le fait, par exemple le dessin d’Emma qui a été taché.
+2. Proposez un mot avec prudence : « Tu es déçue ? », et laissez-la confirmer, corriger ou ne pas répondre.
+3. Écoutez ce qu’elle souhaite ensuite et discutez d’une réponse possible sans promettre de tout réparer.
+
+Utilité possible : l’enfant peut donner son propre sens à la scène, au lieu de devoir correspondre à l’émotion imaginée par l’adulte.
 
 ## Les devoirs et le dinosaure
 

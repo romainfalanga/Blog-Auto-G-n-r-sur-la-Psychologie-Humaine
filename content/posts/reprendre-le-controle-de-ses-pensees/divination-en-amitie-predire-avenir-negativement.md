@@ -25,35 +25,59 @@ Il reste immobile, le regard fixé sur ses bagues qui brillent sous les néons b
 
 Dans le vocabulaire des thérapies cognitives, la « prédiction négative » est une forme de saut aux conclusions : on traite un avenir redouté comme déjà certain, alors qu'on manque d'éléments. Le [Centre for Clinical Interventions](https://cci.health.wa.gov.au/~/media/CCI/Mental-Health-Professionals/Eating-Disorders/Eating-Disorders---Information-Sheets/Eating-Disorders-Information-Sheet---Unhelpful-Thinking-Styles.pdf) distingue cette tendance du fait de croire connaître les pensées d'autrui.
 
-Hugo craint de revivre avec ses amis la déception qu'il a ressentie au Melody. Cette crainte donne du poids au scénario du rejet, sans permettre de savoir ce que ses amis feront. Si des engagements n'ont pas été tenus à plusieurs reprises, c'est une information à examiner plutôt qu'une pensée à écarter.
+Hugo craint de retrouver la déception ressentie en apprenant le choix de tournée de Samba. Cette crainte donne du poids au scénario du rejet, sans permettre de savoir ce que ses amis feront. Si des engagements n'ont pas été tenus à plusieurs reprises, c'est une information à examiner plutôt qu'une pensée à écarter.
 
 ## Manifestations de la divination en amitié
 
-### La certitude du rejet social
+### La fin imaginée semble déjà certaine
 
-Cette manifestation se traduit par une conviction profonde que nos amis finiront par se lasser de nous. On interprète un silence de quelques heures sur une messagerie ou un changement de ton minime comme le signe précurseur d'une rupture amicale définitive. On se projette dans un avenir où l'on est exclu du groupe, sans chercher à vérifier si l'ami en question n'est pas simplement occupé ou fatigué. La divination transforme une simple variation relationnelle en un arrêt de mort social.
+Hugo passe de ce qu’il voit à une scène future qu’il traite comme connue. Un désaccord réel sur la tournée peut exister sans permettre de prévoir ce que Samba fera à la fin du concert. Le travail consiste à laisser une place à cette inconnue.
 
-### Le sabotage préventif des liens
+Il voit Samba rire avec le technicien et imagine remballer sans lui avoir parlé. Il se représente ensuite son ami partant dans un van tandis qu’il reste seul sur le parking. Le rire observé et le départ imaginé n’ont pas le même statut.
 
-Hugo peut devenir distant quand il s'attend à être déçu. Ses amis peuvent mal comprendre ce retrait, sans que leur réaction soit prévisible ni que Hugo soit seul responsable de ce qui arrive à la relation.
+### Une réaction préventive répond à ce qui n’a pas eu lieu
 
-### L'évitement des projets communs
+L’attente d’un rejet peut donner à Hugo envie de se fermer ou de lancer une pique. Il peut repérer cette envie sans s’en rendre seul responsable de toute l’amitié. La réponse de Samba reste à découvrir, dans les limites que chacun souhaite poser.
 
-La peur du futur négatif empêche de s'investir dans des projets de long terme avec ses amis. On refuse d'organiser des vacances ou de lancer un projet artistique ensemble parce que l'on est persuadé que l'amitié n'existera plus d'ici là. Cet évitement renforce la solitude et empêche la construction de souvenirs solides. On reste dans une forme de survie relationnelle, incapable de se projeter avec joie dans un demain partagé.
+Il renonce à appeler son ami dans le couloir parce qu’il l’imagine déjà indisponible pour lui. Il prépare ensuite une remarque sarcastique sur le nouveau groupe avant qu’ils aient discuté des dates. Le silence et la pique envisagée répondent ainsi au futur redouté plus qu’à une réponse reçue.
+
+### Le scénario futur occupe le projet présent
+
+Hugo peut perdre l’envie de jouer parce qu’il anticipe l’après-concert. Le festival ne résout pas à lui seul la question de tournée, mais leur départ musical peut encore être discuté. Il peut séparer ces deux sujets sans prétendre que l’amitié n’a aucun problème.
+
+Il imagine le concert comme le point final du lien, avant même la première note. Il redoute aussi qu’un solo manqué fournisse à Samba une raison de l’effacer de sa vie. L’issue de la soirée et l’effet d’une erreur deviennent deux prédictions qu’il ne connaît pas encore.
 
 ## Techniques pour agir face aux pensées divinatoires
 
 ### 1. La technique des trois scénarios
 
-Si l'exercice lui convient, Hugo peut noter ce qu'il redoute, une autre suite plausible et ce qu'il ignore encore. Il n'a pas besoin de détailler le pire ni de trouver un scénario optimiste qu'il ne croit pas.
+Hugo cherche une formulation de l’incertitude, sans décrire longuement une catastrophe ni s’imposer une issue optimiste.
 
-### 2. La recherche active de preuves contraires
+1. Noter en une phrase le résultat redouté : Samba partira sans qu’ils aient parlé.
+2. Inscrire une autre suite possible, comme un échange bref, en précisant qu’il ne sait pas encore ce que son ami peut proposer.
+3. Ajouter l’information manquante et une question adaptée : Samba a-t-il quelques minutes pour parler des dates ?
 
-Une relation se comprend à partir de plusieurs faits : une invitation récente, une absence répétée, une explication déjà donnée. Hugo peut regarder les éléments qui vont dans les deux sens, puis laisser une question ouverte s'il lui manque des informations.
+Cette note peut laisser plusieurs suites ouvertes. Elle ne donne pas une probabilité ni une promesse d’issue favorable.
 
-### 3. Le report de la prédiction
+### 2. Regarder les faits qui vont dans les deux sens
 
-S'il n'y a rien d'urgent, Hugo peut différer une réaction et voir ce qu'il apprend ensuite. Une menace, une limite franchie ou un engagement à confirmer peut demander une action plus rapide.
+Le but est de replacer la crainte dans les échanges réellement connus, sans collectionner seulement les preuves rassurantes.
+
+1. Relever le choix de tournée et le point de désaccord qui reste à discuter, sans lui attribuer une intention non exprimée.
+2. Ajouter un autre fait disponible, comme le message d’encouragement reçu la veille ; ne pas lui faire promettre la suite de l’amitié.
+3. Choisir ce qui demande une précision ou ce qui peut rester inconnu pour l’instant, sans solliciter un tiers pour surveiller Samba.
+
+Cet examen peut préciser une demande. Une absence ou un engagement réellement non tenu reste une information à prendre en compte.
+
+### 3. Différer une réaction sans reporter ce qui doit être clarifié
+
+Hugo peut laisser attendre une pique tout en abordant une information utile au concert.
+
+1. Reconnaître la remarque qu’il s’apprête à lancer et choisir de ne pas l’adresser pendant les préparatifs.
+2. Demander une disponibilité limitée pour les dates de l’été et écouter le temps réellement proposé, même s’il est court.
+3. Revenir avec Samba au départ du premier morceau, puis garder le désaccord pour le moment convenu plutôt que le régler entre deux mesures.
+
+Cette séparation peut protéger la place des deux sujets. Elle concerne un échange ordinaire ; une menace, une limite franchie ou un engagement urgent peut appeler une réponse plus rapide.
 
 ## Samba donne le départ
 

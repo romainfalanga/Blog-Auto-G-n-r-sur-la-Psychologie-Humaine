@@ -36,32 +36,53 @@ Fabien lance une directive pour un ajustement d'horaires en usine. Dans sa tête
 
 Exemple concret : un technicien demande pourquoi une rotation a changé, et la réponse trop technique n'adresse pas sa crainte principale, à savoir l'impact sur les congés. Le manager suppose que le technicien comprend les impératifs, sans le dire.
 
+**Autre exemple situé :** la fiche affiche une date de bascule sans rappeler la contrainte qui l’a déterminée. Julie ne peut pas retrouver les réunions auxquelles elle n’a pas participé, même si Fabien les a encore en tête.
+
 ### 2. Utiliser des raccourcis techniques qui excluent
 En réunion, Fabien emploie des acronymes RH et des notions de droit du travail comme s'ils étaient partagés. Il parle de modalités de télétravail en citant des articles et des simulations. Les jeunes responsables d'équipe froncent les sourcils, certains notent des mots sans lien. Le savoir devient un mur de verre : visible mais infranchissable. Ce sentiment d'être à part, Fabien l'a déjà ressenti sur son balcon en observant ses voisins ; mais ici, c'est lui qui crée involontairement l'aliénation en utilisant son expertise comme une forteresse.
 
 Exemple concret : une nouvelle recrue HSE se sent perdue parce que la discussion part d'hypothèses historiques, comme des procédures anciennes, que seuls les cadres connaissent.
+
+**Autre exemple situé :** à la relève, une opératrice explique que le même nom ne désigne pas la même tâche dans les deux équipes. Définir ce mot résout une ambiguïté que la répétition de la consigne ne pouvait pas lever.
 
 ### 3. Surestimer la capacité à prévoir les réactions émotionnelles
 Fabien, analytique et empathique au travail, suppose que son ton posé suffira à transmettre l'intention bienveillante derrière une mesure impopulaire. Il oublie que le style d'annonce et la reconnaissance des conséquences humaines comptent autant que les arguments rationnels. Le résultat est une incompréhension émotionnelle : l'équipe se sent méprisée ou ignorée, même si l'intention était de protéger les salariés.
 
 Exemple concret : annoncer une réorganisation en s'appuyant sur des chiffres sans évoquer le souci pour les personnes concernées provoque davantage d'inquiétude que de confiance.
 
+**Deux situations à vérifier :** Fabien suppose que son ton posé montre assez qu’il a pris en compte la relève, sans l’avoir expliquée. Il croit qu’une absence de questions signifie un accord sur les nouveaux horaires. Il doit demander ce qui manque et entendre un éventuel désaccord plutôt que déduire l’émotion du silence.
+
 ## Techniques pour déjouer la malédiction du savoir
 
 ### 1. Technique du retour en aveugle : simuler l'ignorance
-Demandez-vous systématiquement ce que vous ignoriez il y a six mois sur le sujet. Avant une réunion, faites l'exercice inverse : prenez une feuille et écrivez trois questions simples que poserait quelqu'un qui découvre le dossier pour la première fois. Présentez ces questions en ouverture de réunion et répondez-y explicitement. Par exemple, Fabien note : "Pourquoi ce changement ?", "Qui est impacté ?", "Quelles alternatives avons-nous testées ?" Il lit ces questions à voix haute et répond en langage non technique.
 
-Forcer la formulation de questions basiques oblige le cerveau expert à ralentir et à expliciter les étapes souvent sautées. Avant chaque présentation importante, écrivez trois questions naïves et commencez votre intervention par leur réponse. Chronométrez-vous pour éviter de retomber dans le jargon.
+**Objectif :** Rendre visibles les informations qu’un lecteur du dossier n’a pas reçues.
+
+1. Relire la fiche comme un document autonome et relever une date, un nom de tâche ou une option qui réclame un contexte.
+2. Écrire les questions correspondantes, par exemple pourquoi cette date et ce qui change à la relève, puis préparer une réponse sans acronyme inexpliqué.
+3. Présenter ces éléments et demander quelles autres informations manquent, en acceptant qu’un collègue révèle une ambiguïté différente.
+
+Cette préparation peut rendre le document plus accessible. Imaginer un lecteur débutant ne remplace pas ses questions et aucun chronométrage ne valide l’explication.
 
 ### 2. Technique des cartes de rôle : structurer la perspective des interlocuteurs
-Pour une décision touchant plusieurs groupes, créez trois cartes de rôle simples, par exemple pour un opérateur, un responsable d'atelier ou un parent à charge. Pour chaque carte, notez leurs besoins concrets, leurs craintes et le vocabulaire qu'ils utilisent. Pendant la réunion, lisez à voix haute une carte et demandez au groupe si cette perspective est juste.
 
-Cette mise en scène réduit l'illusion que tout le monde partage les mêmes informations et contraintes. Elle transforme l'argumentation en réponse ciblée. Dans votre dossier RH, ajoutez une fiche sur les impacts par profil avant de soumettre une décision. Lors de la réunion, attribuez une carte à quelqu'un et invitez-le à défendre ce point de vue.
+**Objectif :** Préparer les questions d’impact sans attribuer des besoins supposés aux équipes.
+
+1. Créer une fiche pour chaque fonction concernée, comme opératrice et responsable d’atelier, avec seulement les conséquences connues.
+2. Marquer comme questions ce qui reste à vérifier : disponibilité à la relève, vocabulaire ou information reçue.
+3. Inviter les personnes concernées à corriger la fiche si elles le souhaitent, sans leur assigner un rôle à jouer ni demander des détails privés.
+
+La fiche peut organiser une consultation. Elle ne permet pas de deviner les craintes d’un groupe et laisse entière la possibilité d’un désaccord sur la décision.
 
 ### 3. Technique de l'itération rapide : feedback par étapes
-Présentez une décision par étapes si cela convient au groupe. Demandez ensuite ce que la mesure changerait concrètement dans le travail ou quelles informations manquent, et précisez que vous cherchez à vérifier votre explication.
 
-Les 90 secondes et les quelques mots retenus par Fabien dans la scène sont des choix de réunion, pas un protocole validé. L’équipe doit pouvoir faire préciser le contenu et exprimer un désaccord sans être mise à l’épreuve.
+**Objectif :** Vérifier son explication au poste sans mettre l’équipe à l’épreuve.
+
+1. Présenter un changement concret de la consigne et préciser qu’il cherche à améliorer son document.
+2. Demander ce que cela changerait dans la tâche et quels termes ou informations devraient être précisés.
+3. Corriger la fiche avec les retours, puis distinguer les ambiguïtés résolues des questions d’organisation encore ouvertes.
+
+Cette reprise peut révéler un mot compris différemment entre équipes. Les quatre visages, quelques mots ou durées de la scène ne constituent pas un protocole validé.
 
 ## La consigne au moment de la relève
 

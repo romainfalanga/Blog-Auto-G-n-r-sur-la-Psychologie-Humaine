@@ -1,0 +1,1240 @@
+{
+  "character_id": "anatole",
+  "bio": "Anatole, 29 ans, est médiateur scientifique dans un musée des techniques. Il vit avec un syndrome de la Tourette diagnostiqué depuis l’enfance : des tics moteurs et phoniques peuvent interrompre ses gestes ou ses phrases, et les retenir lui demande parfois beaucoup d’effort. Avec sa collègue Salomé, il prépare un parcours autour d’une maquette d’engrenages que les visiteurs pourront essayer. Son ami Elias et sa neurologue l’accompagnent chacun à leur place. Anatole veut garder le plaisir de transmettre et choisir ce qu’il explique de sa santé.",
+  "profile_topics": [
+    "Syndrome de la Tourette",
+    "Tics moteurs et phoniques",
+    "Effort de suppression",
+    "Variabilité des tics",
+    "Réactions des autres"
+  ],
+  "episodes": [
+    {
+      "number": 1,
+      "slug": "anatole-deux-facons-de-survenir",
+      "title": "Tics moteurs et phoniques au milieu d’une explication",
+      "description": "Un mouvement d’épaule et un son bref coupent la présentation d’Anatole. Avec Salomé, il cherche comment garder le fil de la démonstration.",
+      "context": "Anatole et Salomé préparent un parcours au musée des techniques autour d’une maquette manuelle d’engrenages.",
+      "topics": [
+        "Tics moteurs et phoniques",
+        "Médiation au musée",
+        "Syndrome de la Tourette"
+      ],
+      "clinical_focus": "Tics moteurs et phoniques",
+      "clinical_intro": "Les tics du syndrome de la Tourette peuvent concerner des mouvements et des sons, avec des formes qui changent au cours du temps. Au musée, Anatole veut expliquer une maquette sans devoir commenter chaque interruption. Cet épisode distingue ce qui survient dans son corps de ce qu’il essaie de transmettre à sa collègue.",
+      "opening": "Sur le dessin d’Anatole, une roue rouge touche une jaune, qui touche une petite bleue. Anatole a posé trois ronds de carton sur la table du musée pour montrer à Salomé ce que les visiteurs pourraient essayer. Il lève la main vers le troisième rond ; son épaule remonte brusquement et son doigt indique le bord de la table. Il reprend son geste. Un son bref sort de sa gorge au milieu du mot « engrenage ».\n\nSalomé lui tend sa bouteille d’eau. Il secoue la tête. « Merci, mais là, c’est un tic. Tu peux continuer à regarder la bleue. » Elle connaissait ses mouvements d’épaule ; elle n’avait jamais compris pourquoi il s’interrompait parfois ainsi. Anatole vit avec un syndrome de la Tourette diagnostiqué depuis l’enfance. Il n’a pourtant pas envie que leur première réunion sur le parcours devienne une présentation de son dossier médical.\n\nLa responsable attend demain un dessin de leur proposition. Anatole a une idée précise : les visiteurs tourneront une manivelle à la main, observeront le sens des roues, puis choisiront leurs questions. Salomé voudrait ajouter un long panneau. Lui préfère laisser de la place aux essais. Pendant qu’elle cherche une feuille, il perd la phrase qu’il allait dire. Il retrouve son idée en faisant glisser le rond bleu vers elle. « Ce que je voulais te montrer, c’est la place pour les mains. »",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Quand un tic coupe le geste ou la phrase",
+          "text": "Les tics sont des mouvements ou des sons soudains et répétés qui ne constituent pas le message que la personne veut transmettre. Dans le syndrome de la Tourette, des tics moteurs et phoniques font partie de l’histoire clinique, sans être nécessairement présents ensemble à chaque instant. Chez Anatole, le mouvement d’épaule et le son de gorge interrompent une explication. Ils ne disent rien de son avis sur le panneau ni de son envie de travailler avec Salomé."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment les tics interrompent-ils une démonstration ?",
+          "points": [
+            {
+              "heading": "Le geste dévie un instant",
+              "text": "Un tic moteur peut s’intercaler dans une action choisie, sans en devenir l’objectif.",
+              "examples": [
+                "Sur la table du musée, le doigt d’Anatole quitte brièvement le rond bleu quand son épaule remonte.",
+                "À son bureau, un clignement appuyé lui fait reprendre la lecture de la même légende."
+              ]
+            },
+            {
+              "heading": "Un son se glisse dans la parole",
+              "text": "Un tic phonique peut être un bruit bref ; il ne prend pas nécessairement la forme d’un mot.",
+              "examples": [
+                "Le son de gorge survient au milieu du mot « engrenage », sans qu’Anatole demande la parole à quelqu’un.",
+                "Lors d’un échange à l’accueil, un reniflement connu peut interrompre sa réponse sans signaler son désaccord."
+              ]
+            },
+            {
+              "heading": "La conversation demande une reprise",
+              "text": "La gêne vient aussi de ce que l’autre fait de l’interruption. Une pause peut suffire à retrouver le sujet.",
+              "examples": [
+                "Salomé cherche de l’eau alors qu’Anatole souhaite surtout revenir à la roue bleue.",
+                "Un collègue qui termine immédiatement sa phrase peut l’empêcher de formuler lui-même son idée."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour retrouver le fil après une interruption",
+          "points": [
+            {
+              "heading": "Garder un repère visible",
+              "objective": "Retrouver l’idée à expliquer sans surveiller les tics.",
+              "exercise": [
+                "Placez le dessin ou l’objet utile à portée de regard.",
+                "Indiquez le point de l’explication où vous étiez.",
+                "Reprenez à partir de ce point, ou demandez un instant si nécessaire."
+              ],
+              "benefit": "Un repère extérieur peut éviter de reconstruire toute la phrase."
+            },
+            {
+              "heading": "Convenir d’une réponse simple",
+              "objective": "Aider le collègue à répondre à votre besoin du moment.",
+              "exercise": [
+                "Choisissez ensemble une phrase telle que « je reprends ».",
+                "Dites si vous préférez du temps, une répétition de la question ou un relais.",
+                "Essayez cet accord sur un échange ordinaire et modifiez-le si besoin."
+              ],
+              "benefit": "La réponse dépend de votre demande, sans interprétation systématique du mouvement ou du son."
+            },
+            {
+              "heading": "Séparer l’information et le projet",
+              "objective": "Partager seulement les précisions utiles à la collaboration.",
+              "exercise": [
+                "Décidez de ce que vous souhaitez expliquer sur les tics.",
+                "Nommez l’adaptation qui aiderait aujourd’hui.",
+                "Revenez ensuite à la décision de travail attendue."
+              ],
+              "benefit": "Une explication brève peut laisser la place à votre expertise et à votre droit à la réserve."
+            }
+          ]
+        }
+      ],
+      "ending_title": "La place pour les mains",
+      "ending": "Anatole dessine un grand rectangle autour des trois roues. Salomé lui demande où elle peut se placer pour laisser un visiteur tourner la manivelle. Ils déplacent les cartons, discutent encore du panneau et en gardent une version courte. Avant de partir, elle demande : « Quand tu dis que tu reprends, je te laisse finir ? » Il acquiesce. Le dessin sera remis demain ; le prototype reste à construire. Un nouveau mouvement lui fait raturer un coin du cadre, et il demande une règle à Salomé.",
+      "conclusion": "Les interruptions motrices et phoniques ne remplacent ni les intentions ni les compétences d’Anatole. Le dessin partagé et un accord de conversation leur permettent de choisir le prototype, même lorsque les tics restent présents.",
+      "mirror": [
+        "Salomé peut partir de la main qui revient vers le carton : « Tu voulais me montrer ce coin ? » Elle peut attendre la réponse et proposer une aide si Anatole la demande. Elle n’a pas à nommer chaque tic, à finir toutes ses phrases ou à expliquer sa santé à l’équipe. Son avis sur le panneau reste aussi une contribution attendue."
+      ],
+      "sources": [
+        "oms-cddr",
+        "pnds-tourette-2022"
+      ],
+      "continuity": {
+        "choice": "Anatole et Salomé retiennent une maquette manuelle, un panneau court et la phrase « je reprends ».",
+        "next": "Le dessin doit être présenté à la responsable ; Anatole souhaite défendre la place laissée aux essais."
+      }
+    },
+    {
+      "number": 2,
+      "slug": "anatole-reunion-trop-silencieuse",
+      "title": "Effort de suppression quand une réunion paraît se passer sans difficulté",
+      "description": "Pendant la réunion, Anatole retient certains tics. Le silence apparent masque un effort qui lui fait perdre une partie des questions.",
+      "context": "Anatole et Salomé préparent un parcours au musée des techniques autour d’une maquette manuelle d’engrenages.",
+      "topics": [
+        "Coût de la suppression",
+        "Médiation au musée",
+        "Syndrome de la Tourette"
+      ],
+      "clinical_focus": "Coût de la suppression",
+      "clinical_intro": "Retenir temporairement certains tics peut demander beaucoup d’attention et d’effort. La possibilité de le faire ne signifie pas que cet effort soit disponible ou souhaitable à tout moment. Après une réunion au musée, Anatole décrit ce que son calme apparent lui a coûté et cherche un appui pour les échanges suivants.",
+      "opening": "La responsable du musée regarde le dessin et demande si la maquette tiendra sur une seule table. Anatole sait répondre : il a mesuré l’emplacement hier. Il sent pourtant sa nuque se tendre et consacre une partie de son attention à retenir un mouvement qu’il redoute devant les deux personnes invitées pour le budget. Il regarde le bord du dossier et répond trop vite : « Oui, je pense. » Il avait prévu d’ajouter qu’il fallait garder un espace sur le côté.\n\nSalomé ouvre son carnet. L’un des invités demande combien de visiteurs pourront essayer en même temps. Anatole entend la fin de la phrase, mais doit faire répéter le début. Il voudrait relâcher son attention ; il craint aussi que le son de gorge déjà présent ce matin détourne toute la réunion. Il continue à retenir certains tics, sans les faire tous disparaître.\n\nQuand les autres sortent, Salomé lui dit qu’ils ont obtenu l’accord pour fabriquer le prototype. Puis elle ajoute : « Tu avais l’air à l’aise. » Anatole reste assis. Il est content de l’accord, mais n’a plus envie d’expliquer le système des roues. Elias, son ami illustrateur, doit le retrouver pour déjeuner et regarder les légendes. Il lui écrit qu’il aura besoin d’un moment tranquille avant les dessins. Il demande aussi à Salomé de lui redire ce qu’ils ont promis pour la taille des groupes.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Un résultat visible ne mesure pas l’effort fourni",
+          "text": "Une suppression temporaire des tics peut mobiliser un effort mental important, variable selon les personnes et les moments. Elle ne constitue pas une preuve de contrôle permanent. Anatole retient certains tics pendant la réunion et manque une partie des questions. Sa fatigue est son vécu de cette situation ; elle ne permet pas de prévoir un rebond systématique des tics après chaque effort. Pour préparer la suite, ce qu’il rapporte compte autant que l’impression de calme laissée aux autres."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment le coût de la suppression peut-il passer inaperçu ?",
+          "points": [
+            {
+              "heading": "L’attention se partage",
+              "text": "Suivre un échange devient plus difficile quand une partie de l’attention sert à retenir un tic.",
+              "examples": [
+                "Anatole oublie de préciser la place nécessaire à côté de la table.",
+                "À la fin de la réunion, il ne sait plus quelle taille de groupe a été retenue."
+              ]
+            },
+            {
+              "heading": "Le calme apparent prête à confusion",
+              "text": "L’absence de certains signes visibles ne renseigne pas sur le confort de la personne.",
+              "examples": [
+                "Salomé croit Anatole à l’aise parce qu’il a peu interrompu la discussion.",
+                "Un invité peut penser qu’une présentation silencieuse pourra être répétée toute la journée."
+              ]
+            },
+            {
+              "heading": "Le temps suivant devient moins disponible",
+              "text": "L’effort ressenti peut modifier ce que la personne souhaite faire ensuite.",
+              "examples": [
+                "Anatole reporte la lecture des légendes avec Elias après un temps tranquille.",
+                "Il choisit de relire les décisions par écrit avant d’accepter une nouvelle réunion."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour rendre l’effort pris en compte",
+          "points": [
+            {
+              "heading": "Décrire une conséquence concrète",
+              "objective": "Faire comprendre un coût invisible sans devoir démontrer un tic.",
+              "exercise": [
+                "Choisissez une conséquence de l’échange, comme une question manquée.",
+                "Dites ce qui vous a demandé de l’attention, si vous souhaitez le partager.",
+                "Précisez l’aide utile pour la prochaine fois."
+              ],
+              "benefit": "Le collègue dispose d’une demande sur laquelle agir au lieu d’estimer votre confort à votre apparence."
+            },
+            {
+              "heading": "Préparer une trace des décisions",
+              "objective": "Réduire la charge de mémorisation pendant une réunion.",
+              "exercise": [
+                "Convenez de qui notera les décisions.",
+                "Gardez visibles les questions auxquelles vous voulez répondre.",
+                "Relisez le compte rendu avant de confirmer un engagement."
+              ],
+              "benefit": "Cette organisation peut préserver le contenu du travail, quels que soient les tics visibles."
+            },
+            {
+              "heading": "Laisser une marge après l’échange",
+              "objective": "Pouvoir réviser le programme selon l’effort ressenti.",
+              "exercise": [
+                "Repérez les rendez-vous qui se suivent sans intervalle.",
+                "Gardez un créneau libre quand cela est possible.",
+                "Décidez ensuite de l’utiliser pour vous reposer, travailler ou demander un relais."
+              ],
+              "benefit": "La marge reste une possibilité choisie ; elle n’organise ni suppression ni expression obligatoire des tics."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Les légendes attendront le café",
+      "ending": "Salomé retrouve dans ses notes un essai avec six visiteurs, sans engagement pour une journée entière. Elle envoie le compte rendu à Anatole et lui propose de garder ce rôle lors des prochaines réunions. Il accepte. Au déjeuner, Elias lui raconte d’abord son travail sur une affiche ; ils laissent les légendes dans le sac. Anatole les sort après le café et n’en relit que deux. Il voudrait pouvoir parler librement à la prochaine réunion, mais ne sait pas encore ce qu’il choisira devant de nouveaux interlocuteurs.",
+      "conclusion": "Une réunion peu interrompue peut avoir demandé un effort considérable. Anatole obtient une trace des décisions et du temps entre ses engagements. Ces accords prennent en compte son vécu sans faire du nombre de tics un objectif professionnel.",
+      "mirror": [
+        "Salomé peut corriger son impression : « Je t’ai trouvé à l’aise, mais je ne savais pas l’effort. Je te renvoie mes notes. » Elias peut accepter de différer les dessins sans commenter les tics qui surviennent au déjeuner. Chacun peut dire le temps dont il dispose ; aucun n’a à vérifier si Anatole retient assez ou s’il devrait se laisser aller davantage."
+      ],
+      "sources": [
+        "oms-cddr",
+        "pnds-tourette-2022",
+        "essts-evaluation-2022"
+      ],
+      "continuity": {
+        "choice": "Anatole demande un compte rendu et reporte une partie du travail avec Elias.",
+        "next": "Un premier essai de six visiteurs est autorisé ; la fabrication et les répétitions peuvent commencer."
+      }
+    },
+    {
+      "number": 3,
+      "slug": "anatole-deux-repetitions",
+      "title": "Variabilité des tics entre deux répétitions du même atelier",
+      "description": "Une répétition facile est suivie d’un matin plus heurté. Anatole hésite à abandonner la maquette et compare ce qui change réellement.",
+      "context": "Anatole et Salomé préparent un parcours au musée des techniques autour d’une maquette manuelle d’engrenages.",
+      "topics": [
+        "Fluctuations des tics",
+        "Médiation au musée",
+        "Syndrome de la Tourette"
+      ],
+      "clinical_focus": "Fluctuations des tics",
+      "clinical_intro": "Les tics peuvent varier dans leur forme et leur intensité, y compris lorsque l’activité semble identique. Une amélioration ponctuelle ou un retour des difficultés ne suffit pas à prévoir l’évolution. Entre deux répétitions de son atelier, Anatole cherche à adapter la préparation sans conclure trop vite à une réussite définitive ou à un échec.",
+      "opening": "Mardi, Anatole a présenté la maquette provisoire sans perdre une seule explication. Salomé a tourné la manivelle, posé une question volontairement compliquée, puis demandé pourquoi la roue bleue repartait à l’envers. Ils ont ri d’une flèche mal dessinée. Il a quitté le musée en imaginant déjà le premier groupe autour de la table.\n\nJeudi matin, les mêmes roues attendent au même endroit. Le mouvement de son cou revient par séries et le son de gorge interrompt plusieurs phrases. Il doit reprendre la première consigne trois fois. Salomé demande si le panneau est mal placé. Il répond sèchement que le panneau n’a pas bougé. Elle recule sa chaise ; il entend aussitôt le ton qu’il a pris.\n\nAnatole regarde les marques de crayon sur la table. Il se demande si mardi était seulement un hasard et s’il devrait renoncer à accueillir le groupe. Il a moins bien dormi cette nuit, mais il ne sait pas quelle place cela a dans ce matin difficile. Sur le carnet, il écrit « répétition impossible », puis barre le dernier mot. La maquette a tourné correctement et Salomé a compris l’essai. Ce qui a échoué est leur tentative de tout dire d’une seule traite. Il lui propose de regarder le déroulé avant de décider de la suite.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "La même tâche n’entraîne pas le même jour",
+          "text": "Les tics peuvent fluctuer au fil du temps, en intensité comme en forme, et leur évolution ne se réduit pas à la qualité d’un effort. Certains contextes les modifient sans fournir une explication certaine à chaque changement. Anatole ne peut déduire du mardi facile que toutes les répétitions le seront. Le jeudi difficile ne retire pas non plus ce qui a fonctionné dans la maquette. La décision porte sur ce qu’ils peuvent essayer aujourd’hui, avec une marge pour une autre présentation."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment les fluctuations changent-elles les attentes ?",
+          "points": [
+            {
+              "heading": "Le succès devient une obligation",
+              "text": "Une bonne séance peut servir à tort de référence exigée pour toutes les suivantes.",
+              "examples": [
+                "Anatole attend de jeudi la même continuité de parole que mardi.",
+                "Salomé cherche d’abord une modification du panneau, comme si la répétition devait reproduire exactement le même résultat."
+              ]
+            },
+            {
+              "heading": "La difficulté semble annuler le travail",
+              "text": "Un moment plus gênant peut masquer les éléments qui restent utilisables.",
+              "examples": [
+                "Anatole écrit « impossible » alors que les roues et les questions fonctionnent.",
+                "Il pense retirer son nom du premier essai avant d’avoir discuté des pauses."
+              ]
+            },
+            {
+              "heading": "Les explications restent partielles",
+              "text": "Repérer un contexte donne une piste à discuter, pas une cause démontrée.",
+              "examples": [
+                "Anatole mentionne une nuit moins reposante sans lui attribuer tous les changements.",
+                "Deux séances à la même heure peuvent rester différentes malgré un déroulé identique."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour préparer un atelier qui peut varier",
+          "points": [
+            {
+              "heading": "Décrire la séance sans la noter",
+              "objective": "Distinguer les difficultés du jugement porté sur tout le projet.",
+              "exercise": [
+                "Notez un élément qui a gêné l’activité.",
+                "Ajoutez ce qui a tout de même été possible.",
+                "Choisissez une modification limitée à essayer au prochain passage."
+              ],
+              "benefit": "La description aide à décider sans classer chaque jour comme réussite ou échec personnel."
+            },
+            {
+              "heading": "Prévoir plusieurs façons de poursuivre",
+              "objective": "Conserver un choix si une explication devient coûteuse.",
+              "exercise": [
+                "Repérez un passage où le visiteur peut observer le dessin.",
+                "Convenez du rôle que le collègue accepte de prendre.",
+                "Décidez ensemble quand reprendre, écourter ou reporter une répétition."
+              ],
+              "benefit": "Un autre déroulé rend la variabilité compatible avec la préparation, sans exiger une baisse des tics."
+            },
+            {
+              "heading": "Apporter une tendance au suivi",
+              "objective": "Discuter un changement qui dure ou devient gênant.",
+              "exercise": [
+                "Gardez quelques exemples datés si cela vous convient.",
+                "Décrivez leur effet sur le travail ou le confort plutôt que de compter continuellement les tics.",
+                "Contactez le professionnel de suivi si la gêne change ou vous inquiète."
+              ],
+              "benefit": "Des exemples situés peuvent aider l’évaluation sans transformer le quotidien en surveillance."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Une phrase à la fois",
+      "ending": "Anatole s’excuse pour sa réponse sèche. Salomé lui dit qu’elle cherchait une solution matérielle et ne savait pas qu’il se demandait s’il fallait tout arrêter. Ils divisent la première consigne en deux, avec un moment où le visiteur regarde tourner les roues. La deuxième tentative reste interrompue, mais ils arrivent au bout du parcours. Ils gardent le groupe de six et prévoient une version plus courte. Anatole note ces deux matinées pour le rendez-vous déjà prévu avec sa neurologue.",
+      "conclusion": "La variabilité peut changer les conditions d’une même activité sans effacer les acquis du projet. Anatole garde le premier essai et lui ajoute une version courte ; le prochain matin reste imprévisible.",
+      "mirror": [
+        "Salomé peut dire : « Mardi nous a donné une idée, aujourd’hui nous en donne une autre. Quel passage veux-tu garder ? » Elle peut proposer le relais qu’elle est en mesure d’assurer, sans promettre un déroulé identique. Un proche peut écouter la déception d’Anatole sans lui attribuer le changement ni chercher chaque soir la cause de ses tics."
+      ],
+      "sources": [
+        "oms-cddr",
+        "essts-evaluation-2022"
+      ],
+      "continuity": {
+        "choice": "Anatole maintient le groupe de six avec une consigne divisée et une version courte.",
+        "next": "Il apportera les deux répétitions au rendez-vous prévu avec la docteure Lenoir."
+      }
+    },
+    {
+      "number": 4,
+      "slug": "anatole-des-mots-pour-la-nuque",
+      "title": "Sensations prémonitoires quand tous les tics ne préviennent pas",
+      "description": "Chez la neurologue, Anatole décrit une traction avant certains mouvements du cou. Il n’identifie pas de sensation avant tous ses tics.",
+      "context": "La préparation du parcours d’engrenages continue au musée des techniques, dans le suivi déjà établi d’Anatole.",
+      "topics": [
+        "Sensations prémonitoires variables",
+        "Médiation au musée",
+        "Syndrome de la Tourette"
+      ],
+      "clinical_focus": "Sensations prémonitoires variables",
+      "clinical_intro": "Une sensation prémonitoire peut précéder certains tics, mais sa présence, sa perception et sa description varient. Elle ne donne pas nécessairement le moyen d’éviter le tic. Au rendez-vous de suivi, Anatole distingue ce qu’il sent avant certains mouvements de ce qu’il découvre seulement après, sans devoir fournir une explication pour chaque interruption.",
+      "opening": "La docteure Lenoir pose le carnet à côté de son ordinateur. Anatole y a noté le mardi facile, le jeudi plus heurté et la question du temps après les réunions. Il veut surtout parler de la sensation dans sa nuque : parfois, avant le mouvement, il éprouve une traction difficile à laisser en arrière-plan. Il cherche une comparaison dans les objets du musée, puis s’arrête. Il ne veut pas donner l’impression qu’une roue bloquée expliquerait tout son corps.\n\n« Une traction, c’est déjà une description », répond la neurologue. Elle lui demande si cela concerne tous les mouvements. Il pense à ses clignements et ne retrouve rien de semblable. Certains jours, il s’aperçoit du son de gorge parce qu’il l’a entendu ; d’autres fois, il a senti quelque chose avant. Il avait craint que ces réponses inégales paraissent contradictoires.\n\nLa docteure n’attend pas qu’il produise le mouvement dans le cabinet. Ils reviennent à ce qui le gêne et à ce qu’il veut préserver : répondre aux visiteurs sans consacrer la séance entière à son corps. Anatole lui raconte la réunion où il a perdu une question en retenant certains tics. Il lui demande comment expliquer cette sensation à Salomé, qui imagine qu’un signal préalable permet toujours de décider. Il veut corriger cette idée, tout en gardant certains détails pour le suivi.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Un ressenti préalable n’est pas un bouton de commande",
+          "text": "Les sensations qui peuvent précéder un tic ne sont ni identiques ni toujours repérables chez une même personne. Leur présence ne permet pas de déduire ce qu’elle pourrait empêcher. Anatole décrit une traction avant certains mouvements du cou, mais pas avant tous ses clignements ou sons. La neurologue accueille ces différences et les relie à son vécu. L’objectif de cet échange est de mieux comprendre sa gêne, sans exiger qu’il scrute chaque sensation au travail."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment une sensation prémonitoire peut-elle être vécue ?",
+          "points": [
+            {
+              "heading": "Un inconfort précède certains tics",
+              "text": "Le ressenti peut prendre une place dans l’attention avant que le mouvement survienne.",
+              "examples": [
+                "Anatole parle d’une traction dans la nuque avant certains mouvements du cou.",
+                "Pendant une explication au musée, cet inconfort peut concurrencer la question qu’il écoute."
+              ]
+            },
+            {
+              "heading": "D’autres tics ne sont pas annoncés clairement",
+              "text": "La conscience d’un signe préalable varie selon le tic et le moment.",
+              "examples": [
+                "Anatole ne retrouve pas de sensation identifiable avant plusieurs clignements.",
+                "Il lui arrive de prendre conscience d’un son de gorge seulement en l’entendant."
+              ]
+            },
+            {
+              "heading": "Les mots ne disent pas tout le vécu",
+              "text": "Une comparaison aide à parler, mais ne doit pas devenir une obligation d’expliquer chaque occurrence.",
+              "examples": [
+                "Le mot « traction » suffit au rendez-vous sans démonstration du mouvement.",
+                "Avec Salomé, Anatole préfère dire « je sens parfois quelque chose avant » plutôt que détailler sa nuque."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour parler de son ressenti sans devoir le prouver",
+          "points": [
+            {
+              "heading": "Choisir un exemple déjà vécu",
+              "objective": "Préparer une description utile au suivi sans provoquer de sensation.",
+              "exercise": [
+                "Repensez à un moment que vous souhaitez discuter.",
+                "Notez les mots qui vous viennent, y compris une incertitude.",
+                "Apportez cet exemple au professionnel sans essayer de le reproduire."
+              ],
+              "benefit": "Un souvenir situé peut ouvrir la discussion sans transformer le corps en démonstration."
+            },
+            {
+              "heading": "Garder le droit de ne pas savoir",
+              "objective": "Éviter qu’une question appelle une réponse artificiellement précise.",
+              "exercise": [
+                "Distinguez ce que vous avez remarqué de ce que vous supposez.",
+                "Dites « je ne sais pas pour celui-là » si c’est le cas.",
+                "Demandez si cette incertitude nécessite simplement d’être notée."
+              ],
+              "benefit": "La description reste fidèle à votre expérience et peut être reprise plus tard."
+            },
+            {
+              "heading": "Limiter l’explication au collègue",
+              "objective": "Corriger une idée fausse sans partager tout le rendez-vous.",
+              "exercise": [
+                "Choisissez la précision que vous voulez donner.",
+                "Dites qu’un ressenti préalable ne signifie pas un contrôle disponible.",
+                "Précisez le soutien concret attendu pendant le travail."
+              ],
+              "benefit": "Le collègue peut adapter son comportement sans connaître chaque sensation."
+            }
+          ]
+        }
+      ],
+      "ending_title": "La phrase gardée pour Salomé",
+      "ending": "Dans le tram du retour, Anatole écrit une phrase : « Parfois je sens le tic venir ; ça ne veut pas dire que je peux simplement l’annuler. » Il la dit à Salomé l’après-midi, quand elle lui demande si le rendez-vous lui a été utile. Elle répond qu’elle avait effectivement fait ce raccourci. Il ajoute qu’il préfère qu’elle lui laisse du temps pour reprendre, comme ils l’ont convenu. Il garde le reste de ses notes. La traction revient pendant leur échange ; il n’en fait pas un deuxième sujet.",
+      "conclusion": "Une sensation prémonitoire peut aider Anatole à décrire son vécu sans expliquer tous ses tics ni prouver qu’il pourrait les empêcher. Il conserve ses mots, ses incertitudes et le choix de ce qu’il partage au musée.",
+      "mirror": [
+        "Salomé peut répondre : « Je comprends mieux la différence. Tu veux qu’on revienne au dessin ? » Elle peut accepter qu’Anatole ne décrive pas chaque tic et ne pas lui demander de signaler toutes les sensations avant qu’elles surviennent. Un proche peut aider à préparer une question de suivi si Anatole le souhaite, puis laisser les informations médicales dans leur cadre."
+      ],
+      "sources": [
+        "oms-cddr",
+        "essts-evaluation-2022"
+      ],
+      "continuity": {
+        "choice": "Anatole choisit une phrase sur les sensations et garde les autres notes pour son suivi.",
+        "next": "La maquette doit maintenant être montrée à Denis, collègue chargé de l’installation."
+      }
+    },
+    {
+      "number": 5,
+      "slug": "anatole-pas-de-demonstration",
+      "title": "Suggestibilité des tics quand une question demande de les montrer",
+      "description": "Denis veut comprendre les tics d’Anatole et lui demande une démonstration. Anatole arrête cette discussion pour revenir à l’installation.",
+      "context": "La préparation du parcours d’engrenages continue au musée des techniques, dans le suivi déjà établi d’Anatole.",
+      "topics": [
+        "Suggestibilité des tics",
+        "Médiation au musée",
+        "Syndrome de la Tourette"
+      ],
+      "clinical_focus": "Suggestibilité des tics",
+      "clinical_intro": "Chez certaines personnes, évoquer un tic ou attirer fortement l’attention sur lui peut modifier sa survenue. Cette suggestibilité varie et ne justifie pas de demander une démonstration. Lors de la préparation de l’installation, Anatole pose une limite à des questions qui l’éloignent de son travail et choisit comment reprendre l’échange.",
+      "opening": "Denis arrive avec un mètre et une tablette où sont dessinées les tables disponibles. Il n’a pas encore travaillé avec Anatole. Salomé lui montre la maquette provisoire ; Anatole explique l’espace nécessaire pour tourner la manivelle sans se presser. Un mouvement de son épaule interrompt son geste. Denis lui demande s’il s’est fait mal. Il répond que c’est un tic, puis revient aux dimensions.\n\nDenis veut bien faire. Il raconte avoir vu un reportage et commence à demander si Anatole a aussi tel mouvement, puis tel son. Anatole remarque que l’un de ses tics devient plus présent pendant cette liste. Il n’a pas envie d’en chercher la cause sur le moment. Quand Denis demande « Et ça ressemble à quoi, exactement ? », il pose le dessin sur la table. « Je ne vais pas faire une démonstration. On peut parler de l’installation ? »\n\nSalomé hésite une seconde : elle voudrait expliquer le syndrome à sa place pour combler le silence. Elle se souvient qu’Anatole choisit ce qu’il partage. Elle montre donc la largeur de la table. Denis baisse sa tablette et dit qu’il n’avait pas pensé que sa curiosité prenait autant de place. Anatole aurait préféré ne pas consacrer ce temps aux tics. Il a encore besoin de l’avis de Denis sur l’emplacement ; il essaie de garder cette demande possible sans retirer sa limite.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Quand en parler change déjà la situation",
+          "text": "L’attention portée à certains tics et leur évocation peuvent favoriser leur survenue chez une personne sensible à ces indices. Ce phénomène n’est pas systématique et ne rend pas la personne responsable de la réaction. Anatole remarque un changement pendant les questions de Denis, sans en faire une preuve ni une expérience. Il peut interrompre la description, même si Denis est bien intentionné. Leur rencontre reste consacrée à une table et à une installation."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment la suggestibilité peut-elle peser sur un échange ?",
+          "points": [
+            {
+              "heading": "Le catalogue des symptômes occupe l’attention",
+              "text": "Décrire longuement des tics peut déplacer le sujet de la rencontre et le vécu de la personne.",
+              "examples": [
+                "Denis énumère des mouvements alors qu’Anatole essaie de préciser une largeur.",
+                "Anatole remarque davantage l’un de ses tics pendant cette énumération."
+              ]
+            },
+            {
+              "heading": "La curiosité devient une demande de preuve",
+              "text": "Une personne peut se retrouver invitée à montrer ce qu’elle voulait seulement nommer.",
+              "examples": [
+                "La question « ça ressemble à quoi ? » appelle une démonstration qu’Anatole refuse.",
+                "Un visiteur peut demander à revoir un mouvement au lieu d’écouter l’explication en cours."
+              ]
+            },
+            {
+              "heading": "La limite peut préserver la relation",
+              "text": "Arrêter un sujet n’oblige pas à abandonner toute la collaboration.",
+              "examples": [
+                "Anatole remet le dessin au centre pour continuer avec Denis.",
+                "Salomé prend le relais sur les dimensions sans ajouter de détails sur sa santé."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour poser une limite aux questions sur les tics",
+          "points": [
+            {
+              "heading": "Préparer une phrase d’arrêt",
+              "objective": "Disposer de mots accessibles lorsque la curiosité devient gênante.",
+              "exercise": [
+                "Choisissez une phrase brève telle que « je préfère ne pas détailler ».",
+                "Ajoutez le sujet auquel vous voulez revenir.",
+                "Gardez la possibilité d’interrompre l’échange si la limite n’est pas respectée."
+              ],
+              "benefit": "Une phrase préparée peut réduire l’effort de justification au moment où l’attention est sollicitée."
+            },
+            {
+              "heading": "Convenir d’un soutien discret",
+              "objective": "Permettre à un collègue de vous appuyer sans parler de votre santé à votre place.",
+              "exercise": [
+                "Dites-lui quel signe ou quelle phrase signifie que vous voulez revenir au travail.",
+                "Choisissez une intervention qu’il accepte, comme reprendre le plan de la table.",
+                "Vérifiez ensuite si son aide vous a convenu."
+              ],
+              "benefit": "Le soutien porte sur la conversation et reste soumis à votre accord."
+            },
+            {
+              "heading": "Choisir un autre moment d’information",
+              "objective": "Répondre éventuellement à une question sans la subir pendant une tâche.",
+              "exercise": [
+                "Décidez si vous souhaitez donner une information générale.",
+                "Indiquez un moment ou un support approprié, si vous en avez envie.",
+                "Refusez les demandes de reproduction ou d’imitation des symptômes."
+              ],
+              "benefit": "L’information peut exister sans utiliser votre corps comme démonstration ni promettre une réaction donnée."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Le mètre retrouve la table",
+      "ending": "Denis mesure le côté de la maquette et propose une table plus large que celle du dessin. Anatole vérifie qu’elle entre dans la salle. Il ne reprend pas la discussion sur ses symptômes. Au départ de Denis, Salomé demande si sa façon de revenir aux dimensions lui a convenu. Il répond oui et lui propose de garder la même intervention si une question devient insistante devant le public. Il ne sait pas si ce sera toujours facile à dire. Le nouvel emplacement est réservé pour leur essai.",
+      "conclusion": "La suggestibilité n’impose ni silence complet sur le syndrome ni démonstration de tics. Anatole garde le choix du moment, du niveau de détail et de l’arrêt d’une discussion, tout en poursuivant l’installation avec Denis.",
+      "mirror": [
+        "Denis peut dire simplement : « D’accord, revenons à la table », puis le faire. Salomé peut reprendre la tâche convenue sans expliquer pourquoi un tic semble plus présent. Si une personne insiste, elle peut soutenir la limite d’Anatole et proposer de poursuivre le travail plus tard. Aucun proche n’a à tester ce qui déclencherait ou ferait disparaître un tic."
+      ],
+      "sources": [
+        "oms-cddr",
+        "essts-evaluation-2022"
+      ],
+      "continuity": {
+        "choice": "Anatole refuse la démonstration et autorise Salomé à recentrer une conversation insistante sur le travail.",
+        "next": "La table plus large est réservée ; Elias vient ensuite aider à tester les dessins de la fiche."
+      }
+    },
+    {
+      "number": 6,
+      "slug": "anatole-fleches-et-silence",
+      "title": "Diminution des tics pendant une activité absorbante : une variation à respecter",
+      "description": "En corrigeant les flèches avec Elias, Anatole a moins de tics visibles. Ce moment agréable ne permet pas d’exiger la même chose face au public.",
+      "context": "La préparation du parcours d’engrenages continue au musée des techniques, dans le suivi déjà établi d’Anatole.",
+      "topics": [
+        "Concentration agréable et tics",
+        "Médiation au musée",
+        "Syndrome de la Tourette"
+      ],
+      "clinical_focus": "Concentration agréable et tics",
+      "clinical_intro": "Une activité agréable et absorbante peut s’accompagner d’une diminution des tics chez certaines personnes, sans que cet effet soit constant ni reproductible à volonté. En dessinant avec Elias, Anatole profite d’un moment plus fluide. Il cherche ensuite comment garder ce plaisir sans en faire une consigne de performance pour ses visites.",
+      "opening": "Elias a apporté trois crayons de couleur et un sandwich emballé trop serré. Anatole défait le papier pendant que son ami pose le dessin de la roue bleue sur la table du musée. Une flèche indique le mauvais sens. Ils reprennent le croquis, tournent la manivelle et comparent les couleurs ; au bout d’un moment, Anatole ne pense plus à la réunion ni à la façon dont il devra parler devant les visiteurs.\n\nLes deux amis connaissent ces séances où le travail se mélange à leurs histoires de semaine. Anatole cherche une expression simple pour expliquer deux roues qui se touchent. Elias propose une formule si mauvaise qu’ils la gardent au dos de la feuille pour rire. Les interruptions sont moins présentes pendant une partie de ce travail. Anatole le remarque lorsqu’il relève la tête pour répondre au téléphone.\n\nAprès l’appel, Salomé passe chercher le dessin. Elle demande s’ils pourraient commencer chaque visite par ce moment de croquis, puisqu’il semble aider Anatole. La proposition lui plaît sur le plan de la médiation : les visiteurs pourraient dessiner leur hypothèse. Mais il se crispe à l’idée qu’il faudrait retrouver cet état à chaque séance pour parler correctement. Il pose la feuille entre eux. « On peut garder le dessin parce qu’il est utile. Je ne peux pas promettre ce que feront mes tics. »",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Un moment absorbant ne devient pas une obligation",
+          "text": "Les tics peuvent diminuer pendant une activité appréciée qui mobilise l’attention, sans que ce soit un effet garanti ni un moyen universel de les contrôler. Le moment partagé avec Elias est moins interrompu, mais il ne ressemble pas entièrement à une rencontre publique. Anatole peut garder ce qui lui plaît dans le dessin sans devoir reproduire son état intérieur. La valeur du croquis se mesure aussi à ce qu’il permet aux visiteurs de comprendre."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment un moment plus fluide peut-il être mal interprété ?",
+          "points": [
+            {
+              "heading": "La tâche change la place de l’attention",
+              "text": "Le plaisir et l’absorption peuvent accompagner une variation des tics sans consigne de suppression.",
+              "examples": [
+                "Anatole s’intéresse aux flèches et à la formule d’Elias, sans chercher à retenir un mouvement.",
+                "Il remarque les interruptions moins présentes seulement en relevant la tête pour l’appel."
+              ]
+            },
+            {
+              "heading": "Le contexte compte autant que l’activité",
+              "text": "Faire un dessin avec un ami n’est pas identique à l’expliquer devant un groupe.",
+              "examples": [
+                "Elias laisse les deux amis passer du sandwich aux roues sans horaire de présentation.",
+                "Pendant une visite, Anatole devra aussi accueillir les questions et tenir compte du groupe."
+              ]
+            },
+            {
+              "heading": "Une aide devient une attente de résultat",
+              "text": "L’activité peut perdre son intérêt si elle doit produire un état précis.",
+              "examples": [
+                "Anatole apprécie le croquis mais redoute de devoir être sans tic pour le commencer.",
+                "Salomé pourrait conclure trop vite qu’un dessin inefficace sur les tics a raté son objectif pédagogique."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour préserver le plaisir d’une activité",
+          "points": [
+            {
+              "heading": "Nommer son objectif propre",
+              "objective": "Choisir une activité pour ce qu’elle apporte au projet.",
+              "exercise": [
+                "Dites ce que le dessin permettra de comprendre.",
+                "Choisissez une consigne accessible aux visiteurs.",
+                "Évaluez ensuite la compréhension sans utiliser le nombre de tics comme résultat."
+              ],
+              "benefit": "L’activité garde son sens même un jour où les tics restent présents."
+            },
+            {
+              "heading": "Distinguer deux contextes",
+              "objective": "Éviter d’exiger d’une visite ce qui s’est produit entre amis.",
+              "exercise": [
+                "Décrivez les personnes, la durée et les contraintes du moment agréable.",
+                "Repérez ce qui sera différent devant le groupe.",
+                "Gardez seulement les éléments que vous souhaitez et pouvez réutiliser."
+              ],
+              "benefit": "La comparaison prépare l’accueil tout en laissant l’expérience suivante ouverte."
+            },
+            {
+              "heading": "Conserver un loisir hors du soin",
+              "objective": "Pouvoir continuer une activité sans en faire un exercice imposé.",
+              "exercise": [
+                "Choisissez un moment que vous avez envie de partager.",
+                "Décidez si vous voulez parler du syndrome pendant ce moment.",
+                "Changez d’activité ou arrêtez selon votre préférence et celle de l’autre."
+              ],
+              "benefit": "Le plaisir relationnel n’a pas à justifier son existence par un effet clinique."
+            }
+          ]
+        }
+      ],
+      "ending_title": "La flèche reste au bon endroit",
+      "ending": "Ils ajoutent une question au début de la fiche : « Dans quel sens la dernière roue va-t-elle tourner ? » Salomé se charge d’imprimer quelques copies. Elle dit qu’elle évaluera la question en écoutant les réponses des visiteurs. Anatole se sent moins tenu de reproduire le calme du croquis. Elias lui propose de finir les sandwichs dehors. Ils parlent d’une exposition d’affiches qu’ils aimeraient voir après l’ouverture du parcours. Le son de gorge revient pendant qu’Anatole cherche son manteau ; la sortie reste prévue.",
+      "conclusion": "Un moment de concentration agréable peut modifier les tics sans devenir une méthode à reproduire sur commande. Anatole garde le croquis pour sa valeur de médiation, et un déjeuner avec Elias pour le plaisir d’être ensemble.",
+      "mirror": [
+        "Salomé peut dire : « Gardons le dessin s’il aide les visiteurs ; on verra comment tu te sens ce jour-là. » Elias peut continuer à proposer des sorties sans vérifier leur effet sur les tics. Ils peuvent accueillir un moment plus facile sans en faire la preuve qu’Anatole devrait retrouver cet état. Leurs activités restent aussi des choix de collègues et d’amis."
+      ],
+      "sources": [
+        "oms-cddr",
+        "essts-evaluation-2022"
+      ],
+      "continuity": {
+        "choice": "Anatole accepte la question dessinée comme outil pédagogique sans objectif de diminution des tics.",
+        "next": "La fiche illustrée sera relue ; le sens des gestes répétés pendant le travail suscitera une nouvelle discussion."
+      }
+    },
+    {
+      "number": 7,
+      "slug": "anatole-crayon-qui-bat-la-mesure",
+      "title": "Tics et autres gestes répétés : regarder le contexte avant de nommer",
+      "description": "Anatole bat la mesure avec son crayon pour relire une phrase. Denis y voit un tic, et la relecture change de sujet.",
+      "context": "Anatole et Salomé préparent le parcours de la maquette d’engrenages au musée des techniques.",
+      "topics": [
+        "Tics et gestes répétés",
+        "Médiation au musée",
+        "Syndrome de la Tourette"
+      ],
+      "clinical_focus": "Tics et gestes répétés",
+      "clinical_intro": "Un geste répété ne permet pas, à lui seul, de reconnaître un tic ni un autre trouble du mouvement. Le contexte, le vécu et l’histoire du geste comptent dans l’évaluation. Pendant la relecture d’une fiche, Anatole distingue son geste choisi des tics qui interrompent aussi le travail, sans classer tous les mouvements de son entourage.",
+      "opening": "Anatole lit la première consigne à voix haute. Il frappe doucement son crayon contre le carnet pour entendre où la phrase devient trop longue. Elias lui avait montré ce procédé en corrigeant une légende ; il lui sert aujourd’hui à choisir entre deux formulations. Salomé attend la fin avec une copie de la fiche. Denis est venu leur remettre le plan de la salle.\n\n« Celui-là aussi, c’est un tic ? » demande-t-il en regardant le crayon. Anatole s’arrête. Il n’a pas envie de refaire la conversation sur ses symptômes, mais la question est plus courte cette fois. « Non, là je compte les morceaux de la phrase. » À cet instant, son épaule remonte sans suivre le rythme. Denis regarde successivement le crayon et son visage ; Anatole se demande si chaque geste sera désormais examiné ainsi.\n\nIl se souvient d’une explication de la docteure Lenoir : plusieurs mouvements répétés peuvent se ressembler, et leur forme seule ne suffit pas à tout distinguer. Il ne veut pas transformer cette idée en leçon de diagnostic pour le musée. Il dit simplement ce qu’il faisait avec le crayon. Salomé lui demande quelle version est plus facile à lire. Il répond que la plus courte laisse davantage de place au visiteur. Le choix de vocabulaire reste pourtant devant eux : sur une note interne, Denis avait écrit « gestes répétitifs à prévoir » à côté du nom d’Anatole.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "La répétition n’est pas une explication suffisante",
+          "text": "Un mouvement répété peut être un geste volontaire, un tic, une stéréotypie ou relever d’une autre situation ; son apparence ne suffit pas à le classer. Les stéréotypies ont souvent un déroulement plus prolongé ou rythmé que les tics, mais ces repères ne constituent pas un test à faire sur autrui. Anatole sait pourquoi il bat la mesure avec son crayon. Son diagnostic connu ne transforme pas tous ses gestes en symptômes et n’autorise pas ses collègues à poser un autre diagnostic."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment l’étiquette donnée à un geste modifie-t-elle le travail ?",
+          "points": [
+            {
+              "heading": "L’intention disparaît derrière le diagnostic",
+              "text": "Un geste utile peut être interprété comme symptôme dès que le diagnostic est connu.",
+              "examples": [
+                "Denis prend la mesure au crayon pour un tic alors qu’Anatole travaille la longueur de sa phrase.",
+                "À l’accueil, montrer plusieurs fois le sens d’une roue peut simplement servir à répondre à une question."
+              ]
+            },
+            {
+              "heading": "Les ressemblances invitent à des raccourcis",
+              "text": "Rythme, durée et ressenti se comprennent dans une histoire plus large ; aucun indice isolé ne tranche.",
+              "examples": [
+                "Le mouvement d’épaule d’Anatole ne suit pas la mesure qu’il choisit avec son crayon.",
+                "Observer une personne se balancer sur une chaise ne permet pas d’affirmer un tic, une stéréotypie ou leur cause."
+              ]
+            },
+            {
+              "heading": "La note de travail devient une description de la personne",
+              "text": "Une étiquette vague peut remplacer une adaptation précise et choisie.",
+              "examples": [
+                "La mention de Denis ne dit ni l’espace nécessaire ni le relais attendu.",
+                "Une fiche qui inscrit « attendre qu’il arrête » ajoute une condition étrangère au déroulé convenu."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour parler d’un geste sans réduire la personne à son diagnostic",
+          "points": [
+            {
+              "heading": "Demander ce qui est utile à la tâche",
+              "objective": "Laisser la personne expliquer son action si elle le souhaite.",
+              "exercise": [
+                "Décrivez brièvement ce qui vous gêne dans l’activité, s’il y a une gêne.",
+                "Demandez ce qui aiderait à poursuivre.",
+                "Acceptez que le sens médical du geste reste privé ou incertain."
+              ],
+              "benefit": "La conversation peut aboutir à un accord sans devenir une enquête sur les symptômes."
+            },
+            {
+              "heading": "Écrire une adaptation précise",
+              "objective": "Remplacer une catégorie vague par un accord de travail.",
+              "exercise": [
+                "Relisez la note avec la personne concernée.",
+                "Indiquez le besoin convenu, comme une place libre ou un temps de reprise.",
+                "Retirez les interprétations qui n’aident pas l’organisation."
+              ],
+              "benefit": "La note décrit ce que l’équipe peut faire, au lieu de classer les gestes."
+            },
+            {
+              "heading": "Réserver une question nouvelle au suivi",
+              "objective": "Obtenir une évaluation si un mouvement ou son retentissement interroge.",
+              "exercise": [
+                "Notez le changement qui vous préoccupe, sans chercher une étiquette.",
+                "Décrivez son contexte et son effet lors du contact professionnel.",
+                "Suivez les modalités de consultation proposées, sans tester des critères sur vous ou un tiers."
+              ],
+              "benefit": "Le professionnel peut examiner l’ensemble de la situation et les explications possibles."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Une consigne à la place de l’étiquette",
+      "ending": "Denis ouvre sa note. Anatole lui propose de remplacer la mention par « laisser la place latérale libre ; se référer aux accords de relais ». Ils vérifient que cette note reste une consigne d’installation pour l’équipe concernée. Denis accepte et ne décrit plus les gestes. Salomé choisit avec Anatole la phrase courte. Il reprend son crayon pour compter les mots, puis pose lui-même la question de la longueur. Son épaule bouge encore pendant la lecture ; cette fois, personne ne lui demande d’expliquer les deux gestes.",
+      "conclusion": "La répétition visible ne suffit pas à nommer un mouvement. Anatole garde le sens de son geste volontaire et fait transformer une étiquette en consigne concrète. Les questions cliniques restent du ressort de son suivi.",
+      "mirror": [
+        "Denis peut répondre : « Merci, je ne savais pas à quoi te servait le crayon. » Il peut ensuite laisser Anatole relire. Un collègue peut faire préciser un besoin sans comparer ses gestes à ceux d’un enfant ou d’un autre visiteur. S’il est inquiet d’un changement, il peut le dire avec mesure et laisser la personne choisir son appui professionnel."
+      ],
+      "sources": [
+        "oms-cddr",
+        "essts-evaluation-2022"
+      ],
+      "continuity": {
+        "choice": "Anatole remplace une étiquette sur ses gestes par deux consignes d’installation.",
+        "next": "La fiche courte est retenue ; l’équipe doit encore distinguer les vérifications du matériel des gestes qui les accompagnent."
+      }
+    },
+    {
+      "number": 8,
+      "slug": "anatole-fiche-et-col-de-chemise",
+      "title": "Tics complexes et compulsions : une même répétition peut avoir plusieurs sens",
+      "description": "Un contact répété au col de sa chemise est confondu avec une vérification. Anatole sépare ce geste de la fiche de contrôle de la maquette.",
+      "context": "Anatole et Salomé préparent le parcours de la maquette d’engrenages au musée des techniques.",
+      "topics": [
+        "Tics complexes et compulsions",
+        "Médiation au musée",
+        "Syndrome de la Tourette"
+      ],
+      "clinical_focus": "Tics complexes et compulsions",
+      "clinical_intro": "Certains tics complexes peuvent ressembler à des compulsions, et les distinguer peut demander une évaluation approfondie. Une vérification nécessaire ou un geste isolé ne suffit pas à conclure. Avant l’essai au musée, Anatole explique la différence entre un tic connu de son suivi et le contrôle du matériel qu’il accomplit avec Salomé.",
+      "opening": "La fiche d’installation comporte désormais des cases lisibles : table en place, support stable, feuilles disponibles. Salomé et Anatole la reprennent ensemble avant la répétition générale. Aucun mécanisme de collection ne sera manipulé ; la maquette d’atelier a été préparée pour être tournée à la main par les visiteurs. Ils vérifient qu’ils disposent bien de la version retenue des consignes.\n\nAnatole touche plusieurs fois le bord de son col. Ce geste, qu’il a déjà discuté comme tic avec sa neurologue, revient parfois pendant les conversations. Salomé croit qu’il compte les cases. « Tu veux tout refaire depuis le début ? » Il lui montre la ligne où ils en étaient. « Non, j’avais terminé cette partie. » Elle dit qu’elle avait pensé à un rituel de vérification. Le mot l’agace ; il tient pourtant à ce qu’ils contrôlent réellement le matériel sans que sa réaction les en détourne.\n\nAnatole ne cherche pas à montrer qu’un geste serait forcément un tic dès lors qu’il n’annonce aucune peur. La docteure Lenoir lui avait expliqué que les frontières peuvent être difficiles, notamment quand une sensation de geste inachevé intervient. Ici, son col et la fiche sont deux sujets distincts. Il propose à Salomé de reprendre la ligne matérielle qu’ils avaient laissée en suspens. Elle la relit pendant qu’il cherche le crayon. Ils doivent décider qui cochera et qui vérifiera lors de l’ouverture.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Le geste seul ne dit pas sa fonction",
+          "text": "Les tics complexes et les compulsions peuvent se ressembler et parfois coexister ; leur distinction ne repose pas sur un mouvement observé une seule fois. Une compulsion peut notamment être liée à une pensée ou à une conséquence redoutée ; les vécus de tension et de geste « pas juste » rendent certaines frontières plus complexes. Le suivi explore leur sens et leur retentissement. Chez Anatole, le contact au col est un tic déjà discuté, tandis que la fiche organise un contrôle réel du matériel."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment la confusion entre tic et vérification se produit-elle ?",
+          "points": [
+            {
+              "heading": "Deux actions se déroulent en même temps",
+              "text": "La proximité temporelle ne prouve pas qu’un geste sert au contrôle.",
+              "examples": [
+                "Anatole touche son col pendant que Salomé relit la liste.",
+                "Il peut recommencer ce geste après que la case matérielle a été validée."
+              ]
+            },
+            {
+              "heading": "Un mot courant prend une valeur clinique",
+              "text": "Dire « rituel » ne suffit pas à décrire une compulsion ni un trouble obsessionnel-compulsif.",
+              "examples": [
+                "Salomé appelle rituel ce qu’elle croit être un comptage, sans savoir ce qu’Anatole vit.",
+                "Relire une liste parce qu’on a été interrompu peut répondre à un besoin ordinaire de travail."
+              ]
+            },
+            {
+              "heading": "Le contrôle nécessaire risque d’être brouillé",
+              "text": "Le souci de ne pas mal interpréter les tics ne doit pas faire abandonner une tâche de sécurité réelle.",
+              "examples": [
+                "Anatole demande de reprendre la ligne laissée en suspens plutôt que de sauter la vérification.",
+                "La présence ou l’absence du geste au col ne décide pas si la maquette est prête."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour séparer une tâche de contrôle d’une question clinique",
+          "points": [
+            {
+              "heading": "Nommer l’action de travail",
+              "objective": "Garder un repère commun pendant la vérification du matériel.",
+              "exercise": [
+                "Indiquez la ligne de la fiche en cours.",
+                "Distinguez ce qui a été fait de ce qui reste à vérifier.",
+                "Reprenez la procédure de l’atelier avec la personne désignée."
+              ],
+              "benefit": "La tâche suit son déroulement sans être indexée sur la présence d’un tic."
+            },
+            {
+              "heading": "Poser une question sans conclure",
+              "objective": "Comprendre le besoin de la personne plutôt que nommer un trouble.",
+              "exercise": [
+                "Demandez si elle souhaite reprendre une étape ou si elle était terminée.",
+                "Écoutez sa réponse sans exiger une explication médicale du geste.",
+                "Conservez la possibilité de faire une pause et de revenir à la tâche."
+              ],
+              "benefit": "Une question concrète peut lever un malentendu sans attribuer une compulsion."
+            },
+            {
+              "heading": "Préparer un exemple pour le professionnel",
+              "objective": "Discuter un comportement qui devient difficile ou incertain.",
+              "exercise": [
+                "Notez une situation, ce qui la précède et ce qu’elle change pour vous si vous souhaitez en parler.",
+                "Apportez aussi les zones que vous ne savez pas expliquer.",
+                "Demandez au professionnel comment poursuivre l’évaluation, sans essayer seul de supprimer le geste ou la vérification."
+              ],
+              "benefit": "L’évaluation peut tenir compte du vécu et de l’histoire plutôt que d’une ressemblance extérieure."
+            }
+          ]
+        }
+      ],
+      "ending_title": "La case qui restait blanche",
+      "ending": "Salomé relit la dernière ligne : les feuilles sont sur la tablette, pas encore sur la table. Anatole les apporte, puis ils terminent la fiche. Ils conviennent que Salomé cochera pendant qu’Anatole vérifiera les points qui lui reviennent. Si une interruption les fait hésiter, ils repartiront de la ligne concernée. Salomé lui dit qu’elle évitera de choisir un mot clinique pour ce qu’elle n’a pas compris. Le tic au col réapparaît au moment où il range le crayon. La fiche ne change plus pour cette raison.",
+      "conclusion": "Un tic complexe, une compulsion et une vérification de travail ne se distinguent pas à la seule répétition d’un geste. Anatole et Salomé clarifient leurs rôles et gardent un contrôle matériel complet, tandis que les incertitudes cliniques ont leur place au suivi.",
+      "mirror": [
+        "Salomé peut demander : « La ligne était terminée ou tu veux qu’on la reprenne ? » Elle peut respecter la réponse et accomplir sa part du contrôle. Si Anatole décrit un geste devenu gênant, elle peut l’aider à noter un exemple s’il le demande. Elle n’a pas à provoquer le geste, empêcher ses mains de bouger ou conclure à un TOC."
+      ],
+      "sources": [
+        "oms-cddr",
+        "essts-evaluation-2022"
+      ],
+      "continuity": {
+        "choice": "Anatole et Salomé attribuent la vérification et la coche, sans faire dépendre la fiche des tics.",
+        "next": "L’installation est prête pour une répétition générale ; une douleur nouvelle devra toutefois être évaluée."
+      }
+    },
+    {
+      "number": 9,
+      "slug": "anatole-chaise-a-cote-de-la-table",
+      "title": "Douleur nouvelle quand le diagnostic connu ne suffit pas à l’expliquer",
+      "description": "Une douleur de nuque gêne Anatole avant la répétition générale. Il demande un avis médical au lieu de l’attribuer d’emblée à ses tics.",
+      "context": "Anatole et Salomé préparent le parcours de la maquette d’engrenages au musée des techniques.",
+      "topics": [
+        "Retentissement physique et douleur",
+        "Médiation au musée",
+        "Syndrome de la Tourette"
+      ],
+      "clinical_focus": "Retentissement physique et douleur",
+      "clinical_intro": "La répétition de certains tics peut avoir un retentissement physique, mais une douleur nouvelle mérite d’être évaluée sans supposer sa cause. Avant la répétition générale au musée, Anatole met les préparatifs en pause et consulte son médecin traitant. Il distingue ensuite les informations utiles à l’équipe de celles qui concernent son suivi.",
+      "opening": "Anatole pose son sac et s’aperçoit qu’il hésite à tourner la tête vers Salomé. Depuis la veille, sa nuque lui fait mal. Il connaît la traction qui peut précéder certains tics, mais cette douleur ne lui paraît pas identique. Il a aussi passé du temps sur les dessins et déplacé ses affaires ; il ne sait pas ce qui compte. Il avait prévu d’aider à transporter les dernières fournitures avant la répétition générale.\n\nSalomé demande s’il veut qu’elle fasse chauffer la salle. Il répond que ce n’est pas une question de température et qu’il préfère suspendre la répétition. Il appelle son médecin traitant, décrit la douleur nouvelle et obtient un rendez-vous le jour même. Salomé prévient les deux collègues attendus que la répétition est reportée. Elle ne donne pas de raison médicale à sa place.\n\nAu cabinet, le médecin l’interroge et l’examine. Anatole parle de ses tics et du travail récent sans décider lequel explique la douleur. Le médecin organise avec lui la prise en charge et les modalités de recontact si elle change ou persiste. Anatole repart avec ces indications personnelles, qu’il ne veut pas transformer en conseil pour toute l’équipe. Il enverra le compte rendu à la docteure Lenoir selon leur circuit de suivi. Ce soir, il doit surtout prévenir Salomé de ce qui peut être reprogrammé.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Une gêne corporelle a besoin de sa propre évaluation",
+          "text": "Certains tics répétés peuvent contribuer à des douleurs ou à des lésions, mais un diagnostic de Tourette n’explique pas automatiquement tout symptôme nouveau. Une évaluation médicale tient compte de l’ensemble du contexte. Anatole distingue sa douleur de la sensation qu’il connaît avant certains mouvements et consulte. Le récit ne tranche pas sa cause. Les indications données au cabinet lui sont personnelles ; l’équipe du musée reçoit seulement les informations d’organisation qu’il choisit de partager."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment une douleur nouvelle change-t-elle les priorités ?",
+          "points": [
+            {
+              "heading": "Le ressenti diffère de l’habitude",
+              "text": "Une personne peut remarquer un changement sans pouvoir en déterminer l’origine.",
+              "examples": [
+                "Anatole distingue la douleur actuelle de la traction qu’il a décrite à sa neurologue.",
+                "Le fait d’hésiter à tourner la tête lui fait reporter une tâche prévue."
+              ]
+            },
+            {
+              "heading": "Le projet risque de passer avant l’évaluation",
+              "text": "Une échéance importante peut faire minimiser un besoin de santé.",
+              "examples": [
+                "Anatole avait prévu de porter les fournitures malgré sa gêne.",
+                "Il pourrait maintenir la répétition pour ne pas décevoir les collègues attendus."
+              ]
+            },
+            {
+              "heading": "Les rôles doivent se séparer",
+              "text": "Le professionnel évalue ; les collègues organisent le travail avec les informations utiles.",
+              "examples": [
+                "Le médecin traitant interroge et examine Anatole.",
+                "Salomé reporte la répétition sans annoncer aux collègues une cause qu’elle ignore."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour donner sa place à une douleur nouvelle",
+          "points": [
+            {
+              "heading": "Demander un avis adapté",
+              "objective": "Faire évaluer le changement sans le ramener automatiquement aux tics.",
+              "exercise": [
+                "Décrivez au professionnel ce qui est nouveau et ce qui vous gêne.",
+                "Indiquez le diagnostic connu et les autres éléments de contexte utiles.",
+                "Suivez l’orientation reçue ; en cas de changement préoccupant, demandez un avis sans attendre l’atelier."
+              ],
+              "benefit": "Le relais permet une réponse adaptée à votre situation plutôt qu’une explication supposée."
+            },
+            {
+              "heading": "Suspendre une tâche qui pose difficulté",
+              "objective": "Éviter de faire dépendre la santé du maintien d’une répétition.",
+              "exercise": [
+                "Nommez la tâche que vous ne pouvez pas faire confortablement.",
+                "Prévenez la personne chargée du planning.",
+                "Décidez ensemble du report ou du relais compatible avec les indications reçues."
+              ],
+              "benefit": "Une décision concrète réduit la pression à poursuivre pour sauver le programme."
+            },
+            {
+              "heading": "Transmettre le nécessaire",
+              "objective": "Coordonner le suivi et le travail sans divulgation imposée.",
+              "exercise": [
+                "Demandez comment transmettre le compte rendu aux professionnels concernés.",
+                "Choisissez ce que l’équipe de travail doit savoir pour s’organiser.",
+                "Fixez un moment de retour sur le planning quand vous aurez les informations utiles."
+              ],
+              "benefit": "La continuité des soins et la confidentialité peuvent accompagner une adaptation précise."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Une nouvelle date, une chaise disponible",
+      "ending": "Anatole envoie à Salomé deux informations : il a consulté et ils peuvent rechercher une autre date en tenant compte des indications reçues. Il préfère qu’elle laisse le déplacement des fournitures à Denis, déjà disponible pour cette tâche. Ils reprogramment la répétition quelques jours plus tard. Le compte rendu part à la neurologue ; le suivi de la douleur reste convenu avec le médecin traitant. Salomé laisse aussi une chaise disponible près de la table, à la demande d’Anatole. Il espère pouvoir reprendre confortablement, sans faire de cette installation la preuve que le problème est réglé.",
+      "conclusion": "Le retentissement physique des tics mérite une place dans le suivi, et une douleur nouvelle garde sa propre évaluation. Anatole consulte, organise la transmission et reporte la répétition ; la prochaine scène ne dépend pas d’une guérison supposée.",
+      "mirror": [
+        "Salomé peut dire : « Je préviens que la répétition est reportée. Qu’est-ce que tu veux que je transmette pour la nouvelle date ? » Elle peut proposer un relais sur les fournitures sans chercher à masser, manipuler ou tester la nuque. Un proche peut faciliter le contact demandé avec un professionnel et respecter les indications qui concernent Anatole, sans les généraliser."
+      ],
+      "sources": [
+        "oms-cddr",
+        "pnds-tourette-2022",
+        "essts-evaluation-2022"
+      ],
+      "continuity": {
+        "choice": "Anatole consulte, fait transmettre le compte rendu et reporte la répétition ; Denis déplacera les fournitures.",
+        "next": "La répétition reprendra selon les indications reçues, avec une chaise disponible et le suivi de la douleur maintenu."
+      }
+    },
+    {
+      "number": 10,
+      "slug": "anatole-phrase-pour-accueillir",
+      "title": "Coprolalie et préjugés : choisir ce qu’on explique au public",
+      "description": "Une question sur de possibles insultes réduit Anatole à une image de Tourette. Il choisit avec Salomé ce qu’il veut dire aux visiteurs.",
+      "context": "Le parcours d’engrenages approche de son ouverture au public dans le musée des techniques où travaille Anatole.",
+      "topics": [
+        "Stigmatisation et coprolalie",
+        "Médiation au musée",
+        "Syndrome de la Tourette"
+      ],
+      "clinical_focus": "Stigmatisation et coprolalie",
+      "clinical_intro": "La coprolalie est une manifestation minoritaire du syndrome de la Tourette ; elle ne définit pas toutes les personnes concernées. Les préjugés peuvent pourtant modifier l’accueil avant même une rencontre. Lors de la répétition générale, Anatole répond à une inquiétude de l’équipe et décide quelles informations personnelles il souhaite partager avec le public.",
+      "opening": "La douleur de nuque a diminué dans les jours qui ont suivi la consultation. Anatole garde les indications de recontact et a transmis le compte rendu à sa neurologue. Pour la répétition générale, Denis a déplacé les fournitures comme convenu. La chaise reste à côté de la table, même si Anatole commence debout. Salomé a invité Aline, qui sera à l’accueil le jour de l’ouverture, pour qu’elle voie le parcours.\n\nAnatole présente la première question dessinée. Un son bref interrompt sa phrase. Aline écoute la suite, puis demande s’il faut prévenir les familles qu’il pourrait leur adresser des insultes. Elle sait qu’il a un syndrome de la Tourette parce qu’il l’a lui-même expliqué lors d’une réunion d’équipe ancienne. Lui découvre que cette information est restée associée à une scène de télévision.\n\n« Ce n’est pas ce que je vis », répond-il. Il précise que la coprolalie ne concerne qu’une minorité des personnes ayant ce syndrome. Il n’a pas envie que son atelier soit évalué sur un scénario qu’on lui prête. Il voudrait revenir aux roues et aux familles qui pourront les essayer. Aline dit qu’elle cherchait la phrase juste pour l’accueil. Salomé attend qu’il formule sa préférence. Anatole regarde le panneau qui porte leurs deux noms et demande qu’on parle d’abord de la démonstration. Il pourrait dire quelques mots sur ses mouvements et sons s’il le souhaite, mais ne veut pas que l’accueil annonce sa santé à chaque visiteur.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Une image connue peut enfermer une rencontre",
+          "text": "La coprolalie, qui correspond à des propos obscènes vécus comme involontaires, ne concerne qu’une minorité des personnes avec un syndrome de la Tourette et n’est pas nécessaire au diagnostic. Un tic phonique peut être un son sans signification insultante. Anatole n’a pas de coprolalie dans cette histoire. Le préjugé d’Aline risque pourtant d’organiser son accueil autour d’insultes attendues. Corriger cette idée n’oblige pas Anatole à rendre son diagnostic public ni à commenter chacun de ses tics. Les personnes qui présentent une coprolalie ont elles aussi droit à un accueil respectueux et à des adaptations."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment un préjugé sur Tourette peut-il peser sur l’accueil ?",
+          "points": [
+            {
+              "heading": "Une manifestation prend toute la place",
+              "text": "Une image marquante peut effacer les présentations variées du syndrome.",
+              "examples": [
+                "Aline relie immédiatement Tourette à des insultes possibles.",
+                "Le son de gorge d’Anatole est interprété à partir d’une émission plutôt qu’écouté dans la situation."
+              ]
+            },
+            {
+              "heading": "L’information choisie semble disponible pour tous",
+              "text": "Connaître un diagnostic dans l’équipe ne signifie pas pouvoir le diffuser aux visiteurs.",
+              "examples": [
+                "Anatole avait expliqué sa situation à une réunion interne, pas demandé une annonce à l’accueil.",
+                "Un panneau sur la maquette peut présenter ses compétences sans mentionner sa santé."
+              ]
+            },
+            {
+              "heading": "La réaction du public devient une charge anticipée",
+              "text": "La personne peut se sentir obligée de rassurer avant même d’exercer son métier.",
+              "examples": [
+                "Anatole se retrouve à justifier qu’il peut recevoir des familles au lieu de présenter sa fiche.",
+                "Il hésite entre expliquer un son et garder du temps pour les questions de mécanique."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour choisir une information qui vous convient",
+          "points": [
+            {
+              "heading": "Définir ce qui peut être transmis",
+              "objective": "Donner un accord précis à l’équipe qui accueille.",
+              "exercise": [
+                "Choisissez les informations utiles au parcours et celles qui restent privées.",
+                "Dites qui peut les transmettre et à quel public.",
+                "Vérifiez la formulation avant son utilisation et modifiez votre accord si besoin."
+              ],
+              "benefit": "L’information connue d’un collègue ne devient pas automatiquement une présentation publique."
+            },
+            {
+              "heading": "Préparer une réponse à un préjugé",
+              "objective": "Corriger une idée sans devoir raconter tout votre suivi.",
+              "exercise": [
+                "Nommez brièvement l’idée erronée si vous souhaitez y répondre.",
+                "Donnez une précision générale ou une phrase sur votre situation.",
+                "Revenez au sujet de la rencontre ou terminez cette discussion."
+              ],
+              "benefit": "Une réponse délimitée peut protéger votre place sans vous imposer un rôle permanent de sensibilisation."
+            },
+            {
+              "heading": "Prévoir un appui si la limite est dépassée",
+              "objective": "Ne pas porter seul une interaction insistante ou irrespectueuse.",
+              "exercise": [
+                "Convenez avec le collègue de l’intervention qu’il peut assurer.",
+                "Choisissez une phrase rappelant le cadre de la visite.",
+                "Décidez qui prendra le relais si la discussion empêche l’activité de continuer."
+              ],
+              "benefit": "Le soutien repose sur le respect des personnes et du cadre, sans transformer toute parole en symptôme."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Les deux noms sur le panneau",
+      "ending": "Aline reformule : à l’accueil, elle présentera un atelier d’engrenages animé par Anatole et Salomé. Elle ne fera pas d’annonce médicale. Anatole garde une phrase pour lui : « Vous entendrez peut-être un son ou verrez un mouvement involontaire ; je peux reprendre mon explication. » Il décidera s’il la dit. Salomé pourra recentrer une question insistante sur l’atelier. Ils terminent la répétition, encore interrompue par des tics et une vraie difficulté de lecture sur le dessin. Cette dernière demande une flèche plus visible, qu’ils corrigent ensemble.",
+      "conclusion": "La coprolalie ne résume pas le syndrome de la Tourette. Anatole corrige un préjugé et choisit son niveau d’information. L’accueil peut désormais annoncer le projet commun, tandis que la possibilité d’expliquer les tics lui appartient.",
+      "mirror": [
+        "Aline peut dire : « J’avais retenu une image trop étroite. Je présenterai l’atelier comme nous venons de le décider. » Salomé peut soutenir une limite convenue sans raconter le suivi d’Anatole. Si une parole est blessante, un collègue peut rappeler le respect attendu ; il n’a pas à la qualifier de tic ni demander à Anatole de l’excuser."
+      ],
+      "sources": [
+        "oms-cddr",
+        "pnds-tourette-2022"
+      ],
+      "continuity": {
+        "choice": "Anatole valide l’accueil centré sur l’atelier et garde le choix d’une phrase personnelle.",
+        "next": "La répétition est terminée et la flèche corrigée ; un appel prévu avec la neurologue permet de reprendre le retentissement et les options de suivi."
+      }
+    },
+    {
+      "number": 11,
+      "slug": "anatole-une-question-sur-le-suivi",
+      "title": "Décision de soin partagée à partir de ce qui gêne vraiment",
+      "description": "Anatole demande à sa neurologue quelles options pourraient l’aider. Il veut préserver ses échanges au musée et comprendre l’engagement demandé.",
+      "context": "Le parcours d’engrenages approche de son ouverture au public dans le musée des techniques où travaille Anatole.",
+      "topics": [
+        "Décision de soin partagée",
+        "Médiation au musée",
+        "Syndrome de la Tourette"
+      ],
+      "clinical_focus": "Décision de soin partagée",
+      "clinical_intro": "Les choix de prise en charge des tics dépendent du retentissement vécu, des préférences et de l’évaluation des difficultés associées. Ils ne visent pas nécessairement une disparition complète des tics. Avant l’ouverture de son parcours, Anatole prépare ses questions pour comprendre les options, sans faire dépendre son projet professionnel de l’obtention d’un corps silencieux.",
+      "opening": "Anatole a étalé trois feuilles sur la table de sa cuisine. La première contient le compte rendu du médecin traitant ; la deuxième, ses notes sur les réunions ; la troisième, le programme du musée. L’appel avec la docteure Lenoir a été organisé après la transmission de sa consultation. Il a peur d’oublier ce qu’il voulait demander et d’acquiescer trop vite à une proposition simplement parce qu’il souhaite être aidé.\n\nQuand la neurologue l’appelle, il lui dit d’abord que la douleur a diminué et que le suivi prévu avec le médecin traitant reste en place. Puis il parle de l’effort pour retenir certains tics, plus gênant pour lui que le nombre de mouvements visibles sur une courte répétition. Il voudrait rester disponible pour une deuxième question de visiteur, au lieu de penser déjà à la fin de l’échange.\n\nIls reprennent aussi ce qui fonctionne au musée et les autres difficultés éventuelles, sans attribuer tout à Tourette. La docteure explique qu’une approche comportementale structurée peut être une option, avec un professionnel formé, et que d’autres possibilités se discutent selon la situation. Anatole ne veut pas commencer quelque chose sans connaître le rythme et le travail demandé. Il demande si un premier rendez-vous peut servir à comprendre cette approche avant de décider. Dans le silence qui suit, il relit sa dernière question : « Comment saurons-nous que cela m’aide ? »",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Le besoin vécu guide la discussion de soins",
+          "text": "Une décision de prise en charge des tics se construit à partir de leurs effets dans la vie, de l’évaluation clinique et des préférences de la personne. Les traitements ne font généralement pas disparaître tous les tics. Une approche comportementale structurée, notamment le programme CBIT, peut être proposée par un professionnel formé ; elle ne se réduit pas à « se retenir ». Anatole souhaite comprendre les options et leur engagement, sans recevoir ici d’exercice thérapeutique à reproduire seul."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment le retentissement aide-t-il à choisir une option ?",
+          "points": [
+            {
+              "heading": "La priorité appartient à la personne",
+              "text": "La gêne la plus importante n’est pas forcément le tic le plus visible pour l’entourage.",
+              "examples": [
+                "Anatole veut rester disponible pour les questions, même si un mouvement continue.",
+                "Il décrit à sa neurologue le coût de certaines réunions plutôt qu’une attente de silence pour l’équipe."
+              ]
+            },
+            {
+              "heading": "Une option demande des informations concrètes",
+              "text": "Comprendre les modalités fait partie du choix, pas d’un manque de motivation.",
+              "examples": [
+                "Anatole demande le rythme des rendez-vous et le travail qui pourrait être proposé.",
+                "Il veut savoir comment une démarche peut s’articuler avec ses horaires au musée."
+              ]
+            },
+            {
+              "heading": "Le résultat doit avoir un sens dans la vie",
+              "text": "Une attente réaliste peut inclure le confort et la participation, avec des symptômes persistants.",
+              "examples": [
+                "Anatole propose de suivre sa disponibilité pendant les échanges avec les visiteurs.",
+                "Il veut aussi pouvoir signaler si un accompagnement devient trop difficile à intégrer."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour préparer une décision de soin",
+          "points": [
+            {
+              "heading": "Décrire une priorité personnelle",
+              "objective": "Donner au professionnel un objectif qui vous importe.",
+              "exercise": [
+                "Choisissez une situation récente où vous avez été gêné.",
+                "Dites ce que vous voudriez pouvoir y faire plus facilement.",
+                "Demandez comment cet objectif peut être discuté dans votre prise en charge."
+              ],
+              "benefit": "La priorité rend l’échange concret sans prescrire à l’avance le moyen de l’atteindre."
+            },
+            {
+              "heading": "Préparer les questions sur les options",
+              "objective": "Comprendre les bénéfices possibles, les limites et l’engagement.",
+              "exercise": [
+                "Notez vos questions sur le déroulement et les contraintes.",
+                "Demandez aussi les incertitudes et les autres possibilités pertinentes pour vous.",
+                "Reformulez ce que vous avez compris et demandez du temps si nécessaire."
+              ],
+              "benefit": "Les informations peuvent soutenir un choix partagé, sans promesse d’efficacité individuelle."
+            },
+            {
+              "heading": "Convenir du prochain point de décision",
+              "objective": "Éviter qu’un rendez-vous d’information soit vécu comme un engagement définitif.",
+              "exercise": [
+                "Précisez avec le professionnel ce que vous acceptez pour le moment.",
+                "Demandez quand et avec qui vous pourrez revoir la décision.",
+                "Continuez le suivi convenu et évitez de modifier seul un traitement."
+              ],
+              "benefit": "Un prochain contact laisse une place à vos questions et à l’évolution de vos besoins."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Un rendez-vous pour comprendre",
+      "ending": "La docteure Lenoir propose un rendez-vous d’information auprès d’une professionnelle formée à l’approche comportementale. Anatole l’accepte et note qu’ils rediscuteront ensuite de ce qui lui convient. Aucun changement n’est décidé pendant cet appel sans explication. Il range les feuilles médicales et laisse le programme du musée sur la table. Il écrit à Salomé qu’il sera là pour l’ouverture, comme prévu. Il ne lui donne pas le contenu de l’appel ; il lui demande seulement de confirmer l’intervalle libre après le premier groupe.",
+      "conclusion": "La décision de soin porte sur les besoins et les choix d’Anatole, avec une attente discutée et révisable. Le rendez-vous d’information ouvre une possibilité d’accompagnement ; il ne conditionne pas son droit de poursuivre son travail au musée.",
+      "mirror": [
+        "Elias peut demander : « Tu veux me dire ce que tu as compris ou tu préfères parler d’autre chose ? » S’il écoute, il peut aider Anatole à retrouver ses questions sans choisir une option pour lui. Salomé peut confirmer l’intervalle entre les groupes sans exiger le détail des soins. Les proches gardent leur rôle d’appui, avec leurs disponibilités et leurs limites."
+      ],
+      "sources": [
+        "oms-cddr",
+        "aan-tics-2019"
+      ],
+      "continuity": {
+        "choice": "Anatole accepte un rendez-vous d’information, avec une décision ultérieure à revoir avec sa neurologue.",
+        "next": "Le premier groupe est maintenu ; Salomé confirme le temps libre après la séance et les rôles d’accueil."
+      }
+    },
+    {
+      "number": 12,
+      "slug": "anatole-six-chaises-et-deux-dates",
+      "title": "Retentissement au travail : construire un rythme au-delà d’une bonne séance",
+      "description": "Six visiteurs essaient enfin la maquette. Anatole et Salomé évaluent le parcours à partir des échanges et de l’effort, puis fixent la suite.",
+      "context": "Le parcours d’engrenages approche de son ouverture au public dans le musée des techniques où travaille Anatole.",
+      "topics": [
+        "Adaptations et participation au travail",
+        "Médiation au musée",
+        "Syndrome de la Tourette"
+      ],
+      "clinical_focus": "Adaptations et participation au travail",
+      "clinical_intro": "Le retentissement des tics au travail dépend aussi de l’organisation des tâches, des réactions de l’entourage et des possibilités de soutien. Une séance réussie ne supprime pas leur variabilité. À l’ouverture de son parcours, Anatole fait le bilan de ce qui permet la participation des visiteurs et choisit avec Salomé un rythme qu’ils pourront revoir.",
+      "opening": "Les six visiteurs prennent place autour de la table large. Aline les a accueillis en annonçant un atelier d’engrenages, puis Salomé a distribué les feuilles avec la grande flèche corrigée. Anatole reconnaît le dessin fait avec Elias ; il se rappelle aussi le jeudi où il avait écrit « impossible » dans son carnet. Il commence par demander dans quel sens la dernière roue va tourner.\n\nUn mouvement de son cou interrompt son geste. Le son de gorge revient peu après. Il choisit de dire sa phrase sur les mouvements et les sons involontaires, puis reprend la question. Une visiteuse indique le sens opposé à celui de son voisin. Anatole leur propose de regarder ce qui se passe lorsqu’ils tournent lentement la manivelle de la maquette d’atelier. Les deux restent penchés sur la roue bleue et se mettent d’accord après l’essai.\n\nAu troisième passage, il perd une partie d’une question. Il demande qu’on la répète plutôt que de répondre au hasard. Salomé reprend ensuite une explication comme convenu, et il s’assoit sur la chaise laissée disponible. Une enfant voudrait comprendre si une petite roue va forcément plus vite ; son père attend avec la fiche à la main. Anatole a envie de leur répondre. Il sait aussi qu’aucun nouveau groupe ne suit immédiatement. Cette marge ne fait pas disparaître les tics, mais il n’a pas à décider dans l’urgence s’il peut enchaîner.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Participer demande parfois de changer l’organisation",
+          "text": "Le retentissement professionnel des tics peut être réduit par des adaptations discutées avec la personne, sans exiger leur disparition. Les mêmes aménagements ne conviennent pas à tous et doivent rester révisables. Chez Anatole, une fiche, un temps de reprise, un relais choisi et un intervalle entre engagements rendent certains échanges plus accessibles. Le bilan porte sur sa participation et celle des visiteurs, tout en tenant compte de son effort et des besoins de Salomé."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment un cadre de travail peut-il soutenir la participation ?",
+          "points": [
+            {
+              "heading": "Un repère permet de reprendre",
+              "text": "Le support commun reste disponible quand une interruption fait perdre le fil.",
+              "examples": [
+                "Anatole retrouve la roue bleue sur la fiche après un mouvement de son cou.",
+                "La demande de répéter une question lui permet de répondre à ce que le visiteur voulait savoir."
+              ]
+            },
+            {
+              "heading": "Le relais a un périmètre convenu",
+              "text": "L’aide devient plus utilisable lorsque chacun sait ce qu’il accepte de faire.",
+              "examples": [
+                "Salomé reprend une explication pendant qu’Anatole s’assoit, selon leur accord.",
+                "Aline accueille les visiteurs autour du projet sans transmettre de nouvelles informations de santé."
+              ]
+            },
+            {
+              "heading": "La marge compte dans le bilan",
+              "text": "Le confort d’une séance ne permet pas de supposer qu’un enchaînement sera possible.",
+              "examples": [
+                "L’absence de groupe immédiatement après laisse Anatole répondre sans promettre une journée continue.",
+                "Salomé peut participer à la préparation d’une séance sans être disponible pour tous les samedis."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour choisir un rythme de travail révisable",
+          "points": [
+            {
+              "heading": "Faire un bilan qui ne compte pas seulement les tics",
+              "objective": "Évaluer ce qui a permis l’activité et ce qu’elle a coûté.",
+              "exercise": [
+                "Relevez une chose que les participants ont pu faire.",
+                "Ajoutez une difficulté et le soutien qui a été utile ou a manqué.",
+                "Demandez à chacun s’il souhaite garder ou modifier cet accord."
+              ],
+              "benefit": "Le bilan relie le projet à l’expérience des personnes, au-delà d’une apparence plus ou moins calme."
+            },
+            {
+              "heading": "Confirmer les rôles et la marge",
+              "objective": "Rendre la prochaine séance concrètement possible.",
+              "exercise": [
+                "Vérifiez la disponibilité des collègues pour les tâches choisies.",
+                "Réservez la durée et le temps entre engagements convenus.",
+                "Prévoyez qui prévenir si une adaptation ou un report devient nécessaire."
+              ],
+              "benefit": "Le dispositif repose sur des engagements explicites que personne n’a à porter seul."
+            },
+            {
+              "heading": "Fixer une date pour revoir le rythme",
+              "objective": "Garder une organisation qui peut évoluer.",
+              "exercise": [
+                "Choisissez une période d’essai avec un nombre limité de séances.",
+                "Décidez du moment où vous ferez le point ensemble.",
+                "Gardez le suivi clinique séparé et sollicitez-le si votre gêne ou votre santé change."
+              ],
+              "benefit": "Une cadence révisable peut soutenir le travail sans faire d’une séance une prévision de l’évolution des tics."
+            }
+          ]
+        }
+      ],
+      "ending_title": "La roue bleue et les deux dates",
+      "ending": "Après le départ du groupe, Anatole et Salomé relisent les questions laissées sur les feuilles. La taille des roues a suscité une discussion qu’ils aimeraient reprendre. Ils obtiennent l’accord de la responsable pour deux nouvelles séances de six personnes, espacées de quinze jours, avec un temps libre après chacune. Aline et Denis confirment leurs tâches ; Salomé et Anatole fixent un bilan après la seconde. Il conserve son rendez-vous d’information et le suivi prévu pour la douleur, sans attendre de ces contacts qu’ils garantissent la prochaine séance. Le soir, Elias lui demande si la roue bleue a gagné. Anatole lui raconte la question de l’enfant et confirme leur sortie à l’exposition d’affiches. Il a aussi commencé à imaginer une autre maquette, mais laisse pour demain le choix de la première pièce.",
+      "conclusion": "Le parcours existe désormais : les visiteurs ont essayé la maquette et posé leurs questions. Anatole et Salomé choisissent une cadence limitée et révisable, avec des tics encore présents. Son métier, ses liens et ses projets continuent au-delà de cette ouverture.",
+      "mirror": [
+        "Salomé peut dire : « Je peux assurer ces deux dates, puis nous ferons le point. Quel passage veux-tu modifier ? » Elias peut écouter l’histoire de la roue bleue et confirmer la sortie qu’ils avaient choisie. Les proches peuvent reconnaître le travail accompli sans conclure qu’Anatole est guéri ou qu’il devrait désormais pouvoir tout enchaîner. Ils peuvent aussi conserver leurs propres limites."
+      ],
+      "sources": [
+        "oms-cddr",
+        "pnds-tourette-2022",
+        "aan-tics-2019"
+      ],
+      "continuity": {
+        "choice": "Le groupe a essayé la maquette ; Anatole et Salomé confirment deux nouvelles séances avec rôles, marge et bilan.",
+        "next": "Le projet initial est réalisé et son rythme reste révisable. Anatole poursuit son suivi, sa sortie avec Elias et l’idée d’une future maquette."
+      }
+    }
+  ]
+}

@@ -41,6 +41,11 @@ Elle peut répondre brièvement, puis proposer un autre sujet : le film, l'affic
 
 Certains jours, elle veut au contraire parler longuement de la santé. La diversité des échanges ne doit pas devenir une interdiction d'en parler. Anaïs cherche le choix, pas une nouvelle règle qui l'obligerait à cacher les difficultés pour sembler plus intéressante ou plus facile à fréquenter.
 
+Exemples concrets
+
+- Avec Benoît, elle prépare un résumé du suivi avant de lui parler du film qu’elle voudrait voir.
+- À l’association, une question sur sa santé peut occuper l’échange qu’elle espérait consacrer à l’affiche rouge.
+
 ### Les compétences sont évaluées par le volume produit
 
 Pour l'exposition, elle rédige deux notices et non l'ensemble du parcours. Elle pourrait en conclure que sa contribution est minime. Pourtant, les textes demandent des choix, une recherche et une attention au lecteur. Leur valeur ne se mesure pas uniquement au nombre de pages ou aux heures visibles au centre culturel.
@@ -49,6 +54,11 @@ Sa compétence d'accueil reste également présente lorsqu'une tâche physique d
 
 Anaïs peut aussi ne rien produire et conserver une identité digne d'intérêt. Ses préférences, ses liens et sa manière d'être présente ne sont pas des résultats à livrer. Si toute reconstruction passe par une preuve de compétence, elle retrouve un examen qui devient injuste dès que l'énergie diminue.
 
+Exemples concrets
+
+- Deux notices lui paraissent compter moins que les nombreux panneaux montés par d’autres bénévoles.
+- Au guichet, le relais de Céline pour porter les dossiers risque de masquer à ses yeux la demande qu’elle a su reformuler.
+
 ### Le passé devient l'unique version valable de soi
 
 Elle compare parfois sa journée à une période où certaines activités lui demandent moins d'ajustements. Cette comparaison peut porter une tristesse légitime. Le problème apparaît lorsque le passé devient la seule identité qu'elle accepte : tout changement ressemble alors à une disparition, et toute nouvelle forme de participation à un remplacement inférieur.
@@ -56,6 +66,11 @@ Elle compare parfois sa journée à une période où certaines activités lui de
 Elle n'a pas à déclarer que la maladie lui apporte une leçon ou une chance. Elle peut préférer qu'elle n'existe pas et chercher néanmoins une vie actuelle qui possède des éléments choisis. Une activité adaptée n'a pas besoin d'être présentée comme meilleure pour devenir valable.
 
 Le temps de cette adaptation varie. Certaines dimensions restent difficiles à retrouver, certaines changent de forme et d'autres apparaissent. Anaïs peut tenir une question ouverte sur ce qu'elle aime aujourd'hui, sans exiger une réponse définitive ni une histoire de transformation réussie.
+
+Exemples concrets
+
+- Elle pourrait comparer la durée actuelle d’une recherche d’archives à ses anciennes séances sans adaptation.
+- Une sortie plus courte avec Benoît peut lui sembler sans valeur si elle la juge uniquement d’après les sorties d’avant.
 
 ## 3 techniques pour élargir la manière de se décrire
 
@@ -67,6 +82,16 @@ Elle peut ajouter des dimensions qu'elle souhaite retrouver, même si elles occu
 
 Cette liste reste personnelle. Elle ne devient pas un exercice public pour démontrer que la maladie ne l'affecte pas. Anaïs peut la garder pour réfléchir ou l'apporter dans un accompagnement si la question identitaire lui pèse. Un psychologue peut aider à explorer les pertes et les continuités sans imposer une conclusion positive.
 
+Pour essayer dans cette situation
+
+Objectif : Élargir sa description sans en faire une preuve de valeur.
+
+1. Écrire des mots sur ses liens, son métier, ses intérêts et sa santé, sans classement.
+2. Ajouter son goût pour les affiches même si elle n’y consacre qu’un court moment.
+3. Écarter un rôle imposé, comme être toujours courageuse, si elle ne s’y reconnaît pas.
+
+La liste peut rendre visibles des dimensions présentes sans exiger qu’elles soient toutes actives chaque jour.
+
 ### 2. Choisir ce que chaque présentation doit permettre
 
 Pour la notice associative, elle souhaite expliquer son intérêt pour les affiches et son rôle dans le projet. Elle n'a pas besoin d'y détailler ses limites. L'organisation pratique se traite avec Mireille dans un autre échange. Séparer ces fonctions lui permet de conserver la santé dans le bon cadre sans la supprimer de sa vie.
@@ -75,6 +100,16 @@ Dans une consultation, la priorité sera différente. Au travail, certaines info
 
 Elle peut préparer une transition pour les rencontres : « Mon suivi continue, et aujourd'hui j'aimerais te raconter le projet. » Cette phrase ne demande pas à l'autre d'oublier la maladie. Elle ouvre une autre porte. Si elle souhaite ensuite revenir à une difficulté, elle conserve ce droit aussi.
 
+Pour essayer dans cette situation
+
+Objectif : Donner aux quatre lignes leur fonction associative.
+
+1. Définir ce que les visiteurs doivent comprendre de sa contribution.
+2. Écrire le métier, l’intérêt pour le quartier et les deux notices ; traiter l’organisation avec Mireille séparément.
+3. Relire les quatre lignes et garder pour un autre cadre les informations qu’elle ne veut pas y mettre.
+
+Une présentation limitée peut rester juste sans résumer toute la personne.
+
 ### 3. Préserver une activité pour sa signification propre
 
 Anaïs choisit un moment autour d'une affiche, d'un film ou d'une conversation, dans des conditions compatibles avec sa santé et les conseils reçus. Elle ne l'utilise pas comme test de récupération. Elle peut en tirer du plaisir même si la fatigue reste présente et si la durée est différente de celle imaginée.
@@ -82,6 +117,16 @@ Anaïs choisit un moment autour d'une affiche, d'un film ou d'une conversation, 
 Elle identifie les moyens nécessaires : document accessible, rôle délimité, siège adapté ou relais logistique selon les recommandations appropriées. L'activité n'existe pas uniquement grâce à un changement de pensée. Elle a besoin de conditions matérielles et relationnelles, que le groupe peut contribuer à rendre possibles.
 
 Après, elle peut retenir ce qui l'intéresse plutôt que seulement ce qu'elle parvient à faire. Quelle idée lui plaît ? Quel échange souhaite-t-elle poursuivre ? Ce regard nourrit une continuité de goûts et de liens. Il évite que chaque activité soit résumée par un bilan de capacité.
+
+Pour essayer dans cette situation
+
+Objectif : Conserver un intérêt qui ne soit pas évalué comme une récupération.
+
+1. Choisir une affiche ou un film dont elle souhaite parler.
+2. Préparer avec les personnes concernées les conditions accessibles et le relais nécessaire.
+3. Après, retenir une idée ou une conversation qu’elle souhaite prolonger, plutôt qu’un volume accompli.
+
+Ce retour peut soutenir la continuité des goûts sans faire de l’activité un examen de capacité.
 
 ## Quatre lignes pour se présenter
 

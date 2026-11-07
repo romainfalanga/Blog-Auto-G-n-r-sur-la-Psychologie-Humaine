@@ -33,27 +33,51 @@ La recherche distingue ces expériences car elles ne se recouvrent pas toujours.
 
 Chez Bernard, la solitude se manifeste d'abord par une tendance à transformer l'atelier en une forteresse. Au début, après le départ d'Hélène, rester seul était une protection nécessaire contre la pitié des autres ou l'obligation de parler de sa douleur. Cependant, avec le temps, cet isolement protecteur s'est transformé en un retrait social automatique. Il refuse les invitations de son voisin Marcel non pas parce qu'il n'a pas envie de le voir, mais parce qu'il a perdu l'habitude du mécanisme de la conversation. Le silence est devenu sa zone de confort, mais une zone de confort qui l'étouffe. Ce comportement est le prolongement direct de l'inhibition qu'il pratiquait enfant pour éviter les foudres de ses parents : en ne disant rien, il pensait ne rien risquer, oubliant que le vide est aussi une forme de souffrance.
 
+**Deux situations à distinguer :** Bernard apprécie de travailler seul sur un tiroir le matin. Le soir, il voudrait voir Marcel mais décline par habitude son invitation : le calme n’a alors pas le même sens pour lui.
+
 ### Les objets qui rappellent un proche
 
 Bernard tient aux meubles qu’il a fabriqués et aux outils d’Hélène. Les objets peuvent conserver une place dans le souvenir ou servir d’invitation à un échange. Leur importance n’est pas un signe de solitude ; Bernard se demande seulement quels liens lui manquent aujourd’hui.
+
+**Deux exemples :** la commode pour Éric lui donne une occasion de proposer un samedi ensemble. Un outil associé à Hélène lui rappelle une présence qui lui manque. Garder l’un ou l’autre ne prouve pas un isolement.
 
 ### La sensation de déconnexion malgré la présence d'autrui
 
 Il arrive que Bernard ressente la solitude de manière plus aiguë lorsqu'il est entouré. C'est le paradoxe du sentiment de solitude : on peut se sentir plus seul lors d'un repas de famille tendu qu'assis seul en forêt. Lorsqu'il discute avec Éric, le sentiment d'être incompris ou de ne pas savoir exprimer son affection crée un mur invisible. Cette déconnexion émotionnelle est la forme la plus douloureuse de solitude, car elle souligne l'incapacité à créer un pont entre deux mondes intérieurs, même quand les corps sont proches.
 
+**Deux situations possibles :** Éric est devant la commode, mais Bernard ne lui dit pas qu’il est heureux de sa visite. À une table avec les voisins, il répond sur son travail tout en souhaitant parler d’Hélène. La quantité de personnes présentes ne dit pas si l’échange souhaité a lieu.
+
 ## Techniques pour agir face à la solitude
 
 ### 1. La distinction consciente entre solitude et isolement
 
-Cette technique consiste à nommer l'état dans lequel on se trouve pour reprendre le pouvoir sur l'émotion. L'exercice consiste à tenir un carnet de bord pendant une semaine. Chaque fois que l'on se sent seul, on note si cette solitude est choisie, pour se reposer, créer ou réfléchir, ou si elle est subie, provoquant un sentiment de vide ou de tristesse. En identifiant les moments où la solitude devient pesante, on peut décider d'une action concrète pour briser le cycle, comme passer un court appel téléphonique ou simplement sortir faire une course dans un lieu animé.
+**Objectif :** Distinguer un calme apprécié d’un contact qui manque maintenant.
+
+1. Choisir un seul moment, par exemple après avoir coupé la radio.
+2. Noter ce qu’il souhaitait à cet instant : finir seul, entendre une voix ou voir une personne précise.
+3. Décider d’une réponse adaptée, comme garder le calme ou proposer un appel, sans journal obligatoire.
+
+Cette observation peut préciser un besoin. Elle ne mesure ni une solitude pathologique ni la qualité de toutes ses relations.
 
 ### 2. La technique du micro-lien social
 
-Si vous avez envie d’un échange bref, vous pouvez saluer un voisin, prendre des nouvelles d’un proche ou proposer une activité qui vous plaît. Les possibilités dépendent aussi de l’accès aux lieux, des horaires, de la mobilité et de l’accueil qu’on y trouve.
+**Objectif :** Rendre envisageable un échange bref avec Marcel.
+
+1. Choisir une occasion accessible, telle que le retour du voisin chez lui.
+2. Proposer de partager un morceau de fromage, en précisant qu’il peut préférer un autre jour.
+3. Lors de la rencontre, poser une question ou donner une nouvelle, puis partir quand cela convient.
+
+Une proposition limitée peut faciliter le premier contact. Les horaires, les déplacements et l’accueil du voisin comptent aussi ; une réponse négative n’est pas un jugement sur Bernard.
 
 ### 3. La lettre de l'objet médiateur
 
-Quand le dialogue direct est trop difficile, on peut utiliser un support pour exprimer ses émotions. Pour un artisan, cela peut être l'objet de son travail. L'exercice consiste à écrire une lettre courte ou une note qui accompagnera un geste ou un objet destiné à une personne dont on se sent éloigné. Au lieu d'essayer de tout dire de vive voix, on écrit une seule émotion ou un seul souvenir lié à l'objet. Cela permet de matérialiser le lien sans la pression de la réaction immédiate de l'interlocuteur, offrant ainsi une transition douce vers une communication plus directe.
+**Objectif :** Ajouter au meuble un message qu’Éric puisse comprendre.
+
+1. Choisir la commode déjà destinée à Éric, sans fabriquer un nouveau cadeau pour obtenir sa visite.
+2. Écrire une phrase personnelle et une proposition claire, comme vérifier les tiroirs ensemble samedi.
+3. Laisser Éric choisir sa réponse et réserver une autre occasion pour ce qui n’a pas été dit.
+
+La note peut expliciter une intention sans exiger de réaction immédiate. Elle ne remplace pas l’écoute de ce qu’Éric souhaite.
 
 ## À qui parler ce soir ?
 

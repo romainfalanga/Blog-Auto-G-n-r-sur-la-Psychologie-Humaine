@@ -45,6 +45,8 @@ Devant Agnès, Éloi commence par expliquer qu'il sait qu'elle est occupée, qu'
 
 Éloi peut rester courtois avec une phrase plus courte. Nommer le fait, ce qu'il vérifie déjà et ce qu'il demande rend la réponse plus facile. Cette précision respecte aussi le temps de l'autre. Elle ne garantit pas un accueil agréable, mais elle lui donne une base plus solide pour expliquer sa demande ensuite. S'il reçoit une réponse insuffisante, il sait quel point reste ouvert au lieu de repartir avec un malaise général.
 
+Au foyer, une longue justification sur son niveau pourrait aussi précéder la phrase du dossier qu’il souhaite faire relire à Nora. Elle ne saurait toujours pas quel passage l’arrête. Le remplacement à vérifier avec Agnès et la phrase à comprendre avec Nora n’ont pas la même urgence ; dans les deux cas, désigner d’abord l’objet de la demande rend l’aide plus facile à situer.
+
 ### Le bon moment est confondu avec un moment sans aucune gêne
 
 Éloi attend parfois qu'un collègue soit totalement disponible. Dans une cuisine active, cette situation peut ne pas se présenter. Une question importante reste alors sans réponse. Il faut distinguer la gêne de déranger et l'enjeu réel. Une incertitude qui empêche une décision sûre doit être signalée au moment utile, auprès de la personne désignée, selon les procédures du poste.

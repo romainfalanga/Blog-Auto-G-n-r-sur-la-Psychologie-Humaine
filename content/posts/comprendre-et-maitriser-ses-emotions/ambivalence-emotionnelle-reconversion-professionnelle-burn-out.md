@@ -33,29 +33,68 @@ En période de transition de carrière, ce conflit intérieur prend des formes s
 
 La perspective de quitter un environnement toxique apporte un soulagement immédiat, mais elle est instantanément talonnée par une culpabilité dévorante. Pour un profil comme celui de Youssef, cette culpabilité est nourrie par l'héritage familial. Il se sent coupable de ne pas être assez fort pour supporter ce que son père a enduré sans broncher. Cette manifestation crée un cycle où chaque élan d'espoir professionnel est étouffé par un sentiment de trahison envers ses proches ou envers lui-même, rendant toute décision concrète difficile. Youssef réalise que son exigence élevée, celle-là même qui le poussait à corriger l'alignement des jouets de son neveu, se retourne aujourd'hui contre lui : il exige de lui-même une transition parfaite, sans aucune faille émotionnelle.
 
+Deux exemples dans cet épisode :
+
+- Il envisage de ne plus répondre au téléphone professionnel à toute heure et ressent du soulagement, puis revoit la fierté de Hamid à son embauche.
+- Il retourne sa lettre de démission dans l’enveloppe parce qu’un départ lui plaît et lui donne aussi l’impression d’abandonner une sécurité importante.
+
 ### 2. L'alternance entre hyper-investissement et désengagement
 
 Youssef peut, selon les jours, regarder des pistes pour son projet puis revenir à des questions liées à son poste. Le récit décrit un va-et-vient dans ses priorités, sans en faire une cause ou un signe de l’épuisement.
+
+Deux exemples dans cet épisode :
+
+- Un jour, il ouvre les notes de conseil indépendant ; le lendemain, il relit la fiche du poste à Lyon sans que ce déplacement prouve que son premier intérêt était faux.
+- En préparant une conversation avec Nicolas, il commence par les possibilités du projet puis revient aux engagements et revenus qu’il hésite à quitter.
 
 ### 3. La paralysie de l'analyse comparative
 
 Lorsqu'on intellectualise ses émotions, l'ambivalence se transforme en une quête sans fin de la solution parfaite. On compare les avantages et les inconvénients de la reconversion avec une précision chirurgicale, mais un tableau ne décide pas de la place à donner à sa santé, à son revenu et à son projet. C'est ce que vit Youssef lorsqu'il essaie de transformer ses ressentis en calculs de probabilités : il cherche une certitude logique là où il existe un conflit de valeurs profond. Il retombe dans son biais d'ancrage, restant fixé sur le salaire de 48 000 euros de sa précédente proposition de mutation comme si ce chiffre était le seul indicateur de sa valeur d'homme.
 
+Deux exemples dans cet épisode :
+
+- Il ajoute encore une colonne au tableau alors que la question restante porte sur la place à donner au repos et à la stabilité.
+- Le montant de 48 000 euros revient dans chaque comparaison même lorsqu’il voudrait parler des horaires et de la disponibilité attendue.
+
 ## Techniques pour agir face à l'ambivalence émotionnelle
 
-Pour sortir de l'immobilisme, il est nécessaire de passer de l'analyse froide à l'accueil des contradictions internes sans chercher à les résoudre immédiatement.
+Youssef peut laisser coexister ses impressions et chercher les informations manquantes sans devoir décider pendant son arrêt.
 
 ### 1. Donner une place aux deux points de vue
 
 Youssef peut écrire une phrase qui commence par « Une partie de moi voudrait partir » et une autre par « Une partie de moi voudrait rester ». Il peut aussi les dire à quelqu’un en qui il a confiance, ou remettre l’exercice à plus tard s’il se sent trop fatigué.
 
+Objectif de cet essai : Laisser deux souhaits être formulés sans exiger qu’un seul l’emporte.
+
+1. Si vous en avez l’énergie, écrivez ce qui attire dans le départ, en partant du projet de conseil.
+2. Écrivez séparément ce qui attire dans le maintien au poste, sans caricaturer la sécurité recherchée.
+3. Gardez les deux phrases ou partagez-les avec une personne disponible sans les transformer en consigne de démissionner.
+
+Utilité possible : Cette mise en regard donne une place aux deux points de vue sans promettre de diminuer le tiraillement.
+
 ### 2. La cartographie des émotions contradictoires
 
-Prenez une grande feuille de papier et dessinez deux colonnes. Au lieu de lister des arguments logiques, notez les sensations physiques et les émotions brutes. Par exemple, sous la colonne Reconversion, écrivez : légèreté dans la poitrine, excitation, mais aussi peur de l'inconnu. Sous la colonne Statu quo, notez : sécurité matérielle, fierté de la famille, mais aussi étouffement et fatigue physique. En visualisant cette carte, vous sortez de la confusion mentale pour entrer dans une observation objective de votre paysage intérieur. La feuille sert à faire coexister plusieurs impressions sans chercher à les classer ni à établir un diagnostic.
+Prenez une grande feuille de papier et dessinez deux colonnes. Au lieu de lister des arguments logiques, notez les sensations physiques et les émotions brutes. Par exemple, sous la colonne Reconversion, écrivez : légèreté dans la poitrine, excitation, mais aussi peur de l'inconnu. Sous la colonne Statu quo, notez : sécurité matérielle, fierté de la famille, mais aussi étouffement et fatigue physique. La carte rend visibles les impressions que vous souhaitez noter, même si elles restent incertaines. La feuille sert à faire coexister plusieurs impressions sans chercher à les classer ni à établir un diagnostic.
+
+Objectif de cet essai : Distinguer plusieurs impressions autour d’une même option.
+
+1. Choisissez une option précise, telle que le conseil indépendant.
+2. Notez ce qui vous attire et ce qui vous inquiète, avec des sensations seulement si cela vous convient.
+3. Ajoutez les informations pratiques manquantes à part ; la carte ne décide pas de l’aptitude à reprendre.
+
+Utilité possible : La feuille conserve plusieurs impressions et distingue ce qu’une information pourrait éclairer. Elle ne fournit pas une mesure objective des émotions.
 
 ### 3. La méthode du plus petit engagement réversible
 
 Si Youssef en a l’énergie, il peut relever des questions à poser à quelqu’un qui travaille dans le domaine qui l’intéresse. Il n’a pas besoin de s’inscrire à une formation, de démissionner ni de se fixer un délai pour prendre une décision pendant son arrêt.
+
+Objectif de cet essai : Chercher une information sans engager une transition pendant l’arrêt.
+
+1. Retenez une question limitée sur le conseil, par exemple le déroulement d’une mission.
+2. Cherchez à qui la poser et vérifiez sa disponibilité, sans inscription ni engagement financier.
+3. Décidez si vous souhaitez demander l’information maintenant ou plus tard ; gardez les questions de santé et de reprise pour les professionnels concernés.
+
+Utilité possible : Une question peut préciser le projet tout en laissant la décision ouverte. Le repos peut rester la priorité du moment.
 
 ## La lettre reste dans l’enveloppe
 

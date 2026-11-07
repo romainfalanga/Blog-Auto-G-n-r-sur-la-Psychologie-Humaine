@@ -39,11 +39,21 @@ Salomé se demande si elle exagère. Elle aimerait savoir exactement ce que le p
 
 Le choix d’un lieu ouvert ne constitue pas une accusation totale contre le collectif. C’est un aménagement concret, cohérent avec les informations disponibles. Salomé peut l’expliquer sans affirmer qu’un événement précis va se produire. Elle peut également décider que les conditions ne lui conviennent pas et partir. La protection n’a pas à être validée par un incident ultérieur pour devenir raisonnable à ses yeux.
 
+Deux exemples dans cette situation :
+
+- La caisse reste sur le banc : Salomé cherche à savoir si le participant reviendra avant d’oser demander une autre salle.
+- Elle pourrait attendre la fermeture du hall pour vérifier si elle a vraiment une raison de ne pas rester seule ; son besoin pratique est déjà présent.
+
 ### Confondre rester visible et rester fidèle à soi
 
 Après avoir mentionné son identité dans sa fiche, Salomé se sent presque tenue de ne pas modifier son programme. Elle craint que demander un autre emplacement signifie qu’elle ne soutient pas son propre choix de visibilité. Cette règle lui impose une cohérence rigide. Les informations nouvelles changent pourtant les conditions de la décision. Elle peut garder sa présentation et choisir une autre manière de participer.
 
 Elle pourrait aussi demander une modification du texte pour un support futur, sans que cela invalide la version précédente. La fidélité à soi ne consiste pas à maintenir toutes les décisions lorsque le contexte change. Elle peut inclure le souci de ses limites et de ses moyens présents. Personne n’a à devenir un symbole de résistance disponible en permanence parce qu’une dimension de sa vie est connue publiquement.
+
+Deux exemples dans cette situation :
+
+- En regardant la fiche où elle a choisi de mentionner son identité, elle pense que déplacer sa table contredirait cette visibilité.
+- Elle hésite à appeler l’organisation parce qu’elle imagine devoir maintenir toute la démonstration dans la pièce initialement acceptée.
 
 ### Traiter la discrétion comme la seule solution disponible
 
@@ -55,6 +65,11 @@ Dans deux études de terrain, les personnes ont souri plus souvent lorsqu’on l
 
 Ces mesures ne garantissent pas une expérience parfaite. Elles peuvent néanmoins modifier concrètement ses options. La sécurité n’est pas seulement une sensation à produire en soi ; elle dépend aussi de l’accès aux autres, de la possibilité de partir et de la réponse donnée aux comportements problématiques. Salomé peut demander ces éléments sans devoir raconter tout son parcours pour expliquer pourquoi un propos hostile la concerne.
 
+Deux exemples dans cette situation :
+
+- Après le commentaire, elle pourrait retirer sa mention de toutes les fiches futures avant même de savoir comment l’équipe réagit ce soir.
+- Son sourire bref dans le couloir pourrait être pris pour un accord ; elle s’en sert pourtant seulement pour clore l’échange et rejoindre le hall.
+
 ## Trois techniques pour décider avec les informations présentes
 
 ### 1. Distinguer les faits, les inconnues et les besoins immédiats
@@ -65,6 +80,12 @@ Elle évite les deux phrases globales qui lui viennent : « Tout le lieu est dan
 
 Pour adapter l’exercice, limitez-vous à ce qui aide la décision maintenant. Il ne doit pas devenir une enquête qui retarde la sortie d’une situation préoccupante. Si vous vous sentez en danger immédiat, éloignez-vous et cherchez une aide adaptée. Vous n’avez pas à terminer une grille avant de partir. Dans une situation moins urgente, quelques faits et un besoin clair peuvent orienter une conversation utile avec un relais.
 
+Pour passer à une action limitée :
+
+1. Si vous pouvez faire le point sans retarder votre départ, retenez le commentaire entendu et les conditions d’isolement.
+2. Laissez inconnues les intentions que vous ne pouvez pas vérifier.
+3. Nommez la modification nécessaire maintenant ; en cas de danger immédiat, éloignez-vous sans finir cet exercice.
+
 ### 2. Vérifier les appuis et les conditions de départ
 
 L’organisation répond que le hall reste ouvert et qu’une personne d’accueil sera présente jusqu’à la fin. Salomé demande si elle peut y déplacer la table. Elle vérifie aussi où ranger sa caisse et comment quitter les lieux sans attendre la fermeture collective. Ces détails peuvent sembler ordinaires. Ils lui donnent pourtant une liberté concrète : participer sans dépendre d’un inconnu pour récupérer ses outils ou retrouver la sortie.
@@ -73,6 +94,12 @@ Elle écrit à Gaspard pour lui expliquer le changement de lieu, sans lui demand
 
 Vous pouvez identifier une personne ressource, une zone accessible et une possibilité de départ. Leur utilité dépend du contexte réel, pas d’une liste universelle à appliquer partout. Vérifiez aussi la réponse donnée à une demande : écoute-t-on le problème, fournit-on une information précise, respecte-t-on la possibilité de partir ? Ces comportements renseignent davantage que « ne t’inquiète pas », surtout lorsque des conditions pratiques restent floues.
 
+Pour passer à une action limitée :
+
+1. Demandez qui sera effectivement présent et où le contacter.
+2. Vérifiez l’accès au hall, à vos outils et au trajet de départ.
+3. Convenez avec un proche d’un appui limité, tel qu’un message au retour, s’il est disponible et si cela vous convient.
+
 ### 3. Choisir une participation révisable et un bilan limité
 
 Salomé accepte de faire la démonstration dans le hall et annonce qu’elle se réserve la possibilité d’arrêter si le cadre n’est pas respecté. Elle n’exige pas de se sentir totalement détendue avant de commencer. Elle souhaite seulement disposer d’un arrangement qu’elle juge praticable. Si l’organisation refusait toute modification ou minimisait les propos, elle pourrait revoir sa participation. L’accord ne doit pas devenir un engagement de rester à n’importe quel prix.
@@ -80,6 +107,12 @@ Salomé accepte de faire la démonstration dans le hall et annonce qu’elle se 
 Pendant la séance, elle revient à son activité autant que possible. Elle montre la différence entre deux pièces de bois et répond aux questions techniques. Elle n’analyse pas chaque regard pour vérifier que le danger reste absent. Une vigilance continue pourrait devenir épuisante. Le repère convenu est plus simple : si une question ou un comportement franchit sa limite, elle peut s’adresser au relais ou interrompre l’échange.
 
 Après, elle fait un bilan court sur les conditions et les comportements. Le hall lui convient mieux ; l’accueil reste présent ; aucun commentaire ne lui est adressé pendant la démonstration. Elle peut garder aussi le coût du repérage initial et décider de demander ces informations plus tôt la prochaine fois. L’absence d’incident ne prouve pas que sa prudence était inutile. Elle montre seulement comment cette soirée se déroule avec les aménagements choisis.
+
+Pour passer à une action limitée :
+
+1. Dites les conditions auxquelles vous acceptez la démonstration ou choisissez de partir.
+2. Repérez la personne à contacter ou la possibilité d’interrompre si le cadre n’est pas respecté.
+3. Après la soirée, relevez ce qui a été assuré et ce qui doit changer, sans déduire de l’absence d’incident que votre demande était inutile.
 
 ## La table dans le hall
 

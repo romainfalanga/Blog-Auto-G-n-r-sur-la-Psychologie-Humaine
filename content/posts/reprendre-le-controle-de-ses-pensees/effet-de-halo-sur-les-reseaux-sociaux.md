@@ -31,15 +31,21 @@ Une publication ne montre qu'une partie d'une vie. Elle offre à Stéphane un po
 
 ### 1. La confusion entre esthétique et expertise
 
-Nous avons une tendance naturelle à accorder plus de crédit aux propos d'une personne dont les visuels sont harmonieux. Un profil avec des photos de haute qualité, un design épuré et une présentation soignée active immédiatement l'effet de halo sur les réseaux sociaux. Stéphane, par exemple, accorde une confiance aveugle aux conseils de management d'Antoine simplement parce que ses photos dégagent une impression de maîtrise et de luxe. Le talent pour la photographie ou le budget pour un gestionnaire de communauté n'a aucun lien avec la sagesse ou la compétence réelle.
+Une impression visuelle peut déborder sur l’évaluation d’un contenu. Une photo réussie ou un texte soigné peuvent être appréciés sans démontrer la compétence de l’auteur sur toutes les questions abordées. Il n’est pas nécessaire d’affirmer qu’ils n’ont jamais aucun lien pour reconnaître cette limite.
+
+Stéphane peut prendre la baie vitrée et l’allure d’Antoine comme une raison de croire ses conseils de management avant de les lire. Il peut aussi juger une analyse commerciale solide parce que la page est bien présentée, sans vérifier les données utilisées. Dans le premier cas, le décor sert d’argument ; dans le second, la forme du message. Aucun ne remplace l’examen du contenu.
 
 ### 2. L'idéalisation de la vie privée à travers la sphère publique
 
-Lorsqu'un professionnel affiche un succès éclatant, nous projetons cette réussite sur son équilibre personnel. C'est ce qui arrive à Stéphane lorsqu'il imagine Antoine comme un père parfait, contrairement à lui qui peine parfois à communiquer avec Maxime. Ce biais nous fait oublier que la performance dans un domaine, comme la vente ou l'entrepreneuriat, peut parfois se faire au détriment d'autres piliers de vie. On crée une image de sainteté laïque autour de figures publiques, ce qui renforce notre propre sentiment d'infériorité.
+La présentation d’une réussite professionnelle ne renseigne pas directement sur la vie privée d’Antoine. Stéphane peut reconnaître ce qu’il admire sans compléter les domaines qu’il ne voit pas par une image idéale ou, à l’inverse, par des difficultés inventées.
+
+Le sourire de la photo lui fait imaginer une gestion du stress sans faille, qu’il compare à ses propres mains moites en réunion. La réussite affichée lui fait aussi supposer une relation parfaite avec les enfants, qu’il oppose à ses tensions avec Maxime. Ces deux conclusions concernent des domaines différents du contenu professionnel montré. La publication ne permet de confirmer ni l’une ni l’autre.
 
 ### 3. Le renforcement par l'autorité visible
 
-Le nombre d'abonnés indique une forme de popularité sur un compte. Il ne suffit pas à établir une expertise ou une qualité personnelle. Pour un conseil important, Stéphane peut chercher les qualifications pertinentes ou vérifier les faits avancés.
+Des signes de reconnaissance peuvent peser sur la crédibilité perçue. Ils méritent d’être interprétés pour ce qu’ils indiquent effectivement, sans les transformer en évaluation générale d’une personne.
+
+Un grand nombre d’abonnés peut donner à Stéphane l’impression que les conseils d’Antoine sont déjà vérifiés, alors qu’il indique une audience. Un titre d’entrepreneur peut aussi l’amener à lui attribuer une compétence dans un autre domaine, sans connaître son expérience pertinente. Dans ces deux cas, il peut chercher l’information liée à la question au lieu de prendre la visibilité pour une garantie.
 
 ## Techniques pour agir face à l'effet de halo sur les réseaux sociaux
 
@@ -47,15 +53,33 @@ Pour ne plus subir ces jugements automatiques qui pèsent sur le moral, il est p
 
 ### 1. La technique de la compartimentation critique
 
-Cette méthode consiste à isoler la qualité observée pour l'empêcher de contaminer le reste de votre perception. Lorsque vous voyez une publication qui vous impressionne, nommez précisément ce qui est réussi sans aller plus loin. Par exemple, au lieu de vous dire que cet homme est génial, dites-vous que cette photo est très bien cadrée ou que ce texte sur la stratégie commerciale est pertinent. L'exercice consiste à dresser mentalement une barrière : reconnaissez le talent spécifique sans lui accorder un chèque en blanc sur sa personnalité globale. Cela permet de ramener l'individu à une dimension humaine et segmentée.
+L’objectif est de garder le jugement à la portée de ce qui a été vu, sans retirer toute qualité à la publication.
+
+1. Nommer le point précis qui plaît : cadrage de la photo, clarté d’un titre ou argument réellement lu.
+2. Relever le saut qui suit, par exemple de « la photo est réussie » à « Antoine ne doute jamais ».
+3. Conserver la première appréciation et laisser la seconde inconnue. Stéphane peut dire à Sandrine ce qu’il a vu sans conclure sur la vie familiale d’Antoine.
+
+Cette séparation limite la conclusion. Elle ne fournit pas un autre portrait de la personne et ne rend pas l’admiration injustifiée en elle-même.
 
 ### 2. L'exercice de l'envers du décor narratif
 
-Hors du cadre de la photo, il manque de l'information. Stéphane peut s'en tenir à ce constat plutôt qu'imaginer des difficultés précises pour équilibrer son impression.
+Stéphane revient au contexte de la publication plutôt qu’à un « envers » qu’il inventerait. Il ne cherche pas une difficulté cachée pour rendre Antoine moins impressionnant.
+
+1. Lire la légende, le titre et ce qu’Antoine présente effectivement, au lieu de s’arrêter au décor de la baie vitrée.
+2. Distinguer le document public, son sujet et ce qu’il ne montre pas. Si les conditions de production de la photo sont inconnues, elles restent inconnues.
+3. Décider s’il veut poursuivre la lecture de ce sujet ou fermer le fil et retrouver une activité, comme l’échange avec Maxime. Il n’a pas à rechercher d’autres images pour confirmer ou détruire son impression.
+
+Le retour au message fournit du contexte consultable. Il ne donne pas accès à la vie hors champ et ne garantit pas que la comparaison cessera.
 
 ### 3. La pratique du questionnement sur les lacunes d'information
 
-Cette technique repose sur une approche scientifique du jugement : rappelez-vous que vous ne disposez que d'une infime partie des informations nécessaires pour évaluer une vie. Avant de laisser l'effet de halo sur les réseaux sociaux influencer votre humeur, posez-vous la question suivante : quelles sont les trois choses que j'ignore totalement sur cette personne au moment où je la regarde ? Vous ignorez sa santé mentale, la qualité de son sommeil ou ses échecs passés. En listant consciemment ces zones d'ignorance, vous reprenez le pouvoir sur votre cerveau qui voulait combler les vides avec des projections positives.
+Lorsqu’un conseil compte pour une décision, Stéphane peut choisir la donnée nécessaire à son examen. Le but n’est pas d’enquêter sur le sommeil, la santé mentale ou les échecs privés de l’auteur.
+
+1. Reprendre une affirmation précise sur la négociation ou le management et la question à laquelle il veut répondre.
+2. Chercher ce qui soutient ce point dans le contenu public : source, méthode, exemple détaillé ou qualification pertinente. Ne pas remplacer l’information absente par le nombre d’abonnés.
+3. Garder la conclusion provisoire ou consulter un interlocuteur compétent si l’enjeu le justifie. Il peut renoncer à utiliser ce conseil tant qu’il ne sait pas assez sur le sujet.
+
+Cette recherche porte sur une proposition déterminée. Elle n’évalue pas toute une vie et ne promet pas un jugement exempt de toute influence.
 
 ## Ce qu’il a réellement vu sur la photo
 

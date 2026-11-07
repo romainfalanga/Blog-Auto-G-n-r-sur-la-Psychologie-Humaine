@@ -39,6 +39,8 @@ Vincent craint qu’une phrase sur sa fatigue paraisse banale. Il songe à déta
 
 Une demande n’a pas besoin de constituer une preuve judiciaire. Vincent peut donner assez de contexte pour être compris, puis nommer le soutien souhaité. Si Denis ne comprend pas, il peut préciser un exemple concernant son propre emploi du temps. Il n’est pas obligé de livrer une information plus intime à chaque question pour montrer qu’il ne se plaint pas sans raison.
 
+Pour expliquer la pause occupée par un appel, il peut décrire son créneau sans raconter la santé de Cédric ; pour expliquer la soirée passée sur la porte, il peut nommer les relances sans détailler l’intimité du couple. Ces deux exemples rendent son vécu audible avec moins d’informations privées.
+
 ### Le conseil devient une décision à accepter
 
 Denis propose spontanément de contacter le gestionnaire à leur place. L’intention peut être généreuse, mais le suivi appartient maintenant à Cédric et cette intervention n’est pas demandée. Vincent peut remercier son collègue pour son envie d’aider tout en refusant la proposition. Recevoir une écoute ne signifie pas lui confier ensuite le pouvoir de diriger le dossier.

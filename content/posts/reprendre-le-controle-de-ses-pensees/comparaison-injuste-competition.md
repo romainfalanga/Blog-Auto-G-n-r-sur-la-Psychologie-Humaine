@@ -28,14 +28,16 @@ Stéphane pense à la rivalité avec Philippe quand un collègue est félicité.
 
 ## Manifestations de la comparaison injuste en situation de compétition
 ### 1. Comparaison ascendante automatique et évaluation globale
-Dans beaucoup de compétitions, la première manifestation est l'émergence instantanée d'une cible de comparaison ascendante : un collègue qui signe un gros contrat, un orateur applaudi, un pair qui affiche des résultats supérieurs. Pour Stéphane, cela survient dès qu'un pair obtient une reconnaissance publique. Il revoit la scène du 9 mars où un collègue reçoit les louanges, et cette image devient une preuve interne qu'il est moins bon, sans analyser les conditions ou les efforts spécifiques.
 
-En réunion commerciale, dès qu'un concurrent interne présente un chiffre supérieur, l'esprit de Stéphane généralise ce résultat à son identité professionnelle, alors que la différence peut tenir à un point de produit, à un timing ou à une relation de réseau.
+Stéphane peut utiliser un résultat visible pour établir un classement qui dépasse l’objet de la comparaison. Se comparer peut aussi lui donner une question d’apprentissage ; le problème dépend de la portée donnée à l’écart et des informations disponibles.
+
+En réunion, un chiffre commercial supérieur peut devenir « mon collègue est meilleur que moi en tout », sans examen du compte ou des conditions. À la salle, la posture de l’homme du banc voisin peut lui sembler montrer qu’il est en retard, sans connaître son entraînement. Ces deux scènes concernent des activités différentes. Elles ne mesurent pas l’ensemble de sa valeur professionnelle ou personnelle.
 
 ### 2. Relativisation punitive des réussites personnelles
-Une autre manifestation est la minimisation systématique de ses propres succès. Même lorsqu'il gagne un contrat, Stéphane a tendance à attribuer cela à la chance, au hasard ou à une moindre implication de la concurrence, au lieu de reconnaître ses compétences et son travail. Ce schéma se retrouvait après la perte du contrat Lemoine, où il a basculé vers la régression au lieu d'analyser objectivement les causes. Il réalise aujourd'hui que son attachement excessif à ses propres idées, ce fameux effet IKEA qui l'avait rendu hermétique aux critiques lors de sa présentation solitaire, était aussi une manière de surcompenser cette peur d'être inférieur.
 
-Après une bonne présentation, il note mentalement trois détails à améliorer et un seul point positif, ce qui entretient l'angoisse avant la suivante.
+Stéphane peut reconnaître très vite ce qui manque et laisser de côté sa contribution à un résultat. Cela ne prouve pas un mécanisme de régression ou une compensation liée à l’enfance. Les raisons d’une réussite restent à décrire avec leurs limites.
+
+Après un contrat gagné, il peut tout attribuer à la chance sans regarder le travail de négociation et l’aide de l’équipe. Après une présentation claire, il peut ne retenir que l’hésitation sur un chiffre et oublier les questions auxquelles il a répondu. Le premier exemple efface l’action derrière un succès ; le second réduit le bilan à un détail. Il peut garder les éléments satisfaisants et les corrections nécessaires sans choisir un portrait tout positif.
 
 ### 3. Lecture hostile des intentions des autres et sentiment d'injustice
 Stéphane peut avoir envie d'expliquer le succès d'un collègue par une faveur. Si un critère a réellement été appliqué de manière inégale, il peut le nommer et poser une question ; le sentiment d'injustice ne tranche pas la question à lui seul.
@@ -44,34 +46,34 @@ Il peut interpréter un compliment porté à un pair comme une dévalorisation i
 
 ## Techniques pour reprendre le contrôle
 ### 1. Recontextualiser une comparaison
-L'objectif est de transformer une comparaison ascendante automatique en une observation factuelle et utile.
 
-Exercice concret :
-1. Quand une pensée de comparaison surgit, arrêter l'histoire mentale et noter la pensée précise sur un carnet.
-2. Noter la donnée observable, ce qui rend les situations différentes, ce qu'on ignore et une action utile s'il y en a une.
-3. Relire la note si elle est utile ; il n'y a pas de délai à respecter.
+Stéphane cherche à préciser la dimension comparée et ce qui reste inconnu, sans se donner une obligation d’arrêter toute pensée de classement.
 
-Cela réduit l'amalgame entre un résultat isolé et une valeur personnelle. Stéphane peut réutiliser ici son acquis de mars sur la reconnaissance des déclencheurs et la nomination des émotions, en remplaçant l'histoire intérieure par des faits mesurables.
+1. Relever la phrase au banc voisin : « Je suis en retard », puis nommer le point visible qui la déclenche.
+2. Distinguer ce qu’il sait de son propre exercice, ce qu’il ne sait pas de l’autre personne et les conditions réellement comparables. Il ne devine ni son histoire ni son état de santé.
+3. Choisir une action utile s’il y en a une : revenir au réglage déjà prévu pour lui ou poser à l’interlocuteur compétent une question sur sa propre pratique. Une autre vie entière n’a pas à être classée pour cela.
+
+La note limite la comparaison à une question. Elle ne garantit pas de se sentir au même niveau et ne remplace pas l’encadrement nécessaire d’une activité physique.
 
 ### 2. Tenir un carnet de preuves professionnelles
-L'objectif est de contrebalancer la tendance à minimiser ses réussites par une base de données factuelle.
 
-Exercice concret :
-1. Créer une fiche simple pour chaque mois avec trois rubriques : succès vérifiables (contrat, feedback client), compétences mobilisées (négociation, organisation), témoignages externes (mail, message de remerciement).
-2. Avant toute réunion ou moment de doute, relire les trois dernières fiches et noter une compétence que vous utiliserez explicitement aujourd'hui.
-3. Après l'événement, ajouter un bref retour sur ce qui a fonctionné et ce qui peut être amélioré.
+Une trace choisie peut rendre sa contribution plus précise sans alimenter une préparation permanente. Le carnet n’est ni un test d’estime de soi ni une archive de compliments obligatoire.
 
-En transformant l'auto-évaluation en preuve, on réduit l'impact des comparaisons injustes. Stéphane, qui a l'habitude de préparer excessivement ses présentations, peut canaliser ce perfectionnisme pour alimenter son carnet au lieu de nourrir la rumination.
+1. Choisir un exemple utile à la réunion prochaine, en respectant les règles de confidentialité des dossiers.
+2. Noter son action, les appuis et le résultat connu, avec un point encore à améliorer. Éviter de transformer un succès en preuve de maîtrise de tous les comptes.
+3. Utiliser cette note pour préparer une action concrète dans la réunion, puis la laisser de côté. Il peut l’actualiser si une information nouvelle change ce bilan, sans quota mensuel ni relecture de trois fiches.
+
+Cette trace peut soutenir une préparation limitée. Elle ne convertit pas son auto-évaluation en mesure objective et ne garantit pas de réduire la comparaison.
 
 ### 3. L'exercice du miroir contextuel en situation compétitive
-L'objectif est de dédramatiser la compétition en développant une perspective externe.
 
-Exercice concret :
-1. Avant une situation compétitive comme une réunion, un appel de négociation ou un tournoi de golf, imaginer être un observateur neutre qui doit décrire la situation en quelques lignes sans jugements moraux.
-2. Décrire ensuite ce que penserait une personne bienveillante mais honnête à propos de vos actions et de celles des autres.
-3. Noter une action concrète issue de cette lecture, par exemple poser une question claire ou partager une donnée, et s'engager à l'exécuter.
+Stéphane peut décrire l’échange avec le même accès limité aux faits pour lui et pour les autres. Imaginer une perspective ne donne pas le pouvoir de connaître leur avis bienveillant ou hostile.
 
-Ce détour peut aider Stéphane à formuler une question plutôt qu'une accusation. La réaction de ses collègues reste ouverte.
+1. Pour le prochain dossier avec Marc, écrire ce qu’un observateur pourrait effectivement voir : données présentées, questions et réponses.
+2. Séparer ce qu’il attribue à chacun, comme « on me place derrière lui », de ce qui a été dit sur la tâche ou les critères.
+3. Choisir une question ou une donnée à partager, puis vérifier la réponse reçue sans chercher à confirmer tout un classement.
+
+Ce détour peut fournir une phrase de coopération au lieu d’une accusation. Le résultat du dossier et la réaction de Marc restent ouverts.
 
 ## Comparer un geste plutôt que deux vies
 De retour à la salle, Stéphane reprend le poids qu’il avait utilisé la semaine précédente. Il aimerait demander à l’homme du banc voisin depuis combien de temps il s’entraîne. Ce qu’il aimerait surtout, il le reconnaît, c’est savoir s’il est en retard. Il note plutôt le réglage qui lui a évité de tirer sur l’épaule.

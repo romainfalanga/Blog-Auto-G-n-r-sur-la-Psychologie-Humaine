@@ -1,0 +1,1258 @@
+{
+  "character_id": "malo",
+  "bio": "Malo, 34 ans, est photographe de scène pour la troupe Les Traverses. Après une hospitalisation pour une catatonie associée à un autre trouble mental, il poursuit ses soins et reprend les décisions qui concernent ses images. Sa sœur Enora, Nadir à la régie et Léonie à la production cherchent avec lui qui gardera ses archives pendant son absence. Malo veut préserver le cadre d’une photographie autant que sa liberté de dire ce qu’il souhaite partager.",
+  "profile_topics": [
+    "Catatonie associée à un autre trouble mental",
+    "Réactivité et parole",
+    "Évaluation médicale urgente",
+    "Reprise des décisions",
+    "Suivi et entourage"
+  ],
+  "episodes": [
+    {
+      "number": 1,
+      "slug": "malo-derriere-le-pendard",
+      "title": "Rupture de réactivité dans les coulisses : appeler les secours",
+      "description": "Dans les coulisses, Malo ne répond plus comme quelques instants auparavant. Enora appelle les secours sans attendre de comprendre pourquoi.",
+      "context": "Un jeudi de mai, après une répétition des Traverses",
+      "topics": [
+        "Un contraste avec les instants précédents",
+        "Des réponses devenues très limitées",
+        "Une activité interrompue"
+      ],
+      "clinical_focus": "Une rupture marquée de réactivité",
+      "clinical_intro": "Une diminution marquée des mouvements et des réponses peut signaler une urgence médicale. Elle demande une évaluation sans attendre de pouvoir nommer sa cause. Dans les coulisses, Enora observe un changement inhabituel chez son frère Malo. Elle appelle immédiatement les secours ; le diagnostic appartient à l’équipe qui prendra le relais.",
+      "opening": "Malo a posé sa mallette rouge derrière le pendard, à l’endroit où la lumière de service atteint encore les fermoirs. Il vient de montrer à Nadir une photographie d’Une mer au plafond. Yasmina y tourne le dos à une chaise renversée. Tout à droite, on distingue la régie et le coude de Nadir. Malo refuse le recadrage vertical proposé pour l’affiche : le vide au-dessus de la chaise fait partie de l’image. Enora arrive par le chemin de service avec le manteau qu’il a oublié chez elle. Elle lui demande s’il veut qu’elle le pose sur la mallette.\n\nMalo ne lui répond pas. Ses mouvements et sa réaction à sa présence se sont nettement réduits. Nadir rappelle son prénom ; il n’obtient pas la réponse habituelle non plus. Cela vient de changer, au milieu d’une discussion où Malo défendait chaque centimètre de son cadre. Enora compose immédiatement le 15. Elle donne l’adresse du théâtre, précise l’accès par la cour et décrit ce qu’elle voit. Elle ne cherche pas à décider s’il s’agit de fatigue, d’une maladie ou d’autre chose. Elle suit les indications de la régulation.\n\nLéonie va à la porte de service pour guider le relais envoyé. Nadir cesse de demander à Malo ce qu’il veut faire du tirage. Enora lui dit simplement que des professionnels arrivent et qu’elle reste là en attendant. La répétition est terminée ; personne ne lui demande de la reprendre. Quand l’équipe rejoint les coulisses, elle prend Malo en charge. La mallette reste derrière le pendard et l’affiche peut attendre.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Un changement qui demande une évaluation immédiate",
+          "text": "Une altération brutale et marquée de la réactivité peut relever de plusieurs problèmes médicaux et demande une réponse urgente. Certaines présentations de la catatonie comportent une forte diminution des mouvements et de la parole, mais ce que voit un proche ne suffit pas à poser ce diagnostic. Enora transmet la rupture observée chez Malo. L’équipe recherche ce qui se passe et les complications possibles ; aucune explication n’est retenue dans les coulisses."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment une rupture de réactivité change-t-elle la situation dans les coulisses ?",
+          "points": [
+            {
+              "heading": "Un contraste avec les instants précédents",
+              "text": "Le changement observé donne une information à transmettre, sans permettre d’en connaître la cause.",
+              "examples": [
+                "Malo discutait du cadre et ne répond ensuite plus comme d’habitude à Enora.",
+                "À la régulation, un témoin peut décrire qu’une personne qui échangeait avec lui réagit maintenant très peu."
+              ]
+            },
+            {
+              "heading": "Des réponses devenues très limitées",
+              "text": "Une absence de réponse marquée ne permet pas de conclure à un refus volontaire de la conversation.",
+              "examples": [
+                "Nadir n’obtient pas la réponse habituelle lorsqu’il prononce le prénom de Malo.",
+                "Sur un lieu de travail, le silence accompagné d’une rupture majeure de réactivité demande un relais médical, sans discussion sur la bonne volonté."
+              ]
+            },
+            {
+              "heading": "Une activité interrompue",
+              "text": "La recherche d’une explication ou l’achèvement d’une tâche ne doivent pas retarder le recours aux secours.",
+              "examples": [
+                "La décision sur l’affiche s’arrête dès que l’urgence est reconnue.",
+                "Lors d’une répétition, un responsable peut dégager son temps pour accueillir les secours au lieu de finir la réunion."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour transmettre une urgence aux professionnels",
+          "points": [
+            {
+              "heading": "Joindre immédiatement la régulation",
+              "objective": "Obtenir une évaluation de la situation et un relais adapté.",
+              "exercise": [
+                "Appelez le 15 en France devant cette altération brutale et marquée de la réactivité.",
+                "Donnez le lieu et décrivez le changement observable, sans avancer un diagnostic.",
+                "Suivez les indications de la régulation et signalez toute évolution."
+              ],
+              "benefit": "Le professionnel dispose de faits pour orienter la réponse ; aucun délai d’observation ni test à domicile n’est nécessaire."
+            },
+            {
+              "heading": "Rendre le lieu accessible",
+              "objective": "Faciliter l’arrivée du relais envoyé sans improviser de soin.",
+              "exercise": [
+                "Précisez l’entrée réellement utilisable pendant l’appel.",
+                "Si quelqu’un d’autre est disponible, demandez-lui de guider l’équipe depuis cette entrée.",
+                "Transmettez aux intervenants ce que vous avez observé et laissez-les prendre en charge la situation."
+              ],
+              "benefit": "Une adresse et un accès précis évitent que les intervenants cherchent la personne dans le bâtiment."
+            },
+            {
+              "heading": "Continuer à parler à la personne",
+              "objective": "Conserver une présence respectueuse pendant le relais.",
+              "exercise": [
+                "Adressez-vous simplement à la personne en disant que de l’aide est appelée.",
+                "Évitez d’exiger une réponse ou d’interpréter son silence.",
+                "Laissez les professionnels conduire la suite et appliquez leurs indications."
+              ],
+              "benefit": "L’absence de réponse ne prouve pas une absence de compréhension ; ces paroles accompagnent le recours aux soins sans le remplacer."
+            }
+          ]
+        }
+      ],
+      "ending_title": "La porte de service",
+      "ending": "Léonie tient la porte tandis que l’équipe repart avec Malo vers l’hôpital. Enora donne son numéro aux professionnels puis rejoint le trajet convenu avec eux. Nadir confie la mallette fermée à Léonie, qui la place dans le bureau de production. Léonie prévient Enora par message ; elle pourra retrouver les affaires sans avoir à rappeler tous les membres de la troupe. Sur le tirage resté sur la table, le coude du régisseur est toujours visible. Aucune version d’affiche n’est arrêtée ce soir-là.",
+      "mirror": [
+        "Enora a décrit un changement et Léonie a guidé les secours. Un proche peut dire « J’appelle de l’aide et je reste ici suivant leurs indications ». Il n’a pas à chercher des signes supplémentaires, à obtenir une réponse ni à essayer un geste clinique. Le relais médical est déjà engagé dans cette scène ; les affaires de Malo viennent ensuite."
+      ],
+      "sources": [
+        "oms-cddr",
+        "bap-catatonie",
+        "aclp-catatonie-liaison",
+        "service-public-urgences"
+      ],
+      "continuity": {
+        "choice": "Enora appelle immédiatement le 15 ; l’équipe envoyée prend Malo en charge. Léonie garde la mallette fermée au bureau de production.",
+        "next": "À l’hôpital, les professionnels évaluent la situation avant qu’un diagnostic soit expliqué à Malo."
+      },
+      "conclusion": "La rupture observée a conduit à un appel immédiat et à une prise en charge effective. Sa cause reste à évaluer à l’hôpital. Pour Malo, la discussion sur ses images s’interrompt ; elle pourra reprendre lorsqu’il sera en mesure d’y participer."
+    },
+    {
+      "number": 2,
+      "slug": "malo-les-mots-de-la-docteure",
+      "title": "Diagnostic de catatonie : ce que l’évaluation permet de dire",
+      "description": "À l’hôpital, Malo demande ce que le diagnostic explique. La Dre Le Berre reprend avec lui le bilan et la place du trouble associé.",
+      "context": "Après l’évaluation hospitalière, quelques jours après l’admission",
+      "topics": [
+        "Plusieurs observations mises en relation",
+        "Des explications possibles examinées",
+        "Un trouble associé nommé séparément"
+      ],
+      "clinical_focus": "Un diagnostic établi après évaluation",
+      "clinical_intro": "La catatonie est un syndrome qui peut modifier les mouvements, les réponses et la parole. Son diagnostic demande une évaluation clinique et la recherche d’autres explications. Après son admission, Malo reçoit les conclusions de l’équipe hospitalière. Il veut comprendre les mots retenus et savoir quelles informations concernent sa troupe.",
+      "opening": "La Dre Le Berre demande à Malo s’il souhaite qu’Enora reste pour l’entretien. Il répond oui, puis demande qu’on commence par lui expliquer ce qui a été retenu. Depuis son admission, l’équipe a recueilli des observations, l’a examiné et a réalisé le bilan jugé nécessaire. Des soins ont été engagés pendant cette évaluation ; Malo n’en connaît pas encore tous les motifs. Il se souvient surtout d’avoir entendu plusieurs noms différents au fil des échanges. Aucun ne lui permettait de comprendre pourquoi la discussion sur la photographie s’était arrêtée.\n\nLa médecin reprend aujourd’hui les conclusions. « Nous avons retenu une catatonie associée à un autre trouble mental. » Elle explique que le syndrome et le trouble associé sont évalués séparément. Elle revient avec Malo sur ce dernier en termes qu’il connaît ; il choisit de garder ces informations dans le cadre du soin. L’équipe a aussi recherché les autres explications médicales possibles. Ce qui s’est passé ne peut pas être attribué au théâtre ou au caractère de Malo parce qu’il travaillait lorsqu’Enora a appelé.\n\nMalo demande si le mot désigne simplement le fait de ne plus parler. La Dre Le Berre distingue plusieurs observations prises ensemble et le seul silence, qui ne permettrait pas cette conclusion. Enora a apporté le message de Léonie : la mallette est dans son bureau. Malo voudrait décider d’un lieu où la garder, mais il ne veut pas qu’un échange sur ses photographies serve à raconter l’entretien médical à toute la troupe.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Nommer le syndrome et préciser son contexte",
+          "text": "Le diagnostic de catatonie repose sur un ensemble de manifestations évaluées par des professionnels. Dans la catégorie retenue pour Malo, le syndrome survient dans le contexte d’un autre trouble mental, diagnostiqué séparément ; d’autres origines de catatonie existent. La Dre Le Berre explique la conclusion après le bilan hospitalier. Le lieu où la crise est survenue, une apparence de fatigue ou un silence isolé n’établissent ni le syndrome ni sa cause."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment l’évaluation donne-t-elle un sens au diagnostic de catatonie ?",
+          "points": [
+            {
+              "heading": "Plusieurs observations mises en relation",
+              "text": "Le raisonnement ne se réduit pas à un comportement que l’entourage aurait reconnu.",
+              "examples": [
+                "Malo demande si son absence de parole explique à elle seule le diagnostic ; la médecin reprend l’ensemble du tableau.",
+                "Pendant un entretien de restitution, un médecin distingue ce qui a été rapporté par un témoin et ce qu’il a lui-même évalué."
+              ]
+            },
+            {
+              "heading": "Des explications possibles examinées",
+              "text": "Des situations médicales différentes peuvent se ressembler et demandent un bilan adapté.",
+              "examples": [
+                "L’équipe n’a pas conclu à partir du seul changement vu au théâtre.",
+                "Une personne hospitalisée peut demander pourquoi plusieurs hypothèses ont été évoquées avant la conclusion."
+              ]
+            },
+            {
+              "heading": "Un trouble associé nommé séparément",
+              "text": "L’association est une conclusion clinique ; elle ne se déduit pas du métier ou de la personnalité.",
+              "examples": [
+                "Malo parle du trouble associé avec la Dre Le Berre sans demander à Enora de l’annoncer à Léonie.",
+                "Un patient peut connaître deux intitulés dans son dossier et demander quel rôle chacun joue dans son suivi."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour comprendre une conclusion diagnostique avec son médecin",
+          "points": [
+            {
+              "heading": "Demander ce que le terme recouvre",
+              "objective": "Obtenir une explication accessible de la conclusion retenue.",
+              "exercise": [
+                "Reprenez le nom écrit ou entendu pendant l’entretien.",
+                "Demandez quels éléments de votre évaluation ont éclairé cette conclusion.",
+                "Reformulez avec vos mots et laissez le médecin corriger ce qui reste imprécis."
+              ],
+              "benefit": "La reformulation aide à comprendre son histoire clinique sans se donner une grille de diagnostic à appliquer ailleurs."
+            },
+            {
+              "heading": "Séparer les questions de syndrome et de contexte",
+              "objective": "Comprendre ce qui a été évalué distinctement.",
+              "exercise": [
+                "Demandez ce qui concerne la catatonie.",
+                "Faites préciser la place du trouble associé et les autres explications recherchées.",
+                "Demandez quelles questions restent ouvertes pour le suivi."
+              ],
+              "benefit": "Ces distinctions évitent de transformer un intitulé en explication de toute la vie de la personne."
+            },
+            {
+              "heading": "Choisir ce qui sera transmis",
+              "objective": "Organiser une information utile sans divulgation imposée.",
+              "exercise": [
+                "Dites au soignant si vous souhaitez la présence d’un proche pendant l’échange.",
+                "Convenez avec ce proche des informations que vous l’autorisez à transmettre à la troupe.",
+                "Gardez une question de santé pour l’équipe et une demande pratique distincte pour les collègues."
+              ],
+              "benefit": "Le choix des destinataires peut rendre l’aide plus acceptable ; les soins se poursuivent même si le dossier reste privé."
+            }
+          ]
+        }
+      ],
+      "ending_title": "La mallette peut rester fermée",
+      "ending": "Malo demande à Enora de récupérer la mallette au bureau de Léonie et de la garder chez elle, sans l’ouvrir, le temps qu’il réfléchisse. Il lui permet de dire seulement qu’il est hospitalisé et que la décision sur les archives viendra plus tard. Enora répète cette phrase avant d’envoyer le message. La Dre Le Berre note la question qu’il veut reprendre sur le suivi. Malo lui demande aussi une copie de l’explication diagnostique. Il pourra la relire sans les regards de toute la troupe autour du tirage.",
+      "mirror": [
+        "Enora peut vérifier « Tu veux que je dise seulement que je garde tes affaires ? » Elle peut également rapporter aux soignants les faits qu’elle a vus lors de l’urgence. Ces rôles ne lui donnent pas à interpréter le bilan ni à raconter le trouble associé à la troupe. Elle peut demander une explication pour elle-même avec l’accord de Malo."
+      ],
+      "sources": [
+        "oms-cddr",
+        "bap-catatonie",
+        "aclp-catatonie-liaison",
+        "has-decision-partagee"
+      ],
+      "continuity": {
+        "choice": "Le diagnostic est expliqué après le bilan ; Malo autorise Enora à récupérer la mallette fermée et à transmettre seulement son hospitalisation.",
+        "next": "Enora apporte un tirage choisi par Malo lors d’une visite ; il voudrait revenir sur ce qu’il entendait sans pouvoir répondre."
+      },
+      "conclusion": "Le diagnostic a été annoncé après l’évaluation et le trouble associé garde sa place propre dans le soin. Malo obtient des mots et choisit une première transmission. La mallette change de gardienne provisoire ; ses archives restent à décider."
+    },
+    {
+      "number": 3,
+      "slug": "malo-la-question-au-dessus-du-tirage",
+      "title": "Mutisme catatonique : entendre sans parvenir à répondre",
+      "description": "Devant le tirage apporté par Enora, Malo revient sur une phrase entendue pendant la crise. L’absence de réponse ne disait pas tout de son vécu.",
+      "context": "Lors d’une visite d’Enora à l’hôpital",
+      "topics": [
+        "Une question demeure sans réponse",
+        "Les paroles des autres peuvent rester présentes",
+        "Une préférence ordinaire garde son sens"
+      ],
+      "clinical_focus": "Une parole devenue inaccessible",
+      "clinical_intro": "Dans certaines présentations de la catatonie, la parole peut devenir très limitée ou absente. La personne peut comprendre ce qui se dit sans parvenir à répondre. Malo revient avec Enora sur un moment dont il garde le souvenir. Ce vécu singulier ne décrit pas nécessairement celui d’une autre personne.",
+      "opening": "Enora a laissé la mallette chez elle, comme Malo le lui a demandé. Elle apporte seulement le tirage horizontal qu’il lui a désigné parmi les papiers restés au théâtre et que Léonie a retrouvé sur la table. Elle le sort d’une enveloppe en carton, puis demande si la chaise renversée avait été déplacée pour la photographie. Malo connaît la réponse : la chaise se trouve exactement à la place prévue par Yasmina dans la mise en scène. Pourtant, il n’aime pas parler pendant qu’une autre personne regarde son travail. Avant son hospitalisation déjà, il préférait laisser l’image quelques secondes sur la table.\n\nAujourd’hui il dit « Attends que je l’aie posé ». Enora recule sa question. Ce petit délai choisi lui rappelle, par contraste, un autre moment. Dans les coulisses, il se souvient de la voix de Nadir qui prononçait son prénom. Il ne peut pas restituer tout ce qui a suivi. Il garde cependant la sensation pénible d’avoir entendu cette voix sans parvenir à produire la réponse attendue. Il n’était pas en train de refuser la discussion sur l’affiche.\n\nMalo demande à l’infirmière présente si cela a un sens. Elle lui répond que cette possibilité est connue dans la catatonie et propose qu’il en reparle à la médecin s’il le souhaite. Enora avait cru que rien de ses paroles ne l’atteignait. Elle regarde le tirage, puis le laisse à plat. Pour une fois, sa question peut attendre sans devenir une interrogation sur la santé de son frère.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "La réponse visible ne dit pas toute la compréhension",
+          "text": "La diminution ou l’absence de parole dans la catatonie peut empêcher une personne de répondre alors qu’elle comprend certaines paroles. On ne peut pas mesurer sa compréhension à la quantité de réponses obtenues. Malo rapporte le souvenir précis d’une voix ; cela ne permet pas de savoir ce qu’il percevait à chaque instant. L’équipe peut recueillir ce vécu sans demander à Enora de vérifier sa compréhension par des sollicitations répétées."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment une parole inaccessible peut-elle être mal comprise ?",
+          "points": [
+            {
+              "heading": "Une question demeure sans réponse",
+              "text": "L’absence de réponse peut être interprétée à tort comme une décision de se taire.",
+              "examples": [
+                "Malo se souvient de son prénom prononcé dans les coulisses et de la réponse qu’il ne parvenait pas à donner.",
+                "Au cours d’une prise en charge, un professionnel peut continuer à expliquer ce qu’il fait même si la personne ne répond pas."
+              ]
+            },
+            {
+              "heading": "Les paroles des autres peuvent rester présentes",
+              "text": "Certains souvenirs montrent que des échanges ont été entendus ; leur présence et leur précision varient.",
+              "examples": [
+                "Malo retrouve la voix de Nadir, sans reconstruire toute la scène.",
+                "Après un épisode, une personne peut mentionner une phrase dite devant elle alors que son entourage la croyait inaccessible."
+              ]
+            },
+            {
+              "heading": "Une préférence ordinaire garde son sens",
+              "text": "Un temps choisi pour regarder une image ne suffit pas à indiquer un mutisme ou une récidive.",
+              "examples": [
+                "Malo demande aujourd’hui de poser le tirage avant la question, et Enora comprend sa demande.",
+                "Lors d’une visite, quelqu’un peut répondre qu’il souhaite parler plus tard ; cette réponse ne se confond pas avec la rupture survenue pendant la crise."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour respecter la personne quand la réponse manque",
+          "points": [
+            {
+              "heading": "S’adresser à elle simplement",
+              "objective": "Garder la personne comme destinataire des paroles pendant une prise en charge.",
+              "exercise": [
+                "Dites qui vous êtes et pourquoi vous êtes présent.",
+                "Expliquez brièvement ce qui se passe, sans imposer de réponse.",
+                "Laissez l’équipe conduire l’évaluation et transmettez-lui les faits utiles."
+              ],
+              "benefit": "Ces paroles peuvent préserver la dignité de la personne sans prétendre connaître ce qu’elle comprend à cet instant."
+            },
+            {
+              "heading": "Accueillir un souvenir après coup",
+              "objective": "Donner une place au vécu raconté quand la personne souhaite revenir dessus.",
+              "exercise": [
+                "Demandez si elle veut évoquer ce moment ou le laisser pour plus tard.",
+                "Écoutez ce qu’elle rapporte sans compléter les passages absents.",
+                "Proposez d’en parler à l’équipe si ce souvenir la préoccupe."
+              ],
+              "benefit": "Le récit de la personne peut enrichir l’échange sans devoir devenir un compte rendu complet de l’épisode."
+            },
+            {
+              "heading": "Entendre une demande formulée aujourd’hui",
+              "objective": "Respecter la préférence actuelle au cours d’une visite.",
+              "exercise": [
+                "Demandez quel sujet ou quelle activité conviendrait maintenant.",
+                "Accordez le délai demandé pour poser un tirage ou chercher une phrase.",
+                "Vérifiez ensuite si la personne souhaite poursuivre ou arrêter la visite."
+              ],
+              "benefit": "Une demande explicite organise la rencontre ; elle n’est ni une épreuve de parole ni une technique de traitement de la catatonie."
+            }
+          ]
+        }
+      ],
+      "ending_title": "La chaise reste à sa place",
+      "ending": "Malo pose enfin l’image devant lui. « La chaise était là pendant toute la scène », dit-il. Il montre l’espace vide qui lui importe et ne raconte rien de plus de l’hôpital. Enora lui demande si elle peut laisser le tirage sur la tablette. Il préfère l’enveloppe pour ce soir. Ils conviennent qu’à la prochaine visite elle lui racontera ce qu’elle a fait de ses affaires, en distinguant ses souvenirs à elle. Malo garde pour son entretien avec l’équipe la question de cette voix qu’il n’arrivait pas à rejoindre.",
+      "mirror": [
+        "Enora a entendu « Attends que je l’aie posé » et a pu laisser du temps. Elle peut dire « Je t’écoute si tu veux en parler ; je peux aussi laisser la photo ». Lors d’une nouvelle rupture brutale et marquée de réactivité, ce respect n’efface pas le recours immédiat aux secours. Pendant le suivi, les questions sur l’épisode peuvent être adressées à l’équipe."
+      ],
+      "sources": [
+        "oms-cddr",
+        "bap-catatonie",
+        "has-decision-partagee"
+      ],
+      "continuity": {
+        "choice": "Malo raconte une voix entendue sans pouvoir répondre et choisit une visite qui respecte son temps devant le tirage.",
+        "next": "Il souhaite entendre les faits dont Enora se souvient sans lui confier la totalité de son propre récit."
+      },
+      "conclusion": "Ne pas répondre pendant la crise ne signifiait pas que Malo choisissait de se retirer de l’échange. Son souvenir trouve une place sans être généralisé. Aujourd’hui, il peut formuler le rythme de la visite et décider où ranger le tirage."
+    },
+    {
+      "number": 4,
+      "slug": "malo-ce-que-chacun-a-vu",
+      "title": "Souvenirs après une catatonie : deux récits qui ne se remplacent pas",
+      "description": "Malo écoute Enora raconter l’arrivée des secours. Leurs souvenirs ne couvrent pas les mêmes moments et il ne veut pas remplir chaque blanc.",
+      "context": "Avant la sortie de l’hôpital, pendant une visite choisie",
+      "topics": [
+        "Un détail revient sans toute la chronologie",
+        "Les témoins ont une autre place",
+        "Les blancs deviennent une pression à combler"
+      ],
+      "clinical_focus": "Des souvenirs inégalement accessibles",
+      "clinical_intro": "Après une catatonie, certains moments peuvent rester vivement présents tandis que d’autres ne sont pas restitués. Les souvenirs varient selon les personnes. Malo souhaite connaître les faits vus par Enora sans qu’ils remplacent son propre récit. Leur conversation vise à retrouver quelques repères, avec la possibilité de s’arrêter.",
+      "opening": "Enora a apporté son téléphone parce que Malo veut savoir où était la mallette lorsque les secours sont arrivés. Elle retrouve le message de Léonie : « Bureau de production, fermée. » Depuis, elle l’a récupérée et posée dans le placard de son entrée. Malo demande si quelqu’un a remis le manteau dessus. Cette question surprend sa sœur. Elle s’était préparée à lui raconter le départ vers l’hôpital, pas le chemin d’un objet.\n\nIl lui explique que le rouge des fermoirs revient facilement, ainsi que la voix de Nadir. Entre ces détails, il ne sait pas remettre les événements dans l’ordre. Enora se rappelle la porte, l’appel, l’équipe dans les coulisses. Elle commence une phrase par « Tu dois bien te souvenir de… », puis s’arrête. Rien ne l’autorise à savoir ce qui revient à son frère. De son côté, Malo sent monter l’envie d’acquiescer pour que le récit devienne enfin continu. Il laisse plutôt l’enveloppe du tirage entre eux et demande les seuls faits concernant les affaires.\n\nEnora lui raconte le message puis le trajet jusqu’au placard. Elle précise ce qu’elle a vu elle-même et ce que Léonie lui a écrit. Malo ne reconnaît pas certains passages et le dit. Une infirmière vient annoncer l’entretien prévu pour préparer la sortie. Il lui demande s’il pourra y évoquer le malaise qui accompagne les blancs. Il ne veut pas consacrer tout le rendez-vous à retrouver un film exact de cette soirée.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Un témoignage complète des faits sans fabriquer un souvenir",
+          "text": "Le souvenir d’un épisode catatonique peut être partiel, et des personnes rapportent aussi des souvenirs précis ou vifs. Cette variabilité ne permet pas de déduire, à partir d’un silence passé, ce qui a été compris ou mémorisé. Enora peut donner des faits utiles à l’équipe et à Malo. Son témoignage ne transforme pas en souvenir personnel ce que Malo ne retrouve pas ; les désaccords peuvent rester ouverts et être discutés avec les soignants."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment les souvenirs partiels modifient-ils une conversation après l’épisode ?",
+          "points": [
+            {
+              "heading": "Un détail revient sans toute la chronologie",
+              "text": "La précision d’un fragment ne garantit pas celle de tout le déroulement.",
+              "examples": [
+                "Malo retrouve les fermoirs rouges et ne sait pas ordonner l’arrivée des secours.",
+                "Après une hospitalisation, une personne peut se rappeler une phrase mais pas le moment où elle a été dite."
+              ]
+            },
+            {
+              "heading": "Les témoins ont une autre place",
+              "text": "Un proche rapporte ce qui lui était visible, parfois complété par les messages d’autres personnes.",
+              "examples": [
+                "Enora distingue la porte qu’elle a vue et le rangement raconté par Léonie.",
+                "Lors d’un entretien, un témoin peut préciser qu’il était absent pendant une partie de la situation."
+              ]
+            },
+            {
+              "heading": "Les blancs deviennent une pression à combler",
+              "text": "Chercher à tout reconstruire peut rendre l’échange pénible pour la personne qui ne retrouve pas ces moments.",
+              "examples": [
+                "Malo se retient de dire oui simplement pour rendre le récit continu.",
+                "Pendant une visite, une personne peut demander de ne pas poursuivre une chronologie qui la préoccupe."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour parler de souvenirs sans les imposer",
+          "points": [
+            {
+              "heading": "Définir la question avant le récit",
+              "objective": "Obtenir le repère souhaité sans raconter d’emblée toute la crise.",
+              "exercise": [
+                "Demandez quel moment ou quel objet la personne souhaite évoquer.",
+                "Racontez les faits qui répondent à cette question.",
+                "Vérifiez si elle veut d’autres précisions ou préfère s’arrêter."
+              ],
+              "benefit": "La personne garde une prise sur l’échange et peut choisir une question pratique comme Malo avec la mallette."
+            },
+            {
+              "heading": "Indiquer d’où vient une information",
+              "objective": "Séparer observation, message reçu et souvenir personnel.",
+              "exercise": [
+                "Présentez ce que vous avez vu directement.",
+                "Précisez quand vous reprenez les paroles ou un message d’un autre témoin.",
+                "Acceptez que la personne ne retrouve pas la même scène et notez la question pour l’équipe si nécessaire."
+              ],
+              "benefit": "Cette précision évite de faire porter à un témoin une certitude qu’il n’a pas et laisse plusieurs perspectives coexister."
+            },
+            {
+              "heading": "Garder une place au rendez-vous clinique",
+              "objective": "Aborder avec un professionnel ce qui reste difficile à vivre.",
+              "exercise": [
+                "Choisissez avec la personne une question qu’elle veut poser sur ses souvenirs.",
+                "Demandez un moment pour l’aborder lors de l’entretien prévu.",
+                "Convenez avec le soignant de la suite utile sans vous obliger à poursuivre la reconstitution en famille."
+              ],
+              "benefit": "Le malaise peut être entendu dans le soin ; la conversation avec un proche n’a pas à résoudre les blancs."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Le placard de l’entrée",
+      "ending": "Malo écrit « mallette chez Enora, placard de l’entrée » sur la feuille de sortie encore presque vide. En dessous, il ajoute sa question sur les souvenirs et la laisse à destination de l’équipe. Enora range le téléphone. Ils parlent ensuite du radiateur de son appartement, qu’elle a fait vérifier pendant son absence avec son accord. Lors de l’entretien, Malo obtient que la question de son vécu reste inscrite au suivi. Il sait où sont ses images ; il ne sait toujours pas refaire toute la soirée et cesse pour aujourd’hui d’essayer.",
+      "mirror": [
+        "Enora a corrigé son « Tu dois bien te souvenir » avant d’en faire une exigence. Elle peut dire « Je peux raconter ce que j’ai vu, si tu le souhaites ». Elle garde aussi le droit de dire qu’un passage lui est difficile et de proposer le relais de l’équipe. Ni son inquiétude ni les blancs de Malo n’obligent à refaire ensemble toute la crise."
+      ],
+      "sources": [
+        "oms-cddr",
+        "bap-catatonie",
+        "has-decision-partagee"
+      ],
+      "continuity": {
+        "choice": "Malo connaît le trajet de la mallette et inscrit sa question sur les souvenirs dans la préparation du suivi.",
+        "next": "Avant de sortir, il veut comprendre une observation de parole répétée mentionnée par la médecin."
+      },
+      "conclusion": "Des repères factuels peuvent être retrouvés sans exiger que le souvenir devienne complet. Malo reçoit le récit limité qu’il souhaitait et porte sa question à l’équipe. La préparation de la sortie peut continuer, avec une place pour ce qui reste inconfortable."
+    },
+    {
+      "number": 5,
+      "slug": "malo-la-phrase-revenue",
+      "title": "Catatonie : des répétitions possibles au-delà de l’immobilité",
+      "description": "Une observation de l’équipe ne correspond pas à l’image immobile que Malo se faisait de la catatonie. Il demande une explication avant sa sortie.",
+      "context": "À l’hôpital, pendant l’entretien précédant la sortie",
+      "topics": [
+        "Une observation qui déplace l’image du trouble",
+        "Le contexte distingue des usages différents",
+        "Une signification à demander aux professionnels"
+      ],
+      "clinical_focus": "Des paroles répétées dans le syndrome",
+      "clinical_intro": "La catatonie peut comporter des mouvements ou des paroles inhabituels, au-delà d’une diminution de l’activité. Des répétitions de mots peuvent faire partie du tableau évalué par les professionnels. Malo demande ce que signifie une observation faite à l’hôpital. Une répétition isolée dans la vie courante ne permet pas d’en conclure autant.",
+      "opening": "Sur la feuille de préparation de la sortie, la Dre Le Berre revient sur ce que l’équipe a observé à l’admission. Malo s’arrête lorsqu’elle évoque une courte phrase répétée, sans rapport avec la conversation en cours. Il avait retenu le mot catatonie comme on retient une photographie fixe. Dans cette image, on ne bougeait plus et l’on ne parlait plus. La phrase répétée n’y trouve pas sa place. Il demande si elle veut dire qu’il essayait tout de même d’expliquer quelque chose.\n\nLa médecin précise qu’elle parle d’une observation clinique mise en relation avec d’autres éléments du syndrome, pas d’un message dont l’entourage devrait trouver le sens caché. Malo n’a pas à la rejouer et personne ne lui demande de la reconnaître à tout prix. Il pense aux répliques qu’il répète d’ordinaire après un spectacle, pour retrouver un mouvement ou un éclairage. Cette habitude appartient à son travail. Elle ne constitue pas, à elle seule, une preuve qu’il allait déjà mal depuis des années.\n\nAnna, l’infirmière qui participera au suivi, ouvre ensuite la feuille des contacts. Malo veut savoir à qui parler si une observation ultérieure l’inquiète. Ils inscrivent le service et les modalités du prochain rendez-vous. Le numéro des urgences a une autre place sur la feuille. Avant de ranger les documents, il demande que l’on garde deux phrases distinctes : ce qui a été observé pendant cet épisode et ce qui doit être évalué si quelque chose change après la sortie.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "La catatonie ne se limite pas à une image immobile",
+          "text": "La catatonie peut associer une diminution, une augmentation ou des anomalies de l’activité et de la parole. Des répétitions inhabituelles de mots peuvent entrer dans ce tableau, selon l’évaluation clinique de leur contexte et de l’ensemble des manifestations. La Dre Le Berre explique une observation réalisée pendant l’épisode de Malo. Répéter une réplique au travail ou un mot qui amuse ne permet pas de reconnaître le syndrome ; aucun test à reproduire ne découle de cet entretien."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment des répétitions peuvent-elles trouver leur place dans le tableau clinique ?",
+          "points": [
+            {
+              "heading": "Une observation qui déplace l’image du trouble",
+              "text": "La présentation ne correspond pas nécessairement à une immobilité permanente.",
+              "examples": [
+                "Malo découvre que l’équipe a entendu une courte phrase revenir pendant l’épisode.",
+                "Lors d’une restitution, un médecin peut expliquer pourquoi des mouvements inhabituels ont aussi compté dans son appréciation."
+              ]
+            },
+            {
+              "heading": "Le contexte distingue des usages différents",
+              "text": "Le sens clinique d’une répétition ne se déduit pas des mots répétés seuls.",
+              "examples": [
+                "Malo cite d’habitude des répliques pour parler du travail de scène.",
+                "Une comédienne répète un texte pour sa répétition ; ce fait seul ne permet aucune conclusion sur une catatonie."
+              ]
+            },
+            {
+              "heading": "Une signification à demander aux professionnels",
+              "text": "L’entourage n’a pas à transformer une parole répétée en explication secrète de la crise.",
+              "examples": [
+                "Malo demande à la Dre Le Berre si l’observation désigne un message qu’il aurait voulu faire passer.",
+                "Un proche peut rapporter une phrase entendue à l’équipe sans lui attribuer une cause ou une intention."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour comprendre une manifestation observée à l’hôpital",
+          "points": [
+            {
+              "heading": "Demander le contexte de l’observation",
+              "objective": "Comprendre à quel moment le professionnel situe une manifestation.",
+              "exercise": [
+                "Reprenez avec lui le passage qui vous étonne.",
+                "Demandez comment il le relie aux autres éléments de l’évaluation.",
+                "Faites préciser ce que cette observation seule ne permettrait pas de dire."
+              ],
+              "benefit": "L’explication limite les rapprochements trop rapides avec une habitude ordinaire ou une autre personne."
+            },
+            {
+              "heading": "Écarter la reconstitution comme test",
+              "objective": "Garder l’échange dans le récit et les questions de soin.",
+              "exercise": [
+                "Dites ce que vous comprenez de l’observation sans la reproduire.",
+                "Demandez une autre explication si la description reste obscure.",
+                "Adressez toute nouvelle inquiétude à l’équipe au lieu d’essayer de provoquer le signe chez vous."
+              ],
+              "benefit": "Ni la personne ni ses proches n’ont à faire un examen clinique pour comprendre le compte rendu."
+            },
+            {
+              "heading": "Inscrire deux contacts de nature différente",
+              "objective": "Savoir où porter une question et où appeler en urgence.",
+              "exercise": [
+                "Avec le soignant, inscrivez le contact de suivi et ses modalités réelles.",
+                "Demandez comment joindre un professionnel si un changement vous préoccupe.",
+                "Gardez le 15 pour une urgence, notamment une nouvelle altération brutale et marquée de la réactivité, sans attendre une réponse du suivi."
+              ],
+              "benefit": "Des coordonnées explicites évitent de confier une question clinique à la troupe ou de laisser un message de suivi devant une urgence."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Les deux places sur la feuille",
+      "ending": "Anna lit avec Malo les coordonnées qu’ils viennent d’inscrire et confirme le rendez-vous déjà prévu après la sortie. Enora pourra l’y accompagner s’il le souhaite, sans être chargée d’examiner sa parole. Malo remet la feuille dans l’enveloppe du tirage, mais garde les documents médicaux dans une pochette séparée. Il prévient sa sœur qu’il veut retrouver la mallette chez elle après son retour. La répétition notée à l’admission a une place dans son histoire ; elle ne devient pas le sous-titre de toutes ses conversations à venir.",
+      "mirror": [
+        "Enora peut demander « Tu veux me montrer seulement la feuille des contacts ? » Si Malo choisit de lui parler d’une observation, elle peut l’écouter sans la faire rejouer ni guetter chaque répétition de mots. Une inquiétude clinique se transmet à l’équipe ; une urgence se porte immédiatement aux secours. La troupe peut continuer à parler de répliques et de photographies."
+      ],
+      "sources": [
+        "oms-cddr",
+        "bap-catatonie",
+        "aclp-catatonie-liaison",
+        "has-decision-partagee",
+        "service-public-urgences"
+      ],
+      "continuity": {
+        "choice": "Malo distingue les paroles répétées pendant l’épisode des usages ordinaires de son métier et repart avec des contacts de suivi et d’urgence distincts.",
+        "next": "À la maison, il doit décider qui pourra ouvrir la mallette ; un refus formulé demandera à être entendu comme tel."
+      },
+      "conclusion": "Une présentation catatonique peut comprendre davantage que l’immobilité ou l’absence de parole. Malo comprend une observation replacée dans l’évaluation. La sortie se prépare avec des contacts de soin ; personne n’a reçu de manifestation à rechercher ou à reproduire."
+    },
+    {
+      "number": 6,
+      "slug": "malo-non-a-la-mallette-ouverte",
+      "title": "Refuser une proposition après une catatonie : retrouver sa voix",
+      "description": "Chez Enora, Malo refuse d’ouvrir les archives pour une visite de la troupe. Son non d’aujourd’hui n’a pas le sens de son absence de réponse passée.",
+      "context": "Le lendemain du retour chez Malo, dans l’entrée d’Enora",
+      "topics": [
+        "Un non appelle une explication excessive",
+        "L’attention quitte la demande exprimée",
+        "Une limite précise peut réorganiser la rencontre"
+      ],
+      "clinical_focus": "Un refus formulé après la crise",
+      "clinical_intro": "Une absence de réponse au cours d’une catatonie ne doit pas être supposée volontaire. Après l’épisode, un refus clairement exprimé peut être une décision que la personne souhaite faire respecter. Malo retrouve ses archives chez Enora et choisit les conditions d’une visite. Son diagnostic ne retire pas le sens de sa réponse actuelle.",
+      "opening": "La mallette rouge occupe presque toute l’étagère basse du placard d’Enora. Malo reconnaît l’autocollant usé de la tournée d’hiver et le fermoir qui accroche un peu. Il a retrouvé son appartement la veille. Aujourd’hui il est venu à pied avec sa sœur pour reprendre ses affaires et déjeuner chez elle. Enora propose d’ouvrir la mallette pendant que Léonie passera déposer un sac de vêtements du théâtre. Cela leur permettrait, pense-t-elle, d’avancer sur les archives sans organiser une autre rencontre.\n\n« Non, pas cet après-midi », répond Malo. Enora tient déjà l’un des fermoirs. Elle retire la main, mais demande s’il a peur de regarder les photographies. Il dit qu’il veut d’abord les trier seul et qu’il n’a pas invité Léonie à une réunion. Une hésitation traverse sa sœur : dans les coulisses, elle avait parlé et n’avait reçu aucune réponse. Elle a gardé de ce moment une inquiétude qui revient vite. Malo voit qu’elle observe maintenant son visage plutôt que la mallette. Il répète sa demande plus sèchement, puis regrette le ton.\n\nIls restent un instant dans l’entrée. Enora demande si elle a bien compris : le sac peut être déposé, les archives restent fermées. Malo confirme. Il ne demande pas qu’on annule le déjeuner. Il voudrait même retrouver la photo du technicien endormi dans le train, mais plus tard, chez lui, sans devoir expliquer chaque choix. La possibilité de dire non porte sur une visite précise ; elle ne raconte pas à elle seule l’évolution de son état de santé.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Une décision actuelle mérite d’être entendue",
+          "text": "Il faut distinguer l’impossibilité de répondre pendant un syndrome catatonique et une préférence exprimée après l’épisode. Les professionnels évaluent les manifestations et les décisions de soin dans leur contexte ; le diagnostic ne permet pas aux proches d’interpréter tout désaccord comme un signe clinique. Malo donne aujourd’hui une réponse compréhensible et précise les conditions de la visite. Enora peut la respecter tout en gardant le recours aux soignants pour de véritables questions de santé."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment le souvenir de la crise peut-il peser sur un refus actuel ?",
+          "points": [
+            {
+              "heading": "Un non appelle une explication excessive",
+              "text": "L’entourage peut demander davantage de raisons parce qu’il reste inquiet après l’urgence.",
+              "examples": [
+                "Enora demande à Malo s’il a peur de voir ses photos alors qu’il vient de refuser une réunion improvisée.",
+                "Après une hospitalisation, un proche peut vouloir connaître les motifs d’un refus de visite ordinaire."
+              ]
+            },
+            {
+              "heading": "L’attention quitte la demande exprimée",
+              "text": "Chercher une manifestation peut faire perdre les mots que la personne est en train de dire.",
+              "examples": [
+                "Enora regarde le visage de Malo au lieu de vérifier qui ouvre la mallette.",
+                "Lors d’un échange sur un rangement, un parent peut surveiller les silences plutôt que répondre à la préférence formulée."
+              ]
+            },
+            {
+              "heading": "Une limite précise peut réorganiser la rencontre",
+              "text": "Le refus d’une proposition ne porte pas nécessairement sur toute relation ou toute aide.",
+              "examples": [
+                "Malo accepte le déjeuner et le dépôt du sac, tout en gardant les archives fermées.",
+                "Une personne peut souhaiter recevoir un ami sans lui montrer les documents de son hospitalisation."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour entendre une limite après un épisode catatonique",
+          "points": [
+            {
+              "heading": "Reformuler la décision concrète",
+              "objective": "Vérifier ce qui est accepté ou refusé dans la situation présente.",
+              "exercise": [
+                "Reprenez les mots de la personne concernant la proposition.",
+                "Demandez une précision pratique si elle est nécessaire, comme l’heure ou l’objet concerné.",
+                "Appliquez la décision comprise sans réclamer le récit médical qui la justifierait."
+              ],
+              "benefit": "La rencontre peut avancer avec une limite claire plutôt qu’une discussion générale sur l’état de santé."
+            },
+            {
+              "heading": "Exprimer son inquiétude à sa place",
+              "objective": "Éviter que l’inquiétude d’un proche devienne un pouvoir sur chaque décision.",
+              "exercise": [
+                "Dites que le souvenir de l’urgence vous a inquiété, si la personne souhaite l’entendre.",
+                "Distinguez ce souvenir du choix qu’elle exprime maintenant.",
+                "Proposez d’aborder vos questions de suivi avec le professionnel dans le cadre qu’elle accepte."
+              ],
+              "benefit": "La peur du proche peut être reconnue sans donner au diagnostic la fonction d’annuler un désaccord."
+            },
+            {
+              "heading": "Dissocier aide et accès aux affaires",
+              "objective": "Proposer un appui qui respecte le périmètre choisi.",
+              "exercise": [
+                "Demandez quelle aide est utile aujourd’hui.",
+                "Convenez de ce qui peut être déplacé ou ouvert et par qui.",
+                "Laissez une prochaine décision pour un échange que la personne aura accepté."
+              ],
+              "benefit": "Une aide limitée est plus facile à ajuster et ne suppose pas un accès permanent aux archives ou au dossier."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Les fermoirs restent baissés",
+      "ending": "Enora recule la mallette pour dégager le passage de Léonie. Lorsque celle-ci arrive, elle dépose le sac et reste pour un café, sans ouvrir les archives. Malo lui dit qu’il proposera lui-même un moment pour discuter de leur garde. En repartant, il emporte la mallette chez lui avec l’aide de sa sœur. La tension dans l’entrée n’a pas disparu d’un coup. Enora lui dit qu’elle aurait dû demander avant de prévoir cette réunion ; il lui répond qu’il veut pouvoir revenir déjeuner même lorsqu’ils ne tombent pas d’accord.",
+      "mirror": [
+        "Enora peut dire « D’accord pour laisser fermé ; veux-tu de l’aide pour le transport ? » Son inquiétude après l’urgence est compréhensible et peut trouver un interlocuteur. Elle n’a pas à vérifier la santé de Malo par l’ouverture des archives. Face à une nouvelle rupture brutale et marquée de réactivité, elle appellerait les secours ; ce n’est pas ce qu’elle observe ici."
+      ],
+      "sources": [
+        "oms-cddr",
+        "bap-catatonie",
+        "has-decision-partagee"
+      ],
+      "continuity": {
+        "choice": "Malo refuse une réunion improvisée, reçoit Léonie pour un café et rapporte chez lui la mallette toujours fermée.",
+        "next": "Il prépare seul une proposition pour les archives ; le temps nécessaire ne coïncidera pas avec celui espéré par la production."
+      },
+      "conclusion": "Le refus de Malo a porté sur une réunion et l’ouverture de ses affaires. La décision a été entendue et la visite a pu garder une autre forme. Son retour chez lui comprend aussi cette reprise des limites, sans que leur respect mesure son rétablissement."
+    },
+    {
+      "number": 7,
+      "slug": "malo-une-seule-rangee",
+      "title": "Rétablissement après une catatonie : retrouver un rythme à soi",
+      "description": "Malo ouvre ses archives chez lui. Il peut choisir une photographie, mais cela ne lui dit pas encore quelle quantité de travail reprendre.",
+      "context": "Quelques jours après le retour, devant la table de Malo",
+      "topics": [
+        "Une tâche familière redevient accessible",
+        "Plusieurs décisions pèsent autrement",
+        "L’entourage extrapole à partir d’un essai"
+      ],
+      "clinical_focus": "Un rétablissement au rythme variable",
+      "clinical_intro": "La durée et le déroulement d’une catatonie varient ; une activité reprise ne donne pas à elle seule la mesure de l’évolution clinique. Après sa sortie, Malo peut faire certains choix photographiques et trouve d’autres tâches encore coûteuses. Il discute de son rythme avec l’équipe sans transformer le tri des archives en épreuve de santé.",
+      "opening": "Malo ouvre la mallette sur sa table, après avoir déplacé le bol à clés et les journaux. Il retrouve une rangée de pochettes étiquetées à la main : répétitions, générales, tournée d’hiver. Une mer au plafond occupe deux pochettes dont l’une n’a pas de date. D’habitude il aurait tout repris, vérifié les noms des spectacles et corrigé l’inventaire avant de déjeuner. Ce matin, il commence par la photographie horizontale. Il en sait toujours le cadre exact. Cette certitude lui fait du bien, mais les décisions suivantes s’accumulent : qui garde les originaux, qui peut consulter les doubles, combien de temps il sera absent.\n\nAu bout de la première rangée, il s’arrête. Il peut téléphoner, ranger les feuilles et répondre au message de Nadir ; il ne reconnaît pas la rupture de réactivité des coulisses. Il constate seulement que la reprise ne ressemble pas à une matinée de travail habituelle. La phrase « puisque j’ai ouvert, autant finir » lui paraît maintenant plus exigeante que les pochettes elles-mêmes. Il note ce qu’il veut raconter au prochain rendez-vous de suivi.\n\nLéonie lui a demandé une proposition pour jeudi. Malo lui envoie la photographie d’une seule rangée avec le titre « Archives disponibles pour le dépôt ». Il précise dans le texte qu’il propose une garde provisoire et n’autorise aucune diffusion. Nadir, qui lit entre deux réglages de lumière, répond « Super, on va pouvoir avancer ». Malo referme la mallette et laisse le reste du tri pour un autre moment, sans savoir ce que Nadir entend exactement par avancer.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Une activité réussie ne fixe pas tout le rythme de reprise",
+          "text": "L’évolution d’une catatonie ne se mesure pas à la quantité de tâches accomplies après l’hospitalisation. La durée, les besoins de suivi et la reprise des activités se discutent individuellement. Malo retrouve facilement un choix de cadre et trouve plus difficile l’ensemble des décisions sur la garde. Il peut décrire cet écart à l’équipe. La scène ne permet pas d’attribuer chaque fatigue ou chaque arrêt au syndrome, ni d’en déduire une récidive."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment la reprise peut-elle avancer à des rythmes différents ?",
+          "points": [
+            {
+              "heading": "Une tâche familière redevient accessible",
+              "text": "Une capacité retrouvée dans une situation n’indique pas ce qui sera possible dans toutes les autres.",
+              "examples": [
+                "Malo sait aussitôt pourquoi il tient au cadre horizontal.",
+                "Une personne peut reprendre un appel à un collègue sans se sentir disponible pour une longue réunion."
+              ]
+            },
+            {
+              "heading": "Plusieurs décisions pèsent autrement",
+              "text": "La quantité et la nature des demandes peuvent rendre une reprise plus difficile à organiser.",
+              "examples": [
+                "Choisir une image coûte moins à Malo que décider de tous les accès aux archives.",
+                "Au retour d’une hospitalisation, quelqu’un peut accepter une visite courte et laisser une liste administrative pour plus tard."
+              ]
+            },
+            {
+              "heading": "L’entourage extrapole à partir d’un essai",
+              "text": "Un signe de reprise peut être compris trop vite comme une disponibilité générale.",
+              "examples": [
+                "Le message enthousiaste de Nadir ne précise pas ce qu’il pense pouvoir avancer.",
+                "Un collègue peut proposer un dossier entier après avoir reçu une seule réponse par courrier électronique."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour discuter d’une reprise sans en faire une épreuve",
+          "points": [
+            {
+              "heading": "Définir une tâche bornée",
+              "objective": "Choisir ce que l’on souhaite faire aujourd’hui.",
+              "exercise": [
+                "Nommez une tâche et son résultat concret, par exemple inventorier une rangée.",
+                "Prévoyez où laisser le travail si vous souhaitez vous arrêter.",
+                "Décidez ensuite si vous poursuivez, sans considérer le résultat comme un bilan de santé."
+              ],
+              "benefit": "Une limite visible rend la tâche révisable et peut réduire les attentes que l’on se donne à soi-même."
+            },
+            {
+              "heading": "Décrire un écart au suivi",
+              "objective": "Permettre au professionnel de comprendre le retentissement actuel.",
+              "exercise": [
+                "Notez une activité devenue possible et une autre qui reste difficile.",
+                "Précisez ce que vous avez fait et ce qui vous a conduit à vous arrêter.",
+                "Discutez avec l’équipe du rythme adapté et de ce qui justifierait de la contacter plus tôt."
+              ],
+              "benefit": "Un exemple concret aide l’équipe à apprécier les besoins ; il ne remplace pas son évaluation."
+            },
+            {
+              "heading": "Annoncer le périmètre d’un essai",
+              "objective": "Éviter qu’une petite reprise crée un engagement plus large.",
+              "exercise": [
+                "Dites ce qui est proposé pour cette rencontre ou cette semaine.",
+                "Précisez ce qui reste à décider, comme la diffusion des images.",
+                "Demandez au destinataire de confirmer ce qu’il a compris."
+              ],
+              "benefit": "La confirmation peut repérer une attente trop large avant qu’elle ne se transforme en tâche imposée."
+            }
+          ]
+        }
+      ],
+      "ending_title": "La rangée refermée",
+      "ending": "Malo ajoute à son message « Une rangée seulement pour jeudi ; je n’ai pas encore choisi le lieu de dépôt ». Puis il va déjeuner. Nadir n’a pas encore lu la précision. La mallette est fermée et la feuille du suivi reste sur le bureau. Malo sait qu’il faudra clarifier la proposition, mais il ne rouvre pas tout pour obtenir immédiatement une réponse rassurante. Pour la prochaine rencontre, il gardera l’inventaire d’une seule rangée et la question de ce que chacun a compris.",
+      "mirror": [
+        "Nadir peut répondre « J’ai compris une rangée pour un dépôt à décider ; de quoi as-tu besoin jeudi ? » Il peut ensuite organiser le reste du travail avec Léonie. Encourager Malo n’exige pas de lui annoncer qu’il est redevenu comme avant. Chacun peut être content d’un choix photographique sans y lire une conclusion médicale."
+      ],
+      "sources": [
+        "oms-cddr",
+        "bap-catatonie",
+        "has-decision-partagee"
+      ],
+      "continuity": {
+        "choice": "Malo limite le premier inventaire à une rangée et précise que le dépôt et la diffusion restent à décider.",
+        "next": "Un changement modéré qu’il remarque le lendemain le conduit à joindre l’équipe avant la rencontre avec la troupe."
+      },
+      "conclusion": "Malo a repris une tâche précise sans promettre une disponibilité complète. Cette limite lui permet de préparer une question pour le suivi et une clarification pour la troupe. Le tri des photographies avance, tandis que l’évolution clinique reste appréciée dans le soin."
+    },
+    {
+      "number": 8,
+      "slug": "malo-avant-la-reunion",
+      "title": "Changement après une catatonie : demander une nouvelle évaluation",
+      "description": "Un changement inhabituel préoccupe Malo avant la réunion. Il joint son équipe, qui organise une évaluation sans présumer une récidive.",
+      "context": "Le lendemain matin, avant le rendez-vous prévu avec la troupe",
+      "topics": [
+        "Un fait se distingue de sa signification",
+        "Le souvenir de l’urgence colore le présent",
+        "La réponse dépend de la situation actuelle"
+      ],
+      "clinical_focus": "Un changement à évaluer à nouveau",
+      "clinical_intro": "Un changement après un épisode de catatonie mérite d’être apprécié dans sa situation propre. Un signe isolé ne prouve pas une récidive ; une nouvelle urgence ne doit pas être attribuée d’emblée au diagnostic connu. Malo remarque une difficulté modérée, reste en mesure d’échanger et contacte l’équipe selon les modalités convenues.",
+      "opening": "Malo a préparé l’inventaire d’une rangée et une question pour Léonie : le bureau de production reste-t-il accessible lorsque le théâtre ferme en juillet ? Avant de mettre les feuilles dans son sac, il remarque à deux reprises une hésitation inhabituelle à commencer un geste. Elle est brève. Il peut ensuite ranger les feuilles, parler et expliquer ce qui l’inquiète. Rien de cela ne ressemble pour lui à une preuve, mais le souvenir de la crise donne tout de suite au détail une importance pénible. Il ouvre la pochette des contacts plutôt que chercher une réponse dans ses messages avec Nadir.\n\nIl joint Anna au service de suivi et décrit ce qu’il vient de remarquer, depuis quand et ce qu’il parvient à faire. Il lui dit aussi qu’il craint de repartir vers la scène des coulisses. Anna recueille ces informations et organise un avis médical dans la journée. Malo prévient Léonie qu’il reporte la réunion ; il ne lui demande pas de regarder ses mains ni de décider si le changement est grave. Enora propose de l’accompagner au service et il accepte.\n\nLe médecin le reçoit et l’évalue. Il ne conclut pas ce jour-là à un nouvel épisode catatonique ; il propose de rapprocher le prochain rendez-vous et reprend les modalités de contact. Malo repart avec une réponse située dans le présent, sans garantie sur les jours suivants. La feuille des archives est toujours dans son sac. Elle n’a pas servi à prouver qu’il allait suffisamment bien pour entrer dans le cabinet.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Le diagnostic connu n’explique pas chaque changement",
+          "text": "Un changement observé après une catatonie doit être évalué sans conclure automatiquement à une récidive ou à une autre cause. L’équipe tient compte de la situation actuelle et des complications possibles. Malo rapporte une hésitation modérée et obtient un avis médical ; ce recours ne constitue pas une preuve de retour du syndrome. Une altération brutale et marquée de la réactivité demanderait un appel immédiat au 15, sans attendre le contact de suivi."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment un changement modéré peut-il susciter une demande de soins ?",
+          "points": [
+            {
+              "heading": "Un fait se distingue de sa signification",
+              "text": "Décrire l’observation laisse aux professionnels l’interprétation clinique.",
+              "examples": [
+                "Malo rapporte deux hésitations brèves plutôt que d’annoncer que la catatonie revient.",
+                "Une personne peut dire au soignant ce qu’elle remarque depuis le matin sans lui fournir un diagnostic."
+              ]
+            },
+            {
+              "heading": "Le souvenir de l’urgence colore le présent",
+              "text": "La crainte de revivre l’épisode peut accompagner une observation qui reste à comprendre.",
+              "examples": [
+                "Malo dit à Anna qu’il pense immédiatement aux coulisses.",
+                "Après une hospitalisation, quelqu’un peut demander un avis parce qu’un changement lui rappelle une période difficile."
+              ]
+            },
+            {
+              "heading": "La réponse dépend de la situation actuelle",
+              "text": "Un rendez-vous de suivi et une urgence correspondent à des besoins différents.",
+              "examples": [
+                "L’équipe organise pour Malo une évaluation dans la journée à partir de son appel.",
+                "Devant une nouvelle rupture brutale et marquée de réactivité, un proche appelle les secours même si un rendez-vous est déjà prévu."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour porter un changement au bon interlocuteur",
+          "points": [
+            {
+              "heading": "Raconter ce qui a changé",
+              "objective": "Donner des informations concrètes à l’équipe qui suit la personne.",
+              "exercise": [
+                "Décrivez l’observation, son début et son retentissement.",
+                "Dites aussi ce qui vous préoccupe et ce que vous pouvez encore faire.",
+                "Joignez l’équipe selon les modalités convenues et suivez l’orientation donnée."
+              ],
+              "benefit": "Le professionnel peut apprécier le besoin à partir du présent, sans se limiter au nom de l’épisode antérieur."
+            },
+            {
+              "heading": "Reconnaître quand le suivi ne suffit plus",
+              "objective": "Ne pas retarder un recours urgent.",
+              "exercise": [
+                "Gardez accessible le numéro des secours : le 15 en France.",
+                "Devant une altération brutale et marquée de la réactivité, appelez immédiatement et décrivez les faits.",
+                "Suivez la régulation sans attendre une réponse du suivi ni tenter de vérifier la cause."
+              ],
+              "benefit": "La gravité de la situation actuelle détermine le recours ; un diagnostic connu ne rend pas une nouvelle urgence moins urgente."
+            },
+            {
+              "heading": "Alléger les engagements pendant l’évaluation",
+              "objective": "Permettre l’accès aux soins sans devoir finir une tâche.",
+              "exercise": [
+                "Reportez l’activité prévue si cela est nécessaire pour le rendez-vous.",
+                "Donnez aux collègues la seule information pratique utile.",
+                "Demandez à la personne de votre choix un accompagnement précis si vous le souhaitez."
+              ],
+              "benefit": "Le recours médical peut prendre sa place sans dépendre de l’accord de la troupe ni d’un travail déjà terminé."
+            }
+          ]
+        }
+      ],
+      "ending_title": "La feuille reste dans le sac",
+      "ending": "À la sortie, Malo écrit à Léonie qu’il proposera un nouveau créneau après son rendez-vous rapproché. Il ne promet pas de venir le soir pour compenser. Enora lui demande s’il veut rentrer avec elle ou rejoindre son appartement ; il choisit son appartement. Il garde le compte rendu dans sa pochette médicale et retrouve l’inventaire dans une autre poche. Le changement a reçu une évaluation, et le suivi continue. Il reste inquiet par moments, mais n’a pas confié à sa sœur ou à la troupe la tâche de trancher ce qui se passait.",
+      "mirror": [
+        "Enora peut proposer « Je peux t’accompagner au service si tu veux ». Elle n’a pas à compter les hésitations ni à obtenir un mouvement pour se rassurer. Elle écoute ce que Malo rapporte et respecte l’orientation de l’équipe. Si elle observait une rupture brutale et marquée de réactivité, elle appellerait immédiatement les secours sans l’expliquer par le diagnostic passé."
+      ],
+      "sources": [
+        "oms-cddr",
+        "bap-catatonie",
+        "aclp-catatonie-liaison",
+        "service-public-urgences",
+        "has-decision-partagee"
+      ],
+      "continuity": {
+        "choice": "Malo contacte l’équipe, est évalué dans la journée et accepte un rendez-vous rapproché ; la réunion des archives est reportée.",
+        "next": "Le message de report a été relayé dans la troupe avec des ajouts que Malo n’a pas autorisés ; il veut reprendre cette transmission."
+      },
+      "conclusion": "Le changement modéré a conduit à un avis médical réel, sans conclusion automatique de récidive. Malo a reporté une réunion pour se rendre au service. La réponse donnée vaut pour la situation évaluée ; elle ne remplace ni le suivi ni un nouvel appel urgent si les faits le justifient."
+    },
+    {
+      "number": 9,
+      "slug": "malo-la-phrase-qui-a-circule",
+      "title": "Trouble associé et vie privée : choisir les informations partagées",
+      "description": "Dans la troupe, une explication de l’absence de Malo a circulé sans son accord. Il reprend le message et le périmètre des archives.",
+      "context": "Après le rendez-vous rapproché, dans un échange avec Léonie et Nadir",
+      "topics": [
+        "Une explication est ajoutée pour rassurer",
+        "Une catégorie clinique ouvre des suppositions",
+        "Une consigne pratique se transforme en accord plus large"
+      ],
+      "clinical_focus": "La confidentialité du trouble associé",
+      "clinical_intro": "La catatonie associée à un autre trouble mental implique deux évaluations distinctes dans le soin. Elle ne donne pas à l’entourage accès à toute l’histoire médicale de la personne. Malo découvre que sa troupe a complété son message d’absence. Il veut corriger l’information tout en continuant à parler de ses photographies.",
+      "opening": "Le rendez-vous rapproché avec l’équipe a eu lieu. Malo retrouve maintenant Léonie et Nadir autour d’une petite table du foyer, pour un échange qu’il a accepté de limiter à une demi-heure. Il a apporté l’inventaire, sans la mallette. Léonie commence par lui dire que tout le monde a compris qu’il avait besoin de temps après « un épuisement lié au travail ». Malo pose sa feuille. Ce ne sont pas les mots qu’il avait transmis lors du report. Il avait dit qu’il avait un rendez-vous de santé et proposerait une autre date.\n\nLéonie explique qu’elle voulait empêcher les questions. Elle ne connaît ni le diagnostic retenu ni le trouble associé, et a choisi une explication qui lui paraissait discrète. Malo entend l’intention, mais elle attribue une cause à son absence. Nadir ajoute qu’il avait compris le titre « archives disponibles » comme une possibilité de préparer l’affiche. Il montre le recadrage vertical commencé pour gagner du temps ; aucune image n’a encore été diffusée.\n\nDeux transmissions ont avancé sans Malo : une histoire de santé et une autorisation d’usage qu’il n’avait pas donnée. Il demande qu’on les reprenne séparément. Léonie corrigera la phrase auprès des mêmes personnes. Nadir arrêtera la préparation de l’affiche à partir des archives. Yasmina, qui rejoint la table après son échauffement, dit qu’elle voudrait aussi discuter de l’image choisie pour représenter le spectacle. Malo lui propose de garder cette question pour la rencontre consacrée au dépôt.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Connaître une absence ne permet pas d’en attribuer la cause",
+          "text": "Le trouble mental associé à la catatonie est diagnostiqué séparément et peut rester dans la vie privée de la personne. Son métier, sa charge de travail ou une interruption d’activité ne permettent pas à la troupe de l’identifier ni d’expliquer la crise. Malo choisit de garder le détail de ses soins pour lui. Léonie peut organiser son absence avec les seules informations qu’il autorise et corriger l’explication qu’elle a ajoutée."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment une information de santé peut-elle dépasser ce qui a été partagé ?",
+          "points": [
+            {
+              "heading": "Une explication est ajoutée pour rassurer",
+              "text": "L’intention de protéger quelqu’un peut conduire à inventer une cause qui ne lui appartient pas.",
+              "examples": [
+                "Léonie remplace un rendez-vous de santé par un épuisement lié au travail.",
+                "Dans un collectif, une personne peut combler une information manquante par un diagnostic supposé pour répondre aux questions."
+              ]
+            },
+            {
+              "heading": "Une catégorie clinique ouvre des suppositions",
+              "text": "Connaître ou entendre un terme n’autorise pas à déduire les autres éléments du dossier.",
+              "examples": [
+                "Malo réserve à l’équipe et aux personnes qu’il choisit la discussion du trouble associé.",
+                "Un collègue qui apprend un diagnostic de catatonie ne peut pas en conclure quel autre trouble a été évalué."
+              ]
+            },
+            {
+              "heading": "Une consigne pratique se transforme en accord plus large",
+              "text": "Le périmètre d’une transmission gagne à être confirmé avec son auteur.",
+              "examples": [
+                "Nadir a compris la disponibilité pour le dépôt comme une autorisation de préparer l’affiche.",
+                "Une équipe peut recevoir une liste d’images à garder et croire à tort qu’elle peut les montrer au public."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour reprendre une transmission qui a dépassé son accord",
+          "points": [
+            {
+              "heading": "Écrire une phrase autorisée",
+              "objective": "Choisir une information suffisante pour organiser l’absence.",
+              "exercise": [
+                "Indiquez ce que vous acceptez de partager, par exemple une absence après hospitalisation et un suivi en cours.",
+                "Précisez les destinataires avec la personne qui transmettra.",
+                "Demandez-lui de reprendre cette phrase sans ajouter de cause."
+              ],
+              "benefit": "Une formulation commune peut réduire les suppositions tout en laissant les informations médicales à leur place."
+            },
+            {
+              "heading": "Corriger auprès des mêmes personnes",
+              "objective": "Éviter qu’une explication ajoutée reste la version commune.",
+              "exercise": [
+                "Nommez le passage qui ne vient pas de vous.",
+                "Convenez de qui portera la correction et à qui.",
+                "Demandez une confirmation une fois la correction effectuée."
+              ],
+              "benefit": "La réparation repose sur une action concrète plutôt que sur la seule intention de mieux faire la prochaine fois."
+            },
+            {
+              "heading": "Distinguer garde et usage des images",
+              "objective": "Rétablir le périmètre de la proposition d’archives.",
+              "exercise": [
+                "Rappelez que la proposition actuelle concerne seulement une garde provisoire.",
+                "Demandez l’arrêt de la préparation d’un usage non discuté.",
+                "Fixez une rencontre séparée où les personnes concernées pourront donner leur avis."
+              ],
+              "benefit": "L’organisation des archives peut avancer sans faire passer un dépôt pour un accord de diffusion ni mêler les données de santé à cet accord."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Le cadre redevient horizontal",
+      "ending": "Léonie lit la correction avant de l’envoyer : Malo est absent après une hospitalisation, poursuit son suivi et discutera lui-même du dépôt ; l’explication par le travail ne venait pas de lui. Il accepte ces mots. Nadir ferme le projet vertical et conserve l’image originale sans nouveau travail d’affiche. Il dit qu’il aurait dû demander ce que « disponibles » voulait dire. Yasmina confirme qu’elle viendra à la rencontre. Malo repart avec son inventaire. La correction a été envoyée, mais il faudra encore du temps pour qu’il se sente libre d’arriver au foyer sans être interrogé.",
+      "mirror": [
+        "Léonie peut dire « J’ai ajouté une explication qui ne venait pas de Malo ; voici ce qu’il accepte que je transmette ». Elle peut refuser ensuite de commenter sa santé. Nadir peut vérifier chaque proposition au lieu d’anticiper un accord. Les proches et collègues n’ont pas à connaître le trouble associé pour respecter une absence ou garder une mallette."
+      ],
+      "sources": [
+        "oms-cddr",
+        "bap-catatonie",
+        "has-decision-partagee"
+      ],
+      "continuity": {
+        "choice": "Léonie corrige l’explication de santé auprès des mêmes destinataires ; Nadir arrête le recadrage et Yasmina est invitée à la rencontre sur le dépôt.",
+        "next": "Avant cette rencontre, Malo et Enora reprennent avec Anna la place de chacun dans les contacts de suivi et d’urgence."
+      },
+      "conclusion": "Une information manquante n’appelle pas une cause inventée. Malo a choisi ce qu’il autorise à transmettre et la troupe a corrigé les deux malentendus. Le dépôt reste à organiser, avec une place pour Yasmina ; son dossier médical ne devient pas une condition de cette discussion."
+    },
+    {
+      "number": 10,
+      "slug": "malo-la-place-du-numero",
+      "title": "Risques physiques de la catatonie : une responsabilité médicale",
+      "description": "Avec Anna, Malo et Enora reprennent les contacts de soin. Le calme apparent pendant la crise ne disait rien de sa gravité possible.",
+      "context": "Au service de suivi, lors d’un échange accepté par Malo",
+      "topics": [
+        "Une apparence silencieuse peut tromper",
+        "L’évaluation ne se résume pas à la présence d’un proche",
+        "L’inquiétude crée une disponibilité impossible"
+      ],
+      "clinical_focus": "Des complications physiques possibles",
+      "clinical_intro": "La catatonie peut s’accompagner de complications physiques graves qui justifient une évaluation médicale urgente et des soins adaptés. L’entourage ne peut pas en apprécier seul les risques. Malo et Enora reprennent avec Anna ce que chacun peut faire, sans transformer la présence d’une sœur en surveillance clinique permanente.",
+      "opening": "Enora a plié sa copie de la feuille des contacts pour qu’elle tienne dans son portefeuille. Elle la ressort devant Anna et Malo, au service de suivi. Son frère a accepté qu’elle participe à cette partie de l’échange. Elle demande si elle devrait désormais passer chaque soir chez lui. Dans les coulisses, il n’avait pas crié ni demandé de secours. Cette apparence silencieuse lui revient ; elle se dit qu’elle aurait pu quitter le théâtre quelques minutes avant de comprendre qu’il se passait quelque chose de grave.\n\nAnna rappelle que la catatonie peut exposer à des complications physiques et que l’évaluation de ces risques appartient aux professionnels. L’absence d’agitation n’était pas un signe de sécurité. Enora n’avait pas à identifier une complication avant d’appeler ; elle avait décrit une rupture marquée et obtenu un relais. Elle n’a pas davantage à assurer maintenant, par ses visites, le rôle du service de soins. Les questions sur l’état physique de Malo restent dans son suivi et toute nouvelle situation urgente doit être évaluée pour elle-même.\n\nMalo demande qu’ils regardent ce qui est vraiment possible. Enora travaille deux soirs par semaine et coupe parfois son téléphone après dix-neuf heures. Elle aime venir dîner, mais ne veut pas promettre qu’elle sera toujours joignable. Lui ne souhaite pas recevoir une visite quotidienne décidée par peur. Sur une seconde feuille, ils écrivent les aides qu’ils choisissent : un accompagnement à un rendez-vous quand ils en conviennent, et le transport de la mallette le jour du dépôt. Anna leur demande de garder les contacts médicaux sur la première feuille.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Le calme apparent ne mesure pas la gravité",
+          "text": "Une présentation peu mobile ou peu verbale de la catatonie peut comporter des risques physiques importants. Leur recherche et leur prise en charge nécessitent des professionnels ; la simple présence d’un proche ne permet pas de les exclure ou de les prévenir. Anna reprend le sens de l’appel initial et la place du suivi. Le retour de la parole de Malo ne suffit pas, à lui seul, à déterminer ses besoins médicaux actuels."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment les risques physiques changent-ils la place des proches ?",
+          "points": [
+            {
+              "heading": "Une apparence silencieuse peut tromper",
+              "text": "L’intensité visible d’une scène ne suffit pas à apprécier son risque médical.",
+              "examples": [
+                "Enora se rappelle Malo silencieux dans les coulisses et comprend pourquoi il fallait appeler immédiatement.",
+                "Un témoin ne peut pas conclure qu’une personne est en sécurité parce qu’elle ne s’agite pas pendant une rupture majeure de réactivité."
+              ]
+            },
+            {
+              "heading": "L’évaluation ne se résume pas à la présence d’un proche",
+              "text": "Les complications possibles demandent une appréciation et des soins médicaux.",
+              "examples": [
+                "Anna ne demande pas à Enora de certifier chaque soir l’état physique de son frère.",
+                "Lors d’un suivi, une personne peut porter une question corporelle au professionnel sans demander à sa famille de l’examiner."
+              ]
+            },
+            {
+              "heading": "L’inquiétude crée une disponibilité impossible",
+              "text": "La crainte d’une nouvelle urgence peut conduire un proche à promettre une surveillance permanente.",
+              "examples": [
+                "Enora envisage des visites quotidiennes alors que certains soirs elle travaille.",
+                "Un parent peut croire devoir garder son téléphone ouvert toute la nuit faute d’avoir distingué son rôle de celui des secours."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour garder une réponse médicale aux risques de la catatonie",
+          "points": [
+            {
+              "heading": "Demander le sens du suivi physique",
+              "objective": "Comprendre ce qui relève de l’évaluation par l’équipe.",
+              "exercise": [
+                "Dites au professionnel quelle question vous vous posez sur les conséquences de l’épisode.",
+                "Demandez comment elle est prise en compte dans votre suivi individuel.",
+                "Faites préciser à qui adresser une nouvelle préoccupation, sans chercher à reproduire un examen à la maison."
+              ],
+              "benefit": "L’équipe reste responsable des questions cliniques et peut expliquer ce qu’elle propose pour la personne concernée."
+            },
+            {
+              "heading": "Maintenir un accès direct aux secours",
+              "objective": "Éviter de faire dépendre une urgence de la disponibilité familiale.",
+              "exercise": [
+                "Gardez le 15 accessible en France.",
+                "Devant une rupture brutale et marquée de la réactivité, appelez immédiatement même si le proche habituel est absent.",
+                "Décrivez la situation présente et suivez les indications de la régulation."
+              ],
+              "benefit": "Le secours peut être engagé sans attendre le retour d’une sœur ni l’identification de la complication redoutée."
+            },
+            {
+              "heading": "Écrire une aide familiale réaliste",
+              "objective": "Choisir un appui limité qui complète le soin.",
+              "exercise": [
+                "Chacun indique ce qu’il souhaite et peut offrir concrètement.",
+                "Convenez de quand confirmer un accompagnement ou une visite.",
+                "Gardez les contacts de soins séparés de cet accord et révisez celui-ci si les disponibilités changent."
+              ],
+              "benefit": "Des limites explicites peuvent préserver la relation et empêcher qu’une aide choisie soit confondue avec une surveillance médicale."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Deux feuilles au lieu d’une",
+      "ending": "Enora remet la feuille médicale dans son portefeuille et photographie, avec l’accord de Malo, les seuls numéros qu’ils ont convenu de garder ensemble. Sur l’autre feuille, ils notent qu’elle peut porter la mallette jusqu’au théâtre le 4 juin. Ils ne fixent aucun passage quotidien. Malo garde le rendez-vous médical prévu avant cette remise et veut y poser une question distincte sur le syndrome et le trouble associé. Enora lui propose un dîner pour dimanche. Cette invitation peut être acceptée ou refusée comme une invitation, sans devenir une vérification de son état.",
+      "mirror": [
+        "Enora peut dire « Je peux t’accompagner mardi si nous le confirmons ; en urgence, il faut appeler les secours ». Elle peut aussi demander à l’équipe où adresser sa propre inquiétude, dans le respect de la confidentialité. Elle n’a pas à surveiller le corps de Malo ou à rester joignable en permanence pour être une sœur attentive."
+      ],
+      "sources": [
+        "oms-cddr",
+        "bap-catatonie",
+        "aclp-catatonie-liaison",
+        "has-decision-partagee",
+        "service-public-urgences"
+      ],
+      "continuity": {
+        "choice": "Malo et Enora distinguent les contacts médicaux de l’aide familiale ; elle confirme le transport de la mallette le 4 juin et ses limites de disponibilité.",
+        "next": "Avant la remise, Malo prépare pour son médecin deux questions concernant le syndrome et le trouble associé."
+      },
+      "conclusion": "Les risques physiques expliquent le recours médical, y compris devant une présentation silencieuse. Malo et Enora ont distingué soins, secours et soutien familial. La mallette bénéficiera d’un transport prévu ; la sécurité médicale ne repose pas sur une sœur toujours disponible."
+    },
+    {
+      "number": 11,
+      "slug": "malo-deux-questions-puis-la-remise",
+      "title": "Catatonie et trouble associé : distinguer les questions de suivi",
+      "description": "Avant de confier ses archives, Malo pose au médecin deux questions qu’il mélangeait. La remise de la mallette ne clôt pas ses soins.",
+      "context": "Le 4 juin, au rendez-vous médical puis au théâtre",
+      "topics": [
+        "Une question globale cache plusieurs besoins",
+        "Une priorité personnelle ne répond pas à une question clinique",
+        "Les informations n’ont pas les mêmes destinataires"
+      ],
+      "clinical_focus": "Deux dimensions du suivi clinique",
+      "clinical_intro": "La catatonie et le trouble mental auquel elle est associée sont évalués distinctement. Comprendre cette différence aide à poser des questions sur les soins proposés, sans réduire l’un à l’autre. Malo veut savoir ce que l’équipe suit après l’épisode et ce qui concerne le trouble associé, qu’il garde dans son espace médical.",
+      "opening": "Malo a laissé la mallette fermée près de sa porte pour qu’Enora la prenne après sa consultation. Sur son inventaire, il a indiqué le nombre de pochettes, le lieu envisagé pour la garde et une date de réexamen. Sur une autre feuille, destinée à la Dre Le Berre, il a écrit deux questions. La première concerne ce qui a changé depuis l’épisode catatonique et la façon dont l’équipe l’évalue. La seconde porte sur le trouble associé et les décisions de soin qui le concernent. Au début, il avait mis les deux sous le titre « Est-ce que c’est fini ? ».\n\nPendant la consultation, il explique que réussir à confier les archives lui ferait une place nette dans la tête. Il avait presque imaginé annuler ce rendez-vous pour consacrer toute la journée à cette remise. La médecin distingue ce qu’ils réévaluent depuis l’épisode catatonique et les questions de Malo concernant le trouble associé. Elle précise que le retour de la parole ne répond pas, à lui seul, à toutes ses questions de soin. Ils discutent de la suite du suivi. Ni l’achèvement d’un inventaire ni une photographie réussie ne répondent à la place de cet échange. Il exprime ce qu’il comprend, ce qui lui convient et ce qu’il souhaite encore éclaircir.\n\nAprès le rendez-vous, Enora le rejoint pour le transport convenu. Au théâtre, Léonie a dégagé l’armoire du bureau de production. Nadir a vérifié qu’ils pourront accéder au bureau pendant la fermeture de juillet. Yasmina apporte un double du tirage horizontal. Elle veut qu’ils regardent aussi la place de son personnage dans l’image, avant toute discussion d’affiche. Cette fois, chacun sait que la rencontre concerne une garde et une conversation, sans autorisation de diffuser.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Deux questions de soin qui ne se résolvent pas par un projet terminé",
+          "text": "Le syndrome catatonique et le trouble associé ne désignent pas exactement la même chose et leur place dans le suivi peut être expliquée par l’équipe. Leur articulation relève d’une appréciation individuelle, avec la personne. Malo obtient un échange sur chacun plutôt qu’une réponse générale à « est-ce fini ? ». Il n’a pas à montrer son inventaire pour accéder aux soins et ne peut pas conclure de sa remise réussie que l’évaluation médicale est devenue inutile."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment distinguer les questions liées au syndrome et au trouble associé ?",
+          "points": [
+            {
+              "heading": "Une question globale cache plusieurs besoins",
+              "text": "Demander si tout est terminé peut mêler les manifestations de l’épisode, le suivi et les préoccupations sur l’avenir.",
+              "examples": [
+                "Malo remplace son titre unique par deux questions pour la médecin.",
+                "Au cours d’un rendez-vous, une personne peut demander ce qui concerne l’épisode récent et ce qui concerne une autre difficulté déjà évaluée."
+              ]
+            },
+            {
+              "heading": "Une priorité personnelle ne répond pas à une question clinique",
+              "text": "Le soulagement d’avoir achevé un projet est réel sans fournir une conclusion médicale.",
+              "examples": [
+                "Malo espère se sentir moins encombré après la remise, mais garde son rendez-vous.",
+                "Une personne peut réussir une démarche importante et continuer à discuter avec son soignant de besoins qui ne se voient pas dans cette réussite."
+              ]
+            },
+            {
+              "heading": "Les informations n’ont pas les mêmes destinataires",
+              "text": "La coordination pratique n’exige pas que les collègues connaissent le trouble associé.",
+              "examples": [
+                "Léonie reçoit la date de dépôt et le périmètre de garde, tandis que la médecin reçoit les questions de soin.",
+                "Un collègue peut proposer un lieu de rangement sans avoir à lire un compte rendu d’hospitalisation."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour préparer des questions distinctes au rendez-vous",
+          "points": [
+            {
+              "heading": "Écrire une question par préoccupation",
+              "objective": "Permettre un échange précis sur le suivi.",
+              "exercise": [
+                "Notez ce que vous voulez comprendre de l’épisode catatonique.",
+                "Écrivez séparément votre question sur le trouble associé ou une décision de soin.",
+                "Présentez les deux au professionnel et demandez de l’aide pour distinguer ce qui se recoupe."
+              ],
+              "benefit": "Le soignant peut relier les questions à votre évaluation au lieu de répondre à une demande trop vaste."
+            },
+            {
+              "heading": "Dire ses préférences dans l’entretien",
+              "objective": "Participer aux décisions proposées par le professionnel.",
+              "exercise": [
+                "Demandez une explication des options pertinentes pour votre situation.",
+                "Dites ce qui compte pour vous, ce qui vous inquiète et ce que vous comprenez de leurs conséquences.",
+                "Convenez avec le soignant de la suite et d’un point à reprendre si nécessaire."
+              ],
+              "benefit": "L’échange peut rendre les décisions compréhensibles et révisables ; il ne transforme pas une préférence en protocole applicable à tous."
+            },
+            {
+              "heading": "Séparer une remise de travail du suivi",
+              "objective": "Éviter de faire du projet un substitut à une décision médicale.",
+              "exercise": [
+                "Prévoyez les informations utiles au travail sur un document distinct.",
+                "Gardez ou réorganisez votre rendez-vous avec l’équipe si un conflit pratique se présente.",
+                "À la troupe, transmettez les seules consignes de dépôt acceptées."
+              ],
+              "benefit": "Les deux démarches peuvent avancer le même jour sans exiger un dossier médical pour garder les archives ni une archive rangée pour recevoir des soins."
+            }
+          ]
+        }
+      ],
+      "ending_title": "La mallette entre dans l’armoire",
+      "ending": "Malo lit l’inventaire avec Nadir et Léonie, qui acceptent de garder la mallette fermée dans l’armoire du bureau. Nadir sera le premier contact pour la garde ; Léonie prendra le relais lorsqu’il sera absent. Toute ouverture se discute avec Malo et aucune diffusion n’est autorisée. Ils notent le 18 juin pour réexaminer cet accord. Yasmina regarde le tirage puis dit que le recadrage vertical supprimait le déséquilibre qu’elle avait travaillé autour de la chaise. Malo l’écoute jusqu’au bout. Il confie réellement la mallette et garde une copie de l’inventaire. Son prochain rendez-vous de suivi figure ailleurs, dans sa pochette médicale.",
+      "mirror": [
+        "Enora a apporté la mallette comme prévu ; Nadir et Léonie ont accepté une garde précise. Chacun peut s’en tenir à cet engagement et dire lorsqu’un relais est nécessaire. Un proche peut demander « Veux-tu qu’on reparle du rendez-vous ou qu’on reste sur les photos ? » Il n’a pas à recevoir les réponses médicales pour tenir sa place dans ce projet."
+      ],
+      "sources": [
+        "oms-cddr",
+        "bap-catatonie",
+        "has-decision-partagee"
+      ],
+      "continuity": {
+        "choice": "Malo garde son rendez-vous, distingue deux questions de soin et remet les archives à Nadir et Léonie jusqu’au réexamen du 18 juin, sans accord de diffusion.",
+        "next": "Le 18 juin, la troupe et Malo réexamineront la durée de garde ; un choix photographique reste ouvert au-delà de ce dépôt."
+      },
+      "conclusion": "Malo a pu distinguer ses questions de soin et mener une décision importante dans son métier. La garde des archives est effective et datée. Le suivi du syndrome et du trouble associé continue dans le cadre convenu avec l’équipe, sans dépendre du résultat de cette remise."
+    },
+    {
+      "number": 12,
+      "slug": "malo-une-place-pour-la-regie",
+      "title": "Récidive possible de la catatonie : faire une place à l’avenir",
+      "description": "Le dépôt est réexaminé et le suivi se poursuit. Malo veut préparer ses prochains choix sans demander aux archives une garantie sur sa santé.",
+      "context": "Le 18 juin, au théâtre, pendant le réexamen du dépôt",
+      "topics": [
+        "Une date lointaine réveille une inquiétude",
+        "Une réussite semble appeler une conclusion définitive",
+        "Les recours peuvent rester prêts sans gouverner chaque rencontre"
+      ],
+      "clinical_focus": "Une évolution qui reste incertaine",
+      "clinical_intro": "Des épisodes de catatonie peuvent revenir, mais leur possibilité ne permet pas de prévoir l’évolution d’une personne. Le suivi et les recours convenus gardent leur place, même lorsqu’un projet avance. Malo réexamine la garde de ses archives et choisit ce qu’il veut photographier ensuite, sans en faire une promesse de rétablissement.",
+      "opening": "Le 18 juin, la mallette rouge est toujours fermée dans l’armoire du bureau de production. Nadir la montre à Malo, puis lui tend la copie de l’inventaire. Personne n’a eu besoin de l’ouvrir. Léonie propose de prolonger la garde jusqu’au premier septembre, avec une discussion le 25 août avant la reprise. Les deux collègues confirment qui sera présent pendant l’été et comment Malo pourra demander à retrouver ses affaires. Cette fois, il ne doit pas imaginer un lieu sûr en espérant qu’il le sera ; il peut regarder ce qui a réellement tenu pendant deux semaines.\n\nIl a conservé son suivi et les contacts convenus avec l’équipe. La possibilité d’un autre épisode l’inquiète encore lorsqu’il prévoit quelque chose de loin. Il ne cherche pas à obtenir de Nadir la promesse que cela ne reviendra pas. Le régisseur ne pourrait pas la donner. Enora n’a pas non plus multiplié ses visites : elle est venue dîner dimanche et ils ont parlé du train qu’elle veut prendre cet été.\n\nDans le foyer, Yasmina attend avec le tirage horizontal. Elle trouve que la petite présence de Nadir à droite rappelle le travail des coulisses, mais aimerait voir une autre image où son mouvement de sortie serait plus visible. Malo tourne la photographie vers la fenêtre. Il aimerait photographier la régie avant la prochaine répétition, quand les mains cherchent encore leurs places sur les commandes. Il peut avoir cette envie sans décider aujourd’hui s’il assistera à toutes les représentations. La garde de ses archives lui donne de la place pour un choix ; elle ne lui donne pas à connaître la suite médicale.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Préparer les recours sans prédire un nouvel épisode",
+          "text": "L’évolution de la catatonie varie et des épisodes peuvent se répéter. Cette possibilité ne signifie ni qu’une récidive est certaine, ni que l’activité retrouvée en écarte le risque. Pour Malo, poursuivre le suivi et garder des recours accessibles permet de ne pas demander aux proches une prédiction impossible. Ses projets restent ajustables. Si une nouvelle situation préoccupante survient, elle devra être évaluée dans son contexte ; une rupture brutale et marquée de réactivité relèvera des secours."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment l’incertitude sur l’évolution entre-t-elle dans les projets ?",
+          "points": [
+            {
+              "heading": "Une date lointaine réveille une inquiétude",
+              "text": "Prévoir l’avenir peut faire revenir la question d’un autre épisode, sans que cette pensée constitue un signe de récidive.",
+              "examples": [
+                "Malo hésite à promettre sa présence à toutes les représentations de la reprise.",
+                "Une personne suivie peut demander au professionnel comment prévoir un déplacement sans attendre une garantie absolue."
+              ]
+            },
+            {
+              "heading": "Une réussite semble appeler une conclusion définitive",
+              "text": "Un accord qui tient peut soulager sans indiquer ce que sera l’évolution clinique.",
+              "examples": [
+                "Deux semaines de garde satisfaisante ne permettent pas de prévoir la santé de Malo en septembre.",
+                "Après une activité réussie, un proche peut être tenté d’annoncer que tout est désormais derrière la personne."
+              ]
+            },
+            {
+              "heading": "Les recours peuvent rester prêts sans gouverner chaque rencontre",
+              "text": "Un plan de contact ne demande pas aux proches de surveiller chaque moment partagé.",
+              "examples": [
+                "Malo garde les coordonnées tandis qu’Enora lui raconte son projet de train.",
+                "Un ami peut connaître le recours urgent convenu et continuer à proposer une sortie dont la personne choisira la date."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour prévoir un projet avec une évolution incertaine",
+          "points": [
+            {
+              "heading": "Garder une possibilité de révision",
+              "objective": "Faire un choix concret sans promettre la suite de son état de santé.",
+              "exercise": [
+                "Choisissez une activité ou un engagement limité qui vous importe.",
+                "Convenez d’une date pour en rediscuter avec les personnes concernées.",
+                "Portez les questions médicales qui influencent ce projet à votre équipe de suivi."
+              ],
+              "benefit": "Un choix révisable peut ouvrir un avenir proche sans utiliser le projet comme garantie ou test clinique."
+            },
+            {
+              "heading": "Conserver les recours utiles",
+              "objective": "Savoir quoi faire si une situation change.",
+              "exercise": [
+                "Gardez les coordonnées de suivi et leurs modalités actualisées avec l’équipe.",
+                "Convenez avec le proche choisi de l’information pratique qu’il peut garder.",
+                "Devant une nouvelle altération brutale et marquée de la réactivité, appelez immédiatement le 15 en France et suivez la régulation."
+              ],
+              "benefit": "Le plan reste utilisable malgré l’incertitude ; un nouvel épisode supposé n’a pas à être confirmé par l’entourage avant de chercher de l’aide."
+            },
+            {
+              "heading": "Rendre une place aux sujets ordinaires",
+              "objective": "Laisser les rencontres contenir autre chose que l’anticipation de la crise.",
+              "exercise": [
+                "Demandez si la personne souhaite parler du suivi ou d’un autre sujet.",
+                "Proposez une activité ou une discussion qui compte pour elle.",
+                "Acceptez qu’elle ajuste sa participation et reprenez une question de santé avec le professionnel quand c’est nécessaire."
+              ],
+              "benefit": "Les relations peuvent continuer autour des goûts et du métier de la personne, sans renoncer au soin ni minimiser une urgence."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Les mains avant la répétition",
+      "ending": "Malo accepte la garde par Nadir et Léonie jusqu’au premier septembre ; ils inscrivent le réexamen au 25 août et lui remettent l’accord actualisé. L’ouverture et la diffusion restent soumises à une nouvelle discussion avec lui. La question pratique de son absence a désormais ses personnes, son lieu et sa durée. Dans le foyer, il demande à Nadir s’il accepterait une photographie avant la répétition suivante. Le régisseur regarde ses mains tachées de ruban adhésif puis dit qu’ils choisiront ensemble le moment. Malo laisse le tirage horizontal à plat entre eux. Yasmina revient sur son mouvement de sortie. Il l’écoute, puis déplace la feuille de quelques centimètres pour voir comment la lumière traverse le bord droit.",
+      "mirror": [
+        "Nadir peut dire « Nous gardons la mallette selon ce que nous avons écrit ; pour la photo, on cherchera un moment ». Enora peut continuer à parler de son voyage tout en gardant le recours urgent accessible. Aucun d’eux ne garantit l’évolution de Malo. Ils peuvent respecter un changement de projet, passer le relais et rester des proches et des collègues."
+      ],
+      "sources": [
+        "oms-cddr",
+        "bap-catatonie",
+        "has-decision-partagee",
+        "service-public-urgences"
+      ],
+      "continuity": {
+        "choice": "Malo confirme la garde par Nadir et Léonie jusqu’au premier septembre avec réexamen le 25 août ; il propose une photographie de la régie tandis que ses soins se poursuivent.",
+        "next": "La décision sur les archives est résolue pour la durée convenue. Le suivi continue et Malo garde la liberté d’ajuster ses prochains projets photographiques."
+      },
+      "conclusion": "Le dépôt a été réexaminé et la garde des archives est décidée pendant l’absence de Malo. L’incertitude clinique reste présente avec le suivi et les recours adaptés. Elle n’empêche pas un désir photographique de prendre forme, ni les autres de proposer leur propre regard sur l’image."
+    }
+  ]
+}
