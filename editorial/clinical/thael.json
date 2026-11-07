@@ -834,6 +834,422 @@
         "choice": "Une feuille commune est fixée ; les essais restent variables. Mireille apporte les observations au suivi sans résultat diagnostique inventé.",
         "next": "Le rendez-vous aura lieu hors atelier, sans résultat diagnostique inventé. Le duo peut néanmoins dessiner une petite affiche de présentation."
       }
+    },
+    {
+      "number": 9,
+      "slug": "thael-etiquette-familiarite-affiche",
+      "title": "Être réduit à sa familiarité par une étiquette",
+      "description": "Un mot blessant pousse Thaël à retourner son affiche. Idriss protège le respect du groupe et son choix de signer l’œuvre.",
+      "context": "La préparation des petites affiches du duo",
+      "topics": [
+        "Étiquetage",
+        "Confidentialité",
+        "Signature choisie"
+      ],
+      "clinical_intro": "Être réduit à un comportement peut ajouter une difficulté sociale au trouble de l’engagement social désinhibé. Ce retentissement n’est pas un critère diagnostique supplémentaire. À l’atelier, une remarque sur sa familiarité donne à Thaël envie d’effacer son prénom. L’adulte intervient sur le respect, sans divulguer son diagnostic ou son histoire au groupe.",
+      "opening": "Le papier de l’affiche est plus grand que la boîte. Thaël a tracé une manche qui descend jusqu’au bord ; au-dessus, la bouche bleue de Monsieur Peut-être ressemble à une porte ouverte. Zoé dessine son oiseau sur une autre feuille. La répétition précédente n’était pas tout à fait au point, mais Idriss a proposé de préparer les petits cartons de présentation. Mireille est revenue du rendez-vous prévu avec l’équipe sans apporter de nouvelle étiquette à l’atelier.\n\nThaël cherche la place de son prénom lorsque l’enfant assis de l’autre côté de la table dit : « On m’a dit que toi, tu colles tout le monde. » Le crayon s’arrête sur la première lettre. Thaël ne demande pas qui a parlé. Il retourne sa feuille et passe la main sur le dos, comme s’il fallait vérifier qu’on ne voit plus le dessin. « Alors je mets pas mon nom. »\n\nIdriss intervient immédiatement. On ne réduit pas quelqu’un à une phrase comme celle-là, dit-il ; ici chacun peut fabriquer sans être désigné ainsi. Il ne raconte ni le diagnostic ni la vie de Thaël. Zoé continue à colorier son aile, puis rapproche ses crayons au milieu pour qu’ils restent accessibles aux deux. Thaël garde la feuille retournée. Le grand visage bleu est caché contre la table, et l’affiche qu’il voulait montrer lui semble maintenant trop reconnaissable.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Une difficulté relationnelle ne devient pas une identité entière",
+          "text": "L’étiquetage désigne ici la réduction d’un enfant à un comportement que les autres lui attribuent. C’est un enjeu social d’accompagnement, pas un nouveau symptôme du trouble de l’engagement social désinhibé. La familiarité observée dans certaines situations ne résume ni Thaël ni ses relations. Répondre à la remarque ne nécessite pas d’exposer sa santé ou son parcours. Les adultes peuvent maintenir les échanges professionnels nécessaires séparément et poser devant le groupe une règle de respect valable pour tous."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment l’étiquette pèse-t-elle sur la participation ?",
+          "points": [
+            {
+              "heading": "Transformer un comportement en définition",
+              "text": "Le mot employé laisse entendre une conduite permanente, envers tout le monde. Cette généralisation efface les différences de situations.",
+              "examples": [
+                "L’enfant dit que Thaël « colle tout le monde ».",
+                "La remarque arrive pendant une tâche de dessin, sans rapport avec l’accueil d’un inconnu."
+              ]
+            },
+            {
+              "heading": "Rendre l’œuvre difficile à montrer",
+              "text": "La gêne se traduit par un geste visible, sans qu’il soit nécessaire d’exiger que Thaël la nomme.",
+              "examples": [
+                "Il retourne la feuille alors que le dessin était presque terminé.",
+                "La bouche bleue reste cachée contre la table."
+              ]
+            },
+            {
+              "heading": "Modifier le choix de signer",
+              "text": "Thaël veut décider ce qui sera associé publiquement à lui. L’adulte ne doit pas forcer une signature pour prouver qu’il va bien.",
+              "examples": [
+                "Son crayon s’arrête à la première lettre de son prénom.",
+                "Il annonce qu’il ne mettra plus son nom sur le devant."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour protéger la participation après une remarque",
+          "points": [
+            {
+              "heading": "Arrêter la formule blessante",
+              "objective": "Ne pas laisser la charge de répondre à l’enfant visé.",
+              "exercise": [
+                "Idriss intervient au moment de la remarque.",
+                "Il nomme le problème de respect sans qualifier celui qui l’a répétée.",
+                "Il interrompt les commentaires et remet la table au travail."
+              ],
+              "benefit": "Une limite claire peut éviter que le mot devienne une plaisanterie collective."
+            },
+            {
+              "heading": "Garder une règle commune",
+              "objective": "Protéger la dignité sans ouvrir le dossier personnel.",
+              "exercise": [
+                "Rappelez que chacun a droit à travailler sans surnom humiliant.",
+                "Répondez aux questions du groupe sans donner d’information clinique sur Thaël.",
+                "Réservez aux adultes concernés les échanges utiles à son accompagnement."
+              ],
+              "benefit": "Le respect ne dépend pas d’une justification médicale dévoilée aux autres enfants."
+            },
+            {
+              "heading": "Laisser plusieurs façons de signer",
+              "objective": "Rendre à Thaël un choix réel sur son affiche.",
+              "exercise": [
+                "Proposez le titre devant, le prénom au dos, ou du temps pour décider.",
+                "Laissez la feuille retournée s’il souhaite encore attendre.",
+                "Aidez à réaliser l’option retenue sans faire de la signature une victoire thérapeutique."
+              ],
+              "benefit": "Le projet peut redevenir le sien, même si la gêne n’a pas entièrement disparu."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Un prénom au dos de l’affiche",
+      "ending": "Thaël retourne enfin la feuille. Il demande un crayon épais pour écrire Monsieur Peut-être en grand. Son prénom ira au dos, décide-t-il ; Idriss lui laisse la place pour cela. Zoé conserve son propre titre : L’oiseau qui hésite. Ils déposent les deux affiches près des boîtes pour une petite présentation dont le public reste à organiser. Thaël ne reparle pas de la remarque. Il prend seulement soin que le dessin ne se plie pas sous la manche.",
+      "conclusion": "L’étiquette a freiné la participation sans définir l’enfant ni son trouble. L’intervention d’Idriss protège le respect, et Thaël choisit une signature qui lui convient. Montrer son travail reste possible sans dévoiler son histoire ou exiger qu’il oublie la remarque.",
+      "mirror": [
+        "Mireille peut dire plus tard : « J’ai vu que tu avais retourné le dessin. Tu peux choisir où mettre ton prénom. » Elle peut rester disponible sans demander qui a dit quoi à répétition. Zoé n’a pas à défendre le dossier de Thaël ; garder ses crayons accessibles et poursuivre son propre projet peut suffire à maintenir un espace ordinaire de travail partagé."
+      ],
+      "clinical_focus": "Être étiqueté par sa familiarité",
+      "diagnostic_stage": "known",
+      "sources": [
+        "oms-cddr",
+        "nice-ng26"
+      ],
+      "continuity": {
+        "choice": "Thaël signe au dos et met Monsieur Peut-être devant ; Zoé garde L’oiseau qui hésite.",
+        "next": "Les affiches privées sont prêtes. Il reste à organiser un public et les adultes doivent examiner leur disponibilité réelle."
+      }
+    },
+    {
+      "number": 10,
+      "slug": "thael-charge-protection-adultes",
+      "title": "La charge de protection des adultes autour de l’enfant",
+      "description": "Préparer le public révèle la fatigue de Mireille et les limites d’Idriss. Un format réaliste garde le projet possible.",
+      "context": "L’organisation des places pour la présentation",
+      "topics": [
+        "Vigilance adulte",
+        "Relais explicites",
+        "Participation adaptée"
+      ],
+      "clinical_intro": "La protection d’un enfant ayant un trouble de l’engagement social désinhibé peut demander une vigilance éprouvante aux adultes responsables. Cette charge relève de l’organisation et du soutien aux accueillants, pas d’un nouveau symptôme de l’enfant. Pour préparer la présentation, Mireille et Idriss examinent leur disponibilité réelle avec l’équipe plutôt que de demander une promesse à Thaël.",
+      "opening": "Les affiches sont prêtes, mais la table n’est pas une salle de spectacle. Idriss mesure l’espace devant les boîtes avec ses mains. Thaël a proposé de peindre des dossiers de chaise en carton pour annoncer les places. Il en pose un contre sa manche : la tête bleue paraît regarder par-dessus un mur. « Combien il en faut ? Trois ou mille ? » Mireille répond qu’ils sont encore en train de choisir le format.\n\nLa veille, lors d’un échange entre adultes avec l’équipe, elle a reconnu qu’elle guettait chaque mouvement de Thaël au centre. Même lorsque tout se passait tranquillement, elle avait du mal à relâcher les épaules. Idriss avait précisé qu’il ne pouvait pas diriger une salle ouverte, accueillir les familles et assurer seul tous les relais. La docteure Sorel et l’équipe avaient entendu cette fatigue sans demander que Thaël devienne responsable de les rassurer. Ils poursuivent avec eux la recherche d’appuis adaptés ; aucun service nouveau n’est annoncé comme déjà acquis.\n\nAujourd’hui, Mireille regarde les petits cartons alignés. Elle aime l’idée de voir la marionnette, mais une grande présentation lui semble impossible dans les conditions présentes. Thaël attend toujours un nombre. Il a trempé son pinceau dans le jaune et le tient au-dessus du pot pour ne pas tacher l’affiche. Le choix des adultes déterminera combien de places il peut décorer, pas combien d’efforts il devra promettre pour avoir le droit de jouer.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Soutenir les adultes fait partie du cadre protecteur",
+          "text": "Une vigilance répétée peut peser sur les personnes qui accompagnent un enfant présentant une désinhibition sociale. Cette charge doit être examinée avec leurs soutiens professionnels, sans être attribuée à une volonté de l’enfant d’épuiser son entourage. Les recommandations de soutien aux accueillants concernent un champ plus large que ce seul trouble ; elles n’imposent pas ici un programme particulier. Pour Mireille et Idriss, l’enjeu concret est de rendre les responsabilités compatibles avec une présentation réelle, plutôt que de tenir une organisation trop vaste au prix de leur épuisement."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment la charge de protection pèse-t-elle sur le projet ?",
+          "points": [
+            {
+              "heading": "Rester en alerte même dans les moments calmes",
+              "text": "L’adulte peut constater sa fatigue sans attendre un incident. Cette expérience mérite d’être entendue pour elle-même.",
+              "examples": [
+                "Mireille décrit ses épaules tendues pendant les ateliers tranquilles.",
+                "Elle se surprend à guetter chaque mouvement au lieu de suivre la fabrication."
+              ]
+            },
+            {
+              "heading": "Cumuler des responsabilités incompatibles",
+              "text": "Une seule présence ne suffit pas toujours à assurer plusieurs tâches simultanées. Les rôles doivent être examinés concrètement.",
+              "examples": [
+                "Idriss devrait accueillir les familles en même temps qu’il anime.",
+                "Dans une salle ouverte, un relais auprès de Thaël risquerait de rester implicite."
+              ]
+            },
+            {
+              "heading": "Envisager de tout restreindre par fatigue",
+              "text": "Quand le format paraît trop exigeant, le projet entier peut sembler impossible. Une adaptation permet d’examiner d’autres possibilités.",
+              "examples": [
+                "Mireille ne se voit pas assister à une grande présentation dans ces conditions.",
+                "Thaël attend le nombre de décors alors que les adultes hésitent encore sur la taille du public."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour répartir la protection et garder le projet",
+          "points": [
+            {
+              "heading": "Ouvrir un échange de soutien entre adultes",
+              "objective": "Faire entendre la fatigue sans en charger Thaël.",
+              "exercise": [
+                "Mireille décrit à l’équipe les moments où la vigilance l’épuise.",
+                "Idriss précise les limites de son rôle d’animateur.",
+                "Ils discutent des aides adaptées disponibles sans promettre une ressource non confirmée."
+              ],
+              "benefit": "La charge devient un sujet de coordination, pas un reproche adressé à l’enfant."
+            },
+            {
+              "heading": "Attribuer les responsabilités par leur nom",
+              "objective": "Éviter que chacun pense que l’autre surveille déjà.",
+              "exercise": [
+                "Désignez qui accueille Thaël à l’arrivée.",
+                "Précisez qui reste disponible pendant la manipulation des accessoires.",
+                "Prévoyez un relais explicite si l’un doit s’absenter, ou reportez si ce relais manque."
+              ],
+              "benefit": "La sécurité repose sur des engagements adultes réels, sans contrat de bonne conduite imposé à Thaël."
+            },
+            {
+              "heading": "Choisir une présentation à leur mesure",
+              "objective": "Maintenir une possibilité artistique dans les conditions présentes.",
+              "exercise": [
+                "Comparez un petit format privé avec les disponibilités effectives.",
+                "Gardez une durée courte et la possibilité d’interrompre.",
+                "Expliquez les options possibles aux enfants sans présenter la réduction comme une punition."
+              ],
+              "benefit": "Le projet peut aboutir sans enfermement, retrait humiliant ou surveillance punitive ; ce cadre ne remplace pas le suivi."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Trois dossiers de chaise en carton",
+      "ending": "Les adultes retiennent une présentation courte et privée, avec Mireille et Idriss présents. Thaël pourra choisir son public parmi les personnes prévues dans ce cadre. « Trois pour la décoration », précise Idriss en montrant les cartons. Thaël peint trois dossiers de chaise, dont un avec un soleil mal centré. Les couleurs ne désignent pas des personnes sûres : ce sont seulement des décors. Une petite salle est réservée pour répéter puis montrer les marionnettes.",
+      "conclusion": "Reconnaître la fatigue permet de revoir le format sans abandonner l’enfant ni son projet. Les responsabilités restent portées par les adultes et discutées avec l’équipe. Les trois décors annoncent une présentation possible, pas une sécurité désormais acquise grâce à Thaël.",
+      "mirror": [
+        "Mireille peut dire à l’équipe : « J’ai besoin de pouvoir regarder sa marionnette sans assurer tous les rôles. » Idriss peut répondre avec une répartition précise, ou dire qu’une date ne convient pas faute de relais. Thaël n’a pas à entendre qu’il gâche la fête ; il peut connaître simplement le petit format proposé et participer à ses choix artistiques."
+      ],
+      "clinical_focus": "La charge de protection des adultes",
+      "diagnostic_stage": "known",
+      "sources": [
+        "oms-cddr",
+        "nice-ng26",
+        "aacap-non-coercition"
+      ],
+      "continuity": {
+        "choice": "Mireille et Idriss retiennent un format court et privé ; Thaël peint trois dossiers de chaise décoratifs.",
+        "next": "Le format est possible avec ces adultes. Une répétition est organisée dans la petite salle où aura lieu la présentation."
+      }
+    },
+    {
+      "number": 11,
+      "slug": "thael-progres-variables-nouvelle-salle",
+      "title": "Des progrès variables selon les situations",
+      "description": "Dans la petite salle, Thaël aborde familièrement un agent inconnu. Les séances plus faciles n’autorisaient pas à retirer les appuis.",
+      "context": "La répétition dans le lieu de présentation",
+      "topics": [
+        "Évolution variable",
+        "Attentes adultes",
+        "Maintien du cadre"
+      ],
+      "clinical_intro": "L’évolution du trouble de l’engagement social désinhibé peut être variable. Plusieurs situations plus faciles ne garantissent pas que les difficultés ont disparu, et une nouvelle difficulté n’efface pas tout ce qui a été construit. Dans la salle de présentation, Thaël aborde familièrement un agent inconnu. Les adultes reprennent les appuis prévus sans transformer l’événement en verdict.",
+      "opening": "La petite salle sent le carton rangé. Les trois dossiers peints sont posés contre les chaises, et l’affiche de Monsieur Peut-être attend encore son morceau d’adhésif. Mireille entre avec Thaël pendant qu’Idriss prépare la table qui servira de scène. Zoé installe son oiseau à côté de la boîte. Ici, la manche paraît encore plus grande que dans l’atelier ; elle peut presque toucher les deux bords de la table à la fois.\n\nUn agent du centre termine une vérification dans la pièce. Thaël ne l’a jamais rencontré. Il lui adresse aussitôt une conversation comme à quelqu’un déjà invité : « Tu vas t’asseoir là, après tu regarderas dans ma boîte. Tu connais le nom de mon monsieur ? » Il rapproche la marionnette pour la lui montrer. Mireille reste près de lui et rappelle qu’ils sont venus préparer la scène avec Idriss. L’agent répond brièvement, puis poursuit son travail sans rejoindre la répétition.\n\nMireille sent sa déception avant de réussir à la nommer. Les dernières séances lui avaient semblé plus faciles ; elle s’était surprise à espérer que cet élan vers les inconnus ne reviendrait plus. Thaël, lui, cherche déjà où poser le papier qui fait la voix. Il n’a pas commenté la conversation interrompue. Idriss montre la place de la boîte et propose de reprendre l’installation ensemble. La salle est prête à accueillir une répétition, mais elle ne répond à aucune question définitive sur l’évolution du trouble.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Une réussite locale ne permet pas de prédire toute la suite",
+          "text": "Les trajectoires des signes de désinhibition sociale sont hétérogènes : ils peuvent persister malgré des changements favorables, et leur évolution ne se déduit pas d’un seul événement. Les études de suivi réalisées dans des contextes particuliers de soins précoces ne fournissent pas un pronostic individuel pour Thaël. Cette scène montre une difficulté dans un lieu nouveau ; elle ne prouve pas que la salle en est la cause. Les séances plus faciles et cette approche familière peuvent être décrites ensemble, sans annoncer une guérison ou un retour à zéro."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment la variabilité apparaît-elle dans cette nouvelle scène ?",
+          "points": [
+            {
+              "heading": "Retrouver une familiarité déjà connue",
+              "text": "Le comportement observé rappelle les difficultés antérieures, même si plusieurs ateliers se sont déroulés plus simplement.",
+              "examples": [
+                "Thaël attribue une place à un agent qu’il vient de rencontrer.",
+                "Il l’invite à regarder sa boîte sans que cet homme ait rejoint le projet."
+              ]
+            },
+            {
+              "heading": "Voir une attente adulte déçue",
+              "text": "L’espoir de ne plus avoir à protéger de la même façon peut rendre le nouvel événement plus lourd à vivre.",
+              "examples": [
+                "Mireille avait commencé à croire que l’approche des inconnus ne reviendrait plus.",
+                "Elle ressent une déception alors que Thaël cherche déjà son papier sonore."
+              ]
+            },
+            {
+              "heading": "Disposer encore de ressources concrètes",
+              "text": "Les objets, rôles et choix déjà construits ne disparaissent pas avec cette difficulté.",
+              "examples": [
+                "Mireille est présente et reprend le repère convenu.",
+                "Idriss montre où installer la boîte pour poursuivre la répétition."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour poursuivre sans verdict sur les progrès",
+          "points": [
+            {
+              "heading": "Maintenir le cadre après les séances faciles",
+              "objective": "Ne pas retirer une protection sur la seule impression d’amélioration.",
+              "exercise": [
+                "Conservez l’accueil accompagné prévu pour la salle.",
+                "Organisez les relais entre Mireille et Idriss comme convenu.",
+                "Revoyez les adaptations avec l’équipe plutôt qu’en testant une autonomie improvisée."
+              ],
+              "benefit": "Les réussites peuvent être appréciées sans créer une situation destinée à vérifier si le trouble a disparu."
+            },
+            {
+              "heading": "Transmettre une observation équilibrée",
+              "objective": "Donner à l’équipe des faits utiles sur l’évolution.",
+              "exercise": [
+                "Décrivez la conversation avec l’agent et la réponse adulte.",
+                "Mentionnez les séances plus faciles et leurs conditions.",
+                "Dites votre déception séparément, sans conclure que tout est perdu."
+              ],
+              "benefit": "L’équipe peut apprécier l’ensemble ; la fatigue ou l’espoir de Mireille n’ont pas à se déguiser en conclusion clinique."
+            },
+            {
+              "heading": "Préparer l’accueil du lieu",
+              "objective": "Rendre la présentation praticable dans cette salle précise.",
+              "exercise": [
+                "Idriss identifie où il accueillera Thaël le jour venu.",
+                "Mireille reste disponible pendant l’installation des accessoires.",
+                "Gardez le public restreint au lieu de l’élargir pour éprouver les progrès."
+              ],
+              "benefit": "L’organisation soutient la participation présente, sans promettre que le même repère fonctionnera toujours de la même façon."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Une répétition, puis on range",
+      "ending": "Mireille reprend la place convenue auprès de Thaël. Idriss l’aide à installer la bouche, le papier et la feuille commune ; Zoé garde son oiseau à portée. Ils font un seul passage. Une réplique arrive un peu tôt, puis le duo retrouve la fin. Ils n’ajoutent pas un second public pour voir comment cela se passerait. Mireille transmettra l’épisode à l’équipe sans parler d’échec général. Le lieu est préparé pour la présentation privée, dont Thaël choisira les spectateurs dans le cadre prévu.",
+      "conclusion": "Une difficulté retrouvée n’annule ni le projet ni les appuis déjà disponibles. Elle rappelle que l’évolution ne se juge pas sur une séance. Les adultes maintiennent leur organisation et peuvent faire part de leurs attentes à l’équipe spécialisée.",
+      "mirror": [
+        "Mireille peut se dire déçue auprès d’un professionnel sans annoncer à Thaël qu’il a reculé. Dans la salle, une phrase suffit : « Nous préparons la boîte avec Idriss ; je reste là. » Elle peut apprécier ensuite la répétition pour ce qu’elle est. Son envie de voir les difficultés diminuer reste entendable, sans devenir une exigence à satisfaire pendant le spectacle."
+      ],
+      "clinical_focus": "Des progrès variables selon les situations",
+      "diagnostic_stage": "known",
+      "sources": [
+        "oms-cddr",
+        "nice-ng26",
+        "humphreys-beip-2017",
+        "guyon-harris-beip-2018"
+      ],
+      "continuity": {
+        "choice": "Les adultes reprennent les repères et font une seule répétition, sans élargir le public pour tester Thaël.",
+        "next": "Le lieu est préparé et les limites sont maintenues. Thaël choisira maintenant qui, parmi les personnes présentes dans ce cadre, verra la marionnette."
+      }
+    },
+    {
+      "number": 12,
+      "slug": "thael-public-choisi-cadre-protecteur",
+      "title": "Choisir son public dans un cadre protecteur",
+      "description": "Thaël présente Monsieur Peut-être à Mireille, Idriss et Zoé. Son choix aboutit avec un accompagnement toujours nécessaire.",
+      "context": "La petite présentation choisie de Monsieur Peut-être",
+      "topics": [
+        "Choix du public",
+        "Participation soutenue",
+        "Projet accompli"
+      ],
+      "clinical_intro": "Le besoin de protection lié au trouble de l’engagement social désinhibé peut coexister avec de vrais choix personnels. Participer ne signifie pas devoir être autonome dans toutes les situations. Thaël choisit un petit public pour sa marionnette, tandis que les adultes assurent l’accueil. La présentation accomplit son projet artistique sans servir de preuve de guérison.",
+      "opening": "Thaël a vérifié la boîte avant de partir : chaussette rayée, visage bleu, bouche fermable, main jaune, grande manche et papier sonore. L’affiche est rangée à plat, son prénom au dos. Mireille lui rappelle les personnes prévues pour cette courte présentation. Il choisit qu’elle regarde avec Idriss et Zoé. Pas tout l’atelier. « Sinon on verra plus la manche », explique-t-il, sans avoir besoin d’une meilleure raison.\n\nÀ l’arrivée au centre, un adulte est occupé près de l’entrée. Thaël commence aussitôt à lui parler très familièrement de sa marionnette et lui demande ce qu’il range dans ses poches. Idriss, venu les accueillir comme prévu, reprend l’échange et l’accompagne vers la petite salle. Mireille suit avec l’affiche. Le public choisi n’empêche donc pas cette conversation avec quelqu’un d’autre ; les adultes maintiennent leur rôle au seuil même du spectacle.\n\nDans la salle, les dossiers de chaise décoratifs attendent à leur place. Zoé pose son oiseau sur la table. Thaël regarde les trois personnes qu’il voulait avoir devant lui et hésite : une présentation, même minuscule, reste une présentation. Il demande si une seule fois suffit. Idriss répond oui. Mireille s’assied à la place prévue, toujours disponible. Thaël déplie la manche qui gardait une marque au milieu ; il la lisse jusqu’au bout, puis fait claquer la bouche pour vérifier qu’elle pourra aussi se taire.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Le pouvoir de choisir n’exige pas la disparition de la vulnérabilité",
+          "text": "Soutenir la participation consiste à laisser des décisions réelles dans un cadre où les adultes assurent leurs responsabilités. Ce principe d’accompagnement n’est pas un symptôme supplémentaire du trouble de l’engagement social désinhibé. Thaël choisit ici les personnes qui verront son travail et la brièveté de la présentation. L’accueil reste accompagné parce que la familiarité envers un adulte inconnu demeure possible. Préférer un petit public ne montre pas une guérison par méfiance, et réussir une marionnette ne mesure pas l’évolution clinique."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment le choix et le soutien coexistent-ils le jour venu ?",
+          "points": [
+            {
+              "heading": "Désigner les personnes souhaitées",
+              "text": "Thaël exerce un choix artistique et relationnel parmi des options préparées réellement possibles.",
+              "examples": [
+                "Il choisit Mireille, Idriss et Zoé pour voir Monsieur Peut-être.",
+                "Il préfère ne pas inviter tout l’atelier, sans devoir justifier cette préférence par son diagnostic."
+              ]
+            },
+            {
+              "heading": "Avoir encore besoin d’un accueil accompagné",
+              "text": "Décider du public ne rend pas toutes les autres rencontres faciles. La protection garde sa fonction propre.",
+              "examples": [
+                "Thaël pose une question très familière à l’adulte près de l’entrée.",
+                "Idriss reprend l’accueil et l’accompagne dans la petite salle."
+              ]
+            },
+            {
+              "heading": "Éprouver une satisfaction liée à l’œuvre",
+              "text": "L’aboutissement se situe dans ce qu’il a fabriqué et montré, sans devoir devenir un bilan de santé.",
+              "examples": [
+                "Il vérifie la fermeture de la bouche avant de commencer.",
+                "Il demande si un seul passage suffit pour cette présentation."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour soutenir un choix dans un cadre protecteur",
+          "points": [
+            {
+              "heading": "Proposer des options réalisables",
+              "objective": "Éviter les choix fictifs dont les adultes annuleraient ensuite la réponse.",
+              "exercise": [
+                "Présentez les personnes et le format que l’organisation permet réellement.",
+                "Demandez à Thaël ce qu’il préfère dans ces possibilités.",
+                "Préparez ce choix sans ajouter de spectateurs au dernier moment."
+              ],
+              "benefit": "L’enfant peut compter sur sa décision tout en étant protégé par les adultes."
+            },
+            {
+              "heading": "Garder le droit de raccourcir",
+              "objective": "Ne pas transformer la présentation en épreuve à terminer coûte que coûte.",
+              "exercise": [
+                "Annoncez qu’un passage bref suffit et qu’une pause reste possible.",
+                "Accueillez une demande d’arrêt sans condition de comportement.",
+                "Rangez ou reprenez selon ce qui est faisable, sans exiger un salut ou une marque d’affection."
+              ],
+              "benefit": "La participation reste consentie et ajustable ; un retrait éventuel ne devient pas une faute."
+            },
+            {
+              "heading": "Maintenir les appuis après la fin",
+              "objective": "Séparer l’accomplissement artistique des besoins d’accompagnement.",
+              "exercise": [
+                "Conservez les repères de sortie et de retour avec les adultes responsables.",
+                "Poursuivez le suivi spécialisé et la discussion des difficultés de tâche déjà transmises.",
+                "Parlez de la création suivante comme d’une envie, pas d’un nouveau programme de soin."
+              ],
+              "benefit": "Le plaisir du résultat peut être reconnu sans conclure à une autonomie ou à une guérison non établies."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Monsieur Peut-être ferme sa bouche",
+      "ending": "Idriss annonce le départ avec le tambour. Zoé avance l’oiseau, puis regarde Monsieur Peut-être apparaître ; Mireille et Idriss le regardent aussi. L’oiseau pose sa question. Le papier froisse, la bouche bleue répond, et Zoé place son non avant le dernier peut-être. Thaël referme le carton d’un coup net. Une seule fois aura suffi. Il montre ensuite à Mireille le sens du velours qui grince, puis range lui-même la marionnette dans sa boîte. Il l’a fabriquée et a choisi à qui la montrer. Les adultes organisent le retour comme prévu. Le suivi continue, et les questions de tâche restent ouvertes. Thaël voudrait maintenant une seconde marionnette qui parle très doucement : il se demande quel tissu ferait une petite voix.",
+      "conclusion": "Le projet aboutit avec un public choisi et une protection maintenue. La joie de Thaël ne certifie aucun changement diagnostique ; elle appartient à cette création terminée. Ses nouvelles envies peuvent exister à côté du suivi, sans devenir des obligations thérapeutiques.",
+      "mirror": [
+        "Mireille peut dire : « J’ai vu ta bouche se fermer juste après la réponse de l’oiseau. » Elle parle ainsi du travail, sans annoncer que Thaël est devenu sage ou guéri. Idriss peut garder le même accompagnement pour quitter la salle. Zoé reste libre d’aimer ce passage et de penser à son prochain oiseau, sans devenir garante des futurs choix de Thaël."
+      ],
+      "clinical_focus": "Choisir son public dans un cadre protecteur",
+      "diagnostic_stage": "known",
+      "sources": [
+        "oms-cddr",
+        "nice-ng26",
+        "aacap-non-coercition"
+      ],
+      "continuity": {
+        "choice": "Thaël montre Monsieur Peut-être à Mireille, Idriss et Zoé une seule fois, puis range son œuvre ; le projet est accompli.",
+        "next": "Le projet est terminé. Le suivi, les questions de tâche et les repères d’accueil continuent séparément. Thaël voudrait fabriquer une seconde marionnette qui parle très doucement, sans engagement thérapeutique ajouté à cette envie."
+      }
     }
   ]
 }

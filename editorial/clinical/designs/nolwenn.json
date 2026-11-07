@@ -1,0 +1,185 @@
+{
+  "schema_version": 1,
+  "character_id": "nolwenn",
+  "code": "6B85",
+  "article_format": 2,
+  "bio": "Nolwenn, 24 ans, est apprentie encadreuse et prépare le dossier d’une petite exposition avec son équipe d’apprentissage. Des remontées après les repas l’ont conduite à éviter la table des collègues. Son Trouble de rumination-régurgitation sera expliqué au cours d’une évaluation professionnelle, sans réduire ses difficultés à une question de volonté. Avec Inès, une collègue de confiance, son médecin et une spécialiste, elle cherche une manière de poursuivre son projet et de retrouver un moment collectif choisi. Elle tient aux images sobres et aux légendes courtes.",
+  "profile_topics": [
+    "Trouble de rumination-régurgitation",
+    "remontées après les repas",
+    "honte et confidentialité",
+    "suivi professionnel",
+    "repas collectifs"
+  ],
+  "voice": "Nolwenn cherche des mots concrets, corrige une légende trop longue et plaisante doucement sur les blancs presque identiques. Son hésitation sur le vocabulaire médical ne devient pas une incapacité générale à s’exprimer ; elle sait défendre une proposition visuelle.",
+  "series_goal": "Préparer puis remettre le dossier des Fenêtres de l’atelier avec l’équipe d’apprentissage, tout en retrouvant un moment collectif qu’elle choisit. Le dépôt est le dénouement du projet ; la sélection de l’exposition et l’évolution des soins restent ouvertes.",
+  "continuity_rules": [
+    "Nolwenn reste apprentie encadreuse de 24 ans. Le diagnostic est seulement expliqué à l’épisode 3, après le bilan ; les épisodes 1 et 2 ne concluent pas à sa place.",
+    "Inès est une collègue de confiance et une partenaire de projet, jamais thérapeute ni contrôleuse des repas. Le médecin et la spécialiste gardent les décisions de soins.",
+    "Conserver dossier bleu, six images, deux premières légendes puis notices, budget, plan et dépôt dans cet ordre. L’exposition n’est pas encore accordée à la fin.",
+    "Le suivi alimentaire demandé à l’épisode 5, l’apprentissage de l’épisode 6 et la réévaluation de l’épisode 9 ont des suites explicitement reprises. Aucune consultation effacée par le prochain événement artistique.",
+    "Aucune technique médicale à essayer seul, induction des remontées, restriction conseillée, automédication ou exposition imposée. Les trois appuis sont des démarches de communication et de soin accompagné.",
+    "Ni reflux automatiquement exclu pour toujours, ni pensée en boucle, ni mensonge volontaire. Respecter la différence entre vocabulaire des CDDR et cadre gastroentérologique ; aucune culpabilisation ni affirmation toujours involontaire.",
+    "L’amélioration sociale peut coexister avec des symptômes. Le retour collectif choisi n’est ni une guérison ni la preuve d’efficacité d’une stratégie narrative."
+  ],
+  "episodes": [
+    {
+      "number": 1,
+      "focus": "Les remontées après le repas",
+      "scene": "À la pause, Nolwenn ferme son repas et s’écarte quand des aliments remontent à sa bouche. Inès lui demande seulement quelle photo retenir pour le dossier bleu. Nolwenn a déjà manqué plusieurs déjeuners communs.",
+      "development": "Décrire un vécu, sans diagnostic anticipé. Trois appuis : noter quelques circonstances pour le médecin sans se surveiller sans cesse ; préparer une phrase simple pour demander rendez-vous ; réserver avec Inès un créneau de travail distinct du déjeuner. Le proche accueille la description sans nommer une maladie.",
+      "ending": "Elle appelle le cabinet et choisit avec Inès six images de fenêtres.",
+      "next": "Le rendez-vous aura lieu avant la séance de photographie ; elle apporte ses quelques notes.",
+      "source_refs": [
+        "oms-cddr",
+        "aga-rumination-2018"
+      ],
+      "diagnostic_stage": "under_assessment"
+    },
+    {
+      "number": 2,
+      "focus": "Décrire sans conclure au reflux",
+      "scene": "Au cabinet, Nolwenn dit d’abord que cela ressemble à vomir, puis cherche des mots plus précis. Elle voudrait savoir si un produit conseillé par une connaissance suffirait. Les tirages attendent dans son sac.",
+      "development": "Le médecin poursuit l’évaluation des causes digestives et du tableau. Trois appuis : rapporter les faits avec ses mots ; mentionner les produits déjà pris sans en modifier seule l’usage ; demander la prochaine étape et le contact en cas de changement. Aucun résultat de test inventé et aucune conclusion d’Inès.",
+      "ending": "Un rendez-vous spécialisé est organisé ; Nolwenn délègue les prises de vue à Inès et garde les légendes.",
+      "next": "Le bilan et l’entretien spécialisé précèdent l’explication du diagnostic, quelques semaines plus tard.",
+      "source_refs": [
+        "oms-cddr",
+        "aga-rumination-2018"
+      ],
+      "diagnostic_stage": "under_assessment"
+    },
+    {
+      "number": 3,
+      "focus": "Comprendre le diagnostic sans culpabilité",
+      "scene": "Devant les épreuves photographiques, Nolwenn se demande si elle provoque tout elle-même. Lors de la consultation suivante, la spécialiste explique le diagnostic retenu après le bilan, et ce que les mots du compte rendu signifient dans son cas.",
+      "development": "Présenter 6B85 sans assimiler rumination et pensées en boucle, ni volonté et responsabilité morale. Trois appuis : reformuler ce qu’elle a compris ; demander ce que l’évaluation a permis de distinguer ; noter le cadre de soin proposé. La professionnelle situe les différences de vocabulaire, sans exposé de codage dans le dialogue.",
+      "ending": "Nolwenn accepte une première séance de suivi et termine deux légendes courtes.",
+      "next": "Elle veut dire à Inès pourquoi certaines pauses deviennent difficiles, tout en gardant le compte rendu privé.",
+      "source_refs": [
+        "oms-cddr",
+        "ueg-esnm-2025"
+      ],
+      "diagnostic_stage": "diagnosis_explained"
+    },
+    {
+      "number": 4,
+      "focus": "La honte qui entretient le secret",
+      "scene": "Inès croit que Nolwenn déjeune ailleurs parce qu’elle préfère travailler seule. Nolwenn commence une explication puis la raccourcit quand un autre apprenti entre avec les photographies.",
+      "development": "Distinguer intimité choisie et isolement subi. Trois appuis : choisir la personne et le moment ; préparer une phrase limitée à son besoin ; convenir de ce qu’Inès pourra répéter ou non. Ces appuis de communication ne sont pas une thérapie et aucune révélation n’est obligatoire.",
+      "ending": "Elle parle à Inès en tête-à-tête et demande que son absence ne soit pas commentée au groupe.",
+      "next": "Les notices avancent ; Nolwenn réalise cependant qu’elle saute parfois une occasion de manger pour éviter la gêne.",
+      "source_refs": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "aga-rumination-2018"
+      ],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 5,
+      "focus": "Les repas réduits par appréhension",
+      "scene": "En préparant le budget du dossier, Nolwenn repousse encore sa pause alimentaire. Elle ne cherche pas à modifier son corps ; elle veut éviter que les remontées perturbent le travail.",
+      "development": "Montrer ce choix propre à Nolwenn sans ajouter un diagnostic alimentaire. Trois appuis : signaler au médecin les repas évités ; demander si un avis nutritionnel est utile ; dissocier la réunion budgétaire du repas selon ce qui est discuté avec les soignants. Aucun menu, objectif de poids ou aliment correctif.",
+      "ending": "Elle transmet cette difficulté au suivi et obtient un échange pour adapter l’accompagnement. Inès reprend les additions du budget.",
+      "next": "Le projet garde sa date de dépôt et la première séance d’apprentissage a maintenant une place dans son agenda.",
+      "source_refs": [
+        "oms-cddr",
+        "ueg-esnm-2025"
+      ],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 6,
+      "focus": "Apprendre avec une professionnelle",
+      "scene": "Nolwenn arrive à la séance avec son agenda rempli de retouches de photos. Elle craint qu’on lui demande simplement de se calmer. La professionnelle présente l’apprentissage proposé et vérifie son accord.",
+      "development": "Distinguer soin ciblé et conseil vague. Trois appuis : demander une démonstration encadrée ; signaler ce qui est difficile ou inconfortable ; faire préciser par la professionnelle les consignes personnelles et la façon de la recontacter. Ne décrire ni positions, ni rythme respiratoire, ni gestes internes.",
+      "ending": "Elle repart avec un cadre personnel donné par la spécialiste, puis classe les photos retenues.",
+      "next": "Au suivi suivant, elle pourra parler de ce qui a été possible et de ce qui n’a pas fonctionné.",
+      "source_refs": [
+        "oms-cddr",
+        "aga-rumination-2018"
+      ],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 7,
+      "focus": "Mesurer une réponse sans se juger",
+      "scene": "Nolwenn aimerait montrer au suivi une semaine parfaite. Une journée difficile lui fait hésiter à revenir. Dans le dossier bleu, les images réussies et les essais ratés sont encore mélangés.",
+      "development": "Une réponse partielle se discute sans en déduire un échec personnel. Trois appuis : préparer deux observations utiles selon l’accord de suivi ; poser la question des ajustements disponibles ; demander ce qu’on peut raisonnablement attendre et à quel moment refaire le point. Le biofeedback peut être discuté, sans séance fictive miraculeuse.",
+      "ending": "Elle raconte la journée difficile ; la professionnelle réévalue avec elle la suite. Nolwenn conserve les six images définitives.",
+      "next": "Le plan de l’exposition doit être discuté autour d’une pause avec l’équipe.",
+      "source_refs": [
+        "oms-cddr",
+        "barba-biofeedback-2016"
+      ],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 8,
+      "focus": "Reprendre une place à table",
+      "scene": "Inès propose de regarder le plan pendant le déjeuner. Nolwenn aimerait participer mais ne veut pas que tout le monde surveille ce qu’elle mange. Elle apporte le plan plié plutôt que tout le dossier.",
+      "development": "L’objectif est une participation choisie, pas une épreuve de disparition des remontées. Trois appuis : choisir un moment compatible avec le suivi ; dire à Inès quelle aide elle souhaite ; prévoir la possibilité de partir et de reprendre le travail ensuite. Aucun défi ni évitement alimentaire prescrit.",
+      "ending": "Elle reste un moment, s’absente puis revient pour choisir l’ordre des images. Inès lui parle du plan.",
+      "next": "Alors que cette reprise lui a plu, une gêne différente en avalant la conduit à rappeler le cabinet.",
+      "source_refs": [
+        "oms-cddr",
+        "ueg-esnm-2025"
+      ],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 9,
+      "focus": "Un symptôme nouveau à réévaluer",
+      "scene": "Nolwenn remarque une difficulté nouvelle pour avaler et hésite : faut-il tout ranger sous le diagnostic connu ? Elle interrompt la correction des légendes et contacte son médecin pour décrire ce changement.",
+      "development": "Ne pas faire décider l’origine par le personnage ou sa collègue. Trois appuis : décrire le changement au service de soins ; suivre l’orientation reçue sans attendre le dépôt ; demander à Inès de reporter la relecture. La consultation a lieu dans l’épisode ; le résultat causal n’est pas inventé. En aggravation, utiliser le circuit médical indiqué, sans attendre un exercice.",
+      "ending": "Le médecin réévalue et organise la suite nécessaire ; Nolwenn reçoit des consignes individualisées. Inès décale la relecture.",
+      "next": "L’épisode suivant reprend cette réévaluation et le suivi prévu, sans annoncer que le diagnostic aurait tout expliqué.",
+      "source_refs": [
+        "oms-cddr",
+        "aga-rumination-2018"
+      ],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 10,
+      "focus": "L’inquiétude avant le rendez-vous collectif",
+      "scene": "Après la réévaluation, Nolwenn garde le suivi convenu et prépare la présentation du dossier. Elle imagine la prochaine pause entière autour de ses remontées et oublie presque les images dont elle veut parler.",
+      "development": "Distinguer anticipation vécue et cause démontrée du trouble. Trois appuis : nommer cette inquiétude à la spécialiste ; préparer seulement sa première phrase de présentation ; demander à Inès une relève pour la partie budget. Le groupe ne mène pas d’exposition thérapeutique et ne mesure pas son courage au temps passé à table.",
+      "ending": "Elle répète sa phrase sur les fenêtres, accepte la relève et confirme sa présence avec une marge de sortie.",
+      "next": "La répétition collective suivante ne se déroule pas aussi facilement que l’essai à deux.",
+      "source_refs": [
+        "oms-cddr",
+        "ueg-esnm-2025"
+      ],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 11,
+      "focus": "Des fluctuations malgré les progrès",
+      "scene": "À la répétition, les remontées reviennent alors que Nolwenn se croyait plus à l’aise. Le dossier bleu tombe ouvert ; Inès ramasse les feuilles sans lui dire de recommencer jusqu’à réussir.",
+      "development": "Une journée difficile ne prouve ni faute ni guérison annulée. Trois appuis : reprendre le contact de suivi prévu ; revoir avec l’équipe une organisation réalisable ; garder une tâche qu’elle souhaite mener elle-même. Pas d’arrêt du soin, de traitement renforcé seul ou de stress érigé en cause unique.",
+      "ending": "Elle demande qu’Inès présente le budget, mais garde les images et les légendes. La version finale est assemblée.",
+      "next": "Le dossier peut être déposé ; le moment collectif final reste une invitation et non un examen de santé.",
+      "source_refs": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "aga-rumination-2018"
+      ],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 12,
+      "focus": "Un projet accompli avec le suivi",
+      "scene": "Nolwenn dépose le dossier avec l’équipe. Elle participe ensuite au moment collectif convenu, sans promettre de rester jusqu’à la fin. Inès lui demande quelle fenêtre elle photographierait pour une prochaine exposition.",
+      "development": "Résoudre le projet, préserver l’incertitude clinique. Trois appuis : conserver le prochain contact professionnel ; choisir ce qu’elle veut garder dans l’organisation des pauses ; formuler un nouveau projet sans en faire un objectif de guérison. Ne pas confondre le dossier accepté pour examen avec une exposition déjà autorisée.",
+      "ending": "Le dossier est remis et la petite équipe marque cette étape. Nolwenn choisit une nouvelle photographie à préparer ; les soins se poursuivent.",
+      "next": "Fin de série : dépôt accompli, réponse à la candidature encore attendue, lien collectif repris à sa mesure et suivi maintenu.",
+      "source_refs": [
+        "oms-cddr",
+        "ueg-esnm-2025"
+      ],
+      "diagnostic_stage": "known"
+    }
+  ]
+}

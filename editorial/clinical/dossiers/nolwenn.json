@@ -1,0 +1,56 @@
+{
+  "references": {
+    "oms-mms-6b85": {
+      "title": "OMS, CIM-11 MMS 2026-01, 6B85, Trouble de rumination-régurgitation",
+      "url": "https://icd.who.int/browse/2026-01/mms/fr#1205760590"
+    },
+    "oms-cddr-hrb": {
+      "title": "OMS, CDDR 2024, ISBN 9789240077263, pages 416–418 ; copie du document original dans le dépôt HRB",
+      "url": "https://www.drugsandalcohol.ie/41519/1/WHO_Clinical_descriptions_and_diagnostic_requirements_ICD-11.pdf"
+    },
+    "aga-rumination-2018": {
+      "title": "Halland, Pandolfino et Barba, Diagnosis and Treatment of Rumination Syndrome, AGA Clinical Practice Update, 2018, DOI 10.1016/j.cgh.2018.05.049",
+      "url": "https://www.cghjournal.org/article/S1542-3565(18)30602-5/fulltext"
+    },
+    "ueg-esnm-2025": {
+      "title": "Malagelada et coll., European Guideline on Chronic Nausea and Vomiting, consensus UEG/ESNM 2025, section 4.4, DOI 10.1002/ueg2.12711",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11999049/"
+    },
+    "barba-biofeedback-2016": {
+      "title": "Barba et coll., Randomized, Placebo-Controlled Trial of Biofeedback for the Treatment of Rumination, AJG 2016, PMID 27185077",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27185077/"
+    },
+    "rome-v-b5": {
+      "title": "Rome Foundation, Rome V Criteria, section B5 Rumination Syndrome, page consultée le 7 novembre 2026",
+      "url": "https://theromefoundation.org/rome-v-criteria/"
+    }
+  },
+  "dossier": {
+    "name": "Trouble de rumination-régurgitation",
+    "aliases": [
+      "6B85",
+      "Rumination-regurgitation disorder"
+    ],
+    "references": [
+      "oms-cddr",
+      "oms-mms-6b85",
+      "oms-cddr-hrb",
+      "aga-rumination-2018",
+      "ueg-esnm-2025",
+      "barba-biofeedback-2016",
+      "rome-v-b5"
+    ],
+    "points": [
+      "Verification du 7 novembre 2026 : notice OMS officielle, document OMS intégral obtenu au dépôt public HRB, pages imprimées 416–418 lues ; AGA, conseils 1–6 ; UEG/ESNM, sections 4.4.1–4.4.10 ; essai Barba, résumé PubMed. Le navigateur MMS confirme la version mais la définition française dynamique ne se laisse pas extraire : libellé conservé du canon. Paraphrases françaises de travail, pas traduction officielle.",
+      "CDDR 6B85, p.416–418 : remontées répétées de nourriture, distinctes du vomissement ; exclusion médicale professionnelle. Honte, dissimulation et réticence à consulter peuvent exister. Évolution continue ou épisodique. Le texte emploie intentional ; ne pas le remplacer par toujours involontaire. Ne jamais décrire les gestes inducteurs. Ce terme ne signifie ni faute ni simple choix de guérir. Les pensées répétitives ne sont pas le phénomène décrit.",
+      "Périmètres : le syndrome de rumination étudié en gastroentérologie selon Rome n’est pas automatiquement interchangeable avec le code 6B85. Les sources n’utilisent pas toutes les mêmes critères. UEG/ESNM décrit généralement une réponse peu consciente ; cette différence lexicale doit rester visible dans le dossier sans opposer maladie physique et psychique. Le praticien explique à Nolwenn la formulation retenue ; son expérience ne définit pas tous les cas.",
+      "AGA 2018, conseils 1–6 : anamnèse et bilan médical approprié ; confusion possible avec reflux ou vomissement. Un diagnostic clinique est souvent possible ; examens spécialisés selon indication, sans parcours obligatoire inventé. La respiration diaphragmatique, éventuellement avec biofeedback, relève d’un apprentissage par un praticien compétent. Pas de tutoriel respiratoire dans les articles, aucune cadence, pression, manipulation ou modification médicamenteuse autonome.",
+      "UEG/ESNM 2025, 4.4 : coexistences digestives possibles, hypothèses de mécanismes imparfaitement établies ; associations anxieuses non causales. Suivi nutritionnel individualisé dans les formes sévères. Première ligne comportementale, preuve modérée ; options médicamenteuses de preuve faible réservées au prescripteur. Consensus européen, non protocole français individuel. Les stratégies sociales proposées ici sont des choix narratifs, pas des traitements démontrés.",
+      "Barba 2016 : essai monocentrique, 24 adultes inclus selon Rome III, un abandon ; 12 biofeedback, 11 placebo analysés. Intervention spécialisée et observation brève ; diminution des événements rapportés plus importante sous biofeedback. Résumé seul consulté : ne pas inventer les résultats durables, les événements indésirables ou un taux de guérison. Aucun effet garanti pour Nolwenn et aucune transposition directe à tous les diagnostics 6B85.",
+      "Garde-fous du récit : diagnostic expliqué seulement à l’épisode 3 après évaluation, sans liste de critères ni examens nommés pour faire scientifique. Une difficulté nouvelle de déglutition entraîne une réévaluation ; le trouble connu ne décide pas de sa cause. Pas de défi alimentaire, aliment interdit, restriction conseillée, comptage public, surveillance par une collègue, traitement abandonné ou promesse de guérison. Les soins restent individualisés.",
+      "Architecture des douze aspects : temporalité des remontées ; description utile au bilan ; sens du diagnostic ; honte et secret ; retentissement alimentaire ; apprentissage professionnel ; évaluation de la réponse ; participation sociale ; signes nouveaux ; inquiétude anticipée ; fluctuations ; vie choisie avec suivi. Les trois derniers sont des enjeux de vécu et d’évolution, pas de nouveaux critères. Les trois appuis de chaque épisode servent à demander de l’aide, organiser le quotidien ou dialoguer avec le soignant.",
+      "Actualité des référentiels : la page primaire Rome Foundation présente désormais Rome V, dont la section B5 concerne le syndrome de rumination. Les conseils AGA 2018, le consensus 2025 et les critères Rome III de l’essai sont datés ; ne pas les présenter comme les derniers critères Rome. La série conserve son code CIM-11 canonique, sans fusion de seuils ni remplacement par une grille Rome."
+    ]
+  },
+  "direction": "Nolwenn, 24 ans, apprentie encadreuse, prépare avec son équipe le dossier d’une petite exposition intitulée Les fenêtres de l’atelier. Elle aime les blancs cassés et les légendes très courtes ; son humour sec apparaît quand un titre prend plus de place que l’image. Inès, collègue de confiance, partage le travail, pas la responsabilité du soin. Le médecin et la spécialiste assurent l’évaluation et le suivi ; aucune spécialité supplémentaire ni diagnostic associé n’est inventé. Le dossier cartonné bleu suit la série : choix de six œuvres, photographies, notices, budget, plan puis dépôt. Les remontées ont déjà réduit les repas avec les collègues au début. Nolwenn cherche des mots exacts sans exposer son intimité au groupe. Le diagnostic est expliqué au troisième épisode. L’histoire se déroule sur plusieurs semaines ; elle connaît des essais inégaux, un avis médical pour un symptôme différent, et une reprise collective qu’elle choisit. Le dépôt final résout l’enjeu d’apprentissage ; il ne prouve pas la disparition du trouble. Aucun geste inducteur, exercice respiratoire médical ou régime n’est enseigné au lecteur."
+}

@@ -825,6 +825,417 @@
         "choice": "La retouche est reportée et Aubin choisit de décrire le changement à Camille.",
         "next": "À la maison, Aubin exprime également une incertitude sur une ingestion possible, nécessitant un relais immédiat."
       }
+    },
+    {
+      "number": 9,
+      "slug": "aubin-signaler-ingestion-possible",
+      "title": "Pica : signaler une ingestion possible sans attendre la certitude",
+      "description": "Aubin exprime un doute. Camille appelle immédiatement le centre antipoison et suit les consignes avant de reparler du théâtre.",
+      "context": "À la maison après la séance interrompue",
+      "topics": [
+        "Pica",
+        "Signalement",
+        "Relais médical"
+      ],
+      "clinical_focus": "Signalement précoce d’une ingestion possible",
+      "clinical_intro": "Une ingestion possiblement toxique nécessite un avis immédiat, même sans symptômes. Avec un pica, le doute ne doit pas être réglé par l’enfant ou sa famille seuls. Le proche contacte le centre antipoison, ou les secours médicaux en présence de signes graves, et suit leurs consignes. La discussion sur les activités vient ensuite.",
+      "opening": "« Je ne suis pas sûr de ce qui s’est passé plus tôt. Peut-être que j’ai avalé quelque chose. » Aubin le dit à Camille dans l’entrée, alors qu’ils allaient reparler de la retouche reportée. Camille prend immédiatement son téléphone pour appeler le centre antipoison. Il reste auprès de lui et explique ce qu’il sait, y compris le doute. Il n’attend pas qu’Aubin apporte une certitude ou présente un signe inquiétant pour demander cet avis.\n\nAubin regarde son carnet des choix posé à côté de lui. Il n’y a aucune phrase prévue pour cette conversation. « Tu vas dire que je ne peux plus faire de théâtre ? » Camille lui répond que, maintenant, il faut suivre les indications médicales. La place dans le projet sera discutée ensuite, dans les conditions nécessaires à sa sécurité. Il ne lui promet pas une reprise immédiate pour obtenir davantage de détails.\n\nAu téléphone, Camille distingue ce qu’Aubin rapporte de ce qu’ils ne savent pas. Il répond aux questions utiles, sans inventer les éléments manquants. Le carnet reste fermé. La retouche, la couleur et la date du spectacle n’organisent plus l’ordre des décisions. Aubin peut dire qu’il ne sait pas. Cette incertitude fait partie de l’information transmise ; elle n’est ni une faute à avouer correctement ni une raison de repousser l’appel.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Le doute appartient aussi à l’évaluation médicale",
+          "text": "Les risques physiques associés à une ingestion ne peuvent pas être estimés à partir du seul diagnostic de pica ou de l’apparence de la personne. La possibilité d’une exposition toxique exige un relais sans attendre des symptômes. Dans cette scène, l’appel est réalisé dès le signalement. Camille ne cherche pas à déterminer seul ce qui serait sans danger ; le professionnel interrogé décide de la conduite nécessaire à partir des éléments disponibles."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment une alerte peut-elle se présenter malgré l’incertitude ?",
+          "points": [
+            {
+              "heading": "Un doute suffit à être transmis",
+              "text": "La personne n’a pas à résoudre seule ce qui s’est passé avant de demander une aide médicale.",
+              "examples": [
+                "Aubin dit qu’il n’est pas certain au lieu de construire une réponse rassurante.",
+                "Camille transmet cette incertitude telle quelle pendant l’appel."
+              ]
+            },
+            {
+              "heading": "Le projet peut freiner la parole",
+              "text": "La peur de perdre une activité peut rendre l’annonce difficile ; elle ne doit pas être traitée comme une manipulation.",
+              "examples": [
+                "Aubin demande si le théâtre sera interdit pour toujours.",
+                "Camille distingue les décisions de santé immédiates de la discussion future sur le décor."
+              ]
+            },
+            {
+              "heading": "L’apparence ne tranche pas",
+              "text": "Un échange possible avec l’enfant ne permet pas de conclure à l’absence de risque.",
+              "examples": [
+                "Camille ne prend pas sa capacité à parler comme une garantie médicale.",
+                "Le conseil spécialisé est demandé sans attendre l’apparition de signes."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour transmettre une alerte et passer le relais",
+          "points": [
+            {
+              "heading": "Accueillir l’alerte sans procès",
+              "objective": "Permettre une parole utile sans retarder le relais.",
+              "exercise": [
+                "Dire brièvement que l’information sera prise au sérieux.",
+                "Contacter immédiatement le centre antipoison en cas d’ingestion toxique possible.",
+                "En présence d’une détresse respiratoire ou d’un trouble de conscience, appeler les secours médicaux."
+              ],
+              "benefit": "Un relais précoce permet aux professionnels de décider de la conduite adaptée ; une pause seule ne répond pas à cette situation."
+            },
+            {
+              "heading": "Transmettre ce qui est connu",
+              "objective": "Donner des éléments exacts sans transformer le doute en certitude.",
+              "exercise": [
+                "Exposer la situation et les informations disponibles pendant l’appel.",
+                "Dire clairement ce que l’on ignore au lieu de le deviner.",
+                "Répondre aux questions du professionnel sans retarder l’appel pour compléter un dossier."
+              ],
+              "benefit": "Les informations et leurs limites peuvent guider l’évaluation ; le proche n’a pas à établir lui-même un pronostic."
+            },
+            {
+              "heading": "Appliquer puis organiser la suite",
+              "objective": "Faire passer les consignes reçues avant les décisions sur l’activité.",
+              "exercise": [
+                "Suivre les indications données par le professionnel contacté.",
+                "Ne pas improviser de vomissement provoqué, d’aliment ou de boisson comme traitement.",
+                "Organiser le suivi demandé avant de discuter d’une reprise."
+              ],
+              "benefit": "La continuité de la réponse médicale évite qu’un soulagement ou une promesse sur le théâtre remplace les soins nécessaires."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Le téléphone avant le calendrier",
+      "ending": "Le conseil médical est obtenu et Camille applique les consignes reçues, puis organise le suivi demandé. Le récit ne permet pas d’en déduire un produit, un examen ou un pronostic. Camille remercie Aubin de l’avoir averti, sans associer cette parole à une récompense ni à une sanction sur le théâtre. La question des nuages reste ouverte. Avant toute nouvelle date de retouche, il faudra reprendre avec les adultes concernés les conditions de participation compatibles avec ces consignes.",
+      "conclusion": "Une incertitude sur une ingestion possible appelle un relais médical, pas une enquête familiale préalable. Aubin a pu signaler son doute et Camille a agi immédiatement. La suite du projet dépend des consignes reçues, sans que la peur de le perdre décide de la sécurité.",
+      "mirror": [
+        "Camille peut dire : « Tu as bien fait de me prévenir ; je demande maintenant quoi faire. » Cette phrase accueille l’alerte sans promettre que tout va bien. Une collecte d’informations ne doit pas retarder l’appel. Les proches suivent les consignes professionnelles ; ils ne proposent pas de solution maison et ne cherchent pas à obtenir un récit parfait avant de prendre le doute au sérieux."
+      ],
+      "sources": [
+        "oms-cddr",
+        "cap-premiers-secours",
+        "ameli-intoxication"
+      ],
+      "continuity": {
+        "choice": "Camille appelle immédiatement le centre antipoison, suit les consignes et organise le suivi demandé.",
+        "next": "Après ce relais, une réunion avec Mme Legrand et Aubin préparera une reprise uniquement selon les consignes reçues."
+      }
+    },
+    {
+      "number": 10,
+      "slug": "aubin-coordination-apres-alerte",
+      "title": "Pica : coordonner la reprise après une alerte",
+      "description": "Après le relais médical, les adultes préparent une reprise selon les consignes reçues, avec un remplacement prévu et un partage limité.",
+      "context": "À la réunion préparant la reprise",
+      "topics": [
+        "Pica",
+        "Coordination",
+        "Reprise accompagnée"
+      ],
+      "clinical_focus": "Coordination après une alerte",
+      "clinical_intro": "Après une alerte liée à une ingestion possible, la reprise d’une activité dépend des consignes professionnelles reçues. Elle demande aussi une coordination concrète des adultes : préparation du lieu, disponibilité et partage des informations utiles. L’apparence rassurante de l’enfant ne remplace pas ce relais, et ses camarades n’ont pas besoin d’un compte rendu médical.",
+      "opening": "Le relais médical a eu lieu et Camille a suivi les consignes reçues. La réunion avec Mme Legrand se tient ensuite, avec Aubin, pour préparer ce qui peut reprendre dans ce cadre. Le carnet des choix est au milieu de la table. Personne n’a encore réinscrit la retouche au calendrier. Aubin trouve cela prudent, puis agaçant, puis prudent de nouveau quand il pense au moment où il a dû parler à la maison.\n\nMme Legrand lui demande d’abord si le nuage gris perle reste son projet. Il répond oui, trop vite. « Il n’a pas eu le temps de changer de couleur tout seul. » Camille sourit, mais ne prend pas cette plaisanterie comme une preuve que toute question de santé est réglée. Les adultes reprennent les informations nécessaires à l’organisation et disent à Aubin à qui elles doivent être communiquées.\n\nIl demande si les autres sauront ce qu’il a raconté. L’enseignante précise qu’ils auront besoin de connaître les nouveaux temps de travail, pas les détails de l’alerte. Puis elle regarde le calendrier de répétition : elle devra s’occuper des acteurs à certains moments. Aubin relève les yeux. Le mot « entracte » n’aura d’utilité que si quelqu’un peut vraiment l’entendre. Cette fois, la réunion doit résoudre aussi ce qui se passera quand Mme Legrand ne pourra pas rester auprès de lui.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Coordonner signifie rendre les appuis utilisables",
+          "text": "Après une situation potentiellement dangereuse, la protection repose sur les consignes médicales et leur traduction dans l’activité. Une reprise ne prouve pas rétrospectivement que le risque était faible. Pour Aubin, la coordination précise qui prépare le poste, qui répond au signal et qui assure le remplacement. Les échanges utiles sont expliqués à l’enfant, sans divulgation au groupe ni promesse de secret qui empêcherait sa sécurité."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment les besoins de coordination deviennent-ils visibles ?",
+          "points": [
+            {
+              "heading": "La reprise dépend du relais",
+              "text": "Le retour à une activité ne peut pas être décidé sur le seul désir de finir ou sur une impression visuelle.",
+              "examples": [
+                "Camille reprend les consignes reçues avant de proposer une date.",
+                "Mme Legrand ne déduit pas qu’Aubin va bien parce qu’il parle de couleurs."
+              ]
+            },
+            {
+              "heading": "La confidentialité demande une organisation",
+              "text": "Partager les besoins de sécurité ne signifie pas raconter toute l’alerte au groupe.",
+              "examples": [
+                "L’échange se déroule avec Aubin hors de l’atelier collectif.",
+                "Les camarades recevront les informations de calendrier, pas un compte rendu médical."
+              ]
+            },
+            {
+              "heading": "Une personne peut être indisponible",
+              "text": "Un plan qui dépend d’un seul adulte devient fragile dès qu’il doit s’occuper d’une autre tâche.",
+              "examples": [
+                "Mme Legrand devra aussi diriger les acteurs à la répétition.",
+                "Un adulte de remplacement est identifié avant la reprise."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour préparer une reprise coordonnée",
+          "points": [
+            {
+              "heading": "Repartir des consignes reçues",
+              "objective": "Ancrer la reprise dans le relais médical réellement effectué.",
+              "exercise": [
+                "Réunir les adultes concernés après la réponse professionnelle.",
+                "Vérifier les consignes utiles à l’activité et faire clarifier les points incertains.",
+                "Fixer la reprise seulement dans les conditions compatibles avec ces indications."
+              ],
+              "benefit": "Cette démarche évite qu’une apparence rassurante ou une échéance artistique décide seule de la suite."
+            },
+            {
+              "heading": "Expliquer le partage à l’enfant",
+              "objective": "Maintenir son information sans lui transférer la responsabilité de sécurité.",
+              "exercise": [
+                "Nommer les interlocuteurs qui doivent connaître les besoins utiles.",
+                "Dire à l’enfant ce qui leur sera transmis et pour quelle raison.",
+                "Préserver les autres détails des échanges avec le groupe."
+              ],
+              "benefit": "L’enfant peut comprendre la circulation nécessaire des informations sans devoir gérer lui-même un secret médical."
+            },
+            {
+              "heading": "Prévoir un remplacement réel",
+              "objective": "Rendre l’aide disponible au-delà d’une seule personne.",
+              "exercise": [
+                "Identifier un adulte de relais avec les responsables du projet.",
+                "Lui transmettre les consignes utiles et la signification du signal convenu.",
+                "Expliquer à l’enfant où le joindre et quoi faire si l’organisation prévue manque."
+              ],
+              "benefit": "Une disponibilité préparée peut rendre la reprise plus solide ; un nom écrit ne suffit pas si l’adulte n’est pas réellement présent."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Un relais inscrit avant la date",
+      "ending": "Avec les interlocuteurs compétents, une modalité de reprise est convenue selon les consignes reçues. Mme Legrand identifie l’adulte qui pourra prendre le relais pendant qu’elle dirigera les acteurs ; il reçoit les informations utiles. Aubin sait où le rejoindre et conserve le mot « entracte ». Alors seulement, la retouche retrouve une place dans le calendrier. Le nuage lui reste confié. À la prochaine répétition, ce remplacement devra exister dans la salle, pas seulement sur la feuille.",
+      "conclusion": "La reprise après une alerte se prépare à partir du relais médical et des conditions réelles de l’activité. Aubin retrouve une date et un adulte de remplacement, tout en gardant son intimité. Cette organisation reste révisable si les besoins changent.",
+      "mirror": [
+        "Camille peut annoncer à Aubin : « Nous allons transmettre ce qui permet de t’aider ici, et t’expliquer à qui. » Mme Legrand peut ensuite vérifier le remplacement avant de parler d’horaires. Les proches n’ont pas à rassurer le groupe par un récit détaillé. Leur rôle est de rendre les consignes applicables et de demander une clarification professionnelle lorsqu’un point reste incertain."
+      ],
+      "sources": [
+        "oms-cddr",
+        "cap-premiers-secours",
+        "nhft-pica"
+      ],
+      "continuity": {
+        "choice": "La reprise est convenue selon les consignes, avec un adulte de remplacement informé ; les nuages restent à Aubin.",
+        "next": "Lors de la répétition, Mme Legrand sera occupée et le relais prévu devra répondre concrètement au signal."
+      }
+    },
+    {
+      "number": 11,
+      "slug": "aubin-autonomie-et-appui",
+      "title": "Pica : soutenir l’autonomie sans surveillance publique",
+      "description": "Le relais adulte répond au signal pendant la répétition. Aubin peut participer et choisir ce qu’il raconte de son suivi.",
+      "context": "À la répétition avec l’adulte de relais",
+      "topics": [
+        "Pica",
+        "Autonomie soutenue",
+        "Discrétion"
+      ],
+      "clinical_focus": "Autonomie soutenue plutôt que surveillance publique",
+      "clinical_intro": "L’autonomie avec un pica ne signifie pas devoir contrôler seul chaque risque. Elle peut prendre la forme de choix et d’initiatives soutenus par des adultes disponibles. Une aide discrète conserve des responsabilités claires : l’enfant peut demander, participer et limiter ce qu’il raconte, tandis que les adultes assurent la protection et les relais nécessaires.",
+      "opening": "Mme Legrand recommence une entrée avec les acteurs. Elle leur demande de regarder la salle avant de parler, puis de recommencer encore parce que personne n’a attendu le bon moment. Aubin sourit : les nuages, au moins, n’oublient pas leur texte. Il est venu pour la retouche, dans les conditions convenues après le relais médical et la réunion de reprise. L’adulte de remplacement est là, à l’endroit qui lui a été indiqué.\n\nQuand Aubin sent qu’il doit interrompre son travail, il ne cherche pas Mme Legrand au milieu des acteurs. Il rejoint cet adulte et dit « entracte ». La réponse est brève. Ils se rendent dans l’espace préparé et l’adulte reste disponible auprès de lui. Personne n’annonce à la salle qu’Aubin a encore besoin d’aide. Inès continue de vérifier le plan, sans recevoir de consigne de surveillance.\n\nAubin demande plus tard s’il peut reparler de l’ombre avec elle. L’adulte reprend avec lui les conditions prévues pour la suite de la séance. Le nuage n’est pas une récompense promise pour une pause réussie. C’est un travail à poursuivre lorsque les conditions le permettent. Derrière eux, un acteur se trompe de côté et fait rire le groupe. Aubin tourne la tête : pour une fois, l’interruption que tout le monde commente ne le concerne pas.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Des choix personnels dans une protection portée par les adultes",
+          "text": "Le soutien à l’autonomie doit être distingué d’une suppression de l’aide ou d’une garantie de contrôle permanent. Dans cette scène, Aubin choisit de signaler sa difficulté, mais les adultes ont préparé l’espace et le remplacement. Leurs responsabilités ne sont pas transférées à Inès. La protection environnementale reste un appui préventif distinct du soin, même lorsque la séance permet ensuite une contribution artistique."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment une autonomie soutenue se manifeste-t-elle ?",
+          "points": [
+            {
+              "heading": "Une initiative appuyée",
+              "text": "L’enfant peut utiliser un moyen de demande choisi sans porter seul la prévention.",
+              "examples": [
+                "Aubin rejoint l’adulte prévu lorsqu’il a besoin d’un entracte.",
+                "Cet adulte connaît déjà la réponse attendue et ne demande pas une présentation du suivi."
+              ]
+            },
+            {
+              "heading": "La discrétion n’est pas l’absence",
+              "text": "Une aide peut être peu visible pour le groupe tout en restant concrète et accessible.",
+              "examples": [
+                "Mme Legrand s’occupe des acteurs pendant que le relais reste disponible.",
+                "Inès poursuit le projet sans devoir observer ou signaler les conduites d’Aubin."
+              ]
+            },
+            {
+              "heading": "Le droit de limiter le récit",
+              "text": "Pouvoir contribuer ne crée pas une obligation de raconter sa santé à tous.",
+              "examples": [
+                "Aubin peut décliner une question collective sur son suivi.",
+                "La signature du plan désigne son travail artistique, pas une réussite thérapeutique."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour rendre l’aide discrète et disponible",
+          "points": [
+            {
+              "heading": "Vérifier la disponibilité annoncée",
+              "objective": "Faire de l’aide prévue une présence réelle.",
+              "exercise": [
+                "Confirmer avec l’adulte responsable qui assure le relais aujourd’hui.",
+                "Montrer à l’enfant où se trouve cette personne.",
+                "Adapter ou différer l’activité si l’appui prévu est absent."
+              ],
+              "benefit": "Cette vérification peut éviter qu’un signal convenu reste sans réponse, sans demander à l’enfant de surveiller l’organisation."
+            },
+            {
+              "heading": "Accueillir le signal sans cérémonie",
+              "objective": "Répondre à la demande sans exposer l’enfant au regard du groupe.",
+              "exercise": [
+                "Reconnaître brièvement le mot convenu.",
+                "Mettre en œuvre l’accompagnement prévu avec l’adulte disponible.",
+                "Laisser les explications plus longues au cadre approprié, tout en transmettant immédiatement un risque éventuel."
+              ],
+              "benefit": "La demande peut devenir moins coûteuse socialement ; la discrétion ne doit jamais retarder une réponse médicale nécessaire."
+            },
+            {
+              "heading": "Reconnaître la contribution choisie",
+              "objective": "Distinguer le plaisir du travail d’une récompense pour absence de difficulté.",
+              "exercise": [
+                "Demander à l’enfant ce qu’il souhaite montrer de son travail.",
+                "Nommer une décision artistique concrète qu’il a prise.",
+                "Respecter son choix de ne pas raconter son suivi au groupe."
+              ],
+              "benefit": "La reconnaissance peut porter sur le projet réalisé, sans mesurer les envies ni conditionner la participation à leur disparition."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Deux signatures sous le ciel",
+      "ending": "Aubin achève la retouche dans les conditions convenues. Le bas du nuage retrouve la densité qu’il cherchait, et Inès accepte de laisser le sommet plus léger. Quand un camarade lui demande de raconter devant les autres ce qui avait été organisé pour lui, il répond poliment qu’il préfère parler du décor. L’adulte soutient cette limite. Inès et lui signent le plan du ciel. Ils ont encore des avis différents sur les arbres, mais le travail commun est prêt pour la représentation.",
+      "conclusion": "L’autonomie peut s’exercer avec des appuis réels, sans surveillance publique ni exigence de contrôle parfait. Aubin utilise le relais prévu, termine sa retouche et choisit de parler du décor. Le suivi continue indépendamment de cette contribution réussie.",
+      "mirror": [
+        "Mme Legrand peut vérifier le relais avant de rejoindre les acteurs, plutôt que demander à Inès de garder un œil sur Aubin. Si le groupe pose des questions, un adulte peut dire : « Il choisit ce qu’il veut raconter ; regardons le travail qu’ils ont fait. » Reconnaître l’ombre et les deux signatures permet de valoriser une contribution concrète sans féliciter une absence supposée d’envie."
+      ],
+      "sources": [
+        "oms-cddr",
+        "nhft-pica",
+        "thomas-oconnor-2023"
+      ],
+      "continuity": {
+        "choice": "Aubin utilise le relais, termine la retouche et limite son récit public ; Inès et lui signent le plan.",
+        "next": "Le spectacle peut avoir lieu avec les appuis prévus ; Aubin devra décider de sa participation au projet suivant."
+      }
+    },
+    {
+      "number": 12,
+      "slug": "aubin-participation-durable",
+      "title": "Pica : réussir un projet tout en gardant les appuis nécessaires",
+      "description": "Le ciel gris perle existe enfin sur scène. La fin du spectacle célèbre une participation, sans certifier la disparition du pica.",
+      "context": "Le soir de la représentation",
+      "topics": [
+        "Pica",
+        "Participation durable",
+        "Suivi"
+      ],
+      "clinical_focus": "Participation durable et évolution ouverte",
+      "clinical_intro": "Terminer un projet avec un pica ne démontre pas la disparition du trouble. La participation, le plaisir et l’évolution clinique sont des dimensions différentes. Reconnaître une réalisation tout en conservant les appuis nécessaires permet de préparer la suite sans transformer une soirée réussie ou des applaudissements en certificat de guérison.",
+      "opening": "Le ciel s’allume avant l’entrée des acteurs. Depuis l’emplacement convenu, Aubin voit enfin ce que la retouche a changé. Le bas du nuage tient dans la lumière ; le sommet reste assez léger. Il cherche Inès du regard et lui adresse un signe bref. Elle hausse les sourcils vers le grand contour qu’il avait appelé une montagne. Sous les projecteurs, il ressemble plutôt à un nuage. Aubin ne le dira pas immédiatement.\n\nLes adultes disponibles ont été identifiés avant la représentation. Le mot « entracte » garde sa place dans l’organisation, même si ce soir il appartient aussi au programme du théâtre. Camille est là. Mme Legrand n’a pas demandé à Aubin de promettre une soirée sans difficulté pour venir regarder le travail. Il sait à qui s’adresser et où se rendre avec l’adulte si nécessaire.\n\nQuand les acteurs commencent, il entend les premières répliques, mais regarde encore le ciel. Il se rappelle le carnet fermé, le gris trop clair et la date déplacée. Ces moments ne disparaissent pas parce que la salle est pleine. Ils ne l’empêchent pas non plus de trouver le décor beau. Il a contribué à quelque chose qui existe devant les autres. Ce n’est pas son suivi que le public regarde ; c’est une pièce avec un ciel gris perle.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Une réalisation n’est pas un verdict clinique",
+          "text": "Le retentissement d’un trouble et la participation à la vie quotidienne peuvent évoluer sans que tous les besoins de soin disparaissent. Le pica peut connaître des fluctuations ; une soirée ne permet pas d’en fixer l’avenir. Ici, le spectacle ferme un enjeu concret : Aubin a peint ses nuages et pris part au projet. Le maintien des rendez-vous et des protections se discute dans le suivi, indépendamment des applaudissements."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment reconnaître la participation sans conclure à la guérison ?",
+          "points": [
+            {
+              "heading": "Une réussite dans un domaine",
+              "text": "La réalisation du projet dit quelque chose de la participation, pas de l’ensemble de l’évolution clinique.",
+              "examples": [
+                "Le ciel est visible pendant la représentation.",
+                "La satisfaction d’Aubin ne sert pas à conclure que les envies ont disparu."
+              ]
+            },
+            {
+              "heading": "Des appuis qui continuent",
+              "text": "Une activité réussie ne rend pas automatiquement inutiles les conditions qui l’ont rendue possible.",
+              "examples": [
+                "Les adultes restent disponibles le soir du spectacle.",
+                "Camille conserve les rendez-vous de suivi après la représentation."
+              ]
+            },
+            {
+              "heading": "Un avenir personnel ouvert",
+              "text": "L’enfant peut avoir des envies nouvelles qui ne se résument pas à son trouble.",
+              "examples": [
+                "Aubin imagine un paysage pour un prochain décor.",
+                "Il demande une aide discrète révisable plutôt qu’une promesse de ne plus en avoir besoin."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour préparer une participation durable",
+          "points": [
+            {
+              "heading": "Faire deux bilans distincts",
+              "objective": "Reconnaître le projet sans en tirer un verdict sur le pica.",
+              "exercise": [
+                "Demander ce que l’enfant a aimé ou réussi dans l’activité.",
+                "Reprendre séparément les difficultés et besoins à transmettre au suivi.",
+                "Éviter de faire d’une absence d’incident observé une preuve de guérison."
+              ],
+              "benefit": "Deux conversations distinctes peuvent préserver la joie du travail accompli et la réalité des besoins de santé."
+            },
+            {
+              "heading": "Préparer la continuité des appuis",
+              "objective": "Ne pas perdre l’organisation utile quand un projet se termine.",
+              "exercise": [
+                "Identifier les responsables du prochain cadre de participation.",
+                "Partager avec eux seulement les informations nécessaires, en l’expliquant à l’enfant.",
+                "Réviser les modalités avec les interlocuteurs compétents avant la nouvelle activité."
+              ],
+              "benefit": "Une transmission limitée et préparée peut soutenir le prochain projet sans transformer le passé en garantie automatique."
+            },
+            {
+              "heading": "Garder un choix pour la suite",
+              "objective": "Laisser l’enfant se projeter sans obligation de prouver une amélioration.",
+              "exercise": [
+                "Lui demander s’il souhaite rejoindre une autre activité.",
+                "Écouter ce qu’il voudrait y faire et l’aide dont il souhaite discuter.",
+                "Distinguer ce choix du maintien du suivi et des protections nécessaires."
+              ],
+              "benefit": "Une perspective personnelle peut rester ouverte même si l’évolution du trouble demeure incertaine."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Le prochain paysage",
+      "ending": "Après la représentation, Aubin dit à Inès que son grand contour était finalement un nuage. Elle lui demande de l’écrire dans le carnet pour garder une preuve. Il rit et ajoute plutôt une idée de paysage pour le prochain projet. Il décide d’y participer en conservant une aide discrète, à revoir avec les adultes selon les besoins. Camille garde les rendez-vous prévus. Mme Legrand transmettra seulement les informations utiles à la prochaine équipe. Le ciel de cette pièce est terminé ; Aubin, lui, a encore des couleurs à choisir.",
+      "conclusion": "La représentation accomplit le projet d’Aubin sans clore son suivi. Sa participation peut être reconnue pour elle-même, avec les aides qui restent nécessaires. La suite demeure ouverte : d’autres paysages, des choix personnels et une organisation à réviser avec les adultes compétents.",
+      "mirror": [
+        "Camille peut demander : « Quelle partie du ciel préfères-tu maintenant ? » avant de transformer la soirée en bilan de santé. Les rendez-vous restent maintenus et les besoins se discutent dans leur cadre. Mme Legrand peut reconnaître le travail des deux camarades sans raconter le parcours médical au public. Célébrer le décor n’oblige personne à annoncer que le pica est derrière eux."
+      ],
+      "sources": [
+        "oms-cddr",
+        "nhft-pica"
+      ],
+      "continuity": {
+        "choice": "Aubin décide de rejoindre le prochain projet avec une aide discrète révisable ; les rendez-vous sont conservés.",
+        "next": "Le spectacle et sa contribution sont accomplis ; les futurs paysages restent ouverts avec le suivi et la transmission utile à poursuivre."
+      }
     }
   ]
 }
