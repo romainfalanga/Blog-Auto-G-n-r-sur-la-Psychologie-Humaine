@@ -1,0 +1,124 @@
+{
+  "schema_version": 1,
+  "character_id": "aubin",
+  "reviewer": "review_aubin",
+  "reviewed_on": "2026-11-07",
+  "summary": "Lecture indépendante intégrale des douze épisodes, de leurs exemples, démarches, conclusions et conseils aux proches, comparée au canon, au plan, à la charte et au modèle. Vérification des CDDR OMS p.414–416 dans le PDF original accessible via le dépôt HRB ; consultation des sections pertinentes NHFT, des consignes françaises CAP et Ameli, et du résumé primaire de Thomas et O’Connor avec sa publication PDF indexée. Les douze aspects suivent une progression distincte du vécu de l’envie jusqu’à la participation, sans nouveau diagnostic ni protocole thérapeutique inventé. Les raccords du décor sont continus, les carences sont traitées avec la nuance du référentiel, et l’alerte de l’épisode 9 obtient un relais immédiat avant une reprise conditionnée. Les proches restent dans leur rôle, sans surveillance confiée à Inès ni exposition publique du suivi. Aucune correction bloquante relevée. Cette relecture éditoriale accepte ces fichiers précis ; elle ne constitue ni une validation clinique individuelle ni une preuve d’efficacité des adaptations narratives.",
+  "files": {
+    "editorial/clinical/designs/aubin.json": "2e603abdda52c4b662f418ea7ed80ca21b202e6917b904735531a2918cb98601",
+    "editorial/clinical/dossiers/aubin.json": "e2ec4cc9b8e4c10cbb677a12d2261ade939dbf0af6c5fe148dbbf4959959e100",
+    "editorial/clinical/aubin.json": "67e72e71cb7249b46010f86ccf20dafd3a871ac32529074271a54a514a56d3e5"
+  },
+  "status": "passed",
+  "findings": [],
+  "episode_checks": [
+    {
+      "number": 1,
+      "focus": "Envie persistante malgré la compréhension",
+      "opening_quote": "Le gris ressemble encore à une couverture. Aubin le regarde depuis sa place, à côté du panneau où le ciel du spectacle prendra forme. Il voudrait un gris perle, assez léger pour que les acteurs aient l’air de marcher dehors. À douze ans, il sait déjà qu’un nuage peint trop bas ressemble à une montagne. Il l’explique à Inès, qui préfère les grands contours. Elle lui répond qu’on pourra discuter des montagnes après avoir fini le fond.",
+      "ending_quote": "Mme Legrand montre à Aubin le calendrier du décor.",
+      "continuity_note": "Le mélange gris perle interrompu lance le projet ; les nuages restent confiés à Aubin et la demande de phrase courte conduit à la venue de Camille.",
+      "clinical_note": "Le diagnostic et le bilan précèdent bien la scène. La connaissance des règles ne devient pas une garantie de maîtrise ; la pause est explicitement distinguée du relais en cas de suspicion d’ingestion.",
+      "relatives_note": "Mme Legrand accueille le « je sais » et reste présente ; Camille reprend la demande sans multiplier les interrogatoires. La responsabilité de sécurité ne repose pas sur l’enfant."
+    },
+    {
+      "number": 2,
+      "focus": "Honte et confidentialité de l’aide",
+      "opening_quote": "Camille arrive avec quelques minutes d’avance. Aubin attend près du décor, son carnet ouvert sur trois essais de ciel. Il a entouré le gris du milieu. À côté, il a écrit « pas une couverture », pour rappeler à Mme Legrand ce qu’il veut changer. Leur discussion doit servir à trouver la phrase courte demandée après le premier atelier. Il espère qu’elle prendra moins de temps que le choix des costumes.",
+      "ending_quote": "Aubin choisit « entracte ».",
+      "continuity_note": "La venue de Camille reprend la fin précédente ; le carnet fermé motive le passage à un échange privé, puis le signal entracte est adopté avant le suivi médical.",
+      "clinical_note": "La honte est présentée comme le vécu situé d’Aubin, non comme un critère universel. Le partage nécessaire à la sécurité est distingué de la divulgation au groupe.",
+      "relatives_note": "La phrase proposée à Camille déplace les questions à l’écart sans reprocher leur inquiétude aux adultes ; aucune promesse de secret incompatible avec les soins."
+    },
+    {
+      "number": 3,
+      "focus": "Carences et bilan individualisé",
+      "opening_quote": "Dans la salle d’attente, Aubin compare le mur au gris de son carnet. Trop jaune. Il le dit à Camille, qui sourit puis relit les questions préparées pour la médecin. Ce rendez-vous était prévu avant la discussion avec Mme Legrand. Le diagnostic de pica et l’évaluation initiale sont déjà derrière eux ; aujourd’hui, il s’agit de poursuivre le suivi et de parler du théâtre.",
+      "ending_quote": "Aubin demande finalement si Mme Legrand doit connaître tout ce qu’ils viennent de dire.",
+      "continuity_note": "Le rendez-vous reste un suivi prévu et non un premier diagnostic. Le carnet et la gêne publique passent dans la consultation ; l’organisation du poste fournit le raccord suivant.",
+      "clinical_note": "La carence entièrement causale est distinguée d’une conduite persistante après correction, conformément aux CDDR p.416. Aucun résultat biologique, complément ni changement de menu n’est prescrit ou inventé.",
+      "relatives_note": "Camille peut demander ce qui est établi pour Aubin, puis le laisser parler ; les proches ne sont chargés ni de diagnostiquer une carence ni d’expérimenter une correction alimentaire."
+    },
+    {
+      "number": 4,
+      "focus": "Danger et apparence anodine",
+      "opening_quote": "Mme Legrand a gardé deux places possibles pour Aubin. Elles ont été préparées après les échanges utiles avec Camille, sans que l’enseignante reçoive le récit entier de la consultation. Depuis la première, on voit surtout le mur. Depuis la seconde, on aperçoit Inès et le haut du décor. Aubin choisit la seconde avant même qu’on lui demande pourquoi. « Si elle agrandit encore sa montagne, je pourrai protester. »",
+      "ending_quote": "Aubin retient la place qui donne sur le décor commun.",
+      "continuity_note": "Les deux postes font suite aux échanges avec la médecin ; le choix de voir Inès préserve la coopération. Le contour du nuage conduit au séchage de l’épisode suivant.",
+      "clinical_note": "Adaptation pour peindre et consommation sont explicitement distinguées. La prévention est séparée du traitement, sans garantie de risque nul, substance cible ni épreuve de résistance.",
+      "relatives_note": "La réponse à la demande de risque nul reste précise et limitée. Les adultes maintiennent les protections sans démonstration dangereuse destinée à convaincre Aubin."
+    },
+    {
+      "number": 5,
+      "focus": "Fluctuations selon les temps d’attente",
+      "opening_quote": "Le fond doit sécher. Aubin regarde Mme Legrand expliquer cette évidence à un groupe qui voudrait déjà ajouter les arbres. Au début de la séance, il avait une place, une couleur et un contour à défendre. Maintenant, son nuage n’a besoin de rien. Il observe Inès qui compare les tailles sur leur plan commun, puis le panneau qui ne semble pas changer d’une minute à l’autre.",
+      "ending_quote": "Aubin dicte à Mme Legrand trois indications pour les ombres.",
+      "continuity_note": "Le fond sèche comme annoncé ; le signal entracte déjà convenu est utilisé, et les ombres dictées produisent le malentendu d’Inès sur la tâche commune.",
+      "clinical_note": "La fluctuation est documentée mais aucune causalité universelle de l’ennui ou efficacité thérapeutique de l’occupation n’est affirmée. Observation après protection, sans provoquer une nouvelle situation pour tester.",
+      "relatives_note": "La réponse à « tout à l’heure ça allait » accueille le besoin présent. La transmission à Camille ne transforme pas une observation en règle familiale ni la séance en mesure de performance."
+    },
+    {
+      "number": 6,
+      "focus": "Retentissement sur la coopération",
+      "opening_quote": "Le nuage est plus bas. Aubin le voit sur le dessin avant qu’Inès commence son explication. Pendant qu’il décrivait les ombres à Mme Legrand, elle a déplacé leur repère pour faire avancer le décor. Elle pensait qu’il avait choisi une autre tâche. Lui pensait qu’une pause laissait sa partie intacte jusqu’à leur prochaine discussion. Aucun des deux n’avait formulé cette règle.",
+      "ending_quote": "Aubin propose de noter quand ils travailleront ensemble et ce qui devra attendre leur avis commun.",
+      "continuity_note": "Le déplacement du nuage reprend directement la fin précédente. Le désaccord mène à un calendrier et à la visite sous les projecteurs, sans disparition soudaine du conflit artistique.",
+      "clinical_note": "L’épisode montre un retentissement social distinct de l’envie ; il n’ajoute pas de symptôme ni n’explique toutes les préférences par le pica. Les appuis portent sur la coopération et la communication.",
+      "relatives_note": "L’enseignante demande ce que chacun avait prévu au lieu de divulguer le diagnostic. Inès reste camarade ; les exigences de sécurité sont expressément maintenues côté adultes."
+    },
+    {
+      "number": 7,
+      "focus": "Sécurité dans un nouvel environnement",
+      "opening_quote": "La porte de la salle est ouverte, mais Mme Legrand demande à Aubin d’attendre avec elle dans l’espace prévu. Au-delà, il aperçoit déjà le décor déplacé pour la répétition. Le ciel paraît immense. Il n’avait pas compris, sur leur dessin, combien les nuages monteraient au-dessus des acteurs. Inès veut savoir si son grand contour ressemble encore à une montagne. Aubin répond qu’il lui faut les projecteurs pour décider.",
+      "ending_quote": "La préparation terminée, Mme Legrand confirme l’accompagnement prévu et fait entrer Aubin avec le groupe.",
+      "continuity_note": "La visite prévue au calendrier attend une préparation adulte ; l’observation du gris trop clair sous les projecteurs motive concrètement la retouche du lendemain.",
+      "clinical_note": "La petite étude de trois familles est nommée avec son contexte neurodéveloppemental et sa limite de transfert. Seule la vérification adulte est retenue : pas d’appât, de test d’Aubin ni de preuve de guérison.",
+      "relatives_note": "Le délai est expliqué comme une responsabilité des adultes, et non une sanction. Inès n’a pas à inspecter la salle ; elle conserve son rôle dans la discussion du gris."
+    },
+    {
+      "number": 8,
+      "focus": "Recrudescence sans faute personnelle",
+      "opening_quote": "Aubin arrive avec une décision précise : il faut assombrir le bas du nuage. La visite de la veille l’a convaincu que le gris perle disparaît sous les projecteurs. Il montre à Mme Legrand la petite flèche ajoutée dans son carnet, puis demande si la retouche pourra être terminée avant la fin de la séance. Inès a gardé libre la partie haute, comme ils l’avaient convenu.",
+      "ending_quote": "Mme Legrand reporte la retouche et confirme que les nuages restent confiés à Aubin.",
+      "continuity_note": "La retouche annoncée rencontre une envie plus forte ; la date est déplacée dans le carnet. L’incertitude encore non formulée prépare l’alerte à domicile sans faire de l’enseignante une personne informée qui aurait attendu.",
+      "clinical_note": "L’évolution variable n’est pas assimilée à un manque de volonté ni attribuée automatiquement au trac. La protection est maintenue, le changement transmis et tout doute d’ingestion doit être signalé immédiatement.",
+      "relatives_note": "Camille peut reconnaître la participation antérieure et la difficulté du jour sans exiger un discours de progrès. La date du spectacle ne devient pas une obligation de contrôle."
+    },
+    {
+      "number": 9,
+      "focus": "Signalement précoce d’une ingestion possible",
+      "opening_quote": "« Je ne suis pas sûr de ce qui s’est passé plus tôt. Peut-être que j’ai avalé quelque chose. » Aubin le dit à Camille dans l’entrée, alors qu’ils allaient reparler de la retouche reportée. Camille prend immédiatement son téléphone pour appeler le centre antipoison. Il reste auprès de lui et explique ce qu’il sait, y compris le doute. Il n’attend pas qu’Aubin apporte une certitude ou présente un signe inquiétant pour demander cet avis.",
+      "ending_quote": "Le conseil médical est obtenu et Camille applique les consignes reçues, puis organise le suivi demandé.",
+      "continuity_note": "L’alerte est exprimée à l’entrée de la maison après la séance interrompue. L’appel commence dès le premier paragraphe ; la fin ferme le relais médical et laisse la retouche conditionnée aux consignes.",
+      "clinical_note": "Consignes CAP et Ameli cohérentes : avis immédiat sans attendre certitude ou symptômes, secours médicaux pour trouble de conscience ou détresse respiratoire, aucune solution maison. Produit, geste d’ingestion et pronostic restent hors champ.",
+      "relatives_note": "Camille accueille le doute sans promesse de reprise, récompense ou sanction. La rubrique précise que la collecte des informations ne retarde pas l’appel et que le récit n’a pas à être parfait."
+    },
+    {
+      "number": 10,
+      "focus": "Coordination après une alerte",
+      "opening_quote": "Le relais médical a eu lieu et Camille a suivi les consignes reçues. La réunion avec Mme Legrand se tient ensuite, avec Aubin, pour préparer ce qui peut reprendre dans ce cadre. Le carnet des choix est au milieu de la table. Personne n’a encore réinscrit la retouche au calendrier. Aubin trouve cela prudent, puis agaçant, puis prudent de nouveau quand il pense au moment où il a dû parler à la maison.",
+      "ending_quote": "Avec les interlocuteurs compétents, une modalité de reprise est convenue selon les consignes reçues.",
+      "continuity_note": "La réunion suit explicitement le relais effectué et les consignes appliquées. La disponibilité de Mme Legrand avec les acteurs conduit à identifier un relais avant de remettre la retouche au calendrier.",
+      "clinical_note": "Une plaisanterie ou une apparence rassurante ne sert pas de validation médicale. La reprise est conditionnée aux indications professionnelles et aux conditions concrètes, non au seul désir de terminer.",
+      "relatives_note": "Le partage utile est expliqué à Aubin et limité aux responsables. Les proches doivent faire clarifier les consignes incertaines ; le groupe ne reçoit pas le compte rendu médical."
+    },
+    {
+      "number": 11,
+      "focus": "Autonomie soutenue plutôt que surveillance publique",
+      "opening_quote": "Mme Legrand recommence une entrée avec les acteurs. Elle leur demande de regarder la salle avant de parler, puis de recommencer encore parce que personne n’a attendu le bon moment. Aubin sourit : les nuages, au moins, n’oublient pas leur texte. Il est venu pour la retouche, dans les conditions convenues après le relais médical et la réunion de reprise. L’adulte de remplacement est là, à l’endroit qui lui a été indiqué.",
+      "ending_quote": "Aubin achève la retouche dans les conditions convenues.",
+      "continuity_note": "Le relais prévu est effectivement présent quand Mme Legrand dirige les acteurs. Entracte obtient une réponse ; la retouche s’achève sous les conditions convenues, et les deux signatures préparent la représentation.",
+      "clinical_note": "Autonomie soutenue et abandon de la protection sont clairement distingués. Le retour artistique n’est ni récompense pour une pause réussie ni démonstration thérapeutique ; le risque éventuel reste transmis immédiatement.",
+      "relatives_note": "Mme Legrand vérifie le relais avant de s’occuper des acteurs ; Inès ne surveille pas. La limite d’Aubin sur son récit public reçoit un appui concret et la reconnaissance porte sur le décor."
+    },
+    {
+      "number": 12,
+      "focus": "Participation durable et évolution ouverte",
+      "opening_quote": "Le ciel s’allume avant l’entrée des acteurs. Depuis l’emplacement convenu, Aubin voit enfin ce que la retouche a changé. Le bas du nuage tient dans la lumière ; le sommet reste assez léger. Il cherche Inès du regard et lui adresse un signe bref. Elle hausse les sourcils vers le grand contour qu’il avait appelé une montagne. Sous les projecteurs, il ressemble plutôt à un nuage. Aubin ne le dira pas immédiatement.",
+      "ending_quote": "Après la représentation, Aubin dit à Inès que son grand contour était finalement un nuage.",
+      "continuity_note": "La représentation clôt le ciel gris perle, le contour discuté avec Inès et le carnet ; le prochain paysage ouvre un projet personnel, avec maintien des rendez-vous et transmission utile à une nouvelle équipe.",
+      "clinical_note": "Participation, plaisir et évolution clinique restent séparés. Une soirée sans incident observé n’est pas traitée comme preuve de guérison ; les appuis et besoins sont révisables dans le suivi.",
+      "relatives_note": "Camille commence par une question sur le ciel et maintient les rendez-vous. L’enseignante reconnaît le travail sans raconter la santé d’Aubin au public ; aucun proche ne certifie une guérison."
+    }
+  ]
+}

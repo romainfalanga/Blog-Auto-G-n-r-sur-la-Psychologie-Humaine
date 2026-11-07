@@ -543,6 +543,78 @@
     "method": "reviewed_clinical_intro",
     "source_body_sha256": "ee736ca0692f25daca09a7a3803c5a42dfa93b1475722b78f756a62c775dd308"
   },
+  "posts/comprendre-et-maitriser-ses-emotions/aubin-autonomie-et-appui": {
+    "text": "L’autonomie avec un pica ne signifie pas devoir contrôler seul chaque risque. Elle peut prendre la forme de choix et d’initiatives soutenus par des adultes disponibles. Une aide discrète conserve des responsabilités claires : l’enfant peut demander, participer et limiter ce qu’il raconte, tandis que les adultes assurent la protection et les relais nécessaires.",
+    "source_heading": "Autonomie soutenue plutôt que surveillance publique",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "089c56f0eab23819f7c363da78b29fc034ee916bb1b8fd0f8d085098e467f84c"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/aubin-carences-et-bilan": {
+    "text": "Une carence peut intervenir dans l’évaluation de conduites d’ingestion non alimentaire, mais le pica ne signifie pas automatiquement manquer d’un nutriment. Le professionnel distingue les situations et leur évolution. Un diagnostic déjà établi n’autorise ni à inventer un résultat biologique ni à remplacer le suivi par une modification des repas.",
+    "source_heading": "Carences et bilan individualisé",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "651c26478f2675d6997c7d3d849bacaf98a09499b1feca8c46277e823261fbe7"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/aubin-coordination-apres-alerte": {
+    "text": "Après une alerte liée à une ingestion possible, la reprise d’une activité dépend des consignes professionnelles reçues. Elle demande aussi une coordination concrète des adultes : préparation du lieu, disponibilité et partage des informations utiles. L’apparence rassurante de l’enfant ne remplace pas ce relais, et ses camarades n’ont pas besoin d’un compte rendu médical.",
+    "source_heading": "Coordination après une alerte",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "e9c4d3e4d9c5caafeeb58ef54d65d5818e287ef073f5e3bbd22a0d7c71d4f2bd"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/aubin-envie-et-comprehension": {
+    "text": "Le pica peut persister alors que la personne comprend que certaines substances ne sont pas destinées à être consommées. Cette connaissance ne permet pas toujours de faire cesser une envie. Une tâche interrompue peut alors signaler un besoin d’aide, sans traduire un refus des règles ni un désintérêt pour le projet.",
+    "source_heading": "Envie persistante malgré la compréhension",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "b06358964af7b234a66e7b9c342739e194f2ba236a323be9dfa9fb55bb279fc3"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/aubin-envie-pendant-attente": {
+    "text": "Les difficultés liées au pica peuvent varier au cours du temps. Repérer les circonstances d’un moment plus difficile peut aider à en parler avec les professionnels, sans prouver qu’un contexte en est la cause. L’attente pèse aujourd’hui sur Aubin ; cela ne fait ni de l’ennui une explication universelle ni de l’occupation un traitement.",
+    "source_heading": "Fluctuations selon les temps d’attente",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "f3bedadec507cbafb7136bf71426c9061e6c82f7374556c07e5f37c884d1e43a"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/aubin-honte-et-aide-discrete": {
+    "text": "Recevoir de l’aide pour un pica peut devenir pénible lorsque les questions sont posées devant les autres. La gêne ne signifie pas que l’enfant refuse sa protection. Distinguer les informations nécessaires aux adultes responsables des confidences au groupe permet de chercher une aide discrète, sans promettre un secret incompatible avec les soins.",
+    "source_heading": "Honte et confidentialité de l’aide",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "68c5f68411e1f453fe06cf4457f0b820c04979d175dccd53fe12c909a9736696"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/aubin-materiel-adapte-et-risque": {
+    "text": "Préparer un espace pour une personne ayant un pica peut réduire certaines occasions de danger. Cette protection ne rend pas les matériaux consommables et n’efface pas le trouble. Les choix d’aménagement appartiennent aux adultes responsables, en lien avec les consignes professionnelles, tout en laissant à l’enfant des décisions réelles sur son activité.",
+    "source_heading": "Danger et apparence anodine",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "3097901b646644578c34ad39e7e09914397c31338ffb2199120ccf81c99da6fe"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/aubin-nouvel-environnement": {
+    "text": "La prévention des risques liés au pica doit tenir compte des lieux traversés. Une organisation utile dans un atelier ne se transfère pas automatiquement à un autre espace. La préparation d’un nouvel environnement reste une responsabilité adulte ; elle ne demande pas à l’enfant de prouver qu’il sait désormais tout contrôler.",
+    "source_heading": "Sécurité dans un nouvel environnement",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "90b5fa5eec349d4b790f12883bcae2593c29c2c25c351266b67fa06240369530"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/aubin-participation-durable": {
+    "text": "Terminer un projet avec un pica ne démontre pas la disparition du trouble. La participation, le plaisir et l’évolution clinique sont des dimensions différentes. Reconnaître une réalisation tout en conservant les appuis nécessaires permet de préparer la suite sans transformer une soirée réussie ou des applaudissements en certificat de guérison.",
+    "source_heading": "Participation durable et évolution ouverte",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "f941e5dfe1cc32c90f48c2cb9e0e46758232049a257e2169d8b89101802b393b"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/aubin-pause-et-cooperation": {
+    "text": "Les interruptions nécessaires autour d’un pica peuvent avoir des conséquences sur le travail avec les autres. Un camarade peut mal comprendre une absence sans connaître le suivi de l’enfant. Clarifier les rôles et les temps communs aide à négocier la participation, sans faire de ce camarade un confident obligé ou un responsable de sécurité.",
+    "source_heading": "Retentissement sur la coopération",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "ee8cd822465697f0463084950432597f228464d69536d43d800a8e060439f415"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/aubin-recrudescence-sans-faute": {
+    "text": "Le pica peut évoluer de manière intermittente ou plus continue. Une période plus difficile ne démontre pas que les aides précédentes étaient inutiles ou que l’enfant manque de volonté. Les changements doivent être pris au sérieux, décrits aux adultes responsables et discutés dans le suivi, sans leur attribuer automatiquement une cause comme le trac.",
+    "source_heading": "Recrudescence sans faute personnelle",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "d1ac4c50f6ec4c2ccc13e56d62b5aafa01cc1e15c81547930afb203f23e9d79a"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/aubin-signaler-ingestion-possible": {
+    "text": "Une ingestion possiblement toxique nécessite un avis immédiat, même sans symptômes. Avec un pica, le doute ne doit pas être réglé par l’enfant ou sa famille seuls. Le proche contacte le centre antipoison, ou les secours médicaux en présence de signes graves, et suit leurs consignes. La discussion sur les activités vient ensuite.",
+    "source_heading": "Signalement précoce d’une ingestion possible",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "17f1dbdf4d48a8182caaad1a7dc5b71e990cb34a56e3a5082d1cb1b31daed9f3"
+  },
   "posts/comprendre-et-maitriser-ses-emotions/augustin-deux-roles": {
     "text": "Augustin aime le monologue du concierge et l’entrée du voisin. L’un doit changer de trousseau avant de reprendre le dialogue, l’autre lever le soleil au bon moment. Avec un trouble de la coordination, réussir chaque geste à part ne donne pas toujours une idée de l’effort nécessaire quand il faut passer de l’un au suivant. Augustin demande à essayer les deux passages en mouvement.",
     "source_heading": "Enchaînement des gestes",
@@ -5434,6 +5506,78 @@
     "source_paragraph": 1,
     "method": "definition_excerpt",
     "source_body_sha256": "9af06cc95cc623c03784698507aab4d8a375b74d02162dc1b8002e3d8f06114d"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/thael-aborder-inconnu-atelier": {
+    "text": "Le trouble de l’engagement social désinhibé peut se manifester par une faible réserve envers les adultes inconnus. Cela dépasse la simple envie de discuter. À son premier atelier, Thaël attribue immédiatement un rôle au père d’un autre enfant. Un accueil organisé lui permet de retrouver son projet, sans faire du visiteur un danger supposé.",
+    "source_heading": "Aborder un inconnu sans réserve",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "9e368a9247037d59193467a93679e629a2b620adcc09443934ef81173298f4f1"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/thael-charge-protection-adultes": {
+    "text": "La protection d’un enfant ayant un trouble de l’engagement social désinhibé peut demander une vigilance éprouvante aux adultes responsables. Cette charge relève de l’organisation et du soutien aux accueillants, pas d’un nouveau symptôme de l’enfant. Pour préparer la présentation, Mireille et Idriss examinent leur disponibilité réelle avec l’équipe plutôt que de demander une promesse à Thaël.",
+    "source_heading": "La charge de protection des adultes",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "783b8336e9f0196b12b8146c59986f365e07d833c9f7513f86c240ac0d2e4480"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/thael-etiquette-familiarite-affiche": {
+    "text": "Être réduit à un comportement peut ajouter une difficulté sociale au trouble de l’engagement social désinhibé. Ce retentissement n’est pas un critère diagnostique supplémentaire. À l’atelier, une remarque sur sa familiarité donne à Thaël envie d’effacer son prénom. L’adulte intervient sur le respect, sans divulguer son diagnostic ou son histoire au groupe.",
+    "source_heading": "Être étiqueté par sa familiarité",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "982bd5f924699fefded15c697c01b3b194ca089d1ace1e4002c3871915b98770"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/thael-impulsivite-desinhibition-repetition": {
+    "text": "L’impulsivité générale et la désinhibition sociale ne sont pas équivalentes. Le trouble de l’engagement social désinhibé concerne particulièrement les relations avec des inconnus ; d’autres difficultés peuvent nécessiter une évaluation distincte. Pendant la répétition, Thaël commence trop tôt et perd sa feuille. Les adultes décrivent ces faits sans lui attribuer un nouveau diagnostic.",
+    "source_heading": "Distinguer impulsivité et désinhibition sociale",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "2e78b9db486b2bd6d719f70d4b3e6e5fa60e5d4423c11d502f2724906d70636f"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/thael-joie-jeu-desinhibition": {
+    "text": "La sociabilité joyeuse ne se confond pas avec le trouble de l’engagement social désinhibé. Le diagnostic concerne des difficultés précises dans les relations avec des inconnus, pas tout plaisir de parler. Thaël et Zoé inventent une scène comique. Leur rire peut être préservé pendant que les adultes maintiennent les règles d’accueil nécessaires.",
+    "source_heading": "Préserver la joie sans pathologiser",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "d0f47efcda56276231549a4085c9093edbfbb83dbd99e1970a5e195de5ecb1a8"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/thael-lien-selectif-reparation": {
+    "text": "Le trouble de l’engagement social désinhibé n’exclut pas un attachement sélectif à un adulte connu. Une familiarité envers les inconnus ne permet pas de conclure que les liens existants n’ont pas de valeur. Quand sa marionnette se défait, Thaël rejoint Mireille ; leur proximité ne supprime pas les précautions nécessaires à l’atelier.",
+    "source_heading": "Un lien sélectif peut rester présent",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "f4b1c79118e5dac1be530d85bcbebeecab5c9896f833db65fc9c5480194bc7a0"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/thael-limites-conversation-tissus": {
+    "text": "Une familiarité verbale excessive envers une personne inconnue peut faire partie du trouble de l’engagement social désinhibé. L’enjeu concerne ici le contenu de la conversation, pas seulement la rapidité de l’approche. Thaël pose une question intime à une intervenante. Les adultes posent une limite simple et l’aident à revenir aux tissus.",
+    "source_heading": "Déborder les limites de conversation",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "1d6df1783c089644bdf4fb9b30c09e5a3c21a064c33a62831c30fad35379f569"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/thael-progres-variables-nouvelle-salle": {
+    "text": "L’évolution du trouble de l’engagement social désinhibé peut être variable. Plusieurs situations plus faciles ne garantissent pas que les difficultés ont disparu, et une nouvelle difficulté n’efface pas tout ce qui a été construit. Dans la salle de présentation, Thaël aborde familièrement un agent inconnu. Les adultes reprennent les appuis prévus sans transformer l’événement en verdict.",
+    "source_heading": "Des progrès variables selon les situations",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "33b1de7ad4527ccf196291bb8fd3faf5691cd04ce92107a4b6312f6e666d9e05"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/thael-proximite-corporelle-demonstration": {
+    "text": "Le trouble de l’engagement social désinhibé peut inclure une familiarité corporelle inhabituelle avec des adultes inconnus. Le besoin de voir ou de participer ne supprime pas les limites de chacun. Pendant une démonstration, Thaël s’appuie sur une couturière. Idriss organise une autre place, en préservant son accès à la fabrication.",
+    "source_heading": "La proximité corporelle avec un inconnu",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "d085c1a0bb337e154a43948940a2faa731bcae6c4f2c2b0a08e58881c6058ddc"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/thael-public-choisi-cadre-protecteur": {
+    "text": "Le besoin de protection lié au trouble de l’engagement social désinhibé peut coexister avec de vrais choix personnels. Participer ne signifie pas devoir être autonome dans toutes les situations. Thaël choisit un petit public pour sa marionnette, tandis que les adultes assurent l’accueil. La présentation accomplit son projet artistique sans servir de preuve de guérison.",
+    "source_heading": "Choisir son public dans un cadre protecteur",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "950a7f20086b409d6ec082fb6eb0f37b6c8376ff7b4ac7a2fc413f75a5f94f22"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/thael-retour-regard-referent": {
+    "text": "Une faible vérification de la présence de l’adulte référent peut apparaître dans le trouble de l’engagement social désinhibé. L’enfant s’éloigne sans rechercher le regard ou la position de cette personne. Dans la grande salle, Thaël avance vers les peintures. Mireille maintient le contact et l’accompagne, sans attendre qu’il se retrouve seul.",
+    "source_heading": "Ne pas vérifier le retour au référent",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "250c03675b0dcc75538db69b71a42e9aca810f9a992d05c1bf3b93fb2012075c"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/thael-suivre-adulte-inconnu": {
+    "text": "La disposition à partir avec un adulte inconnu peut faire partie du trouble de l’engagement social désinhibé. Elle se distingue du fait d’explorer une salle sans regarder son référent. Thaël se lève pour accompagner un intervenant qu’il rencontre à peine. Idriss arrête le départ et organise la récupération du matériel, sans attendre un incident.",
+    "source_heading": "Accepter de partir avec un adulte inconnu",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "389c47ea86dab4f2fcc23df0b82bcddb7e7a38e0d2f18daf11e84e02ee5c522d"
   },
   "posts/comprendre-et-maitriser-ses-emotions/thais-choisir-objectif-suivi": {
     "text": "Thaïs pense qu’elle devrait vouloir monter partout pour que son suivi ait un sens. Sa psychologue lui demande quelle activité elle voudrait pouvoir choisir plus librement. Des thérapies psychologiques peuvent aider certaines personnes à travailler sur une phobie spécifique. Dans ce rendez-vous, l’objectif et les moyens éventuels se discutent à partir de ce que Thaïs tient à retrouver.",

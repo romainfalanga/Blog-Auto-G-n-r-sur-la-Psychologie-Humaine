@@ -24,15 +24,15 @@
     "other_frameworks": "APA pédagogique, RDoC recherche et CIF fonctionnement restent des grilles distinctes."
   },
   "counts": {
-    "articles": 1215,
-    "characters": 102,
-    "clinical_arcs": 69,
-    "clinical_episodes": 828,
+    "articles": 1239,
+    "characters": 104,
+    "clinical_arcs": 71,
+    "clinical_episodes": 852,
     "original_articles_reviewed": 387,
     "icd11_chapter06_codes": 858,
     "icd11_ungrouped_codes": 10,
-    "icd11_primary_arcs": 65,
-    "clinical_cases_pending": 85,
+    "icd11_primary_arcs": 67,
+    "clinical_cases_pending": 83,
     "other_published_arcs": 4,
     "internal_patterns": 161,
     "internal_patterns_indexed": 161
@@ -102,8 +102,7 @@
       "codes": 8,
       "statuses": {
         "no_standalone_arc_planned": 2,
-        "pending_editorial_case": 1,
-        "published_primary_arc": 5
+        "published_primary_arc": 6
       }
     },
     {
@@ -124,8 +123,8 @@
       "statuses": {
         "editorial_mapping_only": 7,
         "no_standalone_arc_planned": 6,
-        "pending_editorial_case": 2,
-        "published_primary_arc": 4
+        "pending_editorial_case": 1,
+        "published_primary_arc": 5
       }
     },
     {
@@ -3895,12 +3894,30 @@
       "label": "Trouble de l’engagement social désinhibé",
       "group_id": "BlockL1-6B4",
       "editorial_status": "parcours",
-      "coverage_status": "pending_editorial_case",
+      "coverage_status": "published_primary_arc",
       "reason": "diagnostic_distinct",
       "candidate_ids": [
         "thael"
       ],
-      "published_primary": null,
+      "published_primary": {
+        "character_id": "thael",
+        "name": "Thaël",
+        "reviewed_on": "2026-11-07",
+        "articles": [
+          "posts/comprendre-et-maitriser-ses-emotions/thael-aborder-inconnu-atelier",
+          "posts/comprendre-et-maitriser-ses-emotions/thael-charge-protection-adultes",
+          "posts/comprendre-et-maitriser-ses-emotions/thael-etiquette-familiarite-affiche",
+          "posts/comprendre-et-maitriser-ses-emotions/thael-impulsivite-desinhibition-repetition",
+          "posts/comprendre-et-maitriser-ses-emotions/thael-joie-jeu-desinhibition",
+          "posts/comprendre-et-maitriser-ses-emotions/thael-lien-selectif-reparation",
+          "posts/comprendre-et-maitriser-ses-emotions/thael-limites-conversation-tissus",
+          "posts/comprendre-et-maitriser-ses-emotions/thael-progres-variables-nouvelle-salle",
+          "posts/comprendre-et-maitriser-ses-emotions/thael-proximite-corporelle-demonstration",
+          "posts/comprendre-et-maitriser-ses-emotions/thael-public-choisi-cadre-protecteur",
+          "posts/comprendre-et-maitriser-ses-emotions/thael-retour-regard-referent",
+          "posts/comprendre-et-maitriser-ses-emotions/thael-suivre-adulte-inconnu"
+        ]
+      },
       "reference_url": "https://icd.who.int/browse/2026-01/mms/fr#467941148"
     },
     {
@@ -4663,12 +4680,30 @@
       "label": "Pica",
       "group_id": "BlockL1-6B8",
       "editorial_status": "parcours",
-      "coverage_status": "pending_editorial_case",
+      "coverage_status": "published_primary_arc",
       "reason": "diagnostic_distinct",
       "candidate_ids": [
         "aubin"
       ],
-      "published_primary": null,
+      "published_primary": {
+        "character_id": "aubin",
+        "name": "Aubin",
+        "reviewed_on": "2026-11-07",
+        "articles": [
+          "posts/comprendre-et-maitriser-ses-emotions/aubin-autonomie-et-appui",
+          "posts/comprendre-et-maitriser-ses-emotions/aubin-carences-et-bilan",
+          "posts/comprendre-et-maitriser-ses-emotions/aubin-coordination-apres-alerte",
+          "posts/comprendre-et-maitriser-ses-emotions/aubin-envie-et-comprehension",
+          "posts/comprendre-et-maitriser-ses-emotions/aubin-envie-pendant-attente",
+          "posts/comprendre-et-maitriser-ses-emotions/aubin-honte-et-aide-discrete",
+          "posts/comprendre-et-maitriser-ses-emotions/aubin-materiel-adapte-et-risque",
+          "posts/comprendre-et-maitriser-ses-emotions/aubin-nouvel-environnement",
+          "posts/comprendre-et-maitriser-ses-emotions/aubin-participation-durable",
+          "posts/comprendre-et-maitriser-ses-emotions/aubin-pause-et-cooperation",
+          "posts/comprendre-et-maitriser-ses-emotions/aubin-recrudescence-sans-faute",
+          "posts/comprendre-et-maitriser-ses-emotions/aubin-signaler-ingestion-possible"
+        ]
+      },
       "reference_url": "https://icd.who.int/browse/2026-01/mms/fr#833390860"
     },
     {
@@ -12331,13 +12366,6 @@
   ],
   "pending_cases": [
     {
-      "character_id": "thael",
-      "name": "Thaël",
-      "code": "6B45",
-      "label": "Trouble de l’engagement social désinhibé",
-      "decision": "À documenter puis choisir entre récit, comparaison et dossier."
-    },
-    {
       "character_id": "agnes",
       "name": "Agnès",
       "code": "6B62",
@@ -12356,13 +12384,6 @@
       "name": "Évaëlle",
       "code": "6B65",
       "label": "Trouble dissociatif de l'identité partiel",
-      "decision": "À documenter puis choisir entre récit, comparaison et dossier."
-    },
-    {
-      "character_id": "aubin",
-      "name": "Aubin",
-      "code": "6B84",
-      "label": "Pica",
       "decision": "À documenter puis choisir entre récit, comparaison et dossier."
     },
     {

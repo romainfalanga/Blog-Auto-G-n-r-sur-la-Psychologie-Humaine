@@ -3546,6 +3546,486 @@
     "clinical_code": "6D80",
     "clinical_diagnosis": "Démence due à la maladie d’Alzheimer"
   },
+  "posts/comprendre-et-maitriser-ses-emotions/aubin-autonomie-et-appui": {
+    "character": "Aubin",
+    "character_id": "aubin",
+    "keywords": [
+      "Pica",
+      "Autonomie soutenue",
+      "Discrétion"
+    ],
+    "character_keywords": [
+      "Pica",
+      "Envies difficiles à interrompre",
+      "Sécurité des espaces",
+      "Aide discrète",
+      "Participation scolaire"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "089c56f0eab23819f7c363da78b29fc034ee916bb1b8fd0f8d085098e467f84c",
+    "summary": "Mme Legrand recommence une entrée avec les acteurs. Elle leur demande de regarder la salle avant de parler, puis de recommencer encore parce que personne n’a attendu le bon moment. Aubin sourit : les nuages, au moins, n’oublient pas leur texte. Il est venu pour la retouche, dans les conditions convenues après le relais médical et la réunion de reprise. L’adulte de remplacement est là, à l’endroit qui lui a été indiqué.\n\n[…]\n\nAubin achève la retouche dans les conditions convenues. Le bas du nuage retrouve la densité qu’il cherchait, et Inès accepte de laisser le sommet plus léger. Quand un camarade lui demande de raconter devant les autres ce qui avait été organisé pour lui, il répond poliment qu’il préfère parler du décor. L’adulte soutient cette limite. Inès et lui signent le plan du ciel. Ils ont encore des avis différents sur les arbres, mais le travail commun est prêt pour la représentation.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Mme Legrand recommence une entrée avec les acteurs. Elle leur demande de regarder la salle avant de parler, puis de recommencer encore parce que personne n’a attendu le bon moment. Aubin sourit : les nuages, au moins, n’oublient pas leur texte. Il est venu pour la retouche, dans les conditions convenues après le relais médical et la réunion de reprise. L’adulte de remplacement est là, à l’endroit qui lui a été indiqué.",
+        "start": 2,
+        "end": 424
+      },
+      {
+        "quote": "Aubin achève la retouche dans les conditions convenues. Le bas du nuage retrouve la densité qu’il cherchait, et Inès accepte de laisser le sommet plus léger. Quand un camarade lui demande de raconter devant les autres ce qui avait été organisé pour lui, il répond poliment qu’il préfère parler du décor. L’adulte soutient cette limite. Inès et lui signent le plan du ciel. Ils ont encore des avis différents sur les arbres, mais le travail commun est prêt pour la représentation.",
+        "start": 4154,
+        "end": 4633
+      }
+    ],
+    "canonical_concept": "Autonomie soutenue plutôt que surveillance publique",
+    "context": "À la répétition avec l’adulte de relais",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour rendre l’aide discrète et disponible"
+    ],
+    "clinical_code": "6B84",
+    "clinical_diagnosis": "Pica"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/aubin-carences-et-bilan": {
+    "character": "Aubin",
+    "character_id": "aubin",
+    "keywords": [
+      "Pica",
+      "Bilan médical",
+      "Carences"
+    ],
+    "character_keywords": [
+      "Pica",
+      "Envies difficiles à interrompre",
+      "Sécurité des espaces",
+      "Aide discrète",
+      "Participation scolaire"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "651c26478f2675d6997c7d3d849bacaf98a09499b1feca8c46277e823261fbe7",
+    "summary": "Dans la salle d’attente, Aubin compare le mur au gris de son carnet. Trop jaune. Il le dit à Camille, qui sourit puis relit les questions préparées pour la médecin. Ce rendez-vous était prévu avant la discussion avec Mme Legrand. Le diagnostic de pica et l’évaluation initiale sont déjà derrière eux ; aujourd’hui, il s’agit de poursuivre le suivi et de parler du théâtre.\n\n[…]\n\nAubin demande finalement si Mme Legrand doit connaître tout ce qu’ils viennent de dire. La médecin et Camille reprennent avec lui ce qui sera utile pour organiser sa participation et ce qui appartient à la consultation. Il décide que sa gêne devant les questions publiques doit faire partie de la discussion. Le poste de travail et l’aide disponible seront préparés avec les adultes concernés. Sur le chemin du retour, il laisse le carnet ouvert : le gris perle n’est pas devenu une prescription.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Dans la salle d’attente, Aubin compare le mur au gris de son carnet. Trop jaune. Il le dit à Camille, qui sourit puis relit les questions préparées pour la médecin. Ce rendez-vous était prévu avant la discussion avec Mme Legrand. Le diagnostic de pica et l’évaluation initiale sont déjà derrière eux ; aujourd’hui, il s’agit de poursuivre le suivi et de parler du théâtre.",
+        "start": 2,
+        "end": 374
+      },
+      {
+        "quote": "Aubin demande finalement si Mme Legrand doit connaître tout ce qu’ils viennent de dire. La médecin et Camille reprennent avec lui ce qui sera utile pour organiser sa participation et ce qui appartient à la consultation. Il décide que sa gêne devant les questions publiques doit faire partie de la discussion. Le poste de travail et l’aide disponible seront préparés avec les adultes concernés. Sur le chemin du retour, il laisse le carnet ouvert : le gris perle n’est pas devenu une prescription.",
+        "start": 4273,
+        "end": 4769
+      }
+    ],
+    "canonical_concept": "Carences et bilan individualisé",
+    "context": "Lors du suivi médical prévu",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour préparer un échange médical utile"
+    ],
+    "clinical_code": "6B84",
+    "clinical_diagnosis": "Pica"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/aubin-coordination-apres-alerte": {
+    "character": "Aubin",
+    "character_id": "aubin",
+    "keywords": [
+      "Pica",
+      "Coordination",
+      "Reprise accompagnée"
+    ],
+    "character_keywords": [
+      "Pica",
+      "Envies difficiles à interrompre",
+      "Sécurité des espaces",
+      "Aide discrète",
+      "Participation scolaire"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "e9c4d3e4d9c5caafeeb58ef54d65d5818e287ef073f5e3bbd22a0d7c71d4f2bd",
+    "summary": "Le relais médical a eu lieu et Camille a suivi les consignes reçues. La réunion avec Mme Legrand se tient ensuite, avec Aubin, pour préparer ce qui peut reprendre dans ce cadre. Le carnet des choix est au milieu de la table. Personne n’a encore réinscrit la retouche au calendrier. Aubin trouve cela prudent, puis agaçant, puis prudent de nouveau quand il pense au moment où il a dû parler à la maison.\n\n[…]\n\nAvec les interlocuteurs compétents, une modalité de reprise est convenue selon les consignes reçues. Mme Legrand identifie l’adulte qui pourra prendre le relais pendant qu’elle dirigera les acteurs ; il reçoit les informations utiles. Aubin sait où le rejoindre et conserve le mot « entracte ». Alors seulement, la retouche retrouve une place dans le calendrier. Le nuage lui reste confié. À la prochaine répétition, ce remplacement devra exister dans la salle, pas seulement sur la feuille.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Le relais médical a eu lieu et Camille a suivi les consignes reçues. La réunion avec Mme Legrand se tient ensuite, avec Aubin, pour préparer ce qui peut reprendre dans ce cadre. Le carnet des choix est au milieu de la table. Personne n’a encore réinscrit la retouche au calendrier. Aubin trouve cela prudent, puis agaçant, puis prudent de nouveau quand il pense au moment où il a dû parler à la maison.",
+        "start": 2,
+        "end": 404
+      },
+      {
+        "quote": "Avec les interlocuteurs compétents, une modalité de reprise est convenue selon les consignes reçues. Mme Legrand identifie l’adulte qui pourra prendre le relais pendant qu’elle dirigera les acteurs ; il reçoit les informations utiles. Aubin sait où le rejoindre et conserve le mot « entracte ». Alors seulement, la retouche retrouve une place dans le calendrier. Le nuage lui reste confié. À la prochaine répétition, ce remplacement devra exister dans la salle, pas seulement sur la feuille.",
+        "start": 4240,
+        "end": 4731
+      }
+    ],
+    "canonical_concept": "Coordination après une alerte",
+    "context": "À la réunion préparant la reprise",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour préparer une reprise coordonnée"
+    ],
+    "clinical_code": "6B84",
+    "clinical_diagnosis": "Pica"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/aubin-envie-et-comprehension": {
+    "character": "Aubin",
+    "character_id": "aubin",
+    "keywords": [
+      "Pica",
+      "Envie persistante",
+      "Demande d’aide"
+    ],
+    "character_keywords": [
+      "Pica",
+      "Envies difficiles à interrompre",
+      "Sécurité des espaces",
+      "Aide discrète",
+      "Participation scolaire"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "b06358964af7b234a66e7b9c342739e194f2ba236a323be9dfa9fb55bb279fc3",
+    "summary": "Le gris ressemble encore à une couverture. Aubin le regarde depuis sa place, à côté du panneau où le ciel du spectacle prendra forme. Il voudrait un gris perle, assez léger pour que les acteurs aient l’air de marcher dehors. À douze ans, il sait déjà qu’un nuage peint trop bas ressemble à une montagne. Il l’explique à Inès, qui préfère les grands contours. Elle lui répond qu’on pourra discuter des montagnes après avoir fini le fond.\n\n[…]\n\nMme Legrand montre à Aubin le calendrier du décor. Sa ligne porte toujours « ciel ». Elle ne lui demande pas de retourner peindre pour prouver qu’il en est capable. Il décide de conserver les nuages, mais demande une phrase plus courte pour la prochaine fois. Le gris perle attendra. L’enseignante propose que Camille vienne en parler avant le prochain atelier ; Aubin accepte, à condition de pouvoir montrer aussi son carnet des choix.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Le gris ressemble encore à une couverture. Aubin le regarde depuis sa place, à côté du panneau où le ciel du spectacle prendra forme. Il voudrait un gris perle, assez léger pour que les acteurs aient l’air de marcher dehors. À douze ans, il sait déjà qu’un nuage peint trop bas ressemble à une montagne. Il l’explique à Inès, qui préfère les grands contours. Elle lui répond qu’on pourra discuter des montagnes après avoir fini le fond.",
+        "start": 2,
+        "end": 438
+      },
+      {
+        "quote": "Mme Legrand montre à Aubin le calendrier du décor. Sa ligne porte toujours « ciel ». Elle ne lui demande pas de retourner peindre pour prouver qu’il en est capable. Il décide de conserver les nuages, mais demande une phrase plus courte pour la prochaine fois. Le gris perle attendra. L’enseignante propose que Camille vienne en parler avant le prochain atelier ; Aubin accepte, à condition de pouvoir montrer aussi son carnet des choix.",
+        "start": 4168,
+        "end": 4604
+      }
+    ],
+    "canonical_concept": "Envie persistante malgré la compréhension",
+    "context": "Au premier atelier de théâtre",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour demander un appui sans se justifier"
+    ],
+    "clinical_code": "6B84",
+    "clinical_diagnosis": "Pica"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/aubin-envie-pendant-attente": {
+    "character": "Aubin",
+    "character_id": "aubin",
+    "keywords": [
+      "Pica",
+      "Fluctuations",
+      "Temps d’attente"
+    ],
+    "character_keywords": [
+      "Pica",
+      "Envies difficiles à interrompre",
+      "Sécurité des espaces",
+      "Aide discrète",
+      "Participation scolaire"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "f3bedadec507cbafb7136bf71426c9061e6c82f7374556c07e5f37c884d1e43a",
+    "summary": "Le fond doit sécher. Aubin regarde Mme Legrand expliquer cette évidence à un groupe qui voudrait déjà ajouter les arbres. Au début de la séance, il avait une place, une couleur et un contour à défendre. Maintenant, son nuage n’a besoin de rien. Il observe Inès qui compare les tailles sur leur plan commun, puis le panneau qui ne semble pas changer d’une minute à l’autre.\n\n[…]\n\nAubin dicte à Mme Legrand trois indications pour les ombres. Elle les note comme des décisions de décor, pas comme une mesure de sa conduite. Dans son carnet, il ajoute seulement que l’attente a été difficile aujourd’hui. Aucun tableau de bonnes séances n’est affiché. Quand il relève les yeux, Inès a repris une partie du dessin commun. Elle a cru qu’il ne reviendrait pas à la peinture. Aubin ne comprend pas encore ce déplacement, mais il voit que son nuage a changé de place.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Le fond doit sécher. Aubin regarde Mme Legrand expliquer cette évidence à un groupe qui voudrait déjà ajouter les arbres. Au début de la séance, il avait une place, une couleur et un contour à défendre. Maintenant, son nuage n’a besoin de rien. Il observe Inès qui compare les tailles sur leur plan commun, puis le panneau qui ne semble pas changer d’une minute à l’autre.",
+        "start": 2,
+        "end": 374
+      },
+      {
+        "quote": "Aubin dicte à Mme Legrand trois indications pour les ombres. Elle les note comme des décisions de décor, pas comme une mesure de sa conduite. Dans son carnet, il ajoute seulement que l’attente a été difficile aujourd’hui. Aucun tableau de bonnes séances n’est affiché. Quand il relève les yeux, Inès a repris une partie du dessin commun. Elle a cru qu’il ne reviendrait pas à la peinture. Aubin ne comprend pas encore ce déplacement, mais il voit que son nuage a changé de place.",
+        "start": 4058,
+        "end": 4537
+      }
+    ],
+    "canonical_concept": "Fluctuations selon les temps d’attente",
+    "context": "Pendant le séchage du fond",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour préparer les temps d’attente"
+    ],
+    "clinical_code": "6B84",
+    "clinical_diagnosis": "Pica"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/aubin-honte-et-aide-discrete": {
+    "character": "Aubin",
+    "character_id": "aubin",
+    "keywords": [
+      "Pica",
+      "Confidentialité",
+      "Honte"
+    ],
+    "character_keywords": [
+      "Pica",
+      "Envies difficiles à interrompre",
+      "Sécurité des espaces",
+      "Aide discrète",
+      "Participation scolaire"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "68c5f68411e1f453fe06cf4457f0b820c04979d175dccd53fe12c909a9736696",
+    "summary": "Camille arrive avec quelques minutes d’avance. Aubin attend près du décor, son carnet ouvert sur trois essais de ciel. Il a entouré le gris du milieu. À côté, il a écrit « pas une couverture », pour rappeler à Mme Legrand ce qu’il veut changer. Leur discussion doit servir à trouver la phrase courte demandée après le premier atelier. Il espère qu’elle prendra moins de temps que le choix des costumes.\n\n[…]\n\nAubin choisit « entracte ». C’est un mot du théâtre, et il peut le dire sans arrêter toute la salle. Mme Legrand précise qu’elle restera disponible et que les adultes chargés de l’aider le connaîtront. Camille explique que certaines informations de santé devront circuler pour le protéger, mais pas devant ses camarades. Aubin rouvre son carnet. « Celui du milieu, surtout pas le foncé. » La question du bilan déjà réalisé sera reprise au rendez-vous prévu avec sa médecin.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Camille arrive avec quelques minutes d’avance. Aubin attend près du décor, son carnet ouvert sur trois essais de ciel. Il a entouré le gris du milieu. À côté, il a écrit « pas une couverture », pour rappeler à Mme Legrand ce qu’il veut changer. Leur discussion doit servir à trouver la phrase courte demandée après le premier atelier. Il espère qu’elle prendra moins de temps que le choix des costumes.",
+        "start": 2,
+        "end": 404
+      },
+      {
+        "quote": "Aubin choisit « entracte ». C’est un mot du théâtre, et il peut le dire sans arrêter toute la salle. Mme Legrand précise qu’elle restera disponible et que les adultes chargés de l’aider le connaîtront. Camille explique que certaines informations de santé devront circuler pour le protéger, mais pas devant ses camarades. Aubin rouvre son carnet. « Celui du milieu, surtout pas le foncé. » La question du bilan déjà réalisé sera reprise au rendez-vous prévu avec sa médecin.",
+        "start": 4059,
+        "end": 4532
+      }
+    ],
+    "canonical_concept": "Honte et confidentialité de l’aide",
+    "context": "Avant le deuxième atelier",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour organiser une aide discrète"
+    ],
+    "clinical_code": "6B84",
+    "clinical_diagnosis": "Pica"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/aubin-materiel-adapte-et-risque": {
+    "character": "Aubin",
+    "character_id": "aubin",
+    "keywords": [
+      "Pica",
+      "Prévention",
+      "Matériel adapté"
+    ],
+    "character_keywords": [
+      "Pica",
+      "Envies difficiles à interrompre",
+      "Sécurité des espaces",
+      "Aide discrète",
+      "Participation scolaire"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "3097901b646644578c34ad39e7e09914397c31338ffb2199120ccf81c99da6fe",
+    "summary": "Mme Legrand a gardé deux places possibles pour Aubin. Elles ont été préparées après les échanges utiles avec Camille, sans que l’enseignante reçoive le récit entier de la consultation. Depuis la première, on voit surtout le mur. Depuis la seconde, on aperçoit Inès et le haut du décor. Aubin choisit la seconde avant même qu’on lui demande pourquoi. « Si elle agrandit encore sa montagne, je pourrai protester. »\n\n[…]\n\nAubin retient la place qui donne sur le décor commun. Mme Legrand confirme sa disponibilité et les opérations réservées aux adultes. Il accepte cette répartition, sans prétendre l’apprécier entièrement. Il trace enfin l’emplacement du premier nuage sur le projet. Inès trouve qu’il est trop haut ; il lui répond que le ciel a le droit d’être en haut. Le travail reprend, puis le fond doit sécher. Cette attente, absente de son enthousiasme initial, donnera un autre rythme à la séance.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Mme Legrand a gardé deux places possibles pour Aubin. Elles ont été préparées après les échanges utiles avec Camille, sans que l’enseignante reçoive le récit entier de la consultation. Depuis la première, on voit surtout le mur. Depuis la seconde, on aperçoit Inès et le haut du décor. Aubin choisit la seconde avant même qu’on lui demande pourquoi. « Si elle agrandit encore sa montagne, je pourrai protester. »",
+        "start": 2,
+        "end": 414
+      },
+      {
+        "quote": "Aubin retient la place qui donne sur le décor commun. Mme Legrand confirme sa disponibilité et les opérations réservées aux adultes. Il accepte cette répartition, sans prétendre l’apprécier entièrement. Il trace enfin l’emplacement du premier nuage sur le projet. Inès trouve qu’il est trop haut ; il lui répond que le ciel a le droit d’être en haut. Le travail reprend, puis le fond doit sécher. Cette attente, absente de son enthousiasme initial, donnera un autre rythme à la séance.",
+        "start": 4144,
+        "end": 4629
+      }
+    ],
+    "canonical_concept": "Danger et apparence anodine",
+    "context": "À la préparation du poste de peinture",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour clarifier la protection du poste"
+    ],
+    "clinical_code": "6B84",
+    "clinical_diagnosis": "Pica"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/aubin-nouvel-environnement": {
+    "character": "Aubin",
+    "character_id": "aubin",
+    "keywords": [
+      "Pica",
+      "Nouvel environnement",
+      "Responsabilité adulte"
+    ],
+    "character_keywords": [
+      "Pica",
+      "Envies difficiles à interrompre",
+      "Sécurité des espaces",
+      "Aide discrète",
+      "Participation scolaire"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "90b5fa5eec349d4b790f12883bcae2593c29c2c25c351266b67fa06240369530",
+    "summary": "La porte de la salle est ouverte, mais Mme Legrand demande à Aubin d’attendre avec elle dans l’espace prévu. Au-delà, il aperçoit déjà le décor déplacé pour la répétition. Le ciel paraît immense. Il n’avait pas compris, sur leur dessin, combien les nuages monteraient au-dessus des acteurs. Inès veut savoir si son grand contour ressemble encore à une montagne. Aubin répond qu’il lui faut les projecteurs pour décider.\n\n[…]\n\nLa préparation terminée, Mme Legrand confirme l’accompagnement prévu et fait entrer Aubin avec le groupe. Sous les projecteurs, son nuage semble presque blanc. Il n’est pas satisfait, mais cette fois le problème appartient au décor. Inès lui demande s’il veut modifier la forme ; il répond qu’il faut d’abord revoir l’ombre. La retouche est fixée au lendemain dans les conditions de l’atelier. La visite a rempli son rôle : elle leur a montré une modification nécessaire, pas une preuve de guérison.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "La porte de la salle est ouverte, mais Mme Legrand demande à Aubin d’attendre avec elle dans l’espace prévu. Au-delà, il aperçoit déjà le décor déplacé pour la répétition. Le ciel paraît immense. Il n’avait pas compris, sur leur dessin, combien les nuages monteraient au-dessus des acteurs. Inès veut savoir si son grand contour ressemble encore à une montagne. Aubin répond qu’il lui faut les projecteurs pour décider.",
+        "start": 2,
+        "end": 421
+      },
+      {
+        "quote": "La préparation terminée, Mme Legrand confirme l’accompagnement prévu et fait entrer Aubin avec le groupe. Sous les projecteurs, son nuage semble presque blanc. Il n’est pas satisfait, mais cette fois le problème appartient au décor. Inès lui demande s’il veut modifier la forme ; il répond qu’il faut d’abord revoir l’ombre. La retouche est fixée au lendemain dans les conditions de l’atelier. La visite a rempli son rôle : elle leur a montré une modification nécessaire, pas une preuve de guérison.",
+        "start": 4177,
+        "end": 4676
+      }
+    ],
+    "canonical_concept": "Sécurité dans un nouvel environnement",
+    "context": "Devant la salle de spectacle",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour organiser une transition accompagnée"
+    ],
+    "clinical_code": "6B84",
+    "clinical_diagnosis": "Pica"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/aubin-participation-durable": {
+    "character": "Aubin",
+    "character_id": "aubin",
+    "keywords": [
+      "Pica",
+      "Participation durable",
+      "Suivi"
+    ],
+    "character_keywords": [
+      "Pica",
+      "Envies difficiles à interrompre",
+      "Sécurité des espaces",
+      "Aide discrète",
+      "Participation scolaire"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "f941e5dfe1cc32c90f48c2cb9e0e46758232049a257e2169d8b89101802b393b",
+    "summary": "Le ciel s’allume avant l’entrée des acteurs. Depuis l’emplacement convenu, Aubin voit enfin ce que la retouche a changé. Le bas du nuage tient dans la lumière ; le sommet reste assez léger. Il cherche Inès du regard et lui adresse un signe bref. Elle hausse les sourcils vers le grand contour qu’il avait appelé une montagne. Sous les projecteurs, il ressemble plutôt à un nuage. Aubin ne le dira pas immédiatement.\n\n[…]\n\nAprès la représentation, Aubin dit à Inès que son grand contour était finalement un nuage. Elle lui demande de l’écrire dans le carnet pour garder une preuve. Il rit et ajoute plutôt une idée de paysage pour le prochain projet. Il décide d’y participer en conservant une aide discrète, à revoir avec les adultes selon les besoins. Camille garde les rendez-vous prévus. Mme Legrand transmettra seulement les informations utiles à la prochaine équipe. Le ciel de cette pièce est terminé ; Aubin, lui, a encore des couleurs à choisir.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Le ciel s’allume avant l’entrée des acteurs. Depuis l’emplacement convenu, Aubin voit enfin ce que la retouche a changé. Le bas du nuage tient dans la lumière ; le sommet reste assez léger. Il cherche Inès du regard et lui adresse un signe bref. Elle hausse les sourcils vers le grand contour qu’il avait appelé une montagne. Sous les projecteurs, il ressemble plutôt à un nuage. Aubin ne le dira pas immédiatement.",
+        "start": 2,
+        "end": 417
+      },
+      {
+        "quote": "Après la représentation, Aubin dit à Inès que son grand contour était finalement un nuage. Elle lui demande de l’écrire dans le carnet pour garder une preuve. Il rit et ajoute plutôt une idée de paysage pour le prochain projet. Il décide d’y participer en conservant une aide discrète, à revoir avec les adultes selon les besoins. Camille garde les rendez-vous prévus. Mme Legrand transmettra seulement les informations utiles à la prochaine équipe. Le ciel de cette pièce est terminé ; Aubin, lui, a encore des couleurs à choisir.",
+        "start": 4100,
+        "end": 4631
+      }
+    ],
+    "canonical_concept": "Participation durable et évolution ouverte",
+    "context": "Le soir de la représentation",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour préparer une participation durable"
+    ],
+    "clinical_code": "6B84",
+    "clinical_diagnosis": "Pica"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/aubin-pause-et-cooperation": {
+    "character": "Aubin",
+    "character_id": "aubin",
+    "keywords": [
+      "Pica",
+      "Coopération",
+      "Place dans le groupe"
+    ],
+    "character_keywords": [
+      "Pica",
+      "Envies difficiles à interrompre",
+      "Sécurité des espaces",
+      "Aide discrète",
+      "Participation scolaire"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "ee8cd822465697f0463084950432597f228464d69536d43d800a8e060439f415",
+    "summary": "Le nuage est plus bas. Aubin le voit sur le dessin avant qu’Inès commence son explication. Pendant qu’il décrivait les ombres à Mme Legrand, elle a déplacé leur repère pour faire avancer le décor. Elle pensait qu’il avait choisi une autre tâche. Lui pensait qu’une pause laissait sa partie intacte jusqu’à leur prochaine discussion. Aucun des deux n’avait formulé cette règle.\n\n[…]\n\nAubin propose de noter quand ils travailleront ensemble et ce qui devra attendre leur avis commun. Il dit seulement à Inès qu’il a parfois besoin de sortir avec un adulte. Elle lui réserve la partie haute et demande qu’il lui explique les ombres avant la prochaine séance. Ils ne tombent pas d’accord sur la forme de tous les nuages, mais chacun sait où reprendre. Leur calendrier inclut une visite de la salle du spectacle : il faudra voir ce gris sous les projecteurs.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Le nuage est plus bas. Aubin le voit sur le dessin avant qu’Inès commence son explication. Pendant qu’il décrivait les ombres à Mme Legrand, elle a déplacé leur repère pour faire avancer le décor. Elle pensait qu’il avait choisi une autre tâche. Lui pensait qu’une pause laissait sa partie intacte jusqu’à leur prochaine discussion. Aucun des deux n’avait formulé cette règle.",
+        "start": 2,
+        "end": 378
+      },
+      {
+        "quote": "Aubin propose de noter quand ils travailleront ensemble et ce qui devra attendre leur avis commun. Il dit seulement à Inès qu’il a parfois besoin de sortir avec un adulte. Elle lui réserve la partie haute et demande qu’il lui explique les ombres avant la prochaine séance. Ils ne tombent pas d’accord sur la forme de tous les nuages, mais chacun sait où reprendre. Leur calendrier inclut une visite de la salle du spectacle : il faudra voir ce gris sous les projecteurs.",
+        "start": 4059,
+        "end": 4529
+      }
+    ],
+    "canonical_concept": "Retentissement sur la coopération",
+    "context": "Au retour vers le projet commun",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour préserver la coopération"
+    ],
+    "clinical_code": "6B84",
+    "clinical_diagnosis": "Pica"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/aubin-recrudescence-sans-faute": {
+    "character": "Aubin",
+    "character_id": "aubin",
+    "keywords": [
+      "Pica",
+      "Recrudescence",
+      "Découragement"
+    ],
+    "character_keywords": [
+      "Pica",
+      "Envies difficiles à interrompre",
+      "Sécurité des espaces",
+      "Aide discrète",
+      "Participation scolaire"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "d1ac4c50f6ec4c2ccc13e56d62b5aafa01cc1e15c81547930afb203f23e9d79a",
+    "summary": "Aubin arrive avec une décision précise : il faut assombrir le bas du nuage. La visite de la veille l’a convaincu que le gris perle disparaît sous les projecteurs. Il montre à Mme Legrand la petite flèche ajoutée dans son carnet, puis demande si la retouche pourra être terminée avant la fin de la séance. Inès a gardé libre la partie haute, comme ils l’avaient convenu.\n\n[…]\n\nMme Legrand reporte la retouche et confirme que les nuages restent confiés à Aubin. Inès reçoit seulement la nouvelle organisation du travail. Aubin décide qu’il décrira lui-même à Camille ce qui lui a semblé plus difficile, même si l’enseignante a déjà transmis les faits. Il ne trouve pas cela réjouissant. Dans le carnet, il déplace la date plutôt que de barrer le ciel. Chez lui, cette conversation devra aussi laisser une place à une incertitude qu’il n’a pas encore formulée.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Aubin arrive avec une décision précise : il faut assombrir le bas du nuage. La visite de la veille l’a convaincu que le gris perle disparaît sous les projecteurs. Il montre à Mme Legrand la petite flèche ajoutée dans son carnet, puis demande si la retouche pourra être terminée avant la fin de la séance. Inès a gardé libre la partie haute, comme ils l’avaient convenu.",
+        "start": 2,
+        "end": 371
+      },
+      {
+        "quote": "Mme Legrand reporte la retouche et confirme que les nuages restent confiés à Aubin. Inès reçoit seulement la nouvelle organisation du travail. Aubin décide qu’il décrira lui-même à Camille ce qui lui a semblé plus difficile, même si l’enseignante a déjà transmis les faits. Il ne trouve pas cela réjouissant. Dans le carnet, il déplace la date plutôt que de barrer le ciel. Chez lui, cette conversation devra aussi laisser une place à une incertitude qu’il n’a pas encore formulée.",
+        "start": 4097,
+        "end": 4578
+      }
+    ],
+    "canonical_concept": "Recrudescence sans faute personnelle",
+    "context": "Le lendemain de la visite du décor",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour répondre à un moment plus difficile"
+    ],
+    "clinical_code": "6B84",
+    "clinical_diagnosis": "Pica"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/aubin-signaler-ingestion-possible": {
+    "character": "Aubin",
+    "character_id": "aubin",
+    "keywords": [
+      "Pica",
+      "Signalement",
+      "Relais médical"
+    ],
+    "character_keywords": [
+      "Pica",
+      "Envies difficiles à interrompre",
+      "Sécurité des espaces",
+      "Aide discrète",
+      "Participation scolaire"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "17f1dbdf4d48a8182caaad1a7dc5b71e990cb34a56e3a5082d1cb1b31daed9f3",
+    "summary": "« Je ne suis pas sûr de ce qui s’est passé plus tôt. Peut-être que j’ai avalé quelque chose. » Aubin le dit à Camille dans l’entrée, alors qu’ils allaient reparler de la retouche reportée. Camille prend immédiatement son téléphone pour appeler le centre antipoison. Il reste auprès de lui et explique ce qu’il sait, y compris le doute. Il n’attend pas qu’Aubin apporte une certitude ou présente un signe inquiétant pour demander cet avis.\n\n[…]\n\nLe conseil médical est obtenu et Camille applique les consignes reçues, puis organise le suivi demandé. Le récit ne permet pas d’en déduire un produit, un examen ou un pronostic. Camille remercie Aubin de l’avoir averti, sans associer cette parole à une récompense ni à une sanction sur le théâtre. La question des nuages reste ouverte. Avant toute nouvelle date de retouche, il faudra reprendre avec les adultes concernés les conditions de participation compatibles avec ces consignes.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "« Je ne suis pas sûr de ce qui s’est passé plus tôt. Peut-être que j’ai avalé quelque chose. » Aubin le dit à Camille dans l’entrée, alors qu’ils allaient reparler de la retouche reportée. Camille prend immédiatement son téléphone pour appeler le centre antipoison. Il reste auprès de lui et explique ce qu’il sait, y compris le doute. Il n’attend pas qu’Aubin apporte une certitude ou présente un signe inquiétant pour demander cet avis.",
+        "start": 2,
+        "end": 440
+      },
+      {
+        "quote": "Le conseil médical est obtenu et Camille applique les consignes reçues, puis organise le suivi demandé. Le récit ne permet pas d’en déduire un produit, un examen ou un pronostic. Camille remercie Aubin de l’avoir averti, sans associer cette parole à une récompense ni à une sanction sur le théâtre. La question des nuages reste ouverte. Avant toute nouvelle date de retouche, il faudra reprendre avec les adultes concernés les conditions de participation compatibles avec ces consignes.",
+        "start": 4336,
+        "end": 4822
+      }
+    ],
+    "canonical_concept": "Signalement précoce d’une ingestion possible",
+    "context": "À la maison après la séance interrompue",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour transmettre une alerte et passer le relais"
+    ],
+    "clinical_code": "6B84",
+    "clinical_diagnosis": "Pica"
+  },
   "posts/comprendre-et-maitriser-ses-emotions/augustin-deux-roles": {
     "character": "Augustin",
     "character_id": "augustin",
@@ -35553,6 +36033,486 @@
       "3. La présence silencieuse et la disponibilité pratique",
       "Techniques pour exprimer la tendresse"
     ]
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/thael-aborder-inconnu-atelier": {
+    "character": "Thaël",
+    "character_id": "thael",
+    "keywords": [
+      "Approche immédiate",
+      "Rôles des adultes",
+      "Accueil accompagné"
+    ],
+    "character_keywords": [
+      "Trouble de l’engagement social désinhibé",
+      "familiarité avec les inconnus",
+      "repères de sécurité",
+      "liens sélectifs",
+      "participation aux activités"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "9e368a9247037d59193467a93679e629a2b620adcc09443934ef81173298f4f1",
+    "summary": "La chaussette dépasse de la poche de Thaël comme une langue rayée. Il l’a choisie avant de venir : assez longue pour cacher tout son avant-bras, assez usée pour devenir autre chose. Mireille pousse la porte de l’atelier avec lui. Idriss leur fait signe depuis une table couverte de cartons, mais Thaël a déjà sorti la chaussette devant un homme qui dépose un sac près du vestiaire.\n\n[…]\n\nLe visiteur repart seul. Thaël demande encore s’il reviendra, puis pose la chaussette sur la table. Idriss lui montre un carton souple et un autre plus épais. Il choisit le souple. « Sa bouche, elle doit pouvoir dire non aussi. » Mireille sourit sans transformer cette phrase en leçon. Idriss prépare la pièce, que Thaël essaie contre les rayures. Ils rangent la bouche et la chaussette dans une boîte à son prénom ; la fixation attendra les tissus.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "La chaussette dépasse de la poche de Thaël comme une langue rayée. Il l’a choisie avant de venir : assez longue pour cacher tout son avant-bras, assez usée pour devenir autre chose. Mireille pousse la porte de l’atelier avec lui. Idriss leur fait signe depuis une table couverte de cartons, mais Thaël a déjà sorti la chaussette devant un homme qui dépose un sac près du vestiaire.",
+        "start": 2,
+        "end": 383
+      },
+      {
+        "quote": "Le visiteur repart seul. Thaël demande encore s’il reviendra, puis pose la chaussette sur la table. Idriss lui montre un carton souple et un autre plus épais. Il choisit le souple. « Sa bouche, elle doit pouvoir dire non aussi. » Mireille sourit sans transformer cette phrase en leçon. Idriss prépare la pièce, que Thaël essaie contre les rayures. Ils rangent la bouche et la chaussette dans une boîte à son prénom ; la fixation attendra les tissus.",
+        "start": 4214,
+        "end": 4663
+      }
+    ],
+    "canonical_concept": "Aborder un inconnu sans réserve",
+    "context": "Le premier atelier de marionnettes",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour organiser un accueil avec des rôles clairs"
+    ],
+    "clinical_code": "6B45",
+    "clinical_diagnosis": "Trouble de l’engagement social désinhibé"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/thael-charge-protection-adultes": {
+    "character": "Thaël",
+    "character_id": "thael",
+    "keywords": [
+      "Vigilance adulte",
+      "Relais explicites",
+      "Participation adaptée"
+    ],
+    "character_keywords": [
+      "Trouble de l’engagement social désinhibé",
+      "familiarité avec les inconnus",
+      "repères de sécurité",
+      "liens sélectifs",
+      "participation aux activités"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "783b8336e9f0196b12b8146c59986f365e07d833c9f7513f86c240ac0d2e4480",
+    "summary": "Les affiches sont prêtes, mais la table n’est pas une salle de spectacle. Idriss mesure l’espace devant les boîtes avec ses mains. Thaël a proposé de peindre des dossiers de chaise en carton pour annoncer les places. Il en pose un contre sa manche : la tête bleue paraît regarder par-dessus un mur. « Combien il en faut ? Trois ou mille ? » Mireille répond qu’ils sont encore en train de choisir le format.\n\n[…]\n\nLes adultes retiennent une présentation courte et privée, avec Mireille et Idriss présents. Thaël pourra choisir son public parmi les personnes prévues dans ce cadre. « Trois pour la décoration », précise Idriss en montrant les cartons. Thaël peint trois dossiers de chaise, dont un avec un soleil mal centré. Les couleurs ne désignent pas des personnes sûres : ce sont seulement des décors. Une petite salle est réservée pour répéter puis montrer les marionnettes.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Les affiches sont prêtes, mais la table n’est pas une salle de spectacle. Idriss mesure l’espace devant les boîtes avec ses mains. Thaël a proposé de peindre des dossiers de chaise en carton pour annoncer les places. Il en pose un contre sa manche : la tête bleue paraît regarder par-dessus un mur. « Combien il en faut ? Trois ou mille ? » Mireille répond qu’ils sont encore en train de choisir le format.",
+        "start": 2,
+        "end": 408
+      },
+      {
+        "quote": "Les adultes retiennent une présentation courte et privée, avec Mireille et Idriss présents. Thaël pourra choisir son public parmi les personnes prévues dans ce cadre. « Trois pour la décoration », précise Idriss en montrant les cartons. Thaël peint trois dossiers de chaise, dont un avec un soleil mal centré. Les couleurs ne désignent pas des personnes sûres : ce sont seulement des décors. Une petite salle est réservée pour répéter puis montrer les marionnettes.",
+        "start": 4686,
+        "end": 5151
+      }
+    ],
+    "canonical_concept": "La charge de protection des adultes",
+    "context": "L’organisation des places pour la présentation",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour répartir la protection et garder le projet"
+    ],
+    "clinical_code": "6B45",
+    "clinical_diagnosis": "Trouble de l’engagement social désinhibé"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/thael-etiquette-familiarite-affiche": {
+    "character": "Thaël",
+    "character_id": "thael",
+    "keywords": [
+      "Étiquetage",
+      "Confidentialité",
+      "Signature choisie"
+    ],
+    "character_keywords": [
+      "Trouble de l’engagement social désinhibé",
+      "familiarité avec les inconnus",
+      "repères de sécurité",
+      "liens sélectifs",
+      "participation aux activités"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "982bd5f924699fefded15c697c01b3b194ca089d1ace1e4002c3871915b98770",
+    "summary": "Le papier de l’affiche est plus grand que la boîte. Thaël a tracé une manche qui descend jusqu’au bord ; au-dessus, la bouche bleue de Monsieur Peut-être ressemble à une porte ouverte. Zoé dessine son oiseau sur une autre feuille. La répétition précédente n’était pas tout à fait au point, mais Idriss a proposé de préparer les petits cartons de présentation. Mireille est revenue du rendez-vous prévu avec l’équipe sans apporter de nouvelle étiquette à l’atelier.\n\n[…]\n\nThaël retourne enfin la feuille. Il demande un crayon épais pour écrire Monsieur Peut-être en grand. Son prénom ira au dos, décide-t-il ; Idriss lui laisse la place pour cela. Zoé conserve son propre titre : L’oiseau qui hésite. Ils déposent les deux affiches près des boîtes pour une petite présentation dont le public reste à organiser. Thaël ne reparle pas de la remarque. Il prend seulement soin que le dessin ne se plie pas sous la manche.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Le papier de l’affiche est plus grand que la boîte. Thaël a tracé une manche qui descend jusqu’au bord ; au-dessus, la bouche bleue de Monsieur Peut-être ressemble à une porte ouverte. Zoé dessine son oiseau sur une autre feuille. La répétition précédente n’était pas tout à fait au point, mais Idriss a proposé de préparer les petits cartons de présentation. Mireille est revenue du rendez-vous prévu avec l’équipe sans apporter de nouvelle étiquette à l’atelier.",
+        "start": 2,
+        "end": 466
+      },
+      {
+        "quote": "Thaël retourne enfin la feuille. Il demande un crayon épais pour écrire Monsieur Peut-être en grand. Son prénom ira au dos, décide-t-il ; Idriss lui laisse la place pour cela. Zoé conserve son propre titre : L’oiseau qui hésite. Ils déposent les deux affiches près des boîtes pour une petite présentation dont le public reste à organiser. Thaël ne reparle pas de la remarque. Il prend seulement soin que le dessin ne se plie pas sous la manche.",
+        "start": 4197,
+        "end": 4641
+      }
+    ],
+    "canonical_concept": "Être étiqueté par sa familiarité",
+    "context": "La préparation des petites affiches du duo",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour protéger la participation après une remarque"
+    ],
+    "clinical_code": "6B45",
+    "clinical_diagnosis": "Trouble de l’engagement social désinhibé"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/thael-impulsivite-desinhibition-repetition": {
+    "character": "Thaël",
+    "character_id": "thael",
+    "keywords": [
+      "Départ avant le signal",
+      "Organisation de tâche",
+      "Évaluation spécialisée"
+    ],
+    "character_keywords": [
+      "Trouble de l’engagement social désinhibé",
+      "familiarité avec les inconnus",
+      "repères de sécurité",
+      "liens sélectifs",
+      "participation aux activités"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "2e78b9db486b2bd6d719f70d4b3e6e5fa60e5d4423c11d502f2724906d70636f",
+    "summary": "Idriss frappe doucement le tambour pour montrer le début. Après le son, Zoé doit avancer son oiseau ; Monsieur Peut-être vient ensuite répondre. Une feuille porte les deux répliques qu’ils ont choisies. Thaël la pose sur la boîte, puis fait entrer sa marionnette avant même qu’Idriss ait levé la main. « Attends, moi je suis encore derrière », dit Zoé en cherchant son bec de carton.\n\n[…]\n\nIdriss fixe les deux répliques sur la table. Il annonce un essai, frappe le tambour, et Thaël attend que l’oiseau passe. Le suivant se mélange encore : Monsieur Peut-être arrive trop tôt, la manche recouvre une partie du texte. Zoé propose d’arrêter là pour aujourd’hui. Mireille note les deux résultats et apporte ces observations au rendez-vous prévu, hors atelier. Aucun résultat diagnostique n’est annoncé au duo. Ils pourront néanmoins dessiner leur affiche à la séance suivante.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Idriss frappe doucement le tambour pour montrer le début. Après le son, Zoé doit avancer son oiseau ; Monsieur Peut-être vient ensuite répondre. Une feuille porte les deux répliques qu’ils ont choisies. Thaël la pose sur la boîte, puis fait entrer sa marionnette avant même qu’Idriss ait levé la main. « Attends, moi je suis encore derrière », dit Zoé en cherchant son bec de carton.",
+        "start": 2,
+        "end": 385
+      },
+      {
+        "quote": "Idriss fixe les deux répliques sur la table. Il annonce un essai, frappe le tambour, et Thaël attend que l’oiseau passe. Le suivant se mélange encore : Monsieur Peut-être arrive trop tôt, la manche recouvre une partie du texte. Zoé propose d’arrêter là pour aujourd’hui. Mireille note les deux résultats et apporte ces observations au rendez-vous prévu, hors atelier. Aucun résultat diagnostique n’est annoncé au duo. Ils pourront néanmoins dessiner leur affiche à la séance suivante.",
+        "start": 4359,
+        "end": 4843
+      }
+    ],
+    "canonical_concept": "Distinguer impulsivité et désinhibition sociale",
+    "context": "La première répétition de l’entrée en scène",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour aider la tâche sans conclure au diagnostic"
+    ],
+    "clinical_code": "6B45",
+    "clinical_diagnosis": "Trouble de l’engagement social désinhibé"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/thael-joie-jeu-desinhibition": {
+    "character": "Thaël",
+    "character_id": "thael",
+    "keywords": [
+      "Humour partagé",
+      "Sociabilité",
+      "Observation précise"
+    ],
+    "character_keywords": [
+      "Trouble de l’engagement social désinhibé",
+      "familiarité avec les inconnus",
+      "repères de sécurité",
+      "liens sélectifs",
+      "participation aux activités"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "d0f47efcda56276231549a4085c9093edbfbb83dbd99e1970a5e195de5ecb1a8",
+    "summary": "La bouche tient. Thaël l’ouvre deux fois, puis la referme avec un petit claquement de carton. Zoé a terminé le bec de son oiseau et le pose juste à hauteur du visage bleu. « Tu veux venir dans mon arbre ? » demande-t-elle. Monsieur Peut-être répond avec un froissement : « Peut-être. » Thaël essaie de garder son sérieux, mais la manche accroche le bord de la boîte et les deux enfants rient.\n\n[…]\n\nZoé annonce que son oiseau dira non avant le dernier peut-être. Thaël proteste : Monsieur Peut-être devrait finir tout seul. Ils essaient pourtant les deux répliques, et le non très sec de l’oiseau fait revenir le rire. Thaël accepte de garder cette idée, sans cesser de préférer être le dernier à parler. Idriss leur propose maintenant de trouver une entrée de scène ; la boîte sert de coulisse pour le prochain essai.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "La bouche tient. Thaël l’ouvre deux fois, puis la referme avec un petit claquement de carton. Zoé a terminé le bec de son oiseau et le pose juste à hauteur du visage bleu. « Tu veux venir dans mon arbre ? » demande-t-elle. Monsieur Peut-être répond avec un froissement : « Peut-être. » Thaël essaie de garder son sérieux, mais la manche accroche le bord de la boîte et les deux enfants rient.",
+        "start": 2,
+        "end": 394
+      },
+      {
+        "quote": "Zoé annonce que son oiseau dira non avant le dernier peut-être. Thaël proteste : Monsieur Peut-être devrait finir tout seul. Ils essaient pourtant les deux répliques, et le non très sec de l’oiseau fait revenir le rire. Thaël accepte de garder cette idée, sans cesser de préférer être le dernier à parler. Idriss leur propose maintenant de trouver une entrée de scène ; la boîte sert de coulisse pour le prochain essai.",
+        "start": 4284,
+        "end": 4703
+      }
+    ],
+    "canonical_concept": "Préserver la joie sans pathologiser",
+    "context": "L’invention des répliques avec Zoé",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour préserver le jeu et préciser les limites"
+    ],
+    "clinical_code": "6B45",
+    "clinical_diagnosis": "Trouble de l’engagement social désinhibé"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/thael-lien-selectif-reparation": {
+    "character": "Thaël",
+    "character_id": "thael",
+    "keywords": [
+      "Lien sélectif",
+      "Recherche d’aide",
+      "Inquiétude adulte"
+    ],
+    "character_keywords": [
+      "Trouble de l’engagement social désinhibé",
+      "familiarité avec les inconnus",
+      "repères de sécurité",
+      "liens sélectifs",
+      "participation aux activités"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "f4b1c79118e5dac1be530d85bcbebeecab5c9896f833db65fc9c5480194bc7a0",
+    "summary": "Le papier froisse beaucoup plus fort dans la cuisine que dans l’atelier. Thaël le fait passer près de la bouche bleue de Monsieur Peut-être, pendant que Mireille prépare la table du goûter. Il a posé sa boîte sur une chaise pour garder les mains libres. La grande manche passe dans une assiette vide ; il rit et la retire avant que Mireille ait besoin de le demander.\n\n[…]\n\n« Je tiens à toi. Et oui, on continue l’atelier avec Idriss », répond Mireille. Elle ne demande pas à Thaël de lui rendre la même phrase. Ensemble, ils remettent la bouche en place ; elle assure la fixation pendant qu’il indique où le carton doit se plier. Le temps que cela tienne, il essaie le son du papier à côté. Il veut apprendre à Monsieur Peut-être à dire son propre nom. La boîte repartira à l’atelier avec la bouche réparée et sa voix froissée.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Le papier froisse beaucoup plus fort dans la cuisine que dans l’atelier. Thaël le fait passer près de la bouche bleue de Monsieur Peut-être, pendant que Mireille prépare la table du goûter. Il a posé sa boîte sur une chaise pour garder les mains libres. La grande manche passe dans une assiette vide ; il rit et la retire avant que Mireille ait besoin de le demander.",
+        "start": 2,
+        "end": 369
+      },
+      {
+        "quote": "« Je tiens à toi. Et oui, on continue l’atelier avec Idriss », répond Mireille. Elle ne demande pas à Thaël de lui rendre la même phrase. Ensemble, ils remettent la bouche en place ; elle assure la fixation pendant qu’il indique où le carton doit se plier. Le temps que cela tienne, il essaie le son du papier à côté. Il veut apprendre à Monsieur Peut-être à dire son propre nom. La boîte repartira à l’atelier avec la bouche réparée et sa voix froissée.",
+        "start": 4254,
+        "end": 4708
+      }
+    ],
+    "canonical_concept": "Un lien sélectif peut rester présent",
+    "context": "La réparation de la marionnette chez Mireille",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour soutenir le lien sans en demander la preuve"
+    ],
+    "clinical_code": "6B45",
+    "clinical_diagnosis": "Trouble de l’engagement social désinhibé"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/thael-limites-conversation-tissus": {
+    "character": "Thaël",
+    "character_id": "thael",
+    "keywords": [
+      "Questions intimes",
+      "Vie privée",
+      "Demande de matériel"
+    ],
+    "character_keywords": [
+      "Trouble de l’engagement social désinhibé",
+      "familiarité avec les inconnus",
+      "repères de sécurité",
+      "liens sélectifs",
+      "participation aux activités"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "1d6df1783c089644bdf4fb9b30c09e5a3c21a064c33a62831c30fad35379f569",
+    "summary": "La boîte à son prénom retrouve le même coin de table. Thaël en sort la chaussette et la bouche encore séparée. Il fait claquer le carton entre ses doigts : cela ressemble à une porte minuscule. Aujourd’hui, une intervenante apporte des tissus. Il l’entend avant de la voir, parce que les sacs frottent contre ses jambes. Mireille est assise à proximité et Idriss dégage une place pour les étaler.\n\n[…]\n\nThaël passe un doigt sur un velours, puis dans l’autre sens. « Celui-là, il grince un peu. C’est lequel qui grince le plus ? » La visiteuse rapproche deux chutes. Il garde la première, plus grande, et annonce que Monsieur Peut-être aura une manche trop longue. Mireille replace le carton dans la boîte. À la prochaine séance, une démonstration de couture permettra de voir comment fixer le tissu. La visiteuse repart sans qu’aucune visite chez elle ait été organisée.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "La boîte à son prénom retrouve le même coin de table. Thaël en sort la chaussette et la bouche encore séparée. Il fait claquer le carton entre ses doigts : cela ressemble à une porte minuscule. Aujourd’hui, une intervenante apporte des tissus. Il l’entend avant de la voir, parce que les sacs frottent contre ses jambes. Mireille est assise à proximité et Idriss dégage une place pour les étaler.",
+        "start": 2,
+        "end": 398
+      },
+      {
+        "quote": "Thaël passe un doigt sur un velours, puis dans l’autre sens. « Celui-là, il grince un peu. C’est lequel qui grince le plus ? » La visiteuse rapproche deux chutes. Il garde la première, plus grande, et annonce que Monsieur Peut-être aura une manche trop longue. Mireille replace le carton dans la boîte. À la prochaine séance, une démonstration de couture permettra de voir comment fixer le tissu. La visiteuse repart sans qu’aucune visite chez elle ait été organisée.",
+        "start": 4150,
+        "end": 4617
+      }
+    ],
+    "canonical_concept": "Déborder les limites de conversation",
+    "context": "La visite d’une intervenante venue apporter des tissus",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour poser une limite sans fermer l’échange"
+    ],
+    "clinical_code": "6B45",
+    "clinical_diagnosis": "Trouble de l’engagement social désinhibé"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/thael-progres-variables-nouvelle-salle": {
+    "character": "Thaël",
+    "character_id": "thael",
+    "keywords": [
+      "Évolution variable",
+      "Attentes adultes",
+      "Maintien du cadre"
+    ],
+    "character_keywords": [
+      "Trouble de l’engagement social désinhibé",
+      "familiarité avec les inconnus",
+      "repères de sécurité",
+      "liens sélectifs",
+      "participation aux activités"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "33b1de7ad4527ccf196291bb8fd3faf5691cd04ce92107a4b6312f6e666d9e05",
+    "summary": "La petite salle sent le carton rangé. Les trois dossiers peints sont posés contre les chaises, et l’affiche de Monsieur Peut-être attend encore son morceau d’adhésif. Mireille entre avec Thaël pendant qu’Idriss prépare la table qui servira de scène. Zoé installe son oiseau à côté de la boîte. Ici, la manche paraît encore plus grande que dans l’atelier ; elle peut presque toucher les deux bords de la table à la fois.\n\n[…]\n\nMireille reprend la place convenue auprès de Thaël. Idriss l’aide à installer la bouche, le papier et la feuille commune ; Zoé garde son oiseau à portée. Ils font un seul passage. Une réplique arrive un peu tôt, puis le duo retrouve la fin. Ils n’ajoutent pas un second public pour voir comment cela se passerait. Mireille transmettra l’épisode à l’équipe sans parler d’échec général. Le lieu est préparé pour la présentation privée, dont Thaël choisira les spectateurs dans le cadre prévu.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "La petite salle sent le carton rangé. Les trois dossiers peints sont posés contre les chaises, et l’affiche de Monsieur Peut-être attend encore son morceau d’adhésif. Mireille entre avec Thaël pendant qu’Idriss prépare la table qui servira de scène. Zoé installe son oiseau à côté de la boîte. Ici, la manche paraît encore plus grande que dans l’atelier ; elle peut presque toucher les deux bords de la table à la fois.",
+        "start": 2,
+        "end": 421
+      },
+      {
+        "quote": "Mireille reprend la place convenue auprès de Thaël. Idriss l’aide à installer la bouche, le papier et la feuille commune ; Zoé garde son oiseau à portée. Ils font un seul passage. Une réplique arrive un peu tôt, puis le duo retrouve la fin. Ils n’ajoutent pas un second public pour voir comment cela se passerait. Mireille transmettra l’épisode à l’équipe sans parler d’échec général. Le lieu est préparé pour la présentation privée, dont Thaël choisira les spectateurs dans le cadre prévu.",
+        "start": 4494,
+        "end": 4984
+      }
+    ],
+    "canonical_concept": "Des progrès variables selon les situations",
+    "context": "La répétition dans le lieu de présentation",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour poursuivre sans verdict sur les progrès"
+    ],
+    "clinical_code": "6B45",
+    "clinical_diagnosis": "Trouble de l’engagement social désinhibé"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/thael-proximite-corporelle-demonstration": {
+    "character": "Thaël",
+    "character_id": "thael",
+    "keywords": [
+      "Espace corporel",
+      "Consentement",
+      "Accès à la démonstration"
+    ],
+    "character_keywords": [
+      "Trouble de l’engagement social désinhibé",
+      "familiarité avec les inconnus",
+      "repères de sécurité",
+      "liens sélectifs",
+      "participation aux activités"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "d085c1a0bb337e154a43948940a2faa731bcae6c4f2c2b0a08e58881c6058ddc",
+    "summary": "Le velours déborde de la boîte et balaie le bord de la table. Thaël le pose sur la chaussette pour la troisième fois. Si Idriss le fixe tout en haut, la manche couvrira la bouche ; plus bas, elle traînera comme une petite couverture. Une couturière est venue montrer quelques assemblages. Elle installe son matériel à la place préparée par Idriss, qui garde les outils de couture du côté des adultes.\n\n[…]\n\nInstallé en face, Thaël voit le pli entier. Il pose un doigt à distance des outils pour indiquer l’emplacement voulu : assez bas pour que la bouche reste libre. Idriss fixe ensuite la manche et la bouche de carton préparée au premier atelier. Thaël enfile la chaussette et fait tourner son bras. Le velours balaie la table ; Monsieur Peut-être ressemble enfin à quelqu’un. Il faudra encore choisir les couleurs du visage et d’une main dans la grande salle de matériel.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Le velours déborde de la boîte et balaie le bord de la table. Thaël le pose sur la chaussette pour la troisième fois. Si Idriss le fixe tout en haut, la manche couvrira la bouche ; plus bas, elle traînera comme une petite couverture. Une couturière est venue montrer quelques assemblages. Elle installe son matériel à la place préparée par Idriss, qui garde les outils de couture du côté des adultes.",
+        "start": 2,
+        "end": 402
+      },
+      {
+        "quote": "Installé en face, Thaël voit le pli entier. Il pose un doigt à distance des outils pour indiquer l’emplacement voulu : assez bas pour que la bouche reste libre. Idriss fixe ensuite la manche et la bouche de carton préparée au premier atelier. Thaël enfile la chaussette et fait tourner son bras. Le velours balaie la table ; Monsieur Peut-être ressemble enfin à quelqu’un. Il faudra encore choisir les couleurs du visage et d’une main dans la grande salle de matériel.",
+        "start": 4070,
+        "end": 4538
+      }
+    ],
+    "canonical_concept": "La proximité corporelle avec un inconnu",
+    "context": "La fixation de la grande manche",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour garder une place sans imposer le contact"
+    ],
+    "clinical_code": "6B45",
+    "clinical_diagnosis": "Trouble de l’engagement social désinhibé"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/thael-public-choisi-cadre-protecteur": {
+    "character": "Thaël",
+    "character_id": "thael",
+    "keywords": [
+      "Choix du public",
+      "Participation soutenue",
+      "Projet accompli"
+    ],
+    "character_keywords": [
+      "Trouble de l’engagement social désinhibé",
+      "familiarité avec les inconnus",
+      "repères de sécurité",
+      "liens sélectifs",
+      "participation aux activités"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "950a7f20086b409d6ec082fb6eb0f37b6c8376ff7b4ac7a2fc413f75a5f94f22",
+    "summary": "Thaël a vérifié la boîte avant de partir : chaussette rayée, visage bleu, bouche fermable, main jaune, grande manche et papier sonore. L’affiche est rangée à plat, son prénom au dos. Mireille lui rappelle les personnes prévues pour cette courte présentation. Il choisit qu’elle regarde avec Idriss et Zoé. Pas tout l’atelier. « Sinon on verra plus la manche », explique-t-il, sans avoir besoin d’une meilleure raison.\n\n[…]\n\nIdriss annonce le départ avec le tambour. Zoé avance l’oiseau, puis regarde Monsieur Peut-être apparaître ; Mireille et Idriss le regardent aussi. L’oiseau pose sa question. Le papier froisse, la bouche bleue répond, et Zoé place son non avant le dernier peut-être. Thaël referme le carton d’un coup net. Une seule fois aura suffi. Il montre ensuite à Mireille le sens du velours qui grince, puis range lui-même la marionnette dans sa boîte. Il l’a fabriquée et a choisi à qui la montrer. Les adultes organisent le retour comme prévu. Le suivi continue, et les questions de tâche restent ouvertes. Thaël voudrait maintenant une seconde marionnette qui parle très doucement : il se demande quel tissu ferait une petite voix.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Thaël a vérifié la boîte avant de partir : chaussette rayée, visage bleu, bouche fermable, main jaune, grande manche et papier sonore. L’affiche est rangée à plat, son prénom au dos. Mireille lui rappelle les personnes prévues pour cette courte présentation. Il choisit qu’elle regarde avec Idriss et Zoé. Pas tout l’atelier. « Sinon on verra plus la manche », explique-t-il, sans avoir besoin d’une meilleure raison.",
+        "start": 2,
+        "end": 419
+      },
+      {
+        "quote": "Idriss annonce le départ avec le tambour. Zoé avance l’oiseau, puis regarde Monsieur Peut-être apparaître ; Mireille et Idriss le regardent aussi. L’oiseau pose sa question. Le papier froisse, la bouche bleue répond, et Zoé place son non avant le dernier peut-être. Thaël referme le carton d’un coup net. Une seule fois aura suffi. Il montre ensuite à Mireille le sens du velours qui grince, puis range lui-même la marionnette dans sa boîte. Il l’a fabriquée et a choisi à qui la montrer. Les adultes organisent le retour comme prévu. Le suivi continue, et les questions de tâche restent ouvertes. Thaël voudrait maintenant une seconde marionnette qui parle très doucement : il se demande quel tissu ferait une petite voix.",
+        "start": 4510,
+        "end": 5233
+      }
+    ],
+    "canonical_concept": "Choisir son public dans un cadre protecteur",
+    "context": "La petite présentation choisie de Monsieur Peut-être",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour soutenir un choix dans un cadre protecteur"
+    ],
+    "clinical_code": "6B45",
+    "clinical_diagnosis": "Trouble de l’engagement social désinhibé"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/thael-retour-regard-referent": {
+    "character": "Thaël",
+    "character_id": "thael",
+    "keywords": [
+      "Repérage du référent",
+      "Déplacement accompagné",
+      "Choix de peinture"
+    ],
+    "character_keywords": [
+      "Trouble de l’engagement social désinhibé",
+      "familiarité avec les inconnus",
+      "repères de sécurité",
+      "liens sélectifs",
+      "participation aux activités"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "250c03675b0dcc75538db69b71a42e9aca810f9a992d05c1bf3b93fb2012075c",
+    "summary": "Monsieur Peut-être voyage dans sa boîte, la manche repliée trois fois. Idriss a expliqué que les pots de peinture sont rangés dans une autre salle du centre. Thaël voudrait une tête bleue, mais il existe plusieurs bleus, a précisé Zoé, occupée de son côté à dessiner un oiseau. Mireille prend la boîte et accompagne Thaël jusqu’au matériel pendant qu’Idriss reste avec le groupe de l’atelier.\n\n[…]\n\nMireille ouvre la boîte sur la table. Thaël rapproche les deux bleus de la chaussette et retient celui qu’il trouve « moins nuit ». Ils rapportent le pot ensemble ; Idriss reprend l’atelier à leur arrivée. Thaël peint le visage avec lui et choisit le jaune pour une main de carton préparée à la table. Les pièces restent à sécher. La prochaine fois, un intervenant musique apportera des idées de sons pour les marionnettes.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Monsieur Peut-être voyage dans sa boîte, la manche repliée trois fois. Idriss a expliqué que les pots de peinture sont rangés dans une autre salle du centre. Thaël voudrait une tête bleue, mais il existe plusieurs bleus, a précisé Zoé, occupée de son côté à dessiner un oiseau. Mireille prend la boîte et accompagne Thaël jusqu’au matériel pendant qu’Idriss reste avec le groupe de l’atelier.",
+        "start": 2,
+        "end": 394
+      },
+      {
+        "quote": "Mireille ouvre la boîte sur la table. Thaël rapproche les deux bleus de la chaussette et retient celui qu’il trouve « moins nuit ». Ils rapportent le pot ensemble ; Idriss reprend l’atelier à leur arrivée. Thaël peint le visage avec lui et choisit le jaune pour une main de carton préparée à la table. Les pièces restent à sécher. La prochaine fois, un intervenant musique apportera des idées de sons pour les marionnettes.",
+        "start": 4111,
+        "end": 4534
+      }
+    ],
+    "canonical_concept": "Ne pas vérifier le retour au référent",
+    "context": "Le choix des couleurs dans la grande salle",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour soutenir un déplacement accompagné"
+    ],
+    "clinical_code": "6B45",
+    "clinical_diagnosis": "Trouble de l’engagement social désinhibé"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/thael-suivre-adulte-inconnu": {
+    "character": "Thaël",
+    "character_id": "thael",
+    "keywords": [
+      "Départ spontané",
+      "Responsabilité adulte",
+      "Choix d’un son"
+    ],
+    "character_keywords": [
+      "Trouble de l’engagement social désinhibé",
+      "familiarité avec les inconnus",
+      "repères de sécurité",
+      "liens sélectifs",
+      "participation aux activités"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "389c47ea86dab4f2fcc23df0b82bcddb7e7a38e0d2f18daf11e84e02ee5c522d",
+    "summary": "Le visage bleu a séché. Thaël fait fermer la bouche de carton et agite la main jaune devant Zoé. L’oiseau qu’elle prépare n’a pas encore de voix non plus. Sur la table, l’intervenant musique dispose quelques objets pour chercher des sons. Idriss le présente au groupe ; Mireille garde sa place près de Thaël. Celui-ci n’a jamais vu cet homme auparavant, mais il lui raconte déjà que sa marionnette ne doit surtout pas avoir une voix de bébé.\n\n[…]\n\nIdriss revient avec le tambour. Thaël l’écoute, puis trouve qu’il est trop gros pour une bouche qui dit peut-être. Il choisit le froissement d’un papier manipulé à côté de la marionnette et garde le tambour pour annoncer son entrée. Il boude encore un peu quand Mireille ferme la boîte. Idriss et elle consignent l’observation pour l’équipe spécialisée ; Mireille l’apporte au suivi convenu. Elle rapporte ensuite la boîte à la maison pour qu’ils puissent essayer le son.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Le visage bleu a séché. Thaël fait fermer la bouche de carton et agite la main jaune devant Zoé. L’oiseau qu’elle prépare n’a pas encore de voix non plus. Sur la table, l’intervenant musique dispose quelques objets pour chercher des sons. Idriss le présente au groupe ; Mireille garde sa place près de Thaël. Celui-ci n’a jamais vu cet homme auparavant, mais il lui raconte déjà que sa marionnette ne doit surtout pas avoir une voix de bébé.",
+        "start": 2,
+        "end": 443
+      },
+      {
+        "quote": "Idriss revient avec le tambour. Thaël l’écoute, puis trouve qu’il est trop gros pour une bouche qui dit peut-être. Il choisit le froissement d’un papier manipulé à côté de la marionnette et garde le tambour pour annoncer son entrée. Il boude encore un peu quand Mireille ferme la boîte. Idriss et elle consignent l’observation pour l’équipe spécialisée ; Mireille l’apporte au suivi convenu. Elle rapporte ensuite la boîte à la maison pour qu’ils puissent essayer le son.",
+        "start": 4308,
+        "end": 4779
+      }
+    ],
+    "canonical_concept": "Accepter de partir avec un adulte inconnu",
+    "context": "La recherche d’une voix pour Monsieur Peut-être",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour reprendre le cadre avant un départ"
+    ],
+    "clinical_code": "6B45",
+    "clinical_diagnosis": "Trouble de l’engagement social désinhibé"
   },
   "posts/comprendre-et-maitriser-ses-emotions/thais-choisir-objectif-suivi": {
     "character": "Thaïs",

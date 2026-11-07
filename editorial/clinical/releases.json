@@ -552,6 +552,26 @@
       "design_sha256": "7598c33fedbcaa5971d147789439936aaf4431f7b5b4e46c8edc0def8e6862d1",
       "independent_review_sha256": "4bc6559c79b65744810a128aa24754dd45cf4283f6e8dcf1cf193944972cfc7c",
       "review": "Relecture indépendante des douze épisodes : attribution médicale, vécu de peur sans causalité, soins sans protocole domestique, réévaluation et urgence appropriées ; continuité du tournoi et des relais vérifiée."
+    },
+    "aubin": {
+      "date": "2026-11-07",
+      "status": "editorially_reviewed",
+      "article_format": 2,
+      "sha256": "67e72e71cb7249b46010f86ccf20dafd3a871ac32529074271a54a514a56d3e5",
+      "dossier_sha256": "e2ec4cc9b8e4c10cbb677a12d2261ade939dbf0af6c5fe148dbbf4959959e100",
+      "design_sha256": "2e603abdda52c4b662f418ea7ed80ca21b202e6917b904735531a2918cb98601",
+      "independent_review_sha256": "39217d5d8c5c59a50e0626c02eebc043b83157109be702e21f046a2de66ded85",
+      "review": "Douze épisodes relus indépendamment : continuité, carences contextualisées, alerte immédiate et reprise conditionnée ; proches dans leur rôle. Rapport accepté sans correction ouverte."
+    },
+    "thael": {
+      "date": "2026-11-07",
+      "status": "editorially_reviewed",
+      "article_format": 2,
+      "sha256": "75375765f015d5f0e0e2422907b49fb0d35c8758cc1d975d481d907eb2a33503",
+      "dossier_sha256": "da175d9963bd9cc2ff48afed16bf8f74d31667769124bb1c493f65eff59d7ac1",
+      "design_sha256": "dec7a8f9af711389fe081c21e320e79cb56db47289fd6d920c92d07199fef782",
+      "independent_review_sha256": "25935d932f4e45c5bac95a60e9297169147faabfd1db35aa59173f9926d29b3b",
+      "review": "Douze épisodes relus indépendamment : désinhibition sociale distincte du tempérament et du TDAH, protection effective, consentement corporel et continuité ; aucune correction ouverte."
     }
   }
 }

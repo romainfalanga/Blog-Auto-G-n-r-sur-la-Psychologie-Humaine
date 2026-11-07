@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "revision": 234,
+  "revision": 238,
   "created_at": "2026-11-07T14:47:42Z",
   "cases": {
     "mathis": {
@@ -2818,9 +2818,9 @@
     "thael": {
       "character_id": "thael",
       "code": "6B45",
-      "stage": "review",
+      "stage": "ready_to_publish",
       "created_at": "2026-11-07T14:47:42Z",
-      "active_job": "725b281b0f6e4951bf8c5bd15b7f83e1",
+      "active_job": null,
       "owners": {
         "character": [
           "personnage_thael"
@@ -2859,6 +2859,24 @@
               "editorial/clinical/thael.json": "75375765f015d5f0e0e2422907b49fb0d35c8758cc1d975d481d907eb2a33503"
             },
             "episodes": 12
+          }
+        },
+        "review": {
+          "job_id": "725b281b0f6e4951bf8c5bd15b7f83e1",
+          "owner": "review_thael",
+          "validated_at": "2026-11-07T17:58:41Z",
+          "validation": {
+            "character_id": "thael",
+            "files": {
+              "editorial/clinical/designs/thael.json": "dec7a8f9af711389fe081c21e320e79cb56db47289fd6d920c92d07199fef782",
+              "editorial/clinical/dossiers/thael.json": "da175d9963bd9cc2ff48afed16bf8f74d31667769124bb1c493f65eff59d7ac1",
+              "editorial/clinical/thael.json": "75375765f015d5f0e0e2422907b49fb0d35c8758cc1d975d481d907eb2a33503",
+              "editorial/clinical/reviews/thael.json": "25935d932f4e45c5bac95a60e9297169147faabfd1db35aa59173f9926d29b3b"
+            },
+            "episodes": 12,
+            "status": "passed",
+            "findings": [],
+            "reviewer": "review_thael"
           }
         }
       },
@@ -3240,9 +3258,9 @@
     "aubin": {
       "character_id": "aubin",
       "code": "6B84",
-      "stage": "review",
+      "stage": "ready_to_publish",
       "created_at": "2026-11-07T14:47:42Z",
-      "active_job": "aa4c74119833481d8a2433b14cf2adc2",
+      "active_job": null,
       "owners": {
         "character": [
           "personnage_aubin"
@@ -3281,6 +3299,24 @@
               "editorial/clinical/aubin.json": "67e72e71cb7249b46010f86ccf20dafd3a871ac32529074271a54a514a56d3e5"
             },
             "episodes": 12
+          }
+        },
+        "review": {
+          "job_id": "aa4c74119833481d8a2433b14cf2adc2",
+          "owner": "review_aubin",
+          "validated_at": "2026-11-07T17:58:38Z",
+          "validation": {
+            "character_id": "aubin",
+            "files": {
+              "editorial/clinical/designs/aubin.json": "2e603abdda52c4b662f418ea7ed80ca21b202e6917b904735531a2918cb98601",
+              "editorial/clinical/dossiers/aubin.json": "e2ec4cc9b8e4c10cbb677a12d2261ade939dbf0af6c5fe148dbbf4959959e100",
+              "editorial/clinical/aubin.json": "67e72e71cb7249b46010f86ccf20dafd3a871ac32529074271a54a514a56d3e5",
+              "editorial/clinical/reviews/aubin.json": "39217d5d8c5c59a50e0626c02eebc043b83157109be702e21f046a2de66ded85"
+            },
+            "episodes": 12,
+            "status": "passed",
+            "findings": [],
+            "reviewer": "review_aubin"
           }
         }
       },
@@ -27345,10 +27381,24 @@
         }
       },
       "snapshot_sha256": "f67d687fa0c4146112a4a55a81935e200c8a238f4a2625fb2280f0c8b2158184",
-      "status": "active",
+      "status": "finished",
       "token_sha256": "2283f5dfd0eb37bd5f7397e9d18dbbb30ca7e0a6c940bcc4708cdda7ec57083d",
       "heartbeat_at": "2026-11-07T17:57:24Z",
-      "expires_at": "2026-11-07T18:27:24Z"
+      "expires_at": "2026-11-07T18:27:24Z",
+      "finished_at": "2026-11-07T17:58:38Z",
+      "validation": {
+        "character_id": "aubin",
+        "files": {
+          "editorial/clinical/designs/aubin.json": "2e603abdda52c4b662f418ea7ed80ca21b202e6917b904735531a2918cb98601",
+          "editorial/clinical/dossiers/aubin.json": "e2ec4cc9b8e4c10cbb677a12d2261ade939dbf0af6c5fe148dbbf4959959e100",
+          "editorial/clinical/aubin.json": "67e72e71cb7249b46010f86ccf20dafd3a871ac32529074271a54a514a56d3e5",
+          "editorial/clinical/reviews/aubin.json": "39217d5d8c5c59a50e0626c02eebc043b83157109be702e21f046a2de66ded85"
+        },
+        "episodes": 12,
+        "status": "passed",
+        "findings": [],
+        "reviewer": "review_aubin"
+      }
     },
     "725b281b0f6e4951bf8c5bd15b7f83e1": {
       "id": "725b281b0f6e4951bf8c5bd15b7f83e1",
@@ -29054,11 +29104,25 @@
         }
       },
       "snapshot_sha256": "4c1ac6839bf0fde16b49d3d2da58bacb4a6160842e76435072f6f288c0e6e1a4",
-      "status": "active",
+      "status": "finished",
       "token_sha256": "e6ee3df6c86579d5304d0d874b2a925068cbf6d1f56a003a50579291c5fc9ff5",
       "heartbeat_at": "2026-11-07T17:57:46Z",
-      "expires_at": "2026-11-07T18:27:46Z"
+      "expires_at": "2026-11-07T18:27:46Z",
+      "finished_at": "2026-11-07T17:58:41Z",
+      "validation": {
+        "character_id": "thael",
+        "files": {
+          "editorial/clinical/designs/thael.json": "dec7a8f9af711389fe081c21e320e79cb56db47289fd6d920c92d07199fef782",
+          "editorial/clinical/dossiers/thael.json": "da175d9963bd9cc2ff48afed16bf8f74d31667769124bb1c493f65eff59d7ac1",
+          "editorial/clinical/thael.json": "75375765f015d5f0e0e2422907b49fb0d35c8758cc1d975d481d907eb2a33503",
+          "editorial/clinical/reviews/thael.json": "25935d932f4e45c5bac95a60e9297169147faabfd1db35aa59173f9926d29b3b"
+        },
+        "episodes": 12,
+        "status": "passed",
+        "findings": [],
+        "reviewer": "review_thael"
+      }
     }
   },
-  "updated_at": "2026-11-07T17:57:46Z"
+  "updated_at": "2026-11-07T17:58:41Z"
 }

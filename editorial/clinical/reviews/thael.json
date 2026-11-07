@@ -1,0 +1,124 @@
+{
+  "schema_version": 1,
+  "character_id": "thael",
+  "reviewer": "review_thael",
+  "reviewed_on": "2026-11-07",
+  "status": "passed",
+  "summary": "Relecture indépendante intégrale des douze épisodes, du canon, du dossier, du plan, de la charte et du modèle. Les cinq manifestations initiales restent distinctes ; lien sélectif, joie, question différentielle, stigmatisation, charge adulte, évolution et participation apportent sept angles supplémentaires sans créer de critères diagnostiques. Continuité des matériaux et décisions vérifiée jusqu’au public final. Les trente-six appuis restent des adaptations de loisir, avec protection adulte et suivi ; aucune inférence de TDAH, causalité de placement ou promesse de soin. Vérification primaire complémentaire : AACAP 2022 et résumé PubMed Guyon-Harris 2018 relus ; accès direct NICE refusé (403), ses points retenus sont ceux du dossier validé, sans nouvelle prescription. Aucune correction ouverte.",
+  "files": {
+    "editorial/clinical/designs/thael.json": "dec7a8f9af711389fe081c21e320e79cb56db47289fd6d920c92d07199fef782",
+    "editorial/clinical/dossiers/thael.json": "da175d9963bd9cc2ff48afed16bf8f74d31667769124bb1c493f65eff59d7ac1",
+    "editorial/clinical/thael.json": "75375765f015d5f0e0e2422907b49fb0d35c8758cc1d975d481d907eb2a33503"
+  },
+  "findings": [],
+  "episode_checks": [
+    {
+      "number": 1,
+      "focus": "Aborder un inconnu sans réserve",
+      "opening_quote": "La chaussette dépasse de la poche de Thaël comme une langue rayée. Il l’a choisie avant de venir : assez longue pour cacher tout son avant-bras, assez usée pour devenir autre chose. Mireille pousse la porte de l’atelier avec lui. Idriss leur fait signe depuis une table couverte de cartons, mais Thaël a déjà sorti la chaussette devant un homme qui dépose un sac près du vestiaire.",
+      "ending_quote": "Le visiteur repart seul. Thaël demande encore s’il reviendra, puis pose la chaussette sur la table. Idriss lui montre un carton souple et un autre plus épais. Il choisit le souple. « Sa bouche, elle doit pouvoir dire non aussi. » Mireille sourit sans transformer cette phrase en leçon. Idriss prépare la pièce, que Thaël essaie contre les rayures. Ils rangent la bouche et la chaussette dans une boîte à son prénom ; la fixation attendra les tissus.",
+      "continuity_note": "La chaussette rayée devient une première bouche de carton souple, rangée séparément pour attendre les tissus. Le visiteur repart seul, sans rôle attribué rétrospectivement.",
+      "clinical_note": "La tâche immédiatement confiée au père inconnu rend visible la faible réserve. Le diagnostic préexiste à huit ans et cette seule arrivée ne le prouve pas. Les trois appuis organisent accueil, relais et choix matériel sans traitement promis.",
+      "relatives_note": "Le visiteur peut refuser le rôle proposé et nommer Idriss ; Mireille et Idriss assument le relais, sans lui demander une évaluation."
+    },
+    {
+      "number": 2,
+      "focus": "Déborder les limites de conversation",
+      "opening_quote": "La boîte à son prénom retrouve le même coin de table. Thaël en sort la chaussette et la bouche encore séparée. Il fait claquer le carton entre ses doigts : cela ressemble à une porte minuscule. Aujourd’hui, une intervenante apporte des tissus. Il l’entend avant de la voir, parce que les sacs frottent contre ses jambes. Mireille est assise à proximité et Idriss dégage une place pour les étaler.",
+      "ending_quote": "Thaël passe un doigt sur un velours, puis dans l’autre sens. « Celui-là, il grince un peu. C’est lequel qui grince le plus ? » La visiteuse rapproche deux chutes. Il garde la première, plus grande, et annonce que Monsieur Peut-être aura une manche trop longue. Mireille replace le carton dans la boîte. À la prochaine séance, une démonstration de couture permettra de voir comment fixer le tissu. La visiteuse repart sans qu’aucune visite chez elle ait été organisée.",
+      "continuity_note": "La bouche encore séparée reprend la boîte du premier épisode ; le velours choisi prépare la couture et reçoit le nom Monsieur Peut-être.",
+      "clinical_note": "La question intime et la proposition de visite illustrent la familiarité verbale, distincte de la rapidité du premier contact. La curiosité sur les tissus demeure ordinaire ; les trois appuis protègent la vie privée et permettent une demande concrète.",
+      "relatives_note": "La visiteuse garde sa vie privée et peut montrer le tissu ; Mireille ne doit ni se confesser ni exposer le diagnostic au groupe."
+    },
+    {
+      "number": 3,
+      "focus": "La proximité corporelle avec un inconnu",
+      "opening_quote": "Le velours déborde de la boîte et balaie le bord de la table. Thaël le pose sur la chaussette pour la troisième fois. Si Idriss le fixe tout en haut, la manche couvrira la bouche ; plus bas, elle traînera comme une petite couverture. Une couturière est venue montrer quelques assemblages. Elle installe son matériel à la place préparée par Idriss, qui garde les outils de couture du côté des adultes.",
+      "ending_quote": "Installé en face, Thaël voit le pli entier. Il pose un doigt à distance des outils pour indiquer l’emplacement voulu : assez bas pour que la bouche reste libre. Idriss fixe ensuite la manche et la bouche de carton préparée au premier atelier. Thaël enfile la chaussette et fait tourner son bras. Le velours balaie la table ; Monsieur Peut-être ressemble enfin à quelqu’un. Il faudra encore choisir les couleurs du visage et d’une main dans la grande salle de matériel.",
+      "continuity_note": "La démonstration reprend le velours non fixé ; Idriss fixe ensuite manche et bouche en gardant celle-ci libre, avant le choix des couleurs.",
+      "clinical_note": "Le contact sur le bras de la couturière montre la familiarité corporelle. Place visible et manipulation adulte des outils répondent au besoin sans contact exigé. La non-coercition rejoint la déclaration AACAP 2022 relue le 7 novembre.",
+      "relatives_note": "La couturière peut limiter le contact sans devoir le supporter pour être accueillante. Le droit symétrique de Thaël à ne pas être touché est maintenu, sans câlin réparateur."
+    },
+    {
+      "number": 4,
+      "focus": "Ne pas vérifier le retour au référent",
+      "opening_quote": "Monsieur Peut-être voyage dans sa boîte, la manche repliée trois fois. Idriss a expliqué que les pots de peinture sont rangés dans une autre salle du centre. Thaël voudrait une tête bleue, mais il existe plusieurs bleus, a précisé Zoé, occupée de son côté à dessiner un oiseau. Mireille prend la boîte et accompagne Thaël jusqu’au matériel pendant qu’Idriss reste avec le groupe de l’atelier.",
+      "ending_quote": "Mireille ouvre la boîte sur la table. Thaël rapproche les deux bleus de la chaussette et retient celui qu’il trouve « moins nuit ». Ils rapportent le pot ensemble ; Idriss reprend l’atelier à leur arrivée. Thaël peint le visage avec lui et choisit le jaune pour une main de carton préparée à la table. Les pièces restent à sécher. La prochaine fois, un intervenant musique apportera des idées de sons pour les marionnettes.",
+      "continuity_note": "La manche fixée voyage repliée ; Mireille accompagne les couleurs pendant qu’Idriss garde le groupe. Le bleu et la main jaune sont réalisés au retour puis sèchent.",
+      "clinical_note": "L’absence de retour du regard est distinguée du départ avec un inconnu. Mireille suit puis rejoint immédiatement ; table-repère et deux pots soutiennent la tâche sans déléguer la protection à la mémorisation.",
+      "relatives_note": "Le conseil évite le reproche affectif d’avoir oublié Mireille. Si la salle gêne, les adultes changent leur organisation et sollicitent l’équipe."
+    },
+    {
+      "number": 5,
+      "focus": "Accepter de partir avec un adulte inconnu",
+      "opening_quote": "Le visage bleu a séché. Thaël fait fermer la bouche de carton et agite la main jaune devant Zoé. L’oiseau qu’elle prépare n’a pas encore de voix non plus. Sur la table, l’intervenant musique dispose quelques objets pour chercher des sons. Idriss le présente au groupe ; Mireille garde sa place près de Thaël. Celui-ci n’a jamais vu cet homme auparavant, mais il lui raconte déjà que sa marionnette ne doit surtout pas avoir une voix de bébé.",
+      "ending_quote": "Idriss revient avec le tambour. Thaël l’écoute, puis trouve qu’il est trop gros pour une bouche qui dit peut-être. Il choisit le froissement d’un papier manipulé à côté de la marionnette et garde le tambour pour annoncer son entrée. Il boude encore un peu quand Mireille ferme la boîte. Idriss et elle consignent l’observation pour l’équipe spécialisée ; Mireille l’apporte au suivi convenu. Elle rapporte ensuite la boîte à la maison pour qu’ils puissent essayer le son.",
+      "continuity_note": "Les couleurs sèches ouvrent la recherche sonore ; le tambour est récupéré par Idriss après relais explicite. Le papier choisi et la boîte arrivent ensuite à la maison.",
+      "clinical_note": "La mise en mouvement vers la porte suit l’annonce du tambour, sans invitation ni piège. L’arrêt précède la sortie ; les rôles du groupe et la transmission au suivi sont effectifs dans le récit.",
+      "relatives_note": "Mireille reconnaît le désir de tambour sans exiger de peur ou de promesse. Sa propre inquiétude est adressée à l’équipe, pas transformée en dette affective."
+    },
+    {
+      "number": 6,
+      "focus": "Un lien sélectif peut rester présent",
+      "opening_quote": "Le papier froisse beaucoup plus fort dans la cuisine que dans l’atelier. Thaël le fait passer près de la bouche bleue de Monsieur Peut-être, pendant que Mireille prépare la table du goûter. Il a posé sa boîte sur une chaise pour garder les mains libres. La grande manche passe dans une assiette vide ; il rit et la retire avant que Mireille ait besoin de le demander.",
+      "ending_quote": "« Je tiens à toi. Et oui, on continue l’atelier avec Idriss », répond Mireille. Elle ne demande pas à Thaël de lui rendre la même phrase. Ensemble, ils remettent la bouche en place ; elle assure la fixation pendant qu’il indique où le carton doit se plier. Le temps que cela tienne, il essaie le son du papier à côté. Il veut apprendre à Monsieur Peut-être à dire son propre nom. La boîte repartira à l’atelier avec la bouche réparée et sa voix froissée.",
+      "continuity_note": "La bouche fixée se décolle pendant l’essai du son chez Mireille. Sa réparation permet le retour à l’atelier et la future réplique de Monsieur Peut-être.",
+      "clinical_note": "Le recours personnel à Mireille montre la compatibilité entre lien sélectif et désinhibition sociale. La scène refuse explicitement le test d’attachement et la guérison par proximité ; aide présente et soutien adulte restent séparés.",
+      "relatives_note": "La phrase sur la poursuite de l’atelier répond à la crainte visible. Mireille peut parler séparément de sa peur sans exiger de réponse affective de Thaël."
+    },
+    {
+      "number": 7,
+      "focus": "Préserver la joie sans pathologiser",
+      "opening_quote": "La bouche tient. Thaël l’ouvre deux fois, puis la referme avec un petit claquement de carton. Zoé a terminé le bec de son oiseau et le pose juste à hauteur du visage bleu. « Tu veux venir dans mon arbre ? » demande-t-elle. Monsieur Peut-être répond avec un froissement : « Peut-être. » Thaël essaie de garder son sérieux, mais la manche accroche le bord de la boîte et les deux enfants rient.",
+      "ending_quote": "Zoé annonce que son oiseau dira non avant le dernier peut-être. Thaël proteste : Monsieur Peut-être devrait finir tout seul. Ils essaient pourtant les deux répliques, et le non très sec de l’oiseau fait revenir le rire. Thaël accepte de garder cette idée, sans cesser de préférer être le dernier à parler. Idriss leur propose maintenant de trouver une entrée de scène ; la boîte sert de coulisse pour le prochain essai.",
+      "continuity_note": "La bouche réparée et la voix froissée servent au duo ; l’oiseau de Zoé obtient son non avant le dernier peut-être, puis une entrée reste à préparer.",
+      "clinical_note": "Le rire avec une enfant connue est distingué des comportements envers des inconnus. La remarque de l’adulte est recadrée ; ni silence global demandé ni joie interprétée comme guérison.",
+      "relatives_note": "Mireille défend le jeu et le cadre des visiteurs ensemble. Zoé reste partenaire avec sa propre réplique, jamais surveillante ni correctrice du trouble."
+    },
+    {
+      "number": 8,
+      "focus": "Distinguer impulsivité et désinhibition sociale",
+      "opening_quote": "Idriss frappe doucement le tambour pour montrer le début. Après le son, Zoé doit avancer son oiseau ; Monsieur Peut-être vient ensuite répondre. Une feuille porte les deux répliques qu’ils ont choisies. Thaël la pose sur la boîte, puis fait entrer sa marionnette avant même qu’Idriss ait levé la main. « Attends, moi je suis encore derrière », dit Zoé en cherchant son bec de carton.",
+      "ending_quote": "Idriss fixe les deux répliques sur la table. Il annonce un essai, frappe le tambour, et Thaël attend que l’oiseau passe. Le suivant se mélange encore : Monsieur Peut-être arrive trop tôt, la manche recouvre une partie du texte. Zoé propose d’arrêter là pour aujourd’hui. Mireille note les deux résultats et apporte ces observations au rendez-vous prévu, hors atelier. Aucun résultat diagnostique n’est annoncé au duo. Ils pourront néanmoins dessiner leur affiche à la séance suivante.",
+      "continuity_note": "Le tambour d’entrée et les deux répliques motivent la répétition. Une feuille commune est fixée, les résultats restent mixtes et les observations arrivent au suivi avant les affiches.",
+      "clinical_note": "Lancement précoce et feuille perdue sont décrits comme difficultés de tâche. La coexistence possible avec un TDAH n’en constitue ni affirmation ni exclusion ; un essai réussi ne tranche rien et la docteure reçoit les observations.",
+      "relatives_note": "Idriss reconnaît son rapprochement excessif, Mireille précise sans diagnostiquer, Zoé peut demander une pause et n’est pas chargée de rappeler les règles."
+    },
+    {
+      "number": 9,
+      "focus": "Être étiqueté par sa familiarité",
+      "opening_quote": "Le papier de l’affiche est plus grand que la boîte. Thaël a tracé une manche qui descend jusqu’au bord ; au-dessus, la bouche bleue de Monsieur Peut-être ressemble à une porte ouverte. Zoé dessine son oiseau sur une autre feuille. La répétition précédente n’était pas tout à fait au point, mais Idriss a proposé de préparer les petits cartons de présentation. Mireille est revenue du rendez-vous prévu avec l’équipe sans apporter de nouvelle étiquette à l’atelier.",
+      "ending_quote": "Thaël retourne enfin la feuille. Il demande un crayon épais pour écrire Monsieur Peut-être en grand. Son prénom ira au dos, décide-t-il ; Idriss lui laisse la place pour cela. Zoé conserve son propre titre : L’oiseau qui hésite. Ils déposent les deux affiches près des boîtes pour une petite présentation dont le public reste à organiser. Thaël ne reparle pas de la remarque. Il prend seulement soin que le dessin ne se plie pas sous la manche.",
+      "continuity_note": "Le rendez-vous a eu lieu sans résultat diagnostique inventé. Les affiches gardent le visage bleu, la manche et l’oiseau ; prénom au dos et titres devant préparent le public à organiser.",
+      "clinical_note": "La remarque colle tout le monde est traitée comme étiquetage et retentissement social, explicitement pas comme critère supplémentaire. Idriss intervient immédiatement et propose un vrai choix de signature sans victoire thérapeutique.",
+      "relatives_note": "Le miroir part de la feuille retournée, propose une phrase simple et évite l’interrogatoire répétitif. Zoé partage ses crayons sans devoir défendre un dossier médical."
+    },
+    {
+      "number": 10,
+      "focus": "La charge de protection des adultes",
+      "opening_quote": "Les affiches sont prêtes, mais la table n’est pas une salle de spectacle. Idriss mesure l’espace devant les boîtes avec ses mains. Thaël a proposé de peindre des dossiers de chaise en carton pour annoncer les places. Il en pose un contre sa manche : la tête bleue paraît regarder par-dessus un mur. « Combien il en faut ? Trois ou mille ? » Mireille répond qu’ils sont encore en train de choisir le format.",
+      "ending_quote": "Les adultes retiennent une présentation courte et privée, avec Mireille et Idriss présents. Thaël pourra choisir son public parmi les personnes prévues dans ce cadre. « Trois pour la décoration », précise Idriss en montrant les cartons. Thaël peint trois dossiers de chaise, dont un avec un soleil mal centré. Les couleurs ne désignent pas des personnes sûres : ce sont seulement des décors. Une petite salle est réservée pour répéter puis montrer les marionnettes.",
+      "continuity_note": "Les affiches prêtes conduisent au nombre de places ; les adultes retiennent une présentation privée et Thaël peint trois dossiers purement décoratifs. La petite salle est réservée.",
+      "clinical_note": "La vigilance éprouvante appartient au retentissement sur les accueillants, pas à un symptôme de l’enfant. Soutien spécialisé, rôles nommés et format réalisable sont discutés sans service promis, enfermement ou contrat de bonne conduite.",
+      "relatives_note": "Mireille peut demander à regarder l’œuvre sans cumuler tous les rôles ; Idriss peut refuser une date faute de relais. Thaël conserve les choix artistiques sans recevoir la faute de la fatigue."
+    },
+    {
+      "number": 11,
+      "focus": "Des progrès variables selon les situations",
+      "opening_quote": "La petite salle sent le carton rangé. Les trois dossiers peints sont posés contre les chaises, et l’affiche de Monsieur Peut-être attend encore son morceau d’adhésif. Mireille entre avec Thaël pendant qu’Idriss prépare la table qui servira de scène. Zoé installe son oiseau à côté de la boîte. Ici, la manche paraît encore plus grande que dans l’atelier ; elle peut presque toucher les deux bords de la table à la fois.",
+      "ending_quote": "Mireille reprend la place convenue auprès de Thaël. Idriss l’aide à installer la bouche, le papier et la feuille commune ; Zoé garde son oiseau à portée. Ils font un seul passage. Une réplique arrive un peu tôt, puis le duo retrouve la fin. Ils n’ajoutent pas un second public pour voir comment cela se passerait. Mireille transmettra l’épisode à l’équipe sans parler d’échec général. Le lieu est préparé pour la présentation privée, dont Thaël choisira les spectateurs dans le cadre prévu.",
+      "continuity_note": "Les trois dossiers et affiches arrivent dans la petite salle ; bouche, papier et feuille commune sont repris pour un passage. Le public demeure restreint après la répétition.",
+      "clinical_note": "La familiarité avec l’agent inconnu coexiste avec les séances plus faciles. Le manuscrit distingue nouvelle situation et causalité, ainsi que suivi collectif et pronostic individuel. Le résumé PubMed de Guyon-Harris 2018 relu confirme l’hétérogénéité des trajectoires sans justifier un verdict sur Thaël.",
+      "relatives_note": "La déception de Mireille peut être confiée au professionnel ; la phrase située près de la boîte reprend le soutien sans accuser l’enfant de recul. Aucun public supplémentaire pour tester les progrès."
+    },
+    {
+      "number": 12,
+      "focus": "Choisir son public dans un cadre protecteur",
+      "opening_quote": "Thaël a vérifié la boîte avant de partir : chaussette rayée, visage bleu, bouche fermable, main jaune, grande manche et papier sonore. L’affiche est rangée à plat, son prénom au dos. Mireille lui rappelle les personnes prévues pour cette courte présentation. Il choisit qu’elle regarde avec Idriss et Zoé. Pas tout l’atelier. « Sinon on verra plus la manche », explique-t-il, sans avoir besoin d’une meilleure raison.",
+      "ending_quote": "Idriss annonce le départ avec le tambour. Zoé avance l’oiseau, puis regarde Monsieur Peut-être apparaître ; Mireille et Idriss le regardent aussi. L’oiseau pose sa question. Le papier froisse, la bouche bleue répond, et Zoé place son non avant le dernier peut-être. Thaël referme le carton d’un coup net. Une seule fois aura suffi. Il montre ensuite à Mireille le sens du velours qui grince, puis range lui-même la marionnette dans sa boîte. Il l’a fabriquée et a choisi à qui la montrer. Les adultes organisent le retour comme prévu. Le suivi continue, et les questions de tâche restent ouvertes. Thaël voudrait maintenant une seconde marionnette qui parle très doucement : il se demande quel tissu ferait une petite voix.",
+      "continuity_note": "Le contrôle de la boîte reprend tous les matériaux ; le non de l’oiseau précède bien le dernier peut-être. Mireille, Idriss et Zoé constituent le public choisi ; rangement et envie d’une seconde marionnette ferment le projet.",
+      "clinical_note": "Le choix d’un petit public coexiste avec une conversation familière à l’entrée et un accueil accompagné. Participation et résultat artistique sont séparés de l’évolution diagnostique ; le suivi et les questions de tâche restent ouverts jusque dans la fin.",
+      "relatives_note": "Mireille décrit un geste artistique au lieu de déclarer Thaël sage ou guéri. Idriss accompagne la sortie et Zoé garde ses projets sans devenir garante de la sécurité future."
+    }
+  ]
+}

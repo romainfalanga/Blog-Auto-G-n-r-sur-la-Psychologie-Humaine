@@ -467,6 +467,18 @@
     ],
     "source": "repères des parcours cliniques de fiction"
   },
+  "aubin": {
+    "id": "aubin",
+    "name": "Aubin",
+    "keywords": [
+      "Pica",
+      "Envies difficiles à interrompre",
+      "Sécurité des espaces",
+      "Aide discrète",
+      "Participation scolaire"
+    ],
+    "source": "repères des parcours cliniques de fiction"
+  },
   "augustin": {
     "id": "augustin",
     "name": "Augustin",
@@ -1172,6 +1184,18 @@
       "Épisodes de l’humeur",
       "Signes de rechute",
       "Rétablissement au travail"
+    ],
+    "source": "repères des parcours cliniques de fiction"
+  },
+  "thaël": {
+    "id": "thael",
+    "name": "Thaël",
+    "keywords": [
+      "Trouble de l’engagement social désinhibé",
+      "familiarité avec les inconnus",
+      "repères de sécurité",
+      "liens sélectifs",
+      "participation aux activités"
     ],
     "source": "repères des parcours cliniques de fiction"
   },
