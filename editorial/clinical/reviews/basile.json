@@ -1,0 +1,124 @@
+{
+  "schema_version": 1,
+  "character_id": "basile",
+  "reviewer": "review_basile",
+  "reviewed_on": "2026-11-07",
+  "summary": "Lecture indépendante intégrale des douze épisodes, du canon, du dossier, du design, de la charte et du modèle. La trame complète, les douze aspects, les décisions matérielles successives, les appuis aux proches et les limites cliniques sont cohérents. Contrôle direct des CDDR OMS 6B44 pages 355–357, de la position AACAP 2022 et de Smyke 2012. Après correction de la référence diagnostique à Basile seul dans l’épisode 7, le contrôle des octets confirme que cette substitution est l’unique modification depuis la lecture intégrale. Le passage corrigé et les douze raccords ont été revérifiés ; aucune correction ne reste ouverte.",
+  "files": {
+    "editorial/clinical/designs/basile.json": "0e02ad73a184a095d5aed6748384167c7012a12ea89046e48ab25a38d71542fd",
+    "editorial/clinical/dossiers/basile.json": "939284e290150b5e5afa2dee7a0928d202cd47532233a4dba4ae8056733c7b6a",
+    "editorial/clinical/basile.json": "7900b102748643a1b78260d611d38338ae559618f1962f8b10095f210d7c2593"
+  },
+  "status": "passed",
+  "findings": [],
+  "episode_checks": [
+    {
+      "number": 1,
+      "focus": "Chercher peu de réconfort",
+      "opening_quote": "La bille verte fait deux petits coups contre les parois, puis disparaît. Basile attend le troisième bruit, celui qui signifie qu’elle est sortie. À la place, le toit du tunnel se couche sur le départ rapide. Il attrape le carton à deux mains. Un morceau lui reste entre les doigts, l’autre pend au ruban adhésif. « Mais tiens ! » Il le dit au tunnel, assez bas pour que Nora, près de l’évier, n’entende que le dernier mot.",
+      "ending_quote": "Nora rapporte une boîte bleue assez grande pour les deux morceaux. « Elle peut rester là jusqu’après le repas. » Basile ne vient pas vers elle. Il desserre un peu ses doigts et dépose le toit en travers du fond. La bille verte est encore sous la table ; Nora la pose à côté de la boîte en annonçant ce qu’elle fait.",
+      "continuity_note": "Le tunnel effondré est conservé dans la boîte bleue après le repas ; cette décision prépare exactement sa réouverture au petit déjeuner suivant.",
+      "clinical_note": "La détresse visible et l’absence d’appel sont distinguées d’une autonomie choisie ; le diagnostic antérieur est attribué aux spécialistes et aucun passé de maltraitance n’est inventé.",
+      "relatives_note": "La proposition de laisser la boîte répond aux mains occupées à retenir le carton ; Nora maintient repas et présence et dispose du relais de Samira sans exiger une explication."
+    },
+    {
+      "number": 2,
+      "focus": "Recevoir difficilement le réconfort offert",
+      "opening_quote": "La boîte bleue est restée sur l’étagère basse après le rangement du soir. Nora la pose sur la table du petit déjeuner, loin du bol. Basile retire le couvercle et retrouve le toit plié en deux. La bille verte roule dans une rainure du fond. « Tu veux que je reste avec toi ? Ça peut faire de la peine, un tunnel cassé. » Il tourne la boîte pour avoir l’entrée devant lui. « C’est le ruban. Il collait même pas. »",
+      "ending_quote": "Nora s’installe au bout de la table et découpe un rectangle dans son propre carton. Basile garde longtemps le toit entre ses mains. Puis il demande les ciseaux. « Si on coupe là, il y a deux descentes. Le tunnel, il est trop mou. » Nora lui passe la paire adaptée à son âge et reste à sa place.",
+      "continuity_note": "La boîte rouverte contient bien le toit plié ; sa découpe donne les deux descentes qui seront testées en classe.",
+      "clinical_note": "La faible réponse à la consolation est distincte de la faible demande du premier épisode ; déplacement de chaise et activité parallèle restent des adaptations sans efficacité thérapeutique revendiquée.",
+      "relatives_note": "Nora reçoit le droit de confier sa déception à un adulte et propose les ciseaux sans réclamer une preuve que sa présence a fonctionné."
+    },
+    {
+      "number": 3,
+      "focus": "Un plaisir peu visible aux adultes",
+      "opening_quote": "Mme Roux soulève un livre pour faire une pente. Basile en ajoute un deuxième, puis le retire : la bille verte saute déjà à la jointure. Les deux descentes sorties de la boîte bleue arrivent dans un couvercle en carton. Toute la table se penche lorsque Lila laisse partir la bille. Elle roule, hésite, traverse le raccord et touche le bord. Toc.",
+      "ending_quote": "Mme Roux revient avec une grande feuille. Elle n’interroge pas de nouveau Basile sur son plaisir. « J’écris quoi pour l’arrivée ? » Il répond : « Garder le toc. » Elle le note. Lila veut la courbe tordue sur le trajet rapide. La bille en sort au premier essai. Basile la ramasse : « La moustache, elle court pas. »",
+      "continuity_note": "Les descentes arrivent dans le couvercle ; le toc est conservé et Lila nomme la moustache destinée au chemin lent, préparant le raccord à domicile.",
+      "clinical_note": "La réaction sobre à Mme Roux ne devient ni mesure du plaisir ni incapacité à aimer ; le rire avec Lila ne sert pas de preuve de rémission.",
+      "relatives_note": "Le conseil reprend le bravo sans sourire attendu et la question concrète sur le bord sonore ; le suivi ne devient pas inutile du fait du rire."
+    },
+    {
+      "number": 4,
+      "focus": "Irritation dans un échange sans menace",
+      "opening_quote": "Le plan de la classe est coincé sous un verre vide. Basile a retrouvé deux morceaux de ruban et un plateau léger qui permettra de transporter le montage sans tout refaire. Il pose la descente basse devant le virage moustache. Le couvercle d’arrivée attend plus loin. Sur le papier, les lignes se touchent parfaitement. Sur le plateau, il reste un trou où la bille pourrait s’échapper.",
+      "ending_quote": "Julien commence le repas. Il laisse le virage sur le plateau et ne revient pas obtenir une explication. Plus tard, Basile ramène le carton vers le centre. Il appuie le raccord contre une petite boîte pendant qu’il pose le ruban. La bille verte rejoint le couvercle, de travers, mais sans tomber.",
+      "continuity_note": "Le plan revient à domicile ; le raccord fixé permet le transport à deux et le message d’absence ouvre la question du prochain destinataire.",
+      "clinical_note": "L’irritabilité est située dans une interaction non menaçante sans cause traumatique reconstruite ; la pause et la limite matérielle ne sont pas des traitements coercitifs.",
+      "relatives_note": "Le miroir part des assiettes de Julien, propose une phrase de pause, maintient la sécurité et renvoie ses hésitations à Samira sans demander à Basile de le rassurer."
+    },
+    {
+      "number": 5,
+      "focus": "Stabilité des appuis et relais annoncés",
+      "opening_quote": "Le petit plateau entre de biais dans le grand compartiment du cartable. Pour qu’il ne plie pas, Nora a glissé un carton plat derrière. La boîte bleue contient les billes, les descentes détachables et le couvercle d’arrivée. Basile a vérifié deux fois que le raccord du virage moustache tient encore. À l’école, pourtant, il laisse le plateau dans son cartable. Les autres objets du projet s’alignent sur la table du fond. Le sien dépasse entre deux cahiers.",
+      "ending_quote": "Mme Roux présente Mme Vidal avant la journée d’absence et lui montre la table du fond. Avec Basile, elles dessinent une boîte, une bille puis un cartable pour les étapes de l’atelier. Nora reprend le soir les moments prévus ; si quelque chose change, un adulte le lui dira. Basile garde le dessin sous le couvercle.",
+      "continuity_note": "Le plateau emballé attend son destinataire ; Mme Vidal reçoit le montage puis transmet à Mme Roux le plan aux hauteurs encore indécises.",
+      "clinical_note": "La stabilité est explicitement un appui environnemental plutôt qu’un symptôme ; la portée britannique et plus large de NICE est signalée, sans promesse de présence absolue.",
+      "relatives_note": "Le conseil précise une personne et une table, permet de garder le dessin sans démonstration de confiance et conserve la transmission adulte."
+    },
+    {
+      "number": 6,
+      "focus": "Un appui difficile à mobiliser pour apprendre",
+      "opening_quote": "Mme Roux a retrouvé le plateau à la place indiquée par Mme Vidal. Elle déplie le plan des trois chemins et lit les petites flèches ajoutées pendant son absence. Basile montre la bille qui doit arriver doucement dans la moustache. Il cale la descente sur un morceau de carton plié. Trop haut, la bille sort. Un peu plus bas, elle tourne et touche le couvercle. Toc. « Là », dit-il.",
+      "ending_quote": "Mme Roux propose de revenir après la table des découpes. Elle pose une petite feuille sur le bord pour garder la place du support. Basile repasse son trait au crayon et Lila écrit « lent » à côté. Quand l’enseignante revient, il lui montre la marque. Elle l’aide à tenir la règle droite ; il lit la graduation avec elle et trace la pièce à découper.",
+      "continuity_note": "Au retour de Mme Roux, les hauteurs restent à mesurer ; le trait préservé permet la cale lente tandis que Lila garde le rapide et ouvre le départ à deux.",
+      "clinical_note": "La tâche de mesure est distinguée de l’accès difficile à l’aide ; ni déficience ni manque de motivation ni trouble des apprentissages ne sont déduits du silence.",
+      "relatives_note": "Le passage annoncé répond aux traits effacés ; Lila n’est pas chargée d’apprendre à Basile à demander et le retentissement récurrent peut être partagé avec les soutiens."
+    },
+    {
+      "number": 7,
+      "focus": "Les pairs gardent une relation propre",
+      "opening_quote": "La hauteur du chemin lent est écrite à gauche du plan ; celle du rapide, à droite. Au milieu, Basile a dessiné deux ronds pour le dernier départ. Lila pose sa bille rouge dans l’un. « La mienne gagne. » Basile installe la verte dans l’autre. « C’est pas une course si elles vont dans le même trou. » Ils font partir les deux avec une languette de carton. L’une touche le couvercle avant l’autre. Toc, toc.",
+      "ending_quote": "Mme Roux propose un tour chacun. Lila préfère d’abord aller finir l’arrivée rapide avec un autre groupe. « Je reviens après celle-là. » Basile garde la languette mais laisse les billes dans la boîte. Il pourrait lancer seul ; pour entendre leur toc commun, il décide d’attendre le prochain essai à deux.",
+      "continuity_note": "Les deux hauteurs fixées permettent le toc commun ; le départ de Lila vers un autre groupe puis son retour aboutissent aux deux emplacements montrés à Nora ensuite.",
+      "clinical_note": "Les échanges réciproques sont compatibles avec les difficultés persistantes auprès des adultes, conformément aux CDDR. La phrase corrigée réserve explicitement le diagnostic connu à Basile ; Lila reste une camarade et le jeu ne permet ni révision diagnostique ni conclusion thérapeutique.",
+      "relatives_note": "Lila peut changer de groupe et défendre son envie ; Mme Roux pose la règle du tour sans attribuer au pair une responsabilité thérapeutique."
+    },
+    {
+      "number": 8,
+      "focus": "Le refus de contact reste un droit",
+      "opening_quote": "Nora arrive lorsque Lila remet la bille rouge en haut du chemin rapide. Les deux emplacements du départ commun sont alignés comme des yeux sur le carton. Basile a passé une dernière fois le doigt sur la languette pour enlever une aspérité. Le plateau n’est plus seulement son prototype : d’autres mains ont ajouté les bordures, dessiné les flèches et choisi les couleurs.",
+      "ending_quote": "Basile attend que Nora le regarde, puis soulève la languette. Les deux billes touchent presque ensemble le couvercle. « Faut écouter par là », dit-il en montrant le bord. Nora se décale sans se rapprocher de lui. Lila reprend sa bille et lance aussitôt la course promise.",
+      "continuity_note": "Nora vient récupérer le plateau aux trois chemins ; le toc à distance et la place des observateurs conduisent au dessin de l’œil pour le panneau.",
+      "clinical_note": "Le refus du câlin est un droit universel, jamais un critère du trouble ; l’opposition aux pratiques coercitives est conforme à la position AACAP 2022 vérifiée.",
+      "relatives_note": "Le miroir arrête l’insistance de la camarade sans la condamner, propose de regarder de loin et exclut même un contact plus petit comme objectif implicite."
+    },
+    {
+      "number": 9,
+      "focus": "Participer sans exposer son histoire",
+      "opening_quote": "Sur la grande feuille, Lila trace une flèche rouge pour le chemin rapide. Basile a dessiné un œil près du chemin lent : les visiteurs pourront regarder avant de choisir une bille. Le plateau est revenu à l’école pour servir de modèle. Mme Roux demande quels mots écrire sous les dessins. « On regarde aussi avec les oreilles », propose Basile. Lila trouve que cela ressemble à une devinette. Ils cherchent une phrase plus courte.",
+      "ending_quote": "Mme Roux écarte la proposition personnelle : le panneau ne parlera ni des difficultés de Basile ni des adultes qui l’accompagnent. Elle écrit : « On peut regarder avant de jouer. » La même règle vaut pour la flèche rouge et pour le départ à deux. Basile enlève sa main. Le feutre a laissé un petit point sur le carton, mais le mot moustache est lisible.",
+      "continuity_note": "L’œil dessiné et les trois trajets passent sur le panneau ; le nom moustache demeure la contribution de Basile et le support retourne à plat à la maison.",
+      "clinical_note": "La confidentialité publique ne devient pas un secret absolu entre professionnels ; aucune règle britannique n’est présentée comme droit français et l’enfant ne gère pas son dossier seul.",
+      "relatives_note": "Mme Roux répond sur le jeu puis propose de prendre en charge les questions personnelles ; ce conseil est lié à la main cachant le dessin et recherche la préférence de Basile."
+    },
+    {
+      "number": 10,
+      "focus": "Soutenir les adultes sans charger l'enfant",
+      "opening_quote": "Le grand panneau entre dans la cuisine avant Basile. Il le tient par les coins, les bras écartés, pour ne pas froisser la moustache écrite en grand. Nora libère une place sur la table. Le plateau attend à côté ; une bordure s’est décollée pendant le transport et pend au-dessus du couvercle. Basile pose le panneau et tire un peu sur le morceau. Le raccord se défait complètement.",
+      "ending_quote": "Julien confirme qu’il portera le plateau pour les prochains essais. Il remet le raccord sur la table, sans obliger Basile à le réparer maintenant. Nora précise simplement que sa phrase n’avait pas à lui demander de la rassurer. Elle garde le rendez-vous avec Samira et utilise leur temps entre adultes pour parler de son découragement. Elles conviennent de reprendre les besoins de soutien avec l’équipe qui connaît Basile.",
+      "continuity_note": "Le panneau à ranger et le raccord défait retrouvent le domicile ; Julien prend le transport, Samira le soutien adulte, et la première plainte abdominale prépare sa répétition.",
+      "clinical_note": "La fatigue et la demande de gratitude sont traitées comme besoins de l’adulte ; aucun programme préscolaire ou soin familial imposé n’est introduit.",
+      "relatives_note": "Julien reprend une tâche précise et Nora revient au repas sans dette affective ; demander du soutien avant débordement n’assigne pas l’enfant à consoler son accueillante."
+    },
+    {
+      "number": 11,
+      "focus": "Un changement mérite sa propre évaluation",
+      "opening_quote": "Julien dépose le plateau sur la table du fond, comme il l’avait annoncé. Le panneau a voyagé à plat entre deux cartons. Basile vérifie que le grand mot moustache n’a pas été plié, puis laisse Mme Roux le fixer près des trois chemins. Les enfants doivent essayer l’installation avant la séance avec les visiteurs. Lila a déjà choisi la bille rouge. Deux chaises attendent ceux qui voudront regarder.",
+      "ending_quote": "Nora obtient un avis professionnel et organise la suite de l’évaluation selon les consignes reçues. Elle ne reçoit pas du plateau une réponse à la question du ventre : cette question garde son propre suivi. Mme Roux décale l’essai général et informe le groupe que l’installation se fera avec les tâches réparties, même si Basile doit se reposer.",
+      "continuity_note": "Julien assure le transport promis ; le mal de ventre de la veille se répète, l’essai est décalé et l’installation est répartie pour permettre une absence.",
+      "clinical_note": "Le relais de santé intervient dès l’ouverture puis l’avis est obtenu dans la fin ; aucune attribution au stress ou au trouble ni résultat médical fictif ne remplace l’évaluation.",
+      "relatives_note": "Le miroir transmet les mots et la répétition, protège les détails médicaux devant la classe et décharge Basile de tâches pendant la prise en charge."
+    },
+    {
+      "number": 12,
+      "focus": "Une évolution sans preuve d'affection exigée",
+      "opening_quote": "Les flèches du panneau se voient depuis la porte. Le rouge conduit vers le départ rapide, le bleu vers le chemin lent ; au milieu, deux ronds indiquent les billes qui doivent partir ensemble. Deux enfants sont déjà assis pour regarder. Lila présente la course à un visiteur et lui conseille de ne pas choisir sa bille préférée, parce qu’elle compte la garder pour le prochain tour.",
+      "ending_quote": "Mme Roux regarde le raccord à l’endroit convenu. « Tu l’as posé ici ; on peut fixer ce bord. » Elle prépare le ruban et Basile indique quel côté doit rester courbé. Le virage rejoint le chemin lent. Cette fois la bille traverse la moustache, touche le couvercle et s’immobilise. À côté, Lila termine sa course puis vient pour un tour au départ commun. Basile tient la languette, elle place les deux billes ; au lancement suivant, ils échangent leurs places.",
+      "continuity_note": "Les trois chemins servent réellement, le raccord est réparé, puis pièces, plateau et panneau sont rangés conformément à leurs contraintes ; le futur tunnel ouvre un nouveau projet.",
+      "clinical_note": "La difficulté de réconfort persiste au moment de la rupture ; le résultat moyen de l’essai chez de jeunes enfants institutionnalisés ne prédit ni délai ni effet du jeu pour Basile, et les deux suivis restent présents.",
+      "relatives_note": "Nora reconnaît l’usage des trois chemins sans réclamer câlin ou interpréter le dépôt du raccord comme confiance ; elle peut accueillir simplement la prochaine idée de tunnel."
+    }
+  ]
+}

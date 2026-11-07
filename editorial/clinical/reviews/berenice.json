@@ -1,0 +1,124 @@
+{
+  "schema_version": 1,
+  "character_id": "berenice",
+  "reviewer": "review_berenice",
+  "reviewed_on": "2026-11-07",
+  "status": "passed",
+  "summary": "Relecture indépendante intégrale des douze épisodes, du canon, du plan, du dossier et de la charte avec l’article modèle. Les douze aspects sont distincts et manifestés dans les scènes ; chaque épisode développe trois angles illustrés et trois appuis pratiques dans un périmètre adapté. Vérification des CDDR OMS, chapitre Catatonia et 6A41, et des passages pertinents des recommandations BAP 2023 et de l’étude qualitative Zingela 2022. Attribution médicale après évaluation, peur sans causalité supposée, complications et résolution clinique, confidentialité et continuité du tournoi sont respectées. Aucun test domestique, conseil de modification médicamenteuse ou correction en attente identifié.",
+  "files": {
+    "editorial/clinical/designs/berenice.json": "7598c33fedbcaa5971d147789439936aaf4431f7b5b4e46c8edc0def8e6862d1",
+    "editorial/clinical/dossiers/berenice.json": "4c6f5920980bfbd23ffa27c76ceb8ba945780366e758b1b9a173252ae408f3b7",
+    "editorial/clinical/berenice.json": "3b6413eb0a15c8314ae38a934deb3dbe359903d74ed202d0b71393d1d37d061c"
+  },
+  "findings": [],
+  "episode_checks": [
+    {
+      "number": 1,
+      "focus": "Changement psychomoteur rapide et recours médical",
+      "opening_quote": "L’enveloppe bleue dépasse du sac d’Estelle quand elle entre dans la chambre. Elle contient les feuilles du tournoi de badminton et un crayon dont sa mère a entouré l’extrémité de ruban adhésif : celui-là ne devait plus disparaître à l’accueil. Estelle pose le sac au pied de sa chaise. Bérénice est dans le lit, peu mobile. À la question sur l’enveloppe, aucune réponse qu’Estelle puisse comprendre ne vient. Elle renonce à sortir les feuilles.",
+      "ending_quote": "Quand le médecin arrive, Estelle raconte les faits de la veille puis ce qu’elle a vu pendant la visite. Il lui demande des documents pour compléter l’histoire des traitements. Elle accepte de les apporter, sans transformer cette demande en confirmation de sa propre hypothèse. Bérénice reste prise en charge dans le service.",
+      "continuity_note": "L’enveloppe bleue introduit le tournoi interrompu ; Estelle reprend les contacts et promet les documents, ce qui prépare exactement la consultation suivante.",
+      "clinical_note": "Les secours ont été alertés avant la scène et le médecin est rappelé pendant la visite. Le changement brutal justifie le relais ; le médicament évoqué reste une hypothèse familiale, sans diagnostic anticipé.",
+      "relatives_note": "Le miroir donne une phrase logistique concrète et rappelle de demander une aide urgente sans examen préalable ; les trois appuis ne retardent pas les soins pour compléter les documents."
+    },
+    {
+      "number": 2,
+      "focus": "Attribution médicamenteuse après évaluation clinique",
+      "opening_quote": "Les documents rapportés par Estelle sont posés dans une pochette, à côté du verre de la chambre. Le médecin rapproche sa chaise du lit et demande à Bérénice si elle souhaite la présence de sa fille pendant l’explication. Ses réponses sont aujourd’hui plus accessibles. Elle dit oui, puis regarde la pochette : « C’est avec ça que vous savez ? » Estelle ne répond pas à sa place. Elle a remis les pièces demandées, et cette partie de sa tâche est terminée.",
+      "ending_quote": "Bérénice reprend les mots à sa façon : l’équipe a évalué une catatonie liée à un traitement, pas seulement deux événements sur un calendrier. Le médecin précise un point et lui demande ce qu’elle veut encore savoir. Elle choisit de garder deux questions pour la prochaine visite, dont celle sur ce qui sera suivi après l’hôpital. Les soins se poursuivent.",
+      "continuity_note": "La pochette demandée arrive et les deux questions conservées donnent une suite à l’entretien. La présence d’Estelle est demandée à Bérénice ; le tournoi ne fixe aucune sortie.",
+      "clinical_note": "Le médecin attribue le syndrome au traitement après examen du tableau, de l’exposition et des autres explications. La proximité temporelle est expressément insuffisante, conformément au 6A41 ; aucun produit ou protocole n’est dévoilé.",
+      "relatives_note": "Estelle remet les documents puis laisse sa mère questionner. Les exercices de reformulation et de préparation des questions ne délèguent aucune décision de prescription à la famille."
+    },
+    {
+      "number": 3,
+      "focus": "Parole entravée et compréhension possible",
+      "opening_quote": "Estelle sort les deux affiches de l’enveloppe bleue en prenant soin de ne pas froisser les coins. Sur l’une, le volant de badminton mord sur le titre ; sur l’autre, il reste une grande place blanche. « Je te montre, je ne te demande pas de choisir aujourd’hui », dit-elle à sa mère. Bérénice regarde dans leur direction, mais sa réponse est trop faible et trop brève pour qu’Estelle sache ce qu’elle veut dire. Le diagnostic de catatonie a été expliqué lors de la visite précédente. Le connaître ne rend pas ce silence plus facile à traverser.",
+      "ending_quote": "Estelle glisse les affiches dans l’enveloppe et dit : « Je les emporte. Rien à décider aujourd’hui. » Elle reste encore un peu sans essayer une nouvelle question. Plus tard, en présence de l’infirmière, Bérénice trouve une courte phrase : elle demande son gilet gris. Estelle le sort du sac où elle l’avait apporté avec les papiers et le laisse sur le fauteuil. L’équipe tient compte de la demande dans les soins.",
+      "continuity_note": "Les affiches autorisées à la fin de l’épisode 2 sont apportées puis remportées sans choix supposé. La demande du gilet gris place l’objet sur le fauteuil pour l’épisode 4.",
+      "clinical_note": "La réponse peu intelligible est distinguée d’un refus et d’une compréhension nécessairement intacte. L’adresse directe respecte une compréhension possible sans transformer quelques mots retrouvés en guérison.",
+      "relatives_note": "L’infirmière s’adresse à Bérénice et Estelle corrige sa propre mise à l’écart. Aucun regard ni silence ne vaut consentement ; le proche reporte seulement une décision ordinaire non urgente."
+    },
+    {
+      "number": 4,
+      "focus": "Initiative motrice bloquée malgré une intention",
+      "opening_quote": "Le gilet gris est resté sur le fauteuil depuis la visite précédente. Estelle a replié les manches pour qu’elles ne traînent pas près du sac. Dans la chambre, une soignante échange avec Bérénice au sujet des soins. Sa mère regarde le vêtement et commence un mouvement vers lui. Sa main avance, puis le geste paraît s’interrompre entre deux directions. Le tissu ne bouge pas. Estelle se redresse déjà pour rapprocher le fauteuil.",
+      "ending_quote": "La soignante prend en compte le mouvement interrompu et aide Bérénice selon les besoins qu’elle évalue. Elle indique à Estelle où laisser le gilet. Estelle le pose à cet endroit, puis revient à sa chaise. Elle ne félicite pas sa mère d’avoir essayé comme si elle venait de passer une épreuve, et ne lui reproche pas l’interruption.",
+      "continuity_note": "Le gilet demeure sur le fauteuil ; l’équipe reprend l’aide corporelle et indique où le laisser. La fin annonce la question des besoins suivis, développée ensuite.",
+      "clinical_note": "Le geste interrompu illustre une perturbation motrice possible ; l’intention est rapportée après coup par Bérénice. Le texte n’invente ni paresse ni incapacité générale de décider et ne transforme pas ce seul geste en critère diagnostique.",
+      "relatives_note": "Le début d’encouragement est remplacé par une observation transmise. Les exercices et le miroir excluent mobilisation forcée, posture imposée et répétition destinée à provoquer un signe."
+    },
+    {
+      "number": 5,
+      "focus": "Besoins corporels et complications médicales",
+      "opening_quote": "Estelle a apporté une petite bouteille de la boisson que sa mère choisit d’ordinaire après les courses. Elle la sort du sac avec la satisfaction modeste d’avoir trouvé quelque chose de familier qui ne demande aucun choix d’affiche. Bérénice lui demande d’abord où est passé le gilet gris. Il est bien là, à l’endroit convenu avec l’équipe. Les mots sont assez audibles aujourd’hui pour qu’Estelle lui réponde sans se tourner vers quelqu’un d’autre.",
+      "ending_quote": "Estelle laisse la bouteille de côté jusqu’à la réponse de l’équipe. Elle propose de rapporter les affaires demandées plutôt que d’essayer de démontrer que sa mère peut se débrouiller. Bérénice demande à la soignante de reprendre la différence entre la déshydratation déjà traitée et les autres points encore suivis. L’explication lui donne une raison de la poursuite des soins qui ne dépend pas de la longueur de ses phrases.",
+      "continuity_note": "Le gilet est retrouvé à l’endroit convenu. La bouteille reste en attente d’un avis tandis qu’Estelle reprend les affaires demandées ; aucune sortie ne résulte de cette visite.",
+      "clinical_note": "La déshydratation déjà traitée est séparée du syndrome et de l’évaluation des besoins actuels. Le retour de la parole ne clôt pas les soins ; la complication retenue correspond au dossier et aux CDDR.",
+      "relatives_note": "La boisson familière reçoit une limite opérationnelle : demander à l’équipe et attendre. Aucun volume, geste de déglutition, alimentation forcée ni surveillance corporelle familiale n’est proposé."
+    },
+    {
+      "number": 6,
+      "focus": "Fluctuations et appréciation de l’amélioration",
+      "opening_quote": "Le matin, Bérénice a regardé l’affiche qu’Estelle avait laissée dépasser du sac. « Si tu la caches derrière la porte, on aura surtout un tournoi secret. » Estelle a ri avant de se rendre compte qu’elle attendait depuis plusieurs visites cette manière de contester un détail. Elle a raconté la phrase à la soignante, heureuse de pouvoir rapporter autre chose qu’un geste interrompu. La journée lui a soudain paru déjà orientée vers la maison.",
+      "ending_quote": "Les soins continuent et l’équipe réévalue Bérénice au fil de l’évolution. Lors d’un point ultérieur, elle constate la résolution de la phase catatonique. Le médecin reprend avec elle les besoins et la suite du suivi ; la sortie est alors organisée. Cette conclusion ne vient pas de la plaisanterie du matin ni du calendrier de badminton.",
+      "continuity_note": "La plaisanterie reprend la voix attachée aux affiches lisibles. La résolution clinique n’est constatée que lors d’un point ultérieur ; le trajet et les contacts sont ensuite organisés avant les scènes à domicile.",
+      "clinical_note": "Les moments contrastés illustrent la fluctuation sans jugement d’effort. Le cours souvent bref ne devient pas un délai promis ; le bilan longitudinal et la sortie restent ceux de l’équipe.",
+      "relatives_note": "Estelle rapporte le contraste sans exiger une nouvelle plaisanterie. Les trois appuis préparent l’échange et les contacts, avec recours urgent, sans carnet de performance ni programme familial de surveillance."
+    },
+    {
+      "number": 7,
+      "focus": "Peur vécue derrière l’immobilité apparente",
+      "opening_quote": "Le gilet gris est posé sur le dossier de la chaise, dans la cuisine de Bérénice. Il a retrouvé cette place sans que personne ait à demander où le laisser. Depuis la sortie organisée par l’équipe, les journées reprennent des contours ordinaires ; les rendez-vous de suivi restent dans la pochette médicale. Ce soir, Estelle a apporté une version corrigée de l’affiche du tournoi. Elle la déplie puis, en regardant le gilet, revient à une visite à l’hôpital.",
+      "ending_quote": "« Je ne savais pas que tu avais peur », dit Estelle. Elle laisse de côté la question qui lui venait. Bérénice lui demande combien de joueurs ont confirmé et si quelqu’un a enfin corrigé l’heure sur l’affiche. Estelle lui montre la ligne. Leur conversation avance vers un détail qu’elles peuvent réellement régler ce soir.",
+      "continuity_note": "Le gilet est désormais dans la cuisine après la sortie établie. Bérénice limite son récit puis revient aux joueurs ; sa crainte des traitements prépare le rendez-vous suivant.",
+      "clinical_note": "La peur est nommée rétrospectivement par Bérénice et n’est déduite ni du visage ni de l’immobilité. Le texte précise que les données exploratoires ne sont pas propres au 6A41 et ne font pas de cette peur la cause du syndrome.",
+      "relatives_note": "Estelle reconnaît les limites de ce qu’elle voyait et respecte le changement de sujet. Le relais au suivi est proposé selon le souhait de Bérénice, sans récit imposé ni diagnostic traumatique ajouté."
+    },
+    {
+      "number": 8,
+      "focus": "Inquiétudes et participation aux soins",
+      "opening_quote": "Bérénice a posé la liste de traitements devant elle, sur le bureau du médecin. C’est le document qu’il lui avait demandé d’apporter ; elle a gardé les questions dans la même pochette, à distance des feuilles du tournoi. Estelle s’est assise à côté d’elle. Sa mère lui a proposé de l’accompagner, puis a précisé dans le couloir : « Je voudrais commencer. Tu m’aideras si je te demande. »",
+      "ending_quote": "Bérénice reformule la réponse avec ses mots. Le médecin précise une distinction et convient de reprendre un point encore incertain lors du prochain rendez-vous. Lorsqu’il revient sur un moment de l’hospitalisation, elle invite Estelle à rappeler le document qu’elle avait apporté. Sa fille complète ce fait, puis Bérénice reprend sa question.",
+      "continuity_note": "La présence d’Estelle est choisie et ses interventions restent ponctuelles. Les questions conservées et la pochette rapportée à domicile conduisent au rangement de l’épisode 9.",
+      "clinical_note": "L’attribution déjà connue ne suffit pas à faire disparaître l’inquiétude. Le médecin examine histoire et besoins actuels ; bénéfices, risques et incertitudes restent discutés sans arrêt, reprise, substitution ou essai médicamenteux.",
+      "relatives_note": "Le miroir reprend la demande du couloir de laisser Bérénice commencer. Les exercices portent sur deux questions, la compréhension et le contact convenu ; une urgence ne doit pas attendre le rendez-vous."
+    },
+    {
+      "number": 9,
+      "focus": "Souvenirs partiels et récit de l’épisode",
+      "opening_quote": "L’enveloppe bleue contient une ancienne affiche, deux feuilles d’inscription et un petit papier plié qui n’a rien à faire là. Estelle l’a glissé parmi les documents pendant l’hospitalisation ; Bérénice le remet à côté de la pochette médicale. Depuis le rendez-vous, elles veulent surtout retrouver la dernière version des inscriptions. Le tri s’arrête pourtant sur une annotation au crayon.",
+      "ending_quote": "Estelle reprend : « Ce que je peux te dire, c’est ce que j’ai apporté. Pour le reste, je ne sais pas à ta place. » Elles ne tranchent pas l’ordre des deux visites. Bérénice range le papier médical dans la pochette et garde les inscriptions dans l’enveloppe bleue. La table se dégage sans que sa mémoire ait dû fournir une dernière pièce.",
+      "continuity_note": "Le tri reprend les papiers mélangés entre enveloppe et pochette. Une chronologie reste ouverte sans empêcher de retrouver les inscriptions et de contacter Karim pour la reprise.",
+      "clinical_note": "Le texte distingue explicitement souvenir, observation et information médicale. Un fragment et un blanc ne deviennent ni trouble amnésique ni effet certain d’un médicament ; la prudence reste cohérente avec les limites des récits rétrospectifs.",
+      "relatives_note": "Estelle remplace son injonction à se rappeler par une proposition conditionnelle de dire ce qu’elle a vu. Aucun indice répété, photo imposée ou technique de récupération de mémoire ne sert de soin."
+    },
+    {
+      "number": 10,
+      "focus": "Retentissement professionnel et retour choisi",
+      "opening_quote": "L’agrafeuse orange est toujours à gauche du téléphone. Bérénice avait imaginé qu’elle aurait disparu dans un tiroir pendant son absence ; Karim lui montre les feuilles du tournoi rangées juste dessous. Leur échange a été fixé après son appel, dans le cadre du retour préparé avec son suivi et la salle. Il ne s’agit pas de venir faire un essai pour prouver qu’elle va bien. Pourtant, devant le comptoir qu’elle connaît, Bérénice a l’impression d’arriver dans une organisation qui a appris à se passer d’elle.",
+      "ending_quote": "Bérénice reprend les inscriptions prévues pendant que Karim garde les demandes générales du comptoir sur ce créneau. Ils placent l’enveloppe bleue dans un endroit accessible à tous deux. L’agrafeuse retrouve son usage : réunir les bonnes feuilles, pas marquer une victoire sur l’hospitalisation.",
+      "continuity_note": "L’appel débouche sur le retour préparé au comptoir. L’agrafeuse, le crayon et l’enveloppe retrouvent une fonction ; Karim garde les demandes générales pendant que Bérénice reprend les inscriptions.",
+      "clinical_note": "Le retentissement professionnel est distingué d’une persistance du syndrome. Les arrangements restent fictifs et pratiques, sans prétendre à une procédure de santé au travail ni laisser Karim établir l’aptitude médicale.",
+      "relatives_note": "Karim transforme son offre de tout faire en répartition négociée. Le miroir protège la limite de divulgation : il ne cherche pas auprès d’Estelle le diagnostic que Bérénice ne partage pas."
+    },
+    {
+      "number": 11,
+      "focus": "Ralentissement ultérieur et nouvelle évaluation",
+      "opening_quote": "Pendant le contact de suivi, Bérénice commence par une phrase qu’elle a répétée dans sa tête : « L’autre soir, j’ai mis du temps à répondre à Estelle, et j’ai aussitôt pensé à l’hôpital. » Elle avait prévu de raconter aussi le retour au comptoir, l’enveloppe bleue enfin partagée avec Karim et les inscriptions qui avancent. Elle ne veut pas que ces bonnes nouvelles fassent disparaître la question qu’elle apporte aujourd’hui.",
+      "ending_quote": "Le médecin évalue la situation avec Bérénice et précise la suite du suivi ainsi que le relais à utiliser en cas de changement préoccupant. Elle redemande comment obtenir une aide urgente si son état s’altère fortement ; Estelle écoute cette réponse sans recevoir la mission de noter chaque temps de réponse. Aucune nouvelle catatonie n’est affirmée dans cet échange.",
+      "continuity_note": "La réponse tardive annoncée à la fin précédente est rapportée au contact de suivi. Le médecin évalue effectivement la situation avant que Bérénice revienne aux rôles du tournoi.",
+      "clinical_note": "L’observation isolée ne prouve ni rechute ni innocuité. L’évaluation actuelle ne s’appuie pas sur la réussite professionnelle et le recours urgent reste explicite devant une altération importante ou brutale.",
+      "relatives_note": "Estelle distingue ce qu’elle a remarqué du nom qu’elle pourrait lui donner. Les appuis et le miroir refusent score, répétition de gestes et mesure des réponses avant d’appeler une aide."
+    },
+    {
+      "number": 12,
+      "focus": "Résolution clinique et reprise d’une place",
+      "opening_quote": "L’agrafeuse orange avale le coin des feuilles avec son petit bruit sec. Bérénice aligne les formulaires derrière le comptoir pendant qu’Estelle cherche où poser l’affiche. Elle la cale contre la porte ouverte. « L’affiche tient, mais personne ne la voit derrière la porte », dit sa mère. Estelle lève les yeux, puis la déplace. Cette fois, la remarque règle un problème de panneau ; personne n’en tire un bilan de santé.",
+      "ending_quote": "Les joueurs sont inscrits. Bérénice remet à Estelle les feuilles nécessaires à la suite des matchs et indique à Karim les documents de clôture. Il prend le relais comme prévu. Elle retire son gilet du dossier de la chaise et quitte le comptoir ; elle n’a pas accepté en passant de gérer aussi les scores et le rangement final.",
+      "continuity_note": "Le tournoi clôt l’objectif initial : inscriptions transmises, clôture réellement reprise par Karim et rencontre regardée avec Estelle. Le repas à venir ouvre une perspective personnelle au-delà du comptoir.",
+      "clinical_note": "La résolution de la phase aiguë est rappelée comme constat antérieur de l’équipe. Humour, agrafeuse et participation sportive environnante ne prouvent pas une guérison ; suivi et réévaluation restent distincts du succès du projet.",
+      "relatives_note": "Estelle invite simplement sa mère à regarder le match et Karim prend la relève annoncée. Les trois propositions portent sur le partage effectif, la séparation des bilans et un prochain moment choisi, sans programme de récupération."
+    }
+  ]
+}

@@ -479,6 +479,30 @@
     ],
     "source": "repères des parcours cliniques de fiction"
   },
+  "basile": {
+    "id": "basile",
+    "name": "Basile",
+    "keywords": [
+      "Trouble réactionnel de l'attachement",
+      "Recours au réconfort",
+      "Réponses émotionnelles",
+      "Relations prévisibles",
+      "Participation scolaire"
+    ],
+    "source": "repères des parcours cliniques de fiction"
+  },
+  "bérénice": {
+    "id": "berenice",
+    "name": "Bérénice",
+    "keywords": [
+      "Catatonie provoquée par des substances ou des médicaments",
+      "Parole et initiative motrice entravées",
+      "Complications et soins médicaux",
+      "Vécu et souvenirs de l’épisode",
+      "Retour aux activités et suivi"
+    ],
+    "source": "repères des parcours cliniques de fiction"
+  },
   "blandine": {
     "id": "blandine",
     "name": "Blandine",

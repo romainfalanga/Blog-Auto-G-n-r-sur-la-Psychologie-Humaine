@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "revision": 183,
+  "revision": 190,
   "created_at": "2026-11-07T14:47:42Z",
   "cases": {
     "mathis": {
@@ -1644,9 +1644,9 @@
     "berenice": {
       "character_id": "berenice",
       "code": "6A41",
-      "stage": "review",
+      "stage": "ready_to_publish",
       "created_at": "2026-11-07T14:47:42Z",
-      "active_job": "702ae0133123444b900b33699ec07f26",
+      "active_job": null,
       "owners": {
         "character": [
           "personnage_berenice"
@@ -1685,6 +1685,24 @@
               "editorial/clinical/berenice.json": "3b6413eb0a15c8314ae38a934deb3dbe359903d74ed202d0b71393d1d37d061c"
             },
             "episodes": 12
+          }
+        },
+        "review": {
+          "job_id": "702ae0133123444b900b33699ec07f26",
+          "owner": "review_berenice",
+          "validated_at": "2026-11-07T15:33:33Z",
+          "validation": {
+            "character_id": "berenice",
+            "files": {
+              "editorial/clinical/designs/berenice.json": "7598c33fedbcaa5971d147789439936aaf4431f7b5b4e46c8edc0def8e6862d1",
+              "editorial/clinical/dossiers/berenice.json": "4c6f5920980bfbd23ffa27c76ceb8ba945780366e758b1b9a173252ae408f3b7",
+              "editorial/clinical/berenice.json": "3b6413eb0a15c8314ae38a934deb3dbe359903d74ed202d0b71393d1d37d061c",
+              "editorial/clinical/reviews/berenice.json": "4bc6559c79b65744810a128aa24754dd45cf4283f6e8dcf1cf193944972cfc7c"
+            },
+            "episodes": 12,
+            "status": "passed",
+            "findings": [],
+            "reviewer": "review_berenice"
           }
         }
       },
@@ -19366,8 +19384,8 @@
       "snapshot_sha256": "11aeb8a5c3f6943abacf133738aa6d7661ac2063e1fe3a1a95639717085fb7d5",
       "status": "active",
       "token_sha256": "05631c4ea45bc8ce4ae0b7becf74fd312163f48e4351faa4cdd9d48694c361da",
-      "heartbeat_at": "2026-11-07T15:32:07Z",
-      "expires_at": "2026-11-07T16:02:07Z",
+      "heartbeat_at": "2026-11-07T15:34:01Z",
+      "expires_at": "2026-11-07T16:04:01Z",
       "checkpoints": [
         {
           "at": "2026-11-07T15:32:07Z",
@@ -19377,6 +19395,34 @@
           "observed": {
             "manuscript_sha256": "9db0446c95a8a7b792a2f1ea2a3a318bbbd3daa9f5b0d2d4c94c2dbc94fb02c7",
             "episodes_present": 1,
+            "manuscript_readable": true,
+            "design_sha256": "2e603abdda52c4b662f418ea7ed80ca21b202e6917b904735531a2918cb98601",
+            "dossier_sha256": "e2ec4cc9b8e4c10cbb677a12d2261ade939dbf0af6c5fe148dbbf4959959e100",
+            "review_sha256": null
+          }
+        },
+        {
+          "at": "2026-11-07T15:33:02Z",
+          "outputs": {
+            "editorial/clinical/aubin.json": "514b78d1a693203c4786c217e7b19c051e65af4e3ab617de70deb3b5843bc245"
+          },
+          "observed": {
+            "manuscript_sha256": "514b78d1a693203c4786c217e7b19c051e65af4e3ab617de70deb3b5843bc245",
+            "episodes_present": 2,
+            "manuscript_readable": true,
+            "design_sha256": "2e603abdda52c4b662f418ea7ed80ca21b202e6917b904735531a2918cb98601",
+            "dossier_sha256": "e2ec4cc9b8e4c10cbb677a12d2261ade939dbf0af6c5fe148dbbf4959959e100",
+            "review_sha256": null
+          }
+        },
+        {
+          "at": "2026-11-07T15:34:01Z",
+          "outputs": {
+            "editorial/clinical/aubin.json": "ae85f32c06ca7be7e499082f2d0483a264851c10c08c1173a45b2d6ce746ac7e"
+          },
+          "observed": {
+            "manuscript_sha256": "ae85f32c06ca7be7e499082f2d0483a264851c10c08c1173a45b2d6ce746ac7e",
+            "episodes_present": 3,
             "manuscript_readable": true,
             "design_sha256": "2e603abdda52c4b662f418ea7ed80ca21b202e6917b904735531a2918cb98601",
             "dossier_sha256": "e2ec4cc9b8e4c10cbb677a12d2261ade939dbf0af6c5fe148dbbf4959959e100",
@@ -21510,10 +21556,54 @@
       "snapshot_sha256": "9499502dac002f69dcc22e9435deaf02ef0d14589ab28e687ca8b0c51313b8d3",
       "status": "active",
       "token_sha256": "81ebd305291e0927b58601257d0dfe369c670f15034d840284f2d3a490bdb023",
-      "heartbeat_at": "2026-11-07T15:31:29Z",
-      "expires_at": "2026-11-07T16:01:29Z",
+      "heartbeat_at": "2026-11-07T15:34:23Z",
+      "expires_at": "2026-11-07T16:04:23Z",
       "resumed_at": "2026-11-07T15:31:29Z",
-      "resume_count": 1
+      "resume_count": 1,
+      "checkpoints": [
+        {
+          "at": "2026-11-07T15:34:23Z",
+          "outputs": {
+            "editorial/clinical/thael.json": "627d9f610261b8f1de4355ddb82c939d1f8d2ea4a8a1fa8e64af441afbad8ffc"
+          },
+          "observed": {
+            "manuscript_sha256": "627d9f610261b8f1de4355ddb82c939d1f8d2ea4a8a1fa8e64af441afbad8ffc",
+            "episodes_present": 1,
+            "manuscript_readable": true,
+            "design_sha256": "dec7a8f9af711389fe081c21e320e79cb56db47289fd6d920c92d07199fef782",
+            "dossier_sha256": "da175d9963bd9cc2ff48afed16bf8f74d31667769124bb1c493f65eff59d7ac1",
+            "review_sha256": null
+          }
+        },
+        {
+          "at": "2026-11-07T15:34:23Z",
+          "outputs": {
+            "editorial/clinical/thael.json": "9d5734b3cab7b9cc1861f75ef3ba4fe161b450ec4a589f214ede0579f8e6caf8"
+          },
+          "observed": {
+            "manuscript_sha256": "9d5734b3cab7b9cc1861f75ef3ba4fe161b450ec4a589f214ede0579f8e6caf8",
+            "episodes_present": 2,
+            "manuscript_readable": true,
+            "design_sha256": "dec7a8f9af711389fe081c21e320e79cb56db47289fd6d920c92d07199fef782",
+            "dossier_sha256": "da175d9963bd9cc2ff48afed16bf8f74d31667769124bb1c493f65eff59d7ac1",
+            "review_sha256": null
+          }
+        },
+        {
+          "at": "2026-11-07T15:34:23Z",
+          "outputs": {
+            "editorial/clinical/thael.json": "a7f16bce40fe0d959fe7dc6d99b4a3fbc86b96e87236081ac6ba94de14a6b821"
+          },
+          "observed": {
+            "manuscript_sha256": "a7f16bce40fe0d959fe7dc6d99b4a3fbc86b96e87236081ac6ba94de14a6b821",
+            "episodes_present": 3,
+            "manuscript_readable": true,
+            "design_sha256": "dec7a8f9af711389fe081c21e320e79cb56db47289fd6d920c92d07199fef782",
+            "dossier_sha256": "da175d9963bd9cc2ff48afed16bf8f74d31667769124bb1c493f65eff59d7ac1",
+            "review_sha256": null
+          }
+        }
+      ]
     },
     "702ae0133123444b900b33699ec07f26": {
       "id": "702ae0133123444b900b33699ec07f26",
@@ -23201,10 +23291,24 @@
         }
       },
       "snapshot_sha256": "187810292e62cb6de59348cd3e10f95d457fa2a00e587dcf5b1ddaea17c9e006",
-      "status": "active",
+      "status": "finished",
       "token_sha256": "49ad44f1cde3fd33341d9316565909af1c48e8ace9d7dff7f687434e3697439f",
       "heartbeat_at": "2026-11-07T15:31:30Z",
-      "expires_at": "2026-11-07T16:01:30Z"
+      "expires_at": "2026-11-07T16:01:30Z",
+      "finished_at": "2026-11-07T15:33:33Z",
+      "validation": {
+        "character_id": "berenice",
+        "files": {
+          "editorial/clinical/designs/berenice.json": "7598c33fedbcaa5971d147789439936aaf4431f7b5b4e46c8edc0def8e6862d1",
+          "editorial/clinical/dossiers/berenice.json": "4c6f5920980bfbd23ffa27c76ceb8ba945780366e758b1b9a173252ae408f3b7",
+          "editorial/clinical/berenice.json": "3b6413eb0a15c8314ae38a934deb3dbe359903d74ed202d0b71393d1d37d061c",
+          "editorial/clinical/reviews/berenice.json": "4bc6559c79b65744810a128aa24754dd45cf4283f6e8dcf1cf193944972cfc7c"
+        },
+        "episodes": 12,
+        "status": "passed",
+        "findings": [],
+        "reviewer": "review_berenice"
+      }
     },
     "a27bd0c47aff480ca31f74948d445b51": {
       "id": "a27bd0c47aff480ca31f74948d445b51",
@@ -24942,5 +25046,5 @@
       }
     }
   },
-  "updated_at": "2026-11-07T15:32:11Z"
+  "updated_at": "2026-11-07T15:34:23Z"
 }

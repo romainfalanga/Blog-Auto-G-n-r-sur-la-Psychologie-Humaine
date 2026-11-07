@@ -24,15 +24,15 @@
     "other_frameworks": "APA pédagogique, RDoC recherche et CIF fonctionnement restent des grilles distinctes."
   },
   "counts": {
-    "articles": 1191,
-    "characters": 100,
-    "clinical_arcs": 67,
-    "clinical_episodes": 804,
+    "articles": 1215,
+    "characters": 102,
+    "clinical_arcs": 69,
+    "clinical_episodes": 828,
     "original_articles_reviewed": 387,
     "icd11_chapter06_codes": 858,
     "icd11_ungrouped_codes": 10,
-    "icd11_primary_arcs": 63,
-    "clinical_cases_pending": 87,
+    "icd11_primary_arcs": 65,
+    "clinical_cases_pending": 85,
     "other_published_arcs": 4,
     "internal_patterns": 161,
     "internal_patterns_indexed": 161
@@ -64,8 +64,7 @@
       "codes": 3,
       "statuses": {
         "no_standalone_arc_planned": 1,
-        "pending_editorial_case": 1,
-        "published_primary_arc": 1
+        "published_primary_arc": 2
       }
     },
     {
@@ -103,8 +102,8 @@
       "codes": 8,
       "statuses": {
         "no_standalone_arc_planned": 2,
-        "pending_editorial_case": 2,
-        "published_primary_arc": 4
+        "pending_editorial_case": 1,
+        "published_primary_arc": 5
       }
     },
     {
@@ -1944,12 +1943,30 @@
       "label": "Catatonie provoquée par des substances ou des médicaments",
       "group_id": "BlockL1-6A4",
       "editorial_status": "parcours",
-      "coverage_status": "pending_editorial_case",
+      "coverage_status": "published_primary_arc",
       "reason": "diagnostic_distinct",
       "candidate_ids": [
         "berenice"
       ],
-      "published_primary": null,
+      "published_primary": {
+        "character_id": "berenice",
+        "name": "Bérénice",
+        "reviewed_on": "2026-11-07",
+        "articles": [
+          "posts/comprendre-et-maitriser-ses-emotions/berenice-attribution-traitement-evaluation",
+          "posts/comprendre-et-maitriser-ses-emotions/berenice-besoins-corporels-complication",
+          "posts/comprendre-et-maitriser-ses-emotions/berenice-changement-brutal-relais-medical",
+          "posts/comprendre-et-maitriser-ses-emotions/berenice-changement-ulterieur-reevaluation",
+          "posts/comprendre-et-maitriser-ses-emotions/berenice-fluctuations-appreciation-amelioration",
+          "posts/comprendre-et-maitriser-ses-emotions/berenice-initiative-motrice-geste-bloque",
+          "posts/comprendre-et-maitriser-ses-emotions/berenice-inquietudes-participation-soins",
+          "posts/comprendre-et-maitriser-ses-emotions/berenice-parole-entravee-adresser-personne",
+          "posts/comprendre-et-maitriser-ses-emotions/berenice-peur-immobilite-vecue",
+          "posts/comprendre-et-maitriser-ses-emotions/berenice-resolution-reprise-place-tournoi",
+          "posts/comprendre-et-maitriser-ses-emotions/berenice-retour-accueil-role-choisi",
+          "posts/comprendre-et-maitriser-ses-emotions/berenice-souvenirs-partiels-recit"
+        ]
+      },
       "reference_url": "https://icd.who.int/browse/2026-01/mms/fr#289492002"
     },
     {
@@ -3847,12 +3864,30 @@
       "label": "Trouble réactionnel de l'attachement",
       "group_id": "BlockL1-6B4",
       "editorial_status": "parcours",
-      "coverage_status": "pending_editorial_case",
+      "coverage_status": "published_primary_arc",
       "reason": "diagnostic_distinct",
       "candidate_ids": [
         "basile"
       ],
-      "published_primary": null,
+      "published_primary": {
+        "character_id": "basile",
+        "name": "Basile",
+        "reviewed_on": "2026-11-07",
+        "articles": [
+          "posts/comprendre-et-maitriser-ses-emotions/basile-appui-apprendre-mesure-pente",
+          "posts/comprendre-et-maitriser-ses-emotions/basile-changement-sante-mal-ventre",
+          "posts/comprendre-et-maitriser-ses-emotions/basile-chercher-reconfort-tunnel-effondre",
+          "posts/comprendre-et-maitriser-ses-emotions/basile-confidentialite-panneau-jeu",
+          "posts/comprendre-et-maitriser-ses-emotions/basile-evolution-jeu-trois-chemins",
+          "posts/comprendre-et-maitriser-ses-emotions/basile-irritation-offre-aide-raccord",
+          "posts/comprendre-et-maitriser-ses-emotions/basile-plaisir-peu-visible-toc-final",
+          "posts/comprendre-et-maitriser-ses-emotions/basile-recevoir-reconfort-deux-descentes",
+          "posts/comprendre-et-maitriser-ses-emotions/basile-refus-contact-fete-piste",
+          "posts/comprendre-et-maitriser-ses-emotions/basile-relais-annonce-atelier-remplacante",
+          "posts/comprendre-et-maitriser-ses-emotions/basile-relations-pairs-depart-deux",
+          "posts/comprendre-et-maitriser-ses-emotions/basile-soutien-adultes-relais-plateau"
+        ]
+      },
       "reference_url": "https://icd.who.int/browse/2026-01/mms/fr#1867081699"
     },
     {
@@ -12295,20 +12330,6 @@
     }
   ],
   "pending_cases": [
-    {
-      "character_id": "berenice",
-      "name": "Bérénice",
-      "code": "6A41",
-      "label": "Catatonie provoquée par des substances ou des médicaments",
-      "decision": "À documenter puis choisir entre récit, comparaison et dossier."
-    },
-    {
-      "character_id": "basile",
-      "name": "Basile",
-      "code": "6B44",
-      "label": "Trouble réactionnel de l'attachement",
-      "decision": "À documenter puis choisir entre récit, comparaison et dossier."
-    },
     {
       "character_id": "thael",
       "name": "Thaël",

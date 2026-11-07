@@ -4064,6 +4064,968 @@
       "Techniques pour agir avec douceur au quotidien"
     ]
   },
+  "posts/comprendre-et-maitriser-ses-emotions/basile-appui-apprendre-mesure-pente": {
+    "character": "Basile",
+    "character_id": "basile",
+    "keywords": [
+      "Participation aux apprentissages",
+      "Aide adulte accessible",
+      "Idée conservée"
+    ],
+    "character_keywords": [
+      "Trouble réactionnel de l'attachement",
+      "Recours au réconfort",
+      "Réponses émotionnelles",
+      "Relations prévisibles",
+      "Participation scolaire"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "1696a8c5d1f610b68b2191df4eef3e6621a6922e92e8d48f659881f015966581",
+    "summary": "Mme Roux a retrouvé le plateau à la place indiquée par Mme Vidal. Elle déplie le plan des trois chemins et lit les petites flèches ajoutées pendant son absence. Basile montre la bille qui doit arriver doucement dans la moustache. Il cale la descente sur un morceau de carton plié. Trop haut, la bille sort. Un peu plus bas, elle tourne et touche le couvercle. Toc. « Là », dit-il.\n\n[…]\n\nIls gardent cette hauteur pour le chemin lent. Sur l’autre, Lila obtient l’essai plus rapide qu’elle souhaitait. Les deux mesures restent sur le plan au lieu de se remplacer. Basile remet la gomme dans la trousse et demande si le troisième chemin pourrait partir avec deux billes en même temps.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Mme Roux a retrouvé le plateau à la place indiquée par Mme Vidal. Elle déplie le plan des trois chemins et lit les petites flèches ajoutées pendant son absence. Basile montre la bille qui doit arriver doucement dans la moustache. Il cale la descente sur un morceau de carton plié. Trop haut, la bille sort. Un peu plus bas, elle tourne et touche le couvercle. Toc. « Là », dit-il.",
+        "start": 2,
+        "end": 382
+      },
+      {
+        "quote": "Ils gardent cette hauteur pour le chemin lent. Sur l’autre, Lila obtient l’essai plus rapide qu’elle souhaitait. Les deux mesures restent sur le plan au lieu de se remplacer. Basile remet la gomme dans la trousse et demande si le troisième chemin pourrait partir avec deux billes en même temps.",
+        "start": 5038,
+        "end": 5332
+      }
+    ],
+    "canonical_concept": "Un appui difficile à mobiliser pour apprendre",
+    "context": "Le choix des hauteurs après le retour de Mme Roux",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour rendre un appui scolaire utilisable"
+    ],
+    "clinical_code": "6B44",
+    "clinical_diagnosis": "Trouble réactionnel de l'attachement"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/basile-changement-sante-mal-ventre": {
+    "character": "Basile",
+    "character_id": "basile",
+    "keywords": [
+      "Santé physique",
+      "Observation sans interprétation",
+      "Relais professionnel"
+    ],
+    "character_keywords": [
+      "Trouble réactionnel de l'attachement",
+      "Recours au réconfort",
+      "Réponses émotionnelles",
+      "Relations prévisibles",
+      "Participation scolaire"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "7c23431051f9eb8f1b9b91b8b0bb5eb463894b722a2f35783873682aa665429b",
+    "summary": "Julien dépose le plateau sur la table du fond, comme il l’avait annoncé. Le panneau a voyagé à plat entre deux cartons. Basile vérifie que le grand mot moustache n’a pas été plié, puis laisse Mme Roux le fixer près des trois chemins. Les enfants doivent essayer l’installation avant la séance avec les visiteurs. Lila a déjà choisi la bille rouge. Deux chaises attendent ceux qui voudront regarder.\n\n[…]\n\nLila choisit de préparer le départ rapide. Les autres reprennent le dessin pour le trajet lent et le départ commun. Basile n’a pas à donner d’instructions supplémentaires ce jour-là. La boîte bleue reste fermée avec les billes triées. Pour la séance, les adultes prévoient une place où il pourra regarder et la possibilité de ne pas venir ; sa participation dépendra de son état et des conseils de santé, pas du nombre de cartons terminés.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Julien dépose le plateau sur la table du fond, comme il l’avait annoncé. Le panneau a voyagé à plat entre deux cartons. Basile vérifie que le grand mot moustache n’a pas été plié, puis laisse Mme Roux le fixer près des trois chemins. Les enfants doivent essayer l’installation avant la séance avec les visiteurs. Lila a déjà choisi la bille rouge. Deux chaises attendent ceux qui voudront regarder.",
+        "start": 2,
+        "end": 400
+      },
+      {
+        "quote": "Lila choisit de préparer le départ rapide. Les autres reprennent le dessin pour le trajet lent et le départ commun. Basile n’a pas à donner d’instructions supplémentaires ce jour-là. La boîte bleue reste fermée avec les billes triées. Pour la séance, les adultes prévoient une place où il pourra regarder et la possibilité de ne pas venir ; sa participation dépendra de son état et des conseils de santé, pas du nombre de cartons terminés.",
+        "start": 5383,
+        "end": 5822
+      }
+    ],
+    "canonical_concept": "Un changement mérite sa propre évaluation",
+    "context": "La plainte répétée avant les essais en classe",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour garder un relais de santé distinct"
+    ],
+    "clinical_code": "6B44",
+    "clinical_diagnosis": "Trouble réactionnel de l'attachement"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/basile-chercher-reconfort-tunnel-effondre": {
+    "character": "Basile",
+    "character_id": "basile",
+    "keywords": [
+      "Détresse peu partagée",
+      "Adulte disponible",
+      "Projet interrompu"
+    ],
+    "character_keywords": [
+      "Trouble réactionnel de l'attachement",
+      "Recours au réconfort",
+      "Réponses émotionnelles",
+      "Relations prévisibles",
+      "Participation scolaire"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "814b99bf11742bfe2becd7433a7025353ef9b0cb00fd07444b46a96c638d0398",
+    "summary": "La bille verte fait deux petits coups contre les parois, puis disparaît. Basile attend le troisième bruit, celui qui signifie qu’elle est sortie. À la place, le toit du tunnel se couche sur le départ rapide. Il attrape le carton à deux mains. Un morceau lui reste entre les doigts, l’autre pend au ruban adhésif. « Mais tiens ! » Il le dit au tunnel, assez bas pour que Nora, près de l’évier, n’entende que le dernier mot.\n\n[…]\n\n« Pas la poubelle », dit-il. Ils conviennent de reprendre le rangement après manger et de regarder le prototype le lendemain matin. Le carton reste cassé. Basile garde les épaules hautes en allant s’asseoir, mais le tunnel pourra encore partir quelque part.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "La bille verte fait deux petits coups contre les parois, puis disparaît. Basile attend le troisième bruit, celui qui signifie qu’elle est sortie. À la place, le toit du tunnel se couche sur le départ rapide. Il attrape le carton à deux mains. Un morceau lui reste entre les doigts, l’autre pend au ruban adhésif. « Mais tiens ! » Il le dit au tunnel, assez bas pour que Nora, près de l’évier, n’entende que le dernier mot.",
+        "start": 2,
+        "end": 424
+      },
+      {
+        "quote": "« Pas la poubelle », dit-il. Ils conviennent de reprendre le rangement après manger et de regarder le prototype le lendemain matin. Le carton reste cassé. Basile garde les épaules hautes en allant s’asseoir, mais le tunnel pourra encore partir quelque part.",
+        "start": 5130,
+        "end": 5387
+      }
+    ],
+    "canonical_concept": "Chercher peu de réconfort",
+    "context": "Le rangement du premier prototype à la maison",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour rester disponible sans attendre un appel"
+    ],
+    "clinical_code": "6B44",
+    "clinical_diagnosis": "Trouble réactionnel de l'attachement"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/basile-confidentialite-panneau-jeu": {
+    "character": "Basile",
+    "character_id": "basile",
+    "keywords": [
+      "Confidentialité",
+      "Participation préservée",
+      "Informations utiles"
+    ],
+    "character_keywords": [
+      "Trouble réactionnel de l'attachement",
+      "Recours au réconfort",
+      "Réponses émotionnelles",
+      "Relations prévisibles",
+      "Participation scolaire"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "bee71995c40a7ce76fd641ac5284f52f092080e178c6f0799d15d0f929043e16",
+    "summary": "Sur la grande feuille, Lila trace une flèche rouge pour le chemin rapide. Basile a dessiné un œil près du chemin lent : les visiteurs pourront regarder avant de choisir une bille. Le plateau est revenu à l’école pour servir de modèle. Mme Roux demande quels mots écrire sous les dessins. « On regarde aussi avec les oreilles », propose Basile. Lila trouve que cela ressemble à une devinette. Ils cherchent une phrase plus courte.\n\n[…]\n\n« Je fais le nom en grand », dit-il. Lila termine sa flèche. Plus tard, Mme Roux reprend avec les adultes concernés les informations utiles et la façon de les échanger ; elle propose à Basile de répondre pour lui si une question revient. Il préfère qu’elle s’en charge. Le panneau terminé rentre à plat avec le plateau : à la maison, il faudra lui trouver une place qui ne le plie pas.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Sur la grande feuille, Lila trace une flèche rouge pour le chemin rapide. Basile a dessiné un œil près du chemin lent : les visiteurs pourront regarder avant de choisir une bille. Le plateau est revenu à l’école pour servir de modèle. Mme Roux demande quels mots écrire sous les dessins. « On regarde aussi avec les oreilles », propose Basile. Lila trouve que cela ressemble à une devinette. Ils cherchent une phrase plus courte.",
+        "start": 2,
+        "end": 431
+      },
+      {
+        "quote": "« Je fais le nom en grand », dit-il. Lila termine sa flèche. Plus tard, Mme Roux reprend avec les adultes concernés les informations utiles et la façon de les échanger ; elle propose à Basile de répondre pour lui si une question revient. Il préfère qu’elle s’en charge. Le panneau terminé rentre à plat avec le plateau : à la maison, il faudra lui trouver une place qui ne le plie pas.",
+        "start": 5499,
+        "end": 5884
+      }
+    ],
+    "canonical_concept": "Participer sans exposer son histoire",
+    "context": "La rédaction du panneau des trois chemins",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour préserver une participation sans dévoilement"
+    ],
+    "clinical_code": "6B44",
+    "clinical_diagnosis": "Trouble réactionnel de l'attachement"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/basile-evolution-jeu-trois-chemins": {
+    "character": "Basile",
+    "character_id": "basile",
+    "keywords": [
+      "Évolution singulière",
+      "Participation réelle",
+      "Suivi maintenu"
+    ],
+    "character_keywords": [
+      "Trouble réactionnel de l'attachement",
+      "Recours au réconfort",
+      "Réponses émotionnelles",
+      "Relations prévisibles",
+      "Participation scolaire"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "a86abd64f7add7216aa528295de3f3bab122dcda6325d9d3bf0364fc8552bf79",
+    "summary": "Avant la séance, Nora et Mme Roux ont vérifié l’organisation au regard des conseils de santé reçus. Basile peut participer un moment si son état le permet, s’arrêter ou regarder. La question de son ventre reste suivie séparément. Aujourd’hui, il se sent disponible pour un essai et rejoint le côté lent. Il reconnaît le petit point de feutre près du mot moustache. Nora reste près d’une chaise, là où il lui a indiqué qu’elle verrait l’arrivée.\n\n[…]\n\nLes trois chemins ont servi. Basile s’assied près du plateau et laisse les autres poursuivre. Nora reste à la distance choisie, sans tendre les bras pour clore la séance. Au rangement, les pièces détachables retrouvent la boîte bleue ; le plateau et le panneau sont gardés à plat pour un autre atelier. Les relais de santé et le suivi pédopsychiatrique continuent. Basile soulève le couvercle avant de le fermer : « Un tunnel qui fait deux bruits, ça rentre dans la prochaine ? » Lila répond qu’il faudra quand même garder une course.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Avant la séance, Nora et Mme Roux ont vérifié l’organisation au regard des conseils de santé reçus. Basile peut participer un moment si son état le permet, s’arrêter ou regarder. La question de son ventre reste suivie séparément. Aujourd’hui, il se sent disponible pour un essai et rejoint le côté lent. Il reconnaît le petit point de feutre près du mot moustache. Nora reste près d’une chaise, là où il lui a indiqué qu’elle verrait l’arrivée.",
+        "start": 385,
+        "end": 829
+      },
+      {
+        "quote": "Les trois chemins ont servi. Basile s’assied près du plateau et laisse les autres poursuivre. Nora reste à la distance choisie, sans tendre les bras pour clore la séance. Au rangement, les pièces détachables retrouvent la boîte bleue ; le plateau et le panneau sont gardés à plat pour un autre atelier. Les relais de santé et le suivi pédopsychiatrique continuent. Basile soulève le couvercle avant de le fermer : « Un tunnel qui fait deux bruits, ça rentre dans la prochaine ? » Lila répond qu’il faudra quand même garder une course.",
+        "start": 5500,
+        "end": 6034
+      }
+    ],
+    "canonical_concept": "Une évolution sans preuve d'affection exigée",
+    "context": "La séance de jeu collective et le rangement de la piste",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour reconnaître une réussite sans exiger de preuve affective"
+    ],
+    "clinical_code": "6B44",
+    "clinical_diagnosis": "Trouble réactionnel de l'attachement"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/basile-irritation-offre-aide-raccord": {
+    "character": "Basile",
+    "character_id": "basile",
+    "keywords": [
+      "Irritation dans l’échange",
+      "Pause possible",
+      "Limite sans confrontation"
+    ],
+    "character_keywords": [
+      "Trouble réactionnel de l'attachement",
+      "Recours au réconfort",
+      "Réponses émotionnelles",
+      "Relations prévisibles",
+      "Participation scolaire"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "9b8dde3e83d5a418d6f73b47831b8f0f159a270a908c8d9dd873b603e60af09e",
+    "summary": "Le plan de la classe est coincé sous un verre vide. Basile a retrouvé deux morceaux de ruban et un plateau léger qui permettra de transporter le montage sans tout refaire. Il pose la descente basse devant le virage moustache. Le couvercle d’arrivée attend plus loin. Sur le papier, les lignes se touchent parfaitement. Sur le plateau, il reste un trou où la bille pourrait s’échapper.\n\n[…]\n\nJulien commence le repas. Il laisse le virage sur le plateau et ne revient pas obtenir une explication. Plus tard, Basile ramène le carton vers le centre. Il appuie le raccord contre une petite boîte pendant qu’il pose le ruban. La bille verte rejoint le couvercle, de travers, mais sans tomber.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Le plan de la classe est coincé sous un verre vide. Basile a retrouvé deux morceaux de ruban et un plateau léger qui permettra de transporter le montage sans tout refaire. Il pose la descente basse devant le virage moustache. Le couvercle d’arrivée attend plus loin. Sur le papier, les lignes se touchent parfaitement. Sur le plateau, il reste un trou où la bille pourrait s’échapper.",
+        "start": 2,
+        "end": 386
+      },
+      {
+        "quote": "Julien commence le repas. Il laisse le virage sur le plateau et ne revient pas obtenir une explication. Plus tard, Basile ramène le carton vers le centre. Il appuie le raccord contre une petite boîte pendant qu’il pose le ruban. La bille verte rejoint le couvercle, de travers, mais sans tomber.",
+        "start": 4828,
+        "end": 5123
+      }
+    ],
+    "canonical_concept": "Irritation dans un échange sans menace",
+    "context": "La fixation du virage moustache sur un plateau à la maison",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour traverser un échange irrité"
+    ],
+    "clinical_code": "6B44",
+    "clinical_diagnosis": "Trouble réactionnel de l'attachement"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/basile-plaisir-peu-visible-toc-final": {
+    "character": "Basile",
+    "character_id": "basile",
+    "keywords": [
+      "Expression du plaisir",
+      "Réaction de l’adulte",
+      "Préférences de jeu"
+    ],
+    "character_keywords": [
+      "Trouble réactionnel de l'attachement",
+      "Recours au réconfort",
+      "Réponses émotionnelles",
+      "Relations prévisibles",
+      "Participation scolaire"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "2c0ae382727a9abfb98ba706e62d24bc0bd6be929f77ddd4bc811b12f7e10e0c",
+    "summary": "Mme Roux soulève un livre pour faire une pente. Basile en ajoute un deuxième, puis le retire : la bille verte saute déjà à la jointure. Les deux descentes sorties de la boîte bleue arrivent dans un couvercle en carton. Toute la table se penche lorsque Lila laisse partir la bille. Elle roule, hésite, traverse le raccord et touche le bord. Toc.\n\n[…]\n\nIls dessinent donc le virage sur un chemin lent, à côté d’une ligne plus droite pour aller vite. Le troisième départ reste un point d’interrogation. Basile emporte le petit plan et les morceaux à la maison pour essayer un raccord. Le couvercle rentre lui aussi dans la boîte bleue, posé au-dessus des deux descentes pour qu’il ne se déforme pas.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Mme Roux soulève un livre pour faire une pente. Basile en ajoute un deuxième, puis le retire : la bille verte saute déjà à la jointure. Les deux descentes sorties de la boîte bleue arrivent dans un couvercle en carton. Toute la table se penche lorsque Lila laisse partir la bille. Elle roule, hésite, traverse le raccord et touche le bord. Toc.",
+        "start": 2,
+        "end": 346
+      },
+      {
+        "quote": "Ils dessinent donc le virage sur un chemin lent, à côté d’une ligne plus droite pour aller vite. Le troisième départ reste un point d’interrogation. Basile emporte le petit plan et les morceaux à la maison pour essayer un raccord. Le couvercle rentre lui aussi dans la boîte bleue, posé au-dessus des deux descentes pour qu’il ne se déforme pas.",
+        "start": 4995,
+        "end": 5340
+      }
+    ],
+    "canonical_concept": "Un plaisir peu visible aux adultes",
+    "context": "Le premier essai des descentes avec la classe",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour accueillir une réaction discrète"
+    ],
+    "clinical_code": "6B44",
+    "clinical_diagnosis": "Trouble réactionnel de l'attachement"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/basile-recevoir-reconfort-deux-descentes": {
+    "character": "Basile",
+    "character_id": "basile",
+    "keywords": [
+      "Réponse au réconfort",
+      "Distance choisie",
+      "Présence sans insistance"
+    ],
+    "character_keywords": [
+      "Trouble réactionnel de l'attachement",
+      "Recours au réconfort",
+      "Réponses émotionnelles",
+      "Relations prévisibles",
+      "Participation scolaire"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "67ef3dcebc1284c3070358c704aca79e170396c793b7cfbedfb9bd4224582a92",
+    "summary": "La boîte bleue est restée sur l’étagère basse après le rangement du soir. Nora la pose sur la table du petit déjeuner, loin du bol. Basile retire le couvercle et retrouve le toit plié en deux. La bille verte roule dans une rainure du fond. « Tu veux que je reste avec toi ? Ça peut faire de la peine, un tunnel cassé. » Il tourne la boîte pour avoir l’entrée devant lui. « C’est le ruban. Il collait même pas. »\n\n[…]\n\nNora s’installe au bout de la table et découpe un rectangle dans son propre carton. Basile garde longtemps le toit entre ses mains. Puis il demande les ciseaux. « Si on coupe là, il y a deux descentes. Le tunnel, il est trop mou. » Nora lui passe la paire adaptée à son âge et reste à sa place.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "La boîte bleue est restée sur l’étagère basse après le rangement du soir. Nora la pose sur la table du petit déjeuner, loin du bol. Basile retire le couvercle et retrouve le toit plié en deux. La bille verte roule dans une rainure du fond. « Tu veux que je reste avec toi ? Ça peut faire de la peine, un tunnel cassé. » Il tourne la boîte pour avoir l’entrée devant lui. « C’est le ruban. Il collait même pas. »",
+        "start": 2,
+        "end": 413
+      },
+      {
+        "quote": "Nora s’installe au bout de la table et découpe un rectangle dans son propre carton. Basile garde longtemps le toit entre ses mains. Puis il demande les ciseaux. « Si on coupe là, il y a deux descentes. Le tunnel, il est trop mou. » Nora lui passe la paire adaptée à son âge et reste à sa place.",
+        "start": 4889,
+        "end": 5183
+      }
+    ],
+    "canonical_concept": "Recevoir difficilement le réconfort offert",
+    "context": "Le lendemain matin devant la boîte bleue",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour ajuster une présence offerte"
+    ],
+    "clinical_code": "6B44",
+    "clinical_diagnosis": "Trouble réactionnel de l'attachement"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/basile-refus-contact-fete-piste": {
+    "character": "Basile",
+    "character_id": "basile",
+    "keywords": [
+      "Choix du contact",
+      "Fête collective",
+      "Accompagnement non coercitif"
+    ],
+    "character_keywords": [
+      "Trouble réactionnel de l'attachement",
+      "Recours au réconfort",
+      "Réponses émotionnelles",
+      "Relations prévisibles",
+      "Participation scolaire"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "4fe5da401481b5e705ee2ee6ca211bd6fd9c10b6bfc604998b604f1469f9bdac",
+    "summary": "Nora arrive lorsque Lila remet la bille rouge en haut du chemin rapide. Les deux emplacements du départ commun sont alignés comme des yeux sur le carton. Basile a passé une dernière fois le doigt sur la languette pour enlever une aspérité. Le plateau n’est plus seulement son prototype : d’autres mains ont ajouté les bordures, dessiné les flèches et choisi les couleurs.\n\n[…]\n\nMme Roux demande comment accueillir les autres visiteurs lors de la séance de jeu. Les enfants veulent garder une place pour ceux qui regardent d’abord. Basile propose un œil dessiné près des chemins. Personne ne réclame un câlin pour fermer la présentation. Nora emporte le plateau ; la prochaine tâche sera un panneau qui dira comment regarder ou jouer sans devoir donner une explication personnelle.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Nora arrive lorsque Lila remet la bille rouge en haut du chemin rapide. Les deux emplacements du départ commun sont alignés comme des yeux sur le carton. Basile a passé une dernière fois le doigt sur la languette pour enlever une aspérité. Le plateau n’est plus seulement son prototype : d’autres mains ont ajouté les bordures, dessiné les flèches et choisi les couleurs.",
+        "start": 2,
+        "end": 373
+      },
+      {
+        "quote": "Mme Roux demande comment accueillir les autres visiteurs lors de la séance de jeu. Les enfants veulent garder une place pour ceux qui regardent d’abord. Basile propose un œil dessiné près des chemins. Personne ne réclame un câlin pour fermer la présentation. Nora emporte le plateau ; la prochaine tâche sera un panneau qui dira comment regarder ou jouer sans devoir donner une explication personnelle.",
+        "start": 5036,
+        "end": 5438
+      }
+    ],
+    "canonical_concept": "Le refus de contact reste un droit",
+    "context": "La présentation du plateau à Nora après la classe",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour célébrer sans imposer de contact"
+    ],
+    "clinical_code": "6B44",
+    "clinical_diagnosis": "Trouble réactionnel de l'attachement"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/basile-relais-annonce-atelier-remplacante": {
+    "character": "Basile",
+    "character_id": "basile",
+    "keywords": [
+      "Continuité des adultes",
+      "Relais scolaire",
+      "Repères concrets"
+    ],
+    "character_keywords": [
+      "Trouble réactionnel de l'attachement",
+      "Recours au réconfort",
+      "Réponses émotionnelles",
+      "Relations prévisibles",
+      "Participation scolaire"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "12edaa6f0342e11e5e1c20f24fd7c382a684d9e23c689c8b744c22afc80c12bc",
+    "summary": "Le petit plateau entre de biais dans le grand compartiment du cartable. Pour qu’il ne plie pas, Nora a glissé un carton plat derrière. La boîte bleue contient les billes, les descentes détachables et le couvercle d’arrivée. Basile a vérifié deux fois que le raccord du virage moustache tient encore. À l’école, pourtant, il laisse le plateau dans son cartable. Les autres objets du projet s’alignent sur la table du fond. Le sien dépasse entre deux cahiers.\n\n[…]\n\nMme Roux présente Mme Vidal avant la journée d’absence et lui montre la table du fond. Avec Basile, elles dessinent une boîte, une bille puis un cartable pour les étapes de l’atelier. Nora reprend le soir les moments prévus ; si quelque chose change, un adulte le lui dira. Basile garde le dessin sous le couvercle.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Le petit plateau entre de biais dans le grand compartiment du cartable. Pour qu’il ne plie pas, Nora a glissé un carton plat derrière. La boîte bleue contient les billes, les descentes détachables et le couvercle d’arrivée. Basile a vérifié deux fois que le raccord du virage moustache tient encore. À l’école, pourtant, il laisse le plateau dans son cartable. Les autres objets du projet s’alignent sur la table du fond. Le sien dépasse entre deux cahiers.",
+        "start": 2,
+        "end": 459
+      },
+      {
+        "quote": "Mme Roux présente Mme Vidal avant la journée d’absence et lui montre la table du fond. Avec Basile, elles dessinent une boîte, une bille puis un cartable pour les étapes de l’atelier. Nora reprend le soir les moments prévus ; si quelque chose change, un adulte le lui dira. Basile garde le dessin sous le couvercle.",
+        "start": 4674,
+        "end": 4989
+      }
+    ],
+    "canonical_concept": "Stabilité des appuis et relais annoncés",
+    "context": "La préparation puis la journée d’absence de l’enseignante",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour préparer un relais ordinaire"
+    ],
+    "clinical_code": "6B44",
+    "clinical_diagnosis": "Trouble réactionnel de l'attachement"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/basile-relations-pairs-depart-deux": {
+    "character": "Basile",
+    "character_id": "basile",
+    "keywords": [
+      "Échange entre pairs",
+      "Désaccord de jeu",
+      "Cadre collectif"
+    ],
+    "character_keywords": [
+      "Trouble réactionnel de l'attachement",
+      "Recours au réconfort",
+      "Réponses émotionnelles",
+      "Relations prévisibles",
+      "Participation scolaire"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "8c07eca919c0ed760631b494096b553996d9cdaac8d637d9de98e9c77ba5e734",
+    "summary": "La hauteur du chemin lent est écrite à gauche du plan ; celle du rapide, à droite. Au milieu, Basile a dessiné deux ronds pour le dernier départ. Lila pose sa bille rouge dans l’un. « La mienne gagne. » Basile installe la verte dans l’autre. « C’est pas une course si elles vont dans le même trou. » Ils font partir les deux avec une languette de carton. L’une touche le couvercle avant l’autre. Toc, toc.\n\n[…]\n\nAu retour de Lila, elle lance une fois, puis lui. Ils creusent deux petits emplacements dans le carton pour que les billes ne roulent pas avant le départ. Le troisième chemin fonctionne à côté du lent et du rapide. Les camarades veulent montrer le plateau terminé à Nora lorsqu’elle viendra le récupérer après la classe. Lila annonce qu’elle présentera d’abord le chemin rapide. Basile conserve le toc à deux pour la suite.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "La hauteur du chemin lent est écrite à gauche du plan ; celle du rapide, à droite. Au milieu, Basile a dessiné deux ronds pour le dernier départ. Lila pose sa bille rouge dans l’un. « La mienne gagne. » Basile installe la verte dans l’autre. « C’est pas une course si elles vont dans le même trou. » Ils font partir les deux avec une languette de carton. L’une touche le couvercle avant l’autre. Toc, toc.",
+        "start": 2,
+        "end": 407
+      },
+      {
+        "quote": "Au retour de Lila, elle lance une fois, puis lui. Ils creusent deux petits emplacements dans le carton pour que les billes ne roulent pas avant le départ. Le troisième chemin fonctionne à côté du lent et du rapide. Les camarades veulent montrer le plateau terminé à Nora lorsqu’elle viendra le récupérer après la classe. Lila annonce qu’elle présentera d’abord le chemin rapide. Basile conserve le toc à deux pour la suite.",
+        "start": 5033,
+        "end": 5456
+      }
+    ],
+    "canonical_concept": "Les pairs gardent une relation propre",
+    "context": "L’invention du troisième chemin avec Lila",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour garder au jeu sa place entre enfants"
+    ],
+    "clinical_code": "6B44",
+    "clinical_diagnosis": "Trouble réactionnel de l'attachement"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/basile-soutien-adultes-relais-plateau": {
+    "character": "Basile",
+    "character_id": "basile",
+    "keywords": [
+      "Soutien des accueillants",
+      "Relais annoncé",
+      "Charge affective"
+    ],
+    "character_keywords": [
+      "Trouble réactionnel de l'attachement",
+      "Recours au réconfort",
+      "Réponses émotionnelles",
+      "Relations prévisibles",
+      "Participation scolaire"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "e76a1705ba2ffbc44438062d2b95b491f3146e1c7b02c8b25d86707da08417bc",
+    "summary": "Le grand panneau entre dans la cuisine avant Basile. Il le tient par les coins, les bras écartés, pour ne pas froisser la moustache écrite en grand. Nora libère une place sur la table. Le plateau attend à côté ; une bordure s’est décollée pendant le transport et pend au-dessus du couvercle. Basile pose le panneau et tire un peu sur le morceau. Le raccord se défait complètement.\n\n[…]\n\nAu repas, Nora ne réclame aucun mot sur ce qui s’est passé. Basile choisit l’étagère large pour le panneau, posé à plat au-dessus de la boîte bleue. Il dit aussi qu’il a mal au ventre ; Nora l’écoute et s’occupe de lui sans en chercher une explication dans le raccord. Le transport reste prévu avec Julien, mais le jeu n’a pas à passer avant son état du moment.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Le grand panneau entre dans la cuisine avant Basile. Il le tient par les coins, les bras écartés, pour ne pas froisser la moustache écrite en grand. Nora libère une place sur la table. Le plateau attend à côté ; une bordure s’est décollée pendant le transport et pend au-dessus du couvercle. Basile pose le panneau et tire un peu sur le morceau. Le raccord se défait complètement.",
+        "start": 2,
+        "end": 382
+      },
+      {
+        "quote": "Au repas, Nora ne réclame aucun mot sur ce qui s’est passé. Basile choisit l’étagère large pour le panneau, posé à plat au-dessus de la boîte bleue. Il dit aussi qu’il a mal au ventre ; Nora l’écoute et s’occupe de lui sans en chercher une explication dans le raccord. Le transport reste prévu avec Julien, mais le jeu n’a pas à passer avant son état du moment.",
+        "start": 5485,
+        "end": 5846
+      }
+    ],
+    "canonical_concept": "Soutenir les adultes sans charger l'enfant",
+    "context": "Le rangement du panneau et du plateau à la maison",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour soutenir les adultes sans charger l’enfant"
+    ],
+    "clinical_code": "6B44",
+    "clinical_diagnosis": "Trouble réactionnel de l'attachement"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/berenice-attribution-traitement-evaluation": {
+    "character": "Bérénice",
+    "character_id": "berenice",
+    "keywords": [
+      "Conclusion clinique",
+      "Chronologie insuffisante",
+      "Questions au médecin"
+    ],
+    "character_keywords": [
+      "Catatonie provoquée par des substances ou des médicaments",
+      "Parole et initiative motrice entravées",
+      "Complications et soins médicaux",
+      "Vécu et souvenirs de l’épisode",
+      "Retour aux activités et suivi"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "ac85d3ad1b458f10cb78caf59ed54517531e146cf49b8972c731c6185861f6f8",
+    "summary": "Les documents rapportés par Estelle sont posés dans une pochette, à côté du verre de la chambre. Le médecin rapproche sa chaise du lit et demande à Bérénice si elle souhaite la présence de sa fille pendant l’explication. Ses réponses sont aujourd’hui plus accessibles. Elle dit oui, puis regarde la pochette : « C’est avec ça que vous savez ? » Estelle ne répond pas à sa place. Elle a remis les pièces demandées, et cette partie de sa tâche est terminée.\n\n[…]\n\nEstelle place les questions dans la pochette médicale. Elle remet ensuite l’enveloppe bleue dans son sac sans demander si le tournoi pourrait fixer une sortie. Avant de partir, elle demande seulement à sa mère si elle reviendra avec les affiches. Bérénice dit qu’elle peut les apporter ; aucune décision de tournoi n’est attendue pendant cette visite.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Les documents rapportés par Estelle sont posés dans une pochette, à côté du verre de la chambre. Le médecin rapproche sa chaise du lit et demande à Bérénice si elle souhaite la présence de sa fille pendant l’explication. Ses réponses sont aujourd’hui plus accessibles. Elle dit oui, puis regarde la pochette : « C’est avec ça que vous savez ? » Estelle ne répond pas à sa place. Elle a remis les pièces demandées, et cette partie de sa tâche est terminée.",
+        "start": 2,
+        "end": 457
+      },
+      {
+        "quote": "Estelle place les questions dans la pochette médicale. Elle remet ensuite l’enveloppe bleue dans son sac sans demander si le tournoi pourrait fixer une sortie. Avant de partir, elle demande seulement à sa mère si elle reviendra avec les affiches. Bérénice dit qu’elle peut les apporter ; aucune décision de tournoi n’est attendue pendant cette visite.",
+        "start": 5834,
+        "end": 6185
+      }
+    ],
+    "canonical_concept": "Attribution médicamenteuse après évaluation clinique",
+    "context": "Explication du diagnostic à l’hôpital",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour comprendre l’explication diagnostique"
+    ],
+    "clinical_code": "6A41",
+    "clinical_diagnosis": "Catatonie provoquée par des substances ou des médicaments"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/berenice-besoins-corporels-complication": {
+    "character": "Bérénice",
+    "character_id": "berenice",
+    "keywords": [
+      "Déshydratation traitée",
+      "Besoins évalués",
+      "Attention pratique autorisée"
+    ],
+    "character_keywords": [
+      "Catatonie provoquée par des substances ou des médicaments",
+      "Parole et initiative motrice entravées",
+      "Complications et soins médicaux",
+      "Vécu et souvenirs de l’épisode",
+      "Retour aux activités et suivi"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "2ee6b6645bd4eaa310193e81ab5d50788f65e0b0709a44103603493745ffb112",
+    "summary": "Estelle a apporté une petite bouteille de la boisson que sa mère choisit d’ordinaire après les courses. Elle la sort du sac avec la satisfaction modeste d’avoir trouvé quelque chose de familier qui ne demande aucun choix d’affiche. Bérénice lui demande d’abord où est passé le gilet gris. Il est bien là, à l’endroit convenu avec l’équipe. Les mots sont assez audibles aujourd’hui pour qu’Estelle lui réponde sans se tourner vers quelqu’un d’autre.\n\n[…]\n\nEstelle laisse la bouteille de côté jusqu’à la réponse de l’équipe. Elle propose de rapporter les affaires demandées plutôt que d’essayer de démontrer que sa mère peut se débrouiller. Bérénice demande à la soignante de reprendre la différence entre la déshydratation déjà traitée et les autres points encore suivis. L’explication lui donne une raison de la poursuite des soins qui ne dépend pas de la longueur de ses phrases.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Estelle a apporté une petite bouteille de la boisson que sa mère choisit d’ordinaire après les courses. Elle la sort du sac avec la satisfaction modeste d’avoir trouvé quelque chose de familier qui ne demande aucun choix d’affiche. Bérénice lui demande d’abord où est passé le gilet gris. Il est bien là, à l’endroit convenu avec l’équipe. Les mots sont assez audibles aujourd’hui pour qu’Estelle lui réponde sans se tourner vers quelqu’un d’autre.",
+        "start": 2,
+        "end": 450
+      },
+      {
+        "quote": "Estelle laisse la bouteille de côté jusqu’à la réponse de l’équipe. Elle propose de rapporter les affaires demandées plutôt que d’essayer de démontrer que sa mère peut se débrouiller. Bérénice demande à la soignante de reprendre la différence entre la déshydratation déjà traitée et les autres points encore suivis. L’explication lui donne une raison de la poursuite des soins qui ne dépend pas de la longueur de ses phrases.",
+        "start": 5602,
+        "end": 6027
+      }
+    ],
+    "canonical_concept": "Besoins corporels et complications médicales",
+    "context": "Point sur les soins et les apports à l’hôpital",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour aider dans le cadre des soins"
+    ],
+    "clinical_code": "6A41",
+    "clinical_diagnosis": "Catatonie provoquée par des substances ou des médicaments"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/berenice-changement-brutal-relais-medical": {
+    "character": "Bérénice",
+    "character_id": "berenice",
+    "keywords": [
+      "Rupture avec le fonctionnement habituel",
+      "Évaluation médicale en cours",
+      "Engagements mis en relais"
+    ],
+    "character_keywords": [
+      "Catatonie provoquée par des substances ou des médicaments",
+      "Parole et initiative motrice entravées",
+      "Complications et soins médicaux",
+      "Vécu et souvenirs de l’épisode",
+      "Retour aux activités et suivi"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "e3ce1b96ffacdc67b94c5dffcf541dc7b16b5a6f756a3d910697c7f5d44c18bc",
+    "summary": "L’enveloppe bleue dépasse du sac d’Estelle quand elle entre dans la chambre. Elle contient les feuilles du tournoi de badminton et un crayon dont sa mère a entouré l’extrémité de ruban adhésif : celui-là ne devait plus disparaître à l’accueil. Estelle pose le sac au pied de sa chaise. Bérénice est dans le lit, peu mobile. À la question sur l’enveloppe, aucune réponse qu’Estelle puisse comprendre ne vient. Elle renonce à sortir les feuilles.\n\n[…]\n\nQuand le médecin arrive, Estelle raconte les faits de la veille puis ce qu’elle a vu pendant la visite. Il lui demande des documents pour compléter l’histoire des traitements. Elle accepte de les apporter, sans transformer cette demande en confirmation de sa propre hypothèse. Bérénice reste prise en charge dans le service.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "L’enveloppe bleue dépasse du sac d’Estelle quand elle entre dans la chambre. Elle contient les feuilles du tournoi de badminton et un crayon dont sa mère a entouré l’extrémité de ruban adhésif : celui-là ne devait plus disparaître à l’accueil. Estelle pose le sac au pied de sa chaise. Bérénice est dans le lit, peu mobile. À la question sur l’enveloppe, aucune réponse qu’Estelle puisse comprendre ne vient. Elle renonce à sortir les feuilles.",
+        "start": 2,
+        "end": 446
+      },
+      {
+        "quote": "Quand le médecin arrive, Estelle raconte les faits de la veille puis ce qu’elle a vu pendant la visite. Il lui demande des documents pour compléter l’histoire des traitements. Elle accepte de les apporter, sans transformer cette demande en confirmation de sa propre hypothèse. Bérénice reste prise en charge dans le service.",
+        "start": 5722,
+        "end": 6046
+      }
+    ],
+    "canonical_concept": "Changement psychomoteur rapide et recours médical",
+    "context": "Première visite à l’hôpital",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour transmettre et passer le relais"
+    ],
+    "clinical_code": "6A41",
+    "clinical_diagnosis": "Catatonie provoquée par des substances ou des médicaments"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/berenice-changement-ulterieur-reevaluation": {
+    "character": "Bérénice",
+    "character_id": "berenice",
+    "keywords": [
+      "Observation isolée",
+      "Inquiétude et évaluation",
+      "Relais médical adapté"
+    ],
+    "character_keywords": [
+      "Catatonie provoquée par des substances ou des médicaments",
+      "Parole et initiative motrice entravées",
+      "Complications et soins médicaux",
+      "Vécu et souvenirs de l’épisode",
+      "Retour aux activités et suivi"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "d96fdf900ba93880523379464fce53a56f601d49e08ef00980ec878d17e023a1",
+    "summary": "Pendant le contact de suivi, Bérénice commence par une phrase qu’elle a répétée dans sa tête : « L’autre soir, j’ai mis du temps à répondre à Estelle, et j’ai aussitôt pensé à l’hôpital. » Elle avait prévu de raconter aussi le retour au comptoir, l’enveloppe bleue enfin partagée avec Karim et les inscriptions qui avancent. Elle ne veut pas que ces bonnes nouvelles fassent disparaître la question qu’elle apporte aujourd’hui.\n\n[…]\n\nBérénice peut ensuite revenir au tournoi. Elle souhaite maintenir le partage prévu et demander à Karim s’il prend bien la clôture. Ce choix d’organisation n’est pas une conclusion médicale. Il laisse aux joueurs un accueil prévu, à sa fille un rôle défini et au suivi les questions qui relèvent des soins.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Pendant le contact de suivi, Bérénice commence par une phrase qu’elle a répétée dans sa tête : « L’autre soir, j’ai mis du temps à répondre à Estelle, et j’ai aussitôt pensé à l’hôpital. » Elle avait prévu de raconter aussi le retour au comptoir, l’enveloppe bleue enfin partagée avec Karim et les inscriptions qui avancent. Elle ne veut pas que ces bonnes nouvelles fassent disparaître la question qu’elle apporte aujourd’hui.",
+        "start": 2,
+        "end": 429
+      },
+      {
+        "quote": "Bérénice peut ensuite revenir au tournoi. Elle souhaite maintenir le partage prévu et demander à Karim s’il prend bien la clôture. Ce choix d’organisation n’est pas une conclusion médicale. Il laisse aux joueurs un accueil prévu, à sa fille un rôle défini et au suivi les questions qui relèvent des soins.",
+        "start": 5757,
+        "end": 6062
+      }
+    ],
+    "canonical_concept": "Ralentissement ultérieur et nouvelle évaluation",
+    "context": "Un changement rapporté au contact de suivi",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour transmettre un changement et trouver le bon relais"
+    ],
+    "clinical_code": "6A41",
+    "clinical_diagnosis": "Catatonie provoquée par des substances ou des médicaments"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/berenice-fluctuations-appreciation-amelioration": {
+    "character": "Bérénice",
+    "character_id": "berenice",
+    "keywords": [
+      "Contraste entre deux moments",
+      "Appréciation clinique dans le temps",
+      "Sortie et contacts de suivi"
+    ],
+    "character_keywords": [
+      "Catatonie provoquée par des substances ou des médicaments",
+      "Parole et initiative motrice entravées",
+      "Complications et soins médicaux",
+      "Vécu et souvenirs de l’épisode",
+      "Retour aux activités et suivi"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "916c8e7bb91cbd59c3f03ad067d9c87759032ace450de66e4d416d6108275bdd",
+    "summary": "Le matin, Bérénice a regardé l’affiche qu’Estelle avait laissée dépasser du sac. « Si tu la caches derrière la porte, on aura surtout un tournoi secret. » Estelle a ri avant de se rendre compte qu’elle attendait depuis plusieurs visites cette manière de contester un détail. Elle a raconté la phrase à la soignante, heureuse de pouvoir rapporter autre chose qu’un geste interrompu. La journée lui a soudain paru déjà orientée vers la maison.\n\n[…]\n\nBérénice demande où garder les contacts remis par le service. Estelle propose la pochette médicale, séparée des feuilles du tournoi. Elle convient ensuite du trajet pour la ramener chez elle. L’enveloppe bleue voyage aussi dans le sac, encore fermée. Le retour à la maison clôt cette phase hospitalière ; il n’efface pas les questions que Bérénice pourra apporter aux rendez-vous suivants.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Le matin, Bérénice a regardé l’affiche qu’Estelle avait laissée dépasser du sac. « Si tu la caches derrière la porte, on aura surtout un tournoi secret. » Estelle a ri avant de se rendre compte qu’elle attendait depuis plusieurs visites cette manière de contester un détail. Elle a raconté la phrase à la soignante, heureuse de pouvoir rapporter autre chose qu’un geste interrompu. La journée lui a soudain paru déjà orientée vers la maison.",
+        "start": 2,
+        "end": 443
+      },
+      {
+        "quote": "Bérénice demande où garder les contacts remis par le service. Estelle propose la pochette médicale, séparée des feuilles du tournoi. Elle convient ensuite du trajet pour la ramener chez elle. L’enveloppe bleue voyage aussi dans le sac, encore fermée. Le retour à la maison clôt cette phase hospitalière ; il n’efface pas les questions que Bérénice pourra apporter aux rendez-vous suivants.",
+        "start": 5908,
+        "end": 6297
+      }
+    ],
+    "canonical_concept": "Fluctuations et appréciation de l’amélioration",
+    "context": "Évolution de la phase hospitalière",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour parler de l’évolution avec l’équipe"
+    ],
+    "clinical_code": "6A41",
+    "clinical_diagnosis": "Catatonie provoquée par des substances ou des médicaments"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/berenice-initiative-motrice-geste-bloque": {
+    "character": "Bérénice",
+    "character_id": "berenice",
+    "keywords": [
+      "Enchaînement du geste",
+      "Intention et observation",
+      "Aide soignante"
+    ],
+    "character_keywords": [
+      "Catatonie provoquée par des substances ou des médicaments",
+      "Parole et initiative motrice entravées",
+      "Complications et soins médicaux",
+      "Vécu et souvenirs de l’épisode",
+      "Retour aux activités et suivi"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "fd53895acd853ba820f6ea3b82f19491475939ca4cb0753c56697feaffa399e4",
+    "summary": "Le gilet gris est resté sur le fauteuil depuis la visite précédente. Estelle a replié les manches pour qu’elles ne traînent pas près du sac. Dans la chambre, une soignante échange avec Bérénice au sujet des soins. Sa mère regarde le vêtement et commence un mouvement vers lui. Sa main avance, puis le geste paraît s’interrompre entre deux directions. Le tissu ne bouge pas. Estelle se redresse déjà pour rapprocher le fauteuil.\n\n[…]\n\nBérénice peut dire qu’elle voulait prendre le vêtement. Estelle répond : « Il reste ici. L’équipe s’en occupe avec toi. » Le besoin immédiat est repris dans les soins. Lors d’un point ultérieur, une autre question se présentera à Bérénice : pourquoi suit-on encore ses apports si ce qui lui paraît le plus visible concerne les gestes et les mots ?",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Le gilet gris est resté sur le fauteuil depuis la visite précédente. Estelle a replié les manches pour qu’elles ne traînent pas près du sac. Dans la chambre, une soignante échange avec Bérénice au sujet des soins. Sa mère regarde le vêtement et commence un mouvement vers lui. Sa main avance, puis le geste paraît s’interrompre entre deux directions. Le tissu ne bouge pas. Estelle se redresse déjà pour rapprocher le fauteuil.",
+        "start": 2,
+        "end": 429
+      },
+      {
+        "quote": "Bérénice peut dire qu’elle voulait prendre le vêtement. Estelle répond : « Il reste ici. L’équipe s’en occupe avec toi. » Le besoin immédiat est repris dans les soins. Lors d’un point ultérieur, une autre question se présentera à Bérénice : pourquoi suit-on encore ses apports si ce qui lui paraît le plus visible concerne les gestes et les mots ?",
+        "start": 5661,
+        "end": 6008
+      }
+    ],
+    "canonical_concept": "Initiative motrice bloquée malgré une intention",
+    "context": "Le gilet gris dans la chambre",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour répondre à un geste interrompu",
+      "3. Reprendre autrement le besoin pratique"
+    ],
+    "clinical_code": "6A41",
+    "clinical_diagnosis": "Catatonie provoquée par des substances ou des médicaments"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/berenice-inquietudes-participation-soins": {
+    "character": "Bérénice",
+    "character_id": "berenice",
+    "keywords": [
+      "Crainte après une complication",
+      "Information compréhensible",
+      "Questions et suivi"
+    ],
+    "character_keywords": [
+      "Catatonie provoquée par des substances ou des médicaments",
+      "Parole et initiative motrice entravées",
+      "Complications et soins médicaux",
+      "Vécu et souvenirs de l’épisode",
+      "Retour aux activités et suivi"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "c750326c19f605cc6782cf0a76432d5bc88f692fdb7f35f84a92ca52e4e9765f",
+    "summary": "Bérénice a posé la liste de traitements devant elle, sur le bureau du médecin. C’est le document qu’il lui avait demandé d’apporter ; elle a gardé les questions dans la même pochette, à distance des feuilles du tournoi. Estelle s’est assise à côté d’elle. Sa mère lui a proposé de l’accompagner, puis a précisé dans le couloir : « Je voudrais commencer. Tu m’aideras si je te demande. »\n\n[…]\n\nBérénice reformule la réponse avec ses mots. Le médecin précise une distinction et convient de reprendre un point encore incertain lors du prochain rendez-vous. Lorsqu’il revient sur un moment de l’hospitalisation, elle invite Estelle à rappeler le document qu’elle avait apporté. Sa fille complète ce fait, puis Bérénice reprend sa question.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Bérénice a posé la liste de traitements devant elle, sur le bureau du médecin. C’est le document qu’il lui avait demandé d’apporter ; elle a gardé les questions dans la même pochette, à distance des feuilles du tournoi. Estelle s’est assise à côté d’elle. Sa mère lui a proposé de l’accompagner, puis a précisé dans le couloir : « Je voudrais commencer. Tu m’aideras si je te demande. »",
+        "start": 2,
+        "end": 388
+      },
+      {
+        "quote": "Bérénice reformule la réponse avec ses mots. Le médecin précise une distinction et convient de reprendre un point encore incertain lors du prochain rendez-vous. Lorsqu’il revient sur un moment de l’hospitalisation, elle invite Estelle à rappeler le document qu’elle avait apporté. Sa fille complète ce fait, puis Bérénice reprend sa question.",
+        "start": 5492,
+        "end": 5834
+      }
+    ],
+    "canonical_concept": "Inquiétudes et participation aux soins",
+    "context": "Un rendez-vous après l’hospitalisation",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour préparer un échange sur les soins"
+    ],
+    "clinical_code": "6A41",
+    "clinical_diagnosis": "Catatonie provoquée par des substances ou des médicaments"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/berenice-parole-entravee-adresser-personne": {
+    "character": "Bérénice",
+    "character_id": "berenice",
+    "keywords": [
+      "Réponse verbale très réduite",
+      "Adresse directe",
+      "Silence et décisions"
+    ],
+    "character_keywords": [
+      "Catatonie provoquée par des substances ou des médicaments",
+      "Parole et initiative motrice entravées",
+      "Complications et soins médicaux",
+      "Vécu et souvenirs de l’épisode",
+      "Retour aux activités et suivi"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "c33977112a6f440e6ce6cea11a92d51d7c195b0b261b05e4cbc1a838d385ab01",
+    "summary": "Estelle sort les deux affiches de l’enveloppe bleue en prenant soin de ne pas froisser les coins. Sur l’une, le volant de badminton mord sur le titre ; sur l’autre, il reste une grande place blanche. « Je te montre, je ne te demande pas de choisir aujourd’hui », dit-elle à sa mère. Bérénice regarde dans leur direction, mais sa réponse est trop faible et trop brève pour qu’Estelle sache ce qu’elle veut dire. Le diagnostic de catatonie a été expliqué lors de la visite précédente. Le connaître ne rend pas ce silence plus facile à traverser.\n\n[…]\n\nEstelle glisse les affiches dans l’enveloppe et dit : « Je les emporte. Rien à décider aujourd’hui. » Elle reste encore un peu sans essayer une nouvelle question. Plus tard, en présence de l’infirmière, Bérénice trouve une courte phrase : elle demande son gilet gris. Estelle le sort du sac où elle l’avait apporté avec les papiers et le laisse sur le fauteuil. L’équipe tient compte de la demande dans les soins.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Estelle sort les deux affiches de l’enveloppe bleue en prenant soin de ne pas froisser les coins. Sur l’une, le volant de badminton mord sur le titre ; sur l’autre, il reste une grande place blanche. « Je te montre, je ne te demande pas de choisir aujourd’hui », dit-elle à sa mère. Bérénice regarde dans leur direction, mais sa réponse est trop faible et trop brève pour qu’Estelle sache ce qu’elle veut dire. Le diagnostic de catatonie a été expliqué lors de la visite précédente. Le connaître ne rend pas ce silence plus facile à traverser.",
+        "start": 2,
+        "end": 545
+      },
+      {
+        "quote": "Estelle glisse les affiches dans l’enveloppe et dit : « Je les emporte. Rien à décider aujourd’hui. » Elle reste encore un peu sans essayer une nouvelle question. Plus tard, en présence de l’infirmière, Bérénice trouve une courte phrase : elle demande son gilet gris. Estelle le sort du sac où elle l’avait apporté avec les papiers et le laisse sur le fauteuil. L’équipe tient compte de la demande dans les soins.",
+        "start": 5433,
+        "end": 5846
+      }
+    ],
+    "canonical_concept": "Parole entravée et compréhension possible",
+    "context": "Une visite avec les affiches du tournoi",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour garder un échange respectueux"
+    ],
+    "clinical_code": "6A41",
+    "clinical_diagnosis": "Catatonie provoquée par des substances ou des médicaments"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/berenice-peur-immobilite-vecue": {
+    "character": "Bérénice",
+    "character_id": "berenice",
+    "keywords": [
+      "Apparence et vécu",
+      "Peur rapportée après coup",
+      "Récit libre"
+    ],
+    "character_keywords": [
+      "Catatonie provoquée par des substances ou des médicaments",
+      "Parole et initiative motrice entravées",
+      "Complications et soins médicaux",
+      "Vécu et souvenirs de l’épisode",
+      "Retour aux activités et suivi"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "68402bfede4bd3d106c6537c32706c236f364e1fa6798d05afa8b047a95b35f7",
+    "summary": "Le gilet gris est posé sur le dossier de la chaise, dans la cuisine de Bérénice. Il a retrouvé cette place sans que personne ait à demander où le laisser. Depuis la sortie organisée par l’équipe, les journées reprennent des contours ordinaires ; les rendez-vous de suivi restent dans la pochette médicale. Ce soir, Estelle a apporté une version corrigée de l’affiche du tournoi. Elle la déplie puis, en regardant le gilet, revient à une visite à l’hôpital.\n\n[…]\n\nBérénice ne se sent pas tenue d’avoir tout expliqué avant de reprendre le tournoi. Elle garde la possibilité de reparler de cette peur au suivi. Pour le prochain rendez-vous, une autre inquiétude est déjà présente : comment parler des traitements après ce qui s’est passé, sans qu’une question soit prise pour une décision qu’elle aurait conduite seule.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Le gilet gris est posé sur le dossier de la chaise, dans la cuisine de Bérénice. Il a retrouvé cette place sans que personne ait à demander où le laisser. Depuis la sortie organisée par l’équipe, les journées reprennent des contours ordinaires ; les rendez-vous de suivi restent dans la pochette médicale. Ce soir, Estelle a apporté une version corrigée de l’affiche du tournoi. Elle la déplie puis, en regardant le gilet, revient à une visite à l’hôpital.",
+        "start": 2,
+        "end": 458
+      },
+      {
+        "quote": "Bérénice ne se sent pas tenue d’avoir tout expliqué avant de reprendre le tournoi. Elle garde la possibilité de reparler de cette peur au suivi. Pour le prochain rendez-vous, une autre inquiétude est déjà présente : comment parler des traitements après ce qui s’est passé, sans qu’une question soit prise pour une décision qu’elle aurait conduite seule.",
+        "start": 5618,
+        "end": 5971
+      }
+    ],
+    "canonical_concept": "Peur vécue derrière l’immobilité apparente",
+    "context": "Une conversation à la maison après la sortie",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour accueillir un vécu sans l’imposer"
+    ],
+    "clinical_code": "6A41",
+    "clinical_diagnosis": "Catatonie provoquée par des substances ou des médicaments"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/berenice-resolution-reprise-place-tournoi": {
+    "character": "Bérénice",
+    "character_id": "berenice",
+    "keywords": [
+      "Résolution clinique et activités",
+      "Contribution avec relève",
+      "Projet au-delà du diagnostic"
+    ],
+    "character_keywords": [
+      "Catatonie provoquée par des substances ou des médicaments",
+      "Parole et initiative motrice entravées",
+      "Complications et soins médicaux",
+      "Vécu et souvenirs de l’épisode",
+      "Retour aux activités et suivi"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "6623b1f5af9de18ff202dfeb762a7f99dfe83ddb865f6d747f7164d4a1632d5e",
+    "summary": "L’agrafeuse orange avale le coin des feuilles avec son petit bruit sec. Bérénice aligne les formulaires derrière le comptoir pendant qu’Estelle cherche où poser l’affiche. Elle la cale contre la porte ouverte. « L’affiche tient, mais personne ne la voit derrière la porte », dit sa mère. Estelle lève les yeux, puis la déplace. Cette fois, la remarque règle un problème de panneau ; personne n’en tire un bilan de santé.\n\n[…]\n\nEstelle la rejoint pour regarder une rencontre. Elles parlent d’un échange manqué sur le terrain, puis du prochain repas qu’elles pourraient partager. Bérénice pense encore à une question qu’elle gardera pour le suivi, sans la résoudre dans les applaudissements. Elle a tenu les inscriptions du tournoi préparé avec sa fille. L’enveloppe bleue reste à sa place pour la clôture, et sa journée peut continuer ailleurs que derrière le comptoir.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "L’agrafeuse orange avale le coin des feuilles avec son petit bruit sec. Bérénice aligne les formulaires derrière le comptoir pendant qu’Estelle cherche où poser l’affiche. Elle la cale contre la porte ouverte. « L’affiche tient, mais personne ne la voit derrière la porte », dit sa mère. Estelle lève les yeux, puis la déplace. Cette fois, la remarque règle un problème de panneau ; personne n’en tire un bilan de santé.",
+        "start": 2,
+        "end": 422
+      },
+      {
+        "quote": "Estelle la rejoint pour regarder une rencontre. Elles parlent d’un échange manqué sur le terrain, puis du prochain repas qu’elles pourraient partager. Bérénice pense encore à une question qu’elle gardera pour le suivi, sans la résoudre dans les applaudissements. Elle a tenu les inscriptions du tournoi préparé avec sa fille. L’enveloppe bleue reste à sa place pour la clôture, et sa journée peut continuer ailleurs que derrière le comptoir.",
+        "start": 5946,
+        "end": 6387
+      }
+    ],
+    "canonical_concept": "Résolution clinique et reprise d’une place",
+    "context": "Le jour du tournoi de badminton",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "Les conséquences pratiques demandent encore des accords",
+      "3 techniques pour garder une contribution choisie et une suite ouverte"
+    ],
+    "clinical_code": "6A41",
+    "clinical_diagnosis": "Catatonie provoquée par des substances ou des médicaments"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/berenice-retour-accueil-role-choisi": {
+    "character": "Bérénice",
+    "character_id": "berenice",
+    "keywords": [
+      "Activité interrompue",
+      "Partage des tâches",
+      "Vie médicale privée"
+    ],
+    "character_keywords": [
+      "Catatonie provoquée par des substances ou des médicaments",
+      "Parole et initiative motrice entravées",
+      "Complications et soins médicaux",
+      "Vécu et souvenirs de l’épisode",
+      "Retour aux activités et suivi"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "505931e238e7fccda46a4aec0fc986ddb9056f89c9965ff39c90f6c8a964a002",
+    "summary": "L’agrafeuse orange est toujours à gauche du téléphone. Bérénice avait imaginé qu’elle aurait disparu dans un tiroir pendant son absence ; Karim lui montre les feuilles du tournoi rangées juste dessous. Leur échange a été fixé après son appel, dans le cadre du retour préparé avec son suivi et la salle. Il ne s’agit pas de venir faire un essai pour prouver qu’elle va bien. Pourtant, devant le comptoir qu’elle connaît, Bérénice a l’impression d’arriver dans une organisation qui a appris à se passer d’elle.\n\n[…]\n\nÀ une question d’un autre collègue, Bérénice reprend sa phrase sur le retour après l’hôpital et s’en tient là. Karim n’ajoute rien. Le rôle choisi commence réellement, avec un partage qui ne dépend pas d’une divulgation médicale. Un autre soir, un délai dans une réponse à Estelle réveillera une inquiétude ; cette question trouvera sa place au contact de suivi, pas dans un jugement tiré de ce premier créneau.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "L’agrafeuse orange est toujours à gauche du téléphone. Bérénice avait imaginé qu’elle aurait disparu dans un tiroir pendant son absence ; Karim lui montre les feuilles du tournoi rangées juste dessous. Leur échange a été fixé après son appel, dans le cadre du retour préparé avec son suivi et la salle. Il ne s’agit pas de venir faire un essai pour prouver qu’elle va bien. Pourtant, devant le comptoir qu’elle connaît, Bérénice a l’impression d’arriver dans une organisation qui a appris à se passer d’elle.",
+        "start": 2,
+        "end": 510
+      },
+      {
+        "quote": "À une question d’un autre collègue, Bérénice reprend sa phrase sur le retour après l’hôpital et s’en tient là. Karim n’ajoute rien. Le rôle choisi commence réellement, avec un partage qui ne dépend pas d’une divulgation médicale. Un autre soir, un délai dans une réponse à Estelle réveillera une inquiétude ; cette question trouvera sa place au contact de suivi, pas dans un jugement tiré de ce premier créneau.",
+        "start": 5776,
+        "end": 6187
+      }
+    ],
+    "canonical_concept": "Retentissement professionnel et retour choisi",
+    "context": "Le retour préparé à l’accueil de la salle",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour préciser une reprise avec les personnes concernées"
+    ],
+    "clinical_code": "6A41",
+    "clinical_diagnosis": "Catatonie provoquée par des substances ou des médicaments"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/berenice-souvenirs-partiels-recit": {
+    "character": "Bérénice",
+    "character_id": "berenice",
+    "keywords": [
+      "Souvenir fragmentaire",
+      "Origine des informations",
+      "Chronologie laissée ouverte"
+    ],
+    "character_keywords": [
+      "Catatonie provoquée par des substances ou des médicaments",
+      "Parole et initiative motrice entravées",
+      "Complications et soins médicaux",
+      "Vécu et souvenirs de l’épisode",
+      "Retour aux activités et suivi"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "91921c1719cdd54558907db120c77f1875b9f38749b0907897b01322a0a52c2d",
+    "summary": "L’enveloppe bleue contient une ancienne affiche, deux feuilles d’inscription et un petit papier plié qui n’a rien à faire là. Estelle l’a glissé parmi les documents pendant l’hospitalisation ; Bérénice le remet à côté de la pochette médicale. Depuis le rendez-vous, elles veulent surtout retrouver la dernière version des inscriptions. Le tri s’arrête pourtant sur une annotation au crayon.\n\n[…]\n\nEstelle reprend : « Ce que je peux te dire, c’est ce que j’ai apporté. Pour le reste, je ne sais pas à ta place. » Elles ne tranchent pas l’ordre des deux visites. Bérénice range le papier médical dans la pochette et garde les inscriptions dans l’enveloppe bleue. La table se dégage sans que sa mémoire ait dû fournir une dernière pièce.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "L’enveloppe bleue contient une ancienne affiche, deux feuilles d’inscription et un petit papier plié qui n’a rien à faire là. Estelle l’a glissé parmi les documents pendant l’hospitalisation ; Bérénice le remet à côté de la pochette médicale. Depuis le rendez-vous, elles veulent surtout retrouver la dernière version des inscriptions. Le tri s’arrête pourtant sur une annotation au crayon.",
+        "start": 2,
+        "end": 392
+      },
+      {
+        "quote": "Estelle reprend : « Ce que je peux te dire, c’est ce que j’ai apporté. Pour le reste, je ne sais pas à ta place. » Elles ne tranchent pas l’ordre des deux visites. Bérénice range le papier médical dans la pochette et garde les inscriptions dans l’enveloppe bleue. La table se dégage sans que sa mémoire ait dû fournir une dernière pièce.",
+        "start": 5363,
+        "end": 5700
+      }
+    ],
+    "canonical_concept": "Souvenirs partiels et récit de l’épisode",
+    "context": "Le rangement des papiers à la maison",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour parler des souvenirs sans les forcer"
+    ],
+    "clinical_code": "6A41",
+    "clinical_diagnosis": "Catatonie provoquée par des substances ou des médicaments"
+  },
   "posts/comprendre-et-maitriser-ses-emotions/blandine-avant-la-place": {
     "character": "Blandine",
     "character_id": "blandine",
