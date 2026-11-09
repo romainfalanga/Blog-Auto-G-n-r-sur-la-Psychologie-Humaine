@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "revision": 262,
+  "revision": 278,
   "created_at": "2026-11-07T14:47:42Z",
   "cases": {
     "mathis": {
@@ -3024,9 +3024,11 @@
       "code": "6B62",
       "stage": "character",
       "created_at": "2026-11-07T14:47:42Z",
-      "active_job": null,
+      "active_job": "5a0c4986620a43bab94a5477d47fe06c",
       "owners": {
-        "character": [],
+        "character": [
+          "personnage_agnes"
+        ],
         "story": [],
         "review": []
       },
@@ -29598,8 +29600,8 @@
       "snapshot_sha256": "493ba61646dc64625a8730c6442f0865a0b3a2cd1c254c06642b467a64187c9b",
       "status": "active",
       "token_sha256": "26c6db5fc8ec5b4ee46af47983360d4ae9236f218aee1a655ba043331fce9436",
-      "heartbeat_at": "2026-11-09T18:53:26Z",
-      "expires_at": "2026-11-09T19:23:26Z",
+      "heartbeat_at": "2026-11-09T18:57:37Z",
+      "expires_at": "2026-11-09T19:27:37Z",
       "checkpoints": [
         {
           "at": "2026-11-09T18:49:15Z",
@@ -29679,6 +29681,76 @@
           "observed": {
             "manuscript_sha256": "4db4c6d1a5432078f82ad60d7754731d7826515def1b0ec48af94e02e9c3f4da",
             "episodes_present": 6,
+            "manuscript_readable": true,
+            "design_sha256": "d05cc51566a0f7d6b34791dce8ae3cef7757474f1ddb50f09d7c4a73a6da52bd",
+            "dossier_sha256": "7cf37bd3d18c1f12f166a04b8cedbf16b52eb25e378243e49a1fc39e9b0fde50",
+            "review_sha256": null
+          }
+        },
+        {
+          "at": "2026-11-09T18:54:15Z",
+          "outputs": {
+            "editorial/clinical/nolwenn.json": "c21d413f5a98b8ed8e19de169114cec75886469a6438564b4ddc6770f042e436"
+          },
+          "observed": {
+            "manuscript_sha256": "c21d413f5a98b8ed8e19de169114cec75886469a6438564b4ddc6770f042e436",
+            "episodes_present": 7,
+            "manuscript_readable": true,
+            "design_sha256": "d05cc51566a0f7d6b34791dce8ae3cef7757474f1ddb50f09d7c4a73a6da52bd",
+            "dossier_sha256": "7cf37bd3d18c1f12f166a04b8cedbf16b52eb25e378243e49a1fc39e9b0fde50",
+            "review_sha256": null
+          }
+        },
+        {
+          "at": "2026-11-09T18:55:04Z",
+          "outputs": {
+            "editorial/clinical/nolwenn.json": "768dddd8b20faf14be796397af784f43cdd6c85ecac25a942d750de5ef1e4ec0"
+          },
+          "observed": {
+            "manuscript_sha256": "768dddd8b20faf14be796397af784f43cdd6c85ecac25a942d750de5ef1e4ec0",
+            "episodes_present": 8,
+            "manuscript_readable": true,
+            "design_sha256": "d05cc51566a0f7d6b34791dce8ae3cef7757474f1ddb50f09d7c4a73a6da52bd",
+            "dossier_sha256": "7cf37bd3d18c1f12f166a04b8cedbf16b52eb25e378243e49a1fc39e9b0fde50",
+            "review_sha256": null
+          }
+        },
+        {
+          "at": "2026-11-09T18:56:01Z",
+          "outputs": {
+            "editorial/clinical/nolwenn.json": "e3f6b6b3db78d754d18d1469be12fce089f0a6ce695ed8d10fae03cd7e406ce3"
+          },
+          "observed": {
+            "manuscript_sha256": "e3f6b6b3db78d754d18d1469be12fce089f0a6ce695ed8d10fae03cd7e406ce3",
+            "episodes_present": 9,
+            "manuscript_readable": true,
+            "design_sha256": "d05cc51566a0f7d6b34791dce8ae3cef7757474f1ddb50f09d7c4a73a6da52bd",
+            "dossier_sha256": "7cf37bd3d18c1f12f166a04b8cedbf16b52eb25e378243e49a1fc39e9b0fde50",
+            "review_sha256": null
+          }
+        },
+        {
+          "at": "2026-11-09T18:56:49Z",
+          "outputs": {
+            "editorial/clinical/nolwenn.json": "0cfca569e3dff23b6136f5b41c8c0cc80c2a814d03b43033215785113ff49d34"
+          },
+          "observed": {
+            "manuscript_sha256": "0cfca569e3dff23b6136f5b41c8c0cc80c2a814d03b43033215785113ff49d34",
+            "episodes_present": 10,
+            "manuscript_readable": true,
+            "design_sha256": "d05cc51566a0f7d6b34791dce8ae3cef7757474f1ddb50f09d7c4a73a6da52bd",
+            "dossier_sha256": "7cf37bd3d18c1f12f166a04b8cedbf16b52eb25e378243e49a1fc39e9b0fde50",
+            "review_sha256": null
+          }
+        },
+        {
+          "at": "2026-11-09T18:57:37Z",
+          "outputs": {
+            "editorial/clinical/nolwenn.json": "4b6c3dad0674cbe83ecfa0fe18c462f53a7c78d0ceb767dbe500a260e0f2dc50"
+          },
+          "observed": {
+            "manuscript_sha256": "4b6c3dad0674cbe83ecfa0fe18c462f53a7c78d0ceb767dbe500a260e0f2dc50",
+            "episodes_present": 11,
             "manuscript_readable": true,
             "design_sha256": "d05cc51566a0f7d6b34791dce8ae3cef7757474f1ddb50f09d7c4a73a6da52bd",
             "dossier_sha256": "7cf37bd3d18c1f12f166a04b8cedbf16b52eb25e378243e49a1fc39e9b0fde50",
@@ -30368,8 +30440,8 @@
       "snapshot_sha256": "439390e2e56b914ba24ca58da62eecc081d7f900a7a7a20d4d8d1a7566b0f230",
       "status": "active",
       "token_sha256": "d300c41c73d7a298b9494d9cf8acaa8386fb2fb932a5df032fa1d6f9e019f5ef",
-      "heartbeat_at": "2026-11-09T18:53:49Z",
-      "expires_at": "2026-11-09T19:23:49Z",
+      "heartbeat_at": "2026-11-09T18:57:10Z",
+      "expires_at": "2026-11-09T19:27:10Z",
       "checkpoints": [
         {
           "at": "2026-11-09T18:53:49Z",
@@ -30379,6 +30451,62 @@
           "observed": {
             "manuscript_sha256": "f2ca78e917d4552e5e90eb7f9f86234b98a265a1c39d8b93ad9b52e7f94d8fa8",
             "episodes_present": 1,
+            "manuscript_readable": true,
+            "design_sha256": "47816ac75dcf39d5ce8ae94e292e5a52a73793ec4b2701b7b1a861b5576e7c1e",
+            "dossier_sha256": "8aa80bf3131e67fe7f4aad85eacbc1cbab29a370b6d46418dc5ee7712bb1a37d",
+            "review_sha256": null
+          }
+        },
+        {
+          "at": "2026-11-09T18:54:38Z",
+          "outputs": {
+            "editorial/clinical/titouan.json": "edba2f66f71e0461de216421a533f48e6380c22c51c83a8759b443200975cd93"
+          },
+          "observed": {
+            "manuscript_sha256": "edba2f66f71e0461de216421a533f48e6380c22c51c83a8759b443200975cd93",
+            "episodes_present": 2,
+            "manuscript_readable": true,
+            "design_sha256": "47816ac75dcf39d5ce8ae94e292e5a52a73793ec4b2701b7b1a861b5576e7c1e",
+            "dossier_sha256": "8aa80bf3131e67fe7f4aad85eacbc1cbab29a370b6d46418dc5ee7712bb1a37d",
+            "review_sha256": null
+          }
+        },
+        {
+          "at": "2026-11-09T18:55:28Z",
+          "outputs": {
+            "editorial/clinical/titouan.json": "8ec043ba7c042770ab6567a50f5e3a99e7bbb487d2ba61279764667d657b4354"
+          },
+          "observed": {
+            "manuscript_sha256": "8ec043ba7c042770ab6567a50f5e3a99e7bbb487d2ba61279764667d657b4354",
+            "episodes_present": 3,
+            "manuscript_readable": true,
+            "design_sha256": "47816ac75dcf39d5ce8ae94e292e5a52a73793ec4b2701b7b1a861b5576e7c1e",
+            "dossier_sha256": "8aa80bf3131e67fe7f4aad85eacbc1cbab29a370b6d46418dc5ee7712bb1a37d",
+            "review_sha256": null
+          }
+        },
+        {
+          "at": "2026-11-09T18:56:15Z",
+          "outputs": {
+            "editorial/clinical/titouan.json": "dcb8d62878205d7786fd01134f34c2328e5a690b0f529b862ecfc64a3fdb2f60"
+          },
+          "observed": {
+            "manuscript_sha256": "dcb8d62878205d7786fd01134f34c2328e5a690b0f529b862ecfc64a3fdb2f60",
+            "episodes_present": 4,
+            "manuscript_readable": true,
+            "design_sha256": "47816ac75dcf39d5ce8ae94e292e5a52a73793ec4b2701b7b1a861b5576e7c1e",
+            "dossier_sha256": "8aa80bf3131e67fe7f4aad85eacbc1cbab29a370b6d46418dc5ee7712bb1a37d",
+            "review_sha256": null
+          }
+        },
+        {
+          "at": "2026-11-09T18:57:10Z",
+          "outputs": {
+            "editorial/clinical/titouan.json": "c6ea2e4fa4ba5cc0a9b9de00f259d051e3540cb2c18dcff8cac813344b7a4e07"
+          },
+          "observed": {
+            "manuscript_sha256": "c6ea2e4fa4ba5cc0a9b9de00f259d051e3540cb2c18dcff8cac813344b7a4e07",
+            "episodes_present": 5,
             "manuscript_readable": true,
             "design_sha256": "47816ac75dcf39d5ce8ae94e292e5a52a73793ec4b2701b7b1a861b5576e7c1e",
             "dossier_sha256": "8aa80bf3131e67fe7f4aad85eacbc1cbab29a370b6d46418dc5ee7712bb1a37d",
@@ -30769,9 +30897,207 @@
       "snapshot_sha256": "5ffc26ef5b66ae7542b94816210e267cd49cb4b6be19e68167724262a0fe738a",
       "status": "active",
       "token_sha256": "87c734e6e6600b7932695b2c53fbe06b44f1139b91f033f87eddc30c935c9bda",
-      "heartbeat_at": "2026-11-09T18:53:48Z",
-      "expires_at": "2026-11-09T19:23:48Z"
+      "heartbeat_at": "2026-11-09T18:57:29Z",
+      "expires_at": "2026-11-09T19:27:29Z",
+      "checkpoints": [
+        {
+          "at": "2026-11-09T18:55:12Z",
+          "outputs": {
+            "editorial/clinical/felix.json": "35560c5ef8c160fcd0474e8c8f09e0d274e09f364c2a393d4f0daba561d307ea"
+          },
+          "observed": {
+            "manuscript_sha256": "35560c5ef8c160fcd0474e8c8f09e0d274e09f364c2a393d4f0daba561d307ea",
+            "episodes_present": 1,
+            "manuscript_readable": true,
+            "design_sha256": "dd7fd709767aa366b0e4eb81c4e1613ee63719aa8a1326bbd566677fa2403d70",
+            "dossier_sha256": "4cf04d01aa8608950159bb24ffb4b363fe3de5cbe9a2392681240db3163ec513",
+            "review_sha256": null
+          }
+        },
+        {
+          "at": "2026-11-09T18:56:00Z",
+          "outputs": {
+            "editorial/clinical/felix.json": "2722ceb154bbe1eb0262fcca9c7d17267a85fb3ba1591b9486921d50d1a466c9"
+          },
+          "observed": {
+            "manuscript_sha256": "2722ceb154bbe1eb0262fcca9c7d17267a85fb3ba1591b9486921d50d1a466c9",
+            "episodes_present": 2,
+            "manuscript_readable": true,
+            "design_sha256": "dd7fd709767aa366b0e4eb81c4e1613ee63719aa8a1326bbd566677fa2403d70",
+            "dossier_sha256": "4cf04d01aa8608950159bb24ffb4b363fe3de5cbe9a2392681240db3163ec513",
+            "review_sha256": null
+          }
+        },
+        {
+          "at": "2026-11-09T18:56:45Z",
+          "outputs": {
+            "editorial/clinical/felix.json": "5ef03f0acbce65a288a1ea4768ef4bed532e7bd677f6b75c63cbfea8661c5871"
+          },
+          "observed": {
+            "manuscript_sha256": "5ef03f0acbce65a288a1ea4768ef4bed532e7bd677f6b75c63cbfea8661c5871",
+            "episodes_present": 3,
+            "manuscript_readable": true,
+            "design_sha256": "dd7fd709767aa366b0e4eb81c4e1613ee63719aa8a1326bbd566677fa2403d70",
+            "dossier_sha256": "4cf04d01aa8608950159bb24ffb4b363fe3de5cbe9a2392681240db3163ec513",
+            "review_sha256": null
+          }
+        },
+        {
+          "at": "2026-11-09T18:57:29Z",
+          "outputs": {
+            "editorial/clinical/felix.json": "a35ff12f7a9ef529117c43477b38660783fa4e31eb0ae9cdda46a6ee6b529426"
+          },
+          "observed": {
+            "manuscript_sha256": "a35ff12f7a9ef529117c43477b38660783fa4e31eb0ae9cdda46a6ee6b529426",
+            "episodes_present": 4,
+            "manuscript_readable": true,
+            "design_sha256": "dd7fd709767aa366b0e4eb81c4e1613ee63719aa8a1326bbd566677fa2403d70",
+            "dossier_sha256": "4cf04d01aa8608950159bb24ffb4b363fe3de5cbe9a2392681240db3163ec513",
+            "review_sha256": null
+          }
+        }
+      ]
+    },
+    "5a0c4986620a43bab94a5477d47fe06c": {
+      "id": "5a0c4986620a43bab94a5477d47fe06c",
+      "character_id": "agnes",
+      "role": "character",
+      "owner": "personnage_agnes",
+      "created_at": "2026-11-09T18:55:48Z",
+      "snapshot": {
+        "prompt_file": "editorial/agents/characters.md",
+        "prompt": "# Agent créateur de personnages\n\nCe rôle est exécuté par un vrai sous-agent ChatGPT dans la conversation. Le contrôleur prépare et attribue le travail ; il ne lance aucun modèle par API et ne tourne pas après la fin de la session. Ne pas utiliser GitHub Actions pour produire ces articles.\n\nLire le brief de la mission, le canon dans `data/clinical_catalog.json` ou `editorial/clinical/additional_characters.json`, `editorial/clinical/charter.md` et l’article modèle `content/posts/comprendre-et-maitriser-ses-emotions/alexithymie-en-couple.md`. Préserver l’identifiant, le prénom, l’âge, le métier, le projet et la chronologie diagnostique canoniques. Si une donnée est contradictoire, signaler le problème au pilote avant de la modifier.\n\nMener une recherche individuelle dans les sources primaires : CDDR de l’OMS, classification citée dans le canon et recommandations ou travaux originaux pertinents. Vérifier les pages ou sections qui soutiennent les affirmations. Distinguer diagnostic, manifestations, mécanismes, retentissement, évolution et prise en charge. Documenter les limites des études, traductions et transpositions de pays. Une référence générale ou un code de classification ne prouve pas une recommandation thérapeutique.\n\nÉcrire uniquement les deux fichiers attribués :\n\n- `editorial/clinical/dossiers/<id>.json`, au format consommé par `clinical_editorial.character_evidence` : références individuelles, dossier clinique et direction narrative ;\n- `editorial/clinical/designs/<id>.json`, au contrat validé par `scripts/clinical_agent_contracts.py character <id>`.\n\nLe plan contient `schema_version: 1`, `character_id`, `code`, `article_format: 2`, une biographie de 60 à 105 mots avec prénom, âge et intitulé exact du trouble, cinq `profile_topics` distincts dont le premier est cet intitulé, `voice`, `series_goal`, au moins trois `continuity_rules` et douze `episodes`. Chaque épisode contient `number`, un `focus` distinct de 2 à 9 mots (95 caractères maximum), `scene`, `development`, `ending`, `next`, au moins deux `source_refs` autorisées dont la référence primaire et `diagnostic_stage`. Un diagnostic établi vaut `known` partout ; un diagnostic annoncé à l’épisode prévu vaut `under_assessment` avant, `diagnosis_explained` à cet épisode, puis `known`.\n\nFaire vivre douze aspects différents d’un même trouble à travers une personne ayant une voix, un projet indépendant, des relations et des choix. Ne pas fabriquer douze synonymes d’une même manifestation ni une liste de symptômes. Préparer des ouvertures, conséquences et raccords qui permettent une véritable série.\n\nNe pas écrire le manuscrit, les pages publiques, les registres partagés ou les fichiers d’un autre personnage. Ne pas publier, committer ou se relire à la place du relecteur. Une fois les deux fichiers validés, exécuter `editorial_pipeline.py finish` avec la mission et le jeton attribués ; transmettre les empreintes et les limites utiles au rédacteur. Après gel, toute modification demande une nouvelle validation des dépendances par le pilote.\n",
+        "inputs": {
+          "data/clinical_catalog.json": "ea545ea8ad5aaa94b2b2e45e2816cde36bc101dc205b0da50e9303a12015cefa",
+          "data/clinical_sources.json": "fdaee525b573758c9f0f33cb52b62bfb2f077402336475a6f859762fea48e6e6",
+          "editorial/clinical/additional_characters.json": "8834d18f0c86a439357f6f776429d57b23c4acab8b88b5c55d1c3dacd651ada3",
+          "editorial/clinical/charter.md": "8032bcae9a54b787febdbc3a99e8811893663c9f93dc323b0108e07c3849cb0b",
+          "editorial/automation/policy.json": "883ae80b4685fbc1365af6494b693358da050e2266554992f11d12dcbde6c1d0",
+          "scripts/clinical_editorial.py": "f1fc7eb80b0eca35fad58925b323b5dee69bc738d3df031a41e465a64e3342d3",
+          "editorial/automation/legacy-publications.json": "974d070654ecad7d2408ecfe893a767fa97352922acca107b768b63a31277ceb",
+          "scripts/clinical_agent_contracts.py": "2deec8afbd14289192fa3b86edf5e6529e1690c2daecbce4d6798d826d5f1774",
+          "editorial/agents/characters.md": "2de803e0641d430501849923e110a575278708dfeeb0eb8b7bc8eecec15a7713"
+        },
+        "data": {
+          "clinical_brief": {
+            "agent_id": "redaction-agnes",
+            "character": {
+              "id": "agnes",
+              "name": "Agnès",
+              "code": "6B62",
+              "related_codes": [],
+              "wave": 14,
+              "diagnosis": {
+                "timing": "established",
+                "episode": null
+              },
+              "canon": {
+                "age": 46,
+                "setting": "Prépare des cours de danse dans un centre culturel où elle intervient depuis plusieurs années.",
+                "independent_goal": "Construire un atelier qui permet de s'arrêter sans attirer l'attention.",
+                "tension": "Certains épisodes involontaires lui font perdre des repères. Elle voudrait préserver le lien à sa pratique culturelle.",
+                "supports": "Collègue chorégraphe et équipe qui a posé le diagnostic.",
+                "trajectory": "Examine des circonstances et un plan de soutien en gardant séparés les événements difficiles et les pratiques choisies.",
+                "guardrail": "Ne pas pathologiser un rituel accepté dans sa communauté. Aucune induction de transe.",
+                "occupation": "professeure de danse"
+              },
+              "sources": [
+                "https://icd.who.int/browse/2026-01/mms/fr#1807490186",
+                "https://www.who.int/publications/i/item/9789240077263"
+              ],
+              "research_status": "prise_en_charge_a_documenter"
+            },
+            "direction": null,
+            "dossier": null,
+            "references": {},
+            "charter": "# Charte de rédaction des parcours cliniques\n\nÉcrire en français pour des lecteurs sans formation clinique. Choisir pour chaque épisode un aspect du trouble qui se distingue des onze autres et que la scène permet de comprendre. Cet aspect peut être une manifestation, un mécanisme, un retentissement ou une particularité de l’évolution. Relier le titre, le résumé, l’explication et le dénouement à cet aspect. Une activité, une décision ou un rendez-vous fournit le cadre où il devient perceptible.\n\nSuivre le déroulé de l’[article de Youssef sur l’alexithymie en couple](../../content/posts/comprendre-et-maitriser-ses-emotions/alexithymie-en-couple.md).\n\n1. Ouvrir sur une scène d’au moins 180 mots, sans intertitre. Montrer ce que la difficulté change pour le personnage dans cette situation.\n2. Expliquer l’aspect et son lien avec le trouble dans une section dédiée. Partir d’une phrase générale autonome, puis revenir à ce qui se joue dans la scène.\n3. Montrer comment l’aspect se manifeste. Sous « Comment … ? », développer trois sous-parties avec une explication et deux exemples concrets chacune. Situer ce que l’on observe dans chaque exemple.\n4. Proposer trois techniques numérotées. Donner pour chacune un objectif, un exercice pratique en trois étapes et une explication de son utilité possible. Adapter les étapes au contexte et au niveau de risque, en incluant le recours à un professionnel lorsque nécessaire.\n5. Revenir à l’histoire sous un intertitre tiré de la scène. Montrer un essai ou une décision, sa conséquence et l’incertitude qui reste. Les difficultés peuvent revenir après un essai qui a fonctionné ailleurs.\n6. Conclure après un séparateur. Résumer ce que cet épisode permet de comprendre et inscrire le dénouement dans le parcours du personnage.\n7. Terminer par « Du côté des proches ». Relier leur point de vue à ce que la scène a montré.\n\nRespecter les faits du canon et la chronologie du diagnostic. Si l’évaluation est en cours, faire comprendre les difficultés sans annoncer le résultat à la place du professionnel. Un diagnostic connu entre dans le récit quand il aide à situer l’expérience. La personne conserve un métier ou un projet, des relations, des ressources, des préférences et le droit de ne pas tout partager.\n\nFonder chaque affirmation clinique sur les points vérifiés du dossier de sources. Renseigner les références dans le dossier et les champs éditoriaux de chaque épisode. Distinguer récit, vécu et description générale du trouble. Les articles ne donnent ni critères permettant de conclure sur soi ou un tiers, ni posologies, ni gestes dangereux, ni promesses de guérison. Une scène de fiction ne représente qu’une présentation possible. Proposer des adaptations discutées avec la personne et situer le recours aux professionnels quand le besoin est clinique ou urgent.\n\nDans « Du côté des proches », partir d’un geste, d’une parole ou d’un besoin visible dans la scène. Donner une réponse concrète que le proche pourrait essayer, dans des mots qu’il pourrait dire. Respecter son périmètre et la possibilité de se retirer ou de passer le relais. Aucun proche ne doit jouer au diagnosticien ou imposer un soin. Dans les situations d’emprise ou de danger, favoriser la sécurité et un appui spécialisé.\n\nRelecture par vague. Relire les douze ouvertures et leurs fins dans l’ordre, puis vérifier les faits cliniques et les propositions aux proches, chaque fois avec le dossier de sources. Annoter les erreurs et les choix qui ont fonctionné. Inscrire les leçons réutilisables dans la charte avant de générer le lot suivant. Une validation de structure ou une relecture par un modèle laisse ouverte la vérification éditoriale des faits et de leur contexte.\n\nLe lot pilote a montré que le premier intertitre explicatif peut varier. Commencer cette section par une phrase générale autonome que le site peut reprendre. Donner à la scène finale un titre tiré de son geste ou de sa décision. Distinguer un signe à discuter d’un épisode ou d’un diagnostic établi. Maintenir les procédures de sécurité réelles et le rôle des soignants, même lorsque le personnage essaie une façon différente de répondre à sa difficulté.\n\nLa deuxième vague distingue l’accord de la personne pour partager ses informations et les démarches de sécurité qui s’appliquent à la situation. Montrer dans le récit qui prévient le service compétent et quand, sans reporter cette action au conseil pour les proches. Pour une règle de métier, utiliser une source du domaine en plus du guide clinique. Le miroir reste ancré dans la scène et conserve sa limite de sécurité jusqu’à la dernière phrase.\n\nLa troisième vague vérifie que le trouble a un effet perceptible dans la vie du personnage dès les deux premières scènes. Montrer ce vécu sans inventaire de signes, description de pratiques dangereuses ou explication totale de sa personnalité. Suivre séparément les questions de santé et les décisions du quotidien. Reprendre les objets, lieux et engagements déjà nommés et fermer les questions concrètes dont la résolution est nécessaire à la scène suivante.\n\nAvant d’écrire, l’agent dédié au personnage fixe une direction dans son dossier. Il y précise ce qui distingue sa voix, son projet et son entourage, les faits cliniques qu’il mettra en scène et les interprétations à écarter. À la fin de chaque épisode, il inscrit la décision prise et ce qu’elle change pour la suite. Au dernier épisode, il résout l’enjeu de la série et garde la perspective du personnage au-delà de cette décision. La relecture reprend les douze scènes dans l’ordre et vérifie les conseils adressés aux proches en regard de chaque scène.\n\nLa quatrième vague distingue les repères du premier diagnostic et ceux des épisodes ultérieurs. Quand une situation urgente se présente, vérifier que son origine n’est pas présumée à partir du diagnostic connu. La première section s’ouvre sur une phrase générale qui fonctionne seule. Les détails de la scène viennent ensuite, après le passage que le site peut reprendre en introduction.\n\nLes histoires d’origine donnent la direction. Le titre commence par le sujet de l’article, une difficulté, une émotion ou un mécanisme réel dans une situation concrète. Le prénom figure séparément au-dessus du titre. Dans la présentation, nommer le trouble documenté et ce qu’il change pour ce personnage. Le premier mot-clé reprend son intitulé et les quatre autres indiquent des manifestations ou enjeux qui reviennent dans plusieurs épisodes. La fiche peut annoncer un diagnostic que le personnage découvre plus tard dans l’histoire.\n\nDans le résumé de la fiche et de la carte, relier une réaction de la scène à l’aspect abordé. Dans un récit d’enfance, vérifier l’apport de cette période pour comprendre le trouble et ouvrir sur d’autres contextes lorsque les sources l’appuient. Lors de la relecture, nommer l’aspect illustré dans chaque épisode, puis retrouver le moment où il devient visible et vérifier que les exemples et les techniques restent centrés sur lui. Renseigner les références dans le manuscrit et le dossier éditorial, sans bibliographie dans le fil de l’article.\n\nLa huitième vague vérifie qui peut savoir quoi, à quel moment et avec quel accord. En cas de changement préoccupant, distinguer le fait observable, ce qu’en dit le personnage, la réponse d’un proche et l’évaluation de l’équipe de soins. Faire apparaître le relais dans la scène où il se produit et en reprendre les conséquences dans la suivante.\n\nLa reprise suivante distingue le résumé affiché avant le récit et l’explication qui vient après. Éviter de recopier le résumé mot pour mot dans cette explication : celle-ci développe le mécanisme et le contraste rendu visible par la scène. Pour les articles d’origine, relire les manifestations et les exercices eux-mêmes ; trois intertitres ou une étiquette ne prouvent pas que les exemples, l’objectif, les trois actions et l’utilité sont présents. Une prose déjà complète peut être conservée. Garder une preuve de lecture liée à l’empreinte du corps et une seconde relecture des passages sensibles.\n",
+            "files": {
+              "manuscript": "editorial/clinical/agnes.json",
+              "dossier": "editorial/clinical/dossiers/agnes.json"
+            },
+            "manifest_fields": [
+              "character_id",
+              "bio",
+              "profile_topics",
+              "episodes"
+            ],
+            "profile_topics_count": 5,
+            "episode_fields": [
+              "number",
+              "slug",
+              "title",
+              "description",
+              "context",
+              "topics",
+              "clinical_focus",
+              "clinical_intro",
+              "opening",
+              "sections",
+              "ending_title",
+              "ending",
+              "mirror",
+              "sources",
+              "continuity",
+              "conclusion"
+            ],
+            "sections": {
+              "explanation": {
+                "fields": [
+                  "heading",
+                  "text"
+                ]
+              },
+              "manifestations": {
+                "fields": [
+                  "heading",
+                  "points"
+                ],
+                "count": 3,
+                "point_fields": [
+                  "heading",
+                  "text",
+                  "examples"
+                ],
+                "examples_count": 2
+              },
+              "strategies": {
+                "fields": [
+                  "heading",
+                  "points"
+                ],
+                "count": 3,
+                "point_fields": [
+                  "heading",
+                  "objective",
+                  "exercise",
+                  "benefit"
+                ],
+                "exercise_count": 3
+              }
+            },
+            "total_episodes": 12,
+            "continuity": [],
+            "ready_to_draft": false,
+            "instruction": "Vérifier les sources cliniques et renseigner un dossier avant de lancer la rédaction."
+          },
+          "findings": [],
+          "existing_manuscript": null
+        },
+        "allowed_outputs": [
+          "editorial/clinical/designs/agnes.json",
+          "editorial/clinical/dossiers/agnes.json"
+        ],
+        "output_baseline": {
+          "editorial/clinical/designs/agnes.json": null,
+          "editorial/clinical/dossiers/agnes.json": null
+        }
+      },
+      "snapshot_sha256": "e64354ccd88a4e7f5810dd1f7ef57f58ab17a2d864737fcb4faf3eaa83488ece",
+      "status": "active",
+      "token_sha256": "3cf1fc71c45ff444c87b7fe562a2440d417b71821edf599526ae9cddb909991f",
+      "heartbeat_at": "2026-11-09T18:55:48Z",
+      "expires_at": "2026-11-09T19:25:48Z"
     }
   },
-  "updated_at": "2026-11-09T18:53:49Z"
+  "updated_at": "2026-11-09T18:57:37Z"
 }

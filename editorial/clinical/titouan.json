@@ -111,6 +111,418 @@
         "choice": "Titouan garde le formulaire dans le roman et accepte de reparler de la nuit après le rendez-vous.",
         "next": "Le soir, il se demande s’il suffirait de rester éveillé pour empêcher un accident."
       }
+    },
+    {
+      "number": 2,
+      "slug": "titouan-eveil-ne-se-commande-pas",
+      "title": "L’éveil nocturne ne se commande pas par la volonté",
+      "description": "Titouan laisse sa lampe allumée pour surveiller sa nuit. Salomé l’aide à confier la question de l’éveil au médecin.",
+      "context": "Le coucher précédant le rendez-vous de suivi",
+      "topics": [
+        "Éveil nocturne",
+        "Surveillance de soi",
+        "Question médicale"
+      ],
+      "clinical_intro": "Des difficultés d’éveil peuvent contribuer à l’énurésie nocturne, parmi d’autres mécanismes possibles. Elles ne permettent pas de conclure que l’enfant manque d’attention ou refuse de se lever. Titouan essaie de rester éveillé pour éviter un accident. Salomé l’aide à abandonner cette garde et à préparer une question pour son médecin.",
+      "opening": "La même ligne revient depuis plusieurs minutes : le gardien pose sa main sur la pierre. Titouan connaît déjà la suite, mais il maintient son roman ouvert. La lampe éclaire le marque-page qu’il a dessiné, un phare dont la porte est cachée par une vague. Le formulaire de la médiathèque reste à l’intérieur de la couverture. Demain, il verra le médecin avec Salomé ; ce soir, il croit tenir une solution qui ne demande à personne de savoir.\n\nS’il ne dort pas, il pourra surveiller. Il se redresse contre l’oreiller, relit la phrase et écoute les bruits du couloir. Ses yeux se ferment, puis il les ouvre très grand. Dans sa tête, le gardien du livre et lui ont le même travail : ne pas quitter leur poste. Il n’avance pourtant plus dans l’histoire. Il aimerait savoir où mène la porte, mais il a surtout peur de laisser passer quelque chose pendant qu’il dort.\n\nSalomé remarque la lumière et frappe doucement avant d’entrer. « Tu lis encore ou tu essaies de ne pas dormir ? » Titouan retourne une page sans la regarder. Puis il répond : « Si je monte la garde, je pourrai arrêter avant. » Le parent s’assied près du lit. Il ne demande pas de démontrer cette idée jusqu’au matin. La lampe reste allumée le temps d’en parler, et le marque-page attend sur la couverture.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Rester vigilant ne remplace pas les mécanismes du sommeil",
+          "text": "L’énurésie nocturne peut impliquer l’éveil, la production d’urine pendant le sommeil et la capacité de la vessie. Ces contributions possibles ne permettent pas d’attribuer un mécanisme précis à Titouan à partir de cette soirée. Vouloir faire attention ne suffit pas à commander ce qui se produit pendant le sommeil. Passer la nuit à se surveiller n’est pas une réponse à lui imposer. Les questions sur son sommeil appartiennent au suivi médical, sans conclure ici à un trouble du sommeil supplémentaire."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment la surveillance de soi prend-elle la place du coucher ?",
+          "points": [
+            {
+              "heading": "Confondre vigilance et contrôle nocturne",
+              "text": "Titouan espère empêcher le problème en supprimant le moment où il ne peut plus surveiller.",
+              "examples": [
+                "Il décide de monter la garde au lieu de dormir.",
+                "Il explique qu’il pourra arrêter l’accident avant s’il reste éveillé."
+              ]
+            },
+            {
+              "heading": "Ne plus profiter de la lecture",
+              "text": "Le livre devient un outil pour tenir les yeux ouverts plutôt qu’une activité choisie.",
+              "examples": [
+                "Il revient à la même ligne sans avancer.",
+                "Il tourne une page quand Salomé entre, sans en lire le contenu."
+              ]
+            },
+            {
+              "heading": "Retarder la demande d’aide",
+              "text": "L’idée d’une solution solitaire évite de partager la crainte, mais laisse l’enfant seul avec elle.",
+              "examples": [
+                "Il pense pouvoir réussir sans que personne sache.",
+                "La question réelle n’apparaît qu’après la remarque de Salomé sur la lumière."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour rendre la nuit au sommeil",
+          "points": [
+            {
+              "heading": "Renoncer ensemble à la garde",
+              "objective": "Retirer une responsabilité impossible à tenir par simple effort.",
+              "exercise": [
+                "Salomé écoute l’idée sans se moquer.",
+                "Le parent dit que Titouan n’a pas à rester éveillé pour mériter de l’aide.",
+                "Ils remettent le livre à sa place et permettent un coucher ordinaire."
+              ],
+              "benefit": "L’enfant peut cesser cette surveillance sans considérer le sommeil comme un abandon."
+            },
+            {
+              "heading": "Confier la question au médecin",
+              "objective": "Transformer une inquiétude en question de suivi.",
+              "exercise": [
+                "Demandez quelle question Titouan voudrait poser sur le réveil.",
+                "Notez ses propres mots pour le rendez-vous prévu.",
+                "Laissez le médecin explorer le sommeil et les autres éléments utiles sans conclure à domicile."
+              ],
+              "benefit": "La question reste prise au sérieux sans inventer de mécanisme individuel."
+            },
+            {
+              "heading": "Garder une préparation familière",
+              "objective": "Soutenir le repos avec les repères habituels.",
+              "exercise": [
+                "Préparez le couchage comme prévu dans l’accompagnement existant.",
+                "Laissez accessibles les besoins ordinaires et l’aide du parent.",
+                "Terminez la lecture au repère choisi sans instaurer de programme de réveils forcés."
+              ],
+              "benefit": "Le coucher peut retrouver sa fonction de repos ; cette organisation ne garantit pas une nuit sèche."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Le phare garde la page",
+      "ending": "Titouan pose le marque-page à l’endroit où le gardien cherche une porte. « Tu demanderas pourquoi je ne me réveille pas avant ? » Salomé lui propose de poser lui-même la question ou de la lire ensemble. Le parent la note sans ajouter de réponse. Titouan ferme le livre et éteint sa lampe. Le rendez-vous du lendemain portera sur sa santé ; il n’a pas besoin de passer cette nuit à en produire la solution.",
+      "conclusion": "L’éveil nocturne ne relève pas d’un devoir de vigilance. Titouan peut dormir et conserver sa question pour le suivi. Fermer le livre résout la garde improvisée de cette soirée, sans annoncer une modification de son énurésie.",
+      "mirror": [
+        "Salomé peut dire : « Tu n’as pas à faire le gardien toute la nuit. Gardons ta question pour demain. » Le parent ne remplace pas cette garde par des réveils imposés de sa propre initiative. La lumière éteinte n’est pas une promesse de résultat ; elle rend seulement à Titouan la possibilité de se reposer avec les appuis déjà prévus."
+      ],
+      "clinical_focus": "L’éveil nocturne ne se commande pas",
+      "diagnostic_stage": "known",
+      "sources": [
+        "oms-cddr",
+        "cps-enuresis-2023"
+      ],
+      "continuity": {
+        "choice": "Titouan ferme le roman avec son marque-page et confie sa question sur l’éveil à Salomé pour le médecin.",
+        "next": "Cette question ouvre le rendez-vous de suivi, où le médecin s’intéresse aussi à ce qui se passe le jour."
+      }
+    },
+    {
+      "number": 3,
+      "slug": "titouan-bilan-journee",
+      "title": "Le bilan de l’énurésie regarde aussi la journée",
+      "description": "Le médecin questionne Titouan sur la journée. Ces questions précisent le suivi sans lui attribuer de nouveaux symptômes.",
+      "context": "Le début du rendez-vous médical prévu",
+      "topics": [
+        "Évaluation globale",
+        "Parole de l’enfant",
+        "Accès aux toilettes"
+      ],
+      "clinical_intro": "L’évaluation d’une énurésie nocturne s’intéresse aussi à ce qui se passe pendant la journée. Les questions du médecin aident à distinguer les situations et d’éventuelles difficultés associées ; elles ne prouvent pas leur présence. Titouan s’étonne de parler des toilettes du club alors qu’il voulait surtout comprendre pourquoi il ne se réveille pas avant un accident.",
+      "opening": "Titouan tient le marque-page entre ses doigts dans la salle d’attente. Il a laissé le roman à la maison, avec le formulaire toujours rangé dans sa couverture. Salomé a la question notée la veille. Quand ils entrent dans le cabinet, le médecin demande d’abord ce qu’ils voudraient reprendre aujourd’hui. Titouan regarde le papier, puis dit lui-même qu’il aimerait se réveiller avant que le lit soit mouillé.\n\nLe médecin écoute et explique que le suivi regarde plusieurs éléments ensemble. Il lui pose aussi des questions sur les moments où il va aux toilettes dans la journée. Titouan remue le marque-page. « Mais c’est quand je dors, le problème. » Il avait imaginé une réponse sur la nuit, pas une conversation sur les heures du club. Salomé ne répond pas à sa place ; le médecin lui laisse le temps de préciser ce qui l’étonne.\n\nTitouan finit par raconter une discussion sur un roman dont personne n’aimait la fin. Il aurait voulu demander où étaient les toilettes, mais il ne trouvait jamais le bon moment entre deux avis. Il ne raconte pas d’accident dans la journée. Il dit seulement qu’interrompre les lecteurs lui paraît compliqué quand ils parlent tous à la fois. « Mme Dumas, elle peut me montrer avant ? » demande-t-il. Le médecin revient à cette question pratique tout en poursuivant l’entretien prévu.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Une question d’évaluation n’annonce pas un autre diagnostic",
+          "text": "Le médecin recherche les caractéristiques de l’énurésie et les symptômes éventuellement associés pour adapter l’accompagnement. Il peut donc parler de la journée même lorsque les accidents décrits surviennent pendant le sommeil. Chez Titouan, l’hésitation à interrompre un échange ne démontre ni une incontinence diurne ni une autre affection. Le diagnostic connu ne dispense pas de préciser les besoins actuels. Les réponses s’inscrivent dans un examen professionnel, pas dans une liste permettant au lecteur de se diagnostiquer."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment la journée entre-t-elle dans un suivi nocturne ?",
+          "points": [
+            {
+              "heading": "Rencontrer une question inattendue",
+              "text": "Le lien avec la préoccupation de départ n’est pas toujours évident pour l’enfant. Il peut demander une explication.",
+              "examples": [
+                "Titouan rappelle que son problème arrive quand il dort.",
+                "Il cesse de regarder la note sur l’éveil quand le médecin parle de la journée."
+              ]
+            },
+            {
+              "heading": "Décrire un obstacle de contexte",
+              "text": "Une difficulté d’accès ou de demande mérite d’être entendue sans devenir automatiquement un symptôme urinaire.",
+              "examples": [
+                "Titouan hésite à couper une discussion animée.",
+                "Il ne sait pas où sont les toilettes du club et voudrait le demander avant."
+              ]
+            },
+            {
+              "heading": "Trouver sa place dans l’entretien",
+              "text": "La parole de l’enfant apporte une expérience que le parent ne peut pas entièrement raconter.",
+              "examples": [
+                "Salomé laisse Titouan répondre sur la discussion de lecture.",
+                "Il choisit lui-même Mme Dumas pour lui montrer le trajet."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour raconter la journée sans se donner une étiquette",
+          "points": [
+            {
+              "heading": "Partir d’une situation vécue",
+              "objective": "Donner au médecin des informations compréhensibles et situées.",
+              "exercise": [
+                "Laissez Titouan raconter le moment qui lui vient.",
+                "Distinguez ce qu’il a ressenti, ce qu’il a fait et ce qu’il ne sait pas.",
+                "Le parent complète seulement les éléments utiles qu’il connaît."
+              ],
+              "benefit": "L’entretien gagne en précision sans questionnaire public ni conclusion ajoutée."
+            },
+            {
+              "heading": "Demander le sens d’une question",
+              "objective": "Permettre à l’enfant de comprendre pourquoi on élargit l’entretien.",
+              "exercise": [
+                "Proposez de dire : « Pourquoi vous me demandez cela ? »",
+                "Écoutez l’explication adaptée du médecin.",
+                "Vérifiez ce que l’enfant a compris sans lui faire réciter un cours."
+              ],
+              "benefit": "Comprendre le but peut rendre la conversation moins déroutante, sans exiger qu’il sache tout répondre."
+            },
+            {
+              "heading": "Préparer une demande d’accès simple",
+              "objective": "Rendre le besoin pratique abordable au club.",
+              "exercise": [
+                "Titouan choisit de s’adresser à Mme Dumas.",
+                "Il prépare une phrase pour demander où sont les toilettes avant la discussion.",
+                "Salomé prévoit avec lui un moment discret pour cette demande."
+              ],
+              "benefit": "L’accès peut être organisé sans informer tous les lecteurs de son suivi ; ce repérage ne traite pas l’énurésie."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Montrer le trajet avant la discussion",
+      "ending": "« Je veux bien demander, mais pas au milieu de tout le monde », précise Titouan. Salomé note que l’accès aux toilettes fera partie de la préparation avec Mme Dumas. Le médecin confirme l’intérêt de rendre les besoins ordinaires accessibles, puis poursuit l’entretien : il souhaite également parler du transit. Titouan retourne son marque-page. Il croyait avoir fini les questions qui n’avaient pas l’air de concerner la nuit.",
+      "conclusion": "Regarder la journée aide le médecin à comprendre la situation sans ajouter automatiquement un diagnostic. Titouan a décrit une difficulté pour demander un accès, puis choisi une solution pratique à préparer. Le rendez-vous continue avec les autres questions utiles au suivi.",
+      "mirror": [
+        "Salomé peut laisser un silence après la question du médecin, puis demander à Titouan s’il souhaite une aide pour répondre. Dire « il n’a jamais de problème » trop vite risquerait de fermer l’entretien. Le parent peut aussi préciser ce qu’il ignore. Au club, Mme Dumas pourra montrer un trajet sans devenir chargée d’interpréter les réponses médicales."
+      ],
+      "clinical_focus": "Le bilan regarde aussi la journée",
+      "diagnostic_stage": "known",
+      "sources": [
+        "oms-cddr",
+        "ameli-enuresie-consultation"
+      ],
+      "continuity": {
+        "choice": "Titouan demande que l’accès aux toilettes soit préparé avec Mme Dumas sans échange devant le groupe.",
+        "next": "Le médecin complète ensuite l’entretien en abordant le transit ; Titouan ne voit d’abord pas le rapport."
+      }
+    },
+    {
+      "number": 4,
+      "slug": "titouan-transit-evaluation",
+      "title": "Le transit a sa place dans l’évaluation de l’énurésie",
+      "description": "Une question sur le transit embarrasse Titouan. Le médecin en explique l’utilité sans ajouter un diagnostic au récit.",
+      "context": "La suite du même rendez-vous de suivi",
+      "topics": [
+        "Transit",
+        "Entretien médical",
+        "Informations utiles"
+      ],
+      "clinical_intro": "Le transit fait partie des éléments que le médecin peut explorer dans une évaluation de l’énurésie. Une constipation peut être associée aux difficultés urinaires, mais elle n’est ni une cause universelle ni une conclusion automatique. Titouan veut surtout savoir où iront ses réponses. L’entretien médical et la préparation du club n’ont pas besoin de contenir les mêmes informations.",
+      "opening": "Le médecin n’a pas changé de dossier. Pourtant, pour Titouan, la conversation vient de changer complètement de pièce. Après les questions sur les toilettes dans la journée, il parle maintenant du transit et demande s’il existe des difficultés quand il va à la selle. Titouan baisse les yeux vers le marque-page. La vague dessinée sur la porte du phare a presque disparu sous son pouce.\n\nSalomé garde les mains sur son sac et attend. Le médecin explique avec des mots simples pourquoi cette question peut compter dans le suivi. Titouan écoute, puis regarde le papier où Salomé a noté qu’il voudrait demander le trajet des toilettes à Mme Dumas. « Ça aussi, vous allez le mettre sur la feuille de la nuit ? » Il pense au formulaire rangé dans son roman, à la bibliothécaire qui pourrait le poser devant Noé et à toutes les questions qu’il ne saurait pas arrêter.\n\nLe parent lui répond que le formulaire n’est pas une copie de la consultation. Le médecin propose de préciser ensemble les informations nécessaires à l’organisation et celles qui restent dans l’échange de soin. Titouan relève la tête. Il n’a pas demandé que l’on cesse de s’occuper du problème ; il voudrait ne pas retrouver ses réponses entre la liste des livres et l’heure du petit déjeuner. La question de transit reste à discuter ici, avec le soignant, dans un cadre où il peut prendre le temps de répondre.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Rechercher un facteur associé ne le rend pas présent",
+          "text": "Une constipation peut accompagner l’énurésie et mérite d’être recherchée par le médecin. La poser comme possibilité d’évaluation ne signifie pas que Titouan en présente une, ni que le transit expliquerait à lui seul ses accidents nocturnes. Aucun résultat nouveau n’est établi dans cette scène. Le professionnel apprécie les informations utiles avec la famille. L’enfant peut comprendre pourquoi on lui pose une question sans devoir livrer ces réponses au groupe de lecture ou recevoir un traitement improvisé à la maison."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment une question de transit devient-elle difficile à entendre ?",
+          "points": [
+            {
+              "heading": "Ne pas voir immédiatement le lien",
+              "text": "L’enfant peut penser que l’entretien s’éloigne de son problème. Cela appelle une explication accessible.",
+              "examples": [
+                "Titouan regarde son marque-page quand le médecin change de sujet.",
+                "Il entend parler du transit alors qu’il venait discuter des nuits mouillées."
+              ]
+            },
+            {
+              "heading": "Craindre une circulation des réponses",
+              "text": "La gêne porte aussi sur le destinataire des informations, pas seulement sur le thème abordé.",
+              "examples": [
+                "Il demande si la réponse sera inscrite sur le formulaire du club.",
+                "Il imagine la feuille posée devant Noé entre les documents de lecture."
+              ]
+            },
+            {
+              "heading": "Avoir besoin d’un espace pour répondre",
+              "text": "Un parent disponible peut soutenir l’échange sans parler systématiquement à la place de l’enfant.",
+              "examples": [
+                "Salomé attend avant de compléter les réponses.",
+                "Le médecin prend le temps de distinguer les informations de soin et les besoins pratiques."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour garder un entretien compréhensible et confortable",
+          "points": [
+            {
+              "heading": "Demander un cadre de parole adapté",
+              "objective": "Permettre d’aborder une question intime sans précipitation.",
+              "exercise": [
+                "Titouan peut dire qu’il est gêné ou qu’il ne comprend pas.",
+                "Le médecin reformule avec des mots accessibles et propose un cadre approprié.",
+                "Salomé lui laisse le temps de répondre, avec une aide s’il la demande."
+              ],
+              "benefit": "L’enfant peut rester acteur de l’entretien sans obligation de tout raconter d’un seul élan."
+            },
+            {
+              "heading": "Signaler les difficultés éventuelles au soignant",
+              "objective": "Laisser l’évaluation et les décisions de soin au professionnel.",
+              "exercise": [
+                "Décrivez au médecin ce qui est réellement observé ou ressenti.",
+                "Précisez ce que vous ne savez pas plutôt que de supposer une réponse.",
+                "Demandez quoi faire si une difficulté apparaît ensuite, sans commencer un remède de votre propre initiative."
+              ],
+              "benefit": "Le suivi peut prendre en compte un facteur associé sans diagnostic ni régime inventé."
+            },
+            {
+              "heading": "Clarifier ce qui sera partagé",
+              "objective": "Séparer l’organisation du club du contenu complet de la consultation.",
+              "exercise": [
+                "Demandez quelles informations pratiques sont utiles aux responsables.",
+                "Convenez avec Titouan de ce qui sera dit à Mme Dumas et pourquoi.",
+                "Gardez la possibilité d’un relais nécessaire pour sa santé, expliqué à l’enfant."
+              ],
+              "benefit": "La discrétion facilite l’aide sans devenir une promesse de secret absolu."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Deux feuilles qui n’ont pas le même rôle",
+      "ending": "Salomé entoure seulement la demande pratique à préparer : trouver les toilettes avec Mme Dumas avant la discussion. Les réponses médicales ne seront pas recopiées sur le formulaire de la nuit. Titouan accepte de poursuivre l’entretien avec le médecin. Avant de partir, ils conviennent aussi d’un petit relevé privé pour le prochain point de suivi. Il gardera ce document séparé de son carnet du club. Le formulaire peut maintenant servir à préparer une sortie, sans devenir le récit de toute sa consultation.",
+      "conclusion": "Le transit peut compter dans l’évaluation sans devenir une cause présumée ou un diagnostic ajouté. Titouan comprend mieux la place de ses réponses. Les besoins pratiques pourront être préparés avec la bibliothécaire, tandis que les questions médicales restent accompagnées dans le suivi.",
+      "mirror": [
+        "Salomé peut dire : « Nous allons préciser ce que Mme Dumas doit savoir pour t’aider. Elle n’a pas besoin de recopier notre rendez-vous. » Le parent ne promet pas que rien ne sera jamais partagé : une aide ou une situation médicale peut demander un relais. Il explique alors à Titouan les informations utiles et les personnes concernées."
+      ],
+      "clinical_focus": "Le transit compte dans l’évaluation",
+      "diagnostic_stage": "known",
+      "sources": [
+        "oms-cddr",
+        "cps-enuresis-2023"
+      ],
+      "continuity": {
+        "choice": "Titouan distingue le formulaire du club de la consultation et accepte de préparer ses besoins pratiques ; un relevé privé est convenu pour le suivi.",
+        "next": "Au club suivant, il pense résoudre la difficulté en laissant sa gourde à la maison."
+      }
+    },
+    {
+      "number": 5,
+      "slug": "titouan-eau-toilettes-accessibles",
+      "title": "Boire et accéder aux toilettes sans faire de pari sur la nuit",
+      "description": "Titouan laisse sa gourde près de la porte. Salomé reprend avec lui les conseils du médecin et prépare un accès discret aux toilettes.",
+      "context": "Le retour au club après la consultation",
+      "topics": [
+        "Hydratation",
+        "Besoins ordinaires",
+        "Accès discret"
+      ],
+      "clinical_intro": "L’accompagnement de l’énurésie préserve une hydratation suffisante et un accès aux toilettes adapté aux besoins. Se priver d’eau ou se retenir n’est pas une épreuve à proposer à l’enfant. Titouan voudrait laisser sa gourde pour éviter un accident plus tard. Salomé reprend les conseils personnalisés du médecin et organise avec lui une aide pratique au club.",
+      "opening": "Le roman est dans le sac, le formulaire dans sa couverture et le marque-page à la bonne page. Titouan vérifie les trois avant de mettre ses chaussures. La gourde, elle, reste debout près de la porte. Salomé la prend pour la lui tendre, mais il secoue la tête. « Pas besoin aujourd’hui. » Il n’a pas oublié de la remplir ; il l’a posée là exprès.\n\nDepuis le rendez-vous, il sait qu’ils peuvent demander à Mme Dumas où sont les toilettes sans raconter toute la consultation. Pourtant, une autre idée lui paraît plus simple : s’il évite de boire, peut-être qu’il sera tranquille ensuite. Le parent lui demande ce qu’il imagine. Titouan regarde le bouchon, puis répond presque en chuchotant. Il n’a pas envie de refaire une longue discussion avant même de retrouver Noé et le gardien du phare.\n\nSalomé s’accroupit près du sac pour reprendre avec lui ce que le médecin a expliqué sur les boissons et les besoins ordinaires. La gourde n’a pas à disparaître pour que le club soit possible. Titouan se rappelle surtout qu’il n’a pas osé demander le trajet pendant la dernière discussion. « Alors on arrive avant les autres ? » propose-t-il. Le parent acquiesce. Il glisse lui-même la gourde à côté du livre ; le sac est un peu plus lourd, mais leur question aura cette fois une place avant le début de la lecture.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "L’accès aux besoins ordinaires reste nécessaire",
+          "text": "Une hydratation adaptée et l’accès aux toilettes font partie de l’accompagnement de l’énurésie. La peur d’un accident ne justifie pas d’imposer une privation d’eau ou de demander à l’enfant de se retenir. Titouan n’a pas reçu de médicament dans ce récit ; il reprend les conseils personnalisés de son médecin. Pour toute personne ayant un traitement, les consignes particulières du prescripteur restent indispensables et ne sont pas remplacées par un conseil général. Repérer les toilettes soutient la participation au club, sans garantir la sécheresse nocturne."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment la crainte d’un accident modifie-t-elle les besoins ordinaires ?",
+          "points": [
+            {
+              "heading": "Écarter volontairement la gourde",
+              "text": "Le geste traduit une tentative de prévenir seul la difficulté, pas un simple oubli de matériel.",
+              "examples": [
+                "La gourde remplie reste près de la porte.",
+                "Titouan refuse d’abord que Salomé la remette dans le sac."
+              ]
+            },
+            {
+              "heading": "Chercher une règle simple pour une situation complexe",
+              "text": "L’enfant espère une certitude immédiate alors que le suivi tient compte de plusieurs éléments.",
+              "examples": [
+                "Il pense qu’éviter de boire le rendra tranquille plus tard.",
+                "Il préférerait cette idée à une nouvelle conversation sur ses besoins."
+              ]
+            },
+            {
+              "heading": "Hésiter à interrompre la lecture",
+              "text": "La difficulté de demander un accès peut être résolue par une organisation plus claire. Elle n’établit pas un symptôme nouveau.",
+              "examples": [
+                "Il se rappelle la discussion qu’il n’avait pas osé couper.",
+                "Il propose d’arriver avant les autres pour parler à Mme Dumas."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour rendre l’eau et les toilettes accessibles",
+          "points": [
+            {
+              "heading": "Reprendre les conseils personnalisés",
+              "objective": "Éviter qu’une règle de privation remplace le suivi médical.",
+              "exercise": [
+                "Salomé demande pourquoi la gourde est restée dehors.",
+                "Le parent reprend les indications du médecin sans inventer de volume ni d’horaire restrictif.",
+                "En cas de doute sur une consigne ou un traitement, la famille demande une clarification au soignant."
+              ],
+              "benefit": "Les besoins restent pris en compte sans transformer les boissons en moyen de contrôle improvisé."
+            },
+            {
+              "heading": "Repérer le trajet avec la bibliothécaire",
+              "objective": "Rendre l’accès concret avant une discussion animée.",
+              "exercise": [
+                "Demandez à Mme Dumas un moment avant la séance.",
+                "Elle montre les toilettes accessibles et le trajet prévu.",
+                "Elle précise à qui s’adresser si cet accès devient indisponible."
+              ],
+              "benefit": "L’enfant connaît une possibilité réelle, au lieu de devoir la chercher au moment où il en a besoin."
+            },
+            {
+              "heading": "Prévoir une interruption simple",
+              "objective": "Laisser une place aux besoins sans exposer la santé de l’enfant.",
+              "exercise": [
+                "Titouan demande comment faire une pause dans la lecture.",
+                "Mme Dumas convient avec lui d’une demande courte et discrète.",
+                "L’adulte permet l’accès nécessaire sans faire attendre pour terminer un passage."
+              ],
+              "benefit": "La participation n’exige pas de se retenir ; l’organisation demeure un appui pratique, pas un traitement."
+            }
+          ]
+        }
+      ],
+      "ending_title": "La gourde à côté de la carte",
+      "ending": "Avant l’arrivée du groupe, Mme Dumas montre le trajet et indique à Titouan qu’il peut demander à interrompre sa lecture. Il ne raconte pas le rendez-vous médical. Quand Noé entre, la gourde est posée près de la carte du roman. Leur discussion reprend sur une fenêtre du phare qui pourrait cacher une porte. Le soir, Titouan retrouve le relevé privé proposé au suivi et se demande encore si une page utile au médecin doit forcément montrer des réussites.",
+      "conclusion": "L’eau et l’accès aux toilettes ne deviennent pas des moyens de mérite ou de privation. Titouan dispose maintenant d’un trajet et d’une demande possible. La préparation du club avance, tandis que les conseils médicaux restent adaptés à sa situation.",
+      "mirror": [
+        "Salomé peut répondre : « Tu pensais te protéger en laissant la gourde. Reprenons ce que le médecin nous a dit. » Cette phrase permet d’entendre l’idée sans l’approuver. Mme Dumas peut montrer les toilettes avant la séance, puis accueillir une demande de pause comme un besoin ordinaire. Elle n’a pas à surveiller les boissons pour obtenir une nuit sèche."
+      ],
+      "clinical_focus": "Boire et accéder aux toilettes",
+      "diagnostic_stage": "known",
+      "sources": [
+        "oms-cddr",
+        "nice-cg111"
+      ],
+      "continuity": {
+        "choice": "Titouan emporte sa gourde ; Mme Dumas montre l’accès aux toilettes et permet une pause de lecture.",
+        "next": "À la maison, il veut savoir si le petit relevé proposé par le médecin devra montrer uniquement des réussites."
+      }
     }
   ]
 }

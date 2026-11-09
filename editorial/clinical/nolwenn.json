@@ -621,6 +621,517 @@
         "choice": "Après l’échange sur les repas évités, Nolwenn suit une première séance et reçoit un cadre personnel ; elle classe les photos.",
         "next": "Au prochain suivi, elle pourra rapporter les essais possibles, leurs limites et la journée qui a été plus difficile."
       }
+    },
+    {
+      "number": 7,
+      "slug": "nolwenn-reponse-sans-jugement",
+      "title": "Rumination-régurgitation : parler d’une réponse partielle sans se juger",
+      "description": "Nolwenn hésite à raconter une journée difficile. Le suivi a besoin de cette réalité pour discuter les ajustements.",
+      "context": "Avant puis pendant le rendez-vous de suivi",
+      "topics": [
+        "Trouble de rumination-régurgitation",
+        "Réponse au soin",
+        "Attentes"
+      ],
+      "clinical_focus": "Mesurer une réponse sans se juger",
+      "clinical_intro": "La réponse à un accompagnement peut être partielle et doit être discutée dans le suivi. Une journée difficile ne mesure pas la valeur des efforts de la personne. Rapporter ce qui a été possible et ce qui reste compliqué permet au professionnel de réévaluer la suite, sans transposer à chacun les résultats d’une étude ou promettre une guérison.",
+      "opening": "Dans le dossier bleu, Nolwenn retrouve une épreuve qu’elle avait décidé de retirer. La lumière y est belle, mais le reflet masque la fenêtre. Elle se souvient l’avoir gardée parce qu’elle aimait une partie de l’image. Les six pochettes sont prêtes ; les essais et les versions définitives se sont pourtant mélangés pendant la dernière séance de travail. Elle commence à les séparer, puis regarde l’heure de son rendez-vous de suivi.\n\nElle aimerait y apporter une semaine aussi nette que les six images finales. L’apprentissage lui a donné des repères, mais une journée a été franchement difficile. Elle avait prévu de la raconter, puis a pensé qu’elle pourrait peut-être attendre le rendez-vous suivant, quand elle aurait quelque chose de plus encourageant à dire. Revenir sans amélioration régulière lui donne l’impression de rendre une copie inachevée.\n\nElle relit le cadre convenu avec la spécialiste. Il n’y était pas question de montrer uniquement les bons moments. Les difficultés de repas devaient aussi rester discutées. Nolwenn ferme les pochettes et part au rendez-vous avec deux observations, dont celle qu’elle aurait préféré écarter. Dans la salle d’attente, elle essaie une première phrase : « Il y a un jour que j’avais envie de ne pas vous raconter. » Cette fois, elle ne la raccourcit pas.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Évaluer une réponse ne revient pas à noter une personne",
+          "text": "Les effets des interventions se discutent selon la situation clinique et leurs limites. Un petit essai de biofeedback spécialisé a observé une réduction des événements rapportés à court terme chez des adultes sélectionnés ; il ne fournit pas une garantie individuelle ni un taux de guérison durable. Pour Nolwenn, le suivi examine l’expérience réelle de l’apprentissage et les besoins qui persistent. Une journée difficile fait partie des informations utiles."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment le jugement sur soi gêne-t-il le bilan du suivi ?",
+          "points": [
+            {
+              "heading": "Le récit est tenté de devenir une vitrine",
+              "text": "La personne peut vouloir ne montrer que les moments satisfaisants par peur de décevoir.",
+              "examples": [
+                "Nolwenn prépare d’abord une semaine racontée sans la journée difficile.",
+                "Elle hésite à revenir au rendez-vous parce qu’elle n’a pas obtenu le résultat espéré."
+              ]
+            },
+            {
+              "heading": "Une réponse partielle reste informative",
+              "text": "Un essai inégal peut aider à discuter la suite, sans prouver une incapacité personnelle.",
+              "examples": [
+                "Elle peut décrire une consigne qu’elle a comprise et une difficulté persistante.",
+                "La spécialiste reprend aussi la place des repas évités dans son quotidien."
+              ]
+            },
+            {
+              "heading": "Les attentes demandent une discussion",
+              "text": "Un résultat de recherche ne fixe pas ce qui arrivera à chaque personne.",
+              "examples": [
+                "Nolwenn demande ce qu’elle peut raisonnablement attendre de son suivi.",
+                "La possibilité d’un autre appui, comme le biofeedback, reste une question professionnelle."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour discuter une réponse inégale",
+          "points": [
+            {
+              "heading": "Préparer deux observations utiles",
+              "objective": "Donner une image plus fidèle que celle d’une semaine parfaite.",
+              "exercise": [
+                "Reprendre les repères convenus avec la spécialiste, sans ajouter un comptage permanent.",
+                "Choisir un exemple de ce qui a été possible et un exemple de difficulté.",
+                "Présenter les deux au rendez-vous sans chercher à les compenser."
+              ],
+              "benefit": "Un récit contrasté peut mieux guider l’échange qu’un bilan uniquement rassurant ou uniquement découragé."
+            },
+            {
+              "heading": "Poser la question des ajustements",
+              "objective": "Éviter de modifier seule l’accompagnement en réponse à une mauvaise journée.",
+              "exercise": [
+                "Dire ce qui gêne le plus dans le cadre actuel.",
+                "Demander quelles adaptations ou options la professionnelle juge pertinentes.",
+                "Convenir avec elle de la suite plutôt qu’intensifier soi-même les essais."
+              ],
+              "benefit": "La décision reste individualisée ; une option discutée n’est pas une promesse de résultat."
+            },
+            {
+              "heading": "Clarifier les attentes et l’échéance",
+              "objective": "Distinguer un objectif de suivi d’une obligation de réussir immédiatement.",
+              "exercise": [
+                "Demander ce qui sera observé pour évaluer la réponse.",
+                "Faire préciser quand reprendre le point avec la spécialiste.",
+                "Garder les besoins alimentaires dans cet échange si les repas restent évités."
+              ],
+              "benefit": "Un rendez-vous de réévaluation peut limiter les conclusions hâtives, sans garantir une évolution régulière."
+            }
+          ]
+        }
+      ],
+      "ending_title": "La journée gardée dans le récit",
+      "ending": "Nolwenn raconte la journée difficile et pose ses questions sur les ajustements possibles, y compris le sens du biofeedback dont elle a entendu le nom. La spécialiste réévalue avec elle la suite et fixe le prochain point ; le besoin d’accompagnement alimentaire reste dans l’échange. À l’atelier, Nolwenn conserve les six images définitives et retire les essais du dossier de candidature. Le plan de l’exposition peut maintenant être discuté avec l’équipe, autour d’une pause qu’Inès propose d’organiser.",
+      "conclusion": "Une réponse partielle mérite une discussion précise, sans jugement sur la personne. Nolwenn apporte la journée qu’elle voulait cacher et garde un contact de suivi. Le choix des six images avance, tandis que l’accompagnement reste ajusté par la professionnelle.",
+      "mirror": [
+        "Inès peut écouter « ça a été difficile cette semaine » sans demander un pourcentage de réussite ni comparer les journées. Elle peut répondre : « Tu as pu en parler au suivi ? » puis revenir au plan si Nolwenn le souhaite. Les proches n’ont pas à faire le bilan du soin. Leur appui peut être de laisser une place aux récits imparfaits."
+      ],
+      "sources": [
+        "oms-cddr",
+        "barba-biofeedback-2016"
+      ],
+      "continuity": {
+        "choice": "Nolwenn raconte la journée difficile ; la spécialiste réévalue la suite et les besoins alimentaires, puis les six images sont finalisées.",
+        "next": "Inès propose de discuter du plan autour d’une pause avec l’équipe."
+      }
+    },
+    {
+      "number": 8,
+      "slug": "nolwenn-place-a-table",
+      "title": "Rumination-régurgitation : reprendre une place à table à son rythme",
+      "description": "Le plan se discute au déjeuner. Nolwenn choisit de participer avec une possibilité de sortie, sans surveillance de son repas.",
+      "context": "Au déjeuner où se discute le plan",
+      "topics": [
+        "Trouble de rumination-régurgitation",
+        "Participation choisie",
+        "Repas collectifs"
+      ],
+      "clinical_focus": "Reprendre une place à table",
+      "clinical_intro": "Rejoindre un moment collectif peut être un objectif personnel même lorsque les remontées persistent. Cette participation doit rester choisie et compatible avec le suivi. Elle n’est pas un test de disparition du trouble. Une aide limitée et une possibilité de départ peuvent préserver le lien, sans transformer les collègues en observateurs de l’alimentation.",
+      "opening": "Inès propose de déplier le plan pendant le déjeuner. Il reste à décider dans quel ordre les six fenêtres seront présentées et comment les notices accompagneront les images. Nolwenn a envie d’être là pour cette discussion. Elle imagine déjà un accrochage où la première photographie donne envie de chercher la suivante. Puis elle pense à la table, aux questions possibles et aux regards qu’elle redoute sur son repas.\n\nElle ne prend que le plan plié. Le dossier bleu reste dans l’atelier avec les épreuves, le budget et les notices. Ce choix allège son sac sans alléger tout à fait son inquiétude. Avant la pause, elle dit à Inès ce qui l’aiderait : qu’on continue à parler des fenêtres, qu’une absence ne déclenche pas une explication devant tout le monde. Inès lui répond qu’elle pourra lui montrer les décisions si elle sort.\n\nLe moment choisi tient compte du suivi en cours et de l’accompagnement alimentaire discuté avec les soignants. Il ne remplace pas ces rendez-vous. Nolwenn rejoint la table et déplie le plan entre deux propositions qui ne se ressemblent pas. Un collègue voudrait commencer par l’image la plus sombre. Elle défend la fenêtre ouverte sur la cour. Sa voix retrouve son assurance habituelle quand il s’agit de donner une place à la lumière.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Le lien social et les symptômes ne se mesurent pas ensemble",
+          "text": "Le retentissement social de la rumination-régurgitation peut persister ou évoluer indépendamment de la réponse clinique. Participer à un déjeuner ne permet pas de conclure à une amélioration médicale. Ici, Nolwenn veut contribuer au plan et négocie les conditions relationnelles de sa présence. Ces arrangements appartiennent à la vie quotidienne : ils ne constituent ni une exposition thérapeutique ni une prescription alimentaire."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment reprendre une place sans en faire une épreuve ?",
+          "points": [
+            {
+              "heading": "Le désir de rejoindre les autres",
+              "text": "La personne peut souhaiter un moment collectif tout en redoutant ses conditions.",
+              "examples": [
+                "Nolwenn aimerait entendre les propositions de placement des images.",
+                "Elle ne veut pas que sa présence entraîne des commentaires sur son repas."
+              ]
+            },
+            {
+              "heading": "Une aide à définir",
+              "text": "Le soutien souhaité peut être très limité et porter sur l’organisation du travail.",
+              "examples": [
+                "Elle demande à Inès de continuer à parler du plan.",
+                "Elle préfère qu’une absence ne suspende pas toute la conversation."
+              ]
+            },
+            {
+              "heading": "Une participation discontinue",
+              "text": "Quitter puis retrouver un échange peut faire partie d’un moment choisi sans devenir un exercice thérapeutique.",
+              "examples": [
+                "Nolwenn s’absente pendant la pause.",
+                "À son retour, elle prend part au choix de l’ordre des images."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour organiser un moment collectif choisi",
+          "points": [
+            {
+              "heading": "Choisir le moment avec ses contraintes",
+              "objective": "Préparer une participation qui reste volontaire et compatible avec le suivi.",
+              "exercise": [
+                "Identifier un échange auquel on souhaite vraiment contribuer.",
+                "Tenir compte des consignes personnelles discutées avec les soignants.",
+                "Choisir un format que l’on pourra revoir si les besoins changent."
+              ],
+              "benefit": "La décision peut soutenir le lien social sans imposer un repas, un défi ou une durée à réussir."
+            },
+            {
+              "heading": "Nommer l’aide attendue",
+              "objective": "Éviter que la bienveillance se transforme en surveillance.",
+              "exercise": [
+                "Dire à la collègue ce qui aiderait concrètement pendant l’échange.",
+                "Préciser ce que l’on préfère éviter, comme les commentaires sur l’alimentation.",
+                "Vérifier qu’elle peut tenir ce rôle limité de partenaire du projet."
+              ],
+              "benefit": "Un accord simple peut préserver une conversation ordinaire ; la collègue n’évalue pas les symptômes."
+            },
+            {
+              "heading": "Prévoir une reprise du travail",
+              "objective": "Ne pas faire d’une sortie momentanée un abandon du projet.",
+              "exercise": [
+                "Convenir que la discussion pourra continuer en cas d’absence.",
+                "Prévoir comment retrouver les décisions prises.",
+                "Garder un créneau ultérieur si l’on ne souhaite pas revenir tout de suite."
+              ],
+              "benefit": "Cette souplesse peut protéger la contribution sans faire du retour à table une preuve de santé."
+            }
+          ]
+        }
+      ],
+      "ending_title": "La fenêtre de la cour en premier",
+      "ending": "Nolwenn reste un moment, puis s’absente. La discussion continue comme convenu. Lorsqu’elle revient, Inès lui montre deux possibilités d’ordre sur le plan, sans lui demander de raconter la sortie. Nolwenn défend la fenêtre de la cour et obtient qu’elle ouvre le parcours. Cette reprise du lien lui a plu, même si elle ne résout pas les difficultés de repas. Plus tard, une gêne différente en avalant viendra demander une autre réponse que les arrangements de table.",
+      "conclusion": "La participation peut être réelle même lorsqu’elle comporte une interruption. Nolwenn choisit sa place dans la discussion et dans l’ordre des images. Le plaisir du moment collectif ne remplace pas le suivi ni l’attention nécessaire à un symptôme nouveau.",
+      "mirror": [
+        "Inès peut dire au retour : « On hésite entre ces deux ordres, tu en penses quoi ? » Elle n’a pas à féliciter Nolwenn pour le temps passé à table ou à commenter ce qu’elle a mangé. Respecter l’accord de discrétion rend possible une conversation de collègues. Le soin, lui, reste discuté avec les professionnels, même après une pause agréable."
+      ],
+      "sources": [
+        "oms-cddr",
+        "ueg-esnm-2025"
+      ],
+      "continuity": {
+        "choice": "Nolwenn participe à la pause, s’absente puis revient choisir l’ordre des images ; Inès respecte l’aide convenue.",
+        "next": "Une gêne nouvelle en avalant conduit Nolwenn à rappeler le cabinet malgré le plaisir de cette reprise."
+      }
+    },
+    {
+      "number": 9,
+      "slug": "nolwenn-symptome-nouveau",
+      "title": "Difficulté nouvelle à avaler : ne pas tout attribuer au trouble connu",
+      "description": "Nolwenn signale une difficulté nouvelle de déglutition. Le médecin la réévalue avant que la relecture du dossier reprenne.",
+      "context": "Pendant la correction des légendes puis au cabinet",
+      "topics": [
+        "Trouble de rumination-régurgitation",
+        "Symptôme nouveau",
+        "Réévaluation"
+      ],
+      "clinical_focus": "Un symptôme nouveau à réévaluer",
+      "clinical_intro": "Un diagnostic de rumination-régurgitation ne permet pas d’expliquer automatiquement une difficulté nouvelle à avaler. Un changement de ce type doit être décrit aux soignants et réévalué selon leur orientation. L’entourage peut aider à déplacer une tâche, mais ne décide pas de la cause. Les consignes reçues priment sur le calendrier du projet.",
+      "opening": "Nolwenn corrige la légende de la fenêtre ouverte sur la cour. Depuis le déjeuner partagé, cette photographie occupe la première place sur le plan. Elle aime ce choix et voudrait que la phrase soit aussi simple que l’image. Elle supprime encore deux mots, puis s’arrête : une difficulté nouvelle en avalant la préoccupe. Cela lui paraît différent des remontées dont elle parle habituellement au suivi.\n\nSa première pensée est de ranger cette gêne sous le diagnostic qu’elle connaît désormais. Ce serait une question de moins, à quelques jours de la relecture. Mais le bilan précédent ne répond pas à un changement qui n’y figurait pas. Nolwenn laisse la correction en suspens et contacte son médecin pour décrire ce qu’elle remarque. Elle dit explicitement que c’est nouveau et suit l’orientation donnée par le cabinet.\n\nElle prévient ensuite Inès que la relecture doit être déplacée. Sa collègue ne lui demande pas de vérifier si la gêne passe avec un essai ou une distraction. Elle garde les pages dans le dossier bleu. Lors de la consultation organisée, Nolwenn raconte la différence avec les remontées et répond aux questions du médecin. La fenêtre de la cour attendra sa légende définitive. Ce rendez-vous ne sert pas à confirmer à tout prix une explication déjà connue, mais à examiner ce qui a changé.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Un diagnostic ne ferme pas l’attention aux changements",
+          "text": "Une difficulté de déglutition modifie l’évaluation de remontées alimentaires et ne doit pas être interprétée à distance. Les causes digestives et les situations associées restent du ressort du professionnel. Dans cette scène, le médecin réévalue le symptôme nouveau ; le récit n’invente pas de résultat causal. Le plaisir d’avoir repris une pause collective n’apporte aucune preuve sur la nature ou la gravité de ce changement."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment distinguer un changement d’une explication déjà connue ?",
+          "points": [
+            {
+              "heading": "Une différence avec l’habitude",
+              "text": "Un symptôme nouveau mérite d’être décrit pour lui-même, même lorsqu’un diagnostic existe déjà.",
+              "examples": [
+                "Nolwenn distingue la difficulté à avaler des remontées dont elle parle au suivi.",
+                "Elle indique au cabinet qu’il s’agit d’un changement."
+              ]
+            },
+            {
+              "heading": "La tentation de tout regrouper",
+              "text": "Une explication connue peut devenir trop large si elle sert à décider de chaque nouvelle sensation.",
+              "examples": [
+                "Nolwenn pense d’abord que cela doit appartenir au même trouble.",
+                "Elle renonce à trancher seule et demande une réévaluation."
+              ]
+            },
+            {
+              "heading": "Un calendrier à interrompre",
+              "text": "Le projet peut être réorganisé pour laisser sa place au soin indiqué.",
+              "examples": [
+                "La relecture des légendes est reportée.",
+                "Inès garde les corrections sans essayer de déterminer la cause de la gêne."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour transmettre un symptôme nouveau",
+          "points": [
+            {
+              "heading": "Décrire le changement au service de soins",
+              "objective": "Permettre une orientation à partir de la nouveauté du symptôme.",
+              "exercise": [
+                "Contacter le service en disant que la déglutition est devenue différente.",
+                "Décrire ce que l’on perçoit et depuis quand, sans conclure à une cause.",
+                "Répondre aux questions du professionnel et suivre l’orientation reçue."
+              ],
+              "benefit": "Le relais peut permettre une évaluation adaptée ; le diagnostic connu ne remplace pas cet échange."
+            },
+            {
+              "heading": "Suivre la réévaluation prévue",
+              "objective": "Ne pas faire passer le dépôt ou un exercice avant la conduite médicale.",
+              "exercise": [
+                "Respecter le contact ou la consultation indiqués.",
+                "Demander les consignes personnelles et le circuit à utiliser si la situation change ou s’aggrave.",
+                "Recontacter ce circuit sans attendre le prochain exercice ou la fin du travail si une aggravation survient."
+              ],
+              "benefit": "Les décisions restent liées à la situation réévaluée, sans traitement improvisé ni garantie sur l’origine."
+            },
+            {
+              "heading": "Reporter une tâche précise",
+              "objective": "Dégager du temps sans demander à une collègue d’évaluer le symptôme.",
+              "exercise": [
+                "Nommer la tâche qui doit être déplacée.",
+                "Confier les éléments utiles au projet sans donner un dossier médical.",
+                "Convenir de reprendre la relecture selon les possibilités après l’avis reçu."
+              ],
+              "benefit": "Un relais de travail peut faciliter l’accès au soin tout en préservant les rôles et l’intimité."
+            }
+          ]
+        }
+      ],
+      "ending_title": "La relecture peut attendre",
+      "ending": "Le médecin réévalue la difficulté et organise la suite nécessaire. Nolwenn reçoit des consignes individualisées ainsi que l’indication du contact à reprendre en cas de changement ou d’aggravation. Elle ne repart pas avec une histoire inventée sur la cause. Inès a décalé la relecture et conservé les corrections. La préparation de la présentation reprendra en tenant compte de cette réévaluation et du suivi convenu, sans faire du prochain dépôt une raison d’ignorer les indications reçues.",
+      "conclusion": "Un symptôme nouveau mérite un regard médical propre, même avec un diagnostic déjà expliqué. Nolwenn a interrompu sa correction et obtenu une réévaluation. Les consignes organisent désormais la suite ; la collègue facilite le calendrier sans devenir juge de la cause.",
+      "mirror": [
+        "Inès peut répondre : « Je décale la relecture, les pages seront là quand tu pourras reprendre. » Elle n’a pas à rassurer Nolwenn en affirmant que c’est forcément le même trouble. Un proche peut faciliter le contact médical et respecter les consignes. Si la situation change ou s’aggrave, le circuit indiqué doit être repris sans attendre le dossier ou un exercice de suivi."
+      ],
+      "sources": [
+        "oms-cddr",
+        "aga-rumination-2018"
+      ],
+      "continuity": {
+        "choice": "Nolwenn contacte le médecin et la consultation réévalue la gêne ; la suite et les consignes sont organisées, la relecture reportée.",
+        "next": "La préparation collective reprend en conservant le suivi convenu après cette réévaluation, sans cause supposée."
+      }
+    },
+    {
+      "number": 10,
+      "slug": "nolwenn-inquietude-avant-presentation",
+      "title": "Rumination-régurgitation : quand la prochaine pause inquiète déjà",
+      "description": "L’anticipation prend la place des images à présenter. Nolwenn en parle au suivi et prépare un début simple avec une relève.",
+      "context": "À la préparation de la présentation collective",
+      "topics": [
+        "Trouble de rumination-régurgitation",
+        "Inquiétude anticipée",
+        "Relais dans le travail"
+      ],
+      "clinical_focus": "L’inquiétude avant le rendez-vous collectif",
+      "clinical_intro": "L’anticipation d’une gêne peut rendre un moment collectif difficile avant même qu’il commence. Cette inquiétude vécue ne prouve pas qu’elle cause la rumination-régurgitation. Elle peut être abordée dans le suivi et dans l’organisation du travail, avec des appuis choisis qui ne deviennent ni une exposition imposée ni un test de courage.",
+      "opening": "Après la réévaluation de la difficulté à avaler, Nolwenn conserve le suivi et les consignes convenus. La préparation de la présentation reprend dans ce cadre ; personne ne prétend que le diagnostic de rumination-régurgitation aurait expliqué à lui seul le changement. Le dossier bleu contient maintenant les photographies, les notices et le budget vérifié. Le plan plié a retrouvé sa place au milieu des pages.\n\nNolwenn devrait préparer quelques mots pour la réunion de l’équipe. Elle regarde la fenêtre de la cour et commence une phrase, puis imagine la pause suivante. Dans sa tête, tout le monde remarque son absence, attend son retour et se demande ce qu’elle mange. Elle sait que le dernier déjeuner ne s’est pas déroulé ainsi. Cela n’empêche pas cette version future de prendre toute la place.\n\nInès lui demande ce qu’elle veut dire de la première image. Nolwenn répond qu’elle pourrait peut-être présenter le budget à sa place, puis se corrige : elle voudrait garder les images et laisser les chiffres. « Les fenêtres m’écoutent mieux que les additions. » L’humour revient un instant. Elle note pourtant cette inquiétude pour en parler à la spécialiste. Elle ne veut pas qu’une phrase de présentation serve à cacher ce qui pèse sur elle, ni que toute la réunion devienne une séance de soin improvisée.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Anticiper une difficulté n’en démontre pas la cause",
+          "text": "L’appréhension peut accompagner un trouble et son retentissement social sans constituer une explication causale suffisante. Des associations avec l’anxiété ne permettent pas de conclure que les remontées proviennent simplement du stress. Chez Nolwenn, l’enjeu visible est l’attention absorbée par une rencontre future. Les adaptations proposées portent sur la communication et le travail ; elles restent distinctes du soin et des consignes médicales toujours en cours."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment l’anticipation prend-elle la place du projet ?",
+          "points": [
+            {
+              "heading": "Le futur occupe toute la scène",
+              "text": "L’anticipation d’une gêne peut déplacer l’attention loin de ce que l’on souhaite présenter.",
+              "examples": [
+                "Nolwenn imagine la pause entière autour des remontées.",
+                "Elle oublie la première phrase sur les fenêtres alors que les images sont prêtes."
+              ]
+            },
+            {
+              "heading": "Une inquiétude, pas une cause démontrée",
+              "text": "Ressentir de l’appréhension ne permet pas d’expliquer le trouble par le stress.",
+              "examples": [
+                "Nolwenn peut parler de sa peur sans décider qu’elle produit les symptômes.",
+                "La spécialiste garde l’évaluation des remontées et du suivi distincte de cette anticipation vécue."
+              ]
+            },
+            {
+              "heading": "Un appui de travail possible",
+              "text": "La répartition des interventions peut réduire une contrainte sans devenir une thérapie collective.",
+              "examples": [
+                "Inès peut présenter le budget qu’elle a déjà vérifié.",
+                "Nolwenn conserve la première image et les légendes qu’elle souhaite défendre."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour préparer la rencontre sans en faire une épreuve",
+          "points": [
+            {
+              "heading": "Nommer l’anticipation au suivi",
+              "objective": "Faire connaître une inquiétude qui pèse sur la participation.",
+              "exercise": [
+                "Décrire la scène future que l’on imagine.",
+                "Dire ce que cette anticipation empêche de préparer aujourd’hui.",
+                "En parler à la spécialiste en conservant les consignes issues de la réévaluation."
+              ],
+              "benefit": "Le vécu peut être pris en compte sans conclure que l’inquiétude explique médicalement les remontées."
+            },
+            {
+              "heading": "Préparer seulement la première phrase",
+              "objective": "Retrouver un point d’entrée dans son propre projet.",
+              "exercise": [
+                "Choisir l’image ou l’idée que l’on souhaite présenter d’abord.",
+                "Formuler une phrase simple à son sujet.",
+                "L’essayer avec une collègue sans exiger une répétition parfaite de toute la rencontre."
+              ],
+              "benefit": "Un début concret peut aider à reprendre le travail ; il n’est pas un exercice destiné à faire disparaître les symptômes."
+            },
+            {
+              "heading": "Convenir d’une relève",
+              "objective": "Garder une organisation réalisable si l’échange doit être interrompu.",
+              "exercise": [
+                "Identifier une partie que la collègue connaît déjà.",
+                "Lui demander si elle accepte de la présenter.",
+                "Prévoir une possibilité de sortie et une manière de retrouver les décisions ensuite."
+              ],
+              "benefit": "Un relais explicite peut préserver la contribution de chacun sans transformer la durée de présence en mesure de courage."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Une phrase sur la cour",
+      "ending": "Nolwenn transmet cette inquiétude à la spécialiste dans le suivi prévu. Avec Inès, elle essaie ensuite une première phrase sur la lumière de la cour, rien de plus. Inès accepte de prendre le budget. Nolwenn confirme sa présence avec la possibilité de sortir et de reprendre connaissance des décisions. L’essai à deux lui semble possible. Elle garde cependant le prochain contact professionnel et sait que la répétition avec toute l’équipe pourra se dérouler autrement.",
+      "conclusion": "L’anticipation peut compliquer la participation sans expliquer à elle seule les remontées. Nolwenn en parle au suivi, retrouve une phrase sur son projet et accepte un relais. Ces décisions organisent la rencontre ; elles ne promettent pas une répétition sans difficulté.",
+      "mirror": [
+        "Inès peut demander : « Tu veux garder les images et me laisser le budget ? » Cette proposition part du travail déjà partagé, sans inviter Nolwenn à prouver qu’elle peut tenir toute la réunion. Un proche peut entendre son inquiétude sans répondre que tout vient du stress. La possibilité de sortie conserve son sens même si l’essai à deux paraît facile."
+      ],
+      "sources": [
+        "oms-cddr",
+        "ueg-esnm-2025"
+      ],
+      "continuity": {
+        "choice": "Nolwenn parle de l’anticipation au suivi, prépare sa première phrase et confie le budget à Inès avec une marge de sortie.",
+        "next": "La répétition collective se révèle plus difficile que cet essai à deux."
+      }
+    },
+    {
+      "number": 11,
+      "slug": "nolwenn-fluctuations-et-progres",
+      "title": "Rumination-régurgitation : une journée difficile n’annule pas le parcours",
+      "description": "Les remontées reviennent pendant la répétition. Nolwenn reprend le suivi et ajuste le partage sans abandonner les images.",
+      "context": "Lors de la répétition avec l’équipe",
+      "topics": [
+        "Trouble de rumination-régurgitation",
+        "Fluctuations",
+        "Organisation du projet"
+      ],
+      "clinical_focus": "Des fluctuations malgré les progrès",
+      "clinical_intro": "L’évolution de la rumination-régurgitation peut être continue ou marquée par des fluctuations. Un moment plus difficile après une expérience encourageante ne prouve ni faute personnelle ni inutilité des appuis. La variation se transmet au suivi ; l’organisation d’un projet peut être ajustée sans imposer une répétition jusqu’à la réussite ou modifier seul le soin.",
+      "opening": "Nolwenn reconnaît la première phrase avant même de regarder sa note. Elle l’a répétée avec Inès : la fenêtre de la cour ouvre le parcours parce qu’elle laisse voir à la fois un intérieur et un dehors. Devant toute l’équipe, elle commence avec cette idée. Le dossier bleu est posé au bord de la table, prêt à passer de main en main pour la dernière vérification avant dépôt.\n\nLes remontées reviennent et elle doit interrompre sa présentation. Elle se croyait plus à l’aise après l’essai à deux et le déjeuner où elle avait choisi l’ordre des images. En déplaçant le dossier pour s’écarter, elle le fait tomber ouvert. Les notices glissent sous les chaises. Inès se baisse pour les ramasser, sans annoncer qu’il faudra reprendre depuis le début jusqu’à ce que tout se passe bien.\n\nNolwenn revient quand elle peut reprendre l’échange. Elle voit les feuilles regroupées et pense d’abord que ses efforts ont seulement rendu la chute plus visible. Puis Inès lui demande dans quel ordre remettre les pages. La question ne résout pas les remontées, mais lui rend une décision connue. Nolwenn montre la photographie de la cour. Elle veut conserver les images et les légendes dans la présentation, même si elle ne peut pas assurer toutes les parties aujourd’hui.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Les variations ne sont pas un verdict sur les efforts",
+          "text": "Un trouble dont l’évolution peut fluctuer ne se résume pas à une progression régulière. Le retour d’une difficulté après un essai plus facile ne démontre pas que la personne a échoué ou que tout appui est inutile. Pour Nolwenn, cette variation demande d’être transmise au suivi, en maintenant aussi l’attention aux besoins alimentaires et aux consignes antérieures. La cause ne peut pas être réduite au stress de la répétition."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment une fluctuation modifie-t-elle la participation ?",
+          "points": [
+            {
+              "heading": "Un contraste avec l’essai précédent",
+              "text": "Une situation plus difficile peut surprendre après un moment où la participation semblait plus aisée.",
+              "examples": [
+                "La phrase répétée à deux était venue facilement.",
+                "Devant le groupe, les remontées interrompent de nouveau Nolwenn."
+              ]
+            },
+            {
+              "heading": "Une conclusion trop globale",
+              "text": "Le retour d’une difficulté peut être vécu comme l’annulation de tout le parcours.",
+              "examples": [
+                "Nolwenn pense que le déjeuner partagé ne comptait finalement pas.",
+                "Elle oublie un instant les décisions de travail qu’elle a pourtant menées jusqu’au bout."
+              ]
+            },
+            {
+              "heading": "Un projet encore répartissable",
+              "text": "Une fluctuation peut demander un ajustement concret sans supprimer toute contribution.",
+              "examples": [
+                "Inès peut garder le budget déjà préparé avec elle.",
+                "Nolwenn souhaite conserver les images et leurs légendes."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour ajuster le projet après une journée difficile",
+          "points": [
+            {
+              "heading": "Reprendre le contact de suivi",
+              "objective": "Transmettre la variation sans décider seule de son sens ou de son traitement.",
+              "exercise": [
+                "Décrire le changement et son retentissement au contact professionnel prévu.",
+                "Rappeler les difficultés alimentaires ou autres éléments utiles encore présents.",
+                "Suivre les indications reçues plutôt que renforcer ou abandonner seule le soin."
+              ],
+              "benefit": "Le professionnel peut réexaminer la suite ; une fluctuation ne donne pas en elle-même la conduite à tenir."
+            },
+            {
+              "heading": "Revoir une organisation réalisable",
+              "objective": "Adapter la répétition aux possibilités du moment.",
+              "exercise": [
+                "Dire quelle partie devient difficile à assurer aujourd’hui.",
+                "Demander à l’équipe un relais sur cette partie précise.",
+                "Convenir du format restant sans imposer de recommencer jusqu’à réussir."
+              ],
+              "benefit": "Le projet peut avancer sans que la séance collective serve de test de résistance."
+            },
+            {
+              "heading": "Garder une tâche choisie",
+              "objective": "Préserver une contribution personnelle malgré l’ajustement.",
+              "exercise": [
+                "Nommer la partie que l’on souhaite encore porter.",
+                "Vérifier avec les collègues les conditions pratiques nécessaires.",
+                "L’inscrire dans la version finale du travail partagé."
+              ],
+              "benefit": "Une tâche conservée peut donner une continuité au projet sans devenir une récompense pour avoir maîtrisé les symptômes."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Les pages remises dans l’ordre",
+      "ending": "Nolwenn reprend le contact de suivi prévu et transmet ce qui a changé dans la répétition, sans modifier seule l’accompagnement. Avec l’équipe, elle confirme qu’Inès présentera le budget. Elle garde les photographies et les légendes, qu’elle reprend dans un format réalisable ce jour-là. Les pages sont assemblées en version finale. Le dossier peut être déposé. Le moment collectif prévu après la remise reste une invitation, et personne ne lui demande de promettre une présence sans interruption.",
+      "conclusion": "Une journée difficile peut coexister avec des acquis de soin, de communication ou de travail. Nolwenn transmet la variation et ajuste la répartition des tâches. La version finale existe sans que cette réussite efface les besoins de suivi ou transforme la répétition en épreuve.",
+      "mirror": [
+        "Inès ramasse les feuilles et peut demander : « Tu veux garder les images, comme prévu ? » Ce geste laisse une possibilité sans exiger un retour immédiat à la performance. Les proches peuvent reconnaître la difficulté et faciliter le contact de suivi. Ils n’ont pas à conclure que Nolwenn a manqué de volonté ou à lui faire recommencer pour prouver le contraire."
+      ],
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "aga-rumination-2018"
+      ],
+      "continuity": {
+        "choice": "Nolwenn transmet la fluctuation au suivi ; Inès conserve le budget et elle garde images et légendes, puis le dossier final est assemblé.",
+        "next": "Le dossier peut être déposé ; la rencontre qui suivra reste choisie et ne constitue pas un examen de santé."
+      }
     }
   ]
 }

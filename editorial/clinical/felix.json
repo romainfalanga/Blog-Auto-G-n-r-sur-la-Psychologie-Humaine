@@ -1,0 +1,429 @@
+{
+  "character_id": "felix",
+  "bio": "Félix, 9 ans, est élève et se passionne pour les cartes. Son Encoprésie est déjà diagnostiquée ; les accidents involontaires, associés chez lui à une constipation évaluée, compliquent sa participation à l’école. Quand les passages aux toilettes deviennent une question de discipline, il se retire. Sa classe prépare une sortie à pied et il veut choisir son rôle de lecteur de carte. Avec son parent, sa pédiatre et l’animatrice scolaire qu’il a choisie, il retrouve des possibilités concrètes sans devoir prouver qu’aucun accident ne surviendra.",
+  "profile_topics": [
+    "Encoprésie",
+    "constipation et débordement",
+    "accidents involontaires",
+    "intimité et honte",
+    "participation scolaire"
+  ],
+  "episodes": [
+    {
+      "number": 1,
+      "slug": "felix-fuite-percue-trop-tard",
+      "title": "Encoprésie : une fuite perçue trop tard en classe",
+      "description": "Une fuite interrompt la carte de Félix. L’aide discrète lui permet de quitter la table sans avoir à prouver qu’il pouvait prévoir l’accident.",
+      "context": "La préparation de la carte en classe",
+      "topics": [
+        "Perception tardive",
+        "Aide discrète",
+        "Activité interrompue"
+      ],
+      "clinical_intro": "Dans certaines présentations de l’encoprésie avec constipation, l’enfant peut percevoir tardivement une fuite, voire ne pas la sentir survenir. L’absence de demande préalable ne prouve donc pas un refus d’aller aux toilettes. Pour Félix, dont le diagnostic est déjà établi, cette surprise interrompt un travail qu’il voulait poursuivre avec sa classe.",
+      "opening": "Félix a posé sa règle exactement entre l’école et le jardin du moulin. Sur le dessin de madame Perrin, la route ressemble à une ficelle ; sur le sien, elle aura des angles. Il préfère garder le trajet au crayon jusqu’à ce que les adultes aient vérifié les rues. À neuf ans, il connaît déjà trois façons de dessiner une flèche, et trouve que celle du tableau prend beaucoup trop de place. Noé lui demande où sera le petit pont. Félix lève un doigt : il faut d’abord trouver le bon bord de la feuille.\n\nPuis il s’arrête. Il vient de découvrir un accident dans ses vêtements. Il n’avait pas senti qu’il devait quitter la table. Son encoprésie est connue, et la constipation qui l’accompagne est suivie par sa pédiatre ; pourtant, la surprise reste entière aujourd’hui. Il rabat une moitié du plan sur l’autre et cache son crayon dans sa main.\n\nLila passe près de la table. Avec son père, Félix l’a choisie comme adulte à qui demander de l’aide à l’école. Il regarde la porte, puis ses chaussures. Elle s’accroupit assez près pour parler doucement : « Tu veux qu’on aille à l’endroit prévu ? » Il acquiesce. Elle ne demande pas pourquoi il n’a rien dit plus tôt. Madame Perrin garde la classe avec elle. Le pont attendra ; Félix voudrait surtout que personne ne retourne sa feuille pendant son absence.",
+      "ending_title": "Le trajet reste au crayon",
+      "ending": "À son retour, Félix retrouve la règle à côté du plan fermé. Lila s’est occupée discrètement des affaires avec lui. « Je le finirai chez moi », dit-il. Il plie la feuille en quatre, sans repasser le trajet au feutre. Noé demande seulement s’il faut garder de la place pour le pont. Félix indique un coin libre. Ce soir, il montrera ce coin à son père ; la carte peut encore changer.",
+      "conclusion": "Une fuite perçue tardivement ne permet pas de conclure que l’enfant a ignoré volontairement son besoin. Ici, la réponse discrète rend l’aide possible et conserve le dessin, pendant que la prise en charge se poursuit.",
+      "mirror": [
+        "Devant la feuille refermée, vous pouvez avoir envie de demander pourquoi Félix n’a pas prévenu. Lila commence par ce qui peut être fait : « Je peux t’aider maintenant. » Le parent pourra transmettre au soignant les observations utiles sans exiger une explication impossible sur le moment. Préserver la carte et le matériel montre aussi que l’enfant reste attendu dans son activité."
+      ],
+      "clinical_focus": "Une fuite perçue trop tard",
+      "diagnostic_stage": "known",
+      "sources": [
+        "oms-cddr",
+        "nice-cg99",
+        "nhs-soiling"
+      ],
+      "continuity": {
+        "choice": "Félix accepte l’aide de Lila puis emporte son plan plié en quatre, avec le trajet au crayon.",
+        "next": "À la maison, le plan reste sur la table ; Félix parlera de ce qui lui fait retarder certains passages aux toilettes."
+      },
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Ne pas sentir la fuite arriver",
+          "text": "La perception d’une fuite peut être absente ou tardive lorsqu’une constipation s’accompagne de débordement. Ce mécanisme a été évalué chez Félix ; il ne se déduit pas de son silence à la table. Son intérêt pour le dessin n’explique pas à lui seul l’accident. Lui demander d’être davantage attentif ne garantit pas qu’il pourra le prévoir. L’enjeu immédiat est de répondre au besoin découvert maintenant, puis de poursuivre le suivi individualisé."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment cette surprise interrompt-elle la classe ?",
+          "points": [
+            {
+              "heading": "Découvrir après coup",
+              "text": "Le moment où l’enfant comprend ce qui arrive peut suivre celui de la fuite. Ce décalage change ce qu’un adulte peut raisonnablement lui demander.",
+              "examples": [
+                "Félix dessinait sans éprouver le besoin de sortir.",
+                "Il s’arrête soudain alors que son trajet reste inachevé."
+              ]
+            },
+            {
+              "heading": "Chercher une façon de demander",
+              "text": "La difficulté à appeler une adulte devant les autres ajoute un obstacle pratique à l’accident involontaire.",
+              "examples": [
+                "Il regarde la porte sans prononcer le nom du trouble.",
+                "Son accord à voix basse suffit pour rejoindre Lila."
+              ]
+            },
+            {
+              "heading": "Perdre momentanément sa place",
+              "text": "L’interruption touche une activité importante pour l’enfant, au-delà des affaires à changer.",
+              "examples": [
+                "Le petit pont n’est pas encore placé sur la feuille.",
+                "Félix ferme son plan pour que la classe ne poursuive pas sans lui."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour aider après une fuite découverte tardivement",
+          "points": [
+            {
+              "heading": "1. Répondre à l’écart",
+              "objective": "Permettre une demande sans interrogatoire public.",
+              "exercise": [
+                "L’adulte rejoint l’enfant sans attirer le groupe.",
+                "Il propose une aide courte, avec les mots déjà convenus.",
+                "Il accepte un signe de tête sans réclamer le récit de l’accident."
+              ],
+              "benefit": "Une réponse privée peut réduire l’obstacle à l’aide, sans rendre les fuites prévisibles."
+            },
+            {
+              "heading": "2. Rendre l’aide accessible",
+              "objective": "Transformer l’accord préalable en assistance réelle.",
+              "exercise": [
+                "Lila vérifie que madame Perrin garde le groupe.",
+                "Elle accompagne Félix vers le lieu convenu et disponible.",
+                "Elle assure l’accès aux affaires et à l’aide nécessaires en préservant son intimité."
+              ],
+              "benefit": "L’organisation adulte évite que l’enfant doive résoudre seul un besoin matériel immédiat."
+            },
+            {
+              "heading": "3. Garder le travail disponible",
+              "objective": "Permettre une reprise qui respecte le choix de l’enfant.",
+              "exercise": [
+                "L’adulte réserve la feuille à sa place.",
+                "Au retour, il propose de reprendre ou de ranger.",
+                "Il transmet seulement les informations utiles au parent selon leur organisation."
+              ],
+              "benefit": "L’interruption n’efface pas le projet ; cette adaptation ne remplace pas les soins."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "slug": "felix-douleur-retenue",
+      "title": "La douleur peut entretenir la retenue des selles",
+      "description": "Devant sa carte, Félix dit qu’il préfère attendre par peur d’avoir mal. Samuel écoute et contacte la pédiatre qui suit sa constipation.",
+      "context": "Le plan sur la table de la maison",
+      "topics": [
+        "Douleur",
+        "Retenue",
+        "Échange avec la pédiatre"
+      ],
+      "clinical_intro": "La crainte d’une selle douloureuse peut amener un enfant à retarder le passage aux toilettes et entretenir la constipation. Cette retenue ne signifie pas qu’il choisit les accidents ultérieurs. Chez Félix, comprendre ce qui fait peur sert à transmettre une difficulté réelle à la pédiatre, sans improviser de traitement.",
+      "opening": "Le plan plié en quatre ne veut plus rester plat. Samuel pose une tasse vide sur un coin ; Félix proteste, parce qu’elle cache le jardin du moulin. Ils la déplacent sur la marge. À la maison, le dessin semble plus petit que sur la table de classe. Il faut encore ajouter le pont, et son père cherche une photographie du chemin pour ne pas le mettre du mauvais côté.\n\nFélix a posé son doigt sur la rivière. Il se raidit, puis retire sa main. Samuel lui demande s’il veut une pause. « Je préfère attendre », répond-il. Son père croit d’abord qu’il parle de la légende. Il montre les trois petits carrés à compléter, puis comprend à son visage que ce n’est pas cela. Félix se souvient d’une selle douloureuse. Il n’a pas envie que cela recommence en allant aux toilettes.\n\nSamuel repose le feutre. La constipation est déjà prise en charge, mais cette peur n’a pas disparu parce qu’un suivi existe. « Tu peux me dire ce qui t’inquiète, ou juste me dire que ça fait mal. » Félix ne donne pas une longue explication. Il dit que la dernière fois l’a fait hésiter depuis. Son père écoute sans lui demander de finir le pont pour se changer les idées. La tasse tient toujours la feuille, et le trait de la rivière reste coupé au milieu.",
+      "ending_title": "Un pont après la pause",
+      "ending": "Samuel appelle le cabinet pour signaler les douleurs et organiser un point avec la docteure Vignal. Il note les indications qui lui sont données. Quand il revient à la table, Félix a déplacé la tasse. « Là, on peut mettre le pont. » Ils l’ajoutent après cette pause, sans finir la légende. La peur n’a pas été effacée par la conversation, et personne ne transforme la soirée en preuve de réussite aux toilettes.",
+      "conclusion": "Le report peut être lié à l’anticipation d’une douleur, et non à un manque de bonne volonté. Écouter puis transmettre permet de relier cette difficulté au suivi, tandis que le projet de carte garde sa place.",
+      "mirror": [
+        "Samuel aurait pu répéter qu’il suffit d’aller aux toilettes quand on en a besoin. Il choisit plutôt : « J’ai compris que tu as peur d’avoir mal ; je vais en parler au cabinet. » Vous pouvez conserver cette séparation entre écouter et traiter. Vous n’avez pas à faire disparaître la peur avant de demander de l’aide, ni à obtenir une selle pour juger la conversation utile."
+      ],
+      "clinical_focus": "La douleur entretient la retenue",
+      "diagnostic_stage": "known",
+      "sources": [
+        "oms-cddr",
+        "nice-cg99",
+        "niddk-constipation"
+      ],
+      "continuity": {
+        "choice": "Samuel contacte le cabinet et suit ses indications ; après une pause Félix ajoute le pont au plan.",
+        "next": "Le rendez-vous est organisé ; une fuite d’aspect inhabituel amènera une question précise sur le débordement."
+      },
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "La douleur et le report peuvent s’entretenir",
+          "text": "Éviter une défécation douloureuse peut favoriser la rétention et entretenir une constipation. L’enfant cherche alors à éviter une expérience pénible ; cela ne fait pas de lui l’auteur volontaire d’une fuite ultérieure. Dans la scène, Samuel entend un motif de report qui mérite d’être signalé au suivi. Il ne peut ni attribuer toute douleur au même mécanisme ni décider seul d’un changement de traitement. L’écoute accompagne l’évaluation médicale, elle ne la remplace pas."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment la crainte de la douleur pousse-t-elle à attendre ?",
+          "points": [
+            {
+              "heading": "Se souvenir d’une expérience pénible",
+              "text": "Un épisode douloureux peut influencer le passage suivant, même si les adultes pensent le problème déjà pris en charge.",
+              "examples": [
+                "Félix évoque la dernière selle qui lui a fait mal.",
+                "Il ne répond pas par une question sur le dessin, mais par le souhait d’attendre."
+              ]
+            },
+            {
+              "heading": "Reporter pour éviter de souffrir",
+              "text": "Le report a ici un sens pour l’enfant, sans être une solution suffisante à la constipation.",
+              "examples": [
+                "Sa main quitte la rivière quand la question des toilettes apparaît.",
+                "Il préfère différer le passage plutôt que risquer de retrouver la douleur."
+              ]
+            },
+            {
+              "heading": "Laisser le parent interpréter trop vite",
+              "text": "Une réponse brève peut être comprise à tort comme une distraction ou un refus de collaborer.",
+              "examples": [
+                "Samuel croit d’abord que Félix veut attendre pour la légende.",
+                "Il repose le feutre lorsqu’il comprend que la difficulté concerne son corps."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour répondre à la peur d’avoir mal",
+          "points": [
+            {
+              "heading": "1. Accueillir une explication courte",
+              "objective": "Comprendre la difficulté sans imposer de récit détaillé.",
+              "exercise": [
+                "Samuel suspend la demande de terminer le dessin.",
+                "Il demande si Félix veut dire ce qui l’inquiète.",
+                "Il accepte quelques mots et n’exige pas de description supplémentaire."
+              ],
+              "benefit": "L’enfant peut faire connaître une douleur sans devoir argumenter pour être cru."
+            },
+            {
+              "heading": "2. Préserver l’accès et l’intimité",
+              "objective": "Éviter que l’organisation ajoute une difficulté au besoin.",
+              "exercise": [
+                "Le parent garde les toilettes accessibles.",
+                "Il demande quel soutien pratique est souhaité dans le cadre prévu.",
+                "Il respecte l’intimité, sans assise forcée ni consigne de poussée."
+              ],
+              "benefit": "Un environnement disponible soutient le plan de soins, sans garantir une selle indolore."
+            },
+            {
+              "heading": "3. Signaler la douleur au suivi",
+              "objective": "Faire examiner une difficulté qui concerne la prise en charge.",
+              "exercise": [
+                "Samuel note brièvement les paroles de Félix et le changement observé.",
+                "Il contacte le cabinet selon le suivi en place.",
+                "Il suit les indications reçues sans ajuster lui-même le traitement."
+              ],
+              "benefit": "Le professionnel peut décider des suites appropriées à la situation réelle."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "slug": "felix-comprendre-debordement",
+      "title": "Des fuites molles peuvent accompagner une constipation",
+      "description": "Samuel s’interroge sur une fuite plus molle. La pédiatre réévalue la situation et explique le débordement observé chez Félix.",
+      "context": "Le début du rendez-vous pédiatrique",
+      "topics": [
+        "Débordement",
+        "Apparence des selles",
+        "Explication médicale"
+      ],
+      "clinical_intro": "Une fuite d’aspect mou n’exclut pas une constipation : des selles peuvent passer autour d’une accumulation. Ce débordement fait partie des mécanismes possibles de certaines encoprésies, pas de toutes. Son identification relève d’une évaluation médicale. Pour Félix et Samuel, l’explication évite de tirer une conclusion à partir de la seule apparence.",
+      "opening": "Avant le rendez-vous organisé avec le cabinet, Samuel a remarqué une nouvelle fuite, plus molle que les précédentes. Il a pensé au mot diarrhée, puis l’a gardé sous forme de question sur son téléphone. Félix a entendu cette hésitation. Dans la salle d’attente, il tourne le bord plié de sa carte à travers la poche de son manteau. Le petit pont y est enfin dessiné, mais personne ne semble avoir besoin d’un pont aujourd’hui.\n\nLa docteure Vignal les reçoit ensemble. Samuel décrit le changement, puis ajoute : « Je ne sais pas si cela veut dire autre chose. » La pédiatre reprend les informations nécessaires et réévalue la situation. Félix répond quand elle lui parle ; il laisse aussi son père compléter ce qu’il a observé. Il connaît déjà le nom de son trouble, mais ne comprend pas pourquoi on parle encore de constipation avec des selles aussi molles.\n\nLa médecin explique le débordement retenu dans son cas : des selles peuvent passer autour de celles qui se sont accumulées. Elle utilise des mots ordinaires, sans lui demander d’imaginer un corps cassé. Samuel range son téléphone un instant pour écouter. Félix cherche encore si cette explication contient un reproche. Sa main reste dans sa poche ; il frotte le pli de la feuille et prépare une question qu’il n’ose pas encore poser.",
+      "ending_title": "La question avant la carte",
+      "ending": "« Ça veut dire que je l’ai fait exprès ? » demande enfin Félix. La docteure Vignal répond que les accidents décrits chez lui sont involontaires. Samuel garde les consignes de suivi avec les documents du cabinet. Félix sort alors sa carte. Il montre le jardin du moulin, pas la rivière : « Et pour la sortie, on fait comment ? » La consultation continue ; la carte ouvre une question pratique, sans remplacer celles qui concernent la santé.",
+      "conclusion": "Une fuite molle ne permet pas, à elle seule, de conclure à une diarrhée ou à un débordement. L’évaluation donne ici une explication adaptée à Félix ; les décisions de soin restent dans ce cadre.",
+      "mirror": [
+        "Quand l’apparence vous surprend, une question comme celle de Samuel est utile : « Voici ce qui a changé ; comment faut-il le comprendre ? » Vous pouvez aussi laisser l’enfant demander si on lui reproche quelque chose. Une réponse claire sur ses accidents involontaires compte davantage qu’une explication compliquée. Le proche transmet et écoute ; il n’essaie pas un autre traitement pour vérifier son hypothèse."
+      ],
+      "clinical_focus": "Comprendre le débordement",
+      "diagnostic_stage": "known",
+      "sources": [
+        "oms-cddr",
+        "nice-cg99",
+        "nhs-soiling"
+      ],
+      "continuity": {
+        "choice": "Félix pose sa question sur la volonté puis sort le plan ; Samuel conserve les consignes de la pédiatre.",
+        "next": "La consultation se poursuit sur ce qui doit être décrit au suivi, avant que les adultes organisent les aspects scolaires."
+      },
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Une apparence qui ne raconte pas tout",
+          "text": "Le débordement correspond au passage de selles autour d’une accumulation dans une présentation avec constipation. L’apparence molle d’une fuite peut ainsi tromper la famille. Elle ne suffit toutefois pas à établir ce mécanisme : toutes les selles molles ne sont pas un débordement, et toutes les formes d’encoprésie ne comportent pas de rétention. Pour Félix, la pédiatre relie l’explication à son évaluation actuelle. Ce lien protège contre une étiquette et une réponse thérapeutique décidées à la maison sur un seul signe."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment l’apparence d’une fuite peut-elle prêter à confusion ?",
+          "points": [
+            {
+              "heading": "Croire que deux observations s’excluent",
+              "text": "Constipation et fuite molle peuvent coexister dans cette présentation. Le vocabulaire quotidien peut masquer ce lien.",
+              "examples": [
+                "Samuel hésite à employer le mot diarrhée avant la consultation.",
+                "Félix ne comprend pas pourquoi la médecin reparle de constipation."
+              ]
+            },
+            {
+              "heading": "Chercher un mécanisme avec le professionnel",
+              "text": "L’explication prend sens avec les données cliniques, pas avec une photographie isolée ou une supposition familiale.",
+              "examples": [
+                "La pédiatre reprend l’histoire récente avant de répondre.",
+                "Elle décrit le passage de selles autour de l’accumulation évaluée chez Félix."
+              ]
+            },
+            {
+              "heading": "Entendre une accusation derrière les mots",
+              "text": "Comprendre un mécanisme n’efface pas aussitôt la crainte d’avoir fait quelque chose de mal.",
+              "examples": [
+                "Félix garde sa question pendant que son père écoute.",
+                "Il manipule le pli de sa carte au lieu de la montrer immédiatement."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour clarifier une fuite inhabituelle au suivi",
+          "points": [
+            {
+              "heading": "1. Décrire avant de nommer",
+              "objective": "Donner au soignant les faits utiles sans conclure.",
+              "exercise": [
+                "Le parent indique ce qui a changé dans les fuites.",
+                "Il précise ce qu’il a observé et ce que l’enfant a dit.",
+                "Il présente son interprétation comme une question."
+              ],
+              "benefit": "La description aide l’évaluation sans transformer le parent en diagnosticien."
+            },
+            {
+              "heading": "2. Demander une reformulation",
+              "objective": "Vérifier ce que l’enfant a compris de l’explication.",
+              "exercise": [
+                "Samuel laisse une place à la question de Félix.",
+                "Il demande à la pédiatre de redire les mots restés obscurs.",
+                "Il vérifie avec Félix s’il souhaite encore poser une question."
+              ],
+              "benefit": "Un échange compréhensible peut réduire le malentendu, sans exiger une leçon récitée."
+            },
+            {
+              "heading": "3. Garder les décisions dans le suivi",
+              "objective": "Éviter un traitement choisi d’après l’apparence seule.",
+              "exercise": [
+                "Le parent demande quelles suites la pédiatre retient.",
+                "Il conserve les consignes individualisées données au rendez-vous.",
+                "Il contacte le cabinet en cas de nouvelle difficulté selon les indications reçues."
+              ],
+              "benefit": "Cette continuité évite de substituer une interprétation domestique à la prise en charge."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "slug": "felix-diagnostic-bilan",
+      "title": "Un diagnostic connu ne remplace pas l’évaluation des changements",
+      "description": "Au même rendez-vous, la pédiatre distingue les symptômes observés des suppositions. Samuel prépare le suivi et les échanges utiles avec l’école.",
+      "context": "La suite de la consultation",
+      "topics": [
+        "Réévaluation",
+        "Changements observés",
+        "Informations utiles"
+      ],
+      "clinical_intro": "Un diagnostic d’encoprésie déjà établi ne permet pas d’attribuer automatiquement toute douleur ou tout changement à ce trouble. L’évaluation médicale tient compte de l’histoire récente, des soins suivis et des autres causes possibles. La consultation de Félix montre comment un parent peut décrire sans conclure, puis organiser la suite.",
+      "opening": "La carte est maintenant ouverte sur le bureau de la docteure Vignal. Félix a choisi de la laisser là pendant la suite du rendez-vous. Son père revient aux douleurs signalées au cabinet. « Alors, les maux de ventre, c’est forcément la même chose ? » Il aimerait pouvoir ranger toutes les questions dans une seule réponse et passer à l’organisation de la sortie.\n\nLa pédiatre reprend avec lui ce qui s’est passé récemment, ce qui a été suivi comme prévu et ce qui a été difficile. Elle poursuit son évaluation clinique. Elle ne réduit pas les douleurs de Félix à sa peur du jardin du moulin, ni à son goût pour les cartes qui le ferait attendre trop longtemps. Quand elle lui demande ce qu’il veut préciser, il désigne son ventre, puis dit que cela ne concerne pas seulement les moments où l’école parle de la marche.\n\nSamuel écoute cette distinction. Il avait mélangé dans ses notes une observation et son explication. Il les sépare maintenant : d’un côté ce que Félix a dit, de l’autre la question qu’il voulait poser. La docteure Vignal regarde ensuite les informations à transmettre pour la vie scolaire. Félix ramène un coin du plan vers lui. Il veut bien qu’on organise une aide, mais ne souhaite pas que tous les mots du rendez-vous arrivent dans sa classe.",
+      "ending_title": "Deux feuilles qui n’ont pas la même destination",
+      "ending": "La docteure Vignal convient avec Samuel des suites de la prise en charge individualisée. Il sait quel interlocuteur contacter pour le suivi. Sur une feuille distincte, il retient les besoins pratiques dont il parlera avec Lila. Félix replie sa carte : « Celle-là, on peut la montrer. » Son père l’écoute et garde les notes de santé séparées. Les toilettes réellement accessibles à l’école restent à vérifier avec les adultes concernés.",
+      "conclusion": "Décrire un changement et demander son évaluation protège contre les explications trop rapides. Dans cette consultation, le diagnostic connu guide le suivi sans fermer les autres questions ; les besoins scolaires sont préparés séparément.",
+      "mirror": [
+        "Samuel cherche une réponse simple parce qu’il veut aider. Vous pouvez pourtant dire au professionnel : « Je pensais que tout venait du même problème ; voici ce que j’ai réellement observé. » Cette correction n’est pas un échec parental. Pour l’école, demandez quelles informations sont utiles et parlez-en avec l’enfant ; transmettre tout le rendez-vous n’est pas nécessaire pour prévoir une aide discrète."
+      ],
+      "clinical_focus": "Le diagnostic ne remplace pas le bilan",
+      "diagnostic_stage": "known",
+      "sources": [
+        "oms-cddr",
+        "nice-cg99",
+        "niddk-constipation"
+      ],
+      "continuity": {
+        "choice": "Samuel clarifie les suites du suivi et prépare avec Félix les seules informations pratiques destinées à Lila.",
+        "next": "Les besoins pratiques sont clarifiés ; Lila et l’équipe doivent vérifier les toilettes effectivement accessibles."
+      },
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Réévaluer plutôt que tout expliquer par le trouble",
+          "text": "La présence d’une encoprésie ne dispense pas d’examiner les causes médicales possibles d’un changement ni les effets éventuels des traitements. La pédiatre articule ces éléments dans son évaluation ; la famille n’a pas à les trancher. Une conclusion valable aujourd’hui n’est pas une garantie pour tout symptôme futur. Des douleurs abdominales continues, des vomissements avec ventre gonflé ou des symptômes neurologiques nouveaux demandent une évaluation médicale urgente, sans attendre une activité scolaire. Aucun de ces signes n’est présent dans cette scène."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment distinguer une observation d’une interprétation ?",
+          "points": [
+            {
+              "heading": "Rapporter ce qui a changé",
+              "text": "Les mots de l’enfant et les faits observés éclairent la consultation sans fournir à eux seuls une cause.",
+              "examples": [
+                "Samuel rapporte les douleurs qui ont motivé son appel.",
+                "Félix précise qu’elles ne se limitent pas aux discussions sur la sortie."
+              ]
+            },
+            {
+              "heading": "Reconnaître une supposition",
+              "text": "Une explication familière peut rassurer le parent tout en réduisant trop vite le problème.",
+              "examples": [
+                "Samuel voudrait rattacher tous les maux de ventre au diagnostic connu.",
+                "La pédiatre reprend les soins suivis au lieu de valider cette conclusion globale."
+              ]
+            },
+            {
+              "heading": "Préparer deux transmissions différentes",
+              "text": "L’information nécessaire au soin est plus large que celle nécessaire à une aide scolaire.",
+              "examples": [
+                "Les détails médicaux restent dans le dossier et l’échange avec le cabinet.",
+                "L’équipe scolaire a besoin de connaître les modalités pratiques d’aide retenues."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour préparer un suivi utile",
+          "points": [
+            {
+              "heading": "1. Faire une description courte",
+              "objective": "Rendre l’échange clinique plus précis.",
+              "exercise": [
+                "Samuel note le changement et le moment où il l’a remarqué.",
+                "Il distingue les paroles de Félix de ses propres suppositions.",
+                "Il apporte les informations sur les soins suivis demandées par la médecin."
+              ],
+              "benefit": "Une description claire peut faciliter les décisions sans devenir un questionnaire d’autodiagnostic."
+            },
+            {
+              "heading": "2. Clarifier quand rappeler",
+              "objective": "Savoir à qui adresser une nouvelle difficulté.",
+              "exercise": [
+                "Le parent demande quels changements doivent conduire à recontacter le cabinet.",
+                "Il fait préciser ce qui nécessite une évaluation urgente.",
+                "Il garde les indications dans les documents de suivi."
+              ],
+              "benefit": "Les relais sont identifiés au lieu d’attendre systématiquement le prochain rendez-vous."
+            },
+            {
+              "heading": "3. Limiter l’information scolaire à son usage",
+              "objective": "Organiser l’aide tout en respectant l’intimité.",
+              "exercise": [
+                "Samuel et la pédiatre identifient les besoins pratiques à communiquer.",
+                "Ils associent Félix à la discussion sur les destinataires.",
+                "Samuel convient d’un échange avec Lila sur ces besoins."
+              ],
+              "benefit": "L’école peut préparer son aide sans recevoir tout le dossier médical."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
