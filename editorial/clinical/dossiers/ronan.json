@@ -1,0 +1,42 @@
+{
+  "references": {
+    "oms-mms-6d30": {
+      "title": "OMS, CIM-11 MMS 2026-01, 6D30, Trouble exhibitionniste ; lien canonique",
+      "url": "https://icd.who.int/browse/2026-01/mms/fr#141881468"
+    },
+    "oms-cddr-hrb": {
+      "title": "OMS, CDDR 2024, ISBN 9789240077263, pages imprimées 571–574 ; original OMS déposé auprès du HRB",
+      "url": "https://www.drugsandalcohol.ie/41519/1/WHO_Clinical_descriptions_and_diagnostic_requirements_ICD-11.pdf"
+    },
+    "wfsbp-2020": {
+      "title": "Thibaut et al., WFSBP 2020 guidelines for the pharmacological treatment of paraphilic disorders, DOI 10.1080/15622975.2020.1744723 ; sections 5, 6.1.2, 6.2 et 7",
+      "url": "https://www.wfsbp.org/_Resources/Persistent/d/f/1/8/df18dc6d81e71b6d840ceee910b976dfcdc13274/Thibaut_TG_Paraphilias_2020.pdf"
+    }
+  },
+  "dossier": {
+    "name": "Trouble exhibitionniste",
+    "aliases": [
+      "6D30",
+      "Exhibitionistic disorder"
+    ],
+    "references": [
+      "oms-cddr",
+      "oms-mms-6d30",
+      "oms-cddr-hrb",
+      "wfsbp-2020"
+    ],
+    "points": [
+      "Vérification individuelle du 9 novembre 2026 : page de publication OMS et PDF original CDDR téléchargé au dépôt HRB ; pages imprimées 571–574 lues. WFSBP : ancienne URL wp-content en erreur404 ; lien actuel retrouvé depuis la page officielle Treatment Guidelines and Consensus Papers, sections citées lues. Le lien MMS est conservé comme lien canonique, sans extraction prétendue de son interface dynamique. Les formulations françaises sont des paraphrases de travail, non une traduction officielle.",
+      "CDDR p.571–572 : le diagnostic suppose un schéma durable, ciblé et intense, avec mise en acte ou détresse marquée. Une conduite isolée ne suffit pas. Arrestation, incarcération ou retentissement professionnel ne sont pas nécessaires au diagnostic. Direction retenue : Ronan a déjà consulté volontairement et son diagnostic est établi ; aucun acte antérieur ni statut pénal n’est inventé. La série montre sa détresse et ses décisions préventives, jamais le contenu sexuel de ses pensées.",
+      "Définition clinique sobre, CDDR p.572 : le schéma caractéristique concerne une excitation sexuelle persistante centrée sur l’exposition de ses organes génitaux à une personne qui ne s’y attend pas, généralement sans recherche de contact plus rapproché. Cette phrase explicative peut nommer le trouble ; elle n’autorise aucune mise en scène, description corporelle ou procédure. Une simple pensée intrusive, une crainte de commettre quelque chose ou une image mentale isolée ne suffisent pas à ce diagnostic. Ne pas confondre une obsession redoutée et le schéma d’excitation évalué chez Ronan ; ne pas poser non plus un TOC à distance.",
+      "CDDR p.573 : les pratiques consenties sont explicitement hors de cette catégorie ; une nudité admise dans son contexte culturel ne suffit pas non plus. Ne pas confondre préférence consensuelle, goût des photographies, métier d’archiviste et trouble. Le consentement sexuel n’est ni une autorisation d’image ni un accord pour entendre un récit intime : le catalogue reste un projet professionnel indépendant.",
+      "CDDR p.574 : trouble du comportement sexuel compulsif distinct ; certaines possibilités de contrôle peuvent exister dans 6D30 et ne prouvent ni disparition du trouble ni diagnostic additionnel. Des conduites désinhibées peuvent avoir d’autres explications, notamment substances, épisode maniaque ou démence ; ces frontières n’ajoutent aucune comorbidité à Ronan. Une modification de son sommeil ou de son humeur est évaluée pour elle-même.",
+      "CDDR p.572–573 : retentissements relationnels et professionnels possibles, évolution variable au fil du temps. Ni un projet réussi ni une période plus facile ne démontrent la disparition du trouble. Ne pas transformer l’âge de37ans en prédiction d’amélioration, ni raconter une évolution obligatoire vers la violence.",
+      "WFSBP2020, §5 et7 : évaluation individualisée des besoins, risque, santé associée, ressources et réponse au soin. §6.2 : travail psychothérapeutique possible sur pensées, émotions, interprétations et réponses. Ce cadre soutient un recours spécialisé, pas les exercices publics comme traitement validé. §5 : participation éventuelle de proches ; jamais obligation de surveillance privée. §6.1.2 : petits échantillons, études souvent non contrôlées, populations hétérogènes fréquemment judiciaires, mesures et suivis variables. Les résultats ne prédisent pas ceux de Ronan consultant volontaire. Le document concerne surtout des hommes adultes et principalement les traitements pharmacologiques ; aucun programme nommé ni taux d’efficacité n’est transposé. Le choix du soin reste clinique et éclairé, sans prescription dans la série.",
+      "Limites éditoriales : les appuis proposés (préparer une question, demander un relais, clarifier une tâche, limiter une participation) sont des arrangements fictifs individualisés, sans efficacité thérapeutique revendiquée. Pas d’exposition, de test de contrôle, de description d’acte, de stimulus, de technique sexuelle, de protocole ou de médicament nommé. Une crainte de ne plus pouvoir garantir la sécurité conduit à interrompre le projet concerné et solliciter immédiatement une aide professionnelle adaptée ; un danger immédiat appelle les services d’urgence locaux. Un proche peut se retirer et ne promet jamais le secret absolu.",
+      "Architecture des douze aspects : détresse, persistance, consentement, évaluation du risque, capacité de contrôle et diagnostic différentiel, santé associée, rationalisation, régulation émotionnelle, retentissement relationnel, décision de soin, fluctuations, fonctionnement professionnel. Les enjeux de soin et de participation ne sont pas présentés comme douze symptômes. Trois appuis par article futur : communication, organisation et relais professionnel, adaptés à l’aspect précis.",
+      "Les obligations professionnelles sont celles du projet fictif : photographies déjà autorisées, circuit de validation des notices, accord explicite sur les tâches et respect des limites posées. Aucune règle de droit français, obligation de signalement détaillée, autorisation médicale de travailler ou expertise d’aptitude n’est inventée. Le médecin n’est pas le garant absolu de la sécurité d’un événement."
+    ]
+  },
+  "direction": "Ronan,37ans, archiviste dans une société de transports, termine un catalogue de photographies autorisées de gares. Il aime retrouver une date grâce à une enseigne et supporte mal une légende approximative ; ces goûts ne sont pas des symptômes. La chemise grise du catalogue porte le titre Gares en correspondance. Claire, collègue éditrice, ne connaît que les contraintes pratiques qu’il choisit de partager et ne reçoit aucun dossier médical. Marc, ami adulte choisi, accepte un rôle limité ; la docteure Leclerc et son équipe spécialisée assurent les soins. Le diagnostic précède la série. Aucun antécédent pénal, acte, scénario sexuel, victime fictive ou traumatisme causal n’est ajouté. Sur plusieurs semaines, Ronan achève les notices puis prépare une rencontre professionnelle hybride. Après une réévaluation, il opte pour une intervention à distance depuis un bureau réservé, sans public sur place ; cette modalité n’est ni une sanction ni une garantie thérapeutique. Les limites des autres restent valables même s’il est déçu. Au dernier épisode, le catalogue est remis et sa présentation accomplie ; il reprend le suivi et propose un index des anciennes lignes. Sa voix est précise et sobre, parfois sèche devant une mauvaise date ; il apprend surtout à formuler des demandes auxquelles on peut répondre non."
+}

@@ -1,0 +1,184 @@
+{
+  "schema_version": 1,
+  "character_id": "remiel",
+  "code": "6D32",
+  "article_format": 2,
+  "bio": "Rémiël, 45 ans, est restaurateur d’instruments. Son Trouble pédophile est déjà diagnostiqué et suivi par un service clinique spécialisé. La détresse et les préoccupations liées au trouble compliquent son attention et ses échanges avec les soignants. Il veut terminer la restauration d’un baromètre de collection dans des espaces réservés aux adultes, en respectant les mesures de protection et de prévention. Une responsable de collection et un collègue soutiennent l’organisation du travail. Rémiël apprend à solliciter les professionnels au bon moment, sans faire porter à son entourage la responsabilité du suivi.",
+  "profile_topics": [
+    "Trouble pédophile",
+    "Détresse et préoccupation",
+    "Recours aux soins",
+    "Protection et responsabilité",
+    "Continuité du suivi"
+  ],
+  "voice": "Rémiël parle avec précision des objets et cherche davantage ses mots lorsqu'il explique sa détresse. Sa réserve ne devient pas mystère inquiétant. L'humour discret concerne les graduations effacées et la mauvaise lumière de l'atelier ; jamais les victimes, la sexualité ou les mesures de protection.",
+  "series_goal": "Livrer un baromètre et sa notice à une collection dans un cadre exclusivement adulte, en rendant effectifs le suivi spécialisé, les mesures de protection et le relais urgent lorsqu'il devient nécessaire. Le projet professionnel se termine ; le suivi reste ouvert.",
+  "continuity_rules": [
+    "Rémiël demeure restaurateur d’instruments de 45 ans ; le diagnostic est établi avant la série et reste known dans les douze épisodes. Aucun changement de diagnostic, antécédent pénal ou acte n'est inventé.",
+    "Tous les personnages et interlocuteurs sont adultes. Aucun enfant n'apparaît, n'est décrit ou évoqué comme personne particulière, même en souvenir, sur écran ou hors champ. Aucune scène sexuelle, érotisation, détail explicite, rencontre ou exposition ; les faits cliniques restent abstraits.",
+    "La sécurité des enfants est centrale et la responsabilité reste entière. Aucun accès à des mineurs, secret, contournement, test de contrôle, plan d'approche ou assouplissement implicite du cadre. Le droit à la vie privée ne devient jamais conseil de cacher une information de sécurité.",
+    "Anne est responsable de collection, Marc collègue adulte et Vidal soignante du service spécialisé. L'aide pratique ne remplace pas l'évaluation clinique ; aucun proche n'assume le risque, le diagnostic ou une surveillance constante.",
+    "Les épisodes suivent plusieurs semaines : consultation et orientation effective, aménagement du travail, réévaluation de difficultés nouvelles, urgence réellement prise en charge en8, suivi adapté en9, remise adulte en12. Ne pas garantir une disponibilité médicale immédiate hors secours.",
+    "Le modèle alexithymie organise la prose, pas les prescriptions. Les trois appuis de chaque épisode restent des démarches de soin ou d'organisation, sans méthode dangereuse, auto-exposition, médicament, numéro inventé ni promesse de guérison.",
+    "Le baromètre et la notice structurent le projet, pas une mesure imaginaire de dangerosité. Les progrès professionnels ne servent jamais de preuve d'absence de risque. Les limites des sources et la distinction entre choix de fiction et donnée clinique doivent rester explicites."
+  ],
+  "episodes": [
+    {
+      "number": 1,
+      "focus": "Diagnostic et responsabilité",
+      "scene": "Au bureau de l'atelier, Rémiël laisse la fiche du baromètre ouverte mais peine à répondre à Anne sur le délai. Il a un rendez-vous avec la docteure Vidal pour organiser le cadre du nouveau chantier. La détresse liée au trouble connu empiète déjà sur son travail, sans aucun contenu de pensée décrit.",
+      "development": "Définition clinique sobre : intérêt sexuel durable et intense envers les enfants prépubères, associé à une détresse marquée ou à une mise en acte ; aucune illustration concrète. Distinguer ce diagnostic établi, la détresse vécue et les actes, sans en présumer pour Rémiël. Trois appuis : préparer une question sur ce que signifie le diagnostic ; confirmer les modalités du suivi ; réserver un créneau professionnel compatible. Le soin ne constitue pas une attestation d'innocuité.",
+      "ending": "Il confirme le rendez-vous et propose à Anne de chiffrer le travail après celui-ci. Elle accepte une estimation technique différée, sans avoir à obtenir un récit médical.",
+      "next": "Il retrouve l'atelier avec un calendrier de suivi concret ; reste à vérifier ce qu'il peut accomplir durant une séance de travail.",
+      "source_refs": [
+        "oms-cddr",
+        "oms-cddr-hrb"
+      ],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 2,
+      "focus": "Préoccupation et attention disponible",
+      "scene": "Seul à l'établi dans le cadre adulte prévu, Rémiël recopie deux fois une mesure. Il dit ensuite à la soignante qu'il est préoccupé par son trouble au point de perdre le fil ; aucun contenu sexuel n'est rapporté.",
+      "development": "Aspect choisi chez lui : retentissement attentionnel d'une préoccupation, non critère obligatoire ni trouble cognitif ajouté. Trois appuis : interrompre la tâche technique lorsqu'il perd le fil ; rapporter l'impact fonctionnel au rendez-vous ; reprendre une étape professionnelle réaliste après échange. Ni travail ni respiration ne sont présentés comme traitement du trouble.",
+      "ending": "Il range la pièce sans conclure la mesure et transmet sa difficulté au service pendant l'échange prévu. La finition attendra ; la mesure devra être reprise.",
+      "next": "Cette transmission a eu lieu, mais il constate combien son inquiétude d'être jugé rend ses phrases brèves.",
+      "source_refs": [
+        "oms-cddr",
+        "landgren-2020"
+      ],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 3,
+      "focus": "Crainte du jugement clinique",
+      "scene": "Dans le cabinet de Vidal, il a préparé une phrase sur sa détresse puis la barre. Il finit par dire qu'il redoute le jugement lorsqu'il parle. La soignante entend cette difficulté sans réduire l'entretien à le rassurer.",
+      "development": "Retentissement émotionnel possible, sans causalité entre stigmatisation et violences. Trois appuis : nommer l'obstacle au dialogue ; demander comment aborder les informations nécessaires ; clarifier le cadre de soin et de protection. Aucun conseil de dissimulation ni promesse de confidentialité absolue.",
+      "ending": "Il prononce la phrase utile et l'entretien se poursuit. La soignante propose un contact complémentaire au sein du service spécialisé, qu'il accepte.",
+      "next": "L'entretien complémentaire doit désormais être organisé effectivement, sans confondre orientation et soin déjà reçu.",
+      "source_refs": [
+        "oms-cddr",
+        "jahnke-2015"
+      ],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 4,
+      "focus": "Accès au suivi spécialisé",
+      "scene": "Rémiël téléphone au secrétariat du service pour le rendez-vous complémentaire convenu. Le premier créneau proposé coïncide avec son devis ; il réorganise celui-ci au lieu de laisser la démarche en suspens.",
+      "development": "Enjeu de prise en charge, non symptôme : faire aboutir l'orientation. Trois appuis : confirmer le bon interlocuteur ; inscrire le rendez-vous et les modalités réelles ; demander à l'équipe quoi faire en cas de besoin avant ce rendez-vous. STOP peut orienter en France, mais n'est ni urgence ni garantie d'un rendez-vous immédiat.",
+      "ending": "La consultation complémentaire a lieu à la date convenue, après ellipse de quelques jours. Rémiël en ressort avec les modalités de suivi clarifiées et prévient Anne de son nouveau délai technique.",
+      "next": "Anne attend un planning réaliste ; la semaine suivante met à l'épreuve l'organisation professionnelle, pas les limites de sécurité.",
+      "source_refs": [
+        "oms-cddr",
+        "stop-ffcriavs"
+      ],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 5,
+      "focus": "Retentissement professionnel du suivi",
+      "scene": "Anne et Rémiël examinent la notice encore incomplète dans l'atelier adulte. Il doit réduire sa proposition de charge de travail pour tenir les rendez-vous et préserver l'attention nécessaire à la restauration.",
+      "development": "Montrer l'ajustement fonctionnel sans le présenter comme règle générale du métier. Trois appuis : distinguer temps technique et besoins de soin ; convenir d'une livraison réaliste ; confirmer que le chantier reste dans le cadre adulte prévu. Aucune extension d'accès, rencontre publique ou nouvelle responsabilité n'est proposée.",
+      "ending": "Anne accepte une livraison en deux étapes entre adultes : notice provisoire, puis objet terminé. Marc peut prendre la photographie technique de l'instrument.",
+      "next": "Le planning est posé. Lors du rendez-vous suivant, Rémiël cherche un mot juste pour parler de ses difficultés sans multiplier les diagnostics.",
+      "source_refs": [
+        "oms-cddr",
+        "oms-cddr-hrb"
+      ],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 6,
+      "focus": "Distinguer les termes diagnostiques",
+      "scene": "Pendant la consultation, Rémiël dit qu'il emploie souvent le mot obsession pour désigner son inquiétude. Vidal l'aide à distinguer un mot courant de diagnostics spécifiques, sans demander au lecteur de vérifier ses réactions.",
+      "development": "OMS : une pensée intrusive involontaire ne suffit pas à conclure à ce trouble ; le TOC et le trouble du comportement sexuel compulsif sont des diagnostics distincts. Leur différenciation relève du clinicien, non de tests personnels des réactions. Trois appuis : décrire l'impact sans s'attribuer une étiquette ; demander une clarification ; conserver les conclusions de l'équipe comme repères. Aucun test d'excitation, exposition ni inventaire explicite. Le diagnostic établi de Rémiël ne change pas.",
+      "ending": "Il note simplement que préoccupation ne suffit pas à conclure à un autre trouble. Il mentionne aussi que son sommeil et son humeur se sont dégradés.",
+      "next": "Ces difficultés nouvelles seront évaluées pour elles-mêmes, sans les expliquer d'avance par le diagnostic connu.",
+      "source_refs": [
+        "oms-cddr",
+        "oms-cddr-hrb"
+      ],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 7,
+      "focus": "Évaluer les difficultés associées",
+      "scene": "À l'entretien suivant, Rémiël parle de nuits écourtées et d'une baisse d'élan qui l'empêche d'ouvrir la notice. Vidal recueille ces changements et procède à une évaluation clinique distincte.",
+      "development": "Une comorbidité est possible mais non présumée. Trois appuis : décrire l'évolution récente sans seuil maison ; signaler l'effet sur le quotidien ; suivre la réévaluation proposée. Ne pas diagnostiquer dépression ou addiction, ni attribuer toutes les variations au trouble connu.",
+      "ending": "L'équipe adapte les contacts à sa situation sans annoncer de nouveau diagnostic. Rémiël suspend la finition pour quelques jours et Anne en est informée sur le seul volet du travail.",
+      "next": "Un contact plus proche existe ; malgré cela, un changement préoccupant exige ensuite de passer au niveau d'urgence prévu.",
+      "source_refs": [
+        "oms-cddr",
+        "oms-cddr-hrb"
+      ],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 8,
+      "focus": "Répondre à une aggravation urgente",
+      "scene": "À son domicile, dans une scène sans autre personne ni contenu sexuel, Rémiël constate qu'il craint de ne plus maintenir la sécurité. Il contacte immédiatement les secours. La scène suit l'appel, les consignes reçues et l'évaluation clinique effective, sans description de scénario redouté.",
+      "development": "Distinguer prévention programmée et urgence. Trois démarches pour le lecteur : dire clairement qu'une évaluation urgente est nécessaire ; contacter immédiatement les secours ; suivre leurs consignes et transmettre les informations utiles aux professionnels. Aucun délai d'attente volontaire, auto-test ou gestion solitaire ; les modalités précises appartiennent aux secours.",
+      "ending": "Rémiël est évalué par une équipe et son service spécialisé reçoit le relais clinique. Le travail reste suspendu ; Marc apprend uniquement que la livraison est reportée et ne devient pas responsable de la surveillance.",
+      "next": "L'épisode suivant revient après cette évaluation, dans un rendez-vous de suivi qui reprend ce qui doit être adapté.",
+      "source_refs": [
+        "oms-cddr",
+        "stop-ffcriavs"
+      ],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 9,
+      "focus": "Décisions de soin et incertitude",
+      "scene": "Après l'évaluation urgente, Rémiël retrouve Vidal. Il demande si une prise en charge peut garantir que tout disparaîtra. Elle distingue les objectifs, les limites des connaissances et le suivi nécessaire, sans lui prescrire quoi que ce soit dans le texte.",
+      "development": "Enjeu thérapeutique distinct du diagnostic : décision individualisée et résultats incertains. Trois appuis : demander l'objectif concret d'une option ; demander ses risques et les modalités de suivi ; fixer une réévaluation avec l'équipe. Ne citer ni produit, dose, mécanisme ni promesse. Un score de recherche n'est pas une preuve de protection absolue.",
+      "ending": "Ils conviennent de poursuivre le suivi adapté et d'une réévaluation. La reprise professionnelle reste limitée au cadre adulte discuté, sans certificat narratif d'absence de risque.",
+      "next": "Rémiël doit préciser à Marc ce qu'il peut lui demander pour reprendre le travail sans déplacer sur lui la responsabilité clinique.",
+      "source_refs": [
+        "oms-cddr",
+        "landgren-2020",
+        "parachutes-2024"
+      ],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 10,
+      "focus": "Limites du soutien adulte",
+      "scene": "Au téléphone avec Marc, Rémiël demande une aide pour organiser la photographie du baromètre. Marc accepte ce geste précis mais dit qu'il ne peut être joignable en permanence. Rémiël confirme que les besoins cliniques relèvent du service.",
+      "development": "Le proche adulte peut soutenir sans surveiller ni garantir la sécurité. Trois appuis : formuler une aide limitée ; permettre un refus sans culpabilisation ; garder les professionnels comme relais clinique et les secours pour l'urgence. Un proche peut lui-même demander une orientation à STOP. Aucune promesse de secret ou responsabilité confiée à un enfant.",
+      "ending": "Marc réserve une courte séance de photographie dans l'atelier adulte. Les contacts de soin demeurent ceux de l'équipe ; leur relation garde aussi un sujet ordinaire, la qualité de la lumière sur le cadran.",
+      "next": "La séance peut avoir lieu dans le cadre fixé. Rémiël remarque ensuite une période moins pénible, qui ne supprime pas le suivi.",
+      "source_refs": [
+        "oms-cddr",
+        "stop-ffcriavs"
+      ],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 11,
+      "focus": "Fluctuations sans garantie de guérison",
+      "scene": "Après la photographie technique, Rémiël traverse quelques journées plus calmes. Devant son agenda, il est tenté de considérer le prochain rendez-vous comme superflu, puis apporte cette impression à Vidal lors du contact prévu.",
+      "development": "OMS : stabilité relative et variations possibles ; ni stabilité absolue ni rémission proclamée. Trois appuis : rapporter aussi les améliorations ; revoir avec l'équipe les besoins actuels ; conserver les mesures convenues tant qu'elles ne sont pas réévaluées professionnellement. Pas de score domestique de dangerosité ni test de ses limites.",
+      "ending": "Il maintient le rendez-vous et prépare la notice finale. Les mesures de protection restent effectives, sans être transformées en récompense pour une semaine calme.",
+      "next": "La livraison du baromètre se rapproche ; elle doit fermer le projet technique sans fermer le parcours clinique.",
+      "source_refs": [
+        "oms-cddr",
+        "oms-cddr-hrb"
+      ],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 12,
+      "focus": "Continuité du soin après le projet",
+      "scene": "Dans l'atelier réservé aux adultes, Rémiël remet le baromètre restauré et sa notice à Anne. Marc est présent pour la photographie finale de l'objet. Rémiël éprouve une satisfaction technique, sans y chercher la preuve d'une guérison.",
+      "development": "Aboutissement de réadaptation et continuité de prévention, pas nouveau symptôme. Trois appuis : clôturer les engagements professionnels concrets ; confirmer le prochain suivi ; discuter tout nouveau projet avant d'en modifier le cadre protecteur. L'accomplissement d'une tâche ne mesure ni le diagnostic ni le risque.",
+      "ending": "Anne réceptionne l'objet et la notice. Rémiël garde son prochain rendez-vous et envisage une autre restauration dans les mêmes espaces adultes, à discuter avec les interlocuteurs concernés.",
+      "next": "La livraison est accomplie. Le suivi clinique et la protection continuent ; sa vie professionnelle peut se poursuivre sans fin miraculeuse ni relâchement implicite.",
+      "source_refs": [
+        "oms-cddr",
+        "oms-cddr-hrb"
+      ],
+      "diagnostic_stage": "known"
+    }
+  ]
+}

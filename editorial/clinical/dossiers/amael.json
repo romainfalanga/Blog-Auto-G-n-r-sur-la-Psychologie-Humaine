@@ -1,0 +1,44 @@
+{
+  "references": {
+    "oms-mms-6d31": {
+      "title": "OMS, CIM-11 MMS 2026-01, 6D31, Trouble voyeuriste, lien canonique",
+      "url": "https://icd.who.int/browse/2026-01/mms/fr#1832861162"
+    },
+    "oms-cddr-hrb": {
+      "title": "OMS, CDDR 2024, ISBN 9789240077263, pages imprimées 571–572 et 575–577 ; document original au dépôt HRB",
+      "url": "https://www.drugsandalcohol.ie/41519/1/WHO_Clinical_descriptions_and_diagnostic_requirements_ICD-11.pdf"
+    },
+    "wfsbp-2020": {
+      "title": "Thibaut et al., WFSBP 2020 guidelines, texte original ; sections 6.1.1–6.1.2 (pagination interne 22–24), choix thérapeutique p.62",
+      "url": "https://www.wfsbp.org/_Resources/Persistent/d/f/1/8/df18dc6d81e71b6d840ceee910b976dfcdc13274/Thibaut_TG_Paraphilias_2020.pdf"
+    }
+  },
+  "dossier": {
+    "name": "Trouble voyeuriste",
+    "aliases": [
+      "6D31",
+      "Voyeuristic disorder"
+    ],
+    "references": [
+      "oms-cddr",
+      "oms-mms-6d31",
+      "oms-cddr-hrb",
+      "wfsbp-2020"
+    ],
+    "points": [
+      "Vérification individuelle du 9 novembre 2026 : document original OMS téléchargé au dépôt HRB, pages imprimées 571–572 et 575–577 lues. Page de publication OMS vérifiée. Le lien MMS reste le lien canonique, son application dynamique ne fournissant pas le texte du diagnostic dans cet accès. Paraphrases françaises de travail, sans prétendre à une traduction officielle.",
+      "CDDR p.575 : le trouble concerne un schéma persistant, focalisé et intense d’excitation sexuelle impliquant l’observation à son insu d’une personne nue, se déshabillant ou ayant une activité sexuelle. Cette définition clinique sobre est nécessaire ; elle ne devient jamais une scène. Aucune description de personne exposée, de moyen technique ou de méthode d’approche. Ni curiosité, ni regard isolé, ni simple pensée intrusive non désirée ne suffisent à établir ce schéma ; aucune assimilation automatique à un TOC. Le goût de remarquer les détails n’est pas un signe du trouble.",
+      "CDDR p.575 : la personne a agi selon ce schéma ou en éprouve une détresse marquée. Un diagnostic établi ne permet donc pas de déduire un passage à l’acte. Le canon ne documente ni infraction, ni victime identifiée, ni condamnation : ne rien inventer. Chez Amaël, la détresse et les préoccupations sont racontées sans préciser un antécédent de comportement. Les obligations mentionnées restent celles de son cadre individuel, sans statut pénal supposé.",
+      "CDDR p.575 : les comportements consentis sont exclus de cette définition. Le respect de l’intimité est un droit des autres ; la discrétion, l’absence de protestation ou la proximité amicale ne donnent pas un consentement. Aucun exercice utilisant une personne, une image ou une situation intime pour vérifier les progrès. Ne pas proposer une pratique sexuelle comme traitement de substitution.",
+      "CDDR p.576 : la présence d’un certain contrôle des comportements ne fait pas disparaître automatiquement le schéma d’excitation ; un diagnostic supplémentaire de trouble du comportement sexuel compulsif n’est pas systématiquement justifié. Distinguer pensées, détresse, choix et faits, sans expliquer que toute pensée équivaut à un acte ni promettre une maîtrise absolue.",
+      "CDDR p.572 : retentissement professionnel ou relationnel possible ; arrestation ou incarcération ne sont pas des exigences diagnostiques. L’inventaire retardé, la honte de consulter et la demande excessive de réassurance sont des choix narratifs individuels, pas des critères ni des symptômes universels. La précision au travail et le goût des échecs ne sont pas des indices cliniques.",
+      "CDDR p.576–577 : intoxication, épisode maniaque ou trouble neurocognitif peuvent nécessiter une distinction clinique dans certaines présentations. Un changement récent appelle une évaluation, sans attribuer au personnage ces troubles ni déduire une cause. La série ne présente aucune liste pour se diagnostiquer et aucune explication par une enfance supposée.",
+      "CDDR p.576 : l’évolution peut être relativement stable après le début de l’âge adulte, mais les pensées, envies et comportements peuvent changer ; certaines personnes ne remplissent plus ensuite les exigences diagnostiques. Aucun calendrier de guérison, aucune fatalité et aucun succès social ne permettent de trancher cette question pour Amaël.",
+      "WFSBP 2020 : PDF original téléchargé sur le site de la fédération après échec de l’ancien lien ; sections 6.1.1–6.1.2, pagination interne 22–24, et choix thérapeutique p.62 lus. Recommandations pour cliniciens, surtout hommes adultes ; évaluation individuelle des antécédents, de la réponse antérieure et du risque. Limites : nombreuses séries de cas, petits effectifs, populations médico-légales et méthodes hétérogènes. Ne pas transférer leurs résultats au seul voyeurisme ou à l’histoire d’Amaël. Aucun protocole, médicament ou efficacité chiffrée proposé ; les arrangements narratifs ne sont pas des traitements démontrés.",
+      "Les appuis de communication, répartition de tâches et rendez-vous sont des arrangements narratifs, sans efficacité thérapeutique démontrée. Les futurs trois exercices de chaque épisode devront rester des démarches de soin, de prévention ou d’organisation, jamais une exposition, un test de contrôle, une surveillance par les proches ou un apprentissage de contournement. En cas de crainte de mettre autrui en danger, interruption de la participation et recours effectif aux professionnels selon le cadre convenu ; danger immédiat : service d’urgence compétent, sans attendre un exercice.",
+      "Les personnes exposées ou susceptibles de l’être ne sont ni confidentes, ni soignantes, ni garantes du suivi. Aucun pardon, rencontre réparatrice ou témoignage exigé. Le club conserve ses décisions et ne délivre pas d’autorisation clinique. Les informations nécessaires au cadre de prévention sont transmises aux responsables compétents selon les obligations effectives ; le respect de la confidentialité ne devient pas une promesse de secret absolu.",
+      "Douze axes : persistance du schéma, consentement, détresse, contrôle comportemental, retentissement professionnel, transmission clinique, individualisation du soin, réévaluation différentielle, responsabilités de prévention, limites relationnelles, évolution, participation sociale. Ces dernières dimensions décrivent les conséquences et l’accompagnement, pas douze symptômes. Le diagnostic reste connu dans tous les épisodes."
+    ]
+  },
+  "direction": "Amaël, 31 ans, chargé d’inventaire dans un atelier de conservation, veut organiser un échange amical entre son club municipal d’échecs et celui des Saules. Il aime les finales modestes et les crêpes trop cuites, déteste les trophées disproportionnés. Sa voix est courte, précise, avec un humour sec qui ne vise jamais les personnes exposées. Il dit : je peux prendre les appariements, pas toute la journée. Son classeur bleu concerne exclusivement le tournoi ; les notes cliniques restent séparées. Nora préside son club ; Malik est son frère ; la docteure Vidal assure le suivi spécialisé ; Mme Arnaud suit le cadre de prévention selon les obligations déjà convenues, sans profession ni autorité judiciaire inventées. Les membres du club ne sont pas présumés connaître son dossier. Six semaines environ permettent de réorganiser horaires et responsabilités. Le projet final est un échange de quatre tables en soirée, dont Nora porte l’organisation générale et Amaël les appariements convenus. Personne ne certifie une absence de risque ; la participation dépend du cadre effectif, et tout changement entraîne un nouveau point professionnel. Aucun membre n’est identifié comme personne exposée ; aucune histoire antérieure d’acte n’est ajoutée. La vie sociale ne remplace pas le suivi et ne donne aucun droit sur autrui."
+}

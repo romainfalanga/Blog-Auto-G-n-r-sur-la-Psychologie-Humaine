@@ -1,0 +1,51 @@
+{
+  "references": {
+    "oms-mms-6d33": {
+      "title": "OMS, CIM-11 MMS 2026-01, 6D33, lien canonique français",
+      "url": "https://icd.who.int/browse/2026-01/mms/fr#1890228613"
+    },
+    "oms-cddr-hrb": {
+      "title": "OMS CDDR 2024, document original ISBN 9789240077263, pages imprimées 580–583, dépôt HRB",
+      "url": "https://www.drugsandalcohol.ie/41519/1/WHO_Clinical_descriptions_and_diagnostic_requirements_ICD-11.pdf"
+    },
+    "wfsbp-2020": {
+      "title": "Thibaut et al., WFSBP 2020 guidelines for the pharmacological treatment of paraphilic disorders, sections 2, 3, 5, 6.1 et 6.2, DOI 10.1080/15622975.2020.1744723",
+      "url": "https://www.wfsbp.org/_Resources/Persistent/d/f/1/8/df18dc6d81e71b6d840ceee910b976dfcdc13274/Thibaut_TG_Paraphilias_2020.pdf"
+    },
+    "criavs-idf": {
+      "title": "CRIAVS Île-de-France, missions de soutien clinique, réseau et documentation pour professionnels ; consultation externe distinguée dans la page Équipe, consulté le 9 novembre 2026",
+      "url": "https://criavs.fr/"
+    }
+  },
+  "dossier": {
+    "name": "Trouble du sadisme sexuel coercitif",
+    "aliases": [
+      "6D33",
+      "Coercive sexual sadism disorder"
+    ],
+    "references": [
+      "oms-cddr",
+      "oms-mms-6d33",
+      "oms-cddr-hrb",
+      "wfsbp-2020",
+      "criavs-idf"
+    ],
+    "points": [
+      "Vérification individuelle du 9 novembre 2026 : PDF original OMS téléchargé et section 6D33, pages imprimées 580–583 lue. PDF intégral WFSBP obtenu à sa nouvelle adresse officielle _Resources ; sections 2–3, 5.1, introduction 6, 6.1.1–2 et 6.2 lues (pagination interne notamment 4, 20–25). Les anciennes adresses WFSBP sont inaccessibles. Page OMS de présentation et site institutionnel CRIAVS IdF consultés. Le lien MMS est canonique ; son contenu dynamique n’a pas été extrait. Paraphrases françaises de travail, sans valeur de traduction officielle.",
+      "CDDR p.580–581 : le diagnostic renvoie à un schéma persistant, intense et focalisé d’excitation sexuelle impliquant la souffrance d’une personne non consentante. Il exige un passage à l’acte ou une détresse marquée liée à ces pensées ou impulsions. La fiction ne décrit aucun contenu, acte ou scénario sexuel. Le diagnostic est déjà établi : ni le lecteur ni le club ne le déduisent d’une attitude. Aucun antécédent pénal, acte passé ou victime n’est ajouté au canon.",
+      "CDDR p.581 : exclusion explicite du sadisme et du masochisme consentis. Ni une préférence consentie, ni une contrariété ordinaire, ni un refus de contact reçu ne suffisent à établir 6D33. Le refus de contact du canon reste effectif indépendamment du diagnostic ou du soin. Aucune négociation, rencontre réparatrice, médiation imposée, excuse transmise par un tiers ou récompense relationnelle.",
+      "CDDR p.581–583 : un événement isolé ne suffit généralement pas à étayer le schéma diagnostique ; des violences sexuelles ne prouvent pas à elles seules ce trouble, et ce trouble ne prouve pas une histoire judiciaire. Cette frontière soutient une présentation exacte, jamais une minimisation de faits qui seraient établis. L’histoire laisse délibérément le passé non documenté.",
+      "CDDR p.580–582 : le schéma clinique spécifique est une excitation sexuelle persistante et focalisée associée à la souffrance d’une personne non consentante. Il peut être nommé sobrement dans les explications. Une pensée intrusive isolée, son caractère choquant ou la peur de nuire ne démontrent ni ce schéma ni un désir de le réaliser. Ne pas requalifier chaque pensée de Marceau comme symptôme et ne pas diagnostiquer un TOC par contraste ; son diagnostic repose sur une évaluation antérieure à la série.",
+      "CDDR p.582 : le trouble du comportement sexuel compulsif décrit notamment un échec persistant de contrôle, tandis que 6D33 concerne le foyer du schéma d’excitation. Un certain contrôle des conduites peut exister avec 6D33 et n’impose pas un diagnostic supplémentaire. Distinguer la présence d’une difficulté interne, les choix observables et l’évaluation du risque par l’équipe ; une bonne conduite ponctuelle ne certifie pas l’absence de risque.",
+      "CDDR p.582 : substances, épisodes thymiques et troubles neurologiques font partie des frontières cliniques à examiner. Un changement de sommeil ou une fatigue ne prouve aucune comorbidité. Toute modification préoccupante est réellement évaluée par la psychiatre, sans attribut causal automatique au diagnostic connu et sans diagnostic secondaire fabriqué.",
+      "WFSBP sections 3, 5.1 et 6 : recommandations destinées aux cliniciens prenant en charge des hommes adultes présentant des troubles paraphiliques. Évaluation individualisée de l’état psychiatrique, des facteurs contextuels, du risque, de la motivation, des relations et des ressources. La détresse, l’évitement de la consultation et le retentissement social choisis pour Marceau sont une présentation fictive possible, pas des critères universels ni des causes démontrées du trouble.",
+      "WFSBP 5.1 et 6.2 : stress, communication, représentations du consentement et justification des conduites peuvent être travaillés selon les besoins identifiés. La psychothérapie appartient à une prise en charge globale ; son choix et ses objectifs relèvent des professionnels. Les gestes narratifs (préparer une question, accepter un délai, maintenir une activité pratique) ne constituent pas un protocole validé de traitement de 6D33. Pas d’exposition, de stimulation, de test du contrôle avec autrui ou d’exercice détaillant un contenu sexuel.",
+      "WFSBP 2 et 5–6 : une éventuelle décision médicamenteuse demande information, consentement et suivi médical ; aucun médicament n’est automatiquement indiqué par le seul code. Le plan ne fixe ni prescription, ni dose, ni calendrier d’examen, ni arrêt. La psychiatre répond effectivement aux questions. Les engagements de soin ne signifient pas injonction judiciaire.",
+      "WFSBP 6.1.2 et 6.2 : littérature hétérogène, nombreux cas/séries, petits échantillons et populations judiciaires ; limites des comparaisons et des mesures de résultats. Ne pas annoncer un taux de réussite, un risque chiffré individuel, une guérison ou un protocole français spécifique de 6D33. La recommandation HAS 2009 concernant des agressions envers des mineurs de moins de 15 ans n’est pas transposée à Marceau.",
+      "CRIAVS IdF, missions : ressource surtout destinée aux professionnels pour mise en réseau, documentation et soutien clinique. Dans la fiction, la psychiatre assure la coordination ; le CRIAVS n’est ni un service d’urgence universel ni le soignant automatiquement disponible du personnage. Les règles précises de secret et de transmission sont expliquées par l’équipe dans leur cadre applicable, sans promesse de secret absolu, sans avis juridique et sans club transformé en équipe de surveillance.",
+      "CDDR p.581 : évolution relativement stable après le début de l’âge adulte, mais manifestations susceptibles de changer. Aucun déterminisme, aucune guérison automatique à 40 ans. Le retour d’une difficulté exige un échange clinique adapté, pas l’étiquette de récidive qui inventerait un passé. Le projet de cartes terminé ne clôt pas les soins.",
+      "Architecture des douze aspects : détresse ; frontière du consentement ; honte et parole clinique ; rationalisation des limites ; contrôle des conduites ; stress contextuel ; diagnostic différentiel devant un changement ; retentissement relationnel ; décision médicale informée ; partage d’informations et sécurité ; fluctuations ; maintien d’une vie avec suivi. Les dimensions de soin et retentissement ne sont pas présentées comme douze symptômes. La clinique doit être perceptible dès les deux premières scènes sans aucune représentation sexualisée."
+    ]
+  },
+  "direction": "Marceau, 40 ans, conducteur d’engins, préfère les mots concrets et corrige volontiers une légende trop petite. Il prépare pour un club de randonnée des cartes lisibles du sentier des Aulnes ; son rôle est cartographique, jamais la validation de sécurité d’un itinéraire. Lucie coordonne le projet et peut refuser une disponibilité sans avoir à justifier son choix. Karim, ami adulte, partage parfois un café mais n’est ni surveillant ni thérapeute. La docteure Valette, psychiatre d’une équipe spécialisée, et Simon, psychologue de cette équipe, assurent réellement le suivi déjà engagé. Une personne qui a refusé le contact demeure hors scène et hors d’atteinte : aucune identité, lien intime, histoire d’agression ou réponse ne lui est inventé. Marceau respecte cette limite dès le début ; sa détresse et ses efforts de soin restent visibles sans dévoiler de contenu sexuel. Les cartes suivent une chronologie de plusieurs semaines : légende, contraste, flèches, relecture collective à distance, correction du pont, livraison. L’enjeu est de remettre des documents utilisables sans faire de sa contribution une monnaie contre la proximité. La dernière réception confirme seulement l’usage des cartes. Aucun statut pénal, traitement précis, conduite professionnelle dangereuse ni règlement du métier n’est créé. Les trois appuis de chaque épisode seront des gestes pratiques prudents et un relais professionnel réel, non une thérapie autonome ; les proches gardent leur distance et leur droit de retrait."
+}

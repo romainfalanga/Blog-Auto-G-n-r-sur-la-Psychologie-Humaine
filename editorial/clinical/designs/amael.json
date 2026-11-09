@@ -1,0 +1,189 @@
+{
+  "schema_version": 1,
+  "character_id": "amael",
+  "code": "6D31",
+  "article_format": 2,
+  "bio": "Amaël a 31 ans et travaille comme chargé d’inventaire dans un atelier de conservation. Son Trouble voyeuriste, déjà diagnostiqué, lui demande un suivi spécialisé et des engagements de prévention concrets. Au club municipal d’échecs, il veut organiser un échange avec le club des Saules. Il aime les finales sans éclat et les listes courtes. Il apprend à ajuster ses responsabilités avec les professionnels, tout en respectant l’intimité des autres et sans confier aux membres du club le rôle de le soigner ou de le surveiller.",
+  "profile_topics": [
+    "Trouble voyeuriste",
+    "Respect du consentement",
+    "Détresse et soin",
+    "Engagements de prévention",
+    "Vie sociale"
+  ],
+  "voice": "Phrases courtes et précises, humour sec sur les trophées et ses propres tableaux trop compliqués. Amaël préfère les finales discrètes aux coups spectaculaires ; jamais de métaphore échiquéenne pour les personnes ou de vocabulaire de chasse. Il peut demander une tâche limitée et accepter une réponse décevante.",
+  "series_goal": "Organiser un échange de quatre tables avec le club des Saules en tenant son rôle défini et ses engagements de prévention, le suivi continuant après la soirée.",
+  "continuity_rules": [
+    "Diagnostic établi avant le récit : known aux douze épisodes. Conserver âge, métier, atelier, club municipal et échange entre clubs ; aucune infraction ou obligation pénale inférée du diagnostic.",
+    "La docteure Vidal assure le suivi clinique ; Mme Arnaud est interlocutrice du cadre de prévention selon les obligations réellement convenues ; Nora préside le club et Malik est le frère. Ne pas transformer leurs fonctions ou leur donner accès à tout le dossier.",
+    "Classeur bleu réservé aux appariements, quatre tables et club des Saules ; soins et prévention documentés séparément. Le premier horaire est provisoire ; le créneau du soir est retenu après vérification ; Nora reste organisatrice générale.",
+    "Aucun détail sexuel graphique, scène d’observation clandestine, technologie, moyen d’approche, angle, lieu vulnérable ou méthode de dissimulation. Aucun exercice d’exposition ou test de résistance, aucune personne utilisée comme matériel thérapeutique.",
+    "Aucune personne exposée transformée en confidente ou en soignante ; pas de pardon demandé ni rencontre réparatrice. Les proches peuvent refuser un rôle et les responsables garder leurs limites, sans devoir offrir de réassurance.",
+    "Trois appuis par épisode : démarches pratiques individualisées, explicitement distinctes d’un traitement validé. Pas de posologie, médicament choisi, technique comportementale extrapolée ni garantie de maîtrise. Tout changement de risque est transmis au professionnel et les activités sont ajustées selon le cadre.",
+    "Les rendez-vous annoncés ont effectivement lieu et leurs conséquences sont reprises. Épisodes 3 et 4 : même consultation ; épisode 8 : réévaluation distincte. Le dernier événement résout le projet social, jamais le diagnostic ou une responsabilité juridique."
+  ],
+  "episodes": [
+    {
+      "number": 1,
+      "focus": "Un schéma qui persiste",
+      "scene": "Au bureau de l’atelier, Amaël reprend trois fois la même fiche d’inventaire. Des préoccupations liées au trouble reviennent, sans contenu décrit. Le classeur bleu pour les échecs attend : il ne parvient pas à chasser ces pensées en se promettant de travailler plus vite.",
+      "development": "Manifestation : persistance du schéma, distincte d’une curiosité occasionnelle. Distinguer récurrence, détresse et interruption de tâche. Appuis : noter sobrement ce qui gêne pour le suivi ; reprendre une tâche limitée ; conserver le rendez-vous prévu plutôt que chercher une preuve de volonté. Aucun détail des pensées ni responsabilité du métier. L’explication nomme sobrement le schéma d’excitation centré sur l’intimité d’une personne observée à son insu, selon le dossier, sans contenu visuel. Une pensée intrusive isolée n’établit pas ce schéma.",
+      "ending": "Il termine une fiche et conserve une observation brève pour la docteure Vidal. Il propose à Nora un échange de quatre tables, avec un horaire encore provisoire.",
+      "next": "La réunion du club fixera ce qu’Amaël peut organiser, sans transformer la participation en autorisation sur la vie privée.",
+      "source_refs": [
+        "oms-cddr",
+        "oms-cddr-hrb"
+      ],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 2,
+      "focus": "Le consentement reste indispensable",
+      "scene": "À la réunion du club, Nora présente les règles communes de respect de la vie privée. Amaël n’essaie pas d’obtenir une exception au nom de sa familiarité avec les membres. Il raye de sa liste une demande d’informations personnelles inutile aux appariements, sans aucun détail exploitable.",
+      "development": "Frontière clinique et éthique : un accord à participer à un club ne vaut pas consentement à une atteinte à l’intimité. Appuis : limiter les informations au besoin de l’activité ; respecter une limite sans discussion persuasive ; adresser les questions liées au trouble au clinicien. Les règles ordinaires du club ne constituent pas un traitement du voyeurisme.",
+      "ending": "La liste reste limitée aux besoins de la rencontre. Nora conserve les inscriptions ; Amaël préparera les appariements. Il quitte la réunion avec sa détresse, sans demander au groupe de le rassurer.",
+      "next": "La consultation déjà prévue permet de parler de cette détresse sans solliciter les membres du club.",
+      "source_refs": [
+        "oms-cddr",
+        "oms-cddr-hrb"
+      ],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 3,
+      "focus": "La détresse mérite un soin",
+      "scene": "Dans la salle de consultation, Amaël serre le classeur bleu qu’il a emporté par habitude. Il dit qu’il voudrait pouvoir demander de l’aide sans raconter une scène à quiconque. La docteure Vidal laisse le tournoi de côté et écoute sa souffrance liée aux préoccupations persistantes.",
+      "development": "Dimension diagnostique : détresse marquée possible, sans déduire un acte d’un diagnostic connu. Trois appuis : formuler une demande de soin non graphique ; distinguer souffrance, pensées et faits dans l’échange professionnel ; vérifier les prochains contacts. Ne pas réduire la souffrance à la peur d’être découvert ni faire de la culpabilité une preuve de danger ou d’innocence.",
+      "ending": "Amaël décrit son état au professionnel. Le suivi est maintenu et la consultation continue sur une confusion : il croyait que se retenir devait faire disparaître toute pensée.",
+      "next": "Le même entretien distinguera contrôle du comportement et persistance du schéma.",
+      "source_refs": [
+        "oms-cddr",
+        "oms-cddr-hrb"
+      ],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 4,
+      "focus": "Contrôler un acte ne supprime pas une pensée",
+      "scene": "La docteure Vidal reprend la phrase d’Amaël : il a respecté ses engagements et pourtant ses préoccupations existent encore. Il voudrait un verdict immédiat sur ses progrès, comme une victoire ou une défaite aux échecs. Elle revient aux éléments réellement évalués.",
+      "development": "Distinction clinique : contrôle comportemental et schéma d’excitation ne sont pas équivalents ; pas de diagnostic automatique de comportement sexuel compulsif. Appuis : décrire séparément pensées et comportements ; demander une reformulation clinique ; conserver les engagements même sans soulagement immédiat. Aucune pensée n’est traitée comme un acte commis et aucune réussite ne garantit la sécurité future.",
+      "ending": "Il repart avec un prochain rendez-vous et les engagements maintenus. Le classeur du club reste fermé pendant le point clinique. Il renonce à mesurer son état par le score d’une partie.",
+      "next": "À l’atelier, le retentissement sur le travail demande un ajustement concret distinct du soin.",
+      "source_refs": [
+        "oms-cddr",
+        "oms-cddr-hrb"
+      ],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 5,
+      "focus": "Le travail subit le retentissement",
+      "scene": "Sa responsable attend un lot de fiches. Amaël a du retard depuis plusieurs jours et propose d’en livrer une partie vérifiée plutôt qu’un lot annoncé comme fini. Il n’expose pas son diagnostic aux collègues et ne leur demande aucune surveillance.",
+      "development": "Retentissement fonctionnel possible, pas critère nécessaire ni effet universel. Montrer concentration entravée, promesse trop large et négociation professionnelle. Appuis : annoncer le retard réel ; convenir d’une priorité avec la responsable ; apporter au clinicien le retentissement observé. Ne pas donner une règle du métier ou un droit administratif non documenté.",
+      "ending": "La responsable accepte une livraison répartie et garde ses exigences de qualité. Amaël réduit une tâche facultative du tournoi ; Nora prend le matériel.",
+      "next": "Le soulagement organisationnel ne résout pas ce qu’il hésite encore à dire au suivi.",
+      "source_refs": [
+        "oms-cddr",
+        "oms-cddr-hrb"
+      ],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 6,
+      "focus": "La honte freine la parole clinique",
+      "scene": "Chez lui, avant un échange prévu avec le cabinet, Amaël relit une note trop vague : semaine compliquée. Il craint d’être réduit à une étiquette. Il téléphone au créneau convenu et précise que ses préoccupations lui prennent davantage de place, sans détails intimes sur quiconque.",
+      "development": "Obstacle au soin individuel, distinct de la détresse elle-même : minimiser peut priver le clinicien d’informations utiles. Appuis : dire le changement de manière sobre ; poser une question sur les limites de confidentialité ; choisir les informations pertinentes pour le professionnel. Pas de promesse de secret absolu ou d’aveu public présenté comme thérapeutique.",
+      "ending": "Le cabinet organise un point de suivi adapté. Amaël ne transfère pas sa note à Nora et lui répond seulement sur la tâche qu’il peut tenir.",
+      "next": "Le point de suivi précisera ce que signifie une aide adaptée, au lieu d’une recette trouvée pour tous.",
+      "source_refs": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "wfsbp-2020"
+      ],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 7,
+      "focus": "Le soin doit rester individuel",
+      "scene": "Au rendez-vous, Amaël demande s’il existe une méthode qui réglerait le problème avant l’échange des clubs. La docteure Vidal explique que les décisions de soin reposent sur son évaluation et leur suivi, sans promettre une échéance. Il ouvre ensuite son agenda, pas un programme trouvé en ligne.",
+      "development": "Prise en charge : cadrage spécialisé individuel, sans protocole ou efficacité extrapolés. Appuis : formuler ses objectifs de soin ; demander ce qui doit être réévalué ; prévoir comment signaler une difficulté. Les détails de psychothérapie et de prescription restent hors récit. La date de l’événement ne commande pas une décision thérapeutique.",
+      "ending": "Ils conservent un rendez-vous incompatible avec le premier horaire envisagé au club. Amaël demande à Nora un autre créneau sans lui exposer le dossier médical.",
+      "next": "Avant de confirmer ce créneau, une modification récente de son état sera examinée pour elle-même.",
+      "source_refs": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "wfsbp-2020"
+      ],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 8,
+      "focus": "Un changement demande une réévaluation",
+      "scene": "Lors du point suivant, Amaël signale plusieurs nuits inhabituelles et une agitation récente. Il voudrait tout attribuer au trouble connu. La docteure Vidal reprend la chronologie et les autres éléments nécessaires à son évaluation ; la fiction ne conclut à aucune cause ni nouveau diagnostic.",
+      "development": "Diagnostic différentiel : ne pas utiliser une étiquette ancienne pour expliquer tout changement. Appuis : rapporter les faits récents ; répondre aux questions professionnelles sur le contexte et les traitements ; convenir des suites et des signes qui doivent conduire à reprendre contact. Aucune liste d’autodiagnostic de manie ou de substances ; ne pas présumer une consommation.",
+      "ending": "La réévaluation a lieu et le suivi est adapté à la situation sans nouveau diagnostic raconté. Amaël diffère sa réponse définitive au club jusqu’au point avec Mme Arnaud.",
+      "next": "La réévaluation clinique est distincte de la vérification des engagements de prévention pour la rencontre.",
+      "source_refs": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "wfsbp-2020"
+      ],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 9,
+      "focus": "La prévention engage des responsabilités distinctes",
+      "scene": "Mme Arnaud reprend avec Amaël ses engagements déjà convenus. Il voudrait savoir si l’accord de Nora suffit à confirmer l’événement. Elle distingue le rôle du club et le cadre de prévention ; ils vérifient les conditions pertinentes sans décrire aucun accès, dispositif ou situation vulnérable.",
+      "development": "Accompagnement et sécurité, pas nouveau symptôme. Trois appuis : clarifier qui décide quoi ; transmettre les changements nécessaires au bon interlocuteur ; prévoir le relais et l’interruption si la situation l’exige. Aucune décision judiciaire inventée et aucun secret médical utilisé pour éluder une obligation réelle. La scène ne certifie jamais un risque nul.",
+      "ending": "Les interlocuteurs compétents confirment les dispositions individualisées applicables. Amaël accepte le créneau du soir et son rôle limité ; Nora reste responsable de l’organisation générale.",
+      "next": "L’organisation peut avancer, mais Malik ne doit pas devenir le garant personnel du respect des engagements.",
+      "source_refs": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "wfsbp-2020"
+      ],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 10,
+      "focus": "Les proches ont leur propre limite",
+      "scene": "Pendant une promenade, Amaël demande à Malik de vérifier chaque soir s’il a bien suivi son programme. Malik refuse cette responsabilité : il peut dîner avec lui, pas devenir son contrôleur. Amaël est déçu et commence par parler du tournoi, puis reconnaît la limite.",
+      "development": "Retentissement relationnel et réassurance individuelle : l’affection ne remplace pas le suivi ni la prévention professionnelle. Appuis : formuler une demande ordinaire et précise ; accepter un refus sans insistance ; adresser les besoins de surveillance ou d’alerte aux interlocuteurs compétents. Aucune personne exposée n’est sollicitée, et le frère n’est pas responsable des choix d’Amaël.",
+      "ending": "Ils conviennent d’un dîner sans compte rendu obligatoire. Amaël garde les contacts professionnels pour le suivi ; le lien fraternel conserve un sujet autre que le trouble.",
+      "next": "Une préparation des appariements se passe bien ; cette réussite ne doit pas être interprétée comme fin des besoins.",
+      "source_refs": [
+        "oms-cddr",
+        "oms-cddr-hrb"
+      ],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 11,
+      "focus": "L’évolution ne suit pas le score",
+      "scene": "La répétition des appariements réussit et Amaël plaisante sur son tableau enfin lisible. Quelques jours après, ses préoccupations augmentent à nouveau. Il ne conclut ni que tout est perdu ni que la répétition prouvait une guérison ; il signale le changement avant la rencontre.",
+      "development": "Évolution variable malgré une stabilité possible du schéma : amélioration et difficulté ultérieure ne donnent pas seules un pronostic. Appuis : transmettre la variation au suivi ; maintenir les dispositions tant qu’elles ne sont pas réévaluées ; ajuster le rôle concret selon les réponses professionnelles. Aucun passage à l’acte raconté, aucune épreuve de résistance pour sauver l’événement.",
+      "ending": "Le point professionnel est effectivement réalisé ; les dispositions restent applicables avec son rôle limité. Nora confirme l’organisation et le relais. Amaël prépare seulement les appariements des quatre tables.",
+      "next": "La rencontre se déroule dans ce cadre confirmé ; sa réussite sociale ne sera pas utilisée comme bilan clinique.",
+      "source_refs": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "wfsbp-2020"
+      ],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 12,
+      "focus": "Participer sans certificat de guérison",
+      "scene": "Le soir de l’échange, Nora accueille le club des Saules et garde l’organisation générale. Amaël pose les appariements des quatre tables et tient le rôle convenu. Il peut passer le relais sans mettre d’autres personnes au service de son suivi. Le récit reste sur les parties, les horaires et les décisions ordinaires.",
+      "development": "Participation sociale distincte de l’état clinique : un projet réalisé ne prouve ni guérison ni innocuité future. Appuis : respecter les responsabilités prévues ; utiliser le relais si nécessaire ; maintenir les rendez-vous après l’événement. Aucun ami ne valide son état et aucune personne ne lui doit confiance ou gratitude pour ses efforts.",
+      "ending": "L’échange s’achève ; Amaël remet à Nora le tableau des résultats, puis range son classeur bleu. Il choisit une finale à étudier pour lui-même. Le rendez-vous de suivi et les engagements de prévention restent en place.",
+      "next": "L’enjeu des quatre tables est résolu. Une vie au-delà du trouble continue avec les droits des autres et le soin, sans verdict final sur son évolution.",
+      "source_refs": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "wfsbp-2020"
+      ],
+      "diagnostic_stage": "known"
+    }
+  ]
+}

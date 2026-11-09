@@ -1,0 +1,59 @@
+{
+  "references": {
+    "oms-mms-6d32": {
+      "title": "OMS, CIM-11 MMS 2026-01, 6D32 Trouble pédophile, lien canonique",
+      "url": "https://icd.who.int/browse/2026-01/mms/fr#517058174"
+    },
+    "oms-cddr-hrb": {
+      "title": "OMS, CDDR 2024, ISBN 9789240077263, p.571–572 et 577–580, original déposé au HRB",
+      "url": "https://www.drugsandalcohol.ie/41519/1/WHO_Clinical_descriptions_and_diagnostic_requirements_ICD-11.pdf"
+    },
+    "stop-ffcriavs": {
+      "title": "FFCRIAVS, STOP : publics, évaluation, orientation et distinction urgence, page consultée le 9 novembre 2026",
+      "url": "https://dispositifstop.fr/dispositif-stop/"
+    },
+    "jahnke-2015": {
+      "title": "Jahnke et al., 2015, Stigma-Related Stress and Its Correlates Among Men with Pedophilic Sexual Interests, résumé original, N=104, PMID25933669",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25933669/"
+    },
+    "landgren-2020": {
+      "title": "Landgren et al., 2020, essai randomisé suédois, JAMA Psychiatry 77:897–905, résumé et discussion, DOI10.1001/jamapsychiatry.2020.0440",
+      "url": "https://jamanetwork.com/journals/jamapsychiatry/fullarticle/2764552"
+    },
+    "parachutes-2024": {
+      "title": "PARACHUTES, 2024, protocole randomisé et faisabilité initiale, résumé original, PMID39184448",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39184448/"
+    }
+  },
+  "dossier": {
+    "name": "Trouble pédophile",
+    "aliases": [
+      "6D32",
+      "Paedophilic disorder"
+    ],
+    "references": [
+      "oms-cddr",
+      "oms-mms-6d32",
+      "oms-cddr-hrb",
+      "stop-ffcriavs",
+      "jahnke-2015",
+      "landgren-2020",
+      "parachutes-2024"
+    ],
+    "points": [
+      "Recherche individuelle du 9 novembre 2026 : texte original OMS téléchargé au dépôt HRB, pages imprimées 571–572 et 577–580 lues. Le lien MMS français vient du canon ; son interface dynamique n'a pas été extraite. Paraphrases françaises de travail, non traduction officielle. Pages FFCRIAVS consultées ; résumés originaux Jahnke et PARACHUTES lus, résumé et discussion Landgren consultés. Aucun texte intégral inaccessible n'est déclaré lu.",
+      "OMS p.577 : le trouble concerne un schéma durable et intense d'intérêt sexuel envers les enfants prépubères, avec détresse marquée ou mise en acte. Cette définition reste strictement abstraite ; aucune illustration, description corporelle, souvenir, scène sexuelle ou scène avec mineur. Le diagnostic de Rémiël est établi avant l'épisode 1. La détresse permet de comprendre le diagnostic sans inventer des actes ni un passé pénal.",
+      "OMS p.571–572,580 : diagnostic et infraction ne sont pas équivalents. Une condamnation n'est pas une exigence diagnostique ; inversement tout auteur de violences sexuelles ne présente pas ce trouble. Ces distinctions ne diminuent ni la responsabilité ni l'exigence de protection. Aucun acte ne sera présumé ou narré pour Rémiël ; aucun portrait ne permet de prédire le comportement d'une personne.",
+      "OMS p.572,578 : retentissement professionnel ou relationnel possible, sans être une exigence universelle ; évolution relativement stable après le début de l'âge adulte avec variations possibles. Le récit choisit une gêne de concentration et de la détresse, sans affirmer que tous vivent ces manifestations ni qu'une journée calme atteste la disparition du trouble.",
+      "OMS p.579 : le diagnostic n'est pas interchangeable avec le trouble du comportement sexuel compulsif ; le premier porte sur la nature du schéma, le second sur un échec persistant du contrôle. Les obsessions d'un TOC constituent également un différentiel clinique. Ne pas transformer ces distinctions en test de ses réactions, questionnaire, auto-observation sexuelle ou remise en cause romanesque du diagnostic établi.",
+      "OMS p.572,579–580 : autres difficultés psychiatriques ou effets de substances peuvent nécessiter une évaluation distincte. Rémiël rapporte un sommeil altéré et une humeur basse ; aucune dépression, addiction, bipolarité ou autre comorbidité n'est diagnostiquée par le narrateur. Aucun symptôme nouveau n'est automatiquement attribué au trouble connu.",
+      "Jahnke2015 : enquête transversale en ligne auprès de 104 personnes germanophones se déclarant concernées. La crainte de découverte était associée à un fonctionnement émotionnel et social moins favorable ; les liens attendus avec motivation thérapeutique et distorsions cognitives n'étaient pas retrouvés. Sélection, autodéclarations, diagnostic non confirmé et absence de causalité limitent la transposition. La gêne de Rémiël devant le soignant est un choix de fiction, jamais une explication des violences ni une invitation au secret.",
+      "FFCRIAVS STOP : professionnels pour évaluation et orientation des personnes concernées et de leurs proches ; dispositif français de prévention, distinct d'un service d'urgence. S'il craint de passer à l'acte, le personnage contacte immédiatement les secours ; l'épisode 8 montre le contact et une évaluation effective. Le manuscrit n'a besoin d'aucun numéro. Ne pas promettre secret absolu, exemption de protection ou disponibilité permanente d'un service ; ne pas proposer un appel ultérieur face à une urgence.",
+      "Landgren2020 : essai suédois de phase2 portant sur 52 hommes demandeurs de soins, mesure principale à deux semaines, suivi à dix semaines. Amélioration d'un score composite de facteurs de risque, non démonstration de réduction des violences effectives ; petits effectifs, population sélectionnée, autoévaluations et suivi bref. Effets indésirables signalés ; pas bénéfice établi dans tous les domaines. Aucune molécule, dose, indication personnelle, arrêt ou prescription dans le récit. Cette étude sert seulement à limiter les promesses et à justifier une discussion clinique des bénéfices, risques et incertitudes.",
+      "PARACHUTES2024 : protocole et faisabilité, non résultats d'efficacité. Population sélectionnée d'hommes demandeurs d'aide en Suède, exclusions notamment pour risque élevé et maladie psychiatrique sévère. Ce document ne valide aucune technique autonome ni protocole universel pour Rémiël. Son inclusion élargie ne se confond pas avec le seul diagnostic CIM-11 6D32.",
+      "Les appuis pratiques du plan sont des arrangements de fiction convenus avec l'équipe : préparer une question, obtenir un rendez-vous, adapter un délai, demander une réévaluation et respecter le cadre adulte. Ils ne sont ni traitements démontrés ni procédures de garantie du risque nul. Le rédacteur décline trois démarches simples par épisode, sans exposition, test de contrôle, exercice sexuel ou méthode dangereuse. Les professionnels évaluent le risque ; l'adulte référent ne se substitue pas à eux.",
+      "Architecture distincte : 1 diagnostic et responsabilité ; 2 préoccupation et attention ; 3 crainte du jugement ; 4 accès au soin spécialisé ; 5 retentissement professionnel ; 6 limites entre diagnostics ; 7 santé associée ; 8 changement nécessitant urgence ; 9 incertitude thérapeutique ; 10 limites du soutien adulte ; 11 fluctuations et suivi ; 12 poursuite du soin au-delà du projet. Les aspects d'organisation sont explicitement des enjeux de prise en charge, pas des symptômes supplémentaires."
+    ]
+  },
+  "direction": "Rémiël, 45 ans, restaurateur d’instruments, restaure un baromètre de collection dans un atelier réservé aux adultes. Il veut livrer l'objet et sa notice technique à la responsable de collection, Anne, adulte, sans déroger aux mesures de protection et de prévention. Sa voix est précise, parfois trop courte lorsqu'il a honte : il distingue volontiers une mesure de son interprétation. Le baromètre n'est jamais une métaphore de dangerosité. Son diagnostic est établi ; une équipe spécialisée le suit, avec la docteure Vidal comme interlocutrice fictive. L'entrée dans un cadre protecteur est son organisation concrète autour de cette nouvelle restauration, non une première révélation diagnostique. Marc, collègue adulte, est un appui pratique accepté, jamais gardien du risque. Les rendez-vous, l'atelier, le domicile et la remise entre adultes constituent tous les lieux de la série ; aucun enfant n'y figure, même en souvenir ou par écran. La série dure plusieurs semaines. Une aggravation subjective conduit réellement à une évaluation urgente à l'épisode 8 ; le travail reste suspendu jusqu'à discussion clinique, sans délais de prise en charge promis au lecteur. La fin ferme la livraison du baromètre ; le suivi et les limites restent effectifs."
+}

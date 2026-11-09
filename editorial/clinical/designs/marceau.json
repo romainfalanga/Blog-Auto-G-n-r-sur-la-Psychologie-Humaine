@@ -1,0 +1,197 @@
+{
+  "schema_version": 1,
+  "character_id": "marceau",
+  "code": "6D33",
+  "article_format": 2,
+  "bio": "Marceau a 40 ans et travaille comme conducteur d’engins. Son Trouble du sadisme sexuel coercitif est déjà diagnostiqué et suivi par une équipe spécialisée. Pour un club de randonnée, il prépare des cartes dont les repères doivent rester lisibles sous une pochette. Il veut rendre un travail utilisable tout en tenant ses engagements de soin et de prévention. Une personne a refusé le contact : cette limite reste entière. Entre consultations, corrections et délais, il apprend à ne pas faire de sa contribution une demande de proximité.",
+  "profile_topics": [
+    "Trouble du sadisme sexuel coercitif",
+    "Consentement et limites",
+    "Détresse et parole clinique",
+    "Responsabilité et prévention",
+    "Évolution et suivi spécialisé"
+  ],
+  "voice": "Marceau parle peu et précisément ; il peut expliquer une légende avant de trouver les mots pour une difficulté. Sa voix garde des goûts ordinaires, sans jargon de chantier utilisé comme métaphore des personnes.",
+  "series_goal": "Livrer au club des cartes réellement lisibles en tenant ses engagements de soin et les limites posées par autrui ; la qualité du travail ne donne aucun droit relationnel.",
+  "continuity_rules": [
+    "Marceau, 40 ans, conducteur d’engins, préfère les mots concrets et corrige volontiers une légende trop petite. Il prépare pour un club de randonnée des cartes lisibles du sentier des Aulnes ; son rôle est cartographique, jamais la validation de sécurité d’un itinéraire. Lucie coordonne le projet et peut refuser une disponibilité sans avoir à justifier son choix. Karim, ami adulte, partage parfois un café mais n’est ni surveillant ni thérapeute. La docteure Valette, psychiatre d’une équipe spécialisée, et Simon, psychologue de cette équipe, assurent réellement le suivi déjà engagé. Une personne qui a refusé le contact demeure hors scène et hors d’atteinte : aucune identité, lien intime, histoire d’agression ou réponse ne lui est inventé. Marceau respecte cette limite dès le début ; sa détresse et ses efforts de soin restent visibles sans dévoiler de contenu sexuel. Les cartes suivent une chronologie de plusieurs semaines : légende, contraste, flèches, relecture collective à distance, correction du pont, livraison. L’enjeu est de remettre des documents utilisables sans faire de sa contribution une monnaie contre la proximité. La dernière réception confirme seulement l’usage des cartes. Aucun statut pénal, traitement précis, conduite professionnelle dangereuse ni règlement du métier n’est créé. Les trois appuis de chaque épisode seront des gestes pratiques prudents et un relais professionnel réel, non une thérapie autonome ; les proches gardent leur distance et leur droit de retrait.",
+    "Le diagnostic est connu dans les douze épisodes. Aucune infraction, victime, enfance explicative, injonction judiciaire ou traitement précis n’est déduit du code ou inventé.",
+    "Aucune scène sexualisée, contenu d’impulsion, acte, technique, scénario, exposition ou simulation. Les rendez-vous montrent une parole clinique générale et des décisions effectives.",
+    "La personne ayant refusé le contact reste hors scène. Ni pardon, ni contact, ni médiation, ni information de seconde main ne sont sollicités. Les autres relations ont leurs limites propres.",
+    "Les éléments sociaux sont des choix de fiction, pas des critères de diagnostic ; chaque explication distingue ce qui est observé de ce que les professionnels évaluent.",
+    "Chaque épisode de soin montre le professionnel agir. Les trois appuis futurs doivent rester pratiques et proportionnés, sans protocole autonome ni promesse thérapeutique."
+  ],
+  "episodes": [
+    {
+      "number": 1,
+      "focus": "Détresse et demande de soin",
+      "scene": "Devant la première légende des Aulnes, Marceau relit la même ligne sans avancer. Il dit à la psychiatre, lors du rendez-vous maintenu, que des pensées liées au trouble le préoccupent ; aucun contenu n’est raconté.",
+      "development": "Distinguer détresse marquée et preuve de passage à l’acte. La psychiatre précise avec lui ce qui a changé et ses besoins immédiats ; ne pas transformer l’aveu en récit d’actes ni en présomption pénale. Nommer sobrement le schéma clinique documenté : excitation persistante associée à la souffrance d’une personne non consentante. Une pensée intrusive isolée ou la peur de nuire ne suffit pas à le démontrer ; le diagnostic de Marceau repose sur son évaluation antérieure.",
+      "ending": "Il transmet à Lucie seulement un délai de livraison réaliste et garde son prochain entretien. La légende reste inachevée.",
+      "next": "La nouvelle date permet de décider comment envoyer un travail sans y mêler une demande relationnelle.",
+      "source_refs": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "wfsbp-2020"
+      ],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 2,
+      "focus": "Consentement et limites effectives",
+      "scene": "En préparant l’envoi de la légende, Marceau voudrait faire de son travail une occasion de renouer avec la personne qui a refusé le contact. Il n’envoie rien à cette personne et en parle à Simon.",
+      "development": "La scène rend perceptible la tension du canon sans en faire un critère diagnostique : un projet utile ne donne aucun droit sur autrui. Expliquer l’exclusion des pratiques consenties du 6D33 sans description sexuelle.",
+      "ending": "Le fichier part uniquement à Lucie par le canal déjà convenu ; aucun tiers ne porte de message personnel. Le refus reste entier.",
+      "next": "Marceau doit ensuite parler au soignant de ce qui lui a coûté, sans embellir sa semaine.",
+      "source_refs": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "wfsbp-2020"
+      ],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 3,
+      "focus": "Honte et parole clinique",
+      "scene": "À l’entretien suivant, Marceau commence par ne raconter que la carte envoyée. Il craint que parler de sa difficulté le réduise au diagnostic et finit par dire que cette semaine reste difficile.",
+      "development": "Distinguer honte fictive et détresse diagnostique ; ni l’une ni l’autre ne mesure seules le danger. Simon reçoit une information utile et reprend l’évaluation avec l’équipe. Ne jamais promettre un secret sans limites.",
+      "ending": "L’entretien a réellement lieu ; Marceau n’est ni félicité comme inoffensif ni sommé d’exposer sa vie au club. Il reprend le contraste de la carte.",
+      "next": "Une remarque de Lucie sur les couleurs fait apparaître une justification qu’il apportera au prochain entretien.",
+      "source_refs": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "wfsbp-2020"
+      ],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 4,
+      "focus": "Justifications et responsabilité personnelle",
+      "scene": "Lucie refuse une séance supplémentaire pour la carte. Marceau remarque son idée que ses efforts devraient lui donner droit à sa disponibilité ; il respecte son refus puis rapporte cette idée au psychologue.",
+      "development": "Un sentiment de contrariété ordinaire ne prouve pas 6D33. Chez ce personnage suivi, le travail porte sur la rationalisation des limites identifiée en consultation ; aucune personne n’a à démontrer son refus ou à participer au soin.",
+      "ending": "Il reformule une demande technique limitée à un retour écrit facultatif. Lucie choisit de répondre deux jours plus tard, sans dette relationnelle.",
+      "next": "L’attente confronte Marceau à la différence entre une difficulté interne persistante et ses conduites choisies.",
+      "source_refs": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "wfsbp-2020"
+      ],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 5,
+      "focus": "Contrôle des conduites et vécu persistant",
+      "scene": "Pendant les deux jours d’attente, Marceau continue les flèches mais se sent encore préoccupé. Au rendez-vous, il demande pourquoi avoir respecté les limites ne fait pas disparaître le trouble.",
+      "development": "La psychiatre distingue contrôle observable et foyer du trouble, sans ajouter un trouble compulsif. Pas de défi pour tester sa maîtrise, de score amateur ou de certificat d’absence de risque.",
+      "ending": "Il maintient le cadre établi et apporte ses questions au suivi ; le retour écrit permet de choisir les flèches sans multiplier les contacts.",
+      "next": "La date de relecture approche et la pression du calendrier augmente.",
+      "source_refs": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "wfsbp-2020"
+      ],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 6,
+      "focus": "Stress contextuel et vulnérabilité",
+      "scene": "Une erreur de contraste retarde l’impression d’essai. Marceau se sent tendu et constate que sa difficulté interne prend davantage de place ; il sollicite l’équipe plutôt que d’exiger de Lucie une présence.",
+      "development": "Le stress est un facteur contextuel à évaluer pour lui, non la cause générale du trouble ou une excuse. Le soignant répond et adapte avec lui les modalités du suivi selon la situation, sans protocole de crise inventé.",
+      "ending": "Lucie accepte un fichier provisoire ; la psychiatre avance un entretien. Si une menace immédiate apparaissait, le récit devrait montrer un relais urgent réel, pas une simple respiration.",
+      "next": "L’entretien avancé permet d’examiner aussi son sommeil modifié, sans en présumer la cause.",
+      "source_refs": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "wfsbp-2020",
+        "criavs-idf"
+      ],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 7,
+      "focus": "Changement clinique et réévaluation",
+      "scene": "Marceau arrive à l’entretien avancé après plusieurs mauvaises nuits. La psychiatre explore ce changement, son contexte et son état général au lieu de l’attribuer automatiquement à 6D33.",
+      "development": "Distinguer diagnostic connu, changements observés et éventuels autres problèmes. Pas de manie, intoxication ou pathologie neurologique inventée ; les frontières CDDR servent à garder une évaluation ouverte, pas à poser un deuxième diagnostic.",
+      "ending": "L’équipe convient avec lui de la suite clinique et d’un point de suivi ; il informe Lucie d’une échéance réaliste sans transmettre de détail médical.",
+      "next": "Il lui reste à reprendre sa place ordinaire dans le projet sans réclamer un rôle de soutien au club.",
+      "source_refs": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "wfsbp-2020"
+      ],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 8,
+      "focus": "Retentissement relationnel et soutien limité",
+      "scene": "Au café avec Karim, Marceau ne sait plus parler que de ses consultations et des cartes. Karim propose un court moment ensemble mais refuse de devenir son interlocuteur clinique permanent.",
+      "development": "Montrer le rétrécissement relationnel possible de cette trajectoire, pas un trait universel de 6D33. Les relations et la communication font partie du contexte évalué ; une amitié ne remplace pas les soins et personne n’est tenu de rester.",
+      "ending": "Marceau accepte la durée choisie, parle aussi du pont des Aulnes et réserve ses questions de santé à Simon. Karim repart à l’heure dite.",
+      "next": "L’équipe lui propose ensuite un échange médical sur les options de soin, sans décision préécrite.",
+      "source_refs": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "wfsbp-2020"
+      ],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 9,
+      "focus": "Choix thérapeutique et information médicale",
+      "scene": "À la consultation, Marceau sort une feuille de questions sur ce qu’un traitement pourrait changer et ses limites. Il craint qu’accepter un soin revienne à abandonner toute décision.",
+      "development": "La psychiatre explique les options pertinentes pour sa situation, les incertitudes et le suivi nécessaire ; aucune molécule, dose ou indication automatique n’est donnée. Le consentement au soin est distinct du consentement d’autrui au contact.",
+      "ending": "Il repart avec des questions clarifiées et une prochaine discussion prévue ; aucune prescription ou réponse clinique n’est inventée. La correction du pont peut continuer.",
+      "next": "Le fichier prêt à relire soulève maintenant la question de ce que le club a besoin de savoir.",
+      "source_refs": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "wfsbp-2020"
+      ],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 10,
+      "focus": "Informations partagées et protection",
+      "scene": "Lucie demande seulement qui lui transmettra la version finale si Marceau est indisponible. Marceau envisage de joindre ses informations de santé puis demande à l’équipe ce qu’il est utile de partager.",
+      "development": "Distinguer une coordination pratique choisie et les démarches de protection éventuellement nécessaires, évaluées par les professionnels. Aucun danger nouveau n’est fabriqué pour justifier une divulgation ; pas de secret absolu promis ni de club surveillant.",
+      "ending": "Il transmet les modalités pratiques convenues, sans son dossier. L’équipe garde la responsabilité clinique et explique ses règles de transmission applicables.",
+      "next": "La relecture réussie pourrait lui faire prendre une amélioration ponctuelle pour la fin du besoin de suivi.",
+      "source_refs": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "wfsbp-2020",
+        "criavs-idf"
+      ],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 11,
+      "focus": "Fluctuations et interprétation des progrès",
+      "scene": "Après une bonne relecture des cartes, Marceau voudrait annuler son point clinique ; une nouvelle journée difficile le conduit à maintenir le rendez-vous et à décrire les deux périodes.",
+      "development": "Les manifestations peuvent évoluer malgré une relative stabilité du trouble. Ni succès du projet ni retour de détresse ne prouve guérison, échec total ou récidive pénale. L’équipe réévalue, sans pronostic chiffré.",
+      "ending": "La dernière correction est terminée et le suivi confirmé ; personne ne propose de lever le refus de contact comme récompense.",
+      "next": "La livraison finale peut clore le projet matériel tout en laissant le parcours de soin ouvert.",
+      "source_refs": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "wfsbp-2020"
+      ],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 12,
+      "focus": "Participation ordinaire et suivi durable",
+      "scene": "Lucie confirme avoir reçu les cartes lisibles, avec la légende et le pont corrigés. Marceau classe les fichiers ; il ne demande pas que la livraison ouvre une rencontre ou efface des limites.",
+      "development": "Distinguer accomplissement concret, responsabilité durable et évolution clinique. Le projet donne une activité indépendante du diagnostic sans démontrer une baisse du risque ; les décisions de suivi restent professionnelles.",
+      "ending": "Les cartes sont remises et acceptées pour le travail du club. Marceau conserve son rendez-vous et choisit ensuite un petit projet personnel de dessin ; la personne ayant refusé le contact reste absente.",
+      "next": "La série se ferme sur la livraison, pas sur une guérison ni une réconciliation ; l’avenir reste celui d’une personne suivie avec des limites effectives.",
+      "source_refs": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "wfsbp-2020",
+        "criavs-idf"
+      ],
+      "diagnostic_stage": "known"
+    }
+  ]
+}

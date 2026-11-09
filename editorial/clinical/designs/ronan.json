@@ -1,0 +1,196 @@
+{
+  "schema_version": 1,
+  "character_id": "ronan",
+  "code": "6D30",
+  "article_format": 2,
+  "bio": "Ronan, 37 ans, est archiviste dans une société de transports. Son Trouble exhibitionniste est déjà diagnostiqué et il poursuit un suivi spécialisé choisi. La détresse qu’il éprouve interrompt parfois son travail, sans que son métier explique son trouble. Il termine un catalogue de photographies autorisées de gares et veut participer à une rencontre professionnelle dans un cadre sûr. Avec son équipe et un adulte qu’il a choisi, il prépare ses décisions préventives tout en respectant les limites des autres. Son projet avance sans devenir une preuve de guérison.",
+  "profile_topics": [
+    "Trouble exhibitionniste",
+    "détresse et demande de soin",
+    "consentement et responsabilité",
+    "prévention individualisée",
+    "continuité professionnelle"
+  ],
+  "voice": "Ronan parle avec précision, aime les dates et les légendes exactes. Il peut être sec devant une approximation puis reprendre sa phrase. Aucune éloquence clinique permanente ; ses demandes deviennent plus explicites et supportent une réponse négative.",
+  "series_goal": "Terminer Gares en correspondance et présenter cinq notices lors d’une rencontre professionnelle, dans une modalité limitée effectivement organisée ; poursuivre le soin indépendamment du résultat.",
+  "continuity_rules": [
+    "Diagnostic établi avant le premier épisode : known partout. Ronan reste archiviste de37ans dans une société de transports. Aucun nouvel acte passé, dossier pénal, traumatisme, diagnostic associé ou scénario sexuel n’est inventé.",
+    "La chemise grise contient le catalogue Gares en correspondance ; notice des Saules puis dépôt central, cinq notices présentées et catalogue complet remis. Photographies déjà autorisées : jamais outil de déclenchement, de surveillance ou d’exercice clinique.",
+    "Claire est collègue éditrice et modératrice, Marc ami adulte choisi, docteure Leclerc et équipe spécialisée assurent le soin. Claire ne connaît que les besoins pratiques transmis, Marc accepte un rôle limité et reste absent la semaine de la rencontre ; aucun proche ne certifie la sécurité.",
+    "Plusieurs semaines séparent les étapes. Épisode6 : sommeil évalué avant la suite, aucun diagnostic associé annoncé. Épisode11 : changement transmis à l’équipe puis choix du distanciel confirmé à Claire avant vendredi. Épisode12 respecte cette modalité et poursuit le suivi.",
+    "Aucune scène d’acte, pensée sexuelle détaillée, technique, exposition, test de résistance, protocole ou prescription. Consentement et protection restent premiers ; ni préférence consensuelle ni nudité culturellement admise ne sont assimilées au trouble.",
+    "Les trois appuis de chaque futur article sont des moyens de communication, organisation ou recours professionnel. Pas de promesse de maîtrise par la volonté. En danger immédiat, solliciter les services d’urgence ; un proche peut se retirer et passer le relais.",
+    "Ne jamais confondre accords sur les photos, organisation du travail, conversation intime et consentement sexuel. Les scènes ordinaires rendent visibles des décisions ; elles ne démontrent pas à elles seules un diagnostic ni un mécanisme spécifique.",
+    "La remise du catalogue et l’intervention limitée résolvent le projet professionnel. Ni participation ni absence d’incident ne certifient la disparition du trouble ; les rendez-vous et limites demeurent."
+  ],
+  "episodes": [
+    {
+      "number": 1,
+      "focus": "La détresse conduit à demander de l’aide",
+      "scene": "Au bureau, Ronan laisse inachevée la notice de la gare des Saules : des pensées liées au trouble occupent son attention, sans contenu décrit. Son rendez-vous de suivi est déjà prévu, mais il hésite à y dire combien la semaine lui pèse. Il appelle le secrétariat pour transmettre sa demande.",
+      "development": "Détresse clinique distincte d’un acte. Montrer le temps perdu, la difficulté à parler et la demande de soin. Appuis : préparer une phrase factuelle ; réserver les détails au professionnel ; convenir d’une reprise du travail réaliste. Ne pas poser un nouveau diagnostic ni inférer un passage à l’acte. L’explication nomme sobrement le schéma caractéristique décrit au dossier : excitation persistante liée à une exposition corporelle non consentie ; aucune scène sexuelle. La détresse de Ronan concerne ce schéma déjà évalué, et non une simple peur obsessionnelle que le récit requalifierait.",
+      "ending": "Le rendez-vous est confirmé. Ronan inscrit seulement la date dans son agenda et range la notice dans la chemise grise.",
+      "next": "Au rendez-vous, il voudra comprendre pourquoi un jour plus calme ne suffit pas à effacer le diagnostic.",
+      "source_refs": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "wfsbp-2020"
+      ],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 2,
+      "focus": "Un schéma durable dépasse une mauvaise journée",
+      "scene": "Ronan apporte au suivi une note brève sur les changements de la semaine. Il voudrait réduire ce qui l’inquiète à la fatigue du bouclage. La docteure Leclerc reprend avec lui l’histoire déjà évaluée, hors champ pour les contenus intimes.",
+      "development": "Persistance du schéma distinguée d’une fluctuation quotidienne. Trois appuis : décrire le changement sans refaire son diagnostic ; demander une reformulation ; maintenir le rendez-vous suivant. Ni nombre de pensées ni durée chiffrée ne deviennent un autotest. Distinguer une pensée intrusive isolée, la peur d’un acte et le schéma d’excitation durable établi par le clinicien ; ne pas déduire le diagnostic de son inquiétude ou de ses hésitations. Le lecteur comprend la différence sans entendre le contenu des pensées.",
+      "ending": "Ronan cesse de supprimer de sa note ce qui contredit son explication par la fatigue. Il conserve le suivi et reprend la notice des Saules.",
+      "next": "La préparation de la rencontre fera émerger une confusion sur ce que veut dire consentir.",
+      "source_refs": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "wfsbp-2020"
+      ],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 3,
+      "focus": "Le consentement délimite le trouble",
+      "scene": "Marc, l’ami adulte choisi, retrouve Ronan pour un café. Ronan commence à expliquer son diagnostic ; Marc accepte une discussion générale mais refuse les détails intimes. Ronan s’arrête, puis change de sujet sans négocier cette limite.",
+      "development": "Frontière diagnostique avec les pratiques consenties, expliquée sans scène sexuelle. La scène porte sur le droit de refuser une conversation, pas sur une équivalence avec le consentement sexuel. Appuis : demander l’accord avant de parler ; respecter sa portée ; réserver le contenu clinique à l’équipe.",
+      "ending": "Marc demande des nouvelles du catalogue. Ronan lui montre uniquement sa liste de gares et accepte que le soutien ait un périmètre.",
+      "next": "L’invitation professionnelle arrive ; Ronan distingue les souhaits de participation et l’évaluation de sa situation.",
+      "source_refs": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "wfsbp-2020"
+      ],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 4,
+      "focus": "Le risque demande une évaluation individuelle",
+      "scene": "L’invitation à une rencontre hybride arrive dans la boîte de Ronan. Il voudrait une réponse immédiate de Marc sur sa capacité à y aller. Marc refuse de délivrer une assurance et Ronan organise un échange avec l’équipe avant de confirmer sa participation.",
+      "development": "Évaluation de sécurité distincte de l’étiquette diagnostique. Aucun score, scénario ou déduction de criminalité. Appuis : transmettre le contexte logistique au soignant ; examiner les options ; ne pas confirmer avant les échanges nécessaires. Les soins ne dispensent pas du respect des limites d’autrui.",
+      "ending": "Ronan demande à Claire le programme et la possibilité de présenter à distance. Il indique que sa réponse reste provisoire.",
+      "next": "Les deux options connues, Ronan reparlera du contrôle qu’il peut exercer sans en tirer une garantie.",
+      "source_refs": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "wfsbp-2020"
+      ],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 5,
+      "focus": "Contrôler une réponse ne suffit pas à guérir",
+      "scene": "Au suivi, Ronan cite une semaine durant laquelle il a tenu ses engagements préventifs. Il pense pouvoir annuler le prochain point. La docteure Leclerc distingue les décisions qu’il a effectivement prises et l’état du trouble, qui demande une appréciation plus large.",
+      "development": "Frontière avec le trouble du comportement sexuel compulsif et capacité de contrôle. Appuis : reconnaître une décision concrète ; demander ce qu’elle permet réellement de conclure ; discuter la suite au lieu d’interrompre seul les soins. Aucun diagnostic supplémentaire ni exercice pour tester sa résistance.",
+      "ending": "Ronan garde le rendez-vous suivant. Au bureau, il termine enfin la notice des Saules et ouvre celle du dépôt central.",
+      "next": "Un changement du sommeil devra être présenté séparément, sans tout attribuer au trouble connu.",
+      "source_refs": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "wfsbp-2020"
+      ],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 6,
+      "focus": "Une nouvelle difficulté mérite son propre bilan",
+      "scene": "Pendant la relecture du dépôt central, Ronan remarque qu’il dort mal depuis plusieurs nuits et peine à suivre les corrections. Il en parle au cabinet, sans décider que son trouble explique tout. L’équipe évalue ce changement et organise les suites utiles.",
+      "development": "Santé associée et diagnostic différentiel. Aucun trouble de l’humeur ou addiction ajouté par le récit. Appuis : décrire le sommeil et le retentissement ; signaler les changements pertinents au clinicien ; adapter l’échéance professionnelle après échange. Pas de causalité déduite du stress ni de traitement conseillé.",
+      "ending": "Après ce point clinique, Ronan demande à Claire de répartir la relecture sur deux séances. Elle accepte les horaires proposés, sans connaître les raisons médicales.",
+      "next": "La séance raccourcie mettra au jour sa tendance à prendre une contrainte personnelle pour une exception autorisée.",
+      "source_refs": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "wfsbp-2020"
+      ],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 7,
+      "focus": "Une justification ne crée pas une permission",
+      "scene": "Claire rappelle que la liste définitive des intervenants doit être close vendredi. Ronan se surprend à penser que ses efforts de soin devraient lui donner droit à une exception. Lors du suivi, il rapporte ce raisonnement sans le transformer en reproche à Claire.",
+      "development": "Travail clinique possible sur les interprétations, illustré ici par une rationalisation quotidienne choisie pour la fiction, non critère diagnostique universel. Appuis : distinguer souhait et accord reçu ; formuler une demande négociable ; accepter la réponse. Ne pas prétendre qu’un délai éditorial équivaut à une violation sexuelle.",
+      "ending": "Ronan répond à Claire qu’il respectera vendredi et demande la fiche technique de la visioconférence. Les notices corrigées restent dans la chemise.",
+      "next": "Il doit supporter la déception sans faire de Marc ou Claire les régulateurs de sa sécurité.",
+      "source_refs": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "wfsbp-2020"
+      ],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 8,
+      "focus": "La tension émotionnelle appelle un appui",
+      "scene": "Chez lui, Ronan relit la fiche technique et se sent tendu à l’idée d’une participation réduite. Il rédige un message accusateur puis ne l’envoie pas. Au rendez-vous prévu, il parle de la frustration et demande comment garder ses engagements quand elle augmente.",
+      "development": "Régulation émotionnelle comme besoin de soin possible, pas cause certaine du trouble. Appuis : mettre un mot sur ce qui change ; interrompre une discussion devenue pressante ; solliciter le relais convenu. Aucune respiration présentée comme garantie de sécurité et aucun public utilisé comme exercice.",
+      "ending": "Il envoie à Claire une réponse factuelle sur les documents attendus. Avec l’équipe, il clarifie qui contacter si sa situation devient préoccupante.",
+      "next": "Marc doit pouvoir préciser ses disponibilités sans devenir le seul relais de prévention.",
+      "source_refs": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "wfsbp-2020"
+      ],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 9,
+      "focus": "Un proche ne peut pas tout porter",
+      "scene": "Marc annonce qu’il sera absent la semaine de la rencontre. Ronan avait compté sur sa présence sans la redemander. Ils reprennent l’accord : Marc peut écouter certains échanges, mais il ne supervise pas le soin et ne décide pas de la participation.",
+      "development": "Retentissement relationnel et délimitation d’un soutien choisi. Appuis : demander ce que le proche accepte ; prévoir les contacts professionnels réellement disponibles ; respecter un retrait sans pression. Confidentialité discutée, jamais promesse de secret absolu en cas de danger.",
+      "ending": "Ronan vérifie les modalités de contact du service et cesse d’inscrire Marc dans le programme de la rencontre. Leur prochain café reste un café.",
+      "next": "Le point suivant avec l’équipe permettra de discuter les objectifs du soin, au-delà de cet événement.",
+      "source_refs": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "wfsbp-2020"
+      ],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 10,
+      "focus": "Choisir un soin sans promesse totale",
+      "scene": "Ronan voudrait savoir si une option de soin lui garantirait de ne plus avoir de difficulté. La docteure Leclerc précise ce qui peut être discuté, les incertitudes et l’importance du suivi. Le récit reste au niveau de la décision partagée, sans traitement nommé.",
+      "development": "Consentement éclairé et limites des connaissances. Appuis : préparer ses questions ; demander les bénéfices et limites attendus ; vérifier la prochaine étape de suivi. Ni protocole grand public ni choix thérapeutique déduit du code6D30. Les recommandations spécialisées ne garantissent pas un résultat individuel.",
+      "ending": "Ronan confirme la poursuite du suivi individualisé. Il peut enfin distinguer sa décision de soin de sa décision professionnelle, encore à préciser avant vendredi.",
+      "next": "Une fluctuation récente conduira à choisir une modalité plus limitée pour la rencontre.",
+      "source_refs": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "wfsbp-2020"
+      ],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 11,
+      "focus": "Une fluctuation conduit à réviser le projet",
+      "scene": "Avant vendredi, Ronan signale à l’équipe que sa détresse a de nouveau augmenté. Après leur échange et sans scène de danger, il choisit une participation à distance depuis un bureau réservé. Il prévient Claire avant la clôture ; elle confirme ce format et un créneau bref.",
+      "development": "Évolution variable et réévaluation du plan, distinctes d’une rechute en acte. Appuis : signaler le changement ; ajuster la participation ; vérifier que le relais demeure accessible. Aucun certificat de risque nul. Si la sécurité ne peut être maintenue, l’activité est suspendue et l’aide professionnelle sollicitée immédiatement.",
+      "ending": "Le bureau est réservé pour Ronan seul et Claire assurera la modération depuis la rencontre. La présentation est limitée à cinq notices ; le catalogue complet est livré séparément.",
+      "next": "Le dernier épisode reprend cette organisation effective, sans rétablir une présence physique pour produire une fin plus spectaculaire.",
+      "source_refs": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "wfsbp-2020"
+      ],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 12,
+      "focus": "Le travail continue avec le suivi",
+      "scene": "Dans le bureau réservé, Ronan ouvre sa présentation pendant que Claire lance la rencontre à distance. Les cinq notices sont prêtes, la gare des Saules en premier. Il présente les dates corrigées et répond aux questions documentaires ; aucun renseignement de santé ne figure à l’écran.",
+      "development": "Fonctionnement professionnel et participation adaptés, pas preuve de guérison. Appuis : tenir le rôle convenu ; respecter la fin du créneau ; garder la prochaine étape de soin. Les aménagements sont ceux de cette fiction, sans efficacité thérapeutique ni obligation d’employeur affirmée.",
+      "ending": "Le catalogue Gares en correspondance est remis. Ronan termine son créneau, ferme la visioconférence et garde son rendez-vous de suivi. Il note une idée d’index des anciennes lignes, sans retirer les limites convenues.",
+      "next": "L’enjeu professionnel de la série est résolu ; les soins et les décisions de prévention se poursuivent, indépendamment du prochain catalogue.",
+      "source_refs": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "wfsbp-2020"
+      ],
+      "diagnostic_stage": "known"
+    }
+  ]
+}
