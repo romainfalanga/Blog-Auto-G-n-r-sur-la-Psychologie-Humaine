@@ -820,7 +820,7 @@
       "ending": "Salomé prépare les affaires de rechange et leur rangement. Titouan remet Le phare sans escalier dans le sac, avec le marque-page déjà prêt. Il choisit de laisser son carnet du club à côté pour le prendre le jour venu. Le parent contacte la médiathèque ; Mme Dumas accepte un échange discret après la prochaine séance pour vérifier ce qui est possible pendant la nuit. Le sac contient maintenant davantage qu’une inquiétude, même s’il reste à organiser l’aide sur place.",
       "conclusion": "La fatigue du parent mérite une réponse sans devenir une accusation. Titouan choisit sa contribution au sac, et Salomé assure la préparation pratique. Le projet avance avec des responsabilités adaptées ; personne n’a à gagner sa place en prenant en charge le linge.",
       "mirror": [
-        "Salomé peut dire : « Je suis fatigué de cette matinée ; nous allons organiser le sac autrement. » Si le parent préfère éviter une formulation sur son état, il peut simplement nommer les tâches qui restent. Titouan peut proposer de prendre son livre, mais il n’a pas à porter la lessive ni l’humeur de l’adulte pour que la sortie demeure possible."
+        "Salomé peut dire : « Cette matinée était fatigante ; nous allons organiser le sac autrement. » Le parent peut nommer les tâches qui restent et chercher un appui adulte sans demander à Titouan de supprimer son envie. L’enfant peut proposer de prendre son livre, mais il n’a pas à porter la lessive ni l’humeur de l’adulte pour que la sortie demeure possible."
       ],
       "clinical_focus": "La fatigue familiale sans reproche",
       "diagnostic_stage": "known",
@@ -934,6 +934,315 @@
       "continuity": {
         "choice": "Phrase « J’ai besoin de mon sac », change privé, Mme Dumas présente et Salomé joignable sont confirmés ; Titouan veut essayer.",
         "next": "Une nouvelle nuit mouillée à domicile met à l’épreuve sa décision, quelques jours avant l’événement."
+      }
+    },
+    {
+      "number": 10,
+      "slug": "titouan-variation-nuits",
+      "title": "Une variation ne prédit pas la prochaine nuit",
+      "description": "Un nouvel accident fait douter Titouan de sa décision. Le plan reste utile sans prédire ce qui arrivera à la médiathèque.",
+      "context": "Quelques jours avant la nuit du club",
+      "topics": [
+        "Évolution variable",
+        "Pronostic incertain",
+        "Décision révisable"
+      ],
+      "clinical_intro": "L’évolution de l’énurésie peut varier, et une courte suite de nuits ne permet pas de prédire la suivante. Une nuit sèche ne prouve pas une guérison ; une nuit mouillée ne décide pas à elle seule d’une sortie. Titouan découvre un nouvel accident et reprend le formulaire. Salomé l’aide à revoir les possibilités sans imposer une conclusion.",
+      "opening": "Le formulaire n’est plus caché sous le livre depuis plusieurs jours. Il est posé à côté du sac bleu, avec les informations pratiques préparées pour Mme Dumas. Titouan le prend avant même de descendre déjeuner. Cette nuit, le lit a été mouillé de nouveau. Les nuits précédentes n’avaient pas toutes été semblables, et il avait commencé à croire que la dernière impression pourrait lui dire comment se passerait celle du club.\n\nIl tient la feuille par les deux coins, sans la déchirer. Salomé arrive avec des affaires propres et l’aide comme prévu. « Ça veut dire que c’est impossible », dit Titouan en regardant la date de la médiathèque. Le parent s’assied à côté de lui. La phrase pour demander le sac, l’espace de change et la possibilité de rentrer existaient déjà quand ils ont préparé le plan. Mais ce matin, Titouan les voit moins bien que le linge à remplacer.\n\nLe sac est pourtant prêt : le livre ne s’est pas déplacé, le marque-page indique toujours la recherche de la porte, et les affaires de rechange sont à leur place. Salomé lui demande ce qui lui paraît impossible maintenant. Titouan répond qu’il ne veut pas annoncer oui puis devoir demander de l’aide. Il avait compris le plan ; il aurait préféré n’en avoir aucun besoin. La feuille reste entière entre ses mains, en attendant qu’une décision puisse être autre chose qu’une prédiction.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Les observations éclairent le suivi sans annoncer une nuit précise",
+          "text": "L’énurésie peut persister ou évoluer de façon variable. Les observations prennent sens dans le suivi professionnel, sans permettre de conclure à partir d’une courte séquence que tout est résolu ou que rien ne pourra changer. Titouan n’a ici aucun symptôme nouveau préoccupant ; il rencontre une nouvelle nuit mouillée dans un tableau connu. Un changement de santé inquiétant appellerait un contact médical adapté, et ne devrait pas être simplement attribué à l’énurésie. Sa décision de sortie peut tenir compte du plan disponible sans exiger une certitude sur son sommeil."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment une nouvelle nuit mouillée fragilise-t-elle la décision ?",
+          "points": [
+            {
+              "heading": "Transformer le dernier événement en prévision",
+              "text": "Le fait le plus récent prend toute la place, comme s’il annonçait ce qui doit suivre.",
+              "examples": [
+                "Titouan dit que la sortie est devenue impossible.",
+                "Il regarde la date du club en pensant au linge de ce matin."
+              ]
+            },
+            {
+              "heading": "Oublier le rôle d’un plan préparé",
+              "text": "Une aide peut avoir été acceptée en théorie puis sembler insuffisante quand le besoin redevient concret.",
+              "examples": [
+                "La phrase convenue avec Mme Dumas lui paraît moins présente que l’accident.",
+                "Il aurait voulu annoncer oui sans jamais devoir demander le sac."
+              ]
+            },
+            {
+              "heading": "Garder malgré tout une décision ouverte",
+              "text": "L’hésitation laisse une place au choix, à condition que l’adulte ne la transforme pas en épreuve de courage.",
+              "examples": [
+                "Titouan reprend le formulaire sans le déchirer.",
+                "Le sac et le passage de lecture restent prêts pendant leur échange."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour revoir la décision sans prédire le sommeil",
+          "points": [
+            {
+              "heading": "Conserver le fait utile au suivi",
+              "objective": "Décrire la variation sans interprétation définitive.",
+              "exercise": [
+                "Renseignez l’observation selon ce qui a été convenu avec le médecin.",
+                "Gardez la question sur l’évolution pour le prochain échange de suivi.",
+                "Si un signe nouveau préoccupant apparaît, contactez le soignant sans attendre le bilan de la sortie."
+              ],
+              "benefit": "L’information reste disponible sans autodiagnostic ni banalisation d’un changement médical."
+            },
+            {
+              "heading": "Reprendre les moyens concrets",
+              "objective": "Vérifier que l’aide prévue reste réellement accessible.",
+              "exercise": [
+                "Revenez à la place du sac et à l’espace de change.",
+                "Confirmez avec Mme Dumas sa disponibilité pour la nuit.",
+                "Salomé confirme de nouveau comment le joindre et organiser un retour."
+              ],
+              "benefit": "Le choix s’appuie sur des moyens réels plutôt que sur l’espoir d’une nuit obligatoirement sèche."
+            },
+            {
+              "heading": "Laisser plusieurs décisions acceptables",
+              "objective": "Éviter que participer ou rentrer deviennent des notes de courage.",
+              "exercise": [
+                "Parlez des possibilités de venir, de rester seulement le soir ou de rentrer si nécessaire.",
+                "Écoutez ce que Titouan préfère après avoir revu les appuis.",
+                "Gardez la décision révisable sans reproche ni récompense."
+              ],
+              "benefit": "Il peut choisir une participation à sa mesure sans devoir prouver qu’il maîtrise le trouble."
+            }
+          ]
+        }
+      ],
+      "ending_title": "La feuille reste entière",
+      "ending": "Titouan pose le formulaire sur la table. Il veut toujours lire son passage, et il souhaite essayer la nuit avec la possibilité de rentrer. Salomé confirme avec Mme Dumas les dispositions prévues ; les adultes restent disponibles. Le sac bleu est fermé après une dernière vérification ordinaire. Aucun résultat nocturne n’est promis. Titouan remet le marque-page droit et demande seulement si Noé aura déjà lu la fin avant leur arrivée.",
+      "conclusion": "La variation d’une nuit ne fournit pas une prévision certaine. Titouan maintient son choix en s’appuyant sur une organisation vérifiée, avec le droit de changer d’avis. Le suivi continue séparément, sans transformer la sortie en test de guérison.",
+      "mirror": [
+        "Salomé peut dire : « Ce matin est difficile. Le plan était justement prévu pour que tu puisses être aidé si cela arrive. » Le parent écoute aussi une envie de renoncer ou de ne rester que le soir. Confirmer sa disponibilité n’oblige pas Titouan à partir ; cela lui donne une possibilité sur laquelle fonder sa décision."
+      ],
+      "clinical_focus": "Une variation ne prédit pas la prochaine nuit",
+      "diagnostic_stage": "known",
+      "sources": [
+        "oms-cddr",
+        "nice-cg111"
+      ],
+      "continuity": {
+        "choice": "Titouan maintient son choix d’essayer avec retour possible ; sac prêt et disponibilité des adultes reconfirmée.",
+        "next": "Le soir de la nuit, il apporte le sac et lit le passage du phare ; un accident survient ensuite pendant le sommeil."
+      }
+    },
+    {
+      "number": 11,
+      "slug": "titouan-accident-aide-discrete",
+      "title": "Répondre à un accident avec une aide discrète",
+      "description": "Un accident survient après la lecture. Titouan demande son sac à Mme Dumas, qui applique le plan prévu et lui laisse le choix de rentrer.",
+      "context": "La première nuit à la médiathèque",
+      "topics": [
+        "Aide prévue",
+        "Intimité",
+        "Choix après l’accident"
+      ],
+      "clinical_intro": "Un accident d’énurésie pendant une nuit collective appelle une aide pratique respectueuse de l’intimité. Il ne constitue pas à lui seul une faute ou une urgence. Après avoir lu son passage, Titouan se réveille avec un besoin de change. Mme Dumas met en œuvre le plan convenu, sans solliciter les camarades ni décider à sa place de la suite.",
+      "opening": "Titouan a lu le passage du gardien en tenant sa lampe près de la page. Au moment où le personnage pose la main sur la pierre, il a ralenti un peu. Noé voulait déjà donner son explication, mais Mme Dumas a gardé la discussion pour après la dernière phrase. Ils ont parlé de la passerelle et de la fenêtre. Le sac bleu était à la place prévue, accessible, et Salomé avait confirmé avant de partir que le téléphone resterait disponible.\n\nPlus tard, Titouan s’est endormi. Lorsqu’il se réveille, il comprend qu’un accident a eu lieu. Il ne ressent pas de douleur ni de malaise ; ce qui le retient un instant, c’est la peur de devoir bouger alors que les autres dorment. Il regarde le sac, puis l’endroit où Mme Dumas assure la présence convenue. La phrase préparée lui revient, moins nette que dans la conversation de l’après-midi.\n\nIl rejoint la bibliothécaire et dit doucement : « J’ai besoin de mon sac. » Elle répond sans lui faire répéter devant quelqu’un d’autre. Elle prend avec lui ce qui est nécessaire et l’accompagne vers l’espace privé vérifié lors de leur rendez-vous. Noé n’est pas réveillé pour aider. Titouan n’a pas à raconter toute la consultation. Il lui reste cependant une question qu’il n’avait pas réussi à trancher chez lui : après le change, aura-t-il encore envie de rester parmi les livres ?",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Appliquer le plan sans transformer l’accident en spectacle",
+          "text": "Une réponse calme et pratique protège la dignité de l’enfant lors d’un accident d’énurésie. Le change, le couchage et l’écoute de sa préférence relèvent des adultes responsables ; ils ne sont pas une punition à accomplir avant de reprendre sa place. Dans cette scène, l’accident correspond à la difficulté connue et ne s’accompagne pas de signe nouveau préoccupant. Une douleur, un malaise ou un autre changement inquiétant demanderait un relais médical adapté, sans être gardé secret pour terminer la nuit. La discrétion reste compatible avec cette protection."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment le besoin d’aide apparaît-il au milieu de la nuit ?",
+          "points": [
+            {
+              "heading": "Hésiter avant de se déplacer",
+              "text": "La crainte d’être remarqué peut retarder la demande même quand un plan existe.",
+              "examples": [
+                "Titouan reste un instant à regarder son sac après le réveil.",
+                "Il pense aux autres enfants endormis avant de rejoindre Mme Dumas."
+              ]
+            },
+            {
+              "heading": "Utiliser un repère préparé",
+              "text": "La phrase et la présence de l’adulte donnent une voie concrète à la demande. Elles ne suppriment pas forcément la gêne.",
+              "examples": [
+                "Il dit qu’il a besoin de son sac plutôt que de tout expliquer.",
+                "Mme Dumas répond sans lui faire répéter devant les camarades."
+              ]
+            },
+            {
+              "heading": "Réexaminer son envie de rester",
+              "text": "Une décision prise avant l’événement peut être revue après le besoin de change. Aucune issue n’est une preuve de valeur.",
+              "examples": [
+                "Titouan se demande s’il veut encore passer la nuit sur place.",
+                "La possibilité de joindre Salomé demeure disponible après l’aide pratique."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour mettre en œuvre une aide respectueuse",
+          "points": [
+            {
+              "heading": "Rejoindre l’adulte prévu",
+              "objective": "Ne pas laisser l’enfant gérer seul la situation.",
+              "exercise": [
+                "Titouan utilise sa phrase ou toute autre demande compréhensible.",
+                "Mme Dumas répond et vérifie calmement le besoin immédiat.",
+                "Si un changement de santé l’inquiète, elle mobilise le parent et le relais médical approprié."
+              ],
+              "benefit": "L’aide reste accessible même si la demande est hésitante, et la confidentialité ne bloque pas les soins nécessaires."
+            },
+            {
+              "heading": "Utiliser l’espace privé et le matériel",
+              "objective": "Assurer le confort sans exposition ni dette.",
+              "exercise": [
+                "L’adulte accompagne l’accès au sac et au lieu de change convenus.",
+                "Il apporte l’aide nécessaire en respectant l’intimité et ce que l’enfant peut faire à sa mesure.",
+                "Il prend en charge l’organisation du linge et du couchage sans solliciter un camarade."
+              ],
+              "benefit": "Les besoins pratiques sont réglés avec les moyens préparés ; l’accident ne devient pas une scène collective."
+            },
+            {
+              "heading": "Proposer de rester ou de rentrer",
+              "objective": "Maintenir une décision libre après l’accident.",
+              "exercise": [
+                "Mme Dumas demande ce que Titouan souhaite maintenant.",
+                "Elle rappelle qu’elle peut joindre Salomé pour un retour comme prévu.",
+                "Elle applique le choix possible avec lui et garde l’aide disponible si son envie change."
+              ],
+              "benefit": "Rester ne constitue pas un exploit exigé, et rentrer ne serait pas une sanction ou un échec."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Le sac se referme sans annonce",
+      "ending": "Dans l’espace privé, Titouan reçoit l’aide prévue. Mme Dumas s’occupe de l’organisation du linge et du couchage ; il remet ses affaires propres avec l’intimité nécessaire. Elle lui propose de contacter Salomé pour rentrer s’il le souhaite. Après un moment, il choisit de rester. Le parent demeure joignable selon leur accord, et la bibliothécaire garde sa présence disponible. Titouan retrouve sa place sans annonce au groupe. Il range le marque-page qui dépassait de la couverture et pense à la question de Noé sur la passerelle.",
+      "conclusion": "Le plan a servi au moment où il était nécessaire. Titouan a reçu une aide discrète puis choisi de rester, sans que ce choix soit supérieur à un retour. La lecture a eu lieu et l’accident a été accompagné ; le suivi reste nécessaire.",
+      "mirror": [
+        "Mme Dumas peut répondre : « Oui, je viens avec toi. Ensuite, tu pourras me dire si tu veux rester ou appeler Salomé. » Elle n’a pas à féliciter Titouan d’être courageux en restant. Noé continue sa nuit comme un camarade, sans responsabilité de linge ou de secret. Si un signe médical préoccupant apparaissait, les adultes organiseraient le relais nécessaire."
+      ],
+      "clinical_focus": "Répondre à un accident avec discrétion",
+      "diagnostic_stage": "known",
+      "sources": [
+        "oms-cddr",
+        "nice-cg111"
+      ],
+      "continuity": {
+        "choice": "Après la lecture et un accident ordinaire, Titouan reçoit l’aide privée de Mme Dumas et choisit de rester ; Salomé demeure joignable.",
+        "next": "Le matin permet de parler du livre et de décider de la suite du club, sans noter la nuit comme un échec."
+      }
+    },
+    {
+      "number": 12,
+      "slug": "titouan-participer-sans-guerison",
+      "title": "Participer sans attendre la disparition de l’énurésie",
+      "description": "Au matin, Titouan défend sa lecture du phare. La nuit a comporté un accident et une aide, sans effacer son plaisir ni clore le suivi.",
+      "context": "Le petit déjeuner et le retour de la médiathèque",
+      "topics": [
+        "Projet accompli",
+        "Bilan distinct du soin",
+        "Participation libre"
+      ],
+      "clinical_intro": "L’énurésie n’efface pas les intérêts et les choix d’un enfant. Une participation accompagnée peut être satisfaisante même lorsqu’un accident survient, sans annoncer une guérison. Au matin de la nuit à la médiathèque, Titouan revient d’abord au livre. Il pourra ensuite parler en privé de l’aide reçue et choisir la suite du club, avec son suivi maintenu.",
+      "opening": "Noé pose son bol à côté du roman et affirme qu’il a trouvé : la porte du phare est sous la passerelle. Titouan secoue la tête avant même d’avoir fini sa tartine. « Alors pourquoi le gardien cherche sur le mur ? Il connaît forcément sa passerelle. » Leur désaccord reprend presque à l’endroit où la lecture s’est arrêtée. Autour d’eux, les autres enfants rangent doucement leurs affaires entre deux commentaires sur les histoires de la veille.\n\nLe sac bleu est fermé près du pied de la table. Titouan sait ce qu’il contient maintenant et se souvient de l’aide de Mme Dumas. Il ne fait pas comme si l’accident n’avait pas existé. Mais il n’a pas besoin de raconter sa nuit entière pour soutenir son idée sur le livre. Il préfère que la porte reste introuvable à la dernière page : le gardien devra chercher encore, et les lecteurs aussi.\n\nQuand Salomé arrive, Titouan montre d’abord la carte. Il raconte comment Noé a voulu donner la solution avant la fin du passage. Mme Dumas reste disponible pour un échange discret après les départs. Salomé écoute la discussion du phare avant de demander, à l’écart, comment l’aide prévue s’est passée. Titouan garde le roman contre lui. Il a envie de revenir au club ; cela ne répond pas encore à toutes les questions pratiques pour une éventuelle autre nuit.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Le bilan d’une sortie ne se réduit pas à l’absence d’accident",
+          "text": "L’énurésie peut retentir sur la vie sociale, mais la continence nocturne n’est pas la seule manière d’apprécier une expérience. Titouan a lu un passage choisi, reçu une aide prévue et décidé de rester. Cette issue individuelle ne signifie ni que chacun devrait faire de même ni que la participation traiterait le trouble. Le suivi médical demeure distinct du bilan du livre. Les adultes peuvent revoir l’organisation avec lui sans faire d’une prochaine nuit une obligation ou un examen de progrès."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment le projet retrouve-t-il toute sa place au matin ?",
+          "points": [
+            {
+              "heading": "Reprendre un désaccord de lecteur",
+              "text": "L’intérêt partagé existe à côté du problème de santé et peut revenir au premier plan.",
+              "examples": [
+                "Noé propose une porte sous la passerelle.",
+                "Titouan défend une fin où le gardien cherche encore."
+              ]
+            },
+            {
+              "heading": "Parler du soin dans un autre espace",
+              "text": "L’aide reçue mérite un bilan, sans envahir la conversation du groupe.",
+              "examples": [
+                "Salomé écoute d’abord le récit de la lecture.",
+                "Mme Dumas reste disponible pour un échange discret après les départs."
+              ]
+            },
+            {
+              "heading": "Exprimer une envie sans signer pour toutes les nuits",
+              "text": "Souhaiter continuer le club n’engage pas l’enfant à répéter une expérience identique.",
+              "examples": [
+                "Titouan veut retrouver les discussions de lecture.",
+                "Il n’a pas encore décidé ce qui conviendrait pour une autre nuit collective."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour poursuivre le projet tout en gardant les soins",
+          "points": [
+            {
+              "heading": "Faire une place au bilan de lecture",
+              "objective": "Reconnaître ce que l’enfant venait chercher dans l’activité.",
+              "exercise": [
+                "Demandez quel passage ou échange il souhaite raconter.",
+                "Écoutez son avis sans ramener chaque phrase à l’accident.",
+                "Accueillez aussi une déception artistique ou un désaccord ordinaire."
+              ],
+              "benefit": "L’expérience conserve plusieurs dimensions et l’enfant n’est pas réduit à sa santé."
+            },
+            {
+              "heading": "Revoir l’aide en privé",
+              "objective": "Améliorer l’organisation à partir de ce qui s’est réellement passé.",
+              "exercise": [
+                "Salomé et Mme Dumas demandent à Titouan ce qui lui a été utile ou difficile.",
+                "Ils vérifient les affaires à remplacer et les appuis à ajuster.",
+                "Ils conservent les informations nécessaires au suivi sans compte rendu au groupe."
+              ],
+              "benefit": "Le plan peut évoluer sans qualifier la nuit de réussite ou d’échec selon le seul accident."
+            },
+            {
+              "heading": "Laisser la suite ouverte",
+              "objective": "Maintenir le suivi et la liberté de participation.",
+              "exercise": [
+                "Gardez le prochain rendez-vous médical convenu.",
+                "Distinguez l’envie de retourner au club d’un engagement à dormir ailleurs.",
+                "Reprenez chaque projet futur avec ses possibilités de rester, de partir ou de ne pas venir."
+              ],
+              "benefit": "Une expérience accompagnée ne crée ni obligation d’exposition ni promesse de guérison."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Une autre histoire de phare",
+      "ending": "À l’écart, Titouan dit que la phrase du sac l’a aidé, mais qu’il a hésité avant de la prononcer. Salomé et Mme Dumas retiennent ce point pour une éventuelle autre sortie. Le sac sera réorganisé à la maison, et le rendez-vous de suivi reste prévu. Avant de partir, Titouan demande s’il existe un autre roman avec un phare dont la carte ne donne pas toutes les réponses. Il veut revenir au club pour le proposer à Noé. Il a préparé son sac, lu son passage et vécu cette première nuit avec une aide réelle. Personne n’annonce que son énurésie a disparu.",
+      "conclusion": "Le projet de lecture a abouti sans exiger une nuit sèche. Titouan garde le plaisir de discuter, le droit de revoir ses choix et un accompagnement médical. Le sac et le plan pourront être adaptés ; une future participation ne sera jamais due au résultat de celle-ci.",
+      "mirror": [
+        "Salomé peut dire : « Raconte-moi la discussion sur la porte ; nous parlerons ensuite du sac à l’écart. » Mme Dumas peut écouter ce qui a rendu la demande difficile sans présenter le fait de rester comme une victoire obligatoire. Les adultes conservent les appuis utiles, et Noé reste libre de ne pas être d’accord avec la fin préférée de Titouan."
+      ],
+      "clinical_focus": "Participer sans attendre la guérison",
+      "diagnostic_stage": "known",
+      "sources": [
+        "oms-cddr",
+        "cps-enuresis-2023"
+      ],
+      "continuity": {
+        "choice": "Titouan veut revenir au club et chercher une autre histoire de phare ; l’aide est revue en privé et le suivi maintenu.",
+        "next": "Fin de série : lecture et première nuit accomplies à sa mesure, participation future libre, soins et confidentialité maintenus."
       }
     }
   ]
