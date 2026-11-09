@@ -1,0 +1,124 @@
+{
+  "schema_version": 1,
+  "character_id": "malou",
+  "reviewer": "review_malou",
+  "reviewed_on": "2026-11-09",
+  "summary": "Lecture indépendante intégrale des douze épisodes, y compris introductions, trois manifestations et leurs exemples, trois exercices, conclusions et proches. Canon, charte et modèle recoupés avec dossier et plan ; CDDR OMS pages imprimées 544–549 lus dans le PDF original disponible, NICE CG158 sections pertinentes vérifiées sur résultats officiels indexés. Le diagnostic connu repose sur une évaluation antérieure, non sur ces seuls désaccords ; aucun sous-type, comorbidité ou pronostic adulte ajouté. Retentissement illustré sans infraction détaillée ni stigmatisation ; interventions multimodales 11–17 ans distinguées des aménagements associatifs, aucun protocole 9–14 transposé. Les responsabilités de sécurité, l’autonomie des acteurs, la confidentialité expliquée à la mineure et la réparation sans pardon sont préservées. La progression préparation individuelle puis montage individuel puis reprise collective est lisible. Rapport lié aux trois empreintes exactes, sans modification du manuscrit ; aucune correction ouverte. Cette lecture éditoriale ne transforme pas les sources diagnostiques ou le cadre britannique en protocole français.",
+  "files": {
+    "editorial/clinical/designs/malou.json": "ced468138dc732e25e0f95a4b4af3eeafd036b660b0d567117f74c24f776cde0",
+    "editorial/clinical/dossiers/malou.json": "f9f949b2b80d6d0192b9a4bca5bcaaeb7e6a7ccea23ecedbca34ea656d19c1b5",
+    "editorial/clinical/malou.json": "b5b12afae90e3d4c9fa2762f33fb36a93523f3105ac121209710698f0ba25628"
+  },
+  "status": "passed",
+  "findings": [],
+  "episode_checks": [
+    {
+      "number": 1,
+      "focus": "Respecter le choix des autres",
+      "opening_quote": "Le carnet orange est ouvert à la dernière page de La Fenêtre du palier. Malou a dessiné deux silhouettes près d’une plante et tracé une flèche entre elles. Elle veut que les voisins se réconcilient sans musique, avec seulement le bruit de la porte. À quinze ans, elle se forme au montage vidéo à l’association Le Passage. Elle connaît précisément le raccord qu’elle voudrait obtenir. Sana, qui joue l’un des personnages, relit la proposition et repose le crayon.",
+      "ending_quote": "Malou referme le carnet sans obtenir de nouvelle réponse de Sana.",
+      "continuity_note": "La séance collective est suspendue dès l’ouverture ; deux fins restent à préparer individuellement avec Marc. Le carnet orange et le projet La Fenêtre du palier sont introduits sans variante de canon.",
+      "clinical_note": "L’atteinte au choix de Sana apparaît dans la répétition après son refus. Diagnostic déjà établi distingué explicitement d’un désaccord isolé ; les trois appuis portent sur accord, alternative et arrêt, sans prétendre démontrer le diagnostic.",
+      "relatives_note": "Marc suspend réellement la discussion ; Joël et Sana ne sont chargés ni du calme ni de la réassurance. La formule proposée au parent reconnaît la déception sans faire retirer le refus."
+    },
+    {
+      "number": 2,
+      "focus": "Reconnaître les conséquences de ses actes",
+      "opening_quote": "Inès pose le planning à côté du carnet orange. La préparation se poursuit individuellement ; les acteurs ne sont pas présents et la séance collective reste suspendue. Malou a dessiné les deux fins proposées, mais elle a barré le jour prévu pour les revoir avec Sana et Joël. « Tout est en retard parce qu’elle a changé d’avis », dit-elle en montrant le prénom de Sana. Inès, son éducatrice référente, ne lui demande pas de choisir immédiatement une autre phrase. Elle reprend l’ordre des faits.",
+      "ending_quote": "Malou écrit : « J’ai continué après le refus ; la discussion a été arrêtée.",
+      "continuity_note": "Les deux fins et le planning reprennent exactement la conséquence de la suspension ; le travail reste individuel. La note du groupe prépare l’épisode 3.",
+      "clinical_note": "L’ordre des faits distingue le refus légitime de Sana de l’insistance de Malou puis de la suspension. Le retard n’est pas présenté comme la faute de Sana ; responsabilité limitée et sans jugement global, aucune absence de remords diagnostiquée.",
+      "relatives_note": "Inès reconnaît le travail réel tout en reprenant ce qui reste à examiner. Les parents peuvent soutenir sans effacer la responsabilité ; aucune humiliation ou confession demandée."
+    },
+    {
+      "number": 3,
+      "focus": "Attribuer trop vite des intentions hostiles",
+      "opening_quote": "La note tient sur quelques lignes. Marc l’a transmise à Inès pour la préparer avec Malou : les acteurs veulent que leur choix de rôle soit respecté, qu’une discussion reste encadrée et qu’aucune réponse immédiate ne leur soit demandée. La séance collective demeure suspendue. Malou lit jusqu’au bout, puis replie la feuille. « Ils veulent que je parte. Ils n’ont qu’à le dire. » Elle pousse le carnet orange de l’autre côté de la table.",
+      "ending_quote": "Marc confirme qu’un rendez-vous de préparation peut être organisé avec les adultes concernés.",
+      "continuity_note": "La note reçue maintient la suspension, ne promet pas le retour et prépare un rendez-vous avec les adultes. Les messages des camarades ouvrent l’épisode 4 sans retour implicite au groupe.",
+      "clinical_note": "L’intention hostile est explicitement une lecture personnelle possible et non un critère obligatoire du trouble. Les exemples séparent texte, peur et hypothèse ; les exercices ne promettent pas une réponse favorable.",
+      "relatives_note": "Inès ne confirme ni complot ni amour unanime. Elle propose un contact avec Marc au lieu d’une confrontation avec les acteurs ; le parent conserve ce canal."
+    },
+    {
+      "number": 4,
+      "focus": "Appartenance au groupe et influence des pairs",
+      "opening_quote": "En sortant de son rendez-vous individuel à l’association, Malou regarde les messages de deux camarades. Aucun acteur n’a été convié à la préparation et le groupe de cinéma n’a pas repris. Les camarades connaissent surtout sa déception. Ils lui écrivent qu’elle ne devrait rien céder, qu’un film a besoin d’une personne qui décide. Malou relit cette phrase avec soulagement. Elle ne lui demande pas d’examiner sa part dans l’interruption ; elle lui donne immédiatement un camp.",
+      "ending_quote": "Malou écrit qu’elle parlera avec Inès et qu’elle ne souhaite aucune intervention auprès de Sana ou de Joël.",
+      "continuity_note": "Les messages arrivent après la préparation individuelle ; Étienne intervient au domicile et la réponse choisie mène au rendez-vous de l’épisode 5. Aucun camarade ne contacte effectivement les acteurs.",
+      "clinical_note": "Le besoin d’appartenance est contextualisé sans bande délinquante inventée ni causalité unique des pairs. Les appuis distinguent soutien, objectif et limite de contact, sans détailler une suggestion nuisible.",
+      "relatives_note": "Étienne questionne ce qui aide et ce qui pousse, sans dicter la déclaration ni désigner toutes les amitiés comme mauvaises. Un appui adulte est proposé si la limite de contact est contournée."
+    },
+    {
+      "number": 5,
+      "focus": "Interrompre une escalade de colère",
+      "opening_quote": "Marc a prévu un rendez-vous avec Malou et Inès, sans les acteurs. Le carnet orange reste sur la table, ouvert sur les deux fins possibles. Malou commence par demander quand elle pourra les montrer au groupe. Marc répond qu’ils vont préparer les conditions, mais que la séance collective reste suspendue. Elle le savait avant de venir ; l’entendre maintenant lui paraît pourtant refermer la seule porte qu’elle avait gardée ouverte.",
+      "ending_quote": "Une fois le calme revenu, Inès contacte effectivement l’équipe spécialisée avec Malou et ses parents.",
+      "continuity_note": "Marc maintient la suspension ; Inès accompagne Malou hors de la discussion puis contacte effectivement l’équipe avec elle et ses parents. Le rendez-vous clinique de l’épisode suivant est annoncé, sans retour collectif.",
+      "clinical_note": "La montée du ton et les interruptions rendent l’escalade visible ; le texte dit qu’une colère ne définit pas le trouble et n’est pas forcément dangereuse. Aucun geste coercitif ; recours urgent réservé au danger immédiat.",
+      "relatives_note": "La sécurité appartient aux adultes, sans demander à Sana ou Joël de céder. Les parents rejoignent le relais après le calme plutôt que multiplier les reproches dans la tension."
+    },
+    {
+      "number": 6,
+      "focus": "Méfiance envers les propositions de soin",
+      "opening_quote": "Malou arrive chez Mme Girard avec le carnet orange fermé contre elle. Le contact pris après le rendez-vous avec Marc a bien conduit à ce point clinique. Nadia et Étienne sont présents au début, puis un temps individuel est prévu. Malou connaît déjà la psychologue et son diagnostic ; elle n’attend pourtant pas grand-chose de cette rencontre. Elle imagine la liste des comportements qui ont déplu aux adultes et la phrase qui les résumerait : il faut écouter.",
+      "ending_quote": "Malou accepte de travailler avec l’équipe sur un objectif concret : pouvoir recevoir une limite sans continuer à faire pression sur l’autre.",
+      "continuity_note": "Le point avec Mme Girard reprend explicitement le contact de l’épisode 5. Temps individuel puis retour parental selon le cadre annoncé ; le carnet de projet demeure distinct du dossier clinique.",
+      "clinical_note": "Objectif personnel du film et alliance de soin sont articulés sans certificat de bonne conduite. Confidentialité expliquée avec limites de protection, aucun secret absolu, aucune méthode spécialisée prétendument délivrée par l’association.",
+      "relatives_note": "Les parents demandent ce qui a été compris sans réclamer les confidences du temps individuel. Marc ne conditionne la reprise à une confidence ou à une guérison."
+    },
+    {
+      "number": 7,
+      "focus": "Retentissement familial et épuisement des proches",
+      "opening_quote": "Au dîner, Nadia demande à Malou si elle se souvient de ce qui a été décidé avec Mme Girard. Malou répond oui. Sa mère reprend pourtant les différents points, craignant d’en oublier un. Étienne apporte les assiettes et change de sujet vers le lendemain. Malou lui demande ce qu’il pense de la fin du film ; il répond qu’ils en reparleront plus tard. Elle entend surtout que personne ne veut plus entendre parler d’autre chose que du problème.",
+      "ending_quote": "La famille reprend la question avec l’équipe et fixe un bref échange prévu pour les points utiles.",
+      "continuity_note": "Le travail à domicile porte sur des dessins de transition ; aucune reprise collective ou montage en atelier anticipé. Le bilan familial est effectivement repris avec l’équipe avant le repas suivant.",
+      "clinical_note": "L’épuisement est montré par rappels de Nadia et évitement d’Étienne, sans les désigner causes du trouble. Temps d’échange, vie ordinaire et soutien parental restent des aménagements accompagnés, avec exception d’urgence explicite.",
+      "relatives_note": "Nadia formule son propre besoin à l’équipe ; Malou n’a pas à promettre de ne plus se mettre en colère pour soutenir sa mère. Les limites protectrices demeurent pendant les temps ordinaires."
+    },
+    {
+      "number": 8,
+      "focus": "Coordonner les attentes entre plusieurs lieux",
+      "opening_quote": "Malou entre dans le bureau d’Inès avec une phrase qui lui paraît régler la question : ses parents sont d’accord pour qu’elle retourne à l’association. Elle a compris cet accord comme la fin de la suspension du groupe. Inès lui demande ce qui a précisément été dit. Nadia et Étienne soutiennent une reprise préparée ; ils n’ont pas décidé de la séance collective à la place de Marc. Malou soupire : il y a toujours, selon elle, un autre adulte à qui demander.",
+      "ending_quote": "Marc autorise une séance de montage avec Malou seule.",
+      "continuity_note": "Cette étape autorise le montage individuel avec Marc, pas une première rencontre individuelle absolue : les épisodes 2–7 ont déjà montré préparation, dessins et consultations. Ouverture, fin et prochain épisode identifient clairement le nouvel assemblage ; le groupe reste suspendu.",
+      "clinical_note": "La tranche onze–dix-sept ans convient à Malou, quinze ans. La réunion associative est explicitement distinguée d’une intervention multimodale professionnelle. Aucune transposition du programme neuf–quatorze ans, aucun partage général du dossier.",
+      "relatives_note": "Les parents clarifient l’accord qu’ils donnent ; Inès traduit des engagements de projet sans faire circuler les confidences. Les professionnels gardent la coordination clinique, les acteurs ne jugent pas les progrès."
+    },
+    {
+      "number": 9,
+      "focus": "Reconstruire une confiance fragilisée",
+      "opening_quote": "La salle de montage ne contient que Malou et Marc. Le groupe n’a pas repris. Sur l’écran, la plante passe d’un bord de l’image à l’autre et le raccord de lumière tient enfin. Malou relance le passage sans musique. Elle aime le silence qui reste après la porte. La version se termine sans la réconciliation refusée ; elle commence à y voir quelque chose de différent d’un simple manque.",
+      "ending_quote": "Malou ne contacte pas Sana pour obtenir une réponse différente.",
+      "continuity_note": "Le montage se fait avec Marc seul, dans les conditions fixées en 8. Sana répond par le canal accepté et demande du temps ; la note de réparation est seulement préparée pour la suite.",
+      "clinical_note": "Le travail réussi n’efface pas les conséquences relationnelles. Aucun barème de confiance, remords ou diagnostic ajouté ; les appuis évitent qu’un effort crée une dette ou une nouvelle sollicitation pressante.",
+      "relatives_note": "Marc reconnaît précisément l’étape respectée tout en maintenant le droit de Sana. Les parents ne demandent pas aux acteurs de rassurer Malou et ne présentent pas leur limite comme injuste."
+    },
+    {
+      "number": 10,
+      "focus": "Réparer sans exiger le pardon",
+      "opening_quote": "Malou écrit la première phrase de sa note dans le carnet orange, puis la barre. Elle avait commencé par expliquer combien la scène comptait pour elle. Cela reprendrait surtout sa propre déception. Marc est présent à cette séance individuelle ; Sana et Joël ne sont pas convoqués pour entendre ses raisons. Malou recommence : elle a dit que le choix de Sana ne comptait plus, puis insisté après son refus. Ces faits tiennent sur une ligne moins brillante que ses explications, mais plus précise.",
+      "ending_quote": "Marc vérifie la demande auprès de Sana.",
+      "continuity_note": "La note est préparée individuellement puis transmise après vérification du souhait de Sana. L’acceptation de la version sans réconciliation formalise le montage déjà travaillé, et la rencontre refusée reste refusée.",
+      "clinical_note": "Responsabilité et réparation portent sur des actes concrets ; ni pardon dû, ni preuve de guérison ou spécification prosociale tirée de l’excuse. La réparation n’est pas présentée comme traitement validé.",
+      "relatives_note": "Marc demande l’accord avant transmission et n’organise aucun face-à-face nécessaire. Les proches reconnaissent l’effort sans promettre le pardon ou une réconciliation."
+    },
+    {
+      "number": 11,
+      "focus": "Reprendre une place avec des limites",
+      "opening_quote": "La première reprise avec un petit groupe se déroule en présence de Marc, selon les conditions préparées. Joël a choisi d’y participer. Les rôles, la possibilité d’interrompre et le respect des choix des acteurs sont rappelés avant le lancement du montage. Malou s’assied près de l’écran avec son carnet orange. Elle voudrait montrer que la fin sans réconciliation tient mieux qu’elle ne le croyait. Elle n’a pas besoin que chacun la trouve parfaite, se dit-elle, mais elle espère tout de même peu de remarques.",
+      "ending_quote": "Après une discussion calme dans le cadre prévu, une modification du passage est retenue.",
+      "continuity_note": "Première reprise collective explicitement située ici ; Joël choisit de participer. Sa demande entraîne délai, variante et décision calme, puis accords pour projection interne, sans publication en ligne.",
+      "clinical_note": "Difficulté réapparue et réponse différente sont toutes deux visibles ; amélioration partielle non confondue avec guérison. Les trois appuis conservent adulte, choix libre et arrêt possible, sans faire des pairs des évaluateurs cliniques.",
+      "relatives_note": "Marc nomme l’acte modifié sans verdict global. Joël garde sa demande et n’a pas à rassurer ; les parents maintiennent le suivi au-delà de la projection."
+    },
+    {
+      "number": 12,
+      "focus": "Évolution ouverte et continuité du soutien",
+      "opening_quote": "Marc baisse la lumière pour la projection interne de La Fenêtre du palier. La version retenue est prête ; les noms apparaissent selon les choix des participants. Rien n’est annoncé pour une publication en ligne. Malou a vérifié le dernier raccord avec lui, puis rangé le carnet orange. Elle présente simplement le titre et remercie les personnes qui ont accepté de participer. Sana est venue à cette séance sans avoir accepté une discussion en tête-à-tête ni la scène de réconciliation initiale.",
+      "ending_quote": "La projection se termine et Marc confirme que le court métrage est achevé dans sa version acceptée.",
+      "continuity_note": "La version raccourcie acceptée est projetée en interne ; Sana peut assister sans tête-à-tête ni pardon. Le film est achevé et le documentaire reste une idée sans équipe ni accords automatiques.",
+      "clinical_note": "Évolution variable conforme aux CDDR, sans devenir adulte fixé ou guérison déduite du projet. Le bilan distingue résultat, relations et suivi, puis prévoit de nouveaux accords pour une nouvelle activité.",
+      "relatives_note": "Les proches félicitent des actes précis et gardent les rendez-vous ; Sana et Joël conservent leurs limites. Aucune réconciliation imposée pour produire une fin heureuse."
+    }
+  ]
+}

@@ -528,6 +528,734 @@
           ]
         }
       ]
+    },
+    {
+      "number": 6,
+      "slug": "ruben-refus-et-incomprehension",
+      "title": "Un refus peut aussi cacher une consigne incomprise",
+      "description": "Ruben refuse une fiche. Une question précise révèle la phrase qui bloque ; l’explication et le désaccord sur son rôle restent distincts.",
+      "context": "Une fiche d’essais au club",
+      "topics": [
+        "Compréhension",
+        "Contexte du refus",
+        "Choix de rôle"
+      ],
+      "clinical_intro": "Un diagnostic connu ne suffit pas à expliquer chaque refus. Une consigne mal comprise, un désaccord ou une difficulté nouvelle demandent aussi d’être examinés. Ruben refuse aujourd’hui une fiche avant de préciser ce qui bloque. Vérifier la compréhension évite d’attribuer automatiquement cette situation au trouble oppositionnel avec provocation.",
+      "opening": "Ruben travaille encore à sa table pendant qu’Inès termine sa partie du schéma. Madame Vernier lui donne une fiche pour préparer les essais du robot. Plusieurs étapes figurent sur la même page, avec des cases destinées aux observations. Il lit la première ligne, passe à la suivante, puis repousse la feuille. « Je ne fais pas ça. » La professeure commence à rappeler ce qu’ils avaient convenu, avant de s’arrêter et de lui demander où il bloque exactement.\n\nRuben montre une phrase. Il comprend chacun des mots séparément, mais ne voit pas ce qu’on attend de lui dans la case. Il dit que la fiche demande deux choses à la fois. Madame Vernier relit et reconnaît que la formulation pourrait être plus claire. Elle explique une première étape avec un exemple verbal, sans lui confier de manipulation non prévue. Ruben revient vers la feuille. Il peut maintenant redire ce qu’il devra observer pendant l’essai supervisé.\n\nIl ajoute pourtant qu’il ne veut pas être celui qui écrit tout le temps. Cette fois, il ne demande plus une explication du texte ; il parle de la répartition du travail. La professeure distingue les deux sujets et lui propose de noter les premiers résultats aujourd’hui, puis de discuter des rôles avant le prochain créneau commun. Ruben regarde la table d’Inès. Le fait qu’elle ait demandé à s’éloigner continue de lui paraître injuste.",
+      "ending_title": "La première case a un sens",
+      "ending": "L’essai se déroule sous la supervision de madame Vernier. Ruben note le résultat dans le carnet orange et comprend maintenant à quoi servira la case suivante. Il choisit de garder cette tâche pour aujourd’hui. En rangeant, il revient toutefois sur Inès : il trouve qu’elle a obtenu une autre table trop facilement. La question de compréhension est réglée pour cet essai ; celle du ressentiment ne l’est pas. Le rendez-vous prévu avec madame Arnaud lui donnera un autre espace pour en parler.",
+      "conclusion": "Vérifier la compréhension permet de ne pas expliquer chaque refus par un diagnostic. Ruben réalise un premier essai et précise un désaccord sur son rôle. D’autres tensions peuvent rester présentes sans invalider cette clarification.",
+      "mirror": [
+        "Madame Vernier peut demander : « Montre-moi ce qui n’est pas clair. » Reconnaître une formulation maladroite ne lui fait pas perdre son rôle d’adulte. Elle maintient la sécurité des essais et peut discuter les responsabilités séparément. Les parents peuvent reprendre cette distinction, sans conclure à un nouveau trouble parce qu’une fiche a été difficile à comprendre."
+      ],
+      "clinical_focus": "Un refus ne dit pas sa cause",
+      "diagnostic_stage": "known",
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-ruben",
+        "nice-cg158-ruben"
+      ],
+      "continuity": {
+        "choice": "Ruben réalise le test encadré et note les résultats après clarification, mais garde son ressentiment envers Inès.",
+        "next": "Le rendez-vous déjà prévu avec madame Arnaud permettra de parler du ressentiment qui persiste après la dispute."
+      },
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Comprendre la demande et accepter le rôle sont deux questions",
+          "text": "Un refus peut avoir plusieurs raisons qui ne se lisent pas dans le seul mot non. La compréhension de la consigne mérite d’être vérifiée avant d’interpréter le comportement. Cela ne pose pas un nouveau diagnostic et n’annule pas celui déjà établi. Une fois la phrase clarifiée, le désaccord de Ruben sur son rôle peut être discuté pour ce qu’il est, avec les possibilités réelles du club."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment distinguer ce qui bloque ?",
+          "points": [
+            {
+              "heading": "Une phrase ne devient pas une action claire",
+              "text": "Connaître les mots n’assure pas de comprendre ce qu’il faut faire.",
+              "examples": [
+                "Ruben désigne une ligne précise de la fiche.",
+                "Il ne sait pas quelle observation inscrire dans la case."
+              ]
+            },
+            {
+              "heading": "La réponse change avec l’explication",
+              "text": "Une reformulation peut modifier la situation sans transformer le caractère du jeune.",
+              "examples": [
+                "Ruben rapproche la feuille après l’exemple.",
+                "Il peut redire la première étape de l’essai."
+              ]
+            },
+            {
+              "heading": "Un désaccord demeure",
+              "text": "Comprendre ne signifie pas nécessairement approuver toute la répartition.",
+              "examples": [
+                "Ruben dit qu’il ne veut pas écrire à chaque séance.",
+                "La professeure distingue cette demande de la phrase incomprise."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour vérifier avant d’interpréter",
+          "points": [
+            {
+              "heading": "Demander le point qui bloque",
+              "objective": "Obtenir une information plus précise que le refus initial.",
+              "exercise": [
+                "Inviter le jeune à montrer une phrase ou une étape.",
+                "Écouter ce qu’il en a compris.",
+                "Éviter de répondre d’abord par l’historique des conflits."
+              ],
+              "benefit": "Un obstacle concret peut apparaître sans transformer la question en interrogation punitive."
+            },
+            {
+              "heading": "Reformuler une étape",
+              "objective": "Rendre l’action attendue accessible.",
+              "exercise": [
+                "Expliquer une seule étape avec des mots simples.",
+                "Demander au jeune de redire ce qu’il fera.",
+                "Ajuster la formulation si une confusion persiste."
+              ],
+              "benefit": "La compréhension peut être vérifiée sans diagnostic improvisé ni étiquette supplémentaire."
+            },
+            {
+              "heading": "Distinguer l’explication du choix",
+              "objective": "Donner une place au désaccord qui reste.",
+              "exercise": [
+                "Demander si le problème porte encore sur la consigne ou sur le rôle.",
+                "Présenter les options réellement disponibles.",
+                "Convenir d’une responsabilité et du moment où elle sera revue."
+              ],
+              "benefit": "Le jeune peut comprendre et négocier sans devoir dire oui à tout pour être entendu."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "slug": "ruben-ressentiment-apres-dispute",
+      "title": "Ressentiment : quand la dispute continue après la séance",
+      "description": "Ruben pense encore au départ d’Inès et veut garder le carnet pour lui. Au suivi, il examine ce choix sans renoncer à dire son désaccord.",
+      "context": "Le début d’un rendez-vous de suivi",
+      "topics": [
+        "Ressentiment",
+        "Interprétation",
+        "Conséquences relationnelles"
+      ],
+      "clinical_intro": "Le ressentiment peut prolonger un conflit bien après la réaction immédiate. Dans certaines présentations du trouble oppositionnel avec provocation, la rancœur et le désir de rendre la pareille compliquent la reprise des relations. Entendre le sentiment d’injustice ne signifie pas approuver une mise à l’écart ni conclure à un état de colère chronique.",
+      "opening": "Madame Arnaud reçoit d’abord Ruben seul, comme ils l’avaient prévu pour ce rendez-vous de suivi. Claire et Yacine attendent la seconde partie. Le carnet orange est posé sur ses genoux. Ruben explique que l’essai du robot a pu commencer, mais il revient surtout sur la table où Inès s’est installée. Il raconte ce déplacement comme si la séance entière avait été organisée pour lui donner tort.\n\nLa clinicienne lui demande ce qui s’est passé avant. Il rapporte l’imitation, puis ajoute qu’elle aurait pu comprendre que ce n’était pas sérieux. Il se souvient qu’Inès lui avait demandé d’arrêter. Cela ne l’empêche pas de penser qu’elle l’a laissé seul exprès. Il a décidé que, lors du prochain travail commun, elle ne verra pas les résultats inscrits dans le carnet. « Comme ça, elle saura ce que ça fait. »\n\nMadame Arnaud n’approuve pas ce projet et ne lui demande pas d’oublier immédiatement sa colère. Elle l’invite à regarder ce qui arriverait au robot si chacun gardait sa moitié des informations. Ruben répond d’abord qu’Inès pourra se débrouiller. Puis il reconnaît qu’ils ne pourront pas préparer une démonstration ensemble de cette façon. Il voudrait obtenir une répartition plus équitable, mais le refus de partager ne dit pas encore ce qu’il souhaite changer. La clinicienne lui laisse le temps de chercher une demande qu’il pourrait formuler sans cacher le carnet.",
+      "ending_title": "Le carnet ne sera pas caché",
+      "ending": "Ruben décide de ne pas retenir les résultats. Il essaie une phrase : « Je veux qu’on choisisse qui fait quoi avant le test. » Elle lui semble moins satisfaisante qu’une réplique qui donnerait tort à Inès, mais plus utile au robot. Madame Arnaud lui demande ce qu’il accepte de reprendre avec ses parents. Il souhaite qu’elle les aide à comprendre cette décision et sa demande de répartition. Le reste de leur entretien privé n’a pas besoin d’être raconté en détail pour cela.",
+      "conclusion": "Le ressentiment peut continuer à orienter des choix après la fin d’une dispute. Ruben garde son désaccord mais renonce à cacher le carnet. Une demande de répartition ouvre une suite différente, sans garantir l’accord d’Inès.",
+      "mirror": [
+        "Un parent peut dire : « Tu t’es senti laissé de côté ; qu’est-ce qui changerait si tu cachais les résultats ? » Il peut entendre le sentiment sans soutenir la revanche. Inès n’a pas à revenir sur sa limite pour apaiser Ruben. Avec le jeune, la clinicienne choisit les éléments utiles à partager, en respectant le cadre du suivi."
+      ],
+      "clinical_focus": "Le ressentiment prolonge la dispute",
+      "diagnostic_stage": "known",
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-ruben",
+        "nice-cg158-ruben"
+      ],
+      "continuity": {
+        "choice": "Ruben renonce à cacher le carnet et prépare une demande de répartition à reprendre avec ses parents.",
+        "next": "La seconde partie du rendez-vous donne à Claire et Yacine un espace pour parler de leur propre épuisement."
+      },
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Une interprétation peut maintenir l’envie de revanche",
+          "text": "Le ressentiment ne se confond pas avec la montée rapide d’irritation. Il peut entretenir une lecture d’injustice et orienter les décisions suivantes, même lorsque l’échange initial est terminé. Dans le cas de Ruben, le déplacement d’Inès avait aussi pour fonction de protéger sa limite. Examiner plusieurs éléments ne nie pas ce qu’il a ressenti ; cela peut aider à choisir une réponse compatible avec son projet."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment le conflit reste-t-il présent ?",
+          "points": [
+            {
+              "heading": "Un événement occupe encore le récit",
+              "text": "La discussion passée revient alors que d’autres étapes du projet ont avancé.",
+              "examples": [
+                "Ruben parle peu du test réalisé.",
+                "Il revient plusieurs fois sur le changement de table."
+              ]
+            },
+            {
+              "heading": "Une intention est attribuée à l’autre",
+              "text": "Le vécu d’injustice devient une explication certaine de ce que l’autre voulait.",
+              "examples": [
+                "Il suppose qu’Inès cherchait à le laisser seul.",
+                "Il minimise la demande d’arrêt qui avait précédé son départ."
+              ]
+            },
+            {
+              "heading": "La réponse vise à faire ressentir la même chose",
+              "text": "Le projet de revanche risque de reproduire une difficulté collective.",
+              "examples": [
+                "Ruben veut garder les résultats pour lui.",
+                "Il dit vouloir montrer à Inès ce que cela fait."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour préparer une autre réponse",
+          "points": [
+            {
+              "heading": "Séparer les faits de leur interprétation",
+              "objective": "Élargir la compréhension sans nier le ressenti.",
+              "exercise": [
+                "Raconter ce qui a été vu ou entendu.",
+                "Dire ce que l’on suppose de l’intention de l’autre.",
+                "Laisser une place aux éléments qui ne sont pas connus."
+              ],
+              "benefit": "Cette distinction peut éviter qu’une hypothèse décide seule de la prochaine action."
+            },
+            {
+              "heading": "Examiner les conséquences",
+              "objective": "Relier une réponse envisagée à ce qu’elle produirait.",
+              "exercise": [
+                "Nommer l’action que l’on pense faire.",
+                "Imaginer ses effets sur soi, l’autre et la tâche commune.",
+                "Vérifier si elle rapproche du but souhaité."
+              ],
+              "benefit": "Regarder les conséquences peut rendre une autre option envisageable sans exiger une disparition de la rancœur."
+            },
+            {
+              "heading": "Formuler une demande concrète",
+              "objective": "Transformer une attente en proposition à discuter.",
+              "exercise": [
+                "Dire ce que l’on voudrait changer dans la répartition.",
+                "Chercher des mots que l’on peut utiliser soi-même.",
+                "Préparer le bon moment et l’aide adulte nécessaire pour en parler."
+              ],
+              "benefit": "Une demande précise donne une possibilité de négociation là où la revanche ferme l’échange."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "slug": "ruben-soutien-parents-sans-blame",
+      "title": "Épuisement parental : demander du soutien sans se sentir accusé",
+      "description": "Claire et Yacine parlent de leur fatigue au suivi. Ils choisissent un changement réaliste dans les retours du club, sans promesse de tout régler.",
+      "context": "La seconde partie du même rendez-vous",
+      "topics": [
+        "Soutien parental",
+        "Culpabilité",
+        "Interactions familiales"
+      ],
+      "clinical_intro": "Les parents d’un jeune présentant un trouble oppositionnel avec provocation peuvent ressentir fatigue, culpabilité ou crainte d’être jugés lorsqu’ils demandent de l’aide. Le soutien cherche à comprendre leurs besoins et les interactions familiales. Il ne suppose ni une cause parentale unique ni la promesse que des échanges mieux organisés feront disparaître le trouble.",
+      "opening": "Claire et Yacine rejoignent Ruben pour la seconde partie du rendez-vous. Madame Arnaud reprend avec lui la décision qu’il a choisi de partager : ne pas cacher les résultats et demander une répartition avant les essais. Elle ne raconte pas tout ce qui a été dit pendant l’entretien seul. Ruben garde le carnet sur ses genoux et rectifie un mot quand la formulation ne lui ressemble pas.\n\nClaire parle ensuite des retours du club. Elle redoute parfois de poser une question, parce qu’une réponse brève peut ouvrir une longue discussion. Elle ne sait plus si elle doit demander comment la séance s’est passée ou attendre qu’il en parle. Yacine dit qu’il a l’impression de rappeler sans cesse les mêmes choses. Il ajoute, presque à voix basse, que demander un accompagnement pour eux lui donne le sentiment d’avoir mal élevé leur fils.\n\nLa clinicienne précise que le but n’est pas de distribuer les torts. Elle leur demande aussi de décrire un échange qui se passe un peu mieux. Claire évoque le soir où ils ont dégagé la table ensemble avant le repas. Ruben confirme qu’il avait pu finir son dessin après. Cela n’avait pas empêché toute discussion, mais chacun avait su ce qui était attendu d’abord. Ils cherchent maintenant un changement assez petit pour être essayé sans transformer chaque retour du collège en séance d’analyse familiale.",
+      "ending_title": "Une question au retour, pas un inventaire",
+      "ending": "Ils choisissent un bref point après le club, à un moment où Ruben a posé ses affaires : une question sur le projet, puis les besoins pratiques, sans liste de toutes les fautes de la journée. Ruben pourra aussi dire qu’il préfère répondre après le repas, avec un moment de reprise convenu. Madame Arnaud prévoit de revoir cet essai et propose de discuter avec lui d’un accompagnement de résolution de problèmes adapté à son âge. Claire et Yacine repartent avec une possibilité à essayer, pas avec la charge de réussir seuls.",
+      "conclusion": "Soutenir les parents permet de travailler la fatigue et les interactions sans leur attribuer toute l’origine du trouble. Un changement limité est choisi avec Ruben ; son effet et ses limites seront repris dans le suivi.",
+      "mirror": [
+        "Claire ou Yacine peuvent dire : « Nous avons besoin d’aide pour que les retours du club prennent moins de place dans nos disputes. » Cette demande ne retire rien à leur rôle. Écouter ce que Ruben propose peut améliorer l’accord sans lui confier la responsabilité de les soulager. Le soutien des parents et celui du jeune se construisent ensemble, selon leurs besoins."
+      ],
+      "clinical_focus": "Soutenir les parents sans les accuser",
+      "diagnostic_stage": "known",
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-ruben",
+        "nice-cg158-ruben"
+      ],
+      "continuity": {
+        "choice": "Les parents choisissent un point bref au retour du club ; un accompagnement adapté à Ruben sera discuté au suivi.",
+        "next": "Le suivi suivant présente cet accompagnement à Ruben et prépare un essai autour des responsabilités du robot."
+      },
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Les besoins des parents appartiennent aussi au suivi",
+          "text": "Accompagner une famille suppose d’entendre les difficultés des adultes autant que celles du jeune. La culpabilité peut freiner cette demande, alors que la fatigue mérite une réponse propre. Le soutien se construit selon l’âge, le contexte et les besoins de Ruben et de ses parents. Il ne consiste pas à appliquer automatiquement une recette ni à juger leur qualité de parents à la disparition des conflits."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment la fatigue parentale se manifeste-t-elle ?",
+          "points": [
+            {
+              "heading": "Une conversation ordinaire devient redoutée",
+              "text": "Le parent anticipe un conflit avant de savoir comment l’échange se passera.",
+              "examples": [
+                "Claire hésite à demander des nouvelles du club.",
+                "Elle ne sait plus quand aborder les questions pratiques."
+              ]
+            },
+            {
+              "heading": "Les rappels semblent sans fin",
+              "text": "La répétition des difficultés peut réduire le sentiment d’avoir des options.",
+              "examples": [
+                "Yacine a l’impression de dire toujours les mêmes choses.",
+                "Il peine à repérer les moments où une autre façon de demander a aidé."
+              ]
+            },
+            {
+              "heading": "La demande d’aide devient un jugement sur soi",
+              "text": "Le soutien peut être entendu comme la preuve d’un échec éducatif.",
+              "examples": [
+                "Yacine craint d’avoir mal élevé Ruben.",
+                "Claire avait attendu pour parler de sa propre fatigue."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour préparer un soutien familial",
+          "points": [
+            {
+              "heading": "Décrire une difficulté précise",
+              "objective": "Rendre la demande concrète sans dresser un bilan d’échec.",
+              "exercise": [
+                "Choisir un moment de la journée qui coûte particulièrement.",
+                "Décrire ce que chacun fait et ressent sans étiquette globale.",
+                "Dire le soutien dont on pense avoir besoin."
+              ],
+              "benefit": "Un exemple permet au professionnel de travailler avec la famille plutôt qu’avec une accusation générale."
+            },
+            {
+              "heading": "Choisir un changement réaliste",
+              "objective": "Éviter une transformation de tous les échanges à la fois.",
+              "exercise": [
+                "Repérer une interaction à ajuster.",
+                "Demander aussi le point de vue du jeune.",
+                "Convenir d’un essai limité que les adultes peuvent réellement tenir."
+              ],
+              "benefit": "Un petit changement partagé peut être observé et révisé ; il n’est pas une promesse de guérison."
+            },
+            {
+              "heading": "Prévoir un retour professionnel",
+              "objective": "Ne pas laisser la famille seule avec le résultat de l’essai.",
+              "exercise": [
+                "Définir quand le point sera repris.",
+                "Noter ce qui aide et ce qui reste difficile.",
+                "Revoir l’ajustement avec le professionnel plutôt que conclure à un échec moral."
+              ],
+              "benefit": "La continuité permet d’adapter le soutien aux besoins réels des parents et du jeune."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "slug": "ruben-plusieurs-solutions",
+      "title": "Résolution de problèmes : essayer plusieurs réponses",
+      "description": "Ruben veut une place dans les essais sans laisser Inès tout décider. Avec sa clinicienne, il compare des propositions avant d’en choisir une.",
+      "context": "Un accompagnement quelques semaines plus tard",
+      "topics": [
+        "Résolution de problèmes",
+        "Options",
+        "Essai accompagné"
+      ],
+      "clinical_intro": "Des programmes structurés de résolution de problèmes sociaux et cognitifs sont recommandés pour certains jeunes de neuf à quatorze ans présentant un trouble oppositionnel avec provocation. Ils sont adaptés au développement et conduits par des professionnels. Les essais quotidiens peuvent prolonger cet accompagnement ; trois astuces isolées ne reproduisent pas un programme complet.",
+      "opening": "Quelques semaines ont passé depuis le rendez-vous avec ses parents. Les retours du club ne sont pas tous tranquilles, mais la question brève sur le projet a parfois évité qu’un échange commence par une liste de reproches. Ruben retrouve madame Arnaud dans le cadre de son accompagnement. Ils ont discuté avec lui des possibilités adaptées à son âge et de ce qu’il voudrait pouvoir changer dans les conflits du club.\n\nAujourd’hui, il veut parler de l’ordre des essais. Inès a demandé à préparer l’affiche, mais souhaite aussi voir le robot fonctionner. Ruben craint qu’elle décide ensuite de tout. Il propose d’abord de tester sans elle, puis reconnaît qu’il reviendrait au problème du carnet gardé pour lui. La clinicienne lui demande de décrire ce qu’il veut obtenir, en laissant de côté ce qu’Inès penserait forcément. « Je veux savoir quand c’est mon tour. »\n\nIls cherchent deux propositions possibles. Ruben pourrait noter les premiers résultats pendant qu’Inès prépare l’affiche, puis ils échangeraient un créneau ; ils pourraient aussi demander à madame Vernier un ordre fixé ensemble. La clinicienne lui montre comment une demande courte peut être formulée, puis le laisse essayer avec ses mots. Ruben trouve une première phrase trop adulte. Il la raccourcit. Il ne s’entraîne pas à dire oui à tout, mais à proposer quelque chose que l’autre pourra accepter, discuter ou refuser.",
+      "ending_title": "Un créneau pour chacun",
+      "ending": "Au club, Ruben propose de noter les résultats pendant qu’Inès prépare l’affiche, puis d’échanger un créneau. Il lui dit aussi qu’il ne reprendra pas les imitations. Inès accepte cette organisation limitée ; cela ne signifie pas que toute leur gêne a disparu. Madame Vernier vérifie les possibilités et reste responsable des essais autorisés. Ruben inscrit la répartition dans le carnet orange. La prochaine répétition pourra réunir les résultats et l’affiche, si chacun tient la part convenue.",
+      "conclusion": "Chercher plusieurs réponses peut donner au jeune une marge entre sa première réaction et son action. Ruben propose une répartition qu’Inès accepte pour un temps limité. L’apprentissage se poursuit avec des essais, des retours et des ajustements des adultes.",
+      "mirror": [
+        "Madame Vernier peut demander : « Quelle répartition avez-vous tous les deux acceptée ? » Elle vérifie la faisabilité et la sécurité plutôt que féliciter une obéissance générale. Inès peut discuter ou refuser une proposition sans annuler le travail de Ruben. Les parents peuvent s’intéresser à ce qu’il a essayé, sans exiger un résultat parfait à chaque séance."
+      ],
+      "clinical_focus": "Apprendre à chercher plusieurs solutions",
+      "diagnostic_stage": "known",
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-ruben",
+        "nice-cg158-ruben"
+      ],
+      "continuity": {
+        "choice": "Ruben propose une répartition limitée acceptée par Inès et vérifiée par madame Vernier.",
+        "next": "La répartition rend possible une répétition, où un nouvel accrochage aura des conséquences pour tout le groupe."
+      },
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Apprendre à choisir une réponse avant de l’essayer",
+          "text": "La résolution de problèmes vise à identifier une difficulté concrète, envisager des options et examiner leurs conséquences. Les programmes recommandés à cet âge utilisent des modèles, des essais et des retours dans un cadre structuré. L’accompagnement de Ruben reste individualisé ; sa proposition au club ne résume pas tout ce travail. Les adultes ont aussi à rendre les règles et les choix compréhensibles, plutôt que demander au jeune de porter seul l’amélioration des échanges."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment plusieurs options deviennent-elles possibles ?",
+          "points": [
+            {
+              "heading": "Le problème devient précis",
+              "text": "Une difficulté nommée concrètement est plus facile à discuter qu’une accusation globale.",
+              "examples": [
+                "Ruben commence par dire qu’Inès déciderait de tout.",
+                "Il précise ensuite qu’il veut connaître son tour d’essai."
+              ]
+            },
+            {
+              "heading": "Une première réponse montre ses limites",
+              "text": "Imaginer les conséquences peut rendre visible ce que l’option reproduirait.",
+              "examples": [
+                "Tester seul laisserait Inès sans informations.",
+                "Ruben reconnaît le lien avec son ancienne envie de garder le carnet."
+              ]
+            },
+            {
+              "heading": "La proposition doit lui ressembler",
+              "text": "Un essai utile ne demande pas de réciter une formule étrangère au jeune.",
+              "examples": [
+                "Il trouve la première phrase trop adulte.",
+                "Il choisit des mots qu’il pourrait dire à Inès au club."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour prolonger un apprentissage accompagné",
+          "points": [
+            {
+              "heading": "Décrire le problème concret",
+              "objective": "Savoir ce que l’on cherche à changer.",
+              "exercise": [
+                "Nommer la situation précise.",
+                "Dire ce que l’on souhaite obtenir.",
+                "Éviter de présenter l’intention de l’autre comme un fait certain."
+              ],
+              "benefit": "Un problème délimité peut ouvrir une négociation plus claire ; ce transfert ne remplace pas l’accompagnement."
+            },
+            {
+              "heading": "Comparer deux options",
+              "objective": "Regarder les effets sur les personnes et le projet.",
+              "exercise": [
+                "Proposer deux réponses possibles.",
+                "Examiner ce que chacune demanderait aux autres.",
+                "Choisir celle qui semble réalisable et respectueuse des limites."
+              ],
+              "benefit": "La comparaison peut éviter qu’une seule réaction paraisse inévitable."
+            },
+            {
+              "heading": "Essayer puis demander un retour",
+              "objective": "Ajuster la proposition à la réponse réelle.",
+              "exercise": [
+                "Formuler la demande avec ses propres mots.",
+                "Écouter ce que l’autre accepte ou souhaite changer.",
+                "Reprendre l’essai avec le professionnel lorsque cela reste difficile."
+              ],
+              "benefit": "Un retour permet d’apprendre sans transformer un refus en échec de toute la démarche."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "slug": "ruben-reparer-retard-groupe",
+      "title": "Réparer un retard sans réduire le jeune à son comportement",
+      "description": "Une contestation prolongée fait perdre un temps d’essai au groupe. Ruben cherche une réparation possible avec l’enseignante et Inès.",
+      "context": "La répétition avant le salon",
+      "topics": [
+        "Retentissement collectif",
+        "Réparation",
+        "Responsabilité proportionnée"
+      ],
+      "clinical_intro": "Un conflit peut avoir des conséquences sur le travail du groupe, même lorsque les intentions de départ sont compréhensibles. Reconnaître cet effet permet de chercher une réparation proportionnée. Dans le trouble oppositionnel avec provocation, cette démarche gagne à distinguer le comportement et ses conséquences d’un jugement général sur le jeune.",
+      "opening": "Inès arrive avec une première version de l’affiche. Elle y a placé le nom du robot et un espace pour expliquer leurs observations. Ruben a les résultats dans son carnet orange. Ils avaient prévu de vérifier ensemble si le texte correspond à la démonstration. Madame Vernier annonce pourtant un changement : leur essai aura lieu après celui d’un autre groupe, car une table doit être libérée plus tôt.\n\nRuben demande pourquoi leur ordre est changé. La professeure explique la contrainte et précise le temps qui leur restera. Il reprend alors le planning de la semaine précédente, puis demande pourquoi on leur fait écrire des accords s’ils peuvent changer. Sa question mérite une réponse, mais la discussion se prolonge. Il revient sur chaque détail alors que madame Vernier propose de noter le désaccord et de garder le créneau encore disponible. Inès regarde l’horloge puis son affiche.\n\nLorsqu’ils rejoignent enfin la table, le temps restant ne permet plus l’essai complet avec la présentation. L’enseignante maintient les conditions de sécurité et la fin de séance. Inès dit qu’elle est contrariée : elle voulait voir son affiche avec le robot aujourd’hui. Ruben répond d’abord que le changement n’était pas son idée. C’est vrai, mais cela ne dit pas tout du temps passé ensuite. Le salon n’est pas annulé pour autant ; il reste à décider comment préparer ce qui n’a pas pu être vérifié.",
+      "ending_title": "La liste de ce qui reste",
+      "ending": "Ruben prépare une courte liste : vérifier le déroulement, lire l’affiche à côté du robot et décider qui présentera chaque partie. Il reconnaît auprès d’Inès que sa discussion a pris du temps. Elle ne répond pas que ce n’est rien ; elle accepte d’apporter son affiche à un court essai que madame Vernier peut réserver à la séance suivante. L’inscription au salon reste maintenue. La question du changement de créneau sera aussi reprise, sans occuper cet essai supplémentaire.",
+      "conclusion": "Réparer ne consiste pas à effacer toutes les conséquences ni à faire porter au jeune toute la situation. Ruben reconnaît le temps perdu et prépare une tâche utile. Le groupe obtient une possibilité réelle de poursuivre, avec une déception encore entendue.",
+      "mirror": [
+        "Madame Vernier peut dire : « Nous n’avons pas testé cette partie ; voyons ce qui est possible à la prochaine séance. » Elle peut aussi expliquer comment elle annoncera les changements de planning. Inès a le droit de rester contrariée. Une excuse publique forcée ou la suppression arbitraire du salon ne remplace pas une réparation liée au problème."
+      ],
+      "clinical_focus": "Réparer un retard qui touche le groupe",
+      "diagnostic_stage": "known",
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-ruben",
+        "nice-cg158-ruben"
+      ],
+      "continuity": {
+        "choice": "Ruben prépare les points à tester ; madame Vernier réserve un essai supplémentaire et Inès accepte d’y apporter l’affiche.",
+        "next": "L’essai a lieu, mais l’approche du public fait apparaître chez Ruben une inquiétude qu’on ne peut attribuer au seul trouble."
+      },
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Reconnaître un effet sans porter toute la faute",
+          "text": "Une situation peut comporter plusieurs facteurs : une contrainte nouvelle, une explication imparfaite et une contestation prolongée. Reconnaître sa part ne signifie pas devenir responsable de tout. Ruben peut garder sa question sur les changements d’accord tout en constatant que sa discussion a réduit le temps commun. Une réparation proportionnée concerne ce qu’il peut réellement faire pour la suite, sans humiliation ni dette envers tout le groupe."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment le conflit touche-t-il le travail commun ?",
+          "points": [
+            {
+              "heading": "Le temps disponible diminue",
+              "text": "La discussion a une conséquence matérielle sur une activité prévue.",
+              "examples": [
+                "Le créneau d’essai se réduit pendant les reprises du planning.",
+                "L’affiche ne peut plus être testée avec la démonstration."
+              ]
+            },
+            {
+              "heading": "Une explication partielle empêche de reconnaître sa part",
+              "text": "Nommer un facteur réel ne rend pas les autres inexistants.",
+              "examples": [
+                "Ruben rappelle que l’adulte a changé l’ordre.",
+                "Il peine à considérer le temps pris par sa propre contestation."
+              ]
+            },
+            {
+              "heading": "La réparation demande un accord collectif",
+              "text": "La suite ne peut pas être décidée par celui qui souhaite réparer seulement.",
+              "examples": [
+                "Inès a aussi des contraintes et une déception.",
+                "Madame Vernier doit vérifier les créneaux réellement disponibles."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour chercher une réparation proportionnée",
+          "points": [
+            {
+              "heading": "Nommer l’effet concret",
+              "objective": "Sortir du jugement global pour regarder ce qui manque.",
+              "exercise": [
+                "Dire quelle étape n’a pas eu lieu.",
+                "Distinguer les facteurs qui ont contribué au retard.",
+                "Reconnaître sa part sans prétendre porter tout le problème."
+              ],
+              "benefit": "Le groupe peut discuter d’un besoin réel plutôt que d’une identité de perturbateur."
+            },
+            {
+              "heading": "Demander ce qui est réparable",
+              "objective": "Éviter une promesse impossible ou une excuse forcée.",
+              "exercise": [
+                "Écouter ce que les autres souhaitent encore vérifier.",
+                "Demander les possibilités effectives à l’adulte.",
+                "Choisir une action adaptée au temps restant."
+              ],
+              "benefit": "Une réponse réaliste peut soutenir la préparation sans effacer la déception."
+            },
+            {
+              "heading": "Prendre une responsabilité limitée",
+              "objective": "Transformer l’intention de réparer en tâche claire.",
+              "exercise": [
+                "Choisir une part que l’on peut assurer.",
+                "La noter dans le document du projet.",
+                "Prévoir comment vérifier qu’elle est terminée."
+              ],
+              "benefit": "Une action précise peut restaurer de la fiabilité sans exiger de garantir la paix de tout le groupe."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 11,
+      "slug": "ruben-inquietude-avant-salon",
+      "title": "Refuser de présenter : écouter aussi l’inquiétude",
+      "description": "Après l’essai, Ruben refuse de parler au salon. Claire découvre sa peur de se tromper ; le suivi et l’équipe préparent un rôle choisi.",
+      "context": "L’approche du public au salon",
+      "topics": [
+        "Inquiétude situationnelle",
+        "Besoin nouveau",
+        "Participation ajustée"
+      ],
+      "clinical_intro": "Un refus chez un jeune déjà diagnostiqué ne doit pas masquer une inquiétude ou une autre difficulté. La peur d’une présentation peut gêner la participation sans suffire à définir un trouble anxieux. Écouter ce qui est anticipé et l’examiner dans le suivi permet de proposer un rôle adapté sans imposer une épreuve.",
+      "opening": "Le court essai prévu a bien lieu à la séance suivante. Madame Vernier encadre la démonstration pendant qu’Inès place son affiche à côté. Les points de la liste sont repris et le groupe dispose enfin d’un déroulement utilisable. Le robot a encore des ajustements possibles, mais l’ensemble fonctionne assez bien pour que les visiteurs comprennent leur projet. Ruben pourrait être content de cette étape. Sur le chemin du retour, il annonce pourtant qu’il ne parlera pas au salon.\n\nClaire pense d’abord au conflit sur les créneaux. Elle commence à demander ce qui s’est encore passé, puis reprend autrement : « Qu’est-ce qui te gêne dans le fait de parler ? » Ruben hausse les épaules. Après un silence, il explique qu’il pourrait oublier le mot d’une pièce ou que quelqu’un poserait une question à laquelle il ne sait pas répondre. Il imagine les visiteurs qui attendent pendant qu’il reste muet. Il préfère dire qu’il refuse plutôt que raconter cette peur au club.\n\nAu point de suivi déjà prévu, madame Arnaud reprend cette inquiétude avec lui. Elle demande comment elle se présente, ce qu’il anticipe et ce qu’elle change dans son envie de participer. Son diagnostic antérieur n’est pas utilisé comme réponse automatique. Ruben ne reçoit pas non plus une nouvelle étiquette à partir de cette conversation. Il voudrait montrer un essai, mais pas présenter tout le projet devant chaque groupe de visiteurs.",
+      "ending_title": "Un essai, puis la parole à Inès",
+      "ending": "Ruben choisit de présenter un seul essai, avec Inès à côté, puis de lui passer la parole pour l’affiche. Elle accepte cette répartition après en avoir discuté avec madame Vernier. Madame Vernier convient avec Ruben d’un rappel discret vers l’essai si la discussion s’écarte de sa tâche. Les parents confirment qu’ils soutiendront ce choix sans lui demander davantage devant le public. Le carnet orange servira d’aide-mémoire pour ses tâches, pas de relevé de sa peur. Ruben n’assure pas qu’il sera à l’aise ; il sait seulement ce qu’il veut essayer et à qui transmettre ensuite.",
+      "conclusion": "Écouter une difficulté nouvelle évite que le diagnostic connu réponde à toutes les questions. Ruben garde une place choisie dans le salon, avec une inquiétude examinée et un relais convenu. Participer ne demande pas de promettre l’absence de peur.",
+      "mirror": [
+        "Claire peut demander : « Qu’est-ce que tu imagines quand tu penses aux visiteurs ? » Elle n’a pas à traiter le refus comme une provocation par défaut. Inès peut accepter un relais précis, mais n’est pas chargée de rassurer Ruben en permanence. L’adulte vérifie que le rôle reste choisi et que l’accord ne s’élargit pas devant le public."
+      ],
+      "clinical_focus": "Une difficulté nouvelle mérite écoute",
+      "diagnostic_stage": "known",
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-ruben",
+        "nice-cg158-ruben"
+      ],
+      "continuity": {
+        "choice": "Ruben choisit une seule démonstration puis un relais à Inès, validés par les parents et madame Vernier.",
+        "next": "Le salon met ce choix à l’épreuve et permet de mesurer une participation concrète, pas une guérison."
+      },
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "L’étiquette connue ne remplace pas l’écoute du contexte",
+          "text": "La même réponse apparente peut correspondre à des difficultés différentes. Un refus de présentation peut inclure la peur de se tromper, sans devenir automatiquement une provocation ou un trouble anxieux. L’évaluation professionnelle apprécie l’ensemble de la situation. Chez Ruben, entendre l’inquiétude permet de discuter un rôle choisi ; cela ne garantit pas qu’il n’aura plus peur le jour du salon."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment l’inquiétude se cache-t-elle derrière le refus ?",
+          "points": [
+            {
+              "heading": "Le non arrive avant l’explication",
+              "text": "La réponse protège parfois d’une conversation embarrassante sur ce qui fait peur.",
+              "examples": [
+                "Ruben annonce qu’il ne parlera pas.",
+                "Il ne raconte les questions redoutées qu’après un silence."
+              ]
+            },
+            {
+              "heading": "Le futur est imaginé sous son aspect difficile",
+              "text": "Une anticipation précise peut prendre toute la place dans la préparation.",
+              "examples": [
+                "Il pense oublier un mot devant les visiteurs.",
+                "Il imagine ne pas savoir répondre à une question."
+              ]
+            },
+            {
+              "heading": "L’envie de participer reste présente",
+              "text": "La difficulté ne signifie pas nécessairement le rejet de tout le projet.",
+              "examples": [
+                "Ruben souhaite encore montrer le robot.",
+                "Il préfère un seul essai à la présentation entière."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour entendre un besoin nouveau",
+          "points": [
+            {
+              "heading": "Demander ce qui est anticipé",
+              "objective": "Ouvrir une explication différente du conflit habituel.",
+              "exercise": [
+                "Poser une question concrète sur le moment redouté.",
+                "Laisser du temps pour répondre sans ironie.",
+                "Reformuler l’inquiétude sans conclure sur sa cause."
+              ],
+              "benefit": "Le jeune peut nommer une peur qui restait cachée derrière le refus."
+            },
+            {
+              "heading": "Porter le retentissement au suivi",
+              "objective": "Examiner la difficulté dans son contexte.",
+              "exercise": [
+                "Décrire ce qui empêche ou limite la participation.",
+                "Préciser les situations où cela apparaît.",
+                "Discuter avec le professionnel des besoins et de la suite."
+              ],
+              "benefit": "L’appréciation clinique évite de tout attribuer au diagnostic connu ou d’en ajouter un trop vite."
+            },
+            {
+              "heading": "Choisir un rôle ajusté",
+              "objective": "Préparer une contribution acceptée par le jeune et l’équipe.",
+              "exercise": [
+                "Demander ce qu’il souhaite pouvoir faire.",
+                "Vérifier les possibilités avec les autres participants.",
+                "Convenir d’un relais clair sans exposition forcée."
+              ],
+              "benefit": "Une place limitée peut rendre la participation envisageable même si l’inquiétude reste présente."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 12,
+      "slug": "ruben-participation-evolution",
+      "title": "Participer au projet sans attendre une évolution parfaite",
+      "description": "Au salon, Ruben retrouve une tension mais revient à l’essai choisi. La démonstration et le relais ont lieu ; le suivi continue.",
+      "context": "Le salon des projets du collège",
+      "topics": [
+        "Évolution",
+        "Participation",
+        "Appuis maintenus"
+      ],
+      "clinical_intro": "L’évolution du trouble oppositionnel avec provocation peut être irrégulière et varier selon les situations. Une participation réussie ne signifie pas que toutes les difficultés ont disparu, pas plus qu’un accrochage n’annule les apprentissages. Reconnaître une action concrète et maintenir le suivi permet de soutenir le jeune sans lui imposer un résultat parfait.",
+      "opening": "Le salon remplit le couloir du collège de voix et de panneaux colorés. Inès a placé son affiche près de la table réservée au club de robotique. Madame Vernier reste responsable du matériel et des essais. Ruben a ouvert son carnet orange à la page qui rappelle sa partie : montrer un essai, expliquer ce qu’ils observent, puis donner la parole à Inès. Ses parents se tiennent un peu plus loin, sans lui faire de signe pour ajouter quelque chose.\n\nUn visiteur l’interrompt avant qu’il ait terminé sa première phrase. Il demande pourquoi ils ont choisi ces roues. Ruben commence à répondre qu’il allait justement l’expliquer. Le visiteur reprend sa question, et le ton de Ruben se tend. Madame Vernier lui adresse le rappel discret convenu : revenir à l’essai prévu, puis aux questions. Ruben regarde le carnet et reprend. Il reste agacé, mais la discussion ne prend pas toute la démonstration.\n\nLe robot ne suit pas parfaitement la ligne. Ruben voit un écart qu’il avait déjà noté et dit qu’ils veulent encore améliorer le réglage des roues avec l’enseignante. Il n’invente pas une réussite parfaite pour sauver sa présentation. Inès attend son tour avec l’affiche. Ruben termine les quelques phrases qu’il avait choisies, puis lui transmet la parole. Les visiteurs restent devant leur table ; le projet existe maintenant autrement que dans un croquis et une série de disputes.",
+      "ending_title": "Les roues restent à revoir",
+      "ending": "La démonstration est terminée. Inès garde son affiche pour la prochaine présentation du club et Ruben range le carnet orange. Il propose de revoir les roues lors d’une future séance, sans promettre qu’ils n’auront plus de désaccords. Claire lui dit qu’elle l’a vu revenir à son essai après l’interruption. Yacine lui demande ce qu’il a préféré montrer. Le rendez-vous avec madame Arnaud reste prévu. Ruben peut être fier d’une partie de cette journée et continuer à avoir besoin d’aide pour d’autres moments.",
+      "conclusion": "Une participation choisie peut aboutir au milieu d’une évolution encore irrégulière. Ruben a tenu sa démonstration et transmis la parole, avec des appuis concrets. Le salon est réalisé ; le suivi et les possibilités du prochain projet restent ouverts.",
+      "mirror": [
+        "Claire peut dire : « Tu es revenu à ton essai après la question ; comment l’as-tu vécu ? » Inès peut être reconnue pour son affiche et ses limites, sans devenir responsable des progrès de Ruben. Les adultes maintiennent le suivi et n’annoncent ni guérison ni avenir défavorable à partir de ce salon. Un désaccord futur ne retirera pas toute valeur à cette participation."
+      ],
+      "clinical_focus": "Participer malgré une évolution irrégulière",
+      "diagnostic_stage": "known",
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-ruben",
+        "nice-cg158-ruben"
+      ],
+      "continuity": {
+        "choice": "Ruben réalise sa démonstration, passe la parole à Inès et garde le suivi prévu avec ses parents.",
+        "next": "La série s’achève sur le salon accompli ; la participation future et le suivi restent ouverts, sans treizième épisode ni nouveau diagnostic annoncé."
+      },
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Une action réussie ne résume pas toute l’évolution",
+          "text": "L’évolution d’un trouble ne se mesure pas à une seule journée ni à une absence totale de désaccord. Une participation peut montrer qu’un appui a été utilisé dans une situation précise, sans prouver une guérison. Ruben a repris son fil et passé la parole malgré une tension. Les changements des adultes, le travail d’Inès et l’accompagnement ont aussi leur place, sans devenir une dette qu’il devrait rembourser en étant toujours d’accord."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment les progrès et les difficultés coexistent-ils ?",
+          "points": [
+            {
+              "heading": "Une tension réapparaît",
+              "text": "Un moment attendu peut encore contenir un accrochage.",
+              "examples": [
+                "Ruben répond vivement à l’interruption.",
+                "Il reste agacé après le rappel de la professeure."
+              ]
+            },
+            {
+              "heading": "Un appui devient utilisable",
+              "text": "Une organisation préparée peut soutenir une action différente.",
+              "examples": [
+                "Le carnet rappelle la part choisie.",
+                "Le rappel discret l’aide à revenir à l’essai plutôt qu’à prolonger la discussion."
+              ]
+            },
+            {
+              "heading": "Le relais a réellement lieu",
+              "text": "La participation se voit dans une responsabilité tenue et transmise.",
+              "examples": [
+                "Ruben explique un point encore à améliorer.",
+                "Il donne ensuite la parole à Inès pour l’affiche."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour reconnaître une participation concrète",
+          "points": [
+            {
+              "heading": "Nommer une action précise",
+              "objective": "Éviter les jugements globaux de réussite ou d’échec.",
+              "exercise": [
+                "Repérer ce que le jeune a effectivement fait.",
+                "Le décrire sans dire qu’il est désormais guéri ou toujours sage.",
+                "Laisser aussi une place à ce qu’il a trouvé difficile."
+              ],
+              "benefit": "Un retour précis peut rendre l’apprentissage visible sans imposer une identité parfaite."
+            },
+            {
+              "heading": "Reconnaître les appuis partagés",
+              "objective": "Voir le travail des autres sans créer de dette affective.",
+              "exercise": [
+                "Nommer l’accord ou l’aide qui a servi.",
+                "Remercier chacun pour sa contribution réelle.",
+                "Garder à chacun le droit à ses limites et à ses désaccords."
+              ],
+              "benefit": "La coopération peut être reconnue sans demander au jeune d’obéir pour prouver sa gratitude."
+            },
+            {
+              "heading": "Maintenir le point de suivi",
+              "objective": "Continuer à apprécier l’évolution dans son ensemble.",
+              "exercise": [
+                "Conserver le rendez-vous prévu.",
+                "Y apporter un exemple de ce qui a aidé et de ce qui reste difficile.",
+                "Discuter les prochains objectifs avec le jeune et les adultes concernés."
+              ],
+              "benefit": "Le suivi peut intégrer une réussite sans se réduire à celle-ci ni annoncer la suite comme inévitable."
+            }
+          ]
+        }
+      ]
     }
   ]
 }

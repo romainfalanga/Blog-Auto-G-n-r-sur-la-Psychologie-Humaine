@@ -229,7 +229,7 @@
       "clinical_focus": "Le soulagement qui ne dure pas",
       "diagnostic_stage": "known",
       "clinical_intro": "Un soulagement ou une gratification peut accompagner un acte dans la kleptomanie, puis laisser place à des difficultés persistantes. Ce contraste aide à comprendre le trouble sans approuver l’acte. Décrire le vécu au professionnel ne nécessite pas d’en détailler la réalisation ; les conséquences pour autrui et les besoins de soin demeurent distincts.",
-      "opening": "La feuille qu’Irma sort de son carnet personnel ne ressemble pas au budget de la classe. Elle porte quelques mots écrits après le dernier rendez-vous : tension, bref relâchement, puis inquiétude. Elle veut parler d’un acte antérieur au début des préparatifs. Les démarches concernant ses conséquences sont déjà engagées avec les interlocuteurs compétents. Mme Faure et elle se concentrent aujourd’hui sur le vécu qu’Irma essaie de nommer.\n\n« Il y a eu un moment où ça s’est desserré. Très court. » Elle s’arrête, gênée de prononcer une phrase qui pourrait sembler rendre l’acte attirant. Elle n’en donne ni le lieu, ni l’objet, ni la manière. Ce qui l’importe est le contraste : une tension momentanément relâchée n’avait pas fait disparaître les suites ni empêché la honte. Elle n’a pas besoin de raconter davantage pour poser cette question au suivi.\n\nMme Faure lui demande ce qu’elle voudrait que cette note aide à travailler. Irma répond qu’elle souhaite comprendre pourquoi le fait d’avoir regretté n’a pas suffi à rendre toute impulsion impossible. Elle ne cherche pas une excuse. Après le rendez-vous, Salomé l’attend pour un repas. Irma avait pensé annuler, comme si toute conversation ordinaire était désormais déplacée. Elle regarde l’heure et décide de garder ce moment. Elle pourra dire qu’elle sort d’une consultation difficile, sans transformer la table de son amie en prolongement du cabinet.",
+      "opening": "La feuille qu’Irma sort de son carnet personnel ne ressemble pas au budget de la classe. Elle porte quelques mots écrits après le dernier rendez-vous : tension, bref relâchement, puis inquiétude. Elle veut parler d’un acte antérieur au début des préparatifs. Les démarches concernant ses conséquences sont déjà engagées avec les interlocuteurs compétents. Mme Faure et elle se concentrent aujourd’hui sur le vécu qu’Irma essaie de nommer.\n\n« Il y a eu un moment où ça s’est desserré. Très court. » Elle s’arrête, gênée de prononcer une phrase qui pourrait sembler rendre l’acte attirant. Elle choisit de rester sur ce qu’elle souhaite comprendre aujourd’hui. Ce qui lui importe est le contraste : une tension momentanément relâchée n’avait pas fait disparaître les suites ni empêché la honte. Elle n’a pas besoin de raconter davantage pour poser cette question au suivi.\n\nMme Faure lui demande ce qu’elle voudrait que cette note aide à travailler. Irma répond qu’elle souhaite comprendre pourquoi le fait d’avoir regretté n’a pas suffi à rendre toute impulsion impossible. Elle ne cherche pas une excuse. Après le rendez-vous, Salomé l’attend pour un repas. Irma avait pensé annuler, comme si toute conversation ordinaire était désormais déplacée. Elle regarde l’heure et décide de garder ce moment. Elle pourra dire qu’elle sort d’une consultation difficile, sans transformer la table de son amie en prolongement du cabinet.",
       "sections": [
         {
           "role": "explanation",
@@ -728,6 +728,522 @@
       "continuity": {
         "choice": "Irma et Salomé fixent une conversation après la prochaine consultation, avec limites de disponibilité et de partage.",
         "next": "Irma prépare ses questions sur les objectifs, les limites et le bilan du soin."
+      }
+    },
+    {
+      "number": 8,
+      "slug": "irma-soin-et-incertitudes",
+      "title": "Options de soin : décider sans promesse de résultat",
+      "description": "Irma apporte trois questions à sa thérapeute. Elles précisent les objectifs et conviennent d’un bilan après la première classe.",
+      "context": "Clarifier les attentes en consultation",
+      "topics": [
+        "options étudiées",
+        "limites des preuves",
+        "bilan de suivi"
+      ],
+      "clinical_focus": "Choisir un soin malgré les incertitudes",
+      "diagnostic_stage": "known",
+      "clinical_intro": "Les recherches sur la prise en charge de la kleptomanie documentent des options étudiées, avec des limites importantes d’effectif, de méthode ou de durée. Elles ne donnent pas une garantie individuelle de résultat. Discuter des objectifs, des incertitudes et du moment où refaire le point permet de construire un suivi adapté avec les professionnels.",
+      "opening": "Irma arrive chez Mme Faure avec trois questions écrites sur une feuille différente de ses notes d’atelier. Que vise le suivi pour elle ? Sur quoi pourront-elles s’appuyer pour en parler ? Quand referont-elles le point ? Elle a vu passer des annonces de résultats rapides et s’est surprise à vouloir une réponse qui tienne dans une date. La classe approche ; elle aimerait savoir à l’avance qu’aucune difficulté ne viendra compliquer cette période.\n\nElle ne montre pas ces annonces comme une prescription. Elle dit plutôt ce qu’elles ont réveillé : l’envie de pouvoir annoncer à Salomé que le problème sera bientôt réglé. Mme Faure lui demande quelles attentes lui paraissent les plus importantes maintenant. Irma parle de mieux décrire ce qui se passe, de ne pas abandonner les consultations par honte et d’avoir un cadre pour revenir sur les difficultés. Elle sait que ces objectifs ne signifient pas la disparition garantie des impulsions.\n\nLe classeur orange reste au studio. Les réservations et l’accès au matériel ne sont pas les indicateurs d’un traitement ; ce sont les documents d’un projet professionnel. Irma veut pouvoir réussir la classe sans en faire un examen final de santé. Elle demande aussi comment seront entendues les périodes plus faciles et les moments plus difficiles. La conversation prend plus de place qu’une formule rassurante, mais lui donne des questions auxquelles son accompagnement peut réellement répondre.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Des pistes étudiées ne constituent pas une garantie",
+          "text": "Les données disponibles sur certains traitements de la kleptomanie restent limitées. Un petit essai contrôlé de courte durée et une étude ouverte de groupe ne répondent pas aux mêmes questions, et ne permettent pas de promettre un bénéfice durable à chacun. Les descriptions diagnostiques ne sont pas non plus des recommandations de traitement. Irma discute donc d’un soin individualisé avec Mme Faure, sans recopier un programme ni choisir seule une prescription à partir d’une annonce."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment les incertitudes influencent-elles les attentes ?",
+          "points": [
+            {
+              "heading": "Une échéance professionnelle appelle une certitude",
+              "text": "La personne peut espérer que le soin garantisse la période à venir.",
+              "examples": [
+                "Irma voudrait être certaine que la préparation sera facile.",
+                "Elle imagine annoncer une résolution rapide à Salomé."
+              ]
+            },
+            {
+              "heading": "Les objectifs peuvent être précisés",
+              "text": "Une attente générale devient plus utile lorsqu’elle est discutée.",
+              "examples": [
+                "Irma veut mieux transmettre les difficultés au suivi.",
+                "Elle souhaite éviter de quitter les consultations parce qu’elle a honte."
+              ]
+            },
+            {
+              "heading": "Le bilan comporte plusieurs éléments",
+              "text": "Une réussite pratique ne suffit pas à évaluer la santé.",
+              "examples": [
+                "La classe peut bien se dérouler avec des impulsions encore présentes.",
+                "Un moment difficile peut être repris sans annuler tout le travail du suivi."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour préparer une décision de soin",
+          "points": [
+            {
+              "heading": "Formuler une attente réaliste",
+              "objective": "Donner une direction à la discussion.",
+              "exercise": [
+                "Nommer ce que l’on souhaite améliorer dans sa vie ou son accès au soin.",
+                "Dire ce que l’on espère sans le présenter comme certain.",
+                "Demander au professionnel comment cet objectif peut être travaillé."
+              ],
+              "benefit": "Une attente explicitée peut être discutée plutôt que remplacée par une promesse."
+            },
+            {
+              "heading": "Demander les limites",
+              "objective": "Comprendre ce que les données et le suivi permettent d’affirmer.",
+              "exercise": [
+                "Poser une question sur les bénéfices possibles.",
+                "Demander les incertitudes et les contraintes pertinentes.",
+                "Vérifier que l’explication concerne sa situation individuelle."
+              ],
+              "benefit": "La décision peut tenir compte des limites sans chercher une méthode universelle."
+            },
+            {
+              "heading": "Convenir d’un bilan",
+              "objective": "Garder un moment pour réexaminer les choix.",
+              "exercise": [
+                "Fixer avec le professionnel quand refaire le point.",
+                "Préciser les difficultés et changements utiles à lui rapporter.",
+                "Conserver les modalités de contact prévues si un besoin survient avant."
+              ],
+              "benefit": "Le suivi reste ajustable sans attendre une réussite totale ou un échec complet."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Un rendez-vous après la classe",
+      "ending": "Irma et Mme Faure conviennent d’un point de suivi après la première classe. Elles poursuivent l’accompagnement individualisé, sans promettre que les impulsions auront disparu d’ici là. Irma garde sa feuille de questions et l’heure du rendez-vous. Elle retrouve ensuite Salomé comme prévu. Elle ne lui apporte pas une garantie ; elle peut lui dire qu’un cadre de soin continue et qu’elle souhaite parler de la place que son amie accepte d’y tenir.",
+      "conclusion": "Les incertitudes des recherches n’empêchent pas une discussion de soin, mais elles interdisent les garanties faciles. Irma repart avec des objectifs et un bilan convenus. La première classe reste un projet à préparer, tandis que l’évolution clinique sera appréciée dans le suivi.",
+      "mirror": [
+        "Salomé peut demander : « As-tu pu poser tes questions et prévoir quand refaire le point ? » Elle n’a pas à choisir un traitement à partir d’une annonce ni à obtenir une date de guérison. Elle peut soutenir la continuité des rendez-vous, avec les limites déjà convenues. La décision de soin reste celle d’Irma avec les professionnels concernés."
+      ],
+      "sources": [
+        "oms-cddr",
+        "grant-2009",
+        "asami-2022"
+      ],
+      "continuity": {
+        "choice": "Irma poursuit son accompagnement et fixe un bilan avec Mme Faure après la première classe.",
+        "next": "La conversation prévue avec Salomé abordera les conséquences de l’acte antérieur et les limites de son rôle."
+      }
+    },
+    {
+      "number": 9,
+      "slug": "irma-confiance-et-consequences",
+      "title": "Confiance : soutenir sans devenir garant",
+      "description": "Salomé refuse d’être intermédiaire ou garante. Irma respecte cette limite et poursuit les démarches concernant un acte antérieur.",
+      "context": "Une conversation après la consultation",
+      "topics": [
+        "confiance",
+        "conséquences",
+        "limites du proche"
+      ],
+      "clinical_focus": "La confiance et les conséquences",
+      "diagnostic_stage": "known",
+      "clinical_intro": "Le soutien d’un proche et la confiance ne peuvent pas être exigés au nom d’un diagnostic. La kleptomanie peut avoir des conséquences relationnelles qui nécessitent du temps et des limites explicites. Reconnaître le trouble n’efface pas le tort d’un acte. Une personne peut accepter une aide précise tout en assumant elle-même les démarches nécessaires.",
+      "opening": "Salomé rejoint Irma après la consultation, sur le créneau qu’elles avaient choisi. Elles s’installent avec une boisson et prennent quelques minutes pour parler du studio. Puis Irma explique qu’elle poursuit les démarches déjà engagées au sujet de l’acte antérieur. Elle ne raconte pas comment il a été commis. Ce qui l’inquiète aujourd’hui est la manière de faire face aux conversations qui l’attendent avec les interlocuteurs compétents.\n\nElle commence à demander si Salomé pourrait parler pour elle, puis s’arrête. Son amie répond avant que la demande reste floue : elle ne veut pas servir d’intermédiaire et ne peut pas garantir que cela ne se reproduira pas. Irma sent une déception immédiate. Elle avait espéré qu’une personne proche puisse rendre la situation moins lourde simplement en prenant une part de la parole.\n\nSalomé précise qu’elle accepte cette conversation, pas une responsabilité sur les conséquences ou les actes futurs. Irma entend la différence avec difficulté. Elle ne veut pas transformer son diagnostic en argument pour obtenir un rôle que son amie refuse. Elle reprend : « Alors je te demande seulement de m’écouter aujourd’hui. Pour le reste, je continue avec les personnes déjà concernées. » La confiance ne revient pas sur commande. Elles ont encore le projet de regarder les affiches du quartier ; Irma voudrait garder ce lien, sans faire de ce moment un contrat de surveillance ou une garantie morale.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Le soutien n’est pas une garantie sur l’avenir",
+          "text": "Les conséquences relationnelles d’un acte ne se résolvent pas par la seule explication du trouble. Un proche peut écouter tout en refusant de parler à la place de la personne ou de répondre de ses actes futurs. Irma peut reconnaître ce refus sans abandonner le soin ni les démarches nécessaires. La confiance appartient aussi à Salomé ; elle n’a pas à être proclamée pour montrer qu’elle accepte l’existence d’une difficulté clinique."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment le retentissement relationnel se distingue-t-il de la honte ?",
+          "points": [
+            {
+              "heading": "Une attente concerne l’autre",
+              "text": "La question porte sur le rôle demandé au proche, pas seulement sur le jugement sur soi.",
+              "examples": [
+                "Irma envisage que Salomé parle pour elle.",
+                "Salomé ne souhaite pas devenir intermédiaire."
+              ]
+            },
+            {
+              "heading": "La confiance ne se décrète pas",
+              "text": "Une promesse ne remplace pas le choix et l’expérience de l’autre.",
+              "examples": [
+                "Salomé refuse de garantir l’absence de répétition.",
+                "Irma ne peut pas utiliser son diagnostic pour obtenir cette garantie."
+              ]
+            },
+            {
+              "heading": "Le lien peut garder un périmètre",
+              "text": "Une relation peut continuer sans couvrir toutes les responsabilités.",
+              "examples": [
+                "Salomé accepte d’écouter pendant le créneau prévu.",
+                "Les démarches restent auprès des interlocuteurs déjà mobilisés."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour clarifier une demande au proche",
+          "points": [
+            {
+              "heading": "Préciser ce qui est demandé",
+              "objective": "Éviter qu’une conversation devienne un engagement implicite.",
+              "exercise": [
+                "Nommer le rôle que l’on espère réellement.",
+                "Demander si la personne accepte ce rôle.",
+                "Reformuler l’accord limité qui reste possible."
+              ],
+              "benefit": "Le proche peut consentir à une aide précise sans découvrir ensuite une responsabilité supplémentaire."
+            },
+            {
+              "heading": "Entendre le refus",
+              "objective": "Respecter l’autonomie et les limites de l’autre.",
+              "exercise": [
+                "Laisser le proche exprimer ce qu’il ne veut pas faire.",
+                "Reconnaître ce refus sans le contester par le diagnostic.",
+                "Chercher les appuis appropriés ailleurs pour les besoins non couverts."
+              ],
+              "benefit": "La relation peut éviter une obligation imposée ; cela ne garantit pas un retour immédiat de confiance."
+            },
+            {
+              "heading": "Poursuivre les démarches dans leur cadre",
+              "objective": "Assumer les conséquences séparément du soutien amical.",
+              "exercise": [
+                "Reprendre les contacts déjà engagés avec les interlocuteurs compétents.",
+                "Leur adresser les questions qui relèvent de leur rôle.",
+                "Ne pas demander à l’ami de cacher, contourner ou résoudre les conséquences."
+              ],
+              "benefit": "Les responsabilités restent identifiées sans promettre une issue qui n’est pas connue."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Les affiches restent un rendez-vous",
+      "ending": "Irma accepte que Salomé ne soit ni intermédiaire ni garante. Elle reprend elle-même les démarches avec les professionnels concernés, dans le cadre déjà engagé. Elles confirment aussi leur sortie d’une heure autour des affiches, puis la réalisent au créneau prévu. Elles discutent de couleurs et d’une date trop peu visible, sans transformer l’activité en surveillance. Les conséquences antérieures continuent de suivre leur cours ; la relation conserve un moment choisi, avec des limites qui ne disparaissent pas après cette conversation.",
+      "conclusion": "Une aide choisie n’oblige pas un proche à répondre des actes d’une autre personne. Irma a entendu un refus et conservé la responsabilité de ses démarches. Le lien peut continuer dans un périmètre accepté, sans pardon imposé ni confiance déclarée à la place de Salomé.",
+      "mirror": [
+        "Salomé peut dire : « Je t’écoute aujourd’hui, mais je ne parlerai pas pour toi et je ne peux pas garantir l’avenir. » Elle n’a pas à contrôler les affaires ou les déplacements d’Irma pour rendre cette limite crédible. Elle peut garder un moment partagé ordinaire tout en maintenant son refus. Les personnes concernées par le tort gardent également leur propre place et leurs choix."
+      ],
+      "sources": [
+        "oms-cddr",
+        "nice-cg138"
+      ],
+      "continuity": {
+        "choice": "Irma respecte le refus de Salomé, poursuit ses démarches et partage le créneau d’affiches sans surveillance.",
+        "next": "Une inquiétude persistante et un sommeil dégradé seront rapportés au suivi pour une évaluation propre."
+      }
+    },
+    {
+      "number": 10,
+      "slug": "irma-sommeil-et-inquietude",
+      "title": "Sommeil et inquiétude : ne pas tout attribuer au trouble connu",
+      "description": "Irma dort moins bien depuis plusieurs jours. Elle en parle, consulte un médecin et adapte une tâche avec Maud.",
+      "context": "Une difficulté associée à examiner",
+      "topics": [
+        "sommeil",
+        "évaluation médicale",
+        "charge temporaire"
+      ],
+      "clinical_focus": "Une souffrance associée à évaluer",
+      "diagnostic_stage": "known",
+      "clinical_intro": "Une difficulté nouvelle ou persistante mérite sa propre évaluation, même lorsqu’un trouble est déjà diagnostiqué. Sommeil dégradé et inquiétude peuvent avoir plusieurs explications ; ils ne permettent pas de conclure seuls à un autre diagnostic. Décrire leur durée et leur retentissement aide les professionnels à apprécier la situation et les besoins de suivi.",
+      "opening": "La classe approche et Irma vérifie plusieurs fois qu’elle a bien noté l’heure de son rendez-vous. Depuis plusieurs jours, son sommeil s’est dégradé. Elle arrive au studio avec moins de disponibilité et se surprend à relire les confirmations de réservation sans retenir les détails. Une inquiétude persistante occupe aussi ses moments de repos. Elle pense d’abord qu’elle devrait simplement attendre que cette période se termine.\n\nChez Mme Faure, elle mentionne ces nuits difficiles après avoir parlé de la préparation. « C’est encore la kleptomanie, j’imagine. » La thérapeute ne reprend pas cette explication comme une évidence. Elle lui demande depuis quand les difficultés sont présentes et ce qu’elles changent dans ses journées. Irma décrit la fatigue, les confirmations qu’elle vérifie plusieurs fois et la difficulté à décrocher de ses préoccupations. Elle ne sait pas donner une cause unique.\n\nMme Faure lui propose une évaluation médicale. Irma prend rendez-vous au lieu de garder cette proposition pour plus tard. Elle craint un instant que demander cet avis signifie ajouter forcément un diagnostic, puis comprend qu’il s’agit d’examiner la situation. Au studio, elle peut aussi revoir une tâche non urgente avec Maud. Les informations de réservation sont déjà dans le classeur orange ; sa collègue pourra reprendre les confirmations si elle est disponible. Irma n’a pas besoin de lui annoncer une explication médicale qui n’a pas encore été établie.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Le diagnostic connu ne répond pas à toutes les questions",
+          "text": "Des difficultés de sommeil ou d’inquiétude peuvent coexister avec la kleptomanie sans lui être automatiquement attribuées. Leur durée, leur évolution et leur retentissement méritent une appréciation propre. La consultation médicale permet d’examiner les explications pertinentes, sans diagnostic présumé. Pour Irma, déléguer les confirmations est un ajustement de charge pendant cette période ; cette organisation ne remplace ni l’évaluation ni la suite du suivi."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment une difficulté associée affecte-t-elle le quotidien ?",
+          "points": [
+            {
+              "heading": "La disponibilité change",
+              "text": "Le sommeil dégradé peut rendre les tâches habituelles plus coûteuses.",
+              "examples": [
+                "Irma arrive avec moins de disponibilité au studio.",
+                "Elle doit relire les confirmations pour retenir les détails."
+              ]
+            },
+            {
+              "heading": "L’inquiétude déborde les tâches",
+              "text": "Une préoccupation persistante peut occuper aussi les temps de repos.",
+              "examples": [
+                "Irma a du mal à décrocher en dehors du travail.",
+                "Elle décrit plusieurs jours difficiles plutôt qu’un seul courriel stressant."
+              ]
+            },
+            {
+              "heading": "Une explication est présumée trop vite",
+              "text": "Le diagnostic connu peut masquer une question à examiner séparément.",
+              "examples": [
+                "Irma attribue d’abord tout à la kleptomanie.",
+                "Mme Faure propose un avis médical plutôt que de confirmer cette hypothèse."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour préparer une évaluation utile",
+          "points": [
+            {
+              "heading": "Rapporter durée et retentissement",
+              "objective": "Donner des éléments concrets sans se diagnostiquer.",
+              "exercise": [
+                "Indiquer depuis quand la difficulté est présente.",
+                "Décrire ce qui a changé dans le sommeil et la journée.",
+                "Préciser les tâches ou moments particulièrement affectés."
+              ],
+              "benefit": "Le professionnel dispose d’exemples pour apprécier la situation sans score improvisé."
+            },
+            {
+              "heading": "Préparer ses questions médicales",
+              "objective": "Rendre le rendez-vous plus clair.",
+              "exercise": [
+                "Noter les points que l’on souhaite aborder.",
+                "Apporter les informations pertinentes demandées par le professionnel.",
+                "Demander quelle suite et quels motifs de nouveau contact sont prévus."
+              ],
+              "benefit": "La consultation peut déboucher sur un suivi adapté sans explication anticipée."
+            },
+            {
+              "heading": "Adapter une tâche avec la collègue",
+              "objective": "Réduire une charge précise pendant la période.",
+              "exercise": [
+                "Choisir une tâche pouvant être partagée.",
+                "Demander à la collègue si elle peut réellement la reprendre.",
+                "Confirmer ce qui change et ce qui reste à sa charge."
+              ],
+              "benefit": "L’ajustement peut soutenir le fonctionnement sans obliger à partager des informations médicales privées."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Le rendez-vous a lieu",
+      "ending": "Irma se rend au rendez-vous médical. Elle y décrit le sommeil dégradé, l’inquiétude et leur effet sur ses journées. Le médecin examine sa situation et convient avec elle d’une suite de suivi ; Irma garde les indications et les modalités de nouveau contact données. Aucun résultat n’est promis pour la date de la classe. Maud accepte de prendre les confirmations de réservation. Irma conserve les préparatifs pédagogiques délimités et son rendez-vous avec Mme Faure après la séance.",
+      "conclusion": "Une difficulté associée mérite d’être examinée sans être automatiquement expliquée par un diagnostic déjà connu. Irma a consulté et adapté une tâche de travail. Le suivi médical et le suivi spécialisé continuent, tandis que la préparation se répartit de manière concrète.",
+      "mirror": [
+        "Maud peut dire : « Je prends les confirmations cette semaine ; nous faisons le point sur ce qui reste. » Elle n’a pas à connaître le contenu du rendez-vous pour accepter cette tâche. Salomé peut encourager Irma à décrire les difficultés au professionnel sans annoncer un diagnostic. Les proches gardent leurs limites et ne deviennent pas responsables du sommeil ou du traitement."
+      ],
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-hrb"
+      ],
+      "continuity": {
+        "choice": "Irma consulte réellement un médecin ; une suite est convenue et Maud reprend les confirmations.",
+        "next": "Les préparatifs continuent avec ces appuis, tandis qu’une impulsion reviendra après quelques jours plus faciles."
+      }
+    },
+    {
+      "number": 11,
+      "slug": "irma-retour-apres-accalmie",
+      "title": "Retour d’une impulsion : ne pas annuler tout le parcours",
+      "description": "Après une accalmie, Irma ressent une impulsion. Elle contacte son suivi et confirme avec Maud la répartition de la classe.",
+      "context": "La dernière semaine de préparation",
+      "topics": [
+        "fluctuations",
+        "continuité du soin",
+        "organisation ajustée"
+      ],
+      "clinical_focus": "Le retour après une accalmie",
+      "diagnostic_stage": "known",
+      "clinical_intro": "L’évolution de la kleptomanie peut être variable, avec des périodes plus faciles et des difficultés renouvelées. Le retour d’une impulsion n’est pas identique à un nouvel acte ni à un abandon du soin. En parler au suivi et revoir les besoins pratiques permet de répondre au changement sans considérer que tout le parcours est annulé.",
+      "opening": "Maud a terminé les confirmations de réservation. Joëlle a répondu au nouvel horaire et le nombre d’élèves est fixé. Dans le studio, Irma prépare la présentation de l’impression choisie pour la classe. Elle veut commencer par une question sur les couleurs, puis montrer un exemple terminé. Après plusieurs jours où les impulsions lui ont laissé davantage de place, elle avait commencé à croire que cette semaine serait entièrement plus simple.\n\nUne impulsion revient pourtant pendant les préparatifs. Elle occupe son attention et fait surgir une pensée décourageante : tout ce qu’elle a travaillé avec Mme Faure n’aurait donc servi à rien. Irma reste devant son plan de séance. Elle n’a pas commis de nouvel acte ; elle éprouve une difficulté dont elle doit parler. La distinction n’enlève pas le malaise, mais elle empêche de résumer ce moment comme si toutes les étapes précédentes avaient disparu.\n\nElle contacte Mme Faure selon leur cadre de suivi et décrit ce changement après l’accalmie. Le rendez-vous médical et les indications reçues restent aussi dans son organisation. Elle n’envoie pas à Salomé une demande de disponibilité permanente : les limites de son amie n’ont pas changé. Avec Maud, il reste une question professionnelle précise à régler. Qui accueille la classe, qui suit les réservations et qui présente l’impression ? Irma veut confirmer cette répartition plutôt que promettre à sa collègue une semaine sans difficulté.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Une fluctuation ne résume pas toute l’évolution",
+          "text": "La kleptomanie peut évoluer avec des variations de fréquence ou de présence des difficultés. Une période plus facile ne garantit pas leur disparition définitive. Le retour d’une impulsion doit être distingué de la répétition d’un acte et de la décision de poursuivre ou non les soins. Irma transmet le changement au suivi et examine ses besoins. La répartition professionnelle lui donne un cadre de travail, sans servir de traitement ni de garantie sur l’avenir."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment une difficulté renouvelée affecte-t-elle le projet ?",
+          "points": [
+            {
+              "heading": "L’accalmie devient une attente",
+              "text": "Une amélioration récente peut être prise pour une promesse de continuité.",
+              "examples": [
+                "Irma espérait une semaine entièrement plus simple.",
+                "Le retour de l’impulsion la décourage fortement."
+              ]
+            },
+            {
+              "heading": "Tout le travail paraît annulé",
+              "text": "Un moment difficile peut provoquer une conclusion globale.",
+              "examples": [
+                "Irma pense que le suivi n’aurait servi à rien.",
+                "Elle doit distinguer cette pensée du fait qu’elle continue à demander de l’aide."
+              ]
+            },
+            {
+              "heading": "La répartition doit rester concrète",
+              "text": "Les tâches peuvent être confirmées sans promesse clinique.",
+              "examples": [
+                "Maud a repris les confirmations.",
+                "Irma souhaite garder la présentation pédagogique dans une organisation précise."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour répondre au changement",
+          "points": [
+            {
+              "heading": "Communiquer la difficulté au suivi",
+              "objective": "Ne pas laisser le découragement interrompre le soin.",
+              "exercise": [
+                "Décrire la période plus facile puis le changement récent.",
+                "Préciser le retentissement actuel.",
+                "Suivre les modalités de contact et les indications convenues."
+              ],
+              "benefit": "Le professionnel peut apprécier l’évolution sans se limiter à un seul moment."
+            },
+            {
+              "heading": "Réexaminer l’organisation",
+              "objective": "Adapter les responsabilités effectivement partagées.",
+              "exercise": [
+                "Lister les tâches de la séance avec la collègue.",
+                "Confirmer ce que chacune accepte et peut assurer.",
+                "Revoir ce qui nécessite une autre répartition si les besoins changent."
+              ],
+              "benefit": "Un accord réel peut soutenir le projet sans être une épreuve de résistance aux impulsions."
+            },
+            {
+              "heading": "Maintenir les rendez-vous prévus",
+              "objective": "Garder une continuité malgré les variations.",
+              "exercise": [
+                "Vérifier les prochains rendez-vous spécialisés et médicaux.",
+                "Conserver les questions à y apporter.",
+                "Ne pas modifier seul les soins sur la base d’une accalmie ou d’un retour difficile."
+              ],
+              "benefit": "Le suivi peut rester ouvert à l’ajustement sans être abandonné après une fluctuation."
+            }
+          ]
+        }
+      ],
+      "ending_title": "La répartition tient sur une page",
+      "ending": "Après le contact avec Mme Faure, Irma garde les indications de son suivi. Elle confirme avec Maud que celle-ci accueillera la classe et suivra les réservations, tandis qu’Irma présentera l’impression choisie. Joëlle accompagnera ses élèves pendant la séance. Le plan d’accès ordinaire au matériel est revu pour tous les ateliers. La classe reste prévue avec ces responsabilités explicites et les contacts de soin maintenus, sans déclaration de guérison ni promesse demandée à Salomé.",
+      "conclusion": "Le retour d’une impulsion peut être décourageant sans effacer les étapes du soin. Irma a transmis ce changement et confirmé une répartition de travail. Le projet continue dans ce cadre ; l’évolution clinique reste à apprécier avec les professionnels.",
+      "mirror": [
+        "Maud peut demander : « Nous gardons cette répartition, ou faut-il revoir une tâche ? » Elle n’a pas à exiger une garantie sur les impulsions pour parler du planning. Salomé peut rappeler le soutien limité qu’elle a accepté, sans devenir joignable en permanence. Reconnaître une fluctuation ne signifie ni banaliser un acte ni retirer tout appui."
+      ],
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-hrb"
+      ],
+      "continuity": {
+        "choice": "Irma contacte Mme Faure et confirme avec Maud et Joëlle les rôles de la première classe.",
+        "next": "La classe se déroulera selon cette répartition ; le bilan de suivi après la séance est déjà fixé."
+      }
+    },
+    {
+      "number": 12,
+      "slug": "irma-premiere-classe",
+      "title": "Vivre au-delà du symptôme : une première classe accueillie",
+      "description": "Irma anime la séance avec Maud et Joëlle. Le projet aboutit sans devenir une preuve de guérison ni effacer les conséquences passées.",
+      "context": "La première classe au studio",
+      "topics": [
+        "projet personnel",
+        "bilan professionnel",
+        "suivi ouvert"
+      ],
+      "clinical_focus": "Vivre au-delà du symptôme",
+      "diagnostic_stage": "known",
+      "clinical_intro": "Une personne peut mener un projet important tout en poursuivant des soins pour un trouble encore présent. Une réussite professionnelle ne prouve pas la disparition des symptômes, pas plus qu’un diagnostic ne résume toutes ses compétences. Distinguer les retours sur l’activité et les questions cliniques permet de reconnaître cette réussite sans lui demander de tout résoudre.",
+      "opening": "Près de six semaines après le premier courriel, la classe arrive au studio. Maud accueille Joëlle et vérifie les réservations dans le classeur orange. Les élèves déposent leurs affaires à l’endroit indiqué, puis se rassemblent autour de la présentation. Le plan d’accès au matériel est celui utilisé pour l’atelier : des règles communes, expliquées à tout le groupe. Maud explique où les groupes travailleront et comment se répartir pendant la séance.\n\nIrma montre l’impression qu’elle a choisie et demande quelle couleur attire le regard en premier. Les réponses se contredisent, ce qui l’amuse. Elle avait préparé une question avec une réponse probable ; les élèves lui en donnent plusieurs autres. Joëlle accompagne les échanges et aide le groupe à respecter les consignes de la séance. Maud garde la partie d’accueil et d’organisation qu’elles avaient convenue.\n\nIrma doit consulter une fois son plan pour retrouver la suite de la présentation. Elle reprend sans transformer ce petit arrêt en verdict sur sa santé. Ce qui compte pour cette heure est de transmettre une activité avec son équipe. Le rendez-vous avec Mme Faure après la classe reste fixé, et les autres démarches n’ont pas disparu avec l’arrivée des élèves. Ils sont venus apprendre une technique artistique, pas participer à son soin. Irma peut s’intéresser à leurs choix de couleurs et à la façon dont la séance avance, sans être réduite à la difficulté qui l’avait préoccupée devant le premier courriel.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Le fonctionnement et la santé ne se résument pas l’un à l’autre",
+          "text": "Une activité réussie peut montrer des compétences, une organisation adaptée et une coopération réelle. Elle ne suffit pas à conclure que le trouble est résolu. Irma anime une séance grâce à ses savoirs et à la répartition avec Maud et Joëlle. L’activité artistique ne constitue pas ici un traitement de la kleptomanie. Le suivi clinique et les démarches concernant les conséquences antérieures conservent leur cadre propre."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment une place au-delà du symptôme se manifeste-t-elle ?",
+          "points": [
+            {
+              "heading": "Les compétences redeviennent visibles",
+              "text": "La personne peut contribuer avec ses savoirs et ses goûts.",
+              "examples": [
+                "Irma prépare une question sur les couleurs.",
+                "Elle s’adapte aux réponses inattendues des élèves."
+              ]
+            },
+            {
+              "heading": "La coopération soutient le projet",
+              "text": "La réussite appartient à une organisation commune.",
+              "examples": [
+                "Maud assure l’accueil et les réservations.",
+                "Joëlle accompagne les élèves pendant la séance."
+              ]
+            },
+            {
+              "heading": "Les autres questions restent ouvertes",
+              "text": "Le bilan professionnel ne remplace pas celui du soin ou des conséquences.",
+              "examples": [
+                "Le rendez-vous avec Mme Faure reste fixé.",
+                "Les démarches engagées continuent sans résultat annoncé à partir de la classe."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour faire un bilan sans tout confondre",
+          "points": [
+            {
+              "heading": "Recueillir un retour concret",
+              "objective": "Comprendre ce qui a fonctionné dans l’activité.",
+              "exercise": [
+                "Demander un retour sur un élément précis de la séance.",
+                "Noter une amélioration pratique à apporter.",
+                "Reconnaître les contributions de chaque personne."
+              ],
+              "benefit": "Le projet peut progresser à partir de faits professionnels plutôt que d’un jugement global sur soi."
+            },
+            {
+              "heading": "Distinguer les bilans",
+              "objective": "Donner à chaque question son cadre.",
+              "exercise": [
+                "Garder les remarques sur la classe dans le document de travail.",
+                "Apporter au suivi les difficultés et changements de santé pertinents.",
+                "Poursuivre les démarches concernant les conséquences auprès des interlocuteurs concernés."
+              ],
+              "benefit": "La réussite d’un domaine n’est pas utilisée comme réponse à toutes les autres questions."
+            },
+            {
+              "heading": "Conserver les relais choisis",
+              "objective": "Préparer une suite réaliste.",
+              "exercise": [
+                "Faire le point avec la collègue sur la répartition.",
+                "Maintenir les rendez-vous et contacts convenus.",
+                "Envisager une prochaine activité seulement avec des engagements acceptés."
+              ],
+              "benefit": "Une suite peut devenir possible sans promesse de guérison ni disponibilité illimitée des proches."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Une case à déplacer dans le classeur",
+      "ending": "Les élèves terminent leurs impressions et repartent avec Joëlle. Elle remercie l’équipe et indique qu’un temps d’explication a été un peu court. Irma et Maud déplacent un créneau dans le classeur orange pour une prochaine séance. Le reste du bilan tient en quelques remarques concrètes. Irma conserve son point de suivi avec Mme Faure et les indications médicales convenues. Les démarches sur les conséquences passées continuent avec leurs interlocuteurs. Elle aimerait maintenant proposer une séance de quartier autour de deux couleurs franches ; elles en reparleront avec Maud avant de fixer une date.",
+      "conclusion": "La première classe a eu lieu et le plan de travail a servi. Irma peut reconnaître ce résultat sans en faire une victoire définitive sur les impulsions. Ses compétences, ses responsabilités et ses besoins de soin continuent d’exister ensemble, au-delà de cette séance.",
+      "mirror": [
+        "Maud peut dire : « L’accueil a bien fonctionné ; prévoyons un peu plus de temps pour l’explication. » Elle parle ainsi du travail qu’elles ont partagé, sans tirer de conclusion clinique. Salomé peut s’intéresser aux impressions et aux couleurs, avec les limites déjà posées. Les enfants gardent leur rôle d’élèves ; personne n’attend d’eux qu’ils rassurent ou soignent Irma."
+      ],
+      "sources": [
+        "oms-cddr",
+        "asami-2022"
+      ],
+      "continuity": {
+        "choice": "La classe réalise ses impressions ; Irma et Maud ajustent un créneau, tout en maintenant les suivis et les démarches engagées.",
+        "next": "Fin de série : première classe accueillie ; une future séance de quartier est envisagée sans date ni résolution clinique promises."
       }
     }
   ]

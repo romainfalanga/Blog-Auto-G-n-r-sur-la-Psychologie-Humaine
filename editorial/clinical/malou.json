@@ -632,6 +632,630 @@
         "choice": "Malou accepte un objectif concret de travail avec l’équipe : pouvoir recevoir une limite sans poursuivre la pression sur autrui.",
         "next": "La famille doit maintenant adapter les échanges quotidiens sans transformer le salon en réunion de soins."
       }
+    },
+    {
+      "number": 7,
+      "slug": "malou-famille-et-epuisement",
+      "title": "Quand les difficultés prennent toute la place à la maison",
+      "description": "Nadia répète les consignes et Étienne évite le sujet. La famille cherche un rythme où le soutien laisse aussi place à la vie ordinaire.",
+      "context": "À la maison après le suivi",
+      "topics": [
+        "Trouble dissocial du comportement",
+        "Retentissement familial",
+        "Soutien des parents"
+      ],
+      "clinical_focus": "Retentissement familial et épuisement des proches",
+      "diagnostic_stage": "known",
+      "clinical_intro": "Le retentissement familial d’un trouble peut dépasser les moments de conflit : anticipation, rappels répétés et fatigue occupent alors les échanges ordinaires. Reconnaître ce coût ne désigne pas les parents comme responsables du trouble. Des appuis discutés avec l’équipe peuvent aider chacun à garder une place, sans transformer la famille en permanence thérapeutique.",
+      "opening": "Au dîner, Nadia demande à Malou si elle se souvient de ce qui a été décidé avec Mme Girard. Malou répond oui. Sa mère reprend pourtant les différents points, craignant d’en oublier un. Étienne apporte les assiettes et change de sujet vers le lendemain. Malou lui demande ce qu’il pense de la fin du film ; il répond qu’ils en reparleront plus tard. Elle entend surtout que personne ne veut plus entendre parler d’autre chose que du problème.\n\nLe carnet orange est posé près de son sac, hors de la table. Elle a travaillé seule sur une transition et voulait en montrer deux dessins. La préparation collective n’a pas repris. « J’ai le droit de parler d’une image, ou c’est encore une réunion ? » lance-t-elle. Nadia se défend : elle essaie d’aider. La discussion commence à tourner autour de qui fait assez, qui écoute vraiment, qui oublie les limites. Aucun des trois ne retrouve la question de départ.\n\nÉtienne finit par dire qu’il évite le film parce qu’il ne sait plus comment en parler sans relancer les consignes. Nadia reconnaît qu’elle les répète surtout parce qu’elle est fatiguée et inquiète. Malou n’a pas à la rassurer en promettant de ne plus jamais se mettre en colère. Ils ont besoin de reprendre cette organisation avec l’équipe, pas de régler toute leur vie familiale pendant ce repas. Les adultes conservent les limites nécessaires ; ils peuvent aussi décider qu’une conversation sur un raccord de lumière n’est pas un bilan clinique.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Le soutien peut devenir épuisant lorsqu’il n’a plus de limites",
+          "text": "Lorsque les difficultés mobilisent longtemps une famille, les proches peuvent alterner rappels incessants et évitement. Ces réponses ne prouvent pas une cause parentale du trouble. Elles indiquent un coût à prendre en compte dans l’accompagnement. Un soutien familial adapté implique les professionnels et les besoins des parents aussi ; il ne demande ni surveillance constante par la famille ni responsabilité de l’adolescente pour le bien-être de tous."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment le retentissement envahit-il les échanges quotidiens ?",
+          "points": [
+            {
+              "heading": "Les rappels se répètent sans nouveau besoin",
+              "text": "La volonté de ne rien oublier peut occuper des moments qui avaient une autre fonction.",
+              "examples": [
+                "Nadia redonne les consignes malgré la réponse de Malou.",
+                "Le dîner se transforme en reprise du rendez-vous spécialisé."
+              ]
+            },
+            {
+              "heading": "L’évitement remplace les conversations",
+              "text": "Un proche peut se retirer d’un sujet parce qu’il ne sait plus comment l’aborder.",
+              "examples": [
+                "Étienne repousse la question sur la fin du film.",
+                "Il explique ensuite qu’il craint de rouvrir les mêmes discussions."
+              ]
+            },
+            {
+              "heading": "La personne se sent réduite à ses difficultés",
+              "text": "Le projet et les intérêts ordinaires risquent de disparaître derrière le suivi.",
+              "examples": [
+                "Malou voulait montrer deux dessins de transition.",
+                "Elle se demande si toute remarque sur le film deviendra un bilan de comportement."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour garder une vie familiale au-delà du suivi",
+          "points": [
+            {
+              "heading": "Prévoir un moment de discussion",
+              "objective": "Éviter de redonner les mêmes consignes à chaque occasion.",
+              "exercise": [
+                "Identifier avec l’équipe les points qui nécessitent un échange familial.",
+                "Convenir d’un moment bref et adapté pour les reprendre.",
+                "Garder la possibilité d’un relais immédiat si la sécurité l’exige, sans attendre ce créneau."
+              ],
+              "benefit": "Un rendez-vous défini peut limiter les répétitions tout en maintenant les recours nécessaires."
+            },
+            {
+              "heading": "Préserver un temps ordinaire",
+              "objective": "Laisser les intérêts et la relation exister en dehors du problème.",
+              "exercise": [
+                "Choisir ensemble un moment qui ne sera pas consacré au dossier de suivi.",
+                "Accueillir un sujet proposé par chacun sans en faire automatiquement un exercice.",
+                "Reporter les questions non urgentes au temps convenu."
+              ],
+              "benefit": "La famille peut retrouver plusieurs manières d’être ensemble sans nier les difficultés."
+            },
+            {
+              "heading": "Demander du soutien pour les proches",
+              "objective": "Reconnaître la fatigue comme un besoin légitime.",
+              "exercise": [
+                "Dire à l’équipe ce qui devient difficile à tenir au quotidien.",
+                "Demander quelles aides ou quels relais sont adaptés aux parents.",
+                "Réexaminer les tâches et attentes au lieu de demander à l’adolescente de porter seule l’équilibre familial."
+              ],
+              "benefit": "Le soutien parental peut devenir plus tenable sans transformer les proches en thérapeutes."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Un repas sans carnet de suivi",
+      "ending": "La famille reprend la question avec l’équipe et fixe un bref échange prévu pour les points utiles. Nadia demande également un soutien pour elle-même. Au repas suivant, ils gardent les questions non urgentes pour ce moment convenu. Malou montre ses deux dessins, puis Étienne parle d’autre chose. Le suivi n’a pas disparu ; il ne doit plus occuper toutes les phrases. Il reste maintenant à clarifier ce que les différents adultes peuvent réellement autoriser avant une séance de montage individuelle.",
+      "conclusion": "Prendre soin des relations familiales ne revient pas à effacer les responsabilités. Un cadre de discussion et des relais adaptés peuvent laisser à Malou, Nadia et Étienne une vie qui ne se limite pas au trouble ni au prochain conflit.",
+      "mirror": [
+        "Nadia peut dire à l’équipe : « Je répète beaucoup parce que j’ai peur d’oublier ; j’ai besoin d’aide pour que cela reste tenable. » Étienne peut expliquer son évitement sans faire de Malou sa cause unique. Les parents maintiennent les limites de protection, tout en laissant les repas accueillir des intérêts ordinaires et en cherchant un soutien pour eux-mêmes."
+      ],
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-6c91",
+        "nice-cg158-malou"
+      ],
+      "continuity": {
+        "choice": "La famille fixe un bref échange prévu et garde un repas sans dossier de suivi ; Nadia demande aussi un soutien pour elle-même.",
+        "next": "Les mêmes attentes doivent être clarifiées entre famille, équipe et association avant la reprise individuelle."
+      }
+    },
+    {
+      "number": 8,
+      "slug": "malou-coordonner-les-attentes",
+      "title": "Quand les accords des adultes ne veulent pas dire la même chose",
+      "description": "Malou croit qu’un accord parental autorise la reprise du groupe. Inès clarifie les rôles sans faire circuler tout le dossier de soins.",
+      "context": "Au point préparatoire entre adultes",
+      "topics": [
+        "Trouble dissocial du comportement",
+        "Coordination",
+        "Rôles distincts"
+      ],
+      "clinical_focus": "Coordonner les attentes entre plusieurs lieux",
+      "diagnostic_stage": "known",
+      "clinical_intro": "L’accompagnement d’un adolescent ayant un trouble dissocial du comportement peut concerner plusieurs milieux de vie. Des attentes mal coordonnées peuvent créer des accords contradictoires ou difficiles à comprendre. Clarifier qui décide de quoi et quelles informations sont nécessaires soutient un cadre cohérent ; cela ne consiste pas à multiplier les surveillants ni à partager tout le dossier clinique.",
+      "opening": "Malou entre dans le bureau d’Inès avec une phrase qui lui paraît régler la question : ses parents sont d’accord pour qu’elle retourne à l’association. Elle a compris cet accord comme la fin de la suspension du groupe. Inès lui demande ce qui a précisément été dit. Nadia et Étienne soutiennent une reprise préparée ; ils n’ont pas décidé de la séance collective à la place de Marc. Malou soupire : il y a toujours, selon elle, un autre adulte à qui demander.\n\nLe point préparatoire réunit seulement les adultes concernés par cette étape, selon le cadre de coordination expliqué avec l’équipe. Malou participe à la clarification. Marc précise les conditions de l’activité associative. Inès aide à les rendre compréhensibles. Les décisions de soin restent portées par les professionnels du suivi ; les parents apportent les éléments utiles à l’organisation, sans lire à tous le contenu des consultations. Les acteurs ne sont pas présents pour juger de ses progrès.\n\nMalou ouvre le carnet orange et commence une colonne pour chaque rôle. Elle s’apprête à y recopier un point personnel évoqué chez Mme Girard ; Inès lui rappelle que ce carnet contient le scénario et les engagements du projet, pas le dossier clinique. Ce qui doit être transmis suit le cadre expliqué, pas une circulation générale entre toutes les personnes qui connaissent son prénom. La question devient plus précise : Marc peut-il proposer une séance de montage avec elle seule, et sous quelles conditions ? Le groupe, lui, reste suspendu.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Coordonner plusieurs contextes demande des rôles explicites",
+          "text": "Pour les jeunes de onze à dix-sept ans, des recommandations prévoient des interventions multimodales associant la jeune, sa famille et différents contextes de vie, conduites par des intervenants formés. Une réunion associative n’est pas à elle seule un tel traitement. Elle peut néanmoins clarifier des responsabilités pratiques en lien avec le suivi. L’accord parental, la décision clinique et l’autorisation d’une séance répondent à des questions différentes ; les confondre crée des attentes impossibles à tenir."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment les rôles deviennent-ils confus ?",
+          "points": [
+            {
+              "heading": "Un accord est étendu à une autre décision",
+              "text": "Soutenir un projet ne signifie pas autoriser toutes ses modalités.",
+              "examples": [
+                "Malou entend l’accord de ses parents comme une reprise collective.",
+                "Marc précise qu’il reste responsable des conditions de la séance associative."
+              ]
+            },
+            {
+              "heading": "Le nombre d’interlocuteurs obscurcit le sens",
+              "text": "Plusieurs adultes peuvent sembler répéter une même surveillance si leurs rôles ne sont pas expliqués.",
+              "examples": [
+                "Malou dit qu’il reste toujours quelqu’un à convaincre.",
+                "Inès reprend la question précise dont chaque adulte peut répondre."
+              ]
+            },
+            {
+              "heading": "Les informations personnelles risquent de circuler sans but clair",
+              "text": "La coordination n’exige pas que chacun possède le dossier entier.",
+              "examples": [
+                "Malou commence à recopier un point clinique dans le carnet.",
+                "Inès garde ce carnet pour les versions et engagements associatifs."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour rendre les attentes plus lisibles",
+          "points": [
+            {
+              "heading": "Associer une décision à un responsable",
+              "objective": "Savoir à qui poser chaque question concrète.",
+              "exercise": [
+                "Lister les décisions en attente pour l’étape envisagée.",
+                "Identifier avec les adultes qui peut répondre à chacune.",
+                "Noter les réponses distinctement sans transformer un accord en autorisation générale."
+              ],
+              "benefit": "La préparation peut gagner en clarté et éviter des attentes contradictoires."
+            },
+            {
+              "heading": "Définir l’information utile",
+              "objective": "Coordonner sans diffuser l’intimité en bloc.",
+              "exercise": [
+                "Préciser la décision que l’échange doit permettre.",
+                "Demander aux professionnels quelles informations peuvent être partagées dans le cadre expliqué.",
+                "Conserver les autres éléments dans leur espace de soin plutôt que dans le carnet du projet."
+              ],
+              "benefit": "Le partage reste relié à un besoin et aux règles de protection, sans secret absolu ni circulation générale."
+            },
+            {
+              "heading": "Confirmer une seule prochaine étape",
+              "objective": "Éviter que la reprise signifie immédiatement tout recommencer.",
+              "exercise": [
+                "Décrire précisément la séance possible et les personnes présentes.",
+                "Écrire les limites et responsabilités qui s’y appliquent.",
+                "Vérifier avec le responsable ce qui reste suspendu et ce qui devra être réexaminé."
+              ],
+              "benefit": "Une étape observable peut être comprise sans promettre le retour automatique de tout le groupe."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Une séance avec Marc seulement",
+      "ending": "Marc autorise une séance de montage avec Malou seule. Ils en précisent les conditions ; la séance collective n’est pas rétablie. Le carnet orange conserve cet engagement et les deux versions du scénario, pas les informations de soin. Malou trouve encore les colonnes trop nombreuses, mais elle sait ce qui est possible à la prochaine venue. Elle veut que ce premier assemblage soit si bon que les acteurs reviendront. Marc lui rappelle qu’ils garderont leur propre décision.",
+      "conclusion": "Une coordination utile rend les responsabilités compréhensibles sans créer une surveillance générale. Malou obtient une étape individuelle clairement définie, tandis que le soin, les choix des acteurs et les décisions associatives gardent chacun leur place.",
+      "mirror": [
+        "Les parents peuvent dire ce qu’ils soutiennent précisément et vérifier avec Marc ce qui est effectivement autorisé. Inès peut traduire une règle en engagement concret sans demander à tous de connaître les confidences du suivi. Les professionnels conservent la coordination clinique ; l’entourage n’a pas à se réunir pour évaluer la personnalité ou la guérison de Malou."
+      ],
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-6c91",
+        "nice-cg158-malou"
+      ],
+      "continuity": {
+        "choice": "Marc autorise une séance de montage avec lui seul ; le soin reste piloté par l’équipe, et le carnet orange contient seulement les engagements du projet.",
+        "next": "La première séance individuelle fera apparaître ce qu’une promesse ne suffit pas à restaurer."
+      }
+    },
+    {
+      "number": 9,
+      "slug": "malou-confiance-et-temps",
+      "title": "Un effort réel ne rétablit pas immédiatement la confiance",
+      "description": "Malou termine un assemblage avec Marc. Sana demande encore du temps ; le travail accompli ne l’oblige pas à revenir.",
+      "context": "Pendant le montage individuel",
+      "topics": [
+        "Trouble dissocial du comportement",
+        "Confiance",
+        "Temporalités"
+      ],
+      "clinical_focus": "Reconstruire une confiance fragilisée",
+      "diagnostic_stage": "known",
+      "clinical_intro": "Les conséquences relationnelles d’un comportement peuvent durer après un effort réel pour agir autrement. La confiance ne se rétablit pas sur commande et ne se mesure pas à une déclaration de remords. Reconnaître un changement observable reste compatible avec le droit d’une autre personne à prendre du temps, garder ses limites ou refuser une reprise.",
+      "opening": "La salle de montage ne contient que Malou et Marc. Le groupe n’a pas repris. Sur l’écran, la plante passe d’un bord de l’image à l’autre et le raccord de lumière tient enfin. Malou relance le passage sans musique. Elle aime le silence qui reste après la porte. La version se termine sans la réconciliation refusée ; elle commence à y voir quelque chose de différent d’un simple manque.\n\nMarc reconnaît le travail effectué. Malou lui demande alors quand Sana viendra le regarder. Il lui transmet la réponse qu’elle a choisi de faire passer par lui : elle souhaite encore du temps et ne veut pas reprendre la discussion maintenant. Malou se redresse. Elle a respecté la séance individuelle, préparé les deux fins, retiré l’argument qui rendait Sana responsable du retard. À ses yeux, cela devrait avoir une conséquence immédiate chez l’autre.\n\n« Mais j’ai fait ce qu’il fallait. » Marc lui répond que ces actes comptent et qu’ils ne décident pas du sentiment de sécurité ni du choix de Sana. Elle n’a pas à venir vérifier ses progrès pour les rendre réels. Joël garde également la possibilité de participer ou non. Malou regarde l’écran arrêté : un bon raccord peut être observé tout de suite, une relation ne se répare pas de la même manière. Elle peut continuer à travailler avec Marc sans utiliser le montage comme une nouvelle demande pressante. Cette possibilité lui plaît moins que le retour des acteurs, mais elle existe.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Le rythme de l’autre ne se commande pas",
+          "text": "Un changement de comportement peut être reconnu sans effacer immédiatement la méfiance ou le malaise laissés par des échanges antérieurs. La confiance appartient à une relation, pas à un barème où chaque effort donne droit à une réponse. Pour Malou, tolérer ce décalage fait partie de la responsabilité envers les acteurs. Ni une excuse maladroite ni une déclaration très convaincante ne permettrait à l’entourage de conclure à une disposition clinique générale ou à une guérison."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment l’attente d’une confiance immédiate apparaît-elle ?",
+          "points": [
+            {
+              "heading": "L’effort devient une dette pour l’autre",
+              "text": "La jeune peut attendre que son travail oblige une réponse favorable.",
+              "examples": [
+                "Malou énumère les étapes qu’elle a respectées.",
+                "Elle pense que Sana devrait maintenant venir voir le montage."
+              ]
+            },
+            {
+              "heading": "Le refus est compris comme l’annulation des progrès",
+              "text": "Une limite maintenue peut sembler nier tout ce qui a changé.",
+              "examples": [
+                "Malou insiste sur le fait qu’elle a fait ce qui était demandé.",
+                "Marc reconnaît ce travail sans modifier la réponse de Sana."
+              ]
+            },
+            {
+              "heading": "La relation risque d’être remise à l’épreuve",
+              "text": "Une sollicitation répétée pourrait reproduire la pression antérieure.",
+              "examples": [
+                "Sana a choisi de transmettre ses choix par Marc.",
+                "Continuer à la contacter directement pour obtenir un accord contournerait cette limite."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour laisser du temps à la confiance",
+          "points": [
+            {
+              "heading": "Nommer l’acte sans réclamer sa récompense",
+              "objective": "Reconnaître un changement pour ce qu’il est.",
+              "exercise": [
+                "Identifier un engagement effectivement respecté.",
+                "Le décrire avec l’adulte sans ajouter ce que l’autre devrait maintenant accorder.",
+                "Séparer ce bilan du choix de participation de l’acteur."
+              ],
+              "benefit": "L’effort peut rester visible sans devenir une dette relationnelle."
+            },
+            {
+              "heading": "Recevoir la limite actuelle",
+              "objective": "Garder la réponse de l’autre dans sa forme réelle.",
+              "exercise": [
+                "Reprendre les mots transmis par le canal convenu.",
+                "Éviter de chercher une preuve cachée d’un futur accord ou d’un rejet définitif.",
+                "Respecter la demande de temps sans multiplier les sollicitations."
+              ],
+              "benefit": "Cette réponse préserve une limite concrète plutôt que de tester la confiance à répétition."
+            },
+            {
+              "heading": "Continuer ce qui dépend de soi",
+              "objective": "Conserver une activité possible sans contourner le refus.",
+              "exercise": [
+                "Vérifier avec le responsable les tâches individuelles autorisées.",
+                "Choisir un travail qui ne requiert pas de nouvel accord immédiat des acteurs.",
+                "Revoir les étapes suivantes dans le cadre prévu au lieu de les imposer par contact direct."
+              ],
+              "benefit": "Le projet peut avancer partiellement sans transformer sa réussite en obligation pour autrui."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Le montage reste ouvert",
+      "ending": "Malou ne contacte pas Sana pour obtenir une réponse différente. Elle poursuit l’assemblage avec Marc et garde les choix de Joël ouverts. Elle sait maintenant quelle version elle pourrait proposer sans demander la scène refusée. Cela ne suffit pas à réparer l’échange initial. Elle souhaite préparer une note pour reconnaître la pression exercée ; Marc lui précise qu’il faudra d’abord vérifier si Sana souhaite la recevoir, sans lui imposer une rencontre.",
+      "conclusion": "Un effort compte même lorsque la confiance ne suit pas au même rythme. Malou peut continuer à agir autrement, tout en laissant aux acteurs leur temps, leurs limites et le droit de ne pas confirmer immédiatement sa progression.",
+      "mirror": [
+        "Marc peut dire : « Tu as respecté cette étape, et Sana garde le droit de ne pas revenir maintenant. » Il ne présente pas son refus comme une injustice ni comme une sanction supplémentaire. Les parents peuvent reconnaître le travail de montage sans demander aux acteurs de rassurer Malou. La confiance se discute avec les personnes concernées, pas à leur place."
+      ],
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-6c91",
+        "nice-cg158-malou"
+      ],
+      "continuity": {
+        "choice": "Malou accepte de continuer sans contacter Sana pour obtenir son accord immédiat, et Joël garde lui aussi le choix de participer.",
+        "next": "La nouvelle version permet une proposition de réparation, distincte du retour des acteurs."
+      }
+    },
+    {
+      "number": 10,
+      "slug": "malou-reparation-sans-pardon",
+      "title": "Réparer sans demander le pardon en retour",
+      "description": "Malou prépare une note et retire la scène refusée. Sana choisit de la recevoir, sans accepter de rencontre.",
+      "context": "En préparation de la nouvelle version",
+      "topics": [
+        "Trouble dissocial du comportement",
+        "Réparation",
+        "Limites relationnelles"
+      ],
+      "clinical_focus": "Réparer sans exiger le pardon",
+      "diagnostic_stage": "known",
+      "clinical_intro": "Une démarche de réparation peut reconnaître un tort et modifier concrètement ce qui dépend de soi. Elle ne donne pas droit au pardon, à une rencontre ou au retour d’une relation comme avant. Préserver le choix de la personne concernée évite qu’une excuse reproduise la pression qu’elle prétend réparer.",
+      "opening": "Malou écrit la première phrase de sa note dans le carnet orange, puis la barre. Elle avait commencé par expliquer combien la scène comptait pour elle. Cela reprendrait surtout sa propre déception. Marc est présent à cette séance individuelle ; Sana et Joël ne sont pas convoqués pour entendre ses raisons. Malou recommence : elle a dit que le choix de Sana ne comptait plus, puis insisté après son refus. Ces faits tiennent sur une ligne moins brillante que ses explications, mais plus précise.\n\nElle propose de retirer la scène de réconciliation et de garder la version où le voisin repart après avoir posé la plante. La modification concerne le film. Elle ne résume pas tout le travail de suivi et ne prouve pas que la relation est réparée. Malou ajoute une question pour savoir si Sana lui pardonne. Marc lui demande ce que cette question ferait peser sur la destinataire. Malou pense d’abord qu’une note sans réponse ne sert à rien. Puis elle regarde la ligne où elle reconnaît avoir exigé un accord.\n\nElle retire la demande de pardon. Marc vérifiera d’abord avec Sana si elle souhaite recevoir cette note. Aucun face-à-face n’est prévu. Malou peut faire une proposition et respecter la réponse, même si cela lui laisse quelque chose d’inachevé. Elle garde une copie de la version du film à modifier, mais le texte destiné à Sana restera transmis seulement par le canal accepté. Le groupe n’a pas encore repris.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Réparer implique aussi de respecter un nouveau refus",
+          "text": "Une réparation concerne des actes et leurs conséquences ; elle ne permet pas de décider de la réponse émotionnelle de l’autre. Reconnaître une pression, modifier une scène et respecter une limite sont des actions distinctes d’une demande de réconciliation. Chez Malou, cette distinction protège Sana d’une nouvelle obligation. Le travail sur la responsabilité reste accompagné par les adultes et le suivi, sans transformer la note en traitement ni mesurer les émotions de Malou à la qualité de sa formulation."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment une excuse peut-elle contenir une nouvelle pression ?",
+          "points": [
+            {
+              "heading": "L’explication occupe la place de la reconnaissance",
+              "text": "Un long récit de ses intentions peut laisser le tort concret sans nom.",
+              "examples": [
+                "Malou commence par raconter l’importance de la scène pour elle.",
+                "Elle remplace ensuite cette introduction par les paroles et l’insistance dont elle répond."
+              ]
+            },
+            {
+              "heading": "Une réponse devient la condition de l’utilité",
+              "text": "La démarche peut rester centrée sur le soulagement de son auteur.",
+              "examples": [
+                "Malou pense qu’une note sans réponse ne servirait pas.",
+                "Elle envisage de demander immédiatement si Sana lui pardonne."
+              ]
+            },
+            {
+              "heading": "La rencontre est supposée obligatoire",
+              "text": "Une réparation pourrait imposer un contact non souhaité.",
+              "examples": [
+                "Marc vérifie si Sana veut recevoir la note.",
+                "Aucun face-à-face n’est organisé pour obtenir une réponse ou une réconciliation."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour proposer une réparation sans l’imposer",
+          "points": [
+            {
+              "heading": "Reconnaître un fait précis",
+              "objective": "Éviter que la justification remplace la responsabilité.",
+              "exercise": [
+                "Choisir une parole ou une action dont on peut répondre.",
+                "Décrire ce qui a porté atteinte au choix de l’autre.",
+                "Retirer les formulations qui rendent l’autre responsable de cette action."
+              ],
+              "benefit": "Une reconnaissance précise peut être plus lisible qu’une déclaration générale, sans garantir sa réception."
+            },
+            {
+              "heading": "Modifier ce qui dépend de soi",
+              "objective": "Associer la responsabilité à une action concrète possible.",
+              "exercise": [
+                "Identifier un changement qui respecte la limite exprimée.",
+                "Le vérifier avec l’adulte responsable et les choix du projet.",
+                "Le réaliser sans le conditionner à un pardon ou à une rencontre."
+              ],
+              "benefit": "L’action ne devient pas une monnaie d’échange pour récupérer la relation."
+            },
+            {
+              "heading": "Demander si le contact est souhaité",
+              "objective": "Protéger la liberté de recevoir ou non une démarche.",
+              "exercise": [
+                "Passer par l’intermédiaire adulte convenu.",
+                "Laisser la personne choisir si elle souhaite lire la note ou avoir un échange.",
+                "Respecter une absence de réponse ou un refus sans renouveler la pression."
+              ],
+              "benefit": "La réparation tient compte des besoins du destinataire, pas seulement de ceux de son auteur."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Une note acceptée, une rencontre refusée",
+      "ending": "Marc vérifie la demande auprès de Sana. Elle accepte la note et la nouvelle version, mais ne souhaite pas en discuter en personne. Malou reçoit cette réponse sans chercher un autre canal. La scène de réconciliation est retirée ; le montage conserve une fin qui ne l’exige plus. Cette étape permet de préparer une présentation à un petit groupe sous les conditions prévues. Elle ne vaut pas un retour à la relation d’avant et ne lève pas les appuis adultes.",
+      "conclusion": "La réparation peut avancer sans réconciliation. Malou reconnaît une pression, change une partie du film et respecte un refus de rencontre ; ces actes ont une portée concrète sans décider à la place de Sana de ce qu’elle doit ressentir.",
+      "mirror": [
+        "Marc peut proposer un canal de transmission et vérifier l’accord de Sana avant d’envoyer la note. Il n’a pas à organiser un face-à-face présenté comme nécessaire pour tourner la page. Les proches de Malou peuvent reconnaître son effort sans lui promettre le pardon. Le refus d’une rencontre reste une réponse à respecter, même lorsque la note a été acceptée."
+      ],
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-6c91",
+        "nice-cg158-malou"
+      ],
+      "continuity": {
+        "choice": "Sana accepte la note et la nouvelle version, mais refuse d’en discuter en personne. Malou respecte ce refus.",
+        "next": "Le montage peut être présenté à un petit groupe sous les conditions déjà convenues."
+      }
+    },
+    {
+      "number": 11,
+      "slug": "malou-reprise-et-limites",
+      "title": "Reprendre sa place sans supprimer tous les appuis",
+      "description": "Joël demande un changement que Malou trouve mauvais. La reprise montre un progrès partiel et l’utilité du cadre maintenu.",
+      "context": "À la reprise collective encadrée",
+      "topics": [
+        "Trouble dissocial du comportement",
+        "Reprise progressive",
+        "Limites"
+      ],
+      "clinical_focus": "Reprendre une place avec des limites",
+      "diagnostic_stage": "known",
+      "clinical_intro": "Une amélioration peut être partielle : une difficulté réapparaît, mais la manière d’y répondre change. Lors d’une reprise après un conflit, des conditions explicites et révisables permettent d’observer des actes concrets sans conclure à la disparition du trouble. Les pairs gardent leurs choix ; ils ne deviennent pas les évaluateurs cliniques de la personne.",
+      "opening": "La première reprise avec un petit groupe se déroule en présence de Marc, selon les conditions préparées. Joël a choisi d’y participer. Les rôles, la possibilité d’interrompre et le respect des choix des acteurs sont rappelés avant le lancement du montage. Malou s’assied près de l’écran avec son carnet orange. Elle voudrait montrer que la fin sans réconciliation tient mieux qu’elle ne le croyait. Elle n’a pas besoin que chacun la trouve parfaite, se dit-elle, mais elle espère tout de même peu de remarques.\n\nJoël demande de raccourcir un passage où son personnage reste près de la porte. Malou trouve que ce silence porte toute la fin. Elle commence à expliquer pourquoi sa demande enlèverait quelque chose au film, puis répète son argument alors qu’il a déjà répondu. Marc intervient pour rappeler qu’une décision n’a pas à être obtenue immédiatement. Malou s’arrête au milieu d’une phrase. Elle sent qu’elle repart vers la même insistance.\n\n« On peut revoir les deux versions avec toi ? » demande-t-elle à Marc. La décision est différée et l’échange cesse pour le moment. Joël n’est pas invité à retirer sa demande pour récompenser l’effort de Malou. Elle garde sa préférence, contrariée, et accepte de préparer une variante plus courte. Ce n’est pas une séance sans difficulté. Le changement se trouve dans l’arrêt demandé et dans la possibilité laissée à l’autre de conserver son choix, sous un cadre adulte qui reste réellement présent.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Un progrès peut coexister avec le retour d’une difficulté",
+          "text": "L’évolution ne se résume pas à l’alternative entre absence totale de difficulté et échec complet. Une tendance à insister peut réapparaître alors que la personne sollicite plus tôt le cadre prévu et cesse la pression. Ce changement observable ne suffit pas à conclure à une guérison. Pour Malou, la reprise reste accompagnée, avec des limites protectrices et révisables ; Joël n’a pas à juger son diagnostic ou à accepter une version pour valider ses progrès."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment reconnaître une amélioration sans la surestimer ?",
+          "points": [
+            {
+              "heading": "La difficulté réapparaît dans une situation concrète",
+              "text": "Le retour au groupe rencontre un désaccord réel, pas une réussite préparée d’avance.",
+              "examples": [
+                "Joël souhaite raccourcir le passage.",
+                "Malou recommence à répéter son argument après avoir entendu sa demande."
+              ]
+            },
+            {
+              "heading": "Une autre réponse devient possible",
+              "text": "Le changement concerne une action précise face à la difficulté.",
+              "examples": [
+                "Malou sollicite Marc pour reprendre les versions.",
+                "Elle accepte de différer la décision au lieu d’exiger l’accord de Joël."
+              ]
+            },
+            {
+              "heading": "Le cadre continue de soutenir la reprise",
+              "text": "Un progrès n’enlève pas immédiatement le besoin d’appui.",
+              "examples": [
+                "Marc reste présent et rappelle la règle sur les décisions.",
+                "Les acteurs conservent leur possibilité de refuser ou d’interrompre leur participation."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour soutenir une reprise avec des limites claires",
+          "points": [
+            {
+              "heading": "Préparer les conditions observables",
+              "objective": "Savoir ce qui rend la séance possible pour chacun.",
+              "exercise": [
+                "Définir avec le responsable les personnes et rôles prévus.",
+                "Rappeler les choix qui restent libres pour les acteurs.",
+                "Confirmer comment interrompre ou différer un échange si le cadre n’est plus tenu."
+              ],
+              "benefit": "La reprise repose sur des conditions concrètes plutôt que sur une promesse générale de changement."
+            },
+            {
+              "heading": "Demander un relais avant de conclure",
+              "objective": "Ne pas faire de la décision immédiate une obligation.",
+              "exercise": [
+                "Repérer que l’on répète un argument sans laisser avancer la discussion.",
+                "Solliciter l’adulte prévu ou accepter son interruption.",
+                "Reprendre ultérieurement les options dans le cadre convenu, sans contacter l’autre pour le convaincre entre-temps."
+              ],
+              "benefit": "Le délai peut préserver le choix de chacun sans garantir que sa version sera retenue."
+            },
+            {
+              "heading": "Reconnaître le progrès précisément",
+              "objective": "Éviter les verdicts de réussite totale ou d’échec total.",
+              "exercise": [
+                "Nommer l’action différente qui a effectivement eu lieu.",
+                "Garder visible la difficulté qui persiste.",
+                "Revoir avec les adultes les appuis à maintenir pour la prochaine étape."
+              ],
+              "benefit": "Un bilan nuancé peut soutenir la continuité sans confondre projet et évaluation clinique."
+            }
+          ]
+        }
+      ],
+      "ending_title": "La version raccourcie",
+      "ending": "Après une discussion calme dans le cadre prévu, une modification du passage est retenue. Malou vérifie le raccord et conserve une fin silencieuse plus courte. Le groupe autorise une projection interne de la version choisie, avec les accords nécessaires au projet. Les appuis ne sont pas levés et rien n’est publié en ligne. Malou note le réglage dans le carnet. Elle prépare la dernière séance sans pouvoir transformer cette reprise en preuve que tous les prochains désaccords seront faciles.",
+      "conclusion": "Une reprise peut montrer à la fois une difficulté persistante et une réponse nouvelle. Chez Malou, demander le relais et accepter une décision différée soutient le projet, tandis que les choix des acteurs et le suivi restent nécessaires.",
+      "mirror": [
+        "Marc peut relever : « Tu as demandé qu’on reprenne les versions, et la demande de Joël est restée possible. » Il évite « maintenant tout est réglé ». Joël n’a pas à rassurer Malou ni à devenir un témoin de guérison. Les parents peuvent reconnaître cet acte précis et continuer les appuis convenus avec l’équipe, sans faire de la projection une récompense clinique."
+      ],
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-6c91",
+        "nice-cg158-malou"
+      ],
+      "continuity": {
+        "choice": "Une modification est retenue après discussion calme. Le groupe autorise une projection interne de la version choisie, sans lever tous les appuis.",
+        "next": "La dernière séance préparera la projection et l’après-projet sans promettre une trajectoire linéaire."
+      }
+    },
+    {
+      "number": 12,
+      "slug": "malou-film-termine-suivi-poursuivi",
+      "title": "Un projet terminé, une évolution encore ouverte",
+      "description": "La projection interne a lieu avec les choix des acteurs respectés. Malou termine son film et conserve les appuis pour la suite.",
+      "context": "À la projection interne",
+      "topics": [
+        "Trouble dissocial du comportement",
+        "Évolution",
+        "Continuité du soutien"
+      ],
+      "clinical_focus": "Évolution ouverte et continuité du soutien",
+      "diagnostic_stage": "known",
+      "clinical_intro": "L’évolution d’un trouble dissocial du comportement n’est pas fixée d’avance. Un projet mené à son terme peut montrer des changements concrets sans annoncer une guérison ni déterminer le devenir adulte. Reconnaître ce qui a été accompli, garder les limites relationnelles et préparer la continuité du suivi permet de considérer la suite avec précision plutôt qu’avec un verdict définitif.",
+      "opening": "Marc baisse la lumière pour la projection interne de La Fenêtre du palier. La version retenue est prête ; les noms apparaissent selon les choix des participants. Rien n’est annoncé pour une publication en ligne. Malou a vérifié le dernier raccord avec lui, puis rangé le carnet orange. Elle présente simplement le titre et remercie les personnes qui ont accepté de participer. Sana est venue à cette séance sans avoir accepté une discussion en tête-à-tête ni la scène de réconciliation initiale.\n\nLe voisin pose la plante, attend un instant, puis repart. Le silence est plus court que dans la première version de Malou. Elle reconnaît le changement demandé par Joël et voit que le film continue de tenir. Aucun échange de regards dans la salle ne lui permet de savoir si toutes les relations sont réparées. Sana peut regarder le film sans devoir lui signifier un pardon. Malou reste assise jusqu’à la fin plutôt que de chercher cette réponse pendant les dernières images.\n\nAprès la projection, une participante lui demande ce qu’elle aimerait monter ensuite. Malou pense à un documentaire, puis dit qu’elle a seulement une idée. Il faudra en discuter et préparer de nouvelles conditions, pas reprendre automatiquement les accords de ce film. Dans son agenda, le prochain rendez-vous du suivi est toujours prévu. Le court métrage est terminé ; les semaines passées ne sont ni effacées ni transformées en histoire qui aurait dû finir par une réconciliation. Elle peut apprécier le résultat sans demander à chacun de jouer cette dernière scène pour elle.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Achever un projet ne ferme pas le suivi",
+          "text": "Le devenir d’un adolescent ayant un trouble dissocial du comportement reste variable et ne se déduit pas d’une seule période. Des actes concrets peuvent évoluer alors que des difficultés ou des effets relationnels persistent. La fin d’un film ne constitue donc ni un diagnostic de guérison ni un pronostic sur l’âge adulte. Pour Malou, le prochain projet demandera de nouveaux accords et une appréciation des besoins, avec la continuité du soutien spécialisé et familial."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment reconnaître un résultat sans en faire un verdict ?",
+          "points": [
+            {
+              "heading": "Le projet a une fin vérifiable",
+              "text": "Un accomplissement concret mérite d’être nommé dans son périmètre.",
+              "examples": [
+                "La version acceptée est projetée en interne.",
+                "La scène de réconciliation refusée n’a pas été imposée pour terminer le film."
+              ]
+            },
+            {
+              "heading": "Les relations gardent leur propre évolution",
+              "text": "Participer à une projection ne signifie pas que toute confiance est restaurée.",
+              "examples": [
+                "Sana assiste à la séance sans accepter le face-à-face refusé.",
+                "Malou ne cherche pas à obtenir une déclaration de pardon pendant le film."
+              ]
+            },
+            {
+              "heading": "La suite demande de nouveaux choix",
+              "text": "Un résultat favorable ne donne pas une autorisation générale pour tous les projets.",
+              "examples": [
+                "Malou évoque une idée de documentaire encore à discuter.",
+                "Elle conserve le prochain rendez-vous clinique au lieu de considérer le suivi terminé."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour préparer la suite sans tout remettre à zéro",
+          "points": [
+            {
+              "heading": "Nommer ce qui est accompli",
+              "objective": "Reconnaître des actions et un résultat précis.",
+              "exercise": [
+                "Identifier les engagements du projet qui ont été tenus.",
+                "Distinguer la réussite du film des questions relationnelles encore ouvertes.",
+                "Accueillir les réactions de chacun sans exiger une conclusion commune."
+              ],
+              "benefit": "Le résultat peut compter sans effacer les conséquences ni forcer une réconciliation."
+            },
+            {
+              "heading": "Préparer un nouveau projet comme un nouveau choix",
+              "objective": "Ne pas prolonger automatiquement les accords précédents.",
+              "exercise": [
+                "Présenter l’idée sans attribuer d’avance des rôles aux autres.",
+                "Discuter avec le responsable des conditions et besoins de cette nouvelle activité.",
+                "Recueillir les choix des participants avant de fixer la suite."
+              ],
+              "benefit": "Un nouveau départ peut respecter ce qui a été appris sans transformer les anciens accords en obligations permanentes."
+            },
+            {
+              "heading": "Maintenir la continuité du soutien",
+              "objective": "Garder les appuis au-delà de l’échéance créative.",
+              "exercise": [
+                "Vérifier les prochains contacts prévus avec l’équipe.",
+                "Y apporter les changements observés et les difficultés qui persistent.",
+                "Réexaminer les besoins avec les professionnels et la famille sans conclure seul à la fin du soin."
+              ],
+              "benefit": "La continuité laisse une place à une évolution non linéaire et aux ajustements nécessaires."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Une idée sur la page suivante",
+      "ending": "La projection se termine et Marc confirme que le court métrage est achevé dans sa version acceptée. Malou ne demande pas à Sana de rester pour discuter. Elle ouvre le carnet orange sur une page nouvelle et écrit quelques mots pour son idée de documentaire. Ce projet n’a pas encore d’équipe ni d’accords ; il reste à préparer. Elle range ensuite le carnet et garde son rendez-vous de suivi. Ses relations ont changé, certaines limites demeurent, et le film existe sans que tout le monde ait dû vouloir la même fin.",
+      "conclusion": "L’achèvement du film reconnaît des décisions et des efforts réels, sans prédire toute la suite de Malou. La continuité du soutien et le respect des choix d’autrui restent compatibles avec une prochaine idée et une place créative qui peut évoluer.",
+      "mirror": [
+        "Les proches peuvent féliciter Malou pour la version terminée et pour des actes précis, comme avoir respecté les choix des acteurs. Ils évitent d’en déduire qu’elle est désormais guérie ou, à l’inverse, que rien ne pourra changer. Sana et Joël gardent leurs limites. Les parents et l’équipe poursuivent les rendez-vous prévus ; un nouveau projet se prépare avec de nouveaux accords."
+      ],
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-6c91",
+        "nice-cg158-malou"
+      ],
+      "continuity": {
+        "choice": "Le court métrage est terminé. Malou note une idée de documentaire et conserve son prochain rendez-vous ; ses relations ont changé sans que toutes soient réparées.",
+        "next": "La série se ferme sur un film achevé et une prochaine étape choisie, avec les soutiens encore présents."
+      }
     }
   ]
 }

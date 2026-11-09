@@ -24,15 +24,15 @@
     "other_frameworks": "APA pédagogique, RDoC recherche et CIF fonctionnement restent des grilles distinctes."
   },
   "counts": {
-    "articles": 1323,
-    "characters": 111,
-    "clinical_arcs": 78,
-    "clinical_episodes": 936,
+    "articles": 1371,
+    "characters": 115,
+    "clinical_arcs": 82,
+    "clinical_episodes": 984,
     "original_articles_reviewed": 387,
     "icd11_chapter06_codes": 858,
     "icd11_ungrouped_codes": 10,
-    "icd11_primary_arcs": 74,
-    "clinical_cases_pending": 76,
+    "icd11_primary_arcs": 78,
+    "clinical_cases_pending": 72,
     "other_published_arcs": 4,
     "internal_patterns": 161,
     "internal_patterns_indexed": 161
@@ -162,8 +162,7 @@
       "codes": 6,
       "statuses": {
         "no_standalone_arc_planned": 2,
-        "pending_editorial_case": 2,
-        "published_primary_arc": 2
+        "published_primary_arc": 4
       }
     },
     {
@@ -173,7 +172,7 @@
       "statuses": {
         "editorial_mapping_only": 12,
         "no_standalone_arc_planned": 8,
-        "pending_editorial_case": 2
+        "published_primary_arc": 2
       }
     },
     {
@@ -10567,12 +10566,30 @@
       "label": "Pyromanie",
       "group_id": "BlockL1-6C7",
       "editorial_status": "parcours",
-      "coverage_status": "pending_editorial_case",
+      "coverage_status": "published_primary_arc",
       "reason": "diagnostic_distinct",
       "candidate_ids": [
         "loic"
       ],
-      "published_primary": null,
+      "published_primary": {
+        "character_id": "loic",
+        "name": "Loïc",
+        "reviewed_on": "2026-11-09",
+        "articles": [
+          "posts/comprendre-et-maitriser-ses-emotions/loic-anticipation-et-controle",
+          "posts/comprendre-et-maitriser-ses-emotions/loic-confiance-limites-proches",
+          "posts/comprendre-et-maitriser-ses-emotions/loic-diagnostic-et-incendie",
+          "posts/comprendre-et-maitriser-ses-emotions/loic-fluctuation-reevaluation",
+          "posts/comprendre-et-maitriser-ses-emotions/loic-montee-de-tension",
+          "posts/comprendre-et-maitriser-ses-emotions/loic-partage-limite-et-soin",
+          "posts/comprendre-et-maitriser-ses-emotions/loic-participation-suivi-maintenu",
+          "posts/comprendre-et-maitriser-ses-emotions/loic-preoccupation-attention",
+          "posts/comprendre-et-maitriser-ses-emotions/loic-prevention-contexte",
+          "posts/comprendre-et-maitriser-ses-emotions/loic-soins-preuves-limitees",
+          "posts/comprendre-et-maitriser-ses-emotions/loic-solitude-contexte-affectif",
+          "posts/comprendre-et-maitriser-ses-emotions/loic-soulagement-consequences"
+        ]
+      },
       "reference_url": "https://icd.who.int/browse/2026-01/mms/fr#1532500290"
     },
     {
@@ -10580,12 +10597,30 @@
       "label": "Kleptomanie",
       "group_id": "BlockL1-6C7",
       "editorial_status": "parcours",
-      "coverage_status": "pending_editorial_case",
+      "coverage_status": "published_primary_arc",
       "reason": "diagnostic_distinct",
       "candidate_ids": [
         "irma"
       ],
-      "published_primary": null,
+      "published_primary": {
+        "character_id": "irma",
+        "name": "Irma",
+        "reviewed_on": "2026-11-09",
+        "articles": [
+          "posts/comprendre-et-maitriser-ses-emotions/irma-besoin-et-impulsion",
+          "posts/comprendre-et-maitriser-ses-emotions/irma-confiance-et-consequences",
+          "posts/comprendre-et-maitriser-ses-emotions/irma-contexte-et-solitude",
+          "posts/comprendre-et-maitriser-ses-emotions/irma-honte-et-place",
+          "posts/comprendre-et-maitriser-ses-emotions/irma-parole-et-confidentialite",
+          "posts/comprendre-et-maitriser-ses-emotions/irma-premiere-classe",
+          "posts/comprendre-et-maitriser-ses-emotions/irma-retour-apres-accalmie",
+          "posts/comprendre-et-maitriser-ses-emotions/irma-signaux-peu-perceptibles",
+          "posts/comprendre-et-maitriser-ses-emotions/irma-soin-et-incertitudes",
+          "posts/comprendre-et-maitriser-ses-emotions/irma-sommeil-et-inquietude",
+          "posts/comprendre-et-maitriser-ses-emotions/irma-soulagement-bref",
+          "posts/comprendre-et-maitriser-ses-emotions/irma-tension-et-courriel"
+        ]
+      },
       "reference_url": "https://icd.who.int/browse/2026-01/mms/fr#804604349"
     },
     {
@@ -10677,12 +10712,30 @@
       "label": "Trouble oppositionnel avec provocation",
       "group_id": "BlockL1-6C9",
       "editorial_status": "parcours",
-      "coverage_status": "pending_editorial_case",
+      "coverage_status": "published_primary_arc",
       "reason": "diagnostic_distinct",
       "candidate_ids": [
         "ruben"
       ],
-      "published_primary": null,
+      "published_primary": {
+        "character_id": "ruben",
+        "name": "Ruben",
+        "reviewed_on": "2026-11-09",
+        "articles": [
+          "posts/comprendre-et-maitriser-ses-emotions/ruben-contester-et-perdre-son-tour",
+          "posts/comprendre-et-maitriser-ses-emotions/ruben-demandes-evitees-maison",
+          "posts/comprendre-et-maitriser-ses-emotions/ruben-erreur-et-responsabilite",
+          "posts/comprendre-et-maitriser-ses-emotions/ruben-inquietude-avant-salon",
+          "posts/comprendre-et-maitriser-ses-emotions/ruben-participation-evolution",
+          "posts/comprendre-et-maitriser-ses-emotions/ruben-plusieurs-solutions",
+          "posts/comprendre-et-maitriser-ses-emotions/ruben-provocation-et-camarades",
+          "posts/comprendre-et-maitriser-ses-emotions/ruben-refus-et-incomprehension",
+          "posts/comprendre-et-maitriser-ses-emotions/ruben-remarque-irritation",
+          "posts/comprendre-et-maitriser-ses-emotions/ruben-reparer-retard-groupe",
+          "posts/comprendre-et-maitriser-ses-emotions/ruben-ressentiment-apres-dispute",
+          "posts/comprendre-et-maitriser-ses-emotions/ruben-soutien-parents-sans-blame"
+        ]
+      },
       "reference_url": "https://icd.who.int/browse/2026-01/mms/fr#1487528823"
     },
     {
@@ -10801,12 +10854,30 @@
       "label": "Trouble dissocial du comportement",
       "group_id": "BlockL1-6C9",
       "editorial_status": "parcours",
-      "coverage_status": "pending_editorial_case",
+      "coverage_status": "published_primary_arc",
       "reason": "diagnostic_distinct",
       "candidate_ids": [
         "malou"
       ],
-      "published_primary": null,
+      "published_primary": {
+        "character_id": "malou",
+        "name": "Malou",
+        "reviewed_on": "2026-11-09",
+        "articles": [
+          "posts/comprendre-et-maitriser-ses-emotions/malou-choix-des-acteurs",
+          "posts/comprendre-et-maitriser-ses-emotions/malou-confiance-et-temps",
+          "posts/comprendre-et-maitriser-ses-emotions/malou-consequences-et-intention",
+          "posts/comprendre-et-maitriser-ses-emotions/malou-coordonner-les-attentes",
+          "posts/comprendre-et-maitriser-ses-emotions/malou-famille-et-epuisement",
+          "posts/comprendre-et-maitriser-ses-emotions/malou-film-termine-suivi-poursuivi",
+          "posts/comprendre-et-maitriser-ses-emotions/malou-intentions-supposees",
+          "posts/comprendre-et-maitriser-ses-emotions/malou-interrompre-escalade",
+          "posts/comprendre-et-maitriser-ses-emotions/malou-mefiance-envers-soin",
+          "posts/comprendre-et-maitriser-ses-emotions/malou-reparation-sans-pardon",
+          "posts/comprendre-et-maitriser-ses-emotions/malou-reprise-et-limites",
+          "posts/comprendre-et-maitriser-ses-emotions/malou-soutien-et-pression-des-pairs"
+        ]
+      },
       "reference_url": "https://icd.who.int/browse/2026-01/mms/fr#719572464"
     },
     {
@@ -12488,34 +12559,6 @@
     }
   ],
   "pending_cases": [
-    {
-      "character_id": "loic",
-      "name": "Loïc",
-      "code": "6C70",
-      "label": "Pyromanie",
-      "decision": "À documenter puis choisir entre récit, comparaison et dossier."
-    },
-    {
-      "character_id": "irma",
-      "name": "Irma",
-      "code": "6C71",
-      "label": "Kleptomanie",
-      "decision": "À documenter puis choisir entre récit, comparaison et dossier."
-    },
-    {
-      "character_id": "ruben",
-      "name": "Ruben",
-      "code": "6C90",
-      "label": "Trouble oppositionnel avec provocation",
-      "decision": "À documenter puis choisir entre récit, comparaison et dossier."
-    },
-    {
-      "character_id": "malou",
-      "name": "Malou",
-      "code": "6C91",
-      "label": "Trouble dissocial du comportement",
-      "decision": "À documenter puis choisir entre récit, comparaison et dossier."
-    },
     {
       "character_id": "ronan",
       "name": "Ronan",

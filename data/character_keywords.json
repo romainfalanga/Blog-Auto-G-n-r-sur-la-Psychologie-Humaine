@@ -839,6 +839,18 @@
     ],
     "source": "repères des parcours cliniques de fiction"
   },
+  "irma": {
+    "id": "irma",
+    "name": "Irma",
+    "keywords": [
+      "Kleptomanie",
+      "Tension et impulsions",
+      "Honte et demande d’aide",
+      "Confiance et limites",
+      "Continuité du soin"
+    ],
+    "source": "repères des parcours cliniques de fiction"
+  },
   "ismaël": {
     "id": "ismael",
     "name": "Ismaël",
@@ -947,6 +959,18 @@
     ],
     "source": "repères des parcours cliniques de fiction"
   },
+  "loïc": {
+    "id": "loic",
+    "name": "Loïc",
+    "keywords": [
+      "Pyromanie",
+      "Préoccupations persistantes",
+      "Tension et contrôle",
+      "Prévention individualisée",
+      "Participation et relais"
+    ],
+    "source": "repères des parcours cliniques de fiction"
+  },
   "louise": {
     "id": "louise",
     "name": "Louise",
@@ -980,6 +1004,18 @@
       "Évaluation médicale urgente",
       "Reprise des décisions",
       "Suivi et entourage"
+    ],
+    "source": "repères des parcours cliniques de fiction"
+  },
+  "malou": {
+    "id": "malou",
+    "name": "Malou",
+    "keywords": [
+      "Trouble dissocial du comportement",
+      "Droits des autres",
+      "Responsabilité et réparation",
+      "Confiance et sécurité",
+      "Soutien familial"
     ],
     "source": "repères des parcours cliniques de fiction"
   },
@@ -1196,6 +1232,18 @@
       "Anticipation du malentendu",
       "Gêne à devoir répéter",
       "Maintien du tour de parole"
+    ],
+    "source": "repères des parcours cliniques de fiction"
+  },
+  "ruben": {
+    "id": "ruben",
+    "name": "Ruben",
+    "keywords": [
+      "Trouble oppositionnel avec provocation",
+      "conflits autour des règles",
+      "irritabilité et ressentiment",
+      "relations avec les camarades",
+      "soutien familial et scolaire"
     ],
     "source": "repères des parcours cliniques de fiction"
   },

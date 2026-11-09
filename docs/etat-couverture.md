@@ -2,11 +2,11 @@
 
 État au 2026-11-09.
 
-Le catalogue contient **1323 articles**, **111 personnages** et **78 parcours cliniques** de douze épisodes. **74** parcours ont un code principal dans le chapitre 06 de la CIM-11. **4** parcours se situent dans d’autres chapitres ou dans le DSM-5-TR.
+Le catalogue contient **1371 articles**, **115 personnages** et **82 parcours cliniques** de douze épisodes. **78** parcours ont un code principal dans le chapitre 06 de la CIM-11. **4** parcours se situent dans d’autres chapitres ou dans le DSM-5-TR.
 
 **387 articles d’origine** disposent d’une preuve de lecture sémantique liée à l’empreinte de leur corps. Cette preuve est distincte des signaux de structure et de la relecture indépendante des passages sensibles.
 
-Il reste **76 cas du registre** à documenter et à traiter sous la forme appropriée. Les renvois à une variante ne comptent pas comme des textes écrits. Les catégories résiduelles, syndromes secondaires et différences entre référentiels restent à examiner.
+Il reste **72 cas du registre** à documenter et à traiter sous la forme appropriée. Les renvois à une variante ne comptent pas comme des textes écrits. Les catégories résiduelles, syndromes secondaires et différences entre référentiels restent à examiner.
 
 Les **161 repères internes indexés sur 161** ne constituent pas un inventaire de toute la psychologie. Une liaison secondaire ne vaut pas un épisode dédié. Les lacunes précises des grilles APA, RDoC et CIF sont consignées dans [la revue des concepts](../data/psychology_coverage_review.json). Le DSM-5-TR reste à comparer diagnostic par diagnostic au-delà des seules familles thématiques.
 
@@ -26,8 +26,8 @@ Les **161 repères internes indexés sur 161** ne constituent pas un inventaire 
 | Troubles de l'élimination | 10 | 2 | 0 | 5 | 3 |
 | Troubles de détresse physique et de l’expérience corporelle | 8 | 2 | 0 | 3 | 3 |
 | Troubles dus à l'utilisation de substances ou à des conduites addictives | 420 | 6 | 37 | 286 | 91 |
-| Troubles du contrôle des impulsions | 6 | 2 | 2 | 0 | 2 |
-| Comportement perturbateur ou troubles dissociaux | 22 | 0 | 2 | 12 | 8 |
+| Troubles du contrôle des impulsions | 6 | 4 | 0 | 0 | 2 |
+| Comportement perturbateur ou troubles dissociaux | 22 | 2 | 0 | 12 | 8 |
 | Troubles de la personnalité et caractéristiques apparentées | 12 | 1 | 0 | 10 | 1 |
 | Troubles paraphiliques | 8 | 0 | 6 | 0 | 2 |
 | Troubles factices | 3 | 0 | 2 | 0 | 1 |
@@ -54,10 +54,6 @@ Ce tableau suit les scénarios candidats déjà présents dans la cartographie. 
 
 | Code | Sujet | Scénario candidat |
 | --- | --- | --- |
-| 6C70 | Pyromanie | Loïc |
-| 6C71 | Kleptomanie | Irma |
-| 6C90 | Trouble oppositionnel avec provocation | Ruben |
-| 6C91 | Trouble dissocial du comportement | Malou |
 | 6D30 | Trouble exhibitionniste | Ronan |
 | 6D31 | Trouble voyeuriste | Amaël |
 | 6D32 | Trouble pédophile | Rémiël |

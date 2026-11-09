@@ -3111,6 +3111,78 @@
     "method": "reviewed_clinical_intro",
     "source_body_sha256": "dc859182593cf05427ce0d2bbdfa363e3cf71d112770e19da367eec86c8a5ab0"
   },
+  "posts/comprendre-et-maitriser-ses-emotions/irma-besoin-et-impulsion": {
+    "text": "La kleptomanie ne se réduit pas à voler pour répondre à un besoin matériel ou obtenir un profit. Cette absence de motif apparent fait partie de l’évaluation clinique. Elle ne signifie pas que les objets doivent toujours être sans valeur ou sans usage. Disposer de moyens suffisants ne répond donc pas automatiquement à la difficulté.",
+    "source_heading": "Une impulsion sans besoin matériel",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "2e7a517a0287f7b64700674ffa04f1cf4bf9c7c181c94756ff60919db6b8dc7b"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/irma-confiance-et-consequences": {
+    "text": "Le soutien d’un proche et la confiance ne peuvent pas être exigés au nom d’un diagnostic. La kleptomanie peut avoir des conséquences relationnelles qui nécessitent du temps et des limites explicites. Reconnaître le trouble n’efface pas le tort d’un acte. Une personne peut accepter une aide précise tout en assumant elle-même les démarches nécessaires.",
+    "source_heading": "La confiance et les conséquences",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "2a00c90328b068075b9dcc53840ede848b622d30b8d83feb560af53db873bfee"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/irma-contexte-et-solitude": {
+    "text": "Certains contextes émotionnels peuvent être associés aux impulsions dans la kleptomanie, mais leurs liens varient selon les personnes et les moments. Une contrariété ou un sentiment de solitude ne rend pas un acte inévitable. Explorer ces associations avec le professionnel permet de garder les nuances et d’éviter d’attribuer la responsabilité aux proches.",
+    "source_heading": "Les contextes émotionnels difficiles",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "98573291b69e764f57cb2a50682533a82a55f79a4dd2458e8a5e8c6aec4f9341"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/irma-honte-et-place": {
+    "text": "La honte peut dépasser le jugement porté sur un acte et devenir une condamnation de toute la personne. Dans la kleptomanie, culpabilité et honte ne suffisent pas à empêcher automatiquement les répétitions. Reconnaître les conséquences reste nécessaire, tandis que le soin et les liens ordinaires peuvent se poursuivre sans humiliation ni pardon exigé d’autrui.",
+    "source_heading": "La honte après les actes",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "271d036cac0a833341f19af8601ebaf8e1d6947678ba7456cd922079caf475cd"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/irma-parole-et-confidentialite": {
+    "text": "La honte peut compliquer la demande d’aide et retarder une parole pourtant souhaitée. Parler à un proche ne signifie pas tout lui confier ni rendre public son diagnostic. Choisir une information utile et un soutien précis peut faciliter l’échange. La confidentialité des informations de santé ne doit pas être confondue avec l’évitement des conséquences d’un acte.",
+    "source_heading": "Le secret qui retarde la parole",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "08605baa4fbbd8dd6afcd8c32db97c2212d65b91eeebc36ac959c911910104c1"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/irma-premiere-classe": {
+    "text": "Une personne peut mener un projet important tout en poursuivant des soins pour un trouble encore présent. Une réussite professionnelle ne prouve pas la disparition des symptômes, pas plus qu’un diagnostic ne résume toutes ses compétences. Distinguer les retours sur l’activité et les questions cliniques permet de reconnaître cette réussite sans lui demander de tout résoudre.",
+    "source_heading": "Vivre au-delà du symptôme",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "3aa25a6f8c2def8e194f55fe2ff87ad0762371affa1bd8ea4db02db2dc63a143"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/irma-retour-apres-accalmie": {
+    "text": "L’évolution de la kleptomanie peut être variable, avec des périodes plus faciles et des difficultés renouvelées. Le retour d’une impulsion n’est pas identique à un nouvel acte ni à un abandon du soin. En parler au suivi et revoir les besoins pratiques permet de répondre au changement sans considérer que tout le parcours est annulé.",
+    "source_heading": "Le retour après une accalmie",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "ca95bdb8cf67592fa837c2d1b06d95395c3f4240b5bd7c28fc32e688f3303319"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/irma-signaux-peu-perceptibles": {
+    "text": "La perception de la tension associée aux impulsions peut être peu nette ou varier avec le temps. Ne pas savoir quand une sensation a commencé ne signifie pas forcément une perte de mémoire. Une description incomplète peut être utile au suivi, sans demander à la personne de reconstruire une précision qu’elle n’a pas.",
+    "source_heading": "Des signaux parfois peu perceptibles",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "74cf4dc94070a2d4c5296ff0f1d20eaf943bef5bcc75ec6229dd15af2b59a584"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/irma-soin-et-incertitudes": {
+    "text": "Les recherches sur la prise en charge de la kleptomanie documentent des options étudiées, avec des limites importantes d’effectif, de méthode ou de durée. Elles ne donnent pas une garantie individuelle de résultat. Discuter des objectifs, des incertitudes et du moment où refaire le point permet de construire un suivi adapté avec les professionnels.",
+    "source_heading": "Choisir un soin malgré les incertitudes",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "4764ee5fadce09d9b091bf308b074854963f15adb980c6cf0da92f88ee2ba31c"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/irma-sommeil-et-inquietude": {
+    "text": "Une difficulté nouvelle ou persistante mérite sa propre évaluation, même lorsqu’un trouble est déjà diagnostiqué. Sommeil dégradé et inquiétude peuvent avoir plusieurs explications ; ils ne permettent pas de conclure seuls à un autre diagnostic. Décrire leur durée et leur retentissement aide les professionnels à apprécier la situation et les besoins de suivi.",
+    "source_heading": "Une souffrance associée à évaluer",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "9b7aadf58fb9934c6836255c8483b9f1b36e77ab30325ebd7ac94150f3a772fa"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/irma-soulagement-bref": {
+    "text": "Un soulagement ou une gratification peut accompagner un acte dans la kleptomanie, puis laisser place à des difficultés persistantes. Ce contraste aide à comprendre le trouble sans approuver l’acte. Décrire le vécu au professionnel ne nécessite pas d’en détailler la réalisation ; les conséquences pour autrui et les besoins de soin demeurent distincts.",
+    "source_heading": "Le soulagement qui ne dure pas",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "5960022512b95c893fad7411bc5be18e27ec70c42722635780a283e78f4832b1"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/irma-tension-et-courriel": {
+    "text": "La kleptomanie peut comporter une montée de tension associée à une impulsion de vol difficile à maîtriser. Tension, impulsion et acte restent des éléments distincts. Une sensation isolée ne suffit pas à reconnaître ce trouble. Dans un diagnostic déjà établi, décrire le retentissement au professionnel aide à ajuster un accompagnement individuel.",
+    "source_heading": "La tension avant l’impulsion",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "93cb0fc4d6790f1deeb730d42d37648fe753d1c874eedc06c6143e7afdc8ee65"
+  },
   "posts/comprendre-et-maitriser-ses-emotions/ismael-aides-choisies-fiche-du-jour": {
     "text": "Un repère choisi peut faciliter une tâche présente sans changer l’accès aux souvenirs anciens. Ismaël doit organiser plusieurs décisions liées au hangar et à la rencontre des ateliers. Des messages successifs laissent plusieurs versions de l’heure à laquelle ils comptent venir. Il propose une fiche où il ne gardera avec Yann que les informations utiles à leur projet commun.",
     "source_heading": "Organisation du présent avec un appui choisi",
@@ -3766,6 +3838,78 @@
     "method": "reviewed_clinical_intro",
     "source_body_sha256": "fff525f8c78b054a70a6644e063adfcf73a9b9b6a0481cfa84e2ff18a211590d"
   },
+  "posts/comprendre-et-maitriser-ses-emotions/loic-anticipation-et-controle": {
+    "text": "Une difficulté de contrôle peut s’installer progressivement plutôt que surgir sans aucun signe préalable. Avoir prévu un rendez-vous ou reconnu une tension ne garantit pourtant pas de maîtriser la suite. Dans le suivi de la pyromanie, il importe de distinguer l’anticipation d’un contact et la réponse réellement adaptée au moment où la difficulté apparaît.",
+    "source_heading": "Contrôle difficile malgré anticipation",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "b612fbb9d2894ff7c6abda68407e1ddf95c673471de476c3fc18eb9240bbdcad"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/loic-confiance-limites-proches": {
+    "text": "Un proche peut contribuer à un plan individualisé sans garantir la conduite d’une autre personne ni assurer une surveillance permanente. Clarifier ses disponibilités peut susciter une crainte de rejet, mais cette limite n’est pas nécessairement un retrait de confiance. Les responsabilités de soin, de travail et de sécurité doivent rester distinctes et réellement couvertes.",
+    "source_heading": "Confiance et limites des proches",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "2d2f82ea5a7fcb7381ea5483d66301c1a298fc71850af0fcf9068e78b618893b"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/loic-diagnostic-et-incendie": {
+    "text": "Un incendie volontaire ne suffit pas à établir une pyromanie. Les circonstances, les mobiles et d’autres explications possibles relèvent d’une évaluation clinique individualisée. Le diagnostic ne se déduit pas d’un fait rapporté et ne décide pas d’une responsabilité juridique. Distinguer les termes évite aussi de réduire une personne suivie à tout événement dont on entend parler.",
+    "source_heading": "Diagnostic distinct du fait incendiaire",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "b33563008c9a0bc016cbb55efa16eee096a0ff24cef831c6412187bc65a6540d"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/loic-fluctuation-reevaluation": {
+    "text": "Les connaissances sur l’évolution à long terme de la pyromanie restent limitées. Une période plus calme ne garantit pas la disparition durable des difficultés, et le retour de préoccupations n’équivaut pas automatiquement à un nouvel acte. Transmettre un changement permet une réévaluation et un ajustement des engagements, sans conclure à un échec moral ou à une fatalité.",
+    "source_heading": "Évolution fluctuante sans fatalité",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "7e3c6d0246a605a845c4438ac12fc9eabbc86679e62c4bdff9695fe66302b991"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/loic-montee-de-tension": {
+    "text": "Une montée de tension peut faire partie de l’expérience de la pyromanie. Elle mérite d’être discutée dans le suivi, mais une sensation ne prédit pas à elle seule un acte et ne permet pas de mesurer le risque sans évaluation. Décrire tôt un changement peut aider à réviser les conditions d’un engagement plutôt qu’à chercher une garantie personnelle.",
+    "source_heading": "Montée de tension reconnue",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "4ae8ebcea61e32014a73490df739b6a73492e9dbee1016fa9d9c3c5819946be5"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/loic-partage-limite-et-soin": {
+    "text": "Une information utile au soin n’a pas forcément sa place dans un document collectif de travail. Préparer avec l’équipe les destinataires et les informations nécessaires peut soutenir une participation adaptée. Ce partage limité ne doit pas devenir une promesse de secret empêchant la protection ou les recours appropriés en cas de danger.",
+    "source_heading": "Parole clinique et partage limité",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "2110048f0c0cecc9536727099173f817364ccbfe7ab92d0fa900ec5a253cb209"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/loic-participation-suivi-maintenu": {
+    "text": "Participer à un projet dans des conditions individualisées peut compter dans la vie d’une personne suivie pour pyromanie. Un créneau accompli ne prouve pas une absence durable de difficulté ou de risque. Le partage effectif des responsabilités et la continuité du suivi permettent de reconnaître cette participation sans la transformer en épreuve clinique.",
+    "source_heading": "Participation choisie et suivi maintenu",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "72d6a2543a1b04f11e4b6a62d9700202c29d8fc3d1da4d47e1425ee0682ea1ec"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/loic-preoccupation-attention": {
+    "text": "Une préoccupation liée au feu peut prendre une place importante dans la pyromanie déjà diagnostiquée. Son retour peut réduire la disponibilité pour une activité ordinaire, sans qu’une pensée seule établisse un diagnostic ou prouve un acte. Signaler ce changement à l’équipe permet de reprendre les besoins de prévention propres à la personne.",
+    "source_heading": "Préoccupation et attention captée",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "36a48beedd5c74c5f36b5a94601cfec8db63bac04cec9ce95bbc013547362b24"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/loic-prevention-contexte": {
+    "text": "Une adaptation de participation se construit à partir d’une situation et d’une évaluation individuelles. Les rôles, les relais et les limites doivent correspondre à ce qui sera réellement possible, sans être présentés comme un protocole valable pour tous. Un accord d’organisation ne certifie ni l’absence de risque ni l’efficacité d’un traitement.",
+    "source_heading": "Prévention adaptée au contexte",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "75fac0648595e5e5332f4cf1c19c458e899f89192433b311e2c37d554de358b3"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/loic-soins-preuves-limitees": {
+    "text": "Des recherches sur des interventions spécialisées auprès d’auteurs d’incendies rapportent certains changements psychologiques. Leurs populations et leurs méthodes ne permettent pas d’en déduire une garantie individuelle ni une efficacité spécifique démontrée pour toute pyromanie. Discuter des objectifs du suivi avec l’équipe aide à comprendre ce qui est recherché, ce qui reste incertain et les protections à maintenir.",
+    "source_heading": "Soins spécialisés et preuves limitées",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "ebc173100a81b5af1de2ccf7115b6a1e8b9148c9717ebe204dea04a705b067a9"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/loic-solitude-contexte-affectif": {
+    "text": "L’ennui, la solitude ou un état affectif difficile peuvent être des éléments à discuter dans la compréhension individuelle de la pyromanie. Ils ne suffisent pas à en expliquer la cause ni à poser un diagnostic. Parler d’une soirée difficile peut soutenir un lien ordinaire, tandis que l’évaluation et la prévention restent dans le suivi spécialisé.",
+    "source_heading": "États affectifs et vulnérabilité",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "340fc6d5771c7fe25a31705a51d0e08976e9c46738db73b3898fbde7f0386533"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/loic-soulagement-consequences": {
+    "text": "Un soulagement immédiat peut être rapporté dans l’histoire clinique de la pyromanie. Ce ressenti ne réduit ni les conséquences d’un acte ni la nécessité de prévenir le risque. Le nommer auprès d’un professionnel permet d’examiner le décalage entre ce qui a été ressenti sur le moment et les responsabilités qui demeurent ensuite.",
+    "source_heading": "Soulagement immédiat et conséquences",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "c358d9a0080692c3a200e5b188ca27a45051652ca00904c2d4d24ce1b3ccf4b6"
+  },
   "posts/comprendre-et-maitriser-ses-emotions/louise-concentration-facture-avel": {
     "text": "La dépression peut rendre l’attention plus difficile à soutenir, y compris dans un travail maîtrisé. Comprendre une information ne garantit pas qu’on pourra en garder le fil parmi les interruptions. Un cadre plus calme et des vérifications habituelles peuvent aider à mener une tâche précise. Le retentissement professionnel mérite aussi une discussion avec le médecin, sans conclure à une perte générale de capacités.",
     "source_heading": "Concentration fragile malgré les compétences",
@@ -4030,6 +4174,78 @@
     "source_heading": "Un rétablissement au rythme variable",
     "method": "reviewed_clinical_intro",
     "source_body_sha256": "a8b44dab0835a452f4cf2e1b14a3b63d500a3ce0e82f9a3bc1c86e6831850163"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/malou-choix-des-acteurs": {
+    "text": "Le trouble dissocial du comportement peut comporter des conduites qui portent atteinte aux droits d’autrui. Son diagnostic repose sur une évaluation d’ensemble, jamais sur un désaccord isolé. Chez une adolescente déjà suivie, travailler le respect d’un refus permet de distinguer l’importance d’un projet personnel du droit de décider à la place des autres.",
+    "source_heading": "Respecter le choix des autres",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "123021c031c1ab88f2c8c41df87e7cc8b4bb190d8053608e719cc9d63a255d5f"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/malou-confiance-et-temps": {
+    "text": "Les conséquences relationnelles d’un comportement peuvent durer après un effort réel pour agir autrement. La confiance ne se rétablit pas sur commande et ne se mesure pas à une déclaration de remords. Reconnaître un changement observable reste compatible avec le droit d’une autre personne à prendre du temps, garder ses limites ou refuser une reprise.",
+    "source_heading": "Reconstruire une confiance fragilisée",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "27c5be0ecaaecb15a86fdddb4fcbdb83d9fba515ff78236ab7f97d4a5feae6d1"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/malou-consequences-et-intention": {
+    "text": "Reconnaître les conséquences d’un comportement demande parfois de séparer l’intention poursuivie de ce que les autres ont réellement vécu. Une intention créative ne supprime pas une pression exercée. Dans un suivi déjà établi, un échange factuel peut soutenir la responsabilité sans devenir une humiliation ni réduire toute la personne à ce qu’elle a fait.",
+    "source_heading": "Reconnaître les conséquences de ses actes",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "58e7c9cd22bc2939b74818c01fd426a33d43d5b84174e5abca5a40ea8f656d43"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/malou-coordonner-les-attentes": {
+    "text": "L’accompagnement d’un adolescent ayant un trouble dissocial du comportement peut concerner plusieurs milieux de vie. Des attentes mal coordonnées peuvent créer des accords contradictoires ou difficiles à comprendre. Clarifier qui décide de quoi et quelles informations sont nécessaires soutient un cadre cohérent ; cela ne consiste pas à multiplier les surveillants ni à partager tout le dossier clinique.",
+    "source_heading": "Coordonner les attentes entre plusieurs lieux",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "96abaa116af71fd8bb15de46a5c9d707c472ae728140912350b29cf6d054a3b9"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/malou-famille-et-epuisement": {
+    "text": "Le retentissement familial d’un trouble peut dépasser les moments de conflit : anticipation, rappels répétés et fatigue occupent alors les échanges ordinaires. Reconnaître ce coût ne désigne pas les parents comme responsables du trouble. Des appuis discutés avec l’équipe peuvent aider chacun à garder une place, sans transformer la famille en permanence thérapeutique.",
+    "source_heading": "Retentissement familial et épuisement des proches",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "b203a14c2b79fd6b6b11cbfbcdc840e9efac3deb8c38c1598f6902ed0b59b142"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/malou-film-termine-suivi-poursuivi": {
+    "text": "L’évolution d’un trouble dissocial du comportement n’est pas fixée d’avance. Un projet mené à son terme peut montrer des changements concrets sans annoncer une guérison ni déterminer le devenir adulte. Reconnaître ce qui a été accompli, garder les limites relationnelles et préparer la continuité du suivi permet de considérer la suite avec précision plutôt qu’avec un verdict définitif.",
+    "source_heading": "Évolution ouverte et continuité du soutien",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "8acda3fbebff03334ee133a2d88af46ff4da1937665badf6f9b4db673d2e8445"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/malou-intentions-supposees": {
+    "text": "Attribuer trop vite une intention hostile peut durcir un conflit et rendre une limite difficile à entendre. Cette manière d’interpréter n’est ni obligatoire ni spécifique au trouble dissocial du comportement. Chez Malou, comparer les mots réellement reçus aux conclusions qu’elle en tire permet de préparer une clarification avec un adulte, sans confrontation avec le groupe.",
+    "source_heading": "Attribuer trop vite des intentions hostiles",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "06d9c380fc74844d0076804e56689b26bc3de1ad30b95d4fb3b9f304e440daef"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/malou-interrompre-escalade": {
+    "text": "Une montée de colère peut rendre une discussion de moins en moins possible. Elle ne définit pas à elle seule un trouble dissocial du comportement et ne justifie pas de poursuivre une pression sur autrui. Reconnaître les changements observables, interrompre l’activité et mobiliser les adultes responsables permet de protéger le cadre sans attendre une maîtrise parfaite de la jeune.",
+    "source_heading": "Interrompre une escalade de colère",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "7d14c0b53f883e554d079ca626f6ceee6030ca63a3903475a276d767000eb78b"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/malou-mefiance-envers-soin": {
+    "text": "Un adolescent peut se méfier d’un suivi qu’il comprend comme une simple demande d’obéissance. L’alliance de soin demande de rendre les objectifs, les rôles et les limites de confidentialité compréhensibles, tout en laissant une place à ses propres projets. Cette participation ne supprime ni les responsabilités ni les mesures de protection nécessaires.",
+    "source_heading": "Méfiance envers les propositions de soin",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "6748d00804d3a402445f20b0521fc3ca52d4c4b1ba59e39715a5ea4f5d22044c"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/malou-reparation-sans-pardon": {
+    "text": "Une démarche de réparation peut reconnaître un tort et modifier concrètement ce qui dépend de soi. Elle ne donne pas droit au pardon, à une rencontre ou au retour d’une relation comme avant. Préserver le choix de la personne concernée évite qu’une excuse reproduise la pression qu’elle prétend réparer.",
+    "source_heading": "Réparer sans exiger le pardon",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "2e9e0678f024f32ad82856fc477fb80112a1b5981a5ee67c29a06d622544c865"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/malou-reprise-et-limites": {
+    "text": "Une amélioration peut être partielle : une difficulté réapparaît, mais la manière d’y répondre change. Lors d’une reprise après un conflit, des conditions explicites et révisables permettent d’observer des actes concrets sans conclure à la disparition du trouble. Les pairs gardent leurs choix ; ils ne deviennent pas les évaluateurs cliniques de la personne.",
+    "source_heading": "Reprendre une place avec des limites",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "9f3032a7ef7f9a5219c63ab94d3b4e77f7dfb05e35db55c90ec7b3933b5d3a6b"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/malou-soutien-et-pression-des-pairs": {
+    "text": "Les relations avec les pairs peuvent soutenir un adolescent tout en pesant sur ses décisions. Dans un conflit, se sentir défendu peut rendre difficile le refus d’un conseil qui aggrave la situation. Cette influence ne constitue pas une cause unique du trouble : il reste utile de distinguer appartenance, pression et choix personnel avec un adulte de confiance.",
+    "source_heading": "Appartenance au groupe et influence des pairs",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "c509262815c5020bb696b0c89f22d3bdacd2d1f0bad249348f659f8685779f7c"
   },
   "posts/comprendre-et-maitriser-ses-emotions/martin-avant-le-deuxieme-trait": {
     "text": "Martin se promet de terminer les deux tracés avant de sortir fumer. Il s’arrête au milieu du second. Une dépendance à la nicotine peut rendre difficile le respect d’une limite qu’on a choisie, qu’elle porte sur le moment ou la quantité. Martin se rappelle deux décisions semblables et cherche comment en parler à la docteure Bellon sans réduire son histoire à un chiffre.",
@@ -5480,6 +5696,78 @@
     "source_heading": "Coût social du malentendu",
     "method": "reviewed_clinical_intro",
     "source_body_sha256": "dbdc871bfb68d514125bf385b3d817119604db2e36d364435b7c2e9a98a678fc"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/ruben-contester-et-perdre-son-tour": {
+    "text": "Un désaccord avec un adulte ne suffit pas à définir un trouble oppositionnel avec provocation. Le diagnostic repose sur une configuration durable et son retentissement, évalués dans leur contexte. Chez Ruben, déjà suivi, la difficulté apparaît quand la contestation répétée absorbe le temps d’une activité à laquelle il voulait pourtant participer.",
+    "source_heading": "Contester au point de perdre sa place",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "95e7ea563cea1c9f4d77fe3590523645be2a7e4266eb910fd60c5235458ce5ac"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/ruben-demandes-evitees-maison": {
+    "text": "Les conflits répétés autour des demandes peuvent peser sur toute la famille. Certains parents évitent une consigne redoutée, tandis que d’autres accumulent les rappels pour tenter de reprendre la situation. Ces réactions témoignent d’un retentissement à entendre ; elles ne prouvent pas que les parents seraient à eux seuls responsables du trouble.",
+    "source_heading": "Les demandes évitées à la maison",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "d97c2cf0a168e3010ddda845c7e183b55fd720410b7848d6e835c11258e61de6"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/ruben-erreur-et-responsabilite": {
+    "text": "Attribuer ses erreurs à autrui peut apparaître dans certaines présentations du trouble oppositionnel avec provocation. Une accusation ne permet pourtant pas de conclure à un mensonge calculé ou à une absence d’empathie. Revenir aux faits et rendre une correction possible aide à traiter les conséquences sans transformer l’erreur en jugement global sur le jeune.",
+    "source_heading": "Reporter son erreur sur un autre",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "6ed3ec1407642cbd4bebeaaca460abeae9a7c305612a77ad9c6e44ff1b2ad0f1"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/ruben-inquietude-avant-salon": {
+    "text": "Un refus chez un jeune déjà diagnostiqué ne doit pas masquer une inquiétude ou une autre difficulté. La peur d’une présentation peut gêner la participation sans suffire à définir un trouble anxieux. Écouter ce qui est anticipé et l’examiner dans le suivi permet de proposer un rôle adapté sans imposer une épreuve.",
+    "source_heading": "Une difficulté nouvelle mérite écoute",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "d88b4a25cce5e02c2f05439fadc5c35b333d5cdc727f538d2d1706fd4fbf45e1"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/ruben-participation-evolution": {
+    "text": "L’évolution du trouble oppositionnel avec provocation peut être irrégulière et varier selon les situations. Une participation réussie ne signifie pas que toutes les difficultés ont disparu, pas plus qu’un accrochage n’annule les apprentissages. Reconnaître une action concrète et maintenir le suivi permet de soutenir le jeune sans lui imposer un résultat parfait.",
+    "source_heading": "Participer malgré une évolution irrégulière",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "ed243e7ad1ede97a08f3eb682a1a1c56bc72a93d139ee4f4f7cd9439f79a9843"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/ruben-plusieurs-solutions": {
+    "text": "Des programmes structurés de résolution de problèmes sociaux et cognitifs sont recommandés pour certains jeunes de neuf à quatorze ans présentant un trouble oppositionnel avec provocation. Ils sont adaptés au développement et conduits par des professionnels. Les essais quotidiens peuvent prolonger cet accompagnement ; trois astuces isolées ne reproduisent pas un programme complet.",
+    "source_heading": "Apprendre à chercher plusieurs solutions",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "554e98fdcb821abed706da6d6ca64584b134e5232376152eb05c67da93ad83fb"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/ruben-provocation-et-camarades": {
+    "text": "Des provocations répétées peuvent abîmer les relations avec les camarades dans le trouble oppositionnel avec provocation. Une plaisanterie cesse d’être partagée lorsque l’autre demande qu’elle s’arrête et qu’elle continue. L’adulte peut intervenir sur ce comportement précis tout en respectant le droit du camarade à prendre de la distance.",
+    "source_heading": "Provoquer éloigne les camarades",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "86da5eedea7a9992de14340848934fc9c88b1ddb134275cb48a52a0837aa7c3e"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/ruben-refus-et-incomprehension": {
+    "text": "Un diagnostic connu ne suffit pas à expliquer chaque refus. Une consigne mal comprise, un désaccord ou une difficulté nouvelle demandent aussi d’être examinés. Ruben refuse aujourd’hui une fiche avant de préciser ce qui bloque. Vérifier la compréhension évite d’attribuer automatiquement cette situation au trouble oppositionnel avec provocation.",
+    "source_heading": "Un refus ne dit pas sa cause",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "0282920710e04491f23335e8f17e6e0001a9c277f684df69f60aac88ca80db6e"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/ruben-remarque-irritation": {
+    "text": "Une réactivité irritable peut faire partie de certaines présentations du trouble oppositionnel avec provocation, sans être suffisante pour poser le diagnostic. Une réaction vive ne permet pas non plus de conclure à une irritabilité chronique. Chez Ruben, une remarque sur le dessin déclenche une réponse dont l’intensité perturbe le travail avec Inès.",
+    "source_heading": "Une remarque devient une irritation vive",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "7564f54ff92e97a05cadd0fc986682091f97a7757d50ff97e56ab0c047d1f664"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/ruben-reparer-retard-groupe": {
+    "text": "Un conflit peut avoir des conséquences sur le travail du groupe, même lorsque les intentions de départ sont compréhensibles. Reconnaître cet effet permet de chercher une réparation proportionnée. Dans le trouble oppositionnel avec provocation, cette démarche gagne à distinguer le comportement et ses conséquences d’un jugement général sur le jeune.",
+    "source_heading": "Réparer un retard qui touche le groupe",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "51d79ab5904813dc7f46ce06632a54f4baf9142617bfc1759003afb19416eac2"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/ruben-ressentiment-apres-dispute": {
+    "text": "Le ressentiment peut prolonger un conflit bien après la réaction immédiate. Dans certaines présentations du trouble oppositionnel avec provocation, la rancœur et le désir de rendre la pareille compliquent la reprise des relations. Entendre le sentiment d’injustice ne signifie pas approuver une mise à l’écart ni conclure à un état de colère chronique.",
+    "source_heading": "Le ressentiment prolonge la dispute",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "473bb9249e8330f16ca8b839c07d428d1be167d74f730deef9a11a3d4ce2c146"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/ruben-soutien-parents-sans-blame": {
+    "text": "Les parents d’un jeune présentant un trouble oppositionnel avec provocation peuvent ressentir fatigue, culpabilité ou crainte d’être jugés lorsqu’ils demandent de l’aide. Le soutien cherche à comprendre leurs besoins et les interactions familiales. Il ne suppose ni une cause parentale unique ni la promesse que des échanges mieux organisés feront disparaître le trouble.",
+    "source_heading": "Soutenir les parents sans les accuser",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "f4ca206adda6842e2df52b941fd2c41fd070c542d4198848e204fb9f4f793b64"
   },
   "posts/comprendre-et-maitriser-ses-emotions/sacha-deux-affiches": {
     "text": "Une remarque sur son accent fait changer le ton de la proposition sous l’auvent. Sacha refuse l’invitation et confie le relais à Nora. Dans l’évaluation de l’anxiété sociale, le contexte compte aussi, y compris les remarques hostiles et le risque réel d’être dévalorisé. La décision de Sacha lui permet de poser une limite à cette proposition et de poursuivre celle qui lui convient au magasin.",

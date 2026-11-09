@@ -1,0 +1,124 @@
+{
+  "schema_version": 1,
+  "character_id": "loic",
+  "reviewer": "review_loic",
+  "reviewed_on": "2026-11-09",
+  "summary": "Lecture indépendante intégrale des douze épisodes, de leurs exemples, des trente-six techniques et des douze rubriques des proches. Canon, diagnostic établi, plan, transitions et réalisation effective du projet vérifiés. OMS CDDR p.520–523 lues ; résumés originaux Tyler 2018 et Gannon 2015 et protocole HRA vérifiés, sans accès revendiqué aux textes intégraux des études. Les adaptations restent individualisées, les limites des preuves médico-légales explicites, aucun détail dangereux ni passé pénal ajouté. Les notes ci-dessous documentent séparément chaque épisode. Aucun changement requis ; le présent avis ne certifie pas une efficacité thérapeutique ni une sécurité individuelle.",
+  "files": {
+    "editorial/clinical/designs/loic.json": "3b074410db137eaf4a01a5225169fad17849f44417106f66cf7500ee17120a1b",
+    "editorial/clinical/dossiers/loic.json": "204234d5c05bfd8d6babd57cb3268a5ca66601bbd3c8dd9581d7edb6d688bf6e",
+    "editorial/clinical/loic.json": "6e0f65f10741e85f52e4fef02ad649dddd381bba59c809a7b9821907932bfc35"
+  },
+  "status": "passed",
+  "findings": [],
+  "episode_checks": [
+    {
+      "number": 1,
+      "focus": "Préoccupation et attention captée",
+      "opening_quote": "La fiche de créneaux circule entre les membres du comité. Loïc a inscrit son prénom près de celui de Nadir, avec un point d’interrogation qu’il comptait effacer avant de ",
+      "ending_quote": "Nadir accepte de reprendre provisoirement la fiche sous la coordination de Maud. Loïc convient d’un échange clinique avant de confirmer son créneau. Le comité sait que l’",
+      "continuity_note": "La fiche de créneaux porte déjà un point d’interrogation ; Nadir la reprend effectivement et le rendez-vous vient avant toute confirmation. Le métier, 32 ans et projet canonique sont présents.",
+      "clinical_note": "L’attention captée est perceptible par les relectures et la réponse manquée à Maud. Pensée, diagnostic établi et acte sont explicitement distingués. Les trois exercices portent sur tâche, contact individualisé et relais, sans auto-évaluation du danger.",
+      "relatives_note": "La réponse proposée à Maud reprend exactement la fiche laissée ouverte ; elle ne demande pas le carnet. Le proche ne devient pas seul recours et une urgence n’attend pas le rendez-vous."
+    },
+    {
+      "number": 2,
+      "focus": "Montée de tension reconnue",
+      "opening_quote": "La docteure Perrin demande à Loïc de reprendre le moment où la réunion était devenue difficile à suivre. Il ouvre son carnet, qui n’a pas circulé avec la fiche du comité.",
+      "ending_quote": "Loïc retient avec l’équipe : « Je ne peux pas poursuivre ce créneau, il faut reprendre la tâche. » La formule s’inscrit dans le plan discuté ; elle ne devient pas un test",
+      "continuity_note": "La consultation reprend la perte du fil racontée au premier épisode ; carnet privé et fiche collective restent séparés. La phrase courte préparée ouvre sur le souvenir abordé au rendez-vous suivant.",
+      "clinical_note": "La tension antérieure est distinguée de la préoccupation et des conséquences. Le texte refuse un score prédictif ou un signal infaillible. Description, phrase et modalités de retrait sont trois appuis distincts, avec contacts précisés par l’équipe.",
+      "relatives_note": "Elsa encourage la transmission même incomplète ; Maud peut connaître la phrase de relais sans diagnostiquer. Aucun proche ne mesure le danger à partir d’une sensation ni n’encourage à attendre."
+    },
+    {
+      "number": 3,
+      "focus": "Soulagement immédiat et conséquences",
+      "opening_quote": "Loïc arrive au rendez-vous suivant avec son carnet fermé. La question est déjà notée, mais il n’aime pas la voir sur la page. Il a demandé ce temps pour parler d’un soula",
+      "ending_quote": "Loïc barre « ce n’était rien » dans sa note. Il écrit que le soulagement ne résume pas les conséquences et demande que ce point reste dans leur travail clinique. Il ne ch",
+      "continuity_note": "Le rendez-vous suivant tient la question posée à la fin du précédent ; la formule ce n’était rien est barrée et le prochain échange porte sur le délai avant le contact. Aucun passé judiciaire ajouté.",
+      "clinical_note": "Soulagement décrit sobrement, sans acte reconstitué ni image séduisante ; le décalage avec conséquences reste net. La consultation ne conclut pas sur responsabilité juridique. Les exercices séparent récit clinique, formulation non minimisante et engagements de prévention.",
+      "relatives_note": "Elsa peut soutenir le fait d’en parler sans recevoir une confession, absoudre ou surveiller. Sa phrase respecte la décision de Loïc de réserver les éléments cliniques à l’équipe."
+    },
+    {
+      "number": 4,
+      "focus": "Contrôle difficile malgré anticipation",
+      "opening_quote": "Loïc a retrouvé la date à laquelle il avait prévu son rendez-vous. Il la montre à l’équipe comme un élément rassurant : il n’avait pas ignoré son suivi, la consultation f",
+      "ending_quote": "Loïc informe Maud que son créneau reste non confirmé. Elle redistribue une séance de préparation qui devait l’occuper prochainement. Il suit les modalités de contact préc",
+      "continuity_note": "Le calendrier de consultation est distingué de l’appel réellement passé. Le créneau reste non confirmé ; Maud redistribue la préparation et cette soirée libérée constitue le raccord exact vers le sentiment d’inutilité.",
+      "clinical_note": "La montée progressive est compatible avec OMS p.520 et ne confond pas impulsion avec absence totale d’anticipation. Aucune préparation dangereuse décrite. Les exercices demandent contact actuel, retrait prévu et suite explicitée sans test de résistance.",
+      "relatives_note": "Maud reçoit uniquement l’incertitude pratique ; Elsa ne fait pas d’un rendez-vous déjà fixé une raison d’attendre. Réponse urgente et suivi ordinaire restent distingués."
+    },
+    {
+      "number": 5,
+      "focus": "États affectifs et vulnérabilité",
+      "opening_quote": "Les notices sont rangées et les boîtes portent toutes une étiquette lisible. Loïc regarde le résultat avec moins de satisfaction qu’il ne l’avait prévu. La séance de prép",
+      "ending_quote": "Elsa peut parler ce soir, mais elle ne sera pas disponible le lendemain. Loïc le note sans lui demander de trouver quelqu’un pour surveiller sa soirée. Il organise son pr",
+      "continuity_note": "Les notices et boîtes donnent une voix ordinaire ; la préparation redistribuée explique le vide du soir. L’appel se fait à l’heure convenue et l’indisponibilité d’Elsa le lendemain est respectée.",
+      "clinical_note": "Solitude et sentiment d’inutilité sont un contexte individuel à discuter, non une cause universelle ni un diagnostic associé. Les exercices séparent observation, demande de compagnie consentie et maintien des soins ; activité agréable non présentée comme traitement.",
+      "relatives_note": "La phrase concrète de disponibilité limitée protège la sœur du rôle de surveillance. L’appel familial ne remplace pas le contact clinique ni une réponse urgente."
+    },
+    {
+      "number": 6,
+      "focus": "Diagnostic distinct du fait incendiaire",
+      "opening_quote": "La nouvelle réunion du comité commence par une discussion qui ne concerne pas les créneaux. Quelqu’un évoque un événement survenu ailleurs et emploie le mot pyromane comm",
+      "ending_quote": "Loïc retient : « Un incendie volontaire ne permet pas, à lui seul, de poser ce diagnostic. » Il pourra la dire sans ajouter le contenu de son carnet. Il ne demande pas à ",
+      "continuity_note": "Le nouvel échange au comité introduit un événement extérieur sans aucun lien factuel attribué à Loïc. Il prépare ensuite une correction générale avec l’équipe, puis un partage pratique pour Maud.",
+      "clinical_note": "Acte volontaire et diagnostic correctement séparés conformément aux frontières OMS ; aucun diagnostic de l’auteur inconnu ni déduction pénale. Les trois techniques restent des choix de vocabulaire, de confidentialité et de périmètre professionnel.",
+      "relatives_note": "Maud ne transforme pas la précision en question intrusive. Les proches ne mènent pas d’enquête sur Loïc et ne minimisent pas non plus un dommage au nom du diagnostic."
+    },
+    {
+      "number": 7,
+      "focus": "Parole clinique et partage limité",
+      "opening_quote": "Loïc a préparé un message pour Maud. Il y propose un créneau bref, un relais identifié et la possibilité de se retirer selon l’organisation convenue. La fiche pourrait te",
+      "ending_quote": "Le carnet reste auprès de Loïc. Maud reçoit seulement la proposition convenue et confirme qu’elle peut organiser les rôles sous réserve de la présence des adultes concern",
+      "continuity_note": "Le message pratique fait suite au choix de destinataires du 6. Le carnet reste effectivement privé ; Maud répond à la proposition sous réserve des présences, ce qui laisse la confirmation à l’épisode 9.",
+      "clinical_note": "L’enjeu de partage est montré par la tentation de joindre le carnet. Mesures individualisées et rôles sont décrits sans protocole universel ni règle juridique inventée ; les trois exercices ne confèrent aucune compétence clinique au comité.",
+      "relatives_note": "Maud formule explicitement ce qu’elle organise sans valider les soins. Elsa peut vérifier des coordonnées ; aucune confidentialité absolue devant un danger et aucune gestion solitaire de l’urgence."
+    },
+    {
+      "number": 8,
+      "focus": "Confiance et limites des proches",
+      "opening_quote": "Elsa vient relire les coordonnées que Loïc souhaite garder accessibles. Le message destiné à Maud a reçu une réponse ; les contacts de soin restent sur un autre support. ",
+      "ending_quote": "Loïc accepte qu’Elsa arrive plus tard. Nadir confirme son rôle de réparateur relais, avec les horaires à arrêter au comité, sans se charger d’une surveillance personnelle",
+      "continuity_note": "L’arrivée tardive d’Elsa reprend ses limites antérieures sans contradiction. Nadir confirme une tâche, avec horaires encore à arrêter ; la rotation du comité peut ainsi être précisée ensuite.",
+      "clinical_note": "La crainte de rejet est un vécu de Loïc, jamais un symptôme obligatoire de pyromanie. Présence affective, relais de travail et recours clinique restent distincts. Exercices de demande, reformulation et confirmation sans pression sur la sœur.",
+      "relatives_note": "Elsa peut maintenir son horaire sans promettre de surveiller. Le paragraphe final prévoit distance, responsables et secours si nécessaire, sans tentative de maîtrise physique par les proches."
+    },
+    {
+      "number": 9,
+      "focus": "Prévention adaptée au contexte",
+      "opening_quote": "Maud a imprimé une nouvelle fiche. Les noms ne sont plus accompagnés de promesses vagues comme passer un moment ou être dans le coin. Chaque adulte indique le créneau qu’",
+      "ending_quote": "Maud confirme le créneau de réparation avec Nadir, sous réserve du maintien des conditions convenues. Loïc laisse la tâche supplémentaire à l’adulte qui l’a acceptée. Il ",
+      "continuity_note": "La fiche devient une répartition concrète ; tâche supplémentaire réattribuée à un autre adulte et créneau bref confirmé conditionnellement. Le retour des préoccupations en fin de scène conduit au signalement du 10.",
+      "clinical_note": "Les limites sont pratiques et individualisées, non une technique prouvée par les études FIP-MO. Aucune nature dangereuse de la tâche n’est décrite. Les exercices vérifient rôles, présence réelle et suspension si les conditions manquent, sans certificat de risque nul.",
+      "relatives_note": "Nadir confirme une reprise de travail, non la sécurité individuelle ; Maud accepte le refus et réattribue. Le comité conserve ses procédures et recours aux secours."
+    },
+    {
+      "number": 10,
+      "focus": "Évolution fluctuante sans fatalité",
+      "opening_quote": "Loïc regarde la fiche reçue de Maud. La dernière préparation est prévue dans quelques jours, juste avant la brocante. Plusieurs semaines avaient été plus calmes et il ava",
+      "ending_quote": "L’échange clinique a lieu et le plan est révisé. La participation envisagée pour la démonstration reste plus courte, sous les conditions discutées ; elle sera reconfirmée",
+      "continuity_note": "Retour des préoccupations après plusieurs semaines plus calmes, transmission avant la préparation, réattribution immédiate par Maud. La consultation de fin révise le plan ; créneau raccourci encore à reconfirmer et aucune compensation solitaire.",
+      "clinical_note": "Fluctuation distinguée d’un acte, d’un échec moral et d’une inefficacité globale. Prudence sur l’évolution conforme au dossier ; aucun calendrier de reprise automatique. Trois techniques distinctes : transmission, réévaluation, respect effectif du relais.",
+      "relatives_note": "Maud confirme la tâche prise et interdit toute ambiguïté de rattrapage informel ; Elsa reconnaît la déception sans décider du risque. Les proches ne déduisent pas un acte d’une pensée revenue."
+    },
+    {
+      "number": 11,
+      "focus": "Soins spécialisés et preuves limitées",
+      "opening_quote": "Loïc a inscrit sa question en haut de la page : « Si je fais tout correctement, est-ce que cela ne reviendra plus ? » Il l’a trouvée trop directe, puis a décidé de la gar",
+      "ending_quote": "Loïc retient avec l’équipe l’objectif d’utiliser le relais prévu et de transmettre les changements, plutôt que de prouver une guérison à travers sa présence. Les conditio",
+      "continuity_note": "Le temps supplémentaire demandé au 10 a lieu ; la question de garantie introduit un objectif observable. Équipe, Maud et Nadir reconfirment leurs conditions respectives pour le lendemain et le rendez-vous ultérieur reste prévu.",
+      "clinical_note": "Résumés originaux FIP-MO 2018 et FIPP 2015 vérifiés : populations médico-légales/prison, absence de randomisation, changements de certains scores. Le texte ne revendique ni preuve spécifique en pyromanie isolée, ni baisse durable démontrée des actes, ni garantie individuelle. HRA non présenté comme résultat. Exercices de discussion et suivi, sans protocole de traitement reproduit.",
+      "relatives_note": "Elsa peut demander ce qui a été retenu sans promettre la disparition des difficultés ou invalider le soin à cause des incertitudes. Comité et collègue ne certifient que leurs rôles."
+    },
+    {
+      "number": 12,
+      "focus": "Participation choisie et suivi maintenu",
+      "opening_quote": "Nadir est déjà présent lorsque Loïc arrive. Maud vérifie la rotation des adultes et confirme que l’organisation retenue la veille est bien en place. Le créneau reste bref",
+      "ending_quote": "Nadir termine le créneau suivant et Maud conserve la fiche collective. Loïc confirme son prochain rendez-vous de suivi. Lorsque Elsa arrive, il peut lui raconter la quest",
+      "continuity_note": "Les conditions de la veille sont présentes au début. Loïc tient le rôle réparateur canonique, passe effectivement à Nadir, ne récupère ni préparation ni tâche refusée. Elsa arrive plus tard ; notices et rendez-vous donnent une perspective après le salon.",
+      "clinical_note": "La participation finale est un résultat de vie, non un test clinique. Explication de réparation sans détail dangereux, pas d’élargissement autonome des activités. Les trois exercices couvrent rotation, bilan factuel selon destinataires et continuité des soins.",
+      "relatives_note": "Nadir reçoit la tâche sans demander de prolongation ; Elsa s’intéresse au visiteur plutôt qu’à une preuve de guérison. Maud conserve la coordination et aucun proche n’endosse un rôle clinique."
+    }
+  ]
+}

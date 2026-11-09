@@ -626,6 +626,628 @@
         "choice": "Loïc choisit une réponse courte sur la différence entre un fait et un diagnostic. Il décide ensuite quelles informations pratiques il veut partager avec Maud.",
         "next": "La question du consentement et des destinataires occupera la réunion de préparation."
       }
+    },
+    {
+      "number": 7,
+      "slug": "loic-partage-limite-et-soin",
+      "title": "Pyromanie : informer les bonnes personnes sans diffuser tout le suivi",
+      "description": "Loïc prépare un message pratique pour Maud. Son carnet reste privé, tandis que les responsabilités et les recours de sécurité sont clarifiés.",
+      "context": "Avec l’équipe, avant un message à la coordinatrice",
+      "topics": [
+        "Pyromanie",
+        "Partage des informations",
+        "Alliance de soin"
+      ],
+      "clinical_focus": "Parole clinique et partage limité",
+      "diagnostic_stage": "known",
+      "clinical_intro": "Une information utile au soin n’a pas forcément sa place dans un document collectif de travail. Préparer avec l’équipe les destinataires et les informations nécessaires peut soutenir une participation adaptée. Ce partage limité ne doit pas devenir une promesse de secret empêchant la protection ou les recours appropriés en cas de danger.",
+      "opening": "Loïc a préparé un message pour Maud. Il y propose un créneau bref, un relais identifié et la possibilité de se retirer selon l’organisation convenue. La fiche pourrait tenir en quelques lignes. Pourtant, au moment d’en parler à la docteure Perrin, il pose aussi son carnet clinique sur le bureau. Il envisage de joindre plusieurs pages pour que Maud comprenne qu’il prend les choses au sérieux.\n\n« Sans ça, elle pourrait croire que je demande un arrangement sans raison. » La docteure lui demande ce dont la coordinatrice a besoin pour accomplir sa propre tâche. Loïc répond : savoir qui est présent, qui reprend et ce qui reste à confirmer. Le contenu précis de ses consultations ne rendrait pas Maud compétente pour valider le traitement. Il pourrait même lui donner une responsabilité qu’elle n’a pas acceptée.\n\nIls reprennent les informations à transmettre et les limites de ce partage. Loïc veut conserver sa vie privée ; il ne demande pas que tout reste secret quelle que soit la situation. L’équipe précise avec lui les circonstances qui appelleraient un relais de protection et les contacts adaptés. En cas de danger immédiat, personne ne doit attendre l’entretien suivant pour agir. Loïc regarde les deux supports sur la table. Le carnet sert au suivi. Le message doit permettre à Maud de répondre concrètement à une proposition de travail.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Partager utilement suppose de distinguer les rôles",
+          "text": "Le soin et l’organisation d’une activité ne nécessitent pas toujours les mêmes informations. Une communication clinique suffisamment précise aide l’équipe à évaluer et adapter l’accompagnement ; le comité doit surtout connaître les responsabilités qu’il peut réellement assurer. Ce partage se prépare dans la situation individuelle. Il ne remplace ni une appréciation spécialisée ni les mesures de sécurité requises, et ne confère pas aux collègues le rôle de juger le traitement."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment le besoin d’être cru peut-il élargir excessivement le partage ?",
+          "points": [
+            {
+              "heading": "Une adaptation semble devoir être justifiée par tout le dossier",
+              "text": "La crainte d’une mauvaise interprétation peut pousser à donner plus que nécessaire.",
+              "examples": [
+                "Loïc envisage de joindre des pages de son carnet clinique.",
+                "Il redoute que son message bref ressemble à une demande sans raison."
+              ]
+            },
+            {
+              "heading": "Le destinataire reçoit une responsabilité involontaire",
+              "text": "Une information détaillée n’apporte pas forcément la compétence nécessaire pour l’utiliser.",
+              "examples": [
+                "Maud peut organiser les créneaux.",
+                "Elle ne peut pas valider le traitement de Loïc en lisant ses notes."
+              ]
+            },
+            {
+              "heading": "La confidentialité risque d’être comprise sans exception",
+              "text": "Préserver l’intimité ne doit pas empêcher les recours nécessaires à une situation dangereuse.",
+              "examples": [
+                "Loïc souhaite que son carnet ne circule pas dans le comité.",
+                "L’équipe clarifie en même temps les situations qui demandent une protection réelle."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour préparer un partage limité et responsable",
+          "points": [
+            {
+              "heading": "Associer chaque information à un destinataire",
+              "objective": "Savoir à quelle responsabilité le partage répond.",
+              "exercise": [
+                "Distinguer les questions de santé des tâches de coordination.",
+                "Nommer qui a besoin de quelle information pour agir.",
+                "Reprendre avec l’équipe les éléments dont le destinataire reste incertain."
+              ],
+              "benefit": "Le partage peut rester utile sans faire circuler automatiquement tout le carnet."
+            },
+            {
+              "heading": "Écrire la proposition pratique",
+              "objective": "Permettre une réponse concrète de l’organisatrice.",
+              "exercise": [
+                "Décrire le créneau envisagé et le relais nécessaire.",
+                "Indiquer ce qui peut être retiré ou reste à confirmer.",
+                "Demander une réponse sur ces dispositions plutôt qu’un avis sur le traitement."
+              ],
+              "benefit": "Maud peut accepter ou refuser une organisation qu’elle comprend, sans être transformée en soignante."
+            },
+            {
+              "heading": "Clarifier les limites de confidentialité",
+              "objective": "Préserver la vie privée sans bloquer la protection.",
+              "exercise": [
+                "Demander à l’équipe quelles informations et quels recours peuvent être nécessaires selon la situation.",
+                "Dire aux personnes concernées ce qui ne doit pas circuler inutilement.",
+                "Maintenir la mise à distance, l’alerte aux responsables et les secours adaptés devant un danger immédiat."
+              ],
+              "benefit": "L’accord reste compatible avec la sécurité ; le contact de soins ne remplace pas une réponse urgente."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Maud répond à l’organisation",
+      "ending": "Le carnet reste auprès de Loïc. Maud reçoit seulement la proposition convenue et confirme qu’elle peut organiser les rôles sous réserve de la présence des adultes concernés. Elle rappelle qu’elle coordonne la sécurité générale du lieu, pas le traitement de Loïc. La fiche collective garde ces dispositions pratiques. Elsa viendra ensuite relire avec lui les contacts qu’il souhaite garder accessibles, en précisant sa propre disponibilité pour la journée.",
+      "conclusion": "Être pris au sérieux ne suppose pas de remettre tout son suivi à un comité. Loïc prépare des informations adaptées aux rôles, conserve son carnet privé et laisse les recours de sécurité possibles. La confiance s’appuie sur des responsabilités concrètes, pas sur un dossier diffusé.",
+      "mirror": [
+        "Maud peut dire : « Je peux organiser ce relais ; je ne peux pas valider tes soins. » Elsa peut aider à vérifier les coordonnées convenues sans demander l’ensemble des consultations. Ni l’une ni l’autre ne promet de garder toute information secrète en présence d’un danger immédiat. Elles utilisent alors les protections et les secours adaptés, sans tenter de gérer seules la situation."
+      ],
+      "sources": [
+        "oms-cddr",
+        "fip-mo-2018"
+      ],
+      "continuity": {
+        "choice": "Le carnet reste privé. Maud reçoit seulement l’organisation convenue et confirme qu’elle gère la sécurité générale, sans valider le traitement de Loïc.",
+        "next": "Elsa exprime à son tour ce qu’elle peut et ne peut pas porter."
+      }
+    },
+    {
+      "number": 8,
+      "slug": "loic-confiance-limites-proches",
+      "title": "Soutenir une personne suivie pour pyromanie sans devenir son gardien",
+      "description": "Elsa ne sera pas disponible toute la journée. Loïc distingue cette limite de la confiance et clarifie les relais avec Nadir.",
+      "context": "Une rencontre avec Elsa avant la brocante",
+      "topics": [
+        "Pyromanie",
+        "Limites des proches",
+        "Confiance"
+      ],
+      "clinical_focus": "Confiance et limites des proches",
+      "diagnostic_stage": "known",
+      "clinical_intro": "Un proche peut contribuer à un plan individualisé sans garantir la conduite d’une autre personne ni assurer une surveillance permanente. Clarifier ses disponibilités peut susciter une crainte de rejet, mais cette limite n’est pas nécessairement un retrait de confiance. Les responsabilités de soin, de travail et de sécurité doivent rester distinctes et réellement couvertes.",
+      "opening": "Elsa vient relire les coordonnées que Loïc souhaite garder accessibles. Le message destiné à Maud a reçu une réponse ; les contacts de soin restent sur un autre support. Sa sœur vérifie avec lui qu’il comprend à quoi sert chacun, puis elle pose sa propre limite : elle viendra à la brocante plus tard dans la journée. Elle ne sera pas là pendant tout son créneau.\n\nLoïc s’attendait à cette possibilité, mais l’entendre le touche autrement. Il regarde la ligne où son nom doit apparaître près de celui de Nadir. « Tu ne me fais plus confiance ? » Elsa répond qu’elle ne parle pas d’un verdict sur lui. Elle ne peut pas transformer sa présence en condition permanente, ni promettre que sa proximité garantirait quoi que ce soit. Elle veut pouvoir venir comme sa sœur, avec une place définie, pas comme une gardienne.\n\nLoïc se tait un moment. Il avait accepté qu’elle ne soit pas disponible le lendemain de leur appel, mais la brocante concentre davantage d’attentes. Il voudrait être sûr que personne ne l’abandonne au moment de reprendre un rôle. Elsa lui demande quels relais sont réellement prévus, indépendamment d’elle. Ils reprennent les dispositions de soins et la rotation professionnelle. Nadir doit reprendre une tâche de réparateur ; cela ne lui attribue pas la responsabilité d’évaluer chaque état intérieur de Loïc. Cette séparation rend l’organisation moins affective et plus précise.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "La confiance ne remplace pas les protections",
+          "text": "Le soutien relationnel peut être important tout en restant limité par les disponibilités et le rôle de chacun. Dans la vie avec un trouble, une absence peut être entendue comme une désapprobation alors qu’elle indique une limite concrète. Inversement, dire que l’on fait confiance ne garantit pas la sécurité. Loïc et Elsa distinguent leur relation des dispositifs de soin et des responsabilités du comité, sans faire d’un proche le garant personnel de la journée."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment une limite peut-elle être confondue avec un manque de confiance ?",
+          "points": [
+            {
+              "heading": "La présence attendue devient une preuve d’affection",
+              "text": "Une disponibilité particulière peut prendre un sens plus large que ce qui a été convenu.",
+              "examples": [
+                "Loïc entend l’arrivée tardive d’Elsa comme un doute sur lui.",
+                "Il oublie un instant que sa sœur avait toujours des limites de disponibilité."
+              ]
+            },
+            {
+              "heading": "Un proche reçoit une mission impossible",
+              "text": "Être présent n’autorise pas à garantir le contrôle ou à assurer seul la sécurité.",
+              "examples": [
+                "Elsa refuse une fonction de gardienne.",
+                "Elle souhaite participer à la journée comme sa sœur, dans le cadre accepté."
+              ]
+            },
+            {
+              "heading": "Les relais différents sont confondus",
+              "text": "Un appui professionnel de travail et un recours clinique ne répondent pas au même besoin.",
+              "examples": [
+                "Nadir peut reprendre le créneau de réparation.",
+                "Il n’est pas chargé d’évaluer le traitement ou les pensées de Loïc."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour définir un soutien possible sans promesse totale",
+          "points": [
+            {
+              "heading": "Demander une disponibilité concrète",
+              "objective": "Remplacer une attente générale par une proposition vérifiable.",
+              "exercise": [
+                "Nommer le moment ou l’aide souhaités.",
+                "Laisser le proche dire ce qu’il peut réellement offrir.",
+                "Convenir d’une place limitée sans assimiler un refus à une rupture de confiance."
+              ],
+              "benefit": "La relation peut garder une présence consentie plutôt qu’une disponibilité supposée."
+            },
+            {
+              "heading": "Accueillir la limite sans la supprimer",
+              "objective": "Permettre au proche de conserver son périmètre.",
+              "exercise": [
+                "Reformuler ce qu’il a effectivement dit.",
+                "Distinguer la limite pratique de l’interprétation affective qu’on lui prête.",
+                "Chercher les autres relais adaptés avec les responsables concernés, sans lui demander de tout remplacer."
+              ],
+              "benefit": "Le désaccord peut être discuté sans obtenir une promesse impossible sous la pression."
+            },
+            {
+              "heading": "Confirmer chaque rôle séparément",
+              "objective": "Éviter qu’un collègue ou un proche devienne l’unique recours.",
+              "exercise": [
+                "Vérifier la présence du relais de travail et sa tâche précise.",
+                "Garder les contacts cliniques et les réponses de sécurité distincts.",
+                "Revoir l’engagement si une condition essentielle manque plutôt que supposer qu’Elsa comblera l’absence."
+              ],
+              "benefit": "La participation repose sur une organisation réelle, pas sur la bonne volonté d’une seule personne."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Nadir confirme une tâche, Elsa une présence",
+      "ending": "Loïc accepte qu’Elsa arrive plus tard. Nadir confirme son rôle de réparateur relais, avec les horaires à arrêter au comité, sans se charger d’une surveillance personnelle. Les contacts de soins restent séparés. Elsa demande ce que Loïc compte expliquer au public pendant son créneau ; ils peuvent en parler sans transformer chaque phrase en preuve de confiance. Maud pourra maintenant préciser la rotation avec les adultes effectivement disponibles.",
+      "conclusion": "Un soutien peut être réel sans être permanent ni garantir le comportement d’autrui. Loïc distingue la limite d’Elsa, le relais de Nadir et le recours aux soins. La confiance conserve une place relationnelle, tandis que les conditions concrètes restent à vérifier.",
+      "mirror": [
+        "Elsa peut maintenir : « Je viendrai plus tard comme prévu ; je ne peux pas être présente toute la journée. » Elle peut entendre la déception de Loïc sans promettre aussitôt une surveillance. Nadir reste un collègue relais. Si une situation est dangereuse, ils se mettent à distance et sollicitent responsables et secours adaptés au lieu de tenter de maîtriser Loïc eux-mêmes."
+      ],
+      "sources": [
+        "oms-cddr",
+        "fip-mo-2018"
+      ],
+      "continuity": {
+        "choice": "Loïc accepte l’absence d’Elsa sur une partie de la journée ; Nadir confirme uniquement son rôle de réparateur relais. Les contacts de soins restent séparés.",
+        "next": "Le comité peut maintenant arrêter les tâches compatibles et leurs responsables."
+      }
+    },
+    {
+      "number": 9,
+      "slug": "loic-prevention-contexte",
+      "title": "Pyromanie : une participation dépend de conditions réellement réunies",
+      "description": "Maud organise la rotation des adultes. Loïc renonce à une tâche incompatible avec son cadre de suivi et confirme un rôle limité.",
+      "context": "Au comité, autour de la fiche de créneaux",
+      "topics": [
+        "Pyromanie",
+        "Prévention individualisée",
+        "Conditions de participation"
+      ],
+      "clinical_focus": "Prévention adaptée au contexte",
+      "diagnostic_stage": "known",
+      "clinical_intro": "Une adaptation de participation se construit à partir d’une situation et d’une évaluation individuelles. Les rôles, les relais et les limites doivent correspondre à ce qui sera réellement possible, sans être présentés comme un protocole valable pour tous. Un accord d’organisation ne certifie ni l’absence de risque ni l’efficacité d’un traitement.",
+      "opening": "Maud a imprimé une nouvelle fiche. Les noms ne sont plus accompagnés de promesses vagues comme passer un moment ou être dans le coin. Chaque adulte indique le créneau qu’il peut réellement tenir. Nadir retrouve Loïc autour de la table et précise quand il pourra prendre la suite. L’arrivée plus tardive d’Elsa figure dans leurs échanges personnels ; elle n’est pas utilisée pour combler une case vide du comité.\n\nUne tâche supplémentaire reste à attribuer. Loïc commence à dire qu’il peut s’en occuper, puis reprend sa phrase. Elle ne correspond pas au cadre travaillé avec l’équipe. Il n’a pas besoin d’en détailler le contenu pour le reconnaître. « Celle-là, je ne la prends pas. Je reste sur ce que nous avons convenu. » Maud cherche un autre adulte et inscrit son nom après confirmation.\n\nLoïc ressent un mélange de soulagement pratique et de gêne. Il aimerait contribuer plus largement, sans devoir chaque fois rappeler une limite. Nadir lui montre pourtant que leur rotation ne fonctionnerait pas mieux avec une disponibilité qu’il ne peut pas garantir. Ils vérifient la tâche de réparation retenue, le moment de la passation et la manière de suspendre sa participation si les conditions changent. Maud garde ses procédures de coordination et de sécurité générale. Aucun des trois ne transforme la fiche en attestation clinique ; chacun confirme seulement les responsabilités qu’il peut assumer.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Une condition prévue doit aussi être réalisable",
+          "text": "Un plan individualisé peut comporter des adaptations d’activité qui demandent une coordination concrète. Leur présence sur une feuille ne suffit pas si le relais est absent ou si la tâche change. Pour Loïc, le cadre a été travaillé avec l’équipe, puis traduit en responsabilités de comité. Ces dispositions visent l’organisation de sa participation et restent révisables ; elles ne constituent pas une méthode autonome de traitement ni une assurance de risque nul."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment une organisation peut-elle devenir seulement théorique ?",
+          "points": [
+            {
+              "heading": "Une disponibilité reste imprécise",
+              "text": "Une intention d’aider n’établit pas qu’un relais pourra effectivement tenir sa tâche.",
+              "examples": [
+                "La nouvelle fiche remplace être dans le coin par un créneau confirmé.",
+                "Nadir indique le moment où il pourra reprendre."
+              ]
+            },
+            {
+              "heading": "Le rôle s’élargit sans nouvelle discussion",
+              "text": "Une tâche ajoutée peut sortir du cadre déjà convenu.",
+              "examples": [
+                "Loïc propose presque de prendre une responsabilité supplémentaire.",
+                "Il s’arrête lorsqu’il reconnaît qu’elle ne correspond pas aux dispositions travaillées."
+              ]
+            },
+            {
+              "heading": "La limite devient une gêne à cacher",
+              "text": "Le souhait d’être utile peut pousser à promettre davantage que ce qui est possible.",
+              "examples": [
+                "Loïc aimerait ne pas avoir à rappeler sa restriction.",
+                "Maud attribue pourtant la tâche à un autre adulte plutôt que compter sur une promesse incertaine."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour vérifier une organisation avant de s’engager",
+          "points": [
+            {
+              "heading": "Confirmer les responsabilités",
+              "objective": "Passer d’une intention générale à des rôles compris.",
+              "exercise": [
+                "Nommer la tâche que chaque adulte accepte.",
+                "Vérifier que les horaires et limites sont compris par les personnes concernées.",
+                "Conserver une version commune de la répartition sans y joindre les notes de santé."
+              ],
+              "benefit": "Une responsabilité explicite peut réduire les malentendus sans transférer le suivi clinique au comité."
+            },
+            {
+              "heading": "Vérifier le relais réel",
+              "objective": "Ne pas dépendre d’une présence supposée.",
+              "exercise": [
+                "Demander au collègue de confirmer sa disponibilité effective.",
+                "Préciser quelle tâche lui sera transmise.",
+                "Revoir l’organisation si sa présence change au lieu d’ajouter une surveillance familiale improvisée."
+              ],
+              "benefit": "La passation peut être préparée avec une personne qui l’a réellement acceptée."
+            },
+            {
+              "heading": "Renoncer lorsque le cadre manque",
+              "objective": "Garder les limites de participation applicables.",
+              "exercise": [
+                "Comparer la tâche proposée aux dispositions convenues avec l’équipe.",
+                "Signaler ce qui ne correspond plus au cadre ou reste non confirmé.",
+                "Suspendre ou refuser l’engagement concerné et laisser le responsable le réattribuer."
+              ],
+              "benefit": "La limite reste une décision concrète ; elle n’est pas remplacée par un essai destiné à prouver sa maîtrise."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Un nom confirmé, une tâche laissée à un autre",
+      "ending": "Maud confirme le créneau de réparation avec Nadir, sous réserve du maintien des conditions convenues. Loïc laisse la tâche supplémentaire à l’adulte qui l’a acceptée. Il peut se réjouir d’avoir une place précise, sans prétendre que la fiche règle toute question de santé. Avant la dernière préparation, il remarque toutefois que des préoccupations reprennent de la place. Il prévoit de les signaler avant de décider de sa présence.",
+      "conclusion": "Une adaptation utile doit correspondre aux personnes et aux tâches réellement disponibles. Loïc confirme un rôle limité et renonce à ce qui sort du cadre travaillé. La participation garde des conditions révisables, sans transformer l’organisation en preuve clinique.",
+      "mirror": [
+        "Nadir peut dire : « Je reprends ce créneau à l’heure convenue ; si cela change, nous en informons Maud. » Il ne promet pas de surveiller Loïc ni de garantir sa sécurité individuelle. Maud accepte qu’une tâche soit refusée et la réattribue. Les procédures du lieu restent celles du comité, avec les secours compétents si un danger immédiat l’exige."
+      ],
+      "sources": [
+        "oms-cddr",
+        "fip-mo-2018"
+      ],
+      "continuity": {
+        "choice": "Un créneau de réparation avec Nadir est confirmé sous réserve des conditions convenues. Loïc se réjouit, puis observe une réapparition de préoccupations avant la dernière préparation.",
+        "next": "Cette fluctuation sera discutée avant toute décision de participation."
+      }
+    },
+    {
+      "number": 10,
+      "slug": "loic-fluctuation-reevaluation",
+      "title": "Pyromanie : le retour d’une difficulté demande un ajustement",
+      "description": "Des préoccupations reviennent avant la brocante. Loïc suspend une préparation, contacte l’équipe et laisse Maud réattribuer la tâche.",
+      "context": "Quelques jours avant la démonstration",
+      "topics": [
+        "Pyromanie",
+        "Évolution fluctuante",
+        "Réévaluation"
+      ],
+      "clinical_focus": "Évolution fluctuante sans fatalité",
+      "diagnostic_stage": "known",
+      "clinical_intro": "Les connaissances sur l’évolution à long terme de la pyromanie restent limitées. Une période plus calme ne garantit pas la disparition durable des difficultés, et le retour de préoccupations n’équivaut pas automatiquement à un nouvel acte. Transmettre un changement permet une réévaluation et un ajustement des engagements, sans conclure à un échec moral ou à une fatalité.",
+      "opening": "Loïc regarde la fiche reçue de Maud. La dernière préparation est prévue dans quelques jours, juste avant la brocante. Plusieurs semaines avaient été plus calmes et il avait commencé à considérer la rotation comme presque acquise. Depuis peu, des préoccupations reprennent de la place. Il les reconnaît sans en tirer seul une conclusion sur tout ce qui pourrait suivre. Cette fois, il n’attend pas la réunion pour les signaler.\n\nIl utilise le contact de l’équipe et décrit le changement. Il précise aussi l’engagement qui approche. Selon le cadre de prévention, il suspend sa présence à cette dernière préparation et prévient Maud immédiatement. Elle réattribue la tâche au comité. Il n’ajoute pas qu’il passera plus tard pour terminer discrètement ce qui aurait dû lui revenir.\n\nLa suspension le déçoit. Elle peut ressembler, à ses yeux, à la répétition exacte de la première réunion manquée. Pourtant, quelque chose diffère : il a transmis l’information avant que le travail ne soit déjà engagé, et quelqu’un sait réellement qu’il reprend. Loïc ne veut ni célébrer cela comme une guérison ni le considérer comme inutile parce qu’une difficulté est revenue. Il attend l’échange clinique pour revoir les conditions de participation. La question qui l’accompagne est plus précise : sur quoi les soins peuvent-ils s’appuyer lorsqu’ils ne promettent pas une progression régulière ?",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Une fluctuation ne résume pas tout le parcours",
+          "text": "Une difficulté qui revient appelle une appréciation de la situation présente. Elle ne suffit pas à conclure à un nouvel acte, à l’inefficacité de tout accompagnement ou à une incapacité définitive de participer. Les données d’évolution disponibles restent limitées. Chez Loïc, le retour des préoccupations conduit à une transmission et une révision du plan, plutôt qu’à un calendrier automatique de reprise ou à une décision fondée sur la honte."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment un retour de préoccupations peut-il bouleverser les attentes ?",
+          "points": [
+            {
+              "heading": "Une période calme avait nourri une certitude",
+              "text": "L’amélioration vécue peut devenir une garantie implicite sur l’avenir.",
+              "examples": [
+                "Loïc considérait presque son créneau comme acquis.",
+                "Le changement lui rappelle que la confirmation restait conditionnelle."
+              ]
+            },
+            {
+              "heading": "Une difficulté est assimilée à un échec total",
+              "text": "La déception peut effacer les démarches réellement réalisées.",
+              "examples": [
+                "Loïc pense d’abord à la première réunion interrompue.",
+                "Il oublie un instant qu’il a cette fois prévenu avant la préparation et obtenu un relais réel."
+              ]
+            },
+            {
+              "heading": "Une tâche pourrait être rattrapée en cachette",
+              "text": "La volonté de compenser peut remettre en cause la suspension décidée.",
+              "examples": [
+                "Loïc pourrait être tenté de finir seul plus tard.",
+                "Il laisse au contraire Maud attribuer entièrement la préparation au comité."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour répondre au changement sans conclure trop vite",
+          "points": [
+            {
+              "heading": "Transmettre ce qui a changé",
+              "objective": "Fournir des éléments actuels au suivi.",
+              "exercise": [
+                "Décrire le retour de la difficulté sans lui ajouter un acte ou une cause supposés.",
+                "Indiquer les engagements proches qui peuvent être concernés.",
+                "Utiliser le contact adapté à la situation plutôt que d’attendre une échéance par habitude."
+              ],
+              "benefit": "L’équipe peut reprendre les besoins réels au lieu de se fier uniquement à la période précédente."
+            },
+            {
+              "heading": "Suivre la réévaluation du plan",
+              "objective": "Relier les décisions aux indications actualisées.",
+              "exercise": [
+                "Participer à l’échange prévu avec l’équipe.",
+                "Faire préciser les adaptations et les conditions encore nécessaires.",
+                "Maintenir la possibilité de suspendre l’activité si ces conditions ne sont pas réunies."
+              ],
+              "benefit": "La suite reste individualisée ; aucune période calme ne devient un certificat de risque nul."
+            },
+            {
+              "heading": "Laisser le relais assumer la tâche",
+              "objective": "Ne pas annuler discrètement la décision de retrait.",
+              "exercise": [
+                "Confirmer au responsable que l’on ne prend pas l’engagement suspendu.",
+                "Vérifier qu’il a effectivement été réattribué.",
+                "Ne pas le rattraper seul pour compenser la déception ou rassurer les autres."
+              ],
+              "benefit": "Le retrait a un effet réel dans l’organisation et ne se réduit pas à une annonce sans conséquence."
+            }
+          ]
+        }
+      ],
+      "ending_title": "La préparation est réellement reprise par le comité",
+      "ending": "L’échange clinique a lieu et le plan est révisé. La participation envisagée pour la démonstration reste plus courte, sous les conditions discutées ; elle sera reconfirmée avant la journée. La dernière préparation est prise par le comité et Loïc ne la rattrape pas seul. Il demande un temps supplémentaire à la docteure Perrin pour comprendre la portée des recherches et les objectifs de son accompagnement. Il veut savoir ce qu’il peut en attendre sans demander une garantie impossible.",
+      "conclusion": "Le retour d’une difficulté demande un ajustement, pas une condamnation du parcours. Loïc transmet le changement, suit la réévaluation et laisse la tâche suspendue à son relais. La participation future reste à confirmer selon sa situation, sans calendrier automatique ni fatalité.",
+      "mirror": [
+        "Maud peut confirmer : « La préparation est attribuée ; tu n’as pas à venir la finir plus tard. » Elsa peut reconnaître la déception sans conclure que tout recommence à zéro. Les proches ne déduisent pas un acte du seul retour d’une préoccupation et ne remplacent pas l’évaluation. En cas de danger immédiat, la protection et les secours compétents restent prioritaires."
+      ],
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "hra-fip-mo-longitudinal"
+      ],
+      "continuity": {
+        "choice": "Après échange clinique, le plan est révisé et le créneau reste plus court. La tâche annulée n’est pas rattrapée seul ; Loïc demande sur quoi les soins peuvent réellement s’appuyer.",
+        "next": "La consultation suivante distingue ce que montrent les recherches de ce qu’elles ne prouvent pas."
+      }
+    },
+    {
+      "number": 11,
+      "slug": "loic-soins-preuves-limitees",
+      "title": "Pyromanie : comprendre ce que les soins peuvent promettre",
+      "description": "Loïc demande une garantie à son équipe. La consultation distingue les résultats de recherche, leurs limites et les objectifs de son suivi.",
+      "context": "Une consultation avant la journée de démonstration",
+      "topics": [
+        "Pyromanie",
+        "Soins spécialisés",
+        "Limites des preuves"
+      ],
+      "clinical_focus": "Soins spécialisés et preuves limitées",
+      "diagnostic_stage": "known",
+      "clinical_intro": "Des recherches sur des interventions spécialisées auprès d’auteurs d’incendies rapportent certains changements psychologiques. Leurs populations et leurs méthodes ne permettent pas d’en déduire une garantie individuelle ni une efficacité spécifique démontrée pour toute pyromanie. Discuter des objectifs du suivi avec l’équipe aide à comprendre ce qui est recherché, ce qui reste incertain et les protections à maintenir.",
+      "opening": "Loïc a inscrit sa question en haut de la page : « Si je fais tout correctement, est-ce que cela ne reviendra plus ? » Il l’a trouvée trop directe, puis a décidé de la garder. La dernière préparation a été reprise par le comité. Son plan a été révisé et sa participation envisagée est plus courte. Il veut comprendre ce que ces décisions et son accompagnement permettent réellement d’attendre.\n\nLa docteure Perrin ne lui répond pas par une garantie. Elle reprend les objectifs de son suivi et les limites des recherches dont ils peuvent discuter. Des études concernent des personnes ayant provoqué des incendies, dans des établissements particuliers. Elles observent notamment des changements dans des mesures psychologiques. Cela ne signifie pas que toutes ces personnes ont le même diagnostic que lui, ni qu’un résultat de groupe prédit sa propre trajectoire.\n\nLoïc écoute, puis demande si reconnaître ces limites revient à dire qu’il n’y a rien à faire. La docteure distingue cette conclusion de l’incertitude réelle. Ils peuvent travailler sur ses difficultés, réévaluer la situation et garder des protections sans prétendre posséder une certitude définitive. Loïc regarde la phrase du haut. Il cherchait presque une consigne qui lui permettrait de réussir son suivi comme on termine une tâche. Il veut maintenant choisir avec l’équipe un objectif qu’ils pourront examiner concrètement, sans transformer la brocante du lendemain en examen de guérison.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Des résultats de groupe ne garantissent pas un parcours individuel",
+          "text": "La portée d’une étude dépend de sa population, de la comparaison utilisée et des résultats mesurés. Les évaluations consultées de programmes spécialisés ont été réalisées en milieu psychiatrique médico-légal ou en prison, sans répartition aléatoire. Elles rapportent des améliorations de certains scores, qui ne prouvent pas à elles seules une réduction durable des actes ni une efficacité propre à la pyromanie isolée. L’équipe de Loïc doit donc discuter ses objectifs et besoins individuels plutôt que lui promettre un résultat automatique."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment l’attente d’une garantie peut-elle compliquer le suivi ?",
+          "points": [
+            {
+              "heading": "Suivre correctement devient la promesse de ne plus rien ressentir",
+              "text": "Une démarche de soin peut être comprise comme un contrat de résultat individuel.",
+              "examples": [
+                "Loïc demande si tout faire correctement empêchera toute nouvelle difficulté.",
+                "Il risque de lire une fluctuation future comme une faute dans son suivi."
+              ]
+            },
+            {
+              "heading": "Un résultat mesuré est pris pour une sécurité certaine",
+              "text": "Une amélioration psychologique évaluée ne répond pas à toutes les questions comportementales.",
+              "examples": [
+                "La docteure distingue les scores étudiés et l’évolution réelle à long terme.",
+                "La journée de brocante ne peut pas vérifier à elle seule l’efficacité d’un traitement."
+              ]
+            },
+            {
+              "heading": "La limite des connaissances ressemble à une absence d’aide",
+              "text": "Reconnaître une incertitude peut susciter du découragement si les objectifs restent flous.",
+              "examples": [
+                "Loïc demande si cela signifie qu’il n’y a rien à faire.",
+                "L’équipe revient à ce qui peut être travaillé et réévalué dans son accompagnement."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour discuter des objectifs et des limites du suivi",
+          "points": [
+            {
+              "heading": "Poser la question que l’on attend du soin",
+              "objective": "Faire apparaître une attente de garantie ou une incompréhension.",
+              "exercise": [
+                "Dire ce que l’on espère obtenir de l’accompagnement.",
+                "Demander ce que les données et l’évaluation individuelle permettent réellement d’affirmer.",
+                "Faire reformuler la distinction entre résultat observé et promesse personnelle."
+              ],
+              "benefit": "L’échange peut éviter qu’une attente implicite devienne une mesure de culpabilité."
+            },
+            {
+              "heading": "Choisir un objectif observable avec l’équipe",
+              "objective": "Garder un travail concret malgré les incertitudes.",
+              "exercise": [
+                "Identifier avec le professionnel un comportement de suivi ou de recours utile dans sa situation.",
+                "Préciser comment il sera discuté lors du prochain point.",
+                "Ne pas en déduire un droit automatique d’élargir ses activités ou d’arrêter les protections."
+              ],
+              "benefit": "Un objectif défini peut rendre le travail compréhensible sans garantir la disparition du trouble."
+            },
+            {
+              "heading": "Maintenir les dispositions de prévention",
+              "objective": "Ne pas remplacer le plan par une conviction sur l’efficacité du soin.",
+              "exercise": [
+                "Reprendre les conditions actuellement convenues.",
+                "Vérifier avec les personnes concernées que les relais existent réellement.",
+                "Conserver le recours adapté aux changements et aux urgences, même après une période satisfaisante."
+              ],
+              "benefit": "La sécurité et le suivi restent actifs sans dépendre d’un succès supposé ou d’un score isolé."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Un objectif qui ne sert pas de certificat",
+      "ending": "Loïc retient avec l’équipe l’objectif d’utiliser le relais prévu et de transmettre les changements, plutôt que de prouver une guérison à travers sa présence. Les conditions du créneau bref sont revues pour le lendemain. Maud et Nadir reconfirment ensuite leur présence et l’organisation pratique, avec une possibilité réelle de retrait. Loïc garde la date du prochain suivi ; accomplir la démonstration ne le fera pas disparaître de son agenda.",
+      "conclusion": "Les limites des recherches n’autorisent ni une garantie ni une conclusion de fatalité. Loïc comprend mieux les objectifs discutés avec son équipe et conserve les protections convenues. Son projet de participation reste concret, sans devenir la preuve d’un traitement réussi.",
+      "mirror": [
+        "Elsa peut demander : « Qu’as-tu retenu comme objectif avec l’équipe ? » Elle n’a pas à promettre que suivre parfaitement les soins empêchera toute difficulté, ni à conclure que l’incertitude rend le suivi inutile. Maud et Nadir confirment seulement leurs rôles pratiques. Aucun proche n’utilise la journée comme un test de guérison ou une certification d’absence de risque."
+      ],
+      "sources": [
+        "oms-cddr",
+        "fip-mo-2018",
+        "fipp-2015",
+        "hra-fip-mo-longitudinal"
+      ],
+      "continuity": {
+        "choice": "Loïc retient comme objectif d’utiliser le relais prévu plutôt que de prouver sa guérison. Maud et Nadir reconfirment la présence et l’organisation du lendemain.",
+        "next": "La journée peut se dérouler dans ces conditions effectivement vérifiées, avec possibilité réelle de retrait."
+      }
+    },
+    {
+      "number": 12,
+      "slug": "loic-participation-suivi-maintenu",
+      "title": "Pyromanie : tenir un rôle choisi tout en gardant le suivi",
+      "description": "À la brocante, Loïc accomplit le créneau convenu puis passe la suite à Nadir. La participation a lieu sans devenir une preuve de guérison.",
+      "context": "La journée de démonstration de la brocante",
+      "topics": [
+        "Pyromanie",
+        "Participation",
+        "Continuité du suivi"
+      ],
+      "clinical_focus": "Participation choisie et suivi maintenu",
+      "diagnostic_stage": "known",
+      "clinical_intro": "Participer à un projet dans des conditions individualisées peut compter dans la vie d’une personne suivie pour pyromanie. Un créneau accompli ne prouve pas une absence durable de difficulté ou de risque. Le partage effectif des responsabilités et la continuité du suivi permettent de reconnaître cette participation sans la transformer en épreuve clinique.",
+      "opening": "Nadir est déjà présent lorsque Loïc arrive. Maud vérifie la rotation des adultes et confirme que l’organisation retenue la veille est bien en place. Le créneau reste bref, avec la possibilité de se retirer selon les dispositions convenues. Loïc ne récupère pas la préparation annulée ni la tâche supplémentaire qu’un autre membre du comité a prise. La fiche montre clairement ce qui lui appartient aujourd’hui.\n\nIl tient son rôle de réparateur dans la présentation adaptée. Un visiteur lui demande comment il a choisi entre réparer et remplacer. Loïc explique les éléments qui ont guidé son travail, puis montre le résultat, sans transformer l’échange en démonstration improvisée hors du cadre prévu. Il retrouve le plaisir de rendre une décision compréhensible. Une question l’amuse : « Les notices, vous les lisez vraiment ? » Il répond que certaines gagneraient surtout à être rangées au bon endroit.\n\nÀ l’heure convenue, il passe la fiche à Nadir. Son collègue prend effectivement la suite. Loïc n’ajoute pas un second créneau pour prouver qu’il aurait pu faire davantage. Maud poursuit la coordination du lieu. Elsa arrivera plus tard, comme elle l’avait annoncé ; l’organisation n’a pas reposé sur sa présence pendant toute la matinée. Loïc regarde la place qu’il vient de quitter. Il a participé à cette journée et il peut s’arrêter. Ces deux faits n’ont pas besoin de devenir un verdict sur tout son avenir.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Un résultat de vie ne remplace pas une évaluation clinique",
+          "text": "Une participation accomplie est un fait important qui peut être reconnu pour lui-même. Elle ne démontre pas que le trouble a disparu ni que les appuis sont devenus inutiles. Chez Loïc, les conditions ont été révisées avec l’équipe puis confirmées dans l’organisation réelle. Le passage à Nadir fait partie du projet, autant que le temps de présentation. Le bilan pratique et le suivi clinique restent distincts, avec leurs questions propres."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment une participation choisie garde-t-elle ses limites ?",
+          "points": [
+            {
+              "heading": "Le rôle est réellement tenu",
+              "text": "L’adaptation laisse une contribution identifiable, au lieu de réduire la personne à sa difficulté.",
+              "examples": [
+                "Loïc explique une décision de réparation au visiteur.",
+                "Il répond dans le cadre convenu, sans ajouter une démonstration improvisée."
+              ]
+            },
+            {
+              "heading": "La passation a lieu comme prévu",
+              "text": "Un relais n’est réel que lorsqu’une autre personne prend effectivement la suite.",
+              "examples": [
+                "Loïc transmet la fiche à l’heure fixée.",
+                "Nadir assume le créneau suivant plutôt que rester simplement à proximité."
+              ]
+            },
+            {
+              "heading": "La réussite ne supprime pas les appuis",
+              "text": "Une journée satisfaisante ne permet pas d’inférer une sécurité durable.",
+              "examples": [
+                "Loïc ne prolonge pas son rôle pour prouver davantage de maîtrise.",
+                "Le rendez-vous de suivi reste prévu après la brocante."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour reconnaître la participation et garder sa continuité",
+          "points": [
+            {
+              "heading": "Respecter la rotation convenue",
+              "objective": "Donner au relais la même réalité qu’au temps de participation.",
+              "exercise": [
+                "Vérifier les conditions et présences avant de commencer.",
+                "Rester dans le rôle et la durée discutés.",
+                "Transmettre effectivement la tâche au relais prévu ou suspendre si le cadre manque."
+              ],
+              "benefit": "L’organisation tient compte des limites sans demander une démonstration supplémentaire en fin de créneau."
+            },
+            {
+              "heading": "Faire un bilan factuel avec les bons interlocuteurs",
+              "objective": "Reconnaître ce qui a eu lieu sans en tirer un verdict global.",
+              "exercise": [
+                "Décrire au comité la tâche accomplie et la passation.",
+                "Réserver à l’équipe clinique les changements ou questions de santé.",
+                "Distinguer un ajustement pratique d’une conclusion sur l’évolution du trouble."
+              ],
+              "benefit": "Le projet peut être apprécié sans diffuser le carnet ni confondre réussite sociale et guérison."
+            },
+            {
+              "heading": "Conserver le prochain point de suivi",
+              "objective": "Ne pas faire disparaître les soins après une activité satisfaisante.",
+              "exercise": [
+                "Garder le rendez-vous convenu et les contacts accessibles.",
+                "Préparer les observations utiles sans inventer de certitude à partir de la journée.",
+                "Revoir avec l’équipe les besoins futurs et maintenir les réponses adaptées aux changements ou urgences."
+              ],
+              "benefit": "La continuité permet d’ajuster le cadre sans promettre que chaque prochaine activité se déroulera de la même façon."
+            }
+          ]
+        }
+      ],
+      "ending_title": "La fiche passe, les notices restent à classer",
+      "ending": "Nadir termine le créneau suivant et Maud conserve la fiche collective. Loïc confirme son prochain rendez-vous de suivi. Lorsque Elsa arrive, il peut lui raconter la question sur les notices, sans lui demander de certifier ce que la matinée signifierait pour sa santé. Il repart avec les documents de l’atelier à ranger. Le rôle de réparateur a été tenu et transmis ; ce projet ordinaire de classement l’attend après la brocante, avec un accompagnement qui continue.",
+      "conclusion": "La journée a permis à Loïc de participer dans un rôle choisi et de laisser réellement la suite à Nadir. Ce résultat garde sa valeur sans garantir l’avenir. Le métier, les projets et le suivi continuent avec des responsabilités et des limites révisables.",
+      "mirror": [
+        "Nadir peut recevoir la fiche et prendre la suite sans demander à Loïc de prolonger pour montrer qu’il va bien. Elsa peut s’intéresser à l’échange avec le visiteur plutôt qu’à un verdict de guérison. Maud garde la coordination du lieu. Chacun reconnaît la participation accomplie tout en conservant les responsabilités, les limites et les recours de sécurité nécessaires."
+      ],
+      "sources": [
+        "oms-cddr",
+        "fip-mo-2018",
+        "hra-fip-mo-longitudinal"
+      ],
+      "continuity": {
+        "choice": "Le rôle de réparateur lors de la démonstration est effectivement tenu et transmis. Loïc confirme son rendez-vous de suivi puis repart avec les notices à classer : ce projet ordinaire continuera après la fête.",
+        "next": "Clore l’enjeu de la brocante sans guérison annoncée ; la perspective reste celle de son métier et d’un accompagnement qui continue."
+      }
     }
   ]
 }

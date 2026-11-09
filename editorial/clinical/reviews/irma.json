@@ -1,0 +1,124 @@
+{
+  "schema_version": 1,
+  "character_id": "irma",
+  "reviewer": "review_irma",
+  "reviewed_on": "2026-11-09",
+  "summary": "Relecture indépendante des douze épisodes réalisée intégralement lors de la remise précédente : ouvertures, sections, techniques, dénouements et proches examinés, avec canon, plan et sources primaires. La correction documentaire demandée est maintenant vérifiée : le titre NICE et le point clinique du dossier citent 1.1.3 pour la situation personnelle et 1.1.4 pour les préférences, conformément à la page officielle. Le plan et le manuscrit sont strictement identiques aux octets intégralement relus ; leur continuité en douze épisodes et les conséquences de la correction ont été réexaminées. Les limites générales britanniques et l’absence de protocole spécifique ou de règle française sont conservées. Aucun point ouvert ; les petites études ne deviennent ni garantie thérapeutique ni prescription, les conséquences ne sont pas effacées et les proches gardent leurs limites.",
+  "files": {
+    "editorial/clinical/designs/irma.json": "0c03eb655dc681972b67afdafefea45ceb65702106064040cdad55f94e5dd4e3",
+    "editorial/clinical/dossiers/irma.json": "8627d9646713148f03ae681e0db91c5603045e5e542c0a47622f7fe7e2e1a6b4",
+    "editorial/clinical/irma.json": "3bc96a2c0058c6d7a0804e406f841cf03824882e64c9f59219b36c165c4a1220"
+  },
+  "status": "passed",
+  "findings": [],
+  "episode_checks": [
+    {
+      "number": 1,
+      "focus": "La tension avant l’impulsion",
+      "opening_quote": "Irma relit pour la troisième fois la réponse destinée à Joëlle. L’enseignante voudrait amener sa classe au studio de sérigraphie dans environ six semaines. Une date, un horaire, le nombre de places : le courriel devrait tenir en quelques lignes. À trente-neuf ans, Irma a déjà animé des ateliers de quartier, mais cette première classe lui donne envie de préparer les choses avec soin. Le classeur orange attend les réservations et le plan d’accès ordinaire au matériel.",
+      "ending_quote": "Après le contact avec Mme Faure et la pause, Irma retrouve le brouillon vérifié par Maud.",
+      "continuity_note": "Le courriel à Joëlle part après la pause ; proposition de date et rendez-vous sont repris en 2. Classeur de réservations distinct du carnet de santé.",
+      "clinical_note": "La relecture répétée du courriel rend visible le coût attentionnel de la tension ; impulsion et acte restent séparés. Les trois exercices préparent communication et partage du travail sans traitement promis.",
+      "relatives_note": "Maud vérifie les horaires sans demander le diagnostic ; le proche informé encourage le suivi sans promesse absolue."
+    },
+    {
+      "number": 2,
+      "focus": "Une impulsion sans besoin matériel",
+      "opening_quote": "Irma a apporté son classeur orange au rendez-vous parce qu’elle sort directement du studio. Le budget de la classe est rangé dans la poche de devant. Joëlle a accepté la date proposée ; il reste à confirmer la durée et quelques détails d’organisation. Irma a fait ses calculs, avec une marge pour les fournitures ordinaires de l’atelier. Sur ce point, elle sait ce qu’elle peut prévoir.",
+      "ending_quote": "De retour au studio, Irma termine le budget et le transmet à Maud.",
+      "continuity_note": "Joëlle a accepté la date de 1 ; budget terminé puis transmis à Maud, consultation suivante explicitement consacrée à l’après-acte.",
+      "clinical_note": "L’absence de besoin matériel est distinguée de la valeur ou de l’usage possible des objets, conformément aux CDDR. Le budget ne devient pas thérapie ; aucune cible ni méthode mentionnée.",
+      "relatives_note": "Salomé reformule le décalage sans chercher un motif caché ou défendre les actes ; Maud reste sur les comptes."
+    },
+    {
+      "number": 3,
+      "focus": "Le soulagement qui ne dure pas",
+      "opening_quote": "La feuille qu’Irma sort de son carnet personnel ne ressemble pas au budget de la classe. Elle porte quelques mots écrits après le dernier rendez-vous : tension, bref relâchement, puis inquiétude. Elle veut parler d’un acte antérieur au début des préparatifs. Les démarches concernant ses conséquences sont déjà engagées avec les interlocuteurs compétents. Mme Faure et elle se concentrent aujourd’hui sur le vécu qu’Irma essaie de nommer.",
+      "ending_quote": "Irma laisse à Mme Faure la note qu’elles ont commentée et convient de poursuivre ce travail.",
+      "continuity_note": "Un acte antérieur seul est évoqué ; démarches déjà engagées maintenues. Irma rejoint le repas qui se poursuit en 4.",
+      "clinical_note": "Le relâchement très bref est décrit sobrement, sans reconstitution ni séduction. Les appuis structurent une question clinique ; regret et responsabilité ne sont pas effacés.",
+      "relatives_note": "Salomé accepte de ne pas détailler l’acte pour partager le repas, avec limite d’écoute et sans pardon demandé aux personnes lésées."
+    },
+    {
+      "number": 4,
+      "focus": "La honte après les actes",
+      "opening_quote": "Salomé pose deux assiettes sur la table et fait glisser son téléphone vers Irma. Le comité du quartier hésite entre plusieurs affiches pour annoncer une rencontre. Elle voudrait son avis sur les couleurs. D’habitude, Irma aurait repéré en quelques secondes une lettre illisible ou un contraste trop faible. Elle connaît ce plaisir de discuter une affiche sans y passer la soirée.",
+      "ending_quote": "Irma reprend le téléphone.",
+      "continuity_note": "Téléphone et affiches prolongent le repas ; une heure la semaine suivante est proposée, puis effectivement réalisée en 9.",
+      "clinical_note": "Le refus de commenter les couleurs montre un jugement global sur soi, distinct de l’impulsion et de la question relationnelle de 9. Compétence préservée ne signifie pas innocence.",
+      "relatives_note": "La phrase sur l’avis d’affiche permet un lien ordinaire ; Salomé ne promet ni absolution ni disponibilité totale."
+    },
+    {
+      "number": 5,
+      "focus": "Les contextes émotionnels difficiles",
+      "opening_quote": "Le message de Joëlle arrive au moment où Maud range ses affaires. Un changement de transport oblige la classe à venir plus tôt que prévu. La date reste la même, mais l’accueil doit être avancé. Irma avait justement fini de reporter les réservations dans le classeur orange. Elle trouve le contretemps agaçant et demande à Maud si elles peuvent regarder ensemble le planning le lendemain. Sa collègue doit partir maintenant ; elle confirme qu’elles en reparleront.",
+      "ending_quote": "Irma confirme à Maud le temps de travail du lendemain et répond à Joëlle qu’une nouvelle proposition d’horaire va suivre.",
+      "continuity_note": "La date reste fixe tandis que l’horaire avance ; Maud part et le planning est explicitement reporté au lendemain, repris en 6.",
+      "clinical_note": "Solitude, contrariété et impulsion coexistent sans causalité déduite. La comparaison proposée porte sur un souvenir, jamais une exposition ou un test volontaire.",
+      "relatives_note": "Maud peut maintenir son départ ; Salomé ne désigne pas un déclencheur certain et ne surveille pas les contretemps."
+    },
+    {
+      "number": 6,
+      "focus": "Des signaux parfois peu perceptibles",
+      "opening_quote": "Maud a déjà sorti la grille de réservation quand Irma arrive au bureau. Elles doivent vérifier que le nouvel horaire de la classe laisse assez de temps pour l’accueil et le rangement ordinaire de l’atelier. Irma pose le classeur orange sur la table, puis retrouve dans son carnet personnel les quelques mots notés la veille. Elle veut préparer sa question à Mme Faure avant de reprendre le travail.",
+      "ending_quote": "Irma et Maud terminent la nouvelle grille et l’envoient à Joëlle.",
+      "continuity_note": "Grille terminée avec Maud puis envoyée ; note incomplète réellement présentée en consultation, préparant la réflexion sur le partage en 7.",
+      "clinical_note": "La limite de perception n’est pas assimilée à une amnésie ou dissociation. La case inconnue protège la description contre une fausse précision ; aucun questionnaire diagnostique.",
+      "relatives_note": "Collègue limitée au planning et amie sans reconstruction des pensées ; elles accueillent une incertitude sans devenir évaluatrices."
+    },
+    {
+      "number": 7,
+      "focus": "Le secret qui retarde la parole",
+      "opening_quote": "Irma a écrit puis effacé trois débuts de message à Salomé. La première phrase disait que tout allait bien, ce qui ne correspondait pas à ce qu’elle voulait partager. La deuxième ressemblait à un long compte rendu de consultation. La troisième demandait seulement si son amie avait un moment, mais Irma craignait qu’elle s’inquiète sans comprendre ce qu’elle attendait.",
+      "ending_quote": "Salomé accepte de retrouver Irma après sa prochaine consultation, sur un créneau déterminé.",
+      "continuity_note": "Trois messages effacés illustrent le retard de parole ; conversation fixée après le prochain rendez-vous, réalisé en 8 puis suivi de 9.",
+      "clinical_note": "Partage limité distinct de dissimulation de faits ; exercices modestes et consentis. Correction vérifiée du dossier : NICE 1.1.3 concerne la situation personnelle et 1.1.4 les préférences, sans déduire secret absolu ni droit français. Aucun changement requis de cet épisode déjà intégralement relu.",
+      "relatives_note": "Salomé accepte un créneau, refuse implicitement disponibilité permanente et rôle de garante ; aucune divulgation au travail imposée."
+    },
+    {
+      "number": 8,
+      "focus": "Choisir un soin malgré les incertitudes",
+      "opening_quote": "Irma arrive chez Mme Faure avec trois questions écrites sur une feuille différente de ses notes d’atelier. Que vise le suivi pour elle ? Sur quoi pourront-elles s’appuyer pour en parler ? Quand referont-elles le point ? Elle a vu passer des annonces de résultats rapides et s’est surprise à vouloir une réponse qui tienne dans une date. La classe approche ; elle aimerait savoir à l’avance qu’aucune difficulté ne viendra compliquer cette période.",
+      "ending_quote": "Irma et Mme Faure conviennent d’un point de suivi après la première classe.",
+      "continuity_note": "Trois questions préparées en 7 sont posées ; rendez-vous après la classe fixé et conservé jusqu’en 12 ; Irma retrouve Salomé comme prévu.",
+      "clinical_note": "Essai contrôlé court et étude ouverte sont distingués ; aucune efficacité durable, causalité, molécule ou posologie prescrite. Grant 25 sujets/8 semaines et Asami 22 analysés sur 37 justifient la réserve générale du texte.",
+      "relatives_note": "Salomé peut demander si les questions ont été posées, sans choisir un traitement ni exiger une date de guérison."
+    },
+    {
+      "number": 9,
+      "focus": "La confiance et les conséquences",
+      "opening_quote": "Salomé rejoint Irma après la consultation, sur le créneau qu’elles avaient choisi. Elles s’installent avec une boisson et prennent quelques minutes pour parler du studio. Puis Irma explique qu’elle poursuit les démarches déjà engagées au sujet de l’acte antérieur. Elle ne raconte pas comment il a été commis. Ce qui l’inquiète aujourd’hui est la manière de faire face aux conversations qui l’attendent avec les interlocuteurs compétents.",
+      "ending_quote": "Irma accepte que Salomé ne soit ni intermédiaire ni garante.",
+      "continuity_note": "Le créneau convenu est honoré ; la tentation de déléguer la parole rencontre un refus explicite. Sortie d’affiches effectivement réalisée et démarches poursuivies sans résultat inventé.",
+      "clinical_note": "Aspect interpersonnel distinct de la honte intérieure de 4 et de la divulgation de 7. Aucun diagnostic utilisé comme excuse, aucune restitution clandestine ou procédure juridique. Le repère NICE partagé avec 7 est désormais correct dans le titre et le point du dossier ; les arrangements amicaux restent narratifs.",
+      "relatives_note": "Refus d’être intermédiaire ou garante respecté ; aucun contrôle des affaires ou déplacements demandé, et place des personnes lésées préservée."
+    },
+    {
+      "number": 10,
+      "focus": "Une souffrance associée à évaluer",
+      "opening_quote": "La classe approche et Irma vérifie plusieurs fois qu’elle a bien noté l’heure de son rendez-vous. Depuis plusieurs jours, son sommeil s’est dégradé. Elle arrive au studio avec moins de disponibilité et se surprend à relire les confirmations de réservation sans retenir les détails. Une inquiétude persistante occupe aussi ses moments de repos. Elle pense d’abord qu’elle devrait simplement attendre que cette période se termine.",
+      "ending_quote": "Irma se rend au rendez-vous médical.",
+      "continuity_note": "Le rendez-vous médical est pris puis effectivement réalisé dans la fin ; Maud accepte les confirmations, reprises comme terminées en 11.",
+      "clinical_note": "Sommeil et inquiétude évalués séparément sans nouveau diagnostic ni causalité automatique. Les trois appuis portent sur description, questions médicales et adaptation limitée de charge.",
+      "relatives_note": "Maud accepte une tâche sans connaître le contenu médical ; Salomé encourage la description sans diagnostic et sans prendre en charge le sommeil."
+    },
+    {
+      "number": 11,
+      "focus": "Le retour après une accalmie",
+      "opening_quote": "Maud a terminé les confirmations de réservation. Joëlle a répondu au nouvel horaire et le nombre d’élèves est fixé. Dans le studio, Irma prépare la présentation de l’impression choisie pour la classe. Elle veut commencer par une question sur les couleurs, puis montrer un exemple terminé. Après plusieurs jours où les impulsions lui ont laissé davantage de place, elle avait commencé à croire que cette semaine serait entièrement plus simple.",
+      "ending_quote": "Après le contact avec Mme Faure, Irma garde les indications de son suivi.",
+      "continuity_note": "Confirmations terminées et nouvel horaire accepté ; rôles accueil/réservations, présentation et accompagnement des élèves confirmés avant la séance finale.",
+      "clinical_note": "Retour de l’impulsion sans nouvel acte ni abandon du soin ; accalmie non assimilée à guérison. Contact avec Mme Faure réellement effectué, pas seulement conseillé.",
+      "relatives_note": "Maud discute la répartition sans garantie clinique ; Salomé conserve sa limite de disponibilité, sans banalisation du tort."
+    },
+    {
+      "number": 12,
+      "focus": "Vivre au-delà du symptôme",
+      "opening_quote": "Près de six semaines après le premier courriel, la classe arrive au studio. Maud accueille Joëlle et vérifie les réservations dans le classeur orange. Les élèves déposent leurs affaires à l’endroit indiqué, puis se rassemblent autour de la présentation. Le plan d’accès au matériel est celui utilisé pour l’atelier : des règles communes, expliquées à tout le groupe. Maud explique où les groupes travailleront et comment se répartir pendant la séance.",
+      "ending_quote": "Les élèves terminent leurs impressions et repartent avec Joëlle.",
+      "continuity_note": "Première classe effectivement accueillie ; impressions terminées et élèves repartis avec Joëlle. Créneau révisé, projet de quartier ouvert, suivis et démarches maintenus.",
+      "clinical_note": "Réussite fonctionnelle distincte de guérison, activité artistique explicitement non thérapeutique. Les trois exercices concernent un bilan pratique, sans prétendre reproduire Asami.",
+      "relatives_note": "Maud formule un retour professionnel ; Salomé peut parler couleurs ; les enfants restent élèves, jamais témoins du diagnostic ou agents de soin."
+    }
+  ]
+}

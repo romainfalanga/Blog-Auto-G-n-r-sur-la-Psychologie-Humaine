@@ -20319,6 +20319,487 @@
     "clinical_code": "6A06",
     "clinical_diagnosis": "Trouble des mouvements stéréotypés"
   },
+  "posts/comprendre-et-maitriser-ses-emotions/irma-besoin-et-impulsion": {
+    "character": "Irma",
+    "character_id": "irma",
+    "keywords": [
+      "besoin matériel",
+      "motif apparent",
+      "suivi spécialisé"
+    ],
+    "character_keywords": [
+      "Kleptomanie",
+      "Tension et impulsions",
+      "Honte et demande d’aide",
+      "Confiance et limites",
+      "Continuité du soin"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "2e7a517a0287f7b64700674ffa04f1cf4bf9c7c181c94756ff60919db6b8dc7b",
+    "summary": "Irma a apporté son classeur orange au rendez-vous parce qu’elle sort directement du studio. Le budget de la classe est rangé dans la poche de devant. Joëlle a accepté la date proposée ; il reste à confirmer la durée et quelques détails d’organisation. Irma a fait ses calculs, avec une marge pour les fournitures ordinaires de l’atelier. Sur ce point, elle sait ce qu’elle peut prévoir.\n\n[…]\n\nDe retour au studio, Irma termine le budget et le transmet à Maud. Elle ne lui demande pas d’y lire un progrès de santé. Avec Mme Faure, elle a accepté de revenir au prochain rendez-vous sur ce qu’elle a éprouvé après un acte antérieur. Cette question restera dans le cabinet. Pour la classe, les chiffres sont maintenant disponibles ; pour le soin, un sujet précis est ouvert sans explication matérielle inventée.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Irma a apporté son classeur orange au rendez-vous parce qu’elle sort directement du studio. Le budget de la classe est rangé dans la poche de devant. Joëlle a accepté la date proposée ; il reste à confirmer la durée et quelques détails d’organisation. Irma a fait ses calculs, avec une marge pour les fournitures ordinaires de l’atelier. Sur ce point, elle sait ce qu’elle peut prévoir.",
+        "start": 2,
+        "end": 388
+      },
+      {
+        "quote": "De retour au studio, Irma termine le budget et le transmet à Maud. Elle ne lui demande pas d’y lire un progrès de santé. Avec Mme Faure, elle a accepté de revenir au prochain rendez-vous sur ce qu’elle a éprouvé après un acte antérieur. Cette question restera dans le cabinet. Pour la classe, les chiffres sont maintenant disponibles ; pour le soin, un sujet précis est ouvert sans explication matérielle inventée.",
+        "start": 4013,
+        "end": 4427
+      }
+    ],
+    "canonical_concept": "Une impulsion sans besoin matériel",
+    "context": "Séparer budget et question clinique",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour séparer les questions utiles"
+    ],
+    "clinical_code": "6C71",
+    "clinical_diagnosis": "Kleptomanie"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/irma-confiance-et-consequences": {
+    "character": "Irma",
+    "character_id": "irma",
+    "keywords": [
+      "confiance",
+      "conséquences",
+      "limites du proche"
+    ],
+    "character_keywords": [
+      "Kleptomanie",
+      "Tension et impulsions",
+      "Honte et demande d’aide",
+      "Confiance et limites",
+      "Continuité du soin"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "2a00c90328b068075b9dcc53840ede848b622d30b8d83feb560af53db873bfee",
+    "summary": "Salomé rejoint Irma après la consultation, sur le créneau qu’elles avaient choisi. Elles s’installent avec une boisson et prennent quelques minutes pour parler du studio. Puis Irma explique qu’elle poursuit les démarches déjà engagées au sujet de l’acte antérieur. Elle ne raconte pas comment il a été commis. Ce qui l’inquiète aujourd’hui est la manière de faire face aux conversations qui l’attendent avec les interlocuteurs compétents.\n\n[…]\n\nIrma accepte que Salomé ne soit ni intermédiaire ni garante. Elle reprend elle-même les démarches avec les professionnels concernés, dans le cadre déjà engagé. Elles confirment aussi leur sortie d’une heure autour des affiches, puis la réalisent au créneau prévu. Elles discutent de couleurs et d’une date trop peu visible, sans transformer l’activité en surveillance. Les conséquences antérieures continuent de suivre leur cours ; la relation conserve un moment choisi, avec des limites qui ne disparaissent pas après cette conversation.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Salomé rejoint Irma après la consultation, sur le créneau qu’elles avaient choisi. Elles s’installent avec une boisson et prennent quelques minutes pour parler du studio. Puis Irma explique qu’elle poursuit les démarches déjà engagées au sujet de l’acte antérieur. Elle ne raconte pas comment il a été commis. Ce qui l’inquiète aujourd’hui est la manière de faire face aux conversations qui l’attendent avec les interlocuteurs compétents.",
+        "start": 2,
+        "end": 440
+      },
+      {
+        "quote": "Irma accepte que Salomé ne soit ni intermédiaire ni garante. Elle reprend elle-même les démarches avec les professionnels concernés, dans le cadre déjà engagé. Elles confirment aussi leur sortie d’une heure autour des affiches, puis la réalisent au créneau prévu. Elles discutent de couleurs et d’une date trop peu visible, sans transformer l’activité en surveillance. Les conséquences antérieures continuent de suivre leur cours ; la relation conserve un moment choisi, avec des limites qui ne disparaissent pas après cette conversation.",
+        "start": 4015,
+        "end": 4553
+      }
+    ],
+    "canonical_concept": "La confiance et les conséquences",
+    "context": "Une conversation après la consultation",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour clarifier une demande au proche"
+    ],
+    "clinical_code": "6C71",
+    "clinical_diagnosis": "Kleptomanie"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/irma-contexte-et-solitude": {
+    "character": "Irma",
+    "character_id": "irma",
+    "keywords": [
+      "contexte émotionnel",
+      "solitude",
+      "observation prudente"
+    ],
+    "character_keywords": [
+      "Kleptomanie",
+      "Tension et impulsions",
+      "Honte et demande d’aide",
+      "Confiance et limites",
+      "Continuité du soin"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "98573291b69e764f57cb2a50682533a82a55f79a4dd2458e8a5e8c6aec4f9341",
+    "summary": "Le message de Joëlle arrive au moment où Maud range ses affaires. Un changement de transport oblige la classe à venir plus tôt que prévu. La date reste la même, mais l’accueil doit être avancé. Irma avait justement fini de reporter les réservations dans le classeur orange. Elle trouve le contretemps agaçant et demande à Maud si elles peuvent regarder ensemble le planning le lendemain. Sa collègue doit partir maintenant ; elle confirme qu’elles en reparleront.\n\n[…]\n\nIrma confirme à Maud le temps de travail du lendemain et répond à Joëlle qu’une nouvelle proposition d’horaire va suivre. Elle range la note personnelle séparément du classeur orange. Le contexte lui donne une question pour Mme Faure, pas une explication certaine. Elle quitte le studio sans demander à Maud de revenir. L’horaire sera revu à deux ; ce qu’elle a ressenti pourra être discuté dans un autre cadre.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Le message de Joëlle arrive au moment où Maud range ses affaires. Un changement de transport oblige la classe à venir plus tôt que prévu. La date reste la même, mais l’accueil doit être avancé. Irma avait justement fini de reporter les réservations dans le classeur orange. Elle trouve le contretemps agaçant et demande à Maud si elles peuvent regarder ensemble le planning le lendemain. Sa collègue doit partir maintenant ; elle confirme qu’elles en reparleront.",
+        "start": 2,
+        "end": 465
+      },
+      {
+        "quote": "Irma confirme à Maud le temps de travail du lendemain et répond à Joëlle qu’une nouvelle proposition d’horaire va suivre. Elle range la note personnelle séparément du classeur orange. Le contexte lui donne une question pour Mme Faure, pas une explication certaine. Elle quitte le studio sans demander à Maud de revenir. L’horaire sera revu à deux ; ce qu’elle a ressenti pourra être discuté dans un autre cadre.",
+        "start": 3965,
+        "end": 4376
+      }
+    ],
+    "canonical_concept": "Les contextes émotionnels difficiles",
+    "context": "Un contretemps dans la réservation",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour explorer un contexte avec prudence"
+    ],
+    "clinical_code": "6C71",
+    "clinical_diagnosis": "Kleptomanie"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/irma-honte-et-place": {
+    "character": "Irma",
+    "character_id": "irma",
+    "keywords": [
+      "honte",
+      "jugement sur soi",
+      "relation ordinaire"
+    ],
+    "character_keywords": [
+      "Kleptomanie",
+      "Tension et impulsions",
+      "Honte et demande d’aide",
+      "Confiance et limites",
+      "Continuité du soin"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "271d036cac0a833341f19af8601ebaf8e1d6947678ba7456cd922079caf475cd",
+    "summary": "Salomé pose deux assiettes sur la table et fait glisser son téléphone vers Irma. Le comité du quartier hésite entre plusieurs affiches pour annoncer une rencontre. Elle voudrait son avis sur les couleurs. D’habitude, Irma aurait repéré en quelques secondes une lettre illisible ou un contraste trop faible. Elle connaît ce plaisir de discuter une affiche sans y passer la soirée.\n\n[…]\n\nIrma reprend le téléphone. Elle trouve une des affiches trop chargée et rit de la taille minuscule de la date. Salomé lui propose de les regarder plus tranquillement pendant une heure, la semaine suivante. Elle ne promet pas d’être disponible à tout moment. Irma accepte ce créneau. Le repas continue avec d’autres sujets. Le regret reste là, mais il n’a pas décidé à lui seul de toute leur soirée.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Salomé pose deux assiettes sur la table et fait glisser son téléphone vers Irma. Le comité du quartier hésite entre plusieurs affiches pour annoncer une rencontre. Elle voudrait son avis sur les couleurs. D’habitude, Irma aurait repéré en quelques secondes une lettre illisible ou un contraste trop faible. Elle connaît ce plaisir de discuter une affiche sans y passer la soirée.",
+        "start": 2,
+        "end": 381
+      },
+      {
+        "quote": "Irma reprend le téléphone. Elle trouve une des affiches trop chargée et rit de la taille minuscule de la date. Salomé lui propose de les regarder plus tranquillement pendant une heure, la semaine suivante. Elle ne promet pas d’être disponible à tout moment. Irma accepte ce créneau. Le repas continue avec d’autres sujets. Le regret reste là, mais il n’a pas décidé à lui seul de toute leur soirée.",
+        "start": 3900,
+        "end": 4298
+      }
+    ],
+    "canonical_concept": "La honte après les actes",
+    "context": "Un repas avec Salomé",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour demander un soutien sans effacer le tort"
+    ],
+    "clinical_code": "6C71",
+    "clinical_diagnosis": "Kleptomanie"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/irma-parole-et-confidentialite": {
+    "character": "Irma",
+    "character_id": "irma",
+    "keywords": [
+      "honte et parole",
+      "confidentialité choisie",
+      "soutien délimité"
+    ],
+    "character_keywords": [
+      "Kleptomanie",
+      "Tension et impulsions",
+      "Honte et demande d’aide",
+      "Confiance et limites",
+      "Continuité du soin"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "08605baa4fbbd8dd6afcd8c32db97c2212d65b91eeebc36ac959c911910104c1",
+    "summary": "Irma a écrit puis effacé trois débuts de message à Salomé. La première phrase disait que tout allait bien, ce qui ne correspondait pas à ce qu’elle voulait partager. La deuxième ressemblait à un long compte rendu de consultation. La troisième demandait seulement si son amie avait un moment, mais Irma craignait qu’elle s’inquiète sans comprendre ce qu’elle attendait.\n\n[…]\n\nSalomé accepte de retrouver Irma après sa prochaine consultation, sur un créneau déterminé. Elle précise qu’elle ne pourra pas répondre à toute heure. Irma accepte cette limite. Elles conviennent de ne pas transmettre ses informations de santé à Maud pour organiser la classe. Irma garde les démarches déjà engagées sous sa responsabilité. Avant le rendez-vous avec Mme Faure, elle prépare maintenant trois questions sur ce qu’elle peut attendre du soin et sur la manière d’en faire le point.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Irma a écrit puis effacé trois débuts de message à Salomé. La première phrase disait que tout allait bien, ce qui ne correspondait pas à ce qu’elle voulait partager. La deuxième ressemblait à un long compte rendu de consultation. La troisième demandait seulement si son amie avait un moment, mais Irma craignait qu’elle s’inquiète sans comprendre ce qu’elle attendait.",
+        "start": 2,
+        "end": 370
+      },
+      {
+        "quote": "Salomé accepte de retrouver Irma après sa prochaine consultation, sur un créneau déterminé. Elle précise qu’elle ne pourra pas répondre à toute heure. Irma accepte cette limite. Elles conviennent de ne pas transmettre ses informations de santé à Maud pour organiser la classe. Irma garde les démarches déjà engagées sous sa responsabilité. Avant le rendez-vous avec Mme Faure, elle prépare maintenant trois questions sur ce qu’elle peut attendre du soin et sur la manière d’en faire le point.",
+        "start": 4036,
+        "end": 4528
+      }
+    ],
+    "canonical_concept": "Le secret qui retarde la parole",
+    "context": "Préparer une conversation avec son amie",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour formuler une demande limitée"
+    ],
+    "clinical_code": "6C71",
+    "clinical_diagnosis": "Kleptomanie"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/irma-premiere-classe": {
+    "character": "Irma",
+    "character_id": "irma",
+    "keywords": [
+      "projet personnel",
+      "bilan professionnel",
+      "suivi ouvert"
+    ],
+    "character_keywords": [
+      "Kleptomanie",
+      "Tension et impulsions",
+      "Honte et demande d’aide",
+      "Confiance et limites",
+      "Continuité du soin"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "3aa25a6f8c2def8e194f55fe2ff87ad0762371affa1bd8ea4db02db2dc63a143",
+    "summary": "Irma montre l’impression qu’elle a choisie et demande quelle couleur attire le regard en premier. Les réponses se contredisent, ce qui l’amuse. Elle avait préparé une question avec une réponse probable ; les élèves lui en donnent plusieurs autres. Joëlle accompagne les échanges et aide le groupe à respecter les consignes de la séance. Maud garde la partie d’accueil et d’organisation qu’elles avaient convenue.\n\n[…]\n\nLes élèves terminent leurs impressions et repartent avec Joëlle. Elle remercie l’équipe et indique qu’un temps d’explication a été un peu court. Irma et Maud déplacent un créneau dans le classeur orange pour une prochaine séance. Le reste du bilan tient en quelques remarques concrètes. Irma conserve son point de suivi avec Mme Faure et les indications médicales convenues. Les démarches sur les conséquences passées continuent avec leurs interlocuteurs. Elle aimerait maintenant proposer une séance de quartier autour de deux couleurs franches ; elles en reparleront avec Maud avant de fixer une date.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Irma montre l’impression qu’elle a choisie et demande quelle couleur attire le regard en premier. Les réponses se contredisent, ce qui l’amuse. Elle avait préparé une question avec une réponse probable ; les élèves lui en donnent plusieurs autres. Joëlle accompagne les échanges et aide le groupe à respecter les consignes de la séance. Maud garde la partie d’accueil et d’organisation qu’elles avaient convenue.",
+        "start": 455,
+        "end": 867
+      },
+      {
+        "quote": "Les élèves terminent leurs impressions et repartent avec Joëlle. Elle remercie l’équipe et indique qu’un temps d’explication a été un peu court. Irma et Maud déplacent un créneau dans le classeur orange pour une prochaine séance. Le reste du bilan tient en quelques remarques concrètes. Irma conserve son point de suivi avec Mme Faure et les indications médicales convenues. Les démarches sur les conséquences passées continuent avec leurs interlocuteurs. Elle aimerait maintenant proposer une séance de quartier autour de deux couleurs franches ; elles en reparleront avec Maud avant de fixer une date.",
+        "start": 3983,
+        "end": 4586
+      }
+    ],
+    "canonical_concept": "Vivre au-delà du symptôme",
+    "context": "La première classe au studio",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour faire un bilan sans tout confondre"
+    ],
+    "clinical_code": "6C71",
+    "clinical_diagnosis": "Kleptomanie"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/irma-retour-apres-accalmie": {
+    "character": "Irma",
+    "character_id": "irma",
+    "keywords": [
+      "fluctuations",
+      "continuité du soin",
+      "organisation ajustée"
+    ],
+    "character_keywords": [
+      "Kleptomanie",
+      "Tension et impulsions",
+      "Honte et demande d’aide",
+      "Confiance et limites",
+      "Continuité du soin"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "ca95bdb8cf67592fa837c2d1b06d95395c3f4240b5bd7c28fc32e688f3303319",
+    "summary": "Maud a terminé les confirmations de réservation. Joëlle a répondu au nouvel horaire et le nombre d’élèves est fixé. Dans le studio, Irma prépare la présentation de l’impression choisie pour la classe. Elle veut commencer par une question sur les couleurs, puis montrer un exemple terminé. Après plusieurs jours où les impulsions lui ont laissé davantage de place, elle avait commencé à croire que cette semaine serait entièrement plus simple.\n\n[…]\n\nAprès le contact avec Mme Faure, Irma garde les indications de son suivi. Elle confirme avec Maud que celle-ci accueillera la classe et suivra les réservations, tandis qu’Irma présentera l’impression choisie. Joëlle accompagnera ses élèves pendant la séance. Le plan d’accès ordinaire au matériel est revu pour tous les ateliers. La classe reste prévue avec ces responsabilités explicites et les contacts de soin maintenus, sans déclaration de guérison ni promesse demandée à Salomé.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Maud a terminé les confirmations de réservation. Joëlle a répondu au nouvel horaire et le nombre d’élèves est fixé. Dans le studio, Irma prépare la présentation de l’impression choisie pour la classe. Elle veut commencer par une question sur les couleurs, puis montrer un exemple terminé. Après plusieurs jours où les impulsions lui ont laissé davantage de place, elle avait commencé à croire que cette semaine serait entièrement plus simple.",
+        "start": 2,
+        "end": 444
+      },
+      {
+        "quote": "Après le contact avec Mme Faure, Irma garde les indications de son suivi. Elle confirme avec Maud que celle-ci accueillera la classe et suivra les réservations, tandis qu’Irma présentera l’impression choisie. Joëlle accompagnera ses élèves pendant la séance. Le plan d’accès ordinaire au matériel est revu pour tous les ateliers. La classe reste prévue avec ces responsabilités explicites et les contacts de soin maintenus, sans déclaration de guérison ni promesse demandée à Salomé.",
+        "start": 3967,
+        "end": 4450
+      }
+    ],
+    "canonical_concept": "Le retour après une accalmie",
+    "context": "La dernière semaine de préparation",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour répondre au changement"
+    ],
+    "clinical_code": "6C71",
+    "clinical_diagnosis": "Kleptomanie"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/irma-signaux-peu-perceptibles": {
+    "character": "Irma",
+    "character_id": "irma",
+    "keywords": [
+      "repérage intérieur",
+      "incertitude",
+      "description factuelle"
+    ],
+    "character_keywords": [
+      "Kleptomanie",
+      "Tension et impulsions",
+      "Honte et demande d’aide",
+      "Confiance et limites",
+      "Continuité du soin"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "74cf4dc94070a2d4c5296ff0f1d20eaf943bef5bcc75ec6229dd15af2b59a584",
+    "summary": "Maud a déjà sorti la grille de réservation quand Irma arrive au bureau. Elles doivent vérifier que le nouvel horaire de la classe laisse assez de temps pour l’accueil et le rangement ordinaire de l’atelier. Irma pose le classeur orange sur la table, puis retrouve dans son carnet personnel les quelques mots notés la veille. Elle veut préparer sa question à Mme Faure avant de reprendre le travail.\n\n[…]\n\nIrma et Maud terminent la nouvelle grille et l’envoient à Joëlle. Plus tard, au rendez-vous, Irma présente sa note avec la mention « je ne sais pas ». Mme Faure reprend avec elle les faits disponibles et l’incertitude sur la tension. La note n’a pas besoin d’être complétée pour ouvrir la discussion. Irma remarque qu’elle a parlé plus directement ici qu’elle ne le ferait à Salomé ; elle veut réfléchir à ce qu’elle souhaite partager avec son amie.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Maud a déjà sorti la grille de réservation quand Irma arrive au bureau. Elles doivent vérifier que le nouvel horaire de la classe laisse assez de temps pour l’accueil et le rangement ordinaire de l’atelier. Irma pose le classeur orange sur la table, puis retrouve dans son carnet personnel les quelques mots notés la veille. Elle veut préparer sa question à Mme Faure avant de reprendre le travail.",
+        "start": 2,
+        "end": 400
+      },
+      {
+        "quote": "Irma et Maud terminent la nouvelle grille et l’envoient à Joëlle. Plus tard, au rendez-vous, Irma présente sa note avec la mention « je ne sais pas ». Mme Faure reprend avec elle les faits disponibles et l’incertitude sur la tension. La note n’a pas besoin d’être complétée pour ouvrir la discussion. Irma remarque qu’elle a parlé plus directement ici qu’elle ne le ferait à Salomé ; elle veut réfléchir à ce qu’elle souhaite partager avec son amie.",
+        "start": 3722,
+        "end": 4171
+      }
+    ],
+    "canonical_concept": "Des signaux parfois peu perceptibles",
+    "context": "Une note incomplète et une grille à terminer",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour utiliser une note imparfaite"
+    ],
+    "clinical_code": "6C71",
+    "clinical_diagnosis": "Kleptomanie"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/irma-soin-et-incertitudes": {
+    "character": "Irma",
+    "character_id": "irma",
+    "keywords": [
+      "options étudiées",
+      "limites des preuves",
+      "bilan de suivi"
+    ],
+    "character_keywords": [
+      "Kleptomanie",
+      "Tension et impulsions",
+      "Honte et demande d’aide",
+      "Confiance et limites",
+      "Continuité du soin"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "4764ee5fadce09d9b091bf308b074854963f15adb980c6cf0da92f88ee2ba31c",
+    "summary": "Irma arrive chez Mme Faure avec trois questions écrites sur une feuille différente de ses notes d’atelier. Que vise le suivi pour elle ? Sur quoi pourront-elles s’appuyer pour en parler ? Quand referont-elles le point ? Elle a vu passer des annonces de résultats rapides et s’est surprise à vouloir une réponse qui tienne dans une date. La classe approche ; elle aimerait savoir à l’avance qu’aucune difficulté ne viendra compliquer cette période.\n\n[…]\n\nIrma et Mme Faure conviennent d’un point de suivi après la première classe. Elles poursuivent l’accompagnement individualisé, sans promettre que les impulsions auront disparu d’ici là. Irma garde sa feuille de questions et l’heure du rendez-vous. Elle retrouve ensuite Salomé comme prévu. Elle ne lui apporte pas une garantie ; elle peut lui dire qu’un cadre de soin continue et qu’elle souhaite parler de la place que son amie accepte d’y tenir.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Irma arrive chez Mme Faure avec trois questions écrites sur une feuille différente de ses notes d’atelier. Que vise le suivi pour elle ? Sur quoi pourront-elles s’appuyer pour en parler ? Quand referont-elles le point ? Elle a vu passer des annonces de résultats rapides et s’est surprise à vouloir une réponse qui tienne dans une date. La classe approche ; elle aimerait savoir à l’avance qu’aucune difficulté ne viendra compliquer cette période.",
+        "start": 2,
+        "end": 449
+      },
+      {
+        "quote": "Irma et Mme Faure conviennent d’un point de suivi après la première classe. Elles poursuivent l’accompagnement individualisé, sans promettre que les impulsions auront disparu d’ici là. Irma garde sa feuille de questions et l’heure du rendez-vous. Elle retrouve ensuite Salomé comme prévu. Elle ne lui apporte pas une garantie ; elle peut lui dire qu’un cadre de soin continue et qu’elle souhaite parler de la place que son amie accepte d’y tenir.",
+        "start": 4074,
+        "end": 4520
+      }
+    ],
+    "canonical_concept": "Choisir un soin malgré les incertitudes",
+    "context": "Clarifier les attentes en consultation",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour préparer une décision de soin"
+    ],
+    "clinical_code": "6C71",
+    "clinical_diagnosis": "Kleptomanie"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/irma-sommeil-et-inquietude": {
+    "character": "Irma",
+    "character_id": "irma",
+    "keywords": [
+      "sommeil",
+      "évaluation médicale",
+      "charge temporaire"
+    ],
+    "character_keywords": [
+      "Kleptomanie",
+      "Tension et impulsions",
+      "Honte et demande d’aide",
+      "Confiance et limites",
+      "Continuité du soin"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "9b7aadf58fb9934c6836255c8483b9f1b36e77ab30325ebd7ac94150f3a772fa",
+    "summary": "La classe approche et Irma vérifie plusieurs fois qu’elle a bien noté l’heure de son rendez-vous. Depuis plusieurs jours, son sommeil s’est dégradé. Elle arrive au studio avec moins de disponibilité et se surprend à relire les confirmations de réservation sans retenir les détails. Une inquiétude persistante occupe aussi ses moments de repos. Elle pense d’abord qu’elle devrait simplement attendre que cette période se termine.\n\n[…]\n\nIrma se rend au rendez-vous médical. Elle y décrit le sommeil dégradé, l’inquiétude et leur effet sur ses journées. Le médecin examine sa situation et convient avec elle d’une suite de suivi ; Irma garde les indications et les modalités de nouveau contact données. Aucun résultat n’est promis pour la date de la classe. Maud accepte de prendre les confirmations de réservation. Irma conserve les préparatifs pédagogiques délimités et son rendez-vous avec Mme Faure après la séance.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "La classe approche et Irma vérifie plusieurs fois qu’elle a bien noté l’heure de son rendez-vous. Depuis plusieurs jours, son sommeil s’est dégradé. Elle arrive au studio avec moins de disponibilité et se surprend à relire les confirmations de réservation sans retenir les détails. Une inquiétude persistante occupe aussi ses moments de repos. Elle pense d’abord qu’elle devrait simplement attendre que cette période se termine.",
+        "start": 2,
+        "end": 430
+      },
+      {
+        "quote": "Irma se rend au rendez-vous médical. Elle y décrit le sommeil dégradé, l’inquiétude et leur effet sur ses journées. Le médecin examine sa situation et convient avec elle d’une suite de suivi ; Irma garde les indications et les modalités de nouveau contact données. Aucun résultat n’est promis pour la date de la classe. Maud accepte de prendre les confirmations de réservation. Irma conserve les préparatifs pédagogiques délimités et son rendez-vous avec Mme Faure après la séance.",
+        "start": 4024,
+        "end": 4505
+      }
+    ],
+    "canonical_concept": "Une souffrance associée à évaluer",
+    "context": "Une difficulté associée à examiner",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour préparer une évaluation utile"
+    ],
+    "clinical_code": "6C71",
+    "clinical_diagnosis": "Kleptomanie"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/irma-soulagement-bref": {
+    "character": "Irma",
+    "character_id": "irma",
+    "keywords": [
+      "soulagement bref",
+      "suites de l’acte",
+      "objectif de soin"
+    ],
+    "character_keywords": [
+      "Kleptomanie",
+      "Tension et impulsions",
+      "Honte et demande d’aide",
+      "Confiance et limites",
+      "Continuité du soin"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "5960022512b95c893fad7411bc5be18e27ec70c42722635780a283e78f4832b1",
+    "summary": "La feuille qu’Irma sort de son carnet personnel ne ressemble pas au budget de la classe. Elle porte quelques mots écrits après le dernier rendez-vous : tension, bref relâchement, puis inquiétude. Elle veut parler d’un acte antérieur au début des préparatifs. Les démarches concernant ses conséquences sont déjà engagées avec les interlocuteurs compétents. Mme Faure et elle se concentrent aujourd’hui sur le vécu qu’Irma essaie de nommer.\n\n[…]\n\nIrma laisse à Mme Faure la note qu’elles ont commentée et convient de poursuivre ce travail. Elle rejoint ensuite Salomé. « J’ai parlé d’un moment difficile ; je n’ai pas envie de raconter l’acte », dit-elle. Salomé accepte et lui demande si elle préfère manger tout de suite ou marcher quelques minutes avant. Irma choisit la table. Le repas n’efface rien, mais elle ne s’en prive pas pour ajouter une sanction à la honte déjà présente.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "La feuille qu’Irma sort de son carnet personnel ne ressemble pas au budget de la classe. Elle porte quelques mots écrits après le dernier rendez-vous : tension, bref relâchement, puis inquiétude. Elle veut parler d’un acte antérieur au début des préparatifs. Les démarches concernant ses conséquences sont déjà engagées avec les interlocuteurs compétents. Mme Faure et elle se concentrent aujourd’hui sur le vécu qu’Irma essaie de nommer.",
+        "start": 2,
+        "end": 440
+      },
+      {
+        "quote": "Irma laisse à Mme Faure la note qu’elles ont commentée et convient de poursuivre ce travail. Elle rejoint ensuite Salomé. « J’ai parlé d’un moment difficile ; je n’ai pas envie de raconter l’acte », dit-elle. Salomé accepte et lui demande si elle préfère manger tout de suite ou marcher quelques minutes avant. Irma choisit la table. Le repas n’efface rien, mais elle ne s’en prive pas pour ajouter une sanction à la honte déjà présente.",
+        "start": 3969,
+        "end": 4406
+      }
+    ],
+    "canonical_concept": "Le soulagement qui ne dure pas",
+    "context": "Revenir sur un vécu dans le cabinet",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour préparer un travail clinique précis"
+    ],
+    "clinical_code": "6C71",
+    "clinical_diagnosis": "Kleptomanie"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/irma-tension-et-courriel": {
+    "character": "Irma",
+    "character_id": "irma",
+    "keywords": [
+      "tension",
+      "impulsion",
+      "demande de soutien"
+    ],
+    "character_keywords": [
+      "Kleptomanie",
+      "Tension et impulsions",
+      "Honte et demande d’aide",
+      "Confiance et limites",
+      "Continuité du soin"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "93cb0fc4d6790f1deeb730d42d37648fe753d1c874eedc06c6143e7afdc8ee65",
+    "summary": "Irma relit pour la troisième fois la réponse destinée à Joëlle. L’enseignante voudrait amener sa classe au studio de sérigraphie dans environ six semaines. Une date, un horaire, le nombre de places : le courriel devrait tenir en quelques lignes. À trente-neuf ans, Irma a déjà animé des ateliers de quartier, mais cette première classe lui donne envie de préparer les choses avec soin. Le classeur orange attend les réservations et le plan d’accès ordinaire au matériel.\n\n[…]\n\nAprès le contact avec Mme Faure et la pause, Irma retrouve le brouillon vérifié par Maud. Elle transmet une proposition de date à Joëlle. Le classeur orange reçoit seulement les informations de réservation ; sa note de santé reste séparée. Elle conserve le rendez-vous déjà prévu avec sa thérapeute. La classe n’est pas organisée d’un seul coup, mais une première réponse est partie sans qu’Irma doive se déclarer délivrée de ses difficultés.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Irma relit pour la troisième fois la réponse destinée à Joëlle. L’enseignante voudrait amener sa classe au studio de sérigraphie dans environ six semaines. Une date, un horaire, le nombre de places : le courriel devrait tenir en quelques lignes. À trente-neuf ans, Irma a déjà animé des ateliers de quartier, mais cette première classe lui donne envie de préparer les choses avec soin. Le classeur orange attend les réservations et le plan d’accès ordinaire au matériel.",
+        "start": 2,
+        "end": 472
+      },
+      {
+        "quote": "Après le contact avec Mme Faure et la pause, Irma retrouve le brouillon vérifié par Maud. Elle transmet une proposition de date à Joëlle. Le classeur orange reçoit seulement les informations de réservation ; sa note de santé reste séparée. Elle conserve le rendez-vous déjà prévu avec sa thérapeute. La classe n’est pas organisée d’un seul coup, mais une première réponse est partie sans qu’Irma doive se déclarer délivrée de ses difficultés.",
+        "start": 3948,
+        "end": 4390
+      }
+    ],
+    "canonical_concept": "La tension avant l’impulsion",
+    "context": "Confirmer la première classe",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "Un appui pratique devient utile",
+      "3 techniques pour préparer une demande d’appui"
+    ],
+    "clinical_code": "6C71",
+    "clinical_diagnosis": "Kleptomanie"
+  },
   "posts/comprendre-et-maitriser-ses-emotions/ismael-aides-choisies-fiche-du-jour": {
     "character": "Ismaël",
     "character_id": "ismael",
@@ -24686,6 +25167,487 @@
     "clinical_code": "6A03.2",
     "clinical_diagnosis": "Trouble développemental des apprentissages avec déficit en mathématiques"
   },
+  "posts/comprendre-et-maitriser-ses-emotions/loic-anticipation-et-controle": {
+    "character": "Loïc",
+    "character_id": "loic",
+    "keywords": [
+      "Pyromanie",
+      "Difficulté de contrôle",
+      "Anticipation"
+    ],
+    "character_keywords": [
+      "Pyromanie",
+      "Préoccupations persistantes",
+      "Tension et contrôle",
+      "Prévention individualisée",
+      "Participation et relais"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "b612fbb9d2894ff7c6abda68407e1ddf95c673471de476c3fc18eb9240bbdcad",
+    "summary": "Loïc a retrouvé la date à laquelle il avait prévu son rendez-vous. Il la montre à l’équipe comme un élément rassurant : il n’avait pas ignoré son suivi, la consultation figurait dans son agenda avant la réunion du comité. La docteure Perrin lui demande alors ce qui s’est passé entre le retour de la difficulté et l’appel effectivement passé. Ce délai ne disparaît pas parce qu’une case était déjà réservée plus tard.\n\n[…]\n\nLoïc informe Maud que son créneau reste non confirmé. Elle redistribue une séance de préparation qui devait l’occuper prochainement. Il suit les modalités de contact précisées avec l’équipe et ne transforme pas cette tâche en travail à rattraper seul. Le soir désormais libre lui paraît pourtant plus long qu’il ne l’avait imaginé. Il regarde ses notices rangées et se demande à qui parler de ce sentiment de ne plus être utile.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Loïc a retrouvé la date à laquelle il avait prévu son rendez-vous. Il la montre à l’équipe comme un élément rassurant : il n’avait pas ignoré son suivi, la consultation figurait dans son agenda avant la réunion du comité. La docteure Perrin lui demande alors ce qui s’est passé entre le retour de la difficulté et l’appel effectivement passé. Ce délai ne disparaît pas parce qu’une case était déjà réservée plus tard.",
+        "start": 2,
+        "end": 419
+      },
+      {
+        "quote": "Loïc informe Maud que son créneau reste non confirmé. Elle redistribue une séance de préparation qui devait l’occuper prochainement. Il suit les modalités de contact précisées avec l’équipe et ne transforme pas cette tâche en travail à rattraper seul. Le soir désormais libre lui paraît pourtant plus long qu’il ne l’avait imaginé. Il regarde ses notices rangées et se demande à qui parler de ce sentiment de ne plus être utile.",
+        "start": 4321,
+        "end": 4749
+      }
+    ],
+    "canonical_concept": "Contrôle difficile malgré anticipation",
+    "context": "Un échange de suivi consacré au plan de prévention",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour relier l’anticipation à une réponse réelle"
+    ],
+    "clinical_code": "6C70",
+    "clinical_diagnosis": "Pyromanie"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/loic-confiance-limites-proches": {
+    "character": "Loïc",
+    "character_id": "loic",
+    "keywords": [
+      "Pyromanie",
+      "Limites des proches",
+      "Confiance"
+    ],
+    "character_keywords": [
+      "Pyromanie",
+      "Préoccupations persistantes",
+      "Tension et contrôle",
+      "Prévention individualisée",
+      "Participation et relais"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "2d2f82ea5a7fcb7381ea5483d66301c1a298fc71850af0fcf9068e78b618893b",
+    "summary": "Elsa vient relire les coordonnées que Loïc souhaite garder accessibles. Le message destiné à Maud a reçu une réponse ; les contacts de soin restent sur un autre support. Sa sœur vérifie avec lui qu’il comprend à quoi sert chacun, puis elle pose sa propre limite : elle viendra à la brocante plus tard dans la journée. Elle ne sera pas là pendant tout son créneau.\n\n[…]\n\nLoïc accepte qu’Elsa arrive plus tard. Nadir confirme son rôle de réparateur relais, avec les horaires à arrêter au comité, sans se charger d’une surveillance personnelle. Les contacts de soins restent séparés. Elsa demande ce que Loïc compte expliquer au public pendant son créneau ; ils peuvent en parler sans transformer chaque phrase en preuve de confiance. Maud pourra maintenant préciser la rotation avec les adultes effectivement disponibles.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Elsa vient relire les coordonnées que Loïc souhaite garder accessibles. Le message destiné à Maud a reçu une réponse ; les contacts de soin restent sur un autre support. Sa sœur vérifie avec lui qu’il comprend à quoi sert chacun, puis elle pose sa propre limite : elle viendra à la brocante plus tard dans la journée. Elle ne sera pas là pendant tout son créneau.",
+        "start": 2,
+        "end": 365
+      },
+      {
+        "quote": "Loïc accepte qu’Elsa arrive plus tard. Nadir confirme son rôle de réparateur relais, avec les horaires à arrêter au comité, sans se charger d’une surveillance personnelle. Les contacts de soins restent séparés. Elsa demande ce que Loïc compte expliquer au public pendant son créneau ; ils peuvent en parler sans transformer chaque phrase en preuve de confiance. Maud pourra maintenant préciser la rotation avec les adultes effectivement disponibles.",
+        "start": 4279,
+        "end": 4728
+      }
+    ],
+    "canonical_concept": "Confiance et limites des proches",
+    "context": "Une rencontre avec Elsa avant la brocante",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour définir un soutien possible sans promesse totale"
+    ],
+    "clinical_code": "6C70",
+    "clinical_diagnosis": "Pyromanie"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/loic-diagnostic-et-incendie": {
+    "character": "Loïc",
+    "character_id": "loic",
+    "keywords": [
+      "Pyromanie",
+      "Distinction diagnostique",
+      "Vocabulaire"
+    ],
+    "character_keywords": [
+      "Pyromanie",
+      "Préoccupations persistantes",
+      "Tension et contrôle",
+      "Prévention individualisée",
+      "Participation et relais"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "b33563008c9a0bc016cbb55efa16eee096a0ff24cef831c6412187bc65a6540d",
+    "summary": "La nouvelle réunion du comité commence par une discussion qui ne concerne pas les créneaux. Quelqu’un évoque un événement survenu ailleurs et emploie le mot pyromane comme s’il désignait simplement l’auteur d’un incendie. Aucun nom n’est lié à Loïc et personne ne lui demande de commentaire. Il reste pourtant silencieux plus longtemps qu’il ne l’aurait voulu. Le terme rejoint une partie de sa vie que les autres ne connaissent pas.\n\n[…]\n\nLoïc retient : « Un incendie volontaire ne permet pas, à lui seul, de poser ce diagnostic. » Il pourra la dire sans ajouter le contenu de son carnet. Il ne demande pas à la docteure de conclure sur l’événement extérieur. Leurs échanges lui donnent envie de préparer séparément les informations pratiques destinées à Maud : ce qu’elle doit savoir pour organiser la brocante n’est pas nécessairement ce qu’il vient de discuter ici.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "La nouvelle réunion du comité commence par une discussion qui ne concerne pas les créneaux. Quelqu’un évoque un événement survenu ailleurs et emploie le mot pyromane comme s’il désignait simplement l’auteur d’un incendie. Aucun nom n’est lié à Loïc et personne ne lui demande de commentaire. Il reste pourtant silencieux plus longtemps qu’il ne l’aurait voulu. Le terme rejoint une partie de sa vie que les autres ne connaissent pas.",
+        "start": 2,
+        "end": 435
+      },
+      {
+        "quote": "Loïc retient : « Un incendie volontaire ne permet pas, à lui seul, de poser ce diagnostic. » Il pourra la dire sans ajouter le contenu de son carnet. Il ne demande pas à la docteure de conclure sur l’événement extérieur. Leurs échanges lui donnent envie de préparer séparément les informations pratiques destinées à Maud : ce qu’elle doit savoir pour organiser la brocante n’est pas nécessairement ce qu’il vient de discuter ici.",
+        "start": 4263,
+        "end": 4692
+      }
+    ],
+    "canonical_concept": "Diagnostic distinct du fait incendiaire",
+    "context": "Une réunion du comité puis un échange avec l’équipe",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour préciser un terme sans exposer son histoire"
+    ],
+    "clinical_code": "6C70",
+    "clinical_diagnosis": "Pyromanie"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/loic-fluctuation-reevaluation": {
+    "character": "Loïc",
+    "character_id": "loic",
+    "keywords": [
+      "Pyromanie",
+      "Évolution fluctuante",
+      "Réévaluation"
+    ],
+    "character_keywords": [
+      "Pyromanie",
+      "Préoccupations persistantes",
+      "Tension et contrôle",
+      "Prévention individualisée",
+      "Participation et relais"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "7e3c6d0246a605a845c4438ac12fc9eabbc86679e62c4bdff9695fe66302b991",
+    "summary": "Loïc regarde la fiche reçue de Maud. La dernière préparation est prévue dans quelques jours, juste avant la brocante. Plusieurs semaines avaient été plus calmes et il avait commencé à considérer la rotation comme presque acquise. Depuis peu, des préoccupations reprennent de la place. Il les reconnaît sans en tirer seul une conclusion sur tout ce qui pourrait suivre. Cette fois, il n’attend pas la réunion pour les signaler.\n\n[…]\n\nL’échange clinique a lieu et le plan est révisé. La participation envisagée pour la démonstration reste plus courte, sous les conditions discutées ; elle sera reconfirmée avant la journée. La dernière préparation est prise par le comité et Loïc ne la rattrape pas seul. Il demande un temps supplémentaire à la docteure Perrin pour comprendre la portée des recherches et les objectifs de son accompagnement. Il veut savoir ce qu’il peut en attendre sans demander une garantie impossible.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Loïc regarde la fiche reçue de Maud. La dernière préparation est prévue dans quelques jours, juste avant la brocante. Plusieurs semaines avaient été plus calmes et il avait commencé à considérer la rotation comme presque acquise. Depuis peu, des préoccupations reprennent de la place. Il les reconnaît sans en tirer seul une conclusion sur tout ce qui pourrait suivre. Cette fois, il n’attend pas la réunion pour les signaler.",
+        "start": 2,
+        "end": 428
+      },
+      {
+        "quote": "L’échange clinique a lieu et le plan est révisé. La participation envisagée pour la démonstration reste plus courte, sous les conditions discutées ; elle sera reconfirmée avant la journée. La dernière préparation est prise par le comité et Loïc ne la rattrape pas seul. Il demande un temps supplémentaire à la docteure Perrin pour comprendre la portée des recherches et les objectifs de son accompagnement. Il veut savoir ce qu’il peut en attendre sans demander une garantie impossible.",
+        "start": 4192,
+        "end": 4678
+      }
+    ],
+    "canonical_concept": "Évolution fluctuante sans fatalité",
+    "context": "Quelques jours avant la démonstration",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour répondre au changement sans conclure trop vite"
+    ],
+    "clinical_code": "6C70",
+    "clinical_diagnosis": "Pyromanie"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/loic-montee-de-tension": {
+    "character": "Loïc",
+    "character_id": "loic",
+    "keywords": [
+      "Pyromanie",
+      "Tension",
+      "Demande de relais"
+    ],
+    "character_keywords": [
+      "Pyromanie",
+      "Préoccupations persistantes",
+      "Tension et contrôle",
+      "Prévention individualisée",
+      "Participation et relais"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "4ae8ebcea61e32014a73490df739b6a73492e9dbee1016fa9d9c3c5819946be5",
+    "summary": "La docteure Perrin demande à Loïc de reprendre le moment où la réunion était devenue difficile à suivre. Il ouvre son carnet, qui n’a pas circulé avec la fiche du comité. Il a d’abord noté la question de Maud, puis le passage de la feuille à Nadir. Les deux lignes donnent l’impression que tout avait commencé à cette seconde précise. Loïc hésite avant d’ajouter que la tension était présente plus tôt.\n\n[…]\n\nLoïc retient avec l’équipe : « Je ne peux pas poursuivre ce créneau, il faut reprendre la tâche. » La formule s’inscrit dans le plan discuté ; elle ne devient pas un test de sa maîtrise. Il la garde distincte des notes cliniques. Avant de fermer le carnet, il demande un prochain temps pour parler d’un souvenir de soulagement qu’il avait minimisé. La docteure note cette question sans lui demander d’en raconter davantage à la fin du rendez-vous.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "La docteure Perrin demande à Loïc de reprendre le moment où la réunion était devenue difficile à suivre. Il ouvre son carnet, qui n’a pas circulé avec la fiche du comité. Il a d’abord noté la question de Maud, puis le passage de la feuille à Nadir. Les deux lignes donnent l’impression que tout avait commencé à cette seconde précise. Loïc hésite avant d’ajouter que la tension était présente plus tôt.",
+        "start": 2,
+        "end": 404
+      },
+      {
+        "quote": "Loïc retient avec l’équipe : « Je ne peux pas poursuivre ce créneau, il faut reprendre la tâche. » La formule s’inscrit dans le plan discuté ; elle ne devient pas un test de sa maîtrise. Il la garde distincte des notes cliniques. Avant de fermer le carnet, il demande un prochain temps pour parler d’un souvenir de soulagement qu’il avait minimisé. La docteure note cette question sans lui demander d’en raconter davantage à la fin du rendez-vous.",
+        "start": 4241,
+        "end": 4688
+      }
+    ],
+    "canonical_concept": "Montée de tension reconnue",
+    "context": "En consultation avec la docteure Perrin",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour décrire le changement et préparer une demande"
+    ],
+    "clinical_code": "6C70",
+    "clinical_diagnosis": "Pyromanie"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/loic-partage-limite-et-soin": {
+    "character": "Loïc",
+    "character_id": "loic",
+    "keywords": [
+      "Pyromanie",
+      "Partage des informations",
+      "Alliance de soin"
+    ],
+    "character_keywords": [
+      "Pyromanie",
+      "Préoccupations persistantes",
+      "Tension et contrôle",
+      "Prévention individualisée",
+      "Participation et relais"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "2110048f0c0cecc9536727099173f817364ccbfe7ab92d0fa900ec5a253cb209",
+    "summary": "Loïc a préparé un message pour Maud. Il y propose un créneau bref, un relais identifié et la possibilité de se retirer selon l’organisation convenue. La fiche pourrait tenir en quelques lignes. Pourtant, au moment d’en parler à la docteure Perrin, il pose aussi son carnet clinique sur le bureau. Il envisage de joindre plusieurs pages pour que Maud comprenne qu’il prend les choses au sérieux.\n\n[…]\n\nLe carnet reste auprès de Loïc. Maud reçoit seulement la proposition convenue et confirme qu’elle peut organiser les rôles sous réserve de la présence des adultes concernés. Elle rappelle qu’elle coordonne la sécurité générale du lieu, pas le traitement de Loïc. La fiche collective garde ces dispositions pratiques. Elsa viendra ensuite relire avec lui les contacts qu’il souhaite garder accessibles, en précisant sa propre disponibilité pour la journée.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Loïc a préparé un message pour Maud. Il y propose un créneau bref, un relais identifié et la possibilité de se retirer selon l’organisation convenue. La fiche pourrait tenir en quelques lignes. Pourtant, au moment d’en parler à la docteure Perrin, il pose aussi son carnet clinique sur le bureau. Il envisage de joindre plusieurs pages pour que Maud comprenne qu’il prend les choses au sérieux.",
+        "start": 2,
+        "end": 396
+      },
+      {
+        "quote": "Le carnet reste auprès de Loïc. Maud reçoit seulement la proposition convenue et confirme qu’elle peut organiser les rôles sous réserve de la présence des adultes concernés. Elle rappelle qu’elle coordonne la sécurité générale du lieu, pas le traitement de Loïc. La fiche collective garde ces dispositions pratiques. Elsa viendra ensuite relire avec lui les contacts qu’il souhaite garder accessibles, en précisant sa propre disponibilité pour la journée.",
+        "start": 4317,
+        "end": 4772
+      }
+    ],
+    "canonical_concept": "Parole clinique et partage limité",
+    "context": "Avec l’équipe, avant un message à la coordinatrice",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour préparer un partage limité et responsable",
+      "2. Écrire la proposition pratique"
+    ],
+    "clinical_code": "6C70",
+    "clinical_diagnosis": "Pyromanie"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/loic-participation-suivi-maintenu": {
+    "character": "Loïc",
+    "character_id": "loic",
+    "keywords": [
+      "Pyromanie",
+      "Participation",
+      "Continuité du suivi"
+    ],
+    "character_keywords": [
+      "Pyromanie",
+      "Préoccupations persistantes",
+      "Tension et contrôle",
+      "Prévention individualisée",
+      "Participation et relais"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "72d6a2543a1b04f11e4b6a62d9700202c29d8fc3d1da4d47e1425ee0682ea1ec",
+    "summary": "Nadir est déjà présent lorsque Loïc arrive. Maud vérifie la rotation des adultes et confirme que l’organisation retenue la veille est bien en place. Le créneau reste bref, avec la possibilité de se retirer selon les dispositions convenues. Loïc ne récupère pas la préparation annulée ni la tâche supplémentaire qu’un autre membre du comité a prise. La fiche montre clairement ce qui lui appartient aujourd’hui.\n\n[…]\n\nNadir termine le créneau suivant et Maud conserve la fiche collective. Loïc confirme son prochain rendez-vous de suivi. Lorsque Elsa arrive, il peut lui raconter la question sur les notices, sans lui demander de certifier ce que la matinée signifierait pour sa santé. Il repart avec les documents de l’atelier à ranger. Le rôle de réparateur a été tenu et transmis ; ce projet ordinaire de classement l’attend après la brocante, avec un accompagnement qui continue.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Nadir est déjà présent lorsque Loïc arrive. Maud vérifie la rotation des adultes et confirme que l’organisation retenue la veille est bien en place. Le créneau reste bref, avec la possibilité de se retirer selon les dispositions convenues. Loïc ne récupère pas la préparation annulée ni la tâche supplémentaire qu’un autre membre du comité a prise. La fiche montre clairement ce qui lui appartient aujourd’hui.",
+        "start": 2,
+        "end": 412
+      },
+      {
+        "quote": "Nadir termine le créneau suivant et Maud conserve la fiche collective. Loïc confirme son prochain rendez-vous de suivi. Lorsque Elsa arrive, il peut lui raconter la question sur les notices, sans lui demander de certifier ce que la matinée signifierait pour sa santé. Il repart avec les documents de l’atelier à ranger. Le rôle de réparateur a été tenu et transmis ; ce projet ordinaire de classement l’attend après la brocante, avec un accompagnement qui continue.",
+        "start": 4316,
+        "end": 4781
+      }
+    ],
+    "canonical_concept": "Participation choisie et suivi maintenu",
+    "context": "La journée de démonstration de la brocante",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour reconnaître la participation et garder sa continuité"
+    ],
+    "clinical_code": "6C70",
+    "clinical_diagnosis": "Pyromanie"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/loic-preoccupation-attention": {
+    "character": "Loïc",
+    "character_id": "loic",
+    "keywords": [
+      "Pyromanie",
+      "Préoccupation",
+      "Attention disponible"
+    ],
+    "character_keywords": [
+      "Pyromanie",
+      "Préoccupations persistantes",
+      "Tension et contrôle",
+      "Prévention individualisée",
+      "Participation et relais"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "36a48beedd5c74c5f36b5a94601cfec8db63bac04cec9ce95bbc013547362b24",
+    "summary": "La fiche de créneaux circule entre les membres du comité. Loïc a inscrit son prénom près de celui de Nadir, avec un point d’interrogation qu’il comptait effacer avant de partir. À trente-deux ans, il répare des machines agricoles et sait expliquer son métier sans remplir chaque phrase de termes techniques. La journée de démonstration de la brocante lui plaît pour cela : répondre à une question, montrer le résultat d’un travail, laisser un autre adulte prendre la suite.\n\n[…]\n\nNadir accepte de reprendre provisoirement la fiche sous la coordination de Maud. Loïc convient d’un échange clinique avant de confirmer son créneau. Le comité sait que l’organisation reste ouverte ; il n’a reçu ni carnet de santé ni explication sur le contenu de la préoccupation. Loïc garde pour le rendez-vous un repère précis : le moment où il a cessé de suivre la conversation.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "La fiche de créneaux circule entre les membres du comité. Loïc a inscrit son prénom près de celui de Nadir, avec un point d’interrogation qu’il comptait effacer avant de partir. À trente-deux ans, il répare des machines agricoles et sait expliquer son métier sans remplir chaque phrase de termes techniques. La journée de démonstration de la brocante lui plaît pour cela : répondre à une question, montrer le résultat d’un travail, laisser un autre adulte prendre la suite.",
+        "start": 2,
+        "end": 475
+      },
+      {
+        "quote": "Nadir accepte de reprendre provisoirement la fiche sous la coordination de Maud. Loïc convient d’un échange clinique avant de confirmer son créneau. Le comité sait que l’organisation reste ouverte ; il n’a reçu ni carnet de santé ni explication sur le contenu de la préoccupation. Loïc garde pour le rendez-vous un repère précis : le moment où il a cessé de suivre la conversation.",
+        "start": 4017,
+        "end": 4398
+      }
+    ],
+    "canonical_concept": "Préoccupation et attention captée",
+    "context": "À la réunion du comité de la brocante",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour signaler la difficulté et reprendre le cadre prévu"
+    ],
+    "clinical_code": "6C70",
+    "clinical_diagnosis": "Pyromanie"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/loic-prevention-contexte": {
+    "character": "Loïc",
+    "character_id": "loic",
+    "keywords": [
+      "Pyromanie",
+      "Prévention individualisée",
+      "Conditions de participation"
+    ],
+    "character_keywords": [
+      "Pyromanie",
+      "Préoccupations persistantes",
+      "Tension et contrôle",
+      "Prévention individualisée",
+      "Participation et relais"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "75fac0648595e5e5332f4cf1c19c458e899f89192433b311e2c37d554de358b3",
+    "summary": "Maud a imprimé une nouvelle fiche. Les noms ne sont plus accompagnés de promesses vagues comme passer un moment ou être dans le coin. Chaque adulte indique le créneau qu’il peut réellement tenir. Nadir retrouve Loïc autour de la table et précise quand il pourra prendre la suite. L’arrivée plus tardive d’Elsa figure dans leurs échanges personnels ; elle n’est pas utilisée pour combler une case vide du comité.\n\n[…]\n\nMaud confirme le créneau de réparation avec Nadir, sous réserve du maintien des conditions convenues. Loïc laisse la tâche supplémentaire à l’adulte qui l’a acceptée. Il peut se réjouir d’avoir une place précise, sans prétendre que la fiche règle toute question de santé. Avant la dernière préparation, il remarque toutefois que des préoccupations reprennent de la place. Il prévoit de les signaler avant de décider de sa présence.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Maud a imprimé une nouvelle fiche. Les noms ne sont plus accompagnés de promesses vagues comme passer un moment ou être dans le coin. Chaque adulte indique le créneau qu’il peut réellement tenir. Nadir retrouve Loïc autour de la table et précise quand il pourra prendre la suite. L’arrivée plus tardive d’Elsa figure dans leurs échanges personnels ; elle n’est pas utilisée pour combler une case vide du comité.",
+        "start": 2,
+        "end": 413
+      },
+      {
+        "quote": "Maud confirme le créneau de réparation avec Nadir, sous réserve du maintien des conditions convenues. Loïc laisse la tâche supplémentaire à l’adulte qui l’a acceptée. Il peut se réjouir d’avoir une place précise, sans prétendre que la fiche règle toute question de santé. Avant la dernière préparation, il remarque toutefois que des préoccupations reprennent de la place. Il prévoit de les signaler avant de décider de sa présence.",
+        "start": 4245,
+        "end": 4676
+      }
+    ],
+    "canonical_concept": "Prévention adaptée au contexte",
+    "context": "Au comité, autour de la fiche de créneaux",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour vérifier une organisation avant de s’engager"
+    ],
+    "clinical_code": "6C70",
+    "clinical_diagnosis": "Pyromanie"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/loic-soins-preuves-limitees": {
+    "character": "Loïc",
+    "character_id": "loic",
+    "keywords": [
+      "Pyromanie",
+      "Soins spécialisés",
+      "Limites des preuves"
+    ],
+    "character_keywords": [
+      "Pyromanie",
+      "Préoccupations persistantes",
+      "Tension et contrôle",
+      "Prévention individualisée",
+      "Participation et relais"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "ebc173100a81b5af1de2ccf7115b6a1e8b9148c9717ebe204dea04a705b067a9",
+    "summary": "Loïc a inscrit sa question en haut de la page : « Si je fais tout correctement, est-ce que cela ne reviendra plus ? » Il l’a trouvée trop directe, puis a décidé de la garder. La dernière préparation a été reprise par le comité. Son plan a été révisé et sa participation envisagée est plus courte. Il veut comprendre ce que ces décisions et son accompagnement permettent réellement d’attendre.\n\n[…]\n\nLoïc retient avec l’équipe l’objectif d’utiliser le relais prévu et de transmettre les changements, plutôt que de prouver une guérison à travers sa présence. Les conditions du créneau bref sont revues pour le lendemain. Maud et Nadir reconfirment ensuite leur présence et l’organisation pratique, avec une possibilité réelle de retrait. Loïc garde la date du prochain suivi ; accomplir la démonstration ne le fera pas disparaître de son agenda.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Loïc a inscrit sa question en haut de la page : « Si je fais tout correctement, est-ce que cela ne reviendra plus ? » Il l’a trouvée trop directe, puis a décidé de la garder. La dernière préparation a été reprise par le comité. Son plan a été révisé et sa participation envisagée est plus courte. Il veut comprendre ce que ces décisions et son accompagnement permettent réellement d’attendre.",
+        "start": 2,
+        "end": 394
+      },
+      {
+        "quote": "Loïc retient avec l’équipe l’objectif d’utiliser le relais prévu et de transmettre les changements, plutôt que de prouver une guérison à travers sa présence. Les conditions du créneau bref sont revues pour le lendemain. Maud et Nadir reconfirment ensuite leur présence et l’organisation pratique, avec une possibilité réelle de retrait. Loïc garde la date du prochain suivi ; accomplir la démonstration ne le fera pas disparaître de son agenda.",
+        "start": 4661,
+        "end": 5105
+      }
+    ],
+    "canonical_concept": "Soins spécialisés et preuves limitées",
+    "context": "Une consultation avant la journée de démonstration",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour discuter des objectifs et des limites du suivi"
+    ],
+    "clinical_code": "6C70",
+    "clinical_diagnosis": "Pyromanie"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/loic-solitude-contexte-affectif": {
+    "character": "Loïc",
+    "character_id": "loic",
+    "keywords": [
+      "Pyromanie",
+      "Contexte affectif",
+      "Solitude"
+    ],
+    "character_keywords": [
+      "Pyromanie",
+      "Préoccupations persistantes",
+      "Tension et contrôle",
+      "Prévention individualisée",
+      "Participation et relais"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "340fc6d5771c7fe25a31705a51d0e08976e9c46738db73b3898fbde7f0386533",
+    "summary": "Les notices sont rangées et les boîtes portent toutes une étiquette lisible. Loïc regarde le résultat avec moins de satisfaction qu’il ne l’avait prévu. La séance de préparation a été redistribuée ; personne ne lui demande un renseignement urgent et il n’a pas de document à terminer pour Maud. Ce calme lui laisse une impression qu’il formule mal. Il avait besoin de s’arrêter, mais il se sent maintenant inutile.\n\n[…]\n\nElsa peut parler ce soir, mais elle ne sera pas disponible le lendemain. Loïc le note sans lui demander de trouver quelqu’un pour surveiller sa soirée. Il organise son prochain contact avec l’équipe selon les modalités revues et garde le sentiment d’inutilité parmi les points à discuter. Leur appel se termine sur les notices, puis sur une question d’Elsa qui ne concerne pas la brocante. Loïc n’a pas résolu chaque heure à venir ; il a pu dire ce qui rendait celle-ci difficile.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Les notices sont rangées et les boîtes portent toutes une étiquette lisible. Loïc regarde le résultat avec moins de satisfaction qu’il ne l’avait prévu. La séance de préparation a été redistribuée ; personne ne lui demande un renseignement urgent et il n’a pas de document à terminer pour Maud. Ce calme lui laisse une impression qu’il formule mal. Il avait besoin de s’arrêter, mais il se sent maintenant inutile.",
+        "start": 2,
+        "end": 416
+      },
+      {
+        "quote": "Elsa peut parler ce soir, mais elle ne sera pas disponible le lendemain. Loïc le note sans lui demander de trouver quelqu’un pour surveiller sa soirée. Il organise son prochain contact avec l’équipe selon les modalités revues et garde le sentiment d’inutilité parmi les points à discuter. Leur appel se termine sur les notices, puis sur une question d’Elsa qui ne concerne pas la brocante. Loïc n’a pas résolu chaque heure à venir ; il a pu dire ce qui rendait celle-ci difficile.",
+        "start": 4212,
+        "end": 4692
+      }
+    ],
+    "canonical_concept": "États affectifs et vulnérabilité",
+    "context": "Une soirée libérée par le changement de tâche",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour parler du contexte sans confondre compagnie et soin"
+    ],
+    "clinical_code": "6C70",
+    "clinical_diagnosis": "Pyromanie"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/loic-soulagement-consequences": {
+    "character": "Loïc",
+    "character_id": "loic",
+    "keywords": [
+      "Pyromanie",
+      "Soulagement immédiat",
+      "Conséquences"
+    ],
+    "character_keywords": [
+      "Pyromanie",
+      "Préoccupations persistantes",
+      "Tension et contrôle",
+      "Prévention individualisée",
+      "Participation et relais"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "c358d9a0080692c3a200e5b188ca27a45051652ca00904c2d4d24ce1b3ccf4b6",
+    "summary": "Loïc arrive au rendez-vous suivant avec son carnet fermé. La question est déjà notée, mais il n’aime pas la voir sur la page. Il a demandé ce temps pour parler d’un soulagement ancien. La docteure Perrin lui laisse commencer sans reprendre les détails qu’il ne souhaite pas redécrire. « J’avais dit que ce n’était rien, parce qu’après je me sentais moins tendu. » La phrase s’arrête là.\n\n[…]\n\nLoïc barre « ce n’était rien » dans sa note. Il écrit que le soulagement ne résume pas les conséquences et demande que ce point reste dans leur travail clinique. Il ne cherche pas à faire approuver cette correction par Elsa. Puis il reprend la question du temps : que faire lorsque la difficulté s’installe bien avant une réunion ? La docteure propose d’examiner avec lui ce délai lors de leur prochain échange sur le plan.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Loïc arrive au rendez-vous suivant avec son carnet fermé. La question est déjà notée, mais il n’aime pas la voir sur la page. Il a demandé ce temps pour parler d’un soulagement ancien. La docteure Perrin lui laisse commencer sans reprendre les détails qu’il ne souhaite pas redécrire. « J’avais dit que ce n’était rien, parce qu’après je me sentais moins tendu. » La phrase s’arrête là.",
+        "start": 2,
+        "end": 388
+      },
+      {
+        "quote": "Loïc barre « ce n’était rien » dans sa note. Il écrit que le soulagement ne résume pas les conséquences et demande que ce point reste dans leur travail clinique. Il ne cherche pas à faire approuver cette correction par Elsa. Puis il reprend la question du temps : que faire lorsque la difficulté s’installe bien avant une réunion ? La docteure propose d’examiner avec lui ce délai lors de leur prochain échange sur le plan.",
+        "start": 4260,
+        "end": 4683
+      }
+    ],
+    "canonical_concept": "Soulagement immédiat et conséquences",
+    "context": "Au rendez-vous suivant avec la docteure Perrin",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour parler du ressenti sans minimiser les conséquences"
+    ],
+    "clinical_code": "6C70",
+    "clinical_diagnosis": "Pyromanie"
+  },
   "posts/comprendre-et-maitriser-ses-emotions/louise-concentration-facture-avel": {
     "character": "Louise",
     "character_id": "louise",
@@ -26428,6 +27390,486 @@
     ],
     "clinical_code": "6A40",
     "clinical_diagnosis": "Catatonie associée à un autre trouble mental"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/malou-choix-des-acteurs": {
+    "character": "Malou",
+    "character_id": "malou",
+    "keywords": [
+      "Trouble dissocial du comportement",
+      "Droits des autres",
+      "Consentement"
+    ],
+    "character_keywords": [
+      "Trouble dissocial du comportement",
+      "Droits des autres",
+      "Responsabilité et réparation",
+      "Confiance et sécurité",
+      "Soutien familial"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "123021c031c1ab88f2c8c41df87e7cc8b4bb190d8053608e719cc9d63a255d5f",
+    "summary": "Le carnet orange est ouvert à la dernière page de La Fenêtre du palier. Malou a dessiné deux silhouettes près d’une plante et tracé une flèche entre elles. Elle veut que les voisins se réconcilient sans musique, avec seulement le bruit de la porte. À quinze ans, elle se forme au montage vidéo à l’association Le Passage. Elle connaît précisément le raccord qu’elle voudrait obtenir. Sana, qui joue l’un des personnages, relit la proposition et repose le crayon.\n\n[…]\n\nMalou referme le carnet sans obtenir de nouvelle réponse de Sana. Avec Marc, elle retient deux pistes à préparer seule : une fin sans réconciliation et une autre où le voisin repart après avoir posé la plante. La séance collective reste suspendue. Malou trouve encore la première version moins forte, mais elle accepte de la dessiner. Les modifications déplaceront le planning ; ce retard ne pourra pas être attribué uniquement au refus de Sana.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Le carnet orange est ouvert à la dernière page de La Fenêtre du palier. Malou a dessiné deux silhouettes près d’une plante et tracé une flèche entre elles. Elle veut que les voisins se réconcilient sans musique, avec seulement le bruit de la porte. À quinze ans, elle se forme au montage vidéo à l’association Le Passage. Elle connaît précisément le raccord qu’elle voudrait obtenir. Sana, qui joue l’un des personnages, relit la proposition et repose le crayon.",
+        "start": 2,
+        "end": 464
+      },
+      {
+        "quote": "Malou referme le carnet sans obtenir de nouvelle réponse de Sana. Avec Marc, elle retient deux pistes à préparer seule : une fin sans réconciliation et une autre où le voisin repart après avoir posé la plante. La séance collective reste suspendue. Malou trouve encore la première version moins forte, mais elle accepte de la dessiner. Les modifications déplaceront le planning ; ce retard ne pourra pas être attribué uniquement au refus de Sana.",
+        "start": 4180,
+        "end": 4625
+      }
+    ],
+    "canonical_concept": "Respecter le choix des autres",
+    "context": "À la table du scénario",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour garder une place réelle au choix des autres"
+    ],
+    "clinical_code": "6C91",
+    "clinical_diagnosis": "Trouble dissocial du comportement"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/malou-confiance-et-temps": {
+    "character": "Malou",
+    "character_id": "malou",
+    "keywords": [
+      "Trouble dissocial du comportement",
+      "Confiance",
+      "Temporalités"
+    ],
+    "character_keywords": [
+      "Trouble dissocial du comportement",
+      "Droits des autres",
+      "Responsabilité et réparation",
+      "Confiance et sécurité",
+      "Soutien familial"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "27c5be0ecaaecb15a86fdddb4fcbdb83d9fba515ff78236ab7f97d4a5feae6d1",
+    "summary": "La salle de montage ne contient que Malou et Marc. Le groupe n’a pas repris. Sur l’écran, la plante passe d’un bord de l’image à l’autre et le raccord de lumière tient enfin. Malou relance le passage sans musique. Elle aime le silence qui reste après la porte. La version se termine sans la réconciliation refusée ; elle commence à y voir quelque chose de différent d’un simple manque.\n\n[…]\n\nMalou ne contacte pas Sana pour obtenir une réponse différente. Elle poursuit l’assemblage avec Marc et garde les choix de Joël ouverts. Elle sait maintenant quelle version elle pourrait proposer sans demander la scène refusée. Cela ne suffit pas à réparer l’échange initial. Elle souhaite préparer une note pour reconnaître la pression exercée ; Marc lui précise qu’il faudra d’abord vérifier si Sana souhaite la recevoir, sans lui imposer une rencontre.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "La salle de montage ne contient que Malou et Marc. Le groupe n’a pas repris. Sur l’écran, la plante passe d’un bord de l’image à l’autre et le raccord de lumière tient enfin. Malou relance le passage sans musique. Elle aime le silence qui reste après la porte. La version se termine sans la réconciliation refusée ; elle commence à y voir quelque chose de différent d’un simple manque.",
+        "start": 2,
+        "end": 387
+      },
+      {
+        "quote": "Malou ne contacte pas Sana pour obtenir une réponse différente. Elle poursuit l’assemblage avec Marc et garde les choix de Joël ouverts. Elle sait maintenant quelle version elle pourrait proposer sans demander la scène refusée. Cela ne suffit pas à réparer l’échange initial. Elle souhaite préparer une note pour reconnaître la pression exercée ; Marc lui précise qu’il faudra d’abord vérifier si Sana souhaite la recevoir, sans lui imposer une rencontre.",
+        "start": 4154,
+        "end": 4609
+      }
+    ],
+    "canonical_concept": "Reconstruire une confiance fragilisée",
+    "context": "Pendant le montage individuel",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour laisser du temps à la confiance"
+    ],
+    "clinical_code": "6C91",
+    "clinical_diagnosis": "Trouble dissocial du comportement"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/malou-consequences-et-intention": {
+    "character": "Malou",
+    "character_id": "malou",
+    "keywords": [
+      "Trouble dissocial du comportement",
+      "Conséquences",
+      "Responsabilité"
+    ],
+    "character_keywords": [
+      "Trouble dissocial du comportement",
+      "Droits des autres",
+      "Responsabilité et réparation",
+      "Confiance et sécurité",
+      "Soutien familial"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "58e7c9cd22bc2939b74818c01fd426a33d43d5b84174e5abca5a40ea8f656d43",
+    "summary": "Inès pose le planning à côté du carnet orange. La préparation se poursuit individuellement ; les acteurs ne sont pas présents et la séance collective reste suspendue. Malou a dessiné les deux fins proposées, mais elle a barré le jour prévu pour les revoir avec Sana et Joël. « Tout est en retard parce qu’elle a changé d’avis », dit-elle en montrant le prénom de Sana. Inès, son éducatrice référente, ne lui demande pas de choisir immédiatement une autre phrase. Elle reprend l’ordre des faits.\n\n[…]\n\nMalou écrit : « J’ai continué après le refus ; la discussion a été arrêtée. » Elle ne transforme pas Sana en responsable de cette décision. Inès conserve aussi les deux variantes préparées, qui témoignent d’un travail réel. Le planning reste à revoir. Marc transmettra une courte note du groupe sur les conditions nécessaires avant une nouvelle discussion. Malou attendra cette note dans le cadre individuel, sans chercher à faire avancer la réponse directement auprès des acteurs.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Inès pose le planning à côté du carnet orange. La préparation se poursuit individuellement ; les acteurs ne sont pas présents et la séance collective reste suspendue. Malou a dessiné les deux fins proposées, mais elle a barré le jour prévu pour les revoir avec Sana et Joël. « Tout est en retard parce qu’elle a changé d’avis », dit-elle en montrant le prénom de Sana. Inès, son éducatrice référente, ne lui demande pas de choisir immédiatement une autre phrase. Elle reprend l’ordre des faits.",
+        "start": 2,
+        "end": 496
+      },
+      {
+        "quote": "Malou écrit : « J’ai continué après le refus ; la discussion a été arrêtée. » Elle ne transforme pas Sana en responsable de cette décision. Inès conserve aussi les deux variantes préparées, qui témoignent d’un travail réel. Le planning reste à revoir. Marc transmettra une courte note du groupe sur les conditions nécessaires avant une nouvelle discussion. Malou attendra cette note dans le cadre individuel, sans chercher à faire avancer la réponse directement auprès des acteurs.",
+        "start": 4145,
+        "end": 4626
+      }
+    ],
+    "canonical_concept": "Reconnaître les conséquences de ses actes",
+    "context": "En préparation individuelle",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour reconnaître une responsabilité précise"
+    ],
+    "clinical_code": "6C91",
+    "clinical_diagnosis": "Trouble dissocial du comportement"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/malou-coordonner-les-attentes": {
+    "character": "Malou",
+    "character_id": "malou",
+    "keywords": [
+      "Trouble dissocial du comportement",
+      "Coordination",
+      "Rôles distincts"
+    ],
+    "character_keywords": [
+      "Trouble dissocial du comportement",
+      "Droits des autres",
+      "Responsabilité et réparation",
+      "Confiance et sécurité",
+      "Soutien familial"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "96abaa116af71fd8bb15de46a5c9d707c472ae728140912350b29cf6d054a3b9",
+    "summary": "Malou entre dans le bureau d’Inès avec une phrase qui lui paraît régler la question : ses parents sont d’accord pour qu’elle retourne à l’association. Elle a compris cet accord comme la fin de la suspension du groupe. Inès lui demande ce qui a précisément été dit. Nadia et Étienne soutiennent une reprise préparée ; ils n’ont pas décidé de la séance collective à la place de Marc. Malou soupire : il y a toujours, selon elle, un autre adulte à qui demander.\n\n[…]\n\nMarc autorise une séance de montage avec Malou seule. Ils en précisent les conditions ; la séance collective n’est pas rétablie. Le carnet orange conserve cet engagement et les deux versions du scénario, pas les informations de soin. Malou trouve encore les colonnes trop nombreuses, mais elle sait ce qui est possible à la prochaine venue. Elle veut que ce premier assemblage soit si bon que les acteurs reviendront. Marc lui rappelle qu’ils garderont leur propre décision.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Malou entre dans le bureau d’Inès avec une phrase qui lui paraît régler la question : ses parents sont d’accord pour qu’elle retourne à l’association. Elle a compris cet accord comme la fin de la suspension du groupe. Inès lui demande ce qui a précisément été dit. Nadia et Étienne soutiennent une reprise préparée ; ils n’ont pas décidé de la séance collective à la place de Marc. Malou soupire : il y a toujours, selon elle, un autre adulte à qui demander.",
+        "start": 2,
+        "end": 460
+      },
+      {
+        "quote": "Marc autorise une séance de montage avec Malou seule. Ils en précisent les conditions ; la séance collective n’est pas rétablie. Le carnet orange conserve cet engagement et les deux versions du scénario, pas les informations de soin. Malou trouve encore les colonnes trop nombreuses, mais elle sait ce qui est possible à la prochaine venue. Elle veut que ce premier assemblage soit si bon que les acteurs reviendront. Marc lui rappelle qu’ils garderont leur propre décision.",
+        "start": 4414,
+        "end": 4888
+      }
+    ],
+    "canonical_concept": "Coordonner les attentes entre plusieurs lieux",
+    "context": "Au point préparatoire entre adultes",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour rendre les attentes plus lisibles"
+    ],
+    "clinical_code": "6C91",
+    "clinical_diagnosis": "Trouble dissocial du comportement"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/malou-famille-et-epuisement": {
+    "character": "Malou",
+    "character_id": "malou",
+    "keywords": [
+      "Trouble dissocial du comportement",
+      "Retentissement familial",
+      "Soutien des parents"
+    ],
+    "character_keywords": [
+      "Trouble dissocial du comportement",
+      "Droits des autres",
+      "Responsabilité et réparation",
+      "Confiance et sécurité",
+      "Soutien familial"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "b203a14c2b79fd6b6b11cbfbcdc840e9efac3deb8c38c1598f6902ed0b59b142",
+    "summary": "Au dîner, Nadia demande à Malou si elle se souvient de ce qui a été décidé avec Mme Girard. Malou répond oui. Sa mère reprend pourtant les différents points, craignant d’en oublier un. Étienne apporte les assiettes et change de sujet vers le lendemain. Malou lui demande ce qu’il pense de la fin du film ; il répond qu’ils en reparleront plus tard. Elle entend surtout que personne ne veut plus entendre parler d’autre chose que du problème.\n\n[…]\n\nLa famille reprend la question avec l’équipe et fixe un bref échange prévu pour les points utiles. Nadia demande également un soutien pour elle-même. Au repas suivant, ils gardent les questions non urgentes pour ce moment convenu. Malou montre ses deux dessins, puis Étienne parle d’autre chose. Le suivi n’a pas disparu ; il ne doit plus occuper toutes les phrases. Il reste maintenant à clarifier ce que les différents adultes peuvent réellement autoriser avant une séance de montage individuelle.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Au dîner, Nadia demande à Malou si elle se souvient de ce qui a été décidé avec Mme Girard. Malou répond oui. Sa mère reprend pourtant les différents points, craignant d’en oublier un. Étienne apporte les assiettes et change de sujet vers le lendemain. Malou lui demande ce qu’il pense de la fin du film ; il répond qu’ils en reparleront plus tard. Elle entend surtout que personne ne veut plus entendre parler d’autre chose que du problème.",
+        "start": 2,
+        "end": 443
+      },
+      {
+        "quote": "La famille reprend la question avec l’équipe et fixe un bref échange prévu pour les points utiles. Nadia demande également un soutien pour elle-même. Au repas suivant, ils gardent les questions non urgentes pour ce moment convenu. Malou montre ses deux dessins, puis Étienne parle d’autre chose. Le suivi n’a pas disparu ; il ne doit plus occuper toutes les phrases. Il reste maintenant à clarifier ce que les différents adultes peuvent réellement autoriser avant une séance de montage individuelle.",
+        "start": 4320,
+        "end": 4819
+      }
+    ],
+    "canonical_concept": "Retentissement familial et épuisement des proches",
+    "context": "À la maison après le suivi",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour garder une vie familiale au-delà du suivi"
+    ],
+    "clinical_code": "6C91",
+    "clinical_diagnosis": "Trouble dissocial du comportement"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/malou-film-termine-suivi-poursuivi": {
+    "character": "Malou",
+    "character_id": "malou",
+    "keywords": [
+      "Trouble dissocial du comportement",
+      "Évolution",
+      "Continuité du soutien"
+    ],
+    "character_keywords": [
+      "Trouble dissocial du comportement",
+      "Droits des autres",
+      "Responsabilité et réparation",
+      "Confiance et sécurité",
+      "Soutien familial"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "8acda3fbebff03334ee133a2d88af46ff4da1937665badf6f9b4db673d2e8445",
+    "summary": "Marc baisse la lumière pour la projection interne de La Fenêtre du palier. La version retenue est prête ; les noms apparaissent selon les choix des participants. Rien n’est annoncé pour une publication en ligne. Malou a vérifié le dernier raccord avec lui, puis rangé le carnet orange. Elle présente simplement le titre et remercie les personnes qui ont accepté de participer. Sana est venue à cette séance sans avoir accepté une discussion en tête-à-tête ni la scène de réconciliation initiale.\n\n[…]\n\nLa projection se termine et Marc confirme que le court métrage est achevé dans sa version acceptée. Malou ne demande pas à Sana de rester pour discuter. Elle ouvre le carnet orange sur une page nouvelle et écrit quelques mots pour son idée de documentaire. Ce projet n’a pas encore d’équipe ni d’accords ; il reste à préparer. Elle range ensuite le carnet et garde son rendez-vous de suivi. Ses relations ont changé, certaines limites demeurent, et le film existe sans que tout le monde ait dû vouloir la même fin.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Marc baisse la lumière pour la projection interne de La Fenêtre du palier. La version retenue est prête ; les noms apparaissent selon les choix des participants. Rien n’est annoncé pour une publication en ligne. Malou a vérifié le dernier raccord avec lui, puis rangé le carnet orange. Elle présente simplement le titre et remercie les personnes qui ont accepté de participer. Sana est venue à cette séance sans avoir accepté une discussion en tête-à-tête ni la scène de réconciliation initiale.",
+        "start": 2,
+        "end": 497
+      },
+      {
+        "quote": "La projection se termine et Marc confirme que le court métrage est achevé dans sa version acceptée. Malou ne demande pas à Sana de rester pour discuter. Elle ouvre le carnet orange sur une page nouvelle et écrit quelques mots pour son idée de documentaire. Ce projet n’a pas encore d’équipe ni d’accords ; il reste à préparer. Elle range ensuite le carnet et garde son rendez-vous de suivi. Ses relations ont changé, certaines limites demeurent, et le film existe sans que tout le monde ait dû vouloir la même fin.",
+        "start": 4397,
+        "end": 4911
+      }
+    ],
+    "canonical_concept": "Évolution ouverte et continuité du soutien",
+    "context": "À la projection interne",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour préparer la suite sans tout remettre à zéro"
+    ],
+    "clinical_code": "6C91",
+    "clinical_diagnosis": "Trouble dissocial du comportement"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/malou-intentions-supposees": {
+    "character": "Malou",
+    "character_id": "malou",
+    "keywords": [
+      "Trouble dissocial du comportement",
+      "Interprétation",
+      "Clarification"
+    ],
+    "character_keywords": [
+      "Trouble dissocial du comportement",
+      "Droits des autres",
+      "Responsabilité et réparation",
+      "Confiance et sécurité",
+      "Soutien familial"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "06d9c380fc74844d0076804e56689b26bc3de1ad30b95d4fb3b9f304e440daef",
+    "summary": "La note tient sur quelques lignes. Marc l’a transmise à Inès pour la préparer avec Malou : les acteurs veulent que leur choix de rôle soit respecté, qu’une discussion reste encadrée et qu’aucune réponse immédiate ne leur soit demandée. La séance collective demeure suspendue. Malou lit jusqu’au bout, puis replie la feuille. « Ils veulent que je parte. Ils n’ont qu’à le dire. » Elle pousse le carnet orange de l’autre côté de la table.\n\n[…]\n\nMarc confirme qu’un rendez-vous de préparation peut être organisé avec les adultes concernés. La séance collective reste suspendue ; aucune date de retour n’est promise. Malou écrit ces deux informations séparément dans le carnet. Elle n’est pas satisfaite de la seconde, mais la première existe. Des camarades lui envoient ensuite des messages sur la manière dont elle devrait répondre au groupe. Elle ne les transforme pas encore en décision.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "La note tient sur quelques lignes. Marc l’a transmise à Inès pour la préparer avec Malou : les acteurs veulent que leur choix de rôle soit respecté, qu’une discussion reste encadrée et qu’aucune réponse immédiate ne leur soit demandée. La séance collective demeure suspendue. Malou lit jusqu’au bout, puis replie la feuille. « Ils veulent que je parte. Ils n’ont qu’à le dire. » Elle pousse le carnet orange de l’autre côté de la table.",
+        "start": 2,
+        "end": 438
+      },
+      {
+        "quote": "Marc confirme qu’un rendez-vous de préparation peut être organisé avec les adultes concernés. La séance collective reste suspendue ; aucune date de retour n’est promise. Malou écrit ces deux informations séparément dans le carnet. Elle n’est pas satisfaite de la seconde, mais la première existe. Des camarades lui envoient ensuite des messages sur la manière dont elle devrait répondre au groupe. Elle ne les transforme pas encore en décision.",
+        "start": 4218,
+        "end": 4662
+      }
+    ],
+    "canonical_concept": "Attribuer trop vite des intentions hostiles",
+    "context": "À la lecture d’une note",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour demander une clarification sans confrontation"
+    ],
+    "clinical_code": "6C91",
+    "clinical_diagnosis": "Trouble dissocial du comportement"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/malou-interrompre-escalade": {
+    "character": "Malou",
+    "character_id": "malou",
+    "keywords": [
+      "Trouble dissocial du comportement",
+      "Colère",
+      "Sécurité"
+    ],
+    "character_keywords": [
+      "Trouble dissocial du comportement",
+      "Droits des autres",
+      "Responsabilité et réparation",
+      "Confiance et sécurité",
+      "Soutien familial"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "7d14c0b53f883e554d079ca626f6ceee6030ca63a3903475a276d767000eb78b",
+    "summary": "Marc a prévu un rendez-vous avec Malou et Inès, sans les acteurs. Le carnet orange reste sur la table, ouvert sur les deux fins possibles. Malou commence par demander quand elle pourra les montrer au groupe. Marc répond qu’ils vont préparer les conditions, mais que la séance collective reste suspendue. Elle le savait avant de venir ; l’entendre maintenant lui paraît pourtant refermer la seule porte qu’elle avait gardée ouverte.\n\n[…]\n\nUne fois le calme revenu, Inès contacte effectivement l’équipe spécialisée avec Malou et ses parents. Elles décrivent le rendez-vous interrompu sans demander aux acteurs de témoigner devant elle. Un point clinique est organisé ; aucune reprise collective n’est annoncée. Malou reprend son carnet, toujours contrariée. Elle sait que le prochain échange avec Mme Girard portera aussi sur cet événement, et craint déjà qu’il ne serve qu’à lui apprendre à obéir.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Marc a prévu un rendez-vous avec Malou et Inès, sans les acteurs. Le carnet orange reste sur la table, ouvert sur les deux fins possibles. Malou commence par demander quand elle pourra les montrer au groupe. Marc répond qu’ils vont préparer les conditions, mais que la séance collective reste suspendue. Elle le savait avant de venir ; l’entendre maintenant lui paraît pourtant refermer la seule porte qu’elle avait gardée ouverte.",
+        "start": 2,
+        "end": 433
+      },
+      {
+        "quote": "Une fois le calme revenu, Inès contacte effectivement l’équipe spécialisée avec Malou et ses parents. Elles décrivent le rendez-vous interrompu sans demander aux acteurs de témoigner devant elle. Un point clinique est organisé ; aucune reprise collective n’est annoncée. Malou reprend son carnet, toujours contrariée. Elle sait que le prochain échange avec Mme Girard portera aussi sur cet événement, et craint déjà qu’il ne serve qu’à lui apprendre à obéir.",
+        "start": 4367,
+        "end": 4825
+      }
+    ],
+    "canonical_concept": "Interrompre une escalade de colère",
+    "context": "Au rendez-vous préparatoire",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour préparer une interruption avec les adultes"
+    ],
+    "clinical_code": "6C91",
+    "clinical_diagnosis": "Trouble dissocial du comportement"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/malou-mefiance-envers-soin": {
+    "character": "Malou",
+    "character_id": "malou",
+    "keywords": [
+      "Trouble dissocial du comportement",
+      "Alliance de soin",
+      "Participation"
+    ],
+    "character_keywords": [
+      "Trouble dissocial du comportement",
+      "Droits des autres",
+      "Responsabilité et réparation",
+      "Confiance et sécurité",
+      "Soutien familial"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "6748d00804d3a402445f20b0521fc3ca52d4c4b1ba59e39715a5ea4f5d22044c",
+    "summary": "Malou arrive chez Mme Girard avec le carnet orange fermé contre elle. Le contact pris après le rendez-vous avec Marc a bien conduit à ce point clinique. Nadia et Étienne sont présents au début, puis un temps individuel est prévu. Malou connaît déjà la psychologue et son diagnostic ; elle n’attend pourtant pas grand-chose de cette rencontre. Elle imagine la liste des comportements qui ont déplu aux adultes et la phrase qui les résumerait : il faut écouter.\n\n[…]\n\nMalou accepte de travailler avec l’équipe sur un objectif concret : pouvoir recevoir une limite sans continuer à faire pression sur l’autre. Elle ne promet pas d’y parvenir immédiatement et Mme Girard ne lève pas la suspension associative. Les parents rejoignent la fin de l’entretien selon le cadre expliqué. Les appuis à poursuivre sont discutés avec eux. Le film reste dans le carnet ; les informations de soin gardent leur place propre. À la maison, il faudra encore trouver comment parler de ces appuis sans occuper chaque repas.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Malou arrive chez Mme Girard avec le carnet orange fermé contre elle. Le contact pris après le rendez-vous avec Marc a bien conduit à ce point clinique. Nadia et Étienne sont présents au début, puis un temps individuel est prévu. Malou connaît déjà la psychologue et son diagnostic ; elle n’attend pourtant pas grand-chose de cette rencontre. Elle imagine la liste des comportements qui ont déplu aux adultes et la phrase qui les résumerait : il faut écouter.",
+        "start": 2,
+        "end": 461
+      },
+      {
+        "quote": "Malou accepte de travailler avec l’équipe sur un objectif concret : pouvoir recevoir une limite sans continuer à faire pression sur l’autre. Elle ne promet pas d’y parvenir immédiatement et Mme Girard ne lève pas la suspension associative. Les parents rejoignent la fin de l’entretien selon le cadre expliqué. Les appuis à poursuivre sont discutés avec eux. Le film reste dans le carnet ; les informations de soin gardent leur place propre. À la maison, il faudra encore trouver comment parler de ces appuis sans occuper chaque repas.",
+        "start": 4323,
+        "end": 4857
+      }
+    ],
+    "canonical_concept": "Méfiance envers les propositions de soin",
+    "context": "Au rendez-vous spécialisé",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour poser ses questions sur le soin"
+    ],
+    "clinical_code": "6C91",
+    "clinical_diagnosis": "Trouble dissocial du comportement"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/malou-reparation-sans-pardon": {
+    "character": "Malou",
+    "character_id": "malou",
+    "keywords": [
+      "Trouble dissocial du comportement",
+      "Réparation",
+      "Limites relationnelles"
+    ],
+    "character_keywords": [
+      "Trouble dissocial du comportement",
+      "Droits des autres",
+      "Responsabilité et réparation",
+      "Confiance et sécurité",
+      "Soutien familial"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "2e9e0678f024f32ad82856fc477fb80112a1b5981a5ee67c29a06d622544c865",
+    "summary": "Malou écrit la première phrase de sa note dans le carnet orange, puis la barre. Elle avait commencé par expliquer combien la scène comptait pour elle. Cela reprendrait surtout sa propre déception. Marc est présent à cette séance individuelle ; Sana et Joël ne sont pas convoqués pour entendre ses raisons. Malou recommence : elle a dit que le choix de Sana ne comptait plus, puis insisté après son refus. Ces faits tiennent sur une ligne moins brillante que ses explications, mais plus précise.\n\n[…]\n\nMarc vérifie la demande auprès de Sana. Elle accepte la note et la nouvelle version, mais ne souhaite pas en discuter en personne. Malou reçoit cette réponse sans chercher un autre canal. La scène de réconciliation est retirée ; le montage conserve une fin qui ne l’exige plus. Cette étape permet de préparer une présentation à un petit groupe sous les conditions prévues. Elle ne vaut pas un retour à la relation d’avant et ne lève pas les appuis adultes.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Malou écrit la première phrase de sa note dans le carnet orange, puis la barre. Elle avait commencé par expliquer combien la scène comptait pour elle. Cela reprendrait surtout sa propre déception. Marc est présent à cette séance individuelle ; Sana et Joël ne sont pas convoqués pour entendre ses raisons. Malou recommence : elle a dit que le choix de Sana ne comptait plus, puis insisté après son refus. Ces faits tiennent sur une ligne moins brillante que ses explications, mais plus précise.",
+        "start": 2,
+        "end": 496
+      },
+      {
+        "quote": "Marc vérifie la demande auprès de Sana. Elle accepte la note et la nouvelle version, mais ne souhaite pas en discuter en personne. Malou reçoit cette réponse sans chercher un autre canal. La scène de réconciliation est retirée ; le montage conserve une fin qui ne l’exige plus. Cette étape permet de préparer une présentation à un petit groupe sous les conditions prévues. Elle ne vaut pas un retour à la relation d’avant et ne lève pas les appuis adultes.",
+        "start": 4206,
+        "end": 4662
+      }
+    ],
+    "canonical_concept": "Réparer sans exiger le pardon",
+    "context": "En préparation de la nouvelle version",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour proposer une réparation sans l’imposer"
+    ],
+    "clinical_code": "6C91",
+    "clinical_diagnosis": "Trouble dissocial du comportement"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/malou-reprise-et-limites": {
+    "character": "Malou",
+    "character_id": "malou",
+    "keywords": [
+      "Trouble dissocial du comportement",
+      "Reprise progressive",
+      "Limites"
+    ],
+    "character_keywords": [
+      "Trouble dissocial du comportement",
+      "Droits des autres",
+      "Responsabilité et réparation",
+      "Confiance et sécurité",
+      "Soutien familial"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "9f3032a7ef7f9a5219c63ab94d3b4e77f7dfb05e35db55c90ec7b3933b5d3a6b",
+    "summary": "La première reprise avec un petit groupe se déroule en présence de Marc, selon les conditions préparées. Joël a choisi d’y participer. Les rôles, la possibilité d’interrompre et le respect des choix des acteurs sont rappelés avant le lancement du montage. Malou s’assied près de l’écran avec son carnet orange. Elle voudrait montrer que la fin sans réconciliation tient mieux qu’elle ne le croyait. Elle n’a pas besoin que chacun la trouve parfaite, se dit-elle, mais elle espère tout de même peu de remarques.\n\n[…]\n\nAprès une discussion calme dans le cadre prévu, une modification du passage est retenue. Malou vérifie le raccord et conserve une fin silencieuse plus courte. Le groupe autorise une projection interne de la version choisie, avec les accords nécessaires au projet. Les appuis ne sont pas levés et rien n’est publié en ligne. Malou note le réglage dans le carnet. Elle prépare la dernière séance sans pouvoir transformer cette reprise en preuve que tous les prochains désaccords seront faciles.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "La première reprise avec un petit groupe se déroule en présence de Marc, selon les conditions préparées. Joël a choisi d’y participer. Les rôles, la possibilité d’interrompre et le respect des choix des acteurs sont rappelés avant le lancement du montage. Malou s’assied près de l’écran avec son carnet orange. Elle voudrait montrer que la fin sans réconciliation tient mieux qu’elle ne le croyait. Elle n’a pas besoin que chacun la trouve parfaite, se dit-elle, mais elle espère tout de même peu de remarques.",
+        "start": 2,
+        "end": 512
+      },
+      {
+        "quote": "Après une discussion calme dans le cadre prévu, une modification du passage est retenue. Malou vérifie le raccord et conserve une fin silencieuse plus courte. Le groupe autorise une projection interne de la version choisie, avec les accords nécessaires au projet. Les appuis ne sont pas levés et rien n’est publié en ligne. Malou note le réglage dans le carnet. Elle prépare la dernière séance sans pouvoir transformer cette reprise en preuve que tous les prochains désaccords seront faciles.",
+        "start": 4219,
+        "end": 4711
+      }
+    ],
+    "canonical_concept": "Reprendre une place avec des limites",
+    "context": "À la reprise collective encadrée",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour soutenir une reprise avec des limites claires"
+    ],
+    "clinical_code": "6C91",
+    "clinical_diagnosis": "Trouble dissocial du comportement"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/malou-soutien-et-pression-des-pairs": {
+    "character": "Malou",
+    "character_id": "malou",
+    "keywords": [
+      "Trouble dissocial du comportement",
+      "Pairs",
+      "Choix personnel"
+    ],
+    "character_keywords": [
+      "Trouble dissocial du comportement",
+      "Droits des autres",
+      "Responsabilité et réparation",
+      "Confiance et sécurité",
+      "Soutien familial"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "c509262815c5020bb696b0c89f22d3bdacd2d1f0bad249348f659f8685779f7c",
+    "summary": "En sortant de son rendez-vous individuel à l’association, Malou regarde les messages de deux camarades. Aucun acteur n’a été convié à la préparation et le groupe de cinéma n’a pas repris. Les camarades connaissent surtout sa déception. Ils lui écrivent qu’elle ne devrait rien céder, qu’un film a besoin d’une personne qui décide. Malou relit cette phrase avec soulagement. Elle ne lui demande pas d’examiner sa part dans l’interruption ; elle lui donne immédiatement un camp.\n\n[…]\n\nMalou écrit qu’elle parlera avec Inès et qu’elle ne souhaite aucune intervention auprès de Sana ou de Joël. Elle ne rompt pas toute amitié pour autant. Étienne la laisse envoyer ses mots sans lui dicter une déclaration. Le rendez-vous avec Marc peut maintenant être préparé. Malou reste persuadée que la suspension dure trop longtemps ; entendre cette limite directement sera une autre difficulté que les messages n’ont pas réglée.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "En sortant de son rendez-vous individuel à l’association, Malou regarde les messages de deux camarades. Aucun acteur n’a été convié à la préparation et le groupe de cinéma n’a pas repris. Les camarades connaissent surtout sa déception. Ils lui écrivent qu’elle ne devrait rien céder, qu’un film a besoin d’une personne qui décide. Malou relit cette phrase avec soulagement. Elle ne lui demande pas d’examiner sa part dans l’interruption ; elle lui donne immédiatement un camp.",
+        "start": 2,
+        "end": 478
+      },
+      {
+        "quote": "Malou écrit qu’elle parlera avec Inès et qu’elle ne souhaite aucune intervention auprès de Sana ou de Joël. Elle ne rompt pas toute amitié pour autant. Étienne la laisse envoyer ses mots sans lui dicter une déclaration. Le rendez-vous avec Marc peut maintenant être préparé. Malou reste persuadée que la suspension dure trop longtemps ; entendre cette limite directement sera une autre difficulté que les messages n’ont pas réglée.",
+        "start": 4226,
+        "end": 4657
+      }
+    ],
+    "canonical_concept": "Appartenance au groupe et influence des pairs",
+    "context": "Après la préparation individuelle",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour choisir sa réponse au milieu des avis"
+    ],
+    "clinical_code": "6C91",
+    "clinical_diagnosis": "Trouble dissocial du comportement"
   },
   "posts/comprendre-et-maitriser-ses-emotions/martin-avant-le-deuxieme-trait": {
     "character": "Martin",
@@ -35938,6 +37380,487 @@
     ],
     "clinical_code": "6A01.0",
     "clinical_diagnosis": "Trouble développemental des sons de la parole"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/ruben-contester-et-perdre-son-tour": {
+    "character": "Ruben",
+    "character_id": "ruben",
+    "keywords": [
+      "Conflit avec l’autorité",
+      "Retentissement",
+      "Choix concrets"
+    ],
+    "character_keywords": [
+      "Trouble oppositionnel avec provocation",
+      "conflits autour des règles",
+      "irritabilité et ressentiment",
+      "relations avec les camarades",
+      "soutien familial et scolaire"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "95e7ea563cea1c9f4d77fe3590523645be2a7e4266eb910fd60c5235458ce5ac",
+    "summary": "Madame Vernier annonce qu’il faut libérer les tables. Le groupe suivant attendra bientôt devant la porte de la salle de technologie. Ruben garde son carnet orange ouvert sur une page presque blanche. Il a douze ans et une idée qui lui semble assez bonne pour le salon du collège : un petit robot qui suivrait une ligne. Il voulait expliquer comment les roues seraient placées, mais il lui reste à peine quelques minutes.\n\n[…]\n\nMadame Vernier propose de reprendre la question des horaires au début du prochain club. Ruben écrit alors « robot suiveur de ligne » en haut de sa page et ajoute deux roues. Il range le carnet, encore mécontent. Inès lui dit qu’elle verra la prochaine fois si elle veut travailler sur cette idée avec lui. Il n’a pas obtenu plus de temps aujourd’hui, mais sa proposition n’est pas retirée du salon parce qu’ils se sont disputés.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Madame Vernier annonce qu’il faut libérer les tables. Le groupe suivant attendra bientôt devant la porte de la salle de technologie. Ruben garde son carnet orange ouvert sur une page presque blanche. Il a douze ans et une idée qui lui semble assez bonne pour le salon du collège : un petit robot qui suivrait une ligne. Il voulait expliquer comment les roues seraient placées, mais il lui reste à peine quelques minutes.",
+        "start": 2,
+        "end": 422
+      },
+      {
+        "quote": "Madame Vernier propose de reprendre la question des horaires au début du prochain club. Ruben écrit alors « robot suiveur de ligne » en haut de sa page et ajoute deux roues. Il range le carnet, encore mécontent. Inès lui dit qu’elle verra la prochaine fois si elle veut travailler sur cette idée avec lui. Il n’a pas obtenu plus de temps aujourd’hui, mais sa proposition n’est pas retirée du salon parce qu’ils se sont disputés.",
+        "start": 3698,
+        "end": 4126
+      }
+    ],
+    "canonical_concept": "Contester au point de perdre sa place",
+    "context": "La fin du club de robotique",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour donner une place au désaccord"
+    ],
+    "clinical_code": "6C90",
+    "clinical_diagnosis": "Trouble oppositionnel avec provocation"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/ruben-demandes-evitees-maison": {
+    "character": "Ruben",
+    "character_id": "ruben",
+    "keywords": [
+      "Fatigue familiale",
+      "Demandes évitées",
+      "Organisation quotidienne"
+    ],
+    "character_keywords": [
+      "Trouble oppositionnel avec provocation",
+      "conflits autour des règles",
+      "irritabilité et ressentiment",
+      "relations avec les camarades",
+      "soutien familial et scolaire"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "d97c2cf0a168e3010ddda845c7e183b55fd720410b7848d6e835c11258e61de6",
+    "summary": "Le carnet orange occupe le centre de la table. Ruben a repris les roues de son robot et ajouté un rectangle pour la partie du dessus. Son cartable est ouvert près de la porte, avec deux cahiers encore posés sur une chaise. Claire passe une première fois sans rien dire. Elle regarde l’heure du repas, puis la feuille couverte de traits. Elle sait qu’il faut préparer les affaires du lendemain et redoute la discussion qui pourrait commencer.\n\n[…]\n\nRuben rassemble son carnet et ses crayons avec Claire. Yacine pose les assiettes sur la partie dégagée. Après le repas, ils reprennent le cartable comme annoncé ; Ruben discute encore d’un cahier, mais la demande ne devient pas un inventaire de la journée. Il termine ensuite son croquis. Claire note pour le prochain rendez-vous qu’elle souhaite parler de cette fatigue à demander les choses, et pas seulement rapporter ce que Ruben a refusé.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Le carnet orange occupe le centre de la table. Ruben a repris les roues de son robot et ajouté un rectangle pour la partie du dessus. Son cartable est ouvert près de la porte, avec deux cahiers encore posés sur une chaise. Claire passe une première fois sans rien dire. Elle regarde l’heure du repas, puis la feuille couverte de traits. Elle sait qu’il faut préparer les affaires du lendemain et redoute la discussion qui pourrait commencer.",
+        "start": 2,
+        "end": 443
+      },
+      {
+        "quote": "Ruben rassemble son carnet et ses crayons avec Claire. Yacine pose les assiettes sur la partie dégagée. Après le repas, ils reprennent le cartable comme annoncé ; Ruben discute encore d’un cahier, mais la demande ne devient pas un inventaire de la journée. Il termine ensuite son croquis. Claire note pour le prochain rendez-vous qu’elle souhaite parler de cette fatigue à demander les choses, et pas seulement rapporter ce que Ruben a refusé.",
+        "start": 3696,
+        "end": 4139
+      }
+    ],
+    "canonical_concept": "Les demandes évitées à la maison",
+    "context": "Le retour du club à la maison",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour rendre une demande plus accessible"
+    ],
+    "clinical_code": "6C90",
+    "clinical_diagnosis": "Trouble oppositionnel avec provocation"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/ruben-erreur-et-responsabilite": {
+    "character": "Ruben",
+    "character_id": "ruben",
+    "keywords": [
+      "Responsabilité",
+      "Accusation",
+      "Réparation concrète"
+    ],
+    "character_keywords": [
+      "Trouble oppositionnel avec provocation",
+      "conflits autour des règles",
+      "irritabilité et ressentiment",
+      "relations avec les camarades",
+      "soutien familial et scolaire"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "6ed3ec1407642cbd4bebeaaca460abeae9a7c305612a77ad9c6e44ff1b2ad0f1",
+    "summary": "La séance suivante commence avec le croquis corrigé. Madame Vernier a préparé l’espace de travail et supervise l’assemblage. Inès lit les noms de la liste pendant que Ruben vérifie les éléments autorisés pour leur projet. Au milieu de la vérification, il s’arrête : une pièce qu’il attendait n’est pas à l’emplacement indiqué. Il regarde immédiatement Inès. « Tu l’as encore changée de place. » Elle répond qu’elle n’y a pas touché.\n\n[…]\n\nRuben barre proprement l’indication fausse et écrit celle dont il se souvient. « Je t’ai accusée trop vite », dit-il à Inès. Elle répond qu’elle veut surtout qu’il arrête de lui attribuer ce qu’il ne sait pas. Elle accepte de reprendre la recherche avec madame Vernier, mais garde son cahier de son côté. La pièce n’a pas encore été retrouvée. Ils savent désormais où chercher ensemble sans maintenir l’accusation comme point de départ.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "La séance suivante commence avec le croquis corrigé. Madame Vernier a préparé l’espace de travail et supervise l’assemblage. Inès lit les noms de la liste pendant que Ruben vérifie les éléments autorisés pour leur projet. Au milieu de la vérification, il s’arrête : une pièce qu’il attendait n’est pas à l’emplacement indiqué. Il regarde immédiatement Inès. « Tu l’as encore changée de place. » Elle répond qu’elle n’y a pas touché.",
+        "start": 2,
+        "end": 434
+      },
+      {
+        "quote": "Ruben barre proprement l’indication fausse et écrit celle dont il se souvient. « Je t’ai accusée trop vite », dit-il à Inès. Elle répond qu’elle veut surtout qu’il arrête de lui attribuer ce qu’il ne sait pas. Elle accepte de reprendre la recherche avec madame Vernier, mais garde son cahier de son côté. La pièce n’a pas encore été retrouvée. Ils savent désormais où chercher ensemble sans maintenir l’accusation comme point de départ.",
+        "start": 3915,
+        "end": 4351
+      }
+    ],
+    "canonical_concept": "Reporter son erreur sur un autre",
+    "context": "Chercher une pièce dans le rangement commun",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "Le problème pratique devient relationnel",
+      "3 techniques pour rendre une correction possible"
+    ],
+    "clinical_code": "6C90",
+    "clinical_diagnosis": "Trouble oppositionnel avec provocation"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/ruben-inquietude-avant-salon": {
+    "character": "Ruben",
+    "character_id": "ruben",
+    "keywords": [
+      "Inquiétude situationnelle",
+      "Besoin nouveau",
+      "Participation ajustée"
+    ],
+    "character_keywords": [
+      "Trouble oppositionnel avec provocation",
+      "conflits autour des règles",
+      "irritabilité et ressentiment",
+      "relations avec les camarades",
+      "soutien familial et scolaire"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "d88b4a25cce5e02c2f05439fadc5c35b333d5cdc727f538d2d1706fd4fbf45e1",
+    "summary": "Le court essai prévu a bien lieu à la séance suivante. Madame Vernier encadre la démonstration pendant qu’Inès place son affiche à côté. Les points de la liste sont repris et le groupe dispose enfin d’un déroulement utilisable. Le robot a encore des ajustements possibles, mais l’ensemble fonctionne assez bien pour que les visiteurs comprennent leur projet. Ruben pourrait être content de cette étape. Sur le chemin du retour, il annonce pourtant qu’il ne parlera pas au salon.\n\n[…]\n\nRuben choisit de présenter un seul essai, avec Inès à côté, puis de lui passer la parole pour l’affiche. Elle accepte cette répartition après en avoir discuté avec madame Vernier. Madame Vernier convient avec Ruben d’un rappel discret vers l’essai si la discussion s’écarte de sa tâche. Les parents confirment qu’ils soutiendront ce choix sans lui demander davantage devant le public. Le carnet orange servira d’aide-mémoire pour ses tâches, pas de relevé de sa peur. Ruben n’assure pas qu’il sera à l’aise ; il sait seulement ce qu’il veut essayer et à qui transmettre ensuite.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Le court essai prévu a bien lieu à la séance suivante. Madame Vernier encadre la démonstration pendant qu’Inès place son affiche à côté. Les points de la liste sont repris et le groupe dispose enfin d’un déroulement utilisable. Le robot a encore des ajustements possibles, mais l’ensemble fonctionne assez bien pour que les visiteurs comprennent leur projet. Ruben pourrait être content de cette étape. Sur le chemin du retour, il annonce pourtant qu’il ne parlera pas au salon.",
+        "start": 2,
+        "end": 480
+      },
+      {
+        "quote": "Ruben choisit de présenter un seul essai, avec Inès à côté, puis de lui passer la parole pour l’affiche. Elle accepte cette répartition après en avoir discuté avec madame Vernier. Madame Vernier convient avec Ruben d’un rappel discret vers l’essai si la discussion s’écarte de sa tâche. Les parents confirment qu’ils soutiendront ce choix sans lui demander davantage devant le public. Le carnet orange servira d’aide-mémoire pour ses tâches, pas de relevé de sa peur. Ruben n’assure pas qu’il sera à l’aise ; il sait seulement ce qu’il veut essayer et à qui transmettre ensuite.",
+        "start": 3825,
+        "end": 4403
+      }
+    ],
+    "canonical_concept": "Une difficulté nouvelle mérite écoute",
+    "context": "L’approche du public au salon",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour entendre un besoin nouveau"
+    ],
+    "clinical_code": "6C90",
+    "clinical_diagnosis": "Trouble oppositionnel avec provocation"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/ruben-participation-evolution": {
+    "character": "Ruben",
+    "character_id": "ruben",
+    "keywords": [
+      "Évolution",
+      "Participation",
+      "Appuis maintenus"
+    ],
+    "character_keywords": [
+      "Trouble oppositionnel avec provocation",
+      "conflits autour des règles",
+      "irritabilité et ressentiment",
+      "relations avec les camarades",
+      "soutien familial et scolaire"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "ed243e7ad1ede97a08f3eb682a1a1c56bc72a93d139ee4f4f7cd9439f79a9843",
+    "summary": "Le salon remplit le couloir du collège de voix et de panneaux colorés. Inès a placé son affiche près de la table réservée au club de robotique. Madame Vernier reste responsable du matériel et des essais. Ruben a ouvert son carnet orange à la page qui rappelle sa partie : montrer un essai, expliquer ce qu’ils observent, puis donner la parole à Inès. Ses parents se tiennent un peu plus loin, sans lui faire de signe pour ajouter quelque chose.\n\n[…]\n\nLa démonstration est terminée. Inès garde son affiche pour la prochaine présentation du club et Ruben range le carnet orange. Il propose de revoir les roues lors d’une future séance, sans promettre qu’ils n’auront plus de désaccords. Claire lui dit qu’elle l’a vu revenir à son essai après l’interruption. Yacine lui demande ce qu’il a préféré montrer. Le rendez-vous avec madame Arnaud reste prévu. Ruben peut être fier d’une partie de cette journée et continuer à avoir besoin d’aide pour d’autres moments.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Le salon remplit le couloir du collège de voix et de panneaux colorés. Inès a placé son affiche près de la table réservée au club de robotique. Madame Vernier reste responsable du matériel et des essais. Ruben a ouvert son carnet orange à la page qui rappelle sa partie : montrer un essai, expliquer ce qu’ils observent, puis donner la parole à Inès. Ses parents se tiennent un peu plus loin, sans lui faire de signe pour ajouter quelque chose.",
+        "start": 2,
+        "end": 446
+      },
+      {
+        "quote": "La démonstration est terminée. Inès garde son affiche pour la prochaine présentation du club et Ruben range le carnet orange. Il propose de revoir les roues lors d’une future séance, sans promettre qu’ils n’auront plus de désaccords. Claire lui dit qu’elle l’a vu revenir à son essai après l’interruption. Yacine lui demande ce qu’il a préféré montrer. Le rendez-vous avec madame Arnaud reste prévu. Ruben peut être fier d’une partie de cette journée et continuer à avoir besoin d’aide pour d’autres moments.",
+        "start": 3833,
+        "end": 4341
+      }
+    ],
+    "canonical_concept": "Participer malgré une évolution irrégulière",
+    "context": "Le salon des projets du collège",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour reconnaître une participation concrète"
+    ],
+    "clinical_code": "6C90",
+    "clinical_diagnosis": "Trouble oppositionnel avec provocation"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/ruben-plusieurs-solutions": {
+    "character": "Ruben",
+    "character_id": "ruben",
+    "keywords": [
+      "Résolution de problèmes",
+      "Options",
+      "Essai accompagné"
+    ],
+    "character_keywords": [
+      "Trouble oppositionnel avec provocation",
+      "conflits autour des règles",
+      "irritabilité et ressentiment",
+      "relations avec les camarades",
+      "soutien familial et scolaire"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "554e98fdcb821abed706da6d6ca64584b134e5232376152eb05c67da93ad83fb",
+    "summary": "Quelques semaines ont passé depuis le rendez-vous avec ses parents. Les retours du club ne sont pas tous tranquilles, mais la question brève sur le projet a parfois évité qu’un échange commence par une liste de reproches. Ruben retrouve madame Arnaud dans le cadre de son accompagnement. Ils ont discuté avec lui des possibilités adaptées à son âge et de ce qu’il voudrait pouvoir changer dans les conflits du club.\n\n[…]\n\nAu club, Ruben propose de noter les résultats pendant qu’Inès prépare l’affiche, puis d’échanger un créneau. Il lui dit aussi qu’il ne reprendra pas les imitations. Inès accepte cette organisation limitée ; cela ne signifie pas que toute leur gêne a disparu. Madame Vernier vérifie les possibilités et reste responsable des essais autorisés. Ruben inscrit la répartition dans le carnet orange. La prochaine répétition pourra réunir les résultats et l’affiche, si chacun tient la part convenue.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Quelques semaines ont passé depuis le rendez-vous avec ses parents. Les retours du club ne sont pas tous tranquilles, mais la question brève sur le projet a parfois évité qu’un échange commence par une liste de reproches. Ruben retrouve madame Arnaud dans le cadre de son accompagnement. Ils ont discuté avec lui des possibilités adaptées à son âge et de ce qu’il voudrait pouvoir changer dans les conflits du club.",
+        "start": 2,
+        "end": 417
+      },
+      {
+        "quote": "Au club, Ruben propose de noter les résultats pendant qu’Inès prépare l’affiche, puis d’échanger un créneau. Il lui dit aussi qu’il ne reprendra pas les imitations. Inès accepte cette organisation limitée ; cela ne signifie pas que toute leur gêne a disparu. Madame Vernier vérifie les possibilités et reste responsable des essais autorisés. Ruben inscrit la répartition dans le carnet orange. La prochaine répétition pourra réunir les résultats et l’affiche, si chacun tient la part convenue.",
+        "start": 3884,
+        "end": 4377
+      }
+    ],
+    "canonical_concept": "Apprendre à chercher plusieurs solutions",
+    "context": "Un accompagnement quelques semaines plus tard",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour prolonger un apprentissage accompagné"
+    ],
+    "clinical_code": "6C90",
+    "clinical_diagnosis": "Trouble oppositionnel avec provocation"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/ruben-provocation-et-camarades": {
+    "character": "Ruben",
+    "character_id": "ruben",
+    "keywords": [
+      "Provocation",
+      "Relations avec les pairs",
+      "Respect du retrait"
+    ],
+    "character_keywords": [
+      "Trouble oppositionnel avec provocation",
+      "conflits autour des règles",
+      "irritabilité et ressentiment",
+      "relations avec les camarades",
+      "soutien familial et scolaire"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "86da5eedea7a9992de14340848934fc9c88b1ddb134275cb48a52a0837aa7c3e",
+    "summary": "La pièce est retrouvée avec madame Vernier dans le rangement commun. L’indication corrigée a permis de choisir le bon emplacement à vérifier. Ruben voudrait que cette découverte efface la gêne de l’accusation. Inès revient au schéma, mais reste plus réservée. Elle demande simplement de vérifier une mesure avant d’écrire la version définitive. Ruben répète sa phrase avec une voix exagérément appliquée, comme s’il présentait une émission de contrôle des règles.\n\n[…]\n\nMadame Vernier installe Inès à une table voisine et donne à Ruben sa partie du schéma à terminer. Les deux restent dans le groupe encadré. Ruben voudrait l’appeler pour expliquer encore qu’il plaisantait, mais la professeure lui rappelle qu’Inès a demandé une pause. Il garde sa remarque pour lui et poursuit son dessin. Rien ne l’oblige à se réjouir de cette distance ; il peut néanmoins cesser de la solliciter.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "La pièce est retrouvée avec madame Vernier dans le rangement commun. L’indication corrigée a permis de choisir le bon emplacement à vérifier. Ruben voudrait que cette découverte efface la gêne de l’accusation. Inès revient au schéma, mais reste plus réservée. Elle demande simplement de vérifier une mesure avant d’écrire la version définitive. Ruben répète sa phrase avec une voix exagérément appliquée, comme s’il présentait une émission de contrôle des règles.",
+        "start": 2,
+        "end": 465
+      },
+      {
+        "quote": "Madame Vernier installe Inès à une table voisine et donne à Ruben sa partie du schéma à terminer. Les deux restent dans le groupe encadré. Ruben voudrait l’appeler pour expliquer encore qu’il plaisantait, mais la professeure lui rappelle qu’Inès a demandé une pause. Il garde sa remarque pour lui et poursuit son dessin. Rien ne l’oblige à se réjouir de cette distance ; il peut néanmoins cesser de la solliciter.",
+        "start": 3737,
+        "end": 4150
+      }
+    ],
+    "canonical_concept": "Provoquer éloigne les camarades",
+    "context": "La reprise du schéma au club",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour arrêter la provocation sans humilier"
+    ],
+    "clinical_code": "6C90",
+    "clinical_diagnosis": "Trouble oppositionnel avec provocation"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/ruben-refus-et-incomprehension": {
+    "character": "Ruben",
+    "character_id": "ruben",
+    "keywords": [
+      "Compréhension",
+      "Contexte du refus",
+      "Choix de rôle"
+    ],
+    "character_keywords": [
+      "Trouble oppositionnel avec provocation",
+      "conflits autour des règles",
+      "irritabilité et ressentiment",
+      "relations avec les camarades",
+      "soutien familial et scolaire"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "0282920710e04491f23335e8f17e6e0001a9c277f684df69f60aac88ca80db6e",
+    "summary": "Ruben travaille encore à sa table pendant qu’Inès termine sa partie du schéma. Madame Vernier lui donne une fiche pour préparer les essais du robot. Plusieurs étapes figurent sur la même page, avec des cases destinées aux observations. Il lit la première ligne, passe à la suivante, puis repousse la feuille. « Je ne fais pas ça. » La professeure commence à rappeler ce qu’ils avaient convenu, avant de s’arrêter et de lui demander où il bloque exactement.\n\n[…]\n\nL’essai se déroule sous la supervision de madame Vernier. Ruben note le résultat dans le carnet orange et comprend maintenant à quoi servira la case suivante. Il choisit de garder cette tâche pour aujourd’hui. En rangeant, il revient toutefois sur Inès : il trouve qu’elle a obtenu une autre table trop facilement. La question de compréhension est réglée pour cet essai ; celle du ressentiment ne l’est pas. Le rendez-vous prévu avec madame Arnaud lui donnera un autre espace pour en parler.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Ruben travaille encore à sa table pendant qu’Inès termine sa partie du schéma. Madame Vernier lui donne une fiche pour préparer les essais du robot. Plusieurs étapes figurent sur la même page, avec des cases destinées aux observations. Il lit la première ligne, passe à la suivante, puis repousse la feuille. « Je ne fais pas ça. » La professeure commence à rappeler ce qu’ils avaient convenu, avant de s’arrêter et de lui demander où il bloque exactement.",
+        "start": 2,
+        "end": 458
+      },
+      {
+        "quote": "L’essai se déroule sous la supervision de madame Vernier. Ruben note le résultat dans le carnet orange et comprend maintenant à quoi servira la case suivante. Il choisit de garder cette tâche pour aujourd’hui. En rangeant, il revient toutefois sur Inès : il trouve qu’elle a obtenu une autre table trop facilement. La question de compréhension est réglée pour cet essai ; celle du ressentiment ne l’est pas. Le rendez-vous prévu avec madame Arnaud lui donnera un autre espace pour en parler.",
+        "start": 3742,
+        "end": 4233
+      }
+    ],
+    "canonical_concept": "Un refus ne dit pas sa cause",
+    "context": "Une fiche d’essais au club",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour vérifier avant d’interpréter"
+    ],
+    "clinical_code": "6C90",
+    "clinical_diagnosis": "Trouble oppositionnel avec provocation"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/ruben-remarque-irritation": {
+    "character": "Ruben",
+    "character_id": "ruben",
+    "keywords": [
+      "Réactivité irritable",
+      "Pause encadrée",
+      "Limites des pairs"
+    ],
+    "character_keywords": [
+      "Trouble oppositionnel avec provocation",
+      "conflits autour des règles",
+      "irritabilité et ressentiment",
+      "relations avec les camarades",
+      "soutien familial et scolaire"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "7564f54ff92e97a05cadd0fc986682091f97a7757d50ff97e56ab0c047d1f664",
+    "summary": "Au début du club suivant, madame Vernier reprend avec Ruben la question des horaires, comme elle l’avait annoncé. Ils regardent le temps réservé au rangement et conviennent de garder les propositions de projet plus tôt dans la séance. Ruben présente alors son croquis. Inès accepte de travailler sur le robot avec lui. Elle aime l’idée de la ligne à suivre et voudrait que leur présentation soit assez claire pour les visiteurs du salon.\n\n[…]\n\nAprès un moment, Ruben revient au dessin avec madame Vernier. Il mesure les deux côtés et voit que la remarque d’Inès était utile. « Celle-là est trop loin », dit-il. Inès répond qu’elle veut bien corriger le croquis, mais qu’elle ne veut plus qu’il lui parle de cette façon. Ruben ne trouve pas immédiatement de longue excuse. Il cesse de discuter sa limite et garde le dessin rectifié dans son carnet orange. Le travail reprend avec un peu de distance.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Au début du club suivant, madame Vernier reprend avec Ruben la question des horaires, comme elle l’avait annoncé. Ils regardent le temps réservé au rangement et conviennent de garder les propositions de projet plus tôt dans la séance. Ruben présente alors son croquis. Inès accepte de travailler sur le robot avec lui. Elle aime l’idée de la ligne à suivre et voudrait que leur présentation soit assez claire pour les visiteurs du salon.",
+        "start": 2,
+        "end": 439
+      },
+      {
+        "quote": "Après un moment, Ruben revient au dessin avec madame Vernier. Il mesure les deux côtés et voit que la remarque d’Inès était utile. « Celle-là est trop loin », dit-il. Inès répond qu’elle veut bien corriger le croquis, mais qu’elle ne veut plus qu’il lui parle de cette façon. Ruben ne trouve pas immédiatement de longue excuse. Il cesse de discuter sa limite et garde le dessin rectifié dans son carnet orange. Le travail reprend avec un peu de distance.",
+        "start": 3687,
+        "end": 4141
+      }
+    ],
+    "canonical_concept": "Une remarque devient une irritation vive",
+    "context": "Le croquis au club de robotique",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour préparer un retour à la tâche"
+    ],
+    "clinical_code": "6C90",
+    "clinical_diagnosis": "Trouble oppositionnel avec provocation"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/ruben-reparer-retard-groupe": {
+    "character": "Ruben",
+    "character_id": "ruben",
+    "keywords": [
+      "Retentissement collectif",
+      "Réparation",
+      "Responsabilité proportionnée"
+    ],
+    "character_keywords": [
+      "Trouble oppositionnel avec provocation",
+      "conflits autour des règles",
+      "irritabilité et ressentiment",
+      "relations avec les camarades",
+      "soutien familial et scolaire"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "51d79ab5904813dc7f46ce06632a54f4baf9142617bfc1759003afb19416eac2",
+    "summary": "Inès arrive avec une première version de l’affiche. Elle y a placé le nom du robot et un espace pour expliquer leurs observations. Ruben a les résultats dans son carnet orange. Ils avaient prévu de vérifier ensemble si le texte correspond à la démonstration. Madame Vernier annonce pourtant un changement : leur essai aura lieu après celui d’un autre groupe, car une table doit être libérée plus tôt.\n\n[…]\n\nRuben prépare une courte liste : vérifier le déroulement, lire l’affiche à côté du robot et décider qui présentera chaque partie. Il reconnaît auprès d’Inès que sa discussion a pris du temps. Elle ne répond pas que ce n’est rien ; elle accepte d’apporter son affiche à un court essai que madame Vernier peut réserver à la séance suivante. L’inscription au salon reste maintenue. La question du changement de créneau sera aussi reprise, sans occuper cet essai supplémentaire.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Inès arrive avec une première version de l’affiche. Elle y a placé le nom du robot et un espace pour expliquer leurs observations. Ruben a les résultats dans son carnet orange. Ils avaient prévu de vérifier ensemble si le texte correspond à la démonstration. Madame Vernier annonce pourtant un changement : leur essai aura lieu après celui d’un autre groupe, car une table doit être libérée plus tôt.",
+        "start": 2,
+        "end": 402
+      },
+      {
+        "quote": "Ruben prépare une courte liste : vérifier le déroulement, lire l’affiche à côté du robot et décider qui présentera chaque partie. Il reconnaît auprès d’Inès que sa discussion a pris du temps. Elle ne répond pas que ce n’est rien ; elle accepte d’apporter son affiche à un court essai que madame Vernier peut réserver à la séance suivante. L’inscription au salon reste maintenue. La question du changement de créneau sera aussi reprise, sans occuper cet essai supplémentaire.",
+        "start": 3870,
+        "end": 4344
+      }
+    ],
+    "canonical_concept": "Réparer un retard qui touche le groupe",
+    "context": "La répétition avant le salon",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour chercher une réparation proportionnée"
+    ],
+    "clinical_code": "6C90",
+    "clinical_diagnosis": "Trouble oppositionnel avec provocation"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/ruben-ressentiment-apres-dispute": {
+    "character": "Ruben",
+    "character_id": "ruben",
+    "keywords": [
+      "Ressentiment",
+      "Interprétation",
+      "Conséquences relationnelles"
+    ],
+    "character_keywords": [
+      "Trouble oppositionnel avec provocation",
+      "conflits autour des règles",
+      "irritabilité et ressentiment",
+      "relations avec les camarades",
+      "soutien familial et scolaire"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "473bb9249e8330f16ca8b839c07d428d1be167d74f730deef9a11a3d4ce2c146",
+    "summary": "Madame Arnaud reçoit d’abord Ruben seul, comme ils l’avaient prévu pour ce rendez-vous de suivi. Claire et Yacine attendent la seconde partie. Le carnet orange est posé sur ses genoux. Ruben explique que l’essai du robot a pu commencer, mais il revient surtout sur la table où Inès s’est installée. Il raconte ce déplacement comme si la séance entière avait été organisée pour lui donner tort.\n\n[…]\n\nRuben décide de ne pas retenir les résultats. Il essaie une phrase : « Je veux qu’on choisisse qui fait quoi avant le test. » Elle lui semble moins satisfaisante qu’une réplique qui donnerait tort à Inès, mais plus utile au robot. Madame Arnaud lui demande ce qu’il accepte de reprendre avec ses parents. Il souhaite qu’elle les aide à comprendre cette décision et sa demande de répartition. Le reste de leur entretien privé n’a pas besoin d’être raconté en détail pour cela.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Madame Arnaud reçoit d’abord Ruben seul, comme ils l’avaient prévu pour ce rendez-vous de suivi. Claire et Yacine attendent la seconde partie. Le carnet orange est posé sur ses genoux. Ruben explique que l’essai du robot a pu commencer, mais il revient surtout sur la table où Inès s’est installée. Il raconte ce déplacement comme si la séance entière avait été organisée pour lui donner tort.",
+        "start": 2,
+        "end": 395
+      },
+      {
+        "quote": "Ruben décide de ne pas retenir les résultats. Il essaie une phrase : « Je veux qu’on choisisse qui fait quoi avant le test. » Elle lui semble moins satisfaisante qu’une réplique qui donnerait tort à Inès, mais plus utile au robot. Madame Arnaud lui demande ce qu’il accepte de reprendre avec ses parents. Il souhaite qu’elle les aide à comprendre cette décision et sa demande de répartition. Le reste de leur entretien privé n’a pas besoin d’être raconté en détail pour cela.",
+        "start": 3827,
+        "end": 4302
+      }
+    ],
+    "canonical_concept": "Le ressentiment prolonge la dispute",
+    "context": "Le début d’un rendez-vous de suivi",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour préparer une autre réponse"
+    ],
+    "clinical_code": "6C90",
+    "clinical_diagnosis": "Trouble oppositionnel avec provocation"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/ruben-soutien-parents-sans-blame": {
+    "character": "Ruben",
+    "character_id": "ruben",
+    "keywords": [
+      "Soutien parental",
+      "Culpabilité",
+      "Interactions familiales"
+    ],
+    "character_keywords": [
+      "Trouble oppositionnel avec provocation",
+      "conflits autour des règles",
+      "irritabilité et ressentiment",
+      "relations avec les camarades",
+      "soutien familial et scolaire"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "f4ca206adda6842e2df52b941fd2c41fd070c542d4198848e204fb9f4f793b64",
+    "summary": "Claire et Yacine rejoignent Ruben pour la seconde partie du rendez-vous. Madame Arnaud reprend avec lui la décision qu’il a choisi de partager : ne pas cacher les résultats et demander une répartition avant les essais. Elle ne raconte pas tout ce qui a été dit pendant l’entretien seul. Ruben garde le carnet sur ses genoux et rectifie un mot quand la formulation ne lui ressemble pas.\n\n[…]\n\nIls choisissent un bref point après le club, à un moment où Ruben a posé ses affaires : une question sur le projet, puis les besoins pratiques, sans liste de toutes les fautes de la journée. Ruben pourra aussi dire qu’il préfère répondre après le repas, avec un moment de reprise convenu. Madame Arnaud prévoit de revoir cet essai et propose de discuter avec lui d’un accompagnement de résolution de problèmes adapté à son âge. Claire et Yacine repartent avec une possibilité à essayer, pas avec la charge de réussir seuls.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Claire et Yacine rejoignent Ruben pour la seconde partie du rendez-vous. Madame Arnaud reprend avec lui la décision qu’il a choisi de partager : ne pas cacher les résultats et demander une répartition avant les essais. Elle ne raconte pas tout ce qui a été dit pendant l’entretien seul. Ruben garde le carnet sur ses genoux et rectifie un mot quand la formulation ne lui ressemble pas.",
+        "start": 2,
+        "end": 387
+      },
+      {
+        "quote": "Ils choisissent un bref point après le club, à un moment où Ruben a posé ses affaires : une question sur le projet, puis les besoins pratiques, sans liste de toutes les fautes de la journée. Ruben pourra aussi dire qu’il préfère répondre après le repas, avec un moment de reprise convenu. Madame Arnaud prévoit de revoir cet essai et propose de discuter avec lui d’un accompagnement de résolution de problèmes adapté à son âge. Claire et Yacine repartent avec une possibilité à essayer, pas avec la charge de réussir seuls.",
+        "start": 3875,
+        "end": 4398
+      }
+    ],
+    "canonical_concept": "Soutenir les parents sans les accuser",
+    "context": "La seconde partie du même rendez-vous",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour préparer un soutien familial"
+    ],
+    "clinical_code": "6C90",
+    "clinical_diagnosis": "Trouble oppositionnel avec provocation"
   },
   "posts/comprendre-et-maitriser-ses-emotions/sacha-deux-affiches": {
     "character": "Sacha",

@@ -642,6 +642,46 @@
       "design_sha256": "37415ed95b3e1a6d62d7b77629b3f3e74d02f61433d4ccb1e6149cfefa3daca4",
       "independent_review_sha256": "dc7d275f38fe19e6892d3c0f964a6939a8990d16eedd1dd1f31b6f98e038ce97",
       "review": "Douze épisodes relus intégralement par review_evaelle ; correction grammaticale épisode 3 puis vérification finale acceptée. Rapport lié aux empreintes, chronologie et limites des connaissances contrôlées. Publication distante en attente."
+    },
+    "malou": {
+      "date": "2026-11-09",
+      "status": "editorially_reviewed",
+      "article_format": 2,
+      "sha256": "b5b12afae90e3d4c9fa2762f33fb36a93523f3105ac121209710698f0ba25628",
+      "dossier_sha256": "f9f949b2b80d6d0192b9a4bca5bcaaeb7e6a7ccea23ecedbca34ea656d19c1b5",
+      "design_sha256": "ced468138dc732e25e0f95a4b4af3eeafd036b660b0d567117f74c24f776cde0",
+      "independent_review_sha256": "1999b5b9b092461f80e5194f6664882c66c2c25bcc389e19b5da85d467c2df15",
+      "review": "Douze épisodes relus intégralement par review_malou, avec vérification OMS/NICE et des limites liées à l’âge. Rapport indépendant accepté ; continuité, sécurité, choix des acteurs et conseils aux proches vérifiés. Publication après validation du lot."
+    },
+    "loic": {
+      "date": "2026-11-09",
+      "status": "editorially_reviewed",
+      "article_format": 2,
+      "sha256": "6e0f65f10741e85f52e4fef02ad649dddd381bba59c809a7b9821907932bfc35",
+      "dossier_sha256": "204234d5c05bfd8d6babd57cb3268a5ca66601bbd3c8dd9581d7edb6d688bf6e",
+      "design_sha256": "3b074410db137eaf4a01a5225169fad17849f44417106f66cf7500ee17120a1b",
+      "independent_review_sha256": "1fd8d8f54596caa41b138d118db1145de65b9ade24d7845c32bf5ec7ddf53f03",
+      "review": "Douze épisodes relus indépendamment par review_loic ; sources et limites des études médico-légales, responsabilité, sécurité, continuité et proches vérifiés. Rapport accepté sans correction ouverte."
+    },
+    "ruben": {
+      "date": "2026-11-09",
+      "status": "editorially_reviewed",
+      "article_format": 2,
+      "sha256": "212ce1fe1cc7467e6307cebfc18aa9e5a6a326036b2f5b6badf3692f7686c9c1",
+      "dossier_sha256": "685683512d72eeefe40792b7079e4fee987f4befa5f5aed54b87c4f76fa6958c",
+      "design_sha256": "8f9c9dfafaf4bf24acad54d95f7076a0da610a22960effabb421403199a3e3e0",
+      "independent_review_sha256": "4a5e9e1d73fd3d09e27c153879b15960318ad415ac7a05162424097db6e30152",
+      "review": "Douze épisodes relus intégralement par review_ruben ; sources OMS/NICE, indications adaptées à 12 ans, distinction désaccord ordinaire et trouble, continuité et proches vérifiés. Rapport indépendant accepté sans correction ouverte."
+    },
+    "irma": {
+      "date": "2026-11-09",
+      "status": "editorially_reviewed",
+      "article_format": 2,
+      "sha256": "3bc96a2c0058c6d7a0804e406f841cf03824882e64c9f59219b36c165c4a1220",
+      "dossier_sha256": "8627d9646713148f03ae681e0db91c5603045e5e542c0a47622f7fe7e2e1a6b4",
+      "design_sha256": "0c03eb655dc681972b67afdafefea45ceb65702106064040cdad55f94e5dd4e3",
+      "independent_review_sha256": "b15e5e52875ce911b4b5fb3884977bb2308c2ffe62e93adb3d871a1b2608a4ab",
+      "review": "Douze épisodes relus indépendamment par review_irma. Localisateur NICE corrigé dans le dossier, puis validations personnage et rédaction renouvelées et relecture finale acceptée. Plan/manuscrit conservés ; sources, limites des essais, continuité et proches vérifiés."
     }
   }
 }

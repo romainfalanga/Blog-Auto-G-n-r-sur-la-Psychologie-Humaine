@@ -1,0 +1,124 @@
+{
+  "schema_version": 1,
+  "character_id": "ruben",
+  "reviewer": "review_ruben",
+  "reviewed_on": "2026-11-09",
+  "summary": "Lecture indépendante intégrale des douze épisodes, ouvertures, fins, explications, 72 exemples, 36 stratégies et miroirs ; comparaison au canon, dossier, plan et charte. Vérification des sources OMS CDDR p.538–543 et NICE CG158 dans les PDF disponibles, notamment tranche 9–14 ans et limites des interventions parentales/multimodales. Les aspects restent distincts, la voix et le projet du collégien présents, le diagnostic établi sans sous-type, les conseils proportionnés et les raccords tenus. Aucun écart nécessitant correction identifié ; validation éditoriale de cette version, sans certification médicale ni promesse de soin.",
+  "files": {
+    "editorial/clinical/designs/ruben.json": "8f9c9dfafaf4bf24acad54d95f7076a0da610a22960effabb421403199a3e3e0",
+    "editorial/clinical/dossiers/ruben.json": "685683512d72eeefe40792b7079e4fee987f4befa5f5aed54b87c4f76fa6958c",
+    "editorial/clinical/ruben.json": "212ce1fe1cc7467e6307cebfc18aa9e5a6a326036b2f5b6badf3692f7686c9c1"
+  },
+  "status": "passed",
+  "findings": [],
+  "episode_checks": [
+    {
+      "number": 1,
+      "focus": "Contester au point de perdre sa place",
+      "opening_quote": "Madame Vernier annonce qu’il faut libérer les tables. Le groupe suivant attendra bientôt devant la porte de la salle de technologie. Ruben garde son carnet orange ouvert sur une page presque blanche. Il a douze ans et une idée qui lui semble assez bonne pour le salon du collège : un petit robot qui suivrait une ligne. Il voulait expliquer comment les roues seraient placées, mais il lui reste à peine quelques minutes.",
+      "ending_quote": "Madame Vernier propose de reprendre la question des horaires au début du prochain club.",
+      "continuity_note": "Le carnet et le robot ouvrent le projet ; la question des horaires reçoit un rendez-vous tenu explicitement au début du 3. La fin conserve la possibilité de participation.",
+      "clinical_note": "La contestation est définie par son coût dans un schéma déjà évalué, sans diagnostiquer un refus ponctuel. La règle est explicable et le choix entre deux tâches est réel.",
+      "relatives_note": "Le miroir engage Vernier à tenir le rendez-vous annoncé ; Inès ne doit ni convaincre Ruben ni connaître son diagnostic."
+    },
+    {
+      "number": 2,
+      "focus": "Les demandes évitées à la maison",
+      "opening_quote": "Le carnet orange occupe le centre de la table. Ruben a repris les roues de son robot et ajouté un rectangle pour la partie du dessus. Son cartable est ouvert près de la porte, avec deux cahiers encore posés sur une chaise. Claire passe une première fois sans rien dire. Elle regarde l’heure du repas, puis la feuille couverte de traits. Elle sait qu’il faut préparer les affaires du lendemain et redoute la discussion qui pourrait commencer.",
+      "ending_quote": "Ruben rassemble son carnet et ses crayons avec Claire.",
+      "continuity_note": "Le carnet encombre la table après le club ; la reprise du cartable après le repas a lieu dans la fin, sans dette narrative. Claire prépare le soutien qui aura lieu au 8.",
+      "clinical_note": "Le retentissement des conflits sur les demandes des adultes est distinct du conflit scolaire. Évitement et rappels accumulés ne deviennent pas une théorie de culpabilité parentale.",
+      "relatives_note": "Le croquis n’est pas confisqué ; Yacine peut reconnaître sa formulation et Claire demander du soutien à la clinicienne."
+    },
+    {
+      "number": 3,
+      "focus": "Une remarque devient une irritation vive",
+      "opening_quote": "Au début du club suivant, madame Vernier reprend avec Ruben la question des horaires, comme elle l’avait annoncé. Ils regardent le temps réservé au rangement et conviennent de garder les propositions de projet plus tôt dans la séance. Ruben présente alors son croquis. Inès accepte de travailler sur le robot avec lui. Elle aime l’idée de la ligne à suivre et voudrait que leur présentation soit assez claire pour les visiteurs du salon.",
+      "ending_quote": "Après un moment, Ruben revient au dessin avec madame Vernier.",
+      "continuity_note": "La question des horaires du 1 est reprise et Inès accepte explicitement le projet. Le brouillon froissé et le dessin rectifié aboutissent à la liste et au matériel du 4.",
+      "clinical_note": "La réactivité irritable est située sans spécificateur chronique ; la pause sous encadrement précède la mesure. Colère, intention agressive et sous-type ne sont pas confondus.",
+      "relatives_note": "Inès garde sa limite de parole ; la professeure encadre la pause et n’attend pas d’Inès qu’elle calme son partenaire."
+    },
+    {
+      "number": 4,
+      "focus": "Reporter son erreur sur un autre",
+      "opening_quote": "La séance suivante commence avec le croquis corrigé. Madame Vernier a préparé l’espace de travail et supervise l’assemblage. Inès lit les noms de la liste pendant que Ruben vérifie les éléments autorisés pour leur projet. Au milieu de la vérification, il s’arrête : une pièce qu’il attendait n’est pas à l’emplacement indiqué. Il regarde immédiatement Inès. « Tu l’as encore changée de place. » Elle répond qu’elle n’y a pas touché.",
+      "ending_quote": "Ruben barre proprement l’indication fausse et écrit celle dont il se souvient.",
+      "continuity_note": "La correction de rangement est située à la séance précédente. La pièce reste à rechercher en fin puis est effectivement retrouvée au début du 5.",
+      "clinical_note": "L’accusation et la trace du carnet illustrent le rejet de responsabilité ; aucune inférence de mensonge permanent ou d’absence d’empathie. Correction précise sans procès public.",
+      "relatives_note": "Le miroir nomme la ligne modifiée et maintient le droit d’Inès de demander l’arrêt des accusations, sans pardon imposé."
+    },
+    {
+      "number": 5,
+      "focus": "Provoquer éloigne les camarades",
+      "opening_quote": "La pièce est retrouvée avec madame Vernier dans le rangement commun. L’indication corrigée a permis de choisir le bon emplacement à vérifier. Ruben voudrait que cette découverte efface la gêne de l’accusation. Inès revient au schéma, mais reste plus réservée. Elle demande simplement de vérifier une mesure avant d’écrire la version définitive. Ruben répète sa phrase avec une voix exagérément appliquée, comme s’il présentait une émission de contrôle des règles.",
+      "ending_quote": "Madame Vernier installe Inès à une table voisine et donne à Ruben sa partie du schéma à terminer.",
+      "continuity_note": "La pièce est retrouvée avant la provocation ; deux tables encadrées ouvrent le travail séparé du 6. La pause relationnelle reste respectée.",
+      "clinical_note": "L’imitation répétée malgré le refus rend la provocation perceptible sans inventaire de symptômes. La distance est le choix de la camarade, pas une exclusion punitive organisée.",
+      "relatives_note": "L’adulte intervient et organise la distance ; Inès n’a pas à accepter les justifications ou à prendre en charge la réaction."
+    },
+    {
+      "number": 6,
+      "focus": "Un refus ne dit pas sa cause",
+      "opening_quote": "Ruben travaille encore à sa table pendant qu’Inès termine sa partie du schéma. Madame Vernier lui donne une fiche pour préparer les essais du robot. Plusieurs étapes figurent sur la même page, avec des cases destinées aux observations. Il lit la première ligne, passe à la suivante, puis repousse la feuille. « Je ne fais pas ça. » La professeure commence à rappeler ce qu’ils avaient convenu, avant de s’arrêter et de lui demander où il bloque exactement.",
+      "ending_quote": "L’essai se déroule sous la supervision de madame Vernier.",
+      "continuity_note": "La séparation des tables est maintenue ; un premier essai est fait après clarification. Le ressentiment restant introduit le rendez-vous du 7.",
+      "clinical_note": "Le refus initial ne devient pas automatiquement une manifestation du diagnostic. Une phrase mal comprise et le désaccord sur le rôle sont séparés ; aucun autre diagnostic ajouté.",
+      "relatives_note": "Vernier reconnaît la formulation perfectible, vérifie la compréhension et maintient son rôle de sécurité sans interrogation punitive."
+    },
+    {
+      "number": 7,
+      "focus": "Le ressentiment prolonge la dispute",
+      "opening_quote": "Madame Arnaud reçoit d’abord Ruben seul, comme ils l’avaient prévu pour ce rendez-vous de suivi. Claire et Yacine attendent la seconde partie. Le carnet orange est posé sur ses genoux. Ruben explique que l’essai du robot a pu commencer, mais il revient surtout sur la table où Inès s’est installée. Il raconte ce déplacement comme si la séance entière avait été organisée pour lui donner tort.",
+      "ending_quote": "Ruben décide de ne pas retenir les résultats.",
+      "continuity_note": "La première partie individuelle du rendez-vous prépare exactement le partage parental au 8. Le carnet n’est pas caché, mais la répartition demeure à négocier.",
+      "clinical_note": "Le ressentiment durable est distinct de la réaction vive du 3. L’interprétation d’Inès est discutée comme celle de Ruben, sans mécanisme universel ou spécificateur inventé.",
+      "relatives_note": "Le parent peut entendre le sentiment sans soutenir la revanche ; Inès n’a pas à revenir sur sa limite et le partage est organisé avec le jeune."
+    },
+    {
+      "number": 8,
+      "focus": "Soutenir les parents sans les accuser",
+      "opening_quote": "Claire et Yacine rejoignent Ruben pour la seconde partie du rendez-vous. Madame Arnaud reprend avec lui la décision qu’il a choisi de partager : ne pas cacher les résultats et demander une répartition avant les essais. Elle ne raconte pas tout ce qui a été dit pendant l’entretien seul. Ruben garde le carnet sur ses genoux et rectifie un mot quand la formulation ne lui ressemble pas.",
+      "ending_quote": "Ils choisissent un bref point après le club, à un moment où Ruben a posé ses affaires : une question sur le projet, puis les besoins pratiques, sans liste de toutes les fautes de la journée.",
+      "continuity_note": "La seconde partie du même rendez-vous conserve l’accord de partage du 7 et rappelle la table dégagée du 2. L’essai de retour de club sera repris au 9.",
+      "clinical_note": "Soutien individualisé aux parents de Ruben, 12 ans, sans appliquer le programme parental 3–11 ans ou promettre disparition du trouble. Fatigue et culpabilité sont des besoins de soutien.",
+      "relatives_note": "Claire et Yacine demandent une aide concrète ; le miroir ne confie pas à Ruben la mission de les soulager ni une dette éducative."
+    },
+    {
+      "number": 9,
+      "focus": "Apprendre à chercher plusieurs solutions",
+      "opening_quote": "Quelques semaines ont passé depuis le rendez-vous avec ses parents. Les retours du club ne sont pas tous tranquilles, mais la question brève sur le projet a parfois évité qu’un échange commence par une liste de reproches. Ruben retrouve madame Arnaud dans le cadre de son accompagnement. Ils ont discuté avec lui des possibilités adaptées à son âge et de ce qu’il voudrait pouvoir changer dans les conflits du club.",
+      "ending_quote": "Au club, Ruben propose de noter les résultats pendant qu’Inès prépare l’affiche, puis d’échanger un créneau.",
+      "continuity_note": "Quelques semaines passent ; le bilan nuancé des retours de club précède les essais de formulation. Inès accepte une organisation limitée, première coopération reprise après sa pause.",
+      "clinical_note": "Le texte cite correctement la tranche 9–14 ans et distingue programmes structurés et appuis ordinaires. Il ne prétend pas dispenser un programme manuel complet dans la scène individuelle.",
+      "relatives_note": "Vernier vérifie accord et faisabilité, Inès peut refuser, et les parents s’intéressent aux essais sans perfection exigée."
+    },
+    {
+      "number": 10,
+      "focus": "Réparer un retard qui touche le groupe",
+      "opening_quote": "Inès arrive avec une première version de l’affiche. Elle y a placé le nom du robot et un espace pour expliquer leurs observations. Ruben a les résultats dans son carnet orange. Ils avaient prévu de vérifier ensemble si le texte correspond à la démonstration. Madame Vernier annonce pourtant un changement : leur essai aura lieu après celui d’un autre groupe, car une table doit être libérée plus tôt.",
+      "ending_quote": "Ruben prépare une courte liste : vérifier le déroulement, lire l’affiche à côté du robot et décider qui présentera chaque partie.",
+      "continuity_note": "Le créneau modifié provoque un retard concret ; la fin réserve un essai supplémentaire et liste les tâches réellement reprises au 11. L’inscription reste maintenue.",
+      "clinical_note": "Plusieurs facteurs sont reconnus, notamment la contrainte et l’explication adulte ; Ruben n’est pas rendu seul responsable de toute la situation. La réparation reste proportionnée.",
+      "relatives_note": "Le miroir laisse Inès contrariée et prévoit que Vernier explique les changements ; aucune excuse publique forcée ni retrait arbitraire du salon."
+    },
+    {
+      "number": 11,
+      "focus": "Une difficulté nouvelle mérite écoute",
+      "opening_quote": "Le court essai prévu a bien lieu à la séance suivante. Madame Vernier encadre la démonstration pendant qu’Inès place son affiche à côté. Les points de la liste sont repris et le groupe dispose enfin d’un déroulement utilisable. Le robot a encore des ajustements possibles, mais l’ensemble fonctionne assez bien pour que les visiteurs comprennent leur projet. Ruben pourrait être content de cette étape. Sur le chemin du retour, il annonce pourtant qu’il ne parlera pas au salon.",
+      "ending_quote": "Ruben choisit de présenter un seul essai, avec Inès à côté, puis de lui passer la parole pour l’affiche.",
+      "continuity_note": "L’essai du 10 a lieu. Le relais choisi et le rappel discret sont explicitement convenus avant leur utilisation au 12 ; Inès accepte sa part.",
+      "clinical_note": "L’inquiétude fait l’objet d’une écoute puis d’un suivi, sans diagnostic anxieux automatique ni lecture en provocation. Le rôle ajusté est un choix, pas une exposition forcée.",
+      "relatives_note": "Claire demande ce que Ruben imagine ; Inès n’assume pas un rôle de rassurance permanente et l’adulte protège la portée limitée de l’accord."
+    },
+    {
+      "number": 12,
+      "focus": "Participer malgré une évolution irrégulière",
+      "opening_quote": "Le salon remplit le couloir du collège de voix et de panneaux colorés. Inès a placé son affiche près de la table réservée au club de robotique. Madame Vernier reste responsable du matériel et des essais. Ruben a ouvert son carnet orange à la page qui rappelle sa partie : montrer un essai, expliquer ce qu’ils observent, puis donner la parole à Inès. Ses parents se tiennent un peu plus loin, sans lui faire de signe pour ajouter quelque chose.",
+      "ending_quote": "La démonstration est terminée.",
+      "continuity_note": "Le salon réalise la démonstration puis le passage de parole prévus. Robot imparfait, carnet rangé, prochain prototype et rendez-vous maintenu ferment le projet sans fermer le suivi.",
+      "clinical_note": "La participation malgré une tension illustre une évolution irrégulière, pas une guérison ni une trajectoire dissociale certaine. Les effets des appuis sont situés dans cette scène.",
+      "relatives_note": "Claire décrit une action et interroge le vécu ; Inès est reconnue pour sa contribution et ses limites, sans être rendue responsable du progrès."
+    }
+  ]
+}
