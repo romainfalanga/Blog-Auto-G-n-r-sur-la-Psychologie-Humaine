@@ -582,6 +582,26 @@
       "design_sha256": "d05cc51566a0f7d6b34791dce8ae3cef7757474f1ddb50f09d7c4a73a6da52bd",
       "independent_review_sha256": "d5e6362cd5df09e548a27494b2fa01c4760216e566ec44e67e1fe587e1a21c01",
       "review": "Douze épisodes relus indépendamment : chronologie diagnostique, alimentation, symptôme nouveau réévalué, continuité des images et légendes, proches et absence de tutoriel médical vérifiés. Aucune correction ouverte."
+    },
+    "felix": {
+      "date": "2026-11-09",
+      "status": "editorially_reviewed",
+      "article_format": 2,
+      "sha256": "4d2d6a0c459d6b53480324c2d80105e2446a0eab3b4546c5f86d70afa9048a1b",
+      "dossier_sha256": "4cf04d01aa8608950159bb24ffb4b363fe3de5cbe9a2392681240db3163ec513",
+      "design_sha256": "dd7fd709767aa366b0e4eb81c4e1613ee63719aa8a1326bbd566677fa2403d70",
+      "independent_review_sha256": "b4d5b274626d04129a4a720a6ad63c4de4d69fbc2029edc212cbcebb3322accf",
+      "review": "Douze épisodes relus indépendamment, symptômes et suivi professionnel, confidentialité, responsabilité adulte et continuité carte–Noé–portail–pont vérifiés. Aucune correction ouverte."
+    },
+    "titouan": {
+      "date": "2026-11-09",
+      "status": "editorially_reviewed",
+      "article_format": 2,
+      "sha256": "33c15ca791fecf1c839f390bf2da799edaefd83fb6d0fb7a3f7801a7236a54c7",
+      "dossier_sha256": "8aa80bf3131e67fe7f4aad85eacbc1cbab29a370b6d46418dc5ee7712bb1a37d",
+      "design_sha256": "47816ac75dcf39d5ce8ae94e292e5a52a73793ec4b2701b7b1a861b5576e7c1e",
+      "independent_review_sha256": "a83a3fdb219bc671a7374bfec4ba1eb6182a08e41106145ffa772ea50dc3a1e9",
+      "review": "Douze épisodes relus indépendamment ; raccord temporel épisode 11 corrigé puis revalidé, confidentialité enfant, aide adulte et nuit à la médiathèque vérifiées. Aucune correction ouverte."
     }
   }
 }

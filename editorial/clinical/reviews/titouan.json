@@ -1,0 +1,124 @@
+{
+  "schema_version": 1,
+  "character_id": "titouan",
+  "reviewer": "review_titouan",
+  "reviewed_on": "2026-11-09",
+  "status": "passed",
+  "summary": "Lecture indépendante complète des douze épisodes, du plan et du dossier, puis contrôle de la correction unique de l’épisode 11. La reconstitution octet pour octet du manuscrit précédent confirme que seule la phrase de raccord a changé ; les scènes 9 à 12 ont été relues dans leur enchaînement. Les douze aspects suivent le diagnostic connu, avec aides pratiques adultes, intimité et liberté réelle de rester ou de rentrer. Le plan préparé est effectivement appliqué pendant la nuit. Aucune restriction d’eau, punition, prescription, sous-type inventé ni guérison artificielle. Sources CPS et Ameli vérifiées ; ouverture NICE indisponible, points contrôlés contre le dossier validé. Aucune correction ouverte.",
+  "files": {
+    "editorial/clinical/designs/titouan.json": "47816ac75dcf39d5ce8ae94e292e5a52a73793ec4b2701b7b1a861b5576e7c1e",
+    "editorial/clinical/dossiers/titouan.json": "8aa80bf3131e67fe7f4aad85eacbc1cbab29a370b6d46418dc5ee7712bb1a37d",
+    "editorial/clinical/titouan.json": "33c15ca791fecf1c839f390bf2da799edaefd83fb6d0fb7a3f7801a7236a54c7"
+  },
+  "findings": [],
+  "episode_checks": [
+    {
+      "number": 1,
+      "focus": "Un accident sans faute volontaire",
+      "opening_quote": "Le formulaire dépasse de trois centimètres sous Le phare sans escalier. Titouan pousse le roman jusqu’au bord du bureau pour cacher la dernière ligne : première nuit à la médiathèq",
+      "ending_quote": "Salomé emporte le linge. Titouan tire la feuille de dessous le roman et la glisse à l’intérieur, bien à plat cette fois. « Le passage du gardien, je voulais le lire. » Il ne dit pa",
+      "continuity_note": "Le formulaire caché sous le roman devient un document conservé : le souhait de lire le passage demeure avant toute décision de dormir au club.",
+      "clinical_note": "Le diagnostic est connu et l’involontarité habituelle est distinguée du choix de renoncer. Aucun accident isolé n’est présenté comme diagnostic. Les trois appuis concernent le linge, une parole privée et la participation.",
+      "relatives_note": "Salomé prend le linge en charge sans dette ni récompense pour nuit sèche ; le miroir laisse le temps de répondre et ne demande aucune promesse."
+    },
+    {
+      "number": 2,
+      "focus": "L’éveil nocturne ne se commande pas",
+      "opening_quote": "La même ligne revient depuis plusieurs minutes : le gardien pose sa main sur la pierre. Titouan connaît déjà la suite, mais il maintient son roman ouvert. La lampe éclaire le marqu",
+      "ending_quote": "Titouan pose le marque-page à l’endroit où le gardien cherche une porte. « Tu demanderas pourquoi je ne me réveille pas avant ? » Salomé lui propose de poser lui-même la question o",
+      "continuity_note": "Le marque-page et le formulaire sont conservés ; la question sur le réveil est notée puis effectivement posée au début de l’épisode suivant.",
+      "clinical_note": "Les mécanismes d’éveil, de production urinaire et de capacité vésicale sont présentés comme possibles sans attribution individuelle ni trouble du sommeil ajouté. Le coucher ordinaire n’est pas donné comme traitement.",
+      "relatives_note": "Le parent accueille la garde improvisée puis la décharge, sans lui substituer un programme de réveils forcés ; une question professionnelle remplace la surveillance solitaire."
+    },
+    {
+      "number": 3,
+      "focus": "Le bilan regarde aussi la journée",
+      "opening_quote": "Titouan tient le marque-page entre ses doigts dans la salle d’attente. Il a laissé le roman à la maison, avec le formulaire toujours rangé dans sa couverture. Salomé a la question ",
+      "ending_quote": "« Je veux bien demander, mais pas au milieu de tout le monde », précise Titouan. Salomé note que l’accès aux toilettes fera partie de la préparation avec Mme Dumas. Le médecin conf",
+      "continuity_note": "La note préparée la veille ouvre le rendez-vous ; la demande de repérage des toilettes prépare l’épisode 5, tandis que le transit est introduit pour la suite du même entretien.",
+      "clinical_note": "Les questions diurnes servent au bilan, sans fabriquer une incontinence diurne. Les exemples distinguent une hésitation sociale à interrompre et un symptôme urinaire ; aucun seuil public ne permet un autodiagnostic.",
+      "relatives_note": "Salomé laisse Titouan parler et peut compléter seulement ce qui est connu. Mme Dumas recevra une demande pratique et ne devient pas interprète de réponses médicales."
+    },
+    {
+      "number": 4,
+      "focus": "Le transit compte dans l’évaluation",
+      "opening_quote": "Le médecin n’a pas changé de dossier. Pourtant, pour Titouan, la conversation vient de changer complètement de pièce. Après les questions sur les toilettes dans la journée, il parl",
+      "ending_quote": "Salomé entoure seulement la demande pratique à préparer : trouver les toilettes avec Mme Dumas avant la discussion. Les réponses médicales ne seront pas recopiées sur le formulaire",
+      "continuity_note": "La consultation se poursuit sans changement de dossier ; le formulaire du club est séparé des informations médicales, et le relevé privé est introduit avant les épisodes 5 et 6.",
+      "clinical_note": "Le transit et la constipation sont des facteurs possibles à rechercher, sans diagnostic ou cause universelle ajoutés. Les démarches ne prescrivent ni régime ni laxatif et gardent la décision au médecin.",
+      "relatives_note": "Le miroir explique à Titouan les informations utiles et les destinataires. La confidentialité n’est pas un secret absolu empêchant un relais de santé."
+    },
+    {
+      "number": 5,
+      "focus": "Boire et accéder aux toilettes",
+      "opening_quote": "Le roman est dans le sac, le formulaire dans sa couverture et le marque-page à la bonne page. Titouan vérifie les trois avant de mettre ses chaussures. La gourde, elle, reste debou",
+      "ending_quote": "Avant l’arrivée du groupe, Mme Dumas montre le trajet et indique à Titouan qu’il peut demander à interrompre sa lecture. Il ne raconte pas le rendez-vous médical. Quand Noé entre, ",
+      "continuity_note": "La gourde laissée volontairement près de la porte repart dans le sac ; Mme Dumas montre réellement le trajet demandé au rendez-vous et autorise une interruption de lecture.",
+      "clinical_note": "La privation hydrique et la rétention sont explicitement écartées. L’explication réserve les consignes spécifiques du prescripteur aux lecteurs traités ; aucune dose, quantité ou horaire restrictif n’est proposé pour Titouan.",
+      "relatives_note": "Salomé entend l’idée de se protéger sans la valider ; la bibliothécaire facilite l’accès et ne surveille pas les boissons pour obtenir un résultat nocturne."
+    },
+    {
+      "number": 6,
+      "focus": "Observer sans noter sa valeur",
+      "opening_quote": "Titouan a dessiné un phare en haut du relevé. Il pensait que cela rendrait la feuille moins sérieuse, mais les lignes du dessous ressemblent maintenant à celles d’un bulletin. Le m",
+      "ending_quote": "Titouan renseigne ce qui avait été convenu pour la nuit. Salomé n’ajoute ni étoile ni commentaire. « Et ça sert à choisir quoi pour la suite ? » demande-t-il. Le parent note cette ",
+      "continuity_note": "Le relevé introduit à la consultation est conservé dans une chemise distincte du carnet du club ; la question sur son utilité ouvre le suivi de l’épisode 7.",
+      "clinical_note": "Observation privée et note morale sont distinguées. Les trois démarches restent limitées à ce qui est convenu avec le médecin, sans comptage supplémentaire, classement ou récompense des nuits sèches.",
+      "relatives_note": "Le parent peut aider sans exiger un document parfait ; le miroir prévoit une adaptation avec le médecin si le relevé devient pesant ou confus."
+    },
+    {
+      "number": 7,
+      "focus": "Choisir un soin adapté au projet",
+      "opening_quote": "Le phare dessiné dépasse de la chemise que Salomé pose sur le bureau du médecin. Depuis leur dernier entretien, Titouan a repris le club, gardé sa gourde et appris le trajet des to",
+      "ending_quote": "Ils conviennent de poursuivre le suivi et de préparer la nuit sans attendre une garantie. Aucune nouvelle prescription n’est annoncée. Salomé range le relevé et le prochain rendez-",
+      "continuity_note": "Le suivi ultérieur reprend le relevé et les questions, puis conduit à préparer le sac bleu sans nouvelle prescription ; le prochain contact reste prévu.",
+      "clinical_note": "L’alarme est discutée avec ses contraintes et son retentissement possible sur le sommeil familial sans installation ni protocole. Les médicaments sont réservés au prescripteur ; la nuit du club ne devient pas une échéance de guérison.",
+      "relatives_note": "Salomé peut dire les limites réelles de l’organisation et accueillir la déception. L’enfant ne doit pas accepter un soin pour gagner le droit de participer."
+    },
+    {
+      "number": 8,
+      "focus": "La fatigue familiale sans reproche",
+      "opening_quote": "Le sac bleu est ouvert sur le canapé. Titouan y a déjà posé son roman, puis l’a ressorti pour vérifier le marque-page. Salomé revient de l’endroit où sèche le linge avec des affair",
+      "ending_quote": "Salomé prépare les affaires de rechange et leur rangement. Titouan remet Le phare sans escalier dans le sac, avec le marque-page déjà prêt. Il choisit de laisser son carnet du club",
+      "continuity_note": "La préparation du sac suit le point médical ; Salomé gère le change, Titouan remet le livre et le marque-page, et un échange discret avec Mme Dumas est organisé.",
+      "clinical_note": "La fatigue familiale est visible dans le soupir sans être une conséquence morale imputée à l’enfant. Les démarches distinguent charge adulte et contributions choisies ; aucune lessive punitive ni dette de participation.",
+      "relatives_note": "Le parent nomme précisément l’organisation fatigante et peut demander un appui adulte. Titouan n’a pas à porter la fatigue émotionnelle du parent pour maintenir sa sortie."
+    },
+    {
+      "number": 9,
+      "focus": "La confidentialité protège la participation",
+      "opening_quote": "Noé tarde à fermer son manteau. Il veut encore montrer à Titouan un détail de la carte : une passerelle si fine qu’on la prendrait pour une ligne du dessin. Titouan regarde la port",
+      "ending_quote": "« J’ai besoin de mon sac », choisit Titouan. Mme Dumas répond qu’elle l’accompagnera vers l’espace prévu et l’aidera selon ses besoins. Salomé confirme que le téléphone restera acc",
+      "continuity_note": "Le rendez-vous préparé se tient après le départ des lecteurs. Phrase du sac, espace privé, présence de Mme Dumas et retour avec Salomé sont vérifiés ; ces mêmes éléments sont appliqués à l’épisode 11.",
+      "clinical_note": "Les adaptations sont présentées comme soutien de participation et non traitement. La confidentialité est limitée aux besoins utiles des responsables ; aucun secret absolu ni garantie d’invisibilité.",
+      "relatives_note": "Noé ne surveille pas et n’a pas à porter un secret ou le linge. Les adultes vérifient des moyens réels et prévoient le retour, sans exiger une phrase parfaitement récitée."
+    },
+    {
+      "number": 10,
+      "focus": "Une variation ne prédit pas la prochaine nuit",
+      "opening_quote": "Le formulaire n’est plus caché sous le livre depuis plusieurs jours. Il est posé à côté du sac bleu, avec les informations pratiques préparées pour Mme Dumas. Titouan le prend avan",
+      "ending_quote": "Titouan pose le formulaire sur la table. Il veut toujours lire son passage, et il souhaite essayer la nuit avec la possibilité de rentrer. Salomé confirme avec Mme Dumas les dispos",
+      "continuity_note": "La variation à domicile survient quelques jours avant la nuit ; le sac et le formulaire restent disponibles. Les adultes reconfirment le plan et le choix reste révisable.",
+      "clinical_note": "Une courte séquence de nuits ne fonde ni pronostic certain ni guérison. Le récit ne crée pas de signe préoccupant, mais demande un contact médical s’il apparaît. Le relevé demeure celui convenu au suivi.",
+      "relatives_note": "Salomé écoute aussi le souhait de ne rester que le soir ou de renoncer. Sa disponibilité fournit une option et ne devient pas une pression à partir."
+    },
+    {
+      "number": 11,
+      "focus": "Répondre à un accident avec discrétion",
+      "opening_quote": "Titouan a lu le passage du gardien en tenant sa lampe près de la page. Au moment où le personnage pose la main sur la pierre, il a ralenti un peu. Noé voulait déjà donner son expli",
+      "ending_quote": "Dans l’espace privé, Titouan reçoit l’aide prévue. Mme Dumas s’occupe de l’organisation du linge et du couchage ; il remet ses affaires propres avec l’intimité nécessaire. Elle lui",
+      "continuity_note": "Lecture accomplie avant le sommeil ; l’accident est pris en charge dans l’espace privé avec le sac et Mme Dumas, puis Salomé reste joignable. La référence corrigée à leur échange préparatoire respecte désormais l’épisode 9, les jours intermédiaires de l’épisode 10 et la nuit actuelle. Le matin de l’épisode 12 reprend sans rupture le livre et le bilan privé de cette aide.",
+      "clinical_note": "L’accident connu sans douleur ni malaise reste une situation pratique ; la possibilité d’un signe nouveau impose un relais adapté. Les démarches garantissent aide adulte, intimité et choix réel de rentrer ou rester sans hiérarchie morale.",
+      "relatives_note": "Mme Dumas applique effectivement le plan, s’occupe du linge et du couchage et propose un appel au parent. Noé n’est ni réveillé pour aider ni rendu responsable du secret ; rester n’est pas félicité comme exploit."
+    },
+    {
+      "number": 12,
+      "focus": "Participer sans attendre la guérison",
+      "opening_quote": "Noé pose son bol à côté du roman et affirme qu’il a trouvé : la porte du phare est sous la passerelle. Titouan secoue la tête avant même d’avoir fini sa tartine. « Alors pourquoi l",
+      "ending_quote": "À l’écart, Titouan dit que la phrase du sac l’a aidé, mais qu’il a hésité avant de la prononcer. Salomé et Mme Dumas retiennent ce point pour une éventuelle autre sortie. Le sac se",
+      "continuity_note": "Le matin reprend la discussion du phare et le bilan de l’aide a lieu à l’écart ; le passage a été lu, la première nuit accomplie et le sac sera réorganisé pour une éventuelle suite.",
+      "clinical_note": "La participation est une issue individuelle, non un traitement ou une guérison. Le prochain rendez-vous reste prévu et revenir au club ne vaut pas engagement à dormir ailleurs. Les douze aspects aboutissent sans fermer le suivi.",
+      "relatives_note": "Salomé écoute d’abord la lecture puis le besoin pratique en privé ; Mme Dumas entend l’hésitation dans la demande sans valoriser le maintien sur place comme victoire obligatoire."
+    }
+  ]
+}

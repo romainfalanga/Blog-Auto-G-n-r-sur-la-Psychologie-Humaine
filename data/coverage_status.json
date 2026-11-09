@@ -24,15 +24,15 @@
     "other_frameworks": "APA pédagogique, RDoC recherche et CIF fonctionnement restent des grilles distinctes."
   },
   "counts": {
-    "articles": 1251,
-    "characters": 105,
-    "clinical_arcs": 72,
-    "clinical_episodes": 864,
+    "articles": 1275,
+    "characters": 107,
+    "clinical_arcs": 74,
+    "clinical_episodes": 888,
     "original_articles_reviewed": 387,
     "icd11_chapter06_codes": 858,
     "icd11_ungrouped_codes": 10,
-    "icd11_primary_arcs": 68,
-    "clinical_cases_pending": 82,
+    "icd11_primary_arcs": 70,
+    "clinical_cases_pending": 80,
     "other_published_arcs": 4,
     "internal_patterns": 161,
     "internal_patterns_indexed": 161
@@ -133,7 +133,7 @@
       "statuses": {
         "editorial_mapping_only": 5,
         "no_standalone_arc_planned": 3,
-        "pending_editorial_case": 2
+        "published_primary_arc": 2
       }
     },
     {
@@ -4763,12 +4763,30 @@
       "label": "Énurésie",
       "group_id": "BlockL1-6C0",
       "editorial_status": "parcours",
-      "coverage_status": "pending_editorial_case",
+      "coverage_status": "published_primary_arc",
       "reason": "diagnostic_distinct",
       "candidate_ids": [
         "titouan"
       ],
-      "published_primary": null,
+      "published_primary": {
+        "character_id": "titouan",
+        "name": "Titouan",
+        "reviewed_on": "2026-11-09",
+        "articles": [
+          "posts/comprendre-et-maitriser-ses-emotions/titouan-accident-aide-discrete",
+          "posts/comprendre-et-maitriser-ses-emotions/titouan-accident-sans-faute",
+          "posts/comprendre-et-maitriser-ses-emotions/titouan-bilan-journee",
+          "posts/comprendre-et-maitriser-ses-emotions/titouan-confidentialite-participation",
+          "posts/comprendre-et-maitriser-ses-emotions/titouan-eau-toilettes-accessibles",
+          "posts/comprendre-et-maitriser-ses-emotions/titouan-eveil-ne-se-commande-pas",
+          "posts/comprendre-et-maitriser-ses-emotions/titouan-fatigue-familiale",
+          "posts/comprendre-et-maitriser-ses-emotions/titouan-observer-sans-note",
+          "posts/comprendre-et-maitriser-ses-emotions/titouan-participer-sans-guerison",
+          "posts/comprendre-et-maitriser-ses-emotions/titouan-soin-projet-nuit",
+          "posts/comprendre-et-maitriser-ses-emotions/titouan-transit-evaluation",
+          "posts/comprendre-et-maitriser-ses-emotions/titouan-variation-nuits"
+        ]
+      },
       "reference_url": "https://icd.who.int/browse/2026-01/mms/fr#1157749237"
     },
     {
@@ -4826,12 +4844,30 @@
       "label": "Encoprésie",
       "group_id": "BlockL1-6C0",
       "editorial_status": "parcours",
-      "coverage_status": "pending_editorial_case",
+      "coverage_status": "published_primary_arc",
       "reason": "diagnostic_distinct",
       "candidate_ids": [
         "felix"
       ],
-      "published_primary": null,
+      "published_primary": {
+        "character_id": "felix",
+        "name": "Félix",
+        "reviewed_on": "2026-11-09",
+        "articles": [
+          "posts/comprendre-et-maitriser-ses-emotions/felix-acces-toilettes",
+          "posts/comprendre-et-maitriser-ses-emotions/felix-accident-reproche",
+          "posts/comprendre-et-maitriser-ses-emotions/felix-comprendre-debordement",
+          "posts/comprendre-et-maitriser-ses-emotions/felix-diagnostic-bilan",
+          "posts/comprendre-et-maitriser-ses-emotions/felix-douleur-retenue",
+          "posts/comprendre-et-maitriser-ses-emotions/felix-fatigue-parentale-relais",
+          "posts/comprendre-et-maitriser-ses-emotions/felix-fluctuations-suivi",
+          "posts/comprendre-et-maitriser-ses-emotions/felix-fuite-percue-trop-tard",
+          "posts/comprendre-et-maitriser-ses-emotions/felix-honte-parmi-autres",
+          "posts/comprendre-et-maitriser-ses-emotions/felix-participer-sans-preuve",
+          "posts/comprendre-et-maitriser-ses-emotions/felix-peur-accident-renoncer",
+          "posts/comprendre-et-maitriser-ses-emotions/felix-soins-sans-epreuve"
+        ]
+      },
       "reference_url": "https://icd.who.int/browse/2026-01/mms/fr#313374467"
     },
     {
@@ -12401,20 +12437,6 @@
       "name": "Évaëlle",
       "code": "6B65",
       "label": "Trouble dissociatif de l'identité partiel",
-      "decision": "À documenter puis choisir entre récit, comparaison et dossier."
-    },
-    {
-      "character_id": "titouan",
-      "name": "Titouan",
-      "code": "6C00",
-      "label": "Énurésie",
-      "decision": "À documenter puis choisir entre récit, comparaison et dossier."
-    },
-    {
-      "character_id": "felix",
-      "name": "Félix",
-      "code": "6C01",
-      "label": "Encoprésie",
       "decision": "À documenter puis choisir entre récit, comparaison et dossier."
     },
     {

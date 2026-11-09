@@ -1,0 +1,124 @@
+{
+  "schema_version": 1,
+  "character_id": "felix",
+  "reviewer": "review_felix",
+  "reviewed_on": "2026-11-09",
+  "summary": "Relecture indépendante intégrale des douze épisodes : ouvertures, explications, trois manifestations avec exemples, trois démarches avec étapes, dénouements, conclusions et proches, comparés au canon, au plan, au dossier, à la charte et au modèle. Sources sensibles vérifiées : CDDR OMS p.424–427 dans le document original HRB ; NICE CG99 sections 1.1.2, 1.4.10–11, 1.5.1–2 et 1.8.1–3 dans le PDF officiel local, corroboré par les recommandations indexées ; pages NHS et NIDDK consultées. Présentation avec constipation évaluée conservée, accidents involontaires pour Félix sans généralisation abusive à toutes les formes. La douleur et les fluctuations conduisent au relais clinique, l’accès à l’aide ne dépend pas d’un signal parfait, et les soins ne sont jamais conditionnés à un résultat scolaire. La progression de la carte est suivie : pliage, pont, arc retenu avec Noé, copie plastifiée, segment choisi, lecture portail–pont et relais accompli. Aucun traitement improvisé ni correction ouverte relevés. Acceptation éditoriale de ces octets précis, distincte d’une validation clinique individuelle ou d’une preuve d’efficacité des adaptations.",
+  "files": {
+    "editorial/clinical/designs/felix.json": "dd7fd709767aa366b0e4eb81c4e1613ee63719aa8a1326bbd566677fa2403d70",
+    "editorial/clinical/dossiers/felix.json": "4cf04d01aa8608950159bb24ffb4b363fe3de5cbe9a2392681240db3163ec513",
+    "editorial/clinical/felix.json": "4d2d6a0c459d6b53480324c2d80105e2446a0eab3b4546c5f86d70afa9048a1b"
+  },
+  "status": "passed",
+  "findings": [],
+  "episode_checks": [
+    {
+      "number": 1,
+      "focus": "Une fuite perçue trop tard",
+      "opening_quote": "Félix a posé sa règle exactement entre l’école et le jardin du moulin. Sur le dessin de madame Perrin, la route ressemble à une ficelle ; sur le sien, elle aura des angles. Il préfère garder le trajet au crayon jusqu’à ce que les adultes aient vérifié les rues. À neuf ans, il connaît déjà trois façons de dessiner une flèche, et trouve que celle du tableau prend beaucoup trop de place. Noé lui demande où sera le petit pont. Félix lève un doigt : il faut d’abord trouver le bon bord de la feuille.",
+      "ending_quote": "À son retour, Félix retrouve la règle à côté du plan fermé.",
+      "continuity_note": "Le plan reste au crayon puis est emporté plié en quatre ; le coin réservé au pont prépare le travail avec Samuel.",
+      "clinical_note": "La perception tardive est circonscrite à la présentation avec constipation évaluée ; absence de signal préalable et volonté ne sont pas confondues. Le diagnostic est antérieur.",
+      "relatives_note": "Lila propose une aide à voix basse sans interroger publiquement ; madame Perrin garde la classe. Le parent transmet les faits sans réclamer une explication impossible."
+    },
+    {
+      "number": 2,
+      "focus": "La douleur entretient la retenue",
+      "opening_quote": "Le plan plié en quatre ne veut plus rester plat. Samuel pose une tasse vide sur un coin ; Félix proteste, parce qu’elle cache le jardin du moulin. Ils la déplacent sur la marge. À la maison, le dessin semble plus petit que sur la table de classe. Il faut encore ajouter le pont, et son père cherche une photographie du chemin pour ne pas le mettre du mauvais côté.",
+      "ending_quote": "Samuel appelle le cabinet pour signaler les douleurs et organiser un point avec la docteure Vignal.",
+      "continuity_note": "Le plan domestique prolonge le premier épisode ; le pont est ajouté après la pause et l’appel au cabinet prépare la consultation.",
+      "clinical_note": "La peur d’une selle douloureuse peut entretenir la rétention sans signifier choix de la fuite. Samuel contacte le cabinet dans la scène ; aucune poussée, assise forcée ou modification de traitement.",
+      "relatives_note": "La phrase proposée reconnaît la peur et annonce le relais. Le proche n’a pas à obtenir une selle pour juger l’échange utile, et préserve l’intimité."
+    },
+    {
+      "number": 3,
+      "focus": "Comprendre le débordement",
+      "opening_quote": "Avant le rendez-vous organisé avec le cabinet, Samuel a remarqué une nouvelle fuite, plus molle que les précédentes. Il a pensé au mot diarrhée, puis l’a gardé sous forme de question sur son téléphone. Félix a entendu cette hésitation. Dans la salle d’attente, il tourne le bord plié de sa carte à travers la poche de son manteau. Le petit pont y est enfin dessiné, mais personne ne semble avoir besoin d’un pont aujourd’hui.",
+      "ending_quote": "« Ça veut dire que je l’ai fait exprès ? » demande enfin Félix.",
+      "continuity_note": "Le rendez-vous découle de l’appel ; le pont existe déjà sur la feuille dans la poche. Félix sort la carte après sa question, ouvrant la suite de la même consultation.",
+      "clinical_note": "L’aspect mou ne suffit à diagnostiquer ni diarrhée ni débordement. La pédiatre réévalue, explique le mécanisme retenu chez Félix et distingue les formes sans rétention.",
+      "relatives_note": "Samuel décrit son observation sous forme de question ; Félix peut demander si on lui reproche quelque chose. Aucun essai domestique de traitement pour vérifier une hypothèse."
+    },
+    {
+      "number": 4,
+      "focus": "Le diagnostic ne remplace pas le bilan",
+      "opening_quote": "La carte est maintenant ouverte sur le bureau de la docteure Vignal. Félix a choisi de la laisser là pendant la suite du rendez-vous. Son père revient aux douleurs signalées au cabinet. « Alors, les maux de ventre, c’est forcément la même chose ? » Il aimerait pouvoir ranger toutes les questions dans une seule réponse et passer à l’organisation de la sortie.",
+      "ending_quote": "La docteure Vignal convient avec Samuel des suites de la prise en charge individualisée.",
+      "continuity_note": "La carte est maintenant ouverte au même rendez-vous ; deux destinations sont distinguées pour notes médicales et besoins scolaires, avant la vérification des toilettes.",
+      "clinical_note": "Le diagnostic ne ferme pas le bilan des changements ni la question des effets médicamenteux. Les signes préoccupants mentionnés appellent une évaluation urgente et ne sont pas artificiellement introduits dans la scène.",
+      "relatives_note": "Le parent peut corriger une supposition sans culpabilité ; la transmission à Lila porte sur l’aide pratique, avec Félix associé aux destinataires."
+    },
+    {
+      "number": 5,
+      "focus": "L’accès aux toilettes change la situation",
+      "opening_quote": "Lila attend Félix près du couloir, à un moment convenu avec madame Perrin. Son père lui a transmis les besoins pratiques discutés au rendez-vous. Aujourd’hui, ils ne vont pas parler devant la classe de ce qu’a dit la pédiatre. Ils vont regarder comment l’organisation peut fonctionner pour de vrai. Félix trouve cela plus facile à comprendre qu’une promesse générale : « Tu demanderas si tu as besoin. »",
+      "ending_quote": "« J’ai besoin de te parler », choisit Félix.",
+      "continuity_note": "La transmission de Samuel débouche sur la vérification du lieu et du relais. La phrase choisie est « J’ai besoin de te parler » ; les informations de santé restent hors de la carte collective.",
+      "clinical_note": "Les obstacles aux toilettes peuvent contribuer au report sans devenir cause unique ou phobie. Le moyen de demander n’est pas une condition d’accès : l’aide reste disponible autrement.",
+      "relatives_note": "Lila recherche la difficulté concrète plutôt que rappeler un droit théorique ; les responsables vérifient lieu et disponibilité, sans attendre une pause ni déléguer à Noé."
+    },
+    {
+      "number": 6,
+      "focus": "La honte réduit la place parmi les autres",
+      "opening_quote": "Noé arrive avec deux feutres et une idée très arrêtée : le pont doit être représenté par deux traits parallèles. Félix préfère un arc. Il place les deux versions sur une feuille à côté de la carte, pour regarder laquelle se comprend le mieux. Les adultes ont confirmé l’organisation pratique de ses sorties de classe ; aujourd’hui, il aimerait simplement réussir cette légende avec quelqu’un qui discute vraiment les symboles.",
+      "ending_quote": "Félix finit par tirer le plan hors du cahier.",
+      "continuity_note": "La légende se construit avec Noé ; les deux traits sont comparés à l’arc et l’arc est retenu. La remarque déclenche un retrait, puis une reprise encore hésitante.",
+      "clinical_note": "La honte et le retrait constituent un retentissement social distinct du mécanisme intestinal. L’arrêt de la remarque ne produit pas une confiance ou une guérison immédiate.",
+      "relatives_note": "Lila interrompt le commentaire sans révéler le diagnostic. Noé peut revenir au dessin ; il n’est ni confident obligatoire ni responsable du bien-être de Félix."
+    },
+    {
+      "number": 7,
+      "focus": "Quand l’accident devient un reproche",
+      "opening_quote": "La légende avec son petit arc est fixée près du tableau. Félix aime voir le pont aussi net ; il reconnaît la forme qu’il a défendue face à Noé. Madame Perrin a préparé une liste des lecteurs de carte pour la sortie. On peut proposer son nom, puis discuter de ce que chacun souhaite faire. Félix a écrit le sien en lettres plus petites que d’habitude, mais il l’a écrit.",
+      "ending_quote": "Après la réunion, madame Perrin montre à Félix la place restée libre.",
+      "continuity_note": "L’arc est affiché, Félix inscrit puis barre son prénom ; la correction de la maîtresse laisse réellement le choix ouvert et la carte à préparer.",
+      "clinical_note": "Une consigne collective d’attente n’est pas proposée comme traitement. La rectification vise l’accès à l’aide et ne demande aucune promesse de continence.",
+      "relatives_note": "La rubrique reconnaît l’effet d’une parole sans intention malveillante et propose une réparation concrète. Félix n’a pas à se réinscrire pour rassurer ou pardonner à l’adulte."
+    },
+    {
+      "number": 8,
+      "focus": "Des soins réguliers sans épreuve de réussite",
+      "opening_quote": "Samuel a posé le carnet demandé pour le suivi près du plan de la sortie. Il veut préparer les informations utiles à la docteure Vignal avant de les oublier. Félix reconnaît certaines cases, mais ne sait plus exactement ce que chacune décide. Depuis la réunion de classe, son prénom n’est toujours pas revenu sur la liste des lecteurs. Il regarde le carnet, puis le pont en arc qu’il a dessiné avec Noé.",
+      "ending_quote": "Le carnet rejoint les documents du cabinet.",
+      "continuity_note": "Le prénom demeure barré comme annoncé ; la proximité des deux documents explique le malentendu. Le carnet est rangé et une copie de la carte est plastifiée.",
+      "clinical_note": "Le relevé et les routines négociées restent des appuis de suivi, non une note de valeur ni un contrat de continence. Aucune consigne universelle de toilettes ou décision thérapeutique autonome.",
+      "relatives_note": "Samuel cherche ce que Félix croit du carnet et explique ses destinataires ; le rôle n’est jamais la récompense d’une journée sans fuite."
+    },
+    {
+      "number": 9,
+      "focus": "La fatigue parentale demande un relais",
+      "opening_quote": "La copie plastifiée de la carte est posée sur le buffet. Félix la soulève par un coin ; elle reste droite, ce qui lui plaît beaucoup. Samuel cherche les affaires de rechange à mettre dans le sac discret prévu avec l’école. Il croyait les avoir rassemblées, puis retrouve une partie dans un autre placard. Il regarde l’heure et soupire assez fort pour que Félix cesse de faire tourner la carte.",
+      "ending_quote": "Samuel échange avec Lila sur le rangement et le relais prévus.",
+      "continuity_note": "La copie plastifiée précède le sac de rechange ; le soupir fait proposer l’annulation, puis le rangement et les relais sont précisés pour le repérage.",
+      "clinical_note": "La charge familiale est décrite comme un retentissement, pas une faute ou un nouveau symptôme. Le parent sollicite l’école pour la logistique et le cabinet pour le suivi.",
+      "relatives_note": "Samuel répare le message sans demander à Félix de le consoler. Les tâches restent aux adultes et Noé ne reçoit aucune surveillance."
+    },
+    {
+      "number": 10,
+      "focus": "Les fluctuations ne sont pas un verdict",
+      "opening_quote": "Plusieurs journées ont été plus faciles. Samuel n’ose pas tout à fait le dire, mais il a pensé laisser le sac de rechange à la maison pour la petite marche de repérage. Félix a déjà posé la carte plastifiée près des chaussures. Il veut vérifier si le pont paraît aussi étroit sur place que sur son dessin. La sortie de classe approche ; cet essai avec son père devait l’aider à choisir la partie du trajet qu’il aimerait lire.",
+      "ending_quote": "Le cabinet est sollicité et Samuel suit les indications reçues.",
+      "continuity_note": "L’amélioration passagère suscite l’idée de laisser le sac ; le nouvel accident conduit au contact avec le cabinet et au report. La carte reste à l’entrée pour une reprise possible.",
+      "clinical_note": "La fluctuation n’est ni verdict d’effort ni preuve de cause psychologique. Le plan de soins est maintenu, le changement transmis et la reprise dépend du confort et des indications reçues.",
+      "relatives_note": "Le parent reconnaît sa déception sans la faire réparer par l’enfant ; il garde le sac et assure lui-même le relais clinique."
+    },
+    {
+      "number": 11,
+      "focus": "La peur d’un accident fait renoncer",
+      "opening_quote": "Le point avec le cabinet a eu lieu. Samuel suit les indications reçues, et les appuis sont maintenus. À un moment compatible avec la situation de Félix, ils reprennent le petit repérage accompagné. Son père porte le sac discret ; Félix tient la carte plastifiée avec le pont en arc. Les rues du dessin ont maintenant des façades, des volets et une boulangerie qu’il avait oubliée.",
+      "ending_quote": "Félix choisit le segment du portail au petit pont.",
+      "continuity_note": "Le point avec le cabinet est explicitement effectué avant le repérage. Félix choisit portail–pont ; les adultes confirment l’organisation et Noé accepte seulement la suite de la lecture.",
+      "clinical_note": "La peur d’un accident est distinguée de l’accident et d’une phobie. Le rôle limité est une option de participation, jamais une exposition thérapeutique ou une obligation de courage.",
+      "relatives_note": "La question sur le renoncement accepte aussi l’absence d’envie. Le rôle partiel ne dissimule pas une pression à prolonger et peut être raccourci selon l’accord."
+    },
+    {
+      "number": 12,
+      "focus": "Participer sans devoir prouver sa continence",
+      "opening_quote": "Le matin de la sortie, Félix retrouve Noé près du portail. La carte plastifiée est entre eux, avec son petit pont en arc et la légende qu’ils avaient longuement discutée. Noé se souvient encore de ses deux traits parallèles. « On les gardera pour une autre carte », lui dit Félix. Madame Perrin rassemble la classe et les adultes vérifient les derniers éléments de l’organisation.",
+      "ending_quote": "Au petit pont, Félix montre l’arc sur la feuille, puis le passage devant eux.",
+      "continuity_note": "Arc, copie plastifiée et rue des Trois-Chaises sont repris ; Félix lit jusqu’au pont et passe la carte à Noé à l’endroit choisi. La nouvelle carte des arbres ouvre la suite.",
+      "clinical_note": "L’accomplissement porte sur la lecture et non sur une supposée absence d’accident. Samuel poursuit le suivi ; les adaptations ne sont pas présentées comme un traitement des fuites.",
+      "relatives_note": "Les adultes gardent déplacements, traversées et aide personnelle ; Noé maintient seulement un coin de carte. Le parent peut parler des arbres sans conclure à une guérison ni repousser la limite choisie."
+    }
+  ]
+}

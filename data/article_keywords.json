@@ -14398,6 +14398,487 @@
     "tone": "récit fictif et explications pédagogiques",
     "resources": []
   },
+  "posts/comprendre-et-maitriser-ses-emotions/felix-acces-toilettes": {
+    "character": "Félix",
+    "character_id": "felix",
+    "keywords": [
+      "Accès matériel",
+      "Demande discrète",
+      "Relais adulte"
+    ],
+    "character_keywords": [
+      "Encoprésie",
+      "constipation et débordement",
+      "accidents involontaires",
+      "intimité et honte",
+      "participation scolaire"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "f4502ecb06bde0f28749389ebeae20dc8a78932b7a44a54ce687f2064667a4dd",
+    "summary": "Lila attend Félix près du couloir, à un moment convenu avec madame Perrin. Son père lui a transmis les besoins pratiques discutés au rendez-vous. Aujourd’hui, ils ne vont pas parler devant la classe de ce qu’a dit la pédiatre. Ils vont regarder comment l’organisation peut fonctionner pour de vrai. Félix trouve cela plus facile à comprendre qu’une promesse générale : « Tu demanderas si tu as besoin. »\n\n[…]\n\n« J’ai besoin de te parler », choisit Félix. Lila répète la phrase pour vérifier qu’elle lui convient. Les adultes confirment le lieu accessible et le relais prévu ; ils l’aideront aussi s’il ne parvient pas à dire ces mots. De retour à la table, Félix ajoute les repères ordinaires sur sa carte collective. Il n’y inscrit ni son trajet personnel vers les toilettes ni une information de santé. Noé pourra venir travailler sur la légende.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Lila attend Félix près du couloir, à un moment convenu avec madame Perrin. Son père lui a transmis les besoins pratiques discutés au rendez-vous. Aujourd’hui, ils ne vont pas parler devant la classe de ce qu’a dit la pédiatre. Ils vont regarder comment l’organisation peut fonctionner pour de vrai. Félix trouve cela plus facile à comprendre qu’une promesse générale : « Tu demanderas si tu as besoin. »",
+        "start": 2,
+        "end": 405
+      },
+      {
+        "quote": "« J’ai besoin de te parler », choisit Félix. Lila répète la phrase pour vérifier qu’elle lui convient. Les adultes confirment le lieu accessible et le relais prévu ; ils l’aideront aussi s’il ne parvient pas à dire ces mots. De retour à la table, Félix ajoute les repères ordinaires sur sa carte collective. Il n’y inscrit ni son trajet personnel vers les toilettes ni une information de santé. Noé pourra venir travailler sur la légende.",
+        "start": 3974,
+        "end": 4412
+      }
+    ],
+    "canonical_concept": "L’accès aux toilettes change la situation",
+    "context": "La vérification des lieux à l’école",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour rendre l’accès prévisible"
+    ],
+    "clinical_code": "6C01",
+    "clinical_diagnosis": "Encoprésie"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/felix-accident-reproche": {
+    "character": "Félix",
+    "character_id": "felix",
+    "keywords": [
+      "Reproche implicite",
+      "Règle inadaptée",
+      "Réparation adulte"
+    ],
+    "character_keywords": [
+      "Encoprésie",
+      "constipation et débordement",
+      "accidents involontaires",
+      "intimité et honte",
+      "participation scolaire"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "5c19b7799f1d85c53e050c50cfefa9eb4d9fa62efbea5c5f1eaf8a860ff6a55b",
+    "summary": "La légende avec son petit arc est fixée près du tableau. Félix aime voir le pont aussi net ; il reconnaît la forme qu’il a défendue face à Noé. Madame Perrin a préparé une liste des lecteurs de carte pour la sortie. On peut proposer son nom, puis discuter de ce que chacun souhaite faire. Félix a écrit le sien en lettres plus petites que d’habitude, mais il l’a écrit.\n\n[…]\n\nAprès la réunion, madame Perrin montre à Félix la place restée libre. « Tu peux y réfléchir. Ta carte nous sert déjà. » Elle et Lila reprennent l’organisation avec les adultes concernés. Félix accepte de garder le plan à préparer, mais laisse son nom barré pour le moment. L’arc du pont reste visible dans la légende. Son rôle n’est pas décidé ; il ne dépendra pas d’une promesse de ne jamais demander d’arrêt.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "La légende avec son petit arc est fixée près du tableau. Félix aime voir le pont aussi net ; il reconnaît la forme qu’il a défendue face à Noé. Madame Perrin a préparé une liste des lecteurs de carte pour la sortie. On peut proposer son nom, puis discuter de ce que chacun souhaite faire. Félix a écrit le sien en lettres plus petites que d’habitude, mais il l’a écrit.",
+        "start": 2,
+        "end": 371
+      },
+      {
+        "quote": "Après la réunion, madame Perrin montre à Félix la place restée libre. « Tu peux y réfléchir. Ta carte nous sert déjà. » Elle et Lila reprennent l’organisation avec les adultes concernés. Félix accepte de garder le plan à préparer, mais laisse son nom barré pour le moment. L’arc du pont reste visible dans la légende. Son rôle n’est pas décidé ; il ne dépendra pas d’une promesse de ne jamais demander d’arrêt.",
+        "start": 3957,
+        "end": 4367
+      }
+    ],
+    "canonical_concept": "Quand l’accident devient un reproche",
+    "context": "La réunion de préparation de la marche",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour réparer une consigne inadaptée"
+    ],
+    "clinical_code": "6C01",
+    "clinical_diagnosis": "Encoprésie"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/felix-comprendre-debordement": {
+    "character": "Félix",
+    "character_id": "felix",
+    "keywords": [
+      "Débordement",
+      "Apparence des selles",
+      "Explication médicale"
+    ],
+    "character_keywords": [
+      "Encoprésie",
+      "constipation et débordement",
+      "accidents involontaires",
+      "intimité et honte",
+      "participation scolaire"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "e03fa81ebe983f1c2d5ee815fca9401db05ec6823f6baffbe52c2ce064591f98",
+    "summary": "Avant le rendez-vous organisé avec le cabinet, Samuel a remarqué une nouvelle fuite, plus molle que les précédentes. Il a pensé au mot diarrhée, puis l’a gardé sous forme de question sur son téléphone. Félix a entendu cette hésitation. Dans la salle d’attente, il tourne le bord plié de sa carte à travers la poche de son manteau. Le petit pont y est enfin dessiné, mais personne ne semble avoir besoin d’un pont aujourd’hui.\n\n[…]\n\n« Ça veut dire que je l’ai fait exprès ? » demande enfin Félix. La docteure Vignal répond que les accidents décrits chez lui sont involontaires. Samuel garde les consignes de suivi avec les documents du cabinet. Félix sort alors sa carte. Il montre le jardin du moulin, pas la rivière : « Et pour la sortie, on fait comment ? » La consultation continue ; la carte ouvre une question pratique, sans remplacer celles qui concernent la santé.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Avant le rendez-vous organisé avec le cabinet, Samuel a remarqué une nouvelle fuite, plus molle que les précédentes. Il a pensé au mot diarrhée, puis l’a gardé sous forme de question sur son téléphone. Félix a entendu cette hésitation. Dans la salle d’attente, il tourne le bord plié de sa carte à travers la poche de son manteau. Le petit pont y est enfin dessiné, mais personne ne semble avoir besoin d’un pont aujourd’hui.",
+        "start": 2,
+        "end": 427
+      },
+      {
+        "quote": "« Ça veut dire que je l’ai fait exprès ? » demande enfin Félix. La docteure Vignal répond que les accidents décrits chez lui sont involontaires. Samuel garde les consignes de suivi avec les documents du cabinet. Félix sort alors sa carte. Il montre le jardin du moulin, pas la rivière : « Et pour la sortie, on fait comment ? » La consultation continue ; la carte ouvre une question pratique, sans remplacer celles qui concernent la santé.",
+        "start": 4116,
+        "end": 4555
+      }
+    ],
+    "canonical_concept": "Comprendre le débordement",
+    "context": "Le début du rendez-vous pédiatrique",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour clarifier une fuite inhabituelle au suivi"
+    ],
+    "clinical_code": "6C01",
+    "clinical_diagnosis": "Encoprésie"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/felix-diagnostic-bilan": {
+    "character": "Félix",
+    "character_id": "felix",
+    "keywords": [
+      "Réévaluation",
+      "Changements observés",
+      "Informations utiles"
+    ],
+    "character_keywords": [
+      "Encoprésie",
+      "constipation et débordement",
+      "accidents involontaires",
+      "intimité et honte",
+      "participation scolaire"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "0a663d6c1e82fd1f941d6f284b2bdf58167db90a2809b79581bec3132f98e292",
+    "summary": "La carte est maintenant ouverte sur le bureau de la docteure Vignal. Félix a choisi de la laisser là pendant la suite du rendez-vous. Son père revient aux douleurs signalées au cabinet. « Alors, les maux de ventre, c’est forcément la même chose ? » Il aimerait pouvoir ranger toutes les questions dans une seule réponse et passer à l’organisation de la sortie.\n\n[…]\n\nLa docteure Vignal convient avec Samuel des suites de la prise en charge individualisée. Il sait quel interlocuteur contacter pour le suivi. Sur une feuille distincte, il retient les besoins pratiques dont il parlera avec Lila. Félix replie sa carte : « Celle-là, on peut la montrer. » Son père l’écoute et garde les notes de santé séparées. Les toilettes réellement accessibles à l’école restent à vérifier avec les adultes concernés.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "La carte est maintenant ouverte sur le bureau de la docteure Vignal. Félix a choisi de la laisser là pendant la suite du rendez-vous. Son père revient aux douleurs signalées au cabinet. « Alors, les maux de ventre, c’est forcément la même chose ? » Il aimerait pouvoir ranger toutes les questions dans une seule réponse et passer à l’organisation de la sortie.",
+        "start": 2,
+        "end": 362
+      },
+      {
+        "quote": "La docteure Vignal convient avec Samuel des suites de la prise en charge individualisée. Il sait quel interlocuteur contacter pour le suivi. Sur une feuille distincte, il retient les besoins pratiques dont il parlera avec Lila. Félix replie sa carte : « Celle-là, on peut la montrer. » Son père l’écoute et garde les notes de santé séparées. Les toilettes réellement accessibles à l’école restent à vérifier avec les adultes concernés.",
+        "start": 4147,
+        "end": 4582
+      }
+    ],
+    "canonical_concept": "Le diagnostic ne remplace pas le bilan",
+    "context": "La suite de la consultation",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour préparer un suivi utile"
+    ],
+    "clinical_code": "6C01",
+    "clinical_diagnosis": "Encoprésie"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/felix-douleur-retenue": {
+    "character": "Félix",
+    "character_id": "felix",
+    "keywords": [
+      "Douleur",
+      "Retenue",
+      "Échange avec la pédiatre"
+    ],
+    "character_keywords": [
+      "Encoprésie",
+      "constipation et débordement",
+      "accidents involontaires",
+      "intimité et honte",
+      "participation scolaire"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "e9a7b49b2bc3fca2fda164ae8ecb1e00357d2d0b1bbad97c755b0300b54148cc",
+    "summary": "Le plan plié en quatre ne veut plus rester plat. Samuel pose une tasse vide sur un coin ; Félix proteste, parce qu’elle cache le jardin du moulin. Ils la déplacent sur la marge. À la maison, le dessin semble plus petit que sur la table de classe. Il faut encore ajouter le pont, et son père cherche une photographie du chemin pour ne pas le mettre du mauvais côté.\n\n[…]\n\nSamuel appelle le cabinet pour signaler les douleurs et organiser un point avec la docteure Vignal. Il note les indications qui lui sont données. Quand il revient à la table, Félix a déplacé la tasse. « Là, on peut mettre le pont. » Ils l’ajoutent après cette pause, sans finir la légende. La peur n’a pas été effacée par la conversation, et personne ne transforme la soirée en preuve de réussite aux toilettes.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Le plan plié en quatre ne veut plus rester plat. Samuel pose une tasse vide sur un coin ; Félix proteste, parce qu’elle cache le jardin du moulin. Ils la déplacent sur la marge. À la maison, le dessin semble plus petit que sur la table de classe. Il faut encore ajouter le pont, et son père cherche une photographie du chemin pour ne pas le mettre du mauvais côté.",
+        "start": 2,
+        "end": 366
+      },
+      {
+        "quote": "Samuel appelle le cabinet pour signaler les douleurs et organiser un point avec la docteure Vignal. Il note les indications qui lui sont données. Quand il revient à la table, Félix a déplacé la tasse. « Là, on peut mettre le pont. » Ils l’ajoutent après cette pause, sans finir la légende. La peur n’a pas été effacée par la conversation, et personne ne transforme la soirée en preuve de réussite aux toilettes.",
+        "start": 3998,
+        "end": 4409
+      }
+    ],
+    "canonical_concept": "La douleur entretient la retenue",
+    "context": "Le plan sur la table de la maison",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour répondre à la peur d’avoir mal"
+    ],
+    "clinical_code": "6C01",
+    "clinical_diagnosis": "Encoprésie"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/felix-fatigue-parentale-relais": {
+    "character": "Félix",
+    "character_id": "felix",
+    "keywords": [
+      "Charge familiale",
+      "Réparation",
+      "Répartition adulte"
+    ],
+    "character_keywords": [
+      "Encoprésie",
+      "constipation et débordement",
+      "accidents involontaires",
+      "intimité et honte",
+      "participation scolaire"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "68562a83fb2b3dedfdd121e17a48bc57efe183fbd008438ecab95ffe070bce98",
+    "summary": "La copie plastifiée de la carte est posée sur le buffet. Félix la soulève par un coin ; elle reste droite, ce qui lui plaît beaucoup. Samuel cherche les affaires de rechange à mettre dans le sac discret prévu avec l’école. Il croyait les avoir rassemblées, puis retrouve une partie dans un autre placard. Il regarde l’heure et soupire assez fort pour que Félix cesse de faire tourner la carte.\n\n[…]\n\nSamuel échange avec Lila sur le rangement et le relais prévus. Il fait aussi part au cabinet de ce qui lui devient difficile dans le suivi. Tout n’est pas devenu léger, mais il n’a plus à deviner seul où seront les affaires. Félix garde la copie plastifiée. « Je peux la prendre au repérage ? » demande-t-il. Son père répond que oui, s’ils peuvent faire ce petit essai dans de bonnes conditions. Le projet n’a pas été sacrifié pour effacer un soupir.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "La copie plastifiée de la carte est posée sur le buffet. Félix la soulève par un coin ; elle reste droite, ce qui lui plaît beaucoup. Samuel cherche les affaires de rechange à mettre dans le sac discret prévu avec l’école. Il croyait les avoir rassemblées, puis retrouve une partie dans un autre placard. Il regarde l’heure et soupire assez fort pour que Félix cesse de faire tourner la carte.",
+        "start": 2,
+        "end": 395
+      },
+      {
+        "quote": "Samuel échange avec Lila sur le rangement et le relais prévus. Il fait aussi part au cabinet de ce qui lui devient difficile dans le suivi. Tout n’est pas devenu léger, mais il n’a plus à deviner seul où seront les affaires. Félix garde la copie plastifiée. « Je peux la prendre au repérage ? » demande-t-il. Son père répond que oui, s’ils peuvent faire ce petit essai dans de bonnes conditions. Le projet n’a pas été sacrifié pour effacer un soupir.",
+        "start": 4022,
+        "end": 4472
+      }
+    ],
+    "canonical_concept": "La fatigue parentale demande un relais",
+    "context": "La préparation du sac discret",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour demander du soutien sans charger l’enfant"
+    ],
+    "clinical_code": "6C01",
+    "clinical_diagnosis": "Encoprésie"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/felix-fluctuations-suivi": {
+    "character": "Félix",
+    "character_id": "felix",
+    "keywords": [
+      "Évolution fluctuante",
+      "Déception",
+      "Maintien des appuis"
+    ],
+    "character_keywords": [
+      "Encoprésie",
+      "constipation et débordement",
+      "accidents involontaires",
+      "intimité et honte",
+      "participation scolaire"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "121302b3ed0145c83f97e153ecdd0a9bb4b8c394db393db117ef94fb85cd5973",
+    "summary": "Plusieurs journées ont été plus faciles. Samuel n’ose pas tout à fait le dire, mais il a pensé laisser le sac de rechange à la maison pour la petite marche de repérage. Félix a déjà posé la carte plastifiée près des chaussures. Il veut vérifier si le pont paraît aussi étroit sur place que sur son dessin. La sortie de classe approche ; cet essai avec son père devait l’aider à choisir la partie du trajet qu’il aimerait lire.\n\n[…]\n\nLe cabinet est sollicité et Samuel suit les indications reçues. Ils reportent le petit repérage jusqu’à un moment compatible avec le confort de Félix et les suites du point médical. Félix pose la carte sur l’étagère de l’entrée plutôt que de la ranger au fond d’un tiroir. La sortie de classe n’est ni garantie ce soir ni annulée comme punition. Son père garde les appuis prêts ; ils feront le point avant de décider de la suite.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Plusieurs journées ont été plus faciles. Samuel n’ose pas tout à fait le dire, mais il a pensé laisser le sac de rechange à la maison pour la petite marche de repérage. Félix a déjà posé la carte plastifiée près des chaussures. Il veut vérifier si le pont paraît aussi étroit sur place que sur son dessin. La sortie de classe approche ; cet essai avec son père devait l’aider à choisir la partie du trajet qu’il aimerait lire.",
+        "start": 2,
+        "end": 428
+      },
+      {
+        "quote": "Le cabinet est sollicité et Samuel suit les indications reçues. Ils reportent le petit repérage jusqu’à un moment compatible avec le confort de Félix et les suites du point médical. Félix pose la carte sur l’étagère de l’entrée plutôt que de la ranger au fond d’un tiroir. La sortie de classe n’est ni garantie ce soir ni annulée comme punition. Son père garde les appuis prêts ; ils feront le point avant de décider de la suite.",
+        "start": 3992,
+        "end": 4421
+      }
+    ],
+    "canonical_concept": "Les fluctuations ne sont pas un verdict",
+    "context": "Avant la marche de repérage",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour traverser une reprise des difficultés"
+    ],
+    "clinical_code": "6C01",
+    "clinical_diagnosis": "Encoprésie"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/felix-fuite-percue-trop-tard": {
+    "character": "Félix",
+    "character_id": "felix",
+    "keywords": [
+      "Perception tardive",
+      "Aide discrète",
+      "Activité interrompue"
+    ],
+    "character_keywords": [
+      "Encoprésie",
+      "constipation et débordement",
+      "accidents involontaires",
+      "intimité et honte",
+      "participation scolaire"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "dc8413b820977053282f8bb1259127b92869cd4318d3e1054c5e237d0bcb0b64",
+    "summary": "Félix a posé sa règle exactement entre l’école et le jardin du moulin. Sur le dessin de madame Perrin, la route ressemble à une ficelle ; sur le sien, elle aura des angles. Il préfère garder le trajet au crayon jusqu’à ce que les adultes aient vérifié les rues. À neuf ans, il connaît déjà trois façons de dessiner une flèche, et trouve que celle du tableau prend beaucoup trop de place. Noé lui demande où sera le petit pont. Félix lève un doigt : il faut d’abord trouver le bon bord de la feuille.\n\n[…]\n\nÀ son retour, Félix retrouve la règle à côté du plan fermé. Lila s’est occupée discrètement des affaires avec lui. « Je le finirai chez moi », dit-il. Il plie la feuille en quatre, sans repasser le trajet au feutre. Noé demande seulement s’il faut garder de la place pour le pont. Félix indique un coin libre. Ce soir, il montrera ce coin à son père ; la carte peut encore changer.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Félix a posé sa règle exactement entre l’école et le jardin du moulin. Sur le dessin de madame Perrin, la route ressemble à une ficelle ; sur le sien, elle aura des angles. Il préfère garder le trajet au crayon jusqu’à ce que les adultes aient vérifié les rues. À neuf ans, il connaît déjà trois façons de dessiner une flèche, et trouve que celle du tableau prend beaucoup trop de place. Noé lui demande où sera le petit pont. Félix lève un doigt : il faut d’abord trouver le bon bord de la feuille.",
+        "start": 2,
+        "end": 501
+      },
+      {
+        "quote": "À son retour, Félix retrouve la règle à côté du plan fermé. Lila s’est occupée discrètement des affaires avec lui. « Je le finirai chez moi », dit-il. Il plie la feuille en quatre, sans repasser le trajet au feutre. Noé demande seulement s’il faut garder de la place pour le pont. Félix indique un coin libre. Ce soir, il montrera ce coin à son père ; la carte peut encore changer.",
+        "start": 3952,
+        "end": 4333
+      }
+    ],
+    "canonical_concept": "Une fuite perçue trop tard",
+    "context": "La préparation de la carte en classe",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour aider après une fuite découverte tardivement"
+    ],
+    "clinical_code": "6C01",
+    "clinical_diagnosis": "Encoprésie"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/felix-honte-parmi-autres": {
+    "character": "Félix",
+    "character_id": "felix",
+    "keywords": [
+      "Honte",
+      "Vie privée",
+      "Retrait social"
+    ],
+    "character_keywords": [
+      "Encoprésie",
+      "constipation et débordement",
+      "accidents involontaires",
+      "intimité et honte",
+      "participation scolaire"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "f0aa4228cf68d18d1ad990f3f07ffbe22487c9f5dfdbbf0aa4216bb3211ee9ad",
+    "summary": "Noé arrive avec deux feutres et une idée très arrêtée : le pont doit être représenté par deux traits parallèles. Félix préfère un arc. Il place les deux versions sur une feuille à côté de la carte, pour regarder laquelle se comprend le mieux. Les adultes ont confirmé l’organisation pratique de ses sorties de classe ; aujourd’hui, il aimerait simplement réussir cette légende avec quelqu’un qui discute vraiment les symboles.\n\n[…]\n\nFélix finit par tirer le plan hors du cahier. « Tu peux rester », dit-il à Noé. Ils comparent à nouveau leurs essais. Noé défend les deux traits, puis admet que l’arc se voit mieux sur cette petite carte. Ils le gardent. Félix n’a pas raconté son absence, et Noé n’en fait pas le prix de leur accord. La légende est prête pour la réunion de préparation, même si Félix regarde encore parfois derrière lui.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Noé arrive avec deux feutres et une idée très arrêtée : le pont doit être représenté par deux traits parallèles. Félix préfère un arc. Il place les deux versions sur une feuille à côté de la carte, pour regarder laquelle se comprend le mieux. Les adultes ont confirmé l’organisation pratique de ses sorties de classe ; aujourd’hui, il aimerait simplement réussir cette légende avec quelqu’un qui discute vraiment les symboles.",
+        "start": 2,
+        "end": 428
+      },
+      {
+        "quote": "Félix finit par tirer le plan hors du cahier. « Tu peux rester », dit-il à Noé. Ils comparent à nouveau leurs essais. Noé défend les deux traits, puis admet que l’arc se voit mieux sur cette petite carte. Ils le gardent. Félix n’a pas raconté son absence, et Noé n’en fait pas le prix de leur accord. La légende est prête pour la réunion de préparation, même si Félix regarde encore parfois derrière lui.",
+        "start": 3921,
+        "end": 4325
+      }
+    ],
+    "canonical_concept": "La honte réduit la place parmi les autres",
+    "context": "La légende dessinée avec Noé",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour protéger la place dans le groupe"
+    ],
+    "clinical_code": "6C01",
+    "clinical_diagnosis": "Encoprésie"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/felix-participer-sans-preuve": {
+    "character": "Félix",
+    "character_id": "felix",
+    "keywords": [
+      "Participation choisie",
+      "Relais",
+      "Suivi poursuivi"
+    ],
+    "character_keywords": [
+      "Encoprésie",
+      "constipation et débordement",
+      "accidents involontaires",
+      "intimité et honte",
+      "participation scolaire"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "39e8551026bea2b05f57660b7e0aaeb3e4724883b025e191b45cc218f5106069",
+    "summary": "Le matin de la sortie, Félix retrouve Noé près du portail. La carte plastifiée est entre eux, avec son petit pont en arc et la légende qu’ils avaient longuement discutée. Noé se souvient encore de ses deux traits parallèles. « On les gardera pour une autre carte », lui dit Félix. Madame Perrin rassemble la classe et les adultes vérifient les derniers éléments de l’organisation.\n\n[…]\n\nAu petit pont, Félix montre l’arc sur la feuille, puis le passage devant eux. « C’est le même, mais en plus grand. » Les adultes conduisent le groupe en sécurité. Il tend la carte à Noé au point choisi ; son camarade cherche le repère suivant. Félix n’a pas besoin de prolonger son rôle pour que celui-ci compte. Au retour, il propose à Samuel de dessiner une carte des arbres du jardin. Son père écoute cette idée et poursuit les échanges avec la docteure Vignal. La journée ne devient pas un certificat sur les accidents à venir.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Le matin de la sortie, Félix retrouve Noé près du portail. La carte plastifiée est entre eux, avec son petit pont en arc et la légende qu’ils avaient longuement discutée. Noé se souvient encore de ses deux traits parallèles. « On les gardera pour une autre carte », lui dit Félix. Madame Perrin rassemble la classe et les adultes vérifient les derniers éléments de l’organisation.",
+        "start": 2,
+        "end": 382
+      },
+      {
+        "quote": "Au petit pont, Félix montre l’arc sur la feuille, puis le passage devant eux. « C’est le même, mais en plus grand. » Les adultes conduisent le groupe en sécurité. Il tend la carte à Noé au point choisi ; son camarade cherche le repère suivant. Félix n’a pas besoin de prolonger son rôle pour que celui-ci compte. Au retour, il propose à Samuel de dessiner une carte des arbres du jardin. Son père écoute cette idée et poursuit les échanges avec la docteure Vignal. La journée ne devient pas un certificat sur les accidents à venir.",
+        "start": 4017,
+        "end": 4548
+      }
+    ],
+    "canonical_concept": "Participer sans devoir prouver sa continence",
+    "context": "La sortie de classe au jardin du moulin",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour respecter la participation jusqu’au bout"
+    ],
+    "clinical_code": "6C01",
+    "clinical_diagnosis": "Encoprésie"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/felix-peur-accident-renoncer": {
+    "character": "Félix",
+    "character_id": "felix",
+    "keywords": [
+      "Anticipation",
+      "Choix partiel",
+      "Interruption possible"
+    ],
+    "character_keywords": [
+      "Encoprésie",
+      "constipation et débordement",
+      "accidents involontaires",
+      "intimité et honte",
+      "participation scolaire"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "7e69c34ca232dbf0ad21447a5487cc0ba8336cd525eb7834b3912989da83654b",
+    "summary": "Le point avec le cabinet a eu lieu. Samuel suit les indications reçues, et les appuis sont maintenus. À un moment compatible avec la situation de Félix, ils reprennent le petit repérage accompagné. Son père porte le sac discret ; Félix tient la carte plastifiée avec le pont en arc. Les rues du dessin ont maintenant des façades, des volets et une boulangerie qu’il avait oubliée.\n\n[…]\n\nFélix choisit le segment du portail au petit pont. Après le repérage, Samuel en parle avec l’équipe ; les adultes vérifient et confirment l’itinéraire, l’accès prévu et les relais. Noé accepte de lire la suite, sans recevoir de mission de surveillance. Félix pourra passer la carte plus tôt. Il écrit seulement une petite flèche sur son exemplaire pour le début du trajet. Ce choix lui appartient encore si, le jour venu, il préfère le raccourcir.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Le point avec le cabinet a eu lieu. Samuel suit les indications reçues, et les appuis sont maintenus. À un moment compatible avec la situation de Félix, ils reprennent le petit repérage accompagné. Son père porte le sac discret ; Félix tient la carte plastifiée avec le pont en arc. Les rues du dessin ont maintenant des façades, des volets et une boulangerie qu’il avait oubliée.",
+        "start": 2,
+        "end": 382
+      },
+      {
+        "quote": "Félix choisit le segment du portail au petit pont. Après le repérage, Samuel en parle avec l’équipe ; les adultes vérifient et confirment l’itinéraire, l’accès prévu et les relais. Noé accepte de lire la suite, sans recevoir de mission de surveillance. Félix pourra passer la carte plus tôt. Il écrit seulement une petite flèche sur son exemplaire pour le début du trajet. Ce choix lui appartient encore si, le jour venu, il préfère le raccourcir.",
+        "start": 3986,
+        "end": 4433
+      }
+    ],
+    "canonical_concept": "La peur d’un accident fait renoncer",
+    "context": "Le repérage accompagné après le point de suivi",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour rendre un choix de participation possible"
+    ],
+    "clinical_code": "6C01",
+    "clinical_diagnosis": "Encoprésie"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/felix-soins-sans-epreuve": {
+    "character": "Félix",
+    "character_id": "felix",
+    "keywords": [
+      "Continuité du soin",
+      "Notes de suivi",
+      "Absence de punition"
+    ],
+    "character_keywords": [
+      "Encoprésie",
+      "constipation et débordement",
+      "accidents involontaires",
+      "intimité et honte",
+      "participation scolaire"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "296b417f09397ffe63fddf40ca476ec3bb979a25dcbbe894a6bac3f77e584a72",
+    "summary": "Samuel a posé le carnet demandé pour le suivi près du plan de la sortie. Il veut préparer les informations utiles à la docteure Vignal avant de les oublier. Félix reconnaît certaines cases, mais ne sait plus exactement ce que chacune décide. Depuis la réunion de classe, son prénom n’est toujours pas revenu sur la liste des lecteurs. Il regarde le carnet, puis le pont en arc qu’il a dessiné avec Noé.\n\n[…]\n\nLe carnet rejoint les documents du cabinet. Félix vérifie : « Même si ça arrive encore ? » Samuel confirme que le choix du rôle ne se gagne pas ainsi. Ils préparent une copie de la carte et la plastifient. Le petit arc ne disparaît plus sous les plis quand Félix la tient. Les routines et le suivi continuent selon la pédiatre ; la carte, elle, est prête pour un essai de marche, sans nouvelle condition à remplir.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Samuel a posé le carnet demandé pour le suivi près du plan de la sortie. Il veut préparer les informations utiles à la docteure Vignal avant de les oublier. Félix reconnaît certaines cases, mais ne sait plus exactement ce que chacune décide. Depuis la réunion de classe, son prénom n’est toujours pas revenu sur la liste des lecteurs. Il regarde le carnet, puis le pont en arc qu’il a dessiné avec Noé.",
+        "start": 2,
+        "end": 404
+      },
+      {
+        "quote": "Le carnet rejoint les documents du cabinet. Félix vérifie : « Même si ça arrive encore ? » Samuel confirme que le choix du rôle ne se gagne pas ainsi. Ils préparent une copie de la carte et la plastifient. Le petit arc ne disparaît plus sous les plis quand Félix la tient. Les routines et le suivi continuent selon la pédiatre ; la carte, elle, est prête pour un essai de marche, sans nouvelle condition à remplir.",
+        "start": 3966,
+        "end": 4380
+      }
+    ],
+    "canonical_concept": "Des soins réguliers sans épreuve de réussite",
+    "context": "Le carnet de suivi à la maison",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "Comment un outil de suivi peut-il devenir un score ?",
+      "3 techniques pour garder un suivi sans épreuve de réussite"
+    ],
+    "clinical_code": "6C01",
+    "clinical_diagnosis": "Encoprésie"
+  },
   "posts/comprendre-et-maitriser-ses-emotions/fenetre-de-tolerance-dan-siegel-en-famille": {
     "character": "Isabelle",
     "character_id": "isabelle",
@@ -37954,6 +38435,486 @@
     ],
     "clinical_code": "6A72",
     "clinical_diagnosis": "Dysthymie"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/titouan-accident-aide-discrete": {
+    "character": "Titouan",
+    "character_id": "titouan",
+    "keywords": [
+      "Aide prévue",
+      "Intimité",
+      "Choix après l’accident"
+    ],
+    "character_keywords": [
+      "Énurésie",
+      "accidents nocturnes",
+      "honte et confidentialité",
+      "suivi médical",
+      "participation aux nuits collectives"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "15601b86f3b68df888f22a1fcd34133ea96449898e0004c053081bc1ac14a7f4",
+    "summary": "Titouan a lu le passage du gardien en tenant sa lampe près de la page. Au moment où le personnage pose la main sur la pierre, il a ralenti un peu. Noé voulait déjà donner son explication, mais Mme Dumas a gardé la discussion pour après la dernière phrase. Ils ont parlé de la passerelle et de la fenêtre. Le sac bleu était à la place prévue, accessible, et Salomé avait confirmé avant de partir que le téléphone resterait disponible.\n\n[…]\n\nDans l’espace privé, Titouan reçoit l’aide prévue. Mme Dumas s’occupe de l’organisation du linge et du couchage ; il remet ses affaires propres avec l’intimité nécessaire. Elle lui propose de contacter Salomé pour rentrer s’il le souhaite. Après un moment, il choisit de rester. Le parent demeure joignable selon leur accord, et la bibliothécaire garde sa présence disponible. Titouan retrouve sa place sans annonce au groupe. Il range le marque-page qui dépassait de la couverture et pense à la question de Noé sur la passerelle.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Titouan a lu le passage du gardien en tenant sa lampe près de la page. Au moment où le personnage pose la main sur la pierre, il a ralenti un peu. Noé voulait déjà donner son explication, mais Mme Dumas a gardé la discussion pour après la dernière phrase. Ils ont parlé de la passerelle et de la fenêtre. Le sac bleu était à la place prévue, accessible, et Salomé avait confirmé avant de partir que le téléphone resterait disponible.",
+        "start": 2,
+        "end": 435
+      },
+      {
+        "quote": "Dans l’espace privé, Titouan reçoit l’aide prévue. Mme Dumas s’occupe de l’organisation du linge et du couchage ; il remet ses affaires propres avec l’intimité nécessaire. Elle lui propose de contacter Salomé pour rentrer s’il le souhaite. Après un moment, il choisit de rester. Le parent demeure joignable selon leur accord, et la bibliothécaire garde sa présence disponible. Titouan retrouve sa place sans annonce au groupe. Il range le marque-page qui dépassait de la couverture et pense à la question de Noé sur la passerelle.",
+        "start": 4371,
+        "end": 4901
+      }
+    ],
+    "canonical_concept": "Répondre à un accident avec discrétion",
+    "context": "La première nuit à la médiathèque",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour mettre en œuvre une aide respectueuse"
+    ],
+    "clinical_code": "6C00",
+    "clinical_diagnosis": "Énurésie"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/titouan-accident-sans-faute": {
+    "character": "Titouan",
+    "character_id": "titouan",
+    "keywords": [
+      "Involontarité",
+      "Honte anticipée",
+      "Choix de participer"
+    ],
+    "character_keywords": [
+      "Énurésie",
+      "accidents nocturnes",
+      "honte et confidentialité",
+      "suivi médical",
+      "participation aux nuits collectives"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "cd52dfbea3d7f91af6fbd66f5ce7a90031f7e1d882c95499fa7fe39e5b0803d6",
+    "summary": "Le formulaire dépasse de trois centimètres sous Le phare sans escalier. Titouan pousse le roman jusqu’au bord du bureau pour cacher la dernière ligne : première nuit à la médiathèque. La veille, Noé avait dit qu’ils pourraient lire le passage du gardien dans le noir, avec seulement une lampe. Titouan avait répondu que ce serait encore mieux avant de découvrir où se trouve la porte. Maintenant, il ne veut plus regarder la feuille.\n\n[…]\n\nSalomé emporte le linge. Titouan tire la feuille de dessous le roman et la glisse à l’intérieur, bien à plat cette fois. « Le passage du gardien, je voulais le lire. » Il ne dit pas encore oui à la nuit. Ils conviennent d’en reparler après le prochain rendez-vous prévu. Au dîner, il raconte de nouveau pourquoi un phare sans escalier doit forcément avoir une autre porte.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Le formulaire dépasse de trois centimètres sous Le phare sans escalier. Titouan pousse le roman jusqu’au bord du bureau pour cacher la dernière ligne : première nuit à la médiathèque. La veille, Noé avait dit qu’ils pourraient lire le passage du gardien dans le noir, avec seulement une lampe. Titouan avait répondu que ce serait encore mieux avant de découvrir où se trouve la porte. Maintenant, il ne veut plus regarder la feuille.",
+        "start": 2,
+        "end": 435
+      },
+      {
+        "quote": "Salomé emporte le linge. Titouan tire la feuille de dessous le roman et la glisse à l’intérieur, bien à plat cette fois. « Le passage du gardien, je voulais le lire. » Il ne dit pas encore oui à la nuit. Ils conviennent d’en reparler après le prochain rendez-vous prévu. Au dîner, il raconte de nouveau pourquoi un phare sans escalier doit forcément avoir une autre porte.",
+        "start": 4075,
+        "end": 4447
+      }
+    ],
+    "canonical_concept": "Un accident sans faute volontaire",
+    "context": "Le matin suivant l’annonce de la nuit à la médiathèque",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour accueillir l’accident sans reproche"
+    ],
+    "clinical_code": "6C00",
+    "clinical_diagnosis": "Énurésie"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/titouan-bilan-journee": {
+    "character": "Titouan",
+    "character_id": "titouan",
+    "keywords": [
+      "Évaluation globale",
+      "Parole de l’enfant",
+      "Accès aux toilettes"
+    ],
+    "character_keywords": [
+      "Énurésie",
+      "accidents nocturnes",
+      "honte et confidentialité",
+      "suivi médical",
+      "participation aux nuits collectives"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "815d7ed309531ee4fb03575024106ca90f4742a606837d828c877f3b16e48b5f",
+    "summary": "Titouan tient le marque-page entre ses doigts dans la salle d’attente. Il a laissé le roman à la maison, avec le formulaire toujours rangé dans sa couverture. Salomé a la question notée la veille. Quand ils entrent dans le cabinet, le médecin demande d’abord ce qu’ils voudraient reprendre aujourd’hui. Titouan regarde le papier, puis dit lui-même qu’il aimerait se réveiller avant que le lit soit mouillé.\n\n[…]\n\n« Je veux bien demander, mais pas au milieu de tout le monde », précise Titouan. Salomé note que l’accès aux toilettes fera partie de la préparation avec Mme Dumas. Le médecin confirme l’intérêt de rendre les besoins ordinaires accessibles, puis poursuit l’entretien : il souhaite également parler du transit. Titouan retourne son marque-page. Il croyait avoir fini les questions qui n’avaient pas l’air de concerner la nuit.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Titouan tient le marque-page entre ses doigts dans la salle d’attente. Il a laissé le roman à la maison, avec le formulaire toujours rangé dans sa couverture. Salomé a la question notée la veille. Quand ils entrent dans le cabinet, le médecin demande d’abord ce qu’ils voudraient reprendre aujourd’hui. Titouan regarde le papier, puis dit lui-même qu’il aimerait se réveiller avant que le lit soit mouillé.",
+        "start": 2,
+        "end": 408
+      },
+      {
+        "quote": "« Je veux bien demander, mais pas au milieu de tout le monde », précise Titouan. Salomé note que l’accès aux toilettes fera partie de la préparation avec Mme Dumas. Le médecin confirme l’intérêt de rendre les besoins ordinaires accessibles, puis poursuit l’entretien : il souhaite également parler du transit. Titouan retourne son marque-page. Il croyait avoir fini les questions qui n’avaient pas l’air de concerner la nuit.",
+        "start": 4212,
+        "end": 4637
+      }
+    ],
+    "canonical_concept": "Le bilan regarde aussi la journée",
+    "context": "Le début du rendez-vous médical prévu",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour raconter la journée sans se donner une étiquette"
+    ],
+    "clinical_code": "6C00",
+    "clinical_diagnosis": "Énurésie"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/titouan-confidentialite-participation": {
+    "character": "Titouan",
+    "character_id": "titouan",
+    "keywords": [
+      "Informations utiles",
+      "Adulte choisi",
+      "Aide discrète"
+    ],
+    "character_keywords": [
+      "Énurésie",
+      "accidents nocturnes",
+      "honte et confidentialité",
+      "suivi médical",
+      "participation aux nuits collectives"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "5ed93c28d9612aa79269a1c1b0cb019adf605c98c944a9a8d1f90b6e302e5e78",
+    "summary": "Noé tarde à fermer son manteau. Il veut encore montrer à Titouan un détail de la carte : une passerelle si fine qu’on la prendrait pour une ligne du dessin. Titouan regarde la porte, puis le sac bleu posé près de Salomé. Il aimerait discuter de la passerelle, mais il voudrait aussi que le rendez-vous avec Mme Dumas commence sans aucun camarade à côté.\n\n[…]\n\n« J’ai besoin de mon sac », choisit Titouan. Mme Dumas répond qu’elle l’accompagnera vers l’espace prévu et l’aidera selon ses besoins. Salomé confirme que le téléphone restera accessible et qu’un retour pourra être organisé. Titouan demande encore si Noé doit savoir. La bibliothécaire répond que son camarade n’a aucun rôle dans cette aide. Il confirme alors qu’il veut essayer la nuit. Le sac bleu repart à la maison, avec un plan qui a désormais des personnes et des lieux.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Noé tarde à fermer son manteau. Il veut encore montrer à Titouan un détail de la carte : une passerelle si fine qu’on la prendrait pour une ligne du dessin. Titouan regarde la porte, puis le sac bleu posé près de Salomé. Il aimerait discuter de la passerelle, mais il voudrait aussi que le rendez-vous avec Mme Dumas commence sans aucun camarade à côté.",
+        "start": 2,
+        "end": 355
+      },
+      {
+        "quote": "« J’ai besoin de mon sac », choisit Titouan. Mme Dumas répond qu’elle l’accompagnera vers l’espace prévu et l’aidera selon ses besoins. Salomé confirme que le téléphone restera accessible et qu’un retour pourra être organisé. Titouan demande encore si Noé doit savoir. La bibliothécaire répond que son camarade n’a aucun rôle dans cette aide. Il confirme alors qu’il veut essayer la nuit. Le sac bleu repart à la maison, avec un plan qui a désormais des personnes et des lieux.",
+        "start": 4253,
+        "end": 4730
+      }
+    ],
+    "canonical_concept": "La confidentialité protège la participation",
+    "context": "L’échange après le départ des lecteurs",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour organiser une aide discrète et réelle"
+    ],
+    "clinical_code": "6C00",
+    "clinical_diagnosis": "Énurésie"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/titouan-eau-toilettes-accessibles": {
+    "character": "Titouan",
+    "character_id": "titouan",
+    "keywords": [
+      "Hydratation",
+      "Besoins ordinaires",
+      "Accès discret"
+    ],
+    "character_keywords": [
+      "Énurésie",
+      "accidents nocturnes",
+      "honte et confidentialité",
+      "suivi médical",
+      "participation aux nuits collectives"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "71d15dd21e1186b33a1ea07e2a8c361b5eb59d13359e171c1338b15df52185b0",
+    "summary": "Le roman est dans le sac, le formulaire dans sa couverture et le marque-page à la bonne page. Titouan vérifie les trois avant de mettre ses chaussures. La gourde, elle, reste debout près de la porte. Salomé la prend pour la lui tendre, mais il secoue la tête. « Pas besoin aujourd’hui. » Il n’a pas oublié de la remplir ; il l’a posée là exprès.\n\n[…]\n\nAvant l’arrivée du groupe, Mme Dumas montre le trajet et indique à Titouan qu’il peut demander à interrompre sa lecture. Il ne raconte pas le rendez-vous médical. Quand Noé entre, la gourde est posée près de la carte du roman. Leur discussion reprend sur une fenêtre du phare qui pourrait cacher une porte. Le soir, Titouan retrouve le relevé privé proposé au suivi et se demande encore si une page utile au médecin doit forcément montrer des réussites.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Le roman est dans le sac, le formulaire dans sa couverture et le marque-page à la bonne page. Titouan vérifie les trois avant de mettre ses chaussures. La gourde, elle, reste debout près de la porte. Salomé la prend pour la lui tendre, mais il secoue la tête. « Pas besoin aujourd’hui. » Il n’a pas oublié de la remplir ; il l’a posée là exprès.",
+        "start": 2,
+        "end": 347
+      },
+      {
+        "quote": "Avant l’arrivée du groupe, Mme Dumas montre le trajet et indique à Titouan qu’il peut demander à interrompre sa lecture. Il ne raconte pas le rendez-vous médical. Quand Noé entre, la gourde est posée près de la carte du roman. Leur discussion reprend sur une fenêtre du phare qui pourrait cacher une porte. Le soir, Titouan retrouve le relevé privé proposé au suivi et se demande encore si une page utile au médecin doit forcément montrer des réussites.",
+        "start": 4321,
+        "end": 4774
+      }
+    ],
+    "canonical_concept": "Boire et accéder aux toilettes",
+    "context": "Le retour au club après la consultation",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour rendre l’eau et les toilettes accessibles"
+    ],
+    "clinical_code": "6C00",
+    "clinical_diagnosis": "Énurésie"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/titouan-eveil-ne-se-commande-pas": {
+    "character": "Titouan",
+    "character_id": "titouan",
+    "keywords": [
+      "Éveil nocturne",
+      "Surveillance de soi",
+      "Question médicale"
+    ],
+    "character_keywords": [
+      "Énurésie",
+      "accidents nocturnes",
+      "honte et confidentialité",
+      "suivi médical",
+      "participation aux nuits collectives"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "77b54ade4b461503d1d6130997cc1388a6b1bdc051822fc130ca3baffee0c383",
+    "summary": "La même ligne revient depuis plusieurs minutes : le gardien pose sa main sur la pierre. Titouan connaît déjà la suite, mais il maintient son roman ouvert. La lampe éclaire le marque-page qu’il a dessiné, un phare dont la porte est cachée par une vague. Le formulaire de la médiathèque reste à l’intérieur de la couverture. Demain, il verra le médecin avec Salomé ; ce soir, il croit tenir une solution qui ne demande à personne de savoir.\n\n[…]\n\nTitouan pose le marque-page à l’endroit où le gardien cherche une porte. « Tu demanderas pourquoi je ne me réveille pas avant ? » Salomé lui propose de poser lui-même la question ou de la lire ensemble. Le parent la note sans ajouter de réponse. Titouan ferme le livre et éteint sa lampe. Le rendez-vous du lendemain portera sur sa santé ; il n’a pas besoin de passer cette nuit à en produire la solution.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "La même ligne revient depuis plusieurs minutes : le gardien pose sa main sur la pierre. Titouan connaît déjà la suite, mais il maintient son roman ouvert. La lampe éclaire le marque-page qu’il a dessiné, un phare dont la porte est cachée par une vague. Le formulaire de la médiathèque reste à l’intérieur de la couverture. Demain, il verra le médecin avec Salomé ; ce soir, il croit tenir une solution qui ne demande à personne de savoir.",
+        "start": 2,
+        "end": 440
+      },
+      {
+        "quote": "Titouan pose le marque-page à l’endroit où le gardien cherche une porte. « Tu demanderas pourquoi je ne me réveille pas avant ? » Salomé lui propose de poser lui-même la question ou de la lire ensemble. Le parent la note sans ajouter de réponse. Titouan ferme le livre et éteint sa lampe. Le rendez-vous du lendemain portera sur sa santé ; il n’a pas besoin de passer cette nuit à en produire la solution.",
+        "start": 4041,
+        "end": 4446
+      }
+    ],
+    "canonical_concept": "L’éveil nocturne ne se commande pas",
+    "context": "Le coucher précédant le rendez-vous de suivi",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour rendre la nuit au sommeil"
+    ],
+    "clinical_code": "6C00",
+    "clinical_diagnosis": "Énurésie"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/titouan-fatigue-familiale": {
+    "character": "Titouan",
+    "character_id": "titouan",
+    "keywords": [
+      "Charge pratique",
+      "Culpabilité",
+      "Contributions choisies"
+    ],
+    "character_keywords": [
+      "Énurésie",
+      "accidents nocturnes",
+      "honte et confidentialité",
+      "suivi médical",
+      "participation aux nuits collectives"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "2974d2c2276fd705a63c0977ed098aac9f2e28c05d0fd8c050866b93585b5c7d",
+    "summary": "Le sac bleu est ouvert sur le canapé. Titouan y a déjà posé son roman, puis l’a ressorti pour vérifier le marque-page. Salomé revient de l’endroit où sèche le linge avec des affaires propres sur le bras. La matinée a passé entre une lessive après une nuit mouillée et plusieurs tâches ordinaires de la maison. Il reste encore à préparer le sac, à appeler la médiathèque et à penser au repas.\n\n[…]\n\nSalomé prépare les affaires de rechange et leur rangement. Titouan remet Le phare sans escalier dans le sac, avec le marque-page déjà prêt. Il choisit de laisser son carnet du club à côté pour le prendre le jour venu. Le parent contacte la médiathèque ; Mme Dumas accepte un échange discret après la prochaine séance pour vérifier ce qui est possible pendant la nuit. Le sac contient maintenant davantage qu’une inquiétude, même s’il reste à organiser l’aide sur place.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Le sac bleu est ouvert sur le canapé. Titouan y a déjà posé son roman, puis l’a ressorti pour vérifier le marque-page. Salomé revient de l’endroit où sèche le linge avec des affaires propres sur le bras. La matinée a passé entre une lessive après une nuit mouillée et plusieurs tâches ordinaires de la maison. Il reste encore à préparer le sac, à appeler la médiathèque et à penser au repas.",
+        "start": 2,
+        "end": 393
+      },
+      {
+        "quote": "Salomé prépare les affaires de rechange et leur rangement. Titouan remet Le phare sans escalier dans le sac, avec le marque-page déjà prêt. Il choisit de laisser son carnet du club à côté pour le prendre le jour venu. Le parent contacte la médiathèque ; Mme Dumas accepte un échange discret après la prochaine séance pour vérifier ce qui est possible pendant la nuit. Le sac contient maintenant davantage qu’une inquiétude, même s’il reste à organiser l’aide sur place.",
+        "start": 4174,
+        "end": 4643
+      }
+    ],
+    "canonical_concept": "La fatigue familiale sans reproche",
+    "context": "La préparation du sac bleu à la maison",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour parler de la charge sans rendre l’enfant responsable"
+    ],
+    "clinical_code": "6C00",
+    "clinical_diagnosis": "Énurésie"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/titouan-observer-sans-note": {
+    "character": "Titouan",
+    "character_id": "titouan",
+    "keywords": [
+      "Observation privée",
+      "Absence de jugement",
+      "Suivi utile"
+    ],
+    "character_keywords": [
+      "Énurésie",
+      "accidents nocturnes",
+      "honte et confidentialité",
+      "suivi médical",
+      "participation aux nuits collectives"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "bb4434019d6ffad5708cc55dd53c826040ec994d13b3373ba7c95cb717ddd017",
+    "summary": "Titouan a dessiné un phare en haut du relevé. Il pensait que cela rendrait la feuille moins sérieuse, mais les lignes du dessous ressemblent maintenant à celles d’un bulletin. Le médecin leur a expliqué ce qui serait utile pour le prochain point de suivi. Salomé a gardé cette feuille dans une chemise séparée du carnet du club. Ce soir, Titouan l’a sortie sur le bureau, à côté de son crayon bleu.\n\n[…]\n\nTitouan renseigne ce qui avait été convenu pour la nuit. Salomé n’ajoute ni étoile ni commentaire. « Et ça sert à choisir quoi pour la suite ? » demande-t-il. Le parent note cette question pour le point de suivi. Titouan laisse le phare en haut de la page, puis range le relevé dans sa chemise. Son carnet du club reste sur le bureau ; il veut encore expliquer pourquoi la fenêtre dessinée ne peut pas être la porte.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Titouan a dessiné un phare en haut du relevé. Il pensait que cela rendrait la feuille moins sérieuse, mais les lignes du dessous ressemblent maintenant à celles d’un bulletin. Le médecin leur a expliqué ce qui serait utile pour le prochain point de suivi. Salomé a gardé cette feuille dans une chemise séparée du carnet du club. Ce soir, Titouan l’a sortie sur le bureau, à côté de son crayon bleu.",
+        "start": 2,
+        "end": 400
+      },
+      {
+        "quote": "Titouan renseigne ce qui avait été convenu pour la nuit. Salomé n’ajoute ni étoile ni commentaire. « Et ça sert à choisir quoi pour la suite ? » demande-t-il. Le parent note cette question pour le point de suivi. Titouan laisse le phare en haut de la page, puis range le relevé dans sa chemise. Son carnet du club reste sur le bureau ; il veut encore expliquer pourquoi la fenêtre dessinée ne peut pas être la porte.",
+        "start": 4235,
+        "end": 4651
+      }
+    ],
+    "canonical_concept": "Observer sans noter sa valeur",
+    "context": "La préparation du relevé destiné au médecin",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour conserver des observations sans jugement"
+    ],
+    "clinical_code": "6C00",
+    "clinical_diagnosis": "Énurésie"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/titouan-participer-sans-guerison": {
+    "character": "Titouan",
+    "character_id": "titouan",
+    "keywords": [
+      "Projet accompli",
+      "Bilan distinct du soin",
+      "Participation libre"
+    ],
+    "character_keywords": [
+      "Énurésie",
+      "accidents nocturnes",
+      "honte et confidentialité",
+      "suivi médical",
+      "participation aux nuits collectives"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "1a45b5fb61f14cd6d67bbb36f091fad68863089c8aa54d51984aab4ef611cce8",
+    "summary": "Noé pose son bol à côté du roman et affirme qu’il a trouvé : la porte du phare est sous la passerelle. Titouan secoue la tête avant même d’avoir fini sa tartine. « Alors pourquoi le gardien cherche sur le mur ? Il connaît forcément sa passerelle. » Leur désaccord reprend presque à l’endroit où la lecture s’est arrêtée. Autour d’eux, les autres enfants rangent doucement leurs affaires entre deux commentaires sur les histoires de la veille.\n\n[…]\n\nÀ l’écart, Titouan dit que la phrase du sac l’a aidé, mais qu’il a hésité avant de la prononcer. Salomé et Mme Dumas retiennent ce point pour une éventuelle autre sortie. Le sac sera réorganisé à la maison, et le rendez-vous de suivi reste prévu. Avant de partir, Titouan demande s’il existe un autre roman avec un phare dont la carte ne donne pas toutes les réponses. Il veut revenir au club pour le proposer à Noé. Il a préparé son sac, lu son passage et vécu cette première nuit avec une aide réelle. Personne n’annonce que son énurésie a disparu.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Noé pose son bol à côté du roman et affirme qu’il a trouvé : la porte du phare est sous la passerelle. Titouan secoue la tête avant même d’avoir fini sa tartine. « Alors pourquoi le gardien cherche sur le mur ? Il connaît forcément sa passerelle. » Leur désaccord reprend presque à l’endroit où la lecture s’est arrêtée. Autour d’eux, les autres enfants rangent doucement leurs affaires entre deux commentaires sur les histoires de la veille.",
+        "start": 2,
+        "end": 444
+      },
+      {
+        "quote": "À l’écart, Titouan dit que la phrase du sac l’a aidé, mais qu’il a hésité avant de la prononcer. Salomé et Mme Dumas retiennent ce point pour une éventuelle autre sortie. Le sac sera réorganisé à la maison, et le rendez-vous de suivi reste prévu. Avant de partir, Titouan demande s’il existe un autre roman avec un phare dont la carte ne donne pas toutes les réponses. Il veut revenir au club pour le proposer à Noé. Il a préparé son sac, lu son passage et vécu cette première nuit avec une aide réelle. Personne n’annonce que son énurésie a disparu.",
+        "start": 4100,
+        "end": 4650
+      }
+    ],
+    "canonical_concept": "Participer sans attendre la guérison",
+    "context": "Le petit déjeuner et le retour de la médiathèque",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour poursuivre le projet tout en gardant les soins"
+    ],
+    "clinical_code": "6C00",
+    "clinical_diagnosis": "Énurésie"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/titouan-soin-projet-nuit": {
+    "character": "Titouan",
+    "character_id": "titouan",
+    "keywords": [
+      "Choix de soin",
+      "Contraintes familiales",
+      "Objectif personnel"
+    ],
+    "character_keywords": [
+      "Énurésie",
+      "accidents nocturnes",
+      "honte et confidentialité",
+      "suivi médical",
+      "participation aux nuits collectives"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "b666fa6fc3851f3456f4127feb7968898ed8205f8d5c68341cbedc3870d26ebb",
+    "summary": "Le phare dessiné dépasse de la chemise que Salomé pose sur le bureau du médecin. Depuis leur dernier entretien, Titouan a repris le club, gardé sa gourde et appris le trajet des toilettes avec Mme Dumas. Il a aussi renseigné les observations prévues. Maintenant, le formulaire de la nuit attend une décision, et le roman contient toujours le passage qu’il voudrait lire.\n\n[…]\n\nIls conviennent de poursuivre le suivi et de préparer la nuit sans attendre une garantie. Aucune nouvelle prescription n’est annoncée. Salomé range le relevé et le prochain rendez-vous ; Titouan garde sa question sur le sac pour le retour. « Le bleu, il est assez grand pour le livre ? » demande-t-il. Le roman y entrera. Il faudra maintenant prévoir les affaires utiles et un plan avec la bibliothécaire qu’il a choisie.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Le phare dessiné dépasse de la chemise que Salomé pose sur le bureau du médecin. Depuis leur dernier entretien, Titouan a repris le club, gardé sa gourde et appris le trajet des toilettes avec Mme Dumas. Il a aussi renseigné les observations prévues. Maintenant, le formulaire de la nuit attend une décision, et le roman contient toujours le passage qu’il voudrait lire.",
+        "start": 2,
+        "end": 372
+      },
+      {
+        "quote": "Ils conviennent de poursuivre le suivi et de préparer la nuit sans attendre une garantie. Aucune nouvelle prescription n’est annoncée. Salomé range le relevé et le prochain rendez-vous ; Titouan garde sa question sur le sac pour le retour. « Le bleu, il est assez grand pour le livre ? » demande-t-il. Le roman y entrera. Il faudra maintenant prévoir les affaires utiles et un plan avec la bibliothécaire qu’il a choisie.",
+        "start": 4303,
+        "end": 4724
+      }
+    ],
+    "canonical_concept": "Choisir un soin adapté au projet",
+    "context": "Un point de suivi ultérieur avant la nuit du club",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour discuter du soin en gardant le projet ouvert"
+    ],
+    "clinical_code": "6C00",
+    "clinical_diagnosis": "Énurésie"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/titouan-transit-evaluation": {
+    "character": "Titouan",
+    "character_id": "titouan",
+    "keywords": [
+      "Transit",
+      "Entretien médical",
+      "Informations utiles"
+    ],
+    "character_keywords": [
+      "Énurésie",
+      "accidents nocturnes",
+      "honte et confidentialité",
+      "suivi médical",
+      "participation aux nuits collectives"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "d3eb78bb46659aa64c4e1e8866882447b899c4476fc6ac28b6422e5d5eb6ac7d",
+    "summary": "Le médecin n’a pas changé de dossier. Pourtant, pour Titouan, la conversation vient de changer complètement de pièce. Après les questions sur les toilettes dans la journée, il parle maintenant du transit et demande s’il existe des difficultés quand il va à la selle. Titouan baisse les yeux vers le marque-page. La vague dessinée sur la porte du phare a presque disparu sous son pouce.\n\n[…]\n\nSalomé entoure seulement la demande pratique à préparer : trouver les toilettes avec Mme Dumas avant la discussion. Les réponses médicales ne seront pas recopiées sur le formulaire de la nuit. Titouan accepte de poursuivre l’entretien avec le médecin. Avant de partir, ils conviennent aussi d’un petit relevé privé pour le prochain point de suivi. Il gardera ce document séparé de son carnet du club. Le formulaire peut maintenant servir à préparer une sortie, sans devenir le récit de toute sa consultation.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Le médecin n’a pas changé de dossier. Pourtant, pour Titouan, la conversation vient de changer complètement de pièce. Après les questions sur les toilettes dans la journée, il parle maintenant du transit et demande s’il existe des difficultés quand il va à la selle. Titouan baisse les yeux vers le marque-page. La vague dessinée sur la porte du phare a presque disparu sous son pouce.",
+        "start": 2,
+        "end": 387
+      },
+      {
+        "quote": "Salomé entoure seulement la demande pratique à préparer : trouver les toilettes avec Mme Dumas avant la discussion. Les réponses médicales ne seront pas recopiées sur le formulaire de la nuit. Titouan accepte de poursuivre l’entretien avec le médecin. Avant de partir, ils conviennent aussi d’un petit relevé privé pour le prochain point de suivi. Il gardera ce document séparé de son carnet du club. Le formulaire peut maintenant servir à préparer une sortie, sans devenir le récit de toute sa consultation.",
+        "start": 4421,
+        "end": 4929
+      }
+    ],
+    "canonical_concept": "Le transit compte dans l’évaluation",
+    "context": "La suite du même rendez-vous de suivi",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour garder un entretien compréhensible et confortable"
+    ],
+    "clinical_code": "6C00",
+    "clinical_diagnosis": "Énurésie"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/titouan-variation-nuits": {
+    "character": "Titouan",
+    "character_id": "titouan",
+    "keywords": [
+      "Évolution variable",
+      "Pronostic incertain",
+      "Décision révisable"
+    ],
+    "character_keywords": [
+      "Énurésie",
+      "accidents nocturnes",
+      "honte et confidentialité",
+      "suivi médical",
+      "participation aux nuits collectives"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "292d3f0af3159eeb6b43cc7bbea1cf0ff587d87f8fce29eeee5d11f62e99c581",
+    "summary": "Le formulaire n’est plus caché sous le livre depuis plusieurs jours. Il est posé à côté du sac bleu, avec les informations pratiques préparées pour Mme Dumas. Titouan le prend avant même de descendre déjeuner. Cette nuit, le lit a été mouillé de nouveau. Les nuits précédentes n’avaient pas toutes été semblables, et il avait commencé à croire que la dernière impression pourrait lui dire comment se passerait celle du club.\n\n[…]\n\nTitouan pose le formulaire sur la table. Il veut toujours lire son passage, et il souhaite essayer la nuit avec la possibilité de rentrer. Salomé confirme avec Mme Dumas les dispositions prévues ; les adultes restent disponibles. Le sac bleu est fermé après une dernière vérification ordinaire. Aucun résultat nocturne n’est promis. Titouan remet le marque-page droit et demande seulement si Noé aura déjà lu la fin avant leur arrivée.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Le formulaire n’est plus caché sous le livre depuis plusieurs jours. Il est posé à côté du sac bleu, avec les informations pratiques préparées pour Mme Dumas. Titouan le prend avant même de descendre déjeuner. Cette nuit, le lit a été mouillé de nouveau. Les nuits précédentes n’avaient pas toutes été semblables, et il avait commencé à croire que la dernière impression pourrait lui dire comment se passerait celle du club.",
+        "start": 2,
+        "end": 426
+      },
+      {
+        "quote": "Titouan pose le formulaire sur la table. Il veut toujours lire son passage, et il souhaite essayer la nuit avec la possibilité de rentrer. Salomé confirme avec Mme Dumas les dispositions prévues ; les adultes restent disponibles. Le sac bleu est fermé après une dernière vérification ordinaire. Aucun résultat nocturne n’est promis. Titouan remet le marque-page droit et demande seulement si Noé aura déjà lu la fin avant leur arrivée.",
+        "start": 4361,
+        "end": 4796
+      }
+    ],
+    "canonical_concept": "Une variation ne prédit pas la prochaine nuit",
+    "context": "Quelques jours avant la nuit du club",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour revoir la décision sans prédire le sommeil"
+    ],
+    "clinical_code": "6C00",
+    "clinical_diagnosis": "Énurésie"
   },
   "posts/comprendre-et-maitriser-ses-emotions/trahison-en-amitie-impacts-quotidiens": {
     "character": "Priya",

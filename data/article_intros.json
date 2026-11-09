@@ -2207,6 +2207,78 @@
     "method": "definition_excerpt",
     "source_body_sha256": "1144f703f2b50e40d2bc01b6bdda06fd57b8aff1a0801f0a1fa593750975760c"
   },
+  "posts/comprendre-et-maitriser-ses-emotions/felix-acces-toilettes": {
+    "text": "Des toilettes difficiles à utiliser ou une demande publique peuvent contribuer au report du passage chez un enfant suivi pour constipation. Ces obstacles n’expliquent pas à eux seuls l’encoprésie. Les repérer permet néanmoins d’adapter le quotidien. Pour Félix, l’autorisation abstraite de sortir doit devenir une aide réellement disponible.",
+    "source_heading": "L’accès aux toilettes change la situation",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "f4502ecb06bde0f28749389ebeae20dc8a78932b7a44a54ce687f2064667a4dd"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/felix-accident-reproche": {
+    "text": "Présenter les besoins liés à l’encoprésie comme une question de discipline peut empêcher un enfant de demander de l’aide. Ses accidents involontaires ne sont pas une faute à corriger par l’attente imposée. La scène de Félix montre l’effet d’une règle générale mal adaptée et la responsabilité des adultes dans sa rectification.",
+    "source_heading": "Quand l’accident devient un reproche",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "5c19b7799f1d85c53e050c50cfefa9eb4d9fa62efbea5c5f1eaf8a860ff6a55b"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/felix-comprendre-debordement": {
+    "text": "Une fuite d’aspect mou n’exclut pas une constipation : des selles peuvent passer autour d’une accumulation. Ce débordement fait partie des mécanismes possibles de certaines encoprésies, pas de toutes. Son identification relève d’une évaluation médicale. Pour Félix et Samuel, l’explication évite de tirer une conclusion à partir de la seule apparence.",
+    "source_heading": "Comprendre le débordement",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "e03fa81ebe983f1c2d5ee815fca9401db05ec6823f6baffbe52c2ce064591f98"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/felix-diagnostic-bilan": {
+    "text": "Un diagnostic d’encoprésie déjà établi ne permet pas d’attribuer automatiquement toute douleur ou tout changement à ce trouble. L’évaluation médicale tient compte de l’histoire récente, des soins suivis et des autres causes possibles. La consultation de Félix montre comment un parent peut décrire sans conclure, puis organiser la suite.",
+    "source_heading": "Le diagnostic ne remplace pas le bilan",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "0a663d6c1e82fd1f941d6f284b2bdf58167db90a2809b79581bec3132f98e292"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/felix-douleur-retenue": {
+    "text": "La crainte d’une selle douloureuse peut amener un enfant à retarder le passage aux toilettes et entretenir la constipation. Cette retenue ne signifie pas qu’il choisit les accidents ultérieurs. Chez Félix, comprendre ce qui fait peur sert à transmettre une difficulté réelle à la pédiatre, sans improviser de traitement.",
+    "source_heading": "La douleur entretient la retenue",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "e9a7b49b2bc3fca2fda164ae8ecb1e00357d2d0b1bbad97c755b0300b54148cc"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/felix-fatigue-parentale-relais": {
+    "text": "L’encoprésie et le suivi de la constipation peuvent représenter une charge quotidienne pour une famille : affaires à préparer, échanges et vigilance. Reconnaître cette fatigue ne justifie pas de la faire porter à l’enfant. Quand Félix propose de renoncer à sa sortie, Samuel doit distinguer son besoin de soutien du projet de son fils.",
+    "source_heading": "La fatigue parentale demande un relais",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "68562a83fb2b3dedfdd121e17a48bc57efe183fbd008438ecab95ffe070bce98"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/felix-fluctuations-suivi": {
+    "text": "L’évolution d’une encoprésie avec constipation peut comporter des périodes plus faciles puis de nouvelles difficultés. Un accident ne mesure pas l’effort de l’enfant, et une amélioration ne garantit pas que les appuis sont devenus inutiles. Pour Félix, la reprise des fuites conduit à solliciter le suivi et à adapter le moment du repérage.",
+    "source_heading": "Les fluctuations ne sont pas un verdict",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "121302b3ed0145c83f97e153ecdd0a9bb4b8c394db393db117ef94fb85cd5973"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/felix-fuite-percue-trop-tard": {
+    "text": "Dans certaines présentations de l’encoprésie avec constipation, l’enfant peut percevoir tardivement une fuite, voire ne pas la sentir survenir. L’absence de demande préalable ne prouve donc pas un refus d’aller aux toilettes. Pour Félix, dont le diagnostic est déjà établi, cette surprise interrompt un travail qu’il voulait poursuivre avec sa classe.",
+    "source_heading": "Une fuite perçue trop tard",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "dc8413b820977053282f8bb1259127b92869cd4318d3e1054c5e237d0bcb0b64"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/felix-honte-parmi-autres": {
+    "text": "L’encoprésie peut avoir un retentissement social fait de honte, de crainte des moqueries et de retrait. Ces conséquences se distinguent du mécanisme intestinal lui-même. Une remarque peut suffire à rendre une activité difficile à rejoindre. Félix doit pouvoir retrouver sa place sans avoir à dévoiler son diagnostic pour obtenir du respect.",
+    "source_heading": "La honte réduit la place parmi les autres",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "f0aa4228cf68d18d1ad990f3f07ffbe22487c9f5dfdbbf0aa4216bb3211ee9ad"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/felix-participer-sans-preuve": {
+    "text": "Une participation scolaire adaptée ne doit pas dépendre de la capacité à garantir une journée sans accident. Pour un enfant suivi pour encoprésie, les soins et les aides peuvent continuer pendant qu’un projet se réalise. Félix accomplit un rôle choisi et limité ; cette réussite cartographique ne constitue pas une preuve de guérison.",
+    "source_heading": "Participer sans devoir prouver sa continence",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "39e8551026bea2b05f57660b7e0aaeb3e4724883b025e191b45cc218f5106069"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/felix-peur-accident-renoncer": {
+    "text": "La peur d’un accident peut conduire un enfant suivi pour encoprésie à renoncer à une activité avant même qu’une fuite survienne. Ce retentissement anticipatoire ne constitue pas, à lui seul, un autre diagnostic. Pour Félix, une participation limitée et choisie devient envisageable lorsque les possibilités d’aide sont réelles et vérifiées.",
+    "source_heading": "La peur d’un accident fait renoncer",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "7e69c34ca232dbf0ad21447a5487cc0ba8336cd525eb7834b3912989da83654b"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/felix-soins-sans-epreuve": {
+    "text": "Le suivi d’une constipation associée à l’encoprésie peut comporter des observations et des routines individualisées. Ces appuis n’ont pas à devenir un score de bonne conduite ou une condition de participation scolaire. Pour Félix, clarifier l’usage du carnet permet de distinguer les informations utiles à la pédiatre du droit de poursuivre sa carte.",
+    "source_heading": "Des soins réguliers sans épreuve de réussite",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "296b417f09397ffe63fddf40ca476ec3bb979a25dcbbe894a6bac3f77e584a72"
+  },
   "posts/comprendre-et-maitriser-ses-emotions/fenetre-de-tolerance-dan-siegel-en-famille": {
     "text": "Dans des ressources d’accompagnement, la « fenêtre de tolérance », associée aux travaux de Daniel Siegel, représente une zone où l’on se sent assez disponible pour réfléchir et agir malgré les émotions.",
     "source_heading": "Comprendre l’image de la fenêtre de tolérance",
@@ -5794,6 +5866,78 @@
     "source_heading": "Attention fragile pendant un échange",
     "method": "reviewed_clinical_intro",
     "source_body_sha256": "5addddb9c8231825177a9e59d03c83ab6307c7795c039fa80d5bec99679ec94e"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/titouan-accident-aide-discrete": {
+    "text": "Un accident d’énurésie pendant une nuit collective appelle une aide pratique respectueuse de l’intimité. Il ne constitue pas à lui seul une faute ou une urgence. Après avoir lu son passage, Titouan se réveille avec un besoin de change. Mme Dumas met en œuvre le plan convenu, sans solliciter les camarades ni décider à sa place de la suite.",
+    "source_heading": "Répondre à un accident avec discrétion",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "15601b86f3b68df888f22a1fcd34133ea96449898e0004c053081bc1ac14a7f4"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/titouan-accident-sans-faute": {
+    "text": "L’énurésie correspond à des émissions urinaires répétées dans le lit ou les vêtements, habituellement involontaires. Elle ne se résume pas à un manque d’effort. Titouan, dont le diagnostic est déjà connu, redoute qu’un accident survienne à la médiathèque. Le matin, il cache son envie de participer derrière un prétendu désintérêt pour le club.",
+    "source_heading": "Un accident sans faute volontaire",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "cd52dfbea3d7f91af6fbd66f5ce7a90031f7e1d882c95499fa7fe39e5b0803d6"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/titouan-bilan-journee": {
+    "text": "L’évaluation d’une énurésie nocturne s’intéresse aussi à ce qui se passe pendant la journée. Les questions du médecin aident à distinguer les situations et d’éventuelles difficultés associées ; elles ne prouvent pas leur présence. Titouan s’étonne de parler des toilettes du club alors qu’il voulait surtout comprendre pourquoi il ne se réveille pas avant un accident.",
+    "source_heading": "Le bilan regarde aussi la journée",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "815d7ed309531ee4fb03575024106ca90f4742a606837d828c877f3b16e48b5f"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/titouan-confidentialite-participation": {
+    "text": "La crainte que l’énurésie soit connue des autres peut freiner une participation désirée. Préparer une aide discrète suppose toutefois que les adultes responsables disposent des informations utiles. Titouan parle à Mme Dumas après le club. Ils conviennent d’une phrase et vérifient les moyens disponibles, sans promettre que personne ne remarquera jamais rien.",
+    "source_heading": "La confidentialité protège la participation",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "5ed93c28d9612aa79269a1c1b0cb019adf605c98c944a9a8d1f90b6e302e5e78"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/titouan-eau-toilettes-accessibles": {
+    "text": "L’accompagnement de l’énurésie préserve une hydratation suffisante et un accès aux toilettes adapté aux besoins. Se priver d’eau ou se retenir n’est pas une épreuve à proposer à l’enfant. Titouan voudrait laisser sa gourde pour éviter un accident plus tard. Salomé reprend les conseils personnalisés du médecin et organise avec lui une aide pratique au club.",
+    "source_heading": "Boire et accéder aux toilettes",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "71d15dd21e1186b33a1ea07e2a8c361b5eb59d13359e171c1338b15df52185b0"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/titouan-eveil-ne-se-commande-pas": {
+    "text": "Des difficultés d’éveil peuvent contribuer à l’énurésie nocturne, parmi d’autres mécanismes possibles. Elles ne permettent pas de conclure que l’enfant manque d’attention ou refuse de se lever. Titouan essaie de rester éveillé pour éviter un accident. Salomé l’aide à abandonner cette garde et à préparer une question pour son médecin.",
+    "source_heading": "L’éveil nocturne ne se commande pas",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "77b54ade4b461503d1d6130997cc1388a6b1bdc051822fc130ca3baffee0c383"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/titouan-fatigue-familiale": {
+    "text": "L’énurésie peut avoir un retentissement pratique et émotionnel sur la famille. La fatigue liée au linge ou à l’organisation ne transforme pas l’accident en faute de l’enfant. En préparant le sac bleu, Salomé soupire et Titouan croit devoir annuler. Une répartition claire des tâches permet d’entendre la fatigue tout en gardant son projet possible.",
+    "source_heading": "La fatigue familiale sans reproche",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "2974d2c2276fd705a63c0977ed098aac9f2e28c05d0fd8c050866b93585b5c7d"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/titouan-observer-sans-note": {
+    "text": "Un relevé convenu avec le médecin peut aider à décrire les nuits dans le suivi d’une énurésie. Il ne mesure ni les efforts ni la valeur de l’enfant. Titouan hésite à y inscrire un accident, comme si le document devait montrer seulement des réussites. Salomé l’aide à retrouver le rôle de cette observation privée.",
+    "source_heading": "Observer sans noter sa valeur",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "bb4434019d6ffad5708cc55dd53c826040ec994d13b3373ba7c95cb717ddd017"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/titouan-participer-sans-guerison": {
+    "text": "L’énurésie n’efface pas les intérêts et les choix d’un enfant. Une participation accompagnée peut être satisfaisante même lorsqu’un accident survient, sans annoncer une guérison. Au matin de la nuit à la médiathèque, Titouan revient d’abord au livre. Il pourra ensuite parler en privé de l’aide reçue et choisir la suite du club, avec son suivi maintenu.",
+    "source_heading": "Participer sans attendre la guérison",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "1a45b5fb61f14cd6d67bbb36f091fad68863089c8aa54d51984aab4ef611cce8"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/titouan-soin-projet-nuit": {
+    "text": "Le choix d’un accompagnement pour l’énurésie tient compte de la situation de l’enfant, de ses préférences et des possibilités familiales. Une sortie prochaine ne transforme pas le soin en garantie de nuit sèche. Titouan apporte son relevé au suivi et demande une certitude pour la médiathèque. Le médecin reprend les options et leurs limites avec lui et Salomé.",
+    "source_heading": "Choisir un soin adapté au projet",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "b666fa6fc3851f3456f4127feb7968898ed8205f8d5c68341cbedc3870d26ebb"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/titouan-transit-evaluation": {
+    "text": "Le transit fait partie des éléments que le médecin peut explorer dans une évaluation de l’énurésie. Une constipation peut être associée aux difficultés urinaires, mais elle n’est ni une cause universelle ni une conclusion automatique. Titouan veut surtout savoir où iront ses réponses. L’entretien médical et la préparation du club n’ont pas besoin de contenir les mêmes informations.",
+    "source_heading": "Le transit compte dans l’évaluation",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "d3eb78bb46659aa64c4e1e8866882447b899c4476fc6ac28b6422e5d5eb6ac7d"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/titouan-variation-nuits": {
+    "text": "L’évolution de l’énurésie peut varier, et une courte suite de nuits ne permet pas de prédire la suivante. Une nuit sèche ne prouve pas une guérison ; une nuit mouillée ne décide pas à elle seule d’une sortie. Titouan découvre un nouvel accident et reprend le formulaire. Salomé l’aide à revoir les possibilités sans imposer une conclusion.",
+    "source_heading": "Une variation ne prédit pas la prochaine nuit",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "292d3f0af3159eeb6b43cc7bbea1cf0ff587d87f8fce29eeee5d11f62e99c581"
   },
   "posts/comprendre-et-maitriser-ses-emotions/trahison-en-amitie-impacts-quotidiens": {
     "text": "On peut parler de trahison lorsqu’un engagement de confiance est rompu, par exemple quand une confidence est divulguée. Le sentiment de trahison peut aussi surgir alors que chacun n’avait pas compris la même chose.",

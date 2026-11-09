@@ -707,6 +707,18 @@
     ],
     "source": "repères des parcours cliniques de fiction"
   },
+  "félix": {
+    "id": "felix",
+    "name": "Félix",
+    "keywords": [
+      "Encoprésie",
+      "constipation et débordement",
+      "accidents involontaires",
+      "intimité et honte",
+      "participation scolaire"
+    ],
+    "source": "repères des parcours cliniques de fiction"
+  },
   "gabin": {
     "id": "gabin",
     "name": "Gabin",
@@ -1232,6 +1244,18 @@
       "Effort dans le quotidien",
       "Intérêt et plaisir",
       "Ajustement du suivi"
+    ],
+    "source": "repères des parcours cliniques de fiction"
+  },
+  "titouan": {
+    "id": "titouan",
+    "name": "Titouan",
+    "keywords": [
+      "Énurésie",
+      "accidents nocturnes",
+      "honte et confidentialité",
+      "suivi médical",
+      "participation aux nuits collectives"
     ],
     "source": "repères des parcours cliniques de fiction"
   },
