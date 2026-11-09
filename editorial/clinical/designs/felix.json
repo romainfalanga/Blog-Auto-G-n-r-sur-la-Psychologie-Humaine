@@ -1,0 +1,189 @@
+{
+  "schema_version": 1,
+  "character_id": "felix",
+  "code": "6C01",
+  "article_format": 2,
+  "bio": "Félix, 9 ans, est élève et se passionne pour les cartes. Son Encoprésie est déjà diagnostiquée ; les accidents involontaires, associés chez lui à une constipation évaluée, compliquent sa participation à l’école. Quand les passages aux toilettes deviennent une question de discipline, il se retire. Sa classe prépare une sortie à pied et il veut choisir son rôle de lecteur de carte. Avec son parent, sa pédiatre et l’animatrice scolaire qu’il a choisie, il retrouve des possibilités concrètes sans devoir prouver qu’aucun accident ne surviendra.",
+  "profile_topics": [
+    "Encoprésie",
+    "constipation et débordement",
+    "accidents involontaires",
+    "intimité et honte",
+    "participation scolaire"
+  ],
+  "voice": "Félix parle de flèches, de ponts et de chemins qui ont besoin de place. Il corrige un symbole trop gros et sourit aux noms de rues absurdes. Il peut dire je ne veux pas expliquer, sans exposé médical ni métaphore du corps cassé. Sa précision cartographique est un goût, pas un symptôme.",
+  "series_goal": "Choisir puis tenir un rôle de lecteur de carte dans la sortie à pied au jardin du moulin, avec le droit de le limiter et de passer le relais ; les soins se poursuivent indépendamment.",
+  "continuity_rules": [
+    "Félix reste élève de 9 ans, diagnostic établi avant le début : known dans les douze épisodes. Présentation avec constipation évaluée et accidents involontaires, sans alternance opportuniste avec la forme sans rétention. Les codes apparentés sont expliqués au dossier et ne valent pas deux parcours fictifs.",
+    "Samuel est son père ; la docteure Vignal est pédiatre ; Lila est l’animatrice scolaire choisie ; madame Perrin est la maîtresse ; Noé est un camarade. Seuls les adultes organisent sécurité, accès, aide et transmissions. Ne pas attribuer de diagnostic associé ni inventer de règle juridique scolaire.",
+    "Conserver le plan plié en quatre, trajet au crayon, petit pont, légende en arc choisie avec Noé, copie plastifiée puis segment du portail au pont. Le carnet médical et le sac discret restent séparés de la carte collective.",
+    "Les épisodes 3 et 4 prolongent le même rendez-vous sans nouvelle annonce diagnostique. Le changement de l’épisode 10 est transmis au cabinet, et l’épisode 11 ne reprend qu’après ce point et selon la situation. Une aggravation n’est jamais automatiquement psychologique.",
+    "Aucune posologie, purge, technique rectale, consigne de poussée, assise forcée, restriction ou défi de retenue. Les trois appuis proposés dans chaque futur article relèvent de communication, organisation ou recours médical et ne remplacent pas le traitement individualisé.",
+    "Ne pas conditionner la place de lecteur à une journée sans accident ; aucune humiliation sensorielle détaillée, punition ou preuve de propreté. Conserver l’intimité et la possibilité de demander de l’aide même si le signal convenu n’a pas été utilisé.",
+    "La dernière scène accomplit le choix de lire du portail au pont puis de passer la carte à Noé ; le suivi et les appuis demeurent. Ni absence de fuite ni réussite scolaire ne certifient une guérison."
+  ],
+  "episodes": [
+    {
+      "number": 1,
+      "focus": "Une fuite perçue trop tard",
+      "scene": "À la table où la classe prépare sa sortie, Félix trace le jardin du moulin. Il découvre un accident dans ses vêtements alors qu’il n’avait pas senti qu’il devait s’arrêter. Il referme son plan. Lila, l’animatrice qu’il a choisie avec son père comme interlocutrice, lui permet de rejoindre discrètement le lieu prévu pour se changer ; la classe reste encadrée par madame Perrin.",
+      "development": "Manifestation : perception absente ou tardive possible dans cette présentation avec constipation déjà évaluée. Trois dimensions : surprise, difficulté à demander de l’aide, tâche interrompue. Trois appuis : réponse privée sans interrogatoire ; accès effectif à l’aide matérielle convenue ; possibilité de reprendre le dessin après. Ne pas promettre que repérer un signal empêchera toute fuite. Le diagnostic précède le récit ; l’accident ne sert pas à le poser.",
+      "ending": "Félix revient avec ses affaires prises en charge discrètement. Il laisse le trajet au crayon et emporte le plan plié en quatre pour le terminer avec son père.",
+      "next": "À la maison, le plan reste sur la table ; Félix parlera de ce qui lui fait retarder certains passages aux toilettes.",
+      "source_refs": [
+        "oms-cddr",
+        "nice-cg99",
+        "nhs-soiling"
+      ],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 2,
+      "focus": "La douleur entretient la retenue",
+      "scene": "Chez lui, Félix et Samuel cherchent le petit pont sur la carte. Félix se raidit puis dit qu’il préfère attendre pour aller aux toilettes : il se souvient d’une selle douloureuse. Samuel cesse de lui demander de finir la légende et écoute ce qu’il craint.",
+      "development": "Mécanisme : éviter une défécation douloureuse peut entretenir la rétention, sans volonté de produire un accident. Distinguer mémoire de douleur, report et inquiétude parentale. Trois appuis : accueillir ses mots sans le forcer à raconter ; préserver l’accès et l’intimité ; transmettre la douleur au pédiatre selon le suivi en place, sans ajustement de traitement maison. Pas de consigne de pousser, de massage ni de durée d’assise.",
+      "ending": "Samuel contacte le cabinet pour signaler les douleurs et organiser le point de suivi ; il suit les indications données. Félix ajoute le pont à son plan après une pause, sans que le récit garantisse une selle ou la fin de la peur.",
+      "next": "Le rendez-vous est organisé ; une fuite d’aspect inhabituel amènera une question précise sur le débordement.",
+      "source_refs": [
+        "oms-cddr",
+        "nice-cg99",
+        "niddk-constipation"
+      ],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 3,
+      "focus": "Comprendre le débordement",
+      "scene": "Avant le rendez-vous, Samuel remarque une nouvelle fuite plus molle et se demande si Félix a maintenant une diarrhée. Au cabinet, il décrit ce changement sans conclure. La docteure Vignal réévalue la situation et explique le mécanisme de débordement retenu pour Félix. Le plan plié attend dans la poche de son manteau.",
+      "development": "Mécanisme distinct de la perception : des fuites peuvent accompagner une accumulation de selles, sans que l’aspect mou exclue une constipation. Trois dimensions : apparence trompeuse, explication professionnelle, limite des déductions domestiques. Trois appuis : décrire plutôt qu’étiqueter ; demander à la pédiatre de reformuler ; garder les décisions de traitement dans le suivi. Expliquer simplement sans métaphore de saleté ou de plomberie cassée. Rappeler ailleurs dans l’explication que toutes les formes d’encoprésie ne relèvent pas de la rétention.",
+      "ending": "Félix demande si cela veut dire qu’il l’a fait exprès. La pédiatre répond sur ses accidents involontaires ; Samuel conserve les consignes individualisées. Félix sort enfin le plan pour demander comment préparer la sortie.",
+      "next": "La consultation se poursuit sur ce qui doit être décrit au suivi, avant que les adultes organisent les aspects scolaires.",
+      "source_refs": [
+        "oms-cddr",
+        "nice-cg99",
+        "nhs-soiling"
+      ],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 4,
+      "focus": "Le diagnostic ne remplace pas le bilan",
+      "scene": "Dans la suite du même rendez-vous, Samuel voudrait attribuer tous les maux de ventre au trouble connu. La pédiatre reprend l’histoire récente, les traitements suivis et son évaluation clinique. Félix peut parler de la douleur sans qu’elle soit ramenée à sa peur de la sortie ; il choisit de laisser sa carte sur le bureau pendant l’échange.",
+      "development": "Enjeu de diagnostic différentiel : l’encoprésie ne dispense pas d’évaluer les autres causes médicales ou effets médicamenteux. Trois dimensions : faits observés, interprétation adulte, décision professionnelle. Trois appuis : préparer une description courte ; demander ce qui nécessite de recontacter le cabinet ; organiser un interlocuteur de suivi. Aucun nouvel examen systématique, maladie inventée ou liste de critères à cocher. Le médecin ne donne pas une garantie définitive valable pour tout symptôme futur.",
+      "ending": "La docteure Vignal garde une prise en charge individualisée et convient avec Samuel des suites du suivi. Ils déterminent quelles informations pratiques communiquer à Lila, avec Félix associé à la discussion, sans transmettre tout le dossier scolaire.",
+      "next": "Les besoins pratiques sont clarifiés ; Lila et l’équipe doivent vérifier les toilettes effectivement accessibles.",
+      "source_refs": [
+        "oms-cddr",
+        "nice-cg99",
+        "niddk-constipation"
+      ],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 5,
+      "focus": "L’accès aux toilettes change la situation",
+      "scene": "À l’école, Lila accompagne Félix pour vérifier l’organisation convenue. Il lui montre une porte dont le verrou le gêne et explique qu’il n’ose pas sortir quand il faut demander devant tout le monde. Lila ne le fait pas essayer devant d’autres enfants. Madame Perrin organise avec elle un accès adapté et réellement disponible.",
+      "development": "Facteur contextuel : les obstacles et l’appréhension des toilettes peuvent contribuer au report, sans tout expliquer ni constituer une phobie diagnostiquée. Trois dimensions : accès matériel, demande audible par tous, crainte de déranger. Trois appuis : vérifier le lieu avec les adultes responsables ; convenir d’un moyen discret de demander sans en faire une condition absolue ; prévoir un relais si Lila est absente. Aucun conseil de se retenir jusqu’à une pause prévue.",
+      "ending": "Félix choisit une phrase courte pour Lila. Les adultes confirment le lieu et le relais ; sur la carte collective il ajoute seulement les repères ordinaires, sans annotation de santé.",
+      "next": "La carte peut être travaillée avec Noé ; Félix reste inquiet de ce que les autres ont remarqué.",
+      "source_refs": [
+        "oms-cddr",
+        "nice-cg99",
+        "nhs-soiling"
+      ],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 6,
+      "focus": "La honte réduit la place parmi les autres",
+      "scene": "Noé rejoint Félix pour dessiner la légende. Un camarade fait une remarque sur son absence précédente. Sans récit humiliant d’odeur ou de vêtements, la scène montre Félix cacher sa carte et renoncer à expliquer le pont. Lila interrompt les commentaires personnels et rétablit le travail du groupe.",
+      "development": "Retentissement : peur des moqueries, dissimulation et retrait social, distincts du fonctionnement intestinal. Trois appuis : adulte qui stoppe la remarque ; réponse préservant la vie privée sans mensonge imposé ; choix de reprendre la tâche seul ou avec Noé. Pas de révélation diagnostique pour obtenir l’indulgence et pas d’amitié utilisée comme soin.",
+      "ending": "Félix reprend avec Noé le symbole du petit pont. Noé préfère deux traits, Félix un arc ; ils gardent l’arc. Il n’a pas à raconter pourquoi il était sorti.",
+      "next": "Le symbole est prêt pour la réunion de préparation, où une remarque adulte sur la discipline provoquera un autre retrait.",
+      "source_refs": [
+        "oms-cddr",
+        "nice-cg99"
+      ],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 7,
+      "focus": "Quand l’accident devient un reproche",
+      "scene": "Pendant la préparation de la marche, un adulte dit au groupe que chacun devra apprendre à attendre les pauses. Félix replie immédiatement la carte et retire son nom de la liste des lecteurs. Madame Perrin corrige la consigne : les besoins individuels seront pris en compte avec les adultes, sans exposer son diagnostic.",
+      "development": "Enjeu distinct des moqueries entre pairs : attribution disciplinaire et règles qui empêchent la demande d’aide. Montrer règle générale inadéquate, retrait du rôle et réparation adulte. Trois appuis : corriger la consigne publiquement sans désigner Félix ; revoir les dispositions entre adultes concernés ; lui rendre une possibilité de choisir plus tard. Les accidents de Félix ne sont pas des choix et aucun rôle ne se mérite par une absence de fuite.",
+      "ending": "Madame Perrin garde une place ouverte sur la liste. Félix accepte de conserver le plan à préparer, mais ne choisit pas encore son rôle.",
+      "next": "La place reste disponible ; le suivi à la maison et les routines ne doivent pas devenir un nouvel examen de bonne conduite.",
+      "source_refs": [
+        "oms-cddr",
+        "nice-cg99"
+      ],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 8,
+      "focus": "Des soins réguliers sans épreuve de réussite",
+      "scene": "À la maison, Samuel prépare les observations demandées par la pédiatre. Félix regarde les cases du carnet et croit qu’une journée sans accident lui permettra de récupérer sa place de lecteur. Samuel comprend le malentendu ; la carte de sortie n’a rien à faire dans le carnet médical.",
+      "development": "Accompagnement : suivi de la constipation et routines négociées, distincts d’un contrat de continence. Trois dimensions : notes utiles au soignant, interprétation comme score, séparation santé/projet. Trois appuis : expliquer à quoi servent les notes et qui les lit ; discuter au suivi des difficultés de routine sans punition ; garder le projet scolaire accessible. Le plan médical continue selon la pédiatre, sans médicament nommé ni schéma universel de toilettes, alimentation ou hydratation.",
+      "ending": "Le carnet de suivi est rangé avec les documents du cabinet. Félix et Samuel plastifient une copie de la carte pour les essais de marche ; le rôle reste ouvert même après une journée difficile.",
+      "next": "La copie plastifiée est prête ; Samuel doit aussi faire entendre la charge quotidienne sans la faire porter à Félix.",
+      "source_refs": [
+        "oms-cddr",
+        "nice-cg99"
+      ],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 9,
+      "focus": "La fatigue parentale demande un relais",
+      "scene": "Samuel prépare le sac discret prévu avec l’école et cherche encore les affaires de rechange. Pressé, il soupire ; Félix pousse la copie de carte vers lui et propose de ne pas faire la sortie. Samuel s’arrête et précise que sa fatigue n’est pas une raison pour lui retirer ce projet.",
+      "development": "Retentissement familial : logistique, vigilance et lassitude, pas symptôme supplémentaire ni faute de l’enfant. Trois appuis : réponse immédiate réparant le soupir ; échange séparé avec les professionnels sur la charge ; répartition pratique réaliste avec l’école. Pas de délégation à Noé, pas de nettoyage humiliant imposé, pas d’éloge de l’enfant qui supporterait tout seul.",
+      "ending": "Samuel échange avec Lila sur le rangement du sac et le relais prévu, et avec le cabinet sur ses difficultés de suivi. Félix garde sa carte. Les responsabilités adultes sont clarifiées avant le repérage.",
+      "next": "Le sac et le relais sont organisés ; une amélioration passagère ne doit pas conduire à les supprimer.",
+      "source_refs": [
+        "oms-cddr",
+        "nice-cg99"
+      ],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 10,
+      "focus": "Les fluctuations ne sont pas un verdict",
+      "scene": "Après plusieurs journées plus faciles, Félix prépare la carte pour une marche de repérage avec son père. Un nouvel accident survient avant de partir. Samuel avait pensé laisser le sac de rechange à la maison ; il conserve finalement les appuis et signale la reprise des symptômes au suivi.",
+      "development": "Évolution : persistance et épisodes d’aggravation possibles, sans durée de guérison prédite. Trois dimensions : attentes après amélioration, déception après accident, maintien du suivi. Trois appuis : décrire le changement au soignant ; ne pas modifier seul le traitement ; adapter le moment de l’activité au confort et aux consignes reçues. Aucun défi pour prouver la guérison, ni accident attribué automatiquement au stress.",
+      "ending": "Ils reportent le petit repérage à un moment compatible avec le confort de Félix et les consignes du cabinet. Le suivi est sollicité ; la sortie de classe n’est ni garantie ni annulée comme punition.",
+      "next": "Après le point médical et avec les appuis maintenus, un repérage accompagné peut se faire. Félix doit encore choisir ce qu’il souhaite tenter.",
+      "source_refs": [
+        "oms-cddr",
+        "nice-cg99",
+        "nhs-soiling"
+      ],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 11,
+      "focus": "La peur d’un accident fait renoncer",
+      "scene": "Le point avec le cabinet a eu lieu et l’organisation est maintenue. Pendant le repérage accompagné autorisé par les adultes selon la situation, Félix lit très bien la première intersection puis dit qu’il préfère que Noé fasse toute la sortie. Il redoute d’avoir besoin de s’arrêter devant la classe, même sans accident à cet instant.",
+      "development": "Retentissement anticipatoire : renoncement social pour éviter une situation redoutée, distinct de la fuite et de la phobie diagnostiquée. Trois appuis : accueillir la crainte sans promettre zéro accident ; vérifier les lieux et réponses adultes, dont une interruption possible ; proposer des rôles partiels réellement disponibles. Pas d’exposition thérapeutique improvisée et aucune obligation de sortir pour vaincre sa peur.",
+      "ending": "Félix choisit de lire du portail au petit pont ; Noé pourra prendre ensuite la carte. Les adultes vérifient et confirment l’itinéraire, l’accès prévu et les relais. Le choix peut encore être raccourci.",
+      "next": "Le segment et les relais sont décidés ; le jour venu, Félix gardera le droit de demander une pause ou de transmettre plus tôt.",
+      "source_refs": [
+        "oms-cddr",
+        "nice-cg99"
+      ],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 12,
+      "focus": "Participer sans devoir prouver sa continence",
+      "scene": "Le jour de la sortie, Lila confirme discrètement à Félix qu’elle est disponible. La carte plastifiée porte le pont dessiné avec Noé. Félix prend le rôle choisi au départ ; au besoin d’une pause, il peut utiliser le dispositif prévu sans justification au groupe. Les adultes conduisent la marche et assurent toute la sécurité.",
+      "development": "Aboutissement du pouvoir de décision et de la participation, pas nouvelle manifestation. Trois dimensions : rôle limité choisi, pause compatible avec le rôle, satisfaction cartographique distincte du bilan médical. Trois appuis : respecter les options annoncées ; réaliser le relais adulte nécessaire sans surveillance par les pairs ; poursuivre le suivi après la sortie. Ne pas faire dépendre la conclusion d’une journée propre, d’un courage héroïque ou d’une guérison.",
+      "ending": "Félix conduit la lecture jusqu’au petit pont puis passe la carte à Noé, comme choisi. Il a pris sa place de lecteur sans porter la sécurité du groupe. Au retour, il propose de dessiner une carte des arbres du jardin ; Samuel poursuit les échanges avec la pédiatre.",
+      "next": "Le rôle choisi est accompli. La constipation, les accidents éventuels et les besoins de soutien restent suivis séparément ; une nouvelle envie de carte ouvre sa vie au-delà du trouble.",
+      "source_refs": [
+        "oms-cddr",
+        "nice-cg99"
+      ],
+      "diagnostic_stage": "known"
+    }
+  ]
+}

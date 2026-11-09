@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "revision": 252,
+  "revision": 262,
   "created_at": "2026-11-07T14:47:42Z",
   "cases": {
     "mathis": {
@@ -3432,18 +3432,34 @@
     "titouan": {
       "character_id": "titouan",
       "code": "6C00",
-      "stage": "character",
+      "stage": "story",
       "created_at": "2026-11-07T14:47:42Z",
-      "active_job": "73c19d6021ac4a879add0692613f5bfd",
+      "active_job": "0dadf38c71b14e73950b3b42de95d13e",
       "owners": {
         "character": [
           "personnage_titouan"
         ],
-        "story": [],
+        "story": [
+          "story_titouan"
+        ],
         "review": []
       },
       "revision_rounds": 0,
-      "accepted": {},
+      "accepted": {
+        "character": {
+          "job_id": "73c19d6021ac4a879add0692613f5bfd",
+          "owner": "personnage_titouan",
+          "validated_at": "2026-11-09T18:52:08Z",
+          "validation": {
+            "character_id": "titouan",
+            "files": {
+              "editorial/clinical/designs/titouan.json": "47816ac75dcf39d5ce8ae94e292e5a52a73793ec4b2701b7b1a861b5576e7c1e",
+              "editorial/clinical/dossiers/titouan.json": "8aa80bf3131e67fe7f4aad85eacbc1cbab29a370b6d46418dc5ee7712bb1a37d"
+            },
+            "episodes": 12
+          }
+        }
+      },
       "observed_at_init": {
         "manuscript_sha256": null,
         "episodes_present": 0,
@@ -3456,18 +3472,34 @@
     "felix": {
       "character_id": "felix",
       "code": "6C01",
-      "stage": "character",
+      "stage": "story",
       "created_at": "2026-11-07T14:47:42Z",
-      "active_job": "b67785ab5f9e41dc8f165fa4ad78e630",
+      "active_job": "586be3fb171a41f2b61a4ec0d6e42754",
       "owners": {
         "character": [
           "personnage_felix"
         ],
-        "story": [],
+        "story": [
+          "story_felix"
+        ],
         "review": []
       },
       "revision_rounds": 0,
-      "accepted": {},
+      "accepted": {
+        "character": {
+          "job_id": "b67785ab5f9e41dc8f165fa4ad78e630",
+          "owner": "personnage_felix",
+          "validated_at": "2026-11-09T18:53:31Z",
+          "validation": {
+            "character_id": "felix",
+            "files": {
+              "editorial/clinical/designs/felix.json": "dd7fd709767aa366b0e4eb81c4e1613ee63719aa8a1326bbd566677fa2403d70",
+              "editorial/clinical/dossiers/felix.json": "4cf04d01aa8608950159bb24ffb4b363fe3de5cbe9a2392681240db3163ec513"
+            },
+            "episodes": 12
+          }
+        }
+      },
       "observed_at_init": {
         "manuscript_sha256": null,
         "episodes_present": 0,
@@ -29566,8 +29598,8 @@
       "snapshot_sha256": "493ba61646dc64625a8730c6442f0865a0b3a2cd1c254c06642b467a64187c9b",
       "status": "active",
       "token_sha256": "26c6db5fc8ec5b4ee46af47983360d4ae9236f218aee1a655ba043331fce9436",
-      "heartbeat_at": "2026-11-09T18:51:42Z",
-      "expires_at": "2026-11-09T19:21:42Z",
+      "heartbeat_at": "2026-11-09T18:53:26Z",
+      "expires_at": "2026-11-09T19:23:26Z",
       "checkpoints": [
         {
           "at": "2026-11-09T18:49:15Z",
@@ -29619,6 +29651,34 @@
           "observed": {
             "manuscript_sha256": "9a81417f6226d461853e220c137f80e4b330c31a047f4791cd6db5cfdfbcb808",
             "episodes_present": 4,
+            "manuscript_readable": true,
+            "design_sha256": "d05cc51566a0f7d6b34791dce8ae3cef7757474f1ddb50f09d7c4a73a6da52bd",
+            "dossier_sha256": "7cf37bd3d18c1f12f166a04b8cedbf16b52eb25e378243e49a1fc39e9b0fde50",
+            "review_sha256": null
+          }
+        },
+        {
+          "at": "2026-11-09T18:52:34Z",
+          "outputs": {
+            "editorial/clinical/nolwenn.json": "1bda5078fae57a1abb94f3f1859db8829866cef1574ae45ba774123eb12e7b14"
+          },
+          "observed": {
+            "manuscript_sha256": "1bda5078fae57a1abb94f3f1859db8829866cef1574ae45ba774123eb12e7b14",
+            "episodes_present": 5,
+            "manuscript_readable": true,
+            "design_sha256": "d05cc51566a0f7d6b34791dce8ae3cef7757474f1ddb50f09d7c4a73a6da52bd",
+            "dossier_sha256": "7cf37bd3d18c1f12f166a04b8cedbf16b52eb25e378243e49a1fc39e9b0fde50",
+            "review_sha256": null
+          }
+        },
+        {
+          "at": "2026-11-09T18:53:26Z",
+          "outputs": {
+            "editorial/clinical/nolwenn.json": "4db4c6d1a5432078f82ad60d7754731d7826515def1b0ec48af94e02e9c3f4da"
+          },
+          "observed": {
+            "manuscript_sha256": "4db4c6d1a5432078f82ad60d7754731d7826515def1b0ec48af94e02e9c3f4da",
+            "episodes_present": 6,
             "manuscript_readable": true,
             "design_sha256": "d05cc51566a0f7d6b34791dce8ae3cef7757474f1ddb50f09d7c4a73a6da52bd",
             "dossier_sha256": "7cf37bd3d18c1f12f166a04b8cedbf16b52eb25e378243e49a1fc39e9b0fde50",
@@ -29766,10 +29826,19 @@
         }
       },
       "snapshot_sha256": "9d0a1213214a20c0533cef354dc6f7848187b1ebfabf362c65f5c299036656fb",
-      "status": "active",
+      "status": "finished",
       "token_sha256": "caf35b6b232d755a56053d08b2ba434cd31902a76b830d957d92c604a2fa1a13",
       "heartbeat_at": "2026-11-09T18:48:26Z",
-      "expires_at": "2026-11-09T19:18:26Z"
+      "expires_at": "2026-11-09T19:18:26Z",
+      "finished_at": "2026-11-09T18:52:08Z",
+      "validation": {
+        "character_id": "titouan",
+        "files": {
+          "editorial/clinical/designs/titouan.json": "47816ac75dcf39d5ce8ae94e292e5a52a73793ec4b2701b7b1a861b5576e7c1e",
+          "editorial/clinical/dossiers/titouan.json": "8aa80bf3131e67fe7f4aad85eacbc1cbab29a370b6d46418dc5ee7712bb1a37d"
+        },
+        "episodes": 12
+      }
     },
     "b67785ab5f9e41dc8f165fa4ad78e630": {
       "id": "b67785ab5f9e41dc8f165fa4ad78e630",
@@ -29909,11 +29978,800 @@
         }
       },
       "snapshot_sha256": "1b01a46910eb7e15461291638338959624b91b6b527d68e5643e6f349a19bf35",
-      "status": "active",
+      "status": "finished",
       "token_sha256": "7ff2d3606a64b99d96f5bd2b3c92de671d2603be1f4ea162ea4c21a9e4ed53d3",
       "heartbeat_at": "2026-11-09T18:48:36Z",
-      "expires_at": "2026-11-09T19:18:36Z"
+      "expires_at": "2026-11-09T19:18:36Z",
+      "finished_at": "2026-11-09T18:53:31Z",
+      "validation": {
+        "character_id": "felix",
+        "files": {
+          "editorial/clinical/designs/felix.json": "dd7fd709767aa366b0e4eb81c4e1613ee63719aa8a1326bbd566677fa2403d70",
+          "editorial/clinical/dossiers/felix.json": "4cf04d01aa8608950159bb24ffb4b363fe3de5cbe9a2392681240db3163ec513"
+        },
+        "episodes": 12
+      }
+    },
+    "0dadf38c71b14e73950b3b42de95d13e": {
+      "id": "0dadf38c71b14e73950b3b42de95d13e",
+      "character_id": "titouan",
+      "role": "story",
+      "owner": "story_titouan",
+      "created_at": "2026-11-09T18:52:33Z",
+      "snapshot": {
+        "prompt_file": "editorial/agents/stories.md",
+        "prompt": "# Agent rédacteur d’histoires\n\nUn vrai sous-agent ChatGPT écrit un personnage entier. Il est distinct de son créateur. Plusieurs personnages peuvent être rédigés en parallèle ; les douze épisodes d’un même personnage s’écrivent dans l’ordre. Aucun appel de modèle par API ni production GitHub Actions.\n\nLire `editorial_pipeline.py brief --job <job>`, la charte, l’article modèle d’alexithymie en couple, le dossier individuel et le design gelé. Respecter leurs références et la chronologie du diagnostic. Recopier exactement la biographie et les cinq repères validés, et reprendre chaque aspect prévu dans `clinical_focus`. Ne pas modifier le dossier ou le plan en cours de rédaction ; signaler un problème au pilote.\n\nÉcrire uniquement `editorial/clinical/<id>.json`. Conserver tout épisode déjà sauvegardé après une interruption. Vérifier l’existence du manuscrit et relire ses raccords avant d’ajouter la suite. Sauvegarder chaque épisode complet puis exécuter `checkpoint` avec la mission et son jeton. Le fichier contient `character_id`, `bio`, `profile_topics`, `episodes` ; le brief donne les champs exacts de chaque épisode.\n\nTrame obligatoire, format 2 :\n\n1. Scène d’ouverture d’au moins 180 mots, sans intertitre, illustrant l’aspect précis de l’épisode.\n2. Introduction pédagogique autonome de 40 à 90 mots dans `clinical_intro`, distincte de l’explication développée dans l’article.\n3. Section `explanation` développant le mécanisme (au moins 25 mots).\n4. Section `manifestations`, titre « Comment … ? », trois points comprenant chacun un intertitre, une explication et deux exemples concrets.\n5. Section `strategies`, titre « 3 techniques pour … », trois points comprenant chacun un objectif, un exercice en trois actions et un bénéfice possible.\n6. Retour à la scène avec `ending_title` et `ending` ; une décision et sa conséquence réelle, sans guérison artificielle.\n7. `conclusion` d’au moins 25 mots, affichée après le séparateur.\n8. `mirror` : un ou deux paragraphes de 40 à 160 mots pour « Du côté des proches », ancrés dans la scène avec un geste ou une parole possible.\n\nAu moins 550 mots au total, trois repères d’épisode, titre centré sur le sujet et non sur le prénom, description de 155 caractères maximum, au moins deux références autorisées dont la source primaire. Documenter `continuity.choice` et `continuity.next` après chaque épisode. Les références restent dans les champs éditoriaux : aucune bibliographie publique dans le récit.\n\nLes aides du quotidien ne remplacent pas un soin. Aucun seuil d’autodiagnostic, posologie, exercice dangereux, exposition imposée, récompense pour parler, souvenir forcé, réconciliation obligatoire ou promesse de guérison. Respecter les relais professionnels et les procédures réelles de sécurité. Les proches ne deviennent ni diagnosticiens ni thérapeutes. La fiction décrit une présentation individuelle et ne transforme pas une hypothèse en mécanisme scientifique reconnu.\n\nRelire les raccords, les décisions, les douze aspects et la fin de l’enjeu de série. Exécuter `clinical_agent_contracts.py story <id>` puis `editorial_pipeline.py finish`. Le manuscrit passe alors à un relecteur indépendant. Ne pas écrire son propre rapport de relecture, intégrer, committer ou publier. En cas de retour, corriger les épisodes concernés, puis demander une nouvelle relecture complète liée aux nouvelles empreintes.\n",
+        "inputs": {
+          "data/clinical_catalog.json": "ea545ea8ad5aaa94b2b2e45e2816cde36bc101dc205b0da50e9303a12015cefa",
+          "data/clinical_sources.json": "fdaee525b573758c9f0f33cb52b62bfb2f077402336475a6f859762fea48e6e6",
+          "editorial/clinical/additional_characters.json": "8834d18f0c86a439357f6f776429d57b23c4acab8b88b5c55d1c3dacd651ada3",
+          "editorial/clinical/charter.md": "8032bcae9a54b787febdbc3a99e8811893663c9f93dc323b0108e07c3849cb0b",
+          "editorial/automation/policy.json": "883ae80b4685fbc1365af6494b693358da050e2266554992f11d12dcbde6c1d0",
+          "scripts/clinical_editorial.py": "f1fc7eb80b0eca35fad58925b323b5dee69bc738d3df031a41e465a64e3342d3",
+          "editorial/automation/legacy-publications.json": "974d070654ecad7d2408ecfe893a767fa97352922acca107b768b63a31277ceb",
+          "scripts/clinical_agent_contracts.py": "2deec8afbd14289192fa3b86edf5e6529e1690c2daecbce4d6798d826d5f1774",
+          "editorial/agents/stories.md": "7725d5f492253cfcee95427c76114fe739c83204e8c7187959309b72da39eece",
+          "editorial/clinical/designs/titouan.json": "47816ac75dcf39d5ce8ae94e292e5a52a73793ec4b2701b7b1a861b5576e7c1e",
+          "editorial/clinical/dossiers/titouan.json": "8aa80bf3131e67fe7f4aad85eacbc1cbab29a370b6d46418dc5ee7712bb1a37d"
+        },
+        "data": {
+          "clinical_brief": {
+            "agent_id": "redaction-titouan",
+            "character": {
+              "id": "titouan",
+              "name": "Titouan",
+              "code": "6C00",
+              "related_codes": [
+                "6C00.0",
+                "6C00.1",
+                "6C00.2"
+              ],
+              "wave": 16,
+              "diagnosis": {
+                "timing": "established",
+                "episode": null
+              },
+              "canon": {
+                "age": 10,
+                "setting": "Participe à un club de lecture et voudrait suivre la première nuit à la médiathèque.",
+                "independent_goal": "Préparer son sac et un plan discret avec l'adulte qu'il choisit.",
+                "tension": "La peur que d'autres commentent un accident l'amène à dire qu'il n'aime pas le club alors qu'il s'y sent bien.",
+                "supports": "Parent, médecin et bibliothécaire référente.",
+                "trajectory": "Travaille la préparation et l'accès au soin, choisit ce qu'il révèle et garde une décision libre sur sa participation.",
+                "guardrail": "Aucune punition, moquerie ou restriction d'eau suggérée. Examen de causes physiques et confidentialité.",
+                "occupation": "élève"
+              },
+              "sources": [
+                "https://icd.who.int/browse/2026-01/mms/fr#1157749237",
+                "https://www.who.int/publications/i/item/9789240077263"
+              ],
+              "research_status": "prise_en_charge_a_documenter"
+            },
+            "direction": "Titouan, élève de 10 ans, aime le club de lecture mais prétend s’en lasser quand on annonce la première nuit à la médiathèque. Son Énurésie est déjà diagnostiquée et les causes physiques ont été examinées avant la série ; le suivi continue. Salomé est son parent, Mme Dumas la bibliothécaire référente qu’il choisit, le médecin reste non nommé. Noé est un camarade qui discute des livres, jamais une aide soignante. Titouan aime les fins ouvertes et les cartes dessinées au début des romans ; son livre pour la nuit s’appelle Le phare sans escalier, œuvre fictive. Il veut lire le passage où le gardien cherche une porte, puis préparer un sac bleu et un plan discret. La série se déroule sur plusieurs semaines. Elle montre des nuits mouillées à domicile, des consultations déjà inscrites dans le suivi et une préparation progressive. Aucun nouveau diagnostic, résultat d’examen ni médicament n’est ajouté. Pendant la nuit à la médiathèque, un accident ordinaire est géré avec l’adulte prévu et le parent reste joignable. Titouan choisit de rester selon le plan convenu, sans que cela soit présenté comme supérieur à rentrer. Le dernier épisode ferme la nuit et sa lecture, pas le suivi.",
+            "dossier": {
+              "name": "Énurésie",
+              "aliases": [
+                "6C00",
+                "Enuresis"
+              ],
+              "references": [
+                "oms-cddr",
+                "oms-mms-6c00",
+                "oms-cddr-hrb",
+                "nice-cg111",
+                "cps-enuresis-2023",
+                "ameli-enuresie-consultation"
+              ],
+              "points": [
+                "Vérification du 9 novembre 2026 : CDDR OMS 2024 intégral téléchargé depuis le dépôt HRB, section 6C00 p.421–424 relue. MMS française ouverte mais définition dynamique non extraite ; conserver code et libellé canoniques sans prétendre relire sa définition française. NICE CG111 lu dans le contenu indexé des recommandations, ouverture directe renvoyant 403 ; CPS et Ameli consultation ouvertes intégralement. La page Ameli « que faire/quand consulter » affichait 17 novembre 2026, postérieur à la session : écartée des sources retenues. Les paraphrases françaises des CDDR et de la CPS ne sont pas des traductions officielles.",
+                "CDDR p.421–424 : émissions urinaires répétées dans lit ou vêtements, nocturnes, diurnes ou mixtes ; âge développemental et causes physiques ou médicamenteuses à examiner. Les symptômes sont habituellement involontaires. Détresse et stigmatisation possibles ; évolution variable, parfois persistante. Le diagnostic ne se déduit pas d’un accident isolé. Les sous-codes liés dans le registre ne doivent pas être tous incarnés par Titouan : scènes nocturnes retenues, sans lui attribuer trois diagnostics ni certifier une forme monosymptomatique ou primaire absente du canon.",
+                "CPS, Background et évaluation 1–2 : difficultés d’éveil, production nocturne d’urine et capacité vésicale peuvent contribuer ; aucun mécanisme individuel n’est déduit d’une scène. La terminologie pédiatrique de cette position réserve enuresis au sommeil, alors que CIM 6C00 inclut le jour. Questions sur symptômes diurnes et transit utiles au médecin, sans ajout de comorbidité au personnage. Constipation possible, pas cause universelle ni guérison promise après correction.",
+                "NICE CG111, 1.1–1.7 : absence de faute, aucune punition ; information adaptée, protection pratique du couchage, évaluation des besoins familiaux et objectifs de l’enfant. Hydratation quotidienne suffisante et accès aux toilettes ; ne pas demander de se retenir ou priver d’eau. Un calendrier peut informer le soin ; les nuits sèches ne sont pas une performance à récompenser. Réveiller systématiquement n’apprend pas à rester sec durablement. Cadre britannique, pas règlement français de médiathèque.",
+                "Ameli, examen et traitement : le médecin évalue le tableau et les symptômes associés, puis choisit avec la famille une prise en charge adaptée. Une alarme peut perturber le sommeil familial ; les médicaments relèvent du contrôle médical. Dans cette série, aucune prescription nouvelle, posologie ou durée n’est inventée. La desmopressine impose des consignes hydriques spécifiques de sécurité : ne jamais écrire qu’un lecteur traité pourrait ignorer celles de son prescripteur. Le canon interdit une restriction d’eau proposée comme technique ; Titouan ne reçoit donc pas de médicament dans le récit.",
+                "NICE 1.3 et CPS évaluation : un symptôme nouveau ou préoccupant ne doit pas être automatiquement attribué au diagnostic connu ; le parent contacte le médecin pour une orientation adaptée. Aucune consultation ne sert à garantir une nuit sèche. Les bilans, questionnaires chiffrés, mesures urinaires et seuils restent hors des exercices publics. Si une inquiétude médicale apparaît à l’écriture, agir dans la même scène et reprendre le relais dans la suivante.",
+                "Choix de traitement et limites : NICE 1.4, 1.8–1.10, CPS Management et Ameli distinguent besoins immédiats et accompagnement durable. Les préférences, les contraintes et la disponibilité familiale comptent. Les positions ne donnent pas des délais identiques ; ne pas en fabriquer un protocole combiné. La nuit du club n’est ni une échéance thérapeutique ni un test de réponse. L’alarme est discutée au rendez-vous mais son installation n’est pas racontée ni enseignée.",
+                "Fiction et non traitement : sac discret, phrase avec la bibliothécaire, solution de retour avec le parent, choix de place et organisation du linge sont des adaptations narratives. Aucune efficacité clinique démontrée ne leur est attribuée. Aucune promesse de secret absolu : les adultes responsables connaissent les éléments utiles, l’enfant sait lesquels. Un camarade ne surveille pas, ne manipule pas de médicament et ne porte pas la responsabilité du linge.",
+                "Trame obligatoire pour chaque futur article : ouverture sans intertitre d’au moins 180 mots ; explication générale autonome ; trois manifestations avec deux exemples chacune ; trois démarches numérotées avec objectif, trois étapes et utilité possible ; retour concret à la scène, conclusion séparée, puis proches. La répétition des aides ne doit pas remplacer la distinction des aspects : involontarité, éveil, bilan diurne, transit, hydratation/accès, observation, choix de soin, retentissement familial, confidentialité, évolution, réponse à l’accident et participation.",
+                "Garde-fous constants : aucune humiliation, punition, restriction hydrique suggérée, défi de rétention, réveil forcé, tableau public ni nuit sèche exigée pour participer. Le livre et le club ne récompensent pas la continence. L’enfant peut contribuer volontairement à son sac ou à l’organisation à sa mesure ; les adultes prennent en charge les besoins pratiques sans dette ni réparation morale. Le récit illustre une situation possible et ne couvre pas toutes les formes de 6C00."
+              ]
+            },
+            "references": {
+              "oms-cddr": {
+                "title": "OMS, descriptions cliniques de la CIM-11",
+                "url": "https://www.who.int/publications/i/item/9789240077263"
+              },
+              "oms-mms-6c00": {
+                "title": "OMS, CIM-11 MMS 2026-01, 6C00 Énurésie",
+                "url": "https://icd.who.int/browse/2026-01/mms/fr#1157749237"
+              },
+              "oms-cddr-hrb": {
+                "title": "OMS, CDDR 2024, section Énurésie 6C00, pages imprimées 421–424 ; document original conservé dans le dépôt HRB",
+                "url": "https://www.drugsandalcohol.ie/41519/1/WHO_Clinical_descriptions_and_diagnostic_requirements_ICD-11.pdf"
+              },
+              "nice-cg111": {
+                "title": "NICE CG111, Bedwetting in under 19s, recommandations 1.1–1.10, 2010, surveillance 2018",
+                "url": "https://www.nice.org.uk/guidance/cg111/chapter/Recommendations"
+              },
+              "cps-enuresis-2023": {
+                "title": "Harris, Lipson et Dos Santos, Société canadienne de pédiatrie, Evaluation and management of enuresis in the general paediatric setting, 16 août 2023",
+                "url": "https://cps.ca/en/documents/position/evaluation-and-management-of-enuresis-in-the-general-paediatric-setting"
+              },
+              "ameli-enuresie-consultation": {
+                "title": "Assurance maladie, Consultation et traitement en cas d’énurésie nocturne, 17 septembre 2026",
+                "url": "https://www.ameli.fr/assure/sante/themes/pipi-lit-enuresie/consultation-traitement"
+              }
+            },
+            "charter": "# Charte de rédaction des parcours cliniques\n\nÉcrire en français pour des lecteurs sans formation clinique. Choisir pour chaque épisode un aspect du trouble qui se distingue des onze autres et que la scène permet de comprendre. Cet aspect peut être une manifestation, un mécanisme, un retentissement ou une particularité de l’évolution. Relier le titre, le résumé, l’explication et le dénouement à cet aspect. Une activité, une décision ou un rendez-vous fournit le cadre où il devient perceptible.\n\nSuivre le déroulé de l’[article de Youssef sur l’alexithymie en couple](../../content/posts/comprendre-et-maitriser-ses-emotions/alexithymie-en-couple.md).\n\n1. Ouvrir sur une scène d’au moins 180 mots, sans intertitre. Montrer ce que la difficulté change pour le personnage dans cette situation.\n2. Expliquer l’aspect et son lien avec le trouble dans une section dédiée. Partir d’une phrase générale autonome, puis revenir à ce qui se joue dans la scène.\n3. Montrer comment l’aspect se manifeste. Sous « Comment … ? », développer trois sous-parties avec une explication et deux exemples concrets chacune. Situer ce que l’on observe dans chaque exemple.\n4. Proposer trois techniques numérotées. Donner pour chacune un objectif, un exercice pratique en trois étapes et une explication de son utilité possible. Adapter les étapes au contexte et au niveau de risque, en incluant le recours à un professionnel lorsque nécessaire.\n5. Revenir à l’histoire sous un intertitre tiré de la scène. Montrer un essai ou une décision, sa conséquence et l’incertitude qui reste. Les difficultés peuvent revenir après un essai qui a fonctionné ailleurs.\n6. Conclure après un séparateur. Résumer ce que cet épisode permet de comprendre et inscrire le dénouement dans le parcours du personnage.\n7. Terminer par « Du côté des proches ». Relier leur point de vue à ce que la scène a montré.\n\nRespecter les faits du canon et la chronologie du diagnostic. Si l’évaluation est en cours, faire comprendre les difficultés sans annoncer le résultat à la place du professionnel. Un diagnostic connu entre dans le récit quand il aide à situer l’expérience. La personne conserve un métier ou un projet, des relations, des ressources, des préférences et le droit de ne pas tout partager.\n\nFonder chaque affirmation clinique sur les points vérifiés du dossier de sources. Renseigner les références dans le dossier et les champs éditoriaux de chaque épisode. Distinguer récit, vécu et description générale du trouble. Les articles ne donnent ni critères permettant de conclure sur soi ou un tiers, ni posologies, ni gestes dangereux, ni promesses de guérison. Une scène de fiction ne représente qu’une présentation possible. Proposer des adaptations discutées avec la personne et situer le recours aux professionnels quand le besoin est clinique ou urgent.\n\nDans « Du côté des proches », partir d’un geste, d’une parole ou d’un besoin visible dans la scène. Donner une réponse concrète que le proche pourrait essayer, dans des mots qu’il pourrait dire. Respecter son périmètre et la possibilité de se retirer ou de passer le relais. Aucun proche ne doit jouer au diagnosticien ou imposer un soin. Dans les situations d’emprise ou de danger, favoriser la sécurité et un appui spécialisé.\n\nRelecture par vague. Relire les douze ouvertures et leurs fins dans l’ordre, puis vérifier les faits cliniques et les propositions aux proches, chaque fois avec le dossier de sources. Annoter les erreurs et les choix qui ont fonctionné. Inscrire les leçons réutilisables dans la charte avant de générer le lot suivant. Une validation de structure ou une relecture par un modèle laisse ouverte la vérification éditoriale des faits et de leur contexte.\n\nLe lot pilote a montré que le premier intertitre explicatif peut varier. Commencer cette section par une phrase générale autonome que le site peut reprendre. Donner à la scène finale un titre tiré de son geste ou de sa décision. Distinguer un signe à discuter d’un épisode ou d’un diagnostic établi. Maintenir les procédures de sécurité réelles et le rôle des soignants, même lorsque le personnage essaie une façon différente de répondre à sa difficulté.\n\nLa deuxième vague distingue l’accord de la personne pour partager ses informations et les démarches de sécurité qui s’appliquent à la situation. Montrer dans le récit qui prévient le service compétent et quand, sans reporter cette action au conseil pour les proches. Pour une règle de métier, utiliser une source du domaine en plus du guide clinique. Le miroir reste ancré dans la scène et conserve sa limite de sécurité jusqu’à la dernière phrase.\n\nLa troisième vague vérifie que le trouble a un effet perceptible dans la vie du personnage dès les deux premières scènes. Montrer ce vécu sans inventaire de signes, description de pratiques dangereuses ou explication totale de sa personnalité. Suivre séparément les questions de santé et les décisions du quotidien. Reprendre les objets, lieux et engagements déjà nommés et fermer les questions concrètes dont la résolution est nécessaire à la scène suivante.\n\nAvant d’écrire, l’agent dédié au personnage fixe une direction dans son dossier. Il y précise ce qui distingue sa voix, son projet et son entourage, les faits cliniques qu’il mettra en scène et les interprétations à écarter. À la fin de chaque épisode, il inscrit la décision prise et ce qu’elle change pour la suite. Au dernier épisode, il résout l’enjeu de la série et garde la perspective du personnage au-delà de cette décision. La relecture reprend les douze scènes dans l’ordre et vérifie les conseils adressés aux proches en regard de chaque scène.\n\nLa quatrième vague distingue les repères du premier diagnostic et ceux des épisodes ultérieurs. Quand une situation urgente se présente, vérifier que son origine n’est pas présumée à partir du diagnostic connu. La première section s’ouvre sur une phrase générale qui fonctionne seule. Les détails de la scène viennent ensuite, après le passage que le site peut reprendre en introduction.\n\nLes histoires d’origine donnent la direction. Le titre commence par le sujet de l’article, une difficulté, une émotion ou un mécanisme réel dans une situation concrète. Le prénom figure séparément au-dessus du titre. Dans la présentation, nommer le trouble documenté et ce qu’il change pour ce personnage. Le premier mot-clé reprend son intitulé et les quatre autres indiquent des manifestations ou enjeux qui reviennent dans plusieurs épisodes. La fiche peut annoncer un diagnostic que le personnage découvre plus tard dans l’histoire.\n\nDans le résumé de la fiche et de la carte, relier une réaction de la scène à l’aspect abordé. Dans un récit d’enfance, vérifier l’apport de cette période pour comprendre le trouble et ouvrir sur d’autres contextes lorsque les sources l’appuient. Lors de la relecture, nommer l’aspect illustré dans chaque épisode, puis retrouver le moment où il devient visible et vérifier que les exemples et les techniques restent centrés sur lui. Renseigner les références dans le manuscrit et le dossier éditorial, sans bibliographie dans le fil de l’article.\n\nLa huitième vague vérifie qui peut savoir quoi, à quel moment et avec quel accord. En cas de changement préoccupant, distinguer le fait observable, ce qu’en dit le personnage, la réponse d’un proche et l’évaluation de l’équipe de soins. Faire apparaître le relais dans la scène où il se produit et en reprendre les conséquences dans la suivante.\n\nLa reprise suivante distingue le résumé affiché avant le récit et l’explication qui vient après. Éviter de recopier le résumé mot pour mot dans cette explication : celle-ci développe le mécanisme et le contraste rendu visible par la scène. Pour les articles d’origine, relire les manifestations et les exercices eux-mêmes ; trois intertitres ou une étiquette ne prouvent pas que les exemples, l’objectif, les trois actions et l’utilité sont présents. Une prose déjà complète peut être conservée. Garder une preuve de lecture liée à l’empreinte du corps et une seconde relecture des passages sensibles.\n",
+            "files": {
+              "manuscript": "editorial/clinical/titouan.json",
+              "dossier": "editorial/clinical/dossiers/titouan.json"
+            },
+            "manifest_fields": [
+              "character_id",
+              "bio",
+              "profile_topics",
+              "episodes"
+            ],
+            "profile_topics_count": 5,
+            "episode_fields": [
+              "number",
+              "slug",
+              "title",
+              "description",
+              "context",
+              "topics",
+              "clinical_focus",
+              "clinical_intro",
+              "opening",
+              "sections",
+              "ending_title",
+              "ending",
+              "mirror",
+              "sources",
+              "continuity",
+              "conclusion"
+            ],
+            "sections": {
+              "explanation": {
+                "fields": [
+                  "heading",
+                  "text"
+                ]
+              },
+              "manifestations": {
+                "fields": [
+                  "heading",
+                  "points"
+                ],
+                "count": 3,
+                "point_fields": [
+                  "heading",
+                  "text",
+                  "examples"
+                ],
+                "examples_count": 2
+              },
+              "strategies": {
+                "fields": [
+                  "heading",
+                  "points"
+                ],
+                "count": 3,
+                "point_fields": [
+                  "heading",
+                  "objective",
+                  "exercise",
+                  "benefit"
+                ],
+                "exercise_count": 3
+              }
+            },
+            "total_episodes": 12,
+            "continuity": [],
+            "ready_to_draft": true,
+            "instruction": "Rédiger les épisodes dans l’ordre et consigner les choix à reprendre."
+          },
+          "findings": [],
+          "existing_manuscript": null,
+          "design": {
+            "schema_version": 1,
+            "character_id": "titouan",
+            "code": "6C00",
+            "article_format": 2,
+            "bio": "Titouan a 10 ans et est élève. Il aime les discussions de son club de lecture, surtout quand personne n’est d’accord sur la fin d’un livre. Son Énurésie est déjà diagnostiquée, mais la première nuit à la médiathèque lui fait craindre les commentaires des autres. Il prétend ne plus aimer le club alors qu’il voudrait y rester. Avec son parent, son médecin et la bibliothécaire qu’il choisit, il prépare un sac et une aide discrète, tout en gardant le droit de décider de sa participation.",
+            "profile_topics": [
+              "Énurésie",
+              "accidents nocturnes",
+              "honte et confidentialité",
+              "suivi médical",
+              "participation aux nuits collectives"
+            ],
+            "voice": "Titouan repère les incohérences des romans et préfère une carte au début du livre à une explication trop longue. Il dit qu’un phare sans escalier doit avoir une autre porte. Ses hésitations concernent la nuit collective ; il garde sa curiosité et son goût de discuter, sans parler comme un professionnel de santé.",
+            "series_goal": "Préparer le sac bleu et un plan discret avec Mme Dumas, puis lire Le phare sans escalier lors de la première nuit à la médiathèque. Titouan garde le choix de sa participation, y compris celui de rentrer ; le récit retient une nuit accompagnée avec accident ordinaire et retour au club, sans guérison proclamée.",
+            "continuity_rules": [
+              "Titouan reste un élève de 10 ans, diagnostic d’Énurésie établi avant l’épisode 1. Les rendez-vous sont des suivis, jamais une découverte tardive du diagnostic.",
+              "Salomé est son parent, Mme Dumas la bibliothécaire référente choisie, le médecin reste non nommé. Noé est un camarade de lecture, jamais surveillant ou responsable d’un change.",
+              "Les scènes montrent des accidents nocturnes ; ne pas ajouter de forme diurne, de constipation diagnostiquée, de traumatisme, de résultat biologique ou de sous-type primaire sans élément canonique. Les questions d’évaluation ne prouvent pas la présence de ce qu’elles recherchent.",
+              "Conserver formulaire gardé, roman fictif Le phare sans escalier, marque-page, relevé privé séparé du carnet du club, gourde et sac bleu. Les épisodes 3 et 4 sont deux moments du même rendez-vous, le 7 un point de suivi ultérieur.",
+              "Aucune restriction d’eau, rétention, punition, humiliation ou récompense pour nuit sèche. Aucun médicament ajouté. Le soin éventuel d’un lecteur reste soumis aux consignes spécifiques de son prescripteur, jamais annulées par un conseil général.",
+              "Le relevé sert au soignant, pas au classement de l’enfant. Les adaptations sociales ne sont pas des thérapies. Les trois démarches de chaque futur article comportent objectif, trois étapes et utilité possible, avec responsabilité adulte explicite.",
+              "Le plan discret de l’épisode 9 doit être réellement appliqué à l’épisode 11 ; espace de change disponible, Mme Dumas présente, Salomé joignable. La confidentialité n’empêche aucun relais médical si des signes nouveaux préoccupants apparaissent.",
+              "L’accident de l’épisode 11 n’empêche ni la contribution à la lecture ni un choix libre de rester ou de rentrer. L’épisode 12 clôt la nuit mais conserve le suivi ; ne pas présenter la participation comme une obligation d’exposition."
+            ],
+            "episodes": [
+              {
+                "number": 1,
+                "focus": "Un accident sans faute volontaire",
+                "scene": "Au matin d’une nuit mouillée, Titouan cache le formulaire de la médiathèque sous son roman et dit à Salomé que le club est devenu ennuyeux. Il voudrait pourtant lire le passage du phare avec Noé.",
+                "development": "Le diagnostic est connu ; distinguer un accident nocturne du choix d’abandonner le club. Trois appuis : accueillir sans reproche ; proposer une aide pratique privée ; séparer la question de santé de l’envie réelle de lire. Salomé prend le linge en charge sans dette morale ni nuit sèche exigée.",
+                "ending": "Il garde le formulaire et accepte de reparler de la nuit après le prochain rendez-vous prévu.",
+                "next": "Le soir, il se demande s’il suffirait de rester éveillé pour empêcher un accident.",
+                "source_refs": [
+                  "oms-cddr",
+                  "nice-cg111"
+                ],
+                "diagnostic_stage": "known"
+              },
+              {
+                "number": 2,
+                "focus": "L’éveil nocturne ne se commande pas",
+                "scene": "Titouan garde son roman ouvert tard, persuadé qu’il doit monter la garde. Salomé remarque la lumière et lui rappelle qu’il n’a pas à passer la nuit à se surveiller.",
+                "development": "Expliquer que les mécanismes possibles ne se réduisent pas au manque d’attention, sans diagnostiquer un sommeil pathologique. Trois appuis : renoncer ensemble au projet de veiller ; noter la question sur l’éveil pour le médecin ; conserver une préparation de couchage familière sans promettre son efficacité clinique. Aucun programme de réveils imposés.",
+                "ending": "Il ferme le livre avec le marque-page du phare et confie sa question à Salomé.",
+                "next": "Cette question ouvre le rendez-vous de suivi, où le médecin s’intéresse aussi à ce qui se passe le jour.",
+                "source_refs": [
+                  "oms-cddr",
+                  "cps-enuresis-2023"
+                ],
+                "diagnostic_stage": "known"
+              },
+              {
+                "number": 3,
+                "focus": "Le bilan regarde aussi la journée",
+                "scene": "Au rendez-vous prévu, Titouan s’étonne que le médecin parle des toilettes pendant la journée alors que sa crainte concerne la nuit du club. Il raconte qu’il hésite à interrompre une discussion passionnante pour demander où elles sont.",
+                "development": "L’évaluation distingue contextes, symptômes diurnes et formes nocturnes sans transformer cette hésitation en incontinence diurne. Trois appuis : raconter avec ses mots ; demander pourquoi la question compte ; préparer une demande d’accès simple pour Mme Dumas. Aucun diagnostic secondaire, questionnaire ou seuil public.",
+                "ending": "Il demande que l’accès aux toilettes fasse partie de la préparation, sans en parler devant tous les lecteurs.",
+                "next": "Le médecin complète ensuite l’entretien en abordant le transit ; Titouan ne voit d’abord pas le rapport.",
+                "source_refs": [
+                  "oms-cddr",
+                  "ameli-enuresie-consultation"
+                ],
+                "diagnostic_stage": "known"
+              },
+              {
+                "number": 4,
+                "focus": "Le transit compte dans l’évaluation",
+                "scene": "Pendant la suite du même entretien, une question sur le transit embarrasse Titouan. Il vérifie que ces réponses ne finiront pas sur le formulaire du club. Salomé lui laisse une place pour répondre au médecin.",
+                "development": "Présenter la constipation comme une possibilité à rechercher, pas un diagnostic ajouté ni la cause certaine de son énurésie. Trois appuis : demander un cadre de parole confortable ; signaler au soignant les difficultés éventuelles ; faire préciser les informations utiles à partager. Aucun laxatif, menu correctif ou résultat clinique fictif.",
+                "ending": "Il comprend que le formulaire de la nuit n’a pas à reproduire la consultation et accepte de préparer ses besoins pratiques.",
+                "next": "Au club suivant, il pense résoudre la difficulté en laissant sa gourde à la maison.",
+                "source_refs": [
+                  "oms-cddr",
+                  "cps-enuresis-2023"
+                ],
+                "diagnostic_stage": "known"
+              },
+              {
+                "number": 5,
+                "focus": "Boire et accéder aux toilettes",
+                "scene": "Avant le club, Titouan laisse sa gourde près de la porte. Salomé découvre qu’il veut éviter de boire pour être tranquille plus tard. Ils reprennent les conseils personnalisés du médecin ; la gourde repart dans son sac.",
+                "development": "Aucune privation d’eau ni rétention proposée. Trois appuis : maintenir l’accès habituel à l’eau selon les besoins et consignes du soignant ; repérer avec Mme Dumas les toilettes accessibles ; convenir d’une sortie discrète de la discussion quand il en a besoin. Ni volume, ni horaire restrictif, ni preuve de continence attendue.",
+                "ending": "Mme Dumas lui montre le trajet et lui indique qu’il peut demander à interrompre sa lecture. Il garde la gourde.",
+                "next": "À la maison, il veut savoir si le petit relevé proposé par le médecin devra montrer uniquement des réussites.",
+                "source_refs": [
+                  "oms-cddr",
+                  "nice-cg111"
+                ],
+                "diagnostic_stage": "known"
+              },
+              {
+                "number": 6,
+                "focus": "Observer sans noter sa valeur",
+                "scene": "Titouan hésite à renseigner une nuit mouillée dans le relevé convenu avec son médecin. Il a dessiné un phare en haut et craint que la page ressemble à un bulletin de mauvaises notes.",
+                "development": "Distinguer donnée de suivi et récompense. Trois appuis : demander ce qui doit réellement être noté ; conserver les observations privées sans note morale ; préparer une question à partir du relevé. Aucun comptage imposé au lecteur, récompense pour nuits sèches ou retrait de privilège.",
+                "ending": "Il renseigne ce qui a été convenu et garde le relevé pour le médecin, séparé du carnet du club.",
+                "next": "Le suivi permet maintenant de discuter des options de soin sans faire de la date de la nuit une obligation de résultat.",
+                "source_refs": [
+                  "oms-cddr",
+                  "nice-cg111"
+                ],
+                "diagnostic_stage": "known"
+              },
+              {
+                "number": 7,
+                "focus": "Choisir un soin adapté au projet",
+                "scene": "Au point de suivi, Titouan demande s’il existe une façon d’être certain de rester sec à la médiathèque. Le médecin présente les possibilités, dont l’alarme, et leurs contraintes sans garantir le résultat pour cette date.",
+                "development": "Distinguer soin durable, souhait ponctuel et liberté de participation. Trois appuis : poser la question des bénéfices et limites ; dire ce que la famille peut réellement organiser ; convenir du prochain échange médical. Ne pas prescrire, installer une alarme ou introduire un médicament en fiction. Les consignes particulières d’un traitement éventuel relèvent du prescripteur.",
+                "ending": "Ils choisissent de poursuivre le suivi et de préparer la nuit sans attendre une garantie de sécheresse. Aucune nouvelle prescription n’est annoncée.",
+                "next": "Salomé et Titouan doivent aussi répartir le travail pratique du sac et du linge.",
+                "source_refs": [
+                  "oms-cddr",
+                  "ameli-enuresie-consultation"
+                ],
+                "diagnostic_stage": "known"
+              },
+              {
+                "number": 8,
+                "focus": "La fatigue familiale sans reproche",
+                "scene": "Salomé cherche un moment pour préparer le sac bleu après une matinée de lessive. Titouan croit que ce soupir signifie qu’il ferait mieux d’annuler. Le parent précise que la fatigue concerne l’organisation.",
+                "development": "Retentissement familial distinct de faute de l’enfant. Trois appuis : nommer la charge sans accuser ; répartir les tâches entre adultes et contributions choisies à sa mesure ; demander conseil si l’accompagnement devient trop lourd. Le linge n’est ni punition ni paiement du droit de participer.",
+                "ending": "Salomé prépare les affaires de rechange ; Titouan choisit le livre et le marque-page. Ils organisent un rendez-vous discret avec Mme Dumas.",
+                "next": "Il reste à choisir ce que la bibliothécaire doit savoir et comment demander son aide pendant la nuit.",
+                "source_refs": [
+                  "oms-cddr",
+                  "nice-cg111"
+                ],
+                "diagnostic_stage": "known"
+              },
+              {
+                "number": 9,
+                "focus": "La confidentialité protège la participation",
+                "scene": "À la médiathèque, Titouan attend que les autres soient partis pour parler à Mme Dumas. Il lui montre le sac bleu mais ne veut pas d’explication devant Noé ni d’annonce au groupe.",
+                "development": "Distinguer discrétion et secret empêchant l’aide. Trois appuis : convenir des informations utiles aux adultes responsables ; choisir une phrase courte pour demander de l’aide ; vérifier le lieu prévu pour le change et la possibilité de retour avec Salomé. La bibliothécaire confirme l’organisation réelle, sans règle juridique inventée ni garantie que personne ne remarquera rien.",
+                "ending": "Ils retiennent la phrase « J’ai besoin de mon sac » et le parent reste joignable. Titouan confirme qu’il veut essayer la nuit.",
+                "next": "Une nouvelle nuit mouillée à domicile met à l’épreuve sa décision, quelques jours avant l’événement.",
+                "source_refs": [
+                  "oms-cddr",
+                  "cps-enuresis-2023"
+                ],
+                "diagnostic_stage": "known"
+              },
+              {
+                "number": 10,
+                "focus": "Une variation ne prédit pas la prochaine nuit",
+                "scene": "Après plusieurs nuits différentes, Titouan découvre un nouvel accident chez lui et croit que sa décision est devenue impossible. Il reprend le formulaire sans le déchirer ; Salomé s’assied avec lui.",
+                "development": "Ne pas déduire une guérison ou un pronostic d’une courte séquence. Trois appuis : transmettre au suivi le changement utile sans s’autodiagnostiquer ; revoir le plan pratique ; laisser ouverte la décision de venir, de rester seulement le soir ou de rentrer. Un signe nouveau préoccupant impose un contact médical ; aucun n’est ajouté ici pour expliquer la variation.",
+                "ending": "Titouan maintient son choix d’essayer, avec la possibilité convenue de rentrer. Le sac bleu est prêt et les adultes confirment leur disponibilité.",
+                "next": "Le soir de la nuit, il apporte le sac et lit le passage du phare ; un accident survient ensuite pendant le sommeil.",
+                "source_refs": [
+                  "oms-cddr",
+                  "nice-cg111"
+                ],
+                "diagnostic_stage": "known"
+              },
+              {
+                "number": 11,
+                "focus": "Répondre à un accident avec discrétion",
+                "scene": "Après avoir lu son passage, Titouan s’endort à la médiathèque. Il se réveille après un accident ordinaire et demande son sac à Mme Dumas. Elle met en œuvre l’aide prévue dans l’espace privé, sans solliciter Noé.",
+                "development": "Montrer la conséquence pratique sans humiliation, détail intime ni équivalence automatique avec urgence. Trois appuis : rejoindre l’adulte nommé ; utiliser l’organisation de change avec son aide ; choisir avec lui s’il souhaite rester ou contacter Salomé pour rentrer. Douleur, malaise ou autre changement préoccupant réclameraient un avis médical, jamais un secret pour finir la nuit.",
+                "ending": "Titouan reçoit l’aide prévue et choisit de rester. Mme Dumas garde Salomé joignable selon l’accord, sans exposer la scène au groupe.",
+                "next": "Le matin permet de parler du livre et de décider de la suite du club, sans noter la nuit comme un échec.",
+                "source_refs": [
+                  "oms-cddr",
+                  "nice-cg111"
+                ],
+                "diagnostic_stage": "known"
+              },
+              {
+                "number": 12,
+                "focus": "Participer sans attendre la guérison",
+                "scene": "Au petit déjeuner, Noé revient sur la porte introuvable du phare. Titouan défend sa fin préférée ; quand Salomé le retrouve, il parle d’abord de ce passage avant de revenir en privé sur l’aide reçue.",
+                "development": "Le projet aboutit malgré un accident, sans obligation de réussir une future nuit. Trois appuis : distinguer bilan de lecture et besoin de soin ; revoir avec les adultes ce qui doit être adapté ; conserver le prochain rendez-vous et choisir librement la suite du club. Ne pas généraliser que rester serait mieux que rentrer.",
+                "ending": "Il veut revenir au club et propose une autre histoire de phare. Le sac sera réorganisé avec Salomé ; le suivi continue et aucune disparition de l’énurésie n’est annoncée.",
+                "next": "Fin de série : lecture et première nuit accomplies à sa mesure, participation future libre, soins et confidentialité maintenus.",
+                "source_refs": [
+                  "oms-cddr",
+                  "cps-enuresis-2023"
+                ],
+                "diagnostic_stage": "known"
+              }
+            ]
+          }
+        },
+        "allowed_outputs": [
+          "editorial/clinical/titouan.json"
+        ],
+        "output_baseline": {
+          "editorial/clinical/titouan.json": null
+        }
+      },
+      "snapshot_sha256": "439390e2e56b914ba24ca58da62eecc081d7f900a7a7a20d4d8d1a7566b0f230",
+      "status": "active",
+      "token_sha256": "d300c41c73d7a298b9494d9cf8acaa8386fb2fb932a5df032fa1d6f9e019f5ef",
+      "heartbeat_at": "2026-11-09T18:53:49Z",
+      "expires_at": "2026-11-09T19:23:49Z",
+      "checkpoints": [
+        {
+          "at": "2026-11-09T18:53:49Z",
+          "outputs": {
+            "editorial/clinical/titouan.json": "f2ca78e917d4552e5e90eb7f9f86234b98a265a1c39d8b93ad9b52e7f94d8fa8"
+          },
+          "observed": {
+            "manuscript_sha256": "f2ca78e917d4552e5e90eb7f9f86234b98a265a1c39d8b93ad9b52e7f94d8fa8",
+            "episodes_present": 1,
+            "manuscript_readable": true,
+            "design_sha256": "47816ac75dcf39d5ce8ae94e292e5a52a73793ec4b2701b7b1a861b5576e7c1e",
+            "dossier_sha256": "8aa80bf3131e67fe7f4aad85eacbc1cbab29a370b6d46418dc5ee7712bb1a37d",
+            "review_sha256": null
+          }
+        }
+      ]
+    },
+    "586be3fb171a41f2b61a4ec0d6e42754": {
+      "id": "586be3fb171a41f2b61a4ec0d6e42754",
+      "character_id": "felix",
+      "role": "story",
+      "owner": "story_felix",
+      "created_at": "2026-11-09T18:53:48Z",
+      "snapshot": {
+        "prompt_file": "editorial/agents/stories.md",
+        "prompt": "# Agent rédacteur d’histoires\n\nUn vrai sous-agent ChatGPT écrit un personnage entier. Il est distinct de son créateur. Plusieurs personnages peuvent être rédigés en parallèle ; les douze épisodes d’un même personnage s’écrivent dans l’ordre. Aucun appel de modèle par API ni production GitHub Actions.\n\nLire `editorial_pipeline.py brief --job <job>`, la charte, l’article modèle d’alexithymie en couple, le dossier individuel et le design gelé. Respecter leurs références et la chronologie du diagnostic. Recopier exactement la biographie et les cinq repères validés, et reprendre chaque aspect prévu dans `clinical_focus`. Ne pas modifier le dossier ou le plan en cours de rédaction ; signaler un problème au pilote.\n\nÉcrire uniquement `editorial/clinical/<id>.json`. Conserver tout épisode déjà sauvegardé après une interruption. Vérifier l’existence du manuscrit et relire ses raccords avant d’ajouter la suite. Sauvegarder chaque épisode complet puis exécuter `checkpoint` avec la mission et son jeton. Le fichier contient `character_id`, `bio`, `profile_topics`, `episodes` ; le brief donne les champs exacts de chaque épisode.\n\nTrame obligatoire, format 2 :\n\n1. Scène d’ouverture d’au moins 180 mots, sans intertitre, illustrant l’aspect précis de l’épisode.\n2. Introduction pédagogique autonome de 40 à 90 mots dans `clinical_intro`, distincte de l’explication développée dans l’article.\n3. Section `explanation` développant le mécanisme (au moins 25 mots).\n4. Section `manifestations`, titre « Comment … ? », trois points comprenant chacun un intertitre, une explication et deux exemples concrets.\n5. Section `strategies`, titre « 3 techniques pour … », trois points comprenant chacun un objectif, un exercice en trois actions et un bénéfice possible.\n6. Retour à la scène avec `ending_title` et `ending` ; une décision et sa conséquence réelle, sans guérison artificielle.\n7. `conclusion` d’au moins 25 mots, affichée après le séparateur.\n8. `mirror` : un ou deux paragraphes de 40 à 160 mots pour « Du côté des proches », ancrés dans la scène avec un geste ou une parole possible.\n\nAu moins 550 mots au total, trois repères d’épisode, titre centré sur le sujet et non sur le prénom, description de 155 caractères maximum, au moins deux références autorisées dont la source primaire. Documenter `continuity.choice` et `continuity.next` après chaque épisode. Les références restent dans les champs éditoriaux : aucune bibliographie publique dans le récit.\n\nLes aides du quotidien ne remplacent pas un soin. Aucun seuil d’autodiagnostic, posologie, exercice dangereux, exposition imposée, récompense pour parler, souvenir forcé, réconciliation obligatoire ou promesse de guérison. Respecter les relais professionnels et les procédures réelles de sécurité. Les proches ne deviennent ni diagnosticiens ni thérapeutes. La fiction décrit une présentation individuelle et ne transforme pas une hypothèse en mécanisme scientifique reconnu.\n\nRelire les raccords, les décisions, les douze aspects et la fin de l’enjeu de série. Exécuter `clinical_agent_contracts.py story <id>` puis `editorial_pipeline.py finish`. Le manuscrit passe alors à un relecteur indépendant. Ne pas écrire son propre rapport de relecture, intégrer, committer ou publier. En cas de retour, corriger les épisodes concernés, puis demander une nouvelle relecture complète liée aux nouvelles empreintes.\n",
+        "inputs": {
+          "data/clinical_catalog.json": "ea545ea8ad5aaa94b2b2e45e2816cde36bc101dc205b0da50e9303a12015cefa",
+          "data/clinical_sources.json": "fdaee525b573758c9f0f33cb52b62bfb2f077402336475a6f859762fea48e6e6",
+          "editorial/clinical/additional_characters.json": "8834d18f0c86a439357f6f776429d57b23c4acab8b88b5c55d1c3dacd651ada3",
+          "editorial/clinical/charter.md": "8032bcae9a54b787febdbc3a99e8811893663c9f93dc323b0108e07c3849cb0b",
+          "editorial/automation/policy.json": "883ae80b4685fbc1365af6494b693358da050e2266554992f11d12dcbde6c1d0",
+          "scripts/clinical_editorial.py": "f1fc7eb80b0eca35fad58925b323b5dee69bc738d3df031a41e465a64e3342d3",
+          "editorial/automation/legacy-publications.json": "974d070654ecad7d2408ecfe893a767fa97352922acca107b768b63a31277ceb",
+          "scripts/clinical_agent_contracts.py": "2deec8afbd14289192fa3b86edf5e6529e1690c2daecbce4d6798d826d5f1774",
+          "editorial/agents/stories.md": "7725d5f492253cfcee95427c76114fe739c83204e8c7187959309b72da39eece",
+          "editorial/clinical/designs/felix.json": "dd7fd709767aa366b0e4eb81c4e1613ee63719aa8a1326bbd566677fa2403d70",
+          "editorial/clinical/dossiers/felix.json": "4cf04d01aa8608950159bb24ffb4b363fe3de5cbe9a2392681240db3163ec513"
+        },
+        "data": {
+          "clinical_brief": {
+            "agent_id": "redaction-felix",
+            "character": {
+              "id": "felix",
+              "name": "Félix",
+              "code": "6C01",
+              "related_codes": [
+                "6C01.0",
+                "6C01.1"
+              ],
+              "wave": 16,
+              "diagnosis": {
+                "timing": "established",
+                "episode": null
+              },
+              "canon": {
+                "age": 9,
+                "setting": "Se passionne pour les cartes. La classe prépare une sortie à pied.",
+                "independent_goal": "Choisir le rôle de lecteur de carte qu'il souhaite prendre.",
+                "tension": "Se retire quand on parle des passages aux toilettes comme d'un problème de discipline.",
+                "supports": "Pédiatre, parent et animateur scolaire choisi.",
+                "trajectory": "Des adultes mettent en place un accès prévisible et discret. Félix reprend un rôle qui lui tient à cœur.",
+                "guardrail": "Ne pas traiter les accidents comme des choix. L'évaluation de la constipation et des autres causes relève des soignants.",
+                "occupation": "élève"
+              },
+              "sources": [
+                "https://icd.who.int/browse/2026-01/mms/fr#313374467",
+                "https://www.who.int/publications/i/item/9789240077263"
+              ],
+              "research_status": "prise_en_charge_a_documenter"
+            },
+            "direction": "Félix, élève de 9 ans, aime les cartes, les noms de rues bizarres et les flèches qui pointent exactement au bon endroit. Sa classe prépare une sortie à pied jusqu’au jardin du moulin. Il veut choisir son rôle de lecteur de carte ; il ne devient ni responsable de la sécurité du trajet ni surveillant des toilettes. Son encoprésie est diagnostiquée avant la série, avec constipation évaluée et prise en charge déjà suivie ; les accidents racontés sont involontaires. Son père, Samuel, et la pédiatre, docteure Vignal, assurent les échanges de santé. Félix choisit Lila, animatrice scolaire, comme interlocutrice pratique ; la maîtresse, madame Perrin, reste responsable avec l’équipe de la sortie. Noé, camarade de carte, garde ses propres idées et ne surveille rien. Un plan plié en quatre suit l’histoire : trajet au crayon, légende, pont, repères vérifiés, carte collective puis segment choisi. Les affaires de rechange et informations médicales restent séparées de la carte publique. Plusieurs semaines permettent consultations et essais sans guérison accélérée. La sortie finale a lieu après organisation effective et vérification des adultes ; Félix lit du portail au petit pont, puis transmet la carte à Noé. Le suivi continue. Sa phrase récurrente, sans devenir slogan thérapeutique : une carte doit aussi montrer où on peut s’arrêter.",
+            "dossier": {
+              "name": "Encoprésie",
+              "aliases": [
+                "6C01",
+                "6C01.0",
+                "6C01.1",
+                "Encopresis"
+              ],
+              "references": [
+                "oms-cddr",
+                "oms-mms-6c01",
+                "oms-cddr-hrb",
+                "nice-cg99",
+                "nhs-soiling",
+                "niddk-constipation"
+              ],
+              "points": [
+                "Vérification individuelle du 9 novembre 2026 : PDF original OMS obtenu au dépôt HRB et pages imprimées 424–427 intégralement lues ; PDF officiel NICE CG99 téléchargé malgré le refus 403 du navigateur et sections 1.1, 1.4.10–11, 1.5.1–2 et 1.8.1–3 lues. Pages institutionnelles NHS et NIDDK consultées. Le lien MMS français est celui du canon, sans prétendre avoir extrait son contenu dynamique. Paraphrases françaises de travail, pas traduction officielle.",
+                "OMS CDDR 6C01 p.424–427 : émissions répétées et persistantes après l’âge développemental attendu ; exclusion des effets médicamenteux et causes médicales explicatives. Le diagnostic de Félix est déjà établi avant la série. Aucun seuil chiffré ni questionnaire ne devient un outil d’autodiagnostic. Un accident isolé ne définit pas le trouble.",
+                "Formes et mécanismes, CDDR p.425 : avec constipation/débordement, rétention et impaction ; sans constipation/débordement, pas ce mécanisme. Les accidents sont le plus souvent involontaires, mais les CDDR ne disent pas toujours. Pour Félix, direction narrative explicite : constipation évaluée et accidents involontaires. Ne pas déduire un comportement intentionnel, une opposition ou une cause psychologique de la forme sans rétention ; ne pas lui faire alterner les sous-types pour couvrir les codes.",
+                "Douleur et rétention : CDDR p.425, NICE introduction et NIDDK Causes. Éviter une selle douloureuse peut entretenir la constipation. Un comportement de retenue ne signifie pas choisir la fuite ultérieure. La peur des toilettes publiques peut participer à l’évitement ; aucune phobie ni anxiété sociale n’est diagnostiquée dans la fiction.",
+                "Débordement et perception : NHS Causes of soiling et NICE tableau 1. Des selles passent autour d’une accumulation et peuvent être prises pour une diarrhée ; l’enfant peut ne pas percevoir la fuite. Ne pas attribuer toute selle molle à un débordement, ni conseiller un antidiarrhéique, ni promettre qu’une meilleure attention au corps suffira. La présentation précise appartient à l’évaluation médicale.",
+                "Bilan et sécurité : CDDR p.424,427 ; NICE 1.1.2–7 ; NIDDK When should my child see a doctor. Un diagnostic connu ne dispense pas d’évaluer un changement. Si douleurs abdominales continues, vomissements avec ventre gonflé ou symptômes neurologiques nouveaux surviennent, demander une évaluation médicale urgente, sans attendre la sortie. Aucun de ces signes n’est nécessaire à l’intrigue ; ne pas les inventer comme simple obstacle scolaire. Pas d’examen rectal décrit au lecteur, de purge, de lavement ou d’intervention manuelle.",
+                "Accompagnement : NICE CG99 1.4.10–11, 1.5.1–2 et 1.8.1–3. Réévaluation et soutien des routines individualisés, interventions négociées non punitives ; l’alimentation seule ne remplace pas la prise en charge. Aucun nom, dose, calendrier de médicament ou décision d’arrêt dans la série. Le parent suit le plan établi avec le pédiatre, lui transmet les changements et demande comment continuer. Ne pas recopier un horaire de toilettes universel ; pas d’assise forcée, d’effort de poussée ou de récompense conditionnée à une journée sans accident.",
+                "Retentissement et évolution : CDDR p.426, NICE introduction et NHS Treatment. Honte, moqueries, retrait social et rechutes possibles ; durée variable. Un succès scolaire n’est pas un critère de guérison. La colère ou la lassitude parentale reçoit du soutien, pas une justification des reproches. Les accidents ne sont ni un défaut de propreté morale ni un échec d’effort.",
+                "Portée des sources : recommandations britanniques de constipation idiopathique, information publique américaine sur la constipation ; elles ne sont ni règles juridiques françaises ni protocole de l’encoprésie sans constipation. Les adaptations scolaires de la fiction (signal discret, adulte relais, accès vérifié, affaires de rechange) sont des arrangements concertés à partir des besoins, sans efficacité thérapeutique démontrée ni statut administratif inventé.",
+                "Architecture : 1 perception tardive, 2 douleur/retenue, 3 débordement, 4 réévaluation clinique, 5 accès aux toilettes, 6 honte devant les pairs, 7 attribution disciplinaire, 8 continuité du soin et routines, 9 charge parentale, 10 évolution fluctuante, 11 anticipation sociale, 12 participation choisie. Les enjeux sociaux et organisationnels ne sont pas de nouveaux symptômes. Dans chaque épisode, trois appuis concrets adaptés au destinataire, jamais douze recettes pour guérir."
+              ]
+            },
+            "references": {
+              "oms-cddr": {
+                "title": "OMS, descriptions cliniques de la CIM-11",
+                "url": "https://www.who.int/publications/i/item/9789240077263"
+              },
+              "oms-mms-6c01": {
+                "title": "OMS, CIM-11 MMS 2026-01, 6C01, Encoprésie (lien canonique)",
+                "url": "https://icd.who.int/browse/2026-01/mms/fr#313374467"
+              },
+              "oms-cddr-hrb": {
+                "title": "OMS, CDDR 2024, ISBN 9789240077263, pages imprimées 424–427 ; document original, dépôt HRB",
+                "url": "https://www.drugsandalcohol.ie/41519/1/WHO_Clinical_descriptions_and_diagnostic_requirements_ICD-11.pdf"
+              },
+              "nice-cg99": {
+                "title": "NICE CG99, Constipation in children and young people, recommandations 1.1, 1.4, 1.5 et 1.8, 2010, actualisées 2017",
+                "url": "https://www.nice.org.uk/guidance/cg99/resources/constipation-in-children-and-young-people-diagnosis-and-management-pdf-975757753285"
+              },
+              "nhs-soiling": {
+                "title": "NHS, Soiling (child pooing their pants), revue du 22 novembre 2023, causes, urgence, traitement et soutien",
+                "url": "https://www.nhs.uk/symptoms/soiling-child-pooing-their-pants/"
+              },
+              "niddk-constipation": {
+                "title": "NIDDK, Symptoms & Causes of Constipation in Children, symptômes, causes et recours médical",
+                "url": "https://www.niddk.nih.gov/health-information/digestive-diseases/constipation-children/symptoms-causes"
+              }
+            },
+            "charter": "# Charte de rédaction des parcours cliniques\n\nÉcrire en français pour des lecteurs sans formation clinique. Choisir pour chaque épisode un aspect du trouble qui se distingue des onze autres et que la scène permet de comprendre. Cet aspect peut être une manifestation, un mécanisme, un retentissement ou une particularité de l’évolution. Relier le titre, le résumé, l’explication et le dénouement à cet aspect. Une activité, une décision ou un rendez-vous fournit le cadre où il devient perceptible.\n\nSuivre le déroulé de l’[article de Youssef sur l’alexithymie en couple](../../content/posts/comprendre-et-maitriser-ses-emotions/alexithymie-en-couple.md).\n\n1. Ouvrir sur une scène d’au moins 180 mots, sans intertitre. Montrer ce que la difficulté change pour le personnage dans cette situation.\n2. Expliquer l’aspect et son lien avec le trouble dans une section dédiée. Partir d’une phrase générale autonome, puis revenir à ce qui se joue dans la scène.\n3. Montrer comment l’aspect se manifeste. Sous « Comment … ? », développer trois sous-parties avec une explication et deux exemples concrets chacune. Situer ce que l’on observe dans chaque exemple.\n4. Proposer trois techniques numérotées. Donner pour chacune un objectif, un exercice pratique en trois étapes et une explication de son utilité possible. Adapter les étapes au contexte et au niveau de risque, en incluant le recours à un professionnel lorsque nécessaire.\n5. Revenir à l’histoire sous un intertitre tiré de la scène. Montrer un essai ou une décision, sa conséquence et l’incertitude qui reste. Les difficultés peuvent revenir après un essai qui a fonctionné ailleurs.\n6. Conclure après un séparateur. Résumer ce que cet épisode permet de comprendre et inscrire le dénouement dans le parcours du personnage.\n7. Terminer par « Du côté des proches ». Relier leur point de vue à ce que la scène a montré.\n\nRespecter les faits du canon et la chronologie du diagnostic. Si l’évaluation est en cours, faire comprendre les difficultés sans annoncer le résultat à la place du professionnel. Un diagnostic connu entre dans le récit quand il aide à situer l’expérience. La personne conserve un métier ou un projet, des relations, des ressources, des préférences et le droit de ne pas tout partager.\n\nFonder chaque affirmation clinique sur les points vérifiés du dossier de sources. Renseigner les références dans le dossier et les champs éditoriaux de chaque épisode. Distinguer récit, vécu et description générale du trouble. Les articles ne donnent ni critères permettant de conclure sur soi ou un tiers, ni posologies, ni gestes dangereux, ni promesses de guérison. Une scène de fiction ne représente qu’une présentation possible. Proposer des adaptations discutées avec la personne et situer le recours aux professionnels quand le besoin est clinique ou urgent.\n\nDans « Du côté des proches », partir d’un geste, d’une parole ou d’un besoin visible dans la scène. Donner une réponse concrète que le proche pourrait essayer, dans des mots qu’il pourrait dire. Respecter son périmètre et la possibilité de se retirer ou de passer le relais. Aucun proche ne doit jouer au diagnosticien ou imposer un soin. Dans les situations d’emprise ou de danger, favoriser la sécurité et un appui spécialisé.\n\nRelecture par vague. Relire les douze ouvertures et leurs fins dans l’ordre, puis vérifier les faits cliniques et les propositions aux proches, chaque fois avec le dossier de sources. Annoter les erreurs et les choix qui ont fonctionné. Inscrire les leçons réutilisables dans la charte avant de générer le lot suivant. Une validation de structure ou une relecture par un modèle laisse ouverte la vérification éditoriale des faits et de leur contexte.\n\nLe lot pilote a montré que le premier intertitre explicatif peut varier. Commencer cette section par une phrase générale autonome que le site peut reprendre. Donner à la scène finale un titre tiré de son geste ou de sa décision. Distinguer un signe à discuter d’un épisode ou d’un diagnostic établi. Maintenir les procédures de sécurité réelles et le rôle des soignants, même lorsque le personnage essaie une façon différente de répondre à sa difficulté.\n\nLa deuxième vague distingue l’accord de la personne pour partager ses informations et les démarches de sécurité qui s’appliquent à la situation. Montrer dans le récit qui prévient le service compétent et quand, sans reporter cette action au conseil pour les proches. Pour une règle de métier, utiliser une source du domaine en plus du guide clinique. Le miroir reste ancré dans la scène et conserve sa limite de sécurité jusqu’à la dernière phrase.\n\nLa troisième vague vérifie que le trouble a un effet perceptible dans la vie du personnage dès les deux premières scènes. Montrer ce vécu sans inventaire de signes, description de pratiques dangereuses ou explication totale de sa personnalité. Suivre séparément les questions de santé et les décisions du quotidien. Reprendre les objets, lieux et engagements déjà nommés et fermer les questions concrètes dont la résolution est nécessaire à la scène suivante.\n\nAvant d’écrire, l’agent dédié au personnage fixe une direction dans son dossier. Il y précise ce qui distingue sa voix, son projet et son entourage, les faits cliniques qu’il mettra en scène et les interprétations à écarter. À la fin de chaque épisode, il inscrit la décision prise et ce qu’elle change pour la suite. Au dernier épisode, il résout l’enjeu de la série et garde la perspective du personnage au-delà de cette décision. La relecture reprend les douze scènes dans l’ordre et vérifie les conseils adressés aux proches en regard de chaque scène.\n\nLa quatrième vague distingue les repères du premier diagnostic et ceux des épisodes ultérieurs. Quand une situation urgente se présente, vérifier que son origine n’est pas présumée à partir du diagnostic connu. La première section s’ouvre sur une phrase générale qui fonctionne seule. Les détails de la scène viennent ensuite, après le passage que le site peut reprendre en introduction.\n\nLes histoires d’origine donnent la direction. Le titre commence par le sujet de l’article, une difficulté, une émotion ou un mécanisme réel dans une situation concrète. Le prénom figure séparément au-dessus du titre. Dans la présentation, nommer le trouble documenté et ce qu’il change pour ce personnage. Le premier mot-clé reprend son intitulé et les quatre autres indiquent des manifestations ou enjeux qui reviennent dans plusieurs épisodes. La fiche peut annoncer un diagnostic que le personnage découvre plus tard dans l’histoire.\n\nDans le résumé de la fiche et de la carte, relier une réaction de la scène à l’aspect abordé. Dans un récit d’enfance, vérifier l’apport de cette période pour comprendre le trouble et ouvrir sur d’autres contextes lorsque les sources l’appuient. Lors de la relecture, nommer l’aspect illustré dans chaque épisode, puis retrouver le moment où il devient visible et vérifier que les exemples et les techniques restent centrés sur lui. Renseigner les références dans le manuscrit et le dossier éditorial, sans bibliographie dans le fil de l’article.\n\nLa huitième vague vérifie qui peut savoir quoi, à quel moment et avec quel accord. En cas de changement préoccupant, distinguer le fait observable, ce qu’en dit le personnage, la réponse d’un proche et l’évaluation de l’équipe de soins. Faire apparaître le relais dans la scène où il se produit et en reprendre les conséquences dans la suivante.\n\nLa reprise suivante distingue le résumé affiché avant le récit et l’explication qui vient après. Éviter de recopier le résumé mot pour mot dans cette explication : celle-ci développe le mécanisme et le contraste rendu visible par la scène. Pour les articles d’origine, relire les manifestations et les exercices eux-mêmes ; trois intertitres ou une étiquette ne prouvent pas que les exemples, l’objectif, les trois actions et l’utilité sont présents. Une prose déjà complète peut être conservée. Garder une preuve de lecture liée à l’empreinte du corps et une seconde relecture des passages sensibles.\n",
+            "files": {
+              "manuscript": "editorial/clinical/felix.json",
+              "dossier": "editorial/clinical/dossiers/felix.json"
+            },
+            "manifest_fields": [
+              "character_id",
+              "bio",
+              "profile_topics",
+              "episodes"
+            ],
+            "profile_topics_count": 5,
+            "episode_fields": [
+              "number",
+              "slug",
+              "title",
+              "description",
+              "context",
+              "topics",
+              "clinical_focus",
+              "clinical_intro",
+              "opening",
+              "sections",
+              "ending_title",
+              "ending",
+              "mirror",
+              "sources",
+              "continuity",
+              "conclusion"
+            ],
+            "sections": {
+              "explanation": {
+                "fields": [
+                  "heading",
+                  "text"
+                ]
+              },
+              "manifestations": {
+                "fields": [
+                  "heading",
+                  "points"
+                ],
+                "count": 3,
+                "point_fields": [
+                  "heading",
+                  "text",
+                  "examples"
+                ],
+                "examples_count": 2
+              },
+              "strategies": {
+                "fields": [
+                  "heading",
+                  "points"
+                ],
+                "count": 3,
+                "point_fields": [
+                  "heading",
+                  "objective",
+                  "exercise",
+                  "benefit"
+                ],
+                "exercise_count": 3
+              }
+            },
+            "total_episodes": 12,
+            "continuity": [],
+            "ready_to_draft": true,
+            "instruction": "Rédiger les épisodes dans l’ordre et consigner les choix à reprendre."
+          },
+          "findings": [],
+          "existing_manuscript": null,
+          "design": {
+            "schema_version": 1,
+            "character_id": "felix",
+            "code": "6C01",
+            "article_format": 2,
+            "bio": "Félix, 9 ans, est élève et se passionne pour les cartes. Son Encoprésie est déjà diagnostiquée ; les accidents involontaires, associés chez lui à une constipation évaluée, compliquent sa participation à l’école. Quand les passages aux toilettes deviennent une question de discipline, il se retire. Sa classe prépare une sortie à pied et il veut choisir son rôle de lecteur de carte. Avec son parent, sa pédiatre et l’animatrice scolaire qu’il a choisie, il retrouve des possibilités concrètes sans devoir prouver qu’aucun accident ne surviendra.",
+            "profile_topics": [
+              "Encoprésie",
+              "constipation et débordement",
+              "accidents involontaires",
+              "intimité et honte",
+              "participation scolaire"
+            ],
+            "voice": "Félix parle de flèches, de ponts et de chemins qui ont besoin de place. Il corrige un symbole trop gros et sourit aux noms de rues absurdes. Il peut dire je ne veux pas expliquer, sans exposé médical ni métaphore du corps cassé. Sa précision cartographique est un goût, pas un symptôme.",
+            "series_goal": "Choisir puis tenir un rôle de lecteur de carte dans la sortie à pied au jardin du moulin, avec le droit de le limiter et de passer le relais ; les soins se poursuivent indépendamment.",
+            "continuity_rules": [
+              "Félix reste élève de 9 ans, diagnostic établi avant le début : known dans les douze épisodes. Présentation avec constipation évaluée et accidents involontaires, sans alternance opportuniste avec la forme sans rétention. Les codes apparentés sont expliqués au dossier et ne valent pas deux parcours fictifs.",
+              "Samuel est son père ; la docteure Vignal est pédiatre ; Lila est l’animatrice scolaire choisie ; madame Perrin est la maîtresse ; Noé est un camarade. Seuls les adultes organisent sécurité, accès, aide et transmissions. Ne pas attribuer de diagnostic associé ni inventer de règle juridique scolaire.",
+              "Conserver le plan plié en quatre, trajet au crayon, petit pont, légende en arc choisie avec Noé, copie plastifiée puis segment du portail au pont. Le carnet médical et le sac discret restent séparés de la carte collective.",
+              "Les épisodes 3 et 4 prolongent le même rendez-vous sans nouvelle annonce diagnostique. Le changement de l’épisode 10 est transmis au cabinet, et l’épisode 11 ne reprend qu’après ce point et selon la situation. Une aggravation n’est jamais automatiquement psychologique.",
+              "Aucune posologie, purge, technique rectale, consigne de poussée, assise forcée, restriction ou défi de retenue. Les trois appuis proposés dans chaque futur article relèvent de communication, organisation ou recours médical et ne remplacent pas le traitement individualisé.",
+              "Ne pas conditionner la place de lecteur à une journée sans accident ; aucune humiliation sensorielle détaillée, punition ou preuve de propreté. Conserver l’intimité et la possibilité de demander de l’aide même si le signal convenu n’a pas été utilisé.",
+              "La dernière scène accomplit le choix de lire du portail au pont puis de passer la carte à Noé ; le suivi et les appuis demeurent. Ni absence de fuite ni réussite scolaire ne certifient une guérison."
+            ],
+            "episodes": [
+              {
+                "number": 1,
+                "focus": "Une fuite perçue trop tard",
+                "scene": "À la table où la classe prépare sa sortie, Félix trace le jardin du moulin. Il découvre un accident dans ses vêtements alors qu’il n’avait pas senti qu’il devait s’arrêter. Il referme son plan. Lila, l’animatrice qu’il a choisie avec son père comme interlocutrice, lui permet de rejoindre discrètement le lieu prévu pour se changer ; la classe reste encadrée par madame Perrin.",
+                "development": "Manifestation : perception absente ou tardive possible dans cette présentation avec constipation déjà évaluée. Trois dimensions : surprise, difficulté à demander de l’aide, tâche interrompue. Trois appuis : réponse privée sans interrogatoire ; accès effectif à l’aide matérielle convenue ; possibilité de reprendre le dessin après. Ne pas promettre que repérer un signal empêchera toute fuite. Le diagnostic précède le récit ; l’accident ne sert pas à le poser.",
+                "ending": "Félix revient avec ses affaires prises en charge discrètement. Il laisse le trajet au crayon et emporte le plan plié en quatre pour le terminer avec son père.",
+                "next": "À la maison, le plan reste sur la table ; Félix parlera de ce qui lui fait retarder certains passages aux toilettes.",
+                "source_refs": [
+                  "oms-cddr",
+                  "nice-cg99",
+                  "nhs-soiling"
+                ],
+                "diagnostic_stage": "known"
+              },
+              {
+                "number": 2,
+                "focus": "La douleur entretient la retenue",
+                "scene": "Chez lui, Félix et Samuel cherchent le petit pont sur la carte. Félix se raidit puis dit qu’il préfère attendre pour aller aux toilettes : il se souvient d’une selle douloureuse. Samuel cesse de lui demander de finir la légende et écoute ce qu’il craint.",
+                "development": "Mécanisme : éviter une défécation douloureuse peut entretenir la rétention, sans volonté de produire un accident. Distinguer mémoire de douleur, report et inquiétude parentale. Trois appuis : accueillir ses mots sans le forcer à raconter ; préserver l’accès et l’intimité ; transmettre la douleur au pédiatre selon le suivi en place, sans ajustement de traitement maison. Pas de consigne de pousser, de massage ni de durée d’assise.",
+                "ending": "Samuel contacte le cabinet pour signaler les douleurs et organiser le point de suivi ; il suit les indications données. Félix ajoute le pont à son plan après une pause, sans que le récit garantisse une selle ou la fin de la peur.",
+                "next": "Le rendez-vous est organisé ; une fuite d’aspect inhabituel amènera une question précise sur le débordement.",
+                "source_refs": [
+                  "oms-cddr",
+                  "nice-cg99",
+                  "niddk-constipation"
+                ],
+                "diagnostic_stage": "known"
+              },
+              {
+                "number": 3,
+                "focus": "Comprendre le débordement",
+                "scene": "Avant le rendez-vous, Samuel remarque une nouvelle fuite plus molle et se demande si Félix a maintenant une diarrhée. Au cabinet, il décrit ce changement sans conclure. La docteure Vignal réévalue la situation et explique le mécanisme de débordement retenu pour Félix. Le plan plié attend dans la poche de son manteau.",
+                "development": "Mécanisme distinct de la perception : des fuites peuvent accompagner une accumulation de selles, sans que l’aspect mou exclue une constipation. Trois dimensions : apparence trompeuse, explication professionnelle, limite des déductions domestiques. Trois appuis : décrire plutôt qu’étiqueter ; demander à la pédiatre de reformuler ; garder les décisions de traitement dans le suivi. Expliquer simplement sans métaphore de saleté ou de plomberie cassée. Rappeler ailleurs dans l’explication que toutes les formes d’encoprésie ne relèvent pas de la rétention.",
+                "ending": "Félix demande si cela veut dire qu’il l’a fait exprès. La pédiatre répond sur ses accidents involontaires ; Samuel conserve les consignes individualisées. Félix sort enfin le plan pour demander comment préparer la sortie.",
+                "next": "La consultation se poursuit sur ce qui doit être décrit au suivi, avant que les adultes organisent les aspects scolaires.",
+                "source_refs": [
+                  "oms-cddr",
+                  "nice-cg99",
+                  "nhs-soiling"
+                ],
+                "diagnostic_stage": "known"
+              },
+              {
+                "number": 4,
+                "focus": "Le diagnostic ne remplace pas le bilan",
+                "scene": "Dans la suite du même rendez-vous, Samuel voudrait attribuer tous les maux de ventre au trouble connu. La pédiatre reprend l’histoire récente, les traitements suivis et son évaluation clinique. Félix peut parler de la douleur sans qu’elle soit ramenée à sa peur de la sortie ; il choisit de laisser sa carte sur le bureau pendant l’échange.",
+                "development": "Enjeu de diagnostic différentiel : l’encoprésie ne dispense pas d’évaluer les autres causes médicales ou effets médicamenteux. Trois dimensions : faits observés, interprétation adulte, décision professionnelle. Trois appuis : préparer une description courte ; demander ce qui nécessite de recontacter le cabinet ; organiser un interlocuteur de suivi. Aucun nouvel examen systématique, maladie inventée ou liste de critères à cocher. Le médecin ne donne pas une garantie définitive valable pour tout symptôme futur.",
+                "ending": "La docteure Vignal garde une prise en charge individualisée et convient avec Samuel des suites du suivi. Ils déterminent quelles informations pratiques communiquer à Lila, avec Félix associé à la discussion, sans transmettre tout le dossier scolaire.",
+                "next": "Les besoins pratiques sont clarifiés ; Lila et l’équipe doivent vérifier les toilettes effectivement accessibles.",
+                "source_refs": [
+                  "oms-cddr",
+                  "nice-cg99",
+                  "niddk-constipation"
+                ],
+                "diagnostic_stage": "known"
+              },
+              {
+                "number": 5,
+                "focus": "L’accès aux toilettes change la situation",
+                "scene": "À l’école, Lila accompagne Félix pour vérifier l’organisation convenue. Il lui montre une porte dont le verrou le gêne et explique qu’il n’ose pas sortir quand il faut demander devant tout le monde. Lila ne le fait pas essayer devant d’autres enfants. Madame Perrin organise avec elle un accès adapté et réellement disponible.",
+                "development": "Facteur contextuel : les obstacles et l’appréhension des toilettes peuvent contribuer au report, sans tout expliquer ni constituer une phobie diagnostiquée. Trois dimensions : accès matériel, demande audible par tous, crainte de déranger. Trois appuis : vérifier le lieu avec les adultes responsables ; convenir d’un moyen discret de demander sans en faire une condition absolue ; prévoir un relais si Lila est absente. Aucun conseil de se retenir jusqu’à une pause prévue.",
+                "ending": "Félix choisit une phrase courte pour Lila. Les adultes confirment le lieu et le relais ; sur la carte collective il ajoute seulement les repères ordinaires, sans annotation de santé.",
+                "next": "La carte peut être travaillée avec Noé ; Félix reste inquiet de ce que les autres ont remarqué.",
+                "source_refs": [
+                  "oms-cddr",
+                  "nice-cg99",
+                  "nhs-soiling"
+                ],
+                "diagnostic_stage": "known"
+              },
+              {
+                "number": 6,
+                "focus": "La honte réduit la place parmi les autres",
+                "scene": "Noé rejoint Félix pour dessiner la légende. Un camarade fait une remarque sur son absence précédente. Sans récit humiliant d’odeur ou de vêtements, la scène montre Félix cacher sa carte et renoncer à expliquer le pont. Lila interrompt les commentaires personnels et rétablit le travail du groupe.",
+                "development": "Retentissement : peur des moqueries, dissimulation et retrait social, distincts du fonctionnement intestinal. Trois appuis : adulte qui stoppe la remarque ; réponse préservant la vie privée sans mensonge imposé ; choix de reprendre la tâche seul ou avec Noé. Pas de révélation diagnostique pour obtenir l’indulgence et pas d’amitié utilisée comme soin.",
+                "ending": "Félix reprend avec Noé le symbole du petit pont. Noé préfère deux traits, Félix un arc ; ils gardent l’arc. Il n’a pas à raconter pourquoi il était sorti.",
+                "next": "Le symbole est prêt pour la réunion de préparation, où une remarque adulte sur la discipline provoquera un autre retrait.",
+                "source_refs": [
+                  "oms-cddr",
+                  "nice-cg99"
+                ],
+                "diagnostic_stage": "known"
+              },
+              {
+                "number": 7,
+                "focus": "Quand l’accident devient un reproche",
+                "scene": "Pendant la préparation de la marche, un adulte dit au groupe que chacun devra apprendre à attendre les pauses. Félix replie immédiatement la carte et retire son nom de la liste des lecteurs. Madame Perrin corrige la consigne : les besoins individuels seront pris en compte avec les adultes, sans exposer son diagnostic.",
+                "development": "Enjeu distinct des moqueries entre pairs : attribution disciplinaire et règles qui empêchent la demande d’aide. Montrer règle générale inadéquate, retrait du rôle et réparation adulte. Trois appuis : corriger la consigne publiquement sans désigner Félix ; revoir les dispositions entre adultes concernés ; lui rendre une possibilité de choisir plus tard. Les accidents de Félix ne sont pas des choix et aucun rôle ne se mérite par une absence de fuite.",
+                "ending": "Madame Perrin garde une place ouverte sur la liste. Félix accepte de conserver le plan à préparer, mais ne choisit pas encore son rôle.",
+                "next": "La place reste disponible ; le suivi à la maison et les routines ne doivent pas devenir un nouvel examen de bonne conduite.",
+                "source_refs": [
+                  "oms-cddr",
+                  "nice-cg99"
+                ],
+                "diagnostic_stage": "known"
+              },
+              {
+                "number": 8,
+                "focus": "Des soins réguliers sans épreuve de réussite",
+                "scene": "À la maison, Samuel prépare les observations demandées par la pédiatre. Félix regarde les cases du carnet et croit qu’une journée sans accident lui permettra de récupérer sa place de lecteur. Samuel comprend le malentendu ; la carte de sortie n’a rien à faire dans le carnet médical.",
+                "development": "Accompagnement : suivi de la constipation et routines négociées, distincts d’un contrat de continence. Trois dimensions : notes utiles au soignant, interprétation comme score, séparation santé/projet. Trois appuis : expliquer à quoi servent les notes et qui les lit ; discuter au suivi des difficultés de routine sans punition ; garder le projet scolaire accessible. Le plan médical continue selon la pédiatre, sans médicament nommé ni schéma universel de toilettes, alimentation ou hydratation.",
+                "ending": "Le carnet de suivi est rangé avec les documents du cabinet. Félix et Samuel plastifient une copie de la carte pour les essais de marche ; le rôle reste ouvert même après une journée difficile.",
+                "next": "La copie plastifiée est prête ; Samuel doit aussi faire entendre la charge quotidienne sans la faire porter à Félix.",
+                "source_refs": [
+                  "oms-cddr",
+                  "nice-cg99"
+                ],
+                "diagnostic_stage": "known"
+              },
+              {
+                "number": 9,
+                "focus": "La fatigue parentale demande un relais",
+                "scene": "Samuel prépare le sac discret prévu avec l’école et cherche encore les affaires de rechange. Pressé, il soupire ; Félix pousse la copie de carte vers lui et propose de ne pas faire la sortie. Samuel s’arrête et précise que sa fatigue n’est pas une raison pour lui retirer ce projet.",
+                "development": "Retentissement familial : logistique, vigilance et lassitude, pas symptôme supplémentaire ni faute de l’enfant. Trois appuis : réponse immédiate réparant le soupir ; échange séparé avec les professionnels sur la charge ; répartition pratique réaliste avec l’école. Pas de délégation à Noé, pas de nettoyage humiliant imposé, pas d’éloge de l’enfant qui supporterait tout seul.",
+                "ending": "Samuel échange avec Lila sur le rangement du sac et le relais prévu, et avec le cabinet sur ses difficultés de suivi. Félix garde sa carte. Les responsabilités adultes sont clarifiées avant le repérage.",
+                "next": "Le sac et le relais sont organisés ; une amélioration passagère ne doit pas conduire à les supprimer.",
+                "source_refs": [
+                  "oms-cddr",
+                  "nice-cg99"
+                ],
+                "diagnostic_stage": "known"
+              },
+              {
+                "number": 10,
+                "focus": "Les fluctuations ne sont pas un verdict",
+                "scene": "Après plusieurs journées plus faciles, Félix prépare la carte pour une marche de repérage avec son père. Un nouvel accident survient avant de partir. Samuel avait pensé laisser le sac de rechange à la maison ; il conserve finalement les appuis et signale la reprise des symptômes au suivi.",
+                "development": "Évolution : persistance et épisodes d’aggravation possibles, sans durée de guérison prédite. Trois dimensions : attentes après amélioration, déception après accident, maintien du suivi. Trois appuis : décrire le changement au soignant ; ne pas modifier seul le traitement ; adapter le moment de l’activité au confort et aux consignes reçues. Aucun défi pour prouver la guérison, ni accident attribué automatiquement au stress.",
+                "ending": "Ils reportent le petit repérage à un moment compatible avec le confort de Félix et les consignes du cabinet. Le suivi est sollicité ; la sortie de classe n’est ni garantie ni annulée comme punition.",
+                "next": "Après le point médical et avec les appuis maintenus, un repérage accompagné peut se faire. Félix doit encore choisir ce qu’il souhaite tenter.",
+                "source_refs": [
+                  "oms-cddr",
+                  "nice-cg99",
+                  "nhs-soiling"
+                ],
+                "diagnostic_stage": "known"
+              },
+              {
+                "number": 11,
+                "focus": "La peur d’un accident fait renoncer",
+                "scene": "Le point avec le cabinet a eu lieu et l’organisation est maintenue. Pendant le repérage accompagné autorisé par les adultes selon la situation, Félix lit très bien la première intersection puis dit qu’il préfère que Noé fasse toute la sortie. Il redoute d’avoir besoin de s’arrêter devant la classe, même sans accident à cet instant.",
+                "development": "Retentissement anticipatoire : renoncement social pour éviter une situation redoutée, distinct de la fuite et de la phobie diagnostiquée. Trois appuis : accueillir la crainte sans promettre zéro accident ; vérifier les lieux et réponses adultes, dont une interruption possible ; proposer des rôles partiels réellement disponibles. Pas d’exposition thérapeutique improvisée et aucune obligation de sortir pour vaincre sa peur.",
+                "ending": "Félix choisit de lire du portail au petit pont ; Noé pourra prendre ensuite la carte. Les adultes vérifient et confirment l’itinéraire, l’accès prévu et les relais. Le choix peut encore être raccourci.",
+                "next": "Le segment et les relais sont décidés ; le jour venu, Félix gardera le droit de demander une pause ou de transmettre plus tôt.",
+                "source_refs": [
+                  "oms-cddr",
+                  "nice-cg99"
+                ],
+                "diagnostic_stage": "known"
+              },
+              {
+                "number": 12,
+                "focus": "Participer sans devoir prouver sa continence",
+                "scene": "Le jour de la sortie, Lila confirme discrètement à Félix qu’elle est disponible. La carte plastifiée porte le pont dessiné avec Noé. Félix prend le rôle choisi au départ ; au besoin d’une pause, il peut utiliser le dispositif prévu sans justification au groupe. Les adultes conduisent la marche et assurent toute la sécurité.",
+                "development": "Aboutissement du pouvoir de décision et de la participation, pas nouvelle manifestation. Trois dimensions : rôle limité choisi, pause compatible avec le rôle, satisfaction cartographique distincte du bilan médical. Trois appuis : respecter les options annoncées ; réaliser le relais adulte nécessaire sans surveillance par les pairs ; poursuivre le suivi après la sortie. Ne pas faire dépendre la conclusion d’une journée propre, d’un courage héroïque ou d’une guérison.",
+                "ending": "Félix conduit la lecture jusqu’au petit pont puis passe la carte à Noé, comme choisi. Il a pris sa place de lecteur sans porter la sécurité du groupe. Au retour, il propose de dessiner une carte des arbres du jardin ; Samuel poursuit les échanges avec la pédiatre.",
+                "next": "Le rôle choisi est accompli. La constipation, les accidents éventuels et les besoins de soutien restent suivis séparément ; une nouvelle envie de carte ouvre sa vie au-delà du trouble.",
+                "source_refs": [
+                  "oms-cddr",
+                  "nice-cg99"
+                ],
+                "diagnostic_stage": "known"
+              }
+            ]
+          }
+        },
+        "allowed_outputs": [
+          "editorial/clinical/felix.json"
+        ],
+        "output_baseline": {
+          "editorial/clinical/felix.json": null
+        }
+      },
+      "snapshot_sha256": "5ffc26ef5b66ae7542b94816210e267cd49cb4b6be19e68167724262a0fe738a",
+      "status": "active",
+      "token_sha256": "87c734e6e6600b7932695b2c53fbe06b44f1139b91f033f87eddc30c935c9bda",
+      "heartbeat_at": "2026-11-09T18:53:48Z",
+      "expires_at": "2026-11-09T19:23:48Z"
     }
   },
-  "updated_at": "2026-11-09T18:51:42Z"
+  "updated_at": "2026-11-09T18:53:49Z"
 }

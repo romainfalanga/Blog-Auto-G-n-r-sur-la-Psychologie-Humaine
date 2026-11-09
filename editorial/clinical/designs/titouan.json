@@ -1,0 +1,184 @@
+{
+  "schema_version": 1,
+  "character_id": "titouan",
+  "code": "6C00",
+  "article_format": 2,
+  "bio": "Titouan a 10 ans et est élève. Il aime les discussions de son club de lecture, surtout quand personne n’est d’accord sur la fin d’un livre. Son Énurésie est déjà diagnostiquée, mais la première nuit à la médiathèque lui fait craindre les commentaires des autres. Il prétend ne plus aimer le club alors qu’il voudrait y rester. Avec son parent, son médecin et la bibliothécaire qu’il choisit, il prépare un sac et une aide discrète, tout en gardant le droit de décider de sa participation.",
+  "profile_topics": [
+    "Énurésie",
+    "accidents nocturnes",
+    "honte et confidentialité",
+    "suivi médical",
+    "participation aux nuits collectives"
+  ],
+  "voice": "Titouan repère les incohérences des romans et préfère une carte au début du livre à une explication trop longue. Il dit qu’un phare sans escalier doit avoir une autre porte. Ses hésitations concernent la nuit collective ; il garde sa curiosité et son goût de discuter, sans parler comme un professionnel de santé.",
+  "series_goal": "Préparer le sac bleu et un plan discret avec Mme Dumas, puis lire Le phare sans escalier lors de la première nuit à la médiathèque. Titouan garde le choix de sa participation, y compris celui de rentrer ; le récit retient une nuit accompagnée avec accident ordinaire et retour au club, sans guérison proclamée.",
+  "continuity_rules": [
+    "Titouan reste un élève de 10 ans, diagnostic d’Énurésie établi avant l’épisode 1. Les rendez-vous sont des suivis, jamais une découverte tardive du diagnostic.",
+    "Salomé est son parent, Mme Dumas la bibliothécaire référente choisie, le médecin reste non nommé. Noé est un camarade de lecture, jamais surveillant ou responsable d’un change.",
+    "Les scènes montrent des accidents nocturnes ; ne pas ajouter de forme diurne, de constipation diagnostiquée, de traumatisme, de résultat biologique ou de sous-type primaire sans élément canonique. Les questions d’évaluation ne prouvent pas la présence de ce qu’elles recherchent.",
+    "Conserver formulaire gardé, roman fictif Le phare sans escalier, marque-page, relevé privé séparé du carnet du club, gourde et sac bleu. Les épisodes 3 et 4 sont deux moments du même rendez-vous, le 7 un point de suivi ultérieur.",
+    "Aucune restriction d’eau, rétention, punition, humiliation ou récompense pour nuit sèche. Aucun médicament ajouté. Le soin éventuel d’un lecteur reste soumis aux consignes spécifiques de son prescripteur, jamais annulées par un conseil général.",
+    "Le relevé sert au soignant, pas au classement de l’enfant. Les adaptations sociales ne sont pas des thérapies. Les trois démarches de chaque futur article comportent objectif, trois étapes et utilité possible, avec responsabilité adulte explicite.",
+    "Le plan discret de l’épisode 9 doit être réellement appliqué à l’épisode 11 ; espace de change disponible, Mme Dumas présente, Salomé joignable. La confidentialité n’empêche aucun relais médical si des signes nouveaux préoccupants apparaissent.",
+    "L’accident de l’épisode 11 n’empêche ni la contribution à la lecture ni un choix libre de rester ou de rentrer. L’épisode 12 clôt la nuit mais conserve le suivi ; ne pas présenter la participation comme une obligation d’exposition."
+  ],
+  "episodes": [
+    {
+      "number": 1,
+      "focus": "Un accident sans faute volontaire",
+      "scene": "Au matin d’une nuit mouillée, Titouan cache le formulaire de la médiathèque sous son roman et dit à Salomé que le club est devenu ennuyeux. Il voudrait pourtant lire le passage du phare avec Noé.",
+      "development": "Le diagnostic est connu ; distinguer un accident nocturne du choix d’abandonner le club. Trois appuis : accueillir sans reproche ; proposer une aide pratique privée ; séparer la question de santé de l’envie réelle de lire. Salomé prend le linge en charge sans dette morale ni nuit sèche exigée.",
+      "ending": "Il garde le formulaire et accepte de reparler de la nuit après le prochain rendez-vous prévu.",
+      "next": "Le soir, il se demande s’il suffirait de rester éveillé pour empêcher un accident.",
+      "source_refs": [
+        "oms-cddr",
+        "nice-cg111"
+      ],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 2,
+      "focus": "L’éveil nocturne ne se commande pas",
+      "scene": "Titouan garde son roman ouvert tard, persuadé qu’il doit monter la garde. Salomé remarque la lumière et lui rappelle qu’il n’a pas à passer la nuit à se surveiller.",
+      "development": "Expliquer que les mécanismes possibles ne se réduisent pas au manque d’attention, sans diagnostiquer un sommeil pathologique. Trois appuis : renoncer ensemble au projet de veiller ; noter la question sur l’éveil pour le médecin ; conserver une préparation de couchage familière sans promettre son efficacité clinique. Aucun programme de réveils imposés.",
+      "ending": "Il ferme le livre avec le marque-page du phare et confie sa question à Salomé.",
+      "next": "Cette question ouvre le rendez-vous de suivi, où le médecin s’intéresse aussi à ce qui se passe le jour.",
+      "source_refs": [
+        "oms-cddr",
+        "cps-enuresis-2023"
+      ],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 3,
+      "focus": "Le bilan regarde aussi la journée",
+      "scene": "Au rendez-vous prévu, Titouan s’étonne que le médecin parle des toilettes pendant la journée alors que sa crainte concerne la nuit du club. Il raconte qu’il hésite à interrompre une discussion passionnante pour demander où elles sont.",
+      "development": "L’évaluation distingue contextes, symptômes diurnes et formes nocturnes sans transformer cette hésitation en incontinence diurne. Trois appuis : raconter avec ses mots ; demander pourquoi la question compte ; préparer une demande d’accès simple pour Mme Dumas. Aucun diagnostic secondaire, questionnaire ou seuil public.",
+      "ending": "Il demande que l’accès aux toilettes fasse partie de la préparation, sans en parler devant tous les lecteurs.",
+      "next": "Le médecin complète ensuite l’entretien en abordant le transit ; Titouan ne voit d’abord pas le rapport.",
+      "source_refs": [
+        "oms-cddr",
+        "ameli-enuresie-consultation"
+      ],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 4,
+      "focus": "Le transit compte dans l’évaluation",
+      "scene": "Pendant la suite du même entretien, une question sur le transit embarrasse Titouan. Il vérifie que ces réponses ne finiront pas sur le formulaire du club. Salomé lui laisse une place pour répondre au médecin.",
+      "development": "Présenter la constipation comme une possibilité à rechercher, pas un diagnostic ajouté ni la cause certaine de son énurésie. Trois appuis : demander un cadre de parole confortable ; signaler au soignant les difficultés éventuelles ; faire préciser les informations utiles à partager. Aucun laxatif, menu correctif ou résultat clinique fictif.",
+      "ending": "Il comprend que le formulaire de la nuit n’a pas à reproduire la consultation et accepte de préparer ses besoins pratiques.",
+      "next": "Au club suivant, il pense résoudre la difficulté en laissant sa gourde à la maison.",
+      "source_refs": [
+        "oms-cddr",
+        "cps-enuresis-2023"
+      ],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 5,
+      "focus": "Boire et accéder aux toilettes",
+      "scene": "Avant le club, Titouan laisse sa gourde près de la porte. Salomé découvre qu’il veut éviter de boire pour être tranquille plus tard. Ils reprennent les conseils personnalisés du médecin ; la gourde repart dans son sac.",
+      "development": "Aucune privation d’eau ni rétention proposée. Trois appuis : maintenir l’accès habituel à l’eau selon les besoins et consignes du soignant ; repérer avec Mme Dumas les toilettes accessibles ; convenir d’une sortie discrète de la discussion quand il en a besoin. Ni volume, ni horaire restrictif, ni preuve de continence attendue.",
+      "ending": "Mme Dumas lui montre le trajet et lui indique qu’il peut demander à interrompre sa lecture. Il garde la gourde.",
+      "next": "À la maison, il veut savoir si le petit relevé proposé par le médecin devra montrer uniquement des réussites.",
+      "source_refs": [
+        "oms-cddr",
+        "nice-cg111"
+      ],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 6,
+      "focus": "Observer sans noter sa valeur",
+      "scene": "Titouan hésite à renseigner une nuit mouillée dans le relevé convenu avec son médecin. Il a dessiné un phare en haut et craint que la page ressemble à un bulletin de mauvaises notes.",
+      "development": "Distinguer donnée de suivi et récompense. Trois appuis : demander ce qui doit réellement être noté ; conserver les observations privées sans note morale ; préparer une question à partir du relevé. Aucun comptage imposé au lecteur, récompense pour nuits sèches ou retrait de privilège.",
+      "ending": "Il renseigne ce qui a été convenu et garde le relevé pour le médecin, séparé du carnet du club.",
+      "next": "Le suivi permet maintenant de discuter des options de soin sans faire de la date de la nuit une obligation de résultat.",
+      "source_refs": [
+        "oms-cddr",
+        "nice-cg111"
+      ],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 7,
+      "focus": "Choisir un soin adapté au projet",
+      "scene": "Au point de suivi, Titouan demande s’il existe une façon d’être certain de rester sec à la médiathèque. Le médecin présente les possibilités, dont l’alarme, et leurs contraintes sans garantir le résultat pour cette date.",
+      "development": "Distinguer soin durable, souhait ponctuel et liberté de participation. Trois appuis : poser la question des bénéfices et limites ; dire ce que la famille peut réellement organiser ; convenir du prochain échange médical. Ne pas prescrire, installer une alarme ou introduire un médicament en fiction. Les consignes particulières d’un traitement éventuel relèvent du prescripteur.",
+      "ending": "Ils choisissent de poursuivre le suivi et de préparer la nuit sans attendre une garantie de sécheresse. Aucune nouvelle prescription n’est annoncée.",
+      "next": "Salomé et Titouan doivent aussi répartir le travail pratique du sac et du linge.",
+      "source_refs": [
+        "oms-cddr",
+        "ameli-enuresie-consultation"
+      ],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 8,
+      "focus": "La fatigue familiale sans reproche",
+      "scene": "Salomé cherche un moment pour préparer le sac bleu après une matinée de lessive. Titouan croit que ce soupir signifie qu’il ferait mieux d’annuler. Le parent précise que la fatigue concerne l’organisation.",
+      "development": "Retentissement familial distinct de faute de l’enfant. Trois appuis : nommer la charge sans accuser ; répartir les tâches entre adultes et contributions choisies à sa mesure ; demander conseil si l’accompagnement devient trop lourd. Le linge n’est ni punition ni paiement du droit de participer.",
+      "ending": "Salomé prépare les affaires de rechange ; Titouan choisit le livre et le marque-page. Ils organisent un rendez-vous discret avec Mme Dumas.",
+      "next": "Il reste à choisir ce que la bibliothécaire doit savoir et comment demander son aide pendant la nuit.",
+      "source_refs": [
+        "oms-cddr",
+        "nice-cg111"
+      ],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 9,
+      "focus": "La confidentialité protège la participation",
+      "scene": "À la médiathèque, Titouan attend que les autres soient partis pour parler à Mme Dumas. Il lui montre le sac bleu mais ne veut pas d’explication devant Noé ni d’annonce au groupe.",
+      "development": "Distinguer discrétion et secret empêchant l’aide. Trois appuis : convenir des informations utiles aux adultes responsables ; choisir une phrase courte pour demander de l’aide ; vérifier le lieu prévu pour le change et la possibilité de retour avec Salomé. La bibliothécaire confirme l’organisation réelle, sans règle juridique inventée ni garantie que personne ne remarquera rien.",
+      "ending": "Ils retiennent la phrase « J’ai besoin de mon sac » et le parent reste joignable. Titouan confirme qu’il veut essayer la nuit.",
+      "next": "Une nouvelle nuit mouillée à domicile met à l’épreuve sa décision, quelques jours avant l’événement.",
+      "source_refs": [
+        "oms-cddr",
+        "cps-enuresis-2023"
+      ],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 10,
+      "focus": "Une variation ne prédit pas la prochaine nuit",
+      "scene": "Après plusieurs nuits différentes, Titouan découvre un nouvel accident chez lui et croit que sa décision est devenue impossible. Il reprend le formulaire sans le déchirer ; Salomé s’assied avec lui.",
+      "development": "Ne pas déduire une guérison ou un pronostic d’une courte séquence. Trois appuis : transmettre au suivi le changement utile sans s’autodiagnostiquer ; revoir le plan pratique ; laisser ouverte la décision de venir, de rester seulement le soir ou de rentrer. Un signe nouveau préoccupant impose un contact médical ; aucun n’est ajouté ici pour expliquer la variation.",
+      "ending": "Titouan maintient son choix d’essayer, avec la possibilité convenue de rentrer. Le sac bleu est prêt et les adultes confirment leur disponibilité.",
+      "next": "Le soir de la nuit, il apporte le sac et lit le passage du phare ; un accident survient ensuite pendant le sommeil.",
+      "source_refs": [
+        "oms-cddr",
+        "nice-cg111"
+      ],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 11,
+      "focus": "Répondre à un accident avec discrétion",
+      "scene": "Après avoir lu son passage, Titouan s’endort à la médiathèque. Il se réveille après un accident ordinaire et demande son sac à Mme Dumas. Elle met en œuvre l’aide prévue dans l’espace privé, sans solliciter Noé.",
+      "development": "Montrer la conséquence pratique sans humiliation, détail intime ni équivalence automatique avec urgence. Trois appuis : rejoindre l’adulte nommé ; utiliser l’organisation de change avec son aide ; choisir avec lui s’il souhaite rester ou contacter Salomé pour rentrer. Douleur, malaise ou autre changement préoccupant réclameraient un avis médical, jamais un secret pour finir la nuit.",
+      "ending": "Titouan reçoit l’aide prévue et choisit de rester. Mme Dumas garde Salomé joignable selon l’accord, sans exposer la scène au groupe.",
+      "next": "Le matin permet de parler du livre et de décider de la suite du club, sans noter la nuit comme un échec.",
+      "source_refs": [
+        "oms-cddr",
+        "nice-cg111"
+      ],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 12,
+      "focus": "Participer sans attendre la guérison",
+      "scene": "Au petit déjeuner, Noé revient sur la porte introuvable du phare. Titouan défend sa fin préférée ; quand Salomé le retrouve, il parle d’abord de ce passage avant de revenir en privé sur l’aide reçue.",
+      "development": "Le projet aboutit malgré un accident, sans obligation de réussir une future nuit. Trois appuis : distinguer bilan de lecture et besoin de soin ; revoir avec les adultes ce qui doit être adapté ; conserver le prochain rendez-vous et choisir librement la suite du club. Ne pas généraliser que rester serait mieux que rentrer.",
+      "ending": "Il veut revenir au club et propose une autre histoire de phare. Le sac sera réorganisé avec Salomé ; le suivi continue et aucune disparition de l’énurésie n’est annoncée.",
+      "next": "Fin de série : lecture et première nuit accomplies à sa mesure, participation future libre, soins et confidentialité maintenus.",
+      "source_refs": [
+        "oms-cddr",
+        "cps-enuresis-2023"
+      ],
+      "diagnostic_stage": "known"
+    }
+  ]
+}

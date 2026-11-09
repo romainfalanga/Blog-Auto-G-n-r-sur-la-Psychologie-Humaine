@@ -1,0 +1,52 @@
+{
+  "references": {
+    "oms-mms-6c00": {
+      "title": "OMS, CIM-11 MMS 2026-01, 6C00 Énurésie",
+      "url": "https://icd.who.int/browse/2026-01/mms/fr#1157749237"
+    },
+    "oms-cddr-hrb": {
+      "title": "OMS, CDDR 2024, section Énurésie 6C00, pages imprimées 421–424 ; document original conservé dans le dépôt HRB",
+      "url": "https://www.drugsandalcohol.ie/41519/1/WHO_Clinical_descriptions_and_diagnostic_requirements_ICD-11.pdf"
+    },
+    "nice-cg111": {
+      "title": "NICE CG111, Bedwetting in under 19s, recommandations 1.1–1.10, 2010, surveillance 2018",
+      "url": "https://www.nice.org.uk/guidance/cg111/chapter/Recommendations"
+    },
+    "cps-enuresis-2023": {
+      "title": "Harris, Lipson et Dos Santos, Société canadienne de pédiatrie, Evaluation and management of enuresis in the general paediatric setting, 16 août 2023",
+      "url": "https://cps.ca/en/documents/position/evaluation-and-management-of-enuresis-in-the-general-paediatric-setting"
+    },
+    "ameli-enuresie-consultation": {
+      "title": "Assurance maladie, Consultation et traitement en cas d’énurésie nocturne, 17 septembre 2026",
+      "url": "https://www.ameli.fr/assure/sante/themes/pipi-lit-enuresie/consultation-traitement"
+    }
+  },
+  "dossier": {
+    "name": "Énurésie",
+    "aliases": [
+      "6C00",
+      "Enuresis"
+    ],
+    "references": [
+      "oms-cddr",
+      "oms-mms-6c00",
+      "oms-cddr-hrb",
+      "nice-cg111",
+      "cps-enuresis-2023",
+      "ameli-enuresie-consultation"
+    ],
+    "points": [
+      "Vérification du 9 novembre 2026 : CDDR OMS 2024 intégral téléchargé depuis le dépôt HRB, section 6C00 p.421–424 relue. MMS française ouverte mais définition dynamique non extraite ; conserver code et libellé canoniques sans prétendre relire sa définition française. NICE CG111 lu dans le contenu indexé des recommandations, ouverture directe renvoyant 403 ; CPS et Ameli consultation ouvertes intégralement. La page Ameli « que faire/quand consulter » affichait 17 novembre 2026, postérieur à la session : écartée des sources retenues. Les paraphrases françaises des CDDR et de la CPS ne sont pas des traductions officielles.",
+      "CDDR p.421–424 : émissions urinaires répétées dans lit ou vêtements, nocturnes, diurnes ou mixtes ; âge développemental et causes physiques ou médicamenteuses à examiner. Les symptômes sont habituellement involontaires. Détresse et stigmatisation possibles ; évolution variable, parfois persistante. Le diagnostic ne se déduit pas d’un accident isolé. Les sous-codes liés dans le registre ne doivent pas être tous incarnés par Titouan : scènes nocturnes retenues, sans lui attribuer trois diagnostics ni certifier une forme monosymptomatique ou primaire absente du canon.",
+      "CPS, Background et évaluation 1–2 : difficultés d’éveil, production nocturne d’urine et capacité vésicale peuvent contribuer ; aucun mécanisme individuel n’est déduit d’une scène. La terminologie pédiatrique de cette position réserve enuresis au sommeil, alors que CIM 6C00 inclut le jour. Questions sur symptômes diurnes et transit utiles au médecin, sans ajout de comorbidité au personnage. Constipation possible, pas cause universelle ni guérison promise après correction.",
+      "NICE CG111, 1.1–1.7 : absence de faute, aucune punition ; information adaptée, protection pratique du couchage, évaluation des besoins familiaux et objectifs de l’enfant. Hydratation quotidienne suffisante et accès aux toilettes ; ne pas demander de se retenir ou priver d’eau. Un calendrier peut informer le soin ; les nuits sèches ne sont pas une performance à récompenser. Réveiller systématiquement n’apprend pas à rester sec durablement. Cadre britannique, pas règlement français de médiathèque.",
+      "Ameli, examen et traitement : le médecin évalue le tableau et les symptômes associés, puis choisit avec la famille une prise en charge adaptée. Une alarme peut perturber le sommeil familial ; les médicaments relèvent du contrôle médical. Dans cette série, aucune prescription nouvelle, posologie ou durée n’est inventée. La desmopressine impose des consignes hydriques spécifiques de sécurité : ne jamais écrire qu’un lecteur traité pourrait ignorer celles de son prescripteur. Le canon interdit une restriction d’eau proposée comme technique ; Titouan ne reçoit donc pas de médicament dans le récit.",
+      "NICE 1.3 et CPS évaluation : un symptôme nouveau ou préoccupant ne doit pas être automatiquement attribué au diagnostic connu ; le parent contacte le médecin pour une orientation adaptée. Aucune consultation ne sert à garantir une nuit sèche. Les bilans, questionnaires chiffrés, mesures urinaires et seuils restent hors des exercices publics. Si une inquiétude médicale apparaît à l’écriture, agir dans la même scène et reprendre le relais dans la suivante.",
+      "Choix de traitement et limites : NICE 1.4, 1.8–1.10, CPS Management et Ameli distinguent besoins immédiats et accompagnement durable. Les préférences, les contraintes et la disponibilité familiale comptent. Les positions ne donnent pas des délais identiques ; ne pas en fabriquer un protocole combiné. La nuit du club n’est ni une échéance thérapeutique ni un test de réponse. L’alarme est discutée au rendez-vous mais son installation n’est pas racontée ni enseignée.",
+      "Fiction et non traitement : sac discret, phrase avec la bibliothécaire, solution de retour avec le parent, choix de place et organisation du linge sont des adaptations narratives. Aucune efficacité clinique démontrée ne leur est attribuée. Aucune promesse de secret absolu : les adultes responsables connaissent les éléments utiles, l’enfant sait lesquels. Un camarade ne surveille pas, ne manipule pas de médicament et ne porte pas la responsabilité du linge.",
+      "Trame obligatoire pour chaque futur article : ouverture sans intertitre d’au moins 180 mots ; explication générale autonome ; trois manifestations avec deux exemples chacune ; trois démarches numérotées avec objectif, trois étapes et utilité possible ; retour concret à la scène, conclusion séparée, puis proches. La répétition des aides ne doit pas remplacer la distinction des aspects : involontarité, éveil, bilan diurne, transit, hydratation/accès, observation, choix de soin, retentissement familial, confidentialité, évolution, réponse à l’accident et participation.",
+      "Garde-fous constants : aucune humiliation, punition, restriction hydrique suggérée, défi de rétention, réveil forcé, tableau public ni nuit sèche exigée pour participer. Le livre et le club ne récompensent pas la continence. L’enfant peut contribuer volontairement à son sac ou à l’organisation à sa mesure ; les adultes prennent en charge les besoins pratiques sans dette ni réparation morale. Le récit illustre une situation possible et ne couvre pas toutes les formes de 6C00."
+    ]
+  },
+  "direction": "Titouan, élève de 10 ans, aime le club de lecture mais prétend s’en lasser quand on annonce la première nuit à la médiathèque. Son Énurésie est déjà diagnostiquée et les causes physiques ont été examinées avant la série ; le suivi continue. Salomé est son parent, Mme Dumas la bibliothécaire référente qu’il choisit, le médecin reste non nommé. Noé est un camarade qui discute des livres, jamais une aide soignante. Titouan aime les fins ouvertes et les cartes dessinées au début des romans ; son livre pour la nuit s’appelle Le phare sans escalier, œuvre fictive. Il veut lire le passage où le gardien cherche une porte, puis préparer un sac bleu et un plan discret. La série se déroule sur plusieurs semaines. Elle montre des nuits mouillées à domicile, des consultations déjà inscrites dans le suivi et une préparation progressive. Aucun nouveau diagnostic, résultat d’examen ni médicament n’est ajouté. Pendant la nuit à la médiathèque, un accident ordinaire est géré avec l’adulte prévu et le parent reste joignable. Titouan choisit de rester selon le plan convenu, sans que cela soit présenté comme supérieur à rentrer. Le dernier épisode ferme la nuit et sa lecture, pas le suivi."
+}

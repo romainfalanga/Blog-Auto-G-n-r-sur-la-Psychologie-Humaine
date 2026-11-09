@@ -417,6 +417,210 @@
         "choice": "Nolwenn parle à Inès en tête-à-tête et demande que ses absences ne soient pas commentées au groupe.",
         "next": "Les notices avancent, mais elle constate qu’elle saute parfois une occasion de manger pour éviter la gêne."
       }
+    },
+    {
+      "number": 5,
+      "slug": "nolwenn-repas-evites",
+      "title": "Rumination-régurgitation : quand l’appréhension fait éviter des repas",
+      "description": "Nolwenn reporte sa pause pour éviter la gêne des remontées. Elle signale ce retentissement et demande un accompagnement adapté.",
+      "context": "Pendant la préparation du budget",
+      "topics": [
+        "Trouble de rumination-régurgitation",
+        "Repas évités",
+        "Accompagnement alimentaire"
+      ],
+      "clinical_focus": "Les repas réduits par appréhension",
+      "clinical_intro": "La crainte des remontées peut conduire certaines personnes à réduire ou éviter des occasions de manger. Ce retentissement mérite d’être signalé aux soignants, sans attendre une conséquence visible. Les besoins alimentaires s’évaluent individuellement. Un régime improvisé, un aliment présenté comme correctif ou une surveillance par les collègues ne remplace pas cet accompagnement.",
+      "opening": "Le budget des Fenêtres de l’atelier comporte moins de lignes que Nolwenn ne l’imaginait, mais chacune semble demander une vérification supplémentaire. Inès additionne les montants pendant qu’elle rapproche les notices des six images retenues. Les deux premières légendes sont terminées ; les suivantes tiennent encore entre des annotations. Nolwenn efface un adjectif. Il prenait, selon elle, plus de place que la fenêtre décrite.\n\nL’heure de la pause arrive. Elle propose de terminer d’abord le total. Puis il faut vérifier une référence. Puis relire une ligne. Inès lui rappelle qu’elle peut reprendre les additions seule, sans commentaire sur ce que Nolwenn choisira de faire. Leur conversation privée a rendu les choses plus simples entre elles, mais le repas reste difficile à envisager.\n\nNolwenn ne cherche pas à changer son corps. Elle voudrait éviter les remontées et l’interruption qu’elles pourraient provoquer dans le travail. Reporter la pause lui paraît, sur le moment, une manière de gagner du temps. En regardant la pendule, elle reconnaît pourtant une suite de reports qu’elle n’a pas vraiment racontée au suivi. Elle a parlé des aliments qui remontent, beaucoup moins des moments où elle renonce à manger pour ne pas risquer que cela arrive. Cette différence ne figure dans aucune colonne du budget.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Le retentissement alimentaire fait partie de l’évaluation",
+          "text": "La rumination-régurgitation peut avoir des conséquences sur l’alimentation qui demandent une attention individualisée. Cela ne permet pas d’attribuer automatiquement un autre diagnostic alimentaire à la personne. Chez Nolwenn, l’évitement décrit répond à la peur d’être gênée pendant le travail. Les soignants doivent connaître ce retentissement pour décider des appuis utiles, y compris nutritionnels selon la situation, sans qu’un changement de poids soit inventé dans le récit."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment l’appréhension réduit-elle les occasions de manger ?",
+          "points": [
+            {
+              "heading": "La pause glisse dans le temps",
+              "text": "Le travail peut fournir une raison pratique de reporter un repas que l’on redoute.",
+              "examples": [
+                "Nolwenn ajoute une dernière vérification au budget quand la pause arrive.",
+                "Une fois les additions finies, elle trouve encore une notice à corriger."
+              ]
+            },
+            {
+              "heading": "L’objectif est d’éviter la gêne",
+              "text": "Dans cette histoire, la réduction des repas vise à éviter les remontées, sans recherche de modification du corps.",
+              "examples": [
+                "Nolwenn pense aux interruptions possibles de la réunion.",
+                "Elle voudrait que personne n’ait à attendre qu’elle revienne."
+              ]
+            },
+            {
+              "heading": "Une information manque au suivi",
+              "text": "Les repas évités constituent un retentissement à signaler, même si la personne parle déjà des remontées.",
+              "examples": [
+                "Nolwenn avait décrit le phénomène mais pas tous les reports de pause.",
+                "Elle réalise que cette difficulté continue même quand les collègues respectent son intimité."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour parler des repas évités au suivi",
+          "points": [
+            {
+              "heading": "Signaler les occasions de manger évitées",
+              "objective": "Donner au médecin une information sur le retentissement réel.",
+              "exercise": [
+                "Relever quelques situations dont on se souvient sans dresser un compte public.",
+                "Expliquer pourquoi on a différé ou évité ces repas.",
+                "Transmettre cette difficulté au suivi sans attendre qu’un changement corporel soit visible."
+              ],
+              "benefit": "Le professionnel peut ainsi examiner les besoins alimentaires au lieu de ne connaître que les remontées."
+            },
+            {
+              "heading": "Demander un avis individualisé",
+              "objective": "Éviter de construire seule un régime pour empêcher les symptômes.",
+              "exercise": [
+                "Demander au soignant si un avis nutritionnel est utile dans cette situation.",
+                "Faire préciser la manière d’organiser cet appui s’il est indiqué.",
+                "Garder les décisions alimentaires dans ce cadre plutôt que chercher un aliment correctif."
+              ],
+              "benefit": "Une évaluation adaptée peut repérer les besoins ; le récit ne fixe ni menu, ni poids cible, ni aliment à supprimer."
+            },
+            {
+              "heading": "Dissocier la réunion du repas",
+              "objective": "Réduire une contrainte de travail sans installer l’évitement comme solution médicale.",
+              "exercise": [
+                "Dire à l’équipe qu’un autre créneau aiderait pour le budget.",
+                "Discuter avec les soignants de l’organisation des pauses alimentaires.",
+                "Confier une partie des additions à une collègue pour libérer le temps convenu."
+              ],
+              "benefit": "Le partage du travail peut rendre les rendez-vous et pauses possibles ; il ne remplace pas l’accompagnement alimentaire."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Une difficulté ajoutée à l’agenda",
+      "ending": "Nolwenn contacte le suivi et explique qu’elle évite parfois de manger pour ne pas interrompre le travail. Un échange est organisé pour adapter l’accompagnement et discuter de l’utilité d’un avis nutritionnel. Inès reprend les additions ; le dossier conserve sa date de dépôt. Nolwenn inscrit cet échange et la première séance d’apprentissage dans son agenda. Les repas évités ne deviennent pas une ligne à surveiller entre collègues, mais une question désormais portée au bon interlocuteur.",
+      "conclusion": "L’appréhension des remontées peut modifier l’alimentation au-delà des seuls repas collectifs. Nolwenn transmet ce changement et demande un appui individualisé. Le budget continue grâce au partage du travail, tandis que les besoins alimentaires restent discutés avec les soignants.",
+      "mirror": [
+        "Inès peut proposer : « Je termine les additions, tu peux garder le créneau dont tu as besoin. » Elle n’a pas à vérifier ce que Nolwenn mange ensuite. Un proche peut encourager la transmission au médecin des repas évités, sans proposer de menu ni comparer les quantités. Reconnaître cette difficulté suffit pour soutenir la démarche sans devenir responsable de son alimentation."
+      ],
+      "sources": [
+        "oms-cddr",
+        "ueg-esnm-2025"
+      ],
+      "continuity": {
+        "choice": "Nolwenn signale les repas évités et obtient un échange pour adapter l’accompagnement ; Inès poursuit le budget.",
+        "next": "La date de dépôt est maintenue et la première séance d’apprentissage est inscrite avec l’échange sur l’alimentation."
+      }
+    },
+    {
+      "number": 6,
+      "slug": "nolwenn-apprentissage-accompagne",
+      "title": "Rumination-régurgitation : apprendre avec une professionnelle",
+      "description": "Une séance ciblée remplace les conseils vagues. Nolwenn demande des explications, un cadre personnel et un contact de suivi.",
+      "context": "À la première séance d’apprentissage",
+      "topics": [
+        "Trouble de rumination-régurgitation",
+        "Soin accompagné",
+        "Consignes individualisées"
+      ],
+      "clinical_focus": "Apprendre avec une professionnelle",
+      "clinical_intro": "La prise en charge de la rumination-régurgitation peut comporter un apprentissage ciblé conduit par une professionnelle compétente. Ce soin ne se réduit pas à demander de se calmer. L’objectif, l’accord de la personne, les difficultés rencontrées et les consignes individuelles se discutent en séance. Un récit ne permet pas d’enseigner ni d’adapter cette technique à distance.",
+      "opening": "L’agenda de Nolwenn ressemble à une planche de contacts : petites cases, retouches partout, une flèche qui relie deux rendez-vous. L’échange demandé sur les repas évités a eu lieu ; cette difficulté fait désormais partie de l’accompagnement à réévaluer avec les soignants. La séance d’aujourd’hui s’ajoute à ce suivi, elle ne l’efface pas. Nolwenn a placé les photographies à classer dans son sac pour l’après-midi.\n\nElle craint pourtant une déception très précise. Et si toute la séance consistait à lui demander de se calmer ? Elle a déjà essayé d’avoir l’air calme au déjeuner, sans que cela rende les pauses simples. Lorsque la spécialiste lui demande ce qu’elle attend, elle répond franchement : « J’aimerais savoir ce qu’on fait, pas seulement comment je devrais me sentir. »\n\nLa professionnelle présente l’apprentissage proposé, vérifie son accord et explique comment elles pourront reprendre les difficultés au fil du suivi. Nolwenn écoute, puis demande qu’un point soit reformulé. Elle n’a pas envie de faire semblant d’avoir compris pour tenir dans la durée du rendez-vous. Son agenda reste ouvert sur la table. Pour une fois, les retouches concernent les explications qu’elle reçoit, et elle peut dire où elles ne sont pas encore assez claires pour elle.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Un soin ciblé demande un cadre d’apprentissage",
+          "text": "La respiration diaphragmatique, parfois associée au biofeedback, fait partie des approches professionnelles du syndrome de rumination étudié en gastroentérologie. Son usage doit être expliqué et adapté par un praticien compétent ; son nom ne suffit pas à définir une consigne personnelle. La séance de Nolwenn porte sur cet accompagnement individualisé, sans enseigner au lecteur de position, de rythme ou de geste interne. Le suivi alimentaire reste également pris en compte."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment reconnaître les besoins d’un apprentissage accompagné ?",
+          "points": [
+            {
+              "heading": "La crainte d’un conseil vague",
+              "text": "Une personne peut redouter que ses difficultés soient réduites à une tension qu’elle devrait corriger seule.",
+              "examples": [
+                "Nolwenn arrive en craignant d’entendre seulement détendez-vous.",
+                "Elle demande ce que l’apprentissage proposé vise concrètement."
+              ]
+            },
+            {
+              "heading": "Une démarche expliquée",
+              "text": "Le soin comporte un cadre, un accord et des consignes personnelles ; il ne se résume pas au nom d’une technique.",
+              "examples": [
+                "La spécialiste présente la séance avant de la commencer.",
+                "Nolwenn peut poser une question sur ce qu’elle ne comprend pas."
+              ]
+            },
+            {
+              "heading": "Une difficulté peut être dite",
+              "text": "Un essai inconfortable ou mal compris apporte une information utile au suivi, pas une mauvaise note.",
+              "examples": [
+                "Nolwenn signale un point qu’elle n’arrive pas à suivre.",
+                "Elle demande comment reprendre contact entre les rendez-vous."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour participer au dialogue de soin",
+          "points": [
+            {
+              "heading": "Demander un apprentissage encadré",
+              "objective": "Comprendre la proposition avant de chercher à la reproduire.",
+              "exercise": [
+                "Demander à la praticienne l’objectif de la séance.",
+                "Solliciter une explication et une démonstration dans ce cadre professionnel.",
+                "Vérifier son accord et les possibilités de poser des questions pendant l’apprentissage."
+              ],
+              "benefit": "Un accompagnement ciblé peut rendre le soin compréhensible sans transformer un article en mode d’emploi médical."
+            },
+            {
+              "heading": "Signaler une difficulté en séance",
+              "objective": "Permettre à la professionnelle de réévaluer une consigne ou son adaptation.",
+              "exercise": [
+                "Dire ce qui reste flou ou difficile avec ses propres mots.",
+                "Signaler tout inconfort au lieu de chercher à réussir à tout prix.",
+                "Laisser la praticienne décider avec soi de la suite de l’essai."
+              ],
+              "benefit": "Ce dialogue peut ajuster la séance ; il n’exige ni endurance ni résultat immédiat."
+            },
+            {
+              "heading": "Repartir avec un cadre personnel",
+              "objective": "Éviter d’improviser entre deux contacts.",
+              "exercise": [
+                "Faire préciser les consignes qui s’appliquent à sa situation.",
+                "Demander quels changements ou difficultés doivent être transmis.",
+                "Noter le prochain rendez-vous et le moyen de recontacter le suivi."
+              ],
+              "benefit": "Des repères personnels peuvent soutenir la continuité du soin sans ajouter seule une technique ou modifier un traitement."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Des consignes et six pochettes",
+      "ending": "Nolwenn repart avec un cadre personnel donné par la spécialiste et un moyen de la recontacter. Les points difficiles ont été entendus ; aucun résultat immédiat n’a été exigé. À l’atelier, elle classe les photographies retenues dans six pochettes et laisse de côté les essais à comparer plus tard. Elle sait que le prochain rendez-vous ne servira pas seulement à montrer ce qui a fonctionné. Les difficultés et l’organisation des repas y auront aussi leur place.",
+      "conclusion": "Un apprentissage professionnel comprend des explications, un accord et des ajustements. Nolwenn obtient un cadre personnel plutôt qu’une injonction à se calmer. Les questions laissées ouvertes nourriront le suivi, tandis que son travail de classement reprend à l’atelier.",
+      "mirror": [
+        "Inès peut demander si Nolwenn a besoin de déplacer une séance de travail, sans lui réclamer une démonstration de ce qu’elle a appris. « Je garde les photos ici pour ton retour » suffit parfois. Les proches peuvent soutenir la continuité des rendez-vous ; ils n’ont pas à contrôler la technique, corriger une respiration ou décider si la séance a été bien faite."
+      ],
+      "sources": [
+        "oms-cddr",
+        "aga-rumination-2018"
+      ],
+      "continuity": {
+        "choice": "Après l’échange sur les repas évités, Nolwenn suit une première séance et reçoit un cadre personnel ; elle classe les photos.",
+        "next": "Au prochain suivi, elle pourra rapporter les essais possibles, leurs limites et la journée qui a été plus difficile."
+      }
     }
   ]
 }

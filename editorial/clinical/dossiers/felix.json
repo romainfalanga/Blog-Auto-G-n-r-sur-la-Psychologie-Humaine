@@ -1,0 +1,54 @@
+{
+  "references": {
+    "oms-mms-6c01": {
+      "title": "OMS, CIM-11 MMS 2026-01, 6C01, Encoprésie (lien canonique)",
+      "url": "https://icd.who.int/browse/2026-01/mms/fr#313374467"
+    },
+    "oms-cddr-hrb": {
+      "title": "OMS, CDDR 2024, ISBN 9789240077263, pages imprimées 424–427 ; document original, dépôt HRB",
+      "url": "https://www.drugsandalcohol.ie/41519/1/WHO_Clinical_descriptions_and_diagnostic_requirements_ICD-11.pdf"
+    },
+    "nice-cg99": {
+      "title": "NICE CG99, Constipation in children and young people, recommandations 1.1, 1.4, 1.5 et 1.8, 2010, actualisées 2017",
+      "url": "https://www.nice.org.uk/guidance/cg99/resources/constipation-in-children-and-young-people-diagnosis-and-management-pdf-975757753285"
+    },
+    "nhs-soiling": {
+      "title": "NHS, Soiling (child pooing their pants), revue du 22 novembre 2023, causes, urgence, traitement et soutien",
+      "url": "https://www.nhs.uk/symptoms/soiling-child-pooing-their-pants/"
+    },
+    "niddk-constipation": {
+      "title": "NIDDK, Symptoms & Causes of Constipation in Children, symptômes, causes et recours médical",
+      "url": "https://www.niddk.nih.gov/health-information/digestive-diseases/constipation-children/symptoms-causes"
+    }
+  },
+  "dossier": {
+    "name": "Encoprésie",
+    "aliases": [
+      "6C01",
+      "6C01.0",
+      "6C01.1",
+      "Encopresis"
+    ],
+    "references": [
+      "oms-cddr",
+      "oms-mms-6c01",
+      "oms-cddr-hrb",
+      "nice-cg99",
+      "nhs-soiling",
+      "niddk-constipation"
+    ],
+    "points": [
+      "Vérification individuelle du 9 novembre 2026 : PDF original OMS obtenu au dépôt HRB et pages imprimées 424–427 intégralement lues ; PDF officiel NICE CG99 téléchargé malgré le refus 403 du navigateur et sections 1.1, 1.4.10–11, 1.5.1–2 et 1.8.1–3 lues. Pages institutionnelles NHS et NIDDK consultées. Le lien MMS français est celui du canon, sans prétendre avoir extrait son contenu dynamique. Paraphrases françaises de travail, pas traduction officielle.",
+      "OMS CDDR 6C01 p.424–427 : émissions répétées et persistantes après l’âge développemental attendu ; exclusion des effets médicamenteux et causes médicales explicatives. Le diagnostic de Félix est déjà établi avant la série. Aucun seuil chiffré ni questionnaire ne devient un outil d’autodiagnostic. Un accident isolé ne définit pas le trouble.",
+      "Formes et mécanismes, CDDR p.425 : avec constipation/débordement, rétention et impaction ; sans constipation/débordement, pas ce mécanisme. Les accidents sont le plus souvent involontaires, mais les CDDR ne disent pas toujours. Pour Félix, direction narrative explicite : constipation évaluée et accidents involontaires. Ne pas déduire un comportement intentionnel, une opposition ou une cause psychologique de la forme sans rétention ; ne pas lui faire alterner les sous-types pour couvrir les codes.",
+      "Douleur et rétention : CDDR p.425, NICE introduction et NIDDK Causes. Éviter une selle douloureuse peut entretenir la constipation. Un comportement de retenue ne signifie pas choisir la fuite ultérieure. La peur des toilettes publiques peut participer à l’évitement ; aucune phobie ni anxiété sociale n’est diagnostiquée dans la fiction.",
+      "Débordement et perception : NHS Causes of soiling et NICE tableau 1. Des selles passent autour d’une accumulation et peuvent être prises pour une diarrhée ; l’enfant peut ne pas percevoir la fuite. Ne pas attribuer toute selle molle à un débordement, ni conseiller un antidiarrhéique, ni promettre qu’une meilleure attention au corps suffira. La présentation précise appartient à l’évaluation médicale.",
+      "Bilan et sécurité : CDDR p.424,427 ; NICE 1.1.2–7 ; NIDDK When should my child see a doctor. Un diagnostic connu ne dispense pas d’évaluer un changement. Si douleurs abdominales continues, vomissements avec ventre gonflé ou symptômes neurologiques nouveaux surviennent, demander une évaluation médicale urgente, sans attendre la sortie. Aucun de ces signes n’est nécessaire à l’intrigue ; ne pas les inventer comme simple obstacle scolaire. Pas d’examen rectal décrit au lecteur, de purge, de lavement ou d’intervention manuelle.",
+      "Accompagnement : NICE CG99 1.4.10–11, 1.5.1–2 et 1.8.1–3. Réévaluation et soutien des routines individualisés, interventions négociées non punitives ; l’alimentation seule ne remplace pas la prise en charge. Aucun nom, dose, calendrier de médicament ou décision d’arrêt dans la série. Le parent suit le plan établi avec le pédiatre, lui transmet les changements et demande comment continuer. Ne pas recopier un horaire de toilettes universel ; pas d’assise forcée, d’effort de poussée ou de récompense conditionnée à une journée sans accident.",
+      "Retentissement et évolution : CDDR p.426, NICE introduction et NHS Treatment. Honte, moqueries, retrait social et rechutes possibles ; durée variable. Un succès scolaire n’est pas un critère de guérison. La colère ou la lassitude parentale reçoit du soutien, pas une justification des reproches. Les accidents ne sont ni un défaut de propreté morale ni un échec d’effort.",
+      "Portée des sources : recommandations britanniques de constipation idiopathique, information publique américaine sur la constipation ; elles ne sont ni règles juridiques françaises ni protocole de l’encoprésie sans constipation. Les adaptations scolaires de la fiction (signal discret, adulte relais, accès vérifié, affaires de rechange) sont des arrangements concertés à partir des besoins, sans efficacité thérapeutique démontrée ni statut administratif inventé.",
+      "Architecture : 1 perception tardive, 2 douleur/retenue, 3 débordement, 4 réévaluation clinique, 5 accès aux toilettes, 6 honte devant les pairs, 7 attribution disciplinaire, 8 continuité du soin et routines, 9 charge parentale, 10 évolution fluctuante, 11 anticipation sociale, 12 participation choisie. Les enjeux sociaux et organisationnels ne sont pas de nouveaux symptômes. Dans chaque épisode, trois appuis concrets adaptés au destinataire, jamais douze recettes pour guérir."
+    ]
+  },
+  "direction": "Félix, élève de 9 ans, aime les cartes, les noms de rues bizarres et les flèches qui pointent exactement au bon endroit. Sa classe prépare une sortie à pied jusqu’au jardin du moulin. Il veut choisir son rôle de lecteur de carte ; il ne devient ni responsable de la sécurité du trajet ni surveillant des toilettes. Son encoprésie est diagnostiquée avant la série, avec constipation évaluée et prise en charge déjà suivie ; les accidents racontés sont involontaires. Son père, Samuel, et la pédiatre, docteure Vignal, assurent les échanges de santé. Félix choisit Lila, animatrice scolaire, comme interlocutrice pratique ; la maîtresse, madame Perrin, reste responsable avec l’équipe de la sortie. Noé, camarade de carte, garde ses propres idées et ne surveille rien. Un plan plié en quatre suit l’histoire : trajet au crayon, légende, pont, repères vérifiés, carte collective puis segment choisi. Les affaires de rechange et informations médicales restent séparées de la carte publique. Plusieurs semaines permettent consultations et essais sans guérison accélérée. La sortie finale a lieu après organisation effective et vérification des adultes ; Félix lit du portail au petit pont, puis transmet la carte à Noé. Le suivi continue. Sa phrase récurrente, sans devenir slogan thérapeutique : une carte doit aussi montrer où on peut s’arrêter."
+}
