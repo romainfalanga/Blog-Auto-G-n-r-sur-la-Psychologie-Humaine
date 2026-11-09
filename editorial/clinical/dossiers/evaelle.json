@@ -1,0 +1,54 @@
+{
+  "references": {
+    "oms-mms-6b65": {
+      "title": "OMS, CIM-11 MMS 2026-01, 6B65, Trouble dissociatif de l’identité partiel, lien canonique",
+      "url": "https://icd.who.int/browse/2026-01/mms/fr#988400777"
+    },
+    "oms-cddr-hrb": {
+      "title": "OMS, CDDR 2024, ISBN 9789240077263, pages imprimées 387–391 et comparaison p.386 ; document original au dépôt HRB",
+      "url": "https://www.drugsandalcohol.ie/41519/1/WHO_Clinical_descriptions_and_diagnostic_requirements_ICD-11.pdf"
+    },
+    "isst-d-2011": {
+      "title": "ISSTD, Guidelines for Treating Dissociative Identity Disorder in Adults, Third Revision, 2011, DOI 10.1080/15299732.2011.537247 ; périmètre DID/DDNOS, non spécifique 6B65",
+      "url": "https://www.isst-d.org/wp-content/uploads/2025/12/GUIDELINES_REVISED2011.pdf"
+    },
+    "baekkelund-2022": {
+      "title": "Bækkelund et coll., Group treatment for complex dissociative disorders: a randomized clinical trial, BMC Psychiatry 2022, PMID 35578194, DOI 10.1186/s12888-022-03970-8",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35578194/"
+    },
+    "hawkins-2026": {
+      "title": "Hawkins et coll., Group-based psychoeducation for dissociative disorders, 2026, PMID 42060444, DOI 10.1037/tra0002162 ; résumé étude naturaliste",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42060444/"
+    }
+  },
+  "dossier": {
+    "name": "Trouble dissociatif de l’identité partiel",
+    "aliases": [
+      "6B65",
+      "Partial dissociative identity disorder"
+    ],
+    "references": [
+      "oms-cddr",
+      "oms-mms-6b65",
+      "oms-cddr-hrb",
+      "isst-d-2011",
+      "baekkelund-2022",
+      "hawkins-2026"
+    ],
+    "points": [
+      "Vérification individuelle du 9 novembre 2026 : CDDR OMS original téléchargé au dépôt HRB, texte intégral des pages imprimées 387–391 et comparaison p.386 lu. PDF officiel ISSTD accessible via recherche web : introduction p.116–117, vocabulaire p.121, objectifs p.132, stabilité p.136 et mémoire p.157–167 vérifiés dans les passages pertinents. Résumés PubMed Bækkelund 2022 et Hawkins 2026 lus. Le lien MMS français est canonique ; aucune extraction de sa définition dynamique revendiquée. Les formulations françaises sont des paraphrases de travail, non une traduction officielle.",
+      "Critères 6B65, CDDR p.387 : discontinuités du sentiment de soi et de l’agentivité avec états de personnalité distincts ; un état dominant assure le quotidien et subit des intrusions. Les états non dominants ne prennent pas répétitivement en charge travail ou autres secteurs de vie comme dans 6B64. Des épisodes limités et transitoires peuvent exister. Le mot partiel ne signifie pas absence de retentissement ni simple changement d’humeur. Diagnostic spécialisé antérieur à toute la série ; pas de preuve fondée sur une voix ou une métaphore.",
+      "Modalités CDDR p.387–388 : intrusions cognitives, affectives, perceptives, motrices ou comportementales ; vécu souvent pénible, intérieur, parfois invisible. Les quatre premières scènes distinguent pensée intrusive, affect vécu comme étranger, parole intérieure perçue et action avec sentiment d’agentivité altéré. Ce découpage est pédagogique et ne constitue ni quatre états inventés ni quatre critères permettant de se diagnostiquer. Pas de personnages intérieurs nommés, de biographies attribuées ou de dialogue entre identités traité comme fait objectif.",
+      "Mémoire CDDR p.388,390 : pas d’amnésie dans de nombreuses intrusions. Si elle existe dans 6B65, elle est généralement brève et restreinte à des états émotionnels extrêmes ou d’autres circonstances limitées. Évaëlle se souvient des intrusions ordinaires. Un unique passage bref incertain survient dans une réunion très éprouvante ; il est évalué, sans conclure que tout oubli relève du trouble ni raconter une autre identité qui a organisé la journée. Jamais de longues absences répétées servant de ressort narratif.",
+      "Différentiel CDDR p.387,390–391 : évaluer autres troubles mentaux, effets de substances ou médicaments, maladies neurologiques et sommeil ; voix ou pensées intrusives seules ne départagent pas les diagnostics. Différencier 6B64, phénomènes uniquement liés aux reviviscences du TSPT, obsessions et perturbation identitaire de personnalité. Aucune comorbidité ni absence définitive de maladie ne sont inférées dans la fiction. Un phénomène nouveau mérite un avis propre ; aucun lecteur n’est invité à éliminer lui-même les autres causes.",
+      "Trauma et culture, CDDR p.388–389 : associations fortes décrites avec expériences traumatiques, mais elles ne constituent pas la preuve d’un événement individuel caché. Ne rien fabriquer sur le passé d’Évaëlle, ne pas reconstruire une scène à partir d’un affect ou d’une lacune. Les expériences culturellement admises sans détresse ni retentissement ne justifient pas ce diagnostic. La série ne présente ni possession ni spiritualité comme maladie par défaut.",
+      "ISSTD 2011 : consensus clinique consacré au trouble dissociatif de l’identité et à certaines formes DDNOS, avant 6B65 ; ni essai ni protocole validé de ce diagnostic. Seuls prudence des entretiens, respect des limites, individualisation et fonctionnement quotidien éclairent les garde-fous. Les sections vocabulaire et objectifs déconseillent de traiter une personne comme plusieurs personnes littéralement séparées. La section mémoire recommande une attitude neutre et d’éviter la suggestion. Aucune technique d’hypnose, dialogue intérieur guidé, exposition, traitement du trauma, fusion ou récupération de souvenirs n’est transposée à Évaëlle.",
+      "Bækkelund 2022, résumé PubMed : essai randomisé de 59 personnes avec troubles dissociatifs complexes ; groupe de stabilisation ajouté au soin individuel versus soin individuel dans un plan à traitement différé. Pas de supériorité immédiate entre conditions sur le critère principal ni les critères secondaires ; améliorations observées au suivi dans le temps. Résumé seul relu, donc pas d’analyse inventée de sous-groupe 6B65, d’événement indésirable ou de preuve que nos adaptations d’atelier traitent les intrusions.",
+      "Hawkins 2026, résumé PubMed : programme psychoéducatif ajouté à une thérapie individuelle, étude naturaliste de 72 adultes avec troubles dissociatifs, 47 ayant complété toutes les évaluations. Améliorations associées à la participation ; pas de groupe comparateur, attrition et échantillon majoritairement féminin/blanc limitent les conclusions. Ne pas en déduire une causalité ou une efficacité spécifique au 6B65. Cette étude récente ne transforme pas un consensus ancien en preuve forte ni en recette applicable seule.",
+      "Choix narratifs : limiter la liste visible, confirmer par écrit un engagement, distinguer hypothèse et message daté, prévoir un relais et terminer à l’heure sont des adaptations pratiques concertées, non traitements démontrés. Chaque épisode développera trois appuis de communication, organisation ou recours au suivi. Pas de posologie, arrêt de médicament, stimulation sensorielle intense, induction de dissociation ou exercice visant à faire surgir un état.",
+      "Les scènes restent sans geste dangereux, conduite automobile, machine ou prise de risque ; pas d’association entre dissociation et violence. Si confusion persistante, perte de conscience, signe neurologique nouveau ou danger immédiat survient dans une future rédaction, faire intervenir les secours/soignants appropriés sans supposer le diagnostic comme cause. Ne pas inventer cette urgence dans le plan. L’amie n’est ni surveillante, ni interprète des états, ni disponible en permanence.",
+      "Architecture : quatre modalités d’intrusion et agentivité ; mémoire ordinairement conservée ; passage bref incertain en forte émotion et réévaluation ; sens de partiel ; limites des inférences sur le passé ; coût du fonctionnement ; limites du soutien ; fluctuations ; participation choisie. Les angles de vécu et de fonctionnement ne sont pas des critères supplémentaires. L’échange de livres doit aboutir sans servir de test clinique."
+    ]
+  },
+  "direction": "Évaëlle, 30 ans, est responsable du coin atelier d’un foyer de jeunes travailleurs. Elle prépare un échange de livres, avec trois caisses intitulées à donner, à découvrir et à reprendre. Elle veut que les livres circulent, pas que chaque tranche soit parfaitement alignée ; elle conserve pourtant un faible pour les couvertures orange. Son trouble dissociatif de l’identité partiel est diagnostiqué avant le début. Elle évoque des expériences qui s’imposent et ne lui paraissent pas les siennes, tout en restant habituellement présente aux événements et responsable de son quotidien. Nora, amie du foyer et volontaire pour le projet, partage certains créneaux ; Malik coordonne l’équipe du foyer, sans accès automatique aux informations médicales. La docteure Salomé Roussel, clinicienne spécialisée du suivi déjà établi, garde les évaluations. La série suit un carnet vert d’organisation, les trois caisses, les étiquettes puis l’affiche et la table d’échange. Le carnet ne contient aucun inventaire d’identités ni recherche de souvenirs. Un malentendu sur un créneau tardif, lors d’une réunion éprouvante, est corrigé à partir des engagements actuels et du message disponible. La mémoire n’est pas reconstituée. Évaëlle choisit finalement un accueil bref, passe le relais et quitte le foyer à l’heure convenue. Aucun passé traumatique n’est écrit ; sa relation aux livres et ses marges ne se réduisent pas au diagnostic."
+}

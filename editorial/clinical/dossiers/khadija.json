@@ -1,0 +1,49 @@
+{
+  "references": {
+    "oms-mms-6b63": {
+      "title": "OMS, CIM-11 MMS 2026-01, 6B63 État de possession ; intitulé canonique français",
+      "url": "https://icd.who.int/browse/2026-01/mms/fr#1374925579"
+    },
+    "oms-cddr-hrb": {
+      "title": "OMS, CDDR 2024, ISBN 9789240077263, original déposé au HRB ; pages imprimées 377–382",
+      "url": "https://www.drugsandalcohol.ie/41519/1/WHO_Clinical_descriptions_and_diagnostic_requirements_ICD-11.pdf"
+    },
+    "nice-cg138": {
+      "title": "NICE CG138, Patient experience in adult NHS services ; sections 1.1 et 1.5, communication et préférences individuelles",
+      "url": "https://www.nice.org.uk/guidance/CG138/chapter/recommendations"
+    },
+    "nice-ng217": {
+      "title": "NICE NG217, Diagnosis and assessment of epilepsy, recommandations 1.2.1–1.2.6 ; limite diagnostique de l’EEG",
+      "url": "https://www.nice.org.uk/guidance/ng217/chapter/1-Diagnosis-and-assessment-of-epilepsy"
+    }
+  },
+  "dossier": {
+    "name": "État de possession",
+    "aliases": [
+      "6B63",
+      "Possession trance disorder"
+    ],
+    "references": [
+      "oms-cddr",
+      "oms-mms-6b63",
+      "oms-cddr-hrb",
+      "nice-cg138",
+      "nice-ng217"
+    ],
+    "points": [
+      "Verification individuelle le 9 novembre 2026 : page officielle OMS de l’édition du 8 mars 2024 et PDF original au dépôt HRB ouverts sur le web ; pages imprimées 377–382 lues intégralement dans leur extraction locale, correspondant aux pages PDF 395–400. ISBN concordant. MMS 2026-01 ouvert, mais sa définition dynamique non extraite : intitulé français et lien viennent du canon, description clinique des CDDR anglais. Paraphrases éditoriales, pas traduction officielle. NICE CG138 et NG217 : sections précises lues dans les résultats indexés du domaine officiel ; ouverture directe CG138 refusée 403. Aucune prétention à une lecture exhaustive des guides.",
+      "Intitulé canonique État de possession, code 6B63 ; le terme anglais des CDDR est Possession trance disorder. Expliciter dès la présentation qu’il s’agit du nom d’un trouble dissociatif diagnostiqué par des professionnels : le langage de possession décrit l’expérience et l’attribution de la personne, il ne confirme aucune présence extérieure réelle. Ni le prénom de Khadija, ni une croyance, ni une pratique collective ne permettent de diagnostiquer.",
+      "Diagnostic, CDDR p.377–379 : altération marquée de conscience avec expérience de remplacement du sentiment habituel d’identité par une identité attribuée à une influence extérieure ; comportements vécus comme sous ce contrôle. Épisodes involontaires, non souhaités, récurrents ou prolongés, hors pratique collective culturellement ou religieusement acceptée, avec souffrance ou retentissement significatifs. Chez Khadija le diagnostic professionnel est déjà établi avant la série. Ces éléments expliquent une situation fictive ; ne pas les transformer en questionnaire, seuil temporel pour attendre les secours ou diagnostic de proches.",
+      "Manifestations retenues, p.379 : expérience de remplacement de soi, perte du sentiment de commander certains gestes ou paroles, souvenirs incomplets après certains épisodes. Des paroles organisées peuvent exister pendant l’état : elles ne prouvent ni consentement ni simulation. Ne pas inventer glossolalie, voix, agressivité, convulsion, chute, autoagression, symptômes sensoriels ou identité nommée pour remplir les épisodes. Ni voix théâtrale ni discours de l’entité dans le récit ; rester auprès du vécu de Khadija et des faits sobres observés.",
+      "Frontière culturelle, p.377, 379 et 381 : les expériences collectives acceptées ou les pratiques choisies ne sont pas pathologisées. Contextualiser avec la personne plutôt qu’imposer une lecture extérieure. Respecter ses mots sans affirmer leur explication surnaturelle ; ne pas attribuer une religion, une origine, une langue ou une tradition au seul prénom. La série ne décrit aucun rite et ne recommande pas de groupe spirituel comme traitement.",
+      "Différentiels, p.378–382 : substances et médicaments, sevrage, épuisement, transitions veille-sommeil, troubles du sommeil et causes neurologiques font partie de l’évaluation. Autres troubles dissociatifs, psychoses, reviviscences traumatiques et delirium doivent être distingués par des professionnels. L’expérience attribuée à une identité extérieure distingue le 6B63 du 6B62 sans remplacement identitaire ; ne pas assimiler ce trouble au trouble dissociatif de l’identité ni ajouter un second diagnostic pour une amnésie limitée aux épisodes. Le récit ne tranche aucun de ces diagnostics à partir d’un signe isolé.",
+      "Limite de sécurité : NICE NG217 1.2.6, lu sur le domaine officiel, indique qu’un EEG ne sert pas à exclure une épilepsie. Un examen normal ne prouve donc pas une origine psychologique. Cette recommandation concerne une suspicion d’épilepsie, pas un examen à exiger pour tout épisode. Le suivi connu ne dispense pas de signaler un événement nouveau ou inhabituel et de demander une évaluation appropriée ; pas de protocole de secours improvisé dans les techniques.",
+      "Évolution, CDDR p.380 : cours variable, récurrences possibles, intensité et durée variables. Aucun signe annonciateur ne garantit la prévisibilité. Ne pas inventer une fréquence, une durée type ni une récupération complète immédiate après un exercice. Les épisodes 1 et 2 reviennent sur le même événement ; un deuxième événement est rapporté à l’épisode 10, sans supposer que toutes les difficultés suivantes sont des crises.",
+      "Mécanismes et limites : les associations à des circonstances stressantes ou traumatiques décrites p.380 ne prouvent aucune causalité individuelle. Aucun traumatisme n’est fixé au canon de Khadija ; ne pas en inventer ni soutenir que le trouble protège forcément contre une mémoire refoulée. Une recette, une génération de participantes ou une croyance n’est pas un déclencheur établi. Aucun exercice de recherche de souvenirs, induction, suggestion ou mise à l’épreuve de la volonté.",
+      "Accompagnement : recherche sans recommandation spécifique de traitement du 6B63 suffisamment vérifiée pour proposer une psychothérapie, un médicament ou un protocole autonome. Les CDDR sont diagnostiques. CG138 1.1.4 et 1.5.4–1.5.16 étayent seulement l’écoute des préférences, l’adaptation des mots, l’accès à une interprète et la participation au soin. Les trois techniques des articles seront des appuis concrets de communication ou d’organisation, préparés hors épisode et discutés avec l’équipe ; aucune efficacité sur les épisodes n’est promise. NICE concerne le NHS britannique, pas une réglementation française de l’atelier.",
+      "Sécurité narrative et proches : les scènes à l’atelier se déroulent autour d’un classeur de recettes ou d’une table de présentation, hors manipulation d’outils coupants et de sources chaudes par Khadija. Une coanimatrice assure la séance et les responsabilités pratiques selon une organisation préalable ; un proche ne devient ni soignant ni surveillant permanent. Le plan clinique individualisé demeure distinct des tâches de l’atelier. Aucun contact forcé, enfermement, exorcisme, nourriture ou boisson imposée, injonction à répondre, démonstration d’un épisode, filmage ou récit public sans accord.",
+      "Architecture : expérience identitaire ; sentiment de commande des gestes ; mémoire ; mots pour le soin ; frontière des pratiques choisies ; consentement et caractère involontaire ; limites du diagnostic connu ; divulgation et stigmatisation ; effort professionnel ; récurrence ; limites des aidantes ; participation durable. Les retentissements et dilemmes relationnels sont des aspects de la vie avec le trouble, pas douze critères ni des traits universels. Le titre canonique reste intact et explicitement clinique."
+    ]
+  },
+  "direction": "Khadija, 36 ans, animatrice d’ateliers de cuisine avec des participantes de plusieurs générations, conserve un classeur vert de recettes où elle note surtout les variantes proposées par les autres. Elle aime demander qui préfère une autre texture, et refuse de transformer une recette en règle familiale. Leïla est une amie de confiance, non soignante ; Marion est sa coanimatrice, responsable de la continuité des séances quand Khadija s’arrête. Nora est l’interprète professionnelle qu’elle a choisie pour ses consultations ; sa langue n’est pas inventée et elle ne représente pas une culture entière. La docteure Tessier appartient à l’équipe qui a posé le diagnostic avant la série. Sur plusieurs semaines, Khadija distingue une note privée de santé, une courte explication choisie pour Marion et une feuille de rôles sans diagnostic destinée à l’atelier. Elle souhaite pouvoir dire ce qu’elle ressent sans que ses interlocutrices confirment une cause surnaturelle ou exigent qu’elle renonce à ses mots pour être soignée. Le classeur vert demeure un objet professionnel, jamais un outil thérapeutique. Le retour final porte sur une table de présentation de recettes déjà préparées par l’équipe ; Khadija choisit son rôle, les responsabilités pratiques sont réparties, le suivi continue. Aucune scène de crise à proximité de feu ou de couteaux, aucune guérison démontrée par la réussite du repas."
+}

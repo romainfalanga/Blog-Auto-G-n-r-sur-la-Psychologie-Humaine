@@ -1,0 +1,54 @@
+{
+  "references": {
+    "oms-mms-6c21": {
+      "title": "OMS CIM-11 MMS 2026-01, 6C21 Dysphorie de l’intégrité corporelle, lien canonique",
+      "url": "https://icd.who.int/browse/2026-01/mms/fr#256572629"
+    },
+    "oms-cddr-hrb": {
+      "title": "OMS CDDR 2024, ISBN 9789240077263, pages imprimées 435–438, original au dépôt HRB",
+      "url": "https://www.drugsandalcohol.ie/41519/1/WHO_Clinical_descriptions_and_diagnostic_requirements_ICD-11.pdf"
+    },
+    "ho-2026": {
+      "title": "Ho et al. Behavioral and neural effects of virtual embodiment in individuals with Body Integrity Dysphoria. J Psychiatr Res 2026;193:236–246. DOI 10.1016/j.jpsychires.2025.11.024 ; résumé PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41338124/"
+    },
+    "nice-cg138": {
+      "title": "NICE CG138, Patient experience in adult NHS services, recommandations 1.1.1–1.1.4",
+      "url": "https://www.nice.org.uk/guidance/CG138/chapter/recommendations"
+    },
+    "nice-ng225": {
+      "title": "NICE NG225, Self-harm: assessment, management and preventing recurrence, recommandations 1.11.7–1.11.8",
+      "url": "https://www.nice.org.uk/guidance/ng225/chapter/recommendations"
+    }
+  },
+  "dossier": {
+    "name": "Dysphorie de l’intégrité corporelle",
+    "aliases": [
+      "6C21",
+      "Body integrity dysphoria"
+    ],
+    "references": [
+      "oms-cddr",
+      "oms-mms-6c21",
+      "oms-cddr-hrb",
+      "ho-2026",
+      "nice-cg138",
+      "nice-ng225"
+    ],
+    "points": [
+      "Verification individuelle le 9 novembre 2026 : pages imprimées 435–438 du PDF original CDDR OMS lues intégralement par extraction locale (pages PDF 453–456) ; lien MMS français repris du canon, contenu dynamique non extrait. Résumé de l’étude originale Ho et al., publié en ligne le 26 novembre 2025 et dans le volume de février 2026, lu via résultat indexé PubMed ; ouverture PubMed directe n’a retourné qu’un pied de page. Recommandations NICE nommées lues sur les résultats indexés du domaine officiel. Aucune prétention à lecture intégrale de l’article Ho, aucune traduction officielle.",
+      "CDDR p.435 : désir intense et persistant d’un handicap physique important, avec inconfort face à la configuration ou au fonctionnement actuels du corps et conséquences importantes. Le retentissement peut suffire sans antécédent de blessure. Ne pas ajouter de lésion au canon pour rendre le trouble crédible. Pour Clovis, désir et inconfort sont racontés sans localisation corporelle précise ni projet technique.",
+      "CDDR p.436–438 : sentiment interne de discordance, non croyance qu’un membre appartient réellement à quelqu’un d’autre. Le désir peut être vécu comme cohérent avec soi ; ne pas présenter automatiquement le désir comme une pensée intrusive rejetée, propre au TOC. La souffrance, les préoccupations, la peur des réactions et les risques restent à évaluer. Le récit ne valide pas l’idée qu’une modification corporelle serait nécessaire ou bénéfique.",
+      "Chronologie : diagnostic déjà établi avant la série par l’équipe spécialisée en santé mentale et somatique. L’histoire développementale ancienne est abordée en suivi, sans scène d’enfant se blessant ni identification d’un événement causal. Les CDDR p.435,437 situent le début avant ou au début de l’adolescence ; ce repère clinique ne devient pas un test pour les lecteurs.",
+      "Honte et accès aux soins, CDDR p.436 : crainte du rejet, secret et difficulté à évoquer le désir même en consultation. Une réponse accueillante ne signifie pas accord avec une altération corporelle. L’ami n’exige ni preuve, ni démonstration, ni accès aux pensées privées ; le soignant peut évaluer directement les besoins et le risque sans jugement.",
+      "Évolution et retentissement, CDDR p.435–437 : intensité fluctuante et préoccupation pouvant entraver travail et relations. Une période moins intense ne prouve pas une guérison et une aggravation ne prouve pas un manque d’effort. L’activité culturelle offre un projet de vie, pas un traitement du trouble ni un moyen de remplacer une évaluation nécessaire.",
+      "Différentiels, CDDR p.435,437–438 : dysmorphophobie centrée sur le défaut esthétique perçu, TOC, états psychotiques, troubles factices ou simulation à but externe et causes neurologiques nécessitent un jugement professionnel. L’incongruence de genre constitue une distinction explicite, jamais une analogie explicative ou une identité attribuée à Clovis. Aucun tableau pour trier soi-même ces diagnostics. Un symptôme somatique nouveau n’est pas automatiquement attribué au diagnostic connu.",
+      "Mécanismes et traitement : les CDDR sont diagnostiques. Ho et al. 2026 étudient 20 personnes BID, 20 personnes avec absence de membre et 20 témoins : expérience subjective et mesures neurophysiologiques après une manipulation expérimentale en réalité virtuelle. Le résumé ne démontre ni cause individuelle, ni efficacité clinique durable, ni bénéfice-risque d’un traitement standard. Aucune reproduction de l’expérience ou de son matériel, aucune prescription VR. Une étude expérimentale, une association cérébrale, un cas clinique ou un avis d’experts ne constituent pas une recommandation validée.",
+      "Limites de prise en charge : aucune intervention spécifique 6C21 suffisamment établie et vérifiée ici pour être présentée comme traitement efficace. Ne prescrire ni procédure corporelle, ni médicament, ni exercice d’acceptation, d’exposition ou de simulation. Les trois appuis des futurs articles portent sur communication, organisation du quotidien et accès à un suivi spécialisé individualisé ; leur effet sur la dysphorie n’est pas garanti.",
+      "Sécurité : le diagnostic n’implique pas que toute personne se blesse ou souhaite mourir. Évaluer un risque de blessure et un éventuel risque suicidaire sans les confondre revient au professionnel. NICE NG225 1.11.7–8 décrit des plans collaboratifs après automutilation ; ce n’est ni un protocole BID ni une preuve d’antécédent chez Clovis. La fiction retient seulement, comme choix prudent individualisé avec son équipe, des contacts accessibles et un relais effectif si Clovis craint de se blesser. Aucun geste, moyen, seuil chiffré, échelle prédictive ou promesse de sécurité. En danger immédiat, contacter les secours, sans attendre le rendez-vous ordinaire.",
+      "Transposition : NICE CG138 porte sur les services britanniques, utile pour principes d’écoute et préférences ; NG225 concerne une autre population. Ne pas inventer de droit, structure de soins française spécifique ou délai garanti. Les supports choisis par Clovis, la répartition de la soirée et les phrases de demande d’aide sont fictionnels, pas interventions validées.",
+      "Frontières éditoriales : pas de description de simulation, d’obtention de handicap, de dissimulation d’une blessure, de matériel ou de procédure, même par exemple négatif. Aucun handicap réel décrit comme accessoire ou idéal, aucun parallèle à l’identité de genre. Les détails sexuels et les autres présentations possibles des CDDR ne sont pas ajoutés à Clovis. Préserver la dignité des personnes handicapées et l’écoute de Clovis simultanément."
+    ]
+  },
+  "direction": "Clovis, 39 ans, assistant de production dans un cinéma associatif, prépare une soirée d’écoute de bandes sonores avec deux bénévoles, Nora et Malik. Il aime retrouver le nom du preneur de son et laisse parfois trop de silence avant de répondre parce qu’il cherche une formule exacte ; ce goût n’est pas un signe clinique. Son ami choisi, Simon, n’est ni bénévole ni soignant. La docteure Roussel représente l’équipe spécialisée en santé mentale et somatique qui le suit depuis avant la série. Un conducteur de soirée bleu circule du bureau à la salle ; une note de santé et un support de contacts restent séparés. Le projet est une soirée d’écoute ordinaire, sans simulation de handicap, privation sensorielle, exercice corporel ou œuvre utilisée pour illustrer le diagnostic. Sur plusieurs semaines, Clovis prépare une façon de parler sans tout dévoiler, partage les responsabilités et sollicite son équipe lorsque la difficulté augmente. La soirée finale a lieu avec un accueil assuré par Nora et une régie assurée par Malik ; Clovis garde la sélection sonore et une courte introduction. Le suivi demeure, sans promesse de guérison ni modification corporelle."
+}

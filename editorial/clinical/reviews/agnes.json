@@ -1,0 +1,124 @@
+{
+  "schema_version": 1,
+  "character_id": "agnes",
+  "reviewer": "review_agnes",
+  "reviewed_on": "2026-11-09",
+  "summary": "Seconde relecture indépendante intégrale des douze épisodes corrigés : ouvertures, introductions, explications, manifestations et exemples, trois techniques et étapes, dénouements, conclusions, proches et raccords. Les cinq corrections demandées sont effectives : plan individualisé connu à l’épisode 1, suite médicale privée sans résultat inventé à l’épisode 7, relais concret distinct des besoins de santé à l’épisode 10, effort propre à Agnès dans l’introduction 11 et pause volontaire avec présence à l’environnement à l’épisode 12. Elles préservent les sources, les douze angles et les garde-fous documentés par CDDR OMS p.377–382 et recommandations NICE vérifiées lors de la première lecture. Diagnostic antérieur, distinction culturelle, absence de remplacement identitaire, réévaluation effective avant reprise, relais sans signal imposé et suivi maintenu sont cohérents. Aucun correctif ouvert. Acceptation éditoriale de ces octets précis, distincte d’une expertise clinique individuelle et sans prétendre démontrer l’efficacité des adaptations.",
+  "files": {
+    "editorial/clinical/designs/agnes.json": "678c3660441168d422e4e0a1573f49e5f4793ad39c06d5a1246f607ee68b861f",
+    "editorial/clinical/dossiers/agnes.json": "d9897121a466c14c2d88064cddabe6cb7452398376fab9e0ce9a160097bef52b",
+    "editorial/clinical/agnes.json": "7b197a7de6cdfabce50b5f7ca7dbad862fa1ede872d17599a3ed887ac4f91225"
+  },
+  "status": "passed",
+  "findings": [],
+  "episode_checks": [
+    {
+      "number": 1,
+      "focus": "Le champ de conscience se rétrécit",
+      "opening_quote": "La feuille quadrillée est posée au bord du bureau, ouverte sur une transition qu’Agnès n’a pas encore arrêtée. Elle voudrait un début sobre : assez de place pour entrer dans le cours sans devoir immédiatement expliquer ce que l’on sait faire. À quarante-six ans, elle enseigne depuis plusieurs années dans ce centre culturel. Mireille, sa collègue chorégraphe, préfère que la transition soit plus marquée. Elles en discutent pendant la préparation avec quelques adultes venus essayer le cours.",
+      "ending_quote": "Après la fin de l’événement et le temps nécessaire, Agnès choisit de ne pas reprendre le cours ce jour-là.",
+      "continuity_note": "Le cours est interrompu, Mireille termine puis conserve la feuille ; le lendemain porte sur le même événement.",
+      "clinical_note": "Restriction de conscience distincte de rêverie ; diagnostic antérieur et relais préexistant. La correction rend concrets les rôles discutés et contacts connus des collègues, sans consigne de rédaction dans la scène.",
+      "relatives_note": "Mireille propose un récit avec consentement, ne force ni réponse ni contact ; sécurité renvoyée au plan individualisé."
+    },
+    {
+      "number": 2,
+      "focus": "Un geste répété sans intention",
+      "opening_quote": "Mireille a rapporté la feuille quadrillée. La transition est toujours inachevée, mais la séance de la veille s’est terminée sous sa responsabilité. Agnès lui demande ce qui l’a conduite à reprendre le groupe. Elle se rappelle avoir voulu préciser une entrée ; elle ne sait pas comment ses indications sont devenues inaccessibles aux autres. Elles parlent du même événement, pas d’une nouvelle interruption.",
+      "ending_quote": "Avec l’accord d’Agnès, elles rédigent une observation sobre sur une note privée : le mouvement et les mots rapportés par Mireille ont remplacé les indications prévues.",
+      "continuity_note": "La note privée est séparée de la maquette ; elle prépare le rendez-vous et la question des souvenirs.",
+      "clinical_note": "Gestes et paroles restreints observés ne deviennent pas intention symbolique ; aucune cadence, imitation ni test de volonté.",
+      "relatives_note": "Le témoin distingue ce qu’il voit et ce qu’il ignore du vécu ; limite du récit acceptée."
+    },
+    {
+      "number": 3,
+      "focus": "Des souvenirs restent incomplets",
+      "opening_quote": "La note privée tient sur un petit morceau de papier. Agnès l’a glissée dans une enveloppe, loin de la feuille quadrillée restée au studio. Au rendez-vous prévu, la docteure Valette lui demande ce qu’elle souhaite reprendre du cours interrompu. Le diagnostic était déjà posé avant cette séance ; elles cherchent aujourd’hui à préciser le vécu et les appuis, pas à annoncer un nom pour la première fois.",
+      "ending_quote": "Agnès conserve deux phrases factuelles, en précisant celle qui vient de Mireille.",
+      "continuity_note": "Le geste appris de Mireille reste attribué au témoin ; deux phrases conservées, inconnues maintenues, fatigue annoncée.",
+      "clinical_note": "Amnésie possible non obligatoire ; pas de diagnostic additionnel déduit, ni recherche suggestive de traumatisme.",
+      "relatives_note": "Mireille rappelle la provenance d’un fait sans contraindre Agnès à retrouver une chronologie."
+    },
+    {
+      "number": 4,
+      "focus": "La fatigue après l’épisode",
+      "opening_quote": "Agnès pose la feuille quadrillée sur sa table et retrouve immédiatement l’endroit où la transition manque. Elle sait ce qu’elle voudrait obtenir : un passage qui laisse une place à celui qui s’arrête, sans que tout le groupe se tourne vers lui. L’idée lui paraît nette. La mettre au propre lui demande pourtant davantage que ce qu’elle avait imaginé en rentrant du rendez-vous.",
+      "ending_quote": "Mireille accepte de revoir la maquette un autre jour.",
+      "continuity_note": "Le retour du suivi conduit à reporter la préparation ; une page commune conservée et fatigue transmise.",
+      "clinical_note": "Fatigue postérieure distinguée de l’épuisement causal ; aucun délai universel ; persistance signalée dans la scène.",
+      "relatives_note": "La voix au téléphone ne prouve pas la récupération ; aide au report distincte de détermination de la cause."
+    },
+    {
+      "number": 5,
+      "focus": "Une pratique choisie garde son sens",
+      "opening_quote": "La page commune a moins de ratures que les versions précédentes. Mireille a repris une partie du programme pendant le report de leur séance ; Agnès arrive avec les indications de suivi qu’elle doit conserver pour son organisation. Elles peuvent maintenant discuter de la présentation du cours. Mireille a barré une référence à la pratique culturelle d’Agnès. Elle propose de tout retirer, pour ne pas prendre de risque.",
+      "ending_quote": "Elles retirent la formulation qui associait la danse au trouble et conservent une place à la culture dans la présentation.",
+      "continuity_note": "La page commune reprend le report ; référence culturelle préservée et brochure prépare la consultation suivante.",
+      "clinical_note": "Pratique culturellement reconnue et absorption ordinaire distinguées du trouble non souhaité ; ni culture cause ni culture thérapie.",
+      "relatives_note": "Question ouverte sur le sens sans rituel exigé ; désaccord artistique maintenu sans pathologisation."
+    },
+    {
+      "number": 6,
+      "focus": "Transe ne signifie pas possession",
+      "opening_quote": "La brochure dépasse de l’enveloppe qu’Agnès a posée à côté d’elle. Elle ne l’a pas apportée pour contester le diagnostic établi par l’équipe. Elle voudrait comprendre pourquoi deux termes y apparaissent sur la même ligne, comme si le second expliquait forcément le premier. Depuis leur discussion autour du programme, elle mesure mieux ce qu’un rapprochement de mots peut effacer.",
+      "ending_quote": "Agnès retient la formulation « épisodes involontaires » pour sa prochaine conversation avec Mireille.",
+      "continuity_note": "Brochure apportée au suivi ; épisodes involontaires retenus pour le travail et compte rendu privé.",
+      "clinical_note": "Absence de remplacement identitaire dans 6B62 ; gestes inhabituels ne prouvent ni possession ni psychose ; diagnostic déjà établi.",
+      "relatives_note": "Mireille accepte vocabulaire utile sans réclamer dossier ; changement futur conserve recours médical."
+    },
+    {
+      "number": 7,
+      "focus": "Un changement exige une nouvelle évaluation",
+      "opening_quote": "Quelques jours après la consultation, la feuille quadrillée est installée sur la table du centre. Aucun élève n’est attendu pour cette préparation. Mireille commence à demander quelle version elles vont reprendre, mais Agnès ne s’assied pas devant la maquette. Elle veut d’abord raconter quelque chose survenu plus tôt, un malaise qui ne lui a pas semblé comparable à l’événement du premier cours.",
+      "ending_quote": "L’évaluation médicale a lieu selon l’orientation reçue.",
+      "continuity_note": "Préparation sans élèves annulée ; appel et évaluation ont réellement lieu, reprise ultérieure conditionnée.",
+      "clinical_note": "Possible perte de connaissance évaluée sans présumer origine psychologique ; récupération incomplète appelle secours. Le dénouement corrigé conserve l’évaluation faite, les indications suivies et une cause non affirmée à Mireille ; aucun résultat médical ajouté.",
+      "relatives_note": "Mireille ne fabrique pas un témoignage du malaise et ne minimise pas sur la base du diagnostic ; urgence explicitée."
+    },
+    {
+      "number": 8,
+      "focus": "Le contrôle ne revient pas sur commande",
+      "opening_quote": "La préparation reprend plus tard, après l’évaluation et selon les indications reçues. Agnès n’a pas transformé le retour au centre en preuve que tout malaise serait désormais expliqué. Elle veut simplement reprendre une question laissée ouverte : comment permettre un arrêt sans attirer toute l’attention du groupe ? Mireille a apporté une petite carte, avec le mot pause tracé au milieu.",
+      "ending_quote": "Elles gardent la carte comme option pour une pause ordinaire.",
+      "continuity_note": "Après évaluation, carte devient facultative ; responsabilité inscrite sans dépendance au signal et question transmise au suivi.",
+      "clinical_note": "Perte de maîtrise incompatible avec signal obligatoire ; carte ni prévention ni exercice de résistance ; précisions professionnelles reçues.",
+      "relatives_note": "L’aide ne dépend pas du carton, aucun reproche ni contact forcé, responsabilités discutées hors épisode."
+    },
+    {
+      "number": 9,
+      "focus": "Les circonstances ne prouvent pas une cause",
+      "opening_quote": "Agnès sort trois petites notes de son enveloppe. Sur la première, elle a écrit un désaccord au centre. Sur la deuxième, un cours qu’elle avait apprécié. La dernière mentionne seulement une journée difficile, sans détail. Les feuilles ne forment pas un journal complet. Elle les a gardées parce qu’elle voudrait comprendre ce qui annonce les épisodes et ce qui permettrait de les prévoir.",
+      "ending_quote": "Agnès conserve les observations dont elles ont défini l’utilité pour le suivi.",
+      "continuity_note": "Trois notes privées mises en discussion ; cours agréable conservé comme fait gênant et feuille de cours séparée des hypothèses.",
+      "clinical_note": "Association temporelle ne prouve pas cause ; pas de traumatisme inféré ni souvenir recherché ; support limité au besoin du suivi.",
+      "relatives_note": "Mireille accepte incertitude et confidentialité ; ne promet pas que supprimer les désaccords protégera des épisodes."
+    },
+    {
+      "number": 10,
+      "focus": "La récurrence reste variable",
+      "opening_quote": "Deux préparations ont pu se tenir depuis le dernier rendez-vous. Agnès a retrouvé le plaisir de discuter une transition et de défendre un début plus sobre que celui de Mireille. Elles ne sont pas d’accord sur tout, mais cette fois le désaccord est resté dans la maquette. Pour l’essai suivant, elles accueillent un petit groupe ; la feuille pratique est prête et les responsabilités ont été revues.",
+      "ending_quote": "Les informations utiles sont transmises selon le cadre de suivi.",
+      "continuity_note": "Deux préparations puis interruption ; Mireille finit essai et transmission au suivi effectuée ; versions révèlent surcharge restante.",
+      "clinical_note": "Récurrence distincte d’échec moral et d’efficacité du relais ; pas de reprise forcée ni exposition. Le passage corrigé montre Mireille poursuivant les consignes avec le soutien prévu, sans effacer les besoins de santé.",
+      "relatives_note": "Deux préparations reconnues, interruption non minimisée, pas de réessai immédiat pour se rassurer."
+    },
+    {
+      "number": 11,
+      "focus": "Le travail tient au prix d’efforts",
+      "opening_quote": "Trois versions de la même séance occupent la table. Agnès les avait réunies après l’essai, puis glissées ensemble dans son dossier. Les différences sont petites mais nombreuses : une transition plus courte ici, une consigne que Mireille pourrait reprendre là, une autre entrée pour que rien ne paraisse interrompu. En les étalant, elle reconnaît le temps passé à prévoir ces variantes.",
+      "ending_quote": "Mireille prend entièrement la transition centrale, préparation comprise.",
+      "continuity_note": "Trois versions matérialisent charge ; Mireille prend transition centrale depuis conception, préparant partage final réel.",
+      "clinical_note": "Effort fonctionnel invisible reconnu sans ajouter symptôme universel ; adaptations ne traitent pas épisodes. L’introduction corrigée précise directement que ce surcroît de préparation est propre à Agnès.",
+      "relatives_note": "Mireille vérifie moyens et disponibilité pour engagement entier ; pas d’accès aux notes de santé exigé."
+    },
+    {
+      "number": 12,
+      "focus": "Participer avec des appuis durables",
+      "opening_quote": "Agnès pose la feuille quadrillée à l’endroit convenu, près du support de Mireille. Pour la première fois, les deux documents portent des choix qui n’ont pas tous été préparés par elle. La transition centrale appartient à sa collègue. Elles en ont discuté la place, mais Agnès n’en a pas réécrit chaque détail. Le groupe entre dans le studio et trouve plusieurs places où s’asseoir.",
+      "ending_quote": "L’atelier se termine.",
+      "continuity_note": "Atelier tenu, transition réellement conçue par Mireille, pause volontaire et feuille rangée avec projet futur.",
+      "clinical_note": "Pause choisie distincte d’une transe : Agnès décide de s’asseoir et reste présente à son environnement dans l’ouverture corrigée. Suivi conservé, succès artistique sans conclusion de rémission.",
+      "relatives_note": "Ni chaise signe de rechute ni cours preuve de guérison ; engagement de Mireille limité à responsabilités réelles."
+    }
+  ]
+}

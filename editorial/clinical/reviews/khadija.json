@@ -1,0 +1,124 @@
+{
+  "schema_version": 1,
+  "character_id": "khadija",
+  "reviewer": "review_khadija",
+  "reviewed_on": "2026-11-09",
+  "summary": "Lecture indépendante intégrale des douze épisodes, de leurs exemples, des trois appuis et de chaque miroir, avec canon, dossier, plan, charte et modèle. Douze aspects distincts, chronologie du diagnostic établi, confidentialité et relais concordent. Sources OMS CDDR pages imprimées 377–382 consultées dans le PDF original HRB ; NICE CG138 communication/préférences et NG217 1.2.6 vérifiés sur le domaine officiel. Aucun mécanisme inventé, validation surnaturelle, induction, prescription spécifique ou promesse de guérison relevé. Les adaptations restent individualisées et les scènes culinaires hors sources chaudes/outils coupants. Relecture éditoriale et clinique documentaire par agent, sans expertise clinique externe. Aucun point de correction ouvert.",
+  "files": {
+    "editorial/clinical/designs/khadija.json": "bad9469dde291fbbdd83864c6280aa07d7aac6aa6e6819fe6ce670aa7f465a10",
+    "editorial/clinical/dossiers/khadija.json": "d56f8109cd004c52c660f2c00550b9adaae248200ca04d81870e1513d9ca48d8",
+    "editorial/clinical/khadija.json": "08cf03b0a19e21aa418c9b7e8d5f431f36090feb9f1bcd4a7bbdb70f6897dd86"
+  },
+  "status": "passed",
+  "findings": [],
+  "episode_checks": [
+    {
+      "number": 1,
+      "focus": "Quand le sentiment de soi bascule",
+      "opening_quote": "Le classeur vert est ouvert sur deux versions d’une même recette. Khadija préfère laisser les deux : les participantes décideront ce qu’elles ont envie de présenter. À trente-six ans, elle anime ces ateliers de cuisine avec des femmes de plusieurs générations et tient à ce que les variantes aient leur place. Ce matin, il s’agit seulement de préparer les fiches. Aucun plat ne chauffe et les ustensiles ne sont pas sortis. Marion, sa coanimatrice, demande combien de pages elles garderont.",
+      "ending_quote": "« Tu peux m’écouter sans décider ce que ça veut dire ? » demande Khadija.",
+      "continuity_note": "L’épisode initial interrompt les fiches, sans cuisson ; Marion conserve le classeur et Khadija ne reprend pas. La demande de comprendre un geste ouvre exactement le lendemain de l’épisode 2.",
+      "clinical_note": "Le remplacement du sentiment de soi est attribué au vécu de Khadija, jamais à une entité attestée. Le trouble dissociatif est déjà diagnostiqué ; aucune croyance ni phrase isolée ne sert de critère autonome.",
+      "relatives_note": "Leïla propose écoute ou reprise du contact convenu sans choisir une cause ; Marion conserve les responsabilités de l’atelier. Aucun signal ni contact forcé n’est demandé."
+    },
+    {
+      "number": 2,
+      "focus": "Parler sans se sentir aux commandes",
+      "opening_quote": "Le lendemain de la réunion, Khadija retrouve Marion devant le classeur vert. Elle n’est pas venue reprendre l’atelier : elles ont seulement convenu d’un échange. Marion a conservé les deux variantes, comme prévu. Aucun changement surprenant n’attend Khadija entre les pages. Pourtant, un détail de la veille l’occupe. Marion lui a dit qu’elle avait déplacé une fiche pendant l’épisode. Khadija lui demande maintenant de raconter exactement ce qu’elle a vu, si elle s’en souvient.",
+      "ending_quote": "Khadija écrit deux lignes : ce que Marion a vu, puis ce qu’elle peut dire de son propre vécu.",
+      "continuity_note": "Retour explicite sur le même événement, sans nouvelle crise. La fiche déplacée reste ordinaire ; la note privée est créée séparément du classeur avant le rendez-vous.",
+      "clinical_note": "Le vécu de commande se distingue de l’identité de l’épisode 1. La phrase compréhensible n’est pas transformée en preuve de volonté, consentement ou simulation, conformément aux conduites organisées possibles décrites par les CDDR.",
+      "relatives_note": "Marion peut décrire une phrase et laisser Khadija transmettre ; le miroir écarte l’accusation tu savais très bien et conserve le relais préparé sans démonstration."
+    },
+    {
+      "number": 3,
+      "focus": "Garder les blancs du souvenir",
+      "opening_quote": "Khadija arrive au rendez-vous avec la feuille pliée en deux. Le classeur vert est resté à l’atelier, auprès de Marion ; cette note n’a rien à faire entre les variantes de recettes. Nora, l’interprète professionnelle qu’elle a choisie, lui demande si elle souhaite commencer par ses questions. La docteure Tessier attend qu’elle soit installée. Elles connaissent déjà le diagnostic ; il ne s’agit pas de convaincre une nouvelle équipe de son existence.",
+      "ending_quote": "La docteure Tessier conserve les distinctions proposées et répond aux questions dans le cadre du suivi.",
+      "continuity_note": "Le rendez-vous prévu utilise la note de l’épisode 2, avec Nora choisie et Tessier déjà connue. Le prochain entretien sur le vocabulaire est demandé explicitement, sans le fusionner avec celui-ci.",
+      "clinical_note": "Mémoire personnelle, témoignage et inconnues restent distincts ; la ligne vide ne justifie pas un autre trouble ni une reconstitution. Les trois appuis n’induisent aucun souvenir.",
+      "relatives_note": "Le miroir admet aussi les incertitudes du témoin et refuse les questions répétées de Leïla ; une observation peut être transmise uniquement dans le cadre accepté."
+    },
+    {
+      "number": 4,
+      "focus": "Trouver des mots communs au soin",
+      "opening_quote": "Au rendez-vous suivant, Khadija ne commence pas par la note des événements. Elle a écrit une seule question sur une autre page : « Quand vous dites possession, qu’est-ce que vous voulez dire ? » Nora est présente à sa demande. La docteure Tessier lui laisse lire la phrase jusqu’au bout. Khadija sait que ce diagnostic figure déjà dans son suivi, mais le même mot n’a pas le même poids selon la personne qui le prononce.",
+      "ending_quote": "Khadija conserve une phrase pour son vécu et une autre pour expliquer que l’État de possession est ici le nom d’un trouble dissociatif diagnostiqué.",
+      "continuity_note": "Second rendez-vous identifiable, même interprète professionnelle. Le choix des deux phrases conduit directement à la discussion culturelle qui poursuit cet entretien en épisode 5.",
+      "clinical_note": "Expérience, attribution et nom clinique sont distingués ; Nora reformule sans diagnostiquer ni représenter une culture. CG138 soutient la vérification de compréhension sans efficacité thérapeutique annoncée.",
+      "relatives_note": "Leïla demande les mots préférés et laisse corriger sa reformulation ; son rôle ne remplace pas l’interprète souhaitée pour le soin."
+    },
+    {
+      "number": 5,
+      "focus": "Distinguer pratique choisie et épisode subi",
+      "opening_quote": "La consultation n’est pas terminée. Khadija garde la page des deux formulations devant elle et demande à ajouter quelque chose. Il existe, dans sa vie, des moments collectifs auxquels elle choisit de participer et qui comptent pour elle. Elle ne souhaite pas les décrire en détail aujourd’hui. Elle veut simplement que ce choix ne soit pas rangé dans le même récit que l’interruption de la préparation des fiches. Nora transmet sa demande, puis vérifie qu’elle en a respecté la limite.",
+      "ending_quote": "L’équipe consigne la distinction exprimée par Khadija.",
+      "continuity_note": "L’entretien se poursuit sans changement de rendez-vous. La limite sur les pratiques personnelles est conservée ; la préparation de l’échange avec Marion amène ensuite la question du signal.",
+      "clinical_note": "Pratiques collectives choisies et épisode non souhaité ne deviennent pas un test isolé. Aucune origine, langue, religion ni rituel n’est assigné au prénom ; le contexte est reçu sans validation surnaturelle.",
+      "relatives_note": "La question proposée au proche laisse choisir les détails ; le miroir refuse démonstration et rituel, tout en laissant les questions souhaitées à l’équipe."
+    },
+    {
+      "number": 6,
+      "focus": "Vouloir participer ne suffit pas",
+      "opening_quote": "Marion a préparé une feuille pour leur prochain atelier. Khadija la rejoint pour en parler, sans qu’une date de retour ait encore été arrêtée. Elles se mettent d’accord sur le fait de garder les variantes des participantes. Puis Marion montre une ligne au bas de la page : « Khadija prévient dès qu’elle doit s’arrêter. » Elle l’a écrite comme une précaution, avec l’idée de respecter son autonomie. Khadija la relit deux fois avant de répondre.",
+      "ending_quote": "Marion raye la phrase.",
+      "continuity_note": "La rencontre avec Marion précède la fixation du retour. La ligne du signal est rayée ; les questions sont emportées au suivi plutôt que résolues par une promesse personnelle.",
+      "clinical_note": "Engagement et maîtrise pendant un épisode sont séparés. Un signal reste possible sans devenir une condition nécessaire du relais ; les appuis préparent l’organisation hors épisode.",
+      "relatives_note": "Marion accueille le souhait de participer et clarifie les responsabilités ; elle ne cherche pas une consigne infaillible et réserve les indications cliniques aux professionnels."
+    },
+    {
+      "number": 7,
+      "focus": "Un diagnostic ne clôt pas l’évaluation",
+      "opening_quote": "La feuille de Marion est posée à côté de la note privée, sur le bureau de la docteure Tessier. Khadija a recopié les questions pratiques sans lui apporter le classeur des recettes. Le retour n’a pas encore eu lieu. Elle aimerait préparer les fiches, mais elle ne veut pas que leur nouvel accord repose sur des suppositions. Nora est là à sa demande pour faciliter l’échange. La première question concerne l’absence de signal garanti ; la seconde dépasse l’atelier.",
+      "ending_quote": "Le plan et les modalités de contact sont revus.",
+      "continuity_note": "Le retour n’a pas encore eu lieu. Le point de suivi confirme les dispositions et la reprise limitée aux fiches avant l’épisode 9, tandis que le partage est laissé pour le message de l’épisode 8.",
+      "clinical_note": "Aucun nouvel épisode n’est inventé pour le propos. NG217 est correctement utilisé : EEG normal insuffisant pour exclure l’épilepsie, sans exiger cet examen systématiquement ni déduire une cause psychologique.",
+      "relatives_note": "Marion reçoit les dispositions utiles sans réclamer les examens ; le miroir indique qu’une situation nouvelle ou préoccupante appelle le relais adapté sans attente justifiée par le diagnostic connu."
+    },
+    {
+      "number": 8,
+      "focus": "Choisir qui peut savoir",
+      "opening_quote": "Le message à Marion tient déjà sur tout l’écran. Khadija l’a réécrit trois fois depuis le rendez-vous de suivi. Le cadre de la reprise est confirmé ; ce qu’elle hésite à envoyer concerne maintenant son explication personnelle. À côté d’elle, Leïla lit seulement les passages qu’elle lui montre. Khadija a commencé par les recettes, puis raconté la consultation, puis effacé les détails dont Marion n’a pas besoin pour préparer les fiches.",
+      "ending_quote": "Khadija envoie la courte explication clinique à Marion en demandant qu’elle reste entre elles, hors les recours nécessaires déjà convenus.",
+      "continuity_note": "Chez elle après confirmation du retour, Khadija envoie elle-même une explication à Marion ; la réponse de confidentialité est réelle. La feuille du groupe reste sans diagnostic et les copies annoncent l’épisode suivant.",
+      "clinical_note": "La divulgation est un retentissement relationnel individuel, pas un symptôme ajouté. Le partage facultatif est distinct des informations de sécurité ; aucun secret absolu n’empêche les recours convenus.",
+      "relatives_note": "Leïla peut relire à la demande sans prendre le téléphone ni annoncer à la place de Khadija ; Marion ne conditionne pas son soutien à davantage de détails."
+    },
+    {
+      "number": 9,
+      "focus": "L’effort caché derrière l’atelier",
+      "opening_quote": "Sur la table de préparation, Khadija pose trois piles de fiches. Le retour limité a été confirmé avec le suivi ; elle ne s’occupe ni de cuisson ni de découpe. Marion a prévu le temps nécessaire pour reprendre la présentation des variantes, mais Khadija commence par expliquer le classement. Une copie doit rester dans le classeur vert, une autre avec Marion, et la troisième pourrait servir si les deux premières ne sont plus au bon endroit.",
+      "ending_quote": "Marion prend la compilation des variantes.",
+      "continuity_note": "La reprise limitée est effective autour des fiches, sans feu ni découpe. Les trois piles rendent visible la soirée de travail ; Marion prend ensuite toute la compilation, Khadija garde la présentation.",
+      "clinical_note": "Le coût du fonctionnement maintenu est mis en scène sans ajouter un diagnostic compulsif. La recherche d’une fiche est une difficulté ordinaire ; les responsabilités partagées ne prétendent pas agir sur les épisodes.",
+      "relatives_note": "Marion propose une tâche entière et interroge le temps réel plutôt que de louer le sacrifice. Le miroir préserve les choix artistiques et ne médicalise pas chaque hésitation."
+    },
+    {
+      "number": 10,
+      "focus": "Une récidive ne juge pas les efforts",
+      "opening_quote": "Khadija ouvre le message de Marion : la compilation des variantes est prête. La séance doit avoir lieu dans la journée. Elle avait prévu de venir choisir avec elle l’ordre de présentation, mais un nouvel épisode est survenu chez elle. Leïla a utilisé le plan convenu et le contact avec l’équipe clinique a effectivement eu lieu. Khadija n’a pas besoin d’en refaire maintenant le récit pour répondre à sa coanimatrice. Elle lui annonce qu’elle ne viendra pas aujourd’hui.",
+      "ending_quote": "Marion confirme qu’elle assure la séance et qu’elle ne donnera pas de raison médicale au groupe.",
+      "continuity_note": "Deuxième événement situé chez elle, non à l’atelier ; Leïla utilise le plan et le contact clinique a lieu. La séance est réellement assurée par Marion ; la reprise attend le point de suivi annoncé.",
+      "clinical_note": "La récurrence ne prouve ni faute ni inefficacité totale des appuis. Le bilan pratique est séparé du soin ; aucune modification thérapeutique autonome ni nouvelle manifestation spectaculaire.",
+      "relatives_note": "Marion prend la séance sans exiger d’explication publique ; Leïla peut poser ses limites, qui n’annulent pas les recours médicaux adaptés."
+    },
+    {
+      "number": 11,
+      "focus": "Un soutien avec des limites",
+      "opening_quote": "Le point avec l’équipe a eu lieu avant toute nouvelle préparation. Khadija en a repris les indications et les contacts utiles ; elle ne revient pas à l’atelier sur la seule envie de rassurer Marion. Aujourd’hui, elle retrouve Leïla pour parler d’une autre partie de la semaine. Son amie a maintenu ce qu’elle avait dit après le nouvel épisode : elle veut être présente dans sa vie, mais elle ne peut pas être la personne que l’on suppose disponible à toute heure.",
+      "ending_quote": "Leïla garde un rôle choisi et accepte de discuter d’un accompagnement à un prochain rendez-vous.",
+      "continuity_note": "Le point clinique annoncé a effectivement précédé toute nouvelle préparation. L’amitié, la coanimation et le suivi reçoivent des rôles distincts ; la table finale est confirmée dans les indications reçues.",
+      "clinical_note": "Le soutien social et la disponibilité sont des retentissements, pas des critères du trouble. Une liste de personnes ne devient pas surveillance ; les besoins non couverts reviennent aux professionnels.",
+      "relatives_note": "Leïla formule une présence concrète pour un rendez-vous sans promettre de permanence. Le miroir autorise la réaction de Khadija tout en conservant la limite et les sujets ordinaires de leur amitié."
+    },
+    {
+      "number": 12,
+      "focus": "Retrouver une place sans tout raconter",
+      "opening_quote": "Le classeur vert s’ouvre facilement à la bonne page. Il ne contient plus les trois versions de chaque fiche, mais les variantes compilées par Marion et une seule feuille de rôles. Autour de la table, les participantes de plusieurs générations ont apporté les préparations prévues, déjà réalisées. Khadija ne s’occupe ni des sources chaudes ni des outils coupants. Marion assure les autres responsabilités pratiques selon leur organisation. La table de présentation peut commencer.",
+      "ending_quote": "Marion termine la partie convenue, puis Khadija revient noter le titre proposé pour la nouvelle page.",
+      "continuity_note": "La table annoncée a réellement lieu avec recettes déjà préparées, classeur et confidentialité préservés. Khadija passe volontairement la parole puis revient noter une proposition ; divulgation et participation sont résolues.",
+      "clinical_note": "La passation choisie reste distincte d’un épisode. L’activité réussie ne prouve ni guérison ni action sur la fréquence des épisodes ; le suivi continue et les appuis restent révisables.",
+      "relatives_note": "Marion reçoit la passation sans surveiller la pause ni célébrer une guérison. Participantes et Leïla peuvent parler recettes et projets, en maintenant les limites établies."
+    }
+  ]
+}

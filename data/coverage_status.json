@@ -24,15 +24,15 @@
     "other_frameworks": "APA pédagogique, RDoC recherche et CIF fonctionnement restent des grilles distinctes."
   },
   "counts": {
-    "articles": 1275,
-    "characters": 107,
-    "clinical_arcs": 74,
-    "clinical_episodes": 888,
+    "articles": 1323,
+    "characters": 111,
+    "clinical_arcs": 78,
+    "clinical_episodes": 936,
     "original_articles_reviewed": 387,
     "icd11_chapter06_codes": 858,
     "icd11_ungrouped_codes": 10,
-    "icd11_primary_arcs": 70,
-    "clinical_cases_pending": 80,
+    "icd11_primary_arcs": 74,
+    "clinical_cases_pending": 76,
     "other_published_arcs": 4,
     "internal_patterns": 161,
     "internal_patterns_indexed": 161
@@ -112,8 +112,7 @@
       "statuses": {
         "editorial_mapping_only": 18,
         "no_standalone_arc_planned": 7,
-        "pending_editorial_case": 3,
-        "published_primary_arc": 4
+        "published_primary_arc": 7
       }
     },
     {
@@ -143,8 +142,7 @@
       "statuses": {
         "editorial_mapping_only": 3,
         "no_standalone_arc_planned": 3,
-        "pending_editorial_case": 1,
-        "published_primary_arc": 1
+        "published_primary_arc": 2
       }
     },
     {
@@ -4297,12 +4295,30 @@
       "label": "État de transe",
       "group_id": "BlockL1-6B6",
       "editorial_status": "parcours",
-      "coverage_status": "pending_editorial_case",
+      "coverage_status": "published_primary_arc",
       "reason": "diagnostic_distinct",
       "candidate_ids": [
         "agnes"
       ],
-      "published_primary": null,
+      "published_primary": {
+        "character_id": "agnes",
+        "name": "Agnès",
+        "reviewed_on": "2026-11-09",
+        "articles": [
+          "posts/comprendre-et-maitriser-ses-emotions/agnes-atelier-appuis-durables",
+          "posts/comprendre-et-maitriser-ses-emotions/agnes-circonstances-et-cause",
+          "posts/comprendre-et-maitriser-ses-emotions/agnes-conscience-retrecie",
+          "posts/comprendre-et-maitriser-ses-emotions/agnes-effort-invisible-preparation",
+          "posts/comprendre-et-maitriser-ses-emotions/agnes-fatigue-apres-episode",
+          "posts/comprendre-et-maitriser-ses-emotions/agnes-geste-sans-intention",
+          "posts/comprendre-et-maitriser-ses-emotions/agnes-malaise-inhabituel-reevaluation",
+          "posts/comprendre-et-maitriser-ses-emotions/agnes-pratique-culturelle-choisie",
+          "posts/comprendre-et-maitriser-ses-emotions/agnes-recurrence-et-relais",
+          "posts/comprendre-et-maitriser-ses-emotions/agnes-relais-sans-signal",
+          "posts/comprendre-et-maitriser-ses-emotions/agnes-souvenirs-incomplets",
+          "posts/comprendre-et-maitriser-ses-emotions/agnes-transe-et-possession"
+        ]
+      },
       "reference_url": "https://icd.who.int/browse/2026-01/mms/fr#1807490186"
     },
     {
@@ -4310,12 +4326,30 @@
       "label": "État de possession",
       "group_id": "BlockL1-6B6",
       "editorial_status": "parcours",
-      "coverage_status": "pending_editorial_case",
+      "coverage_status": "published_primary_arc",
       "reason": "diagnostic_distinct",
       "candidate_ids": [
         "khadija"
       ],
-      "published_primary": null,
+      "published_primary": {
+        "character_id": "khadija",
+        "name": "Khadija",
+        "reviewed_on": "2026-11-09",
+        "articles": [
+          "posts/comprendre-et-maitriser-ses-emotions/khadija-choisir-qui-peut-savoir",
+          "posts/comprendre-et-maitriser-ses-emotions/khadija-diagnostic-et-evaluation",
+          "posts/comprendre-et-maitriser-ses-emotions/khadija-effort-cache-atelier",
+          "posts/comprendre-et-maitriser-ses-emotions/khadija-mots-communs-au-soin",
+          "posts/comprendre-et-maitriser-ses-emotions/khadija-parole-et-commande",
+          "posts/comprendre-et-maitriser-ses-emotions/khadija-place-choisie-atelier",
+          "posts/comprendre-et-maitriser-ses-emotions/khadija-pratique-choisie-episode-subi",
+          "posts/comprendre-et-maitriser-ses-emotions/khadija-recidive-et-efforts",
+          "posts/comprendre-et-maitriser-ses-emotions/khadija-sentiment-de-soi",
+          "posts/comprendre-et-maitriser-ses-emotions/khadija-soutien-et-limites",
+          "posts/comprendre-et-maitriser-ses-emotions/khadija-souvenirs-incomplets",
+          "posts/comprendre-et-maitriser-ses-emotions/khadija-volonte-et-episode"
+        ]
+      },
       "reference_url": "https://icd.who.int/browse/2026-01/mms/fr#1374925579"
     },
     {
@@ -4354,12 +4388,30 @@
       "label": "Trouble dissociatif de l'identité partiel",
       "group_id": "BlockL1-6B6",
       "editorial_status": "parcours",
-      "coverage_status": "pending_editorial_case",
+      "coverage_status": "published_primary_arc",
       "reason": "diagnostic_distinct",
       "candidate_ids": [
         "evaelle"
       ],
-      "published_primary": null,
+      "published_primary": {
+        "character_id": "evaelle",
+        "name": "Évaëlle",
+        "reviewed_on": "2026-11-09",
+        "articles": [
+          "posts/comprendre-et-maitriser-ses-emotions/evaelle-cout-du-quotidien",
+          "posts/comprendre-et-maitriser-ses-emotions/evaelle-engagement-choisi-aboutit",
+          "posts/comprendre-et-maitriser-ses-emotions/evaelle-fluctuation-et-relais",
+          "posts/comprendre-et-maitriser-ses-emotions/evaelle-geste-et-initiative",
+          "posts/comprendre-et-maitriser-ses-emotions/evaelle-memoire-presente",
+          "posts/comprendre-et-maitriser-ses-emotions/evaelle-origine-non-deduite",
+          "posts/comprendre-et-maitriser-ses-emotions/evaelle-parole-interieure-suggestions",
+          "posts/comprendre-et-maitriser-ses-emotions/evaelle-partiel-retentissement",
+          "posts/comprendre-et-maitriser-ses-emotions/evaelle-passage-incertain-reunion",
+          "posts/comprendre-et-maitriser-ses-emotions/evaelle-pensee-interrompt-etiquette",
+          "posts/comprendre-et-maitriser-ses-emotions/evaelle-peur-pendant-tri",
+          "posts/comprendre-et-maitriser-ses-emotions/evaelle-soutien-aux-limites-claires"
+        ]
+      },
       "reference_url": "https://icd.who.int/browse/2026-01/mms/fr#988400777"
     },
     {
@@ -5004,12 +5056,30 @@
       "label": "Dysphorie de l'intégrité corporelle",
       "group_id": "BlockL1-6C2",
       "editorial_status": "parcours",
-      "coverage_status": "pending_editorial_case",
+      "coverage_status": "published_primary_arc",
       "reason": "diagnostic_distinct",
       "candidate_ids": [
         "clovis"
       ],
-      "published_primary": null,
+      "published_primary": {
+        "character_id": "clovis",
+        "name": "Clovis",
+        "reviewed_on": "2026-11-09",
+        "articles": [
+          "posts/comprendre-et-maitriser-ses-emotions/clovis-au-dela-du-defaut-esthetique",
+          "posts/comprendre-et-maitriser-ses-emotions/clovis-discordance-difficile-a-nommer",
+          "posts/comprendre-et-maitriser-ses-emotions/clovis-ecoute-en-consultation",
+          "posts/comprendre-et-maitriser-ses-emotions/clovis-etude-et-soin",
+          "posts/comprendre-et-maitriser-ses-emotions/clovis-honte-et-parole",
+          "posts/comprendre-et-maitriser-ses-emotions/clovis-intensite-variable",
+          "posts/comprendre-et-maitriser-ses-emotions/clovis-place-professionnelle-choisie",
+          "posts/comprendre-et-maitriser-ses-emotions/clovis-preoccupation-au-travail",
+          "posts/comprendre-et-maitriser-ses-emotions/clovis-proche-et-relais",
+          "posts/comprendre-et-maitriser-ses-emotions/clovis-projet-et-suivi",
+          "posts/comprendre-et-maitriser-ses-emotions/clovis-securite-prioritaire",
+          "posts/comprendre-et-maitriser-ses-emotions/clovis-vecu-ancien-diagnostic"
+        ]
+      },
       "reference_url": "https://icd.who.int/browse/2026-01/mms/fr#256572629"
     },
     {
@@ -12418,34 +12488,6 @@
     }
   ],
   "pending_cases": [
-    {
-      "character_id": "agnes",
-      "name": "Agnès",
-      "code": "6B62",
-      "label": "État de transe",
-      "decision": "À documenter puis choisir entre récit, comparaison et dossier."
-    },
-    {
-      "character_id": "khadija",
-      "name": "Khadija",
-      "code": "6B63",
-      "label": "État de possession",
-      "decision": "À documenter puis choisir entre récit, comparaison et dossier."
-    },
-    {
-      "character_id": "evaelle",
-      "name": "Évaëlle",
-      "code": "6B65",
-      "label": "Trouble dissociatif de l'identité partiel",
-      "decision": "À documenter puis choisir entre récit, comparaison et dossier."
-    },
-    {
-      "character_id": "clovis",
-      "name": "Clovis",
-      "code": "6C21",
-      "label": "Dysphorie de l'intégrité corporelle",
-      "decision": "À documenter puis choisir entre récit, comparaison et dossier."
-    },
     {
       "character_id": "loic",
       "name": "Loïc",

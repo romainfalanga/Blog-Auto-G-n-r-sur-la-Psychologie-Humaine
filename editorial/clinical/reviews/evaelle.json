@@ -1,0 +1,124 @@
+{
+  "schema_version": 1,
+  "character_id": "evaelle",
+  "reviewer": "review_evaelle",
+  "reviewed_on": "2026-11-09",
+  "summary": "Lecture intégrale indépendante des douze épisodes, confrontation au design, dossier, CDDR p.387–391 et précautions ISSTD. Correction grammaticale de l’épisode 3 vérifiée ; identité exacte du reste du texte contrôlée et raccords, ouvertures, dénouements et miroirs relus ensemble. Aucun point ouvert identifié. Cette relecture ne constitue pas une expertise clinique externe.",
+  "files": {
+    "editorial/clinical/designs/evaelle.json": "37415ed95b3e1a6d62d7b77629b3f3e74d02f61433d4ccb1e6149cfefa3daca4",
+    "editorial/clinical/dossiers/evaelle.json": "439aaf4299608486501ce014d135fd62e139feb4b252d58a1c41556bdd3666c4",
+    "editorial/clinical/evaelle.json": "72aae03d6cd2d359a40f6b755330f224bd0a0bc3c149a880a971ce8971b773ae"
+  },
+  "status": "passed",
+  "findings": [],
+  "episode_checks": [
+    {
+      "number": 1,
+      "focus": "Une pensée intrusive interrompt la tâche",
+      "opening_quote": "Évaëlle a choisi trois caisses assez petites pour tenir sous la table du coin atelier. Sur la première étiquette, elle a écrit « à donner ». La deuxiè",
+      "ending_quote": "Évaëlle pose le stylo, puis reprend l’étiquette quand elle le souhaite. Nora garde sa question pour après. Les trois caisses portent finalement leurs ",
+      "continuity_note": "Les trois caisses sont nommées puis le tri est réservé à un créneau ultérieur ; aucun tri achevé anticipé.",
+      "clinical_note": "La pensée est décrite comme intrusive dans un diagnostic antérieur, sans auteur intérieur ni preuve diagnostique isolée.",
+      "relatives_note": "Nora suspend les questions sans demander le contenu ; le droit d’arrêter est explicite."
+    },
+    {
+      "number": 2,
+      "focus": "Un affect surgit comme étranger",
+      "opening_quote": "Les caisses sont maintenant alignées contre la table. Évaëlle ouvre son carnet vert à la petite liste prévue pour ce premier tri : vérifier les livres",
+      "ending_quote": "Nora accepte d’arrêter le tri. Avant de ranger son carnet, Évaëlle garde une seule décision : les suggestions iront dans la caisse à découvrir. Les li",
+      "continuity_note": "Le créneau du tri reprend les caisses nommées ; seule la destination des suggestions est décidée après interruption.",
+      "clinical_note": "Peur vécue comme étrangère avec orientation et souvenirs maintenus ; aucune origine traumatique déduite.",
+      "relatives_note": "Nora peut accepter un arrêt complet ; elle n’analyse pas un souvenir supposé."
+    },
+    {
+      "number": 3,
+      "focus": "Une parole intérieure n’est pas un verdict",
+      "opening_quote": "Évaëlle a disposé les suggestions en deux petites piles. Plusieurs résidents ont écrit seulement un titre ; d’autres ont ajouté une phrase pour expliq",
+      "ending_quote": "Au rendez-vous, Évaëlle décrit la peur puis la parole intérieure, sans essayer de faire revenir l’une ou l’autre. La docteure Roussel reprend leur ret",
+      "continuity_note": "Les suggestions laissées de côté sont reprises après le rendez-vous, qui traite aussi la peur de l’épisode 2 ; cinq titres retenus.",
+      "clinical_note": "Parole intérieure distinguée de l’intention de penser sans diagnostic par voix isolée. La phrase corrigée sur la mémoire conserve le sens clinique : une information non saisie ne signifie pas oubli de l’ensemble du moment.",
+      "relatives_note": "Nora répète le titre demandé et ne cherche ni contenu ni identité de la parole."
+    },
+    {
+      "number": 4,
+      "focus": "Agir sans reconnaître pleinement son geste",
+      "opening_quote": "Les cinq titres retenus sont recopiés sur la page de gauche du carnet vert. Sur celle de droite, Évaëlle a dessiné un rectangle pour décider de la tai",
+      "ending_quote": "Évaëlle renonce aux découpes pour cette séance. Nora accepte de garder le papier pour leur prochain créneau. Ensemble, elles vérifient seulement l’ort",
+      "continuity_note": "Les cinq titres conduisent aux cartes ; découpe reportée, vérification orthographique seule et question préparée pour le suivi.",
+      "clinical_note": "Agentivité subjective distinguée de mémoire, sans répétition provocatrice du geste ni attribution à une personne séparée.",
+      "relatives_note": "Nora garde le papier sans demander de répéter le geste ; rôle pratique conservé."
+    },
+    {
+      "number": 5,
+      "focus": "La mémoire peut rester présente",
+      "opening_quote": "Le carnet vert est ouvert entre Évaëlle et la docteure Roussel. Il contient cinq titres de livres, un dessin de carte et la question écrite après la s",
+      "ending_quote": "La docteure Roussel explique que la mémoire conservée n’invalide pas les intrusions décrites dans ce trouble, sans en faire un critère suffisant à ell",
+      "continuity_note": "La question sur la carte est reprise au rendez-vous ; réunion des horaires confirmée avec souhait de ne pas fermer seule.",
+      "clinical_note": "Mémoire conservée compatible avec intrusions, sans devenir critère suffisant ni exiger une lacune supplémentaire.",
+      "relatives_note": "Nora peut reconnaître souvenir et difficulté ensemble sans test de mémoire."
+    },
+    {
+      "number": 6,
+      "focus": "Un passage bref demande une réévaluation",
+      "opening_quote": "Malik pose le planning au milieu de la table. L’échange de livres doit se tenir un samedi, lorsque plusieurs résidents pourront passer après leur trav",
+      "ending_quote": "Pendant l’échange clinique, Évaëlle décrit la réunion et le bref passage incertain. La docteure Roussel reprend notamment le contexte, le sommeil, les",
+      "continuity_note": "La réunion produit une affectation tardive incertaine ; validation suspendue puis réitérée après échange clinique réel.",
+      "clinical_note": "Un seul passage bref, forte émotion, mémoire laissée incertaine. Sommeil, traitements/substances éventuels et éléments médicaux examinés, sans attribution automatique au diagnostic.",
+      "relatives_note": "Malik retire la confirmation et ne prête pas un accord à une identité ; ses observations restent distinctes d’interprétations."
+    },
+    {
+      "number": 7,
+      "focus": "Partiel ne veut pas dire sans retentissement",
+      "opening_quote": "Le message de Malik arrive le lendemain de l’échange clinique. Lucie, une collègue de l’équipe, pourra assurer la fermeture du samedi. Le créneau tard",
+      "ending_quote": "Après la clarification clinique, Évaëlle écrit à Malik qu’elle préparera la table et assurera un accueil de trente minutes. Malik confirme que l’équip",
+      "continuity_note": "Lucie prend la fermeture après le retrait ; trente minutes d’accueil confirmées avant l’affiche.",
+      "clinical_note": "Le sens de partiel concerne l’organisation clinique, pas un simple niveau de gravité ; aucun changement diagnostique après le passage incertain.",
+      "relatives_note": "Malik confirme une répartition sans demander d’explication médicale publique."
+    },
+    {
+      "number": 8,
+      "focus": "Une origine ne se déduit pas du vécu",
+      "opening_quote": "Nora étale deux feuilles sur la table : une blanche et une orange. Évaëlle rit en voyant le choix proposé. L’horaire de l’échange est maintenant confi",
+      "ending_quote": "Nora dit qu’elle comprend et retire sa proposition d’explication. « On revient au titre ? » Évaëlle choisit « Livres à partager », puis la feuille ora",
+      "continuity_note": "L’affiche reprend l’horaire validé, la couleur préférée et les trois catégories ; cartes encore à achever.",
+      "clinical_note": "Association générale trauma/dissociation distincte d’une preuve individuelle ; aucune histoire passée ni souvenir retrouvé fabriqué.",
+      "relatives_note": "Nora retire son hypothèse et revient au titre de l’affiche, sans autre interprétation."
+    },
+    {
+      "number": 9,
+      "focus": "Tenir le quotidien coûte un effort",
+      "opening_quote": "Malik tient l’affiche orange à bout de bras pour vérifier qu’on peut lire l’horaire depuis le couloir. Il trouve le résultat clair. Les trois catégori",
+      "ending_quote": "Évaëlle envoie le message. Malik confirme qu’il organisera la mise en place avec l’équipe et lui demandera seulement de vérifier les cinq recommandati",
+      "continuity_note": "Cartes terminées dans un créneau situé après l’affiche ; recommandations gardées et installation confiée à l’équipe, responsables encore à fixer.",
+      "clinical_note": "Effort invisible distingué de produit fini ; adaptation non présentée comme traitement prouvé et pas de résultat d’étude extrapolé.",
+      "relatives_note": "Malik doit confirmer un relais réel ; disponibilité de Nora explicitement non présumée."
+    },
+    {
+      "number": 10,
+      "focus": "Le soutien a aussi ses limites",
+      "opening_quote": "Nora peut venir le vendredi en fin d’après-midi pour préparer les caisses. Elle le dit avant qu’Évaëlle lui demande autre chose, puis ajoute qu’elle n",
+      "ending_quote": "Le vendredi, Nora prépare les trois caisses au créneau convenu. Malik aide à la disposition et confirme que Samir, collègue du foyer, sera présent pen",
+      "continuity_note": "Créneau de Nora vendredi, Samir nommé pour installation/accueil, Lucie maintenue à la fermeture ; relais établis avant mobilisation.",
+      "clinical_note": "Les limites relationnelles restent un enjeu d’organisation, pas un nouveau symptôme ou un rôle thérapeutique.",
+      "relatives_note": "Nora peut ne pas répondre le soir ; soutien, coordination du travail et suivi clinique séparés."
+    },
+    {
+      "number": 11,
+      "focus": "Une fluctuation ne décide pas de tout",
+      "opening_quote": "Un peu plus tard ce même vendredi, les caisses préparées par Nora attendent près de la table. Samir vérifie que les catégories restent visibles une fo",
+      "ending_quote": "Samir termine l’installation. Évaëlle vérifie seulement que les cinq titres sont lisibles, puis s’arrête. Elle transmet le changement au suivi selon l",
+      "continuity_note": "Même vendredi après préparation des caisses, Samir reprend effectivement ; trente minutes du lendemain restent avec option de retrait anticipé.",
+      "clinical_note": "Intrusion familière plus intense avec mémoire présente ; évolution transmise au suivi sans autoadaptation des soins ni cause unique supposée.",
+      "relatives_note": "Samir reprend une tâche et n’évalue pas la gravité ni ne surveille Évaëlle."
+    },
+    {
+      "number": 12,
+      "focus": "Un engagement choisi peut aboutir",
+      "opening_quote": "La première personne arrive avec deux livres dans un sac de courses. Évaëlle lui montre les trois caisses et explique qu’elle peut aussi écrire une re",
+      "ending_quote": "Samir reprend la table et répond à la visiteuse suivante. Évaëlle choisit un recueil pour sa couverture orange, puis en lit quelques lignes avant de l",
+      "continuity_note": "Samir présent dès ouverture reprend après trente minutes ; Lucie attendue fermeture, recueil orange et départ effectif concluent l’enjeu.",
+      "clinical_note": "Projet abouti sans guérison inférée ; suivi maintenu et aucune fusion d’états ou résolution d’un passé imaginé.",
+      "relatives_note": "Samir ne prolonge pas le créneau ; Nora poursuit son activité, soutien sans examen clinique."
+    }
+  ]
+}

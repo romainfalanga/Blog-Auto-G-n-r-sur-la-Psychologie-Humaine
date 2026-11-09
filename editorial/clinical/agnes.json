@@ -1,0 +1,1263 @@
+{
+  "character_id": "agnes",
+  "bio": "Agnès, 46 ans, est professeure de danse dans un centre culturel où elle travaille depuis plusieurs années. Son État de transe est déjà diagnostiqué : des épisodes involontaires lui font perdre des repères et interrompent parfois ses préparations. Elle veut construire un atelier qui permet de s’arrêter sans attirer l’attention, tout en préservant son lien à une pratique culturelle choisie. Avec une collègue chorégraphe et l’équipe qui la suit, elle distingue ce qu’elle vit, ce qu’elle souhaite partager et les appuis nécessaires pour continuer à enseigner.",
+  "profile_topics": [
+    "État de transe",
+    "épisodes involontaires",
+    "repères et mémoire",
+    "pratiques culturelles choisies",
+    "participation professionnelle"
+  ],
+  "episodes": [
+    {
+      "number": 1,
+      "slug": "agnes-conscience-retrecie",
+      "title": "État de transe : quand l’environnement devient moins accessible",
+      "description": "Un épisode interrompt la préparation du cours. Mireille reprend le groupe selon l’organisation convenue, sans demander de signal.",
+      "context": "Au studio avec quelques adultes",
+      "topics": [
+        "État de transe",
+        "Perception restreinte",
+        "Relais préparé"
+      ],
+      "clinical_focus": "Le champ de conscience se rétrécit",
+      "diagnostic_stage": "known",
+      "clinical_intro": "Dans l’état de transe diagnostiqué, le champ de conscience peut être fortement restreint et l’environnement devenir moins accessible. Ce vécu ne se confond pas avec une simple rêverie ni avec une pratique choisie. Un relais préparé aide à organiser une activité interrompue, tandis que l’évaluation et les modalités de soutien restent individualisées avec les professionnels.",
+      "opening": "La feuille quadrillée est posée au bord du bureau, ouverte sur une transition qu’Agnès n’a pas encore arrêtée. Elle voudrait un début sobre : assez de place pour entrer dans le cours sans devoir immédiatement expliquer ce que l’on sait faire. À quarante-six ans, elle enseigne depuis plusieurs années dans ce centre culturel. Mireille, sa collègue chorégraphe, préfère que la transition soit plus marquée. Elles en discutent pendant la préparation avec quelques adultes venus essayer le cours.\n\nPuis Agnès perd le fil de ce qui se passe autour d’elle. Elle ne chute pas. Ce qu’elle pourra ensuite raconter de l’espace est limité ; les échanges du groupe ne lui restent pas accessibles de la même manière. Mireille constate que la suite prévue n’est plus donnée et reprend l’animation, selon leur organisation préalable. Les participants restent encadrés. Elle n’attend pas qu’Agnès lève une main ou formule une demande pour prendre sa responsabilité.\n\nLe diagnostic d’état de transe a été posé avant cette séance par l’équipe qui suit Agnès. Leur plan de soutien existe déjà ; les deux collègues ont discuté de leurs responsabilités et connaissent les modalités de contact prévues pour Agnès. La feuille reste à la même place, mais le cours avance sous la responsabilité de Mireille. Ce qui s’est passé pour Agnès et ce que sa collègue a observé ne formeront pas forcément un récit identique.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Une restriction de conscience ne se réduit pas à la distraction",
+          "text": "L’état de transe clinique peut comporter une perception de l’environnement fortement restreinte, vécue hors du contrôle de la personne. Son évaluation tient compte du contexte et des autres causes possibles. Dans cette histoire, le diagnostic est antérieur ; le cours montre son retentissement individuel. Ni l’intensité d’une concentration ordinaire ni une activité culturelle choisie ne suffisent à définir ce trouble. Le relais de Mireille répond à une responsabilité professionnelle, pas à une méthode pour faire cesser l’état."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment la restriction de perception affecte-t-elle le cours ?",
+          "points": [
+            {
+              "heading": "L’environnement ne reste plus également accessible",
+              "text": "La restriction de perception concerne ce que la personne peut saisir autour d’elle, sans que le témoin connaisse son expérience intérieure.",
+              "examples": [
+                "Agnès ne suit plus l’ensemble de l’échange dans le studio.",
+                "Mireille constate que les indications suivantes ne sont plus données."
+              ]
+            },
+            {
+              "heading": "La préparation est interrompue",
+              "text": "Une activité choisie peut être affectée par un épisode qui ne l’est pas. Cela ne transforme pas la danse en cause.",
+              "examples": [
+                "La transition reste inachevée sur la feuille quadrillée.",
+                "Mireille reprend l’animation au lieu d’attendre une démonstration de contrôle."
+              ]
+            },
+            {
+              "heading": "Le récit reste partiel",
+              "text": "L’observation extérieure, le souvenir personnel et l’inconnu doivent rester distingués.",
+              "examples": [
+                "Agnès se souvient de la feuille sans retrouver tout ce qui s’est passé autour.",
+                "Mireille garde les faits utiles pour un échange ultérieur accepté."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour préparer un soutien pratique",
+          "points": [
+            {
+              "heading": "Préparer un relais hors épisode",
+              "objective": "Maintenir les responsabilités du groupe sans dépendre d’une demande impossible.",
+              "exercise": [
+                "Définir avec la personne et les interlocuteurs concernés qui peut reprendre l’activité.",
+                "Prévoir la réponse individualisée avec l’équipe de suivi.",
+                "Vérifier avant la séance que le relais est réellement disponible."
+              ],
+              "benefit": "Une organisation préalable peut protéger la continuité pratique ; elle ne prévient pas nécessairement les épisodes."
+            },
+            {
+              "heading": "Décrire ensuite sans interpréter",
+              "objective": "Permettre une conversation factuelle lorsque la personne est disponible.",
+              "exercise": [
+                "Demander si elle souhaite entendre ce qui a été observé.",
+                "Distinguer ce qui a été vu de ce qui est supposé.",
+                "Laisser sans réponse ce qu’aucun des interlocuteurs ne peut établir."
+              ],
+              "benefit": "Le dialogue peut éclairer le retentissement sans devenir un examen mené par un proche."
+            },
+            {
+              "heading": "Garder le lien avec le suivi",
+              "objective": "Transmettre les informations pertinentes selon le cadre convenu.",
+              "exercise": [
+                "Reprendre les modalités de contact déjà discutées avec les soignants.",
+                "Signaler les changements ou difficultés utiles à l’évaluation.",
+                "Utiliser le relais médical prévu si la situation sort de ce cadre ou inquiète."
+              ],
+              "benefit": "Le diagnostic connu ne dispense pas d’un avis adapté ; une collègue n’a pas à déterminer seule la nature de chaque événement."
+            }
+          ]
+        }
+      ],
+      "ending_title": "La transition reste sur la feuille",
+      "ending": "Après la fin de l’événement et le temps nécessaire, Agnès choisit de ne pas reprendre le cours ce jour-là. Mireille termine la séance et conserve la feuille quadrillée pour leur prochaine discussion. Elles suivront les modalités convenues avec l’équipe si un contact est nécessaire. Agnès ne doit pas produire aussitôt une explication complète. Le lendemain, elles pourront revenir, avec son accord, sur un geste que Mireille a observé pendant ce même événement.",
+      "conclusion": "La restriction du champ de conscience affecte ici une séance sans définir toute la pratique d’Agnès. Mireille a assuré le groupe et Agnès a choisi de ne pas reprendre. La préparation commune peut être revue, avec le suivi professionnel et les inconnues préservées.",
+      "mirror": [
+        "Mireille peut reprendre la séance sans demander à Agnès de prouver qu’elle souhaite de l’aide. Plus tard, elle peut proposer : « Je peux te raconter ce que j’ai vu, si tu le souhaites. » Elle n’a pas à provoquer une réponse, forcer un contact ou chercher seule la cause. La sécurité et les relais médicaux restent ceux du plan individualisé."
+      ],
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "nice-cg138"
+      ],
+      "continuity": {
+        "choice": "Après l’événement, Agnès ne reprend pas le cours ; Mireille termine la séance et conserve la feuille.",
+        "next": "Le lendemain, elles reviennent sur un geste observé au cours du même événement, sans nouvelle crise racontée."
+      }
+    },
+    {
+      "number": 2,
+      "slug": "agnes-geste-sans-intention",
+      "title": "État de transe : un geste répété n’est pas une intention à deviner",
+      "description": "Mireille rapporte un geste et quelques mots du cours interrompu. Agnès distingue ce témoignage de ses choix chorégraphiques.",
+      "context": "Le lendemain du cours interrompu",
+      "topics": [
+        "État de transe",
+        "Répertoire limité",
+        "Observation factuelle"
+      ],
+      "clinical_focus": "Un geste répété sans intention",
+      "diagnostic_stage": "known",
+      "clinical_intro": "Un état de transe peut s’accompagner d’un répertoire restreint de gestes ou de paroles, vécu hors du contrôle de la personne. Une répétition observée ne permet pas de déduire une intention ou un message caché. Le témoignage d’un proche peut être utile au suivi, à condition de rester factuel et de ne pas demander une reproduction.",
+      "opening": "Mireille a rapporté la feuille quadrillée. La transition est toujours inachevée, mais la séance de la veille s’est terminée sous sa responsabilité. Agnès lui demande ce qui l’a conduite à reprendre le groupe. Elle se rappelle avoir voulu préciser une entrée ; elle ne sait pas comment ses indications sont devenues inaccessibles aux autres. Elles parlent du même événement, pas d’une nouvelle interruption.\n\nMireille lui demande d’abord ce qu’elle souhaite entendre. Agnès préfère les faits utiles, sans récit détaillé devant le reste de l’équipe. Sa collègue explique qu’un bref mouvement de la main revenait, accompagné de quelques mots, au lieu de la suite attendue. Elle n’imite pas le mouvement. Elle ne donne ni cadence ni démonstration, et n’en cherche pas la signification dans la chorégraphie.\n\nAgnès regarde sa feuille. Elle aime parfois reprendre un détail pour le rendre précis ; cela appartient à son travail. Mais ce qu’elle apprend de la veille ne correspond pas à une répétition qu’elle aurait choisie. « Ce n’était pas ma transition », dit-elle. Mireille acquiesce sans ajouter ce qu’Agnès aurait voulu dire à son insu. Entre elles, il reste un témoignage limité et une question à porter au suivi. La feuille de cours ne sera pas transformée en compte rendu de ses manifestations.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "La répétition visible ne révèle pas à elle seule une intention",
+          "text": "Dans le trouble diagnostiqué, des mouvements, postures ou paroles peuvent se trouver limités à un répertoire restreint. L’apparence d’une répétition ne suffit pourtant pas à en établir la nature hors de l’évaluation clinique. Chez Agnès, ce fait observé pendant l’événement connu se distingue de son goût professionnel pour la précision. Le récit de Mireille apporte une information ; il ne remplace pas l’expérience d’Agnès et ne démontre aucun message symbolique."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment distinguer une observation d’une intention supposée ?",
+          "points": [
+            {
+              "heading": "Un répertoire devenu limité",
+              "text": "Un geste répété peut s’inscrire dans un épisode sans constituer une proposition artistique.",
+              "examples": [
+                "Mireille a observé un bref mouvement de la main repris à plusieurs reprises.",
+                "Quelques mots revenaient à la place des indications attendues."
+              ]
+            },
+            {
+              "heading": "Un contraste avec l’intention",
+              "text": "La personne peut ne pas reconnaître dans ce qui est observé une action qu’elle avait décidé d’accomplir.",
+              "examples": [
+                "Agnès n’avait prévu aucune répétition de ce type dans la transition.",
+                "Sa précision habituelle de professeure ne lui fournit pas une explication du geste."
+              ]
+            },
+            {
+              "heading": "Un témoignage à délimiter",
+              "text": "Un proche peut rapporter une observation sans reconstituer une démonstration ou tester le contrôle.",
+              "examples": [
+                "Mireille s’arrête aux éléments qu’Agnès accepte d’entendre.",
+                "Elles écrivent une phrase descriptive sans imiter la scène."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour parler d’un geste sans le reproduire",
+          "points": [
+            {
+              "heading": "Distinguer le geste choisi du fait observé",
+              "objective": "Éviter une interprétation morale ou artistique automatique.",
+              "exercise": [
+                "Demander ce que la personne avait prévu dans l’activité.",
+                "Rapporter séparément ce qui a réellement été observé.",
+                "Laisser au suivi les questions sur le sens clinique de cette différence."
+              ],
+              "benefit": "La description peut devenir plus précise sans conclure à un choix, un message caché ou une volonté insuffisante."
+            },
+            {
+              "heading": "Renoncer à la démonstration",
+              "objective": "Respecter l’expérience sans tenter de reproduire l’état.",
+              "exercise": [
+                "Convenir que personne ne demandera d’imiter la manifestation.",
+                "Ne pas tester si elle peut être refaite ou arrêtée sur commande.",
+                "Préparer les questions utiles pour le professionnel plutôt qu’une expérience entre collègues."
+              ],
+              "benefit": "Cette limite préserve la sécurité et évite de transformer un témoignage en induction ou en épreuve de contrôle."
+            },
+            {
+              "heading": "Séparer la note de santé du cours",
+              "objective": "Garder les informations utiles dans un cadre choisi.",
+              "exercise": [
+                "Demander l’accord de la personne pour une note factuelle.",
+                "Préciser ce qui vient du témoin et ce qui vient de son propre souvenir.",
+                "Conserver cette note privée pour le rendez-vous, distincte du support collectif."
+              ],
+              "benefit": "Une trace limitée peut soutenir l’entretien sans exposer l’épisode aux participants ni devenir un dossier d’observation permanent."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Une note à côté de la maquette",
+      "ending": "Avec l’accord d’Agnès, elles rédigent une observation sobre sur une note privée : le mouvement et les mots rapportés par Mireille ont remplacé les indications prévues. Agnès n’y ajoute pas une intention qu’elle ne retrouve pas. La feuille quadrillée garde seulement la transition à travailler. Elle apportera la note au rendez-vous prévu avec la docteure Valette, car l’ordre des instants du cours lui échappe encore par endroits.",
+      "conclusion": "Un comportement répété pendant l’épisode n’est pas une intention que la collègue devrait déchiffrer. Agnès reçoit une observation limitée, sans démonstration ni test. Les faits utiles rejoignent le suivi, tandis que la maquette conserve sa fonction artistique.",
+      "mirror": [
+        "Mireille peut dire : « Voilà ce que j’ai observé ; je ne sais pas ce que tu vivais à ce moment-là. » Elle peut demander où arrêter le récit. Inutile de mimer le geste pour convaincre Agnès ou de lui demander si elle saurait le refaire. Leur accord porte sur une information pour le rendez-vous, pas sur une enquête menée au studio."
+      ],
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "nice-cg138"
+      ],
+      "continuity": {
+        "choice": "Agnès et Mireille rédigent une note privée factuelle, séparée de la feuille de cours.",
+        "next": "La note accompagnera le rendez-vous parce que la mémoire d’Agnès concernant ce même événement reste incomplète."
+      }
+    },
+    {
+      "number": 3,
+      "slug": "agnes-souvenirs-incomplets",
+      "title": "État de transe : garder les blancs quand le souvenir est incomplet",
+      "description": "Au suivi, Agnès distingue ses souvenirs du témoignage de Mireille. Les moments inconnus n’ont pas à être reconstruits.",
+      "context": "Au rendez-vous prévu avec la docteure Valette",
+      "topics": [
+        "État de transe",
+        "Souvenirs incomplets",
+        "Récit du témoin"
+      ],
+      "clinical_focus": "Des souvenirs restent incomplets",
+      "diagnostic_stage": "known",
+      "clinical_intro": "Des souvenirs partiellement absents peuvent accompagner certains états de transe, mais ne sont pas obligatoires. Ils ne suffisent pas à conclure à un autre trouble de mémoire. Dans le suivi, distinguer ce qui est remémoré de ce qui a été rapporté permet de garder un récit fidèle, sans remplir les blancs par imagination ou suggestion.",
+      "opening": "La note privée tient sur un petit morceau de papier. Agnès l’a glissée dans une enveloppe, loin de la feuille quadrillée restée au studio. Au rendez-vous prévu, la docteure Valette lui demande ce qu’elle souhaite reprendre du cours interrompu. Le diagnostic était déjà posé avant cette séance ; elles cherchent aujourd’hui à préciser le vécu et les appuis, pas à annoncer un nom pour la première fois.\n\nAgnès raconte la transition, puis s’arrête. Elle se souvient d’une phrase échangée avec Mireille et de la feuille ouverte. Elle ne retrouve pas l’ordre de certains instants. Le geste de la main, elle le connaît par le récit de sa collègue, pas parce qu’elle se le rappelle. Elle commence pourtant à l’intégrer dans sa propre description, comme si une version complète était plus utile au médecin qu’une version trouée.\n\nLa docteure Valette lui propose de distinguer ces sources. « Cela, je l’ai appris hier », précise alors Agnès en montrant la note. Une autre partie reste inconnue. Elle redoute qu’un silence ressemble à un refus de répondre, mais la professionnelle ne lui demande pas de produire ce qui manque. Agnès peut poser son enveloppe sur la table sans en tirer un récit continu. Il n’est pas nécessaire de transformer chaque blanc en énigme à résoudre.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Un souvenir partiel n’exige pas une reconstruction",
+          "text": "Une amnésie partielle est possible autour d’un épisode de transe, sans constituer une caractéristique obligatoire ni prouver un diagnostic distinct. Le professionnel examine la situation avec les autres informations disponibles. Ici, la différence entre mémoire et témoignage aide à ne pas attribuer à Agnès des souvenirs qu’elle ne possède pas. Aucune recherche de contenu caché, de traumatisme ou de scène oubliée n’est nécessaire pour recevoir sa difficulté."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment une mémoire incomplète complique-t-elle le récit ?",
+          "points": [
+            {
+              "heading": "L’ordre des instants manque",
+              "text": "Une lacune peut concerner une partie de l’événement sans effacer toute la journée.",
+              "examples": [
+                "Agnès se rappelle la feuille ouverte et certains échanges.",
+                "Elle ne retrouve pas comment ces moments se succèdent pendant l’interruption."
+              ]
+            },
+            {
+              "heading": "Le témoignage paraît combler trop vite",
+              "text": "Ce qu’un témoin raconte peut être utile sans devenir un souvenir personnel.",
+              "examples": [
+                "La note de Mireille apporte le geste observé.",
+                "Agnès hésite à dire je me souviens alors qu’elle l’a seulement appris la veille."
+              ]
+            },
+            {
+              "heading": "L’inconnu peut être conservé",
+              "text": "L’entretien n’exige pas une histoire exhaustive pour poursuivre le suivi.",
+              "examples": [
+                "La docteure Valette accepte les passages laissés sans réponse.",
+                "Agnès garde deux phrases factuelles au lieu d’une reconstruction complète."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour présenter un récit sans combler les blancs",
+          "points": [
+            {
+              "heading": "Nommer la provenance des informations",
+              "objective": "Distinguer mémoire personnelle et témoignage reçu.",
+              "exercise": [
+                "Dire ce que l’on se rappelle directement.",
+                "Attribuer au témoin les faits qu’il a rapportés.",
+                "Présenter séparément les questions encore ouvertes au professionnel."
+              ],
+              "benefit": "Cette distinction peut rendre l’entretien plus fiable sans demander de tout retrouver."
+            },
+            {
+              "heading": "Laisser les blancs visibles",
+              "objective": "Éviter de fabriquer une continuité pour satisfaire une attente.",
+              "exercise": [
+                "Indiquer simplement qu’un passage n’est pas retrouvé.",
+                "Ne pas le compléter par imagination ou par une suggestion du proche.",
+                "Conserver cette limite dans les notes utiles au suivi."
+              ],
+              "benefit": "L’absence de réponse reste une information recevable ; elle ne doit pas devenir une invitation à chercher un souvenir caché."
+            },
+            {
+              "heading": "Demander le cadre de contact",
+              "objective": "Savoir comment transmettre les besoins après l’entretien.",
+              "exercise": [
+                "Poser au professionnel la question qui préoccupe le plus maintenant.",
+                "Faire préciser quand et comment recontacter l’équipe selon la situation.",
+                "Noter ces modalités sans ajouter un programme d’observation non demandé."
+              ],
+              "benefit": "Un cadre personnel peut soutenir la continuité des soins sans transformer l’entourage en enquêteur de mémoire."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Deux phrases et un espace laissé libre",
+      "ending": "Agnès conserve deux phrases factuelles, en précisant celle qui vient de Mireille. Le reste demeure explicitement inconnu. L’équipe ajuste avec elle les modalités de contact utiles pour la suite. Elle ne repart pas avec la mission de retrouver chaque instant. Chez elle, elle pose l’enveloppe à sa place et sort la maquette du cours. Elle voudrait terminer la transition, mais constate que la fin de l’événement ne lui a pas rendu toute son énergie.",
+      "conclusion": "Un récit utile peut rester incomplet. Agnès distingue ses souvenirs du témoignage et conserve les blancs sans leur inventer un contenu. Le suivi continue avec des modalités de contact précisées, tandis que les conséquences de l’événement demandent encore de l’attention.",
+      "mirror": [
+        "Mireille peut rappeler : « Ce passage vient de ce que je t’ai raconté, pas de ce que tu m’as dit te rappeler. » Elle peut aussi accepter qu’Agnès ne souhaite plus revenir sur la scène. Un proche n’a pas à faire retrouver une chronologie ou à suggérer ce qui aurait dû être ressenti. Les questions sur la mémoire restent discutées avec l’équipe."
+      ],
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "nice-cg138"
+      ],
+      "continuity": {
+        "choice": "Agnès garde deux phrases factuelles et des inconnues explicites ; les modalités de contact sont ajustées avec l’équipe.",
+        "next": "Au retour, la fatigue suivant l’événement gêne encore la préparation de la transition."
+      }
+    },
+    {
+      "number": 4,
+      "slug": "agnes-fatigue-apres-episode",
+      "title": "État de transe : la fatigue peut durer au-delà de l’épisode",
+      "description": "Agnès voudrait finir sa maquette mais la fatigue persiste. Elle reporte une préparation et transmet ce retentissement au suivi.",
+      "context": "À la maison après le rendez-vous de suivi",
+      "topics": [
+        "État de transe",
+        "Fatigue après épisode",
+        "Charge de préparation"
+      ],
+      "clinical_focus": "La fatigue après l’épisode",
+      "diagnostic_stage": "known",
+      "clinical_intro": "Une fatigue peut être ressentie après certains épisodes de transe. Sa présence ne signifie pas que l’épisode a été causé par l’épuisement, et ne fixe aucun délai universel de récupération. Adapter une tâche du quotidien peut aider l’organisation ; une fatigue inhabituelle ou persistante reste à signaler aux professionnels plutôt qu’à expliquer seul.",
+      "opening": "Agnès pose la feuille quadrillée sur sa table et retrouve immédiatement l’endroit où la transition manque. Elle sait ce qu’elle voudrait obtenir : un passage qui laisse une place à celui qui s’arrête, sans que tout le groupe se tourne vers lui. L’idée lui paraît nette. La mettre au propre lui demande pourtant davantage que ce qu’elle avait imaginé en rentrant du rendez-vous.\n\nLa fatigue ressentie depuis l’événement du studio est encore là. Elle relit une annotation, déplace une autre feuille puis reste un moment sans avancer. Elle vient de parler avec la docteure Valette ; elle a pu expliquer ses souvenirs incomplets. Cela ne lui donne pas pour autant l’énergie d’une séance entière de préparation. Elle n’aime pas cette différence, surtout parce qu’elle ne se voit pas sur la page.\n\nMireille devait la retrouver pour reprendre la maquette. Agnès regarde le téléphone. Elle pourrait essayer de tenir, puis repousser toutes les décisions importantes à la fin. Ce serait encore une manière de faire semblant qu’une rencontre a eu lieu. Elle préfère appeler. « Je garde une page pour nous, pas toutes les versions. Aujourd’hui, je ne peux pas travailler comme prévu. » Elle transmet aussi cette fatigue persistante par le contact convenu avec l’équipe, sans décider qu’elle n’a qu’une seule explication possible.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Le retentissement se décrit sans en déduire la cause",
+          "text": "La fatigue après un état de transe fait partie des retentissements possibles, mais elle ne permet pas d’expliquer l’origine de l’état par l’épuisement. Ces questions relèvent de l’évaluation clinique. Chez Agnès, le point utile est ce qui coûte davantage dans la préparation du cours. Le téléphone passé à Mireille montre une décision d’organisation, pas une mesure complète de récupération. Les besoins persistants restent transmis à l’équipe."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment la fatigue modifie-t-elle la reprise du travail ?",
+          "points": [
+            {
+              "heading": "La fin ne rend pas tout disponible",
+              "text": "Après l’événement, la personne peut encore éprouver une fatigue qui limite les tâches du jour.",
+              "examples": [
+                "Agnès relit la transition sans parvenir à en reprendre aisément la préparation.",
+                "Le simple rangement des feuilles lui paraît plus coûteux que prévu."
+              ]
+            },
+            {
+              "heading": "Une capacité n’en prouve pas une autre",
+              "text": "Pouvoir discuter ou appeler ne mesure pas toute la disponibilité pour travailler.",
+              "examples": [
+                "Agnès a participé au rendez-vous mais ne se sent pas prête à finir la maquette.",
+                "Elle peut téléphoner à Mireille sans pouvoir tenir leur séance de préparation."
+              ]
+            },
+            {
+              "heading": "Une fatigue à transmettre si elle se prolonge",
+              "text": "Un retentissement connu ne doit pas devenir une explication automatique pour toute fatigue.",
+              "examples": [
+                "Agnès utilise les modalités de contact précisées au rendez-vous pour signaler sa difficulté persistante.",
+                "Elle ne déduit pas que toute son énergie reviendra à une date commune à tous."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour ajuster la préparation et garder le suivi",
+          "points": [
+            {
+              "heading": "Différer une tâche non urgente",
+              "objective": "Adapter le travail au besoin présent sans imposer un délai de récupération.",
+              "exercise": [
+                "Repérer ce qui n’a pas à être terminé aujourd’hui.",
+                "Informer la collègue du report concret souhaité.",
+                "Garder une date de discussion révisable selon la situation."
+              ],
+              "benefit": "Le report peut alléger une contrainte pratique ; il ne constitue pas un traitement de la fatigue."
+            },
+            {
+              "heading": "Partager la préparation",
+              "objective": "Éviter qu’une interruption ne laisse toute la charge à rattraper seule.",
+              "exercise": [
+                "Nommer la partie du cours qui reste à construire.",
+                "Demander quelle contribution la collègue peut réellement prendre.",
+                "Conserver un support commun simple pour reprendre ensemble."
+              ],
+              "benefit": "Une répartition explicite peut limiter l’accumulation du travail sans mesurer la bonne volonté de la personne."
+            },
+            {
+              "heading": "Signaler une fatigue persistante ou inhabituelle",
+              "objective": "Ne pas tout attribuer d’avance à l’épisode connu.",
+              "exercise": [
+                "Décrire au professionnel ce qui change dans les activités possibles.",
+                "Utiliser le contact prévu lorsque la fatigue persiste ou inquiète.",
+                "Suivre les indications reçues au lieu d’inventer une explication ou un programme de récupération."
+              ],
+              "benefit": "Le suivi peut examiner le retentissement et les autres éléments utiles sans supposer une cause à partir du récit seul."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Une seule page pour la prochaine fois",
+      "ending": "Mireille accepte de revoir la maquette un autre jour. Elles répartissent ce qui peut être préparé séparément et gardent une seule page à discuter ensemble. Agnès suit les indications reçues par le contact de suivi pour cette fatigue. Elle range les autres versions sans décider qu’elle a récupéré parce qu’elle a réussi à téléphoner. La prochaine rencontre devra aussi préserver la place de sa pratique culturelle dans le cours, une question artistique que le report n’a pas résolue.",
+      "conclusion": "La fin de l’épisode et la disponibilité pour travailler ne coïncident pas forcément. Agnès reporte la tâche, partage la préparation et signale la fatigue persistante. La maquette reste ouverte, sans délai de récupération imposé ni explication médicale improvisée.",
+      "mirror": [
+        "Mireille peut répondre : « Gardons cette page et reprenons à un moment qui convient. » Elle n’a pas à déduire de la voix d’Agnès au téléphone que tout est revenu comme avant. Un proche peut aider à reporter une tâche tout en soutenant le contact professionnel si la fatigue persiste ou inquiète. Il ne lui appartient pas d’en déterminer la cause."
+      ],
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "nice-cg138"
+      ],
+      "continuity": {
+        "choice": "Agnès reporte la préparation, garde une page commune et transmet sa fatigue persistante au suivi.",
+        "next": "Lors de la prochaine préparation, la place de sa pratique culturelle dans la maquette sera discutée."
+      }
+    },
+    {
+      "number": 5,
+      "slug": "agnes-pratique-culturelle-choisie",
+      "title": "État de transe : une pratique culturelle choisie garde son sens",
+      "description": "Mireille propose d’effacer une référence culturelle du cours. Agnès distingue sa pratique choisie des épisodes involontaires suivis.",
+      "context": "À la reprise de la préparation commune",
+      "topics": [
+        "État de transe",
+        "Pratique culturelle choisie",
+        "Distinction des expériences"
+      ],
+      "clinical_focus": "Une pratique choisie garde son sens",
+      "diagnostic_stage": "known",
+      "clinical_intro": "Une pratique culturelle ou religieuse choisie et reconnue dans son contexte ne constitue pas, à elle seule, un trouble clinique. Une absorption ordinaire dans une activité non plus. Distinguer ces expériences des épisodes involontaires qui font souffrir demande d’écouter la personne et son contexte. Le respect culturel ne remplace pas l’évaluation d’une difficulté distincte.",
+      "opening": "La page commune a moins de ratures que les versions précédentes. Mireille a repris une partie du programme pendant le report de leur séance ; Agnès arrive avec les indications de suivi qu’elle doit conserver pour son organisation. Elles peuvent maintenant discuter de la présentation du cours. Mireille a barré une référence à la pratique culturelle d’Agnès. Elle propose de tout retirer, pour ne pas prendre de risque.\n\nAgnès regarde le trait qui traverse la phrase. Elle comprend l’intention de prudence, mais pas la conclusion. Les moments qu’elle choisit dans sa communauté ne sont pas les épisodes involontaires qui ont interrompu le studio. Elle ne souhaite pas les confondre pour rendre la brochure plus facile à écrire. « On peut changer cette phrase sans enlever ce à quoi je tiens », dit-elle.\n\nMireille demande ce qu’elle voudrait garder. Agnès explique le sens de cette place dans son travail, sans accomplir de pratique ni décrire un rituel. Elles restent assises devant la maquette. Leur conversation porte sur une présentation et sur ce qu’un mot peut faire croire. Agnès connaît aussi les moments où elle est simplement absorbée par une recherche chorégraphique. Leur intensité ne transforme pas toute concentration en épisode clinique. La page doit pouvoir contenir ces distinctions, même si cela demande de reprendre une phrase entière.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Le contexte et le caractère choisi comptent",
+          "text": "La distinction clinique tient compte du contexte, du caractère non souhaité des épisodes et de leur retentissement. Une expérience culturelle acceptée ou une absorption ordinaire ne devient pas un trouble par son intensité seule. Chez Agnès, l’équipe a évalué des épisodes distincts de sa pratique choisie. Mireille peut entendre cette distinction sans décider du diagnostic et sans présenter la culture comme une cause ou un moyen de soin."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment une confusion peut-elle effacer une pratique choisie ?",
+          "points": [
+            {
+              "heading": "Une suppression présentée comme prudente",
+              "text": "L’entourage peut vouloir simplifier en retirant ce qui lui paraît lié au trouble, sans avoir vérifié le sens de ce rapprochement.",
+              "examples": [
+                "Mireille propose de supprimer toute référence culturelle du programme.",
+                "Elle pense protéger Agnès en réunissant sous un même mot des expériences distinctes."
+              ]
+            },
+            {
+              "heading": "Une distinction portée par la personne",
+              "text": "La signification d’une pratique choisie doit pouvoir être exprimée par celle qui la connaît.",
+              "examples": [
+                "Agnès explique que certains moments sont voulus et reconnus dans sa communauté.",
+                "Elle distingue ces moments des épisodes qui interrompent sa préparation malgré elle."
+              ]
+            },
+            {
+              "heading": "Un désaccord artistique demeure possible",
+              "text": "Respecter cette distinction ne demande pas d’approuver toute proposition de cours.",
+              "examples": [
+                "Les deux collègues peuvent discuter de la place du texte culturel dans la présentation.",
+                "Le choix d’une transition reste une décision artistique, pas un symptôme à corriger."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour distinguer culture, choix et besoin de soin",
+          "points": [
+            {
+              "heading": "Demander le sens avant de supprimer",
+              "objective": "Écouter la perspective de la personne sur sa pratique.",
+              "exercise": [
+                "Poser une question ouverte sur la place qu’elle lui donne.",
+                "Laisser la personne choisir ce qu’elle souhaite expliquer.",
+                "Éviter d’exiger une démonstration ou une description rituelle pour la croire."
+              ],
+              "benefit": "Cet échange peut réduire une confusion sans transformer la collègue en arbitre de la validité d’une culture."
+            },
+            {
+              "heading": "Séparer le programme et le suivi",
+              "objective": "Préserver deux espaces de décision qui ne répondent pas à la même question.",
+              "exercise": [
+                "Identifier ensemble le choix artistique discuté.",
+                "Distinguer les besoins pratiques de santé déjà convenus.",
+                "Réserver l’interprétation clinique aux professionnels avec la personne."
+              ],
+              "benefit": "Le cours peut garder son sens culturel sans utiliser celui-ci pour nier une souffrance involontaire distincte."
+            },
+            {
+              "heading": "Porter un doute au bon interlocuteur",
+              "objective": "Ne pas construire seule une règle reliant culture et trouble.",
+              "exercise": [
+                "Nommer le mot ou le rapprochement qui pose question.",
+                "Le préparer pour un échange avec l’équipe si la personne le souhaite.",
+                "Garder les adaptations utiles sans ajouter une interdiction ou un traitement improvisé."
+              ],
+              "benefit": "Une question peut rester ouverte le temps d’une clarification ; ni la pratique ni sa suppression ne deviennent une thérapie."
+            }
+          ]
+        }
+      ],
+      "ending_title": "La phrase réécrite, pas la culture effacée",
+      "ending": "Elles retirent la formulation qui associait la danse au trouble et conservent une place à la culture dans la présentation. Mireille n’est toujours pas convaincue par la transition trop discrète ; Agnès lui propose d’y revenir comme à un désaccord de travail. En relisant ensuite une brochure, elle remarque que le mot transe y côtoie celui de possession. Cette autre confusion lui donne une question pour sa prochaine consultation, sans changer ce qu’elles viennent de préserver dans la maquette.",
+      "conclusion": "Respecter une pratique choisie et prendre au sérieux un trouble involontaire peuvent aller ensemble. Agnès garde une place à sa culture dans le cours et corrige une association trompeuse. Les questions cliniques restent discutées au suivi, sans faire de la danse une cause ou un traitement.",
+      "mirror": [
+        "Mireille peut demander : « Qu’est-ce que cette référence représente pour toi dans le cours ? » Elle n’a pas besoin d’assister à une pratique pour entendre la réponse. Une collègue peut retirer une formulation maladroite et conserver un désaccord artistique. Elle soutient ainsi le projet sans décider, depuis l’extérieur, quelles expériences culturelles devraient être considérées comme malades."
+      ],
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "nice-cg138"
+      ],
+      "continuity": {
+        "choice": "La référence culturelle est conservée et l’assimilation entre danse et trouble est retirée de la présentation.",
+        "next": "Une brochure réunissant transe et possession amène Agnès à demander une clarification lors du suivi."
+      }
+    },
+    {
+      "number": 6,
+      "slug": "agnes-transe-et-possession",
+      "title": "État de transe : clarifier ce que le mot possession ne décrit pas",
+      "description": "Une brochure rapproche transe et possession. Agnès demande une explication clinique et choisit les mots à partager avec sa collègue.",
+      "context": "Une consultation de suivi avec la docteure Valette",
+      "topics": [
+        "État de transe",
+        "Vocabulaire clinique",
+        "Respect des convictions"
+      ],
+      "clinical_focus": "Transe ne signifie pas possession",
+      "diagnostic_stage": "known",
+      "clinical_intro": "Le mot transe recouvre des usages différents dans la conversation, les pratiques culturelles et la classification clinique. Le trouble diagnostiqué chez Agnès ne comprend pas le remplacement de son identité par une autre. Clarifier cette distinction avec un professionnel aide à comprendre les termes employés, sans juger les convictions ni établir soi-même un diagnostic.",
+      "opening": "La brochure dépasse de l’enveloppe qu’Agnès a posée à côté d’elle. Elle ne l’a pas apportée pour contester le diagnostic établi par l’équipe. Elle voudrait comprendre pourquoi deux termes y apparaissent sur la même ligne, comme si le second expliquait forcément le premier. Depuis leur discussion autour du programme, elle mesure mieux ce qu’un rapprochement de mots peut effacer.\n\nLa docteure Valette lui demande quelle phrase la préoccupe. Agnès indique le passage où transe et possession sont réunies. « Je ne sais pas ce que je dois en comprendre pour moi. » Elle décrit ce qu’elle vit sans y ajouter une autre identité qui prendrait sa place. Les gestes rapportés par Mireille lui étaient inhabituels ; ils ne deviennent pas pour autant la preuve d’une présence ou d’une personne différente.\n\nLa consultation reste un point de suivi. La médecin reprend les termes du dossier et leur différence, sans demander à Agnès de défendre ou d’abandonner une conviction. Agnès souhaite surtout pouvoir expliquer à Mireille ce qui concerne leur travail. Elle n’a pas envie de transformer la prochaine préparation en débat sur des mots qu’elle vient seulement de démêler. Sa collègue a besoin de connaître l’organisation convenue ; elle n’a pas besoin de lire toutes les pages médicales pour lui faire confiance.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Un terme clinique ne résume pas une conviction",
+          "text": "La classification distingue l’état de transe sans remplacement identitaire d’une présentation où la personne éprouve un tel remplacement. Cette distinction appartient à une évaluation clinique située ; elle ne permet ni de déduire une possession d’un geste inhabituel ni de diagnostiquer une psychose à partir d’une croyance. Dans le dossier d’Agnès, les épisodes involontaires ont déjà été évalués. La brochure crée une confusion de vocabulaire, pas une nouvelle observation clinique."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment des mots rapprochés peuvent-ils brouiller une expérience ?",
+          "points": [
+            {
+              "heading": "Une association semble devenir une explication",
+              "text": "Deux mots imprimés ensemble peuvent donner l’impression qu’ils décrivent nécessairement la même chose.",
+              "examples": [
+                "Agnès croit devoir comprendre le terme possession pour parler de son trouble.",
+                "La disposition de la brochure lui fait oublier que les termes ont des usages et des contextes différents."
+              ]
+            },
+            {
+              "heading": "Un geste reçoit un sens ajouté",
+              "text": "Une manifestation observée ne renseigne pas à elle seule sur le vécu identitaire ou les convictions.",
+              "examples": [
+                "Le mouvement rapporté par Mireille reste une observation ; il ne désigne pas une autre identité.",
+                "Agnès peut ne pas reconnaître son intention dans un geste sans raconter que quelqu’un la remplace."
+              ]
+            },
+            {
+              "heading": "Une explication devient trop publique",
+              "text": "Chercher les bons mots ne crée pas une obligation de partager le détail du suivi.",
+              "examples": [
+                "Agnès veut expliquer le relais de cours sans distribuer son compte rendu.",
+                "Elle peut répondre à une question de Mireille puis réserver le reste à la consultation."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour demander une clarification et choisir ses mots",
+          "points": [
+            {
+              "heading": "Apporter la formulation qui gêne",
+              "objective": "Faire porter la discussion sur une confusion précise.",
+              "exercise": [
+                "Repérer la phrase qui suscite la question.",
+                "Dire au professionnel ce que l’on en a compris et ce qui reste incertain.",
+                "Demander ce que ces mots signifient dans son propre suivi, sans s’appliquer une liste de critères."
+              ],
+              "benefit": "Une question située peut permettre une réponse accessible au lieu d’une recherche solitaire de catégories."
+            },
+            {
+              "heading": "Reformuler avec ses propres mots",
+              "objective": "Vérifier que l’explication a été comprise.",
+              "exercise": [
+                "Résumer ce que le professionnel vient d’expliquer.",
+                "Signaler un terme encore ambigu ou une distinction difficile.",
+                "Demander une nouvelle formulation si la première reste trop technique."
+              ],
+              "benefit": "Cet échange peut rendre le compte rendu plus compréhensible sans réduire le diagnostic à un mot isolé."
+            },
+            {
+              "heading": "Choisir ce qui sera partagé",
+              "objective": "Informer la collègue des besoins utiles en conservant sa vie privée.",
+              "exercise": [
+                "Identifier ce que Mireille doit savoir pour l’organisation convenue.",
+                "Choisir une formulation qu’Agnès accepte d’employer.",
+                "Garder les documents cliniques dans leur espace privé sauf partage expressément souhaité."
+              ],
+              "benefit": "Un vocabulaire commun peut soutenir la coopération sans exiger l’accès au dossier ou aux convictions."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Les mots du cours restent simples",
+      "ending": "Agnès retient la formulation « épisodes involontaires » pour sa prochaine conversation avec Mireille. Elle garde le compte rendu dans l’enveloppe privée. La docteure Valette lui rappelle que ce vocabulaire ne dispense pas de signaler un changement inhabituel. Agnès repart avec une distinction plus claire, sans avoir à donner une signification spirituelle à son expérience. La feuille quadrillée attend la préparation suivante ; elle reste le support d’un cours, pas un résumé de la consultation.",
+      "conclusion": "Une clarification clinique peut dissiper une confusion sans juger une croyance ni obliger à dévoiler son suivi. Agnès choisit des mots utiles au travail et conserve ses documents privés. Ces mots restent insuffisants pour expliquer automatiquement tout événement futur.",
+      "mirror": [
+        "Mireille peut accepter : « Épisodes involontaires me suffit pour parler de notre organisation. » Elle peut demander quel relais Agnès souhaite préparer, sans chercher à interpréter les gestes ou à débattre d’une identité supposée. Si un événement change, le vocabulaire partagé ne remplace pas le recours médical approprié. La confiance ne dépend pas de la lecture du dossier."
+      ],
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "nice-cg138"
+      ],
+      "continuity": {
+        "choice": "Agnès choisit de parler d’épisodes involontaires à Mireille et garde son compte rendu privé.",
+        "next": "Un malaise inhabituel pendant la préparation suivante demandera une nouvelle évaluation, sans attribution automatique au diagnostic connu."
+      }
+    },
+    {
+      "number": 7,
+      "slug": "agnes-malaise-inhabituel-reevaluation",
+      "title": "Un malaise inhabituel ne s’explique pas par un diagnostic connu",
+      "description": "Avant une préparation, Agnès raconte un malaise différent. Le travail s’arrête et un professionnel organise une nouvelle évaluation.",
+      "context": "Au centre culturel, avant une préparation sans élèves",
+      "topics": [
+        "État de transe",
+        "Malaise inhabituel",
+        "Réévaluation médicale"
+      ],
+      "clinical_focus": "Un changement exige une nouvelle évaluation",
+      "diagnostic_stage": "known",
+      "clinical_intro": "Un trouble déjà diagnostiqué ne donne pas l’explication de tout nouvel événement. Un malaise inhabituel, notamment lorsqu’une perte de connaissance est possible, demande une évaluation adaptée. Décrire les faits et signaler le changement aide les professionnels à décider de la suite ; ni l’entourage ni la personne ne doivent conclure d’avance à une origine psychologique.",
+      "opening": "Quelques jours après la consultation, la feuille quadrillée est installée sur la table du centre. Aucun élève n’est attendu pour cette préparation. Mireille commence à demander quelle version elles vont reprendre, mais Agnès ne s’assied pas devant la maquette. Elle veut d’abord raconter quelque chose survenu plus tôt, un malaise qui ne lui a pas semblé comparable à l’événement du premier cours.\n\nElle se sent revenue à son état habituel au moment où elle en parle. Pourtant, elle ne sait pas dire avec certitude si elle a perdu connaissance. Elle ne veut ni fabriquer un détail pour rendre le récit plus clair ni appeler cela une transe par habitude. « Je préfère qu’on ne commence pas. Ce n’était pas comme la dernière fois. » Mireille referme la feuille. Il n’y a pas de groupe à réorganiser, mais la répétition peut tout de même attendre.\n\nElles contactent immédiatement le service médical pour décrire le malaise récent et l’incertitude sur une perte de connaissance. Le professionnel les interroge sur les faits et organise une évaluation adaptée. Agnès donne ce qu’elle sait ; Mireille ne complète pas un événement auquel elle n’a pas assisté. La préparation est annulée. Ce n’est pas une nouvelle manière de nommer l’épisode connu : c’est une question de santé qui passe avant la transition du cours.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Le diagnostic antérieur ne ferme pas l’évaluation",
+          "text": "Une modification inhabituelle doit être examinée pour elle-même, même lorsqu’un trouble de conscience a déjà reçu un diagnostic. Ici, une possible perte de connaissance justifie une évaluation médicale sans présumer sa cause. Les professionnels prennent en compte le déroulement, les antécédents et les traitements. Le récit d’Agnès ne permet pas de choisir entre les différentes explications possibles. Le mot transe utilisé au travail ne remplace aucune de ces démarches."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment reconnaître qu’une explication habituelle ne suffit plus ?",
+          "points": [
+            {
+              "heading": "La personne signale une différence",
+              "text": "Le changement décrit mérite d’être transmis, sans exiger qu’il soit déjà expliqué.",
+              "examples": [
+                "Agnès dit que ce malaise ne ressemble pas au premier événement du studio.",
+                "Elle suspend la préparation au lieu d’attendre de voir si le travail lui fera oublier son inquiétude."
+              ]
+            },
+            {
+              "heading": "Un point essentiel reste incertain",
+              "text": "Une absence de certitude ne doit pas être remplacée par une conclusion rassurante improvisée.",
+              "examples": [
+                "Agnès ne sait pas si elle a perdu connaissance et le dit au professionnel.",
+                "Mireille précise qu’elle n’a pas assisté au malaise, au lieu de raconter ce qu’elle imagine."
+              ]
+            },
+            {
+              "heading": "Le soin change l’ordre du jour",
+              "text": "La nécessité d’une évaluation peut imposer l’arrêt d’une activité prévue, indépendamment du projet artistique.",
+              "examples": [
+                "La feuille du cours est refermée avant tout essai.",
+                "La reprise attend les indications de santé adaptées à la situation, plutôt qu’une échéance de répétition."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour transmettre le changement et organiser le relais",
+          "points": [
+            {
+              "heading": "Décrire sans combler les inconnues",
+              "objective": "Donner des informations utilisables sans inventer une cause.",
+              "exercise": [
+                "Expliquer au professionnel ce qui est connu avant, pendant et après l’événement.",
+                "Distinguer ses souvenirs des observations éventuelles d’un témoin.",
+                "Nommer les inconnues, notamment une possible perte de connaissance."
+              ],
+              "benefit": "Un récit sobre peut faciliter l’évaluation ; il ne sert pas à poser soi-même le diagnostic."
+            },
+            {
+              "heading": "Mettre la préparation en attente",
+              "objective": "Laisser la priorité au besoin médical présent.",
+              "exercise": [
+                "Suspendre le travail lorsque le changement appelle une évaluation.",
+                "Contacter le service médical adapté sans attendre la prochaine répétition.",
+                "En cas de situation urgente ou de récupération incomplète, faire appel aux secours sans attendre un rendez-vous de suivi."
+              ],
+              "benefit": "L’organisation évite que les exigences du cours retardent une réponse médicale nécessaire."
+            },
+            {
+              "heading": "Suivre les indications personnalisées",
+              "objective": "Garder la suite liée à l’évaluation réelle.",
+              "exercise": [
+                "Transmettre au clinicien les informations médicales et traitements qu’il demande.",
+                "Faire préciser les modalités de suivi et les situations nécessitant un nouveau contact.",
+                "Revoir les engagements de travail selon ces indications, sans modifier seul un traitement."
+              ],
+              "benefit": "Le projet peut être réajusté sans supposer qu’un malaise est bénin ou déjà expliqué par un trouble antérieur."
+            }
+          ]
+        }
+      ],
+      "ending_title": "La maquette reste fermée ce jour-là",
+      "ending": "L’évaluation médicale a lieu selon l’orientation reçue. Agnès poursuit le suivi avec les indications qui lui sont données. Elle garde le contenu de cet échange privé et ne cherche pas à fournir à Mireille une explication qu’elle ne peut pas encore affirmer. Mireille confirme que la préparation restera reportée. Elles ne fixent la reprise qu’ultérieurement, lorsque celle-ci devient possible dans ce cadre. La question du relais au cours demeure sur la feuille, mais elle attend son tour.",
+      "conclusion": "Connaître un diagnostic ne dispense pas de faire évaluer un changement. Agnès signale l’événement différent, la préparation s’arrête et le relais médical a lieu. La suite du projet dépend de sa situation de santé, sans certitude fabriquée à partir du passé.",
+      "mirror": [
+        "Mireille peut dire : « Je ferme la maquette ; décrivons ce qui est différent au service médical. » Elle ne minimise pas le malaise parce qu’Agnès a déjà connu un état de transe et n’invente pas de témoignage. Face à une récupération incomplète ou une situation urgente, elle sollicite les secours sans attendre le suivi ordinaire. Sa présence soutient la démarche ; elle ne tranche pas la cause."
+      ],
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "nice-cg138",
+        "nice-cg109",
+        "nice-ng217"
+      ],
+      "continuity": {
+        "choice": "La préparation est annulée ; un contact médical organise une évaluation qui a effectivement lieu, suivie d’indications personnalisées.",
+        "next": "La reprise ultérieure, lorsqu’elle est possible après ce point médical, permettra de revoir les limites du signal de pause."
+      }
+    },
+    {
+      "number": 8,
+      "slug": "agnes-relais-sans-signal",
+      "title": "État de transe : l’aide ne peut pas dépendre d’un signal volontaire",
+      "description": "Mireille imagine une carte de pause. Agnès rappelle que le relais doit aussi fonctionner lorsqu’elle ne peut pas envoyer de signal.",
+      "context": "À la reprise de la préparation, après l’évaluation médicale",
+      "topics": [
+        "État de transe",
+        "Perte de maîtrise",
+        "Relais préparé"
+      ],
+      "clinical_focus": "Le contrôle ne revient pas sur commande",
+      "diagnostic_stage": "known",
+      "clinical_intro": "Dans un état de transe, certains comportements peuvent être vécus hors du contrôle de la personne. Un signal volontaire préparé à l’avance n’est donc pas nécessairement disponible pendant l’épisode. Organiser un relais ne peut pas dépendre de sa réalisation. Cette limite se discute hors épisode, en lien avec le plan individualisé du suivi.",
+      "opening": "La préparation reprend plus tard, après l’évaluation et selon les indications reçues. Agnès n’a pas transformé le retour au centre en preuve que tout malaise serait désormais expliqué. Elle veut simplement reprendre une question laissée ouverte : comment permettre un arrêt sans attirer toute l’attention du groupe ? Mireille a apporté une petite carte, avec le mot pause tracé au milieu.\n\nL’idée paraît élégante. Celle qui veut s’arrêter la lève, l’autre continue. Agnès retourne le carton entre ses doigts, puis le pose sur la feuille quadrillée. Elle pourrait l’utiliser aujourd’hui pour demander une interruption ordinaire. Elle n’est pas certaine d’avoir pu le faire pendant le premier événement. À ce moment-là, choisir une consigne puis la montrer n’était pas une possibilité sur laquelle compter.\n\n« Si je ne la lève pas, tu fais quoi ? » demande-t-elle. Mireille avait surtout imaginé un moyen discret de recevoir une information. Elle s’aperçoit qu’elle en a aussi fait une condition pour agir. Agnès ne lui reproche pas d’avoir cherché. Elle voudrait seulement que l’absence du signe ne soit pas comprise comme un accord pour continuer, ni comme un oubli dont elle devrait ensuite s’excuser. Elles reprennent la feuille en distinguant deux situations : la pause qu’on choisit de demander et le relais déjà prévu lorsqu’un épisode survient.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Une intention préparée n’est pas toujours réalisable",
+          "text": "La perte de maîtrise vécue pendant l’état de transe limite la pertinence des consignes qui supposent une décision volontaire au moment même. Une carte peut rester un outil ordinaire de communication ; elle ne prévient pas un épisode et ne constitue pas une preuve de contrôle. Pour Agnès et Mireille, l’enjeu est de préparer leurs responsabilités hors épisode, selon le soutien individualisé discuté avec l’équipe, sans faire dépendre l’aide d’une démonstration."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment un dispositif discret peut-il devenir une exigence impossible ?",
+          "points": [
+            {
+              "heading": "Le geste suppose une disponibilité",
+              "text": "Un outil simple peut demander une décision que la personne n’est pas alors en mesure de prendre.",
+              "examples": [
+                "Agnès peut utiliser le carton pendant cette discussion mais ne garantit pas de le faire pendant un épisode.",
+                "Le fait de comprendre la consigne aujourd’hui ne prouve pas qu’elle restera réalisable à chaque interruption."
+              ]
+            },
+            {
+              "heading": "L’absence de signal est mal interprétée",
+              "text": "Ne pas recevoir une demande ne signifie pas nécessairement qu’aucun relais n’est nécessaire.",
+              "examples": [
+                "Mireille réalise qu’elle attendait le carton avant d’envisager son intervention.",
+                "Agnès redoute qu’un signal absent soit pris pour une permission de poursuivre le cours comme prévu."
+              ]
+            },
+            {
+              "heading": "La responsabilité glisse vers la personne",
+              "text": "Un dispositif devient culpabilisant si son échec est présenté comme un manque d’effort.",
+              "examples": [
+                "Agnès ne veut pas devoir s’excuser d’avoir omis une consigne inaccessible.",
+                "La discussion revient aux rôles préparés plutôt qu’à la question de savoir si elle a assez essayé."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour préparer un relais qui ne dépend pas du contrôle",
+          "points": [
+            {
+              "heading": "Séparer les usages du signal",
+              "objective": "Conserver une option de communication sans la rendre obligatoire.",
+              "exercise": [
+                "Définir la carte comme une possibilité de demander une pause ordinaire.",
+                "Dire explicitement que son absence ne supprime pas le plan de soutien.",
+                "Retirer toute exigence de démontrer le signal pendant un épisode."
+              ],
+              "benefit": "Cette distinction peut éviter de confondre un outil choisi et une capacité attendue en toutes circonstances."
+            },
+            {
+              "heading": "Écrire les responsabilités hors épisode",
+              "objective": "Rendre le relais compréhensible avant d’en avoir besoin.",
+              "exercise": [
+                "Reprendre l’organisation de soutien déjà convenue avec la personne.",
+                "Noter qui prend en charge le groupe et quelles tâches passent réellement à l’autre.",
+                "Vérifier ensemble que cette répartition n’exige pas une réponse préalable d’Agnès pendant l’épisode."
+              ],
+              "benefit": "Un cadre préparé peut protéger l’organisation du cours sans demander à une collègue de poser un diagnostic."
+            },
+            {
+              "heading": "Clarifier avec l’équipe ce qui reste incertain",
+              "objective": "Garder le dispositif pratique compatible avec le soutien clinique.",
+              "exercise": [
+                "Repérer la question que les collègues ne peuvent pas résoudre seules.",
+                "La transmettre à l’équipe selon les modalités du suivi.",
+                "Ajuster le document pratique aux indications reçues, en conservant les informations médicales privées."
+              ],
+              "benefit": "Le relais reste individualisé ; la carte ne devient ni un exercice de résistance ni une technique de traitement."
+            }
+          ]
+        }
+      ],
+      "ending_title": "La carte n’est plus une condition",
+      "ending": "Elles gardent la carte comme option pour une pause ordinaire. Mireille inscrit son relais sur la feuille pratique, sans ajouter la phrase « après le signal ». La question clinique qui restait incertaine est transmise à l’équipe, et elles retiennent les précisions reçues pour leur organisation. Agnès trouve la maquette plus honnête ainsi. Elle aimerait pourtant prévoir davantage : elle commence à rapprocher plusieurs moments de sa semaine, dans l’espoir d’y découvrir une règle fiable.",
+      "conclusion": "Un dispositif de soutien ne peut pas exiger le contrôle qu’il cherche justement à prendre en compte. Agnès conserve une façon facultative de demander une pause et un relais indépendant de ce signal. La préparation améliore l’organisation sans garantir le déroulement des épisodes.",
+      "mirror": [
+        "Mireille peut dire : « Tu n’auras pas à lever cette carte pour que notre relais existe. » Elle reconnaît ainsi une limite sans demander à Agnès de prouver son incapacité. Les rôles se discutent hors épisode ; une absence de réponse n’appelle ni reproche ni contact forcé. Les besoins de sécurité et les questions cliniques restent traités selon le plan convenu avec l’équipe."
+      ],
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "nice-cg138"
+      ],
+      "continuity": {
+        "choice": "La carte reste facultative pour les pauses ordinaires ; Mireille inscrit un relais qui ne dépend pas d’un signal volontaire.",
+        "next": "Le désir de mieux prévoir conduit Agnès à rapprocher les événements de sa semaine et à chercher une règle causale au suivi."
+      }
+    },
+    {
+      "number": 9,
+      "slug": "agnes-circonstances-et-cause",
+      "title": "État de transe : rapprocher des événements ne prouve pas une cause",
+      "description": "Agnès cherche une règle dans les événements de sa semaine. Au suivi, elle distingue ses observations d’une explication encore incertaine.",
+      "context": "Un rendez-vous de suivi avec quelques notes privées",
+      "topics": [
+        "État de transe",
+        "Circonstances des épisodes",
+        "Incertitude causale"
+      ],
+      "clinical_focus": "Les circonstances ne prouvent pas une cause",
+      "diagnostic_stage": "known",
+      "clinical_intro": "Des circonstances peuvent être discutées dans le suivi sans être tenues pour la cause démontrée d’un trouble. Un événement difficile, un désaccord ou une proximité dans le temps ne suffit pas à expliquer un épisode de transe. Les observations restent utiles lorsqu’elles sont distinguées des hypothèses, sans imposer de récit traumatique ni de recherche de souvenirs.",
+      "opening": "Agnès sort trois petites notes de son enveloppe. Sur la première, elle a écrit un désaccord au centre. Sur la deuxième, un cours qu’elle avait apprécié. La dernière mentionne seulement une journée difficile, sans détail. Les feuilles ne forment pas un journal complet. Elle les a gardées parce qu’elle voudrait comprendre ce qui annonce les épisodes et ce qui permettrait de les prévoir.\n\nLa docteure Valette lui demande ce qu’elle espère trouver dans ces rapprochements. Agnès répond qu’une règle lui faciliterait la préparation. Elle pourrait retirer une situation du programme, en ajouter une autre, savoir enfin à quoi s’en tenir. Mais le cours agréable ne s’insère pas dans l’explication qu’elle avait commencé à construire. Elle est tentée de l’écarter, puisqu’il gêne le raisonnement.\n\nLa médecin revient avec elle à ce qui est observé et à ce qui reste supposé. Elle ne transforme pas la journée difficile en preuve d’une histoire qu’Agnès devrait dévoiler. Agnès peut dire qu’elle ne souhaite pas en développer le contenu. « Je ne veux pas que chaque ligne devienne une enquête », précise-t-elle. Elles regardent ce qui sera réellement utile au suivi. La feuille quadrillée du cours, restée dans son sac, n’a pas à devenir la carte de tous les événements qu’Agnès redoute désormais de traverser.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Une association laisse la causalité ouverte",
+          "text": "La proximité entre une circonstance et un épisode ne démontre pas que cette circonstance l’a causé. Les descriptions cliniques évoquent des contextes possibles, sans autoriser une explication universelle ni l’inférence d’un traumatisme chez une personne donnée. Chez Agnès, la recherche d’une règle exprime un souhait de prévisibilité. Le suivi peut examiner les observations sans en faire un mécanisme protecteur certain, un souvenir caché ou une responsabilité personnelle."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment la recherche d’une règle peut-elle dépasser les faits ?",
+          "points": [
+            {
+              "heading": "La succession devient explication",
+              "text": "Un ordre dans le temps peut être pris trop vite pour une relation de cause à effet.",
+              "examples": [
+                "Agnès rapproche le désaccord au centre d’un épisode sans savoir ce que ce lien signifie.",
+                "Elle imagine qu’en retirant une circonstance du programme elle supprimerait nécessairement le risque."
+              ]
+            },
+            {
+              "heading": "Les faits gênants sont écartés",
+              "text": "Une hypothèse paraît plus solide lorsqu’on oublie ce qui ne lui correspond pas.",
+              "examples": [
+                "Le souvenir d’un cours agréable ne rentre pas dans la règle qu’Agnès cherche.",
+                "Elle hésite à le conserver alors qu’il fait aussi partie de ce qu’elle a observé."
+              ]
+            },
+            {
+              "heading": "La question empiète sur la vie privée",
+              "text": "Vouloir comprendre ne crée pas une obligation de produire un récit détaillé de chaque difficulté.",
+              "examples": [
+                "Agnès choisit de ne pas raconter le contenu de sa journée difficile.",
+                "La docteure Valette ne lui demande pas de combler ce choix par une recherche de souvenirs."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour garder des observations sans fabriquer de certitude",
+          "points": [
+            {
+              "heading": "Séparer le fait et l’interprétation",
+              "objective": "Rendre visible ce qui est connu et ce qui est seulement envisagé.",
+              "exercise": [
+                "Nommer un événement observé et sa place dans le temps.",
+                "Dire séparément le lien que l’on se demande s’il pourrait avoir.",
+                "Conserver la mention « je ne sais pas » lorsque le lien n’est pas établi."
+              ],
+              "benefit": "Cette distinction peut rendre l’échange plus précis sans donner une explication définitive au trouble."
+            },
+            {
+              "heading": "Choisir l’utilité du suivi avec le professionnel",
+              "objective": "Éviter que l’observation occupe toute la vie quotidienne.",
+              "exercise": [
+                "Demander quelles informations aideraient effectivement le suivi.",
+                "Convenir d’un support limité et adapté aux besoins présents.",
+                "Revoir cette organisation si elle devient pesante ou n’apporte plus d’information utile."
+              ],
+              "benefit": "Des notes ciblées peuvent soutenir la consultation sans transformer chaque activité en recherche de déclencheurs."
+            },
+            {
+              "heading": "Maintenir les limites du récit",
+              "objective": "Pouvoir poser une question sans devoir tout raconter.",
+              "exercise": [
+                "Indiquer ce que l’on souhaite aborder pendant ce rendez-vous.",
+                "Dire lorsqu’un détail reste privé ou lorsqu’un souvenir manque.",
+                "Revenir au besoin actuel sans compléter ce manque par l’imagination ou la suggestion."
+              ],
+              "benefit": "La discussion peut continuer dans un cadre respectueux ; aucune révélation n’est présentée comme une condition d’amélioration."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Trois notes ne deviennent pas une carte des causes",
+      "ending": "Agnès conserve les observations dont elles ont défini l’utilité pour le suivi. Elle ne complète pas la note privée qu’elle ne souhaite pas développer. Dans son sac, la feuille quadrillée reste consacrée aux transitions et au relais. Elle retourne préparer un essai en sachant qu’elle ne pourra pas prévoir exactement le déroulement de la semaine. Cette incertitude ne l’oblige pas à supprimer chaque situation ordinaire qui lui rappelle une mauvaise journée.",
+      "conclusion": "Observer peut aider sans démontrer une cause. Agnès conserve des faits utiles, distingue ses hypothèses et garde la possibilité de ne pas tout raconter. Le projet avance avec un soutien préparé, plutôt qu’avec une règle supposée capable de prédire chaque épisode.",
+      "mirror": [
+        "Mireille peut accueillir une phrase simple : « Ce désaccord a été difficile, mais je ne sais pas quel lien il a avec mes épisodes. » Elle n’a pas à chercher une histoire cachée ni à demander davantage de détails. Elle peut revenir au besoin concret de préparation et laisser les questions de santé au suivi, sans promettre qu’éviter tout désaccord suffirait à protéger Agnès."
+      ],
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "nice-cg138"
+      ],
+      "continuity": {
+        "choice": "Agnès conserve seulement les observations définies comme utiles au suivi et garde le support du cours séparé des hypothèses causales.",
+        "next": "Elle reprend les essais avec Mireille sans pouvoir prédire la semaine ; une nouvelle interruption mettra le relais à l’épreuve."
+      }
+    },
+    {
+      "number": 10,
+      "slug": "agnes-recurrence-et-relais",
+      "title": "État de transe : une nouvelle interruption n’annule pas les appuis",
+      "description": "Après deux préparations possibles, un épisode interrompt un essai. Le relais fonctionne sans faire disparaître les besoins de suivi.",
+      "context": "Un essai de cours encadré par les deux collègues",
+      "topics": [
+        "État de transe",
+        "Récurrence variable",
+        "Fonctionnement du relais"
+      ],
+      "clinical_focus": "La récurrence reste variable",
+      "diagnostic_stage": "known",
+      "clinical_intro": "Les épisodes de transe peuvent se répéter selon une évolution variable. Une période sans interruption ne garantit pas leur disparition, et une nouvelle occurrence ne prouve ni un manque d’effort ni l’échec de tout soutien. Il est utile de distinguer ce qui relève de l’évolution clinique et ce qu’une organisation de relais permet concrètement.",
+      "opening": "Deux préparations ont pu se tenir depuis le dernier rendez-vous. Agnès a retrouvé le plaisir de discuter une transition et de défendre un début plus sobre que celui de Mireille. Elles ne sont pas d’accord sur tout, mais cette fois le désaccord est resté dans la maquette. Pour l’essai suivant, elles accueillent un petit groupe ; la feuille pratique est prête et les responsabilités ont été revues.\n\nUn épisode involontaire interrompt pourtant la participation d’Agnès. Mireille prend la responsabilité du groupe selon le relais convenu et le plan de soutien est suivi. Personne ne demande à Agnès de montrer le carton pour que cette organisation commence. Mireille poursuit les consignes du cours tout en respectant les dispositions de soutien prévues pour Agnès. Que le groupe reste encadré ne signifie pas que les besoins de santé de sa collègue ont disparu.\n\nAprès l’événement et le temps nécessaire, Agnès retrouve sa collègue. Elle n’a pas repris l’animation ce jour-là. « Alors, les deux dernières fois, ça ne comptait pas ? » demande-t-elle en regardant la feuille. Elle pensait n’avoir tiré aucune conclusion des préparations précédentes ; elle mesure maintenant combien elle espérait qu’elles annoncent une suite sans interruption. Mireille lui décrit seulement ce qui a tenu dans l’organisation. Cela ne répond pas à toutes ses questions, mais cela empêche que la journée soit réduite à un échec total.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "L’évolution et le soutien ne mesurent pas la même chose",
+          "text": "La récurrence variable des épisodes ne se résume pas à une progression régulière que chaque séance confirmerait ou démentirait. Un relais de travail répond à un besoin de participation et de sécurité ; son fonctionnement ne démontre pas un effet sur la fréquence des épisodes. Pour Agnès, les préparations précédentes ont réellement existé. La nouvelle interruption demande de tenir compte de ses besoins et du suivi, sans attribuer la récurrence à une faute."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment une nouvelle interruption peut-elle effacer le sentiment d’avancer ?",
+          "points": [
+            {
+              "heading": "Une attente s’était installée sans être dite",
+              "text": "Des moments plus faciles peuvent nourrir un espoir de continuité qui dépasse ce qu’ils permettent de prévoir.",
+              "examples": [
+                "Après deux préparations possibles, Agnès espérait que l’essai suivrait le même cours.",
+                "Elle découvre cette attente en se demandant si les séances précédentes comptaient encore."
+              ]
+            },
+            {
+              "heading": "Deux résultats sont confondus",
+              "text": "L’apparition d’un épisode et le fonctionnement de l’organisation constituent deux observations distinctes.",
+              "examples": [
+                "L’épisode survient malgré la feuille pratique.",
+                "Le groupe reste pris en charge parce que Mireille assume le relais convenu."
+              ]
+            },
+            {
+              "heading": "Le bilan risque de devenir un reproche",
+              "text": "Chercher ce qui doit être ajusté ne justifie pas de rechercher un manque de volonté.",
+              "examples": [
+                "Agnès pourrait croire qu’elle aurait dû mieux utiliser le dispositif pour empêcher l’interruption.",
+                "Mireille revient aux responsabilités tenues plutôt qu’à une faute supposée de sa collègue."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour faire un bilan sans transformer la récurrence en faute",
+          "points": [
+            {
+              "heading": "Décrire séparément les deux résultats",
+              "objective": "Reconnaître l’événement et l’appui qui a réellement fonctionné.",
+              "exercise": [
+                "Nommer sobrement l’interruption survenue.",
+                "Identifier la responsabilité que le relais a permis de prendre en charge.",
+                "Éviter d’en déduire une réussite ou un échec global de la personne."
+              ],
+              "benefit": "Un bilan distinct peut préserver les appuis utiles tout en prenant au sérieux la nouvelle difficulté."
+            },
+            {
+              "heading": "Garder la transmission clinique prévue",
+              "objective": "Faire examiner les besoins ou changements par le bon interlocuteur.",
+              "exercise": [
+                "Suivre les modalités de contact convenues avec l’équipe.",
+                "Transmettre ce qui change ou préoccupe, sans inventer une cause.",
+                "Appliquer les indications reçues, avec un recours adapté en cas de situation urgente."
+              ],
+              "benefit": "La récurrence reste une question de suivi et ne devient pas un problème à résoudre par la seule organisation du cours."
+            },
+            {
+              "heading": "Réviser l’engagement pratique",
+              "objective": "Adapter la suite sans imposer de démontrer ses capacités.",
+              "exercise": [
+                "Dire ce qui paraît possible maintenant et ce qui doit attendre.",
+                "Discuter la part que l’autre peut assumer réellement.",
+                "Laisser la poursuite du projet révisable selon les besoins de santé."
+              ],
+              "benefit": "Le projet peut conserver une place sans devenir une épreuve à réussir coûte que coûte ou une exposition imposée."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Le groupe a continué, le suivi aussi",
+      "ending": "Les informations utiles sont transmises selon le cadre de suivi. Mireille a assuré la fin de l’essai ; Agnès n’a pas eu à prouver qu’elle pouvait reprendre. Elle accepte de poursuivre la préparation avec une responsabilité partagée, sous réserve de ses besoins de santé. En rassemblant les feuilles, elle voit pourtant que presque toutes les versions ont été écrites de sa main. Le relais dans le studio a fonctionné ; la charge avant le cours reste encore à partager.",
+      "conclusion": "Une nouvelle interruption ne retire pas leur réalité aux moments précédents et ne prouve pas une faute. Agnès distingue l’évolution de ses épisodes et le relais qui a tenu. Le suivi continue, tandis que le projet appelle une répartition plus complète du travail.",
+      "mirror": [
+        "Mireille peut répondre : « Les deux préparations ont compté, et aujourd’hui j’ai pu reprendre le groupe comme prévu. » Cette phrase reconnaît un appui sans minimiser l’épisode. Elle peut accepter qu’Agnès ne reprenne pas et soutenir la transmission au suivi. Elle ne propose ni de recommencer aussitôt pour se rassurer ni de chercher ce qu’Agnès aurait mal fait."
+      ],
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "nice-cg138"
+      ],
+      "continuity": {
+        "choice": "Agnès ne reprend pas l’essai ; le relais et la transmission au suivi ont lieu, puis elle accepte une poursuite révisable du projet.",
+        "next": "Les versions réunies révèlent que la préparation repose encore trop sur Agnès malgré le relais pendant le cours."
+      }
+    },
+    {
+      "number": 11,
+      "slug": "agnes-effort-invisible-preparation",
+      "title": "État de transe : le travail accompli peut cacher un effort supplémentaire",
+      "description": "Trois versions du même cours révèlent la charge portée par Agnès. Mireille prend une séquence entière, de la préparation à l’animation.",
+      "context": "Une séance de répartition avant l’atelier final",
+      "topics": [
+        "État de transe",
+        "Retentissement professionnel",
+        "Charge de préparation"
+      ],
+      "clinical_focus": "Le travail tient au prix d’efforts",
+      "diagnostic_stage": "known",
+      "clinical_intro": "Le retentissement d’un trouble ne se mesure pas seulement aux activités interrompues. Une activité maintenue peut demander un effort supplémentaire peu visible aux autres. Chez Agnès, ce coût apparaît dans la préparation du cours. Ce surcroît de préparation lui est propre et ne concerne pas toutes les personnes ayant ce trouble. Il invite à regarder les conditions concrètes du travail.",
+      "opening": "Trois versions de la même séance occupent la table. Agnès les avait réunies après l’essai, puis glissées ensemble dans son dossier. Les différences sont petites mais nombreuses : une transition plus courte ici, une consigne que Mireille pourrait reprendre là, une autre entrée pour que rien ne paraisse interrompu. En les étalant, elle reconnaît le temps passé à prévoir ces variantes.\n\nMireille pensait que la feuille pratique avait allégé la préparation. Elle n’avait vu ni les soirées consacrées aux versions abandonnées ni les décisions reprises plusieurs fois. Agnès ne les présente pas comme une preuve de mérite. Elle constate seulement que leur partage commence encore trop tard : Mireille peut reprendre le groupe, mais Agnès a souvent préparé à l’avance toutes les possibilités de ce relais.\n\n« Je ne voudrais pas te remettre trois cours pour qu’on dise ensuite que nous en avons fait un ensemble. » La phrase les fait sourire, puis les oblige à regarder la transition centrale. C’est justement la partie sur laquelle elles divergent depuis le début. Mireille propose enfin de la concevoir entièrement, et pas seulement de suivre une variante prévue par Agnès. Cela suppose qu’Agnès accepte une autre proposition artistique. Elle garde son droit d’en discuter, sans devoir reprendre elle-même chaque détail pour que l’atelier porte encore sa marque.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Voir le résultat ne montre pas tout le coût",
+          "text": "Une participation professionnelle maintenue peut demander des efforts d’adaptation qui restent invisibles dans le résultat final. Ce retentissement doit être distingué d’un nouveau symptôme ou d’un trait que toutes les personnes partageraient. Agnès a multiplié les versions pour que les interruptions pèsent moins sur le cours. Cette organisation lui coûte du temps et de l’énergie ; répartir la conception peut agir sur cette charge sans prétendre traiter les épisodes."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment la préparation peut-elle rester inégalement partagée ?",
+          "points": [
+            {
+              "heading": "Les variantes cachent leur fabrication",
+              "text": "Un document prêt à utiliser peut masquer le travail consacré aux options non retenues.",
+              "examples": [
+                "Mireille ne connaissait que la feuille finale, pas les trois versions préparées par Agnès.",
+                "Une consigne simple a demandé plusieurs reprises avant d’apparaître sur la maquette."
+              ]
+            },
+            {
+              "heading": "Le relais commence après les décisions",
+              "text": "Prendre la parole pendant le cours ne signifie pas toujours partager la charge en amont.",
+              "examples": [
+                "Mireille pouvait animer une transition déjà entièrement conçue par Agnès.",
+                "Agnès préparait aussi les alternatives destinées à rendre possible sa propre interruption."
+              ]
+            },
+            {
+              "heading": "Partager suppose une autre proposition",
+              "text": "Une responsabilité complète laisse à l’autre une part de choix, et pas seulement d’exécution.",
+              "examples": [
+                "Mireille propose de construire la transition centrale selon sa propre idée.",
+                "Agnès peut en discuter la cohérence sans reprendre toutes les versions à son compte."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour partager la charge réelle de préparation",
+          "points": [
+            {
+              "heading": "Nommer une tâche invisible",
+              "objective": "Rendre le travail concret avant de chercher une solution.",
+              "exercise": [
+                "Choisir un exemple précis de préparation supplémentaire.",
+                "Décrire ce qu’il demande, sans avoir à prouver un épuisement ou révéler son dossier.",
+                "Demander quelle partie de cette charge peut être revue ensemble."
+              ],
+              "benefit": "Un exemple peut rendre le besoin compréhensible sans réduire la discussion à une appréciation générale de la fatigue."
+            },
+            {
+              "heading": "Confier une responsabilité entière",
+              "objective": "Partager les décisions et la réalisation.",
+              "exercise": [
+                "Délimiter une séquence dont l’autre accepte la conception.",
+                "Préciser qui prépare, apporte les supports et anime cette partie.",
+                "Prévoir un échange de coordination plutôt qu’une reprise intégrale par la première personne."
+              ],
+              "benefit": "La répartition peut alléger une charge effective au lieu de déplacer seulement la prise de parole pendant le cours."
+            },
+            {
+              "heading": "Garder un document pratique commun",
+              "objective": "Rendre le partage lisible sans exposer la vie médicale.",
+              "exercise": [
+                "Indiquer qui anime chaque partie sur la feuille du cours.",
+                "Y faire figurer les possibilités de pause déjà convenues.",
+                "Conserver les observations de santé sur leur support privé distinct."
+              ],
+              "benefit": "La feuille aide à coopérer et à s’arrêter ; elle ne devient pas un dossier clinique ni une mesure du contrôle."
+            }
+          ]
+        }
+      ],
+      "ending_title": "La transition porte aussi la main de Mireille",
+      "ending": "Mireille prend entièrement la transition centrale, préparation comprise. Agnès ne lui remet pas une quatrième version cachée sous la première : elles conviennent d’un point de coordination et laissent cette place à sa proposition. La feuille finale précise qui anime chaque partie et comment une pause peut se prendre sans justification publique. L’atelier reste celui qu’Agnès voulait construire, mais sa réalisation appartient désormais réellement aux deux collègues.",
+      "conclusion": "Le cours terminé ne montrait pas toute la charge qui le rendait possible. En partageant une séquence de sa conception à son animation, Agnès et Mireille modifient les conditions de travail. Cet appui vise leur organisation et ne constitue pas une preuve d’amélioration clinique.",
+      "mirror": [
+        "Mireille peut dire : « Je prends cette transition depuis sa préparation, tu n’as pas à m’écrire toutes les variantes. » Elle vérifie ensuite qu’elle dispose du temps et des moyens pour tenir cet engagement. Elle peut aussi conserver un désaccord artistique respectueux. Aider ne suppose pas d’accéder aux notes de santé, et prendre une tâche entière reste plus concret qu’exiger qu’Agnès se ménage."
+      ],
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "nice-cg138"
+      ],
+      "continuity": {
+        "choice": "Mireille prend la conception et l’animation de la transition centrale ; la feuille finale rend les responsabilités et pauses lisibles.",
+        "next": "L’atelier final permettra de faire vivre cette répartition et une pause volontaire sans justification publique."
+      }
+    },
+    {
+      "number": 12,
+      "slug": "agnes-atelier-appuis-durables",
+      "title": "État de transe : participer avec un droit de s’arrêter",
+      "description": "L’atelier a lieu avec une animation réellement partagée. Agnès prend une pause volontaire sans devoir l’expliquer au groupe.",
+      "context": "Le jour de l’atelier au centre culturel",
+      "topics": [
+        "État de transe",
+        "Participation professionnelle",
+        "Appuis durables"
+      ],
+      "clinical_focus": "Participer avec des appuis durables",
+      "diagnostic_stage": "known",
+      "clinical_intro": "Des appuis concrets peuvent rendre une activité plus accessible sans démontrer un effet sur le trouble lui-même. Une responsabilité partagée et une pause possible répondent ici au projet professionnel d’Agnès. Leur utilité se regarde dans l’organisation vécue ; le suivi clinique continue séparément et la participation ne devient pas une preuve de guérison.",
+      "opening": "Agnès pose la feuille quadrillée à l’endroit convenu, près du support de Mireille. Pour la première fois, les deux documents portent des choix qui n’ont pas tous été préparés par elle. La transition centrale appartient à sa collègue. Elles en ont discuté la place, mais Agnès n’en a pas réécrit chaque détail. Le groupe entre dans le studio et trouve plusieurs places où s’asseoir.\n\nAvant le début, Agnès présente les possibilités de pause à tout le monde. Il n’y a pas à expliquer publiquement pourquoi l’on s’arrête. Elle indique aussi que les deux professeures se partagent l’animation. La présentation conserve la place de sa pratique culturelle choisie, dans les mots qu’elles ont retravaillés ; elle ne raconte pas son dossier médical.\n\nQuand Mireille prend sa transition, Agnès choisit de s’asseoir. Elle s’arrête volontairement et reste présente à ce qui se passe autour d’elle. Elle regarde sa collègue poursuivre une proposition un peu plus ample que celle qu’elle aurait choisie. Le groupe reste tourné vers l’activité. Personne ne vient lui demander de justifier sa chaise ou de confirmer qu’elle peut continuer. Ce détail lui paraît plus concret que toutes les phrases qu’elles avaient écrites sur le droit de s’arrêter : cette fois, le cours a réellement une place pour cet arrêt.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "L’appui rend une place possible",
+          "text": "Un aménagement de participation peut modifier les conditions d’une activité sans constituer un traitement ou une mesure de rémission. Chez Agnès, l’organisation rend praticable une pause choisie et répartit l’animation avant qu’une difficulté impose un relais. Cela ne prouve aucun effet sur la fréquence des épisodes. Le projet artistique peut être accompli et le suivi rester nécessaire ; ces deux réalités n’ont pas besoin d’être confondues pour reconnaître ce qui a changé."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment le droit de s’arrêter devient-il concret ?",
+          "points": [
+            {
+              "heading": "La possibilité est annoncée à tous",
+              "text": "Une règle commune peut éviter que chaque pause appelle une explication personnelle.",
+              "examples": [
+                "Agnès présente les places disponibles au début de l’atelier.",
+                "Un participant peut aussi s’arrêter sans être interrogé devant les autres."
+              ]
+            },
+            {
+              "heading": "L’activité ne dépend pas d’une seule présence",
+              "text": "Une responsabilité réellement partagée laisse l’autre personne prendre sa place sans improviser tout le contenu.",
+              "examples": [
+                "Mireille anime la transition qu’elle a elle-même conçue.",
+                "Agnès s’assied sans devoir continuer à guider chaque consigne depuis sa chaise."
+              ]
+            },
+            {
+              "heading": "La participation n’efface pas les besoins",
+              "text": "Un atelier accompli ne permet pas de conclure à l’évolution future du trouble.",
+              "examples": [
+                "La pause volontaire d’Agnès n’est pas présentée comme un épisode évité.",
+                "Elle garde son suivi même si l’organisation de cette journée lui a convenu."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour garder les appuis au-delà d’une séance",
+          "points": [
+            {
+              "heading": "Rendre la pause praticable",
+              "objective": "Faire correspondre la possibilité annoncée avec l’organisation réelle.",
+              "exercise": [
+                "Prévoir une place où l’on peut s’arrêter dans le cadre de l’activité.",
+                "Présenter cette possibilité sans demander de justification publique.",
+                "Vérifier après la séance si elle a effectivement pu être utilisée."
+              ],
+              "benefit": "La pause peut devenir un choix accessible ; elle ne doit pas servir à tester ni à mesurer l’état clinique de quelqu’un."
+            },
+            {
+              "heading": "Maintenir la responsabilité partagée",
+              "objective": "Éviter que le bon déroulement d’un atelier supprime les appuis qui l’ont rendu possible.",
+              "exercise": [
+                "Repérer les responsabilités prises par chaque collègue.",
+                "Vérifier ce que chacune peut continuer à assumer.",
+                "Prévoir les prochaines activités en gardant une répartition explicite et révisable."
+              ],
+              "benefit": "Le soutien peut durer sans exiger qu’une personne reprenne seule tout le travail dès qu’une séance s’est bien passée."
+            },
+            {
+              "heading": "Séparer les deux bilans",
+              "objective": "Examiner le projet et la santé dans leurs espaces respectifs.",
+              "exercise": [
+                "Discuter avec la collègue de la préparation et des pauses réellement possibles.",
+                "Réserver au suivi les observations de santé utiles et les questions cliniques.",
+                "Ajuster les engagements futurs en tenant compte des besoins sans en faire une épreuve de guérison."
+              ],
+              "benefit": "Un bilan pratique peut reconnaître l’atelier accompli tout en laissant ouverte l’évolution clinique."
+            }
+          ]
+        }
+      ],
+      "ending_title": "La feuille garde une place pour la suite",
+      "ending": "L’atelier se termine. Agnès et Mireille constatent que la pause a été possible et que la transition n’a pas perdu son sens lorsque l’une s’est assise. Elles gardent la répartition qui a fonctionné, avec un point pratique à prévoir avant une prochaine activité. Agnès range la feuille quadrillée ; dans un coin, elle a noté une idée de début encore plus simple. Elle conserve son suivi et le lien à sa pratique culturelle. Son projet a eu lieu, sans qu’elle ait eu à prouver la disparition de ses épisodes.",
+      "conclusion": "La réussite de cet atelier tient à une place réellement laissée pour l’arrêt et au partage du travail. Agnès peut reconnaître ce résultat sans conclure à une guérison. La danse, les relations et les projets continuent, avec des appuis qui restent à ajuster.",
+      "mirror": [
+        "Mireille peut dire après l’atelier : « Ma transition a tenu sa place, et ta pause aussi. Gardons ce partage pour préparer la suite. » Elle n’a pas à faire de la chaise un signe de rechute ou du cours terminé une preuve de guérison. Son engagement porte sur les responsabilités qu’elle peut assumer ; les questions de santé restent dans le suivi choisi par Agnès."
+      ],
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "nice-cg138"
+      ],
+      "continuity": {
+        "choice": "L’atelier a effectivement lieu avec partage de l’animation ; Agnès prend une pause volontaire sans justification et les collègues conservent les appuis utiles.",
+        "next": "L’enjeu de l’atelier est clos ; Agnès garde son suivi, sa pratique culturelle et de futurs projets sans promesse de disparition des épisodes."
+      }
+    }
+  ]
+}

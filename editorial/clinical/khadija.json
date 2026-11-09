@@ -1,0 +1,1262 @@
+{
+  "character_id": "khadija",
+  "bio": "Khadija, 36 ans, est animatrice d’ateliers de cuisine avec des participantes de plusieurs générations. Son État de possession, un trouble dissociatif déjà diagnostiqué par une équipe clinique, comporte des épisodes involontaires vécus comme un remplacement de son identité et une perte de commande de ses gestes. Cet intitulé ne confirme aucune cause surnaturelle. Avec une interprète choisie, une proche de confiance et ses soignants, elle cherche des mots respectueux de son expérience. Elle veut décider à qui l’expliquer et garder une place active dans l’atelier.",
+  "profile_topics": [
+    "État de possession",
+    "expérience involontaire",
+    "souvenirs incomplets",
+    "langage et soins",
+    "participation à l’atelier"
+  ],
+  "episodes": [
+    {
+      "number": 1,
+      "slug": "khadija-sentiment-de-soi",
+      "title": "État de possession : quand le sentiment de soi bascule",
+      "description": "À la table des fiches, Khadija traverse un épisode involontaire. Après le relais de Marion, elle cherche ses mots auprès de Leïla.",
+      "context": "À la préparation de l’atelier",
+      "topics": [
+        "État de possession",
+        "sentiment de soi",
+        "écoute"
+      ],
+      "clinical_focus": "Quand le sentiment de soi bascule",
+      "diagnostic_stage": "known",
+      "clinical_intro": "L’État de possession est le nom clinique d’un trouble dissociatif où une personne peut vivre son identité habituelle comme remplacée par une influence extérieure. Ce terme décrit une expérience ; il ne confirme aucune présence surnaturelle. Écouter ce vécu sans en imposer la cause permet de préserver une conversation utile, dans le cadre d’un suivi professionnel.",
+      "opening": "Le classeur vert est ouvert sur deux versions d’une même recette. Khadija préfère laisser les deux : les participantes décideront ce qu’elles ont envie de présenter. À trente-six ans, elle anime ces ateliers de cuisine avec des femmes de plusieurs générations et tient à ce que les variantes aient leur place. Ce matin, il s’agit seulement de préparer les fiches. Aucun plat ne chauffe et les ustensiles ne sont pas sortis. Marion, sa coanimatrice, demande combien de pages elles garderont.\n\nUn épisode interrompt cette préparation. Khadija ne pourra pas le raconter comme un simple moment de distraction. Elle l’a vécu comme si son sentiment habituel d’être elle-même avait été remplacé, comme si une influence extérieure commandait ce qui se passait. Ce sont les mots de son expérience, pas la description d’une présence que Marion aurait vue. Marion prend le relais de la réunion suivant l’organisation qu’elles avaient préparée ; le plan convenu avec les soignants reste leur repère pour le soutien.\n\nAprès l’événement, et après le temps dont elle a besoin, Khadija retrouve Leïla, son amie. Le diagnostic a déjà été posé par une équipe clinique, mais le nom lui paraît lourd à prononcer. « Je sais que j’étais là. Pourtant, ce n’était plus ma façon habituelle d’être moi. » Elle regarde Leïla, craignant autant d’être contredite que de se voir expliquer avec assurance ce qui aurait pris sa place.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Un nom clinique pour une expérience vécue",
+          "text": "Une altération du sentiment d’identité peut appartenir à un trouble dissociatif évalué par des professionnels. Dans l’État de possession, le vécu est attribué par la personne à une influence extérieure ; l’intitulé ne démontre pas cette attribution. Le diagnostic de Khadija précède l’atelier. Une croyance ou une phrase isolée ne permettrait pas de conclure au même trouble chez quelqu’un d’autre. Khadija cherche à raconter une expérience involontaire sans que son interlocutrice décide à sa place de son explication."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment ce changement du sentiment de soi affecte-t-il l’échange ?",
+          "points": [
+            {
+              "heading": "Une expérience difficile à mettre en mots",
+              "text": "Khadija distingue sa présence physique et son sentiment habituel d’être elle-même.",
+              "examples": [
+                "Elle dit à Leïla qu’elle était là sans se reconnaître dans ce qui se passait.",
+                "Elle cherche une formulation au lieu de donner un récit assuré de l’événement."
+              ]
+            },
+            {
+              "heading": "Un décalage entre vécu et observation",
+              "text": "Une témoin peut décrire la situation sans avoir accès à l’expérience intérieure.",
+              "examples": [
+                "Marion sait qu’elle a repris la réunion.",
+                "Leïla entend ensuite les mots de Khadija sans pouvoir confirmer une influence extérieure."
+              ]
+            },
+            {
+              "heading": "La crainte de perdre la maîtrise du récit",
+              "text": "Le retentissement concerne aussi la manière dont les autres répondent après l’événement.",
+              "examples": [
+                "Khadija hésite devant le mot clinique déjà connu.",
+                "Elle redoute une explication péremptoire autant qu’un refus de l’écouter."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour raconter son vécu sans devoir en prouver la cause",
+          "points": [
+            {
+              "heading": "Séparer expérience et observation",
+              "objective": "Préparer, hors épisode, un échange qui laisse leur place aux deux perspectives.",
+              "exercise": [
+                "Choisir un moment où l’on souhaite parler.",
+                "Dire ce que l’on a vécu avec une formule comme « j’ai eu le sentiment que ».",
+                "Demander à la témoin de distinguer ce qu’elle a observé de ses interprétations."
+              ],
+              "benefit": "Cette distinction peut éviter qu’une écoute devienne un débat sur une cause non établie."
+            },
+            {
+              "heading": "Choisir une interlocutrice",
+              "objective": "Garder une part de décision sur le partage de son expérience.",
+              "exercise": [
+                "Identifier une personne avec qui l’on se sent suffisamment libre de parler.",
+                "Lui préciser si l’on souhaite une écoute ou une aide pratique.",
+                "Convenir que la conversation peut s’arrêter sans explication supplémentaire."
+              ],
+              "benefit": "Le choix protège l’intimité ; il ne remplace ni l’évaluation ni les soins."
+            },
+            {
+              "heading": "Reprendre les contacts convenus",
+              "objective": "Situer le soutien dans le suivi déjà établi.",
+              "exercise": [
+                "Retrouver hors épisode le plan individualisé donné par l’équipe.",
+                "Vérifier avec elle les questions de contact encore floues.",
+                "Transmettre selon ce plan les informations utiles, sans attendre un récit parfait."
+              ],
+              "benefit": "Un cadre connu évite de charger une amie d’inventer seule la conduite clinique."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Le classeur reste à l’atelier",
+      "ending": "« Tu peux m’écouter sans décider ce que ça veut dire ? » demande Khadija. Leïla acquiesce. Elle ne reprend ni l’hypothèse d’une présence ni celle d’un manque de volonté. Khadija décide de ne pas retourner aux fiches aujourd’hui. Marion garde le classeur vert pour les tâches convenues et confirme qu’elle s’en occupe. Le lendemain, Khadija voudra comprendre un geste que Marion a observé ; pour l’instant, elle n’a pas à terminer la réunion dans cette conversation.",
+      "conclusion": "L’expérience identitaire racontée ici appartient au parcours singulier d’une personne déjà suivie. La recevoir sans certifier sa cause permet de distinguer écoute, observation et soin, tout en laissant à Khadija des choix concrets après l’événement.",
+      "mirror": [
+        "Leïla peut répondre : « Je comprends que ce soit difficile à raconter. Tu veux que je t’écoute ou que je t’aide à reprendre contact selon le plan ? » Elle n’a pas à confirmer une influence extérieure, à exiger un autre vocabulaire ou à obtenir tous les détails. Marion, de son côté, garde la responsabilité des tâches convenues. Leur présence ne leur donne pas le rôle de soignantes."
+      ],
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "nice-cg138"
+      ],
+      "continuity": {
+        "choice": "Khadija décide de ne pas reprendre la préparation ce jour-là. Marion conserve le classeur vert pour les tâches convenues ; Leïla accepte d’écouter sans expliquer la cause.",
+        "next": "Le lendemain, Khadija souhaite comprendre une action observée pendant ce même événement."
+      }
+    },
+    {
+      "number": 2,
+      "slug": "khadija-parole-et-commande",
+      "title": "Parler sans se sentir aux commandes",
+      "description": "Un geste et une phrase pendant l’épisode interrogent Khadija : une réponse organisée ne signifie pas qu’elle se sentait aux commandes.",
+      "context": "Le lendemain de la réunion",
+      "topics": [
+        "État de possession",
+        "gestes involontaires",
+        "observation"
+      ],
+      "clinical_focus": "Parler sans se sentir aux commandes",
+      "diagnostic_stage": "known",
+      "clinical_intro": "Une parole compréhensible ou un geste organisé ne suffisent pas à établir qu’une personne se sentait aux commandes pendant un épisode dissociatif. Dans l’État de possession, ce sentiment de commande peut être altéré. En parler après coup demande de distinguer le fait observé, l’expérience rapportée et l’interprétation que chacun serait tenté d’y ajouter.",
+      "opening": "Le lendemain de la réunion, Khadija retrouve Marion devant le classeur vert. Elle n’est pas venue reprendre l’atelier : elles ont seulement convenu d’un échange. Marion a conservé les deux variantes, comme prévu. Aucun changement surprenant n’attend Khadija entre les pages. Pourtant, un détail de la veille l’occupe. Marion lui a dit qu’elle avait déplacé une fiche pendant l’épisode. Khadija lui demande maintenant de raconter exactement ce qu’elle a vu, si elle s’en souvient.\n\n« Tu as mis cette page de l’autre côté, puis tu as dit qu’on pouvait la garder. » Marion s’arrête. Elle commence à ajouter que cela avait eu l’air volontaire, mais Khadija l’interrompt doucement. La phrase pouvait être compréhensible ; elle ne reconnaît pas pour autant une décision qu’elle aurait commandée de sa manière habituelle. Ce décalage lui paraît presque plus difficile à expliquer que l’interruption de la réunion. Elle craint qu’une réponse bien formée serve de preuve contre ce qu’elle raconte.\n\nMarion pose la fiche sans lui demander de refaire le geste. « Je peux te dire ce que j’ai vu, pas ce que tu décidais intérieurement. » Le diagnostic dissociatif est déjà connu dans le suivi de Khadija. Leur échange ne doit pas devenir une nouvelle évaluation improvisée entre collègues. Khadija sort une feuille distincte du classeur : elle veut garder l’observation pour sa prochaine consultation, pas l’inscrire dans une recette.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Le geste visible et son vécu ne se confondent pas",
+          "text": "Le sentiment d’être à l’origine de ses gestes et paroles peut être altéré dans certains épisodes dissociatifs. Une conduite apparemment organisée ne permet pas à une témoin de conclure au contrôle volontaire, au consentement ou à une simulation. Chez Khadija, ce vécu de commande diffère de la question du sentiment d’identité abordée la veille. Décrire une fiche déplacée reste possible ; expliquer pourquoi elle l’a été relève d’une autre démarche et ne se tranche pas en demandant de recommencer."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment le décalage entre action et commande apparaît-il ?",
+          "points": [
+            {
+              "heading": "Un geste observable sans accès à l’intention",
+              "text": "Les faits visibles ne donnent pas directement le vécu de leur auteur.",
+              "examples": [
+                "Marion peut nommer la page déplacée.",
+                "Elle ne peut pas déduire de ce mouvement une décision intérieure de Khadija."
+              ]
+            },
+            {
+              "heading": "Une phrase qui paraît ordinaire",
+              "text": "Le sens d’une parole ne suffit pas à établir les conditions dans lesquelles elle a été produite.",
+              "examples": [
+                "La proposition de garder la page est compréhensible.",
+                "Khadija ne retrouve pas dans cette phrase son sentiment habituel de choisir."
+              ]
+            },
+            {
+              "heading": "Une interprétation qui pourrait blesser",
+              "text": "La difficulté relationnelle vient ici d’une conclusion trop rapide, pas d’un nouveau symptôme.",
+              "examples": [
+                "Marion s’apprête à dire que le geste avait l’air volontaire.",
+                "Khadija redoute que cette impression annule tout ce qu’elle essaie de raconter."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour parler des gestes sans mettre la personne à l’épreuve",
+          "points": [
+            {
+              "heading": "Garder une description sobre",
+              "objective": "Préparer une observation utile sans la transformer en explication.",
+              "exercise": [
+                "Demander hors événement si la personne souhaite entendre ce qui a été observé.",
+                "Décrire le geste et les paroles dont on se souvient sans qualificatif sur l’intention.",
+                "Laisser la personne préciser son vécu ou dire qu’elle ne sait pas."
+              ],
+              "benefit": "Le récit garde ses limites et peut être transmis plus clairement au suivi."
+            },
+            {
+              "heading": "Écarter la démonstration",
+              "objective": "Éviter de faire du dialogue un test de contrôle.",
+              "exercise": [
+                "Repérer une demande de rejouer ou de prouver ce qui s’est passé.",
+                "La remplacer par une question sur ce que la personne souhaite expliquer maintenant.",
+                "Arrêter l’échange si elle ne veut plus le poursuivre."
+              ],
+              "benefit": "Cela réduit la pression de devoir produire une preuve corporelle et respecte son choix."
+            },
+            {
+              "heading": "Préparer une question clinique",
+              "objective": "Confier au suivi ce que les proches ne peuvent pas trancher.",
+              "exercise": [
+                "Noter séparément le fait observé et le ressenti rapporté.",
+                "Formuler une question sur ce décalage pour l’équipe.",
+                "Apporter la note au rendez-vous prévu ou utiliser le contact convenu si la situation le demande."
+              ],
+              "benefit": "Cette préparation aide à demander une explication sans attribuer aux proches une expertise clinique."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Une feuille qui n’est pas une recette",
+      "ending": "Khadija écrit deux lignes : ce que Marion a vu, puis ce qu’elle peut dire de son propre vécu. Elle laisse un espace vide pour les questions. La note rejoint ses affaires personnelles ; le classeur conserve seulement les recettes. Marion confirme qu’elle reprendra les responsabilités convenues sans attendre une justification pendant un épisode. Khadija voudrait encore remettre les échanges de la veille dans l’ordre, mais certaines parties lui manquent. Elle les apportera telles quelles au rendez-vous.",
+      "conclusion": "Une action organisée ne raconte pas à elle seule le sentiment de commande. En distinguant observation, vécu et hypothèse, Khadija et Marion disposent d’une note utile sans rejouer l’événement ni transformer leur relation en examen.",
+      "mirror": [
+        "Marion peut dire : « Voilà ce dont je me souviens ; je ne sais pas comment tu l’as vécu. » Elle évite « tu savais très bien ce que tu faisais », même si la phrase entendue lui semblait ordinaire. Elle peut proposer une observation, puis laisser Khadija choisir de la transmettre à l’équipe. Le relais de l’atelier reste une responsabilité préparée, sans exigence d’explication pendant l’événement."
+      ],
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "nice-cg138"
+      ],
+      "continuity": {
+        "choice": "Elles gardent une observation sobre dans une note privée, séparée du classeur de recettes. Marion confirme que le relais ne dépendra pas d’une explication pendant l’événement.",
+        "next": "La note soulève la question des souvenirs incomplets que Khadija veut aborder en consultation."
+      }
+    },
+    {
+      "number": 3,
+      "slug": "khadija-souvenirs-incomplets",
+      "title": "Souvenirs incomplets : laisser les blancs à leur place",
+      "description": "En consultation, Khadija distingue ses souvenirs de ce que Marion lui a raconté, sans chercher à reconstruire chaque instant.",
+      "context": "Au rendez-vous de suivi",
+      "topics": [
+        "État de possession",
+        "mémoire",
+        "récit incomplet"
+      ],
+      "clinical_focus": "Garder les blancs du souvenir",
+      "diagnostic_stage": "known",
+      "clinical_intro": "Les souvenirs d’un épisode dissociatif peuvent rester partiels. Un récit incomplet ne doit pas être comblé par des suggestions, une reconstitution imposée ou des certitudes empruntées à autrui. Distinguer ce qui est personnellement rappelé, rapporté par une témoin ou encore inconnu aide le professionnel à recueillir l’expérience sans fabriquer une continuité artificielle.",
+      "opening": "Khadija arrive au rendez-vous avec la feuille pliée en deux. Le classeur vert est resté à l’atelier, auprès de Marion ; cette note n’a rien à faire entre les variantes de recettes. Nora, l’interprète professionnelle qu’elle a choisie, lui demande si elle souhaite commencer par ses questions. La docteure Tessier attend qu’elle soit installée. Elles connaissent déjà le diagnostic ; il ne s’agit pas de convaincre une nouvelle équipe de son existence.\n\nKhadija se rappelle la discussion sur les deux versions, puis certains instants après l’interruption. Elle ne retrouve pas l’ordre de tous les échanges. Le geste de la fiche déplacée, elle le connaît surtout parce que Marion l’a décrit. En relisant ses deux lignes, elle remarque qu’elle pourrait facilement raconter tout cela d’un seul mouvement, comme si elle l’avait elle-même revu. Elle préfère s’arrêter. « Cette partie, c’est ce qu’on m’a raconté. Le reste, je ne sais pas le remettre dans l’ordre. »\n\nNora restitue cette distinction. La docteure ne lui demande ni de fermer les yeux pour retrouver la scène ni de deviner une phrase manquante. Khadija avait préparé une chronologie presque nette ; elle la barre à l’endroit où elle devenait une supposition. Cela lui laisse moins à raconter, mais quelque chose de plus fidèle. Elle voudrait savoir si ces blancs obligent à ajouter un autre diagnostic. Elle voudrait aussi, une prochaine fois, parler du mot possession qui continue de l’embarrasser.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Une mémoire partielle ne demande pas un récit complet à tout prix",
+          "text": "Des souvenirs incomplets peuvent accompagner certains épisodes d’État de possession. Ils ne suffisent pas à poser un autre trouble de la mémoire ni à expliquer leur origine. Le recueil clinique peut conserver des incertitudes. Dans cette consultation, Khadija distingue une trace personnelle, une observation de Marion et un passage qu’aucune d’elles ne décrit. Chercher à remplir ce dernier par la suggestion donnerait une apparence de précision sans garantir la fidélité du souvenir."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment les blancs compliquent-ils le récit ?",
+          "points": [
+            {
+              "heading": "Des fragments sans ordre assuré",
+              "text": "Se souvenir de moments ne permet pas toujours de reconstruire leur succession.",
+              "examples": [
+                "Khadija retrouve la discussion sur les variantes.",
+                "Elle ne sait pas replacer tous les échanges autour de l’interruption."
+              ]
+            },
+            {
+              "heading": "Une information entendue après coup",
+              "text": "Une observation reçue peut être utile tout en restant distincte du souvenir personnel.",
+              "examples": [
+                "La fiche déplacée est décrite par Marion.",
+                "Khadija précise à la docteure l’origine de cette information."
+              ]
+            },
+            {
+              "heading": "La tentation de rendre l’histoire plus nette",
+              "text": "La recherche de cohérence peut dépasser ce que la personne sait réellement.",
+              "examples": [
+                "Khadija avait préparé une chronologie presque complète.",
+                "Elle barre une transition lorsqu’elle réalise qu’elle l’avait supposée."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour préparer un récit fidèle à ce que l’on sait",
+          "points": [
+            {
+              "heading": "Indiquer d’où vient l’information",
+              "objective": "Séparer les sources du récit avant une consultation.",
+              "exercise": [
+                "Choisir un événement que l’on souhaite aborder.",
+                "Distinguer sur la note « je me rappelle » et « on m’a rapporté ».",
+                "Présenter cette distinction au professionnel sans fusionner les deux versions."
+              ],
+              "benefit": "Cette clarté peut rendre le récit plus utile même s’il reste fragmentaire."
+            },
+            {
+              "heading": "Laisser une place à l’inconnu",
+              "objective": "Éviter de produire une réponse uniquement pour fermer un blanc.",
+              "exercise": [
+                "Repérer une partie dont on n’est pas certain.",
+                "Écrire simplement que cette partie reste inconnue.",
+                "Refuser une reconstitution ou une image proposée comme souvenir certain."
+              ],
+              "benefit": "L’incertitude reste visible au lieu de devenir une fausse certitude partagée."
+            },
+            {
+              "heading": "Demander ce qui aide le suivi",
+              "objective": "Limiter la collecte aux informations utiles et acceptables.",
+              "exercise": [
+                "Demander au professionnel quelles observations lui seraient utiles.",
+                "Convenir de ce que la personne accepte de demander à une témoin.",
+                "Revenir avec ces éléments ou signaler qu’ils ne sont pas disponibles."
+              ],
+              "benefit": "Le suivi se construit avec les limites du récit, sans enquête permanente des proches."
+            }
+          ]
+        }
+      ],
+      "ending_title": "La ligne laissée vide",
+      "ending": "La docteure Tessier conserve les distinctions proposées et répond aux questions dans le cadre du suivi. Elle ne transforme pas le blanc en preuve d’un autre trouble. Khadija laisse la ligne vide sur sa feuille. Elle demande qu’un prochain échange soit consacré au vocabulaire utilisé pour son expérience, avec Nora si cela lui convient toujours. Le rendez-vous se termine sans chronologie parfaite, mais la question qu’elle veut reprendre est écrite de sa main.",
+      "conclusion": "Le soin n’exige pas toujours une histoire sans trou. Préserver l’origine des informations et les passages inconnus permet à Khadija de participer au suivi sans chercher des souvenirs sur commande.",
+      "mirror": [
+        "Si Marion est sollicitée avec l’accord de Khadija, elle peut transmettre ce qu’elle a réellement observé et signaler ses propres incertitudes. « Je me souviens de cette phrase, pas de ce qui a précédé » est une réponse possible. Leïla n’a pas à poser des questions répétées pour compléter les blancs. Le récit peut rester incomplet et être discuté avec l’équipe."
+      ],
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "nice-cg138"
+      ],
+      "continuity": {
+        "choice": "La docteure accepte un récit incomplet et note ce qui est connu. Khadija demande à garder du temps pour discuter du mot possession lors du prochain échange.",
+        "next": "La consultation suivante reprend précisément la difficulté de traduire son expérience sans imposer une interprétation."
+      }
+    },
+    {
+      "number": 4,
+      "slug": "khadija-mots-communs-au-soin",
+      "title": "Trouver des mots communs sans effacer son expérience",
+      "description": "Avec Nora et la docteure Tessier, Khadija cherche une formulation qui distingue son vécu d’une explication imposée.",
+      "context": "Lors d’un second entretien",
+      "topics": [
+        "État de possession",
+        "communication",
+        "interprétariat"
+      ],
+      "clinical_focus": "Trouver des mots communs au soin",
+      "diagnostic_stage": "known",
+      "clinical_intro": "Les mots utilisés pour décrire une expérience dissociative peuvent avoir des significations différentes pour la personne, son entourage et les professionnels. Une interprétation linguistique choisie et des reformulations vérifiées peuvent soutenir l’échange. Respecter les mots d’une personne ne demande ni de confirmer leur explication surnaturelle ni de lui retirer le droit de décrire ce qu’elle ressent.",
+      "opening": "Au rendez-vous suivant, Khadija ne commence pas par la note des événements. Elle a écrit une seule question sur une autre page : « Quand vous dites possession, qu’est-ce que vous voulez dire ? » Nora est présente à sa demande. La docteure Tessier lui laisse lire la phrase jusqu’au bout. Khadija sait que ce diagnostic figure déjà dans son suivi, mais le même mot n’a pas le même poids selon la personne qui le prononce.\n\nElle explique qu’en le disant à haute voix, elle a parfois l’impression de devoir prouver une influence extérieure. À d’autres moments, elle craint que refuser cette certitude revienne à nier ce qu’elle a vécu. Elle ne veut faire ni l’un ni l’autre. Nora lui demande quelle formulation correspond le mieux à ce qu’elle souhaite transmettre, puis restitue la réponse. Khadija corrige un mot : elle ne dit pas qu’elle a choisi de laisser quelqu’un agir ; elle parle d’une expérience subie.\n\nLa docteure reprend la différence entre ce ressenti, la manière dont Khadija le comprend et le nom clinique retenu après évaluation. Elle vérifie ce que Khadija en a compris, sans lui demander d’adopter une autre histoire personnelle pour rester dans le soin. Khadija regarde sa question. Pour la première fois dans cet échange, elle n’essaie plus de trouver le mot qui ferait immédiatement tout comprendre. Elle veut deux phrases assez précises pour ne pas se contredire.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Comprendre le même mot ne va pas de soi",
+          "text": "Une communication clinique peut échouer lorsque les interlocuteurs donnent des sens différents à une même expression. Le nom du trouble décrit une expérience dissociative ; il n’atteste aucune présence extérieure. L’interprète facilite l’échange et la vérification du sens, sans poser le diagnostic ni parler au nom d’une culture. Cette adaptation relève de l’accès au soin et du respect des préférences, pas d’un traitement démontré des épisodes."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment un mot peut-il faire obstacle à la consultation ?",
+          "points": [
+            {
+              "heading": "Un intitulé entendu comme une preuve",
+              "text": "Le langage clinique peut être compris autrement que prévu.",
+              "examples": [
+                "Khadija craint que possession confirme une présence extérieure.",
+                "La docteure précise que l’intitulé n’établit pas cette cause."
+              ]
+            },
+            {
+              "heading": "Une nuance qui change le sens",
+              "text": "La différence entre choisir et subir est importante dans le récit.",
+              "examples": [
+                "Khadija corrige la formulation sur le fait de laisser agir.",
+                "Nora vérifie avec elle le sens qui sera transmis."
+              ]
+            },
+            {
+              "heading": "La peur de devoir renoncer à ses mots",
+              "text": "Être comprise ne devrait pas dépendre d’une adhésion forcée à une histoire unique.",
+              "examples": [
+                "Khadija veut pouvoir nommer son ressenti.",
+                "Elle demande en même temps une explication du terme figurant dans son suivi."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour vérifier que l’on parle de la même chose",
+          "points": [
+            {
+              "heading": "Préparer une phrase personnelle",
+              "objective": "Entrer dans l’échange avec ses propres mots.",
+              "exercise": [
+                "Choisir le point qui reste difficile à expliquer.",
+                "Écrire une phrase sur ce qui a été ressenti sans chercher un vocabulaire médical.",
+                "Indiquer au professionnel le mot qui semble inexact ou trop lourd."
+              ],
+              "benefit": "Cette préparation peut rendre visible un malentendu avant qu’il ne s’installe."
+            },
+            {
+              "heading": "Demander une reformulation",
+              "objective": "Vérifier le sens transmis avec une interprète si on le souhaite.",
+              "exercise": [
+                "Demander que l’idée exprimée soit reformulée.",
+                "Dire ce qui correspond et ce qui doit être corrigé.",
+                "Faire reprendre la version corrigée avant de poursuivre."
+              ],
+              "benefit": "L’échange peut devenir plus précis sans exiger une traduction parfaite dès le premier essai."
+            },
+            {
+              "heading": "Clarifier le compte rendu",
+              "objective": "Savoir comment son expérience sera décrite dans le soin.",
+              "exercise": [
+                "Demander ce que signifie l’intitulé utilisé.",
+                "Distinguer avec l’équipe ce qui rapporte le vécu et ce qui relève de l’évaluation clinique.",
+                "Signaler une formulation qui semble attribuer une certitude que l’on n’a pas exprimée."
+              ],
+              "benefit": "La discussion aide à comprendre le dossier ; elle ne transforme pas l’interprète en clinicienne."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Deux phrases sur la même page",
+      "ending": "Khadija conserve une phrase pour son vécu et une autre pour expliquer que l’État de possession est ici le nom d’un trouble dissociatif diagnostiqué. Nora lui demande si cette distinction lui convient ; elle répond oui, tout en gardant le droit de préciser ses mots plus tard. Puis Khadija soulève une autre question : certains moments collectifs de sa vie sont choisis et importants pour elle. Elle ne veut pas que l’équipe les confonde avec les épisodes. L’entretien se poursuit.",
+      "conclusion": "Un accord sur les mots peut laisser ouvertes les interprétations personnelles tout en rendant le cadre clinique plus clair. Khadija n’a pas à prouver une présence ni à effacer son vécu pour participer à son suivi.",
+      "mirror": [
+        "Leïla peut demander à Khadija quels mots elle souhaite utiliser entre elles, sans lui imposer de reprendre le vocabulaire médical dans chaque conversation. « Si je reformule ainsi, est-ce fidèle à ce que tu veux dire ? » laisse une place à la correction. Une amie ne remplace pas une interprète professionnelle souhaitée par la personne pour ses consultations et ne choisit pas son explication à sa place."
+      ],
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "nice-cg138"
+      ],
+      "continuity": {
+        "choice": "Khadija garde deux formulations compatibles : ce qu’elle ressent et le nom clinique du trouble. Elle souhaite maintenant préciser ce qui, dans sa vie, relève d’une pratique choisie et non des épisodes.",
+        "next": "Le rendez-vous se poursuit sur cette frontière, sans inventer une religion ou un rituel."
+      }
+    },
+    {
+      "number": 5,
+      "slug": "khadija-pratique-choisie-episode-subi",
+      "title": "Pratique choisie et épisode subi : préserver la distinction",
+      "description": "Khadija précise ce qu’elle choisit et ce qu’elle subit, sans devoir exposer toute sa vie personnelle pour être entendue.",
+      "context": "Dans la suite de l’entretien",
+      "topics": [
+        "État de possession",
+        "contexte culturel",
+        "vie privée"
+      ],
+      "clinical_focus": "Distinguer pratique choisie et épisode subi",
+      "diagnostic_stage": "known",
+      "clinical_intro": "Une pratique collective choisie ou une croyance ne constitue pas en elle-même un trouble mental. L’évaluation d’expériences dissociatives tient compte du contexte et de leur retentissement, avec la personne. Distinguer une participation volontaire d’épisodes subis évite de pathologiser toute une part de sa vie ; cette distinction ne forme pas un test permettant de se diagnostiquer.",
+      "opening": "La consultation n’est pas terminée. Khadija garde la page des deux formulations devant elle et demande à ajouter quelque chose. Il existe, dans sa vie, des moments collectifs auxquels elle choisit de participer et qui comptent pour elle. Elle ne souhaite pas les décrire en détail aujourd’hui. Elle veut simplement que ce choix ne soit pas rangé dans le même récit que l’interruption de la préparation des fiches. Nora transmet sa demande, puis vérifie qu’elle en a respecté la limite.\n\n« Là-bas, j’ai envie d’y être. Ce qui s’est passé à l’atelier, je ne l’avais pas choisi. Et après, je n’ai pas pu continuer ce que j’avais prévu. » Khadija ne prétend pas résumer toute l’évaluation dans cette différence. Elle parle de sa propre vie, à l’équipe qui connaît déjà son diagnostic. Elle redoute seulement que le mot possession finisse par colorer tout ce qu’elle fait, y compris ce qui lui apporte du sens et qu’elle n’a jamais demandé à faire disparaître.\n\nLa docteure Tessier l’écoute sans réclamer une démonstration de ces moments collectifs. Elle lui demande ce qui serait utile à comprendre pour le suivi, puis accepte que certains détails restent privés. Khadija retrouve dans cet échange un peu de la précision qu’elle défend à l’atelier : deux variantes peuvent partager un nom et rester différentes. Mais sa vie ne doit pas devenir une recette dont chaque ingrédient serait exigé.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Le contexte compte sans devenir une étiquette",
+          "text": "Les descriptions cliniques distinguent les troubles dissociatifs des pratiques collectives culturellement ou religieusement acceptées. Cela suppose une évaluation contextualisée, pas un jugement sur une croyance ni un critère isolé appliqué par l’entourage. Ici, Khadija précise ce qui est choisi et ce qui lui impose un retentissement non souhaité. Ni son prénom ni le sens qu’elle donne à un moment collectif ne permettent d’inventer sa religion, sa langue ou l’origine de ses épisodes."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment la confusion entre pratique et trouble affecte-t-elle la personne ?",
+          "points": [
+            {
+              "heading": "Toute une vie pourrait être relue à travers le diagnostic",
+              "text": "Une étiquette clinique peut déborder la situation qu’elle décrit.",
+              "examples": [
+                "Khadija craint que chaque moment collectif soit assimilé à un épisode.",
+                "Elle demande que l’atelier interrompu reste distinct de ses participations choisies."
+              ]
+            },
+            {
+              "heading": "Le retentissement subi reste à entendre",
+              "text": "La distinction s’appuie ici sur son expérience discutée avec l’équipe.",
+              "examples": [
+                "Khadija voulait poursuivre la préparation des fiches.",
+                "Elle décrit le fait d’avoir dû renoncer à ce projet après l’événement."
+              ]
+            },
+            {
+              "heading": "L’intimité peut être mise sous pression",
+              "text": "Comprendre le contexte n’autorise pas à exiger tous les détails.",
+              "examples": [
+                "Khadija ne veut pas raconter entièrement ses pratiques personnelles.",
+                "Nora transmet cette limite au lieu de proposer une interprétation générale."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour préciser le contexte tout en gardant son intimité",
+          "points": [
+            {
+              "heading": "Nommer ce qui est choisi",
+              "objective": "Aider le professionnel à comprendre une distinction importante pour soi.",
+              "exercise": [
+                "Identifier une confusion que l’on souhaite éviter.",
+                "Dire en quoi la participation est volontaire, avec les détails que l’on accepte de donner.",
+                "Demander si le professionnel a compris la distinction sans lui demander de conclure sur ce seul élément."
+              ],
+              "benefit": "Le contexte devient plus clair sans fournir une grille d’autodiagnostic."
+            },
+            {
+              "heading": "Décrire le coût non souhaité",
+              "objective": "Parler du retentissement concret des épisodes.",
+              "exercise": [
+                "Choisir une activité interrompue ou rendue difficile.",
+                "Expliquer ce que l’on voulait faire et ce qui n’a pas été possible.",
+                "Discuter avec l’équipe des besoins que cette difficulté soulève."
+              ],
+              "benefit": "Le soin peut s’appuyer sur les conséquences vécues plutôt que sur un jugement de croyance."
+            },
+            {
+              "heading": "Délimiter le partage",
+              "objective": "Préserver une partie de sa vie privée dans l’échange.",
+              "exercise": [
+                "Préciser les informations que l’on souhaite garder pour soi.",
+                "Demander pourquoi un détail serait utile à l’évaluation.",
+                "Décider avec le professionnel comment poursuivre sans démonstration ni récit forcé."
+              ],
+              "benefit": "Cette discussion peut soutenir la confiance ; elle ne remplace pas l’évaluation individualisée."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Ce qui restera entre les pages personnelles",
+      "ending": "L’équipe consigne la distinction exprimée par Khadija. Aucune pratique n’est prescrite, supprimée ou proposée comme traitement. Khadija décide que les participantes de l’atelier n’ont pas besoin de connaître cette partie de sa vie. Pour Marion, elle préparera d’abord un échange sur l’organisation du retour. Elle sait désormais mieux ce qu’elle veut expliquer, même si elle n’a pas encore trouvé comment parler du caractère involontaire des épisodes sans être entendue comme quelqu’un qui refuse de s’engager.",
+      "conclusion": "Respecter le contexte d’une personne ne consiste ni à valider toutes les causes qu’elle envisage ni à pathologiser ce qui lui donne du sens. Ici, une distinction clinique reste compatible avec une limite personnelle sur les détails partagés.",
+      "mirror": [
+        "Un proche peut demander : « Qu’est-ce que tu souhaites que je comprenne, et qu’est-ce que tu préfères garder pour toi ? » Il n’a pas à déduire une tradition d’un prénom, à demander une démonstration ou à proposer un rituel pour les épisodes. Leïla peut respecter la limite de Khadija et l’encourager à discuter avec l’équipe des questions qu’elle souhaite approfondir."
+      ],
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "nice-cg138"
+      ],
+      "continuity": {
+        "choice": "L’équipe consigne cette distinction dans le suivi. Khadija conserve le droit de ne pas exposer ses pratiques aux participantes ; elle prépare seulement un échange avec Marion.",
+        "next": "Cet échange révèle que volonté de participer et caractère involontaire d’un épisode peuvent être confondus."
+      }
+    },
+    {
+      "number": 6,
+      "slug": "khadija-volonte-et-episode",
+      "title": "Vouloir participer ne garantit pas de pouvoir prévenir",
+      "description": "Marion propose un signal obligatoire. Khadija explique pourquoi le relais ne peut pas dépendre d’une annonce pendant l’épisode.",
+      "context": "Avant de fixer le retour",
+      "topics": [
+        "État de possession",
+        "caractère involontaire",
+        "relais"
+      ],
+      "clinical_focus": "Vouloir participer ne suffit pas",
+      "diagnostic_stage": "known",
+      "clinical_intro": "Le souhait de participer à une activité ne donne pas nécessairement la maîtrise des manifestations d’un trouble dissociatif. Exiger une annonce au moment d’un épisode peut faire reposer l’organisation sur une capacité qui n’est pas garantie. Un relais préparé hors événement distingue l’engagement volontaire de la personne et les difficultés qu’elle ne choisit pas.",
+      "opening": "Marion a préparé une feuille pour leur prochain atelier. Khadija la rejoint pour en parler, sans qu’une date de retour ait encore été arrêtée. Elles se mettent d’accord sur le fait de garder les variantes des participantes. Puis Marion montre une ligne au bas de la page : « Khadija prévient dès qu’elle doit s’arrêter. » Elle l’a écrite comme une précaution, avec l’idée de respecter son autonomie. Khadija la relit deux fois avant de répondre.\n\n« Je peux te dire maintenant ce que je veux. Je ne peux pas te promettre de toujours le dire à ce moment-là. » Marion pense d’abord à un signe plus discret, une main sur le classeur ou un mot convenu. Khadija ne conteste pas l’utilité d’une parole lorsqu’elle peut la donner. Elle refuse la garantie que la phrase imprimée semble lui demander. Lors de la réunion interrompue, Marion avait précisément pris le relais sans attendre une explication.\n\nKhadija veut participer. Elle n’aime pas entendre sa limite comme une réserve sur cet engagement. Elle voudrait choisir la manière de présenter les recettes, retrouver les propositions de chacune, reprendre une place qui ne se résume pas à son absence. Mais elle ne peut pas transformer ce désir en maîtrise des épisodes. Marion regarde la ligne. Elle réalise que sa précaution ferait porter à Khadija la responsabilité de rendre tout événement prévisible. Avant de la remplacer, elles doivent préciser leurs questions avec l’équipe de soins.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "L’engagement et le contrôle ne sont pas une même capacité",
+          "text": "Le caractère involontaire d’un épisode dissociatif signifie qu’il ne correspond pas simplement à une décision de se retirer de l’activité. Une personne peut vouloir participer sans pouvoir garantir un avertissement pendant l’événement. Un signal facultatif lorsqu’il est possible ne doit pas devenir la condition du relais. L’organisation concrète se prépare avec les personnes concernées et les indications du suivi ; elle ne constitue pas une technique pour arrêter un épisode."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment une exigence de signal peut-elle devenir une pression ?",
+          "points": [
+            {
+              "heading": "Une promesse impossible à assurer",
+              "text": "La bonne volonté ne garantit pas une capacité disponible à tout moment.",
+              "examples": [
+                "Khadija souhaite reprendre l’atelier.",
+                "Elle ne promet pas de formuler une demande pendant chaque épisode."
+              ]
+            },
+            {
+              "heading": "Une autonomie comprise comme responsabilité totale",
+              "text": "Respecter les choix n’oblige pas la personne à tout anticiper.",
+              "examples": [
+                "Marion avait cru respecter son autonomie avec la ligne écrite.",
+                "Elle voit que cette ligne pourrait empêcher un relais sans signal."
+              ]
+            },
+            {
+              "heading": "Le risque d’être jugée sur la prévention",
+              "text": "Un dispositif trop conditionnel peut faire apparaître l’événement comme une faute.",
+              "examples": [
+                "Khadija craint qu’une absence d’annonce passe pour un défaut d’engagement.",
+                "Le souvenir de la réunion montre pourtant un relais déjà assuré sans cette exigence."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour préparer un relais sans exiger un contrôle parfait",
+          "points": [
+            {
+              "heading": "Séparer désir et garantie",
+              "objective": "Exprimer son engagement avec une limite réaliste.",
+              "exercise": [
+                "Nommer l’activité à laquelle on souhaite participer.",
+                "Préciser ce que l’on peut décider hors épisode.",
+                "Dire ce qu’on ne peut pas garantir pendant l’événement."
+              ],
+              "benefit": "La discussion peut porter sur des capacités réelles sans juger la volonté."
+            },
+            {
+              "heading": "Relire les conditions du relais",
+              "objective": "Repérer une organisation dépendante d’un signal obligatoire.",
+              "exercise": [
+                "Reprendre ensemble la répartition écrite des rôles.",
+                "Identifier les tâches qui seraient bloquées sans annonce.",
+                "Préparer une organisation à faire vérifier, où les responsabilités convenues restent claires."
+              ],
+              "benefit": "Cette relecture peut réduire un angle mort pratique ; elle n’établit pas une conduite médicale universelle."
+            },
+            {
+              "heading": "Faire préciser les limites avec le suivi",
+              "objective": "Relier les questions de retour à l’évaluation individualisée.",
+              "exercise": [
+                "Rassembler les questions de sécurité et de responsabilité avant la reprise.",
+                "Les apporter au professionnel concerné et demander les modalités adaptées.",
+                "Confirmer les dispositions utiles avant de fixer le retour."
+              ],
+              "benefit": "Les décisions reposent ainsi sur un échange réel plutôt que sur une promesse de maîtrise."
+            }
+          ]
+        }
+      ],
+      "ending_title": "La condition rayée",
+      "ending": "Marion raye la phrase. Elle garde une question à la place : quelles dispositions confirmer avant la reprise ? Khadija ne fixe pas de date ce jour-là. Elle emporte les points à discuter au suivi, tandis que Marion conserve les tâches de l’atelier. Elles ont changé une condition de leur organisation, pas la fréquence des épisodes. Khadija veut aussi demander si un diagnostic connu permettrait d’expliquer d’avance tout événement à venir. Cette question rejoint les autres sur sa note privée.",
+      "conclusion": "Le désir de reprendre reste entier lorsqu’une personne reconnaît ce qu’elle ne peut pas garantir. Un relais réaliste respecte cette distinction et cherche les indications nécessaires, sans faire de la volonté un moyen de contrôle du trouble.",
+      "mirror": [
+        "Marion peut dire : « Je comprends que tu veuilles être là sans pouvoir toujours nous prévenir. Reprenons les responsabilités à clarifier. » Elle n’a pas à chercher le signal qui marcherait à coup sûr. Une amie ou une collègue peut préparer une organisation avec Khadija, puis laisser aux professionnels les questions cliniques et les indications de sécurité adaptées."
+      ],
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "nice-cg138"
+      ],
+      "continuity": {
+        "choice": "Marion retire la condition du signal. Elles préparent les questions de sécurité et de responsabilité à vérifier avant le retour, sans encore fixer sa date.",
+        "next": "Khadija apporte ces questions au suivi ; un diagnostic connu ne répond pas à toutes les questions de santé."
+      }
+    },
+    {
+      "number": 7,
+      "slug": "khadija-diagnostic-et-evaluation",
+      "title": "Un diagnostic connu ne répond pas à chaque événement",
+      "description": "Avant le retour, Khadija fait préciser avec son équipe les limites du diagnostic et les contacts adaptés aux situations nouvelles.",
+      "context": "Au point de suivi avant la reprise",
+      "topics": [
+        "État de possession",
+        "évaluation médicale",
+        "événement inhabituel"
+      ],
+      "clinical_focus": "Un diagnostic ne clôt pas l’évaluation",
+      "diagnostic_stage": "known",
+      "clinical_intro": "Un diagnostic dissociatif établi ne permet pas d’attribuer automatiquement tout événement futur au même trouble. Des circonstances nouvelles ou inhabituelles peuvent nécessiter une évaluation appropriée. Préparer avec l’équipe les informations à transmettre et les modalités de contact aide à ne pas confondre familiarité avec le diagnostic et certitude sur chaque situation.",
+      "opening": "La feuille de Marion est posée à côté de la note privée, sur le bureau de la docteure Tessier. Khadija a recopié les questions pratiques sans lui apporter le classeur des recettes. Le retour n’a pas encore eu lieu. Elle aimerait préparer les fiches, mais elle ne veut pas que leur nouvel accord repose sur des suppositions. Nora est là à sa demande pour faciliter l’échange. La première question concerne l’absence de signal garanti ; la seconde dépasse l’atelier.\n\n« Si quelque chose arrive encore, est-ce qu’on pourra dire que c’est forcément la même chose ? » Khadija ne rapporte pas un événement supplémentaire. Elle demande ce que le diagnostic permet de savoir et ce qu’il ne permet pas. La docteure explique qu’une évaluation antérieure ne donne pas une réponse automatique à chaque changement. Il faut pouvoir signaler ce qui est nouveau, reprendre les circonstances utiles et solliciter l’aide adaptée. Une collègue ne peut pas trancher l’origine d’un événement parce qu’elle connaît le nom du trouble.\n\nElles reprennent ensemble le plan individualisé, les contacts disponibles et les situations où l’activité doit être suspendue. Khadija demande que les indications lui soient reformulées avant de les conserver. Elle veut transmettre à Marion les dispositions nécessaires, mais pas tout son dossier. Elle regarde enfin la proposition de reprise limitée aux fiches : elle pourra la choisir après confirmation de ces dispositions, pas comme une épreuve destinée à prouver que le diagnostic suffit à tout expliquer.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Une étiquette ne dispense pas de réévaluer",
+          "text": "L’évaluation de manifestations dissociatives tient compte d’autres causes possibles, notamment neurologiques, et des circonstances de survenue. Un examen isolé ne règle pas à lui seul cette question : un EEG normal, par exemple, ne permet pas d’exclure une épilepsie et ne prouve donc pas une origine psychologique. Cela ne signifie pas qu’un tel examen serait nécessaire pour chaque épisode. Pour Khadija, l’enjeu est de savoir quand et comment demander une appréciation médicale adaptée, sans attribuer d’avance toute nouveauté au trouble connu."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment le diagnostic connu peut-il créer une fausse certitude ?",
+          "points": [
+            {
+              "heading": "Un nom devient une réponse automatique",
+              "text": "La familiarité peut masquer la nécessité de décrire ce qui s’est réellement passé.",
+              "examples": [
+                "Khadija demande si tous les événements futurs porteront la même étiquette.",
+                "La docteure distingue le suivi existant d’une évaluation d’un changement."
+              ]
+            },
+            {
+              "heading": "Les proches pourraient se croire chargés de trancher",
+              "text": "Connaître un diagnostic ne confère pas une compétence diagnostique.",
+              "examples": [
+                "Marion a besoin de dispositions pratiques.",
+                "Elle n’a pas à décider seule de l’origine d’un événement inhabituel."
+              ]
+            },
+            {
+              "heading": "Le retour pourrait être décidé avant les indications",
+              "text": "Une organisation incomplète laisse des questions importantes sans réponse.",
+              "examples": [
+                "La date n’avait pas été fixée à leur échange précédent.",
+                "Khadija fait préciser les contacts avant de confirmer la préparation des fiches."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour préparer les bonnes questions au suivi",
+          "points": [
+            {
+              "heading": "Distinguer fait et interprétation",
+              "objective": "Décrire une nouveauté sans lui attribuer d’emblée une cause.",
+              "exercise": [
+                "Noter ce qui paraît différent de ce qui est habituellement connu.",
+                "Séparer cette observation de l’explication envisagée.",
+                "Transmettre ces éléments au professionnel selon la situation et le plan convenu."
+              ],
+              "benefit": "Le récit peut orienter une évaluation sans devenir un diagnostic personnel."
+            },
+            {
+              "heading": "Clarifier le circuit de contact",
+              "objective": "Savoir à qui s’adresser dans les situations discutées avec l’équipe.",
+              "exercise": [
+                "Demander les modalités de contact adaptées aux besoins et à l’urgence éventuelle.",
+                "Faire reformuler les indications qui restent floues.",
+                "Conserver ces informations accessibles avec les personnes concernées selon l’accord donné."
+              ],
+              "benefit": "Cette préparation évite qu’une collègue doive inventer seule le recours approprié."
+            },
+            {
+              "heading": "Confirmer les conditions de reprise",
+              "objective": "Relier un projet concret aux indications individualisées.",
+              "exercise": [
+                "Décrire précisément l’activité envisagée et les responsabilités de chacune.",
+                "Demander ce qui doit être suspendu ou adapté et quand solliciter une aide médicale.",
+                "Confirmer les dispositions avant la reprise, sans attendre sous prétexte que le diagnostic est connu."
+              ],
+              "benefit": "Le projet devient plus concret tout en gardant une place aux changements nécessaires."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Un retour limité, préparé avec l’équipe",
+      "ending": "Le plan et les modalités de contact sont revus. Les dispositions sont confirmées avant toute reprise. Khadija choisit de revenir d’abord à la préparation des fiches, sans cuisson ni découpe, conformément aux indications reçues. Elle n’envoie pas sa note entière à Marion : elle veut encore décider ce qu’elle souhaite expliquer en plus des points utiles à leur organisation. Le retour a désormais un cadre, tandis que la question du partage lui appartient toujours.",
+      "conclusion": "Un diagnostic établi apporte des repères sans rendre chaque situation future certaine. Préparer les contacts et les limites du retour permet de garder ensemble le projet personnel, les responsabilités pratiques et la possibilité d’une nouvelle évaluation.",
+      "mirror": [
+        "Marion peut demander quelles dispositions pratiques Khadija souhaite lui transmettre et vérifier qu’elle les a comprises. Elle n’a pas à réclamer tous les résultats médicaux ni à conclure qu’un examen normal expliquerait tout. Face à une situation nouvelle ou préoccupante, le diagnostic connu ne justifie pas d’attendre ; elle utilise le relais médical adapté à la situation et les indications convenues."
+      ],
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "nice-cg138",
+        "nice-ng217"
+      ],
+      "continuity": {
+        "choice": "Le plan individualisé et les modalités de contact sont revus avec l’équipe. Khadija choisit un retour limité à la préparation des fiches, compatible avec les indications reçues ; les dispositions sont confirmées avant la reprise.",
+        "next": "Elle peut maintenant décider quelle information partager avec Marion et laquelle conserver dans le suivi."
+      }
+    },
+    {
+      "number": 8,
+      "slug": "khadija-choisir-qui-peut-savoir",
+      "title": "Partager un diagnostic sans perdre la main sur son récit",
+      "description": "Devant un message à Marion, Khadija choisit ce qu’elle explique et ce qu’elle ne souhaite pas voir circuler dans l’atelier.",
+      "context": "Chez elle avec Leïla",
+      "topics": [
+        "État de possession",
+        "confidentialité",
+        "divulgation choisie"
+      ],
+      "clinical_focus": "Choisir qui peut savoir",
+      "diagnostic_stage": "known",
+      "clinical_intro": "Le retentissement relationnel d’un trouble peut inclure la crainte d’être réduite à son diagnostic ou de voir une information intime circuler. Choisir les destinataires, le but et les limites d’une explication permet de préparer un partage plus précis. Cette démarche reste distincte des informations et recours nécessaires à la sécurité, discutés avec les professionnels.",
+      "opening": "Le message à Marion tient déjà sur tout l’écran. Khadija l’a réécrit trois fois depuis le rendez-vous de suivi. Le cadre de la reprise est confirmé ; ce qu’elle hésite à envoyer concerne maintenant son explication personnelle. À côté d’elle, Leïla lit seulement les passages qu’elle lui montre. Khadija a commencé par les recettes, puis raconté la consultation, puis effacé les détails dont Marion n’a pas besoin pour préparer les fiches.\n\nLe nom clinique reste au milieu du texte. « Si je l’envoie, est-ce que demain toutes les participantes vont le savoir ? » Elle imagine les questions qui suivraient, les explications proposées par des personnes qui ne la connaissent pas dans ces moments-là. Elle n’accuse pas Marion de vouloir divulguer son histoire ; elle découvre que choisir une destinataire et choisir tout un groupe ne sont pas le même geste. Leïla ne prend pas le téléphone. Elle demande ce que Khadija voudrait que Marion comprenne en plus de leurs dispositions pratiques.\n\n« Que c’est un trouble dissociatif suivi. Que je ne demande pas qu’on décide à ma place ce qui m’arrive. Et que je veux garder une place dans l’atelier. » Le message peut devenir plus court. Khadija laisse sa note de santé dans sa pochette personnelle. Une feuille de rôles pourra accompagner le classeur vert ; elle n’aura pas à raconter les consultations pour indiquer qui prépare quoi. Reste à écrire clairement la limite de diffusion, puis à vérifier que Marion l’accepte.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Informer quelqu’un n’oblige pas à informer tout le monde",
+          "text": "La divulgation d’un diagnostic engage des préférences et des relations singulières. Une personne peut souhaiter qu’une coanimatrice comprenne le cadre clinique sans autoriser une circulation dans tout le groupe. Ce choix ne fait pas disparaître les recours nécessaires à une situation de sécurité. Les dispositions utiles ont déjà été discutées avec l’équipe ; Khadija prépare une explication supplémentaire et choisie, pas une condition pour mériter sa place."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment la peur de la divulgation pèse-t-elle sur le message ?",
+          "points": [
+            {
+              "heading": "Le destinataire réel devient incertain",
+              "text": "L’inquiétude porte sur la circulation possible après l’envoi.",
+              "examples": [
+                "Khadija veut écrire à Marion.",
+                "Elle imagine pourtant les participantes recevant le même récit."
+              ]
+            },
+            {
+              "heading": "L’explication risque de devenir exhaustive",
+              "text": "La crainte de ne pas être comprise peut pousser à donner plus que souhaité.",
+              "examples": [
+                "Son premier message raconte la consultation.",
+                "Elle retire ensuite les détails sans utilité pour l’échange qu’elle veut avoir."
+              ]
+            },
+            {
+              "heading": "L’organisation et l’intimité se mélangent",
+              "text": "Un besoin de répartition des tâches ne demande pas un dossier médical collectif.",
+              "examples": [
+                "La feuille des rôles indique qui prépare les fiches.",
+                "La note de santé reste dans la pochette personnelle de Khadija."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour préparer un partage qui respecte ses limites",
+          "points": [
+            {
+              "heading": "Nommer la destinataire et le but",
+              "objective": "Savoir ce que l’on souhaite obtenir de cet échange.",
+              "exercise": [
+                "Écrire à qui l’on veut parler, sans élargir automatiquement au groupe.",
+                "Définir l’idée que l’on souhaite faire comprendre.",
+                "Retirer les détails qui ne servent pas ce but et que l’on ne souhaite pas partager."
+              ],
+              "benefit": "Le message peut devenir plus précis sans exposer toute l’histoire médicale."
+            },
+            {
+              "heading": "Distinguer besoin pratique et explication clinique",
+              "objective": "Ne pas faire dépendre chaque aménagement d’un récit intime complet.",
+              "exercise": [
+                "Lister les dispositions utiles à l’activité déjà convenues.",
+                "Préparer séparément les explications supplémentaires que l’on choisit de donner.",
+                "Vérifier que la version destinée au groupe ne contient que les informations nécessaires."
+              ],
+              "benefit": "La distinction aide à organiser l’activité tout en gardant des destinataires différents."
+            },
+            {
+              "heading": "Préciser les limites de circulation",
+              "objective": "Éviter qu’une confidence soit comprise comme une annonce publique.",
+              "exercise": [
+                "Dire explicitement ce qui ne doit pas être relayé.",
+                "Demander à la destinataire de confirmer qu’elle a compris cette limite.",
+                "Préserver les recours de sécurité nécessaires prévus avec l’équipe, sans promesse de secret qui les empêcherait."
+              ],
+              "benefit": "Un accord clair peut réduire les malentendus, sans garantir à lui seul toutes les réactions futures."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Le message envoyé à une seule personne",
+      "ending": "Khadija envoie la courte explication clinique à Marion en demandant qu’elle reste entre elles, hors les recours nécessaires déjà convenus. Marion confirme qu’elle ne la transmettra pas au groupe. Leïla n’a rien envoyé à sa place. Pour les participantes, Khadija prépare une feuille de rôles sans diagnostic. Elle veut que tout fonctionne même si elle doit s’absenter ; à force d’y penser, elle commence déjà à multiplier les copies de chaque fiche.",
+      "conclusion": "Choisir de parler ne signifie pas renoncer à toute intimité. Khadija peut expliquer son trouble à Marion, réserver d’autres informations au suivi et proposer au groupe une organisation qui n’exige pas de débattre de son expérience.",
+      "mirror": [
+        "Leïla peut aider à relire un message si Khadija le demande, puis lui laisser le téléphone et la décision d’envoyer. « Est-ce que tu veux vraiment partager ce détail ? » est plus utile que « je vais tout leur expliquer ». Marion peut confirmer la limite de diffusion et utiliser les dispositions pratiques convenues, sans réclamer davantage d’intimité en échange de son soutien."
+      ],
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "nice-cg138"
+      ],
+      "continuity": {
+        "choice": "Khadija envoie à Marion une courte explication clinique avec son accord explicite de confidentialité. Pour les participantes, elle prépare seulement une répartition des rôles, dépourvue de diagnostic.",
+        "next": "Le travail sur les rôles révèle la charge qu’elle s’imposait pour rester indispensable."
+      }
+    },
+    {
+      "number": 9,
+      "slug": "khadija-effort-cache-atelier",
+      "title": "L’effort caché pour continuer à tenir sa place",
+      "description": "Khadija revient aux fiches avec trois copies de chaque version. Le travail supplémentaire laisse moins de place aux recettes.",
+      "context": "Au retour limité à la préparation",
+      "topics": [
+        "État de possession",
+        "retentissement professionnel",
+        "partage des tâches"
+      ],
+      "clinical_focus": "L’effort caché derrière l’atelier",
+      "diagnostic_stage": "known",
+      "clinical_intro": "Le retentissement d’un trouble ne se mesure pas seulement aux activités abandonnées. Une personne peut maintenir une participation au prix d’un travail supplémentaire important. Chez Khadija, les copies et vérifications visent à rendre son absence supportable pour l’atelier. Ce surtravail décrit sa réponse personnelle à la situation, pas un symptôme universel ni un autre diagnostic.",
+      "opening": "Sur la table de préparation, Khadija pose trois piles de fiches. Le retour limité a été confirmé avec le suivi ; elle ne s’occupe ni de cuisson ni de découpe. Marion a prévu le temps nécessaire pour reprendre la présentation des variantes, mais Khadija commence par expliquer le classement. Une copie doit rester dans le classeur vert, une autre avec Marion, et la troisième pourrait servir si les deux premières ne sont plus au bon endroit.\n\n« Tu as fait tout ça hier soir ? » demande Marion. Khadija répond que ce n’était pas compliqué. Puis elle compte les recettes et admet qu’elle y a passé la soirée. Elle voulait que personne ne soit gêné si elle devait s’absenter encore. Le message confidentiel a été reçu ; la feuille de rôles reste sans diagnostic. Pourtant, elle continue à préparer comme si elle devait rendre toute interruption invisible par un travail préalable parfait.\n\nMarion lui demande où se trouve la variante proposée par une participante. Khadija hésite entre les trois piles. Elles ont recopié les mêmes indications, mais la proposition nouvelle s’est perdue sous les versions. Ce n’est pas un nouvel épisode : elles sont simplement en train de chercher une fiche. Khadija réalise qu’elle a consacré davantage de temps à doubler les documents qu’à imaginer la présentation qu’elle voulait animer. Elle voulait garder sa place ; le surcroît de préparation lui en a retiré une partie, celle où elle peut choisir et inventer.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "La participation peut cacher un coût important",
+          "text": "Le retentissement d’un trouble peut inclure les efforts nécessaires pour maintenir une activité, même lorsque celle-ci demeure possible. Chez Khadija, le surtravail répond à la crainte de peser sur l’équipe. Il ne constitue pas en soi un trouble compulsif et n’explique pas la survenue des épisodes. Revoir les tâches permet ici de rendre le coût visible et de partager une responsabilité réelle, sans faire de l’efficacité professionnelle un objectif de traitement."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment le surtravail modifie-t-il la place dans l’atelier ?",
+          "points": [
+            {
+              "heading": "La préparation déborde le temps prévu",
+              "text": "Le maintien apparent de l’activité peut demander un effort peu visible.",
+              "examples": [
+                "Khadija présente les copies comme une petite tâche.",
+                "Elle reconnaît ensuite y avoir consacré toute sa soirée."
+              ]
+            },
+            {
+              "heading": "Les doublons prennent la place du contenu",
+              "text": "Une organisation pensée pour aider peut elle-même compliquer la tâche.",
+              "examples": [
+                "Trois piles reprennent les mêmes indications.",
+                "La variante nouvelle devient difficile à retrouver parmi les copies."
+              ]
+            },
+            {
+              "heading": "La contribution choisie s’efface",
+              "text": "Rester indispensable à tout peut réduire la place du travail auquel on tient.",
+              "examples": [
+                "Khadija voulait imaginer la présentation.",
+                "Elle a surtout essayé de prévoir chaque conséquence d’une absence possible."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour partager le travail sans effacer sa contribution",
+          "points": [
+            {
+              "heading": "Distinguer utile et doublon",
+              "objective": "Voir ce que la préparation supplémentaire apporte réellement.",
+              "exercise": [
+                "Choisir une tâche qui a pris beaucoup de temps.",
+                "Repérer les éléments utilisés et ceux qui répètent une version déjà disponible.",
+                "Décider avec l’équipe quels doublons peuvent être retirés."
+              ],
+              "benefit": "La discussion rend le coût visible et peut simplifier une tâche sans promettre un effet sur les épisodes."
+            },
+            {
+              "heading": "Confier une responsabilité entière",
+              "objective": "Éviter qu’une aide laisse toute la charge de contrôle à la même personne.",
+              "exercise": [
+                "Définir une tâche dont une collègue accepte la responsabilité.",
+                "Préciser le résultat attendu et les informations utiles.",
+                "Laisser la collègue l’organiser sans refaire systématiquement son travail."
+              ],
+              "benefit": "Un relais complet peut réduire le travail caché derrière une répartition seulement apparente."
+            },
+            {
+              "heading": "Conserver un rôle choisi",
+              "objective": "Donner une place au projet personnel dans les adaptations.",
+              "exercise": [
+                "Nommer la partie de l’activité à laquelle on tient.",
+                "Vérifier qu’elle reste compatible avec les indications et limites convenues.",
+                "Prévoir comment l’interrompre ou la réviser si les besoins changent."
+              ],
+              "benefit": "La participation garde un sens propre sans devenir une obligation de performance."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Une version, deux responsabilités",
+      "ending": "Marion prend la compilation des variantes. Elle ne propose pas seulement de photocopier une pile : elle vérifie les contributions et en assure la mise à jour. Khadija garde le choix de leur présentation. Elles conservent une seule version de la feuille de rôles avec le classeur vert. Khadija repart avec moins de copies et un travail qui lui plaît davantage. Leur accord ne garantit pas l’absence d’un nouvel épisode ; il donne à l’atelier une organisation qui pourra aussi servir si elle manque une séance.",
+      "conclusion": "Une activité maintenue peut avoir un coût que personne ne voit. Le reconnaître permet de partager les tâches autrement et de préserver une contribution choisie, sans transformer l’atelier en mesure de guérison ou de bonne volonté.",
+      "mirror": [
+        "Marion peut demander combien de temps la préparation a réellement pris, sans louer le sacrifice comme une condition de la place de Khadija. « Je prends la compilation jusqu’au bout » offre une responsabilité précise. Elle peut ensuite respecter le choix de présentation de sa collègue, sans surveiller tous ses gestes ni traiter chaque hésitation devant les fiches comme un épisode clinique."
+      ],
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "nice-cg138"
+      ],
+      "continuity": {
+        "choice": "Marion prend la compilation des variantes ; Khadija conserve le choix de leur présentation. Une seule version de la feuille des rôles accompagne le classeur vert.",
+        "next": "Un nouvel épisode hors atelier mettra cette organisation à l’épreuve sans invalider le travail accompli."
+      }
+    },
+    {
+      "number": 10,
+      "slug": "khadija-recidive-et-efforts",
+      "title": "Une récidive ne juge pas les efforts accomplis",
+      "description": "Un nouvel épisode survient chez Khadija. Le contact clinique a lieu et Marion prend la séance, sans justification publique exigée.",
+      "context": "Avant une séance prévue",
+      "topics": [
+        "État de possession",
+        "récurrence",
+        "report d’activité"
+      ],
+      "clinical_focus": "Une récidive ne juge pas les efforts",
+      "diagnostic_stage": "known",
+      "clinical_intro": "L’évolution de l’État de possession peut comporter des récurrences variables. Un nouvel épisode ne démontre pas qu’une personne a mal appliqué ses appuis quotidiens ou manqué de volonté. Il appelle les démarches adaptées au suivi et à la situation, tandis que l’organisation d’une absence peut être évaluée séparément de la survenue du trouble.",
+      "opening": "Khadija ouvre le message de Marion : la compilation des variantes est prête. La séance doit avoir lieu dans la journée. Elle avait prévu de venir choisir avec elle l’ordre de présentation, mais un nouvel épisode est survenu chez elle. Leïla a utilisé le plan convenu et le contact avec l’équipe clinique a effectivement eu lieu. Khadija n’a pas besoin d’en refaire maintenant le récit pour répondre à sa coanimatrice. Elle lui annonce qu’elle ne viendra pas aujourd’hui.\n\nAvant d’envoyer, elle ajoute une phrase : « Je suis désolée, on avait pourtant bien organisé les choses. » Elle la relit et entend ce qu’elle suggère. Les copies avaient été réduites, les rôles clarifiés, le suivi poursuivi. Rien dans cet accord ne promettait que l’épisode ne reviendrait pas. Pourtant, elle sent la tentation de traiter sa récurrence comme la note finale de leurs efforts.\n\nLeïla est près d’elle, sans reprendre le téléphone. Elle lui rappelle que Marion dispose de la compilation et de la feuille des rôles. Cela ne répond pas à la question médicale ; celle-ci appartient au contact déjà engagé et au point de suivi à venir. Cela répond seulement à l’atelier de ce jour. Khadija garde l’annonce de son absence et retire la phrase qui la transforme en faute. Elle n’est pas disponible pour la séance, et elle ne veut pas que ce message devienne une explication destinée à toutes les participantes.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "La récurrence et la qualité du soutien sont deux questions",
+          "text": "Le cours d’un trouble dissociatif peut varier et comporter de nouveaux épisodes. Les aides de communication ou d’organisation proposées ici n’ont pas pour fonction démontrée d’en garantir l’arrêt. Leur utilité éventuelle se juge aussi dans la manière dont une difficulté peut être prise en compte. Khadija a pu joindre le relais clinique prévu et annoncer son absence ; cela n’efface pas l’événement, mais ne devient pas inutile parce qu’il a eu lieu."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment un nouvel épisode peut-il être vécu comme un échec personnel ?",
+          "points": [
+            {
+              "heading": "Les efforts sont relus comme une promesse",
+              "text": "Une organisation utile peut être confondue avec une prévention certaine.",
+              "examples": [
+                "Khadija pense aux rôles qu’elles avaient clarifiés.",
+                "Elle écrit d’abord comme si leur bon accord aurait dû empêcher l’événement."
+              ]
+            },
+            {
+              "heading": "L’absence semble exiger une justification publique",
+              "text": "La personne peut ressentir une dette d’explication envers le groupe.",
+              "examples": [
+                "Khadija hésite sur ce qu’elle doit dire à Marion.",
+                "Elle choisit de ne pas diffuser les éléments médicaux aux participantes."
+              ]
+            },
+            {
+              "heading": "Le soutien pourrait devenir une disponibilité sans limite",
+              "text": "La récurrence peut mettre au jour la charge portée par une proche.",
+              "examples": [
+                "Leïla a participé au relais convenu.",
+                "Elle doit aussi pouvoir préciser ce qu’elle ne pourra pas assurer les prochaines fois."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour répondre à la récurrence sans se mettre en accusation",
+          "points": [
+            {
+              "heading": "Transmettre les éléments utiles au soin",
+              "objective": "Faire de l’événement une information clinique, pas une faute à justifier.",
+              "exercise": [
+                "Utiliser le contact approprié selon la situation et le plan individualisé.",
+                "Rapporter ce qui est connu, en signalant les incertitudes et les changements éventuels.",
+                "Suivre les indications reçues sans décider seul d’une modification thérapeutique."
+              ],
+              "benefit": "Le relais permet une appréciation adaptée plutôt qu’une explication fondée sur la culpabilité."
+            },
+            {
+              "heading": "Évaluer l’organisation séparément",
+              "objective": "Voir ce qui a aidé sans en tirer une conclusion sur la cause de l’épisode.",
+              "exercise": [
+                "Identifier le relais pratique qui a effectivement été disponible.",
+                "Repérer une difficulté d’organisation restant à discuter.",
+                "Distinguer ce bilan de la question clinique à reprendre avec l’équipe."
+              ],
+              "benefit": "Cela évite de déclarer tout l’appui inutile ou, à l’inverse, de lui attribuer une efficacité médicale."
+            },
+            {
+              "heading": "Reporter un engagement clairement",
+              "objective": "Prévenir sans devoir fournir un récit médical collectif.",
+              "exercise": [
+                "Dire à la personne concernée que l’on ne participe pas à la séance.",
+                "Vérifier la responsabilité prévue pour les tâches de ce jour.",
+                "Laisser le prochain retour ouvert jusqu’au point nécessaire sur les besoins et le suivi."
+              ],
+              "benefit": "Le report devient une décision concrète, sans promesse précipitée de retour ni justification publique."
+            }
+          ]
+        }
+      ],
+      "ending_title": "La séance confiée à Marion",
+      "ending": "Marion confirme qu’elle assure la séance et qu’elle ne donnera pas de raison médicale au groupe. Khadija n’annonce pas encore sa prochaine présence. Le point clinique prévu aura lieu avant toute reprise. Leïla lui dit ensuite qu’elle peut être disponible pour certains rendez-vous, mais pas à toute heure. Khadija l’entend d’abord comme une distance nouvelle. Elles conviennent d’en reparler lorsque les besoins auront été repris avec l’équipe : l’amitié ne peut pas être leur unique système de recours.",
+      "conclusion": "Une récurrence n’annule ni les choix précédents ni la valeur d’un soutien adapté. Elle demande de reprendre les besoins réels, de préserver les recours cliniques et de réviser les engagements sans mesurer la volonté à l’absence d’épisodes.",
+      "mirror": [
+        "Marion peut répondre simplement : « Je prends la séance comme prévu, nous reparlerons du retour après ton point de suivi. » Elle n’a pas à demander ce que Khadija aurait mal fait. Leïla peut aider selon le plan tout en nommant ses limites. Si elle ne peut pas être présente, cela ne dispense pas d’utiliser les recours médicaux adaptés à la situation."
+      ],
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "nice-cg138"
+      ],
+      "continuity": {
+        "choice": "Marion assure la séance sans diffuser la raison médicale. Le prochain retour reste conditionné au point de suivi et aux besoins de Khadija ; Leïla dit qu’elle ne pourra pas être disponible à toute heure.",
+        "next": "Après le point clinique, la discussion porte sur un soutien possible qui ne repose pas entièrement sur Leïla."
+      }
+    },
+    {
+      "number": 11,
+      "slug": "khadija-soutien-et-limites",
+      "title": "Un soutien peut être réel sans être permanent",
+      "description": "Après le point clinique, Khadija et Leïla distinguent leur amitié, les responsabilités de l’atelier et le recours aux soignants.",
+      "context": "Après le point de suivi",
+      "topics": [
+        "État de possession",
+        "soutien des proches",
+        "limites"
+      ],
+      "clinical_focus": "Un soutien avec des limites",
+      "diagnostic_stage": "known",
+      "clinical_intro": "Le soutien d’un proche peut compter sans couvrir toutes les heures ni remplacer une équipe clinique. Lorsqu’un trouble affecte la vie quotidienne, rendre les disponibilités et les responsabilités explicites peut prévenir des attentes impossibles. Une limite n’est pas nécessairement un retrait affectif ; elle doit s’articuler avec des relais réellement identifiés et adaptés aux besoins.",
+      "opening": "Le point avec l’équipe a eu lieu avant toute nouvelle préparation. Khadija en a repris les indications et les contacts utiles ; elle ne revient pas à l’atelier sur la seule envie de rassurer Marion. Aujourd’hui, elle retrouve Leïla pour parler d’une autre partie de la semaine. Son amie a maintenu ce qu’elle avait dit après le nouvel épisode : elle veut être présente dans sa vie, mais elle ne peut pas être la personne que l’on suppose disponible à toute heure.\n\nKhadija entend d’abord surtout la deuxième moitié de la phrase. « Tu préférerais que je ne t’appelle plus ? » Leïla répond que ce n’est pas ce qu’elle a dit. Elle peut l’accompagner à un rendez-vous prévu si elles en conviennent. Elle peut venir partager un repas, écouter une question ou parler de tout autre chose. Elle ne peut pas assurer une permanence, ni décider seule de la réponse clinique à chaque événement.\n\nSur une feuille, Khadija écrit trois noms, puis s’arrête. Elle n’a pas besoin d’attribuer toutes les heures de sa vie à quelqu’un. Elle a besoin de distinguer les rôles : Leïla pour une présence choisie, Marion pour la coanimation, l’équipe et les contacts convenus pour le soin. L’organisation revue lors du suivi reste le repère clinique. Les personnes qui l’aiment peuvent y contribuer dans leurs limites, sans devenir le dispositif entier. Khadija pense alors à la table de présentation qu’elle souhaite toujours animer et au rôle précis qu’elle pourrait y tenir.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Une disponibilité limitée n’efface pas la relation",
+          "text": "Le retentissement social d’un trouble peut modifier les attentes entre une personne et ses proches. Sans limites explicites, une amie peut se sentir tenue de tout assurer et la personne soutenue peut lire chaque absence comme un rejet. Reconnaître une disponibilité réelle ne supprime pas le besoin d’aide : cela oblige à distinguer les appuis consentis des recours cliniques. Khadija et Leïla ne cherchent pas une surveillance permanente ; elles précisent ce que chacune peut proposer et ce qui relève d’autres responsabilités."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment la confusion des rôles pèse-t-elle sur l’amitié ?",
+          "points": [
+            {
+              "heading": "Une limite est entendue comme une rupture",
+              "text": "Le sens affectif attribué à la phrase peut dépasser ce qui a été dit.",
+              "examples": [
+                "Khadija demande si elle ne doit plus appeler du tout.",
+                "Leïla précise qu’elle parle d’une permanence impossible, pas de la fin de leur relation."
+              ]
+            },
+            {
+              "heading": "Une amie devient le recours supposé pour tout",
+              "text": "Le soutien peut dépasser silencieusement les capacités et le rôle d’une proche.",
+              "examples": [
+                "Leïla accepte de discuter d’un accompagnement prévu.",
+                "Elle refuse de devoir décider seule de chaque réponse clinique."
+              ]
+            },
+            {
+              "heading": "Les autres appuis restent insuffisamment distingués",
+              "text": "Une liste de personnes ne suffit pas si leur responsabilité demeure floue.",
+              "examples": [
+                "Marion confirme son rôle dans la coanimation.",
+                "Les contacts cliniques restent ceux revus avec l’équipe après le nouvel épisode."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour définir un soutien possible",
+          "points": [
+            {
+              "heading": "Formuler une disponibilité concrète",
+              "objective": "Remplacer une promesse totale par une proposition réaliste.",
+              "exercise": [
+                "Dire ce que l’on peut offrir dans une situation précise.",
+                "Nommer ce que l’on ne peut pas assurer sans accuser l’autre de trop demander.",
+                "Vérifier comment cette limite a été comprise."
+              ],
+              "benefit": "La relation peut conserver une présence réelle sans promesse impossible à tenir."
+            },
+            {
+              "heading": "Distinguer les responsabilités",
+              "objective": "Éviter qu’un seul proche porte toutes les fonctions.",
+              "exercise": [
+                "Lister les besoins pratiques et cliniques qui doivent être couverts.",
+                "Vérifier l’accord des personnes pour les rôles qu’elles peuvent réellement tenir.",
+                "Reprendre avec les professionnels les besoins restant sans relais adapté."
+              ],
+              "benefit": "La répartition devient plus solide lorsqu’elle ne repose pas sur des disponibilités imaginées."
+            },
+            {
+              "heading": "Garder les recours accessibles",
+              "objective": "Ne pas remplacer le plan clinique par un numéro d’amie.",
+              "exercise": [
+                "Retrouver les modalités de contact revues avec l’équipe.",
+                "Vérifier leur accessibilité et demander des précisions si nécessaire.",
+                "Les utiliser selon les indications et la situation, y compris lorsqu’un proche est absent."
+              ],
+              "benefit": "Le soutien amical reste complémentaire au soin et n’en devient pas le passage obligatoire."
+            }
+          ]
+        }
+      ],
+      "ending_title": "La table de présentation confirmée",
+      "ending": "Leïla garde un rôle choisi et accepte de discuter d’un accompagnement à un prochain rendez-vous. Marion confirme la coanimation et les responsabilités pratiques déjà prévues. Le recours clinique reste celui du suivi, avec ses modalités propres. Khadija confirme une table de présentation de recettes préparées par les autres, compatible avec les indications reçues. Elle animera une partie de l’échange et pourra passer la parole. Leïla lui demande quelle variante elle préfère : leur conversation peut enfin quitter la répartition des aides.",
+      "conclusion": "Un soutien tenable peut être précis, limité et affectueux à la fois. Khadija retrouve un projet où l’amitié, la coanimation et le soin ont des places distinctes, sans exiger qu’une personne assure tout ni faire disparaître les besoins.",
+      "mirror": [
+        "Leïla peut dire : « Je peux venir à ce rendez-vous si nous le prévoyons, mais je ne peux pas être disponible en permanence. » Elle laisse Khadija réagir sans retirer aussitôt sa limite par culpabilité. Elle ne se substitue pas aux recours convenus avec l’équipe. Une fois les responsabilités clarifiées, parler aussi des recettes ou d’autre chose permet à leur amitié de garder plusieurs sujets."
+      ],
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "nice-cg138"
+      ],
+      "continuity": {
+        "choice": "Leïla garde un rôle choisi, Marion confirme la coanimation et l’équipe reste le recours clinique. Khadija confirme une table de présentation de recettes préparées par les autres, avec un rôle qu’elle peut interrompre.",
+        "next": "La dernière séance vérifie cette répartition concrète, sans transformer le retour en test de guérison."
+      }
+    },
+    {
+      "number": 12,
+      "slug": "khadija-place-choisie-atelier",
+      "title": "Retrouver une place sans tout raconter",
+      "description": "À la table de présentation, Khadija retrouve un rôle choisi. Elle passe la parole à Marion sans devoir expliquer son histoire au groupe.",
+      "context": "À la présentation des recettes",
+      "topics": [
+        "État de possession",
+        "participation",
+        "choix personnels"
+      ],
+      "clinical_focus": "Retrouver une place sans tout raconter",
+      "diagnostic_stage": "known",
+      "clinical_intro": "Une participation peut reprendre avec des appuis durables sans que le trouble ait disparu. Le choix d’un rôle, la répartition des responsabilités et le respect de la confidentialité permettent d’évaluer un projet concret séparément du suivi clinique. Une séance satisfaisante ne prouve ni guérison ni maîtrise définitive des épisodes ; elle peut néanmoins compter dans la vie de la personne.",
+      "opening": "Le classeur vert s’ouvre facilement à la bonne page. Il ne contient plus les trois versions de chaque fiche, mais les variantes compilées par Marion et une seule feuille de rôles. Autour de la table, les participantes de plusieurs générations ont apporté les préparations prévues, déjà réalisées. Khadija ne s’occupe ni des sources chaudes ni des outils coupants. Marion assure les autres responsabilités pratiques selon leur organisation. La table de présentation peut commencer.\n\nKhadija demande qui a préféré une autre texture, puis laisse une participante expliquer son choix. Une seconde propose un changement pour la prochaine fois. Elle le note dans la marge plutôt que de décider laquelle a raison. C’est cette partie de l’atelier qu’elle voulait retrouver : faire exister plusieurs façons de faire sans transformer la recette en règle familiale. Personne n’a reçu sa note de santé. Marion connaît l’explication clinique qu’elle a choisi de lui envoyer ; le groupe dispose seulement de l’organisation nécessaire.\n\nAu moment convenu, Khadija passe la parole à Marion et s’accorde une pause. Elle le fait volontairement, en suivant leur répartition ; ce passage n’est pas un épisode de transe. Elle reste libre de reprendre ou non la discussion. Une participante lui demande si une page peut être ajoutée pour sa proposition. Khadija ouvre le classeur à la fin. Il reste de la place. Elle n’a pas eu à raconter ce qui lui arrive pour que cette question lui soit adressée comme à une animatrice.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "La participation et la guérison ne se mesurent pas ensemble",
+          "text": "Retrouver une activité choisie peut être un résultat important sans signifier que le trouble est terminé. Les appuis pratiques répondent à des besoins de participation et de continuité ; ils ne démontrent pas une action sur la fréquence des épisodes. Khadija peut ainsi apprécier une table de présentation réussie, garder sa confidentialité et poursuivre son suivi. La pause choisie appartient à l’organisation ordinaire du travail, pas à une manifestation à interpréter cliniquement."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment une place active peut-elle coexister avec des appuis ?",
+          "points": [
+            {
+              "heading": "Un rôle garde son sens personnel",
+              "text": "L’adaptation ne réduit pas nécessairement la personne à recevoir de l’aide.",
+              "examples": [
+                "Khadija mène la discussion sur les variantes.",
+                "Elle conserve le choix de noter une proposition plutôt que de trancher entre deux recettes."
+              ]
+            },
+            {
+              "heading": "La passation devient une action ordinaire",
+              "text": "Partager les responsabilités peut être prévu sans être lu comme un signe de trouble.",
+              "examples": [
+                "Khadija passe volontairement la parole au moment convenu.",
+                "Marion poursuit la présentation sans transformer la pause en événement médical."
+              ]
+            },
+            {
+              "heading": "La confidentialité accompagne la participation",
+              "text": "La place dans un groupe ne doit pas dépendre d’un récit intime complet.",
+              "examples": [
+                "Les participantes ont reçu la feuille de rôles.",
+                "La note de santé de Khadija demeure séparée du classeur vert."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour faire durer une participation choisie",
+          "points": [
+            {
+              "heading": "Garder un rôle que l’on souhaite tenir",
+              "objective": "Préserver le sens personnel du projet dans les adaptations.",
+              "exercise": [
+                "Identifier la contribution qui compte pour soi.",
+                "La situer dans les responsabilités et indications déjà convenues.",
+                "Conserver une possibilité réelle de la passer ou de la réviser."
+              ],
+              "benefit": "La place active repose sur un choix et des appuis, pas sur l’obligation de tout assurer."
+            },
+            {
+              "heading": "Faire un bilan pratique distinct du suivi",
+              "objective": "Évaluer l’activité sans en tirer une conclusion médicale.",
+              "exercise": [
+                "Relever ce qui a facilité concrètement la séance.",
+                "Discuter d’un ajustement de tâches ou de matériel si nécessaire.",
+                "Garder les questions cliniques pour les échanges de soin appropriés."
+              ],
+              "benefit": "La réussite professionnelle peut être reconnue sans servir de preuve de guérison."
+            },
+            {
+              "heading": "Réviser les appuis avec leurs limites",
+              "objective": "Permettre à l’organisation d’évoluer sans élargir automatiquement le partage intime.",
+              "exercise": [
+                "Vérifier que les responsabilités restent acceptées et possibles.",
+                "Rediscuter des besoins avec les personnes et professionnels concernés.",
+                "Préciser à nouveau quelles informations peuvent être partagées si la situation change."
+              ],
+              "benefit": "Une révision peut soutenir la continuité tout en respectant les limites et les destinataires choisis."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Une page pour une prochaine variante",
+      "ending": "Marion termine la partie convenue, puis Khadija revient noter le titre proposé pour la nouvelle page. Elles feront plus tard un bref point sur l’organisation de la table ; le suivi clinique se poursuit séparément. La note de santé reste dans sa pochette. Khadija a choisi à qui expliquer son expérience et tenu une place active sans tout raconter. Elle laisse une page libre dans le classeur. La prochaine recette n’est pas la promesse que rien ne surviendra : c’est simplement un projet qu’elle a envie de garder.",
+      "conclusion": "La participation de Khadija prend une forme choisie et partagée. La confidentialité, les relais et le soin peuvent continuer ensemble ; une séance réussie a sa valeur propre sans effacer l’incertitude ni devenir un certificat de guérison.",
+      "mirror": [
+        "Marion peut recevoir la passation comme prévu et laisser à Khadija le choix de revenir dans l’échange. Elle n’a pas à surveiller la pause comme un symptôme ni à célébrer la séance comme une guérison. Les participantes peuvent continuer à lui adresser leurs idées de recettes. Leïla peut s’intéresser à cette expérience tout en gardant le rôle amical et les limites qu’elles ont définis."
+      ],
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "nice-cg138"
+      ],
+      "continuity": {
+        "choice": "Khadija a repris une place active et choisi les destinataires de ses explications. Elle conserve sa note de santé à part, laisse une page pour une prochaine recette et poursuit son suivi ; le groupe n’a pas eu à décider du sens de son expérience.",
+        "next": "L’enjeu de la divulgation et du retour se clôt ; la vie et les soins continuent, sans annonce d’un treizième épisode."
+      }
+    }
+  ]
+}

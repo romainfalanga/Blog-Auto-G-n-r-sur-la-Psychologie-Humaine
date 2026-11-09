@@ -1,0 +1,28 @@
+{
+  "date": "2026-11-09",
+  "status": "ready_locally_not_deployed",
+  "characters": [
+    "agnes",
+    "khadija",
+    "evaelle",
+    "clovis"
+  ],
+  "new_episodes": 48,
+  "local_articles": 1323,
+  "local_characters": 111,
+  "last_verified_remote_articles": 1275,
+  "last_verified_remote_characters": 107,
+  "tests": {
+    "site": 19,
+    "journal_node": 335,
+    "journal_python": 43,
+    "pipeline": 13,
+    "contracts": 19,
+    "total": 429
+  },
+  "hugo": "0.140.0",
+  "render_evidence": "docs/verification-locale-lot-2026-11-09.json",
+  "remaining_cases_local": 76,
+  "remote_main_observed": "8338e19103bd54bddcb8910d8d324b4f019a3985",
+  "publication_blocked": "Automatic approval review rejected external push to main; explicit approval requested; no retry or bypass."
+}

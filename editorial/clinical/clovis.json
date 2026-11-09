@@ -1,0 +1,1264 @@
+{
+  "character_id": "clovis",
+  "bio": "Clovis, 39 ans, est assistant de production dans un cinéma associatif. Sa Dysphorie de l’intégrité corporelle est déjà diagnostiquée ; un ressenti persistant de discordance corporelle et la place qu’il prend dans ses pensées compliquent certains moments de travail et ses échanges. Il prépare une soirée d’écoute de bandes sonores avec deux bénévoles. Il souhaite pouvoir parler sans rendre l’échange dangereux. Avec un ami choisi et une équipe spécialisée en santé mentale et somatique, il prévoit ses appuis tout en gardant une place dans ce projet culturel.",
+  "profile_topics": [
+    "Dysphorie de l’intégrité corporelle",
+    "ressenti corporel persistant",
+    "honte et parole",
+    "accès aux soins",
+    "sécurité et participation"
+  ],
+  "episodes": [
+    {
+      "number": 1,
+      "slug": "clovis-discordance-difficile-a-nommer",
+      "title": "Discordance corporelle : trouver des mots pour en parler",
+      "description": "Clovis cherche comment décrire son ressenti à Simon sans transformer leur conversation en débat sur son corps.",
+      "context": "Au cinéma après la fermeture",
+      "topics": [
+        "Discordance corporelle",
+        "Parole choisie",
+        "Écoute"
+      ],
+      "clinical_intro": "La dysphorie de l’intégrité corporelle peut associer un ressenti persistant de discordance avec son corps et le désir d’un handicap physique. Cette expérience demande une évaluation spécialisée ; elle ne signifie pas qu’une modification corporelle serait une solution. Chez Clovis, déjà suivi, la difficulté consiste aussi à trouver une parole qui puisse être entendue.",
+      "opening": "Le dernier spectateur est parti depuis vingt minutes. Clovis a laissé le conducteur bleu ouvert à la page des transitions, avec un point d’interrogation entre deux bandes sonores. Simon, venu le retrouver, lit le nom du compositeur à l’envers. Il demande si la soirée d’écoute sera ouverte aux habitués du mardi. Clovis répond oui, puis repose son stylo. Il avait prévu de lui parler aujourd’hui et constate qu’il cherche encore une entrée qui ne fasse pas disparaître tout le reste de leur amitié.\n\n« Il y a quelque chose dans mon rapport à mon corps que je n’arrive pas bien à dire. » Simon attend. Clovis commence une comparaison, s’interrompt et préfère la retirer. Il ne veut pas faire passer son expérience pour celle de quelqu’un d’autre. Il explique qu’un désir persistant de handicap physique accompagne chez lui un inconfort avec son corps tel qu’il est. Le dire à voix haute lui semble plus difficile que d’en parler à l’équipe qui le suit déjà.\n\nIl regarde le conducteur. « Je ne te demande pas de décider ce que je devrais faire à mon corps. Je voudrais que tu saches que ça prend de la place. » Simon quitte des yeux la feuille bleue. Il demande s’il peut écouter sans poser de questions tout de suite. Clovis acquiesce, soulagé de ne pas avoir à fabriquer une explication parfaite avant de commencer.",
+      "ending_title": "Deux feuilles différentes",
+      "ending": "Simon ne demande ni preuve ni détail supplémentaire. « Je peux écouter, et te dire quand je ne comprends pas. » Clovis lui explique qu’il est déjà suivi. Il glisse sa note personnelle dans son carnet, puis laisse le conducteur bleu sur la table. Ils reviennent au choix des bandes sonores. La confidence ne résout pas son inconfort ; elle a trouvé une place dans une conversation où le cinéma existe encore.",
+      "conclusion": "Trouver une phrase imparfaite peut ouvrir un échange sans transformer un ressenti en obligation d’agir. Clovis garde un suivi spécialisé et choisit ce qu’il partage avec Simon, à son rythme.",
+      "mirror": [
+        "Simon peut répondre : « Je t’entends ; tu peux me dire ce dont tu as besoin dans cette conversation. » Il n’a pas à réclamer une démonstration ni à approuver une modification du corps. Revenir ensuite au programme du cinéma, si Clovis le souhaite, conserve leur amitié au-delà de la confidence. Les décisions cliniques restent avec l’équipe qui le suit."
+      ],
+      "clinical_focus": "Une discordance corporelle difficile à nommer",
+      "diagnostic_stage": "known",
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "nice-cg138"
+      ],
+      "continuity": {
+        "choice": "Clovis parle de son ressenti à Simon, précise sa demande d’écoute et sépare sa note de santé du conducteur.",
+        "next": "Le lendemain, la préparation révèle le temps que les préoccupations prennent dans son travail."
+      },
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Décrire une expérience ne prescrit pas une action",
+          "text": "Un ressenti corporel peut être difficile à communiquer sans que les mots disponibles le décrivent exactement. Dans cette dysphorie, le vécu de discordance ne se réduit pas à une insatisfaction esthétique. Chez Clovis, le diagnostic est établi, mais la conversation avec Simon reste nouvelle. Accueillir cette parole reconnaît sa difficulté ; cela ne confirme ni une nécessité d’altérer le corps ni une réponse thérapeutique. Les questions de soin et de sécurité gardent leur place auprès de l’équipe."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment la difficulté à nommer le vécu apparaît-elle ?",
+          "points": [
+            {
+              "heading": "Une comparaison abandonnée",
+              "text": "Chercher une analogie peut aider à parler, mais aussi donner une image trompeuse de ce qui est vécu.",
+              "examples": [
+                "Clovis commence une comparaison puis la retire.",
+                "Il préfère dire que les mots lui manquent plutôt que reprendre une expérience étrangère."
+              ]
+            },
+            {
+              "heading": "Le sentiment d’être exposé",
+              "text": "Une première confidence peut rendre la réaction de l’autre particulièrement importante.",
+              "examples": [
+                "Il regarde le conducteur au lieu de Simon.",
+                "Il précise ce qu’il ne demande pas pour que l’échange reste supportable."
+              ]
+            },
+            {
+              "heading": "Un besoin d’écoute précis",
+              "text": "La demande peut porter sur la relation avant de porter sur une solution.",
+              "examples": [
+                "Clovis souhaite que Simon sache que ce vécu prend de la place.",
+                "Il accepte un temps d’écoute sans questions immédiates."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour préparer une parole choisie",
+          "points": [
+            {
+              "heading": "Demander un temps disponible",
+              "objective": "Choisir un cadre où l’échange peut réellement avoir lieu.",
+              "exercise": [
+                "Demander si l’ami a un moment.",
+                "Préciser qu’il s’agit d’un sujet personnel.",
+                "Convenir de pouvoir interrompre ou reprendre plus tard."
+              ],
+              "benefit": "Un accord simple peut éviter de parler dans la précipitation ; il ne garantit pas la réaction de l’autre."
+            },
+            {
+              "heading": "Garder une phrase descriptive",
+              "objective": "Partager le vécu sans devoir tout expliquer.",
+              "exercise": [
+                "Choisir les mots qui semblent les moins trompeurs.",
+                "Dire quand une comparaison ne convient pas.",
+                "Nommer ce que l’on attend de la conversation."
+              ],
+              "benefit": "Cette précision peut aider l’interlocuteur à écouter sans chercher aussitôt une solution."
+            },
+            {
+              "heading": "Distinguer amitié et suivi",
+              "objective": "Conserver les questions cliniques auprès des professionnels.",
+              "exercise": [
+                "Indiquer, si on le souhaite, qu’un suivi existe.",
+                "Noter une question à reprendre avec l’équipe.",
+                "Garder les documents de santé dans un support privé."
+              ],
+              "benefit": "L’ami peut comprendre son rôle sans devenir responsable des décisions de soin."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "slug": "clovis-preoccupation-au-travail",
+      "title": "Préoccupation corporelle : quand le travail perd son fil",
+      "description": "Deux versions du programme révèlent à Clovis la place prise par ses préoccupations. Il demande une organisation plus claire.",
+      "context": "La sélection des bandes sonores",
+      "topics": [
+        "Préoccupation",
+        "Attention au travail",
+        "Responsabilités partagées"
+      ],
+      "clinical_intro": "La préoccupation liée à la dysphorie de l’intégrité corporelle peut empiéter sur les activités et les relations. Le retentissement professionnel ne signifie pas nécessairement un manque d’intérêt ou un trouble attentionnel distinct. Clovis aime son projet de cinéma, mais certaines décisions lui échappent quand son ressenti corporel occupe une grande partie de son attention.",
+      "opening": "Nora a apporté une liste de trois propositions et Malik un enregistrement qu’il veut faire entendre avant de choisir. Clovis reconnaît le début de la première bande sonore. Il se rappelle avoir cherché le nom du preneur de son pour une autre séance, plusieurs années auparavant. Puis sa préoccupation corporelle revient au premier plan. Il entend les voix dans le bureau sans parvenir à suivre la comparaison entre les deux transitions. Quand Nora lui demande s’ils gardent l’ordre annoncé, il répond oui un peu trop vite.\n\nDix minutes plus tard, deux versions du programme sont devant eux. Sur celle de Nora, l’extrait court vient en premier. Sur celle de Clovis, il termine la sélection. Malik remonte dans ses notes, persuadé d’avoir mal compris. Clovis voudrait laisser cette explication tenir. Il sait pourtant qu’il n’a pas vraiment entendu la décision. Le reconnaître lui coûte davantage que de corriger une durée ou un nom.\n\n« J’ai perdu le fil. On peut reprendre seulement ce choix-là ? » Il ne raconte pas sa conversation de la veille avec Simon. Les bénévoles n’ont pas besoin de connaître son diagnostic pour comprendre la demande. Nora rapproche les deux feuilles, Malik arrête l’enregistrement, et le bureau devient enfin assez silencieux pour qu’une seule décision soit formulée. Clovis s’aperçoit qu’il avait aussi promis de confirmer la salle avant le soir.",
+      "ending_title": "La bonne version du bleu",
+      "ending": "Ils conservent l’ordre proposé par Nora et le reportent sur le conducteur bleu. Clovis lui demande aussi si elle peut confirmer la salle. Elle accepte et envoie le message devant eux. Malik garde la vérification des durées. Clovis reprend les crédits musicaux, une tâche qu’il peut mener maintenant, sans promettre de réparer tout seul la réunion. Il apprécie leur aide et se demande déjà ce que ses hésitations leur ont laissé deviner.",
+      "conclusion": "Une adaptation concrète peut préserver la fiabilité du travail quand une préoccupation prend trop de place. Ici, un document commun et une tâche effectivement confiée soutiennent le projet, sans remplacer le suivi clinique.",
+      "mirror": [
+        "Nora peut dire : « On reprend cette décision, puis on vérifie la feuille commune. » Elle répond ainsi au besoin exprimé, sans demander la cause intime de l’oubli. Accepter une tâche doit rester compatible avec sa propre disponibilité. Corriger le programme avec Clovis ne fait pas d’elle une personne chargée de surveiller son état."
+      ],
+      "clinical_focus": "La préoccupation occupe le travail",
+      "diagnostic_stage": "known",
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "nice-cg138"
+      ],
+      "continuity": {
+        "choice": "Clovis demande une reprise ciblée ; une seule version est retenue et Nora confirme la salle.",
+        "next": "Il apprécie l’aide mais craint que ses hésitations aient rendu sa difficulté visible."
+      },
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Une attention occupée par la préoccupation",
+          "text": "Une préoccupation persistante peut réduire la disponibilité pour une tâche, même lorsque cette tâche intéresse la personne. Lors de la réunion, Clovis relie sa difficulté au vécu corporel qu’il connaît ; cela ne permet pas d’attribuer toute erreur future au même trouble. Le besoin immédiat concerne une décision mal enregistrée. Clarifier le travail peut en limiter les conséquences sans traiter la dysphorie elle-même."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment la préoccupation gêne-t-elle la préparation ?",
+          "points": [
+            {
+              "heading": "Entendre sans suivre la décision",
+              "text": "Le son des voix reste perceptible alors que le contenu de l’échange échappe en partie.",
+              "examples": [
+                "Clovis entend Nora mais perd la comparaison des transitions.",
+                "Il répond oui avant de savoir quel ordre est retenu."
+              ]
+            },
+            {
+              "heading": "Découvrir un décalage concret",
+              "text": "Le retentissement apparaît parfois dans les résultats plutôt que pendant la discussion.",
+              "examples": [
+                "Deux feuilles présentent des programmes incompatibles.",
+                "Malik cherche une erreur dans ses propres notes."
+              ]
+            },
+            {
+              "heading": "Craindre de demander une reprise",
+              "text": "La gêne peut encourager à masquer un oubli au lieu de le résoudre.",
+              "examples": [
+                "Clovis est tenté de laisser Malik porter le malentendu.",
+                "Il hésite avant de demander de reprendre un seul choix."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour clarifier une tâche partagée",
+          "points": [
+            {
+              "heading": "Reprendre une décision à la fois",
+              "objective": "Réduire la confusion sur le point actuellement travaillé.",
+              "exercise": [
+                "Nommer le choix que l’on a perdu.",
+                "Demander que les possibilités soient reformulées.",
+                "Redire ensemble la décision retenue."
+              ],
+              "benefit": "La reprise peut réparer ce décalage sans exiger une explication médicale aux collègues."
+            },
+            {
+              "heading": "Garder une version commune",
+              "objective": "Éviter que plusieurs programmes continuent à circuler.",
+              "exercise": [
+                "Désigner le conducteur qui fait référence.",
+                "Reporter le choix validé au bon endroit.",
+                "Mettre les anciennes versions de côté."
+              ],
+              "benefit": "Un document partagé peut prévenir une nouvelle divergence de programme."
+            },
+            {
+              "heading": "Confier une tâche précise",
+              "objective": "Ajuster les responsabilités aux possibilités du moment.",
+              "exercise": [
+                "Repérer une tâche que quelqu’un peut reprendre.",
+                "Vérifier son accord et sa disponibilité.",
+                "Confirmer ensemble qui la réalise et quand."
+              ],
+              "benefit": "La délégation rend l’organisation réelle ; elle ne promet pas le retour de la concentration."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "slug": "clovis-honte-et-parole",
+      "title": "Honte et peur du rejet : oser garder le lien",
+      "description": "Au café, Clovis s’excuse d’avoir parlé. Il apprend à distinguer la réaction qu’il redoute de ce que Simon lui répond.",
+      "context": "Un café avec Simon",
+      "topics": [
+        "Honte",
+        "Peur du rejet",
+        "Limites de la confidence"
+      ],
+      "clinical_intro": "La peur d’être rejeté peut rendre difficile la parole sur une dysphorie de l’intégrité corporelle, y compris auprès d’une personne bienveillante. La honte ne prouve pas que le vécu serait moralement condamnable. Clovis redoute désormais les conséquences de sa confidence, alors que Simon ne lui a demandé ni justification ni détails supplémentaires.",
+      "opening": "Clovis est arrivé en avance au café. Il a choisi une table près de la fenêtre, puis se demande si elle est trop visible. Simon le retrouve avec le programme du cinéma plié dans sa poche. Il veut lui raconter une affiche aperçue en chemin, mais Clovis l’interrompt presque aussitôt : « Pour l’autre soir, je suis désolé. » Simon pose son manteau sur la chaise et demande de quoi il s’excuse.\n\nClovis parle du sujet qu’il a abordé après la fermeture. Depuis la réunion avec Nora et Malik, il imagine que chacun peut deviner ce qu’il cherche à cacher. Il sait pourtant qu’il n’a rien expliqué aux bénévoles. Avec Simon, c’est différent : il a prononcé les mots et ne peut plus les retirer. Il se figure une prochaine rencontre pleine de questions, ou un silence qui signifierait que son ami préfère ne plus le voir.\n\nIl avait même commencé un message pour annuler leur rendez-vous de la semaine suivante. Le message est resté dans son téléphone. Simon le regarde, surpris : « Je n’ai pas prévu de te faire passer un examen. » Clovis sourit à peine. Il ne sait pas encore si cette phrase suffit à le rassurer. Il commande néanmoins un café, puis précise qu’il aimerait pouvoir parler sans que chaque rencontre devienne un débat sur son corps.",
+      "ending_title": "Le message reste sans destinataire",
+      "ending": "Clovis efface son brouillon d’annulation. « La semaine prochaine, je veux bien qu’on se voie. Et si je n’en parle pas, on pourra parler du cinéma. » Simon accepte. Il lui raconte enfin l’affiche aperçue en chemin. Clovis n’est pas soudain débarrassé de sa honte, mais il ne quitte pas le café avant d’avoir entendu la réponse de son ami. Il retient aussi une phrase pour son prochain rendez-vous : être écouté sans devoir défendre son vécu.",
+      "conclusion": "La honte peut rétrécir un lien avant qu’un rejet ait eu lieu. Clovis conserve la rencontre en posant une limite précise, sans devoir révéler davantage ni supposer que chaque interlocuteur sera disponible.",
+      "mirror": [
+        "Simon peut répondre : « Tu peux garder certains détails pour toi. On peut aussi parler d’autre chose. » Cette proposition n’efface pas la honte, mais laisse une marge de choix. Il peut également dire si le moment lui convient moins. L’écoute ne suppose ni curiosité insistante ni promesse d’être toujours disponible."
+      ],
+      "clinical_focus": "La honte retarde la parole",
+      "diagnostic_stage": "known",
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "nice-cg138"
+      ],
+      "continuity": {
+        "choice": "Clovis conserve la rencontre suivante et demande une écoute sans débat sur son corps.",
+        "next": "Cette phrase l’aide à préparer une question plus précise pour l’équipe qui le suit."
+      },
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "La réaction redoutée et la réponse entendue",
+          "text": "La honte peut pousser à anticiper une condamnation avant qu’elle ait eu lieu et à réduire les occasions de parler. Dans le parcours de Clovis, cette crainte concerne un vécu intime déjà difficile à nommer. Toutes les réactions ne seront pas accueillantes, et il n’a pas à se confier à tout le monde. Ici, regarder ce que Simon a réellement dit permet de décider de la suite sans traiter une peur comme une certitude."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment la honte modifie-t-elle la rencontre ?",
+          "points": [
+            {
+              "heading": "S’excuser d’avoir parlé",
+              "text": "La confidence est vécue comme un poids imposé à l’autre, même sans reproche exprimé.",
+              "examples": [
+                "Clovis présente des excuses avant de commander.",
+                "Il ne sait pas répondre quand Simon demande ce qui l’aurait dérangé."
+              ]
+            },
+            {
+              "heading": "Préparer un retrait",
+              "text": "Éviter une rencontre peut sembler protéger du rejet tout en éloignant d’un lien souhaité.",
+              "examples": [
+                "Un message d’annulation reste dans le téléphone.",
+                "Clovis imagine des questions que Simon n’a pas posées."
+              ]
+            },
+            {
+              "heading": "Confondre les interlocuteurs",
+              "text": "L’impression d’être exposé peut dépasser les personnes effectivement informées.",
+              "examples": [
+                "Clovis pense aux bénévoles qui ne connaissent pas sa confidence.",
+                "Il relie leurs regards à un sujet qui n’a pas été évoqué avec eux."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour choisir ce que l’on partage",
+          "points": [
+            {
+              "heading": "Séparer crainte et observation",
+              "objective": "Décider à partir de la situation réelle sans nier l’émotion.",
+              "exercise": [
+                "Nommer la réaction que l’on redoute.",
+                "Se rappeler les paroles effectivement entendues.",
+                "Laisser ouverte ce que l’on ne sait pas de l’autre."
+              ],
+              "benefit": "Cette distinction peut éviter qu’une anticipation décide seule de la relation."
+            },
+            {
+              "heading": "Formuler une limite de conversation",
+              "objective": "Garder le contrôle sur le niveau de confidence.",
+              "exercise": [
+                "Choisir ce que l’on souhaite dire aujourd’hui.",
+                "Préciser les questions auxquelles on ne veut pas répondre.",
+                "Indiquer le type d’écoute qui aiderait."
+              ],
+              "benefit": "Une limite explicite peut rendre la rencontre moins exposante ; elle n’impose pas la confiance."
+            },
+            {
+              "heading": "Préserver un autre sujet commun",
+              "objective": "Conserver une amitié qui ne se réduit pas au trouble.",
+              "exercise": [
+                "Demander si l’autre souhaite poursuivre l’échange.",
+                "Proposer de passer à un sujet partagé.",
+                "Choisir librement une prochaine rencontre."
+              ],
+              "benefit": "Le lien peut rester présent même lorsqu’aucune nouvelle confidence n’est possible."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "slug": "clovis-ecoute-en-consultation",
+      "title": "Parler en consultation sans devoir défendre son vécu",
+      "description": "Clovis apporte une priorité à son rendez-vous : pouvoir décrire ce qui lui pèse tout en gardant un suivi complet.",
+      "context": "Un rendez-vous avec la docteure Roussel",
+      "topics": [
+        "Accès aux soins",
+        "Écoute clinique",
+        "Demande précise"
+      ],
+      "clinical_intro": "Un vécu difficile à nommer peut rester peu abordé même lorsque le diagnostic est déjà établi. Une consultation attentive permet d’entendre les préoccupations et de préciser les besoins de la personne, tout en évaluant sa santé et sa sécurité. Clovis prépare une demande d’écoute, sans attendre de la professionnelle qu’elle confirme une solution corporelle.",
+      "opening": "Dans la salle d’attente, Clovis relit une phrase qu’il a écrite la veille : « Je voudrais décrire la gêne sans devoir justifier chaque mot. » Il avait d’abord préparé une page entière. Elle commençait par le cinéma, passait par la conversation avec Simon et se terminait par une excuse. Il en a gardé les éléments utiles dans son carnet, mais placé cette seule phrase en haut. Le conducteur bleu est resté au bureau, avec la confirmation de salle envoyée par Nora.\n\nLa docteure Roussel l’accueille pour le rendez-vous de suivi prévu. Elle connaît son diagnostic. Clovis lui tend la note, puis précise qu’il n’est pas sûr d’avoir bien formulé sa demande. « Qu’est-ce qui vous pèse le plus en ce moment ? » demande-t-elle. Il parle du temps occupé par son ressenti, puis de la peur que l’échange se transforme en débat abstrait sur ce qui devrait lui convenir.\n\nLa docteure reprend ses mots sans les remplacer immédiatement par une explication. Elle vérifie ce qu’il attend de cette rencontre. Elle lui pose aussi les questions nécessaires sur son état actuel et sa sécurité. Clovis éprouve d’abord ces questions comme un détour ; elle lui explique leur place dans le suivi. Il découvre qu’une écoute précise peut coexister avec une évaluation qui ne s’arrête pas à sa première demande.",
+      "ending_title": "La question reste en haut de la page",
+      "ending": "Avant de partir, Clovis reformule ce qu’il a compris de la suite du suivi. La docteure confirme les modalités et ils conviennent d’aborder plus longuement l’ancienneté de son ressenti au prochain rendez-vous. Il ne ressort pas avec une explication définitive. Sa phrase a néanmoins été entendue, et les questions de sécurité n’ont pas remplacé tout le reste de la conversation. Il laisse sa note dans son carnet privé.",
+      "conclusion": "Une demande d’écoute peut être précise sans restreindre l’évaluation nécessaire. Clovis repart avec une question reconnue et une suite convenue, plutôt qu’avec la promesse qu’un seul entretien résoudrait sa difficulté.",
+      "mirror": [
+        "Si Clovis souhaite raconter ce rendez-vous, Simon peut demander : « Est-ce que tu as pu dire ce qui comptait pour toi ? » Il n’a pas besoin d’obtenir le compte rendu complet. Un proche peut aider à préparer une note ou un trajet, si cela est souhaité, sans décider de ce qui doit être dit à la place de la personne."
+      ],
+      "clinical_focus": "Être écouté sans devoir se justifier",
+      "diagnostic_stage": "known",
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "nice-cg138"
+      ],
+      "continuity": {
+        "choice": "Clovis vérifie la reformulation et convient de reprendre l’ancienneté du ressenti au rendez-vous suivant.",
+        "next": "Le récit reviendra sur cette ancienneté en consultation, sans scène d’origine ni cause révélée."
+      },
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "L’écoute et l’évaluation ont des rôles complémentaires",
+          "text": "Entendre les préoccupations d’une personne ne consiste pas à approuver toutes les réponses qu’elle imagine à sa souffrance. L’entretien clinique cherche aussi à comprendre le retentissement, l’évolution et les besoins de sécurité. Pour Clovis, une reformulation vérifiable évite que sa difficulté soit réduite à un débat général. L’équipe conserve son jugement professionnel et construit avec lui les étapes du suivi."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment une demande reste-t-elle difficile à exprimer ?",
+          "points": [
+            {
+              "heading": "Une note qui s’allonge",
+              "text": "La peur de mal parler peut conduire à entourer la demande de nombreuses justifications.",
+              "examples": [
+                "La première page de Clovis se terminait par une excuse.",
+                "Il garde finalement une priorité en tête de son carnet."
+              ]
+            },
+            {
+              "heading": "Des mots à vérifier",
+              "text": "Une reformulation utile reste une proposition à confirmer par la personne.",
+              "examples": [
+                "La docteure reprend ce qui pèse au travail.",
+                "Clovis précise qu’il souhaite surtout éviter un débat abstrait."
+              ]
+            },
+            {
+              "heading": "Une évaluation parfois mal comprise",
+              "text": "Les questions professionnelles peuvent sembler éloignées de la demande si leur but n’est pas expliqué.",
+              "examples": [
+                "Clovis s’interroge sur la place des questions de sécurité.",
+                "La docteure relie ces questions à son suivi actuel."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour préparer un échange de suivi",
+          "points": [
+            {
+              "heading": "Écrire une priorité",
+              "objective": "Rendre visible le sujet qui risque de rester en retrait.",
+              "exercise": [
+                "Choisir une difficulté actuelle.",
+                "L’exprimer en une phrase personnelle.",
+                "Apporter la note sans obligation de lire tout le carnet."
+              ],
+              "benefit": "Le support peut aider à commencer sans transformer la consultation en exposé à réussir."
+            },
+            {
+              "heading": "Demander une reformulation",
+              "objective": "Vérifier que les mots entendus correspondent au vécu.",
+              "exercise": [
+                "Demander ce que le professionnel a compris.",
+                "Corriger un terme qui ne convient pas.",
+                "Garder ce qui aide à préciser la situation."
+              ],
+              "benefit": "Cette vérification peut limiter un malentendu sans imposer un accord sur toutes les interprétations."
+            },
+            {
+              "heading": "Préciser la suite",
+              "objective": "Savoir comment poursuivre les questions restées ouvertes.",
+              "exercise": [
+                "Demander les prochaines étapes convenues.",
+                "Vérifier comment joindre l’équipe selon ses modalités.",
+                "Noter le sujet à reprendre au rendez-vous suivant."
+              ],
+              "benefit": "Une suite claire peut faciliter l’accès au suivi ; aucun délai universel ni résultat n’est garanti."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "slug": "clovis-vecu-ancien-diagnostic",
+      "title": "Vécu ancien et diagnostic plus récent : distinguer les dates",
+      "description": "Clovis raconte l’ancienneté de son ressenti sans devoir retrouver un événement qui expliquerait tout.",
+      "context": "Le rendez-vous de suivi suivant",
+      "topics": [
+        "Ancienneté du vécu",
+        "Histoire personnelle",
+        "Incertitude"
+      ],
+      "clinical_intro": "L’histoire d’une dysphorie de l’intégrité corporelle peut commencer bien avant l’accès aux soins et la mise en mots du diagnostic. Retracer cette ancienneté appartient à une évaluation d’ensemble, sans exiger une date exacte ni un événement causal. Clovis distingue aujourd’hui ce qu’il se rappelle de ce qu’il a appris à nommer plus tard.",
+      "opening": "Au rendez-vous suivant, Clovis ouvre son carnet à une page presque vide. Il avait pensé y tracer une ligne allant de son enfance au cinéma associatif. Il a finalement écrit trois repères, puis laissé entre eux des espaces qu’il n’arrive pas à remplir. La docteure Roussel lui demande comment ce travail de préparation s’est passé. « J’ai surtout vu ce que je ne savais pas dater », répond-il.\n\nIl explique que le ressenti était présent jeune, avant son premier emploi et avant les mots du diagnostic. Il ne peut pas désigner une journée où tout aurait commencé. Quand il cherche une scène précise, il retrouve surtout l’habitude ancienne de ne pas en parler. Il s’interrompt : il craint que des souvenirs incomplets rendent son récit moins crédible. La docteure distingue ce qu’il se rappelle, ce qu’il suppose et les questions qui restent ouvertes.\n\nClovis voudrait parfois un événement assez net pour expliquer le reste. Aucun ne s’impose. Elle ne lui demande pas d’en fabriquer un ni de chercher plus loin à tout prix. Le diagnostic déjà établi repose sur une évaluation plus large que cette page. Ils séparent la période du ressenti, les premières paroles et l’accès au suivi. Clovis constate qu’il avait mêlé ces trois moments dans la même phrase, comme si avoir été compris plus tard signifiait que la difficulté avait commencé tard.",
+      "ending_title": "Les espaces restent blancs",
+      "ending": "Clovis garde ses trois repères et les espaces entre eux. « Je peux dire que c’était déjà là, même si je ne sais pas pourquoi », résume-t-il. La docteure confirme qu’ils peuvent travailler avec ces limites. Il passe ensuite à deux mots entendus ailleurs, « défaut » et « obsession », qui lui semblent déformer ce qu’il essaie de raconter. La consultation continue sur ces mots plutôt que sur un souvenir qu’il faudrait retrouver.",
+      "conclusion": "Une chronologie peut reconnaître un vécu ancien sans fournir de cause définitive. Clovis sépare les étapes de son histoire et conserve ses incertitudes, dans un suivi qui ne dépend pas d’un souvenir parfait.",
+      "mirror": [
+        "Si Clovis évoque ces années, Simon peut dire : « Tu n’as pas besoin de me donner une date précise. » Il évite de suggérer une scène explicative ou d’interroger d’autres personnes à son insu. Écouter les repères disponibles suffit à soutenir la conversation ; la recherche clinique reste à l’équipe, et les zones inconnues peuvent le rester."
+      ],
+      "clinical_focus": "Un vécu ancien reconnu tardivement",
+      "diagnostic_stage": "known",
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "nice-cg138"
+      ],
+      "continuity": {
+        "choice": "Clovis conserve des repères approximatifs sans événement fondateur imposé et poursuit sur les mots employés.",
+        "next": "Les mots défaut et obsession, entendus ailleurs, nécessitent une distinction clinique."
+      },
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Une chronologie n’est pas une cause",
+          "text": "Décrire quand une expérience était déjà présente n’explique pas automatiquement pourquoi elle s’est développée. L’ancienneté fait partie des informations cliniques utiles, mais elle ne devient ni un test à faire soi-même ni la recherche obligatoire d’un souvenir fondateur. Clovis peut apporter des repères approximatifs sans combler les périodes inconnues. La date du diagnostic correspond à une reconnaissance clinique, pas nécessairement au début du vécu."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment les différentes dates se confondent-elles ?",
+          "points": [
+            {
+              "heading": "Un début difficile à dater",
+              "text": "Une expérience ancienne n’est pas toujours associée à un premier souvenir identifiable.",
+              "examples": [
+                "Clovis sait qu’elle précédait son premier emploi.",
+                "Il ne retrouve pas une journée qui marquerait son apparition."
+              ]
+            },
+            {
+              "heading": "Une parole arrivée plus tard",
+              "text": "Le temps avant la confidence ne renseigne pas à lui seul sur l’intensité antérieure.",
+              "examples": [
+                "Clovis se rappelle surtout ne pas en parler.",
+                "Il avait confondu premières paroles et premiers ressentis."
+              ]
+            },
+            {
+              "heading": "Une cause recherchée à tout prix",
+              "text": "Le souhait de comprendre peut donner envie de remplir des blancs sans éléments suffisants.",
+              "examples": [
+                "Il voudrait un événement qui organiserait toute son histoire.",
+                "La page conserve des espaces que le suivi n’oblige pas à combler."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour raconter sans forcer les souvenirs",
+          "points": [
+            {
+              "heading": "Utiliser des repères souples",
+              "objective": "Transmettre ce qui est connu sans inventer une précision.",
+              "exercise": [
+                "Choisir une période dont on est suffisamment sûr.",
+                "Dire si la date reste approximative.",
+                "Laisser le professionnel situer cette information dans l’ensemble."
+              ],
+              "benefit": "Un repère honnête peut être plus utile qu’une date reconstruite pour répondre à une attente."
+            },
+            {
+              "heading": "Garder les inconnues visibles",
+              "objective": "Éviter de transformer une hypothèse en souvenir.",
+              "exercise": [
+                "Distinguer ce que l’on se rappelle de ce que l’on suppose.",
+                "Noter simplement une période inconnue.",
+                "Arrêter la recherche si elle devient pesante et en parler au soignant."
+              ],
+              "benefit": "Cette prudence préserve l’incertitude sans dévaloriser le récit de la personne."
+            },
+            {
+              "heading": "Séparer trois moments",
+              "objective": "Clarifier vécu, parole et diagnostic.",
+              "exercise": [
+                "Nommer la période du ressenti ancien.",
+                "Situer les premières conversations si on s’en souvient.",
+                "Indiquer séparément l’accès aux soins et au diagnostic."
+              ],
+              "benefit": "La distinction rend le parcours compréhensible sans prétendre en expliquer la cause."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "slug": "clovis-au-dela-du-defaut-esthetique",
+      "title": "Discordance corporelle : quand parler de beauté ne convient pas",
+      "description": "Un conseil sur l’apparence ne décrit pas le vécu de Clovis. En consultation, il cherche une phrase plus juste.",
+      "context": "La suite de la consultation",
+      "topics": [
+        "Expérience corporelle",
+        "Différenciation clinique",
+        "Mots du vécu"
+      ],
+      "clinical_intro": "La dysphorie de l’intégrité corporelle ne se confond pas avec une préoccupation centrée sur un défaut esthétique perçu. Distinguer ces expériences demande une évaluation professionnelle, et non une comparaison de critères à domicile. Clovis cherche des mots descriptifs pour son suivi, après avoir reçu un conseil qui ne correspondait pas à sa difficulté.",
+      "opening": "La docteure Roussel referme doucement le carnet sur les repères d’ancienneté, sans le reprendre à Clovis. Il reste quelques minutes de consultation. Clovis explique qu’une personne lui a conseillé d’apprendre à se trouver beau. Il n’a pas su quoi répondre. Il a remercié par politesse, puis regretté d’avoir donné l’impression que la conversation avait touché juste. Aujourd’hui, il voudrait préciser ce décalage.\n\n« Je ne parle pas surtout de laideur », dit-il. Il ne cherche pas à faire juger son apparence par la docteure. Son inconfort concerne la manière dont il éprouve la configuration ou le fonctionnement de son corps. Les mots restent lourds, mais ils lui semblent moins faux. La professionnelle rappelle que les difficultés centrées sur un défaut esthétique perçu et son diagnostic ne désignent pas la même expérience. Elle ne lui remet pas une liste pour qu’il tranche seul entre plusieurs troubles.\n\nClovis évoque aussi le mot « obsession », qu’il a entendu employé très largement. Il veut savoir s’il doit l’utiliser dès qu’une pensée prend beaucoup de place. La docteure lui explique que les termes cliniques ont un contexte et que leur distinction appartient à l’évaluation. Il comprend qu’il peut décrire la place occupée par son ressenti sans devoir devenir expert de tous les diagnostics possibles.",
+      "ending_title": "Une phrase assez juste",
+      "ending": "Clovis écrit qu’il éprouve une discordance corporelle persistante, dont la place dans sa vie doit être discutée avec l’équipe. La phrase lui paraît encore technique, mais elle lui évite de reprendre la conversation sur la beauté. Il demande s’ils pourront aussi parler, lors d’un prochain suivi, d’une étude récente dont il a conservé le titre. La docteure propose de l’examiner avec lui. Il n’emporte aucune consigne d’action sur son corps.",
+      "conclusion": "Clarifier un terme permet parfois de retrouver la question réellement posée. Clovis garde une description utile à son suivi, sans transformer les distinctions cliniques en exercice de classement personnel ou en débat public.",
+      "mirror": [
+        "Simon peut demander : « Quel mot te paraît le moins faux ? » Il peut aussi accepter que Clovis n’en ait pas. Répondre par des compliments sur l’apparence risquerait ici de manquer la demande. Le proche n’a pas à comparer des diagnostics ; il peut reconnaître le décalage et laisser les questions cliniques aux professionnels."
+      ],
+      "clinical_focus": "Le trouble dépasse un défaut esthétique",
+      "diagnostic_stage": "known",
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "nice-cg138"
+      ],
+      "continuity": {
+        "choice": "Clovis conserve une phrase descriptive et prépare une question sur une étude pour son prochain suivi.",
+        "next": "Une actualité scientifique qu’il a lue pose ensuite la question de ce que la recherche permet réellement de conclure."
+      },
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Préciser ce qui ne correspond pas",
+          "text": "Un mot courant peut rapprocher des vécus différents et orienter vers une réponse inadaptée. Le conseil sur la beauté manque ici la difficulté décrite par Clovis. Les distinctions avec d’autres troubles relèvent du travail clinique ; elles ne se déduisent pas d’une phrase isolée. Décrire son expérience permet de corriger un malentendu sans attribuer soi-même une nouvelle étiquette ni prouver quoi que ce soit sur son corps."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment un mot inexact gêne-t-il l’échange ?",
+          "points": [
+            {
+              "heading": "Une réponse à une autre question",
+              "text": "Un conseil peut être bien intentionné tout en visant une difficulté que la personne n’a pas décrite.",
+              "examples": [
+                "On propose à Clovis de se trouver beau.",
+                "Il voulait parler d’un ressenti de discordance, pas obtenir un jugement sur son apparence."
+              ]
+            },
+            {
+              "heading": "Un accord de politesse trompeur",
+              "text": "Remercier peut donner l’impression que l’explication convient alors que le malaise demeure.",
+              "examples": [
+                "Clovis a remercié sans se reconnaître dans la réponse.",
+                "Il revient en consultation sur ce qu’il n’avait pas su préciser."
+              ]
+            },
+            {
+              "heading": "Un terme courant devenu diagnostic",
+              "text": "La fréquence d’un mot dans la conversation ne lui donne pas automatiquement une signification clinique.",
+              "examples": [
+                "Clovis entend le mot obsession utilisé pour toute préoccupation.",
+                "Il demande comment décrire l’occupation de ses pensées sans choisir seul une étiquette."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour clarifier les mots du suivi",
+          "points": [
+            {
+              "heading": "Nommer le décalage",
+              "objective": "Corriger une formule sans devoir débattre de tout.",
+              "exercise": [
+                "Reprendre le mot qui ne convient pas.",
+                "Dire brièvement ce qu’il manque dans cette description.",
+                "Choisir de poursuivre ou de laisser la discussion."
+              ],
+              "benefit": "La précision peut réorienter l’échange, sans devoir convaincre chaque interlocuteur."
+            },
+            {
+              "heading": "Demander une explication simple",
+              "objective": "Comprendre la distinction faite par le professionnel.",
+              "exercise": [
+                "Poser une question sur le terme entendu.",
+                "Demander une reformulation sans jargon.",
+                "Vérifier ce que cette distinction change pour le suivi."
+              ],
+              "benefit": "Le vocabulaire peut devenir plus clair sans servir d’outil d’autodiagnostic."
+            },
+            {
+              "heading": "Conserver une phrase utile",
+              "objective": "Garder une description personnelle disponible.",
+              "exercise": [
+                "Écrire une formulation qui respecte son vécu.",
+                "La relire avec le soignant si nécessaire.",
+                "La garder dans le carnet privé plutôt que dans les documents de travail."
+              ],
+              "benefit": "Une phrase disponible peut faciliter un prochain échange ; elle ne résume pas toute la personne."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "slug": "clovis-etude-et-soin",
+      "title": "Recherche sur le corps : une étude ne garantit pas un soin",
+      "description": "Clovis apporte une étude à son suivi. L’équipe l’aide à distinguer résultat expérimental et bénéfice durable.",
+      "context": "Une question de recherche en consultation",
+      "topics": [
+        "Recherche",
+        "Limites des preuves",
+        "Suivi individualisé"
+      ],
+      "clinical_intro": "Un résultat expérimental sur l’expérience corporelle ne démontre pas automatiquement l’efficacité d’un traitement durable. La population étudiée, les mesures et les limites comptent pour comprendre ce qui peut être conclu. Clovis apporte une étude sur la dysphorie de l’intégrité corporelle à son équipe, avec l’espoir d’une réponse qu’elle ne peut pas lui promettre.",
+      "opening": "Clovis a copié le titre de l’étude sur une feuille séparée. Le texte parle de réalité virtuelle et d’expérience corporelle ; il n’a conservé ni matériel à chercher ni consigne à essayer. Ce qui l’a retenu, c’est l’idée qu’une équipe de recherche ait travaillé sur une difficulté qu’il peine encore à nommer dans une conversation ordinaire. Pendant quelques jours, il a lu ce titre comme l’annonce possible d’une solution.\n\nAu rendez-vous de suivi, il pose la feuille devant la docteure Roussel. « Est-ce que ça veut dire qu’on sait maintenant quoi faire ? » Elle prend le temps de distinguer ce que l’étude mesure de la question qu’il pose pour sa vie. Un changement observé dans une situation expérimentale ne suffit pas à établir un bénéfice clinique durable ni une recommandation individuelle. Clovis demande si cela rend l’étude inutile. Elle répond que comprendre un phénomène et démontrer un soin sont deux travaux liés, mais différents.\n\nIl éprouve une déception qu’il n’avait pas anticipée. Il aurait voulu repartir avec une étape certaine, comme lorsqu’un technicien identifie enfin la panne qui interrompait une projection. Il sait que cette comparaison atteint vite sa limite. La docteure l’invite à revenir à ses besoins actuels : le retentissement au travail, la parole et la sécurité. Clovis garde la feuille ouverte, cette fois pour y écrire des questions.",
+      "ending_title": "Des questions au dos de la feuille",
+      "ending": "Clovis écrit trois questions au dos du titre, puis range la feuille dans son carnet. Il ne prépare aucun essai autonome. Au cinéma, il retrouve le conducteur bleu : Nora a confirmé la salle et Malik a ajouté les durées. Clovis reprend la liste des crédits. Le projet culturel n’est pas devenu un traitement ; il reste une chose qu’il souhaite réaliser pendant que son suivi se poursuit.",
+      "conclusion": "Une recherche peut être importante sans fournir immédiatement un soin démontré. Clovis garde son intérêt et sa déception dans la conversation clinique, plutôt que d’en déduire une conduite personnelle à essayer.",
+      "mirror": [
+        "Simon peut demander : « Qu’est-ce que l’équipe a pu t’expliquer, et qu’est-ce qui reste ouvert ? » Il peut entendre la déception sans chercher une autre promesse sur Internet. Partager un titre avec les soignants est différent d’aider à reproduire une expérience. Leur prochain échange peut aussi revenir au cinéma, si Clovis le préfère."
+      ],
+      "clinical_focus": "Une étude ne garantit pas un soin",
+      "diagnostic_stage": "known",
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "nice-cg138",
+        "ho-2026"
+      ],
+      "continuity": {
+        "choice": "Clovis garde des questions pour l’équipe, sans essai autonome, et reprend la sélection culturelle.",
+        "next": "Une période moins difficile lui donne envie de conclure trop vite que ses appuis ne seront plus nécessaires."
+      },
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Ce qui est mesuré et ce qui reste inconnu",
+          "text": "Une expérience peut renseigner sur un phénomène sans montrer qu’une intervention améliore durablement la vie des personnes. L’étude apportée par Clovis porte sur une situation expérimentale d’expérience corporelle. Son résumé ne suffit pas à conclure à un soin établi, à une cause individuelle ou à une balance bénéfices-risques favorable dans son cas. L’équipe reconnaît l’intérêt de la recherche tout en refusant de transformer une attente en promesse."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment l’espoir dépasse-t-il parfois les résultats ?",
+          "points": [
+            {
+              "heading": "Un titre lu comme une annonce",
+              "text": "Une formulation scientifique peut prendre une portée personnelle plus grande que les conclusions disponibles.",
+              "examples": [
+                "Clovis espère savoir enfin quoi faire.",
+                "Il associe d’abord le titre à une solution pour son quotidien."
+              ]
+            },
+            {
+              "heading": "Deux questions confondues",
+              "text": "Observer un effet dans une expérience et établir une prise en charge durable demandent des preuves différentes.",
+              "examples": [
+                "Clovis interroge la possibilité d’un soin.",
+                "La docteure distingue cette demande des mesures de l’étude."
+              ]
+            },
+            {
+              "heading": "Une déception à entendre",
+              "text": "Rappeler les limites ne supprime pas l’attente qui s’était formée.",
+              "examples": [
+                "Clovis pensait repartir avec une étape certaine.",
+                "Il demande si l’absence de réponse thérapeutique rend la recherche inutile."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour discuter une information scientifique",
+          "points": [
+            {
+              "heading": "Demander ce qui a été mesuré",
+              "objective": "Comprendre la portée réelle du résultat.",
+              "exercise": [
+                "Apporter la référence sans projet d’essai personnel.",
+                "Demander quelle question les chercheurs ont étudiée.",
+                "Distinguer les mesures expérimentales des effets dans la vie quotidienne."
+              ],
+              "benefit": "Cette lecture accompagnée peut réduire un malentendu sans exiger de devenir chercheur."
+            },
+            {
+              "heading": "Rendre les limites explicites",
+              "objective": "Garder visibles les questions auxquelles le travail ne répond pas.",
+              "exercise": [
+                "Demander sur qui l’étude porte.",
+                "Questionner la durée et les limites des observations.",
+                "Vérifier ce qui ne peut pas être conclu pour son propre cas."
+              ],
+              "benefit": "Les incertitudes deviennent discutables au lieu d’être cachées par un titre prometteur."
+            },
+            {
+              "heading": "Revenir aux besoins actuels",
+              "objective": "Continuer le suivi malgré une réponse scientifique incomplète.",
+              "exercise": [
+                "Dire ce que l’on espérait trouver.",
+                "Nommer une difficulté présente à traiter avec l’équipe.",
+                "Convenir des possibilités de suivi réellement disponibles."
+              ],
+              "benefit": "Une démarche individualisée peut continuer sans faire de la recherche un protocole à reproduire."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "slug": "clovis-intensite-variable",
+      "title": "Difficulté fluctuante : une mauvaise journée n’efface pas le parcours",
+      "description": "Après quelques jours plus faciles, Clovis retrouve une préoccupation intense. Il transmet le changement et allège une tâche.",
+      "context": "Une matinée avant la réunion",
+      "topics": [
+        "Fluctuations",
+        "Retentissement quotidien",
+        "Continuité du suivi"
+      ],
+      "clinical_intro": "L’intensité du vécu et de la préoccupation peut varier dans la dysphorie de l’intégrité corporelle. Une période moins difficile ne prouve pas une guérison, et une aggravation ne démontre pas un manque d’effort. Clovis apprend à décrire un changement à son équipe tout en ajustant une responsabilité concrète dans son projet.",
+      "opening": "Pendant plusieurs jours, Clovis a travaillé sur les crédits sans devoir reprendre chaque ligne. Il a retrouvé le plaisir de reconnaître une ambiance sonore avant de lire le nom du film. La préoccupation n’avait pas disparu, mais elle lui laissait davantage de place. Il a même pensé qu’il pourrait bientôt cesser de garder ses contacts de suivi aussi facilement accessibles. Il n’en a rien changé ; la pensée lui avait seulement traversé l’esprit.\n\nCe matin, le contraste est brutal. Devant le même conducteur bleu, il revient sans cesse à son inconfort corporel. Il essaie de comparer la veille et aujourd’hui pour trouver une raison certaine. Rien ne s’impose. Il n’y a pas de dispute, pas de décision nouvelle qui expliquerait tout. La sélection des extraits n’a pas changé. Cette absence d’explication le conduit d’abord à se reprocher de ne pas savoir conserver les jours plus simples.\n\nLa réunion de préparation est prévue en fin d’après-midi. Clovis ouvre le message de Nora, puis son carnet privé. Il hésite entre annoncer qu’il assurera tout et décrire à son équipe ce qui a changé. Le rendez-vous récent n’interdit pas de signaler une évolution. Il reprend les modalités de contact convenues et prépare une phrase factuelle : la préoccupation prend nettement plus de place et son travail s’en ressent aujourd’hui.",
+      "ending_title": "La réunion change de responsable",
+      "ending": "Clovis transmet l’évolution selon les modalités convenues avec son équipe. Il demande à Nora si elle peut conduire la réunion avec Malik ; elle confirme et lui indique qu’ils lui enverront les décisions utiles. Il garde seulement la liste des crédits déjà vérifiés. Son carnet et les contacts restent accessibles. Il ne sait pas encore comment les prochains jours se passeront, mais n’a pas transformé cette matinée en preuve que tout son parcours était inutile.",
+      "conclusion": "Décrire une fluctuation permet de réexaminer les besoins sans juger la personne sur sa capacité à rester stable. Clovis conserve son accès au suivi et ajuste une tâche concrète, avec une incertitude encore présente.",
+      "mirror": [
+        "Nora peut répondre : « Nous pouvons assurer cette réunion ; voici ce que nous reprendrons. » Elle n’a pas besoin de demander pourquoi la journée est plus difficile. Simon peut soutenir une demande à l’équipe si Clovis le souhaite, sans chercher une cause à sa place. Une aggravation ou une inquiétude pour la sécurité réclame un relais professionnel, pas seulement un programme allégé."
+      ],
+      "clinical_focus": "L’intensité varie au fil des jours",
+      "diagnostic_stage": "known",
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "nice-cg138"
+      ],
+      "continuity": {
+        "choice": "Clovis transmet l’évolution à son équipe et confie la réunion à Nora et Malik.",
+        "next": "La difficulté augmente ensuite assez pour qu’il dise explicitement à Simon qu’il craint de se blesser."
+      },
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Décrire l’évolution sans verdict",
+          "text": "Une variation d’intensité ne permet pas, à elle seule, d’identifier une cause ou de prédire la suite. Chercher des éléments utiles avec les professionnels diffère d’une accusation envers soi-même. Pour Clovis, le changement devient une information à transmettre et une raison de réexaminer son organisation. Le maintien du suivi ne dépend pas de la capacité à justifier chaque journée difficile."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment la fluctuation change-t-elle la journée ?",
+          "points": [
+            {
+              "heading": "Le contraste avec les jours précédents",
+              "text": "L’amélioration récente rend parfois la difficulté actuelle plus décourageante.",
+              "examples": [
+                "Clovis suivait les crédits plus facilement les jours précédents.",
+                "Il retrouve aujourd’hui la préoccupation devant la même feuille."
+              ]
+            },
+            {
+              "heading": "Une cause cherchée trop vite",
+              "text": "L’absence d’explication immédiate peut être confondue avec une responsabilité personnelle.",
+              "examples": [
+                "Il compare la veille et le matin sans trouver d’événement évident.",
+                "Il se reproche de ne pas conserver les moments plus simples."
+              ]
+            },
+            {
+              "heading": "Des engagements devenus trop lourds",
+              "text": "Une tâche prévue dans un autre état peut nécessiter une révision.",
+              "examples": [
+                "Clovis hésite à maintenir la réunion comme prévu.",
+                "Il constate que son travail s’en ressent aujourd’hui."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour signaler une évolution",
+          "points": [
+            {
+              "heading": "Décrire le changement",
+              "objective": "Donner à l’équipe une information utilisable.",
+              "exercise": [
+                "Dire ce qui diffère des jours précédents.",
+                "Ajouter un exemple de retentissement actuel.",
+                "Préciser les incertitudes sans inventer une cause."
+              ],
+              "benefit": "Un récit concret peut soutenir l’évaluation sans fixer soi-même un diagnostic de l’évolution."
+            },
+            {
+              "heading": "Conserver les contacts convenus",
+              "objective": "Maintenir l’accès au suivi lorsque les besoins changent.",
+              "exercise": [
+                "Vérifier que les coordonnées restent disponibles.",
+                "Utiliser les modalités définies avec les soignants.",
+                "Demander comment procéder si la situation évolue encore."
+              ],
+              "benefit": "Des contacts accessibles facilitent une demande ; en danger immédiat, les secours doivent être sollicités sans attendre le suivi ordinaire."
+            },
+            {
+              "heading": "Alléger une tâche réelle",
+              "objective": "Adapter la journée sans promettre de tout rattraper.",
+              "exercise": [
+                "Choisir une réunion ou une tâche non indispensable à sa présence.",
+                "Vérifier qu’une autre personne peut la prendre.",
+                "Confirmer la transmission et ce qui reste à sa charge."
+              ],
+              "benefit": "Une adaptation effective réduit une contrainte pratique ; elle ne constitue pas un traitement du trouble."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "slug": "clovis-securite-prioritaire",
+      "title": "Craindre de se blesser : faire passer l’aide avant le programme",
+      "description": "Clovis dit qu’il a besoin d’aide maintenant. Simon l’accompagne vers un relais professionnel effectif ; le cinéma attend.",
+      "context": "Chez Clovis avant un point sur la soirée",
+      "topics": [
+        "Sécurité",
+        "Demande d’aide",
+        "Relais professionnel"
+      ],
+      "clinical_intro": "Lorsqu’une personne craint de se blesser, la priorité est une aide professionnelle adaptée à la situation actuelle. Un diagnostic connu ne suffit ni à prévoir le risque ni à en préciser le sens. Clovis exprime un besoin immédiat ; Simon l’aide à joindre un relais sans prendre la place des soignants.",
+      "opening": "Simon devait passer chez Clovis pour regarder le programme transmis par Nora. Le conducteur bleu est posé sur la table, mais Clovis ne l’ouvre pas. La difficulté a augmenté depuis le message à son équipe. Il a cessé de chercher une formulation élégante : « Je crains de me blesser. J’ai besoin d’aide maintenant. » Simon laisse son manteau sur une chaise. Il ne demande pas de finir d’abord la discussion sur la soirée.\n\nClovis sort le support de contacts préparé avec les soignants. Ensemble, ils joignent immédiatement le relais clinique convenu. Simon reste auprès de lui pendant l’appel, avec son accord. Le professionnel prend le temps nécessaire pour évaluer la situation et organise une évaluation en personne sans attendre le prochain rendez-vous ordinaire. Clovis répond aux questions directement ; Simon complète seulement ce qu’on lui demande et ce qu’il a réellement observé.\n\nLa préparation culturelle est suspendue pour Clovis. Il ne lui reste pas à démontrer qu’il peut tenir jusqu’à la soirée. Simon l’accompagne vers le lieu indiqué par le professionnel ; une équipe les accueille et reprend la situation avec Clovis. Le relais ne repose plus sur le seul téléphone d’un ami. Si l’aide habituelle avait été inaccessible ou si le danger avait été immédiat, les secours auraient dû être sollicités sans attendre. Le programme peut continuer autrement ; la demande d’aide, elle, a déjà reçu une réponse concrète.",
+      "ending_title": "Le conducteur reste fermé",
+      "ending": "Après l’accueil par l’équipe, les modalités de la suite sont précisées avec Clovis. Le travail reste suspendu. Avec son accord, Simon envoie seulement à Nora que Clovis ne peut pas assurer la préparation et qu’il faut poursuivre avec Malik. Nora confirme. Simon ne promet pas d’être toujours présent et ne demande pas de garantie en retour. Pour ce moment, le relais professionnel a eu lieu et la soirée n’a pas pris priorité sur les soins.",
+      "conclusion": "Une demande d’aide liée à la peur de se blesser nécessite une réponse réelle, sans attendre une certitude sur la suite. Clovis est accueilli par les professionnels ; le projet s’organise autour de cette priorité.",
+      "mirror": [
+        "Simon peut dire : « Je reste avec toi pendant que nous cherchons l’aide maintenant. » Il n’a pas à obtenir des détails sur une méthode ni à négocier une promesse de ne pas se blesser. Il aide à joindre le relais et suit ses indications. En cas de danger immédiat ou d’aide habituelle inaccessible dans une situation urgente, il sollicite les secours sans attendre. Son soutien ne remplace pas l’évaluation professionnelle."
+      ],
+      "clinical_focus": "Quand la sécurité devient prioritaire",
+      "diagnostic_stage": "known",
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "nice-cg138",
+        "nice-ng225"
+      ],
+      "continuity": {
+        "choice": "Clovis demande une aide immédiate ; appel, accompagnement et accueil professionnel effectifs précèdent toute suite culturelle.",
+        "next": "Après l’évaluation et selon les indications de l’équipe, Clovis et Simon parlent de ce que chacun peut soutenir dans la durée."
+      },
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Un relais réel, au-delà d’une parole rassurante",
+          "text": "La crainte de se blesser appelle une évaluation de la situation, pas une déduction fondée sur le seul diagnostic. Le risque de blessure et un éventuel désir de mourir doivent être explorés par des professionnels sans être confondus. Ici, une phrase rassurante de Clovis n’aurait pas suffi à remplacer le relais organisé. L’ami soutient l’accès à l’aide ; l’évaluation et les décisions cliniques reviennent à l’équipe."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment le besoin immédiat change-t-il les priorités ?",
+          "points": [
+            {
+              "heading": "Une demande qui ne peut pas attendre",
+              "text": "Le besoin exprimé concerne la sécurité actuelle, au-delà du point culturel prévu.",
+              "examples": [
+                "Clovis laisse le conducteur fermé.",
+                "Il dit explicitement avoir besoin d’aide maintenant."
+              ]
+            },
+            {
+              "heading": "Un appel qui conduit à une action",
+              "text": "Joindre un professionnel compte lorsqu’une réponse adaptée est effectivement organisée.",
+              "examples": [
+                "Le relais clinique répond et évalue la situation.",
+                "Une équipe accueille ensuite Clovis pour l’évaluation en personne."
+              ]
+            },
+            {
+              "heading": "Une responsabilité déplacée vers les soins",
+              "text": "L’ami n’est pas chargé de garantir seul ce qui se passera.",
+              "examples": [
+                "Simon accompagne mais ne conclut pas sur le risque.",
+                "L’équipe prend le relais avant toute reprise du travail."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour préparer les relais hors d’une crise",
+          "points": [
+            {
+              "heading": "Identifier les interlocuteurs avec l’équipe",
+              "objective": "Préparer un accès à l’aide dans les moments suffisamment calmes.",
+              "exercise": [
+                "Demander quels contacts utiliser selon les situations.",
+                "Vérifier la conduite prévue lorsque le contact habituel ne répond pas.",
+                "Revoir ces informations avec les professionnels lorsqu’elles changent."
+              ],
+              "benefit": "Cette préparation peut faciliter l’accès à l’aide ; elle ne remplace pas les secours en cas de danger immédiat."
+            },
+            {
+              "heading": "Rendre les contacts accessibles",
+              "objective": "Éviter de dépendre de la mémoire d’un seul proche.",
+              "exercise": [
+                "Choisir un support privé facile à retrouver.",
+                "Y garder les coordonnées effectivement convenues.",
+                "Décider avec qui les partager dans le cadre du suivi."
+              ],
+              "benefit": "Un support disponible peut aider à joindre un relais sans faire d’un ami le seul point d’entrée."
+            },
+            {
+              "heading": "Prévoir la transmission des tâches",
+              "objective": "Permettre de suspendre les obligations lorsqu’une aide est nécessaire.",
+              "exercise": [
+                "Repérer les tâches qui peuvent être reprises.",
+                "Convenir de responsables disponibles.",
+                "Préparer un message pratique sans détails médicaux inutiles."
+              ],
+              "benefit": "Une répartition préalable peut limiter la pression à poursuivre une activité pendant une situation préoccupante."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "slug": "clovis-proche-et-relais",
+      "title": "Soutenir un ami sans devenir son seul recours",
+      "description": "Après l’évaluation, Simon précise sa disponibilité. Clovis et lui gardent des relais professionnels et une place pour leur amitié.",
+      "context": "Après le point clinique, hors de la situation aiguë",
+      "topics": [
+        "Soutien relationnel",
+        "Limites du proche",
+        "Continuité des soins"
+      ],
+      "clinical_intro": "Un proche peut soutenir l’accès aux soins sans être disponible à toute heure ni porter seul la sécurité d’une personne. Après une situation préoccupante, clarifier les relais avec l’équipe évite de faire dépendre l’aide d’une seule relation. Clovis et Simon discutent de leurs possibilités réelles, une fois l’évaluation clinique réalisée.",
+      "opening": "Le point clinique a eu lieu et le suivi a été ajusté avec Clovis. Il n’est plus dans la situation aiguë de l’autre jour. Les décisions de reprise restent à discuter avec l’équipe ; pour l’instant, Nora et Malik continuent la préparation. Simon retrouve Clovis à un moment convenu, sans le conducteur bleu. Il lui demande s’ils peuvent parler de la façon dont ils se soutiennent, maintenant que l’urgence ne décide plus de chaque minute.\n\nSimon peut accompagner Clovis à certains rendez-vous, mais pas répondre à toute heure. Il le dit sans dresser la liste de ce que l’appel précédent lui aurait coûté. Clovis entend néanmoins d’abord un reproche. Il baisse les yeux et propose de ne plus le déranger. Simon précise : « Je veux rester ton ami. Je ne peux pas être le seul contact quand ça va mal. »\n\nIls reprennent le support privé et les relais définis avec l’équipe. Ce n’est pas à Simon d’en inventer de nouveaux. Lors de l’échange prévu avec les soignants, auquel Clovis l’associe pour ce point, ils précisent les disponibilités réelles et la conduite à tenir si l’ami ne répond pas. Les professionnels confirment les interlocuteurs à utiliser. Clovis constate que la limite de Simon n’annule pas son aide passée. Elle oblige à donner au suivi une organisation qui ne repose pas sur une seule bonne volonté.",
+      "ending_title": "Le café garde sa place",
+      "ending": "Clovis et Simon conservent leur prochain café. Le support privé contient les relais effectivement confirmés avec l’équipe, pas une promesse de disponibilité permanente. Clovis ne demande pas à Simon de vérifier chaque soir comment il va. Simon n’abandonne pas pour autant les sorties qu’ils avaient prévues. La reprise du cinéma attendra le point de suivi ; elle ne sera ni décidée par leur amitié ni utilisée pour prouver que tout est réglé.",
+      "conclusion": "Un soutien durable peut inclure des limites claires et des relais professionnels effectifs. Clovis et Simon gardent leur lien sans lui demander d’assurer toutes les fonctions du soin ou de la sécurité.",
+      "mirror": [
+        "Simon peut dire : « Je peux venir à ce rendez-vous, mais si je ne réponds pas, utilise les contacts prévus avec l’équipe. » Il n’a pas à faire promettre à Clovis de ne jamais aller mal. Une inquiétude immédiate appelle un relais professionnel ou les secours selon la situation, même si une conversation sur les limites a eu lieu auparavant."
+      ],
+      "clinical_focus": "Un proche soutient sans tout porter",
+      "diagnostic_stage": "known",
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "nice-cg138",
+        "nice-ng225"
+      ],
+      "continuity": {
+        "choice": "Simon précise ses limites ; les relais sont confirmés avec l’équipe et leur prochain café est maintenu.",
+        "next": "Clovis pourra reprendre un rôle limité dans la soirée si sa situation le permet, sans reprendre toutes les responsabilités."
+      },
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "La disponibilité n’est pas une mesure de l’attachement",
+          "text": "Le soutien relationnel a des limites concrètes qui ne renseignent pas à elles seules sur la qualité du lien. Une personne peut être présente à certains moments sans pouvoir assurer une permanence. Après la situation de Clovis, les relais cliniques doivent être définis avec l’équipe, et non improvisés entre amis. Clarifier les possibilités de Simon préserve une place pour l’amitié sans faire du proche un garant de sécurité."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment les rôles risquent-ils de se confondre ?",
+          "points": [
+            {
+              "heading": "Une limite entendue comme un refus",
+              "text": "La peur de peser peut transformer une disponibilité limitée en rejet supposé.",
+              "examples": [
+                "Clovis propose de ne plus déranger Simon.",
+                "Il entend un reproche que son ami n’a pas formulé."
+              ]
+            },
+            {
+              "heading": "Une aide devenue attente permanente",
+              "text": "Un soutien ponctuel ne signifie pas que la même personne pourra toujours répondre.",
+              "examples": [
+                "Simon a accompagné Clovis lors du relais.",
+                "Il ne peut pourtant pas être joignable à toute heure."
+              ]
+            },
+            {
+              "heading": "L’amitié absorbée par la surveillance",
+              "text": "Une relation risque de perdre ses autres sujets si chaque rencontre devient un contrôle.",
+              "examples": [
+                "Ils se retrouvent aujourd’hui sans dossier de programmation.",
+                "Ils souhaitent ensuite garder un café qui ne soit pas une consultation."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour clarifier les appuis hors crise",
+          "points": [
+            {
+              "heading": "Nommer une disponibilité réelle",
+              "objective": "Dire ce que le proche peut proposer sans promesse impossible.",
+              "exercise": [
+                "Choisir un moment calme pour en parler.",
+                "Formuler une aide concrète et ses limites.",
+                "Vérifier comment l’autre a compris cette proposition."
+              ],
+              "benefit": "Une limite explicite peut réduire les attentes implicites sans supprimer l’attachement."
+            },
+            {
+              "heading": "Vérifier les relais professionnels",
+              "objective": "Éviter que l’absence de l’ami ferme l’accès à l’aide.",
+              "exercise": [
+                "Reprendre les contacts définis avec l’équipe.",
+                "Discuter des situations où le proche est absent.",
+                "Confirmer les indications professionnelles, y compris le recours aux secours si le danger est immédiat."
+              ],
+              "benefit": "L’organisation garde plusieurs appuis possibles sans confier au proche une responsabilité clinique."
+            },
+            {
+              "heading": "Garder une rencontre d’amitié",
+              "objective": "Préserver un lien qui ne se limite pas au suivi.",
+              "exercise": [
+                "Choisir ensemble une activité ordinaire souhaitée.",
+                "Demander si un sujet de santé doit être abordé.",
+                "Accepter de parler aussi d’autre chose, sans surveillance imposée."
+              ],
+              "benefit": "Une relation plus large peut garder sa valeur même lorsque les soins restent nécessaires."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 11,
+      "slug": "clovis-place-professionnelle-choisie",
+      "title": "Reprendre une place au travail sans reprendre toutes les tâches",
+      "description": "Clovis retrouve le cinéma après le suivi. Il négocie un rôle précis au lieu de compenser son absence en assurant tout.",
+      "context": "Le retour à la préparation au cinéma",
+      "topics": [
+        "Reprise choisie",
+        "Répartition du travail",
+        "Participation"
+      ],
+      "clinical_intro": "Le retentissement d’un trouble peut demander une adaptation des responsabilités, y compris après une période de retrait. Reprendre une activité ne prouve pas la disparition des difficultés et ne doit pas devenir une obligation de guérir par le travail. Après un point avec son équipe, Clovis choisit une participation limitée à la soirée.",
+      "opening": "Le point de suivi a permis de discuter la reprise d’un rôle limité. Clovis retrouve Nora et Malik au cinéma avec les possibilités convenues, sans promesse de pouvoir tout assurer. Le conducteur bleu a changé de place : il est maintenant dans une chemise sur laquelle Nora a écrit la date de la soirée. La sélection sonore est restée celle qu’ils avaient validée ensemble. Malik a vérifié les durées et préparé les transitions techniques.\n\nClovis commence par remercier les deux bénévoles, puis propose presque aussitôt de reprendre l’accueil et la régie. Il s’entend ajouter qu’il peut aussi présenter les extraits. Nora lui demande quand il aurait le temps de faire tout cela à la fois. La question le ramène à la feuille. Il avait transformé son envie de revenir en dette à rembourser, sans regarder ce que les autres avaient déjà organisé.\n\n« Je voudrais garder la sélection et une courte introduction », dit-il finalement. Malik peut assurer la régie ; Nora souhaite rester à l’accueil. Ils vérifient leurs disponibilités au lieu de supposer que tout ira de soi. Clovis explique également comment transmettre son introduction s’il ne peut pas la faire. Il n’a pas besoin d’exposer les détails du suivi pour que cette possibilité soit prévue. Le conducteur reprend peu à peu une fonction simple : montrer qui fait quoi.",
+      "ending_title": "Trois noms sur le conducteur",
+      "ending": "Le conducteur porte désormais trois responsabilités : accueil pour Nora, régie pour Malik, sélection et courte introduction pour Clovis. Nora accepte de lire l’introduction si cela devient nécessaire et en reçoit le texte. Clovis garde ses contacts de suivi à part. La soirée ne dépend plus de sa capacité à remplir tous les rôles. Il peut préparer ses quelques phrases sans les charger d’une démonstration de rétablissement.",
+      "conclusion": "Une reprise peut avoir de la valeur avec un périmètre limité et une relève prévue. Clovis retrouve une responsabilité choisie, tandis que l’organisation collective et le suivi restent présents autour de lui.",
+      "mirror": [
+        "Nora peut dire : « Quelle partie veux-tu garder, et que pouvons-nous réellement prendre ? » Elle reconnaît la contribution de Clovis sans lui demander de compenser son absence. Accepter une transmission implique aussi de vérifier sa propre disponibilité. Si un besoin de soins réapparaît, la préparation doit s’adapter à cette priorité, pas devenir une raison de différer l’aide."
+      ],
+      "clinical_focus": "Garder une place professionnelle choisie",
+      "diagnostic_stage": "known",
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "nice-cg138"
+      ],
+      "continuity": {
+        "choice": "Nora garde l’accueil, Malik la régie, Clovis la sélection et l’introduction avec une transmission possible.",
+        "next": "La soirée finale pourra avoir lieu sans dépendre de sa capacité à tout assurer."
+      },
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Une responsabilité définie plutôt qu’une dette",
+          "text": "Le retour dans une activité peut s’accompagner d’un désir de compenser l’aide reçue. Cette réaction ne constitue pas un symptôme spécifique du trouble, mais elle peut alourdir une reprise déjà délicate. Pour Clovis, choisir une fonction compatible avec sa situation permet de distinguer participation et surengagement. Les adaptations se discutent concrètement ; le suivi continue à guider les questions cliniques."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment la reprise devient-elle trop large ?",
+          "points": [
+            {
+              "heading": "Vouloir rembourser l’aide",
+              "text": "La reconnaissance peut se transformer en promesse de prendre davantage que ce qui est possible.",
+              "examples": [
+                "Clovis remercie puis propose plusieurs rôles à la fois.",
+                "Il oublie que les bénévoles ont déjà réparti certaines tâches."
+              ]
+            },
+            {
+              "heading": "Confondre présence et polyvalence",
+              "text": "Participer n’exige pas d’être indispensable à chaque moment.",
+              "examples": [
+                "Clovis souhaite surtout conserver la sélection sonore.",
+                "Une courte introduction suffit à lui donner une place choisie."
+              ]
+            },
+            {
+              "heading": "Ne pas prévoir un changement",
+              "text": "Une organisation trop dépendante d’une personne devient fragile si ses possibilités évoluent.",
+              "examples": [
+                "Clovis prépare une transmission de son introduction.",
+                "Nora et Malik vérifient leurs disponibilités réelles avant de confirmer."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour définir une participation possible",
+          "points": [
+            {
+              "heading": "Choisir un rôle précis",
+              "objective": "Relier la reprise aux possibilités actuelles.",
+              "exercise": [
+                "Nommer la tâche que l’on souhaite garder.",
+                "En vérifier les exigences concrètes.",
+                "Convenir d’un périmètre limité, révisable si nécessaire."
+              ],
+              "benefit": "Un rôle clair peut rendre la participation plus réaliste sans la transformer en objectif thérapeutique."
+            },
+            {
+              "heading": "Vérifier chaque responsabilité",
+              "objective": "Éviter que des tâches restent implicitement à la même personne.",
+              "exercise": [
+                "Parcourir le programme avec les participants.",
+                "Attribuer chaque fonction après accord.",
+                "Inscrire cette répartition dans le document commun."
+              ],
+              "benefit": "Le projet peut avancer sur des accords vérifiés plutôt que sur la promesse de tout assurer."
+            },
+            {
+              "heading": "Préparer une transmission",
+              "objective": "Permettre un retrait si la situation le demande.",
+              "exercise": [
+                "Choisir qui peut reprendre la tâche concernée.",
+                "Lui transmettre les éléments nécessaires.",
+                "Convenir d’une façon simple de signaler un changement."
+              ],
+              "benefit": "Une relève pratique limite la pression à continuer ; un besoin de soins reste prioritaire."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 12,
+      "slug": "clovis-projet-et-suivi",
+      "title": "Réaliser un projet sans attendre la disparition du trouble",
+      "description": "La soirée d’écoute a lieu avec des responsabilités partagées. Clovis y participe tout en gardant ses appuis et son suivi.",
+      "context": "La soirée d’écoute au cinéma",
+      "topics": [
+        "Projet personnel",
+        "Appuis maintenus",
+        "Suivi continu"
+      ],
+      "clinical_intro": "Une activité choisie peut garder sa valeur pendant qu’un trouble et son suivi persistent. Sa réussite ne démontre ni une guérison ni l’efficacité d’un traitement. Clovis participe à une soirée d’écoute avec un rôle défini, des responsabilités partagées et la possibilité de laisser sa place si ses besoins le demandent.",
+      "opening": "Nora vérifie les noms à l’entrée pendant que Malik installe son conducteur à la régie. Dans la salle, les lumières permettent encore aux spectateurs de trouver leur fauteuil. Clovis se tient près de la première rangée, sa courte introduction pliée dans la main. Il a vérifié avec Nora qu’elle en possède toujours une copie. Ce détail lui permet de ne pas traiter ses quelques phrases comme une épreuve dont dépendrait toute la soirée.\n\nLorsque l’accueil se calme, il présente les bandes sonores choisies et remercie les personnes qui ont préparé le programme. Il parle du travail des équipes de son, de ce qu’on remarque parfois trop peu lorsque l’image attire le regard. Son corps et son suivi ne deviennent pas le sujet de la présentation. Il n’a rien à raconter au public sur les semaines précédentes pour que cette rencontre culturelle ait du sens.\n\nMalik lance le premier extrait. Clovis s’assied comme prévu. Une personne arrive en retard ; Nora l’accueille sans lui demander de se relever. Il écoute, avec un intérêt réel et une préoccupation qui n’a pas besoin d’être déclarée absente. Il n’assure pas la régie en pensée à la place de Malik. Le partage des tâches existe dans les gestes des autres. À la fin du premier morceau, il retrouve dans ses notes le nom d’un preneur de son qu’il aimerait programmer une autre fois.",
+      "ending_title": "Une idée dans la marge",
+      "ending": "À la fin, Nora ferme l’accueil et Malik range ses notes. Clovis les remercie sans proposer aussitôt de reprendre toutes leurs tâches la prochaine fois. Ils conviennent d’un bilan court sur le programme et les transitions. Dans la marge du conducteur bleu, il inscrit une nouvelle idée de sélection. Son carnet privé garde les contacts et les rendez-vous. La soirée a eu lieu ; elle n’a pas rendu son corps acceptable par décret ni fait disparaître le suivi. Elle a simplement une place dans sa vie.",
+      "conclusion": "Réaliser une activité choisie n’exige pas que toute difficulté ait disparu. Clovis termine la soirée avec une contribution réelle, des responsabilités partagées et un suivi maintenu, sans faire du succès culturel une preuve de guérison.",
+      "mirror": [
+        "Nora ou Simon peuvent dire : « J’ai aimé cette sélection ; comment as-tu trouvé la soirée ? » Ils n’ont pas à demander si Clovis est désormais guéri parce qu’il a pris la parole. Le féliciter pour son travail et respecter ses besoins de soin sont compatibles. Les appuis convenus restent disponibles sans transformer chaque moment agréable en examen de son état."
+      ],
+      "clinical_focus": "Le projet continue avec le suivi",
+      "diagnostic_stage": "known",
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "nice-cg138"
+      ],
+      "continuity": {
+        "choice": "La soirée est réalisée avec responsabilités partagées ; Clovis conserve son suivi et une nouvelle idée culturelle.",
+        "next": "Le parcours se clôt sur la soirée réalisée et des appuis maintenus, sans transformation corporelle, promesse de guérison ou annonce d’un treizième épisode."
+      },
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "La valeur du projet et l’état clinique restent distincts",
+          "text": "Un moment de plaisir ou une tâche réalisée ne mesure pas à lui seul l’évolution d’un trouble. La participation peut coexister avec des difficultés encore présentes et un besoin de suivi. Pour Clovis, la soirée représente un projet culturel partagé, pas un test de santé. Maintenir les appuis permet de ne pas faire dépendre les soins d’un succès ou d’une déception publique."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment le projet trouve-t-il une place malgré la difficulté ?",
+          "points": [
+            {
+              "heading": "Une contribution limitée et réelle",
+              "text": "Le rôle choisi garde une utilité sans couvrir tout le programme.",
+              "examples": [
+                "Clovis présente les extraits pendant quelques minutes.",
+                "Il peut ensuite s’asseoir parce que Malik assure la régie."
+              ]
+            },
+            {
+              "heading": "Des tâches effectivement partagées",
+              "text": "L’aide devient visible lorsque les responsabilités prévues sont prises en charge.",
+              "examples": [
+                "Nora accueille une personne arrivée en retard.",
+                "Clovis n’a pas à interrompre son écoute pour résoudre cette situation."
+              ]
+            },
+            {
+              "heading": "Une réussite sans verdict clinique",
+              "text": "L’intérêt retrouvé ne dit pas tout de ce que la personne éprouve.",
+              "examples": [
+                "Clovis apprécie un passage tout en gardant une préoccupation présente.",
+                "Une idée de programmation naît sans effacer ses rendez-vous de suivi."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour prolonger un projet soutenable",
+          "points": [
+            {
+              "heading": "Maintenir les accords pendant l’événement",
+              "objective": "Ne pas annuler la répartition dès que le programme commence.",
+              "exercise": [
+                "Vérifier les fonctions au début de la soirée.",
+                "Laisser chacun assurer la tâche acceptée.",
+                "Utiliser la transmission prévue si un changement devient nécessaire."
+              ],
+              "benefit": "Les accords peuvent limiter la pression à tout reprendre, sans garantir une soirée sans difficulté."
+            },
+            {
+              "heading": "Faire un bilan pratique",
+              "objective": "Tirer des enseignements sur l’organisation plutôt qu’un verdict sur la personne.",
+              "exercise": [
+                "Relever ce qui a aidé le déroulement.",
+                "Repérer une difficulté matérielle à modifier.",
+                "Choisir ensemble ce qui sera conservé la prochaine fois."
+              ],
+              "benefit": "Un bilan concret permet d’améliorer le projet sans faire de la santé une note de performance."
+            },
+            {
+              "heading": "Garder le suivi séparé",
+              "objective": "Préserver les appuis cliniques au-delà de l’événement.",
+              "exercise": [
+                "Maintenir les rendez-vous convenus.",
+                "Garder les contacts accessibles.",
+                "Parler à l’équipe des évolutions pertinentes sans conclure à partir des applaudissements."
+              ],
+              "benefit": "La continuité des soins reste possible lorsque le projet réussit comme lorsqu’il déçoit."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

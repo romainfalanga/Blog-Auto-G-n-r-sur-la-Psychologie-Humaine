@@ -164,6 +164,78 @@
     "method": "reviewed_clinical_intro",
     "source_body_sha256": "6c96efe3cd5944abdb3184c2c2ba268b2109bc01e522e2860a19d626fc81bc2e"
   },
+  "posts/comprendre-et-maitriser-ses-emotions/agnes-atelier-appuis-durables": {
+    "text": "Des appuis concrets peuvent rendre une activité plus accessible sans démontrer un effet sur le trouble lui-même. Une responsabilité partagée et une pause possible répondent ici au projet professionnel d’Agnès. Leur utilité se regarde dans l’organisation vécue ; le suivi clinique continue séparément et la participation ne devient pas une preuve de guérison.",
+    "source_heading": "Participer avec des appuis durables",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "f3cd340f6502149fb7cc7ec0c342aa082ee1105e2b2f69b1c153a224a2aa7023"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/agnes-circonstances-et-cause": {
+    "text": "Des circonstances peuvent être discutées dans le suivi sans être tenues pour la cause démontrée d’un trouble. Un événement difficile, un désaccord ou une proximité dans le temps ne suffit pas à expliquer un épisode de transe. Les observations restent utiles lorsqu’elles sont distinguées des hypothèses, sans imposer de récit traumatique ni de recherche de souvenirs.",
+    "source_heading": "Les circonstances ne prouvent pas une cause",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "349f19ca4b68b7f27e07f8c3b887aac3aba93dfa11425cc5d4dce65d39fd6cda"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/agnes-conscience-retrecie": {
+    "text": "Dans l’état de transe diagnostiqué, le champ de conscience peut être fortement restreint et l’environnement devenir moins accessible. Ce vécu ne se confond pas avec une simple rêverie ni avec une pratique choisie. Un relais préparé aide à organiser une activité interrompue, tandis que l’évaluation et les modalités de soutien restent individualisées avec les professionnels.",
+    "source_heading": "Le champ de conscience se rétrécit",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "224b1348a19eed3bb6fe361c64102aedd539e41b1cc7f35ad2060eba033001ad"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/agnes-effort-invisible-preparation": {
+    "text": "Le retentissement d’un trouble ne se mesure pas seulement aux activités interrompues. Une activité maintenue peut demander un effort supplémentaire peu visible aux autres. Chez Agnès, ce coût apparaît dans la préparation du cours. Ce surcroît de préparation lui est propre et ne concerne pas toutes les personnes ayant ce trouble. Il invite à regarder les conditions concrètes du travail.",
+    "source_heading": "Le travail tient au prix d’efforts",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "01ab3f211eeacdbffea0de3cfd4f90a59f592ffe37a40f957565c2cceb9ef5e9"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/agnes-fatigue-apres-episode": {
+    "text": "Une fatigue peut être ressentie après certains épisodes de transe. Sa présence ne signifie pas que l’épisode a été causé par l’épuisement, et ne fixe aucun délai universel de récupération. Adapter une tâche du quotidien peut aider l’organisation ; une fatigue inhabituelle ou persistante reste à signaler aux professionnels plutôt qu’à expliquer seul.",
+    "source_heading": "La fatigue après l’épisode",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "4c61533048fb89e83c34eb5a9b3b3b3300ea893d3e887f717df804491053783f"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/agnes-geste-sans-intention": {
+    "text": "Un état de transe peut s’accompagner d’un répertoire restreint de gestes ou de paroles, vécu hors du contrôle de la personne. Une répétition observée ne permet pas de déduire une intention ou un message caché. Le témoignage d’un proche peut être utile au suivi, à condition de rester factuel et de ne pas demander une reproduction.",
+    "source_heading": "Un geste répété sans intention",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "ddd78ca489a1f1a1935a3660a78de1c4a3011398b10a9d7de83237f37ef9db00"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/agnes-malaise-inhabituel-reevaluation": {
+    "text": "Un trouble déjà diagnostiqué ne donne pas l’explication de tout nouvel événement. Un malaise inhabituel, notamment lorsqu’une perte de connaissance est possible, demande une évaluation adaptée. Décrire les faits et signaler le changement aide les professionnels à décider de la suite ; ni l’entourage ni la personne ne doivent conclure d’avance à une origine psychologique.",
+    "source_heading": "Un changement exige une nouvelle évaluation",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "a734aa918fdced489fd7da9f61a86109b84bfe0ebb5cc60b919f37ab370a3927"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/agnes-pratique-culturelle-choisie": {
+    "text": "Une pratique culturelle ou religieuse choisie et reconnue dans son contexte ne constitue pas, à elle seule, un trouble clinique. Une absorption ordinaire dans une activité non plus. Distinguer ces expériences des épisodes involontaires qui font souffrir demande d’écouter la personne et son contexte. Le respect culturel ne remplace pas l’évaluation d’une difficulté distincte.",
+    "source_heading": "Une pratique choisie garde son sens",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "88a0b5265ff489b828599ba40fa5038d8951f4a006da2233cdcc5e24f8e8fc0c"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/agnes-recurrence-et-relais": {
+    "text": "Les épisodes de transe peuvent se répéter selon une évolution variable. Une période sans interruption ne garantit pas leur disparition, et une nouvelle occurrence ne prouve ni un manque d’effort ni l’échec de tout soutien. Il est utile de distinguer ce qui relève de l’évolution clinique et ce qu’une organisation de relais permet concrètement.",
+    "source_heading": "La récurrence reste variable",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "4d3bcdc96e807dfcb9b6434dbbe0bcb30f470dc66d5571f298efb563edbb3f46"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/agnes-relais-sans-signal": {
+    "text": "Dans un état de transe, certains comportements peuvent être vécus hors du contrôle de la personne. Un signal volontaire préparé à l’avance n’est donc pas nécessairement disponible pendant l’épisode. Organiser un relais ne peut pas dépendre de sa réalisation. Cette limite se discute hors épisode, en lien avec le plan individualisé du suivi.",
+    "source_heading": "Le contrôle ne revient pas sur commande",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "c6c70553182e4f2daf18d835a0a960bbdc74d7087029f6b996957c2fd1c52d80"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/agnes-souvenirs-incomplets": {
+    "text": "Des souvenirs partiellement absents peuvent accompagner certains états de transe, mais ne sont pas obligatoires. Ils ne suffisent pas à conclure à un autre trouble de mémoire. Dans le suivi, distinguer ce qui est remémoré de ce qui a été rapporté permet de garder un récit fidèle, sans remplir les blancs par imagination ou suggestion.",
+    "source_heading": "Des souvenirs restent incomplets",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "9595106f6aebb4f72ef1b0c6c3563ce46019366a7b05b05021afdc607e7f8f22"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/agnes-transe-et-possession": {
+    "text": "Le mot transe recouvre des usages différents dans la conversation, les pratiques culturelles et la classification clinique. Le trouble diagnostiqué chez Agnès ne comprend pas le remplacement de son identité par une autre. Clarifier cette distinction avec un professionnel aide à comprendre les termes employés, sans juger les convictions ni établir soi-même un diagnostic.",
+    "source_heading": "Transe ne signifie pas possession",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "dfbba1c657d370838101c86bce50cbf86cd00e9b8e4e60dbeb0938bde2fab2f6"
+  },
   "posts/comprendre-et-maitriser-ses-emotions/alexithymie-en-couple": {
     "text": "Le psychiatre Peter Sifneos a employé le terme « alexithymie » dans ses travaux cliniques. En recherche, il désigne plusieurs dimensions, notamment la difficulté à identifier ou à décrire ses émotions et une attention davantage tournée vers les faits extérieurs, comme le distinguent les travaux de Bagby, Parker et Taylor.",
     "source_heading": "Qu'est-ce que l'alexithymie ?",
@@ -1132,6 +1204,78 @@
     "source_heading": "Incertitude et anxiété liée aux repas",
     "method": "reviewed_clinical_intro",
     "source_body_sha256": "5836e9a90d0f0ffc34cb22ff4641d9f46c522c645a79d1a71e959bae503e995d"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/clovis-au-dela-du-defaut-esthetique": {
+    "text": "La dysphorie de l’intégrité corporelle ne se confond pas avec une préoccupation centrée sur un défaut esthétique perçu. Distinguer ces expériences demande une évaluation professionnelle, et non une comparaison de critères à domicile. Clovis cherche des mots descriptifs pour son suivi, après avoir reçu un conseil qui ne correspondait pas à sa difficulté.",
+    "source_heading": "Le trouble dépasse un défaut esthétique",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "d188fcb8af74564de8d9e5614cb01617ba94383669876007cdf938e1956b09ee"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/clovis-discordance-difficile-a-nommer": {
+    "text": "La dysphorie de l’intégrité corporelle peut associer un ressenti persistant de discordance avec son corps et le désir d’un handicap physique. Cette expérience demande une évaluation spécialisée ; elle ne signifie pas qu’une modification corporelle serait une solution. Chez Clovis, déjà suivi, la difficulté consiste aussi à trouver une parole qui puisse être entendue.",
+    "source_heading": "Une discordance corporelle difficile à nommer",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "407ed7d1060876a3295be49a4c45c28a8cd58e61542115f6372e0d6d8be883be"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/clovis-ecoute-en-consultation": {
+    "text": "Un vécu difficile à nommer peut rester peu abordé même lorsque le diagnostic est déjà établi. Une consultation attentive permet d’entendre les préoccupations et de préciser les besoins de la personne, tout en évaluant sa santé et sa sécurité. Clovis prépare une demande d’écoute, sans attendre de la professionnelle qu’elle confirme une solution corporelle.",
+    "source_heading": "Être écouté sans devoir se justifier",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "f8f1bcb0ee2be7ffbed7c362cb19c3779b0ba9d0ce4bdd33a7ab6f92f387e91f"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/clovis-etude-et-soin": {
+    "text": "Un résultat expérimental sur l’expérience corporelle ne démontre pas automatiquement l’efficacité d’un traitement durable. La population étudiée, les mesures et les limites comptent pour comprendre ce qui peut être conclu. Clovis apporte une étude sur la dysphorie de l’intégrité corporelle à son équipe, avec l’espoir d’une réponse qu’elle ne peut pas lui promettre.",
+    "source_heading": "Une étude ne garantit pas un soin",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "9def26e2325e9659cfb6308403d517bb0fcd7a783b6e72e5a2c240d393690143"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/clovis-honte-et-parole": {
+    "text": "La peur d’être rejeté peut rendre difficile la parole sur une dysphorie de l’intégrité corporelle, y compris auprès d’une personne bienveillante. La honte ne prouve pas que le vécu serait moralement condamnable. Clovis redoute désormais les conséquences de sa confidence, alors que Simon ne lui a demandé ni justification ni détails supplémentaires.",
+    "source_heading": "La honte retarde la parole",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "a8e079cc656e37784b04d2c01be3d59aa41769819beff78ea67503c4d45f1953"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/clovis-intensite-variable": {
+    "text": "L’intensité du vécu et de la préoccupation peut varier dans la dysphorie de l’intégrité corporelle. Une période moins difficile ne prouve pas une guérison, et une aggravation ne démontre pas un manque d’effort. Clovis apprend à décrire un changement à son équipe tout en ajustant une responsabilité concrète dans son projet.",
+    "source_heading": "L’intensité varie au fil des jours",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "dbfb20607a48bcf057fc6a1ff342d821c419b603c00c4c7d9a06de4d4cc67520"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/clovis-place-professionnelle-choisie": {
+    "text": "Le retentissement d’un trouble peut demander une adaptation des responsabilités, y compris après une période de retrait. Reprendre une activité ne prouve pas la disparition des difficultés et ne doit pas devenir une obligation de guérir par le travail. Après un point avec son équipe, Clovis choisit une participation limitée à la soirée.",
+    "source_heading": "Garder une place professionnelle choisie",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "de13665777111ccdaeb9a3dc84ca97dc3eacab78b69c6200f93be654c23b2f9a"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/clovis-preoccupation-au-travail": {
+    "text": "La préoccupation liée à la dysphorie de l’intégrité corporelle peut empiéter sur les activités et les relations. Le retentissement professionnel ne signifie pas nécessairement un manque d’intérêt ou un trouble attentionnel distinct. Clovis aime son projet de cinéma, mais certaines décisions lui échappent quand son ressenti corporel occupe une grande partie de son attention.",
+    "source_heading": "La préoccupation occupe le travail",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "e02b4f1a487fa44a127588044a7c58c146ec85ac2ccf6aec865ca80e392047e7"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/clovis-proche-et-relais": {
+    "text": "Un proche peut soutenir l’accès aux soins sans être disponible à toute heure ni porter seul la sécurité d’une personne. Après une situation préoccupante, clarifier les relais avec l’équipe évite de faire dépendre l’aide d’une seule relation. Clovis et Simon discutent de leurs possibilités réelles, une fois l’évaluation clinique réalisée.",
+    "source_heading": "Un proche soutient sans tout porter",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "691914155ef20cac8c87863b33ff40aed747a880a94d432f66a3047e60597dfd"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/clovis-projet-et-suivi": {
+    "text": "Une activité choisie peut garder sa valeur pendant qu’un trouble et son suivi persistent. Sa réussite ne démontre ni une guérison ni l’efficacité d’un traitement. Clovis participe à une soirée d’écoute avec un rôle défini, des responsabilités partagées et la possibilité de laisser sa place si ses besoins le demandent.",
+    "source_heading": "Le projet continue avec le suivi",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "789a6a8f627998be79d606b34b9482828bf8e382316e83d8a8452e3c321ca0d2"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/clovis-securite-prioritaire": {
+    "text": "Lorsqu’une personne craint de se blesser, la priorité est une aide professionnelle adaptée à la situation actuelle. Un diagnostic connu ne suffit ni à prévoir le risque ni à en préciser le sens. Clovis exprime un besoin immédiat ; Simon l’aide à joindre un relais sans prendre la place des soignants.",
+    "source_heading": "Quand la sécurité devient prioritaire",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "b0ac357e9ed4958001aa011b3349a32ca8c57ff72a02c020dde5095723601094"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/clovis-vecu-ancien-diagnostic": {
+    "text": "L’histoire d’une dysphorie de l’intégrité corporelle peut commencer bien avant l’accès aux soins et la mise en mots du diagnostic. Retracer cette ancienneté appartient à une évaluation d’ensemble, sans exiger une date exacte ni un événement causal. Clovis distingue aujourd’hui ce qu’il se rappelle de ce qu’il a appris à nommer plus tard.",
+    "source_heading": "Un vécu ancien reconnu tardivement",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "339766ea4d082648f76531b95b275a119ef661fd196b608637740cdc5ae1357f"
   },
   "posts/comprendre-et-maitriser-ses-emotions/coherence-cardiaque-au-travail-nadia": {
     "text": "Ici, « cohérence cardiaque » désigne une pratique de respiration lente et régulière. En respirant, la durée entre deux battements varie naturellement : c'est l'une des composantes de la variabilité de la fréquence cardiaque (VFC).",
@@ -2120,6 +2264,78 @@
     "source_paragraph": 1,
     "method": "definition_excerpt",
     "source_body_sha256": "36a3a467e795fac943bdab1ca43a281fdd88f032574231f6e9af8553fee6a32a"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/evaelle-cout-du-quotidien": {
+    "text": "Une tâche menée à terme ne renseigne pas, à elle seule, sur l’effort qu’elle a demandé. Des symptômes intérieurs peuvent rendre le quotidien coûteux alors que le résultat paraît ordinaire. Évaluer la disponibilité restante et discuter du retentissement dans le suivi permet de ne pas mesurer le bien-être au seul nombre de tâches accomplies.",
+    "source_heading": "Tenir le quotidien coûte un effort",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "ee1df4c1d98629709175543e2e48726aa1ade4e0d828009afbd28550c84a708e"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/evaelle-engagement-choisi-aboutit": {
+    "text": "Un projet peut aboutir grâce à une participation choisie et à des relais réels, même lorsque les difficultés cliniques restent présentes. Respecter une limite de temps ne constitue ni un abandon ni une preuve de guérison. L’organisation peut soutenir une activité importante pour la personne, tandis que le suivi et ses objectifs se poursuivent séparément.",
+    "source_heading": "Un engagement choisi peut aboutir",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "4d3ebccd0aedb094ee76a00c4305d6c6675afb2a9e65a4ce5e11521f45c7491c"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/evaelle-fluctuation-et-relais": {
+    "text": "Les manifestations d’un trouble dissociatif peuvent être récurrentes et fluctuer. Quelques journées plus faciles ne garantissent pas leur disparition, et une difficulté renouvelée ne résume pas toute l’évolution. Utiliser une aide déjà convenue et transmettre les changements utiles au suivi permet d’ajuster la participation sans décider seul de modifier les soins.",
+    "source_heading": "Une fluctuation ne décide pas de tout",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "ad4175bbe669cb6d2f835941b1870f03310a9c0080d6cb0670a5e21314eb88a2"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/evaelle-geste-et-initiative": {
+    "text": "Le sentiment d’agentivité désigne l’expérience d’être à l’origine de ses actions. Il peut être perturbé dans certains troubles dissociatifs : un geste dont on se souvient peut paraître étranger à sa propre initiative. Ce vécu subjectif ne prouve pas l’existence d’une autre personne et ne permet pas, seul, de poser un diagnostic.",
+    "source_heading": "Agir sans reconnaître pleinement son geste",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "9c241173b8a8f3fae7ca299799faf2b0bb52f771c1e5d55a053e07df013414da"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/evaelle-memoire-presente": {
+    "text": "Dans le trouble dissociatif de l’identité partiel, de nombreuses intrusions surviennent sans amnésie. Le souvenir d’une scène n’annule donc pas automatiquement sa difficulté. Il ne confirme pas non plus, à lui seul, un diagnostic. Mémoire, sentiment d’agentivité et retentissement sont des dimensions que le professionnel examine dans l’ensemble de la situation.",
+    "source_heading": "La mémoire peut rester présente",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "6d7741a3e28f5c62489bee52fbbb2ea3812f16a6bcbc0946c719d1a3e8f0c70f"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/evaelle-origine-non-deduite": {
+    "text": "Une émotion, une image ou un passage incertain ne permet pas de déduire un événement passé précis. Les associations décrites entre traumatismes et troubles dissociatifs ne constituent pas la preuve d’une histoire individuelle cachée. Respecter ce que la personne sait, ignore ou souhaite garder privé évite de transformer le soutien en enquête suggestive.",
+    "source_heading": "Une origine ne se déduit pas du vécu",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "c879397f4b3153c42472b2fb9178f1a6a67f9484d840b6a07c507860692fa06f"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/evaelle-parole-interieure-suggestions": {
+    "text": "Une parole perçue intérieurement peut être intrusive et pénible. Elle ne permet pas, seule, de conclure à un trouble dissociatif de l’identité partiel ou à un autre diagnostic. Dans un suivi déjà établi, décrire sa forme, son contexte et son retentissement aide le professionnel à apprécier l’expérience et les changements éventuels.",
+    "source_heading": "Une parole intérieure n’est pas un verdict",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "ca258fc42dcf91de39524ada6d437892a25c1ad1c7995d8cc4104ec7cbe0fa73"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/evaelle-partiel-retentissement": {
+    "text": "Le terme partiel, dans le trouble dissociatif de l’identité partiel, ne signifie pas que le retentissement est forcément léger. Il décrit une organisation clinique particulière, évaluée par un professionnel. Comprendre ce vocabulaire peut aider à ne pas mesurer les besoins d’une personne à un adjectif ni exiger une manifestation spectaculaire pour les reconnaître.",
+    "source_heading": "Partiel ne veut pas dire sans retentissement",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "a663d58e5ae82b39595a4bd571718fa78a1eb487cd36298a1d949da1c9105fbe"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/evaelle-passage-incertain-reunion": {
+    "text": "Un passage bref dont le souvenir est incertain mérite d’être décrit et évalué, même lorsqu’un trouble dissociatif est déjà connu. Il ne suffit pas à prouver une amnésie ni à en déterminer la cause. Suspendre une décision non urgente et demander un avis permet de traiter séparément l’organisation actuelle et la question clinique.",
+    "source_heading": "Un passage bref demande une réévaluation",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "03eb7885ab9b56e0f54546a1aadcda18d3db2437b4e47bbac58ed2aeb1201681"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/evaelle-pensee-interrompt-etiquette": {
+    "text": "Une pensée vécue comme intrusive peut interrompre une tâche et paraître étrangère à l’intention présente. Dans le trouble dissociatif de l’identité partiel déjà diagnostiqué, cette expérience appartient à un tableau plus large évalué par un professionnel. Une pensée isolée ne permet pas de reconnaître ce diagnostic. Les appuis quotidiens portent ici sur la tâche et la communication.",
+    "source_heading": "Une pensée intrusive interrompt la tâche",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "30ee7c9654aedb977d5a9548de983d5054c6503a5be31b5cf321be8838a9e9df"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/evaelle-peur-pendant-tri": {
+    "text": "Une émotion peut être vécue comme envahissante et étrangère à l’état dans lequel la personne se reconnaissait juste avant. Dans un trouble dissociatif de l’identité partiel déjà évalué, cette modalité peut faire partie des intrusions décrites. Elle ne permet pas, isolément, de poser un diagnostic ou de déduire un événement du passé.",
+    "source_heading": "Un affect surgit comme étranger",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "77393474a4eb35a99cac0b38c85b4a4449675bb01f5a461fabcbaae2a49c6f65"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/evaelle-soutien-aux-limites-claires": {
+    "text": "Le soutien d’un proche peut être précieux tout en restant limité dans le temps et dans son rôle. Dans l’accompagnement d’un trouble dissociatif, l’amitié ne remplace ni les responsabilités de l’équipe ni le suivi clinique. Préciser une aide et accepter ses limites permet de construire une organisation qui ne dépend pas d’une disponibilité permanente.",
+    "source_heading": "Le soutien a aussi ses limites",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "db9e68a1014b7772325434e0841666c1adcc3f19f5f0283d3c240605a79ce54e"
   },
   "posts/comprendre-et-maitriser-ses-emotions/fanny-autoattention-echanges-litteraires": {
     "text": "L’attention tournée vers soi pendant un échange peut être une piste à explorer dans la compréhension individuelle du trouble de perception olfactive. Elle ne constitue pas un mécanisme universel établi. Fanny, dont le diagnostic est connu, surveille sa propre présence au point de perdre le propos d’une autrice. Son besoin immédiat concerne les mots qu’elle aimerait réellement entendre.",
@@ -3189,6 +3405,78 @@
     "source_heading": "Reprise d’une activité malgré la peur",
     "method": "reviewed_clinical_intro",
     "source_body_sha256": "f0adb99f3d1cf1ce2265d6f9c64372c6de42320ff4ca947624ff2b61092bbc58"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/khadija-choisir-qui-peut-savoir": {
+    "text": "Le retentissement relationnel d’un trouble peut inclure la crainte d’être réduite à son diagnostic ou de voir une information intime circuler. Choisir les destinataires, le but et les limites d’une explication permet de préparer un partage plus précis. Cette démarche reste distincte des informations et recours nécessaires à la sécurité, discutés avec les professionnels.",
+    "source_heading": "Choisir qui peut savoir",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "a018abcbaca4f367aad783fa64f85410bfaba1bfe7d792dfd363c33d60ff218b"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/khadija-diagnostic-et-evaluation": {
+    "text": "Un diagnostic dissociatif établi ne permet pas d’attribuer automatiquement tout événement futur au même trouble. Des circonstances nouvelles ou inhabituelles peuvent nécessiter une évaluation appropriée. Préparer avec l’équipe les informations à transmettre et les modalités de contact aide à ne pas confondre familiarité avec le diagnostic et certitude sur chaque situation.",
+    "source_heading": "Un diagnostic ne clôt pas l’évaluation",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "e2af0c523b5cb020a6a8c9e7995aefe19d6e8f444ab917dc82f37df56b336d92"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/khadija-effort-cache-atelier": {
+    "text": "Le retentissement d’un trouble ne se mesure pas seulement aux activités abandonnées. Une personne peut maintenir une participation au prix d’un travail supplémentaire important. Chez Khadija, les copies et vérifications visent à rendre son absence supportable pour l’atelier. Ce surtravail décrit sa réponse personnelle à la situation, pas un symptôme universel ni un autre diagnostic.",
+    "source_heading": "L’effort caché derrière l’atelier",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "f9d111e7ef09477fc9adc4da1a5968e8c971bd0e3cf1762ad780e846bc2b45d1"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/khadija-mots-communs-au-soin": {
+    "text": "Les mots utilisés pour décrire une expérience dissociative peuvent avoir des significations différentes pour la personne, son entourage et les professionnels. Une interprétation linguistique choisie et des reformulations vérifiées peuvent soutenir l’échange. Respecter les mots d’une personne ne demande ni de confirmer leur explication surnaturelle ni de lui retirer le droit de décrire ce qu’elle ressent.",
+    "source_heading": "Trouver des mots communs au soin",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "14612f05d6de0f325144d49304afc91bcc09054b7940999293b752f07840f7a0"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/khadija-parole-et-commande": {
+    "text": "Une parole compréhensible ou un geste organisé ne suffisent pas à établir qu’une personne se sentait aux commandes pendant un épisode dissociatif. Dans l’État de possession, ce sentiment de commande peut être altéré. En parler après coup demande de distinguer le fait observé, l’expérience rapportée et l’interprétation que chacun serait tenté d’y ajouter.",
+    "source_heading": "Parler sans se sentir aux commandes",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "39079d7b8d7edf402d1dc7120bdc496f3d3829573b429c30ecede60f0a4673ff"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/khadija-place-choisie-atelier": {
+    "text": "Une participation peut reprendre avec des appuis durables sans que le trouble ait disparu. Le choix d’un rôle, la répartition des responsabilités et le respect de la confidentialité permettent d’évaluer un projet concret séparément du suivi clinique. Une séance satisfaisante ne prouve ni guérison ni maîtrise définitive des épisodes ; elle peut néanmoins compter dans la vie de la personne.",
+    "source_heading": "Retrouver une place sans tout raconter",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "e3c9e4e623b85be534433175457462cae9d445b46488cef6d0d55e7e60e4aaee"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/khadija-pratique-choisie-episode-subi": {
+    "text": "Une pratique collective choisie ou une croyance ne constitue pas en elle-même un trouble mental. L’évaluation d’expériences dissociatives tient compte du contexte et de leur retentissement, avec la personne. Distinguer une participation volontaire d’épisodes subis évite de pathologiser toute une part de sa vie ; cette distinction ne forme pas un test permettant de se diagnostiquer.",
+    "source_heading": "Distinguer pratique choisie et épisode subi",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "44d390ec3f6030106a3927d4cfe57f4d58d666b7c8df37fc5f9c39bfaa72334b"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/khadija-recidive-et-efforts": {
+    "text": "L’évolution de l’État de possession peut comporter des récurrences variables. Un nouvel épisode ne démontre pas qu’une personne a mal appliqué ses appuis quotidiens ou manqué de volonté. Il appelle les démarches adaptées au suivi et à la situation, tandis que l’organisation d’une absence peut être évaluée séparément de la survenue du trouble.",
+    "source_heading": "Une récidive ne juge pas les efforts",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "54e0ed0fd10a3344160717d0a2e9424ac768d39b4be4d98168000a02d72ba518"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/khadija-sentiment-de-soi": {
+    "text": "L’État de possession est le nom clinique d’un trouble dissociatif où une personne peut vivre son identité habituelle comme remplacée par une influence extérieure. Ce terme décrit une expérience ; il ne confirme aucune présence surnaturelle. Écouter ce vécu sans en imposer la cause permet de préserver une conversation utile, dans le cadre d’un suivi professionnel.",
+    "source_heading": "Quand le sentiment de soi bascule",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "f34daaea45ea095546dea81d00e15d5a6f0e5ba6859a520c607a5addde9ef3bb"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/khadija-soutien-et-limites": {
+    "text": "Le soutien d’un proche peut compter sans couvrir toutes les heures ni remplacer une équipe clinique. Lorsqu’un trouble affecte la vie quotidienne, rendre les disponibilités et les responsabilités explicites peut prévenir des attentes impossibles. Une limite n’est pas nécessairement un retrait affectif ; elle doit s’articuler avec des relais réellement identifiés et adaptés aux besoins.",
+    "source_heading": "Un soutien avec des limites",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "7e8c79e0eacf6eb80f2e73a6bb0bd7ae10edab180ec7c9717075850720396de8"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/khadija-souvenirs-incomplets": {
+    "text": "Les souvenirs d’un épisode dissociatif peuvent rester partiels. Un récit incomplet ne doit pas être comblé par des suggestions, une reconstitution imposée ou des certitudes empruntées à autrui. Distinguer ce qui est personnellement rappelé, rapporté par une témoin ou encore inconnu aide le professionnel à recueillir l’expérience sans fabriquer une continuité artificielle.",
+    "source_heading": "Garder les blancs du souvenir",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "cc78290551b8e0bb9591cf462b8b19375bcad05978f2b052cb9eeafe81330b67"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/khadija-volonte-et-episode": {
+    "text": "Le souhait de participer à une activité ne donne pas nécessairement la maîtrise des manifestations d’un trouble dissociatif. Exiger une annonce au moment d’un épisode peut faire reposer l’organisation sur une capacité qui n’est pas garantie. Un relais préparé hors événement distingue l’engagement volontaire de la personne et les difficultés qu’elle ne choisit pas.",
+    "source_heading": "Vouloir participer ne suffit pas",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "39fd8245ead90eb473e0560e8287b3fa7d31f7edfce68694d4475209b2de9bdb"
   },
   "posts/comprendre-et-maitriser-ses-emotions/laure-aide-et-vie-privee": {
     "text": "Le suivi des symptômes peut devenir très présent dans les relations. Après une alerte, l’inquiétude de Benoît et le besoin de vie privée de Laure ont tous les deux une place. Un accord sur une aide concrète et sur ce que Laure choisit de partager permet de séparer le rôle du proche de celui des soignants.",

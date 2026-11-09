@@ -1,0 +1,196 @@
+{
+  "schema_version": 1,
+  "character_id": "evaelle",
+  "code": "6B65",
+  "article_format": 2,
+  "bio": "Évaëlle, 30 ans, est responsable d’atelier dans un foyer de jeunes travailleurs. Son Trouble dissociatif de l’identité partiel est déjà diagnostiqué : des expériences internes envahissantes peuvent interrompre ce qu’elle fait, sans être visibles pour son entourage. Elle prépare un échange de livres et veut respecter ses propres marges. Avec une amie du foyer, son équipe et une clinicienne spécialisée, elle apprend à formuler ses besoins pratiques et à revenir sur un engagement incertain. Son goût des couvertures orange et ses idées de lecture gardent toute leur place.",
+  "profile_topics": [
+    "Trouble dissociatif de l’identité partiel",
+    "intrusions internes",
+    "sentiment d’agentivité",
+    "retentissement quotidien",
+    "engagements et limites"
+  ],
+  "voice": "Évaëlle emploie des phrases concrètes : je peux préparer la table, pas assurer la fermeture. Elle parle parfois de quelque chose qui s’impose sans lui ressembler ; le narrateur conserve ce statut de vécu. Elle aime les couvertures orange, les titres courts et les marges où noter un conseil de lecture. Aucun changement théâtral de voix, prénom ou âge intérieur.",
+  "series_goal": "Faire tenir un échange de livres collectif, renégocier un créneau qu’elle ne peut confirmer et respecter un accueil bref avec relais réel, sans attendre une résolution clinique totale.",
+  "continuity_rules": [
+    "Identité canonique : Évaëlle, 30 ans, responsable du coin atelier d’un foyer de jeunes travailleurs. Diagnostic déjà établi, known dans les douze épisodes ; le récit ne le reconstruit pas à partir d’une voix ou d’une humeur.",
+    "Un état dominant reste aux commandes du quotidien ; pas de prises de contrôle récurrentes pour gérer travail ou liens, pas de biographies d’identités inventées. Les modalités d’intrusion sont des expériences rapportées, jamais des personnes objectivement séparées.",
+    "La mémoire est conservée dans les épisodes ordinaires. Seul le bref passage incertain en émotion très intense de l’épisode 6 appelle une réévaluation ; aucun accord n’est attribué à une identité et aucune lacune n’est reconstruite. Épisode 7 reprend la répartition actuelle après le contact de soin.",
+    "Conserver Nora amie et volontaire, Malik coordinateur et la docteure Salomé Roussel clinicienne spécialisée. Nora et les collègues ne deviennent pas thérapeutes ; leurs disponibilités et les relais doivent être réels dans la scène avant utilisation.",
+    "Carnet vert pratique, trois caisses à donner/à découvrir/à reprendre, cinq recommandations, cartes puis affiche orange et horaire collectif : chaque étape reprend ce qui est déjà préparé. Pas de carnet secret d’états ou d’enregistrement destiné à prouver une identité.",
+    "Aucun passé traumatique inventé ni recherche de souvenirs ; pas d’induction, exposition, hypnose, exercice intérieur, stimulation forte ou traitement prescriptif. Le sens du diagnostic et toute réévaluation restent professionnels ; les études de groupes mixtes ne sont pas des preuves spécifiques à 6B65.",
+    "Les appuis pratiques sont des adaptations concertées sans promesse thérapeutique. Une fluctuation ne justifie ni suppression du suivi ni responsabilité confiée à Nora. La fin réalise le relais et le départ à l’heure, non une guérison ou une réunification imposée."
+  ],
+  "episodes": [
+    {
+      "number": 1,
+      "focus": "Une pensée intrusive interrompt la tâche",
+      "scene": "Évaëlle prépare les trois caisses de l’échange. Pendant qu’elle écrit à découvrir, une pensée étrangère à son intention actuelle s’impose et coupe le fil de la phrase. Elle reste dans la pièce et sait ce qu’elle était en train de faire, mais demande à Nora de suspendre les questions de tri.",
+      "development": "Manifestation cognitive au sein du trouble déjà diagnostiqué, pas simple hésitation ou changement d’avis. Montrer interruption intérieure, difficulté à poursuivre la consigne et besoin pratique formulé. Trois appuis : limiter la tâche du moment ; demander une pause de conversation ; relever une description brève pour le suivi si utile. Ne pas donner de prénom ou de fonction à la pensée, ne pas chercher à provoquer un échange intérieur. La spécialiste a évalué un tableau global avant la série.",
+      "ending": "Évaëlle termine les trois étiquettes avec une pause choisie, puis réserve un créneau de tri court. Nora sait ce qu’elle lui demande sans connaître le contenu de la pensée.",
+      "next": "Les caisses sont nommées ; le premier tri aura lieu sur ce créneau, avec une liste de décisions limitée.",
+      "source_refs": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "isst-d-2011"
+      ],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 2,
+      "focus": "Un affect surgit comme étranger",
+      "scene": "Pendant le tri, une peur intense surgit chez Évaëlle sans lui sembler correspondre à son intention présente. Elle connaît les personnes et reste orientée ; elle dit seulement à Nora que la discussion devient difficile à suivre. Les livres sont posés sur la table, pas portés en hauteur.",
+      "development": "Manifestation affective : vécu d’intrusion, distinct d’un changement ordinaire de préférence. Pas de cause traumatique devinée ni humeur transformée en autre personnage. Trois appuis : dire la difficulté présente sans devoir l’expliquer ; choisir avec Nora de suspendre ou poursuivre une petite tâche ; décrire cet épisode à la clinicienne dans le suivi. Aucune obligation de calmer ou analyser l’émotion pour conserver sa responsabilité.",
+      "ending": "Évaëlle interrompt le tri, puis garde seulement la décision de réserver la caisse à découvrir aux suggestions. Le créneau suivant portera sur les titres déjà déposés.",
+      "next": "Les suggestions restent à classer ; Évaëlle apporte au suivi ce qu’elle a pu décrire de l’affect, sans interpréter son origine.",
+      "source_refs": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "isst-d-2011"
+      ],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 3,
+      "focus": "Une parole intérieure n’est pas un verdict",
+      "scene": "À la lecture des suggestions, Évaëlle perçoit une brève parole intérieure envahissante, distincte à ses yeux de ce qu’elle voulait penser. Nora constate seulement qu’elle s’arrête. Évaëlle lui demande de reprendre le titre du livre, puis décrit au rendez-vous prévu la nature de l’expérience.",
+      "development": "Modalité perceptive possible, à distinguer de la pensée intrusive du début sans créer un dialogue d’entités. Trois appuis : reprendre un élément concret de la conversation ; garder le choix de ce qu’elle partage ; donner à la clinicienne une description sans autoétiquette. Une voix seule ne diagnostique ni 6B65 ni psychose ; le suivi apprécie le tableau et les changements. Pas de grille de comparaison à cocher.",
+      "ending": "La clinicienne reprend la description et le retentissement dans le suivi existant. Évaëlle retrouve la liste des suggestions et en retient cinq pour la première table.",
+      "next": "Cinq titres sont retenus ; elle prépare les cartes qui permettront aux visiteurs d’écrire une recommandation.",
+      "source_refs": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "isst-d-2011"
+      ],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 4,
+      "focus": "Agir sans reconnaître pleinement son geste",
+      "scene": "En disposant les cartes de recommandation, Évaëlle retourne une carte alors qu’elle comptait écrire dessus. Elle se souvient du geste mais le ressent comme dépourvu de sa propre initiative. Nora lui demande où mettre les autres cartes ; Évaëlle répond qu’elle a besoin de ralentir.",
+      "development": "Agentivité : sentiment subjectif de ne pas être l’auteur d’un geste, pas preuve d’un autre individu ni perte générale de responsabilité. Trois appuis : décrire exactement l’écart entre intention et vécu ; mettre la tâche non urgente en pause ; en parler à la clinicienne plutôt que multiplier les essais pour reproduire le phénomène. Ne pas transformer la scène en manifestation neurologique nouvelle inexpliquée ou en spectacle moteur.",
+      "ending": "Évaëlle laisse les cartes sur la table et reprend seulement les cinq titres. Elle note pour le suivi qu’elle se souvient de ce qui s’est passé, même si le geste lui a paru étranger.",
+      "next": "Cette mémoire conservée deviendra une question qu’elle souhaite poser au prochain échange clinique.",
+      "source_refs": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "isst-d-2011"
+      ],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 5,
+      "focus": "La mémoire peut rester présente",
+      "scene": "Au suivi, Évaëlle raconte la carte retournée et les mots échangés ensuite. Elle s’interroge : si elle se rappelle la scène, est-ce que la difficulté compte vraiment ? Le carnet vert contient sa liste de tâches et une question, sans tentative de dresser une chronologie cachée.",
+      "development": "Particularité : les intrusions de 6B65 sont souvent sans amnésie. La mémoire conservée n’invalide pas le retentissement et ne permet pas non plus de confirmer seule le diagnostic. Trois appuis : séparer souvenir de la scène et sentiment d’agentivité ; demander une clarification professionnelle ; conserver un carnet pratique sans surveillance exhaustive. Aucun test de mémoire proposé au lecteur.",
+      "ending": "La clinicienne clarifie ce point sans demander une lacune pour valider l’expérience. Évaëlle confirme une réunion avec Malik pour choisir l’horaire de l’échange de livres.",
+      "next": "La réunion doit préciser l’horaire et les relais ; Évaëlle souhaite surtout éviter d’être seule à la fermeture.",
+      "source_refs": [
+        "oms-cddr",
+        "oms-cddr-hrb"
+      ],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 6,
+      "focus": "Un passage bref demande une réévaluation",
+      "scene": "Lors de la réunion, les demandes de prolonger l’échange s’accumulent et Évaëlle se sent submergée par une émotion très intense. Elle reste sur place, mais ne sait plus précisément comment s’est conclu un bref passage de la discussion. En voyant ensuite le créneau tardif inscrit, elle ne peut confirmer l’avoir accepté. Elle suspend cette validation et contacte le suivi.",
+      "development": "Un passage bref incertain dans un état émotionnel extrême peut être discuté sans en faire une amnésie prouvée ni attribuer un accord à une autre identité. Trois appuis : arrêter la décision non urgente ; distinguer le document disponible de ce dont elle se souvient ; demander une réévaluation au suivi sans interrogatoire suggestif. La consultation ou l’échange clinique a lieu dans l’épisode et examine aussi les autres explications possibles. Pas de longues heures disparues, déplacement inexpliqué ou recherche de souvenirs.",
+      "ending": "Après l’échange clinique, Évaëlle suit les consignes données et écrit à Malik qu’elle ne peut assurer la fermeture. Le créneau n’est pas confirmé en son nom ; le relais doit être revu. L’incertitude sur la conversation demeure.",
+      "next": "La réponse organisationnelle sera précisée sans résoudre artificiellement le souvenir ; Évaëlle veut aussi clarifier ce que partiel signifie dans son diagnostic.",
+      "source_refs": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "isst-d-2011"
+      ],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 7,
+      "focus": "Partiel ne veut pas dire sans retentissement",
+      "scene": "Évaëlle reçoit la réponse de Malik : une autre personne peut prendre la fermeture, mais elle entend une remarque selon laquelle son trouble serait forcément léger parce qu’il est partiel. Au suivi, elle reprend cette idée avec la clinicienne. Elle veut garder la préparation, sans se justifier par une crise visible.",
+      "development": "Périmètre diagnostique : distinction avec 6B64 fondée sur l’organisation des états et l’absence de prises de contrôle récurrentes du quotidien, pas sur un adjectif de gravité. Trois appuis : demander une explication des termes au professionnel ; formuler une limite de charge sans dévoiler le dossier ; confirmer la répartition actuelle par écrit. Pas de nouvelle étiquette posée sur la base du bref passage précédent, pas de comparaison spectaculaire de personnalités.",
+      "ending": "Évaëlle confirme qu’elle prépare la table et assure un accueil limité. Malik inscrit un relais de fermeture ; l’affiche peut désormais porter un horaire réellement tenu par l’équipe.",
+      "next": "La préparation de l’affiche reprend ; une question sur l’origine du trouble demandera une autre limite, cette fois sur son histoire privée.",
+      "source_refs": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "isst-d-2011"
+      ],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 8,
+      "focus": "Une origine ne se déduit pas du vécu",
+      "scene": "En travaillant sur l’affiche, Nora demande si la peur de l’autre séance signifie qu’un ancien événement lui revient. Évaëlle répond qu’elle ne veut pas chercher une histoire à partir de cette sensation. Nora entend la limite et elles reviennent aux mots livres à partager.",
+      "development": "Limite de connaissance : associations traumatiques du référentiel ne prouvent pas un événement individuel ni la vérité d’une image ou d’un affect. Trois appuis : dire qu’on ne sait pas ou ne veut pas raconter ; arrêter les questions qui suggèrent une histoire ; réserver au cadre clinique toute question de soin sans enquête de l’amie. Aucun souvenir récupéré, hypnose, recherche de déclencheur ou narration d’abus. L’absence de récit traumatique ne doit pas devenir un verdict diagnostique.",
+      "ending": "Nora accepte de ne pas interpréter la peur. Évaëlle choisit une affiche orange avec l’horaire et les trois catégories ; son histoire personnelle n’y figure évidemment pas et ne conditionne pas l’aide.",
+      "next": "L’affiche est prête ; il reste à vérifier que la liste de tâches correspond à la disponibilité réelle d’Évaëlle.",
+      "source_refs": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "isst-d-2011"
+      ],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 9,
+      "focus": "Tenir le quotidien coûte un effort",
+      "scene": "Évaëlle a terminé l’affiche et les étiquettes. Malik pense que tout va bien puisqu’elle a fait le travail. Le soir, elle constate l’effort que lui ont demandé les interruptions intérieures et les reprises ; elle n’a plus de marge pour accepter la mise en place supplémentaire qu’on lui propose.",
+      "development": "Retentissement fonctionnel : une tâche accomplie peut nécessiter un effort important et masquer le coût des symptômes. Trois appuis : distinguer résultat produit et disponibilité restante ; prioriser les tâches avec l’équipe ; examiner avec la clinicienne ce coût et les objectifs du suivi. Ne pas présenter une liste ou un groupe de stabilisation comme traitement validé de 6B65. Si les recherches sont évoquées, préciser populations mixtes et limites, sans taux de réussite.",
+      "ending": "Évaëlle conserve le choix des recommandations et délègue la mise en place des caisses. Elle transmet au suivi le coût de ces journées, au lieu de mesurer son état au nombre de tâches finies.",
+      "next": "La tâche déléguée demande des horaires précis ; Nora ne pourra pas être présente à tous les moments.",
+      "source_refs": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "isst-d-2011",
+        "baekkelund-2022",
+        "hawkins-2026"
+      ],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 10,
+      "focus": "Le soutien a aussi ses limites",
+      "scene": "Nora dit qu’elle peut préparer les caisses le vendredi mais ne pourra pas répondre aux messages tard le soir. Évaëlle craint d’abord de perdre son appui, puis précise qu’elle souhaite surtout savoir qui reprend la table si elle interrompt son accueil. L’équipe doit organiser ce relais, pas le confier à une amitié illimitée.",
+      "development": "Enjeu relationnel et d’accompagnement, pas symptôme supplémentaire. Trois appuis : demander un soutien pratique précis ; accueillir les limites de l’amie ; identifier séparément relais professionnel de travail et contact de soin. Aucune surveillance continue, promesse de secret absolu en danger, interprétation des états ou injonction à répondre à toute heure.",
+      "ending": "Nora prépare les caisses au créneau convenu. Malik confirme la personne de relais pendant l’accueil ; Évaëlle garde le contact de suivi pour les questions cliniques. Elle n’a pas à choisir entre tout raconter et travailler seule.",
+      "next": "Les relais sont nommés avant l’installation ; une journée plus difficile pourra les mobiliser sans les improviser.",
+      "source_refs": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "isst-d-2011"
+      ],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 11,
+      "focus": "Une fluctuation ne décide pas de tout",
+      "scene": "Pendant l’installation, une intrusion familière revient plus fortement après quelques journées plus faciles. Évaëlle reconnaît sa difficulté à poursuivre et demande au collègue désigné de reprendre la table. Elle se souvient de l’échange et garde ses affaires ; aucun nouveau passage manquant n’est ajouté.",
+      "development": "Évolution récurrente et fluctuante décrite dans les CDDR ; contexte chargé ne prouve pas une cause unique. Trois appuis : utiliser le relais déjà accepté ; transmettre au suivi le changement utile ; revoir le format de l’accueil selon la situation sans abandonner ou intensifier seule les soins. Pas de test pour faire disparaître l’intrusion, pas de guérison annulée. Distinguer amélioration du fonctionnement et réduction des symptômes, limites rappelées par les études.",
+      "ending": "Évaëlle reprend seulement les cinq recommandations, puis confirme un accueil bref avec le relais prévu. Les caisses et l’affiche sont en place. Les consignes de suivi demeurent et l’équipe sait qui continuera après elle.",
+      "next": "Le jour de l’échange peut se tenir avec cette répartition ; sa présence brève n’aura pas à prouver que les symptômes ont disparu.",
+      "source_refs": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "baekkelund-2022"
+      ],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 12,
+      "focus": "Un engagement choisi peut aboutir",
+      "scene": "Les premières personnes déposent leurs livres dans les trois caisses. Évaëlle présente les cinq recommandations et explique les catégories. Elle vérifie l’heure convenue, transmet la table au collègue prévu et laisse Nora poursuivre ses propres échanges. Elle n’attend pas d’avoir épuisé toute sa marge pour partir.",
+      "development": "Aboutissement du projet et du respect des limites, sans verdict clinique. Trois appuis : réaliser le relais annoncé ; conserver le prochain suivi ; choisir ce qu’elle souhaite refaire ou modifier lors d’un prochain échange. L’organisation ne guérit pas 6B65 et un départ à l’heure n’est pas un abandon. Aucune fusion, disparition d’état ou résolution de passé inventée.",
+      "ending": "L’échange de livres a lieu et la relève est effective. Évaëlle repart à l’heure avec un recueil choisi pour sa couverture orange. Elle voudrait proposer un coin poésie une autre fois, mais n’en promet pas encore la date. Le suivi continue.",
+      "next": "Fin de série : échange réalisé, engagement renégocié respecté, marges préservées et questions cliniques laissées au suivi.",
+      "source_refs": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "isst-d-2011"
+      ],
+      "diagnostic_stage": "known"
+    }
+  ]
+}

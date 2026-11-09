@@ -1,0 +1,1262 @@
+{
+  "character_id": "evaelle",
+  "bio": "Évaëlle, 30 ans, est responsable d’atelier dans un foyer de jeunes travailleurs. Son Trouble dissociatif de l’identité partiel est déjà diagnostiqué : des expériences internes envahissantes peuvent interrompre ce qu’elle fait, sans être visibles pour son entourage. Elle prépare un échange de livres et veut respecter ses propres marges. Avec une amie du foyer, son équipe et une clinicienne spécialisée, elle apprend à formuler ses besoins pratiques et à revenir sur un engagement incertain. Son goût des couvertures orange et ses idées de lecture gardent toute leur place.",
+  "profile_topics": [
+    "Trouble dissociatif de l’identité partiel",
+    "intrusions internes",
+    "sentiment d’agentivité",
+    "retentissement quotidien",
+    "engagements et limites"
+  ],
+  "episodes": [
+    {
+      "number": 1,
+      "slug": "evaelle-pensee-interrompt-etiquette",
+      "title": "Pensée intrusive : quand une tâche perd son fil",
+      "description": "Une pensée envahissante interrompt une étiquette. Évaëlle demande une pause dans les questions sans devoir raconter son contenu.",
+      "context": "Préparer les caisses au foyer",
+      "topics": [
+        "intrusions internes",
+        "attention",
+        "demande pratique"
+      ],
+      "clinical_focus": "Une pensée intrusive interrompt la tâche",
+      "diagnostic_stage": "known",
+      "clinical_intro": "Une pensée vécue comme intrusive peut interrompre une tâche et paraître étrangère à l’intention présente. Dans le trouble dissociatif de l’identité partiel déjà diagnostiqué, cette expérience appartient à un tableau plus large évalué par un professionnel. Une pensée isolée ne permet pas de reconnaître ce diagnostic. Les appuis quotidiens portent ici sur la tâche et la communication.",
+      "opening": "Évaëlle a choisi trois caisses assez petites pour tenir sous la table du coin atelier. Sur la première étiquette, elle a écrit « à donner ». La deuxième doit accueillir les livres que personne ne connaît encore ; elle hésite entre « surprises » et « à découvrir », puis choisit la formule la plus claire. Nora découpe les bandes de papier à côté d’elle. Elles ont une demi-heure avant que la salle soit utilisée pour une autre activité.\n\nAu milieu du mot, une pensée s’impose, avec une impression d’étrangeté qu’Évaëlle connaît. Elle ne la ressent pas comme la suite de sa réflexion sur les étiquettes. Son stylo reste immobile. Elle sait où elle est, reconnaît Nora et se souvient du début de leur conversation. Pourtant, poursuivre la phrase lui demande un effort brusque. Nora demande dans quelle caisse mettre un livre déjà réservé. Évaëlle entend la question mais ne parvient pas à la traiter en même temps.\n\n« Attends un peu avec les questions. Je veux finir cette ligne. » À trente ans, la responsable d’atelier sait formuler une consigne ; elle trouve plus difficile de demander cette petite suspension pour elle-même. Son trouble dissociatif de l’identité partiel a été diagnostiqué avant ce projet. Nora connaît l’existence du suivi, pas les détails de chaque expérience. Évaëlle ne veut pas raconter la pensée. Elle veut pouvoir terminer trois étiquettes, puis décider du prochain créneau.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Une interruption intérieure peut rester invisible",
+          "text": "Les intrusions cognitives peuvent perturber le cours de l’activité dans le trouble dissociatif de l’identité partiel. Elles ne se résument pas à une distraction et ne constituent pas, seules, un diagnostic. Évaëlle décrit une pensée qui lui semble étrangère à son intention, sans lui attribuer une personne ou une fonction cachée. Nora voit seulement son arrêt. Une adaptation de leur échange peut réduire les demandes concurrentes ; elle ne traite pas le trouble."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment la pensée intrusive gêne-t-elle la tâche ?",
+          "points": [
+            {
+              "heading": "Le fil se coupe",
+              "text": "L’expérience intérieure interrompt une action pourtant déjà engagée.",
+              "examples": [
+                "Le mot reste inachevé sur la bande de papier.",
+                "Évaëlle doit retrouver la suite de son instruction à elle-même."
+              ]
+            },
+            {
+              "heading": "Deux demandes deviennent difficiles à tenir",
+              "text": "Une question ordinaire arrive au moment où poursuivre nécessite déjà un effort.",
+              "examples": [
+                "Nora demande où ranger le livre réservé.",
+                "Évaëlle entend la question mais reporte sa réponse."
+              ]
+            },
+            {
+              "heading": "Le besoin dépasse ce qui se voit",
+              "text": "L’arrêt visible ne renseigne pas sur le contenu intime de l’expérience.",
+              "examples": [
+                "Nora voit le stylo suspendu sans connaître la pensée.",
+                "Évaëlle demande du silence plutôt qu’une explication de son état."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour alléger la tâche présente",
+          "points": [
+            {
+              "heading": "Limiter la décision immédiate",
+              "objective": "Conserver une action faisable.",
+              "exercise": [
+                "Choisir la seule tâche non urgente que l’on souhaite poursuivre.",
+                "Mettre les autres questions de côté avec les personnes concernées.",
+                "Décider ensuite si l’on poursuit ou si l’on s’arrête."
+              ],
+              "benefit": "Une tâche délimitée peut être plus accessible ; ce choix ne garantit pas la fin de l’intrusion."
+            },
+            {
+              "heading": "Demander une pause de conversation",
+              "objective": "Rendre le besoin compréhensible sans révélation imposée.",
+              "exercise": [
+                "Dire simplement que plusieurs demandes sont difficiles à suivre.",
+                "Proposer de suspendre les questions un moment.",
+                "Indiquer ensuite si la conversation peut reprendre."
+              ],
+              "benefit": "L’autre dispose d’une demande concrète plutôt que d’une expérience intérieure à interpréter."
+            },
+            {
+              "heading": "Préparer une description pour le suivi",
+              "objective": "Garder les questions cliniques dans leur cadre.",
+              "exercise": [
+                "Noter si on le souhaite la tâche interrompue.",
+                "Décrire brièvement ce qui a gêné, sans chercher à reproduire la pensée.",
+                "En parler au professionnel selon les modalités du suivi."
+              ],
+              "benefit": "Une description choisie peut éclairer le retentissement sans devenir une surveillance permanente."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Les trois noms sont lisibles",
+      "ending": "Évaëlle pose le stylo, puis reprend l’étiquette quand elle le souhaite. Nora garde sa question pour après. Les trois caisses portent finalement leurs noms : à donner, à découvrir, à reprendre. Évaëlle n’ajoute pas le tri à cette séance. Dans son carnet vert, elle réserve un créneau court pour les livres déjà déposés. Elle repart avec une tâche achevée et une limite respectée, sans conclure que les intrusions seront absentes la prochaine fois.",
+      "conclusion": "Une pensée intrusive peut coûter un effort que l’entourage ne voit pas. Ici, une demande simple permet de modifier la conversation et de terminer une tâche choisie. Le suivi reste le lieu des questions cliniques ; les étiquettes ne mesurent pas l’évolution du trouble.",
+      "mirror": [
+        "Nora peut répondre : « D’accord, je garde ma question pour après. » Elle n’a pas besoin de demander à qui appartient la pensée ni ce qu’elle signifie. L’aide consiste ici à suspendre les sollicitations et à accepter qu’Évaëlle ne partage pas son contenu. Si la séance s’arrête, Nora peut convenir d’un autre moment sans transformer la pause en échec."
+      ],
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "isst-d-2011"
+      ],
+      "continuity": {
+        "choice": "Évaëlle termine les étiquettes après une pause et réserve un créneau court de tri.",
+        "next": "Les trois caisses nommées servent au premier tri ; seules quelques décisions seront prévues."
+      }
+    },
+    {
+      "number": 2,
+      "slug": "evaelle-peur-pendant-tri",
+      "title": "Intrusion affective : une peur qui paraît étrangère",
+      "description": "Pendant le tri, une peur envahissante rend la discussion difficile. Évaëlle suspend la séance sans inventer une origine à ce vécu.",
+      "context": "Premier tri des livres",
+      "topics": [
+        "intrusions affectives",
+        "retentissement",
+        "choix de pause"
+      ],
+      "clinical_focus": "Un affect surgit comme étranger",
+      "diagnostic_stage": "known",
+      "clinical_intro": "Une émotion peut être vécue comme envahissante et étrangère à l’état dans lequel la personne se reconnaissait juste avant. Dans un trouble dissociatif de l’identité partiel déjà évalué, cette modalité peut faire partie des intrusions décrites. Elle ne permet pas, isolément, de poser un diagnostic ou de déduire un événement du passé.",
+      "opening": "Les caisses sont maintenant alignées contre la table. Évaëlle ouvre son carnet vert à la petite liste prévue pour ce premier tri : vérifier les livres déposés, choisir où placer les suggestions, s’arrêter avant le prochain atelier. Nora a apporté deux romans et un recueil dont la couverture orange plaît immédiatement à son amie. Elles plaisantent sur cette préférence qui risque de devenir une règle de sélection peu défendable.\n\nAlors qu’elles discutent de la caisse « à découvrir », une peur intense envahit Évaëlle. Elle ne lui paraît pas correspondre à ce qu’elle voulait faire ni à la conversation qu’elle suivait. Elle reconnaît Nora, la table et les livres. Elle garde le souvenir de leurs échanges. Mais les phrases de son amie deviennent difficiles à suivre au milieu de cette expérience intérieure. Elle pose sur la table le livre qu’elle tenait, sans chercher à examiner ce que la peur pourrait cacher.\n\nNora s’arrête de parler. « J’ai dit quelque chose ? » Évaëlle ne peut pas lui donner une explication. Elle sait seulement que continuer le tri avec les mêmes questions lui coûte trop. « Je ne peux pas expliquer maintenant. On peut arrêter de classer ? » Son diagnostic est déjà connu dans le suivi ; il ne lui fournit pas une cause certaine pour chaque moment difficile. Elle regarde les trois caisses et choisit de ne pas finir la liste simplement parce qu’elle était courte.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Un affect intrusif reste une expérience à décrire",
+          "text": "Les intrusions affectives peuvent être vécues comme une émotion qui s’impose et ne semble pas appartenir à l’état habituel de la personne. Leur sens s’apprécie dans une évaluation globale. Ici, la peur d’Évaëlle perturbe la discussion sans effacer son souvenir de ce moment. Rien ne permet à Nora d’en déduire une histoire ancienne, une autre identité ou une cause qu’Évaëlle ne connaîtrait pas."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment l’affect envahissant modifie-t-il le tri ?",
+          "points": [
+            {
+              "heading": "Une discontinuité est ressentie",
+              "text": "La personne décrit un décalage entre son intention et ce qui l’envahit.",
+              "examples": [
+                "Évaëlle plaisantait sur la couverture avant cette peur.",
+                "Elle ne reconnaît pas cette peur comme la suite de son projet de classement."
+              ]
+            },
+            {
+              "heading": "La conversation devient coûteuse",
+              "text": "L’émotion intrusive peut occuper l’expérience au point de gêner la poursuite.",
+              "examples": [
+                "Une question sur les suggestions lui devient difficile à suivre.",
+                "Elle pose le livre pour ne plus ajouter une décision au même moment."
+              ]
+            },
+            {
+              "heading": "Une explication immédiate manque",
+              "text": "Le vécu n’offre pas automatiquement sa propre origine.",
+              "examples": [
+                "Évaëlle ne sait pas répondre à la question de Nora.",
+                "Elle peut demander une pause sans raconter un événement du passé."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour répondre au besoin présent",
+          "points": [
+            {
+              "heading": "Nommer la difficulté utile",
+              "objective": "Communiquer sans devoir expliquer une cause.",
+              "exercise": [
+                "Choisir une phrase sur ce qui devient difficile maintenant.",
+                "Dire ce que l’on préfère ne pas détailler.",
+                "Préciser une demande pratique, comme suspendre le tri."
+              ],
+              "benefit": "Le partenaire peut répondre à une demande sans chercher une interprétation."
+            },
+            {
+              "heading": "Choisir la suite ensemble",
+              "objective": "Éviter qu’une liste décide à la place de la personne.",
+              "exercise": [
+                "Regarder les tâches non urgentes qui restent.",
+                "Choisir de les arrêter ou d’en conserver une seule si cela convient.",
+                "Convenir de la manière de laisser le matériel pour la prochaine fois."
+              ],
+              "benefit": "Un arrêt organisé peut préserver le projet sans exiger que l’émotion disparaisse."
+            },
+            {
+              "heading": "Rapporter le vécu au suivi",
+              "objective": "Permettre une discussion clinique contextualisée.",
+              "exercise": [
+                "Décrire la peur avec les mots disponibles.",
+                "Préciser ce qui restait accessible, comme le lieu et les souvenirs.",
+                "Aborder avec la clinicienne le retentissement et les changements utiles."
+              ],
+              "benefit": "La description donne matière à l’évaluation sans transformer une sensation en preuve d’une cause."
+            }
+          ]
+        }
+      ],
+      "ending_title": "La caisse des suggestions attendra",
+      "ending": "Nora accepte d’arrêter le tri. Avant de ranger son carnet, Évaëlle garde une seule décision : les suggestions iront dans la caisse à découvrir. Les livres restent sur la table du coin atelier, où l’équipe a prévu de les conserver. Elle inscrira pour son rendez-vous qu’une peur lui a paru étrangère et l’a empêchée de poursuivre la conversation. Le prochain créneau servira à lire les titres proposés, pas à rattraper toute la séance interrompue.",
+      "conclusion": "L’intrusion affective compte ici par son vécu et son retentissement, même sans explication de son origine. Évaëlle peut arrêter une activité, conserver une décision et apporter sa description au suivi. L’entourage accompagne ce choix sans devoir résoudre l’émotion.",
+      "mirror": [
+        "Nora peut dire : « On arrête le tri ; veux-tu garder seulement la décision sur cette caisse ? » Elle peut aussi accepter un arrêt complet. Répondre à cette demande ne l’oblige pas à deviner pourquoi la peur est arrivée. Éviter les questions sur un souvenir supposé laisse à Évaëlle la possibilité de décrire ce qu’elle sait et ce qu’elle ignore."
+      ],
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "isst-d-2011"
+      ],
+      "continuity": {
+        "choice": "Évaëlle suspend le tri et réserve la caisse à découvrir aux suggestions.",
+        "next": "Les titres déposés seront lus au prochain créneau ; la peur sera décrite au suivi sans cause supposée."
+      }
+    },
+    {
+      "number": 3,
+      "slug": "evaelle-parole-interieure-suggestions",
+      "title": "Parole intérieure envahissante : décrire sans conclure",
+      "description": "Une expérience intérieure coupe la lecture des suggestions. Évaëlle en parle au suivi sans transformer une voix en diagnostic.",
+      "context": "Choisir cinq recommandations",
+      "topics": [
+        "expérience perceptive",
+        "description clinique",
+        "vie privée"
+      ],
+      "clinical_focus": "Une parole intérieure n’est pas un verdict",
+      "diagnostic_stage": "known",
+      "clinical_intro": "Une parole perçue intérieurement peut être intrusive et pénible. Elle ne permet pas, seule, de conclure à un trouble dissociatif de l’identité partiel ou à un autre diagnostic. Dans un suivi déjà établi, décrire sa forme, son contexte et son retentissement aide le professionnel à apprécier l’expérience et les changements éventuels.",
+      "opening": "Évaëlle a disposé les suggestions en deux petites piles. Plusieurs résidents ont écrit seulement un titre ; d’autres ont ajouté une phrase pour expliquer leur choix. Nora lit le nom d’un roman qu’elle ne connaît pas. Évaëlle allait lui demander de regarder si l’auteur figure aussi sur la fiche lorsqu’une brève parole intérieure lui paraît s’imposer. Ce n’est pas, pour elle, la pensée qu’elle était en train de formuler. Elle ne raconte pas son contenu à Nora.\n\nSon amie voit qu’elle s’interrompt et attend. Évaëlle sait qu’elles sont toujours en train de lire les propositions. Elle se souvient de la fiche précédente, mais le titre que Nora vient de prononcer lui échappe au milieu de cette expérience. « Tu peux reprendre le nom du livre ? Juste le nom. » Nora le relit et pose la fiche à plat. Elles ne cherchent ni à susciter une nouvelle parole ni à vérifier d’où elle viendrait.\n\nÉvaëlle garde la fiche pour plus tard et s’arrête après les premières suggestions. Son rendez-vous avec la docteure Salomé Roussel est prévu le lendemain. Elle veut parler de la peur de l’autre séance, puis de ce vécu plus perceptif. Le diagnostic antérieur n’enlève pas la nécessité de décrire précisément ce qui arrive. Dans le carnet vert, elle note seulement « lecture des suggestions interrompue » et deux mots qui lui permettront de poser sa question, sans conserver un enregistrement de son monde intérieur.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "La description précède l’interprétation",
+          "text": "Des expériences perceptives intrusives peuvent être présentes dans différents tableaux cliniques. Leur caractère intérieur ne suffit pas à départager les diagnostics. Le trouble d’Évaëlle a déjà été évalué ; la nouvelle description nourrit ce suivi plutôt qu’un diagnostic improvisé avec Nora. La forme du vécu, ce qui change et ses effets sur l’activité comptent davantage qu’une étiquette choisie à partir d’un seul phénomène."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment l’expérience perceptive gêne-t-elle l’échange ?",
+          "points": [
+            {
+              "heading": "Le vécu paraît s’imposer",
+              "text": "Évaëlle distingue cette parole perçue de son intention de parler.",
+              "examples": [
+                "Elle allait demander le nom de l’auteur.",
+                "Une brève parole intérieure interrompt cette intention sans dialogue recherché."
+              ]
+            },
+            {
+              "heading": "Un élément de la conversation manque",
+              "text": "L’attention disponible pour l’échange peut être réduite sans oubli de l’ensemble du moment.",
+              "examples": [
+                "Évaëlle se rappelle la fiche précédente.",
+                "Elle demande que le titre qui vient d’être lu soit répété."
+              ]
+            },
+            {
+              "heading": "Les interlocuteurs n’ont pas la même information",
+              "text": "Nora ne peut connaître que ce qui est partagé ou visible.",
+              "examples": [
+                "Elle observe une interruption de la lecture.",
+                "La clinicienne reçoit ensuite la description choisie par Évaëlle."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour retrouver un échange accessible",
+          "points": [
+            {
+              "heading": "Reprendre un élément concret",
+              "objective": "Rendre la conversation plus facile à suivre.",
+              "exercise": [
+                "Identifier la dernière information utile que l’on n’a pas saisie.",
+                "Demander qu’elle soit reprise seule.",
+                "Choisir de continuer ou de laisser la fiche pour plus tard."
+              ],
+              "benefit": "Une reprise limitée peut aider la conversation sans agir sur la cause clinique."
+            },
+            {
+              "heading": "Choisir ce que l’on partage",
+              "objective": "Préserver la vie privée dans un projet collectif.",
+              "exercise": [
+                "Dire le besoin pratique à l’amie.",
+                "Indiquer si le contenu intérieur restera privé.",
+                "Réserver les questions cliniques à l’interlocuteur de soin choisi."
+              ],
+              "benefit": "L’aide au projet n’exige pas un accès à toute l’expérience de la personne."
+            },
+            {
+              "heading": "Décrire sans se donner une étiquette",
+              "objective": "Permettre au professionnel d’apprécier le tableau.",
+              "exercise": [
+                "Décrire ce qui a été perçu avec ses propres mots.",
+                "Préciser le contexte et ce que cela a interrompu.",
+                "Signaler les changements et demander les clarifications utiles."
+              ],
+              "benefit": "Le suivi peut examiner l’expérience sans s’appuyer sur une voix comme preuve suffisante."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Cinq titres, après le rendez-vous",
+      "ending": "Au rendez-vous, Évaëlle décrit la peur puis la parole intérieure, sans essayer de faire revenir l’une ou l’autre. La docteure Roussel reprend leur retentissement et les questions pertinentes dans son suivi. Elle ne conclut pas à partir du seul mot voix. Au créneau suivant, Évaëlle retrouve avec Nora les fiches laissées de côté. Elles retiennent cinq titres pour la première table. Il reste maintenant à préparer des cartes sur lesquelles les visiteurs pourront écrire leurs propres recommandations.",
+      "conclusion": "Une parole intérieure envahissante mérite d’être entendue dans son contexte, sans conclusion à partir d’un signe isolé. Évaëlle a pu demander une répétition, préserver son intimité et reprendre la sélection après son rendez-vous. Le projet avance sans devenir un outil diagnostique.",
+      "mirror": [
+        "Nora peut simplement relire le titre demandé et laisser la fiche visible. Elle peut dire : « Tu me dis si tu préfères qu’on s’arrête. » Chercher le contenu de la parole ou lui attribuer une identité dépasserait sa place. Son aide reste celle d’une amie qui participe aux livres ; la description clinique appartient au suivi d’Évaëlle."
+      ],
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "isst-d-2011"
+      ],
+      "continuity": {
+        "choice": "Évaëlle décrit les deux expériences au rendez-vous puis sélectionne cinq titres avec Nora.",
+        "next": "Préparer les cartes de recommandation autour des cinq titres retenus."
+      }
+    },
+    {
+      "number": 4,
+      "slug": "evaelle-geste-et-initiative",
+      "title": "Sentiment d’agentivité : quand son geste paraît étranger",
+      "description": "Évaëlle se souvient d’avoir retourné une carte mais n’éprouve pas le geste comme pleinement initié par elle. Elle en parlera au suivi.",
+      "context": "Disposer les cartes de recommandation",
+      "topics": [
+        "sentiment d’agentivité",
+        "vécu du geste",
+        "pause choisie"
+      ],
+      "clinical_focus": "Agir sans reconnaître pleinement son geste",
+      "diagnostic_stage": "known",
+      "clinical_intro": "Le sentiment d’agentivité désigne l’expérience d’être à l’origine de ses actions. Il peut être perturbé dans certains troubles dissociatifs : un geste dont on se souvient peut paraître étranger à sa propre initiative. Ce vécu subjectif ne prouve pas l’existence d’une autre personne et ne permet pas, seul, de poser un diagnostic.",
+      "opening": "Les cinq titres retenus sont recopiés sur la page de gauche du carnet vert. Sur celle de droite, Évaëlle a dessiné un rectangle pour décider de la taille des cartes. Elle voudrait laisser assez de place pour une recommandation courte, sans transformer chaque visiteur en critique littéraire. Nora a apporté du papier épais. Elles préparent un premier exemplaire avant de découper le reste.\n\nÉvaëlle prend une carte et pense écrire le nom du premier livre. Elle la retourne pourtant sur sa face vierge. Elle voit le geste, s’en souvient aussitôt, mais éprouve un décalage : il ne lui paraît pas venir pleinement de l’initiative qu’elle reconnaissait juste avant. La carte n’a rien de dangereux ; c’est cette impression intérieure qui la dérange. Elle ne cherche pas à la retourner plusieurs fois pour comprendre ou vérifier ce qui s’est passé.\n\nNora demande où déposer les autres cartes. Évaëlle répond après un moment : « Sur la table. J’ai besoin de ralentir. » Elle pourrait laisser son amie croire à une simple hésitation de mise en page. Elle choisit plutôt de dire qu’un geste lui a paru étrange, sans donner davantage de détails. Les livres sont prêts, le papier peut attendre. Elle pense à son prochain échange avec la docteure Roussel : comment raconter qu’elle se rappelle exactement une action tout en ayant eu du mal à la ressentir comme la sienne ?",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Faire un geste et se sentir son auteur sont deux dimensions",
+          "text": "Une perturbation du sentiment d’agentivité concerne la manière dont une action est vécue, pas seulement ce qui est observable. Évaëlle sait qu’elle a retourné la carte et conserve le souvenir de ce moment. Son impression de ne pas avoir pleinement initié le mouvement est un vécu à décrire dans son suivi. Elle n’attribue pas ce geste à un individu séparé et Nora ne peut en déduire une cause."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment le décalage d’agentivité apparaît-il dans ce moment ?",
+          "points": [
+            {
+              "heading": "L’intention et le vécu divergent",
+              "text": "L’action ne s’accompagne pas du sentiment habituel de l’avoir décidée.",
+              "examples": [
+                "Évaëlle prévoyait d’écrire un titre.",
+                "Retourner la carte lui paraît étranger à cette initiative."
+              ]
+            },
+            {
+              "heading": "Le souvenir reste disponible",
+              "text": "L’étrangeté d’un geste ne signifie pas que toute mémoire de l’action disparaît.",
+              "examples": [
+                "Elle se rappelle avoir vu la carte se retourner.",
+                "Elle sait ce que Nora lui a demandé ensuite."
+              ]
+            },
+            {
+              "heading": "Le travail est ralenti",
+              "text": "Une expérience brève peut suffire à rendre la poursuite inconfortable.",
+              "examples": [
+                "Évaëlle laisse la pile sur la table.",
+                "Elle préfère reporter la préparation des cartes plutôt que répéter le geste."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour décrire le décalage sans le provoquer",
+          "points": [
+            {
+              "heading": "Séparer action et impression",
+              "objective": "Trouver une formulation précise.",
+              "exercise": [
+                "Nommer ce qui s’est passé matériellement.",
+                "Décrire l’impression ressentie sans lui attribuer un auteur caché.",
+                "Laisser ouverte la question de son explication."
+              ],
+              "benefit": "Cette distinction peut rendre le vécu communicable sans le transformer en preuve."
+            },
+            {
+              "heading": "Suspendre la tâche non urgente",
+              "objective": "Conserver le choix de la suite.",
+              "exercise": [
+                "Poser le matériel dans l’espace prévu.",
+                "Dire à la personne présente ce qui est reporté.",
+                "Choisir une reprise ultérieure ou une autre tâche simple si souhaité."
+              ],
+              "benefit": "La pause évite d’utiliser la répétition du geste comme une épreuve de contrôle."
+            },
+            {
+              "heading": "Porter la question au suivi",
+              "objective": "Demander une explication individualisée.",
+              "exercise": [
+                "Retenir un exemple bref sans journal exhaustif.",
+                "Préciser que le souvenir de ce moment est présent.",
+                "Discuter avec la clinicienne du vécu et de son retentissement."
+              ],
+              "benefit": "Le suivi peut travailler la question sans qu’un proche interprète l’action."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Les cartes restent sur la table",
+      "ending": "Évaëlle renonce aux découpes pour cette séance. Nora accepte de garder le papier pour leur prochain créneau. Ensemble, elles vérifient seulement l’orthographe des cinq titres, puis s’arrêtent. Dans le carnet vert, Évaëlle écrit une question destinée au suivi : « Je me souviens du geste ; pourquoi m’a-t-il paru étranger ? » Elle ne dessine pas une histoire cachée autour de la carte. Cette question, telle qu’elle est, lui paraît suffisante pour le prochain rendez-vous.",
+      "conclusion": "Le sentiment d’agentivité peut être altéré alors que la mémoire reste présente. Une description du geste et du vécu permet ici de formuler une question sans la résoudre artificiellement. Évaëlle garde la décision de reporter les cartes et d’en parler dans son suivi.",
+      "mirror": [
+        "Nora peut répondre : « Je laisse le papier ici, on n’a pas besoin de finir aujourd’hui. » Elle n’a pas à demander à Évaëlle de recommencer le geste pour voir ce qui se passe. Accepter une pause et une explication partielle suffit à leur travail commun ; le rôle de l’amie n’est pas de tester l’agentivité."
+      ],
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "isst-d-2011"
+      ],
+      "continuity": {
+        "choice": "Évaëlle reporte les cartes et note une question sur le souvenir conservé du geste.",
+        "next": "Au suivi, elle interroge le lien entre mémoire présente et réalité de la difficulté."
+      }
+    },
+    {
+      "number": 5,
+      "slug": "evaelle-memoire-presente",
+      "title": "Mémoire conservée : une difficulté peut rester réelle",
+      "description": "Évaëlle se rappelle la carte retournée et doute de la légitimité de son vécu. La consultation distingue mémoire et agentivité.",
+      "context": "Reprendre une question au suivi",
+      "topics": [
+        "mémoire conservée",
+        "agentivité",
+        "clarification clinique"
+      ],
+      "clinical_focus": "La mémoire peut rester présente",
+      "diagnostic_stage": "known",
+      "clinical_intro": "Dans le trouble dissociatif de l’identité partiel, de nombreuses intrusions surviennent sans amnésie. Le souvenir d’une scène n’annule donc pas automatiquement sa difficulté. Il ne confirme pas non plus, à lui seul, un diagnostic. Mémoire, sentiment d’agentivité et retentissement sont des dimensions que le professionnel examine dans l’ensemble de la situation.",
+      "opening": "Le carnet vert est ouvert entre Évaëlle et la docteure Roussel. Il contient cinq titres de livres, un dessin de carte et la question écrite après la séance avec Nora. Évaëlle peut raconter ce moment : le papier épais, la face retournée, la demande concernant la pile, puis leur vérification des noms d’auteurs. Elle n’a pas besoin de retrouver des heures manquantes pour décrire ce qui l’a troublée.\n\n« Puisque je me rappelle tout ça, est-ce que je n’en fais pas trop ? » La question lui paraît gênante une fois prononcée. Elle sait que le diagnostic a été posé avant le projet, au terme d’une évaluation. Pourtant, lorsqu’elle termine une tâche ou se souvient d’un échange, elle se demande si sa difficulté est assez réelle pour en parler. Elle voudrait une explication claire, pas une nouvelle expérience plus spectaculaire qui viendrait la convaincre.\n\nLa clinicienne lui demande de distinguer ce dont elle se souvient et la manière dont elle a vécu le geste. Évaëlle répond que la carte a été retournée par sa main, mais que l’initiative lui a semblé étrangère. La distinction lui donne une phrase plus précise. Le rendez-vous n’est pas un examen de mémoire improvisé. Elle a aussi un sujet pratique : Malik souhaite fixer l’horaire de l’échange de livres. Avant de confirmer la réunion, elle veut savoir si elle peut conserver cette question clinique sans fouiller davantage chaque détail de la séance.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Mémoire et sentiment d’agentivité ne se confondent pas",
+          "text": "La conservation du souvenir et le sentiment d’être à l’origine de son action décrivent des fonctions différentes. Dans le trouble dissociatif de l’identité partiel, les intrusions peuvent survenir sans amnésie. Cela ne rend pas toute expérience d’étrangeté diagnostique. Pour Évaëlle, la clarification porte sur un tableau déjà évalué : elle n’a pas à produire une lacune ni à surveiller tous ses souvenirs pour que la question mérite d’être entendue."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment une mémoire présente peut-elle coexister avec la difficulté ?",
+          "points": [
+            {
+              "heading": "Les faits restent racontables",
+              "text": "La personne peut retrouver les éléments de ce moment qui l’a gênée.",
+              "examples": [
+                "Évaëlle se rappelle la carte et le papier épais.",
+                "Elle rapporte la question de Nora sur la pile."
+              ]
+            },
+            {
+              "heading": "Le vécu du geste diffère du souvenir",
+              "text": "Savoir ce qui s’est passé ne résout pas nécessairement l’impression intérieure.",
+              "examples": [
+                "Elle sait que sa main a retourné la carte.",
+                "L’initiative lui a pourtant semblé étrangère à son intention."
+              ]
+            },
+            {
+              "heading": "Le doute ajoute une charge",
+              "text": "Des représentations trop étroites du trouble peuvent faire minimiser le retentissement.",
+              "examples": [
+                "Évaëlle se demande si elle en fait trop.",
+                "Elle hésite à poser sa question puisqu’elle se souvient de ce moment."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour clarifier sans tester sa mémoire",
+          "points": [
+            {
+              "heading": "Distinguer les deux questions",
+              "objective": "Éviter que le souvenir efface le vécu.",
+              "exercise": [
+                "Décrire les faits dont on se souvient.",
+                "Décrire séparément ce qui a paru difficile ou étranger.",
+                "Accepter de ne pas expliquer seul leur relation."
+              ],
+              "benefit": "Une distinction simple peut préparer un dialogue plus précis."
+            },
+            {
+              "heading": "Demander une clarification clinique",
+              "objective": "Comprendre le diagnostic déjà évalué.",
+              "exercise": [
+                "Apporter un exemple concret au rendez-vous.",
+                "Demander comment mémoire et agentivité s’articulent dans sa situation.",
+                "Reformuler ce que l’on a compris et signaler ce qui reste flou."
+              ],
+              "benefit": "Le professionnel peut adapter son explication sans que la personne cherche un symptôme supplémentaire."
+            },
+            {
+              "heading": "Garder un carnet pratique",
+              "objective": "Éviter une enquête permanente sur chaque moment.",
+              "exercise": [
+                "Conserver les tâches et questions réellement utiles.",
+                "Renoncer aux reconstitutions destinées à découvrir une lacune.",
+                "Revoir avec le suivi l’usage du carnet s’il devient envahissant."
+              ],
+              "benefit": "Le support peut servir l’organisation plutôt qu’une recherche de preuve clinique."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Une réunion peut être confirmée",
+      "ending": "La docteure Roussel explique que la mémoire conservée n’invalide pas les intrusions décrites dans ce trouble, sans en faire un critère suffisant à elle seule. Évaëlle garde cette distinction. Elle referme son carnet sans ajouter de relevé de ses souvenirs. Plus tard, elle confirme à Malik une réunion sur l’horaire du projet. Elle note ce qu’elle veut y discuter : préparer les livres, assurer un accueil limité et ne pas rester seule pour la fermeture.",
+      "conclusion": "La mémoire présente ne tranche pas à elle seule la réalité ni la nature d’une difficulté. Évaëlle repart avec une question clarifiée, sans devoir chercher une absence. Son carnet revient à son usage choisi : préparer le projet et les points à discuter.",
+      "mirror": [
+        "Nora n’a pas à demander une preuve d’oubli pour reconnaître que la séance a coûté un effort. Elle peut dire : « Tu te souviens de ce moment et tu l’as mal vécu ; je peux entendre les deux. » Son soutien ne remplace pas l’explication clinique. Elle peut reprendre les cartes avec Évaëlle sans transformer leurs échanges en tests de mémoire."
+      ],
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-hrb"
+      ],
+      "continuity": {
+        "choice": "Évaëlle comprend la distinction mémoire-agentivité et confirme la réunion en souhaitant un relais de fermeture.",
+        "next": "La réunion précise horaires et relais ; la limite sur la fermeture reste à discuter."
+      }
+    },
+    {
+      "number": 6,
+      "slug": "evaelle-passage-incertain-reunion",
+      "title": "Passage incertain : suspendre un engagement et demander un avis",
+      "description": "Après une réunion éprouvante, Évaëlle ne peut confirmer un créneau. Elle contacte sa clinicienne et laisse le souvenir incertain.",
+      "context": "Réunion sur les horaires",
+      "topics": [
+        "incertitude du souvenir",
+        "réévaluation",
+        "engagement actuel"
+      ],
+      "clinical_focus": "Un passage bref demande une réévaluation",
+      "diagnostic_stage": "known",
+      "clinical_intro": "Un passage bref dont le souvenir est incertain mérite d’être décrit et évalué, même lorsqu’un trouble dissociatif est déjà connu. Il ne suffit pas à prouver une amnésie ni à en déterminer la cause. Suspendre une décision non urgente et demander un avis permet de traiter séparément l’organisation actuelle et la question clinique.",
+      "opening": "Malik pose le planning au milieu de la table. L’échange de livres doit se tenir un samedi, lorsque plusieurs résidents pourront passer après leur travail. Évaëlle a apporté ses cinq titres et la liste des caisses. Elle rappelle qu’elle peut préparer la table mais ne souhaite pas assurer seule la fermeture. La première proposition lui semble compatible avec cette limite.\n\nPuis les demandes s’ajoutent. Une collègue suggère de prolonger l’accueil ; quelqu’un demande qui restera pour les retardataires. Évaëlle se sent submergée par une émotion très intense. Elle reste dans la pièce, mais ne sait plus précisément, ensuite, comment un bref passage de la discussion s’est conclu. Ce n’est pas une longue période disparue. Elle se rappelle le début de la réunion et la feuille rangée à la fin, sans pouvoir confirmer les mots échangés au milieu.\n\nEn recevant le planning, elle découvre son prénom sur un créneau tardif. Elle ne peut affirmer qu’elle l’a accepté, ni reconstruire ce qu’elle aurait dit. Elle n’attribue l’accord à personne d’autre en elle. « Je ne peux pas valider cette fermeture », écrit-elle à Malik. Le projet n’ouvre pas aujourd’hui ; cette décision peut attendre. Elle contacte le cabinet de la docteure Roussel selon les modalités de son suivi et obtient un échange clinique. Le planning sera revu après, sans demander aux collègues de l’aider à fabriquer un souvenir convaincant.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "L’incertitude demande une évaluation propre",
+          "text": "Dans le trouble dissociatif de l’identité partiel, certains passages amnésiques peuvent être brefs et limités à des circonstances particulières. Mais un souvenir incertain n’en établit pas la présence ni la cause. Évaëlle apporte ici un changement à son suivi. La clinicienne examine la situation et les autres explications possibles ; le diagnostic antérieur ne dispense pas de cette appréciation. La décision de travail peut être revue à partir de sa disponibilité actuelle, sans résoudre le souvenir."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment distinguer souvenir incertain et engagement présent ?",
+          "points": [
+            {
+              "heading": "Le passage reste circonscrit",
+              "text": "Un souvenir incertain peut concerner un passage bref, sans signifier que toute la réunion a été oubliée.",
+              "examples": [
+                "Évaëlle se souvient du début de la réunion.",
+                "Elle ne retrouve pas précisément la conclusion d’un bref échange."
+              ]
+            },
+            {
+              "heading": "Le document ne révèle pas tout",
+              "text": "Une trace d’organisation indique une affectation, pas son origine certaine.",
+              "examples": [
+                "Le planning comporte le prénom d’Évaëlle.",
+                "Cette inscription ne lui permet pas de confirmer les mots qu’elle aurait prononcés."
+              ]
+            },
+            {
+              "heading": "La limite actuelle peut être formulée",
+              "text": "Un besoin pratique ne dépend pas d’une reconstitution réussie.",
+              "examples": [
+                "Évaëlle indique qu’elle ne peut pas assurer la fermeture.",
+                "Elle suspend la validation pendant la réévaluation clinique."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour traiter l’incertitude sans la combler",
+          "points": [
+            {
+              "heading": "Suspendre la décision non urgente",
+              "objective": "Éviter qu’un accord incertain soit maintenu par défaut.",
+              "exercise": [
+                "Identifier l’engagement que l’on ne peut confirmer.",
+                "Prévenir l’interlocuteur qu’il doit être revu.",
+                "Demander une nouvelle répartition à partir des disponibilités actuelles."
+              ],
+              "benefit": "Le projet peut être corrigé sans exiger un souvenir complet."
+            },
+            {
+              "heading": "Séparer faits et inconnues",
+              "objective": "Préserver une description fidèle.",
+              "exercise": [
+                "Nommer la trace disponible, comme le planning.",
+                "Dire ce dont on se souvient personnellement.",
+                "Laisser le reste inconnu sans questions suggestives ni tentative de reconstruction."
+              ],
+              "benefit": "Cette séparation limite les certitudes fabriquées et prépare l’entretien clinique."
+            },
+            {
+              "heading": "Demander une réévaluation",
+              "objective": "Ne pas expliquer automatiquement un changement par le diagnostic connu.",
+              "exercise": [
+                "Contacter le suivi selon les modalités convenues.",
+                "Décrire le passage, son contexte et les changements associés.",
+                "Suivre les indications individualisées et les modalités de nouveau contact données."
+              ],
+              "benefit": "Le professionnel peut apprécier les explications possibles et le besoin de soins adaptés."
+            }
+          ]
+        }
+      ],
+      "ending_title": "La fermeture n’est pas confirmée",
+      "ending": "Pendant l’échange clinique, Évaëlle décrit la réunion et le bref passage incertain. La docteure Roussel reprend notamment le contexte, le sommeil, les traitements ou substances éventuels et les éléments médicaux pertinents, sans conclure ici que tout relève du diagnostic connu. Elles conviennent de la suite du suivi et de ce qui justifierait un nouveau contact. Évaëlle suit ces indications. Elle réécrit ensuite à Malik : sa présence tardive ne peut pas être confirmée, il faut un autre relais. Ce dont elle ne se souvient pas reste incertain.",
+      "conclusion": "Un diagnostic connu ne donne pas une explication automatique à chaque passage incertain. Évaëlle a obtenu un échange clinique et suspendu une décision de travail. La fermeture doit être réorganisée ; la mémoire n’a pas à être complétée pour rendre cette limite valable.",
+      "mirror": [
+        "Malik peut répondre : « Je retire ta confirmation pour ce créneau et je cherche un autre relais. » Il peut conserver les faits d’organisation sans interroger Évaëlle sur ce qu’une autre identité aurait dit. S’il décrit un échange observé, il distingue ses souvenirs de ses interprétations. La réévaluation appartient au suivi ; le planning peut attendre une décision actuelle explicite."
+      ],
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "isst-d-2011"
+      ],
+      "continuity": {
+        "choice": "Évaëlle bénéficie d’un échange clinique et retire la validation de la fermeture, sans reconstruire le passage.",
+        "next": "Malik doit confirmer un relais ; Évaëlle souhaite clarifier le terme partiel dans son diagnostic."
+      }
+    },
+    {
+      "number": 7,
+      "slug": "evaelle-partiel-retentissement",
+      "title": "Trouble partiel : le mot ne mesure pas la difficulté",
+      "description": "Un relais est trouvé, mais une remarque minimise le trouble d’Évaëlle. Elle clarifie le terme et confirme ses limites de travail.",
+      "context": "Fixer une répartition réaliste",
+      "topics": [
+        "périmètre du diagnostic",
+        "retentissement",
+        "limites de charge"
+      ],
+      "clinical_focus": "Partiel ne veut pas dire sans retentissement",
+      "diagnostic_stage": "known",
+      "clinical_intro": "Le terme partiel, dans le trouble dissociatif de l’identité partiel, ne signifie pas que le retentissement est forcément léger. Il décrit une organisation clinique particulière, évaluée par un professionnel. Comprendre ce vocabulaire peut aider à ne pas mesurer les besoins d’une personne à un adjectif ni exiger une manifestation spectaculaire pour les reconnaître.",
+      "opening": "Le message de Malik arrive le lendemain de l’échange clinique. Lucie, une collègue de l’équipe, pourra assurer la fermeture du samedi. Le créneau tardif ne sera donc pas maintenu au nom d’Évaëlle. Elle relit cette phrase deux fois, soulagée que la décision d’organisation avance sans que l’on tente de régler la question du souvenir à sa place.\n\nAu foyer, une personne qui connaît l’intitulé de son diagnostic glisse pourtant une remarque : puisque c’est partiel, cela devrait être moins difficile à gérer. Évaëlle ne se sent pas disponible pour expliquer son dossier dans le couloir. Elle répond qu’elle a donné ses disponibilités et rejoint le coin atelier. Le planning est corrigé, mais cette phrase lui reste. Elle se demande si elle devra paraître beaucoup plus mal pour que la limite soit comprise la prochaine fois.\n\nAu rendez-vous de suivi convenu après la réunion, elle pose la question à la docteure Roussel. Elle ne demande pas un autre diagnostic pour faire taire le commentaire. Elle veut comprendre ce que le mot désigne réellement. Le bref passage de la réunion est repris dans le suivi, avec l’incertitude conservée. Évaëlle précise qu’elle souhaite toujours préparer les livres et accueillir les premières personnes. Elle ne veut ni abandonner tout le projet ni promettre la journée entière. Il reste à inscrire cette présence limitée dans le planning collectif avant d’imprimer l’affiche.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Une distinction clinique, pas un classement simple de gravité",
+          "text": "Le trouble dissociatif de l’identité partiel se distingue notamment par un état dominant qui assure le quotidien, tandis que les autres états n’en prennent pas répétitivement la charge. Cette distinction clinique ne signifie pas absence de souffrance ou de limitation. Les manifestations peuvent rester intérieures et très coûteuses. Une remarque sur le mot partiel ne permet donc pas de décider ce qu’Évaëlle devrait être capable d’assurer."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment la minimisation affecte-t-elle la répartition ?",
+          "points": [
+            {
+              "heading": "Le vocabulaire devient un jugement",
+              "text": "Un terme diagnostique est interprété comme une mesure directe des capacités.",
+              "examples": [
+                "Une personne suppose que partiel veut dire facile.",
+                "Évaëlle craint de devoir paraître plus mal pour être entendue."
+              ]
+            },
+            {
+              "heading": "Le besoin pratique reste le même",
+              "text": "Une explication du diagnostic ne remplace pas les disponibilités exprimées.",
+              "examples": [
+                "Évaëlle souhaite préparer les livres.",
+                "Elle ne confirme toujours pas la fermeture."
+              ]
+            },
+            {
+              "heading": "Une clarification peut rester privée",
+              "text": "Le professionnel peut expliquer sans imposer un cours à l’entourage.",
+              "examples": [
+                "La question est abordée avec la docteure Roussel.",
+                "Malik reçoit la répartition, pas le détail clinique du rendez-vous."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour préciser les mots et les limites",
+          "points": [
+            {
+              "heading": "Demander le sens du terme",
+              "objective": "Comprendre sans se comparer à des récits spectaculaires.",
+              "exercise": [
+                "Nommer l’expression qui pose question au suivi.",
+                "Demander ce qu’elle décrit dans le diagnostic.",
+                "Vérifier séparément ce qui concerne le retentissement individuel."
+              ],
+              "benefit": "La clarification peut éviter de confondre une catégorie clinique avec un jugement de gravité."
+            },
+            {
+              "heading": "Formuler la charge possible",
+              "objective": "Maintenir une limite sans devoir dévoiler le dossier.",
+              "exercise": [
+                "Dire les tâches que l’on peut prendre.",
+                "Dire celles que l’on ne confirme pas.",
+                "Demander que l’organisation soit bâtie sur cette réponse actuelle."
+              ],
+              "benefit": "La décision devient utilisable pour l’équipe sans débat public sur les symptômes."
+            },
+            {
+              "heading": "Confirmer la répartition",
+              "objective": "Donner aux engagements un support partagé.",
+              "exercise": [
+                "Vérifier qui assure chaque créneau.",
+                "Faire corriger le planning si un nom est ajouté sans confirmation.",
+                "Garder la version commune pour préparer l’affiche."
+              ],
+              "benefit": "Une trace actuelle peut réduire les malentendus pratiques ; elle ne résout pas le trouble."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Une demi-heure d’accueil, une fermeture assurée",
+      "ending": "Après la clarification clinique, Évaëlle écrit à Malik qu’elle préparera la table et assurera un accueil de trente minutes. Malik confirme que l’équipe couvrira la suite et que Lucie fera la fermeture. Le planning porte désormais les engagements acceptés. Évaëlle peut préparer l’affiche avec Nora. Elle n’a pas obtenu la certitude que chacun comprendra son trouble ; elle a obtenu une répartition qui n’exige pas de l’expliquer dans chaque couloir.",
+      "conclusion": "Le mot partiel ne suffit pas à mesurer le retentissement d’un trouble. Évaëlle a demandé une explication clinique et maintenu une limite concrète. Le projet peut avancer à partir d’engagements confirmés, sans crise visible exigée comme justificatif.",
+      "mirror": [
+        "Malik peut dire : « J’ai noté trente minutes d’accueil et Lucie pour la fermeture. » Il n’a pas à décider si le terme partiel justifie cette limite. Une personne de l’entourage qui a minimisé peut reconnaître sa méprise simplement, puis demander quelle aide pratique convient. Évaëlle reste libre de ne pas transformer ce moment en explication médicale."
+      ],
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "isst-d-2011"
+      ],
+      "continuity": {
+        "choice": "Évaëlle confirme trente minutes d’accueil ; Malik valide l’équipe pour la suite et Lucie pour la fermeture.",
+        "next": "L’affiche peut être préparée ; une question de Nora sur l’origine de la peur demandera une limite privée."
+      }
+    },
+    {
+      "number": 8,
+      "slug": "evaelle-origine-non-deduite",
+      "title": "Origine d’un vécu : ne pas fabriquer une histoire",
+      "description": "Nora interroge l’origine d’une peur. Évaëlle pose une limite : une sensation ne lui donne pas le récit certain d’un passé.",
+      "context": "Créer l’affiche de l’échange",
+      "topics": [
+        "limites de connaissance",
+        "vie privée",
+        "questions non suggestives"
+      ],
+      "clinical_focus": "Une origine ne se déduit pas du vécu",
+      "diagnostic_stage": "known",
+      "clinical_intro": "Une émotion, une image ou un passage incertain ne permet pas de déduire un événement passé précis. Les associations décrites entre traumatismes et troubles dissociatifs ne constituent pas la preuve d’une histoire individuelle cachée. Respecter ce que la personne sait, ignore ou souhaite garder privé évite de transformer le soutien en enquête suggestive.",
+      "opening": "Nora étale deux feuilles sur la table : une blanche et une orange. Évaëlle rit en voyant le choix proposé. L’horaire de l’échange est maintenant confirmé par l’équipe ; Lucie assurera la fermeture, et Évaëlle accueillera les premières personnes pendant trente minutes. Il leur reste à écrire un titre lisible et à rappeler les trois catégories. Les cartes de recommandation pourront être terminées ensuite, au même format que le premier modèle.\n\nEn cherchant la taille des lettres, Nora revient à la séance de tri interrompue par la peur. Elle demande doucement si cette sensation signifie qu’un événement ancien est en train de revenir. Elle pense peut-être proposer une explication utile. Évaëlle sent pourtant qu’une histoire commence à être suggérée alors qu’elle n’en a raconté aucune. Elle connaît cette peur comme une expérience vécue, pas comme la preuve d’une scène passée.\n\n« Je ne veux pas chercher une histoire à partir de ça. » Nora baisse son crayon. Évaëlle ajoute qu’elle peut parler de ses questions avec la docteure Roussel, et qu’elle n’a pas envie de mener cette recherche autour de l’affiche. Elle ne sait pas tout expliquer et ne veut pas devoir inventer pour combler ce manque. Le silence est un peu embarrassé. Les feuilles restent entre elles ; Évaëlle espère que leur travail sur les livres pourra continuer sans que son refus soit pris pour un rejet de l’amitié.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Une association générale ne prouve pas un passé individuel",
+          "text": "Des associations entre expériences traumatiques et troubles dissociatifs sont décrites dans les références cliniques. Elles ne permettent pas de conclure qu’une sensation particulière révèle un événement précis. Une émotion intense n’est pas une preuve de souvenir retrouvé. Évaëlle choisit de ne pas attribuer à sa peur une origine qu’elle ne connaît pas. Le diagnostic connu ne lui impose pas de raconter un trauma à Nora pour rendre ses difficultés légitimes."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment une question peut-elle dépasser ce qui est connu ?",
+          "points": [
+            {
+              "heading": "Le vécu reçoit une origine supposée",
+              "text": "Une hypothèse peut être présentée trop vite comme une explication.",
+              "examples": [
+                "Nora relie la peur à un événement ancien possible.",
+                "Évaëlle n’a pourtant décrit aucune scène de ce type."
+              ]
+            },
+            {
+              "heading": "L’absence de récit devient inconfortable",
+              "text": "La personne peut ressentir une pression à combler l’inconnu.",
+              "examples": [
+                "Évaëlle craint de devoir inventer une histoire satisfaisante.",
+                "Elle préfère dire qu’elle ne veut pas chercher à partir de cette sensation."
+              ]
+            },
+            {
+              "heading": "La relation a besoin d’une limite",
+              "text": "Préserver l’amitié peut demander d’arrêter certains sujets.",
+              "examples": [
+                "Évaëlle réserve ses questions de soin au suivi.",
+                "Elle souhaite reprendre les mots de l’affiche avec Nora."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour respecter l’inconnu et l’intimité",
+          "points": [
+            {
+              "heading": "Dire ce que l’on sait et ce que l’on ignore",
+              "objective": "Éviter une explication imposée.",
+              "exercise": [
+                "Décrire seulement le vécu que l’on souhaite partager.",
+                "Dire que son origine n’est pas établie.",
+                "Refuser de compléter l’histoire pour répondre à une attente."
+              ],
+              "benefit": "L’incertitude peut être maintenue sans rendre l’expérience moins digne d’écoute."
+            },
+            {
+              "heading": "Arrêter une question suggestive",
+              "objective": "Préserver une frontière dans le dialogue.",
+              "exercise": [
+                "Nommer le sujet que l’on ne veut pas explorer.",
+                "Demander de ne pas proposer de scènes ou de causes.",
+                "Choisir de revenir à une activité commune ou de terminer l’échange."
+              ],
+              "benefit": "Une limite explicite peut permettre de continuer la relation sans enquête."
+            },
+            {
+              "heading": "Garder les questions de soin au suivi",
+              "objective": "Éviter que l’amie devienne une enquêtrice.",
+              "exercise": [
+                "Noter une question seulement si elle importe pour soi.",
+                "L’aborder avec le professionnel sans chercher à provoquer des souvenirs.",
+                "Discuter des besoins actuels et des limites de ce qui peut être établi."
+              ],
+              "benefit": "Un cadre clinique prudent ne transforme pas les sensations en faits historiques certains."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Livres à partager",
+      "ending": "Nora dit qu’elle comprend et retire sa proposition d’explication. « On revient au titre ? » Évaëlle choisit « Livres à partager », puis la feuille orange. Elles y inscrivent l’horaire collectif et les trois catégories : à donner, à découvrir, à reprendre. La peur de l’autre séance n’a pas reçu une origine. Leur travail peut néanmoins se terminer. Évaëlle emporte l’affiche pour vérifier avec Malik qu’elle correspond au planning validé.",
+      "conclusion": "L’origine d’un vécu ne se déduit pas d’une sensation ni d’une association statistique. Ici, une limite entendue permet de poursuivre une activité commune sans inventer le passé. L’aide de Nora reste disponible pour le projet, sans récit intime exigé en contrepartie.",
+      "mirror": [
+        "Nora peut reconnaître : « J’ai proposé une explication que je ne pouvais pas savoir. Je n’insiste pas. » Elle n’a pas besoin de remplacer cette hypothèse par une autre. Revenir aux mots de l’affiche montre concrètement qu’elle respecte la limite. Évaëlle peut garder des questions pour le suivi ou ne pas souhaiter les explorer à ce moment-là."
+      ],
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "isst-d-2011"
+      ],
+      "continuity": {
+        "choice": "Évaëlle refuse une origine supposée ; Nora accepte et elles terminent l’affiche orange.",
+        "next": "La liste des tâches doit maintenant être confrontée à la disponibilité réelle d’Évaëlle."
+      }
+    },
+    {
+      "number": 9,
+      "slug": "evaelle-cout-du-quotidien",
+      "title": "Tâche accomplie : l’effort peut rester invisible",
+      "description": "L’affiche est prête, mais Évaëlle n’a plus de marge pour tout installer. Elle distingue le résultat du coût de la journée.",
+      "context": "Répartir les dernières tâches",
+      "topics": [
+        "retentissement quotidien",
+        "effort invisible",
+        "priorités"
+      ],
+      "clinical_focus": "Tenir le quotidien coûte un effort",
+      "diagnostic_stage": "known",
+      "clinical_intro": "Une tâche menée à terme ne renseigne pas, à elle seule, sur l’effort qu’elle a demandé. Des symptômes intérieurs peuvent rendre le quotidien coûteux alors que le résultat paraît ordinaire. Évaluer la disponibilité restante et discuter du retentissement dans le suivi permet de ne pas mesurer le bien-être au seul nombre de tâches accomplies.",
+      "opening": "Malik tient l’affiche orange à bout de bras pour vérifier qu’on peut lire l’horaire depuis le couloir. Il trouve le résultat clair. Les trois catégories figurent en bas. Au créneau suivant la création de l’affiche, Nora a découpé les cartes et Évaëlle y a recopié les cinq recommandations. « Ça avance bien », dit-il. Évaëlle est contente qu’il remarque son travail. Elle voudrait pouvoir s’arrêter sur ce plaisir simple.\n\nIl lui demande ensuite si elle peut aussi installer les caisses et préparer toute la table la veille. Puisque l’affiche est terminée, cette étape lui semble accessible. Évaëlle ne répond pas immédiatement. Les interruptions intérieures des derniers jours, les reprises de phrases et les questions portées au suivi lui ont demandé un effort que le papier orange ne montre pas. Elle a produit l’affiche, mais n’en conclut pas qu’elle dispose encore de la même énergie.\n\nLe soir, en regardant sa liste, elle constate que la mise en place prendrait précisément la marge qu’elle voulait garder avant l’accueil. Elle n’a pas annulé son projet et ne veut pas effacer ce qu’elle a fait. Elle veut distinguer ce qui est terminé de ce qu’elle peut ajouter. Dans son carnet vert, elle entoure seulement le choix des recommandations. Puis elle prépare un message à Malik : la disposition des caisses doit être confiée à quelqu’un d’autre. Elle parlera aussi de ce coût des journées à la docteure Roussel, au lieu d’attendre une tâche ratée pour le signaler.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Le fonctionnement visible ne résume pas le retentissement",
+          "text": "Le retentissement d’un trouble comprend les limitations et l’effort associés au quotidien, pas uniquement les tâches abandonnées. Les intrusions décrites par Évaëlle peuvent imposer des reprises qui restent invisibles dans le résultat final. Déléguer une installation est une adaptation concertée, sans efficacité thérapeutique démontrée à elle seule. Les soins et leurs objectifs restent individualisés avec la clinicienne ; une liste de tâches n’en tient pas lieu."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment le coût du quotidien peut-il rester caché ?",
+          "points": [
+            {
+              "heading": "Le résultat paraît ordinaire",
+              "text": "L’objet terminé ne porte pas la trace de tous les efforts nécessaires.",
+              "examples": [
+                "L’affiche est lisible et prête à être posée.",
+                "Elle ne montre pas les moments où Évaëlle a dû reprendre son fil."
+              ]
+            },
+            {
+              "heading": "La disponibilité est surestimée",
+              "text": "Une réussite peut entraîner de nouvelles demandes automatiques.",
+              "examples": [
+                "Malik propose la mise en place complète après l’affiche.",
+                "Évaëlle sait pourtant que sa marge pour la veille est réduite."
+              ]
+            },
+            {
+              "heading": "Le besoin de soutien arrive avant l’échec",
+              "text": "Une limite peut être posée alors que les engagements précédents ont été tenus.",
+              "examples": [
+                "Elle conserve les recommandations qu’elle a choisies.",
+                "Elle demande une autre personne pour disposer les caisses."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour adapter la charge restante",
+          "points": [
+            {
+              "heading": "Distinguer résultat et marge",
+              "objective": "Ne pas confondre tâche finie et disponibilité illimitée.",
+              "exercise": [
+                "Nommer ce qui a réellement été accompli.",
+                "Regarder ce que la prochaine tâche demanderait.",
+                "Dire ce que l’on peut encore prendre ou non."
+              ],
+              "benefit": "La répartition peut tenir compte de la situation présente sans dévaloriser le travail fait."
+            },
+            {
+              "heading": "Prioriser avec l’équipe",
+              "objective": "Réduire une charge concrète.",
+              "exercise": [
+                "Choisir la contribution que l’on souhaite garder.",
+                "Identifier une tâche à déléguer avec l’équipe.",
+                "Attendre la confirmation d’une personne disponible avant de la considérer reprise."
+              ],
+              "benefit": "Une délégation réelle peut préserver le projet sans reporter silencieusement la charge sur un proche."
+            },
+            {
+              "heading": "Décrire le coût au suivi",
+              "objective": "Rendre visible ce que le résultat masque.",
+              "exercise": [
+                "Donner un exemple de tâche accomplie avec difficulté.",
+                "Décrire l’effort, les interruptions et leurs conséquences utiles.",
+                "Discuter des objectifs de soin et des ajustements individualisés."
+              ],
+              "benefit": "Le professionnel peut apprécier le retentissement au-delà d’un bilan de productivité."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Une tâche conservée, une autre transmise",
+      "ending": "Évaëlle envoie le message. Malik confirme qu’il organisera la mise en place avec l’équipe et lui demandera seulement de vérifier les cinq recommandations. La personne et l’horaire précis restent à fixer. Au suivi, elle décrit les interruptions et la fatigue ressentie après les préparatifs. Elle ne présente pas l’affiche terminée comme la preuve que tout va bien. Le carnet contient désormais une tâche de moins pour elle, et une question d’organisation encore à résoudre.",
+      "conclusion": "Accomplir une tâche peut coexister avec un retentissement important. Évaëlle garde une contribution qui lui tient à cœur et demande une répartition plus précise du reste. Le suivi reçoit les difficultés vécues, même lorsque le résultat est réussi.",
+      "mirror": [
+        "Malik peut demander : « Qu’est-ce que tu peux garder dans la préparation, et qu’est-ce que l’équipe doit reprendre ? » Cette question reconnaît le résultat sans lui faire promettre davantage. Il lui appartient ensuite de confirmer un relais réel. Nora peut offrir une aide ponctuelle, mais sa disponibilité ne doit pas être supposée parce qu’elle a participé à l’affiche."
+      ],
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "isst-d-2011",
+        "baekkelund-2022",
+        "hawkins-2026"
+      ],
+      "continuity": {
+        "choice": "Évaëlle conserve les recommandations et délègue l’installation, dont Malik doit préciser les responsables.",
+        "next": "Nora indiquera un créneau limité ; le relais pendant l’accueil doit aussi être nommé."
+      }
+    },
+    {
+      "number": 10,
+      "slug": "evaelle-soutien-aux-limites-claires",
+      "title": "Soutien des proches : une aide précise peut avoir des limites",
+      "description": "Nora propose un créneau et refuse une disponibilité permanente. Évaëlle distingue l’amitié, le relais de travail et le suivi.",
+      "context": "Confirmer les relais du projet",
+      "topics": [
+        "soutien pratique",
+        "limites relationnelles",
+        "rôles distincts"
+      ],
+      "clinical_focus": "Le soutien a aussi ses limites",
+      "diagnostic_stage": "known",
+      "clinical_intro": "Le soutien d’un proche peut être précieux tout en restant limité dans le temps et dans son rôle. Dans l’accompagnement d’un trouble dissociatif, l’amitié ne remplace ni les responsabilités de l’équipe ni le suivi clinique. Préciser une aide et accepter ses limites permet de construire une organisation qui ne dépend pas d’une disponibilité permanente.",
+      "opening": "Nora peut venir le vendredi en fin d’après-midi pour préparer les caisses. Elle le dit avant qu’Évaëlle lui demande autre chose, puis ajoute qu’elle ne pourra pas répondre aux messages tard le soir. Elle a ses propres horaires et veut garder ses soirées. Évaëlle entend d’abord cette limite avec un pincement : elle craint que l’aide autour des livres soit en train de se retirer complètement.\n\nElle regarde pourtant ce que Nora vient réellement de proposer. Le créneau du vendredi est précis. Son amie n’a pas retiré ce moment ni refusé le projet. Évaëlle explique qu’elle s’inquiète surtout du samedi : si elle doit interrompre ses trente minutes d’accueil, elle veut savoir qui reprendra la table. Jusqu’ici, Malik a confirmé la fermeture par Lucie, mais cela ne nomme pas encore la personne présente pendant l’ouverture.\n\n« Ce n’est pas à toi d’être joignable toute la soirée pour régler ça », finit-elle par dire. Elles conviennent que Nora préparera les caisses au créneau annoncé. Évaëlle demandera à Malik une confirmation distincte pour l’accueil. Elle garde les coordonnées de son suivi pour ses questions cliniques, selon les modalités convenues avec la docteure Roussel. Les trois besoins ne sont pas interchangeables. Elle apprécie que Nora vienne ; elle n’a pas besoin de lui confier la responsabilité de tout ce qui pourrait devenir difficile pour elle.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Un soutien limité peut rester fiable",
+          "text": "Définir les limites d’une aide ne signifie pas retirer son affection. Une personne proche peut participer à une tâche sans devenir disponible à toute heure ni responsable des symptômes. Pour Évaëlle, la préparation des caisses relève de l’aide volontaire de Nora, la continuité de l’accueil de l’organisation du foyer et les questions de santé du suivi clinique. Les distinguer évite de demander à une seule relation de remplir toutes ces fonctions."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment les rôles peuvent-ils se confondre ?",
+          "points": [
+            {
+              "heading": "Une limite est entendue comme un retrait total",
+              "text": "La crainte peut dépasser ce qui a effectivement été dit.",
+              "examples": [
+                "Évaëlle redoute de perdre l’appui de Nora.",
+                "Nora maintient pourtant le créneau du vendredi."
+              ]
+            },
+            {
+              "heading": "Un besoin de travail reste sans responsable précis",
+              "text": "Une présence amicale ne suffit pas à assurer un relais professionnel.",
+              "examples": [
+                "Lucie est confirmée pour la fermeture.",
+                "La personne présente pendant l’accueil doit encore être nommée."
+              ]
+            },
+            {
+              "heading": "Les questions de soin appellent un autre interlocuteur",
+              "text": "Un ami ne doit pas interpréter ou surveiller les expériences intérieures.",
+              "examples": [
+                "Évaëlle conserve les modalités de contact du suivi.",
+                "Nora n’est pas chargée de répondre à chaque difficulté nocturne."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour construire un soutien délimité",
+          "points": [
+            {
+              "heading": "Demander une aide précise",
+              "objective": "Rendre la proposition réaliste.",
+              "exercise": [
+                "Nommer la tâche qui aiderait.",
+                "Proposer un créneau et demander la disponibilité réelle.",
+                "Confirmer seulement ce que les deux personnes acceptent."
+              ],
+              "benefit": "Une aide claire peut être tenue sans engagement implicite illimité."
+            },
+            {
+              "heading": "Accueillir la limite du proche",
+              "objective": "Préserver une relation réciproque.",
+              "exercise": [
+                "Reformuler ce que la personne propose et ce qu’elle ne peut pas faire.",
+                "Éviter de transformer son refus partiel en obligation de se justifier.",
+                "Chercher ailleurs les besoins qui restent ouverts."
+              ],
+              "benefit": "La relation peut continuer sans reposer sur une disponibilité que le proche n’a pas."
+            },
+            {
+              "heading": "Distinguer les relais",
+              "objective": "Donner chaque responsabilité au bon interlocuteur.",
+              "exercise": [
+                "Faire confirmer le relais de travail par l’équipe.",
+                "Garder les contacts cliniques selon le cadre du suivi.",
+                "Ne pas confier au proche l’interprétation des symptômes ni une surveillance permanente."
+              ],
+              "benefit": "Les appuis deviennent plus lisibles sans faire de l’amitié une permanence de soins."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Un prénom pour chaque relais",
+      "ending": "Le vendredi, Nora prépare les trois caisses au créneau convenu. Malik aide à la disposition et confirme que Samir, collègue du foyer, sera présent pendant l’installation et l’accueil pour reprendre la table si nécessaire. Lucie garde la fermeture. Évaëlle inscrit ces noms dans la partie pratique de son carnet. Elle remercie Nora, qui repart à l’heure annoncée. L’absence de messages tardifs ne signifiera pas que le soutien a disparu : leur accord tient dans ce qu’elles ont réellement choisi.",
+      "conclusion": "Une aide peut avoir des limites et rester utile. Évaëlle dispose désormais d’un créneau amical, d’un relais de travail identifié et d’un suivi clinique séparé. Cette répartition respecte aussi la vie de Nora, sans laisser l’organisation de l’accueil au hasard.",
+      "mirror": [
+        "Nora peut dire : « Je viens vendredi pour les caisses, mais je ne répondrai pas le soir. » Elle n’a pas à surveiller les états d’Évaëlle pour prouver son amitié. Si une question dépasse son rôle, elle peut rappeler les appuis déjà prévus. Malik, de son côté, doit confirmer le collègue disponible plutôt que compter sur la présence possible de Nora."
+      ],
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "isst-d-2011"
+      ],
+      "continuity": {
+        "choice": "Nora prépare les caisses vendredi ; Samir est confirmé pour l’installation et l’accueil, Lucie pour la fermeture.",
+        "next": "Une fluctuation pendant l’installation pourra mobiliser Samir, sans improviser un relais."
+      }
+    },
+    {
+      "number": 11,
+      "slug": "evaelle-fluctuation-et-relais",
+      "title": "Fluctuation des intrusions : utiliser le relais prévu",
+      "description": "Une intrusion familière revient pendant l’installation. Évaëlle demande à Samir de reprendre la table et garde un accueil bref.",
+      "context": "Derniers préparatifs de la table",
+      "topics": [
+        "fluctuations",
+        "relais convenu",
+        "suivi continu"
+      ],
+      "clinical_focus": "Une fluctuation ne décide pas de tout",
+      "diagnostic_stage": "known",
+      "clinical_intro": "Les manifestations d’un trouble dissociatif peuvent être récurrentes et fluctuer. Quelques journées plus faciles ne garantissent pas leur disparition, et une difficulté renouvelée ne résume pas toute l’évolution. Utiliser une aide déjà convenue et transmettre les changements utiles au suivi permet d’ajuster la participation sans décider seul de modifier les soins.",
+      "opening": "Un peu plus tard ce même vendredi, les caisses préparées par Nora attendent près de la table. Samir vérifie que les catégories restent visibles une fois les livres disposés. Évaëlle vient seulement apporter les cinq recommandations et regarder leur place. Elle n’a pas repris toute l’installation qui avait été déléguée. Pendant quelques jours, les expériences intérieures lui ont laissé davantage de place, et elle espérait traverser cette dernière étape avec la même facilité.\n\nUne intrusion familière revient pourtant plus fortement pendant qu’elle relit une carte. Elle reconnaît cette impression de pensée imposée qui coupe son fil. Elle sait où elle est, se rappelle la conversation avec Samir et garde son carnet près d’elle. Il n’y a pas de nouveau passage manquant. La difficulté porte sur la poursuite de ce qu’elle était en train de faire, alors que plusieurs détails de la table attirent déjà son attention.\n\nÉvaëlle regarde Samir : « Tu peux reprendre la table comme prévu ? Je laisse les cartes là. » Il confirme et continue la mise en place. Elle ne cherche pas à terminer vite pour prouver que les derniers jours faciles comptaient quand même. Elle s’assoit à l’écart de la tâche et ouvre son carnet à la liste des cinq titres. Son rôle peut encore être réduit. Elle devra aussi transmettre au suivi que l’intrusion familière a été plus forte, sans décider que ce moment explique à lui seul tout l’état de son trouble.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Une évolution peut comporter des variations",
+          "text": "Le caractère récurrent et fluctuant des manifestations dissociatives invite à apprécier l’évolution sur un ensemble d’éléments. Une variation dans un contexte chargé ne démontre pas que ce contexte en est la cause unique. Pour Évaëlle, la difficulté renouvelée justifie un relais et une information au suivi. Le fonctionnement et les symptômes ne progressent pas nécessairement au même rythme ; l’organisation de la table n’est pas un traitement des intrusions."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment une fluctuation change-t-elle la préparation ?",
+          "points": [
+            {
+              "heading": "Une difficulté familière reprend de la place",
+              "text": "La variation peut concerner l’intensité d’une expérience connue.",
+              "examples": [
+                "La pensée imposée gêne davantage la lecture d’une carte.",
+                "Évaëlle conserve le souvenir de la conversation avec Samir."
+              ]
+            },
+            {
+              "heading": "Les jours faciles deviennent une attente",
+              "text": "Une amélioration récente peut faire espérer une continuité qui n’est pas garantie.",
+              "examples": [
+                "Évaëlle comptait sur une dernière préparation plus aisée.",
+                "Elle est tentée de finir vite pour ne pas perdre ce sentiment de progrès."
+              ]
+            },
+            {
+              "heading": "Le rôle peut être ajusté",
+              "text": "Un relais préparé donne une possibilité concrète au moment difficile.",
+              "examples": [
+                "Samir reprend la table quand Évaëlle le demande.",
+                "Elle ne conserve que la vérification des cinq recommandations."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour ajuster sa participation",
+          "points": [
+            {
+              "heading": "Utiliser l’accord existant",
+              "objective": "Ne pas improviser une responsabilité au moment difficile.",
+              "exercise": [
+                "Nommer la tâche dont on demande la reprise.",
+                "Vérifier que le collègue prévu confirme le relais.",
+                "Laisser ensuite la tâche sans continuer à la gérer à distance."
+              ],
+              "benefit": "Le relais peut réduire la charge immédiate parce qu’il a été réellement accepté."
+            },
+            {
+              "heading": "Transmettre le changement utile",
+              "objective": "Situer la fluctuation dans le suivi.",
+              "exercise": [
+                "Décrire ce qui était familier et ce qui a changé.",
+                "Préciser les conséquences sur l’activité.",
+                "Suivre les modalités de contact et les indications individualisées."
+              ],
+              "benefit": "La clinicienne peut apprécier la variation sans que la personne ajuste seule ses soins."
+            },
+            {
+              "heading": "Revoir le format de présence",
+              "objective": "Garder une participation compatible avec la situation.",
+              "exercise": [
+                "Examiner la tâche ou le temps encore envisagés.",
+                "Choisir avec l’équipe de les réduire, maintenir ou reporter.",
+                "Confirmer le relais prévu pour la suite."
+              ],
+              "benefit": "Le projet peut rester modulable sans faire d’une journée une victoire ou un échec clinique."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Les cartes suffisent pour aujourd’hui",
+      "ending": "Samir termine l’installation. Évaëlle vérifie seulement que les cinq titres sont lisibles, puis s’arrête. Elle transmet le changement au suivi selon leur cadre convenu et garde les indications déjà données. Avec Malik et Samir, elle confirme pour le lendemain les trente minutes d’accueil, avec possibilité de passer le relais plus tôt si nécessaire. L’affiche et les caisses sont en place. Elle ne prend aucun engagement supplémentaire pour compenser l’interruption de cette préparation.",
+      "conclusion": "Une fluctuation ne décide pas de toute l’évolution d’une personne. Évaëlle a pu utiliser le relais prévu et maintenir un format limité, tout en informant son suivi. L’installation avance grâce à l’équipe ; les questions cliniques restent ouvertes à une appréciation professionnelle.",
+      "mirror": [
+        "Samir peut répondre : « Je reprends la table ; les cartes peuvent rester ici. » Il n’a pas à commenter le fait que les jours précédents semblaient meilleurs. Le relais concerne une tâche, pas la surveillance d’Évaëlle. Si elle préfère réduire sa présence, l’équipe peut revoir le planning sans lui demander de démontrer que l’intrusion est assez forte."
+      ],
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "baekkelund-2022"
+      ],
+      "continuity": {
+        "choice": "Évaëlle laisse l’installation à Samir, transmet la fluctuation au suivi et confirme un accueil bref avec relais possible.",
+        "next": "Le lendemain, l’échange se tiendra avec cette organisation et sans engagement supplémentaire."
+      }
+    },
+    {
+      "number": 12,
+      "slug": "evaelle-engagement-choisi-aboutit",
+      "title": "Participation choisie : partir à l’heure convenue",
+      "description": "L’échange de livres a lieu. Évaëlle présente ses recommandations, transmet la table et part sans attendre d’avoir épuisé sa marge.",
+      "context": "Le jour de l’échange de livres",
+      "topics": [
+        "participation",
+        "limites respectées",
+        "continuité du suivi"
+      ],
+      "clinical_focus": "Un engagement choisi peut aboutir",
+      "diagnostic_stage": "known",
+      "clinical_intro": "Un projet peut aboutir grâce à une participation choisie et à des relais réels, même lorsque les difficultés cliniques restent présentes. Respecter une limite de temps ne constitue ni un abandon ni une preuve de guérison. L’organisation peut soutenir une activité importante pour la personne, tandis que le suivi et ses objectifs se poursuivent séparément.",
+      "opening": "La première personne arrive avec deux livres dans un sac de courses. Évaëlle lui montre les trois caisses et explique qu’elle peut aussi écrire une recommandation sur une carte. La table a l’air simple maintenant qu’elle est prête. Samir est à côté, comme convenu ; il connaît les catégories et les modalités de l’échange. Nora discute déjà avec une résidente d’un roman qu’elles ont toutes deux lu.\n\nÉvaëlle présente les cinq titres retenus. Elle aime particulièrement raconter pourquoi l’un d’eux se prête bien à une lecture dans le bus, avec ses chapitres courts. Pendant cet accueil, elle doit reprendre une fois le fil de sa phrase ; elle le fait sans transformer ce moment en bilan de santé devant les visiteurs. Les livres continuent de circuler. Elle n’attend pas que tout soit parfaitement facile pour regarder l’heure prévue.\n\nAu terme de ses trente minutes, plusieurs personnes sont encore autour de la table. Elle pourrait rester pour leur faire plaisir et justifier ensuite le dépassement par le succès de l’événement. Elle choisit de s’adresser à Samir. « Je te transmets maintenant. Les cartes vierges sont à gauche. » Il lui confirme qu’il reprend. Lucie est attendue pour la fermeture selon le planning. Évaëlle peut laisser Nora poursuivre sa propre conversation ; son amie n’a pas à partir avec elle ni à vérifier chaque étape de son départ. Le carnet vert se referme sur un engagement tenu dans les limites qu’elle avait annoncées.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Une réussite pratique n’est pas un verdict clinique",
+          "text": "La participation à une activité importante peut être soutenue par une charge ajustée et des relais acceptés. Elle ne permet pas de conclure que les manifestations d’un trouble ont disparu. Évaëlle a réalisé une contribution précise malgré des difficultés encore possibles. Son départ à l’heure respecte l’organisation commune et sa disponibilité. Le soin continue ; ni le nombre de visiteurs ni la durée de sa présence ne remplace une appréciation clinique individualisée."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment un engagement limité peut-il aboutir ?",
+          "points": [
+            {
+              "heading": "La contribution reste personnelle",
+              "text": "La personne apporte ses goûts et ses choix, au-delà des difficultés.",
+              "examples": [
+                "Évaëlle présente les cinq livres qu’elle a retenus.",
+                "Elle explique son intérêt pour les chapitres courts d’un roman."
+              ]
+            },
+            {
+              "heading": "Le relais est effectif",
+              "text": "Une limite de temps tient parce que quelqu’un reprend vraiment.",
+              "examples": [
+                "Samir confirme qu’il prend la table.",
+                "Lucie garde le créneau de fermeture prévu par l’équipe."
+              ]
+            },
+            {
+              "heading": "La suite demeure ouverte",
+              "text": "Terminer un projet ne règle pas toutes les questions de santé ni les projets futurs.",
+              "examples": [
+                "Évaëlle conserve son prochain rendez-vous de suivi.",
+                "Elle peut imaginer un autre échange sans en promettre aussitôt la date."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour terminer sans dépasser sa limite",
+          "points": [
+            {
+              "heading": "Réaliser la transmission prévue",
+              "objective": "Donner une fin concrète à son créneau.",
+              "exercise": [
+                "Vérifier que la personne de relais est présente.",
+                "Transmettre les informations utiles à la tâche.",
+                "Attendre sa confirmation puis quitter son rôle."
+              ],
+              "benefit": "Une relève explicite peut éviter de rester responsable après l’heure convenue."
+            },
+            {
+              "heading": "Conserver le suivi",
+              "objective": "Ne pas utiliser le succès du projet comme décision de soin.",
+              "exercise": [
+                "Garder le rendez-vous ou le contact déjà prévu.",
+                "Y aborder les difficultés et les appuis réellement rencontrés.",
+                "Discuter toute évolution des soins avec le professionnel."
+              ],
+              "benefit": "Le bilan clinique peut intégrer cette expérience sans se réduire à son résultat positif."
+            },
+            {
+              "heading": "Choisir ce que l’on souhaite refaire",
+              "objective": "Ouvrir une suite sans nouvel engagement immédiat.",
+              "exercise": [
+                "Nommer un aspect du projet qui a compté pour soi.",
+                "Repérer ce qui demanderait une autre organisation.",
+                "Attendre une disponibilité réelle avant de fixer une nouvelle date."
+              ],
+              "benefit": "Une idée peut rester un désir personnel sans devenir une obligation supplémentaire."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Un recueil orange dans le sac",
+      "ending": "Samir reprend la table et répond à la visiteuse suivante. Évaëlle choisit un recueil pour sa couverture orange, puis en lit quelques lignes avant de le mettre dans son sac. Elle salue Nora et part à l’heure convenue. Le prochain rendez-vous avec la docteure Roussel reste inscrit. Elle aimerait proposer un coin poésie une autre fois, mais ne promet pas de date. L’échange de livres a eu lieu, la fermeture n’est pas à sa charge, et son projet peut avoir une suite sans occuper toutes ses marges.",
+      "conclusion": "Un engagement choisi peut aboutir sans disparition des difficultés. Évaëlle a participé, transmis sa responsabilité et respecté son horaire. Le livre emporté lui appartient autant que les questions gardées pour le suivi ; aucun de ces éléments ne résume toute sa vie.",
+      "mirror": [
+        "Samir aide en reprenant réellement la table, sans demander à Évaëlle de rester quelques minutes de plus pour récompenser la réussite. Nora peut lui dire au revoir et poursuivre ses propres échanges. Un proche peut ensuite lui demander ce qu’elle a aimé dans les livres, plutôt que de faire de son départ à l’heure un examen de son état."
+      ],
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "isst-d-2011"
+      ],
+      "continuity": {
+        "choice": "Évaëlle assure ses trente minutes, transmet à Samir et part avec un recueil orange ; le suivi continue.",
+        "next": "Fin du projet : échange réalisé, relais effectif et possibilité future d’un coin poésie sans date promise."
+      }
+    }
+  ]
+}

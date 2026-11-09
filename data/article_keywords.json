@@ -1077,6 +1077,489 @@
     "clinical_code": "6A01.2",
     "clinical_diagnosis": "Trouble développemental du langage"
   },
+  "posts/comprendre-et-maitriser-ses-emotions/agnes-atelier-appuis-durables": {
+    "character": "Agnès",
+    "character_id": "agnes",
+    "keywords": [
+      "État de transe",
+      "Participation professionnelle",
+      "Appuis durables"
+    ],
+    "character_keywords": [
+      "État de transe",
+      "épisodes involontaires",
+      "repères et mémoire",
+      "pratiques culturelles choisies",
+      "participation professionnelle"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "f3cd340f6502149fb7cc7ec0c342aa082ee1105e2b2f69b1c153a224a2aa7023",
+    "summary": "Agnès pose la feuille quadrillée à l’endroit convenu, près du support de Mireille. Pour la première fois, les deux documents portent des choix qui n’ont pas tous été préparés par elle. La transition centrale appartient à sa collègue. Elles en ont discuté la place, mais Agnès n’en a pas réécrit chaque détail. Le groupe entre dans le studio et trouve plusieurs places où s’asseoir.\n\n[…]\n\nL’atelier se termine. Agnès et Mireille constatent que la pause a été possible et que la transition n’a pas perdu son sens lorsque l’une s’est assise. Elles gardent la répartition qui a fonctionné, avec un point pratique à prévoir avant une prochaine activité. Agnès range la feuille quadrillée ; dans un coin, elle a noté une idée de début encore plus simple. Elle conserve son suivi et le lien à sa pratique culturelle. Son projet a eu lieu, sans qu’elle ait eu à prouver la disparition de ses épisodes.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Agnès pose la feuille quadrillée à l’endroit convenu, près du support de Mireille. Pour la première fois, les deux documents portent des choix qui n’ont pas tous été préparés par elle. La transition centrale appartient à sa collègue. Elles en ont discuté la place, mais Agnès n’en a pas réécrit chaque détail. Le groupe entre dans le studio et trouve plusieurs places où s’asseoir.",
+        "start": 2,
+        "end": 383
+      },
+      {
+        "quote": "L’atelier se termine. Agnès et Mireille constatent que la pause a été possible et que la transition n’a pas perdu son sens lorsque l’une s’est assise. Elles gardent la répartition qui a fonctionné, avec un point pratique à prévoir avant une prochaine activité. Agnès range la feuille quadrillée ; dans un coin, elle a noté une idée de début encore plus simple. Elle conserve son suivi et le lien à sa pratique culturelle. Son projet a eu lieu, sans qu’elle ait eu à prouver la disparition de ses épisodes.",
+        "start": 4319,
+        "end": 4824
+      }
+    ],
+    "canonical_concept": "Participer avec des appuis durables",
+    "context": "Le jour de l’atelier au centre culturel",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour garder les appuis au-delà d’une séance"
+    ],
+    "clinical_code": "6B62",
+    "clinical_diagnosis": "État de transe"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/agnes-circonstances-et-cause": {
+    "character": "Agnès",
+    "character_id": "agnes",
+    "keywords": [
+      "État de transe",
+      "Circonstances des épisodes",
+      "Incertitude causale"
+    ],
+    "character_keywords": [
+      "État de transe",
+      "épisodes involontaires",
+      "repères et mémoire",
+      "pratiques culturelles choisies",
+      "participation professionnelle"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "349f19ca4b68b7f27e07f8c3b887aac3aba93dfa11425cc5d4dce65d39fd6cda",
+    "summary": "Agnès sort trois petites notes de son enveloppe. Sur la première, elle a écrit un désaccord au centre. Sur la deuxième, un cours qu’elle avait apprécié. La dernière mentionne seulement une journée difficile, sans détail. Les feuilles ne forment pas un journal complet. Elle les a gardées parce qu’elle voudrait comprendre ce qui annonce les épisodes et ce qui permettrait de les prévoir.\n\n[…]\n\nAgnès conserve les observations dont elles ont défini l’utilité pour le suivi. Elle ne complète pas la note privée qu’elle ne souhaite pas développer. Dans son sac, la feuille quadrillée reste consacrée aux transitions et au relais. Elle retourne préparer un essai en sachant qu’elle ne pourra pas prévoir exactement le déroulement de la semaine. Cette incertitude ne l’oblige pas à supprimer chaque situation ordinaire qui lui rappelle une mauvaise journée.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Agnès sort trois petites notes de son enveloppe. Sur la première, elle a écrit un désaccord au centre. Sur la deuxième, un cours qu’elle avait apprécié. La dernière mentionne seulement une journée difficile, sans détail. Les feuilles ne forment pas un journal complet. Elle les a gardées parce qu’elle voudrait comprendre ce qui annonce les épisodes et ce qui permettrait de les prévoir.",
+        "start": 2,
+        "end": 389
+      },
+      {
+        "quote": "Agnès conserve les observations dont elles ont défini l’utilité pour le suivi. Elle ne complète pas la note privée qu’elle ne souhaite pas développer. Dans son sac, la feuille quadrillée reste consacrée aux transitions et au relais. Elle retourne préparer un essai en sachant qu’elle ne pourra pas prévoir exactement le déroulement de la semaine. Cette incertitude ne l’oblige pas à supprimer chaque situation ordinaire qui lui rappelle une mauvaise journée.",
+        "start": 4387,
+        "end": 4845
+      }
+    ],
+    "canonical_concept": "Les circonstances ne prouvent pas une cause",
+    "context": "Un rendez-vous de suivi avec quelques notes privées",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour garder des observations sans fabriquer de certitude"
+    ],
+    "clinical_code": "6B62",
+    "clinical_diagnosis": "État de transe"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/agnes-conscience-retrecie": {
+    "character": "Agnès",
+    "character_id": "agnes",
+    "keywords": [
+      "État de transe",
+      "Perception restreinte",
+      "Relais préparé"
+    ],
+    "character_keywords": [
+      "État de transe",
+      "épisodes involontaires",
+      "repères et mémoire",
+      "pratiques culturelles choisies",
+      "participation professionnelle"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "224b1348a19eed3bb6fe361c64102aedd539e41b1cc7f35ad2060eba033001ad",
+    "summary": "La feuille quadrillée est posée au bord du bureau, ouverte sur une transition qu’Agnès n’a pas encore arrêtée. Elle voudrait un début sobre : assez de place pour entrer dans le cours sans devoir immédiatement expliquer ce que l’on sait faire. À quarante-six ans, elle enseigne depuis plusieurs années dans ce centre culturel. Mireille, sa collègue chorégraphe, préfère que la transition soit plus marquée. Elles en discutent pendant la préparation avec quelques adultes venus essayer le cours.\n\n[…]\n\nAprès la fin de l’événement et le temps nécessaire, Agnès choisit de ne pas reprendre le cours ce jour-là. Mireille termine la séance et conserve la feuille quadrillée pour leur prochaine discussion. Elles suivront les modalités convenues avec l’équipe si un contact est nécessaire. Agnès ne doit pas produire aussitôt une explication complète. Le lendemain, elles pourront revenir, avec son accord, sur un geste que Mireille a observé pendant ce même événement.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "La feuille quadrillée est posée au bord du bureau, ouverte sur une transition qu’Agnès n’a pas encore arrêtée. Elle voudrait un début sobre : assez de place pour entrer dans le cours sans devoir immédiatement expliquer ce que l’on sait faire. À quarante-six ans, elle enseigne depuis plusieurs années dans ce centre culturel. Mireille, sa collègue chorégraphe, préfère que la transition soit plus marquée. Elles en discutent pendant la préparation avec quelques adultes venus essayer le cours.",
+        "start": 2,
+        "end": 495
+      },
+      {
+        "quote": "Après la fin de l’événement et le temps nécessaire, Agnès choisit de ne pas reprendre le cours ce jour-là. Mireille termine la séance et conserve la feuille quadrillée pour leur prochaine discussion. Elles suivront les modalités convenues avec l’équipe si un contact est nécessaire. Agnès ne doit pas produire aussitôt une explication complète. Le lendemain, elles pourront revenir, avec son accord, sur un geste que Mireille a observé pendant ce même événement.",
+        "start": 4476,
+        "end": 4938
+      }
+    ],
+    "canonical_concept": "Le champ de conscience se rétrécit",
+    "context": "Au studio avec quelques adultes",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour préparer un soutien pratique"
+    ],
+    "clinical_code": "6B62",
+    "clinical_diagnosis": "État de transe"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/agnes-effort-invisible-preparation": {
+    "character": "Agnès",
+    "character_id": "agnes",
+    "keywords": [
+      "État de transe",
+      "Retentissement professionnel",
+      "Charge de préparation"
+    ],
+    "character_keywords": [
+      "État de transe",
+      "épisodes involontaires",
+      "repères et mémoire",
+      "pratiques culturelles choisies",
+      "participation professionnelle"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "01ab3f211eeacdbffea0de3cfd4f90a59f592ffe37a40f957565c2cceb9ef5e9",
+    "summary": "Trois versions de la même séance occupent la table. Agnès les avait réunies après l’essai, puis glissées ensemble dans son dossier. Les différences sont petites mais nombreuses : une transition plus courte ici, une consigne que Mireille pourrait reprendre là, une autre entrée pour que rien ne paraisse interrompu. En les étalant, elle reconnaît le temps passé à prévoir ces variantes.\n\n[…]\n\nMireille prend entièrement la transition centrale, préparation comprise. Agnès ne lui remet pas une quatrième version cachée sous la première : elles conviennent d’un point de coordination et laissent cette place à sa proposition. La feuille finale précise qui anime chaque partie et comment une pause peut se prendre sans justification publique. L’atelier reste celui qu’Agnès voulait construire, mais sa réalisation appartient désormais réellement aux deux collègues.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Trois versions de la même séance occupent la table. Agnès les avait réunies après l’essai, puis glissées ensemble dans son dossier. Les différences sont petites mais nombreuses : une transition plus courte ici, une consigne que Mireille pourrait reprendre là, une autre entrée pour que rien ne paraisse interrompu. En les étalant, elle reconnaît le temps passé à prévoir ces variantes.",
+        "start": 2,
+        "end": 387
+      },
+      {
+        "quote": "Mireille prend entièrement la transition centrale, préparation comprise. Agnès ne lui remet pas une quatrième version cachée sous la première : elles conviennent d’un point de coordination et laissent cette place à sa proposition. La feuille finale précise qui anime chaque partie et comment une pause peut se prendre sans justification publique. L’atelier reste celui qu’Agnès voulait construire, mais sa réalisation appartient désormais réellement aux deux collègues.",
+        "start": 4383,
+        "end": 4852
+      }
+    ],
+    "canonical_concept": "Le travail tient au prix d’efforts",
+    "context": "Une séance de répartition avant l’atelier final",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour partager la charge réelle de préparation",
+      "3. Garder un document pratique commun"
+    ],
+    "clinical_code": "6B62",
+    "clinical_diagnosis": "État de transe"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/agnes-fatigue-apres-episode": {
+    "character": "Agnès",
+    "character_id": "agnes",
+    "keywords": [
+      "État de transe",
+      "Fatigue après épisode",
+      "Charge de préparation"
+    ],
+    "character_keywords": [
+      "État de transe",
+      "épisodes involontaires",
+      "repères et mémoire",
+      "pratiques culturelles choisies",
+      "participation professionnelle"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "4c61533048fb89e83c34eb5a9b3b3b3300ea893d3e887f717df804491053783f",
+    "summary": "Agnès pose la feuille quadrillée sur sa table et retrouve immédiatement l’endroit où la transition manque. Elle sait ce qu’elle voudrait obtenir : un passage qui laisse une place à celui qui s’arrête, sans que tout le groupe se tourne vers lui. L’idée lui paraît nette. La mettre au propre lui demande pourtant davantage que ce qu’elle avait imaginé en rentrant du rendez-vous.\n\n[…]\n\nMireille accepte de revoir la maquette un autre jour. Elles répartissent ce qui peut être préparé séparément et gardent une seule page à discuter ensemble. Agnès suit les indications reçues par le contact de suivi pour cette fatigue. Elle range les autres versions sans décider qu’elle a récupéré parce qu’elle a réussi à téléphoner. La prochaine rencontre devra aussi préserver la place de sa pratique culturelle dans le cours, une question artistique que le report n’a pas résolue.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Agnès pose la feuille quadrillée sur sa table et retrouve immédiatement l’endroit où la transition manque. Elle sait ce qu’elle voudrait obtenir : un passage qui laisse une place à celui qui s’arrête, sans que tout le groupe se tourne vers lui. L’idée lui paraît nette. La mettre au propre lui demande pourtant davantage que ce qu’elle avait imaginé en rentrant du rendez-vous.",
+        "start": 2,
+        "end": 379
+      },
+      {
+        "quote": "Mireille accepte de revoir la maquette un autre jour. Elles répartissent ce qui peut être préparé séparément et gardent une seule page à discuter ensemble. Agnès suit les indications reçues par le contact de suivi pour cette fatigue. Elle range les autres versions sans décider qu’elle a récupéré parce qu’elle a réussi à téléphoner. La prochaine rencontre devra aussi préserver la place de sa pratique culturelle dans le cours, une question artistique que le report n’a pas résolue.",
+        "start": 4293,
+        "end": 4776
+      }
+    ],
+    "canonical_concept": "La fatigue après l’épisode",
+    "context": "À la maison après le rendez-vous de suivi",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour ajuster la préparation et garder le suivi"
+    ],
+    "clinical_code": "6B62",
+    "clinical_diagnosis": "État de transe"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/agnes-geste-sans-intention": {
+    "character": "Agnès",
+    "character_id": "agnes",
+    "keywords": [
+      "État de transe",
+      "Répertoire limité",
+      "Observation factuelle"
+    ],
+    "character_keywords": [
+      "État de transe",
+      "épisodes involontaires",
+      "repères et mémoire",
+      "pratiques culturelles choisies",
+      "participation professionnelle"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "ddd78ca489a1f1a1935a3660a78de1c4a3011398b10a9d7de83237f37ef9db00",
+    "summary": "Mireille a rapporté la feuille quadrillée. La transition est toujours inachevée, mais la séance de la veille s’est terminée sous sa responsabilité. Agnès lui demande ce qui l’a conduite à reprendre le groupe. Elle se rappelle avoir voulu préciser une entrée ; elle ne sait pas comment ses indications sont devenues inaccessibles aux autres. Elles parlent du même événement, pas d’une nouvelle interruption.\n\n[…]\n\nAvec l’accord d’Agnès, elles rédigent une observation sobre sur une note privée : le mouvement et les mots rapportés par Mireille ont remplacé les indications prévues. Agnès n’y ajoute pas une intention qu’elle ne retrouve pas. La feuille quadrillée garde seulement la transition à travailler. Elle apportera la note au rendez-vous prévu avec la docteure Valette, car l’ordre des instants du cours lui échappe encore par endroits.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Mireille a rapporté la feuille quadrillée. La transition est toujours inachevée, mais la séance de la veille s’est terminée sous sa responsabilité. Agnès lui demande ce qui l’a conduite à reprendre le groupe. Elle se rappelle avoir voulu préciser une entrée ; elle ne sait pas comment ses indications sont devenues inaccessibles aux autres. Elles parlent du même événement, pas d’une nouvelle interruption.",
+        "start": 2,
+        "end": 408
+      },
+      {
+        "quote": "Avec l’accord d’Agnès, elles rédigent une observation sobre sur une note privée : le mouvement et les mots rapportés par Mireille ont remplacé les indications prévues. Agnès n’y ajoute pas une intention qu’elle ne retrouve pas. La feuille quadrillée garde seulement la transition à travailler. Elle apportera la note au rendez-vous prévu avec la docteure Valette, car l’ordre des instants du cours lui échappe encore par endroits.",
+        "start": 4258,
+        "end": 4688
+      }
+    ],
+    "canonical_concept": "Un geste répété sans intention",
+    "context": "Le lendemain du cours interrompu",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour parler d’un geste sans le reproduire"
+    ],
+    "clinical_code": "6B62",
+    "clinical_diagnosis": "État de transe"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/agnes-malaise-inhabituel-reevaluation": {
+    "character": "Agnès",
+    "character_id": "agnes",
+    "keywords": [
+      "État de transe",
+      "Malaise inhabituel",
+      "Réévaluation médicale"
+    ],
+    "character_keywords": [
+      "État de transe",
+      "épisodes involontaires",
+      "repères et mémoire",
+      "pratiques culturelles choisies",
+      "participation professionnelle"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "a734aa918fdced489fd7da9f61a86109b84bfe0ebb5cc60b919f37ab370a3927",
+    "summary": "Quelques jours après la consultation, la feuille quadrillée est installée sur la table du centre. Aucun élève n’est attendu pour cette préparation. Mireille commence à demander quelle version elles vont reprendre, mais Agnès ne s’assied pas devant la maquette. Elle veut d’abord raconter quelque chose survenu plus tôt, un malaise qui ne lui a pas semblé comparable à l’événement du premier cours.\n\n[…]\n\nL’évaluation médicale a lieu selon l’orientation reçue. Agnès poursuit le suivi avec les indications qui lui sont données. Elle garde le contenu de cet échange privé et ne cherche pas à fournir à Mireille une explication qu’elle ne peut pas encore affirmer. Mireille confirme que la préparation restera reportée. Elles ne fixent la reprise qu’ultérieurement, lorsque celle-ci devient possible dans ce cadre. La question du relais au cours demeure sur la feuille, mais elle attend son tour.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Quelques jours après la consultation, la feuille quadrillée est installée sur la table du centre. Aucun élève n’est attendu pour cette préparation. Mireille commence à demander quelle version elles vont reprendre, mais Agnès ne s’assied pas devant la maquette. Elle veut d’abord raconter quelque chose survenu plus tôt, un malaise qui ne lui a pas semblé comparable à l’événement du premier cours.",
+        "start": 2,
+        "end": 399
+      },
+      {
+        "quote": "L’évaluation médicale a lieu selon l’orientation reçue. Agnès poursuit le suivi avec les indications qui lui sont données. Elle garde le contenu de cet échange privé et ne cherche pas à fournir à Mireille une explication qu’elle ne peut pas encore affirmer. Mireille confirme que la préparation restera reportée. Elles ne fixent la reprise qu’ultérieurement, lorsque celle-ci devient possible dans ce cadre. La question du relais au cours demeure sur la feuille, mais elle attend son tour.",
+        "start": 4429,
+        "end": 4918
+      }
+    ],
+    "canonical_concept": "Un changement exige une nouvelle évaluation",
+    "context": "Au centre culturel, avant une préparation sans élèves",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour transmettre le changement et organiser le relais"
+    ],
+    "clinical_code": "6B62",
+    "clinical_diagnosis": "État de transe"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/agnes-pratique-culturelle-choisie": {
+    "character": "Agnès",
+    "character_id": "agnes",
+    "keywords": [
+      "État de transe",
+      "Pratique culturelle choisie",
+      "Distinction des expériences"
+    ],
+    "character_keywords": [
+      "État de transe",
+      "épisodes involontaires",
+      "repères et mémoire",
+      "pratiques culturelles choisies",
+      "participation professionnelle"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "88a0b5265ff489b828599ba40fa5038d8951f4a006da2233cdcc5e24f8e8fc0c",
+    "summary": "La page commune a moins de ratures que les versions précédentes. Mireille a repris une partie du programme pendant le report de leur séance ; Agnès arrive avec les indications de suivi qu’elle doit conserver pour son organisation. Elles peuvent maintenant discuter de la présentation du cours. Mireille a barré une référence à la pratique culturelle d’Agnès. Elle propose de tout retirer, pour ne pas prendre de risque.\n\n[…]\n\nElles retirent la formulation qui associait la danse au trouble et conservent une place à la culture dans la présentation. Mireille n’est toujours pas convaincue par la transition trop discrète ; Agnès lui propose d’y revenir comme à un désaccord de travail. En relisant ensuite une brochure, elle remarque que le mot transe y côtoie celui de possession. Cette autre confusion lui donne une question pour sa prochaine consultation, sans changer ce qu’elles viennent de préserver dans la maquette.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "La page commune a moins de ratures que les versions précédentes. Mireille a repris une partie du programme pendant le report de leur séance ; Agnès arrive avec les indications de suivi qu’elle doit conserver pour son organisation. Elles peuvent maintenant discuter de la présentation du cours. Mireille a barré une référence à la pratique culturelle d’Agnès. Elle propose de tout retirer, pour ne pas prendre de risque.",
+        "start": 2,
+        "end": 421
+      },
+      {
+        "quote": "Elles retirent la formulation qui associait la danse au trouble et conservent une place à la culture dans la présentation. Mireille n’est toujours pas convaincue par la transition trop discrète ; Agnès lui propose d’y revenir comme à un désaccord de travail. En relisant ensuite une brochure, elle remarque que le mot transe y côtoie celui de possession. Cette autre confusion lui donne une question pour sa prochaine consultation, sans changer ce qu’elles viennent de préserver dans la maquette.",
+        "start": 4400,
+        "end": 4896
+      }
+    ],
+    "canonical_concept": "Une pratique choisie garde son sens",
+    "context": "À la reprise de la préparation commune",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "Comment une confusion peut-elle effacer une pratique choisie ?",
+      "3 techniques pour distinguer culture, choix et besoin de soin"
+    ],
+    "clinical_code": "6B62",
+    "clinical_diagnosis": "État de transe"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/agnes-recurrence-et-relais": {
+    "character": "Agnès",
+    "character_id": "agnes",
+    "keywords": [
+      "État de transe",
+      "Récurrence variable",
+      "Fonctionnement du relais"
+    ],
+    "character_keywords": [
+      "État de transe",
+      "épisodes involontaires",
+      "repères et mémoire",
+      "pratiques culturelles choisies",
+      "participation professionnelle"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "4d3bcdc96e807dfcb9b6434dbbe0bcb30f470dc66d5571f298efb563edbb3f46",
+    "summary": "Deux préparations ont pu se tenir depuis le dernier rendez-vous. Agnès a retrouvé le plaisir de discuter une transition et de défendre un début plus sobre que celui de Mireille. Elles ne sont pas d’accord sur tout, mais cette fois le désaccord est resté dans la maquette. Pour l’essai suivant, elles accueillent un petit groupe ; la feuille pratique est prête et les responsabilités ont été revues.\n\n[…]\n\nLes informations utiles sont transmises selon le cadre de suivi. Mireille a assuré la fin de l’essai ; Agnès n’a pas eu à prouver qu’elle pouvait reprendre. Elle accepte de poursuivre la préparation avec une responsabilité partagée, sous réserve de ses besoins de santé. En rassemblant les feuilles, elle voit pourtant que presque toutes les versions ont été écrites de sa main. Le relais dans le studio a fonctionné ; la charge avant le cours reste encore à partager.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Deux préparations ont pu se tenir depuis le dernier rendez-vous. Agnès a retrouvé le plaisir de discuter une transition et de défendre un début plus sobre que celui de Mireille. Elles ne sont pas d’accord sur tout, mais cette fois le désaccord est resté dans la maquette. Pour l’essai suivant, elles accueillent un petit groupe ; la feuille pratique est prête et les responsabilités ont été revues.",
+        "start": 2,
+        "end": 400
+      },
+      {
+        "quote": "Les informations utiles sont transmises selon le cadre de suivi. Mireille a assuré la fin de l’essai ; Agnès n’a pas eu à prouver qu’elle pouvait reprendre. Elle accepte de poursuivre la préparation avec une responsabilité partagée, sous réserve de ses besoins de santé. En rassemblant les feuilles, elle voit pourtant que presque toutes les versions ont été écrites de sa main. Le relais dans le studio a fonctionné ; la charge avant le cours reste encore à partager.",
+        "start": 4474,
+        "end": 4942
+      }
+    ],
+    "canonical_concept": "La récurrence reste variable",
+    "context": "Un essai de cours encadré par les deux collègues",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour faire un bilan sans transformer la récurrence en faute",
+      "3. Réviser l’engagement pratique"
+    ],
+    "clinical_code": "6B62",
+    "clinical_diagnosis": "État de transe"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/agnes-relais-sans-signal": {
+    "character": "Agnès",
+    "character_id": "agnes",
+    "keywords": [
+      "État de transe",
+      "Perte de maîtrise",
+      "Relais préparé"
+    ],
+    "character_keywords": [
+      "État de transe",
+      "épisodes involontaires",
+      "repères et mémoire",
+      "pratiques culturelles choisies",
+      "participation professionnelle"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "c6c70553182e4f2daf18d835a0a960bbdc74d7087029f6b996957c2fd1c52d80",
+    "summary": "La préparation reprend plus tard, après l’évaluation et selon les indications reçues. Agnès n’a pas transformé le retour au centre en preuve que tout malaise serait désormais expliqué. Elle veut simplement reprendre une question laissée ouverte : comment permettre un arrêt sans attirer toute l’attention du groupe ? Mireille a apporté une petite carte, avec le mot pause tracé au milieu.\n\n[…]\n\nElles gardent la carte comme option pour une pause ordinaire. Mireille inscrit son relais sur la feuille pratique, sans ajouter la phrase « après le signal ». La question clinique qui restait incertaine est transmise à l’équipe, et elles retiennent les précisions reçues pour leur organisation. Agnès trouve la maquette plus honnête ainsi. Elle aimerait pourtant prévoir davantage : elle commence à rapprocher plusieurs moments de sa semaine, dans l’espoir d’y découvrir une règle fiable.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "La préparation reprend plus tard, après l’évaluation et selon les indications reçues. Agnès n’a pas transformé le retour au centre en preuve que tout malaise serait désormais expliqué. Elle veut simplement reprendre une question laissée ouverte : comment permettre un arrêt sans attirer toute l’attention du groupe ? Mireille a apporté une petite carte, avec le mot pause tracé au milieu.",
+        "start": 2,
+        "end": 390
+      },
+      {
+        "quote": "Elles gardent la carte comme option pour une pause ordinaire. Mireille inscrit son relais sur la feuille pratique, sans ajouter la phrase « après le signal ». La question clinique qui restait incertaine est transmise à l’équipe, et elles retiennent les précisions reçues pour leur organisation. Agnès trouve la maquette plus honnête ainsi. Elle aimerait pourtant prévoir davantage : elle commence à rapprocher plusieurs moments de sa semaine, dans l’espoir d’y découvrir une règle fiable.",
+        "start": 4577,
+        "end": 5065
+      }
+    ],
+    "canonical_concept": "Le contrôle ne revient pas sur commande",
+    "context": "À la reprise de la préparation, après l’évaluation médicale",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour préparer un relais qui ne dépend pas du contrôle"
+    ],
+    "clinical_code": "6B62",
+    "clinical_diagnosis": "État de transe"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/agnes-souvenirs-incomplets": {
+    "character": "Agnès",
+    "character_id": "agnes",
+    "keywords": [
+      "État de transe",
+      "Souvenirs incomplets",
+      "Récit du témoin"
+    ],
+    "character_keywords": [
+      "État de transe",
+      "épisodes involontaires",
+      "repères et mémoire",
+      "pratiques culturelles choisies",
+      "participation professionnelle"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "9595106f6aebb4f72ef1b0c6c3563ce46019366a7b05b05021afdc607e7f8f22",
+    "summary": "La note privée tient sur un petit morceau de papier. Agnès l’a glissée dans une enveloppe, loin de la feuille quadrillée restée au studio. Au rendez-vous prévu, la docteure Valette lui demande ce qu’elle souhaite reprendre du cours interrompu. Le diagnostic était déjà posé avant cette séance ; elles cherchent aujourd’hui à préciser le vécu et les appuis, pas à annoncer un nom pour la première fois.\n\n[…]\n\nAgnès conserve deux phrases factuelles, en précisant celle qui vient de Mireille. Le reste demeure explicitement inconnu. L’équipe ajuste avec elle les modalités de contact utiles pour la suite. Elle ne repart pas avec la mission de retrouver chaque instant. Chez elle, elle pose l’enveloppe à sa place et sort la maquette du cours. Elle voudrait terminer la transition, mais constate que la fin de l’événement ne lui a pas rendu toute son énergie.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "La note privée tient sur un petit morceau de papier. Agnès l’a glissée dans une enveloppe, loin de la feuille quadrillée restée au studio. Au rendez-vous prévu, la docteure Valette lui demande ce qu’elle souhaite reprendre du cours interrompu. Le diagnostic était déjà posé avant cette séance ; elles cherchent aujourd’hui à préciser le vécu et les appuis, pas à annoncer un nom pour la première fois.",
+        "start": 2,
+        "end": 403
+      },
+      {
+        "quote": "Agnès conserve deux phrases factuelles, en précisant celle qui vient de Mireille. Le reste demeure explicitement inconnu. L’équipe ajuste avec elle les modalités de contact utiles pour la suite. Elle ne repart pas avec la mission de retrouver chaque instant. Chez elle, elle pose l’enveloppe à sa place et sort la maquette du cours. Elle voudrait terminer la transition, mais constate que la fin de l’événement ne lui a pas rendu toute son énergie.",
+        "start": 4057,
+        "end": 4505
+      }
+    ],
+    "canonical_concept": "Des souvenirs restent incomplets",
+    "context": "Au rendez-vous prévu avec la docteure Valette",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour présenter un récit sans combler les blancs"
+    ],
+    "clinical_code": "6B62",
+    "clinical_diagnosis": "État de transe"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/agnes-transe-et-possession": {
+    "character": "Agnès",
+    "character_id": "agnes",
+    "keywords": [
+      "État de transe",
+      "Vocabulaire clinique",
+      "Respect des convictions"
+    ],
+    "character_keywords": [
+      "État de transe",
+      "épisodes involontaires",
+      "repères et mémoire",
+      "pratiques culturelles choisies",
+      "participation professionnelle"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "dfbba1c657d370838101c86bce50cbf86cd00e9b8e4e60dbeb0938bde2fab2f6",
+    "summary": "La brochure dépasse de l’enveloppe qu’Agnès a posée à côté d’elle. Elle ne l’a pas apportée pour contester le diagnostic établi par l’équipe. Elle voudrait comprendre pourquoi deux termes y apparaissent sur la même ligne, comme si le second expliquait forcément le premier. Depuis leur discussion autour du programme, elle mesure mieux ce qu’un rapprochement de mots peut effacer.\n\n[…]\n\nAgnès retient la formulation « épisodes involontaires » pour sa prochaine conversation avec Mireille. Elle garde le compte rendu dans l’enveloppe privée. La docteure Valette lui rappelle que ce vocabulaire ne dispense pas de signaler un changement inhabituel. Agnès repart avec une distinction plus claire, sans avoir à donner une signification spirituelle à son expérience. La feuille quadrillée attend la préparation suivante ; elle reste le support d’un cours, pas un résumé de la consultation.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "La brochure dépasse de l’enveloppe qu’Agnès a posée à côté d’elle. Elle ne l’a pas apportée pour contester le diagnostic établi par l’équipe. Elle voudrait comprendre pourquoi deux termes y apparaissent sur la même ligne, comme si le second expliquait forcément le premier. Depuis leur discussion autour du programme, elle mesure mieux ce qu’un rapprochement de mots peut effacer.",
+        "start": 2,
+        "end": 382
+      },
+      {
+        "quote": "Agnès retient la formulation « épisodes involontaires » pour sa prochaine conversation avec Mireille. Elle garde le compte rendu dans l’enveloppe privée. La docteure Valette lui rappelle que ce vocabulaire ne dispense pas de signaler un changement inhabituel. Agnès repart avec une distinction plus claire, sans avoir à donner une signification spirituelle à son expérience. La feuille quadrillée attend la préparation suivante ; elle reste le support d’un cours, pas un résumé de la consultation.",
+        "start": 4375,
+        "end": 4872
+      }
+    ],
+    "canonical_concept": "Transe ne signifie pas possession",
+    "context": "Une consultation de suivi avec la docteure Valette",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour demander une clarification et choisir ses mots"
+    ],
+    "clinical_code": "6B62",
+    "clinical_diagnosis": "État de transe"
+  },
   "posts/comprendre-et-maitriser-ses-emotions/alexithymie-en-couple": {
     "character": "Youssef",
     "character_id": "youssef",
@@ -7466,6 +7949,487 @@
     "clinical_code": "6B80",
     "clinical_diagnosis": "Anorexie mentale"
   },
+  "posts/comprendre-et-maitriser-ses-emotions/clovis-au-dela-du-defaut-esthetique": {
+    "character": "Clovis",
+    "character_id": "clovis",
+    "keywords": [
+      "Expérience corporelle",
+      "Différenciation clinique",
+      "Mots du vécu"
+    ],
+    "character_keywords": [
+      "Dysphorie de l’intégrité corporelle",
+      "ressenti corporel persistant",
+      "honte et parole",
+      "accès aux soins",
+      "sécurité et participation"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "d188fcb8af74564de8d9e5614cb01617ba94383669876007cdf938e1956b09ee",
+    "summary": "La docteure Roussel referme doucement le carnet sur les repères d’ancienneté, sans le reprendre à Clovis. Il reste quelques minutes de consultation. Clovis explique qu’une personne lui a conseillé d’apprendre à se trouver beau. Il n’a pas su quoi répondre. Il a remercié par politesse, puis regretté d’avoir donné l’impression que la conversation avait touché juste. Aujourd’hui, il voudrait préciser ce décalage.\n\n[…]\n\nClovis écrit qu’il éprouve une discordance corporelle persistante, dont la place dans sa vie doit être discutée avec l’équipe. La phrase lui paraît encore technique, mais elle lui évite de reprendre la conversation sur la beauté. Il demande s’ils pourront aussi parler, lors d’un prochain suivi, d’une étude récente dont il a conservé le titre. La docteure propose de l’examiner avec lui. Il n’emporte aucune consigne d’action sur son corps.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "La docteure Roussel referme doucement le carnet sur les repères d’ancienneté, sans le reprendre à Clovis. Il reste quelques minutes de consultation. Clovis explique qu’une personne lui a conseillé d’apprendre à se trouver beau. Il n’a pas su quoi répondre. Il a remercié par politesse, puis regretté d’avoir donné l’impression que la conversation avait touché juste. Aujourd’hui, il voudrait préciser ce décalage.",
+        "start": 2,
+        "end": 415
+      },
+      {
+        "quote": "Clovis écrit qu’il éprouve une discordance corporelle persistante, dont la place dans sa vie doit être discutée avec l’équipe. La phrase lui paraît encore technique, mais elle lui évite de reprendre la conversation sur la beauté. Il demande s’ils pourront aussi parler, lors d’un prochain suivi, d’une étude récente dont il a conservé le titre. La docteure propose de l’examiner avec lui. Il n’emporte aucune consigne d’action sur son corps.",
+        "start": 3867,
+        "end": 4308
+      }
+    ],
+    "canonical_concept": "Le trouble dépasse un défaut esthétique",
+    "context": "La suite de la consultation",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour clarifier les mots du suivi"
+    ],
+    "clinical_code": "6C21",
+    "clinical_diagnosis": "Dysphorie de l’intégrité corporelle"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/clovis-discordance-difficile-a-nommer": {
+    "character": "Clovis",
+    "character_id": "clovis",
+    "keywords": [
+      "Discordance corporelle",
+      "Parole choisie",
+      "Écoute"
+    ],
+    "character_keywords": [
+      "Dysphorie de l’intégrité corporelle",
+      "ressenti corporel persistant",
+      "honte et parole",
+      "accès aux soins",
+      "sécurité et participation"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "407ed7d1060876a3295be49a4c45c28a8cd58e61542115f6372e0d6d8be883be",
+    "summary": "Le dernier spectateur est parti depuis vingt minutes. Clovis a laissé le conducteur bleu ouvert à la page des transitions, avec un point d’interrogation entre deux bandes sonores. Simon, venu le retrouver, lit le nom du compositeur à l’envers. Il demande si la soirée d’écoute sera ouverte aux habitués du mardi. Clovis répond oui, puis repose son stylo. Il avait prévu de lui parler aujourd’hui et constate qu’il cherche encore une entrée qui ne fasse pas disparaître tout le reste de leur amitié.\n\n[…]\n\nSimon ne demande ni preuve ni détail supplémentaire. « Je peux écouter, et te dire quand je ne comprends pas. » Clovis lui explique qu’il est déjà suivi. Il glisse sa note personnelle dans son carnet, puis laisse le conducteur bleu sur la table. Ils reviennent au choix des bandes sonores. La confidence ne résout pas son inconfort ; elle a trouvé une place dans une conversation où le cinéma existe encore.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Le dernier spectateur est parti depuis vingt minutes. Clovis a laissé le conducteur bleu ouvert à la page des transitions, avec un point d’interrogation entre deux bandes sonores. Simon, venu le retrouver, lit le nom du compositeur à l’envers. Il demande si la soirée d’écoute sera ouverte aux habitués du mardi. Clovis répond oui, puis repose son stylo. Il avait prévu de lui parler aujourd’hui et constate qu’il cherche encore une entrée qui ne fasse pas disparaître tout le reste de leur amitié.",
+        "start": 2,
+        "end": 500
+      },
+      {
+        "quote": "Simon ne demande ni preuve ni détail supplémentaire. « Je peux écouter, et te dire quand je ne comprends pas. » Clovis lui explique qu’il est déjà suivi. Il glisse sa note personnelle dans son carnet, puis laisse le conducteur bleu sur la table. Ils reviennent au choix des bandes sonores. La confidence ne résout pas son inconfort ; elle a trouvé une place dans une conversation où le cinéma existe encore.",
+        "start": 3895,
+        "end": 4302
+      }
+    ],
+    "canonical_concept": "Une discordance corporelle difficile à nommer",
+    "context": "Au cinéma après la fermeture",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour préparer une parole choisie"
+    ],
+    "clinical_code": "6C21",
+    "clinical_diagnosis": "Dysphorie de l’intégrité corporelle"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/clovis-ecoute-en-consultation": {
+    "character": "Clovis",
+    "character_id": "clovis",
+    "keywords": [
+      "Accès aux soins",
+      "Écoute clinique",
+      "Demande précise"
+    ],
+    "character_keywords": [
+      "Dysphorie de l’intégrité corporelle",
+      "ressenti corporel persistant",
+      "honte et parole",
+      "accès aux soins",
+      "sécurité et participation"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "f8f1bcb0ee2be7ffbed7c362cb19c3779b0ba9d0ce4bdd33a7ab6f92f387e91f",
+    "summary": "Dans la salle d’attente, Clovis relit une phrase qu’il a écrite la veille : « Je voudrais décrire la gêne sans devoir justifier chaque mot. » Il avait d’abord préparé une page entière. Elle commençait par le cinéma, passait par la conversation avec Simon et se terminait par une excuse. Il en a gardé les éléments utiles dans son carnet, mais placé cette seule phrase en haut. Le conducteur bleu est resté au bureau, avec la confirmation de salle envoyée par Nora.\n\n[…]\n\nAvant de partir, Clovis reformule ce qu’il a compris de la suite du suivi. La docteure confirme les modalités et ils conviennent d’aborder plus longuement l’ancienneté de son ressenti au prochain rendez-vous. Il ne ressort pas avec une explication définitive. Sa phrase a néanmoins été entendue, et les questions de sécurité n’ont pas remplacé tout le reste de la conversation. Il laisse sa note dans son carnet privé.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Dans la salle d’attente, Clovis relit une phrase qu’il a écrite la veille : « Je voudrais décrire la gêne sans devoir justifier chaque mot. » Il avait d’abord préparé une page entière. Elle commençait par le cinéma, passait par la conversation avec Simon et se terminait par une excuse. Il en a gardé les éléments utiles dans son carnet, mais placé cette seule phrase en haut. Le conducteur bleu est resté au bureau, avec la confirmation de salle envoyée par Nora.",
+        "start": 2,
+        "end": 466
+      },
+      {
+        "quote": "Avant de partir, Clovis reformule ce qu’il a compris de la suite du suivi. La docteure confirme les modalités et ils conviennent d’aborder plus longuement l’ancienneté de son ressenti au prochain rendez-vous. Il ne ressort pas avec une explication définitive. Sa phrase a néanmoins été entendue, et les questions de sécurité n’ont pas remplacé tout le reste de la conversation. Il laisse sa note dans son carnet privé.",
+        "start": 3742,
+        "end": 4160
+      }
+    ],
+    "canonical_concept": "Être écouté sans devoir se justifier",
+    "context": "Un rendez-vous avec la docteure Roussel",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour préparer un échange de suivi"
+    ],
+    "clinical_code": "6C21",
+    "clinical_diagnosis": "Dysphorie de l’intégrité corporelle"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/clovis-etude-et-soin": {
+    "character": "Clovis",
+    "character_id": "clovis",
+    "keywords": [
+      "Recherche",
+      "Limites des preuves",
+      "Suivi individualisé"
+    ],
+    "character_keywords": [
+      "Dysphorie de l’intégrité corporelle",
+      "ressenti corporel persistant",
+      "honte et parole",
+      "accès aux soins",
+      "sécurité et participation"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "9def26e2325e9659cfb6308403d517bb0fcd7a783b6e72e5a2c240d393690143",
+    "summary": "Clovis a copié le titre de l’étude sur une feuille séparée. Le texte parle de réalité virtuelle et d’expérience corporelle ; il n’a conservé ni matériel à chercher ni consigne à essayer. Ce qui l’a retenu, c’est l’idée qu’une équipe de recherche ait travaillé sur une difficulté qu’il peine encore à nommer dans une conversation ordinaire. Pendant quelques jours, il a lu ce titre comme l’annonce possible d’une solution.\n\n[…]\n\nClovis écrit trois questions au dos du titre, puis range la feuille dans son carnet. Il ne prépare aucun essai autonome. Au cinéma, il retrouve le conducteur bleu : Nora a confirmé la salle et Malik a ajouté les durées. Clovis reprend la liste des crédits. Le projet culturel n’est pas devenu un traitement ; il reste une chose qu’il souhaite réaliser pendant que son suivi se poursuit.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Clovis a copié le titre de l’étude sur une feuille séparée. Le texte parle de réalité virtuelle et d’expérience corporelle ; il n’a conservé ni matériel à chercher ni consigne à essayer. Ce qui l’a retenu, c’est l’idée qu’une équipe de recherche ait travaillé sur une difficulté qu’il peine encore à nommer dans une conversation ordinaire. Pendant quelques jours, il a lu ce titre comme l’annonce possible d’une solution.",
+        "start": 2,
+        "end": 423
+      },
+      {
+        "quote": "Clovis écrit trois questions au dos du titre, puis range la feuille dans son carnet. Il ne prépare aucun essai autonome. Au cinéma, il retrouve le conducteur bleu : Nora a confirmé la salle et Malik a ajouté les durées. Clovis reprend la liste des crédits. Le projet culturel n’est pas devenu un traitement ; il reste une chose qu’il souhaite réaliser pendant que son suivi se poursuit.",
+        "start": 3963,
+        "end": 4349
+      }
+    ],
+    "canonical_concept": "Une étude ne garantit pas un soin",
+    "context": "Une question de recherche en consultation",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour discuter une information scientifique"
+    ],
+    "clinical_code": "6C21",
+    "clinical_diagnosis": "Dysphorie de l’intégrité corporelle"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/clovis-honte-et-parole": {
+    "character": "Clovis",
+    "character_id": "clovis",
+    "keywords": [
+      "Honte",
+      "Peur du rejet",
+      "Limites de la confidence"
+    ],
+    "character_keywords": [
+      "Dysphorie de l’intégrité corporelle",
+      "ressenti corporel persistant",
+      "honte et parole",
+      "accès aux soins",
+      "sécurité et participation"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "a8e079cc656e37784b04d2c01be3d59aa41769819beff78ea67503c4d45f1953",
+    "summary": "Clovis est arrivé en avance au café. Il a choisi une table près de la fenêtre, puis se demande si elle est trop visible. Simon le retrouve avec le programme du cinéma plié dans sa poche. Il veut lui raconter une affiche aperçue en chemin, mais Clovis l’interrompt presque aussitôt : « Pour l’autre soir, je suis désolé. » Simon pose son manteau sur la chaise et demande de quoi il s’excuse.\n\n[…]\n\nClovis efface son brouillon d’annulation. « La semaine prochaine, je veux bien qu’on se voie. Et si je n’en parle pas, on pourra parler du cinéma. » Simon accepte. Il lui raconte enfin l’affiche aperçue en chemin. Clovis n’est pas soudain débarrassé de sa honte, mais il ne quitte pas le café avant d’avoir entendu la réponse de son ami. Il retient aussi une phrase pour son prochain rendez-vous : être écouté sans devoir défendre son vécu.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Clovis est arrivé en avance au café. Il a choisi une table près de la fenêtre, puis se demande si elle est trop visible. Simon le retrouve avec le programme du cinéma plié dans sa poche. Il veut lui raconter une affiche aperçue en chemin, mais Clovis l’interrompt presque aussitôt : « Pour l’autre soir, je suis désolé. » Simon pose son manteau sur la chaise et demande de quoi il s’excuse.",
+        "start": 2,
+        "end": 392
+      },
+      {
+        "quote": "Clovis efface son brouillon d’annulation. « La semaine prochaine, je veux bien qu’on se voie. Et si je n’en parle pas, on pourra parler du cinéma. » Simon accepte. Il lui raconte enfin l’affiche aperçue en chemin. Clovis n’est pas soudain débarrassé de sa honte, mais il ne quitte pas le café avant d’avoir entendu la réponse de son ami. Il retient aussi une phrase pour son prochain rendez-vous : être écouté sans devoir défendre son vécu.",
+        "start": 3688,
+        "end": 4128
+      }
+    ],
+    "canonical_concept": "La honte retarde la parole",
+    "context": "Un café avec Simon",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour choisir ce que l’on partage"
+    ],
+    "clinical_code": "6C21",
+    "clinical_diagnosis": "Dysphorie de l’intégrité corporelle"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/clovis-intensite-variable": {
+    "character": "Clovis",
+    "character_id": "clovis",
+    "keywords": [
+      "Fluctuations",
+      "Retentissement quotidien",
+      "Continuité du suivi"
+    ],
+    "character_keywords": [
+      "Dysphorie de l’intégrité corporelle",
+      "ressenti corporel persistant",
+      "honte et parole",
+      "accès aux soins",
+      "sécurité et participation"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "dbfb20607a48bcf057fc6a1ff342d821c419b603c00c4c7d9a06de4d4cc67520",
+    "summary": "Pendant plusieurs jours, Clovis a travaillé sur les crédits sans devoir reprendre chaque ligne. Il a retrouvé le plaisir de reconnaître une ambiance sonore avant de lire le nom du film. La préoccupation n’avait pas disparu, mais elle lui laissait davantage de place. Il a même pensé qu’il pourrait bientôt cesser de garder ses contacts de suivi aussi facilement accessibles. Il n’en a rien changé ; la pensée lui avait seulement traversé l’esprit.\n\n[…]\n\nClovis transmet l’évolution selon les modalités convenues avec son équipe. Il demande à Nora si elle peut conduire la réunion avec Malik ; elle confirme et lui indique qu’ils lui enverront les décisions utiles. Il garde seulement la liste des crédits déjà vérifiés. Son carnet et les contacts restent accessibles. Il ne sait pas encore comment les prochains jours se passeront, mais n’a pas transformé cette matinée en preuve que tout son parcours était inutile.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Pendant plusieurs jours, Clovis a travaillé sur les crédits sans devoir reprendre chaque ligne. Il a retrouvé le plaisir de reconnaître une ambiance sonore avant de lire le nom du film. La préoccupation n’avait pas disparu, mais elle lui laissait davantage de place. Il a même pensé qu’il pourrait bientôt cesser de garder ses contacts de suivi aussi facilement accessibles. Il n’en a rien changé ; la pensée lui avait seulement traversé l’esprit.",
+        "start": 2,
+        "end": 449
+      },
+      {
+        "quote": "Clovis transmet l’évolution selon les modalités convenues avec son équipe. Il demande à Nora si elle peut conduire la réunion avec Malik ; elle confirme et lui indique qu’ils lui enverront les décisions utiles. Il garde seulement la liste des crédits déjà vérifiés. Son carnet et les contacts restent accessibles. Il ne sait pas encore comment les prochains jours se passeront, mais n’a pas transformé cette matinée en preuve que tout son parcours était inutile.",
+        "start": 3862,
+        "end": 4324
+      }
+    ],
+    "canonical_concept": "L’intensité varie au fil des jours",
+    "context": "Une matinée avant la réunion",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour signaler une évolution"
+    ],
+    "clinical_code": "6C21",
+    "clinical_diagnosis": "Dysphorie de l’intégrité corporelle"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/clovis-place-professionnelle-choisie": {
+    "character": "Clovis",
+    "character_id": "clovis",
+    "keywords": [
+      "Reprise choisie",
+      "Répartition du travail",
+      "Participation"
+    ],
+    "character_keywords": [
+      "Dysphorie de l’intégrité corporelle",
+      "ressenti corporel persistant",
+      "honte et parole",
+      "accès aux soins",
+      "sécurité et participation"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "de13665777111ccdaeb9a3dc84ca97dc3eacab78b69c6200f93be654c23b2f9a",
+    "summary": "Le point de suivi a permis de discuter la reprise d’un rôle limité. Clovis retrouve Nora et Malik au cinéma avec les possibilités convenues, sans promesse de pouvoir tout assurer. Le conducteur bleu a changé de place : il est maintenant dans une chemise sur laquelle Nora a écrit la date de la soirée. La sélection sonore est restée celle qu’ils avaient validée ensemble. Malik a vérifié les durées et préparé les transitions techniques.\n\n[…]\n\nLe conducteur porte désormais trois responsabilités : accueil pour Nora, régie pour Malik, sélection et courte introduction pour Clovis. Nora accepte de lire l’introduction si cela devient nécessaire et en reçoit le texte. Clovis garde ses contacts de suivi à part. La soirée ne dépend plus de sa capacité à remplir tous les rôles. Il peut préparer ses quelques phrases sans les charger d’une démonstration de rétablissement.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Le point de suivi a permis de discuter la reprise d’un rôle limité. Clovis retrouve Nora et Malik au cinéma avec les possibilités convenues, sans promesse de pouvoir tout assurer. Le conducteur bleu a changé de place : il est maintenant dans une chemise sur laquelle Nora a écrit la date de la soirée. La sélection sonore est restée celle qu’ils avaient validée ensemble. Malik a vérifié les durées et préparé les transitions techniques.",
+        "start": 2,
+        "end": 439
+      },
+      {
+        "quote": "Le conducteur porte désormais trois responsabilités : accueil pour Nora, régie pour Malik, sélection et courte introduction pour Clovis. Nora accepte de lire l’introduction si cela devient nécessaire et en reçoit le texte. Clovis garde ses contacts de suivi à part. La soirée ne dépend plus de sa capacité à remplir tous les rôles. Il peut préparer ses quelques phrases sans les charger d’une démonstration de rétablissement.",
+        "start": 3801,
+        "end": 4226
+      }
+    ],
+    "canonical_concept": "Garder une place professionnelle choisie",
+    "context": "Le retour à la préparation au cinéma",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour définir une participation possible"
+    ],
+    "clinical_code": "6C21",
+    "clinical_diagnosis": "Dysphorie de l’intégrité corporelle"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/clovis-preoccupation-au-travail": {
+    "character": "Clovis",
+    "character_id": "clovis",
+    "keywords": [
+      "Préoccupation",
+      "Attention au travail",
+      "Responsabilités partagées"
+    ],
+    "character_keywords": [
+      "Dysphorie de l’intégrité corporelle",
+      "ressenti corporel persistant",
+      "honte et parole",
+      "accès aux soins",
+      "sécurité et participation"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "e02b4f1a487fa44a127588044a7c58c146ec85ac2ccf6aec865ca80e392047e7",
+    "summary": "Nora a apporté une liste de trois propositions et Malik un enregistrement qu’il veut faire entendre avant de choisir. Clovis reconnaît le début de la première bande sonore. Il se rappelle avoir cherché le nom du preneur de son pour une autre séance, plusieurs années auparavant. Puis sa préoccupation corporelle revient au premier plan. Il entend les voix dans le bureau sans parvenir à suivre la comparaison entre les deux transitions. Quand Nora lui demande s’ils gardent l’ordre annoncé, il répond oui un peu trop vite.\n\n[…]\n\nIls conservent l’ordre proposé par Nora et le reportent sur le conducteur bleu. Clovis lui demande aussi si elle peut confirmer la salle. Elle accepte et envoie le message devant eux. Malik garde la vérification des durées. Clovis reprend les crédits musicaux, une tâche qu’il peut mener maintenant, sans promettre de réparer tout seul la réunion. Il apprécie leur aide et se demande déjà ce que ses hésitations leur ont laissé deviner.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Nora a apporté une liste de trois propositions et Malik un enregistrement qu’il veut faire entendre avant de choisir. Clovis reconnaît le début de la première bande sonore. Il se rappelle avoir cherché le nom du preneur de son pour une autre séance, plusieurs années auparavant. Puis sa préoccupation corporelle revient au premier plan. Il entend les voix dans le bureau sans parvenir à suivre la comparaison entre les deux transitions. Quand Nora lui demande s’ils gardent l’ordre annoncé, il répond oui un peu trop vite.",
+        "start": 2,
+        "end": 524
+      },
+      {
+        "quote": "Ils conservent l’ordre proposé par Nora et le reportent sur le conducteur bleu. Clovis lui demande aussi si elle peut confirmer la salle. Elle accepte et envoie le message devant eux. Malik garde la vérification des durées. Clovis reprend les crédits musicaux, une tâche qu’il peut mener maintenant, sans promettre de réparer tout seul la réunion. Il apprécie leur aide et se demande déjà ce que ses hésitations leur ont laissé deviner.",
+        "start": 3760,
+        "end": 4196
+      }
+    ],
+    "canonical_concept": "La préoccupation occupe le travail",
+    "context": "La sélection des bandes sonores",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour clarifier une tâche partagée"
+    ],
+    "clinical_code": "6C21",
+    "clinical_diagnosis": "Dysphorie de l’intégrité corporelle"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/clovis-proche-et-relais": {
+    "character": "Clovis",
+    "character_id": "clovis",
+    "keywords": [
+      "Soutien relationnel",
+      "Limites du proche",
+      "Continuité des soins"
+    ],
+    "character_keywords": [
+      "Dysphorie de l’intégrité corporelle",
+      "ressenti corporel persistant",
+      "honte et parole",
+      "accès aux soins",
+      "sécurité et participation"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "691914155ef20cac8c87863b33ff40aed747a880a94d432f66a3047e60597dfd",
+    "summary": "Le point clinique a eu lieu et le suivi a été ajusté avec Clovis. Il n’est plus dans la situation aiguë de l’autre jour. Les décisions de reprise restent à discuter avec l’équipe ; pour l’instant, Nora et Malik continuent la préparation. Simon retrouve Clovis à un moment convenu, sans le conducteur bleu. Il lui demande s’ils peuvent parler de la façon dont ils se soutiennent, maintenant que l’urgence ne décide plus de chaque minute.\n\n[…]\n\nClovis et Simon conservent leur prochain café. Le support privé contient les relais effectivement confirmés avec l’équipe, pas une promesse de disponibilité permanente. Clovis ne demande pas à Simon de vérifier chaque soir comment il va. Simon n’abandonne pas pour autant les sorties qu’ils avaient prévues. La reprise du cinéma attendra le point de suivi ; elle ne sera ni décidée par leur amitié ni utilisée pour prouver que tout est réglé.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Le point clinique a eu lieu et le suivi a été ajusté avec Clovis. Il n’est plus dans la situation aiguë de l’autre jour. Les décisions de reprise restent à discuter avec l’équipe ; pour l’instant, Nora et Malik continuent la préparation. Simon retrouve Clovis à un moment convenu, sans le conducteur bleu. Il lui demande s’ils peuvent parler de la façon dont ils se soutiennent, maintenant que l’urgence ne décide plus de chaque minute.",
+        "start": 2,
+        "end": 438
+      },
+      {
+        "quote": "Clovis et Simon conservent leur prochain café. Le support privé contient les relais effectivement confirmés avec l’équipe, pas une promesse de disponibilité permanente. Clovis ne demande pas à Simon de vérifier chaque soir comment il va. Simon n’abandonne pas pour autant les sorties qu’ils avaient prévues. La reprise du cinéma attendra le point de suivi ; elle ne sera ni décidée par leur amitié ni utilisée pour prouver que tout est réglé.",
+        "start": 3881,
+        "end": 4323
+      }
+    ],
+    "canonical_concept": "Un proche soutient sans tout porter",
+    "context": "Après le point clinique, hors de la situation aiguë",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour clarifier les appuis hors crise"
+    ],
+    "clinical_code": "6C21",
+    "clinical_diagnosis": "Dysphorie de l’intégrité corporelle"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/clovis-projet-et-suivi": {
+    "character": "Clovis",
+    "character_id": "clovis",
+    "keywords": [
+      "Projet personnel",
+      "Appuis maintenus",
+      "Suivi continu"
+    ],
+    "character_keywords": [
+      "Dysphorie de l’intégrité corporelle",
+      "ressenti corporel persistant",
+      "honte et parole",
+      "accès aux soins",
+      "sécurité et participation"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "789a6a8f627998be79d606b34b9482828bf8e382316e83d8a8452e3c321ca0d2",
+    "summary": "Nora vérifie les noms à l’entrée pendant que Malik installe son conducteur à la régie. Dans la salle, les lumières permettent encore aux spectateurs de trouver leur fauteuil. Clovis se tient près de la première rangée, sa courte introduction pliée dans la main. Il a vérifié avec Nora qu’elle en possède toujours une copie. Ce détail lui permet de ne pas traiter ses quelques phrases comme une épreuve dont dépendrait toute la soirée.\n\n[…]\n\nÀ la fin, Nora ferme l’accueil et Malik range ses notes. Clovis les remercie sans proposer aussitôt de reprendre toutes leurs tâches la prochaine fois. Ils conviennent d’un bilan court sur le programme et les transitions. Dans la marge du conducteur bleu, il inscrit une nouvelle idée de sélection. Son carnet privé garde les contacts et les rendez-vous. La soirée a eu lieu ; elle n’a pas rendu son corps acceptable par décret ni fait disparaître le suivi. Elle a simplement une place dans sa vie.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Nora vérifie les noms à l’entrée pendant que Malik installe son conducteur à la régie. Dans la salle, les lumières permettent encore aux spectateurs de trouver leur fauteuil. Clovis se tient près de la première rangée, sa courte introduction pliée dans la main. Il a vérifié avec Nora qu’elle en possède toujours une copie. Ce détail lui permet de ne pas traiter ses quelques phrases comme une épreuve dont dépendrait toute la soirée.",
+        "start": 2,
+        "end": 436
+      },
+      {
+        "quote": "À la fin, Nora ferme l’accueil et Malik range ses notes. Clovis les remercie sans proposer aussitôt de reprendre toutes leurs tâches la prochaine fois. Ils conviennent d’un bilan court sur le programme et les transitions. Dans la marge du conducteur bleu, il inscrit une nouvelle idée de sélection. Son carnet privé garde les contacts et les rendez-vous. La soirée a eu lieu ; elle n’a pas rendu son corps acceptable par décret ni fait disparaître le suivi. Elle a simplement une place dans sa vie.",
+        "start": 3858,
+        "end": 4356
+      }
+    ],
+    "canonical_concept": "Le projet continue avec le suivi",
+    "context": "La soirée d’écoute au cinéma",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour prolonger un projet soutenable",
+      "2. Faire un bilan pratique"
+    ],
+    "clinical_code": "6C21",
+    "clinical_diagnosis": "Dysphorie de l’intégrité corporelle"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/clovis-securite-prioritaire": {
+    "character": "Clovis",
+    "character_id": "clovis",
+    "keywords": [
+      "Sécurité",
+      "Demande d’aide",
+      "Relais professionnel"
+    ],
+    "character_keywords": [
+      "Dysphorie de l’intégrité corporelle",
+      "ressenti corporel persistant",
+      "honte et parole",
+      "accès aux soins",
+      "sécurité et participation"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "b0ac357e9ed4958001aa011b3349a32ca8c57ff72a02c020dde5095723601094",
+    "summary": "Simon devait passer chez Clovis pour regarder le programme transmis par Nora. Le conducteur bleu est posé sur la table, mais Clovis ne l’ouvre pas. La difficulté a augmenté depuis le message à son équipe. Il a cessé de chercher une formulation élégante : « Je crains de me blesser. J’ai besoin d’aide maintenant. » Simon laisse son manteau sur une chaise. Il ne demande pas de finir d’abord la discussion sur la soirée.\n\n[…]\n\nAprès l’accueil par l’équipe, les modalités de la suite sont précisées avec Clovis. Le travail reste suspendu. Avec son accord, Simon envoie seulement à Nora que Clovis ne peut pas assurer la préparation et qu’il faut poursuivre avec Malik. Nora confirme. Simon ne promet pas d’être toujours présent et ne demande pas de garantie en retour. Pour ce moment, le relais professionnel a eu lieu et la soirée n’a pas pris priorité sur les soins.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Simon devait passer chez Clovis pour regarder le programme transmis par Nora. Le conducteur bleu est posé sur la table, mais Clovis ne l’ouvre pas. La difficulté a augmenté depuis le message à son équipe. Il a cessé de chercher une formulation élégante : « Je crains de me blesser. J’ai besoin d’aide maintenant. » Simon laisse son manteau sur une chaise. Il ne demande pas de finir d’abord la discussion sur la soirée.",
+        "start": 2,
+        "end": 421
+      },
+      {
+        "quote": "Après l’accueil par l’équipe, les modalités de la suite sont précisées avec Clovis. Le travail reste suspendu. Avec son accord, Simon envoie seulement à Nora que Clovis ne peut pas assurer la préparation et qu’il faut poursuivre avec Malik. Nora confirme. Simon ne promet pas d’être toujours présent et ne demande pas de garantie en retour. Pour ce moment, le relais professionnel a eu lieu et la soirée n’a pas pris priorité sur les soins.",
+        "start": 4038,
+        "end": 4478
+      }
+    ],
+    "canonical_concept": "Quand la sécurité devient prioritaire",
+    "context": "Chez Clovis avant un point sur la soirée",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour préparer les relais hors d’une crise"
+    ],
+    "clinical_code": "6C21",
+    "clinical_diagnosis": "Dysphorie de l’intégrité corporelle"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/clovis-vecu-ancien-diagnostic": {
+    "character": "Clovis",
+    "character_id": "clovis",
+    "keywords": [
+      "Ancienneté du vécu",
+      "Histoire personnelle",
+      "Incertitude"
+    ],
+    "character_keywords": [
+      "Dysphorie de l’intégrité corporelle",
+      "ressenti corporel persistant",
+      "honte et parole",
+      "accès aux soins",
+      "sécurité et participation"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "339766ea4d082648f76531b95b275a119ef661fd196b608637740cdc5ae1357f",
+    "summary": "Au rendez-vous suivant, Clovis ouvre son carnet à une page presque vide. Il avait pensé y tracer une ligne allant de son enfance au cinéma associatif. Il a finalement écrit trois repères, puis laissé entre eux des espaces qu’il n’arrive pas à remplir. La docteure Roussel lui demande comment ce travail de préparation s’est passé. « J’ai surtout vu ce que je ne savais pas dater », répond-il.\n\n[…]\n\nClovis garde ses trois repères et les espaces entre eux. « Je peux dire que c’était déjà là, même si je ne sais pas pourquoi », résume-t-il. La docteure confirme qu’ils peuvent travailler avec ces limites. Il passe ensuite à deux mots entendus ailleurs, « défaut » et « obsession », qui lui semblent déformer ce qu’il essaie de raconter. La consultation continue sur ces mots plutôt que sur un souvenir qu’il faudrait retrouver.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Au rendez-vous suivant, Clovis ouvre son carnet à une page presque vide. Il avait pensé y tracer une ligne allant de son enfance au cinéma associatif. Il a finalement écrit trois repères, puis laissé entre eux des espaces qu’il n’arrive pas à remplir. La docteure Roussel lui demande comment ce travail de préparation s’est passé. « J’ai surtout vu ce que je ne savais pas dater », répond-il.",
+        "start": 2,
+        "end": 394
+      },
+      {
+        "quote": "Clovis garde ses trois repères et les espaces entre eux. « Je peux dire que c’était déjà là, même si je ne sais pas pourquoi », résume-t-il. La docteure confirme qu’ils peuvent travailler avec ces limites. Il passe ensuite à deux mots entendus ailleurs, « défaut » et « obsession », qui lui semblent déformer ce qu’il essaie de raconter. La consultation continue sur ces mots plutôt que sur un souvenir qu’il faudrait retrouver.",
+        "start": 3863,
+        "end": 4291
+      }
+    ],
+    "canonical_concept": "Un vécu ancien reconnu tardivement",
+    "context": "Le rendez-vous de suivi suivant",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour raconter sans forcer les souvenirs"
+    ],
+    "clinical_code": "6C21",
+    "clinical_diagnosis": "Dysphorie de l’intégrité corporelle"
+  },
   "posts/comprendre-et-maitriser-ses-emotions/coherence-cardiaque-au-travail-nadia": {
     "character": "Nadia",
     "character_id": "nadia",
@@ -13842,6 +14806,489 @@
     "resources": [
       "Techniques pour réguler l’euphorie"
     ]
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/evaelle-cout-du-quotidien": {
+    "character": "Évaëlle",
+    "character_id": "evaelle",
+    "keywords": [
+      "retentissement quotidien",
+      "effort invisible",
+      "priorités"
+    ],
+    "character_keywords": [
+      "Trouble dissociatif de l’identité partiel",
+      "intrusions internes",
+      "sentiment d’agentivité",
+      "retentissement quotidien",
+      "engagements et limites"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "ee1df4c1d98629709175543e2e48726aa1ade4e0d828009afbd28550c84a708e",
+    "summary": "Malik tient l’affiche orange à bout de bras pour vérifier qu’on peut lire l’horaire depuis le couloir. Il trouve le résultat clair. Les trois catégories figurent en bas. Au créneau suivant la création de l’affiche, Nora a découpé les cartes et Évaëlle y a recopié les cinq recommandations. « Ça avance bien », dit-il. Évaëlle est contente qu’il remarque son travail. Elle voudrait pouvoir s’arrêter sur ce plaisir simple.\n\n[…]\n\nÉvaëlle envoie le message. Malik confirme qu’il organisera la mise en place avec l’équipe et lui demandera seulement de vérifier les cinq recommandations. La personne et l’horaire précis restent à fixer. Au suivi, elle décrit les interruptions et la fatigue ressentie après les préparatifs. Elle ne présente pas l’affiche terminée comme la preuve que tout va bien. Le carnet contient désormais une tâche de moins pour elle, et une question d’organisation encore à résoudre.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Malik tient l’affiche orange à bout de bras pour vérifier qu’on peut lire l’horaire depuis le couloir. Il trouve le résultat clair. Les trois catégories figurent en bas. Au créneau suivant la création de l’affiche, Nora a découpé les cartes et Évaëlle y a recopié les cinq recommandations. « Ça avance bien », dit-il. Évaëlle est contente qu’il remarque son travail. Elle voudrait pouvoir s’arrêter sur ce plaisir simple.",
+        "start": 2,
+        "end": 423
+      },
+      {
+        "quote": "Évaëlle envoie le message. Malik confirme qu’il organisera la mise en place avec l’équipe et lui demandera seulement de vérifier les cinq recommandations. La personne et l’horaire précis restent à fixer. Au suivi, elle décrit les interruptions et la fatigue ressentie après les préparatifs. Elle ne présente pas l’affiche terminée comme la preuve que tout va bien. Le carnet contient désormais une tâche de moins pour elle, et une question d’organisation encore à résoudre.",
+        "start": 4021,
+        "end": 4494
+      }
+    ],
+    "canonical_concept": "Tenir le quotidien coûte un effort",
+    "context": "Répartir les dernières tâches",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour adapter la charge restante"
+    ],
+    "clinical_code": "6B65",
+    "clinical_diagnosis": "Trouble dissociatif de l’identité partiel"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/evaelle-engagement-choisi-aboutit": {
+    "character": "Évaëlle",
+    "character_id": "evaelle",
+    "keywords": [
+      "participation",
+      "limites respectées",
+      "continuité du suivi"
+    ],
+    "character_keywords": [
+      "Trouble dissociatif de l’identité partiel",
+      "intrusions internes",
+      "sentiment d’agentivité",
+      "retentissement quotidien",
+      "engagements et limites"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "4d3ebccd0aedb094ee76a00c4305d6c6675afb2a9e65a4ce5e11521f45c7491c",
+    "summary": "La première personne arrive avec deux livres dans un sac de courses. Évaëlle lui montre les trois caisses et explique qu’elle peut aussi écrire une recommandation sur une carte. La table a l’air simple maintenant qu’elle est prête. Samir est à côté, comme convenu ; il connaît les catégories et les modalités de l’échange. Nora discute déjà avec une résidente d’un roman qu’elles ont toutes deux lu.\n\n[…]\n\nSamir reprend la table et répond à la visiteuse suivante. Évaëlle choisit un recueil pour sa couverture orange, puis en lit quelques lignes avant de le mettre dans son sac. Elle salue Nora et part à l’heure convenue. Le prochain rendez-vous avec la docteure Roussel reste inscrit. Elle aimerait proposer un coin poésie une autre fois, mais ne promet pas de date. L’échange de livres a eu lieu, la fermeture n’est pas à sa charge, et son projet peut avoir une suite sans occuper toutes ses marges.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "La première personne arrive avec deux livres dans un sac de courses. Évaëlle lui montre les trois caisses et explique qu’elle peut aussi écrire une recommandation sur une carte. La table a l’air simple maintenant qu’elle est prête. Samir est à côté, comme convenu ; il connaît les catégories et les modalités de l’échange. Nora discute déjà avec une résidente d’un roman qu’elles ont toutes deux lu.",
+        "start": 2,
+        "end": 401
+      },
+      {
+        "quote": "Samir reprend la table et répond à la visiteuse suivante. Évaëlle choisit un recueil pour sa couverture orange, puis en lit quelques lignes avant de le mettre dans son sac. Elle salue Nora et part à l’heure convenue. Le prochain rendez-vous avec la docteure Roussel reste inscrit. Elle aimerait proposer un coin poésie une autre fois, mais ne promet pas de date. L’échange de livres a eu lieu, la fermeture n’est pas à sa charge, et son projet peut avoir une suite sans occuper toutes ses marges.",
+        "start": 3952,
+        "end": 4448
+      }
+    ],
+    "canonical_concept": "Un engagement choisi peut aboutir",
+    "context": "Le jour de l’échange de livres",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "Une réussite pratique n’est pas un verdict clinique",
+      "3 techniques pour terminer sans dépasser sa limite"
+    ],
+    "clinical_code": "6B65",
+    "clinical_diagnosis": "Trouble dissociatif de l’identité partiel"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/evaelle-fluctuation-et-relais": {
+    "character": "Évaëlle",
+    "character_id": "evaelle",
+    "keywords": [
+      "fluctuations",
+      "relais convenu",
+      "suivi continu"
+    ],
+    "character_keywords": [
+      "Trouble dissociatif de l’identité partiel",
+      "intrusions internes",
+      "sentiment d’agentivité",
+      "retentissement quotidien",
+      "engagements et limites"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "ad4175bbe669cb6d2f835941b1870f03310a9c0080d6cb0670a5e21314eb88a2",
+    "summary": "Un peu plus tard ce même vendredi, les caisses préparées par Nora attendent près de la table. Samir vérifie que les catégories restent visibles une fois les livres disposés. Évaëlle vient seulement apporter les cinq recommandations et regarder leur place. Elle n’a pas repris toute l’installation qui avait été déléguée. Pendant quelques jours, les expériences intérieures lui ont laissé davantage de place, et elle espérait traverser cette dernière étape avec la même facilité.\n\n[…]\n\nSamir termine l’installation. Évaëlle vérifie seulement que les cinq titres sont lisibles, puis s’arrête. Elle transmet le changement au suivi selon leur cadre convenu et garde les indications déjà données. Avec Malik et Samir, elle confirme pour le lendemain les trente minutes d’accueil, avec possibilité de passer le relais plus tôt si nécessaire. L’affiche et les caisses sont en place. Elle ne prend aucun engagement supplémentaire pour compenser l’interruption de cette préparation.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Un peu plus tard ce même vendredi, les caisses préparées par Nora attendent près de la table. Samir vérifie que les catégories restent visibles une fois les livres disposés. Évaëlle vient seulement apporter les cinq recommandations et regarder leur place. Elle n’a pas repris toute l’installation qui avait été déléguée. Pendant quelques jours, les expériences intérieures lui ont laissé davantage de place, et elle espérait traverser cette dernière étape avec la même facilité.",
+        "start": 2,
+        "end": 480
+      },
+      {
+        "quote": "Samir termine l’installation. Évaëlle vérifie seulement que les cinq titres sont lisibles, puis s’arrête. Elle transmet le changement au suivi selon leur cadre convenu et garde les indications déjà données. Avec Malik et Samir, elle confirme pour le lendemain les trente minutes d’accueil, avec possibilité de passer le relais plus tôt si nécessaire. L’affiche et les caisses sont en place. Elle ne prend aucun engagement supplémentaire pour compenser l’interruption de cette préparation.",
+        "start": 3976,
+        "end": 4464
+      }
+    ],
+    "canonical_concept": "Une fluctuation ne décide pas de tout",
+    "context": "Derniers préparatifs de la table",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour ajuster sa participation"
+    ],
+    "clinical_code": "6B65",
+    "clinical_diagnosis": "Trouble dissociatif de l’identité partiel"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/evaelle-geste-et-initiative": {
+    "character": "Évaëlle",
+    "character_id": "evaelle",
+    "keywords": [
+      "sentiment d’agentivité",
+      "vécu du geste",
+      "pause choisie"
+    ],
+    "character_keywords": [
+      "Trouble dissociatif de l’identité partiel",
+      "intrusions internes",
+      "sentiment d’agentivité",
+      "retentissement quotidien",
+      "engagements et limites"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "9c241173b8a8f3fae7ca299799faf2b0bb52f771c1e5d55a053e07df013414da",
+    "summary": "Les cinq titres retenus sont recopiés sur la page de gauche du carnet vert. Sur celle de droite, Évaëlle a dessiné un rectangle pour décider de la taille des cartes. Elle voudrait laisser assez de place pour une recommandation courte, sans transformer chaque visiteur en critique littéraire. Nora a apporté du papier épais. Elles préparent un premier exemplaire avant de découper le reste.\n\n[…]\n\nÉvaëlle renonce aux découpes pour cette séance. Nora accepte de garder le papier pour leur prochain créneau. Ensemble, elles vérifient seulement l’orthographe des cinq titres, puis s’arrêtent. Dans le carnet vert, Évaëlle écrit une question destinée au suivi : « Je me souviens du geste ; pourquoi m’a-t-il paru étranger ? » Elle ne dessine pas une histoire cachée autour de la carte. Cette question, telle qu’elle est, lui paraît suffisante pour le prochain rendez-vous.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Les cinq titres retenus sont recopiés sur la page de gauche du carnet vert. Sur celle de droite, Évaëlle a dessiné un rectangle pour décider de la taille des cartes. Elle voudrait laisser assez de place pour une recommandation courte, sans transformer chaque visiteur en critique littéraire. Nora a apporté du papier épais. Elles préparent un premier exemplaire avant de découper le reste.",
+        "start": 2,
+        "end": 391
+      },
+      {
+        "quote": "Évaëlle renonce aux découpes pour cette séance. Nora accepte de garder le papier pour leur prochain créneau. Ensemble, elles vérifient seulement l’orthographe des cinq titres, puis s’arrêtent. Dans le carnet vert, Évaëlle écrit une question destinée au suivi : « Je me souviens du geste ; pourquoi m’a-t-il paru étranger ? » Elle ne dessine pas une histoire cachée autour de la carte. Cette question, telle qu’elle est, lui paraît suffisante pour le prochain rendez-vous.",
+        "start": 3726,
+        "end": 4197
+      }
+    ],
+    "canonical_concept": "Agir sans reconnaître pleinement son geste",
+    "context": "Disposer les cartes de recommandation",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour décrire le décalage sans le provoquer"
+    ],
+    "clinical_code": "6B65",
+    "clinical_diagnosis": "Trouble dissociatif de l’identité partiel"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/evaelle-memoire-presente": {
+    "character": "Évaëlle",
+    "character_id": "evaelle",
+    "keywords": [
+      "mémoire conservée",
+      "agentivité",
+      "clarification clinique"
+    ],
+    "character_keywords": [
+      "Trouble dissociatif de l’identité partiel",
+      "intrusions internes",
+      "sentiment d’agentivité",
+      "retentissement quotidien",
+      "engagements et limites"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "6d7741a3e28f5c62489bee52fbbb2ea3812f16a6bcbc0946c719d1a3e8f0c70f",
+    "summary": "Le carnet vert est ouvert entre Évaëlle et la docteure Roussel. Il contient cinq titres de livres, un dessin de carte et la question écrite après la séance avec Nora. Évaëlle peut raconter ce moment : le papier épais, la face retournée, la demande concernant la pile, puis leur vérification des noms d’auteurs. Elle n’a pas besoin de retrouver des heures manquantes pour décrire ce qui l’a troublée.\n\n[…]\n\nLa docteure Roussel explique que la mémoire conservée n’invalide pas les intrusions décrites dans ce trouble, sans en faire un critère suffisant à elle seule. Évaëlle garde cette distinction. Elle referme son carnet sans ajouter de relevé de ses souvenirs. Plus tard, elle confirme à Malik une réunion sur l’horaire du projet. Elle note ce qu’elle veut y discuter : préparer les livres, assurer un accueil limité et ne pas rester seule pour la fermeture.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Le carnet vert est ouvert entre Évaëlle et la docteure Roussel. Il contient cinq titres de livres, un dessin de carte et la question écrite après la séance avec Nora. Évaëlle peut raconter ce moment : le papier épais, la face retournée, la demande concernant la pile, puis leur vérification des noms d’auteurs. Elle n’a pas besoin de retrouver des heures manquantes pour décrire ce qui l’a troublée.",
+        "start": 2,
+        "end": 401
+      },
+      {
+        "quote": "La docteure Roussel explique que la mémoire conservée n’invalide pas les intrusions décrites dans ce trouble, sans en faire un critère suffisant à elle seule. Évaëlle garde cette distinction. Elle referme son carnet sans ajouter de relevé de ses souvenirs. Plus tard, elle confirme à Malik une réunion sur l’horaire du projet. Elle note ce qu’elle veut y discuter : préparer les livres, assurer un accueil limité et ne pas rester seule pour la fermeture.",
+        "start": 3921,
+        "end": 4375
+      }
+    ],
+    "canonical_concept": "La mémoire peut rester présente",
+    "context": "Reprendre une question au suivi",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour clarifier sans tester sa mémoire",
+      "3. Garder un carnet pratique"
+    ],
+    "clinical_code": "6B65",
+    "clinical_diagnosis": "Trouble dissociatif de l’identité partiel"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/evaelle-origine-non-deduite": {
+    "character": "Évaëlle",
+    "character_id": "evaelle",
+    "keywords": [
+      "limites de connaissance",
+      "vie privée",
+      "questions non suggestives"
+    ],
+    "character_keywords": [
+      "Trouble dissociatif de l’identité partiel",
+      "intrusions internes",
+      "sentiment d’agentivité",
+      "retentissement quotidien",
+      "engagements et limites"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "c879397f4b3153c42472b2fb9178f1a6a67f9484d840b6a07c507860692fa06f",
+    "summary": "Nora étale deux feuilles sur la table : une blanche et une orange. Évaëlle rit en voyant le choix proposé. L’horaire de l’échange est maintenant confirmé par l’équipe ; Lucie assurera la fermeture, et Évaëlle accueillera les premières personnes pendant trente minutes. Il leur reste à écrire un titre lisible et à rappeler les trois catégories. Les cartes de recommandation pourront être terminées ensuite, au même format que le premier modèle.\n\n[…]\n\nNora dit qu’elle comprend et retire sa proposition d’explication. « On revient au titre ? » Évaëlle choisit « Livres à partager », puis la feuille orange. Elles y inscrivent l’horaire collectif et les trois catégories : à donner, à découvrir, à reprendre. La peur de l’autre séance n’a pas reçu une origine. Leur travail peut néanmoins se terminer. Évaëlle emporte l’affiche pour vérifier avec Malik qu’elle correspond au planning validé.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Nora étale deux feuilles sur la table : une blanche et une orange. Évaëlle rit en voyant le choix proposé. L’horaire de l’échange est maintenant confirmé par l’équipe ; Lucie assurera la fermeture, et Évaëlle accueillera les premières personnes pendant trente minutes. Il leur reste à écrire un titre lisible et à rappeler les trois catégories. Les cartes de recommandation pourront être terminées ensuite, au même format que le premier modèle.",
+        "start": 2,
+        "end": 446
+      },
+      {
+        "quote": "Nora dit qu’elle comprend et retire sa proposition d’explication. « On revient au titre ? » Évaëlle choisit « Livres à partager », puis la feuille orange. Elles y inscrivent l’horaire collectif et les trois catégories : à donner, à découvrir, à reprendre. La peur de l’autre séance n’a pas reçu une origine. Leur travail peut néanmoins se terminer. Évaëlle emporte l’affiche pour vérifier avec Malik qu’elle correspond au planning validé.",
+        "start": 3928,
+        "end": 4366
+      }
+    ],
+    "canonical_concept": "Une origine ne se déduit pas du vécu",
+    "context": "Créer l’affiche de l’échange",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour respecter l’inconnu et l’intimité"
+    ],
+    "clinical_code": "6B65",
+    "clinical_diagnosis": "Trouble dissociatif de l’identité partiel"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/evaelle-parole-interieure-suggestions": {
+    "character": "Évaëlle",
+    "character_id": "evaelle",
+    "keywords": [
+      "expérience perceptive",
+      "description clinique",
+      "vie privée"
+    ],
+    "character_keywords": [
+      "Trouble dissociatif de l’identité partiel",
+      "intrusions internes",
+      "sentiment d’agentivité",
+      "retentissement quotidien",
+      "engagements et limites"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "ca258fc42dcf91de39524ada6d437892a25c1ad1c7995d8cc4104ec7cbe0fa73",
+    "summary": "Évaëlle a disposé les suggestions en deux petites piles. Plusieurs résidents ont écrit seulement un titre ; d’autres ont ajouté une phrase pour expliquer leur choix. Nora lit le nom d’un roman qu’elle ne connaît pas. Évaëlle allait lui demander de regarder si l’auteur figure aussi sur la fiche lorsqu’une brève parole intérieure lui paraît s’imposer. Ce n’est pas, pour elle, la pensée qu’elle était en train de formuler. Elle ne raconte pas son contenu à Nora.\n\n[…]\n\nAu rendez-vous, Évaëlle décrit la peur puis la parole intérieure, sans essayer de faire revenir l’une ou l’autre. La docteure Roussel reprend leur retentissement et les questions pertinentes dans son suivi. Elle ne conclut pas à partir du seul mot voix. Au créneau suivant, Évaëlle retrouve avec Nora les fiches laissées de côté. Elles retiennent cinq titres pour la première table. Il reste maintenant à préparer des cartes sur lesquelles les visiteurs pourront écrire leurs propres recommandations.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Évaëlle a disposé les suggestions en deux petites piles. Plusieurs résidents ont écrit seulement un titre ; d’autres ont ajouté une phrase pour expliquer leur choix. Nora lit le nom d’un roman qu’elle ne connaît pas. Évaëlle allait lui demander de regarder si l’auteur figure aussi sur la fiche lorsqu’une brève parole intérieure lui paraît s’imposer. Ce n’est pas, pour elle, la pensée qu’elle était en train de formuler. Elle ne raconte pas son contenu à Nora.",
+        "start": 2,
+        "end": 464
+      },
+      {
+        "quote": "Au rendez-vous, Évaëlle décrit la peur puis la parole intérieure, sans essayer de faire revenir l’une ou l’autre. La docteure Roussel reprend leur retentissement et les questions pertinentes dans son suivi. Elle ne conclut pas à partir du seul mot voix. Au créneau suivant, Évaëlle retrouve avec Nora les fiches laissées de côté. Elles retiennent cinq titres pour la première table. Il reste maintenant à préparer des cartes sur lesquelles les visiteurs pourront écrire leurs propres recommandations.",
+        "start": 3874,
+        "end": 4374
+      }
+    ],
+    "canonical_concept": "Une parole intérieure n’est pas un verdict",
+    "context": "Choisir cinq recommandations",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour retrouver un échange accessible"
+    ],
+    "clinical_code": "6B65",
+    "clinical_diagnosis": "Trouble dissociatif de l’identité partiel"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/evaelle-partiel-retentissement": {
+    "character": "Évaëlle",
+    "character_id": "evaelle",
+    "keywords": [
+      "périmètre du diagnostic",
+      "retentissement",
+      "limites de charge"
+    ],
+    "character_keywords": [
+      "Trouble dissociatif de l’identité partiel",
+      "intrusions internes",
+      "sentiment d’agentivité",
+      "retentissement quotidien",
+      "engagements et limites"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "a663d58e5ae82b39595a4bd571718fa78a1eb487cd36298a1d949da1c9105fbe",
+    "summary": "Le message de Malik arrive le lendemain de l’échange clinique. Lucie, une collègue de l’équipe, pourra assurer la fermeture du samedi. Le créneau tardif ne sera donc pas maintenu au nom d’Évaëlle. Elle relit cette phrase deux fois, soulagée que la décision d’organisation avance sans que l’on tente de régler la question du souvenir à sa place.\n\n[…]\n\nAprès la clarification clinique, Évaëlle écrit à Malik qu’elle préparera la table et assurera un accueil de trente minutes. Malik confirme que l’équipe couvrira la suite et que Lucie fera la fermeture. Le planning porte désormais les engagements acceptés. Évaëlle peut préparer l’affiche avec Nora. Elle n’a pas obtenu la certitude que chacun comprendra son trouble ; elle a obtenu une répartition qui n’exige pas de l’expliquer dans chaque couloir.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Le message de Malik arrive le lendemain de l’échange clinique. Lucie, une collègue de l’équipe, pourra assurer la fermeture du samedi. Le créneau tardif ne sera donc pas maintenu au nom d’Évaëlle. Elle relit cette phrase deux fois, soulagée que la décision d’organisation avance sans que l’on tente de régler la question du souvenir à sa place.",
+        "start": 2,
+        "end": 346
+      },
+      {
+        "quote": "Après la clarification clinique, Évaëlle écrit à Malik qu’elle préparera la table et assurera un accueil de trente minutes. Malik confirme que l’équipe couvrira la suite et que Lucie fera la fermeture. Le planning porte désormais les engagements acceptés. Évaëlle peut préparer l’affiche avec Nora. Elle n’a pas obtenu la certitude que chacun comprendra son trouble ; elle a obtenu une répartition qui n’exige pas de l’expliquer dans chaque couloir.",
+        "start": 3908,
+        "end": 4357
+      }
+    ],
+    "canonical_concept": "Partiel ne veut pas dire sans retentissement",
+    "context": "Fixer une répartition réaliste",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "Le besoin pratique reste le même",
+      "3 techniques pour préciser les mots et les limites"
+    ],
+    "clinical_code": "6B65",
+    "clinical_diagnosis": "Trouble dissociatif de l’identité partiel"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/evaelle-passage-incertain-reunion": {
+    "character": "Évaëlle",
+    "character_id": "evaelle",
+    "keywords": [
+      "incertitude du souvenir",
+      "réévaluation",
+      "engagement actuel"
+    ],
+    "character_keywords": [
+      "Trouble dissociatif de l’identité partiel",
+      "intrusions internes",
+      "sentiment d’agentivité",
+      "retentissement quotidien",
+      "engagements et limites"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "03eb7885ab9b56e0f54546a1aadcda18d3db2437b4e47bbac58ed2aeb1201681",
+    "summary": "Malik pose le planning au milieu de la table. L’échange de livres doit se tenir un samedi, lorsque plusieurs résidents pourront passer après leur travail. Évaëlle a apporté ses cinq titres et la liste des caisses. Elle rappelle qu’elle peut préparer la table mais ne souhaite pas assurer seule la fermeture. La première proposition lui semble compatible avec cette limite.\n\n[…]\n\nPendant l’échange clinique, Évaëlle décrit la réunion et le bref passage incertain. La docteure Roussel reprend notamment le contexte, le sommeil, les traitements ou substances éventuels et les éléments médicaux pertinents, sans conclure ici que tout relève du diagnostic connu. Elles conviennent de la suite du suivi et de ce qui justifierait un nouveau contact. Évaëlle suit ces indications. Elle réécrit ensuite à Malik : sa présence tardive ne peut pas être confirmée, il faut un autre relais. Ce dont elle ne se souvient pas reste incertain.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Malik pose le planning au milieu de la table. L’échange de livres doit se tenir un samedi, lorsque plusieurs résidents pourront passer après leur travail. Évaëlle a apporté ses cinq titres et la liste des caisses. Elle rappelle qu’elle peut préparer la table mais ne souhaite pas assurer seule la fermeture. La première proposition lui semble compatible avec cette limite.",
+        "start": 2,
+        "end": 374
+      },
+      {
+        "quote": "Pendant l’échange clinique, Évaëlle décrit la réunion et le bref passage incertain. La docteure Roussel reprend notamment le contexte, le sommeil, les traitements ou substances éventuels et les éléments médicaux pertinents, sans conclure ici que tout relève du diagnostic connu. Elles conviennent de la suite du suivi et de ce qui justifierait un nouveau contact. Évaëlle suit ces indications. Elle réécrit ensuite à Malik : sa présence tardive ne peut pas être confirmée, il faut un autre relais. Ce dont elle ne se souvient pas reste incertain.",
+        "start": 4068,
+        "end": 4614
+      }
+    ],
+    "canonical_concept": "Un passage bref demande une réévaluation",
+    "context": "Réunion sur les horaires",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour traiter l’incertitude sans la combler"
+    ],
+    "clinical_code": "6B65",
+    "clinical_diagnosis": "Trouble dissociatif de l’identité partiel"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/evaelle-pensee-interrompt-etiquette": {
+    "character": "Évaëlle",
+    "character_id": "evaelle",
+    "keywords": [
+      "intrusions internes",
+      "attention",
+      "demande pratique"
+    ],
+    "character_keywords": [
+      "Trouble dissociatif de l’identité partiel",
+      "intrusions internes",
+      "sentiment d’agentivité",
+      "retentissement quotidien",
+      "engagements et limites"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "30ee7c9654aedb977d5a9548de983d5054c6503a5be31b5cf321be8838a9e9df",
+    "summary": "Évaëlle a choisi trois caisses assez petites pour tenir sous la table du coin atelier. Sur la première étiquette, elle a écrit « à donner ». La deuxième doit accueillir les livres que personne ne connaît encore ; elle hésite entre « surprises » et « à découvrir », puis choisit la formule la plus claire. Nora découpe les bandes de papier à côté d’elle. Elles ont une demi-heure avant que la salle soit utilisée pour une autre activité.\n\n[…]\n\nÉvaëlle pose le stylo, puis reprend l’étiquette quand elle le souhaite. Nora garde sa question pour après. Les trois caisses portent finalement leurs noms : à donner, à découvrir, à reprendre. Évaëlle n’ajoute pas le tri à cette séance. Dans son carnet vert, elle réserve un créneau court pour les livres déjà déposés. Elle repart avec une tâche achevée et une limite respectée, sans conclure que les intrusions seront absentes la prochaine fois.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Évaëlle a choisi trois caisses assez petites pour tenir sous la table du coin atelier. Sur la première étiquette, elle a écrit « à donner ». La deuxième doit accueillir les livres que personne ne connaît encore ; elle hésite entre « surprises » et « à découvrir », puis choisit la formule la plus claire. Nora découpe les bandes de papier à côté d’elle. Elles ont une demi-heure avant que la salle soit utilisée pour une autre activité.",
+        "start": 2,
+        "end": 438
+      },
+      {
+        "quote": "Évaëlle pose le stylo, puis reprend l’étiquette quand elle le souhaite. Nora garde sa question pour après. Les trois caisses portent finalement leurs noms : à donner, à découvrir, à reprendre. Évaëlle n’ajoute pas le tri à cette séance. Dans son carnet vert, elle réserve un créneau court pour les livres déjà déposés. Elle repart avec une tâche achevée et une limite respectée, sans conclure que les intrusions seront absentes la prochaine fois.",
+        "start": 3971,
+        "end": 4417
+      }
+    ],
+    "canonical_concept": "Une pensée intrusive interrompt la tâche",
+    "context": "Préparer les caisses au foyer",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour alléger la tâche présente"
+    ],
+    "clinical_code": "6B65",
+    "clinical_diagnosis": "Trouble dissociatif de l’identité partiel"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/evaelle-peur-pendant-tri": {
+    "character": "Évaëlle",
+    "character_id": "evaelle",
+    "keywords": [
+      "intrusions affectives",
+      "retentissement",
+      "choix de pause"
+    ],
+    "character_keywords": [
+      "Trouble dissociatif de l’identité partiel",
+      "intrusions internes",
+      "sentiment d’agentivité",
+      "retentissement quotidien",
+      "engagements et limites"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "77393474a4eb35a99cac0b38c85b4a4449675bb01f5a461fabcbaae2a49c6f65",
+    "summary": "Les caisses sont maintenant alignées contre la table. Évaëlle ouvre son carnet vert à la petite liste prévue pour ce premier tri : vérifier les livres déposés, choisir où placer les suggestions, s’arrêter avant le prochain atelier. Nora a apporté deux romans et un recueil dont la couverture orange plaît immédiatement à son amie. Elles plaisantent sur cette préférence qui risque de devenir une règle de sélection peu défendable.\n\n[…]\n\nNora accepte d’arrêter le tri. Avant de ranger son carnet, Évaëlle garde une seule décision : les suggestions iront dans la caisse à découvrir. Les livres restent sur la table du coin atelier, où l’équipe a prévu de les conserver. Elle inscrira pour son rendez-vous qu’une peur lui a paru étrangère et l’a empêchée de poursuivre la conversation. Le prochain créneau servira à lire les titres proposés, pas à rattraper toute la séance interrompue.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Les caisses sont maintenant alignées contre la table. Évaëlle ouvre son carnet vert à la petite liste prévue pour ce premier tri : vérifier les livres déposés, choisir où placer les suggestions, s’arrêter avant le prochain atelier. Nora a apporté deux romans et un recueil dont la couverture orange plaît immédiatement à son amie. Elles plaisantent sur cette préférence qui risque de devenir une règle de sélection peu défendable.",
+        "start": 2,
+        "end": 432
+      },
+      {
+        "quote": "Nora accepte d’arrêter le tri. Avant de ranger son carnet, Évaëlle garde une seule décision : les suggestions iront dans la caisse à découvrir. Les livres restent sur la table du coin atelier, où l’équipe a prévu de les conserver. Elle inscrira pour son rendez-vous qu’une peur lui a paru étrangère et l’a empêchée de poursuivre la conversation. Le prochain créneau servira à lire les titres proposés, pas à rattraper toute la séance interrompue.",
+        "start": 3913,
+        "end": 4359
+      }
+    ],
+    "canonical_concept": "Un affect surgit comme étranger",
+    "context": "Premier tri des livres",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour répondre au besoin présent"
+    ],
+    "clinical_code": "6B65",
+    "clinical_diagnosis": "Trouble dissociatif de l’identité partiel"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/evaelle-soutien-aux-limites-claires": {
+    "character": "Évaëlle",
+    "character_id": "evaelle",
+    "keywords": [
+      "soutien pratique",
+      "limites relationnelles",
+      "rôles distincts"
+    ],
+    "character_keywords": [
+      "Trouble dissociatif de l’identité partiel",
+      "intrusions internes",
+      "sentiment d’agentivité",
+      "retentissement quotidien",
+      "engagements et limites"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "db9e68a1014b7772325434e0841666c1adcc3f19f5f0283d3c240605a79ce54e",
+    "summary": "Nora peut venir le vendredi en fin d’après-midi pour préparer les caisses. Elle le dit avant qu’Évaëlle lui demande autre chose, puis ajoute qu’elle ne pourra pas répondre aux messages tard le soir. Elle a ses propres horaires et veut garder ses soirées. Évaëlle entend d’abord cette limite avec un pincement : elle craint que l’aide autour des livres soit en train de se retirer complètement.\n\n[…]\n\nLe vendredi, Nora prépare les trois caisses au créneau convenu. Malik aide à la disposition et confirme que Samir, collègue du foyer, sera présent pendant l’installation et l’accueil pour reprendre la table si nécessaire. Lucie garde la fermeture. Évaëlle inscrit ces noms dans la partie pratique de son carnet. Elle remercie Nora, qui repart à l’heure annoncée. L’absence de messages tardifs ne signifiera pas que le soutien a disparu : leur accord tient dans ce qu’elles ont réellement choisi.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Nora peut venir le vendredi en fin d’après-midi pour préparer les caisses. Elle le dit avant qu’Évaëlle lui demande autre chose, puis ajoute qu’elle ne pourra pas répondre aux messages tard le soir. Elle a ses propres horaires et veut garder ses soirées. Évaëlle entend d’abord cette limite avec un pincement : elle craint que l’aide autour des livres soit en train de se retirer complètement.",
+        "start": 2,
+        "end": 395
+      },
+      {
+        "quote": "Le vendredi, Nora prépare les trois caisses au créneau convenu. Malik aide à la disposition et confirme que Samir, collègue du foyer, sera présent pendant l’installation et l’accueil pour reprendre la table si nécessaire. Lucie garde la fermeture. Évaëlle inscrit ces noms dans la partie pratique de son carnet. Elle remercie Nora, qui repart à l’heure annoncée. L’absence de messages tardifs ne signifiera pas que le soutien a disparu : leur accord tient dans ce qu’elles ont réellement choisi.",
+        "start": 3851,
+        "end": 4346
+      }
+    ],
+    "canonical_concept": "Le soutien a aussi ses limites",
+    "context": "Confirmer les relais du projet",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour construire un soutien délimité"
+    ],
+    "clinical_code": "6B65",
+    "clinical_diagnosis": "Trouble dissociatif de l’identité partiel"
   },
   "posts/comprendre-et-maitriser-ses-emotions/fanny-autoattention-echanges-litteraires": {
     "character": "Fanny",
@@ -20835,6 +22282,489 @@
     ],
     "clinical_code": "6B01",
     "clinical_diagnosis": "Trouble panique"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/khadija-choisir-qui-peut-savoir": {
+    "character": "Khadija",
+    "character_id": "khadija",
+    "keywords": [
+      "État de possession",
+      "confidentialité",
+      "divulgation choisie"
+    ],
+    "character_keywords": [
+      "État de possession",
+      "expérience involontaire",
+      "souvenirs incomplets",
+      "langage et soins",
+      "participation à l’atelier"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "a018abcbaca4f367aad783fa64f85410bfaba1bfe7d792dfd363c33d60ff218b",
+    "summary": "Le message à Marion tient déjà sur tout l’écran. Khadija l’a réécrit trois fois depuis le rendez-vous de suivi. Le cadre de la reprise est confirmé ; ce qu’elle hésite à envoyer concerne maintenant son explication personnelle. À côté d’elle, Leïla lit seulement les passages qu’elle lui montre. Khadija a commencé par les recettes, puis raconté la consultation, puis effacé les détails dont Marion n’a pas besoin pour préparer les fiches.\n\n[…]\n\nKhadija envoie la courte explication clinique à Marion en demandant qu’elle reste entre elles, hors les recours nécessaires déjà convenus. Marion confirme qu’elle ne la transmettra pas au groupe. Leïla n’a rien envoyé à sa place. Pour les participantes, Khadija prépare une feuille de rôles sans diagnostic. Elle veut que tout fonctionne même si elle doit s’absenter ; à force d’y penser, elle commence déjà à multiplier les copies de chaque fiche.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Le message à Marion tient déjà sur tout l’écran. Khadija l’a réécrit trois fois depuis le rendez-vous de suivi. Le cadre de la reprise est confirmé ; ce qu’elle hésite à envoyer concerne maintenant son explication personnelle. À côté d’elle, Leïla lit seulement les passages qu’elle lui montre. Khadija a commencé par les recettes, puis raconté la consultation, puis effacé les détails dont Marion n’a pas besoin pour préparer les fiches.",
+        "start": 2,
+        "end": 440
+      },
+      {
+        "quote": "Khadija envoie la courte explication clinique à Marion en demandant qu’elle reste entre elles, hors les recours nécessaires déjà convenus. Marion confirme qu’elle ne la transmettra pas au groupe. Leïla n’a rien envoyé à sa place. Pour les participantes, Khadija prépare une feuille de rôles sans diagnostic. Elle veut que tout fonctionne même si elle doit s’absenter ; à force d’y penser, elle commence déjà à multiplier les copies de chaque fiche.",
+        "start": 4313,
+        "end": 4761
+      }
+    ],
+    "canonical_concept": "Choisir qui peut savoir",
+    "context": "Chez elle avec Leïla",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour préparer un partage qui respecte ses limites",
+      "2. Distinguer besoin pratique et explication clinique"
+    ],
+    "clinical_code": "6B63",
+    "clinical_diagnosis": "État de possession"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/khadija-diagnostic-et-evaluation": {
+    "character": "Khadija",
+    "character_id": "khadija",
+    "keywords": [
+      "État de possession",
+      "évaluation médicale",
+      "événement inhabituel"
+    ],
+    "character_keywords": [
+      "État de possession",
+      "expérience involontaire",
+      "souvenirs incomplets",
+      "langage et soins",
+      "participation à l’atelier"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "e2af0c523b5cb020a6a8c9e7995aefe19d6e8f444ab917dc82f37df56b336d92",
+    "summary": "La feuille de Marion est posée à côté de la note privée, sur le bureau de la docteure Tessier. Khadija a recopié les questions pratiques sans lui apporter le classeur des recettes. Le retour n’a pas encore eu lieu. Elle aimerait préparer les fiches, mais elle ne veut pas que leur nouvel accord repose sur des suppositions. Nora est là à sa demande pour faciliter l’échange. La première question concerne l’absence de signal garanti ; la seconde dépasse l’atelier.\n\n[…]\n\nLe plan et les modalités de contact sont revus. Les dispositions sont confirmées avant toute reprise. Khadija choisit de revenir d’abord à la préparation des fiches, sans cuisson ni découpe, conformément aux indications reçues. Elle n’envoie pas sa note entière à Marion : elle veut encore décider ce qu’elle souhaite expliquer en plus des points utiles à leur organisation. Le retour a désormais un cadre, tandis que la question du partage lui appartient toujours.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "La feuille de Marion est posée à côté de la note privée, sur le bureau de la docteure Tessier. Khadija a recopié les questions pratiques sans lui apporter le classeur des recettes. Le retour n’a pas encore eu lieu. Elle aimerait préparer les fiches, mais elle ne veut pas que leur nouvel accord repose sur des suppositions. Nora est là à sa demande pour faciliter l’échange. La première question concerne l’absence de signal garanti ; la seconde dépasse l’atelier.",
+        "start": 2,
+        "end": 466
+      },
+      {
+        "quote": "Le plan et les modalités de contact sont revus. Les dispositions sont confirmées avant toute reprise. Khadija choisit de revenir d’abord à la préparation des fiches, sans cuisson ni découpe, conformément aux indications reçues. Elle n’envoie pas sa note entière à Marion : elle veut encore décider ce qu’elle souhaite expliquer en plus des points utiles à leur organisation. Le retour a désormais un cadre, tandis que la question du partage lui appartient toujours.",
+        "start": 4512,
+        "end": 4977
+      }
+    ],
+    "canonical_concept": "Un diagnostic ne clôt pas l’évaluation",
+    "context": "Au point de suivi avant la reprise",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour préparer les bonnes questions au suivi"
+    ],
+    "clinical_code": "6B63",
+    "clinical_diagnosis": "État de possession"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/khadija-effort-cache-atelier": {
+    "character": "Khadija",
+    "character_id": "khadija",
+    "keywords": [
+      "État de possession",
+      "retentissement professionnel",
+      "partage des tâches"
+    ],
+    "character_keywords": [
+      "État de possession",
+      "expérience involontaire",
+      "souvenirs incomplets",
+      "langage et soins",
+      "participation à l’atelier"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "f9d111e7ef09477fc9adc4da1a5968e8c971bd0e3cf1762ad780e846bc2b45d1",
+    "summary": "Sur la table de préparation, Khadija pose trois piles de fiches. Le retour limité a été confirmé avec le suivi ; elle ne s’occupe ni de cuisson ni de découpe. Marion a prévu le temps nécessaire pour reprendre la présentation des variantes, mais Khadija commence par expliquer le classement. Une copie doit rester dans le classeur vert, une autre avec Marion, et la troisième pourrait servir si les deux premières ne sont plus au bon endroit.\n\n[…]\n\nMarion prend la compilation des variantes. Elle ne propose pas seulement de photocopier une pile : elle vérifie les contributions et en assure la mise à jour. Khadija garde le choix de leur présentation. Elles conservent une seule version de la feuille de rôles avec le classeur vert. Khadija repart avec moins de copies et un travail qui lui plaît davantage. Leur accord ne garantit pas l’absence d’un nouvel épisode ; il donne à l’atelier une organisation qui pourra aussi servir si elle manque une séance.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Sur la table de préparation, Khadija pose trois piles de fiches. Le retour limité a été confirmé avec le suivi ; elle ne s’occupe ni de cuisson ni de découpe. Marion a prévu le temps nécessaire pour reprendre la présentation des variantes, mais Khadija commence par expliquer le classement. Une copie doit rester dans le classeur vert, une autre avec Marion, et la troisième pourrait servir si les deux premières ne sont plus au bon endroit.",
+        "start": 2,
+        "end": 443
+      },
+      {
+        "quote": "Marion prend la compilation des variantes. Elle ne propose pas seulement de photocopier une pile : elle vérifie les contributions et en assure la mise à jour. Khadija garde le choix de leur présentation. Elles conservent une seule version de la feuille de rôles avec le classeur vert. Khadija repart avec moins de copies et un travail qui lui plaît davantage. Leur accord ne garantit pas l’absence d’un nouvel épisode ; il donne à l’atelier une organisation qui pourra aussi servir si elle manque une séance.",
+        "start": 4186,
+        "end": 4694
+      }
+    ],
+    "canonical_concept": "L’effort caché derrière l’atelier",
+    "context": "Au retour limité à la préparation",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour partager le travail sans effacer sa contribution"
+    ],
+    "clinical_code": "6B63",
+    "clinical_diagnosis": "État de possession"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/khadija-mots-communs-au-soin": {
+    "character": "Khadija",
+    "character_id": "khadija",
+    "keywords": [
+      "État de possession",
+      "communication",
+      "interprétariat"
+    ],
+    "character_keywords": [
+      "État de possession",
+      "expérience involontaire",
+      "souvenirs incomplets",
+      "langage et soins",
+      "participation à l’atelier"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "14612f05d6de0f325144d49304afc91bcc09054b7940999293b752f07840f7a0",
+    "summary": "Au rendez-vous suivant, Khadija ne commence pas par la note des événements. Elle a écrit une seule question sur une autre page : « Quand vous dites possession, qu’est-ce que vous voulez dire ? » Nora est présente à sa demande. La docteure Tessier lui laisse lire la phrase jusqu’au bout. Khadija sait que ce diagnostic figure déjà dans son suivi, mais le même mot n’a pas le même poids selon la personne qui le prononce.\n\n[…]\n\nKhadija conserve une phrase pour son vécu et une autre pour expliquer que l’État de possession est ici le nom d’un trouble dissociatif diagnostiqué. Nora lui demande si cette distinction lui convient ; elle répond oui, tout en gardant le droit de préciser ses mots plus tard. Puis Khadija soulève une autre question : certains moments collectifs de sa vie sont choisis et importants pour elle. Elle ne veut pas que l’équipe les confonde avec les épisodes. L’entretien se poursuit.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Au rendez-vous suivant, Khadija ne commence pas par la note des événements. Elle a écrit une seule question sur une autre page : « Quand vous dites possession, qu’est-ce que vous voulez dire ? » Nora est présente à sa demande. La docteure Tessier lui laisse lire la phrase jusqu’au bout. Khadija sait que ce diagnostic figure déjà dans son suivi, mais le même mot n’a pas le même poids selon la personne qui le prononce.",
+        "start": 2,
+        "end": 422
+      },
+      {
+        "quote": "Khadija conserve une phrase pour son vécu et une autre pour expliquer que l’État de possession est ici le nom d’un trouble dissociatif diagnostiqué. Nora lui demande si cette distinction lui convient ; elle répond oui, tout en gardant le droit de préciser ses mots plus tard. Puis Khadija soulève une autre question : certains moments collectifs de sa vie sont choisis et importants pour elle. Elle ne veut pas que l’équipe les confonde avec les épisodes. L’entretien se poursuit.",
+        "start": 4029,
+        "end": 4509
+      }
+    ],
+    "canonical_concept": "Trouver des mots communs au soin",
+    "context": "Lors d’un second entretien",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour vérifier que l’on parle de la même chose"
+    ],
+    "clinical_code": "6B63",
+    "clinical_diagnosis": "État de possession"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/khadija-parole-et-commande": {
+    "character": "Khadija",
+    "character_id": "khadija",
+    "keywords": [
+      "État de possession",
+      "gestes involontaires",
+      "observation"
+    ],
+    "character_keywords": [
+      "État de possession",
+      "expérience involontaire",
+      "souvenirs incomplets",
+      "langage et soins",
+      "participation à l’atelier"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "39079d7b8d7edf402d1dc7120bdc496f3d3829573b429c30ecede60f0a4673ff",
+    "summary": "Le lendemain de la réunion, Khadija retrouve Marion devant le classeur vert. Elle n’est pas venue reprendre l’atelier : elles ont seulement convenu d’un échange. Marion a conservé les deux variantes, comme prévu. Aucun changement surprenant n’attend Khadija entre les pages. Pourtant, un détail de la veille l’occupe. Marion lui a dit qu’elle avait déplacé une fiche pendant l’épisode. Khadija lui demande maintenant de raconter exactement ce qu’elle a vu, si elle s’en souvient.\n\n[…]\n\nKhadija écrit deux lignes : ce que Marion a vu, puis ce qu’elle peut dire de son propre vécu. Elle laisse un espace vide pour les questions. La note rejoint ses affaires personnelles ; le classeur conserve seulement les recettes. Marion confirme qu’elle reprendra les responsabilités convenues sans attendre une justification pendant un épisode. Khadija voudrait encore remettre les échanges de la veille dans l’ordre, mais certaines parties lui manquent. Elle les apportera telles quelles au rendez-vous.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Le lendemain de la réunion, Khadija retrouve Marion devant le classeur vert. Elle n’est pas venue reprendre l’atelier : elles ont seulement convenu d’un échange. Marion a conservé les deux variantes, comme prévu. Aucun changement surprenant n’attend Khadija entre les pages. Pourtant, un détail de la veille l’occupe. Marion lui a dit qu’elle avait déplacé une fiche pendant l’épisode. Khadija lui demande maintenant de raconter exactement ce qu’elle a vu, si elle s’en souvient.",
+        "start": 2,
+        "end": 481
+      },
+      {
+        "quote": "Khadija écrit deux lignes : ce que Marion a vu, puis ce qu’elle peut dire de son propre vécu. Elle laisse un espace vide pour les questions. La note rejoint ses affaires personnelles ; le classeur conserve seulement les recettes. Marion confirme qu’elle reprendra les responsabilités convenues sans attendre une justification pendant un épisode. Khadija voudrait encore remettre les échanges de la veille dans l’ordre, mais certaines parties lui manquent. Elle les apportera telles quelles au rendez-vous.",
+        "start": 4317,
+        "end": 4822
+      }
+    ],
+    "canonical_concept": "Parler sans se sentir aux commandes",
+    "context": "Le lendemain de la réunion",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour parler des gestes sans mettre la personne à l’épreuve"
+    ],
+    "clinical_code": "6B63",
+    "clinical_diagnosis": "État de possession"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/khadija-place-choisie-atelier": {
+    "character": "Khadija",
+    "character_id": "khadija",
+    "keywords": [
+      "État de possession",
+      "participation",
+      "choix personnels"
+    ],
+    "character_keywords": [
+      "État de possession",
+      "expérience involontaire",
+      "souvenirs incomplets",
+      "langage et soins",
+      "participation à l’atelier"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "e3c9e4e623b85be534433175457462cae9d445b46488cef6d0d55e7e60e4aaee",
+    "summary": "Le classeur vert s’ouvre facilement à la bonne page. Il ne contient plus les trois versions de chaque fiche, mais les variantes compilées par Marion et une seule feuille de rôles. Autour de la table, les participantes de plusieurs générations ont apporté les préparations prévues, déjà réalisées. Khadija ne s’occupe ni des sources chaudes ni des outils coupants. Marion assure les autres responsabilités pratiques selon leur organisation. La table de présentation peut commencer.\n\n[…]\n\nMarion termine la partie convenue, puis Khadija revient noter le titre proposé pour la nouvelle page. Elles feront plus tard un bref point sur l’organisation de la table ; le suivi clinique se poursuit séparément. La note de santé reste dans sa pochette. Khadija a choisi à qui expliquer son expérience et tenu une place active sans tout raconter. Elle laisse une page libre dans le classeur. La prochaine recette n’est pas la promesse que rien ne surviendra : c’est simplement un projet qu’elle a envie de garder.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Le classeur vert s’ouvre facilement à la bonne page. Il ne contient plus les trois versions de chaque fiche, mais les variantes compilées par Marion et une seule feuille de rôles. Autour de la table, les participantes de plusieurs générations ont apporté les préparations prévues, déjà réalisées. Khadija ne s’occupe ni des sources chaudes ni des outils coupants. Marion assure les autres responsabilités pratiques selon leur organisation. La table de présentation peut commencer.",
+        "start": 2,
+        "end": 482
+      },
+      {
+        "quote": "Marion termine la partie convenue, puis Khadija revient noter le titre proposé pour la nouvelle page. Elles feront plus tard un bref point sur l’organisation de la table ; le suivi clinique se poursuit séparément. La note de santé reste dans sa pochette. Khadija a choisi à qui expliquer son expérience et tenu une place active sans tout raconter. Elle laisse une page libre dans le classeur. La prochaine recette n’est pas la promesse que rien ne surviendra : c’est simplement un projet qu’elle a envie de garder.",
+        "start": 4365,
+        "end": 4879
+      }
+    ],
+    "canonical_concept": "Retrouver une place sans tout raconter",
+    "context": "À la présentation des recettes",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour faire durer une participation choisie",
+      "2. Faire un bilan pratique distinct du suivi"
+    ],
+    "clinical_code": "6B63",
+    "clinical_diagnosis": "État de possession"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/khadija-pratique-choisie-episode-subi": {
+    "character": "Khadija",
+    "character_id": "khadija",
+    "keywords": [
+      "État de possession",
+      "contexte culturel",
+      "vie privée"
+    ],
+    "character_keywords": [
+      "État de possession",
+      "expérience involontaire",
+      "souvenirs incomplets",
+      "langage et soins",
+      "participation à l’atelier"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "44d390ec3f6030106a3927d4cfe57f4d58d666b7c8df37fc5f9c39bfaa72334b",
+    "summary": "La consultation n’est pas terminée. Khadija garde la page des deux formulations devant elle et demande à ajouter quelque chose. Il existe, dans sa vie, des moments collectifs auxquels elle choisit de participer et qui comptent pour elle. Elle ne souhaite pas les décrire en détail aujourd’hui. Elle veut simplement que ce choix ne soit pas rangé dans le même récit que l’interruption de la préparation des fiches. Nora transmet sa demande, puis vérifie qu’elle en a respecté la limite.\n\n[…]\n\nL’équipe consigne la distinction exprimée par Khadija. Aucune pratique n’est prescrite, supprimée ou proposée comme traitement. Khadija décide que les participantes de l’atelier n’ont pas besoin de connaître cette partie de sa vie. Pour Marion, elle préparera d’abord un échange sur l’organisation du retour. Elle sait désormais mieux ce qu’elle veut expliquer, même si elle n’a pas encore trouvé comment parler du caractère involontaire des épisodes sans être entendue comme quelqu’un qui refuse de s’engager.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "La consultation n’est pas terminée. Khadija garde la page des deux formulations devant elle et demande à ajouter quelque chose. Il existe, dans sa vie, des moments collectifs auxquels elle choisit de participer et qui comptent pour elle. Elle ne souhaite pas les décrire en détail aujourd’hui. Elle veut simplement que ce choix ne soit pas rangé dans le même récit que l’interruption de la préparation des fiches. Nora transmet sa demande, puis vérifie qu’elle en a respecté la limite.",
+        "start": 2,
+        "end": 487
+      },
+      {
+        "quote": "L’équipe consigne la distinction exprimée par Khadija. Aucune pratique n’est prescrite, supprimée ou proposée comme traitement. Khadija décide que les participantes de l’atelier n’ont pas besoin de connaître cette partie de sa vie. Pour Marion, elle préparera d’abord un échange sur l’organisation du retour. Elle sait désormais mieux ce qu’elle veut expliquer, même si elle n’a pas encore trouvé comment parler du caractère involontaire des épisodes sans être entendue comme quelqu’un qui refuse de s’engager.",
+        "start": 4265,
+        "end": 4775
+      }
+    ],
+    "canonical_concept": "Distinguer pratique choisie et épisode subi",
+    "context": "Dans la suite de l’entretien",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "Comment la confusion entre pratique et trouble affecte-t-elle la personne ?",
+      "3 techniques pour préciser le contexte tout en gardant son intimité"
+    ],
+    "clinical_code": "6B63",
+    "clinical_diagnosis": "État de possession"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/khadija-recidive-et-efforts": {
+    "character": "Khadija",
+    "character_id": "khadija",
+    "keywords": [
+      "État de possession",
+      "récurrence",
+      "report d’activité"
+    ],
+    "character_keywords": [
+      "État de possession",
+      "expérience involontaire",
+      "souvenirs incomplets",
+      "langage et soins",
+      "participation à l’atelier"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "54e0ed0fd10a3344160717d0a2e9424ac768d39b4be4d98168000a02d72ba518",
+    "summary": "Khadija ouvre le message de Marion : la compilation des variantes est prête. La séance doit avoir lieu dans la journée. Elle avait prévu de venir choisir avec elle l’ordre de présentation, mais un nouvel épisode est survenu chez elle. Leïla a utilisé le plan convenu et le contact avec l’équipe clinique a effectivement eu lieu. Khadija n’a pas besoin d’en refaire maintenant le récit pour répondre à sa coanimatrice. Elle lui annonce qu’elle ne viendra pas aujourd’hui.\n\n[…]\n\nMarion confirme qu’elle assure la séance et qu’elle ne donnera pas de raison médicale au groupe. Khadija n’annonce pas encore sa prochaine présence. Le point clinique prévu aura lieu avant toute reprise. Leïla lui dit ensuite qu’elle peut être disponible pour certains rendez-vous, mais pas à toute heure. Khadija l’entend d’abord comme une distance nouvelle. Elles conviennent d’en reparler lorsque les besoins auront été repris avec l’équipe : l’amitié ne peut pas être leur unique système de recours.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Khadija ouvre le message de Marion : la compilation des variantes est prête. La séance doit avoir lieu dans la journée. Elle avait prévu de venir choisir avec elle l’ordre de présentation, mais un nouvel épisode est survenu chez elle. Leïla a utilisé le plan convenu et le contact avec l’équipe clinique a effectivement eu lieu. Khadija n’a pas besoin d’en refaire maintenant le récit pour répondre à sa coanimatrice. Elle lui annonce qu’elle ne viendra pas aujourd’hui.",
+        "start": 2,
+        "end": 472
+      },
+      {
+        "quote": "Marion confirme qu’elle assure la séance et qu’elle ne donnera pas de raison médicale au groupe. Khadija n’annonce pas encore sa prochaine présence. Le point clinique prévu aura lieu avant toute reprise. Leïla lui dit ensuite qu’elle peut être disponible pour certains rendez-vous, mais pas à toute heure. Khadija l’entend d’abord comme une distance nouvelle. Elles conviennent d’en reparler lorsque les besoins auront été repris avec l’équipe : l’amitié ne peut pas être leur unique système de recours.",
+        "start": 4320,
+        "end": 4823
+      }
+    ],
+    "canonical_concept": "Une récidive ne juge pas les efforts",
+    "context": "Avant une séance prévue",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour répondre à la récurrence sans se mettre en accusation"
+    ],
+    "clinical_code": "6B63",
+    "clinical_diagnosis": "État de possession"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/khadija-sentiment-de-soi": {
+    "character": "Khadija",
+    "character_id": "khadija",
+    "keywords": [
+      "État de possession",
+      "sentiment de soi",
+      "écoute"
+    ],
+    "character_keywords": [
+      "État de possession",
+      "expérience involontaire",
+      "souvenirs incomplets",
+      "langage et soins",
+      "participation à l’atelier"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "f34daaea45ea095546dea81d00e15d5a6f0e5ba6859a520c607a5addde9ef3bb",
+    "summary": "Le classeur vert est ouvert sur deux versions d’une même recette. Khadija préfère laisser les deux : les participantes décideront ce qu’elles ont envie de présenter. À trente-six ans, elle anime ces ateliers de cuisine avec des femmes de plusieurs générations et tient à ce que les variantes aient leur place. Ce matin, il s’agit seulement de préparer les fiches. Aucun plat ne chauffe et les ustensiles ne sont pas sortis. Marion, sa coanimatrice, demande combien de pages elles garderont.\n\n[…]\n\n« Tu peux m’écouter sans décider ce que ça veut dire ? » demande Khadija. Leïla acquiesce. Elle ne reprend ni l’hypothèse d’une présence ni celle d’un manque de volonté. Khadija décide de ne pas retourner aux fiches aujourd’hui. Marion garde le classeur vert pour les tâches convenues et confirme qu’elle s’en occupe. Le lendemain, Khadija voudra comprendre un geste que Marion a observé ; pour l’instant, elle n’a pas à terminer la réunion dans cette conversation.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Le classeur vert est ouvert sur deux versions d’une même recette. Khadija préfère laisser les deux : les participantes décideront ce qu’elles ont envie de présenter. À trente-six ans, elle anime ces ateliers de cuisine avec des femmes de plusieurs générations et tient à ce que les variantes aient leur place. Ce matin, il s’agit seulement de préparer les fiches. Aucun plat ne chauffe et les ustensiles ne sont pas sortis. Marion, sa coanimatrice, demande combien de pages elles garderont.",
+        "start": 2,
+        "end": 492
+      },
+      {
+        "quote": "« Tu peux m’écouter sans décider ce que ça veut dire ? » demande Khadija. Leïla acquiesce. Elle ne reprend ni l’hypothèse d’une présence ni celle d’un manque de volonté. Khadija décide de ne pas retourner aux fiches aujourd’hui. Marion garde le classeur vert pour les tâches convenues et confirme qu’elle s’en occupe. Le lendemain, Khadija voudra comprendre un geste que Marion a observé ; pour l’instant, elle n’a pas à terminer la réunion dans cette conversation.",
+        "start": 4306,
+        "end": 4771
+      }
+    ],
+    "canonical_concept": "Quand le sentiment de soi bascule",
+    "context": "À la préparation de l’atelier",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour raconter son vécu sans devoir en prouver la cause"
+    ],
+    "clinical_code": "6B63",
+    "clinical_diagnosis": "État de possession"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/khadija-soutien-et-limites": {
+    "character": "Khadija",
+    "character_id": "khadija",
+    "keywords": [
+      "État de possession",
+      "soutien des proches",
+      "limites"
+    ],
+    "character_keywords": [
+      "État de possession",
+      "expérience involontaire",
+      "souvenirs incomplets",
+      "langage et soins",
+      "participation à l’atelier"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "7e8c79e0eacf6eb80f2e73a6bb0bd7ae10edab180ec7c9717075850720396de8",
+    "summary": "Le point avec l’équipe a eu lieu avant toute nouvelle préparation. Khadija en a repris les indications et les contacts utiles ; elle ne revient pas à l’atelier sur la seule envie de rassurer Marion. Aujourd’hui, elle retrouve Leïla pour parler d’une autre partie de la semaine. Son amie a maintenu ce qu’elle avait dit après le nouvel épisode : elle veut être présente dans sa vie, mais elle ne peut pas être la personne que l’on suppose disponible à toute heure.\n\n[…]\n\nLeïla garde un rôle choisi et accepte de discuter d’un accompagnement à un prochain rendez-vous. Marion confirme la coanimation et les responsabilités pratiques déjà prévues. Le recours clinique reste celui du suivi, avec ses modalités propres. Khadija confirme une table de présentation de recettes préparées par les autres, compatible avec les indications reçues. Elle animera une partie de l’échange et pourra passer la parole. Leïla lui demande quelle variante elle préfère : leur conversation peut enfin quitter la répartition des aides.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Le point avec l’équipe a eu lieu avant toute nouvelle préparation. Khadija en a repris les indications et les contacts utiles ; elle ne revient pas à l’atelier sur la seule envie de rassurer Marion. Aujourd’hui, elle retrouve Leïla pour parler d’une autre partie de la semaine. Son amie a maintenu ce qu’elle avait dit après le nouvel épisode : elle veut être présente dans sa vie, mais elle ne peut pas être la personne que l’on suppose disponible à toute heure.",
+        "start": 2,
+        "end": 465
+      },
+      {
+        "quote": "Leïla garde un rôle choisi et accepte de discuter d’un accompagnement à un prochain rendez-vous. Marion confirme la coanimation et les responsabilités pratiques déjà prévues. Le recours clinique reste celui du suivi, avec ses modalités propres. Khadija confirme une table de présentation de recettes préparées par les autres, compatible avec les indications reçues. Elle animera une partie de l’échange et pourra passer la parole. Leïla lui demande quelle variante elle préfère : leur conversation peut enfin quitter la répartition des aides.",
+        "start": 4323,
+        "end": 4865
+      }
+    ],
+    "canonical_concept": "Un soutien avec des limites",
+    "context": "Après le point de suivi",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour définir un soutien possible"
+    ],
+    "clinical_code": "6B63",
+    "clinical_diagnosis": "État de possession"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/khadija-souvenirs-incomplets": {
+    "character": "Khadija",
+    "character_id": "khadija",
+    "keywords": [
+      "État de possession",
+      "mémoire",
+      "récit incomplet"
+    ],
+    "character_keywords": [
+      "État de possession",
+      "expérience involontaire",
+      "souvenirs incomplets",
+      "langage et soins",
+      "participation à l’atelier"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "cc78290551b8e0bb9591cf462b8b19375bcad05978f2b052cb9eeafe81330b67",
+    "summary": "Khadija arrive au rendez-vous avec la feuille pliée en deux. Le classeur vert est resté à l’atelier, auprès de Marion ; cette note n’a rien à faire entre les variantes de recettes. Nora, l’interprète professionnelle qu’elle a choisie, lui demande si elle souhaite commencer par ses questions. La docteure Tessier attend qu’elle soit installée. Elles connaissent déjà le diagnostic ; il ne s’agit pas de convaincre une nouvelle équipe de son existence.\n\n[…]\n\nLa docteure Tessier conserve les distinctions proposées et répond aux questions dans le cadre du suivi. Elle ne transforme pas le blanc en preuve d’un autre trouble. Khadija laisse la ligne vide sur sa feuille. Elle demande qu’un prochain échange soit consacré au vocabulaire utilisé pour son expérience, avec Nora si cela lui convient toujours. Le rendez-vous se termine sans chronologie parfaite, mais la question qu’elle veut reprendre est écrite de sa main.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Khadija arrive au rendez-vous avec la feuille pliée en deux. Le classeur vert est resté à l’atelier, auprès de Marion ; cette note n’a rien à faire entre les variantes de recettes. Nora, l’interprète professionnelle qu’elle a choisie, lui demande si elle souhaite commencer par ses questions. La docteure Tessier attend qu’elle soit installée. Elles connaissent déjà le diagnostic ; il ne s’agit pas de convaincre une nouvelle équipe de son existence.",
+        "start": 2,
+        "end": 453
+      },
+      {
+        "quote": "La docteure Tessier conserve les distinctions proposées et répond aux questions dans le cadre du suivi. Elle ne transforme pas le blanc en preuve d’un autre trouble. Khadija laisse la ligne vide sur sa feuille. Elle demande qu’un prochain échange soit consacré au vocabulaire utilisé pour son expérience, avec Nora si cela lui convient toujours. Le rendez-vous se termine sans chronologie parfaite, mais la question qu’elle veut reprendre est écrite de sa main.",
+        "start": 4165,
+        "end": 4626
+      }
+    ],
+    "canonical_concept": "Garder les blancs du souvenir",
+    "context": "Au rendez-vous de suivi",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour préparer un récit fidèle à ce que l’on sait"
+    ],
+    "clinical_code": "6B63",
+    "clinical_diagnosis": "État de possession"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/khadija-volonte-et-episode": {
+    "character": "Khadija",
+    "character_id": "khadija",
+    "keywords": [
+      "État de possession",
+      "caractère involontaire",
+      "relais"
+    ],
+    "character_keywords": [
+      "État de possession",
+      "expérience involontaire",
+      "souvenirs incomplets",
+      "langage et soins",
+      "participation à l’atelier"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "39fd8245ead90eb473e0560e8287b3fa7d31f7edfce68694d4475209b2de9bdb",
+    "summary": "Marion a préparé une feuille pour leur prochain atelier. Khadija la rejoint pour en parler, sans qu’une date de retour ait encore été arrêtée. Elles se mettent d’accord sur le fait de garder les variantes des participantes. Puis Marion montre une ligne au bas de la page : « Khadija prévient dès qu’elle doit s’arrêter. » Elle l’a écrite comme une précaution, avec l’idée de respecter son autonomie. Khadija la relit deux fois avant de répondre.\n\n[…]\n\nMarion raye la phrase. Elle garde une question à la place : quelles dispositions confirmer avant la reprise ? Khadija ne fixe pas de date ce jour-là. Elle emporte les points à discuter au suivi, tandis que Marion conserve les tâches de l’atelier. Elles ont changé une condition de leur organisation, pas la fréquence des épisodes. Khadija veut aussi demander si un diagnostic connu permettrait d’expliquer d’avance tout événement à venir. Cette question rejoint les autres sur sa note privée.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Marion a préparé une feuille pour leur prochain atelier. Khadija la rejoint pour en parler, sans qu’une date de retour ait encore été arrêtée. Elles se mettent d’accord sur le fait de garder les variantes des participantes. Puis Marion montre une ligne au bas de la page : « Khadija prévient dès qu’elle doit s’arrêter. » Elle l’a écrite comme une précaution, avec l’idée de respecter son autonomie. Khadija la relit deux fois avant de répondre.",
+        "start": 2,
+        "end": 447
+      },
+      {
+        "quote": "Marion raye la phrase. Elle garde une question à la place : quelles dispositions confirmer avant la reprise ? Khadija ne fixe pas de date ce jour-là. Elle emporte les points à discuter au suivi, tandis que Marion conserve les tâches de l’atelier. Elles ont changé une condition de leur organisation, pas la fréquence des épisodes. Khadija veut aussi demander si un diagnostic connu permettrait d’expliquer d’avance tout événement à venir. Cette question rejoint les autres sur sa note privée.",
+        "start": 4226,
+        "end": 4718
+      }
+    ],
+    "canonical_concept": "Vouloir participer ne suffit pas",
+    "context": "Avant de fixer le retour",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour préparer un relais sans exiger un contrôle parfait"
+    ],
+    "clinical_code": "6B63",
+    "clinical_diagnosis": "État de possession"
   },
   "posts/comprendre-et-maitriser-ses-emotions/laure-aide-et-vie-privee": {
     "character": "Laure",

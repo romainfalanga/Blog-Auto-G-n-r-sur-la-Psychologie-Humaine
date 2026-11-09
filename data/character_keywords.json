@@ -419,6 +419,18 @@
     ],
     "source": "repères des parcours cliniques de fiction"
   },
+  "agnès": {
+    "id": "agnes",
+    "name": "Agnès",
+    "keywords": [
+      "État de transe",
+      "épisodes involontaires",
+      "repères et mémoire",
+      "pratiques culturelles choisies",
+      "participation professionnelle"
+    ],
+    "source": "repères des parcours cliniques de fiction"
+  },
   "alix": {
     "id": "alix",
     "name": "Alix",
@@ -563,6 +575,18 @@
     ],
     "source": "repères des parcours cliniques de fiction"
   },
+  "clovis": {
+    "id": "clovis",
+    "name": "Clovis",
+    "keywords": [
+      "Dysphorie de l’intégrité corporelle",
+      "ressenti corporel persistant",
+      "honte et parole",
+      "accès aux soins",
+      "sécurité et participation"
+    ],
+    "source": "repères des parcours cliniques de fiction"
+  },
   "côme": {
     "id": "come",
     "name": "Côme",
@@ -692,6 +716,18 @@
       "Envie d’arracher",
       "Peur du regard",
       "Soutien choisi"
+    ],
+    "source": "repères des parcours cliniques de fiction"
+  },
+  "évaëlle": {
+    "id": "evaelle",
+    "name": "Évaëlle",
+    "keywords": [
+      "Trouble dissociatif de l’identité partiel",
+      "intrusions internes",
+      "sentiment d’agentivité",
+      "retentissement quotidien",
+      "engagements et limites"
     ],
     "source": "repères des parcours cliniques de fiction"
   },
@@ -848,6 +884,18 @@
       "Anxiété d’anticipation",
       "Évitement des situations",
       "Reprise progressive d’activités"
+    ],
+    "source": "repères des parcours cliniques de fiction"
+  },
+  "khadija": {
+    "id": "khadija",
+    "name": "Khadija",
+    "keywords": [
+      "État de possession",
+      "expérience involontaire",
+      "souvenirs incomplets",
+      "langage et soins",
+      "participation à l’atelier"
     ],
     "source": "repères des parcours cliniques de fiction"
   },

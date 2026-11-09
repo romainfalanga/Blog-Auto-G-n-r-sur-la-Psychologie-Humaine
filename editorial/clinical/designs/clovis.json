@@ -1,0 +1,199 @@
+{
+  "schema_version": 1,
+  "character_id": "clovis",
+  "code": "6C21",
+  "article_format": 2,
+  "bio": "Clovis, 39 ans, est assistant de production dans un cinéma associatif. Sa Dysphorie de l’intégrité corporelle est déjà diagnostiquée ; un ressenti persistant de discordance corporelle et la place qu’il prend dans ses pensées compliquent certains moments de travail et ses échanges. Il prépare une soirée d’écoute de bandes sonores avec deux bénévoles. Il souhaite pouvoir parler sans rendre l’échange dangereux. Avec un ami choisi et une équipe spécialisée en santé mentale et somatique, il prévoit ses appuis tout en gardant une place dans ce projet culturel.",
+  "profile_topics": [
+    "Dysphorie de l’intégrité corporelle",
+    "ressenti corporel persistant",
+    "honte et parole",
+    "accès aux soins",
+    "sécurité et participation"
+  ],
+  "voice": "Clovis préfère une formule exacte à une longue explication. Il parle de raccords sonores, de silences et de conducteurs de soirée, sans transformer ces goûts en métaphore de son corps. Il peut dire je ne sais pas comment le décrire ou j’ai besoin d’aide, sans devenir porte-parole de toutes les personnes concernées.",
+  "series_goal": "Monter avec Nora et Malik une soirée d’écoute de bandes sonores au cinéma associatif, en gardant un rôle choisi et un suivi spécialisé qui permet de faire passer la sécurité avant la programmation.",
+  "continuity_rules": [
+    "Clovis reste assistant de production, 39 ans, diagnostic établi avant le début. Les douze diagnostic_stage sont known ; les rendez-vous réexpliquent, suivent et évaluent sans diagnostic inaugural.",
+    "Nora et Malik sont les deux bénévoles ; Simon est l’ami choisi ; la docteure Roussel coordonne avec l’équipe spécialisée en santé mentale et somatique. Ne pas transformer l’ami en gardien permanent, thérapeute ou garant de sécurité.",
+    "Le conducteur bleu comporte sélection sonore, transitions et responsabilités. Aucun renseignement clinique n’y figure. Le support privé de contacts reste avec Clovis et les personnes qu’il choisit dans le cadre du suivi.",
+    "Aucun antécédent de blessure, projet concret d’altération corporelle, localisation précise ou cause traumatique n’est ajouté. L’épisode 9 expose une crainte de se blesser sans méthode ; appel professionnel et relais ont lieu avant la fin de la scène.",
+    "Les trois appuis de chaque article se préparent hors crise et restent communication, organisation ou recours aux soins. Aucun exercice de simulation de handicap, privation sensorielle, contention corporelle, exposition ou protocole VR ; aucun moyen d’obtenir ou dissimuler une lésion.",
+    "Respecter l’expérience sans confirmer qu’une modification corporelle résoudrait la souffrance. Ne pas assimiler à dysmorphophobie, TOC, identité de genre ou psychose ; ces différentiels appartiennent à l’équipe.",
+    "La soirée n’a pas lieu au prix d’une sécurité négligée. Après épisode 9, la reprise des tâches dépend du point clinique effectif ; Nora et Malik continuent le projet indépendamment pendant ce temps.",
+    "Fin : soirée menée avec responsabilités limitées et choisies, sans participation forcée ni victoire sur le corps. Le suivi et les contacts demeurent ; les applaudissements ne prouvent ni guérison ni efficacité thérapeutique."
+  ],
+  "episodes": [
+    {
+      "number": 1,
+      "focus": "Une discordance corporelle difficile à nommer",
+      "scene": "Au bureau du cinéma, Simon rejoint Clovis après la fermeture. Clovis voudrait lui parler de son ressenti persistant et du désir d’un handicap physique, sans expliquer comment l’obtenir ni montrer son corps. Il s’arrête avant une comparaison qu’il trouve trompeuse. Le conducteur bleu de la soirée est ouvert devant eux.",
+      "development": "Vécu de discordance p.435–438. Distinguer sentiment subjectif et nécessité d’agir ; aucune représentation graphique ni idéalisation du handicap. Trois appuis : demander un temps d’écoute ; choisir une phrase centrée sur le vécu ; réserver les questions cliniques à l’équipe. Simon accueille la difficulté sans confirmer une solution corporelle.",
+      "ending": "Simon écoute sans exiger davantage. Clovis lui dit qu’il est déjà suivi et garde sa note de santé séparée du conducteur.",
+      "next": "Le lendemain, la préparation révèle le temps que les préoccupations prennent dans son travail.",
+      "source_refs": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "nice-cg138"
+      ],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 2,
+      "focus": "La préoccupation occupe le travail",
+      "scene": "Avec Nora et Malik, Clovis écoute les propositions de bandes sonores. Ses préoccupations corporelles absorbent une partie de son attention ; il perd le fil d’une décision et retrouve deux versions incompatibles du programme. Il ne demande pas aux bénévoles de comprendre son diagnostic pour corriger cela.",
+      "development": "Retentissement cognitif et professionnel p.435–437, sans diagnostic de déficit attentionnel. Trois appuis : demander une décision à la fois ; consigner la version retenue ; partager une tâche clairement délimitée. Ne pas présenter la concentration sur la musique comme traitement.",
+      "ending": "Ils désignent une seule version du conducteur bleu. Clovis confie à Nora la confirmation de la salle plutôt que de promettre de tout reprendre seul.",
+      "next": "Il apprécie l’aide mais craint que ses hésitations aient rendu sa difficulté visible.",
+      "source_refs": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "nice-cg138"
+      ],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 3,
+      "focus": "La honte retarde la parole",
+      "scene": "Au café avec Simon, Clovis s’excuse d’avoir abordé un sujet qu’il imagine choquant. Il est tenté d’annuler une prochaine rencontre pour ne pas avoir à répondre. Simon ne réclame ni justification morale ni détails corporels.",
+      "development": "Honte et peur du rejet p.436. Trois appuis : distinguer une réaction redoutée d’une réaction réellement entendue ; choisir ce qui peut être partagé ; convenir de la possibilité de parler d’autre chose. Aucun devoir de révélation publique et aucune promesse que tous réagiront bien.",
+      "ending": "Clovis garde leur rencontre suivante et dit seulement qu’il souhaite être écouté sans débat sur son corps. Simon accepte cette limite.",
+      "next": "Cette phrase l’aide à préparer une question plus précise pour l’équipe qui le suit.",
+      "source_refs": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "nice-cg138"
+      ],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 4,
+      "focus": "Être écouté sans devoir se justifier",
+      "scene": "Avant son rendez-vous de suivi, Clovis prépare une courte note : il voudrait parler de la gêne corporelle sans que chaque échange se transforme en débat abstrait. La docteure Roussel lui demande ce qui lui pèse et ce qu’il attend de la rencontre ; elle garde une évaluation clinique complète.",
+      "development": "Accès aux soins p.436 et écoute individualisée CG138. Trois appuis : écrire une priorité ; demander une reformulation ; préciser un besoin de suivi. Accueillir le vécu n’implique ni approuver une altération du corps ni renoncer à évaluer la sécurité. Aucun service spécialisé inventé ou accès garanti.",
+      "ending": "Clovis quitte le rendez-vous avec une question entendue et la suite de suivi convenue. Il choisit d’aborder la prochaine fois l’ancienneté de son ressenti.",
+      "next": "Le récit reviendra sur cette ancienneté en consultation, sans scène d’origine ni cause révélée.",
+      "source_refs": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "nice-cg138"
+      ],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 5,
+      "focus": "Un vécu ancien reconnu tardivement",
+      "scene": "Au rendez-vous suivant, Clovis explique que ce ressenti était déjà présent jeune, bien avant le travail au cinéma. Il ne possède pas de date exacte ni d’événement qui l’expliquerait. La docteure Roussel distingue histoire du vécu et date, plus récente, du diagnostic déjà établi.",
+      "development": "Chronologie développementale p.435,437. Trois appuis : donner des repères approximatifs ; laisser les périodes inconnues ; distinguer début du ressenti et accès aux soins. Aucun souvenir induit ni comportement infantile détaillé ; le diagnostic n’est pas déduit de cette seule conversation.",
+      "ending": "Clovis conserve quelques repères sans devoir trouver un événement fondateur. La discussion continue sur les mots employés pour décrire la difficulté.",
+      "next": "Les mots défaut et obsession, entendus ailleurs, nécessitent une distinction clinique.",
+      "source_refs": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "nice-cg138"
+      ],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 6,
+      "focus": "Le trouble dépasse un défaut esthétique",
+      "scene": "Dans la suite de la consultation, Clovis rapporte qu’on lui a conseillé d’apprendre à se trouver beau. Il explique qu’il ne parle pas principalement d’une laideur perçue. La docteure Roussel situe la différence avec la dysmorphophobie sans proposer à Clovis de comparer lui-même des critères.",
+      "development": "Différentiel p.435,437–438 : configuration ou fonctionnement vécus comme inadéquats, distinction avec défaut esthétique perçu. Mention brève des autres différentiels professionnels sans attribuer TOC, psychose ou incongruence de genre. Trois appuis : préciser ce qu’une formule déforme ; demander une explication simple ; conserver les mots utiles pour le suivi.",
+      "ending": "Il choisit une phrase descriptive au lieu de se défendre contre chaque étiquette. Le rendez-vous ne se termine ni par une preuve photographique ni par une prescription corporelle.",
+      "next": "Une actualité scientifique qu’il a lue pose ensuite la question de ce que la recherche permet réellement de conclure.",
+      "source_refs": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "nice-cg138"
+      ],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 7,
+      "focus": "Une étude ne garantit pas un soin",
+      "scene": "Clovis apporte à son suivi le titre d’une étude récente sur l’expérience corporelle en réalité virtuelle. Il espérait qu’elle annoncerait une solution. L’équipe distingue résultats expérimentaux et bénéfices cliniques durables, sans lui proposer de reproduire la manipulation ni de chercher un dispositif.",
+      "development": "Limites des preuves : Ho et al. 2026, résumé vérifié, 20 participants BID et deux groupes comparateurs. Aucun effet clinique durable établi dans ce résumé ; aucune causalité cérébrale individuelle déduite. Trois appuis : demander ce qui a été mesuré ; demander les limites ; discuter ce qui peut être proposé dans son propre suivi sans promesse.",
+      "ending": "Clovis garde une question pour l’équipe plutôt qu’un projet d’essai autonome. Il revient au conducteur de la soirée, qui reste un projet culturel.",
+      "next": "Une période moins difficile lui donne envie de conclure trop vite que ses appuis ne seront plus nécessaires.",
+      "source_refs": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "nice-cg138",
+        "ho-2026"
+      ],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 8,
+      "focus": "L’intensité varie au fil des jours",
+      "scene": "La sélection sonore avance après quelques jours où la préoccupation a pris moins de place. Puis Clovis trouve une matinée nettement plus difficile et redoute d’avoir perdu tous ses progrès. Il n’a pas de règle certaine reliant ce changement à un événement.",
+      "development": "Évolution fluctuante p.436–437. Trois appuis : décrire le changement sans lui donner une cause automatique ; conserver les contacts de suivi ; réduire une tâche non indispensable. Aucun objectif chiffré, calendrier de guérison ou idée de rechute due à un manque d’effort.",
+      "ending": "Il transmet l’évolution à son équipe selon les modalités convenues et délègue une réunion. Le support de contacts reste accessible.",
+      "next": "La difficulté augmente ensuite assez pour qu’il dise explicitement à Simon qu’il craint de se blesser.",
+      "source_refs": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "nice-cg138"
+      ],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 9,
+      "focus": "Quand la sécurité devient prioritaire",
+      "scene": "Chez lui, avant un point sur la soirée, Clovis dit à Simon qu’il craint de se blesser et a besoin d’aide maintenant. Aucun moyen ni préparation n’est décrit. Simon reste avec lui pendant qu’ils contactent immédiatement le relais clinique convenu ; le professionnel organise l’évaluation adaptée. Si le danger est immédiat ou l’aide habituelle inaccessible, ils sollicitent les secours sans attendre.",
+      "development": "Risque documenté OMS p.435,437 ; principes généraux de relais et plan collaboratif NG225, limites de transposition explicites au dossier. Trois appuis uniquement hors crise : identifier les interlocuteurs avec l’équipe ; rendre les contacts accessibles ; prévoir qui prend les tâches du quotidien. Ne pas confondre risque de blessure et désir de mourir, ni promettre la sécurité sur une parole rassurante.",
+      "ending": "L’échange avec le professionnel et le relais effectif ont lieu dans la scène. La préparation de la soirée est suspendue pour Clovis ; Nora et Malik poursuivent les tâches prévues sans recevoir de détails médicaux.",
+      "next": "Après l’évaluation et selon les indications de l’équipe, Clovis et Simon parlent de ce que chacun peut soutenir dans la durée.",
+      "source_refs": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "nice-cg138",
+        "nice-ng225"
+      ],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 10,
+      "focus": "Un proche soutient sans tout porter",
+      "scene": "Après le point clinique et hors de la situation aiguë, Simon dit à Clovis qu’il peut l’accompagner à certains rendez-vous mais pas être joignable à toute heure. Clovis craint d’abord d’avoir trop demandé. Ils reprennent avec l’équipe les relais qui ne doivent pas dépendre d’un seul ami.",
+      "development": "Retentissement relationnel et soutien individualisé : OMS p.435–436, CG138 ; contacts et répartition NG225 comme principes limités. Trois appuis : nommer une disponibilité réelle ; conserver les relais professionnels ; séparer amitié et surveillance. Aucun contrat de non-blessure ni culpabilisation du proche.",
+      "ending": "Simon et Clovis gardent leur prochain café, sans faire de cette rencontre une consultation. Le support privé comprend les relais effectivement définis avec l’équipe.",
+      "next": "Clovis pourra reprendre un rôle limité dans la soirée si sa situation le permet, sans reprendre toutes les responsabilités.",
+      "source_refs": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "nice-cg138",
+        "nice-ng225"
+      ],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 11,
+      "focus": "Garder une place professionnelle choisie",
+      "scene": "Lorsque la reprise est possible après le suivi, Clovis retrouve Nora et Malik au cinéma. Ils ont avancé le programme sans modifier sa sélection. Il voudrait s’excuser en reprenant tout ; ils négocient plutôt un rôle précis qui respecte la disponibilité de chacun.",
+      "development": "Retentissement professionnel p.435 et accompagnement CG138. Trois appuis : choisir un rôle limité ; vérifier que les autres tâches ont réellement un responsable ; préparer une façon de se retirer si nécessaire. Aucune injonction à travailler pour aller mieux, aucune procédure légale inventée.",
+      "ending": "Nora prend l’accueil, Malik la régie. Clovis conserve une courte introduction et la sélection sonore. Le conducteur bleu reflète cette répartition effective.",
+      "next": "La soirée finale pourra avoir lieu sans dépendre de sa capacité à tout assurer.",
+      "source_refs": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "nice-cg138"
+      ],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 12,
+      "focus": "Le projet continue avec le suivi",
+      "scene": "Le soir venu, Clovis présente brièvement les bandes sonores. Nora accueille les retardataires et Malik assure la régie. Clovis peut ensuite s’asseoir et écouter ; la salle n’est pas plongée dans une expérience de privation sensorielle et aucun handicap n’est simulé.",
+      "development": "Participation malgré un trouble persistant : OMS p.435–437 et individualisation CG138. Trois appuis : maintenir les responsabilités partagées ; prévoir un retour pratique après la soirée ; conserver le suivi clinique séparé du bilan culturel. Le plaisir de la soirée n’est pas une preuve de guérison.",
+      "ending": "La soirée a eu lieu et Clovis note une nouvelle idée de programmation. Il garde ses contacts et ses rendez-vous ; son ressenti n’a pas besoin d’être déclaré disparu pour que ce projet ait une valeur.",
+      "next": "Le parcours se clôt sur la soirée réalisée et des appuis maintenus, sans transformation corporelle, promesse de guérison ou annonce d’un treizième épisode.",
+      "source_refs": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "nice-cg138"
+      ],
+      "diagnostic_stage": "known"
+    }
+  ]
+}

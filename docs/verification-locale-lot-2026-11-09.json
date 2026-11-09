@@ -1,0 +1,441 @@
+{
+  "date": "2026-11-09",
+  "scope": "Local Hugo rendering only; not deployed",
+  "articles": 48,
+  "ok": true,
+  "checks": "Opening, every explanation/manifestation/example/technique/objective/action/benefit, ending, conclusion, relatives text and headings present in article-content",
+  "results": [
+    {
+      "character": "agnes",
+      "episode": 1,
+      "path": "public/posts/comprendre-et-maitriser-ses-emotions/agnes-conscience-retrecie/index.html",
+      "ok": true,
+      "rendered_story_sha256": "479809ac4e57ffd4d4d0b5be0d69a6d21f9ca94756aa785f42070aa88869360a",
+      "all_section_parts_present": true,
+      "section_parts_checked": 34
+    },
+    {
+      "character": "agnes",
+      "episode": 2,
+      "path": "public/posts/comprendre-et-maitriser-ses-emotions/agnes-geste-sans-intention/index.html",
+      "ok": true,
+      "rendered_story_sha256": "532c312be54d05d381abf26f71dc419949d8ec5e5fb3a8a69d8df0683e150874",
+      "all_section_parts_present": true,
+      "section_parts_checked": 34
+    },
+    {
+      "character": "agnes",
+      "episode": 3,
+      "path": "public/posts/comprendre-et-maitriser-ses-emotions/agnes-souvenirs-incomplets/index.html",
+      "ok": true,
+      "rendered_story_sha256": "d831a1dc9d9c7da49b26f2156edd086cbf2afefa0c47835b5c8d2deb14ea0fe4",
+      "all_section_parts_present": true,
+      "section_parts_checked": 34
+    },
+    {
+      "character": "agnes",
+      "episode": 4,
+      "path": "public/posts/comprendre-et-maitriser-ses-emotions/agnes-fatigue-apres-episode/index.html",
+      "ok": true,
+      "rendered_story_sha256": "6e4b3666e40967fa9d1a5708a539da46aadb49481b14980e9a89fc6832995d24",
+      "all_section_parts_present": true,
+      "section_parts_checked": 34
+    },
+    {
+      "character": "agnes",
+      "episode": 5,
+      "path": "public/posts/comprendre-et-maitriser-ses-emotions/agnes-pratique-culturelle-choisie/index.html",
+      "ok": true,
+      "rendered_story_sha256": "9d21183472441a2e19698e23f96f293a837c21d0db0ad430bbc8240c914eeacb",
+      "all_section_parts_present": true,
+      "section_parts_checked": 34
+    },
+    {
+      "character": "agnes",
+      "episode": 6,
+      "path": "public/posts/comprendre-et-maitriser-ses-emotions/agnes-transe-et-possession/index.html",
+      "ok": true,
+      "rendered_story_sha256": "171c266b56ceb23cd0b1e6673207ac798cb614ca09005e064fe5d3c3987be412",
+      "all_section_parts_present": true,
+      "section_parts_checked": 34
+    },
+    {
+      "character": "agnes",
+      "episode": 7,
+      "path": "public/posts/comprendre-et-maitriser-ses-emotions/agnes-malaise-inhabituel-reevaluation/index.html",
+      "ok": true,
+      "rendered_story_sha256": "ff2e11b692aba650122d316f8c1523aa7e5f962acd77c967b75517416758392d",
+      "all_section_parts_present": true,
+      "section_parts_checked": 34
+    },
+    {
+      "character": "agnes",
+      "episode": 8,
+      "path": "public/posts/comprendre-et-maitriser-ses-emotions/agnes-relais-sans-signal/index.html",
+      "ok": true,
+      "rendered_story_sha256": "c6c3c24b0f4e632cb843e12fa37eebc79e7cae0151ccd3bf924410d0871bce01",
+      "all_section_parts_present": true,
+      "section_parts_checked": 34
+    },
+    {
+      "character": "agnes",
+      "episode": 9,
+      "path": "public/posts/comprendre-et-maitriser-ses-emotions/agnes-circonstances-et-cause/index.html",
+      "ok": true,
+      "rendered_story_sha256": "438829478daebbca6594c723e5c817a75e0ae7af258c695022da8f89b07140e5",
+      "all_section_parts_present": true,
+      "section_parts_checked": 34
+    },
+    {
+      "character": "agnes",
+      "episode": 10,
+      "path": "public/posts/comprendre-et-maitriser-ses-emotions/agnes-recurrence-et-relais/index.html",
+      "ok": true,
+      "rendered_story_sha256": "cf53b9404036552163a48dcfc1e0c69ea0f00c86036f4b389f1423c2222acfa4",
+      "all_section_parts_present": true,
+      "section_parts_checked": 34
+    },
+    {
+      "character": "agnes",
+      "episode": 11,
+      "path": "public/posts/comprendre-et-maitriser-ses-emotions/agnes-effort-invisible-preparation/index.html",
+      "ok": true,
+      "rendered_story_sha256": "8ec2b6d1429bd2169c90eb16dd142314b25e4c32213cc45464960e9c77b824c4",
+      "all_section_parts_present": true,
+      "section_parts_checked": 34
+    },
+    {
+      "character": "agnes",
+      "episode": 12,
+      "path": "public/posts/comprendre-et-maitriser-ses-emotions/agnes-atelier-appuis-durables/index.html",
+      "ok": true,
+      "rendered_story_sha256": "e00f7f220f2bd64eb2ef063c565b5d7fdf4c1631115810ade709a358e40ea186",
+      "all_section_parts_present": true,
+      "section_parts_checked": 34
+    },
+    {
+      "character": "khadija",
+      "episode": 1,
+      "path": "public/posts/comprendre-et-maitriser-ses-emotions/khadija-sentiment-de-soi/index.html",
+      "ok": true,
+      "rendered_story_sha256": "be334e341b526edb7ec4f484a1f5277473590e12e5c0273c260046cce769eacd",
+      "all_section_parts_present": true,
+      "section_parts_checked": 34
+    },
+    {
+      "character": "khadija",
+      "episode": 2,
+      "path": "public/posts/comprendre-et-maitriser-ses-emotions/khadija-parole-et-commande/index.html",
+      "ok": true,
+      "rendered_story_sha256": "9f1e91898ec7bc701f4f942dc97153b1c37171f6deb86a9d60c27da9916ddbec",
+      "all_section_parts_present": true,
+      "section_parts_checked": 34
+    },
+    {
+      "character": "khadija",
+      "episode": 3,
+      "path": "public/posts/comprendre-et-maitriser-ses-emotions/khadija-souvenirs-incomplets/index.html",
+      "ok": true,
+      "rendered_story_sha256": "ae546a074e5177a7e440e4b97e57dfcd8cc38323db6bc6a7f8c97d3562c5b51f",
+      "all_section_parts_present": true,
+      "section_parts_checked": 34
+    },
+    {
+      "character": "khadija",
+      "episode": 4,
+      "path": "public/posts/comprendre-et-maitriser-ses-emotions/khadija-mots-communs-au-soin/index.html",
+      "ok": true,
+      "rendered_story_sha256": "464b4aaf2616ff38aa8fb07dcf808d6bc8dc35870a4f45b01208d3047958cbc6",
+      "all_section_parts_present": true,
+      "section_parts_checked": 34
+    },
+    {
+      "character": "khadija",
+      "episode": 5,
+      "path": "public/posts/comprendre-et-maitriser-ses-emotions/khadija-pratique-choisie-episode-subi/index.html",
+      "ok": true,
+      "rendered_story_sha256": "9b7b3785a36da847cb53876e3d421596389135c1bf9beba49bfcf606eb64cf19",
+      "all_section_parts_present": true,
+      "section_parts_checked": 34
+    },
+    {
+      "character": "khadija",
+      "episode": 6,
+      "path": "public/posts/comprendre-et-maitriser-ses-emotions/khadija-volonte-et-episode/index.html",
+      "ok": true,
+      "rendered_story_sha256": "dc091d97c836f098e1badca4ea182169fd19021be8f64439755119cd22972161",
+      "all_section_parts_present": true,
+      "section_parts_checked": 34
+    },
+    {
+      "character": "khadija",
+      "episode": 7,
+      "path": "public/posts/comprendre-et-maitriser-ses-emotions/khadija-diagnostic-et-evaluation/index.html",
+      "ok": true,
+      "rendered_story_sha256": "372608cccc1b9403aece80c7a70b9ce3ef34314bf2e78fe46dc0029b8bff4f71",
+      "all_section_parts_present": true,
+      "section_parts_checked": 34
+    },
+    {
+      "character": "khadija",
+      "episode": 8,
+      "path": "public/posts/comprendre-et-maitriser-ses-emotions/khadija-choisir-qui-peut-savoir/index.html",
+      "ok": true,
+      "rendered_story_sha256": "e943f113a0f53c3115da47d7bca8e5a5faadfddabec0d6b8013c4c07b563cbdc",
+      "all_section_parts_present": true,
+      "section_parts_checked": 34
+    },
+    {
+      "character": "khadija",
+      "episode": 9,
+      "path": "public/posts/comprendre-et-maitriser-ses-emotions/khadija-effort-cache-atelier/index.html",
+      "ok": true,
+      "rendered_story_sha256": "adb7d437663fe93b21f47beed06a424a416669ebb2bb918ff2baaa444b9688b4",
+      "all_section_parts_present": true,
+      "section_parts_checked": 34
+    },
+    {
+      "character": "khadija",
+      "episode": 10,
+      "path": "public/posts/comprendre-et-maitriser-ses-emotions/khadija-recidive-et-efforts/index.html",
+      "ok": true,
+      "rendered_story_sha256": "33f3b709a609202f95045403563f8e9787cabad4c3b9fa5e05a2d3614bef6ec6",
+      "all_section_parts_present": true,
+      "section_parts_checked": 34
+    },
+    {
+      "character": "khadija",
+      "episode": 11,
+      "path": "public/posts/comprendre-et-maitriser-ses-emotions/khadija-soutien-et-limites/index.html",
+      "ok": true,
+      "rendered_story_sha256": "aab1e2e231f46f04bd87b149671e99a0dda64d949ef9fd02ce65f3e05bbcfdaf",
+      "all_section_parts_present": true,
+      "section_parts_checked": 34
+    },
+    {
+      "character": "khadija",
+      "episode": 12,
+      "path": "public/posts/comprendre-et-maitriser-ses-emotions/khadija-place-choisie-atelier/index.html",
+      "ok": true,
+      "rendered_story_sha256": "b939bb5e48f502da84dc97cab83f7a75bb2d64465f08a2d40b8e2cfc603cbaf5",
+      "all_section_parts_present": true,
+      "section_parts_checked": 34
+    },
+    {
+      "character": "evaelle",
+      "episode": 1,
+      "path": "public/posts/comprendre-et-maitriser-ses-emotions/evaelle-pensee-interrompt-etiquette/index.html",
+      "ok": true,
+      "rendered_story_sha256": "0571970679caabeb355fe40ada06a90429eeb8079bb2a8cd7cd0aefa68c98bc9",
+      "all_section_parts_present": true,
+      "section_parts_checked": 34
+    },
+    {
+      "character": "evaelle",
+      "episode": 2,
+      "path": "public/posts/comprendre-et-maitriser-ses-emotions/evaelle-peur-pendant-tri/index.html",
+      "ok": true,
+      "rendered_story_sha256": "a27fe5129795d95d7b931f16ac7ab4c6428a3cbfe1fe4e6aad5e5427f3b259ca",
+      "all_section_parts_present": true,
+      "section_parts_checked": 34
+    },
+    {
+      "character": "evaelle",
+      "episode": 3,
+      "path": "public/posts/comprendre-et-maitriser-ses-emotions/evaelle-parole-interieure-suggestions/index.html",
+      "ok": true,
+      "rendered_story_sha256": "2aafbc24b3b329602432e91dc91fac7eece9e660c9c808bdd7e632c3f0ad95dc",
+      "all_section_parts_present": true,
+      "section_parts_checked": 34
+    },
+    {
+      "character": "evaelle",
+      "episode": 4,
+      "path": "public/posts/comprendre-et-maitriser-ses-emotions/evaelle-geste-et-initiative/index.html",
+      "ok": true,
+      "rendered_story_sha256": "96b90a9e3ac4b3a327982d92f3b77f00bb9fe643ddccf4c785739ccfd4d685bd",
+      "all_section_parts_present": true,
+      "section_parts_checked": 34
+    },
+    {
+      "character": "evaelle",
+      "episode": 5,
+      "path": "public/posts/comprendre-et-maitriser-ses-emotions/evaelle-memoire-presente/index.html",
+      "ok": true,
+      "rendered_story_sha256": "b6ee61676851817a22c616cb1e4372c06f3e09dc5b29c152dda4a469da6c91ee",
+      "all_section_parts_present": true,
+      "section_parts_checked": 34
+    },
+    {
+      "character": "evaelle",
+      "episode": 6,
+      "path": "public/posts/comprendre-et-maitriser-ses-emotions/evaelle-passage-incertain-reunion/index.html",
+      "ok": true,
+      "rendered_story_sha256": "5059efa1a5e660ab26a20da7ae1f0fffef7e9deae7b45b3b6b7c82c9ffbc79a0",
+      "all_section_parts_present": true,
+      "section_parts_checked": 34
+    },
+    {
+      "character": "evaelle",
+      "episode": 7,
+      "path": "public/posts/comprendre-et-maitriser-ses-emotions/evaelle-partiel-retentissement/index.html",
+      "ok": true,
+      "rendered_story_sha256": "9a9917c136e3c1426fae48859ce8d25bc4c3230169280005eecd21547c453fc0",
+      "all_section_parts_present": true,
+      "section_parts_checked": 34
+    },
+    {
+      "character": "evaelle",
+      "episode": 8,
+      "path": "public/posts/comprendre-et-maitriser-ses-emotions/evaelle-origine-non-deduite/index.html",
+      "ok": true,
+      "rendered_story_sha256": "c84fd1cc0c51e76a2a507abc8999df7119ce67f98c64d19c1e5c4ee752b5a4ce",
+      "all_section_parts_present": true,
+      "section_parts_checked": 34
+    },
+    {
+      "character": "evaelle",
+      "episode": 9,
+      "path": "public/posts/comprendre-et-maitriser-ses-emotions/evaelle-cout-du-quotidien/index.html",
+      "ok": true,
+      "rendered_story_sha256": "16d65829d671dd4af2fe5cfe6eb2fa781aad98f41ca8d53970af3110fe5fc365",
+      "all_section_parts_present": true,
+      "section_parts_checked": 34
+    },
+    {
+      "character": "evaelle",
+      "episode": 10,
+      "path": "public/posts/comprendre-et-maitriser-ses-emotions/evaelle-soutien-aux-limites-claires/index.html",
+      "ok": true,
+      "rendered_story_sha256": "63a20513b29c1cd8312baa8e8f1e07d44ce60a07bcb5dfbb3034cc3ea80b6ce9",
+      "all_section_parts_present": true,
+      "section_parts_checked": 34
+    },
+    {
+      "character": "evaelle",
+      "episode": 11,
+      "path": "public/posts/comprendre-et-maitriser-ses-emotions/evaelle-fluctuation-et-relais/index.html",
+      "ok": true,
+      "rendered_story_sha256": "0fbcf4c4e27cee8af7ec0a9730c1fa9a83dd50388ae88bf652eb80fef9382602",
+      "all_section_parts_present": true,
+      "section_parts_checked": 34
+    },
+    {
+      "character": "evaelle",
+      "episode": 12,
+      "path": "public/posts/comprendre-et-maitriser-ses-emotions/evaelle-engagement-choisi-aboutit/index.html",
+      "ok": true,
+      "rendered_story_sha256": "ff441e350baf1409586772abfc8a310c129070b991ae6b3d57046015f2d337f4",
+      "all_section_parts_present": true,
+      "section_parts_checked": 34
+    },
+    {
+      "character": "clovis",
+      "episode": 1,
+      "path": "public/posts/comprendre-et-maitriser-ses-emotions/clovis-discordance-difficile-a-nommer/index.html",
+      "ok": true,
+      "rendered_story_sha256": "f9967671d6ded9acfbceaf587a220cc5396542c08261fc492f94c9240e4755cc",
+      "all_section_parts_present": true,
+      "section_parts_checked": 34
+    },
+    {
+      "character": "clovis",
+      "episode": 2,
+      "path": "public/posts/comprendre-et-maitriser-ses-emotions/clovis-preoccupation-au-travail/index.html",
+      "ok": true,
+      "rendered_story_sha256": "ca515b99ec524a343a6b2ace1ecbc6406dfcb2e8d4bbab2eff31e46fa7dc068c",
+      "all_section_parts_present": true,
+      "section_parts_checked": 34
+    },
+    {
+      "character": "clovis",
+      "episode": 3,
+      "path": "public/posts/comprendre-et-maitriser-ses-emotions/clovis-honte-et-parole/index.html",
+      "ok": true,
+      "rendered_story_sha256": "e3ae0a0b58c923ce76f7b951d66d530aa9c88b8480bab79121b7e3b638ffa216",
+      "all_section_parts_present": true,
+      "section_parts_checked": 34
+    },
+    {
+      "character": "clovis",
+      "episode": 4,
+      "path": "public/posts/comprendre-et-maitriser-ses-emotions/clovis-ecoute-en-consultation/index.html",
+      "ok": true,
+      "rendered_story_sha256": "5ccdf1344af80038f056f3dff45603acc641fc08f94133e9ff0b04966179e750",
+      "all_section_parts_present": true,
+      "section_parts_checked": 34
+    },
+    {
+      "character": "clovis",
+      "episode": 5,
+      "path": "public/posts/comprendre-et-maitriser-ses-emotions/clovis-vecu-ancien-diagnostic/index.html",
+      "ok": true,
+      "rendered_story_sha256": "60ba590d88138c13efec929b57170389f32ef9799ee3a48212f420c12c35c5b1",
+      "all_section_parts_present": true,
+      "section_parts_checked": 34
+    },
+    {
+      "character": "clovis",
+      "episode": 6,
+      "path": "public/posts/comprendre-et-maitriser-ses-emotions/clovis-au-dela-du-defaut-esthetique/index.html",
+      "ok": true,
+      "rendered_story_sha256": "bb17d861a2c30e4ff360a38f376be3fa7d76e837e4bb55ba3e3ab65ebfea6ff9",
+      "all_section_parts_present": true,
+      "section_parts_checked": 34
+    },
+    {
+      "character": "clovis",
+      "episode": 7,
+      "path": "public/posts/comprendre-et-maitriser-ses-emotions/clovis-etude-et-soin/index.html",
+      "ok": true,
+      "rendered_story_sha256": "ce7f3eb9582e7301730db4f1f212fbbc9eb85ab48beee0c0e589e2d573632ea7",
+      "all_section_parts_present": true,
+      "section_parts_checked": 34
+    },
+    {
+      "character": "clovis",
+      "episode": 8,
+      "path": "public/posts/comprendre-et-maitriser-ses-emotions/clovis-intensite-variable/index.html",
+      "ok": true,
+      "rendered_story_sha256": "1f853fb88c14feb0d68fec08ce31108987265bc3020441fa1ca0733646e5a661",
+      "all_section_parts_present": true,
+      "section_parts_checked": 34
+    },
+    {
+      "character": "clovis",
+      "episode": 9,
+      "path": "public/posts/comprendre-et-maitriser-ses-emotions/clovis-securite-prioritaire/index.html",
+      "ok": true,
+      "rendered_story_sha256": "258dc1878b837b83f8ee7e8169630b9f3057b1373b8109e48ad9de8d4b648bac",
+      "all_section_parts_present": true,
+      "section_parts_checked": 34
+    },
+    {
+      "character": "clovis",
+      "episode": 10,
+      "path": "public/posts/comprendre-et-maitriser-ses-emotions/clovis-proche-et-relais/index.html",
+      "ok": true,
+      "rendered_story_sha256": "6838c3a13bf437e5b4e0ca008ac515ba51546f1e94fbdcb50feb84e0224e9420",
+      "all_section_parts_present": true,
+      "section_parts_checked": 34
+    },
+    {
+      "character": "clovis",
+      "episode": 11,
+      "path": "public/posts/comprendre-et-maitriser-ses-emotions/clovis-place-professionnelle-choisie/index.html",
+      "ok": true,
+      "rendered_story_sha256": "e1d47617fad1877119b7ca866f58cb99b49c7ca17bc8e420594d253b5ccf8f5d",
+      "all_section_parts_present": true,
+      "section_parts_checked": 34
+    },
+    {
+      "character": "clovis",
+      "episode": 12,
+      "path": "public/posts/comprendre-et-maitriser-ses-emotions/clovis-projet-et-suivi/index.html",
+      "ok": true,
+      "rendered_story_sha256": "4678dbd24b3a1364d40ac78c07706504f8fd8dab8144ac1744df096bc03054bd",
+      "all_section_parts_present": true,
+      "section_parts_checked": 34
+    }
+  ]
+}

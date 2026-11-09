@@ -602,6 +602,46 @@
       "design_sha256": "47816ac75dcf39d5ce8ae94e292e5a52a73793ec4b2701b7b1a861b5576e7c1e",
       "independent_review_sha256": "a83a3fdb219bc671a7374bfec4ba1eb6182a08e41106145ffa772ea50dc3a1e9",
       "review": "Douze épisodes relus indépendamment ; raccord temporel épisode 11 corrigé puis revalidé, confidentialité enfant, aide adulte et nuit à la médiathèque vérifiées. Aucune correction ouverte."
+    },
+    "agnes": {
+      "date": "2026-11-09",
+      "status": "editorially_reviewed",
+      "article_format": 2,
+      "sha256": "7b197a7de6cdfabce50b5f7ca7dbad862fa1ede872d17599a3ed887ac4f91225",
+      "dossier_sha256": "d9897121a466c14c2d88064cddabe6cb7452398376fab9e0ce9a160097bef52b",
+      "design_sha256": "678c3660441168d422e4e0a1573f49e5f4793ad39c06d5a1246f607ee68b861f",
+      "independent_review_sha256": "7b10a616f424131ac607c79d37d38a97f0319025e0185ec79e0b192c3a8eb64a",
+      "review": "Douze épisodes relus intégralement par review_agnes ; cinq formulations métanarratives corrigées puis seconde lecture complète acceptée. Sources, continuité et conseils aux proches contrôlés ; rapport indépendant lié aux empreintes. Publication distante encore en attente."
+    },
+    "clovis": {
+      "date": "2026-11-09",
+      "status": "editorially_reviewed",
+      "article_format": 2,
+      "sha256": "d03782f9cb07fefc6885c461561357370ab8f5cb9f207d62f03d6f88e15ff0eb",
+      "dossier_sha256": "6768afc6211166301eaedab72fb0dbb28ed0daef7868eb662371f41a4db878c7",
+      "design_sha256": "23b585b2e01ec53ac1add4e6a85e4660eeb3b04ec1ba7cc843302724fe0407eb",
+      "independent_review_sha256": "005a20ae92963738bfa3b3bd0ecbb8309832402d8c5242b767b25df11af843ba",
+      "review": "Douze épisodes relus intégralement par review_clovis, rapport indépendant accepté sans correction ouverte. Limites des études, continuité, relais clinique et conseils aux proches vérifiés. Publication distante en attente."
+    },
+    "khadija": {
+      "date": "2026-11-09",
+      "status": "editorially_reviewed",
+      "article_format": 2,
+      "sha256": "08cf03b0a19e21aa418c9b7e8d5f431f36090feb9f1bcd4a7bbdb70f6897dd86",
+      "dossier_sha256": "d56f8109cd004c52c660f2c00550b9adaae248200ca04d81870e1513d9ca48d8",
+      "design_sha256": "bad9469dde291fbbdd83864c6280aa07d7aac6aa6e6819fe6ce670aa7f465a10",
+      "independent_review_sha256": "4105d4443e89841e840ec5befe31015e6bded6465c54651d8df572ba19cd2c0b",
+      "review": "Douze épisodes relus intégralement par review_khadija ; rapport indépendant accepté sans correction ouverte. Sources OMS/NICE, continuité, confidentialité et proches vérifiés. Publication distante en attente."
+    },
+    "evaelle": {
+      "date": "2026-11-09",
+      "status": "editorially_reviewed",
+      "article_format": 2,
+      "sha256": "72aae03d6cd2d359a40f6b755330f224bd0a0bc3c149a880a971ce8971b773ae",
+      "dossier_sha256": "439aaf4299608486501ce014d135fd62e139feb4b252d58a1c41556bdd3666c4",
+      "design_sha256": "37415ed95b3e1a6d62d7b77629b3f3e74d02f61433d4ccb1e6149cfefa3daca4",
+      "independent_review_sha256": "dc7d275f38fe19e6892d3c0f964a6939a8990d16eedd1dd1f31b6f98e038ce97",
+      "review": "Douze épisodes relus intégralement par review_evaelle ; correction grammaticale épisode 3 puis vérification finale acceptée. Rapport lié aux empreintes, chronologie et limites des connaissances contrôlées. Publication distante en attente."
     }
   }
 }

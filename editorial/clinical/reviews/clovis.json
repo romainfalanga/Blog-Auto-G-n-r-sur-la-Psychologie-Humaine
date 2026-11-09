@@ -1,0 +1,124 @@
+{
+  "schema_version": 1,
+  "character_id": "clovis",
+  "reviewer": "review_clovis",
+  "reviewed_on": "2026-11-09",
+  "summary": "Lecture intégrale des douze épisodes, sections pédagogiques, exercices, fins et proches. Canon, douze aspects, diagnostic antérieur et raccords respectés. OMS CDDR p.435–438 relues ; résumé original Ho 2026 et recommandations NICE NG225 revérifiés. Aucune procédure corporelle ou expérimentation décrite, aucun traitement spécifique prétendument validé. Relais clinique effectif en 9 et reprise après suivi en 11 ; projet culturel distinct du soin. Aucune correction ouverte. Cette relecture éditoriale ne constitue pas une expertise clinique externe.",
+  "files": {
+    "editorial/clinical/designs/clovis.json": "23b585b2e01ec53ac1add4e6a85e4660eeb3b04ec1ba7cc843302724fe0407eb",
+    "editorial/clinical/dossiers/clovis.json": "6768afc6211166301eaedab72fb0dbb28ed0daef7868eb662371f41a4db878c7",
+    "editorial/clinical/clovis.json": "d03782f9cb07fefc6885c461561357370ab8f5cb9f207d62f03d6f88e15ff0eb"
+  },
+  "status": "passed",
+  "findings": [],
+  "episode_checks": [
+    {
+      "number": 1,
+      "focus": "Une discordance corporelle difficile à nommer",
+      "opening_quote": "Le dernier spectateur est parti depuis vingt minutes. Clovis a laissé le conducteur bleu ouvert à la page des transitions, avec un point d’i",
+      "ending_quote": "Simon ne demande ni preuve ni détail supplémentaire. « Je peux écouter, et te dire quand je ne comprends pas. » Clovis lui explique qu’il es",
+      "continuity_note": "La confidence après fermeture établit Simon ami, le conducteur bleu et la note privée ; le lendemain annoncé ouvre logiquement la réunion.",
+      "clinical_note": "Le désir de handicap est nommé sans localisation, geste ni solution corporelle confirmée ; vécu subjectif et jugement clinique sont distincts.",
+      "relatives_note": "Simon accueille une demande d’écoute sans preuve ni démonstration et peut revenir au cinéma avec accord."
+    },
+    {
+      "number": 2,
+      "focus": "La préoccupation occupe le travail",
+      "opening_quote": "Nora a apporté une liste de trois propositions et Malik un enregistrement qu’il veut faire entendre avant de choisir. Clovis reconnaît le dé",
+      "ending_quote": "Ils conservent l’ordre proposé par Nora et le reportent sur le conducteur bleu. Clovis lui demande aussi si elle peut confirmer la salle. El",
+      "continuity_note": "Les deux versions naissent de la décision mal suivie ; Nora confirme effectivement la salle et Malik garde les durées, repris ensuite.",
+      "clinical_note": "Retentissement attentionnel situé dans une préoccupation sans diagnostic additionnel ; clarifier le travail ne traite pas la dysphorie.",
+      "relatives_note": "Nora répond au besoin pratique sans exiger une confidence et vérifie sa disponibilité pour la tâche."
+    },
+    {
+      "number": 3,
+      "focus": "La honte retarde la parole",
+      "opening_quote": "Clovis est arrivé en avance au café. Il a choisi une table près de la fenêtre, puis se demande si elle est trop visible. Simon le retrouve a",
+      "ending_quote": "Clovis efface son brouillon d’annulation. « La semaine prochaine, je veux bien qu’on se voie. Et si je n’en parle pas, on pourra parler du c",
+      "continuity_note": "La réunion précédente alimente la peur d’être deviné ; le brouillon d’annulation effacé permet la rencontre suivante.",
+      "clinical_note": "Honte et crainte du rejet sont plausibles et documentées ; le texte distingue observation et anticipation sans promettre une réaction accueillante universelle.",
+      "relatives_note": "Simon autorise détails privés et autre sujet, avec sa propre possibilité de ne pas être disponible."
+    },
+    {
+      "number": 4,
+      "focus": "Être écouté sans devoir se justifier",
+      "opening_quote": "Dans la salle d’attente, Clovis relit une phrase qu’il a écrite la veille : « Je voudrais décrire la gêne sans devoir justifier chaque mot. ",
+      "ending_quote": "Avant de partir, Clovis reformule ce qu’il a compris de la suite du suivi. La docteure confirme les modalités et ils conviennent d’aborder p",
+      "continuity_note": "Note prioritaire préparée après le café ; consultation de suivi et ancienneté reportée au rendez-vous suivant, comme en épisode 5.",
+      "clinical_note": "Écoute ne vaut pas approbation d’une modification corporelle ; évaluation santé/sécurité reste menée même si elle semble un détour au personnage.",
+      "relatives_note": "L’ami peut demander si le sujet a été entendu, sans compte rendu forcé ni parole substituée."
+    },
+    {
+      "number": 5,
+      "focus": "Un vécu ancien reconnu tardivement",
+      "opening_quote": "Au rendez-vous suivant, Clovis ouvre son carnet à une page presque vide. Il avait pensé y tracer une ligne allant de son enfance au cinéma a",
+      "ending_quote": "Clovis garde ses trois repères et les espaces entre eux. « Je peux dire que c’était déjà là, même si je ne sais pas pourquoi », résume-t-il.",
+      "continuity_note": "Le rendez-vous annoncé reprend les trois repères et se prolonge sur défaut/obsession, transition précise vers épisode 6.",
+      "clinical_note": "Ancienneté distinguée de date diagnostique ; aucune causalité traumatique, date fabriquée ou souvenir suggéré, diagnostic déjà établi.",
+      "relatives_note": "Simon accueille une date approximative et ne sollicite pas des témoignages à l’insu de Clovis."
+    },
+    {
+      "number": 6,
+      "focus": "Le trouble dépasse un défaut esthétique",
+      "opening_quote": "La docteure Roussel referme doucement le carnet sur les repères d’ancienneté, sans le reprendre à Clovis. Il reste quelques minutes de consu",
+      "ending_quote": "Clovis écrit qu’il éprouve une discordance corporelle persistante, dont la place dans sa vie doit être discutée avec l’équipe. La phrase lui",
+      "continuity_note": "Même consultation que 5, carnet fermé puis discussion lexicale ; étude proposée pour un prochain suivi réalisé en 7.",
+      "clinical_note": "Différence avec défaut esthétique clairement formulée ; pas de tableau d’autodiagnostic, ni confusion de toute préoccupation avec TOC.",
+      "relatives_note": "Le proche cherche le mot convenable plutôt qu’un compliment inadéquat et n’attribue aucun diagnostic."
+    },
+    {
+      "number": 7,
+      "focus": "Une étude ne garantit pas un soin",
+      "opening_quote": "Clovis a copié le titre de l’étude sur une feuille séparée. Le texte parle de réalité virtuelle et d’expérience corporelle ; il n’a conservé",
+      "ending_quote": "Clovis écrit trois questions au dos du titre, puis range la feuille dans son carnet. Il ne prépare aucun essai autonome. Au cinéma, il retro",
+      "continuity_note": "Titre apporté au rendez-vous annoncé ; questions conservées dans carnet puis retour au conducteur où salle/durées restent cohérentes.",
+      "clinical_note": "Résumé Ho 2026 revérifié : l’article n’invente ni efficacité durable ni mécanisme causal individuel et ne décrit pas la manipulation expérimentale.",
+      "relatives_note": "Simon peut entendre déception et incertitude, sans promesse en ligne ni aide à reproduire une expérience."
+    },
+    {
+      "number": 8,
+      "focus": "L’intensité varie au fil des jours",
+      "opening_quote": "Pendant plusieurs jours, Clovis a travaillé sur les crédits sans devoir reprendre chaque ligne. Il a retrouvé le plaisir de reconnaître une ",
+      "ending_quote": "Clovis transmet l’évolution selon les modalités convenues avec son équipe. Il demande à Nora si elle peut conduire la réunion avec Malik ; e",
+      "continuity_note": "Jours plus faciles puis matin difficile sans déclencheur fabriqué ; transmission à équipe et réunion effectivement confiée précèdent aggravation 9.",
+      "clinical_note": "Fluctuation documentée sans disparition totale affirmée, faute morale ou causalité déduite ; accès aux soins conservé.",
+      "relatives_note": "Nora prend une tâche plutôt que surveiller ; le miroir prévoit relais professionnel en aggravation, au-delà du programme allégé."
+    },
+    {
+      "number": 9,
+      "focus": "Quand la sécurité devient prioritaire",
+      "opening_quote": "Simon devait passer chez Clovis pour regarder le programme transmis par Nora. Le conducteur bleu est posé sur la table, mais Clovis ne l’ouv",
+      "ending_quote": "Après l’accueil par l’équipe, les modalités de la suite sont précisées avec Clovis. Le travail reste suspendu. Avec son accord, Simon envoie",
+      "continuity_note": "Conducteur fermé, appel immédiat, déplacement et accueil par équipe ont lieu ; suspension transmise à Nora avec accord, reprise reportée.",
+      "clinical_note": "Aucune méthode ni préparation de blessure ; risque de blessure distinct du désir de mourir ; pas de contrat de non-blessure et secours si danger immédiat. NG225 sert des appuis généraux, sans revendication de protocole 6C21.",
+      "relatives_note": "Simon accompagne vers relais et indications sans obtenir une promesse ni porter seul sécurité ; urgence maintenue dans dernière partie."
+    },
+    {
+      "number": 10,
+      "focus": "Un proche soutient sans tout porter",
+      "opening_quote": "Le point clinique a eu lieu et le suivi a été ajusté avec Clovis. Il n’est plus dans la situation aiguë de l’autre jour. Les décisions de re",
+      "ending_quote": "Clovis et Simon conservent leur prochain café. Le support privé contient les relais effectivement confirmés avec l’équipe, pas une promesse ",
+      "continuity_note": "Point clinique et sortie de situation aiguë précèdent discussion ; échange réel avec soignants confirme relais, cinéma attend encore.",
+      "clinical_note": "Limite de disponibilité n’est pas un abandon ; organisation professionnelle ne dépend pas du seul ami, aucune surveillance constante prescrite.",
+      "relatives_note": "Phrase de limite concrète et recours urgent si nécessaire ; aucune culpabilisation ou promesse que Clovis ne devra plus aller mal."
+    },
+    {
+      "number": 11,
+      "focus": "Garder une place professionnelle choisie",
+      "opening_quote": "Le point de suivi a permis de discuter la reprise d’un rôle limité. Clovis retrouve Nora et Malik au cinéma avec les possibilités convenues,",
+      "ending_quote": "Le conducteur porte désormais trois responsabilités : accueil pour Nora, régie pour Malik, sélection et courte introduction pour Clovis. Nor",
+      "continuity_note": "Après point de suivi, Nora accueil et Malik régie ; Clovis sélection/introduction, copie transmise à Nora pour éventuelle relève.",
+      "clinical_note": "Reprise limitée choisie, sans travail prescrit comme traitement ; désir de compenser explicitement non spécifique du diagnostic.",
+      "relatives_note": "Nora vérifie rôle et disponibilité réelle, soins prioritaires si besoin réapparaît ; aucune obligation de divulgation."
+    },
+    {
+      "number": 12,
+      "focus": "Le projet continue avec le suivi",
+      "opening_quote": "Nora vérifie les noms à l’entrée pendant que Malik installe son conducteur à la régie. Dans la salle, les lumières permettent encore aux spe",
+      "ending_quote": "À la fin, Nora ferme l’accueil et Malik range ses notes. Clovis les remercie sans proposer aussitôt de reprendre toutes leurs tâches la proc",
+      "continuity_note": "La répartition 11 se réalise : Nora accueille retardataire, Malik régie, Clovis peut écouter ; conducteur reçoit idée et carnet garde suivi.",
+      "clinical_note": "Participation et intérêt coexistent avec préoccupation, aucune guérison par succès culturel ; pas simulation ou privation sensorielle.",
+      "relatives_note": "Félicitation du travail sans verdict sur santé, maintien du soutien sans examen permanent de l’état."
+    }
+  ]
+}

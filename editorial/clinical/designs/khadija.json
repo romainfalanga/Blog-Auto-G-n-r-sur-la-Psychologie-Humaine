@@ -1,0 +1,198 @@
+{
+  "schema_version": 1,
+  "character_id": "khadija",
+  "code": "6B63",
+  "article_format": 2,
+  "bio": "Khadija, 36 ans, est animatrice d’ateliers de cuisine avec des participantes de plusieurs générations. Son État de possession, un trouble dissociatif déjà diagnostiqué par une équipe clinique, comporte des épisodes involontaires vécus comme un remplacement de son identité et une perte de commande de ses gestes. Cet intitulé ne confirme aucune cause surnaturelle. Avec une interprète choisie, une proche de confiance et ses soignants, elle cherche des mots respectueux de son expérience. Elle veut décider à qui l’expliquer et garder une place active dans l’atelier.",
+  "profile_topics": [
+    "État de possession",
+    "expérience involontaire",
+    "souvenirs incomplets",
+    "langage et soins",
+    "participation à l’atelier"
+  ],
+  "voice": "Khadija parle de variantes, de personnes autour de la table et de ce qu’elle souhaite garder pour elle. Elle peut hésiter sur une explication et décider nettement d’une organisation. Ses recettes, son humour sobre et son attention aux propositions des participantes ne sont pas des symptômes. Ses paroles sur une influence restent attribuées à son vécu ; la narration ne prend jamais cette influence pour un fait.",
+  "series_goal": "Décider à qui expliquer les épisodes et sous quelle forme, puis retrouver une place active choisie à l’atelier de cuisine avec des responsabilités partagées et un suivi poursuivi.",
+  "continuity_rules": [
+    "Diagnostic professionnel établi avant le premier épisode : known partout. La docteure Tessier réexplique ou réévalue, elle ne pose pas le diagnostic pour la première fois. Aucun diagnostic par Leïla, Marion ou Nora.",
+    "Khadija a 36 ans, reste animatrice d’ateliers de cuisine avec des participantes de plusieurs générations. Leïla est son amie de confiance ; Marion sa coanimatrice ; Nora son interprète professionnelle choisie ; la docteure Tessier appartient à son équipe clinique. Ne pas déduire langue, origine ou religion de leurs prénoms.",
+    "Trame obligatoire pour chaque manuscrit : ouverture 180 mots minimum ; explication autonome ; trois manifestations contextualisées avec deux exemples chacune ; trois appuis numérotés, chacun objectif, trois actions et utilité possible ; retour à la scène ; séparateur et conclusion ; Du côté des proches. Ne jamais multiplier les symptômes pour remplir cette structure : utiliser les faits et retentissements de l’aspect traité.",
+    "Les trois appuis de chaque épisode se préparent hors événement, autour de communication, organisation et recours aux professionnels. Pas de protocole spécifique 6B63 vérifié ici : ni induction, rituel, exorcisme, contrainte, respiration prescrite, exposition, suggestion, recherche de souvenirs ni modification de médicament.",
+    "Épisodes 1 et 2 : même événement. Épisodes 3 et 4 : deux rendez-vous distincts ; épisode 5 poursuit le second. Épisode 7 : point de suivi avant retour limité ; épisode 9 : reprise des fiches autorisée selon indications du suivi. Épisode 10 : deuxième événement hors atelier, contact clinique effectif, séance annulée pour elle ; épisode 11 : point clinique déjà réalisé avant toute reprise.",
+    "Le classeur vert contient les recettes seulement. La note privée de santé reste séparée. Une explication clinique est envoyée à Marion à l’épisode 8 ; les participantes reçoivent uniquement la feuille de rôles. Leïla ne diffuse pas les informations à sa place ; Nora ne représente aucune tradition entière.",
+    "Pas de manipulation de feu, liquides chauds ou outils coupants par Khadija dans ces scènes. Marion assure les responsabilités pratiques selon leur organisation ; le suivi détermine les appuis et relais. Si le rédacteur ajoute une situation à risque ou un événement inhabituel, il doit en faire vérifier les faits et le relais dans la scène, sans présumer son origine.",
+    "Maintenir le titre canonique État de possession en le qualifiant de trouble dissociatif, nom clinique d’un vécu. Ne jamais confirmer une entité réelle, faire de croyances des preuves, imposer une interprétation culturelle, inventer traumatisme ou amnésie supplémentaire. Distinguer 6B62, 6B63, pratiques choisies et autres diagnostics sans exposer une grille pour s’autodiagnostiquer.",
+    "Fin : table de présentation réellement tenue avec rôle choisi et passation volontaire à Marion. La pause finale n’est pas une transe. La participation, la confidentialité et les responsabilités sont résolues ; ni guérison, ni maîtrise garantie, ni fin des soins."
+  ],
+  "episodes": [
+    {
+      "number": 1,
+      "focus": "Quand le sentiment de soi bascule",
+      "scene": "À la table de préparation des fiches, avant toute manipulation culinaire, Khadija connaît un épisode déjà inscrit dans son suivi. Marion prend le relais de la réunion selon leur organisation préalable. Après l’événement et le temps nécessaire, Khadija essaie de dire à Leïla que ce n’était plus son sentiment habituel d’être elle-même ; elle l’a vécu comme une influence extérieure. Le récit ne donne aucune voix autonome à cette influence.",
+      "development": "Expérience identitaire, CDDR p.377–379. Poser que l’État de possession est un intitulé clinique décrivant un vécu, pas la preuve d’une entité. Trois appuis à développer hors épisode : distinguer ce qui a été ressenti de ce qui a été vu ; choisir une interlocutrice de confiance ; reprendre le plan de contact établi avec les soignants. Aucun signal exigé pendant l’altération de conscience.",
+      "ending": "Khadija décide de ne pas reprendre la préparation ce jour-là. Marion conserve le classeur vert pour les tâches convenues ; Leïla accepte d’écouter sans expliquer la cause.",
+      "next": "Le lendemain, Khadija souhaite comprendre une action observée pendant ce même événement.",
+      "source_refs": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "nice-cg138"
+      ],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 2,
+      "focus": "Parler sans se sentir aux commandes",
+      "scene": "Marion rapporte, avec l’accord de Khadija, qu’elle a déplacé une fiche et répondu par une phrase compréhensible pendant l’événement. Khadija ne reconnaît pas dans ce geste une décision qu’elle aurait commandée. Le classeur ne contient aucune mystérieuse recette nouvelle.",
+      "development": "Sentiment de commande des gestes et paroles, p.378–379, distinct du sentiment d’identité de l’épisode 1. Une parole organisée ne prouve pas le contrôle volontaire. Appuis : décrire un fait sans interprétation ; ne pas demander de rejouer le geste ; préparer une question pour l’équipe. Aucun proche ne teste la maîtrise de Khadija.",
+      "ending": "Elles gardent une observation sobre dans une note privée, séparée du classeur de recettes. Marion confirme que le relais ne dépendra pas d’une explication pendant l’événement.",
+      "next": "La note soulève la question des souvenirs incomplets que Khadija veut aborder en consultation.",
+      "source_refs": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "nice-cg138"
+      ],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 3,
+      "focus": "Garder les blancs du souvenir",
+      "scene": "Au rendez-vous prévu avec la docteure Tessier et Nora, Khadija se rappelle certains instants mais pas l’ordre des échanges à la table. Elle pose sa note sans chercher à remplir chaque blanc. Le diagnostic est antérieur à cette rencontre.",
+      "development": "Mémoire partielle possible, CDDR p.379 et 382, sans diagnostiquer une autre amnésie. Appuis : différencier souvenir personnel et information rapportée ; laisser les passages inconnus ; demander quelle observation serait utile au suivi. Pas de visualisation, reconstitution imposée ou souvenir retrouvé.",
+      "ending": "La docteure accepte un récit incomplet et note ce qui est connu. Khadija demande à garder du temps pour discuter du mot possession lors du prochain échange.",
+      "next": "La consultation suivante reprend précisément la difficulté de traduire son expérience sans imposer une interprétation.",
+      "source_refs": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "nice-cg138"
+      ],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 4,
+      "focus": "Trouver des mots communs au soin",
+      "scene": "Lors de ce second échange, Nora demande à Khadija comment elle souhaite formuler son vécu, puis vérifie avec elle le sens transmis. Khadija explique que le terme clinique lui semble parfois confirmer quelque chose qu’elle ne veut pas devoir prouver. La docteure distingue expérience, attribution et explication médicale.",
+      "development": "Accès au soin et formulations culturelles, CDDR p.381, CG138 1.1.4 et 1.5.4–1.5.8. Appuis : préparer une phrase dans ses mots ; demander une reformulation vérifiable ; convenir des termes du compte rendu. L’interprète facilite l’échange, ne diagnostique pas et ne valide pas de cause surnaturelle.",
+      "ending": "Khadija garde deux formulations compatibles : ce qu’elle ressent et le nom clinique du trouble. Elle souhaite maintenant préciser ce qui, dans sa vie, relève d’une pratique choisie et non des épisodes.",
+      "next": "Le rendez-vous se poursuit sur cette frontière, sans inventer une religion ou un rituel.",
+      "source_refs": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "nice-cg138"
+      ],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 5,
+      "focus": "Distinguer pratique choisie et épisode subi",
+      "scene": "Pendant la suite de l’entretien, Khadija dit qu’elle peut participer volontairement à des moments collectifs qui ont du sens pour elle, tandis que les épisodes suivis surviennent contre son gré et lui coûtent une place à l’atelier. Nora restitue cette différence sans demander une démonstration.",
+      "development": "Frontière culturelle et non-pathologie, CDDR p.377, 379, 381. Ne pas faire de la croyance ou de l’acceptation sociale un test autonome. Appuis : nommer son choix sans détailler une pratique ; expliquer au professionnel le retentissement non souhaité ; préserver une partie de sa vie privée. Ni suppression des croyances ni conseil de rituel.",
+      "ending": "L’équipe consigne cette distinction dans le suivi. Khadija conserve le droit de ne pas exposer ses pratiques aux participantes ; elle prépare seulement un échange avec Marion.",
+      "next": "Cet échange révèle que volonté de participer et caractère involontaire d’un épisode peuvent être confondus.",
+      "source_refs": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "nice-cg138"
+      ],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 6,
+      "focus": "Vouloir participer ne suffit pas",
+      "scene": "Marion propose que Khadija annonce toujours le moment où elle doit s’arrêter. Khadija lui répond qu’elle veut être présente mais ne peut garantir une annonce pendant un épisode. Elles reviennent à la réunion interrompue et au relais déjà assuré.",
+      "development": "Caractère involontaire et non souhaité, p.378–379, distinct de la commande d’un geste isolé. Appuis : séparer engagement et maîtrise des manifestations ; préparer un relais qui ne dépend pas d’un signal parfait ; discuter de ce relais avec les soignants. Aucune faute de volonté, obligation de contrôle ou technique pour provoquer ou arrêter la transe.",
+      "ending": "Marion retire la condition du signal. Elles préparent les questions de sécurité et de responsabilité à vérifier avant le retour, sans encore fixer sa date.",
+      "next": "Khadija apporte ces questions au suivi ; un diagnostic connu ne répond pas à toutes les questions de santé.",
+      "source_refs": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "nice-cg138"
+      ],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 7,
+      "focus": "Un diagnostic ne clôt pas l’évaluation",
+      "scene": "Lors du point de suivi, Khadija demande si tout événement futur pourra être appelé possession. La docteure reprend les limites du diagnostic et les circonstances qu’il faudra signaler, sans inventer une crise nouvelle pour faire cette explication. Marion reçoitra seulement les dispositions pratiques que Khadija choisira de partager.",
+      "development": "Différentiels CDDR p.378–382 ; NG217 1.2.6 pour ne pas déduire une origine psychologique d’un EEG normal. Appuis : distinguer fait nouveau et interprétation ; demander le circuit de contact adapté à la situation ; faire préciser quand suspendre l’activité et solliciter une aide médicale. Aucun test autonome ni consigne d’attendre sous prétexte du diagnostic.",
+      "ending": "Le plan individualisé et les modalités de contact sont revus avec l’équipe. Khadija choisit un retour limité à la préparation des fiches, compatible avec les indications reçues ; les dispositions sont confirmées avant la reprise.",
+      "next": "Elle peut maintenant décider quelle information partager avec Marion et laquelle conserver dans le suivi.",
+      "source_refs": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "nice-cg138",
+        "nice-ng217"
+      ],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 8,
+      "focus": "Choisir qui peut savoir",
+      "scene": "Chez elle avec Leïla, Khadija hésite devant un message destiné à Marion. Elle craint que le titre État de possession circule ensuite à tout l’atelier. Leïla lui demande ce qu’elle souhaite vraiment faire comprendre, sans proposer d’annoncer le diagnostic à sa place.",
+      "development": "Retentissement relationnel et divulgation choisie, CDDR p.379 ; CG138 participation et préférences. Appuis : choisir destinataire et but ; formuler un besoin pratique sans récit médical complet ; préciser ce qui ne sera pas relayé. L’intimité n’interdit pas les démarches de sécurité nécessaires prévues avec l’équipe.",
+      "ending": "Khadija envoie à Marion une courte explication clinique avec son accord explicite de confidentialité. Pour les participantes, elle prépare seulement une répartition des rôles, dépourvue de diagnostic.",
+      "next": "Le travail sur les rôles révèle la charge qu’elle s’imposait pour rester indispensable.",
+      "source_refs": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "nice-cg138"
+      ],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 9,
+      "focus": "L’effort caché derrière l’atelier",
+      "scene": "De retour à une table de préparation sans cuisson ni découpe, Khadija a recopié chaque fiche en trois exemplaires pour que rien ne dépende de son absence. Marion comprend que cette préparation a occupé toute sa soirée. Les variantes de recettes se perdent sous les vérifications.",
+      "development": "Retentissement professionnel et maintien au prix d’efforts, CDDR p.379. Ce surtravail appartient à cette fiction, pas à un nouveau trouble compulsif. Appuis : distinguer tâche utile et doublon ; attribuer une responsabilité entière à Marion ; conserver une contribution choisie. Ni retour professionnel imposé ni performance comme traitement.",
+      "ending": "Marion prend la compilation des variantes ; Khadija conserve le choix de leur présentation. Une seule version de la feuille des rôles accompagne le classeur vert.",
+      "next": "Un nouvel épisode hors atelier mettra cette organisation à l’épreuve sans invalider le travail accompli.",
+      "source_refs": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "nice-cg138"
+      ],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 10,
+      "focus": "Une récidive ne juge pas les efforts",
+      "scene": "Avant la séance prévue, Khadija informe Marion qu’un nouvel épisode est survenu chez elle. Leïla a suivi le plan convenu et le contact avec l’équipe clinique a effectivement eu lieu. Le récit ne répète pas la scène ni n’ajoute de manifestation. Khadija renonce à venir ce jour-là, sans devoir produire une justification publique.",
+      "development": "Évolution et récurrence variable, CDDR p.380. Appuis : transmettre les éléments utiles au soin ; distinguer la récurrence de la qualité du relais ; reporter un engagement sans décider seule d’un changement thérapeutique. Pas d’échec attribué à un exercice, une croyance ou un manque d’adhésion.",
+      "ending": "Marion assure la séance sans diffuser la raison médicale. Le prochain retour reste conditionné au point de suivi et aux besoins de Khadija ; Leïla dit qu’elle ne pourra pas être disponible à toute heure.",
+      "next": "Après le point clinique, la discussion porte sur un soutien possible qui ne repose pas entièrement sur Leïla.",
+      "source_refs": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "nice-cg138"
+      ],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 11,
+      "focus": "Un soutien avec des limites",
+      "scene": "Le point de suivi a eu lieu avant la reprise de la préparation. Khadija et Leïla parlent de la dernière semaine : Leïla peut accompagner un rendez-vous prévu mais ne peut devenir la personne de permanence. Khadija craint d’abord que cette limite soit un retrait ; elles distinguent amitié, relais de l’atelier et recours clinique.",
+      "development": "Retentissement familial et social, CDDR p.379 ; participation individualisée CG138. Appuis : formuler une disponibilité réelle ; répartir les responsabilités entre personnes consentantes et professionnels ; conserver le contact clinique accessible selon le plan. Pas de surveillance permanente, contrôle de croyances ou obligation pour la proche de gérer seule un événement.",
+      "ending": "Leïla garde un rôle choisi, Marion confirme la coanimation et l’équipe reste le recours clinique. Khadija confirme une table de présentation de recettes préparées par les autres, avec un rôle qu’elle peut interrompre.",
+      "next": "La dernière séance vérifie cette répartition concrète, sans transformer le retour en test de guérison.",
+      "source_refs": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "nice-cg138"
+      ],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 12,
+      "focus": "Retrouver une place sans tout raconter",
+      "scene": "À l’atelier, les participantes de plusieurs générations apportent les variantes déjà préparées. Khadija anime la discussion autour du classeur vert ; Marion assure les autres responsabilités pratiques. Khadija lui passe la parole au moment convenu et reste libre de prendre une pause. Cette passation choisie n’est pas un épisode clinique.",
+      "development": "Participation avec des appuis durables, CDDR retentissement et évolution ; CG138 préférences. Appuis : garder un rôle choisi ; faire un bilan pratique distinct du suivi ; réviser les appuis sans publication de l’histoire médicale. Aucun effet démontré sur la fréquence des épisodes et aucune promesse de stabilité définitive.",
+      "ending": "Khadija a repris une place active et choisi les destinataires de ses explications. Elle conserve sa note de santé à part, laisse une page pour une prochaine recette et poursuit son suivi ; le groupe n’a pas eu à décider du sens de son expérience.",
+      "next": "L’enjeu de la divulgation et du retour se clôt ; la vie et les soins continuent, sans annonce d’un treizième épisode.",
+      "source_refs": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "nice-cg138"
+      ],
+      "diagnostic_stage": "known"
+    }
+  ]
+}

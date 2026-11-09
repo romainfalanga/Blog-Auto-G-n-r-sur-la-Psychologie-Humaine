@@ -2,11 +2,11 @@
 
 État au 2026-11-09.
 
-Le catalogue contient **1275 articles**, **107 personnages** et **74 parcours cliniques** de douze épisodes. **70** parcours ont un code principal dans le chapitre 06 de la CIM-11. **4** parcours se situent dans d’autres chapitres ou dans le DSM-5-TR.
+Le catalogue contient **1323 articles**, **111 personnages** et **78 parcours cliniques** de douze épisodes. **74** parcours ont un code principal dans le chapitre 06 de la CIM-11. **4** parcours se situent dans d’autres chapitres ou dans le DSM-5-TR.
 
 **387 articles d’origine** disposent d’une preuve de lecture sémantique liée à l’empreinte de leur corps. Cette preuve est distincte des signaux de structure et de la relecture indépendante des passages sensibles.
 
-Il reste **80 cas du registre** à documenter et à traiter sous la forme appropriée. Les renvois à une variante ne comptent pas comme des textes écrits. Les catégories résiduelles, syndromes secondaires et différences entre référentiels restent à examiner.
+Il reste **76 cas du registre** à documenter et à traiter sous la forme appropriée. Les renvois à une variante ne comptent pas comme des textes écrits. Les catégories résiduelles, syndromes secondaires et différences entre référentiels restent à examiner.
 
 Les **161 repères internes indexés sur 161** ne constituent pas un inventaire de toute la psychologie. Une liaison secondaire ne vaut pas un épisode dédié. Les lacunes précises des grilles APA, RDoC et CIF sont consignées dans [la revue des concepts](../data/psychology_coverage_review.json). Le DSM-5-TR reste à comparer diagnostic par diagnostic au-delà des seules familles thématiques.
 
@@ -21,10 +21,10 @@ Les **161 repères internes indexés sur 161** ne constituent pas un inventaire 
 | Troubles anxieux ou liés à la peur | 9 | 7 | 0 | 0 | 2 |
 | Troubles obsessionnels compulsifs ou apparentés | 27 | 7 | 0 | 11 | 9 |
 | Troubles spécifiquement associés au stress | 8 | 6 | 0 | 0 | 2 |
-| Troubles dissociatifs | 32 | 4 | 3 | 18 | 7 |
+| Troubles dissociatifs | 32 | 7 | 0 | 18 | 7 |
 | Troubles du comportement alimentaire ou de la nutrition | 19 | 6 | 0 | 7 | 6 |
 | Troubles de l'élimination | 10 | 2 | 0 | 5 | 3 |
-| Troubles de détresse physique et de l’expérience corporelle | 8 | 1 | 1 | 3 | 3 |
+| Troubles de détresse physique et de l’expérience corporelle | 8 | 2 | 0 | 3 | 3 |
 | Troubles dus à l'utilisation de substances ou à des conduites addictives | 420 | 6 | 37 | 286 | 91 |
 | Troubles du contrôle des impulsions | 6 | 2 | 2 | 0 | 2 |
 | Comportement perturbateur ou troubles dissociaux | 22 | 0 | 2 | 12 | 8 |
@@ -54,10 +54,6 @@ Ce tableau suit les scénarios candidats déjà présents dans la cartographie. 
 
 | Code | Sujet | Scénario candidat |
 | --- | --- | --- |
-| 6B62 | État de transe | Agnès |
-| 6B63 | État de possession | Khadija |
-| 6B65 | Trouble dissociatif de l'identité partiel | Évaëlle |
-| 6C21 | Dysphorie de l'intégrité corporelle | Clovis |
 | 6C70 | Pyromanie | Loïc |
 | 6C71 | Kleptomanie | Irma |
 | 6C90 | Trouble oppositionnel avec provocation | Ruben |
