@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "revision": 657,
+  "revision": 665,
   "created_at": "2026-11-07T14:47:42Z",
   "cases": {
     "mathis": {
@@ -4680,7 +4680,7 @@
     "ronan": {
       "character_id": "ronan",
       "code": "6D30",
-      "stage": "ready_to_publish",
+      "stage": "published",
       "created_at": "2026-11-07T14:47:42Z",
       "active_job": null,
       "owners": {
@@ -4749,12 +4749,42 @@
         "design_sha256": null,
         "dossier_sha256": null,
         "review_sha256": null
+      },
+      "publication": {
+        "verified_at": "2026-11-09T22:33:31Z",
+        "release": {
+          "date": "2026-11-09",
+          "status": "editorially_reviewed",
+          "article_format": 2,
+          "sha256": "22c482c6191735a01ec5541851ffabe7e5eeeca43b54e48a6a6225ebaedffbf2",
+          "dossier_sha256": "243928a024942a596852433bc812cd56cc11b20701a47810ecd35b12f5927f87",
+          "design_sha256": "0cba2e51f093c3ef044176ad3ce3916b07d68badd6cadba0dda9a665673700d0",
+          "independent_review_sha256": "f31eca32798e3e9b220bae16b4200ba5c1f50fa270d98df0221416a2670d8cdf",
+          "review": "Douze épisodes relus indépendamment par review_ronan, sources OMS et WFSBP vérifiées, trame de référence et continuité contrôlées. Consentement, diagnostic distinct des actes, limites de preuve et des proches conservés. Aucune correction ouverte."
+        },
+        "files": {
+          "content/posts/comprendre-et-maitriser-ses-emotions/ronan-detresse-trouble-exhibitionniste-demander-aide.md": "d48cb8156096c3a27db009d2725f527c1dc42a354c8543557813644238f13f2b",
+          "content/posts/comprendre-et-maitriser-ses-emotions/ronan-schema-durable-journee-calme.md": "940424231aff2767fa88651299389e86d6c259c0a464bb7e4b575461df741316",
+          "content/posts/comprendre-et-maitriser-ses-emotions/ronan-consentement-limites-conversation.md": "b8fb47a3e9e5ea7e01d4a397f79497c758f731aa28e91c447f0fa4b1a34a53a1",
+          "content/posts/comprendre-et-maitriser-ses-emotions/ronan-evaluation-individuelle-participation.md": "bc53b7bc2e581cc81fe09df08b3d1a7e3201632b15a1540074fc9cbddf08e8fc",
+          "content/posts/comprendre-et-maitriser-ses-emotions/ronan-controle-reponse-suivi.md": "14bfc0943c2bdd7e933abd2751376ade31cf65b97151a8bb392e0cc1cf6b3d65",
+          "content/posts/comprendre-et-maitriser-ses-emotions/ronan-sommeil-nouveau-changement-bilan.md": "78d5f847e93e98c66c6b2ce505ae679777bfa259dae6c17d658e1bd4a415c603",
+          "content/posts/comprendre-et-maitriser-ses-emotions/ronan-justification-permission-limite.md": "811077acfad30af93582ea70fa80bc78e11b4bea5c916d65f755fc5380cca8aa",
+          "content/posts/comprendre-et-maitriser-ses-emotions/ronan-frustration-appui-soin.md": "7849f82bc4ce29130c06fcfb1f9d5c118f703b4d286f328b8457756fb3e71f02",
+          "content/posts/comprendre-et-maitriser-ses-emotions/ronan-proche-soutien-limites-disponibilite.md": "7649f7f477416e2ebfc30680275c0cd7b455046329ea874fb3030aa2feca0701",
+          "content/posts/comprendre-et-maitriser-ses-emotions/ronan-decision-soin-incertitudes.md": "5163f86444d300b7560e714b6fb2b884d66e641d148459592e433aea0f1ab464",
+          "content/posts/comprendre-et-maitriser-ses-emotions/ronan-fluctuation-reviser-participation.md": "a10955671bf161a124ba9a03d8733ac94a7250d1c199547e0df96625d32ee225",
+          "content/posts/comprendre-et-maitriser-ses-emotions/ronan-travail-accompli-suivi-maintenu.md": "17d226230e66eee7eb3fccf6692209f37685b4cfc06dc30971688ed765c1d419",
+          "content/personnages/ronan.md": "c837e4df4143da83a719ffa9745813c2ca940865f31ddb5d87de6b8b53ed7574",
+          "data/article_mirrors/ronan.json": "9a86e030e712059657645c67f87fbe8785324b19cb5de27316a1e5f37c08ac89"
+        },
+        "topics_sha256": "87287730ff5ba14431ecb7cdc3f2c6e135d8433a49e67baa6a9b8548eb6f4727"
       }
     },
     "amael": {
       "character_id": "amael",
       "code": "6D31",
-      "stage": "ready_to_publish",
+      "stage": "published",
       "created_at": "2026-11-07T14:47:42Z",
       "active_job": null,
       "owners": {
@@ -4823,12 +4853,42 @@
         "design_sha256": null,
         "dossier_sha256": null,
         "review_sha256": null
+      },
+      "publication": {
+        "verified_at": "2026-11-09T22:33:32Z",
+        "release": {
+          "date": "2026-11-09",
+          "status": "editorially_reviewed",
+          "article_format": 2,
+          "sha256": "e7695d3a5e0302c52fb178ce1c45026a21291b9768e71b2bbcd5f555f3ee18fa",
+          "dossier_sha256": "1304ffdb7a53e459723664923a80227e538a420b08ed6fd0bf94a766739889bf",
+          "design_sha256": "0199f947f6509effe07d9bd3ccf794eaee5413debb9cf52354fc9501437034af",
+          "independent_review_sha256": "fdc890081fe02139c788eaf0bafce16017509933f08c0fa1e0b7f11f0527cb34",
+          "review": "Douze épisodes relus indépendamment par review_amael, sources primaires OMS et WFSBP vérifiées. Continuité, trame de référence, consentement, démarches de soin et proches contrôlés ; aucune correction ouverte."
+        },
+        "files": {
+          "content/posts/comprendre-et-maitriser-ses-emotions/amael-schema-persistant-au-travail.md": "b81e822b67fbd6831630b403ac9412b9c53559b10a864f94fffa03f31cc82128",
+          "content/posts/comprendre-et-maitriser-ses-emotions/amael-consentement-et-vie-privee.md": "67146ab13626893858e3b84d52f51e8a230a1d328883764701a657fb388a8601",
+          "content/posts/comprendre-et-maitriser-ses-emotions/amael-detresse-et-consultation.md": "733c0a009cb228fc95bead6cd0ab6fe25b46a8f12d9b47c14471fe0a0c73cfcb",
+          "content/posts/comprendre-et-maitriser-ses-emotions/amael-pensees-et-comportements.md": "9895ef913902cbed9b2b585e27dc7bb6bd8623d739756c71db57476a1d147736",
+          "content/posts/comprendre-et-maitriser-ses-emotions/amael-retentissement-au-travail.md": "35f98aab74c12d8d4586891c1bf8f23d3efaefbfcf8f05ae34126e1c214ae92b",
+          "content/posts/comprendre-et-maitriser-ses-emotions/amael-honte-et-parole-clinique.md": "a9caf537b05d3e3e538cb14c045612b9b0802e9f85f80159032d0fa1cd8f04e7",
+          "content/posts/comprendre-et-maitriser-ses-emotions/amael-soin-individualise.md": "f65b6d4c304123443b33b7b830f08fc9a6cacf8ca6ce26efa98c5356fa010057",
+          "content/posts/comprendre-et-maitriser-ses-emotions/amael-reevaluation-changement-recent.md": "56e6f914b40da155c2046dda002c9658ef597e66332e1a3a5462566451e0c99a",
+          "content/posts/comprendre-et-maitriser-ses-emotions/amael-responsabilites-prevention.md": "20d575647c4213cfba6cc69e63d0f14749aed213390e88e8f6d9269a73a249ab",
+          "content/posts/comprendre-et-maitriser-ses-emotions/amael-limites-des-proches.md": "761cd110452365d8a22ea63932426e65b98bf2e4adda5bed097f4a2bbc409573",
+          "content/posts/comprendre-et-maitriser-ses-emotions/amael-evolution-et-reussite.md": "3f4ecdebd93f9c9f267e4d082ca27dd2cebb0f3c49f3e1764b552632746fe7b1",
+          "content/posts/comprendre-et-maitriser-ses-emotions/amael-participation-et-suivi.md": "70d70d283d347dcd205226cc79b7d688e1fb51f617483b4366856d0c18ae1130",
+          "content/personnages/amael.md": "8014cb6897e54aa54846a49c3262be54490d3434012c6f67076de873978c96e7",
+          "data/article_mirrors/amael.json": "98300e3846f24db4edd7e45c67272d07e841cb46d5cccb5f0103eaaf057bad28"
+        },
+        "topics_sha256": "2c1578688e21d8d28a234ac6ee28f8d2de1af5b0083f1d032d4a9dd0d9708e9b"
       }
     },
     "remiel": {
       "character_id": "remiel",
       "code": "6D32",
-      "stage": "ready_to_publish",
+      "stage": "published",
       "created_at": "2026-11-07T14:47:42Z",
       "active_job": null,
       "owners": {
@@ -4897,12 +4957,42 @@
         "design_sha256": null,
         "dossier_sha256": null,
         "review_sha256": null
+      },
+      "publication": {
+        "verified_at": "2026-11-09T22:33:32Z",
+        "release": {
+          "date": "2026-11-09",
+          "status": "editorially_reviewed",
+          "article_format": 2,
+          "sha256": "ea33838298183caf55faf24ef86ae0bc54be475e619e804f8ad66859afac9517",
+          "dossier_sha256": "79e047de73e07aacf4a44aeb667c1c95301701870d1a7da0acd37d8ab97c50c4",
+          "design_sha256": "ff11cdc9ccb207672804cf72dffc2155a3218d0e289717553ff699965c1ed2d0",
+          "independent_review_sha256": "e75b96d090e950dbdca2a9ba2edbc61c69af4af599c863029ce754b7da004336",
+          "review": "Douze épisodes relus indépendamment par review_remiel ; sources OMS, FFCRIAVS et limites des études primaires vérifiées. Cadre exclusivement adulte, récit non graphique, urgence réellement prise en charge, trame et continuité validées ; aucune correction ouverte."
+        },
+        "files": {
+          "content/posts/comprendre-et-maitriser-ses-emotions/remiel-diagnostic-responsabilite.md": "366ca647da1a5ec55ae502476d76b6d99f5136643dc0849ac8621a1a2310de97",
+          "content/posts/comprendre-et-maitriser-ses-emotions/remiel-attention-disponible.md": "e9a4ce8c9942715857c56dd2183025a6d61cf8fd506338e9970ca5b0a7132214",
+          "content/posts/comprendre-et-maitriser-ses-emotions/remiel-crainte-jugement.md": "6a4347e7d319887e09b38602b37c5bbfc67b158607d7231d8e6d5eb47de0bba1",
+          "content/posts/comprendre-et-maitriser-ses-emotions/remiel-acces-suivi.md": "740193ad307d0a642dddc6dde5ea9c6bd8c29d61e85cf5bacf7a65c74c07d526",
+          "content/posts/comprendre-et-maitriser-ses-emotions/remiel-planning-soins.md": "96b05e498258c737abc996b40d7b1d7f1b40fe9923d6e7a9f6c5068c7d530da0",
+          "content/posts/comprendre-et-maitriser-ses-emotions/remiel-termes-diagnostiques.md": "dacfa5a781676be9d3241c716b4a825b608975eaa9c8022540738f49812ddcb5",
+          "content/posts/comprendre-et-maitriser-ses-emotions/remiel-difficultes-associees.md": "0b6e10b9494fbcc24541e1871117d528c4bec5647573f73646fcc4782428f0b4",
+          "content/posts/comprendre-et-maitriser-ses-emotions/remiel-relais-urgent.md": "8d504159f66b6987bf8e63097daed9367619f11f0fc7c956674c90e4285ba0ae",
+          "content/posts/comprendre-et-maitriser-ses-emotions/remiel-incertitude-soins.md": "a5a2272c2caacfcc43cba863344917c4378fdeb17f71272ea6031798084b6859",
+          "content/posts/comprendre-et-maitriser-ses-emotions/remiel-limites-soutien.md": "ac188472ec54dcab8b5a85af6009999004367c38870c44bc7bb07a9b2fa6da4b",
+          "content/posts/comprendre-et-maitriser-ses-emotions/remiel-periode-calme.md": "e95b5df0edaed85699b33a0512847cbdbdc0d4b7444092cfb856addcb358a162",
+          "content/posts/comprendre-et-maitriser-ses-emotions/remiel-continuite-apres-projet.md": "460fcc3a5bf7161b37f993038c38859fd5dbdcea3e41c049fb0eaa39dec12755",
+          "content/personnages/remiel.md": "bbdcf99d05f72b09d2c8c588b2c5b68d190abbdf11473f20a71cc8f994868820",
+          "data/article_mirrors/remiel.json": "f1dfe8963bd3a3e7e1295e8366e1058e2931158e91bf43fdb715a4a5dda8c7af"
+        },
+        "topics_sha256": "3c2b2dbdd49a8a318d6d13fe7dcb5c8afe9ea7353dd44c6b6d15f7c7453b9574"
       }
     },
     "marceau": {
       "character_id": "marceau",
       "code": "6D33",
-      "stage": "ready_to_publish",
+      "stage": "published",
       "created_at": "2026-11-07T14:47:42Z",
       "active_job": null,
       "owners": {
@@ -4971,6 +5061,36 @@
         "design_sha256": null,
         "dossier_sha256": null,
         "review_sha256": null
+      },
+      "publication": {
+        "verified_at": "2026-11-09T22:33:32Z",
+        "release": {
+          "date": "2026-11-09",
+          "status": "editorially_reviewed",
+          "article_format": 2,
+          "sha256": "df906e9128b531ca2dcb011f8eb1e7308d3d016ca9f834a41921acfef91a6249",
+          "dossier_sha256": "a60cd50435e0b06cfd23d30de7fa49cf21113dcd0faf9ab6b8d7d6a6053de4e4",
+          "design_sha256": "eac6b5450fa6f5147fc809417d4b3cc6fdcd4bb2d24bbdc7be29f5c656957a01",
+          "independent_review_sha256": "e0b458a6220b3b0e67a5fe4a08893a44d90ffa4df89e643aa5e298d1561fbc19",
+          "review": "Douze épisodes relus indépendamment par review_marceau ; sources OMS et limites WFSBP vérifiées. Consentement, soins effectifs, protection, limites des proches, trame et continuité contrôlés ; aucune scène graphique ni correction ouverte."
+        },
+        "files": {
+          "content/posts/comprendre-et-maitriser-ses-emotions/marceau-detresse-legende.md": "3bfebf1d2ec71c808bce0021267debecf538154d22eba4f2482cdbd87524e714",
+          "content/posts/comprendre-et-maitriser-ses-emotions/marceau-consentement-limites.md": "e1e7c780cdc3d5872897bc8ac7df058a4c11bda5dcc9dfc0d7b76234bf7ede7e",
+          "content/posts/comprendre-et-maitriser-ses-emotions/marceau-honte-parole-clinique.md": "1b526e3418573cf0696b78e36bedb77b8a783c903dc7702026bd4860770d20bb",
+          "content/posts/comprendre-et-maitriser-ses-emotions/marceau-justifications-responsabilite.md": "348c001c6f373bb217f53dbde4958a55594804979c441e0318305de363904e32",
+          "content/posts/comprendre-et-maitriser-ses-emotions/marceau-controle-vecu-persistant.md": "f9962ffe52254ae3efd2cad04345677175bd741da71da413db2076a08c737cb0",
+          "content/posts/comprendre-et-maitriser-ses-emotions/marceau-stress-calendrier.md": "9880cfa54ca01ff1bee4beb8f13a8de1ecb4ed8c8a94250e3117acc18f3e69ae",
+          "content/posts/comprendre-et-maitriser-ses-emotions/marceau-changement-reevaluation.md": "2b76adcea97519ae908c2c826c046e7b84c89cf2b616bfc61bf60ab83ec2eb1b",
+          "content/posts/comprendre-et-maitriser-ses-emotions/marceau-soutien-limites.md": "33e8ecab5663b75be954d0810dcf82ee31dd03989013439514fac660ef7726fc",
+          "content/posts/comprendre-et-maitriser-ses-emotions/marceau-choix-therapeutique.md": "6eb3a5d6bf8dc83fa3a53a0367d360b7a1564c848538dada0ffa70302118898d",
+          "content/posts/comprendre-et-maitriser-ses-emotions/marceau-informations-protection.md": "9a8730c945b491fc9a10531ce82cb57a3b095942f9a93498cedcce72602fe8ec",
+          "content/posts/comprendre-et-maitriser-ses-emotions/marceau-fluctuations-progres.md": "6dcd5f1149af7aa21ae6e5c426067cad9a4d6562b3150929935009f91d273986",
+          "content/posts/comprendre-et-maitriser-ses-emotions/marceau-participation-suivi-durable.md": "26ca534946878139532660416a01ff444ec47779148e75768a40dd1f1cc081bd",
+          "content/personnages/marceau.md": "24e7eac2d2a281dd40013eca110ad54145cf4977309cbfabb3636e6d57068eb6",
+          "data/article_mirrors/marceau.json": "413b53acac21a95edc13b08201094d782cb4abb72422edf5e8188386e35b132a"
+        },
+        "topics_sha256": "c0286dd61eb3159bf3585e04211544753aa79cf52505466d482644f77d02dd39"
       }
     },
     "sylvain": {
@@ -82333,5 +82453,5 @@
       }
     }
   },
-  "updated_at": "2026-11-09T22:27:10Z"
+  "updated_at": "2026-11-09T22:33:32Z"
 }
