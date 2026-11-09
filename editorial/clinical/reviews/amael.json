@@ -1,0 +1,124 @@
+{
+  "schema_version": 1,
+  "character_id": "amael",
+  "reviewer": "review_amael",
+  "reviewed_on": "2026-11-09",
+  "status": "passed",
+  "summary": "Relecture indépendante intégrale du canon, du dossier, du design et des douze épisodes, confrontée à la charte et au modèle d’alexithymie. Les douze aspects suivent le plan ; les scènes, exemples, trois démarches et miroirs restent cohérents avec le diagnostic connu. La définition et les distinctions diagnostiques ont été recoupées dans le CDDR original OMS, pages imprimées 575–577 ; les limites des données dans WFSBP 2020, section 6.1.2, ont été vérifiées. Aucun acte antérieur, statut pénal, scène graphique, moyen clandestin, exposition ou protocole thérapeutique ajouté. Les appuis organisationnels sont distingués du soin. La consultation 3–4, l’appel 6, la réévaluation 8, le cadre 9, le point avant la soirée 11 et le relais réel 12 forment une continuité effective. Les proches peuvent refuser et ne garantissent pas la sécurité. Les quatre tables sont réalisées sans verdict de guérison. Aucune correction en attente.",
+  "files": {
+    "editorial/clinical/designs/amael.json": "0199f947f6509effe07d9bd3ccf794eaee5413debb9cf52354fc9501437034af",
+    "editorial/clinical/dossiers/amael.json": "1304ffdb7a53e459723664923a80227e538a420b08ed6fd0bf94a766739889bf",
+    "editorial/clinical/amael.json": "e7695d3a5e0302c52fb178ce1c45026a21291b9768e71b2bbcd5f555f3ee18fa"
+  },
+  "findings": [],
+  "episode_checks": [
+    {
+      "number": 1,
+      "focus": "Un schéma qui persiste",
+      "opening_quote": "La fiche porte déjà la date. Amaël revient pourtant à la première ligne, puis à la troisième, sans savoir ce qu’il vient de vérifier. Au bureau de l’atelier de ",
+      "ending_quote": "Amaël termine la vérification de la fiche. Il ne reprend pas toute la pile pour se prouver quelque chose. Dans une note séparée, il écrit que sa concentration a",
+      "continuity_note": "La fiche achevée puis la proposition de quatre tables amorcent bien deux fils distincts ; l’horaire reste provisoire et Nora renvoie à la réunion suivante. Le classeur bleu reste consacré aux échecs.",
+      "clinical_note": "La définition sobre précise le schéma d’excitation évalué, et la fiche interrompue illustre son retentissement individuel sans faire du métier ou de la précision un indice diagnostique. Les trois appuis sont note clinique, tâche limitée et maintien du rendez-vous.",
+      "relatives_note": "Nora répond sur la répartition future des tâches, sans sonder le retard du message ni prescrire une participation comme moyen de guérison."
+    },
+    {
+      "number": 2,
+      "focus": "Le consentement reste indispensable",
+      "opening_quote": "Nora a posé la feuille des inscriptions au milieu de la table. Le projet des quatre tables plaît au club des Saules, mais il faut encore répartir le travail et ",
+      "ending_quote": "Nora conserve la liste des inscriptions. Amaël repart avec les seuls éléments nécessaires aux appariements et un horaire encore à vérifier. Sa détresse n’a pas ",
+      "continuity_note": "La réunion reprend le projet initial et distribue inscriptions à Nora, appariements à Amaël. L’horaire reste ouvert ; la détresse persistante conduit naturellement à la consultation déjà annoncée.",
+      "clinical_note": "La case personnelle retirée reste non détaillée. L’article distingue la règle ordinaire du club du traitement, et ne fait pas de l’inscription un consentement extensible à l’intimité. Aucun procédé clandestin n’est décrit.",
+      "relatives_note": "La parole proposée à Nora délimite les informations nécessaires ; les membres peuvent refuser sans justification privée ni réassurance exigée."
+    },
+    {
+      "number": 3,
+      "focus": "La détresse mérite un soin",
+      "opening_quote": "Le classeur bleu est sur ses genoux. Amaël l’a emporté avec son sac de travail, puis sorti sans réfléchir. La docteure Vidal lui demande ce qui l’amène aujourd’",
+      "ending_quote": "Amaël dit finalement : « Cela me fait souffrir, même quand je tiens ce qui est prévu. » La docteure Vidal entend cette demande et maintient le suivi. La consult",
+      "continuity_note": "Le classeur emporté par habitude est mis de côté, ce qui raccorde la réunion au soin sans mélanger les documents. La fin annonce explicitement que la même consultation se poursuit dans l’épisode 4.",
+      "clinical_note": "Le récit permet une demande sobre sur la souffrance sans inventer d’antécédent comportemental. Pensées, détresse et faits sont séparés ; le clinicien garde ses questions et l’évaluation. La culpabilité n’est utilisée ni comme preuve de danger ni comme assurance.",
+      "relatives_note": "Le proche peut souhaiter un entretien utile sans en exiger le contenu ; Nora garde sa seule question d’organisation et ne reçoit pas la charge de calmer la souffrance."
+    },
+    {
+      "number": 4,
+      "focus": "Contrôler un acte ne supprime pas une pensée",
+      "opening_quote": "La docteure Vidal reprend les derniers mots d’Amaël. « Vous attendiez que les pensées disparaissent parce que vous aviez respecté vos engagements. » Il acquiesc",
+      "ending_quote": "À la fin de l’entretien, Amaël note son prochain rendez-vous dans l’agenda personnel. Les engagements restent en place. Il remet le classeur bleu dans son sac s",
+      "continuity_note": "L’ouverture reprend les derniers mots de la consultation 3 et conserve le classeur sur la chaise ; la fin fixe le rendez-vous suivant et ramène au lot de fiches en attente.",
+      "clinical_note": "Le texte distingue contrôle et persistance, sans diagnostic additionnel automatique ni test de résistance. La métaphore du score désigne l’attente personnelle d’Amaël, puis est abandonnée comme mesure clinique. Les engagements demeurent malgré le malaise.",
+      "relatives_note": "Malik peut discuter d’une partie sans l’utiliser pour certifier l’état de son frère ; la question clinique est renvoyée à la médecin sans réassurance absolue."
+    },
+    {
+      "number": 5,
+      "focus": "Le travail subit le retentissement",
+      "opening_quote": "Sa responsable s’arrête devant le bureau et demande quand le lot sera prêt. Amaël a posé les fiches en deux piles. L’une est vérifiée, l’autre attend encore. De",
+      "ending_quote": "La responsable accepte une livraison répartie et précise la priorité. Elle attend des fiches vérifiées, même en deux remises. Amaël lui remet la première pile p",
+      "continuity_note": "Les deux piles rendent visible le retard annoncé en 4. Première remise effective, seconde reprise ; Nora prend explicitement le matériel, responsabilité qu’elle conserve dans la suite.",
+      "clinical_note": "Le retentissement professionnel reste possible et individuel, sans règle administrative ou obligation patronale inventée. Les appuis portent sur un état de travail vérifiable, une priorité négociée et une transmission au suivi ; aucune surveillance clinique n’est demandée au travail.",
+      "relatives_note": "La responsable demande ce qui est vérifié tout en maintenant la qualité ; Nora garde la possibilité de refuser une répartition selon les moyens du club."
+    },
+    {
+      "number": 6,
+      "focus": "La honte freine la parole clinique",
+      "opening_quote": "Sur la table de la cuisine, Amaël a laissé une note de deux mots : semaine compliquée. Il la lit une troisième fois avant l’heure convenue pour appeler le cabin",
+      "ending_quote": "Le cabinet organise un point de suivi adapté à ce qu’Amaël vient de signaler. Les modalités de confidentialité lui sont expliquées dans le cadre de son suivi ; ",
+      "continuity_note": "L’allègement obtenu en 5 est repris dès l’ouverture, mais ne masque pas la hausse des préoccupations. L’appel est réellement passé au créneau convenu et débouche sur le point qui aura lieu en 7.",
+      "clinical_note": "La honte est qualifiée d’obstacle individuel, pas de critère universel. La note vague est précisée sans détail intime ; les limites réelles de confidentialité sont demandées puis expliquées, sans promesse de secret absolu.",
+      "relatives_note": "Nora reçoit une réponse pratique et provisoire, jamais la note destinée au cabinet. Le proche peut soutenir la prise de contact sans réclamer un compte rendu."
+    },
+    {
+      "number": 7,
+      "focus": "Le soin doit rester individuel",
+      "opening_quote": "Le point annoncé par le cabinet a lieu. Amaël s’assied devant la docteure Vidal et pose son agenda personnel sur la table. Il a préparé une question qu’il juge ",
+      "ending_quote": "Amaël conserve le rendez-vous. À Nora, il écrit qu’il n’est pas disponible au premier horaire et demande si un créneau du soir serait possible. Elle accepte de ",
+      "continuity_note": "Le point annoncé en 6 a effectivement lieu. Le rendez-vous suivant est maintenu malgré le conflit d’horaire ; Nora examine un créneau du soir encore non confirmé, ce qui prépare le délai de 8.",
+      "clinical_note": "Aucune méthode garantie avant le tournoi, prescription ou efficacité chiffrée n’est proposée. La qualité variable des données et l’impossibilité de transposer un protocole sont signalées ; les questions et l’agenda soutiennent seulement l’accès au suivi.",
+      "relatives_note": "Nora peut vérifier le nouvel horaire ou constater son impossibilité, sans demander le motif médical et sans décider du soin."
+    },
+    {
+      "number": 8,
+      "focus": "Un changement demande une réévaluation",
+      "opening_quote": "Amaël a gardé le rendez-vous inscrit dans son agenda. Le créneau du soir au club reste une possibilité, mais il n’a pas encore donné sa réponse définitive. Deva",
+      "ending_quote": "La réévaluation est menée et le suivi est adapté à la situation, sans qu’un nouveau diagnostic soit annoncé dans cette histoire. Amaël fait préciser les suites ",
+      "continuity_note": "Le rendez-vous conservé en 7 est honoré ; les nuits et l’agitation sont examinées avant toute confirmation au club. La fin maintient la distinction avec le prochain point de prévention auprès de Mme Arnaud.",
+      "clinical_note": "Les faits nouveaux sont présentés comme observations à explorer. Chronologie, contexte et traitements éventuels restent des questions cliniques, sans consommation présumée, causalité fabriquée ou nouveau diagnostic ajouté. La réévaluation et ses suites sont effectives.",
+      "relatives_note": "Nora attend une confirmation organisationnelle plutôt que d’interpréter le sommeil ; le proche encourage le contact clinique sans poser son diagnostic."
+    },
+    {
+      "number": 9,
+      "focus": "La prévention engage des responsabilités distinctes",
+      "opening_quote": "Mme Arnaud a repris avec Amaël les engagements déjà convenus dans son cadre de prévention. Il lui explique que Nora peut organiser une rencontre le soir avec le",
+      "ending_quote": "Les interlocuteurs compétents confirment les dispositions individualisées applicables. Amaël accepte le créneau du soir et les seuls appariements. Nora reste re",
+      "continuity_note": "Le point avec Mme Arnaud annoncé en 8 a lieu et précède la confirmation du soir. Nora conserve organisation générale et matériel ; Amaël accepte seulement les appariements, avec relais révisable.",
+      "clinical_note": "Mme Arnaud reste l’interlocutrice du cadre convenu, sans profession ou statut judiciaire inventé. La confidentialité ne masque pas les obligations réelles. La troisième technique exige interruption et contact professionnel en cas de crainte de danger, et urgence compétente en danger immédiat.",
+      "relatives_note": "Nora confirme le relais pratique sans certifier la santé ; le proche n’est pas substitué aux interlocuteurs de prévention. Une inquiétude de sécurité prime sur le maintien de la rencontre."
+    },
+    {
+      "number": 10,
+      "focus": "Les proches ont leur propre limite",
+      "opening_quote": "Malik marche à côté d’Amaël, les mains dans les poches. Son frère lui a proposé de prendre l’air avant le dîner. Amaël raconte que le créneau du soir est confir",
+      "ending_quote": "Amaël dit : « J’ai compris. Je te demandais autre chose qu’un appel. » Malik accepte le dîner, sans contrôle quotidien ni compte rendu obligatoire. Ils choisiss",
+      "continuity_note": "Le créneau et la répartition de 9 sont repris. La promenade débouche sur un dîner sans compte rendu, annoncé ici et confirmé comme réalisé en 11 ; les crêpes reprennent un goût du personnage.",
+      "clinical_note": "La demande de contrôle quotidien apparaît comme recherche de réassurance individuelle, explicitement non spécifique au diagnostic. Amaël reconnaît le rôle refusé, sans faire du refus un obstacle au soin ou une faute de Malik.",
+      "relatives_note": "La formule de Malik autorise une limite entière : dîner possible, vérification refusée, conversation interrompable. Le frère n’est ni responsable des décisions ni garant de sécurité."
+    },
+    {
+      "number": 11,
+      "focus": "L’évolution ne suit pas le score",
+      "opening_quote": "Cette fois, le tableau tient sur une page. Amaël présente les appariements de la répétition à Nora et trouve immédiatement la ligne qu’elle lui demande. « J’ai ",
+      "ending_quote": "Le point professionnel est effectivement réalisé. Les dispositions restent applicables avec le rôle limité d’Amaël ; le changement ne reste pas une note non lue",
+      "continuity_note": "La répétition vérifie les quatre tables et le relais ; le dîner de 10 a eu lieu. Le changement ultérieur est transmis et le point professionnel est réalisé avant la soirée, puis Nora confirme l’organisation.",
+      "clinical_note": "Le tableau réussi ne fournit aucun pronostic ; la variation n’est ni fatalité ni acte présumé. Les dispositions sont maintenues et réévaluées, et le texte refuse de sauver l’événement par une épreuve de contrôle.",
+      "relatives_note": "Nora vérifie le périmètre pratique ; Malik peut garder la valeur du dîner sans accepter ensuite de contrôle. Les limites des proches persistent pendant la fluctuation."
+    },
+    {
+      "number": 12,
+      "focus": "Participer sans certificat de guérison",
+      "opening_quote": "Nora accueille le club des Saules pendant qu’Amaël pose les appariements sur les quatre tables. Le matériel est prêt, l’horaire du soir confirmé et le relais co",
+      "ending_quote": "À la fin du rôle prévu, Amaël transmet la feuille au relais pour les dernières vérifications. Quand l’échange s’achève, il remet à Nora le tableau des résultats",
+      "continuity_note": "La soirée respecte le créneau, les quatre tables et Nora organisatrice. Le relais reçoit effectivement la feuille ; les résultats sont remis et le classeur est rangé. L’étude personnelle d’une finale ouvre une vie après le projet, avec suivi maintenu.",
+      "clinical_note": "L’accomplissement social reste distinct de l’évolution clinique. Le rôle demeure limité et les contacts compétents sont conservés en cas de difficulté de sécurité, en continuité avec les procédures de 9. Aucun participant n’est utilisé pour tester le progrès.",
+      "relatives_note": "Nora remercie pour une tâche précise sans certificat de guérison ; Malik peut demander un plaisir de jeu sans bilan clinique. Aucun participant ne doit confiance ou gratitude pour les efforts de soin."
+    }
+  ]
+}

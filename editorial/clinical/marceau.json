@@ -737,6 +737,528 @@
         "choice": "Marceau confirme le point de suivi et les modalités de contact données par l’équipe. Il écrit à Lucie qu’il lui faut une semaine supplémentaire pour reprendre le contraste, puis reçoit son accord sur l’échéance. Il ne joint pas sa feuille de sommeil. La relecture reste possible, et la question médicale dispose de sa propre suite.",
         "next": "Il lui reste à reprendre sa place ordinaire dans le projet sans réclamer un rôle de soutien au club."
       }
+    },
+    {
+      "number": 8,
+      "slug": "marceau-soutien-limites",
+      "title": "Soutien amical : accepter une présence qui a ses limites",
+      "description": "Au café, Karim offre un moment partagé sans devenir un interlocuteur clinique permanent. Marceau accepte la durée annoncée.",
+      "context": "Un café avec Karim",
+      "topics": [
+        "Soutien amical",
+        "Retentissement relationnel",
+        "Limites"
+      ],
+      "clinical_intro": "Un parcours de soin peut occuper beaucoup de place dans les conversations et réduire les autres sujets partagés. Ce retentissement n’est pas un trait universel du trouble du sadisme sexuel coercitif. Une amitié peut garder une place ordinaire, avec des limites de temps et de contenu, tandis que les questions cliniques restent confiées aux professionnels.",
+      "opening": "Karim pose son manteau sur le dossier de la chaise et prévient qu’il repartira dans une demi-heure. Marceau acquiesce. Il commence aussitôt par raconter le rendez-vous avancé, puis le prochain point clinique, puis l’échéance accordée pour les cartes. Il ne donne pas de contenu intime, mais il voit bien que sa conversation suit désormais les colonnes de son agenda.\n\nKarim lui demande s’il a finalement choisi les flèches. Marceau répond oui, puis revient à une question qu’il voudrait poser à la psychiatre. Son ami l’arrête doucement : « Je suis content de prendre ce café. Je ne peux pas être ton interlocuteur pour toutes les questions de santé. » Marceau reste silencieux. Il entend d’abord la limite comme une fin possible du moment, alors que les deux tasses sont encore presque pleines.\n\nIl regarde l’heure et se rappelle que Karim avait annoncé la durée avant de s’asseoir. Il n’a pas changé la règle en cours de conversation. Marceau dit qu’il gardera sa question pour Simon, puis demande si son ami a vu les travaux près du sentier des Aulnes. Cela lui rappelle le dessin du pont sur la carte, qui doit encore être vérifié. Karim ne promet pas une disponibilité plus grande. Ils parlent quelques minutes du tracé imprimé et d’autre chose que du suivi. Marceau ressent encore la déception d’avoir été interrompu, mais le café n’est pas devenu une consultation de remplacement.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Préserver une relation qui ne remplace pas le soin",
+          "text": "Le retentissement relationnel dépend de la situation de chaque personne. Dans le parcours de Marceau, les préoccupations cliniques occupent une grande part des échanges et peuvent laisser peu de place à une réciprocité ordinaire. L’équipe peut examiner ce contexte et les besoins de communication ; cela ne transforme pas Karim en auxiliaire de soin. Sa limite est valable sans justification supplémentaire, et son départ ne constitue pas une mesure de l’état clinique de Marceau."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment la relation se rétrécit-elle autour du suivi ?",
+          "points": [
+            {
+              "heading": "Raconter surtout les rendez-vous",
+              "text": "Un sujet important peut finir par recouvrir le reste de la conversation.",
+              "examples": [
+                "Marceau énumère les dates de consultation.",
+                "La question sur les flèches le ramène aussitôt à une interrogation médicale."
+              ]
+            },
+            {
+              "heading": "Entendre une limite comme un rejet global",
+              "text": "Cette interprétation est un vécu de Marceau, pas la preuve de l’intention de son ami.",
+              "examples": [
+                "Il reste silencieux quand Karim pose sa limite.",
+                "Il remarque ensuite que la durée avait été annoncée dès l’arrivée."
+              ]
+            },
+            {
+              "heading": "Retrouver un sujet partagé",
+              "text": "Une relation peut contenir des intérêts ordinaires sans nier la difficulté de santé.",
+              "examples": [
+                "Marceau parle du dessin du pont.",
+                "Karim participe à l’échange sans prendre en charge les questions cliniques."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour respecter les limites d’un soutien amical",
+          "points": [
+            {
+              "heading": "Entendre le temps proposé",
+              "objective": "Accepter la disponibilité réelle de l’autre.",
+              "exercise": [
+                "Écouter la durée annoncée.",
+                "Organiser le moment sans en demander une prolongation comme preuve d’amitié.",
+                "Laisser l’autre repartir à l’heure dite."
+              ],
+              "benefit": "Le lien peut rester fondé sur une présence choisie."
+            },
+            {
+              "heading": "Réserver la question clinique",
+              "objective": "Garder le bon interlocuteur pour un besoin de soin.",
+              "exercise": [
+                "Repérer la question qui demande une compétence professionnelle.",
+                "La noter brièvement pour le rendez-vous.",
+                "L’adresser à l’équipe par les modalités prévues selon son urgence."
+              ],
+              "benefit": "L’ami n’est pas chargé de fournir une réponse qu’il ne peut pas évaluer."
+            },
+            {
+              "heading": "Faire place à un intérêt commun",
+              "objective": "Rouvrir une conversation réciproque.",
+              "exercise": [
+                "Proposer un sujet ordinaire réellement partagé.",
+                "Écouter ce que l’autre souhaite en dire.",
+                "Accepter aussi de changer de sujet ou de terminer le moment."
+              ],
+              "benefit": "Le lien peut conserver une diversité sans devenir un outil de traitement."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Karim reprend son manteau",
+      "ending": "À l’heure annoncée, Karim se lève et Marceau le laisse partir sans négocier quelques minutes de plus. Il note pour Simon sa question de santé et le malaise ressenti pendant le café. Chez lui, il retrouve le dessin du pont. Lors de leur prochain échange, l’équipe lui propose une discussion médicale sur les options de soin.",
+      "conclusion": "Un soutien limité n’est pas une promesse de disponibilité permanente. Marceau garde une relation ordinaire en respectant le choix de Karim, et réserve le travail clinique à l’équipe. Cette décision n’efface pas la déception, mais elle évite de la transformer en obligation pour autrui.",
+      "mirror": [
+        "Karim peut dire : « Je peux prendre ce café avec toi, puis je dois partir. Pour cette question, vois avec ton équipe. » Il n’a pas à prolonger sa présence pour prouver son affection ni à surveiller Marceau après leur rencontre. Il peut également refuser un autre rendez-vous. Le soin doit rester organisé sans dépendre du maintien de cette amitié."
+      ],
+      "clinical_focus": "Retentissement relationnel et soutien limité",
+      "diagnostic_stage": "known",
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "wfsbp-2020"
+      ],
+      "continuity": {
+        "choice": "À l’heure annoncée, Karim se lève et Marceau le laisse partir sans négocier quelques minutes de plus. Il note pour Simon sa question de santé et le malaise ressenti pendant le café. Chez lui, il retrouve le dessin du pont. Lors de leur prochain échange, l’équipe lui propose une discussion médicale sur les options de soin.",
+        "next": "L’équipe lui propose ensuite un échange médical sur les options de soin, sans décision préécrite."
+      }
+    },
+    {
+      "number": 9,
+      "slug": "marceau-choix-therapeutique",
+      "title": "Choix thérapeutique : poser des questions pour comprendre le soin",
+      "description": "Marceau apporte ses questions à la psychiatre. Il découvre que discuter des options ne signifie pas abandonner toute décision.",
+      "context": "Les questions à la psychiatre",
+      "topics": [
+        "Information médicale",
+        "Choix thérapeutique",
+        "Consentement au soin"
+      ],
+      "clinical_intro": "La prise en charge du trouble du sadisme sexuel coercitif se décide selon une évaluation individualisée. Une éventuelle option médicamenteuse demande une information sur ses objectifs, ses limites et le suivi nécessaire ; le code diagnostique ne suffit pas à la prescrire. Poser des questions permet de participer à la discussion sans confondre consentement au soin et droit au contact d’autrui.",
+      "opening": "La feuille comporte trois questions. Marceau les a écrites après avoir parlé à Simon du café avec Karim : ce que le soin pourrait changer, ce qu’il ne pourrait pas garantir, et ce qui serait à surveiller. Il les relit dans la salle d’attente. Il redoute que la discussion médicale annoncée par l’équipe se transforme en décision déjà prise, dans laquelle il ne lui resterait qu’à acquiescer.\n\nLa docteure Valette l’invite à commencer par sa première question. Marceau lui dit qu’il a peur de ne plus avoir son mot à dire. Elle reprend le but de l’échange, puis explique les options pertinentes pour sa situation, leurs limites et les incertitudes qui doivent être prises en compte. Elle distingue le travail psychothérapeutique et ce qui pourrait relever d’une décision médicale. Aucune solution n’est présentée comme automatique à partir du nom de son trouble.\n\nMarceau demande ensuite comment se poursuivrait l’évaluation si une option était retenue. La psychiatre lui explique la nécessité d’un suivi et vérifie ce qu’il a compris. Il reformule avec ses propres mots, puis lui demande de revenir sur un point encore flou. Il se sent moins extérieur à la conversation. Cela ne lui donne aucune réponse nouvelle de la personne qui a refusé le contact : cette limite n’est pas un enjeu à négocier en échange du soin. Le dessin du pont attend sur son bureau ; ici, il est venu comprendre ce qui concerne sa santé.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Une décision médicale demande plus qu’un intitulé diagnostique",
+          "text": "Les recommandations pour les troubles paraphiliques situent les choix de soin dans une évaluation de la personne, de son état, du contexte et des besoins de prévention. Les données disponibles ont des limites et ne permettent pas de promettre un résultat individuel. Une éventuelle décision médicamenteuse implique information, consentement et suivi médical. Dans cette scène, la psychiatre répond effectivement aux questions ; aucune prescription particulière n’est déduite du diagnostic ni proposée au lecteur."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment le besoin d’information apparaît-il en consultation ?",
+          "points": [
+            {
+              "heading": "Craindre une décision sans discussion",
+              "text": "La peur de perdre sa place peut empêcher de poser une question pourtant utile.",
+              "examples": [
+                "Marceau relit sa feuille avant d’entrer.",
+                "Il dit qu’il redoute de devoir simplement acquiescer."
+              ]
+            },
+            {
+              "heading": "Distinguer objectif et garantie",
+              "text": "Comprendre un soin demande aussi d’en connaître les limites.",
+              "examples": [
+                "Il demande ce qu’une option pourrait changer.",
+                "La psychiatre aborde les incertitudes au lieu de promettre une guérison."
+              ]
+            },
+            {
+              "heading": "Vérifier la suite",
+              "text": "Le choix éventuel s’inscrit dans une surveillance clinique qui doit être expliquée.",
+              "examples": [
+                "Marceau demande comment se poursuivrait l’évaluation.",
+                "La psychiatre vérifie sa compréhension du suivi nécessaire."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour participer à une discussion de soin",
+          "points": [
+            {
+              "heading": "Apporter ses questions prioritaires",
+              "objective": "Faire entendre ce qui compte dans la décision.",
+              "exercise": [
+                "Noter une question sur l’objectif attendu.",
+                "Ajouter une question sur les limites ou les effets à surveiller.",
+                "Présenter la feuille au médecin pendant l’entretien."
+              ],
+              "benefit": "La discussion peut répondre aux préoccupations réelles de la personne."
+            },
+            {
+              "heading": "Reformuler l’information reçue",
+              "objective": "Repérer une compréhension incomplète.",
+              "exercise": [
+                "Redire avec ses mots ce qui a été expliqué.",
+                "Signaler ce qui reste flou.",
+                "Demander au professionnel une précision sans modifier seul un traitement."
+              ],
+              "benefit": "Les décisions peuvent reposer sur une information mieux comprise."
+            },
+            {
+              "heading": "Clarifier la prochaine étape",
+              "objective": "Distinguer discussion, décision éventuelle et suivi.",
+              "exercise": [
+                "Demander ce qui a été décidé aujourd’hui.",
+                "Vérifier ce qui reste à examiner.",
+                "Conserver la date ou les modalités du prochain échange."
+              ],
+              "benefit": "La personne peut poursuivre le parcours sans transformer une question en prescription ni en arrêt de soin."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Des réponses et une discussion à poursuivre",
+      "ending": "Marceau repart avec les points clarifiés et une prochaine discussion prévue. Il n’a pas reçu de promesse sur l’avenir ni de nouvelle permission relationnelle. De retour chez lui, il reprend la correction du pont et prépare le fichier pour la relecture. Sa feuille de questions reste dans le dossier destiné aux consultations.",
+      "conclusion": "Participer à la discussion médicale permet de mieux comprendre les choix possibles sans prétendre les déterminer seul. Pour Marceau, cette étape clarifie le soin et ses limites ; elle ne change ni les droits d’autrui ni la nécessité d’un suivi spécialisé.",
+      "mirror": [
+        "Karim peut demander : « As-tu pu poser les questions que tu avais préparées ? » Il n’a pas à choisir une option, à vérifier une prescription ou à garantir ses effets. Lucie peut rester centrée sur le fichier. Aucun proche ne doit présenter l’acceptation d’un soin comme une monnaie permettant de retrouver une personne qui a refusé le contact."
+      ],
+      "clinical_focus": "Choix thérapeutique et information médicale",
+      "diagnostic_stage": "known",
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "wfsbp-2020"
+      ],
+      "continuity": {
+        "choice": "Marceau repart avec les points clarifiés et une prochaine discussion prévue. Il n’a pas reçu de promesse sur l’avenir ni de nouvelle permission relationnelle. De retour chez lui, il reprend la correction du pont et prépare le fichier pour la relecture. Sa feuille de questions reste dans le dossier destiné aux consultations.",
+        "next": "Le fichier prêt à relire soulève maintenant la question de ce que le club a besoin de savoir."
+      }
+    },
+    {
+      "number": 10,
+      "slug": "marceau-informations-protection",
+      "title": "Informations de santé : distinguer coordination et protection",
+      "description": "Lucie demande comment récupérer la version finale. Marceau clarifie avec l’équipe ce qu’il est utile de transmettre au club.",
+      "context": "La version finale à organiser",
+      "topics": [
+        "Informations partagées",
+        "Coordination pratique",
+        "Protection"
+      ],
+      "clinical_intro": "Le suivi spécialisé d’un trouble du sadisme sexuel coercitif implique de distinguer les informations utiles à une tâche et celles nécessaires au soin ou à la protection. Les professionnels expliquent les règles de transmission applicables à leur cadre. Une coordination choisie avec un club ne transforme pas ses membres en surveillants ni ne justifie automatiquement l’envoi d’un dossier médical.",
+      "opening": "Lucie prépare la relecture collective à distance. Dans son message, elle demande qui pourra lui transmettre la version finale si Marceau est indisponible au moment prévu. La question tient en une ligne. Marceau ouvre pourtant son dossier de consultation avant d’ouvrir celui des cartes. Il pense qu’en expliquant tout, il évitera peut-être les malentendus sur ses délais.\n\nIl s’arrête avant de joindre quoi que ce soit. Lucie n’a demandé ni diagnostic ni compte rendu. Au point convenu avec l’équipe, il rapporte la question pratique et son envie de répondre par des informations de santé. La docteure Valette reprend avec lui la différence entre organiser la livraison et transmettre des éléments cliniques. Elle explique les règles applicables au soin et les situations dans lesquelles une démarche de protection serait à examiner. Elle ne promet pas que rien ne pourrait jamais être partagé, mais elle ne transforme pas non plus ce simple message du club en alerte.\n\nMarceau demande si Lucie doit le surveiller lorsqu’il travaille au fichier. La réponse remet les rôles à leur place : le suivi appartient aux professionnels ; la coordinatrice organise les documents. Ils discutent de ce qu’il choisit de communiquer pour cette tâche. Il pourra déposer la version dans le dossier du projet déjà accessible à Lucie et lui indiquer où elle se trouve. Sa feuille de consultation n’est pas nécessaire à cette organisation. Le pont corrigé et les dernières remarques ont un emplacement ; ses informations de santé ont un autre cadre.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Partager selon un besoin réel et un cadre explicite",
+          "text": "Une transmission pratique choisie et une démarche professionnelle de protection ne répondent pas au même objectif. Dans les prises en charge spécialisées, les professionnels évaluent les besoins de coordination et de sécurité et expliquent leurs règles applicables. Il n’existe pas dans cette scène de danger nouveau justifiant d’inventer une divulgation. Marceau peut organiser l’accès au fichier sans envoyer son dossier, tandis que l’équipe garde sa responsabilité clinique. Le récit ne fournit pas une règle juridique universelle de secret ou de transmission."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment les deux types d’informations se confondent-ils ?",
+          "points": [
+            {
+              "heading": "Répondre trop largement à une demande limitée",
+              "text": "Une question d’organisation peut susciter l’envie d’expliquer toute sa santé.",
+              "examples": [
+                "Lucie demande comment récupérer le document.",
+                "Marceau ouvre d’abord son dossier de consultation."
+              ]
+            },
+            {
+              "heading": "Imaginer un rôle de surveillance",
+              "text": "La présence dans un projet ne donne pas une responsabilité clinique.",
+              "examples": [
+                "Marceau demande si Lucie doit le surveiller.",
+                "La psychiatre distingue son propre rôle de celui de la coordinatrice."
+              ]
+            },
+            {
+              "heading": "Revenir à l’information nécessaire",
+              "text": "Une réponse concrète peut suffire à faire avancer la tâche.",
+              "examples": [
+                "La version sera déposée dans le dossier du projet.",
+                "Lucie reçoit l’emplacement du fichier plutôt qu’un compte rendu médical."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour clarifier un partage d’informations",
+          "points": [
+            {
+              "heading": "Relire la demande concrète",
+              "objective": "Identifier le besoin auquel on veut répondre.",
+              "exercise": [
+                "Relever la question effectivement posée.",
+                "Nommer l’information pratique qui y répond.",
+                "Préparer une réponse limitée à cette organisation."
+              ],
+              "benefit": "Le destinataire peut agir sans recevoir des données inutiles à sa tâche."
+            },
+            {
+              "heading": "Interroger l’équipe sur son cadre",
+              "objective": "Comprendre les transmissions cliniques sans supposer leurs règles.",
+              "exercise": [
+                "Présenter la situation au professionnel.",
+                "Demander quelles informations pourraient être partagées, avec qui et dans quel cadre.",
+                "Faire préciser ce qui relève d’un choix pratique et ce qui relève d’une obligation professionnelle."
+              ],
+              "benefit": "La coordination peut être comprise sans promesse de confidentialité absolue ni divulgation improvisée."
+            },
+            {
+              "heading": "Vérifier l’accès au document",
+              "objective": "Permettre au projet de continuer sans instaurer de surveillance personnelle.",
+              "exercise": [
+                "Déposer la version dans l’espace déjà convenu.",
+                "Indiquer son nom et sa date à la coordinatrice.",
+                "Vérifier seulement qu’elle peut récupérer le fichier."
+              ],
+              "benefit": "Le relais porte sur le travail à transmettre, pas sur le contrôle de la personne."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Le fichier a son emplacement",
+      "ending": "Marceau dépose la version corrigée dans le dossier du projet et indique à Lucie comment la retrouver s’il est indisponible. Elle confirme l’accès pour la relecture. Aucun compte rendu médical n’est joint. L’équipe a expliqué son cadre de transmission et conserve le suivi ; le club dispose des informations nécessaires à la livraison.",
+      "conclusion": "Une information utile est définie par son objectif et son cadre. Marceau rend la transmission du travail possible sans charger Lucie d’une fonction clinique. Les questions de protection, lorsqu’elles se posent, restent évaluées par les professionnels compétents.",
+      "mirror": [
+        "Lucie peut répondre : « J’ai accès au fichier, cela suffit pour organiser la relecture. » Elle n’a pas à demander un dossier pour garantir la continuité du projet. Si une situation concrète de danger apparaissait, elle pourrait chercher une aide adaptée sans enquêter seule. Dans cette scène, rien ne lui demande de surveiller les rendez-vous ou l’état de santé de Marceau."
+      ],
+      "clinical_focus": "Informations partagées et protection",
+      "diagnostic_stage": "known",
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "wfsbp-2020",
+        "criavs-idf"
+      ],
+      "continuity": {
+        "choice": "Marceau dépose la version corrigée dans le dossier du projet et indique à Lucie comment la retrouver s’il est indisponible. Elle confirme l’accès pour la relecture. Aucun compte rendu médical n’est joint. L’équipe a expliqué son cadre de transmission et conserve le suivi ; le club dispose des informations nécessaires à la livraison.",
+        "next": "La relecture réussie pourrait lui faire prendre une amélioration ponctuelle pour la fin du besoin de suivi."
+      }
+    },
+    {
+      "number": 11,
+      "slug": "marceau-fluctuations-progres",
+      "title": "Fluctuations : reconnaître un progrès sans conclure à la guérison",
+      "description": "Une relecture réussie donne envie à Marceau d’annuler son suivi. Une journée difficile l’amène à raconter les deux périodes.",
+      "context": "Après la relecture",
+      "topics": [
+        "Fluctuations",
+        "Progrès ponctuel",
+        "Maintien du suivi"
+      ],
+      "clinical_intro": "Les manifestations du trouble du sadisme sexuel coercitif peuvent changer au cours du temps. Une période plus facile ne suffit pas à démontrer une guérison, et le retour d’une difficulté n’annule pas tous les acquis. L’équipe réévalue l’évolution avec plusieurs informations ; une réussite de projet ne mesure pas à elle seule le risque ou le besoin de soin.",
+      "opening": "La relecture collective à distance s’est bien passée. Le contraste est maintenant lisible et la légende ne disparaît plus sous la pochette. Il reste seulement une indication près du pont à déplacer. Marceau ferme la liste de remarques avec une satisfaction simple : les cartes ressemblent enfin à ce qu’il voulait rendre.\n\nEn ouvrant son agenda, il voit le point clinique prévu. Pendant quelques minutes, il se demande s’il est encore utile. Il a parlé plus facilement, respecté les limites et presque terminé le projet. Il imagine un message d’annulation, mais ne l’envoie pas. Le lendemain, une journée plus difficile lui rappelle que cette impression de disponibilité intérieure ne s’est pas installée durablement. La préoccupation revient au premier plan sans que le travail accompli ait disparu.\n\nAu rendez-vous maintenu, il commence par raconter les deux journées. La docteure Valette lui demande ce qui a varié, ce qui est resté stable et comment se poursuit son sommeil depuis leur échange précédent. Elle reprend l’évaluation plutôt que de transformer la bonne relecture en conclusion. Marceau dit qu’il a pensé annuler. Il ne cherche plus à présenter seulement la meilleure période ni à déclarer que tout est perdu depuis la mauvaise. Il garde une dernière correction à faire près du pont ; il garde aussi des éléments cliniques à examiner avec l’équipe. Les deux listes n’ont pas la même fin.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Observer une évolution sans lui donner une portée absolue",
+          "text": "La description clinique du trouble évoque une relative stabilité au cours de la vie adulte, avec des manifestations susceptibles d’évoluer. Cela ne permet ni de prédire le parcours individuel ni de considérer chaque variation comme un verdict. Chez Marceau, le succès de la relecture et une journée éprouvante apportent des informations différentes. L’équipe réexamine le vécu, le contexte et la prévention sans annoncer un taux de réussite, une guérison ou une récidive qui supposerait un passé non établi."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment une variation devient-elle une conclusion trop générale ?",
+          "points": [
+            {
+              "heading": "Confondre réussite et fin du suivi",
+              "text": "Le résultat d’une tâche peut donner l’impression que tout le reste est résolu.",
+              "examples": [
+                "Marceau voit les cartes presque terminées.",
+                "Il envisage d’annuler le point clinique en regardant son agenda."
+              ]
+            },
+            {
+              "heading": "Prendre une difficulté pour l’effacement des acquis",
+              "text": "Un vécu plus pénible ne change pas rétrospectivement les décisions tenues.",
+              "examples": [
+                "Sa préoccupation revient le lendemain.",
+                "La légende reste lisible et les limites restent respectées."
+              ]
+            },
+            {
+              "heading": "Décrire plusieurs périodes",
+              "text": "Une comparaison nuancée donne davantage de matière à l’évaluation.",
+              "examples": [
+                "Il raconte la bonne relecture et la journée difficile.",
+                "La psychiatre reprend aussi la question du sommeil déjà ouverte."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour parler des progrès et des fluctuations",
+          "points": [
+            {
+              "heading": "Nommer précisément le progrès",
+              "objective": "Reconnaître ce qui a réellement changé.",
+              "exercise": [
+                "Identifier le résultat concret.",
+                "Dire dans quel contexte il a été obtenu.",
+                "Éviter d’en tirer seul une conclusion générale sur la santé."
+              ],
+              "benefit": "Le progrès garde sa valeur sans devenir une garantie qu’il ne peut apporter."
+            },
+            {
+              "heading": "Rapporter aussi la période difficile",
+              "objective": "Permettre une lecture moins partielle de l’évolution.",
+              "exercise": [
+                "Repérer ce qui diffère de la période plus facile.",
+                "Le décrire avec les éléments restés stables.",
+                "Présenter les deux périodes à l’équipe."
+              ],
+              "benefit": "Le soignant peut réexaminer la situation sans dépendre d’un seul moment."
+            },
+            {
+              "heading": "Discuter avant de modifier le suivi",
+              "objective": "Ne pas annuler une étape sur une impression passagère.",
+              "exercise": [
+                "Conserver le rendez-vous prévu.",
+                "Dire qu’une modification du suivi a été envisagée.",
+                "Examiner avec les professionnels ce qui serait adapté à l’évolution réelle."
+              ],
+              "benefit": "Les décisions restent appuyées sur une évaluation plutôt que sur le résultat d’une tâche."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Déplacer l’indication, conserver la date",
+      "ending": "Marceau déplace l’indication près du pont et enregistre la dernière correction. Il confirme avec l’équipe la poursuite du suivi. La relecture a servi à améliorer les cartes ; le rendez-vous a servi à examiner son évolution. Aucune de ces étapes ne devient une récompense autorisant un contact refusé.",
+      "conclusion": "Une évolution se comprend dans la durée et avec son contexte. Marceau peut reconnaître une bonne journée sans en faire une guérison, puis décrire une difficulté sans déclarer tout son parcours inutile. Le projet touche à sa fin ; le suivi reste ouvert.",
+      "mirror": [
+        "Lucie peut dire : « Le déplacement près du pont règle la dernière remarque. » Elle n’a pas besoin d’en déduire que Marceau va bien sur tous les plans. Karim peut l’encourager à raconter aussi bien les périodes faciles que difficiles à l’équipe. Ni l’un ni l’autre ne doit proposer un rapprochement avec la personne absente comme récompense de ses progrès."
+      ],
+      "clinical_focus": "Fluctuations et interprétation des progrès",
+      "diagnostic_stage": "known",
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "wfsbp-2020"
+      ],
+      "continuity": {
+        "choice": "Marceau déplace l’indication près du pont et enregistre la dernière correction. Il confirme avec l’équipe la poursuite du suivi. La relecture a servi à améliorer les cartes ; le rendez-vous a servi à examiner son évolution. Aucune de ces étapes ne devient une récompense autorisant un contact refusé.",
+        "next": "La livraison finale peut clore le projet matériel tout en laissant le parcours de soin ouvert."
+      }
+    },
+    {
+      "number": 12,
+      "slug": "marceau-participation-suivi-durable",
+      "title": "Participation ordinaire : terminer un projet tout en poursuivant le soin",
+      "description": "Lucie confirme la réception des cartes lisibles. Marceau clôt le travail matériel, garde son suivi et choisit un dessin personnel.",
+      "context": "La livraison des cartes",
+      "topics": [
+        "Participation ordinaire",
+        "Responsabilité durable",
+        "Suivi spécialisé"
+      ],
+      "clinical_intro": "Une personne suivie pour un trouble du sadisme sexuel coercitif peut mener des projets ordinaires qui ne se réduisent pas à son diagnostic. Leur réussite ne prouve cependant ni une guérison ni une diminution du risque. Terminer un engagement matériel et poursuivre le soin sont deux décisions compatibles, sans contrepartie relationnelle exigible.",
+      "opening": "Le message de Lucie arrive en fin d’après-midi : elle a reçu les cartes et peut utiliser les documents pour le travail du club. La légende est lisible, le contraste tient sous la pochette et l’indication du pont a été déplacée. Marceau lit les trois remarques une deuxième fois. Il se souvient du rectangle qu’il déplaçait sans fin au début, quand la première ligne ne voulait pas avancer.\n\nIl ouvre le dossier des versions successives. Les noms de fichiers racontent les semaines : légende, contraste, flèches, provisoire, correction. Il classe les essais et garde la version livrée à un endroit facile à retrouver. Son travail portait sur la lisibilité des cartes ; la réception du fichier n’est pas une validation de sécurité du sentier. Il répond à Lucie qu’il a bien reçu sa confirmation, sans proposer que cette fin de tâche ouvre une rencontre.\n\nPendant un moment, le bureau lui paraît trop calme. Il n’a plus une couleur à comparer pour occuper la soirée. Il regarde alors la date du prochain rendez-vous clinique, qui reste inscrite. La personne ayant refusé le contact demeure absente de cette fin de projet ; Marceau ne demande ni nouvelles ni transmission de sa réussite. Il sort une feuille vierge et commence à réfléchir à un petit dessin personnel. Il aimerait représenter des façades, pour le plaisir de choisir leurs lignes. Ce nouvel intérêt ne remplace aucune décision de soin, mais il existe à côté.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Ne pas faire d’un accomplissement une preuve clinique",
+          "text": "La participation à une activité donne une place à des goûts, des compétences et des engagements qui dépassent le diagnostic. Elle peut être considérée dans le contexte global du suivi, mais son succès ne démontre pas une baisse du risque individuel. Les décisions de soin et de prévention restent fondées sur l’évaluation spécialisée. Pour Marceau, livrer les cartes clôt un engagement précis ; cela ne clôt ni le trouble ni la responsabilité de respecter les limites d’autrui."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment distinguer la fin du projet et la suite du parcours ?",
+          "points": [
+            {
+              "heading": "Recevoir une confirmation à sa juste mesure",
+              "text": "L’accusé de réception porte sur un travail défini.",
+              "examples": [
+                "Lucie confirme la lisibilité de la légende.",
+                "Elle peut utiliser les documents sans attester l’état de santé de Marceau."
+              ]
+            },
+            {
+              "heading": "Clore une tâche sans demander une proximité",
+              "text": "Un engagement rempli n’ouvre pas automatiquement une nouvelle relation.",
+              "examples": [
+                "Marceau remercie pour la confirmation.",
+                "Il ne demande pas de message à la personne qui a refusé le contact."
+              ]
+            },
+            {
+              "heading": "Garder plusieurs dimensions de vie",
+              "text": "Le soin et un intérêt personnel peuvent coexister sans que l’un serve de preuve pour l’autre.",
+              "examples": [
+                "Le prochain rendez-vous reste dans l’agenda.",
+                "Une feuille vierge accueille un projet de dessin choisi pour lui-même."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour terminer une tâche sans fermer le suivi",
+          "points": [
+            {
+              "heading": "Vérifier la livraison concrète",
+              "objective": "Clore l’engagement sur des éléments observables.",
+              "exercise": [
+                "Identifier la version effectivement remise.",
+                "Vérifier que le destinataire peut l’utiliser pour la tâche convenue.",
+                "Classer les essais sans ajouter une demande relationnelle."
+              ],
+              "benefit": "Le projet peut se terminer clairement, sans interprétation clinique de sa réussite."
+            },
+            {
+              "heading": "Maintenir les repères de soin",
+              "objective": "Préserver la continuité au-delà de l’échéance matérielle.",
+              "exercise": [
+                "Vérifier la prochaine étape convenue avec l’équipe.",
+                "Noter les questions encore ouvertes.",
+                "Les reprendre au suivi même si le projet est terminé."
+              ],
+              "benefit": "La fin d’une activité ne devient pas une interruption implicite de la prise en charge."
+            },
+            {
+              "heading": "Choisir une activité pour son intérêt propre",
+              "objective": "Faire place à une vie ordinaire sans lui attribuer un effet thérapeutique garanti.",
+              "exercise": [
+                "Nommer un petit projet personnel réaliste.",
+                "Prévoir un premier moment pour l’essayer.",
+                "Ajuster ce projet selon ses envies et ses possibilités sans modifier les limites de prévention."
+              ],
+              "benefit": "Une activité peut avoir sa propre valeur, indépendamment du diagnostic et du jugement d’autrui."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Une nouvelle feuille sur le bureau",
+      "ending": "Les cartes sont remises et acceptées pour le travail du club. Marceau conserve la confirmation, ferme le dossier des Aulnes et garde son rendez-vous clinique. Sur la feuille neuve, il trace le contour d’une façade. Il ne sait pas encore ce qu’il fera de ce dessin. Il sait que la livraison ne lui doit ni pardon, ni rencontre, ni fin du soin.",
+      "conclusion": "L’enjeu matériel de la série est résolu : les cartes sont utilisables dans le cadre prévu. Le parcours de Marceau reste celui d’une personne suivie, avec des responsabilités durables, des limites effectives et la possibilité de choisir aussi des projets ordinaires.",
+      "mirror": [
+        "Lucie peut remercier Marceau pour les documents et clore la collaboration sans promettre davantage. Karim peut s’intéresser au dessin s’il en a envie, sans en faire une preuve de progrès clinique. La personne ayant refusé le contact n’a rien à confirmer, à pardonner ou à recevoir. L’équipe reste le relais pour les questions de santé et de prévention au-delà de cette livraison."
+      ],
+      "clinical_focus": "Participation ordinaire et suivi durable",
+      "diagnostic_stage": "known",
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "wfsbp-2020",
+        "criavs-idf"
+      ],
+      "continuity": {
+        "choice": "Les cartes sont remises et acceptées pour le travail du club. Marceau conserve la confirmation, ferme le dossier des Aulnes et garde son rendez-vous clinique. Sur la feuille neuve, il trace le contour d’une façade. Il ne sait pas encore ce qu’il fera de ce dessin. Il sait que la livraison ne lui doit ni pardon, ni rencontre, ni fin du soin.",
+        "next": "La série se ferme sur la livraison, pas sur une guérison ni une réconciliation ; l’avenir reste celui d’une personne suivie avec des limites effectives."
+      }
     }
   ]
 }

@@ -2214,6 +2214,487 @@
     "clinical_code": "6A62",
     "clinical_diagnosis": "Trouble cyclothymique"
   },
+  "posts/comprendre-et-maitriser-ses-emotions/amael-consentement-et-vie-privee": {
+    "character": "Amaël",
+    "character_id": "amael",
+    "keywords": [
+      "Consentement",
+      "Vie privée",
+      "Répartition des rôles"
+    ],
+    "character_keywords": [
+      "Trouble voyeuriste",
+      "Respect du consentement",
+      "Détresse et soin",
+      "Engagements de prévention",
+      "Vie sociale"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "04d915099786eb74a5d1d5e051806549226a3c7b5fe498abbf4ca964f65c3f27",
+    "summary": "Nora a posé la feuille des inscriptions au milieu de la table. Le projet des quatre tables plaît au club des Saules, mais il faut encore répartir le travail et choisir un horaire. Amaël sort son classeur bleu. Il avait ajouté des cases à sa liste, puis d’autres, avec l’idée que tout prévoir rendrait la rencontre plus simple. Maintenant que Nora décrit les besoins, plusieurs lui paraissent inutiles.\n\n[…]\n\nNora conserve la liste des inscriptions. Amaël repart avec les seuls éléments nécessaires aux appariements et un horaire encore à vérifier. Sa détresse n’a pas disparu avec la case barrée. Il n’en demande pas réparation au groupe. Dans son agenda personnel, le rendez-vous avec la docteure Vidal est toujours là ; c’est à cet entretien qu’il apportera ce qui lui pèse.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Nora a posé la feuille des inscriptions au milieu de la table. Le projet des quatre tables plaît au club des Saules, mais il faut encore répartir le travail et choisir un horaire. Amaël sort son classeur bleu. Il avait ajouté des cases à sa liste, puis d’autres, avec l’idée que tout prévoir rendrait la rencontre plus simple. Maintenant que Nora décrit les besoins, plusieurs lui paraissent inutiles.",
+        "start": 2,
+        "end": 403
+      },
+      {
+        "quote": "Nora conserve la liste des inscriptions. Amaël repart avec les seuls éléments nécessaires aux appariements et un horaire encore à vérifier. Sa détresse n’a pas disparu avec la case barrée. Il n’en demande pas réparation au groupe. Dans son agenda personnel, le rendez-vous avec la docteure Vidal est toujours là ; c’est à cet entretien qu’il apportera ce qui lui pèse.",
+        "start": 3799,
+        "end": 4167
+      }
+    ],
+    "canonical_concept": "Le consentement reste indispensable",
+    "context": "à la réunion du club",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour respecter le périmètre de la rencontre"
+    ],
+    "clinical_code": "6D31",
+    "clinical_diagnosis": "Trouble voyeuriste"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/amael-detresse-et-consultation": {
+    "character": "Amaël",
+    "character_id": "amael",
+    "keywords": [
+      "Détresse",
+      "Demande de soin",
+      "Évaluation clinique"
+    ],
+    "character_keywords": [
+      "Trouble voyeuriste",
+      "Respect du consentement",
+      "Détresse et soin",
+      "Engagements de prévention",
+      "Vie sociale"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "95aa3db86f535d48b31065d5820fb5f8e77a095da78b1a34167cefb8427f2e02",
+    "summary": "Le classeur bleu est sur ses genoux. Amaël l’a emporté avec son sac de travail, puis sorti sans réfléchir. La docteure Vidal lui demande ce qui l’amène aujourd’hui. Il commence par les quatre tables, la liste simplifiée, l’horaire qu’il faudra encore confirmer. Il entend ses propres phrases : elles pourraient convenir à la réunion du club, pas à la question qui vient de lui être posée.\n\n[…]\n\nAmaël dit finalement : « Cela me fait souffrir, même quand je tiens ce qui est prévu. » La docteure Vidal entend cette demande et maintient le suivi. La consultation n’est pas terminée. Amaël ajoute qu’il croyait que se retenir devait faire disparaître toute pensée. Ils restent sur cette confusion. Le classeur bleu peut attendre ; aucune réponse sur le tournoi n’est nécessaire pour poursuivre le soin.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Le classeur bleu est sur ses genoux. Amaël l’a emporté avec son sac de travail, puis sorti sans réfléchir. La docteure Vidal lui demande ce qui l’amène aujourd’hui. Il commence par les quatre tables, la liste simplifiée, l’horaire qu’il faudra encore confirmer. Il entend ses propres phrases : elles pourraient convenir à la réunion du club, pas à la question qui vient de lui être posée.",
+        "start": 2,
+        "end": 390
+      },
+      {
+        "quote": "Amaël dit finalement : « Cela me fait souffrir, même quand je tiens ce qui est prévu. » La docteure Vidal entend cette demande et maintient le suivi. La consultation n’est pas terminée. Amaël ajoute qu’il croyait que se retenir devait faire disparaître toute pensée. Ils restent sur cette confusion. Le classeur bleu peut attendre ; aucune réponse sur le tournoi n’est nécessaire pour poursuivre le soin.",
+        "start": 3774,
+        "end": 4178
+      }
+    ],
+    "canonical_concept": "La détresse mérite un soin",
+    "context": "dans le cabinet de la docteure Vidal",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour préparer une demande de soin"
+    ],
+    "clinical_code": "6D31",
+    "clinical_diagnosis": "Trouble voyeuriste"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/amael-evolution-et-reussite": {
+    "character": "Amaël",
+    "character_id": "amael",
+    "keywords": [
+      "Évolution variable",
+      "Transmission du changement",
+      "Maintien du cadre"
+    ],
+    "character_keywords": [
+      "Trouble voyeuriste",
+      "Respect du consentement",
+      "Détresse et soin",
+      "Engagements de prévention",
+      "Vie sociale"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "29a350a83f865849f120d780186ab530c49c6b1bace9607b75c9177ef8142d22",
+    "summary": "Cette fois, le tableau tient sur une page. Amaël présente les appariements de la répétition à Nora et trouve immédiatement la ligne qu’elle lui demande. « J’ai renoncé à expliquer la page par une deuxième page. » Elle rit, puis vérifie le relais prévu. Les quatre tables sont réparties, le matériel relève d’elle, chacun sait ce qu’il aura à faire. La préparation se termine sans confusion.\n\n[…]\n\nLe point professionnel est effectivement réalisé. Les dispositions restent applicables avec le rôle limité d’Amaël ; le changement ne reste pas une note non lue. Nora confirme l’organisation et le relais des appariements. Amaël prépare seulement les quatre tables. Il n’ajoute pas une tâche pour prouver qu’il est capable de plus. La satisfaction de la répétition demeure, à côté de la difficulté signalée et du suivi qui continue.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Cette fois, le tableau tient sur une page. Amaël présente les appariements de la répétition à Nora et trouve immédiatement la ligne qu’elle lui demande. « J’ai renoncé à expliquer la page par une deuxième page. » Elle rit, puis vérifie le relais prévu. Les quatre tables sont réparties, le matériel relève d’elle, chacun sait ce qu’il aura à faire. La préparation se termine sans confusion.",
+        "start": 2,
+        "end": 392
+      },
+      {
+        "quote": "Le point professionnel est effectivement réalisé. Les dispositions restent applicables avec le rôle limité d’Amaël ; le changement ne reste pas une note non lue. Nora confirme l’organisation et le relais des appariements. Amaël prépare seulement les quatre tables. Il n’ajoute pas une tâche pour prouver qu’il est capable de plus. La satisfaction de la répétition demeure, à côté de la difficulté signalée et du suivi qui continue.",
+        "start": 3948,
+        "end": 4379
+      }
+    ],
+    "canonical_concept": "L’évolution ne suit pas le score",
+    "context": "entre la répétition et la rencontre",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour accueillir une variation dans le suivi"
+    ],
+    "clinical_code": "6D31",
+    "clinical_diagnosis": "Trouble voyeuriste"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/amael-honte-et-parole-clinique": {
+    "character": "Amaël",
+    "character_id": "amael",
+    "keywords": [
+      "Honte",
+      "Transmission clinique",
+      "Confidentialité"
+    ],
+    "character_keywords": [
+      "Trouble voyeuriste",
+      "Respect du consentement",
+      "Détresse et soin",
+      "Engagements de prévention",
+      "Vie sociale"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "065762d2465d481824b474d6061c38ff43e1f6e22e8bad5468abd08a2c623bf7",
+    "summary": "Sur la table de la cuisine, Amaël a laissé une note de deux mots : semaine compliquée. Il la lit une troisième fois avant l’heure convenue pour appeler le cabinet. La seconde remise à l’atelier a avancé et Nora a pris le matériel. Ces arrangements ont allégé son agenda, mais ses préoccupations prennent davantage de place. La note ne dit rien de cette différence.\n\n[…]\n\nLe cabinet organise un point de suivi adapté à ce qu’Amaël vient de signaler. Les modalités de confidentialité lui sont expliquées dans le cadre de son suivi ; il fait préciser ce qu’il n’a pas compris. Ensuite, il répond à Nora qu’il peut toujours préparer les appariements sous réserve du cadre à vérifier. Il ne lui transfère pas sa note. La honte demeure, mais elle n’a pas décidé seule du contenu de l’appel.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Sur la table de la cuisine, Amaël a laissé une note de deux mots : semaine compliquée. Il la lit une troisième fois avant l’heure convenue pour appeler le cabinet. La seconde remise à l’atelier a avancé et Nora a pris le matériel. Ces arrangements ont allégé son agenda, mais ses préoccupations prennent davantage de place. La note ne dit rien de cette différence.",
+        "start": 2,
+        "end": 366
+      },
+      {
+        "quote": "Le cabinet organise un point de suivi adapté à ce qu’Amaël vient de signaler. Les modalités de confidentialité lui sont expliquées dans le cadre de son suivi ; il fait préciser ce qu’il n’a pas compris. Ensuite, il répond à Nora qu’il peut toujours préparer les appariements sous réserve du cadre à vérifier. Il ne lui transfère pas sa note. La honte demeure, mais elle n’a pas décidé seule du contenu de l’appel.",
+        "start": 3836,
+        "end": 4249
+      }
+    ],
+    "canonical_concept": "La honte freine la parole clinique",
+    "context": "chez lui avant un appel au cabinet",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour transmettre une difficulté sans récit public"
+    ],
+    "clinical_code": "6D31",
+    "clinical_diagnosis": "Trouble voyeuriste"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/amael-limites-des-proches": {
+    "character": "Amaël",
+    "character_id": "amael",
+    "keywords": [
+      "Limites relationnelles",
+      "Réassurance",
+      "Soutien ordinaire"
+    ],
+    "character_keywords": [
+      "Trouble voyeuriste",
+      "Respect du consentement",
+      "Détresse et soin",
+      "Engagements de prévention",
+      "Vie sociale"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "1bbf6e9b597d48606d9bb688e540bb72756cb8973228acf16523733941eab83b",
+    "summary": "Malik marche à côté d’Amaël, les mains dans les poches. Son frère lui a proposé de prendre l’air avant le dîner. Amaël raconte que le créneau du soir est confirmé et qu’il préparera seulement les appariements. Nora garde le reste. Il décrit les quatre tables, puis le tableau qu’il a enfin rendu lisible. Malik sourit : « Tu as retiré les colonnes qui avaient des sous-colonnes ? »\n\n[…]\n\nAmaël dit : « J’ai compris. Je te demandais autre chose qu’un appel. » Malik accepte le dîner, sans contrôle quotidien ni compte rendu obligatoire. Ils choisissent ce qu’ils prépareront ; Amaël annonce des crêpes, Malik demande s’il peut espérer qu’elles ne soient pas trop cuites. La plaisanterie ne règle pas la déception. Elle redonne pourtant un sujet à leur promenade. Amaël garde les contacts professionnels pour le suivi et la prévention.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Malik marche à côté d’Amaël, les mains dans les poches. Son frère lui a proposé de prendre l’air avant le dîner. Amaël raconte que le créneau du soir est confirmé et qu’il préparera seulement les appariements. Nora garde le reste. Il décrit les quatre tables, puis le tableau qu’il a enfin rendu lisible. Malik sourit : « Tu as retiré les colonnes qui avaient des sous-colonnes ? »",
+        "start": 2,
+        "end": 383
+      },
+      {
+        "quote": "Amaël dit : « J’ai compris. Je te demandais autre chose qu’un appel. » Malik accepte le dîner, sans contrôle quotidien ni compte rendu obligatoire. Ils choisissent ce qu’ils prépareront ; Amaël annonce des crêpes, Malik demande s’il peut espérer qu’elles ne soient pas trop cuites. La plaisanterie ne règle pas la déception. Elle redonne pourtant un sujet à leur promenade. Amaël garde les contacts professionnels pour le suivi et la prévention.",
+        "start": 3743,
+        "end": 4188
+      }
+    ],
+    "canonical_concept": "Les proches ont leur propre limite",
+    "context": "pendant une promenade avec son frère",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour respecter la limite d’un proche"
+    ],
+    "clinical_code": "6D31",
+    "clinical_diagnosis": "Trouble voyeuriste"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/amael-participation-et-suivi": {
+    "character": "Amaël",
+    "character_id": "amael",
+    "keywords": [
+      "Participation sociale",
+      "Rôle limité",
+      "Suivi poursuivi"
+    ],
+    "character_keywords": [
+      "Trouble voyeuriste",
+      "Respect du consentement",
+      "Détresse et soin",
+      "Engagements de prévention",
+      "Vie sociale"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "371e601e9d02a962e9e13c81a71cd1557d68b55424b44d3db165803814622c13",
+    "summary": "Nora accueille le club des Saules pendant qu’Amaël pose les appariements sur les quatre tables. Le matériel est prêt, l’horaire du soir confirmé et le relais convenu. Il n’a pas pris l’organisation générale. Quand une question concerne l’ensemble de la rencontre, il la laisse à Nora au lieu de répondre pour tout le monde. Six semaines environ ont passé depuis la fiche qu’il relisait à l’atelier.\n\n[…]\n\nÀ la fin du rôle prévu, Amaël transmet la feuille au relais pour les dernières vérifications. Quand l’échange s’achève, il remet à Nora le tableau des résultats complété. Elle le remercie pour les appariements ; il n’y entend pas un certificat sur son état. Il range le classeur bleu. Chez lui, il choisit une finale discrète à étudier pour son propre plaisir. Le prochain rendez-vous figure toujours dans son agenda personnel, et les engagements de prévention restent en place.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Nora accueille le club des Saules pendant qu’Amaël pose les appariements sur les quatre tables. Le matériel est prêt, l’horaire du soir confirmé et le relais convenu. Il n’a pas pris l’organisation générale. Quand une question concerne l’ensemble de la rencontre, il la laisse à Nora au lieu de répondre pour tout le monde. Six semaines environ ont passé depuis la fiche qu’il relisait à l’atelier.",
+        "start": 2,
+        "end": 400
+      },
+      {
+        "quote": "À la fin du rôle prévu, Amaël transmet la feuille au relais pour les dernières vérifications. Quand l’échange s’achève, il remet à Nora le tableau des résultats complété. Elle le remercie pour les appariements ; il n’y entend pas un certificat sur son état. Il range le classeur bleu. Chez lui, il choisit une finale discrète à étudier pour son propre plaisir. Le prochain rendez-vous figure toujours dans son agenda personnel, et les engagements de prévention restent en place.",
+        "start": 4010,
+        "end": 4488
+      }
+    ],
+    "canonical_concept": "Participer sans certificat de guérison",
+    "context": "le soir de l’échange entre clubs",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour terminer un projet sans interrompre le suivi"
+    ],
+    "clinical_code": "6D31",
+    "clinical_diagnosis": "Trouble voyeuriste"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/amael-pensees-et-comportements": {
+    "character": "Amaël",
+    "character_id": "amael",
+    "keywords": [
+      "Contrôle comportemental",
+      "Préoccupations",
+      "Engagements maintenus"
+    ],
+    "character_keywords": [
+      "Trouble voyeuriste",
+      "Respect du consentement",
+      "Détresse et soin",
+      "Engagements de prévention",
+      "Vie sociale"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "735cc1f050d821bae7314a7b05d9e06d6ac9a9444b45023d822c2da81774a81d",
+    "summary": "La docteure Vidal reprend les derniers mots d’Amaël. « Vous attendiez que les pensées disparaissent parce que vous aviez respecté vos engagements. » Il acquiesce. La consultation continue, le classeur bleu toujours fermé sur la chaise voisine. Il voudrait pouvoir ranger cette période dans une catégorie simple : progrès ou échec. Aux échecs, même une partie mal jouée finit par avoir un résultat. Ici, il n’a aucun chiffre à inscrire.\n\n[…]\n\nÀ la fin de l’entretien, Amaël note son prochain rendez-vous dans l’agenda personnel. Les engagements restent en place. Il remet le classeur bleu dans son sac sans l’ouvrir devant la médecin pour prouver qu’il sait organiser quelque chose. La distinction n’a pas supprimé ses préoccupations, mais il cesse de leur demander de donner seules la note de sa semaine. À l’atelier, un lot de fiches l’attend encore.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "La docteure Vidal reprend les derniers mots d’Amaël. « Vous attendiez que les pensées disparaissent parce que vous aviez respecté vos engagements. » Il acquiesce. La consultation continue, le classeur bleu toujours fermé sur la chaise voisine. Il voudrait pouvoir ranger cette période dans une catégorie simple : progrès ou échec. Aux échecs, même une partie mal jouée finit par avoir un résultat. Ici, il n’a aucun chiffre à inscrire.",
+        "start": 2,
+        "end": 437
+      },
+      {
+        "quote": "À la fin de l’entretien, Amaël note son prochain rendez-vous dans l’agenda personnel. Les engagements restent en place. Il remet le classeur bleu dans son sac sans l’ouvrir devant la médecin pour prouver qu’il sait organiser quelque chose. La distinction n’a pas supprimé ses préoccupations, mais il cesse de leur demander de donner seules la note de sa semaine. À l’atelier, un lot de fiches l’attend encore.",
+        "start": 3871,
+        "end": 4280
+      }
+    ],
+    "canonical_concept": "Contrôler un acte ne supprime pas une pensée",
+    "context": "pendant la consultation spécialisée",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour rendre le point clinique plus précis"
+    ],
+    "clinical_code": "6D31",
+    "clinical_diagnosis": "Trouble voyeuriste"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/amael-reevaluation-changement-recent": {
+    "character": "Amaël",
+    "character_id": "amael",
+    "keywords": [
+      "Changement récent",
+      "Réévaluation",
+      "Chronologie"
+    ],
+    "character_keywords": [
+      "Trouble voyeuriste",
+      "Respect du consentement",
+      "Détresse et soin",
+      "Engagements de prévention",
+      "Vie sociale"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "73ce5047b8bbe2aa4bddfe5a9f65889185a6c00fd33d83f2ddbe18786b6cc079",
+    "summary": "Amaël a gardé le rendez-vous inscrit dans son agenda. Le créneau du soir au club reste une possibilité, mais il n’a pas encore donné sa réponse définitive. Devant la docteure Vidal, il parle d’abord des préoccupations, puis ajoute qu’il a passé plusieurs nuits inhabituelles et qu’une agitation récente le gêne. Il formule aussitôt son explication : « Ce doit être encore le même trouble. »\n\n[…]\n\nLa réévaluation est menée et le suivi est adapté à la situation, sans qu’un nouveau diagnostic soit annoncé dans cette histoire. Amaël fait préciser les suites et les motifs de reprise de contact. Il indique à Nora qu’il confirmera le créneau après le point prévu avec Mme Arnaud. L’échange clinique et la vérification des engagements de prévention gardent chacun leur place. Il repart sans prétendre que le premier dispense du second.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Amaël a gardé le rendez-vous inscrit dans son agenda. Le créneau du soir au club reste une possibilité, mais il n’a pas encore donné sa réponse définitive. Devant la docteure Vidal, il parle d’abord des préoccupations, puis ajoute qu’il a passé plusieurs nuits inhabituelles et qu’une agitation récente le gêne. Il formule aussitôt son explication : « Ce doit être encore le même trouble. »",
+        "start": 2,
+        "end": 392
+      },
+      {
+        "quote": "La réévaluation est menée et le suivi est adapté à la situation, sans qu’un nouveau diagnostic soit annoncé dans cette histoire. Amaël fait préciser les suites et les motifs de reprise de contact. Il indique à Nora qu’il confirmera le créneau après le point prévu avec Mme Arnaud. L’échange clinique et la vérification des engagements de prévention gardent chacun leur place. Il repart sans prétendre que le premier dispense du second.",
+        "start": 3967,
+        "end": 4402
+      }
+    ],
+    "canonical_concept": "Un changement demande une réévaluation",
+    "context": "lors d’un nouveau point clinique",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour préparer une réévaluation"
+    ],
+    "clinical_code": "6D31",
+    "clinical_diagnosis": "Trouble voyeuriste"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/amael-responsabilites-prevention": {
+    "character": "Amaël",
+    "character_id": "amael",
+    "keywords": [
+      "Prévention",
+      "Responsabilités",
+      "Relais prévu"
+    ],
+    "character_keywords": [
+      "Trouble voyeuriste",
+      "Respect du consentement",
+      "Détresse et soin",
+      "Engagements de prévention",
+      "Vie sociale"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "f1d0a315cd4617d6644bc32944a6ad6fad397f04126ba0d65d53aed109fdc6cd",
+    "summary": "Mme Arnaud a repris avec Amaël les engagements déjà convenus dans son cadre de prévention. Il lui explique que Nora peut organiser une rencontre le soir avec le club des Saules. La réévaluation clinique a eu lieu et les suites ont été précisées. Il voudrait maintenant savoir si le oui de Nora suffit pour répondre définitivement. La question semble simple quand il la prononce.\n\n[…]\n\nLes interlocuteurs compétents confirment les dispositions individualisées applicables. Amaël accepte le créneau du soir et les seuls appariements. Nora reste responsable de l’organisation générale et du matériel. Il lui confirme cette répartition, sans lui remettre un dossier clinique ni demander un certificat de confiance. Si la situation change, les contacts et le relais prévus restent nécessaires. La date peut être inscrite ; elle ne vaut pas promesse sur l’avenir.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Mme Arnaud a repris avec Amaël les engagements déjà convenus dans son cadre de prévention. Il lui explique que Nora peut organiser une rencontre le soir avec le club des Saules. La réévaluation clinique a eu lieu et les suites ont été précisées. Il voudrait maintenant savoir si le oui de Nora suffit pour répondre définitivement. La question semble simple quand il la prononce.",
+        "start": 2,
+        "end": 380
+      },
+      {
+        "quote": "Les interlocuteurs compétents confirment les dispositions individualisées applicables. Amaël accepte le créneau du soir et les seuls appariements. Nora reste responsable de l’organisation générale et du matériel. Il lui confirme cette répartition, sans lui remettre un dossier clinique ni demander un certificat de confiance. Si la situation change, les contacts et le relais prévus restent nécessaires. La date peut être inscrite ; elle ne vaut pas promesse sur l’avenir.",
+        "start": 4176,
+        "end": 4648
+      }
+    ],
+    "canonical_concept": "La prévention engage des responsabilités distinctes",
+    "context": "au point avec Mme Arnaud",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "Un accord pratique pris pour une validation complète",
+      "3 techniques pour rendre les responsabilités explicites"
+    ],
+    "clinical_code": "6D31",
+    "clinical_diagnosis": "Trouble voyeuriste"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/amael-retentissement-au-travail": {
+    "character": "Amaël",
+    "character_id": "amael",
+    "keywords": [
+      "Retentissement fonctionnel",
+      "Priorités",
+      "Communication professionnelle"
+    ],
+    "character_keywords": [
+      "Trouble voyeuriste",
+      "Respect du consentement",
+      "Détresse et soin",
+      "Engagements de prévention",
+      "Vie sociale"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "d90c9d0bc71368679923cc1ea255853db922465455bf91e20041f9430a7c4ece",
+    "summary": "Sa responsable s’arrête devant le bureau et demande quand le lot sera prêt. Amaël a posé les fiches en deux piles. L’une est vérifiée, l’autre attend encore. Depuis plusieurs jours, il perd du temps à retrouver le fil après des interruptions liées à ses préoccupations. Il sait exactement quelle pile il peut remettre aujourd’hui. Il a pourtant annoncé le lot entier pour ce matin.\n\n[…]\n\nLa responsable accepte une livraison répartie et précise la priorité. Elle attend des fiches vérifiées, même en deux remises. Amaël lui remet la première pile puis reprend la seconde. À la pause, il écrit à Nora qu’il ne pourra pas prendre le matériel en plus des appariements. Elle accepte cette répartition et prend le matériel. Le retard a désormais une réponse concrète ; ses préoccupations restent à discuter au suivi.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Sa responsable s’arrête devant le bureau et demande quand le lot sera prêt. Amaël a posé les fiches en deux piles. L’une est vérifiée, l’autre attend encore. Depuis plusieurs jours, il perd du temps à retrouver le fil après des interruptions liées à ses préoccupations. Il sait exactement quelle pile il peut remettre aujourd’hui. Il a pourtant annoncé le lot entier pour ce matin.",
+        "start": 2,
+        "end": 383
+      },
+      {
+        "quote": "La responsable accepte une livraison répartie et précise la priorité. Elle attend des fiches vérifiées, même en deux remises. Amaël lui remet la première pile puis reprend la seconde. À la pause, il écrit à Nora qu’il ne pourra pas prendre le matériel en plus des appariements. Elle accepte cette répartition et prend le matériel. Le retard a désormais une réponse concrète ; ses préoccupations restent à discuter au suivi.",
+        "start": 3879,
+        "end": 4302
+      }
+    ],
+    "canonical_concept": "Le travail subit le retentissement",
+    "context": "à l’atelier de conservation",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour ajuster un engagement de travail"
+    ],
+    "clinical_code": "6D31",
+    "clinical_diagnosis": "Trouble voyeuriste"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/amael-schema-persistant-au-travail": {
+    "character": "Amaël",
+    "character_id": "amael",
+    "keywords": [
+      "Persistance du schéma",
+      "Attention interrompue",
+      "Suivi spécialisé"
+    ],
+    "character_keywords": [
+      "Trouble voyeuriste",
+      "Respect du consentement",
+      "Détresse et soin",
+      "Engagements de prévention",
+      "Vie sociale"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "7a5d67810e8f6d629d6f1f65106ac79fd26ad8de15d5b18418a88922a3127fbb",
+    "summary": "La fiche porte déjà la date. Amaël revient pourtant à la première ligne, puis à la troisième, sans savoir ce qu’il vient de vérifier. Au bureau de l’atelier de conservation, les autres fiches forment une pile régulière. Celle qu’il tient ne l’est plus : son pouce en a replié le coin. Il le remet à plat. Trois lectures. Toujours la même interruption.\n\n[…]\n\nAmaël termine la vérification de la fiche. Il ne reprend pas toute la pile pour se prouver quelque chose. Dans une note séparée, il écrit que sa concentration a été interrompue plusieurs fois et qu’il en parlera à la docteure Vidal. Puis il ouvre son classeur bleu. À Nora, il propose quatre tables avec les Saules et précise que l’horaire reste provisoire. Elle lui répond que la prochaine réunion permettra de répartir les tâches. Sa matinée n’est pas devenue facile. Elle contient maintenant une fiche achevée et une proposition limitée.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "La fiche porte déjà la date. Amaël revient pourtant à la première ligne, puis à la troisième, sans savoir ce qu’il vient de vérifier. Au bureau de l’atelier de conservation, les autres fiches forment une pile régulière. Celle qu’il tient ne l’est plus : son pouce en a replié le coin. Il le remet à plat. Trois lectures. Toujours la même interruption.",
+        "start": 2,
+        "end": 353
+      },
+      {
+        "quote": "Amaël termine la vérification de la fiche. Il ne reprend pas toute la pile pour se prouver quelque chose. Dans une note séparée, il écrit que sa concentration a été interrompue plusieurs fois et qu’il en parlera à la docteure Vidal. Puis il ouvre son classeur bleu. À Nora, il propose quatre tables avec les Saules et précise que l’horaire reste provisoire. Elle lui répond que la prochaine réunion permettra de répartir les tâches. Sa matinée n’est pas devenue facile. Elle contient maintenant une fiche achevée et une proposition limitée.",
+        "start": 4022,
+        "end": 4562
+      }
+    ],
+    "canonical_concept": "Un schéma qui persiste",
+    "context": "au bureau de l’atelier de conservation",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour préparer le suivi et reprendre une tâche"
+    ],
+    "clinical_code": "6D31",
+    "clinical_diagnosis": "Trouble voyeuriste"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/amael-soin-individualise": {
+    "character": "Amaël",
+    "character_id": "amael",
+    "keywords": [
+      "Soin spécialisé",
+      "Objectifs individuels",
+      "Continuité"
+    ],
+    "character_keywords": [
+      "Trouble voyeuriste",
+      "Respect du consentement",
+      "Détresse et soin",
+      "Engagements de prévention",
+      "Vie sociale"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "f8df770faedc038513af81c2ab7a8b3981fb86850a8e297b5239c161a3d468b2",
+    "summary": "Le point annoncé par le cabinet a lieu. Amaël s’assied devant la docteure Vidal et pose son agenda personnel sur la table. Il a préparé une question qu’il juge presque raisonnable : existe-t-il une méthode qui réglerait le problème avant la rencontre des clubs ? Il connaît la date envisagée, le nombre de tables, la durée approximative. Il aimerait pouvoir ajouter la fin des préoccupations à cette liste de choses prévues.\n\n[…]\n\nAmaël conserve le rendez-vous. À Nora, il écrit qu’il n’est pas disponible au premier horaire et demande si un créneau du soir serait possible. Elle accepte de l’examiner avec les Saules, sans exiger le motif médical. Rien n’est encore confirmé. Amaël sait comment signaler une difficulté entre les points de suivi ; il n’a ni calendrier de guérison ni méthode à essayer seul pour tenir une date.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Le point annoncé par le cabinet a lieu. Amaël s’assied devant la docteure Vidal et pose son agenda personnel sur la table. Il a préparé une question qu’il juge presque raisonnable : existe-t-il une méthode qui réglerait le problème avant la rencontre des clubs ? Il connaît la date envisagée, le nombre de tables, la durée approximative. Il aimerait pouvoir ajouter la fin des préoccupations à cette liste de choses prévues.",
+        "start": 2,
+        "end": 426
+      },
+      {
+        "quote": "Amaël conserve le rendez-vous. À Nora, il écrit qu’il n’est pas disponible au premier horaire et demande si un créneau du soir serait possible. Elle accepte de l’examiner avec les Saules, sans exiger le motif médical. Rien n’est encore confirmé. Amaël sait comment signaler une difficulté entre les points de suivi ; il n’a ni calendrier de guérison ni méthode à essayer seul pour tenir une date.",
+        "start": 3872,
+        "end": 4268
+      }
+    ],
+    "canonical_concept": "Le soin doit rester individuel",
+    "context": "au rendez-vous de suivi",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour préparer un suivi individuel"
+    ],
+    "clinical_code": "6D31",
+    "clinical_diagnosis": "Trouble voyeuriste"
+  },
   "posts/comprendre-et-maitriser-ses-emotions/ambivalence-emotionnelle-reconversion-professionnelle-burn-out": {
     "character": "Youssef",
     "character_id": "youssef",
@@ -27871,6 +28352,488 @@
     "clinical_code": "6C91",
     "clinical_diagnosis": "Trouble dissocial du comportement"
   },
+  "posts/comprendre-et-maitriser-ses-emotions/marceau-changement-reevaluation": {
+    "character": "Marceau",
+    "character_id": "marceau",
+    "keywords": [
+      "Réévaluation",
+      "Sommeil modifié",
+      "Diagnostic connu"
+    ],
+    "character_keywords": [
+      "Trouble du sadisme sexuel coercitif",
+      "Consentement et limites",
+      "Détresse et parole clinique",
+      "Responsabilité et prévention",
+      "Évolution et suivi spécialisé"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "05e6f9fd5eca6438fa14780a75269fed4c87ec6b8298a075d120ef174cabe5bd",
+    "summary": "Marceau arrive au rendez-vous avancé avec une petite feuille pliée. Il y a inscrit les nuits qui lui ont paru mauvaises et le moment où il a remarqué le changement. Il a failli ajouter en bas : « à cause du trouble ». Il a laissé la ligne vide. Depuis l’appel, cette explication lui paraît évidente certains matins et beaucoup moins sûre le soir.\n\n[…]\n\nMarceau confirme le point de suivi et les modalités de contact données par l’équipe. Il écrit à Lucie qu’il lui faut une semaine supplémentaire pour reprendre le contraste, puis reçoit son accord sur l’échéance. Il ne joint pas sa feuille de sommeil. La relecture reste possible, et la question médicale dispose de sa propre suite.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Marceau arrive au rendez-vous avancé avec une petite feuille pliée. Il y a inscrit les nuits qui lui ont paru mauvaises et le moment où il a remarqué le changement. Il a failli ajouter en bas : « à cause du trouble ». Il a laissé la ligne vide. Depuis l’appel, cette explication lui paraît évidente certains matins et beaucoup moins sûre le soir.",
+        "start": 2,
+        "end": 348
+      },
+      {
+        "quote": "Marceau confirme le point de suivi et les modalités de contact données par l’équipe. Il écrit à Lucie qu’il lui faut une semaine supplémentaire pour reprendre le contraste, puis reçoit son accord sur l’échéance. Il ne joint pas sa feuille de sommeil. La relecture reste possible, et la question médicale dispose de sa propre suite.",
+        "start": 3962,
+        "end": 4293
+      }
+    ],
+    "canonical_concept": "Changement clinique et réévaluation",
+    "context": "L’entretien avancé",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour préparer une réévaluation utile"
+    ],
+    "clinical_code": "6D33",
+    "clinical_diagnosis": "Trouble du sadisme sexuel coercitif"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/marceau-choix-therapeutique": {
+    "character": "Marceau",
+    "character_id": "marceau",
+    "keywords": [
+      "Information médicale",
+      "Choix thérapeutique",
+      "Consentement au soin"
+    ],
+    "character_keywords": [
+      "Trouble du sadisme sexuel coercitif",
+      "Consentement et limites",
+      "Détresse et parole clinique",
+      "Responsabilité et prévention",
+      "Évolution et suivi spécialisé"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "9faa5ed9646f1eca900be6aeed00616282b8e8d398c0472d4636bad5709a1abb",
+    "summary": "La feuille comporte trois questions. Marceau les a écrites après avoir parlé à Simon du café avec Karim : ce que le soin pourrait changer, ce qu’il ne pourrait pas garantir, et ce qui serait à surveiller. Il les relit dans la salle d’attente. Il redoute que la discussion médicale annoncée par l’équipe se transforme en décision déjà prise, dans laquelle il ne lui resterait qu’à acquiescer.\n\n[…]\n\nMarceau repart avec les points clarifiés et une prochaine discussion prévue. Il n’a pas reçu de promesse sur l’avenir ni de nouvelle permission relationnelle. De retour chez lui, il reprend la correction du pont et prépare le fichier pour la relecture. Sa feuille de questions reste dans le dossier destiné aux consultations.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "La feuille comporte trois questions. Marceau les a écrites après avoir parlé à Simon du café avec Karim : ce que le soin pourrait changer, ce qu’il ne pourrait pas garantir, et ce qui serait à surveiller. Il les relit dans la salle d’attente. Il redoute que la discussion médicale annoncée par l’équipe se transforme en décision déjà prise, dans laquelle il ne lui resterait qu’à acquiescer.",
+        "start": 2,
+        "end": 393
+      },
+      {
+        "quote": "Marceau repart avec les points clarifiés et une prochaine discussion prévue. Il n’a pas reçu de promesse sur l’avenir ni de nouvelle permission relationnelle. De retour chez lui, il reprend la correction du pont et prépare le fichier pour la relecture. Sa feuille de questions reste dans le dossier destiné aux consultations.",
+        "start": 3948,
+        "end": 4273
+      }
+    ],
+    "canonical_concept": "Choix thérapeutique et information médicale",
+    "context": "Les questions à la psychiatre",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour participer à une discussion de soin"
+    ],
+    "clinical_code": "6D33",
+    "clinical_diagnosis": "Trouble du sadisme sexuel coercitif"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/marceau-consentement-limites": {
+    "character": "Marceau",
+    "character_id": "marceau",
+    "keywords": [
+      "Consentement",
+      "Limites effectives",
+      "Prévention"
+    ],
+    "character_keywords": [
+      "Trouble du sadisme sexuel coercitif",
+      "Consentement et limites",
+      "Détresse et parole clinique",
+      "Responsabilité et prévention",
+      "Évolution et suivi spécialisé"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "f243cd337e5b116f2fd23ccf248a484bc4f6cbe99ec327814fb6c0c717ae7c8d",
+    "summary": "Vendredi, la légende tient enfin sous la pochette sans que les lettres se touchent. Marceau relit le message destiné à Lucie : une pièce jointe, une phrase sur la taille des caractères, rien de plus. Il éprouve pourtant le souhait de faire circuler ce travail plus loin, jusqu’à la personne qui a refusé le contact. Il aimerait que quelque chose de réussi parle pour lui. Il laisse le fichier sur son bureau et ne sollicite pas cette personne.\n\n[…]\n\nMarceau joint la légende au message pour Lucie et l’envoie. Il ne demande à personne de transmettre autre chose. Le fichier est parti ; le souhait de renouer n’est pas devenu une permission. Il note pour son prochain entretien que respecter cette séparation lui a coûté davantage qu’il ne l’avait d’abord admis.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Vendredi, la légende tient enfin sous la pochette sans que les lettres se touchent. Marceau relit le message destiné à Lucie : une pièce jointe, une phrase sur la taille des caractères, rien de plus. Il éprouve pourtant le souhait de faire circuler ce travail plus loin, jusqu’à la personne qui a refusé le contact. Il aimerait que quelque chose de réussi parle pour lui. Il laisse le fichier sur son bureau et ne sollicite pas cette personne.",
+        "start": 2,
+        "end": 445
+      },
+      {
+        "quote": "Marceau joint la légende au message pour Lucie et l’envoie. Il ne demande à personne de transmettre autre chose. Le fichier est parti ; le souhait de renouer n’est pas devenu une permission. Il note pour son prochain entretien que respecter cette séparation lui a coûté davantage qu’il ne l’avait d’abord admis.",
+        "start": 3843,
+        "end": 4154
+      }
+    ],
+    "canonical_concept": "Consentement et limites effectives",
+    "context": "L’envoi de la légende",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour garder une limite effective"
+    ],
+    "clinical_code": "6D33",
+    "clinical_diagnosis": "Trouble du sadisme sexuel coercitif"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/marceau-controle-vecu-persistant": {
+    "character": "Marceau",
+    "character_id": "marceau",
+    "keywords": [
+      "Contrôle des conduites",
+      "Vécu persistant",
+      "Évaluation spécialisée"
+    ],
+    "character_keywords": [
+      "Trouble du sadisme sexuel coercitif",
+      "Consentement et limites",
+      "Détresse et parole clinique",
+      "Responsabilité et prévention",
+      "Évolution et suivi spécialisé"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "ba9f6e307f96881f6e3b1b705b9cdf67e768dac19249260980115f58d99310ae",
+    "summary": "Pendant les deux jours précédant le retour de Lucie, Marceau travaille sur les flèches. Il hésite entre une pointe pleine et une pointe plus fine. Il a envoyé sa question sur le contraste ; il ne relance pas la coordinatrice et ne cherche pas un autre prétexte pour la joindre. À première vue, l’attente ressemble à celle de n’importe quel fichier en cours de validation.\n\n[…]\n\nLe retour de Lucie arrive au terme des deux jours : le contraste le plus sombre se lit mieux. Marceau choisit les flèches qui restent visibles sur cette version et ne multiplie pas les échanges. Il conserve le prochain rendez-vous. Sa question clinique a trouvé une place, même si la préoccupation n’a pas disparu avec la réponse technique.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Pendant les deux jours précédant le retour de Lucie, Marceau travaille sur les flèches. Il hésite entre une pointe pleine et une pointe plus fine. Il a envoyé sa question sur le contraste ; il ne relance pas la coordinatrice et ne cherche pas un autre prétexte pour la joindre. À première vue, l’attente ressemble à celle de n’importe quel fichier en cours de validation.",
+        "start": 2,
+        "end": 373
+      },
+      {
+        "quote": "Le retour de Lucie arrive au terme des deux jours : le contraste le plus sombre se lit mieux. Marceau choisit les flèches qui restent visibles sur cette version et ne multiplie pas les échanges. Il conserve le prochain rendez-vous. Sa question clinique a trouvé une place, même si la préoccupation n’a pas disparu avec la réponse technique.",
+        "start": 3980,
+        "end": 4320
+      }
+    ],
+    "canonical_concept": "Contrôle des conduites et vécu persistant",
+    "context": "Les deux jours d’attente",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour décrire le contrôle sans en faire un test"
+    ],
+    "clinical_code": "6D33",
+    "clinical_diagnosis": "Trouble du sadisme sexuel coercitif"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/marceau-detresse-legende": {
+    "character": "Marceau",
+    "character_id": "marceau",
+    "keywords": [
+      "Trouble du sadisme sexuel coercitif",
+      "Détresse psychique",
+      "La première légende"
+    ],
+    "character_keywords": [
+      "Trouble du sadisme sexuel coercitif",
+      "Consentement et limites",
+      "Détresse et parole clinique",
+      "Responsabilité et prévention",
+      "Évolution et suivi spécialisé"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "a7bc5407bd9518bf6ca18cbcd020071b68a8aa9ca263b3d934fb59759134c7e7",
+    "summary": "Marceau agrandit les lettres de la légende, puis les réduit. Sous la pochette transparente, le nom du sentier des Aulnes disparaît presque. Il avait promis à Lucie un premier essai pour le club de randonnée. Depuis une demi-heure, il déplace pourtant le même rectangle. Ce soir, les pensées liées à son trouble le préoccupent davantage que le choix des caractères. Il referme le fichier sans avoir décidé si le trait du pont doit être plus épais.\n\n[…]\n\nMarceau écrit à Lucie qu’il remettra la légende en fin de semaine. Elle déplace son point de relecture. Il garde l’entretien suivant dans son agenda et pose la pochette à côté de l’ordinateur. Il ne se sent pas délivré de sa préoccupation, mais il n’a plus promis de terminer ce soir.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Marceau agrandit les lettres de la légende, puis les réduit. Sous la pochette transparente, le nom du sentier des Aulnes disparaît presque. Il avait promis à Lucie un premier essai pour le club de randonnée. Depuis une demi-heure, il déplace pourtant le même rectangle. Ce soir, les pensées liées à son trouble le préoccupent davantage que le choix des caractères. Il referme le fichier sans avoir décidé si le trait du pont doit être plus épais.",
+        "start": 2,
+        "end": 448
+      },
+      {
+        "quote": "Marceau écrit à Lucie qu’il remettra la légende en fin de semaine. Elle déplace son point de relecture. Il garde l’entretien suivant dans son agenda et pose la pochette à côté de l’ordinateur. Il ne se sent pas délivré de sa préoccupation, mais il n’a plus promis de terminer ce soir.",
+        "start": 3975,
+        "end": 4259
+      }
+    ],
+    "canonical_concept": "Détresse et demande de soin",
+    "context": "La première légende",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "Les premiers mots restent pratiques",
+      "3 techniques pour avancer avec un appui adapté"
+    ],
+    "clinical_code": "6D33",
+    "clinical_diagnosis": "Trouble du sadisme sexuel coercitif"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/marceau-fluctuations-progres": {
+    "character": "Marceau",
+    "character_id": "marceau",
+    "keywords": [
+      "Fluctuations",
+      "Progrès ponctuel",
+      "Maintien du suivi"
+    ],
+    "character_keywords": [
+      "Trouble du sadisme sexuel coercitif",
+      "Consentement et limites",
+      "Détresse et parole clinique",
+      "Responsabilité et prévention",
+      "Évolution et suivi spécialisé"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "92526d9bfc2b249a6a4a92a184960cafd66fd2cc98e3a7339371f619369f5c3b",
+    "summary": "La relecture collective à distance s’est bien passée. Le contraste est maintenant lisible et la légende ne disparaît plus sous la pochette. Il reste seulement une indication près du pont à déplacer. Marceau ferme la liste de remarques avec une satisfaction simple : les cartes ressemblent enfin à ce qu’il voulait rendre.\n\n[…]\n\nMarceau déplace l’indication près du pont et enregistre la dernière correction. Il confirme avec l’équipe la poursuite du suivi. La relecture a servi à améliorer les cartes ; le rendez-vous a servi à examiner son évolution. Aucune de ces étapes ne devient une récompense autorisant un contact refusé.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "La relecture collective à distance s’est bien passée. Le contraste est maintenant lisible et la légende ne disparaît plus sous la pochette. Il reste seulement une indication près du pont à déplacer. Marceau ferme la liste de remarques avec une satisfaction simple : les cartes ressemblent enfin à ce qu’il voulait rendre.",
+        "start": 2,
+        "end": 323
+      },
+      {
+        "quote": "Marceau déplace l’indication près du pont et enregistre la dernière correction. Il confirme avec l’équipe la poursuite du suivi. La relecture a servi à améliorer les cartes ; le rendez-vous a servi à examiner son évolution. Aucune de ces étapes ne devient une récompense autorisant un contact refusé.",
+        "start": 3958,
+        "end": 4258
+      }
+    ],
+    "canonical_concept": "Fluctuations et interprétation des progrès",
+    "context": "Après la relecture",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour parler des progrès et des fluctuations"
+    ],
+    "clinical_code": "6D33",
+    "clinical_diagnosis": "Trouble du sadisme sexuel coercitif"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/marceau-honte-parole-clinique": {
+    "character": "Marceau",
+    "character_id": "marceau",
+    "keywords": [
+      "Honte",
+      "Parole clinique",
+      "Suivi spécialisé"
+    ],
+    "character_keywords": [
+      "Trouble du sadisme sexuel coercitif",
+      "Consentement et limites",
+      "Détresse et parole clinique",
+      "Responsabilité et prévention",
+      "Évolution et suivi spécialisé"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "40477edc369dffded813bb6477f158583132c9c5d92511afb57e9b80ad296fb1",
+    "summary": "La pochette reste cette fois dans le sac. Marceau n’a pas besoin de montrer la légende : Lucie l’a reçue, et la date annoncée a été tenue. Quand Simon lui demande comment s’est passée la semaine, il répond par ce résultat. Puis il raconte les lettres agrandies, les marges, la pièce jointe vérifiée avant l’envoi. Il connaît tous les détails de ce qui est terminé.\n\n[…]\n\nMarceau reste jusqu’au terme du rendez-vous et répond aux questions de Simon. Le psychologue reprend les éléments avec l’équipe dans le cadre expliqué. De retour chez lui, Marceau ouvre le fichier pour travailler le contraste. Il a encore honte par moments ; il n’a plus besoin de présenter l’envoi réussi comme toute la vérité de sa semaine.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "La pochette reste cette fois dans le sac. Marceau n’a pas besoin de montrer la légende : Lucie l’a reçue, et la date annoncée a été tenue. Quand Simon lui demande comment s’est passée la semaine, il répond par ce résultat. Puis il raconte les lettres agrandies, les marges, la pièce jointe vérifiée avant l’envoi. Il connaît tous les détails de ce qui est terminé.",
+        "start": 2,
+        "end": 366
+      },
+      {
+        "quote": "Marceau reste jusqu’au terme du rendez-vous et répond aux questions de Simon. Le psychologue reprend les éléments avec l’équipe dans le cadre expliqué. De retour chez lui, Marceau ouvre le fichier pour travailler le contraste. Il a encore honte par moments ; il n’a plus besoin de présenter l’envoi réussi comme toute la vérité de sa semaine.",
+        "start": 3927,
+        "end": 4269
+      }
+    ],
+    "canonical_concept": "Honte et parole clinique",
+    "context": "L’entretien après l’envoi",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "Quand un bilan pratique masque un besoin clinique",
+      "3 techniques pour préparer une parole clinique plus complète"
+    ],
+    "clinical_code": "6D33",
+    "clinical_diagnosis": "Trouble du sadisme sexuel coercitif"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/marceau-informations-protection": {
+    "character": "Marceau",
+    "character_id": "marceau",
+    "keywords": [
+      "Informations partagées",
+      "Coordination pratique",
+      "Protection"
+    ],
+    "character_keywords": [
+      "Trouble du sadisme sexuel coercitif",
+      "Consentement et limites",
+      "Détresse et parole clinique",
+      "Responsabilité et prévention",
+      "Évolution et suivi spécialisé"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "ccb7e404c8bebdc489b8cad36fbf782b20dd8d70e9fb2c0e8d5b21754b2b84f0",
+    "summary": "Lucie prépare la relecture collective à distance. Dans son message, elle demande qui pourra lui transmettre la version finale si Marceau est indisponible au moment prévu. La question tient en une ligne. Marceau ouvre pourtant son dossier de consultation avant d’ouvrir celui des cartes. Il pense qu’en expliquant tout, il évitera peut-être les malentendus sur ses délais.\n\n[…]\n\nMarceau dépose la version corrigée dans le dossier du projet et indique à Lucie comment la retrouver s’il est indisponible. Elle confirme l’accès pour la relecture. Aucun compte rendu médical n’est joint. L’équipe a expliqué son cadre de transmission et conserve le suivi ; le club dispose des informations nécessaires à la livraison.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Lucie prépare la relecture collective à distance. Dans son message, elle demande qui pourra lui transmettre la version finale si Marceau est indisponible au moment prévu. La question tient en une ligne. Marceau ouvre pourtant son dossier de consultation avant d’ouvrir celui des cartes. Il pense qu’en expliquant tout, il évitera peut-être les malentendus sur ses délais.",
+        "start": 2,
+        "end": 373
+      },
+      {
+        "quote": "Marceau dépose la version corrigée dans le dossier du projet et indique à Lucie comment la retrouver s’il est indisponible. Elle confirme l’accès pour la relecture. Aucun compte rendu médical n’est joint. L’équipe a expliqué son cadre de transmission et conserve le suivi ; le club dispose des informations nécessaires à la livraison.",
+        "start": 4236,
+        "end": 4570
+      }
+    ],
+    "canonical_concept": "Informations partagées et protection",
+    "context": "La version finale à organiser",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour clarifier un partage d’informations"
+    ],
+    "clinical_code": "6D33",
+    "clinical_diagnosis": "Trouble du sadisme sexuel coercitif"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/marceau-justifications-responsabilite": {
+    "character": "Marceau",
+    "character_id": "marceau",
+    "keywords": [
+      "Justifications",
+      "Responsabilité",
+      "Disponibilité d’autrui"
+    ],
+    "character_keywords": [
+      "Trouble du sadisme sexuel coercitif",
+      "Consentement et limites",
+      "Détresse et parole clinique",
+      "Responsabilité et prévention",
+      "Évolution et suivi spécialisé"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "316527ba2e02741c6bbc99600e9752510b90cdda12a56b6dbdc374fe42952bc8",
+    "summary": "Lucie a envoyé une remarque courte : le vert choisi se distingue mal du gris une fois la feuille glissée sous la pochette. Marceau essaie deux autres teintes puis propose une séance supplémentaire pour comparer les impressions. La réponse arrive le soir : elle ne sera pas disponible. Il relit la phrase, qui ne contient ni excuse détaillée ni proposition de remplacement.\n\n[…]\n\nMarceau envoie les deux contrastes avec une question : « Si tu as un moment, lequel se lit le mieux sous la pochette ? » Il ne redemande pas de séance. Lucie choisit de répondre deux jours plus tard. Entre-temps, il poursuit les flèches avec les éléments déjà disponibles, sans traiter son attente comme un engagement de sa part.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Lucie a envoyé une remarque courte : le vert choisi se distingue mal du gris une fois la feuille glissée sous la pochette. Marceau essaie deux autres teintes puis propose une séance supplémentaire pour comparer les impressions. La réponse arrive le soir : elle ne sera pas disponible. Il relit la phrase, qui ne contient ni excuse détaillée ni proposition de remplacement.",
+        "start": 2,
+        "end": 374
+      },
+      {
+        "quote": "Marceau envoie les deux contrastes avec une question : « Si tu as un moment, lequel se lit le mieux sous la pochette ? » Il ne redemande pas de séance. Lucie choisit de répondre deux jours plus tard. Entre-temps, il poursuit les flèches avec les éléments déjà disponibles, sans traiter son attente comme un engagement de sa part.",
+        "start": 3879,
+        "end": 4208
+      }
+    ],
+    "canonical_concept": "Justifications et responsabilité personnelle",
+    "context": "Le refus d’une séance",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour dissocier effort et droit sur autrui"
+    ],
+    "clinical_code": "6D33",
+    "clinical_diagnosis": "Trouble du sadisme sexuel coercitif"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/marceau-participation-suivi-durable": {
+    "character": "Marceau",
+    "character_id": "marceau",
+    "keywords": [
+      "Participation ordinaire",
+      "Responsabilité durable",
+      "Suivi spécialisé"
+    ],
+    "character_keywords": [
+      "Trouble du sadisme sexuel coercitif",
+      "Consentement et limites",
+      "Détresse et parole clinique",
+      "Responsabilité et prévention",
+      "Évolution et suivi spécialisé"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "21dbe0d6730df99841b86d7362ecc4c6c0fc90432a140cf4f1beff2d9c000d8c",
+    "summary": "Le message de Lucie arrive en fin d’après-midi : elle a reçu les cartes et peut utiliser les documents pour le travail du club. La légende est lisible, le contraste tient sous la pochette et l’indication du pont a été déplacée. Marceau lit les trois remarques une deuxième fois. Il se souvient du rectangle qu’il déplaçait sans fin au début, quand la première ligne ne voulait pas avancer.\n\n[…]\n\nLes cartes sont remises et acceptées pour le travail du club. Marceau conserve la confirmation, ferme le dossier des Aulnes et garde son rendez-vous clinique. Sur la feuille neuve, il trace le contour d’une façade. Il ne sait pas encore ce qu’il fera de ce dessin. Il sait que la livraison ne lui doit ni pardon, ni rencontre, ni fin du soin.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Le message de Lucie arrive en fin d’après-midi : elle a reçu les cartes et peut utiliser les documents pour le travail du club. La légende est lisible, le contraste tient sous la pochette et l’indication du pont a été déplacée. Marceau lit les trois remarques une deuxième fois. Il se souvient du rectangle qu’il déplaçait sans fin au début, quand la première ligne ne voulait pas avancer.",
+        "start": 2,
+        "end": 391
+      },
+      {
+        "quote": "Les cartes sont remises et acceptées pour le travail du club. Marceau conserve la confirmation, ferme le dossier des Aulnes et garde son rendez-vous clinique. Sur la feuille neuve, il trace le contour d’une façade. Il ne sait pas encore ce qu’il fera de ce dessin. Il sait que la livraison ne lui doit ni pardon, ni rencontre, ni fin du soin.",
+        "start": 4090,
+        "end": 4432
+      }
+    ],
+    "canonical_concept": "Participation ordinaire et suivi durable",
+    "context": "La livraison des cartes",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour terminer une tâche sans fermer le suivi"
+    ],
+    "clinical_code": "6D33",
+    "clinical_diagnosis": "Trouble du sadisme sexuel coercitif"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/marceau-soutien-limites": {
+    "character": "Marceau",
+    "character_id": "marceau",
+    "keywords": [
+      "Soutien amical",
+      "Retentissement relationnel",
+      "Limites"
+    ],
+    "character_keywords": [
+      "Trouble du sadisme sexuel coercitif",
+      "Consentement et limites",
+      "Détresse et parole clinique",
+      "Responsabilité et prévention",
+      "Évolution et suivi spécialisé"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "e5e9d386a819510a6b16884e170566557f26e1361adf7936f7c3f41a1bccc894",
+    "summary": "Karim pose son manteau sur le dossier de la chaise et prévient qu’il repartira dans une demi-heure. Marceau acquiesce. Il commence aussitôt par raconter le rendez-vous avancé, puis le prochain point clinique, puis l’échéance accordée pour les cartes. Il ne donne pas de contenu intime, mais il voit bien que sa conversation suit désormais les colonnes de son agenda.\n\n[…]\n\nÀ l’heure annoncée, Karim se lève et Marceau le laisse partir sans négocier quelques minutes de plus. Il note pour Simon sa question de santé et le malaise ressenti pendant le café. Chez lui, il retrouve le dessin du pont. Lors de leur prochain échange, l’équipe lui propose une discussion médicale sur les options de soin.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Karim pose son manteau sur le dossier de la chaise et prévient qu’il repartira dans une demi-heure. Marceau acquiesce. Il commence aussitôt par raconter le rendez-vous avancé, puis le prochain point clinique, puis l’échéance accordée pour les cartes. Il ne donne pas de contenu intime, mais il voit bien que sa conversation suit désormais les colonnes de son agenda.",
+        "start": 2,
+        "end": 368
+      },
+      {
+        "quote": "À l’heure annoncée, Karim se lève et Marceau le laisse partir sans négocier quelques minutes de plus. Il note pour Simon sa question de santé et le malaise ressenti pendant le café. Chez lui, il retrouve le dessin du pont. Lors de leur prochain échange, l’équipe lui propose une discussion médicale sur les options de soin.",
+        "start": 3881,
+        "end": 4204
+      }
+    ],
+    "canonical_concept": "Retentissement relationnel et soutien limité",
+    "context": "Un café avec Karim",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour respecter les limites d’un soutien amical"
+    ],
+    "clinical_code": "6D33",
+    "clinical_diagnosis": "Trouble du sadisme sexuel coercitif"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/marceau-stress-calendrier": {
+    "character": "Marceau",
+    "character_id": "marceau",
+    "keywords": [
+      "Stress contextuel",
+      "Demande d’aide",
+      "Prévention"
+    ],
+    "character_keywords": [
+      "Trouble du sadisme sexuel coercitif",
+      "Consentement et limites",
+      "Détresse et parole clinique",
+      "Responsabilité et prévention",
+      "Évolution et suivi spécialisé"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "76a1f4ff960c4af13dcff3f3d090fe81af0544f7c9f4f3f3d502e63fdef1f486",
+    "summary": "À l’écran, le nouveau contraste paraissait net. Sur l’impression d’essai, une zone grise absorbe de nouveau les indications. Marceau repose la feuille sous la pochette, puis l’en retire comme si le plastique était seul responsable. La relecture collective à distance approche. Il avait prévu d’y envoyer une version presque définitive ; il lui faut maintenant reprendre une partie du fichier.\n\n[…]\n\nLucie accepte le fichier provisoire pour la relecture à distance et précise que le contraste restera à corriger. Marceau confirme l’entretien avancé avec la psychiatre. Il envoie la version clairement marquée comme provisoire, puis note ses mauvaises nuits pour la consultation. Le retard est organisé ; la question de santé reste à examiner.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "À l’écran, le nouveau contraste paraissait net. Sur l’impression d’essai, une zone grise absorbe de nouveau les indications. Marceau repose la feuille sous la pochette, puis l’en retire comme si le plastique était seul responsable. La relecture collective à distance approche. Il avait prévu d’y envoyer une version presque définitive ; il lui faut maintenant reprendre une partie du fichier.",
+        "start": 2,
+        "end": 394
+      },
+      {
+        "quote": "Lucie accepte le fichier provisoire pour la relecture à distance et précise que le contraste restera à corriger. Marceau confirme l’entretien avancé avec la psychiatre. Il envoie la version clairement marquée comme provisoire, puis note ses mauvaises nuits pour la consultation. Le retard est organisé ; la question de santé reste à examiner.",
+        "start": 4192,
+        "end": 4534
+      }
+    ],
+    "canonical_concept": "Stress contextuel et vulnérabilité",
+    "context": "L’impression d’essai",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour réagir à une pression accrue"
+    ],
+    "clinical_code": "6D33",
+    "clinical_diagnosis": "Trouble du sadisme sexuel coercitif"
+  },
   "posts/comprendre-et-maitriser-ses-emotions/martin-avant-le-deuxieme-trait": {
     "character": "Martin",
     "character_id": "martin",
@@ -36268,6 +37231,487 @@
     ],
     "pattern_source": "editorial_pack_v10_reviewed_story"
   },
+  "posts/comprendre-et-maitriser-ses-emotions/remiel-acces-suivi": {
+    "character": "Rémiël",
+    "character_id": "remiel",
+    "keywords": [
+      "Trouble pédophile",
+      "Orientation",
+      "Accès au soin"
+    ],
+    "character_keywords": [
+      "Trouble pédophile",
+      "Détresse et préoccupation",
+      "Recours aux soins",
+      "Protection et responsabilité",
+      "Continuité du suivi"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "b4a50aa791166e2187deb2ff2e42b87ad9744c4886203974b38ec5c7484286b8",
+    "summary": "Le numéro du secrétariat figure sur la feuille que Rémiël a rapportée du cabinet de Vidal. Il appelle depuis le bureau de l’atelier, avant d’ouvrir son devis. La personne qui répond retrouve la demande d’entretien complémentaire et lui propose une date. Rémiël la répète, puis regarde son agenda : c’est le moment qu’il avait réservé pour achever l’estimation destinée à Anne.\n\n[…]\n\nQuelques jours plus tard, Rémiël se rend à l’entretien complémentaire convenu. Le professionnel reprend avec lui ses besoins et les modalités du suivi spécialisé. À la sortie, il sait quel contact est prévu ensuite et comment joindre l’équipe selon la situation. Il prévient Anne du nouveau délai pour son estimation technique. Elle lui propose de regarder ensemble la notice la semaine suivante : l’organisation du travail doit maintenant devenir aussi précise que celle des rendez-vous.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Le numéro du secrétariat figure sur la feuille que Rémiël a rapportée du cabinet de Vidal. Il appelle depuis le bureau de l’atelier, avant d’ouvrir son devis. La personne qui répond retrouve la demande d’entretien complémentaire et lui propose une date. Rémiël la répète, puis regarde son agenda : c’est le moment qu’il avait réservé pour achever l’estimation destinée à Anne.",
+        "start": 2,
+        "end": 378
+      },
+      {
+        "quote": "Quelques jours plus tard, Rémiël se rend à l’entretien complémentaire convenu. Le professionnel reprend avec lui ses besoins et les modalités du suivi spécialisé. À la sortie, il sait quel contact est prévu ensuite et comment joindre l’équipe selon la situation. Il prévient Anne du nouveau délai pour son estimation technique. Elle lui propose de regarder ensemble la notice la semaine suivante : l’organisation du travail doit maintenant devenir aussi précise que celle des rendez-vous.",
+        "start": 3956,
+        "end": 4444
+      }
+    ],
+    "canonical_concept": "Accès au suivi spécialisé",
+    "context": "Un appel au service spécialisé",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour concrétiser une orientation"
+    ],
+    "clinical_code": "6D32",
+    "clinical_diagnosis": "Trouble pédophile"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/remiel-attention-disponible": {
+    "character": "Rémiël",
+    "character_id": "remiel",
+    "keywords": [
+      "Trouble pédophile",
+      "Préoccupation",
+      "Attention"
+    ],
+    "character_keywords": [
+      "Trouble pédophile",
+      "Détresse et préoccupation",
+      "Recours aux soins",
+      "Protection et responsabilité",
+      "Continuité du suivi"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "d9ff0b4d6625d82ff63e0621a03270c7ef500659c6461b679e4a109c5f0b0cf1",
+    "summary": "Rémiël aligne le crayon avec le bord du carnet, puis relit la mesure qu’il vient d’inscrire. La même valeur apparaît deux lignes plus haut. Il ne sait plus laquelle correspond à l’observation qu’il voulait vérifier. L’atelier est silencieux ; il y travaille seul dans le cadre réservé aux adultes. Son rendez-vous avec Vidal a permis de fixer le calendrier du suivi, mais ce calendrier ne fait pas disparaître la préoccupation.\n\n[…]\n\nPendant l’échange, Rémiël transmet la difficulté au service. Il ne transforme pas la mesure manquée en diagnostic supplémentaire. La finition attendra et la vérification devra être refaite. En raccrochant, il constate qu’il a donné les faits, mais avec des phrases très courtes. Il avait peur de ce que la soignante penserait de lui ; cette peur mérite elle aussi une place au prochain entretien.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Rémiël aligne le crayon avec le bord du carnet, puis relit la mesure qu’il vient d’inscrire. La même valeur apparaît deux lignes plus haut. Il ne sait plus laquelle correspond à l’observation qu’il voulait vérifier. L’atelier est silencieux ; il y travaille seul dans le cadre réservé aux adultes. Son rendez-vous avec Vidal a permis de fixer le calendrier du suivi, mais ce calendrier ne fait pas disparaître la préoccupation.",
+        "start": 2,
+        "end": 429
+      },
+      {
+        "quote": "Pendant l’échange, Rémiël transmet la difficulté au service. Il ne transforme pas la mesure manquée en diagnostic supplémentaire. La finition attendra et la vérification devra être refaite. En raccrochant, il constate qu’il a donné les faits, mais avec des phrases très courtes. Il avait peur de ce que la soignante penserait de lui ; cette peur mérite elle aussi une place au prochain entretien.",
+        "start": 3911,
+        "end": 4307
+      }
+    ],
+    "canonical_concept": "Préoccupation et attention disponible",
+    "context": "Une mesure à reprendre",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour transmettre une difficulté d’attention"
+    ],
+    "clinical_code": "6D32",
+    "clinical_diagnosis": "Trouble pédophile"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/remiel-continuite-apres-projet": {
+    "character": "Rémiël",
+    "character_id": "remiel",
+    "keywords": [
+      "Trouble pédophile",
+      "Continuité des soins",
+      "Projet professionnel"
+    ],
+    "character_keywords": [
+      "Trouble pédophile",
+      "Détresse et préoccupation",
+      "Recours aux soins",
+      "Protection et responsabilité",
+      "Continuité du suivi"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "a6c0369343eba3e9ea1cd7c2f7e3442548611dcd384e4d027b49bac30314778c",
+    "summary": "Anne pose la notice finale sur le bureau de l’atelier. Cette fois, la première page ne porte plus la mention provisoire. Rémiël lui montre où figurent les interventions réalisées et les vérifications achevées. Le baromètre restauré est prêt à être remis à la collection. Dans cet espace réservé aux adultes, Marc prépare une dernière photographie de l’objet terminé pour le dossier de réception.\n\n[…]\n\nAnne emporte le baromètre et la notice après avoir confirmé la réception. Marc transmet la photographie finale pour le dossier. Rémiël range la chemise bleue parmi les chantiers terminés, puis vérifie la date du prochain rendez-vous spécialisé. Il n’a pas besoin de laisser un projet inachevé pour reconnaître que le soin continue. Une autre restauration pourra être discutée dans les mêmes espaces adultes et avec les interlocuteurs concernés. Pour aujourd’hui, la livraison est accomplie et le cadre de prévention demeure.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Anne pose la notice finale sur le bureau de l’atelier. Cette fois, la première page ne porte plus la mention provisoire. Rémiël lui montre où figurent les interventions réalisées et les vérifications achevées. Le baromètre restauré est prêt à être remis à la collection. Dans cet espace réservé aux adultes, Marc prépare une dernière photographie de l’objet terminé pour le dossier de réception.",
+        "start": 2,
+        "end": 397
+      },
+      {
+        "quote": "Anne emporte le baromètre et la notice après avoir confirmé la réception. Marc transmet la photographie finale pour le dossier. Rémiël range la chemise bleue parmi les chantiers terminés, puis vérifie la date du prochain rendez-vous spécialisé. Il n’a pas besoin de laisser un projet inachevé pour reconnaître que le soin continue. Une autre restauration pourra être discutée dans les mêmes espaces adultes et avec les interlocuteurs concernés. Pour aujourd’hui, la livraison est accomplie et le cadre de prévention demeure.",
+        "start": 4172,
+        "end": 4696
+      }
+    ],
+    "canonical_concept": "Continuité du soin après le projet",
+    "context": "La remise du baromètre",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "L’engagement technique est clos",
+      "3 techniques pour préparer la suite après un projet"
+    ],
+    "clinical_code": "6D32",
+    "clinical_diagnosis": "Trouble pédophile"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/remiel-crainte-jugement": {
+    "character": "Rémiël",
+    "character_id": "remiel",
+    "keywords": [
+      "Trouble pédophile",
+      "Crainte du jugement",
+      "Dialogue clinique"
+    ],
+    "character_keywords": [
+      "Trouble pédophile",
+      "Détresse et préoccupation",
+      "Recours aux soins",
+      "Protection et responsabilité",
+      "Continuité du suivi"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "a63da6eef31a5d4d7813b0cc70ac1bb3c9596c08321160471ab379d7e54dbd07",
+    "summary": "Rémiël a plié sa feuille en quatre pour la glisser dans sa poche. Dans le cabinet de Vidal, il la déplie sur ses genoux et cherche la phrase préparée après son dernier échange avec le service. Il avait écrit qu’il était préoccupé au point de perdre le fil de son travail. Sous cette ligne, il avait ajouté : « J’ai peur de votre jugement quand je parle. » Avant de venir, il a barré la seconde phrase. Elle reste lisible.\n\n[…]\n\n« J’ai peur de votre jugement quand je parle », dit enfin Rémiël. Vidal entend cette peur puis poursuit les questions nécessaires à son suivi. Elle lui explique le cadre de l’échange et propose un entretien complémentaire au sein du service spécialisé. Il accepte et note l’interlocuteur à joindre. Rien n’est encore réservé : cette proposition devra devenir un rendez-vous réel. Il quitte le cabinet avec sa feuille, dont la seconde ligne n’a plus besoin d’être effacée.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Rémiël a plié sa feuille en quatre pour la glisser dans sa poche. Dans le cabinet de Vidal, il la déplie sur ses genoux et cherche la phrase préparée après son dernier échange avec le service. Il avait écrit qu’il était préoccupé au point de perdre le fil de son travail. Sous cette ligne, il avait ajouté : « J’ai peur de votre jugement quand je parle. » Avant de venir, il a barré la seconde phrase. Elle reste lisible.",
+        "start": 2,
+        "end": 423
+      },
+      {
+        "quote": "« J’ai peur de votre jugement quand je parle », dit enfin Rémiël. Vidal entend cette peur puis poursuit les questions nécessaires à son suivi. Elle lui explique le cadre de l’échange et propose un entretien complémentaire au sein du service spécialisé. Il accepte et note l’interlocuteur à joindre. Rien n’est encore réservé : cette proposition devra devenir un rendez-vous réel. Il quitte le cabinet avec sa feuille, dont la seconde ligne n’a plus besoin d’être effacée.",
+        "start": 3929,
+        "end": 4400
+      }
+    ],
+    "canonical_concept": "Crainte du jugement clinique",
+    "context": "Dans le cabinet de Vidal",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour reprendre un dialogue clinique difficile"
+    ],
+    "clinical_code": "6D32",
+    "clinical_diagnosis": "Trouble pédophile"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/remiel-diagnostic-responsabilite": {
+    "character": "Rémiël",
+    "character_id": "remiel",
+    "keywords": [
+      "Trouble pédophile",
+      "Diagnostic",
+      "Responsabilité"
+    ],
+    "character_keywords": [
+      "Trouble pédophile",
+      "Détresse et préoccupation",
+      "Recours aux soins",
+      "Protection et responsabilité",
+      "Continuité du suivi"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "993f9ab9ddc5b9a0d2edb5b06f7144379d8d1016c6288ad7325318e2d1496b10",
+    "summary": "Anne pose la fiche du baromètre au bord du bureau. Elle attend une estimation pour la collection dont elle est responsable. Rémiël a inscrit les dimensions du boîtier, l’état du cadran et les premières opérations à examiner. La case du délai reste vide. À quarante-cinq ans, ce restaurateur d’instruments sait expliquer pourquoi une graduation doit rester visible. Ce matin, il peine à répondre à une question beaucoup plus courte : quand pourra-t-il rendre son devis ?\n\n[…]\n\nRémiël confirme la consultation. Anne accepte de recevoir l’estimation après cet échange ; elle repart avec les seules observations techniques dont elle a besoin. Au rendez-vous, Vidal reprend avec lui le calendrier du suivi et le cadre adulte du chantier. Rémiël revient à l’atelier avec des dates concrètes. Le baromètre attend toujours sur l’établi, et il reste à savoir quelle partie du travail son attention lui permettra réellement d’accomplir.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Anne pose la fiche du baromètre au bord du bureau. Elle attend une estimation pour la collection dont elle est responsable. Rémiël a inscrit les dimensions du boîtier, l’état du cadran et les premières opérations à examiner. La case du délai reste vide. À quarante-cinq ans, ce restaurateur d’instruments sait expliquer pourquoi une graduation doit rester visible. Ce matin, il peine à répondre à une question beaucoup plus courte : quand pourra-t-il rendre son devis ?",
+        "start": 2,
+        "end": 471
+      },
+      {
+        "quote": "Rémiël confirme la consultation. Anne accepte de recevoir l’estimation après cet échange ; elle repart avec les seules observations techniques dont elle a besoin. Au rendez-vous, Vidal reprend avec lui le calendrier du suivi et le cadre adulte du chantier. Rémiël revient à l’atelier avec des dates concrètes. Le baromètre attend toujours sur l’établi, et il reste à savoir quelle partie du travail son attention lui permettra réellement d’accomplir.",
+        "start": 3965,
+        "end": 4415
+      }
+    ],
+    "canonical_concept": "Diagnostic et responsabilité",
+    "context": "Au bureau de l’atelier",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour articuler compréhension et responsabilité"
+    ],
+    "clinical_code": "6D32",
+    "clinical_diagnosis": "Trouble pédophile"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/remiel-difficultes-associees": {
+    "character": "Rémiël",
+    "character_id": "remiel",
+    "keywords": [
+      "Trouble pédophile",
+      "Santé associée",
+      "Réévaluation"
+    ],
+    "character_keywords": [
+      "Trouble pédophile",
+      "Détresse et préoccupation",
+      "Recours aux soins",
+      "Protection et responsabilité",
+      "Continuité du suivi"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "d5303aefb2c024775a6a3c930d889ee940dfe83e32633a2ac448c603323add1c",
+    "summary": "La notice provisoire se trouve toujours dans la chemise bleue. Rémiël l’a apportée au rendez-vous suivant parce qu’elle lui fournit un exemple simple : depuis plusieurs matinées, il reste devant sans parvenir à l’ouvrir. Il décrit ce changement à Vidal. Ce n’est pas la même difficulté que la mesure recopiée ; cette fois, il peine à commencer. Ses nuits ont aussi raccourci, sans qu’il sache expliquer pourquoi.\n\n[…]\n\nL’entretien a lieu et l’équipe adapte les contacts à la situation de Rémiël, sans annoncer ici de nouveau diagnostic. Il suspend la finition pour quelques jours et informe Anne du report professionnel. Elle sait que la date de remise devra être revue ; elle ne reçoit pas le rôle de suivre son état. Rémiël conserve les modalités de contact rapproché données par le service. Il sait aussi qu’un changement urgent nécessiterait un autre relais, même avant ce contact.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "La notice provisoire se trouve toujours dans la chemise bleue. Rémiël l’a apportée au rendez-vous suivant parce qu’elle lui fournit un exemple simple : depuis plusieurs matinées, il reste devant sans parvenir à l’ouvrir. Il décrit ce changement à Vidal. Ce n’est pas la même difficulté que la mesure recopiée ; cette fois, il peine à commencer. Ses nuits ont aussi raccourci, sans qu’il sache expliquer pourquoi.",
+        "start": 2,
+        "end": 414
+      },
+      {
+        "quote": "L’entretien a lieu et l’équipe adapte les contacts à la situation de Rémiël, sans annoncer ici de nouveau diagnostic. Il suspend la finition pour quelques jours et informe Anne du report professionnel. Elle sait que la date de remise devra être revue ; elle ne reçoit pas le rôle de suivre son état. Rémiël conserve les modalités de contact rapproché données par le service. Il sait aussi qu’un changement urgent nécessiterait un autre relais, même avant ce contact.",
+        "start": 4005,
+        "end": 4471
+      }
+    ],
+    "canonical_concept": "Évaluer les difficultés associées",
+    "context": "Un entretien sur les changements récents",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour transmettre une évolution de santé"
+    ],
+    "clinical_code": "6D32",
+    "clinical_diagnosis": "Trouble pédophile"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/remiel-incertitude-soins": {
+    "character": "Rémiël",
+    "character_id": "remiel",
+    "keywords": [
+      "Trouble pédophile",
+      "Décision de soin",
+      "Incertitude"
+    ],
+    "character_keywords": [
+      "Trouble pédophile",
+      "Détresse et préoccupation",
+      "Recours aux soins",
+      "Protection et responsabilité",
+      "Continuité du suivi"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "8d5f99ad993da18486a2e7a4ca040fd562d223e8c1a15716bb3157116cfb115a",
+    "summary": "Rémiël retrouve Vidal après l’évaluation urgente. Le relais a été transmis au service ; la docteure reprend avec lui ce qui a changé et les suites à organiser. Il n’a pas ouvert le chantier depuis sa suspension. Dans son carnet, aucune nouvelle date de livraison n’a remplacé celle qui a été reportée. Il attend d’abord de comprendre le cadre du suivi.\n\n[…]\n\nRémiël et Vidal conviennent de poursuivre le suivi adapté et d’une réévaluation. La reprise professionnelle est limitée au cadre adulte discuté ; les mesures de protection demeurent. Il peut envisager de rouvrir la notice, sans transformer cette possibilité en certificat de sécurité. Avant de rappeler Marc pour la photographie, il prépare une demande précise : une aide sur l’objet et la lumière, avec une durée à convenir. Les besoins cliniques resteront adressés au service.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Rémiël retrouve Vidal après l’évaluation urgente. Le relais a été transmis au service ; la docteure reprend avec lui ce qui a changé et les suites à organiser. Il n’a pas ouvert le chantier depuis sa suspension. Dans son carnet, aucune nouvelle date de livraison n’a remplacé celle qui a été reportée. Il attend d’abord de comprendre le cadre du suivi.",
+        "start": 2,
+        "end": 354
+      },
+      {
+        "quote": "Rémiël et Vidal conviennent de poursuivre le suivi adapté et d’une réévaluation. La reprise professionnelle est limitée au cadre adulte discuté ; les mesures de protection demeurent. Il peut envisager de rouvrir la notice, sans transformer cette possibilité en certificat de sécurité. Avant de rappeler Marc pour la photographie, il prépare une demande précise : une aide sur l’objet et la lumière, avec une durée à convenir. Les besoins cliniques resteront adressés au service.",
+        "start": 4214,
+        "end": 4692
+      }
+    ],
+    "canonical_concept": "Décisions de soin et incertitude",
+    "context": "Le rendez-vous après l’urgence",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour préparer une décision de soin éclairée"
+    ],
+    "clinical_code": "6D32",
+    "clinical_diagnosis": "Trouble pédophile"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/remiel-limites-soutien": {
+    "character": "Rémiël",
+    "character_id": "remiel",
+    "keywords": [
+      "Trouble pédophile",
+      "Soutien adulte",
+      "Limites"
+    ],
+    "character_keywords": [
+      "Trouble pédophile",
+      "Détresse et préoccupation",
+      "Recours aux soins",
+      "Protection et responsabilité",
+      "Continuité du suivi"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "c6cec428b4e9eed7fc06d9494beb82440f58d69fc553bb0c640b7e3c97fbe02f",
+    "summary": "Rémiël appelle Marc depuis le bureau de l’atelier. Après le rendez-vous avec Vidal, il a repris la notice par une étape limitée, dans les conditions discutées. Il peut désormais envisager la photographie technique. Il explique qu’il lui faudrait une courte séance pour obtenir une image lisible du cadran, puis attend la réponse de son collègue.\n\n[…]\n\nMarc réserve une courte séance dans l’atelier réservé aux adultes. Il confirme son aide pour la photographie et Rémiël note l’heure de fin prévue. Les rendez-vous médicaux restent dans une autre partie de son agenda. Avant de raccrocher, Marc demande qu’on lui laisse un peu d’espace près de l’établi pour le matériel. Rémiël promet seulement cela. Ils ont un sujet de travail à reprendre ensemble, sans confondre la présence d’un collègue avec un dispositif clinique.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Rémiël appelle Marc depuis le bureau de l’atelier. Après le rendez-vous avec Vidal, il a repris la notice par une étape limitée, dans les conditions discutées. Il peut désormais envisager la photographie technique. Il explique qu’il lui faudrait une courte séance pour obtenir une image lisible du cadran, puis attend la réponse de son collègue.",
+        "start": 2,
+        "end": 347
+      },
+      {
+        "quote": "Marc réserve une courte séance dans l’atelier réservé aux adultes. Il confirme son aide pour la photographie et Rémiël note l’heure de fin prévue. Les rendez-vous médicaux restent dans une autre partie de son agenda. Avant de raccrocher, Marc demande qu’on lui laisse un peu d’espace près de l’établi pour le matériel. Rémiël promet seulement cela. Ils ont un sujet de travail à reprendre ensemble, sans confondre la présence d’un collègue avec un dispositif clinique.",
+        "start": 3958,
+        "end": 4426
+      }
+    ],
+    "canonical_concept": "Limites du soutien adulte",
+    "context": "Au téléphone avec Marc",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour délimiter une aide adulte"
+    ],
+    "clinical_code": "6D32",
+    "clinical_diagnosis": "Trouble pédophile"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/remiel-periode-calme": {
+    "character": "Rémiël",
+    "character_id": "remiel",
+    "keywords": [
+      "Trouble pédophile",
+      "Fluctuations",
+      "Maintien du suivi"
+    ],
+    "character_keywords": [
+      "Trouble pédophile",
+      "Détresse et préoccupation",
+      "Recours aux soins",
+      "Protection et responsabilité",
+      "Continuité du suivi"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "9c4a5e150fdae575be33bd4028482bbc727ba8af72094cd72d149ecc48ce86d4",
+    "summary": "La photographie technique a eu lieu au créneau convenu. Marc a déplacé son matériel dans l’espace laissé près de l’établi et obtenu une image sans le reflet gênant. Il est reparti à l’heure prévue. Rémiël a inséré la photographie dans la notice provisoire, puis transmis celle-ci à Anne avec les vérifications encore à achever clairement indiquées. Le projet avance par des opérations dont il peut nommer le résultat.\n\n[…]\n\nRémiël maintient le rendez-vous et les modalités de prévention. Après l’échange, il reprend la notice finale à un créneau distinct. La photographie est en place ; il achève les vérifications restantes et prépare les documents de remise. Anne reçoit la proposition d’un rendez-vous de livraison dans le même atelier adulte. Le projet approche de sa fin, tandis que le suivi continue à répondre à un autre calendrier.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "La photographie technique a eu lieu au créneau convenu. Marc a déplacé son matériel dans l’espace laissé près de l’établi et obtenu une image sans le reflet gênant. Il est reparti à l’heure prévue. Rémiël a inséré la photographie dans la notice provisoire, puis transmis celle-ci à Anne avec les vérifications encore à achever clairement indiquées. Le projet avance par des opérations dont il peut nommer le résultat.",
+        "start": 2,
+        "end": 419
+      },
+      {
+        "quote": "Rémiël maintient le rendez-vous et les modalités de prévention. Après l’échange, il reprend la notice finale à un créneau distinct. La photographie est en place ; il achève les vérifications restantes et prépare les documents de remise. Anne reçoit la proposition d’un rendez-vous de livraison dans le même atelier adulte. Le projet approche de sa fin, tandis que le suivi continue à répondre à un autre calendrier.",
+        "start": 4124,
+        "end": 4539
+      }
+    ],
+    "canonical_concept": "Fluctuations sans garantie de guérison",
+    "context": "L’agenda après la photographie",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour parler aussi des améliorations"
+    ],
+    "clinical_code": "6D32",
+    "clinical_diagnosis": "Trouble pédophile"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/remiel-planning-soins": {
+    "character": "Rémiël",
+    "character_id": "remiel",
+    "keywords": [
+      "Trouble pédophile",
+      "Travail",
+      "Organisation du suivi"
+    ],
+    "character_keywords": [
+      "Trouble pédophile",
+      "Détresse et préoccupation",
+      "Recours aux soins",
+      "Protection et responsabilité",
+      "Continuité du suivi"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "aca526947065ea8f13001743355e375967521c576ca0938358e1da2fe3d4becf",
+    "summary": "Anne tourne les deux pages de la notice provisoire. Dans l’atelier réservé aux adultes, le baromètre est posé à côté du dossier ; la vérification laissée en attente apparaît encore dans la liste de travail. Rémiël a préparé un calendrier qui remplit presque toute la semaine. Sur le papier, chaque opération trouve une place. Il a seulement oublié le temps qu’il lui faudra pour revenir sur une mesure incertaine.\n\n[…]\n\nAnne accepte de recevoir la notice provisoire avant l’objet terminé. Marc, sollicité pour la photographie technique, confirme qu’il pourra aider à l’organiser ; le créneau sera fixé plus tard. Rémiël transmet le planning corrigé et reprend une étape limitée de la notice. Au prochain rendez-vous, il veut parler de cette préoccupation qu’il appelle souvent une obsession. Il aimerait trouver un mot précis sans tirer de ses difficultés une nouvelle conclusion médicale.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Anne tourne les deux pages de la notice provisoire. Dans l’atelier réservé aux adultes, le baromètre est posé à côté du dossier ; la vérification laissée en attente apparaît encore dans la liste de travail. Rémiël a préparé un calendrier qui remplit presque toute la semaine. Sur le papier, chaque opération trouve une place. Il a seulement oublié le temps qu’il lui faudra pour revenir sur une mesure incertaine.",
+        "start": 2,
+        "end": 415
+      },
+      {
+        "quote": "Anne accepte de recevoir la notice provisoire avant l’objet terminé. Marc, sollicité pour la photographie technique, confirme qu’il pourra aider à l’organiser ; le créneau sera fixé plus tard. Rémiël transmet le planning corrigé et reprend une étape limitée de la notice. Au prochain rendez-vous, il veut parler de cette préoccupation qu’il appelle souvent une obsession. Il aimerait trouver un mot précis sans tirer de ses difficultés une nouvelle conclusion médicale.",
+        "start": 4060,
+        "end": 4529
+      }
+    ],
+    "canonical_concept": "Retentissement professionnel du suivi",
+    "context": "Le planning de restauration",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour proposer un engagement professionnel réaliste"
+    ],
+    "clinical_code": "6D32",
+    "clinical_diagnosis": "Trouble pédophile"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/remiel-relais-urgent": {
+    "character": "Rémiël",
+    "character_id": "remiel",
+    "keywords": [
+      "Trouble pédophile",
+      "Urgence",
+      "Protection"
+    ],
+    "character_keywords": [
+      "Trouble pédophile",
+      "Détresse et préoccupation",
+      "Recours aux soins",
+      "Protection et responsabilité",
+      "Continuité du suivi"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "334562d1f11014b5455b20301575a73260a3940ac24bb92a0861b326d11e1636",
+    "summary": "À son domicile, Rémiël constate un changement qui lui fait craindre de ne plus maintenir la sécurité. Il appelle immédiatement les secours. Dès le début de l’échange, il dit qu’il a besoin d’une évaluation urgente et qu’il est déjà suivi par un service spécialisé. Il répond aux questions, donne sa localisation et explique clairement sa crainte. Aucun récit détaillé de scénario n’est nécessaire ici pour comprendre la priorité : la protection et le relais professionnel.\n\n[…]\n\nRémiël est évalué et son service spécialisé reçoit le relais clinique. La suite du suivi est organisée avec les professionnels ; le récit ne promet ni délai universel ni issue identique pour tous. La restauration reste suspendue. Marc apprend seulement que la livraison est reportée et qu’aucune séance de photographie n’est à maintenir pour l’instant. Il ne reçoit pas de mission de surveillance. Le prochain échange avec Vidal reprendra ce que l’évaluation implique pour les soins.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "À son domicile, Rémiël constate un changement qui lui fait craindre de ne plus maintenir la sécurité. Il appelle immédiatement les secours. Dès le début de l’échange, il dit qu’il a besoin d’une évaluation urgente et qu’il est déjà suivi par un service spécialisé. Il répond aux questions, donne sa localisation et explique clairement sa crainte. Aucun récit détaillé de scénario n’est nécessaire ici pour comprendre la priorité : la protection et le relais professionnel.",
+        "start": 2,
+        "end": 474
+      },
+      {
+        "quote": "Rémiël est évalué et son service spécialisé reçoit le relais clinique. La suite du suivi est organisée avec les professionnels ; le récit ne promet ni délai universel ni issue identique pour tous. La restauration reste suspendue. Marc apprend seulement que la livraison est reportée et qu’aucune séance de photographie n’est à maintenir pour l’instant. Il ne reçoit pas de mission de surveillance. Le prochain échange avec Vidal reprendra ce que l’évaluation implique pour les soins.",
+        "start": 4184,
+        "end": 4667
+      }
+    ],
+    "canonical_concept": "Répondre à une aggravation urgente",
+    "context": "Un appel urgent depuis le domicile",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour communiquer avec les secours en urgence"
+    ],
+    "clinical_code": "6D32",
+    "clinical_diagnosis": "Trouble pédophile"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/remiel-termes-diagnostiques": {
+    "character": "Rémiël",
+    "character_id": "remiel",
+    "keywords": [
+      "Trouble pédophile",
+      "Diagnostic différentiel",
+      "Préoccupation"
+    ],
+    "character_keywords": [
+      "Trouble pédophile",
+      "Détresse et préoccupation",
+      "Recours aux soins",
+      "Protection et responsabilité",
+      "Continuité du suivi"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "67e480dcf827733b955da3ac30c04f976b9a9507b9c0b86705fa22d4be84db8c",
+    "summary": "« C’est une obsession », dit Rémiël en parlant du temps passé à s’inquiéter de son trouble. Il a laissé le planning professionnel dans son sac ; le rendez-vous avec Vidal n’est pas une réunion sur la livraison. Pourtant, il revient vite à ce qu’il connaît le mieux : la mesure reprise, la notice provisoire et le créneau de photographie encore à fixer. Il voudrait que ces faits permettent de comprendre ce qu’il veut dire.\n\n[…]\n\nRémiël note : « Préoccupation ne signifie pas à elle seule autre diagnostic. » Il vérifie avec Vidal qu’il a compris, puis lui parle de son sommeil altéré et de sa baisse d’élan. Elle recueille ces informations et organise leur évaluation au rendez-vous suivant. Il ne repart pas avec une nouvelle étiquette. Il repart avec deux difficultés reconnues comme des questions à examiner pour elles-mêmes.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "« C’est une obsession », dit Rémiël en parlant du temps passé à s’inquiéter de son trouble. Il a laissé le planning professionnel dans son sac ; le rendez-vous avec Vidal n’est pas une réunion sur la livraison. Pourtant, il revient vite à ce qu’il connaît le mieux : la mesure reprise, la notice provisoire et le créneau de photographie encore à fixer. Il voudrait que ces faits permettent de comprendre ce qu’il veut dire.",
+        "start": 2,
+        "end": 425
+      },
+      {
+        "quote": "Rémiël note : « Préoccupation ne signifie pas à elle seule autre diagnostic. » Il vérifie avec Vidal qu’il a compris, puis lui parle de son sommeil altéré et de sa baisse d’élan. Elle recueille ces informations et organise leur évaluation au rendez-vous suivant. Il ne repart pas avec une nouvelle étiquette. Il repart avec deux difficultés reconnues comme des questions à examiner pour elles-mêmes.",
+        "start": 4051,
+        "end": 4450
+      }
+    ],
+    "canonical_concept": "Distinguer les termes diagnostiques",
+    "context": "Une précision en consultation",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour demander une clarification diagnostique"
+    ],
+    "clinical_code": "6D32",
+    "clinical_diagnosis": "Trouble pédophile"
+  },
   "posts/comprendre-et-maitriser-ses-emotions/remords-en-famille-comprendre-et-agir": {
     "character": "Nadia",
     "character_id": "nadia",
@@ -36900,6 +38344,489 @@
     "resources": [
       "3 techniques pour organiser une pause pendant le désaccord"
     ]
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/ronan-consentement-limites-conversation": {
+    "character": "Ronan",
+    "character_id": "ronan",
+    "keywords": [
+      "Trouble exhibitionniste",
+      "consentement",
+      "limites"
+    ],
+    "character_keywords": [
+      "Trouble exhibitionniste",
+      "détresse et demande de soin",
+      "consentement et responsabilité",
+      "prévention individualisée",
+      "continuité professionnelle"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "e3e73665d08bc72c07180aaf870f97f291da3b447d9a77292a77902764c16cf9",
+    "summary": "Marc a choisi une table près de la fenêtre. Ronan pose sa chemise grise sur la chaise voisine et commande un café. Depuis le rendez-vous, il cherche comment expliquer à son ami ce que signifie le diagnostic déjà établi. Marc sait qu’il suit des soins ; ils n’ont pas décidé jusqu’où irait leur conversation.\n\n[…]\n\nMarc demande où en est le catalogue. Ronan ouvre la chemise à la liste des gares, sans sortir ses notes personnelles. Il explique pourquoi la date des Saules a changé. Marc s’intéresse au travail et lui pose une question sur l’ancienne enseigne. La discussion reprend, plus ordinaire que Ronan ne l’avait imaginée. Il accepte que ce café ait cette forme et que l’aide de Marc reste limitée.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Marc a choisi une table près de la fenêtre. Ronan pose sa chemise grise sur la chaise voisine et commande un café. Depuis le rendez-vous, il cherche comment expliquer à son ami ce que signifie le diagnostic déjà établi. Marc sait qu’il suit des soins ; ils n’ont pas décidé jusqu’où irait leur conversation.",
+        "start": 2,
+        "end": 309
+      },
+      {
+        "quote": "Marc demande où en est le catalogue. Ronan ouvre la chemise à la liste des gares, sans sortir ses notes personnelles. Il explique pourquoi la date des Saules a changé. Marc s’intéresse au travail et lui pose une question sur l’ancienne enseigne. La discussion reprend, plus ordinaire que Ronan ne l’avait imaginée. Il accepte que ce café ait cette forme et que l’aide de Marc reste limitée.",
+        "start": 3784,
+        "end": 4174
+      }
+    ],
+    "canonical_concept": "Le consentement délimite le trouble",
+    "context": "pendant un café avec Marc",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour vérifier les limites d’un échange"
+    ],
+    "clinical_code": "6D30",
+    "clinical_diagnosis": "Trouble exhibitionniste"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/ronan-controle-reponse-suivi": {
+    "character": "Ronan",
+    "character_id": "ronan",
+    "keywords": [
+      "Trouble exhibitionniste",
+      "contrôle",
+      "continuité du soin"
+    ],
+    "character_keywords": [
+      "Trouble exhibitionniste",
+      "détresse et demande de soin",
+      "consentement et responsabilité",
+      "prévention individualisée",
+      "continuité professionnelle"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "1a6e4b10249f4afaadbf858c7bcdf806768d1f9cffae7841a6c6f88d582a0f93",
+    "summary": "La feuille du programme est posée devant la docteure Leclerc. Ronan explique les deux possibilités transmises par Claire : venir à la rencontre ou présenter à distance. L’échange organisé pour préparer le projet commence par sa semaine. Il a maintenu les engagements préventifs discutés avec l’équipe, demandé les informations nécessaires et laissé sa réponse professionnelle ouverte.\n\n[…]\n\nRonan conserve le rendez-vous suivant. Au bureau, il réserve un autre moment pour sa relecture et termine enfin la notice des Saules. Il inscrit « vérifiée » à côté de la date de l’enseigne, puis ouvre celle du dépôt central. La satisfaction de finir une page lui appartient. Il ne demande plus à cette page de démontrer que son trouble est réglé.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "La feuille du programme est posée devant la docteure Leclerc. Ronan explique les deux possibilités transmises par Claire : venir à la rencontre ou présenter à distance. L’échange organisé pour préparer le projet commence par sa semaine. Il a maintenu les engagements préventifs discutés avec l’équipe, demandé les informations nécessaires et laissé sa réponse professionnelle ouverte.",
+        "start": 2,
+        "end": 386
+      },
+      {
+        "quote": "Ronan conserve le rendez-vous suivant. Au bureau, il réserve un autre moment pour sa relecture et termine enfin la notice des Saules. Il inscrit « vérifiée » à côté de la date de l’enseigne, puis ouvre celle du dépôt central. La satisfaction de finir une page lui appartient. Il ne demande plus à cette page de démontrer que son trouble est réglé.",
+        "start": 3930,
+        "end": 4277
+      }
+    ],
+    "canonical_concept": "Contrôler une réponse ne suffit pas à guérir",
+    "context": "au suivi après une semaine plus stable",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "La question pratique masque la question clinique",
+      "3 techniques pour reconnaître un progrès sans interrompre seul les soins"
+    ],
+    "clinical_code": "6D30",
+    "clinical_diagnosis": "Trouble exhibitionniste"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/ronan-decision-soin-incertitudes": {
+    "character": "Ronan",
+    "character_id": "ronan",
+    "keywords": [
+      "Trouble exhibitionniste",
+      "décision partagée",
+      "incertitudes"
+    ],
+    "character_keywords": [
+      "Trouble exhibitionniste",
+      "détresse et demande de soin",
+      "consentement et responsabilité",
+      "prévention individualisée",
+      "continuité professionnelle"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "097cb9af38fce191a6f6957477304f7f32c2c5b80fc6ec0e4a001cb5b61049c3",
+    "summary": "Ronan arrive au rendez-vous avec deux feuilles. Sur la première, les questions de santé qu’il veut poser ; sur la seconde, le programme de la rencontre, encore sans réponse définitive. Il les a rangées séparément depuis qu’il a compris combien il pouvait attendre du soin une solution immédiate à son calendrier de travail.\n\n[…]\n\nRonan confirme la poursuite du suivi individualisé et vérifie le prochain point. Il range les questions de santé dans leur chemise séparée. Le programme professionnel revient sur le dessus de son agenda : il reste à préciser sa participation avant vendredi. Cette question ne disparaît pas, mais il cesse d’attendre qu’un choix de soin produise à lui seul une autorisation définitive de participer.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Ronan arrive au rendez-vous avec deux feuilles. Sur la première, les questions de santé qu’il veut poser ; sur la seconde, le programme de la rencontre, encore sans réponse définitive. Il les a rangées séparément depuis qu’il a compris combien il pouvait attendre du soin une solution immédiate à son calendrier de travail.",
+        "start": 2,
+        "end": 325
+      },
+      {
+        "quote": "Ronan confirme la poursuite du suivi individualisé et vérifie le prochain point. Il range les questions de santé dans leur chemise séparée. Le programme professionnel revient sur le dessus de son agenda : il reste à préciser sa participation avant vendredi. Cette question ne disparaît pas, mais il cesse d’attendre qu’un choix de soin produise à lui seul une autorisation définitive de participer.",
+        "start": 4120,
+        "end": 4518
+      }
+    ],
+    "canonical_concept": "Choisir un soin sans promesse totale",
+    "context": "lors d’un entretien sur les soins",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour préparer une discussion sur le soin"
+    ],
+    "clinical_code": "6D30",
+    "clinical_diagnosis": "Trouble exhibitionniste"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/ronan-detresse-trouble-exhibitionniste-demander-aide": {
+    "character": "Ronan",
+    "character_id": "ronan",
+    "keywords": [
+      "Trouble exhibitionniste",
+      "détresse",
+      "demande de soin"
+    ],
+    "character_keywords": [
+      "Trouble exhibitionniste",
+      "détresse et demande de soin",
+      "consentement et responsabilité",
+      "prévention individualisée",
+      "continuité professionnelle"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "ec20b26401f7c20fc48779aa232201ad4d85653a6203bde75b88f6a3acd16b23",
+    "summary": "La gare des Saules a changé d’enseigne en septembre, pas en août. Ronan a retrouvé la facture qui le prouve ; il lui reste à corriger deux lignes. Pourtant, depuis son arrivée, le curseur clignote au même endroit. Des pensées liées au trouble pour lequel il est suivi occupent son attention. Il relit la première phrase et ne sait plus ce qu’il voulait y déplacer.\n\n[…]\n\nLe secrétariat confirme le rendez-vous et la transmission de sa demande à l’équipe. Ronan inscrit la date dans son agenda de travail, sans y ajouter d’information de santé. Puis il prévient Claire que la correction sera reprise après cet échange. La notice des Saules retourne dans la chemise grise, toujours inachevée. Il n’a pas retrouvé sa concentration ; il a rendu sa difficulté moins invisible à ceux qui peuvent la prendre en charge.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "La gare des Saules a changé d’enseigne en septembre, pas en août. Ronan a retrouvé la facture qui le prouve ; il lui reste à corriger deux lignes. Pourtant, depuis son arrivée, le curseur clignote au même endroit. Des pensées liées au trouble pour lequel il est suivi occupent son attention. Il relit la première phrase et ne sait plus ce qu’il voulait y déplacer.",
+        "start": 2,
+        "end": 366
+      },
+      {
+        "quote": "Le secrétariat confirme le rendez-vous et la transmission de sa demande à l’équipe. Ronan inscrit la date dans son agenda de travail, sans y ajouter d’information de santé. Puis il prévient Claire que la correction sera reprise après cet échange. La notice des Saules retourne dans la chemise grise, toujours inachevée. Il n’a pas retrouvé sa concentration ; il a rendu sa difficulté moins invisible à ceux qui peuvent la prendre en charge.",
+        "start": 3978,
+        "end": 4418
+      }
+    ],
+    "canonical_concept": "La détresse conduit à demander de l’aide",
+    "context": "au bureau avant le suivi",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour préparer une demande d’aide"
+    ],
+    "clinical_code": "6D30",
+    "clinical_diagnosis": "Trouble exhibitionniste"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/ronan-evaluation-individuelle-participation": {
+    "character": "Ronan",
+    "character_id": "ronan",
+    "keywords": [
+      "Trouble exhibitionniste",
+      "évaluation individuelle",
+      "prévention"
+    ],
+    "character_keywords": [
+      "Trouble exhibitionniste",
+      "détresse et demande de soin",
+      "consentement et responsabilité",
+      "prévention individualisée",
+      "continuité professionnelle"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "d91c2c5707d3cc42c3d0b020dce58a2cbc621f530f4ca27147772a81edef50bf",
+    "summary": "L’invitation apparaît entre deux demandes de corrections. La rencontre réunira des collègues sur place et des intervenants à distance. Ronan relit la phrase sur les photographies : le catalogue pourrait servir de point de départ à une courte présentation. Il imagine déjà la première notice, celle des Saules, dont il faut encore vérifier la dernière ligne.\n\n[…]\n\nRonan demande à Claire le programme et les conditions d’une présentation à distance. Il précise qu’il souhaite participer mais ne confirme pas encore la modalité. Elle lui transmet les deux options de la rencontre hybride. Il les conserve pour l’échange organisé avec l’équipe. Marc reçoit seulement un remerciement pour avoir été clair sur sa place ; aucune responsabilité de décision ne lui est attribuée.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "L’invitation apparaît entre deux demandes de corrections. La rencontre réunira des collègues sur place et des intervenants à distance. Ronan relit la phrase sur les photographies : le catalogue pourrait servir de point de départ à une courte présentation. Il imagine déjà la première notice, celle des Saules, dont il faut encore vérifier la dernière ligne.",
+        "start": 2,
+        "end": 359
+      },
+      {
+        "quote": "Ronan demande à Claire le programme et les conditions d’une présentation à distance. Il précise qu’il souhaite participer mais ne confirme pas encore la modalité. Elle lui transmet les deux options de la rencontre hybride. Il les conserve pour l’échange organisé avec l’équipe. Marc reçoit seulement un remerciement pour avoir été clair sur sa place ; aucune responsabilité de décision ne lui est attribuée.",
+        "start": 3922,
+        "end": 4329
+      }
+    ],
+    "canonical_concept": "Le risque demande une évaluation individuelle",
+    "context": "à la réception de l’invitation",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour préparer une décision avec les bons interlocuteurs"
+    ],
+    "clinical_code": "6D30",
+    "clinical_diagnosis": "Trouble exhibitionniste"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/ronan-fluctuation-reviser-participation": {
+    "character": "Ronan",
+    "character_id": "ronan",
+    "keywords": [
+      "Trouble exhibitionniste",
+      "fluctuation",
+      "adaptation du projet"
+    ],
+    "character_keywords": [
+      "Trouble exhibitionniste",
+      "détresse et demande de soin",
+      "consentement et responsabilité",
+      "prévention individualisée",
+      "continuité professionnelle"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "d31c4d77992c3ba8de47f22683afd67aab28117fd6faddd04b573553d4fd61c2",
+    "summary": "Le programme attend toujours sa réponse. Ronan avait pensé l’envoyer jeudi matin, mais sa détresse a de nouveau augmenté depuis le dernier échange. Il le remarque dans les moments où il voudrait préparer ses phrases et se retrouve à laisser la page ouverte. Cette fois, il n’essaie pas de faire correspondre son état à la décision qu’il préférerait annoncer.\n\n[…]\n\nAvant vendredi, Claire confirme le bureau réservé pour Ronan seul et un créneau bref. Elle assurera la modération depuis la rencontre. Il transmet les cinq notices et prévoit la remise séparée du catalogue complet. Marc reste absent cette semaine, comme annoncé ; rien dans l’organisation ne repose sur sa présence. Ronan note le point de suivi et les modalités de contact à part des documents de présentation.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Le programme attend toujours sa réponse. Ronan avait pensé l’envoyer jeudi matin, mais sa détresse a de nouveau augmenté depuis le dernier échange. Il le remarque dans les moments où il voudrait préparer ses phrases et se retrouve à laisser la page ouverte. Cette fois, il n’essaie pas de faire correspondre son état à la décision qu’il préférerait annoncer.",
+        "start": 2,
+        "end": 360
+      },
+      {
+        "quote": "Avant vendredi, Claire confirme le bureau réservé pour Ronan seul et un créneau bref. Elle assurera la modération depuis la rencontre. Il transmet les cinq notices et prévoit la remise séparée du catalogue complet. Marc reste absent cette semaine, comme annoncé ; rien dans l’organisation ne repose sur sa présence. Ronan note le point de suivi et les modalités de contact à part des documents de présentation.",
+        "start": 4239,
+        "end": 4649
+      }
+    ],
+    "canonical_concept": "Une fluctuation conduit à réviser le projet",
+    "context": "avant la clôture du programme",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour réviser un projet après un changement"
+    ],
+    "clinical_code": "6D30",
+    "clinical_diagnosis": "Trouble exhibitionniste"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/ronan-frustration-appui-soin": {
+    "character": "Ronan",
+    "character_id": "ronan",
+    "keywords": [
+      "Trouble exhibitionniste",
+      "frustration",
+      "relais professionnel"
+    ],
+    "character_keywords": [
+      "Trouble exhibitionniste",
+      "détresse et demande de soin",
+      "consentement et responsabilité",
+      "prévention individualisée",
+      "continuité professionnelle"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "a4d870d14e82e8e7c5db497d611b57a92cdf8753dc6864526d90e30bb6ff909a",
+    "summary": "La fiche technique est ouverte sur la table de Ronan. Elle explique comment transmettre les images, vérifier le son et respecter le temps de parole. Il avait demandé ces informations ; les voir réunies lui donne pourtant l’impression que sa participation se rétrécit déjà. Le choix n’est pas arrêté, mais il regrette la rencontre qu’il avait imaginée.\n\n[…]\n\nRonan supprime le brouillon accusateur. Il envoie à Claire une réponse factuelle sur les documents attendus et leur format. Avec l’équipe, il a clarifié qui contacter si sa situation devient préoccupante et les alternatives en dehors des disponibilités ordinaires. Il reste déçu de devoir réfléchir à une participation plus limitée. Il ne demande plus à Claire de faire disparaître ce sentiment avant de pouvoir travailler avec elle.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "La fiche technique est ouverte sur la table de Ronan. Elle explique comment transmettre les images, vérifier le son et respecter le temps de parole. Il avait demandé ces informations ; les voir réunies lui donne pourtant l’impression que sa participation se rétrécit déjà. Le choix n’est pas arrêté, mais il regrette la rencontre qu’il avait imaginée.",
+        "start": 2,
+        "end": 353
+      },
+      {
+        "quote": "Ronan supprime le brouillon accusateur. Il envoie à Claire une réponse factuelle sur les documents attendus et leur format. Avec l’équipe, il a clarifié qui contacter si sa situation devient préoccupante et les alternatives en dehors des disponibilités ordinaires. Il reste déçu de devoir réfléchir à une participation plus limitée. Il ne demande plus à Claire de faire disparaître ce sentiment avant de pouvoir travailler avec elle.",
+        "start": 4126,
+        "end": 4559
+      }
+    ],
+    "canonical_concept": "La tension émotionnelle appelle un appui",
+    "context": "chez lui avant le rendez-vous",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour chercher un appui lorsque la tension augmente"
+    ],
+    "clinical_code": "6D30",
+    "clinical_diagnosis": "Trouble exhibitionniste"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/ronan-justification-permission-limite": {
+    "character": "Ronan",
+    "character_id": "ronan",
+    "keywords": [
+      "Trouble exhibitionniste",
+      "interprétations",
+      "responsabilité"
+    ],
+    "character_keywords": [
+      "Trouble exhibitionniste",
+      "détresse et demande de soin",
+      "consentement et responsabilité",
+      "prévention individualisée",
+      "continuité professionnelle"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "a1a4c308e30c47f5e801f18115bd89e084f83c8016488639e64b5128f4fbfe26",
+    "summary": "À la fin de la deuxième séance, Claire referme la chemise grise. Les corrections du dépôt central sont terminées ; les autres notices ont retrouvé leur place. Avant de partir, elle rappelle que la liste définitive des intervenants sera close vendredi. Ronan doit encore préciser sa modalité de participation. La rencontre se rapproche et l’équipe éditoriale doit arrêter le programme.\n\n[…]\n\nRonan écrit à Claire qu’il respectera l’échéance de vendredi. Il lui demande la fiche technique de la visioconférence pour préparer aussi cette option. Les notices corrigées restent dans la chemise. La réponse qu’il envoie est plus courte que son premier brouillon ; elle ne raconte pas ses soins et ne réclame pas de reconnaissance en échange. Sa déception n’a pas disparu, mais Claire peut maintenant poursuivre son organisation.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "À la fin de la deuxième séance, Claire referme la chemise grise. Les corrections du dépôt central sont terminées ; les autres notices ont retrouvé leur place. Avant de partir, elle rappelle que la liste définitive des intervenants sera close vendredi. Ronan doit encore préciser sa modalité de participation. La rencontre se rapproche et l’équipe éditoriale doit arrêter le programme.",
+        "start": 2,
+        "end": 386
+      },
+      {
+        "quote": "Ronan écrit à Claire qu’il respectera l’échéance de vendredi. Il lui demande la fiche technique de la visioconférence pour préparer aussi cette option. Les notices corrigées restent dans la chemise. La réponse qu’il envoie est plus courte que son premier brouillon ; elle ne raconte pas ses soins et ne réclame pas de reconnaissance en échange. Sa déception n’a pas disparu, mais Claire peut maintenant poursuivre son organisation.",
+        "start": 3924,
+        "end": 4355
+      }
+    ],
+    "canonical_concept": "Une justification ne crée pas une permission",
+    "context": "à la fin de la relecture",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour distinguer un souhait d’une permission",
+      "La fiche technique demandée"
+    ],
+    "clinical_code": "6D30",
+    "clinical_diagnosis": "Trouble exhibitionniste"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/ronan-proche-soutien-limites-disponibilite": {
+    "character": "Ronan",
+    "character_id": "ronan",
+    "keywords": [
+      "Trouble exhibitionniste",
+      "soutien choisi",
+      "limites relationnelles"
+    ],
+    "character_keywords": [
+      "Trouble exhibitionniste",
+      "détresse et demande de soin",
+      "consentement et responsabilité",
+      "prévention individualisée",
+      "continuité professionnelle"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "34c5b61020cb8a790dc3c98dde596b3e79c6c9e48ac202f484b810b63f2107ac",
+    "summary": "Marc annonce son absence au milieu d’une conversation ordinaire. Il ne sera pas là la semaine de la rencontre professionnelle. Ronan cesse de feuilleter son agenda. Il avait imaginé l’appeler avant la présentation et lui raconter ensuite comment cela s’était passé. Dans sa tête, cette présence était devenue une partie du programme, bien qu’il ne l’ait pas demandée.\n\n[…]\n\nRonan retire le nom de Marc du programme de la rencontre. Il vérifie auprès du service les modalités de contact déjà discutées, puis note la date proposée pour le café après le retour de son ami. Il ne transforme pas ce café en séance de bilan obligatoire. Marc pourra demander des nouvelles, ou parler de son propre voyage. La semaine de la rencontre ne reposera pas sur une présence qu’il n’a pas promise.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Marc annonce son absence au milieu d’une conversation ordinaire. Il ne sera pas là la semaine de la rencontre professionnelle. Ronan cesse de feuilleter son agenda. Il avait imaginé l’appeler avant la présentation et lui raconter ensuite comment cela s’était passé. Dans sa tête, cette présence était devenue une partie du programme, bien qu’il ne l’ait pas demandée.",
+        "start": 2,
+        "end": 369
+      },
+      {
+        "quote": "Ronan retire le nom de Marc du programme de la rencontre. Il vérifie auprès du service les modalités de contact déjà discutées, puis note la date proposée pour le café après le retour de son ami. Il ne transforme pas ce café en séance de bilan obligatoire. Marc pourra demander des nouvelles, ou parler de son propre voyage. La semaine de la rencontre ne reposera pas sur une présence qu’il n’a pas promise.",
+        "start": 3983,
+        "end": 4390
+      }
+    ],
+    "canonical_concept": "Un proche ne peut pas tout porter",
+    "context": "lors d’un échange avec Marc",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour garder un soutien choisi"
+    ],
+    "clinical_code": "6D30",
+    "clinical_diagnosis": "Trouble exhibitionniste"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/ronan-schema-durable-journee-calme": {
+    "character": "Ronan",
+    "character_id": "ronan",
+    "keywords": [
+      "Trouble exhibitionniste",
+      "persistance",
+      "fluctuations"
+    ],
+    "character_keywords": [
+      "Trouble exhibitionniste",
+      "détresse et demande de soin",
+      "consentement et responsabilité",
+      "prévention individualisée",
+      "continuité professionnelle"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "0875d6b9bf7234be19d258bb58b500f3c22beae04a8625c00659abc633a947de",
+    "summary": "Dans la salle d’attente, Ronan barre le mot « difficile ». Il a passé une matinée plus calme et la phrase lui semble désormais excessive. Puis il relit la note entière. Elle concerne la semaine précédente, celle de la notice laissée ouverte et de l’appel au secrétariat. Il remet le mot dans la marge, plus petit.\n\n[…]\n\nRonan laisse « difficile » à côté de sa phrase. Il ajoute : « plus calme aujourd’hui ». Les deux observations tiennent sur la même feuille. Le prochain rendez-vous reste fixé. Au bureau, il reprend la notice des Saules et retrouve le passage sur l’enseigne. Il ne la termine pas encore, mais il corrige la date sans demander à cette correction de prouver quoi que ce soit sur sa santé.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Dans la salle d’attente, Ronan barre le mot « difficile ». Il a passé une matinée plus calme et la phrase lui semble désormais excessive. Puis il relit la note entière. Elle concerne la semaine précédente, celle de la notice laissée ouverte et de l’appel au secrétariat. Il remet le mot dans la marge, plus petit.",
+        "start": 2,
+        "end": 315
+      },
+      {
+        "quote": "Ronan laisse « difficile » à côté de sa phrase. Il ajoute : « plus calme aujourd’hui ». Les deux observations tiennent sur la même feuille. Le prochain rendez-vous reste fixé. Au bureau, il reprend la notice des Saules et retrouve le passage sur l’enseigne. Il ne la termine pas encore, mais il corrige la date sans demander à cette correction de prouver quoi que ce soit sur sa santé.",
+        "start": 3864,
+        "end": 4249
+      }
+    ],
+    "canonical_concept": "Un schéma durable dépasse une mauvaise journée",
+    "context": "au rendez-vous spécialisé",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour parler d’un changement sans refaire seul son diagnostic"
+    ],
+    "clinical_code": "6D30",
+    "clinical_diagnosis": "Trouble exhibitionniste"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/ronan-sommeil-nouveau-changement-bilan": {
+    "character": "Ronan",
+    "character_id": "ronan",
+    "keywords": [
+      "Trouble exhibitionniste",
+      "sommeil",
+      "évaluation clinique"
+    ],
+    "character_keywords": [
+      "Trouble exhibitionniste",
+      "détresse et demande de soin",
+      "consentement et responsabilité",
+      "prévention individualisée",
+      "continuité professionnelle"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "991bd59ec1f0abda5302e279c0e607ff910e82cf04051ad777d52ba5ab3db24b",
+    "summary": "Le dépôt central possède deux bâtiments presque identiques. Sur la photographie, une porte latérale permet pourtant de les distinguer. Ronan le sait, mais il vient de relire trois fois la remarque de Claire sans retrouver le passage à corriger. Il pousse sa chaise, reprend la page, puis s’aperçoit qu’il consulte la mauvaise version.\n\n[…]\n\nAprès le point clinique, Ronan demande deux séances de relecture plus courtes. Claire accepte les horaires proposés et lui renvoie les pages à traiter lors de chacune. Il les range dans la chemise grise, séparées par une feuille blanche. Rien ne prouve encore que ses nuits vont s’améliorer. En revanche, le changement a été évalué et la relecture possède désormais un cadre qu’ils ont réellement accepté.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Le dépôt central possède deux bâtiments presque identiques. Sur la photographie, une porte latérale permet pourtant de les distinguer. Ronan le sait, mais il vient de relire trois fois la remarque de Claire sans retrouver le passage à corriger. Il pousse sa chaise, reprend la page, puis s’aperçoit qu’il consulte la mauvaise version.",
+        "start": 2,
+        "end": 336
+      },
+      {
+        "quote": "Après le point clinique, Ronan demande deux séances de relecture plus courtes. Claire accepte les horaires proposés et lui renvoie les pages à traiter lors de chacune. Il les range dans la chemise grise, séparées par une feuille blanche. Rien ne prouve encore que ses nuits vont s’améliorer. En revanche, le changement a été évalué et la relecture possède désormais un cadre qu’ils ont réellement accepté.",
+        "start": 4021,
+        "end": 4426
+      }
+    ],
+    "canonical_concept": "Une nouvelle difficulté mérite son propre bilan",
+    "context": "pendant la relecture du dépôt central",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "Les suites cliniques et pratiques sont distinctes",
+      "3 techniques pour présenter une nouvelle difficulté"
+    ],
+    "clinical_code": "6D30",
+    "clinical_diagnosis": "Trouble exhibitionniste"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/ronan-travail-accompli-suivi-maintenu": {
+    "character": "Ronan",
+    "character_id": "ronan",
+    "keywords": [
+      "Trouble exhibitionniste",
+      "participation adaptée",
+      "poursuite du suivi"
+    ],
+    "character_keywords": [
+      "Trouble exhibitionniste",
+      "détresse et demande de soin",
+      "consentement et responsabilité",
+      "prévention individualisée",
+      "continuité professionnelle"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "df9a443e79e8ae922a43ee835b06473d1e8ad0f8db6b552b42c922dbe3e46400",
+    "summary": "La porte du bureau réservé est fermée. Ronan est seul devant l’écran, comme convenu. Il a posé la chemise grise à gauche du clavier et sa bouteille d’eau à droite. Sur la première image, la gare des Saules porte encore l’ancienne enseigne. La légende indique maintenant septembre. Cette date l’avait retenu bien plus longtemps qu’il ne l’aurait imaginé au début du catalogue.\n\n[…]\n\nLe catalogue complet a été remis à Claire. Ronan termine son créneau et ferme la visioconférence. Il range la chemise grise, puis vérifie la date de son prochain rendez-vous, qu’il conserve. Sur une feuille de travail, il note une idée : un index des anciennes lignes faciliterait les recherches du prochain catalogue. Il n’ajoute pas ce projet au programme d’aujourd’hui. Il pourra le proposer plus tard, avec ses contraintes et les réponses des autres.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "La porte du bureau réservé est fermée. Ronan est seul devant l’écran, comme convenu. Il a posé la chemise grise à gauche du clavier et sa bouteille d’eau à droite. Sur la première image, la gare des Saules porte encore l’ancienne enseigne. La légende indique maintenant septembre. Cette date l’avait retenu bien plus longtemps qu’il ne l’aurait imaginé au début du catalogue.",
+        "start": 2,
+        "end": 377
+      },
+      {
+        "quote": "Le catalogue complet a été remis à Claire. Ronan termine son créneau et ferme la visioconférence. Il range la chemise grise, puis vérifie la date de son prochain rendez-vous, qu’il conserve. Sur une feuille de travail, il note une idée : un index des anciennes lignes faciliterait les recherches du prochain catalogue. Il n’ajoute pas ce projet au programme d’aujourd’hui. Il pourra le proposer plus tard, avec ses contraintes et les réponses des autres.",
+        "start": 4058,
+        "end": 4512
+      }
+    ],
+    "canonical_concept": "Le travail continue avec le suivi",
+    "context": "dans le bureau réservé le jour de la rencontre",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour terminer un projet sans effacer le suivi"
+    ],
+    "clinical_code": "6D30",
+    "clinical_diagnosis": "Trouble exhibitionniste"
   },
   "posts/comprendre-et-maitriser-ses-emotions/roxane-banc-vert": {
     "character": "Roxane",

@@ -1,0 +1,124 @@
+{
+  "schema_version": 1,
+  "character_id": "marceau",
+  "reviewer": "review_marceau",
+  "reviewed_on": "2026-11-09",
+  "summary": "Lecture indépendante complète des douze épisodes, du canon, du design, du dossier, de la charte et du modèle. Douze aspects distincts respectés, diagnostic déjà établi conservé, scènes et conseils non graphiques. Les soins ont lieu dans le récit, les limites relationnelles restent effectives et les proches ne deviennent pas soignants ou surveillants. Vérification complémentaire des CDDR OMS p.580–583 et des passages WFSBP 2020 sur évaluation, information/consentement et limites méthodologiques : aucune extrapolation thérapeutique ou causalité indue relevée. La pression en épisode 6 reçoit une évaluation réelle ; aucune menace immédiate n’est laissée en attente. La livraison clôt le projet cartographique, pas le suivi. Contrôle structurel réussi en complément de la lecture ; aucune correction ouverte.",
+  "files": {
+    "editorial/clinical/designs/marceau.json": "eac6b5450fa6f5147fc809417d4b3cc6fdcd4bb2d24bbdc7be29f5c656957a01",
+    "editorial/clinical/dossiers/marceau.json": "a60cd50435e0b06cfd23d30de7fa49cf21113dcd0faf9ab6b8d7d6a6053de4e4",
+    "editorial/clinical/marceau.json": "df906e9128b531ca2dcb011f8eb1e7308d3d016ca9f834a41921acfef91a6249"
+  },
+  "status": "passed",
+  "findings": [],
+  "episode_checks": [
+    {
+      "number": 1,
+      "focus": "Détresse et demande de soin",
+      "opening_quote": "Marceau agrandit les lettres de la légende, puis les réduit. Sous la pochette transparente, le nom du sentier des Aulnes disparaît presque. Il avait promis à Lucie un premier essai pour le club de randonnée. Depuis une demi-heure, il déplace pourtant le même rectangle. Ce soir, les pensées liées à son trouble le préoccupent davantage que le choix des caractères. Il referme le fichier sans avoir décidé si le trait du pont doit être plus épais.",
+      "ending_quote": "Marceau écrit à Lucie qu’il remettra la légende en fin de semaine. Elle déplace son point de relecture. Il garde l’entretien suivant dans son agenda et pose la pochette à côté de l’ordinateur. Il ne se sent pas délivré de sa préoccupation, mais il n’a plus promis de terminer ce soir.",
+      "continuity_note": "La légende demeure inachevée et le délai annoncé à Lucie prépare son envoi en épisode 2. Le métier et l’âge correspondent au canon ; la carte ne sert pas de métaphore des personnes.",
+      "clinical_note": "La détresse empiète visiblement sur la mise en page et Valette évalue réellement le changement. La définition sobre est conforme aux CDDR p.580–581 ; une pensée intrusive isolée et la détresse ne sont pas assimilées à un acte ni à un diagnostic nouveau. Les trois démarches préparent information, délai et suivi, sans protocole autonome.",
+      "relatives_note": "Lucie peut déplacer une relecture sans obtenir les motifs médicaux. La personne ayant refusé le contact ne reçoit aucun rôle de consolation ou de soin."
+    },
+    {
+      "number": 2,
+      "focus": "Consentement et limites effectives",
+      "opening_quote": "Vendredi, la légende tient enfin sous la pochette sans que les lettres se touchent. Marceau relit le message destiné à Lucie : une pièce jointe, une phrase sur la taille des caractères, rien de plus. Il éprouve pourtant le souhait de faire circuler ce travail plus loin, jusqu’à la personne qui a refusé le contact. Il aimerait que quelque chose de réussi parle pour lui. Il laisse le fichier sur son bureau et ne sollicite pas cette personne.",
+      "ending_quote": "Marceau joint la légende au message pour Lucie et l’envoie. Il ne demande à personne de transmettre autre chose. Le fichier est parti ; le souhait de renouer n’est pas devenu une permission. Il note pour son prochain entretien que respecter cette séparation lui a coûté davantage qu’il ne l’avait d’abord admis.",
+      "continuity_note": "L’envoi promis a lieu vers Lucie seule après l’entretien avec Simon. La personne absente reste non identifiée et aucun tiers ne transmet de message ; le coût intérieur de cette séparation appelle l’épisode 3.",
+      "clinical_note": "L’exclusion des pratiques consenties est exacte et reste non descriptive. Le souhait de renouer est explicitement une tension de fiction, pas un critère de 6D33. Les techniques préservent le canal accepté, interdisent la médiation détournée et renvoient le vécu au suivi.",
+      "relatives_note": "Le miroir distingue l’accusé de réception technique et le refus explicite de porter un message. Il ne demande aucune réponse ni récompense à la personne qui garde ses distances."
+    },
+    {
+      "number": 3,
+      "focus": "Honte et parole clinique",
+      "opening_quote": "La pochette reste cette fois dans le sac. Marceau n’a pas besoin de montrer la légende : Lucie l’a reçue, et la date annoncée a été tenue. Quand Simon lui demande comment s’est passée la semaine, il répond par ce résultat. Puis il raconte les lettres agrandies, les marges, la pièce jointe vérifiée avant l’envoi. Il connaît tous les détails de ce qui est terminé.",
+      "ending_quote": "Marceau reste jusqu’au terme du rendez-vous et répond aux questions de Simon. Le psychologue reprend les éléments avec l’équipe dans le cadre expliqué. De retour chez lui, Marceau ouvre le fichier pour travailler le contraste. Il a encore honte par moments ; il n’a plus besoin de présenter l’envoi réussi comme toute la vérité de sa semaine.",
+      "continuity_note": "La légende reçue est un résultat conservé. L’entretien ne se réduit plus au bilan du fichier, puis le travail du contraste reprend ; cela prépare concrètement la remarque sur les couleurs de l’épisode 4.",
+      "clinical_note": "La honte est décrite comme un vécu possible, jamais comme une mesure de dangerosité ou une cause du trouble. Simon recueille les informations et reprend les éléments avec l’équipe dans un cadre expliqué ; aucune confidentialité absolue ni innocence déduite de la parole.",
+      "relatives_note": "L’ami peut proposer une phrase de départ à adresser à Simon sans exiger le contenu intime. Lucie conserve son rôle sur le contraste et ne devient pas évaluatrice de sincérité."
+    },
+    {
+      "number": 4,
+      "focus": "Justifications et responsabilité personnelle",
+      "opening_quote": "Lucie a envoyé une remarque courte : le vert choisi se distingue mal du gris une fois la feuille glissée sous la pochette. Marceau essaie deux autres teintes puis propose une séance supplémentaire pour comparer les impressions. La réponse arrive le soir : elle ne sera pas disponible. Il relit la phrase, qui ne contient ni excuse détaillée ni proposition de remplacement.",
+      "ending_quote": "Marceau envoie les deux contrastes avec une question : « Si tu as un moment, lequel se lit le mieux sous la pochette ? » Il ne redemande pas de séance. Lucie choisit de répondre deux jours plus tard. Entre-temps, il poursuit les flèches avec les éléments déjà disponibles, sans traiter son attente comme un engagement de sa part.",
+      "continuity_note": "La remarque de couleur suit la reprise du contraste. Lucie refuse une séance ; ce refus est tenu malgré une proposition ultérieure écrite et facultative. Le dénouement annonce deux jours d’attente repris depuis leur déroulement en épisode 5, sans contradiction chronologique.",
+      "clinical_note": "La contrariété est clairement distinguée d’un critère diagnostique. La justification d’une dette relationnelle est travaillée avec Simon selon les besoins individuels. La demande technique laisse un choix réel, sans insistance ni enquête sur les motifs du refus.",
+      "relatives_note": "La phrase proposée à Lucie permet de maintenir le refus sans justifier son agenda. Le proche peut rappeler une limite et orienter vers Simon, pas arbitrer ou persuader Lucie."
+    },
+    {
+      "number": 5,
+      "focus": "Contrôle des conduites et vécu persistant",
+      "opening_quote": "Pendant les deux jours précédant le retour de Lucie, Marceau travaille sur les flèches. Il hésite entre une pointe pleine et une pointe plus fine. Il a envoyé sa question sur le contraste ; il ne relance pas la coordinatrice et ne cherche pas un autre prétexte pour la joindre. À première vue, l’attente ressemble à celle de n’importe quel fichier en cours de validation.",
+      "ending_quote": "Le retour de Lucie arrive au terme des deux jours : le contraste le plus sombre se lit mieux. Marceau choisit les flèches qui restent visibles sur cette version et ne multiplie pas les échanges. Il conserve le prochain rendez-vous. Sa question clinique a trouvé une place, même si la préoccupation n’a pas disparu avec la réponse technique.",
+      "continuity_note": "L’épisode revient sur les deux jours annoncés puis montre la réponse de Lucie et le choix des flèches. La tâche progresse, le rendez-vous reste maintenu et l’échéance de relecture approche.",
+      "clinical_note": "La distinction entre foyer du trouble et contrôle des conduites rejoint les CDDR p.582 vérifiés. Aucun trouble compulsif supplémentaire n’est attribué. La bonne conduite est reconnue sans certificat d’innocuité et les exercices excluent les défis avec autrui.",
+      "relatives_note": "Lucie répond sur les couleurs sans félicitation thérapeutique. Karim renvoie la question à Valette et n’est invité ni à tester ni à vérifier la maîtrise de Marceau."
+    },
+    {
+      "number": 6,
+      "focus": "Stress contextuel et vulnérabilité",
+      "opening_quote": "À l’écran, le nouveau contraste paraissait net. Sur l’impression d’essai, une zone grise absorbe de nouveau les indications. Marceau repose la feuille sous la pochette, puis l’en retire comme si le plastique était seul responsable. La relecture collective à distance approche. Il avait prévu d’y envoyer une version presque définitive ; il lui faut maintenant reprendre une partie du fichier.",
+      "ending_quote": "Lucie accepte le fichier provisoire pour la relecture à distance et précise que le contraste restera à corriger. Marceau confirme l’entretien avancé avec la psychiatre. Il envoie la version clairement marquée comme provisoire, puis note ses mauvaises nuits pour la consultation. Le retard est organisé ; la question de santé reste à examiner.",
+      "continuity_note": "L’essai imprimé révèle un problème malgré l’écran ; cette reprise du contraste ne nie pas le choix antérieur. Le fichier provisoire est accepté et envoyé, tandis que l’entretien avancé prépare l’évaluation du sommeil en épisode 7.",
+      "clinical_note": "Le stress reste un contexte évalué, ni cause générale ni excuse. Valette répond réellement, évalue l’état actuel et avance l’entretien. Aucune menace imminente n’est narrée : le relais n’est donc pas retardé face à une urgence établie. La technique 3 prévoit le recours urgent en cas de danger immédiat.",
+      "relatives_note": "Lucie peut accepter le provisoire sans rester connectée pour contenir la tension. Le miroir précise que l’amitié ne remplace pas un relais urgent si un danger immédiat apparaît."
+    },
+    {
+      "number": 7,
+      "focus": "Changement clinique et réévaluation",
+      "opening_quote": "Marceau arrive au rendez-vous avancé avec une petite feuille pliée. Il y a inscrit les nuits qui lui ont paru mauvaises et le moment où il a remarqué le changement. Il a failli ajouter en bas : « à cause du trouble ». Il a laissé la ligne vide. Depuis l’appel, cette explication lui paraît évidente certains matins et beaucoup moins sûre le soir.",
+      "ending_quote": "Marceau confirme le point de suivi et les modalités de contact données par l’équipe. Il écrit à Lucie qu’il lui faut une semaine supplémentaire pour reprendre le contraste, puis reçoit son accord sur l’échéance. Il ne joint pas sa feuille de sommeil. La relecture reste possible, et la question médicale dispose de sa propre suite.",
+      "continuity_note": "Le rendez-vous avancé annoncé a effectivement lieu. La feuille de sommeil, le point clinique et le délai supplémentaire pour le contraste sont distincts ; le suivi de cette question est repris en épisode 11.",
+      "clinical_note": "L’examen du contexte, de l’humeur et des produits éventuellement pris demeure ouvert. Les frontières CDDR p.582–583 ne deviennent ni diagnostic de manie/addiction ni cause neurologique inventée. Les trois démarches visent l’évaluation et sa suite, sans modification autonome de soin.",
+      "relatives_note": "Lucie n’exige pas de diagnostic pour négocier une échéance. Karim peut demander si les nuits ont été abordées avec la psychiatre, sans interpréter les symptômes ni conseiller un traitement."
+    },
+    {
+      "number": 8,
+      "focus": "Retentissement relationnel et soutien limité",
+      "opening_quote": "Karim pose son manteau sur le dossier de la chaise et prévient qu’il repartira dans une demi-heure. Marceau acquiesce. Il commence aussitôt par raconter le rendez-vous avancé, puis le prochain point clinique, puis l’échéance accordée pour les cartes. Il ne donne pas de contenu intime, mais il voit bien que sa conversation suit désormais les colonnes de son agenda.",
+      "ending_quote": "À l’heure annoncée, Karim se lève et Marceau le laisse partir sans négocier quelques minutes de plus. Il note pour Simon sa question de santé et le malaise ressenti pendant le café. Chez lui, il retrouve le dessin du pont. Lors de leur prochain échange, l’équipe lui propose une discussion médicale sur les options de soin.",
+      "continuity_note": "Les flèches choisies et l’échéance accordée restent acquises. Le café finit à l’heure annoncée ; le dessin du pont relie la scène ordinaire à la correction à venir, et l’échange médical est préparé.",
+      "clinical_note": "Le rétrécissement des conversations est une présentation individuelle explicitement limitée. Le personnage distingue déception et intention réelle de Karim. Les appuis respectent la durée offerte, la réciprocité et le relais clinique selon le besoin.",
+      "relatives_note": "Karim peut refuser une permanence et même une nouvelle rencontre. Son départ réel n’est pas suspendu à l’état de Marceau ; le miroir n’instaure aucune surveillance après le café."
+    },
+    {
+      "number": 9,
+      "focus": "Choix thérapeutique et information médicale",
+      "opening_quote": "La feuille comporte trois questions. Marceau les a écrites après avoir parlé à Simon du café avec Karim : ce que le soin pourrait changer, ce qu’il ne pourrait pas garantir, et ce qui serait à surveiller. Il les relit dans la salle d’attente. Il redoute que la discussion médicale annoncée par l’équipe se transforme en décision déjà prise, dans laquelle il ne lui resterait qu’à acquiescer.",
+      "ending_quote": "Marceau repart avec les points clarifiés et une prochaine discussion prévue. Il n’a pas reçu de promesse sur l’avenir ni de nouvelle permission relationnelle. De retour chez lui, il reprend la correction du pont et prépare le fichier pour la relecture. Sa feuille de questions reste dans le dossier destiné aux consultations.",
+      "continuity_note": "Les questions préparées après Simon trouvent une réponse effective chez Valette. Le dessin du pont reprend ensuite et le fichier approche de la relecture ; aucune prescription ni histoire judiciaire nouvelle n’est créée.",
+      "clinical_note": "La consultation distingue objectifs, limites, consentement et suivi, conformément à WFSBP 2020 sections 2,5–6 consultées. Les preuves limitées ne deviennent pas un taux d’efficacité ou une garantie individuelle. Aucun médicament ou changement de traitement n’est recommandé au lecteur.",
+      "relatives_note": "Karim peut demander si les questions ont été posées, pas choisir ou contrôler un soin. Le consentement aux soins ne devient jamais un moyen de monnayer le contact refusé."
+    },
+    {
+      "number": 10,
+      "focus": "Informations partagées et protection",
+      "opening_quote": "Lucie prépare la relecture collective à distance. Dans son message, elle demande qui pourra lui transmettre la version finale si Marceau est indisponible au moment prévu. La question tient en une ligne. Marceau ouvre pourtant son dossier de consultation avant d’ouvrir celui des cartes. Il pense qu’en expliquant tout, il évitera peut-être les malentendus sur ses délais.",
+      "ending_quote": "Marceau dépose la version corrigée dans le dossier du projet et indique à Lucie comment la retrouver s’il est indisponible. Elle confirme l’accès pour la relecture. Aucun compte rendu médical n’est joint. L’équipe a expliqué son cadre de transmission et conserve le suivi ; le club dispose des informations nécessaires à la livraison.",
+      "continuity_note": "La question de Lucie porte sur l’accès au fichier et reçoit une solution concrète par le dossier déjà partagé. La version corrigée est accessible avant la relecture de l’épisode 11 ; aucun dossier médical n’est envoyé.",
+      "clinical_note": "La psychiatre explique réellement le cadre de transmission sans règle juridique universelle. La coordination choisie est distinguée des démarches professionnelles de protection ; aucun danger nouveau n’est inventé pour justifier une divulgation. Les exercices ne conseillent pas de masquer une information de sécurité.",
+      "relatives_note": "Lucie vérifie uniquement l’accès au document. Son rôle ne comprend ni contrôle des rendez-vous ni surveillance du personnage ; si un danger concret apparaît, le miroir permet une aide adaptée sans enquête personnelle."
+    },
+    {
+      "number": 11,
+      "focus": "Fluctuations et interprétation des progrès",
+      "opening_quote": "La relecture collective à distance s’est bien passée. Le contraste est maintenant lisible et la légende ne disparaît plus sous la pochette. Il reste seulement une indication près du pont à déplacer. Marceau ferme la liste de remarques avec une satisfaction simple : les cartes ressemblent enfin à ce qu’il voulait rendre.",
+      "ending_quote": "Marceau déplace l’indication près du pont et enregistre la dernière correction. Il confirme avec l’équipe la poursuite du suivi. La relecture a servi à améliorer les cartes ; le rendez-vous a servi à examiner son évolution. Aucune de ces étapes ne devient une récompense autorisant un contact refusé.",
+      "continuity_note": "La relecture à distance a lieu après l’accès confirmé au fichier. L’indication du pont reste la dernière correction puis est déplacée. Le sommeil ouvert en épisode 7 est repris à la consultation, ce qui évite un fil clinique abandonné.",
+      "clinical_note": "Les fluctuations concordent avec les CDDR p.581 : relative stabilité et variations possibles, sans prédiction individuelle. Succès du projet, guérison et baisse du risque restent distincts ; la difficulté ultérieure n’est pas appelée récidive pénale. Le suivi est réellement maintenu et réévalué.",
+      "relatives_note": "Lucie peut commenter la correction précise et Karim encourager un compte rendu équilibré au soignant. Aucun proche ne propose un rapprochement avec la personne absente comme récompense."
+    },
+    {
+      "number": 12,
+      "focus": "Participation ordinaire et suivi durable",
+      "opening_quote": "Le message de Lucie arrive en fin d’après-midi : elle a reçu les cartes et peut utiliser les documents pour le travail du club. La légende est lisible, le contraste tient sous la pochette et l’indication du pont a été déplacée. Marceau lit les trois remarques une deuxième fois. Il se souvient du rectangle qu’il déplaçait sans fin au début, quand la première ligne ne voulait pas avancer.",
+      "ending_quote": "Les cartes sont remises et acceptées pour le travail du club. Marceau conserve la confirmation, ferme le dossier des Aulnes et garde son rendez-vous clinique. Sur la feuille neuve, il trace le contour d’une façade. Il ne sait pas encore ce qu’il fera de ce dessin. Il sait que la livraison ne lui doit ni pardon, ni rencontre, ni fin du soin.",
+      "continuity_note": "La réception finale ferme la légende, le contraste, les flèches et la correction du pont. Le rôle reste cartographique, sans validation de sécurité du sentier. Le dessin de façades ouvre un intérêt personnel tandis que le rendez-vous est conservé.",
+      "clinical_note": "L’accomplissement ordinaire ne démontre ni guérison ni réduction du risque. Les trois démarches ferment une tâche et maintiennent le suivi sans effet thérapeutique garanti de l’activité. La responsabilité et la prévention restent effectives au-delà du projet.",
+      "relatives_note": "Lucie peut clore la collaboration et Karim s’intéresser librement au dessin. La personne ayant refusé le contact reste absente, sans pardon, nouvelle ou réception exigés ; les soins demeurent professionnels."
+    }
+  ]
+}

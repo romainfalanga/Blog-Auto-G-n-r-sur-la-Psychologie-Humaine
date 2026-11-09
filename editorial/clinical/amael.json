@@ -827,6 +827,417 @@
         "choice": "La réévaluation est menée et le suivi est adapté à la situation, sans qu’un nouveau diagnostic soit annoncé dans cette histoire. Amaël fait préciser les suites et les motifs de reprise de contact. Il indique à Nora qu’il confirmera le créneau après le point prévu avec Mme Arnaud. L’échange clinique et la vérification des engagements de prévention gardent chacun leur place. Il repart sans prétendre que le premier dispense du second.",
         "next": "La réévaluation clinique est distincte de la vérification des engagements de prévention pour la rencontre."
       }
+    },
+    {
+      "number": 9,
+      "slug": "amael-responsabilites-prevention",
+      "title": "Prévention : chacun garde sa responsabilité",
+      "description": "Avant de confirmer la soirée, Amaël vérifie ses engagements avec les interlocuteurs compétents. Le club organise seulement la rencontre.",
+      "context": "au point avec Mme Arnaud",
+      "topics": [
+        "Prévention",
+        "Responsabilités",
+        "Relais prévu"
+      ],
+      "clinical_intro": "Le suivi clinique, les engagements de prévention et l’organisation d’une activité correspondent à des responsabilités distinctes. Dans un accompagnement du trouble voyeuriste, l’accord d’un club ne remplace pas les vérifications professionnelles applicables. Les dispositions sont individualisées et réévaluées si la situation change ; aucune participation autorisée dans un cadre donné ne constitue une garantie de risque nul.",
+      "opening": "Mme Arnaud a repris avec Amaël les engagements déjà convenus dans son cadre de prévention. Il lui explique que Nora peut organiser une rencontre le soir avec le club des Saules. La réévaluation clinique a eu lieu et les suites ont été précisées. Il voudrait maintenant savoir si le oui de Nora suffit pour répondre définitivement. La question semble simple quand il la prononce.\n\nMme Arnaud distingue les sujets. Nora peut se prononcer sur le calendrier et l’organisation du club ; elle ne décide pas à la place des interlocuteurs du suivi ou du cadre de prévention. Amaël écoute cette répartition, moins commode qu’une réponse unique. Les changements pertinents sont transmis dans le cadre des obligations applicables. Les dispositions nécessaires sont vérifiées, sans transformer le tournoi en démonstration de maîtrise.\n\nLe classeur bleu est resté dans son sac. Il contient les appariements et un tableau encore vide, rien qui puisse tenir lieu de suivi. Amaël demande ce qu’il devra faire si la situation change avant ou pendant la rencontre. La réponse reprend le relais prévu et la possibilité d’interrompre sa participation. Il aurait aimé ne plus y penser une fois l’horaire fixé. Il comprend pourtant que confirmer une soirée ne fige pas son état ni les conditions qui la rendent possible. Il note la répartition des responsabilités dans ses documents personnels, séparément des quatre tables.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Un accord ne remplace pas tous les autres",
+          "text": "La prévention repose sur des responsabilités et des dispositions adaptées à la situation individuelle. Elle ne se déduit ni d’une impression amicale ni du seul diagnostic, qui ne permet pas de présumer une infraction ou un statut judiciaire. Ici, Mme Arnaud suit le cadre déjà convenu avec Amaël ; aucune autre autorité ne lui est attribuée. Clarifier les rôles et transmettre les changements pertinents permet d’appliquer ce cadre. Le respect de la confidentialité ne sert pas à éviter une obligation réelle de transmission."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment la confusion des responsabilités se présente-t-elle ?",
+          "points": [
+            {
+              "heading": "Un accord pratique pris pour une validation complète",
+              "text": "Amaël voudrait que la réponse de Nora ferme toutes les questions.",
+              "examples": [
+                "Le créneau du soir lui paraît régler le problème.",
+                "Il demande si cet accord suffit pour confirmer."
+              ]
+            },
+            {
+              "heading": "Des informations adressées selon leur fonction",
+              "text": "Les interlocuteurs n’ont pas tous besoin du même contenu.",
+              "examples": [
+                "Nora traite les horaires et la répartition des tâches.",
+                "Les changements pertinents sont repris avec les responsables du suivi et de la prévention."
+              ]
+            },
+            {
+              "heading": "Une participation qui reste révisable",
+              "text": "Les dispositions dépendent de la situation effective.",
+              "examples": [
+                "Amaël demande comment passer le relais.",
+                "Il envisage une interruption même après la confirmation de l’événement."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour rendre les responsabilités explicites",
+          "points": [
+            {
+              "heading": "Clarifier qui décide quoi",
+              "objective": "Éviter qu’un accord soit utilisé hors de son périmètre.",
+              "exercise": [
+                "Nommer la question d’organisation au club.",
+                "Reprendre les questions cliniques avec le suivi.",
+                "Vérifier les engagements de prévention avec l’interlocuteur compétent."
+              ],
+              "benefit": "Les décisions ne reposent pas sur une personne à qui ce rôle n’appartient pas."
+            },
+            {
+              "heading": "Transmettre les changements nécessaires",
+              "objective": "Permettre une vérification fondée sur la situation actuelle.",
+              "exercise": [
+                "Signaler le changement pertinent au bon interlocuteur.",
+                "Respecter les modalités et obligations de transmission applicables.",
+                "Attendre la vérification nécessaire avant de confirmer son rôle."
+              ],
+              "benefit": "Le cadre peut être réexaminé sans donner tout le dossier à tout le monde."
+            },
+            {
+              "heading": "Prévoir le relais effectif",
+              "objective": "Savoir interrompre la participation si nécessaire.",
+              "exercise": [
+                "Vérifier le relais d’organisation prévu.",
+                "Faire préciser les contacts professionnels à utiliser en cas de difficulté.",
+                "En cas de crainte de mettre autrui en danger, interrompre la participation et contacter les professionnels ; en danger immédiat, recourir au service d’urgence compétent."
+              ],
+              "benefit": "La sécurité passe avant la tenue de l’événement et ne dépend pas d’un exercice de volonté."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Quatre tables, un rôle défini",
+      "ending": "Les interlocuteurs compétents confirment les dispositions individualisées applicables. Amaël accepte le créneau du soir et les seuls appariements. Nora reste responsable de l’organisation générale et du matériel. Il lui confirme cette répartition, sans lui remettre un dossier clinique ni demander un certificat de confiance. Si la situation change, les contacts et le relais prévus restent nécessaires. La date peut être inscrite ; elle ne vaut pas promesse sur l’avenir.",
+      "conclusion": "La prévention n’est ni une tâche de plus confiée au club ni une garantie obtenue une fois pour toutes. Amaël confirme une participation définie, avec des responsabilités distinctes et la possibilité de la revoir.",
+      "mirror": [
+        "Nora peut dire : « Je garde l’organisation générale, et le relais sera prêt pour les appariements. » Elle ne certifie pas l’état d’Amaël et peut maintenir les limites du club. Un proche n’a pas à remplacer les interlocuteurs compétents ; si une inquiétude de sécurité survient, l’organisation doit s’effacer devant le recours approprié."
+      ],
+      "clinical_focus": "La prévention engage des responsabilités distinctes",
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "wfsbp-2020"
+      ],
+      "continuity": {
+        "choice": "Les interlocuteurs compétents confirment les dispositions individualisées applicables. Amaël accepte le créneau du soir et les seuls appariements. Nora reste responsable de l’organisation générale et du matériel. Il lui confirme cette répartition, sans lui remettre un dossier clinique ni demander un certificat de confiance. Si la situation change, les contacts et le relais prévus restent nécessaires. La date peut être inscrite ; elle ne vaut pas promesse sur l’avenir.",
+        "next": "L’organisation peut avancer, mais Malik ne doit pas devenir le garant personnel du respect des engagements."
+      }
+    },
+    {
+      "number": 10,
+      "slug": "amael-limites-des-proches",
+      "title": "Limites des proches : un frère peut refuser de contrôler",
+      "description": "Malik refuse de devenir le contrôleur quotidien d’Amaël. Ils gardent un dîner, tandis que le suivi reste professionnel.",
+      "context": "pendant une promenade avec son frère",
+      "topics": [
+        "Limites relationnelles",
+        "Réassurance",
+        "Soutien ordinaire"
+      ],
+      "clinical_intro": "Les proches peuvent soutenir une personne vivant avec un trouble voyeuriste sans devenir responsables de son suivi ou de ses choix. Une demande répétée de contrôle peut peser sur la relation ; elle n’est pas un symptôme universel du trouble. Le proche conserve le droit de refuser ce rôle, tandis que les besoins de prévention restent adressés aux interlocuteurs compétents.",
+      "opening": "Malik marche à côté d’Amaël, les mains dans les poches. Son frère lui a proposé de prendre l’air avant le dîner. Amaël raconte que le créneau du soir est confirmé et qu’il préparera seulement les appariements. Nora garde le reste. Il décrit les quatre tables, puis le tableau qu’il a enfin rendu lisible. Malik sourit : « Tu as retiré les colonnes qui avaient des sous-colonnes ? »\n\nAmaël rit, mais revient vite à une autre demande. Il voudrait que Malik l’appelle chaque soir pour vérifier s’il a bien suivi son programme. Il présente cela comme une petite chose, quelques minutes avant de dormir. Son frère ralentit. Il peut dîner avec lui, parler des échecs ou de leur semaine. Il ne veut pas devenir son contrôleur quotidien.\n\nAmaël est déçu. Il avait imaginé que cette vérification l’aiderait à se sentir moins seul avec ses engagements. Il commence à expliquer combien le tournoi compte pour lui, puis s’entend changer de sujet pour obtenir une autre réponse. Malik n’a pas contesté la rencontre ; il a refusé un rôle. Le silence qui suit est inconfortable. Ils continuent à marcher sans trouver tout de suite une phrase légère. Amaël regarde l’heure, puis revient à la proposition du début : un dîner. Il doit encore accepter qu’un soutien puisse avoir cette taille-là.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "L’affection ne transfère pas la responsabilité",
+          "text": "Une relation peut être mise sous tension lorsqu’un soutien ordinaire devient une demande de vérification permanente. Ce mécanisme relationnel n’est pas propre au trouble voyeuriste ; il apparaît ici dans la manière dont Amaël cherche de la réassurance. Malik n’est ni clinicien ni responsable du cadre de prévention. Son refus ne supprime pas l’accès au soin et ne le rend pas responsable des choix de son frère. Accepter cette limite préserve la possibilité d’une relation qui ne se réduit pas au trouble."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment une demande déborde-t-elle le rôle du proche ?",
+          "points": [
+            {
+              "heading": "Un contrôle présenté comme un petit service",
+              "text": "Amaël minimise la responsabilité contenue dans l’appel souhaité.",
+              "examples": [
+                "Il parle de quelques minutes chaque soir.",
+                "Il demande pourtant de vérifier le respect de son programme."
+              ]
+            },
+            {
+              "heading": "Une déception qui cherche un autre argument",
+              "text": "Il tente d’abord de déplacer la discussion.",
+              "examples": [
+                "Il reparle de l’importance du tournoi.",
+                "Il espère que cette importance modifiera le refus de Malik."
+              ]
+            },
+            {
+              "heading": "Un soutien plus limité mais réel",
+              "text": "Malik propose un lien sans surveillance.",
+              "examples": [
+                "Il accepte de partager un dîner.",
+                "Il peut plaisanter sur les tableaux sans commenter le suivi clinique."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour respecter la limite d’un proche",
+          "points": [
+            {
+              "heading": "Formuler une demande ordinaire",
+              "objective": "Demander un moment partagé sans y glisser un contrôle.",
+              "exercise": [
+                "Choisir une proposition précise comme un dîner.",
+                "Dire ce qui est proposé sans obligation de compte rendu.",
+                "Laisser au proche la possibilité de refuser ou de proposer un autre moment."
+              ],
+              "benefit": "La relation peut conserver une place en dehors du suivi."
+            },
+            {
+              "heading": "Recevoir le refus",
+              "objective": "Ne pas faire porter au proche le coût d’une limite.",
+              "exercise": [
+                "Écouter le rôle qu’il refuse.",
+                "Reconnaître le refus sans argument supplémentaire.",
+                "Revenir à une proposition compatible avec cette limite, s’il le souhaite."
+              ],
+              "benefit": "La déception peut exister sans devenir une pression sur l’autre."
+            },
+            {
+              "heading": "Garder les contacts compétents",
+              "objective": "Adresser les besoins de suivi au bon endroit.",
+              "exercise": [
+                "Identifier ce qui relève d’une vérification clinique ou de prévention.",
+                "Utiliser les contacts convenus pour ce besoin.",
+                "Ne pas remplacer ces interlocuteurs par un proche disponible."
+              ],
+              "benefit": "L’affection ne devient pas une responsabilité de surveillance ni une garantie de sécurité."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Un dîner sans compte rendu",
+      "ending": "Amaël dit : « J’ai compris. Je te demandais autre chose qu’un appel. » Malik accepte le dîner, sans contrôle quotidien ni compte rendu obligatoire. Ils choisissent ce qu’ils prépareront ; Amaël annonce des crêpes, Malik demande s’il peut espérer qu’elles ne soient pas trop cuites. La plaisanterie ne règle pas la déception. Elle redonne pourtant un sujet à leur promenade. Amaël garde les contacts professionnels pour le suivi et la prévention.",
+      "conclusion": "Accepter une limite ne signifie pas renoncer à toute relation. Amaël distingue une présence fraternelle d’un contrôle quotidien et conserve les interlocuteurs compétents pour ce qui ne relève pas de son frère.",
+      "mirror": [
+        "Malik peut dire : « Je veux bien dîner avec toi ; je ne vérifierai pas ton programme chaque soir. » Il n’a pas à adoucir cette limite en prenant finalement la moitié du contrôle. Il peut aussi interrompre une conversation qui insiste. Le lien fraternel ne fait pas de lui le garant des choix d’Amaël."
+      ],
+      "clinical_focus": "Les proches ont leur propre limite",
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-hrb"
+      ],
+      "continuity": {
+        "choice": "Amaël dit : « J’ai compris. Je te demandais autre chose qu’un appel. » Malik accepte le dîner, sans contrôle quotidien ni compte rendu obligatoire. Ils choisissent ce qu’ils prépareront ; Amaël annonce des crêpes, Malik demande s’il peut espérer qu’elles ne soient pas trop cuites. La plaisanterie ne règle pas la déception. Elle redonne pourtant un sujet à leur promenade. Amaël garde les contacts professionnels pour le suivi et la prévention.",
+        "next": "Une préparation des appariements se passe bien ; cette réussite ne doit pas être interprétée comme fin des besoins."
+      }
+    },
+    {
+      "number": 11,
+      "slug": "amael-evolution-et-reussite",
+      "title": "Évolution : une répétition réussie ne prédit pas la suite",
+      "description": "Après des appariements réussis, les préoccupations augmentent. Amaël signale la variation avant la rencontre et conserve son rôle limité.",
+      "context": "entre la répétition et la rencontre",
+      "topics": [
+        "Évolution variable",
+        "Transmission du changement",
+        "Maintien du cadre"
+      ],
+      "clinical_intro": "L’évolution du trouble voyeuriste ne se mesure pas au succès d’une activité sociale. La place des préoccupations peut varier, même lorsqu’une certaine stabilité existe dans le schéma clinique. Une amélioration ou une difficulté ultérieure ne suffit pas à prédire la suite. Les variations utiles à l’évaluation doivent être transmises au suivi, sans verdict de guérison ou de fatalité.",
+      "opening": "Cette fois, le tableau tient sur une page. Amaël présente les appariements de la répétition à Nora et trouve immédiatement la ligne qu’elle lui demande. « J’ai renoncé à expliquer la page par une deuxième page. » Elle rit, puis vérifie le relais prévu. Les quatre tables sont réparties, le matériel relève d’elle, chacun sait ce qu’il aura à faire. La préparation se termine sans confusion.\n\nAmaël rentre satisfait. Le dîner avec Malik s’est tenu sans compte rendu de son programme, et cette réussite pratique ajoute une bonne chose à la semaine. Il serait tentant de les assembler pour conclure que tout est désormais derrière lui. Il ne le dit pas, mais la pensée passe. Quelques jours plus tard, les préoccupations prennent de nouveau davantage de place. Il retrouve une difficulté qui ne tient aucun compte de la netteté de son tableau.\n\nIl regarde la date de la rencontre. Annuler mentalement tout ce qui a bien fonctionné serait une façon de réagir ; garder le silence pour ne pas compliquer l’événement en serait une autre. Il reprend les modalités de contact convenues. La variation appartient au suivi, même si elle arrive après une bonne répétition. Il prépare une description brève et la transmet avant la soirée. Les appariements restent rangés dans le classeur bleu. Ils sont prêts ; ils ne répondent pas à la question clinique.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Une variation ne donne pas à elle seule un pronostic",
+          "text": "Le schéma du trouble voyeuriste peut présenter une certaine stabilité, tandis que les préoccupations et les comportements peuvent évoluer. Il n’est donc justifié ni d’annoncer une guérison sur un succès social ni de déclarer toute amélioration impossible après une difficulté. Chez Amaël, la répétition réussie renseigne sur les appariements. L’augmentation ultérieure des préoccupations renseigne sur un changement à évaluer. Le suivi reprend cette variation et vérifie les dispositions applicables ; l’événement n’est pas une épreuve de résistance."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment deux événements deviennent-ils un faux bilan ?",
+          "points": [
+            {
+              "heading": "Une réussite qui semble tout expliquer",
+              "text": "Amaël est tenté d’étendre une satisfaction à l’ensemble de son état.",
+              "examples": [
+                "Le tableau est enfin facile à lire.",
+                "Le dîner et la répétition lui paraissent former une preuve générale."
+              ]
+            },
+            {
+              "heading": "Une difficulté qui paraît tout annuler",
+              "text": "Le retour des préoccupations pourrait effacer mentalement les moments réussis.",
+              "examples": [
+                "Il retrouve une gêne après quelques jours.",
+                "Il envisage d’interpréter cette variation comme l’échec de toute sa semaine."
+              ]
+            },
+            {
+              "heading": "Un changement transmis avant l’activité",
+              "text": "Il choisit de laisser l’évaluation précéder la rencontre.",
+              "examples": [
+                "Il reprend le contact convenu.",
+                "Il décrit la variation sans attendre de voir s’il tiendra pendant la soirée."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour accueillir une variation dans le suivi",
+          "points": [
+            {
+              "heading": "Transmettre ce qui a changé",
+              "objective": "Permettre une appréciation de la situation actuelle.",
+              "exercise": [
+                "Nommer la variation observée.",
+                "Préciser quand elle est apparue et son retentissement.",
+                "Utiliser le contact professionnel prévu avant l’activité."
+              ],
+              "benefit": "Le professionnel reçoit le changement sans devoir l’inférer d’un succès ou d’un échec social."
+            },
+            {
+              "heading": "Maintenir les dispositions",
+              "objective": "Éviter de les supprimer sur la base d’une bonne journée.",
+              "exercise": [
+                "Reprendre le cadre en vigueur.",
+                "Le conserver tant qu’il n’a pas été réévalué.",
+                "Ne pas faire de la rencontre un test personnel de contrôle."
+              ],
+              "benefit": "La continuité ne dépend pas d’une impression de maîtrise."
+            },
+            {
+              "heading": "Ajuster le rôle après le point",
+              "objective": "Faire correspondre l’organisation aux réponses effectives.",
+              "exercise": [
+                "Réaliser le point prévu avec les interlocuteurs compétents.",
+                "Vérifier le rôle applicable et le relais.",
+                "Transmettre au club les éléments nécessaires à l’organisation."
+              ],
+              "benefit": "La soirée peut être maintenue, ajustée ou interrompue selon le cadre, sans pression pour sauver le projet."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Le point a lieu avant la soirée",
+      "ending": "Le point professionnel est effectivement réalisé. Les dispositions restent applicables avec le rôle limité d’Amaël ; le changement ne reste pas une note non lue. Nora confirme l’organisation et le relais des appariements. Amaël prépare seulement les quatre tables. Il n’ajoute pas une tâche pour prouver qu’il est capable de plus. La satisfaction de la répétition demeure, à côté de la difficulté signalée et du suivi qui continue.",
+      "conclusion": "Un moment réussi et une variation clinique peuvent coexister sans se contredire. Amaël garde la valeur de son travail préparatoire, transmet le changement et participe seulement dans le cadre effectivement revu.",
+      "mirror": [
+        "Nora peut vérifier : « Le relais est prévu, et tu gardes seulement les appariements. » Elle n’a pas à interpréter la qualité du tableau comme une preuve de guérison. Malik peut apprécier le dîner passé ensemble sans accepter ensuite une mission de contrôle. Les proches gardent leurs limites lorsque l’état varie."
+      ],
+      "clinical_focus": "L’évolution ne suit pas le score",
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "wfsbp-2020"
+      ],
+      "continuity": {
+        "choice": "Le point professionnel est effectivement réalisé. Les dispositions restent applicables avec le rôle limité d’Amaël ; le changement ne reste pas une note non lue. Nora confirme l’organisation et le relais des appariements. Amaël prépare seulement les quatre tables. Il n’ajoute pas une tâche pour prouver qu’il est capable de plus. La satisfaction de la répétition demeure, à côté de la difficulté signalée et du suivi qui continue.",
+        "next": "La rencontre se déroule dans ce cadre confirmé ; sa réussite sociale ne sera pas utilisée comme bilan clinique."
+      }
+    },
+    {
+      "number": 12,
+      "slug": "amael-participation-et-suivi",
+      "title": "Participation sociale : quatre tables, puis le suivi continue",
+      "description": "L’échange se termine dans le cadre convenu. Amaël range les résultats sans transformer la soirée réussie en certificat de guérison.",
+      "context": "le soir de l’échange entre clubs",
+      "topics": [
+        "Participation sociale",
+        "Rôle limité",
+        "Suivi poursuivi"
+      ],
+      "clinical_intro": "La participation sociale d’une personne vivant avec un trouble voyeuriste ne constitue ni une preuve de guérison ni une garantie pour l’avenir. Un projet peut se réaliser dans un cadre individualisé, avec les limites et les relais nécessaires. Le suivi et la prévention conservent leur place après l’événement ; personne ne doit une confiance personnelle en échange des efforts accomplis.",
+      "opening": "Nora accueille le club des Saules pendant qu’Amaël pose les appariements sur les quatre tables. Le matériel est prêt, l’horaire du soir confirmé et le relais convenu. Il n’a pas pris l’organisation générale. Quand une question concerne l’ensemble de la rencontre, il la laisse à Nora au lieu de répondre pour tout le monde. Six semaines environ ont passé depuis la fiche qu’il relisait à l’atelier.\n\nLe tableau tient toujours sur une page. Un joueur demande quelle partie commencera à la table suivante ; Amaël lui indique l’appariement. Il aime cette précision modeste. Aucun trophée disproportionné n’attend au bout de la soirée. Ce sont des parties amicales, des horaires à respecter et des résultats à noter, rien qui puisse donner une note à son état clinique.\n\nIl sait que les dispositions ont été revues avant la rencontre. Cela ne lui promet pas une soirée sans difficulté ni un avenir certain. Le relais n’est pas une décoration ajoutée au programme : il peut être utilisé. Amaël garde le rôle qui lui a été confié, sans chercher à le dépasser pour remercier le club de l’avoir laissé participer. Nora n’a pas reçu la mission de le soigner. Les joueurs sont venus jouer ; aucun ne devient le témoin obligé de ses efforts. Il regarde la feuille, vérifie le prochain appariement et laisse la rencontre suivre son cours.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Le projet et le suivi ont des résultats différents",
+          "text": "Une activité sociale renseigne sur ce qui s’est passé dans cette activité, pas sur l’ensemble d’un trouble ni sur un risque futur. Pour Amaël, achever les appariements réalise un objectif personnel qui existe au-delà du diagnostic. Le cadre individualisé et le suivi restent nécessaires selon les décisions professionnelles, même après une soirée satisfaisante. Cette distinction évite de faire des participants des garants, des soignants ou des personnes redevables de confiance. Le respect de leur intimité demeure un droit, pas une récompense à négocier."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment participer sans transformer la soirée en verdict ?",
+          "points": [
+            {
+              "heading": "Un rôle tenu dans ses limites",
+              "text": "Amaël intervient sur la tâche définie plutôt que sur toute l’organisation.",
+              "examples": [
+                "Il indique un appariement demandé.",
+                "Il laisse les questions générales à Nora."
+              ]
+            },
+            {
+              "heading": "Un relais réellement disponible",
+              "text": "La responsabilité ne repose pas sur sa volonté de tenir à tout prix.",
+              "examples": [
+                "La personne prévue connaît les appariements.",
+                "Amaël peut transmettre la feuille au lieu de rester indispensable."
+              ]
+            },
+            {
+              "heading": "Une satisfaction qui garde son objet",
+              "text": "Il peut apprécier le projet accompli sans en tirer une conclusion clinique.",
+              "examples": [
+                "Les quatre tables ont accueilli les parties prévues.",
+                "Le prochain rendez-vous reste inscrit après la rencontre."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour terminer un projet sans interrompre le suivi",
+          "points": [
+            {
+              "heading": "Tenir le rôle convenu",
+              "objective": "Garder une participation conforme au cadre vérifié.",
+              "exercise": [
+                "Reprendre la tâche qui a été confirmée.",
+                "Laisser les autres responsabilités à leurs titulaires.",
+                "Ne pas ajouter une mission pour démontrer sa valeur."
+              ],
+              "benefit": "L’activité reste proportionnée à l’organisation et aux dispositions prévues."
+            },
+            {
+              "heading": "Utiliser le relais",
+              "objective": "Permettre une transmission sans épreuve de résistance.",
+              "exercise": [
+                "Garder les appariements compréhensibles pour le relais.",
+                "Passer effectivement la feuille lorsque cela est nécessaire ou prévu.",
+                "En cas de difficulté de sécurité, interrompre la participation et recourir aux contacts compétents."
+              ],
+              "benefit": "Le projet ne repose pas sur l’obligation de rester jusqu’au bout quelles que soient les circonstances."
+            },
+            {
+              "heading": "Conserver la suite clinique",
+              "objective": "Distinguer la fin de l’événement de la continuité du soin.",
+              "exercise": [
+                "Vérifier le prochain rendez-vous personnel.",
+                "Garder les engagements de prévention applicables.",
+                "Rapporter au suivi les éléments pertinents sans utiliser les résultats comme une preuve de guérison."
+              ],
+              "benefit": "L’après-rencontre reste accompagné, quelle que soit la satisfaction ressentie."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Le classeur bleu se referme",
+      "ending": "À la fin du rôle prévu, Amaël transmet la feuille au relais pour les dernières vérifications. Quand l’échange s’achève, il remet à Nora le tableau des résultats complété. Elle le remercie pour les appariements ; il n’y entend pas un certificat sur son état. Il range le classeur bleu. Chez lui, il choisit une finale discrète à étudier pour son propre plaisir. Le prochain rendez-vous figure toujours dans son agenda personnel, et les engagements de prévention restent en place.",
+      "conclusion": "Le projet des quatre tables est terminé. Amaël peut en être satisfait tout en poursuivant son suivi et ses engagements ; cette place dans la vie ordinaire ne décide ni de son évolution clinique ni des droits des autres.",
+      "mirror": [
+        "Nora peut remercier Amaël pour les appariements, comme elle remercie les autres pour leur tâche. Elle n’a pas à annoncer qu’il est guéri ou digne d’une confiance sans limite. Malik peut lui demander s’il a apprécié une partie sans réclamer de bilan clinique. Chacun garde le droit de poser une limite, même après une soirée qui s’est bien passée."
+      ],
+      "clinical_focus": "Participer sans certificat de guérison",
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "wfsbp-2020"
+      ],
+      "continuity": {
+        "choice": "À la fin du rôle prévu, Amaël transmet la feuille au relais pour les dernières vérifications. Quand l’échange s’achève, il remet à Nora le tableau des résultats complété. Elle le remercie pour les appariements ; il n’y entend pas un certificat sur son état. Il range le classeur bleu. Chez lui, il choisit une finale discrète à étudier pour son propre plaisir. Le prochain rendez-vous figure toujours dans son agenda personnel, et les engagements de prévention restent en place.",
+        "next": "L’enjeu des quatre tables est résolu. Une vie au-delà du trouble continue avec les droits des autres et le soin, sans verdict final sur son évolution."
+      }
     }
   ]
 }

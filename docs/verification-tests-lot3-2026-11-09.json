@@ -1,0 +1,110 @@
+{
+  "date": "2026-11-09",
+  "all_passed": true,
+  "tests": {
+    "site_node": 19,
+    "journal_node": 335,
+    "journal_python": 43,
+    "pipeline_python": 13,
+    "contracts_python": 19
+  },
+  "checks": [
+    {
+      "command": [
+        "node",
+        "scripts/build_navigation.mjs",
+        "--check"
+      ],
+      "exit_code": 0
+    },
+    {
+      "command": [
+        "node",
+        "scripts/build_psychology_catalog.mjs",
+        "--check"
+      ],
+      "exit_code": 0
+    },
+    {
+      "command": [
+        "python3",
+        "scripts/build_article_intros.py",
+        "--check"
+      ],
+      "exit_code": 0
+    },
+    {
+      "command": [
+        "python3",
+        "scripts/build_examples.py",
+        "--check"
+      ],
+      "exit_code": 0
+    },
+    {
+      "command": [
+        "python3",
+        "scripts/clinical_editorial.py",
+        "check"
+      ],
+      "exit_code": 0
+    },
+    {
+      "command": [
+        "python3",
+        "scripts/check_editorial_pack.py"
+      ],
+      "exit_code": 0
+    },
+    {
+      "command": [
+        "python3",
+        "scripts/integrate_editorial_pack.py",
+        "--check"
+      ],
+      "exit_code": 0
+    },
+    {
+      "command": [
+        "python3",
+        "scripts/check_original_article_structure.py",
+        "--audit",
+        "editorial/reviews/originaux-v24.json",
+        "--require-reviewed"
+      ],
+      "exit_code": 0
+    },
+    {
+      "command": [
+        "python3",
+        "scripts/build_coverage_status.py",
+        "--check"
+      ],
+      "exit_code": 0
+    },
+    {
+      "command": [
+        "bash",
+        "-c",
+        "node --test tests/*.test.cjs"
+      ],
+      "exit_code": 0
+    },
+    {
+      "command": [
+        "npm",
+        "--prefix",
+        "journal",
+        "test"
+      ],
+      "exit_code": 0
+    },
+    {
+      "command": [
+        "/workspace/scratch/1965e015942a/tooling/hugo",
+        "--minify"
+      ],
+      "exit_code": 0
+    }
+  ]
+}

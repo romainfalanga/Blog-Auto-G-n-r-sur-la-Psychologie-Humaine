@@ -1,0 +1,440 @@
+{
+  "date": "2026-11-09",
+  "scope": "Local Hugo rendering only; remote verification follows deployment",
+  "articles": 48,
+  "ok": true,
+  "results": [
+    {
+      "character": "ronan",
+      "episode": 1,
+      "path": "public/posts/comprendre-et-maitriser-ses-emotions/ronan-detresse-trouble-exhibitionniste-demander-aide/index.html",
+      "ok": true,
+      "parts_checked": 39,
+      "missing": [],
+      "rendered_story_sha256": "eed00eeb6fdd95c1f8156113efb083ca297bd8ed47b099661eab2e1d15d09d0e"
+    },
+    {
+      "character": "ronan",
+      "episode": 2,
+      "path": "public/posts/comprendre-et-maitriser-ses-emotions/ronan-schema-durable-journee-calme/index.html",
+      "ok": true,
+      "parts_checked": 39,
+      "missing": [],
+      "rendered_story_sha256": "2e22609b6d9060665490ba80c2a888e25f62d2436a7ffca4901e331403dcd200"
+    },
+    {
+      "character": "ronan",
+      "episode": 3,
+      "path": "public/posts/comprendre-et-maitriser-ses-emotions/ronan-consentement-limites-conversation/index.html",
+      "ok": true,
+      "parts_checked": 39,
+      "missing": [],
+      "rendered_story_sha256": "7951e03cb0a098a504c20336e66de1bdfb037d64c899087b3a21b4725bec051a"
+    },
+    {
+      "character": "ronan",
+      "episode": 4,
+      "path": "public/posts/comprendre-et-maitriser-ses-emotions/ronan-evaluation-individuelle-participation/index.html",
+      "ok": true,
+      "parts_checked": 39,
+      "missing": [],
+      "rendered_story_sha256": "f7ddbac8908be8c12b42595b060efac6e5bf3f8f6190cb2b5fbc0d4d16b9a7eb"
+    },
+    {
+      "character": "ronan",
+      "episode": 5,
+      "path": "public/posts/comprendre-et-maitriser-ses-emotions/ronan-controle-reponse-suivi/index.html",
+      "ok": true,
+      "parts_checked": 39,
+      "missing": [],
+      "rendered_story_sha256": "bcc10bd098c1afa40357c0d5e092b20eb13a1901eb47f38ddc17bdb04910b8f6"
+    },
+    {
+      "character": "ronan",
+      "episode": 6,
+      "path": "public/posts/comprendre-et-maitriser-ses-emotions/ronan-sommeil-nouveau-changement-bilan/index.html",
+      "ok": true,
+      "parts_checked": 39,
+      "missing": [],
+      "rendered_story_sha256": "8c158437fa30ae73af7d8c25374ab3819270805b4f2056dcd988b9960b7af745"
+    },
+    {
+      "character": "ronan",
+      "episode": 7,
+      "path": "public/posts/comprendre-et-maitriser-ses-emotions/ronan-justification-permission-limite/index.html",
+      "ok": true,
+      "parts_checked": 39,
+      "missing": [],
+      "rendered_story_sha256": "73e57e1b94cece3f7665b4399f896785d5d12dd823937daf27ff09ca183a362c"
+    },
+    {
+      "character": "ronan",
+      "episode": 8,
+      "path": "public/posts/comprendre-et-maitriser-ses-emotions/ronan-frustration-appui-soin/index.html",
+      "ok": true,
+      "parts_checked": 39,
+      "missing": [],
+      "rendered_story_sha256": "a04bc6590d625e9ce1e40b7075b0336e36742e1d64904dd93d3432bdf5cb4c01"
+    },
+    {
+      "character": "ronan",
+      "episode": 9,
+      "path": "public/posts/comprendre-et-maitriser-ses-emotions/ronan-proche-soutien-limites-disponibilite/index.html",
+      "ok": true,
+      "parts_checked": 39,
+      "missing": [],
+      "rendered_story_sha256": "e524d0c0bc8981c9775e9984d57fa5407db9d00d88f256e60fa66f9cef65b651"
+    },
+    {
+      "character": "ronan",
+      "episode": 10,
+      "path": "public/posts/comprendre-et-maitriser-ses-emotions/ronan-decision-soin-incertitudes/index.html",
+      "ok": true,
+      "parts_checked": 39,
+      "missing": [],
+      "rendered_story_sha256": "4cc57e9e29a46d44982000db03adfe879fcef8ebb0f583ba9d9ec905d772bf1b"
+    },
+    {
+      "character": "ronan",
+      "episode": 11,
+      "path": "public/posts/comprendre-et-maitriser-ses-emotions/ronan-fluctuation-reviser-participation/index.html",
+      "ok": true,
+      "parts_checked": 39,
+      "missing": [],
+      "rendered_story_sha256": "539cf2337987a07973d8c1fda98a33d07339b9c7b09eec691cfe4e77a83e8920"
+    },
+    {
+      "character": "ronan",
+      "episode": 12,
+      "path": "public/posts/comprendre-et-maitriser-ses-emotions/ronan-travail-accompli-suivi-maintenu/index.html",
+      "ok": true,
+      "parts_checked": 39,
+      "missing": [],
+      "rendered_story_sha256": "d2681b1ee1cdeea80ad0e832a97e38c0f8e6fe0c957da0ae81ce65a97bdb1be5"
+    },
+    {
+      "character": "amael",
+      "episode": 1,
+      "path": "public/posts/comprendre-et-maitriser-ses-emotions/amael-schema-persistant-au-travail/index.html",
+      "ok": true,
+      "parts_checked": 39,
+      "missing": [],
+      "rendered_story_sha256": "af5eec48764917f2d1713ab65c84822cd5642a00bd6ccad52c9f42e394e4a8cf"
+    },
+    {
+      "character": "amael",
+      "episode": 2,
+      "path": "public/posts/comprendre-et-maitriser-ses-emotions/amael-consentement-et-vie-privee/index.html",
+      "ok": true,
+      "parts_checked": 39,
+      "missing": [],
+      "rendered_story_sha256": "6c5fa6bd52dcf20a37d6f4c655639659725e2a06a28c75946890659113acb480"
+    },
+    {
+      "character": "amael",
+      "episode": 3,
+      "path": "public/posts/comprendre-et-maitriser-ses-emotions/amael-detresse-et-consultation/index.html",
+      "ok": true,
+      "parts_checked": 39,
+      "missing": [],
+      "rendered_story_sha256": "53891b68f9e6a8f3f910d44f594993dd9f4377cde745e10b474920055ff472c8"
+    },
+    {
+      "character": "amael",
+      "episode": 4,
+      "path": "public/posts/comprendre-et-maitriser-ses-emotions/amael-pensees-et-comportements/index.html",
+      "ok": true,
+      "parts_checked": 39,
+      "missing": [],
+      "rendered_story_sha256": "4b8d948687966c43ddf4e57761bf0ebe3dd7ac594c4e66420dd6cedd5b8b218a"
+    },
+    {
+      "character": "amael",
+      "episode": 5,
+      "path": "public/posts/comprendre-et-maitriser-ses-emotions/amael-retentissement-au-travail/index.html",
+      "ok": true,
+      "parts_checked": 39,
+      "missing": [],
+      "rendered_story_sha256": "09ad61e397c5b3f7c6105da691915b52ec43ee7aea94b52d86be62bd85a0df0c"
+    },
+    {
+      "character": "amael",
+      "episode": 6,
+      "path": "public/posts/comprendre-et-maitriser-ses-emotions/amael-honte-et-parole-clinique/index.html",
+      "ok": true,
+      "parts_checked": 39,
+      "missing": [],
+      "rendered_story_sha256": "6a0062eec40ace3c1a29d317e8357c1fb0baba68285e4510a4fdee85d346424d"
+    },
+    {
+      "character": "amael",
+      "episode": 7,
+      "path": "public/posts/comprendre-et-maitriser-ses-emotions/amael-soin-individualise/index.html",
+      "ok": true,
+      "parts_checked": 39,
+      "missing": [],
+      "rendered_story_sha256": "427564f2ca897ae4cf5c55e4a55868fbf7e8c75ba9ba1e87ded4a4918bdcef3a"
+    },
+    {
+      "character": "amael",
+      "episode": 8,
+      "path": "public/posts/comprendre-et-maitriser-ses-emotions/amael-reevaluation-changement-recent/index.html",
+      "ok": true,
+      "parts_checked": 39,
+      "missing": [],
+      "rendered_story_sha256": "9200da33bbd7d0a3b67d1d7d8ffaf63f05d997d936e9838304687ea8eafa6258"
+    },
+    {
+      "character": "amael",
+      "episode": 9,
+      "path": "public/posts/comprendre-et-maitriser-ses-emotions/amael-responsabilites-prevention/index.html",
+      "ok": true,
+      "parts_checked": 39,
+      "missing": [],
+      "rendered_story_sha256": "afe2f313777d8d4325278ed5b13a24f3ddac8b83398295dbb31931403fe18594"
+    },
+    {
+      "character": "amael",
+      "episode": 10,
+      "path": "public/posts/comprendre-et-maitriser-ses-emotions/amael-limites-des-proches/index.html",
+      "ok": true,
+      "parts_checked": 39,
+      "missing": [],
+      "rendered_story_sha256": "fec5c1dc33ac819773391d6a244fcd90d6114c214e2e257a2fea856b6564fd87"
+    },
+    {
+      "character": "amael",
+      "episode": 11,
+      "path": "public/posts/comprendre-et-maitriser-ses-emotions/amael-evolution-et-reussite/index.html",
+      "ok": true,
+      "parts_checked": 39,
+      "missing": [],
+      "rendered_story_sha256": "64e1e541d1b27ff1b7548eaaa7ba4dab16944449c71786e98d9a35617821265a"
+    },
+    {
+      "character": "amael",
+      "episode": 12,
+      "path": "public/posts/comprendre-et-maitriser-ses-emotions/amael-participation-et-suivi/index.html",
+      "ok": true,
+      "parts_checked": 39,
+      "missing": [],
+      "rendered_story_sha256": "820e9ceb7b13f7011eff93ab9a1acb4b0bdd27d93b52293ec78992e6fa129c0d"
+    },
+    {
+      "character": "remiel",
+      "episode": 1,
+      "path": "public/posts/comprendre-et-maitriser-ses-emotions/remiel-diagnostic-responsabilite/index.html",
+      "ok": true,
+      "parts_checked": 39,
+      "missing": [],
+      "rendered_story_sha256": "002ddb85dc078c3f30ecf44e3128a5af607595a6e7bb458891e582bf91ad2221"
+    },
+    {
+      "character": "remiel",
+      "episode": 2,
+      "path": "public/posts/comprendre-et-maitriser-ses-emotions/remiel-attention-disponible/index.html",
+      "ok": true,
+      "parts_checked": 39,
+      "missing": [],
+      "rendered_story_sha256": "132e61f79371c7b508aa3f2f9a38355845120796c2a96405223aff538916a9d0"
+    },
+    {
+      "character": "remiel",
+      "episode": 3,
+      "path": "public/posts/comprendre-et-maitriser-ses-emotions/remiel-crainte-jugement/index.html",
+      "ok": true,
+      "parts_checked": 39,
+      "missing": [],
+      "rendered_story_sha256": "1defe1c1745c0881388b982107266419f2a8d61454b73cefd6ae73466388cdcc"
+    },
+    {
+      "character": "remiel",
+      "episode": 4,
+      "path": "public/posts/comprendre-et-maitriser-ses-emotions/remiel-acces-suivi/index.html",
+      "ok": true,
+      "parts_checked": 39,
+      "missing": [],
+      "rendered_story_sha256": "0143f9be507e4bd557fcc465787dd26bb1bbc96cfccb5a331892722112aa2cdf"
+    },
+    {
+      "character": "remiel",
+      "episode": 5,
+      "path": "public/posts/comprendre-et-maitriser-ses-emotions/remiel-planning-soins/index.html",
+      "ok": true,
+      "parts_checked": 39,
+      "missing": [],
+      "rendered_story_sha256": "cc47888451073c595fdca47a3ff264ea7029d359ce284990e277c823b7541520"
+    },
+    {
+      "character": "remiel",
+      "episode": 6,
+      "path": "public/posts/comprendre-et-maitriser-ses-emotions/remiel-termes-diagnostiques/index.html",
+      "ok": true,
+      "parts_checked": 39,
+      "missing": [],
+      "rendered_story_sha256": "73e12a5e43b107e453bf6f71dfb581d8fa62e7e531a1abd5cc469b9449cdecd7"
+    },
+    {
+      "character": "remiel",
+      "episode": 7,
+      "path": "public/posts/comprendre-et-maitriser-ses-emotions/remiel-difficultes-associees/index.html",
+      "ok": true,
+      "parts_checked": 39,
+      "missing": [],
+      "rendered_story_sha256": "7335d7d08b550d2779e67df9de2a57a87f3dace01fea34fa6bc28d9d77a57711"
+    },
+    {
+      "character": "remiel",
+      "episode": 8,
+      "path": "public/posts/comprendre-et-maitriser-ses-emotions/remiel-relais-urgent/index.html",
+      "ok": true,
+      "parts_checked": 39,
+      "missing": [],
+      "rendered_story_sha256": "adb5fa5d72cae9ae58069668c06a4c372bb1b802be297afe15f3d8b6af672101"
+    },
+    {
+      "character": "remiel",
+      "episode": 9,
+      "path": "public/posts/comprendre-et-maitriser-ses-emotions/remiel-incertitude-soins/index.html",
+      "ok": true,
+      "parts_checked": 39,
+      "missing": [],
+      "rendered_story_sha256": "ab05b89dd80bf209df625d985a0fdfa68a1fbae9cfb268e056e770fe9b5eace1"
+    },
+    {
+      "character": "remiel",
+      "episode": 10,
+      "path": "public/posts/comprendre-et-maitriser-ses-emotions/remiel-limites-soutien/index.html",
+      "ok": true,
+      "parts_checked": 39,
+      "missing": [],
+      "rendered_story_sha256": "b2b9aceeb162e7d1e20bdfbddb1eda8272ba86ed7f019cf2abac16d2d48c6061"
+    },
+    {
+      "character": "remiel",
+      "episode": 11,
+      "path": "public/posts/comprendre-et-maitriser-ses-emotions/remiel-periode-calme/index.html",
+      "ok": true,
+      "parts_checked": 39,
+      "missing": [],
+      "rendered_story_sha256": "19902a0ec2faaff79110496b27346fae888d37100daad024e7edf28e36eba2c4"
+    },
+    {
+      "character": "remiel",
+      "episode": 12,
+      "path": "public/posts/comprendre-et-maitriser-ses-emotions/remiel-continuite-apres-projet/index.html",
+      "ok": true,
+      "parts_checked": 39,
+      "missing": [],
+      "rendered_story_sha256": "c49cce9016fabd60e6fbf6ca12cb1d3ab6da4dc43964e723f25cb46ea7b630db"
+    },
+    {
+      "character": "marceau",
+      "episode": 1,
+      "path": "public/posts/comprendre-et-maitriser-ses-emotions/marceau-detresse-legende/index.html",
+      "ok": true,
+      "parts_checked": 39,
+      "missing": [],
+      "rendered_story_sha256": "d45ac5b8174f9b5c228840d58587cc4d458cd4b57d7d06fccd7316cf4a426ae8"
+    },
+    {
+      "character": "marceau",
+      "episode": 2,
+      "path": "public/posts/comprendre-et-maitriser-ses-emotions/marceau-consentement-limites/index.html",
+      "ok": true,
+      "parts_checked": 39,
+      "missing": [],
+      "rendered_story_sha256": "08916162f7ab5f2a471b4dc484fa97bef57651e795fb2cc9fc9a83064c233320"
+    },
+    {
+      "character": "marceau",
+      "episode": 3,
+      "path": "public/posts/comprendre-et-maitriser-ses-emotions/marceau-honte-parole-clinique/index.html",
+      "ok": true,
+      "parts_checked": 39,
+      "missing": [],
+      "rendered_story_sha256": "b1033e5283e5aaf870ea5d2603272005bf5b3452b1fe7023f1d39a7dcea55228"
+    },
+    {
+      "character": "marceau",
+      "episode": 4,
+      "path": "public/posts/comprendre-et-maitriser-ses-emotions/marceau-justifications-responsabilite/index.html",
+      "ok": true,
+      "parts_checked": 39,
+      "missing": [],
+      "rendered_story_sha256": "e483f8267788d074e36cc7ac61812ee68f163e9a9fac71f8e9728d4237eab8ac"
+    },
+    {
+      "character": "marceau",
+      "episode": 5,
+      "path": "public/posts/comprendre-et-maitriser-ses-emotions/marceau-controle-vecu-persistant/index.html",
+      "ok": true,
+      "parts_checked": 39,
+      "missing": [],
+      "rendered_story_sha256": "0fc7e92b9b167a6413def1b4d4785ab0a5c11b228babde43c9b692a2f5b5b40d"
+    },
+    {
+      "character": "marceau",
+      "episode": 6,
+      "path": "public/posts/comprendre-et-maitriser-ses-emotions/marceau-stress-calendrier/index.html",
+      "ok": true,
+      "parts_checked": 39,
+      "missing": [],
+      "rendered_story_sha256": "881627af8c2eba4bdc2d2caf8d3b96d4c50535b1829f7cbcb14b6d2335c29fcc"
+    },
+    {
+      "character": "marceau",
+      "episode": 7,
+      "path": "public/posts/comprendre-et-maitriser-ses-emotions/marceau-changement-reevaluation/index.html",
+      "ok": true,
+      "parts_checked": 39,
+      "missing": [],
+      "rendered_story_sha256": "8bb3647be05ede89a097c6429d58e4e8e27ece29c7d3a3d56a845cb1654b5351"
+    },
+    {
+      "character": "marceau",
+      "episode": 8,
+      "path": "public/posts/comprendre-et-maitriser-ses-emotions/marceau-soutien-limites/index.html",
+      "ok": true,
+      "parts_checked": 39,
+      "missing": [],
+      "rendered_story_sha256": "f390181d5856e96ea82dd9579c2c124aebb431c89b8416b54d3e6a43237d1368"
+    },
+    {
+      "character": "marceau",
+      "episode": 9,
+      "path": "public/posts/comprendre-et-maitriser-ses-emotions/marceau-choix-therapeutique/index.html",
+      "ok": true,
+      "parts_checked": 39,
+      "missing": [],
+      "rendered_story_sha256": "621456d86c5fa774ab922d88ec41215aff203a7515caea6d9922ebc6ca2d55ab"
+    },
+    {
+      "character": "marceau",
+      "episode": 10,
+      "path": "public/posts/comprendre-et-maitriser-ses-emotions/marceau-informations-protection/index.html",
+      "ok": true,
+      "parts_checked": 39,
+      "missing": [],
+      "rendered_story_sha256": "13339d4eb3abb9a906f15a16db3b8f054ae9b6a2ea4e16cc1b85f449ed2904ec"
+    },
+    {
+      "character": "marceau",
+      "episode": 11,
+      "path": "public/posts/comprendre-et-maitriser-ses-emotions/marceau-fluctuations-progres/index.html",
+      "ok": true,
+      "parts_checked": 39,
+      "missing": [],
+      "rendered_story_sha256": "015b96d2435481c9d0058c4d63363fe7f9773f63db6d8cbf0e04dc37635674bc"
+    },
+    {
+      "character": "marceau",
+      "episode": 12,
+      "path": "public/posts/comprendre-et-maitriser-ses-emotions/marceau-participation-suivi-durable/index.html",
+      "ok": true,
+      "parts_checked": 39,
+      "missing": [],
+      "rendered_story_sha256": "6a8228af11cd379730232c5deefaae5429d124f6ac22bfa04630850b51c11b19"
+    }
+  ]
+}

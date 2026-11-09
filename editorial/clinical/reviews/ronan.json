@@ -1,0 +1,124 @@
+{
+  "schema_version": 1,
+  "character_id": "ronan",
+  "reviewer": "review_ronan",
+  "reviewed_on": "2026-11-09",
+  "status": "passed",
+  "summary": "Lecture indépendante complète du canon, de la charte, du modèle, du dossier, du design et des douze épisodes. Les douze aspects couvrent des manifestations, frontières et enjeux de soins distincts, sans prétendre constituer douze symptômes. CDDR OMS pages 572–574 relues dans le texte local ; WFSBP 2020 sections 6.1.2 et 6.2 relues sur le PDF officiel pour les limites et le périmètre psychothérapeutique. Aucun acte, scénario graphique, antécédent pénal ou comorbidité n’est ajouté. Consentement, confidentialité limitée par la sécurité, recours professionnel et urgences sont préservés. Les trois techniques par épisode restent des appuis de communication ou organisation, sans efficacité thérapeutique revendiquée. Les scènes professionnelles ne diagnostiquent personne et la réussite finale ne prouve pas une guérison. Aucune correction ouverte ; cette acceptation éditoriale ne constitue ni expertise clinique individuelle ni preuve de déploiement.",
+  "files": {
+    "editorial/clinical/designs/ronan.json": "0cba2e51f093c3ef044176ad3ce3916b07d68badd6cadba0dda9a665673700d0",
+    "editorial/clinical/dossiers/ronan.json": "243928a024942a596852433bc812cd56cc11b20701a47810ecd35b12f5927f87",
+    "editorial/clinical/ronan.json": "22c482c6191735a01ec5541851ffabe7e5eeeca43b54e48a6a6225ebaedffbf2"
+  },
+  "findings": [],
+  "episode_checks": [
+    {
+      "number": 1,
+      "focus": "La détresse conduit à demander de l’aide",
+      "opening_quote": "La gare des Saules a changé d’enseigne en septembre, pas en août. Ronan a retrouvé la facture qui le prouve ; il lui reste à corriger deux lignes. Pourtant, depuis son arrivée, le curseur clignote au même endroit. Des pensées liées au trouble pour lequel il est suivi occupent son attention. Il relit la première phrase et ne sait plus ce qu’il voulait y déplacer.",
+      "ending_quote": "Le secrétariat confirme le rendez-vous et la transmission de sa demande à l’équipe. Ronan inscrit la date dans son agenda de travail, sans y ajouter d’information de santé. Puis il prévient Claire que la correction sera reprise après cet échange. La notice des Saules retourne dans la chemise grise, toujours inachevée. Il n’a pas retrouvé sa concentration ; il a rendu sa difficulté moins invisible à ceux qui peuvent la prendre en charge.",
+      "continuity_note": "La facture des Saules et les deux lignes immobilisées installent le métier, tandis que l’appel effectivement passé prépare le rendez-vous du deuxième épisode. La notice reste inachevée sans résolution artificielle.",
+      "clinical_note": "La détresse retentit sur le travail sans acte présumé. La définition clinique non scénarisée est conforme au CDDR ; le schéma évalué est distingué d’une pensée isolée. Les trois appuis préparent communication, confidentialité et délai sans promettre un traitement.",
+      "relatives_note": "Claire reçoit une estimation plutôt que le diagnostic ; la phrase proposée porte sur la tâche visible. Le proche peut encourager le contact avec l’équipe et garde ses limites."
+    },
+    {
+      "number": 2,
+      "focus": "Un schéma durable dépasse une mauvaise journée",
+      "opening_quote": "Dans la salle d’attente, Ronan barre le mot « difficile ». Il a passé une matinée plus calme et la phrase lui semble désormais excessive. Puis il relit la note entière. Elle concerne la semaine précédente, celle de la notice laissée ouverte et de l’appel au secrétariat. Il remet le mot dans la marge, plus petit.",
+      "ending_quote": "Ronan laisse « difficile » à côté de sa phrase. Il ajoute : « plus calme aujourd’hui ». Les deux observations tiennent sur la même feuille. Le prochain rendez-vous reste fixé. Au bureau, il reprend la notice des Saules et retrouve le passage sur l’enseigne. Il ne la termine pas encore, mais il corrige la date sans demander à cette correction de prouver quoi que ce soit sur sa santé.",
+      "continuity_note": "Le mot barré puis réinscrit reprend exactement la semaine de l’appel ; la correction de date avance sans terminer prématurément la notice. Le rendez-vous demeure fixé.",
+      "clinical_note": "L’accalmie ne devient ni négation du diagnostic ni preuve de guérison. La distinction entre peur intrusive et schéma d’excitation évite une assimilation au TOC. Notes datées et reformulation restent des outils d’entretien sans seuil d’autodiagnostic.",
+      "relatives_note": "Marc peut accueillir la meilleure journée sans confirmer ou contester le diagnostic ; le texte lui évite aussi d’exiger une souffrance constante pour croire Ronan."
+    },
+    {
+      "number": 3,
+      "focus": "Le consentement délimite le trouble",
+      "opening_quote": "Marc a choisi une table près de la fenêtre. Ronan pose sa chemise grise sur la chaise voisine et commande un café. Depuis le rendez-vous, il cherche comment expliquer à son ami ce que signifie le diagnostic déjà établi. Marc sait qu’il suit des soins ; ils n’ont pas décidé jusqu’où irait leur conversation.",
+      "ending_quote": "Marc demande où en est le catalogue. Ronan ouvre la chemise à la liste des gares, sans sortir ses notes personnelles. Il explique pourquoi la date des Saules a changé. Marc s’intéresse au travail et lui pose une question sur l’ancienne enseigne. La discussion reprend, plus ordinaire que Ronan ne l’avait imaginée. Il accepte que ce café ait cette forme et que l’aide de Marc reste limitée.",
+      "continuity_note": "Le café situe l’accord initial de Marc, son interruption et la nouvelle demande limitée. Le retour à la liste des gares conserve la relation et le catalogue, sans réintroduire les détails refusés.",
+      "clinical_note": "La frontière avec pratiques consenties et nudité culturellement admise concorde avec le CDDR. L’article distingue explicitement consentement sexuel, conversation et autorisation photographique : la scène ordinaire n’est pas utilisée comme critère clinique.",
+      "relatives_note": "Le refus des détails est immédiatement applicable, sans compensation exigée ; Marc peut terminer le café et ne promet ni surveillance ni secret absolu face au danger."
+    },
+    {
+      "number": 4,
+      "focus": "Le risque demande une évaluation individuelle",
+      "opening_quote": "L’invitation apparaît entre deux demandes de corrections. La rencontre réunira des collègues sur place et des intervenants à distance. Ronan relit la phrase sur les photographies : le catalogue pourrait servir de point de départ à une courte présentation. Il imagine déjà la première notice, celle des Saules, dont il faut encore vérifier la dernière ligne.",
+      "ending_quote": "Ronan demande à Claire le programme et les conditions d’une présentation à distance. Il précise qu’il souhaite participer mais ne confirme pas encore la modalité. Elle lui transmet les deux options de la rencontre hybride. Il les conserve pour l’échange organisé avec l’équipe. Marc reçoit seulement un remerciement pour avoir été clair sur sa place ; aucune responsabilité de décision ne lui est attribuée.",
+      "continuity_note": "L’invitation hybride arrive après le café. Le brouillon de confirmation devient réponse provisoire, un échange clinique est organisé, puis Claire transmet effectivement les deux options reprises au cinquième épisode.",
+      "clinical_note": "Le diagnostic seul ne certifie pas la sécurité et ne déduit aucun passé pénal. Les appuis recueillent le contexte, maintiennent plusieurs options et permettent de suspendre. Le médecin ne devient pas garant de risque nul.",
+      "relatives_note": "Marc refuse la certification demandée et peut écouter l’enjeu du projet. Le miroir prévoit interruption et aide immédiate si la sécurité ne tient plus, puis urgences locales en danger immédiat."
+    },
+    {
+      "number": 5,
+      "focus": "Contrôler une réponse ne suffit pas à guérir",
+      "opening_quote": "La feuille du programme est posée devant la docteure Leclerc. Ronan explique les deux possibilités transmises par Claire : venir à la rencontre ou présenter à distance. L’échange organisé pour préparer le projet commence par sa semaine. Il a maintenu les engagements préventifs discutés avec l’équipe, demandé les informations nécessaires et laissé sa réponse professionnelle ouverte.",
+      "ending_quote": "Ronan conserve le rendez-vous suivant. Au bureau, il réserve un autre moment pour sa relecture et termine enfin la notice des Saules. Il inscrit « vérifiée » à côté de la date de l’enseigne, puis ouvre celle du dépôt central. La satisfaction de finir une page lui appartient. Il ne demande plus à cette page de démontrer que son trouble est réglé.",
+      "continuity_note": "Le programme apporté correspond aux deux options précédentes. Le conflit avec la relecture est résolu en changeant son horaire ; les Saules sont enfin terminés avant le passage au dépôt central.",
+      "clinical_note": "Le contrôle de certaines réponses n’exclut pas 6D30 et ne suffit pas à ajouter le trouble du comportement sexuel compulsif, conformément à la frontière CDDR. Les réussites d’organisation ne sont pas présentées comme tests de contrôle sexuel ; aucun exercice de résistance.",
+      "relatives_note": "Marc reconnaît des décisions précises sans en interpréter la portée médicale et peut refuser les comptes rendus répétés. Cette limite empêche une évaluation amicale permanente."
+    },
+    {
+      "number": 6,
+      "focus": "Une nouvelle difficulté mérite son propre bilan",
+      "opening_quote": "Le dépôt central possède deux bâtiments presque identiques. Sur la photographie, une porte latérale permet pourtant de les distinguer. Ronan le sait, mais il vient de relire trois fois la remarque de Claire sans retrouver le passage à corriger. Il pousse sa chaise, reprend la page, puis s’aperçoit qu’il consulte la mauvaise version.",
+      "ending_quote": "Après le point clinique, Ronan demande deux séances de relecture plus courtes. Claire accepte les horaires proposés et lui renvoie les pages à traiter lors de chacune. Il les range dans la chemise grise, séparées par une feuille blanche. Rien ne prouve encore que ses nuits vont s’améliorer. En revanche, le changement a été évalué et la relecture possède désormais un cadre qu’ils ont réellement accepté.",
+      "continuity_note": "La mauvaise version du dépôt central donne un retentissement visible aux nuits difficiles. L’évaluation a lieu avant la négociation des deux séances de relecture, qui se retrouvent à l’épisode suivant.",
+      "clinical_note": "Le sommeil nouveau est décrit sans causalité présumée ni diagnostic associé ajouté. Les trois appuis séparent description, hypothèse et adaptation de tâche ; la nouvelle organisation ne revendique pas d’efficacité thérapeutique.",
+      "relatives_note": "La question de Claire sur les pages est directement utile à la relecture. Marc peut encourager la consultation sans expliquer lui-même la fatigue ni surveiller les nuits."
+    },
+    {
+      "number": 7,
+      "focus": "Une justification ne crée pas une permission",
+      "opening_quote": "À la fin de la deuxième séance, Claire referme la chemise grise. Les corrections du dépôt central sont terminées ; les autres notices ont retrouvé leur place. Avant de partir, elle rappelle que la liste définitive des intervenants sera close vendredi. Ronan doit encore préciser sa modalité de participation. La rencontre se rapproche et l’équipe éditoriale doit arrêter le programme.",
+      "ending_quote": "Ronan écrit à Claire qu’il respectera l’échéance de vendredi. Il lui demande la fiche technique de la visioconférence pour préparer aussi cette option. Les notices corrigées restent dans la chemise. La réponse qu’il envoie est plus courte que son premier brouillon ; elle ne raconte pas ses soins et ne réclame pas de reconnaissance en échange. Sa déception n’a pas disparu, mais Claire peut maintenant poursuivre son organisation.",
+      "continuity_note": "La deuxième séance clôt les corrections et installe vendredi comme échéance. Le message non envoyé laisse place au suivi puis à une confirmation factuelle ; la fiche technique prépare l’épisode huit.",
+      "clinical_note": "La dette supposée envers Claire rend la rationalisation perceptible. Le texte la situe comme raisonnement fictif particulier et distingue explicitement délai professionnel et violation du consentement sexuel. Les demandes négociables n’imposent aucun résultat au proche.",
+      "relatives_note": "Claire peut tenir vendredi sans obtenir l’adhésion émotionnelle de Ronan. Marc ne négocie pas à sa place et ne garantit pas qu’il supportera la réponse."
+    },
+    {
+      "number": 8,
+      "focus": "La tension émotionnelle appelle un appui",
+      "opening_quote": "La fiche technique est ouverte sur la table de Ronan. Elle explique comment transmettre les images, vérifier le son et respecter le temps de parole. Il avait demandé ces informations ; les voir réunies lui donne pourtant l’impression que sa participation se rétrécit déjà. Le choix n’est pas arrêté, mais il regrette la rencontre qu’il avait imaginée.",
+      "ending_quote": "Ronan supprime le brouillon accusateur. Il envoie à Claire une réponse factuelle sur les documents attendus et leur format. Avec l’équipe, il a clarifié qui contacter si sa situation devient préoccupante et les alternatives en dehors des disponibilités ordinaires. Il reste déçu de devoir réfléchir à une participation plus limitée. Il ne demande plus à Claire de faire disparaître ce sentiment avant de pouvoir travailler avec elle.",
+      "continuity_note": "La fiche demandée devient le déclencheur narratif de la déception, sans modalité encore fixée. Le brouillon accusateur est supprimé ; la réponse finale concerne les documents et les alternatives de contact sont clarifiées.",
+      "clinical_note": "L’émotion et la réponse pressante distinguent cet épisode du raisonnement de dette précédent. La frustration n’est ni cause du trouble ni excuse ; pause de communication et relais ne sont pas vendus comme sécurité assurée. L’aide immédiate est explicitée.",
+      "relatives_note": "Claire peut arrêter la discussion et limiter son rôle aux documents ; Marc peut limiter son écoute. Aucune obligation d’apaiser et recours aux urgences locales si danger immédiat."
+    },
+    {
+      "number": 9,
+      "focus": "Un proche ne peut pas tout porter",
+      "opening_quote": "Marc annonce son absence au milieu d’une conversation ordinaire. Il ne sera pas là la semaine de la rencontre professionnelle. Ronan cesse de feuilleter son agenda. Il avait imaginé l’appeler avant la présentation et lui raconter ensuite comment cela s’était passé. Dans sa tête, cette présence était devenue une partie du programme, bien qu’il ne l’ait pas demandée.",
+      "ending_quote": "Ronan retire le nom de Marc du programme de la rencontre. Il vérifie auprès du service les modalités de contact déjà discutées, puis note la date proposée pour le café après le retour de son ami. Il ne transforme pas ce café en séance de bilan obligatoire. Marc pourra demander des nouvelles, ou parler de son propre voyage. La semaine de la rencontre ne reposera pas sur une présence qu’il n’a pas promise.",
+      "continuity_note": "L’absence de Marc révèle son inscription sans accord dans l’agenda. Le retrait effectif du nom et le café après son retour assurent la continuité avec sa non-présence aux épisodes onze et douze.",
+      "clinical_note": "Le retentissement relationnel est une attente implicite, distincte du consentement aux détails de l’épisode trois. Les contacts professionnels sont vérifiés sans déléguer le soin à l’ami ; le café ne devient pas bilan imposé.",
+      "relatives_note": "Marc peut maintenir son absence, refuser de superviser et ne pas contrôler chaque appel. La limite de confidentialité en cas de danger reste nette et ne lui impose pas une permanence."
+    },
+    {
+      "number": 10,
+      "focus": "Choisir un soin sans promesse totale",
+      "opening_quote": "Ronan arrive au rendez-vous avec deux feuilles. Sur la première, les questions de santé qu’il veut poser ; sur la seconde, le programme de la rencontre, encore sans réponse définitive. Il les a rangées séparément depuis qu’il a compris combien il pouvait attendre du soin une solution immédiate à son calendrier de travail.",
+      "ending_quote": "Ronan confirme la poursuite du suivi individualisé et vérifie le prochain point. Il range les questions de santé dans leur chemise séparée. Le programme professionnel revient sur le dessus de son agenda : il reste à préciser sa participation avant vendredi. Cette question ne disparaît pas, mais il cesse d’attendre qu’un choix de soin produise à lui seul une autorisation définitive de participer.",
+      "continuity_note": "Les deux feuilles matérialisent des décisions désormais séparées ; la réponse professionnelle reste ouverte avant vendredi, tandis que le suivi est confirmé. Aucun choix thérapeutique inventé ne rompt le canon.",
+      "clinical_note": "Bénéfices, limites, préférences et réévaluation sont exposés sans protocole. La prudence sur échantillons réduits, populations souvent judiciaires et études non contrôlées correspond au §6.1.2 WFSBP relu ; aucune garantie ni transposition chiffrée à Ronan.",
+      "relatives_note": "La question proposée à Marc concerne la possibilité de poser ses propres questions ; ni sélection du soin ni promesse de réussite. Claire reste destinataire de la seule décision de travail."
+    },
+    {
+      "number": 11,
+      "focus": "Une fluctuation conduit à réviser le projet",
+      "opening_quote": "Le programme attend toujours sa réponse. Ronan avait pensé l’envoyer jeudi matin, mais sa détresse a de nouveau augmenté depuis le dernier échange. Il le remarque dans les moments où il voudrait préparer ses phrases et se retrouve à laisser la page ouverte. Cette fois, il n’essaie pas de faire correspondre son état à la décision qu’il préférerait annoncer.",
+      "ending_quote": "Avant vendredi, Claire confirme le bureau réservé pour Ronan seul et un créneau bref. Elle assurera la modération depuis la rencontre. Il transmet les cinq notices et prévoit la remise séparée du catalogue complet. Marc reste absent cette semaine, comme annoncé ; rien dans l’organisation ne repose sur sa présence. Ronan note le point de suivi et les modalités de contact à part des documents de présentation.",
+      "continuity_note": "La hausse de détresse est transmise avant la confirmation. Claire confirme avant vendredi bureau pour Ronan seul, cinq notices et sa modération ; le catalogue complet est séparé et l’absence de Marc demeure effective.",
+      "clinical_note": "La fluctuation appelle réévaluation sans acte inventé. Le distanciel est un arrangement fictif, pas traitement ou certificat de sécurité. Les techniques et l’explication maintiennent suspension et aide immédiate, avec urgences si danger immédiat.",
+      "relatives_note": "La confirmation de Claire porte strictement sur le bureau et la présentation. Elle n’évalue pas médicalement Ronan et peut accepter la suspension ; Marc n’est pas rappelé comme dernier recours."
+    },
+    {
+      "number": 12,
+      "focus": "Le travail continue avec le suivi",
+      "opening_quote": "La porte du bureau réservé est fermée. Ronan est seul devant l’écran, comme convenu. Il a posé la chemise grise à gauche du clavier et sa bouteille d’eau à droite. Sur la première image, la gare des Saules porte encore l’ancienne enseigne. La légende indique maintenant septembre. Cette date l’avait retenu bien plus longtemps qu’il ne l’aurait imaginé au début du catalogue.",
+      "ending_quote": "Le catalogue complet a été remis à Claire. Ronan termine son créneau et ferme la visioconférence. Il range la chemise grise, puis vérifie la date de son prochain rendez-vous, qu’il conserve. Sur une feuille de travail, il note une idée : un index des anciennes lignes faciliterait les recherches du prochain catalogue. Il n’ajoute pas ce projet au programme d’aujourd’hui. Il pourra le proposer plus tard, avec ses contraintes et les réponses des autres.",
+      "continuity_note": "Le bureau seul, les cinq notices et les Saules en premier respectent la décision précédente. Claire reprend une question hors créneau ; catalogue remis, visioconférence fermée et idée d’index achèvent le projet sans effacer le suivi.",
+      "clinical_note": "Le fonctionnement professionnel accompli reste distinct de l’évolution clinique. Les trois appuis portent sur rôle, clôture et rendez-vous ; aucune réussite d’événement ne prouve guérison ou risque nul et aucune obligation générale d’employeur n’est inventée.",
+      "relatives_note": "Claire remercie pour des légendes précises sans commenter la santé. Le futur échange avec Marc reste facultatif et ne sert pas de contrôle rétrospectif ; tous conservent leur périmètre."
+    }
+  ]
+}

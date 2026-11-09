@@ -443,6 +443,18 @@
     ],
     "source": "repères des parcours cliniques de fiction"
   },
+  "amaël": {
+    "id": "amael",
+    "name": "Amaël",
+    "keywords": [
+      "Trouble voyeuriste",
+      "Respect du consentement",
+      "Détresse et soin",
+      "Engagements de prévention",
+      "Vie sociale"
+    ],
+    "source": "repères des parcours cliniques de fiction"
+  },
   "anatole": {
     "id": "anatole",
     "name": "Anatole",
@@ -1019,6 +1031,18 @@
     ],
     "source": "repères des parcours cliniques de fiction"
   },
+  "marceau": {
+    "id": "marceau",
+    "name": "Marceau",
+    "keywords": [
+      "Trouble du sadisme sexuel coercitif",
+      "Consentement et limites",
+      "Détresse et parole clinique",
+      "Responsabilité et prévention",
+      "Évolution et suivi spécialisé"
+    ],
+    "source": "repères des parcours cliniques de fiction"
+  },
   "martin": {
     "id": "martin",
     "name": "Martin",
@@ -1211,6 +1235,18 @@
     ],
     "source": "repères des parcours cliniques de fiction"
   },
+  "rémiël": {
+    "id": "remiel",
+    "name": "Rémiël",
+    "keywords": [
+      "Trouble pédophile",
+      "Détresse et préoccupation",
+      "Recours aux soins",
+      "Protection et responsabilité",
+      "Continuité du suivi"
+    ],
+    "source": "repères des parcours cliniques de fiction"
+  },
   "renaud": {
     "id": "renaud",
     "name": "Renaud",
@@ -1220,6 +1256,18 @@
       "Attente de traitement de faveur",
       "Honte face à la critique",
       "Écoute et responsabilité"
+    ],
+    "source": "repères des parcours cliniques de fiction"
+  },
+  "ronan": {
+    "id": "ronan",
+    "name": "Ronan",
+    "keywords": [
+      "Trouble exhibitionniste",
+      "détresse et demande de soin",
+      "consentement et responsabilité",
+      "prévention individualisée",
+      "continuité professionnelle"
     ],
     "source": "repères des parcours cliniques de fiction"
   },

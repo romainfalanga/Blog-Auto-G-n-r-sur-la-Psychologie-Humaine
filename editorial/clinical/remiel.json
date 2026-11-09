@@ -832,6 +832,419 @@
         "choice": "Rémiël est évalué par une équipe et son service spécialisé reçoit le relais clinique. Le travail reste suspendu ; Marc apprend uniquement que la livraison est reportée et ne devient pas responsable de la surveillance.",
         "next": "L'épisode suivant revient après cette évaluation, dans un rendez-vous de suivi qui reprend ce qui doit être adapté."
       }
+    },
+    {
+      "number": 9,
+      "slug": "remiel-incertitude-soins",
+      "title": "Décider des soins sans promettre la disparition du trouble",
+      "description": "Après l’évaluation urgente, Rémiël demande une garantie. Vidal reprend avec lui les objectifs, les limites et la réévaluation du suivi.",
+      "context": "Le rendez-vous après l’urgence",
+      "topics": [
+        "Trouble pédophile",
+        "Décision de soin",
+        "Incertitude"
+      ],
+      "clinical_intro": "Une décision de soin se construit à partir de la situation individuelle, des bénéfices attendus, des risques et des connaissances disponibles. Les résultats d’une recherche ne constituent pas une garantie de protection absolue pour une personne. Discuter ces limites avec l’équipe permet de préciser les objectifs et la réévaluation nécessaire.",
+      "opening": "Rémiël retrouve Vidal après l’évaluation urgente. Le relais a été transmis au service ; la docteure reprend avec lui ce qui a changé et les suites à organiser. Il n’a pas ouvert le chantier depuis sa suspension. Dans son carnet, aucune nouvelle date de livraison n’a remplacé celle qui a été reportée. Il attend d’abord de comprendre le cadre du suivi.\n\n« Est-ce qu’une prise en charge peut garantir que tout disparaîtra ? » demande-t-il. La phrase est plus directe que celles qu’il préparait auparavant. Il aimerait une réponse assez ferme pour fermer le carnet et retourner au travail sans autre question. Vidal distingue les objectifs possibles, les limites des connaissances et les besoins de réévaluation. Elle ne transforme pas l’entretien en promesse.\n\nRémiël lui demande alors ce qui sera concrètement discuté au prochain contact. Il veut savoir comment parler des effets ressentis, des difficultés éventuelles et de ce qui reste incertain. Le choix du soin ne se résume pas à une décision qu’il pourrait prendre seul à partir d’un résultat de recherche. La docteure répond sur les modalités du suivi adapté à sa situation.\n\nLe baromètre revient seulement ensuite dans la conversation. Une reprise limitée peut être discutée dans les espaces adultes prévus, avec les mesures de protection maintenues. Rémiël comprend que terminer une notice ne permettra pas de démontrer que le trouble a disparu. Il cherche une question plus utile que la garantie qu’il espérait obtenir.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Un résultat de recherche n’est pas une garantie individuelle",
+          "text": "Les connaissances thérapeutiques doivent être interprétées avec leurs limites. Un essai de petite taille et de courte durée peut mesurer une variation de facteurs de risque sans démontrer une diminution des violences effectives. Un protocole de recherche décrit ce qui doit être étudié ; il ne prouve pas déjà une efficacité. Dans le suivi de Rémiël, ces distinctions empêchent une promesse excessive. Les options, leurs risques et leur pertinence individuelle sont discutés avec les professionnels, sans prescription dans ce récit."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment l’incertitude entre-t-elle dans la décision ?",
+          "points": [
+            {
+              "heading": "Une garantie est espérée",
+              "text": "La demande de certitude peut être compréhensible sans pouvoir recevoir la réponse souhaitée.",
+              "examples": [
+                "Rémiël demande si tout peut disparaître.",
+                "Il voudrait clore ses questions avant de retourner à l’atelier."
+              ]
+            },
+            {
+              "heading": "Les objectifs doivent être précisés",
+              "text": "Savoir ce que le soin vise permet une discussion plus concrète.",
+              "examples": [
+                "Vidal distingue les besoins actuels de la promesse de guérison.",
+                "Rémiël demande ce qui sera revu au prochain contact."
+              ]
+            },
+            {
+              "heading": "La décision reste suivie",
+              "text": "L’évaluation des bénéfices et difficultés ne s’arrête pas au premier échange.",
+              "examples": [
+                "Les effets ressentis devront être rapportés à l’équipe.",
+                "Une reprise professionnelle limitée est discutée sans devenir preuve d’innocuité."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour préparer une décision de soin éclairée",
+          "points": [
+            {
+              "heading": "Demander l’objectif concret",
+              "objective": "Comprendre ce que l’option discutée cherche à améliorer.",
+              "exercise": [
+                "Poser la question de l’objectif au professionnel.",
+                "Demander comment il sera évalué dans le suivi.",
+                "Faire préciser ce que cette option ne permet pas de garantir."
+              ],
+              "benefit": "L’attente peut être reliée à un objectif clinique plutôt qu’à une disparition promise de toute difficulté."
+            },
+            {
+              "heading": "Discuter les risques et le suivi",
+              "objective": "Prendre en compte les bénéfices et les inconvénients possibles.",
+              "exercise": [
+                "Demander quels risques sont pertinents pour sa situation.",
+                "Faire préciser les difficultés à signaler à l’équipe.",
+                "Vérifier comment joindre le service selon le besoin."
+              ],
+              "benefit": "La discussion garde les incertitudes visibles et facilite la transmission des problèmes rencontrés."
+            },
+            {
+              "heading": "Fixer une réévaluation",
+              "objective": "Donner une suite à la décision partagée avec les professionnels.",
+              "exercise": [
+                "Convenir du prochain point clinique.",
+                "Noter les questions qui devront y être reprises.",
+                "Recontacter l’équipe si la situation évolue, et les secours immédiatement en cas d’urgence."
+              ],
+              "benefit": "La décision reste liée à un suivi effectif plutôt qu’à une garantie supposée définitive."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Une date pour reprendre les questions",
+      "ending": "Rémiël et Vidal conviennent de poursuivre le suivi adapté et d’une réévaluation. La reprise professionnelle est limitée au cadre adulte discuté ; les mesures de protection demeurent. Il peut envisager de rouvrir la notice, sans transformer cette possibilité en certificat de sécurité. Avant de rappeler Marc pour la photographie, il prépare une demande précise : une aide sur l’objet et la lumière, avec une durée à convenir. Les besoins cliniques resteront adressés au service.",
+      "conclusion": "Une décision de soin peut être concrète tout en gardant ses incertitudes. Rémiël obtient des objectifs et un prochain point clinique, sans garantie de disparition du trouble. Le retour limité au travail reste inscrit dans cette continuité de prévention et de soins.",
+      "mirror": [
+        "Marc ne peut pas déduire des informations qu’il reçoit que Rémiël serait désormais guéri. Il peut demander ce qui est concrètement prévu pour la photographie et ce qu’il accepte de faire. « Je peux t’aider pour les images de l’objet ; pour les questions de suivi, garde le contact avec ton équipe » distingue une aide amicale ou professionnelle d’une responsabilité clinique."
+      ],
+      "clinical_focus": "Décisions de soin et incertitude",
+      "diagnostic_stage": "known",
+      "sources": [
+        "oms-cddr",
+        "landgren-2020",
+        "parachutes-2024"
+      ],
+      "continuity": {
+        "choice": "Ils conviennent de poursuivre le suivi adapté et d'une réévaluation. La reprise professionnelle reste limitée au cadre adulte discuté, sans certificat narratif d'absence de risque.",
+        "next": "Rémiël doit préciser à Marc ce qu'il peut lui demander pour reprendre le travail sans déplacer sur lui la responsabilité clinique."
+      }
+    },
+    {
+      "number": 10,
+      "slug": "remiel-limites-soutien",
+      "title": "Demander une aide sans confier le suivi à un proche",
+      "description": "Marc accepte la photographie du baromètre mais refuse une disponibilité permanente. Rémiël distingue l’aide pratique du relais clinique.",
+      "context": "Au téléphone avec Marc",
+      "topics": [
+        "Trouble pédophile",
+        "Soutien adulte",
+        "Limites"
+      ],
+      "clinical_intro": "Un proche adulte peut soutenir une démarche ou aider à organiser une tâche, sans assurer l’évaluation clinique ni garantir la sécurité. Une aide précise et librement acceptée laisse chacun dans son rôle. Le refus d’une disponibilité permanente n’interrompt pas les soins : les besoins cliniques restent adressés aux professionnels et l’urgence aux secours.",
+      "opening": "Rémiël appelle Marc depuis le bureau de l’atelier. Après le rendez-vous avec Vidal, il a repris la notice par une étape limitée, dans les conditions discutées. Il peut désormais envisager la photographie technique. Il explique qu’il lui faudrait une courte séance pour obtenir une image lisible du cadran, puis attend la réponse de son collègue.\n\nMarc demande quel jour et combien de temps cela prendrait. Rémiël propose un créneau, tout en ajoutant qu’il aurait peut-être besoin de pouvoir l’appeler plus souvent. Marc marque un temps avant de répondre. Il peut venir pour la photographie ; il ne peut pas rester joignable à toute heure. Il a ses propres horaires et ne veut pas accepter une demande dont les limites seraient indéfinies.\n\nRémiël sent sa première réponse se raccourcir. Puis il précise ce qu’il demandait pour l’objet et retire l’idée d’une disponibilité permanente. « Pour le suivi, je garde les contacts du service », dit-il. Le refus de Marc ne signifie pas qu’il doit se débrouiller seul avec une difficulté clinique. Il signifie que cet appel entre collègues doit garder une fonction compréhensible pour chacun.\n\nIls reviennent à la lumière de l’atelier. Le cadran produit un reflet à l’endroit où la graduation est déjà pâle ; Marc préfère essayer un autre angle de prise de vue. Rémiël note cette proposition dans la notice. Une tâche ordinaire retrouve sa place dans leur échange.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Le soutien a besoin d’un périmètre",
+          "text": "L’aide de l’entourage complète parfois l’organisation du quotidien, mais elle ne remplace ni les soins spécialisés ni les secours. Dans la prévention, transformer un proche en surveillant permanent crée une responsabilité qu’il ne peut pas garantir. Marc accepte une photographie, pas la gestion du risque. Un proche peut lui-même solliciter une orientation auprès de STOP en France ; ce recours ne remplace pas une réponse urgente si un danger est présent."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment une demande d’aide peut-elle dépasser son objet ?",
+          "points": [
+            {
+              "heading": "Une tâche précise s’élargit",
+              "text": "Une demande pratique peut glisser vers une disponibilité sans limite.",
+              "examples": [
+                "L’appel commence par la photographie du cadran.",
+                "Rémiël ajoute ensuite qu’il aimerait pouvoir appeler plus souvent."
+              ]
+            },
+            {
+              "heading": "L’autre doit pouvoir poser une limite",
+              "text": "Le soutien repose sur ce qui est réellement possible et accepté.",
+              "examples": [
+                "Marc demande la durée de la séance.",
+                "Il dit qu’il ne peut pas être joignable en permanence."
+              ]
+            },
+            {
+              "heading": "Le relais clinique doit rester identifiable",
+              "text": "Une limite relationnelle ne doit pas être confondue avec l’absence de soins.",
+              "examples": [
+                "Rémiël confirme qu’il conserve les contacts de son service.",
+                "Leur conversation revient à la qualité de la lumière sur l’instrument."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour délimiter une aide adulte",
+          "points": [
+            {
+              "heading": "Formuler une demande concrète",
+              "objective": "Permettre à l’autre de savoir à quoi il s’engage.",
+              "exercise": [
+                "Nommer la tâche pratique souhaitée.",
+                "Préciser le lieu et la durée envisagés.",
+                "Demander si cette aide est possible dans ces conditions."
+              ],
+              "benefit": "L’accord porte sur un geste défini plutôt que sur une responsabilité implicite."
+            },
+            {
+              "heading": "Accueillir une limite",
+              "objective": "Laisser la possibilité de refuser sans culpabiliser.",
+              "exercise": [
+                "Écouter ce que l’autre peut et ne peut pas faire.",
+                "Reformuler l’accord sur la partie qu’il accepte.",
+                "Chercher une autre organisation pour le reste sans lui attribuer une obligation de surveillance."
+              ],
+              "benefit": "La relation conserve un cadre que chacun peut tenir."
+            },
+            {
+              "heading": "Garder les relais professionnels",
+              "objective": "Adresser les besoins cliniques au bon interlocuteur.",
+              "exercise": [
+                "Conserver les modalités de contact données par l’équipe.",
+                "Lui adresser les questions de suivi plutôt qu’au collègue.",
+                "Contacter immédiatement les secours en cas d’urgence, sans attendre qu’un proche soit disponible."
+              ],
+              "benefit": "Une aide pratique peut exister sans porter la responsabilité de la protection ni retarder un recours nécessaire."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Un créneau pour le cadran",
+      "ending": "Marc réserve une courte séance dans l’atelier réservé aux adultes. Il confirme son aide pour la photographie et Rémiël note l’heure de fin prévue. Les rendez-vous médicaux restent dans une autre partie de son agenda. Avant de raccrocher, Marc demande qu’on lui laisse un peu d’espace près de l’établi pour le matériel. Rémiël promet seulement cela. Ils ont un sujet de travail à reprendre ensemble, sans confondre la présence d’un collègue avec un dispositif clinique.",
+      "conclusion": "Une aide limitée peut rester utile précisément parce que chacun sait ce qu’il accepte. Rémiël et Marc organisent la photographie sans déplacer sur leur relation la responsabilité du soin. Les contacts spécialisés et le relais urgent gardent leur place.",
+      "mirror": [
+        "Marc peut dire : « Je viens pour la photo à l’heure convenue, mais je ne peux pas assurer une permanence. » Il n’a pas à justifier cette limite par une expertise clinique. S’il se sent inquiet ou dépassé, il peut demander une orientation professionnelle pour lui-même. Face à une information de danger immédiat, il contacte les secours ; aucune promesse amicale de secret ne doit empêcher la protection."
+      ],
+      "clinical_focus": "Limites du soutien adulte",
+      "diagnostic_stage": "known",
+      "sources": [
+        "oms-cddr",
+        "stop-ffcriavs"
+      ],
+      "continuity": {
+        "choice": "Marc réserve une courte séance de photographie dans l'atelier adulte. Les contacts de soin demeurent ceux de l'équipe ; leur relation garde aussi un sujet ordinaire, la qualité de la lumière sur le cadran.",
+        "next": "La séance peut avoir lieu dans le cadre fixé. Rémiël remarque ensuite une période moins pénible, qui ne supprime pas le suivi."
+      }
+    },
+    {
+      "number": 11,
+      "slug": "remiel-periode-calme",
+      "title": "Une période plus calme ne dispense pas du suivi",
+      "description": "Après la photographie, Rémiël se sent moins préoccupé. Il maintient le rendez-vous pour parler aussi de cette amélioration.",
+      "context": "L’agenda après la photographie",
+      "topics": [
+        "Trouble pédophile",
+        "Fluctuations",
+        "Maintien du suivi"
+      ],
+      "clinical_intro": "Le vécu d’un trouble peut varier sans que quelques journées moins pénibles permettent de conclure à sa disparition. Une amélioration mérite aussi d’être rapportée à l’équipe. Le suivi et les mesures convenues restent effectifs tant qu’ils ne sont pas réévalués professionnellement ; le sentiment d’aller mieux ne constitue pas un test de sécurité.",
+      "opening": "La photographie technique a eu lieu au créneau convenu. Marc a déplacé son matériel dans l’espace laissé près de l’établi et obtenu une image sans le reflet gênant. Il est reparti à l’heure prévue. Rémiël a inséré la photographie dans la notice provisoire, puis transmis celle-ci à Anne avec les vérifications encore à achever clairement indiquées. Le projet avance par des opérations dont il peut nommer le résultat.\n\nLes jours suivants lui paraissent moins pénibles. Il reprend plus facilement un paragraphe et termine une vérification sans perdre le fil. Devant son agenda, il regarde la date de son prochain rendez-vous avec Vidal. Il se demande un instant si ce temps est encore nécessaire maintenant qu’il se sent davantage disponible. La case pourrait accueillir la dernière correction de la notice.\n\nIl garde pourtant le rendez-vous. Ce qu’il remarque est une amélioration de son vécu, pas une conclusion clinique qu’il pourrait signer lui-même. Lors du contact prévu, il explique à Vidal que la semaine lui a semblé plus calme. Il parle aussi de son hésitation devant l’agenda, sans chercher à présenter le maintien du suivi comme un mérite à récompenser.\n\nLa docteure reprend avec lui les besoins actuels. Rémiël entend que rapporter ce qui va mieux fait partie du même travail que signaler une difficulté. Il pourra finir sa notice à un autre moment ; cette conversation ne devient pas inutile parce qu’elle commence par une nouvelle moins pénible.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "L’évolution ne se lit pas sur une seule semaine",
+          "text": "L’évolution du trouble peut présenter des variations malgré une relative stabilité à l’âge adulte. Le confort ressenti pendant quelques jours ne permet donc pas, à lui seul, de conclure à une guérison. Chez Rémiël, l’attention au travail semble meilleure et la préoccupation moins pesante ; ces observations sont apportées au suivi. Elles ne mesurent pas le risque et ne justifient aucun test de ses limites. Les adaptations éventuelles relèvent d’une réévaluation professionnelle."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment une amélioration peut-elle être mal interprétée ?",
+          "points": [
+            {
+              "heading": "Le quotidien paraît plus facile",
+              "text": "Un changement favorable est une observation utile, même s’il ne résume pas l’état clinique.",
+              "examples": [
+                "Rémiël termine une vérification sans perdre le fil.",
+                "Il reprend plus aisément un paragraphe de sa notice."
+              ]
+            },
+            {
+              "heading": "Le rendez-vous semble moins nécessaire",
+              "text": "Le besoin de suivi peut être confondu avec la seule gêne du jour.",
+              "examples": [
+                "Il imagine utiliser le créneau médical pour une correction technique.",
+                "Il hésite parce que la semaine a été moins pénible."
+              ]
+            },
+            {
+              "heading": "Le cadre doit être réévalué ensemble",
+              "text": "La discussion clinique reste nécessaire pour interpréter l’évolution et revoir les besoins.",
+              "examples": [
+                "Il décrit l’amélioration à Vidal au contact prévu.",
+                "Les mesures convenues restent en place après cet échange."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour parler aussi des améliorations",
+          "points": [
+            {
+              "heading": "Rapporter un changement favorable",
+              "objective": "Donner à l’équipe une image plus complète du vécu récent.",
+              "exercise": [
+                "Décrire ce qui paraît plus facile au quotidien.",
+                "Situer la période concernée sans en tirer un pronostic.",
+                "Signaler aussi les difficultés ou questions qui demeurent."
+              ],
+              "benefit": "Le suivi peut prendre en compte l’amélioration sans l’assimiler à la disparition du trouble."
+            },
+            {
+              "heading": "Revoir les besoins avec l’équipe",
+              "objective": "Discuter la pertinence du suivi plutôt que le supprimer seul.",
+              "exercise": [
+                "Maintenir le contact convenu.",
+                "Dire si certains rendez-vous paraissent désormais moins utiles.",
+                "Demander au professionnel comment réévaluer les besoins actuels."
+              ],
+              "benefit": "Le questionnement trouve une réponse clinique au lieu d’être résolu par une annulation impulsive."
+            },
+            {
+              "heading": "Conserver le cadre de prévention",
+              "objective": "Ne pas modifier les mesures sur la base d’un sentiment passager.",
+              "exercise": [
+                "Continuer les mesures convenues.",
+                "Soumettre toute demande d’adaptation aux interlocuteurs compétents.",
+                "Attendre leur réévaluation sans mettre ses limites à l’épreuve."
+              ],
+              "benefit": "Une période favorable peut être accueillie sans devenir un motif de relâchement implicite."
+            }
+          ]
+        }
+      ],
+      "ending_title": "La correction trouve une autre heure",
+      "ending": "Rémiël maintient le rendez-vous et les modalités de prévention. Après l’échange, il reprend la notice finale à un créneau distinct. La photographie est en place ; il achève les vérifications restantes et prépare les documents de remise. Anne reçoit la proposition d’un rendez-vous de livraison dans le même atelier adulte. Le projet approche de sa fin, tandis que le suivi continue à répondre à un autre calendrier.",
+      "conclusion": "Une amélioration du quotidien est une information à partager, pas une attestation de guérison. Rémiël peut apprécier une semaine moins pénible et avancer sur son travail tout en maintenant les soins. Le prochain objectif professionnel ne modifie pas cette distinction.",
+      "mirror": [
+        "Marc peut se réjouir que la photographie ait servi à terminer la notice : « L’image est lisible, cela nous permet de boucler ce point. » Il n’a pas à conclure que Rémiël n’aurait plus besoin de soins. Si celui-ci évoque une annulation, il peut lui proposer d’en discuter avec l’équipe, sans se substituer à elle ni exiger un compte rendu de chaque rendez-vous."
+      ],
+      "clinical_focus": "Fluctuations sans garantie de guérison",
+      "diagnostic_stage": "known",
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-hrb"
+      ],
+      "continuity": {
+        "choice": "Il maintient le rendez-vous et prépare la notice finale. Les mesures de protection restent effectives, sans être transformées en récompense pour une semaine calme.",
+        "next": "La livraison du baromètre se rapproche ; elle doit fermer le projet technique sans fermer le parcours clinique."
+      }
+    },
+    {
+      "number": 12,
+      "slug": "remiel-continuite-apres-projet",
+      "title": "Terminer un projet tout en poursuivant les soins",
+      "description": "Le baromètre et sa notice sont remis à Anne. Rémiël clôt le chantier sans confondre cette réussite avec la fin de son suivi.",
+      "context": "La remise du baromètre",
+      "topics": [
+        "Trouble pédophile",
+        "Continuité des soins",
+        "Projet professionnel"
+      ],
+      "clinical_intro": "L’aboutissement d’un projet peut compter dans la vie d’une personne suivie, sans mesurer son diagnostic ni son risque. La fin d’un engagement professionnel et la continuité des soins répondent à des besoins différents. Préparer la suite permet de garder les rendez-vous et les mesures de prévention effectifs au-delà de la tâche accomplie.",
+      "opening": "Anne pose la notice finale sur le bureau de l’atelier. Cette fois, la première page ne porte plus la mention provisoire. Rémiël lui montre où figurent les interventions réalisées et les vérifications achevées. Le baromètre restauré est prêt à être remis à la collection. Dans cet espace réservé aux adultes, Marc prépare une dernière photographie de l’objet terminé pour le dossier de réception.\n\nRémiël attend qu’Anne relise la ligne consacrée à la mesure qui avait dû être reprise. Elle vérifie que le document est complet, puis confirme la réception de l’instrument et de la notice. Il éprouve une satisfaction précise : ce travail a une fin, avec un objet livré et des observations fiables. Les reports et la suspension n’ont pas disparu de son histoire, mais ils ne laissent plus un devis ou une remise en attente.\n\nMarc regarde l’image finale et remarque que le cadran a enfin cessé de refléter le plafond. Rémiël sourit. Il peut parler d’une photographie réussie sans demander à ce détail de prouver quoi que ce soit sur sa santé. Le prochain rendez-vous avec Vidal reste dans son agenda.\n\nAnne évoque la possibilité d’une autre restauration. Rémiël lui demande de lui en transmettre les caractéristiques pour qu’il puisse en discuter dans le cadre prévu. Il ne promet ni une date immédiate ni de nouvelles conditions d’intervention. Ce chantier se termine aujourd’hui ; un autre devra être envisagé avec les mêmes exigences de prévention.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Une réussite professionnelle ne clôt pas le parcours clinique",
+          "text": "Le fonctionnement professionnel et le besoin de soin ne se mesurent pas l’un par l’autre. Livrer un instrument atteste ici l’achèvement d’un travail, sans établir une disparition du trouble ni une absence de risque. Cet épisode porte sur la continuité de prise en charge, pas sur un symptôme supplémentaire. Rémiël peut conserver un métier et des projets, tout en poursuivant le suivi spécialisé et en respectant les mesures de protection."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment distinguer la fin du chantier et la suite des soins ?",
+          "points": [
+            {
+              "heading": "L’engagement technique est clos",
+              "text": "Des éléments concrets permettent de constater la fin du projet professionnel.",
+              "examples": [
+                "Anne reçoit le baromètre restauré.",
+                "La notice finale remplace le document provisoire transmis auparavant."
+              ]
+            },
+            {
+              "heading": "Les soins gardent leur calendrier",
+              "text": "Un objectif atteint au travail ne supprime pas les besoins cliniques.",
+              "examples": [
+                "Le rendez-vous avec Vidal demeure dans l’agenda.",
+                "Rémiël ne demande pas à sa photographie finale de certifier sa santé."
+              ]
+            },
+            {
+              "heading": "Le prochain projet demande un examen",
+              "text": "Une nouvelle proposition ne doit pas modifier automatiquement le cadre établi.",
+              "examples": [
+                "Anne évoque une autre restauration sans qu’un engagement soit pris.",
+                "Rémiël demande les caractéristiques du chantier avant d’en discuter avec les interlocuteurs concernés."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour préparer la suite après un projet",
+          "points": [
+            {
+              "heading": "Clôturer les engagements précis",
+              "objective": "Éviter qu’un travail terminé laisse des obligations floues.",
+              "exercise": [
+                "Vérifier les objets et documents attendus.",
+                "Confirmer leur réception avec le responsable.",
+                "Distinguer ce qui est achevé de toute demande nouvelle."
+              ],
+              "benefit": "La satisfaction peut s’appuyer sur un résultat réel, sans devenir une conclusion clinique."
+            },
+            {
+              "heading": "Confirmer la continuité du suivi",
+              "objective": "Garder les soins effectifs après la dernière échéance professionnelle.",
+              "exercise": [
+                "Vérifier le prochain contact convenu avec l’équipe.",
+                "Conserver les modalités de recours selon le besoin.",
+                "Rapporter au suivi ce que cette période a changé, y compris les difficultés restantes."
+              ],
+              "benefit": "La fin du chantier ne crée pas une interruption implicite de prise en charge."
+            },
+            {
+              "heading": "Examiner le nouveau projet",
+              "objective": "Envisager une activité sans déroger au cadre protecteur.",
+              "exercise": [
+                "Recueillir les informations pratiques sur la proposition.",
+                "En discuter avec les interlocuteurs concernés, dont l’équipe pour les besoins cliniques.",
+                "Ne s’engager que dans les conditions compatibles avec les mesures établies."
+              ],
+              "benefit": "Un avenir professionnel peut rester ouvert sans transformer la réussite passée en autorisation générale."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Le baromètre est réceptionné",
+      "ending": "Anne emporte le baromètre et la notice après avoir confirmé la réception. Marc transmet la photographie finale pour le dossier. Rémiël range la chemise bleue parmi les chantiers terminés, puis vérifie la date du prochain rendez-vous spécialisé. Il n’a pas besoin de laisser un projet inachevé pour reconnaître que le soin continue. Une autre restauration pourra être discutée dans les mêmes espaces adultes et avec les interlocuteurs concernés. Pour aujourd’hui, la livraison est accomplie et le cadre de prévention demeure.",
+      "conclusion": "Terminer un travail n’achève pas nécessairement un parcours de soin. Rémiël ferme l’engagement qui structurait ces semaines, avec une satisfaction technique réelle. Le suivi, la responsabilité et la protection continuent à encadrer les projets qu’il pourra envisager ensuite.",
+      "mirror": [
+        "Anne peut remercier Rémiël pour l’instrument et les informations de la notice, sans tirer de conclusion sur son état clinique. Marc peut partager la satisfaction d’une photographie terminée puis reprendre ses propres activités. « Nous examinerons le prochain projet quand ses conditions seront claires » laisse une possibilité de travail, sans promettre un accès différent, une disponibilité permanente ou un relâchement du cadre protecteur."
+      ],
+      "clinical_focus": "Continuité du soin après le projet",
+      "diagnostic_stage": "known",
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-hrb"
+      ],
+      "continuity": {
+        "choice": "Anne réceptionne l'objet et la notice. Rémiël garde son prochain rendez-vous et envisage une autre restauration dans les mêmes espaces adultes, à discuter avec les interlocuteurs concernés.",
+        "next": "La livraison est accomplie. Le suivi clinique et la protection continuent ; sa vie professionnelle peut se poursuivre sans fin miraculeuse ni relâchement implicite."
+      }
     }
   ]
 }

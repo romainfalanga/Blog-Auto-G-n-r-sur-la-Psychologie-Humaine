@@ -336,6 +336,78 @@
     "method": "reviewed_clinical_intro",
     "source_body_sha256": "9959460620767784efe2a6bc262b94045fa559d37e2ff88ddd2ece82873a3240"
   },
+  "posts/comprendre-et-maitriser-ses-emotions/amael-consentement-et-vie-privee": {
+    "text": "Le trouble voyeuriste concerne une excitation centrée sur une observation à l’insu d’autrui. Les comportements consentis se distinguent de cette définition. Dans la vie quotidienne, un accord porte sur une activité précise : l’adhésion à un club ne donne aucun droit sur l’intimité. Respecter cette limite reste nécessaire, indépendamment du soulagement ressenti.",
+    "source_heading": "Le consentement reste indispensable",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "04d915099786eb74a5d1d5e051806549226a3c7b5fe498abbf4ca964f65c3f27"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/amael-detresse-et-consultation": {
+    "text": "Une détresse marquée peut accompagner le trouble voyeuriste et mérite une attention clinique. Le diagnostic ne permet pas, à lui seul, de déduire qu’une personne a agi. Parler au professionnel de la souffrance et de son retentissement aide à préciser la demande de soin, sans transformer les proches en destinataires de détails intimes.",
+    "source_heading": "La détresse mérite un soin",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "95aa3db86f535d48b31065d5820fb5f8e77a095da78b1a34167cefb8427f2e02"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/amael-evolution-et-reussite": {
+    "text": "L’évolution du trouble voyeuriste ne se mesure pas au succès d’une activité sociale. La place des préoccupations peut varier, même lorsqu’une certaine stabilité existe dans le schéma clinique. Une amélioration ou une difficulté ultérieure ne suffit pas à prédire la suite. Les variations utiles à l’évaluation doivent être transmises au suivi, sans verdict de guérison ou de fatalité.",
+    "source_heading": "L’évolution ne suit pas le score",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "29a350a83f865849f120d780186ab530c49c6b1bace9607b75c9177ef8142d22"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/amael-honte-et-parole-clinique": {
+    "text": "La honte peut gêner la demande de soin chez une personne vivant avec un trouble voyeuriste, sans être un signe universel de ce diagnostic. Minimiser une difficulté peut limiter les informations disponibles pour l’évaluation. Une parole sobre, adressée au professionnel, permet de signaler un changement sans faire du récit public ou de la confidence aux proches une obligation.",
+    "source_heading": "La honte freine la parole clinique",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "065762d2465d481824b474d6061c38ff43e1f6e22e8bad5468abd08a2c623bf7"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/amael-limites-des-proches": {
+    "text": "Les proches peuvent soutenir une personne vivant avec un trouble voyeuriste sans devenir responsables de son suivi ou de ses choix. Une demande répétée de contrôle peut peser sur la relation ; elle n’est pas un symptôme universel du trouble. Le proche conserve le droit de refuser ce rôle, tandis que les besoins de prévention restent adressés aux interlocuteurs compétents.",
+    "source_heading": "Les proches ont leur propre limite",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "1bbf6e9b597d48606d9bb688e540bb72756cb8973228acf16523733941eab83b"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/amael-participation-et-suivi": {
+    "text": "La participation sociale d’une personne vivant avec un trouble voyeuriste ne constitue ni une preuve de guérison ni une garantie pour l’avenir. Un projet peut se réaliser dans un cadre individualisé, avec les limites et les relais nécessaires. Le suivi et la prévention conservent leur place après l’événement ; personne ne doit une confiance personnelle en échange des efforts accomplis.",
+    "source_heading": "Participer sans certificat de guérison",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "371e601e9d02a962e9e13c81a71cd1557d68b55424b44d3db165803814622c13"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/amael-pensees-et-comportements": {
+    "text": "Le contrôle d’un comportement et la persistance d’un schéma d’excitation ne désignent pas la même chose. Dans le trouble voyeuriste, respecter des engagements ne fait pas nécessairement disparaître les préoccupations. Une pensée n’est pas un acte commis ; inversement, une période sans difficulté visible ne garantit pas la sécurité future et ne remplace pas l’évaluation.",
+    "source_heading": "Contrôler un acte ne supprime pas une pensée",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "735cc1f050d821bae7314a7b05d9e06d6ac9a9444b45023d822c2da81774a81d"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/amael-reevaluation-changement-recent": {
+    "text": "Un diagnostic connu n’explique pas automatiquement tout changement ultérieur. Dans le suivi d’un trouble voyeuriste, des manifestations nouvelles peuvent demander une évaluation distincte du contexte et de l’état de santé. La chronologie aide le professionnel à explorer les causes possibles ; quelques signes décrits dans un récit ne permettent pas de poser soi-même un autre diagnostic.",
+    "source_heading": "Un changement demande une réévaluation",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "73ce5047b8bbe2aa4bddfe5a9f65889185a6c00fd33d83f2ddbe18786b6cc079"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/amael-responsabilites-prevention": {
+    "text": "Le suivi clinique, les engagements de prévention et l’organisation d’une activité correspondent à des responsabilités distinctes. Dans un accompagnement du trouble voyeuriste, l’accord d’un club ne remplace pas les vérifications professionnelles applicables. Les dispositions sont individualisées et réévaluées si la situation change ; aucune participation autorisée dans un cadre donné ne constitue une garantie de risque nul.",
+    "source_heading": "La prévention engage des responsabilités distinctes",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "f1d0a315cd4617d6644bc32944a6ad6fad397f04126ba0d65d53aed109fdc6cd"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/amael-retentissement-au-travail": {
+    "text": "Le trouble voyeuriste peut avoir un retentissement professionnel ou relationnel, sans que ce retentissement soit universel. Chez une personne donnée, des préoccupations persistantes peuvent gêner la concentration et l’achèvement des tâches. Un ajustement de travail répond alors à une difficulté concrète ; il ne traite pas le trouble et ne permet pas de conclure sur son évolution.",
+    "source_heading": "Le travail subit le retentissement",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "d90c9d0bc71368679923cc1ea255853db922465455bf91e20041f9430a7c4ece"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/amael-schema-persistant-au-travail": {
+    "text": "Le trouble voyeuriste concerne un schéma persistant d’excitation sexuelle centré sur l’observation de l’intimité d’autrui à son insu. Il ne se confond pas avec une pensée intrusive isolée. Des préoccupations récurrentes peuvent peser sur le quotidien ; leur évaluation demande un professionnel, sans déduire les comportements d’une personne de son seul diagnostic.",
+    "source_heading": "Un schéma qui persiste",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "7a5d67810e8f6d629d6f1f65106ac79fd26ad8de15d5b18418a88922a3127fbb"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/amael-soin-individualise": {
+    "text": "La prise en charge d’un trouble voyeuriste demande une évaluation spécialisée et individualisée. Les décisions ne se déduisent pas d’une recette applicable à tous ni d’un calendrier social. Les recommandations cliniques ne permettent pas de promettre un résultat pour une date précise. Les arrangements d’agenda facilitent ici la continuité du soin ; ils ne constituent pas un traitement.",
+    "source_heading": "Le soin doit rester individuel",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "f8df770faedc038513af81c2ab7a8b3981fb86850a8e297b5239c161a3d468b2"
+  },
   "posts/comprendre-et-maitriser-ses-emotions/ambivalence-emotionnelle-reconversion-professionnelle-burn-out": {
     "text": "Dans cet article, « ambivalence émotionnelle » désigne des sentiments mêlés à l’égard d’une même situation. Jeff Larsen, Peter McGraw et John Cacioppo ont observé que des personnes pouvaient rapporter de la joie et de la tristesse à propos d’un même moment.",
     "source_heading": "Définition de l'ambivalence émotionnelle",
@@ -4247,6 +4319,78 @@
     "method": "reviewed_clinical_intro",
     "source_body_sha256": "c509262815c5020bb696b0c89f22d3bdacd2d1f0bad249348f659f8685779f7c"
   },
+  "posts/comprendre-et-maitriser-ses-emotions/marceau-changement-reevaluation": {
+    "text": "Un diagnostic connu n’explique pas automatiquement tout changement de santé. Dans le suivi du trouble du sadisme sexuel coercitif, un sommeil modifié ou une fatigue appellent une évaluation de leur contexte et de l’état général. Ces observations ne permettent pas, seules, d’annoncer une autre maladie ni de décider d’un traitement.",
+    "source_heading": "Changement clinique et réévaluation",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "05e6f9fd5eca6438fa14780a75269fed4c87ec6b8298a075d120ef174cabe5bd"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/marceau-choix-therapeutique": {
+    "text": "La prise en charge du trouble du sadisme sexuel coercitif se décide selon une évaluation individualisée. Une éventuelle option médicamenteuse demande une information sur ses objectifs, ses limites et le suivi nécessaire ; le code diagnostique ne suffit pas à la prescrire. Poser des questions permet de participer à la discussion sans confondre consentement au soin et droit au contact d’autrui.",
+    "source_heading": "Choix thérapeutique et information médicale",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "9faa5ed9646f1eca900be6aeed00616282b8e8d398c0472d4636bad5709a1abb"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/marceau-consentement-limites": {
+    "text": "Le trouble du sadisme sexuel coercitif se distingue des pratiques librement consenties, qui en sont exclues. Dans le suivi, respecter les limites d’autrui reste indispensable, même quand cela suscite une difficulté intérieure. Une contribution utile, un effort de soin ou une demande d’explication ne transforme jamais un refus en accord.",
+    "source_heading": "Consentement et limites effectives",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "f243cd337e5b116f2fd23ccf248a484bc4f6cbe99ec327814fb6c0c717ae7c8d"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/marceau-controle-vecu-persistant": {
+    "text": "Respecter une limite observable ne signifie pas que le trouble du sadisme sexuel coercitif a disparu. Ce diagnostic concerne un schéma d’excitation spécifique ; il ne se confond pas avec un échec persistant du contrôle des conduites. L’équipe examine séparément les actes, le vécu et les besoins de prévention, sans tirer de garantie d’un succès ponctuel.",
+    "source_heading": "Contrôle des conduites et vécu persistant",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "ba9f6e307f96881f6e3b1b705b9cdf67e768dac19249260980115f58d99310ae"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/marceau-detresse-legende": {
+    "text": "La détresse liée au trouble du sadisme sexuel coercitif peut motiver une demande de soin sans permettre de conclure à un passage à l’acte. Ce diagnostic repose sur une évaluation spécialisée d’un schéma précis et persistant. Chez une personne déjà suivie, signaler ce qui change aide les professionnels à réexaminer ses besoins et la prévention.",
+    "source_heading": "Détresse et demande de soin",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "a7bc5407bd9518bf6ca18cbcd020071b68a8aa9ca263b3d934fb59759134c7e7"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/marceau-fluctuations-progres": {
+    "text": "Les manifestations du trouble du sadisme sexuel coercitif peuvent changer au cours du temps. Une période plus facile ne suffit pas à démontrer une guérison, et le retour d’une difficulté n’annule pas tous les acquis. L’équipe réévalue l’évolution avec plusieurs informations ; une réussite de projet ne mesure pas à elle seule le risque ou le besoin de soin.",
+    "source_heading": "Fluctuations et interprétation des progrès",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "92526d9bfc2b249a6a4a92a184960cafd66fd2cc98e3a7339371f619369f5c3b"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/marceau-honte-parole-clinique": {
+    "text": "La honte peut rendre une conversation clinique difficile sans renseigner, à elle seule, sur le danger ou les conduites d’une personne. Dans le trouble du sadisme sexuel coercitif déjà diagnostiqué, le suivi demande des informations sur les difficultés présentes. Une réussite quotidienne peut être réelle tout en laissant des besoins de soin à examiner.",
+    "source_heading": "Honte et parole clinique",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "40477edc369dffded813bb6477f158583132c9c5d92511afb57e9b80ad296fb1"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/marceau-informations-protection": {
+    "text": "Le suivi spécialisé d’un trouble du sadisme sexuel coercitif implique de distinguer les informations utiles à une tâche et celles nécessaires au soin ou à la protection. Les professionnels expliquent les règles de transmission applicables à leur cadre. Une coordination choisie avec un club ne transforme pas ses membres en surveillants ni ne justifie automatiquement l’envoi d’un dossier médical.",
+    "source_heading": "Informations partagées et protection",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "ccb7e404c8bebdc489b8cad36fbf782b20dd8d70e9fb2c0e8d5b21754b2b84f0"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/marceau-justifications-responsabilite": {
+    "text": "Une contrariété face à un refus ne permet pas de reconnaître un trouble du sadisme sexuel coercitif. Chez une personne suivie, les justifications qui fragilisent le respect des limites peuvent cependant faire partie du travail clinique individualisé. Un effort fourni ne crée pas une dette de disponibilité, et l’autre personne n’a pas à défendre son refus.",
+    "source_heading": "Justifications et responsabilité personnelle",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "316527ba2e02741c6bbc99600e9752510b90cdda12a56b6dbdc374fe42952bc8"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/marceau-participation-suivi-durable": {
+    "text": "Une personne suivie pour un trouble du sadisme sexuel coercitif peut mener des projets ordinaires qui ne se réduisent pas à son diagnostic. Leur réussite ne prouve cependant ni une guérison ni une diminution du risque. Terminer un engagement matériel et poursuivre le soin sont deux décisions compatibles, sans contrepartie relationnelle exigible.",
+    "source_heading": "Participation ordinaire et suivi durable",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "21dbe0d6730df99841b86d7362ecc4c6c0fc90432a140cf4f1beff2d9c000d8c"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/marceau-soutien-limites": {
+    "text": "Un parcours de soin peut occuper beaucoup de place dans les conversations et réduire les autres sujets partagés. Ce retentissement n’est pas un trait universel du trouble du sadisme sexuel coercitif. Une amitié peut garder une place ordinaire, avec des limites de temps et de contenu, tandis que les questions cliniques restent confiées aux professionnels.",
+    "source_heading": "Retentissement relationnel et soutien limité",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "e5e9d386a819510a6b16884e170566557f26e1361adf7936f7c3f41a1bccc894"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/marceau-stress-calendrier": {
+    "text": "Le stress peut faire partie des facteurs contextuels qu’une équipe examine dans le suivi d’un trouble paraphilique. Il n’explique pas à lui seul le trouble du sadisme sexuel coercitif et ne décharge pas d’une responsabilité. Lorsqu’une difficulté prend davantage de place, ajuster une tâche et solliciter le soin répondent à deux besoins distincts.",
+    "source_heading": "Stress contextuel et vulnérabilité",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "76a1f4ff960c4af13dcff3f3d090fe81af0544f7c9f4f3f3d502e63fdef1f486"
+  },
   "posts/comprendre-et-maitriser-ses-emotions/martin-avant-le-deuxieme-trait": {
     "text": "Martin se promet de terminer les deux tracés avant de sortir fumer. Il s’arrête au milieu du second. Une dépendance à la nicotine peut rendre difficile le respect d’une limite qu’on a choisie, qu’elle porte sur le moment ou la quantité. Martin se rappelle deux décisions semblables et cherche comment en parler à la docteure Bellon sans réduire son histoire à un chiffre.",
     "source_heading": "Perte de maîtrise du moment",
@@ -5525,6 +5669,78 @@
     "method": "definition_excerpt",
     "source_body_sha256": "c903aa1907a8e80616fa50d6238620c9a65b0bd1b3c04f044929196e797f973f"
   },
+  "posts/comprendre-et-maitriser-ses-emotions/remiel-acces-suivi": {
+    "text": "Une orientation ne constitue pas encore une consultation. Confirmer un interlocuteur, une date et les modalités du contact aide à faire aboutir la démarche. Ce travail d’organisation est un enjeu de prise en charge, pas un symptôme supplémentaire. Un dispositif d’orientation ne remplace pas les secours lorsqu’une situation devient urgente.",
+    "source_heading": "Accès au suivi spécialisé",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "b4a50aa791166e2187deb2ff2e42b87ad9744c4886203974b38ec5c7484286b8"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/remiel-attention-disponible": {
+    "text": "La détresse et les préoccupations liées à un trouble peuvent gêner le travail quotidien. Ce retentissement varie selon les personnes et ne constitue pas, à lui seul, un critère diagnostique. Une difficulté d’attention mérite d’être décrite à l’équipe qui suit la personne, sans être transformée en preuve d’un autre trouble.",
+    "source_heading": "Préoccupation et attention disponible",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "d9ff0b4d6625d82ff63e0621a03270c7ef500659c6461b679e4a109c5f0b0cf1"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/remiel-continuite-apres-projet": {
+    "text": "L’aboutissement d’un projet peut compter dans la vie d’une personne suivie, sans mesurer son diagnostic ni son risque. La fin d’un engagement professionnel et la continuité des soins répondent à des besoins différents. Préparer la suite permet de garder les rendez-vous et les mesures de prévention effectifs au-delà de la tâche accomplie.",
+    "source_heading": "Continuité du soin après le projet",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "a6c0369343eba3e9ea1cd7c2f7e3442548611dcd384e4d027b49bac30314778c"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/remiel-crainte-jugement": {
+    "text": "La crainte du jugement peut compliquer les échanges avec un soignant. Elle ne permet pas de déduire ce que quelqu’un a fait ni ce qu’il fera. Dans un suivi spécialisé, cette difficulté à parler peut elle-même être abordée, tout en transmettant les informations nécessaires à l’évaluation et à la protection.",
+    "source_heading": "Crainte du jugement clinique",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "a63da6eef31a5d4d7813b0cc70ac1bb3c9596c08321160471ab379d7e54dbd07"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/remiel-diagnostic-responsabilite": {
+    "text": "Un diagnostic de trouble pédophile nécessite une évaluation clinique ; il ne se déduit ni d’une inquiétude isolée ni du portrait d’une personne. Distinguer le trouble, la détresse et les actes permet de comprendre les besoins de soin sans diminuer la responsabilité. La protection reste une exigence tout au long du suivi.",
+    "source_heading": "Diagnostic et responsabilité",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "993f9ab9ddc5b9a0d2edb5b06f7144379d8d1016c6288ad7325318e2d1496b10"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/remiel-difficultes-associees": {
+    "text": "Un diagnostic connu n’explique pas automatiquement chaque difficulté nouvelle. Des changements du sommeil, de l’humeur ou du fonctionnement quotidien méritent une évaluation adaptée. D’autres troubles peuvent coexister, mais leur présence ne se déduit pas d’une scène ou d’un signe isolé. Les conclusions et les suites appartiennent à l’équipe clinique.",
+    "source_heading": "Évaluer les difficultés associées",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "d5303aefb2c024775a6a3c930d889ee940dfe83e32633a2ac448c603323add1c"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/remiel-incertitude-soins": {
+    "text": "Une décision de soin se construit à partir de la situation individuelle, des bénéfices attendus, des risques et des connaissances disponibles. Les résultats d’une recherche ne constituent pas une garantie de protection absolue pour une personne. Discuter ces limites avec l’équipe permet de préciser les objectifs et la réévaluation nécessaire.",
+    "source_heading": "Décisions de soin et incertitude",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "8d5f99ad993da18486a2e7a4ca040fd562d223e8c1a15716bb3157116cfb115a"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/remiel-limites-soutien": {
+    "text": "Un proche adulte peut soutenir une démarche ou aider à organiser une tâche, sans assurer l’évaluation clinique ni garantir la sécurité. Une aide précise et librement acceptée laisse chacun dans son rôle. Le refus d’une disponibilité permanente n’interrompt pas les soins : les besoins cliniques restent adressés aux professionnels et l’urgence aux secours.",
+    "source_heading": "Limites du soutien adulte",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "c6cec428b4e9eed7fc06d9494beb82440f58d69fc553bb0c640b7e3c97fbe02f"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/remiel-periode-calme": {
+    "text": "Le vécu d’un trouble peut varier sans que quelques journées moins pénibles permettent de conclure à sa disparition. Une amélioration mérite aussi d’être rapportée à l’équipe. Le suivi et les mesures convenues restent effectifs tant qu’ils ne sont pas réévalués professionnellement ; le sentiment d’aller mieux ne constitue pas un test de sécurité.",
+    "source_heading": "Fluctuations sans garantie de guérison",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "9c4a5e150fdae575be33bd4028482bbc727ba8af72094cd72d149ecc48ce86d4"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/remiel-planning-soins": {
+    "text": "Un trouble et les besoins de son suivi peuvent modifier la capacité à tenir un engagement professionnel. Les ajustements dépendent de la situation, du métier et des échanges avec les personnes concernées. Réduire une charge ou revoir un délai peut rendre le projet plus réaliste ; cela ne constitue ni un traitement ni une garantie de sécurité.",
+    "source_heading": "Retentissement professionnel du suivi",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "aca526947065ea8f13001743355e375967521c576ca0938358e1da2fe3d4becf"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/remiel-relais-urgent": {
+    "text": "Craindre de ne plus maintenir la sécurité exige un recours immédiat aux secours. Un rendez-vous programmé ou un dispositif d’orientation ne remplace pas ce relais. Il faut exprimer clairement l’urgence et suivre les consignes des professionnels. Aucune technique personnelle ni disponibilité d’un proche ne garantit de pouvoir gérer seul une telle situation.",
+    "source_heading": "Répondre à une aggravation urgente",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "334562d1f11014b5455b20301575a73260a3940ac24bb92a0861b326d11e1636"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/remiel-termes-diagnostiques": {
+    "text": "Les mots employés dans la conversation ne correspondent pas toujours à des diagnostics. Une pensée intrusive, une inquiétude persistante ou le mot obsession ne suffisent pas à conclure à un trouble précis. Les distinctions cliniques nécessitent une évaluation professionnelle ; elles ne se vérifient pas par des tests personnels de ses réactions.",
+    "source_heading": "Distinguer les termes diagnostiques",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "67e480dcf827733b955da3ac30c04f976b9a9507b9c0b86705fa22d4be84db8c"
+  },
   "posts/comprendre-et-maitriser-ses-emotions/remords-en-famille-comprendre-et-agir": {
     "text": "Le remords désigne couramment le regret douloureux d'un acte que l'on juge mauvais, parfois lié au tort causé à quelqu'un. Il recoupe le sentiment de culpabilité. La recherche ne justifie pas de réserver le désir de réparation au seul remords : dans des expériences de Cryder et ses collègues, des personnes amenées à se sentir coupables se sont montrées plus généreuses envers la personne lésée dans certaines conditions.",
     "source_heading": "Définition du remords et de ses mécanismes",
@@ -5624,6 +5840,78 @@
     "source_paragraph": 1,
     "method": "definition_excerpt",
     "source_body_sha256": "c101b42a97858e24157a437f255bd525852aab38b9f6b45b5f791dc71e7c70b1"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/ronan-consentement-limites-conversation": {
+    "text": "Le trouble exhibitionniste se distingue des pratiques sexuelles consenties. Cette frontière clinique ne doit pas être brouillée avec les accords ordinaires du travail ou de la conversation. Dans cet épisode, Ronan respecte le refus de son ami d’entendre des détails : ce geste concerne leur échange, sans résumer à lui seul la question du consentement sexuel.",
+    "source_heading": "Le consentement délimite le trouble",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "e3e73665d08bc72c07180aaf870f97f291da3b447d9a77292a77902764c16cf9"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/ronan-controle-reponse-suivi": {
+    "text": "Pouvoir contrôler certaines réponses ne signifie pas qu’un trouble exhibitionniste a disparu. Cette capacité et l’évolution du trouble doivent être appréciées dans leur contexte. Ronan peut reconnaître les décisions qu’il a tenues tout en discutant avec son équipe de la suite du suivi, sans transformer sa semaine en test de guérison.",
+    "source_heading": "Contrôler une réponse ne suffit pas à guérir",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "1a6e4b10249f4afaadbf858c7bcdf806768d1f9cffae7841a6c6f88d582a0f93"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/ronan-decision-soin-incertitudes": {
+    "text": "Une décision de soin repose sur une information adaptée concernant les bénéfices attendus, les limites et le suivi nécessaire. Les connaissances disponibles ne garantissent pas le résultat individuel. Ronan peut poser ses questions, exprimer ses préférences et poursuivre une prise en charge personnalisée, sans demander au soin de certifier sa participation professionnelle.",
+    "source_heading": "Choisir un soin sans promesse totale",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "097cb9af38fce191a6f6957477304f7f32c2c5b80fc6ec0e4a001cb5b61049c3"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/ronan-detresse-trouble-exhibitionniste-demander-aide": {
+    "text": "Le trouble exhibitionniste peut s’accompagner d’une détresse importante, qui mérite une prise en charge même lorsqu’aucun acte n’est rapporté. Chez Ronan, le diagnostic est déjà établi et des pensées liées au trouble interrompent le travail. Dire ce retentissement à son équipe permet de demander une aide adaptée, sans demander à un collègue de l’évaluer.",
+    "source_heading": "La détresse conduit à demander de l’aide",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "ec20b26401f7c20fc48779aa232201ad4d85653a6203bde75b88f6a3acd16b23"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/ronan-evaluation-individuelle-participation": {
+    "text": "L’évaluation des besoins de prévention ne se déduit pas d’un diagnostic seul. Elle tient compte de la situation de la personne et relève de professionnels compétents. Pour Ronan, préparer une rencontre professionnelle signifie décrire son contexte à l’équipe, examiner les options et garder sa réponse ouverte pendant ces échanges.",
+    "source_heading": "Le risque demande une évaluation individuelle",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "d91c2c5707d3cc42c3d0b020dce58a2cbc621f530f4ca27147772a81edef50bf"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/ronan-fluctuation-reviser-participation": {
+    "text": "L’évolution du trouble peut varier au cours du temps. Une augmentation de la détresse appelle une réévaluation des besoins et du plan, sans prouver qu’un acte a eu lieu. Ronan signale le changement à son équipe avant de confirmer une participation plus limitée ; cet ajustement reste une décision individualisée, sans garantie de risque nul.",
+    "source_heading": "Une fluctuation conduit à réviser le projet",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "d31c4d77992c3ba8de47f22683afd67aab28117fd6faddd04b573553d4fd61c2"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/ronan-frustration-appui-soin": {
+    "text": "Les besoins de soin peuvent inclure la manière de répondre aux émotions difficiles. Une frustration ne constitue pas une cause démontrée du trouble exhibitionniste ni une excuse pour dépasser les limites d’autrui. Chez Ronan, la tension autour de la rencontre devient un sujet à travailler avec l’équipe, avec des relais précisés si sa situation devient préoccupante.",
+    "source_heading": "La tension émotionnelle appelle un appui",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "a4d870d14e82e8e7c5db497d611b57a92cdf8753dc6864526d90e30bb6ff909a"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/ronan-justification-permission-limite": {
+    "text": "Le travail clinique peut porter sur les interprétations qui orientent les décisions d’une personne. Un souhait compréhensible ne crée pas une permission chez autrui. Ronan examine ici un raisonnement quotidien avec son équipe : ses efforts de soin lui semblent justifier une exception professionnelle. Cette situation illustre son parcours, sans constituer un signe universel du trouble.",
+    "source_heading": "Une justification ne crée pas une permission",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "a1a4c308e30c47f5e801f18115bd89e084f83c8016488639e64b5128f4fbfe26"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/ronan-proche-soutien-limites-disponibilite": {
+    "text": "Le soutien d’un proche peut avoir une place dans un parcours de soins, à condition que son accord et ses limites soient respectés. Il ne remplace pas l’équipe et n’oblige pas à une disponibilité permanente. Pour Ronan, l’absence annoncée de Marc révèle une attente qui n’avait jamais été discutée entre eux.",
+    "source_heading": "Un proche ne peut pas tout porter",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "34c5b61020cb8a790dc3c98dde596b3e79c6c9e48ac202f484b810b63f2107ac"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/ronan-schema-durable-journee-calme": {
+    "text": "Un trouble déjà diagnostiqué ne se résume pas à l’intensité de la journée présente. Son évaluation tient compte d’une histoire et d’un schéma durable. Ronan découvre que décrire une amélioration et maintenir le suivi sont compatibles : une période plus calme apporte une information, sans annuler ce qui a été établi.",
+    "source_heading": "Un schéma durable dépasse une mauvaise journée",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "0875d6b9bf7234be19d258bb58b500f3c22beae04a8625c00659abc633a947de"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/ronan-sommeil-nouveau-changement-bilan": {
+    "text": "Un diagnostic connu ne fournit pas l’explication automatique de toute difficulté nouvelle. Un changement du sommeil ou du fonctionnement mérite d’être décrit et évalué pour lui-même. Dans le parcours de Ronan, les nuits difficiles conduisent à un point clinique, puis à un ajustement du travail, sans qu’un autre diagnostic soit déduit du récit.",
+    "source_heading": "Une nouvelle difficulté mérite son propre bilan",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "991bd59ec1f0abda5302e279c0e607ff910e82cf04051ad777d52ba5ab3db24b"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/ronan-travail-accompli-suivi-maintenu": {
+    "text": "Une activité professionnelle accomplie ne démontre pas la disparition d’un trouble. Les adaptations choisies peuvent permettre un projet précis, tandis que les besoins de prévention et de soin restent évalués séparément. Ronan remet son catalogue et réalise une présentation limitée ; cette réussite lui appartient sans devenir un certificat de guérison.",
+    "source_heading": "Le travail continue avec le suivi",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "df9a443e79e8ae922a43ee835b06473d1e8ad0f8db6b552b42c922dbe3e46400"
   },
   "posts/comprendre-et-maitriser-ses-emotions/roxane-banc-vert": {
     "text": "Zoé part vers le mauvais banc après le passage d’un vélo. Quand Roxane reprend, le silence revenu aide Zoé à comprendre qu’il s’agit d’un banc, mais elle garde le mauvais repère. Avec une difficulté durable de production des sons, retirer un bruit concurrent améliore parfois l’écoute sans lever toute ambiguïté. La carte permet aux deux filles de vérifier le lieu ensemble.",

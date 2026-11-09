@@ -11,7 +11,7 @@
   "episodes": [
     {
       "number": 1,
-      "slug": "detresse-trouble-exhibitionniste-demander-aide",
+      "slug": "ronan-detresse-trouble-exhibitionniste-demander-aide",
       "title": "La détresse peut conduire à demander de l’aide",
       "description": "La notice reste inachevée : Ronan cherche comment parler de sa détresse à l’équipe qui le suit pour un trouble exhibitionniste.",
       "context": "au bureau avant le suivi",
@@ -25,7 +25,9 @@
       "ending_title": "La date dans l’agenda",
       "ending": "Le secrétariat confirme le rendez-vous et la transmission de sa demande à l’équipe. Ronan inscrit la date dans son agenda de travail, sans y ajouter d’information de santé. Puis il prévient Claire que la correction sera reprise après cet échange. La notice des Saules retourne dans la chemise grise, toujours inachevée. Il n’a pas retrouvé sa concentration ; il a rendu sa difficulté moins invisible à ceux qui peuvent la prendre en charge.",
       "conclusion": "La détresse peut justifier une demande de soin sans qu’un acte soit raconté ou présumé. Ronan conserve son projet, mais il cesse d’attendre que la notice soit terminée pour parler de ce qui l’empêche d’avancer.",
-      "mirror": "Devant la notice inachevée, Claire peut demander : « Quelle partie peux-tu reprendre, et quand refaisons-nous le point ? » Elle n’a pas à obtenir le diagnostic pour organiser le travail. Un proche auquel Ronan parle de sa détresse peut l’encourager à joindre l’équipe, sans exiger de détails ni promettre de gérer seul sa sécurité. Le soutien reste compatible avec ses propres limites.",
+      "mirror": [
+        "Devant la notice inachevée, Claire peut demander : « Quelle partie peux-tu reprendre, et quand refaisons-nous le point ? » Elle n’a pas à obtenir le diagnostic pour organiser le travail. Un proche auquel Ronan parle de sa détresse peut l’encourager à joindre l’équipe, sans exiger de détails ni promettre de gérer seul sa sécurité. Le soutien reste compatible avec ses propres limites."
+      ],
       "clinical_focus": "La détresse conduit à demander de l’aide",
       "sources": [
         "oms-cddr",
@@ -108,11 +110,12 @@
             }
           ]
         }
-      ]
+      ],
+      "diagnostic_stage": "known"
     },
     {
       "number": 2,
-      "slug": "schema-durable-journee-calme",
+      "slug": "ronan-schema-durable-journee-calme",
       "title": "Un jour plus calme ne suffit pas à effacer un trouble",
       "description": "Au suivi, Ronan voudrait expliquer ses difficultés par le bouclage. Une semaine variable ne remplace pas l’histoire clinique.",
       "context": "au rendez-vous spécialisé",
@@ -126,7 +129,9 @@
       "ending_title": "Le mot reste dans la marge",
       "ending": "Ronan laisse « difficile » à côté de sa phrase. Il ajoute : « plus calme aujourd’hui ». Les deux observations tiennent sur la même feuille. Le prochain rendez-vous reste fixé. Au bureau, il reprend la notice des Saules et retrouve le passage sur l’enseigne. Il ne la termine pas encore, mais il corrige la date sans demander à cette correction de prouver quoi que ce soit sur sa santé.",
       "conclusion": "Décrire fidèlement les jours difficiles et les jours plus simples aide le suivi. Pour Ronan, l’accalmie devient une information à partager, tandis que l’appréciation du trouble continue de relever d’une histoire clinique plus large.",
-      "mirror": "Si Ronan dit à Marc qu’il a eu une meilleure journée, son ami peut répondre : « Je suis content que ce soit moins pesant. Tu pourras aussi en parler au prochain rendez-vous. » Il n’a pas à confirmer ou contester le diagnostic. Accueillir le soulagement ne signifie pas promettre que tout est réglé, ni exiger que Ronan reste inquiet pour être pris au sérieux.",
+      "mirror": [
+        "Si Ronan dit à Marc qu’il a eu une meilleure journée, son ami peut répondre : « Je suis content que ce soit moins pesant. Tu pourras aussi en parler au prochain rendez-vous. » Il n’a pas à confirmer ou contester le diagnostic. Accueillir le soulagement ne signifie pas promettre que tout est réglé, ni exiger que Ronan reste inquiet pour être pris au sérieux."
+      ],
       "clinical_focus": "Un schéma durable dépasse une mauvaise journée",
       "sources": [
         "oms-cddr",
@@ -209,11 +214,12 @@
             }
           ]
         }
-      ]
+      ],
+      "diagnostic_stage": "known"
     },
     {
       "number": 3,
-      "slug": "consentement-limites-conversation",
+      "slug": "ronan-consentement-limites-conversation",
       "title": "Le consentement a une portée précise",
       "description": "Marc accepte une conversation générale, mais refuse les détails intimes. Ronan apprend à respecter la portée de cet accord.",
       "context": "pendant un café avec Marc",
@@ -237,7 +243,9 @@
       "ending_title": "Une liste de gares sur la table",
       "ending": "Marc demande où en est le catalogue. Ronan ouvre la chemise à la liste des gares, sans sortir ses notes personnelles. Il explique pourquoi la date des Saules a changé. Marc s’intéresse au travail et lui pose une question sur l’ancienne enseigne. La discussion reprend, plus ordinaire que Ronan ne l’avait imaginée. Il accepte que ce café ait cette forme et que l’aide de Marc reste limitée.",
       "conclusion": "Le consentement ne se déduit pas d’une proximité ou d’un premier accord général. Ronan conserve un ami et une équipe de soins, avec des places différentes ; respecter cette distinction ne supprime pas sa déception, mais change sa réponse.",
-      "mirror": "Marc peut dire : « Je veux bien parler de ton quotidien, mais pas entendre ces détails. » Il n’a pas à justifier longuement ce refus ni à proposer une compensation. Revenir ensuite au catalogue est possible s’il le souhaite ; il peut aussi terminer le café. L’équipe reste le relais pour les questions cliniques, et l’amitié n’implique ni surveillance ni secret absolu en situation de danger.",
+      "mirror": [
+        "Marc peut dire : « Je veux bien parler de ton quotidien, mais pas entendre ces détails. » Il n’a pas à justifier longuement ce refus ni à proposer une compensation. Revenir ensuite au catalogue est possible s’il le souhaite ; il peut aussi terminer le café. L’équipe reste le relais pour les questions cliniques, et l’amitié n’implique ni surveillance ni secret absolu en situation de danger."
+      ],
       "sections": [
         {
           "role": "explanation",
@@ -310,11 +318,12 @@
             }
           ]
         }
-      ]
+      ],
+      "diagnostic_stage": "known"
     },
     {
       "number": 4,
-      "slug": "evaluation-individuelle-participation",
+      "slug": "ronan-evaluation-individuelle-participation",
       "title": "La sécurité demande une évaluation individuelle",
       "description": "Une invitation arrive. Ronan cherche une assurance auprès de Marc, puis adresse ses questions à son équipe avant de confirmer.",
       "context": "à la réception de l’invitation",
@@ -338,7 +347,9 @@
       "ending_title": "Le programme d’abord",
       "ending": "Ronan demande à Claire le programme et les conditions d’une présentation à distance. Il précise qu’il souhaite participer mais ne confirme pas encore la modalité. Elle lui transmet les deux options de la rencontre hybride. Il les conserve pour l’échange organisé avec l’équipe. Marc reçoit seulement un remerciement pour avoir été clair sur sa place ; aucune responsabilité de décision ne lui est attribuée.",
       "conclusion": "Préparer la prévention demande des informations et des interlocuteurs adaptés, pas une promesse de contrôle. Ronan avance dans son projet en conservant la possibilité de le modifier, et le respect des limites d’autrui reste indépendant de son suivi.",
-      "mirror": "À la question « Tu crois que je peux y aller ? », Marc peut répondre : « Je peux écouter ce que ce projet représente pour toi, mais je ne peux pas certifier que cette participation convient. » Il peut encourager le contact prévu avec l’équipe sans l’effectuer à la place de Ronan. Si la sécurité ne peut plus être maintenue, le projet est interrompu et une aide professionnelle est sollicitée immédiatement ; un danger immédiat appelle les services d’urgence locaux.",
+      "mirror": [
+        "À la question « Tu crois que je peux y aller ? », Marc peut répondre : « Je peux écouter ce que ce projet représente pour toi, mais je ne peux pas certifier que cette participation convient. » Il peut encourager le contact prévu avec l’équipe sans l’effectuer à la place de Ronan. Si la sécurité ne peut plus être maintenue, le projet est interrompu et une aide professionnelle est sollicitée immédiatement ; un danger immédiat appelle les services d’urgence locaux."
+      ],
       "sections": [
         {
           "role": "explanation",
@@ -411,11 +422,12 @@
             }
           ]
         }
-      ]
+      ],
+      "diagnostic_stage": "known"
     },
     {
       "number": 5,
-      "slug": "controle-reponse-suivi",
+      "slug": "ronan-controle-reponse-suivi",
       "title": "Une décision tenue ne prouve pas la guérison",
       "description": "Ronan a respecté ses engagements préventifs. Il voudrait en conclure que le prochain rendez-vous est devenu inutile.",
       "context": "au suivi après une semaine plus stable",
@@ -439,7 +451,9 @@
       "ending_title": "La case reste occupée",
       "ending": "Ronan conserve le rendez-vous suivant. Au bureau, il réserve un autre moment pour sa relecture et termine enfin la notice des Saules. Il inscrit « vérifiée » à côté de la date de l’enseigne, puis ouvre celle du dépôt central. La satisfaction de finir une page lui appartient. Il ne demande plus à cette page de démontrer que son trouble est réglé.",
       "conclusion": "Reconnaître un choix tenu aide à décrire le parcours, sans transformer le contrôle en garantie. Ronan reprend son travail et maintient le suivi : ces décisions peuvent coexister sans que l’une serve de preuve médicale à l’autre.",
-      "mirror": "Si Ronan raconte sa semaine à Marc, celui-ci peut dire : « Tu as tenu les décisions dont tu me parles. Pour changer le suivi, tu peux en discuter avec l’équipe. » Il n’a ni à nier ce progrès ni à certifier sa portée. Il peut aussi rappeler qu’il ne souhaite pas recevoir un compte rendu détaillé de chaque décision ; son amitié ne devient pas une évaluation permanente.",
+      "mirror": [
+        "Si Ronan raconte sa semaine à Marc, celui-ci peut dire : « Tu as tenu les décisions dont tu me parles. Pour changer le suivi, tu peux en discuter avec l’équipe. » Il n’a ni à nier ce progrès ni à certifier sa portée. Il peut aussi rappeler qu’il ne souhaite pas recevoir un compte rendu détaillé de chaque décision ; son amitié ne devient pas une évaluation permanente."
+      ],
       "sections": [
         {
           "role": "explanation",
@@ -512,11 +526,12 @@
             }
           ]
         }
-      ]
+      ],
+      "diagnostic_stage": "known"
     },
     {
       "number": 6,
-      "slug": "sommeil-nouveau-changement-bilan",
+      "slug": "ronan-sommeil-nouveau-changement-bilan",
       "title": "Une difficulté nouvelle mérite son propre bilan",
       "description": "Des nuits difficiles perturbent la relecture. Ronan décrit ce changement au cabinet au lieu de l’attribuer d’emblée au trouble connu.",
       "context": "pendant la relecture du dépôt central",
@@ -540,7 +555,9 @@
       "ending_title": "Deux séances au calendrier",
       "ending": "Après le point clinique, Ronan demande deux séances de relecture plus courtes. Claire accepte les horaires proposés et lui renvoie les pages à traiter lors de chacune. Il les range dans la chemise grise, séparées par une feuille blanche. Rien ne prouve encore que ses nuits vont s’améliorer. En revanche, le changement a été évalué et la relecture possède désormais un cadre qu’ils ont réellement accepté.",
       "conclusion": "Une difficulté nouvelle n’est ni automatiquement une manifestation du trouble connu ni la preuve d’un autre trouble. Ronan peut transmettre ce qui a changé, suivre les suites convenues et modifier une tâche sans confondre ces démarches.",
-      "mirror": "Claire peut répondre à la demande par une question de travail : « Quelles pages gardons-nous pour la première séance ? » Elle n’a pas à chercher un diagnostic derrière les erreurs de version. Si Ronan évoque son sommeil à Marc, son ami peut l’encourager à en parler au cabinet, sans proposer sa propre explication ni surveiller ses nuits. Le soin et l’organisation restent confiés aux personnes concernées.",
+      "mirror": [
+        "Claire peut répondre à la demande par une question de travail : « Quelles pages gardons-nous pour la première séance ? » Elle n’a pas à chercher un diagnostic derrière les erreurs de version. Si Ronan évoque son sommeil à Marc, son ami peut l’encourager à en parler au cabinet, sans proposer sa propre explication ni surveiller ses nuits. Le soin et l’organisation restent confiés aux personnes concernées."
+      ],
       "sections": [
         {
           "role": "explanation",
@@ -613,11 +630,12 @@
             }
           ]
         }
-      ]
+      ],
+      "diagnostic_stage": "known"
     },
     {
       "number": 7,
-      "slug": "justification-permission-limite",
+      "slug": "ronan-justification-permission-limite",
       "title": "Une justification ne crée pas une permission",
       "description": "Ronan voudrait que ses efforts lui donnent droit à un délai. Il apprend à distinguer ce souhait d’un accord réellement reçu.",
       "context": "à la fin de la relecture",
@@ -641,7 +659,9 @@
       "ending_title": "La fiche technique demandée",
       "ending": "Ronan écrit à Claire qu’il respectera l’échéance de vendredi. Il lui demande la fiche technique de la visioconférence pour préparer aussi cette option. Les notices corrigées restent dans la chemise. La réponse qu’il envoie est plus courte que son premier brouillon ; elle ne raconte pas ses soins et ne réclame pas de reconnaissance en échange. Sa déception n’a pas disparu, mais Claire peut maintenant poursuivre son organisation.",
       "conclusion": "Une difficulté personnelle et des efforts réels n’annulent pas les limites des autres. Ronan apprend à reconnaître ce qu’il souhaite, à demander clairement et à accepter la réponse, tout en travaillant sa déception dans un cadre adapté.",
-      "mirror": "Claire peut maintenir l’échéance sans demander à Ronan de justifier ses soins : « J’ai besoin de ta réponse vendredi pour fermer le programme. Voici les informations pour l’option à distance. » Une explication pratique peut aider, mais elle n’est pas obligée d’obtenir son adhésion émotionnelle. Marc peut écouter une déception s’il le souhaite ; il n’a pas à négocier avec Claire ni à garantir que Ronan supportera sa réponse.",
+      "mirror": [
+        "Claire peut maintenir l’échéance sans demander à Ronan de justifier ses soins : « J’ai besoin de ta réponse vendredi pour fermer le programme. Voici les informations pour l’option à distance. » Une explication pratique peut aider, mais elle n’est pas obligée d’obtenir son adhésion émotionnelle. Marc peut écouter une déception s’il le souhaite ; il n’a pas à négocier avec Claire ni à garantir que Ronan supportera sa réponse."
+      ],
       "sections": [
         {
           "role": "explanation",
@@ -714,11 +734,12 @@
             }
           ]
         }
-      ]
+      ],
+      "diagnostic_stage": "known"
     },
     {
       "number": 8,
-      "slug": "frustration-appui-soin",
+      "slug": "ronan-frustration-appui-soin",
       "title": "La tension émotionnelle appelle un appui adapté",
       "description": "La fiche technique ravive la déception de Ronan. Il interrompt un message accusateur et parle de sa tension au suivi.",
       "context": "chez lui avant le rendez-vous",
@@ -742,7 +763,9 @@
       "ending_title": "Une réponse sur les documents",
       "ending": "Ronan supprime le brouillon accusateur. Il envoie à Claire une réponse factuelle sur les documents attendus et leur format. Avec l’équipe, il a clarifié qui contacter si sa situation devient préoccupante et les alternatives en dehors des disponibilités ordinaires. Il reste déçu de devoir réfléchir à une participation plus limitée. Il ne demande plus à Claire de faire disparaître ce sentiment avant de pouvoir travailler avec elle.",
       "conclusion": "La tension mérite un appui sans devenir une explication totale ni une permission. Ronan distingue la réponse professionnelle, le travail clinique et les démarches de sécurité : aucune de ces tâches ne repose sur l’obligation d’un proche de le calmer.",
-      "mirror": "Si un échange devient pressant, Claire peut dire : « Je peux répondre sur les documents ; je préfère que nous arrêtions cette discussion pour le moment. » Marc peut également limiter son écoute. Ni l’un ni l’autre n’a à garantir un apaisement. Une inquiétude de sécurité appelle le relais professionnel prévu, et un danger immédiat les services d’urgence locaux, plutôt qu’une promesse de disponibilité sans fin.",
+      "mirror": [
+        "Si un échange devient pressant, Claire peut dire : « Je peux répondre sur les documents ; je préfère que nous arrêtions cette discussion pour le moment. » Marc peut également limiter son écoute. Ni l’un ni l’autre n’a à garantir un apaisement. Une inquiétude de sécurité appelle le relais professionnel prévu, et un danger immédiat les services d’urgence locaux, plutôt qu’une promesse de disponibilité sans fin."
+      ],
       "sections": [
         {
           "role": "explanation",
@@ -815,7 +838,424 @@
             }
           ]
         }
-      ]
+      ],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 9,
+      "slug": "ronan-proche-soutien-limites-disponibilite",
+      "title": "Un proche ne peut pas tout porter",
+      "description": "Marc sera absent la semaine de la rencontre. Ronan doit revoir la place qu’il lui avait attribuée sans la lui demander.",
+      "context": "lors d’un échange avec Marc",
+      "topics": [
+        "Trouble exhibitionniste",
+        "soutien choisi",
+        "limites relationnelles"
+      ],
+      "clinical_intro": "Le soutien d’un proche peut avoir une place dans un parcours de soins, à condition que son accord et ses limites soient respectés. Il ne remplace pas l’équipe et n’oblige pas à une disponibilité permanente. Pour Ronan, l’absence annoncée de Marc révèle une attente qui n’avait jamais été discutée entre eux.",
+      "opening": "Marc annonce son absence au milieu d’une conversation ordinaire. Il ne sera pas là la semaine de la rencontre professionnelle. Ronan cesse de feuilleter son agenda. Il avait imaginé l’appeler avant la présentation et lui raconter ensuite comment cela s’était passé. Dans sa tête, cette présence était devenue une partie du programme, bien qu’il ne l’ait pas demandée.\n\n« Je pensais que tu serais disponible », dit-il. Marc lui rappelle qu’ils avaient parlé d’échanges occasionnels, selon ce que chacun pouvait accepter. Il ne lui reproche pas d’avoir espéré un appel, mais ne transforme pas cette attente en engagement. Ronan ressent un mouvement de déception semblable à celui qui avait accompagné la fiche technique. Cette fois, il le reconnaît avant de demander à l’autre de changer ses dates.\n\nIls reprennent leur accord. Marc peut écouter certaines nouvelles quand ils en conviennent. Il ne supervise pas le soin, ne décide pas de la participation et ne peut pas être le seul contact lorsque la situation devient préoccupante. Ronan dit qu’il a clarifié les relais avec l’équipe ; il doit maintenant vérifier qu’il les utilise comme prévu au lieu d’ajouter silencieusement Marc à leur place.\n\nSur son agenda, le nom de son ami figure déjà à côté du jour de la rencontre. Il le regarde avec embarras. Ce n’était pas une invitation reçue, seulement une attente qu’il avait écrite comme un fait. Marc propose un café à son retour, si tous deux en ont envie.",
+      "clinical_focus": "Un proche ne peut pas tout porter",
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "wfsbp-2020"
+      ],
+      "continuity": {
+        "choice": "Ronan retire Marc du programme, vérifie les modalités du service et convient seulement d’un café après son retour.",
+        "next": "Le point suivant avec l’équipe permettra de discuter les objectifs du soin, au-delà de cet événement."
+      },
+      "ending_title": "Un café reste un café",
+      "ending": "Ronan retire le nom de Marc du programme de la rencontre. Il vérifie auprès du service les modalités de contact déjà discutées, puis note la date proposée pour le café après le retour de son ami. Il ne transforme pas ce café en séance de bilan obligatoire. Marc pourra demander des nouvelles, ou parler de son propre voyage. La semaine de la rencontre ne reposera pas sur une présence qu’il n’a pas promise.",
+      "conclusion": "Un soutien fiable n’exige pas qu’une seule personne porte tous les besoins. Ronan respecte l’absence de Marc et conserve les relais professionnels, tandis que leur relation peut se poursuivre sans devenir une condition de sécurité ou de réussite.",
+      "mirror": [
+        "Marc peut dire : « Je tiens à nos échanges, mais je ne serai pas disponible cette semaine et je ne peux pas superviser ton suivi. » Il n’a pas à annuler son absence pour rendre cette limite acceptable. Il peut rappeler l’existence des relais professionnels sans se charger de vérifier chaque appel. Face à un danger, chercher l’aide adaptée prime sur une promesse de secret ou sur le maintien du programme."
+      ],
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Le soutien n’est pas une délégation des soins",
+          "text": "Un trouble peut avoir un retentissement relationnel, notamment lorsque les attentes de soutien deviennent lourdes ou implicites. Les recommandations spécialisées permettent d’envisager l’implication de proches dans un cadre individualisé ; elles n’imposent pas une surveillance privée. Marc conserve le droit de refuser ou de se retirer. Respecter la confidentialité ne signifie pas promettre un secret absolu face à un danger. Les contacts professionnels et les démarches de sécurité restent distincts de l’amitié."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment une attente implicite pèse-t-elle sur un proche ?",
+          "points": [
+            {
+              "heading": "La disponibilité est présumée",
+              "text": "Ronan organise un échange sans avoir recueilli l’accord de Marc.",
+              "examples": [
+                "Il imagine un appel avant la présentation.",
+                "Il écrit déjà son nom dans le programme personnel."
+              ]
+            },
+            {
+              "heading": "Le rôle s’élargit sans discussion",
+              "text": "Une écoute occasionnelle devient progressivement une condition du projet.",
+              "examples": [
+                "Ronan est surpris que son ami parte.",
+                "Il doit rappeler que Marc ne décide pas de sa participation."
+              ]
+            },
+            {
+              "heading": "La limite révèle un besoin d’organisation",
+              "text": "L’absence du proche demande de vérifier les relais réels.",
+              "examples": [
+                "Ronan reprend les modalités convenues avec l’équipe.",
+                "Le prochain café est séparé du calendrier de prévention."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour garder un soutien choisi",
+          "points": [
+            {
+              "heading": "Demander la disponibilité réelle",
+              "objective": "Ne pas transformer une relation en permanence implicite.",
+              "exercise": [
+                "Préciser le type d’échange souhaité.",
+                "Demander si le proche veut et peut y participer.",
+                "Prendre sa réponse telle qu’elle est, y compris négative."
+              ],
+              "benefit": "L’accord porte sur une demande définie plutôt que sur une obligation générale."
+            },
+            {
+              "heading": "Vérifier les contacts professionnels",
+              "objective": "Conserver des relais indépendants de la présence d’un ami.",
+              "exercise": [
+                "Relire les modalités convenues avec le service.",
+                "Vérifier les horaires et les alternatives indiquées.",
+                "S’adresser au relais adapté si la situation le nécessite."
+              ],
+              "benefit": "Le proche n’est pas chargé de combler les limites de disponibilité d’un service ; l’urgence suit les démarches adaptées."
+            },
+            {
+              "heading": "Retirer une attente non acceptée",
+              "objective": "Respecter concrètement le refus ou l’absence.",
+              "exercise": [
+                "Identifier ce qui avait été prévu sans accord.",
+                "Le retirer du programme effectif.",
+                "Garder un éventuel moment amical séparé, avec un nouvel accord."
+              ],
+              "benefit": "La relation peut retrouver une place qui ne dépend pas du résultat du projet."
+            }
+          ]
+        }
+      ],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 10,
+      "slug": "ronan-decision-soin-incertitudes",
+      "title": "Choisir un soin sans promesse totale",
+      "description": "Ronan voudrait une garantie avant de poursuivre. Le suivi l’aide à distinguer une décision éclairée d’une certitude impossible.",
+      "context": "lors d’un entretien sur les soins",
+      "topics": [
+        "Trouble exhibitionniste",
+        "décision partagée",
+        "incertitudes"
+      ],
+      "clinical_intro": "Une décision de soin repose sur une information adaptée concernant les bénéfices attendus, les limites et le suivi nécessaire. Les connaissances disponibles ne garantissent pas le résultat individuel. Ronan peut poser ses questions, exprimer ses préférences et poursuivre une prise en charge personnalisée, sans demander au soin de certifier sa participation professionnelle.",
+      "opening": "Ronan arrive au rendez-vous avec deux feuilles. Sur la première, les questions de santé qu’il veut poser ; sur la seconde, le programme de la rencontre, encore sans réponse définitive. Il les a rangées séparément depuis qu’il a compris combien il pouvait attendre du soin une solution immédiate à son calendrier de travail.\n\nIl demande pourtant d’abord : « Est-ce qu’une des options pourrait me garantir que je n’aurai plus de difficulté ? » La docteure Leclerc ne répond pas par une promesse. Elle reprend avec lui ce qui peut être discuté dans sa situation, ce qu’ils espèrent améliorer, les limites des connaissances et la nécessité de suivre l’évolution. Les détails du choix thérapeutique restent dans leur consultation ; il n’existe pas, sur le programme de la rencontre, une case qui permettrait de les résumer.\n\nRonan revient à ses questions. Il veut comprendre comment ils apprécieront ce qui l’aide, ce qu’il faudra signaler et quand ils referont le point. Il demande aussi à pouvoir redire avec ses mots ce qu’il a compris. Il constate que certaines incertitudes restent présentes même après une explication attentive.\n\nLa date de vendredi lui traverse l’esprit. Il regarde la seconde feuille sans la tendre tout de suite. Une décision de soin peut être prise aujourd’hui sans que toutes les décisions professionnelles soient arrêtées. Il voudrait une réponse totale ; il commence à accepter une prochaine étape précise, avec la possibilité de la discuter de nouveau.",
+      "clinical_focus": "Choisir un soin sans promesse totale",
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "wfsbp-2020"
+      ],
+      "continuity": {
+        "choice": "Ronan confirme le suivi individualisé et distingue cette décision de la modalité professionnelle encore à préciser avant vendredi.",
+        "next": "Une fluctuation récente conduira à choisir une modalité plus limitée pour la rencontre."
+      },
+      "ending_title": "Deux feuilles distinctes",
+      "ending": "Ronan confirme la poursuite du suivi individualisé et vérifie le prochain point. Il range les questions de santé dans leur chemise séparée. Le programme professionnel revient sur le dessus de son agenda : il reste à préciser sa participation avant vendredi. Cette question ne disparaît pas, mais il cesse d’attendre qu’un choix de soin produise à lui seul une autorisation définitive de participer.",
+      "conclusion": "Une décision de soin peut être éclairée sans certitude totale. Ronan conserve ses questions et la possibilité de les reprendre ; le suivi demeure une démarche de santé, distincte de la réussite du catalogue ou de la forme de sa présentation.",
+      "mirror": [
+        "Marc, s’il entend plus tard parler de cet entretien, peut demander : « As-tu pu poser les questions qui comptaient pour toi ? » Il n’a pas à sélectionner une option à la place de Ronan ni à promettre qu’elle fonctionnera. Claire peut attendre seulement la réponse professionnelle utile au programme. Ni l’un ni l’autre n’a besoin d’un compte rendu thérapeutique pour respecter sa place dans le projet."
+      ],
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Les recommandations n’effacent pas les incertitudes",
+          "text": "Les recommandations spécialisées décrivent une prise en charge individualisée, mais les données disponibles comportent des limites : petits échantillons, études souvent non contrôlées et populations hétérogènes, fréquemment judiciaires. Elles ne prédisent pas le résultat de Ronan, consultant volontaire. Le choix thérapeutique ne se déduit pas du seul code diagnostique. La décision éclairée tient compte de la situation, des bénéfices et limites attendus, des préférences exprimées et de la réévaluation ; cet article ne propose aucun protocole."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment chercher une décision éclairée plutôt qu’une garantie ?",
+          "points": [
+            {
+              "heading": "La question initiale demande une certitude totale",
+              "text": "Ronan voudrait supprimer toute possibilité de difficulté future.",
+              "examples": [
+                "Il demande une garantie à la médecin.",
+                "Il espère implicitement résoudre aussi sa décision professionnelle."
+              ]
+            },
+            {
+              "heading": "L’information porte sur une situation individuelle",
+              "text": "L’entretien peut préciser ce qui est attendu et ce qui reste incertain.",
+              "examples": [
+                "La médecin reprend les objectifs discutables avec lui.",
+                "Ronan demande comment leur évolution sera appréciée."
+              ]
+            },
+            {
+              "heading": "La prochaine étape devient concrète",
+              "text": "Comprendre le suivi permet une décision sans promesse absolue.",
+              "examples": [
+                "Ronan reformule ce qu’il a entendu.",
+                "Il vérifie quand ils réexamineront ensemble la situation."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour préparer une discussion sur le soin",
+          "points": [
+            {
+              "heading": "Écrire ses questions prioritaires",
+              "objective": "Donner une place aux préoccupations qui risquent de rester implicites.",
+              "exercise": [
+                "Noter ce que l’on espère du soin.",
+                "Ajouter ce que l’on redoute ou ne comprend pas.",
+                "Présenter ces questions au professionnel qui connaît la situation."
+              ],
+              "benefit": "L’entretien peut aborder les attentes réelles au lieu de se limiter à un accord de façade."
+            },
+            {
+              "heading": "Demander bénéfices et limites",
+              "objective": "Comprendre la portée de la proposition individuelle.",
+              "exercise": [
+                "Demander ce qui pourrait être amélioré.",
+                "Faire préciser les limites, contraintes et incertitudes pertinentes.",
+                "Redire ce que l’on a compris et demander les corrections nécessaires."
+              ],
+              "benefit": "Une information comprise peut soutenir le choix sans devenir une promesse de résultat."
+            },
+            {
+              "heading": "Vérifier la suite",
+              "objective": "Garder une possibilité réelle de réévaluation.",
+              "exercise": [
+                "Confirmer la prochaine étape de suivi.",
+                "Demander quels changements signaler et comment le faire.",
+                "Revenir vers l’équipe si les besoins ou questions évoluent."
+              ],
+              "benefit": "Le consentement au soin s’inscrit dans un échange continu, plutôt que dans une certitude figée."
+            }
+          ]
+        }
+      ],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 11,
+      "slug": "ronan-fluctuation-reviser-participation",
+      "title": "Une fluctuation peut conduire à réviser le projet",
+      "description": "La détresse augmente avant vendredi. Ronan la signale à l’équipe et choisit une présentation à distance dans un cadre défini.",
+      "context": "avant la clôture du programme",
+      "topics": [
+        "Trouble exhibitionniste",
+        "fluctuation",
+        "adaptation du projet"
+      ],
+      "clinical_intro": "L’évolution du trouble peut varier au cours du temps. Une augmentation de la détresse appelle une réévaluation des besoins et du plan, sans prouver qu’un acte a eu lieu. Ronan signale le changement à son équipe avant de confirmer une participation plus limitée ; cet ajustement reste une décision individualisée, sans garantie de risque nul.",
+      "opening": "Le programme attend toujours sa réponse. Ronan avait pensé l’envoyer jeudi matin, mais sa détresse a de nouveau augmenté depuis le dernier échange. Il le remarque dans les moments où il voudrait préparer ses phrases et se retrouve à laisser la page ouverte. Cette fois, il n’essaie pas de faire correspondre son état à la décision qu’il préférerait annoncer.\n\nIl contacte l’équipe selon les modalités convenues. Il décrit le changement et précise que la réponse professionnelle doit partir avant vendredi. L’échange clinique a lieu avant sa confirmation ; les éléments personnels restent dans ce cadre. Il ne demande pas qu’on certifie la sécurité de la rencontre. Il veut revoir ce qui est pertinent dans la situation présente, y compris la possibilité de ne pas participer si les conditions nécessaires ne peuvent être maintenues.\n\nAprès cet échange, il choisit une intervention à distance depuis un bureau réservé, sans public sur place. Il écrit à Claire pour demander cette organisation et limiter sa présentation à cinq notices. Il joint la liste, les Saules en premier. La demande est concrète : un lieu, un format, un créneau. Elle ne comporte aucune information médicale.\n\nEn attendant la confirmation, il garde le catalogue complet à côté de lui. Réduire la présentation ne retire pas le travail accompli. Cela ne le dispense pas non plus de poursuivre les soins. Il peut être déçu du changement et l’organiser réellement, avant que la clôture du programme transforme son silence en problème pour les autres.",
+      "clinical_focus": "Une fluctuation conduit à réviser le projet",
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "wfsbp-2020"
+      ],
+      "continuity": {
+        "choice": "Après réévaluation, Ronan choisit le distanciel ; Claire confirme avant vendredi un bureau sans public, cinq notices et sa modération.",
+        "next": "Le dernier épisode reprend cette organisation effective, sans rétablir une présence physique pour produire une fin plus spectaculaire."
+      },
+      "ending_title": "Un bureau réservé, cinq notices",
+      "ending": "Avant vendredi, Claire confirme le bureau réservé pour Ronan seul et un créneau bref. Elle assurera la modération depuis la rencontre. Il transmet les cinq notices et prévoit la remise séparée du catalogue complet. Marc reste absent cette semaine, comme annoncé ; rien dans l’organisation ne repose sur sa présence. Ronan note le point de suivi et les modalités de contact à part des documents de présentation.",
+      "conclusion": "Réviser une participation peut traduire une prise en compte du changement, sans constituer une guérison ni une sanction. Ronan fait passer les informations et organise une modalité précise, tout en gardant les soins et la possibilité de suspendre l’activité.",
+      "mirror": [
+        "Claire peut confirmer simplement : « Le bureau est réservé pour toi seul ; je modérerai depuis la rencontre et nous garderons les cinq notices. » Son accord concerne cette organisation, pas une appréciation médicale. Elle n’a pas à maintenir le programme contre un besoin de suspension. Marc peut rester absent sans être rappelé comme solution de dernier recours : les relais professionnels gardent leur place."
+      ],
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Réévaluer sans raconter une rechute en acte",
+          "text": "Le retentissement et l’évolution du trouble exhibitionniste peuvent varier. Une hausse de la détresse n’autorise pas à inventer un acte ni à conclure que tous les progrès sont annulés. Elle apporte une information utile à la réévaluation spécialisée. Dans cette fiction, le distanciel est un arrangement discuté et choisi, pas un traitement validé ou une preuve de sécurité. Si celle-ci ne peut être maintenue, l’activité est suspendue et l’aide professionnelle adaptée sollicitée immédiatement ; un danger immédiat appelle les urgences locales."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment une fluctuation change-t-elle une décision prévue ?",
+          "points": [
+            {
+              "heading": "Le changement est décrit avant la confirmation",
+              "text": "Ronan ne dissimule pas la difficulté pour préserver son premier souhait.",
+              "examples": [
+                "Il remarque une détresse accrue depuis le dernier échange.",
+                "Il la transmet à l’équipe avant de répondre à Claire."
+              ]
+            },
+            {
+              "heading": "L’objectif se traduit dans une autre modalité",
+              "text": "Le projet peut être limité sans devenir une mise à l’épreuve.",
+              "examples": [
+                "Ronan choisit une intervention à distance.",
+                "Il réduit la présentation à cinq notices au lieu de parcourir tout le catalogue."
+              ]
+            },
+            {
+              "heading": "Le cadre doit devenir effectif",
+              "text": "Une intention de prudence ne remplace pas l’organisation concrète.",
+              "examples": [
+                "Il demande un bureau réservé sans public.",
+                "Il attend la confirmation du créneau et de la modération."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour réviser un projet après un changement",
+          "points": [
+            {
+              "heading": "Signaler avant de confirmer",
+              "objective": "Permettre une réévaluation à partir de la situation actuelle.",
+              "exercise": [
+                "Décrire le changement sans le minimiser.",
+                "Contacter le relais professionnel convenu.",
+                "Garder la décision de participation ouverte pendant l’échange."
+              ],
+              "benefit": "L’ajustement peut précéder l’engagement au lieu de dépendre d’une promesse de tenir."
+            },
+            {
+              "heading": "Préciser la modalité choisie",
+              "objective": "Transformer une décision en conditions réellement organisées.",
+              "exercise": [
+                "Définir le format et les limites de la participation.",
+                "Demander aux organisateurs leur confirmation.",
+                "Vérifier que le cadre effectif correspond à ce qui a été convenu."
+              ],
+              "benefit": "Un arrangement explicite réduit les malentendus sans garantir à lui seul la sécurité."
+            },
+            {
+              "heading": "Conserver la possibilité de suspendre",
+              "objective": "Éviter que le projet devienne une obligation absolue.",
+              "exercise": [
+                "Reprendre avec l’équipe les modalités du relais.",
+                "Signaler tout nouveau changement pertinent.",
+                "Suspendre l’activité et solliciter immédiatement l’aide adaptée si la sécurité ne peut être maintenue."
+              ],
+              "benefit": "La prévention reste prioritaire sur le respect d’un programme ; un danger immédiat nécessite les services d’urgence locaux."
+            }
+          ]
+        }
+      ],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 12,
+      "slug": "ronan-travail-accompli-suivi-maintenu",
+      "title": "Le travail peut avancer tandis que le suivi continue",
+      "description": "Le catalogue est remis et cinq notices sont présentées à distance. Ronan termine son créneau et conserve la suite des soins.",
+      "context": "dans le bureau réservé le jour de la rencontre",
+      "topics": [
+        "Trouble exhibitionniste",
+        "participation adaptée",
+        "poursuite du suivi"
+      ],
+      "clinical_intro": "Une activité professionnelle accomplie ne démontre pas la disparition d’un trouble. Les adaptations choisies peuvent permettre un projet précis, tandis que les besoins de prévention et de soin restent évalués séparément. Ronan remet son catalogue et réalise une présentation limitée ; cette réussite lui appartient sans devenir un certificat de guérison.",
+      "opening": "La porte du bureau réservé est fermée. Ronan est seul devant l’écran, comme convenu. Il a posé la chemise grise à gauche du clavier et sa bouteille d’eau à droite. Sur la première image, la gare des Saules porte encore l’ancienne enseigne. La légende indique maintenant septembre. Cette date l’avait retenu bien plus longtemps qu’il ne l’aurait imaginé au début du catalogue.\n\nClaire ouvre la rencontre depuis la salle où se trouvent les autres participants. Elle annonce le titre Gares en correspondance et rappelle le format bref de l’intervention. Ronan partage uniquement la présentation préparée. Ses notes de santé et son agenda de suivi ne sont pas à l’écran. Les cinq notices se suivent dans l’ordre convenu ; il explique ce qui permet de dater une image et pourquoi le bâtiment du dépôt central avait d’abord prêté à confusion.\n\nUne question porte sur une photographie absente de la sélection. Ronan pourrait ouvrir le catalogue entier pour montrer la page. Il regarde l’heure et répond qu’elle figure dans le document remis séparément. Claire reprend la question et indique comment retrouver la notice. Il n’a pas besoin de prolonger sa présence pour montrer tout ce qu’il sait.\n\nLa dernière image reste quelques secondes affichée. Ronan entend son nom dans le remerciement de Claire. Il éprouve une satisfaction précise : les dates sont justes et le travail a été transmis. Son prochain rendez-vous demeure prévu. Aucune de ces deux réalités n’efface l’autre.",
+      "clinical_focus": "Le travail continue avec le suivi",
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "wfsbp-2020"
+      ],
+      "continuity": {
+        "choice": "Ronan remet Gares en correspondance, présente les cinq notices à distance, ferme son créneau et maintient le suivi ; un index devient un futur projet.",
+        "next": "L’enjeu professionnel de la série est résolu ; les soins et les décisions de prévention se poursuivent, indépendamment du prochain catalogue."
+      },
+      "ending_title": "La chemise est remise",
+      "ending": "Le catalogue complet a été remis à Claire. Ronan termine son créneau et ferme la visioconférence. Il range la chemise grise, puis vérifie la date de son prochain rendez-vous, qu’il conserve. Sur une feuille de travail, il note une idée : un index des anciennes lignes faciliterait les recherches du prochain catalogue. Il n’ajoute pas ce projet au programme d’aujourd’hui. Il pourra le proposer plus tard, avec ses contraintes et les réponses des autres.",
+      "conclusion": "Le catalogue et la présentation résolvent l’enjeu professionnel de cette série. Ronan poursuit sa vie d’archiviste, ses soins et ses décisions de prévention ; une réussite peut compter pleinement sans devenir la preuve que les difficultés ne reviendront plus.",
+      "mirror": [
+        "Claire peut remercier Ronan pour les cinq notices et la précision des légendes, sans commenter sa santé. À son retour, Marc pourra demander comment s’est passée la rencontre s’ils souhaitent en parler, sans organiser un contrôle rétrospectif. Reconnaître le travail accompli ne demande à aucun proche de déclarer le trouble disparu. Chacun garde ses limites, et les questions cliniques restent adressées à l’équipe."
+      ],
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Un accomplissement professionnel, une évolution clinique distincte",
+          "text": "Le fonctionnement professionnel et les besoins de soin ne se résument pas l’un à l’autre. Le trouble peut avoir un retentissement variable, et une activité réussie ne suffit pas à conclure à sa disparition. Les aménagements de Ronan sont ceux de cette situation fictive ; aucune efficacité thérapeutique ni obligation générale de l’employeur n’en est déduite. Terminer la présentation ne certifie pas un risque nul et ne transforme pas la prévention en étape devenue inutile."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment une réussite reste-t-elle à sa juste place ?",
+          "points": [
+            {
+              "heading": "Le rôle convenu peut être tenu",
+              "text": "Ronan accomplit la tâche professionnelle préparée.",
+              "examples": [
+                "Il présente les cinq notices sélectionnées.",
+                "Il répond à une question documentaire sur la datation."
+              ]
+            },
+            {
+              "heading": "La limite conserve son utilité au moment de réussir",
+              "text": "La satisfaction n’exige pas d’élargir la participation.",
+              "examples": [
+                "Il n’ouvre pas toutes les pages du catalogue à l’écran.",
+                "Il laisse Claire reprendre une question à la fin du créneau."
+              ]
+            },
+            {
+              "heading": "La suite des soins demeure indépendante",
+              "text": "L’événement n’est pas un examen clinique.",
+              "examples": [
+                "Le rendez-vous de suivi reste dans son agenda.",
+                "Les documents de santé sont restés séparés de la présentation."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour terminer un projet sans effacer le suivi",
+          "points": [
+            {
+              "heading": "Tenir le rôle préparé",
+              "objective": "Garder une tâche conforme à l’accord effectif.",
+              "exercise": [
+                "Vérifier le contenu prévu pour la présentation.",
+                "Répondre dans le périmètre documentaire convenu.",
+                "Confier à la modération les questions qui dépassent ce cadre."
+              ],
+              "benefit": "Le travail peut être partagé sans transformer la rencontre en démonstration de capacités illimitées."
+            },
+            {
+              "heading": "Respecter la fin du créneau",
+              "objective": "Faire de la clôture une partie du projet.",
+              "exercise": [
+                "Repérer le moment prévu pour terminer.",
+                "Indiquer où retrouver les informations complémentaires.",
+                "Fermer la participation selon l’organisation convenue."
+              ],
+              "benefit": "Une fin claire laisse une place au travail accompli et aux limites qui ont rendu ce format possible."
+            },
+            {
+              "heading": "Garder la prochaine étape de soin",
+              "objective": "Éviter que la satisfaction remplace une réévaluation.",
+              "exercise": [
+                "Vérifier le rendez-vous déjà prévu.",
+                "Noter les éléments utiles à discuter avec l’équipe, sans bilan improvisé de guérison.",
+                "Poursuivre les modalités de prévention convenues et signaler les changements pertinents."
+              ],
+              "benefit": "L’événement peut enrichir le suivi sans en déterminer seul la suite ; aucun exercice d’organisation ne remplace le soin."
+            }
+          ]
+        }
+      ],
+      "diagnostic_stage": "known"
     }
   ]
 }

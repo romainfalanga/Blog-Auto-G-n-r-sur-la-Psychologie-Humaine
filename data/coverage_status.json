@@ -24,15 +24,15 @@
     "other_frameworks": "APA pédagogique, RDoC recherche et CIF fonctionnement restent des grilles distinctes."
   },
   "counts": {
-    "articles": 1371,
-    "characters": 115,
-    "clinical_arcs": 82,
-    "clinical_episodes": 984,
+    "articles": 1419,
+    "characters": 119,
+    "clinical_arcs": 86,
+    "clinical_episodes": 1032,
     "original_articles_reviewed": 387,
     "icd11_chapter06_codes": 858,
     "icd11_ungrouped_codes": 10,
-    "icd11_primary_arcs": 78,
-    "clinical_cases_pending": 72,
+    "icd11_primary_arcs": 82,
+    "clinical_cases_pending": 68,
     "other_published_arcs": 4,
     "internal_patterns": 161,
     "internal_patterns_indexed": 161
@@ -191,7 +191,8 @@
       "codes": 8,
       "statuses": {
         "no_standalone_arc_planned": 2,
-        "pending_editorial_case": 6
+        "pending_editorial_case": 2,
+        "published_primary_arc": 4
       }
     },
     {
@@ -11190,12 +11191,30 @@
       "label": "Trouble exhibitionniste",
       "group_id": "BlockL1-6D3",
       "editorial_status": "parcours",
-      "coverage_status": "pending_editorial_case",
+      "coverage_status": "published_primary_arc",
       "reason": "diagnostic_distinct",
       "candidate_ids": [
         "ronan"
       ],
-      "published_primary": null,
+      "published_primary": {
+        "character_id": "ronan",
+        "name": "Ronan",
+        "reviewed_on": "2026-11-09",
+        "articles": [
+          "posts/comprendre-et-maitriser-ses-emotions/ronan-consentement-limites-conversation",
+          "posts/comprendre-et-maitriser-ses-emotions/ronan-controle-reponse-suivi",
+          "posts/comprendre-et-maitriser-ses-emotions/ronan-decision-soin-incertitudes",
+          "posts/comprendre-et-maitriser-ses-emotions/ronan-detresse-trouble-exhibitionniste-demander-aide",
+          "posts/comprendre-et-maitriser-ses-emotions/ronan-evaluation-individuelle-participation",
+          "posts/comprendre-et-maitriser-ses-emotions/ronan-fluctuation-reviser-participation",
+          "posts/comprendre-et-maitriser-ses-emotions/ronan-frustration-appui-soin",
+          "posts/comprendre-et-maitriser-ses-emotions/ronan-justification-permission-limite",
+          "posts/comprendre-et-maitriser-ses-emotions/ronan-proche-soutien-limites-disponibilite",
+          "posts/comprendre-et-maitriser-ses-emotions/ronan-schema-durable-journee-calme",
+          "posts/comprendre-et-maitriser-ses-emotions/ronan-sommeil-nouveau-changement-bilan",
+          "posts/comprendre-et-maitriser-ses-emotions/ronan-travail-accompli-suivi-maintenu"
+        ]
+      },
       "reference_url": "https://icd.who.int/browse/2026-01/mms/fr#141881468"
     },
     {
@@ -11203,12 +11222,30 @@
       "label": "Trouble voyeuriste",
       "group_id": "BlockL1-6D3",
       "editorial_status": "parcours",
-      "coverage_status": "pending_editorial_case",
+      "coverage_status": "published_primary_arc",
       "reason": "diagnostic_distinct",
       "candidate_ids": [
         "amael"
       ],
-      "published_primary": null,
+      "published_primary": {
+        "character_id": "amael",
+        "name": "Amaël",
+        "reviewed_on": "2026-11-09",
+        "articles": [
+          "posts/comprendre-et-maitriser-ses-emotions/amael-consentement-et-vie-privee",
+          "posts/comprendre-et-maitriser-ses-emotions/amael-detresse-et-consultation",
+          "posts/comprendre-et-maitriser-ses-emotions/amael-evolution-et-reussite",
+          "posts/comprendre-et-maitriser-ses-emotions/amael-honte-et-parole-clinique",
+          "posts/comprendre-et-maitriser-ses-emotions/amael-limites-des-proches",
+          "posts/comprendre-et-maitriser-ses-emotions/amael-participation-et-suivi",
+          "posts/comprendre-et-maitriser-ses-emotions/amael-pensees-et-comportements",
+          "posts/comprendre-et-maitriser-ses-emotions/amael-reevaluation-changement-recent",
+          "posts/comprendre-et-maitriser-ses-emotions/amael-responsabilites-prevention",
+          "posts/comprendre-et-maitriser-ses-emotions/amael-retentissement-au-travail",
+          "posts/comprendre-et-maitriser-ses-emotions/amael-schema-persistant-au-travail",
+          "posts/comprendre-et-maitriser-ses-emotions/amael-soin-individualise"
+        ]
+      },
       "reference_url": "https://icd.who.int/browse/2026-01/mms/fr#1832861162"
     },
     {
@@ -11216,12 +11253,30 @@
       "label": "Trouble pédophile",
       "group_id": "BlockL1-6D3",
       "editorial_status": "parcours",
-      "coverage_status": "pending_editorial_case",
+      "coverage_status": "published_primary_arc",
       "reason": "diagnostic_distinct",
       "candidate_ids": [
         "remiel"
       ],
-      "published_primary": null,
+      "published_primary": {
+        "character_id": "remiel",
+        "name": "Rémiël",
+        "reviewed_on": "2026-11-09",
+        "articles": [
+          "posts/comprendre-et-maitriser-ses-emotions/remiel-acces-suivi",
+          "posts/comprendre-et-maitriser-ses-emotions/remiel-attention-disponible",
+          "posts/comprendre-et-maitriser-ses-emotions/remiel-continuite-apres-projet",
+          "posts/comprendre-et-maitriser-ses-emotions/remiel-crainte-jugement",
+          "posts/comprendre-et-maitriser-ses-emotions/remiel-diagnostic-responsabilite",
+          "posts/comprendre-et-maitriser-ses-emotions/remiel-difficultes-associees",
+          "posts/comprendre-et-maitriser-ses-emotions/remiel-incertitude-soins",
+          "posts/comprendre-et-maitriser-ses-emotions/remiel-limites-soutien",
+          "posts/comprendre-et-maitriser-ses-emotions/remiel-periode-calme",
+          "posts/comprendre-et-maitriser-ses-emotions/remiel-planning-soins",
+          "posts/comprendre-et-maitriser-ses-emotions/remiel-relais-urgent",
+          "posts/comprendre-et-maitriser-ses-emotions/remiel-termes-diagnostiques"
+        ]
+      },
       "reference_url": "https://icd.who.int/browse/2026-01/mms/fr#517058174"
     },
     {
@@ -11229,12 +11284,30 @@
       "label": "Trouble du sadisme sexuel coercitif",
       "group_id": "BlockL1-6D3",
       "editorial_status": "parcours",
-      "coverage_status": "pending_editorial_case",
+      "coverage_status": "published_primary_arc",
       "reason": "diagnostic_distinct",
       "candidate_ids": [
         "marceau"
       ],
-      "published_primary": null,
+      "published_primary": {
+        "character_id": "marceau",
+        "name": "Marceau",
+        "reviewed_on": "2026-11-09",
+        "articles": [
+          "posts/comprendre-et-maitriser-ses-emotions/marceau-changement-reevaluation",
+          "posts/comprendre-et-maitriser-ses-emotions/marceau-choix-therapeutique",
+          "posts/comprendre-et-maitriser-ses-emotions/marceau-consentement-limites",
+          "posts/comprendre-et-maitriser-ses-emotions/marceau-controle-vecu-persistant",
+          "posts/comprendre-et-maitriser-ses-emotions/marceau-detresse-legende",
+          "posts/comprendre-et-maitriser-ses-emotions/marceau-fluctuations-progres",
+          "posts/comprendre-et-maitriser-ses-emotions/marceau-honte-parole-clinique",
+          "posts/comprendre-et-maitriser-ses-emotions/marceau-informations-protection",
+          "posts/comprendre-et-maitriser-ses-emotions/marceau-justifications-responsabilite",
+          "posts/comprendre-et-maitriser-ses-emotions/marceau-participation-suivi-durable",
+          "posts/comprendre-et-maitriser-ses-emotions/marceau-soutien-limites",
+          "posts/comprendre-et-maitriser-ses-emotions/marceau-stress-calendrier"
+        ]
+      },
       "reference_url": "https://icd.who.int/browse/2026-01/mms/fr#1890228613"
     },
     {
@@ -12559,34 +12632,6 @@
     }
   ],
   "pending_cases": [
-    {
-      "character_id": "ronan",
-      "name": "Ronan",
-      "code": "6D30",
-      "label": "Trouble exhibitionniste",
-      "decision": "À documenter puis choisir entre récit, comparaison et dossier."
-    },
-    {
-      "character_id": "amael",
-      "name": "Amaël",
-      "code": "6D31",
-      "label": "Trouble voyeuriste",
-      "decision": "À documenter puis choisir entre récit, comparaison et dossier."
-    },
-    {
-      "character_id": "remiel",
-      "name": "Rémiël",
-      "code": "6D32",
-      "label": "Trouble pédophile",
-      "decision": "À documenter puis choisir entre récit, comparaison et dossier."
-    },
-    {
-      "character_id": "marceau",
-      "name": "Marceau",
-      "code": "6D33",
-      "label": "Trouble du sadisme sexuel coercitif",
-      "decision": "À documenter puis choisir entre récit, comparaison et dossier."
-    },
     {
       "character_id": "sylvain",
       "name": "Sylvain",

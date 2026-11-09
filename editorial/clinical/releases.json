@@ -682,6 +682,46 @@
       "design_sha256": "0c03eb655dc681972b67afdafefea45ceb65702106064040cdad55f94e5dd4e3",
       "independent_review_sha256": "b15e5e52875ce911b4b5fb3884977bb2308c2ffe62e93adb3d871a1b2608a4ab",
       "review": "Douze épisodes relus indépendamment par review_irma. Localisateur NICE corrigé dans le dossier, puis validations personnage et rédaction renouvelées et relecture finale acceptée. Plan/manuscrit conservés ; sources, limites des essais, continuité et proches vérifiés."
+    },
+    "ronan": {
+      "date": "2026-11-09",
+      "status": "editorially_reviewed",
+      "article_format": 2,
+      "sha256": "22c482c6191735a01ec5541851ffabe7e5eeeca43b54e48a6a6225ebaedffbf2",
+      "dossier_sha256": "243928a024942a596852433bc812cd56cc11b20701a47810ecd35b12f5927f87",
+      "design_sha256": "0cba2e51f093c3ef044176ad3ce3916b07d68badd6cadba0dda9a665673700d0",
+      "independent_review_sha256": "f31eca32798e3e9b220bae16b4200ba5c1f50fa270d98df0221416a2670d8cdf",
+      "review": "Douze épisodes relus indépendamment par review_ronan, sources OMS et WFSBP vérifiées, trame de référence et continuité contrôlées. Consentement, diagnostic distinct des actes, limites de preuve et des proches conservés. Aucune correction ouverte."
+    },
+    "amael": {
+      "date": "2026-11-09",
+      "status": "editorially_reviewed",
+      "article_format": 2,
+      "sha256": "e7695d3a5e0302c52fb178ce1c45026a21291b9768e71b2bbcd5f555f3ee18fa",
+      "dossier_sha256": "1304ffdb7a53e459723664923a80227e538a420b08ed6fd0bf94a766739889bf",
+      "design_sha256": "0199f947f6509effe07d9bd3ccf794eaee5413debb9cf52354fc9501437034af",
+      "independent_review_sha256": "fdc890081fe02139c788eaf0bafce16017509933f08c0fa1e0b7f11f0527cb34",
+      "review": "Douze épisodes relus indépendamment par review_amael, sources primaires OMS et WFSBP vérifiées. Continuité, trame de référence, consentement, démarches de soin et proches contrôlés ; aucune correction ouverte."
+    },
+    "remiel": {
+      "date": "2026-11-09",
+      "status": "editorially_reviewed",
+      "article_format": 2,
+      "sha256": "ea33838298183caf55faf24ef86ae0bc54be475e619e804f8ad66859afac9517",
+      "dossier_sha256": "79e047de73e07aacf4a44aeb667c1c95301701870d1a7da0acd37d8ab97c50c4",
+      "design_sha256": "ff11cdc9ccb207672804cf72dffc2155a3218d0e289717553ff699965c1ed2d0",
+      "independent_review_sha256": "e75b96d090e950dbdca2a9ba2edbc61c69af4af599c863029ce754b7da004336",
+      "review": "Douze épisodes relus indépendamment par review_remiel ; sources OMS, FFCRIAVS et limites des études primaires vérifiées. Cadre exclusivement adulte, récit non graphique, urgence réellement prise en charge, trame et continuité validées ; aucune correction ouverte."
+    },
+    "marceau": {
+      "date": "2026-11-09",
+      "status": "editorially_reviewed",
+      "article_format": 2,
+      "sha256": "df906e9128b531ca2dcb011f8eb1e7308d3d016ca9f834a41921acfef91a6249",
+      "dossier_sha256": "a60cd50435e0b06cfd23d30de7fa49cf21113dcd0faf9ab6b8d7d6a6053de4e4",
+      "design_sha256": "eac6b5450fa6f5147fc809417d4b3cc6fdcd4bb2d24bbdc7be29f5c656957a01",
+      "independent_review_sha256": "e0b458a6220b3b0e67a5fe4a08893a44d90ffa4df89e643aa5e298d1561fbc19",
+      "review": "Douze épisodes relus indépendamment par review_marceau ; sources OMS et limites WFSBP vérifiées. Consentement, soins effectifs, protection, limites des proches, trame et continuité contrôlés ; aucune scène graphique ni correction ouverte."
     }
   }
 }

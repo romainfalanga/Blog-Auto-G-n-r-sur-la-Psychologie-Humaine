@@ -1,0 +1,124 @@
+{
+  "schema_version": 1,
+  "character_id": "remiel",
+  "reviewer": "review_remiel",
+  "reviewed_on": "2026-11-09",
+  "status": "passed",
+  "summary": "Lecture indépendante intégrale des douze épisodes, du canon, du dossier et du design, avec comparaison à la charte et au modèle. Les douze axes correspondent au plan et distinguent manifestations, retentissements et enjeux de prise en charge. Tous les interlocuteurs et lieux narratifs restent adultes ; aucun enfant particulier, scène sexuelle, acte supposé ou conseil de contournement. Le recours urgent de 8 est immédiat et effectif, suivi du relais clinique avant la reprise limitée de 9. Les appuis sont organisationnels et cliniques, sans traitement autonome ni garantie de sécurité. Vérifications primaires complémentaires : CDDR OMS p.577–580, page FFCRIAVS STOP, limites de Landgren 2020 et résumé PARACHUTES 2024 ; le résumé de Jahnke confirme une enquête associative, sans causalité attribuée. Les limites aux proches et les raccords du baromètre, de la notice et de la photo sont maintenus. Aucun point de correction ouvert. Les contrôles de contrat complètent cette lecture sans s’y substituer.",
+  "files": {
+    "editorial/clinical/designs/remiel.json": "ff11cdc9ccb207672804cf72dffc2155a3218d0e289717553ff699965c1ed2d0",
+    "editorial/clinical/dossiers/remiel.json": "79e047de73e07aacf4a44aeb667c1c95301701870d1a7da0acd37d8ab97c50c4",
+    "editorial/clinical/remiel.json": "ea33838298183caf55faf24ef86ae0bc54be475e619e804f8ad66859afac9517"
+  },
+  "findings": [],
+  "episode_checks": [
+    {
+      "number": 1,
+      "focus": "Diagnostic et responsabilité",
+      "opening_quote": "Anne pose la fiche du baromètre au bord du bureau. Elle attend une estimation pour la collection dont elle est responsable. Rémiël a inscrit les dimensions du boîtier, l’état du cadran et les premières opérations à examiner. La case du délai reste vide. À quarante-cinq ans, ce restaurateur d’instruments sait expliquer pourquoi une graduation doit rester visible. Ce matin, il peine à répondre à une question beaucoup plus courte : quand pourra-t-il rendre son devis ?",
+      "ending_quote": "Rémiël confirme la consultation.",
+      "continuity_note": "La fiche initiale du baromètre reste sans délai jusqu’au rendez-vous, puis la consultation se déroule dans la fin ; le retour à l’atelier ouvre donc logiquement la mesure de l’épisode 2. Âge de 45 ans, métier et espaces adultes concordent avec le canon.",
+      "clinical_note": "La définition demeure abstraite et distingue trouble, détresse et actes sans inventer une infraction. Les démarches sur la question clinique, les modalités du suivi et le devis ne sont ni un traitement ni une attestation de sécurité.",
+      "relatives_note": "Anne reçoit les observations techniques et une échéance pour le devis, sans récit médical imposé. Le miroir réserve explicitement les informations nécessaires à la protection aux professionnels concernés."
+    },
+    {
+      "number": 2,
+      "focus": "Préoccupation et attention disponible",
+      "opening_quote": "Rémiël aligne le crayon avec le bord du carnet, puis relit la mesure qu’il vient d’inscrire. La même valeur apparaît deux lignes plus haut. Il ne sait plus laquelle correspond à l’observation qu’il voulait vérifier. L’atelier est silencieux ; il y travaille seul dans le cadre réservé aux adultes. Son rendez-vous avec Vidal a permis de fixer le calendrier du suivi, mais ce calendrier ne fait pas disparaître la préoccupation.",
+      "ending_quote": "Pendant l’échange, Rémiël transmet la difficulté au service.",
+      "continuity_note": "La mesure recopiée concrétise le problème d’attention annoncé ; elle reste non validée et la finition est arrêtée. La transmission au service a réellement lieu dans la fin, et la crainte du jugement prépare la consultation suivante.",
+      "clinical_note": "La gêne attentionnelle est décrite comme retentissement individuel, sans trouble cognitif ajouté. Suspendre une mesure incertaine protège la qualité technique ; ce geste ne prétend pas agir sur le trouble et aucun contenu sexuel n’est décrit.",
+      "relatives_note": "La question proposée à Anne sépare provisoire et validé. Elle porte sur les mesures de la notice, laisse l’interprétation clinique aux professionnels et ne convertit pas la collègue en surveillante."
+    },
+    {
+      "number": 3,
+      "focus": "Crainte du jugement clinique",
+      "opening_quote": "Rémiël a plié sa feuille en quatre pour la glisser dans sa poche. Dans le cabinet de Vidal, il la déplie sur ses genoux et cherche la phrase préparée après son dernier échange avec le service. Il avait écrit qu’il était préoccupé au point de perdre le fil de son travail. Sous cette ligne, il avait ajouté : « J’ai peur de votre jugement quand je parle. » Avant de venir, il a barré la seconde phrase. Elle reste lisible.",
+      "ending_quote": "« J’ai peur de votre jugement quand je parle », dit enfin Rémiël.",
+      "continuity_note": "La feuille préparée reprend exactement le contact court de l’épisode 2. La phrase barrée est finalement dite ; Vidal poursuit l’évaluation et propose un entretien complémentaire qui reste explicitement à réserver, sans soin fictivement déjà reçu.",
+      "clinical_note": "La peur du jugement est un obstacle individuel au dialogue. L’explication ne tire aucune causalité de violence des données associatives de Jahnke et rappelle que le soin ne garantit pas un secret absolu. Les exercices facilitent la transmission utile.",
+      "relatives_note": "Anne ne connaît pas la feuille ni le contenu de consultation. Sa demande de confirmation de date est cohérente avec le chantier et le miroir exclut expressément la dissimulation d’informations de sécurité aux professionnels."
+    },
+    {
+      "number": 4,
+      "focus": "Accès au suivi spécialisé",
+      "opening_quote": "Le numéro du secrétariat figure sur la feuille que Rémiël a rapportée du cabinet de Vidal. Il appelle depuis le bureau de l’atelier, avant d’ouvrir son devis. La personne qui répond retrouve la demande d’entretien complémentaire et lui propose une date. Rémiël la répète, puis regarde son agenda : c’est le moment qu’il avait réservé pour achever l’estimation destinée à Anne.",
+      "ending_quote": "Quelques jours plus tard, Rémiël se rend à l’entretien complémentaire convenu.",
+      "continuity_note": "L’appel concrétise l’orientation laissée ouverte en 3. Le conflit avec le devis est résolu en déplaçant le travail, puis une ellipse de quelques jours montre la consultation complémentaire effective avant le nouveau planning avec Anne.",
+      "clinical_note": "STOP est correctement présenté comme dispositif français d’évaluation et d’orientation, sans rendez-vous immédiat garanti. La page primaire FFCRIAVS consultée confirme sa distinction avec les secours ; le rendez-vous futur n’impose aucune attente en urgence.",
+      "relatives_note": "Anne propose un échange sur le devis à date claire sans réclamer de compte rendu médical. La dernière phrase du miroir l’écarte explicitement d’un rôle d’astreinte en cas de question de santé ou de protection."
+    },
+    {
+      "number": 5,
+      "focus": "Retentissement professionnel du suivi",
+      "opening_quote": "Anne tourne les deux pages de la notice provisoire. Dans l’atelier réservé aux adultes, le baromètre est posé à côté du dossier ; la vérification laissée en attente apparaît encore dans la liste de travail. Rémiël a préparé un calendrier qui remplit presque toute la semaine. Sur le papier, chaque opération trouve une place. Il a seulement oublié le temps qu’il lui faudra pour revenir sur une mesure incertaine.",
+      "ending_quote": "Anne accepte de recevoir la notice provisoire avant l’objet terminé.",
+      "continuity_note": "La vérification non validée en 2 est encore visible dans la notice de 5. Anne accepte deux livraisons et Marc accepte le principe de la photo, dont le créneau reste à fixer ; la suite ne suppose donc pas une séance déjà réalisée.",
+      "clinical_note": "Le délai intègre les reprises techniques et le temps de soin, sans inventer une règle de métier. L’arrangement en deux étapes est bien qualifié de choix de fiction et conserve le cadre protecteur adulte, sans nouvelle exposition.",
+      "relatives_note": "Le miroir donne à Anne une question précise sur le statut du document. Marc peut accepter la photographie de l’objet sans prendre le suivi, et ni le résultat technique ni la productivité ne servent à évaluer la santé."
+    },
+    {
+      "number": 6,
+      "focus": "Distinguer les termes diagnostiques",
+      "opening_quote": "« C’est une obsession », dit Rémiël en parlant du temps passé à s’inquiéter de son trouble. Il a laissé le planning professionnel dans son sac ; le rendez-vous avec Vidal n’est pas une réunion sur la livraison. Pourtant, il revient vite à ce qu’il connaît le mieux : la mesure reprise, la notice provisoire et le créneau de photographie encore à fixer. Il voudrait que ces faits permettent de comprendre ce qu’il veut dire.",
+      "ending_quote": "Rémiël note : « Préoccupation ne signifie pas à elle seule autre diagnostic.",
+      "continuity_note": "Le planning établi est laissé dans le sac pendant la consultation : la question porte sur le mot obsession, pas sur un nouveau devis. Le sommeil et l’élan dégradés sont effectivement signalés en fin et donnent le sujet de 7.",
+      "clinical_note": "Les distinctions OMS CDDR entre trouble pédophile, TOC et comportement sexuel compulsif sont respectées sans questionnaire ni auto-test. Le diagnostic connu demeure ; le mot courant est clarifié plutôt qu’utilisé pour ajouter une pathologie.",
+      "relatives_note": "Marc peut demander ce que signifie le mot dans la conversation et répondre à un besoin de travail. La proposition reste interrogative, n’affirme aucun diagnostic et renvoie les changements de santé au soignant."
+    },
+    {
+      "number": 7,
+      "focus": "Évaluer les difficultés associées",
+      "opening_quote": "La notice provisoire se trouve toujours dans la chemise bleue. Rémiël l’a apportée au rendez-vous suivant parce qu’elle lui fournit un exemple simple : depuis plusieurs matinées, il reste devant sans parvenir à l’ouvrir. Il décrit ce changement à Vidal. Ce n’est pas la même difficulté que la mesure recopiée ; cette fois, il peine à commencer. Ses nuits ont aussi raccourci, sans qu’il sache expliquer pourquoi.",
+      "ending_quote": "L’entretien a lieu et l’équipe adapte les contacts à la situation de Rémiël, sans annoncer ici de nouveau diagnostic.",
+      "continuity_note": "Le rendez-vous suivant examine réellement les difficultés annoncées en 6. La chemise fermée illustre la baisse d’élan ; la finition est suspendue et les contacts sont rapprochés. L’urgence de 8 survient malgré ce cadre et ne contredit pas sa présence.",
+      "clinical_note": "Ni dépression ni addiction n’est déduite du sommeil et de l’élan. Les démarches demandent une chronologie approximative honnête et une évaluation, sans seuil diagnostique. Le relais des secours reste immédiat si une urgence apparaît.",
+      "relatives_note": "Anne reçoit le report professionnel sans devenir responsable des nuits de Rémiël. Le miroir distingue cet aménagement d’un danger éventuel, qui exigerait un appui professionnel ou urgent et ne serait pas réglé par un délai."
+    },
+    {
+      "number": 8,
+      "focus": "Répondre à une aggravation urgente",
+      "opening_quote": "À son domicile, Rémiël constate un changement qui lui fait craindre de ne plus maintenir la sécurité. Il appelle immédiatement les secours. Dès le début de l’échange, il dit qu’il a besoin d’une évaluation urgente et qu’il est déjà suivi par un service spécialisé. Il répond aux questions, donne sa localisation et explique clairement sa crainte. Aucun récit détaillé de scénario n’est nécessaire ici pour comprendre la priorité : la protection et le relais professionnel.",
+      "ending_quote": "Rémiël est évalué et son service spécialisé reçoit le relais clinique.",
+      "continuity_note": "L’appel aux secours apparaît dès la deuxième phrase de l’ouverture, suivi des consignes et d’une évaluation effective ; la fin assure le relais au service spécialisé et maintient le chantier suspendu jusqu’à la discussion clinique suivante.",
+      "clinical_note": "Le récit ne décrit aucun scénario, aucune personne mineure, aucun contenu sexuel ni auto-test. La crainte de ne plus maintenir la sécurité conduit immédiatement aux secours, conformément à la page primaire FFCRIAVS ; la section pratique commence aussi par appeler, sans préparation préalable.",
+      "relatives_note": "Marc apprend uniquement le report de la photo et ne reçoit aucune mission de surveillance. Si un proche apprend un danger immédiat, le miroir lui fait contacter les secours sans attendre le suivi et exclut toute promesse de secret."
+    },
+    {
+      "number": 9,
+      "focus": "Décisions de soin et incertitude",
+      "opening_quote": "Rémiël retrouve Vidal après l’évaluation urgente. Le relais a été transmis au service ; la docteure reprend avec lui ce qui a changé et les suites à organiser. Il n’a pas ouvert le chantier depuis sa suspension. Dans son carnet, aucune nouvelle date de livraison n’a remplacé celle qui a été reportée. Il attend d’abord de comprendre le cadre du suivi.",
+      "ending_quote": "Rémiël et Vidal conviennent de poursuivre le suivi adapté et d’une réévaluation.",
+      "continuity_note": "Le retour chez Vidal intervient après le relais urgent, sans reprise anticipée du chantier. La reprise limitée est discutée dans le cadre adulte avant l’appel à Marc de 10 ; un prochain point clinique est convenu au lieu d’une garantie finale.",
+      "clinical_note": "Landgren distingue dans la source primaire consultée facteurs de risque et violences effectives ; PARACHUTES 2024 est un protocole et une faisabilité, non une preuve d’efficacité. L’épisode garde ces limites, ne nomme ni médicament ni dose et fait discuter objectifs, risques et réévaluation.",
+      "relatives_note": "Marc est sollicité pour les images de l’objet et non pour conclure à une guérison après l’urgence. La phrase proposée sépare clairement aide pratique et suivi, sans réclamer le contenu de l’évaluation urgente."
+    },
+    {
+      "number": 10,
+      "focus": "Limites du soutien adulte",
+      "opening_quote": "Rémiël appelle Marc depuis le bureau de l’atelier. Après le rendez-vous avec Vidal, il a repris la notice par une étape limitée, dans les conditions discutées. Il peut désormais envisager la photographie technique. Il explique qu’il lui faudrait une courte séance pour obtenir une image lisible du cadran, puis attend la réponse de son collègue.",
+      "ending_quote": "Marc réserve une courte séance dans l’atelier réservé aux adultes.",
+      "continuity_note": "La reprise de la notice suit le point clinique de 9. La photographie précédemment acceptée trouve enfin une date et une durée ; la lumière sur le cadran maintient une relation professionnelle ordinaire sans oublier les conditions adultes.",
+      "clinical_note": "Le besoin de disponibilité se distingue du soin : aucun proche ne peut garantir le risque. Le recours à STOP pour une orientation du proche est conforme à sa page primaire, tandis que l’urgence reste adressée aux secours sans attendre Marc.",
+      "relatives_note": "Marc formule une limite concrète sur sa permanence et Rémiël l’accepte sans culpabilisation. Le miroir autorise aussi Marc à chercher un appui pour lui-même et lui rappelle le recours aux secours face à un danger immédiat."
+    },
+    {
+      "number": 11,
+      "focus": "Fluctuations sans garantie de guérison",
+      "opening_quote": "La photographie technique a eu lieu au créneau convenu. Marc a déplacé son matériel dans l’espace laissé près de l’établi et obtenu une image sans le reflet gênant. Il est reparti à l’heure prévue. Rémiël a inséré la photographie dans la notice provisoire, puis transmis celle-ci à Anne avec les vérifications encore à achever clairement indiquées. Le projet avance par des opérations dont il peut nommer le résultat.",
+      "ending_quote": "Rémiël maintient le rendez-vous et les modalités de prévention.",
+      "continuity_note": "La séance annoncée en 10 se tient et Marc part à l’heure convenue. La notice provisoire est réellement transmise à Anne avant la finale ; la mesure incertaine trouve enfin sa vérification et le rendez-vous n’est pas remplacé par une correction technique.",
+      "clinical_note": "Les journées plus calmes sont des observations, pas une mesure du risque ni une guérison proclamée. L’évolution variable concorde avec les CDDR ; les mesures restent en place après le contact réellement réalisé avec Vidal et ne deviennent pas une récompense.",
+      "relatives_note": "Marc peut apprécier la lisibilité de la photo sans la convertir en constat clinique. Il peut suggérer de discuter une annulation avec l’équipe sans exiger de comptes rendus ou se substituer au professionnel."
+    },
+    {
+      "number": 12,
+      "focus": "Continuité du soin après le projet",
+      "opening_quote": "Anne pose la notice finale sur le bureau de l’atelier. Cette fois, la première page ne porte plus la mention provisoire. Rémiël lui montre où figurent les interventions réalisées et les vérifications achevées. Le baromètre restauré est prêt à être remis à la collection. Dans cet espace réservé aux adultes, Marc prépare une dernière photographie de l’objet terminé pour le dossier de réception.",
+      "ending_quote": "Anne emporte le baromètre et la notice après avoir confirmé la réception.",
+      "continuity_note": "Anne réceptionne le baromètre et la notice finale dans le même atelier adulte ; Marc fournit la dernière image de l’objet. L’enjeu de livraison est fermé, et la prochaine restauration n’est qu’une possibilité à examiner avec les interlocuteurs compétents.",
+      "clinical_note": "L’accomplissement professionnel est explicitement séparé du diagnostic et du risque. Les trois démarches concernent réception, prochain suivi et examen des conditions futures ; aucune efficacité thérapeutique, nouvelle liberté d’accès ou guérison n’est déduite de la réussite.",
+      "relatives_note": "Anne et Marc peuvent remercier pour les livrables puis reprendre leurs rôles. La phrase sur le prochain projet préserve les conditions adultes et les limites de disponibilité, sans réassurance absolue ni relâchement du cadre protecteur."
+    }
+  ]
+}
