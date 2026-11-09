@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "revision": 435,
+  "revision": 443,
   "created_at": "2026-11-07T14:47:42Z",
   "cases": {
     "mathis": {
@@ -3022,7 +3022,7 @@
     "agnes": {
       "character_id": "agnes",
       "code": "6B62",
-      "stage": "ready_to_publish",
+      "stage": "published",
       "created_at": "2026-11-07T14:47:42Z",
       "active_job": null,
       "owners": {
@@ -3091,12 +3091,42 @@
         "design_sha256": null,
         "dossier_sha256": null,
         "review_sha256": null
+      },
+      "publication": {
+        "verified_at": "2026-11-09T20:48:18Z",
+        "release": {
+          "date": "2026-11-09",
+          "status": "editorially_reviewed",
+          "article_format": 2,
+          "sha256": "7b197a7de6cdfabce50b5f7ca7dbad862fa1ede872d17599a3ed887ac4f91225",
+          "dossier_sha256": "d9897121a466c14c2d88064cddabe6cb7452398376fab9e0ce9a160097bef52b",
+          "design_sha256": "678c3660441168d422e4e0a1573f49e5f4793ad39c06d5a1246f607ee68b861f",
+          "independent_review_sha256": "7b10a616f424131ac607c79d37d38a97f0319025e0185ec79e0b192c3a8eb64a",
+          "review": "Douze épisodes relus intégralement par review_agnes ; cinq formulations métanarratives corrigées puis seconde lecture complète acceptée. Sources, continuité et conseils aux proches contrôlés ; rapport indépendant lié aux empreintes. Publication distante encore en attente."
+        },
+        "files": {
+          "content/posts/comprendre-et-maitriser-ses-emotions/agnes-conscience-retrecie.md": "1fd9cf1db32bc2cf9f95ec4e53b478e15e176b22ed602b083ab2ea3600e16398",
+          "content/posts/comprendre-et-maitriser-ses-emotions/agnes-geste-sans-intention.md": "7ae628c4809b17673bcb040be3fd309f0e05ad679d95b9d3a0d05cd8f2036f0f",
+          "content/posts/comprendre-et-maitriser-ses-emotions/agnes-souvenirs-incomplets.md": "fcf59994cce7c202ae1ab821668e8f2a56e8b10dfb88eff34cffc724f3292184",
+          "content/posts/comprendre-et-maitriser-ses-emotions/agnes-fatigue-apres-episode.md": "0bf23c79b64fa24ade05e60af603b2209a34b91b8901c23e581a42df52d415bd",
+          "content/posts/comprendre-et-maitriser-ses-emotions/agnes-pratique-culturelle-choisie.md": "9d8513b5678efdf3bcb2f425d5d7f15774582404bcd3f27799647f5043596764",
+          "content/posts/comprendre-et-maitriser-ses-emotions/agnes-transe-et-possession.md": "c196bcd9a3276131031da646a988e35d5f79d1151b277613dba19eeac50b0022",
+          "content/posts/comprendre-et-maitriser-ses-emotions/agnes-malaise-inhabituel-reevaluation.md": "0f2d7178ce15325dd4b7a6208adfae673f99dc697d259871362ba341d267d5cf",
+          "content/posts/comprendre-et-maitriser-ses-emotions/agnes-relais-sans-signal.md": "d65a3b01512971ab5c246ebecb0552df1415d834b0dd284e0211f769ec70685f",
+          "content/posts/comprendre-et-maitriser-ses-emotions/agnes-circonstances-et-cause.md": "6cbea4dd739e7a0aa7f5426e33d9b34073e4c00033b8fe16842a40da9bd142e4",
+          "content/posts/comprendre-et-maitriser-ses-emotions/agnes-recurrence-et-relais.md": "b277bf95a49268bec79708ebad88ed231fddca32223a940c91b0437a0e9a1c8e",
+          "content/posts/comprendre-et-maitriser-ses-emotions/agnes-effort-invisible-preparation.md": "0277adf0b879455f8cef1c71493acd8ab021c55560a4579635e3cee7463bbe4e",
+          "content/posts/comprendre-et-maitriser-ses-emotions/agnes-atelier-appuis-durables.md": "64ae0fec38a8a03efeb035bd928a8009f084f9fb78e66e1cb699c2145f4c6e71",
+          "content/personnages/agnes.md": "1e62a86136f888181bfc03ce2e9cf8a5607cdc6dd943815628fc4a5030afbf55",
+          "data/article_mirrors/agnes.json": "37001f9bd60c87134f7fc5faff5861d33f7cb1f7c8c5a896da8764ec4b23fd1d"
+        },
+        "topics_sha256": "4eb2fd93e3777a8ba3b4ebb92d8284748393f21f33d8fbe4135cdc750fc3b50d"
       }
     },
     "khadija": {
       "character_id": "khadija",
       "code": "6B63",
-      "stage": "ready_to_publish",
+      "stage": "published",
       "created_at": "2026-11-07T14:47:42Z",
       "active_job": null,
       "owners": {
@@ -3165,6 +3195,36 @@
         "design_sha256": null,
         "dossier_sha256": null,
         "review_sha256": null
+      },
+      "publication": {
+        "verified_at": "2026-11-09T20:48:18Z",
+        "release": {
+          "date": "2026-11-09",
+          "status": "editorially_reviewed",
+          "article_format": 2,
+          "sha256": "08cf03b0a19e21aa418c9b7e8d5f431f36090feb9f1bcd4a7bbdb70f6897dd86",
+          "dossier_sha256": "d56f8109cd004c52c660f2c00550b9adaae248200ca04d81870e1513d9ca48d8",
+          "design_sha256": "bad9469dde291fbbdd83864c6280aa07d7aac6aa6e6819fe6ce670aa7f465a10",
+          "independent_review_sha256": "4105d4443e89841e840ec5befe31015e6bded6465c54651d8df572ba19cd2c0b",
+          "review": "Douze épisodes relus intégralement par review_khadija ; rapport indépendant accepté sans correction ouverte. Sources OMS/NICE, continuité, confidentialité et proches vérifiés. Publication distante en attente."
+        },
+        "files": {
+          "content/posts/comprendre-et-maitriser-ses-emotions/khadija-sentiment-de-soi.md": "db3d10b8d4e07b7d14ef2fbd0666b8cde40bd15697cfa444387b14f3c04eb92d",
+          "content/posts/comprendre-et-maitriser-ses-emotions/khadija-parole-et-commande.md": "204ec0873f20bed7070bab3a4b664efc805bfbe471e4aa5920ffe9fadc4e84fe",
+          "content/posts/comprendre-et-maitriser-ses-emotions/khadija-souvenirs-incomplets.md": "bcb72ecaeffa736ddc8ca14fb543b0665ec83569f243cdc3f6cf43ddb5583678",
+          "content/posts/comprendre-et-maitriser-ses-emotions/khadija-mots-communs-au-soin.md": "2440e5c23841d890737965b7c023b529eab0891fc4b7021a89f67ba904995401",
+          "content/posts/comprendre-et-maitriser-ses-emotions/khadija-pratique-choisie-episode-subi.md": "620298d8bb92ab8bbf9819ca55d743dba12a67a8cc033906773543a88169b91e",
+          "content/posts/comprendre-et-maitriser-ses-emotions/khadija-volonte-et-episode.md": "0e985a24f301d37c7dd8479ad57a82a338b2a56116cc64d7f7ec1145d90a18e9",
+          "content/posts/comprendre-et-maitriser-ses-emotions/khadija-diagnostic-et-evaluation.md": "fdf37162e248e2a9edcb922cc2a523da6fd24a6a849f7ec9303373fec224ac1c",
+          "content/posts/comprendre-et-maitriser-ses-emotions/khadija-choisir-qui-peut-savoir.md": "989cb87ac178fbe9b7d7821dbe2abdd1d9240e4afc76cebd0163a990f35c79ae",
+          "content/posts/comprendre-et-maitriser-ses-emotions/khadija-effort-cache-atelier.md": "c45ea6b24dd9324600411b7cda37a2172c897b1f0d3dd90ac0e3ffecdffa0cb4",
+          "content/posts/comprendre-et-maitriser-ses-emotions/khadija-recidive-et-efforts.md": "fb390b5695be0c4baec12da90292f39108043c2f41e1e258db2249e2b433be6b",
+          "content/posts/comprendre-et-maitriser-ses-emotions/khadija-soutien-et-limites.md": "8c7fd7acfc933dea3eb96e32a07615436adf2f4ceda951d109af489983da5179",
+          "content/posts/comprendre-et-maitriser-ses-emotions/khadija-place-choisie-atelier.md": "228498ab76f1fa421ef1cb90d2fa354a71249f84cb376f971f147fa0fa3c29a9",
+          "content/personnages/khadija.md": "ac431cc0c805fe8f72ea782f73a0d85d9b780c6d9fa377ee1a61023ab4cab00f",
+          "data/article_mirrors/khadija.json": "12610480c36eee5baa21123a9295e4d652084b455e84efa3fa9f75fb7e2116ce"
+        },
+        "topics_sha256": "c3e7aa790e1b424deae2cc9f6b1846833ec5a089a193be2896b180dc5cf1866a"
       }
     },
     "celeste": {
@@ -3220,7 +3280,7 @@
     "evaelle": {
       "character_id": "evaelle",
       "code": "6B65",
-      "stage": "ready_to_publish",
+      "stage": "published",
       "created_at": "2026-11-07T14:47:42Z",
       "active_job": null,
       "owners": {
@@ -3289,6 +3349,36 @@
         "design_sha256": null,
         "dossier_sha256": null,
         "review_sha256": null
+      },
+      "publication": {
+        "verified_at": "2026-11-09T20:48:18Z",
+        "release": {
+          "date": "2026-11-09",
+          "status": "editorially_reviewed",
+          "article_format": 2,
+          "sha256": "72aae03d6cd2d359a40f6b755330f224bd0a0bc3c149a880a971ce8971b773ae",
+          "dossier_sha256": "439aaf4299608486501ce014d135fd62e139feb4b252d58a1c41556bdd3666c4",
+          "design_sha256": "37415ed95b3e1a6d62d7b77629b3f3e74d02f61433d4ccb1e6149cfefa3daca4",
+          "independent_review_sha256": "dc7d275f38fe19e6892d3c0f964a6939a8990d16eedd1dd1f31b6f98e038ce97",
+          "review": "Douze épisodes relus intégralement par review_evaelle ; correction grammaticale épisode 3 puis vérification finale acceptée. Rapport lié aux empreintes, chronologie et limites des connaissances contrôlées. Publication distante en attente."
+        },
+        "files": {
+          "content/posts/comprendre-et-maitriser-ses-emotions/evaelle-pensee-interrompt-etiquette.md": "3be066baf0659b1a552142aabc3e8ce463ed9caf7d55db9f46816524a949a010",
+          "content/posts/comprendre-et-maitriser-ses-emotions/evaelle-peur-pendant-tri.md": "c5544afb66fb8775c49c0e767759c0121e7cab85e15af8cf58c562eaac881915",
+          "content/posts/comprendre-et-maitriser-ses-emotions/evaelle-parole-interieure-suggestions.md": "1b25f74861f8e549cf1093ecda03230952cdce486aaaa4ed2adeba67342bd54e",
+          "content/posts/comprendre-et-maitriser-ses-emotions/evaelle-geste-et-initiative.md": "ca6ad9e6775ad5cf36fc15318fb1563504989f8f31413d3fff696e616553218e",
+          "content/posts/comprendre-et-maitriser-ses-emotions/evaelle-memoire-presente.md": "9eef569488ca93d342f1be8e314c90d5a63f154091c8558a972bea4e056fcf48",
+          "content/posts/comprendre-et-maitriser-ses-emotions/evaelle-passage-incertain-reunion.md": "58104a05416274af8f1e2c538cfe1ffe858221a7c77c3a44a81e34e0a3830e26",
+          "content/posts/comprendre-et-maitriser-ses-emotions/evaelle-partiel-retentissement.md": "446930eeec10c43307d89f1e8b83c110fa3d4a6555d6e3fd2b6089b86200ea54",
+          "content/posts/comprendre-et-maitriser-ses-emotions/evaelle-origine-non-deduite.md": "dae8607b800c63a0716eb8b9fad7c50299bc0b11853db73987d03c1af3f868c5",
+          "content/posts/comprendre-et-maitriser-ses-emotions/evaelle-cout-du-quotidien.md": "935395bdb31e4a2b9e66c2a541bb6360a94825c38b7414364006463ef1c6906f",
+          "content/posts/comprendre-et-maitriser-ses-emotions/evaelle-soutien-aux-limites-claires.md": "0074940b200ec00e84165371d2efac3ee088fdde8c75eee382ba8ea68135b42e",
+          "content/posts/comprendre-et-maitriser-ses-emotions/evaelle-fluctuation-et-relais.md": "78fbb408d0ae1ceb90cbf3576ecbd912e345dccdc6cbc09d5c2d6495a3df044e",
+          "content/posts/comprendre-et-maitriser-ses-emotions/evaelle-engagement-choisi-aboutit.md": "934767e3c5de69868933046619f808555c75fa0c559ae7eb5384f68d15c21198",
+          "content/personnages/evaelle.md": "3d5abcffdbedd6b29841595feeb2de10a4ab7ce524259414c498b072afb50199",
+          "data/article_mirrors/evaelle.json": "57bbb822561bac0e3eafddd545e004f269b966529e58b389d5e893f9992571dc"
+        },
+        "topics_sha256": "705824589a5f03a2a9348d68548b0baa0ecfa111339554f5d80910b940e60f26"
       }
     },
     "joris": {
@@ -3910,7 +4000,7 @@
     "clovis": {
       "character_id": "clovis",
       "code": "6C21",
-      "stage": "ready_to_publish",
+      "stage": "published",
       "created_at": "2026-11-07T14:47:42Z",
       "active_job": null,
       "owners": {
@@ -3979,6 +4069,36 @@
         "design_sha256": null,
         "dossier_sha256": null,
         "review_sha256": null
+      },
+      "publication": {
+        "verified_at": "2026-11-09T20:48:19Z",
+        "release": {
+          "date": "2026-11-09",
+          "status": "editorially_reviewed",
+          "article_format": 2,
+          "sha256": "d03782f9cb07fefc6885c461561357370ab8f5cb9f207d62f03d6f88e15ff0eb",
+          "dossier_sha256": "6768afc6211166301eaedab72fb0dbb28ed0daef7868eb662371f41a4db878c7",
+          "design_sha256": "23b585b2e01ec53ac1add4e6a85e4660eeb3b04ec1ba7cc843302724fe0407eb",
+          "independent_review_sha256": "005a20ae92963738bfa3b3bd0ecbb8309832402d8c5242b767b25df11af843ba",
+          "review": "Douze épisodes relus intégralement par review_clovis, rapport indépendant accepté sans correction ouverte. Limites des études, continuité, relais clinique et conseils aux proches vérifiés. Publication distante en attente."
+        },
+        "files": {
+          "content/posts/comprendre-et-maitriser-ses-emotions/clovis-discordance-difficile-a-nommer.md": "9ba2431f454ea7ee55a79be518ff7f571808dd93024cadbf2b8e89d6563d196b",
+          "content/posts/comprendre-et-maitriser-ses-emotions/clovis-preoccupation-au-travail.md": "f209d5c91ab6af7b069f1d47dbcaece27759efe7cbf677179986074f22f276de",
+          "content/posts/comprendre-et-maitriser-ses-emotions/clovis-honte-et-parole.md": "9d1f08579e5264f1f483b8cf5f15d8ce72a14e005391234ac209be546f2f07b3",
+          "content/posts/comprendre-et-maitriser-ses-emotions/clovis-ecoute-en-consultation.md": "16703c24d0880859bb75d3d99e1813b4f81428ad1851e8dc00839ac0dc86e9d7",
+          "content/posts/comprendre-et-maitriser-ses-emotions/clovis-vecu-ancien-diagnostic.md": "e3cd64fd5c5783c7c02954c9e8a5388ba55d0a540599377aaec116ac500d36e0",
+          "content/posts/comprendre-et-maitriser-ses-emotions/clovis-au-dela-du-defaut-esthetique.md": "6c167f9738be55bb7dae6afd93ed9b69ee3accba5e62f7280a5d977d5b97c3cc",
+          "content/posts/comprendre-et-maitriser-ses-emotions/clovis-etude-et-soin.md": "9c01b847d8703ef6325e4c7c1d323df111a1c2ff7277ff2c9df2cac9e54c5c07",
+          "content/posts/comprendre-et-maitriser-ses-emotions/clovis-intensite-variable.md": "4b323561f077e4d0cf31ffb26ec19476acf776333970c324f43e95b47f2756f9",
+          "content/posts/comprendre-et-maitriser-ses-emotions/clovis-securite-prioritaire.md": "7f78c5dd86faaf9b840152ab365b15c4bd9b2beda7b8790031b2c97a277e5450",
+          "content/posts/comprendre-et-maitriser-ses-emotions/clovis-proche-et-relais.md": "9c965fb3cd42a2148a32d5a0eb4a2f0d1055d9b3c5116c892ed19580165f0f79",
+          "content/posts/comprendre-et-maitriser-ses-emotions/clovis-place-professionnelle-choisie.md": "0e7a43364ac32d6ca49af41cad81d1efa3f7fa9023f02d4d75603691d48ed0d9",
+          "content/posts/comprendre-et-maitriser-ses-emotions/clovis-projet-et-suivi.md": "3e1e8e46ebf63dc74c79a866eba23b72a6a8c14edd2ffe82736a91f41e058d8d",
+          "content/personnages/clovis.md": "bfe0685df1247f3e25df7135dfacb95c13b42126d2f35c7acfe32253a1c33696",
+          "data/article_mirrors/clovis.json": "0d50c6c3a13853148cfd790a265d6ad84c76e170f47e79fd9e89d564c6a2f11e"
+        },
+        "topics_sha256": "e233f031fd1891f47575485ed15c75e3962f526c05093d154b881dea38c9c891"
       }
     },
     "loic": {
@@ -57138,5 +57258,5 @@
       }
     }
   },
-  "updated_at": "2026-11-09T20:25:13Z"
+  "updated_at": "2026-11-09T20:48:19Z"
 }

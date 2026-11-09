@@ -1,0 +1,41 @@
+{
+  "checks": [
+    {
+      "url": "https://decodetonesprit.fr/personnages/agnes/",
+      "status": 200
+    },
+    {
+      "url": "https://decodetonesprit.fr/personnages/khadija/",
+      "status": 200
+    },
+    {
+      "url": "https://decodetonesprit.fr/personnages/evaelle/",
+      "status": 200
+    },
+    {
+      "url": "https://decodetonesprit.fr/personnages/clovis/",
+      "status": 200
+    },
+    {
+      "url": "https://decode-journal.romainfalanga83.workers.dev/api/examples",
+      "status": 200,
+      "keys": [
+        "examples"
+      ],
+      "count": {
+        "examples": 1323
+      }
+    },
+    {
+      "url": "https://decodetonesprit.fr/api/examples",
+      "status": 200,
+      "keys": [
+        "examples"
+      ],
+      "count": {
+        "examples": 1323
+      }
+    }
+  ],
+  "all_48_new_ids_in_both_catalogues": true
+}

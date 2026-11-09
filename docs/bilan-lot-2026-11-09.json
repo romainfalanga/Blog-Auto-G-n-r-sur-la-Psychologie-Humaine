@@ -1,6 +1,6 @@
 {
   "date": "2026-11-09",
-  "status": "ready_locally_not_deployed",
+  "status": "published_verified",
   "characters": [
     "agnes",
     "khadija",
@@ -10,8 +10,8 @@
   "new_episodes": 48,
   "local_articles": 1323,
   "local_characters": 111,
-  "last_verified_remote_articles": 1275,
-  "last_verified_remote_characters": 107,
+  "last_verified_remote_articles": 1323,
+  "last_verified_remote_characters": 111,
   "tests": {
     "site": 19,
     "journal_node": 335,
@@ -23,6 +23,10 @@
   "hugo": "0.140.0",
   "render_evidence": "docs/verification-locale-lot-2026-11-09.json",
   "remaining_cases_local": 76,
-  "remote_main_observed": "8338e19103bd54bddcb8910d8d324b4f019a3985",
-  "publication_blocked": "Automatic approval review rejected external push to main; explicit approval requested; no retry or bypass."
+  "remote_main_observed": "0c33b36317cb6d097df75512892435e67e4cac6d",
+  "publication_blocked": null,
+  "publication_authorized_by_user": true,
+  "netlify_deploy": "6af230c143e64cd8580635a2",
+  "cloudflare_version": "32881439-916d-44d6-a06f-7253ea4171d2",
+  "remote_articles_compared": 48
 }
