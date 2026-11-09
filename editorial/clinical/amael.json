@@ -110,6 +110,723 @@
         "choice": "Amaël termine la vérification de la fiche. Il ne reprend pas toute la pile pour se prouver quelque chose. Dans une note séparée, il écrit que sa concentration a été interrompue plusieurs fois et qu’il en parlera à la docteure Vidal. Puis il ouvre son classeur bleu. À Nora, il propose quatre tables avec les Saules et précise que l’horaire reste provisoire. Elle lui répond que la prochaine réunion permettra de répartir les tâches. Sa matinée n’est pas devenue facile. Elle contient maintenant une fiche achevée et une proposition limitée.",
         "next": "La réunion du club fixera ce qu’Amaël peut organiser, sans transformer la participation en autorisation sur la vie privée."
       }
+    },
+    {
+      "number": 2,
+      "slug": "amael-consentement-et-vie-privee",
+      "title": "Consentement : une inscription ne donne pas tous les droits",
+      "description": "À la réunion du club, Amaël limite les informations demandées. Participer aux échecs ne donne aucun droit sur l’intimité.",
+      "context": "à la réunion du club",
+      "topics": [
+        "Consentement",
+        "Vie privée",
+        "Répartition des rôles"
+      ],
+      "clinical_intro": "Le trouble voyeuriste concerne une excitation centrée sur une observation à l’insu d’autrui. Les comportements consentis se distinguent de cette définition. Dans la vie quotidienne, un accord porte sur une activité précise : l’adhésion à un club ne donne aucun droit sur l’intimité. Respecter cette limite reste nécessaire, indépendamment du soulagement ressenti.",
+      "opening": "Nora a posé la feuille des inscriptions au milieu de la table. Le projet des quatre tables plaît au club des Saules, mais il faut encore répartir le travail et choisir un horaire. Amaël sort son classeur bleu. Il avait ajouté des cases à sa liste, puis d’autres, avec l’idée que tout prévoir rendrait la rencontre plus simple. Maintenant que Nora décrit les besoins, plusieurs lui paraissent inutiles.\n\nAvant de parler des parties, elle rappelle les règles communes de respect de la vie privée. Elle le fait pour tout le groupe. Amaël connaît certains membres depuis longtemps ; cette familiarité ne change pas la portée de leur inscription. Il barre une demande d’informations personnelles dont il n’a pas besoin pour les appariements. Le trait est bref. Personne ne lui demande de commenter ce geste.\n\nIl voudrait pourtant savoir ce que les autres pensent de lui. La détresse liée à ses préoccupations n’est pas restée à l’atelier. Elle l’accompagne jusque dans cette réunion ordinaire. Il pourrait chercher une phrase rassurante, transformer la répartition des tâches en conversation sur sa valeur. Nora demande simplement qui peut préparer les appariements. Amaël regarde la feuille, puis répond : « Je peux prendre cela. Pas toute la journée. » Le créneau reste provisoire. Il attend la réponse sans ajouter de justification intime.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Un accord garde son objet",
+          "text": "Le consentement à une activité ne s’étend pas à la vie privée des participants. Dans le trouble voyeuriste, la dimension non consentie de l’observation fait partie de la définition clinique ; l’amitié ou l’absence de protestation ne la transforment pas en accord. Ici, aucune scène d’observation n’est racontée. La réunion montre une limite ordinaire que le diagnostic ne suspend pas. Réduire la collecte d’informations est un choix d’organisation respectueux, pas une méthode de traitement du trouble."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment la limite devient-elle concrète au club ?",
+          "points": [
+            {
+              "heading": "Une inscription délimitée",
+              "text": "Les membres s’inscrivent pour jouer et gardent leurs autres limites.",
+              "examples": [
+                "La feuille concerne la rencontre des quatre tables.",
+                "La familiarité ancienne ne justifie aucune demande supplémentaire."
+              ]
+            },
+            {
+              "heading": "Des informations proportionnées",
+              "text": "Amaël distingue ce qui lui sert réellement de ce qu’il avait ajouté par habitude.",
+              "examples": [
+                "Il barre une case personnelle inutile.",
+                "Il accepte que Nora conserve les inscriptions."
+              ]
+            },
+            {
+              "heading": "Une détresse adressée ailleurs",
+              "text": "Le respect d’une limite peut laisser persister un inconfort personnel.",
+              "examples": [
+                "Il se sent encore mal après avoir corrigé sa liste.",
+                "Il répond sur les appariements sans demander une appréciation de sa personne."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour respecter le périmètre de la rencontre",
+          "points": [
+            {
+              "heading": "Limiter la liste",
+              "objective": "Conserver seulement les informations utiles au rôle attribué.",
+              "exercise": [
+                "Reprendre la tâche exacte avec Nora.",
+                "Retirer les demandes sans utilité pour cette tâche.",
+                "Laisser les inscriptions à la personne qui les gère."
+              ],
+              "benefit": "La répartition devient plus claire sans prétendre agir sur le trouble."
+            },
+            {
+              "heading": "Accueillir une limite",
+              "objective": "Éviter de transformer un refus en négociation insistante.",
+              "exercise": [
+                "Écouter la règle commune jusqu’au bout.",
+                "Adapter sa proposition à cette règle.",
+                "Poursuivre la réunion sans demander une exception personnelle."
+              ],
+              "benefit": "Le droit des autres reste effectif même lorsque la réponse déçoit."
+            },
+            {
+              "heading": "Séparer la question clinique",
+              "objective": "Conserver un interlocuteur approprié pour la détresse.",
+              "exercise": [
+                "Identifier ce qui relève de son état plutôt que du tournoi.",
+                "Préparer une phrase sobre pour la consultation prévue.",
+                "Garder cette note hors des documents du club."
+              ],
+              "benefit": "Le professionnel peut entendre la difficulté sans charger les membres de la résoudre."
+            }
+          ]
+        }
+      ],
+      "ending_title": "La feuille revient à Nora",
+      "ending": "Nora conserve la liste des inscriptions. Amaël repart avec les seuls éléments nécessaires aux appariements et un horaire encore à vérifier. Sa détresse n’a pas disparu avec la case barrée. Il n’en demande pas réparation au groupe. Dans son agenda personnel, le rendez-vous avec la docteure Vidal est toujours là ; c’est à cet entretien qu’il apportera ce qui lui pèse.",
+      "conclusion": "Respecter une limite ne dépend pas de se sentir mieux ensuite. Amaël réduit sa tâche à son objet réel et conserve le soin pour sa détresse, sans confondre appartenance au club et permission sur autrui.",
+      "mirror": [
+        "Nora peut dire : « Je garde les inscriptions ; voici ce dont tu as besoin pour les appariements. » Elle n’a pas à interpréter le malaise d’Amaël ni à connaître son diagnostic pour poser cette limite. Les membres gardent le droit de refuser une demande, sans devoir expliquer leur vie privée ou rassurer celui qui la formule."
+      ],
+      "clinical_focus": "Le consentement reste indispensable",
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-hrb"
+      ],
+      "continuity": {
+        "choice": "Nora conserve la liste des inscriptions. Amaël repart avec les seuls éléments nécessaires aux appariements et un horaire encore à vérifier. Sa détresse n’a pas disparu avec la case barrée. Il n’en demande pas réparation au groupe. Dans son agenda personnel, le rendez-vous avec la docteure Vidal est toujours là ; c’est à cet entretien qu’il apportera ce qui lui pèse.",
+        "next": "La consultation déjà prévue permet de parler de cette détresse sans solliciter les membres du club."
+      }
+    },
+    {
+      "number": 3,
+      "slug": "amael-detresse-et-consultation",
+      "title": "Détresse : trouver les mots dans le cadre du soin",
+      "description": "Amaël parle de sa souffrance en consultation. Demander de l’aide ne suppose ni récit graphique ni confidence au club.",
+      "context": "dans le cabinet de la docteure Vidal",
+      "topics": [
+        "Détresse",
+        "Demande de soin",
+        "Évaluation clinique"
+      ],
+      "clinical_intro": "Une détresse marquée peut accompagner le trouble voyeuriste et mérite une attention clinique. Le diagnostic ne permet pas, à lui seul, de déduire qu’une personne a agi. Parler au professionnel de la souffrance et de son retentissement aide à préciser la demande de soin, sans transformer les proches en destinataires de détails intimes.",
+      "opening": "Le classeur bleu est sur ses genoux. Amaël l’a emporté avec son sac de travail, puis sorti sans réfléchir. La docteure Vidal lui demande ce qui l’amène aujourd’hui. Il commence par les quatre tables, la liste simplifiée, l’horaire qu’il faudra encore confirmer. Il entend ses propres phrases : elles pourraient convenir à la réunion du club, pas à la question qui vient de lui être posée.\n\nIl pose le classeur sur la chaise voisine. « Je voudrais demander de l’aide sans raconter une scène à tout le monde. » Sa voix est plus basse sur les derniers mots. Depuis la réunion, il garde une impression pénible qu’il peine à préciser. Les préoccupations reviennent, interrompent son travail et occupent encore une partie de ses soirées. Il a respecté les limites de la réunion ; il n’en a pas obtenu le soulagement qu’il espérait.\n\nLa médecin ne lui demande pas de défendre le tournoi. Elle revient à ce qu’il éprouve, à ce qui a changé et aux faits utiles à son évaluation. Amaël répond lentement. Il n’a pas besoin de faire de Nora une confidente pour être entendu ici. Il peut dire que la souffrance est importante, puis expliquer ce qu’elle modifie dans ses journées. Le classeur reste fermé. Pour une fois, il laisse une question sans tableau pour la résoudre.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "La souffrance est un motif de consultation",
+          "text": "La détresse liée au schéma persistant appartient à l’évaluation clinique du trouble voyeuriste. Elle ne se résume pas nécessairement à la peur d’être découvert et ne renseigne pas, à elle seule, sur des actes ou sur le risque. Chez Amaël, le diagnostic est déjà établi ; cette consultation sert à entendre sa souffrance actuelle et à ajuster le suivi. Distinguer pensées, émotions et faits permet un échange plus précis qu’un jugement global sur sa personne."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment la détresse se fait-elle entendre en consultation ?",
+          "points": [
+            {
+              "heading": "Un sujet ordinaire utilisé pour commencer",
+              "text": "Amaël parle d’abord de ce qu’il sait organiser, alors que sa demande concerne sa souffrance.",
+              "examples": [
+                "Il détaille la liste des quatre tables.",
+                "Il répond sur un horaire plutôt que sur ce qui lui pèse."
+              ]
+            },
+            {
+              "heading": "Un retentissement qu’il peut nommer",
+              "text": "Il décrit les effets de ses préoccupations sans rendre le récit graphique.",
+              "examples": [
+                "Il rapporte les interruptions à l’atelier.",
+                "Il explique que ses soirées restent occupées par ces préoccupations."
+              ]
+            },
+            {
+              "heading": "Une attente de soulagement immédiat",
+              "text": "Il avait espéré que respecter une limite ferait disparaître son malaise.",
+              "examples": [
+                "Il demeure en détresse après la réunion.",
+                "Il demande pourquoi ses efforts ne suffisent pas à apaiser ses pensées."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour préparer une demande de soin",
+          "points": [
+            {
+              "heading": "Commencer par le besoin",
+              "objective": "Dire ce qui justifie l’entretien aujourd’hui.",
+              "exercise": [
+                "Formuler une phrase sur la souffrance actuelle.",
+                "Ajouter un exemple de retentissement quotidien.",
+                "Laisser le professionnel préciser ses questions."
+              ],
+              "benefit": "Une entrée simple peut rendre la demande plus audible, sans remplacer l’évaluation."
+            },
+            {
+              "heading": "Distinguer les éléments",
+              "objective": "Éviter de confondre souffrance, préoccupations et comportements.",
+              "exercise": [
+                "Dire ce que l’on ressent.",
+                "Rapporter séparément ce qui se produit dans les journées.",
+                "Répondre aux questions cliniques pertinentes sans récit graphique sur autrui."
+              ],
+              "benefit": "Le professionnel dispose d’éléments plus utiles qu’une étiquette générale."
+            },
+            {
+              "heading": "Vérifier le contact suivant",
+              "objective": "Conserver un chemin vers le soin après cet échange.",
+              "exercise": [
+                "Demander comment se poursuivra l’entretien.",
+                "Vérifier les modalités du prochain contact.",
+                "Faire préciser qui joindre si la situation change auparavant."
+              ],
+              "benefit": "Le soutien clinique reste accessible sans faire dépendre sa continuité d’une réassurance amicale."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Le tournoi attend sur la chaise",
+      "ending": "Amaël dit finalement : « Cela me fait souffrir, même quand je tiens ce qui est prévu. » La docteure Vidal entend cette demande et maintient le suivi. La consultation n’est pas terminée. Amaël ajoute qu’il croyait que se retenir devait faire disparaître toute pensée. Ils restent sur cette confusion. Le classeur bleu peut attendre ; aucune réponse sur le tournoi n’est nécessaire pour poursuivre le soin.",
+      "conclusion": "Une demande clinique peut partir de la souffrance sans devenir un récit public. Amaël commence à décrire son état avec davantage de précision ; cela ouvre la discussion sans fournir un verdict sur ses comportements ou son évolution.",
+      "mirror": [
+        "Un proche auquel Amaël dit qu’il a rendez-vous peut répondre : « J’espère que tu pourras poser ce qui te préoccupe. » Il n’a pas à demander le contenu de l’entretien. Nora, qui attend une réponse d’organisation, peut garder cette seule question ; les membres du club ne deviennent pas responsables d’apaiser une détresse clinique."
+      ],
+      "clinical_focus": "La détresse mérite un soin",
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-hrb"
+      ],
+      "continuity": {
+        "choice": "Amaël dit finalement : « Cela me fait souffrir, même quand je tiens ce qui est prévu. » La docteure Vidal entend cette demande et maintient le suivi. La consultation n’est pas terminée. Amaël ajoute qu’il croyait que se retenir devait faire disparaître toute pensée. Ils restent sur cette confusion. Le classeur bleu peut attendre ; aucune réponse sur le tournoi n’est nécessaire pour poursuivre le soin.",
+        "next": "Le même entretien distinguera contrôle du comportement et persistance du schéma."
+      }
+    },
+    {
+      "number": 4,
+      "slug": "amael-pensees-et-comportements",
+      "title": "Pensées et comportements : deux éléments à distinguer",
+      "description": "Pendant la même consultation, Amaël distingue ses engagements de la persistance des préoccupations, sans chercher un verdict par le score.",
+      "context": "pendant la consultation spécialisée",
+      "topics": [
+        "Contrôle comportemental",
+        "Préoccupations",
+        "Engagements maintenus"
+      ],
+      "clinical_intro": "Le contrôle d’un comportement et la persistance d’un schéma d’excitation ne désignent pas la même chose. Dans le trouble voyeuriste, respecter des engagements ne fait pas nécessairement disparaître les préoccupations. Une pensée n’est pas un acte commis ; inversement, une période sans difficulté visible ne garantit pas la sécurité future et ne remplace pas l’évaluation.",
+      "opening": "La docteure Vidal reprend les derniers mots d’Amaël. « Vous attendiez que les pensées disparaissent parce que vous aviez respecté vos engagements. » Il acquiesce. La consultation continue, le classeur bleu toujours fermé sur la chaise voisine. Il voudrait pouvoir ranger cette période dans une catégorie simple : progrès ou échec. Aux échecs, même une partie mal jouée finit par avoir un résultat. Ici, il n’a aucun chiffre à inscrire.\n\nIl revient sur la réunion du club. Il a limité sa demande d’informations, laissé les inscriptions à Nora et accepté de ne prendre qu’une tâche. Pourtant, les préoccupations ont continué. Il s’était dit que cette persistance annulait tout le reste. La médecin l’invite à séparer ce qu’il rapporte : son état intérieur, les décisions prises et les faits nécessaires à l’évaluation. Elle ne transforme pas l’un de ces éléments en preuve de tous les autres.\n\nAmaël se redresse. Il cherche encore une phrase qui déciderait une fois pour toutes de ce qu’il est. Elle lui pose une question plus précise sur la période écoulée. Il prend le temps de répondre. La distinction lui paraît moins confortable qu’un verdict, mais elle évite de raconter sa semaine comme un seul bloc. Il peut tenir un engagement et continuer à avoir besoin d’aide. Ces deux phrases tiennent ensemble, même s’il aurait préféré n’en garder qu’une.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Le comportement ne résume pas le schéma",
+          "text": "Un certain contrôle comportemental peut coexister avec la persistance du schéma d’excitation qui caractérise le trouble voyeuriste. Cette distinction empêche d’assimiler une pensée à un acte ou de conclure à la disparition du trouble à partir d’une seule période. Elle n’établit pas non plus automatiquement un autre diagnostic, tel qu’un trouble du comportement sexuel compulsif. Pour Amaël, les engagements restent nécessaires et la persistance des préoccupations reste un sujet de soin : aucun de ces deux constats n’annule l’autre."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment la confusion fausse-t-elle le bilan personnel ?",
+          "points": [
+            {
+              "heading": "Une attente de disparition",
+              "text": "Amaël attendait de ses décisions un changement intérieur immédiat.",
+              "examples": [
+                "Il pense que la liste corrigée devrait l’avoir soulagé.",
+                "Il s’étonne de retrouver des préoccupations après la réunion."
+              ]
+            },
+            {
+              "heading": "Un jugement sur toute la semaine",
+              "text": "Il réduit plusieurs éléments distincts à un seul résultat.",
+              "examples": [
+                "Il voudrait inscrire progrès ou échec dans son agenda.",
+                "Il considère la persistance comme une annulation de tous ses choix."
+              ]
+            },
+            {
+              "heading": "Des éléments remis à leur place",
+              "text": "L’entretien revient à ce qui peut être décrit et évalué.",
+              "examples": [
+                "Il rapporte ses décisions séparément de son malaise.",
+                "La médecin précise ses questions sans tirer de verdict d’une seule réponse."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour rendre le point clinique plus précis",
+          "points": [
+            {
+              "heading": "Séparer ce que l’on décrit",
+              "objective": "Apporter des informations distinctes sur l’état et les faits.",
+              "exercise": [
+                "Décrire sobrement la persistance des préoccupations.",
+                "Rapporter les décisions effectivement prises.",
+                "Laisser le clinicien explorer les éléments utiles à son évaluation."
+              ],
+              "benefit": "La discussion évite qu’un ressenti soit présenté comme la preuve d’un comportement."
+            },
+            {
+              "heading": "Demander une reformulation",
+              "objective": "Comprendre une distinction sans chercher une assurance absolue.",
+              "exercise": [
+                "Dire ce que l’on avait compris.",
+                "Demander au professionnel de préciser ce qui diffère.",
+                "Reformuler avec ses mots et vérifier le sens."
+              ],
+              "benefit": "Un malentendu peut être corrigé sans exiger un pronostic immédiat."
+            },
+            {
+              "heading": "Maintenir le cadre prévu",
+              "objective": "Ne pas conditionner ses engagements au soulagement.",
+              "exercise": [
+                "Reprendre les engagements déjà convenus.",
+                "Confirmer le prochain rendez-vous.",
+                "Signaler les changements par les contacts prévus."
+              ],
+              "benefit": "La continuité du suivi ne dépend pas du résultat d’une partie ou d’une bonne journée."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Un rendez-vous, sans score",
+      "ending": "À la fin de l’entretien, Amaël note son prochain rendez-vous dans l’agenda personnel. Les engagements restent en place. Il remet le classeur bleu dans son sac sans l’ouvrir devant la médecin pour prouver qu’il sait organiser quelque chose. La distinction n’a pas supprimé ses préoccupations, mais il cesse de leur demander de donner seules la note de sa semaine. À l’atelier, un lot de fiches l’attend encore.",
+      "conclusion": "Distinguer état intérieur et comportement rend l’évaluation plus exacte sans diminuer la responsabilité des choix. Amaël conserve ses engagements et le soin, puis retrouve un problème de travail qui devra être traité concrètement.",
+      "mirror": [
+        "Si Amaël demande à Malik si une bonne partie prouve qu’il va mieux, son frère peut répondre : « Je peux parler de la partie ; pour ton suivi, reprends cette question avec la médecin. » Il peut apprécier un moment partagé sans en faire une preuve clinique ni devoir rassurer sur l’avenir."
+      ],
+      "clinical_focus": "Contrôler un acte ne supprime pas une pensée",
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-hrb"
+      ],
+      "continuity": {
+        "choice": "À la fin de l’entretien, Amaël note son prochain rendez-vous dans l’agenda personnel. Les engagements restent en place. Il remet le classeur bleu dans son sac sans l’ouvrir devant la médecin pour prouver qu’il sait organiser quelque chose. La distinction n’a pas supprimé ses préoccupations, mais il cesse de leur demander de donner seules la note de sa semaine. À l’atelier, un lot de fiches l’attend encore.",
+        "next": "À l’atelier, le retentissement sur le travail demande un ajustement concret distinct du soin."
+      }
+    },
+    {
+      "number": 5,
+      "slug": "amael-retentissement-au-travail",
+      "title": "Retentissement au travail : annoncer ce qui reste à faire",
+      "description": "Les préoccupations ont retardé les fiches d’Amaël. Il négocie une livraison réelle et garde le suivi clinique séparé.",
+      "context": "à l’atelier de conservation",
+      "topics": [
+        "Retentissement fonctionnel",
+        "Priorités",
+        "Communication professionnelle"
+      ],
+      "clinical_intro": "Le trouble voyeuriste peut avoir un retentissement professionnel ou relationnel, sans que ce retentissement soit universel. Chez une personne donnée, des préoccupations persistantes peuvent gêner la concentration et l’achèvement des tâches. Un ajustement de travail répond alors à une difficulté concrète ; il ne traite pas le trouble et ne permet pas de conclure sur son évolution.",
+      "opening": "Sa responsable s’arrête devant le bureau et demande quand le lot sera prêt. Amaël a posé les fiches en deux piles. L’une est vérifiée, l’autre attend encore. Depuis plusieurs jours, il perd du temps à retrouver le fil après des interruptions liées à ses préoccupations. Il sait exactement quelle pile il peut remettre aujourd’hui. Il a pourtant annoncé le lot entier pour ce matin.\n\n« Il en reste une partie », dit-il. La phrase lui coûte davantage que prévu. Après la consultation, il aurait aimé revenir avec une journée sans retard, comme si comprendre une distinction devait aussitôt rendre son travail facile. Sa responsable regarde les deux piles. Elle ne lui demande pas une explication sur sa vie privée ; elle a besoin de savoir sur quoi elle peut compter.\n\nAmaël ne donne pas son diagnostic. Il précise ce qui est vérifié et ce qui ne l’est pas, puis propose un ordre pour terminer. Il garde les mains à plat sur la table afin de ne pas déplacer une nouvelle fois les feuilles. La responsable examine la proposition. Elle ne dit pas que le retard est sans importance ; d’autres tâches dépendent de cette remise. Il attend qu’elle formule sa priorité au lieu de promettre encore plus vite. Dans son sac, le classeur bleu contient aussi une tâche facultative pour la rencontre. Il comprend qu’il devra la revoir.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Une difficulté réelle, une réponse limitée",
+          "text": "Le retentissement fonctionnel désigne les conséquences d’une difficulté sur les activités et les relations. Il peut exister dans le trouble voyeuriste, mais ne constitue pas une description obligatoire de toutes les personnes concernées. Chez Amaël, l’entrave à la concentration a une conséquence observable : un lot annoncé n’est pas fini. Négocier une priorité répond à ce retard. Le suivi clinique garde une autre fonction, celle d’évaluer les préoccupations et leur évolution ; la responsable n’est pas chargée de cette évaluation."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment le retentissement apparaît-il dans le travail ?",
+          "points": [
+            {
+              "heading": "Un fil repris plusieurs fois",
+              "text": "Les préoccupations rendent certaines vérifications plus lentes pour Amaël.",
+              "examples": [
+                "Il doit retrouver la ligne où il s’était arrêté.",
+                "La seconde pile reste inachevée au moment prévu."
+              ]
+            },
+            {
+              "heading": "Une promesse devenue trop large",
+              "text": "Il a annoncé davantage que ce qu’il peut réellement remettre.",
+              "examples": [
+                "Le lot entier était attendu ce matin.",
+                "Une accélération annoncée ne rendrait pas les fiches vérifiées."
+              ]
+            },
+            {
+              "heading": "Une marge également prise ailleurs",
+              "text": "Le travail et les tâches bénévoles occupent le même emploi du temps.",
+              "examples": [
+                "La préparation du matériel figure encore dans son classeur.",
+                "Il doit distinguer cette tâche facultative des appariements convenus."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour ajuster un engagement de travail",
+          "points": [
+            {
+              "heading": "Annoncer l’état réel",
+              "objective": "Permettre une décision à partir de ce qui existe.",
+              "exercise": [
+                "Identifier les éléments effectivement terminés.",
+                "Nommer ceux qui restent à vérifier.",
+                "Transmettre cet état à la responsable sans annoncer un achèvement fictif."
+              ],
+              "benefit": "Les personnes concernées peuvent organiser la suite sur une information fiable."
+            },
+            {
+              "heading": "Demander une priorité",
+              "objective": "Réduire la dispersion sans modifier seul les exigences.",
+              "exercise": [
+                "Présenter une proposition de remise répartie.",
+                "Écouter la priorité donnée par la responsable.",
+                "Confirmer ce qui sera livré et quand."
+              ],
+              "benefit": "Un accord concret peut rendre le travail réalisable ; les exigences de qualité restent les mêmes."
+            },
+            {
+              "heading": "Rapporter le retentissement au suivi",
+              "objective": "Garder la difficulté clinique dans le champ du soin.",
+              "exercise": [
+                "Noter le retard et les interruptions sans détails intimes.",
+                "Les transmettre lors du contact prévu.",
+                "Réexaminer aussi les tâches facultatives qui encombrent l’agenda."
+              ],
+              "benefit": "Le clinicien reçoit un exemple utile et l’organisation peut être ajustée sans devenir un traitement."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Deux piles, deux échéances",
+      "ending": "La responsable accepte une livraison répartie et précise la priorité. Elle attend des fiches vérifiées, même en deux remises. Amaël lui remet la première pile puis reprend la seconde. À la pause, il écrit à Nora qu’il ne pourra pas prendre le matériel en plus des appariements. Elle accepte cette répartition et prend le matériel. Le retard a désormais une réponse concrète ; ses préoccupations restent à discuter au suivi.",
+      "conclusion": "Une adaptation professionnelle peut réduire le flou autour d’une difficulté sans résoudre sa cause clinique. Amaël remplace une promesse trop large par des remises identifiables et maintient le lien avec le soin.",
+      "mirror": [
+        "La responsable peut demander : « Qu’est-ce qui est vérifié aujourd’hui, et quelle partie vient ensuite ? » Elle conserve son rôle et ses exigences sans réclamer le diagnostic. Nora peut accepter ou refuser une nouvelle répartition selon les moyens du club ; aucune des deux n’a à surveiller l’état clinique d’Amaël."
+      ],
+      "clinical_focus": "Le travail subit le retentissement",
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-hrb"
+      ],
+      "continuity": {
+        "choice": "La responsable accepte une livraison répartie et précise la priorité. Elle attend des fiches vérifiées, même en deux remises. Amaël lui remet la première pile puis reprend la seconde. À la pause, il écrit à Nora qu’il ne pourra pas prendre le matériel en plus des appariements. Elle accepte cette répartition et prend le matériel. Le retard a désormais une réponse concrète ; ses préoccupations restent à discuter au suivi.",
+        "next": "Le soulagement organisationnel ne résout pas ce qu’il hésite encore à dire au suivi."
+      }
+    },
+    {
+      "number": 6,
+      "slug": "amael-honte-et-parole-clinique",
+      "title": "Honte : préciser ce qui change au professionnel",
+      "description": "Amaël remplace une note vague par une description sobre de ses difficultés. Le cabinet organise un point adapté.",
+      "context": "chez lui avant un appel au cabinet",
+      "topics": [
+        "Honte",
+        "Transmission clinique",
+        "Confidentialité"
+      ],
+      "clinical_intro": "La honte peut gêner la demande de soin chez une personne vivant avec un trouble voyeuriste, sans être un signe universel de ce diagnostic. Minimiser une difficulté peut limiter les informations disponibles pour l’évaluation. Une parole sobre, adressée au professionnel, permet de signaler un changement sans faire du récit public ou de la confidence aux proches une obligation.",
+      "opening": "Sur la table de la cuisine, Amaël a laissé une note de deux mots : semaine compliquée. Il la lit une troisième fois avant l’heure convenue pour appeler le cabinet. La seconde remise à l’atelier a avancé et Nora a pris le matériel. Ces arrangements ont allégé son agenda, mais ses préoccupations prennent davantage de place. La note ne dit rien de cette différence.\n\nIl craint que la phrase suivante l’enferme dans une étiquette. Il voudrait que le cabinet entende aussi qu’il travaille, qu’il tient des engagements et qu’il sait préparer quatre tables sans installer un championnat du monde. Il sourit brièvement à cette dernière idée, puis regarde le téléphone. Il pourrait remplir l’appel de nouvelles sur le tournoi. Il sait déjà le faire.\n\nLe créneau arrive. Amaël appelle comme prévu et commence par sa formule vague. Puis il s’arrête. « Je dis semaine compliquée, mais les préoccupations me prennent davantage de place. » Il précise l’effet sur son travail et sur ses soirées, sans description intime concernant quiconque. Il demande aussi comment les informations sont utilisées et quelles limites de confidentialité s’appliquent à son suivi. Il n’attend pas une promesse que rien ne pourra jamais être transmis. Il cherche à savoir dans quel cadre parler. Sa note est restée sur la table, à distance du classeur bleu.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Une information trop vague peut masquer un changement",
+          "text": "La crainte d’être réduit à un diagnostic peut faire obstacle à un échange clinique précis. Ce frein est individuel : il ne définit pas le trouble voyeuriste et ne permet pas de présumer ce qu’une personne cache. Amaël a besoin de transmettre une augmentation de ses préoccupations. Il peut la décrire sans détails graphiques, tout en répondant aux questions pertinentes. Demander le cadre de confidentialité clarifie les règles réelles ; cela ne garantit pas un secret absolu ni ne dispense des obligations de sécurité applicables."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment la honte rétrécit-elle ce qui est transmis ?",
+          "points": [
+            {
+              "heading": "Une formule qui ne précise rien",
+              "text": "La note évite le changement qui motive l’appel.",
+              "examples": [
+                "Semaine compliquée pourrait décrire le simple retard d’inventaire.",
+                "L’augmentation des préoccupations n’apparaît pas sur le papier."
+              ]
+            },
+            {
+              "heading": "Un détour par ses compétences",
+              "text": "Amaël aimerait protéger son image en détaillant ce qu’il réussit.",
+              "examples": [
+                "Il prépare mentalement des nouvelles du tournoi.",
+                "Il pense à la remise de fiches plutôt qu’à la difficulté actuelle."
+              ]
+            },
+            {
+              "heading": "Une question sur le cadre",
+              "text": "Il a besoin de comprendre où vont les informations cliniques.",
+              "examples": [
+                "Il demande comment ses propos seront utilisés.",
+                "Il cherche les limites effectives de confidentialité sans exiger une promesse absolue."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour transmettre une difficulté sans récit public",
+          "points": [
+            {
+              "heading": "Remplacer une formule vague",
+              "objective": "Faire entendre le changement utile à l’évaluation.",
+              "exercise": [
+                "Relire la note préparée.",
+                "Ajouter ce qui a augmenté ou changé.",
+                "Donner un exemple de retentissement au professionnel."
+              ],
+              "benefit": "La demande devient plus précise sans exposition de l’intimité d’autrui."
+            },
+            {
+              "heading": "Demander les règles réelles",
+              "objective": "Comprendre le cadre de l’échange.",
+              "exercise": [
+                "Poser la question de la confidentialité.",
+                "Faire préciser les limites et obligations applicables.",
+                "Vérifier ce que l’on a compris avant de poursuivre."
+              ],
+              "benefit": "Cette clarification peut faciliter l’échange sans promettre un secret sans exception."
+            },
+            {
+              "heading": "Choisir le bon destinataire",
+              "objective": "Éviter de transférer la charge clinique au club.",
+              "exercise": [
+                "Garder la note pour le cabinet.",
+                "Répondre à Nora sur la tâche d’organisation.",
+                "Utiliser le suivi convenu pour les questions concernant l’état."
+              ],
+              "benefit": "Chaque échange garde son objet ; les obligations réelles de transmission restent respectées."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Une phrase de plus suffit pour ouvrir le point",
+      "ending": "Le cabinet organise un point de suivi adapté à ce qu’Amaël vient de signaler. Les modalités de confidentialité lui sont expliquées dans le cadre de son suivi ; il fait préciser ce qu’il n’a pas compris. Ensuite, il répond à Nora qu’il peut toujours préparer les appariements sous réserve du cadre à vérifier. Il ne lui transfère pas sa note. La honte demeure, mais elle n’a pas décidé seule du contenu de l’appel.",
+      "conclusion": "Parler plus précisément ne signifie pas tout dire à tout le monde. Amaël transmet un changement au professionnel et obtient un point de suivi, tandis que la communication du club reste centrée sur l’organisation.",
+      "mirror": [
+        "Si Nora reçoit une réponse courte, elle peut rester sur le besoin concret : « Je note que tu prends les appariements ; nous confirmerons le créneau plus tard. » Elle n’a pas à réclamer la note clinique pour accepter cette réponse. Un proche peut soutenir la prise de contact sans demander ensuite un compte rendu de tout ce qui a été dit."
+      ],
+      "clinical_focus": "La honte freine la parole clinique",
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "wfsbp-2020"
+      ],
+      "continuity": {
+        "choice": "Le cabinet organise un point de suivi adapté à ce qu’Amaël vient de signaler. Les modalités de confidentialité lui sont expliquées dans le cadre de son suivi ; il fait préciser ce qu’il n’a pas compris. Ensuite, il répond à Nora qu’il peut toujours préparer les appariements sous réserve du cadre à vérifier. Il ne lui transfère pas sa note. La honte demeure, mais elle n’a pas décidé seule du contenu de l’appel.",
+        "next": "Le point de suivi précisera ce que signifie une aide adaptée, au lieu d’une recette trouvée pour tous."
+      }
+    },
+    {
+      "number": 7,
+      "slug": "amael-soin-individualise",
+      "title": "Soin individualisé : le rendez-vous avant le calendrier du club",
+      "description": "Amaël voudrait une solution avant la rencontre. L’évaluation spécialisée garde son rythme, et le créneau du club change.",
+      "context": "au rendez-vous de suivi",
+      "topics": [
+        "Soin spécialisé",
+        "Objectifs individuels",
+        "Continuité"
+      ],
+      "clinical_intro": "La prise en charge d’un trouble voyeuriste demande une évaluation spécialisée et individualisée. Les décisions ne se déduisent pas d’une recette applicable à tous ni d’un calendrier social. Les recommandations cliniques ne permettent pas de promettre un résultat pour une date précise. Les arrangements d’agenda facilitent ici la continuité du soin ; ils ne constituent pas un traitement.",
+      "opening": "Le point annoncé par le cabinet a lieu. Amaël s’assied devant la docteure Vidal et pose son agenda personnel sur la table. Il a préparé une question qu’il juge presque raisonnable : existe-t-il une méthode qui réglerait le problème avant la rencontre des clubs ? Il connaît la date envisagée, le nombre de tables, la durée approximative. Il aimerait pouvoir ajouter la fin des préoccupations à cette liste de choses prévues.\n\nLa médecin reprend ce qu’il a transmis pendant l’appel. Les préoccupations ont pris davantage de place, même après la réduction de certaines tâches. Le retard à l’atelier et la honte de parler ne se résument pas au même problème. Elle explique que les choix de soin dépendent de l’évaluation et de leur suivi, sans promettre une échéance. Amaël écoute, déçu. Il avait espéré pouvoir rentrer avec une solution à inscrire en face de la date.\n\nIl ouvre néanmoins son agenda. Ce n’est pas un programme trouvé en ligne : il y a les horaires du travail, les contacts déjà prévus et l’espace pour le rendez-vous suivant. La date proposée chevauche le premier créneau envisagé au club. Il garde un doigt sur cette ligne. Pendant quelques secondes, il cherche comment tout faire tenir. Puis il demande ce qui doit être réévalué au prochain entretien. Le tournoi n’est plus la seule chose qui détermine sa question.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Une décision clinique repose sur une situation",
+          "text": "Le soin spécialisé s’appuie sur une évaluation individuelle et sur l’évolution observée dans le suivi. Les recommandations disponibles pour les troubles paraphiliques concernent des populations diverses et des données de qualité variable ; elles ne justifient pas de transférer une efficacité ou un protocole à l’histoire d’Amaël. Dans cette consultation, préciser ses objectifs et les modalités de contact peut soutenir la démarche. Le choix thérapeutique demeure clinique, et la date d’une rencontre amicale n’en fixe ni le contenu ni le résultat."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment l’attente d’une solution rapide apparaît-elle ?",
+          "points": [
+            {
+              "heading": "Une date devenue une échéance clinique",
+              "text": "Amaël voudrait que le soin suive le calendrier du tournoi.",
+              "examples": [
+                "Il demande si le problème peut être réglé avant la rencontre.",
+                "Il cherche une réponse à inscrire en face de cette date."
+              ]
+            },
+            {
+              "heading": "Des difficultés à examiner séparément",
+              "text": "L’entretien reprend les informations de l’appel sans les réduire à un obstacle unique.",
+              "examples": [
+                "Le retard professionnel est discuté pour son retentissement.",
+                "La honte de transmettre les changements est également abordée."
+              ]
+            },
+            {
+              "heading": "Un agenda qui oblige à choisir",
+              "text": "Le prochain rendez-vous ne tient pas dans le premier horaire proposé au club.",
+              "examples": [
+                "Amaël repère le chevauchement.",
+                "Il cesse de chercher comment assister aux deux au même moment."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour préparer un suivi individuel",
+          "points": [
+            {
+              "heading": "Formuler ses objectifs",
+              "objective": "Dire ce que l’on souhaite travailler sans promettre un résultat.",
+              "exercise": [
+                "Nommer la difficulté la plus présente.",
+                "Expliquer son retentissement dans les journées.",
+                "Demander comment cet objectif sera discuté au fil du suivi."
+              ],
+              "benefit": "Le souhait personnel entre dans la conversation sans devenir un protocole improvisé."
+            },
+            {
+              "heading": "Clarifier la réévaluation",
+              "objective": "Comprendre ce qui sera repris au prochain entretien.",
+              "exercise": [
+                "Demander quels changements transmettre.",
+                "Faire préciser les questions restées ouvertes.",
+                "Noter les modalités de contact convenues."
+              ],
+              "benefit": "Le suivi garde une continuité qui ne dépend pas d’une solution immédiate."
+            },
+            {
+              "heading": "Réserver la place du rendez-vous",
+              "objective": "Rendre sa présence réellement possible.",
+              "exercise": [
+                "Vérifier les horaires déjà inscrits.",
+                "Maintenir le rendez-vous convenu avec le professionnel.",
+                "Demander un autre créneau pour l’activité qui le chevauche."
+              ],
+              "benefit": "L’agenda soutient l’accès au soin ; son organisation ne soigne pas le trouble."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Un créneau à déplacer",
+      "ending": "Amaël conserve le rendez-vous. À Nora, il écrit qu’il n’est pas disponible au premier horaire et demande si un créneau du soir serait possible. Elle accepte de l’examiner avec les Saules, sans exiger le motif médical. Rien n’est encore confirmé. Amaël sait comment signaler une difficulté entre les points de suivi ; il n’a ni calendrier de guérison ni méthode à essayer seul pour tenir une date.",
+      "conclusion": "Un projet peut s’adapter au soin sans devenir son objectif de résultat. Amaël maintient le rendez-vous et ouvre une autre possibilité d’horaire, tout en laissant les décisions cliniques dans le suivi individualisé.",
+      "mirror": [
+        "Nora peut répondre : « Je vais vérifier le créneau du soir ; je te confirme quand j’ai la réponse. » Elle peut aussi constater qu’aucun autre horaire ne convient. Ni son accord ni son refus ne portent sur le soin d’Amaël. Respecter une indisponibilité n’oblige pas à demander le contenu d’une consultation."
+      ],
+      "clinical_focus": "Le soin doit rester individuel",
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "wfsbp-2020"
+      ],
+      "continuity": {
+        "choice": "Amaël conserve le rendez-vous. À Nora, il écrit qu’il n’est pas disponible au premier horaire et demande si un créneau du soir serait possible. Elle accepte de l’examiner avec les Saules, sans exiger le motif médical. Rien n’est encore confirmé. Amaël sait comment signaler une difficulté entre les points de suivi ; il n’a ni calendrier de guérison ni méthode à essayer seul pour tenir une date.",
+        "next": "Avant de confirmer ce créneau, une modification récente de son état sera examinée pour elle-même."
+      }
+    },
+    {
+      "number": 8,
+      "slug": "amael-reevaluation-changement-recent",
+      "title": "Changement récent : ne pas tout attribuer au diagnostic connu",
+      "description": "Des nuits inhabituelles et une agitation récente conduisent Amaël à une réévaluation avant de confirmer le créneau du club.",
+      "context": "lors d’un nouveau point clinique",
+      "topics": [
+        "Changement récent",
+        "Réévaluation",
+        "Chronologie"
+      ],
+      "clinical_intro": "Un diagnostic connu n’explique pas automatiquement tout changement ultérieur. Dans le suivi d’un trouble voyeuriste, des manifestations nouvelles peuvent demander une évaluation distincte du contexte et de l’état de santé. La chronologie aide le professionnel à explorer les causes possibles ; quelques signes décrits dans un récit ne permettent pas de poser soi-même un autre diagnostic.",
+      "opening": "Amaël a gardé le rendez-vous inscrit dans son agenda. Le créneau du soir au club reste une possibilité, mais il n’a pas encore donné sa réponse définitive. Devant la docteure Vidal, il parle d’abord des préoccupations, puis ajoute qu’il a passé plusieurs nuits inhabituelles et qu’une agitation récente le gêne. Il formule aussitôt son explication : « Ce doit être encore le même trouble. »\n\nLa médecin ne reprend pas cette conclusion comme un fait. Elle lui demande quand ces changements ont commencé et comment ils se distinguent de ses journées habituelles. Amaël consulte son agenda pour retrouver la succession des événements. La réunion, la remise de fiches et l’appel au cabinet donnent des repères, sans expliquer ce qui se passe. Il découvre qu’il avait réuni sous un seul mot des éléments apparus à des moments différents.\n\nL’entretien se poursuit avec les questions nécessaires sur son état, son contexte de vie et les traitements éventuels. Le récit ne leur donne pas une réponse fabriquée. Amaël répond à ce qui lui est demandé et indique ce dont il n’est pas sûr. Il avait espéré une confirmation rapide qui lui permettrait de répondre à Nora dès la sortie. Maintenant, il garde cette réponse en attente. Les quatre tables peuvent supporter un délai de confirmation ; la nouveauté de son état mérite d’être examinée pour elle-même.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "La nouveauté demande sa propre évaluation",
+          "text": "Une étiquette diagnostique ancienne ne doit pas servir d’explication automatique à une modification récente de l’état. Les descriptions cliniques du trouble voyeuriste prévoient de distinguer certaines autres causes ou situations lorsqu’elles sont pertinentes. Cela ne signifie pas qu’Amaël présente l’une d’elles. L’entretien examine la chronologie et le contexte, puis définit les suites adaptées. Les nuits inhabituelles et l’agitation restent des faits à évaluer, sans liste d’autodiagnostic ni nouveau trouble affirmé par le récit."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment le besoin de réévaluation apparaît-il ?",
+          "points": [
+            {
+              "heading": "Une explication donnée trop vite",
+              "text": "Amaël utilise le diagnostic connu avant d’avoir décrit la nouveauté.",
+              "examples": [
+                "Il dit que ce doit être encore la même chose.",
+                "Il espère une confirmation rapide pour répondre au club."
+              ]
+            },
+            {
+              "heading": "Des dates qui séparent les éléments",
+              "text": "Le professionnel examine quand les changements sont apparus.",
+              "examples": [
+                "La réunion sert de repère chronologique.",
+                "Amaël distingue les difficultés habituelles des nuits récentes."
+              ]
+            },
+            {
+              "heading": "Une incertitude laissée ouverte",
+              "text": "L’entretien cherche des éléments utiles sans conclure d’après deux observations.",
+              "examples": [
+                "Il précise ce dont il ne se souvient pas exactement.",
+                "La médecin explore le contexte plutôt que de valider sa première hypothèse."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour préparer une réévaluation",
+          "points": [
+            {
+              "heading": "Rapporter les faits récents",
+              "objective": "Donner une chronologie sobre au professionnel.",
+              "exercise": [
+                "Nommer ce qui paraît inhabituel.",
+                "Situer son apparition avec les repères disponibles.",
+                "Distinguer les faits observés de l’explication que l’on imagine."
+              ],
+              "benefit": "Le professionnel peut examiner le changement sans partir d’une cause supposée."
+            },
+            {
+              "heading": "Répondre sur le contexte",
+              "objective": "Permettre une évaluation qui dépasse l’étiquette connue.",
+              "exercise": [
+                "Écouter les questions cliniques pertinentes.",
+                "Répondre sur le contexte et les traitements éventuels sans rien modifier seul.",
+                "Indiquer les informations incertaines plutôt que les compléter par hypothèse."
+              ],
+              "benefit": "Les décisions reposent sur des éléments réels ; cet échange ne permet pas de se diagnostiquer soi-même."
+            },
+            {
+              "heading": "Convenir des suites",
+              "objective": "Savoir comment le suivi se poursuit après le point.",
+              "exercise": [
+                "Faire préciser les prochaines étapes adaptées.",
+                "Vérifier quels changements doivent conduire à reprendre contact.",
+                "Reporter la confirmation de l’activité jusqu’aux vérifications prévues."
+              ],
+              "benefit": "Une réponse d’organisation ne précède pas les points nécessaires au suivi."
+            }
+          ]
+        }
+      ],
+      "ending_title": "La réponse au club reste en attente",
+      "ending": "La réévaluation est menée et le suivi est adapté à la situation, sans qu’un nouveau diagnostic soit annoncé dans cette histoire. Amaël fait préciser les suites et les motifs de reprise de contact. Il indique à Nora qu’il confirmera le créneau après le point prévu avec Mme Arnaud. L’échange clinique et la vérification des engagements de prévention gardent chacun leur place. Il repart sans prétendre que le premier dispense du second.",
+      "conclusion": "Un changement récent mérite d’être examiné même lorsqu’un trouble est déjà connu. Amaël accepte une évaluation distincte et diffère une confirmation pratique, sans transformer une hypothèse personnelle en conclusion médicale.",
+      "mirror": [
+        "Nora peut répondre : « J’attends ta confirmation avant de fixer ton rôle. » Elle n’a pas à interpréter les nuits d’Amaël, ni à chercher elle-même une cause. Un proche qui entend parler d’un changement peut encourager le contact clinique prévu, sans conclure à un nouveau diagnostic ou décider que tout relève forcément de l’ancien."
+      ],
+      "clinical_focus": "Un changement demande une réévaluation",
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "wfsbp-2020"
+      ],
+      "continuity": {
+        "choice": "La réévaluation est menée et le suivi est adapté à la situation, sans qu’un nouveau diagnostic soit annoncé dans cette histoire. Amaël fait préciser les suites et les motifs de reprise de contact. Il indique à Nora qu’il confirmera le créneau après le point prévu avec Mme Arnaud. L’échange clinique et la vérification des engagements de prévention gardent chacun leur place. Il repart sans prétendre que le premier dispense du second.",
+        "next": "La réévaluation clinique est distincte de la vérification des engagements de prévention pour la rencontre."
+      }
     }
   ]
 }

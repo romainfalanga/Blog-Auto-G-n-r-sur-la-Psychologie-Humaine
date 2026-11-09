@@ -214,6 +214,624 @@
         "choice": "Il range la pièce sans conclure la mesure et transmet sa difficulté au service pendant l'échange prévu. La finition attendra ; la mesure devra être reprise.",
         "next": "Cette transmission a eu lieu, mais il constate combien son inquiétude d'être jugé rend ses phrases brèves."
       }
+    },
+    {
+      "number": 3,
+      "slug": "remiel-crainte-jugement",
+      "title": "La crainte du jugement peut raccourcir la parole",
+      "description": "Rémiël barre une phrase préparée pour sa consultation. Nommer sa peur du jugement permet de reprendre un échange clinique utile.",
+      "context": "Dans le cabinet de Vidal",
+      "topics": [
+        "Trouble pédophile",
+        "Crainte du jugement",
+        "Dialogue clinique"
+      ],
+      "clinical_intro": "La crainte du jugement peut compliquer les échanges avec un soignant. Elle ne permet pas de déduire ce que quelqu’un a fait ni ce qu’il fera. Dans un suivi spécialisé, cette difficulté à parler peut elle-même être abordée, tout en transmettant les informations nécessaires à l’évaluation et à la protection.",
+      "opening": "Rémiël a plié sa feuille en quatre pour la glisser dans sa poche. Dans le cabinet de Vidal, il la déplie sur ses genoux et cherche la phrase préparée après son dernier échange avec le service. Il avait écrit qu’il était préoccupé au point de perdre le fil de son travail. Sous cette ligne, il avait ajouté : « J’ai peur de votre jugement quand je parle. » Avant de venir, il a barré la seconde phrase. Elle reste lisible.\n\nLa docteure lui demande comment s’est passée la séance à l’atelier. Rémiël raconte la mesure recopiée, puis s’arrête. Il sait décrire l’erreur technique avec précision. Dire pourquoi sa voix devient si courte lui paraît autrement difficile. Il pousse le papier contre le bord de son carnet, comme s’il pouvait terminer là son compte rendu. Vidal attend une réponse à sa question sur ce qui l’a empêché d’en dire davantage au téléphone.\n\n« Ce n’est pas seulement la mesure », reprend-il. Il regarde la ligne barrée. Il ne souhaite pas obtenir une formule qui le rassurerait sur tout ; il a besoin de pouvoir donner des informations sans passer l’entretien à imaginer la réaction de la soignante. La feuille n’apporte aucune réponse clinique à sa place. Elle lui permet simplement de retrouver la question qu’il était venu poser. Il la remet à plat et commence à lire.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Parler de ce qui empêche de parler",
+          "text": "La peur du regard d’autrui peut peser sur le fonctionnement émotionnel et social de certaines personnes concernées par ce trouble. Les recherches d’association ne démontrent pas que cette peur cause des violences. Ici, la crainte du jugement est un obstacle choisi pour ce personnage : elle raccourcit un échange pourtant nécessaire. La reconnaître ne dispense pas de répondre aux questions cliniques, et le cadre de soin ne signifie pas une promesse de secret absolu."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment la crainte du jugement réduit-elle l’échange ?",
+          "points": [
+            {
+              "heading": "Une phrase est retirée",
+              "text": "La préparation ne suffit pas toujours à rendre une information facile à dire.",
+              "examples": [
+                "La seconde phrase est barrée avant le rendez-vous.",
+                "Rémiël replie presque sa feuille après avoir parlé du travail."
+              ]
+            },
+            {
+              "heading": "Les faits prennent toute la place",
+              "text": "Le détail technique est plus accessible que la difficulté relationnelle.",
+              "examples": [
+                "Il décrit sans hésiter la mesure recopiée.",
+                "Il laisse d’abord sans réponse la question sur son silence au téléphone."
+              ]
+            },
+            {
+              "heading": "La réaction imaginée occupe l’entretien",
+              "text": "La personne peut consacrer son attention à anticiper une appréciation plutôt qu’à préciser son besoin.",
+              "examples": [
+                "Rémiël cherche à deviner ce que Vidal pensera de sa phrase.",
+                "Il a besoin de demander comment aborder les informations importantes."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour reprendre un dialogue clinique difficile",
+          "points": [
+            {
+              "heading": "Nommer l’obstacle",
+              "objective": "Rendre la difficulté à parler visible au soignant.",
+              "exercise": [
+                "Repérer la phrase que l’on peine à prononcer.",
+                "Dire au professionnel que la peur du jugement gêne l’échange.",
+                "Reprendre avec lui les informations utiles à l’évaluation."
+              ],
+              "benefit": "Le dialogue peut porter aussi sur sa difficulté, au lieu de laisser celle-ci masquer les besoins."
+            },
+            {
+              "heading": "Demander un point de départ",
+              "objective": "Trouver une façon compréhensible de transmettre les faits.",
+              "exercise": [
+                "Demander au soignant par quelle question commencer.",
+                "Décrire l’impact concret sur la journée.",
+                "Signaler ce qui reste difficile à formuler pour qu’il aide à le préciser."
+              ],
+              "benefit": "Un échange guidé peut être plus utile qu’une déclaration longuement répétée en solitaire."
+            },
+            {
+              "heading": "Clarifier le cadre",
+              "objective": "Comprendre les responsabilités du soin et de la protection.",
+              "exercise": [
+                "Poser sa question sur le cadre de l’entretien.",
+                "Demander comment les informations nécessaires sont utilisées.",
+                "Faire préciser ce qui doit être transmis pour assurer la protection."
+              ],
+              "benefit": "Des explications concrètes limitent les suppositions sans promettre une confidentialité sans limites."
+            }
+          ]
+        }
+      ],
+      "ending_title": "La phrase barrée est prononcée",
+      "ending": "« J’ai peur de votre jugement quand je parle », dit enfin Rémiël. Vidal entend cette peur puis poursuit les questions nécessaires à son suivi. Elle lui explique le cadre de l’échange et propose un entretien complémentaire au sein du service spécialisé. Il accepte et note l’interlocuteur à joindre. Rien n’est encore réservé : cette proposition devra devenir un rendez-vous réel. Il quitte le cabinet avec sa feuille, dont la seconde ligne n’a plus besoin d’être effacée.",
+      "conclusion": "La peur du jugement mérite une place dans l’entretien lorsqu’elle empêche de transmettre des informations importantes. Pour Rémiël, la nommer permet de poursuivre le dialogue, sans annuler les exigences d’évaluation, de responsabilité et de protection.",
+      "mirror": [
+        "Anne n’a pas accès à la feuille ni au contenu de cette consultation. Si Rémiël lui dit seulement qu’un entretien supplémentaire sera nécessaire, elle peut demander quand il pourra confirmer son planning. « Prévenez-moi quand la date sera fixée » soutient l’organisation sans exiger une confidence. Les questions de santé restent adressées au service, et aucune information de sécurité ne doit être dissimulée aux professionnels concernés."
+      ],
+      "clinical_focus": "Crainte du jugement clinique",
+      "diagnostic_stage": "known",
+      "sources": [
+        "oms-cddr",
+        "jahnke-2015"
+      ],
+      "continuity": {
+        "choice": "Il prononce la phrase utile et l'entretien se poursuit. La soignante propose un contact complémentaire au sein du service spécialisé, qu'il accepte.",
+        "next": "L'entretien complémentaire doit désormais être organisé effectivement, sans confondre orientation et soin déjà reçu."
+      }
+    },
+    {
+      "number": 4,
+      "slug": "remiel-acces-suivi",
+      "title": "Faire aboutir une orientation vers le soin spécialisé",
+      "description": "Le rendez-vous proposé tombe au moment du devis. Rémiël réorganise son travail pour que l’orientation devienne une consultation réelle.",
+      "context": "Un appel au service spécialisé",
+      "topics": [
+        "Trouble pédophile",
+        "Orientation",
+        "Accès au soin"
+      ],
+      "clinical_intro": "Une orientation ne constitue pas encore une consultation. Confirmer un interlocuteur, une date et les modalités du contact aide à faire aboutir la démarche. Ce travail d’organisation est un enjeu de prise en charge, pas un symptôme supplémentaire. Un dispositif d’orientation ne remplace pas les secours lorsqu’une situation devient urgente.",
+      "opening": "Le numéro du secrétariat figure sur la feuille que Rémiël a rapportée du cabinet de Vidal. Il appelle depuis le bureau de l’atelier, avant d’ouvrir son devis. La personne qui répond retrouve la demande d’entretien complémentaire et lui propose une date. Rémiël la répète, puis regarde son agenda : c’est le moment qu’il avait réservé pour achever l’estimation destinée à Anne.\n\nIl commence à dire qu’il doit vérifier. Le devis a déjà été retardé et il voudrait éviter un nouveau message embarrassant. Pourtant, reporter sa réponse au service laisserait encore deux engagements incertains. Il demande les modalités exactes de la consultation et vérifie à qui il doit s’adresser en arrivant. Les informations sont ordinaires, mais elles changent la proposition de Vidal en rendez-vous auquel il pourra réellement se rendre.\n\nSur la ligne du devis, il écrit qu’une nouvelle estimation du délai sera nécessaire. Il n’envoie pas encore à Anne une date choisie trop vite. Il lui faut tenir compte du rendez-vous et du travail déjà interrompu sur le baromètre. Avant de raccrocher, il demande aussi comment contacter l’équipe si son besoin évolue avant la consultation. La réponse distingue les demandes de suivi et l’urgence. Rémiël inscrit les modalités données, puis confirme sa venue. Le téléphone est reposé ; la démarche, cette fois, ne reste pas dans la marge de sa feuille.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Passer de la proposition à la rencontre",
+          "text": "L’accès au suivi dépend aussi de démarches concrètes qui peuvent rester inachevées lorsque plusieurs contraintes se rencontrent. Rémiël est déjà suivi ; il organise ici un contact complémentaire, sans recommencer son parcours diagnostique. En France, STOP peut évaluer une demande et orienter vers des professionnels expérimentés. Il ne garantit ni rendez-vous immédiat ni réponse d’urgence. Les arrangements d’agenda décrits ici facilitent l’accès au soin, sans traiter eux-mêmes le trouble."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment une orientation peut-elle rester en suspens ?",
+          "points": [
+            {
+              "heading": "Le bon interlocuteur reste à joindre",
+              "text": "Une proposition orale doit encore être suivie d’un contact effectif.",
+              "examples": [
+                "Le nom noté par Vidal ne vaut pas réservation.",
+                "Le secrétariat doit retrouver la demande de consultation."
+              ]
+            },
+            {
+              "heading": "Deux horaires se concurrencent",
+              "text": "Une tâche professionnelle peut rendre la confirmation plus difficile.",
+              "examples": [
+                "Le créneau proposé coïncide avec la rédaction du devis.",
+                "Rémiël hésite à accepter avant de déplacer son temps de travail."
+              ]
+            },
+            {
+              "heading": "L’intervalle a besoin de repères",
+              "text": "Attendre une consultation ne signifie pas ignorer une évolution de la situation.",
+              "examples": [
+                "Il demande comment transmettre un besoin nouveau au service.",
+                "Il distingue ce contact des secours à solliciter immédiatement en cas d’urgence."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour concrétiser une orientation",
+          "points": [
+            {
+              "heading": "Confirmer l’interlocuteur",
+              "objective": "Éviter qu’une adresse reste une démarche supposée terminée.",
+              "exercise": [
+                "Contacter le service indiqué par le professionnel.",
+                "Préciser l’objet de l’orientation sans improviser un diagnostic.",
+                "Vérifier auprès du service qui assurera le contact."
+              ],
+              "benefit": "La demande peut être dirigée vers l’équipe concernée."
+            },
+            {
+              "heading": "Inscrire les modalités réelles",
+              "objective": "Rendre le rendez-vous réalisable dans son organisation.",
+              "exercise": [
+                "Confirmer la date et le lieu ou le moyen de contact.",
+                "Les noter dans son agenda.",
+                "Réorganiser les engagements qui se superposent."
+              ],
+              "benefit": "Les contraintes pratiques deviennent visibles avant le jour prévu."
+            },
+            {
+              "heading": "Clarifier les relais disponibles",
+              "objective": "Savoir à qui transmettre une évolution avant la consultation.",
+              "exercise": [
+                "Demander à l’équipe ses modalités de contact.",
+                "Faire préciser la distinction entre suivi et urgence.",
+                "Conserver ces repères, les secours devant être contactés immédiatement si la sécurité ne peut être maintenue."
+              ],
+              "benefit": "La date programmée n’est pas confondue avec une consigne d’attendre quoi qu’il arrive."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Une consultation a réellement lieu",
+      "ending": "Quelques jours plus tard, Rémiël se rend à l’entretien complémentaire convenu. Le professionnel reprend avec lui ses besoins et les modalités du suivi spécialisé. À la sortie, il sait quel contact est prévu ensuite et comment joindre l’équipe selon la situation. Il prévient Anne du nouveau délai pour son estimation technique. Elle lui propose de regarder ensemble la notice la semaine suivante : l’organisation du travail doit maintenant devenir aussi précise que celle des rendez-vous.",
+      "conclusion": "Une orientation aboutit lorsqu’un contact a lieu et que ses suites sont comprises. Rémiël a réorganisé son devis pour recevoir le soin prévu. Cette décision pratique n’efface ni son trouble ni la nécessité de solliciter le bon relais si la situation change.",
+      "mirror": [
+        "Anne peut accepter de déplacer l’échange sur le devis tout en demandant une nouvelle échéance explicite. « Reprenons le planning ensemble la semaine prochaine » lui permet de rester dans son rôle. Elle n’a pas à obtenir le compte rendu médical pour organiser la collection. Si une question clinique ou de protection lui est adressée, elle doit être portée vers des professionnels compétents, sans transformer Anne en service d’astreinte."
+      ],
+      "clinical_focus": "Accès au suivi spécialisé",
+      "diagnostic_stage": "known",
+      "sources": [
+        "oms-cddr",
+        "stop-ffcriavs"
+      ],
+      "continuity": {
+        "choice": "La consultation complémentaire a lieu à la date convenue, après ellipse de quelques jours. Rémiël en ressort avec les modalités de suivi clarifiées et prévient Anne de son nouveau délai technique.",
+        "next": "Anne attend un planning réaliste ; la semaine suivante met à l'épreuve l'organisation professionnelle, pas les limites de sécurité."
+      }
+    },
+    {
+      "number": 5,
+      "slug": "remiel-planning-soins",
+      "title": "Ajuster la charge de travail pour préserver le suivi",
+      "description": "Devant une notice incomplète, Rémiël réduit sa charge et négocie une livraison en deux étapes dans le cadre adulte déjà fixé.",
+      "context": "Le planning de restauration",
+      "topics": [
+        "Trouble pédophile",
+        "Travail",
+        "Organisation du suivi"
+      ],
+      "clinical_intro": "Un trouble et les besoins de son suivi peuvent modifier la capacité à tenir un engagement professionnel. Les ajustements dépendent de la situation, du métier et des échanges avec les personnes concernées. Réduire une charge ou revoir un délai peut rendre le projet plus réaliste ; cela ne constitue ni un traitement ni une garantie de sécurité.",
+      "opening": "Anne tourne les deux pages de la notice provisoire. Dans l’atelier réservé aux adultes, le baromètre est posé à côté du dossier ; la vérification laissée en attente apparaît encore dans la liste de travail. Rémiël a préparé un calendrier qui remplit presque toute la semaine. Sur le papier, chaque opération trouve une place. Il a seulement oublié le temps qu’il lui faudra pour revenir sur une mesure incertaine.\n\nLa responsable de collection lui demande si la notice et l’objet pourront être livrés ensemble. Il regarde la date de son prochain contact avec le service spécialisé. L’entretien complémentaire a eu lieu, les modalités sont plus claires, et il ne veut pas maintenant les faire disparaître derrière une estimation trop ambitieuse. Il raye une séance de finition de sa proposition et explique qu’il doit réduire la charge annoncée.\n\nAnne ne lui demande pas de justifier les soins. Elle a besoin de savoir ce que la collection recevra et à quel moment. Rémiël propose de distinguer une notice provisoire, explicitement marquée comme telle, et la remise du baromètre terminé. Il reste une photographie technique à prévoir. Marc, leur collègue adulte, connaît le matériel disponible à l’atelier ; ils pourront lui demander s’il accepte de s’en charger. Rémiël reprend sa règle et trace deux lignes de livraison au lieu d’une. Cette fois, le planning contient aussi le travail qui reste réellement à faire.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Un délai doit tenir compte du travail disponible",
+          "text": "Le retentissement professionnel varie selon les personnes et ne se résume pas au nombre d’heures présentes dans l’agenda. Chez Rémiël, la préoccupation a interrompu une vérification et le suivi exige du temps. Ces deux éléments rendent son estimation initiale peu réaliste. La livraison en deux étapes est un arrangement de cette fiction, pas une règle applicable à tous les restaurateurs. Le cadre adulte et les mesures de prévention restent des conditions du projet."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment les besoins de suivi modifient-ils le planning ?",
+          "points": [
+            {
+              "heading": "Une tâche doit être reprise",
+              "text": "Le calendrier doit inclure les étapes non validées, même si elles ont déjà occupé une séance.",
+              "examples": [
+                "La mesure incertaine demeure sur la liste.",
+                "La notice ne peut présenter cette vérification comme terminée."
+              ]
+            },
+            {
+              "heading": "Le temps de soin compte",
+              "text": "Les rendez-vous sont des engagements réels dans l’organisation de la semaine.",
+              "examples": [
+                "Rémiël garde la date du prochain contact clinique.",
+                "Il retire une séance de finition de sa première proposition."
+              ]
+            },
+            {
+              "heading": "Le livrable peut être clarifié",
+              "text": "Séparer le provisoire du définitif permet de négocier sur des faits.",
+              "examples": [
+                "Anne recevra d’abord une notice portant son statut provisoire.",
+                "La photographie de l’objet est identifiée comme une tâche encore à organiser."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour proposer un engagement professionnel réaliste",
+          "points": [
+            {
+              "heading": "Séparer les temps nécessaires",
+              "objective": "Évaluer le travail sans absorber les besoins de soin.",
+              "exercise": [
+                "Lister les opérations techniques restant à réaliser.",
+                "Conserver les temps de suivi convenus.",
+                "Réduire la charge proposée si l’ensemble ne tient pas dans le délai."
+              ],
+              "benefit": "L’estimation repose sur une disponibilité effective plutôt que sur une semaine théorique."
+            },
+            {
+              "heading": "Définir les étapes de livraison",
+              "objective": "Rendre explicite ce qui peut être remis et ce qui attendra.",
+              "exercise": [
+                "Nommer les documents ou objets concernés.",
+                "Distinguer les éléments provisoires des éléments validés.",
+                "Convenir avec le responsable des dates et des conditions de réception."
+              ],
+              "benefit": "Un report devient un accord de travail compréhensible."
+            },
+            {
+              "heading": "Maintenir les conditions convenues",
+              "objective": "Faire avancer le chantier dans son cadre protecteur.",
+              "exercise": [
+                "Vérifier que l’organisation proposée reste dans le cadre adulte établi.",
+                "Discuter avec les interlocuteurs concernés avant tout changement de conditions.",
+                "Faire confirmer les tâches pratiques acceptées par chaque collègue."
+              ],
+              "benefit": "La pression du délai ne conduit pas à modifier implicitement les mesures de protection."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Deux lignes pour une livraison",
+      "ending": "Anne accepte de recevoir la notice provisoire avant l’objet terminé. Marc, sollicité pour la photographie technique, confirme qu’il pourra aider à l’organiser ; le créneau sera fixé plus tard. Rémiël transmet le planning corrigé et reprend une étape limitée de la notice. Au prochain rendez-vous, il veut parler de cette préoccupation qu’il appelle souvent une obsession. Il aimerait trouver un mot précis sans tirer de ses difficultés une nouvelle conclusion médicale.",
+      "conclusion": "Ajuster un engagement professionnel permet de reconnaître le retentissement du trouble et le temps nécessaire au suivi. Rémiël obtient un planning plus crédible, sans faire de la productivité une mesure de sa santé ni déplacer les limites de protection.",
+      "mirror": [
+        "Anne peut demander : « Qu’est-ce qui sera provisoire, et qu’est-ce que je pourrai considérer comme terminé ? » La réponse lui sert à organiser la collection. Marc peut accepter une photographie sans se rendre responsable du suivi médical. Ces aides ont un objet et des limites ; ni l’un ni l’autre n’a à déduire une amélioration clinique de la qualité du baromètre."
+      ],
+      "clinical_focus": "Retentissement professionnel du suivi",
+      "diagnostic_stage": "known",
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-hrb"
+      ],
+      "continuity": {
+        "choice": "Anne accepte une livraison en deux étapes entre adultes : notice provisoire, puis objet terminé. Marc peut prendre la photographie technique de l'instrument.",
+        "next": "Le planning est posé. Lors du rendez-vous suivant, Rémiël cherche un mot juste pour parler de ses difficultés sans multiplier les diagnostics."
+      }
+    },
+    {
+      "number": 6,
+      "slug": "remiel-termes-diagnostiques",
+      "title": "Distinguer un mot courant d’un diagnostic",
+      "description": "Rémiël dit « obsession » pour parler de son inquiétude. En consultation, il apprend à décrire l’impact sans multiplier les étiquettes.",
+      "context": "Une précision en consultation",
+      "topics": [
+        "Trouble pédophile",
+        "Diagnostic différentiel",
+        "Préoccupation"
+      ],
+      "clinical_intro": "Les mots employés dans la conversation ne correspondent pas toujours à des diagnostics. Une pensée intrusive, une inquiétude persistante ou le mot obsession ne suffisent pas à conclure à un trouble précis. Les distinctions cliniques nécessitent une évaluation professionnelle ; elles ne se vérifient pas par des tests personnels de ses réactions.",
+      "opening": "« C’est une obsession », dit Rémiël en parlant du temps passé à s’inquiéter de son trouble. Il a laissé le planning professionnel dans son sac ; le rendez-vous avec Vidal n’est pas une réunion sur la livraison. Pourtant, il revient vite à ce qu’il connaît le mieux : la mesure reprise, la notice provisoire et le créneau de photographie encore à fixer. Il voudrait que ces faits permettent de comprendre ce qu’il veut dire.\n\nLa docteure lui demande ce que recouvre le mot obsession dans cette phrase. Rémiël répond qu’il l’emploie lorsque sa préoccupation revient et l’empêche de se concentrer. Il ne sait pas si ce mot ajoute quelque chose au diagnostic déjà établi. Vidal distingue avec lui l’usage courant du terme et les diagnostics spécifiques auxquels il peut faire penser. Elle ne lui propose pas de vérifier lui-même une réaction pour choisir entre plusieurs étiquettes.\n\nRémiël prend son carnet. Pour le baromètre, il sépare une observation de son interprétation ; il peut aussi demander cette séparation pendant la consultation, sans devenir son propre clinicien. Il écrit qu’il doit décrire ce qui devient difficile et laisser les conclusions à l’équipe. Puis il hésite devant un autre fait. Depuis plusieurs jours, il dort moins bien et commence la matinée sans élan. Il avait pensé que tout appartenait forcément au même problème. Avant de refermer le carnet, il décide d’en parler aussi.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Des diagnostics distincts demandent une évaluation",
+          "text": "Le trouble pédophile, le trouble obsessionnel compulsif et le trouble du comportement sexuel compulsif ne sont pas des termes interchangeables. Une pensée intrusive involontaire ne suffit pas à établir le premier, et une préoccupation ne prouve pas les deux autres. Ces distinctions relèvent du clinicien, qui examine l’ensemble de la situation. Le diagnostic établi de Rémiël demeure ; la clarification porte ici sur sa manière de décrire une difficulté, sans inventer une nouvelle pathologie."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment les mots peuvent-ils créer une confusion ?",
+          "points": [
+            {
+              "heading": "Un mot courant paraît médical",
+              "text": "Le langage quotidien peut donner à une expérience une précision diagnostique qu’il n’a pas.",
+              "examples": [
+                "Rémiël utilise obsession pour dire qu’il reste préoccupé.",
+                "Il se demande ensuite si ce terme constitue un second diagnostic."
+              ]
+            },
+            {
+              "heading": "L’impact reste à décrire",
+              "text": "Une étiquette générale renseigne moins sur les conséquences concrètes.",
+              "examples": [
+                "Vidal lui demande ce qu’il entend par son mot.",
+                "Il explique que la préoccupation lui fait perdre le fil du travail."
+              ]
+            },
+            {
+              "heading": "Tout est attribué au trouble connu",
+              "text": "Un diagnostic déjà présent peut faire oublier de signaler d’autres changements.",
+              "examples": [
+                "Rémiël avait rangé les nuits difficiles dans la même explication.",
+                "Sa baisse d’élan n’apparaît qu’à la fin de son compte rendu."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour demander une clarification diagnostique",
+          "points": [
+            {
+              "heading": "Décrire ce qui change",
+              "objective": "Donner au soignant une observation plutôt qu’une conclusion.",
+              "exercise": [
+                "Nommer la difficulté avec ses mots habituels.",
+                "Préciser ce qu’elle empêche de faire au quotidien.",
+                "Indiquer ce que l’on ne sait pas interpréter."
+              ],
+              "benefit": "Le professionnel peut examiner les faits sans devoir reprendre une certitude improvisée."
+            },
+            {
+              "heading": "Demander le sens du terme",
+              "objective": "Comprendre la différence entre vocabulaire courant et vocabulaire clinique.",
+              "exercise": [
+                "Dire quel mot a suscité la confusion.",
+                "Demander au clinicien en quoi les termes se distinguent.",
+                "Faire reformuler la réponse sans chercher à tester soi-même ses réactions."
+              ],
+              "benefit": "Une explication peut rendre l’échange plus précis sans ouvrir une démarche d’autodiagnostic."
+            },
+            {
+              "heading": "Garder les conclusions de l’équipe",
+              "objective": "Conserver des repères cohérents entre les consultations.",
+              "exercise": [
+                "Résumer ce que l’équipe a effectivement conclu.",
+                "Distinguer les questions encore ouvertes.",
+                "Signaler les faits nouveaux pour qu’ils soient évalués."
+              ],
+              "benefit": "Le suivi reste fondé sur l’évaluation clinique, tout en laissant place aux évolutions de la santé."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Une question et deux faits nouveaux",
+      "ending": "Rémiël note : « Préoccupation ne signifie pas à elle seule autre diagnostic. » Il vérifie avec Vidal qu’il a compris, puis lui parle de son sommeil altéré et de sa baisse d’élan. Elle recueille ces informations et organise leur évaluation au rendez-vous suivant. Il ne repart pas avec une nouvelle étiquette. Il repart avec deux difficultés reconnues comme des questions à examiner pour elles-mêmes.",
+      "conclusion": "Employer un mot précis ne signifie pas choisir soi-même un diagnostic. Rémiël comprend mieux comment présenter son vécu au service spécialisé. Cette clarification laisse aussi une place aux changements récents qui ne doivent pas être automatiquement expliqués par son trouble connu.",
+      "mirror": [
+        "Si Rémiël utilise le mot obsession devant Marc, son collègue peut demander ce qu’il veut dire dans cette conversation, sans confirmer un diagnostic. « Est-ce que tu veux dire que le travail devient difficile ? » reste une question sur son besoin pratique. Pour interpréter des symptômes ou des changements de santé, Marc peut l’encourager à en parler au professionnel qui le suit."
+      ],
+      "clinical_focus": "Distinguer les termes diagnostiques",
+      "diagnostic_stage": "known",
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-hrb"
+      ],
+      "continuity": {
+        "choice": "Il note simplement que préoccupation ne suffit pas à conclure à un autre trouble. Il mentionne aussi que son sommeil et son humeur se sont dégradés.",
+        "next": "Ces difficultés nouvelles seront évaluées pour elles-mêmes, sans les expliquer d'avance par le diagnostic connu."
+      }
+    },
+    {
+      "number": 7,
+      "slug": "remiel-difficultes-associees",
+      "title": "Évaluer une difficulté nouvelle sans tout attribuer au trouble connu",
+      "description": "Le sommeil et l’élan de Rémiël se dégradent. L’équipe évalue ces changements et adapte le suivi ; la finition du baromètre est suspendue.",
+      "context": "Un entretien sur les changements récents",
+      "topics": [
+        "Trouble pédophile",
+        "Santé associée",
+        "Réévaluation"
+      ],
+      "clinical_intro": "Un diagnostic connu n’explique pas automatiquement chaque difficulté nouvelle. Des changements du sommeil, de l’humeur ou du fonctionnement quotidien méritent une évaluation adaptée. D’autres troubles peuvent coexister, mais leur présence ne se déduit pas d’une scène ou d’un signe isolé. Les conclusions et les suites appartiennent à l’équipe clinique.",
+      "opening": "La notice provisoire se trouve toujours dans la chemise bleue. Rémiël l’a apportée au rendez-vous suivant parce qu’elle lui fournit un exemple simple : depuis plusieurs matinées, il reste devant sans parvenir à l’ouvrir. Il décrit ce changement à Vidal. Ce n’est pas la même difficulté que la mesure recopiée ; cette fois, il peine à commencer. Ses nuits ont aussi raccourci, sans qu’il sache expliquer pourquoi.\n\nLa docteure reprend ces éléments avec lui. Elle demande comment ils ont évolué et ce qu’ils changent dans ses journées. Rémiël cherche à donner un chiffre qui résumerait tout, puis reconnaît qu’il ne dispose que de souvenirs approximatifs. Il peut néanmoins distinguer une semaine où il avançait par étapes de ces derniers jours où le travail est resté fermé. Cela suffit à ouvrir un entretien, pas à poser seul une conclusion.\n\nIl craint que signaler ces difficultés rende son projet impossible. Vidal ne promet ni une reprise immédiate ni un nouveau diagnostic. Elle procède à une évaluation clinique et examine les besoins actuels de suivi. Rémiël répond aux questions nécessaires au lieu de ramener chaque réponse au baromètre. La collection peut attendre une information sur le délai ; l’équipe a besoin de comprendre sa santé. Il pose la chemise près de sa chaise. Pour une fois, le document qui l’a aidé à commencer la conversation n’a pas à décider de la suite.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Le diagnostic connu ne remplace pas l’évaluation actuelle",
+          "text": "Des difficultés associées peuvent demander une attention clinique distincte chez une personne déjà suivie pour un trouble pédophile. Cela ne signifie pas que Rémiël présente forcément une dépression, une addiction ou une autre comorbidité. Le récit ne tranche ni la cause de son sommeil altéré ni celle de sa baisse d’élan. Il montre une évaluation réelle de changements récents, puis une adaptation du suivi à sa situation."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment repérer les faits à transmettre à l’équipe ?",
+          "points": [
+            {
+              "heading": "L’évolution devient perceptible",
+              "text": "Comparer des périodes du quotidien peut rendre un changement plus compréhensible sans établir de seuil médical.",
+              "examples": [
+                "Rémiël distingue les séances précédentes des derniers jours.",
+                "Il rapporte des nuits plus courtes sans leur attribuer de cause certaine."
+              ]
+            },
+            {
+              "heading": "Une activité ordinaire devient difficile",
+              "text": "Le retentissement aide à expliquer le besoin actuel.",
+              "examples": [
+                "La chemise bleue reste fermée le matin.",
+                "Il ne parvient plus à engager la finition prévue."
+              ]
+            },
+            {
+              "heading": "Les besoins doivent être réexaminés",
+              "text": "Un cadre de suivi déjà organisé peut nécessiter un ajustement.",
+              "examples": [
+                "Vidal recueille les changements au cours de l’entretien.",
+                "L’équipe examine avec lui la fréquence des contacts nécessaires."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour transmettre une évolution de santé",
+          "points": [
+            {
+              "heading": "Présenter la chronologie disponible",
+              "objective": "Situer un changement sans inventer une mesure précise.",
+              "exercise": [
+                "Dire depuis quand la difficulté est remarquée, même approximativement.",
+                "Préciser ce qui semble avoir changé.",
+                "Indiquer au soignant ce dont on n’est pas certain."
+              ],
+              "benefit": "L’équipe dispose d’un point de départ honnête pour poursuivre son évaluation."
+            },
+            {
+              "heading": "Décrire le retentissement",
+              "objective": "Montrer ce qui devient difficile dans la journée.",
+              "exercise": [
+                "Choisir un exemple concret de fonctionnement quotidien.",
+                "Expliquer la différence avec les jours précédents.",
+                "Répondre aux questions cliniques sans attribuer d’avance la cause au diagnostic connu."
+              ],
+              "benefit": "Les conséquences sont mieux comprises qu’à travers une étiquette improvisée."
+            },
+            {
+              "heading": "Suivre la réévaluation proposée",
+              "objective": "Donner une suite effective au besoin clinique identifié.",
+              "exercise": [
+                "Clarifier avec l’équipe les prochains contacts.",
+                "Appliquer les adaptations convenues pour la situation actuelle.",
+                "La prévenir si l’état évolue, en recourant immédiatement aux secours en cas d’urgence."
+              ],
+              "benefit": "Une évaluation devient un suivi organisé, sans que le prochain rendez-vous impose d’attendre face à un danger."
+            }
+          ]
+        }
+      ],
+      "ending_title": "La finition est mise en attente",
+      "ending": "L’entretien a lieu et l’équipe adapte les contacts à la situation de Rémiël, sans annoncer ici de nouveau diagnostic. Il suspend la finition pour quelques jours et informe Anne du report professionnel. Elle sait que la date de remise devra être revue ; elle ne reçoit pas le rôle de suivre son état. Rémiël conserve les modalités de contact rapproché données par le service. Il sait aussi qu’un changement urgent nécessiterait un autre relais, même avant ce contact.",
+      "conclusion": "Signaler une difficulté nouvelle permet de l’évaluer sans la réduire au diagnostic déjà connu. Rémiël bénéficie d’un suivi adapté à ce qui est observé maintenant. Le chantier attend, tandis que les questions de santé restent examinées par les professionnels.",
+      "mirror": [
+        "Devant le message de report, Anne peut répondre : « Je mets la finition en attente ; dites-moi quand nous pourrons revoir l’échéance. » Elle n’a pas à conclure que Rémiël est dépressif ni à exiger un bilan de ses nuits. Si elle reçoit une information de danger, l’appui pertinent devient professionnel ou urgent selon la situation ; l’accord sur le délai ne suffit alors pas."
+      ],
+      "clinical_focus": "Évaluer les difficultés associées",
+      "diagnostic_stage": "known",
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-hrb"
+      ],
+      "continuity": {
+        "choice": "L'équipe adapte les contacts à sa situation sans annoncer de nouveau diagnostic. Rémiël suspend la finition pour quelques jours et Anne en est informée sur le seul volet du travail.",
+        "next": "Un contact plus proche existe ; malgré cela, un changement préoccupant exige ensuite de passer au niveau d'urgence prévu."
+      }
+    },
+    {
+      "number": 8,
+      "slug": "remiel-relais-urgent",
+      "title": "Quand la sécurité exige un relais urgent",
+      "description": "Rémiël craint de ne plus maintenir la sécurité. Il appelle immédiatement les secours et reçoit une évaluation ; le chantier reste suspendu.",
+      "context": "Un appel urgent depuis le domicile",
+      "topics": [
+        "Trouble pédophile",
+        "Urgence",
+        "Protection"
+      ],
+      "clinical_intro": "Craindre de ne plus maintenir la sécurité exige un recours immédiat aux secours. Un rendez-vous programmé ou un dispositif d’orientation ne remplace pas ce relais. Il faut exprimer clairement l’urgence et suivre les consignes des professionnels. Aucune technique personnelle ni disponibilité d’un proche ne garantit de pouvoir gérer seul une telle situation.",
+      "opening": "À son domicile, Rémiël constate un changement qui lui fait craindre de ne plus maintenir la sécurité. Il appelle immédiatement les secours. Dès le début de l’échange, il dit qu’il a besoin d’une évaluation urgente et qu’il est déjà suivi par un service spécialisé. Il répond aux questions, donne sa localisation et explique clairement sa crainte. Aucun récit détaillé de scénario n’est nécessaire ici pour comprendre la priorité : la protection et le relais professionnel.\n\nLe prochain contact clinique figure toujours dans son agenda, mais Rémiël n’attend pas cette date. Il suit les consignes que lui donnent les secours et transmet les informations demandées. Il ne cherche pas à vérifier seul si son état va changer, ni à faire dépendre l’appel d’une réponse de Marc. Le collègue était un appui pour une photographie ; ce besoin relève d’un autre cadre.\n\nUne équipe assure ensuite son évaluation clinique selon l’organisation décidée par les secours. Rémiël indique les changements récents déjà rapportés à Vidal et les modalités de son suivi. Les professionnels examinent la situation présente ; ils ne la déduisent ni du sommeil altéré ni du seul nom du diagnostic. La restauration demeure suspendue. L’objet, le devis et les questions de livraison n’ont pas à être résolus avant cette prise en charge. Le contact a été passé et l’évaluation se déroule réellement.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "L’urgence change le relais nécessaire",
+          "text": "Une crainte de passage à l’acte nécessite de contacter immédiatement les secours, sans attendre une consultation prévue. STOP est un dispositif d’orientation et de prévention, distinct de ce recours urgent. Dans la scène, les professionnels évaluent Rémiël et organisent la suite ; le récit ne fournit aucun test domestique du risque. Les démarches ci-dessous décrivent la communication avec les secours, pas une méthode pour traverser seul la crise."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment l’urgence se distingue-t-elle du suivi programmé ?",
+          "points": [
+            {
+              "heading": "La sécurité devient la demande centrale",
+              "text": "Le besoin présent ne peut être ramené à un simple ajustement d’agenda.",
+              "examples": [
+                "Rémiël dit qu’il craint de ne plus maintenir la sécurité.",
+                "Il formule un besoin d’évaluation urgente dès l’appel."
+              ]
+            },
+            {
+              "heading": "Le rendez-vous futur ne suffit plus",
+              "text": "Un contact rapproché déjà organisé ne dispense pas de solliciter le relais adapté maintenant.",
+              "examples": [
+                "La date inscrite dans l’agenda n’est pas utilisée comme motif d’attente.",
+                "Le chantier reste suspendu pendant la prise en charge."
+              ]
+            },
+            {
+              "heading": "Les professionnels prennent en charge l’évaluation",
+              "text": "Le relais ne repose pas sur un collègue ou sur une appréciation solitaire.",
+              "examples": [
+                "Rémiël répond aux questions des secours.",
+                "L’équipe qui l’évalue recueille les informations sur son suivi spécialisé."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour communiquer avec les secours en urgence",
+          "points": [
+            {
+              "heading": "Exprimer clairement le besoin pendant l’appel",
+              "objective": "Faire comprendre l’urgence sans devoir préparer un discours parfait.",
+              "exercise": [
+                "Appeler immédiatement les secours dès que la sécurité ne peut être maintenue.",
+                "Dire clairement la crainte et le besoin d’évaluation urgente.",
+                "Préciser sa localisation et répondre aux premières questions."
+              ],
+              "benefit": "Les secours peuvent apprécier la demande et organiser leur réponse ; aucune rédaction préalable n’est nécessaire."
+            },
+            {
+              "heading": "Suivre les consignes reçues",
+              "objective": "S’appuyer sur les professionnels au cours du relais.",
+              "exercise": [
+                "Écouter les instructions données pendant le contact.",
+                "Faire répéter une consigne si elle est mal comprise.",
+                "La suivre et signaler immédiatement toute difficulté à l’appliquer."
+              ],
+              "benefit": "La conduite à tenir dépend de la situation réelle et des secours, sans improviser un protocole solitaire."
+            },
+            {
+              "heading": "Transmettre les informations cliniques utiles",
+              "objective": "Permettre à l’équipe d’évaluer la situation actuelle.",
+              "exercise": [
+                "Indiquer le suivi spécialisé déjà en place.",
+                "Rapporter les changements récents aux professionnels.",
+                "Participer au relais vers l’équipe de suivi selon les modalités organisées par les soignants."
+              ],
+              "benefit": "La prise en charge urgente peut être reliée au parcours clinique, sans confier ce lien à un proche chargé de surveiller."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Le relais est assuré par une équipe",
+      "ending": "Rémiël est évalué et son service spécialisé reçoit le relais clinique. La suite du suivi est organisée avec les professionnels ; le récit ne promet ni délai universel ni issue identique pour tous. La restauration reste suspendue. Marc apprend seulement que la livraison est reportée et qu’aucune séance de photographie n’est à maintenir pour l’instant. Il ne reçoit pas de mission de surveillance. Le prochain échange avec Vidal reprendra ce que l’évaluation implique pour les soins.",
+      "conclusion": "Le recours urgent constitue une action de protection, pas une preuve que la situation pourrait ensuite être gérée seul. Rémiël a appelé et reçu une évaluation. La continuité du soin doit maintenant être organisée, tandis que le travail reste secondaire.",
+      "mirror": [
+        "Marc peut accuser réception du report sans chercher à devenir disponible en permanence : « La photographie attendra, nous reverrons cela lorsque ce sera possible. » Il n’est pas responsable de l’évaluation. Si un proche est informé d’une crainte immédiate de passage à l’acte ou d’un danger, il contacte les secours sans attendre un rendez-vous de suivi et suit leurs consignes ; il ne promet pas de garder le danger secret."
+      ],
+      "clinical_focus": "Répondre à une aggravation urgente",
+      "diagnostic_stage": "known",
+      "sources": [
+        "oms-cddr",
+        "stop-ffcriavs"
+      ],
+      "continuity": {
+        "choice": "Rémiël est évalué par une équipe et son service spécialisé reçoit le relais clinique. Le travail reste suspendu ; Marc apprend uniquement que la livraison est reportée et ne devient pas responsable de la surveillance.",
+        "next": "L'épisode suivant revient après cette évaluation, dans un rendez-vous de suivi qui reprend ce qui doit être adapté."
+      }
     }
   ]
 }

@@ -210,6 +210,612 @@
           ]
         }
       ]
+    },
+    {
+      "number": 3,
+      "slug": "consentement-limites-conversation",
+      "title": "Le consentement a une portée précise",
+      "description": "Marc accepte une conversation générale, mais refuse les détails intimes. Ronan apprend à respecter la portée de cet accord.",
+      "context": "pendant un café avec Marc",
+      "topics": [
+        "Trouble exhibitionniste",
+        "consentement",
+        "limites"
+      ],
+      "clinical_intro": "Le trouble exhibitionniste se distingue des pratiques sexuelles consenties. Cette frontière clinique ne doit pas être brouillée avec les accords ordinaires du travail ou de la conversation. Dans cet épisode, Ronan respecte le refus de son ami d’entendre des détails : ce geste concerne leur échange, sans résumer à lui seul la question du consentement sexuel.",
+      "opening": "Marc a choisi une table près de la fenêtre. Ronan pose sa chemise grise sur la chaise voisine et commande un café. Depuis le rendez-vous, il cherche comment expliquer à son ami ce que signifie le diagnostic déjà établi. Marc sait qu’il suit des soins ; ils n’ont pas décidé jusqu’où irait leur conversation.\n\n« Je peux t’en parler un peu ? » Marc accepte d’écouter ce qui concerne le suivi et les difficultés du moment. Ronan commence par raconter son appel au secrétariat. Il voudrait ensuite préciser davantage, persuadé qu’une explication complète éviterait tous les malentendus. Marc l’arrête avant qu’il entre dans les détails : « Je veux bien savoir comment tu vas. Les détails intimes, je préfère que tu les gardes pour l’équipe. »\n\nRonan regarde sa tasse. Il avait entendu un oui, et découvre qu’il lui avait donné une portée plus large que celle proposée. Pendant quelques secondes, il cherche une autre manière d’introduire le même sujet. Puis il renonce à négocier. « D’accord. Je peux te dire ce que j’attends de toi, sans ces détails ? » Marc accepte cette question.\n\nRonan demande seulement s’ils pourront parfois faire le point sur la façon dont il vit son suivi. Marc répond qu’il pourra le faire à certains moments, en demandant d’abord. Le café n’est pas devenu une consultation. La déception de Ronan reste présente, mais la limite aussi.",
+      "clinical_focus": "Le consentement délimite le trouble",
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "wfsbp-2020"
+      ],
+      "continuity": {
+        "choice": "Ronan respecte la limite de Marc, réserve les détails à l’équipe et partage seulement sa liste de gares.",
+        "next": "L’invitation professionnelle arrive ; Ronan distingue les souhaits de participation et l’évaluation de sa situation."
+      },
+      "ending_title": "Une liste de gares sur la table",
+      "ending": "Marc demande où en est le catalogue. Ronan ouvre la chemise à la liste des gares, sans sortir ses notes personnelles. Il explique pourquoi la date des Saules a changé. Marc s’intéresse au travail et lui pose une question sur l’ancienne enseigne. La discussion reprend, plus ordinaire que Ronan ne l’avait imaginée. Il accepte que ce café ait cette forme et que l’aide de Marc reste limitée.",
+      "conclusion": "Le consentement ne se déduit pas d’une proximité ou d’un premier accord général. Ronan conserve un ami et une équipe de soins, avec des places différentes ; respecter cette distinction ne supprime pas sa déception, mais change sa réponse.",
+      "mirror": "Marc peut dire : « Je veux bien parler de ton quotidien, mais pas entendre ces détails. » Il n’a pas à justifier longuement ce refus ni à proposer une compensation. Revenir ensuite au catalogue est possible s’il le souhaite ; il peut aussi terminer le café. L’équipe reste le relais pour les questions cliniques, et l’amitié n’implique ni surveillance ni secret absolu en situation de danger.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Des accords à ne pas confondre",
+          "text": "Les pratiques consenties ne relèvent pas, en tant que telles, du trouble exhibitionniste décrit par la classification. Une nudité admise dans son contexte culturel ne suffit pas davantage à le définir. La scène du café illustre un autre accord : accepter une conversation n’oblige pas à en recevoir tous les contenus. Elle ne démontre aucun critère diagnostique. De même, les photographies autorisées du catalogue concernent un usage professionnel des images ; cette autorisation ne dit rien du consentement sexuel."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment respecter la portée d’une conversation ?",
+          "points": [
+            {
+              "heading": "Un oui reste situé",
+              "text": "L’accord de Marc porte sur certains sujets, à ce moment précis.",
+              "examples": [
+                "Il accepte de parler du suivi.",
+                "Il ne consent pas à recevoir les détails intimes."
+              ]
+            },
+            {
+              "heading": "Le refus n’appelle pas une meilleure argumentation",
+              "text": "Une explication plus habile ne rendrait pas la limite négociable contre le gré de l’ami.",
+              "examples": [
+                "Ronan renonce à reformuler le contenu refusé.",
+                "Il change sa question pour demander quel soutien serait possible."
+              ]
+            },
+            {
+              "heading": "Le soutien garde un périmètre",
+              "text": "L’amitié peut exister sans accès à toute la vie clinique.",
+              "examples": [
+                "Marc propose des échanges occasionnels.",
+                "Les informations médicales détaillées restent destinées à l’équipe."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour vérifier les limites d’un échange",
+          "points": [
+            {
+              "heading": "Demander avant de commencer",
+              "objective": "Éviter de présumer la disponibilité de l’autre.",
+              "exercise": [
+                "Nommer sobrement le sujet souhaité.",
+                "Demander si la personne veut en parler maintenant.",
+                "Attendre sa réponse et accepter un refus."
+              ],
+              "benefit": "La conversation peut ainsi commencer sur un accord réel, sans pression."
+            },
+            {
+              "heading": "Respecter une précision",
+              "objective": "Prendre au sérieux une limite exprimée en cours d’échange.",
+              "exercise": [
+                "S’arrêter quand la personne précise ce qu’elle refuse.",
+                "Confirmer simplement que la limite est entendue.",
+                "Changer de sujet ou terminer l’échange selon son souhait."
+              ],
+              "benefit": "L’autre n’a pas à répéter sa limite pour qu’elle soit effective."
+            },
+            {
+              "heading": "Réserver les questions cliniques",
+              "objective": "Garder un interlocuteur adapté pour ce qui doit être évalué.",
+              "exercise": [
+                "Repérer la question qui relève du suivi.",
+                "La noter sans transmettre de détails au proche.",
+                "L’apporter au rendez-vous avec l’équipe."
+              ],
+              "benefit": "Le besoin d’être entendu trouve une place sans imposer un rôle clinique à l’ami."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "slug": "evaluation-individuelle-participation",
+      "title": "La sécurité demande une évaluation individuelle",
+      "description": "Une invitation arrive. Ronan cherche une assurance auprès de Marc, puis adresse ses questions à son équipe avant de confirmer.",
+      "context": "à la réception de l’invitation",
+      "topics": [
+        "Trouble exhibitionniste",
+        "évaluation individuelle",
+        "prévention"
+      ],
+      "clinical_intro": "L’évaluation des besoins de prévention ne se déduit pas d’un diagnostic seul. Elle tient compte de la situation de la personne et relève de professionnels compétents. Pour Ronan, préparer une rencontre professionnelle signifie décrire son contexte à l’équipe, examiner les options et garder sa réponse ouverte pendant ces échanges.",
+      "opening": "L’invitation apparaît entre deux demandes de corrections. La rencontre réunira des collègues sur place et des intervenants à distance. Ronan relit la phrase sur les photographies : le catalogue pourrait servir de point de départ à une courte présentation. Il imagine déjà la première notice, celle des Saules, dont il faut encore vérifier la dernière ligne.\n\nIl appelle Marc pour lui annoncer la nouvelle. Très vite, sa question change : « Tu crois que je peux y aller ? » Marc garde un silence, puis répond qu’il ne peut pas lui donner cette assurance. Il connaît son projet, pas l’ensemble de sa situation clinique. Ronan insiste une fois sur le fait qu’il se sent mieux. Son ami répète qu’une meilleure semaine ne le rend pas compétent pour décider à la place de l’équipe ou de Ronan.\n\nAprès leur appel, Ronan ouvre une réponse à Claire. Il avait commencé par « Je confirme ». Il efface ces deux mots. Il lui manque encore le programme précis, les modalités à distance et un échange avec les soignants. Il contacte le service pour convenir d’un point avant sa réponse définitive ; la demande est prise en compte et un échange est organisé.\n\nLe calendrier de travail reste sur son écran. Cette fois, il y inscrit une réponse provisoire, pas un engagement qu’il faudrait ensuite défendre à tout prix. Il voudrait davantage de certitude, mais décide de commencer par les informations qui manquent.",
+      "clinical_focus": "Le risque demande une évaluation individuelle",
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "wfsbp-2020"
+      ],
+      "continuity": {
+        "choice": "Ronan organise un échange avec l’équipe et reçoit de Claire les deux modalités, sans confirmer encore sa participation.",
+        "next": "Les deux options connues, Ronan reparlera du contrôle qu’il peut exercer sans en tirer une garantie."
+      },
+      "ending_title": "Le programme d’abord",
+      "ending": "Ronan demande à Claire le programme et les conditions d’une présentation à distance. Il précise qu’il souhaite participer mais ne confirme pas encore la modalité. Elle lui transmet les deux options de la rencontre hybride. Il les conserve pour l’échange organisé avec l’équipe. Marc reçoit seulement un remerciement pour avoir été clair sur sa place ; aucune responsabilité de décision ne lui est attribuée.",
+      "conclusion": "Préparer la prévention demande des informations et des interlocuteurs adaptés, pas une promesse de contrôle. Ronan avance dans son projet en conservant la possibilité de le modifier, et le respect des limites d’autrui reste indépendant de son suivi.",
+      "mirror": "À la question « Tu crois que je peux y aller ? », Marc peut répondre : « Je peux écouter ce que ce projet représente pour toi, mais je ne peux pas certifier que cette participation convient. » Il peut encourager le contact prévu avec l’équipe sans l’effectuer à la place de Ronan. Si la sécurité ne peut plus être maintenue, le projet est interrompu et une aide professionnelle est sollicitée immédiatement ; un danger immédiat appelle les services d’urgence locaux.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Une évaluation plutôt qu’une assurance",
+          "text": "Les recommandations spécialisées décrivent une appréciation individualisée des besoins, des risques, des ressources et de la réponse aux soins. Le code diagnostique ne suffit pas à certifier la sécurité d’une activité ni à déduire une conduite pénale. Dans la situation de Ronan, transmettre les contraintes de la rencontre aide la discussion clinique. Le soignant ne délivre pas une garantie de risque nul, et la participation reste soumise aux limites réellement convenues avec les organisateurs."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment une demande de certitude peut-elle retarder la préparation ?",
+          "points": [
+            {
+              "heading": "L’ami reçoit une question qui dépasse son rôle",
+              "text": "Ronan cherche une validation rapide auprès d’une personne familière.",
+              "examples": [
+                "Il demande à Marc s’il peut participer.",
+                "Il invoque sa meilleure semaine pour obtenir une réponse rassurante."
+              ]
+            },
+            {
+              "heading": "Des informations essentielles manquent",
+              "text": "L’envie de répondre précède la connaissance du cadre concret.",
+              "examples": [
+                "Le programme détaillé n’est pas encore arrivé.",
+                "La possibilité de présenter à distance reste à confirmer."
+              ]
+            },
+            {
+              "heading": "Une réponse provisoire protège la marge de décision",
+              "text": "Ne pas confirmer immédiatement permet les échanges utiles.",
+              "examples": [
+                "Ronan retire sa confirmation du brouillon.",
+                "Il organise un point avec son équipe avant de s’engager."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour préparer une décision avec les bons interlocuteurs",
+          "points": [
+            {
+              "heading": "Décrire le contexte",
+              "objective": "Donner à l’équipe les informations utiles au projet.",
+              "exercise": [
+                "Rassembler les horaires et les modalités connues.",
+                "Signaler ce qui reste incertain.",
+                "Transmettre ces éléments lors du point organisé."
+              ],
+              "benefit": "L’échange peut s’appuyer sur une situation concrète, sans devenir un certificat de sécurité."
+            },
+            {
+              "heading": "Examiner les options",
+              "objective": "Garder plusieurs modalités réellement disponibles.",
+              "exercise": [
+                "Demander quelles formes de participation sont possibles.",
+                "Discuter de leur pertinence avec les professionnels concernés.",
+                "Conserver aussi la possibilité de suspendre la participation."
+              ],
+              "benefit": "Le projet ne devient pas une épreuve à réussir coûte que coûte."
+            },
+            {
+              "heading": "Clarifier la réponse provisoire",
+              "objective": "Éviter de faire passer une intention pour un accord ferme.",
+              "exercise": [
+                "Dire à l’organisatrice que la réponse reste ouverte.",
+                "Demander à quelle date elle en a besoin.",
+                "Revenir vers elle après les échanges nécessaires."
+              ],
+              "benefit": "Les autres peuvent organiser leur travail sans recevoir des informations de santé inutiles."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "slug": "controle-reponse-suivi",
+      "title": "Une décision tenue ne prouve pas la guérison",
+      "description": "Ronan a respecté ses engagements préventifs. Il voudrait en conclure que le prochain rendez-vous est devenu inutile.",
+      "context": "au suivi après une semaine plus stable",
+      "topics": [
+        "Trouble exhibitionniste",
+        "contrôle",
+        "continuité du soin"
+      ],
+      "clinical_intro": "Pouvoir contrôler certaines réponses ne signifie pas qu’un trouble exhibitionniste a disparu. Cette capacité et l’évolution du trouble doivent être appréciées dans leur contexte. Ronan peut reconnaître les décisions qu’il a tenues tout en discutant avec son équipe de la suite du suivi, sans transformer sa semaine en test de guérison.",
+      "opening": "La feuille du programme est posée devant la docteure Leclerc. Ronan explique les deux possibilités transmises par Claire : venir à la rencontre ou présenter à distance. L’échange organisé pour préparer le projet commence par sa semaine. Il a maintenu les engagements préventifs discutés avec l’équipe, demandé les informations nécessaires et laissé sa réponse professionnelle ouverte.\n\nIl énumère ces décisions avec une satisfaction qu’il n’ose pas tout à fait montrer. Puis il sort son agenda. Le prochain rendez-vous tombe près d’une séance de relecture du catalogue. « Si j’ai réussi à respecter ce qu’on avait prévu, je pourrais peut-être sauter celui-là. » Il le dit comme une simple solution d’organisation, mais attend surtout une confirmation : ce qu’il a fait prouve-t-il qu’il n’a plus besoin d’aide ?\n\nLa médecin lui demande ce qu’il entend par réussir. Ronan reprend les décisions une par une. Elle les reconnaît sans en tirer la conclusion qu’il espérait. La possibilité de contrôler certaines réponses ne suffit pas à décrire l’état du trouble ; leur entretien porte aussi sur sa détresse, les difficultés encore présentes et les besoins du suivi.\n\nRonan garde le doigt sur la case de l’agenda. Il remarque qu’il avait voulu utiliser une bonne semaine pour résoudre deux questions différentes : le conflit d’horaires et l’utilité des soins. Il peut demander un ajustement d’organisation sans décider seul que les soins n’ont plus d’objet.",
+      "clinical_focus": "Contrôler une réponse ne suffit pas à guérir",
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "wfsbp-2020"
+      ],
+      "continuity": {
+        "choice": "Ronan maintient le rendez-vous, termine la notice des Saules et commence celle du dépôt central.",
+        "next": "Un changement du sommeil devra être présenté séparément, sans tout attribuer au trouble connu."
+      },
+      "ending_title": "La case reste occupée",
+      "ending": "Ronan conserve le rendez-vous suivant. Au bureau, il réserve un autre moment pour sa relecture et termine enfin la notice des Saules. Il inscrit « vérifiée » à côté de la date de l’enseigne, puis ouvre celle du dépôt central. La satisfaction de finir une page lui appartient. Il ne demande plus à cette page de démontrer que son trouble est réglé.",
+      "conclusion": "Reconnaître un choix tenu aide à décrire le parcours, sans transformer le contrôle en garantie. Ronan reprend son travail et maintient le suivi : ces décisions peuvent coexister sans que l’une serve de preuve médicale à l’autre.",
+      "mirror": "Si Ronan raconte sa semaine à Marc, celui-ci peut dire : « Tu as tenu les décisions dont tu me parles. Pour changer le suivi, tu peux en discuter avec l’équipe. » Il n’a ni à nier ce progrès ni à certifier sa portée. Il peut aussi rappeler qu’il ne souhaite pas recevoir un compte rendu détaillé de chaque décision ; son amitié ne devient pas une évaluation permanente.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Le contrôle a une portée limitée",
+          "text": "Certaines possibilités de contrôle peuvent exister dans le trouble exhibitionniste. Elles ne suffisent ni à exclure ce diagnostic ni à poser un trouble du comportement sexuel compulsif, catégorie distincte qui demande sa propre évaluation. Ronan rapporte ici des décisions réellement tenues. Elles comptent dans le suivi, mais ne remplacent pas une appréciation plus large. Aucun exercice de résistance ou de mise à l’épreuve n’est nécessaire pour leur donner de la valeur."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment une réussite concrète devient-elle une conclusion excessive ?",
+          "points": [
+            {
+              "heading": "Les engagements sont réellement tenus",
+              "text": "Ronan peut reconnaître les choix faits sans les minimiser.",
+              "examples": [
+                "Il a gardé sa réponse professionnelle provisoire.",
+                "Il a apporté le programme à l’équipe comme prévu."
+              ]
+            },
+            {
+              "heading": "Le résultat dépasse soudain ce qu’il montre",
+              "text": "Une semaine sert de preuve à une conclusion sur tout le trouble.",
+              "examples": [
+                "Il pense que le rendez-vous suivant est inutile.",
+                "Il attend que la médecin confirme une disparition des besoins."
+              ]
+            },
+            {
+              "heading": "La question pratique masque la question clinique",
+              "text": "Un conflit de calendrier n’a pas la même réponse qu’une demande d’arrêt du suivi.",
+              "examples": [
+                "La relecture peut changer d’horaire.",
+                "La poursuite des soins se discute pendant l’entretien."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour reconnaître un progrès sans interrompre seul les soins",
+          "points": [
+            {
+              "heading": "Nommer la décision précise",
+              "objective": "Donner une place juste à ce qui a été accompli.",
+              "exercise": [
+                "Décrire le choix réellement fait.",
+                "Dire ce qui l’a facilité sans en faire une recette universelle.",
+                "Partager aussi ce qui reste difficile avec l’équipe."
+              ],
+              "benefit": "Le bilan peut accueillir une réussite sans effacer les besoins encore présents."
+            },
+            {
+              "heading": "Vérifier la conclusion",
+              "objective": "Distinguer une observation de ce qu’on veut lui faire prouver.",
+              "exercise": [
+                "Formuler la conclusion que l’on envisage.",
+                "Demander au soignant ce qui permet de la soutenir ou la limite.",
+                "Reformuler ensemble la portée de cette semaine."
+              ],
+              "benefit": "Cette discussion peut éviter une interruption fondée sur une assurance trop large."
+            },
+            {
+              "heading": "Séparer les agendas",
+              "objective": "Résoudre un problème pratique à son niveau.",
+              "exercise": [
+                "Repérer le chevauchement des horaires.",
+                "Demander un aménagement réaliste à l’interlocuteur concerné.",
+                "Confirmer le prochain point de soin avec l’équipe."
+              ],
+              "benefit": "Le travail peut avancer sans imposer l’abandon du suivi comme seule solution."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "slug": "sommeil-nouveau-changement-bilan",
+      "title": "Une difficulté nouvelle mérite son propre bilan",
+      "description": "Des nuits difficiles perturbent la relecture. Ronan décrit ce changement au cabinet au lieu de l’attribuer d’emblée au trouble connu.",
+      "context": "pendant la relecture du dépôt central",
+      "topics": [
+        "Trouble exhibitionniste",
+        "sommeil",
+        "évaluation clinique"
+      ],
+      "clinical_intro": "Un diagnostic connu ne fournit pas l’explication automatique de toute difficulté nouvelle. Un changement du sommeil ou du fonctionnement mérite d’être décrit et évalué pour lui-même. Dans le parcours de Ronan, les nuits difficiles conduisent à un point clinique, puis à un ajustement du travail, sans qu’un autre diagnostic soit déduit du récit.",
+      "opening": "Le dépôt central possède deux bâtiments presque identiques. Sur la photographie, une porte latérale permet pourtant de les distinguer. Ronan le sait, mais il vient de relire trois fois la remarque de Claire sans retrouver le passage à corriger. Il pousse sa chaise, reprend la page, puis s’aperçoit qu’il consulte la mauvaise version.\n\nDepuis plusieurs nuits, il dort mal. Ce matin, il avait décidé de ne pas en parler : il connaît déjà son diagnostic, pense-t-il, et le catalogue approche de sa fin. Il serait facile d’attribuer cette fatigue au même ensemble de difficultés. Pourtant, elle ne figurait pas ainsi dans ce qu’il avait décrit au dernier rendez-vous. Il ne sait pas ce qu’elle signifie et n’a pas besoin de le décider avant d’appeler.\n\nIl contacte le cabinet et décrit le changement, sa durée approximative et son effet sur la relecture. Le point clinique organisé permet à l’équipe de reprendre le sommeil et les autres éléments pertinents avec lui. Il répond aux questions sans décider à l’avance que tout vient du trouble exhibitionniste, ni qu’un diagnostic supplémentaire s’impose. Les suites utiles sont discutées dans cet échange, dont les détails restent médicaux.\n\nEn revenant à son bureau, Ronan regarde la séance de relecture prévue d’un seul bloc. Il peut demander à la répartir. Claire a besoin de savoir comment terminer les notices ; elle n’a pas besoin de connaître le contenu de l’entretien pour examiner une autre organisation.",
+      "clinical_focus": "Une nouvelle difficulté mérite son propre bilan",
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "wfsbp-2020"
+      ],
+      "continuity": {
+        "choice": "Ronan fait évaluer le changement de sommeil puis obtient de Claire deux séances de relecture aux horaires convenus.",
+        "next": "La séance raccourcie mettra au jour sa tendance à prendre une contrainte personnelle pour une exception autorisée."
+      },
+      "ending_title": "Deux séances au calendrier",
+      "ending": "Après le point clinique, Ronan demande deux séances de relecture plus courtes. Claire accepte les horaires proposés et lui renvoie les pages à traiter lors de chacune. Il les range dans la chemise grise, séparées par une feuille blanche. Rien ne prouve encore que ses nuits vont s’améliorer. En revanche, le changement a été évalué et la relecture possède désormais un cadre qu’ils ont réellement accepté.",
+      "conclusion": "Une difficulté nouvelle n’est ni automatiquement une manifestation du trouble connu ni la preuve d’un autre trouble. Ronan peut transmettre ce qui a changé, suivre les suites convenues et modifier une tâche sans confondre ces démarches.",
+      "mirror": "Claire peut répondre à la demande par une question de travail : « Quelles pages gardons-nous pour la première séance ? » Elle n’a pas à chercher un diagnostic derrière les erreurs de version. Si Ronan évoque son sommeil à Marc, son ami peut l’encourager à en parler au cabinet, sans proposer sa propre explication ni surveiller ses nuits. Le soin et l’organisation restent confiés aux personnes concernées.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Décrire avant d’attribuer",
+          "text": "L’évaluation spécialisée prend en compte la santé associée et les autres explications possibles d’un changement. Les frontières diagnostiques ne permettent pas de conclure à partir d’une mauvaise nuit ou d’une difficulté de concentration. Chez Ronan, le sommeil est évalué pour lui-même. Le récit n’ajoute ni trouble de l’humeur ni usage de substances, et ne présente pas le stress comme une cause établie. Répartir la relecture constitue un arrangement professionnel, sans effet thérapeutique affirmé."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment éviter que le diagnostic connu explique tout ?",
+          "points": [
+            {
+              "heading": "Un changement se distingue du fonctionnement habituel",
+              "text": "La nouveauté mérite d’être décrite même sans explication disponible.",
+              "examples": [
+                "Ronan constate plusieurs nuits difficiles.",
+                "Il remarque qu’il travaille sur la mauvaise version de la notice."
+              ]
+            },
+            {
+              "heading": "L’hypothèse ne devient pas un fait",
+              "text": "Le personnage peut penser au bouclage sans en faire la cause certaine.",
+              "examples": [
+                "Il hésite à considérer la fatigue comme déjà comprise.",
+                "Il répond aux questions de l’équipe au lieu de défendre une explication unique."
+              ]
+            },
+            {
+              "heading": "Les suites cliniques et pratiques sont distinctes",
+              "text": "Une adaptation de tâche ne remplace pas l’évaluation.",
+              "examples": [
+                "Le cabinet fait le point sur le sommeil.",
+                "Claire examine la répartition de la relecture après cet échange."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour présenter une nouvelle difficulté",
+          "points": [
+            {
+              "heading": "Décrire le changement",
+              "objective": "Rendre l’information utilisable sans poser son diagnostic.",
+              "exercise": [
+                "Dire ce qui diffère de la période précédente.",
+                "Préciser les moments concernés avec les repères disponibles.",
+                "Donner un exemple concret du retentissement."
+              ],
+              "benefit": "Le clinicien peut explorer la difficulté sans partir d’une attribution imposée."
+            },
+            {
+              "heading": "Laisser ouvertes les explications",
+              "objective": "Permettre une évaluation qui dépasse le trouble connu.",
+              "exercise": [
+                "Nommer son hypothèse comme une hypothèse.",
+                "Signaler au soignant les autres changements pertinents qu’il demande.",
+                "Vérifier les suites convenues avec lui."
+              ],
+              "benefit": "Cette démarche réduit le risque de négliger une information nouvelle ; elle ne constitue pas un autotest."
+            },
+            {
+              "heading": "Adapter une tâche précise",
+              "objective": "Rendre l’échéance compatible avec les possibilités présentes.",
+              "exercise": [
+                "Repérer la partie de travail qui bloque.",
+                "Proposer une répartition concrète à la collègue.",
+                "Confirmer ensemble les nouveaux horaires."
+              ],
+              "benefit": "Une organisation plus réaliste peut soutenir le travail pendant que le suivi suit son cours."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "slug": "justification-permission-limite",
+      "title": "Une justification ne crée pas une permission",
+      "description": "Ronan voudrait que ses efforts lui donnent droit à un délai. Il apprend à distinguer ce souhait d’un accord réellement reçu.",
+      "context": "à la fin de la relecture",
+      "topics": [
+        "Trouble exhibitionniste",
+        "interprétations",
+        "responsabilité"
+      ],
+      "clinical_intro": "Le travail clinique peut porter sur les interprétations qui orientent les décisions d’une personne. Un souhait compréhensible ne crée pas une permission chez autrui. Ronan examine ici un raisonnement quotidien avec son équipe : ses efforts de soin lui semblent justifier une exception professionnelle. Cette situation illustre son parcours, sans constituer un signe universel du trouble.",
+      "opening": "À la fin de la deuxième séance, Claire referme la chemise grise. Les corrections du dépôt central sont terminées ; les autres notices ont retrouvé leur place. Avant de partir, elle rappelle que la liste définitive des intervenants sera close vendredi. Ronan doit encore préciser sa modalité de participation. La rencontre se rapproche et l’équipe éditoriale doit arrêter le programme.\n\nIl répond qu’il a bien compris, puis reste devant les pages. Il a pris ses rendez-vous, parlé de difficultés qu’il aurait préféré taire, accepté de modifier la relecture. Une phrase lui vient : après tous ces efforts, on pourrait tout de même attendre sa réponse un peu plus longtemps. Il commence un message pour demander une exception, mais s’arrête avant de l’envoyer. Claire connaît son travail, pas les détails de ses soins. Surtout, elle n’a jamais proposé de déplacer cette échéance.\n\nAu suivi prévu, il raconte ce raisonnement à la docteure Leclerc. Il ne cherche pas à faire juger Claire. Il reconnaît plutôt qu’il avait transformé ses propres efforts en dette supposée de l’autre. La médecin l’invite à distinguer ce qu’il souhaite, ce qu’il peut demander et la réponse réellement reçue.\n\nRonan trouve cette distinction moins confortable qu’une justification bien construite. Il voudrait garder du temps, mais peut poser une question dont la réponse serait non. Le catalogue corrigé attend sur son bureau ; il n’a pas besoin d’en faire un argument pour obtenir une permission inexistante.",
+      "clinical_focus": "Une justification ne crée pas une permission",
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "wfsbp-2020"
+      ],
+      "continuity": {
+        "choice": "Ronan confirme vendredi comme échéance et demande la fiche technique, sans faire de ses soins une justification d’exception.",
+        "next": "Il doit supporter la déception sans faire de Marc ou Claire les régulateurs de sa sécurité."
+      },
+      "ending_title": "La fiche technique demandée",
+      "ending": "Ronan écrit à Claire qu’il respectera l’échéance de vendredi. Il lui demande la fiche technique de la visioconférence pour préparer aussi cette option. Les notices corrigées restent dans la chemise. La réponse qu’il envoie est plus courte que son premier brouillon ; elle ne raconte pas ses soins et ne réclame pas de reconnaissance en échange. Sa déception n’a pas disparu, mais Claire peut maintenant poursuivre son organisation.",
+      "conclusion": "Une difficulté personnelle et des efforts réels n’annulent pas les limites des autres. Ronan apprend à reconnaître ce qu’il souhaite, à demander clairement et à accepter la réponse, tout en travaillant sa déception dans un cadre adapté.",
+      "mirror": "Claire peut maintenir l’échéance sans demander à Ronan de justifier ses soins : « J’ai besoin de ta réponse vendredi pour fermer le programme. Voici les informations pour l’option à distance. » Une explication pratique peut aider, mais elle n’est pas obligée d’obtenir son adhésion émotionnelle. Marc peut écouter une déception s’il le souhaite ; il n’a pas à négocier avec Claire ni à garantir que Ronan supportera sa réponse.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Un raisonnement à examiner dans son contexte",
+          "text": "Les approches spécialisées peuvent travailler les pensées et les interprétations qui influencent les réponses d’une personne. Le raisonnement de Ronan est ici un exemple fictif de rationalisation quotidienne, pas un critère du trouble exhibitionniste. Un délai professionnel n’équivaut pas à une violation du consentement sexuel. La question commune du respect d’une limite ne rend pas ces situations interchangeables. Les soins engagés ne créent aucun droit à faire céder les autres."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment un effort personnel devient-il une exception supposée ?",
+          "points": [
+            {
+              "heading": "Le souhait prend la forme d’un droit",
+              "text": "Ronan ne se contente plus d’espérer un délai.",
+              "examples": [
+                "Il pense que ses rendez-vous devraient justifier une exception.",
+                "Il ressent l’échéance comme si elle ignorait volontairement ses efforts."
+              ]
+            },
+            {
+              "heading": "La réponse réelle passe au second plan",
+              "text": "L’argument intérieur remplace ce qui a été convenu.",
+              "examples": [
+                "Claire a demandé une réponse vendredi.",
+                "Ronan prépare un message comme si un report lui était déjà dû."
+              ]
+            },
+            {
+              "heading": "L’interprétation peut être discutée sans accusation",
+              "text": "Le suivi offre un lieu où examiner ce raisonnement.",
+              "examples": [
+                "Ronan décrit sa pensée à la médecin.",
+                "Il ne demande pas à Claire de réparer sa déception."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour distinguer un souhait d’une permission",
+          "points": [
+            {
+              "heading": "Revenir à l’accord reçu",
+              "objective": "Identifier ce qui a réellement été dit.",
+              "exercise": [
+                "Rappeler la demande formulée par l’autre.",
+                "Distinguer cette réponse de ce que l’on espérait.",
+                "Conserver la limite tant qu’aucun nouvel accord n’existe."
+              ],
+              "benefit": "Cela peut éviter de traiter une justification intérieure comme une autorisation."
+            },
+            {
+              "heading": "Formuler une demande négociable",
+              "objective": "Laisser à l’autre une réponse libre.",
+              "exercise": [
+                "Dire précisément ce que l’on souhaiterait modifier.",
+                "Vérifier que la question peut recevoir un refus.",
+                "Prendre la réponse en compte sans multiplier les pressions."
+              ],
+              "benefit": "La demande reste une proposition et non une dette à acquitter."
+            },
+            {
+              "heading": "Apporter le raisonnement au suivi",
+              "objective": "Travailler ce qui rend le refus difficile à accepter.",
+              "exercise": [
+                "Noter la pensée qui insiste.",
+                "Décrire au clinicien son effet sur la décision envisagée.",
+                "Discuter d’une réponse respectant les limites réelles."
+              ],
+              "benefit": "Ce travail individualisé peut éclairer la décision, sans transformer le proche en thérapeute."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "slug": "frustration-appui-soin",
+      "title": "La tension émotionnelle appelle un appui adapté",
+      "description": "La fiche technique ravive la déception de Ronan. Il interrompt un message accusateur et parle de sa tension au suivi.",
+      "context": "chez lui avant le rendez-vous",
+      "topics": [
+        "Trouble exhibitionniste",
+        "frustration",
+        "relais professionnel"
+      ],
+      "clinical_intro": "Les besoins de soin peuvent inclure la manière de répondre aux émotions difficiles. Une frustration ne constitue pas une cause démontrée du trouble exhibitionniste ni une excuse pour dépasser les limites d’autrui. Chez Ronan, la tension autour de la rencontre devient un sujet à travailler avec l’équipe, avec des relais précisés si sa situation devient préoccupante.",
+      "opening": "La fiche technique est ouverte sur la table de Ronan. Elle explique comment transmettre les images, vérifier le son et respecter le temps de parole. Il avait demandé ces informations ; les voir réunies lui donne pourtant l’impression que sa participation se rétrécit déjà. Le choix n’est pas arrêté, mais il regrette la rencontre qu’il avait imaginée.\n\nIl ouvre un message à Claire et écrit qu’elle ne mesure pas les efforts demandés. Puis il relit sa phrase. Claire lui a envoyé exactement ce qu’il avait demandé, sans décider de sa santé ni l’exclure du programme. Il laisse le message en brouillon et ferme la fenêtre. Cela ne suffit pas à le calmer. Il fait plusieurs fois le tour de la table et revient à la même pensée : son projet devrait être plus simple après tout ce qu’il a entrepris.\n\nAu rendez-vous prévu, il décrit cette tension. Il ne présente pas le brouillon comme une menace ni comme un fait déjà accompli. Il dit qu’il veut comprendre comment maintenir ses engagements lorsque la déception prend davantage de place. L’équipe reprend avec lui les appuis convenus et les contacts adaptés si sa situation change de façon préoccupante.\n\nRonan demande à faire préciser les modalités de ce relais, au lieu de supposer qu’un ami sera toujours disponible. La fiche technique reste utile pour le travail. Elle n’a pas à contenir la réponse à ce qu’il éprouve, et Claire n’a pas à devenir responsable de l’apaiser.",
+      "clinical_focus": "La tension émotionnelle appelle un appui",
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "wfsbp-2020"
+      ],
+      "continuity": {
+        "choice": "Ronan n’envoie pas le message accusateur, répond sur les documents et clarifie les relais professionnels avec l’équipe.",
+        "next": "Marc doit pouvoir préciser ses disponibilités sans devenir le seul relais de prévention."
+      },
+      "ending_title": "Une réponse sur les documents",
+      "ending": "Ronan supprime le brouillon accusateur. Il envoie à Claire une réponse factuelle sur les documents attendus et leur format. Avec l’équipe, il a clarifié qui contacter si sa situation devient préoccupante et les alternatives en dehors des disponibilités ordinaires. Il reste déçu de devoir réfléchir à une participation plus limitée. Il ne demande plus à Claire de faire disparaître ce sentiment avant de pouvoir travailler avec elle.",
+      "conclusion": "La tension mérite un appui sans devenir une explication totale ni une permission. Ronan distingue la réponse professionnelle, le travail clinique et les démarches de sécurité : aucune de ces tâches ne repose sur l’obligation d’un proche de le calmer.",
+      "mirror": "Si un échange devient pressant, Claire peut dire : « Je peux répondre sur les documents ; je préfère que nous arrêtions cette discussion pour le moment. » Marc peut également limiter son écoute. Ni l’un ni l’autre n’a à garantir un apaisement. Une inquiétude de sécurité appelle le relais professionnel prévu, et un danger immédiat les services d’urgence locaux, plutôt qu’une promesse de disponibilité sans fin.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Une émotion à prendre en compte, sans causalité inventée",
+          "text": "Le travail psychothérapeutique spécialisé peut aborder les émotions, les interprétations et les réponses d’une personne. Cette possibilité ne prouve pas que la frustration cause le trouble ou qu’un apaisement suffit à garantir la sécurité. Le brouillon de Ronan montre une réaction singulière à une déception professionnelle. Interrompre cet échange est un appui de communication ; l’évaluation et le plan de prévention restent confiés à l’équipe, avec recours immédiat à une aide adaptée si la sécurité ne peut être maintenue."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment la tension modifie-t-elle la réponse à une déception ?",
+          "points": [
+            {
+              "heading": "Une information neutre prend une autre couleur",
+              "text": "Ronan lit la fiche à travers ce qu’il espérait de la rencontre.",
+              "examples": [
+                "Il reçoit les modalités qu’il avait demandées.",
+                "Il les vit d’abord comme une réduction imposée de sa place."
+              ]
+            },
+            {
+              "heading": "La réponse devient accusatrice",
+              "text": "Le message attribue à Claire un rôle qu’elle n’a pas.",
+              "examples": [
+                "Il écrit qu’elle ignore ses efforts.",
+                "Il oublie momentanément qu’elle ne décide pas du soin."
+              ]
+            },
+            {
+              "heading": "La difficulté peut être adressée autrement",
+              "text": "Suspendre l’envoi ouvre une autre démarche sans résoudre tout le vécu.",
+              "examples": [
+                "Le brouillon reste non envoyé.",
+                "Ronan décrit sa tension pendant le rendez-vous prévu."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour chercher un appui lorsque la tension augmente",
+          "points": [
+            {
+              "heading": "Nommer ce qui change",
+              "objective": "Décrire l’émotion et son effet sans la transformer en excuse.",
+              "exercise": [
+                "Choisir un mot provisoire, comme déception ou frustration.",
+                "Repérer la réponse que l’on s’apprêtait à donner.",
+                "Apporter ces éléments à l’échange clinique prévu."
+              ],
+              "benefit": "L’équipe peut travailler sur une situation précise plutôt que sur une assurance vague."
+            },
+            {
+              "heading": "Interrompre une discussion pressante",
+              "objective": "Éviter d’exiger de l’autre qu’il apaise immédiatement la tension.",
+              "exercise": [
+                "Suspendre le message ou l’échange qui devient accusateur.",
+                "Dire si nécessaire que l’on reviendra sur la seule question pratique.",
+                "Reprendre cette question lorsque l’on peut respecter la réponse de l’autre."
+              ],
+              "benefit": "Cette pause peut préserver l’échange ; elle ne remplace jamais une démarche de sécurité."
+            },
+            {
+              "heading": "Clarifier le relais",
+              "objective": "Savoir à qui s’adresser sans dépendre d’un proche unique.",
+              "exercise": [
+                "Vérifier les modalités du contact professionnel convenu.",
+                "Demander quoi faire si ce contact n’est pas disponible.",
+                "Solliciter immédiatement l’aide adaptée si la sécurité ne peut être maintenue."
+              ],
+              "benefit": "Un relais explicite évite de confondre présence amicale et prise en charge ; en danger immédiat, contacter les urgences locales."
+            }
+          ]
+        }
+      ]
     }
   ]
 }
