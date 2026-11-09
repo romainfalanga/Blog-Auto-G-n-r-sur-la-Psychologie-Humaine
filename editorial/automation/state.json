@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "revision": 242,
+  "revision": 252,
   "created_at": "2026-11-07T14:47:42Z",
   "cases": {
     "mathis": {
@@ -3394,12 +3394,14 @@
       "code": "6B85",
       "stage": "story",
       "created_at": "2026-11-07T14:47:42Z",
-      "active_job": null,
+      "active_job": "332e85c427304b6192a1d6c17190686f",
       "owners": {
         "character": [
           "personnage_nolwenn"
         ],
-        "story": [],
+        "story": [
+          "story_nolwenn"
+        ],
         "review": []
       },
       "revision_rounds": 0,
@@ -3432,9 +3434,11 @@
       "code": "6C00",
       "stage": "character",
       "created_at": "2026-11-07T14:47:42Z",
-      "active_job": null,
+      "active_job": "73c19d6021ac4a879add0692613f5bfd",
       "owners": {
-        "character": [],
+        "character": [
+          "personnage_titouan"
+        ],
         "story": [],
         "review": []
       },
@@ -3454,9 +3458,11 @@
       "code": "6C01",
       "stage": "character",
       "created_at": "2026-11-07T14:47:42Z",
-      "active_job": null,
+      "active_job": "b67785ab5f9e41dc8f165fa4ad78e630",
       "owners": {
-        "character": [],
+        "character": [
+          "personnage_felix"
+        ],
         "story": [],
         "review": []
       },
@@ -29182,7 +29188,732 @@
         "findings": [],
         "reviewer": "review_thael"
       }
+    },
+    "332e85c427304b6192a1d6c17190686f": {
+      "id": "332e85c427304b6192a1d6c17190686f",
+      "character_id": "nolwenn",
+      "role": "story",
+      "owner": "story_nolwenn",
+      "created_at": "2026-11-09T18:48:13Z",
+      "snapshot": {
+        "prompt_file": "editorial/agents/stories.md",
+        "prompt": "# Agent rédacteur d’histoires\n\nUn vrai sous-agent ChatGPT écrit un personnage entier. Il est distinct de son créateur. Plusieurs personnages peuvent être rédigés en parallèle ; les douze épisodes d’un même personnage s’écrivent dans l’ordre. Aucun appel de modèle par API ni production GitHub Actions.\n\nLire `editorial_pipeline.py brief --job <job>`, la charte, l’article modèle d’alexithymie en couple, le dossier individuel et le design gelé. Respecter leurs références et la chronologie du diagnostic. Recopier exactement la biographie et les cinq repères validés, et reprendre chaque aspect prévu dans `clinical_focus`. Ne pas modifier le dossier ou le plan en cours de rédaction ; signaler un problème au pilote.\n\nÉcrire uniquement `editorial/clinical/<id>.json`. Conserver tout épisode déjà sauvegardé après une interruption. Vérifier l’existence du manuscrit et relire ses raccords avant d’ajouter la suite. Sauvegarder chaque épisode complet puis exécuter `checkpoint` avec la mission et son jeton. Le fichier contient `character_id`, `bio`, `profile_topics`, `episodes` ; le brief donne les champs exacts de chaque épisode.\n\nTrame obligatoire, format 2 :\n\n1. Scène d’ouverture d’au moins 180 mots, sans intertitre, illustrant l’aspect précis de l’épisode.\n2. Introduction pédagogique autonome de 40 à 90 mots dans `clinical_intro`, distincte de l’explication développée dans l’article.\n3. Section `explanation` développant le mécanisme (au moins 25 mots).\n4. Section `manifestations`, titre « Comment … ? », trois points comprenant chacun un intertitre, une explication et deux exemples concrets.\n5. Section `strategies`, titre « 3 techniques pour … », trois points comprenant chacun un objectif, un exercice en trois actions et un bénéfice possible.\n6. Retour à la scène avec `ending_title` et `ending` ; une décision et sa conséquence réelle, sans guérison artificielle.\n7. `conclusion` d’au moins 25 mots, affichée après le séparateur.\n8. `mirror` : un ou deux paragraphes de 40 à 160 mots pour « Du côté des proches », ancrés dans la scène avec un geste ou une parole possible.\n\nAu moins 550 mots au total, trois repères d’épisode, titre centré sur le sujet et non sur le prénom, description de 155 caractères maximum, au moins deux références autorisées dont la source primaire. Documenter `continuity.choice` et `continuity.next` après chaque épisode. Les références restent dans les champs éditoriaux : aucune bibliographie publique dans le récit.\n\nLes aides du quotidien ne remplacent pas un soin. Aucun seuil d’autodiagnostic, posologie, exercice dangereux, exposition imposée, récompense pour parler, souvenir forcé, réconciliation obligatoire ou promesse de guérison. Respecter les relais professionnels et les procédures réelles de sécurité. Les proches ne deviennent ni diagnosticiens ni thérapeutes. La fiction décrit une présentation individuelle et ne transforme pas une hypothèse en mécanisme scientifique reconnu.\n\nRelire les raccords, les décisions, les douze aspects et la fin de l’enjeu de série. Exécuter `clinical_agent_contracts.py story <id>` puis `editorial_pipeline.py finish`. Le manuscrit passe alors à un relecteur indépendant. Ne pas écrire son propre rapport de relecture, intégrer, committer ou publier. En cas de retour, corriger les épisodes concernés, puis demander une nouvelle relecture complète liée aux nouvelles empreintes.\n",
+        "inputs": {
+          "data/clinical_catalog.json": "ea545ea8ad5aaa94b2b2e45e2816cde36bc101dc205b0da50e9303a12015cefa",
+          "data/clinical_sources.json": "fdaee525b573758c9f0f33cb52b62bfb2f077402336475a6f859762fea48e6e6",
+          "editorial/clinical/additional_characters.json": "8834d18f0c86a439357f6f776429d57b23c4acab8b88b5c55d1c3dacd651ada3",
+          "editorial/clinical/charter.md": "8032bcae9a54b787febdbc3a99e8811893663c9f93dc323b0108e07c3849cb0b",
+          "editorial/automation/policy.json": "883ae80b4685fbc1365af6494b693358da050e2266554992f11d12dcbde6c1d0",
+          "scripts/clinical_editorial.py": "f1fc7eb80b0eca35fad58925b323b5dee69bc738d3df031a41e465a64e3342d3",
+          "editorial/automation/legacy-publications.json": "974d070654ecad7d2408ecfe893a767fa97352922acca107b768b63a31277ceb",
+          "scripts/clinical_agent_contracts.py": "2deec8afbd14289192fa3b86edf5e6529e1690c2daecbce4d6798d826d5f1774",
+          "editorial/agents/stories.md": "7725d5f492253cfcee95427c76114fe739c83204e8c7187959309b72da39eece",
+          "editorial/clinical/designs/nolwenn.json": "d05cc51566a0f7d6b34791dce8ae3cef7757474f1ddb50f09d7c4a73a6da52bd",
+          "editorial/clinical/dossiers/nolwenn.json": "7cf37bd3d18c1f12f166a04b8cedbf16b52eb25e378243e49a1fc39e9b0fde50"
+        },
+        "data": {
+          "clinical_brief": {
+            "agent_id": "redaction-nolwenn",
+            "character": {
+              "id": "nolwenn",
+              "name": "Nolwenn",
+              "code": "6B85",
+              "related_codes": [],
+              "wave": 16,
+              "diagnosis": {
+                "timing": "early_professional_assessment",
+                "episode": 3
+              },
+              "canon": {
+                "age": 24,
+                "setting": "Apprentie dans un atelier d'encadrement. A réduit les repas pris avec ses collègues.",
+                "independent_goal": "Préparer le dossier d'une petite exposition avec l'équipe d'apprentissage.",
+                "tension": "Elle cherche une aide pour des remontées qui la préoccupent et qu'elle explique mal à son entourage.",
+                "supports": "Collègue de confiance, médecin et spécialiste du suivi.",
+                "trajectory": "Évaluation des causes digestives et du tableau, discussion des possibilités, reprise choisie d'un moment collectif.",
+                "guardrail": "Ne pas confondre avec reflux, conduite volontaire ou rumination mentale. Aucune technique médicale à essayer seul.",
+                "occupation": "apprentie encadreuse"
+              },
+              "sources": [
+                "https://icd.who.int/browse/2026-01/mms/fr#1205760590",
+                "https://www.who.int/publications/i/item/9789240077263"
+              ],
+              "research_status": "prise_en_charge_a_documenter"
+            },
+            "direction": "Nolwenn, 24 ans, apprentie encadreuse, prépare avec son équipe le dossier d’une petite exposition intitulée Les fenêtres de l’atelier. Elle aime les blancs cassés et les légendes très courtes ; son humour sec apparaît quand un titre prend plus de place que l’image. Inès, collègue de confiance, partage le travail, pas la responsabilité du soin. Le médecin et la spécialiste assurent l’évaluation et le suivi ; aucune spécialité supplémentaire ni diagnostic associé n’est inventé. Le dossier cartonné bleu suit la série : choix de six œuvres, photographies, notices, budget, plan puis dépôt. Les remontées ont déjà réduit les repas avec les collègues au début. Nolwenn cherche des mots exacts sans exposer son intimité au groupe. Le diagnostic est expliqué au troisième épisode. L’histoire se déroule sur plusieurs semaines ; elle connaît des essais inégaux, un avis médical pour un symptôme différent, et une reprise collective qu’elle choisit. Le dépôt final résout l’enjeu d’apprentissage ; il ne prouve pas la disparition du trouble. Aucun geste inducteur, exercice respiratoire médical ou régime n’est enseigné au lecteur.",
+            "dossier": {
+              "name": "Trouble de rumination-régurgitation",
+              "aliases": [
+                "6B85",
+                "Rumination-regurgitation disorder"
+              ],
+              "references": [
+                "oms-cddr",
+                "oms-mms-6b85",
+                "oms-cddr-hrb",
+                "aga-rumination-2018",
+                "ueg-esnm-2025",
+                "barba-biofeedback-2016",
+                "rome-v-b5"
+              ],
+              "points": [
+                "Verification du 7 novembre 2026 : notice OMS officielle, document OMS intégral obtenu au dépôt public HRB, pages imprimées 416–418 lues ; AGA, conseils 1–6 ; UEG/ESNM, sections 4.4.1–4.4.10 ; essai Barba, résumé PubMed. Le navigateur MMS confirme la version mais la définition française dynamique ne se laisse pas extraire : libellé conservé du canon. Paraphrases françaises de travail, pas traduction officielle.",
+                "CDDR 6B85, p.416–418 : remontées répétées de nourriture, distinctes du vomissement ; exclusion médicale professionnelle. Honte, dissimulation et réticence à consulter peuvent exister. Évolution continue ou épisodique. Le texte emploie intentional ; ne pas le remplacer par toujours involontaire. Ne jamais décrire les gestes inducteurs. Ce terme ne signifie ni faute ni simple choix de guérir. Les pensées répétitives ne sont pas le phénomène décrit.",
+                "Périmètres : le syndrome de rumination étudié en gastroentérologie selon Rome n’est pas automatiquement interchangeable avec le code 6B85. Les sources n’utilisent pas toutes les mêmes critères. UEG/ESNM décrit généralement une réponse peu consciente ; cette différence lexicale doit rester visible dans le dossier sans opposer maladie physique et psychique. Le praticien explique à Nolwenn la formulation retenue ; son expérience ne définit pas tous les cas.",
+                "AGA 2018, conseils 1–6 : anamnèse et bilan médical approprié ; confusion possible avec reflux ou vomissement. Un diagnostic clinique est souvent possible ; examens spécialisés selon indication, sans parcours obligatoire inventé. La respiration diaphragmatique, éventuellement avec biofeedback, relève d’un apprentissage par un praticien compétent. Pas de tutoriel respiratoire dans les articles, aucune cadence, pression, manipulation ou modification médicamenteuse autonome.",
+                "UEG/ESNM 2025, 4.4 : coexistences digestives possibles, hypothèses de mécanismes imparfaitement établies ; associations anxieuses non causales. Suivi nutritionnel individualisé dans les formes sévères. Première ligne comportementale, preuve modérée ; options médicamenteuses de preuve faible réservées au prescripteur. Consensus européen, non protocole français individuel. Les stratégies sociales proposées ici sont des choix narratifs, pas des traitements démontrés.",
+                "Barba 2016 : essai monocentrique, 24 adultes inclus selon Rome III, un abandon ; 12 biofeedback, 11 placebo analysés. Intervention spécialisée et observation brève ; diminution des événements rapportés plus importante sous biofeedback. Résumé seul consulté : ne pas inventer les résultats durables, les événements indésirables ou un taux de guérison. Aucun effet garanti pour Nolwenn et aucune transposition directe à tous les diagnostics 6B85.",
+                "Garde-fous du récit : diagnostic expliqué seulement à l’épisode 3 après évaluation, sans liste de critères ni examens nommés pour faire scientifique. Une difficulté nouvelle de déglutition entraîne une réévaluation ; le trouble connu ne décide pas de sa cause. Pas de défi alimentaire, aliment interdit, restriction conseillée, comptage public, surveillance par une collègue, traitement abandonné ou promesse de guérison. Les soins restent individualisés.",
+                "Architecture des douze aspects : temporalité des remontées ; description utile au bilan ; sens du diagnostic ; honte et secret ; retentissement alimentaire ; apprentissage professionnel ; évaluation de la réponse ; participation sociale ; signes nouveaux ; inquiétude anticipée ; fluctuations ; vie choisie avec suivi. Les trois derniers sont des enjeux de vécu et d’évolution, pas de nouveaux critères. Les trois appuis de chaque épisode servent à demander de l’aide, organiser le quotidien ou dialoguer avec le soignant.",
+                "Actualité des référentiels : la page primaire Rome Foundation présente désormais Rome V, dont la section B5 concerne le syndrome de rumination. Les conseils AGA 2018, le consensus 2025 et les critères Rome III de l’essai sont datés ; ne pas les présenter comme les derniers critères Rome. La série conserve son code CIM-11 canonique, sans fusion de seuils ni remplacement par une grille Rome."
+              ]
+            },
+            "references": {
+              "oms-cddr": {
+                "title": "OMS, descriptions cliniques de la CIM-11",
+                "url": "https://www.who.int/publications/i/item/9789240077263"
+              },
+              "oms-mms-6b85": {
+                "title": "OMS, CIM-11 MMS 2026-01, 6B85, Trouble de rumination-régurgitation",
+                "url": "https://icd.who.int/browse/2026-01/mms/fr#1205760590"
+              },
+              "oms-cddr-hrb": {
+                "title": "OMS, CDDR 2024, ISBN 9789240077263, pages 416–418 ; copie du document original dans le dépôt HRB",
+                "url": "https://www.drugsandalcohol.ie/41519/1/WHO_Clinical_descriptions_and_diagnostic_requirements_ICD-11.pdf"
+              },
+              "aga-rumination-2018": {
+                "title": "Halland, Pandolfino et Barba, Diagnosis and Treatment of Rumination Syndrome, AGA Clinical Practice Update, 2018, DOI 10.1016/j.cgh.2018.05.049",
+                "url": "https://www.cghjournal.org/article/S1542-3565(18)30602-5/fulltext"
+              },
+              "ueg-esnm-2025": {
+                "title": "Malagelada et coll., European Guideline on Chronic Nausea and Vomiting, consensus UEG/ESNM 2025, section 4.4, DOI 10.1002/ueg2.12711",
+                "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11999049/"
+              },
+              "barba-biofeedback-2016": {
+                "title": "Barba et coll., Randomized, Placebo-Controlled Trial of Biofeedback for the Treatment of Rumination, AJG 2016, PMID 27185077",
+                "url": "https://pubmed.ncbi.nlm.nih.gov/27185077/"
+              },
+              "rome-v-b5": {
+                "title": "Rome Foundation, Rome V Criteria, section B5 Rumination Syndrome, page consultée le 7 novembre 2026",
+                "url": "https://theromefoundation.org/rome-v-criteria/"
+              }
+            },
+            "charter": "# Charte de rédaction des parcours cliniques\n\nÉcrire en français pour des lecteurs sans formation clinique. Choisir pour chaque épisode un aspect du trouble qui se distingue des onze autres et que la scène permet de comprendre. Cet aspect peut être une manifestation, un mécanisme, un retentissement ou une particularité de l’évolution. Relier le titre, le résumé, l’explication et le dénouement à cet aspect. Une activité, une décision ou un rendez-vous fournit le cadre où il devient perceptible.\n\nSuivre le déroulé de l’[article de Youssef sur l’alexithymie en couple](../../content/posts/comprendre-et-maitriser-ses-emotions/alexithymie-en-couple.md).\n\n1. Ouvrir sur une scène d’au moins 180 mots, sans intertitre. Montrer ce que la difficulté change pour le personnage dans cette situation.\n2. Expliquer l’aspect et son lien avec le trouble dans une section dédiée. Partir d’une phrase générale autonome, puis revenir à ce qui se joue dans la scène.\n3. Montrer comment l’aspect se manifeste. Sous « Comment … ? », développer trois sous-parties avec une explication et deux exemples concrets chacune. Situer ce que l’on observe dans chaque exemple.\n4. Proposer trois techniques numérotées. Donner pour chacune un objectif, un exercice pratique en trois étapes et une explication de son utilité possible. Adapter les étapes au contexte et au niveau de risque, en incluant le recours à un professionnel lorsque nécessaire.\n5. Revenir à l’histoire sous un intertitre tiré de la scène. Montrer un essai ou une décision, sa conséquence et l’incertitude qui reste. Les difficultés peuvent revenir après un essai qui a fonctionné ailleurs.\n6. Conclure après un séparateur. Résumer ce que cet épisode permet de comprendre et inscrire le dénouement dans le parcours du personnage.\n7. Terminer par « Du côté des proches ». Relier leur point de vue à ce que la scène a montré.\n\nRespecter les faits du canon et la chronologie du diagnostic. Si l’évaluation est en cours, faire comprendre les difficultés sans annoncer le résultat à la place du professionnel. Un diagnostic connu entre dans le récit quand il aide à situer l’expérience. La personne conserve un métier ou un projet, des relations, des ressources, des préférences et le droit de ne pas tout partager.\n\nFonder chaque affirmation clinique sur les points vérifiés du dossier de sources. Renseigner les références dans le dossier et les champs éditoriaux de chaque épisode. Distinguer récit, vécu et description générale du trouble. Les articles ne donnent ni critères permettant de conclure sur soi ou un tiers, ni posologies, ni gestes dangereux, ni promesses de guérison. Une scène de fiction ne représente qu’une présentation possible. Proposer des adaptations discutées avec la personne et situer le recours aux professionnels quand le besoin est clinique ou urgent.\n\nDans « Du côté des proches », partir d’un geste, d’une parole ou d’un besoin visible dans la scène. Donner une réponse concrète que le proche pourrait essayer, dans des mots qu’il pourrait dire. Respecter son périmètre et la possibilité de se retirer ou de passer le relais. Aucun proche ne doit jouer au diagnosticien ou imposer un soin. Dans les situations d’emprise ou de danger, favoriser la sécurité et un appui spécialisé.\n\nRelecture par vague. Relire les douze ouvertures et leurs fins dans l’ordre, puis vérifier les faits cliniques et les propositions aux proches, chaque fois avec le dossier de sources. Annoter les erreurs et les choix qui ont fonctionné. Inscrire les leçons réutilisables dans la charte avant de générer le lot suivant. Une validation de structure ou une relecture par un modèle laisse ouverte la vérification éditoriale des faits et de leur contexte.\n\nLe lot pilote a montré que le premier intertitre explicatif peut varier. Commencer cette section par une phrase générale autonome que le site peut reprendre. Donner à la scène finale un titre tiré de son geste ou de sa décision. Distinguer un signe à discuter d’un épisode ou d’un diagnostic établi. Maintenir les procédures de sécurité réelles et le rôle des soignants, même lorsque le personnage essaie une façon différente de répondre à sa difficulté.\n\nLa deuxième vague distingue l’accord de la personne pour partager ses informations et les démarches de sécurité qui s’appliquent à la situation. Montrer dans le récit qui prévient le service compétent et quand, sans reporter cette action au conseil pour les proches. Pour une règle de métier, utiliser une source du domaine en plus du guide clinique. Le miroir reste ancré dans la scène et conserve sa limite de sécurité jusqu’à la dernière phrase.\n\nLa troisième vague vérifie que le trouble a un effet perceptible dans la vie du personnage dès les deux premières scènes. Montrer ce vécu sans inventaire de signes, description de pratiques dangereuses ou explication totale de sa personnalité. Suivre séparément les questions de santé et les décisions du quotidien. Reprendre les objets, lieux et engagements déjà nommés et fermer les questions concrètes dont la résolution est nécessaire à la scène suivante.\n\nAvant d’écrire, l’agent dédié au personnage fixe une direction dans son dossier. Il y précise ce qui distingue sa voix, son projet et son entourage, les faits cliniques qu’il mettra en scène et les interprétations à écarter. À la fin de chaque épisode, il inscrit la décision prise et ce qu’elle change pour la suite. Au dernier épisode, il résout l’enjeu de la série et garde la perspective du personnage au-delà de cette décision. La relecture reprend les douze scènes dans l’ordre et vérifie les conseils adressés aux proches en regard de chaque scène.\n\nLa quatrième vague distingue les repères du premier diagnostic et ceux des épisodes ultérieurs. Quand une situation urgente se présente, vérifier que son origine n’est pas présumée à partir du diagnostic connu. La première section s’ouvre sur une phrase générale qui fonctionne seule. Les détails de la scène viennent ensuite, après le passage que le site peut reprendre en introduction.\n\nLes histoires d’origine donnent la direction. Le titre commence par le sujet de l’article, une difficulté, une émotion ou un mécanisme réel dans une situation concrète. Le prénom figure séparément au-dessus du titre. Dans la présentation, nommer le trouble documenté et ce qu’il change pour ce personnage. Le premier mot-clé reprend son intitulé et les quatre autres indiquent des manifestations ou enjeux qui reviennent dans plusieurs épisodes. La fiche peut annoncer un diagnostic que le personnage découvre plus tard dans l’histoire.\n\nDans le résumé de la fiche et de la carte, relier une réaction de la scène à l’aspect abordé. Dans un récit d’enfance, vérifier l’apport de cette période pour comprendre le trouble et ouvrir sur d’autres contextes lorsque les sources l’appuient. Lors de la relecture, nommer l’aspect illustré dans chaque épisode, puis retrouver le moment où il devient visible et vérifier que les exemples et les techniques restent centrés sur lui. Renseigner les références dans le manuscrit et le dossier éditorial, sans bibliographie dans le fil de l’article.\n\nLa huitième vague vérifie qui peut savoir quoi, à quel moment et avec quel accord. En cas de changement préoccupant, distinguer le fait observable, ce qu’en dit le personnage, la réponse d’un proche et l’évaluation de l’équipe de soins. Faire apparaître le relais dans la scène où il se produit et en reprendre les conséquences dans la suivante.\n\nLa reprise suivante distingue le résumé affiché avant le récit et l’explication qui vient après. Éviter de recopier le résumé mot pour mot dans cette explication : celle-ci développe le mécanisme et le contraste rendu visible par la scène. Pour les articles d’origine, relire les manifestations et les exercices eux-mêmes ; trois intertitres ou une étiquette ne prouvent pas que les exemples, l’objectif, les trois actions et l’utilité sont présents. Une prose déjà complète peut être conservée. Garder une preuve de lecture liée à l’empreinte du corps et une seconde relecture des passages sensibles.\n",
+            "files": {
+              "manuscript": "editorial/clinical/nolwenn.json",
+              "dossier": "editorial/clinical/dossiers/nolwenn.json"
+            },
+            "manifest_fields": [
+              "character_id",
+              "bio",
+              "profile_topics",
+              "episodes"
+            ],
+            "profile_topics_count": 5,
+            "episode_fields": [
+              "number",
+              "slug",
+              "title",
+              "description",
+              "context",
+              "topics",
+              "clinical_focus",
+              "clinical_intro",
+              "opening",
+              "sections",
+              "ending_title",
+              "ending",
+              "mirror",
+              "sources",
+              "continuity",
+              "conclusion"
+            ],
+            "sections": {
+              "explanation": {
+                "fields": [
+                  "heading",
+                  "text"
+                ]
+              },
+              "manifestations": {
+                "fields": [
+                  "heading",
+                  "points"
+                ],
+                "count": 3,
+                "point_fields": [
+                  "heading",
+                  "text",
+                  "examples"
+                ],
+                "examples_count": 2
+              },
+              "strategies": {
+                "fields": [
+                  "heading",
+                  "points"
+                ],
+                "count": 3,
+                "point_fields": [
+                  "heading",
+                  "objective",
+                  "exercise",
+                  "benefit"
+                ],
+                "exercise_count": 3
+              }
+            },
+            "total_episodes": 12,
+            "continuity": [],
+            "ready_to_draft": true,
+            "instruction": "Rédiger les épisodes dans l’ordre et consigner les choix à reprendre."
+          },
+          "findings": [],
+          "existing_manuscript": null,
+          "design": {
+            "schema_version": 1,
+            "character_id": "nolwenn",
+            "code": "6B85",
+            "article_format": 2,
+            "bio": "Nolwenn, 24 ans, est apprentie encadreuse et prépare le dossier d’une petite exposition avec son équipe d’apprentissage. Des remontées après les repas l’ont conduite à éviter la table des collègues. Son Trouble de rumination-régurgitation sera expliqué au cours d’une évaluation professionnelle, sans réduire ses difficultés à une question de volonté. Avec Inès, une collègue de confiance, son médecin et une spécialiste, elle cherche une manière de poursuivre son projet et de retrouver un moment collectif choisi. Elle tient aux images sobres et aux légendes courtes.",
+            "profile_topics": [
+              "Trouble de rumination-régurgitation",
+              "remontées après les repas",
+              "honte et confidentialité",
+              "suivi professionnel",
+              "repas collectifs"
+            ],
+            "voice": "Nolwenn cherche des mots concrets, corrige une légende trop longue et plaisante doucement sur les blancs presque identiques. Son hésitation sur le vocabulaire médical ne devient pas une incapacité générale à s’exprimer ; elle sait défendre une proposition visuelle.",
+            "series_goal": "Préparer puis remettre le dossier des Fenêtres de l’atelier avec l’équipe d’apprentissage, tout en retrouvant un moment collectif qu’elle choisit. Le dépôt est le dénouement du projet ; la sélection de l’exposition et l’évolution des soins restent ouvertes.",
+            "continuity_rules": [
+              "Nolwenn reste apprentie encadreuse de 24 ans. Le diagnostic est seulement expliqué à l’épisode 3, après le bilan ; les épisodes 1 et 2 ne concluent pas à sa place.",
+              "Inès est une collègue de confiance et une partenaire de projet, jamais thérapeute ni contrôleuse des repas. Le médecin et la spécialiste gardent les décisions de soins.",
+              "Conserver dossier bleu, six images, deux premières légendes puis notices, budget, plan et dépôt dans cet ordre. L’exposition n’est pas encore accordée à la fin.",
+              "Le suivi alimentaire demandé à l’épisode 5, l’apprentissage de l’épisode 6 et la réévaluation de l’épisode 9 ont des suites explicitement reprises. Aucune consultation effacée par le prochain événement artistique.",
+              "Aucune technique médicale à essayer seul, induction des remontées, restriction conseillée, automédication ou exposition imposée. Les trois appuis sont des démarches de communication et de soin accompagné.",
+              "Ni reflux automatiquement exclu pour toujours, ni pensée en boucle, ni mensonge volontaire. Respecter la différence entre vocabulaire des CDDR et cadre gastroentérologique ; aucune culpabilisation ni affirmation toujours involontaire.",
+              "L’amélioration sociale peut coexister avec des symptômes. Le retour collectif choisi n’est ni une guérison ni la preuve d’efficacité d’une stratégie narrative."
+            ],
+            "episodes": [
+              {
+                "number": 1,
+                "focus": "Les remontées après le repas",
+                "scene": "À la pause, Nolwenn ferme son repas et s’écarte quand des aliments remontent à sa bouche. Inès lui demande seulement quelle photo retenir pour le dossier bleu. Nolwenn a déjà manqué plusieurs déjeuners communs.",
+                "development": "Décrire un vécu, sans diagnostic anticipé. Trois appuis : noter quelques circonstances pour le médecin sans se surveiller sans cesse ; préparer une phrase simple pour demander rendez-vous ; réserver avec Inès un créneau de travail distinct du déjeuner. Le proche accueille la description sans nommer une maladie.",
+                "ending": "Elle appelle le cabinet et choisit avec Inès six images de fenêtres.",
+                "next": "Le rendez-vous aura lieu avant la séance de photographie ; elle apporte ses quelques notes.",
+                "source_refs": [
+                  "oms-cddr",
+                  "aga-rumination-2018"
+                ],
+                "diagnostic_stage": "under_assessment"
+              },
+              {
+                "number": 2,
+                "focus": "Décrire sans conclure au reflux",
+                "scene": "Au cabinet, Nolwenn dit d’abord que cela ressemble à vomir, puis cherche des mots plus précis. Elle voudrait savoir si un produit conseillé par une connaissance suffirait. Les tirages attendent dans son sac.",
+                "development": "Le médecin poursuit l’évaluation des causes digestives et du tableau. Trois appuis : rapporter les faits avec ses mots ; mentionner les produits déjà pris sans en modifier seule l’usage ; demander la prochaine étape et le contact en cas de changement. Aucun résultat de test inventé et aucune conclusion d’Inès.",
+                "ending": "Un rendez-vous spécialisé est organisé ; Nolwenn délègue les prises de vue à Inès et garde les légendes.",
+                "next": "Le bilan et l’entretien spécialisé précèdent l’explication du diagnostic, quelques semaines plus tard.",
+                "source_refs": [
+                  "oms-cddr",
+                  "aga-rumination-2018"
+                ],
+                "diagnostic_stage": "under_assessment"
+              },
+              {
+                "number": 3,
+                "focus": "Comprendre le diagnostic sans culpabilité",
+                "scene": "Devant les épreuves photographiques, Nolwenn se demande si elle provoque tout elle-même. Lors de la consultation suivante, la spécialiste explique le diagnostic retenu après le bilan, et ce que les mots du compte rendu signifient dans son cas.",
+                "development": "Présenter 6B85 sans assimiler rumination et pensées en boucle, ni volonté et responsabilité morale. Trois appuis : reformuler ce qu’elle a compris ; demander ce que l’évaluation a permis de distinguer ; noter le cadre de soin proposé. La professionnelle situe les différences de vocabulaire, sans exposé de codage dans le dialogue.",
+                "ending": "Nolwenn accepte une première séance de suivi et termine deux légendes courtes.",
+                "next": "Elle veut dire à Inès pourquoi certaines pauses deviennent difficiles, tout en gardant le compte rendu privé.",
+                "source_refs": [
+                  "oms-cddr",
+                  "ueg-esnm-2025"
+                ],
+                "diagnostic_stage": "diagnosis_explained"
+              },
+              {
+                "number": 4,
+                "focus": "La honte qui entretient le secret",
+                "scene": "Inès croit que Nolwenn déjeune ailleurs parce qu’elle préfère travailler seule. Nolwenn commence une explication puis la raccourcit quand un autre apprenti entre avec les photographies.",
+                "development": "Distinguer intimité choisie et isolement subi. Trois appuis : choisir la personne et le moment ; préparer une phrase limitée à son besoin ; convenir de ce qu’Inès pourra répéter ou non. Ces appuis de communication ne sont pas une thérapie et aucune révélation n’est obligatoire.",
+                "ending": "Elle parle à Inès en tête-à-tête et demande que son absence ne soit pas commentée au groupe.",
+                "next": "Les notices avancent ; Nolwenn réalise cependant qu’elle saute parfois une occasion de manger pour éviter la gêne.",
+                "source_refs": [
+                  "oms-cddr",
+                  "oms-cddr-hrb",
+                  "aga-rumination-2018"
+                ],
+                "diagnostic_stage": "known"
+              },
+              {
+                "number": 5,
+                "focus": "Les repas réduits par appréhension",
+                "scene": "En préparant le budget du dossier, Nolwenn repousse encore sa pause alimentaire. Elle ne cherche pas à modifier son corps ; elle veut éviter que les remontées perturbent le travail.",
+                "development": "Montrer ce choix propre à Nolwenn sans ajouter un diagnostic alimentaire. Trois appuis : signaler au médecin les repas évités ; demander si un avis nutritionnel est utile ; dissocier la réunion budgétaire du repas selon ce qui est discuté avec les soignants. Aucun menu, objectif de poids ou aliment correctif.",
+                "ending": "Elle transmet cette difficulté au suivi et obtient un échange pour adapter l’accompagnement. Inès reprend les additions du budget.",
+                "next": "Le projet garde sa date de dépôt et la première séance d’apprentissage a maintenant une place dans son agenda.",
+                "source_refs": [
+                  "oms-cddr",
+                  "ueg-esnm-2025"
+                ],
+                "diagnostic_stage": "known"
+              },
+              {
+                "number": 6,
+                "focus": "Apprendre avec une professionnelle",
+                "scene": "Nolwenn arrive à la séance avec son agenda rempli de retouches de photos. Elle craint qu’on lui demande simplement de se calmer. La professionnelle présente l’apprentissage proposé et vérifie son accord.",
+                "development": "Distinguer soin ciblé et conseil vague. Trois appuis : demander une démonstration encadrée ; signaler ce qui est difficile ou inconfortable ; faire préciser par la professionnelle les consignes personnelles et la façon de la recontacter. Ne décrire ni positions, ni rythme respiratoire, ni gestes internes.",
+                "ending": "Elle repart avec un cadre personnel donné par la spécialiste, puis classe les photos retenues.",
+                "next": "Au suivi suivant, elle pourra parler de ce qui a été possible et de ce qui n’a pas fonctionné.",
+                "source_refs": [
+                  "oms-cddr",
+                  "aga-rumination-2018"
+                ],
+                "diagnostic_stage": "known"
+              },
+              {
+                "number": 7,
+                "focus": "Mesurer une réponse sans se juger",
+                "scene": "Nolwenn aimerait montrer au suivi une semaine parfaite. Une journée difficile lui fait hésiter à revenir. Dans le dossier bleu, les images réussies et les essais ratés sont encore mélangés.",
+                "development": "Une réponse partielle se discute sans en déduire un échec personnel. Trois appuis : préparer deux observations utiles selon l’accord de suivi ; poser la question des ajustements disponibles ; demander ce qu’on peut raisonnablement attendre et à quel moment refaire le point. Le biofeedback peut être discuté, sans séance fictive miraculeuse.",
+                "ending": "Elle raconte la journée difficile ; la professionnelle réévalue avec elle la suite. Nolwenn conserve les six images définitives.",
+                "next": "Le plan de l’exposition doit être discuté autour d’une pause avec l’équipe.",
+                "source_refs": [
+                  "oms-cddr",
+                  "barba-biofeedback-2016"
+                ],
+                "diagnostic_stage": "known"
+              },
+              {
+                "number": 8,
+                "focus": "Reprendre une place à table",
+                "scene": "Inès propose de regarder le plan pendant le déjeuner. Nolwenn aimerait participer mais ne veut pas que tout le monde surveille ce qu’elle mange. Elle apporte le plan plié plutôt que tout le dossier.",
+                "development": "L’objectif est une participation choisie, pas une épreuve de disparition des remontées. Trois appuis : choisir un moment compatible avec le suivi ; dire à Inès quelle aide elle souhaite ; prévoir la possibilité de partir et de reprendre le travail ensuite. Aucun défi ni évitement alimentaire prescrit.",
+                "ending": "Elle reste un moment, s’absente puis revient pour choisir l’ordre des images. Inès lui parle du plan.",
+                "next": "Alors que cette reprise lui a plu, une gêne différente en avalant la conduit à rappeler le cabinet.",
+                "source_refs": [
+                  "oms-cddr",
+                  "ueg-esnm-2025"
+                ],
+                "diagnostic_stage": "known"
+              },
+              {
+                "number": 9,
+                "focus": "Un symptôme nouveau à réévaluer",
+                "scene": "Nolwenn remarque une difficulté nouvelle pour avaler et hésite : faut-il tout ranger sous le diagnostic connu ? Elle interrompt la correction des légendes et contacte son médecin pour décrire ce changement.",
+                "development": "Ne pas faire décider l’origine par le personnage ou sa collègue. Trois appuis : décrire le changement au service de soins ; suivre l’orientation reçue sans attendre le dépôt ; demander à Inès de reporter la relecture. La consultation a lieu dans l’épisode ; le résultat causal n’est pas inventé. En aggravation, utiliser le circuit médical indiqué, sans attendre un exercice.",
+                "ending": "Le médecin réévalue et organise la suite nécessaire ; Nolwenn reçoit des consignes individualisées. Inès décale la relecture.",
+                "next": "L’épisode suivant reprend cette réévaluation et le suivi prévu, sans annoncer que le diagnostic aurait tout expliqué.",
+                "source_refs": [
+                  "oms-cddr",
+                  "aga-rumination-2018"
+                ],
+                "diagnostic_stage": "known"
+              },
+              {
+                "number": 10,
+                "focus": "L’inquiétude avant le rendez-vous collectif",
+                "scene": "Après la réévaluation, Nolwenn garde le suivi convenu et prépare la présentation du dossier. Elle imagine la prochaine pause entière autour de ses remontées et oublie presque les images dont elle veut parler.",
+                "development": "Distinguer anticipation vécue et cause démontrée du trouble. Trois appuis : nommer cette inquiétude à la spécialiste ; préparer seulement sa première phrase de présentation ; demander à Inès une relève pour la partie budget. Le groupe ne mène pas d’exposition thérapeutique et ne mesure pas son courage au temps passé à table.",
+                "ending": "Elle répète sa phrase sur les fenêtres, accepte la relève et confirme sa présence avec une marge de sortie.",
+                "next": "La répétition collective suivante ne se déroule pas aussi facilement que l’essai à deux.",
+                "source_refs": [
+                  "oms-cddr",
+                  "ueg-esnm-2025"
+                ],
+                "diagnostic_stage": "known"
+              },
+              {
+                "number": 11,
+                "focus": "Des fluctuations malgré les progrès",
+                "scene": "À la répétition, les remontées reviennent alors que Nolwenn se croyait plus à l’aise. Le dossier bleu tombe ouvert ; Inès ramasse les feuilles sans lui dire de recommencer jusqu’à réussir.",
+                "development": "Une journée difficile ne prouve ni faute ni guérison annulée. Trois appuis : reprendre le contact de suivi prévu ; revoir avec l’équipe une organisation réalisable ; garder une tâche qu’elle souhaite mener elle-même. Pas d’arrêt du soin, de traitement renforcé seul ou de stress érigé en cause unique.",
+                "ending": "Elle demande qu’Inès présente le budget, mais garde les images et les légendes. La version finale est assemblée.",
+                "next": "Le dossier peut être déposé ; le moment collectif final reste une invitation et non un examen de santé.",
+                "source_refs": [
+                  "oms-cddr",
+                  "oms-cddr-hrb",
+                  "aga-rumination-2018"
+                ],
+                "diagnostic_stage": "known"
+              },
+              {
+                "number": 12,
+                "focus": "Un projet accompli avec le suivi",
+                "scene": "Nolwenn dépose le dossier avec l’équipe. Elle participe ensuite au moment collectif convenu, sans promettre de rester jusqu’à la fin. Inès lui demande quelle fenêtre elle photographierait pour une prochaine exposition.",
+                "development": "Résoudre le projet, préserver l’incertitude clinique. Trois appuis : conserver le prochain contact professionnel ; choisir ce qu’elle veut garder dans l’organisation des pauses ; formuler un nouveau projet sans en faire un objectif de guérison. Ne pas confondre le dossier accepté pour examen avec une exposition déjà autorisée.",
+                "ending": "Le dossier est remis et la petite équipe marque cette étape. Nolwenn choisit une nouvelle photographie à préparer ; les soins se poursuivent.",
+                "next": "Fin de série : dépôt accompli, réponse à la candidature encore attendue, lien collectif repris à sa mesure et suivi maintenu.",
+                "source_refs": [
+                  "oms-cddr",
+                  "ueg-esnm-2025"
+                ],
+                "diagnostic_stage": "known"
+              }
+            ]
+          }
+        },
+        "allowed_outputs": [
+          "editorial/clinical/nolwenn.json"
+        ],
+        "output_baseline": {
+          "editorial/clinical/nolwenn.json": null
+        }
+      },
+      "snapshot_sha256": "493ba61646dc64625a8730c6442f0865a0b3a2cd1c254c06642b467a64187c9b",
+      "status": "active",
+      "token_sha256": "26c6db5fc8ec5b4ee46af47983360d4ae9236f218aee1a655ba043331fce9436",
+      "heartbeat_at": "2026-11-09T18:51:42Z",
+      "expires_at": "2026-11-09T19:21:42Z",
+      "checkpoints": [
+        {
+          "at": "2026-11-09T18:49:15Z",
+          "outputs": {
+            "editorial/clinical/nolwenn.json": "bebe0ea4998c6982141ac167b410532efe3dd52774624a5babd973cebbe77c66"
+          },
+          "observed": {
+            "manuscript_sha256": "bebe0ea4998c6982141ac167b410532efe3dd52774624a5babd973cebbe77c66",
+            "episodes_present": 1,
+            "manuscript_readable": true,
+            "design_sha256": "d05cc51566a0f7d6b34791dce8ae3cef7757474f1ddb50f09d7c4a73a6da52bd",
+            "dossier_sha256": "7cf37bd3d18c1f12f166a04b8cedbf16b52eb25e378243e49a1fc39e9b0fde50",
+            "review_sha256": null
+          }
+        },
+        {
+          "at": "2026-11-09T18:50:03Z",
+          "outputs": {
+            "editorial/clinical/nolwenn.json": "b3980e4cf2af218d1c5e53b5508b695d2eeac739260732b15f2b7fcfe7027ccd"
+          },
+          "observed": {
+            "manuscript_sha256": "b3980e4cf2af218d1c5e53b5508b695d2eeac739260732b15f2b7fcfe7027ccd",
+            "episodes_present": 2,
+            "manuscript_readable": true,
+            "design_sha256": "d05cc51566a0f7d6b34791dce8ae3cef7757474f1ddb50f09d7c4a73a6da52bd",
+            "dossier_sha256": "7cf37bd3d18c1f12f166a04b8cedbf16b52eb25e378243e49a1fc39e9b0fde50",
+            "review_sha256": null
+          }
+        },
+        {
+          "at": "2026-11-09T18:50:52Z",
+          "outputs": {
+            "editorial/clinical/nolwenn.json": "1c2edde6d4dc6f4ddb0557118795fef22524f6d34429986cd416e714317b29f0"
+          },
+          "observed": {
+            "manuscript_sha256": "1c2edde6d4dc6f4ddb0557118795fef22524f6d34429986cd416e714317b29f0",
+            "episodes_present": 3,
+            "manuscript_readable": true,
+            "design_sha256": "d05cc51566a0f7d6b34791dce8ae3cef7757474f1ddb50f09d7c4a73a6da52bd",
+            "dossier_sha256": "7cf37bd3d18c1f12f166a04b8cedbf16b52eb25e378243e49a1fc39e9b0fde50",
+            "review_sha256": null
+          }
+        },
+        {
+          "at": "2026-11-09T18:51:42Z",
+          "outputs": {
+            "editorial/clinical/nolwenn.json": "9a81417f6226d461853e220c137f80e4b330c31a047f4791cd6db5cfdfbcb808"
+          },
+          "observed": {
+            "manuscript_sha256": "9a81417f6226d461853e220c137f80e4b330c31a047f4791cd6db5cfdfbcb808",
+            "episodes_present": 4,
+            "manuscript_readable": true,
+            "design_sha256": "d05cc51566a0f7d6b34791dce8ae3cef7757474f1ddb50f09d7c4a73a6da52bd",
+            "dossier_sha256": "7cf37bd3d18c1f12f166a04b8cedbf16b52eb25e378243e49a1fc39e9b0fde50",
+            "review_sha256": null
+          }
+        }
+      ]
+    },
+    "73c19d6021ac4a879add0692613f5bfd": {
+      "id": "73c19d6021ac4a879add0692613f5bfd",
+      "character_id": "titouan",
+      "role": "character",
+      "owner": "personnage_titouan",
+      "created_at": "2026-11-09T18:48:26Z",
+      "snapshot": {
+        "prompt_file": "editorial/agents/characters.md",
+        "prompt": "# Agent créateur de personnages\n\nCe rôle est exécuté par un vrai sous-agent ChatGPT dans la conversation. Le contrôleur prépare et attribue le travail ; il ne lance aucun modèle par API et ne tourne pas après la fin de la session. Ne pas utiliser GitHub Actions pour produire ces articles.\n\nLire le brief de la mission, le canon dans `data/clinical_catalog.json` ou `editorial/clinical/additional_characters.json`, `editorial/clinical/charter.md` et l’article modèle `content/posts/comprendre-et-maitriser-ses-emotions/alexithymie-en-couple.md`. Préserver l’identifiant, le prénom, l’âge, le métier, le projet et la chronologie diagnostique canoniques. Si une donnée est contradictoire, signaler le problème au pilote avant de la modifier.\n\nMener une recherche individuelle dans les sources primaires : CDDR de l’OMS, classification citée dans le canon et recommandations ou travaux originaux pertinents. Vérifier les pages ou sections qui soutiennent les affirmations. Distinguer diagnostic, manifestations, mécanismes, retentissement, évolution et prise en charge. Documenter les limites des études, traductions et transpositions de pays. Une référence générale ou un code de classification ne prouve pas une recommandation thérapeutique.\n\nÉcrire uniquement les deux fichiers attribués :\n\n- `editorial/clinical/dossiers/<id>.json`, au format consommé par `clinical_editorial.character_evidence` : références individuelles, dossier clinique et direction narrative ;\n- `editorial/clinical/designs/<id>.json`, au contrat validé par `scripts/clinical_agent_contracts.py character <id>`.\n\nLe plan contient `schema_version: 1`, `character_id`, `code`, `article_format: 2`, une biographie de 60 à 105 mots avec prénom, âge et intitulé exact du trouble, cinq `profile_topics` distincts dont le premier est cet intitulé, `voice`, `series_goal`, au moins trois `continuity_rules` et douze `episodes`. Chaque épisode contient `number`, un `focus` distinct de 2 à 9 mots (95 caractères maximum), `scene`, `development`, `ending`, `next`, au moins deux `source_refs` autorisées dont la référence primaire et `diagnostic_stage`. Un diagnostic établi vaut `known` partout ; un diagnostic annoncé à l’épisode prévu vaut `under_assessment` avant, `diagnosis_explained` à cet épisode, puis `known`.\n\nFaire vivre douze aspects différents d’un même trouble à travers une personne ayant une voix, un projet indépendant, des relations et des choix. Ne pas fabriquer douze synonymes d’une même manifestation ni une liste de symptômes. Préparer des ouvertures, conséquences et raccords qui permettent une véritable série.\n\nNe pas écrire le manuscrit, les pages publiques, les registres partagés ou les fichiers d’un autre personnage. Ne pas publier, committer ou se relire à la place du relecteur. Une fois les deux fichiers validés, exécuter `editorial_pipeline.py finish` avec la mission et le jeton attribués ; transmettre les empreintes et les limites utiles au rédacteur. Après gel, toute modification demande une nouvelle validation des dépendances par le pilote.\n",
+        "inputs": {
+          "data/clinical_catalog.json": "ea545ea8ad5aaa94b2b2e45e2816cde36bc101dc205b0da50e9303a12015cefa",
+          "data/clinical_sources.json": "fdaee525b573758c9f0f33cb52b62bfb2f077402336475a6f859762fea48e6e6",
+          "editorial/clinical/additional_characters.json": "8834d18f0c86a439357f6f776429d57b23c4acab8b88b5c55d1c3dacd651ada3",
+          "editorial/clinical/charter.md": "8032bcae9a54b787febdbc3a99e8811893663c9f93dc323b0108e07c3849cb0b",
+          "editorial/automation/policy.json": "883ae80b4685fbc1365af6494b693358da050e2266554992f11d12dcbde6c1d0",
+          "scripts/clinical_editorial.py": "f1fc7eb80b0eca35fad58925b323b5dee69bc738d3df031a41e465a64e3342d3",
+          "editorial/automation/legacy-publications.json": "974d070654ecad7d2408ecfe893a767fa97352922acca107b768b63a31277ceb",
+          "scripts/clinical_agent_contracts.py": "2deec8afbd14289192fa3b86edf5e6529e1690c2daecbce4d6798d826d5f1774",
+          "editorial/agents/characters.md": "2de803e0641d430501849923e110a575278708dfeeb0eb8b7bc8eecec15a7713"
+        },
+        "data": {
+          "clinical_brief": {
+            "agent_id": "redaction-titouan",
+            "character": {
+              "id": "titouan",
+              "name": "Titouan",
+              "code": "6C00",
+              "related_codes": [
+                "6C00.0",
+                "6C00.1",
+                "6C00.2"
+              ],
+              "wave": 16,
+              "diagnosis": {
+                "timing": "established",
+                "episode": null
+              },
+              "canon": {
+                "age": 10,
+                "setting": "Participe à un club de lecture et voudrait suivre la première nuit à la médiathèque.",
+                "independent_goal": "Préparer son sac et un plan discret avec l'adulte qu'il choisit.",
+                "tension": "La peur que d'autres commentent un accident l'amène à dire qu'il n'aime pas le club alors qu'il s'y sent bien.",
+                "supports": "Parent, médecin et bibliothécaire référente.",
+                "trajectory": "Travaille la préparation et l'accès au soin, choisit ce qu'il révèle et garde une décision libre sur sa participation.",
+                "guardrail": "Aucune punition, moquerie ou restriction d'eau suggérée. Examen de causes physiques et confidentialité.",
+                "occupation": "élève"
+              },
+              "sources": [
+                "https://icd.who.int/browse/2026-01/mms/fr#1157749237",
+                "https://www.who.int/publications/i/item/9789240077263"
+              ],
+              "research_status": "prise_en_charge_a_documenter"
+            },
+            "direction": null,
+            "dossier": null,
+            "references": {},
+            "charter": "# Charte de rédaction des parcours cliniques\n\nÉcrire en français pour des lecteurs sans formation clinique. Choisir pour chaque épisode un aspect du trouble qui se distingue des onze autres et que la scène permet de comprendre. Cet aspect peut être une manifestation, un mécanisme, un retentissement ou une particularité de l’évolution. Relier le titre, le résumé, l’explication et le dénouement à cet aspect. Une activité, une décision ou un rendez-vous fournit le cadre où il devient perceptible.\n\nSuivre le déroulé de l’[article de Youssef sur l’alexithymie en couple](../../content/posts/comprendre-et-maitriser-ses-emotions/alexithymie-en-couple.md).\n\n1. Ouvrir sur une scène d’au moins 180 mots, sans intertitre. Montrer ce que la difficulté change pour le personnage dans cette situation.\n2. Expliquer l’aspect et son lien avec le trouble dans une section dédiée. Partir d’une phrase générale autonome, puis revenir à ce qui se joue dans la scène.\n3. Montrer comment l’aspect se manifeste. Sous « Comment … ? », développer trois sous-parties avec une explication et deux exemples concrets chacune. Situer ce que l’on observe dans chaque exemple.\n4. Proposer trois techniques numérotées. Donner pour chacune un objectif, un exercice pratique en trois étapes et une explication de son utilité possible. Adapter les étapes au contexte et au niveau de risque, en incluant le recours à un professionnel lorsque nécessaire.\n5. Revenir à l’histoire sous un intertitre tiré de la scène. Montrer un essai ou une décision, sa conséquence et l’incertitude qui reste. Les difficultés peuvent revenir après un essai qui a fonctionné ailleurs.\n6. Conclure après un séparateur. Résumer ce que cet épisode permet de comprendre et inscrire le dénouement dans le parcours du personnage.\n7. Terminer par « Du côté des proches ». Relier leur point de vue à ce que la scène a montré.\n\nRespecter les faits du canon et la chronologie du diagnostic. Si l’évaluation est en cours, faire comprendre les difficultés sans annoncer le résultat à la place du professionnel. Un diagnostic connu entre dans le récit quand il aide à situer l’expérience. La personne conserve un métier ou un projet, des relations, des ressources, des préférences et le droit de ne pas tout partager.\n\nFonder chaque affirmation clinique sur les points vérifiés du dossier de sources. Renseigner les références dans le dossier et les champs éditoriaux de chaque épisode. Distinguer récit, vécu et description générale du trouble. Les articles ne donnent ni critères permettant de conclure sur soi ou un tiers, ni posologies, ni gestes dangereux, ni promesses de guérison. Une scène de fiction ne représente qu’une présentation possible. Proposer des adaptations discutées avec la personne et situer le recours aux professionnels quand le besoin est clinique ou urgent.\n\nDans « Du côté des proches », partir d’un geste, d’une parole ou d’un besoin visible dans la scène. Donner une réponse concrète que le proche pourrait essayer, dans des mots qu’il pourrait dire. Respecter son périmètre et la possibilité de se retirer ou de passer le relais. Aucun proche ne doit jouer au diagnosticien ou imposer un soin. Dans les situations d’emprise ou de danger, favoriser la sécurité et un appui spécialisé.\n\nRelecture par vague. Relire les douze ouvertures et leurs fins dans l’ordre, puis vérifier les faits cliniques et les propositions aux proches, chaque fois avec le dossier de sources. Annoter les erreurs et les choix qui ont fonctionné. Inscrire les leçons réutilisables dans la charte avant de générer le lot suivant. Une validation de structure ou une relecture par un modèle laisse ouverte la vérification éditoriale des faits et de leur contexte.\n\nLe lot pilote a montré que le premier intertitre explicatif peut varier. Commencer cette section par une phrase générale autonome que le site peut reprendre. Donner à la scène finale un titre tiré de son geste ou de sa décision. Distinguer un signe à discuter d’un épisode ou d’un diagnostic établi. Maintenir les procédures de sécurité réelles et le rôle des soignants, même lorsque le personnage essaie une façon différente de répondre à sa difficulté.\n\nLa deuxième vague distingue l’accord de la personne pour partager ses informations et les démarches de sécurité qui s’appliquent à la situation. Montrer dans le récit qui prévient le service compétent et quand, sans reporter cette action au conseil pour les proches. Pour une règle de métier, utiliser une source du domaine en plus du guide clinique. Le miroir reste ancré dans la scène et conserve sa limite de sécurité jusqu’à la dernière phrase.\n\nLa troisième vague vérifie que le trouble a un effet perceptible dans la vie du personnage dès les deux premières scènes. Montrer ce vécu sans inventaire de signes, description de pratiques dangereuses ou explication totale de sa personnalité. Suivre séparément les questions de santé et les décisions du quotidien. Reprendre les objets, lieux et engagements déjà nommés et fermer les questions concrètes dont la résolution est nécessaire à la scène suivante.\n\nAvant d’écrire, l’agent dédié au personnage fixe une direction dans son dossier. Il y précise ce qui distingue sa voix, son projet et son entourage, les faits cliniques qu’il mettra en scène et les interprétations à écarter. À la fin de chaque épisode, il inscrit la décision prise et ce qu’elle change pour la suite. Au dernier épisode, il résout l’enjeu de la série et garde la perspective du personnage au-delà de cette décision. La relecture reprend les douze scènes dans l’ordre et vérifie les conseils adressés aux proches en regard de chaque scène.\n\nLa quatrième vague distingue les repères du premier diagnostic et ceux des épisodes ultérieurs. Quand une situation urgente se présente, vérifier que son origine n’est pas présumée à partir du diagnostic connu. La première section s’ouvre sur une phrase générale qui fonctionne seule. Les détails de la scène viennent ensuite, après le passage que le site peut reprendre en introduction.\n\nLes histoires d’origine donnent la direction. Le titre commence par le sujet de l’article, une difficulté, une émotion ou un mécanisme réel dans une situation concrète. Le prénom figure séparément au-dessus du titre. Dans la présentation, nommer le trouble documenté et ce qu’il change pour ce personnage. Le premier mot-clé reprend son intitulé et les quatre autres indiquent des manifestations ou enjeux qui reviennent dans plusieurs épisodes. La fiche peut annoncer un diagnostic que le personnage découvre plus tard dans l’histoire.\n\nDans le résumé de la fiche et de la carte, relier une réaction de la scène à l’aspect abordé. Dans un récit d’enfance, vérifier l’apport de cette période pour comprendre le trouble et ouvrir sur d’autres contextes lorsque les sources l’appuient. Lors de la relecture, nommer l’aspect illustré dans chaque épisode, puis retrouver le moment où il devient visible et vérifier que les exemples et les techniques restent centrés sur lui. Renseigner les références dans le manuscrit et le dossier éditorial, sans bibliographie dans le fil de l’article.\n\nLa huitième vague vérifie qui peut savoir quoi, à quel moment et avec quel accord. En cas de changement préoccupant, distinguer le fait observable, ce qu’en dit le personnage, la réponse d’un proche et l’évaluation de l’équipe de soins. Faire apparaître le relais dans la scène où il se produit et en reprendre les conséquences dans la suivante.\n\nLa reprise suivante distingue le résumé affiché avant le récit et l’explication qui vient après. Éviter de recopier le résumé mot pour mot dans cette explication : celle-ci développe le mécanisme et le contraste rendu visible par la scène. Pour les articles d’origine, relire les manifestations et les exercices eux-mêmes ; trois intertitres ou une étiquette ne prouvent pas que les exemples, l’objectif, les trois actions et l’utilité sont présents. Une prose déjà complète peut être conservée. Garder une preuve de lecture liée à l’empreinte du corps et une seconde relecture des passages sensibles.\n",
+            "files": {
+              "manuscript": "editorial/clinical/titouan.json",
+              "dossier": "editorial/clinical/dossiers/titouan.json"
+            },
+            "manifest_fields": [
+              "character_id",
+              "bio",
+              "profile_topics",
+              "episodes"
+            ],
+            "profile_topics_count": 5,
+            "episode_fields": [
+              "number",
+              "slug",
+              "title",
+              "description",
+              "context",
+              "topics",
+              "clinical_focus",
+              "clinical_intro",
+              "opening",
+              "sections",
+              "ending_title",
+              "ending",
+              "mirror",
+              "sources",
+              "continuity",
+              "conclusion"
+            ],
+            "sections": {
+              "explanation": {
+                "fields": [
+                  "heading",
+                  "text"
+                ]
+              },
+              "manifestations": {
+                "fields": [
+                  "heading",
+                  "points"
+                ],
+                "count": 3,
+                "point_fields": [
+                  "heading",
+                  "text",
+                  "examples"
+                ],
+                "examples_count": 2
+              },
+              "strategies": {
+                "fields": [
+                  "heading",
+                  "points"
+                ],
+                "count": 3,
+                "point_fields": [
+                  "heading",
+                  "objective",
+                  "exercise",
+                  "benefit"
+                ],
+                "exercise_count": 3
+              }
+            },
+            "total_episodes": 12,
+            "continuity": [],
+            "ready_to_draft": false,
+            "instruction": "Vérifier les sources cliniques et renseigner un dossier avant de lancer la rédaction."
+          },
+          "findings": [],
+          "existing_manuscript": null
+        },
+        "allowed_outputs": [
+          "editorial/clinical/designs/titouan.json",
+          "editorial/clinical/dossiers/titouan.json"
+        ],
+        "output_baseline": {
+          "editorial/clinical/designs/titouan.json": null,
+          "editorial/clinical/dossiers/titouan.json": null
+        }
+      },
+      "snapshot_sha256": "9d0a1213214a20c0533cef354dc6f7848187b1ebfabf362c65f5c299036656fb",
+      "status": "active",
+      "token_sha256": "caf35b6b232d755a56053d08b2ba434cd31902a76b830d957d92c604a2fa1a13",
+      "heartbeat_at": "2026-11-09T18:48:26Z",
+      "expires_at": "2026-11-09T19:18:26Z"
+    },
+    "b67785ab5f9e41dc8f165fa4ad78e630": {
+      "id": "b67785ab5f9e41dc8f165fa4ad78e630",
+      "character_id": "felix",
+      "role": "character",
+      "owner": "personnage_felix",
+      "created_at": "2026-11-09T18:48:36Z",
+      "snapshot": {
+        "prompt_file": "editorial/agents/characters.md",
+        "prompt": "# Agent créateur de personnages\n\nCe rôle est exécuté par un vrai sous-agent ChatGPT dans la conversation. Le contrôleur prépare et attribue le travail ; il ne lance aucun modèle par API et ne tourne pas après la fin de la session. Ne pas utiliser GitHub Actions pour produire ces articles.\n\nLire le brief de la mission, le canon dans `data/clinical_catalog.json` ou `editorial/clinical/additional_characters.json`, `editorial/clinical/charter.md` et l’article modèle `content/posts/comprendre-et-maitriser-ses-emotions/alexithymie-en-couple.md`. Préserver l’identifiant, le prénom, l’âge, le métier, le projet et la chronologie diagnostique canoniques. Si une donnée est contradictoire, signaler le problème au pilote avant de la modifier.\n\nMener une recherche individuelle dans les sources primaires : CDDR de l’OMS, classification citée dans le canon et recommandations ou travaux originaux pertinents. Vérifier les pages ou sections qui soutiennent les affirmations. Distinguer diagnostic, manifestations, mécanismes, retentissement, évolution et prise en charge. Documenter les limites des études, traductions et transpositions de pays. Une référence générale ou un code de classification ne prouve pas une recommandation thérapeutique.\n\nÉcrire uniquement les deux fichiers attribués :\n\n- `editorial/clinical/dossiers/<id>.json`, au format consommé par `clinical_editorial.character_evidence` : références individuelles, dossier clinique et direction narrative ;\n- `editorial/clinical/designs/<id>.json`, au contrat validé par `scripts/clinical_agent_contracts.py character <id>`.\n\nLe plan contient `schema_version: 1`, `character_id`, `code`, `article_format: 2`, une biographie de 60 à 105 mots avec prénom, âge et intitulé exact du trouble, cinq `profile_topics` distincts dont le premier est cet intitulé, `voice`, `series_goal`, au moins trois `continuity_rules` et douze `episodes`. Chaque épisode contient `number`, un `focus` distinct de 2 à 9 mots (95 caractères maximum), `scene`, `development`, `ending`, `next`, au moins deux `source_refs` autorisées dont la référence primaire et `diagnostic_stage`. Un diagnostic établi vaut `known` partout ; un diagnostic annoncé à l’épisode prévu vaut `under_assessment` avant, `diagnosis_explained` à cet épisode, puis `known`.\n\nFaire vivre douze aspects différents d’un même trouble à travers une personne ayant une voix, un projet indépendant, des relations et des choix. Ne pas fabriquer douze synonymes d’une même manifestation ni une liste de symptômes. Préparer des ouvertures, conséquences et raccords qui permettent une véritable série.\n\nNe pas écrire le manuscrit, les pages publiques, les registres partagés ou les fichiers d’un autre personnage. Ne pas publier, committer ou se relire à la place du relecteur. Une fois les deux fichiers validés, exécuter `editorial_pipeline.py finish` avec la mission et le jeton attribués ; transmettre les empreintes et les limites utiles au rédacteur. Après gel, toute modification demande une nouvelle validation des dépendances par le pilote.\n",
+        "inputs": {
+          "data/clinical_catalog.json": "ea545ea8ad5aaa94b2b2e45e2816cde36bc101dc205b0da50e9303a12015cefa",
+          "data/clinical_sources.json": "fdaee525b573758c9f0f33cb52b62bfb2f077402336475a6f859762fea48e6e6",
+          "editorial/clinical/additional_characters.json": "8834d18f0c86a439357f6f776429d57b23c4acab8b88b5c55d1c3dacd651ada3",
+          "editorial/clinical/charter.md": "8032bcae9a54b787febdbc3a99e8811893663c9f93dc323b0108e07c3849cb0b",
+          "editorial/automation/policy.json": "883ae80b4685fbc1365af6494b693358da050e2266554992f11d12dcbde6c1d0",
+          "scripts/clinical_editorial.py": "f1fc7eb80b0eca35fad58925b323b5dee69bc738d3df031a41e465a64e3342d3",
+          "editorial/automation/legacy-publications.json": "974d070654ecad7d2408ecfe893a767fa97352922acca107b768b63a31277ceb",
+          "scripts/clinical_agent_contracts.py": "2deec8afbd14289192fa3b86edf5e6529e1690c2daecbce4d6798d826d5f1774",
+          "editorial/agents/characters.md": "2de803e0641d430501849923e110a575278708dfeeb0eb8b7bc8eecec15a7713"
+        },
+        "data": {
+          "clinical_brief": {
+            "agent_id": "redaction-felix",
+            "character": {
+              "id": "felix",
+              "name": "Félix",
+              "code": "6C01",
+              "related_codes": [
+                "6C01.0",
+                "6C01.1"
+              ],
+              "wave": 16,
+              "diagnosis": {
+                "timing": "established",
+                "episode": null
+              },
+              "canon": {
+                "age": 9,
+                "setting": "Se passionne pour les cartes. La classe prépare une sortie à pied.",
+                "independent_goal": "Choisir le rôle de lecteur de carte qu'il souhaite prendre.",
+                "tension": "Se retire quand on parle des passages aux toilettes comme d'un problème de discipline.",
+                "supports": "Pédiatre, parent et animateur scolaire choisi.",
+                "trajectory": "Des adultes mettent en place un accès prévisible et discret. Félix reprend un rôle qui lui tient à cœur.",
+                "guardrail": "Ne pas traiter les accidents comme des choix. L'évaluation de la constipation et des autres causes relève des soignants.",
+                "occupation": "élève"
+              },
+              "sources": [
+                "https://icd.who.int/browse/2026-01/mms/fr#313374467",
+                "https://www.who.int/publications/i/item/9789240077263"
+              ],
+              "research_status": "prise_en_charge_a_documenter"
+            },
+            "direction": null,
+            "dossier": null,
+            "references": {},
+            "charter": "# Charte de rédaction des parcours cliniques\n\nÉcrire en français pour des lecteurs sans formation clinique. Choisir pour chaque épisode un aspect du trouble qui se distingue des onze autres et que la scène permet de comprendre. Cet aspect peut être une manifestation, un mécanisme, un retentissement ou une particularité de l’évolution. Relier le titre, le résumé, l’explication et le dénouement à cet aspect. Une activité, une décision ou un rendez-vous fournit le cadre où il devient perceptible.\n\nSuivre le déroulé de l’[article de Youssef sur l’alexithymie en couple](../../content/posts/comprendre-et-maitriser-ses-emotions/alexithymie-en-couple.md).\n\n1. Ouvrir sur une scène d’au moins 180 mots, sans intertitre. Montrer ce que la difficulté change pour le personnage dans cette situation.\n2. Expliquer l’aspect et son lien avec le trouble dans une section dédiée. Partir d’une phrase générale autonome, puis revenir à ce qui se joue dans la scène.\n3. Montrer comment l’aspect se manifeste. Sous « Comment … ? », développer trois sous-parties avec une explication et deux exemples concrets chacune. Situer ce que l’on observe dans chaque exemple.\n4. Proposer trois techniques numérotées. Donner pour chacune un objectif, un exercice pratique en trois étapes et une explication de son utilité possible. Adapter les étapes au contexte et au niveau de risque, en incluant le recours à un professionnel lorsque nécessaire.\n5. Revenir à l’histoire sous un intertitre tiré de la scène. Montrer un essai ou une décision, sa conséquence et l’incertitude qui reste. Les difficultés peuvent revenir après un essai qui a fonctionné ailleurs.\n6. Conclure après un séparateur. Résumer ce que cet épisode permet de comprendre et inscrire le dénouement dans le parcours du personnage.\n7. Terminer par « Du côté des proches ». Relier leur point de vue à ce que la scène a montré.\n\nRespecter les faits du canon et la chronologie du diagnostic. Si l’évaluation est en cours, faire comprendre les difficultés sans annoncer le résultat à la place du professionnel. Un diagnostic connu entre dans le récit quand il aide à situer l’expérience. La personne conserve un métier ou un projet, des relations, des ressources, des préférences et le droit de ne pas tout partager.\n\nFonder chaque affirmation clinique sur les points vérifiés du dossier de sources. Renseigner les références dans le dossier et les champs éditoriaux de chaque épisode. Distinguer récit, vécu et description générale du trouble. Les articles ne donnent ni critères permettant de conclure sur soi ou un tiers, ni posologies, ni gestes dangereux, ni promesses de guérison. Une scène de fiction ne représente qu’une présentation possible. Proposer des adaptations discutées avec la personne et situer le recours aux professionnels quand le besoin est clinique ou urgent.\n\nDans « Du côté des proches », partir d’un geste, d’une parole ou d’un besoin visible dans la scène. Donner une réponse concrète que le proche pourrait essayer, dans des mots qu’il pourrait dire. Respecter son périmètre et la possibilité de se retirer ou de passer le relais. Aucun proche ne doit jouer au diagnosticien ou imposer un soin. Dans les situations d’emprise ou de danger, favoriser la sécurité et un appui spécialisé.\n\nRelecture par vague. Relire les douze ouvertures et leurs fins dans l’ordre, puis vérifier les faits cliniques et les propositions aux proches, chaque fois avec le dossier de sources. Annoter les erreurs et les choix qui ont fonctionné. Inscrire les leçons réutilisables dans la charte avant de générer le lot suivant. Une validation de structure ou une relecture par un modèle laisse ouverte la vérification éditoriale des faits et de leur contexte.\n\nLe lot pilote a montré que le premier intertitre explicatif peut varier. Commencer cette section par une phrase générale autonome que le site peut reprendre. Donner à la scène finale un titre tiré de son geste ou de sa décision. Distinguer un signe à discuter d’un épisode ou d’un diagnostic établi. Maintenir les procédures de sécurité réelles et le rôle des soignants, même lorsque le personnage essaie une façon différente de répondre à sa difficulté.\n\nLa deuxième vague distingue l’accord de la personne pour partager ses informations et les démarches de sécurité qui s’appliquent à la situation. Montrer dans le récit qui prévient le service compétent et quand, sans reporter cette action au conseil pour les proches. Pour une règle de métier, utiliser une source du domaine en plus du guide clinique. Le miroir reste ancré dans la scène et conserve sa limite de sécurité jusqu’à la dernière phrase.\n\nLa troisième vague vérifie que le trouble a un effet perceptible dans la vie du personnage dès les deux premières scènes. Montrer ce vécu sans inventaire de signes, description de pratiques dangereuses ou explication totale de sa personnalité. Suivre séparément les questions de santé et les décisions du quotidien. Reprendre les objets, lieux et engagements déjà nommés et fermer les questions concrètes dont la résolution est nécessaire à la scène suivante.\n\nAvant d’écrire, l’agent dédié au personnage fixe une direction dans son dossier. Il y précise ce qui distingue sa voix, son projet et son entourage, les faits cliniques qu’il mettra en scène et les interprétations à écarter. À la fin de chaque épisode, il inscrit la décision prise et ce qu’elle change pour la suite. Au dernier épisode, il résout l’enjeu de la série et garde la perspective du personnage au-delà de cette décision. La relecture reprend les douze scènes dans l’ordre et vérifie les conseils adressés aux proches en regard de chaque scène.\n\nLa quatrième vague distingue les repères du premier diagnostic et ceux des épisodes ultérieurs. Quand une situation urgente se présente, vérifier que son origine n’est pas présumée à partir du diagnostic connu. La première section s’ouvre sur une phrase générale qui fonctionne seule. Les détails de la scène viennent ensuite, après le passage que le site peut reprendre en introduction.\n\nLes histoires d’origine donnent la direction. Le titre commence par le sujet de l’article, une difficulté, une émotion ou un mécanisme réel dans une situation concrète. Le prénom figure séparément au-dessus du titre. Dans la présentation, nommer le trouble documenté et ce qu’il change pour ce personnage. Le premier mot-clé reprend son intitulé et les quatre autres indiquent des manifestations ou enjeux qui reviennent dans plusieurs épisodes. La fiche peut annoncer un diagnostic que le personnage découvre plus tard dans l’histoire.\n\nDans le résumé de la fiche et de la carte, relier une réaction de la scène à l’aspect abordé. Dans un récit d’enfance, vérifier l’apport de cette période pour comprendre le trouble et ouvrir sur d’autres contextes lorsque les sources l’appuient. Lors de la relecture, nommer l’aspect illustré dans chaque épisode, puis retrouver le moment où il devient visible et vérifier que les exemples et les techniques restent centrés sur lui. Renseigner les références dans le manuscrit et le dossier éditorial, sans bibliographie dans le fil de l’article.\n\nLa huitième vague vérifie qui peut savoir quoi, à quel moment et avec quel accord. En cas de changement préoccupant, distinguer le fait observable, ce qu’en dit le personnage, la réponse d’un proche et l’évaluation de l’équipe de soins. Faire apparaître le relais dans la scène où il se produit et en reprendre les conséquences dans la suivante.\n\nLa reprise suivante distingue le résumé affiché avant le récit et l’explication qui vient après. Éviter de recopier le résumé mot pour mot dans cette explication : celle-ci développe le mécanisme et le contraste rendu visible par la scène. Pour les articles d’origine, relire les manifestations et les exercices eux-mêmes ; trois intertitres ou une étiquette ne prouvent pas que les exemples, l’objectif, les trois actions et l’utilité sont présents. Une prose déjà complète peut être conservée. Garder une preuve de lecture liée à l’empreinte du corps et une seconde relecture des passages sensibles.\n",
+            "files": {
+              "manuscript": "editorial/clinical/felix.json",
+              "dossier": "editorial/clinical/dossiers/felix.json"
+            },
+            "manifest_fields": [
+              "character_id",
+              "bio",
+              "profile_topics",
+              "episodes"
+            ],
+            "profile_topics_count": 5,
+            "episode_fields": [
+              "number",
+              "slug",
+              "title",
+              "description",
+              "context",
+              "topics",
+              "clinical_focus",
+              "clinical_intro",
+              "opening",
+              "sections",
+              "ending_title",
+              "ending",
+              "mirror",
+              "sources",
+              "continuity",
+              "conclusion"
+            ],
+            "sections": {
+              "explanation": {
+                "fields": [
+                  "heading",
+                  "text"
+                ]
+              },
+              "manifestations": {
+                "fields": [
+                  "heading",
+                  "points"
+                ],
+                "count": 3,
+                "point_fields": [
+                  "heading",
+                  "text",
+                  "examples"
+                ],
+                "examples_count": 2
+              },
+              "strategies": {
+                "fields": [
+                  "heading",
+                  "points"
+                ],
+                "count": 3,
+                "point_fields": [
+                  "heading",
+                  "objective",
+                  "exercise",
+                  "benefit"
+                ],
+                "exercise_count": 3
+              }
+            },
+            "total_episodes": 12,
+            "continuity": [],
+            "ready_to_draft": false,
+            "instruction": "Vérifier les sources cliniques et renseigner un dossier avant de lancer la rédaction."
+          },
+          "findings": [],
+          "existing_manuscript": null
+        },
+        "allowed_outputs": [
+          "editorial/clinical/designs/felix.json",
+          "editorial/clinical/dossiers/felix.json"
+        ],
+        "output_baseline": {
+          "editorial/clinical/designs/felix.json": null,
+          "editorial/clinical/dossiers/felix.json": null
+        }
+      },
+      "snapshot_sha256": "1b01a46910eb7e15461291638338959624b91b6b527d68e5643e6f349a19bf35",
+      "status": "active",
+      "token_sha256": "7ff2d3606a64b99d96f5bd2b3c92de671d2603be1f4ea162ea4c21a9e4ed53d3",
+      "heartbeat_at": "2026-11-09T18:48:36Z",
+      "expires_at": "2026-11-09T19:18:36Z"
     }
   },
-  "updated_at": "2026-11-07T18:04:42Z"
+  "updated_at": "2026-11-09T18:51:42Z"
 }

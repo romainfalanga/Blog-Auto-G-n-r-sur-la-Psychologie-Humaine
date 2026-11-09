@@ -1,0 +1,422 @@
+{
+  "character_id": "nolwenn",
+  "bio": "Nolwenn, 24 ans, est apprentie encadreuse et prépare le dossier d’une petite exposition avec son équipe d’apprentissage. Des remontées après les repas l’ont conduite à éviter la table des collègues. Son Trouble de rumination-régurgitation sera expliqué au cours d’une évaluation professionnelle, sans réduire ses difficultés à une question de volonté. Avec Inès, une collègue de confiance, son médecin et une spécialiste, elle cherche une manière de poursuivre son projet et de retrouver un moment collectif choisi. Elle tient aux images sobres et aux légendes courtes.",
+  "profile_topics": [
+    "Trouble de rumination-régurgitation",
+    "remontées après les repas",
+    "honte et confidentialité",
+    "suivi professionnel",
+    "repas collectifs"
+  ],
+  "episodes": [
+    {
+      "number": 1,
+      "slug": "nolwenn-remontees-apres-repas",
+      "title": "Remontées après le repas : trouver des mots pour demander de l’aide",
+      "description": "Des remontées perturbent les pauses de Nolwenn. Elle prépare une consultation tout en gardant une place dans le projet collectif.",
+      "context": "À la pause de l’atelier",
+      "topics": [
+        "Remontées après les repas",
+        "Demande de consultation",
+        "Retrait des déjeuners"
+      ],
+      "clinical_focus": "Les remontées après le repas",
+      "clinical_intro": "Des aliments qui remontent après un repas peuvent perturber la vie quotidienne et conduire à éviter les moments partagés. Ce constat ne permet pas, à lui seul, de poser un diagnostic. Décrire ce qui se passe et ce que cela change aide à demander une évaluation médicale, même quand le vocabulaire paraît incertain.",
+      "opening": "Le dossier bleu prend presque toute la place entre Nolwenn et Inès. À l’intérieur, des images de fenêtres attendent un choix : certaines donnent sur une cour, d’autres sur des façades où le soir découpe des rectangles clairs. Nolwenn voudrait en garder six. À vingt-quatre ans, elle est apprentie encadreuse et défend déjà avec assurance les blancs cassés que ses collègues trouvent presque identiques. « Presque, c’est tout le problème », leur répond-elle souvent.\n\nAujourd’hui, la discussion devrait avoir lieu pendant la pause. Mais des aliments remontent à sa bouche et elle ferme son repas, puis s’écarte. Elle ne sait pas comment expliquer ce qui vient de se passer sans attirer toutes les questions. Ce n’est pas la première fois qu’elle manque un déjeuner commun. Les autres ont commencé à apporter leurs projets sans lui demander si elle viendrait.\n\nInès la rejoint un peu plus tard, avec une seule photographie. Elle demande si celle-ci mérite une place dans le dossier des Fenêtres de l’atelier. Nolwenn répond immédiatement sur la lumière, puis se tait. Elle aimerait retrouver cette simplicité pour parler des remontées. Elle sait ce qu’elle ressent, mais redoute d’employer le mauvais mot. Le dossier bleu reste ouvert sur la table ; son propre problème lui semble bien moins facile à présenter qu’une image mal cadrée.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Décrire un phénomène avant de lui donner un nom",
+          "text": "Des remontées alimentaires répétées nécessitent une évaluation qui distingue plusieurs explications possibles. Leur proximité avec les repas est utile à décrire, mais ne décide pas de leur origine. Pour Nolwenn, le premier enjeu est double : obtenir un avis et faire comprendre que ses absences touchent une activité qu’elle aimerait partager. Aucun diagnostic n’est encore établi dans son histoire."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment les remontées modifient-elles une pause ordinaire ?",
+          "points": [
+            {
+              "heading": "Le moment du repas devient difficile",
+              "text": "Situer les remontées dans la journée apporte une information au médecin sans suffire à nommer leur cause.",
+              "examples": [
+                "Nolwenn remarque la difficulté pendant sa pause.",
+                "Elle hésite à reprendre la discussion après avoir mangé."
+              ]
+            },
+            {
+              "heading": "Les déjeuners communs diminuent",
+              "text": "Les conséquences sociales peuvent être visibles avant qu’une explication médicale soit obtenue.",
+              "examples": [
+                "Plusieurs places sont restées vides à côté d’Inès ces dernières semaines.",
+                "Nolwenn organise désormais ses échanges sur les images à un autre moment."
+              ]
+            },
+            {
+              "heading": "Les mots manquent pour consulter",
+              "text": "Une description imparfaite reste une raison valable de demander un rendez-vous.",
+              "examples": [
+                "Elle sait dire que des aliments remontent à sa bouche.",
+                "Elle ne sait pas encore comment distinguer ce phénomène de ce qu’elle appelle vomir."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour préparer une demande d’aide",
+          "points": [
+            {
+              "heading": "Garder quelques repères",
+              "objective": "Préparer l’entretien médical sans surveiller chaque instant.",
+              "exercise": [
+                "Noter brièvement un moment où la difficulté s’est produite.",
+                "Ajouter ce que cela a changé dans le repas ou la journée.",
+                "Apporter ces notes au médecin en laissant les détails incertains ouverts."
+              ],
+              "benefit": "Quelques faits peuvent faciliter l’échange ; ils ne constituent ni une grille diagnostique ni une obligation de compter."
+            },
+            {
+              "heading": "Préparer la demande de rendez-vous",
+              "objective": "Pouvoir demander de l’aide avant de connaître le nom du problème.",
+              "exercise": [
+                "Choisir une phrase simple décrivant les remontées.",
+                "Mentionner qu’elles se répètent et gênent les repas.",
+                "Contacter le cabinet pour obtenir une évaluation et suivre son orientation."
+              ],
+              "benefit": "La demande peut être entendue sans récit parfait et sans solution trouvée à l’avance."
+            },
+            {
+              "heading": "Réserver un temps de projet",
+              "objective": "Maintenir la coopération sans faire du déjeuner une obligation.",
+              "exercise": [
+                "Dire à sa collègue qu’un créneau de travail distinct serait utile.",
+                "Proposer un moment pour choisir les images ensemble.",
+                "Conserver la consultation comme démarche séparée de cette adaptation."
+              ],
+              "benefit": "Le projet peut continuer pendant l’évaluation ; déplacer une réunion ne traite pas les remontées."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Six fenêtres et un rendez-vous",
+      "ending": "Nolwenn appelle le cabinet et décrit simplement les remontées qui gênent ses repas. Un rendez-vous est fixé avant la séance de photographie prévue à l’atelier. Elle note quelques circonstances pour ne pas tout chercher au dernier moment. Puis elle retrouve Inès à un créneau distinct du déjeuner. Elles retiennent six images. Nolwenn ne sait pas encore ce qui explique ses difficultés, mais elle n’a plus à attendre de le savoir pour demander de l’aide et défendre sa sélection.",
+      "conclusion": "Les premières observations n’ont pas à devenir un diagnostic personnel. Nolwenn transforme une difficulté mal nommée en demande de consultation et maintient un temps de travail partagé. Les six fenêtres sont choisies ; l’évaluation médicale reste devant elle.",
+      "mirror": [
+        "Inès peut rester sur une question concrète : « Tu préfères qu’on regarde les photos cet après-midi ? » Si Nolwenn parle des remontées, elle peut écouter ses mots sans proposer une maladie ou un remède. La collègue garde son rôle de partenaire du dossier ; elle peut faciliter un autre créneau, tandis que l’évaluation appartient aux professionnels."
+      ],
+      "sources": [
+        "oms-cddr",
+        "aga-rumination-2018"
+      ],
+      "continuity": {
+        "choice": "Nolwenn appelle le cabinet et choisit six images avec Inès lors d’un temps distinct du déjeuner.",
+        "next": "Elle apporte quelques notes au rendez-vous, prévu avant la séance de photographie."
+      }
+    },
+    {
+      "number": 2,
+      "slug": "nolwenn-decrire-sans-conclure",
+      "title": "Remontées alimentaires : décrire sans conclure trop vite au reflux",
+      "description": "Au cabinet, Nolwenn précise ses mots. Le médecin poursuit l’évaluation avant de donner un nom aux remontées.",
+      "context": "Au premier rendez-vous médical",
+      "topics": [
+        "Remontées alimentaires",
+        "Évaluation médicale",
+        "Description des symptômes"
+      ],
+      "clinical_focus": "Décrire sans conclure au reflux",
+      "clinical_intro": "Remontées, reflux et vomissements ne désignent pas automatiquement la même situation. Une évaluation médicale s’appuie sur le récit de la personne et sur le bilan approprié pour distinguer les explications possibles. Les mots approximatifs ou les conseils reçus dans l’entourage peuvent être discutés sans devenir un diagnostic ni une raison de se traiter seul.",
+      "opening": "Les tirages dépassent légèrement du sac de Nolwenn. Elle les a emportés parce qu’elle doit rejoindre l’atelier après le rendez-vous, mais elle vérifie maintenant leur présence comme pour se rappeler ce qu’elle sait expliquer. Sur une photographie, elle pourrait montrer immédiatement le bord à reprendre. Devant le médecin, elle commence par : « C’est comme si je vomissais. » Puis elle hésite. Ce mot ne lui paraît pas décrire exactement les aliments qui remontent.\n\nElle sort les quelques notes prises après son appel. Elles indiquent des moments et les pauses qu’elle a écourtées, pas un relevé de toute sa journée. Le médecin lui demande de raconter ce qu’elle perçoit. Nolwenn reprend avec ses mots, corrige une phrase et laisse une question sans réponse. Elle n’a pas à remplir les blancs pour que l’entretien puisse continuer.\n\nUne connaissance lui a parlé d’un produit contre le reflux. Elle demande si cela pourrait suffire. Le médecin reprend ce conseil comme une information à discuter, sans décider que l’explication est déjà trouvée. Il poursuit l’évaluation des causes digestives et de l’ensemble du tableau. Nolwenn regarde les tirages dans son sac : la photographie prévue à l’atelier approche, tandis que cette autre série de questions aura besoin d’un peu plus de temps.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "L’évaluation ne commence pas par une étiquette certaine",
+          "text": "Les remontées alimentaires peuvent être confondues dans le langage courant avec un reflux ou des vomissements. Le professionnel précise l’histoire et organise le bilan indiqué ; aucun examen particulier n’est obligatoire dans tous les cas. Ici, Nolwenn n’a pas encore reçu de diagnostic. Le récit laisse cette étape ouverte et ne transforme ni l’avis d’une connaissance ni le nom d’un produit en réponse médicale."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment préparer une description utile au bilan ?",
+          "points": [
+            {
+              "heading": "Un mot approximatif",
+              "text": "Les termes courants peuvent recouvrir des expériences différentes ; le médecin aide à les préciser.",
+              "examples": [
+                "Nolwenn commence par dire vomir puis décrit des remontées.",
+                "Elle indique à quel moment elles gênent sa pause sans leur attribuer une cause."
+              ]
+            },
+            {
+              "heading": "Une solution empruntée",
+              "text": "Le conseil d’une connaissance peut sembler rassurant, mais ne remplace pas une évaluation personnelle.",
+              "examples": [
+                "Nolwenn demande si le produit dont on lui a parlé suffirait.",
+                "Le médecin reprend cette question dans le bilan au lieu de valider une étiquette de reflux."
+              ]
+            },
+            {
+              "heading": "Un projet à réorganiser",
+              "text": "Le temps nécessaire à l’évaluation peut demander une répartition du travail, sans mettre tout le projet en attente.",
+              "examples": [
+                "Les prises de vue tombent près des rendez-vous à organiser.",
+                "Nolwenn peut conserver les légendes pendant qu’Inès réalise les photographies."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour clarifier le prochain échange médical",
+          "points": [
+            {
+              "heading": "Décrire avec ses mots",
+              "objective": "Donner au professionnel des faits plutôt qu’une conclusion à confirmer.",
+              "exercise": [
+                "Dire ce que l’on perçoit, même avec un vocabulaire hésitant.",
+                "Préciser les circonstances que l’on a réellement remarquées.",
+                "Signaler ce que l’on ne sait pas distinguer ou dater."
+              ],
+              "benefit": "L’entretien peut alors clarifier la description sans exiger que la personne connaisse déjà les termes médicaux."
+            },
+            {
+              "heading": "Parler des produits sans les modifier seule",
+              "objective": "Permettre une évaluation qui tient compte des prises et conseils éventuels.",
+              "exercise": [
+                "Mentionner les traitements ou produits effectivement utilisés, s’il y en a.",
+                "Distinguer ce qui a été pris de ce qui a seulement été conseillé.",
+                "Demander au professionnel la conduite à tenir avant tout changement autonome."
+              ],
+              "benefit": "Cette transparence peut éviter des décisions fondées sur une supposition ; aucun produit n’est prescrit par ce récit."
+            },
+            {
+              "heading": "Faire préciser la suite",
+              "objective": "Sortir du rendez-vous avec un prochain contact identifiable.",
+              "exercise": [
+                "Demander quelle étape le médecin propose maintenant.",
+                "Vérifier comment joindre le service si un changement survient.",
+                "Réorganiser si nécessaire une tâche de travail autour de ce parcours."
+              ],
+              "benefit": "Un cadre explicite peut réduire l’incertitude pratique sans annoncer à l’avance le résultat du bilan."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Les photographies passent à Inès",
+      "ending": "Un rendez-vous spécialisé est organisé dans la suite du bilan. Nolwenn demande comment reprendre contact si quelque chose change avant cette étape. À l’atelier, elle confie à Inès les prises de vue et garde la rédaction des légendes. « Je leur promets de ne pas écrire un roman sous chaque fenêtre. » Inès accepte cette répartition. Les tirages sont sortis du sac ; les questions médicales, elles, restent confiées aux rendez-vous prévus dans les semaines suivantes.",
+      "conclusion": "Décrire les remontées aide à distinguer ce qui est vécu de l’explication encore recherchée. Nolwenn poursuit le bilan et réorganise les photographies avec Inès. Cette décision fait avancer le dossier sans précipiter une conclusion médicale ni une prise de produit autonome.",
+      "mirror": [
+        "Inès peut répondre à la demande de relais sur les photographies sans demander à connaître le résultat du bilan. Une phrase simple serait : « Je prends les vues, et on choisira les légendes ensemble. » Les connaissances qui ont proposé un produit peuvent accepter que Nolwenn en parle au médecin. Elles n’ont pas à défendre leur hypothèse pour que leur soutien soit utile."
+      ],
+      "sources": [
+        "oms-cddr",
+        "aga-rumination-2018"
+      ],
+      "continuity": {
+        "choice": "Un rendez-vous spécialisé est organisé ; Inès prend les photographies et Nolwenn conserve les légendes.",
+        "next": "Le bilan et l’entretien spécialisé précèdent l’explication du diagnostic quelques semaines plus tard."
+      }
+    },
+    {
+      "number": 3,
+      "slug": "nolwenn-diagnostic-sans-culpabilite",
+      "title": "Rumination-régurgitation : comprendre le diagnostic sans se blâmer",
+      "description": "Après le bilan, la spécialiste explique le diagnostic. Nolwenn distingue un nom clinique d’un jugement sur sa volonté.",
+      "context": "À la consultation suivant le bilan",
+      "topics": [
+        "Trouble de rumination-régurgitation",
+        "Sens du diagnostic",
+        "Culpabilité"
+      ],
+      "clinical_focus": "Comprendre le diagnostic sans culpabilité",
+      "clinical_intro": "Le trouble de rumination-régurgitation concerne des remontées alimentaires répétées évaluées par un professionnel ; son nom ne désigne pas les pensées qui tournent en boucle. Les mots utilisés pour décrire les conduites peuvent varier selon les cadres cliniques. Ils demandent une explication individualisée et ne signifient ni faute morale ni possibilité de guérir par une simple décision.",
+      "opening": "Quelques semaines ont passé depuis le premier rendez-vous. Les photographies prises par Inès sont maintenant rangées dans le dossier bleu, avec deux emplacements encore vides pour les premières légendes. Nolwenn les regarde avant de partir à la consultation suivante. Elle a trouvé six formulations, puis les a presque toutes barrées. Elle sait reconnaître une phrase trop longue ; elle sait moins bien quoi faire de la question qui lui revient : est-ce qu’elle provoque tout elle-même ?\n\nLe bilan et l’entretien spécialisé ont eu lieu. Aujourd’hui, la spécialiste reprend avec elle le diagnostic retenu : un trouble de rumination-régurgitation. Nolwenn écoute le mot rumination et demande si cela veut dire qu’elle pense trop à ce qui arrive après les repas. La professionnelle précise qu’il s’agit ici du phénomène alimentaire évalué, pas d’une pensée répétée.\n\nNolwenn pose ensuite la question qu’elle gardait pour la fin. Si un comportement intervient, est-ce qu’on lui demande simplement de décider d’arrêter ? La spécialiste explique les termes du compte rendu dans son cas, sans les convertir en jugement sur sa volonté. Les formulations ne sont pas identiques dans tous les cadres de soin. Nolwenn n’a pas besoin de trancher seule entre ces mots ; elle a besoin de comprendre ce qu’on lui propose et ce que le bilan a permis de distinguer.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Un nom clinique ne mesure pas la volonté",
+          "text": "Le trouble de rumination-régurgitation est distingué des vomissements et d’autres explications par une évaluation professionnelle. Les descriptions cliniques et gastroentérologiques ne recouvrent pas exactement les mêmes cadres ni les mêmes mots sur l’intention ou la conscience du phénomène. On ne peut en déduire que la personne choisit simplement ses difficultés ou pourrait les faire cesser sur commande. La spécialiste traduit ici ces nuances en explications utiles à Nolwenn."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment un diagnostic peut-il être mal compris ?",
+          "points": [
+            {
+              "heading": "Un mot entendu comme un reproche",
+              "text": "Le vocabulaire clinique peut être compris comme un jugement personnel si son sens n’est pas expliqué.",
+              "examples": [
+                "Nolwenn se demande si elle provoque tout elle-même.",
+                "Elle entendrait facilement volontaire comme il suffit d’arrêter."
+              ]
+            },
+            {
+              "heading": "Deux sens de rumination",
+              "text": "Le terme employé ici concerne les remontées alimentaires ; il ne désigne pas le fait de ressasser des pensées.",
+              "examples": [
+                "Nolwenn demande si le nom signifie qu’elle pense trop à ses repas.",
+                "La spécialiste revient au phénomène corporel évalué dans son bilan."
+              ]
+            },
+            {
+              "heading": "Un diagnostic qui ouvre un travail",
+              "text": "L’explication peut rendre un suivi envisageable sans effacer immédiatement les difficultés.",
+              "examples": [
+                "Nolwenn demande ce que la spécialiste lui propose pour la suite.",
+                "Les deux légendes attendent encore après la consultation, mais elle accepte une séance."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour demander une explication sans culpabilité",
+          "points": [
+            {
+              "heading": "Reformuler sans se noter",
+              "objective": "Vérifier le sens du diagnostic plutôt que sa capacité à mémoriser le compte rendu.",
+              "exercise": [
+                "Dire ce que l’on a compris avec ses propres mots.",
+                "Nommer la formule qui paraît culpabilisante ou obscure.",
+                "Demander au professionnel de préciser ce qu’elle signifie dans ce cas."
+              ],
+              "benefit": "Une reformulation peut corriger un malentendu sans demander à la personne de maîtriser les classifications."
+            },
+            {
+              "heading": "Demander ce que le bilan distingue",
+              "objective": "Relier le diagnostic à l’évaluation réellement réalisée.",
+              "exercise": [
+                "Demander quelles explications ont été examinées.",
+                "Faire préciser la différence avec les mots utilisés au premier rendez-vous.",
+                "Conserver la possibilité de signaler un changement ultérieur au lieu de tout attribuer au même diagnostic."
+              ],
+              "benefit": "L’explication peut devenir plus concrète sans conclure qu’un trouble connu explique tous les symptômes futurs."
+            },
+            {
+              "heading": "Noter le cadre proposé",
+              "objective": "Transformer le nom reçu en questions sur le suivi.",
+              "exercise": [
+                "Identifier l’objectif du prochain rendez-vous avec la spécialiste.",
+                "Demander comment l’apprentissage sera accompagné et avec quel accord.",
+                "Noter le contact utile si une question se pose avant la séance."
+              ],
+              "benefit": "Un cadre de soin lisible peut soutenir une décision ; il ne promet pas une réponse immédiate ou identique pour chacun."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Deux légendes, une première séance",
+      "ending": "Nolwenn reformule ce qu’elle a compris et accepte une première séance de suivi. Elle repart avec ce cadre à discuter, sans promesse que les remontées cesseront dès le prochain déjeuner. Le soir, elle termine deux légendes : assez courtes pour laisser les images respirer, dit-elle à Inès. Elle aimerait aussi lui expliquer pourquoi certaines pauses sont devenues difficiles. Le compte rendu restera privé ; quelques mots choisis pourraient suffire à leur conversation.",
+      "conclusion": "Le diagnostic ouvre une compréhension et un suivi, pas un procès de volonté. Nolwenn peut demander le sens des termes, accepter un premier rendez-vous et continuer son travail. La culpabilité ressentie mérite d’être entendue sans devenir l’explication du trouble.",
+      "mirror": [
+        "Si Nolwenn dit qu’elle se sent responsable de tout provoquer, Inès peut répondre : « Tu peux reprendre cette question avec la spécialiste ; tu n’as pas à me prouver que tu fais des efforts. » Elle n’a pas besoin d’interpréter le compte rendu. Son appui peut rester concret : lire les deux légendes et respecter ce que Nolwenn souhaite garder pour elle."
+      ],
+      "sources": [
+        "oms-cddr",
+        "ueg-esnm-2025"
+      ],
+      "continuity": {
+        "choice": "Le diagnostic est expliqué après le bilan ; Nolwenn accepte une première séance et termine deux légendes.",
+        "next": "Elle veut expliquer à Inès la difficulté des pauses tout en gardant son compte rendu privé."
+      }
+    },
+    {
+      "number": 4,
+      "slug": "nolwenn-honte-et-secret",
+      "title": "Rumination-régurgitation : parler sans livrer toute son intimité",
+      "description": "Ses absences sont prises pour une préférence pour la solitude. Nolwenn choisit ce qu’elle souhaite expliquer à Inès.",
+      "context": "À l’atelier entre deux relectures",
+      "topics": [
+        "Trouble de rumination-régurgitation",
+        "Honte",
+        "Confidentialité"
+      ],
+      "clinical_focus": "La honte qui entretient le secret",
+      "clinical_intro": "La honte liée aux remontées peut rendre les échanges difficiles et favoriser le secret. Cela ne signifie pas que toute personne concernée souhaite se confier, ni qu’elle devrait le faire devant son entourage. Choisir un interlocuteur, limiter les détails et préciser un besoin permet parfois de réduire un isolement subi tout en préservant son intimité.",
+      "opening": "Inès pose les photographies à côté des deux légendes terminées. Elle dit qu’elle peut travailler seule sur les notices pendant le déjeuner, puisque Nolwenn semble préférer rester à l’écart. La phrase n’est pas un reproche. C’est précisément ce qui serre Nolwenn : son absence a fini par devenir, pour les autres, une préférence qu’elle n’a jamais exprimée. Elle voulait éviter une gêne, pas demander à disparaître de la table.\n\nElle commence à expliquer que les pauses sont compliquées depuis quelque temps. Un autre apprenti entre avec une nouvelle série de photographies et demande où les poser. Nolwenn raccourcit aussitôt sa phrase. « On en parle après. » Elle prend les images, commente un reflet, puis se retrouve à discuter d’un bord presque blanc avec une assurance qui lui manquait dix secondes plus tôt.\n\nSon compte rendu est dans son sac. Elle pourrait le montrer à Inès pour éviter les mots, mais ne le souhaite pas. Le diagnostic expliqué à la consultation lui appartient aussi dans ce qu’elle décide d’en partager. En revanche, laisser sa collègue croire qu’elle préfère toujours travailler seule devient pesant. Elle regarde la porte désormais refermée. Pour cette conversation, il lui faudrait moins de témoins que pour choisir les cadres de l’exposition.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "La honte peut compliquer l’accès au soutien",
+          "text": "La rumination-régurgitation peut s’accompagner de honte, de dissimulation et de réticence à consulter ou à parler. Ce vécu n’est ni universel ni une preuve de mauvaise volonté. Chez Nolwenn, le silence protège une intimité mais entretient aussi un malentendu sur sa place dans l’équipe. Une conversation choisie peut clarifier ce besoin social ; elle n’est pas un traitement des remontées."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment le secret peut-il peser sur les relations ?",
+          "points": [
+            {
+              "heading": "Une préférence supposée",
+              "text": "Un retrait répété peut être interprété comme un choix relationnel alors qu’il pèse sur la personne.",
+              "examples": [
+                "Inès pense que Nolwenn aime mieux travailler seule le midi.",
+                "Nolwenn voudrait pourtant rester dans les échanges sur les images."
+              ]
+            },
+            {
+              "heading": "Une parole interrompue",
+              "text": "La présence d’un tiers peut changer ce que la personne se sent prête à partager.",
+              "examples": [
+                "Nolwenn commence une explication puis l’écourte à l’arrivée d’un apprenti.",
+                "Elle remet son compte rendu dans son sac plutôt que de l’utiliser pour se justifier."
+              ]
+            },
+            {
+              "heading": "Une intimité à définir",
+              "text": "Garder une information privée et subir l’isolement sont deux expériences différentes, qui peuvent se mêler.",
+              "examples": [
+                "Nolwenn veut qu’Inès comprenne son besoin sans raconter tout le bilan.",
+                "Elle demande que ses absences ne deviennent pas un sujet de conversation du groupe."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour choisir ce que l’on partage",
+          "points": [
+            {
+              "heading": "Choisir un cadre de parole",
+              "objective": "Permettre un échange volontaire avec une personne de confiance.",
+              "exercise": [
+                "Identifier à qui l’on souhaite parler, si l’on souhaite le faire.",
+                "Proposer un moment sans public ni travail urgent à terminer.",
+                "Se donner le droit d’interrompre ou de reporter la discussion."
+              ],
+              "benefit": "Le cadre choisi peut rendre la parole moins exposante sans faire de la confidence une obligation de soin."
+            },
+            {
+              "heading": "Formuler un besoin limité",
+              "objective": "Dire ce qui aiderait sans présenter tout son dossier médical.",
+              "exercise": [
+                "Nommer une difficulté concrète dans les pauses.",
+                "Dire quel appui pratique on souhaite ou ne souhaite pas.",
+                "Garder les détails de santé pour les interlocuteurs auxquels on veut les confier."
+              ],
+              "benefit": "Une phrase courte peut suffire à organiser la coopération ; elle n’a pas à convaincre toute l’équipe."
+            },
+            {
+              "heading": "Convenir de ce qui peut circuler",
+              "objective": "Éviter qu’une confidence soit répétée au nom de la bienveillance.",
+              "exercise": [
+                "Préciser ce que la collègue peut dire aux autres sur l’organisation.",
+                "Nommer les informations que l’on veut garder privées.",
+                "Revenir sur cet accord si les besoins changent."
+              ],
+              "benefit": "Un accord explicite peut protéger la confiance ; il ne transforme pas la collègue en responsable des soins."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Une conversation sans le compte rendu",
+      "ending": "Nolwenn propose à Inès de parler quelques minutes à deux. Elle explique que des remontées compliquent certains repas et qu’un suivi est engagé. Elle ne lui montre pas le compte rendu. Elle demande surtout que ses absences ne soient pas commentées devant le groupe. Inès accepte et lui demande quand elles reprendront les notices. Elles fixent un créneau. Le malentendu recule, mais Nolwenn remarque qu’elle reporte parfois aussi l’occasion de manger, même lorsqu’elle n’est plus entourée.",
+      "conclusion": "Une confidence peut clarifier un besoin sans ouvrir toute l’intimité. Nolwenn choisit de parler à Inès et précise ce qui doit rester privé. Cette limite soutient leur relation, tandis que les difficultés alimentaires encore présentes nécessitent le suivi professionnel.",
+      "mirror": [
+        "Inès peut dire : « Je pensais que tu préférais être seule ; merci de m’avoir expliqué ce dont tu as besoin. » Elle peut ensuite respecter l’accord, sans enquêter sur les autres repas ni informer le groupe pour aider. Nolwenn n’a pas à raconter davantage pour que sa demande soit entendue. La collègue peut revenir aux notices, un terrain qu’elles partagent réellement."
+      ],
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "aga-rumination-2018"
+      ],
+      "continuity": {
+        "choice": "Nolwenn parle à Inès en tête-à-tête et demande que ses absences ne soient pas commentées au groupe.",
+        "next": "Les notices avancent, mais elle constate qu’elle saute parfois une occasion de manger pour éviter la gêne."
+      }
+    }
+  ]
+}
