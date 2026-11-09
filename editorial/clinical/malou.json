@@ -112,6 +112,526 @@
         "choice": "Malou garde le scénario incomplet et accepte de proposer deux versions, sans obtenir de réponse immédiate de Sana.",
         "next": "La version sans réconciliation entraîne une modification du planning que Malou devra reconnaître."
       }
+    },
+    {
+      "number": 2,
+      "slug": "malou-consequences-et-intention",
+      "title": "Un beau projet n’efface pas les conséquences de la pression",
+      "description": "Avec Inès, Malou revient sur la séance interrompue et distingue le refus de Sana de sa propre insistance.",
+      "context": "En préparation individuelle",
+      "topics": [
+        "Trouble dissocial du comportement",
+        "Conséquences",
+        "Responsabilité"
+      ],
+      "clinical_focus": "Reconnaître les conséquences de ses actes",
+      "diagnostic_stage": "known",
+      "clinical_intro": "Reconnaître les conséquences d’un comportement demande parfois de séparer l’intention poursuivie de ce que les autres ont réellement vécu. Une intention créative ne supprime pas une pression exercée. Dans un suivi déjà établi, un échange factuel peut soutenir la responsabilité sans devenir une humiliation ni réduire toute la personne à ce qu’elle a fait.",
+      "opening": "Inès pose le planning à côté du carnet orange. La préparation se poursuit individuellement ; les acteurs ne sont pas présents et la séance collective reste suspendue. Malou a dessiné les deux fins proposées, mais elle a barré le jour prévu pour les revoir avec Sana et Joël. « Tout est en retard parce qu’elle a changé d’avis », dit-elle en montrant le prénom de Sana. Inès, son éducatrice référente, ne lui demande pas de choisir immédiatement une autre phrase. Elle reprend l’ordre des faits.\n\nSana a refusé une scène. Malou a déclaré que son choix ne comptait plus. Elle a continué à ramener la discussion vers l’accord qu’elle attendait. Marc a alors suspendu la séance. Malou hausse les épaules : elle voulait seulement que le film soit bien. Inès reconnaît cet objectif et revient à ce qu’il ne suffit pas à expliquer. Un désaccord sur la fin n’obligeait pas à faire de la réponse de Sana une décision sans valeur.\n\nMalou voudrait garder un lien direct entre le refus et le retard, comme si sa propre réaction n’avait occupé aucun temps. Pourtant, la page de planning ne raconte pas seulement une difficulté de scénario. Le groupe n’a pas pu continuer à discuter librement. Elle regarde les deux fins qu’elle a préparées et pense qu’elles prouvent déjà un effort. Inès le reconnaît sans l’utiliser pour effacer ce qui a précédé. Le carnet peut contenir à la fois ce travail et la part de Malou dans l’interruption.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "L’intention ne résume pas l’effet produit",
+          "text": "Une personne peut minimiser les conséquences de ses actes en revenant uniquement au but qu’elle voulait atteindre. Malou souhaite terminer un beau film ; cette intention ne retire pas à Sana le vécu de pression ni au groupe le temps perdu. Reconnaître une responsabilité précise ne signifie pas s’attribuer tous les problèmes ou porter une étiquette morale définitive. Il s’agit de distinguer ce qu’elle a choisi de faire, ce que cela a changé et ce qui reste à reprendre avec les adultes."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment les conséquences sont-elles mises à distance ?",
+          "points": [
+            {
+              "heading": "Le refus devient l’unique cause du retard",
+              "text": "Une explication partielle peut faire disparaître la contribution de la personne.",
+              "examples": [
+                "Malou pointe le prénom de Sana sur le planning.",
+                "Elle omet d’abord son insistance après la réponse donnée."
+              ]
+            },
+            {
+              "heading": "L’objectif positif sert à clore la discussion",
+              "text": "Une bonne intention peut être utilisée pour éviter de regarder un effet difficile.",
+              "examples": [
+                "Malou rappelle qu’elle voulait un bon film.",
+                "Inès distingue ce désir de la liberté laissée aux acteurs."
+              ]
+            },
+            {
+              "heading": "Un effort récent semble annuler les faits précédents",
+              "text": "Une amélioration mérite d’être reconnue sans effacer les conséquences.",
+              "examples": [
+                "Malou a effectivement préparé deux fins.",
+                "La séance collective demeure suspendue malgré ce travail individuel."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour reconnaître une responsabilité précise",
+          "points": [
+            {
+              "heading": "Reprendre une suite de faits",
+              "objective": "Décrire la situation sans distribuer immédiatement toutes les fautes.",
+              "exercise": [
+                "Choisir avec l’adulte un échange concret à reprendre.",
+                "Noter ce qui a été dit ou fait dans l’ordre connu.",
+                "Séparer les faits de l’explication que l’on leur donne."
+              ],
+              "benefit": "La chronologie peut rendre visible une action que le résumé initial avait laissée de côté."
+            },
+            {
+              "heading": "Distinguer le but et l’effet",
+              "objective": "Garder l’intention sans lui donner le pouvoir d’annuler le reste.",
+              "exercise": [
+                "Nommer ce que l’on souhaitait obtenir.",
+                "Identifier une conséquence observable pour une autre personne ou le projet.",
+                "Demander à l’adulte ce qui reste incertain plutôt que deviner les pensées d’autrui."
+              ],
+              "benefit": "Cette distinction ouvre une responsabilité concrète sans exiger une confession générale."
+            },
+            {
+              "heading": "Inscrire sa part sans s’insulter",
+              "objective": "Écrire un engagement lié aux faits reconnus.",
+              "exercise": [
+                "Choisir une action dont on peut répondre personnellement.",
+                "La formuler sans injure envers soi ni accusation globale contre l’autre.",
+                "Définir avec le responsable ce qu’il faudra faire autrement lors d’une prochaine discussion."
+              ],
+              "benefit": "La responsabilité peut orienter la suite au lieu de devenir une humiliation."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Une ligne ajoutée au planning",
+      "ending": "Malou écrit : « J’ai continué après le refus ; la discussion a été arrêtée. » Elle ne transforme pas Sana en responsable de cette décision. Inès conserve aussi les deux variantes préparées, qui témoignent d’un travail réel. Le planning reste à revoir. Marc transmettra une courte note du groupe sur les conditions nécessaires avant une nouvelle discussion. Malou attendra cette note dans le cadre individuel, sans chercher à faire avancer la réponse directement auprès des acteurs.",
+      "conclusion": "Reconnaître sa part peut laisser subsister la déception et la fierté du travail accompli. Chez Malou, cette précision permet de reprendre le projet sans faire porter à Sana la responsabilité de la pression qu’elle a reçue.",
+      "mirror": [
+        "Inès peut reconnaître les deux fins dessinées puis revenir aux faits restés sans réponse : « Ce travail existe, et il reste à regarder pourquoi la séance s’est arrêtée. » Les parents peuvent éviter les jugements sur toute la personnalité de Malou. Ils n’ont pas à supprimer sa responsabilité pour montrer qu’ils continuent à la soutenir."
+      ],
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-6c91",
+        "nice-cg158-malou"
+      ],
+      "continuity": {
+        "choice": "Malou inscrit sa part dans le retard dans le carnet orange, sans qualifier Sana de responsable.",
+        "next": "Le groupe transmet une courte note sur les conditions nécessaires pour reprendre une discussion."
+      }
+    },
+    {
+      "number": 3,
+      "slug": "malou-intentions-supposees",
+      "title": "Lire une limite sans y voir aussitôt un rejet définitif",
+      "description": "Malou interprète une note du groupe comme une exclusion. Inès l’aide à séparer les demandes écrites des intentions qu’elle suppose.",
+      "context": "À la lecture d’une note",
+      "topics": [
+        "Trouble dissocial du comportement",
+        "Interprétation",
+        "Clarification"
+      ],
+      "clinical_focus": "Attribuer trop vite des intentions hostiles",
+      "diagnostic_stage": "known",
+      "clinical_intro": "Attribuer trop vite une intention hostile peut durcir un conflit et rendre une limite difficile à entendre. Cette manière d’interpréter n’est ni obligatoire ni spécifique au trouble dissocial du comportement. Chez Malou, comparer les mots réellement reçus aux conclusions qu’elle en tire permet de préparer une clarification avec un adulte, sans confrontation avec le groupe.",
+      "opening": "La note tient sur quelques lignes. Marc l’a transmise à Inès pour la préparer avec Malou : les acteurs veulent que leur choix de rôle soit respecté, qu’une discussion reste encadrée et qu’aucune réponse immédiate ne leur soit demandée. La séance collective demeure suspendue. Malou lit jusqu’au bout, puis replie la feuille. « Ils veulent que je parte. Ils n’ont qu’à le dire. » Elle pousse le carnet orange de l’autre côté de la table.\n\nInès ne lui répond pas que tout le monde l’aime ou que personne ne lui en veut. Elle ne le sait pas. Elle lui propose de retrouver la phrase qui annoncerait un départ définitif. Malou rouvre la note. Elle montre la suspension, puis les conditions, puis s’arrête. Le texte ne promet pas une reprise, mais il ne dit pas non plus qu’aucune préparation ne sera possible. Entre ces deux constats, Malou avait rempli l’espace avec une intention certaine.\n\n« C’est pareil, ils mettent des conditions pour que j’abandonne. » Inès reconnaît qu’elle peut le craindre et distingue cette crainte d’un fait écrit. Elles n’organisent pas de rencontre avec Sana pour trancher. Malou peut poser une question à Marc par le canal prévu, avec son éducatrice. Le carnet reste fermé pendant quelques instants. Puis elle le reprend pour noter une question courte : existe-t-il une étape individuelle de préparation, même si le groupe ne reprend pas maintenant ? La réponse ne sera peut-être pas celle qu’elle veut, mais elle portera sur ce qui est réellement possible.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Une hypothèse peut prendre la place du message",
+          "text": "Interpréter une limite comme une attaque certaine peut conduire à répondre à une intention supposée plutôt qu’à la demande reçue. Cette difficulté appartient ici à Malou ; elle ne définit pas toutes les personnes ayant le même diagnostic. Lire les faits et les demandes séparément ne garantit pas une réponse favorable. Cela permet surtout de conserver une incertitude là où l’on n’a pas accès aux pensées d’autrui et de choisir une question qui n’exerce pas une pression supplémentaire."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment une interprétation hostile ferme-t-elle les possibilités ?",
+          "points": [
+            {
+              "heading": "La suspension devient une exclusion définitive",
+              "text": "La conclusion va plus loin que l’information disponible.",
+              "examples": [
+                "Malou dit que le groupe veut son départ.",
+                "La note indique seulement le maintien de la suspension et des conditions."
+              ]
+            },
+            {
+              "heading": "Les conditions deviennent une intention cachée",
+              "text": "Une demande explicite est relue comme un moyen de nuire.",
+              "examples": [
+                "Malou pense que les règles visent à la faire abandonner.",
+                "Inès distingue ce qu’elle craint de ce que le texte affirme."
+              ]
+            },
+            {
+              "heading": "La réponse risque de viser les mauvaises personnes",
+              "text": "Chercher à faire avouer une intention peut créer une nouvelle confrontation.",
+              "examples": [
+                "Malou pourrait vouloir demander des comptes aux acteurs.",
+                "La question est préparée avec Inès puis adressée au responsable prévu."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour demander une clarification sans confrontation",
+          "points": [
+            {
+              "heading": "Relire ce qui est écrit",
+              "objective": "Séparer les informations disponibles de leur interprétation.",
+              "exercise": [
+                "Choisir une phrase du message reçu.",
+                "Reformuler seulement ce qu’elle affirme explicitement.",
+                "Noter à part la conclusion ou la crainte que l’on y ajoute."
+              ],
+              "benefit": "La séparation rend l’incertitude visible sans obliger à penser que tout va bien."
+            },
+            {
+              "heading": "Garder plusieurs possibilités ouvertes",
+              "objective": "Éviter de traiter une seule hypothèse comme un fait.",
+              "exercise": [
+                "Nommer l’intention que l’on suppose.",
+                "Avec l’adulte de confiance, envisager une autre lecture compatible avec les mots reçus.",
+                "Reconnaître ce que l’on ne peut pas encore savoir."
+              ],
+              "benefit": "Cela peut laisser une place à une réponse réelle plutôt qu’à une certitude construite seul."
+            },
+            {
+              "heading": "Préparer une question neutre",
+              "objective": "Chercher une information utile sans exiger une justification affective.",
+              "exercise": [
+                "Définir le point concret à clarifier.",
+                "Formuler une question sur les étapes possibles plutôt que sur les intentions cachées.",
+                "Utiliser le contact adulte convenu et attendre sa réponse sans solliciter directement les acteurs."
+              ],
+              "benefit": "L’échange reste centré sur le cadre et ne charge pas les pairs de rassurer ou d’évaluer Malou."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Une réponse limitée mais réelle",
+      "ending": "Marc confirme qu’un rendez-vous de préparation peut être organisé avec les adultes concernés. La séance collective reste suspendue ; aucune date de retour n’est promise. Malou écrit ces deux informations séparément dans le carnet. Elle n’est pas satisfaite de la seconde, mais la première existe. Des camarades lui envoient ensuite des messages sur la manière dont elle devrait répondre au groupe. Elle ne les transforme pas encore en décision.",
+      "conclusion": "Une limite peut être difficile sans contenir toutes les intentions qu’on lui prête. Pour Malou, demander une précision à Marc ouvre une étape individuelle réelle, tandis que les choix des acteurs et la suspension restent respectés.",
+      "mirror": [
+        "Inès peut dire : « Je ne connais pas toutes leurs pensées. Regardons ce qui est demandé et ce que nous pouvons clarifier. » Elle évite autant de confirmer un complot que de promettre que chacun souhaite la reprise. Un parent peut aider Malou à utiliser le contact prévu plutôt que d’organiser une confrontation destinée à obtenir une explication immédiate des acteurs."
+      ],
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-6c91",
+        "nice-cg158-malou"
+      ],
+      "continuity": {
+        "choice": "Marc confirme que la séance reste suspendue, mais qu’un rendez-vous de préparation est possible.",
+        "next": "Malou reçoit en parallèle des messages de camarades sur la manière de répondre au groupe."
+      }
+    },
+    {
+      "number": 4,
+      "slug": "malou-soutien-et-pression-des-pairs",
+      "title": "Se sentir soutenue sans laisser les autres choisir sa réponse",
+      "description": "Des camarades conseillent à Malou de ne rien céder. Elle parle avec son père de ce qui l’aide et de ce qui lui retire son choix.",
+      "context": "Après la préparation individuelle",
+      "topics": [
+        "Trouble dissocial du comportement",
+        "Pairs",
+        "Choix personnel"
+      ],
+      "clinical_focus": "Appartenance au groupe et influence des pairs",
+      "diagnostic_stage": "known",
+      "clinical_intro": "Les relations avec les pairs peuvent soutenir un adolescent tout en pesant sur ses décisions. Dans un conflit, se sentir défendu peut rendre difficile le refus d’un conseil qui aggrave la situation. Cette influence ne constitue pas une cause unique du trouble : il reste utile de distinguer appartenance, pression et choix personnel avec un adulte de confiance.",
+      "opening": "En sortant de son rendez-vous individuel à l’association, Malou regarde les messages de deux camarades. Aucun acteur n’a été convié à la préparation et le groupe de cinéma n’a pas repris. Les camarades connaissent surtout sa déception. Ils lui écrivent qu’elle ne devrait rien céder, qu’un film a besoin d’une personne qui décide. Malou relit cette phrase avec soulagement. Elle ne lui demande pas d’examiner sa part dans l’interruption ; elle lui donne immédiatement un camp.\n\nChez elle, Étienne lui demande comment s’est passé le rendez-vous. Elle répond d’abord en répétant les messages. Son père reconnaît qu’il peut être agréable de se sentir défendue. Puis il lui demande si cette réponse l’aiderait à obtenir ce qu’elle souhaite vraiment : continuer à créer avec des personnes libres de participer. Malou dit que ses camarades, au moins, ne la traitent pas comme un problème. Étienne n’en fait pas des ennemis ni la cause de tout ce qui s’est passé. Il revient à ce qu’elle veut décider elle-même.\n\nLe carnet orange est dans son sac. Malou le sort et retrouve la question préparée avec Inès, à laquelle Marc a déjà répondu. Elle avait une étape possible, même limitée. Refuser maintenant toute discussion pour rester fidèle au conseil reçu reviendrait à l’écarter. Elle n’a pas envie de perdre le soutien de ses camarades. Elle n’a pas davantage envie qu’ils parlent aux acteurs à sa place et déplacent encore le conflit.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "L’appartenance peut compliquer un choix déjà difficile",
+          "text": "Se sentir reconnu par des pairs est important à l’adolescence. Dans certains échanges, cette reconnaissance s’accompagne d’une attente implicite : répondre d’une manière qui prouve que l’on ne cède pas. Les contextes sociaux font partie de l’évaluation et de l’accompagnement, sans expliquer à eux seuls le trouble de Malou. Elle peut apprécier le soutien reçu et refuser qu’un conseil décide de sa réponse ou autorise une intervention auprès des acteurs."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment un soutien peut-il devenir une pression ?",
+          "points": [
+            {
+              "heading": "Une réponse procure un soulagement immédiat",
+              "text": "Être défendue peut sembler plus simple que regarder les conséquences d’un conflit.",
+              "examples": [
+                "Malou apprécie la phrase sur la personne qui décide du film.",
+                "Elle répète d’abord les messages au lieu de raconter la préparation."
+              ]
+            },
+            {
+              "heading": "Le conseil semble conditionner l’appartenance",
+              "text": "Refuser une idée peut être ressenti comme perdre le lien avec ceux qui la proposent.",
+              "examples": [
+                "Malou craint de décevoir ses camarades en discutant encore.",
+                "Elle hésite à dire que leur réponse ne correspond pas à son projet."
+              ]
+            },
+            {
+              "heading": "D’autres pourraient parler à sa place",
+              "text": "Une intervention non choisie peut élargir le conflit.",
+              "examples": [
+                "Malou ne veut pas que les camarades contactent les acteurs.",
+                "Elle préfère préparer sa réponse avec Inès dans le cadre déjà prévu."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour choisir sa réponse au milieu des avis",
+          "points": [
+            {
+              "heading": "Identifier ce qui fait du bien",
+              "objective": "Distinguer le besoin de soutien du contenu du conseil.",
+              "exercise": [
+                "Nommer ce que l’on apprécie dans le message reçu.",
+                "Repérer la décision que le conseil encourage.",
+                "Demander si cette décision sert réellement son objectif et respecte les autres."
+              ],
+              "benefit": "On peut garder le lien sans adopter automatiquement toutes les propositions."
+            },
+            {
+              "heading": "Revenir à son propre projet",
+              "objective": "Choisir une action qui reste cohérente avec ce que l’on souhaite construire.",
+              "exercise": [
+                "Écrire l’objectif concret que l’on veut poursuivre.",
+                "Comparer le conseil reçu aux étapes réellement disponibles.",
+                "En discuter avec un adulte de confiance avant de répondre sous la pression du moment."
+              ],
+              "benefit": "Ce détour peut rendre le choix plus personnel sans promettre de supprimer le conflit."
+            },
+            {
+              "heading": "Limiter les interventions non souhaitées",
+              "objective": "Empêcher qu’un soutien se transforme en prise de parole à sa place.",
+              "exercise": [
+                "Dire clairement que l’on ne souhaite pas de contact avec les acteurs.",
+                "Garder le canal de discussion convenu avec les adultes.",
+                "Demander de l’aide si cette limite n’est pas respectée plutôt que régler seul une confrontation."
+              ],
+              "benefit": "Le cadre protège les personnes concernées et évite une escalade portée par plusieurs interlocuteurs."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Une réponse qu’elle préparera elle-même",
+      "ending": "Malou écrit qu’elle parlera avec Inès et qu’elle ne souhaite aucune intervention auprès de Sana ou de Joël. Elle ne rompt pas toute amitié pour autant. Étienne la laisse envoyer ses mots sans lui dicter une déclaration. Le rendez-vous avec Marc peut maintenant être préparé. Malou reste persuadée que la suspension dure trop longtemps ; entendre cette limite directement sera une autre difficulté que les messages n’ont pas réglée.",
+      "conclusion": "Le soutien d’un groupe n’oblige pas à lui remettre sa décision. Malou peut apprécier d’être défendue et choisir une réponse qui protège les acteurs, le cadre de discussion et les possibilités encore ouvertes pour son film.",
+      "mirror": [
+        "Étienne peut demander : « Dans ce message, qu’est-ce qui t’aide, et qu’est-ce qui te pousse à une réponse que tu ne veux pas vraiment ? » Il n’a pas à qualifier tous les camarades de mauvaises fréquentations. Il maintient la limite sur les contacts avec les acteurs et propose un appui adulte si quelqu’un la contourne."
+      ],
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-6c91",
+        "nice-cg158-malou"
+      ],
+      "continuity": {
+        "choice": "Elle choisit de préparer sa propre réponse avec Inès et refuse que les camarades interviennent auprès des acteurs.",
+        "next": "Le rendez-vous avec Marc devient possible, mais le maintien de la suspension la contrarie."
+      }
+    },
+    {
+      "number": 5,
+      "slug": "malou-interrompre-escalade",
+      "title": "Interrompre l’escalade avant de reprendre la discussion",
+      "description": "Marc maintient la suspension. Quand Malou ne peut plus écouter, l’échange s’arrête et les adultes mettent en place le relais.",
+      "context": "Au rendez-vous préparatoire",
+      "topics": [
+        "Trouble dissocial du comportement",
+        "Colère",
+        "Sécurité"
+      ],
+      "clinical_focus": "Interrompre une escalade de colère",
+      "diagnostic_stage": "known",
+      "clinical_intro": "Une montée de colère peut rendre une discussion de moins en moins possible. Elle ne définit pas à elle seule un trouble dissocial du comportement et ne justifie pas de poursuivre une pression sur autrui. Reconnaître les changements observables, interrompre l’activité et mobiliser les adultes responsables permet de protéger le cadre sans attendre une maîtrise parfaite de la jeune.",
+      "opening": "Marc a prévu un rendez-vous avec Malou et Inès, sans les acteurs. Le carnet orange reste sur la table, ouvert sur les deux fins possibles. Malou commence par demander quand elle pourra les montrer au groupe. Marc répond qu’ils vont préparer les conditions, mais que la séance collective reste suspendue. Elle le savait avant de venir ; l’entendre maintenant lui paraît pourtant refermer la seule porte qu’elle avait gardée ouverte.\n\nElle parle plus fort et répète qu’elle a fait ce qu’on lui avait demandé. Marc commence à expliquer la différence entre cette préparation et la reprise, mais Malou ne le laisse plus terminer. Elle revient à la même demande. Inès lui indique que l’échange ne permet plus de s’écouter. Malou proteste encore. Marc met fin au rendez-vous, sans proposer que Sana vienne donner une autre réponse et sans négocier la sécurité contre une promesse.\n\nInès accompagne Malou dans une autre pièce prévue pour s’écarter de la discussion. Elle reste avec elle ; le carnet est posé à côté, fermé. Aucun acteur n’est chargé de la calmer. Les adultes n’exigent pas qu’elle formule immédiatement des excuses pour avoir le droit de sortir de cette impasse. La discussion sur le film est arrêtée. Lorsque Malou peut à nouveau entendre quelques phrases, Inès lui explique qu’elles vont contacter l’équipe spécialisée avec ses parents. La pause a interrompu l’escalade, mais elle ne suffit pas à comprendre le soutien dont elle a besoin pour la suite.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Arrêter l’échange ne résout pas tout ce qui l’a fait monter",
+          "text": "Une hausse du ton, des répétitions et l’impossibilité d’écouter indiquent ici que la conversation doit s’arrêter. Ces signes ne constituent pas une définition du trouble ni une preuve que toute colère serait dangereuse. Le responsable doit protéger le cadre et l’éducatrice soutenir un relais adapté. Les moyens ordinaires pour demander une pause ne remplacent pas l’évaluation des besoins et des risques. En présence d’un danger immédiat, les adultes sollicitent les secours sans attendre un rendez-vous ultérieur."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment voit-on que la discussion ne peut plus continuer ?",
+          "points": [
+            {
+              "heading": "Le volume augmente tandis que l’écoute diminue",
+              "text": "L’échange perd sa réciprocité avant qu’une réponse puisse être examinée.",
+              "examples": [
+                "Malou parle de plus en plus fort.",
+                "Elle ne laisse plus Marc terminer son explication."
+              ]
+            },
+            {
+              "heading": "La même demande occupe toute la place",
+              "text": "Une répétition peut empêcher d’entendre la limite déjà donnée.",
+              "examples": [
+                "Malou revient à la date de reprise.",
+                "La distinction entre préparation et séance collective n’est plus discutée."
+              ]
+            },
+            {
+              "heading": "Les adultes doivent modifier le cadre",
+              "text": "La continuité de l’activité ne passe pas avant la sécurité et les droits des autres.",
+              "examples": [
+                "Marc met fin au rendez-vous.",
+                "Inès accompagne Malou hors de l’échange et prépare le relais clinique avec sa famille."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour préparer une interruption avec les adultes",
+          "points": [
+            {
+              "heading": "Repérer les changements utiles",
+              "objective": "Préparer hors tension des observations simples à reprendre avec le suivi.",
+              "exercise": [
+                "Revenir sur un moment où la conversation est devenue difficile.",
+                "Nommer des changements observables comme les interruptions ou le volume de voix.",
+                "Discuter avec l’équipe de la manière dont les adultes peuvent signaler la nécessité d’arrêter."
+              ],
+              "benefit": "Ces repères peuvent aider à agir plus tôt sans rendre la jeune seule responsable de prévenir toute escalade."
+            },
+            {
+              "heading": "Prévoir la fin de l’activité",
+              "objective": "Ne pas improviser une négociation lorsque l’écoute n’est plus possible.",
+              "exercise": [
+                "Clarifier avec les responsables qui peut interrompre la séance.",
+                "Prévoir un accompagnement adulte adapté pour s’écarter de l’échange.",
+                "Maintenir l’arrêt sans faire intervenir les personnes concernées pour obtenir le calme."
+              ],
+              "benefit": "Un cadre clair peut protéger chacun ; il n’est pas une méthode de contrainte physique."
+            },
+            {
+              "heading": "Reprendre avec les professionnels",
+              "objective": "Ne pas confondre retour au calme et résolution du problème.",
+              "exercise": [
+                "Transmettre à l’équipe les faits utiles après l’arrêt, selon la situation.",
+                "Revoir avec elle et la famille les besoins de soutien et les modalités de recours.",
+                "En danger immédiat, faire appel aux secours appropriés sans attendre cette reprise."
+              ],
+              "benefit": "L’événement peut conduire à un ajustement réel au lieu d’être effacé dès que la voix baisse."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Le contact a lieu",
+      "ending": "Une fois le calme revenu, Inès contacte effectivement l’équipe spécialisée avec Malou et ses parents. Elles décrivent le rendez-vous interrompu sans demander aux acteurs de témoigner devant elle. Un point clinique est organisé ; aucune reprise collective n’est annoncée. Malou reprend son carnet, toujours contrariée. Elle sait que le prochain échange avec Mme Girard portera aussi sur cet événement, et craint déjà qu’il ne serve qu’à lui apprendre à obéir.",
+      "conclusion": "Interrompre une escalade protège une situation sans régler automatiquement ce qui la rend difficile. Le relais clinique engagé permet de reprendre les faits, tandis que la liberté des acteurs et la suspension du groupe restent effectives.",
+      "mirror": [
+        "Marc peut annoncer l’arrêt de manière brève, sans humiliation et sans exiger une négociation supplémentaire. Inès accompagne Malou et mobilise le relais prévu ; les parents participent au contact sans multiplier les reproches pendant la montée de tension. Sana et Joël n’ont pas à céder pour apaiser la situation. Un danger immédiat appelle une aide urgente effective, pas une attente du prochain rendez-vous."
+      ],
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-6c91",
+        "nice-cg158-malou"
+      ],
+      "continuity": {
+        "choice": "Une fois le calme revenu, Inès contacte l’équipe spécialisée avec Malou et ses parents pour réexaminer le soutien nécessaire.",
+        "next": "Le rendez-vous clinique suivant reprend cet épisode réel, au lieu de faire comme si la pause avait tout résolu."
+      }
+    },
+    {
+      "number": 6,
+      "slug": "malou-mefiance-envers-soin",
+      "title": "Quand le soin ressemble à une demande d’obéissance",
+      "description": "Après l’échange interrompu, Malou craint une leçon de plus. Mme Girard reprend ses objectifs et le cadre du suivi avec elle.",
+      "context": "Au rendez-vous spécialisé",
+      "topics": [
+        "Trouble dissocial du comportement",
+        "Alliance de soin",
+        "Participation"
+      ],
+      "clinical_focus": "Méfiance envers les propositions de soin",
+      "diagnostic_stage": "known",
+      "clinical_intro": "Un adolescent peut se méfier d’un suivi qu’il comprend comme une simple demande d’obéissance. L’alliance de soin demande de rendre les objectifs, les rôles et les limites de confidentialité compréhensibles, tout en laissant une place à ses propres projets. Cette participation ne supprime ni les responsabilités ni les mesures de protection nécessaires.",
+      "opening": "Malou arrive chez Mme Girard avec le carnet orange fermé contre elle. Le contact pris après le rendez-vous avec Marc a bien conduit à ce point clinique. Nadia et Étienne sont présents au début, puis un temps individuel est prévu. Malou connaît déjà la psychologue et son diagnostic ; elle n’attend pourtant pas grand-chose de cette rencontre. Elle imagine la liste des comportements qui ont déplu aux adultes et la phrase qui les résumerait : il faut écouter.\n\nMme Girard commence par reprendre ce qui s’est passé, puis lui demande ce qu’elle voudrait que le suivi lui permette de faire autrement. « Finir mon film », répond Malou. Elle s’attend à devoir ajouter une réponse plus convenable. La psychologue garde cette phrase et lui demande ce qui empêche aujourd’hui de poursuivre ce projet avec les autres. Malou parle de la suspension, puis du refus de Sana, puis du moment où elle n’arrivait plus à écouter Marc.\n\nElle demande si tout ce qu’elle dit sera envoyé à l’association. Mme Girard explique qui reçoit quelles informations dans le cadre du suivi, ce qui reste confidentiel et les limites liées à la protection. Elle vérifie la compréhension de Malou, sans lui promettre un secret absolu. Le responsable de l’atelier garde ses décisions sur le projet ; la psychologue ne lui donnera pas un certificat de bonne conduite en échange d’une phrase. Malou desserre les doigts autour du carnet. Elle peut poser une question sans qu’elle devienne automatiquement un engagement à reprendre le groupe.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Le suivi gagne à avoir un sens pour la jeune",
+          "text": "La méfiance envers une proposition de soin peut empêcher de parler des difficultés réelles. Prendre en compte les objectifs d’une adolescente ne signifie pas approuver toute conduite ni transformer le soin en condition punitive d’accès à un loisir. L’équipe peut travailler avec elle et sa famille sur plusieurs contextes de vie, avec des interventions adaptées par des professionnels formés. Le projet de film donne ici un point d’appui à la discussion, sans devenir un traitement ni remplacer les autres besoins évalués."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment la méfiance limite-t-elle la participation au suivi ?",
+          "points": [
+            {
+              "heading": "La rencontre est anticipée comme une leçon",
+              "text": "L’adolescente peut préparer sa défense au lieu de formuler ses besoins.",
+              "examples": [
+                "Malou attend une liste de reproches.",
+                "Elle croit que la seule réponse recevable sera de promettre d’écouter."
+              ]
+            },
+            {
+              "heading": "Le projet personnel semble hors sujet",
+              "text": "Un objectif concret peut paraître moins légitime qu’une formulation attendue par les adultes.",
+              "examples": [
+                "Malou dit qu’elle veut terminer le film.",
+                "Elle s’attend à devoir remplacer cette réponse par une autre plus convenable."
+              ]
+            },
+            {
+              "heading": "La circulation des informations inquiète",
+              "text": "Ne pas connaître le cadre peut retenir des questions utiles.",
+              "examples": [
+                "Malou demande ce qui sera envoyé à Marc.",
+                "Mme Girard distingue les informations de soin des décisions associatives."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour poser ses questions sur le soin",
+          "points": [
+            {
+              "heading": "Dire ce que l’on souhaite retrouver",
+              "objective": "Apporter un objectif personnel à la discussion clinique.",
+              "exercise": [
+                "Choisir une activité ou une relation importante pour soi.",
+                "Expliquer ce qui y est devenu difficile.",
+                "Demander comment le suivi peut travailler cette difficulté sans garantir le résultat du projet."
+              ],
+              "benefit": "Un objectif concret peut rendre l’échange plus compréhensible et aider l’équipe à ajuster le soutien."
+            },
+            {
+              "heading": "Demander le cadre des informations",
+              "objective": "Comprendre qui peut savoir quoi et dans quelles limites.",
+              "exercise": [
+                "Nommer une inquiétude sur la confidentialité.",
+                "Demander au professionnel quelles informations sont partagées et pourquoi.",
+                "Faire reformuler les limites de protection et signaler ce qui reste mal compris."
+              ],
+              "benefit": "Le cadre devient plus lisible sans promesse de secret absolu à une mineure."
+            },
+            {
+              "heading": "Distinguer soin et autorisation du projet",
+              "objective": "Éviter de traiter une consultation comme une épreuve de bonne conduite.",
+              "exercise": [
+                "Identifier ce qui relève de l’équipe clinique.",
+                "Séparer les conditions d’activité décidées par le responsable associatif.",
+                "Préparer avec les adultes concernés les seules coordinations nécessaires."
+              ],
+              "benefit": "Cette distinction protège la place du soin et évite d’échanger une confidence contre une reprise."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Un objectif qui parle du prochain refus",
+      "ending": "Malou accepte de travailler avec l’équipe sur un objectif concret : pouvoir recevoir une limite sans continuer à faire pression sur l’autre. Elle ne promet pas d’y parvenir immédiatement et Mme Girard ne lève pas la suspension associative. Les parents rejoignent la fin de l’entretien selon le cadre expliqué. Les appuis à poursuivre sont discutés avec eux. Le film reste dans le carnet ; les informations de soin gardent leur place propre. À la maison, il faudra encore trouver comment parler de ces appuis sans occuper chaque repas.",
+      "conclusion": "Participer au soin ne consiste pas à réciter une réponse attendue. Malou peut parler de son film, comprendre le cadre des informations et accepter un objectif de travail tout en gardant des désaccords et des responsabilités à reprendre.",
+      "mirror": [
+        "Nadia et Étienne peuvent demander à Malou ce qu’elle a compris des objectifs sans exiger le contenu de tout le temps individuel. Ils peuvent poser leurs propres questions à l’équipe sur les informations et la protection. Marc garde les conditions du projet dans son rôle associatif ; il n’a pas à réclamer une confidence ou une preuve de guérison pour envisager une étape adaptée."
+      ],
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-6c91",
+        "nice-cg158-malou"
+      ],
+      "continuity": {
+        "choice": "Malou accepte un objectif concret de travail avec l’équipe : pouvoir recevoir une limite sans poursuivre la pression sur autrui.",
+        "next": "La famille doit maintenant adapter les échanges quotidiens sans transformer le salon en réunion de soins."
+      }
     }
   ]
 }

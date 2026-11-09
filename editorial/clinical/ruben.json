@@ -1,0 +1,533 @@
+{
+  "character_id": "ruben",
+  "bio": "Ruben, 12 ans, est collégien et aime bricoler en technologie. Son Trouble oppositionnel avec provocation a été diagnostiqué après une évaluation de ses différents contextes de vie. Les contestations répétées compliquent ses relations et sa participation au club de robotique, surtout quand il ne comprend ni la règle ni les choix possibles. Il veut participer au salon des projets du collège. Ses parents, l’équipe éducative et sa clinicienne l’aident à choisir ses responsabilités, tandis que les adultes modifient aussi leurs interactions. Ses désaccords légitimes gardent leur place.",
+  "profile_topics": [
+    "Trouble oppositionnel avec provocation",
+    "conflits autour des règles",
+    "irritabilité et ressentiment",
+    "relations avec les camarades",
+    "soutien familial et scolaire"
+  ],
+  "episodes": [
+    {
+      "number": 1,
+      "slug": "ruben-contester-et-perdre-son-tour",
+      "title": "Contestations répétées : quand la discussion prend toute la place",
+      "description": "Ruben veut discuter du rangement, mais les échanges lui font perdre son tour de présenter un projet. La règle reste explicable.",
+      "context": "La fin du club de robotique",
+      "topics": [
+        "Conflit avec l’autorité",
+        "Retentissement",
+        "Choix concrets"
+      ],
+      "clinical_intro": "Un désaccord avec un adulte ne suffit pas à définir un trouble oppositionnel avec provocation. Le diagnostic repose sur une configuration durable et son retentissement, évalués dans leur contexte. Chez Ruben, déjà suivi, la difficulté apparaît quand la contestation répétée absorbe le temps d’une activité à laquelle il voulait pourtant participer.",
+      "opening": "Madame Vernier annonce qu’il faut libérer les tables. Le groupe suivant attendra bientôt devant la porte de la salle de technologie. Ruben garde son carnet orange ouvert sur une page presque blanche. Il a douze ans et une idée qui lui semble assez bonne pour le salon du collège : un petit robot qui suivrait une ligne. Il voulait expliquer comment les roues seraient placées, mais il lui reste à peine quelques minutes.\n\n« Pourquoi on range maintenant si les autres ne sont pas là ? » La professeure rappelle le changement de groupe et le temps nécessaire pour laisser la salle prête. Ruben demande alors pourquoi leur séance n’a pas commencé plus tôt. Quand elle propose de garder cette question pour un autre moment, il revient sur le premier mot de sa réponse. Il ne regarde plus le croquis qu’il devait montrer. Inès rassemble les feuilles restées sur leur table et attend de savoir s’il compte l’aider.\n\nMadame Vernier maintient la fin de séance. Elle ne parle pas devant le club du diagnostic déjà posé dans le suivi de Ruben. Elle lui propose de rassembler les feuilles ou de vérifier avec elle que la table est dégagée. Ruben dit que cela ne répond toujours pas à sa question. Inès finit par ranger la pile. Le temps prévu pour les propositions est passé ; son robot n’a pas encore de place dans la discussion.",
+      "ending_title": "Le robot attend la prochaine page",
+      "ending": "Madame Vernier propose de reprendre la question des horaires au début du prochain club. Ruben écrit alors « robot suiveur de ligne » en haut de sa page et ajoute deux roues. Il range le carnet, encore mécontent. Inès lui dit qu’elle verra la prochaine fois si elle veut travailler sur cette idée avec lui. Il n’a pas obtenu plus de temps aujourd’hui, mais sa proposition n’est pas retirée du salon parce qu’ils se sont disputés.",
+      "conclusion": "La contestation devient coûteuse lorsqu’elle empêche une participation souhaitée et reporte le travail sur les autres. Ruben garde sa question et son projet ; la règle du rangement reste tenue sans faire de son accord une obligation.",
+      "mirror": [
+        "Madame Vernier peut dire : « La salle doit être prête ; tu peux choisir une tâche, et nous reprendrons ta question au prochain club. » Tenir ensuite ce rendez-vous compte autant que l’annoncer. Inès peut demander de l’aide sans être chargée de convaincre Ruben. Aucun camarade n’a besoin de connaître son diagnostic pour que les responsabilités soient clarifiées."
+      ],
+      "clinical_focus": "Contester au point de perdre sa place",
+      "diagnostic_stage": "known",
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-ruben",
+        "nice-cg158-ruben"
+      ],
+      "continuity": {
+        "choice": "Ruben note son projet, range le carnet et conserve un moment prévu pour discuter des horaires.",
+        "next": "À la maison, Claire découvre que le carnet a remplacé la préparation du cartable et hésite à demander une nouvelle tâche."
+      },
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Une question permise, une discussion qui déborde",
+          "text": "Le droit de contester une règle demeure, y compris lorsqu’un trouble oppositionnel avec provocation est connu. Ce qui pose problème ici est la répétition qui empêche Ruben de participer à son propre projet et pèse sur sa camarade. Le diagnostic ne donne pas automatiquement raison à l’adulte. Une règle compréhensible, une tâche précise et un autre moment pour la discuter peuvent organiser l’échange, sans constituer à eux seuls un traitement."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment la contestation empiète-t-elle sur le projet ?",
+          "points": [
+            {
+              "heading": "Chaque réponse relance un autre point",
+              "text": "La discussion s’allonge sans que la question de départ trouve une issue praticable.",
+              "examples": [
+                "Ruben passe du rangement à l’heure de début.",
+                "Il reprend un mot de la réponse au lieu de choisir une tâche."
+              ]
+            },
+            {
+              "heading": "L’objectif initial s’éloigne",
+              "text": "Le temps consacré au conflit remplace une activité souhaitée.",
+              "examples": [
+                "Le croquis reste presque vide dans le carnet.",
+                "Le tour de proposer le robot passe sans présentation."
+              ]
+            },
+            {
+              "heading": "Une autre personne prend la charge",
+              "text": "Le désaccord a des effets sur ceux qui partagent l’espace.",
+              "examples": [
+                "Inès attend une aide qui ne vient pas.",
+                "Elle finit par rassembler seule les feuilles."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour donner une place au désaccord",
+          "points": [
+            {
+              "heading": "Expliquer la règle brièvement",
+              "objective": "Rendre son but accessible sans débat sans fin.",
+              "exercise": [
+                "Nommer ce qui doit se passer maintenant.",
+                "Donner une raison concrète et vérifiable.",
+                "Vérifier la question du jeune sans exiger son approbation."
+              ],
+              "benefit": "L’explication peut rendre la demande plus lisible ; elle ne supprime pas nécessairement le mécontentement."
+            },
+            {
+              "heading": "Proposer un vrai choix",
+              "objective": "Permettre une participation dans les limites de la situation.",
+              "exercise": [
+                "Repérer deux tâches réellement possibles.",
+                "Laisser le jeune choisir entre elles.",
+                "Accompagner la tâche choisie sans ajouter un inventaire de reproches."
+              ],
+              "benefit": "Un choix réel peut aider à agir même lorsque le désaccord persiste."
+            },
+            {
+              "heading": "Prévoir la discussion séparément",
+              "objective": "Éviter que l’action urgente efface la question.",
+              "exercise": [
+                "Nommer le point qui mérite d’être repris.",
+                "Fixer un moment disponible pour l’examiner.",
+                "Y revenir effectivement avec le jeune."
+              ],
+              "benefit": "La contestation peut être entendue sans absorber tout le temps commun."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "slug": "ruben-demandes-evitees-maison",
+      "title": "Conflits répétés : quand les demandes deviennent difficiles à faire",
+      "description": "Claire hésite à parler du cartable, Yacine rappelle tout à la fois. La famille cherche une demande possible sans confisquer le projet.",
+      "context": "Le retour du club à la maison",
+      "topics": [
+        "Fatigue familiale",
+        "Demandes évitées",
+        "Organisation quotidienne"
+      ],
+      "clinical_intro": "Les conflits répétés autour des demandes peuvent peser sur toute la famille. Certains parents évitent une consigne redoutée, tandis que d’autres accumulent les rappels pour tenter de reprendre la situation. Ces réactions témoignent d’un retentissement à entendre ; elles ne prouvent pas que les parents seraient à eux seuls responsables du trouble.",
+      "opening": "Le carnet orange occupe le centre de la table. Ruben a repris les roues de son robot et ajouté un rectangle pour la partie du dessus. Son cartable est ouvert près de la porte, avec deux cahiers encore posés sur une chaise. Claire passe une première fois sans rien dire. Elle regarde l’heure du repas, puis la feuille couverte de traits. Elle sait qu’il faut préparer les affaires du lendemain et redoute la discussion qui pourrait commencer.\n\nQuand Yacine arrive, il voit le cartable, la table encombrée et le manteau resté au sol. Il rappelle les trois choses presque dans la même phrase. Ruben conteste le manteau avant même que son père ait fini. Il dit qu’il allait ranger, puis demande pourquoi on l’interrompt toujours quand il travaille. Yacine répond qu’il faut bien demander à un moment. Claire n’a plus envie d’ajouter une parole, mais le repas attend et les assiettes n’ont pas de place.\n\nRuben montre son dessin comme s’il devait prouver qu’il n’a pas passé l’heure à ne rien faire. Son robot est un vrai projet ; cela ne règle pas la question de la table. Claire dit qu’elle veut seulement pouvoir servir le repas maintenant. Elle propose qu’ils dégagent ensemble une moitié, puis qu’ils reprennent le cartable après avoir mangé. Yacine s’arrête avant d’ajouter un nouveau rappel.",
+      "ending_title": "Une moitié de table suffit d’abord",
+      "ending": "Ruben rassemble son carnet et ses crayons avec Claire. Yacine pose les assiettes sur la partie dégagée. Après le repas, ils reprennent le cartable comme annoncé ; Ruben discute encore d’un cahier, mais la demande ne devient pas un inventaire de la journée. Il termine ensuite son croquis. Claire note pour le prochain rendez-vous qu’elle souhaite parler de cette fatigue à demander les choses, et pas seulement rapporter ce que Ruben a refusé.",
+      "conclusion": "Les demandes évitées ou accumulées peuvent signaler l’épuisement d’une famille face aux conflits répétés. Une priorité et une reprise annoncée soutiennent ici le quotidien ; les parents gardent un besoin de soutien qui mérite aussi d’être entendu.",
+      "mirror": [
+        "Claire peut dire : « J’ai besoin de place pour le repas ; on regarde le cartable ensuite. » Yacine peut reconnaître qu’il a formulé trop de demandes à la fois sans renoncer à son rôle. Le croquis n’a pas besoin d’être confisqué pour obtenir une action. Les difficultés des adultes peuvent être discutées avec la clinicienne sans devenir un reproche adressé à Ruben."
+      ],
+      "clinical_focus": "Les demandes évitées à la maison",
+      "diagnostic_stage": "known",
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-ruben",
+        "nice-cg158-ruben"
+      ],
+      "continuity": {
+        "choice": "La famille dégage la table, reprend le cartable après le repas et Claire prépare une demande de soutien.",
+        "next": "Le croquis arrive au club, où une remarque d’Inès sur une roue déclenchera une réaction très vive."
+      },
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "La fatigue change aussi les échanges des adultes",
+          "text": "Le retentissement familial ne se limite pas au comportement visible du jeune. Anticiper une dispute peut conduire à éviter une demande ou à la formuler avec plusieurs autres, ce qui complique encore l’échange. Il ne s’agit pas de désigner un parent fautif. Chez Ruben, ses parents peuvent chercher avec le suivi une manière plus soutenable de communiquer, en gardant à la fois les besoins du foyer et son projet."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment les conflits occupent-ils la maison ?",
+          "points": [
+            {
+              "heading": "La demande est retardée",
+              "text": "La crainte d’une discussion rend difficile un rappel pourtant nécessaire.",
+              "examples": [
+                "Claire passe près du cartable sans parler.",
+                "Elle attend alors que l’heure du repas approche."
+              ]
+            },
+            {
+              "heading": "Les rappels s’accumulent",
+              "text": "Plusieurs demandes simultanées rendent moins clair ce qui est attendu d’abord.",
+              "examples": [
+                "Yacine évoque cahiers, manteau et table ensemble.",
+                "Ruben répond à la première remarque avant d’entendre la suite."
+              ]
+            },
+            {
+              "heading": "L’activité familiale est retardée",
+              "text": "La discussion prend une place qui dépasse le rangement initial.",
+              "examples": [
+                "Les assiettes ne peuvent pas être posées.",
+                "Le dessin devient un objet de justification au lieu d’être simplement rangé un moment."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour rendre une demande plus accessible",
+          "points": [
+            {
+              "heading": "Choisir la priorité actuelle",
+              "objective": "Éviter de traiter toutes les difficultés au même instant.",
+              "exercise": [
+                "Nommer le besoin immédiat du foyer.",
+                "Formuler une action courte et faisable.",
+                "Vérifier ce que le jeune a compris avant d’ajouter autre chose."
+              ],
+              "benefit": "Une priorité claire peut limiter la confusion, sans garantir l’absence de contestation."
+            },
+            {
+              "heading": "Annoncer la reprise",
+              "objective": "Ne pas perdre les autres tâches ni le projet du jeune.",
+              "exercise": [
+                "Dire ce qui sera repris plus tard.",
+                "Choisir un moment réaliste pour y revenir.",
+                "Respecter aussi le moment prévu pour l’activité personnelle."
+              ],
+              "benefit": "La suite devient plus prévisible sans utiliser le projet comme récompense ou menace."
+            },
+            {
+              "heading": "Parler de la fatigue au suivi",
+              "objective": "Donner une place aux besoins des parents.",
+              "exercise": [
+                "Choisir un exemple concret d’échange difficile.",
+                "Décrire aussi ce qui a parfois aidé.",
+                "Demander un soutien individualisé pour la famille."
+              ],
+              "benefit": "Les parents peuvent être accompagnés sans devoir attendre d’être à bout ni être jugés responsables de tout."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "slug": "ruben-remarque-irritation",
+      "title": "Irritation vive : une remarque prend trop de place",
+      "description": "Une remarque utile sur une roue déclenche une réponse sèche. Ruben fait une pause, puis revient au dessin et à la limite posée par Inès.",
+      "context": "Le croquis au club de robotique",
+      "topics": [
+        "Réactivité irritable",
+        "Pause encadrée",
+        "Limites des pairs"
+      ],
+      "clinical_intro": "Une réactivité irritable peut faire partie de certaines présentations du trouble oppositionnel avec provocation, sans être suffisante pour poser le diagnostic. Une réaction vive ne permet pas non plus de conclure à une irritabilité chronique. Chez Ruben, une remarque sur le dessin déclenche une réponse dont l’intensité perturbe le travail avec Inès.",
+      "opening": "Au début du club suivant, madame Vernier reprend avec Ruben la question des horaires, comme elle l’avait annoncé. Ils regardent le temps réservé au rangement et conviennent de garder les propositions de projet plus tôt dans la séance. Ruben présente alors son croquis. Inès accepte de travailler sur le robot avec lui. Elle aime l’idée de la ligne à suivre et voudrait que leur présentation soit assez claire pour les visiteurs du salon.\n\nIls se penchent sur le dessin. Inès remarque qu’une roue dépasse beaucoup plus que l’autre. « On devrait vérifier cette mesure. » Ruben répond aussitôt qu’elle veut toujours tout corriger. Il reprend le brouillon qu’elle regardait, le froisse et recule sa chaise. Il ne touche pas au matériel de l’atelier. Inès garde les mains sur son propre cahier ; elle ne sait plus si elle doit poursuivre son observation ou se taire pour éviter une nouvelle réplique.\n\nMadame Vernier s’approche. Elle décrit ce qu’elle a entendu sans dire que Ruben est impossible ou que son trouble explique tout. Elle lui propose une pause sur une chaise à proximité, dans la salle qu’elle continue d’encadrer. Le dessin peut attendre. Ruben s’y installe, encore agacé. Il a entendu la remarque sur la roue, mais pour le moment il pense surtout à la sensation d’être corrigé devant sa partenaire.",
+      "ending_title": "La roue dépasse vraiment",
+      "ending": "Après un moment, Ruben revient au dessin avec madame Vernier. Il mesure les deux côtés et voit que la remarque d’Inès était utile. « Celle-là est trop loin », dit-il. Inès répond qu’elle veut bien corriger le croquis, mais qu’elle ne veut plus qu’il lui parle de cette façon. Ruben ne trouve pas immédiatement de longue excuse. Il cesse de discuter sa limite et garde le dessin rectifié dans son carnet orange. Le travail reprend avec un peu de distance.",
+      "conclusion": "Une réaction irritable peut se calmer avant que la relation soit réparée. Ruben revient à la mesure tandis qu’Inès conserve sa limite. L’encadrement et le suivi restent nécessaires, même après cette reprise concrète.",
+      "mirror": [
+        "Inès peut dire : « Ma remarque concernait la roue ; je ne veux pas qu’on me parle ainsi. » Elle n’a pas à expliquer le trouble ni à trouver la phrase qui calmera Ruben. Madame Vernier peut encadrer une pause et protéger la possibilité de parler de chacun. Une correction utile ne rend pas une réponse blessante acceptable."
+      ],
+      "clinical_focus": "Une remarque devient une irritation vive",
+      "diagnostic_stage": "known",
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-ruben",
+        "nice-cg158-ruben"
+      ],
+      "continuity": {
+        "choice": "Ruben accepte la pause, vérifie la roue puis respecte la limite d’Inès sans réparation instantanée.",
+        "next": "À la séance suivante, une pièce mal classée pose une autre question : accepter sa part dans une erreur."
+      },
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Une réaction rapide ne résume pas la personne",
+          "text": "L’irritation peut rendre une remarque difficile à recevoir et accélérer une réponse qui blesse. Elle ne prouve ni une intention permanente d’agresser ni un sous-type clinique particulier. Pour Ruben, la question utile sur le dessin reste distincte de la façon dont il a parlé. Une pause encadrée peut rendre un retour possible, sans demander à Inès de le calmer ni d’abandonner sa propre limite."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment la réaction vive interrompt-elle le travail ?",
+          "points": [
+            {
+              "heading": "La réponse arrive avant l’examen du fait",
+              "text": "Le contenu de la remarque est recouvert par la réaction à être corrigé.",
+              "examples": [
+                "Ruben répond sur l’habitude d’Inès de corriger.",
+                "Il n’a pas encore vérifié les deux mesures."
+              ]
+            },
+            {
+              "heading": "Le geste ferme la tâche",
+              "text": "Un geste de colère peut interrompre une activité sans résoudre le désaccord.",
+              "examples": [
+                "Le brouillon est froissé.",
+                "La chaise recule alors que le dessin devait être comparé."
+              ]
+            },
+            {
+              "heading": "La partenaire hésite à parler",
+              "text": "La réaction a un effet sur la liberté de l’autre dans le travail commun.",
+              "examples": [
+                "Inès ne sait plus si elle peut poursuivre son observation.",
+                "Elle garde son cahier devant elle au lieu de reprendre la mesure."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour préparer un retour à la tâche",
+          "points": [
+            {
+              "heading": "Nommer le fait observable",
+              "objective": "Intervenir sans étiquette ni humiliation.",
+              "exercise": [
+                "L’adulte reprend la parole ou le geste précis.",
+                "Il rappelle la limite de respect attendue.",
+                "Il évite d’énumérer les anciens conflits devant le groupe."
+              ],
+              "benefit": "Une intervention ciblée peut contenir l’échange sans réduire le jeune à sa réaction."
+            },
+            {
+              "heading": "Convenir d’une pause sûre",
+              "objective": "Réduire la pression tout en maintenant l’encadrement.",
+              "exercise": [
+                "Proposer un endroit disponible sous la responsabilité de l’adulte.",
+                "Suspendre les manipulations et la discussion du dessin.",
+                "Vérifier quand un échange bref peut reprendre."
+              ],
+              "benefit": "La pause peut permettre une reprise ; elle n’est ni une punition ni une garantie de calme."
+            },
+            {
+              "heading": "Revenir au point concret",
+              "objective": "Distinguer l’observation utile et la parole blessante.",
+              "exercise": [
+                "Reprendre la mesure ou l’information concernée.",
+                "Écouter la limite exprimée par le camarade.",
+                "Décider ensemble ce qui peut être poursuivi maintenant."
+              ],
+              "benefit": "Le travail peut avancer sans demander à l’autre d’oublier ce qui l’a blessé."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "slug": "ruben-erreur-et-responsabilite",
+      "title": "Reconnaître une erreur sans accuser l’autre",
+      "description": "Une pièce manque et Ruben accuse Inès. Le carnet permet de revenir à un fait, puis de corriger la liste sans procès public.",
+      "context": "Chercher une pièce dans le rangement commun",
+      "topics": [
+        "Responsabilité",
+        "Accusation",
+        "Réparation concrète"
+      ],
+      "clinical_intro": "Attribuer ses erreurs à autrui peut apparaître dans certaines présentations du trouble oppositionnel avec provocation. Une accusation ne permet pourtant pas de conclure à un mensonge calculé ou à une absence d’empathie. Revenir aux faits et rendre une correction possible aide à traiter les conséquences sans transformer l’erreur en jugement global sur le jeune.",
+      "opening": "La séance suivante commence avec le croquis corrigé. Madame Vernier a préparé l’espace de travail et supervise l’assemblage. Inès lit les noms de la liste pendant que Ruben vérifie les éléments autorisés pour leur projet. Au milieu de la vérification, il s’arrête : une pièce qu’il attendait n’est pas à l’emplacement indiqué. Il regarde immédiatement Inès. « Tu l’as encore changée de place. » Elle répond qu’elle n’y a pas touché.\n\nRuben ouvre le carnet orange pour montrer qu’il sait où elle devait être. La ligne porte pourtant une correction de sa main, faite à la fin de la séance précédente. Il avait modifié l’indication de rangement après une consigne de l’enseignante. Inès le lui montre. Il dit d’abord que cela ne prouve rien, puis soutient que la liste n’aurait pas été confuse si elle ne lui avait pas demandé de vérifier les mesures.\n\nMadame Vernier interrompt l’assemblage. Elle garde le matériel sous sa responsabilité et demande qu’ils cessent les accusations avant de poursuivre la recherche. Inès dit qu’elle accepte de chercher, mais pas d’être tenue responsable sans raison. Ruben fixe la ligne corrigée. Il se rappelle maintenant l’avoir écrite, sans savoir encore où la pièce se trouve réellement. Admettre ce point lui semble ouvrir la porte à tous les reproches précédents. La professeure lui propose de corriger seulement l’indication erronée, à leur table, sans en faire une annonce au club.",
+      "ending_title": "La ligne est corrigée",
+      "ending": "Ruben barre proprement l’indication fausse et écrit celle dont il se souvient. « Je t’ai accusée trop vite », dit-il à Inès. Elle répond qu’elle veut surtout qu’il arrête de lui attribuer ce qu’il ne sait pas. Elle accepte de reprendre la recherche avec madame Vernier, mais garde son cahier de son côté. La pièce n’a pas encore été retrouvée. Ils savent désormais où chercher ensemble sans maintenir l’accusation comme point de départ.",
+      "conclusion": "Reconnaître une erreur peut commencer par un fait précis et une réparation limitée. Ruben corrige sa liste et retire son accusation ; la recherche et la confiance restent deux questions différentes, dont aucune ne se règle par un jugement sur sa personne.",
+      "mirror": [
+        "Madame Vernier peut dire : « Nous savons que tu as modifié cette ligne ; corrigeons-la avant de chercher. » Inès peut demander que l’accusation cesse sans être obligée de rassurer Ruben. Le proche ou l’adulte évite de conclure qu’il ment toujours. Une réparation concrète n’exige ni confession publique ni pardon immédiat."
+      ],
+      "clinical_focus": "Reporter son erreur sur un autre",
+      "diagnostic_stage": "known",
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-ruben",
+        "nice-cg158-ruben"
+      ],
+      "continuity": {
+        "choice": "Ruben corrige la liste et retire son accusation ; la recherche avec l’adulte reste à poursuivre.",
+        "next": "La pièce retrouvée permet de reprendre le travail, mais la relation reste tendue et une plaisanterie répétée l’abîmera."
+      },
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Corriger un fait sans dresser un portrait moral",
+          "text": "Une accusation peut éviter momentanément à son auteur de reconnaître une erreur, tout en déplaçant le problème vers la relation. On ne peut pas en déduire automatiquement une intention calculée. Ruben a besoin de revenir à ce qui est vérifiable et à la tâche qui reste à faire. Inès peut demander l’arrêt de l’accusation ; la correction de la liste ne l’oblige pas à retrouver immédiatement la même confiance."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment le rejet de responsabilité bloque-t-il l’activité ?",
+          "points": [
+            {
+              "heading": "Une cause est attribuée trop vite",
+              "text": "La personne accusée devient l’explication avant que les faits soient examinés.",
+              "examples": [
+                "Ruben désigne Inès dès qu’il constate l’absence.",
+                "Il n’a pas encore relu sa propre correction."
+              ]
+            },
+            {
+              "heading": "La trace est contestée",
+              "text": "Un élément vérifiable ne suffit pas toujours à mettre fin à la défense.",
+              "examples": [
+                "Ruben récuse d’abord la ligne écrite de sa main.",
+                "Il revient ensuite sur la remarque précédente concernant les roues."
+              ]
+            },
+            {
+              "heading": "Le problème pratique devient relationnel",
+              "text": "Le temps de recherche est remplacé par la nécessité de répondre à l’accusation.",
+              "examples": [
+                "Inès doit dire qu’elle n’a pas déplacé la pièce.",
+                "L’assemblage est suspendu pendant la clarification."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour rendre une correction possible",
+          "points": [
+            {
+              "heading": "Revenir à un fait limité",
+              "objective": "Éviter que toute l’histoire des conflits entre dans l’échange.",
+              "exercise": [
+                "Choisir la trace pertinente, ici la ligne du carnet.",
+                "Décrire ce qu’elle montre et ce qu’elle ne montre pas.",
+                "Laisser les autres accusations de côté pour traiter ce point."
+              ],
+              "benefit": "Un fait circonscrit peut rendre la discussion plus précise sans trancher toutes les responsabilités."
+            },
+            {
+              "heading": "Permettre de corriger sans spectacle",
+              "objective": "Réduire la pression d’une confession devant le groupe.",
+              "exercise": [
+                "L’adulte propose une correction à la table concernée.",
+                "Le jeune modifie l’information inexacte.",
+                "La personne visée peut faire entendre sa limite."
+              ],
+              "benefit": "La correction retrouve un but pratique sans humiliation publique."
+            },
+            {
+              "heading": "Séparer réparation et identité",
+              "objective": "Répondre à l’effet produit sans étiqueter le jeune.",
+              "exercise": [
+                "Nommer l’accusation trop rapide.",
+                "Proposer une réparation proportionnée, comme corriger la liste et reprendre la recherche.",
+                "Accepter que la confiance revienne à son rythme."
+              ],
+              "benefit": "Une action utile peut réparer une part du problème sans effacer automatiquement la blessure relationnelle."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "slug": "ruben-provocation-et-camarades",
+      "title": "Provocation répétée : quand une plaisanterie éloigne",
+      "description": "Inès demande à Ruben d’arrêter de l’imiter. Lorsqu’il recommence, elle choisit une autre table et l’adulte organise la distance.",
+      "context": "La reprise du schéma au club",
+      "topics": [
+        "Provocation",
+        "Relations avec les pairs",
+        "Respect du retrait"
+      ],
+      "clinical_intro": "Des provocations répétées peuvent abîmer les relations avec les camarades dans le trouble oppositionnel avec provocation. Une plaisanterie cesse d’être partagée lorsque l’autre demande qu’elle s’arrête et qu’elle continue. L’adulte peut intervenir sur ce comportement précis tout en respectant le droit du camarade à prendre de la distance.",
+      "opening": "La pièce est retrouvée avec madame Vernier dans le rangement commun. L’indication corrigée a permis de choisir le bon emplacement à vérifier. Ruben voudrait que cette découverte efface la gêne de l’accusation. Inès revient au schéma, mais reste plus réservée. Elle demande simplement de vérifier une mesure avant d’écrire la version définitive. Ruben répète sa phrase avec une voix exagérément appliquée, comme s’il présentait une émission de contrôle des règles.\n\nUn camarade sourit d’abord. Inès, elle, ne rit pas. « Arrête de m’imiter. » Ruben répond que c’était une plaisanterie. Quelques instants plus tard, quand elle demande le carnet pour regarder le dessin, il reprend le même ton. Le camarade détourne les yeux. Inès ferme son cahier et demande à madame Vernier si elle peut terminer son dessin à une autre table. Elle ne veut plus passer la séance à demander qu’on lui parle normalement.\n\nLa professeure arrête l’imitation et nomme la demande d’Inès qui n’a pas été respectée. Elle ne demande pas à celle-ci de comprendre Ruben ou de rire pour faire retomber la tension. Deux espaces encadrés sont disponibles. Ruben regarde sa partenaire emporter son cahier. Il avait pensé garder l’attention du groupe ; il se retrouve avec une moitié de schéma et une conversation qu’Inès ne souhaite plus continuer maintenant.",
+      "ending_title": "Deux tables pour finir",
+      "ending": "Madame Vernier installe Inès à une table voisine et donne à Ruben sa partie du schéma à terminer. Les deux restent dans le groupe encadré. Ruben voudrait l’appeler pour expliquer encore qu’il plaisantait, mais la professeure lui rappelle qu’Inès a demandé une pause. Il garde sa remarque pour lui et poursuit son dessin. Rien ne l’oblige à se réjouir de cette distance ; il peut néanmoins cesser de la solliciter.",
+      "conclusion": "La provocation répétée peut coûter une coopération que le jeune souhaitait garder. Ruben poursuit sa tâche sans obtenir une réconciliation immédiate. La limite d’Inès est respectée, tandis que l’adulte maintient une place de travail pour chacun.",
+      "mirror": [
+        "Inès peut dire : « J’ai demandé que tu arrêtes ; je vais travailler ailleurs maintenant. » Elle n’a pas à calmer Ruben ni à accepter une explication répétée. L’adulte organise cette distance et garde l’encadrement. Un parent peut ensuite aider Ruben à comprendre l’effet de son comportement sans l’appeler méchant ni exiger qu’Inès lui pardonne."
+      ],
+      "clinical_focus": "Provoquer éloigne les camarades",
+      "diagnostic_stage": "known",
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-ruben",
+        "nice-cg158-ruben"
+      ],
+      "continuity": {
+        "choice": "Ruben travaille séparément sous encadrement et accepte de ne pas solliciter Inès pendant sa pause.",
+        "next": "Ce travail séparé montre une difficulté différente : Ruben ne comprend pas une consigne écrite et son refus ne peut être interprété automatiquement."
+      },
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "L’effet sur l’autre compte même après le mot plaisanterie",
+          "text": "Dire qu’une parole était une plaisanterie ne suffit pas à annuler son effet ni la limite exprimée. La provocation répétée peut contribuer à l’éloignement des pairs, sans que cet éloignement devienne une punition à organiser. Ici, Inès choisit une distance pour pouvoir travailler. Ruben peut apprendre à reconnaître cette limite et préparer un autre échange, mais il ne peut pas exiger qu’elle soit disponible immédiatement."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment la provocation transforme-t-elle la relation ?",
+          "points": [
+            {
+              "heading": "La limite n’arrête pas la répétition",
+              "text": "Le comportement continue alors que l’autre a clairement demandé qu’il cesse.",
+              "examples": [
+                "Inès dit de ne plus l’imiter.",
+                "Ruben reprend le ton lors de la demande du carnet."
+              ]
+            },
+            {
+              "heading": "L’attention recherchée se transforme",
+              "text": "La réaction du groupe change lorsque la plaisanterie devient blessante.",
+              "examples": [
+                "Un camarade sourit au premier essai.",
+                "Il détourne ensuite les yeux au lieu de participer."
+              ]
+            },
+            {
+              "heading": "La coopération se réduit",
+              "text": "La personne visée cherche à retrouver un espace où elle peut travailler.",
+              "examples": [
+                "Inès ferme son cahier.",
+                "Elle demande une autre table pour terminer son dessin."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour arrêter la provocation sans humilier",
+          "points": [
+            {
+              "heading": "Nommer ce qui doit cesser",
+              "objective": "Intervenir sur le comportement précis.",
+              "exercise": [
+                "L’adulte reprend l’imitation ou la parole concernée.",
+                "Il rappelle que la demande d’arrêt a été formulée.",
+                "Il fait cesser l’échange sans exposer le diagnostic au groupe."
+              ],
+              "benefit": "La limite peut devenir claire sans faire du jeune un spectacle."
+            },
+            {
+              "heading": "Respecter la distance demandée",
+              "objective": "Protéger le droit de l’autre à choisir sa place.",
+              "exercise": [
+                "Demander au camarade ce qui lui permettrait de poursuivre.",
+                "Organiser un espace encadré disponible.",
+                "Ne pas conditionner cette possibilité à un pardon ou à une explication."
+              ],
+              "benefit": "Le retrait peut préserver une activité et une limite, sans être utilisé pour exclure l’autre jeune."
+            },
+            {
+              "heading": "Préparer une reprise sans l’imposer",
+              "objective": "Laisser une possibilité de réparation plus tard.",
+              "exercise": [
+                "Identifier ce que l’on doit arrêter.",
+                "Préparer une phrase ou une action respectueuse.",
+                "Attendre que l’autre accepte éventuellement de reprendre l’échange."
+              ],
+              "benefit": "Une démarche de réparation a plus de sens lorsqu’elle respecte aussi le refus de parler maintenant."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -111,6 +111,624 @@
         "choice": "Irma contacte Mme Faure, transmet une proposition de date avec l’aide de Maud et conserve son rendez-vous.",
         "next": "La consultation abordera le décalage entre ses besoins matériels et les impulsions."
       }
+    },
+    {
+      "number": 2,
+      "slug": "irma-besoin-et-impulsion",
+      "title": "Impulsion de vol : le besoin matériel ne suffit pas à l’expliquer",
+      "description": "Irma dispose du budget nécessaire à la classe. Elle explique au suivi pourquoi cela ne résout pas sa difficulté avec les impulsions.",
+      "context": "Séparer budget et question clinique",
+      "topics": [
+        "besoin matériel",
+        "motif apparent",
+        "suivi spécialisé"
+      ],
+      "clinical_focus": "Une impulsion sans besoin matériel",
+      "diagnostic_stage": "known",
+      "clinical_intro": "La kleptomanie ne se réduit pas à voler pour répondre à un besoin matériel ou obtenir un profit. Cette absence de motif apparent fait partie de l’évaluation clinique. Elle ne signifie pas que les objets doivent toujours être sans valeur ou sans usage. Disposer de moyens suffisants ne répond donc pas automatiquement à la difficulté.",
+      "opening": "Irma a apporté son classeur orange au rendez-vous parce qu’elle sort directement du studio. Le budget de la classe est rangé dans la poche de devant. Joëlle a accepté la date proposée ; il reste à confirmer la durée et quelques détails d’organisation. Irma a fait ses calculs, avec une marge pour les fournitures ordinaires de l’atelier. Sur ce point, elle sait ce qu’elle peut prévoir.\n\nChez Mme Faure, elle laisse pourtant le classeur fermé. « Je peux acheter ce dont j’ai besoin. Ce n’est pas la réponse. » Elle a peur que cette phrase rende sa difficulté encore plus incompréhensible. Si le problème ne se résume pas à un manque d’argent, elle craint qu’on lui réponde qu’il suffirait de vouloir autrement. Elle voudrait expliquer sans raconter l’acte antérieur ni donner des détails dont la consultation n’a pas besoin à ce moment-là.\n\nMme Faure lui propose de distinguer la question du budget et celle des impulsions déjà abordées dans leur suivi. Irma précise que réussir les comptes ne fait pas disparaître la préoccupation intérieure. Elle n’a pas besoin d’inventer un besoin pour la rendre logique. Le budget reste une responsabilité professionnelle à terminer ; le soin reste un travail différent. Elle trouve cette séparation plus claire que les longs arguments qu’elle avait préparés pour prouver qu’elle sait tenir un atelier. Elle pourra transmettre les chiffres à Maud sans transformer ce document en preuve sur son état.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Le motif matériel ne résume pas le trouble",
+          "text": "L’absence de motif apparent de besoin ou de profit distingue la kleptomanie de nombreuses autres situations de vol, au sein d’une évaluation plus large. Les objets ne doivent pas nécessairement être dépourvus de valeur ou d’usage. Irma peut donc disposer d’un budget correct et rencontrer une difficulté clinique réelle. Cela explique pourquoi les comptes ne constituent pas un soin ; cela n’approuve aucun acte et n’en efface pas les conséquences."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment ce décalage devient-il difficile à expliquer ?",
+          "points": [
+            {
+              "heading": "Les moyens existent",
+              "text": "La personne peut répondre à ses besoins matériels sans que cela résolve les impulsions.",
+              "examples": [
+                "Irma a prévu les dépenses de l’atelier.",
+                "Elle dispose d’une marge pour les fournitures ordinaires."
+              ]
+            },
+            {
+              "heading": "Une explication attendue ne convient pas",
+              "text": "Le besoin ou le profit ne rend pas compte de ce qu’elle décrit.",
+              "examples": [
+                "Irma refuse d’attribuer sa difficulté à un budget insuffisant.",
+                "Elle ne cherche pas une utilité professionnelle pour justifier l’impulsion."
+              ]
+            },
+            {
+              "heading": "La crainte du jugement gêne la parole",
+              "text": "Un décalage difficile à comprendre peut rendre la demande d’aide hésitante.",
+              "examples": [
+                "Irma redoute qu’on lui parle seulement de volonté.",
+                "Elle prépare des arguments sur son travail plutôt que sa question clinique."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour séparer les questions utiles",
+          "points": [
+            {
+              "heading": "Distinguer les deux sujets",
+              "objective": "Éviter qu’un document professionnel serve de réponse clinique.",
+              "exercise": [
+                "Nommer ce qui concerne les dépenses de l’atelier.",
+                "Nommer ce qui concerne les impulsions et leur retentissement.",
+                "Adresser chaque sujet à l’interlocuteur compétent."
+              ],
+              "benefit": "La distinction peut rendre la discussion plus précise sans résoudre à elle seule les impulsions."
+            },
+            {
+              "heading": "Préparer une question au suivi",
+              "objective": "Remplacer une justification par une demande de compréhension.",
+              "exercise": [
+                "Écrire la difficulté que l’on ne sait pas expliquer.",
+                "Demander comment elle s’inscrit dans le diagnostic déjà évalué.",
+                "Signaler les réponses ou mots qui restent obscurs."
+              ],
+              "benefit": "La consultation peut éclairer le vécu sans exiger une démonstration ni un détail opératoire."
+            },
+            {
+              "heading": "Choisir une phrase de demande d’aide",
+              "objective": "Rendre le besoin dicible.",
+              "exercise": [
+                "Dire que les moyens matériels ne répondent pas au problème.",
+                "Préciser le type d’aide clinique recherché.",
+                "Convenir avec le professionnel du prochain point à travailler."
+              ],
+              "benefit": "Une phrase simple peut ouvrir le soin sans chercher à rendre l’acte acceptable."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Les comptes gardent leur fonction",
+      "ending": "De retour au studio, Irma termine le budget et le transmet à Maud. Elle ne lui demande pas d’y lire un progrès de santé. Avec Mme Faure, elle a accepté de revenir au prochain rendez-vous sur ce qu’elle a éprouvé après un acte antérieur. Cette question restera dans le cabinet. Pour la classe, les chiffres sont maintenant disponibles ; pour le soin, un sujet précis est ouvert sans explication matérielle inventée.",
+      "conclusion": "Le budget et les impulsions répondent à des questions différentes. Comprendre ce décalage peut aider Irma à demander un soin sans fabriquer un motif de besoin. Elle garde ses responsabilités professionnelles et les conséquences des actes séparées de cette clarification clinique.",
+      "mirror": [
+        "Maud peut utiliser le budget pour préparer l’atelier sans en tirer une conclusion sur la santé d’Irma. Salomé, si Irma lui parle de ce décalage, peut écouter : « Tu me dis que l’argent n’explique pas la difficulté. » Elle n’a pas à trouver un motif caché ni à défendre les actes pour reconnaître la demande d’aide."
+      ],
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-hrb"
+      ],
+      "continuity": {
+        "choice": "Irma termine le budget et accepte d’aborder au rendez-vous suivant le vécu après l’acte antérieur.",
+        "next": "Le suivi examinera le bref soulagement déjà éprouvé, sans reconstitution de l’acte."
+      }
+    },
+    {
+      "number": 3,
+      "slug": "irma-soulagement-bref",
+      "title": "Soulagement bref : pourquoi il ne règle rien",
+      "description": "En consultation, Irma décrit le relâchement qui avait suivi un acte ancien, puis les difficultés revenues. Elle prépare la suite du soin.",
+      "context": "Revenir sur un vécu dans le cabinet",
+      "topics": [
+        "soulagement bref",
+        "suites de l’acte",
+        "objectif de soin"
+      ],
+      "clinical_focus": "Le soulagement qui ne dure pas",
+      "diagnostic_stage": "known",
+      "clinical_intro": "Un soulagement ou une gratification peut accompagner un acte dans la kleptomanie, puis laisser place à des difficultés persistantes. Ce contraste aide à comprendre le trouble sans approuver l’acte. Décrire le vécu au professionnel ne nécessite pas d’en détailler la réalisation ; les conséquences pour autrui et les besoins de soin demeurent distincts.",
+      "opening": "La feuille qu’Irma sort de son carnet personnel ne ressemble pas au budget de la classe. Elle porte quelques mots écrits après le dernier rendez-vous : tension, bref relâchement, puis inquiétude. Elle veut parler d’un acte antérieur au début des préparatifs. Les démarches concernant ses conséquences sont déjà engagées avec les interlocuteurs compétents. Mme Faure et elle se concentrent aujourd’hui sur le vécu qu’Irma essaie de nommer.\n\n« Il y a eu un moment où ça s’est desserré. Très court. » Elle s’arrête, gênée de prononcer une phrase qui pourrait sembler rendre l’acte attirant. Elle n’en donne ni le lieu, ni l’objet, ni la manière. Ce qui l’importe est le contraste : une tension momentanément relâchée n’avait pas fait disparaître les suites ni empêché la honte. Elle n’a pas besoin de raconter davantage pour poser cette question au suivi.\n\nMme Faure lui demande ce qu’elle voudrait que cette note aide à travailler. Irma répond qu’elle souhaite comprendre pourquoi le fait d’avoir regretté n’a pas suffi à rendre toute impulsion impossible. Elle ne cherche pas une excuse. Après le rendez-vous, Salomé l’attend pour un repas. Irma avait pensé annuler, comme si toute conversation ordinaire était désormais déplacée. Elle regarde l’heure et décide de garder ce moment. Elle pourra dire qu’elle sort d’une consultation difficile, sans transformer la table de son amie en prolongement du cabinet.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Le relâchement immédiat n’efface pas les suites",
+          "text": "La kleptomanie peut associer tension avant l’acte et soulagement ou gratification pendant ou juste après. Ce vécu immédiat ne décrit pas l’ensemble de ses conséquences. Le regret et la honte peuvent ensuite être importants sans empêcher automatiquement la répétition. Irma apporte ce contraste au suivi pour le comprendre. Le reconnaître ne retire ni le tort subi par autrui ni sa responsabilité de poursuivre les démarches engagées."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment le contraste entre avant et après apparaît-il ?",
+          "points": [
+            {
+              "heading": "Un changement bref est identifié",
+              "text": "La personne peut décrire un relâchement limité sans en faire un bénéfice durable.",
+              "examples": [
+                "Irma parle d’un moment très court.",
+                "Elle distingue ce moment de ce qu’elle a ressenti ensuite."
+              ]
+            },
+            {
+              "heading": "Les difficultés persistent",
+              "text": "La fin momentanée d’une tension ne clôt pas les suites de l’acte.",
+              "examples": [
+                "L’inquiétude figure aussi sur la note.",
+                "Les démarches concernant les conséquences restent engagées."
+              ]
+            },
+            {
+              "heading": "Le regret ne suffit pas au soin",
+              "text": "Une émotion douloureuse ne constitue pas à elle seule un moyen de prévenir toute répétition.",
+              "examples": [
+                "Irma demande pourquoi le regret n’a pas tout réglé.",
+                "Elle garde son rendez-vous malgré la gêne de parler du soulagement."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour préparer un travail clinique précis",
+          "points": [
+            {
+              "heading": "Nommer séparément les moments",
+              "objective": "Décrire le vécu sans reconstitution de l’acte.",
+              "exercise": [
+                "Retenir quelques mots pour ce qui précédait.",
+                "Nommer le changement bref puis ce qui a suivi.",
+                "Éviter les détails de réalisation qui ne sont pas nécessaires à cette question."
+              ],
+              "benefit": "La consultation peut s’appuyer sur le contraste vécu sans transformer la description en mode d’emploi."
+            },
+            {
+              "heading": "Transmettre la note au professionnel",
+              "objective": "Mettre le repère au service du suivi.",
+              "exercise": [
+                "Choisir ce que l’on souhaite apporter au rendez-vous.",
+                "Préciser ce qui est certain et ce qui reste difficile à nommer.",
+                "Demander comment utiliser cette information dans le soin."
+              ],
+              "benefit": "Une note limitée peut faciliter la parole sans remplacer l’évaluation clinique."
+            },
+            {
+              "heading": "Convenir d’un objectif de discussion",
+              "objective": "Éviter une promesse impossible comme seule réponse.",
+              "exercise": [
+                "Formuler la question que l’on veut comprendre.",
+                "Demander ce qui peut être travaillé avec le professionnel.",
+                "Garder les démarches sur les conséquences auprès des interlocuteurs concernés."
+              ],
+              "benefit": "Le soin peut avancer sans confondre compréhension, approbation et réparation."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Le repas reste au programme",
+      "ending": "Irma laisse à Mme Faure la note qu’elles ont commentée et convient de poursuivre ce travail. Elle rejoint ensuite Salomé. « J’ai parlé d’un moment difficile ; je n’ai pas envie de raconter l’acte », dit-elle. Salomé accepte et lui demande si elle préfère manger tout de suite ou marcher quelques minutes avant. Irma choisit la table. Le repas n’efface rien, mais elle ne s’en prive pas pour ajouter une sanction à la honte déjà présente.",
+      "conclusion": "Un soulagement immédiat peut coexister avec des suites pénibles et des conséquences réelles. Irma en parle dans le soin sans chercher à rendre l’acte acceptable. Elle garde aussi une relation ordinaire, qui ne remplace ni le suivi ni les démarches engagées.",
+      "mirror": [
+        "Salomé peut répondre : « Tu peux me dire que c’était difficile sans me raconter ce que tu ne veux pas détailler. » Elle n’a pas à se faire expliquer l’acte pour partager un repas. Elle peut aussi dire ses propres limites d’écoute. Reconnaître la difficulté d’Irma ne revient pas à demander aux personnes lésées de pardonner."
+      ],
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-hrb"
+      ],
+      "continuity": {
+        "choice": "Irma transmet sa note au suivi et rejoint Salomé pour le repas malgré la honte.",
+        "next": "Au repas, la honte apparaîtra dans sa difficulté à accepter une participation ordinaire aux affiches."
+      }
+    },
+    {
+      "number": 4,
+      "slug": "irma-honte-et-place",
+      "title": "Honte après les actes : quand elle envahit toute la personne",
+      "description": "Salomé demande à Irma son avis sur des affiches. La honte lui fait croire qu’elle ne mérite plus d’être consultée.",
+      "context": "Un repas avec Salomé",
+      "topics": [
+        "honte",
+        "jugement sur soi",
+        "relation ordinaire"
+      ],
+      "clinical_focus": "La honte après les actes",
+      "diagnostic_stage": "known",
+      "clinical_intro": "La honte peut dépasser le jugement porté sur un acte et devenir une condamnation de toute la personne. Dans la kleptomanie, culpabilité et honte ne suffisent pas à empêcher automatiquement les répétitions. Reconnaître les conséquences reste nécessaire, tandis que le soin et les liens ordinaires peuvent se poursuivre sans humiliation ni pardon exigé d’autrui.",
+      "opening": "Salomé pose deux assiettes sur la table et fait glisser son téléphone vers Irma. Le comité du quartier hésite entre plusieurs affiches pour annoncer une rencontre. Elle voudrait son avis sur les couleurs. D’habitude, Irma aurait repéré en quelques secondes une lettre illisible ou un contraste trop faible. Elle connaît ce plaisir de discuter une affiche sans y passer la soirée.\n\nCette fois, elle repousse doucement le téléphone. « Demande à quelqu’un d’autre. » Salomé croit d’abord qu’elle est fatiguée après la consultation. Irma hésite puis ajoute qu’elle ne se sent pas très bien placée pour donner son avis sur quoi que ce soit. Le lien lui paraît évident intérieurement : puisqu’elle a commis un acte qu’elle regrette, elle ne devrait plus être sollicitée comme quelqu’un de compétent ou de fiable, même pour un choix de couleur.\n\nSalomé ne connaît que ce qu’Irma a choisi de lui confier. Elle ne peut ni régler les conséquences ni parler au nom des personnes concernées. Elle répond seulement qu’elle demandait un regard sur l’affiche, pas une garantie sur toute sa vie. Irma reste silencieuse. Elle ne veut pas que son amie minimise l’acte pour la rassurer. Elle voudrait pouvoir accepter cette petite place à table sans avoir à entendre que tout serait pardonné. Les couleurs sur l’écran n’ont pas changé ; c’est le droit de s’y intéresser qui lui semble soudain difficile.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "La honte peut généraliser le jugement",
+          "text": "Le jugement porté sur un acte peut s’étendre à l’ensemble de la personne : ses compétences, ses relations, sa possibilité d’être consultée. Cette extension de la honte n’aide pas nécessairement à traiter le trouble ou ses conséquences. Irma peut reconnaître un tort sans conclure qu’elle ne possède plus aucun savoir professionnel. Son amie peut maintenir une invitation ordinaire sans réhabiliter l’acte ni exiger le pardon des personnes lésées."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment la honte déborde-t-elle la question de l’acte ?",
+          "points": [
+            {
+              "heading": "La compétence paraît illégitime",
+              "text": "Un jugement moral global recouvre un savoir qui existe toujours.",
+              "examples": [
+                "Irma refuse de commenter les couleurs.",
+                "Elle pense ne plus être bien placée pour aucun avis."
+              ]
+            },
+            {
+              "heading": "Le lien ordinaire devient suspect",
+              "text": "Une invitation simple peut sembler incompatible avec le regret.",
+              "examples": [
+                "Elle avait envisagé d’annuler le repas.",
+                "Elle hésite à participer à une discussion sans rapport avec les conséquences."
+              ]
+            },
+            {
+              "heading": "Le soutien risque d’être confondu avec une absolution",
+              "text": "La personne peut craindre qu’être accueillie signifie que le tort est minimisé.",
+              "examples": [
+                "Irma ne veut pas entendre que tout serait pardonné.",
+                "Salomé précise qu’elle demande seulement un regard sur une affiche."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour demander un soutien sans effacer le tort",
+          "points": [
+            {
+              "heading": "Décrire le besoin présent",
+              "objective": "Dire ce qui rend la relation difficile maintenant.",
+              "exercise": [
+                "Nommer le sentiment de ne plus mériter d’être consulté.",
+                "Préciser que l’on ne demande pas de minimiser les conséquences.",
+                "Dire quelle forme d’échange serait supportable."
+              ],
+              "benefit": "Une demande claire peut éviter que le proche cherche à rassurer par une absolution qu’il ne peut donner."
+            },
+            {
+              "heading": "Vérifier le soutien possible",
+              "objective": "Respecter aussi la place du proche.",
+              "exercise": [
+                "Demander s’il peut écouter un moment.",
+                "Entendre ses limites sans réclamer une disponibilité totale.",
+                "Convenir d’un temps ou d’une activité précise."
+              ],
+              "benefit": "Un accord limité peut soutenir le lien sans transférer la responsabilité du soin."
+            },
+            {
+              "heading": "Garder un moment ordinaire",
+              "objective": "Laisser une place aux autres dimensions de la personne.",
+              "exercise": [
+                "Choisir une activité partagée qui ne traite pas les conséquences.",
+                "Y participer à la mesure de sa disponibilité.",
+                "Maintenir séparément le suivi et les démarches nécessaires."
+              ],
+              "benefit": "La vie relationnelle peut continuer sans devenir une preuve d’innocence ou de guérison."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Une heure pour les couleurs",
+      "ending": "Irma reprend le téléphone. Elle trouve une des affiches trop chargée et rit de la taille minuscule de la date. Salomé lui propose de les regarder plus tranquillement pendant une heure, la semaine suivante. Elle ne promet pas d’être disponible à tout moment. Irma accepte ce créneau. Le repas continue avec d’autres sujets. Le regret reste là, mais il n’a pas décidé à lui seul de toute leur soirée.",
+      "conclusion": "La honte peut faire croire qu’un acte résume toute une personne. Irma conserve la possibilité de participer à une discussion et de demander un soutien limité, tout en assumant les conséquences. Ni l’amitié ni le soin ne nécessitent une humiliation permanente.",
+      "mirror": [
+        "Salomé peut dire : « Je ne règle pas ce qui s’est passé ; je te demande ton avis sur cette affiche. » Elle peut proposer une heure et garder ses autres engagements. Elle n’a pas à défendre l’acte, garantir l’avenir ou obtenir un pardon. Une conversation ordinaire peut exister à côté des démarches qu’Irma poursuit elle-même."
+      ],
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-hrb"
+      ],
+      "continuity": {
+        "choice": "Irma accepte un créneau d’une heure avec Salomé pour regarder les affiches.",
+        "next": "Un changement d’horaire de la classe fera apparaître un contexte émotionnel difficile au studio."
+      }
+    },
+    {
+      "number": 5,
+      "slug": "irma-contexte-et-solitude",
+      "title": "Contexte émotionnel : observer sans chercher une cause unique",
+      "description": "Un changement d’horaire contrarie Irma. Elle remarque une impulsion plus présente et prépare une observation limitée pour le suivi.",
+      "context": "Un contretemps dans la réservation",
+      "topics": [
+        "contexte émotionnel",
+        "solitude",
+        "observation prudente"
+      ],
+      "clinical_focus": "Les contextes émotionnels difficiles",
+      "diagnostic_stage": "known",
+      "clinical_intro": "Certains contextes émotionnels peuvent être associés aux impulsions dans la kleptomanie, mais leurs liens varient selon les personnes et les moments. Une contrariété ou un sentiment de solitude ne rend pas un acte inévitable. Explorer ces associations avec le professionnel permet de garder les nuances et d’éviter d’attribuer la responsabilité aux proches.",
+      "opening": "Le message de Joëlle arrive au moment où Maud range ses affaires. Un changement de transport oblige la classe à venir plus tôt que prévu. La date reste la même, mais l’accueil doit être avancé. Irma avait justement fini de reporter les réservations dans le classeur orange. Elle trouve le contretemps agaçant et demande à Maud si elles peuvent regarder ensemble le planning le lendemain. Sa collègue doit partir maintenant ; elle confirme qu’elles en reparleront.\n\nUne fois seule au studio, Irma se sent plus isolée qu’elle ne l’avait anticipé. Elle regarde les cases à déplacer et remarque qu’une impulsion occupe davantage son attention. Aucun lien ne lui paraît pourtant assez simple pour affirmer que le message de Joëlle ou le départ de Maud en serait la cause. Elle a déjà traversé d’autres contretemps sans la même préoccupation. Elle ne veut pas rendre sa collègue responsable de rester à ses côtés.\n\nElle prend une feuille personnelle, distincte des réservations, et écrit quelques mots : horaire changé, contrariété, solitude, impulsion plus présente. La liste est courte. Elle ne sait pas exactement comment ces éléments se sont enchaînés. Elle choisit de ne pas transformer cette note en explication complète. Joëlle attend seulement une réponse d’organisation, et Mme Faure pourra entendre la question clinique au suivi. Pour ce soir, Irma laisse les modifications de planning au travail commun prévu avec Maud.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Une association n’est pas une cause certaine",
+          "text": "Anxiété, solitude, ennui ou humeur dépressive peuvent être associés à certains épisodes de kleptomanie, sans constituer des causes automatiques ni des conditions nécessaires. Le contexte d’Irma mérite d’être exploré, mais une seule soirée ne démontre pas pourquoi l’impulsion est plus présente. Mme Faure peut l’aider à examiner ces liens dans le suivi. Joëlle et Maud restent des interlocutrices de travail, pas des personnes chargées d’empêcher les symptômes."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment le contexte devient-il utile à décrire ?",
+          "points": [
+            {
+              "heading": "Un changement impose un effort",
+              "text": "Le contretemps modifie une tâche déjà préparée.",
+              "examples": [
+                "Irma doit déplacer des cases du planning.",
+                "Elle ressent une contrariété en relisant le message."
+              ]
+            },
+            {
+              "heading": "Plusieurs vécus coexistent",
+              "text": "Une proximité dans le temps ne suffit pas à établir un enchaînement causal.",
+              "examples": [
+                "La solitude et l’impulsion sont présentes le même soir.",
+                "Irma ne sait pas exactement dans quel ordre elles ont pris de la place."
+              ]
+            },
+            {
+              "heading": "Les contre-exemples comptent",
+              "text": "Les moments différents évitent une règle trop simple.",
+              "examples": [
+                "Irma a connu d’autres changements d’horaire.",
+                "Tous n’ont pas été accompagnés de cette même préoccupation."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour explorer un contexte avec prudence",
+          "points": [
+            {
+              "heading": "Noter quelques éléments utiles",
+              "objective": "Préparer une description sans surveillance permanente.",
+              "exercise": [
+                "Retenir le contexte avec quelques mots.",
+                "Nommer le vécu dont on est sûr.",
+                "Laisser l’ordre ou le lien incertain quand on ne peut pas le préciser."
+              ],
+              "benefit": "Une note limitée peut soutenir le dialogue clinique sans fabriquer une causalité."
+            },
+            {
+              "heading": "Chercher aussi ce qui diffère",
+              "objective": "Éviter de transformer une observation en règle générale.",
+              "exercise": [
+                "Se rappeler un autre contretemps déjà vécu, sans se mettre à l’épreuve.",
+                "Remarquer si la difficulté avait été identique ou non.",
+                "Apporter cette différence au suivi plutôt que conclure seul."
+              ],
+              "benefit": "La comparaison peut nuancer l’interprétation ; elle ne prédit pas ce qui arrivera ensuite."
+            },
+            {
+              "heading": "Garder les responsabilités distinctes",
+              "objective": "Traiter organisation et soin auprès des bons interlocuteurs.",
+              "exercise": [
+                "Fixer avec la collègue un temps de révision du planning.",
+                "Conserver les observations cliniques pour le suivi.",
+                "Ne pas demander à l’entourage d’éliminer toute contrariété ou solitude."
+              ],
+              "benefit": "Le soutien peut être réaliste sans faire porter aux autres la responsabilité d’une impulsion ou d’un acte."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Le planning attend le lendemain",
+      "ending": "Irma confirme à Maud le temps de travail du lendemain et répond à Joëlle qu’une nouvelle proposition d’horaire va suivre. Elle range la note personnelle séparément du classeur orange. Le contexte lui donne une question pour Mme Faure, pas une explication certaine. Elle quitte le studio sans demander à Maud de revenir. L’horaire sera revu à deux ; ce qu’elle a ressenti pourra être discuté dans un autre cadre.",
+      "conclusion": "Un contexte émotionnel peut éclairer une difficulté sans en devenir la cause unique. Irma distingue les observations, les inconnues et les responsabilités de chacun. Le contretemps appelle une réorganisation ; les liens avec l’impulsion restent une question du suivi.",
+      "mirror": [
+        "Maud peut maintenir son départ et confirmer un créneau le lendemain. Elle n’est pas responsable de supprimer toute solitude. Salomé, si Irma partage son observation, peut dire : « Tu as remarqué plusieurs choses ce soir ; tu pourras les reprendre avec Mme Faure. » Elle n’a pas à nommer un déclencheur certain ni à surveiller les prochains contretemps."
+      ],
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-hrb"
+      ],
+      "continuity": {
+        "choice": "Irma fixe la révision du planning avec Maud et garde une note personnelle pour Mme Faure.",
+        "next": "En relisant la note le lendemain, elle constatera qu’elle ne peut pas dater précisément la montée de tension."
+      }
+    },
+    {
+      "number": 6,
+      "slug": "irma-signaux-peu-perceptibles",
+      "title": "Signaux intérieurs : quand le repérage reste incomplet",
+      "description": "Irma ne peut pas dater la montée de sa tension. Elle garde cette incertitude et apporte au suivi une note qu’elle n’a pas complétée.",
+      "context": "Une note incomplète et une grille à terminer",
+      "topics": [
+        "repérage intérieur",
+        "incertitude",
+        "description factuelle"
+      ],
+      "clinical_focus": "Des signaux parfois peu perceptibles",
+      "diagnostic_stage": "known",
+      "clinical_intro": "La perception de la tension associée aux impulsions peut être peu nette ou varier avec le temps. Ne pas savoir quand une sensation a commencé ne signifie pas forcément une perte de mémoire. Une description incomplète peut être utile au suivi, sans demander à la personne de reconstruire une précision qu’elle n’a pas.",
+      "opening": "Maud a déjà sorti la grille de réservation quand Irma arrive au bureau. Elles doivent vérifier que le nouvel horaire de la classe laisse assez de temps pour l’accueil et le rangement ordinaire de l’atelier. Irma pose le classeur orange sur la table, puis retrouve dans son carnet personnel les quelques mots notés la veille. Elle veut préparer sa question à Mme Faure avant de reprendre le travail.\n\nElle se rappelle le message de Joëlle, le départ de Maud et les cases du planning. En revanche, elle ne peut pas dire à quel moment précis sa tension a commencé à monter. Avant de se sentir seule ? En relisant le courriel ? Elle a envie de choisir une réponse simplement pour rendre la note plus claire. Cela lui paraît presque nécessaire si elle veut être comprise au prochain rendez-vous.\n\nMaud lui demande si elle peut déplacer la pause de la classe de quelques minutes. Irma répond à cette question d’organisation. Sa collègue n’a pas à reconstruire ses sensations de la veille. Irma écrit dans son carnet « début de la tension : je ne sais pas », puis le ferme. Elle se souvient de sa soirée sans posséder un relevé exact de son état intérieur. Cette différence lui semble encore inconfortable. Elle veut demander à Mme Faure comment utiliser une note imparfaite, au lieu de la corriger jusqu’à ce qu’elle ressemble à une explication bien ordonnée.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Le repérage intérieur a des limites",
+          "text": "Dans la kleptomanie, la montée de tension peut être moins clairement perçue au fil du temps. Une personne peut aussi manquer de mots ou de précision sur un moment particulier. Cela ne permet pas d’ajouter un diagnostic de dissociation ou de conclure à une amnésie. Irma connaît les événements de sa soirée ; elle ignore surtout le début exact d’une sensation. Le suivi peut recevoir cette limite sans exiger une chronologie parfaite."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment une observation peut-elle rester partielle ?",
+          "points": [
+            {
+              "heading": "Les événements sont connus",
+              "text": "La mémoire du déroulement général peut rester disponible.",
+              "examples": [
+                "Irma se rappelle le message de Joëlle.",
+                "Elle sait quand Maud a quitté le studio."
+              ]
+            },
+            {
+              "heading": "Le ressenti ne possède pas d’heure certaine",
+              "text": "L’expérience intérieure n’est pas toujours repérée au moment où elle évolue.",
+              "examples": [
+                "Irma ne sait pas quand la tension a commencé.",
+                "Elle hésite entre plusieurs moments sans pouvoir trancher."
+              ]
+            },
+            {
+              "heading": "La précision attendue pousse à compléter",
+              "text": "Le souci d’être comprise peut produire une certitude artificielle.",
+              "examples": [
+                "Irma envisage de choisir une réponse au hasard.",
+                "Elle craint qu’une note incomplète soit moins recevable au rendez-vous."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour utiliser une note imparfaite",
+          "points": [
+            {
+              "heading": "Laisser une case inconnue",
+              "objective": "Respecter les limites de ce qui a été perçu.",
+              "exercise": [
+                "Identifier le point que l’on ne peut préciser.",
+                "Écrire simplement que l’on ne sait pas.",
+                "Renoncer à choisir une version seulement pour rendre le document cohérent."
+              ],
+              "benefit": "L’inconnu reste visible au lieu de devenir un fait fabriqué."
+            },
+            {
+              "heading": "Décrire ce qui est certain",
+              "objective": "Donner un appui concret à la conversation.",
+              "exercise": [
+                "Nommer les événements dont on se souvient.",
+                "Séparer ces faits des sensations plus difficiles à dater.",
+                "Garder la note courte pour qu’elle reste un support utile."
+              ],
+              "benefit": "Le professionnel peut distinguer les informations disponibles et leurs limites."
+            },
+            {
+              "heading": "Demander comment s’en servir",
+              "objective": "Adapter le support au suivi individuel.",
+              "exercise": [
+                "Apporter la note telle qu’elle est.",
+                "Dire ce qui a rendu le repérage difficile.",
+                "Discuter avec la thérapeute de l’utilité et des limites de ces observations."
+              ],
+              "benefit": "Le suivi peut ajuster la démarche sans demander une surveillance exhaustive du vécu."
+            }
+          ]
+        }
+      ],
+      "ending_title": "La ligne reste ouverte",
+      "ending": "Irma et Maud terminent la nouvelle grille et l’envoient à Joëlle. Plus tard, au rendez-vous, Irma présente sa note avec la mention « je ne sais pas ». Mme Faure reprend avec elle les faits disponibles et l’incertitude sur la tension. La note n’a pas besoin d’être complétée pour ouvrir la discussion. Irma remarque qu’elle a parlé plus directement ici qu’elle ne le ferait à Salomé ; elle veut réfléchir à ce qu’elle souhaite partager avec son amie.",
+      "conclusion": "Une observation partielle peut rester honnête et utile. Irma a mené une tâche professionnelle à terme sans transformer sa collègue en interprète de son vécu. Elle apporte au suivi ce qu’elle sait et ce qui manque, plutôt qu’une précision inventée.",
+      "mirror": [
+        "Maud peut se limiter à la grille horaire sans questionner les sensations d’Irma. Salomé peut entendre « je ne sais pas exactement quand » sans proposer de compléter l’histoire. Un proche n’a pas à reconstituer les pensées de la personne. Accueillir une limite de précision peut soutenir le dialogue sans remplacer le suivi spécialisé."
+      ],
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-hrb"
+      ],
+      "continuity": {
+        "choice": "Irma termine la grille avec Maud et apporte au rendez-vous une note explicitement incomplète.",
+        "next": "Elle réfléchira à la part de cette difficulté qu’elle souhaite confier à Salomé."
+      }
+    },
+    {
+      "number": 7,
+      "slug": "irma-parole-et-confidentialite",
+      "title": "Demander de l’aide : choisir ce que l’on partage",
+      "description": "Irma hésite avant d’appeler Salomé. Elle prépare une demande précise et garde ses informations de santé à part du travail.",
+      "context": "Préparer une conversation avec son amie",
+      "topics": [
+        "honte et parole",
+        "confidentialité choisie",
+        "soutien délimité"
+      ],
+      "clinical_focus": "Le secret qui retarde la parole",
+      "diagnostic_stage": "known",
+      "clinical_intro": "La honte peut compliquer la demande d’aide et retarder une parole pourtant souhaitée. Parler à un proche ne signifie pas tout lui confier ni rendre public son diagnostic. Choisir une information utile et un soutien précis peut faciliter l’échange. La confidentialité des informations de santé ne doit pas être confondue avec l’évitement des conséquences d’un acte.",
+      "opening": "Irma a écrit puis effacé trois débuts de message à Salomé. La première phrase disait que tout allait bien, ce qui ne correspondait pas à ce qu’elle voulait partager. La deuxième ressemblait à un long compte rendu de consultation. La troisième demandait seulement si son amie avait un moment, mais Irma craignait qu’elle s’inquiète sans comprendre ce qu’elle attendait.\n\nAu rendez-vous avec Mme Faure, elle avait pu montrer sa note incomplète. Avec Salomé, elle veut parler de la honte et de la difficulté à demander du soutien. Elle ne souhaite pas lui remettre tout son dossier ni lui demander de surveiller les prochains jours. Elle pense aussi à Maud : sa collègue connaît les réservations et les tâches à répartir, pas ses informations médicales. Irma veut que cette séparation reste claire.\n\nElle finit par appeler plutôt que de continuer à arranger les phrases. « J’aimerais parler un moment après ma prochaine consultation. Pas de tous les détails. Surtout de ce que je peux te demander. » Salomé lui demande quel jour elle envisage. Irma précise qu’elle ne cherche pas un contact permanent ni une personne qui parlerait à sa place aux interlocuteurs déjà mobilisés pour les conséquences de l’acte antérieur. Elle souhaite une conversation choisie entre amies, avec la possibilité pour Salomé de dire ce qu’elle peut ou non entendre et faire. Cette demande lui semble plus exposée qu’un simple message sur les affiches, mais aussi plus juste.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Choisir sa parole n’est pas renoncer au soutien",
+          "text": "La honte et la crainte du jugement peuvent freiner la demande d’aide. Une personne peut pourtant choisir un partage limité, adapté à la relation et à ses préférences. Irma demande une conversation sur son besoin présent, sans confier à Salomé une mission de surveillance. Les démarches liées aux conséquences d’un acte suivent leur propre cadre ; préserver des informations de santé ne signifie pas demander à l’amie de cacher des faits ou d’éviter ces démarches."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment la honte rend-elle la demande hésitante ?",
+          "points": [
+            {
+              "heading": "La phrase minimise ou déborde",
+              "text": "La personne peut osciller entre tout nier et tout raconter.",
+              "examples": [
+                "Irma efface un message disant que tout va bien.",
+                "Elle renonce aussi à envoyer un compte rendu détaillé de consultation."
+              ]
+            },
+            {
+              "heading": "Les rôles se brouillent dans l’anticipation",
+              "text": "L’aide souhaitée peut rester vague tant que ses limites ne sont pas nommées.",
+              "examples": [
+                "Irma ne veut pas d’une surveillance.",
+                "Elle souhaite parler de ce qu’elle peut demander à son amie."
+              ]
+            },
+            {
+              "heading": "La confidentialité demande un accord",
+              "text": "Le partage avec une personne ne vaut pas diffusion à d’autres.",
+              "examples": [
+                "Maud n’a pas besoin du dossier médical pour les réservations.",
+                "Irma souhaite préciser ce que Salomé ne transmettra pas au studio."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour formuler une demande limitée",
+          "points": [
+            {
+              "heading": "Choisir l’information utile",
+              "objective": "Éviter que le soutien exige un récit complet.",
+              "exercise": [
+                "Nommer la difficulté présente que l’on souhaite partager.",
+                "Retirer les détails que l’on préfère garder au suivi.",
+                "Dire explicitement que l’on ne souhaite pas tout raconter."
+              ],
+              "benefit": "Le proche peut entendre le besoin sans recevoir un dossier qu’il ne doit pas interpréter."
+            },
+            {
+              "heading": "Nommer le soutien demandé",
+              "objective": "Permettre une réponse réelle.",
+              "exercise": [
+                "Demander un temps de conversation précis.",
+                "Dire ce que l’on espère de cet échange.",
+                "Laisser au proche la possibilité de refuser ou de proposer autre chose."
+              ],
+              "benefit": "Un accord limité peut être plus clair qu’une attente de disponibilité implicite."
+            },
+            {
+              "heading": "Convenir des frontières de l’échange",
+              "objective": "Préserver les rôles et l’intimité.",
+              "exercise": [
+                "Préciser les informations de santé que l’on ne souhaite pas transmettre au travail.",
+                "Ne pas demander au proche de surveiller ou de garantir l’avenir.",
+                "Garder les questions de soin et de conséquences avec leurs interlocuteurs compétents."
+              ],
+              "benefit": "La confiance peut se construire sur des limites explicites, sans promesse de secret absolu ni évitement de responsabilité."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Un moment est réservé",
+      "ending": "Salomé accepte de retrouver Irma après sa prochaine consultation, sur un créneau déterminé. Elle précise qu’elle ne pourra pas répondre à toute heure. Irma accepte cette limite. Elles conviennent de ne pas transmettre ses informations de santé à Maud pour organiser la classe. Irma garde les démarches déjà engagées sous sa responsabilité. Avant le rendez-vous avec Mme Faure, elle prépare maintenant trois questions sur ce qu’elle peut attendre du soin et sur la manière d’en faire le point.",
+      "conclusion": "Demander de l’aide peut commencer par un partage limité et choisi. Irma a formulé un besoin sans demander une surveillance ni une disponibilité permanente. Le suivi, les responsabilités et la confidentialité gardent des places distinctes dans son organisation.",
+      "mirror": [
+        "Salomé peut répondre : « Je peux te voir après ce rendez-vous, mais je ne pourrai pas être disponible tout le temps. » Elle peut accepter de garder une information de santé dans leur échange sans devenir garante des actes futurs. Elle peut aussi refuser une mission de surveillance. Une limite formulée maintenant évite qu’une demande d’amitié devienne une responsabilité qu’elle n’a pas choisie."
+      ],
+      "sources": [
+        "oms-cddr",
+        "nice-cg138"
+      ],
+      "continuity": {
+        "choice": "Irma et Salomé fixent une conversation après la prochaine consultation, avec limites de disponibilité et de partage.",
+        "next": "Irma prépare ses questions sur les objectifs, les limites et le bilan du soin."
+      }
     }
   ]
 }

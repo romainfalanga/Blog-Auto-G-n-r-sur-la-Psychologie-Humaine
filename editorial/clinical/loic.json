@@ -111,6 +111,521 @@
         "choice": "Maud confie provisoirement la fiche à Nadir. Loïc convient d’un échange clinique avant de confirmer son créneau ; le comité sait seulement que l’organisation reste ouverte.",
         "next": "La consultation partira du moment où Loïc a cessé de suivre la conversation."
       }
+    },
+    {
+      "number": 2,
+      "slug": "loic-montee-de-tension",
+      "title": "Pyromanie : parler de la tension avant de devoir tout expliquer",
+      "description": "Au suivi, Loïc revient sur la tension précédant la réunion. Il prépare une demande de relais sans en faire un signal infaillible.",
+      "context": "En consultation avec la docteure Perrin",
+      "topics": [
+        "Pyromanie",
+        "Tension",
+        "Demande de relais"
+      ],
+      "clinical_focus": "Montée de tension reconnue",
+      "diagnostic_stage": "known",
+      "clinical_intro": "Une montée de tension peut faire partie de l’expérience de la pyromanie. Elle mérite d’être discutée dans le suivi, mais une sensation ne prédit pas à elle seule un acte et ne permet pas de mesurer le risque sans évaluation. Décrire tôt un changement peut aider à réviser les conditions d’un engagement plutôt qu’à chercher une garantie personnelle.",
+      "opening": "La docteure Perrin demande à Loïc de reprendre le moment où la réunion était devenue difficile à suivre. Il ouvre son carnet, qui n’a pas circulé avec la fiche du comité. Il a d’abord noté la question de Maud, puis le passage de la feuille à Nadir. Les deux lignes donnent l’impression que tout avait commencé à cette seconde précise. Loïc hésite avant d’ajouter que la tension était présente plus tôt.\n\nIl l’avait ressentie avant de rejoindre le comité, sans lui donner un nom clair. Il avait continué à préparer ses documents, en se disant qu’une fois assis avec les autres il penserait à autre chose. Il ne sait pas si l’intensité avait changé d’un seul coup ou progressivement. Ce qu’il sait, c’est qu’il avait essayé de tenir la réunion comme si cette tension n’occupait aucune place.\n\n« Je voulais arriver avec une réponse sur mon créneau, pas avec une difficulté de plus. » La docteure ne lui demande pas de transformer ce ressenti en score capable de prédire la suite. Elle l’aide à distinguer ce qu’il peut décrire de ce qui nécessite une appréciation clinique. Loïc voudrait surtout savoir comment demander plus tôt le retrait prévu, sans devoir raconter devant Maud tout ce qu’il réserve à cette consultation. Son carnet reste ouvert entre eux ; la fiche du comité attend ailleurs.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Nommer la tension ne suffit pas à prédire",
+          "text": "Une tension croissante peut précéder certaines difficultés de contrôle, mais elle n’est ni un signe exclusif de pyromanie ni une mesure autonome du danger. Chez Loïc, elle constitue une information à transmettre avec le contexte et son évolution. La consultation ne cherche pas le signal qui fonctionnerait à coup sûr. Elle permet de préparer une réponse individualisée au changement observé, en conservant la possibilité d’un recours plus urgent si la situation l’exige."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment une tension peut-elle rester cachée pendant une préparation ?",
+          "points": [
+            {
+              "heading": "Le changement précède le moment visible",
+              "text": "L’entourage peut remarquer une difficulté après que la personne a déjà commencé à la ressentir.",
+              "examples": [
+                "Maud voit Loïc perdre le fil de la fiche.",
+                "Loïc explique ensuite que la tension était là avant son arrivée."
+              ]
+            },
+            {
+              "heading": "L’engagement rend la parole plus difficile",
+              "text": "Vouloir donner une réponse attendue peut retarder l’annonce d’un besoin.",
+              "examples": [
+                "Loïc voulait confirmer son créneau.",
+                "Il redoutait d’apporter au comité une nouvelle incertitude."
+              ]
+            },
+            {
+              "heading": "Le ressenti reste imparfaitement décrit",
+              "text": "Une information utile ne nécessite pas toujours une chronologie ou une mesure exacte.",
+              "examples": [
+                "Loïc ne sait pas dire si la tension a augmenté brusquement.",
+                "Il peut néanmoins nommer la difficulté à poursuivre comme prévu."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour décrire le changement et préparer une demande",
+          "points": [
+            {
+              "heading": "Décrire ce que l’on sait",
+              "objective": "Apporter au suivi une information sobre plutôt qu’une prédiction.",
+              "exercise": [
+                "Nommer le changement ressenti dans la situation.",
+                "Préciser ce qui était déjà présent avant le moment remarqué par les autres.",
+                "Laisser inconnue la mesure ou la chronologie que l’on ne peut pas établir."
+              ],
+              "benefit": "Le professionnel dispose d’éléments concrets sans que la personne doive fabriquer un indicateur infaillible."
+            },
+            {
+              "heading": "Préparer une phrase de relais",
+              "objective": "Pouvoir annoncer un besoin pratique sans exposer le contenu clinique.",
+              "exercise": [
+                "Choisir avec l’équipe une formulation compatible avec le plan existant.",
+                "La vérifier avec les responsables concernés pour qu’ils sachent quelle tâche reprendre.",
+                "Prévoir la suite du contact clinique séparément du passage de la tâche."
+              ],
+              "benefit": "Une phrase préparée peut faciliter l’organisation ; elle ne remplace pas une évaluation et ne garantit pas d’être toujours disponible."
+            },
+            {
+              "heading": "Revoir les conditions du retrait",
+              "objective": "Ne pas attendre d’avoir achevé l’engagement pour demander de l’aide.",
+              "exercise": [
+                "Présenter au professionnel la tâche et ses contraintes réelles.",
+                "Faire préciser le retrait et les modalités de contact adaptés.",
+                "Conserver le recours à la protection et aux secours compétents en cas de danger immédiat."
+              ],
+              "benefit": "Le cadre reste relié à la situation et à ses besoins, au lieu de reposer sur la capacité à supporter toujours plus de tension."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Une phrase assez courte pour être dite",
+      "ending": "Loïc retient avec l’équipe : « Je ne peux pas poursuivre ce créneau, il faut reprendre la tâche. » La formule s’inscrit dans le plan discuté ; elle ne devient pas un test de sa maîtrise. Il la garde distincte des notes cliniques. Avant de fermer le carnet, il demande un prochain temps pour parler d’un souvenir de soulagement qu’il avait minimisé. La docteure note cette question sans lui demander d’en raconter davantage à la fin du rendez-vous.",
+      "conclusion": "Nommer une tension permet de transmettre un changement, sans en faire une prédiction certaine. Loïc prépare une demande de relais et les conditions de retrait avec son équipe. L’organisation peut ainsi être révisée avant qu’il ne s’oblige à terminer coûte que coûte.",
+      "mirror": [
+        "Maud peut apprendre la phrase convenue pour savoir qu’une tâche doit être reprise, sans y voir un outil diagnostique. Elsa peut dire : « Tu peux porter ce changement à l’équipe même si tu ne sais pas le mesurer exactement. » Elle ne décide pas du niveau de risque à partir d’une sensation et ne demande pas à Loïc de démontrer qu’il peut attendre."
+      ],
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-hrb"
+      ],
+      "continuity": {
+        "choice": "Il ajoute une formulation utilisable pour demander le relais, validée avec l’équipe. Il souhaite toutefois parler d’un souvenir de soulagement qu’il trouve difficile à reconnaître.",
+        "next": "Le rendez-vous suivant reprend ce soulagement sans raconter l’acte ancien."
+      }
+    },
+    {
+      "number": 3,
+      "slug": "loic-soulagement-consequences",
+      "title": "Pyromanie : un soulagement ressenti n’efface pas les conséquences",
+      "description": "Loïc aborde un soulagement ancien avec son équipe. Il apprend à le nommer sans minimiser les dommages ni en faire une justification.",
+      "context": "Au rendez-vous suivant avec la docteure Perrin",
+      "topics": [
+        "Pyromanie",
+        "Soulagement immédiat",
+        "Conséquences"
+      ],
+      "clinical_focus": "Soulagement immédiat et conséquences",
+      "diagnostic_stage": "known",
+      "clinical_intro": "Un soulagement immédiat peut être rapporté dans l’histoire clinique de la pyromanie. Ce ressenti ne réduit ni les conséquences d’un acte ni la nécessité de prévenir le risque. Le nommer auprès d’un professionnel permet d’examiner le décalage entre ce qui a été ressenti sur le moment et les responsabilités qui demeurent ensuite.",
+      "opening": "Loïc arrive au rendez-vous suivant avec son carnet fermé. La question est déjà notée, mais il n’aime pas la voir sur la page. Il a demandé ce temps pour parler d’un soulagement ancien. La docteure Perrin lui laisse commencer sans reprendre les détails qu’il ne souhaite pas redécrire. « J’avais dit que ce n’était rien, parce qu’après je me sentais moins tendu. » La phrase s’arrête là.\n\nIl comprend ce qu’elle mélange. Il parle d’un état intérieur comme s’il pouvait diminuer la portée de ce qui s’est passé. Il ne donne ni geste ni lieu ; les éléments de son histoire sont déjà abordés dans le suivi. Ce qui l’occupe aujourd’hui est cette manière de mesurer les conséquences à partir de son propre apaisement. Elle lui paraît moins défendable lorsqu’il l’entend à voix haute.\n\nIl craint pourtant qu’admettre ce ressenti revienne à le revendiquer. La docteure distingue l’information clinique et l’approbation d’un acte. Loïc peut nommer le soulagement sans en faire une excuse et sans demander qu’on le rassure en effaçant les dommages. Cela ne transforme pas non plus la consultation en décision sur une responsabilité juridique. Ils travaillent sur ce qu’il doit reconnaître pour ne plus utiliser sa baisse de tension comme seul bilan. Le carnet s’ouvre enfin, sur la page qui contient les questions de prévention.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Deux bilans qui ne répondent pas à la même question",
+          "text": "Le soulagement subjectif décrit un effet ressenti, tandis que les conséquences concernent les dommages et les risques pour soi et les autres. Confondre ces deux plans peut soutenir une minimisation. Dans la pyromanie, cette expérience peut être utile à la compréhension clinique sans justifier l’acte. Loïc apprend à conserver les deux informations : ce qu’il a ressenti et ce qui reste à prendre au sérieux dans son suivi et sa prévention."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment un soulagement peut-il conduire à minimiser après coup ?",
+          "points": [
+            {
+              "heading": "Le ressenti devient la mesure de tout",
+              "text": "Une diminution de tension peut occuper la place d’un bilan plus large.",
+              "examples": [
+                "Loïc avait utilisé son apaisement pour dire que ce n’était rien.",
+                "Il constate que cette phrase ne dit rien des conséquences pour les autres."
+              ]
+            },
+            {
+              "heading": "Nommer semble approuver",
+              "text": "La peur d’être mal compris peut empêcher de transmettre une information importante au soin.",
+              "examples": [
+                "Loïc hésite à ouvrir son carnet.",
+                "Il redoute que parler du soulagement soit entendu comme une revendication."
+              ]
+            },
+            {
+              "heading": "La responsabilité risque de disparaître derrière le diagnostic",
+              "text": "Une explication clinique n’efface pas la nécessité de prendre les conséquences au sérieux.",
+              "examples": [
+                "La consultation ne sert pas à certifier que le trouble excuse tout.",
+                "Loïc revient aux questions concrètes de prévention plutôt qu’à une phrase rassurante."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour parler du ressenti sans minimiser les conséquences",
+          "points": [
+            {
+              "heading": "Porter le décalage au professionnel",
+              "objective": "Faire entendre une information clinique difficile à reconnaître.",
+              "exercise": [
+                "Nommer le ressenti dont on peine à parler.",
+                "Expliquer ce qu’on avait conclu trop vite à partir de lui.",
+                "Demander à l’équipe de reprendre ce point dans le suivi, sans description séduisante ni reconstitution."
+              ],
+              "benefit": "L’échange peut éclairer une minimisation sans transformer le souvenir en exercice de reproduction."
+            },
+            {
+              "heading": "Distinguer ce qui a été ressenti et ce qui reste vrai",
+              "objective": "Ne pas faire d’un apaisement une justification.",
+              "exercise": [
+                "Séparer la phrase sur son état intérieur de celle sur les conséquences.",
+                "Repérer une expression qui les confond, comme ce n’était rien.",
+                "La remplacer par une formulation qui ne retire rien aux dommages et à la prévention nécessaire."
+              ],
+              "benefit": "Deux faits peuvent être reconnus ensemble sans que l’un annule l’autre."
+            },
+            {
+              "heading": "Revenir aux engagements concrets",
+              "objective": "Relier la discussion à la prévention individualisée.",
+              "exercise": [
+                "Reprendre avec l’équipe les dispositions déjà convenues.",
+                "Préciser la démarche à utiliser lorsqu’une difficulté revient.",
+                "Conserver les responsabilités pratiques sans demander au proche une absolution ou une surveillance."
+              ],
+              "benefit": "La discussion débouche sur une continuité de soin plutôt que sur une promesse générale de ne plus jamais rencontrer de difficulté."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Une formule que Loïc ne veut plus employer",
+      "ending": "Loïc barre « ce n’était rien » dans sa note. Il écrit que le soulagement ne résume pas les conséquences et demande que ce point reste dans leur travail clinique. Il ne cherche pas à faire approuver cette correction par Elsa. Puis il reprend la question du temps : que faire lorsque la difficulté s’installe bien avant une réunion ? La docteure propose d’examiner avec lui ce délai lors de leur prochain échange sur le plan.",
+      "conclusion": "Reconnaître un soulagement ne revient ni à l’approuver ni à effacer les conséquences. Loïc retire une formulation qui minimisait son histoire et revient au travail de prévention. La responsabilité ne se mesure pas à l’intensité du malaise qui demeure après coup.",
+      "mirror": [
+        "Elsa peut soutenir la démarche en disant : « Tu peux en parler à l’équipe sans que nous ayons besoin de dire que ce n’était rien. » Elle n’a pas à recevoir une confession détaillée ni à offrir une absolution. Elle peut garder ses limites, prendre au sérieux les conséquences et encourager les relais convenus, sans devenir celle qui surveille ou juge chaque pensée."
+      ],
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-hrb"
+      ],
+      "continuity": {
+        "choice": "Loïc décide de ne plus employer la formule ce n’était rien dans les échanges cliniques. Il demande comment agir quand la difficulté s’installe longtemps avant une réunion.",
+        "next": "La temporalité de la difficulté devient le sujet du travail suivant."
+      }
+    },
+    {
+      "number": 4,
+      "slug": "loic-anticipation-et-controle",
+      "title": "Pyromanie : avoir prévu un rendez-vous ne garantit pas le contrôle",
+      "description": "Loïc avait anticipé le suivi mais attendu pour signaler sa difficulté. Avec l’équipe, il revoit le temps entre le changement et l’appel.",
+      "context": "Un échange de suivi consacré au plan de prévention",
+      "topics": [
+        "Pyromanie",
+        "Difficulté de contrôle",
+        "Anticipation"
+      ],
+      "clinical_focus": "Contrôle difficile malgré anticipation",
+      "diagnostic_stage": "known",
+      "clinical_intro": "Une difficulté de contrôle peut s’installer progressivement plutôt que surgir sans aucun signe préalable. Avoir prévu un rendez-vous ou reconnu une tension ne garantit pourtant pas de maîtriser la suite. Dans le suivi de la pyromanie, il importe de distinguer l’anticipation d’un contact et la réponse réellement adaptée au moment où la difficulté apparaît.",
+      "opening": "Loïc a retrouvé la date à laquelle il avait prévu son rendez-vous. Il la montre à l’équipe comme un élément rassurant : il n’avait pas ignoré son suivi, la consultation figurait dans son agenda avant la réunion du comité. La docteure Perrin lui demande alors ce qui s’est passé entre le retour de la difficulté et l’appel effectivement passé. Ce délai ne disparaît pas parce qu’une case était déjà réservée plus tard.\n\nLoïc comprend qu’il utilisait deux choses comme si elles étaient identiques. Il avait anticipé la possibilité de parler, mais il avait continué son engagement alors que sa disponibilité changeait. « Je m’étais organisé, donc je pensais que c’était géré. » Il avait presque traité le rendez-vous comme une réponse déjà obtenue, alors qu’il n’avait pas encore transmis ce qui revenait.\n\nLa discussion revient aux contacts et aux décisions de travail. Loïc n’a pas à montrer combien de temps il pourrait tenir encore ; il a besoin de savoir quelle démarche utiliser maintenant. Loïc veut savoir comment ne pas transformer la prochaine échéance de soins en raison d’attendre. L’équipe reprend avec lui les dispositions de retrait et de contact adaptées à son évolution. Le créneau de la brocante reste encore non confirmé. Loïc pense à Maud, qui a besoin d’une réponse pour ses propres tâches : il peut lui dire que la place reste ouverte sans lui transmettre tout cet échange.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Prévoir un contact et demander l’aide nécessaire sont distincts",
+          "text": "Les difficultés de contrôle ne se résument pas toujours à un instant soudain. Une évolution progressive peut laisser un temps où la personne reconnaît un changement sans que cela suffise à garantir sa maîtrise. Dans le cas de Loïc, la présence d’un rendez-vous dans l’agenda ne renseigne pas sur la réponse nécessaire avant cette date. Le suivi sert à ajuster ce décalage, sans transformer la prévention en défi de volonté."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment l’anticipation peut-elle donner une assurance excessive ?",
+          "points": [
+            {
+              "heading": "Une démarche prévue paraît déjà accomplie",
+              "text": "Un contact à venir peut être pris pour une réponse clinique disponible.",
+              "examples": [
+                "Loïc montre la consultation inscrite dans son agenda.",
+                "Il réalise ensuite qu’il n’avait pas encore décrit le changement à l’équipe."
+              ]
+            },
+            {
+              "heading": "Le délai utile reste sous-estimé",
+              "text": "La question porte sur le besoin présent, pas seulement sur l’existence d’un rendez-vous.",
+              "examples": [
+                "La difficulté avait commencé avant la réunion.",
+                "Loïc avait continué l’engagement en pensant pouvoir attendre l’échange prévu."
+              ]
+            },
+            {
+              "heading": "Le projet risque de devenir une épreuve",
+              "text": "Tenir une tâche malgré le changement n’est pas une mesure fiable de contrôle.",
+              "examples": [
+                "Confirmer son créneau aurait pu lui servir à se rassurer.",
+                "L’équipe revient aux dispositions adaptées plutôt qu’à ce qu’il aurait dû supporter."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour relier l’anticipation à une réponse réelle",
+          "points": [
+            {
+              "heading": "Signaler le changement au moment utile",
+              "objective": "Ne pas laisser un rendez-vous futur remplacer la transmission actuelle.",
+              "exercise": [
+                "Repérer le changement à communiquer dans le cadre du plan.",
+                "Utiliser la modalité de contact convenue selon la situation.",
+                "Dire que le rendez-vous existe déjà mais que la difficulté présente demande à être reprise."
+              ],
+              "benefit": "L’équipe peut apprécier le besoin sans que la personne conclue seule qu’attendre est suffisant."
+            },
+            {
+              "heading": "Suspendre l’engagement lorsque le plan le prévoit",
+              "objective": "Préserver une possibilité de retrait qui ne dépend pas d’une preuve de résistance.",
+              "exercise": [
+                "Reprendre les conditions individualisées de suspension.",
+                "Informer le responsable de la tâche de la décision pratique.",
+                "Vérifier le relais plutôt que terminer seul pour montrer que l’on peut encore tenir."
+              ],
+              "benefit": "La continuité du projet peut être organisée sans imposer une démonstration personnelle."
+            },
+            {
+              "heading": "Faire préciser le prochain contact",
+              "objective": "Garder une suite adaptée à l’évolution réelle.",
+              "exercise": [
+                "Demander à l’équipe quelle suite convient après le signalement.",
+                "Clarifier ce qui appelle un contact différent ou une réponse urgente.",
+                "Suivre ces indications plutôt qu’un délai fixé uniquement par l’agenda initial."
+              ],
+              "benefit": "Un cadre révisé peut tenir compte du présent ; en cas de danger immédiat, protection et secours ne doivent pas attendre le suivi ordinaire."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Une réponse provisoire transmise à Maud",
+      "ending": "Loïc informe Maud que son créneau reste non confirmé. Elle redistribue une séance de préparation qui devait l’occuper prochainement. Il suit les modalités de contact précisées avec l’équipe et ne transforme pas cette tâche en travail à rattraper seul. Le soir désormais libre lui paraît pourtant plus long qu’il ne l’avait imaginé. Il regarde ses notices rangées et se demande à qui parler de ce sentiment de ne plus être utile.",
+      "conclusion": "Avoir anticipé un rendez-vous ne garantit pas que le besoin présent est couvert. Loïc distingue sa démarche prévue et l’appel nécessaire, puis laisse son engagement révisable. Cette décision relève d’un plan discuté, sans épreuve de résistance ni certitude fabriquée.",
+      "mirror": [
+        "Maud peut recevoir « le créneau reste non confirmé » comme une information d’organisation suffisante. Elsa peut rappeler que demander un contact plus tôt ne rend pas inutile le suivi déjà prévu. Aucun proche n’a à encourager Loïc à attendre pour prouver sa maîtrise. Si les circonstances deviennent immédiatement dangereuses, les protections et les secours adaptés prennent la priorité."
+      ],
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-hrb"
+      ],
+      "continuity": {
+        "choice": "Loïc garde son créneau non confirmé et transmet cette seule information à Maud. Un changement de tâche lui laisse une soirée où il se sent inutile.",
+        "next": "L’équipe explorera ce vécu de solitude sans l’ériger en cause du trouble."
+      }
+    },
+    {
+      "number": 5,
+      "slug": "loic-solitude-contexte-affectif",
+      "title": "Pyromanie : la solitude compte sans expliquer tout le trouble",
+      "description": "Une préparation annulée laisse Loïc avec un sentiment d’inutilité. Il en parle à Elsa sans lui confier la charge de remplir chaque vide.",
+      "context": "Une soirée libérée par le changement de tâche",
+      "topics": [
+        "Pyromanie",
+        "Contexte affectif",
+        "Solitude"
+      ],
+      "clinical_focus": "États affectifs et vulnérabilité",
+      "diagnostic_stage": "known",
+      "clinical_intro": "L’ennui, la solitude ou un état affectif difficile peuvent être des éléments à discuter dans la compréhension individuelle de la pyromanie. Ils ne suffisent pas à en expliquer la cause ni à poser un diagnostic. Parler d’une soirée difficile peut soutenir un lien ordinaire, tandis que l’évaluation et la prévention restent dans le suivi spécialisé.",
+      "opening": "Les notices sont rangées et les boîtes portent toutes une étiquette lisible. Loïc regarde le résultat avec moins de satisfaction qu’il ne l’avait prévu. La séance de préparation a été redistribuée ; personne ne lui demande un renseignement urgent et il n’a pas de document à terminer pour Maud. Ce calme lui laisse une impression qu’il formule mal. Il avait besoin de s’arrêter, mais il se sent maintenant inutile.\n\nIl regarde l’heure convenue pour appeler Elsa. Sa sœur avait proposé qu’ils parlent ce soir. Il attend ce moment puis la joint, sans lui présenter l’appel comme une obligation nouvelle. Elle lui demande comment s’est passée sa journée. Loïc commence par les notices et plaisante sur la boîte étiquetée divers qui contient enfin autre chose que tout le reste. Puis il dit que la soirée vide lui pèse plus qu’il ne pensait.\n\nElsa l’écoute. Elle ne cherche pas à remplir immédiatement chaque minute ni à expliquer sa pyromanie par le manque de compagnie. Loïc lui-même ne sait pas quel lien donner à ce qu’il ressent. Il peut le noter pour le suivi sans conclure que la solitude déclenche nécessairement une difficulté. « Ce soir, j’ai surtout besoin de parler un peu », précise-t-il. Il voudrait que cette phrase reste une demande possible entre frère et sœur, pas la nomination d’Elsa comme responsable de toutes ses soirées.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Un contexte affectif ne devient pas une cause universelle",
+          "text": "Les états affectifs et les circonstances de vie peuvent aider à comprendre une situation individuelle, sans expliquer à eux seuls un trouble du contrôle des impulsions. Le sentiment d’inutilité de Loïc accompagne ici un changement de tâche. L’examiner avec son équipe peut être pertinent ; lui attribuer automatiquement la cause de la pyromanie serait excessif. Une conversation familiale conserve aussi une valeur ordinaire, sans devoir devenir un traitement."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment une soirée libérée peut-elle devenir difficile à vivre ?",
+          "points": [
+            {
+              "heading": "Le retrait laisse un manque imprévu",
+              "text": "Une décision utile peut avoir un effet émotionnel que la personne n’avait pas anticipé.",
+              "examples": [
+                "Loïc a laissé la préparation à d’autres.",
+                "Il se sent pourtant inutile devant des notices déjà rangées."
+              ]
+            },
+            {
+              "heading": "Le ressenti cherche une explication trop rapide",
+              "text": "Un lien possible mérite d’être discuté plutôt que transformé en certitude.",
+              "examples": [
+                "Loïc se demande ce que cette solitude change pour lui.",
+                "Il peut la signaler au suivi sans dire qu’elle explique chaque difficulté."
+              ]
+            },
+            {
+              "heading": "Une relation pourrait porter toute la réponse",
+              "text": "Demander de la compagnie ne rend pas l’autre responsable de supprimer le vide.",
+              "examples": [
+                "Elsa a proposé un appel ce soir.",
+                "Loïc ne peut en déduire qu’elle sera disponible chaque fois qu’une soirée lui pèse."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour parler du contexte sans confondre compagnie et soin",
+          "points": [
+            {
+              "heading": "Décrire le moment difficile",
+              "objective": "Transmettre un contexte individuel sans inventer sa cause.",
+              "exercise": [
+                "Nommer l’événement qui a changé la journée.",
+                "Dire le sentiment ressenti sans le présenter comme une preuve sur le trouble.",
+                "Reprendre avec l’équipe ce qui mérite d’être intégré à la compréhension clinique."
+              ],
+              "benefit": "L’observation peut enrichir le suivi tout en laissant ouvertes les relations de cause à effet."
+            },
+            {
+              "heading": "Faire une demande limitée",
+              "objective": "Permettre un soutien amical ou familial réellement consenti.",
+              "exercise": [
+                "Demander si la personne est disponible pour parler.",
+                "Préciser le type de présence souhaité maintenant.",
+                "Accepter sa réponse et sa limite sans en faire une mesure de son affection."
+              ],
+              "benefit": "La relation peut offrir un moment de compagnie sans devenir un service de surveillance."
+            },
+            {
+              "heading": "Garder deux espaces distincts",
+              "objective": "Ne pas remplacer la prévention par une activité ou un appel agréable.",
+              "exercise": [
+                "Choisir une activité ordinaire pour son intérêt propre si elle convient au cadre prévu.",
+                "Maintenir les contacts cliniques et les indications du plan.",
+                "Transmettre un changement préoccupant au relais adapté plutôt que demander au proche de l’évaluer."
+              ],
+              "benefit": "La vie quotidienne conserve ses ressources, tandis que les questions de santé restent prises en charge par les interlocuteurs compétents."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Ce soir ne promet pas demain",
+      "ending": "Elsa peut parler ce soir, mais elle ne sera pas disponible le lendemain. Loïc le note sans lui demander de trouver quelqu’un pour surveiller sa soirée. Il organise son prochain contact avec l’équipe selon les modalités revues et garde le sentiment d’inutilité parmi les points à discuter. Leur appel se termine sur les notices, puis sur une question d’Elsa qui ne concerne pas la brocante. Loïc n’a pas résolu chaque heure à venir ; il a pu dire ce qui rendait celle-ci difficile.",
+      "conclusion": "Un contexte affectif mérite d’être entendu sans devenir l’explication unique du trouble. Loïc parle de sa solitude, respecte la disponibilité d’Elsa et maintient le suivi. Le soutien familial garde ainsi une place réelle qui ne couvre pas toutes les responsabilités.",
+      "mirror": [
+        "Elsa peut dire : « Je peux parler ce soir, demain je ne serai pas disponible. » Elle peut écouter le sentiment d’inutilité sans promettre que sa présence empêchera toute difficulté. Le contact de soins reste distinct de l’appel familial ; si une situation appelle une protection urgente, elle ne doit pas être laissée à la seule disponibilité d’une sœur."
+      ],
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-hrb"
+      ],
+      "continuity": {
+        "choice": "Elsa peut parler ce soir, pas le lendemain. Loïc le note et organise son prochain contact avec l’équipe ; il ne lui demande pas de surveillance.",
+        "next": "Une remarque entendue au comité introduit la confusion entre incendie et diagnostic."
+      }
+    },
+    {
+      "number": 6,
+      "slug": "loic-diagnostic-et-incendie",
+      "title": "Incendie volontaire et pyromanie : deux termes à distinguer",
+      "description": "Une remarque au comité confond acte et diagnostic. Loïc prépare une réponse courte sans exposer son suivi ni juger un inconnu.",
+      "context": "Une réunion du comité puis un échange avec l’équipe",
+      "topics": [
+        "Pyromanie",
+        "Distinction diagnostique",
+        "Vocabulaire"
+      ],
+      "clinical_focus": "Diagnostic distinct du fait incendiaire",
+      "diagnostic_stage": "known",
+      "clinical_intro": "Un incendie volontaire ne suffit pas à établir une pyromanie. Les circonstances, les mobiles et d’autres explications possibles relèvent d’une évaluation clinique individualisée. Le diagnostic ne se déduit pas d’un fait rapporté et ne décide pas d’une responsabilité juridique. Distinguer les termes évite aussi de réduire une personne suivie à tout événement dont on entend parler.",
+      "opening": "La nouvelle réunion du comité commence par une discussion qui ne concerne pas les créneaux. Quelqu’un évoque un événement survenu ailleurs et emploie le mot pyromane comme s’il désignait simplement l’auteur d’un incendie. Aucun nom n’est lié à Loïc et personne ne lui demande de commentaire. Il reste pourtant silencieux plus longtemps qu’il ne l’aurait voulu. Le terme rejoint une partie de sa vie que les autres ne connaissent pas.\n\nIl pourrait corriger la phrase, mais il craint qu’une précision appelle immédiatement une question personnelle. Il ne veut pas non plus donner l’impression de défendre un acte dont il ne sait presque rien. Maud revient à l’ordre du jour et la fiche recommence à circuler. Loïc note seulement le mot sur une page personnelle, sans rien ajouter au document du comité.\n\nLors du contact prévu avec l’équipe, il rapporte la remarque. La docteure Perrin distingue le fait évoqué et le diagnostic qui demanderait une évaluation. Ils n’ont aucune information suffisante sur l’auteur et n’en déduisent rien. Loïc veut une formulation qui puisse être vraie sans devenir une confidence. Il comprend aussi que son propre diagnostic ne le renseigne pas sur cet événement extérieur. « Je peux dire que le mot n’est pas automatique, sans expliquer pourquoi je le sais ? » demande-t-il. La question porte maintenant sur la limite qu’il souhaite garder.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Nommer un acte ne pose pas un diagnostic",
+          "text": "La pyromanie répond à une évaluation clinique spécifique et ne recouvre pas tous les comportements incendiaires. Des mobiles différents, d’autres troubles ou certaines circonstances peuvent appeler d’autres explications. Cette distinction n’excuse aucun dommage et n’autorise pas à conclure sur une personne à partir d’une conversation. Loïc peut corriger un usage de vocabulaire sans devenir l’expert de l’événement évoqué ni exposer sa propre santé."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment la confusion des termes pèse-t-elle sur une personne suivie ?",
+          "points": [
+            {
+              "heading": "Un mot clinique devient une étiquette automatique",
+              "text": "Le langage courant peut supprimer la distinction entre un fait et une évaluation.",
+              "examples": [
+                "Au comité, le terme pyromane remplace directement auteur d’incendie.",
+                "Aucune information clinique n’accompagne pourtant la remarque."
+              ]
+            },
+            {
+              "heading": "Une précision semble dévoiler une histoire",
+              "text": "Une personne peut craindre qu’une correction générale conduise à des questions intimes.",
+              "examples": [
+                "Loïc hésite à intervenir devant le groupe.",
+                "Il cherche ensuite une phrase qui ne raconte pas son suivi."
+              ]
+            },
+            {
+              "heading": "La nuance est confondue avec une excuse",
+              "text": "Distinguer les catégories ne revient pas à minimiser l’événement.",
+              "examples": [
+                "Loïc ne souhaite pas défendre un acte dont il ignore les circonstances.",
+                "La docteure sépare l’évaluation clinique des questions de responsabilité."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour préciser un terme sans exposer son histoire",
+          "points": [
+            {
+              "heading": "Corriger la distinction utile",
+              "objective": "Apporter une nuance limitée plutôt qu’un diagnostic à distance.",
+              "exercise": [
+                "Repérer le rapprochement entre fait et terme clinique.",
+                "Dire simplement qu’un diagnostic ne découle pas automatiquement de cet acte.",
+                "S’arrêter à cette distinction sans supposer les mobiles ou le trouble de l’auteur évoqué."
+              ],
+              "benefit": "Une précision peut réduire une confusion sans transformer une réunion en expertise clinique."
+            },
+            {
+              "heading": "Poser une limite personnelle",
+              "objective": "Garder le choix de ce que l’on souhaite partager.",
+              "exercise": [
+                "Préparer une phrase indiquant que la remarque est générale.",
+                "Dire si l’on ne souhaite pas aborder sa santé dans cette discussion.",
+                "Revenir au sujet de travail ou quitter l’échange si nécessaire selon l’organisation prévue."
+              ],
+              "benefit": "Le vocabulaire peut être discuté sans faire du dévoilement personnel le prix de la participation."
+            },
+            {
+              "heading": "Réserver l’évaluation aux professionnels",
+              "objective": "Ne pas utiliser un diagnostic connu comme réponse à tout événement.",
+              "exercise": [
+                "Distinguer les faits disponibles des suppositions.",
+                "Porter au suivi les questions qui concernent sa propre situation.",
+                "Laisser les évaluations et responsabilités de l’événement extérieur aux interlocuteurs compétents."
+              ],
+              "benefit": "Chacun garde son périmètre, sans accusation automatique ni assurance d’absence de responsabilité."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Une phrase générale, une limite personnelle",
+      "ending": "Loïc retient : « Un incendie volontaire ne permet pas, à lui seul, de poser ce diagnostic. » Il pourra la dire sans ajouter le contenu de son carnet. Il ne demande pas à la docteure de conclure sur l’événement extérieur. Leurs échanges lui donnent envie de préparer séparément les informations pratiques destinées à Maud : ce qu’elle doit savoir pour organiser la brocante n’est pas nécessairement ce qu’il vient de discuter ici.",
+      "conclusion": "Un fait, un diagnostic et une responsabilité ne sont pas des mots interchangeables. Loïc choisit une précision qui respecte ces distinctions et une limite sur sa vie privée. Son suivi reste un espace d’évaluation individuelle, sans diagnostic à distance d’un tiers.",
+      "mirror": [
+        "Maud peut accueillir une correction générale sans demander : « Tu connais quelqu’un comme ça ? » Elsa peut respecter le choix de Loïc de ne pas raconter son suivi au comité. Un proche n’a pas à transformer un fait divers en enquête sur lui, ni à utiliser le diagnostic pour minimiser un acte. Les situations de sécurité réelles gardent leurs réponses propres."
+      ],
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-hrb"
+      ],
+      "continuity": {
+        "choice": "Loïc choisit une réponse courte sur la différence entre un fait et un diagnostic. Il décide ensuite quelles informations pratiques il veut partager avec Maud.",
+        "next": "La question du consentement et des destinataires occupera la réunion de préparation."
+      }
     }
   ]
 }
