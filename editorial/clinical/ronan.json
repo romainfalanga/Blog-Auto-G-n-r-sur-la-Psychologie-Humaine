@@ -1,0 +1,215 @@
+{
+  "character_id": "ronan",
+  "bio": "Ronan, 37 ans, est archiviste dans une société de transports. Son Trouble exhibitionniste est déjà diagnostiqué et il poursuit un suivi spécialisé choisi. La détresse qu’il éprouve interrompt parfois son travail, sans que son métier explique son trouble. Il termine un catalogue de photographies autorisées de gares et veut participer à une rencontre professionnelle dans un cadre sûr. Avec son équipe et un adulte qu’il a choisi, il prépare ses décisions préventives tout en respectant les limites des autres. Son projet avance sans devenir une preuve de guérison.",
+  "profile_topics": [
+    "Trouble exhibitionniste",
+    "détresse et demande de soin",
+    "consentement et responsabilité",
+    "prévention individualisée",
+    "continuité professionnelle"
+  ],
+  "episodes": [
+    {
+      "number": 1,
+      "slug": "detresse-trouble-exhibitionniste-demander-aide",
+      "title": "La détresse peut conduire à demander de l’aide",
+      "description": "La notice reste inachevée : Ronan cherche comment parler de sa détresse à l’équipe qui le suit pour un trouble exhibitionniste.",
+      "context": "au bureau avant le suivi",
+      "topics": [
+        "Trouble exhibitionniste",
+        "détresse",
+        "demande de soin"
+      ],
+      "clinical_intro": "Le trouble exhibitionniste peut s’accompagner d’une détresse importante, qui mérite une prise en charge même lorsqu’aucun acte n’est rapporté. Chez Ronan, le diagnostic est déjà établi et des pensées liées au trouble interrompent le travail. Dire ce retentissement à son équipe permet de demander une aide adaptée, sans demander à un collègue de l’évaluer.",
+      "opening": "La gare des Saules a changé d’enseigne en septembre, pas en août. Ronan a retrouvé la facture qui le prouve ; il lui reste à corriger deux lignes. Pourtant, depuis son arrivée, le curseur clignote au même endroit. Des pensées liées au trouble pour lequel il est suivi occupent son attention. Il relit la première phrase et ne sait plus ce qu’il voulait y déplacer.\n\nSur la chemise grise, il a écrit Gares en correspondance au feutre noir. Claire attend la notice pour vérifier la mise en page. Il aime ce travail : une date juste rend parfois lisible toute une photographie. Ce matin, cette satisfaction lui paraît loin. Il ouvre son agenda, trouve le rendez-vous avec la docteure Leclerc, puis le referme. Il pourrait attendre et parler seulement du catalogue. Dire que la semaine lui pèse autant lui semble plus difficile que demander un délai.\n\nQuand Claire passe à la porte, il dit simplement que la notice n’est pas prête. Elle lui demande une estimation ; il promet de la rappeler dans l’après-midi, après avoir regardé ce qui reste faisable. Une fois seul, il prend le numéro du secrétariat. Il prépare une phrase sans détail intime : « Je suis déjà suivi, mais ma détresse a augmenté. Je voudrais que l’équipe le sache avant notre rendez-vous. » Il appelle et transmet cette demande. Pour une fois, il ne corrige pas sa phrase jusqu’à la rendre vide.",
+      "ending_title": "La date dans l’agenda",
+      "ending": "Le secrétariat confirme le rendez-vous et la transmission de sa demande à l’équipe. Ronan inscrit la date dans son agenda de travail, sans y ajouter d’information de santé. Puis il prévient Claire que la correction sera reprise après cet échange. La notice des Saules retourne dans la chemise grise, toujours inachevée. Il n’a pas retrouvé sa concentration ; il a rendu sa difficulté moins invisible à ceux qui peuvent la prendre en charge.",
+      "conclusion": "La détresse peut justifier une demande de soin sans qu’un acte soit raconté ou présumé. Ronan conserve son projet, mais il cesse d’attendre que la notice soit terminée pour parler de ce qui l’empêche d’avancer.",
+      "mirror": "Devant la notice inachevée, Claire peut demander : « Quelle partie peux-tu reprendre, et quand refaisons-nous le point ? » Elle n’a pas à obtenir le diagnostic pour organiser le travail. Un proche auquel Ronan parle de sa détresse peut l’encourager à joindre l’équipe, sans exiger de détails ni promettre de gérer seul sa sécurité. Le soutien reste compatible avec ses propres limites.",
+      "clinical_focus": "La détresse conduit à demander de l’aide",
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "wfsbp-2020"
+      ],
+      "continuity": {
+        "choice": "Ronan transmet sa détresse au secrétariat, garde le rendez-vous confirmé et reporte la reprise de la notice des Saules.",
+        "next": "Au rendez-vous, il voudra comprendre pourquoi un jour plus calme ne suffit pas à effacer le diagnostic."
+      },
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Nommer la détresse sans déduire un acte",
+          "text": "Le trouble exhibitionniste concerne un schéma durable et intense d’excitation sexuelle centré sur l’exposition de ses organes génitaux à une personne qui ne s’y attend pas, généralement sans recherche de contact plus rapproché. Le diagnostic exige une évaluation clinique ; une pensée isolée ou la peur d’un acte ne le définissent pas. Chez Ronan, ce schéma a déjà été évalué. La détresse qu’il décrit n’autorise aucune déduction sur un acte antérieur. Son interruption de travail montre un retentissement possible, pas un critère permettant de diagnostiquer un collègue."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment la détresse prend-elle de la place au travail ?",
+          "points": [
+            {
+              "heading": "Le travail reste en suspens",
+              "text": "Une difficulté personnelle peut empêcher d’utiliser une information pourtant disponible.",
+              "examples": [
+                "Ronan a retrouvé la facture mais ne corrige pas les deux lignes.",
+                "Il relit une phrase sans poursuivre la notice."
+              ]
+            },
+            {
+              "heading": "La parole se rétrécit",
+              "text": "L’hésitation à parler peut masquer au soignant ce qui a changé.",
+              "examples": [
+                "Il envisage de ne parler que du catalogue au rendez-vous.",
+                "Il retire mentalement de sa demande ce qui concerne sa souffrance."
+              ]
+            },
+            {
+              "heading": "Les interlocuteurs ont des rôles différents",
+              "text": "Une échéance se discute avec une collègue ; la détresse clinique se transmet à l’équipe.",
+              "examples": [
+                "Claire reçoit une estimation de travail.",
+                "Le secrétariat reçoit une demande destinée aux soignants."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour préparer une demande d’aide",
+          "points": [
+            {
+              "heading": "Préparer une phrase fidèle",
+              "objective": "Rendre le changement compréhensible.",
+              "exercise": [
+                "Nommer ce qui pèse actuellement sans le minimiser.",
+                "Ajouter un effet concret, comme l’interruption du travail.",
+                "Transmettre cette phrase au contact professionnel prévu."
+              ],
+              "benefit": "Cela peut faciliter l’accès à un échange clinique, sans remplacer l’évaluation."
+            },
+            {
+              "heading": "Choisir le bon destinataire",
+              "objective": "Préserver l’intimité tout en demandant du soutien.",
+              "exercise": [
+                "Distinguer la demande de soin de la demande professionnelle.",
+                "Garder les informations cliniques pour l’équipe compétente.",
+                "Dire au collègue uniquement la contrainte utile à la tâche."
+              ],
+              "benefit": "Les besoins peuvent être entendus sans transformer le bureau en lieu de consultation."
+            },
+            {
+              "heading": "Réduire l’engagement de travail",
+              "objective": "Éviter une promesse intenable pendant la démarche.",
+              "exercise": [
+                "Identifier la partie réellement inachevée.",
+                "Proposer une heure pour rediscuter du délai.",
+                "Réviser la tâche avec la personne qui en dépend."
+              ],
+              "benefit": "Une estimation modeste peut rendre l’organisation plus fiable ; ce n’est pas un traitement."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "slug": "schema-durable-journee-calme",
+      "title": "Un jour plus calme ne suffit pas à effacer un trouble",
+      "description": "Au suivi, Ronan voudrait expliquer ses difficultés par le bouclage. Une semaine variable ne remplace pas l’histoire clinique.",
+      "context": "au rendez-vous spécialisé",
+      "topics": [
+        "Trouble exhibitionniste",
+        "persistance",
+        "fluctuations"
+      ],
+      "clinical_intro": "Un trouble déjà diagnostiqué ne se résume pas à l’intensité de la journée présente. Son évaluation tient compte d’une histoire et d’un schéma durable. Ronan découvre que décrire une amélioration et maintenir le suivi sont compatibles : une période plus calme apporte une information, sans annuler ce qui a été établi.",
+      "opening": "Dans la salle d’attente, Ronan barre le mot « difficile ». Il a passé une matinée plus calme et la phrase lui semble désormais excessive. Puis il relit la note entière. Elle concerne la semaine précédente, celle de la notice laissée ouverte et de l’appel au secrétariat. Il remet le mot dans la marge, plus petit.\n\nLa docteure Leclerc lui demande ce qu’il souhaitait transmettre. Ronan commence par la fatigue du bouclage. Il explique que les photographies doivent partir ensemble, que Claire ne peut pas avancer sans ses légendes, que les dates se contredisent parfois. Tout cela est vrai. Mais il sent qu’il pourrait occuper le rendez-vous avec les difficultés du catalogue et repartir sans avoir dit le reste.\n\n« Aujourd’hui, ça va mieux. Alors je me demande si on n’a pas donné trop de poids à tout cela. » La médecin reprend avec lui l’histoire déjà évaluée. Les détails appartiennent à leur entretien. Elle distingue ce qui a changé cette semaine du schéma sur lequel le diagnostic a été posé. Ronan écoute, puis revient à sa note : certains passages restent exacts même s’ils ne décrivent pas ce matin.\n\nIl pose enfin sa vraie question : « Quand je vous dis que c’est plus calme, qu’est-ce que cela change pour le suivi ? » Il ne demande plus une gomme. Il veut comprendre ce que l’amélioration permet réellement de conclure.",
+      "ending_title": "Le mot reste dans la marge",
+      "ending": "Ronan laisse « difficile » à côté de sa phrase. Il ajoute : « plus calme aujourd’hui ». Les deux observations tiennent sur la même feuille. Le prochain rendez-vous reste fixé. Au bureau, il reprend la notice des Saules et retrouve le passage sur l’enseigne. Il ne la termine pas encore, mais il corrige la date sans demander à cette correction de prouver quoi que ce soit sur sa santé.",
+      "conclusion": "Décrire fidèlement les jours difficiles et les jours plus simples aide le suivi. Pour Ronan, l’accalmie devient une information à partager, tandis que l’appréciation du trouble continue de relever d’une histoire clinique plus large.",
+      "mirror": "Si Ronan dit à Marc qu’il a eu une meilleure journée, son ami peut répondre : « Je suis content que ce soit moins pesant. Tu pourras aussi en parler au prochain rendez-vous. » Il n’a pas à confirmer ou contester le diagnostic. Accueillir le soulagement ne signifie pas promettre que tout est réglé, ni exiger que Ronan reste inquiet pour être pris au sérieux.",
+      "clinical_focus": "Un schéma durable dépasse une mauvaise journée",
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "wfsbp-2020"
+      ],
+      "continuity": {
+        "choice": "Ronan conserve les observations contradictoires de sa note, maintient le suivi et reprend la correction de la notice des Saules.",
+        "next": "La préparation de la rencontre fera émerger une confusion sur ce que veut dire consentir."
+      },
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "La durée du schéma et la variation du vécu",
+          "text": "Un schéma clinique durable peut varier en intensité sans disparaître à chaque accalmie. Le trouble exhibitionniste ne se déduit ni d’une pensée intrusive isolée ni de la seule peur de commettre un acte : ces expériences ne sont pas équivalentes au schéma d’excitation évalué par le clinicien. La fatigue de Ronan est une information à entendre, pas une explication suffisante de son diagnostic. Son entretien reprend l’histoire connue plutôt qu’un comptage de pensées que le lecteur pourrait utiliser comme test."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment une journée calme peut-elle brouiller le bilan ?",
+          "points": [
+            {
+              "heading": "Le présent réécrit la semaine",
+              "text": "Ronan juge ses notes à partir de son état du matin.",
+              "examples": [
+                "Il barre un mot pourtant fidèle à la semaine précédente.",
+                "Il hésite à transmettre la difficulté qui avait motivé son appel."
+              ]
+            },
+            {
+              "heading": "Une explication partielle prend toute la place",
+              "text": "Le bouclage fournit une raison familière qui ne répond pas à toute la question clinique.",
+              "examples": [
+                "Il détaille les retards des légendes.",
+                "Il omet d’abord ce qui l’avait conduit au suivi spécialisé."
+              ]
+            },
+            {
+              "heading": "Une bonne nouvelle devient une conclusion trop large",
+              "text": "Une amélioration peut être accueillie sans servir de preuve de disparition.",
+              "examples": [
+                "Ronan demande si le diagnostic était excessif.",
+                "La médecin distingue le changement récent de l’histoire évaluée."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour parler d’un changement sans refaire seul son diagnostic",
+          "points": [
+            {
+              "heading": "Conserver les faits datés",
+              "objective": "Éviter que l’état présent efface l’information passée.",
+              "exercise": [
+                "Relire la note avant de la corriger.",
+                "Préciser la période à laquelle elle se rapporte.",
+                "Ajouter l’amélioration actuelle à côté de la difficulté précédente."
+              ],
+              "benefit": "Le soignant reçoit une évolution, plutôt qu’une version choisie selon l’humeur du moment."
+            },
+            {
+              "heading": "Demander une reformulation",
+              "objective": "Comprendre la portée d’une observation.",
+              "exercise": [
+                "Dire ce que l’on croit avoir compris.",
+                "Demander ce que le changement permet ou non de conclure.",
+                "Reformuler la réponse avec ses propres mots."
+              ],
+              "benefit": "Une distinction comprise peut réduire les malentendus sur le maintien du suivi."
+            },
+            {
+              "heading": "Garder le prochain point",
+              "objective": "Discuter la continuité avec l’équipe.",
+              "exercise": [
+                "Vérifier l’étape déjà prévue.",
+                "Exprimer son souhait éventuel d’alléger le suivi.",
+                "Décider de la suite avec les professionnels concernés."
+              ],
+              "benefit": "La décision peut tenir compte de l’amélioration sans reposer sur une journée isolée."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

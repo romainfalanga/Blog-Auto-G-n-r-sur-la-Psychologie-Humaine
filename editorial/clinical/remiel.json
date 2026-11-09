@@ -1,0 +1,219 @@
+{
+  "character_id": "remiel",
+  "bio": "Rémiël, 45 ans, est restaurateur d’instruments. Son Trouble pédophile est déjà diagnostiqué et suivi par un service clinique spécialisé. La détresse et les préoccupations liées au trouble compliquent son attention et ses échanges avec les soignants. Il veut terminer la restauration d’un baromètre de collection dans des espaces réservés aux adultes, en respectant les mesures de protection et de prévention. Une responsable de collection et un collègue soutiennent l’organisation du travail. Rémiël apprend à solliciter les professionnels au bon moment, sans faire porter à son entourage la responsabilité du suivi.",
+  "profile_topics": [
+    "Trouble pédophile",
+    "Détresse et préoccupation",
+    "Recours aux soins",
+    "Protection et responsabilité",
+    "Continuité du suivi"
+  ],
+  "episodes": [
+    {
+      "number": 1,
+      "slug": "remiel-diagnostic-responsabilite",
+      "title": "Comprendre le diagnostic sans effacer la responsabilité",
+      "description": "Devant un délai à fixer, Rémiël peine à répondre. Le suivi de son trouble doit avoir une place concrète dans le chantier.",
+      "context": "Au bureau de l’atelier",
+      "topics": [
+        "Trouble pédophile",
+        "Diagnostic",
+        "Responsabilité"
+      ],
+      "clinical_focus": "Diagnostic et responsabilité",
+      "diagnostic_stage": "known",
+      "clinical_intro": "Un diagnostic de trouble pédophile nécessite une évaluation clinique ; il ne se déduit ni d’une inquiétude isolée ni du portrait d’une personne. Distinguer le trouble, la détresse et les actes permet de comprendre les besoins de soin sans diminuer la responsabilité. La protection reste une exigence tout au long du suivi.",
+      "opening": "Anne pose la fiche du baromètre au bord du bureau. Elle attend une estimation pour la collection dont elle est responsable. Rémiël a inscrit les dimensions du boîtier, l’état du cadran et les premières opérations à examiner. La case du délai reste vide. À quarante-cinq ans, ce restaurateur d’instruments sait expliquer pourquoi une graduation doit rester visible. Ce matin, il peine à répondre à une question beaucoup plus courte : quand pourra-t-il rendre son devis ?\n\nDans cet atelier réservé aux adultes, la responsable de collection ne le presse pas de raconter sa vie. Elle lui demande seulement si elle doit revenir vendredi. Rémiël commence par dire oui, puis s’arrête. Son trouble pédophile est déjà diagnostiqué et suivi. La détresse qui l’accompagne occupe une place qu’il n’a pas prévue dans son estimation. Il a rendez-vous avec la docteure Vidal pour organiser ce nouveau chantier dans le cadre de prévention convenu avec le service spécialisé.\n\n« Je préfère vous donner une date après mon rendez-vous », finit-il par répondre. Il entend combien sa phrase paraît brève. Anne ramène la fiche vers elle et demande si les premières observations techniques sont néanmoins utilisables. Elles le sont. Rémiël distingue alors ce qui est établi sur l’instrument de ce qu’il doit encore organiser pour travailler. Il laisse le devis ouvert, prend son agenda et vérifie l’heure de la consultation.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Un diagnostic ne raconte pas toute une vie",
+          "text": "Le trouble pédophile concerne un intérêt sexuel durable et intense envers les enfants prépubères, associé à une détresse marquée ou à une mise en acte. Cette définition clinique ne permet pas de présumer des actes d’une personne. Inversement, toute violence sexuelle ne relève pas de ce diagnostic. Chez Rémiël, le trouble est établi et la détresse est présente ; sa responsabilité et l’exigence de protection demeurent entières. Son métier ne fournit aucune mesure du risque, et être suivi ne constitue pas une garantie d’innocuité."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment la question du diagnostic pèse-t-elle sur le projet ?",
+          "points": [
+            {
+              "heading": "Une réponse se raccourcit",
+              "text": "La détresse laisse moins de place à une réponse professionnelle précise.",
+              "examples": [
+                "Rémiël commence à accepter vendredi avant de se reprendre.",
+                "Il ne trouve d’abord qu’une phrase courte pour expliquer le report."
+              ]
+            },
+            {
+              "heading": "Deux décisions se confondent",
+              "text": "Le calendrier de travail dépend aussi des besoins du suivi.",
+              "examples": [
+                "La case du délai demeure vide malgré les observations techniques.",
+                "Le rendez-vous avec Vidal doit précéder son engagement définitif."
+              ]
+            },
+            {
+              "heading": "La responsabilité garde une place concrète",
+              "text": "Comprendre le diagnostic conduit à organiser les soins, sans en faire une excuse.",
+              "examples": [
+                "Rémiël vérifie son rendez-vous au lieu de l’écarter du planning.",
+                "Il maintient le chantier dans le cadre adulte convenu."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour articuler compréhension et responsabilité",
+          "points": [
+            {
+              "heading": "Préparer une question clinique",
+              "objective": "Faire préciser ce que le diagnostic signifie dans le suivi.",
+              "exercise": [
+                "Formuler la question qui reste confuse.",
+                "La présenter au soignant lors du rendez-vous.",
+                "Demander une reformulation si la réponse reste obscure."
+              ],
+              "benefit": "Une explication comprise peut faciliter un échange plus utile avec l’équipe."
+            },
+            {
+              "heading": "Confirmer les modalités du suivi",
+              "objective": "Donner une place réelle au rendez-vous.",
+              "exercise": [
+                "Vérifier la date convenue.",
+                "Confirmer les modalités auprès du service.",
+                "Conserver les coordonnées de contact transmises par l’équipe."
+              ],
+              "benefit": "La démarche ne reste pas une intention générale de consulter."
+            },
+            {
+              "heading": "Réserver un temps professionnel réaliste",
+              "objective": "Éviter une promesse incompatible avec les soins.",
+              "exercise": [
+                "Repérer la partie technique déjà estimable.",
+                "Différer ce qui exige encore un échange clinique.",
+                "Convenir avec la responsable d’un moment pour finaliser le devis."
+              ],
+              "benefit": "Le projet peut avancer sans empiéter sur les obligations de prévention."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Le devis attend le rendez-vous",
+      "ending": "Rémiël confirme la consultation. Anne accepte de recevoir l’estimation après cet échange ; elle repart avec les seules observations techniques dont elle a besoin. Au rendez-vous, Vidal reprend avec lui le calendrier du suivi et le cadre adulte du chantier. Rémiël revient à l’atelier avec des dates concrètes. Le baromètre attend toujours sur l’établi, et il reste à savoir quelle partie du travail son attention lui permettra réellement d’accomplir.",
+      "conclusion": "Comprendre un diagnostic aide à situer les soins, sans raconter à lui seul les actes, l’avenir ou la valeur d’une personne. Rémiël commence par rendre le suivi compatible avec son engagement professionnel, tout en maintenant les mesures de protection.",
+      "mirror": [
+        "Anne peut dire : « Donnez-moi une date de retour sur le devis, même si le devis n’est pas encore prêt. » Cette demande garde l’échange sur le travail. Elle n’a pas à conclure sur la santé de Rémiël ni à garantir sa sécurité. Les informations nécessaires à l’évaluation et à la protection doivent être adressées aux professionnels concernés."
+      ],
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-hrb"
+      ],
+      "continuity": {
+        "choice": "Il confirme le rendez-vous et propose à Anne de chiffrer le travail après celui-ci. Elle accepte une estimation technique différée, sans avoir à obtenir un récit médical.",
+        "next": "Il retrouve l'atelier avec un calendrier de suivi concret ; reste à vérifier ce qu'il peut accomplir durant une séance de travail."
+      }
+    },
+    {
+      "number": 2,
+      "slug": "remiel-attention-disponible",
+      "title": "Quand la préoccupation prend de la place au travail",
+      "description": "Rémiël recopie deux fois la même mesure. Il rapporte cette perte de fil à son équipe, sans la traiter comme un nouveau diagnostic.",
+      "context": "Une mesure à reprendre",
+      "topics": [
+        "Trouble pédophile",
+        "Préoccupation",
+        "Attention"
+      ],
+      "clinical_focus": "Préoccupation et attention disponible",
+      "diagnostic_stage": "known",
+      "clinical_intro": "La détresse et les préoccupations liées à un trouble peuvent gêner le travail quotidien. Ce retentissement varie selon les personnes et ne constitue pas, à lui seul, un critère diagnostique. Une difficulté d’attention mérite d’être décrite à l’équipe qui suit la personne, sans être transformée en preuve d’un autre trouble.",
+      "opening": "Rémiël aligne le crayon avec le bord du carnet, puis relit la mesure qu’il vient d’inscrire. La même valeur apparaît deux lignes plus haut. Il ne sait plus laquelle correspond à l’observation qu’il voulait vérifier. L’atelier est silencieux ; il y travaille seul dans le cadre réservé aux adultes. Son rendez-vous avec Vidal a permis de fixer le calendrier du suivi, mais ce calendrier ne fait pas disparaître la préoccupation.\n\nIl reprend la phrase de la notice technique. Au milieu, il s’aperçoit qu’il n’a pas retenu le début. Il est inquiet de son trouble, inquiet aussi de ne pas parvenir à en parler assez clairement. Aucun de ces soucis ne lui donne une mesure utilisable. Il pose donc le crayon. Sur le papier, il écrit seulement que la vérification reste à reprendre, afin de ne pas présenter comme acquise une observation devenue incertaine.\n\nLe contact prévu avec le service a lieu en fin de journée. Rémiël voudrait pouvoir annoncer qu’il a terminé la première étape. Il prépare plutôt une phrase factuelle : « J’ai perdu le fil plusieurs fois, jusqu’à recopier deux fois la même mesure. » La dire lui paraît embarrassant. Il range la pièce dans son emplacement de travail, laisse la finition de côté et garde la question pour l’échange déjà convenu. Cette fois, le résultat de la séance sera une tâche interrompue et une difficulté transmise.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Décrire le retentissement sans ajouter une étiquette",
+          "text": "Une préoccupation peut mobiliser l’attention au point de gêner une activité exigeante. C’est le retentissement choisi ici pour Rémiël, pas une manifestation universelle du trouble pédophile. Sa mesure recopiée n’établit ni trouble cognitif ni aggravation déterminée à elle seule. La description de ce qui devient difficile permet au soignant de replacer cette observation dans l’ensemble de sa situation. Les aménagements du travail peuvent limiter une erreur technique ; ils ne constituent pas un traitement du trouble."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment la préoccupation devient-elle visible dans le travail ?",
+          "points": [
+            {
+              "heading": "Le fil de la tâche se perd",
+              "text": "Une action accomplie n’est plus reliée avec certitude à son résultat.",
+              "examples": [
+                "La valeur figure deux fois dans le carnet.",
+                "Rémiël ne sait plus quelle ligne correspond à sa vérification."
+              ]
+            },
+            {
+              "heading": "Le rendement devient incertain",
+              "text": "Le temps passé ne suffit pas à attester qu’une étape est terminée.",
+              "examples": [
+                "Il relit le début de la notice après en avoir oublié le sens.",
+                "La finition prévue reste en attente."
+              ]
+            },
+            {
+              "heading": "Le récit au soignant se précise",
+              "text": "Un fait concret décrit mieux l’impact qu’une conclusion improvisée.",
+              "examples": [
+                "Il prépare la phrase sur la mesure recopiée.",
+                "Il explique au service qu’il a dû interrompre sa séance."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour transmettre une difficulté d’attention",
+          "points": [
+            {
+              "heading": "Suspendre la tâche devenue incertaine",
+              "objective": "Préserver la fiabilité du travail technique.",
+              "exercise": [
+                "Arrêter l’étape dont on a perdu le fil.",
+                "Indiquer clairement qu’elle reste à vérifier.",
+                "Ranger le travail selon les habitudes professionnelles adaptées."
+              ],
+              "benefit": "L’arrêt peut éviter de transformer une hésitation en résultat faussement validé."
+            },
+            {
+              "heading": "Rapporter un effet concret",
+              "objective": "Aider l’équipe à comprendre le retentissement quotidien.",
+              "exercise": [
+                "Retenir un exemple fonctionnel simple.",
+                "Expliquer ce que cet exemple a empêché de faire.",
+                "Le transmettre lors de l’échange prévu, ou contacter le service plus tôt si la situation le nécessite."
+              ],
+              "benefit": "Le soignant dispose d’une observation à examiner, sans score personnel de risque."
+            },
+            {
+              "heading": "Ajuster l’étape suivante",
+              "objective": "Préparer une reprise compatible avec les besoins cliniques.",
+              "exercise": [
+                "Discuter de la difficulté avec l’équipe.",
+                "Définir ensuite une tâche professionnelle limitée.",
+                "Revoir le délai avec la responsable si cette tâche ne peut aboutir."
+              ],
+              "benefit": "La charge devient plus réaliste ; le travail ne remplace pas les soins."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Une ligne reste à vérifier",
+      "ending": "Pendant l’échange, Rémiël transmet la difficulté au service. Il ne transforme pas la mesure manquée en diagnostic supplémentaire. La finition attendra et la vérification devra être refaite. En raccrochant, il constate qu’il a donné les faits, mais avec des phrases très courtes. Il avait peur de ce que la soignante penserait de lui ; cette peur mérite elle aussi une place au prochain entretien.",
+      "conclusion": "L’impact d’une préoccupation se comprend à partir de ce qu’elle change dans la journée. Pour Rémiël, suspendre une mesure incertaine puis en parler au service ouvre une discussion utile, sans fournir une méthode de traitement autonome.",
+      "mirror": [
+        "Si Anne reçoit une notice incomplète, elle peut demander quelles mesures restent à vérifier plutôt que d’interpréter elle-même la distraction. « Je peux distinguer le provisoire du validé si vous me l’indiquez », pourrait-elle dire. Cette aide concerne la qualité du travail. L’évaluation de la difficulté et de ses enjeux de sécurité reste confiée aux professionnels."
+      ],
+      "sources": [
+        "oms-cddr",
+        "landgren-2020"
+      ],
+      "continuity": {
+        "choice": "Il range la pièce sans conclure la mesure et transmet sa difficulté au service pendant l'échange prévu. La finition attendra ; la mesure devra être reprise.",
+        "next": "Cette transmission a eu lieu, mais il constate combien son inquiétude d'être jugé rend ses phrases brèves."
+      }
+    }
+  ]
+}

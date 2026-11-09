@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "revision": 572,
+  "revision": 589,
   "created_at": "2026-11-07T14:47:42Z",
   "cases": {
     "mathis": {
@@ -4802,12 +4802,14 @@
       "code": "6D33",
       "stage": "story",
       "created_at": "2026-11-07T14:47:42Z",
-      "active_job": null,
+      "active_job": "72827c6a21d64be3940cb10572538b55",
       "owners": {
         "character": [
           "personnage_marceau"
         ],
-        "story": [],
+        "story": [
+          "story_marceau"
+        ],
         "review": []
       },
       "revision_rounds": 0,
@@ -73412,9 +73414,41 @@
       },
       "snapshot_sha256": "7dbae87c1832825a8fe2b02a0a0844220ed12e66494e0110db54c9c9f2a0ed58",
       "status": "active",
-      "token_sha256": "ca61e956b7829d4da4d62f9c7dda07ef93f9ed0115f909b3e0769653a73b9832",
-      "heartbeat_at": "2026-11-09T21:57:28Z",
-      "expires_at": "2026-11-09T22:27:28Z"
+      "token_sha256": "fc3d0e68b6da8cfea7cb2b0ea8905cda513bb04c7a6d5c099a4e1aa730ac9ff9",
+      "heartbeat_at": "2026-11-09T22:15:49Z",
+      "expires_at": "2026-11-09T22:45:49Z",
+      "checkpoints": [
+        {
+          "at": "2026-11-09T21:58:55Z",
+          "outputs": {
+            "editorial/clinical/remiel.json": "d81b90f5bc833935052cfa8f2badeb9c2b4773dd335a4c7a8eb05af895215bbc"
+          },
+          "observed": {
+            "manuscript_sha256": "d81b90f5bc833935052cfa8f2badeb9c2b4773dd335a4c7a8eb05af895215bbc",
+            "episodes_present": 1,
+            "manuscript_readable": true,
+            "design_sha256": "ff11cdc9ccb207672804cf72dffc2155a3218d0e289717553ff699965c1ed2d0",
+            "dossier_sha256": "79e047de73e07aacf4a44aeb667c1c95301701870d1a7da0acd37d8ab97c50c4",
+            "review_sha256": null
+          }
+        },
+        {
+          "at": "2026-11-09T21:59:38Z",
+          "outputs": {
+            "editorial/clinical/remiel.json": "3afccec258afd1ff0320c2b54ed72878dc28d2cbf520743e606ff847a358c71c"
+          },
+          "observed": {
+            "manuscript_sha256": "3afccec258afd1ff0320c2b54ed72878dc28d2cbf520743e606ff847a358c71c",
+            "episodes_present": 2,
+            "manuscript_readable": true,
+            "design_sha256": "ff11cdc9ccb207672804cf72dffc2155a3218d0e289717553ff699965c1ed2d0",
+            "dossier_sha256": "79e047de73e07aacf4a44aeb667c1c95301701870d1a7da0acd37d8ab97c50c4",
+            "review_sha256": null
+          }
+        }
+      ],
+      "resumed_at": "2026-11-09T22:15:49Z",
+      "resume_count": 1
     },
     "0cb506e6e7344f95bfb0c7550fced81f": {
       "id": "0cb506e6e7344f95bfb0c7550fced81f",
@@ -73789,11 +73823,41 @@
       },
       "snapshot_sha256": "edc1caa28e1d8f05c9ccb4e2d368ad2be952069017ee987e51551bd77b170c2c",
       "status": "active",
-      "token_sha256": "80ea175aaeda925fdc1fa1c7ed70681c7724db922c218219fda246c7e5c17531",
-      "heartbeat_at": "2026-11-09T21:57:53Z",
-      "expires_at": "2026-11-09T22:27:53Z",
-      "resumed_at": "2026-11-09T21:57:53Z",
-      "resume_count": 1
+      "token_sha256": "b05182f92708e5d670131853b1c1530be0f8553c1042997b51659dc7668bd416",
+      "heartbeat_at": "2026-11-09T22:15:30Z",
+      "expires_at": "2026-11-09T22:45:30Z",
+      "resumed_at": "2026-11-09T22:15:30Z",
+      "resume_count": 2,
+      "checkpoints": [
+        {
+          "at": "2026-11-09T21:59:06Z",
+          "outputs": {
+            "editorial/clinical/ronan.json": "e6e6eb671ce231542341d646e66805f48fc0fae6398d446dd90f1a93d3f2d352"
+          },
+          "observed": {
+            "manuscript_sha256": "e6e6eb671ce231542341d646e66805f48fc0fae6398d446dd90f1a93d3f2d352",
+            "episodes_present": 1,
+            "manuscript_readable": true,
+            "design_sha256": "0cba2e51f093c3ef044176ad3ce3916b07d68badd6cadba0dda9a665673700d0",
+            "dossier_sha256": "243928a024942a596852433bc812cd56cc11b20701a47810ecd35b12f5927f87",
+            "review_sha256": null
+          }
+        },
+        {
+          "at": "2026-11-09T22:00:00Z",
+          "outputs": {
+            "editorial/clinical/ronan.json": "a4e88ff6f853db64ad452d99b5cbd6ae431b607b365ec2b679ac2e945a55edee"
+          },
+          "observed": {
+            "manuscript_sha256": "a4e88ff6f853db64ad452d99b5cbd6ae431b607b365ec2b679ac2e945a55edee",
+            "episodes_present": 2,
+            "manuscript_readable": true,
+            "design_sha256": "0cba2e51f093c3ef044176ad3ce3916b07d68badd6cadba0dda9a665673700d0",
+            "dossier_sha256": "243928a024942a596852433bc812cd56cc11b20701a47810ecd35b12f5927f87",
+            "review_sha256": null
+          }
+        }
+      ]
     },
     "a374317421b6439e827572cf25ba0a8f": {
       "id": "a374317421b6439e827572cf25ba0a8f",
@@ -74163,12 +74227,433 @@
       },
       "snapshot_sha256": "e0335503863b562b9ee8c5356bc9d04e0701aaece3fa9993627746d1d175b084",
       "status": "active",
-      "token_sha256": "342f11ed6a71a280b63ad77742845a452b51f37b67130d1f8857c6a86eeaa590",
-      "heartbeat_at": "2026-11-09T21:58:31Z",
-      "expires_at": "2026-11-09T22:28:31Z",
-      "resumed_at": "2026-11-09T21:58:31Z",
+      "token_sha256": "f8a867d98db229b3d8481ead2f4cc4dc027b62e25cbb7422a4fe573664089fc0",
+      "heartbeat_at": "2026-11-09T22:15:35Z",
+      "expires_at": "2026-11-09T22:45:35Z",
+      "resumed_at": "2026-11-09T22:15:35Z",
+      "resume_count": 2,
+      "checkpoints": [
+        {
+          "at": "2026-11-09T21:59:51Z",
+          "outputs": {
+            "editorial/clinical/amael.json": "62079cc2adb9425ab95e10713446140f7c0b15c791bd2bdfcfbd50b1a25057a8"
+          },
+          "observed": {
+            "manuscript_sha256": "62079cc2adb9425ab95e10713446140f7c0b15c791bd2bdfcfbd50b1a25057a8",
+            "episodes_present": 1,
+            "manuscript_readable": true,
+            "design_sha256": "0199f947f6509effe07d9bd3ccf794eaee5413debb9cf52354fc9501437034af",
+            "dossier_sha256": "1304ffdb7a53e459723664923a80227e538a420b08ed6fd0bf94a766739889bf",
+            "review_sha256": null
+          }
+        }
+      ]
+    },
+    "72827c6a21d64be3940cb10572538b55": {
+      "id": "72827c6a21d64be3940cb10572538b55",
+      "character_id": "marceau",
+      "role": "story",
+      "owner": "story_marceau",
+      "created_at": "2026-11-09T21:58:42Z",
+      "snapshot": {
+        "prompt_file": "editorial/agents/stories.md",
+        "prompt": "# Agent rédacteur d’histoires\n\nUn vrai sous-agent ChatGPT écrit un personnage entier. Il est distinct de son créateur. Plusieurs personnages peuvent être rédigés en parallèle ; les douze épisodes d’un même personnage s’écrivent dans l’ordre. Aucun appel de modèle par API ni production GitHub Actions.\n\nLire `editorial_pipeline.py brief --job <job>`, la charte, l’article modèle d’alexithymie en couple, le dossier individuel et le design gelé. Respecter leurs références et la chronologie du diagnostic. Recopier exactement la biographie et les cinq repères validés, et reprendre chaque aspect prévu dans `clinical_focus`. Ne pas modifier le dossier ou le plan en cours de rédaction ; signaler un problème au pilote.\n\nÉcrire uniquement `editorial/clinical/<id>.json`. Conserver tout épisode déjà sauvegardé après une interruption. Vérifier l’existence du manuscrit et relire ses raccords avant d’ajouter la suite. Sauvegarder chaque épisode complet puis exécuter `checkpoint` avec la mission et son jeton. Le fichier contient `character_id`, `bio`, `profile_topics`, `episodes` ; le brief donne les champs exacts de chaque épisode.\n\nTrame obligatoire, format 2 :\n\n1. Scène d’ouverture d’au moins 180 mots, sans intertitre, illustrant l’aspect précis de l’épisode.\n2. Introduction pédagogique autonome de 40 à 90 mots dans `clinical_intro`, distincte de l’explication développée dans l’article.\n3. Section `explanation` développant le mécanisme (au moins 25 mots).\n4. Section `manifestations`, titre « Comment … ? », trois points comprenant chacun un intertitre, une explication et deux exemples concrets.\n5. Section `strategies`, titre « 3 techniques pour … », trois points comprenant chacun un objectif, un exercice en trois actions et un bénéfice possible.\n6. Retour à la scène avec `ending_title` et `ending` ; une décision et sa conséquence réelle, sans guérison artificielle.\n7. `conclusion` d’au moins 25 mots, affichée après le séparateur.\n8. `mirror` : un ou deux paragraphes de 40 à 160 mots pour « Du côté des proches », ancrés dans la scène avec un geste ou une parole possible.\n\nAu moins 550 mots au total, trois repères d’épisode, titre centré sur le sujet et non sur le prénom, description de 155 caractères maximum, au moins deux références autorisées dont la source primaire. Documenter `continuity.choice` et `continuity.next` après chaque épisode. Les références restent dans les champs éditoriaux : aucune bibliographie publique dans le récit.\n\nLes aides du quotidien ne remplacent pas un soin. Aucun seuil d’autodiagnostic, posologie, exercice dangereux, exposition imposée, récompense pour parler, souvenir forcé, réconciliation obligatoire ou promesse de guérison. Respecter les relais professionnels et les procédures réelles de sécurité. Les proches ne deviennent ni diagnosticiens ni thérapeutes. La fiction décrit une présentation individuelle et ne transforme pas une hypothèse en mécanisme scientifique reconnu.\n\nRelire les raccords, les décisions, les douze aspects et la fin de l’enjeu de série. Exécuter `clinical_agent_contracts.py story <id>` puis `editorial_pipeline.py finish`. Le manuscrit passe alors à un relecteur indépendant. Ne pas écrire son propre rapport de relecture, intégrer, committer ou publier. En cas de retour, corriger les épisodes concernés, puis demander une nouvelle relecture complète liée aux nouvelles empreintes.\n",
+        "inputs": {
+          "data/clinical_catalog.json": "ea545ea8ad5aaa94b2b2e45e2816cde36bc101dc205b0da50e9303a12015cefa",
+          "data/clinical_sources.json": "fdaee525b573758c9f0f33cb52b62bfb2f077402336475a6f859762fea48e6e6",
+          "editorial/clinical/additional_characters.json": "8834d18f0c86a439357f6f776429d57b23c4acab8b88b5c55d1c3dacd651ada3",
+          "editorial/clinical/charter.md": "8032bcae9a54b787febdbc3a99e8811893663c9f93dc323b0108e07c3849cb0b",
+          "editorial/automation/policy.json": "883ae80b4685fbc1365af6494b693358da050e2266554992f11d12dcbde6c1d0",
+          "scripts/clinical_editorial.py": "f1fc7eb80b0eca35fad58925b323b5dee69bc738d3df031a41e465a64e3342d3",
+          "editorial/automation/legacy-publications.json": "974d070654ecad7d2408ecfe893a767fa97352922acca107b768b63a31277ceb",
+          "scripts/clinical_agent_contracts.py": "2deec8afbd14289192fa3b86edf5e6529e1690c2daecbce4d6798d826d5f1774",
+          "editorial/agents/stories.md": "7725d5f492253cfcee95427c76114fe739c83204e8c7187959309b72da39eece",
+          "editorial/clinical/designs/marceau.json": "eac6b5450fa6f5147fc809417d4b3cc6fdcd4bb2d24bbdc7be29f5c656957a01",
+          "editorial/clinical/dossiers/marceau.json": "a60cd50435e0b06cfd23d30de7fa49cf21113dcd0faf9ab6b8d7d6a6053de4e4"
+        },
+        "data": {
+          "clinical_brief": {
+            "agent_id": "redaction-marceau",
+            "character": {
+              "id": "marceau",
+              "name": "Marceau",
+              "code": "6D33",
+              "related_codes": [],
+              "wave": 19,
+              "diagnosis": {
+                "timing": "established",
+                "episode": null
+              },
+              "canon": {
+                "age": 40,
+                "setting": "Conducteur d'engins, il travaille avec un club de randonnée sur la lisibilité de ses plans.",
+                "independent_goal": "Rendre à l'équipe des cartes utilisables et respecter les limites qui protègent autrui.",
+                "tension": "Il souhaite tenir ses obligations de soin et de prévention plutôt que négocier l'accès à une personne qui a refusé un contact.",
+                "supports": "Équipe spécialisée et coordination de protection si pertinente.",
+                "trajectory": "Récit centré sur prévention, responsabilité et soutien professionnel. Les personnes exposées gardent leurs choix et leur distance.",
+                "guardrail": "Aucune violence sexualisée, aucune description d'acte ou de technique. Distinguer pratiques consenties et coercition.",
+                "occupation": "conducteur d’engins"
+              },
+              "sources": [
+                "https://icd.who.int/browse/2026-01/mms/fr#1890228613",
+                "https://www.who.int/publications/i/item/9789240077263"
+              ],
+              "research_status": "prise_en_charge_a_documenter"
+            },
+            "direction": "Marceau, 40 ans, conducteur d’engins, préfère les mots concrets et corrige volontiers une légende trop petite. Il prépare pour un club de randonnée des cartes lisibles du sentier des Aulnes ; son rôle est cartographique, jamais la validation de sécurité d’un itinéraire. Lucie coordonne le projet et peut refuser une disponibilité sans avoir à justifier son choix. Karim, ami adulte, partage parfois un café mais n’est ni surveillant ni thérapeute. La docteure Valette, psychiatre d’une équipe spécialisée, et Simon, psychologue de cette équipe, assurent réellement le suivi déjà engagé. Une personne qui a refusé le contact demeure hors scène et hors d’atteinte : aucune identité, lien intime, histoire d’agression ou réponse ne lui est inventé. Marceau respecte cette limite dès le début ; sa détresse et ses efforts de soin restent visibles sans dévoiler de contenu sexuel. Les cartes suivent une chronologie de plusieurs semaines : légende, contraste, flèches, relecture collective à distance, correction du pont, livraison. L’enjeu est de remettre des documents utilisables sans faire de sa contribution une monnaie contre la proximité. La dernière réception confirme seulement l’usage des cartes. Aucun statut pénal, traitement précis, conduite professionnelle dangereuse ni règlement du métier n’est créé. Les trois appuis de chaque épisode seront des gestes pratiques prudents et un relais professionnel réel, non une thérapie autonome ; les proches gardent leur distance et leur droit de retrait.",
+            "dossier": {
+              "name": "Trouble du sadisme sexuel coercitif",
+              "aliases": [
+                "6D33",
+                "Coercive sexual sadism disorder"
+              ],
+              "references": [
+                "oms-cddr",
+                "oms-mms-6d33",
+                "oms-cddr-hrb",
+                "wfsbp-2020",
+                "criavs-idf"
+              ],
+              "points": [
+                "Vérification individuelle du 9 novembre 2026 : PDF original OMS téléchargé et section 6D33, pages imprimées 580–583 lue. PDF intégral WFSBP obtenu à sa nouvelle adresse officielle _Resources ; sections 2–3, 5.1, introduction 6, 6.1.1–2 et 6.2 lues (pagination interne notamment 4, 20–25). Les anciennes adresses WFSBP sont inaccessibles. Page OMS de présentation et site institutionnel CRIAVS IdF consultés. Le lien MMS est canonique ; son contenu dynamique n’a pas été extrait. Paraphrases françaises de travail, sans valeur de traduction officielle.",
+                "CDDR p.580–581 : le diagnostic renvoie à un schéma persistant, intense et focalisé d’excitation sexuelle impliquant la souffrance d’une personne non consentante. Il exige un passage à l’acte ou une détresse marquée liée à ces pensées ou impulsions. La fiction ne décrit aucun contenu, acte ou scénario sexuel. Le diagnostic est déjà établi : ni le lecteur ni le club ne le déduisent d’une attitude. Aucun antécédent pénal, acte passé ou victime n’est ajouté au canon.",
+                "CDDR p.581 : exclusion explicite du sadisme et du masochisme consentis. Ni une préférence consentie, ni une contrariété ordinaire, ni un refus de contact reçu ne suffisent à établir 6D33. Le refus de contact du canon reste effectif indépendamment du diagnostic ou du soin. Aucune négociation, rencontre réparatrice, médiation imposée, excuse transmise par un tiers ou récompense relationnelle.",
+                "CDDR p.581–583 : un événement isolé ne suffit généralement pas à étayer le schéma diagnostique ; des violences sexuelles ne prouvent pas à elles seules ce trouble, et ce trouble ne prouve pas une histoire judiciaire. Cette frontière soutient une présentation exacte, jamais une minimisation de faits qui seraient établis. L’histoire laisse délibérément le passé non documenté.",
+                "CDDR p.580–582 : le schéma clinique spécifique est une excitation sexuelle persistante et focalisée associée à la souffrance d’une personne non consentante. Il peut être nommé sobrement dans les explications. Une pensée intrusive isolée, son caractère choquant ou la peur de nuire ne démontrent ni ce schéma ni un désir de le réaliser. Ne pas requalifier chaque pensée de Marceau comme symptôme et ne pas diagnostiquer un TOC par contraste ; son diagnostic repose sur une évaluation antérieure à la série.",
+                "CDDR p.582 : le trouble du comportement sexuel compulsif décrit notamment un échec persistant de contrôle, tandis que 6D33 concerne le foyer du schéma d’excitation. Un certain contrôle des conduites peut exister avec 6D33 et n’impose pas un diagnostic supplémentaire. Distinguer la présence d’une difficulté interne, les choix observables et l’évaluation du risque par l’équipe ; une bonne conduite ponctuelle ne certifie pas l’absence de risque.",
+                "CDDR p.582 : substances, épisodes thymiques et troubles neurologiques font partie des frontières cliniques à examiner. Un changement de sommeil ou une fatigue ne prouve aucune comorbidité. Toute modification préoccupante est réellement évaluée par la psychiatre, sans attribut causal automatique au diagnostic connu et sans diagnostic secondaire fabriqué.",
+                "WFSBP sections 3, 5.1 et 6 : recommandations destinées aux cliniciens prenant en charge des hommes adultes présentant des troubles paraphiliques. Évaluation individualisée de l’état psychiatrique, des facteurs contextuels, du risque, de la motivation, des relations et des ressources. La détresse, l’évitement de la consultation et le retentissement social choisis pour Marceau sont une présentation fictive possible, pas des critères universels ni des causes démontrées du trouble.",
+                "WFSBP 5.1 et 6.2 : stress, communication, représentations du consentement et justification des conduites peuvent être travaillés selon les besoins identifiés. La psychothérapie appartient à une prise en charge globale ; son choix et ses objectifs relèvent des professionnels. Les gestes narratifs (préparer une question, accepter un délai, maintenir une activité pratique) ne constituent pas un protocole validé de traitement de 6D33. Pas d’exposition, de stimulation, de test du contrôle avec autrui ou d’exercice détaillant un contenu sexuel.",
+                "WFSBP 2 et 5–6 : une éventuelle décision médicamenteuse demande information, consentement et suivi médical ; aucun médicament n’est automatiquement indiqué par le seul code. Le plan ne fixe ni prescription, ni dose, ni calendrier d’examen, ni arrêt. La psychiatre répond effectivement aux questions. Les engagements de soin ne signifient pas injonction judiciaire.",
+                "WFSBP 6.1.2 et 6.2 : littérature hétérogène, nombreux cas/séries, petits échantillons et populations judiciaires ; limites des comparaisons et des mesures de résultats. Ne pas annoncer un taux de réussite, un risque chiffré individuel, une guérison ou un protocole français spécifique de 6D33. La recommandation HAS 2009 concernant des agressions envers des mineurs de moins de 15 ans n’est pas transposée à Marceau.",
+                "CRIAVS IdF, missions : ressource surtout destinée aux professionnels pour mise en réseau, documentation et soutien clinique. Dans la fiction, la psychiatre assure la coordination ; le CRIAVS n’est ni un service d’urgence universel ni le soignant automatiquement disponible du personnage. Les règles précises de secret et de transmission sont expliquées par l’équipe dans leur cadre applicable, sans promesse de secret absolu, sans avis juridique et sans club transformé en équipe de surveillance.",
+                "CDDR p.581 : évolution relativement stable après le début de l’âge adulte, mais manifestations susceptibles de changer. Aucun déterminisme, aucune guérison automatique à 40 ans. Le retour d’une difficulté exige un échange clinique adapté, pas l’étiquette de récidive qui inventerait un passé. Le projet de cartes terminé ne clôt pas les soins.",
+                "Architecture des douze aspects : détresse ; frontière du consentement ; honte et parole clinique ; rationalisation des limites ; contrôle des conduites ; stress contextuel ; diagnostic différentiel devant un changement ; retentissement relationnel ; décision médicale informée ; partage d’informations et sécurité ; fluctuations ; maintien d’une vie avec suivi. Les dimensions de soin et retentissement ne sont pas présentées comme douze symptômes. La clinique doit être perceptible dès les deux premières scènes sans aucune représentation sexualisée."
+              ]
+            },
+            "references": {
+              "oms-cddr": {
+                "title": "OMS, descriptions cliniques de la CIM-11",
+                "url": "https://www.who.int/publications/i/item/9789240077263"
+              },
+              "oms-mms-6d33": {
+                "title": "OMS, CIM-11 MMS 2026-01, 6D33, lien canonique français",
+                "url": "https://icd.who.int/browse/2026-01/mms/fr#1890228613"
+              },
+              "oms-cddr-hrb": {
+                "title": "OMS CDDR 2024, document original ISBN 9789240077263, pages imprimées 580–583, dépôt HRB",
+                "url": "https://www.drugsandalcohol.ie/41519/1/WHO_Clinical_descriptions_and_diagnostic_requirements_ICD-11.pdf"
+              },
+              "wfsbp-2020": {
+                "title": "Thibaut et al., WFSBP 2020 guidelines for the pharmacological treatment of paraphilic disorders, sections 2, 3, 5, 6.1 et 6.2, DOI 10.1080/15622975.2020.1744723",
+                "url": "https://www.wfsbp.org/_Resources/Persistent/d/f/1/8/df18dc6d81e71b6d840ceee910b976dfcdc13274/Thibaut_TG_Paraphilias_2020.pdf"
+              },
+              "criavs-idf": {
+                "title": "CRIAVS Île-de-France, missions de soutien clinique, réseau et documentation pour professionnels ; consultation externe distinguée dans la page Équipe, consulté le 9 novembre 2026",
+                "url": "https://criavs.fr/"
+              }
+            },
+            "charter": "# Charte de rédaction des parcours cliniques\n\nÉcrire en français pour des lecteurs sans formation clinique. Choisir pour chaque épisode un aspect du trouble qui se distingue des onze autres et que la scène permet de comprendre. Cet aspect peut être une manifestation, un mécanisme, un retentissement ou une particularité de l’évolution. Relier le titre, le résumé, l’explication et le dénouement à cet aspect. Une activité, une décision ou un rendez-vous fournit le cadre où il devient perceptible.\n\nSuivre le déroulé de l’[article de Youssef sur l’alexithymie en couple](../../content/posts/comprendre-et-maitriser-ses-emotions/alexithymie-en-couple.md).\n\n1. Ouvrir sur une scène d’au moins 180 mots, sans intertitre. Montrer ce que la difficulté change pour le personnage dans cette situation.\n2. Expliquer l’aspect et son lien avec le trouble dans une section dédiée. Partir d’une phrase générale autonome, puis revenir à ce qui se joue dans la scène.\n3. Montrer comment l’aspect se manifeste. Sous « Comment … ? », développer trois sous-parties avec une explication et deux exemples concrets chacune. Situer ce que l’on observe dans chaque exemple.\n4. Proposer trois techniques numérotées. Donner pour chacune un objectif, un exercice pratique en trois étapes et une explication de son utilité possible. Adapter les étapes au contexte et au niveau de risque, en incluant le recours à un professionnel lorsque nécessaire.\n5. Revenir à l’histoire sous un intertitre tiré de la scène. Montrer un essai ou une décision, sa conséquence et l’incertitude qui reste. Les difficultés peuvent revenir après un essai qui a fonctionné ailleurs.\n6. Conclure après un séparateur. Résumer ce que cet épisode permet de comprendre et inscrire le dénouement dans le parcours du personnage.\n7. Terminer par « Du côté des proches ». Relier leur point de vue à ce que la scène a montré.\n\nRespecter les faits du canon et la chronologie du diagnostic. Si l’évaluation est en cours, faire comprendre les difficultés sans annoncer le résultat à la place du professionnel. Un diagnostic connu entre dans le récit quand il aide à situer l’expérience. La personne conserve un métier ou un projet, des relations, des ressources, des préférences et le droit de ne pas tout partager.\n\nFonder chaque affirmation clinique sur les points vérifiés du dossier de sources. Renseigner les références dans le dossier et les champs éditoriaux de chaque épisode. Distinguer récit, vécu et description générale du trouble. Les articles ne donnent ni critères permettant de conclure sur soi ou un tiers, ni posologies, ni gestes dangereux, ni promesses de guérison. Une scène de fiction ne représente qu’une présentation possible. Proposer des adaptations discutées avec la personne et situer le recours aux professionnels quand le besoin est clinique ou urgent.\n\nDans « Du côté des proches », partir d’un geste, d’une parole ou d’un besoin visible dans la scène. Donner une réponse concrète que le proche pourrait essayer, dans des mots qu’il pourrait dire. Respecter son périmètre et la possibilité de se retirer ou de passer le relais. Aucun proche ne doit jouer au diagnosticien ou imposer un soin. Dans les situations d’emprise ou de danger, favoriser la sécurité et un appui spécialisé.\n\nRelecture par vague. Relire les douze ouvertures et leurs fins dans l’ordre, puis vérifier les faits cliniques et les propositions aux proches, chaque fois avec le dossier de sources. Annoter les erreurs et les choix qui ont fonctionné. Inscrire les leçons réutilisables dans la charte avant de générer le lot suivant. Une validation de structure ou une relecture par un modèle laisse ouverte la vérification éditoriale des faits et de leur contexte.\n\nLe lot pilote a montré que le premier intertitre explicatif peut varier. Commencer cette section par une phrase générale autonome que le site peut reprendre. Donner à la scène finale un titre tiré de son geste ou de sa décision. Distinguer un signe à discuter d’un épisode ou d’un diagnostic établi. Maintenir les procédures de sécurité réelles et le rôle des soignants, même lorsque le personnage essaie une façon différente de répondre à sa difficulté.\n\nLa deuxième vague distingue l’accord de la personne pour partager ses informations et les démarches de sécurité qui s’appliquent à la situation. Montrer dans le récit qui prévient le service compétent et quand, sans reporter cette action au conseil pour les proches. Pour une règle de métier, utiliser une source du domaine en plus du guide clinique. Le miroir reste ancré dans la scène et conserve sa limite de sécurité jusqu’à la dernière phrase.\n\nLa troisième vague vérifie que le trouble a un effet perceptible dans la vie du personnage dès les deux premières scènes. Montrer ce vécu sans inventaire de signes, description de pratiques dangereuses ou explication totale de sa personnalité. Suivre séparément les questions de santé et les décisions du quotidien. Reprendre les objets, lieux et engagements déjà nommés et fermer les questions concrètes dont la résolution est nécessaire à la scène suivante.\n\nAvant d’écrire, l’agent dédié au personnage fixe une direction dans son dossier. Il y précise ce qui distingue sa voix, son projet et son entourage, les faits cliniques qu’il mettra en scène et les interprétations à écarter. À la fin de chaque épisode, il inscrit la décision prise et ce qu’elle change pour la suite. Au dernier épisode, il résout l’enjeu de la série et garde la perspective du personnage au-delà de cette décision. La relecture reprend les douze scènes dans l’ordre et vérifie les conseils adressés aux proches en regard de chaque scène.\n\nLa quatrième vague distingue les repères du premier diagnostic et ceux des épisodes ultérieurs. Quand une situation urgente se présente, vérifier que son origine n’est pas présumée à partir du diagnostic connu. La première section s’ouvre sur une phrase générale qui fonctionne seule. Les détails de la scène viennent ensuite, après le passage que le site peut reprendre en introduction.\n\nLes histoires d’origine donnent la direction. Le titre commence par le sujet de l’article, une difficulté, une émotion ou un mécanisme réel dans une situation concrète. Le prénom figure séparément au-dessus du titre. Dans la présentation, nommer le trouble documenté et ce qu’il change pour ce personnage. Le premier mot-clé reprend son intitulé et les quatre autres indiquent des manifestations ou enjeux qui reviennent dans plusieurs épisodes. La fiche peut annoncer un diagnostic que le personnage découvre plus tard dans l’histoire.\n\nDans le résumé de la fiche et de la carte, relier une réaction de la scène à l’aspect abordé. Dans un récit d’enfance, vérifier l’apport de cette période pour comprendre le trouble et ouvrir sur d’autres contextes lorsque les sources l’appuient. Lors de la relecture, nommer l’aspect illustré dans chaque épisode, puis retrouver le moment où il devient visible et vérifier que les exemples et les techniques restent centrés sur lui. Renseigner les références dans le manuscrit et le dossier éditorial, sans bibliographie dans le fil de l’article.\n\nLa huitième vague vérifie qui peut savoir quoi, à quel moment et avec quel accord. En cas de changement préoccupant, distinguer le fait observable, ce qu’en dit le personnage, la réponse d’un proche et l’évaluation de l’équipe de soins. Faire apparaître le relais dans la scène où il se produit et en reprendre les conséquences dans la suivante.\n\nLa reprise suivante distingue le résumé affiché avant le récit et l’explication qui vient après. Éviter de recopier le résumé mot pour mot dans cette explication : celle-ci développe le mécanisme et le contraste rendu visible par la scène. Pour les articles d’origine, relire les manifestations et les exercices eux-mêmes ; trois intertitres ou une étiquette ne prouvent pas que les exemples, l’objectif, les trois actions et l’utilité sont présents. Une prose déjà complète peut être conservée. Garder une preuve de lecture liée à l’empreinte du corps et une seconde relecture des passages sensibles.\n",
+            "files": {
+              "manuscript": "editorial/clinical/marceau.json",
+              "dossier": "editorial/clinical/dossiers/marceau.json"
+            },
+            "manifest_fields": [
+              "character_id",
+              "bio",
+              "profile_topics",
+              "episodes"
+            ],
+            "profile_topics_count": 5,
+            "episode_fields": [
+              "number",
+              "slug",
+              "title",
+              "description",
+              "context",
+              "topics",
+              "clinical_focus",
+              "clinical_intro",
+              "opening",
+              "sections",
+              "ending_title",
+              "ending",
+              "mirror",
+              "sources",
+              "continuity",
+              "conclusion"
+            ],
+            "sections": {
+              "explanation": {
+                "fields": [
+                  "heading",
+                  "text"
+                ]
+              },
+              "manifestations": {
+                "fields": [
+                  "heading",
+                  "points"
+                ],
+                "count": 3,
+                "point_fields": [
+                  "heading",
+                  "text",
+                  "examples"
+                ],
+                "examples_count": 2
+              },
+              "strategies": {
+                "fields": [
+                  "heading",
+                  "points"
+                ],
+                "count": 3,
+                "point_fields": [
+                  "heading",
+                  "objective",
+                  "exercise",
+                  "benefit"
+                ],
+                "exercise_count": 3
+              }
+            },
+            "total_episodes": 12,
+            "continuity": [],
+            "ready_to_draft": true,
+            "instruction": "Rédiger les épisodes dans l’ordre et consigner les choix à reprendre."
+          },
+          "findings": [],
+          "existing_manuscript": null,
+          "design": {
+            "schema_version": 1,
+            "character_id": "marceau",
+            "code": "6D33",
+            "article_format": 2,
+            "bio": "Marceau a 40 ans et travaille comme conducteur d’engins. Son Trouble du sadisme sexuel coercitif est déjà diagnostiqué et suivi par une équipe spécialisée. Pour un club de randonnée, il prépare des cartes dont les repères doivent rester lisibles sous une pochette. Il veut rendre un travail utilisable tout en tenant ses engagements de soin et de prévention. Une personne a refusé le contact : cette limite reste entière. Entre consultations, corrections et délais, il apprend à ne pas faire de sa contribution une demande de proximité.",
+            "profile_topics": [
+              "Trouble du sadisme sexuel coercitif",
+              "Consentement et limites",
+              "Détresse et parole clinique",
+              "Responsabilité et prévention",
+              "Évolution et suivi spécialisé"
+            ],
+            "voice": "Marceau parle peu et précisément ; il peut expliquer une légende avant de trouver les mots pour une difficulté. Sa voix garde des goûts ordinaires, sans jargon de chantier utilisé comme métaphore des personnes.",
+            "series_goal": "Livrer au club des cartes réellement lisibles en tenant ses engagements de soin et les limites posées par autrui ; la qualité du travail ne donne aucun droit relationnel.",
+            "continuity_rules": [
+              "Marceau, 40 ans, conducteur d’engins, préfère les mots concrets et corrige volontiers une légende trop petite. Il prépare pour un club de randonnée des cartes lisibles du sentier des Aulnes ; son rôle est cartographique, jamais la validation de sécurité d’un itinéraire. Lucie coordonne le projet et peut refuser une disponibilité sans avoir à justifier son choix. Karim, ami adulte, partage parfois un café mais n’est ni surveillant ni thérapeute. La docteure Valette, psychiatre d’une équipe spécialisée, et Simon, psychologue de cette équipe, assurent réellement le suivi déjà engagé. Une personne qui a refusé le contact demeure hors scène et hors d’atteinte : aucune identité, lien intime, histoire d’agression ou réponse ne lui est inventé. Marceau respecte cette limite dès le début ; sa détresse et ses efforts de soin restent visibles sans dévoiler de contenu sexuel. Les cartes suivent une chronologie de plusieurs semaines : légende, contraste, flèches, relecture collective à distance, correction du pont, livraison. L’enjeu est de remettre des documents utilisables sans faire de sa contribution une monnaie contre la proximité. La dernière réception confirme seulement l’usage des cartes. Aucun statut pénal, traitement précis, conduite professionnelle dangereuse ni règlement du métier n’est créé. Les trois appuis de chaque épisode seront des gestes pratiques prudents et un relais professionnel réel, non une thérapie autonome ; les proches gardent leur distance et leur droit de retrait.",
+              "Le diagnostic est connu dans les douze épisodes. Aucune infraction, victime, enfance explicative, injonction judiciaire ou traitement précis n’est déduit du code ou inventé.",
+              "Aucune scène sexualisée, contenu d’impulsion, acte, technique, scénario, exposition ou simulation. Les rendez-vous montrent une parole clinique générale et des décisions effectives.",
+              "La personne ayant refusé le contact reste hors scène. Ni pardon, ni contact, ni médiation, ni information de seconde main ne sont sollicités. Les autres relations ont leurs limites propres.",
+              "Les éléments sociaux sont des choix de fiction, pas des critères de diagnostic ; chaque explication distingue ce qui est observé de ce que les professionnels évaluent.",
+              "Chaque épisode de soin montre le professionnel agir. Les trois appuis futurs doivent rester pratiques et proportionnés, sans protocole autonome ni promesse thérapeutique."
+            ],
+            "episodes": [
+              {
+                "number": 1,
+                "focus": "Détresse et demande de soin",
+                "scene": "Devant la première légende des Aulnes, Marceau relit la même ligne sans avancer. Il dit à la psychiatre, lors du rendez-vous maintenu, que des pensées liées au trouble le préoccupent ; aucun contenu n’est raconté.",
+                "development": "Distinguer détresse marquée et preuve de passage à l’acte. La psychiatre précise avec lui ce qui a changé et ses besoins immédiats ; ne pas transformer l’aveu en récit d’actes ni en présomption pénale. Nommer sobrement le schéma clinique documenté : excitation persistante associée à la souffrance d’une personne non consentante. Une pensée intrusive isolée ou la peur de nuire ne suffit pas à le démontrer ; le diagnostic de Marceau repose sur son évaluation antérieure.",
+                "ending": "Il transmet à Lucie seulement un délai de livraison réaliste et garde son prochain entretien. La légende reste inachevée.",
+                "next": "La nouvelle date permet de décider comment envoyer un travail sans y mêler une demande relationnelle.",
+                "source_refs": [
+                  "oms-cddr",
+                  "oms-cddr-hrb",
+                  "wfsbp-2020"
+                ],
+                "diagnostic_stage": "known"
+              },
+              {
+                "number": 2,
+                "focus": "Consentement et limites effectives",
+                "scene": "En préparant l’envoi de la légende, Marceau voudrait faire de son travail une occasion de renouer avec la personne qui a refusé le contact. Il n’envoie rien à cette personne et en parle à Simon.",
+                "development": "La scène rend perceptible la tension du canon sans en faire un critère diagnostique : un projet utile ne donne aucun droit sur autrui. Expliquer l’exclusion des pratiques consenties du 6D33 sans description sexuelle.",
+                "ending": "Le fichier part uniquement à Lucie par le canal déjà convenu ; aucun tiers ne porte de message personnel. Le refus reste entier.",
+                "next": "Marceau doit ensuite parler au soignant de ce qui lui a coûté, sans embellir sa semaine.",
+                "source_refs": [
+                  "oms-cddr",
+                  "oms-cddr-hrb",
+                  "wfsbp-2020"
+                ],
+                "diagnostic_stage": "known"
+              },
+              {
+                "number": 3,
+                "focus": "Honte et parole clinique",
+                "scene": "À l’entretien suivant, Marceau commence par ne raconter que la carte envoyée. Il craint que parler de sa difficulté le réduise au diagnostic et finit par dire que cette semaine reste difficile.",
+                "development": "Distinguer honte fictive et détresse diagnostique ; ni l’une ni l’autre ne mesure seules le danger. Simon reçoit une information utile et reprend l’évaluation avec l’équipe. Ne jamais promettre un secret sans limites.",
+                "ending": "L’entretien a réellement lieu ; Marceau n’est ni félicité comme inoffensif ni sommé d’exposer sa vie au club. Il reprend le contraste de la carte.",
+                "next": "Une remarque de Lucie sur les couleurs fait apparaître une justification qu’il apportera au prochain entretien.",
+                "source_refs": [
+                  "oms-cddr",
+                  "oms-cddr-hrb",
+                  "wfsbp-2020"
+                ],
+                "diagnostic_stage": "known"
+              },
+              {
+                "number": 4,
+                "focus": "Justifications et responsabilité personnelle",
+                "scene": "Lucie refuse une séance supplémentaire pour la carte. Marceau remarque son idée que ses efforts devraient lui donner droit à sa disponibilité ; il respecte son refus puis rapporte cette idée au psychologue.",
+                "development": "Un sentiment de contrariété ordinaire ne prouve pas 6D33. Chez ce personnage suivi, le travail porte sur la rationalisation des limites identifiée en consultation ; aucune personne n’a à démontrer son refus ou à participer au soin.",
+                "ending": "Il reformule une demande technique limitée à un retour écrit facultatif. Lucie choisit de répondre deux jours plus tard, sans dette relationnelle.",
+                "next": "L’attente confronte Marceau à la différence entre une difficulté interne persistante et ses conduites choisies.",
+                "source_refs": [
+                  "oms-cddr",
+                  "oms-cddr-hrb",
+                  "wfsbp-2020"
+                ],
+                "diagnostic_stage": "known"
+              },
+              {
+                "number": 5,
+                "focus": "Contrôle des conduites et vécu persistant",
+                "scene": "Pendant les deux jours d’attente, Marceau continue les flèches mais se sent encore préoccupé. Au rendez-vous, il demande pourquoi avoir respecté les limites ne fait pas disparaître le trouble.",
+                "development": "La psychiatre distingue contrôle observable et foyer du trouble, sans ajouter un trouble compulsif. Pas de défi pour tester sa maîtrise, de score amateur ou de certificat d’absence de risque.",
+                "ending": "Il maintient le cadre établi et apporte ses questions au suivi ; le retour écrit permet de choisir les flèches sans multiplier les contacts.",
+                "next": "La date de relecture approche et la pression du calendrier augmente.",
+                "source_refs": [
+                  "oms-cddr",
+                  "oms-cddr-hrb",
+                  "wfsbp-2020"
+                ],
+                "diagnostic_stage": "known"
+              },
+              {
+                "number": 6,
+                "focus": "Stress contextuel et vulnérabilité",
+                "scene": "Une erreur de contraste retarde l’impression d’essai. Marceau se sent tendu et constate que sa difficulté interne prend davantage de place ; il sollicite l’équipe plutôt que d’exiger de Lucie une présence.",
+                "development": "Le stress est un facteur contextuel à évaluer pour lui, non la cause générale du trouble ou une excuse. Le soignant répond et adapte avec lui les modalités du suivi selon la situation, sans protocole de crise inventé.",
+                "ending": "Lucie accepte un fichier provisoire ; la psychiatre avance un entretien. Si une menace immédiate apparaissait, le récit devrait montrer un relais urgent réel, pas une simple respiration.",
+                "next": "L’entretien avancé permet d’examiner aussi son sommeil modifié, sans en présumer la cause.",
+                "source_refs": [
+                  "oms-cddr",
+                  "oms-cddr-hrb",
+                  "wfsbp-2020",
+                  "criavs-idf"
+                ],
+                "diagnostic_stage": "known"
+              },
+              {
+                "number": 7,
+                "focus": "Changement clinique et réévaluation",
+                "scene": "Marceau arrive à l’entretien avancé après plusieurs mauvaises nuits. La psychiatre explore ce changement, son contexte et son état général au lieu de l’attribuer automatiquement à 6D33.",
+                "development": "Distinguer diagnostic connu, changements observés et éventuels autres problèmes. Pas de manie, intoxication ou pathologie neurologique inventée ; les frontières CDDR servent à garder une évaluation ouverte, pas à poser un deuxième diagnostic.",
+                "ending": "L’équipe convient avec lui de la suite clinique et d’un point de suivi ; il informe Lucie d’une échéance réaliste sans transmettre de détail médical.",
+                "next": "Il lui reste à reprendre sa place ordinaire dans le projet sans réclamer un rôle de soutien au club.",
+                "source_refs": [
+                  "oms-cddr",
+                  "oms-cddr-hrb",
+                  "wfsbp-2020"
+                ],
+                "diagnostic_stage": "known"
+              },
+              {
+                "number": 8,
+                "focus": "Retentissement relationnel et soutien limité",
+                "scene": "Au café avec Karim, Marceau ne sait plus parler que de ses consultations et des cartes. Karim propose un court moment ensemble mais refuse de devenir son interlocuteur clinique permanent.",
+                "development": "Montrer le rétrécissement relationnel possible de cette trajectoire, pas un trait universel de 6D33. Les relations et la communication font partie du contexte évalué ; une amitié ne remplace pas les soins et personne n’est tenu de rester.",
+                "ending": "Marceau accepte la durée choisie, parle aussi du pont des Aulnes et réserve ses questions de santé à Simon. Karim repart à l’heure dite.",
+                "next": "L’équipe lui propose ensuite un échange médical sur les options de soin, sans décision préécrite.",
+                "source_refs": [
+                  "oms-cddr",
+                  "oms-cddr-hrb",
+                  "wfsbp-2020"
+                ],
+                "diagnostic_stage": "known"
+              },
+              {
+                "number": 9,
+                "focus": "Choix thérapeutique et information médicale",
+                "scene": "À la consultation, Marceau sort une feuille de questions sur ce qu’un traitement pourrait changer et ses limites. Il craint qu’accepter un soin revienne à abandonner toute décision.",
+                "development": "La psychiatre explique les options pertinentes pour sa situation, les incertitudes et le suivi nécessaire ; aucune molécule, dose ou indication automatique n’est donnée. Le consentement au soin est distinct du consentement d’autrui au contact.",
+                "ending": "Il repart avec des questions clarifiées et une prochaine discussion prévue ; aucune prescription ou réponse clinique n’est inventée. La correction du pont peut continuer.",
+                "next": "Le fichier prêt à relire soulève maintenant la question de ce que le club a besoin de savoir.",
+                "source_refs": [
+                  "oms-cddr",
+                  "oms-cddr-hrb",
+                  "wfsbp-2020"
+                ],
+                "diagnostic_stage": "known"
+              },
+              {
+                "number": 10,
+                "focus": "Informations partagées et protection",
+                "scene": "Lucie demande seulement qui lui transmettra la version finale si Marceau est indisponible. Marceau envisage de joindre ses informations de santé puis demande à l’équipe ce qu’il est utile de partager.",
+                "development": "Distinguer une coordination pratique choisie et les démarches de protection éventuellement nécessaires, évaluées par les professionnels. Aucun danger nouveau n’est fabriqué pour justifier une divulgation ; pas de secret absolu promis ni de club surveillant.",
+                "ending": "Il transmet les modalités pratiques convenues, sans son dossier. L’équipe garde la responsabilité clinique et explique ses règles de transmission applicables.",
+                "next": "La relecture réussie pourrait lui faire prendre une amélioration ponctuelle pour la fin du besoin de suivi.",
+                "source_refs": [
+                  "oms-cddr",
+                  "oms-cddr-hrb",
+                  "wfsbp-2020",
+                  "criavs-idf"
+                ],
+                "diagnostic_stage": "known"
+              },
+              {
+                "number": 11,
+                "focus": "Fluctuations et interprétation des progrès",
+                "scene": "Après une bonne relecture des cartes, Marceau voudrait annuler son point clinique ; une nouvelle journée difficile le conduit à maintenir le rendez-vous et à décrire les deux périodes.",
+                "development": "Les manifestations peuvent évoluer malgré une relative stabilité du trouble. Ni succès du projet ni retour de détresse ne prouve guérison, échec total ou récidive pénale. L’équipe réévalue, sans pronostic chiffré.",
+                "ending": "La dernière correction est terminée et le suivi confirmé ; personne ne propose de lever le refus de contact comme récompense.",
+                "next": "La livraison finale peut clore le projet matériel tout en laissant le parcours de soin ouvert.",
+                "source_refs": [
+                  "oms-cddr",
+                  "oms-cddr-hrb",
+                  "wfsbp-2020"
+                ],
+                "diagnostic_stage": "known"
+              },
+              {
+                "number": 12,
+                "focus": "Participation ordinaire et suivi durable",
+                "scene": "Lucie confirme avoir reçu les cartes lisibles, avec la légende et le pont corrigés. Marceau classe les fichiers ; il ne demande pas que la livraison ouvre une rencontre ou efface des limites.",
+                "development": "Distinguer accomplissement concret, responsabilité durable et évolution clinique. Le projet donne une activité indépendante du diagnostic sans démontrer une baisse du risque ; les décisions de suivi restent professionnelles.",
+                "ending": "Les cartes sont remises et acceptées pour le travail du club. Marceau conserve son rendez-vous et choisit ensuite un petit projet personnel de dessin ; la personne ayant refusé le contact reste absente.",
+                "next": "La série se ferme sur la livraison, pas sur une guérison ni une réconciliation ; l’avenir reste celui d’une personne suivie avec des limites effectives.",
+                "source_refs": [
+                  "oms-cddr",
+                  "oms-cddr-hrb",
+                  "wfsbp-2020",
+                  "criavs-idf"
+                ],
+                "diagnostic_stage": "known"
+              }
+            ]
+          }
+        },
+        "allowed_outputs": [
+          "editorial/clinical/marceau.json"
+        ],
+        "output_baseline": {
+          "editorial/clinical/marceau.json": null
+        }
+      },
+      "snapshot_sha256": "2af550f96421e6bde336084f4aed82a15a1c7b1965aef5e8254dbecc2fa91073",
+      "status": "active",
+      "token_sha256": "14354b265f2f419f74b3a6f9d82dbf543be15f8c5ff5ec7cc9ee4381bae24571",
+      "heartbeat_at": "2026-11-09T22:15:52Z",
+      "expires_at": "2026-11-09T22:45:52Z",
+      "checkpoints": [
+        {
+          "at": "2026-11-09T22:00:07Z",
+          "outputs": {
+            "editorial/clinical/marceau.json": "dbc1b9f5210e3a6d74e6896be24f55e12214c76890aaa17e71cd716f99a8584d"
+          },
+          "observed": {
+            "manuscript_sha256": "dbc1b9f5210e3a6d74e6896be24f55e12214c76890aaa17e71cd716f99a8584d",
+            "episodes_present": 1,
+            "manuscript_readable": true,
+            "design_sha256": "eac6b5450fa6f5147fc809417d4b3cc6fdcd4bb2d24bbdc7be29f5c656957a01",
+            "dossier_sha256": "a60cd50435e0b06cfd23d30de7fa49cf21113dcd0faf9ab6b8d7d6a6053de4e4",
+            "review_sha256": null
+          }
+        }
+      ],
+      "resumed_at": "2026-11-09T22:15:52Z",
       "resume_count": 1
     }
   },
-  "updated_at": "2026-11-09T21:58:31Z"
+  "updated_at": "2026-11-09T22:15:56Z"
 }

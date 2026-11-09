@@ -1,0 +1,115 @@
+{
+  "character_id": "amael",
+  "bio": "Amaël a 31 ans et travaille comme chargé d’inventaire dans un atelier de conservation. Son Trouble voyeuriste, déjà diagnostiqué, lui demande un suivi spécialisé et des engagements de prévention concrets. Au club municipal d’échecs, il veut organiser un échange avec le club des Saules. Il aime les finales sans éclat et les listes courtes. Il apprend à ajuster ses responsabilités avec les professionnels, tout en respectant l’intimité des autres et sans confier aux membres du club le rôle de le soigner ou de le surveiller.",
+  "profile_topics": [
+    "Trouble voyeuriste",
+    "Respect du consentement",
+    "Détresse et soin",
+    "Engagements de prévention",
+    "Vie sociale"
+  ],
+  "episodes": [
+    {
+      "number": 1,
+      "slug": "amael-schema-persistant-au-travail",
+      "title": "Préoccupations persistantes : la fiche qui attend",
+      "description": "Des préoccupations interrompent le travail d’Amaël. Une fiche terminée ne résout pas le trouble ; il garde son rendez-vous.",
+      "context": "au bureau de l’atelier de conservation",
+      "topics": [
+        "Persistance du schéma",
+        "Attention interrompue",
+        "Suivi spécialisé"
+      ],
+      "clinical_intro": "Le trouble voyeuriste concerne un schéma persistant d’excitation sexuelle centré sur l’observation de l’intimité d’autrui à son insu. Il ne se confond pas avec une pensée intrusive isolée. Des préoccupations récurrentes peuvent peser sur le quotidien ; leur évaluation demande un professionnel, sans déduire les comportements d’une personne de son seul diagnostic.",
+      "opening": "La fiche porte déjà la date. Amaël revient pourtant à la première ligne, puis à la troisième, sans savoir ce qu’il vient de vérifier. Au bureau de l’atelier de conservation, les autres fiches forment une pile régulière. Celle qu’il tient ne l’est plus : son pouce en a replié le coin. Il le remet à plat. Trois lectures. Toujours la même interruption.\n\nDes préoccupations liées à son trouble voyeuriste reviennent. Le diagnostic est connu, le rendez-vous avec la docteure Vidal inscrit dans son agenda. Cela ne les empêche pas de prendre de la place ce matin. Il se promet de travailler plus vite, comme si une phrase pressée pouvait suffire. Au bout de quelques minutes, il a surtout déplacé deux feuilles et perdu le fil d’une vérification commencée.\n\nSon classeur bleu attend dans son sac. Il y a préparé un échange entre son club municipal d’échecs et celui des Saules : quatre tables, une rencontre modeste. Pas de trophée plus haut que les joueurs assis. Cette idée le faisait sourire hier. Aujourd’hui, il hésite même à envoyer sa proposition à Nora, la présidente. Il voudrait d’abord avoir une matinée impeccable à montrer. Mais personne ne lui a demandé cette preuve, et la fiche n’avance pas davantage pendant qu’il l’attend.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "La récurrence ne se résout pas par une promesse",
+          "text": "Le trouble voyeuriste implique un schéma persistant, focalisé et intense d’excitation sexuelle lié à l’observation à son insu d’une personne nue, se déshabillant ou ayant une activité sexuelle. Cette définition clinique ne permet pas de conclure à partir d’un regard ou d’une pensée isolée. Chez Amaël, l’évaluation existe déjà. Ce matin montre la place prise par ses préoccupations, pas une preuve nouvelle du diagnostic. Terminer une fiche peut rétablir un peu de continuité dans son travail ; cela ne constitue pas un traitement du schéma."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment la persistance pèse-t-elle sur cette matinée ?",
+          "points": [
+            {
+              "heading": "Un retour malgré la décision de travailler",
+              "text": "Amaël rencontre une récurrence qu’une intention ne suffit pas à effacer.",
+              "examples": [
+                "Il recommence la lecture d’une ligne déjà parcourue.",
+                "Sa promesse d’accélérer ne lui rend pas immédiatement le fil de la fiche."
+              ]
+            },
+            {
+              "heading": "Une détresse qui ajoute de la pression",
+              "text": "Il se juge sur l’absence attendue de préoccupations, et cette attente alourdit sa matinée.",
+              "examples": [
+                "Il considère la feuille pliée comme le signe d’une matinée ratée.",
+                "Il veut retrouver un état impeccable avant d’envoyer un message ordinaire."
+              ]
+            },
+            {
+              "heading": "Une tâche coupée en plusieurs reprises",
+              "text": "Le retentissement se voit dans ce qu’il peine à terminer, sans décrire le contenu des pensées.",
+              "examples": [
+                "Deux feuilles changent de place sans vérification achevée.",
+                "Le projet de quatre tables reste dans le sac pendant qu’il recommence son inventaire."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour préparer le suivi et reprendre une tâche",
+          "points": [
+            {
+              "heading": "Garder une observation sobre",
+              "objective": "Apporter au clinicien un fait utile sur le retentissement.",
+              "exercise": [
+                "Noter que les préoccupations ont interrompu une tâche ce matin.",
+                "Décrire brièvement l’effet sur le travail sans contenu intime concernant autrui.",
+                "Réserver cette note au suivi, séparément du classeur du club."
+              ],
+              "benefit": "Un exemple précis peut faciliter l’entretien ; cette démarche ne traite pas le trouble."
+            },
+            {
+              "heading": "Délimiter le travail immédiat",
+              "objective": "Retrouver une action professionnelle réalisable.",
+              "exercise": [
+                "Choisir une fiche déjà commencée.",
+                "Reprendre sa vérification habituelle sans accélération imposée.",
+                "Distinguer ce qui est terminé de ce qui reste à faire."
+              ],
+              "benefit": "La tâche devient plus lisible, sans servir de test de maîtrise des préoccupations."
+            },
+            {
+              "heading": "Conserver le rendez-vous",
+              "objective": "Ne pas remplacer le soin par une épreuve de volonté.",
+              "exercise": [
+                "Vérifier l’horaire prévu avec la docteure Vidal.",
+                "Préparer la question sur la récurrence.",
+                "Utiliser le contact convenu si la situation change avant cet entretien."
+              ],
+              "benefit": "Le suivi garde sa place même lorsqu’une activité ordinaire finit par avancer."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Une fiche, puis quatre tables",
+      "ending": "Amaël termine la vérification de la fiche. Il ne reprend pas toute la pile pour se prouver quelque chose. Dans une note séparée, il écrit que sa concentration a été interrompue plusieurs fois et qu’il en parlera à la docteure Vidal. Puis il ouvre son classeur bleu. À Nora, il propose quatre tables avec les Saules et précise que l’horaire reste provisoire. Elle lui répond que la prochaine réunion permettra de répartir les tâches. Sa matinée n’est pas devenue facile. Elle contient maintenant une fiche achevée et une proposition limitée.",
+      "conclusion": "La persistance du schéma et l’avancement d’une tâche ne se mesurent pas ensemble. Amaël reprend une activité tout en conservant un espace professionnel pour les préoccupations qui continuent de peser sur lui.",
+      "mirror": [
+        "Nora reçoit une proposition de rencontre, pas une demande d’évaluation clinique. Elle peut répondre : « Regardons ce que chacun peut prendre à la réunion. » Elle n’a pas à chercher pourquoi la proposition a tardé ni à garantir qu’Amaël ira mieux en participant. Le suivi reste du ressort des professionnels concernés."
+      ],
+      "clinical_focus": "Un schéma qui persiste",
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-hrb"
+      ],
+      "continuity": {
+        "choice": "Amaël termine la vérification de la fiche. Il ne reprend pas toute la pile pour se prouver quelque chose. Dans une note séparée, il écrit que sa concentration a été interrompue plusieurs fois et qu’il en parlera à la docteure Vidal. Puis il ouvre son classeur bleu. À Nora, il propose quatre tables avec les Saules et précise que l’horaire reste provisoire. Elle lui répond que la prochaine réunion permettra de répartir les tâches. Sa matinée n’est pas devenue facile. Elle contient maintenant une fiche achevée et une proposition limitée.",
+        "next": "La réunion du club fixera ce qu’Amaël peut organiser, sans transformer la participation en autorisation sur la vie privée."
+      }
+    }
+  ]
+}

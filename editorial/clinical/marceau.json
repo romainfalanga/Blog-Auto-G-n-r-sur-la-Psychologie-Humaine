@@ -1,0 +1,117 @@
+{
+  "character_id": "marceau",
+  "bio": "Marceau a 40 ans et travaille comme conducteur d’engins. Son Trouble du sadisme sexuel coercitif est déjà diagnostiqué et suivi par une équipe spécialisée. Pour un club de randonnée, il prépare des cartes dont les repères doivent rester lisibles sous une pochette. Il veut rendre un travail utilisable tout en tenant ses engagements de soin et de prévention. Une personne a refusé le contact : cette limite reste entière. Entre consultations, corrections et délais, il apprend à ne pas faire de sa contribution une demande de proximité.",
+  "profile_topics": [
+    "Trouble du sadisme sexuel coercitif",
+    "Consentement et limites",
+    "Détresse et parole clinique",
+    "Responsabilité et prévention",
+    "Évolution et suivi spécialisé"
+  ],
+  "episodes": [
+    {
+      "number": 1,
+      "slug": "marceau-detresse-legende",
+      "title": "Détresse psychique : maintenir la demande de soin",
+      "description": "La légende reste inachevée. Marceau parle de sa détresse à la psychiatre et fixe un délai réaliste pour les cartes.",
+      "context": "La première légende",
+      "topics": [
+        "Trouble du sadisme sexuel coercitif",
+        "Détresse psychique",
+        "La première légende"
+      ],
+      "clinical_intro": "La détresse liée au trouble du sadisme sexuel coercitif peut motiver une demande de soin sans permettre de conclure à un passage à l’acte. Ce diagnostic repose sur une évaluation spécialisée d’un schéma précis et persistant. Chez une personne déjà suivie, signaler ce qui change aide les professionnels à réexaminer ses besoins et la prévention.",
+      "opening": "Marceau agrandit les lettres de la légende, puis les réduit. Sous la pochette transparente, le nom du sentier des Aulnes disparaît presque. Il avait promis à Lucie un premier essai pour le club de randonnée. Depuis une demi-heure, il déplace pourtant le même rectangle. Ce soir, les pensées liées à son trouble le préoccupent davantage que le choix des caractères. Il referme le fichier sans avoir décidé si le trait du pont doit être plus épais.\n\nÀ quarante ans, ce conducteur d’engins connaît le nom de son diagnostic : trouble du sadisme sexuel coercitif. Il est déjà accompagné par une équipe spécialisée. Au rendez-vous prévu avec la docteure Valette, il commence par dire qu’il n’avance pas sur les cartes. Elle lui demande ce qui l’amène aujourd’hui, au-delà du retard. « Ça prend de la place. Plus que la semaine dernière. » Il aurait préféré apporter une feuille terminée, quelque chose dont les contours seraient faciles à montrer.\n\nLa psychiatre reprend avec lui les changements récents, la détresse et les besoins immédiats de prévention. Elle ne déduit pas ses conduites de son seul malaise. Marceau répond à ses questions, parfois après un silence. Il rappelle que la personne ayant refusé le contact n’a pas été sollicitée. Cette limite reste entière. À la fin de l’échange, sa carte est toujours incomplète ; il sait au moins que le retard et la santé demandent deux réponses différentes.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Comprendre ce qui se joue",
+          "text": "Le trouble du sadisme sexuel coercitif concerne un schéma persistant, intense et focalisé d’excitation sexuelle associé à la souffrance d’une personne non consentante. La détresse marquée peut faire partie du tableau diagnostique ; elle ne constitue pas une preuve de passage à l’acte. Une pensée intrusive isolée ou la peur de nuire ne suffit pas à établir ce trouble. Pour Marceau, le diagnostic a été posé antérieurement. Aujourd’hui, l’équipe évalue une modification de son vécu, avec ses implications propres."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment cette difficulté se manifeste-t-elle ?",
+          "points": [
+            {
+              "heading": "Une activité devient difficile",
+              "text": "La préoccupation empiète ici sur une tâche ordinaire, sans que ce retard soit un critère diagnostique.",
+              "examples": [
+                "Marceau modifie plusieurs fois la taille des lettres.",
+                "Il ferme la carte sans choisir le trait du pont."
+              ]
+            },
+            {
+              "heading": "Les premiers mots restent pratiques",
+              "text": "Nommer une difficulté de travail peut précéder une parole plus directement clinique.",
+              "examples": [
+                "Il commence par le délai du club.",
+                "À la question de la psychiatre, il décrit une place accrue de sa difficulté."
+              ]
+            },
+            {
+              "heading": "Deux besoins se distinguent",
+              "text": "Un aménagement du projet ne remplace pas l’évaluation spécialisée.",
+              "examples": [
+                "Lucie a besoin d’une nouvelle date.",
+                "La psychiatre a besoin de connaître les changements récents."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour avancer avec un appui adapté",
+          "points": [
+            {
+              "heading": "Préparer un fait à transmettre",
+              "objective": "Rendre le changement compréhensible au soignant.",
+              "exercise": [
+                "Repérer ce qui diffère de la semaine précédente.",
+                "Le formuler simplement, sans se donner soi-même un diagnostic supplémentaire.",
+                "L’apporter au rendez-vous et répondre aux questions de l’équipe."
+              ],
+              "benefit": "Cette préparation peut faciliter l’évaluation, sans mesurer seul le risque."
+            },
+            {
+              "heading": "Ajuster un engagement concret",
+              "objective": "Éviter que le retard ne conduise à une promesse intenable.",
+              "exercise": [
+                "Identifier ce qui reste à terminer.",
+                "Choisir un délai réaliste pour cette tâche.",
+                "Transmettre ce délai à la coordinatrice du projet."
+              ],
+              "benefit": "Un engagement limité rend l’organisation plus claire."
+            },
+            {
+              "heading": "Garder le relais clinique",
+              "objective": "Ne pas laisser une difficulté accrue sans interlocuteur approprié.",
+              "exercise": [
+                "Vérifier le prochain rendez-vous convenu.",
+                "Demander à l’équipe comment la joindre si la situation change avant cette date.",
+                "Utiliser ce relais selon les modalités qu’elle indique."
+              ],
+              "benefit": "Les professionnels peuvent réexaminer les besoins ; ces gestes ne constituent pas un traitement autonome."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Une date, pas une carte terminée",
+      "ending": "Marceau écrit à Lucie qu’il remettra la légende en fin de semaine. Elle déplace son point de relecture. Il garde l’entretien suivant dans son agenda et pose la pochette à côté de l’ordinateur. Il ne se sent pas délivré de sa préoccupation, mais il n’a plus promis de terminer ce soir.",
+      "conclusion": "La détresse mérite d’être évaluée sans devenir une conclusion automatique sur les conduites. Marceau conserve un objectif concret et un suivi réel ; le délai accordé ne transforme ni sa santé ni les limites d’autrui.",
+      "mirror": [
+        "Lucie peut répondre : « Je décale la relecture à vendredi ; dis-moi si le fichier sera prêt. » Elle n’a pas à obtenir les raisons médicales du retard ni à vérifier l’état de Marceau. Un proche disponible peut encourager le recours à l’équipe, tout en gardant ses propres limites. La personne ayant refusé le contact n’a aucun rôle à jouer pour le soulager."
+      ],
+      "continuity": {
+        "choice": "Marceau écrit à Lucie qu’il remettra la légende en fin de semaine. Elle déplace son point de relecture. Il garde l’entretien suivant dans son agenda et pose la pochette à côté de l’ordinateur. Il ne se sent pas délivré de sa préoccupation, mais il n’a plus promis de terminer ce soir.",
+        "next": "La légende sera envoyée par le canal du projet sans y mêler une demande de proximité."
+      },
+      "clinical_focus": "Détresse et demande de soin",
+      "diagnostic_stage": "known",
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "wfsbp-2020"
+      ]
+    }
+  ]
+}
