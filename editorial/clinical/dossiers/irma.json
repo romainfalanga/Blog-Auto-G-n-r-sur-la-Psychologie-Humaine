@@ -1,0 +1,54 @@
+{
+  "references": {
+    "oms-mms-6c71": {
+      "title": "OMS CIM-11 MMS 2026-01, 6C71 Kleptomanie, lien canonique français",
+      "url": "https://icd.who.int/browse/2026-01/mms/fr#804604349"
+    },
+    "oms-cddr-hrb": {
+      "title": "OMS CDDR 2024, ISBN 9789240077263, pages imprimées 523–526 ; original conservé au dépôt HRB",
+      "url": "https://www.drugsandalcohol.ie/41519/1/WHO_Clinical_descriptions_and_diagnostic_requirements_ICD-11.pdf"
+    },
+    "grant-2009": {
+      "title": "Grant, Kim et Odlaug (2009), A double-blind, placebo-controlled study of the opiate antagonist, naltrexone, in the treatment of kleptomania. Biological Psychiatry 65:600–606. Résumé original, PMID 19217077",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/19217077/"
+    },
+    "asami-2022": {
+      "title": "Asami et al. (2022), Cognitive behavioural group therapy with mindfulness for kleptomania: an open trial. The Cognitive Behaviour Therapist 15:e34. DOI 10.1017/S1754470X22000290 ; sections Method, Results et Discussion",
+      "url": "https://www.cambridge.org/core/journals/the-cognitive-behaviour-therapist/article/cognitive-behavioural-group-therapy-with-mindfulness-for-kleptomania-an-open-trial/0643F722EFEC037AAF45AD50041CB919"
+    },
+    "nice-cg138": {
+      "title": "NICE CG138, Patient experience in adult NHS services, recommandations 1.1.2 et 1.1.4 : situation personnelle et préférences",
+      "url": "https://www.nice.org.uk/guidance/CG138/chapter/recommendations"
+    }
+  },
+  "dossier": {
+    "name": "Kleptomanie",
+    "aliases": [
+      "6C71",
+      "Kleptomania"
+    ],
+    "references": [
+      "oms-cddr",
+      "oms-mms-6c71",
+      "oms-cddr-hrb",
+      "grant-2009",
+      "asami-2022",
+      "nice-cg138"
+    ],
+    "points": [
+      "Vérification individuelle le 9 novembre 2026 : CDDR OMS lus par extraction des pages imprimées 523–526, pages PDF 541–544. Les copies felix-cddr.pdf et titouan-cddr.pdf sont identiques, SHA256 b66e7a5d6ed764a1d39ed6ed37d581d25b5b9b79a6ee74b4935ff6677e8e709b. La page officielle OMS confirme titre, ISBN et édition 2024. Le lien MMS français est canonique, son contenu dynamique ne sert pas de preuve thérapeutique. Traduction de travail, non traduction officielle.",
+      "CDDR p.523–524 : la kleptomanie associe difficulté récurrente à maîtriser des impulsions de vol, montée de tension et gratification ou soulagement pendant ou juste après. Le manque de motif apparent est essentiel : le besoin matériel ou le profit ne suffisent pas à expliquer les actes. Les objets peuvent néanmoins plaire ou avoir un usage. Ne pas simplifier en « objets toujours inutiles », ni transformer ce descriptif clinique en questionnaire diagnostique.",
+      "CDDR p.523–524 : l’anxiété, la solitude, l’ennui ou l’humeur dépressive peuvent être associés aux épisodes ; les liens varient et ne sont pas déterminants pour le diagnostic. Leur exploration peut éclairer un plan de soin individuel. Aucune émotion ne rend le vol inévitable ; aucune cause cérébrale ou traumatique ne sera attribuée à Irma.",
+      "CDDR p.523 : la perception de la montée de tension peut devenir moins nette avec le temps. Certains signalent des phénomènes dissociatifs ; ce possible ne devient ni universel ni ajouté au canon d’Irma. Pour elle, seulement un repérage incertain de ses sensations, sans amnésie, perte de contrôle absolue ou récit recomposé par le proche.",
+      "CDDR p.524 : la culpabilité et la honte après les actes ne suffisent pas à empêcher leur répétition. Comprendre cela ne retire ni le tort subi par autrui ni la nécessité de s’en occuper. Le trouble ne définit pas toute la personnalité, et une promesse ou une humiliation ne constitue pas un traitement.",
+      "CDDR p.524 : évolution variable, épisodes espacés ou fluctuations plus persistantes, parfois longue histoire avant une demande de soin. Irma a déjà un diagnostic établi et un suivi ; le récit ne chiffre pas une durée non canonique et ne crée pas un nouveau diagnostic. Des semaines plus faciles ne garantissent pas une disparition des impulsions.",
+      "CDDR p.524–526 : les troubles de l’humeur et de l’anxiété peuvent coexister ; les actes liés exclusivement à un autre état clinique, à une intoxication ou à un médicament relèvent d’une évaluation différentielle. Un symptôme nouveau mérite sa propre évaluation. Ne pas assimiler kleptomanie et TOC, accumulation, trouble dissocial, TDAH ou épisode maniaque ; ne diagnostiquer aucun de ces troubles chez Irma ou son entourage.",
+      "Grant et al. 2009 : résumé original lu via index PubMed et page universitaire des auteurs ; ouverture directe PubMed limitée au pied de page, article intégral non lu. Essai randomisé contre placebo de huit semaines, 25 adultes, 23 ayant terminé : amélioration supérieure de certaines mesures sous naltrexone. Petit effectif, durée courte, sélection DSM-IV : aucune preuve suffisante ici de bénéfice durable ou de protocole universel. Aucun médicament n’est prescrit ou ajouté au récit ; aucune posologie, automédication, recommandation de molécule ou statut réglementaire français n’est affirmé.",
+      "Asami et al. 2022 : résumé, participants, résultats et limites lus sur le site de l’éditeur. Étude ouverte japonaise de TCC de groupe associée à la pleine conscience : 37 participants initiaux, 22 analysés après douze séances, améliorations observées avant/après. Absence de groupe témoin, environ 40 % exclus de l’analyse, comorbidités et absence de suivi durable limitent attribution causale et généralisation. Ce travail documente une piste spécialisée, pas une méthode éprouvée pour chacun ; les associations ne démontrent aucun mécanisme individuel. Ne pas reprendre ses formulations affirmatives comme une recommandation ni reclasser la CIM-11 en addiction.",
+      "Prise en charge : les études permettent de parler d’options étudiées et d’incertitudes à discuter avec des professionnels, non de produire trois traitements du trouble par épisode. Les trois appuis des articles seront des démarches modestes de communication, de préparation des consultations ou d’organisation choisie, adaptées à la scène et réévaluées avec la thérapeute. Pas d’exposition volontaire aux occasions de vol, d’aversion, de simulation de vol ou d’exercice visant à éprouver la résistance. Aucune promesse de diminution des impulsions grâce à la sérigraphie.",
+      "NICE CG138 1.1.2 et 1.1.4, extraits indexés officiels consultés, page complète bloquée 403 : prendre en compte situation personnelle et préférences dans les soins. Principes généraux britanniques, non recommandation spécifique 6C71 ni droit français. La confidentialité choisie avec son amie et la répartition des tâches sont des décisions narratives. Ne pas en déduire secret absolu, devoir légal, contrôle du sac ou surveillance imposée.",
+      "Garde-fous : aucun geste de vol, objet ciblé, technique, lieu propice, dissimulation, évitement de contrôle ou contournement des conséquences. Aucun récit de restitution clandestine. Les suites d’un acte antérieur restent traitées séparément avec les interlocuteurs compétents, sans conseil juridique ni diagnostic présenté comme excuse. Les enfants viennent apprendre une activité ; ni témoins, ni soignants, ni ressort de danger. Irma n’est pas réputée dangereuse parce qu’elle a ce diagnostic."
+    ]
+  },
+  "direction": "Irma, 39 ans, sérigraphe dans un studio et organisatrice d’ateliers de quartier, veut accueillir une première classe avec un plan de réservation et d’accès au matériel. Elle aime les aplats de couleur et les consignes courtes ; son humour est sec, jamais centré sur le vol. Maud, collègue, organise avec elle le studio ; Joëlle, enseignante, prépare la venue de la classe ; son amie Salomé connaît le diagnostic avec son accord et ne participe pas aux décisions professionnelles ; Mme Faure, thérapeute spécialisée, la suit déjà. Un classeur orange contient les réservations et les rôles ; ses notes de soin restent distinctes. Le récit suit six semaines : préciser ses besoins, terminer le plan d’accueil, assurer la séance avec Maud et poursuivre le suivi. Un acte antérieur au début de la série est évoqué uniquement dans ses effets, sans objet ni circonstances. Les démarches concernant ses conséquences ont été engagées avant le récit et ne sont pas effacées par la réussite professionnelle. Ni l’amie ni la collègue ne garantissent les actes futurs ; chacune garde ses limites."
+}

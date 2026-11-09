@@ -1,0 +1,184 @@
+{
+  "schema_version": 1,
+  "character_id": "irma",
+  "code": "6C71",
+  "article_format": 2,
+  "bio": "Irma, 39 ans, est sérigraphe dans un studio où elle organise des ateliers de quartier. Elle prépare l’accueil d’une première classe, avec un plan de réservation et d’accès au matériel. Sa Kleptomanie, déjà diagnostiquée, lui impose de composer avec des impulsions et la honte qui peut compliquer ses demandes d’aide. Avec une thérapeute spécialisée et une amie respectueuse de sa confidentialité, elle cherche des appuis concrets tout en assumant les conséquences de ses actes. Elle tient à transmettre son goût des couleurs sans devenir seulement son diagnostic.",
+  "profile_topics": [
+    "Kleptomanie",
+    "Tension et impulsions",
+    "Honte et demande d’aide",
+    "Confiance et limites",
+    "Continuité du soin"
+  ],
+  "voice": "Irma parle avec des phrases brèves, aime les couleurs franches et les précisions concrètes. Elle peut dire « cela ne tient pas dans cette case » devant son classeur, sans multiplier les métaphores d’impression. Elle garde humour, contrariétés professionnelles et curiosité pour les élèves ; ni voix de conférencière ni confession permanente.",
+  "series_goal": "Accueillir une première classe avec un plan de réservation et d’accès au matériel viable, en coordonnant Maud et Joëlle, tout en poursuivant ses soins, en respectant les limites de Salomé et en assumant les conséquences antérieures sans se réduire au trouble.",
+  "continuity_rules": [
+    "Le diagnostic de Kleptomanie est établi avant la série ; diagnostic_stage reste known aux douze épisodes. Aucun nouveau trouble ni médicament n’est ajouté.",
+    "Conserver les rôles : Mme Faure thérapeute spécialisée ; Salomé amie informée avec accord ; Maud collègue, non dépositaire du dossier médical ; Joëlle enseignante. Les enfants ne sont jamais impliqués dans le soin.",
+    "Le classeur orange contient uniquement réservations, accès ordinaire au matériel et répartition des tâches. Les notes de santé restent séparées ; aucune surveillance professionnelle ne sert de traitement.",
+    "Le seul acte évoqué est antérieur à la série, sans objet, méthode, lieu ni reconstitution. Ses conséquences sont prises en charge par les démarches déjà engagées ; aucune exonération, restitution cachée ou résultat juridique inventé.",
+    "Les trois techniques par article sont des appuis prudents contextualisés, non un protocole validé contre la kleptomanie. Pas d’exposition, aversion, simulation, posologie ou garantie de sécurité ; remonter les difficultés au suivi spécialisé.",
+    "La série dure environ six semaines. Tenir les rendez-vous et limites acceptées : suivi après la classe fixé en 8, échange avec Salomé en 9, consultation médicale effective en 10, répartition avec Maud en 11 puis classe en 12.",
+    "Chaque scène finale porte une décision et ses effets. La première classe réussit sans régler toutes les questions cliniques ou les conséquences antérieures. Ne pas convertir le trouble en identité morale."
+  ],
+  "episodes": [
+    {
+      "number": 1,
+      "focus": "La tension avant l’impulsion",
+      "scene": "Au studio, Irma doit confirmer une date à Joëlle. Une impulsion de vol la préoccupe au point de relire trois fois son courriel ; aucun objet ni geste envisagé n’est décrit. Elle reconnaît une tension familière et appelle Mme Faure selon leur modalité habituelle.",
+      "development": "Distinguer tension, impulsion et acte, sans faire d’une sensation un test. Montrer le coût d’attention dès cette première scène. Préparer des mots factuels pour le suivi, convenir d’une pause dans les tâches et reprendre une décision simple sont des appuis choisis, non un protocole anti-vol. Maud peut reprendre le courriel sans exiger le diagnostic.",
+      "ending": "Irma transmet une proposition de date, puis conserve son rendez-vous. Elle n’a pas besoin de se déclarer guérie pour organiser la classe.",
+      "next": "La consultation prévue permet d’aborder le décalage entre ses besoins réels et ces impulsions.",
+      "source_refs": [
+        "oms-cddr",
+        "oms-cddr-hrb"
+      ],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 2,
+      "focus": "Une impulsion sans besoin matériel",
+      "scene": "Chez Mme Faure, le budget de la classe est rangé dans le classeur orange. Irma dit que le fait de pouvoir acheter ce dont elle a besoin ne répond pas à sa difficulté ; elle craint de paraître incompréhensible.",
+      "development": "Expliquer l’absence de motif apparent de besoin ou de profit sans prétendre que tout objet doit être sans valeur ou sans usage. Le budget est une tâche professionnelle, pas un remède. Trois appuis : distinguer la question clinique de la question budgétaire, préparer une question au soignant et choisir une phrase de demande d’aide. Aucune démonstration ni description des objets concernés.",
+      "ending": "Elle termine le budget sans le présenter comme une réponse aux impulsions et accepte de parler au rendez-vous suivant de ce qui suit un acte.",
+      "next": "Le suivi se poursuit sur le soulagement bref qu’elle a déjà éprouvé, uniquement rétrospectivement.",
+      "source_refs": [
+        "oms-cddr",
+        "oms-cddr-hrb"
+      ],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 3,
+      "focus": "Le soulagement qui ne dure pas",
+      "scene": "Lors du rendez-vous suivant, Irma évoque un acte antérieur au début de la série et le très bref relâchement qui l’avait suivi. Le récit reste dans le cabinet ; aucune reconstitution du vol n’a lieu.",
+      "development": "Expliquer le contraste entre gratification immédiate et suites difficiles sans fascination ni plaisir détaillé. Ce contraste décrit un mécanisme possible, pas une approbation. Appuis : nommer séparément avant et après sans détails opératoires, transmettre ce repère à la thérapeute et convenir de ce qu’elle souhaite travailler. Salomé peut écouter une phrase sans demander le récit de l’acte.",
+      "ending": "Irma donne à Mme Faure une note sur son vécu, puis retrouve Salomé pour un repas dont elle avait failli se priver.",
+      "next": "Ce repas met en évidence la honte qui déborde le temps de l’acte.",
+      "source_refs": [
+        "oms-cddr",
+        "oms-cddr-hrb"
+      ],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 4,
+      "focus": "La honte après les actes",
+      "scene": "À table avec Salomé, Irma repousse une invitation à choisir les affiches du quartier : elle pense ne plus mériter d’être consultée. Salomé sait seulement ce qu’Irma lui a confié.",
+      "development": "Distinguer le jugement sur un acte et la condamnation de toute la personne. La culpabilité ne protège pas automatiquement contre une répétition. Trois appuis de communication : décrire le besoin présent, demander quel soutien est possible et garder un temps partagé ordinaire. Aucun pardon exigé des personnes lésées et aucune amie chargée de réhabiliter Irma.",
+      "ending": "Irma accepte de regarder les affiches avec Salomé. Celle-ci propose une heure, sans promettre d’être disponible à tout moment.",
+      "next": "Le prochain contretemps professionnel permettra d’explorer le rôle variable des émotions.",
+      "source_refs": [
+        "oms-cddr",
+        "oms-cddr-hrb"
+      ],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 5,
+      "focus": "Les contextes émotionnels difficiles",
+      "scene": "Joëlle annonce un changement d’horaire. Après le départ de Maud, Irma se sent isolée dans le studio et remarque une impulsion plus présente ; le récit ne la rapproche d’aucune cible.",
+      "development": "Explorer un lien possible entre solitude, contrariété et impulsion sans causalité automatique. Trois appuis : noter un contexte en quelques mots, comparer avec un moment difficile sans impulsion et apporter ces observations au suivi. Ni la collègue ni l’enseignante ne sont responsables de déclencher ou prévenir un acte.",
+      "ending": "Elle propose à Maud de réviser ensemble l’horaire le lendemain et garde une note pour Mme Faure. L’incertitude reste tolérée.",
+      "next": "En relisant sa note, elle s’aperçoit que certains signes lui échappent.",
+      "source_refs": [
+        "oms-cddr",
+        "oms-cddr-hrb"
+      ],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 6,
+      "focus": "Des signaux parfois peu perceptibles",
+      "scene": "Le lendemain, devant le classeur orange, Irma n’arrive pas à dater précisément le moment où sa tension était montée. Maud attend seulement la nouvelle grille horaire.",
+      "development": "Présenter les limites possibles du repérage intérieur, sans amnésie ni dissociation ajoutée. Trois appuis : laisser une case « je ne sais pas », décrire ce qui est certain et demander à la thérapeute comment utiliser une note incomplète. Aucun proche ne reconstruit ses pensées ; aucune mémoire parfaite exigée pour recevoir du soin.",
+      "ending": "Irma termine la grille avec Maud et apporte une note incomplète au rendez-vous sans la corriger pour paraître plus cohérente.",
+      "next": "Parler de cette incertitude fait surgir la question de ce qu’elle souhaite partager avec Salomé.",
+      "source_refs": [
+        "oms-cddr",
+        "oms-cddr-hrb"
+      ],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 7,
+      "focus": "Le secret qui retarde la parole",
+      "scene": "Avant de rappeler Salomé, Irma hésite longtemps sur une phrase : elle ne veut ni tout cacher ni remettre son intimité à son amie. En consultation elle avait pu parler plus directement.",
+      "development": "La honte peut compliquer la demande d’aide ; ne pas faire de la révélation publique une condition du soin. Trois appuis : choisir une information utile, nommer le soutien demandé et convenir de ce qui ne sera pas transmis à Maud. Préserver les conséquences des actes sans confondre confidentialité de santé et dissimulation de faits. Salomé peut refuser un rôle de surveillance.",
+      "ending": "Irma demande une conversation après la prochaine consultation. Salomé accepte ce moment précis, pas une disponibilité permanente.",
+      "next": "Irma prépare alors les questions qu’elle veut poser sur les options de soin.",
+      "source_refs": [
+        "oms-cddr",
+        "nice-cg138"
+      ],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 8,
+      "focus": "Choisir un soin malgré les incertitudes",
+      "scene": "Irma arrive avec trois questions écrites chez Mme Faure : ce que le suivi vise, ce qui est observé et quand refaire le point. Elle a trouvé des annonces de résultats rapides mais n’en reproduit pas le contenu.",
+      "development": "Distinguer descriptions diagnostiques et données de traitement. Les petits essais documentent des options étudiées, non une garantie ; ne donner ni molécule conseillée ni programme à reproduire. Trois appuis : préciser une attente réaliste, demander les limites et convenir d’un bilan. Le contenu du soin reste professionnel et individualisé.",
+      "ending": "Irma poursuit son accompagnement et fixe avec Mme Faure un point de suivi après la première classe ; aucune disparition promise des impulsions.",
+      "next": "Le rendez-vous avec Salomé aura lieu comme convenu et abordera ses limites face aux conséquences d’un acte passé.",
+      "source_refs": [
+        "oms-cddr",
+        "grant-2009",
+        "asami-2022"
+      ],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 9,
+      "focus": "La confiance et les conséquences",
+      "scene": "Salomé retrouve Irma après la consultation. Irma évoque les démarches déjà engagées au sujet de l’acte antérieur ; Salomé ne veut pas servir d’intermédiaire ni garantir que cela ne se reproduira pas.",
+      "development": "Montrer un retentissement relationnel, distinct de la honte intérieure : soutien et confiance ne se décrètent pas. Aucun diagnostic n’efface le tort. Trois appuis : préciser ce qui est demandé, entendre le refus et porter les questions de conséquences aux interlocuteurs compétents déjà mobilisés. Aucune procédure juridique, restitution clandestine ou promesse de résultat.",
+      "ending": "Irma respecte le refus de Salomé et poursuit elle-même les démarches avec les professionnels concernés. Elles gardent leur sortie autour des affiches, sans contrat de surveillance.",
+      "next": "Une inquiétude persistante affecte ensuite son sommeil et mérite une discussion clinique propre.",
+      "source_refs": [
+        "oms-cddr",
+        "nice-cg138"
+      ],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 10,
+      "focus": "Une souffrance associée à évaluer",
+      "scene": "À l’approche de la classe, Irma dit à Mme Faure que son sommeil et son inquiétude se sont dégradés plusieurs jours. Elle croit devoir tout attribuer à la kleptomanie ; la thérapeute propose une évaluation médicale, et Irma prend rendez-vous.",
+      "development": "Les difficultés associées ne sont ni automatiques ni déjà diagnostiquées. Trois appuis : rapporter durée et retentissement sans score, préparer les questions médicales et adapter temporairement une tâche avec Maud. Pas de diagnostic d’anxiété ou de dépression annoncé, pas d’explication somatique présumée.",
+      "ending": "Irma se rend au rendez-vous médical ; les difficultés de sommeil sont abordées et un suivi est convenu sans nouveau diagnostic narratif. Maud prend les confirmations de réservation.",
+      "next": "La préparation pratique reprend, avec le suivi médical réellement engagé et des impulsions encore fluctuantes.",
+      "source_refs": [
+        "oms-cddr",
+        "oms-cddr-hrb"
+      ],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 11,
+      "focus": "Le retour après une accalmie",
+      "scene": "Après plusieurs jours plus faciles, Irma ressent de nouveau une impulsion durant la semaine de préparation. Elle pense un instant que tout le travail accompli est annulé ; aucun nouvel acte n’est ajouté.",
+      "development": "Distinguer retour d’une impulsion, répétition d’un acte et abandon du soin. Évolution variable, sans fatalisme. Trois appuis : communiquer ce changement à Mme Faure, réexaminer l’organisation convenue et maintenir les rendez-vous. Le relais pratique ne sert ni d’alibi ni d’épreuve de résistance. Salomé garde les limites de disponibilité fixées.",
+      "ending": "Irma contacte sa thérapeute et confirme avec Maud la répartition de l’accueil. La classe reste prévue ; ce maintien repose sur l’organisation concrète, pas sur une preuve de guérison.",
+      "next": "La séance pourra se dérouler avec cette répartition et un bilan déjà prévu.",
+      "source_refs": [
+        "oms-cddr",
+        "oms-cddr-hrb"
+      ],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 12,
+      "focus": "Vivre au-delà du symptôme",
+      "scene": "La première classe arrive : Maud gère l’accueil et les réservations, Irma présente l’impression choisie, Joëlle accompagne les élèves. Le plan d’accès au matériel est utilisé comme règle ordinaire du studio, sans contrôle ciblé ou détail technique de sécurité.",
+      "development": "Faire sentir la place retrouvée d’un projet malgré un suivi toujours nécessaire. La réussite fonctionnelle ne prouve pas une disparition du trouble. Trois appuis : recueillir un retour concret, distinguer bilan professionnel et bilan clinique, puis conserver les relais choisis. Aucun enfant ne connaît le diagnostic ni ne participe au soin ; l’activité artistique ne devient pas traitement.",
+      "ending": "La classe réalise ses impressions et repart avec Joëlle. Irma et Maud corrigent un créneau dans le classeur orange ; Irma conserve son point de suivi et les démarches sur les conséquences passées suivent leur cours, sans issue inventée.",
+      "next": "La série ferme l’enjeu de la première classe. Une prochaine séance de quartier devient possible ; le suivi reste ouvert, sans victoire définitive sur les impulsions.",
+      "source_refs": [
+        "oms-cddr",
+        "asami-2022"
+      ],
+      "diagnostic_stage": "known"
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "character_id": "malou",
+  "bio": "Malou a 15 ans et se forme comme apprentie en montage vidéo dans une association. Son Trouble dissocial du comportement, déjà diagnostiqué, affecte ses relations et sa façon de respecter les droits des autres quand son projet rencontre une limite. Elle veut terminer un court métrage, mais les acteurs tiennent à choisir leur rôle. Avec sa famille, son éducatrice et une équipe spécialisée, elle cherche à retrouver une place sûre dans le groupe, à répondre des conséquences et à créer sans décider pour tout le monde.",
+  "profile_topics": [
+    "Trouble dissocial du comportement",
+    "Droits des autres",
+    "Responsabilité et réparation",
+    "Confiance et sécurité",
+    "Soutien familial"
+  ],
+  "episodes": [
+    {
+      "number": 1,
+      "slug": "malou-choix-des-acteurs",
+      "title": "Respecter un refus quand le projet est déjà commencé",
+      "description": "Sana refuse une scène. Malou insiste comme si le film lui donnait le droit de décider pour elle ; Marc suspend la séance.",
+      "context": "À la table du scénario",
+      "topics": [
+        "Trouble dissocial du comportement",
+        "Droits des autres",
+        "Consentement"
+      ],
+      "clinical_focus": "Respecter le choix des autres",
+      "diagnostic_stage": "known",
+      "clinical_intro": "Le trouble dissocial du comportement peut comporter des conduites qui portent atteinte aux droits d’autrui. Son diagnostic repose sur une évaluation d’ensemble, jamais sur un désaccord isolé. Chez une adolescente déjà suivie, travailler le respect d’un refus permet de distinguer l’importance d’un projet personnel du droit de décider à la place des autres.",
+      "opening": "Le carnet orange est ouvert à la dernière page de La Fenêtre du palier. Malou a dessiné deux silhouettes près d’une plante et tracé une flèche entre elles. Elle veut que les voisins se réconcilient sans musique, avec seulement le bruit de la porte. À quinze ans, elle se forme au montage vidéo à l’association Le Passage. Elle connaît précisément le raccord qu’elle voudrait obtenir. Sana, qui joue l’un des personnages, relit la proposition et repose le crayon.\n\n« Cette scène, je ne veux plus la jouer. » Malou répond aussitôt que ce n’est plus le moment de choisir : le film est commencé. Sana répète son refus. Joël regarde Marc, le responsable de l’atelier, plutôt que d’intervenir pour convaincre l’une ou l’autre. Malou ramène la feuille vers Sana et recommence son explication comme si une meilleure description du plan devait rendre son accord obligatoire. Marc arrête la discussion. Le choix de Sana n’a pas disparu avec le début du projet.\n\nLa séance collective est suspendue. Malou ne repart pas avec l’assurance qu’elle pourra obtenir la même scène au prochain essai. Son trouble dissocial du comportement a été diagnostiqué avant cet atelier ; Marc n’en tire aucun droit de la rabaisser, et ce diagnostic ne lui donne aucun droit sur Sana. Elle garde le carnet ouvert, contrariée devant une fin qu’elle croyait décidée. « On garde quelle version, alors ? » demande-t-elle enfin. Marc lui propose de préparer individuellement deux possibilités, sans réclamer une réponse de Sana aujourd’hui.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Un projet partagé ne donne pas autorité sur les personnes",
+          "text": "Un objectif important peut devenir le point de départ d’une pression lorsque la personne considère que le refus d’autrui ne compte plus. Chez Malou, cette difficulté s’inscrit dans un trouble déjà évalué ; elle ne permet pas de diagnostiquer tous les adolescents qui défendent vivement une idée. Demander une participation, recevoir un accord et imposer une décision sont des actes différents. L’arrêt de la séance protège la liberté des acteurs, tandis que le suivi spécialisé conserve sa place propre."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment le refus perd-il sa place dans la discussion ?",
+          "points": [
+            {
+              "heading": "Le travail commencé devient un argument d’autorité",
+              "text": "Malou transforme l’investissement dans le film en obligation pour Sana.",
+              "examples": [
+                "Elle dit que Sana ne peut plus choisir maintenant.",
+                "Elle invoque le projet déjà commencé au lieu d’entendre le refus actuel."
+              ]
+            },
+            {
+              "heading": "La demande est répétée comme une décision",
+              "text": "Expliquer davantage ne remplace pas un accord libre.",
+              "examples": [
+                "Malou ramène la feuille devant Sana.",
+                "Elle détaille encore le plan alors que la réponse a déjà été donnée."
+              ]
+            },
+            {
+              "heading": "Le groupe ne peut plus discuter librement",
+              "text": "La pression affecte aussi les personnes qui assistent à l’échange.",
+              "examples": [
+                "Joël cherche le regard de Marc.",
+                "Marc suspend la séance au lieu de charger Sana de calmer Malou."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour garder une place réelle au choix des autres",
+          "points": [
+            {
+              "heading": "Distinguer proposition et accord",
+              "objective": "Vérifier ce qui a réellement été accepté.",
+              "exercise": [
+                "Écrire la proposition que l’on souhaite faire.",
+                "Identifier ce qui nécessite le choix d’une autre personne.",
+                "Attendre un accord explicite sans traiter le silence ou le travail antérieur comme une réponse."
+              ],
+              "benefit": "La proposition peut rester créative sans devenir une obligation pour quelqu’un d’autre."
+            },
+            {
+              "heading": "Préparer une version alternative",
+              "objective": "Ne pas enfermer le projet dans une seule réponse attendue.",
+              "exercise": [
+                "Reprendre individuellement l’élément refusé.",
+                "Imaginer une version qui ne demande pas cette participation.",
+                "La discuter avec l’adulte responsable avant toute nouvelle sollicitation des acteurs."
+              ],
+              "benefit": "Une alternative permet de poursuivre une réflexion sans exercer une nouvelle pression."
+            },
+            {
+              "heading": "Respecter l’arrêt décidé",
+              "objective": "Laisser l’adulte protéger le cadre collectif.",
+              "exercise": [
+                "Cesser la discussion lorsque la séance est suspendue.",
+                "Conserver les questions pour un échange individuel prévu.",
+                "Vérifier les conditions d’une éventuelle reprise avec le responsable."
+              ],
+              "benefit": "L’arrêt devient une limite effective ; il ne remplace pas l’accompagnement clinique."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Deux fins encore possibles",
+      "ending": "Malou referme le carnet sans obtenir de nouvelle réponse de Sana. Avec Marc, elle retient deux pistes à préparer seule : une fin sans réconciliation et une autre où le voisin repart après avoir posé la plante. La séance collective reste suspendue. Malou trouve encore la première version moins forte, mais elle accepte de la dessiner. Les modifications déplaceront le planning ; ce retard ne pourra pas être attribué uniquement au refus de Sana.",
+      "conclusion": "Respecter un choix n’oblige pas à trouver ce choix agréable. Malou peut continuer à vouloir un bon film tout en reconnaissant que les acteurs restent libres, et que les adultes doivent interrompre une discussion devenue contraignante.",
+      "mirror": [
+        "Marc peut dire : « Tu peux ne pas aimer cette réponse ; tu ne peux pas décider du rôle de Sana à sa place. » Il suspend effectivement la séance et n’attend pas que Joël ou Sana gèrent la réaction de Malou. Un parent peut ensuite écouter sa déception sans demander aux acteurs de revenir sur leur refus pour la rassurer."
+      ],
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-6c91",
+        "nice-cg158-malou"
+      ],
+      "continuity": {
+        "choice": "Malou garde le scénario incomplet et accepte de proposer deux versions, sans obtenir de réponse immédiate de Sana.",
+        "next": "La version sans réconciliation entraîne une modification du planning que Malou devra reconnaître."
+      }
+    }
+  ]
+}

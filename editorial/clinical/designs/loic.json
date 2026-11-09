@@ -1,0 +1,186 @@
+{
+  "schema_version": 1,
+  "character_id": "loic",
+  "code": "6C70",
+  "article_format": 2,
+  "bio": "Loïc a 32 ans et travaille comme réparateur de machines agricoles. Sa pyromanie est diagnostiquée et suivie par une équipe spécialisée. Une préoccupation qui revient peut lui rendre difficile de rester disponible pour les tâches prévues. Il contribue à l’organisation d’une brocante et veut y tenir un rôle de réparateur pendant une journée de démonstration. Avec un proche désigné et plusieurs adultes qui se relaient, il révise son plan de prévention. Il tient à être utile, tout en prenant au sérieux les limites nécessaires à la sécurité des autres.",
+  "profile_topics": [
+    "Pyromanie",
+    "Préoccupations persistantes",
+    "Tension et contrôle",
+    "Prévention individualisée",
+    "Participation et relais"
+  ],
+  "voice": "Voix concrète, phrases courtes et humour discret autour des notices et des boîtes étiquetées. Loïc demande qui reprend une tâche ; il ne devient ni expert clinique ni personnage réduit au danger. Les scènes gardent un regard sobre, sans images attirantes du feu.",
+  "series_goal": "Tenir son rôle de réparateur lors de la journée de démonstration de la brocante, avec plusieurs adultes qui se relaient et des conditions révisées avec l’équipe spécialisée. La décision finale est une participation limitée effectivement réalisée, puis un relais pris et un suivi maintenu.",
+  "continuity_rules": [
+    "Diagnostic établi avant l’épisode un et diagnostic_stage known partout. Plan de prévention préexistant, puis révisions montrées ; aucune révélation diagnostique ni passé pénal inventé.",
+    "Elsa est proche désignée ; Nadir réparateur relais ; Maud coordonne le comité et la sécurité ; la docteure Perrin appartient à l’équipe spécialisée. Les disponibilités annoncées sont respectées et aucun proche ne devient surveillant ou soignant.",
+    "Fiche publique de créneaux et carnet clinique restent distincts. Les informations partagées, destinataires et accords apparaissent dans les scènes ; un danger immédiat appelle la protection réelle et les secours, sans attente du rendez-vous.",
+    "Aucun geste, moyen, préparation, lieu vulnérable, test de maîtrise, scène séduisante ou exposition au feu. Le diagnostic n’est assimilé ni à tout incendie ni à une excuse ; aucune suspicion automatique envers Loïc.",
+    "Les douze articles conservent la trame modèle complète et des conseils aux proches ancrés dans la scène. Les appuis pratiques sont des adaptations discutées, pas des traitements prouvés ; les références sur incendiaires ne prouvent pas une efficacité spécifique sur la pyromanie.",
+    "Le créneau suspendu à l’épisode dix est pris par le comité, jamais rattrapé seul. Le créneau final est confirmé après révision avec l’équipe, puis transmis à Nadir ; la réussite ne supprime ni incertitude ni suivi."
+  ],
+  "episodes": [
+    {
+      "number": 1,
+      "focus": "Préoccupation et attention captée",
+      "scene": "À la table du comité, Loïc perd le fil de la fiche de créneaux parce qu’une préoccupation familière reprend de la place. Il évite de nommer devant tout le monde son contenu, demande une pause et contacte ensuite son équipe.",
+      "development": "Distinguer pensée, intérêt et diagnostic déjà établi ; montrer l’attention moins disponible sans décrire de stimulus attractif. Les trois appuis portent sur signaler la difficulté, utiliser le plan existant et rendre la tâche au relais ; aucune auto-évaluation diagnostique.",
+      "ending": "Maud confie provisoirement la fiche à Nadir. Loïc convient d’un échange clinique avant de confirmer son créneau ; le comité sait seulement que l’organisation reste ouverte.",
+      "next": "La consultation partira du moment où Loïc a cessé de suivre la conversation.",
+      "source_refs": [
+        "oms-cddr",
+        "oms-cddr-hrb"
+      ],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 2,
+      "focus": "Montée de tension reconnue",
+      "scene": "En consultation, Loïc décrit une tension qui avait commencé avant la réunion, mais qu’il n’avait pas nommée. Son carnet reste sur le bureau, distinct de la fiche publique.",
+      "development": "Séparer tension affective et risque évalué ; une sensation corporelle ne prédit pas un acte. Construire trois appuis autour de la description sobre des changements, de la demande d’aide précoce et des conditions de retrait discutées avec l’équipe.",
+      "ending": "Il ajoute une formulation utilisable pour demander le relais, validée avec l’équipe. Il souhaite toutefois parler d’un souvenir de soulagement qu’il trouve difficile à reconnaître.",
+      "next": "Le rendez-vous suivant reprend ce soulagement sans raconter l’acte ancien.",
+      "source_refs": [
+        "oms-cddr",
+        "oms-cddr-hrb"
+      ],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 3,
+      "focus": "Soulagement immédiat et conséquences",
+      "scene": "Au rendez-vous suivant, Loïc dit seulement qu’autrefois une baisse de tension lui avait fait minimiser les conséquences. Il ne donne ni geste, ni objet, ni lieu.",
+      "development": "Expliquer sobrement le décalage entre bénéfice ressenti à court terme et dommages. Ne pas transformer soulagement en justification ni réclamer confession au proche. Les appuis visent parler au professionnel, distinguer ressenti et responsabilité, puis reprendre le plan concret.",
+      "ending": "Loïc décide de ne plus employer la formule ce n’était rien dans les échanges cliniques. Il demande comment agir quand la difficulté s’installe longtemps avant une réunion.",
+      "next": "La temporalité de la difficulté devient le sujet du travail suivant.",
+      "source_refs": [
+        "oms-cddr",
+        "oms-cddr-hrb"
+      ],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 4,
+      "focus": "Contrôle difficile malgré anticipation",
+      "scene": "L’équipe reprend avec Loïc le temps écoulé entre son premier malaise et son appel. Il avait cru qu’avoir anticipé le rendez-vous prouvait qu’il contrôlait la situation.",
+      "development": "Une impulsion problématique peut comporter une montée progressive ; aucune préparation d’acte n’est décrite. Trois appuis : annoncer tôt, interrompre l’engagement prévu selon le plan, laisser l’équipe décider du prochain contact. Aucun défi de résistance.",
+      "ending": "Loïc garde son créneau non confirmé et transmet cette seule information à Maud. Un changement de tâche lui laisse une soirée où il se sent inutile.",
+      "next": "L’équipe explorera ce vécu de solitude sans l’ériger en cause du trouble.",
+      "source_refs": [
+        "oms-cddr",
+        "oms-cddr-hrb"
+      ],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 5,
+      "focus": "États affectifs et vulnérabilité",
+      "scene": "Après l’annulation d’une séance de préparation, Loïc regarde ses notices rangées sans trouver à qui parler. Il appelle Elsa à l’heure convenue et évoque son sentiment d’inutilité.",
+      "development": "Examiner le rôle possible d’un contexte affectif dans sa formulation personnelle, sans prétendre que solitude ou ennui causent la pyromanie. Distinguer une activité ordinaire agréable du suivi clinique et éviter de confier à Elsa la charge de remplir chaque vide.",
+      "ending": "Elsa peut parler ce soir, pas le lendemain. Loïc le note et organise son prochain contact avec l’équipe ; il ne lui demande pas de surveillance.",
+      "next": "Une remarque entendue au comité introduit la confusion entre incendie et diagnostic.",
+      "source_refs": [
+        "oms-cddr",
+        "oms-cddr-hrb"
+      ],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 6,
+      "focus": "Diagnostic distinct du fait incendiaire",
+      "scene": "Au comité, une discussion sur un événement extérieur contient le mot pyromane employé comme synonyme d’auteur d’incendie. Loïc reste silencieux, puis demande à l’équipe comment répondre sans exposer sa santé.",
+      "development": "Clarifier les frontières cliniques et les explications alternatives sans diagnostiquer l’auteur évoqué. Le diagnostic connu de Loïc ne donne aucune information sur cet événement. Trois appuis : corriger le vocabulaire sans détails, poser une limite personnelle, confier les questions cliniques aux professionnels.",
+      "ending": "Loïc choisit une réponse courte sur la différence entre un fait et un diagnostic. Il décide ensuite quelles informations pratiques il veut partager avec Maud.",
+      "next": "La question du consentement et des destinataires occupera la réunion de préparation.",
+      "source_refs": [
+        "oms-cddr",
+        "oms-cddr-hrb"
+      ],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 7,
+      "focus": "Parole clinique et partage limité",
+      "scene": "Loïc prépare avec l’équipe un message pour Maud : créneau bref, relais identifié et possibilité de retrait. Il hésite à joindre son carnet clinique pour être cru.",
+      "development": "L’alliance de soin suppose une information utile au professionnel ; le comité a une autre fonction. Aucun secret absolu promis en situation dangereuse. Trois appuis : distinguer destinataires, choisir les informations nécessaires, clarifier avec l’équipe les situations appelant une protection urgente.",
+      "ending": "Le carnet reste privé. Maud reçoit seulement l’organisation convenue et confirme qu’elle gère la sécurité générale, sans valider le traitement de Loïc.",
+      "next": "Elsa exprime à son tour ce qu’elle peut et ne peut pas porter.",
+      "source_refs": [
+        "oms-cddr",
+        "fip-mo-2018"
+      ],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 8,
+      "focus": "Confiance et limites des proches",
+      "scene": "Elsa vient relire avec Loïc les coordonnées de contact puis lui annonce qu’elle ne sera pas présente toute la journée. Loïc entend d’abord cette absence comme un retrait de confiance.",
+      "development": "Montrer le retentissement relationnel sans en faire un symptôme obligatoire. La confiance ne remplace pas les protections ; le proche n’est ni garant ni gardien. Trois appuis : demander ce qui est possible, reconnaître la limite, activer les relais professionnels prévus.",
+      "ending": "Loïc accepte l’absence d’Elsa sur une partie de la journée ; Nadir confirme uniquement son rôle de réparateur relais. Les contacts de soins restent séparés.",
+      "next": "Le comité peut maintenant arrêter les tâches compatibles et leurs responsables.",
+      "source_refs": [
+        "oms-cddr",
+        "fip-mo-2018"
+      ],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 9,
+      "focus": "Prévention adaptée au contexte",
+      "scene": "Autour de la fiche de créneaux, Maud et Nadir règlent la rotation des adultes. Loïc renonce à une tâche qui ne correspond pas au cadre travaillé avec l’équipe, sans détailler de danger ni de matériel.",
+      "development": "Présenter une adaptation individualisée et non un protocole universel. Les trois appuis concernent confirmer les rôles, vérifier qu’un relais est réellement disponible, renoncer si les conditions convenues manquent. Le comité garde ses procédures ordinaires et aucune attestation de risque nul n’est suggérée.",
+      "ending": "Un créneau de réparation avec Nadir est confirmé sous réserve des conditions convenues. Loïc se réjouit, puis observe une réapparition de préoccupations avant la dernière préparation.",
+      "next": "Cette fluctuation sera discutée avant toute décision de participation.",
+      "source_refs": [
+        "oms-cddr",
+        "fip-mo-2018"
+      ],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 10,
+      "focus": "Évolution fluctuante sans fatalité",
+      "scene": "Quelques jours avant la brocante, Loïc signale à l’équipe que les préoccupations ont repris malgré plusieurs semaines plus calmes. Il suspend sa dernière séance de préparation et Maud réorganise immédiatement cette tâche.",
+      "development": "Distinguer retour de difficulté, nouvel acte et échec moral. Les données d’évolution restent limitées. Trois appuis : transmettre le changement, suivre la réévaluation prévue, accepter l’ajustement des engagements ; aucun calendrier automatique de reprise.",
+      "ending": "Après échange clinique, le plan est révisé et le créneau reste plus court. La tâche annulée n’est pas rattrapée seul ; Loïc demande sur quoi les soins peuvent réellement s’appuyer.",
+      "next": "La consultation suivante distingue ce que montrent les recherches de ce qu’elles ne prouvent pas.",
+      "source_refs": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "hra-fip-mo-longitudinal"
+      ],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 11,
+      "focus": "Soins spécialisés et preuves limitées",
+      "scene": "Loïc demande à la docteure Perrin si suivre correctement le programme garantit de ne plus jamais rencontrer de difficulté. Elle reprend avec lui les objectifs et la portée limitée des données disponibles.",
+      "development": "Les études chez des auteurs d’incendies en milieu médico-légal portent surtout sur des mesures psychologiques, pas sur une garantie individuelle. Trois appuis : poser ses questions au soignant, choisir un objectif observable de suivi, garder le plan de sécurité ; aucune technique de traitement reproduite ni traitement médicamenteux proposé.",
+      "ending": "Loïc retient comme objectif d’utiliser le relais prévu plutôt que de prouver sa guérison. Maud et Nadir reconfirment la présence et l’organisation du lendemain.",
+      "next": "La journée peut se dérouler dans ces conditions effectivement vérifiées, avec possibilité réelle de retrait.",
+      "source_refs": [
+        "oms-cddr",
+        "fip-mo-2018",
+        "fipp-2015",
+        "hra-fip-mo-longitudinal"
+      ],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 12,
+      "focus": "Participation choisie et suivi maintenu",
+      "scene": "À la brocante, Loïc tient le créneau de réparateur convenu, explique une réparation sans détail dangereux, puis passe la fiche à Nadir à l’heure prévue. Maud assure la coordination du lieu et Elsa vient plus tard comme proche.",
+      "development": "La participation sociale est un enjeu de vie, pas un test clinique. Trois appuis : respecter la rotation, faire un bilan factuel avec les interlocuteurs appropriés, garder le rendez-vous de suivi. Un créneau accompli ne prouve pas une absence durable de risque.",
+      "ending": "Le rôle de réparateur lors de la démonstration est effectivement tenu et transmis. Loïc confirme son rendez-vous de suivi puis repart avec les notices à classer : ce projet ordinaire continuera après la fête.",
+      "next": "Clore l’enjeu de la brocante sans guérison annoncée ; la perspective reste celle de son métier et d’un accompagnement qui continue.",
+      "source_refs": [
+        "oms-cddr",
+        "fip-mo-2018",
+        "hra-fip-mo-longitudinal"
+      ],
+      "diagnostic_stage": "known"
+    }
+  ]
+}

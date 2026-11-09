@@ -1,0 +1,42 @@
+{
+  "references": {
+    "oms-mms-6c91": {
+      "title": "OMS CIM-11 MMS 2026-01, 6C91 Trouble dissocial du comportement ; lien canonique",
+      "url": "https://icd.who.int/browse/2026-01/mms/fr#719572464"
+    },
+    "oms-cddr-6c91": {
+      "title": "OMS CDDR 2024, ISBN 9789240077263, pages imprimées 544–549 : Conduct-dissocial disorder et spécificateurs prosociaux",
+      "url": "https://iris.who.int/bitstream/handle/10665/375767/9789240077263-eng.pdf"
+    },
+    "nice-cg158-malou": {
+      "title": "NICE CG158, recommandations, sections 1.1, 1.3, 1.5.11–14 et 1.6.1, enfants et adolescents",
+      "url": "https://www.nice.org.uk/guidance/cg158/chapter/recommendations"
+    }
+  },
+  "dossier": {
+    "name": "Trouble dissocial du comportement",
+    "aliases": [
+      "6C91",
+      "Conduct-dissocial disorder"
+    ],
+    "references": [
+      "oms-cddr",
+      "oms-mms-6c91",
+      "oms-cddr-6c91",
+      "nice-cg158-malou"
+    ],
+    "points": [
+      "Vérification individuelle le 9 novembre 2026 : CDDR anglais p.544–549 lus par extraction du PDF OMS déjà disponible localement, ISBN vérifié. Sections NICE lues dans les résultats indexés du domaine officiel ; ouverture directe refusée HTTP 403. Lien MMS repris du canon, interface dynamique non extraite. Traduction de travail française, non traduction officielle des CDDR.",
+      "CDDR p.544–546 : le diagnostic repose sur un ensemble durable de conduites portant gravement atteinte aux droits ou règles majeures et sur leur retentissement. Un désaccord, une règle associative refusée ou un acte isolé ne suffit pas. Diagnostic déjà établi avant la série ; les scènes actuelles illustrent un parcours de suivi, sans prétendre en apporter la démonstration. Les antécédents nécessaires ont été évalués par les professionnels ; ils ne sont ni détaillés ni inventoriés.",
+      "CDDR p.545–549 : début et émotions prosociales sont des spécifications différentes. Le canon ne fixe aucune des deux ; ne choisir aucun sous-code. Le trouble ne signifie pas absence générale de remords ou d’empathie, et ce n’est pas un trouble de personnalité. Un silence, une excuse maladroite ou une bonne action ne permet aucune conclusion clinique sur ces spécifications.",
+      "CDDR p.545–548 : entourage, contexte, évolution et troubles associés participent à l’évaluation. L’évolution varie ; le devenir adulte n’est pas fixé. Colère, impulsivité et trouble dissocial ne sont pas interchangeables. Ne pas ajouter TDAH, trouble de l’humeur, usage de substances ou diagnostic oppositionnel au personnage. Le suivi peut explorer une difficulté nouvelle sans confirmer une comorbidité.",
+      "NICE CG158 1.3.8–16 : évaluation professionnelle avec temps individuel, entourage, besoins, ressources et risques ; plan élaboré avec jeune et famille. Sections 1.5.13–14 : interventions multimodales pour 11–17 ans, réalisées par intervenants formés, avec soutien familial et plusieurs milieux de vie. Malou a 15 ans ; les programmes 9–14 ans de 1.5.11–12 ne constituent pas une recommandation directe pour elle. Section 1.6.1 : pas de traitement médicamenteux systématique des comportements. Aucun médicament ou calendrier thérapeutique inventé.",
+      "NICE 1.1.5 et 1.1.8 : vigilance envers la stigmatisation, transitions de services préparées. Cadre britannique, non procédure française ; ne promettre ni structure, ni droit spécifique, ni disponibilité locale. Les adaptations associatives décrites sont fictionnelles, pas une thérapie multisystémique délivrée par une éducatrice seule.",
+      "Direction clinique de la série : les douze aspects se répartissent entre atteinte à l’autonomie, difficulté à reconnaître les conséquences, interprétation des intentions, pression des pairs, escalade, rupture de confiance, alliance de soin, retentissement familial, besoin de coordination, réparation, reprise progressive et évolution. Tous ne sont pas des critères ou mécanismes universels du trouble. Les traits sociaux et réactions propres à Malou sont explicitement des choix narratifs, sans causalité cérébrale, familiale ou traumatique affirmée.",
+      "Sécurité narrative : Inès, éducatrice référente, et Marc, responsable associatif, arrêtent une activité dès qu’elle ne peut rester sûre. Les acteurs ne doivent ni calmer Malou ni accepter un rôle pour prévenir sa réaction. Éloignement accompagné et relais professionnel, sans contention décrite ni confrontation. En danger immédiat, le responsable appelle les secours. Le récit ne contient aucun détail d’infraction, intimidation reproductible, contournement ou dissimulation.",
+      "Les stratégies des futurs articles sont des supports ordinaires à discuter avec l’équipe : séparer faits et interprétation, formuler une demande, demander une pause, convenir d’un point de contact et vérifier les engagements. Aucune efficacité thérapeutique autonome ne leur est attribuée. Respecter les limites des autres, la confidentialité expliquée à la mineure et les obligations de protection applicables ; ne pas promettre le secret absolu.",
+      "Règles de fiction : participation des acteurs libre, retrait possible, aucune réparation imposant rencontre, pardon ou réconciliation. Une excuse ne rétablit pas immédiatement une confiance endommagée. Conséquences prévisibles, proportionnées et révisables par les adultes ; pas humiliation, surveillance des pairs ou chantage aux soins. Le film demeure un projet créatif, jamais récompense conditionnée à une guérison ou traitement du trouble."
+    ]
+  },
+  "direction": "Malou, 15 ans, apprentie en montage vidéo à l’association Le Passage, prépare le court métrage La Fenêtre du palier, une fiction ordinaire sur deux voisins qui échangent une plante. Elle aime les raccords de lumière et les fins sans musique ; elle dit « on garde quelle version ? » quand elle cherche à retrouver une prise sur la conversation. Ces goûts ne sont pas des symptômes. Sana et Joël, acteurs adolescents, choisissent librement leurs rôles ; Sana ne veut plus jouer une réconciliation. Inès est l’éducatrice référente, Marc dirige l’atelier, sa mère Nadia et son père Étienne participent au suivi avec l’équipe spécialisée représentée par la psychologue Mme Girard. Personne ne confond responsabilité éducative et compétence clinique. Un carnet orange contient les versions du scénario et engagements associatifs, jamais le dossier de soins. La série couvre plusieurs semaines ; après suspension de la séance collective, Malou travaille seule avec un adulte puis reprend une partie du montage selon des conditions explicites. Une projection interne clôt le projet avec l’accord des acteurs ; un plan de continuité des soins reste ouvert."
+}

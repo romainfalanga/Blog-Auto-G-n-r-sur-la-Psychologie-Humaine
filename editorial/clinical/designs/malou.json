@@ -1,0 +1,195 @@
+{
+  "schema_version": 1,
+  "character_id": "malou",
+  "code": "6C91",
+  "article_format": 2,
+  "bio": "Malou a 15 ans et se forme comme apprentie en montage vidéo dans une association. Son Trouble dissocial du comportement, déjà diagnostiqué, affecte ses relations et sa façon de respecter les droits des autres quand son projet rencontre une limite. Elle veut terminer un court métrage, mais les acteurs tiennent à choisir leur rôle. Avec sa famille, son éducatrice et une équipe spécialisée, elle cherche à retrouver une place sûre dans le groupe, à répondre des conséquences et à créer sans décider pour tout le monde.",
+  "profile_topics": [
+    "Trouble dissocial du comportement",
+    "Droits des autres",
+    "Responsabilité et réparation",
+    "Confiance et sécurité",
+    "Soutien familial"
+  ],
+  "voice": "Une adolescente précise sur les images, parfois abrupte et pressée de conclure, qui aime les silences au cinéma. Ne pas écrire une adulte miniature, une manipulatrice omnisciente ou une enfant définie par sa dangerosité. Sa voix évolue par essais concrets, sans discours clinique récité.",
+  "series_goal": "Achever La Fenêtre du palier avec des acteurs libres de leurs choix et retrouver une place dans le projet selon des conditions sûres et explicites, tout en maintenant un suivi spécialisé indépendant de la réussite du film.",
+  "continuity_rules": [
+    "Diagnostic établi avant le premier épisode, stade known partout ; ne pas inventer de sous-code, date de début, antécédent détaillé ou comorbidité.",
+    "Conserver Malou âgée de 15 ans, le carnet orange, le titre du film et les rôles de Sana, Joël, Marc, Inès, Nadia, Étienne et Mme Girard. La formation associative est son activité, pas un contrat professionnel inventé.",
+    "Dès l’épisode 1 la séance collective est suspendue ; la préparation reste individuelle jusqu’à la reprise encadrée de l’épisode 11. Aucun retour implicite au groupe entre-temps.",
+    "Sana et Joël peuvent refuser un rôle, une rencontre ou une reprise. Aucune pression présentée comme technique utile ; les adultes prennent en charge la sécurité.",
+    "À l’épisode 5, l’échange est interrompu et le relais clinique a lieu dans la scène ; le rendez-vous de l’épisode 6 en reprend les faits. Un danger immédiat appelle un secours effectif, sans attendre une consultation.",
+    "Les exercices ordinaires accompagnent un suivi, sans constituer une thérapie faite par les proches. Les droits, responsabilités et informations de soin restent distincts des critères du projet.",
+    "La projection finale est interne, sans publication en ligne ni droits à l’image présumés. Le film se termine ; le soin et les limites relationnelles demeurent."
+  ],
+  "episodes": [
+    {
+      "number": 1,
+      "focus": "Respecter le choix des autres",
+      "scene": "À la table du scénario, Sana refuse la scène de réconciliation. Malou affirme que sa décision ne compte pas puisque le film est commencé ; Marc suspend la discussion et protège le droit de retrait.",
+      "development": "Montrer une atteinte à l’autonomie dans ce contexte, sans assimiler tout désaccord adolescent au trouble. Distinguer demande, consentement et décision collective ; le diagnostic antérieur ne donne aucun droit sur Sana.",
+      "ending": "Malou garde le scénario incomplet et accepte de proposer deux versions, sans obtenir de réponse immédiate de Sana.",
+      "next": "La version sans réconciliation entraîne une modification du planning que Malou devra reconnaître.",
+      "source_refs": [
+        "oms-cddr",
+        "oms-cddr-6c91",
+        "nice-cg158-malou"
+      ],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 2,
+      "focus": "Reconnaître les conséquences de ses actes",
+      "scene": "En séance individuelle, Inès reprend le retard et le malaise du groupe. Malou dit que le problème vient seulement du refus de Sana et minimise sa propre insistance.",
+      "development": "Distinguer intention de faire un beau film et conséquences relationnelles. Une mise en mots factuelle ne devient ni tribunal ni justification du diagnostic ; les proches reconnaissent la difficulté sans supprimer la responsabilité.",
+      "ending": "Malou inscrit sa part dans le retard dans le carnet orange, sans qualifier Sana de responsable.",
+      "next": "Le groupe transmet une courte note sur les conditions nécessaires pour reprendre une discussion.",
+      "source_refs": [
+        "oms-cddr",
+        "oms-cddr-6c91",
+        "nice-cg158-malou"
+      ],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 3,
+      "focus": "Attribuer trop vite des intentions hostiles",
+      "scene": "Malou lit la note comme une volonté de l’exclure définitivement. Inès propose de lire les faits et demandes séparément ; aucune rencontre conflictuelle n’est organisée.",
+      "development": "Présenter cette interprétation comme une difficulté individuelle possible, non un trait obligatoire ou une cause prouvée. Comparer le texte de la note aux suppositions et préparer une question neutre avec un adulte.",
+      "ending": "Marc confirme que la séance reste suspendue, mais qu’un rendez-vous de préparation est possible.",
+      "next": "Malou reçoit en parallèle des messages de camarades sur la manière de répondre au groupe.",
+      "source_refs": [
+        "oms-cddr",
+        "oms-cddr-6c91",
+        "nice-cg158-malou"
+      ],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 4,
+      "focus": "Appartenance au groupe et influence des pairs",
+      "scene": "Au retour de l’atelier, des camarades lui conseillent de ne rien céder. Malou veut être soutenue et manque d’écarter toute discussion ; elle en parle à son père.",
+      "development": "Explorer l’appartenance et les contextes sociaux sans inventer une bande délinquante ni faire des pairs la cause unique. Séparer soutien amical, pression et choix personnel ; aucune suggestion nuisible détaillée.",
+      "ending": "Elle choisit de préparer sa propre réponse avec Inès et refuse que les camarades interviennent auprès des acteurs.",
+      "next": "Le rendez-vous avec Marc devient possible, mais le maintien de la suspension la contrarie.",
+      "source_refs": [
+        "oms-cddr",
+        "oms-cddr-6c91",
+        "nice-cg158-malou"
+      ],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 5,
+      "focus": "Interrompre une escalade de colère",
+      "scene": "Au rendez-vous, Marc maintient la limite de reprise. Malou hausse le ton et n’arrive plus à écouter ; Marc met fin à l’échange et Inès l’accompagne dans une autre pièce avant toute confrontation.",
+      "development": "La colère n’explique pas à elle seule le trouble. Distinguer reconnaissance des premiers signes, arrêt de l’activité et relais aux adultes ; aucune méthode de maîtrise physique ou négociation de la sécurité.",
+      "ending": "Une fois le calme revenu, Inès contacte l’équipe spécialisée avec Malou et ses parents pour réexaminer le soutien nécessaire.",
+      "next": "Le rendez-vous clinique suivant reprend cet épisode réel, au lieu de faire comme si la pause avait tout résolu.",
+      "source_refs": [
+        "oms-cddr",
+        "oms-cddr-6c91",
+        "nice-cg158-malou"
+      ],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 6,
+      "focus": "Méfiance envers les propositions de soin",
+      "scene": "Malou arrive chez Mme Girard persuadée que les adultes cherchent seulement à obtenir son obéissance. Un temps individuel lui permet de dire qu’elle veut terminer le film.",
+      "development": "Montrer l’alliance et la place de la jeune dans un suivi établi ; expliquer qui reçoit les informations et les limites de confidentialité sans imposer de confession. Distinguer soin et décision associative.",
+      "ending": "Malou accepte un objectif concret de travail avec l’équipe : pouvoir recevoir une limite sans poursuivre la pression sur autrui.",
+      "next": "La famille doit maintenant adapter les échanges quotidiens sans transformer le salon en réunion de soins.",
+      "source_refs": [
+        "oms-cddr",
+        "oms-cddr-6c91",
+        "nice-cg158-malou"
+      ],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 7,
+      "focus": "Retentissement familial et épuisement des proches",
+      "scene": "Nadia répète les nouvelles consignes à chaque repas ; Étienne finit par ne plus parler du film. Malou se sent réduite à ce qui s’est passé et la discussion tourne en rond.",
+      "development": "Explorer le coût familial sans culpabiliser les parents ni les désigner causes du trouble. Prévoir avec l’équipe un moment de discussion et des relais pour que les autres temps conservent une vie ordinaire.",
+      "ending": "La famille fixe un bref échange prévu et garde un repas sans dossier de suivi ; Nadia demande aussi un soutien pour elle-même.",
+      "next": "Les mêmes attentes doivent être clarifiées entre famille, équipe et association avant la reprise individuelle.",
+      "source_refs": [
+        "oms-cddr",
+        "oms-cddr-6c91",
+        "nice-cg158-malou"
+      ],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 8,
+      "focus": "Coordonner les attentes entre plusieurs lieux",
+      "scene": "Au point préparatoire, Malou ne sait plus si un accord de ses parents vaut autorisation de retourner à l’atelier collectif. Inès réunit seulement les adultes concernés et clarifie leurs rôles.",
+      "development": "Distinguer coordination multimodale professionnelle et multiplication de surveillants. Soins, règles associatives et besoins scolaires ne s’échangent pas en bloc ; partager seulement les informations utiles selon le cadre expliqué.",
+      "ending": "Marc autorise une séance de montage avec lui seul ; le soin reste piloté par l’équipe, et le carnet orange contient seulement les engagements du projet.",
+      "next": "La première séance individuelle fera apparaître ce qu’une promesse ne suffit pas à restaurer.",
+      "source_refs": [
+        "oms-cddr",
+        "oms-cddr-6c91",
+        "nice-cg158-malou"
+      ],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 9,
+      "focus": "Reconstruire une confiance fragilisée",
+      "scene": "Malou termine un premier assemblage sous la présence de Marc et pense que Sana devrait revenir aussitôt. Sana souhaite encore du temps et transmet ses choix par Marc.",
+      "development": "Le retentissement relationnel peut durer après un effort réel. Ne pas mesurer la confiance par une déclaration de remords ; reconnaître des comportements observables sans obliger les autres à se sentir en sécurité.",
+      "ending": "Malou accepte de continuer sans contacter Sana pour obtenir son accord immédiat, et Joël garde lui aussi le choix de participer.",
+      "next": "La nouvelle version permet une proposition de réparation, distincte du retour des acteurs.",
+      "source_refs": [
+        "oms-cddr",
+        "oms-cddr-6c91",
+        "nice-cg158-malou"
+      ],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 10,
+      "focus": "Réparer sans exiger le pardon",
+      "scene": "Malou prépare une note courte reconnaissant la pression mise sur Sana et propose de retirer une scène. Marc vérifie avec Sana si elle souhaite recevoir cette note, sans organiser de face-à-face.",
+      "development": "Réparation choisie et responsabilité ne garantissent ni réponse ni pardon. Le retrait de la scène dépend des choix du projet et protège les acteurs ; ce n’est pas un traitement validé ni une preuve de guérison.",
+      "ending": "Sana accepte la note et la nouvelle version, mais refuse d’en discuter en personne. Malou respecte ce refus.",
+      "next": "Le montage peut être présenté à un petit groupe sous les conditions déjà convenues.",
+      "source_refs": [
+        "oms-cddr",
+        "oms-cddr-6c91",
+        "nice-cg158-malou"
+      ],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 11,
+      "focus": "Reprendre une place avec des limites",
+      "scene": "Pendant la séance de reprise, Joël demande une modification du montage que Malou trouve mauvaise. Elle commence à insister, puis sollicite Marc ; la décision est différée.",
+      "development": "Distinguer amélioration partielle et disparition du trouble. Les conditions restent observables et révisables : présence adulte, choix des acteurs, interruption si nécessaire ; les pairs ne deviennent pas évaluateurs cliniques.",
+      "ending": "Une modification est retenue après discussion calme. Le groupe autorise une projection interne de la version choisie, sans lever tous les appuis.",
+      "next": "La dernière séance préparera la projection et l’après-projet sans promettre une trajectoire linéaire.",
+      "source_refs": [
+        "oms-cddr",
+        "oms-cddr-6c91",
+        "nice-cg158-malou"
+      ],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 12,
+      "focus": "Évolution ouverte et continuité du soutien",
+      "scene": "À la projection interne, Malou présente la version acceptée avec les noms des participants selon leur choix. Sana assiste à la séance sans jouer la réconciliation que Malou avait voulue.",
+      "development": "Résoudre le projet créatif et reconnaître des actes concrets, sans conclure à une guérison ni à un futur adulte prédéterminé. Un nouveau projet demande une nouvelle discussion des besoins, avec continuité du suivi.",
+      "ending": "Le court métrage est terminé. Malou note une idée de documentaire et conserve son prochain rendez-vous ; ses relations ont changé sans que toutes soient réparées.",
+      "next": "La série se ferme sur un film achevé et une prochaine étape choisie, avec les soutiens encore présents.",
+      "source_refs": [
+        "oms-cddr",
+        "oms-cddr-6c91",
+        "nice-cg158-malou"
+      ],
+      "diagnostic_stage": "known"
+    }
+  ]
+}

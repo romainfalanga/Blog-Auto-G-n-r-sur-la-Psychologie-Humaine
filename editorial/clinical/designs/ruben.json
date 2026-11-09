@@ -1,0 +1,195 @@
+{
+  "schema_version": 1,
+  "character_id": "ruben",
+  "code": "6C90",
+  "article_format": 2,
+  "bio": "Ruben, 12 ans, est collégien et aime bricoler en technologie. Son Trouble oppositionnel avec provocation a été diagnostiqué après une évaluation de ses différents contextes de vie. Les contestations répétées compliquent ses relations et sa participation au club de robotique, surtout quand il ne comprend ni la règle ni les choix possibles. Il veut participer au salon des projets du collège. Ses parents, l’équipe éducative et sa clinicienne l’aident à choisir ses responsabilités, tandis que les adultes modifient aussi leurs interactions. Ses désaccords légitimes gardent leur place.",
+  "profile_topics": [
+    "Trouble oppositionnel avec provocation",
+    "conflits autour des règles",
+    "irritabilité et ressentiment",
+    "relations avec les camarades",
+    "soutien familial et scolaire"
+  ],
+  "voice": "Ruben parle concrètement de roues, de tables et de temps pour essayer. Il peut répondre trop vite puis chercher ses mots ; il pose aussi des questions pertinentes et plaisante sans blesser. Ses intérêts techniques ne sont pas des symptômes et il ne récite jamais un cours clinique.",
+  "series_goal": "Participer au salon des projets du collège avec Inès en choisissant une responsabilité d’essais puis une courte démonstration, sans conditionner ce projet à une disparition complète des conflits.",
+  "continuity_rules": [
+    "Ruben reste collégien de 12 ans et le diagnostic de Trouble oppositionnel avec provocation est établi avant le début ; known dans les douze épisodes. Aucun sous-type d’irritabilité chronique ni d’émotions prosociales limitées n’est attribué.",
+    "Claire est sa mère, Yacine son père, madame Vernier sa professeure de technologie, Inès sa partenaire, madame Arnaud sa clinicienne. Les adultes assurent la sécurité ; Inès conserve ses limites et n’a pas à le soigner. Aucun partage public du diagnostic au club.",
+    "Le carnet orange contient croquis, tâches et essais, jamais une grille publique de comportement. La pièce perdue de l’épisode 4 est retrouvée au début du 5 ; la pause relationnelle d’Inès est respectée avant l’accord limité du 9.",
+    "La série couvre un trimestre. Le rendez-vous 7–8 est un seul entretien en deux temps ; l’accompagnement du 9 intervient quelques semaines après. Ne pas attribuer une guérison à une unique conversation ni prétendre dispenser un programme manuel complet.",
+    "Les adultes modifient leurs interactions, rendent les règles compréhensibles et proposent de vrais choix. Désaccord légitime, incompréhension et inquiétude ne sont pas automatiquement des manifestations du trouble. Pas de blâme parental, discipline punitive, humiliation, sanction clinique ou diagnostic par les proches.",
+    "Trois appuis par futur article relèvent de communication, organisation, réparation proportionnée et relais professionnel ; ils ne remplacent pas la prise en charge. Pas de posologie, dispositif coercitif, exposition forcée ni manipulation technique risquée.",
+    "L’essai supplémentaire convenu au 10 a lieu au 11 ; le rôle de démonstration choisi au 11 est tenu au 12, puis la parole est transmise à Inès. Le salon résout l’enjeu narratif ; le suivi persiste et l’évolution reste ouverte."
+  ],
+  "episodes": [
+    {
+      "number": 1,
+      "focus": "Contester au point de perdre sa place",
+      "scene": "Au club, madame Vernier demande de libérer une table pour le groupe suivant. Ruben relance chaque explication, retient son carnet orange et perd le temps où il devait proposer son robot. Inès finit par ranger seule. La professeure maintient la fin de séance sans commenter son diagnostic devant les autres.",
+      "development": "Distinguer le désaccord ordinaire du schéma déjà évalué et de son retentissement : la question sur le rangement est permise, la discussion répétée empêche ici le projet. Trois appuis possibles : expliquer une règle en une phrase ; proposer deux tâches réellement disponibles ; fixer un moment séparé pour discuter de son utilité. Aucune obligation de reconnaître que l’adulte a toujours raison.",
+      "ending": "Ruben choisit de noter sa proposition de robot et de la rapporter à la prochaine séance. Il range le carnet, encore mécontent ; Inès ne promet pas encore de travailler avec lui.",
+      "next": "À la maison, Claire découvre que le carnet a remplacé la préparation du cartable et hésite à demander une nouvelle tâche.",
+      "source_refs": [
+        "oms-cddr",
+        "oms-cddr-ruben",
+        "nice-cg158-ruben"
+      ],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 2,
+      "focus": "Les demandes évitées à la maison",
+      "scene": "Claire tourne autour du cartable non préparé, craignant une nouvelle discussion. Yacine veut tout rappeler d’un coup ; Ruben commence à contester avant qu’ils aient fini. Son croquis du robot occupe la table et le repas prend du retard.",
+      "development": "Retentissement familial distinct du premier conflit : fatigue, multiplication ou évitement des demandes, place prise par les disputes. L’OMS décrit l’évitement de demandes, sans en faire une faute parentale. Trois appuis : choisir une demande faisable ; annoncer le moment de reprise ; signaler la fatigue des parents au suivi. Le projet n’est pas confisqué comme moyen de pression.",
+      "ending": "Ils conviennent de dégager ensemble une partie de la table puis de parler du cartable. Ruben termine le croquis après le repas ; Claire note qu’elle souhaite un entretien de soutien.",
+      "next": "Le croquis arrive au club, où une remarque d’Inès sur une roue déclenchera une réaction très vive.",
+      "source_refs": [
+        "oms-cddr",
+        "oms-cddr-ruben",
+        "nice-cg158-ruben"
+      ],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 3,
+      "focus": "Une remarque devient une irritation vive",
+      "scene": "Inès dit que la roue dépasse du dessin. Ruben répond sèchement qu’elle veut toujours corriger, froisse un brouillon puis s’écarte de la table. Madame Vernier garde le groupe encadré et lui propose une pause à proximité, sans manipulation du matériel.",
+      "development": "Réactivité irritable : réaction rapide, intensité et difficulté à reprendre une tâche ; ne pas attribuer un état chronique ni faire de toute colère un signe du trouble. Trois appuis : reconnaître le fait observable sans étiquette ; convenir d’une pause sûre ; revenir au dessin quand l’échange redevient possible. Inès n’est pas tenue de calmer Ruben.",
+      "ending": "Ruben revient et mesure la roue. La correction était utile, mais Inès lui demande de ne plus lui parler ainsi. Le dessin est conservé dans le carnet.",
+      "next": "À la séance suivante, une pièce mal classée pose une autre question : accepter sa part dans une erreur.",
+      "source_refs": [
+        "oms-cddr",
+        "oms-cddr-ruben",
+        "nice-cg158-ruben"
+      ],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 4,
+      "focus": "Reporter son erreur sur un autre",
+      "scene": "Ruben ne retrouve pas une pièce et accuse Inès de l’avoir déplacée. Le carnet montre qu’il avait lui-même changé la liste. Il récuse d’abord cette trace et la discussion bloque l’assemblage, que la professeure a interrompu le temps de clarifier.",
+      "development": "Attribution de responsabilité : l’accusation peut faire partie de la présentation, mais ne prouve ni mensonge calculé ni absence d’empathie. Trois appuis : revenir à un fait vérifiable ; permettre de corriger sans confession publique ; séparer réparation concrète et jugement de la personne. Le camarade peut demander que l’accusation cesse.",
+      "ending": "Ruben corrige la liste et dit à Inès qu’il l’a accusée trop vite. Elle accepte la liste corrigée, pas une réconciliation instantanée. La pièce reste à retrouver dans le rangement commun avec l’adulte.",
+      "next": "La pièce retrouvée permet de reprendre le travail, mais la relation reste tendue et une plaisanterie répétée l’abîmera.",
+      "source_refs": [
+        "oms-cddr",
+        "oms-cddr-ruben",
+        "nice-cg158-ruben"
+      ],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 5,
+      "focus": "Provoquer éloigne les camarades",
+      "scene": "La pièce a été retrouvée avec madame Vernier. Ruben imite ensuite la façon dont Inès demande de vérifier les mesures ; elle lui dit d’arrêter. Il recommence devant un camarade, qui ne rit plus. Inès demande une autre table pour terminer son dessin.",
+      "development": "Qualité provocatrice et rejet par les pairs, sans spectacle humiliant. Trois appuis : l’adulte arrête le comportement précisément nommé ; le camarade peut se retirer ; Ruben peut préparer une reprise respectueuse sans exiger le pardon. Ne pas enseigner à ignorer une parole blessante ni transformer Inès en thérapeute.",
+      "ending": "La professeure organise deux espaces de travail encadrés. Ruben finit seul sa partie du schéma et accepte de ne pas solliciter Inès pendant la pause.",
+      "next": "Ce travail séparé montre une difficulté différente : Ruben ne comprend pas une consigne écrite et son refus ne peut être interprété automatiquement.",
+      "source_refs": [
+        "oms-cddr",
+        "oms-cddr-ruben",
+        "nice-cg158-ruben"
+      ],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 6,
+      "focus": "Un refus ne dit pas sa cause",
+      "scene": "Devant une fiche de plusieurs étapes, Ruben dit qu’il ne fera pas ce travail. Madame Vernier commence à évoquer leur accord puis lui demande ce qui bloque. Il désigne une phrase qu’il ne comprend pas ; une fois reformulée, il accepte de commencer, tout en discutant encore le choix du rôle.",
+      "development": "Diagnostic connu et lecture du contexte : une incompréhension actuelle n’est pas la preuve d’une opposition supplémentaire. Les diagnostics différentiels restent professionnels ; aucune dyslexie, aucun TDAH ni autisme n’est ajouté. Trois appuis : demander où cela bloque ; reformuler une étape ; distinguer besoin d’explication et désaccord sur la tâche.",
+      "ending": "Ruben réalise le premier test encadré. Il choisit de noter les résultats dans le carnet orange, mais revient sur l’épisode où Inès a changé de table.",
+      "next": "Le rendez-vous déjà prévu avec madame Arnaud permettra de parler du ressentiment qui persiste après la dispute.",
+      "source_refs": [
+        "oms-cddr",
+        "oms-cddr-ruben",
+        "nice-cg158-ruben"
+      ],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 7,
+      "focus": "Le ressentiment prolonge la dispute",
+      "scene": "Au rendez-vous de suivi, Ruben rapporte encore le déplacement d’Inès comme si toute la séance avait été organisée contre lui. Il dit vouloir lui refuser l’accès au carnet lors du prochain essai. La clinicienne l’écoute d’abord seul, puis organise avec lui ce qui sera repris avec ses parents.",
+      "development": "Ressentiment et tentation de représailles se distinguent de la colère rapide de l’épisode 3. Sa perception d’injustice est entendue sans valider la mise à l’écart d’Inès. Trois appuis : séparer fait et interprétation ; envisager les conséquences d’un refus de partager ; préparer une demande concrète. Pas d’affirmation de biais universel ou de sous-type chronique.",
+      "ending": "Ruben renonce à cacher le carnet et prépare une phrase pour demander une répartition des tâches. Il choisit que la clinicienne aide ses parents à comprendre cette décision.",
+      "next": "La seconde partie du rendez-vous donne à Claire et Yacine un espace pour parler de leur propre épuisement.",
+      "source_refs": [
+        "oms-cddr",
+        "oms-cddr-ruben",
+        "nice-cg158-ruben"
+      ],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 8,
+      "focus": "Soutenir les parents sans les accuser",
+      "scene": "Avec l’accord préparé avec Ruben, Claire dit qu’elle redoute chaque retour de club ; Yacine craint que demander de l’aide signifie avoir mal élevé leur fils. Madame Arnaud précise le but du soutien et leur demande aussi ce qui fonctionne dans leurs échanges avec lui.",
+      "development": "Prise en charge et retentissement parental : soutien sans culpabilisation ni promesse que les bons parents supprimeront le trouble. Trois appuis : formuler une difficulté précise ; sélectionner un changement d’interaction réaliste ; programmer un retour professionnel. Les programmes NICE parentaux 3–11 ans ne sont pas présentés comme prescription pour cet enfant de 12 ans.",
+      "ending": "Les parents retiennent un bref point de retour du club, sans interrogatoire ni inventaire de fautes. La clinicienne propose de discuter avec Ruben d’un accompagnement de résolution de problèmes adapté à son âge.",
+      "next": "Le suivi suivant présente cet accompagnement à Ruben et prépare un essai autour des responsabilités du robot.",
+      "source_refs": [
+        "oms-cddr",
+        "oms-cddr-ruben",
+        "nice-cg158-ruben"
+      ],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 9,
+      "focus": "Apprendre à chercher plusieurs solutions",
+      "scene": "Quelques semaines plus tard, Ruben retrouve madame Arnaud dans le cadre de son accompagnement. Il veut tester le robot mais refuse qu’Inès décide seule de l’ordre. Avec la clinicienne, il essaie plusieurs manières de proposer une répartition, puis choisit celle qu’il peut dire lui-même.",
+      "development": "Apprentissage accompagné, fondé sur les principes de résolution de problèmes adaptés aux 9–14 ans, sans prétendre reproduire un programme complet validé. Trois appuis de transfert : décrire le problème concret ; comparer deux options avec leurs effets ; essayer puis recevoir un retour. Les adultes aussi rendent leurs choix explicites ; ce n’est pas un entraînement à l’obéissance.",
+      "ending": "Au club, Ruben propose de noter les essais pendant qu’Inès prépare l’affiche, puis d’échanger un créneau. Elle accepte cette organisation limitée. Madame Vernier reste responsable des manipulations autorisées.",
+      "next": "La répartition rend possible une répétition, où un nouvel accrochage aura des conséquences pour tout le groupe.",
+      "source_refs": [
+        "oms-cddr",
+        "oms-cddr-ruben",
+        "nice-cg158-ruben"
+      ],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 10,
+      "focus": "Réparer un retard qui touche le groupe",
+      "scene": "Lors de la répétition, Ruben conteste un changement de créneau et prolonge l’échange. Son équipe perd une partie du temps de démonstration. Inès est contrariée : son affiche ne sera pas essayée avec le robot ce jour-là. La professeure ne retire pas arbitrairement leur inscription au salon.",
+      "development": "Retentissement collectif et réparation : reconnaître l’effet d’un comportement sans réduire l’enfant à ce comportement. Trois appuis : nommer le temps perdu ; demander ce qui peut concrètement être réparé ; choisir une responsabilité à sa mesure. Aucune excuse publique forcée ni responsabilité d’assurer la paix pour toute l’équipe.",
+      "ending": "Ruben prépare la liste des points restant à tester. Avec les possibilités réelles du club, madame Vernier réserve un court essai à la séance suivante ; Inès accepte d’y apporter l’affiche.",
+      "next": "L’essai a lieu, mais l’approche du public fait apparaître chez Ruben une inquiétude qu’on ne peut attribuer au seul trouble.",
+      "source_refs": [
+        "oms-cddr",
+        "oms-cddr-ruben",
+        "nice-cg158-ruben"
+      ],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 11,
+      "focus": "Une difficulté nouvelle mérite écoute",
+      "scene": "Après l’essai réussi sur le plan technique, Ruben annonce qu’il ne parlera pas au salon. Au lieu de conclure à une provocation, Claire l’écoute : il craint de se tromper devant les visiteurs. Au point de suivi, madame Arnaud explore cette inquiétude dans son contexte sans poser automatiquement un autre diagnostic.",
+      "development": "Ne pas masquer un besoin nouveau par l’étiquette connue. L’anxiété peut participer à un refus ; une inquiétude situationnelle ne définit pas un trouble anxieux. Trois appuis : demander ce qu’il anticipe ; transmettre au suivi si cela entrave sa participation ; choisir un rôle ajusté avec l’équipe. Aucun exercice d’exposition forcé ni promesse de disparition de la peur.",
+      "ending": "Ruben choisit de présenter un seul essai, avec Inès à côté, puis de lui passer la parole. Les parents et madame Vernier confirment cette organisation ; le carnet reste un aide-mémoire privé pour ses tâches.",
+      "next": "Le salon met ce choix à l’épreuve et permet de mesurer une participation concrète, pas une guérison.",
+      "source_refs": [
+        "oms-cddr",
+        "oms-cddr-ruben",
+        "nice-cg158-ruben"
+      ],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 12,
+      "focus": "Participer malgré une évolution irrégulière",
+      "scene": "Au salon, un visiteur interrompt Ruben. Il commence à discuter, regarde le carnet orange, puis revient à l’essai choisi avec un rappel discret de madame Vernier. Le robot ne suit pas parfaitement la ligne ; Ruben explique ce qu’ils veulent encore améliorer avant de passer la parole à Inès.",
+      "development": "Évolution hétérogène : une participation réussie n’efface ni les difficultés ni le besoin de suivi. Trois appuis : apprécier une action précise ; reconnaître les efforts des adultes et des pairs sans dette affective ; convenir du prochain point de soin. Pas d’annonce de guérison, de destin dissocial ou d’échec parce qu’une tension demeure.",
+      "ending": "Leur démonstration est faite. Inès garde son affiche, Ruben range le carnet et propose de revoir les roues la prochaine fois. Ses parents maintiennent le rendez-vous prévu ; il n’a pas à devenir toujours d’accord pour conserver sa place.",
+      "next": "La série s’achève sur le salon accompli ; la participation future et le suivi restent ouverts, sans treizième épisode ni nouveau diagnostic annoncé.",
+      "source_refs": [
+        "oms-cddr",
+        "oms-cddr-ruben",
+        "nice-cg158-ruben"
+      ],
+      "diagnostic_stage": "known"
+    }
+  ]
+}

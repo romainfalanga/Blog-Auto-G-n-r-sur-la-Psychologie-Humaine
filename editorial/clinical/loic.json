@@ -1,0 +1,116 @@
+{
+  "character_id": "loic",
+  "bio": "Loïc a 32 ans et travaille comme réparateur de machines agricoles. Sa pyromanie est diagnostiquée et suivie par une équipe spécialisée. Une préoccupation qui revient peut lui rendre difficile de rester disponible pour les tâches prévues. Il contribue à l’organisation d’une brocante et veut y tenir un rôle de réparateur pendant une journée de démonstration. Avec un proche désigné et plusieurs adultes qui se relaient, il révise son plan de prévention. Il tient à être utile, tout en prenant au sérieux les limites nécessaires à la sécurité des autres.",
+  "profile_topics": [
+    "Pyromanie",
+    "Préoccupations persistantes",
+    "Tension et contrôle",
+    "Prévention individualisée",
+    "Participation et relais"
+  ],
+  "episodes": [
+    {
+      "number": 1,
+      "slug": "loic-preoccupation-attention",
+      "title": "Pyromanie : une préoccupation qui prend la place de la tâche",
+      "description": "À la réunion de la brocante, Loïc perd le fil des créneaux. Il demande un relais et reprend contact avec son équipe de soins.",
+      "context": "À la réunion du comité de la brocante",
+      "topics": [
+        "Pyromanie",
+        "Préoccupation",
+        "Attention disponible"
+      ],
+      "clinical_focus": "Préoccupation et attention captée",
+      "diagnostic_stage": "known",
+      "clinical_intro": "Une préoccupation liée au feu peut prendre une place importante dans la pyromanie déjà diagnostiquée. Son retour peut réduire la disponibilité pour une activité ordinaire, sans qu’une pensée seule établisse un diagnostic ou prouve un acte. Signaler ce changement à l’équipe permet de reprendre les besoins de prévention propres à la personne.",
+      "opening": "La fiche de créneaux circule entre les membres du comité. Loïc a inscrit son prénom près de celui de Nadir, avec un point d’interrogation qu’il comptait effacer avant de partir. À trente-deux ans, il répare des machines agricoles et sait expliquer son métier sans remplir chaque phrase de termes techniques. La journée de démonstration de la brocante lui plaît pour cela : répondre à une question, montrer le résultat d’un travail, laisser un autre adulte prendre la suite.\n\nMaud demande qui peut confirmer sa présence. Loïc ne répond pas immédiatement. Une préoccupation familière liée au feu a repris de la place et il ne suit plus les échanges comme au début. Il retrouve la même ligne plusieurs fois sans comprendre ce qui vient d’être décidé. Ce n’est pas le manque d’intérêt pour la réunion. Il aurait justement aimé être assez disponible pour terminer la répartition.\n\nSa pyromanie est déjà suivie par une équipe spécialisée, avec un plan de prévention travaillé avant ce projet. Il ne souhaite pas en exposer le contenu au comité. « J’ai besoin de m’arrêter là. Quelqu’un peut reprendre la fiche ? » Maud se tourne vers Nadir. Loïc laisse le point d’interrogation à sa place et utilise ensuite le contact prévu avec l’équipe. Il décrit la difficulté revenue et ce qu’elle a changé dans la réunion.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Une pensée présente n’est pas une conclusion sur un acte",
+          "text": "Une préoccupation peut mobiliser l’attention au point de rendre une tâche moins accessible. Dans la pyromanie, son contenu s’inscrit dans une histoire clinique plus large, évaluée par des professionnels ; un intérêt ou une pensée isolée ne suffit pas à nommer ce trouble. Chez Loïc, le diagnostic est connu. Ce qui appelle un échange aujourd’hui est un changement de disponibilité, à examiner sans attendre de devoir en tirer seul une conclusion sur le risque."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment la préoccupation réduit-elle la place disponible pour la réunion ?",
+          "points": [
+            {
+              "heading": "Le fil de l’échange se perd",
+              "text": "L’attention revient à la préoccupation au lieu de rester sur la tâche.",
+              "examples": [
+                "Loïc relit la même ligne de créneaux.",
+                "Il ne sait plus quelle décision Maud vient de résumer."
+              ]
+            },
+            {
+              "heading": "Le projet reste pourtant désiré",
+              "text": "Une difficulté de disponibilité ne signifie pas un abandon du projet.",
+              "examples": [
+                "Loïc avait prévu de confirmer sa place près de Nadir.",
+                "Il tient toujours à expliquer son métier pendant la démonstration."
+              ]
+            },
+            {
+              "heading": "Une décision devient provisoire",
+              "text": "Reconnaître le changement peut conduire à différer un engagement.",
+              "examples": [
+                "Le point d’interrogation reste sur la fiche.",
+                "Loïc demande que quelqu’un reprenne la répartition pendant son retrait."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour signaler la difficulté et reprendre le cadre prévu",
+          "points": [
+            {
+              "heading": "Dire ce qui gêne la tâche",
+              "objective": "Rendre un besoin pratique compréhensible sans dévoiler tout le suivi.",
+              "exercise": [
+                "Nommer la tâche que l’on ne suit plus suffisamment.",
+                "Demander le retrait ou le relais prévu par l’organisation.",
+                "Laisser la confirmation de l’engagement ouverte jusqu’au point nécessaire."
+              ],
+              "benefit": "La demande peut permettre de passer la tâche sans improviser seul une évaluation clinique."
+            },
+            {
+              "heading": "Utiliser le plan déjà travaillé",
+              "objective": "Relier le changement aux interlocuteurs compétents.",
+              "exercise": [
+                "Reprendre les modalités de contact individualisées.",
+                "Décrire à l’équipe ce qui revient et son effet concret.",
+                "Suivre les indications reçues pour la suite, sans se tester ni attendre une difficulté plus grande."
+              ],
+              "benefit": "L’échange peut conduire à une appréciation adaptée ; une fiche de créneaux ne remplace pas le soin."
+            },
+            {
+              "heading": "Confirmer qui reprend",
+              "objective": "Éviter que le retrait laisse une responsabilité sans titulaire.",
+              "exercise": [
+                "Prévenir la personne qui coordonne la tâche.",
+                "Vérifier qu’un relais accepte réellement de la prendre.",
+                "Transmettre les seules informations pratiques nécessaires à cette passation."
+              ],
+              "benefit": "Le travail peut être réorganisé sans faire du collègue un surveillant ou un garant de sécurité individuelle."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Le point d’interrogation reste visible",
+      "ending": "Nadir accepte de reprendre provisoirement la fiche sous la coordination de Maud. Loïc convient d’un échange clinique avant de confirmer son créneau. Le comité sait que l’organisation reste ouverte ; il n’a reçu ni carnet de santé ni explication sur le contenu de la préoccupation. Loïc garde pour le rendez-vous un repère précis : le moment où il a cessé de suivre la conversation.",
+      "conclusion": "La préoccupation a eu un effet concret sur la participation de Loïc. Le signaler permet un relais et un contact avec le suivi, sans faire d’une pensée un diagnostic nouveau ou la preuve d’un acte. La décision de participer reste à reprendre.",
+      "mirror": [
+        "Maud peut répondre : « Nadir reprend la fiche ; nous laisserons ton créneau ouvert jusqu’à ton retour vers nous. » Elle n’a pas à demander le contenu du carnet clinique. Un proche peut soutenir le contact prévu sans devenir le seul recours. Si un danger immédiat apparaît, la protection et les secours adaptés priment sur l’attente d’un rendez-vous."
+      ],
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-hrb"
+      ],
+      "continuity": {
+        "choice": "Maud confie provisoirement la fiche à Nadir. Loïc convient d’un échange clinique avant de confirmer son créneau ; le comité sait seulement que l’organisation reste ouverte.",
+        "next": "La consultation partira du moment où Loïc a cessé de suivre la conversation."
+      }
+    }
+  ]
+}

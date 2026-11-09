@@ -1,0 +1,54 @@
+{
+  "references": {
+    "oms-cddr-hrb": {
+      "title": "OMS, CDDR 2024, ISBN 9789240077263, section 6C70, pages imprimées 520–523 ; original consulté au dépôt HRB",
+      "url": "https://www.drugsandalcohol.ie/41519/1/WHO_Clinical_descriptions_and_diagnostic_requirements_ICD-11.pdf"
+    },
+    "oms-mms-6c70": {
+      "title": "OMS, CIM-11 MMS 2026-01, 6C70 Pyromanie, lien canonique",
+      "url": "https://icd.who.int/browse/2026-01/mms/fr#1532500290"
+    },
+    "fip-mo-2018": {
+      "title": "Tyler, Gannon, Lockerbie et Ó Ciardha, 2018, évaluation FIP-MO, Clinical Psychology and Psychotherapy 25:388–400, DOI 10.1002/cpp.2172, résumé original",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29282790/"
+    },
+    "fipp-2015": {
+      "title": "Gannon et collaborateurs, 2015, essai non randomisé FIPP, Behaviour Research and Therapy 73:42–51, DOI 10.1016/j.brat.2015.07.007, résumé original",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26248329/"
+    },
+    "hra-fip-mo-longitudinal": {
+      "title": "Health Research Authority, A Longitudinal Evaluation of the FIP-MO Firesetting Intervention, résumé du protocole de recherche et limites des résultats initiaux",
+      "url": "https://www.hra.nhs.uk/planning-and-improving-research/application-summaries/research-summaries/a-longitudinal-evaluation-of-the-fip-mo-firesetting-intervention/"
+    }
+  },
+  "dossier": {
+    "name": "Pyromanie",
+    "aliases": [
+      "6C70",
+      "Pyromania"
+    ],
+    "references": [
+      "oms-cddr",
+      "oms-cddr-hrb",
+      "oms-mms-6c70",
+      "fip-mo-2018",
+      "fipp-2015",
+      "hra-fip-mo-longitudinal"
+    ],
+    "points": [
+      "Recherche individuelle du 9 novembre 2026 : page officielle OMS vérifiée (publication du 8 mars 2024, ISBN 9789240077263), PDF original conservé au dépôt HRB et pages imprimées 520–523 intégralement lues. Le lien MMS est canonique ; aucune extraction de son interface dynamique n’est revendiquée. Synthèses françaises de travail, pas traduction officielle des critères. Les résumés des deux études originales et le protocole institutionnel HRA ont été consultés ; leurs textes intégraux n’ont pas été évalués.",
+      "Diagnostic et manifestations, CDDR p.520 : difficulté récurrente de contrôle, préoccupation liée au feu, tension avant l’acte et soulagement ou gratification associé. La série ne reproduit ni critères complets ni scène de mise à feu ; Loïc parle sobrement de son histoire à l’équipe. L’attrait seul, une pensée seule ou un geste isolé ne permet pas de diagnostiquer. La pyromanie de Loïc est établie avant le premier épisode.",
+      "Frontières, CDDR pp.520–523 : un incendie volontaire n’est pas synonyme de pyromanie. Des mobiles instrumentaux, d’autres troubles ou une intoxication peuvent rendre une autre explication pertinente. Un diagnostic connu n’explique pas automatiquement tout comportement ultérieur ; l’évaluation appartient aux soignants. Ne pas transformer diagnostic en excuse, expertise judiciaire, culpabilité présumée ou preuve d’absence de responsabilité. Aucune histoire pénale n’est ajoutée au canon.",
+      "Temporalité, CDDR p.520 : les difficultés de contrôle peuvent s’inscrire dans une montée progressive ou survenir dans une situation non anticipée. Il est donc faux de réduire impulsion à un geste sans aucune préparation. La fiction ne décrit jamais préparation, objets, lieux vulnérables ni moyens ; elle montre uniquement l’annonce du besoin de retrait et le relais vers les soins.",
+      "Contexte affectif, CDDR p.520 : humeur négative, ennui ou solitude peuvent accompagner des actes chez certaines personnes ; ce lien peut éclairer la formulation clinique, sans être diagnostiquement déterminant. Chez Loïc, le sentiment d’être inutile lors d’un changement de tâche constitue une observation individuelle à discuter, pas une cause universelle. On distingue tension, préoccupation et solitude ; aucun traumatisme, déficit intellectuel ou trouble associé n’est inventé.",
+      "Soulagement et conséquences, CDDR p.520 : un soulagement immédiat rapporté dans l’histoire clinique n’efface ni dommage ni risque. Évoquer seulement ce décalage pendant une consultation, sans description sensorielle, euphorie ou souvenir séduisant. Le proche ne réconforte pas en minimisant ; il peut soutenir la démarche de soin et garder ses limites.",
+      "Évolution, CDDR p.521 : données longitudinales limitées et fluctuations des événements. Ne pas promettre une progression linéaire, un délai de guérison ou un risque nul après une période calme. Une réapparition de préoccupations n’est pas automatiquement un nouvel acte. La réévaluation et la prévention restent utiles même après la démonstration réussie.",
+      "Prise en charge, Tyler et al. 2018 : 63 patients d’hôpitaux psychiatriques médico-légaux ont commencé un programme cognitivo-comportemental spécialisé, comparé à des soins usuels dans d’autres établissements. Des améliorations psychométriques ont été observées chez les participants ayant terminé. Absence d’assignation aléatoire décrite, population sélectionnée, résultats à court terme : ce n’est ni un essai de pyromanie isolée ni une preuve de réduction des incendies ou de sécurité en milieu public.",
+      "Gannon et al. 2015 : essai non randomisé chez 54 détenus masculins orientés vers FIPP ; amélioration d’une des trois mesures principales, maintien rapporté à trois mois. Ne pas convertir ces scores en taux de guérison. La HRA décrit précisément la question encore ouverte du changement comportemental durable ; sa page est un protocole, pas un résultat. Ces sources justifient une prise en charge spécialisée individualisée, pas une prescription TCC universelle ni un exercice autonome d’exposition au feu.",
+      "Adaptations narratives : plan de prévention déjà élaboré, échanges avec l’équipe, tâches compatibles et adulte relais sont des décisions individualisées de la fiction. Les sources ne valident pas les horaires, signaux ou tâches de Loïc comme traitement. Aucune médication, posologie, exposition, test de résistance, manipulation de matériel dangereux ou promesse de confidentialité absolue. L’équipe précise les limites du partage en situation de risque ; le récit n’invente pas de règle juridique française.",
+      "Sécurité : en présence d’un danger immédiat, se mettre à distance, prévenir les responsables et les secours compétents ; le contact de soins ne remplace pas une réponse d’urgence. Aucun proche ne surveille seul, ne maîtrise physiquement la personne ni n’assure la sécurité de la brocante. Aucune urgence effective n’est nécessaire à l’intrigue. Si le rédacteur en introduit une, l’action de protection doit être montrée immédiatement, sans supposer que Loïc en est la cause.",
+      "Architecture des aspects : 1 préoccupation, 2 tension, 3 soulagement et dommages, 4 perte de contrôle et anticipation, 5 contexte affectif, 6 incertitude diagnostique des événements, 7 divulgation et alliance de soin, 8 retentissement sur les liens, 9 environnement et prévention, 10 évolution fluctuante, 11 limites des preuves thérapeutiques, 12 participation avec suivi. Les derniers sont retentissements, particularités d’évolution ou enjeux de prise en charge, pas de nouveaux critères. Chaque article suit le modèle : scène longue, explication autonome, trois manifestations avec deux exemples, trois appuis de trois étapes, reprise, conclusion et proches."
+    ]
+  },
+  "direction": "Loïc, 32 ans, réparateur de machines agricoles, parle avec précision et un humour sec : il aime que chaque boîte porte le bon nom, mais ne compare pas son trouble à une machine cassée. Il veut tenir le rôle de réparateur lors d’une journée de démonstration de la brocante où plusieurs adultes se relaient. Le diagnostic de pyromanie et un plan de prévention précèdent le récit. Sa sœur Elsa est le proche désigné, disponible à certains moments seulement ; Nadir, autre réparateur, assure les relais professionnels prévus sans devenir soignant. Maud coordonne le comité et la sécurité du lieu. La docteure Perrin appartient à l’équipe spécialisée ; aucun membre du comité ne reçoit le dossier médical. Loïc autorise un partage pratique limité, avec clarification des situations où la sécurité impose un relais. Une fiche de répartition des créneaux circule au comité ; le carnet clinique reste privé. Sur plusieurs semaines, Loïc renonce à prouver qu’il peut tout faire, demande une révision du plan puis accomplit un créneau adapté de réparation et transmet à Nadir. Aucune mise à feu ni approche séduisante du feu n’est représentée. La réussite finale est une participation concrète et un relais effectivement pris, pas une disparition du trouble ni une certification de sécurité. Il garde un projet ordinaire : remettre de l’ordre dans les notices de l’atelier après la brocante."
+}
