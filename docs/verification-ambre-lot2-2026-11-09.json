@@ -1,0 +1,74 @@
+{
+  "success": true,
+  "changed": [
+    "examples.mjs"
+  ],
+  "modules": 22,
+  "examples_sha256": "8a8147e38fd5dc76db020591a33253fbac0435d13f907fbb8cf9d733652b2b24",
+  "settingsUnchangedExceptAnnotations": true,
+  "deployment": {
+    "id": "45457c2f-32ca-458a-9dd2-461f5d7417fb",
+    "source": "api",
+    "strategy": "percentage",
+    "author_email": "romainfalanga83@gmail.com",
+    "annotations": {
+      "workers/message": "Automatic deployment on upload.",
+      "workers/triggered_by": "upload"
+    },
+    "versions": [
+      {
+        "version_id": "64c9b8d2-c3a2-40e8-9f5d-0eb3d5b9df84",
+        "percentage": 100
+      }
+    ],
+    "created_on": "2026-11-09T21:19:32.188618Z"
+  },
+  "before": {
+    "private-context.mjs": "457ed6fa989c101bc3d04e8aadb37fedf94eb222c2dc20c28b803529b238ce0c",
+    "psychology-framework.mjs": "d6f66414c94d9538d3ee2d56bf33555c95630632b65392b2377645b9b7d01715",
+    "worker.mjs": "a500fac1c5d9ddb67a4ce2628cbac50a2893adad21b78319812fc9b1dac736c5",
+    "entitlements.mjs": "0e47ccc52c745c9ae7ad745ccc6544a94d5ca94becf6665f63c98646fc9da954",
+    "people-observations.mjs": "416f8cdf098dc49961a5a4fab644459e499017e9760d5c151e79833349f1313f",
+    "portrait-refresh.mjs": "318b9e04da1db40a4c47cf28977ac71ef12aea730404074005bb06fe7f41f573",
+    "psychology-guide.mjs": "aca89add8bedebc461847090c879f4438d08f799271f2e4a173d52ca212978c7",
+    "voice-input.mjs": "9200cbdffbc02b2a9498c359aeaecab85e8eea309d73cbcd61ca2dd31a167043",
+    "chat-backend.mjs": "9653a13459c946ab158cf9d431285fbde43f5242c59ddb823012dbb32f1d579f",
+    "examples.mjs": "559f035ca8428ab98ad2ec130a3eb45347fb10234ab0841a08aceb72070a9fbc",
+    "reading-intent.mjs": "249b72b7793da4af53311c0b15c74149c01ff361c10c14f0f65ebf2baaa2ba94",
+    "ui.mjs": "0ea7b759d1e24ad86161bd89c890d95df07994fbf427bf46efaff48bd971869c",
+    "workspace-style.mjs": "158fcbbd609b384e6d98bd14142fcb72a9f6e557046f109fff0912eb1bc67e0a",
+    "chat-interface.mjs": "b99fe8c05fa9eacec0c5828f2cbe09352d4ff756530bb58ed3e0f2d750096f67",
+    "navigation.generated.mjs": "f9d96bd8e03cd7471ce006f54b7685e03fc398ea2e38f96e39ba9f531f65341a",
+    "people-observations-ui.mjs": "635d276daa3cee6f904e567f519926ce7811f896ea3f6862cb9faab4f2d25730",
+    "psychology-catalog.generated.mjs": "33c558777c07d503d212a87e468c11dc3e7eb63d959ac52030f7a7f98576811b",
+    "psychology-map.mjs": "1a93dc85483aff3ecd09e5b95d0444fa3734a8c80b49c6041391c70ff4210eb8",
+    "recommendations-baseline.mjs": "ca4dae9d85c05689255840608f6598b57c7a940f0c456d825fc1b123d6e721a1",
+    "recommendations.mjs": "6b53afb5fd516f0978918f7e1eae6c75d9b86e14467155bf345a59bbd6cccf56",
+    "personal-backend.mjs": "495b782cc50ca8dce2f16e18a1bc7db24d5ce110694aed58badc7e6d85748b84",
+    "portrait-language.mjs": "d9f2f86a9c93d77f2d3c7fb8cd41943bcf4b8f6228f5abb0d5ee79ded9e24aae"
+  },
+  "after": {
+    "psychology-catalog.generated.mjs": "33c558777c07d503d212a87e468c11dc3e7eb63d959ac52030f7a7f98576811b",
+    "psychology-guide.mjs": "aca89add8bedebc461847090c879f4438d08f799271f2e4a173d52ca212978c7",
+    "chat-backend.mjs": "9653a13459c946ab158cf9d431285fbde43f5242c59ddb823012dbb32f1d579f",
+    "entitlements.mjs": "0e47ccc52c745c9ae7ad745ccc6544a94d5ca94becf6665f63c98646fc9da954",
+    "navigation.generated.mjs": "f9d96bd8e03cd7471ce006f54b7685e03fc398ea2e38f96e39ba9f531f65341a",
+    "people-observations-ui.mjs": "635d276daa3cee6f904e567f519926ce7811f896ea3f6862cb9faab4f2d25730",
+    "people-observations.mjs": "416f8cdf098dc49961a5a4fab644459e499017e9760d5c151e79833349f1313f",
+    "private-context.mjs": "457ed6fa989c101bc3d04e8aadb37fedf94eb222c2dc20c28b803529b238ce0c",
+    "examples.mjs": "8a8147e38fd5dc76db020591a33253fbac0435d13f907fbb8cf9d733652b2b24",
+    "portrait-language.mjs": "d9f2f86a9c93d77f2d3c7fb8cd41943bcf4b8f6228f5abb0d5ee79ded9e24aae",
+    "psychology-framework.mjs": "d6f66414c94d9538d3ee2d56bf33555c95630632b65392b2377645b9b7d01715",
+    "psychology-map.mjs": "1a93dc85483aff3ecd09e5b95d0444fa3734a8c80b49c6041391c70ff4210eb8",
+    "recommendations-baseline.mjs": "ca4dae9d85c05689255840608f6598b57c7a940f0c456d825fc1b123d6e721a1",
+    "ui.mjs": "0ea7b759d1e24ad86161bd89c890d95df07994fbf427bf46efaff48bd971869c",
+    "voice-input.mjs": "9200cbdffbc02b2a9498c359aeaecab85e8eea309d73cbcd61ca2dd31a167043",
+    "worker.mjs": "a500fac1c5d9ddb67a4ce2628cbac50a2893adad21b78319812fc9b1dac736c5",
+    "chat-interface.mjs": "b99fe8c05fa9eacec0c5828f2cbe09352d4ff756530bb58ed3e0f2d750096f67",
+    "personal-backend.mjs": "495b782cc50ca8dce2f16e18a1bc7db24d5ce110694aed58badc7e6d85748b84",
+    "reading-intent.mjs": "249b72b7793da4af53311c0b15c74149c01ff361c10c14f0f65ebf2baaa2ba94",
+    "recommendations.mjs": "6b53afb5fd516f0978918f7e1eae6c75d9b86e14467155bf345a59bbd6cccf56",
+    "portrait-refresh.mjs": "318b9e04da1db40a4c47cf28977ac71ef12aea730404074005bb06fe7f41f573",
+    "workspace-style.mjs": "158fcbbd609b384e6d98bd14142fcb72a9f6e557046f109fff0912eb1bc67e0a"
+  }
+}

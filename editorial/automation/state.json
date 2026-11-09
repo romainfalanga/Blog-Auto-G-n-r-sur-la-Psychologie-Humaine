@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "revision": 548,
+  "revision": 556,
   "created_at": "2026-11-07T14:47:42Z",
   "cases": {
     "mathis": {
@@ -4104,7 +4104,7 @@
     "loic": {
       "character_id": "loic",
       "code": "6C70",
-      "stage": "ready_to_publish",
+      "stage": "published",
       "created_at": "2026-11-07T14:47:42Z",
       "active_job": null,
       "owners": {
@@ -4173,12 +4173,42 @@
         "design_sha256": null,
         "dossier_sha256": null,
         "review_sha256": null
+      },
+      "publication": {
+        "verified_at": "2026-11-09T21:20:39Z",
+        "release": {
+          "date": "2026-11-09",
+          "status": "editorially_reviewed",
+          "article_format": 2,
+          "sha256": "6e0f65f10741e85f52e4fef02ad649dddd381bba59c809a7b9821907932bfc35",
+          "dossier_sha256": "204234d5c05bfd8d6babd57cb3268a5ca66601bbd3c8dd9581d7edb6d688bf6e",
+          "design_sha256": "3b074410db137eaf4a01a5225169fad17849f44417106f66cf7500ee17120a1b",
+          "independent_review_sha256": "1fd8d8f54596caa41b138d118db1145de65b9ade24d7845c32bf5ec7ddf53f03",
+          "review": "Douze épisodes relus indépendamment par review_loic ; sources et limites des études médico-légales, responsabilité, sécurité, continuité et proches vérifiés. Rapport accepté sans correction ouverte."
+        },
+        "files": {
+          "content/posts/comprendre-et-maitriser-ses-emotions/loic-preoccupation-attention.md": "a4d8e24e002845e792b835f46daa57de2bf544fc63066891bf8dc93c7d7781d6",
+          "content/posts/comprendre-et-maitriser-ses-emotions/loic-montee-de-tension.md": "534c891cfb359953fd8af674a93e23f10a57ac0974a8dfe7e468064b24c23653",
+          "content/posts/comprendre-et-maitriser-ses-emotions/loic-soulagement-consequences.md": "85bb7b546fe820ebffac50e2e8ae4ac8f2cfcc5ca4e2a177354af98e2f0ed3e4",
+          "content/posts/comprendre-et-maitriser-ses-emotions/loic-anticipation-et-controle.md": "ce133bfb246ce4304af027b957648db012861f526175933181ba1d2c51398f38",
+          "content/posts/comprendre-et-maitriser-ses-emotions/loic-solitude-contexte-affectif.md": "b7993896f6da5790a3ae10d81cddef0fb2305d7d317ddfc199d8de57379c5e85",
+          "content/posts/comprendre-et-maitriser-ses-emotions/loic-diagnostic-et-incendie.md": "7d088be51262a8629e1bc2021798f2f7a9cedf4f37ee7421cbc9db9237cc97b3",
+          "content/posts/comprendre-et-maitriser-ses-emotions/loic-partage-limite-et-soin.md": "0528597a55b196dcc81b0e05e917e6b6843b327313e85411ec539b8a79302333",
+          "content/posts/comprendre-et-maitriser-ses-emotions/loic-confiance-limites-proches.md": "ec0444b0f949d430a9fc9be03005979612acf40d9b4344a542b64764e81eaf1b",
+          "content/posts/comprendre-et-maitriser-ses-emotions/loic-prevention-contexte.md": "7c15d96864e9fd8afcb1261c4eb86c595fb1bd5e545151fe5313b07b53e4cee1",
+          "content/posts/comprendre-et-maitriser-ses-emotions/loic-fluctuation-reevaluation.md": "7f97ac35f7e5b72d22a6d81a0299307bf79d11a8fe858e257b29df224c1357f8",
+          "content/posts/comprendre-et-maitriser-ses-emotions/loic-soins-preuves-limitees.md": "58aacc167c89f09000060eaedb3f87bf4a72fd981e5d07995ce1f0fb0b87d25d",
+          "content/posts/comprendre-et-maitriser-ses-emotions/loic-participation-suivi-maintenu.md": "21e205ea6bbd071ffe86322f956bb702fb3584c9950bf27649ff8d9581525e4e",
+          "content/personnages/loic.md": "f84e6bfba10ee15f742362e03d7804162e73e95bf98041edca58a33d840887d4",
+          "data/article_mirrors/loic.json": "9e762db177dd67e678416522b566ed8dca6bdddf9284ac1e5b131ba90cadf2ea"
+        },
+        "topics_sha256": "9f6ea7501f02ef76707e82bbece96af57fa4dfe7aaf04495b915262b38b1a10c"
       }
     },
     "irma": {
       "character_id": "irma",
       "code": "6C71",
-      "stage": "ready_to_publish",
+      "stage": "published",
       "created_at": "2026-11-07T14:47:42Z",
       "active_job": null,
       "owners": {
@@ -4307,7 +4337,37 @@
             }
           }
         }
-      ]
+      ],
+      "publication": {
+        "verified_at": "2026-11-09T21:20:39Z",
+        "release": {
+          "date": "2026-11-09",
+          "status": "editorially_reviewed",
+          "article_format": 2,
+          "sha256": "3bc96a2c0058c6d7a0804e406f841cf03824882e64c9f59219b36c165c4a1220",
+          "dossier_sha256": "8627d9646713148f03ae681e0db91c5603045e5e542c0a47622f7fe7e2e1a6b4",
+          "design_sha256": "0c03eb655dc681972b67afdafefea45ceb65702106064040cdad55f94e5dd4e3",
+          "independent_review_sha256": "b15e5e52875ce911b4b5fb3884977bb2308c2ffe62e93adb3d871a1b2608a4ab",
+          "review": "Douze épisodes relus indépendamment par review_irma. Localisateur NICE corrigé dans le dossier, puis validations personnage et rédaction renouvelées et relecture finale acceptée. Plan/manuscrit conservés ; sources, limites des essais, continuité et proches vérifiés."
+        },
+        "files": {
+          "content/posts/comprendre-et-maitriser-ses-emotions/irma-tension-et-courriel.md": "2e6d10835c51f70358140c0662bdfd026f2dedacc0d51bfce0cf0fb23b2a3ed0",
+          "content/posts/comprendre-et-maitriser-ses-emotions/irma-besoin-et-impulsion.md": "d2dd5d3ebf5842292c6546396ba2102edfe4ac36e9ec6d4b7b61a6bc5c1953e5",
+          "content/posts/comprendre-et-maitriser-ses-emotions/irma-soulagement-bref.md": "93d0191c20b96b03a293cd4a3c3769eb62758f4f2ed39330dad540f48050e7cb",
+          "content/posts/comprendre-et-maitriser-ses-emotions/irma-honte-et-place.md": "327abdb04c9f31a7772a26d08472dcabd09b824eab83f795810d53d3296dcbf3",
+          "content/posts/comprendre-et-maitriser-ses-emotions/irma-contexte-et-solitude.md": "94d85b9e493a42613c87ab154d25dafd91d10d2d23eec999d12d1856e24b1b17",
+          "content/posts/comprendre-et-maitriser-ses-emotions/irma-signaux-peu-perceptibles.md": "166ac1543a470256d3c17ef8015fc3994ac37d35923ebb0f1a107038307aff9d",
+          "content/posts/comprendre-et-maitriser-ses-emotions/irma-parole-et-confidentialite.md": "1b1b1c3053a6fd112a134ff5a2a0866a7846e795e407944ac7f2abcac8ff964b",
+          "content/posts/comprendre-et-maitriser-ses-emotions/irma-soin-et-incertitudes.md": "26e6651b57a6709c45e9fd2fd3d16bb821e4bdbc22d18e18dc0ae011c038d188",
+          "content/posts/comprendre-et-maitriser-ses-emotions/irma-confiance-et-consequences.md": "27aa47d924c797ad781bcdba64f27ea0330010f25ce29acbd4703eaa89df70da",
+          "content/posts/comprendre-et-maitriser-ses-emotions/irma-sommeil-et-inquietude.md": "09e0719ffd311df932445a3f59184eb8bbfae42884446d0243542b00f503c48c",
+          "content/posts/comprendre-et-maitriser-ses-emotions/irma-retour-apres-accalmie.md": "ff5a9d649059da688d65a2807fb5d1ab15535dc8fcda3c6302ff6a78408ea668",
+          "content/posts/comprendre-et-maitriser-ses-emotions/irma-premiere-classe.md": "1ba346ba366f1158777d79311181f24b502168cc55cf4c7cf60feeafd19083f5",
+          "content/personnages/irma.md": "1a1f50ffa765b0bc0fe8dc81a342472df3647f07b8d68ee755ecb505c7ad5e06",
+          "data/article_mirrors/irma.json": "4849704ce8215b50f87e5f717165f16325f29eea3bba1e4a867814bedcfce7b5"
+        },
+        "topics_sha256": "b4d82a4e5795253e656dbd1e0642306033b751247dd055dc0525725b77ef6480"
+      }
     },
     "olivier": {
       "character_id": "olivier",
@@ -4412,7 +4472,7 @@
     "ruben": {
       "character_id": "ruben",
       "code": "6C90",
-      "stage": "ready_to_publish",
+      "stage": "published",
       "created_at": "2026-11-07T14:47:42Z",
       "active_job": null,
       "owners": {
@@ -4481,12 +4541,42 @@
         "design_sha256": null,
         "dossier_sha256": null,
         "review_sha256": null
+      },
+      "publication": {
+        "verified_at": "2026-11-09T21:20:40Z",
+        "release": {
+          "date": "2026-11-09",
+          "status": "editorially_reviewed",
+          "article_format": 2,
+          "sha256": "212ce1fe1cc7467e6307cebfc18aa9e5a6a326036b2f5b6badf3692f7686c9c1",
+          "dossier_sha256": "685683512d72eeefe40792b7079e4fee987f4befa5f5aed54b87c4f76fa6958c",
+          "design_sha256": "8f9c9dfafaf4bf24acad54d95f7076a0da610a22960effabb421403199a3e3e0",
+          "independent_review_sha256": "4a5e9e1d73fd3d09e27c153879b15960318ad415ac7a05162424097db6e30152",
+          "review": "Douze épisodes relus intégralement par review_ruben ; sources OMS/NICE, indications adaptées à 12 ans, distinction désaccord ordinaire et trouble, continuité et proches vérifiés. Rapport indépendant accepté sans correction ouverte."
+        },
+        "files": {
+          "content/posts/comprendre-et-maitriser-ses-emotions/ruben-contester-et-perdre-son-tour.md": "d36d1b091ac015cb71516a57ee5e4f42b0b7f1af6d7536cc261ccd522fa35288",
+          "content/posts/comprendre-et-maitriser-ses-emotions/ruben-demandes-evitees-maison.md": "7ef43b6a0742b263c7bbe5479757f7b293ce387ff77fce625bf1c543ec0ddea1",
+          "content/posts/comprendre-et-maitriser-ses-emotions/ruben-remarque-irritation.md": "b323c7e2ea000f5bf8874555923926d9dde392896bf4238a433abde270e71f3d",
+          "content/posts/comprendre-et-maitriser-ses-emotions/ruben-erreur-et-responsabilite.md": "efe83d54439a50b39af8f7519c5ef34a681d9fa3db97d4c8f4b449377a8bbd11",
+          "content/posts/comprendre-et-maitriser-ses-emotions/ruben-provocation-et-camarades.md": "caee0301491458fbe76294c67d467b2fab2eaa7db6a500af60e1816f3281396e",
+          "content/posts/comprendre-et-maitriser-ses-emotions/ruben-refus-et-incomprehension.md": "0b22b01dd2b266d4ab1bfd8a8e238652f47fe7fffcbcf938adbd1ff1528741b0",
+          "content/posts/comprendre-et-maitriser-ses-emotions/ruben-ressentiment-apres-dispute.md": "92472288a0a11819e8380442d52860205d2433bb7456f38265f6fb3599a48dc5",
+          "content/posts/comprendre-et-maitriser-ses-emotions/ruben-soutien-parents-sans-blame.md": "e0b6393b1186925f1e695021ffc874adb5bc58c4a47a8686fde5eed1fe94f769",
+          "content/posts/comprendre-et-maitriser-ses-emotions/ruben-plusieurs-solutions.md": "67210e31d8c8c46dcdae30bc1421db3e6a25ac043d8d402248a185bad9f9d1d9",
+          "content/posts/comprendre-et-maitriser-ses-emotions/ruben-reparer-retard-groupe.md": "831d189a311c46ca7bd9acdcf78d0a30be08fdc0014ee094adf943bf9700a43b",
+          "content/posts/comprendre-et-maitriser-ses-emotions/ruben-inquietude-avant-salon.md": "e417f00b8baaec80c5a6a34f0734c0b10fc2d492de2bc89779e0e7a16cd1648f",
+          "content/posts/comprendre-et-maitriser-ses-emotions/ruben-participation-evolution.md": "781bae5985ac4fe46ec75535297c8476ab87114c936b5de3013416c5c321019a",
+          "content/personnages/ruben.md": "00c464b8ff6f760db4300a8d4da819ca9f762d09435b4e4a532bfe6c3bf63ff5",
+          "data/article_mirrors/ruben.json": "a6bf3ebe6bc797abcd7421e271f5a0789902a82b68b210bb409d1d52851c03ec"
+        },
+        "topics_sha256": "d311bc02e50874d2daa830dcb03f480646314a89d1430c63b1f99ad4f7ab4494"
       }
     },
     "malou": {
       "character_id": "malou",
       "code": "6C91",
-      "stage": "ready_to_publish",
+      "stage": "published",
       "created_at": "2026-11-07T14:47:42Z",
       "active_job": null,
       "owners": {
@@ -4555,6 +4645,36 @@
         "design_sha256": null,
         "dossier_sha256": null,
         "review_sha256": null
+      },
+      "publication": {
+        "verified_at": "2026-11-09T21:20:41Z",
+        "release": {
+          "date": "2026-11-09",
+          "status": "editorially_reviewed",
+          "article_format": 2,
+          "sha256": "b5b12afae90e3d4c9fa2762f33fb36a93523f3105ac121209710698f0ba25628",
+          "dossier_sha256": "f9f949b2b80d6d0192b9a4bca5bcaaeb7e6a7ccea23ecedbca34ea656d19c1b5",
+          "design_sha256": "ced468138dc732e25e0f95a4b4af3eeafd036b660b0d567117f74c24f776cde0",
+          "independent_review_sha256": "1999b5b9b092461f80e5194f6664882c66c2c25bcc389e19b5da85d467c2df15",
+          "review": "Douze épisodes relus intégralement par review_malou, avec vérification OMS/NICE et des limites liées à l’âge. Rapport indépendant accepté ; continuité, sécurité, choix des acteurs et conseils aux proches vérifiés. Publication après validation du lot."
+        },
+        "files": {
+          "content/posts/comprendre-et-maitriser-ses-emotions/malou-choix-des-acteurs.md": "103d1603a4c874cc8fcab8906133a2ca2199211d47406d14496df58cbc0991f4",
+          "content/posts/comprendre-et-maitriser-ses-emotions/malou-consequences-et-intention.md": "9ad46e86c4898403a65ca51a25af15976adc6e912a80a33cdfe6d02d94585ff2",
+          "content/posts/comprendre-et-maitriser-ses-emotions/malou-intentions-supposees.md": "5020e1962ea92fae3bed7cb273eaf211099505366e4e11c2becd48fe606b2a62",
+          "content/posts/comprendre-et-maitriser-ses-emotions/malou-soutien-et-pression-des-pairs.md": "de494560310bf88598ed42cf5f214b597fc57d812a393b76dc9be8b4cde654b5",
+          "content/posts/comprendre-et-maitriser-ses-emotions/malou-interrompre-escalade.md": "ce1a5b96cc1d2724f7e177b576694d6b4189ee379d13d0605e4bd61cbee02a63",
+          "content/posts/comprendre-et-maitriser-ses-emotions/malou-mefiance-envers-soin.md": "a7452cb5d4c4f6b1708c5ad7ad90c21cb99fffd107b75d85f633de4bfc5d4d24",
+          "content/posts/comprendre-et-maitriser-ses-emotions/malou-famille-et-epuisement.md": "db6832023a3c27db2af14245aaf779ff25568e27a476389e11f029b68a046db4",
+          "content/posts/comprendre-et-maitriser-ses-emotions/malou-coordonner-les-attentes.md": "edacd7b2e89bfbf5a4dfea8c978aff56881cf054206a4e007222ec811eeb6854",
+          "content/posts/comprendre-et-maitriser-ses-emotions/malou-confiance-et-temps.md": "a60ef3c252fa73d17c88b506062fb22ada75bbbf4362ddd2cd1079f8e1dd79d4",
+          "content/posts/comprendre-et-maitriser-ses-emotions/malou-reparation-sans-pardon.md": "553a2870c7b9cf239a51c93a6c459e53b03d07e140caa0a5d87f7161e3764dc3",
+          "content/posts/comprendre-et-maitriser-ses-emotions/malou-reprise-et-limites.md": "d4c81ed34fa9804769824bda7f8934b3bd8ad74fa74b197213faeda9d62de42e",
+          "content/posts/comprendre-et-maitriser-ses-emotions/malou-film-termine-suivi-poursuivi.md": "062514cb1162eb03d47709fcd0118742791d306c39627d3bd60bd752c787916e",
+          "content/personnages/malou.md": "f250639d6411f30f3587a88a9ca4324db6aa5dbf97011f9bc580909457c62337",
+          "data/article_mirrors/malou.json": "4d09097b091173797145419b6cd266c3df17e04cfe06adcbdb9ff56432f4888e"
+        },
+        "topics_sha256": "58cf31a0fb2926df973b17924cd7737d20550eb971fe27dcaac585388acd88b9"
       }
     },
     "ronan": {
@@ -72249,5 +72369,5 @@
       }
     }
   },
-  "updated_at": "2026-11-09T21:13:59Z"
+  "updated_at": "2026-11-09T21:20:41Z"
 }
