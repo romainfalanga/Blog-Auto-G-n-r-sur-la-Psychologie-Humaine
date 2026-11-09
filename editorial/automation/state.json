@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "revision": 325,
+  "revision": 329,
   "created_at": "2026-11-07T14:47:42Z",
   "cases": {
     "mathis": {
@@ -3512,7 +3512,7 @@
     "titouan": {
       "character_id": "titouan",
       "code": "6C00",
-      "stage": "ready_to_publish",
+      "stage": "published",
       "created_at": "2026-11-07T14:47:42Z",
       "active_job": null,
       "owners": {
@@ -3581,12 +3581,42 @@
         "design_sha256": null,
         "dossier_sha256": null,
         "review_sha256": null
+      },
+      "publication": {
+        "verified_at": "2026-11-09T19:13:45Z",
+        "release": {
+          "date": "2026-11-09",
+          "status": "editorially_reviewed",
+          "article_format": 2,
+          "sha256": "33c15ca791fecf1c839f390bf2da799edaefd83fb6d0fb7a3f7801a7236a54c7",
+          "dossier_sha256": "8aa80bf3131e67fe7f4aad85eacbc1cbab29a370b6d46418dc5ee7712bb1a37d",
+          "design_sha256": "47816ac75dcf39d5ce8ae94e292e5a52a73793ec4b2701b7b1a861b5576e7c1e",
+          "independent_review_sha256": "a83a3fdb219bc671a7374bfec4ba1eb6182a08e41106145ffa772ea50dc3a1e9",
+          "review": "Douze épisodes relus indépendamment ; raccord temporel épisode 11 corrigé puis revalidé, confidentialité enfant, aide adulte et nuit à la médiathèque vérifiées. Aucune correction ouverte."
+        },
+        "files": {
+          "content/posts/comprendre-et-maitriser-ses-emotions/titouan-accident-sans-faute.md": "120b31a19f19a71deb8fc7a5f9e3a9b46f58a0388235e912f363d4349eb8691c",
+          "content/posts/comprendre-et-maitriser-ses-emotions/titouan-eveil-ne-se-commande-pas.md": "7df6b42b91a5c16548ef72fa78662d867551a66f0989e3a3eaf8991ae9a4aca8",
+          "content/posts/comprendre-et-maitriser-ses-emotions/titouan-bilan-journee.md": "14bfda31a67957271b33a71d506a8ea5cf6532ea715358ae5d8f9ba8bcd368d8",
+          "content/posts/comprendre-et-maitriser-ses-emotions/titouan-transit-evaluation.md": "f824b147d53a1e50f57db594366b26341ed3018b763ddd54a2072c7f7a50ab6a",
+          "content/posts/comprendre-et-maitriser-ses-emotions/titouan-eau-toilettes-accessibles.md": "0253a17e64ac4764297db40863ec02e0b6314bb2bcc4169d00958aa343edee1a",
+          "content/posts/comprendre-et-maitriser-ses-emotions/titouan-observer-sans-note.md": "d42695dd3383898d9365174a8eb1553765a30bc7d49d83bc3fa488841d39076d",
+          "content/posts/comprendre-et-maitriser-ses-emotions/titouan-soin-projet-nuit.md": "6634c2a8cd5778986d2d90d021968928de89567f6d377a847578e315da64cbc8",
+          "content/posts/comprendre-et-maitriser-ses-emotions/titouan-fatigue-familiale.md": "c21677626d74fde7087e539a54544390edf916b0efc9ba8f228fefe8278a416d",
+          "content/posts/comprendre-et-maitriser-ses-emotions/titouan-confidentialite-participation.md": "1bcbf96baafc08972b1964b22dd5fe7fe50b2bb19e9104cd292515263e31492b",
+          "content/posts/comprendre-et-maitriser-ses-emotions/titouan-variation-nuits.md": "fea649393822bf983ec9bf92e7a5feae485043f4b21aec51971180657fd8c334",
+          "content/posts/comprendre-et-maitriser-ses-emotions/titouan-accident-aide-discrete.md": "7c1e0b713d27c98f513407084c0cb52b3bc40bd6979579932636f5b7839c4a35",
+          "content/posts/comprendre-et-maitriser-ses-emotions/titouan-participer-sans-guerison.md": "76cbb594972f5a777469aceed4d30756061ef3bf97c2e34989276b0a2f1bedad",
+          "content/personnages/titouan.md": "a8608653fe7938cfb9199ccf58516f490d8674bcc2f657a9a9426d016f1459ac",
+          "data/article_mirrors/titouan.json": "e65af9902a7e4b39ac53b6d1d5c248127f0657b51e957aec5968a14c174a3785"
+        },
+        "topics_sha256": "5f71c578b505f611a9f0f8aa3e286023083449e9ffcb6e226ff837f29267047f"
       }
     },
     "felix": {
       "character_id": "felix",
       "code": "6C01",
-      "stage": "ready_to_publish",
+      "stage": "published",
       "created_at": "2026-11-07T14:47:42Z",
       "active_job": null,
       "owners": {
@@ -3655,6 +3685,36 @@
         "design_sha256": null,
         "dossier_sha256": null,
         "review_sha256": null
+      },
+      "publication": {
+        "verified_at": "2026-11-09T19:13:46Z",
+        "release": {
+          "date": "2026-11-09",
+          "status": "editorially_reviewed",
+          "article_format": 2,
+          "sha256": "4d2d6a0c459d6b53480324c2d80105e2446a0eab3b4546c5f86d70afa9048a1b",
+          "dossier_sha256": "4cf04d01aa8608950159bb24ffb4b363fe3de5cbe9a2392681240db3163ec513",
+          "design_sha256": "dd7fd709767aa366b0e4eb81c4e1613ee63719aa8a1326bbd566677fa2403d70",
+          "independent_review_sha256": "b4d5b274626d04129a4a720a6ad63c4de4d69fbc2029edc212cbcebb3322accf",
+          "review": "Douze épisodes relus indépendamment, symptômes et suivi professionnel, confidentialité, responsabilité adulte et continuité carte–Noé–portail–pont vérifiés. Aucune correction ouverte."
+        },
+        "files": {
+          "content/posts/comprendre-et-maitriser-ses-emotions/felix-fuite-percue-trop-tard.md": "b58f95be1a50ba477132b74d4bf8f02c9f5f81e1b70936a5c84812cafe141982",
+          "content/posts/comprendre-et-maitriser-ses-emotions/felix-douleur-retenue.md": "fb42c646ee35055a721bd8229a3567abe4b34f26c0129c6e95c214fa502473c3",
+          "content/posts/comprendre-et-maitriser-ses-emotions/felix-comprendre-debordement.md": "daac7631002444b7843047ef2fcfdf7782c07e0a1f7abc64062b47031e11cb55",
+          "content/posts/comprendre-et-maitriser-ses-emotions/felix-diagnostic-bilan.md": "1dbfcdb6b62a05a070d13b96d2f3c7136821ced4ae2bacec4ba551372f2ac2d9",
+          "content/posts/comprendre-et-maitriser-ses-emotions/felix-acces-toilettes.md": "a3956a5c0eb132ba0369b86b966e3f1e5afba8048e2b2610888bb64e20dee5d0",
+          "content/posts/comprendre-et-maitriser-ses-emotions/felix-honte-parmi-autres.md": "375d8bf52185b22827dd09e6e01f1a08aecf45aefe9aa49e9e4becf06639411c",
+          "content/posts/comprendre-et-maitriser-ses-emotions/felix-accident-reproche.md": "01716c6d2b90c0bcf56a88061b315469671a01122da30561828e0d9db082ab09",
+          "content/posts/comprendre-et-maitriser-ses-emotions/felix-soins-sans-epreuve.md": "390894c40e87f5c39165f807c383764c66e3aa9817d1a6501c325d77684c7540",
+          "content/posts/comprendre-et-maitriser-ses-emotions/felix-fatigue-parentale-relais.md": "d7c2b63f33c40f39e12f1430d414c6f1ffe33ac1a9e4a2852426633ca19eb7ba",
+          "content/posts/comprendre-et-maitriser-ses-emotions/felix-fluctuations-suivi.md": "b8e66a80cde8a239d61f121e665abb57ea260ca90edc8c946144e47ad21d5ddf",
+          "content/posts/comprendre-et-maitriser-ses-emotions/felix-peur-accident-renoncer.md": "f6b79a187de51d6e3288c2795de7c52fa70c24edc9d623e337b1c2ed540fa6ce",
+          "content/posts/comprendre-et-maitriser-ses-emotions/felix-participer-sans-preuve.md": "326bea03a6fc9355a427ebd2ad007ee2457a85051b96b9234b7371b53e3c0927",
+          "content/personnages/felix.md": "f6d00043c7299e0d9339852bf7c50f5b043b1c3a1e915387ef7433ee59829a90",
+          "data/article_mirrors/felix.json": "136590a701f269d30861cc8a38caf4541925f82a29644b96c9f45999e00031c7"
+        },
+        "topics_sha256": "9e917a44dfb0234e257f1c091d6326fd912de32793ec7f782deb0dc66d33e16a"
       }
     },
     "laure": {
@@ -40158,5 +40218,5 @@
       }
     }
   },
-  "updated_at": "2026-11-09T19:08:59Z"
+  "updated_at": "2026-11-09T19:13:46Z"
 }
