@@ -1,0 +1,52 @@
+{
+  "references": {
+    "oms-mms-6b62": {
+      "title": "OMS, CIM-11 MMS 2026-01, 6B62 État de transe ; lien canonique français",
+      "url": "https://icd.who.int/browse/2026-01/mms/fr#1807490186"
+    },
+    "oms-cddr-hrb": {
+      "title": "OMS CDDR 2024, ISBN 9789240077263, original au dépôt HRB ; pages imprimées 377–382",
+      "url": "https://www.drugsandalcohol.ie/41519/1/WHO_Clinical_descriptions_and_diagnostic_requirements_ICD-11.pdf"
+    },
+    "nice-cg109": {
+      "title": "NICE CG109, Transient loss of consciousness in over 16s, recommandations 1.1.1 et 1.1.2 ; actualisation 2023",
+      "url": "https://www.nice.org.uk/guidance/cg109/chapter/Recommendations"
+    },
+    "nice-ng217": {
+      "title": "NICE NG217, Diagnosis and assessment of epilepsy, recommandations 1.2.5–1.2.10, notamment limite de l’EEG 1.2.6",
+      "url": "https://www.nice.org.uk/guidance/ng217/chapter/1-Diagnosis-and-assessment-of-epilepsy"
+    },
+    "nice-cg138": {
+      "title": "NICE CG138, Patient experience in adult NHS services, recommandations 1.1.4, 1.3.1, 1.5.4–1.5.14",
+      "url": "https://www.nice.org.uk/guidance/CG138/chapter/recommendations"
+    }
+  },
+  "dossier": {
+    "name": "État de transe",
+    "aliases": [
+      "6B62",
+      "Trance disorder"
+    ],
+    "references": [
+      "oms-cddr",
+      "oms-mms-6b62",
+      "oms-cddr-hrb",
+      "nice-cg109",
+      "nice-ng217",
+      "nice-cg138"
+    ],
+    "points": [
+      "Vérification individuelle le 9 novembre 2026 : CDDR original OMS identifié par ISBN, PDF HRB consulté et pages imprimées 377–382 lues intégralement par extraction du PDF, pages PDF 395–400. La page officielle OMS confirme l’édition 2024. MMS français conservé comme lien canonique, son contenu dynamique n’a pas été extrait. NICE CG109, NG217 et CG138 : recommandations nommées lues dans les résultats indexés du moteur sur le domaine officiel ; ouverture directe CG109/NG217 refusée 403. Pas de prétention à une lecture exhaustive des recommandations ni à une traduction officielle.",
+      "6B62, CDDR p.377–378 : perturbation marquée de conscience avec perception de l’environnement restreinte et répertoire limité de gestes, postures ou paroles vécu hors du contrôle de la personne. Absence de remplacement par une autre identité, à distinguer du 6B63. Chez Agnès, diagnostic antérieur posé par une équipe : épisodes récurrents involontaires, non souhaités, distincts des pratiques culturelles. Le récit ne fournit ni seuils chiffrés ni test de diagnostic.",
+      "Frontière avec les expériences ordinaires, p.377–379 : un état transitoire ou une pratique collective culturelle/religieuse acceptée ne suffit pas à définir un trouble. Une absorption ordinaire dans une activité ne devient pas clinique à cause de son intensité seule. Évaluer contexte, caractère non souhaité et retentissement relève des professionnels avec la personne. Ne pas faire de la danse ou du rituel une cause, un symptôme ou un traitement.",
+      "Présentation et évolution, p.379–380 : amnésie partielle possible, non obligatoire ; fatigue après certains épisodes ; durée et intensité variables, récidives possibles. Aucun récit ne promet des signes annonciateurs fiables. Une amélioration organisationnelle ne prouve pas une rémission. La fatigue après épisode ne doit pas être confondue avec un état dû à l’épuisement, à exclure lors de l’évaluation.",
+      "Différentiels, p.378 et 381–382 : effets de substances/médicaments ou sevrage, sommeil et transitions veille-sommeil, causes neurologiques, traumatisme crânien, delirium, reviviscences dans un trouble post-traumatique et autres troubles dissociatifs relèvent de l’évaluation clinique. Ne pas diagnostiquer une amnésie dissociative séparée pour une lacune limitée à la transe. L’absence d’identité de remplacement chez Agnès ne prouve rien sur ses croyances.",
+      "Point de sécurité documenté : NICE NG217 1.2.6 interdit d’exclure l’épilepsie sur le seul EEG. Ne pas transformer la formulation OMS sur l’EEG pendant les épisodes en règle selon laquelle un EEG ordinaire normal confirmerait une origine psychologique. NICE CG109 1.1.1–1.1.2 soutient la collecte professionnelle de faits avant/pendant/après et la réévaluation d’un malaise, notamment en cas de récupération incomplète ou blessure. Ces recommandations concernent les pertes de connaissance suspectées, pas tout épisode de transe ; aucun examen ni geste de secours universel prescrit ici.",
+      "Circonstances et causalité : les CDDR p.380 mentionnent différentes associations contextuelles ; elles ne permettent pas d’inférer un traumatisme chez Agnès ni de prouver qu’un événement a causé son trouble. Le canon évoque des événements difficiles sans en préciser le contenu : ne pas inventer une violence, une mémoire refoulée, un mécanisme protecteur, une explication cérébrale ou une nécessité de révélation. Aucun souvenir n’est recherché par suggestion.",
+      "Accompagnement : aucune recommandation spécifique de traitement du 6B62 suffisamment vérifiée dans cette recherche pour proposer un protocole. Les CDDR sont diagnostiques. NICE CG138 apporte seulement les principes de communication individualisée, prise en compte des préférences et révision des besoins. Le suivi d’Agnès demeure auprès de son équipe ; aucune modalité de psychothérapie, prescription, respiration, méditation, exposition, ancrage sensoriel ou induction n’est présentée comme traitement validé.",
+      "Transposition : NICE concerne les services britanniques ; ne pas attribuer ses délais, obligations ou procédures au centre culturel français. Les arrangements de fiction — relais de cours, chaise disponible, feuille pratique, pause sans justification publique — répondent au projet d’Agnès. Ce ne sont ni règles légales ni techniques qui empêchent une transe. Pour les trois appuis de chaque futur article : préparation hors épisode, communication et recours professionnel ; aucune reproduction volontaire des manifestations.",
+      "Architecture des douze aspects : perception de l’environnement ; restriction du répertoire moteur/verbal ; mémoire lacunaire ; fatigue après épisode ; frontière culturelle ; distinction avec la possession ; limite du diagnostic devant un changement ; vécu de perte de maîtrise ; interprétation des circonstances ; récurrence variable ; effort professionnel invisible ; participation avec appuis durables. Les trois derniers retentissements ne sont pas des symptômes supplémentaires. Le dossier prépare une série, il ne vaut pas manuscrit ni relecture indépendante."
+    ]
+  },
+  "direction": "Agnès, 46 ans, professeure de danse au centre culturel depuis plusieurs années, dessine ses cours sur des feuilles quadrillées et aime les débuts sobres. Elle veut construire un atelier où chacun peut s’arrêter sans attirer l’attention. Sa collègue chorégraphe, Mireille, a sa propre idée des transitions ; elles peuvent être en désaccord sans que cela soit un symptôme. La docteure Valette représente l’équipe qui a posé le diagnostic avant la série ; les consultations ultérieures réexpliquent ou réévaluent, elles ne le découvrent pas. La communauté et la tradition d’Agnès ne sont pas assignées à une religion ou une origine inventée : elle peut nommer une pratique choisie sans description rituelle ni démonstration. Une feuille quadrillée devient maquette du cours, puis feuille de relais distincte des notes de santé. Sur plusieurs semaines, les interruptions obligent à abandonner l’idée d’un signal toujours disponible et à partager réellement l’animation. L’atelier final se tient, Mireille mène une transition pendant qu’Agnès s’arrête, sans explication publique. La réussite porte sur l’organisation et le maintien d’un lien à la danse ; les épisodes et le suivi peuvent continuer."
+}

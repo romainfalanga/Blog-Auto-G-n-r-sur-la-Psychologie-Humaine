@@ -4498,6 +4498,78 @@
     "method": "reviewed_clinical_intro",
     "source_body_sha256": "4ac7b78c84b1430226e8786f4f3d6729d98a676f525cf5046c6106b1dc91eb5d"
   },
+  "posts/comprendre-et-maitriser-ses-emotions/nolwenn-apprentissage-accompagne": {
+    "text": "La prise en charge de la rumination-régurgitation peut comporter un apprentissage ciblé conduit par une professionnelle compétente. Ce soin ne se réduit pas à demander de se calmer. L’objectif, l’accord de la personne, les difficultés rencontrées et les consignes individuelles se discutent en séance. Un récit ne permet pas d’enseigner ni d’adapter cette technique à distance.",
+    "source_heading": "Apprendre avec une professionnelle",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "8e6f333114d522e4d6d4cf8f14eb87702f165cf99d948aa6fabce818892c8406"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/nolwenn-decrire-sans-conclure": {
+    "text": "Remontées, reflux et vomissements ne désignent pas automatiquement la même situation. Une évaluation médicale s’appuie sur le récit de la personne et sur le bilan approprié pour distinguer les explications possibles. Les mots approximatifs ou les conseils reçus dans l’entourage peuvent être discutés sans devenir un diagnostic ni une raison de se traiter seul.",
+    "source_heading": "Décrire sans conclure au reflux",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "d94b995b62fff2601f5137aced23c91d7e9634291187f3eadcd3ce1198bb37b2"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/nolwenn-diagnostic-sans-culpabilite": {
+    "text": "Le trouble de rumination-régurgitation concerne des remontées alimentaires répétées évaluées par un professionnel ; son nom ne désigne pas les pensées qui tournent en boucle. Les mots utilisés pour décrire les conduites peuvent varier selon les cadres cliniques. Ils demandent une explication individualisée et ne signifient ni faute morale ni possibilité de guérir par une simple décision.",
+    "source_heading": "Comprendre le diagnostic sans culpabilité",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "d26a5997b6c254aed1086ecd150c5d8b1fe366ecb2752cec35042995746b1b6a"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/nolwenn-fluctuations-et-progres": {
+    "text": "L’évolution de la rumination-régurgitation peut être continue ou marquée par des fluctuations. Un moment plus difficile après une expérience encourageante ne prouve ni faute personnelle ni inutilité des appuis. La variation se transmet au suivi ; l’organisation d’un projet peut être ajustée sans imposer une répétition jusqu’à la réussite ou modifier seul le soin.",
+    "source_heading": "Des fluctuations malgré les progrès",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "478e0ddc7aafdbe8a73698b982aa0730a5d708014a4c4dc7249d46121e1be9d9"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/nolwenn-honte-et-secret": {
+    "text": "La honte liée aux remontées peut rendre les échanges difficiles et favoriser le secret. Cela ne signifie pas que toute personne concernée souhaite se confier, ni qu’elle devrait le faire devant son entourage. Choisir un interlocuteur, limiter les détails et préciser un besoin permet parfois de réduire un isolement subi tout en préservant son intimité.",
+    "source_heading": "La honte qui entretient le secret",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "1453895da0ea574040f1fdab71b4bc4aeb6b7909a3a7ef3c66c275ead77c7135"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/nolwenn-inquietude-avant-presentation": {
+    "text": "L’anticipation d’une gêne peut rendre un moment collectif difficile avant même qu’il commence. Cette inquiétude vécue ne prouve pas qu’elle cause la rumination-régurgitation. Elle peut être abordée dans le suivi et dans l’organisation du travail, avec des appuis choisis qui ne deviennent ni une exposition imposée ni un test de courage.",
+    "source_heading": "L’inquiétude avant le rendez-vous collectif",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "d1bc1f4674ddd1064b392a2489a77ba6263c002d7611a2f739ba7b63a328addb"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/nolwenn-place-a-table": {
+    "text": "Rejoindre un moment collectif peut être un objectif personnel même lorsque les remontées persistent. Cette participation doit rester choisie et compatible avec le suivi. Elle n’est pas un test de disparition du trouble. Une aide limitée et une possibilité de départ peuvent préserver le lien, sans transformer les collègues en observateurs de l’alimentation.",
+    "source_heading": "Reprendre une place à table",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "1ea118e03e6db2429a9fd9f707aa23dbe87c0785fab79f86854de4e1c907fe15"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/nolwenn-projet-accompli-et-suivi": {
+    "text": "Accomplir un projet et retrouver un lien collectif ne signifie pas que la rumination-régurgitation a disparu. Ces réalisations peuvent être reconnues pour elles-mêmes, tout en maintenant le suivi et les adaptations utiles. La personne garde aussi le droit de préparer autre chose, sans faire de son prochain objectif une preuve attendue de guérison.",
+    "source_heading": "Un projet accompli avec le suivi",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "900f9ee30142fea06871fdb191c5dc1a17413d8e2722cd32b3056abae5ef2d52"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/nolwenn-remontees-apres-repas": {
+    "text": "Des aliments qui remontent après un repas peuvent perturber la vie quotidienne et conduire à éviter les moments partagés. Ce constat ne permet pas, à lui seul, de poser un diagnostic. Décrire ce qui se passe et ce que cela change aide à demander une évaluation médicale, même quand le vocabulaire paraît incertain.",
+    "source_heading": "Les remontées après le repas",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "7c01494a5370b092be097f70995acc0cbda3e8b5998895b1d8709cc5e24bb07b"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/nolwenn-repas-evites": {
+    "text": "La crainte des remontées peut conduire certaines personnes à réduire ou éviter des occasions de manger. Ce retentissement mérite d’être signalé aux soignants, sans attendre une conséquence visible. Les besoins alimentaires s’évaluent individuellement. Un régime improvisé, un aliment présenté comme correctif ou une surveillance par les collègues ne remplace pas cet accompagnement.",
+    "source_heading": "Les repas réduits par appréhension",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "306db8cc616363e29239fdd49d55dea970e96210062b5b3008a4235ea9208681"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/nolwenn-reponse-sans-jugement": {
+    "text": "La réponse à un accompagnement peut être partielle et doit être discutée dans le suivi. Une journée difficile ne mesure pas la valeur des efforts de la personne. Rapporter ce qui a été possible et ce qui reste compliqué permet au professionnel de réévaluer la suite, sans transposer à chacun les résultats d’une étude ou promettre une guérison.",
+    "source_heading": "Mesurer une réponse sans se juger",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "5e0505649399117c66ae347e30e0663ec2c8031b78bb8af3ed8f1ab886caaca3"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/nolwenn-symptome-nouveau": {
+    "text": "Un diagnostic de rumination-régurgitation ne permet pas d’expliquer automatiquement une difficulté nouvelle à avaler. Un changement de ce type doit être décrit aux soignants et réévalué selon leur orientation. L’entourage peut aider à déplacer une tâche, mais ne décide pas de la cause. Les consignes reçues priment sur le calendrier du projet.",
+    "source_heading": "Un symptôme nouveau à réévaluer",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "3f4f5a03bb2d040c3abaf634913226ca25cde60ffe8fa93b671e9850aaad74c2"
+  },
   "posts/comprendre-et-maitriser-ses-emotions/nostalgie-avec-ses-enfants-syndrome-nid-vide": {
     "text": "La nostalgie mêle souvent le plaisir de se souvenir au manque d’une époque révolue. Dans une série d’études de Tim Wildschut, Constantine Sedikides et leurs collègues, des souvenirs nostalgiques ont notamment été liés au sentiment de proximité avec d’autres personnes.",
     "source_heading": "Définition de la nostalgie",

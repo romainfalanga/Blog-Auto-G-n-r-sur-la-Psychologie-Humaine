@@ -1,0 +1,124 @@
+{
+  "schema_version": 1,
+  "character_id": "nolwenn",
+  "reviewer": "review_nolwenn",
+  "reviewed_on": "2026-11-09",
+  "status": "passed",
+  "summary": "Relecture indépendante intégrale des douze épisodes, canon, dossier, plan, charte et modèle. Vérification des douze angles, des trente-six appuis et des rubriques de proches : diagnostic seulement au troisième épisode, limites de volonté et distinction CIM/gastroentérologie, continuité de l’accompagnement alimentaire, réévaluation effective de la nouvelle dysphagie au neuvième épisode et consignes reprises dès le dixième. Les six images, deux premières légendes, notices, budget, plan et dépôt restent cohérents ; la candidature ne devient pas une exposition accordée. Aucun tutoriel respiratoire, régime autonome, cause psychologique présumée ou soin contrôlé par Inès. Sources primaires complémentaires relues : CDDR OMS p.416–418 dans le PDF original HRB ; AGA 2018 conseils accessibles dans le résumé PubMed et résultats primaires ; Barba 2016 résumé PubMed ; sections pertinentes du consensus UEG/ESNM et page officielle Rome V B5. Aucune correction ouverte.",
+  "files": {
+    "editorial/clinical/designs/nolwenn.json": "d05cc51566a0f7d6b34791dce8ae3cef7757474f1ddb50f09d7c4a73a6da52bd",
+    "editorial/clinical/dossiers/nolwenn.json": "7cf37bd3d18c1f12f166a04b8cedbf16b52eb25e378243e49a1fc39e9b0fde50",
+    "editorial/clinical/nolwenn.json": "cc910367c525301b09198bacff547baee5dcc9c14dd6fc7145a3be8ae6266997"
+  },
+  "findings": [],
+  "episode_checks": [
+    {
+      "number": 1,
+      "focus": "Les remontées après le repas",
+      "opening_quote": "Le dossier bleu prend presque toute la place entre Nolwenn et Inès. À l’intérieur, des images de fenêtres attendent un choix : certaines donnent sur une cour, d’autres sur des façades où le soir découpe des rectangles clairs. Nolwenn voudrait en garder six. À vingt-quatre ans, elle est apprentie encadreuse et défend déjà avec assurance les blancs cassés que ses collègues trouvent presque identiques. « Presque, c’est tout le problème », leur répond-elle souvent.",
+      "ending_quote": "Nolwenn appelle le cabinet et décrit simplement les remontées qui gênent ses repas. Un rendez-vous est fixé avant la séance de photographie prévue à l’atelier. Elle note quelques circonstances pour ne pas tout chercher au dernier moment. Puis elle retrouve Inès à un créneau distinct du déjeuner. Elles retiennent six images. Nolwenn ne sait pas encore ce qui explique ses difficultés, mais elle n’a plus à attendre de le savoir pour demander de l’aide et défendre sa sélection.",
+      "continuity_note": "Le dossier bleu et le goût des blancs cassés installent une apprentie encadreuse de 24 ans. Six images sont choisies et le rendez-vous est fixé avant la photographie, donnant deux suites concrètes.",
+      "clinical_note": "Les aliments remontent et les déjeuners communs diminuent dès la scène. La description reste sans diagnostic, conforme au stade avant bilan ; notes limitées et demande de consultation ne constituent pas un autotest.",
+      "relatives_note": "Inès propose un autre créneau de photos et écoute sans étiquette ni remède. Son rôle de collègue préserve à la fois le projet et le recours médical."
+    },
+    {
+      "number": 2,
+      "focus": "Décrire sans conclure au reflux",
+      "opening_quote": "Les tirages dépassent légèrement du sac de Nolwenn. Elle les a emportés parce qu’elle doit rejoindre l’atelier après le rendez-vous, mais elle vérifie maintenant leur présence comme pour se rappeler ce qu’elle sait expliquer. Sur une photographie, elle pourrait montrer immédiatement le bord à reprendre. Devant le médecin, elle commence par : « C’est comme si je vomissais. » Puis elle hésite. Ce mot ne lui paraît pas décrire exactement les aliments qui remontent.",
+      "ending_quote": "Un rendez-vous spécialisé est organisé dans la suite du bilan. Nolwenn demande comment reprendre contact si quelque chose change avant cette étape. À l’atelier, elle confie à Inès les prises de vue et garde la rédaction des légendes. « Je leur promets de ne pas écrire un roman sous chaque fenêtre. » Inès accepte cette répartition. Les tirages sont sortis du sac ; les questions médicales, elles, restent confiées aux rendez-vous prévus dans les semaines suivantes.",
+      "continuity_note": "Les tirages et les quelques notes du premier épisode arrivent au cabinet. Inès reçoit les prises de vue tandis que Nolwenn conserve les légendes ; le délai de plusieurs semaines précède l’annonce suivante.",
+      "clinical_note": "Vomir, reflux et remontées ne sont pas assimilés. Le produit seulement conseillé est distingué des prises éventuelles ; aucun examen universel ni modification autonome. La distinction rejoint les conseils AGA 1–3 et 6 relus dans la source primaire.",
+      "relatives_note": "Inès peut reprendre les photographies sans exiger les résultats. Les connaissances ayant proposé un produit sont invitées à accepter le relais médical plutôt qu’à défendre leur diagnostic."
+    },
+    {
+      "number": 3,
+      "focus": "Comprendre le diagnostic sans culpabilité",
+      "opening_quote": "Quelques semaines ont passé depuis le premier rendez-vous. Les photographies prises par Inès sont maintenant rangées dans le dossier bleu, avec deux emplacements encore vides pour les premières légendes. Nolwenn les regarde avant de partir à la consultation suivante. Elle a trouvé six formulations, puis les a presque toutes barrées. Elle sait reconnaître une phrase trop longue ; elle sait moins bien quoi faire de la question qui lui revient : est-ce qu’elle provoque tout elle-même ?",
+      "ending_quote": "Nolwenn reformule ce qu’elle a compris et accepte une première séance de suivi. Elle repart avec ce cadre à discuter, sans promesse que les remontées cesseront dès le prochain déjeuner. Le soir, elle termine deux légendes : assez courtes pour laisser les images respirer, dit-elle à Inès. Elle aimerait aussi lui expliquer pourquoi certaines pauses sont devenues difficiles. Le compte rendu restera privé ; quelques mots choisis pourraient suffire à leur conversation.",
+      "continuity_note": "Le bilan et l’entretien spécialisé précèdent effectivement le diagnostic au troisième épisode. Les photographies prises par Inès sont présentes ; deux premières légendes et une séance acceptée ouvrent la suite.",
+      "clinical_note": "Le sens alimentaire de rumination est séparé du ressassement mental. La nuance entre vocabulaire CIM et gastroentérologie est conservée sans affirmer toujours involontaire ni raconter un geste inducteur. CDDR p.416–418 relus ; aucune morale de la volonté ou guérison sur commande.",
+      "relatives_note": "Inès ne déchiffre pas le compte rendu : elle peut écouter la culpabilité et orienter la question vers la spécialiste, sans demander une preuve d’effort. Les légendes restent leur terrain commun."
+    },
+    {
+      "number": 4,
+      "focus": "La honte qui entretient le secret",
+      "opening_quote": "Inès pose les photographies à côté des deux légendes terminées. Elle dit qu’elle peut travailler seule sur les notices pendant le déjeuner, puisque Nolwenn semble préférer rester à l’écart. La phrase n’est pas un reproche. C’est précisément ce qui serre Nolwenn : son absence a fini par devenir, pour les autres, une préférence qu’elle n’a jamais exprimée. Elle voulait éviter une gêne, pas demander à disparaître de la table.",
+      "ending_quote": "Nolwenn propose à Inès de parler quelques minutes à deux. Elle explique que des remontées compliquent certains repas et qu’un suivi est engagé. Elle ne lui montre pas le compte rendu. Elle demande surtout que ses absences ne soient pas commentées devant le groupe. Inès accepte et lui demande quand elles reprendront les notices. Elles fixent un créneau. Le malentendu recule, mais Nolwenn remarque qu’elle reporte parfois aussi l’occasion de manger, même lorsqu’elle n’est plus entourée.",
+      "continuity_note": "Les deux légendes sont reprises avant les notices ; la venue d’un autre apprenti interrompt la confidence. La conversation à deux corrige le malentendu tout en préparant les repas évités de l’épisode suivant.",
+      "clinical_note": "La honte et la dissimulation sont documentées dans les CDDR, mais présentées comme possibles. Le texte distingue intimité choisie et isolement subi ; parler ne devient ni obligation ni traitement des remontées.",
+      "relatives_note": "Inès reconnaît sa supposition de préférence pour la solitude et respecte ce qui peut circuler. Aucun compte rendu exigé, enquête sur les repas ou information du groupe sans accord."
+    },
+    {
+      "number": 5,
+      "focus": "Les repas réduits par appréhension",
+      "opening_quote": "Le budget des Fenêtres de l’atelier comporte moins de lignes que Nolwenn ne l’imaginait, mais chacune semble demander une vérification supplémentaire. Inès additionne les montants pendant qu’elle rapproche les notices des six images retenues. Les deux premières légendes sont terminées ; les suivantes tiennent encore entre des annotations. Nolwenn efface un adjectif. Il prenait, selon elle, plus de place que la fenêtre décrite.",
+      "ending_quote": "Nolwenn contacte le suivi et explique qu’elle évite parfois de manger pour ne pas interrompre le travail. Un échange est organisé pour adapter l’accompagnement et discuter de l’utilité d’un avis nutritionnel. Inès reprend les additions ; le dossier conserve sa date de dépôt. Nolwenn inscrit cet échange et la première séance d’apprentissage dans son agenda. Les repas évités ne deviennent pas une ligne à surveiller entre collègues, mais une question désormais portée au bon interlocuteur.",
+      "continuity_note": "Les six images et notices sont reliées au budget ; Inès reprend les additions. Le signalement des repas évités conduit à un échange inscrit à l’agenda, en plus de la séance d’apprentissage.",
+      "clinical_note": "Le retentissement alimentaire est transmis sans inventer perte de poids ni diagnostic associé. L’avis nutritionnel est une question individualisée, sans menu, quantité, aliment correctif ou restriction autonome ; déplacer le budget ne traite pas les remontées.",
+      "relatives_note": "Inès libère un créneau de travail et ne vérifie pas ce qui sera mangé. Le proche soutient la transmission des repas évités au médecin sans comparer les quantités ni devenir responsable de l’alimentation."
+    },
+    {
+      "number": 6,
+      "focus": "Apprendre avec une professionnelle",
+      "opening_quote": "L’agenda de Nolwenn ressemble à une planche de contacts : petites cases, retouches partout, une flèche qui relie deux rendez-vous. L’échange demandé sur les repas évités a eu lieu ; cette difficulté fait désormais partie de l’accompagnement à réévaluer avec les soignants. La séance d’aujourd’hui s’ajoute à ce suivi, elle ne l’efface pas. Nolwenn a placé les photographies à classer dans son sac pour l’après-midi.",
+      "ending_quote": "Nolwenn repart avec un cadre personnel donné par la spécialiste et un moyen de la recontacter. Les points difficiles ont été entendus ; aucun résultat immédiat n’a été exigé. À l’atelier, elle classe les photographies retenues dans six pochettes et laisse de côté les essais à comparer plus tard. Elle sait que le prochain rendez-vous ne servira pas seulement à montrer ce qui a fonctionné. Les difficultés et l’organisation des repas y auront aussi leur place.",
+      "continuity_note": "L’ouverture confirme que l’échange alimentaire demandé a eu lieu et reste réévaluable. L’agenda puis les six pochettes relient séance et classement sans effacer le suivi nutritionnel.",
+      "clinical_note": "L’apprentissage ciblé est distingué du conseil de se calmer. La respiration diaphragmatique et le biofeedback sont nommés dans leur cadre gastroentérologique, sans posture, cadence ou geste interne. Accord, inconfort et consignes relèvent de la praticienne, conformément à AGA 4–5.",
+      "relatives_note": "La collègue peut garder les photos ou déplacer une tâche. Elle ne demande ni démonstration ni contrôle respiratoire et ne juge pas la séance."
+    },
+    {
+      "number": 7,
+      "focus": "Mesurer une réponse sans se juger",
+      "opening_quote": "Dans le dossier bleu, Nolwenn retrouve une épreuve qu’elle avait décidé de retirer. La lumière y est belle, mais le reflet masque la fenêtre. Elle se souvient l’avoir gardée parce qu’elle aimait une partie de l’image. Les six pochettes sont prêtes ; les essais et les versions définitives se sont pourtant mélangés pendant la dernière séance de travail. Elle commence à les séparer, puis regarde l’heure de son rendez-vous de suivi.",
+      "ending_quote": "Nolwenn raconte la journée difficile et pose ses questions sur les ajustements possibles, y compris le sens du biofeedback dont elle a entendu le nom. La spécialiste réévalue avec elle la suite et fixe le prochain point ; le besoin d’accompagnement alimentaire reste dans l’échange. À l’atelier, Nolwenn conserve les six images définitives et retire les essais du dossier de candidature. Le plan de l’exposition peut maintenant être discuté avec l’équipe, autour d’une pause qu’Inès propose d’organiser.",
+      "continuity_note": "Les essais mélangés aux six pochettes permettent de finaliser les six images ; une observation difficile est réellement apportée au suivi avant la discussion du plan collectif.",
+      "clinical_note": "Le petit essai Barba 2016, relu au résumé PubMed, soutient seulement un résultat à court terme chez des adultes sélectionnés. Le manuscrit n’en tire ni taux de guérison ni garantie pour Nolwenn ; les besoins alimentaires sont repris avec les ajustements.",
+      "relatives_note": "Inès peut demander si la difficulté a été abordée au suivi sans exiger un pourcentage ou comparer les jours. Elle laisse Nolwenn revenir au plan si elle le souhaite."
+    },
+    {
+      "number": 8,
+      "focus": "Reprendre une place à table",
+      "opening_quote": "Inès propose de déplier le plan pendant le déjeuner. Il reste à décider dans quel ordre les six fenêtres seront présentées et comment les notices accompagneront les images. Nolwenn a envie d’être là pour cette discussion. Elle imagine déjà un accrochage où la première photographie donne envie de chercher la suivante. Puis elle pense à la table, aux questions possibles et aux regards qu’elle redoute sur son repas.",
+      "ending_quote": "Nolwenn reste un moment, puis s’absente. La discussion continue comme convenu. Lorsqu’elle revient, Inès lui montre deux possibilités d’ordre sur le plan, sans lui demander de raconter la sortie. Nolwenn défend la fenêtre de la cour et obtient qu’elle ouvre le parcours. Cette reprise du lien lui a plu, même si elle ne résout pas les difficultés de repas. Plus tard, une gêne différente en avalant viendra demander une autre réponse que les arrangements de table.",
+      "continuity_note": "Le plan est apporté seul, le dossier bleu gardant budget et notices à l’atelier. La fenêtre de la cour est choisie en premier et sera retrouvée dans les corrections et la finale.",
+      "clinical_note": "La présence au déjeuner est choisie, compatible avec l’accompagnement et discontinue. Sortir puis revenir ne constitue ni exposition thérapeutique ni prescription alimentaire ; la participation ne vaut pas amélioration clinique.",
+      "relatives_note": "Inès montre deux ordres possibles au retour et ne réclame aucune explication de l’absence. Elle évite les félicitations sur le temps à table et les commentaires sur le repas."
+    },
+    {
+      "number": 9,
+      "focus": "Un symptôme nouveau à réévaluer",
+      "opening_quote": "Nolwenn corrige la légende de la fenêtre ouverte sur la cour. Depuis le déjeuner partagé, cette photographie occupe la première place sur le plan. Elle aime ce choix et voudrait que la phrase soit aussi simple que l’image. Elle supprime encore deux mots, puis s’arrête : une difficulté nouvelle en avalant la préoccupe. Cela lui paraît différent des remontées dont elle parle habituellement au suivi.",
+      "ending_quote": "Le médecin réévalue la difficulté et organise la suite nécessaire. Nolwenn reçoit des consignes individualisées ainsi que l’indication du contact à reprendre en cas de changement ou d’aggravation. Elle ne repart pas avec une histoire inventée sur la cause. Inès a décalé la relecture et conservé les corrections. La préparation de la présentation reprendra en tenant compte de cette réévaluation et du suivi convenu, sans faire du prochain dépôt une raison d’ignorer les indications reçues.",
+      "continuity_note": "La légende de la fenêtre de la cour reprend le choix précédent. Contact au cabinet, consultation et consignes sont présents dans le récit ; Inès reporte la relecture avant toute reprise.",
+      "clinical_note": "La difficulté nouvelle à avaler n’est pas attribuée au diagnostic connu. L’évaluation médicale est effective dans cet épisode, sans cause ni résultat de test inventé ; le circuit d’aggravation est conservé dans les exercices et le miroir. AGA conseil 2 relu : dysphagie modifie l’évaluation et ne justifie pas une attribution automatique.",
+      "relatives_note": "Inès garde les pages et décale la tâche sans tester le symptôme par distraction ou essai. Le proche facilite le recours au soin et ne rassure pas par une origine présumée ; les consignes passent avant le dossier."
+    },
+    {
+      "number": 10,
+      "focus": "L’inquiétude avant le rendez-vous collectif",
+      "opening_quote": "Après la réévaluation de la difficulté à avaler, Nolwenn conserve le suivi et les consignes convenus. La préparation de la présentation reprend dans ce cadre ; personne ne prétend que le diagnostic de rumination-régurgitation aurait expliqué à lui seul le changement. Le dossier bleu contient maintenant les photographies, les notices et le budget vérifié. Le plan plié a retrouvé sa place au milieu des pages.",
+      "ending_quote": "Nolwenn transmet cette inquiétude à la spécialiste dans le suivi prévu. Avec Inès, elle essaie ensuite une première phrase sur la lumière de la cour, rien de plus. Inès accepte de prendre le budget. Nolwenn confirme sa présence avec la possibilité de sortir et de reprendre connaissance des décisions. L’essai à deux lui semble possible. Elle garde cependant le prochain contact professionnel et sait que la répétition avec toute l’équipe pourra se dérouler autrement.",
+      "continuity_note": "La première phrase reprend explicitement la réévaluation de déglutition et ses consignes. Budget vérifié, plan et première image sont conservés ; Inès accepte une relève cohérente avec son travail antérieur.",
+      "clinical_note": "L’appréhension d’une pause future est un vécu distinct de la cause médicale. Les associations anxieuses du consensus UEG/ESNM ne sont pas transformées en causalité ; la spécialiste reçoit l’inquiétude et aucun défi collectif n’est imposé.",
+      "relatives_note": "La proposition de garder les images et de confier les chiffres correspond au partage déjà établi. La marge de sortie reste ouverte malgré l’essai facile à deux, sans mesure de courage."
+    },
+    {
+      "number": 11,
+      "focus": "Des fluctuations malgré les progrès",
+      "opening_quote": "Nolwenn reconnaît la première phrase avant même de regarder sa note. Elle l’a répétée avec Inès : la fenêtre de la cour ouvre le parcours parce qu’elle laisse voir à la fois un intérieur et un dehors. Devant toute l’équipe, elle commence avec cette idée. Le dossier bleu est posé au bord de la table, prêt à passer de main en main pour la dernière vérification avant dépôt.",
+      "ending_quote": "Nolwenn reprend le contact de suivi prévu et transmet ce qui a changé dans la répétition, sans modifier seule l’accompagnement. Avec l’équipe, elle confirme qu’Inès présentera le budget. Elle garde les photographies et les légendes, qu’elle reprend dans un format réalisable ce jour-là. Les pages sont assemblées en version finale. Le dossier peut être déposé. Le moment collectif prévu après la remise reste une invitation, et personne ne lui demande de promettre une présence sans interruption.",
+      "continuity_note": "La phrase sur la cour et le dossier prêt à vérifier reprennent l’essai à deux. Les notices tombées sont ramassées ; après le relais sur le budget, images et légendes permettent d’assembler la version finale.",
+      "clinical_note": "La réapparition des remontées illustre les fluctuations possibles des CDDR sans annuler les acquis ni faire du stress une cause unique. Le contact de suivi est effectivement repris, avec maintien des besoins alimentaires et consignes, sans renforcement ou abandon autonome.",
+      "relatives_note": "Inès ramasse les feuilles et propose une tâche choisie, sans exiger de recommencer ni un retour immédiat. Les proches facilitent le suivi au lieu d’expliquer la journée par un défaut de volonté."
+    },
+    {
+      "number": 12,
+      "focus": "Un projet accompli avec le suivi",
+      "opening_quote": "Nolwenn vérifie une dernière fois que les six photographies sont dans l’ordre. La fenêtre de la cour vient toujours en premier. Les notices sont courtes, le budget a été revu par Inès et le plan ne dépasse plus du dossier bleu. L’équipe dépose Les fenêtres de l’atelier pour examen. La remise est accomplie ; l’exposition, elle, n’est pas encore accordée. Il faudra attendre une réponse.",
+      "ending_quote": "L’équipe marque la remise du dossier sans annoncer une sélection qui n’a pas encore eu lieu. Nolwenn reste au moment collectif selon ce qui lui convient, puis choisit la fenêtre au rideau clair comme prochaine photographie à préparer. Elle souhaite garder avec Inès les accords de discrétion et de relais, quitte à les revoir. Le prochain contact professionnel est maintenu. Le dossier bleu a rempli sa fonction ; sa vie d’apprentie et le suivi continuent, avec des questions qui n’ont pas besoin d’une réponse unique pour avancer.",
+      "continuity_note": "Six photos, cour en premier, notices courtes, budget vérifié et plan sont déposés ensemble. Le projet est remis pour examen, aucune sélection de l’exposition n’est inventée ; une nouvelle photographie ouvre la suite.",
+      "clinical_note": "La réussite du dépôt et le retour collectif ne prouvent ni disparition des remontées ni efficacité clinique des arrangements. Prochain contact, questions alimentaires et consignes de réévaluation restent actifs au-delà de la candidature.",
+      "relatives_note": "Inès célèbre le travail en parlant d’images et respecte les accords de discrétion. Aucun bilan de santé réclamé pour participer et aucune promesse exigée sur les prochaines pauses."
+    }
+  ]
+}

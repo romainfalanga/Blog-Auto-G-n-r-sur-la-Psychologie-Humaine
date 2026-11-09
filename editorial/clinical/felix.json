@@ -424,6 +424,419 @@
           ]
         }
       ]
+    },
+    {
+      "number": 5,
+      "slug": "felix-acces-toilettes",
+      "title": "L’accès aux toilettes compte autant que l’autorisation",
+      "description": "Une porte et une demande devant la classe gênent Félix. Les adultes vérifient un accès réel et un relais, sans exposer son diagnostic.",
+      "context": "La vérification des lieux à l’école",
+      "topics": [
+        "Accès matériel",
+        "Demande discrète",
+        "Relais adulte"
+      ],
+      "clinical_intro": "Des toilettes difficiles à utiliser ou une demande publique peuvent contribuer au report du passage chez un enfant suivi pour constipation. Ces obstacles n’expliquent pas à eux seuls l’encoprésie. Les repérer permet néanmoins d’adapter le quotidien. Pour Félix, l’autorisation abstraite de sortir doit devenir une aide réellement disponible.",
+      "opening": "Lila attend Félix près du couloir, à un moment convenu avec madame Perrin. Son père lui a transmis les besoins pratiques discutés au rendez-vous. Aujourd’hui, ils ne vont pas parler devant la classe de ce qu’a dit la pédiatre. Ils vont regarder comment l’organisation peut fonctionner pour de vrai. Félix trouve cela plus facile à comprendre qu’une promesse générale : « Tu demanderas si tu as besoin. »\n\nDevant une porte, il s’arrête. Le verrou le gêne ; il n’est pas à l’aise avec ce lieu. Lila ne lui demande pas de faire un essai pendant que des enfants passent dans le couloir. Elle écoute ce qui pose problème, puis reprend avec madame Perrin les possibilités réellement disponibles dans l’école. Félix attend avec sa carte contre lui, comme s’il cherchait un chemin qui n’apparaît pas sur le dessin.\n\nIl ajoute que lever la main pour demander à sortir l’embarrasse. Tout le monde se retourne parfois, et il a l’impression de devoir expliquer davantage. « Même quand tu es occupée, je peux venir ? » demande-t-il à Lila. Elle lui répond qu’ils vont aussi prévoir qui pourra l’aider si elle est absente. Madame Perrin revient vers eux avec une proposition concrète à vérifier. Pour une fois, la difficulté n’est pas seulement dans la phrase que Félix doit réussir à dire.",
+      "ending_title": "Une phrase, pas un mot de passe",
+      "ending": "« J’ai besoin de te parler », choisit Félix. Lila répète la phrase pour vérifier qu’elle lui convient. Les adultes confirment le lieu accessible et le relais prévu ; ils l’aideront aussi s’il ne parvient pas à dire ces mots. De retour à la table, Félix ajoute les repères ordinaires sur sa carte collective. Il n’y inscrit ni son trajet personnel vers les toilettes ni une information de santé. Noé pourra venir travailler sur la légende.",
+      "conclusion": "Un accès prévisible repose sur des lieux et des adultes effectivement disponibles. Pour Félix, la phrase discrète soutient cette organisation sans conditionner l’aide ; la prise en charge de la constipation demeure nécessaire en parallèle.",
+      "mirror": [
+        "Une réponse comme « Tu sais bien que tu as le droit » peut manquer l’obstacle concret. Lila peut plutôt demander : « Qu’est-ce qui rend la sortie difficile ici ? » Vous pouvez ensuite vérifier la porte, le lieu et le relais avec les responsables. L’enfant n’a pas à défendre son besoin devant le groupe ni à attendre une pause prévue pour mériter de l’aide."
+      ],
+      "clinical_focus": "L’accès aux toilettes change la situation",
+      "diagnostic_stage": "known",
+      "sources": [
+        "oms-cddr",
+        "nice-cg99",
+        "nhs-soiling"
+      ],
+      "continuity": {
+        "choice": "Félix choisit une phrase courte ; les adultes confirment accès et relais, tandis que la carte collective ne garde que les repères ordinaires.",
+        "next": "La carte peut être travaillée avec Noé ; Félix reste inquiet de ce que les autres ont remarqué."
+      },
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Une autorisation doit pouvoir être utilisée",
+          "text": "L’appréhension des toilettes et les obstacles à leur accès peuvent contribuer à retenir les selles. Cela ne suffit pas à expliquer toutes les fuites et ne constitue pas, dans cette histoire, un diagnostic de phobie. Les adaptations scolaires décrites sont des arrangements concertés pour Félix, pas un protocole de traitement ni une règle administrative générale. Les adultes vérifient le lieu, la disponibilité et la façon de demander ; les soins poursuivent leur propre objectif."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment un accès théorique peut-il rester difficile ?",
+          "points": [
+            {
+              "heading": "Rencontrer un obstacle matériel",
+              "text": "Un lieu existant n’est pas forcément un lieu utilisable sereinement par cet enfant.",
+              "examples": [
+                "Félix s’arrête devant le verrou qui le gêne.",
+                "Lila reporte l’essai au lieu de lui demander de se montrer devant les autres."
+              ]
+            },
+            {
+              "heading": "Devoir parler devant le groupe",
+              "text": "L’annonce du besoin peut devenir une épreuve supplémentaire, même lorsqu’aucun camarade ne fait de remarque.",
+              "examples": [
+                "Félix pense aux têtes qui se tournent quand il lève la main.",
+                "Il craint de devoir expliquer la raison précise de sa sortie."
+              ]
+            },
+            {
+              "heading": "Ne pas savoir qui est disponible",
+              "text": "Une aide liée à une seule personne reste fragile si son absence n’est pas prévue.",
+              "examples": [
+                "Félix demande ce qui se passe lorsque Lila est occupée.",
+                "Madame Perrin participe à l’organisation d’un relais réel."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour rendre l’accès prévisible",
+          "points": [
+            {
+              "heading": "1. Vérifier le lieu avec l’équipe",
+              "objective": "Repérer un accès adapté avant d’en dépendre.",
+              "exercise": [
+                "L’adulte écoute l’obstacle signalé par l’enfant.",
+                "L’équipe vérifie un lieu effectivement disponible et son fonctionnement.",
+                "Elle explique à Félix l’organisation retenue sans essai public imposé."
+              ],
+              "benefit": "Cette vérification peut réduire l’incertitude pratique, sans promettre la disparition des accidents."
+            },
+            {
+              "heading": "2. Convenir d’une demande discrète",
+              "objective": "Faciliter l’appel à l’aide sans créer une nouvelle obligation.",
+              "exercise": [
+                "Lila propose une phrase courte à choisir avec Félix.",
+                "Elle indique comment l’utiliser dans la classe.",
+                "Elle précise qu’une autre demande ou un signe de difficulté sera aussi accueilli."
+              ],
+              "benefit": "La phrase devient une possibilité, jamais un mot de passe nécessaire pour être aidé."
+            },
+            {
+              "heading": "3. Nommer un relais disponible",
+              "objective": "Éviter une dépendance à la présence de Lila.",
+              "exercise": [
+                "Madame Perrin vérifie avec l’équipe qui prend le relais.",
+                "Les adultes transmettent les seules informations nécessaires.",
+                "Ils expliquent à Félix qui rejoindre si Lila n’est pas là."
+              ],
+              "benefit": "La responsabilité de l’organisation reste adulte et ne repose pas sur un camarade."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "slug": "felix-honte-parmi-autres",
+      "title": "La honte peut faire abandonner sa place dans le groupe",
+      "description": "Une remarque sur son absence fait cacher sa carte à Félix. Lila intervient ; il peut reprendre avec Noé sans révéler son histoire médicale.",
+      "context": "La légende dessinée avec Noé",
+      "topics": [
+        "Honte",
+        "Vie privée",
+        "Retrait social"
+      ],
+      "clinical_intro": "L’encoprésie peut avoir un retentissement social fait de honte, de crainte des moqueries et de retrait. Ces conséquences se distinguent du mécanisme intestinal lui-même. Une remarque peut suffire à rendre une activité difficile à rejoindre. Félix doit pouvoir retrouver sa place sans avoir à dévoiler son diagnostic pour obtenir du respect.",
+      "opening": "Noé arrive avec deux feutres et une idée très arrêtée : le pont doit être représenté par deux traits parallèles. Félix préfère un arc. Il place les deux versions sur une feuille à côté de la carte, pour regarder laquelle se comprend le mieux. Les adultes ont confirmé l’organisation pratique de ses sorties de classe ; aujourd’hui, il aimerait simplement réussir cette légende avec quelqu’un qui discute vraiment les symboles.\n\nUn camarade passe derrière leur table. « T’étais encore parti l’autre fois ? » La remarque ne dure que quelques secondes. Félix ne répond pas. Il pose sa main sur les essais et glisse la carte sous un cahier. Noé tient toujours son feutre, sans savoir s’il peut continuer. Le pont, qui occupait toute la conversation, semble soudain devenu une mauvaise raison de rester assis là.\n\nLila a entendu. Elle arrête les commentaires personnels et rappelle que les absences des autres ne sont pas un sujet à discuter autour de cette table. Elle ne donne aucune explication médicale. Puis elle demande au groupe de reprendre son travail. Félix garde les yeux sur le coin du cahier. Il ne sait pas ce que le camarade a réellement compris de son départ, et cette incertitude lui suffit pour ne plus vouloir montrer son dessin. Lila reste assez près pour lui proposer une suite sans le mettre au centre de la classe.",
+      "ending_title": "Ils gardent l’arc",
+      "ending": "Félix finit par tirer le plan hors du cahier. « Tu peux rester », dit-il à Noé. Ils comparent à nouveau leurs essais. Noé défend les deux traits, puis admet que l’arc se voit mieux sur cette petite carte. Ils le gardent. Félix n’a pas raconté son absence, et Noé n’en fait pas le prix de leur accord. La légende est prête pour la réunion de préparation, même si Félix regarde encore parfois derrière lui.",
+      "conclusion": "La honte peut interrompre une activité sans en effacer l’envie. En arrêtant les commentaires et en laissant le choix de reprendre, l’adulte protège la participation ; cela ne résout pas à lui seul les difficultés de santé.",
+      "mirror": [
+        "À la place de Noé, il n’est pas nécessaire de demander ce qui s’est passé pour montrer sa présence. « Tu veux qu’on regarde encore les deux ponts ? » suffit à ouvrir une possibilité. L’adulte, lui, doit traiter les commentaires et leurs éventuelles répétitions. Le camarade reste un partenaire de dessin ; il ne devient ni confident obligatoire ni responsable du bien-être de Félix."
+      ],
+      "clinical_focus": "La honte réduit la place parmi les autres",
+      "diagnostic_stage": "known",
+      "sources": [
+        "oms-cddr",
+        "nice-cg99"
+      ],
+      "continuity": {
+        "choice": "Après l’intervention de Lila, Félix reprend avec Noé ; ils choisissent l’arc pour représenter le pont sans révélation médicale.",
+        "next": "Le symbole est prêt pour la réunion de préparation, où une remarque adulte sur la discipline provoquera un autre retrait."
+      },
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Le retrait n’est pas une disparition de l’envie",
+          "text": "Les accidents liés à l’encoprésie peuvent exposer un enfant à la honte et aux moqueries, avec un retrait des activités partagées. Le retentissement social ne dit rien de sa volonté de produire les accidents. Dans la scène, Félix aime toujours les cartes, mais anticipe ce que les autres pourraient penser. La réponse adulte vise le respect et l’accès à l’activité ; elle n’utilise pas la divulgation du trouble ou l’amitié comme traitement."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment la honte réduit-elle la participation ?",
+          "points": [
+            {
+              "heading": "Se sentir exposé par une question",
+              "text": "Une remarque sur une absence peut rendre visible une situation que l’enfant souhaitait garder privée.",
+              "examples": [
+                "Félix cesse de discuter des deux dessins après la question.",
+                "Il ne sait pas si le camarade connaît la raison de son départ."
+              ]
+            },
+            {
+              "heading": "Cacher ce qui faisait lien",
+              "text": "Se retirer de la tâche permet momentanément d’éviter les regards, au prix d’un projet apprécié.",
+              "examples": [
+                "Il glisse la carte sous un cahier.",
+                "Sa main recouvre les deux essais de symbole avant que Noé choisisse."
+              ]
+            },
+            {
+              "heading": "Hésiter à revenir après l’intervention",
+              "text": "L’arrêt du commentaire ne fait pas disparaître immédiatement le malaise.",
+              "examples": [
+                "Félix reste les yeux baissés lorsque le groupe reprend.",
+                "Noé attend avec son feutre au lieu de poursuivre la discussion seul."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour protéger la place dans le groupe",
+          "points": [
+            {
+              "heading": "1. Arrêter le commentaire personnel",
+              "objective": "Faire respecter l’intimité sans désigner un diagnostic.",
+              "exercise": [
+                "L’adulte interrompt la remarque dès qu’il l’entend.",
+                "Il rappelle la règle de respect applicable à tous.",
+                "Il réoriente le groupe et reste attentif à d’éventuelles reprises."
+              ],
+              "benefit": "L’enfant n’a pas à fournir d’explication médicale pour que les commentaires cessent."
+            },
+            {
+              "heading": "2. Préparer une réponse facultative",
+              "objective": "Laisser une possibilité de parole sans imposer de justification.",
+              "exercise": [
+                "Lila échange avec Félix à l’écart.",
+                "Elle propose des mots comme « Je ne veux pas expliquer ».",
+                "Elle accepte qu’il préfère ne rien répondre lui-même."
+              ],
+              "benefit": "L’adulte conserve son rôle de protection, même si l’enfant reste silencieux."
+            },
+            {
+              "heading": "3. Proposer deux façons de reprendre",
+              "objective": "Redonner un choix concret après le retrait.",
+              "exercise": [
+                "Lila demande s’il préfère travailler seul un moment ou avec Noé.",
+                "Elle garde la carte et le matériel disponibles.",
+                "Elle respecte son choix et vérifie que la tâche reste accessible."
+              ],
+              "benefit": "Reprendre une activité peut retrouver du sens sans devenir une preuve de confiance retrouvée."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "slug": "felix-accident-reproche",
+      "title": "Quand les besoins deviennent une question de discipline",
+      "description": "Une consigne d’attendre les pauses fait renoncer Félix au rôle de lecteur. La maîtresse la corrige et garde sa place ouverte.",
+      "context": "La réunion de préparation de la marche",
+      "topics": [
+        "Reproche implicite",
+        "Règle inadaptée",
+        "Réparation adulte"
+      ],
+      "clinical_intro": "Présenter les besoins liés à l’encoprésie comme une question de discipline peut empêcher un enfant de demander de l’aide. Ses accidents involontaires ne sont pas une faute à corriger par l’attente imposée. La scène de Félix montre l’effet d’une règle générale mal adaptée et la responsabilité des adultes dans sa rectification.",
+      "opening": "La légende avec son petit arc est fixée près du tableau. Félix aime voir le pont aussi net ; il reconnaît la forme qu’il a défendue face à Noé. Madame Perrin a préparé une liste des lecteurs de carte pour la sortie. On peut proposer son nom, puis discuter de ce que chacun souhaite faire. Félix a écrit le sien en lettres plus petites que d’habitude, mais il l’a écrit.\n\nPendant la présentation, un adulte dit qu’il faudra apprendre à attendre les pauses pour ne pas interrompre la marche. Félix cesse d’écouter la suite. La phrase semble effacer d’un coup le lieu accessible, Lila et la possibilité de demander discrètement. Il replie sa carte en suivant les anciens plis. Quand la liste passe à nouveau près de lui, il barre son prénom d’un trait léger.\n\nMadame Perrin le remarque. Elle reprend la consigne devant le groupe : les besoins individuels seront organisés avec les adultes, et demander de l’aide restera possible. Elle ne regarde pas Félix en prononçant cette phrase, ne raconte pas son diagnostic et ne lui demande pas de réinscrire aussitôt son nom. La réunion continue avec les règles de sécurité du trajet, dont les adultes restent responsables. Félix entend maintenant les mots, mais son crayon demeure dans la trousse. Il veut savoir si la correction restera vraie le jour de la marche.",
+      "ending_title": "Un prénom peut revenir plus tard",
+      "ending": "Après la réunion, madame Perrin montre à Félix la place restée libre. « Tu peux y réfléchir. Ta carte nous sert déjà. » Elle et Lila reprennent l’organisation avec les adultes concernés. Félix accepte de garder le plan à préparer, mais laisse son nom barré pour le moment. L’arc du pont reste visible dans la légende. Son rôle n’est pas décidé ; il ne dépendra pas d’une promesse de ne jamais demander d’arrêt.",
+      "conclusion": "Une consigne présentée comme discipline peut rendre l’aide inaccessible même lorsqu’elle était prévue. La correction et l’organisation relèvent des adultes. Félix conserve un choix différé, sans avoir à prouver sa continence pour retrouver une place.",
+      "mirror": [
+        "Un adulte peut avoir parlé trop vite sans vouloir viser un enfant. Cela n’annule pas l’effet de ses mots. Vous pouvez dire : « Ma consigne n’était pas adaptée ; demander de l’aide reste possible. » Puis vérifiez le dispositif avec les responsables. Ne demandez pas à Félix de se réinscrire pour montrer qu’il a pardonné : la réparation n’achète pas son accord."
+      ],
+      "clinical_focus": "Quand l’accident devient un reproche",
+      "diagnostic_stage": "known",
+      "sources": [
+        "oms-cddr",
+        "nice-cg99"
+      ],
+      "continuity": {
+        "choice": "La maîtresse rectifie la consigne et garde la place ouverte ; Félix conserve la carte mais diffère son choix de rôle.",
+        "next": "La place reste disponible ; le suivi à la maison et les routines ne doivent pas devenir un nouvel examen de bonne conduite."
+      },
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Une règle peut fermer l’accès à l’aide",
+          "text": "Une attribution disciplinaire transforme un besoin de santé en épreuve de maîtrise ou de bonne conduite. Chez Félix, les fuites sont involontaires et la constipation est suivie ; attendre davantage ne constitue pas une consigne appropriée à inventer pour le groupe. Le retrait du rôle traduit ici la conséquence sociale d’un message adulte. Le corriger exige une organisation réelle, pas seulement une parole rassurante ni une invitation à faire davantage d’efforts."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment un reproche implicite fait-il renoncer ?",
+          "points": [
+            {
+              "heading": "Entendre que demander dérangera",
+              "text": "La formulation collective peut faire croire que tout besoin hors des pauses sera mal accueilli.",
+              "examples": [
+                "Félix n’écoute plus la suite après le mot attendre.",
+                "Il pense que les arrangements précédents n’auront plus de valeur pendant la marche."
+              ]
+            },
+            {
+              "heading": "Retirer sa candidature",
+              "text": "Renoncer au rôle permet d’éviter une situation où l’enfant s’imagine en faute.",
+              "examples": [
+                "Il replie le plan dont il était fier quelques instants auparavant.",
+                "Il barre son nom sans annoncer au groupe pourquoi il le fait."
+              ]
+            },
+            {
+              "heading": "Attendre des actes après la correction",
+              "text": "Une rectification publique est nécessaire mais ne rétablit pas automatiquement la confiance.",
+              "examples": [
+                "Félix laisse son crayon dans la trousse après l’intervention.",
+                "Il ne se réinscrit pas immédiatement sur la liste."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour réparer une consigne inadaptée",
+          "points": [
+            {
+              "heading": "1. Corriger devant les mêmes personnes",
+              "objective": "Retirer le message qui rendait l’aide illégitime.",
+              "exercise": [
+                "Madame Perrin reprend clairement la consigne générale.",
+                "Elle affirme que les besoins seront pris en compte avec les adultes.",
+                "Elle le fait sans désigner l’enfant ni exposer sa santé."
+              ],
+              "benefit": "Le groupe entend la correction sans que Félix doive se justifier publiquement."
+            },
+            {
+              "heading": "2. Vérifier les dispositions entre adultes",
+              "objective": "Donner une suite concrète à la rectification.",
+              "exercise": [
+                "L’équipe reprend les besoins pratiques déjà identifiés.",
+                "Elle confirme qui répond et comment pendant la sortie.",
+                "Elle vérifie que les personnes encadrantes disposent des informations nécessaires."
+              ],
+              "benefit": "La disponibilité de l’aide ne dépend plus d’une promesse isolée."
+            },
+            {
+              "heading": "3. Laisser le choix ouvert",
+              "objective": "Éviter de transformer la réparation en obligation de participer.",
+              "exercise": [
+                "La maîtresse conserve une place possible sur la liste.",
+                "Elle explique à Félix qu’il pourra décider plus tard.",
+                "Elle respecte son refus provisoire sans retirer le travail de carte."
+              ],
+              "benefit": "Un délai rend la décision à l’enfant, sans exiger qu’il rassure l’adulte."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "slug": "felix-soins-sans-epreuve",
+      "title": "Le suivi de l’encoprésie n’est pas un examen de bonne conduite",
+      "description": "Félix croit que les cases du carnet décident de sa place de lecteur. Samuel sépare le suivi médical du projet de carte.",
+      "context": "Le carnet de suivi à la maison",
+      "topics": [
+        "Continuité du soin",
+        "Notes de suivi",
+        "Absence de punition"
+      ],
+      "clinical_intro": "Le suivi d’une constipation associée à l’encoprésie peut comporter des observations et des routines individualisées. Ces appuis n’ont pas à devenir un score de bonne conduite ou une condition de participation scolaire. Pour Félix, clarifier l’usage du carnet permet de distinguer les informations utiles à la pédiatre du droit de poursuivre sa carte.",
+      "opening": "Samuel a posé le carnet demandé pour le suivi près du plan de la sortie. Il veut préparer les informations utiles à la docteure Vignal avant de les oublier. Félix reconnaît certaines cases, mais ne sait plus exactement ce que chacune décide. Depuis la réunion de classe, son prénom n’est toujours pas revenu sur la liste des lecteurs. Il regarde le carnet, puis le pont en arc qu’il a dessiné avec Noé.\n\n« Si demain il n’y a rien, je pourrai remettre mon nom ? » demande-t-il. Samuel relève la tête. Il comprend que les deux feuilles, simplement posées côte à côte, ont pris un lien qu’il n’avait pas voulu créer. Son fils croit devoir obtenir une journée sans accident avant de récupérer sa place. La correction faite par madame Perrin n’a pas suffi à effacer cette idée.\n\nSamuel tire doucement la carte vers le bout libre de la table. Il explique que les notes servent à parler avec la pédiatre, pas à distribuer les rôles de la sortie. Félix lui demande qui les lit. Son père lui répond, puis écoute ce qui reste difficile dans les routines prévues avec le cabinet. Il ne transforme pas la discussion en contrôle supplémentaire. À côté, une pochette transparente attend : ils voulaient préparer une copie de la carte qui résiste mieux aux essais dehors.",
+      "ending_title": "Une copie pour dehors",
+      "ending": "Le carnet rejoint les documents du cabinet. Félix vérifie : « Même si ça arrive encore ? » Samuel confirme que le choix du rôle ne se gagne pas ainsi. Ils préparent une copie de la carte et la plastifient. Le petit arc ne disparaît plus sous les plis quand Félix la tient. Les routines et le suivi continuent selon la pédiatre ; la carte, elle, est prête pour un essai de marche, sans nouvelle condition à remplir.",
+      "conclusion": "Un outil d’observation sert les soins lorsqu’il reste compréhensible et non punitif. Séparer carnet et projet aide Félix à ne pas confondre participation et réussite corporelle, sans interrompre l’accompagnement nécessaire.",
+      "mirror": [
+        "Devant les cases, vous pouvez demander : « À quoi crois-tu que ce carnet sert ? » La réponse de Félix révèle un malentendu qu’une simple consigne de remplir n’aurait pas montré. Expliquez qui lit les notes et gardez les difficultés pour l’échange avec le soignant. Une sortie ou un rôle apprécié ne doit pas devenir la récompense d’une journée sans fuite."
+      ],
+      "clinical_focus": "Des soins réguliers sans épreuve de réussite",
+      "diagnostic_stage": "known",
+      "sources": [
+        "oms-cddr",
+        "nice-cg99"
+      ],
+      "continuity": {
+        "choice": "Samuel range le carnet médical séparément ; avec Félix il plastifie une copie de la carte sans condition liée aux accidents.",
+        "next": "La copie plastifiée est prête ; Samuel doit aussi faire entendre la charge quotidienne sans la faire porter à Félix."
+      },
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Observer pour les soins, pas pour juger",
+          "text": "Des interventions adaptées à l’enfant, discutées et non punitives, peuvent accompagner la prise en charge de la constipation. Les difficultés à suivre une routine sont à reprendre avec le professionnel, sans imposer un calendrier universel. Un carnet peut soutenir cet échange ; il devient problématique si l’enfant y voit une note sur sa valeur ou une condition d’accès à une activité. L’absence de fuite n’est pas une récompense à obtenir, et une journée difficile n’autorise pas à retirer le projet."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment un outil de suivi peut-il devenir un score ?",
+          "points": [
+            {
+              "heading": "Confondre observation et jugement",
+              "text": "L’enfant peut croire que les notes servent à décider s’il a suffisamment bien fait.",
+              "examples": [
+                "Félix examine les cases avant de parler de son rôle.",
+                "Il suppose qu’une journée sans accident réparera son retrait de la liste."
+              ]
+            },
+            {
+              "heading": "Ignorer la destination des informations",
+              "text": "Le carnet est plus inquiétant lorsque ses lecteurs et son usage restent flous.",
+              "examples": [
+                "Félix demande qui pourra le consulter.",
+                "La présence du plan scolaire à côté lui suggère un lien avec la maîtresse."
+              ]
+            },
+            {
+              "heading": "Ne plus oser signaler une difficulté",
+              "text": "Si l’outil paraît noter la réussite, parler des obstacles peut sembler faire perdre des points.",
+              "examples": [
+                "Félix commence par demander une permission au lieu d’évoquer les routines.",
+                "Samuel ouvre ensuite une place pour ce qui est difficile dans le suivi."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour garder un suivi sans épreuve de réussite",
+          "points": [
+            {
+              "heading": "1. Expliquer le carnet",
+              "objective": "Rendre son usage compréhensible à l’enfant.",
+              "exercise": [
+                "Samuel nomme les informations demandées par la pédiatre.",
+                "Il indique qui les utilise dans le suivi.",
+                "Il répond aux questions de Félix sans lui demander de gérer lui-même les notes."
+              ],
+              "benefit": "La fonction de soin devient plus claire et distincte d’une évaluation scolaire."
+            },
+            {
+              "heading": "2. Discuter des difficultés de routine",
+              "objective": "Préparer un échange utile sans punition.",
+              "exercise": [
+                "Le parent demande ce qui est difficile dans le plan convenu.",
+                "Il note les obstacles avec les mots de l’enfant.",
+                "Il les reprend au cabinet pour discuter des adaptations appropriées."
+              ],
+              "benefit": "La difficulté devient une information à examiner, pas une faute à sanctionner."
+            },
+            {
+              "heading": "3. Séparer le projet du résultat médical",
+              "objective": "Maintenir une activité qui compte pour l’enfant.",
+              "exercise": [
+                "Samuel range le carnet avec les documents de santé.",
+                "Il rappelle que la place de lecteur reste possible indépendamment des fuites.",
+                "Il propose de reprendre le travail de carte si Félix le souhaite."
+              ],
+              "benefit": "La vie scolaire peut continuer pendant les soins, sans condition de journée sans accident."
+            }
+          ]
+        }
+      ]
     }
   ]
 }

@@ -572,6 +572,16 @@
       "design_sha256": "dec7a8f9af711389fe081c21e320e79cb56db47289fd6d920c92d07199fef782",
       "independent_review_sha256": "25935d932f4e45c5bac95a60e9297169147faabfd1db35aa59173f9926d29b3b",
       "review": "Douze épisodes relus indépendamment : désinhibition sociale distincte du tempérament et du TDAH, protection effective, consentement corporel et continuité ; aucune correction ouverte."
+    },
+    "nolwenn": {
+      "date": "2026-11-09",
+      "status": "editorially_reviewed",
+      "article_format": 2,
+      "sha256": "cc910367c525301b09198bacff547baee5dcc9c14dd6fc7145a3be8ae6266997",
+      "dossier_sha256": "7cf37bd3d18c1f12f166a04b8cedbf16b52eb25e378243e49a1fc39e9b0fde50",
+      "design_sha256": "d05cc51566a0f7d6b34791dce8ae3cef7757474f1ddb50f09d7c4a73a6da52bd",
+      "independent_review_sha256": "d5e6362cd5df09e548a27494b2fa01c4760216e566ec44e67e1fe587e1a21c01",
+      "review": "Douze épisodes relus indépendamment : chronologie diagnostique, alimentation, symptôme nouveau réévalué, continuité des images et légendes, proches et absence de tutoriel médical vérifiés. Aucune correction ouverte."
     }
   }
 }

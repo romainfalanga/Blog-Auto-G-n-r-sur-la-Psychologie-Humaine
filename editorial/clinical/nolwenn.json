@@ -941,7 +941,7 @@
       ],
       "clinical_focus": "L’inquiétude avant le rendez-vous collectif",
       "clinical_intro": "L’anticipation d’une gêne peut rendre un moment collectif difficile avant même qu’il commence. Cette inquiétude vécue ne prouve pas qu’elle cause la rumination-régurgitation. Elle peut être abordée dans le suivi et dans l’organisation du travail, avec des appuis choisis qui ne deviennent ni une exposition imposée ni un test de courage.",
-      "opening": "Après la réévaluation de la difficulté à avaler, Nolwenn conserve le suivi et les consignes convenus. La préparation de la présentation reprend dans ce cadre ; personne ne prétend que le diagnostic de rumination-régurgitation aurait expliqué à lui seul le changement. Le dossier bleu contient maintenant les photographies, les notices et le budget vérifié. Le plan plié a retrouvé sa place au milieu des pages.\n\nNolwenn devrait préparer quelques mots pour la réunion de l’équipe. Elle regarde la fenêtre de la cour et commence une phrase, puis imagine la pause suivante. Dans sa tête, tout le monde remarque son absence, attend son retour et se demande ce qu’elle mange. Elle sait que le dernier déjeuner ne s’est pas déroulé ainsi. Cela n’empêche pas cette version future de prendre toute la place.\n\nInès lui demande ce qu’elle veut dire de la première image. Nolwenn répond qu’elle pourrait peut-être présenter le budget à sa place, puis se corrige : elle voudrait garder les images et laisser les chiffres. « Les fenêtres m’écoutent mieux que les additions. » L’humour revient un instant. Elle note pourtant cette inquiétude pour en parler à la spécialiste. Elle ne veut pas qu’une phrase de présentation serve à cacher ce qui pèse sur elle, ni que toute la réunion devienne une séance de soin improvisée.",
+      "opening": "Après la réévaluation de la difficulté à avaler, Nolwenn conserve le suivi et les consignes convenus. La préparation de la présentation reprend dans ce cadre ; personne ne prétend que le diagnostic de rumination-régurgitation aurait expliqué à lui seul le changement. Le dossier bleu contient maintenant les photographies, les notices et le budget vérifié. Le plan plié a retrouvé sa place au milieu des pages.\n\nNolwenn devrait préparer quelques mots pour la réunion de l’équipe. Elle regarde la fenêtre de la cour et commence une phrase, puis imagine la pause suivante. Dans sa tête, tout le monde remarque son absence, attend son retour et se demande ce qu’elle mange. Elle sait que le dernier déjeuner ne s’est pas déroulé ainsi. Cela n’empêche pas cette version future de prendre toute la place.\n\nInès lui demande ce qu’elle veut dire de la première image. Nolwenn commence par proposer de tout laisser à Inès, puis se reprend : elle voudrait garder les images et lui confier les chiffres. « Les fenêtres m’écoutent mieux que les additions. » L’humour revient un instant. Elle note pourtant cette inquiétude pour en parler à la spécialiste. Elle ne veut pas qu’une phrase de présentation serve à cacher ce qui pèse sur elle, ni que toute la réunion devienne une séance de soin improvisée.",
       "sections": [
         {
           "role": "explanation",
@@ -1131,6 +1131,108 @@
       "continuity": {
         "choice": "Nolwenn transmet la fluctuation au suivi ; Inès conserve le budget et elle garde images et légendes, puis le dossier final est assemblé.",
         "next": "Le dossier peut être déposé ; la rencontre qui suivra reste choisie et ne constitue pas un examen de santé."
+      }
+    },
+    {
+      "number": 12,
+      "slug": "nolwenn-projet-accompli-et-suivi",
+      "title": "Rumination-régurgitation : accomplir un projet tout en poursuivant les soins",
+      "description": "Le dossier est remis et Nolwenn retrouve un moment choisi avec l’équipe. La candidature et l’évolution du suivi restent ouvertes.",
+      "context": "Le jour du dépôt du dossier",
+      "topics": [
+        "Trouble de rumination-régurgitation",
+        "Projet accompli",
+        "Continuité du suivi"
+      ],
+      "clinical_focus": "Un projet accompli avec le suivi",
+      "clinical_intro": "Accomplir un projet et retrouver un lien collectif ne signifie pas que la rumination-régurgitation a disparu. Ces réalisations peuvent être reconnues pour elles-mêmes, tout en maintenant le suivi et les adaptations utiles. La personne garde aussi le droit de préparer autre chose, sans faire de son prochain objectif une preuve attendue de guérison.",
+      "opening": "Nolwenn vérifie une dernière fois que les six photographies sont dans l’ordre. La fenêtre de la cour vient toujours en premier. Les notices sont courtes, le budget a été revu par Inès et le plan ne dépasse plus du dossier bleu. L’équipe dépose Les fenêtres de l’atelier pour examen. La remise est accomplie ; l’exposition, elle, n’est pas encore accordée. Il faudra attendre une réponse.\n\nEn ressortant, Nolwenn remarque la place laissée libre dans ses mains. Pendant plusieurs semaines, le dossier l’a accompagnée aux rendez-vous, aux retouches et aux discussions interrompues. Elle pourrait croire qu’une histoire se termine proprement dès que ses pages sont agrafées. Son prochain contact de suivi est pourtant toujours inscrit dans l’agenda, avec les questions que la fin du projet n’a pas résolues.\n\nElle rejoint le moment collectif convenu avec l’équipe, sans avoir promis de rester jusqu’à la fin. Inès lui demande quelle fenêtre elle photographierait pour une prochaine exposition. Nolwenn regarde celle du bâtiment d’en face : un rideau presque blanc laisse passer une bande de lumière. « Presque blanc, ce sera encore une longue discussion », répond-elle. Cette fois, personne ne lui demande de faire le bilan des remontées avant de parler d’une image. Elle peut marquer le dépôt avec les autres et conserver ses limites.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Deux évolutions qui ne se confondent pas",
+          "text": "La participation sociale, l’accomplissement d’un travail et l’évolution clinique ne sont pas des mesures interchangeables. La rumination-régurgitation peut demander un suivi qui se prolonge au-delà d’une étape réussie. Nolwenn a remis un dossier et retrouvé un moment collectif choisi. Ces faits ne prouvent ni l’arrêt des symptômes ni l’efficacité médicale des arrangements entre collègues. Les décisions de soin restent réévaluées dans leur cadre professionnel."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment reconnaître un projet accompli sans fermer le suivi ?",
+          "points": [
+            {
+              "heading": "Une étape réellement terminée",
+              "text": "La réalisation du dossier constitue une réussite du projet, avec ses limites propres.",
+              "examples": [
+                "Les six photographies, les notices, le budget et le plan sont remis ensemble.",
+                "L’équipe attend encore la réponse à la candidature."
+              ]
+            },
+            {
+              "heading": "Une participation à sa mesure",
+              "text": "Le lien collectif peut être retrouvé sans engagement de rester jusqu’au bout.",
+              "examples": [
+                "Nolwenn rejoint le moment prévu après le dépôt.",
+                "Elle conserve la possibilité de s’absenter sans raconter son suivi."
+              ]
+            },
+            {
+              "heading": "Des soins qui continuent",
+              "text": "Le succès d’un travail ne remplace pas l’évaluation clinique ni les contacts convenus.",
+              "examples": [
+                "Nolwenn garde son prochain rendez-vous professionnel.",
+                "Les difficultés alimentaires et les consignes de la réévaluation restent suivies selon les besoins."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour préparer la suite après une réalisation",
+          "points": [
+            {
+              "heading": "Conserver le prochain contact",
+              "objective": "Éviter que la fin du projet efface la continuité des soins.",
+              "exercise": [
+                "Vérifier la date ou la modalité du prochain échange professionnel.",
+                "Garder les questions encore ouvertes pour ce cadre.",
+                "Maintenir les consignes personnelles jusqu’à leur révision avec les soignants."
+              ],
+              "benefit": "Le suivi peut continuer indépendamment de la satisfaction liée au dépôt et de la réponse de l’exposition."
+            },
+            {
+              "heading": "Choisir les appuis à garder",
+              "objective": "Tirer un bilan de l’organisation sociale sans en faire une recette de traitement.",
+              "exercise": [
+                "Nommer ce qui a aidé dans les pauses ou le partage du travail.",
+                "Dire ce que l’on souhaite conserver avec les collègues.",
+                "Prévoir que ces accords pourront être revus selon le prochain contexte."
+              ],
+              "benefit": "Des habitudes relationnelles utiles peuvent rester disponibles sans garantir l’absence de symptômes."
+            },
+            {
+              "heading": "Formuler un prochain projet",
+              "objective": "Garder une perspective personnelle qui ne dépend pas d’une promesse de guérison.",
+              "exercise": [
+                "Choisir une idée qui donne envie de préparer quelque chose.",
+                "La partager avec une personne intéressée si on le souhaite.",
+                "Distinguer cette envie des objectifs cliniques discutés au suivi."
+              ],
+              "benefit": "Un nouveau projet peut prolonger la vie choisie, même lorsque l’évolution du trouble demeure ouverte."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Une autre fenêtre à photographier",
+      "ending": "L’équipe marque la remise du dossier sans annoncer une sélection qui n’a pas encore eu lieu. Nolwenn reste au moment collectif selon ce qui lui convient, puis choisit la fenêtre au rideau clair comme prochaine photographie à préparer. Elle souhaite garder avec Inès les accords de discrétion et de relais, quitte à les revoir. Le prochain contact professionnel est maintenu. Le dossier bleu a rempli sa fonction ; sa vie d’apprentie et le suivi continuent, avec des questions qui n’ont pas besoin d’une réponse unique pour avancer.",
+      "conclusion": "Nolwenn a mené le dossier jusqu’au dépôt et repris un lien collectif à sa mesure. La candidature reste en attente et les soins se poursuivent. Reconnaître cette réalisation permet de garder une perspective personnelle sans transformer la fin du projet en conclusion médicale.",
+      "mirror": [
+        "Inès peut célébrer le dépôt en demandant quelle image Nolwenn préfère, comme elle l’aurait fait pour tout travail commun. Elle peut conserver les accords de discrétion sans réclamer un bilan de santé. Les proches peuvent se réjouir d’une étape accomplie et respecter le maintien des rendez-vous. Une nouvelle photographie à préparer n’oblige pas Nolwenn à promettre que les prochaines pauses seront faciles."
+      ],
+      "sources": [
+        "oms-cddr",
+        "ueg-esnm-2025"
+      ],
+      "continuity": {
+        "choice": "Le dossier est déposé ; Nolwenn rejoint le moment collectif choisi, prépare une nouvelle photographie et maintient les soins.",
+        "next": "Fin de série : réponse à la candidature attendue, lien collectif repris à sa mesure et suivi professionnel poursuivi."
       }
     }
   ]

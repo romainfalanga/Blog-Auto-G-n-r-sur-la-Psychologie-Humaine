@@ -1,0 +1,198 @@
+{
+  "schema_version": 1,
+  "character_id": "agnes",
+  "code": "6B62",
+  "article_format": 2,
+  "bio": "Agnès, 46 ans, est professeure de danse dans un centre culturel où elle travaille depuis plusieurs années. Son État de transe est déjà diagnostiqué : des épisodes involontaires lui font perdre des repères et interrompent parfois ses préparations. Elle veut construire un atelier qui permet de s’arrêter sans attirer l’attention, tout en préservant son lien à une pratique culturelle choisie. Avec une collègue chorégraphe et l’équipe qui la suit, elle distingue ce qu’elle vit, ce qu’elle souhaite partager et les appuis nécessaires pour continuer à enseigner.",
+  "profile_topics": [
+    "État de transe",
+    "épisodes involontaires",
+    "repères et mémoire",
+    "pratiques culturelles choisies",
+    "participation professionnelle"
+  ],
+  "voice": "Agnès parle avec des mots de travail : début, transition, place disponible. Elle plaisante sur les feuilles qu’elle égare sans faire de cette habitude un signe clinique. Elle peut dire je ne sais pas ou je ne souhaite pas le raconter. Son goût du détail chorégraphique appartient à son métier, pas au trouble.",
+  "series_goal": "Construire et tenir un atelier de danse où chacun peut s’arrêter sans attirer l’attention, en partageant réellement l’animation et en préservant le lien d’Agnès à sa pratique culturelle choisie.",
+  "continuity_rules": [
+    "Diagnostic établi avant l’épisode 1 par une équipe professionnelle : known partout. Les consultations des épisodes 3, 6, 7 et 9 concernent un suivi ou une réévaluation, jamais une annonce inaugurale ni un diagnostic posé par Mireille.",
+    "Agnès reste professeure de danse, 46 ans, au même centre ; Mireille est sa collègue chorégraphe, la docteure Valette son interlocutrice clinique. Aucun événement traumatique précis, identité possédante, psychose ou autre diagnostic n’est ajouté.",
+    "La feuille quadrillée reste le support du cours. Les observations de santé sont privées et séparées de la feuille de relais. Épisode 1 et épisode 2 décrivent deux moments du même événement, sans multiplier artificiellement les crises ; les épisodes 3 et 4 en suivent les conséquences.",
+    "Ni rite détaillé ni exercice d’induction. Aucun tempo, répétition, respiration, privation de sommeil ou technique de suggestion pour provoquer ou supprimer un état. Les adaptations se préparent hors épisode et ne remplacent pas le plan individualisé de l’équipe.",
+    "Le premier épisode montre que Mireille reprend la responsabilité du groupe selon leur organisation préalable. Le signal de pause n’est jamais exigé d’Agnès pendant une altération de conscience. Une absence de réponse ne justifie ni reproches ni contact forcé ; sécurité et relais médicaux suivent le plan convenu.",
+    "À l’épisode 7, un nouvel événement inhabituel impose de suspendre la préparation et de contacter un professionnel dans la scène ; la reprise ultérieure attend cette évaluation. Un diagnostic connu ne dispense jamais de rechercher une autre cause. Pas de conduite automobile, travail en hauteur ou exercice physique à risque mis en scène.",
+    "Préserver pratiques culturelles et religieuses choisies, absorption ordinaire et trouble clinique comme réalités distinctes. Une danse choisie ou une croyance ne constitue pas une preuve de trouble ; aucun regard extérieur ne décide seul de la signification culturelle.",
+    "Fin : atelier effectivement organisé et tenu avec partage réel des responsabilités, arrêt possible sans justification publique. Ni disparition garantie des épisodes, ni retour au travail imposé, ni réussite artistique utilisée comme preuve de guérison."
+  ],
+  "episodes": [
+    {
+      "number": 1,
+      "focus": "Le champ de conscience se rétrécit",
+      "scene": "Dans le studio, Agnès prépare avec Mireille un cours pour quelques adultes. Elle perd le fil de ce qui se passe autour d’elle, sans chute ni mise en scène spectaculaire. Mireille reprend l’animation selon leur organisation déjà discutée avec Agnès ; le groupe reste encadré. La feuille quadrillée reste ouverte sur une transition inachevée.",
+      "development": "Manifestation perceptive, CDDR p.378. Distinguer ce qui est observé, ce dont Agnès se souvient et ce qui reste inconnu. Appuis : relais préparé hors épisode ; description factuelle ensuite ; transmission au suivi si nécessaire. Ne pas assimiler à une rêverie ni proposer de fixer un objet pour revenir.",
+      "ending": "Après la fin de l’événement et le temps nécessaire, Agnès choisit de ne pas reprendre le cours ce jour-là. Mireille termine la séance et conserve la feuille.",
+      "next": "Le prochain récit revient sur le même événement à partir d’un geste observé, sans inventer un deuxième épisode.",
+      "source_refs": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "nice-cg138"
+      ],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 2,
+      "focus": "Un geste répété sans intention",
+      "scene": "Le lendemain, Mireille rapporte seulement ce qu’Agnès accepte d’entendre du cours interrompu : elle répétait un bref mouvement de la main et quelques mots, au lieu de donner la suite prévue. Agnès découvre pourquoi sa collègue avait repris le groupe ; sa précision habituelle de chorégraphe n’expliquait pas ce geste.",
+      "development": "Manifestation motrice et verbale distincte de la perception, p.378. Pas de tutoriel, cadence, durée ou imitation de la scène. Appuis : séparer geste choisi et comportement involontaire dans les mots ; convenir de ne pas demander une démonstration ; garder les faits utiles pour le rendez-vous. Le proche ne teste ni contrôle ni volonté.",
+      "ending": "Agnès et Mireille écrivent une observation sobre sur une note privée. La feuille du cours reste dépourvue de cette description.",
+      "next": "Agnès apporte la note au rendez-vous car sa propre mémoire du cours est incomplète.",
+      "source_refs": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "nice-cg138"
+      ],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 3,
+      "focus": "Des souvenirs restent incomplets",
+      "scene": "Au rendez-vous prévu, Agnès ne retrouve pas l’ordre de certains instants du cours. La docteure Valette lui permet de distinguer ses souvenirs du récit de Mireille, sans lui demander de combler les blancs. Le diagnostic était déjà posé avant ce cours.",
+      "development": "Amnésie partielle possible, non obligatoire, p.379 et 382. Appuis : noter ce qui est certain ; laisser explicitement les blancs ; poser une question au professionnel. Aucun souvenir retrouvé par imagination ni diagnostic séparé d’amnésie déduit de ce seul épisode.",
+      "ending": "Elle garde deux phrases factuelles et laisse le reste inconnu. L’équipe ajuste avec elle les modalités de contact utiles ; Agnès ne cherche plus à produire une version exhaustive.",
+      "next": "Au retour, elle constate que la fin de l’épisode n’a pas rendu toute son énergie.",
+      "source_refs": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "nice-cg138"
+      ],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 4,
+      "focus": "La fatigue après l’épisode",
+      "scene": "Chez elle après ce point de suivi, Agnès voudrait finir la transition du cours. La fatigue qui a suivi l’événement persiste dans son vécu et la préparation lui coûte davantage ; elle appelle Mireille pour reporter leur séance de travail, sans fixer un délai de récupération universel.",
+      "development": "Retentissement après épisode documenté p.380, à distinguer d’un état causé par épuisement. Appuis : différer une tâche non urgente ; répartir la préparation ; signaler au professionnel une fatigue inhabituelle ou persistante. Ni prescription de sommeil ni explication neurobiologique.",
+      "ending": "Mireille accepte de revoir la maquette un autre jour ; Agnès conserve une seule page à discuter. Elle ne se déclare pas guérie parce qu’elle a pu téléphoner.",
+      "next": "La nouvelle maquette doit préserver ce qu’Agnès choisit dans sa pratique culturelle.",
+      "source_refs": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "nice-cg138"
+      ],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 5,
+      "focus": "Une pratique choisie garde son sens",
+      "scene": "Lors de leur prochaine préparation, Mireille propose de supprimer toute référence à la pratique culturelle d’Agnès. Celle-ci explique que ses moments choisis et reconnus dans sa communauté ne sont pas les épisodes involontaires suivis par l’équipe. Elles parlent du programme, sans accomplir ni décrire de rituel.",
+      "development": "Frontière culturelle, p.377–379. L’absorption ordinaire dans une activité n’est pas à diagnostiquer ; le respect d’une pratique ne permet pas non plus de négliger une souffrance involontaire distincte. Appuis : demander le sens donné par Agnès ; séparer décisions artistiques et médicales ; réserver une question au suivi en cas de doute.",
+      "ending": "Elles conservent une place à la culture dans la présentation du cours et retirent une formulation qui assimilait danse et trouble.",
+      "next": "Le mot transe sur une brochure amène une autre confusion, cette fois avec une identité de remplacement.",
+      "source_refs": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "nice-cg138"
+      ],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 6,
+      "focus": "Transe ne signifie pas possession",
+      "scene": "Pendant une consultation de suivi, Agnès apporte une brochure où elle a lu les deux termes ensemble. Elle ne décrit pas d’autre identité qui la remplacerait. La docteure Valette reprend la distinction clinique sans discuter la valeur de ses convictions ni lui demander d’adopter un vocabulaire spirituel.",
+      "development": "Différentiel 6B62/6B63, p.377–378 et 381. Ne pas inférer une possession à partir de gestes inhabituels, ni une psychose d’une croyance. Appuis : formuler la confusion ; demander une explication accessible ; convenir des mots qu’Agnès souhaite employer auprès de Mireille. Aucun tableau de critères à s’appliquer.",
+      "ending": "Agnès choisit de parler d’épisodes involontaires à sa collègue et garde le compte rendu clinique pour elle.",
+      "next": "Un événement différent pendant la préparation suivante montrera que ces mots ne suffisent pas à attribuer chaque malaise au trouble connu.",
+      "source_refs": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "nice-cg138"
+      ],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 7,
+      "focus": "Un changement exige une nouvelle évaluation",
+      "scene": "Quelques jours plus tard, avant une préparation sans élèves, Agnès décrit à Mireille un malaise récent inhabituel et une incertitude sur une possible perte de connaissance. Elles suspendent la répétition et contactent le service médical dans la scène. Le professionnel organise l’évaluation adaptée ; si la récupération est incomplète ou la situation urgente, le relais urgent s’impose sans attendre un cours.",
+      "development": "Différentiel médical p.378 et 382 ; NICE CG109 1.1.1–1.1.2 ; NG217 1.2.6. Appuis : raconter avant/pendant/après sans interpréter ; transmettre les traitements au clinicien ; suivre les modalités de réévaluation. Ne pas conclure que tout vient du stress ou qu’un EEG normal exclut l’épilepsie ; ne pas inventer résultats ou cause nouvelle.",
+      "ending": "La préparation est annulée et l’évaluation a lieu. Le suivi se poursuit avec les indications données ; la reprise du travail sera décidée selon la situation, sans certificat fictif ni assurance que tout malaise est bénin.",
+      "next": "Après ce point médical et lorsque la reprise est possible, Agnès examine la façon dont le dispositif de pause peut réellement fonctionner.",
+      "source_refs": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "nice-cg138",
+        "nice-cg109",
+        "nice-ng217"
+      ],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 8,
+      "focus": "Le contrôle ne revient pas sur commande",
+      "scene": "À la reprise convenue après l’évaluation, Mireille dessine une carte que la professeure devrait lever avant chaque interruption. Agnès rappelle qu’elle ne pouvait pas décider ainsi pendant l’événement du premier cours. Leur projet doit permettre un relais même si aucun signal n’a été envoyé.",
+      "development": "Vécu de perte de maîtrise p.378, différent de l’apparence du geste en épisode 2. Appuis : reconnaître les limites du signal ; définir hors épisode les responsabilités ; demander à l’équipe clinique ce qui convient dans le plan de soutien. Pas d’exercice pour résister à une transe ni culpabilité d’avoir oublié le signal.",
+      "ending": "La carte devient un moyen facultatif de demander une pause ordinaire, jamais un prérequis à l’aide. Mireille inscrit son relais sur la feuille pratique.",
+      "next": "Le besoin de tout prévoir conduit Agnès à chercher un lien trop certain entre les événements de sa semaine et ses épisodes.",
+      "source_refs": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "nice-cg138"
+      ],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 9,
+      "focus": "Les circonstances ne prouvent pas une cause",
+      "scene": "Au suivi, Agnès montre quelques notes : un désaccord au centre, un cours agréable, une journée difficile. Elle voudrait une règle qui expliquerait chaque épisode. La docteure Valette écoute sans transformer ces rapprochements en preuve d’un traumatisme ni demander de raconter ce qu’Agnès préfère garder privé.",
+      "development": "Contexte et causalité, p.380 et limites du dossier. Appuis : décrire un fait et sa date sans interprétation ; distinguer hypothèse et certitude ; choisir avec le professionnel ce qu’il est utile de suivre. Aucun dépistage improvisé, journal exhaustif, souvenir forcé ou explication protectrice automatique.",
+      "ending": "Agnès conserve seulement les observations utiles à son suivi. La feuille du cours reste un outil artistique, pas une carte de prétendus déclencheurs.",
+      "next": "Elle retourne préparer un essai sans pouvoir prédire exactement comment se déroulera la semaine.",
+      "source_refs": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "nice-cg138"
+      ],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 10,
+      "focus": "La récurrence reste variable",
+      "scene": "Deux préparations ont été possibles puis un épisode involontaire interrompt un nouvel essai encadré par Mireille. Le relais convenu fonctionne ; le récit reste sobre et ne rejoue pas le détail du premier événement. Agnès se demande ensuite si tout son travail a été inutile.",
+      "development": "Évolution variable p.380. Ne pas attribuer la récidive à un mauvais exercice, une faute ou une preuve de cause cachée. Appuis : différencier résultat clinique et fonctionnement du relais ; transmettre un changement au suivi ; réviser les engagements pratiques. Pas de courbe promise ni d’obligation d’augmenter une exposition.",
+      "ending": "Le groupe a pu être pris en charge sans qu’Agnès démontre son contrôle. Elle accepte de poursuivre la préparation avec une responsabilité partagée, sous réserve de ses besoins de santé.",
+      "next": "Le succès du relais révèle néanmoins que la préparation entière repose encore trop sur elle.",
+      "source_refs": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "nice-cg138"
+      ],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 11,
+      "focus": "Le travail tient au prix d’efforts",
+      "scene": "En relisant les feuilles, Agnès s’aperçoit qu’elle a préparé trois versions du même cours pour masquer toute interruption possible. Mireille ne voyait que les séances terminées. Elles mettent à plat la répartition réelle de la préparation et du cours final.",
+      "development": "Retentissement professionnel et effort supplémentaire p.378 ; communication individualisée CG138. Ce surtravail est un choix de la fiction, pas un critère supplémentaire ni un trait obligatoire. Appuis : nommer une charge précise ; répartir une responsabilité entière ; préserver les informations médicales dans le partage pratique.",
+      "ending": "Mireille prend entièrement en charge la transition centrale, préparation comprise. La feuille finale indique qui anime chaque partie et comment prendre une pause sans justification publique.",
+      "next": "Le dernier atelier pourra tester cette organisation réelle, sans servir d’épreuve de guérison.",
+      "source_refs": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "nice-cg138"
+      ],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 12,
+      "focus": "Participer avec des appuis durables",
+      "scene": "Le jour de l’atelier, Agnès présente les possibilités de pause à tous. Elle choisit de s’asseoir pendant la transition confiée à Mireille, qui poursuit sa propre proposition artistique. Le groupe ne se tourne pas vers elle pour obtenir une explication ; cette pause volontaire n’est pas racontée comme un épisode de transe.",
+      "development": "Participation et suivi durable : retentissement et variabilité OMS, individualisation CG138. Appuis : rendre l’arrêt praticable pour tous ; garder une responsabilité partagée ; prévoir un bilan pratique séparé du suivi clinique. L’aménagement permet le projet, son effet sur la fréquence des épisodes n’est pas démontré.",
+      "ending": "L’atelier a eu lieu et le droit de s’arrêter a réellement fonctionné. Agnès range la feuille quadrillée avec une idée pour une prochaine séquence ; elle garde son suivi et le lien à sa pratique culturelle.",
+      "next": "La série clôt l’enjeu de l’atelier, sans fermer la vie d’Agnès ni promettre la disparition des épisodes ; aucun treizième épisode annoncé.",
+      "source_refs": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "nice-cg138"
+      ],
+      "diagnostic_stage": "known"
+    }
+  ]
+}

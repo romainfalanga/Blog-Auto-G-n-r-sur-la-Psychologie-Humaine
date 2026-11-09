@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "as_of": "2026-11-07",
+  "as_of": "2026-11-09",
   "scope": "État éditorial vérifiable, sans prétention à épuiser tous les concepts de la psychologie.",
   "icd11_reference": {
     "name": "CIM-11 MMS",
@@ -24,15 +24,15 @@
     "other_frameworks": "APA pédagogique, RDoC recherche et CIF fonctionnement restent des grilles distinctes."
   },
   "counts": {
-    "articles": 1239,
-    "characters": 104,
-    "clinical_arcs": 71,
-    "clinical_episodes": 852,
+    "articles": 1251,
+    "characters": 105,
+    "clinical_arcs": 72,
+    "clinical_episodes": 864,
     "original_articles_reviewed": 387,
     "icd11_chapter06_codes": 858,
     "icd11_ungrouped_codes": 10,
-    "icd11_primary_arcs": 67,
-    "clinical_cases_pending": 83,
+    "icd11_primary_arcs": 68,
+    "clinical_cases_pending": 82,
     "other_published_arcs": 4,
     "internal_patterns": 161,
     "internal_patterns_indexed": 161
@@ -123,8 +123,7 @@
       "statuses": {
         "editorial_mapping_only": 7,
         "no_standalone_arc_planned": 6,
-        "pending_editorial_case": 1,
-        "published_primary_arc": 5
+        "published_primary_arc": 6
       }
     },
     {
@@ -4711,12 +4710,30 @@
       "label": "Trouble de rumination-régurgitation",
       "group_id": "BlockL1-6B8",
       "editorial_status": "parcours",
-      "coverage_status": "pending_editorial_case",
+      "coverage_status": "published_primary_arc",
       "reason": "diagnostic_distinct",
       "candidate_ids": [
         "nolwenn"
       ],
-      "published_primary": null,
+      "published_primary": {
+        "character_id": "nolwenn",
+        "name": "Nolwenn",
+        "reviewed_on": "2026-11-09",
+        "articles": [
+          "posts/comprendre-et-maitriser-ses-emotions/nolwenn-apprentissage-accompagne",
+          "posts/comprendre-et-maitriser-ses-emotions/nolwenn-decrire-sans-conclure",
+          "posts/comprendre-et-maitriser-ses-emotions/nolwenn-diagnostic-sans-culpabilite",
+          "posts/comprendre-et-maitriser-ses-emotions/nolwenn-fluctuations-et-progres",
+          "posts/comprendre-et-maitriser-ses-emotions/nolwenn-honte-et-secret",
+          "posts/comprendre-et-maitriser-ses-emotions/nolwenn-inquietude-avant-presentation",
+          "posts/comprendre-et-maitriser-ses-emotions/nolwenn-place-a-table",
+          "posts/comprendre-et-maitriser-ses-emotions/nolwenn-projet-accompli-et-suivi",
+          "posts/comprendre-et-maitriser-ses-emotions/nolwenn-remontees-apres-repas",
+          "posts/comprendre-et-maitriser-ses-emotions/nolwenn-repas-evites",
+          "posts/comprendre-et-maitriser-ses-emotions/nolwenn-reponse-sans-jugement",
+          "posts/comprendre-et-maitriser-ses-emotions/nolwenn-symptome-nouveau"
+        ]
+      },
       "reference_url": "https://icd.who.int/browse/2026-01/mms/fr#1205760590"
     },
     {
@@ -12384,13 +12401,6 @@
       "name": "Évaëlle",
       "code": "6B65",
       "label": "Trouble dissociatif de l'identité partiel",
-      "decision": "À documenter puis choisir entre récit, comparaison et dossier."
-    },
-    {
-      "character_id": "nolwenn",
-      "name": "Nolwenn",
-      "code": "6B85",
-      "label": "Trouble de rumination-régurgitation",
       "decision": "À documenter puis choisir entre récit, comparaison et dossier."
     },
     {

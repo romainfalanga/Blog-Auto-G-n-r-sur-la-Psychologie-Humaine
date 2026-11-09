@@ -29491,6 +29491,486 @@
     "clinical_code": "6B20",
     "clinical_diagnosis": "Trouble obsessionnel-compulsif"
   },
+  "posts/comprendre-et-maitriser-ses-emotions/nolwenn-apprentissage-accompagne": {
+    "character": "Nolwenn",
+    "character_id": "nolwenn",
+    "keywords": [
+      "Trouble de rumination-régurgitation",
+      "Soin accompagné",
+      "Consignes individualisées"
+    ],
+    "character_keywords": [
+      "Trouble de rumination-régurgitation",
+      "remontées après les repas",
+      "honte et confidentialité",
+      "suivi professionnel",
+      "repas collectifs"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "8e6f333114d522e4d6d4cf8f14eb87702f165cf99d948aa6fabce818892c8406",
+    "summary": "L’agenda de Nolwenn ressemble à une planche de contacts : petites cases, retouches partout, une flèche qui relie deux rendez-vous. L’échange demandé sur les repas évités a eu lieu ; cette difficulté fait désormais partie de l’accompagnement à réévaluer avec les soignants. La séance d’aujourd’hui s’ajoute à ce suivi, elle ne l’efface pas. Nolwenn a placé les photographies à classer dans son sac pour l’après-midi.\n\n[…]\n\nNolwenn repart avec un cadre personnel donné par la spécialiste et un moyen de la recontacter. Les points difficiles ont été entendus ; aucun résultat immédiat n’a été exigé. À l’atelier, elle classe les photographies retenues dans six pochettes et laisse de côté les essais à comparer plus tard. Elle sait que le prochain rendez-vous ne servira pas seulement à montrer ce qui a fonctionné. Les difficultés et l’organisation des repas y auront aussi leur place.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "L’agenda de Nolwenn ressemble à une planche de contacts : petites cases, retouches partout, une flèche qui relie deux rendez-vous. L’échange demandé sur les repas évités a eu lieu ; cette difficulté fait désormais partie de l’accompagnement à réévaluer avec les soignants. La séance d’aujourd’hui s’ajoute à ce suivi, elle ne l’efface pas. Nolwenn a placé les photographies à classer dans son sac pour l’après-midi.",
+        "start": 2,
+        "end": 417
+      },
+      {
+        "quote": "Nolwenn repart avec un cadre personnel donné par la spécialiste et un moyen de la recontacter. Les points difficiles ont été entendus ; aucun résultat immédiat n’a été exigé. À l’atelier, elle classe les photographies retenues dans six pochettes et laisse de côté les essais à comparer plus tard. Elle sait que le prochain rendez-vous ne servira pas seulement à montrer ce qui a fonctionné. Les difficultés et l’organisation des repas y auront aussi leur place.",
+        "start": 4145,
+        "end": 4606
+      }
+    ],
+    "canonical_concept": "Apprendre avec une professionnelle",
+    "context": "À la première séance d’apprentissage",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour participer au dialogue de soin"
+    ],
+    "clinical_code": "6B85",
+    "clinical_diagnosis": "Trouble de rumination-régurgitation"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/nolwenn-decrire-sans-conclure": {
+    "character": "Nolwenn",
+    "character_id": "nolwenn",
+    "keywords": [
+      "Remontées alimentaires",
+      "Évaluation médicale",
+      "Description des symptômes"
+    ],
+    "character_keywords": [
+      "Trouble de rumination-régurgitation",
+      "remontées après les repas",
+      "honte et confidentialité",
+      "suivi professionnel",
+      "repas collectifs"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "d94b995b62fff2601f5137aced23c91d7e9634291187f3eadcd3ce1198bb37b2",
+    "summary": "Les tirages dépassent légèrement du sac de Nolwenn. Elle les a emportés parce qu’elle doit rejoindre l’atelier après le rendez-vous, mais elle vérifie maintenant leur présence comme pour se rappeler ce qu’elle sait expliquer. Sur une photographie, elle pourrait montrer immédiatement le bord à reprendre. Devant le médecin, elle commence par : « C’est comme si je vomissais. » Puis elle hésite. Ce mot ne lui paraît pas décrire exactement les aliments qui remontent.\n\n[…]\n\nUn rendez-vous spécialisé est organisé dans la suite du bilan. Nolwenn demande comment reprendre contact si quelque chose change avant cette étape. À l’atelier, elle confie à Inès les prises de vue et garde la rédaction des légendes. « Je leur promets de ne pas écrire un roman sous chaque fenêtre. » Inès accepte cette répartition. Les tirages sont sortis du sac ; les questions médicales, elles, restent confiées aux rendez-vous prévus dans les semaines suivantes.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Les tirages dépassent légèrement du sac de Nolwenn. Elle les a emportés parce qu’elle doit rejoindre l’atelier après le rendez-vous, mais elle vérifie maintenant leur présence comme pour se rappeler ce qu’elle sait expliquer. Sur une photographie, elle pourrait montrer immédiatement le bord à reprendre. Devant le médecin, elle commence par : « C’est comme si je vomissais. » Puis elle hésite. Ce mot ne lui paraît pas décrire exactement les aliments qui remontent.",
+        "start": 2,
+        "end": 468
+      },
+      {
+        "quote": "Un rendez-vous spécialisé est organisé dans la suite du bilan. Nolwenn demande comment reprendre contact si quelque chose change avant cette étape. À l’atelier, elle confie à Inès les prises de vue et garde la rédaction des légendes. « Je leur promets de ne pas écrire un roman sous chaque fenêtre. » Inès accepte cette répartition. Les tirages sont sortis du sac ; les questions médicales, elles, restent confiées aux rendez-vous prévus dans les semaines suivantes.",
+        "start": 4170,
+        "end": 4636
+      }
+    ],
+    "canonical_concept": "Décrire sans conclure au reflux",
+    "context": "Au premier rendez-vous médical",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour clarifier le prochain échange médical"
+    ],
+    "clinical_code": "6B85",
+    "clinical_diagnosis": "Trouble de rumination-régurgitation"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/nolwenn-diagnostic-sans-culpabilite": {
+    "character": "Nolwenn",
+    "character_id": "nolwenn",
+    "keywords": [
+      "Trouble de rumination-régurgitation",
+      "Sens du diagnostic",
+      "Culpabilité"
+    ],
+    "character_keywords": [
+      "Trouble de rumination-régurgitation",
+      "remontées après les repas",
+      "honte et confidentialité",
+      "suivi professionnel",
+      "repas collectifs"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "d26a5997b6c254aed1086ecd150c5d8b1fe366ecb2752cec35042995746b1b6a",
+    "summary": "Quelques semaines ont passé depuis le premier rendez-vous. Les photographies prises par Inès sont maintenant rangées dans le dossier bleu, avec deux emplacements encore vides pour les premières légendes. Nolwenn les regarde avant de partir à la consultation suivante. Elle a trouvé six formulations, puis les a presque toutes barrées. Elle sait reconnaître une phrase trop longue ; elle sait moins bien quoi faire de la question qui lui revient : est-ce qu’elle provoque tout elle-même ?\n\n[…]\n\nNolwenn reformule ce qu’elle a compris et accepte une première séance de suivi. Elle repart avec ce cadre à discuter, sans promesse que les remontées cesseront dès le prochain déjeuner. Le soir, elle termine deux légendes : assez courtes pour laisser les images respirer, dit-elle à Inès. Elle aimerait aussi lui expliquer pourquoi certaines pauses sont devenues difficiles. Le compte rendu restera privé ; quelques mots choisis pourraient suffire à leur conversation.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Quelques semaines ont passé depuis le premier rendez-vous. Les photographies prises par Inès sont maintenant rangées dans le dossier bleu, avec deux emplacements encore vides pour les premières légendes. Nolwenn les regarde avant de partir à la consultation suivante. Elle a trouvé six formulations, puis les a presque toutes barrées. Elle sait reconnaître une phrase trop longue ; elle sait moins bien quoi faire de la question qui lui revient : est-ce qu’elle provoque tout elle-même ?",
+        "start": 2,
+        "end": 489
+      },
+      {
+        "quote": "Nolwenn reformule ce qu’elle a compris et accepte une première séance de suivi. Elle repart avec ce cadre à discuter, sans promesse que les remontées cesseront dès le prochain déjeuner. Le soir, elle termine deux légendes : assez courtes pour laisser les images respirer, dit-elle à Inès. Elle aimerait aussi lui expliquer pourquoi certaines pauses sont devenues difficiles. Le compte rendu restera privé ; quelques mots choisis pourraient suffire à leur conversation.",
+        "start": 4281,
+        "end": 4749
+      }
+    ],
+    "canonical_concept": "Comprendre le diagnostic sans culpabilité",
+    "context": "À la consultation suivant le bilan",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour demander une explication sans culpabilité"
+    ],
+    "clinical_code": "6B85",
+    "clinical_diagnosis": "Trouble de rumination-régurgitation"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/nolwenn-fluctuations-et-progres": {
+    "character": "Nolwenn",
+    "character_id": "nolwenn",
+    "keywords": [
+      "Trouble de rumination-régurgitation",
+      "Fluctuations",
+      "Organisation du projet"
+    ],
+    "character_keywords": [
+      "Trouble de rumination-régurgitation",
+      "remontées après les repas",
+      "honte et confidentialité",
+      "suivi professionnel",
+      "repas collectifs"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "478e0ddc7aafdbe8a73698b982aa0730a5d708014a4c4dc7249d46121e1be9d9",
+    "summary": "Nolwenn reconnaît la première phrase avant même de regarder sa note. Elle l’a répétée avec Inès : la fenêtre de la cour ouvre le parcours parce qu’elle laisse voir à la fois un intérieur et un dehors. Devant toute l’équipe, elle commence avec cette idée. Le dossier bleu est posé au bord de la table, prêt à passer de main en main pour la dernière vérification avant dépôt.\n\n[…]\n\nNolwenn reprend le contact de suivi prévu et transmet ce qui a changé dans la répétition, sans modifier seule l’accompagnement. Avec l’équipe, elle confirme qu’Inès présentera le budget. Elle garde les photographies et les légendes, qu’elle reprend dans un format réalisable ce jour-là. Les pages sont assemblées en version finale. Le dossier peut être déposé. Le moment collectif prévu après la remise reste une invitation, et personne ne lui demande de promettre une présence sans interruption.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Nolwenn reconnaît la première phrase avant même de regarder sa note. Elle l’a répétée avec Inès : la fenêtre de la cour ouvre le parcours parce qu’elle laisse voir à la fois un intérieur et un dehors. Devant toute l’équipe, elle commence avec cette idée. Le dossier bleu est posé au bord de la table, prêt à passer de main en main pour la dernière vérification avant dépôt.",
+        "start": 2,
+        "end": 375
+      },
+      {
+        "quote": "Nolwenn reprend le contact de suivi prévu et transmet ce qui a changé dans la répétition, sans modifier seule l’accompagnement. Avec l’équipe, elle confirme qu’Inès présentera le budget. Elle garde les photographies et les légendes, qu’elle reprend dans un format réalisable ce jour-là. Les pages sont assemblées en version finale. Le dossier peut être déposé. Le moment collectif prévu après la remise reste une invitation, et personne ne lui demande de promettre une présence sans interruption.",
+        "start": 4055,
+        "end": 4551
+      }
+    ],
+    "canonical_concept": "Des fluctuations malgré les progrès",
+    "context": "Lors de la répétition avec l’équipe",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour ajuster le projet après une journée difficile"
+    ],
+    "clinical_code": "6B85",
+    "clinical_diagnosis": "Trouble de rumination-régurgitation"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/nolwenn-honte-et-secret": {
+    "character": "Nolwenn",
+    "character_id": "nolwenn",
+    "keywords": [
+      "Trouble de rumination-régurgitation",
+      "Honte",
+      "Confidentialité"
+    ],
+    "character_keywords": [
+      "Trouble de rumination-régurgitation",
+      "remontées après les repas",
+      "honte et confidentialité",
+      "suivi professionnel",
+      "repas collectifs"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "1453895da0ea574040f1fdab71b4bc4aeb6b7909a3a7ef3c66c275ead77c7135",
+    "summary": "Inès pose les photographies à côté des deux légendes terminées. Elle dit qu’elle peut travailler seule sur les notices pendant le déjeuner, puisque Nolwenn semble préférer rester à l’écart. La phrase n’est pas un reproche. C’est précisément ce qui serre Nolwenn : son absence a fini par devenir, pour les autres, une préférence qu’elle n’a jamais exprimée. Elle voulait éviter une gêne, pas demander à disparaître de la table.\n\n[…]\n\nNolwenn propose à Inès de parler quelques minutes à deux. Elle explique que des remontées compliquent certains repas et qu’un suivi est engagé. Elle ne lui montre pas le compte rendu. Elle demande surtout que ses absences ne soient pas commentées devant le groupe. Inès accepte et lui demande quand elles reprendront les notices. Elles fixent un créneau. Le malentendu recule, mais Nolwenn remarque qu’elle reporte parfois aussi l’occasion de manger, même lorsqu’elle n’est plus entourée.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Inès pose les photographies à côté des deux légendes terminées. Elle dit qu’elle peut travailler seule sur les notices pendant le déjeuner, puisque Nolwenn semble préférer rester à l’écart. La phrase n’est pas un reproche. C’est précisément ce qui serre Nolwenn : son absence a fini par devenir, pour les autres, une préférence qu’elle n’a jamais exprimée. Elle voulait éviter une gêne, pas demander à disparaître de la table.",
+        "start": 2,
+        "end": 428
+      },
+      {
+        "quote": "Nolwenn propose à Inès de parler quelques minutes à deux. Elle explique que des remontées compliquent certains repas et qu’un suivi est engagé. Elle ne lui montre pas le compte rendu. Elle demande surtout que ses absences ne soient pas commentées devant le groupe. Inès accepte et lui demande quand elles reprendront les notices. Elles fixent un créneau. Le malentendu recule, mais Nolwenn remarque qu’elle reporte parfois aussi l’occasion de manger, même lorsqu’elle n’est plus entourée.",
+        "start": 4027,
+        "end": 4515
+      }
+    ],
+    "canonical_concept": "La honte qui entretient le secret",
+    "context": "À l’atelier entre deux relectures",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour choisir ce que l’on partage"
+    ],
+    "clinical_code": "6B85",
+    "clinical_diagnosis": "Trouble de rumination-régurgitation"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/nolwenn-inquietude-avant-presentation": {
+    "character": "Nolwenn",
+    "character_id": "nolwenn",
+    "keywords": [
+      "Trouble de rumination-régurgitation",
+      "Inquiétude anticipée",
+      "Relais dans le travail"
+    ],
+    "character_keywords": [
+      "Trouble de rumination-régurgitation",
+      "remontées après les repas",
+      "honte et confidentialité",
+      "suivi professionnel",
+      "repas collectifs"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "d1bc1f4674ddd1064b392a2489a77ba6263c002d7611a2f739ba7b63a328addb",
+    "summary": "Après la réévaluation de la difficulté à avaler, Nolwenn conserve le suivi et les consignes convenus. La préparation de la présentation reprend dans ce cadre ; personne ne prétend que le diagnostic de rumination-régurgitation aurait expliqué à lui seul le changement. Le dossier bleu contient maintenant les photographies, les notices et le budget vérifié. Le plan plié a retrouvé sa place au milieu des pages.\n\n[…]\n\nNolwenn transmet cette inquiétude à la spécialiste dans le suivi prévu. Avec Inès, elle essaie ensuite une première phrase sur la lumière de la cour, rien de plus. Inès accepte de prendre le budget. Nolwenn confirme sa présence avec la possibilité de sortir et de reprendre connaissance des décisions. L’essai à deux lui semble possible. Elle garde cependant le prochain contact professionnel et sait que la répétition avec toute l’équipe pourra se dérouler autrement.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Après la réévaluation de la difficulté à avaler, Nolwenn conserve le suivi et les consignes convenus. La préparation de la présentation reprend dans ce cadre ; personne ne prétend que le diagnostic de rumination-régurgitation aurait expliqué à lui seul le changement. Le dossier bleu contient maintenant les photographies, les notices et le budget vérifié. Le plan plié a retrouvé sa place au milieu des pages.",
+        "start": 2,
+        "end": 412
+      },
+      {
+        "quote": "Nolwenn transmet cette inquiétude à la spécialiste dans le suivi prévu. Avec Inès, elle essaie ensuite une première phrase sur la lumière de la cour, rien de plus. Inès accepte de prendre le budget. Nolwenn confirme sa présence avec la possibilité de sortir et de reprendre connaissance des décisions. L’essai à deux lui semble possible. Elle garde cependant le prochain contact professionnel et sait que la répétition avec toute l’équipe pourra se dérouler autrement.",
+        "start": 4193,
+        "end": 4661
+      }
+    ],
+    "canonical_concept": "L’inquiétude avant le rendez-vous collectif",
+    "context": "À la préparation de la présentation collective",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour préparer la rencontre sans en faire une épreuve"
+    ],
+    "clinical_code": "6B85",
+    "clinical_diagnosis": "Trouble de rumination-régurgitation"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/nolwenn-place-a-table": {
+    "character": "Nolwenn",
+    "character_id": "nolwenn",
+    "keywords": [
+      "Trouble de rumination-régurgitation",
+      "Participation choisie",
+      "Repas collectifs"
+    ],
+    "character_keywords": [
+      "Trouble de rumination-régurgitation",
+      "remontées après les repas",
+      "honte et confidentialité",
+      "suivi professionnel",
+      "repas collectifs"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "1ea118e03e6db2429a9fd9f707aa23dbe87c0785fab79f86854de4e1c907fe15",
+    "summary": "Inès propose de déplier le plan pendant le déjeuner. Il reste à décider dans quel ordre les six fenêtres seront présentées et comment les notices accompagneront les images. Nolwenn a envie d’être là pour cette discussion. Elle imagine déjà un accrochage où la première photographie donne envie de chercher la suivante. Puis elle pense à la table, aux questions possibles et aux regards qu’elle redoute sur son repas.\n\n[…]\n\nNolwenn reste un moment, puis s’absente. La discussion continue comme convenu. Lorsqu’elle revient, Inès lui montre deux possibilités d’ordre sur le plan, sans lui demander de raconter la sortie. Nolwenn défend la fenêtre de la cour et obtient qu’elle ouvre le parcours. Cette reprise du lien lui a plu, même si elle ne résout pas les difficultés de repas. Plus tard, une gêne différente en avalant viendra demander une autre réponse que les arrangements de table.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Inès propose de déplier le plan pendant le déjeuner. Il reste à décider dans quel ordre les six fenêtres seront présentées et comment les notices accompagneront les images. Nolwenn a envie d’être là pour cette discussion. Elle imagine déjà un accrochage où la première photographie donne envie de chercher la suivante. Puis elle pense à la table, aux questions possibles et aux regards qu’elle redoute sur son repas.",
+        "start": 2,
+        "end": 418
+      },
+      {
+        "quote": "Nolwenn reste un moment, puis s’absente. La discussion continue comme convenu. Lorsqu’elle revient, Inès lui montre deux possibilités d’ordre sur le plan, sans lui demander de raconter la sortie. Nolwenn défend la fenêtre de la cour et obtient qu’elle ouvre le parcours. Cette reprise du lien lui a plu, même si elle ne résout pas les difficultés de repas. Plus tard, une gêne différente en avalant viendra demander une autre réponse que les arrangements de table.",
+        "start": 4038,
+        "end": 4502
+      }
+    ],
+    "canonical_concept": "Reprendre une place à table",
+    "context": "Au déjeuner où se discute le plan",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour organiser un moment collectif choisi"
+    ],
+    "clinical_code": "6B85",
+    "clinical_diagnosis": "Trouble de rumination-régurgitation"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/nolwenn-projet-accompli-et-suivi": {
+    "character": "Nolwenn",
+    "character_id": "nolwenn",
+    "keywords": [
+      "Trouble de rumination-régurgitation",
+      "Projet accompli",
+      "Continuité du suivi"
+    ],
+    "character_keywords": [
+      "Trouble de rumination-régurgitation",
+      "remontées après les repas",
+      "honte et confidentialité",
+      "suivi professionnel",
+      "repas collectifs"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "900f9ee30142fea06871fdb191c5dc1a17413d8e2722cd32b3056abae5ef2d52",
+    "summary": "Nolwenn vérifie une dernière fois que les six photographies sont dans l’ordre. La fenêtre de la cour vient toujours en premier. Les notices sont courtes, le budget a été revu par Inès et le plan ne dépasse plus du dossier bleu. L’équipe dépose Les fenêtres de l’atelier pour examen. La remise est accomplie ; l’exposition, elle, n’est pas encore accordée. Il faudra attendre une réponse.\n\n[…]\n\nL’équipe marque la remise du dossier sans annoncer une sélection qui n’a pas encore eu lieu. Nolwenn reste au moment collectif selon ce qui lui convient, puis choisit la fenêtre au rideau clair comme prochaine photographie à préparer. Elle souhaite garder avec Inès les accords de discrétion et de relais, quitte à les revoir. Le prochain contact professionnel est maintenu. Le dossier bleu a rempli sa fonction ; sa vie d’apprentie et le suivi continuent, avec des questions qui n’ont pas besoin d’une réponse unique pour avancer.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Nolwenn vérifie une dernière fois que les six photographies sont dans l’ordre. La fenêtre de la cour vient toujours en premier. Les notices sont courtes, le budget a été revu par Inès et le plan ne dépasse plus du dossier bleu. L’équipe dépose Les fenêtres de l’atelier pour examen. La remise est accomplie ; l’exposition, elle, n’est pas encore accordée. Il faudra attendre une réponse.",
+        "start": 2,
+        "end": 389
+      },
+      {
+        "quote": "L’équipe marque la remise du dossier sans annoncer une sélection qui n’a pas encore eu lieu. Nolwenn reste au moment collectif selon ce qui lui convient, puis choisit la fenêtre au rideau clair comme prochaine photographie à préparer. Elle souhaite garder avec Inès les accords de discrétion et de relais, quitte à les revoir. Le prochain contact professionnel est maintenu. Le dossier bleu a rempli sa fonction ; sa vie d’apprentie et le suivi continuent, avec des questions qui n’ont pas besoin d’une réponse unique pour avancer.",
+        "start": 4162,
+        "end": 4693
+      }
+    ],
+    "canonical_concept": "Un projet accompli avec le suivi",
+    "context": "Le jour du dépôt du dossier",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour préparer la suite après une réalisation"
+    ],
+    "clinical_code": "6B85",
+    "clinical_diagnosis": "Trouble de rumination-régurgitation"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/nolwenn-remontees-apres-repas": {
+    "character": "Nolwenn",
+    "character_id": "nolwenn",
+    "keywords": [
+      "Remontées après les repas",
+      "Demande de consultation",
+      "Retrait des déjeuners"
+    ],
+    "character_keywords": [
+      "Trouble de rumination-régurgitation",
+      "remontées après les repas",
+      "honte et confidentialité",
+      "suivi professionnel",
+      "repas collectifs"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "7c01494a5370b092be097f70995acc0cbda3e8b5998895b1d8709cc5e24bb07b",
+    "summary": "Le dossier bleu prend presque toute la place entre Nolwenn et Inès. À l’intérieur, des images de fenêtres attendent un choix : certaines donnent sur une cour, d’autres sur des façades où le soir découpe des rectangles clairs. Nolwenn voudrait en garder six. À vingt-quatre ans, elle est apprentie encadreuse et défend déjà avec assurance les blancs cassés que ses collègues trouvent presque identiques. « Presque, c’est tout le problème », leur répond-elle souvent.\n\n[…]\n\nNolwenn appelle le cabinet et décrit simplement les remontées qui gênent ses repas. Un rendez-vous est fixé avant la séance de photographie prévue à l’atelier. Elle note quelques circonstances pour ne pas tout chercher au dernier moment. Puis elle retrouve Inès à un créneau distinct du déjeuner. Elles retiennent six images. Nolwenn ne sait pas encore ce qui explique ses difficultés, mais elle n’a plus à attendre de le savoir pour demander de l’aide et défendre sa sélection.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Le dossier bleu prend presque toute la place entre Nolwenn et Inès. À l’intérieur, des images de fenêtres attendent un choix : certaines donnent sur une cour, d’autres sur des façades où le soir découpe des rectangles clairs. Nolwenn voudrait en garder six. À vingt-quatre ans, elle est apprentie encadreuse et défend déjà avec assurance les blancs cassés que ses collègues trouvent presque identiques. « Presque, c’est tout le problème », leur répond-elle souvent.",
+        "start": 2,
+        "end": 467
+      },
+      {
+        "quote": "Nolwenn appelle le cabinet et décrit simplement les remontées qui gênent ses repas. Un rendez-vous est fixé avant la séance de photographie prévue à l’atelier. Elle note quelques circonstances pour ne pas tout chercher au dernier moment. Puis elle retrouve Inès à un créneau distinct du déjeuner. Elles retiennent six images. Nolwenn ne sait pas encore ce qui explique ses difficultés, mais elle n’a plus à attendre de le savoir pour demander de l’aide et défendre sa sélection.",
+        "start": 4084,
+        "end": 4562
+      }
+    ],
+    "canonical_concept": "Les remontées après le repas",
+    "context": "À la pause de l’atelier",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour préparer une demande d’aide"
+    ],
+    "clinical_code": "6B85",
+    "clinical_diagnosis": "Trouble de rumination-régurgitation"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/nolwenn-repas-evites": {
+    "character": "Nolwenn",
+    "character_id": "nolwenn",
+    "keywords": [
+      "Trouble de rumination-régurgitation",
+      "Repas évités",
+      "Accompagnement alimentaire"
+    ],
+    "character_keywords": [
+      "Trouble de rumination-régurgitation",
+      "remontées après les repas",
+      "honte et confidentialité",
+      "suivi professionnel",
+      "repas collectifs"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "306db8cc616363e29239fdd49d55dea970e96210062b5b3008a4235ea9208681",
+    "summary": "Le budget des Fenêtres de l’atelier comporte moins de lignes que Nolwenn ne l’imaginait, mais chacune semble demander une vérification supplémentaire. Inès additionne les montants pendant qu’elle rapproche les notices des six images retenues. Les deux premières légendes sont terminées ; les suivantes tiennent encore entre des annotations. Nolwenn efface un adjectif. Il prenait, selon elle, plus de place que la fenêtre décrite.\n\n[…]\n\nNolwenn contacte le suivi et explique qu’elle évite parfois de manger pour ne pas interrompre le travail. Un échange est organisé pour adapter l’accompagnement et discuter de l’utilité d’un avis nutritionnel. Inès reprend les additions ; le dossier conserve sa date de dépôt. Nolwenn inscrit cet échange et la première séance d’apprentissage dans son agenda. Les repas évités ne deviennent pas une ligne à surveiller entre collègues, mais une question désormais portée au bon interlocuteur.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Le budget des Fenêtres de l’atelier comporte moins de lignes que Nolwenn ne l’imaginait, mais chacune semble demander une vérification supplémentaire. Inès additionne les montants pendant qu’elle rapproche les notices des six images retenues. Les deux premières légendes sont terminées ; les suivantes tiennent encore entre des annotations. Nolwenn efface un adjectif. Il prenait, selon elle, plus de place que la fenêtre décrite.",
+        "start": 2,
+        "end": 432
+      },
+      {
+        "quote": "Nolwenn contacte le suivi et explique qu’elle évite parfois de manger pour ne pas interrompre le travail. Un échange est organisé pour adapter l’accompagnement et discuter de l’utilité d’un avis nutritionnel. Inès reprend les additions ; le dossier conserve sa date de dépôt. Nolwenn inscrit cet échange et la première séance d’apprentissage dans son agenda. Les repas évités ne deviennent pas une ligne à surveiller entre collègues, mais une question désormais portée au bon interlocuteur.",
+        "start": 4394,
+        "end": 4884
+      }
+    ],
+    "canonical_concept": "Les repas réduits par appréhension",
+    "context": "Pendant la préparation du budget",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour parler des repas évités au suivi"
+    ],
+    "clinical_code": "6B85",
+    "clinical_diagnosis": "Trouble de rumination-régurgitation"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/nolwenn-reponse-sans-jugement": {
+    "character": "Nolwenn",
+    "character_id": "nolwenn",
+    "keywords": [
+      "Trouble de rumination-régurgitation",
+      "Réponse au soin",
+      "Attentes"
+    ],
+    "character_keywords": [
+      "Trouble de rumination-régurgitation",
+      "remontées après les repas",
+      "honte et confidentialité",
+      "suivi professionnel",
+      "repas collectifs"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "5e0505649399117c66ae347e30e0663ec2c8031b78bb8af3ed8f1ab886caaca3",
+    "summary": "Dans le dossier bleu, Nolwenn retrouve une épreuve qu’elle avait décidé de retirer. La lumière y est belle, mais le reflet masque la fenêtre. Elle se souvient l’avoir gardée parce qu’elle aimait une partie de l’image. Les six pochettes sont prêtes ; les essais et les versions définitives se sont pourtant mélangés pendant la dernière séance de travail. Elle commence à les séparer, puis regarde l’heure de son rendez-vous de suivi.\n\n[…]\n\nNolwenn raconte la journée difficile et pose ses questions sur les ajustements possibles, y compris le sens du biofeedback dont elle a entendu le nom. La spécialiste réévalue avec elle la suite et fixe le prochain point ; le besoin d’accompagnement alimentaire reste dans l’échange. À l’atelier, Nolwenn conserve les six images définitives et retire les essais du dossier de candidature. Le plan de l’exposition peut maintenant être discuté avec l’équipe, autour d’une pause qu’Inès propose d’organiser.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Dans le dossier bleu, Nolwenn retrouve une épreuve qu’elle avait décidé de retirer. La lumière y est belle, mais le reflet masque la fenêtre. Elle se souvient l’avoir gardée parce qu’elle aimait une partie de l’image. Les six pochettes sont prêtes ; les essais et les versions définitives se sont pourtant mélangés pendant la dernière séance de travail. Elle commence à les séparer, puis regarde l’heure de son rendez-vous de suivi.",
+        "start": 2,
+        "end": 434
+      },
+      {
+        "quote": "Nolwenn raconte la journée difficile et pose ses questions sur les ajustements possibles, y compris le sens du biofeedback dont elle a entendu le nom. La spécialiste réévalue avec elle la suite et fixe le prochain point ; le besoin d’accompagnement alimentaire reste dans l’échange. À l’atelier, Nolwenn conserve les six images définitives et retire les essais du dossier de candidature. Le plan de l’exposition peut maintenant être discuté avec l’équipe, autour d’une pause qu’Inès propose d’organiser.",
+        "start": 4288,
+        "end": 4791
+      }
+    ],
+    "canonical_concept": "Mesurer une réponse sans se juger",
+    "context": "Avant puis pendant le rendez-vous de suivi",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour discuter une réponse inégale"
+    ],
+    "clinical_code": "6B85",
+    "clinical_diagnosis": "Trouble de rumination-régurgitation"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/nolwenn-symptome-nouveau": {
+    "character": "Nolwenn",
+    "character_id": "nolwenn",
+    "keywords": [
+      "Trouble de rumination-régurgitation",
+      "Symptôme nouveau",
+      "Réévaluation"
+    ],
+    "character_keywords": [
+      "Trouble de rumination-régurgitation",
+      "remontées après les repas",
+      "honte et confidentialité",
+      "suivi professionnel",
+      "repas collectifs"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "3f4f5a03bb2d040c3abaf634913226ca25cde60ffe8fa93b671e9850aaad74c2",
+    "summary": "Nolwenn corrige la légende de la fenêtre ouverte sur la cour. Depuis le déjeuner partagé, cette photographie occupe la première place sur le plan. Elle aime ce choix et voudrait que la phrase soit aussi simple que l’image. Elle supprime encore deux mots, puis s’arrête : une difficulté nouvelle en avalant la préoccupe. Cela lui paraît différent des remontées dont elle parle habituellement au suivi.\n\n[…]\n\nLe médecin réévalue la difficulté et organise la suite nécessaire. Nolwenn reçoit des consignes individualisées ainsi que l’indication du contact à reprendre en cas de changement ou d’aggravation. Elle ne repart pas avec une histoire inventée sur la cause. Inès a décalé la relecture et conservé les corrections. La préparation de la présentation reprendra en tenant compte de cette réévaluation et du suivi convenu, sans faire du prochain dépôt une raison d’ignorer les indications reçues.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Nolwenn corrige la légende de la fenêtre ouverte sur la cour. Depuis le déjeuner partagé, cette photographie occupe la première place sur le plan. Elle aime ce choix et voudrait que la phrase soit aussi simple que l’image. Elle supprime encore deux mots, puis s’arrête : une difficulté nouvelle en avalant la préoccupe. Cela lui paraît différent des remontées dont elle parle habituellement au suivi.",
+        "start": 2,
+        "end": 402
+      },
+      {
+        "quote": "Le médecin réévalue la difficulté et organise la suite nécessaire. Nolwenn reçoit des consignes individualisées ainsi que l’indication du contact à reprendre en cas de changement ou d’aggravation. Elle ne repart pas avec une histoire inventée sur la cause. Inès a décalé la relecture et conservé les corrections. La préparation de la présentation reprendra en tenant compte de cette réévaluation et du suivi convenu, sans faire du prochain dépôt une raison d’ignorer les indications reçues.",
+        "start": 4169,
+        "end": 4659
+      }
+    ],
+    "canonical_concept": "Un symptôme nouveau à réévaluer",
+    "context": "Pendant la correction des légendes puis au cabinet",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour transmettre un symptôme nouveau"
+    ],
+    "clinical_code": "6B85",
+    "clinical_diagnosis": "Trouble de rumination-régurgitation"
+  },
   "posts/comprendre-et-maitriser-ses-emotions/nostalgie-avec-ses-enfants-syndrome-nid-vide": {
     "character": "Margot",
     "character_id": "margot",
