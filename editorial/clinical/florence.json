@@ -1,0 +1,638 @@
+{
+  "character_id": "florence",
+  "bio": "Florence a 41 ans et travaille comme correctrice dans un service municipal. Son Trouble factice imposé à autrui est déjà diagnostiqué ; une équipe spécialisée la suit, tandis que des professionnels assurent la protection de la personne exposée. Elle prépare les textes d’un cahier de dessins ouvert aux habitants, dans un cadre validé par les équipes compétentes. Elle veut tenir cet engagement sans en faire une preuve de guérison ni une raison de négocier les décisions de protection. Le cahier avance ; ses responsabilités demeurent.",
+  "profile_topics": [
+    "Trouble factice imposé à autrui",
+    "Responsabilité et protection",
+    "Parole clinique et ambivalence",
+    "Autonomie de la personne exposée",
+    "Coordination et suivi durable"
+  ],
+  "episodes": [
+    {
+      "number": 1,
+      "slug": "florence-diagnostic-protection",
+      "title": "Diagnostic et protection : deux responsabilités distinctes",
+      "description": "Florence apporte son cahier en consultation. Le soin la concerne ; la protection de la personne exposée reste indépendante.",
+      "context": "avant et pendant la consultation",
+      "topics": [
+        "Diagnostic établi",
+        "Protection",
+        "Responsabilité"
+      ],
+      "clinical_intro": "Le trouble factice imposé à autrui est diagnostiqué chez la personne qui présente intentionnellement une autre personne comme malade sur la base d’une tromperie identifiée. La personne exposée n’est pas porteuse de ce diagnostic. Le suivi de la première et la protection de la seconde ont des objectifs distincts, sans échange entre assiduité au soin et sécurité.",
+      "opening": "Florence lit la première épreuve à voix basse. Le titre, Regards de quartier, occupe le haut de la page. Elle préfère les légendes courtes et voudrait en proposer une autre pour le premier dessin. Sa collègue Cathy attend une date de retour sur le cahier, pas une version achevée dans l’heure. Florence ferme pourtant le dossier avec l’impression de laisser une question simple sans réponse.\n\nElle a rendez-vous avec la docteure Derain. Dans le cabinet, elle commence par expliquer le travail municipal, le cahier ouvert aux habitants et les épreuves qu’elle corrige dans le cadre déjà validé. La psychiatre écoute, puis revient à l’objet du suivi. Le trouble factice imposé à autrui de Florence est établi depuis avant ce chantier. Une tromperie intentionnelle concernant la présentation de la santé d’une autre personne a été identifiée. Les décisions de protection sont déjà effectives.\n\nFlorence voudrait rester sur ce qu’elle peut finir cette semaine. Elle comprend pourtant que le cahier ne répond pas à la question de la médecin. « Le diagnostic me concerne, dit-elle. Et la protection ne dépend pas de ce que je réussis ici. » La phrase est difficile à prononcer sans aussitôt parler de ses intentions. Derain lui demande de préciser ce qu’elle a compris des décisions qui la concernent. Florence répond, sans raconter de procédé ni demander des nouvelles de la personne exposée. Le dossier du cahier reste fermé sur ses genoux.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Nommer le diagnostic sans déplacer son destinataire",
+          "text": "Une tromperie intentionnelle identifiée distingue ce trouble d’une simple inquiétude pour la santé d’autrui. Le diagnostic est attribué à la personne qui présente autrui comme malade ou atteint, non à la personne exposée. Chez Florence, ce fait est déjà établi ; l’entretien n’est pas une enquête rejouée pour le lecteur. La psychiatre travaille sa compréhension et son engagement dans les soins. Les professionnels chargés de la protection conservent leur mission, indépendamment de cette conversation ou du travail municipal."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment la distinction se joue-t-elle dans cet entretien ?",
+          "points": [
+            {
+              "heading": "Le travail fournit un premier sujet",
+              "text": "Florence commence par une activité dont les étapes lui paraissent plus faciles à raconter.",
+              "examples": [
+                "Elle décrit les épreuves du cahier.",
+                "Elle veut annoncer ce qu’elle terminera cette semaine."
+              ]
+            },
+            {
+              "heading": "La responsabilité doit être nommée",
+              "text": "Le suivi revient aux faits établis sans solliciter un récit de méthode.",
+              "examples": [
+                "La psychiatre rappelle à qui appartient le diagnostic.",
+                "Florence reconnaît qu’il la concerne personnellement."
+              ]
+            },
+            {
+              "heading": "La protection garde son objectif",
+              "text": "La sécurité d’autrui ne dépend pas de la qualité de l’entretien.",
+              "examples": [
+                "Les décisions sont déjà effectives avant cette consultation.",
+                "La compréhension est vérifiée sans négocier une modification."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour préparer un entretien sans déplacer la responsabilité",
+          "points": [
+            {
+              "heading": "Formuler une question sur le cadre",
+              "objective": "Comprendre ce qui relève du soin et de la protection.",
+              "exercise": [
+                "Repérer une distinction encore confuse.",
+                "La demander au professionnel concerné.",
+                "Reformuler sa réponse pour vérifier le sens."
+              ],
+              "benefit": "Une clarification peut éviter de donner au rendez-vous une portée qu’il n’a pas."
+            },
+            {
+              "heading": "Conserver le suivi prévu",
+              "objective": "Donner une suite concrète à la consultation.",
+              "exercise": [
+                "Vérifier la prochaine date.",
+                "Confirmer les modalités avec l’équipe.",
+                "Garder les contacts indiqués pour les besoins entre les rendez-vous."
+              ],
+              "benefit": "Le soin ne reste pas une intention ; cette organisation ne remplace pas le traitement."
+            },
+            {
+              "heading": "Limiter la promesse professionnelle",
+              "objective": "Tenir un engagement adapté au travail disponible.",
+              "exercise": [
+                "Identifier l’épreuve à corriger.",
+                "Estimer une date compatible avec le suivi.",
+                "Transmettre cette date à Cathy."
+              ],
+              "benefit": "Le cahier peut avancer sans devenir un argument contre les décisions de protection."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Une date pour la première épreuve",
+      "ending": "Florence conserve le rendez-vous suivant et vérifie avec Derain les décisions qui la concernent. Rien n’est modifié en échange de sa présence. Elle confirme ensuite à Cathy la date de la première épreuve. La collègue peut organiser son propre travail. Florence reprend une légende, sans chercher à faire de cette tâche une preuve clinique ou un message destiné à la personne exposée.",
+      "conclusion": "Comprendre à qui appartient le diagnostic permet de ne pas faire porter le soin à la personne exposée. Florence engage une tâche professionnelle et poursuit son suivi, tandis que la protection garde ses responsabilités propres.",
+      "mirror": [
+        "Cathy peut répondre : « Cette date me permet de préparer la suite du cahier. » Elle n’a pas à demander pourquoi Florence consulte ni à évaluer la protection. Les professionnels restent les interlocuteurs des questions cliniques et de sécurité ; la personne exposée n’a rien à confirmer pour que l’épreuve avance."
+      ],
+      "clinical_focus": "Diagnostic établi et protection distincte",
+      "diagnostic_stage": "known",
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "rcpsych-cr223"
+      ],
+      "continuity": {
+        "choice": "Florence conserve le rendez-vous suivant et vérifie avec Derain les décisions qui la concernent. Rien n’est modifié en échange de sa présence. Elle confirme ensuite à Cathy la date de la première épreuve. La collègue peut organiser son propre travail. Florence reprend une légende, sans chercher à faire de cette tâche une preuve clinique ou un message destiné à la personne exposée.",
+        "next": "L’épreuve suivante lui laisse une question à poser sur la différence entre inquiétude et tromperie."
+      }
+    },
+    {
+      "number": 2,
+      "slug": "florence-inquietude-tromperie",
+      "title": "Inquiétude et tromperie : ne pas confondre les deux",
+      "description": "Florence parle d’abord de son inquiétude. Marc reprend les faits établis sans assimiler toute demande de soins à un trouble factice.",
+      "context": "à l’entretien avec le psychologue",
+      "topics": [
+        "Inquiétude",
+        "Tromperie identifiée",
+        "Parole clinique"
+      ],
+      "clinical_intro": "Une inquiétude pour la santé, une demande insistante de soins ou un désaccord médical ne suffisent pas à établir un trouble factice imposé à autrui. Celui-ci nécessite une tromperie intentionnelle identifiée. Cette distinction protège contre les accusations improvisées tout en empêchant qu’une inquiétude invoquée efface des faits déjà établis.",
+      "opening": "Marc demande à Florence ce qui lui est resté de l’entretien avec la psychiatre. Elle répond qu’elle voulait que la santé d’autrui soit prise au sérieux. Sa phrase arrive rapidement, avec moins d’hésitation que la reconnaissance de sa responsabilité la semaine précédente. Le psychologue ne la coupe pas, mais lui demande si cette formulation suffit à décrire ce qui a été établi dans son suivi.\n\nFlorence baisse les yeux vers son carnet personnel. Le dossier municipal est resté au bureau, où les premières légendes l’attendent. Ici, elle n’a pas de phrase à rendre plus courte pour Cathy. Elle a besoin de distinguer une inquiétude et les faits diagnostiques connus. Marc lui explique qu’une demande de soins ou une insistance ne permettent pas, à elles seules, d’attribuer ce trouble. Mais son diagnostic ne repose pas sur une simple insistance : une tromperie intentionnelle a été identifiée.\n\nElle voudrait préciser qu’elle n’est pas seulement cela. Marc ne lui demande pas de résumer toute sa personne par le diagnostic. Il lui demande de ne pas faire disparaître sa responsabilité derrière un mot plus acceptable. Florence reprend lentement : « Dire que je m’inquiétais ne suffit pas. » Elle n’ajoute ni scène ancienne ni détail de fabrication. L’entretien reste centré sur la façon dont elle décrit aujourd’hui les faits et sur ce que cette description permet, ou empêche, de travailler.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Un désaccord médical n’établit pas une tromperie",
+          "text": "La recherche de soins pour autrui peut avoir de nombreuses raisons et ne permet pas de diagnostiquer un trouble factice. Ce diagnostic exige des éléments de tromperie intentionnelle. Les cadres de protection utilisés notamment en pédiatrie peuvent être plus larges que cette catégorie clinique ; ils ne sont pas des synonymes. Rien dans cette distinction ne renseigne sur l’âge ou le lien avec la personne exposée dans l’histoire de Florence. Chez elle, les faits sont connus : le suivi travaille leur reconnaissance sans détailler les conduites."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment une formule peut-elle masquer les faits connus ?",
+          "points": [
+            {
+              "heading": "Une intention occupe toute la phrase",
+              "text": "Florence commence par ce qu’elle souhaite faire entendre d’elle-même.",
+              "examples": [
+                "Elle dit qu’elle voulait une santé prise au sérieux.",
+                "Elle ne mentionne d’abord pas la tromperie identifiée."
+              ]
+            },
+            {
+              "heading": "Deux notions sont séparées",
+              "text": "Le psychologue précise ce qui distingue la préoccupation et le diagnostic.",
+              "examples": [
+                "Une demande de soins seule n’établit pas le trouble.",
+                "Le dossier de Florence contient des faits qui dépassent cette simple demande."
+              ]
+            },
+            {
+              "heading": "La parole devient plus exacte",
+              "text": "Reconnaître la différence ne demande pas de rejouer une scène.",
+              "examples": [
+                "Florence reprend sa formulation dans le cabinet.",
+                "Elle nomme sa responsabilité sans raconter de méthode."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour clarifier une formulation en consultation",
+          "points": [
+            {
+              "heading": "Vérifier ce que la phrase dit",
+              "objective": "Éviter qu’un mot rassurant remplace les faits établis.",
+              "exercise": [
+                "Présenter sa formulation au soignant.",
+                "Écouter ce qu’il demande de distinguer.",
+                "Reprendre la phrase avec les éléments nécessaires à l’entretien."
+              ],
+              "benefit": "Le travail clinique peut partir d’une description moins incomplète."
+            },
+            {
+              "heading": "Demander une distinction",
+              "objective": "Comprendre les termes sans diagnostiquer autrui.",
+              "exercise": [
+                "Poser la question sur inquiétude et tromperie.",
+                "Demander ce qui est effectivement établi dans son propre suivi.",
+                "Laisser l’évaluation des situations aux professionnels."
+              ],
+              "benefit": "La clarification ne devient pas une liste pour accuser un proche."
+            },
+            {
+              "heading": "Garder les espaces séparés",
+              "objective": "Ne pas utiliser le cahier pour résoudre une question clinique.",
+              "exercise": [
+                "Réserver les questions de diagnostic à l’entretien.",
+                "Reprendre ensuite une tâche définie du travail.",
+                "Transmettre seulement son état d’avancement à Cathy."
+              ],
+              "benefit": "Une activité ordinaire conserve son utilité sans prendre la place du soin."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Les premières légendes peuvent être terminées",
+      "ending": "Florence dit à Marc qu’elle ne veut plus utiliser l’inquiétude comme seule description des faits établis. Le psychologue poursuit l’entretien à partir de cette distinction. Plus tard, elle termine les premières légendes et les transmet à Cathy. Cette remise a une valeur professionnelle. Elle ne prouve ni une disparition du trouble ni un changement des besoins de protection.",
+      "conclusion": "Une inquiétude ne suffit pas à diagnostiquer ce trouble, et elle ne suffit pas davantage à effacer une tromperie déjà identifiée. Florence cherche une parole plus exacte avec le professionnel, sans déplacer l’évaluation vers sa collègue.",
+      "mirror": [
+        "Une personne qui entend parler d’un désaccord médical ne peut en déduire un trouble factice. Cathy, de son côté, peut simplement dire : « J’ai reçu les légendes. » Elle n’a pas à interpréter cette remise comme une reconnaissance clinique. La protection et l’évaluation restent confiées aux professionnels compétents."
+      ],
+      "clinical_focus": "Inquiétude et tromperie identifiée",
+      "diagnostic_stage": "known",
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "rcpsych-cr223",
+        "rcpch-fii-2021"
+      ],
+      "continuity": {
+        "choice": "Florence dit à Marc qu’elle ne veut plus utiliser l’inquiétude comme seule description des faits établis. Le psychologue poursuit l’entretien à partir de cette distinction. Plus tard, elle termine les premières légendes et les transmet à Cathy. Cette remise a une valeur professionnelle. Elle ne prouve ni une disparition du trouble ni un changement des besoins de protection.",
+        "next": "La distinction des faits permet d’examiner une autre justification : l’absence de bénéfice matériel."
+      }
+    },
+    {
+      "number": 3,
+      "slug": "florence-motivations-responsabilite",
+      "title": "Motivations : l’absence de gain ne supprime pas la responsabilité",
+      "description": "Florence invoque l’absence de bénéfice matériel. La consultation examine cette phrase sans inventer une cause unique à ses conduites.",
+      "context": "pendant la consultation psychiatrique",
+      "topics": [
+        "Motivations",
+        "Responsabilité",
+        "Évaluation individuelle"
+      ],
+      "clinical_intro": "Le trouble factice imposé à autrui ne se définit pas par une tromperie uniquement motivée par une récompense extérieure évidente. Cela ne signifie ni que la conduite serait involontaire ni que ses conséquences disparaîtraient. Les motivations demandent une exploration individuelle ; aucune explication unique ne peut être déduite du seul diagnostic.",
+      "opening": "« Je n’avais rien à gagner matériellement. » Florence a préparé cette phrase avant le rendez-vous. Elle la prononce dès que la docteure Derain lui demande ce qu’elle souhaite reprendre aujourd’hui. Elle espère qu’elle donnera une forme plus supportable à ce qui a été établi. La psychiatre lui demande ce que cette phrase décrit, puis ce qu’elle laisse de côté.\n\nFlorence attend quelques secondes. Elle sait qu’elle ne parle pas des conséquences pour la personne exposée. Elle ne parle pas davantage de la tromperie intentionnelle reconnue dans le diagnostic. Elle présente une absence de bénéfice matériel comme si elle pouvait expliquer tout le reste. Derain ne lui fournit pas un motif à apprendre par cœur. Elle ne conclut pas que Florence aurait nécessairement cherché de l’attention ou agi pour une raison venue de l’enfance. Elle reprend avec elle les questions utiles à son évaluation.\n\nAu bureau, le sommaire du cahier attend une dernière vérification avant son envoi à Cathy. Florence pense à cette tâche, dont elle connaît le terme. L’entretien n’offre pas cette certitude. Elle cherche encore une phrase qui réglerait la question de sa responsabilité. La médecin lui demande de laisser ouverte celle des motivations, sans transformer cette incertitude en excuse. Florence écoute, puis reconnaît que l’absence de gain alléguée ne suffit pas à parler des faits.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Ne pas confondre absence de récompense et absence de choix",
+          "text": "Le diagnostic distingue notamment les conduites qui ne sont pas uniquement expliquées par un avantage extérieur évident. Cette distinction clinique ne constitue pas un jugement d’innocence. L’absence de gain matériel ne rend pas la tromperie involontaire et n’annule pas le dommage possible pour autrui. Chez Florence, le travail consiste à examiner ses formulations avec la psychiatre, sans imposer une causalité universelle. Le diagnostic ne permet pas de connaître toutes ses motivations à partir d’une seule phrase."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment une justification réduit-elle la discussion ?",
+          "points": [
+            {
+              "heading": "Un seul élément est mis en avant",
+              "text": "Florence choisit ce qui lui semble rendre les faits moins difficiles à porter.",
+              "examples": [
+                "Elle commence par l’absence de gain matériel.",
+                "Elle espère que la phrase suffira à expliquer sa conduite."
+              ]
+            },
+            {
+              "heading": "Les conséquences restent hors de la phrase",
+              "text": "Ce qu’elle ne mentionne pas garde pourtant sa place dans l’évaluation.",
+              "examples": [
+                "La tromperie identifiée n’est pas nommée au début.",
+                "La situation de la personne exposée ne disparaît pas avec cet argument."
+              ]
+            },
+            {
+              "heading": "L’incertitude est difficile à accepter",
+              "text": "Explorer une motivation ne produit pas forcément une réponse immédiate.",
+              "examples": [
+                "Florence attend une conclusion définitive.",
+                "Derain poursuit les questions sans donner une cause unique à répéter."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour examiner une justification avec le soignant",
+          "points": [
+            {
+              "heading": "Présenter la phrase entière",
+              "objective": "Permettre au professionnel d’entendre le raisonnement réel.",
+              "exercise": [
+                "Dire l’argument que l’on revient souvent à utiliser.",
+                "Écouter les questions qu’il suscite.",
+                "Préciser ce que cet argument ne décrit pas."
+              ],
+              "benefit": "La discussion peut dépasser un élément choisi pour clore trop vite le sujet."
+            },
+            {
+              "heading": "Distinguer motif et conséquence",
+              "objective": "Ne pas utiliser une explication comme annulation des faits.",
+              "exercise": [
+                "Demander au soignant de clarifier cette différence.",
+                "Reprendre ce qui demeure établi malgré la question du motif.",
+                "Respecter les décisions effectives pendant cette exploration."
+              ],
+              "benefit": "Le soin peut examiner les motivations sans suspendre la responsabilité."
+            },
+            {
+              "heading": "Laisser une question ouverte",
+              "objective": "Poursuivre le suivi sans fabriquer une certitude.",
+              "exercise": [
+                "Noter la question encore en travail.",
+                "La reprendre lors du contact convenu.",
+                "Garder les tâches professionnelles dans un échange séparé."
+              ],
+              "benefit": "Une interrogation clinique ne doit pas être résolue par une réussite extérieure."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Le sommaire part pour le service",
+      "ending": "Florence accepte de garder la question des motivations ouverte avec Derain. Elle ne conclut plus, dans cet échange, que l’absence de gain matériel suffirait à l’innocenter. De retour au bureau, elle vérifie le sommaire et l’envoie à Cathy. Elle précise simplement qu’il s’agit de la version à examiner. Le document n’est ni une réparation offerte à la personne exposée ni une preuve pour la consultation suivante.",
+      "conclusion": "Explorer les motivations ne signifie pas effacer la responsabilité. Florence laisse une question clinique ouverte et termine une tâche distincte, sans faire de cette tâche la réponse aux conséquences qui doivent rester prises en compte.",
+      "mirror": [
+        "Cathy peut dire : « Je regarderai l’ordre des pages et te ferai un retour. » Elle n’a pas à interpréter la qualité du sommaire comme une preuve des intentions de Florence. Si une question de responsabilité lui est adressée, elle peut la renvoyer vers le suivi spécialisé sans engager une enquête personnelle."
+      ],
+      "clinical_focus": "Motivations et responsabilité",
+      "diagnostic_stage": "known",
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "rcpsych-cr223"
+      ],
+      "continuity": {
+        "choice": "Florence accepte de garder la question des motivations ouverte avec Derain. Elle ne conclut plus, dans cet échange, que l’absence de gain matériel suffirait à l’innocenter. De retour au bureau, elle vérifie le sommaire et l’envoie à Cathy. Elle précise simplement qu’il s’agit de la version à examiner. Le document n’est ni une réparation offerte à la personne exposée ni une preuve pour la consultation suivante.",
+        "next": "La prochaine discussion porte sur la place qu’elle continue de vouloir occuper dans le récit de la personne exposée."
+      }
+    },
+    {
+      "number": 4,
+      "slug": "florence-autonomie-personne-exposee",
+      "title": "Autonomie d’autrui : le suivi ne donne pas droit à une réponse",
+      "description": "Florence voudrait que ses efforts soient connus de la personne exposée. Elle garde cette attente dans le soin, sans demander de transmission.",
+      "context": "avec le psychologue de l’équipe",
+      "topics": [
+        "Autonomie",
+        "Attente de reconnaissance",
+        "Limites de protection"
+      ],
+      "clinical_intro": "La personne exposée à un trouble factice imposé à autrui n’a pas à participer au soin de la personne diagnostiquée. Elle ne doit ni écouter ses explications, ni rassurer, ni pardonner. Un souhait de reconnaissance peut être travaillé en consultation, sans devenir un droit au contact ou une raison de modifier la protection.",
+      "opening": "Florence a reçu les remarques de Cathy sur le sommaire. Deux pages doivent changer d’ordre et une légende reste à raccourcir. Elle a mis ces demandes dans son dossier de travail. Au rendez-vous avec Marc, c’est une autre attente qu’elle formule : elle aimerait que la personne exposée sache qu’elle prend son suivi au sérieux.\n\nLe psychologue lui demande ce qu’elle espère de ce savoir. Florence répond d’abord qu’il serait important de comprendre ses efforts. Puis elle s’arrête sur le mot comprendre. Elle voudrait être regardée autrement, peut-être ne plus avoir à porter seule cette attente. Marc ne propose ni lettre, ni message transmis, ni rencontre. Il lui demande de parler de ce besoin dans l’entretien, où il peut être examiné sans solliciter autrui.\n\nFlorence ressent une déception. Elle avait imaginé qu’une démarche de soin sérieuse finirait par donner une place à son explication. Elle entend que les efforts réalisés ne créent pas ce droit. Rien n’est dit ici de ce que souhaite la personne exposée, de son état ou de ses décisions. Cette absence d’information n’est pas une invitation à la remplir. Florence reste assise avec sa demande, sans la transformer en projet d’envoi. Marc reprend ce que la déception change pour elle aujourd’hui. Le sujet peut continuer dans le soin, même sans réponse extérieure.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Le besoin d’être comprise appartient au travail clinique",
+          "text": "Le soin de Florence et l’autonomie de la personne exposée poursuivent des objectifs distincts. Travailler une attente de reconnaissance ne nécessite pas de la faire entendre à cette personne. Les décisions de protection restent effectives ; elles ne deviennent pas négociables en échange d’efforts, d’une explication ou d’un souhait de réparation. La scène montre un désir de Florence, pas une information sur autrui. Son psychologue lui donne un espace pour le travailler sans en faire porter la charge à la personne protégée."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment une attente de reconnaissance se transforme-t-elle en demande ?",
+          "points": [
+            {
+              "heading": "L’effort cherche un destinataire",
+              "text": "Florence voudrait que son assiduité soit connue ailleurs que dans le soin.",
+              "examples": [
+                "Elle souhaite que la personne exposée sache qu’elle consulte sérieusement.",
+                "Elle espère que cette connaissance modifiera le regard porté sur elle."
+              ]
+            },
+            {
+              "heading": "Un besoin personnel devient visible",
+              "text": "La discussion revient à ce que Florence attend de cette réponse.",
+              "examples": [
+                "Marc lui demande ce qu’elle espère obtenir.",
+                "Elle reconnaît son souhait d’être comprise."
+              ]
+            },
+            {
+              "heading": "Une limite laisse de la déception",
+              "text": "Le refus d’organiser une transmission ne met pas fin au travail clinique.",
+              "examples": [
+                "Aucun message n’est préparé dans l’entretien.",
+                "Florence parle de sa déception sans demander un intermédiaire."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour garder une attente de reconnaissance dans le soin",
+          "points": [
+            {
+              "heading": "Nommer l’attente au professionnel",
+              "objective": "Identifier le besoin sans solliciter la personne exposée.",
+              "exercise": [
+                "Dire au soignant ce que l’on espère d’une réponse.",
+                "Examiner avec lui ce que cette attente représente.",
+                "Continuer le travail dans l’entretien plutôt que préparer une transmission."
+              ],
+              "benefit": "Le besoin peut être entendu sans devenir une obligation pour autrui."
+            },
+            {
+              "heading": "Respecter les décisions en vigueur",
+              "objective": "Ne pas faire de ses progrès un motif de négociation.",
+              "exercise": [
+                "Reprendre les limites qui concernent sa situation.",
+                "Poser toute question au professionnel compétent.",
+                "Ne pas chercher de contact ou d’intermédiaire pour obtenir une réponse."
+              ],
+              "benefit": "L’autonomie et la protection ne sont pas conditionnées au soulagement de Florence."
+            },
+            {
+              "heading": "Reprendre un engagement indépendant",
+              "objective": "Conserver une activité qui n’exige pas de validation clinique extérieure.",
+              "exercise": [
+                "Identifier la correction demandée par Cathy.",
+                "La traiter dans le cadre professionnel convenu.",
+                "Envoyer le document uniquement pour son usage municipal."
+              ],
+              "benefit": "Le travail garde son objet et ne devient pas un message de réparation."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Le sommaire revient seulement à Cathy",
+      "ending": "Florence ne sollicite aucune transmission à la personne exposée. Elle dit à Marc qu’elle aura besoin de revenir sur son attente de reconnaissance. Au service, elle reprend l’ordre des pages avec Cathy et lui renvoie le sommaire. Le destinataire est celui du travail prévu. Florence reste déçue ; cette déception n’entraîne ni information demandée sur autrui ni modification des décisions de protection.",
+      "conclusion": "La reconnaissance espérée ne peut pas être exigée de la personne exposée. Florence garde cette attente comme sujet de soin et poursuit une tâche distincte, sans faire du contact ou du pardon une condition pour continuer.",
+      "mirror": [
+        "Un proche ou une collègue peut refuser de porter un message : « Cette demande doit rester avec les professionnels qui te suivent. » Cathy peut continuer à parler du sommaire sans devenir intermédiaire. La personne exposée n’a pas à répondre, expliquer sa distance ou récompenser l’engagement de Florence dans les soins."
+      ],
+      "clinical_focus": "Autonomie de la personne exposée",
+      "diagnostic_stage": "known",
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "rcpsych-cr223"
+      ],
+      "continuity": {
+        "choice": "Florence ne sollicite aucune transmission à la personne exposée. Elle dit à Marc qu’elle aura besoin de revenir sur son attente de reconnaissance. Au service, elle reprend l’ordre des pages avec Cathy et lui renvoie le sommaire. Le destinataire est celui du travail prévu. Florence reste déçue ; cette déception n’entraîne ni information demandée sur autrui ni modification des décisions de protection.",
+        "next": "Ne pas obtenir de confirmation extérieure rend le prochain rendez-vous plus difficile à maintenir."
+      }
+    },
+    {
+      "number": 5,
+      "slug": "florence-ambivalence-alliance",
+      "title": "Ambivalence : venir avec ce qui rend le rendez-vous difficile",
+      "description": "Florence hésite à annuler. Elle vient parler de cette difficulté avec Marc, sans que l’accueil clinique efface les responsabilités.",
+      "context": "avant et pendant le rendez-vous",
+      "topics": [
+        "Ambivalence",
+        "Alliance clinique",
+        "Continuité du soin"
+      ],
+      "clinical_intro": "Une personne peut vouloir de l’aide tout en redoutant certains sujets du suivi. Cette ambivalence se travaille avec le professionnel ; elle n’est pas, en elle-même, un signe spécifique du trouble factice imposé à autrui. Accueillir une difficulté à parler ne signifie ni approuver le dommage ni remettre en cause les décisions de protection.",
+      "opening": "Le rappel du rendez-vous est déjà inscrit dans l’agenda. Florence le regarde en préparant les légendes à harmoniser. Elle sait quelles pages doivent être reprises et pourrait facilement remplir cette heure de travail. Depuis l’entretien sur son attente de reconnaissance, elle se demande ce qu’elle pourra dire à Marc sans retrouver la même déception.\n\nElle envisage d’annuler. Elle imagine une réponse courte au cabinet, puis pose son téléphone. Ce n’est pas seulement une question d’horaire. Elle craint de revenir sur des formulations qu’elle préfère encore employer, celles qui lui permettent de parler de ses intentions en laissant moins de place à sa responsabilité. Le cahier lui offre aujourd’hui un sujet plus confortable, mais il ne rend pas la consultation inutile.\n\nFlorence se rend au rendez-vous. « J’ai pensé ne pas venir », dit-elle avant de s’asseoir complètement. Marc lui demande ce qui a rendu ce choix difficile. Il ne félicite pas cette phrase comme si elle suffisait à évaluer la situation. Il accueille ce qu’elle permet d’aborder et revient avec elle aux responsabilités et aux limites effectives. Florence répond d’abord en peu de mots, puis précise ce qu’elle redoutait. Le rendez-vous ne devient ni une confession exhaustive ni une conversation où tout serait approuvé. Il lui faut rester avec la question, même lorsqu’elle préférerait reprendre ses pages.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Une alliance ne suppose pas d’approuver les faits",
+          "text": "Le travail clinique peut reconnaître l’ambivalence et chercher comment poursuivre un échange utile, tout en maintenant clairement les responsabilités. Cette démarche spécialisée n’exige pas un récit détaillé des procédés ni une confession publique. L’hésitation de Florence est un élément de cet entretien, pas un test diagnostique ou une mesure suffisante du risque. Son engagement reste à apprécier dans le suivi ; les décisions de protection ne dépendent pas de la satisfaction d’avoir réussi à venir."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment l’ambivalence devient-elle visible avant le rendez-vous ?",
+          "points": [
+            {
+              "heading": "Une tâche disponible sert de détour",
+              "text": "Le travail pourrait occuper l’espace du soin sans répondre au besoin clinique.",
+              "examples": [
+                "Florence regarde les légendes à harmoniser.",
+                "Elle imagine remplir l’heure prévue par une correction."
+              ]
+            },
+            {
+              "heading": "La difficulté concerne le contenu",
+              "text": "L’obstacle ne se résume pas à une collision d’agenda.",
+              "examples": [
+                "Elle redoute de reprendre certaines formulations.",
+                "Elle associe le prochain entretien à la déception du précédent."
+              ]
+            },
+            {
+              "heading": "Le désaccord intérieur peut être dit",
+              "text": "Nommer l’hésitation permet de l’examiner avec le professionnel.",
+              "examples": [
+                "Florence dit qu’elle a pensé annuler.",
+                "Marc demande ce qui lui a rendu la venue difficile."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour aborder une hésitation dans le suivi",
+          "points": [
+            {
+              "heading": "Distinguer horaire et difficulté clinique",
+              "objective": "Comprendre ce qui motive l’envie d’annuler.",
+              "exercise": [
+                "Vérifier s’il existe une contrainte pratique réelle.",
+                "Repérer la question que l’on redoute d’aborder.",
+                "La signaler au professionnel lors du contact convenu."
+              ],
+              "benefit": "L’équipe peut travailler l’obstacle au lieu de recevoir une explication incomplète."
+            },
+            {
+              "heading": "Commencer par une phrase simple",
+              "objective": "Rendre l’ambivalence abordable sans discours préparé.",
+              "exercise": [
+                "Dire que le rendez-vous a été difficile à maintenir.",
+                "Laisser le soignant poser ses questions.",
+                "Préciser le point difficile sans raconter de méthode dangereuse."
+              ],
+              "benefit": "Une entrée brève peut ouvrir un travail clinique qui ne se résume pas à l’aveu."
+            },
+            {
+              "heading": "Préserver la suite pratique",
+              "objective": "Ne pas faire dépendre le suivi de la disponibilité d’une collègue.",
+              "exercise": [
+                "Confirmer la prochaine étape avec l’équipe.",
+                "Réestimer le délai de l’harmonisation.",
+                "Transmettre à Cathy seulement l’engagement de travail ajusté."
+              ],
+              "benefit": "Le rendez-vous et le cahier gardent chacun un interlocuteur et un objet."
+            }
+          ]
+        }
+      ],
+      "ending_title": "L’heure de soin reste une heure de soin",
+      "ending": "Le rendez-vous a lieu et Marc fixe avec Florence la prochaine étape du travail. Les questions ne sont pas toutes résolues. Elle informe Cathy qu’elle lui enverra l’harmonisation à une date revue, sans lui demander de contrôler sa présence aux consultations. Cathy ajuste son planning. Florence conserve le contact clinique, même s’il n’a pas procuré l’accord ou le soulagement qu’elle aurait souhaité.",
+      "conclusion": "L’ambivalence peut devenir un sujet de soin plutôt qu’un motif de disparaître du suivi. Florence maintient l’échange et ajuste son délai professionnel, sans attendre de sa collègue une surveillance ou des professionnels une approbation des faits.",
+      "mirror": [
+        "Cathy peut dire : « Je note le nouveau délai ; préviens-moi si l’épreuve ne sera pas prête. » Elle n’a pas à vérifier les consultations de Florence pour organiser le cahier. Si Florence lui demande de garantir qu’elle ira au rendez-vous, Cathy peut renvoyer cette question à l’équipe, sans devenir responsable de son assiduité."
+      ],
+      "clinical_focus": "Ambivalence et alliance clinique",
+      "diagnostic_stage": "known",
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "rcpsych-cr223"
+      ],
+      "continuity": {
+        "choice": "Le rendez-vous a lieu et Marc fixe avec Florence la prochaine étape du travail. Les questions ne sont pas toutes résolues. Elle informe Cathy qu’elle lui enverra l’harmonisation à une date revue, sans lui demander de contrôler sa présence aux consultations. Cathy ajuste son planning. Florence conserve le contact clinique, même s’il n’a pas procuré l’accord ou le soulagement qu’elle aurait souhaité.",
+        "next": "Ce délai conduit Florence à demander quels professionnels se coordonnent et quelles informations circulent."
+      }
+    },
+    {
+      "number": 6,
+      "slug": "florence-coordination-protection",
+      "title": "Coordination : l’assiduité au soin ne décide pas de la protection",
+      "description": "La psychiatre et Nora se coordonnent réellement. Florence reçoit les consignes qui la concernent, sans accès aux informations privées d’autrui.",
+      "context": "au point de coordination prévu",
+      "topics": [
+        "Coordination",
+        "Informations encadrées",
+        "Protection indépendante"
+      ],
+      "clinical_intro": "Le suivi clinique et la protection nécessitent des rôles identifiables et des échanges adaptés. La présence régulière d’une personne aux rendez-vous ne suffit pas à modifier les décisions concernant la sécurité d’autrui. Les professionnels expliquent le cadre applicable aux informations, sans promettre un secret absolu ni faire dépendre toute transmission du seul souhait de la personne suivie.",
+      "opening": "Florence arrive avec une question notée dans son agenda personnel. Elle a maintenu ses derniers rendez-vous, même celui qu’elle avait pensé annuler. Elle demande à la docteure Derain si cette assiduité suffit à modifier les décisions de protection. La psychiatre lui répond que la présence en consultation et ces décisions ne se confondent pas.\n\nElle distingue son rôle clinique de celui de Nora, la professionnelle référente de protection. Florence voudrait savoir ce qui se dit entre elles. Derain explique le cadre de leurs échanges et les informations utiles à leurs responsabilités, sans lui donner les renseignements privés concernant la personne exposée. Florence entend qu’une coordination n’est ni une discussion informelle ni un compte rendu intégral remis à son attention.\n\nL’échange prévu avec Nora est effectivement réalisé par la psychiatre. Les professionnelles reprennent les éléments nécessaires à leurs fonctions et confirment la suite applicable. Derain revient ensuite vers Florence sur ce qui la concerne. Elle ne lui demande pas de décider quelles informations relatives aux besoins d’autrui pourront être prises en compte.\n\nFlorence cherche un moment le lien avec son effort récent. Elle voulait que venir régulièrement produise une conséquence visible sur la protection. Ce qui lui est donné aujourd’hui est une clarification des rôles et des consignes, pas cette conséquence. Elle vérifie qu’elle a compris, puis range sa note. La date d’envoi de l’épreuve harmonisée reste une autre question, destinée à Cathy.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Coordonner sans fusionner les responsabilités",
+          "text": "Une coordination effective permet aux professionnels d’assumer des fonctions différentes avec les informations nécessaires. Le suivi psychiatrique ne remplace pas la protection, et une impression favorable dans un entretien ne suffit pas à déterminer la sécurité d’autrui. Les modalités de partage dépendent du cadre applicable ; aucune règle juridique universelle n’est déduite ici d’un guide clinique. Florence reçoit les consignes qui la concernent, sans devenir responsable du filtrage des besoins de la personne exposée ni destinataire de toute sa vie privée."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment la confusion des rôles apparaît-elle ?",
+          "points": [
+            {
+              "heading": "L’assiduité devient un argument",
+              "text": "Florence attend de sa présence une portée qui dépasse l’entretien.",
+              "examples": [
+                "Elle compte les rendez-vous maintenus.",
+                "Elle demande si cela suffit à modifier les décisions de protection."
+              ]
+            },
+            {
+              "heading": "La circulation de l’information suscite des attentes",
+              "text": "Elle aimerait connaître le contenu de tous les échanges.",
+              "examples": [
+                "Elle demande ce qui se dit avec Nora.",
+                "Derain distingue information utile et renseignements privés sur autrui."
+              ]
+            },
+            {
+              "heading": "Les professionnelles réalisent le relais",
+              "text": "La coordination ne reste pas une intention annoncée.",
+              "examples": [
+                "Derain échange effectivement avec Nora.",
+                "Elle précise ensuite à Florence les consignes qui la concernent."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour comprendre une coordination professionnelle",
+          "points": [
+            {
+              "heading": "Clarifier les rôles",
+              "objective": "Savoir à qui adresser une question.",
+              "exercise": [
+                "Nommer la question que l’on souhaite poser.",
+                "Demander quel professionnel en est l’interlocuteur.",
+                "Reformuler la répartition expliquée."
+              ],
+              "benefit": "La réponse ne dépend pas d’un rôle attribué à tort au soignant ou à une collègue."
+            },
+            {
+              "heading": "Demander le cadre de partage",
+              "objective": "Comprendre les échanges sans réclamer la vie privée d’autrui.",
+              "exercise": [
+                "Questionner le professionnel sur les informations utiles à sa mission.",
+                "Faire préciser les limites du partage dans le cadre applicable.",
+                "Distinguer ce qui concerne ses propres consignes des informations auxquelles on n’a pas accès."
+              ],
+              "benefit": "La coordination peut être comprise sans promesse de secret absolu ou de transparence totale."
+            },
+            {
+              "heading": "Appliquer les consignes reçues",
+              "objective": "Donner une suite à la clarification.",
+              "exercise": [
+                "Vérifier les décisions qui demeurent effectives.",
+                "Faire préciser une consigne mal comprise.",
+                "Adresser tout changement pertinent au professionnel concerné."
+              ],
+              "benefit": "Les responsabilités restent effectives au-delà de la satisfaction d’un entretien."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Une date pour Cathy, des consignes pour Florence",
+      "ending": "Derain et Nora maintiennent leurs responsabilités respectives et confirment les modalités déjà effectives. Florence vérifie les consignes qui lui sont adressées. Elle écrit ensuite à Cathy la date de l’épreuve harmonisée, sans lui transmettre le contenu clinique ni attendre une appréciation de son assiduité. La collègue organise le cahier. Florence garde la clarification professionnelle pour le suivi et respecte les décisions en vigueur.",
+      "conclusion": "La coordination rend les responsabilités plus lisibles sans les mettre en concurrence. Florence connaît mieux les consignes qui la concernent, tandis que la sécurité et les informations privées de la personne exposée restent du ressort des professionnels compétents.",
+      "mirror": [
+        "Cathy peut répondre à la date de l’épreuve et laisser le reste aux professionnels : « Pour le cahier, cette échéance me convient. » Elle ne doit pas devenir destinataire d’un dossier clinique pour coordonner les textes. La personne exposée garde ses droits à la protection et à la vie privée, indépendamment de la régularité des consultations de Florence."
+      ],
+      "clinical_focus": "Coordination clinique et protection",
+      "diagnostic_stage": "known",
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "rcpsych-cr223"
+      ],
+      "continuity": {
+        "choice": "Derain et Nora maintiennent leurs responsabilités respectives et confirment les modalités déjà effectives. Florence vérifie les consignes qui lui sont adressées. Elle écrit ensuite à Cathy la date de l’épreuve harmonisée, sans lui transmettre le contenu clinique ni attendre une appréciation de son assiduité. La collègue organise le cahier. Florence garde la clarification professionnelle pour le suivi et respecte les décisions en vigueur.",
+        "next": "La place laissée hors du rôle de responsable de la santé d’autrui permet à Florence de parler de sa propre détresse."
+      }
+    }
+  ]
+}

@@ -523,6 +523,734 @@
           ]
         }
       ]
+    },
+    {
+      "number": 6,
+      "slug": "sylvain-honte-parole-clinique",
+      "title": "La honte peut réduire la parole au suivi",
+      "description": "Avant l’appel convenu, Sylvain a écrit « semaine chargée ». Il remplace cette formule par une information plus fidèle au changement vécu.",
+      "context": "avant l’appel au cabinet",
+      "topics": [
+        "Frotteurisme",
+        "Honte",
+        "Transmission clinique"
+      ],
+      "clinical_intro": "La honte peut rendre plus difficile la transmission d’informations utiles aux soins, sans constituer un symptôme obligatoire du trouble. Sylvain hésite à parler de préoccupations plus présentes et les cache derrière une formule générale. Il peut demander comment fonctionne la confidentialité et adresser le changement à l’équipe sans le dévoiler au groupe de photographie.",
+      "opening": "« Semaine chargée. » Sylvain relit les deux mots notés pour l’appel convenu avec le cabinet. Ils sont vrais : le tableau a pris du retard et la mise en page du carnet a été reportée. Mais ils laissent de côté ce qui l’inquiète. Les préoccupations ont pris davantage de place. Même après l’ajustement de l’agenda, il a du mal à trouver comment le dire.\n\nIl craint que la phrase change la manière dont on le regarde. Il sait que l’équipe connaît déjà son diagnostic ; cette connaissance ne fait pas disparaître la honte qu’il éprouve aujourd’hui. Il imagine une explication longue, puis la supprime avant de l’avoir écrite. À force de chercher une formulation qui ne puisse provoquer aucune question, il ne garderait bientôt que le calendrier.\n\nLe téléphone est devant lui. Il appelle à l’heure convenue et précise qu’il souhaite transmettre un changement aux soignants. « Les préoccupations sont plus présentes. Je voudrais en parler, et comprendre ce qui reste confidentiel et dans quelles limites. » Le cabinet lui indique comment cette demande sera reprise avec l’équipe. Sylvain n’obtient pas une promesse de secret absolu ; il demande un cadre réel pour pouvoir parler.\n\nIl garde les informations cliniques dans ses notes personnelles. Le message destiné à Maud est ouvert dans une autre fenêtre et concerne seulement la remise des légendes. Les deux démarches peuvent avancer le même jour, sans obliger la formatrice à recevoir le contenu de l’appel et sans réduire le soin à une nouvelle négociation de délai.",
+      "clinical_focus": "La honte peut réduire la parole clinique",
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "wfsbp-2020"
+      ],
+      "diagnostic_stage": "known",
+      "continuity": {
+        "choice": "Sylvain transmet l’augmentation des préoccupations, demande le cadre de confidentialité ; le cabinet organise le rendez-vous et Maud reçoit la date des légendes.",
+        "next": "Ce rendez-vous permettra aussi de signaler un changement récent du sommeil."
+      },
+      "ending_title": "Un rendez-vous organisé",
+      "ending": "Le cabinet organise un rendez-vous adapté à la demande transmise. Sylvain en note la date et garde sa question sur la confidentialité pour la reprendre avec la médecin. Il écrit à Maud seulement une date réaliste de remise des légendes. La honte reste présente, mais elle n’a pas réduit l’appel aux deux mots du début.",
+      "conclusion": "Une parole clinique utile n’exige pas de tout révéler à tout le monde. Sylvain transmet le changement dans le cadre compétent, pose ses questions et garde une information professionnelle limitée à ce qui est nécessaire.",
+      "mirror": [
+        "Si Karim sait qu’un appel était prévu, il peut demander : « As-tu pu joindre le cabinet ? » Sylvain peut répondre sans raconter l’entretien. Son ami n’a pas à obtenir les détails pour prouver son soutien ni à promettre de tout garder secret face à un danger. Maud, elle, peut simplement confirmer la date de remise qu’elle reçoit, sans interpréter ce que Sylvain ne partage pas."
+      ],
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Une formule vague peut masquer le changement",
+          "text": "Une information clinique peut être difficile à transmettre lorsque la personne redoute le regard porté sur elle. Il s’agit ici de l’expérience particulière de Sylvain, pas d’une règle sur toutes les personnes ayant un frotteurisme. La formule semaine chargée décrit le contexte mais laisse invisible l’augmentation des préoccupations. Demander les conditions et les limites réelles de confidentialité peut soutenir un échange informé ; cela ne garantit ni absence de questions ni secret absolu en situation de danger."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment la honte réduit-elle ce qui est transmis ?",
+          "points": [
+            {
+              "heading": "Le contexte remplace la difficulté",
+              "text": "Une explication vraie peut rester incomplète.",
+              "examples": [
+                "Sylvain note seulement que la semaine est chargée.",
+                "Il ne mentionne pas d’abord les préoccupations plus présentes."
+              ]
+            },
+            {
+              "heading": "La recherche de mots devient une suppression",
+              "text": "Vouloir éviter toute question peut empêcher une demande fidèle.",
+              "examples": [
+                "Il imagine une longue phrase puis la retire.",
+                "Il cherche une formulation qui ne modifierait aucun regard."
+              ]
+            },
+            {
+              "heading": "Le cadre de parole devient une question",
+              "text": "Préciser comment les informations seront traitées permet de sortir des suppositions.",
+              "examples": [
+                "Il demande les limites de confidentialité au cabinet.",
+                "Il réserve les éléments de soin aux interlocuteurs compétents."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour préparer une transmission malgré la honte",
+          "points": [
+            {
+              "heading": "Remplacer une formule vague",
+              "objective": "Rendre visible le changement que l’on souhaite faire évaluer.",
+              "exercise": [
+                "Relire la phrase préparée.",
+                "Identifier ce qu’elle laisse de côté.",
+                "Ajouter une observation sobre sur le changement actuel."
+              ],
+              "benefit": "Le contact peut porter sur le besoin réel sans imposer un récit détaillé dans un canal inadapté."
+            },
+            {
+              "heading": "Demander le cadre de confidentialité",
+              "objective": "Comprendre les règles appliquées dans la situation.",
+              "exercise": [
+                "Dire au professionnel ce que l’on ne comprend pas.",
+                "Demander qui reçoit les informations et dans quelles limites.",
+                "Faire préciser les démarches prévues en cas de danger."
+              ],
+              "benefit": "Une réponse située évite de fonder la parole sur une promesse de secret qui ne serait pas réelle."
+            },
+            {
+              "heading": "Distinguer les destinataires",
+              "objective": "Ne pas confondre transmission clinique et information pratique.",
+              "exercise": [
+                "Réserver la demande de soin à l’équipe.",
+                "Définir ce que la formatrice doit savoir pour organiser la tâche.",
+                "Envoyer séparément les informations adaptées à chaque destinataire."
+              ],
+              "benefit": "La confidentialité ordinaire peut être préservée sans empêcher les démarches de prévention nécessaires."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "slug": "sylvain-changement-sommeil-bilan",
+      "title": "Un changement récent mérite son propre bilan",
+      "description": "Au rendez-vous organisé, Sylvain décrit un sommeil inhabituel. Le diagnostic connu ne fournit pas automatiquement l’explication.",
+      "context": "au rendez-vous organisé après l’appel",
+      "topics": [
+        "Frotteurisme",
+        "Sommeil modifié",
+        "Évaluation clinique"
+      ],
+      "clinical_intro": "Un diagnostic connu n’explique pas automatiquement chaque changement de santé. Un sommeil inhabituel et une fatigue nouvelle demandent une description puis une évaluation adaptées. Sylvain les signale au rendez-vous organisé après son appel ; la médecin reprend leur chronologie sans ajouter un diagnostic à partir de quelques observations ni déduire la cause du seul contexte.",
+      "opening": "Le rendez-vous organisé après l’appel commence par ce que Sylvain voulait transmettre. Les préoccupations ont pris davantage de place et il a eu du mal à en parler. Il reprend aussi sa question sur la confidentialité ; la docteure Perrin lui explique le cadre applicable et ses limites avant qu’ils poursuivent l’entretien.\n\nPuis Sylvain mentionne ses nuits. Elles sont inhabituelles depuis peu, et la fatigue du matin lui semble différente de ce qu’il avait déjà décrit. Il ajoute aussitôt que cela doit faire partie du trouble connu. Cette phrase lui paraît économique : une seule explication, un seul dossier à ouvrir. La médecin lui demande plutôt depuis quand il l’a remarqué et ce que cela change dans ses journées.\n\nIl reprend les repères dont il dispose. Certaines soirées de travail sur les images avaient été raccourcies, mais il ne sait pas si cela explique les nuits suivantes. Il distingue ce qu’il a observé de ce qu’il suppose. La médecin l’interroge sur les autres éléments utiles à l’évaluation ; il répond dans le cadre de la consultation, sans chercher lui-même une nouvelle étiquette.\n\nL’entretien n’est pas une série de cases que Sylvain pourrait reproduire pour établir son diagnostic chez lui. La réévaluation a lieu et les suites sont discutées. Avant de partir, il demande ce qui devra être signalé si la situation change encore. La question de sa présence à la promenade reste ouverte : il ne veut pas utiliser une explication improvisée du sommeil pour la fermer trop vite.",
+      "clinical_focus": "Un changement récent mérite son propre bilan",
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "wfsbp-2020"
+      ],
+      "diagnostic_stage": "known",
+      "continuity": {
+        "choice": "Le sommeil nouveau est réévalué, les suites et contacts sont précisés ; aucun diagnostic ajouté et présence à la promenade toujours ouverte.",
+        "next": "Le suivi suivant discutera ses attentes envers le soin, indépendamment de la date de sortie."
+      },
+      "ending_title": "Une réponse encore ouverte",
+      "ending": "La réévaluation a lieu et Sylvain repart avec des suites précisées par l’équipe. Aucun nouveau diagnostic n’est annoncé dans le récit. Il ne confirme pas sa présence à la promenade ; le carnet et les rendez-vous gardent chacun leur place. Il sait mieux ce qu’il doit transmettre, sans prétendre avoir trouvé à lui seul l’explication de ses nuits.",
+      "conclusion": "Décrire un changement permet de demander une évaluation sans tout attribuer au trouble connu. Sylvain conserve des repères, des suites concrètes et une décision professionnelle encore ouverte, au lieu de fabriquer un diagnostic à partir du sommeil.",
+      "mirror": [
+        "Si Sylvain évoque sa fatigue, Karim peut répondre : « Tu as pu expliquer ce qui était différent au rendez-vous ? » Il n’a pas à identifier une cause, surveiller les nuits ou conseiller de modifier un traitement. Maud peut continuer à organiser les légendes selon l’accord reçu ; l’absence de confirmation pour la promenade n’exige pas qu’elle interprète un résultat médical."
+      ],
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Le trouble connu ne doit pas expliquer tout le reste",
+          "text": "L’évaluation d’une difficulté nouvelle tient compte de la santé de la personne et d’autres explications possibles. Les frontières diagnostiques de la classification ne permettent pas de conclure à partir du sommeil seul. Dans la scène, aucun trouble associé ni usage de substances n’est ajouté à Sylvain. La médecin reprend les éléments pertinents avant de décider des suites ; ni une supposition sur le bouclage du carnet ni une attribution au trouble connu ne remplace cette appréciation."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment garder une place à ce qui est nouveau ?",
+          "points": [
+            {
+              "heading": "Une observation diffère de la période précédente",
+              "text": "La nouveauté peut être signalée sans en connaître la cause.",
+              "examples": [
+                "Sylvain décrit des nuits inhabituelles.",
+                "Il distingue cette fatigue de ce qu’il avait déjà rapporté."
+              ]
+            },
+            {
+              "heading": "L’explication vient trop vite",
+              "text": "Un diagnostic connu peut donner envie de ranger toute difficulté sous la même étiquette.",
+              "examples": [
+                "Il affirme d’abord que le sommeil doit en faire partie.",
+                "Il cherche une seule explication avant que l’entretien soit mené."
+              ]
+            },
+            {
+              "heading": "La chronologie reste utile",
+              "text": "Des repères concrets aident le professionnel à poser ses questions.",
+              "examples": [
+                "Il situe les changements avec les dates dont il se souvient.",
+                "Il sépare l’observation des soirées raccourcies de son hypothèse sur les nuits."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour présenter un changement de santé",
+          "points": [
+            {
+              "heading": "Décrire ce qui est nouveau",
+              "objective": "Donner des repères sans transformer une observation en diagnostic.",
+              "exercise": [
+                "Nommer la différence avec la période précédente.",
+                "Situer approximativement son début.",
+                "Décrire un effet concret sur la journée."
+              ],
+              "benefit": "Le professionnel peut explorer le changement à partir d’informations compréhensibles."
+            },
+            {
+              "heading": "Répondre aux questions pertinentes",
+              "objective": "Permettre une évaluation plus large que sa première hypothèse.",
+              "exercise": [
+                "Présenter son explication comme une possibilité.",
+                "Répondre aux questions de l’équipe sur les éléments utiles.",
+                "Discuter toute question de traitement avec elle, sans modification décidée seul."
+              ],
+              "benefit": "L’entretien garde ouvertes les explications et les décisions nécessitant une compétence clinique."
+            },
+            {
+              "heading": "Convenir des suites",
+              "objective": "Savoir ce qui est réellement prévu après le bilan.",
+              "exercise": [
+                "Reformuler la prochaine étape discutée.",
+                "Demander quels changements doivent être signalés et par quel contact.",
+                "Vérifier le prochain échange sans conclure seul sur la participation au groupe."
+              ],
+              "benefit": "Des suites explicites évitent que le récit d’une mauvaise nuit devienne une autorisation ou une interdiction générale."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "slug": "sylvain-soin-individualise-sans-garantie",
+      "title": "Le soin se choisit sans garantie totale",
+      "description": "Sylvain espère une solution avant la promenade. L’entretien distingue les objectifs du soin du calendrier de la formation.",
+      "context": "lors du point de suivi suivant",
+      "topics": [
+        "Frotteurisme",
+        "Décision de soin",
+        "Incertitudes"
+      ],
+      "clinical_intro": "Un soin individualisé se discute à partir des besoins de la personne, d’une information comprise et d’une réévaluation. Il ne promet pas de résoudre toute difficulté avant une date choisie. Sylvain peut présenter ses attentes et ses questions à la docteure Perrin, tandis que le calendrier de la promenade reste une question d’organisation distincte.",
+      "opening": "Au point suivant, Sylvain a apporté une liste de questions. Il en a écrit trois, puis ajouté la date de la promenade au bas de la page. Il regarde cette date avant même de commencer. Les suites discutées au dernier rendez-vous lui ont donné des repères, mais il voudrait maintenant une réponse qui ferme toute incertitude.\n\n« Est-ce qu’on peut trouver quelque chose qui règle tout avant cette date ? » Il entend la demande et sait qu’il y a mis plus que ce qu’il avait prévu. La docteure Perrin lui demande ce qu’il souhaite voir changer. Sylvain parle du poids des préoccupations, de la détresse et de l’envie de ne plus organiser ses projets autour de questions qu’il préférerait oublier.\n\nLa médecin reprend les objectifs qui peuvent être discutés dans sa situation, les limites des connaissances et la manière de réévaluer ce qui l’aide ou non. Les détails thérapeutiques appartiennent à la consultation. Sylvain pose ses questions, demande les contraintes pertinentes et reformule ce qu’il a compris. Une explication attentive ne produit pas la garantie qu’il espérait ; elle lui permet néanmoins de savoir quelle prochaine étape il accepte.\n\nLa date reste écrite sur la feuille. Il ne l’efface pas, mais cesse de la traiter comme une échéance imposée au soin. Chez lui, la sélection des images l’attend. Il doit choisir celles qui formeront le carnet, pas celles qui prouveraient qu’une option thérapeutique fonctionne. La feuille de hêtre restera la première, la souche moussue la dernière.",
+      "clinical_focus": "Le soin se choisit sans garantie totale",
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "wfsbp-2020"
+      ],
+      "diagnostic_stage": "known",
+      "continuity": {
+        "choice": "Sylvain confirme le suivi individualisé puis achève la sélection des six images, hêtre en premier et souche moussue en dernier.",
+        "next": "Le rôle de Karim, soutien choisi, doit être défini avant qu’il ne devienne une garantie imaginaire."
+      },
+      "ending_title": "La sélection des six images",
+      "ending": "Sylvain confirme la poursuite du suivi et la prochaine étape. Chez lui, il termine la sélection des six images : le hêtre ouvre le carnet et la souche moussue le ferme. Il ne donne à cette sélection aucune valeur de décision clinique. Le dossier vert contient désormais un ensemble cohérent ; les questions de soin restent dans leur propre cadre.",
+      "conclusion": "Une décision de soin peut être éclairée sans garantie totale. Sylvain conserve sa possibilité de poser des questions et de réévaluer, pendant que la sélection du carnet avance sans devenir une mesure d’efficacité thérapeutique.",
+      "mirror": [
+        "Karim peut demander : « As-tu compris la prochaine étape et pu dire ce que tu attendais ? » Il n’a pas à choisir une option à la place de Sylvain ni à garantir qu’elle fonctionnera. Maud peut discuter de l’ordre des six images sans attendre de conclusion sur sa santé. Ni la formation ni l’amitié ne donnent un calendrier obligatoire aux soins."
+      ],
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Comprendre une proposition adaptée à sa situation",
+          "text": "Les recommandations spécialisées guident les cliniciens sans prédire le résultat d’une personne. Leurs données comportent notamment des études petites ou non contrôlées et des populations hétérogènes, souvent issues de contextes médico-légaux. Elles ne fournissent pas à Sylvain un délai de guérison ni un protocole déduit de son diagnostic. La décision prend en compte ses besoins et ses préférences, les bénéfices attendus, les contraintes et les limites expliquées, avec une possibilité de réévaluation. Aucun traitement n’est prescrit dans cet article."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment une date de projet influence-t-elle les attentes de soin ?",
+          "points": [
+            {
+              "heading": "La demande cherche à supprimer toute incertitude",
+              "text": "Le souhait de participer peut se glisser dans la question clinique.",
+              "examples": [
+                "Sylvain place la date de la promenade sous ses questions.",
+                "Il demande une solution qui règle tout avant ce jour."
+              ]
+            },
+            {
+              "heading": "Les objectifs doivent être explicités",
+              "text": "Une attente générale devient plus compréhensible lorsqu’elle est décrite.",
+              "examples": [
+                "Il parle du poids des préoccupations.",
+                "Il explique ce que la détresse change dans ses projets."
+              ]
+            },
+            {
+              "heading": "La décision ne ferme pas toute la suite",
+              "text": "Une étape peut être acceptée sans promesse définitive.",
+              "examples": [
+                "Il reformule les informations reçues.",
+                "Il vérifie quand la situation sera réexaminée."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour discuter une décision de soin",
+          "points": [
+            {
+              "heading": "Préparer ses questions",
+              "objective": "Rendre visibles les attentes qui orientent la demande.",
+              "exercise": [
+                "Écrire ce que l’on espère voir changer.",
+                "Ajouter ce qui inquiète ou reste incompris.",
+                "Présenter ces questions au clinicien qui connaît la situation."
+              ],
+              "benefit": "Le dialogue peut partir des besoins réels plutôt que d’un accord donné sans compréhension."
+            },
+            {
+              "heading": "Demander bénéfices et limites",
+              "objective": "Comprendre la proposition avant de décider.",
+              "exercise": [
+                "Demander ce qui est attendu dans sa situation.",
+                "Faire préciser les risques, contraintes et incertitudes pertinents.",
+                "Reformuler la réponse et demander une correction si nécessaire."
+              ],
+              "benefit": "Une information comprise soutient le choix sans transformer la proposition en promesse de résultat."
+            },
+            {
+              "heading": "Confirmer la prochaine étape",
+              "objective": "Garder la réévaluation concrète.",
+              "exercise": [
+                "Vérifier ce qui a été décidé ensemble.",
+                "Confirmer le prochain point et les modalités de contact.",
+                "Signaler à l’équipe les changements ou questions qui apparaissent."
+              ],
+              "benefit": "La poursuite du soin reste une démarche discutée, indépendante d’une date de sortie ou d’une réussite photographique."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "slug": "sylvain-soutien-limite-responsabilite",
+      "title": "Le soutien ne transfère pas la responsabilité",
+      "description": "Sylvain demande un appel chaque soir. Karim accepte un soutien limité, sans devenir surveillant ni garant de la promenade.",
+      "context": "pendant un échange avec Karim",
+      "topics": [
+        "Frotteurisme",
+        "Soutien choisi",
+        "Limites relationnelles"
+      ],
+      "clinical_intro": "Le soutien d’un proche repose sur un accord précis et révisable. Il ne transfère pas la responsabilité des comportements et ne remplace pas une équipe de soins. Sylvain voudrait demander à Karim une vérification quotidienne ; leur échange clarifie ce qui est réellement accepté, avec le droit de refuser et des relais professionnels indépendants de l’amitié.",
+      "opening": "Les six images sont alignées sur la table de Sylvain quand Karim l’appelle. Son ami demande si la sélection avance. Sylvain lui répond qu’elle est terminée, puis parle de la promenade dont sa présence reste conditionnelle. Il aimerait moins se sentir seul devant les décisions qui l’attendent. La demande lui semble simple lorsqu’il la formule : Karim pourrait-il vérifier chaque soir que tout va bien ?\n\nKarim ne répond pas tout de suite. Il avait accepté certains échanges convenus dans le cadre du soutien choisi, pas une surveillance quotidienne. Il le rappelle sans interpréter l’état de Sylvain. Il ne peut pas décider de sa participation et ne souhaite pas recevoir chaque soir un compte rendu qui lui ferait porter une responsabilité qu’il n’a pas.\n\nSylvain regarde la souche moussue à la fin de la rangée. La déception arrive avant les mots. Il pense à dire que l’appel ne prendrait que quelques minutes, puis comprend que réduire sa durée ne changerait pas sa nature. Ce qu’il demandait était bien plus qu’une conversation. Il cesse d’insister et demande quel échange Karim accepterait réellement.\n\nIls parlent d’un appel limité, à un moment convenu, sans bilan obligatoire. Sylvain garde les questions de prévention pour l’équipe. Les six images n’ont pas bougé ; son ami ne devient pas, parce qu’il les aime et souhaite prendre des nouvelles, la personne chargée de garantir que tout ira bien pendant les semaines suivantes.",
+      "clinical_focus": "Le soutien ne transfère pas la responsabilité",
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "wfsbp-2020"
+      ],
+      "diagnostic_stage": "known",
+      "continuity": {
+        "choice": "Karim et Sylvain conviennent d’un appel limité sans compte rendu obligatoire ; les contacts professionnels indépendants sont vérifiés avec l’équipe.",
+        "next": "La préparation concrète doit maintenant distinguer la remise des images et la décision de rejoindre la promenade."
+      },
+      "ending_title": "Un appel sans compte rendu obligatoire",
+      "ending": "Ils fixent un appel limité, sans obligation de passer en revue chaque journée. Sylvain vérifie ensuite avec l’équipe les contacts à utiliser lorsque Karim n’est pas disponible. Il n’efface pas sa déception, mais ne demande plus à son ami de la résoudre en acceptant la surveillance. La sélection du carnet reste une nouvelle qu’il pourra partager, pas un rapport à faire approuver.",
+      "conclusion": "Un soutien peut compter sans être permanent. Sylvain respecte le périmètre de Karim et conserve les relais professionnels, afin que l’amitié ne devienne ni condition de sécurité ni garantie imaginaire de participation.",
+      "mirror": [
+        "Karim peut dire : « Je veux bien l’appel convenu, mais pas vérifier chaque soir ni décider pour la promenade. » Il peut aussi retirer cet accord si ses possibilités changent. Il n’a pas à compenser son refus par une autre forme de surveillance ou promettre un secret absolu face au danger. Les contacts de l’équipe demeurent le relais adapté aux questions cliniques et de prévention."
+      ],
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Une présence choisie garde des limites",
+          "text": "Un parcours de soins peut avoir un retentissement sur les relations lorsque les attentes de soutien deviennent plus larges que les accords. La place d’une personne choisie se définit selon sa disponibilité et le cadre clinique ; elle ne constitue pas une obligation de surveillance. Karim peut refuser une vérification quotidienne, limiter ses échanges ou se retirer. L’affection ne lui donne ni compétence d’évaluation ni responsabilité des comportements de Sylvain. Les relais professionnels restent nécessaires indépendamment de son accord."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment un soutien risque-t-il de devenir une surveillance ?",
+          "points": [
+            {
+              "heading": "La demande dépasse l’accord initial",
+              "text": "Un échange occasionnel n’équivaut pas à une présence quotidienne.",
+              "examples": [
+                "Sylvain demande de vérifier chaque soir que tout va bien.",
+                "Karim rappelle les échanges limités qu’il avait acceptés."
+              ]
+            },
+            {
+              "heading": "La déception pousse à renégocier le refus",
+              "text": "Réduire la durée annoncée ne rend pas le rôle moins lourd.",
+              "examples": [
+                "Sylvain pense proposer quelques minutes seulement.",
+                "Il remarque que la fonction de vérification resterait identique."
+              ]
+            },
+            {
+              "heading": "Un accord plus limité reste possible",
+              "text": "Une relation peut continuer sans porter l’ensemble de la prévention.",
+              "examples": [
+                "Ils conviennent d’un appel à un moment précis.",
+                "Aucun compte rendu obligatoire n’est attaché à cet appel."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour garder un soutien réellement choisi",
+          "points": [
+            {
+              "heading": "Préciser la demande",
+              "objective": "Permettre à l’autre de comprendre le rôle proposé.",
+              "exercise": [
+                "Dire quel échange serait souhaité.",
+                "Nommer sa fréquence et ce que l’on en attend.",
+                "Demander si la personne veut et peut accepter."
+              ],
+              "benefit": "Un accord explicite évite de transformer progressivement une amitié en permanence."
+            },
+            {
+              "heading": "Accueillir un refus entier",
+              "objective": "Respecter la limite sans multiplier les pressions.",
+              "exercise": [
+                "Laisser la personne terminer sa réponse.",
+                "Ne pas lui demander de justifier longuement son refus.",
+                "Retirer du programme ce qu’elle n’a pas accepté."
+              ],
+              "benefit": "Le proche conserve sa liberté même lorsque la limite provoque de la déception."
+            },
+            {
+              "heading": "Conserver les relais professionnels",
+              "objective": "Ne pas dépendre d’un seul ami pour les questions de sécurité.",
+              "exercise": [
+                "Reprendre les contacts convenus avec l’équipe.",
+                "Vérifier les alternatives quand Karim ou un service n’est pas disponible.",
+                "Solliciter immédiatement l’aide adaptée si la sécurité ne peut être maintenue."
+              ],
+              "benefit": "Le soutien amical n’est pas chargé de remplacer les soins ; un danger immédiat appelle les services d’urgence compétents."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "slug": "sylvain-prevention-decisions-effectives",
+      "title": "La prévention exige des décisions effectives",
+      "description": "Sylvain cesse de compter sur une intention générale. Avec l’équipe puis Maud, il sépare remise du carnet et présence à la promenade.",
+      "context": "pendant la préparation du projet",
+      "topics": [
+        "Frotteurisme",
+        "Prévention individualisée",
+        "Décisions concrètes"
+      ],
+      "clinical_intro": "Une intention de prudence ne suffit pas à organiser la prévention. Les besoins sont appréciés individuellement avec les professionnels, puis les décisions doivent avoir des conséquences concrètes. Sylvain distingue la contribution photographique de sa présence éventuelle à la promenade, vérifie les relais et conserve une possibilité réelle d’interrompre la participation si la situation l’exige.",
+      "opening": "Sylvain avait écrit « faire attention » en haut de sa note. Au rendez-vous, la formule lui paraît moins claire qu’elle ne l’était chez lui. Elle dit son intention, mais pas les décisions dont il a besoin. Depuis la conversation avec Karim, il sait qu’un appel amical ne peut pas tenir lieu de plan. Il apporte donc à l’équipe ses questions sur le projet et sur les modalités déjà discutées.\n\nIl remarque qu’il avait lié la remise du carnet à sa présence à la promenade. Dans cette version, renoncer à rejoindre le groupe ferait aussi tomber tout son travail. Cette association lui donne envie de promettre davantage qu’il ne peut décider aujourd’hui. Il veut éviter de se retrouver à défendre sa participation simplement pour que les images aient une utilité.\n\nAvec l’équipe, il reprend les modalités de prévention, les contacts réellement disponibles et les démarches à engager si la situation nécessite une interruption. Il pose la question des périodes où son contact habituel ne peut pas répondre. Les réponses restent adaptées à sa situation ; aucun membre du groupe n’est chargé d’observer ou d’évaluer son comportement.\n\nAprès cet échange, Sylvain prépare un message à Maud. Il propose que les six images soient remises indépendamment de sa présence et qu’un bref échange à distance permette de finaliser les légendes. Il ne demande pas un certificat de sécurité. Il veut un accord d’organisation qu’elle puisse accepter ou refuser, pendant que les décisions cliniques continuent de relever de l’équipe.",
+      "clinical_focus": "La prévention exige des décisions effectives",
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "wfsbp-2020"
+      ],
+      "diagnostic_stage": "known",
+      "continuity": {
+        "choice": "Après reprise du plan avec l’équipe, Maud confirme remise indépendante des six images et bref échange à distance ; présence physique conditionnelle, sans garant proche.",
+        "next": "Une variation signalée avant la sortie conduira à utiliser réellement la possibilité de ne pas participer."
+      },
+      "ending_title": "La remise ne dépend plus de la présence",
+      "ending": "Maud accepte la remise des six images et un court échange à distance sur les légendes. Sylvain note cet accord séparément de sa présence physique, toujours conditionnelle. Karim n’est inscrit comme garant d’aucune de ces décisions. Le carnet peut maintenant servir au groupe même si la modalité de participation change ; cette possibilité existe dans l’organisation, pas seulement dans ses intentions.",
+      "conclusion": "La prévention demande des décisions qui restent applicables lorsque le projet évolue. Sylvain obtient un cadre concret pour les images, garde la présence conditionnelle et les relais professionnels accessibles, sans transformer aucun proche en garant.",
+      "mirror": [
+        "Maud peut répondre : « Je peux recevoir les six images et prévoir un bref échange sur les légendes, indépendamment de ta présence. » Cet accord concerne le travail pédagogique. Elle n’a pas à évaluer sa santé ou à demander aux participants de le surveiller. Karim peut maintenir son rôle limité ; si une inquiétude de sécurité survient, les relais adaptés priment sur le programme et les promesses amicales."
+      ],
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Passer d’une intention aux modalités réellement convenues",
+          "text": "La prévention s’appuie sur une appréciation individualisée des besoins, pas sur une promesse générale ou un code diagnostique pris isolément. Dans la fiction, Sylvain clarifie des contacts et sépare deux engagements jusque-là liés. Cet arrangement ne constitue ni un traitement validé ni une garantie de risque nul. Si la crainte de mettre autrui en danger apparaît, la participation doit être interrompue et une aide professionnelle adaptée sollicitée immédiatement selon le cadre convenu ; un danger immédiat appelle les services d’urgence compétents."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment une intention générale laisse-t-elle des décisions ouvertes ?",
+          "points": [
+            {
+              "heading": "La formule ne précise pas les démarches",
+              "text": "Une intention sincère n’indique pas à qui s’adresser ni quoi modifier.",
+              "examples": [
+                "Sylvain a seulement écrit faire attention.",
+                "Il doit demander les alternatives au contact habituel."
+              ]
+            },
+            {
+              "heading": "Deux engagements deviennent indissociables",
+              "text": "L’utilité d’un travail peut exercer une pression sur la décision de participation.",
+              "examples": [
+                "Il imagine que renoncer à la promenade ferait perdre le carnet.",
+                "Il est tenté de promettre sa présence pour préserver les images."
+              ]
+            },
+            {
+              "heading": "L’accord doit être effectif",
+              "text": "Une possibilité imaginée ne remplace pas la réponse de l’organisatrice.",
+              "examples": [
+                "Il demande une remise indépendante du carnet.",
+                "Il propose un échange à distance que Maud doit confirmer."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour rendre les décisions préventives effectives",
+          "points": [
+            {
+              "heading": "Séparer les décisions",
+              "objective": "Ne pas faire dépendre un projet entier d’une seule modalité.",
+              "exercise": [
+                "Identifier ce qui relève de la contribution préparée.",
+                "Distinguer la décision de présence et les besoins de soin.",
+                "Discuter chaque question avec l’interlocuteur compétent."
+              ],
+              "benefit": "La participation peut rester révisable sans rendre le travail déjà accompli inutile."
+            },
+            {
+              "heading": "Confirmer les modalités applicables",
+              "objective": "Transformer une possibilité en accord utilisable.",
+              "exercise": [
+                "Demander le format accepté par l’organisatrice.",
+                "Vérifier les horaires et le contenu de l’échange convenu.",
+                "Conserver à part les contacts et les suites cliniques."
+              ],
+              "benefit": "Les rôles deviennent plus lisibles sans donner une fonction de surveillance au groupe."
+            },
+            {
+              "heading": "Prévoir l’interruption et le relais",
+              "objective": "Éviter que l’engagement au projet retarde l’aide nécessaire.",
+              "exercise": [
+                "Reprendre avec l’équipe les démarches adaptées si la situation change.",
+                "Vérifier les alternatives de contact disponibles.",
+                "Interrompre la participation et demander immédiatement une aide professionnelle en cas de crainte de danger."
+              ],
+              "benefit": "Une organisation explicite ne remplace pas les urgences : en danger immédiat, contacter les services compétents sans attendre un prochain rendez-vous."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 11,
+      "slug": "sylvain-fluctuation-revision-participation",
+      "title": "Une fluctuation conduit à réviser la participation",
+      "description": "Les préoccupations et la détresse augmentent. Après un point avec l’équipe, Sylvain renonce à rejoindre la promenade et prévient Maud.",
+      "context": "quelques jours avant la promenade",
+      "topics": [
+        "Frotteurisme",
+        "Fluctuation",
+        "Révision du projet"
+      ],
+      "clinical_intro": "L’évolution d’un trouble peut varier sans que chaque changement signifie un acte ou annule tout ce qui a été accompli. Une augmentation des préoccupations et de la détresse appelle une réévaluation. Sylvain transmet ce changement avant la promenade, puis applique une décision de retrait physique tout en préservant une contribution séparée, déjà organisée avec Maud.",
+      "opening": "Quelques jours avant la promenade, Sylvain rouvre la légende de la souche moussue. Les six images sont choisies et le carnet approche de sa fin. Pourtant, les préoccupations prennent de nouveau davantage de place et la détresse augmente. Il passe plusieurs fois sur la même ligne sans décider de la dernière correction. Il reconnaît ce décalage entre le travail presque achevé et ce qu’il éprouve.\n\nSa première envie est d’attendre une journée plus simple avant de répondre à Maud. Une bonne matinée lui permettrait peut-être d’envoyer la confirmation qu’il avait espérée depuis le début. Mais ce serait choisir l’information en fonction de la réponse désirée. Il prend les modalités de contact vérifiées avec l’équipe et transmet le changement actuel, ainsi que la proximité de l’organisation finale.\n\nLe point clinique a lieu avant sa décision. Sylvain décrit la situation sans transformer l’augmentation de la détresse en récit d’acte. Il reprend avec l’équipe les besoins et les options dans ce contexte. Après cet échange, il décide de ne pas rejoindre le groupe le jour prévu. Le carnet ne sera pas retiré pour autant : sa remise a déjà été séparée de la présence physique.\n\nIl rédige le message à Maud avant qu’elle ferme l’organisation. Il dit qu’il ne participera pas à la promenade et confirme les six images ainsi que l’échange bref à distance. La déception reste vive. Il ne demande ni à Karim de venir garantir la journée ni au groupe de lui proposer une épreuve pour voir comment il tiendrait.",
+      "clinical_focus": "Une fluctuation conduit à réviser la participation",
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "wfsbp-2020"
+      ],
+      "diagnostic_stage": "known",
+      "continuity": {
+        "choice": "Après point clinique effectif, Sylvain renonce à rejoindre la promenade ; Maud retire sa présence et confirme séparément images et échange à distance.",
+        "next": "La fin respectera cette décision sans réintroduire la promenade physique comme récompense ou résolution spectaculaire."
+      },
+      "ending_title": "Le nom retiré de la présence physique",
+      "ending": "Maud retire la présence physique de Sylvain du programme. Les six images restent attendues et le court échange à distance est confirmé séparément. Sylvain garde les soins et les contacts prévus. Il reste déçu de ne pas rejoindre la promenade, mais ne revient pas sur cette décision pour donner au carnet une fin plus flatteuse. Le travail et la prévention conservent chacun leurs conséquences.",
+      "conclusion": "Prendre une fluctuation en compte peut conduire à renoncer à une modalité attendue. Sylvain transmet le changement, fait réévaluer la situation et applique le retrait, sans annuler sa contribution ni présenter une absence comme une guérison.",
+      "mirror": [
+        "Maud peut dire : « Ta présence est retirée ; nous gardons la remise des images et le court échange convenu. » Elle ne doit pas négocier son retour pour le consoler ni charger le groupe de le sécuriser. Karim peut reconnaître la déception sans devenir garant d’une nouvelle tentative. Si la sécurité ne peut être maintenue, l’aide professionnelle est sollicitée immédiatement ; un danger immédiat appelle les urgences compétentes."
+      ],
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Réviser le projet sans inventer une rechute en acte",
+          "text": "Le schéma clinique et son retentissement peuvent évoluer dans le temps. Une hausse des préoccupations ou de la détresse ne démontre pas qu’un acte a eu lieu, pas plus qu’une bonne journée ne suffit à déterminer toute l’évolution. Sylvain adresse le changement à l’équipe et révise sa participation après un point effectif. Son retrait est une décision individualisée dans cette fiction, sans valeur de prescription universelle, de sanction ou de garantie définitive. Le suivi continue indépendamment du programme."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment une fluctuation change-t-elle une décision préparée ?",
+          "points": [
+            {
+              "heading": "L’état présent ne suit pas le projet",
+              "text": "L’avancement des tâches ne garantit pas une période plus facile.",
+              "examples": [
+                "Le carnet approche de sa fin mais la détresse augmente.",
+                "Sylvain peine à reprendre la dernière correction de la souche."
+              ]
+            },
+            {
+              "heading": "Une confirmation désirée peut sélectionner les informations",
+              "text": "Attendre seulement une bonne journée risque de masquer le changement actuel.",
+              "examples": [
+                "Il voudrait différer sa réponse jusqu’à une matinée plus simple.",
+                "Il choisit finalement de transmettre ce qui se passe maintenant."
+              ]
+            },
+            {
+              "heading": "La révision doit atteindre le programme",
+              "text": "Une décision privée ne suffit pas si l’organisation continue de compter sur la présence.",
+              "examples": [
+                "Il prévient Maud avant la finalisation.",
+                "Il confirme séparément le carnet et le bref échange à distance."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour appliquer une révision de participation",
+          "points": [
+            {
+              "heading": "Transmettre le changement",
+              "objective": "Permettre une appréciation de la situation actuelle.",
+              "exercise": [
+                "Décrire ce qui a augmenté ou changé.",
+                "Utiliser le relais professionnel convenu.",
+                "Préciser l’échéance du projet sans demander une réponse qui la préserve à tout prix."
+              ],
+              "benefit": "L’équipe peut réévaluer les besoins à partir des informations présentes plutôt que de la seule période précédente."
+            },
+            {
+              "heading": "Réexaminer le projet",
+              "objective": "Ne pas transformer la participation en épreuve obligatoire.",
+              "exercise": [
+                "Reprendre les options avec l’équipe.",
+                "Inclure la possibilité de ne pas rejoindre l’activité.",
+                "Écarter tout essai impliquant autrui pour tester sa résistance."
+              ],
+              "benefit": "Le projet reste subordonné aux décisions de prévention, sans faire du groupe un outil clinique."
+            },
+            {
+              "heading": "Mettre la décision au calendrier",
+              "objective": "Rendre le retrait effectif et compréhensible.",
+              "exercise": [
+                "Informer l’organisatrice avant les arrangements finaux.",
+                "Retirer la présence physique du programme.",
+                "Confirmer séparément la contribution maintenue et les contacts de soin."
+              ],
+              "benefit": "Les autres peuvent organiser l’activité sans devoir interpréter une intention ou remplacer un relais professionnel."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 12,
+      "slug": "sylvain-projet-accompli-suivi-ouvert",
+      "title": "Un projet accompli laisse le suivi ouvert",
+      "description": "Après la pluie est remis. Sylvain échange à distance sur les légendes, puis termine au moment prévu sans rejoindre la promenade.",
+      "context": "chez lui lors de la remise du carnet",
+      "topics": [
+        "Frotteurisme",
+        "Participation adaptée",
+        "Continuité du soin"
+      ],
+      "clinical_intro": "Accomplir un projet ne démontre pas la disparition d’un trouble ni l’absence de tout besoin de prévention. Une contribution adaptée peut avoir sa valeur propre tandis que les soins continuent. Sylvain remet son carnet et échange brièvement à distance ; cette réussite photographique reste distincte de sa situation clinique et ne rétablit pas sa présence à la promenade.",
+      "opening": "Sylvain vérifie le titre du fichier avant de l’envoyer à Maud : Après la pluie. Les six images sont dans l’ordre prévu, du hêtre à la souche moussue. Il regarde encore la première légende, puis transmet le carnet. La fenêtre de l’échange à distance s’ouvre à l’heure convenue. Il est chez lui ; sa présence à la promenade a été retirée du programme et cette décision demeure.\n\nMaud confirme qu’elle a reçu le document. Elle a une question sur une précision dans la légende du hêtre. Sylvain ouvre la page, retrouve la formulation et propose une correction courte. Il ne cherche pas à expliquer toute l’histoire du carnet. « Six images, pas une forêt entière », dit-il en voyant le titre un peu ambitieux qu’il avait conservé dans un ancien brouillon. Maud sourit et revient à la question pédagogique.\n\nIl indique comment la dernière image répond à la première par sa lumière, sans leur attribuer une leçon sur sa santé. Le carnet devient un support que Maud pourra utiliser avec le groupe adulte. Elle garde la coordination de la promenade ; personne n’attend de Sylvain qu’il rejoigne ensuite les participants ou qu’il rende compte de son état devant eux.\n\nLe temps prévu touche à sa fin. Il pourrait prolonger pour montrer une autre photographie, mais elle ne fait pas partie du carnet. Il la laisse de côté. Son travail a été reçu, une légende précisée et l’échange peut se terminer. Le prochain rendez-vous de soin existe toujours dans un autre document.",
+      "clinical_focus": "Un projet accompli laisse le suivi ouvert",
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "wfsbp-2020"
+      ],
+      "diagnostic_stage": "known",
+      "continuity": {
+        "choice": "Après la pluie est reçu et utilisé ; Sylvain termine l’échange à distance, ne rejoint pas la promenade, garde son rendez-vous et envisage seulement une série hivernale.",
+        "next": "Le carnet est achevé ; son projet photographique se poursuit avec des limites révisables et un suivi indépendant des réussites sociales."
+      },
+      "ending_title": "Le dossier vert se ferme",
+      "ending": "Maud confirme la réception du carnet de six images pour le groupe adulte et son utilisation comme support pédagogique. Sylvain termine l’échange et ferme le dossier vert. Il ne rejoint pas la promenade. Son rendez-vous reste prévu. Sur une feuille de travail, il note une idée de série sur les arbres en hiver, sans s’inscrire à une nouvelle sortie ni retirer les limites convenues.",
+      "conclusion": "Le carnet est achevé et la contribution a eu lieu. Sylvain peut reconnaître ce résultat, envisager d’autres images et poursuivre les soins : une réussite réelle n’a pas besoin de promettre que les difficultés ne reviendront plus.",
+      "mirror": [
+        "Maud peut remercier Sylvain pour le carnet et la légende précisée, sans commenter sa santé ni présenter la promenade comme une récompense qu’il aurait manquée. Lors de l’appel convenu, Karim peut demander des nouvelles du projet si tous deux souhaitent en parler. Il n’a pas à mener un contrôle rétrospectif ou déclarer le trouble disparu. Les soins, la prévention et les limites de chacun demeurent."
+      ],
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "La participation et l’évolution clinique restent distinctes",
+          "text": "Le fonctionnement social ou professionnel ne résume pas l’évolution d’un trouble. Dans la fiction, remettre un carnet et participer à un échange limité permet d’accomplir un objectif précis. Cet arrangement ne prouve ni guérison ni risque nul, et ne constitue pas un traitement validé ou un droit général à un aménagement. Sylvain respecte le retrait de la promenade, conserve le suivi et peut envisager d’autres photographies sans transformer cette réussite en autorisation automatique pour une future activité."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment une réussite conserve-t-elle sa juste portée ?",
+          "points": [
+            {
+              "heading": "La contribution devient réellement utilisable",
+              "text": "Le projet aboutit par une transmission, pas seulement par une intention.",
+              "examples": [
+                "Maud reçoit les six images dans le bon ordre.",
+                "La précision du hêtre est corrigée pendant l’échange."
+              ]
+            },
+            {
+              "heading": "Le cadre reste celui convenu",
+              "text": "La satisfaction ne nécessite pas de rétablir une présence retirée.",
+              "examples": [
+                "Sylvain reste chez lui pour l’échange à distance.",
+                "Maud conserve la coordination de la promenade."
+              ]
+            },
+            {
+              "heading": "Une suite peut exister sans nouvel engagement",
+              "text": "L’avenir photographique ne se confond pas avec une décision de participation.",
+              "examples": [
+                "Une autre photographie reste hors du créneau.",
+                "Le prochain rendez-vous demeure dans les documents de soin."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour achever un projet sans effacer le suivi",
+          "points": [
+            {
+              "heading": "Tenir la tâche délimitée",
+              "objective": "Permettre une contribution fidèle à l’accord.",
+              "exercise": [
+                "Transmettre le contenu effectivement préparé.",
+                "Répondre aux questions dans le périmètre convenu.",
+                "Laisser l’organisatrice coordonner l’usage du support."
+              ],
+              "benefit": "Le travail peut compter sans exiger de reprendre toutes les modalités initialement imaginées."
+            },
+            {
+              "heading": "Respecter la fin de l’échange",
+              "objective": "Faire de la clôture une partie du projet.",
+              "exercise": [
+                "Vérifier que la question attendue a reçu sa réponse.",
+                "Garder les nouvelles idées pour un autre moment.",
+                "Terminer au créneau convenu sans rejoindre une activité retirée."
+              ],
+              "benefit": "La satisfaction peut rester compatible avec les limites effectivement décidées."
+            },
+            {
+              "heading": "Maintenir les prochaines étapes de soin",
+              "objective": "Ne pas faire de la remise un verdict sur la santé.",
+              "exercise": [
+                "Conserver le rendez-vous prévu.",
+                "Apporter au suivi les observations utiles sans bilan improvisé de guérison.",
+                "Poursuivre les engagements de prévention et signaler les changements pertinents."
+              ],
+              "benefit": "L’accomplissement peut être discuté avec l’équipe sans déterminer seul la suite du parcours."
+            }
+          ]
+        }
+      ]
     }
   ]
 }

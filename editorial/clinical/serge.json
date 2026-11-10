@@ -1,0 +1,847 @@
+{
+  "character_id": "serge",
+  "bio": "Serge, 49 ans, est agent d’accueil dans une résidence. Son Trouble factice imposé à soi-même est déjà diagnostiqué. Il remet sur pied un calendrier de promenades avec un groupe adulte, mais les difficultés liées aux soins et à sa manière de demander de l’aide rendent ses engagements instables. Un médecin coordonne son suivi avec une psychologue ; un ami peut lui offrir une présence limitée. Serge cherche à transmettre des informations fiables, à préserver ses accès légitimes aux soins et à tenir une place dans le groupe sans devoir se présenter comme malade.",
+  "profile_topics": [
+    "Trouble factice imposé à soi-même",
+    "Informations de santé fiables",
+    "Coordination des soins",
+    "Lien et demande d’aide",
+    "Participation et suivi durable"
+  ],
+  "episodes": [
+    {
+      "number": 1,
+      "slug": "serge-corriger-information-sante",
+      "title": "Corriger une information de santé sans perdre sa place dans le soin",
+      "description": "Serge transmet au médecin une correction importante. Les décisions de soin sont réexaminées, sans conditionner l’aide à un aveu.",
+      "context": "avant et pendant un rendez-vous médical",
+      "topics": [
+        "Information fiable",
+        "Responsabilité",
+        "Continuité du soin"
+      ],
+      "clinical_intro": "Le trouble factice imposé à soi-même implique une présentation intentionnellement trompeuse de sa santé, identifiée dans une évaluation clinique. Corriger une information peut permettre de revoir les décisions qui en dépendent. Cette démarche ne remplace pas le soin et ne constitue ni une preuve de guérison ni une condition pour recevoir de l’aide.",
+      "opening": "Le calendrier des promenades occupe presque toute la table. Serge a tracé des cases assez larges pour que les dates restent lisibles une fois le document affiché à la résidence. Mireille lui demande l’inventaire des créneaux disponibles. Il connaît la réponse pour plusieurs semaines, mais son message reste ouvert. À côté du calendrier, une demande destinée au cabinet attend elle aussi.\n\nUne information de santé qu’il avait transmise était sciemment inexacte. Il le sait, et sait qu’elle peut encore peser sur les décisions du suivi. Son trouble factice imposé à soi-même a déjà été diagnostiqué ; il ne découvre pas ce mot aujourd’hui. Ce qui lui paraît difficile est de parler de cette information précise au docteur Armand sans transformer toute la consultation en jugement sur sa personne.\n\nÀ l’heure du rendez-vous, il emporte ses documents de santé et laisse le calendrier chez lui. Il commence par demander comment se poursuivront les soins. Puis il dit qu’un élément doit être corrigé. La nature de cet élément reste dans l’entretien. Le médecin le recueille et reprend les décisions qui pourraient en dépendre, sans lui demander de raconter sa vie au groupe des promenades.\n\nSerge garde les yeux sur le bord de la table. Il avait préparé beaucoup de justifications, puis s’aperçoit qu’il peut commencer par ce qui doit être rectifié. La conversation reste inconfortable. Armand lui pose des questions utiles au suivi ; il ne lui promet ni oubli immédiat ni retour instantané de la confiance.",
+      "clinical_focus": "Corriger une information trompeuse",
+      "diagnostic_stage": "known",
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "berar-2021"
+      ],
+      "continuity": {
+        "choice": "Serge corrige auprès d’Armand une information sciemment inexacte, maintient le suivi et fixe à Mireille une échéance pour l’inventaire.",
+        "next": "En préparant cet inventaire, il remarque combien il parle facilement de sa place de patient et difficilement de ses autres intérêts."
+      },
+      "ending_title": "Une date pour l’inventaire",
+      "ending": "Armand prend en charge la correction utile au suivi et précise le prochain contact. Serge le maintient. De retour chez lui, il écrit à Mireille qu’il lui enverra l’inventaire des dates le lendemain soir. Il n’ajoute pas le contenu de la consultation. Les cases du calendrier sont encore vides ; elles ont désormais une étape de travail, tandis que la question médicale reste suivie au cabinet.",
+      "conclusion": "Corriger un élément trompeur engage une responsabilité concrète sans clore le trouble ni rendre le soin conditionnel. Serge peut laisser le médecin revoir les informations et reprendre un engagement ordinaire, sans demander au calendrier de prouver sa guérison.",
+      "mirror": [
+        "Mireille peut répondre : « D’accord pour demain soir ; indique-moi les dates confirmées et celles qui restent à vérifier. » Elle n’a pas à obtenir le récit de la consultation. Un proche auquel Serge parle d’une correction peut l’encourager à la transmettre au médecin sans mener sa propre enquête ni promettre que tout sera oublié. Les soins restent accessibles, y compris lorsqu’une difficulté persiste."
+      ],
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Une correction relève du soin",
+          "text": "Le trouble factice imposé à soi-même suppose une tromperie intentionnelle identifiée et une présentation de soi comme malade ou diminué ; son comportement n’est pas uniquement motivé par des avantages externes évidents. Il ne se déduit pas d’une simple erreur ou d’un symptôme inexpliqué. Chez Serge, le diagnostic est antérieur à la scène. La correction concerne les informations utilisées pour soigner, sans résumer sa personne à un mensonge. Les professionnels vérifient ses conséquences ; l’accès aux soins ne dépend pas d’une confession."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment une information inexacte continue-t-elle à peser ?",
+          "points": [
+            {
+              "heading": "Elle demeure dans le suivi",
+              "text": "Une information transmise peut influencer des décisions au-delà du moment où elle a été donnée.",
+              "examples": [
+                "Serge sait que l’élément n’a pas encore été corrigé.",
+                "Armand reprend les décisions qui pourraient en dépendre."
+              ]
+            },
+            {
+              "heading": "La crainte du jugement retarde la parole",
+              "text": "Serge hésite entre rectifier un fait et se défendre tout entier.",
+              "examples": [
+                "Il prépare des justifications avant le rendez-vous.",
+                "Il commence par parler de la suite des soins avant d’aborder la correction."
+              ]
+            },
+            {
+              "heading": "Le quotidien reste suspendu",
+              "text": "La difficulté occupe aussi la place d’un engagement ordinaire.",
+              "examples": [
+                "Le message sur les dates reste ouvert.",
+                "Le calendrier n’avance pas pendant qu’il hésite sur sa demande au cabinet."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour transmettre une correction au professionnel",
+          "points": [
+            {
+              "heading": "Nommer la correction nécessaire",
+              "objective": "Rendre une information fiable disponible pour le soin.",
+              "exercise": [
+                "S’adresser au professionnel concerné par l’information.",
+                "Dire clairement qu’un élément transmis était inexact.",
+                "Répondre aux questions utiles dans le cadre clinique."
+              ],
+              "benefit": "Le professionnel peut apprécier les conséquences sans qu’un récit public soit nécessaire."
+            },
+            {
+              "heading": "Laisser réexaminer les décisions",
+              "objective": "Éviter de modifier seul les soins à partir de la correction.",
+              "exercise": [
+                "Indiquer les documents concernés au soignant.",
+                "Le laisser vérifier ce qui doit être rectifié ou transmis.",
+                "Faire préciser les suites médicales retenues."
+              ],
+              "benefit": "Les décisions peuvent reposer sur des éléments revus ; cela ne garantit pas une résolution immédiate."
+            },
+            {
+              "heading": "Rendre une échéance réaliste",
+              "objective": "Reprendre le projet ordinaire à son niveau pratique.",
+              "exercise": [
+                "Identifier ce que l’on peut effectivement préparer.",
+                "Proposer une date de remise à la personne qui attend.",
+                "Confirmer cette échéance sans envoyer son dossier médical."
+              ],
+              "benefit": "Le groupe reçoit une information utile pour s’organiser, sans devenir partie du soin."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "slug": "serge-role-malade-et-lien",
+      "title": "Le rôle de malade peut prendre toute la place dans le lien",
+      "description": "Serge parle de consultations quand Mireille attend des dates. Avec Inès, il cherche comment demander une présence autrement.",
+      "context": "pendant la préparation des créneaux",
+      "topics": [
+        "Rôle de malade",
+        "Besoin de présence",
+        "Demande directe"
+      ],
+      "clinical_intro": "Le rôle de malade peut occuper une place importante dans le trouble factice imposé à soi-même. Cela ne signifie pas que toute demande de soutien serait pathologique ni qu’un besoin d’attention expliquerait tous les cas. Chez Serge, une crainte personnelle apparaît : compter moins pour les autres lorsqu’il ne parle pas de santé.",
+      "opening": "L’inventaire est arrivé chez Mireille à l’heure annoncée. Elle rappelle Serge pour choisir entre deux créneaux. Il a les dates sous les yeux, mais répond d’abord en parlant de son prochain contact avec Armand. Mireille l’écoute, puis revient au calendrier. Il cite encore une consultation, comme si la conversation ne pouvait rester longtemps sur ce qu’il prépare.\n\nEn raccrochant, il remarque ce détour. Il aime pourtant les promenades et les cartes qu’on replie dans le bon sens. Il sait rendre un document lisible, retrouver une confirmation ancienne et éviter que deux dates se chevauchent. Ces sujets lui paraissent tout à coup insuffisants pour qu’on lui téléphone. Une pensée le gêne : si ses problèmes de santé prennent moins de place, est-ce qu’on aura encore une raison de s’intéresser à lui ?\n\nÀ son entretien avec Inès, la psychologue, il commence par raconter la question de Mireille. Il finit par formuler sa crainte. Inès ne la transforme pas en explication de toute son histoire. Elle lui demande ce qu’il souhaitait dans cet échange précis. Serge réfléchit : il voulait parler un peu plus longtemps, avoir une présence après une journée passée à préparer des dates.\n\nIl ne lui vient pas immédiatement une autre manière de demander cela. Dire « j’aimerais un café » lui semble curieusement plus exposé que raconter un rendez-vous. Le besoin de compagnie devient pourtant plus clair lorsqu’il cesse, quelques instants, de le confondre avec une information médicale.",
+      "clinical_focus": "Place du rôle de malade",
+      "diagnostic_stage": "known",
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "mayo-soins"
+      ],
+      "continuity": {
+        "choice": "Serge parle à Inès de sa crainte de perdre de l’importance, demande un café à Claude et renvoie deux créneaux à Mireille.",
+        "next": "Au prochain entretien médical, Serge voudra comprendre pourquoi le diagnostic ne signifie pas que chaque doute ou gêne serait une tromperie."
+      },
+      "ending_title": "Deux créneaux et une question",
+      "ending": "Serge demande à Claude s’il serait disponible pour un café. Il n’ajoute pas de prétexte médical. Son ami n’a pas encore répondu lorsqu’il renvoie à Mireille les deux créneaux possibles. Avec Inès, l’exploration de ce besoin reste ouverte. Une demande plus directe ne lui garantit pas une présence ; elle permet au moins que la réponse porte sur ce qu’il souhaite vraiment.",
+      "conclusion": "Une place dans le lien ne se réduit pas au rôle de malade. Serge commence à distinguer compagnie, contribution et soin, sans que cette distinction explique tout son trouble ni rende la réponse des autres obligatoire.",
+      "mirror": [
+        "Claude peut répondre à la demande de café selon sa disponibilité, sans l’offrir comme récompense pour une parole jugée sincère. Mireille peut dire : « Pour le calendrier, j’ai besoin de savoir lequel de ces créneaux tu proposes. » Revenir à la tâche ne signifie pas retirer toute attention à Serge en guise de traitement. Les proches gardent une relation ordinaire et leurs limites."
+      ],
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Une place relationnelle à explorer",
+          "text": "L’adoption du rôle de malade peut faire partie de la présentation d’un trouble factice. Les motivations restent complexes et ne se résument pas à une volonté d’obtenir de l’attention. Dans cette scène, la crainte de perdre une place dans le lien est celle de Serge, explorée avec Inès ; elle ne constitue ni un critère diagnostique ni une cause universelle. Demander directement de la compagnie est un essai de communication, pas un traitement démontré du trouble."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment le rôle de malade occupe-t-il la conversation ?",
+          "points": [
+            {
+              "heading": "La santé revient avant la question posée",
+              "text": "Serge répond sur ses soins quand l’échange porte sur le calendrier.",
+              "examples": [
+                "Il annonce son prochain contact médical avant de choisir une date.",
+                "Il cite une autre consultation quand Mireille revient aux créneaux."
+              ]
+            },
+            {
+              "heading": "Les intérêts ordinaires semblent perdre leur valeur",
+              "text": "Il craint que sa contribution ne suffise pas à maintenir le lien.",
+              "examples": [
+                "Il oublie momentanément son plaisir à préparer les promenades.",
+                "Il se demande si l’on l’appellerait encore sans nouvelles de santé."
+              ]
+            },
+            {
+              "heading": "Le besoin devient plus précis",
+              "text": "L’entretien aide Serge à décrire ce qu’il attendait ce jour-là.",
+              "examples": [
+                "Il dit qu’il aurait aimé parler plus longtemps.",
+                "Il distingue une envie de compagnie d’une question à adresser au médecin."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour exprimer un besoin de présence",
+          "points": [
+            {
+              "heading": "Nommer le moment souhaité",
+              "objective": "Rendre la demande compréhensible pour l’autre.",
+              "exercise": [
+                "Repérer ce que l’on aimerait partager maintenant.",
+                "Formuler une proposition simple, comme prendre un café.",
+                "Demander si la personne est disponible sans présumer sa réponse."
+              ],
+              "benefit": "L’autre peut répondre à une demande réelle, y compris en la refusant."
+            },
+            {
+              "heading": "Distinguer les deux conversations",
+              "objective": "Garder aux informations de santé leur destinataire approprié.",
+              "exercise": [
+                "Identifier ce qui relève d’une question médicale.",
+                "Réserver cette question aux soignants concernés.",
+                "Exprimer séparément le souhait de compagnie."
+              ],
+              "benefit": "Le besoin relationnel peut être entendu sans donner à l’ami un rôle clinique."
+            },
+            {
+              "heading": "Conserver une contribution ordinaire",
+              "objective": "Laisser une place aux intérêts qui existent aussi.",
+              "exercise": [
+                "Reprendre une tâche concrète du projet.",
+                "Partager son résultat sans l’utiliser comme preuve de rétablissement.",
+                "Garder au suivi les difficultés que cet essai fait apparaître."
+              ],
+              "benefit": "Une activité peut compter pour elle-même, même si le trouble demande encore des soins."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "slug": "serge-inexplique-ne-signifie-pas-fabrique",
+      "title": "Un symptôme inexpliqué ne prouve pas une tromperie",
+      "description": "Une ancienne conclusion incertaine inquiète Serge. Armand distingue ce qui reste inexpliqué des éléments du diagnostic établi.",
+      "context": "pendant un entretien médical",
+      "topics": [
+        "Incertitude",
+        "Diagnostic différentiel",
+        "Clarification"
+      ],
+      "clinical_intro": "Une plainte inexpliquée, des examens normaux ou une demande insistante ne démontrent pas une fabrication intentionnelle. Le trouble factice imposé à soi-même repose sur une évaluation différente. Même lorsqu’il est établi, chaque information garde sa portée : un doute dans un document ne permet pas de conclure que toutes les difficultés de santé sont trompeuses.",
+      "opening": "Serge a retrouvé le document en classant les papiers destinés au cabinet. Une conclusion ancienne y reste prudente, sans explication certaine. Il l’a lue plusieurs fois depuis la correction transmise à Armand. Peu à peu, il lui a donné un sens plus large : ce qui était resté inexpliqué devait peut-être prouver qu’il avait menti, et le diagnostic actuel venait confirmer tout le passé.\n\nAu rendez-vous, il pose la feuille devant le médecin. « Est-ce que cela voulait déjà dire que vous ne me croyiez pas ? » Armand lui demande quelle phrase il lit ainsi. Serge la désigne. Le médecin reprend ce que ce document concluait réellement, ce qu’il ne concluait pas et les questions qui étaient restées ouvertes. Il distingue ensuite ces incertitudes des éléments ayant permis d’établir le trouble factice, déjà connu avant leur échange.\n\nSerge écoute sans retrouver immédiatement la simplicité qu’il cherchait. Il aurait presque préféré que la feuille explique tout, même durement. Il doit maintenant accepter plusieurs catégories : une information qu’il a corrigée, une conclusion ancienne incertaine, des difficultés présentes qu’il faut décrire et évaluer. Elles ne se remplacent pas les unes les autres.\n\nIl se souvient aussi de la question d’Inès sur la présence qu’il souhaitait demander. Elle ne répond pas davantage au contenu de ce document médical. Le besoin de compagnie, le diagnostic établi et l’incertitude d’un ancien compte rendu peuvent coexister. Il demande à Armand comment garder ces distinctions dans la suite des soins.",
+      "clinical_focus": "Inexpliqué ne signifie pas fabriqué",
+      "diagnostic_stage": "known",
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "berar-2021"
+      ],
+      "continuity": {
+        "choice": "Armand distingue le document incertain du diagnostic établi ; Serge accepte de réunir les informations dans un suivi coordonné.",
+        "next": "Cette coordination doit devenir concrète pour éviter que les différents interlocuteurs répètent des décisions à partir d’informations partielles."
+      },
+      "ending_title": "La feuille garde sa question",
+      "ending": "Armand explique que le diagnostic de Serge reste établi, mais que cette conclusion ancienne ne démontre pas une tromperie sur tout. Ils conviennent de réunir les informations utiles dans un suivi coordonné. Serge range la feuille avec les documents médicaux, sans ajouter sa propre conclusion dans la marge. Elle reste incertaine à l’endroit où elle l’était ; elle n’est plus chargée de raconter toute sa personne.",
+      "conclusion": "Une évaluation précise distingue l’incertitude, les faits et l’intention identifiée. Serge peut comprendre le diagnostic connu sans transformer un ancien compte rendu en verdict universel, et continuer à présenter ses besoins de santé actuels.",
+      "mirror": [
+        "Si Serge montre cette feuille à Claude, son ami peut dire : « Je ne peux pas interpréter cette conclusion ; tu peux demander au médecin ce qu’elle signifie. » Il n’a pas à comparer les documents pour établir une sincérité. Un proche peut reconnaître qu’une gêne est pénible sans en connaître la cause, et soutenir une clarification médicale sans accuser ni conclure à la place des soignants."
+      ],
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "L’incertitude n’est pas la preuve d’une intention",
+          "text": "La tromperie intentionnelle identifiée distingue le trouble factice de difficultés vécues sans fabrication volontaire, notamment dans certaines présentations de détresse corporelle, d’hypocondrie ou de symptômes neurologiques dissociatifs. Une absence d’explication ne permet pas de choisir entre ces diagnostics. La simulation motivée par un avantage externe évident ne se confond pas non plus automatiquement avec le trouble factice. Chez Serge, le diagnostic reste établi, mais la portée du document incertain doit être respectée."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment une incertitude devient-elle un jugement trop large ?",
+          "points": [
+            {
+              "heading": "Un mot prudent prend un sens accusateur",
+              "text": "Serge transforme une conclusion limitée en soupçon sur son intention.",
+              "examples": [
+                "Il relit le document comme s’il disait qu’il n’était pas cru.",
+                "Il demande si cette feuille prouvait déjà une tromperie."
+              ]
+            },
+            {
+              "heading": "Le diagnostic réécrit tout le passé",
+              "text": "La connaissance actuelle paraît expliquer chaque difficulté ancienne.",
+              "examples": [
+                "Il rapproche la correction récente de toute sa documentation médicale.",
+                "Il suppose qu’un diagnostic établi rend toutes les incertitudes équivalentes."
+              ]
+            },
+            {
+              "heading": "Les informations retrouvent des portées différentes",
+              "text": "Le médecin sépare les questions au lieu d’en tirer un verdict global.",
+              "examples": [
+                "Il explique ce que la conclusion ancienne laissait ouvert.",
+                "Il distingue cette feuille des éléments du diagnostic déjà évalué."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour faire préciser un document incertain",
+          "points": [
+            {
+              "heading": "Repérer la conclusion exacte",
+              "objective": "Séparer le contenu du compte rendu de son interprétation personnelle.",
+              "exercise": [
+                "Retrouver le passage qui pose question.",
+                "Noter ce que l’on croit qu’il signifie.",
+                "Présenter le document au professionnel compétent."
+              ],
+              "benefit": "La discussion peut partir d’un texte précis plutôt que d’un soupçon global."
+            },
+            {
+              "heading": "Demander une clarification",
+              "objective": "Comprendre ce qui est établi et ce qui reste ouvert.",
+              "exercise": [
+                "Demander ce que le document permet de conclure.",
+                "Faire préciser les limites de cette conclusion.",
+                "Redire ce que l’on a compris pour vérifier le sens."
+              ],
+              "benefit": "Une incertitude peut rester reconnue sans être remplie par une accusation ou un autodiagnostic."
+            },
+            {
+              "heading": "Rapporter la situation actuelle",
+              "objective": "Permettre l’évaluation des besoins présents.",
+              "exercise": [
+                "Décrire les difficultés actuelles avec les informations disponibles.",
+                "Distinguer les faits connus de ce dont on n’est pas sûr.",
+                "Convenir avec le médecin de la manière de réunir les éléments utiles."
+              ],
+              "benefit": "La suite des soins peut tenir compte du diagnostic sans disqualifier d’avance toute plainte."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "slug": "serge-coordination-decisions-soin",
+      "title": "Coordonner les soins pour éviter des démarches inutiles",
+      "description": "Deux démarches risquent de se superposer. Armand vérifie leur utilité avec les professionnels concernés et clarifie la suite.",
+      "context": "au cabinet avec les documents rassemblés",
+      "topics": [
+        "Coordination",
+        "Risques iatrogènes",
+        "Accès aux soins"
+      ],
+      "clinical_intro": "La répétition de démarches médicales sans informations partagées peut exposer à des soins inutiles et à leurs risques. Dans le trouble factice imposé à soi-même, une coordination adaptée aide les professionnels à apprécier les besoins. Elle ne doit ni faire du patient l’arbitre solitaire des actes ni empêcher un second avis légitime ou des soins urgents.",
+      "opening": "Serge apporte une enveloppe épaisse au cabinet. Il y a réuni les documents disponibles comme convenu, sans y glisser les pages du calendrier des promenades. Il aimerait que l’enveloppe mette immédiatement de l’ordre dans la situation. Armand commence par vérifier ce qu’elle contient et ce qui manque encore.\n\nDeux démarches envisagées risquent de se superposer. Serge avait reçu des indications de différents interlocuteurs sans savoir si chacun disposait des mêmes éléments. Il cherche laquelle il devrait retirer de son agenda. Le médecin lui demande de ne pas décider seul à partir de cette impression de doublon. Il reprend l’utilité de chaque démarche, les décisions déjà prises et les informations nécessaires aux autres professionnels.\n\nSerge découvre que coordonner ne consiste pas simplement à choisir un seul nom sur sa liste. Il faut que les échanges aient réellement lieu. Armand organise les transmissions utiles dans le cadre applicable et lui en explique les modalités. Les informations corrigées et la conclusion restée incertaine ne sont pas mélangées ; elles gardent les distinctions discutées lors de leur précédent entretien.\n\nÀ mesure que l’enveloppe se vide, Serge pose des questions plus concrètes : qui fera le prochain point, quelles démarches restent prévues, que faire si une difficulté nouvelle apparaît ? Il ne veut pas qu’un suivi coordonné signifie qu’il ne pourra plus demander de l’aide ailleurs si elle est nécessaire. Armand reprend avec lui cette possibilité et les modalités de recours, sans lui demander de résoudre les décisions médicales à sa place.",
+      "clinical_focus": "Coordination et prévention des soins inutiles",
+      "diagnostic_stage": "known",
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "berar-2021",
+        "mayo-soins"
+      ],
+      "continuity": {
+        "choice": "Armand organise les échanges entre professionnels, précise les démarches retenues et les recours ; Serge garde une question sur le ton d’une vérification.",
+        "next": "Une question du médecin sur les informations antérieures lui laisse cependant une crainte de blâme, à reprendre plutôt que rompre le suivi."
+      },
+      "ending_title": "Un prochain point identifié",
+      "ending": "Les professionnels concernés disposent des éléments nécessaires et Armand précise les démarches retenues. Serge note le prochain point et l’interlocuteur qui le coordonne. Il garde aussi les modalités de recours si une difficulté apparaît. Il peut ensuite reprendre les dates du groupe sans demander à Mireille de décider lesquels de ses soins méritent une place dans son agenda. Une question d’Armand sur les informations antérieures lui reste toutefois en tête.",
+      "conclusion": "Coordonner les soins consiste à relier les informations et les responsabilités, tout en préservant l’accès nécessaire. Serge n’a plus à choisir seul entre des démarches médicales, mais une inquiétude sur la manière dont il est perçu reste à reprendre.",
+      "mirror": [
+        "Mireille peut demander une disponibilité pour les promenades sans classer les rendez-vous médicaux en utiles ou inutiles. Claude peut dire : « As-tu pu faire préciser qui coordonne la suite ? » Il n’a pas à obtenir l’enveloppe ou à supprimer une démarche de son propre chef. Si une urgence apparaît, ni le diagnostic ni la coordination ne justifient d’attendre une preuve de sincérité avant de chercher l’aide adaptée."
+      ],
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Prévenir les dommages sans fermer l’accès",
+          "text": "Des investigations ou traitements inutiles peuvent provoquer des dommages liés aux soins, dits iatrogènes. Cette préoccupation justifie une appréciation professionnelle de l’utilité des actes, pas leur suppression décidée par un proche ou par le patient seul. Une étude hospitalière rétrospective a décrit ces risques, mais ne fournit pas un protocole universel. Chez Serge, la coordination améliore les informations disponibles tout en préservant les recours nécessaires ; son diagnostic ne rend pas chaque démarche médicale injustifiée."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment des informations partielles compliquent-elles les décisions ?",
+          "points": [
+            {
+              "heading": "Les démarches se superposent",
+              "text": "Les indications reçues ne sont pas encore réunies dans une vue commune.",
+              "examples": [
+                "Serge voit deux démarches sur son agenda.",
+                "Il ignore si chaque interlocuteur connaît les décisions de l’autre."
+              ]
+            },
+            {
+              "heading": "Le patient tente d’arbitrer seul",
+              "text": "Il veut résoudre le calendrier avant que l’utilité médicale soit appréciée.",
+              "examples": [
+                "Il cherche quel rendez-vous retirer.",
+                "Il confond d’abord une impression de doublon avec une décision de soin inutile."
+              ]
+            },
+            {
+              "heading": "La coordination nécessite des échanges réels",
+              "text": "Réunir une enveloppe n’achève pas le travail des professionnels.",
+              "examples": [
+                "Armand vérifie les documents disponibles.",
+                "Il organise les transmissions nécessaires et clarifie les prochaines étapes."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour faciliter un suivi coordonné",
+          "points": [
+            {
+              "heading": "Réunir les informations disponibles",
+              "objective": "Permettre aux professionnels de connaître les démarches en cours.",
+              "exercise": [
+                "Rassembler les documents déjà reçus sans les modifier.",
+                "Signaler ceux qui manquent ou restent incertains.",
+                "Les présenter au professionnel qui coordonne le suivi."
+              ],
+              "benefit": "Une vue plus complète peut éviter des décisions fondées sur des informations partielles."
+            },
+            {
+              "heading": "Demander qui coordonne",
+              "objective": "Connaître le rôle de chaque interlocuteur.",
+              "exercise": [
+                "Demander qui reprend les décisions médicales d’ensemble.",
+                "Faire préciser les transmissions nécessaires et leur cadre.",
+                "Vérifier comment les autres soignants seront informés."
+              ],
+              "benefit": "La responsabilité médicale reste portée par les professionnels, avec les accords requis."
+            },
+            {
+              "heading": "Clarifier les recours",
+              "objective": "Garder un accès adapté si la situation évolue.",
+              "exercise": [
+                "Faire expliquer les démarches finalement retenues.",
+                "Demander qui contacter pour un problème nouveau.",
+                "Utiliser les soins urgents lorsqu’ils sont nécessaires sans attendre le prochain point."
+              ],
+              "benefit": "La coordination peut rendre le parcours lisible sans devenir une barrière à l’aide légitime."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "slug": "serge-peur-blame-alliance",
+      "title": "La peur du blâme peut fragiliser le lien de soin",
+      "description": "Serge songe à annuler après une question mal vécue. Il en parle à Inès, qui reprend avec lui le sens de la vérification.",
+      "context": "avant un entretien avec la psychologue",
+      "topics": [
+        "Alliance de soin",
+        "Peur du blâme",
+        "Clarification"
+      ],
+      "clinical_intro": "Une personne peut redouter d’être jugée au point d’hésiter à poursuivre son suivi. Dans le parcours d’un trouble factice imposé à soi-même, accueillir cette crainte n’empêche pas de vérifier les faits nécessaires aux soins. Serge tente de parler d’une question vécue comme un reproche, plutôt que de laisser cette impression décider seule de son absence.",
+      "opening": "Le message de confirmation d’Inès est encore ouvert. Serge a posé son téléphone à côté du calendrier, puis l’a repris. Il pourrait annuler l’entretien. Depuis le rendez-vous avec Armand, une question précise sur les informations corrigées revient dans son esprit. Il l’a entendue comme si le médecin cherchait à mesurer ce qu’il méritait désormais de recevoir.\n\nIl ne sait pas si c’était le sens de la question. Il se souvient surtout de la chaleur dans son visage et de son envie de répondre vite pour en finir. La coordination s’est poursuivie, les démarches ont été clarifiées, mais cette impression est restée. Il avait cru qu’en corrigeant l’information, les vérifications deviendraient moins nécessaires. Leur présence lui a donné le sentiment contraire : on allait peut-être le regarder comme une personne à punir.\n\nSerge se rend finalement à l’entretien. Il ne commence pas par les promenades. « J’ai eu peur que la prochaine étape soit de me faire payer ce que j’avais dit. » Inès lui demande ce qui, dans l’échange, lui a fait ressentir cela. Elle écoute sa gêne sans conclure qu’Armand l’accusait, puis distingue avec lui le vécu de la question et son objet clinique.\n\nSerge garde les mains autour de son agenda. Il voudrait qu’on lui promette de ne plus revenir aux informations antérieures. Inès ne fait pas cette promesse. Elle lui propose de clarifier ce qui doit être vérifié et comment en parler dans la coordination du suivi.",
+      "clinical_focus": "Peur du blâme et alliance",
+      "diagnostic_stage": "known",
+      "sources": [
+        "oms-cddr",
+        "berar-2021",
+        "eastwood-2008",
+        "mayo-soins"
+      ],
+      "continuity": {
+        "choice": "Serge vient à l’entretien, parle de sa peur du blâme et maintient le lien après clarification ; le retard du calendrier reste à traiter.",
+        "next": "Le retard accumulé sur le calendrier doit désormais être reconnu auprès de Mireille sur le plan des engagements, sans transformer le groupe en tribunal médical."
+      },
+      "ending_title": "Le rendez-vous n’est pas annulé",
+      "ending": "L’entretien a lieu jusqu’au bout. Inès clarifie avec Serge l’objet de la vérification et les modalités de coordination avec Armand dans le cadre convenu. Il maintient le contact. La gêne n’a pas disparu et il ne sait pas encore comment il recevra une prochaine question difficile. En sortant, il voit le message de Mireille : la version complète du calendrier tarde. Ce retard a besoin d’une réponse sur les tâches, pas d’un procès médical au sein du groupe.",
+      "conclusion": "Parler d’une peur de blâme peut préserver le dialogue sans abolir la vérification des faits. Serge reste dans le soin avec une question mieux formulée, puis doit reprendre un engagement ordinaire qui n’a pas avancé à sa place.",
+      "mirror": [
+        "Un proche peut dire : « Si cette question t’a fait peur, tu peux en parler avec l’équipe pour comprendre ce qui était demandé. » Il n’a pas à décider qu’Armand accuse Serge ni à exiger que celui-ci cesse d’être gêné. Mireille peut rester sur le calendrier. Aucun de ces interlocuteurs n’a à conditionner une relation ordinaire à un récit complet des informations corrigées."
+      ],
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Accueillir un vécu sans renoncer aux faits",
+          "text": "La crainte du blâme peut fragiliser la participation aux soins, sans être propre à toutes les personnes ayant un trouble factice. Une approche non punitive permet de discuter ce vécu tout en conservant les vérifications nécessaires. Elle n’efface pas les responsabilités et ne suppose pas que toute question clinique soit une accusation. Les données thérapeutiques disponibles restent limitées ; cette scène ne démontre pas la supériorité d’une méthode. Elle décrit un échange individualisé pour éviter une rupture silencieuse."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment une question difficile peut-elle éloigner du suivi ?",
+          "points": [
+            {
+              "heading": "Le sens entendu dépasse peut-être le sens donné",
+              "text": "Serge reçoit une vérification comme un jugement sur sa valeur.",
+              "examples": [
+                "Il pense qu’Armand mesure ce qu’il mérite.",
+                "Il reste marqué par la gêne ressentie plutôt que par l’objet précis de la question."
+              ]
+            },
+            {
+              "heading": "L’annulation semble offrir une sortie",
+              "text": "Ne pas venir éviterait un nouvel inconfort, mais laisserait la difficulté non discutée.",
+              "examples": [
+                "Il garde le message de confirmation ouvert.",
+                "Il envisage de supprimer le rendez-vous sans expliquer son hésitation."
+              ]
+            },
+            {
+              "heading": "Le vécu peut être mis en mots",
+              "text": "L’entretien permet de séparer l’émotion et les besoins d’information.",
+              "examples": [
+                "Serge décrit sa peur d’une punition.",
+                "Inès entend cette peur sans présenter toute vérification comme illégitime."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour parler d’un échange de soin mal vécu",
+          "points": [
+            {
+              "heading": "Décrire le moment précis",
+              "objective": "Rendre la difficulté compréhensible sans accuser tout le suivi.",
+              "exercise": [
+                "Repérer la question ou le passage qui a gêné.",
+                "Dire ce que l’on a ressenti à ce moment.",
+                "Présenter cette expérience au soignant concerné ou dans le cadre de coordination."
+              ],
+              "benefit": "Le vécu peut être discuté à partir d’une situation réelle, sans devoir nier la gêne."
+            },
+            {
+              "heading": "Demander l’objet de la question",
+              "objective": "Distinguer vérification et jugement supposé.",
+              "exercise": [
+                "Expliquer le sens que l’on a donné à la question.",
+                "Demander ce que le professionnel cherche à comprendre.",
+                "Vérifier les informations nécessaires pour la suite des soins."
+              ],
+              "benefit": "Une clarification peut réduire le malentendu sans supprimer les vérifications utiles."
+            },
+            {
+              "heading": "Convenir d’une suite explicite",
+              "objective": "Éviter qu’un inconfort aboutisse seulement à une absence.",
+              "exercise": [
+                "Dire ce qui rend le prochain contact difficile.",
+                "Discuter avec l’équipe d’une manière de reprendre ce point.",
+                "Confirmer la suite convenue ou signaler les obstacles à sa réalisation."
+              ],
+              "benefit": "Le lien peut rester ouvert sans confession exhaustive ni garantie de confort immédiat."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "slug": "serge-engagements-et-role-limite",
+      "title": "Un engagement plus précis peut rendre la participation plus stable",
+      "description": "Le calendrier reste incomplet. Serge et Mireille distinguent les tâches et organisent un relais accepté pour les derniers horaires.",
+      "context": "à la résidence avec Mireille",
+      "topics": [
+        "Retentissement",
+        "Engagements réalistes",
+        "Relais pratique"
+      ],
+      "clinical_intro": "Les difficultés de soin et de communication peuvent avoir des conséquences sur les engagements quotidiens. Reconnaître ce retentissement ne supprime pas la responsabilité d’informer les personnes qui attendent un travail. Pour Serge, stabiliser son rôle passe par une tâche définie, un délai réaliste et un relais accepté, sans faire du calendrier une évaluation médicale.",
+      "opening": "Mireille a imprimé la version reçue. Certaines cases contiennent deux créneaux possibles ; d’autres sont encore vides. Serge reconnaît son document avant même qu’elle le déplie. Il avait promis une version complète, puis repoussé la collecte des derniers horaires entre les démarches de soin, les rendez-vous et les messages qu’il hésitait à envoyer.\n\nIls s’installent à une table de la résidence. Mireille demande ce qui est réellement confirmé. Serge commence à expliquer la succession de ses consultations, puis s’arrête. Cette information n’aidera pas à savoir quelle date peut être inscrite. Il désigne les cases fiables, celles qui attendent une réponse et celles qu’il n’a pas encore reprises. La différence devient visible sur la feuille.\n\n« Qu’est-ce que tu peux prendre cette semaine ? » demande Mireille. Il voudrait dire tout, pour réparer la promesse précédente. Il regarde pourtant la liste et choisit la mise en page des dates déjà confirmées. Il sait faire ce travail ; il lui faut seulement ne pas y ajouter la collecte entière des réponses. Mireille examine ce qui peut être confié à un autre adulte volontaire du groupe.\n\nSerge éprouve un mélange de soulagement et de gêne. Une tâche retirée ne lui donne pas le sentiment d’avoir réussi. Mais la laisser sans titulaire ne rendrait pas sa place plus stable. Il attend que le relais accepte réellement avant de considérer que la répartition est faite.",
+      "clinical_focus": "Retentissement sur les engagements",
+      "diagnostic_stage": "known",
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "mayo-soins"
+      ],
+      "continuity": {
+        "choice": "Serge prend la mise en page ; Mireille obtient un relais volontaire pour les horaires et une version partielle explicitement nommée est envoyée.",
+        "next": "Claude répond à la demande de café. Une présence amicale peut aider à garder une place ordinaire, mais elle aura ses propres limites."
+      },
+      "ending_title": "Une version partielle, clairement nommée",
+      "ending": "Serge prend la mise en page des dates confirmées. Un autre adulte volontaire accepte de recueillir les derniers horaires auprès du groupe, sous la coordination de Mireille. La première version partielle est envoyée comme telle. Les cases ouvertes restent visibles au lieu d’être présentées comme achevées. Serge n’a pas tenu sa promesse initiale ; il dispose maintenant d’un rôle explicite et d’un relais réellement accepté pour poursuivre.",
+      "conclusion": "Rendre un engagement plus stable commence parfois par en réduire la portée et nommer le travail restant. Serge garde une contribution concrète sans invoquer son trouble pour effacer ses responsabilités ni demander au groupe d’arbitrer ses soins.",
+      "mirror": [
+        "Mireille peut dire : « Tu prends la mise en page des dates confirmées ; je vérifie avec le volontaire les derniers horaires. » Elle conserve le droit de demander une information fiable et de revoir la répartition. Elle n’a pas à réclamer un diagnostic pour constater le retard. Le relais accepte une tâche de calendrier, pas une mission d’enquête sur la santé de Serge."
+      ],
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Le retentissement se traite à son niveau",
+          "text": "Un trouble et les difficultés de son suivi peuvent perturber le fonctionnement quotidien, avec des formes très différentes selon les personnes. Chez Serge, une promesse de document complet ne correspond plus au travail disponible. Le calendrier permet d’ajuster cet engagement précis ; il ne mesure ni son aptitude médicale, ni sa sincérité générale, ni l’état du trouble. Les démarches pratiques ne remplacent pas les soins et ne rendent pas le groupe responsable de vérifier les raisons médicales du retard."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment une promesse trop large rend-elle le rôle instable ?",
+          "points": [
+            {
+              "heading": "Le résultat annoncé ne correspond pas au document",
+              "text": "Les autres attendent un ensemble que Serge ne peut pas encore remettre.",
+              "examples": [
+                "Des cases restent vides sur la version imprimée.",
+                "Certains créneaux sont proposés mais non confirmés."
+              ]
+            },
+            {
+              "heading": "La réparation risque de répéter la même promesse",
+              "text": "La gêne pousse Serge à annoncer encore davantage.",
+              "examples": [
+                "Il voudrait reprendre toutes les tâches d’un coup.",
+                "Il doit comparer cette intention à ce qu’il peut faire cette semaine."
+              ]
+            },
+            {
+              "heading": "Un relais doit être accepté pour devenir réel",
+              "text": "La répartition ne se résume pas à retirer un nom d’une liste.",
+              "examples": [
+                "Mireille cherche un adulte volontaire pour les derniers horaires.",
+                "Serge attend la confirmation de ce relais avant de compter sur lui."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour rendre un engagement plus fiable",
+          "points": [
+            {
+              "heading": "Montrer l’état réel",
+              "objective": "Permettre au groupe de partir du travail disponible.",
+              "exercise": [
+                "Séparer les dates confirmées des propositions.",
+                "Identifier les tâches qui restent en attente.",
+                "Transmettre cet état sans annoncer un achèvement fictif."
+              ],
+              "benefit": "Les personnes concernées peuvent décider à partir d’informations lisibles."
+            },
+            {
+              "heading": "Définir une tâche limitée",
+              "objective": "Choisir une contribution que l’on peut organiser concrètement.",
+              "exercise": [
+                "Nommer la partie du document que l’on prendra.",
+                "Proposer une échéance réaliste pour cette partie.",
+                "La confirmer avec la personne qui coordonne."
+              ],
+              "benefit": "La responsabilité devient plus précise, sans demander de tout résoudre en une seule fois."
+            },
+            {
+              "heading": "Vérifier le relais",
+              "objective": "Éviter qu’une tâche abandonnée reste sans titulaire.",
+              "exercise": [
+                "Indiquer ce que l’on ne peut pas prendre actuellement.",
+                "Attendre l’accord réel d’un relais désigné par l’organisation.",
+                "Transmettre les seules informations utiles à la tâche."
+              ],
+              "benefit": "La continuité du projet peut être préservée sans transformer le relais en surveillant de santé."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "slug": "serge-soutien-sans-surveillance",
+      "title": "Un soutien choisi ne doit pas devenir une surveillance",
+      "description": "Claude accepte un café mais refuse de vérifier les récits médicaux. Serge découvre une présence qui garde ses limites.",
+      "context": "lors d’un café avec Claude",
+      "topics": [
+        "Soutien choisi",
+        "Limites",
+        "Relation ordinaire"
+      ],
+      "clinical_intro": "Un proche peut partager un moment avec une personne ayant un trouble factice imposé à soi-même sans devenir contrôleur de ses symptômes ou de ses récits. Le soutien dépend de son accord et de ses limites. Les questions médicales restent adressées aux professionnels ; une amitié ne constitue ni une enquête ni une garantie de sincérité.",
+      "opening": "Claude répond enfin à la proposition de café : il peut venir jeudi, pendant une heure. Serge inscrit l’horaire dans son agenda. Cette précision lui plaît. Il imagine déjà pouvoir lui parler du calendrier, puis des rendez-vous, et peut-être lui demander de l’accompagner plus souvent. Avoir quelqu’un qui vérifierait avec lui ce qu’il raconte lui paraît rassurant, même s’il ne sait pas exactement ce qu’il attend de cette vérification.\n\nQuand ils se retrouvent, Claude pose sa veste sur le dossier de la chaise et rappelle qu’il devra partir à l’heure dite. Serge lui raconte la première version partielle envoyée au groupe. Puis il aborde les soins. Il voudrait que son ami l’aide à savoir si ses informations médicales sont bien présentées et qu’il puisse être là à chaque rendez-vous.\n\nClaude refuse ce rôle. Il peut prendre un café, écouter certaines difficultés si tous deux en conviennent, mais ne peut pas vérifier ses récits ni devenir un accompagnateur permanent. Serge baisse les yeux. Pendant quelques secondes, il entend surtout une présence qui se retire. Puis il regarde les deux tasses : Claude est encore là, dans le moment qu’il avait accepté.\n\nIl reprend le sujet des cases du calendrier. Ce n’est pas une manière de prouver qu’il sait parler d’autre chose, plutôt une conversation qu’ils peuvent vraiment partager. Son ami lui demande pourquoi il a choisi de laisser les dates incertaines visibles. Serge lui montre la différence entre la version promise trop vite et celle qu’il a pu envoyer.",
+      "clinical_focus": "Soutien choisi sans surveillance",
+      "diagnostic_stage": "known",
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "mayo-soins"
+      ],
+      "continuity": {
+        "choice": "Claude et Serge partagent le café prévu, sans surveillance médicale ; la fin convenue est respectée et les questions cliniques restent destinées aux soignants.",
+        "next": "Lorsqu’une gêne physique nouvelle apparaît ensuite, Serge doit utiliser ce relais médical plutôt que demander à Claude de trancher sa réalité."
+      },
+      "ending_title": "L’heure du départ est respectée",
+      "ending": "Le café se termine à l’heure convenue. Claude remet sa veste ; Serge ne lui demande pas de prolonger pour vérifier une dernière question médicale. Il garde cette question pour ses soignants. Ils ont aussi parlé du calendrier et d’une carte mal repliée. Ce moment ne résout pas le trouble, mais il existe sans compte rendu obligatoire ni examen de sincérité. Claude peut rester un ami avec une disponibilité limitée.",
+      "conclusion": "Une aide choisie reste différente d’une surveillance. Serge éprouve encore la déception d’un rôle refusé, mais conserve un moment partagé et les interlocuteurs médicaux auxquels adresser les questions qui dépassent l’amitié.",
+      "mirror": [
+        "Claude peut dire : « Je veux bien prendre ce café avec toi ; je ne peux pas vérifier tes récits médicaux ni venir à tous tes rendez-vous. » Il n’a pas à tester un symptôme, obtenir le dossier ou récompenser une correction par davantage de présence. Il peut terminer à l’heure prévue. Une question de santé nouvelle doit trouver son relais médical, pas un verdict amical."
+      ],
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Une relation n’est pas un contrôle clinique",
+          "text": "Le soutien d’un proche peut conserver une place ordinaire, avec un périmètre choisi. Il ne remplace pas la vérification des informations par les soignants, ni l’évaluation des symptômes. Chez Serge, demander à Claude une présence constante ferait peser sur l’amitié une fonction qu’elle n’a pas. Le refus de cette fonction n’annule pas le café et ne ferme pas l’accès aux soins. Toute participation d’un proche au suivi demande un cadre et les accords appropriés."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment une demande d’aide déborde-t-elle le rôle amical ?",
+          "points": [
+            {
+              "heading": "Un moment partagé s’élargit sans accord",
+              "text": "Serge ajoute une mission à la disponibilité proposée.",
+              "examples": [
+                "Claude a accepté une heure de café.",
+                "Serge imagine déjà sa présence à chaque rendez-vous."
+              ]
+            },
+            {
+              "heading": "La vérification devient une assurance recherchée",
+              "text": "Il espère qu’un ami pourra porter une incertitude clinique.",
+              "examples": [
+                "Il demande de contrôler la présentation de ses informations.",
+                "Il voudrait compter sur Claude pour savoir comment parler de sa santé."
+              ]
+            },
+            {
+              "heading": "Le refus d’un rôle n’efface pas la relation",
+              "text": "Une limite peut coexister avec une présence effective.",
+              "examples": [
+                "Claude refuse la surveillance mais reste au café.",
+                "Ils reprennent la discussion sur la mise en page."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour demander un soutien limité",
+          "points": [
+            {
+              "heading": "Préciser la demande",
+              "objective": "Permettre à l’autre de choisir un engagement compréhensible.",
+              "exercise": [
+                "Dire quel moment ou quelle aide concrète on souhaite.",
+                "Vérifier ce que le proche accepte réellement.",
+                "Ne pas ajouter une mission clinique à cet accord."
+              ],
+              "benefit": "La disponibilité peut rester choisie plutôt que devenir une obligation implicite."
+            },
+            {
+              "heading": "Reconnaître la limite",
+              "objective": "Éviter de transformer la déception en pression.",
+              "exercise": [
+                "Écouter le rôle que le proche refuse.",
+                "Confirmer que ce refus sera respecté.",
+                "Garder seulement ce qui reste proposé, si chacun le souhaite."
+              ],
+              "benefit": "Le lien peut continuer sans que l’autre doive prendre une partie du contrôle pour être considéré comme présent."
+            },
+            {
+              "heading": "Réserver les questions médicales",
+              "objective": "Retrouver le destinataire compétent.",
+              "exercise": [
+                "Identifier ce qui demande une évaluation ou une clarification clinique.",
+                "Préparer cette question pour l’équipe qui suit la situation.",
+                "Utiliser le contact prévu au lieu de demander au proche de trancher."
+              ],
+              "benefit": "Le soutien amical ne devient pas la condition d’accès à une réponse de soin."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "slug": "serge-symptome-nouveau-soins-legitimes",
+      "title": "Un symptôme nouveau doit pouvoir être évalué",
+      "description": "Serge hésite à signaler une gêne nouvelle par peur de ne plus être cru. Armand évalue la situation et organise les soins nécessaires.",
+      "context": "chez lui puis au cabinet",
+      "topics": [
+        "Symptôme nouveau",
+        "Accès aux soins",
+        "Évaluation médicale"
+      ],
+      "clinical_intro": "Un trouble factice imposé à soi-même peut coexister avec une affection authentique. Son diagnostic ne justifie pas de rejeter chaque plainte nouvelle ni d’en présumer la cause. Signaler un changement avec les informations disponibles permet une évaluation professionnelle ; l’accès aux soins nécessaires, y compris urgents, ne doit pas dépendre d’une preuve de sincérité fournie au préalable.",
+      "opening": "La version partielle du calendrier attend sa correction sur la table. Serge vient de recevoir les derniers horaires, mais une gêne physique nouvelle l’empêche de se concentrer sur les cases. Il la remarque, attend quelques instants, puis prend son téléphone. Ce qui l’arrête n’est pas seulement l’incertitude sur ce qu’il ressent : il craint qu’un nouvel appel soit reçu comme une répétition du trouble factice.\n\nIl pense à Claude, avant de se rappeler leur café. Son ami ne doit pas décider si cette gêne est réelle. Armand lui a expliqué les modalités de recours pendant la coordination ; elles n’ont pas été supprimées lorsque l’information ancienne a été corrigée. Serge utilise le contact prévu et décrit honnêtement ce qu’il éprouve, en distinguant ce qu’il sait de ce qu’il ignore.\n\nLe médecin évalue la situation, lui indique l’orientation nécessaire et organise un examen. Serge suit cette orientation et est reçu effectivement. Le diagnostic connu fait partie de son dossier, mais ne remplace pas l’examen de ce changement. Armand lui pose des questions, examine les éléments utiles et précise la suite médicale, sans attribuer automatiquement la gêne à une fabrication.\n\nÀ la fin de la consultation, Serge mentionne également qu’il dort moins bien et que son moral est bas depuis quelque temps. Armand ne range pas ces informations dans une conclusion unique. Ils conviennent de les reprendre dans un point spécifique avec Inès. Le calendrier peut attendre une correction annoncée ; il ne doit pas décider de la réalité des besoins de soin.",
+      "clinical_focus": "Préserver les soins légitimes",
+      "diagnostic_stage": "known",
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "berar-2021"
+      ],
+      "continuity": {
+        "choice": "Serge signale la gêne nouvelle, reçoit une évaluation effective et ses suites ; il annonce le report et accepte un point spécifique sur sommeil et moral.",
+        "next": "Cette consultation fait aussi émerger un sommeil perturbé et un moral bas, qui demanderont un entretien spécifique et non une explication automatique par 6D50."
+      },
+      "ending_title": "Un report annoncé à Mireille",
+      "ending": "L’évaluation a eu lieu et Armand précise la suite nécessaire sans attribuer automatiquement la gêne au trouble factice. Le point sur le sommeil et le moral est organisé. Serge informe Mireille qu’il doit décaler la correction de mise en page ; il propose de reprendre après ce temps de soins. Il ne lui envoie pas les détails médicaux et ne lui demande pas de certifier qu’il avait raison de consulter.",
+      "conclusion": "Une difficulté nouvelle mérite une évaluation, même lorsqu’un trouble factice est connu. Serge utilise le relais médical, reçoit les soins indiqués et informe le groupe du report pratique, sans devoir faire de ses proches des témoins de sa légitimité.",
+      "mirror": [
+        "Claude peut répondre : « Pour cette gêne nouvelle, utilise le contact médical prévu ; je ne peux pas en déterminer la cause. » Il n’a pas à examiner Serge ou demander des preuves. Mireille peut organiser le report de la correction sans juger le besoin médical. Si un danger immédiat apparaît, l’aide urgente est sollicitée sans attendre qu’un proche tranche la sincérité de la plainte."
+      ],
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Le diagnostic connu ne ferme pas l’évaluation",
+          "text": "Une maladie ou une difficulté authentique peut être présente chez une personne ayant un trouble factice. La connaissance de ce trouble ne permet donc pas de conclure automatiquement sur un symptôme nouveau. Le professionnel apprécie la situation actuelle, l’utilité des examens et les suites nécessaires. Serge n’a pas à obtenir l’approbation de Claude ou du groupe avant de consulter. La coordination aide à transmettre les informations ; elle ne doit pas retarder les secours face à une urgence."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment la peur de ne plus être cru retarde-t-elle une demande ?",
+          "points": [
+            {
+              "heading": "Le diagnostic paraît couvrir toute nouveauté",
+              "text": "Serge imagine que l’appel sera interprété avant d’être entendu.",
+              "examples": [
+                "Il hésite malgré une gêne différente.",
+                "Il craint que son dossier suffise à faire rejeter la demande."
+              ]
+            },
+            {
+              "heading": "Le proche semble pouvoir servir de témoin",
+              "text": "La recherche de réassurance risque de déplacer l’évaluation.",
+              "examples": [
+                "Il pense d’abord à appeler Claude.",
+                "Il reprend ensuite le contact médical convenu plutôt que de lui demander un verdict."
+              ]
+            },
+            {
+              "heading": "La demande ouvre une évaluation réelle",
+              "text": "Le besoin actuel est examiné au lieu d’être seulement rassuré à distance.",
+              "examples": [
+                "Armand apprécie la situation et organise l’examen.",
+                "Serge est reçu et obtient des indications sur la suite."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour signaler un changement de santé",
+          "points": [
+            {
+              "heading": "Décrire les informations disponibles",
+              "objective": "Permettre une orientation à partir de ce qui est vécu actuellement.",
+              "exercise": [
+                "Dire ce qui est nouveau ou différent.",
+                "Répondre aux questions du professionnel sans compléter ce que l’on ignore.",
+                "Signaler les incertitudes plutôt que chercher à paraître plus convaincant."
+              ],
+              "benefit": "La demande peut être appréciée sans transformer la consultation en épreuve de crédibilité."
+            },
+            {
+              "heading": "Suivre l’orientation adaptée",
+              "objective": "Accéder à l’évaluation nécessaire.",
+              "exercise": [
+                "Utiliser le contact prévu dans le suivi.",
+                "Suivre l’orientation médicale reçue et se rendre à l’examen organisé.",
+                "En cas d’urgence, contacter immédiatement les services compétents sans attendre le prochain rendez-vous."
+              ],
+              "benefit": "Les besoins de soin gardent leur place indépendamment du diagnostic antérieur."
+            },
+            {
+              "heading": "Faire préciser la suite",
+              "objective": "Savoir quoi faire si la situation évolue.",
+              "exercise": [
+                "Demander ce que l’évaluation permet de conclure.",
+                "Vérifier les prochaines démarches retenues.",
+                "Faire préciser quand et comment reprendre contact si un changement survient."
+              ],
+              "benefit": "La suite devient plus lisible sans que le patient ait à décider seul de l’utilité des soins."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -319,6 +319,730 @@
           ]
         }
       ]
+    },
+    {
+      "number": 4,
+      "slug": "loubna-partenaire-consentement-entretien",
+      "title": "Consentement : choisir la place de sa partenaire dans le suivi",
+      "description": "Léonie accepte une partie d’entretien, avec un périmètre précis. Loubna apprend à entendre cet accord et ses limites.",
+      "context": "à la maison puis au cabinet",
+      "topics": [
+        "Accord partagé",
+        "Limites relationnelles",
+        "Place de la partenaire"
+      ],
+      "clinical_intro": "Participer à une relation ne signifie pas consentir à tous les échanges sur la santé de l’autre. La présence d’une partenaire dans un entretien doit rester choisie, avec un objet compréhensible et des limites respectées. Pour Loubna et Léonie, l’enjeu est de parler du soutien quotidien sans confier à la relation une fonction de surveillance ou de soin.",
+      "opening": "Léonie sort deux assiettes du placard quand Loubna lui parle du prochain rendez-vous. « Benali a dit que nous pourrions avoir un moment ensemble. Enfin, si tu le veux. » Elle corrige sa première phrase parce qu’elle entend déjà ce qu’elle pourrait laisser croire : que l’entretien est décidé et qu’il ne manque plus qu’une accompagnatrice.\n\nLéonie pose les assiettes. Elle demande de quoi il serait question. Loubna explique qu’elle voudrait parler de leurs soirées après une journée difficile, de ce qu’elle peut demander et de ce qui devient trop lourd. Elle commence ensuite une phrase plus longue sur le suivi, comme si l’invitation exigeait d’en raconter tout le contenu. Léonie l’arrête doucement : « Je veux bien parler de notre façon de nous parler. Je ne veux pas recevoir des détails ni devoir vérifier comment tu vas. »\n\nLoubna sent sa réponse se préparer trop vite. Elle voudrait préciser, convaincre qu’elle n’attend pas tant que cela, ajouter encore une explication. Puis elle regarde les assiettes restées au bord de la table. Léonie vient de répondre à la question posée. Ce n’est ni un refus de leur relation ni un avis clinique. Loubna reprend plus lentement : « D’accord. Est-ce que je peux dire à Benali que c’est seulement cela ? » Léonie accepte. Elles terminent de mettre la table avant de vérifier ensemble le moment proposé, sans transformer tout le dîner en préparation de consultation.",
+      "ending_title": "Une question avant la conversation",
+      "ending": "La partie d’entretien se tient quelques jours plus tard. Benali vérifie leur accord et reprend le sujet annoncé. Léonie dit qu’elle peut parfois écouter une journée difficile, mais pas être disponible à chaque retour. Loubna propose de demander avant de commencer. Elles essaient une phrase simple : « Est-ce que tu as de la place pour en parler maintenant ? » L’entretien se termine sans tâche de surveillance pour Léonie. Loubna conserve un temps individuel distinct pour une autre interrogation, sur ce que le diagnostic signifie ou non en matière de danger.",
+      "conclusion": "Un soutien choisi reste compatible avec un périmètre étroit et le droit de ne pas participer. L’entretien a donné à Loubna et Léonie une façon de demander un échange ; il n’a pas fait de leur couple un dispositif de soin.",
+      "mirror": [
+        "Léonie peut dire au cabinet : « Je veux parler de nos conversations, pas devenir responsable de son suivi. » Benali peut accueillir cette limite sans en faire une preuve de distance affective. Après l’entretien, Léonie reste libre d’être fatiguée ou indisponible. Loubna pourra s’adresser au professionnel pour ce qui demande une réponse clinique."
+      ],
+      "clinical_focus": "Consentement et place de la partenaire",
+      "sources": [
+        "oms-cddr",
+        "oms-sante-sexuelle",
+        "oms-cddr-hrb"
+      ],
+      "continuity": {
+        "choice": "La partie d’entretien se tient quelques jours plus tard. Benali vérifie leur accord et reprend le sujet annoncé. Léonie dit qu’elle peut parfois écouter une journée difficile, mais pas être disponible à chaque retour. Loubna propose de demander avant de commencer. Elles essaient une phrase simple : « Est-ce que tu as de la place pour en parler maintenant ? » L’entretien se termine sans tâche de surveillance pour Léonie. Loubna conserve un temps individuel distinct pour une autre interrogation, sur ce que le diagnostic signifie ou non en matière de danger.",
+        "next": "Loubna garde un entretien individuel pour une question distincte : un diagnostic signifie-t-il forcément qu’un danger corporel a été identifié ?"
+      },
+      "diagnostic_stage": "known",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Un accord a un objet et une limite",
+          "text": "L’implication d’un proche dans le soin est un enjeu relationnel, pas un symptôme supplémentaire du trouble. Le consentement à une relation, à une conversation et à une partie d’entretien correspond à des décisions distinctes. Loubna et Léonie peuvent définir ensemble le sujet qu’elles veulent aborder ; Léonie garde la possibilité de refuser ou d’arrêter sa participation. L’accord ne fait pas d’elle une personne chargée de recueillir des détails, d’évaluer Loubna ou de garantir son état. La docteure Benali conserve la responsabilité du suivi clinique. Ces limites respectent la relation sans présumer ce que toute partenaire devrait faire."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment un accord limité devient-il compréhensible ?",
+          "points": [
+            {
+              "heading": "L’invitation n’est pas une convocation",
+              "text": "La personne invitée doit pouvoir savoir ce qui lui est proposé.",
+              "examples": [
+                "Léonie demande l’objet du rendez-vous avant de répondre.",
+                "Loubna précise qu’il s’agit des échanges après les journées difficiles."
+              ]
+            },
+            {
+              "heading": "Un oui contient des limites",
+              "text": "Accepter une partie d’entretien ne signifie pas tout accepter.",
+              "examples": [
+                "Léonie ne veut pas entendre de détails intimes.",
+                "Elle refuse également une tâche de vérification de l’état de Loubna."
+              ]
+            },
+            {
+              "heading": "L’écoute peut remplacer l’argumentation",
+              "text": "Une limite entendue n’a pas besoin d’être négociée jusqu’à disparaître.",
+              "examples": [
+                "Loubna s’arrête avant d’ajouter une justification.",
+                "Elle demande seulement si elle peut transmettre le périmètre choisi à Benali."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour préparer un entretien partagé",
+          "points": [
+            {
+              "heading": "Définir l’objet de l’invitation",
+              "objective": "Permettre une réponse éclairée et libre.",
+              "exercise": [
+                "Nommer le sujet concret que l’on souhaite aborder ensemble.",
+                "Expliquer que la participation est facultative.",
+                "Laisser la partenaire poser ses questions avant de répondre."
+              ],
+              "benefit": "La proposition peut être évaluée sans engagement implicite à tout partager."
+            },
+            {
+              "heading": "Recevoir la réponse complète",
+              "objective": "Respecter aussi les limites contenues dans un accord.",
+              "exercise": [
+                "Écouter ce qui est accepté et ce qui ne l’est pas.",
+                "Reformuler sans chercher à élargir immédiatement le périmètre.",
+                "Organiser la suite à partir de cette réponse, y compris si elle est négative."
+              ],
+              "benefit": "Le lien peut garder une place distincte du suivi clinique."
+            },
+            {
+              "heading": "Poser le cadre avec le professionnel",
+              "objective": "Éviter qu’un entretien partagé crée un rôle non choisi.",
+              "exercise": [
+                "Transmettre à Benali le sujet convenu avec les deux personnes.",
+                "Confirmer au début de l’échange que chacune est toujours d’accord.",
+                "Réserver les questions cliniques individuelles au temps de suivi approprié."
+              ],
+              "benefit": "Le rendez-vous peut aider la communication sans déléguer le soin à la partenaire."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "slug": "loubna-diagnostic-perimetre-risque",
+      "title": "Risque corporel : ce que le diagnostic permet réellement de dire",
+      "description": "En entretien individuel, Loubna demande si son diagnostic implique forcément un danger. Benali clarifie son fondement personnel.",
+      "context": "en entretien individuel",
+      "topics": [
+        "Fondement du diagnostic",
+        "Risque circonscrit",
+        "Questions au professionnel"
+      ],
+      "clinical_intro": "Un diagnostic peut comporter plusieurs fondements possibles sans que chacun soit présent chez chaque personne. Pour ce trouble, la branche liée au risque corporel répond à un périmètre précis. Chez Loubna, le diagnostic repose sur une détresse déjà évaluée. Clarifier cette distinction évite de lui attribuer un danger sur la seule base d’un intitulé clinique.",
+      "opening": "La chaise que Léonie occupait lors de l’entretien partagé est libre. Loubna est venue seule, comme prévu, et ne sort que sa feuille de questions. Le carnet orange est resté à la maison avec les maquettes. Elle commence par dire que la conversation à trois l’a aidée à comprendre ce qu’elle pouvait demander à sa partenaire. Puis elle regarde une phrase qu’elle avait hésité à écrire : « Est-ce que mon diagnostic veut dire que je suis forcément dangereuse ? »\n\nBenali lui demande ce qui, dans les explications précédentes, lui a laissé cette impression. Loubna répond qu’elle a retenu plusieurs mots mais les a rassemblés comme s’ils décrivaient tous sa situation. Elle sait que son suivi a commencé autour d’une souffrance importante. Pourtant, elle craint qu’un autre motif ait été compris par tout le monde sauf elle.\n\nLa professionnelle reprend les fondements possibles du diagnostic et celui qui a été retenu dans son évaluation. Loubna écoute sans demander de scénario concret. Elle n’a pas besoin d’une nouvelle image pour s’inquiéter, mais de comprendre la portée des mots. Dans son sac, le téléphone annonce un message de Salomé sur le prototype à apporter. Elle le laisse sans réponse pour l’instant. La réunion de travail viendra après cet échange ; elle ne doit pas servir à prouver qu’elle va bien ni qu’elle serait sans aucun risque imaginable.",
+      "ending_title": "La question quitte la réunion graphique",
+      "ending": "Loubna reformule la réponse : son diagnostic ne lui attribue pas tous les fondements possibles de la catégorie. Elle sait pourquoi sa souffrance a été retenue et à qui adresser une question nouvelle. Elle ne demande pas à Léonie de confirmer cette conclusion. En sortant, elle répond à Salomé qu’elle apportera le prototype imprimé à leur réunion. Ce rendez-vous portera sur les titres, les pages et ce qui reste incomplet. Le retard graphique devra être discuté pour lui-même.",
+      "conclusion": "Le périmètre d’un risque ne se déduit pas d’un nom de trouble. Loubna a obtenu une clarification de son évaluation, sans test personnel ni garantie absolue. Elle peut maintenant examiner le prototype comme un travail en cours, avec ses limites concrètes.",
+      "mirror": [
+        "Si Loubna revient sur sa question, Léonie peut dire : « Je peux t’écouter, mais je ne peux pas évaluer cela. Tu peux reprendre le point avec Benali. » Elle n’a pas à certifier une absence de risque. Si un danger immédiat réel se présentait, le recours aux secours ne serait pas remplacé par cette conversation ; aucun danger de ce type n’est décrit ici."
+      ],
+      "clinical_focus": "Le risque corporel a un périmètre",
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-hrb"
+      ],
+      "continuity": {
+        "choice": "Loubna reformule la réponse : son diagnostic ne lui attribue pas tous les fondements possibles de la catégorie. Elle sait pourquoi sa souffrance a été retenue et à qui adresser une question nouvelle. Elle ne demande pas à Léonie de confirmer cette conclusion. En sortant, elle répond à Salomé qu’elle apportera le prototype imprimé à leur réunion. Ce rendez-vous portera sur les titres, les pages et ce qui reste incomplet. Le retard graphique devra être discuté pour lui-même.",
+        "next": "La réunion graphique devra tenir compte des retards réels, indépendamment du diagnostic et de cette clarification."
+      },
+      "diagnostic_stage": "known",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Un risque défini ne se présume pas",
+          "text": "La branche de risque corporel du diagnostic exige un risque significatif de blessure ou de mort directement et immédiatement lié au comportement. Une inquiétude générale ou un risque supposé à partir d’une étiquette ne suffit pas. L’autre fondement possible est la détresse marquée liée au schéma, non simplement expliquée par le rejet ou sa crainte. C’est ce fondement qui a été retenu chez Loubna. Le consentement ne constitue pas en lui-même une garantie d’absence de dommage, mais rien n’autorise ici à lui inventer un danger. La clarification clinique ne produit pas non plus un certificat universel de sécurité : une situation réelle nouvelle demanderait une réponse adaptée à ses faits."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment éviter qu’un intitulé devienne une présomption ?",
+          "points": [
+            {
+              "heading": "Des mots sont assemblés trop largement",
+              "text": "Une explication générale peut être comprise comme un portrait individuel complet.",
+              "examples": [
+                "Loubna croit que tous les fondements évoqués doivent s’appliquer à elle.",
+                "Elle demande si un motif de suivi lui aurait échappé."
+              ]
+            },
+            {
+              "heading": "L’évaluation personnelle reprend sa place",
+              "text": "Le professionnel peut distinguer ce qui a été retenu de ce qui décrit la catégorie générale.",
+              "examples": [
+                "Benali rappelle la souffrance qui a motivé le diagnostic.",
+                "Loubna n’est invitée ni à raconter un danger ni à démontrer son absence."
+              ]
+            },
+            {
+              "heading": "Les autres rôles restent limités",
+              "text": "Une question clinique ne se résout pas par la performance ou l’avis d’une proche.",
+              "examples": [
+                "La présentation du prototype ne peut certifier la sécurité de Loubna.",
+                "Léonie n’est pas sollicitée pour évaluer le risque."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour poser une question de sécurité au bon interlocuteur",
+          "points": [
+            {
+              "heading": "Demander le fondement personnel",
+              "objective": "Distinguer l’explication générale de sa propre évaluation.",
+              "exercise": [
+                "Dire quels mots ont été compris comme une alerte.",
+                "Demander au professionnel ce qui a réellement fondé le diagnostic.",
+                "Reformuler la distinction et faire préciser les ambiguïtés restantes."
+              ],
+              "benefit": "Un échange explicite peut réduire les déductions erronées, sans promesse d’innocuité."
+            },
+            {
+              "heading": "Éviter les vérifications personnelles",
+              "objective": "Garder l’évaluation clinique à sa place.",
+              "exercise": [
+                "Repérer la question que l’on voudrait résoudre par une preuve.",
+                "L’adresser au professionnel sans chercher de test ou de mise en situation.",
+                "Conserver ses consignes adaptées à la situation réelle."
+              ],
+              "benefit": "La demande reste une démarche de clarification et ne crée pas une expérience risquée."
+            },
+            {
+              "heading": "Connaître les recours convenus",
+              "objective": "Savoir à qui transmettre un changement réel.",
+              "exercise": [
+                "Demander quel contact utiliser pour une question nouvelle.",
+                "Conserver ces coordonnées dans les informations de suivi.",
+                "En cas de danger immédiat réel, contacter les secours compétents sans attendre un exercice ou un rendez-vous."
+              ],
+              "benefit": "Des contacts identifiés peuvent faciliter une réponse adaptée ; ils ne remplacent pas l’aide urgente lorsqu’elle est nécessaire."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "slug": "loubna-retentissement-charge-professionnelle",
+      "title": "Retentissement professionnel : compter la charge réelle",
+      "description": "Le prototype est lisible, la version numérique reste incomplète. Loubna et Salomé répartissent les remises sans confondre travail et soin.",
+      "context": "à la petite salle d’exposition",
+      "topics": [
+        "Charge réelle",
+        "Livraisons distinctes",
+        "Retentissement professionnel"
+      ],
+      "clinical_intro": "Une difficulté de santé peut retentir sur le travail sans se voir dans toutes les tâches. Les préoccupations et le temps du suivi pèsent ici sur un projet graphique concret. Distinguer les livrables prêts de ceux qui restent incomplets aide à organiser la collaboration. Cette adaptation professionnelle ne mesure ni la gravité du trouble ni l’efficacité du soin.",
+      "opening": "Salomé pose le prototype imprimé au milieu de la table. Elle le tourne vers la fenêtre, suit du doigt les horaires et sourit devant le titre. « Cette fois, je le vois sans chercher. » Loubna répond que les chuchotements imprimés ont enfin haussé la voix. Pendant quelques secondes, elle retrouve le plaisir précis d’avoir rendu une page plus facile à lire.\n\nPuis Salomé ouvre la version numérique sur son ordinateur. Les informations principales y sont, mais plusieurs pages ne reprennent pas encore les corrections du prototype. Loubna savait qu’elles étaient incomplètes. Les voir côte à côte rend pourtant le décalage plus net. Elle avait imaginé combler les écarts entre deux rendez-vous, comme si ces moments n’avaient pas à figurer dans son temps disponible.\n\nElle explique que le programme imprimé peut être finalisé en premier et que le fichier numérique demandera une autre étape. Elle n’annonce pas son diagnostic. Salomé n’en a pas besoin pour regarder le calendrier ; elle a besoin de savoir sur quel document elle peut compter. Loubna ouvre son agenda et évite cette fois de traiter les créneaux de suivi comme des cases qu’elle pourrait remplir de corrections supplémentaires. Les préoccupations lui ont aussi pris du temps, et elle ne peut promettre qu’elles disparaîtront avant la prochaine remise. Elle sort le carnet orange pour lister les pages, pas pour justifier sa santé.",
+      "ending_title": "Deux lignes de remise",
+      "ending": "Salomé accepte de recevoir d’abord le programme imprimé, puis sa version numérique. Loubna inscrit les deux étapes dans son message de confirmation et repart avec des corrections clairement identifiées. Elle ne promet pas une semaine parfaite. Lors du suivi suivant, elle rapporte le retard et la place des préoccupations dans sa journée. En cherchant ses mots, elle dit : « Je qualifie tout cela de compulsif, parce que ça revient. Est-ce vraiment le bon mot ? » La question ouvre un autre échange, distinct de leur calendrier de livraison.",
+      "conclusion": "Reconnaître un retentissement professionnel permet de discuter des adaptations concrètes sans transformer une collègue en soignante. Loubna garde ses rendez-vous et deux remises convenues. Les mots qu’elle utilise pour décrire sa difficulté restent à préciser avec Benali.",
+      "mirror": [
+        "Salomé peut demander : « Quelle version pouvons-nous valider en premier ? » Elle peut aussi exprimer les besoins de la salle, sans exiger d’explication médicale. Léonie n’a pas à rattraper les corrections ni à vérifier le planning. Le retard est discuté avec la responsable du projet ; ce qu’il révèle du vécu de Loubna appartient au suivi choisi."
+      ],
+      "clinical_focus": "Retentissement professionnel et charge réelle",
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-hrb"
+      ],
+      "continuity": {
+        "choice": "Salomé accepte de recevoir d’abord le programme imprimé, puis sa version numérique. Loubna inscrit les deux étapes dans son message de confirmation et repart avec des corrections clairement identifiées. Elle ne promet pas une semaine parfaite. Lors du suivi suivant, elle rapporte le retard et la place des préoccupations dans sa journée. En cherchant ses mots, elle dit : « Je qualifie tout cela de compulsif, parce que ça revient. Est-ce vraiment le bon mot ? » La question ouvre un autre échange, distinct de leur calendrier de livraison.",
+        "next": "Au suivi, elle cherche le mot juste pour ses préoccupations et demande si leur répétition implique une compulsion."
+      },
+      "diagnostic_stage": "known",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "La planification ne fait pas office de traitement",
+          "text": "Un retentissement professionnel est possible dans les troubles paraphiliques, mais il n’est ni universel ni suffisant pour poser un diagnostic. Chez Loubna, la détresse et les préoccupations ont interrompu des corrections ; le suivi prend également une place réelle dans son organisation. Cela ne signifie pas qu’elle aurait perdu toute compétence ou que chaque retard aurait une cause clinique. Le prototype montre un travail accompli et la version numérique un travail restant. Salomé peut discuter ces deux faits sans évaluer le trouble. Une mise en page plus lisible est un résultat graphique souhaité, pas une conformité réglementaire démontrée ni une preuve de guérison."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment la charge réelle apparaît-elle dans un projet ?",
+          "points": [
+            {
+              "heading": "Les livrables avancent différemment",
+              "text": "Deux versions d’un même programme peuvent se trouver à des étapes distinctes.",
+              "examples": [
+                "Les titres du prototype imprimé sont repris.",
+                "Les corrections ne figurent pas encore partout dans le fichier numérique."
+              ]
+            },
+            {
+              "heading": "Le calendrier contient déjà des engagements",
+              "text": "Le temps clinique ne peut être compté simultanément comme du temps de production.",
+              "examples": [
+                "Loubna voit les rendez-vous dans son agenda.",
+                "Elle cesse de supposer qu’elle finira les pages pendant ces créneaux."
+              ]
+            },
+            {
+              "heading": "Une compétence n’efface pas un retard",
+              "text": "Reconnaître le travail réussi permet aussi de décrire ce qui reste.",
+              "examples": [
+                "Loubna apprécie le titre plus lisible.",
+                "Elle annonce une seconde étape pour le numérique au lieu de promettre tout ensemble."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour négocier une remise réaliste",
+          "points": [
+            {
+              "heading": "Distinguer les versions",
+              "objective": "Donner une image fidèle de l’avancement.",
+              "exercise": [
+                "Ouvrir les deux livrables côte à côte.",
+                "Lister les corrections déjà présentes et celles qui manquent.",
+                "Indiquer à la responsable quel document peut servir à la prochaine validation."
+              ],
+              "benefit": "La discussion peut porter sur des écarts visibles plutôt que sur une impression globale d’échec."
+            },
+            {
+              "heading": "Prévoir deux remises",
+              "objective": "Adapter l’engagement aux tâches restantes.",
+              "exercise": [
+                "Choisir avec Salomé la version nécessaire en premier.",
+                "Estimer séparément le travail de la seconde version.",
+                "Confirmer les deux étapes et les conditions d’un nouveau point."
+              ],
+              "benefit": "Un accord explicite peut faciliter la coordination sans garantir une semaine sans difficulté."
+            },
+            {
+              "heading": "Compter les rendez-vous",
+              "objective": "Préserver une organisation compatible avec le suivi.",
+              "exercise": [
+                "Réserver les créneaux cliniques déjà convenus.",
+                "Construire le planning de travail avec le temps réellement disponible.",
+                "Rapporter au suivi le retentissement observé sans attendre la livraison finale."
+              ],
+              "benefit": "Les contraintes cessent d’être invisibles ; cette démarche reste organisationnelle."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "slug": "loubna-repetition-controle-compulsion",
+      "title": "Répétition et compulsion : ne pas confondre les mots",
+      "description": "Parce que ses préoccupations reviennent, Loubna les appelle compulsives. Benali l’aide à préciser ce qu’elle décrit.",
+      "context": "pendant le suivi",
+      "topics": [
+        "Répétition",
+        "Clarification clinique",
+        "Absence d’auto-étiquette"
+      ],
+      "clinical_intro": "La répétition de préoccupations ne prouve pas à elle seule une perte de contrôle des comportements. Le trouble paraphilique et le trouble du comportement sexuel compulsif ne sont pas des termes interchangeables. Pour Loubna, préciser les mots employés permet de parler du retentissement sans s’attribuer un second diagnostic ni entreprendre de vérification personnelle.",
+      "opening": "« Quand quelque chose revient autant dans ma tête, j’appelle ça compulsif. » Loubna vient de raconter à Benali les deux remises décidées avec Salomé. Le travail lui semble mieux réparti, mais le mot qu’elle a employé reste entre elles. Elle voudrait savoir s’il ajoute quelque chose à ce qui est déjà connu, ou s’il complique seulement la conversation.\n\nBenali lui demande ce qu’elle désigne exactement. Loubna reprend l’exemple du bloc de texte, de la correction perdue, du temps passé à retrouver son fil. Elle ne décrit pas une série de comportements ; elle essaie de rendre compréhensible le retour des préoccupations. En les entendant nommées séparément, elle réalise qu’elle avait donné au même mot plusieurs fonctions : dire la répétition, dire sa fatigue, et peut-être expliquer d’un seul coup pourquoi elle ne terminait pas son fichier.\n\nLe carnet orange est dans son sac, fermé. Elle n’en sort pas un tableau de travail pour le présenter comme une preuve clinique. Sur sa feuille de suivi, elle avait seulement écrit deux questions. La première concerne le mot compulsif. La seconde attend encore : ces derniers jours, elle dort moins bien et peine davantage à se mettre en route. Elle hésite à la poser, par crainte de mêler encore des choses différentes. Benali laisse du temps après sa première réponse ; Loubna garde la feuille ouverte devant elle.",
+      "ending_title": "La deuxième ligne de la feuille",
+      "ending": "Loubna reformule : le retour des préoccupations ne lui permet pas de se donner un second diagnostic. Benali confirme la distinction, puis lui demande ce qu’elle voulait encore aborder. Loubna parle de son sommeil récemment perturbé et de sa baisse d’élan. La professionnelle recueille les premiers éléments et organise un point clinique pour examiner ces changements. Loubna note ce rendez-vous avant de ranger sa feuille. Elle ne sait pas encore ce qui explique cette période, mais elle ne repart pas avec une question importante laissée au fond du sac.",
+      "conclusion": "Des mots proches peuvent recouvrir des problèmes cliniques différents. Loubna a précisé sa description sans ajouter d’étiquette. Elle a également signalé des changements récents, qui seront examinés pour eux-mêmes au lieu d’être absorbés par le diagnostic déjà connu.",
+      "mirror": [
+        "Si Loubna emploie le mot compulsif à la maison, Léonie peut demander simplement ce qu’elle veut dire, sans confirmer une nouvelle étiquette. Elle peut aussi reconnaître qu’une question relève du suivi : « Tu pourras l’expliquer à Benali comme tu viens de me le dire. » Elle n’a pas à observer les comportements de Loubna ni à tester son contrôle."
+      ],
+      "clinical_focus": "Répétition et contrôle ne se confondent pas",
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-hrb"
+      ],
+      "continuity": {
+        "choice": "Loubna reformule : le retour des préoccupations ne lui permet pas de se donner un second diagnostic. Benali confirme la distinction, puis lui demande ce qu’elle voulait encore aborder. Loubna parle de son sommeil récemment perturbé et de sa baisse d’élan. La professionnelle recueille les premiers éléments et organise un point clinique pour examiner ces changements. Loubna note ce rendez-vous avant de ranger sa feuille. Elle ne sait pas encore ce qui explique cette période, mais elle ne repart pas avec une question importante laissée au fond du sac.",
+        "next": "Ces changements seront examinés pour eux-mêmes, sans être expliqués automatiquement par le trouble connu."
+      },
+      "diagnostic_stage": "known",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "La nature du schéma et le contrôle sont distincts",
+          "text": "Les préoccupations répétées et une défaillance persistante du contrôle des comportements ne décrivent pas la même chose. Le trouble du comportement sexuel compulsif possède une évaluation propre ; il n’est pas automatiquement ajouté à un trouble paraphilique. Chez Loubna, le retour des préoccupations et les interruptions de travail ne suffisent pas à conclure à ce second diagnostic. Décrire les difficultés en langage courant permet au professionnel de poser les questions pertinentes. Cela n’exige ni fréquence seuil, ni inventaire intime, ni test destiné à vérifier une réaction. Le diagnostic déjà établi ne change pas parce qu’un mot nouveau a été prononcé."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment un mot trop large peut-il brouiller le récit ?",
+          "points": [
+            {
+              "heading": "La répétition reçoit une étiquette",
+              "text": "Un terme courant peut être pris pour une conclusion clinique.",
+              "examples": [
+                "Loubna dit compulsif pour signifier que les préoccupations reviennent.",
+                "Elle se demande ensuite si elle vient de nommer un autre trouble."
+              ]
+            },
+            {
+              "heading": "Le fait concret redevient accessible",
+              "text": "Une description précise évite de demander au mot de tout expliquer.",
+              "examples": [
+                "Elle raconte qu’elle perd la correction à faire.",
+                "Elle distingue ce constat de ce qu’elle n’a pas décrit sur ses comportements."
+              ]
+            },
+            {
+              "heading": "Une autre question peut rester indépendante",
+              "text": "Clarifier un terme n’oblige pas à lui rattacher tout changement récent.",
+              "examples": [
+                "Le sommeil moins reposant figure sur une autre ligne de sa feuille.",
+                "La difficulté nouvelle à démarrer la journée attend sa propre discussion."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour décrire sans s’attribuer une étiquette",
+          "points": [
+            {
+              "heading": "Revenir à la situation",
+              "objective": "Rendre le vécu compréhensible avant de le classer.",
+              "exercise": [
+                "Choisir un exemple quotidien déjà observé.",
+                "Dire ce qui revient et ce que cela interrompt.",
+                "Indiquer au professionnel ce que l’on ignore plutôt que combler les blancs."
+              ],
+              "benefit": "Le récit peut être plus fidèle sans devenir un questionnaire diagnostique."
+            },
+            {
+              "heading": "Faire préciser un terme",
+              "objective": "Éviter d’utiliser deux diagnostics comme des synonymes.",
+              "exercise": [
+                "Nommer le mot qui pose question.",
+                "Demander au clinicien ce qu’il signifie et ce qu’il ne permet pas de conclure ici.",
+                "Reformuler la distinction avec ses propres mots."
+              ],
+              "benefit": "La conversation peut gagner en clarté sans test personnel de contrôle."
+            },
+            {
+              "heading": "Garder les questions ouvertes",
+              "objective": "Ne pas perdre un besoin en résolvant le précédent.",
+              "exercise": [
+                "Noter séparément une difficulté encore inexpliquée.",
+                "La signaler pendant le suivi plutôt que la rattacher automatiquement au trouble connu.",
+                "Convenir avec le professionnel de la suite utile."
+              ],
+              "benefit": "Une question nouvelle peut obtenir une place propre dans l’évaluation."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "slug": "loubna-changements-recents-reevaluation",
+      "title": "Changements récents : réévaluer sans tout attribuer au trouble",
+      "description": "Le sommeil et l’élan de Loubna ont changé. Un point clinique réel examine ces difficultés avant toute nouvelle conclusion.",
+      "context": "au point clinique convenu",
+      "topics": [
+        "Changements récents",
+        "Réévaluation",
+        "Suivi adapté"
+      ],
+      "clinical_intro": "Un diagnostic connu ne suffit pas à expliquer chaque changement de santé. Un sommeil perturbé ou une baisse d’élan demandent à être décrits et évalués dans leur contexte, sans conclusion automatique. Chez Loubna, ces difficultés récentes conduisent à un point clinique distinct. L’organisation du travail peut être ajustée pendant cette démarche sans attendre une nouvelle étiquette.",
+      "opening": "Le matin du rendez-vous, Loubna ouvre son ordinateur puis reste devant la liste des fichiers. Le programme imprimé a sa série de corrections repérées ; elle sait comment les terminer. La version numérique, elle, lui paraît trop vaste pour être ouverte. Elle n’a pas l’impression habituelle de perdre le fil au milieu d’une tâche. Cette fois, c’est le démarrage lui-même qui lui demande un effort qu’elle remarque.\n\nAu cabinet, elle dit d’abord qu’elle dort moins bien. Benali lui demande depuis quand, puis comment cela se passe dans la journée. Loubna reprend les derniers jours dans leur ordre, sans essayer de leur donner un nom. Elle décrit le fichier resté fermé, les nuits moins reposantes, la différence avec la période où elle avançait entre deux interruptions. La professionnelle lui pose les questions utiles sur le contexte et les éléments de santé pertinents ; Loubna répond à ce qu’elle connaît et dit lorsqu’elle ne sait pas.\n\nElle avait craint qu’on lui dise simplement que tout venait du trouble déjà diagnostiqué. Le fait de reprendre la chronologie lui permet de ne pas arriver avec cette conclusion. Elle pense aux deux remises prévues avec Salomé. Le programme imprimé reste accessible, mais l’échéance numérique lui paraît maintenant trop serrée. Elle attend la fin du point clinique pour convenir des prochaines étapes, puis elle devra parler d’un report concret, pas promettre de rattraper les nuits sur le calendrier.",
+      "ending_title": "Un report ciblé",
+      "ending": "La réévaluation est effectuée. Benali convient avec Loubna d’un point rapproché et reprend les modalités pour la contacter si la situation change avant ce rendez-vous. Aucun nouveau diagnostic n’est annoncé dans leur échange. Loubna écrit ensuite à Salomé : la remise imprimée est maintenue, mais elle demande quelques jours supplémentaires pour la version numérique. Salomé accepte ce report limité et confirme les deux étapes. Loubna n’a pas une explication totale de ses nuits ; elle a une suite de suivi et un calendrier qui reconnaît la difficulté actuelle.",
+      "conclusion": "Une difficulté récente mérite une évaluation propre, même lorsqu’un trouble est déjà connu. Le rendez-vous a permis d’adapter les suites sans conclusion prématurée. Loubna distingue maintenant le besoin de suivi et le report précis d’un livrable.",
+      "mirror": [
+        "Léonie peut accueillir un constat tel que « mes nuits ont changé » sans répondre que tout vient forcément du diagnostic. Elle peut demander si Loubna souhaite une aide pratique pour se rendre au rendez-vous, puis respecter sa réponse. Salomé, de son côté, peut confirmer le report demandé sans réclamer le résultat de l’évaluation clinique."
+      ],
+      "clinical_focus": "Réévaluer une difficulté nouvelle",
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-hrb"
+      ],
+      "continuity": {
+        "choice": "La réévaluation est effectuée. Benali convient avec Loubna d’un point rapproché et reprend les modalités pour la contacter si la situation change avant ce rendez-vous. Aucun nouveau diagnostic n’est annoncé dans leur échange. Loubna écrit ensuite à Salomé : la remise imprimée est maintenue, mais elle demande quelques jours supplémentaires pour la version numérique. Salomé accepte ce report limité et confirme les deux étapes. Loubna n’a pas une explication totale de ses nuits ; elle a une suite de suivi et un calendrier qui reconnaît la difficulté actuelle.",
+        "next": "La suite du suivi peut porter sur les objectifs concrets de l’accompagnement plutôt que sur une promesse de tout faire disparaître."
+      },
+      "diagnostic_stage": "known",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Examiner le changement dans son contexte",
+          "text": "Des difficultés nouvelles peuvent coexister avec un diagnostic antérieur sans en être une conséquence démontrée. Le sommeil et l’élan ont plusieurs explications possibles, qui ne se départagent pas à partir d’une scène de travail. Chez Loubna, la réévaluation recueille la chronologie et les éléments pertinents, sans annoncer une dépression ni une aggravation déterminée du trouble connu. Les questions cliniques peuvent porter sur le contexte et les traitements éventuels, sans supposer qu’elle prend un produit ni l’inviter à le modifier seule. La démarche vise à comprendre le changement et à adapter la suite du suivi, pas à fabriquer une nouvelle étiquette pour justifier un délai."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment reconnaître une question nouvelle sans la diagnostiquer ?",
+          "points": [
+            {
+              "heading": "Le changement peut être décrit",
+              "text": "La personne peut comparer son vécu actuel à son fonctionnement précédent.",
+              "examples": [
+                "Loubna distingue le démarrage difficile de ses interruptions habituelles.",
+                "Elle rapporte des nuits moins reposantes sans leur attribuer de cause."
+              ]
+            },
+            {
+              "heading": "La chronologie compte",
+              "text": "Un ordre des événements aide le professionnel sans devenir un test.",
+              "examples": [
+                "Benali demande depuis quand les difficultés sont présentes.",
+                "Loubna reprend les derniers jours au lieu de dire que tout a toujours été ainsi."
+              ]
+            },
+            {
+              "heading": "Une adaptation peut attendre moins qu’une explication complète",
+              "text": "Le travail demande une décision même lorsque l’évaluation reste ouverte.",
+              "examples": [
+                "Loubna conserve la remise imprimée qu’elle estime faisable.",
+                "Elle identifie la version numérique comme la partie nécessitant un report."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour préparer une réévaluation utile",
+          "points": [
+            {
+              "heading": "Rapporter ce qui a changé",
+              "objective": "Donner au clinicien des éléments situés.",
+              "exercise": [
+                "Choisir les changements récents qui préoccupent.",
+                "Indiquer leur apparition et leurs effets quotidiens sans chercher un seuil.",
+                "Les présenter au rendez-vous convenu en signalant les incertitudes."
+              ],
+              "benefit": "Une description située peut guider les questions du professionnel."
+            },
+            {
+              "heading": "Répondre sans compléter par des suppositions",
+              "objective": "Préserver la qualité des informations de santé.",
+              "exercise": [
+                "Répondre aux questions sur le contexte et les éléments cliniques pertinents.",
+                "Dire quand une information manque ou reste incertaine.",
+                "Demander au professionnel comment vérifier ce point, sans modifier seule un traitement éventuel."
+              ],
+              "benefit": "L’évaluation peut s’appuyer sur des faits plutôt que sur une explication prématurée."
+            },
+            {
+              "heading": "Clarifier les suites",
+              "objective": "Ne pas repartir avec seulement une question ouverte.",
+              "exercise": [
+                "Demander quel prochain contact est prévu.",
+                "Vérifier à qui signaler un changement avant ce contact.",
+                "Adapter l’engagement professionnel devenu irréaliste avec la personne concernée."
+              ],
+              "benefit": "Les prochaines démarches peuvent devenir concrètes sans promettre leur résultat clinique."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "slug": "loubna-objectifs-soin-individualise",
+      "title": "Objectifs du soin : soulager sans normaliser les préférences",
+      "description": "Après la réévaluation, Loubna précise avec Benali les objectifs de son suivi et remet le programme imprimé.",
+      "context": "au rendez-vous suivant",
+      "topics": [
+        "Objectifs choisis",
+        "Soin individualisé",
+        "Respect de la sexualité"
+      ],
+      "clinical_intro": "Un accompagnement individualisé demande de discuter ce que la personne souhaite améliorer, ainsi que les limites et contraintes des propositions. Le respect des préférences consenties ne disparaît pas avec un diagnostic. Loubna cherche une aide pour sa souffrance et son fonctionnement quotidien ; elle n’a pas à devenir conforme à une norme pour que cette demande soit entendue.",
+      "opening": "Loubna arrive au point rapproché avec sa feuille pliée en deux. Depuis la réévaluation, elle a conservé les modalités convenues et préparé les dernières corrections du programme imprimé. Le numérique bénéficie du report accepté par Salomé. Cette répartition lui paraît plus honnête, mais une question lui manque encore : vers quoi le suivi est-il censé aller ?\n\nElle la pose à Benali sans détour. « Est-ce qu’on cherche à ce que je ne souffre plus, ou à ce que je devienne quelqu’un d’autre ? » La formule lui paraît excessive dès qu’elle l’entend. Elle la garde pourtant. Lorsqu’elle parle du projet graphique, elle sait expliquer qu’une marge ne se réduit pas pour faire plaisir à une règle abstraite. Lorsqu’elle parle de sa santé, elle craint encore que ses propres préférences la privent du droit d’espérer une amélioration.\n\nBenali reprend avec elle les besoins discutés : la détresse, ce qui pèse sur les journées, les questions nouvelles de sommeil et d’élan suivies depuis leur dernier point. Loubna demande comment elles pourront reparler des propositions si elles lui conviennent mal. Elle n’apporte pas un programme à appliquer seule. Elle veut savoir à quoi elle donne son accord et comment dire ce qui ne fonctionne pas. Le programme imprimé attend dans une enveloppe séparée pour Salomé ; cette remise est importante, mais elle ne répondra pas à sa place aux questions du cabinet.",
+      "ending_title": "L’enveloppe change de mains",
+      "ending": "Loubna et Benali conviennent de poursuivre le travail sur la souffrance et le retentissement quotidien, en gardant les changements récents dans leur suivi. Elles fixent le prochain point pour discuter aussi de ce qui convient ou non à Loubna. Après le rendez-vous, celle-ci remet le programme imprimé à Salomé. La responsable parcourt les pages et accepte cette version. Loubna sourit franchement. Le numérique reste à terminer, et la satisfaction de cette première remise n’a pas besoin de devenir une conclusion clinique.",
+      "conclusion": "Un objectif de soin se discute sans imposer une normalisation des préférences. Loubna a obtenu une direction compréhensible et une possibilité de réévaluation. Elle peut aussi apprécier la remise imprimée comme une réussite professionnelle, dans son domaine propre.",
+      "mirror": [
+        "Salomé peut dire précisément ce qu’elle apprécie dans le programme, sans attribuer le résultat au suivi de Loubna. Léonie peut partager sa satisfaction si elle en a envie, sans en tirer un verdict sur sa santé. Si Loubna veut parler des décisions cliniques, elle peut d’abord demander sa disponibilité ; aucune approbation de partenaire ne remplace son propre échange avec Benali."
+      ],
+      "clinical_focus": "Un soin individualisé sans normalisation",
+      "sources": [
+        "oms-cddr",
+        "oms-sante-sexuelle",
+        "wfsbp-2020"
+      ],
+      "continuity": {
+        "choice": "Loubna et Benali conviennent de poursuivre le travail sur la souffrance et le retentissement quotidien, en gardant les changements récents dans leur suivi. Elles fixent le prochain point pour discuter aussi de ce qui convient ou non à Loubna. Après le rendez-vous, celle-ci remet le programme imprimé à Salomé. La responsable parcourt les pages et accepte cette version. Loubna sourit franchement. Le numérique reste à terminer, et la satisfaction de cette première remise n’a pas besoin de devenir une conclusion clinique.",
+        "next": "Le travail avance, mais la question de ce qu’elle veut raconter de sa santé aux autres demeure distincte."
+      },
+      "diagnostic_stage": "known",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Des objectifs à discuter, pas une conversion à réussir",
+          "text": "Le soin doit être ajusté à la situation évaluée, aux besoins et aux choix de la personne. Chez Loubna, discuter la détresse et le fonctionnement quotidien ne signifie pas vouloir modifier son orientation ou conformer ses préférences à une norme morale. Les recommandations disponibles ne permettent pas de transposer automatiquement à cette femme des protocoles étudiés surtout chez des hommes adultes, parfois dans d’autres contextes. Aucun exercice autonome spécifique n’est proposé ici comme traitement du schéma. Les démarches de clarification, de communication et d’organisation servent à préparer le suivi ; elles n’ont pas d’efficacité thérapeutique démontrée sur ce trouble. Les bénéfices, les limites et les contraintes d’une proposition clinique se discutent avec le professionnel."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment rendre les objectifs du suivi plus explicites ?",
+          "points": [
+            {
+              "heading": "La demande dépasse une étiquette",
+              "text": "Connaître le diagnostic ne suffit pas à comprendre ce que l’on attend du soin.",
+              "examples": [
+                "Loubna demande vers quoi va l’accompagnement.",
+                "Elle distingue le soulagement souhaité d’une transformation de ses préférences."
+              ]
+            },
+            {
+              "heading": "Les contraintes ont une place",
+              "text": "Une personne peut questionner une proposition et ses effets quotidiens.",
+              "examples": [
+                "Loubna veut pouvoir dire qu’une proposition lui convient mal.",
+                "Elle relie ses questions aux difficultés récentes déjà réévaluées."
+              ]
+            },
+            {
+              "heading": "Une réussite garde son domaine",
+              "text": "Le projet peut avancer sans devenir un bilan de santé.",
+              "examples": [
+                "L’enveloppe imprimée reste séparée de la feuille de suivi.",
+                "La réception par Salomé évaluera le programme, pas l’évolution clinique."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour participer aux décisions de suivi",
+          "points": [
+            {
+              "heading": "Demander un objectif concret",
+              "objective": "Comprendre la direction de l’accompagnement.",
+              "exercise": [
+                "Nommer la difficulté pour laquelle une aide est souhaitée.",
+                "Demander ce que la proposition du professionnel cherche à améliorer.",
+                "Dire si cet objectif correspond à son propre besoin."
+              ],
+              "benefit": "La discussion peut rendre la décision plus compréhensible sans garantir une amélioration."
+            },
+            {
+              "heading": "Discuter les limites",
+              "objective": "Faire une place aux contraintes et aux incertitudes.",
+              "exercise": [
+                "Demander quels bénéfices sont attendus et lesquels restent incertains.",
+                "Parler des contraintes que la proposition pourrait créer.",
+                "Demander comment signaler une difficulté ou un désaccord."
+              ],
+              "benefit": "Le suivi peut intégrer l’expérience de la personne au lieu d’exiger une adhésion silencieuse."
+            },
+            {
+              "heading": "Prévoir la réévaluation des objectifs",
+              "objective": "Éviter qu’un accord soit traité comme définitif.",
+              "exercise": [
+                "Convenir d’un prochain point avec le professionnel.",
+                "Préciser ce qui sera utile à discuter lors de ce point.",
+                "Conserver la possibilité de reformuler ses besoins sans se juger sur le seul travail accompli."
+              ],
+              "benefit": "Les décisions peuvent être reprises dans le suivi lorsque la situation évolue."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "slug": "loubna-partage-informations-vie-privee",
+      "title": "Vie privée : partager l’information utile sans tout raconter",
+      "description": "Pour le délai numérique puis à la maison, Loubna choisit ce qu’elle veut dire et demande la disponibilité de son interlocutrice.",
+      "context": "au travail puis à la maison",
+      "topics": [
+        "Vie privée",
+        "Disponibilité",
+        "Information utile"
+      ],
+      "clinical_intro": "Choisir ce que l’on partage de sa santé relève de décisions quotidiennes distinctes du consentement à un entretien. Le destinataire, le besoin et sa disponibilité comptent. Loubna peut donner un délai professionnel sans compte rendu médical, puis demander un échange personnel à Léonie. Préserver sa vie privée reste compatible avec le recours aux professionnels pour les besoins cliniques.",
+      "opening": "Le programme imprimé est posé sur une étagère derrière Salomé. Loubna le remarque pendant qu’elles parlent de la version numérique : il a déjà trouvé sa place dans la salle. Salomé demande à quel moment elle pourra ouvrir le fichier terminé. La question est pratique, sans sous-entendu. Loubna commence pourtant à préparer une explication sur son dernier rendez-vous, les questions posées, les suites convenues.\n\nElle s’interrompt avant de la donner. Salomé connaît le report et doit organiser son travail ; elle n’a pas demandé un récit médical. Loubna ouvre le document de suivi des corrections et répond sur les pages restantes. Elle propose une remise pour la fin de la semaine suivante, dans le délai déplacé ensemble. Ce qu’elle doit à cette collaboration, pense-t-elle, c’est une information fiable sur le programme, pas la totalité de sa journée au cabinet.\n\nLe soir, chez elle, elle retrouve Léonie en train de ranger des papiers. Elle voudrait raconter la satisfaction de la remise imprimée et la fatigue qui l’a suivie. La phrase choisie pendant l’entretien partagé lui revient : « Tu as de la place pour parler un peu de ma journée ? » Léonie regarde les papiers, puis répond qu’elle préférerait le lendemain. Loubna éprouve une petite déception. Elle n’en conclut pas que Léonie refuse ce qu’elle est. Elles cherchent un moment possible, et la pile de papiers reste simplement une pile de papiers.",
+      "ending_title": "Le lendemain, au moment convenu",
+      "ending": "Salomé reçoit la date et la liste des dernières corrections. Le lendemain, Loubna et Léonie prennent le temps de parler comme elles l’avaient convenu. Loubna raconte surtout le programme posé dans la salle et le soulagement de ne plus devoir défendre une remise impossible. Léonie écoute, puis raconte aussi sa propre journée. Aucun compte rendu clinique n’est requis. Plus tard, Loubna range les notes de suivi séparément du carnet orange ; les maquettes pourront circuler sans emporter ce qu’elle a choisi de garder privé.",
+      "conclusion": "Le partage peut être précis sans être total. Loubna a répondu au besoin de Salomé et respecté le rythme de Léonie. La vie privée n’efface pas l’accès au soin ; elle aide ici à garder chaque échange dans un périmètre choisi.",
+      "mirror": [
+        "Léonie peut dire : « Pas ce soir ; demain, je serai disponible pour t’écouter. » Elle peut aussi ne pas proposer de report si elle ne le souhaite pas. Une limite n’a pas à devenir un jugement sur le trouble. Salomé peut se contenter des informations professionnelles reçues ; ni l’une ni l’autre n’a à réclamer les notes de Benali."
+      ],
+      "clinical_focus": "Partager sans devoir tout expliquer",
+      "sources": [
+        "oms-cddr",
+        "oms-sante-sexuelle",
+        "oms-cddr-hrb"
+      ],
+      "continuity": {
+        "choice": "Salomé reçoit la date et la liste des dernières corrections. Le lendemain, Loubna et Léonie prennent le temps de parler comme elles l’avaient convenu. Loubna raconte surtout le programme posé dans la salle et le soulagement de ne plus devoir défendre une remise impossible. Léonie écoute, puis raconte aussi sa propre journée. Aucun compte rendu clinique n’est requis. Plus tard, Loubna range les notes de suivi séparément du carnet orange ; les maquettes pourront circuler sans emporter ce qu’elle a choisi de garder privé.",
+        "next": "Une période moins pénible arrive ; elle devra être rapportée au suivi sans transformer la disponibilité retrouvée en conclusion définitive."
+      },
+      "diagnostic_stage": "known",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Le destinataire ne reçoit pas automatiquement tout le récit",
+          "text": "Partager une information de santé ne répond pas à la même fonction selon le contexte. Au travail, Loubna peut décrire une contrainte et un engagement sans communiquer son diagnostic. À la maison, elle peut souhaiter un soutien tout en respectant la disponibilité de Léonie. Cette sélection n’est pas en elle-même une dissimulation ni une obligation de garder le silence. Les besoins cliniques doivent pouvoir être adressés au professionnel, et une situation réelle de danger appellerait les démarches adaptées plutôt qu’une promesse de secret absolu. Ici, le refus temporaire d’une conversation est une limite ordinaire, pas une preuve de rejet pathologique ou de dégradation du couple."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment choisir le niveau de partage dans une journée ?",
+          "points": [
+            {
+              "heading": "La demande professionnelle a un objet",
+              "text": "Répondre à une échéance n’impose pas d’en expliquer toute l’histoire personnelle.",
+              "examples": [
+                "Salomé demande quand recevoir le fichier numérique.",
+                "Loubna lui décrit les pages restantes et une date de remise."
+              ]
+            },
+            {
+              "heading": "La disponibilité se demande à nouveau",
+              "text": "Un entretien partagé antérieur ne crée pas un accès permanent à l’attention de l’autre.",
+              "examples": [
+                "Loubna demande avant de raconter sa journée.",
+                "Léonie préfère un autre moment sans devoir fournir une justification clinique."
+              ]
+            },
+            {
+              "heading": "Une déception peut rester une déception",
+              "text": "Un échange différé ne décrit pas à lui seul l’état de la relation.",
+              "examples": [
+                "Loubna aurait aimé parler le soir même.",
+                "Elle accepte néanmoins de choisir un moment le lendemain."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour partager selon le besoin du moment",
+          "points": [
+            {
+              "heading": "Donner l’information utile au projet",
+              "objective": "Permettre à la responsable d’organiser son travail.",
+              "exercise": [
+                "Identifier ce que la destinataire doit pouvoir décider.",
+                "Décrire le livrable, son état et la date proposée.",
+                "Vérifier que ces informations répondent à sa question."
+              ],
+              "benefit": "La coordination peut être précise sans divulgation de santé non souhaitée."
+            },
+            {
+              "heading": "Demander une disponibilité",
+              "objective": "Respecter le rythme des échanges personnels.",
+              "exercise": [
+                "Annoncer brièvement que l’on souhaite parler de sa journée.",
+                "Demander si le moment convient et écouter la réponse.",
+                "Si chacune le souhaite, choisir un autre moment sans imposer une compensation."
+              ],
+              "benefit": "Une conversation différée peut rester une conversation choisie."
+            },
+            {
+              "heading": "Séparer les supports et les destinataires",
+              "objective": "Garder les informations de suivi dans leur contexte.",
+              "exercise": [
+                "Conserver les notes cliniques à part des documents professionnels.",
+                "Adresser les questions de santé au contact professionnel convenu.",
+                "Partager avec un proche seulement ce que l’on souhaite et ce qu’il accepte d’écouter."
+              ],
+              "benefit": "Des limites explicites peuvent réduire les transmissions accidentelles et les rôles confondus."
+            }
+          ]
+        }
+      ]
     }
   ]
 }
