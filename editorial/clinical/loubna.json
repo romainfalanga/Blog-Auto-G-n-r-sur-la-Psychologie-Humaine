@@ -1,0 +1,324 @@
+{
+  "character_id": "loubna",
+  "bio": "Loubna, 44 ans, est graphiste et conçoit le programme d’une petite salle d’exposition. Son Trouble paraphilique impliquant un comportement solitaire ou des individus consentants est déjà diagnostiqué. Elle consulte pour une souffrance importante liée au schéma lui-même, que le seul rejet social n’explique pas. Avec un suivi compétent en santé sexuelle, elle clarifie ses besoins sans faire juger ses préférences à partir d’une norme morale. Sa partenaire Léonie garde sa place et ses limites. Loubna veut livrer une identité visuelle accessible tout en préservant des échanges respectueux.",
+  "profile_topics": [
+    "Trouble paraphilique impliquant un comportement solitaire ou des individus consentants",
+    "Souffrance et préférences",
+    "Consentement et limites",
+    "Accompagnement choisi",
+    "Retentissement quotidien"
+  ],
+  "episodes": [
+    {
+      "number": 1,
+      "slug": "loubna-souffrance-preference-atypique",
+      "title": "Souffrance clinique : une préférence différente ne suffit pas",
+      "description": "Devant une maquette inachevée, Loubna veut comprendre ce que son diagnostic dit de sa souffrance, sans faire juger ses préférences.",
+      "context": "devant la première maquette",
+      "topics": [
+        "Souffrance clinique",
+        "Préférence atypique",
+        "Demande de clarification"
+      ],
+      "clinical_intro": "Une préférence sexuelle atypique ne constitue pas à elle seule un trouble. Le diagnostic repose sur une évaluation clinique qui distingue notamment la détresse liée au schéma de la seule crainte du rejet. Chez Loubna, cette souffrance est déjà reconnue et interrompt son travail. Clarifier le sens du diagnostic permet de demander une aide sans transformer la différence en faute.",
+      "opening": "Le titre est trop petit. Loubna l’a vu dès l’ouverture du fichier, et Salomé l’a signalé dans son dernier message. Il suffirait de reprendre la hiérarchie de la page pour que le programme de la petite salle d’exposition respire un peu. Pourtant, le curseur reste près du même mot. Loubna pose la main sur son carnet orange, où elle a dessiné deux dispositions possibles, puis la retire sans en choisir aucune.\n\nElle a quarante-quatre ans et connaît ce métier. Ce matin, ce ne sont pas les marges qui lui résistent. La souffrance liée au trouble pour lequel elle consulte prend toute la place. Elle n’en décrit pas le contenu à Salomé ; elle n’aurait d’ailleurs aucune raison de le faire. Mais elle doit lui répondre, et chaque minute passée devant le titre rend la promesse d’une première maquette plus fragile.\n\nUn contact avec la docteure Benali est déjà prévu dans l’après-midi. Sur une feuille distincte de ses croquis, Loubna écrit : « Est-ce que ce diagnostic signifie que toutes mes préférences sont malades ? » Elle sait que la professionnelle lui a expliqué autre chose. La question revient tout de même, surtout quand elle n’avance pas. Elle ajoute qu’elle souffre aussi lorsqu’elle ne se sent jugée par personne. Puis elle ferme momentanément le fichier : elle veut pouvoir poser sa question sans chercher en même temps une police de caractères.",
+      "ending_title": "Une maquette, pas une promesse de guérison",
+      "ending": "Dans l’après-midi, Loubna parle effectivement à Benali. La professionnelle reprend avec elle la distinction déjà établie : l’aide concerne sa détresse, et non une préférence à rendre conforme. Loubna ne retrouve pas instantanément sa concentration. Elle peut cependant répondre à Salomé : elle proposera une première maquette provisoire, avec les titres repris, avant de finir l’ensemble. Salomé accepte ce point de départ. Le fichier reste ouvert sur une page incomplète, mais la date annoncée ne dépend plus d’une promesse d’aller bien.",
+      "conclusion": "Nommer une souffrance clinique ne revient pas à condamner la différence. Loubna peut demander une clarification et organiser une étape de travail tout en continuant son suivi. La maquette provisoire ne servira pas de preuve de santé.",
+      "mirror": [
+        "Salomé peut rester sur la demande qui lui est adressée : « Montre-moi ce qui est prêt et ce qui reste à reprendre. » Elle n’a pas besoin de connaître le diagnostic pour accepter une maquette provisoire. Si Loubna confie sa souffrance à Léonie, celle-ci peut écouter si elle le souhaite, sans devoir certifier la normalité de ses préférences ni remplacer Benali."
+      ],
+      "clinical_focus": "Souffrance clinique et préférence atypique",
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "wismeijer-2013"
+      ],
+      "continuity": {
+        "choice": "Dans l’après-midi, Loubna parle effectivement à Benali. La professionnelle reprend avec elle la distinction déjà établie : l’aide concerne sa détresse, et non une préférence à rendre conforme. Loubna ne retrouve pas instantanément sa concentration. Elle peut cependant répondre à Salomé : elle proposera une première maquette provisoire, avec les titres repris, avant de finir l’ensemble. Salomé accepte ce point de départ. Le fichier reste ouvert sur une page incomplète, mais la date annoncée ne dépend plus d’une promesse d’aller bien.",
+        "next": "La maquette peut reprendre, mais la persistance des préoccupations continue à interrompre une séance de travail."
+      },
+      "diagnostic_stage": "known",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "La différence ne fait pas le diagnostic",
+          "text": "Le diagnostic de Trouble paraphilique impliquant un comportement solitaire ou des individus consentants concerne un schéma persistant, focalisé et intense d’excitation sexuelle atypique, solitaire ou entre adultes consentants, auquel s’ajoute une condition clinique particulière. Il peut reposer sur une détresse marquée liée à la nature du schéma, qui n’est pas simplement due au rejet ou à sa crainte, ou sur un risque significatif de blessure ou de mort directement et immédiatement lié au comportement. Ces fondements sont alternatifs. Chez Loubna, l’évaluation antérieure a retenu la souffrance liée au schéma ; aucun danger n’est présumé. Son orientation, sa relation avec Léonie et ses préférences ne sont pas des maladies. Le retard graphique montre ici une conséquence individuelle de sa détresse, pas un moyen de reconnaître ce diagnostic chez autrui."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment la souffrance brouille-t-elle le sens du diagnostic ?",
+          "points": [
+            {
+              "heading": "Une compétence reste disponible",
+              "text": "La détresse peut entraver une activité sans effacer les connaissances de la personne.",
+              "examples": [
+                "Loubna voit immédiatement que le titre est trop petit.",
+                "Elle ne parvient pourtant pas à choisir entre ses deux dispositions."
+              ]
+            },
+            {
+              "heading": "Une question revient",
+              "text": "Comprendre un diagnostic n’empêche pas de demander à nouveau ce qui le fonde.",
+              "examples": [
+                "Elle prépare une question pour Benali alors que le suivi existe déjà.",
+                "Elle précise que sa souffrance demeure aussi hors du regard des autres."
+              ]
+            },
+            {
+              "heading": "Deux besoins coexistent",
+              "text": "Le soin et la coordination professionnelle appellent des réponses différentes.",
+              "examples": [
+                "La question sur les préférences attend le contact clinique.",
+                "La première maquette exige une nouvelle estimation pour Salomé."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour clarifier une demande d’aide",
+          "points": [
+            {
+              "heading": "Préparer la question centrale",
+              "objective": "Rendre l’inquiétude compréhensible au professionnel.",
+              "exercise": [
+                "Écrire ce que le diagnostic semble signifier pour soi.",
+                "Ajouter ce qui reste difficile dans la vie quotidienne.",
+                "Poser la question lors du contact convenu."
+              ],
+              "benefit": "Une formulation courte peut ouvrir un échange précis ; elle ne permet pas de se diagnostiquer."
+            },
+            {
+              "heading": "Conserver le contact prévu",
+              "objective": "Donner une place effective à la demande de soin.",
+              "exercise": [
+                "Retrouver les modalités du rendez-vous déjà convenu.",
+                "Réserver ce moment dans son organisation.",
+                "Signaler au professionnel la difficulté actuelle pendant cet échange."
+              ],
+              "benefit": "Le besoin peut être entendu sans attendre que le travail soit terminé."
+            },
+            {
+              "heading": "Annoncer une étape réalisable",
+              "objective": "Rendre la collaboration professionnelle plus claire.",
+              "exercise": [
+                "Repérer la partie de maquette qui peut être montrée.",
+                "La présenter explicitement comme provisoire.",
+                "Convenir avec la destinataire d’un moment de remise."
+              ],
+              "benefit": "Cette organisation peut réduire les malentendus sur le livrable, sans traiter le trouble."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "slug": "loubna-preoccupations-attention-interrompue",
+      "title": "Préoccupations persistantes : retrouver le fil du travail",
+      "description": "La même correction reste en suspens. Loubna décrit au suivi ce que les préoccupations changent dans son travail.",
+      "context": "à la table de travail",
+      "topics": [
+        "Persistance",
+        "Attention interrompue",
+        "Tâche limitée"
+      ],
+      "clinical_intro": "La persistance d’un schéma clinique ne se confond pas avec une curiosité passagère. Elle peut s’accompagner de préoccupations qui gênent certaines activités, sans que ce retentissement soit universel. Chez Loubna, l’attention quitte plusieurs fois une correction connue. Décrire cette difficulté au professionnel est plus utile que d’en déduire seule une perte de contrôle de ses comportements.",
+      "opening": "Loubna déplace le bloc des horaires vers le bas, puis le remet à sa place. Le résultat lui paraît familier : elle vient de faire exactement la même chose. Dans son carnet orange, une flèche relie le titre au premier paragraphe. La consigne est simple, presque trop simple pour être écrite : vérifier l’espace entre les deux. Pourtant, elle ne sait plus si elle l’a déjà vérifié ou seulement décidé.\n\nDepuis le contact avec Benali, le sens du diagnostic est moins confus. La détresse n’a pas pour autant quitté la table de travail. Les préoccupations liées au schéma reviennent, sans que Loubna ait choisi de leur consacrer cette matinée. Elle regarde le programme et cherche le point où elle en était. Ce n’est pas la découverte d’une idée nouvelle qui l’interrompt ; elle retrouve une difficulté qu’elle connaît et dont elle veut rendre compte plus clairement.\n\nSalomé attend la version provisoire promise. Loubna ouvre le message préparé, puis hésite à joindre le fichier. Certaines pages sont encore si inégales qu’elle voudrait tout refaire avant de les montrer. Elle relit son propre engagement : une première maquette, pas le programme terminé. Elle ajoute alors une indication au carnet, uniquement sur le travail : « Horaires, espacement à reprendre. » Pour son prochain échange clinique, elle garde une autre feuille. Elle y note qu’elle perd le fil, puis s’arrête : elle ne veut pas transformer sa journée en inventaire de pensées.",
+      "ending_title": "Le fichier porte la mention provisoire",
+      "ending": "Loubna envoie la maquette avec une phrase sur les pages encore à reprendre. Salomé confirme qu’elle peut déjà regarder l’ordre des informations. Au contact clinique prévu, Loubna décrit les déplacements répétés du bloc et la fatigue de devoir retrouver sa tâche. Puis elle ajoute : « J’ai encore peur que le diagnostic dise surtout que je ne suis pas dans la norme. » Benali propose de reprendre cette question au prochain entretien. Le fichier a quitté la table ; la question, elle, a trouvé un rendez-vous.",
+      "conclusion": "Une difficulté à poursuivre son travail mérite d’être décrite sans être transformée en nouvelle étiquette. Loubna a envoyé ce qu’elle avait réellement promis et signalé l’interruption au suivi. La persistance des préoccupations reste à accompagner, même après cette étape utile.",
+      "mirror": [
+        "En recevant le fichier, Salomé peut préciser ce qu’elle examinera sur cette version : « Je regarde l’ordre du programme ; nous reviendrons aux détails. » Cette réponse réduit l’incertitude professionnelle sans interpréter la santé de Loubna. Léonie n’a pas à compter ses interruptions ni à vérifier qu’elle travaille : le retentissement clinique se discute avec Benali."
+      ],
+      "clinical_focus": "Persistance et attention interrompue",
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-hrb"
+      ],
+      "continuity": {
+        "choice": "Loubna envoie la maquette avec une phrase sur les pages encore à reprendre. Salomé confirme qu’elle peut déjà regarder l’ordre des informations. Au contact clinique prévu, Loubna décrit les déplacements répétés du bloc et la fatigue de devoir retrouver sa tâche. Puis elle ajoute : « J’ai encore peur que le diagnostic dise surtout que je ne suis pas dans la norme. » Benali propose de reprendre cette question au prochain entretien. Le fichier a quitté la table ; la question, elle, a trouvé un rendez-vous.",
+        "next": "L’entretien suivant distinguera la détresse liée au schéma et ce qui tient au regard extérieur, sans nier l’une ou l’autre."
+      },
+      "diagnostic_stage": "known",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Décrire le retentissement sans changer le diagnostic",
+          "text": "Un schéma persistant ne signifie ni que la personne y pense à chaque instant ni qu’elle perd nécessairement le contrôle de ses comportements. Chez Loubna, les préoccupations associées à sa souffrance interrompent le travail de mise en page. Cette gêne de concentration est un retentissement individuel, qui ne constitue pas un critère universel du trouble. Le fait de déplacer deux fois un bloc ne permettrait pas de poser un diagnostic chez une autre personne. Loubna peut rapporter ce qu’elle observe à Benali sans compter ses pensées, chercher à les supprimer ou décider qu’un autre trouble s’est ajouté."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment les interruptions changent-elles une tâche familière ?",
+          "points": [
+            {
+              "heading": "La même étape recommence",
+              "text": "L’action technique ne laisse plus de trace claire dans la mémoire de la tâche.",
+              "examples": [
+                "Loubna déplace deux fois le bloc des horaires.",
+                "Elle hésite entre une vérification faite et une vérification seulement prévue."
+              ]
+            },
+            {
+              "heading": "La promesse devient plus lourde",
+              "text": "Le retentissement peut modifier la façon d’envisager une remise.",
+              "examples": [
+                "Elle veut reprendre toutes les pages avant d’envoyer le fichier.",
+                "Elle oublie momentanément que Salomé a accepté une version provisoire."
+              ]
+            },
+            {
+              "heading": "Le constat a besoin de mots simples",
+              "text": "Un fait quotidien se transmet sans inventaire intime ni conclusion clinique personnelle.",
+              "examples": [
+                "Elle note qu’elle perd le fil de la correction.",
+                "Elle garde cette information séparée de la flèche technique du carnet orange."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour garder une trace de la tâche interrompue",
+          "points": [
+            {
+              "heading": "Laisser une indication de reprise",
+              "objective": "Retrouver le travail sans reconstruire toute la séance.",
+              "exercise": [
+                "Identifier le bloc laissé en suspens.",
+                "Écrire dans le carnet de maquettes la prochaine correction technique.",
+                "Repartir de cette indication au prochain créneau disponible."
+              ],
+              "benefit": "Une trace peut alléger la reprise ; elle ne vise pas à maîtriser le schéma clinique."
+            },
+            {
+              "heading": "Rapporter une interruption concrète",
+              "objective": "Donner au professionnel un exemple du retentissement.",
+              "exercise": [
+                "Choisir une situation représentative sans détailler le contenu intime.",
+                "Dire ce qui est resté inachevé et comment cela a pesé.",
+                "Transmettre ce constat au suivi prévu en laissant les conclusions au clinicien."
+              ],
+              "benefit": "Le dialogue peut devenir plus précis sans surveillance domestique des pensées."
+            },
+            {
+              "heading": "Limiter la prochaine tâche",
+              "objective": "Adapter le travail à ce qui reste faisable.",
+              "exercise": [
+                "Choisir une seule correction utile à la maquette provisoire.",
+                "Indiquer dans le message les parties encore incomplètes.",
+                "Envoyer la version convenue ou renégocier honnêtement son échéance."
+              ],
+              "benefit": "La destinataire peut travailler sur un document dont le statut est explicite."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "slug": "loubna-rejet-social-et-souffrance",
+      "title": "Rejet social : distinguer le jugement de la souffrance clinique",
+      "description": "Au cabinet, Loubna demande ce qui fonde son diagnostic, au-delà d’une remarque sur ce qui serait normal.",
+      "context": "au cabinet de Benali",
+      "topics": [
+        "Rejet social",
+        "Souffrance évaluée",
+        "Respect des préférences"
+      ],
+      "clinical_intro": "La désapprobation sociale peut faire souffrir sans constituer le fondement d’un trouble paraphilique. Une détresse entièrement due au rejet ou à sa crainte ne justifie pas ce diagnostic. Dans le suivi de Loubna, la souffrance liée au schéma a été évaluée séparément. Reprendre cette distinction permet d’accueillir ce qui blesse sans faire de la conformité sociale un objectif de soin.",
+      "opening": "« On entend encore des gens dire que certaines choses ne sont pas normales. » Loubna laisse la phrase au bord du bureau, comme si elle ne savait pas à qui elle appartenait. La remarque était générale, entendue au détour d’une conversation ; personne ne connaissait son suivi. Elle l’a pourtant emportée jusque chez Benali. Depuis l’envoi de la maquette provisoire, c’est cette phrase qu’elle voulait reprendre au cabinet.\n\nLa docteure lui demande ce qu’elle craint qu’on ait confondu. Loubna répond qu’elle redoute de consulter pour apprendre à être acceptable. Elle ne veut pas que sa relation avec Léonie devienne une explication, ni que ses préférences soient mises en procès. En disant cela, elle serre sa feuille de questions, celle qui ne va jamais dans le carnet orange.\n\nBenali revient avec elle sur les raisons de la consultation initiale. Loubna reconnaît la souffrance liée au schéma, présente aussi dans des moments où elle se sent respectée. Cette souffrance ne s’efface pas lorsque personne ne désapprouve ; la remarque entendue ajoute autre chose. Elle trouve difficile de tenir les deux idées ensemble. Elle voudrait parfois qu’une seule phrase explique tout, comme un titre suffisamment grand pour dispenser de lire le programme. Benali ne lui propose pas cette simplification. Elle lui laisse le temps de distinguer ce qui relève du regard extérieur et ce qui l’a conduite à chercher de l’aide.",
+      "ending_title": "Une invitation reste à proposer",
+      "ending": "Loubna ressort avec une formulation moins écrasante : elle demande de l’aide pour sa souffrance, pas une autorisation d’avoir ses préférences. Avant de partir, elle demande si Léonie pourrait venir à une partie d’entretien, uniquement pour parler de leurs échanges après les journées difficiles. Benali répond que cela peut être discuté si elles le souhaitent toutes les deux. Loubna n’inscrit pas encore le nom de Léonie au rendez-vous. Elle devra d’abord lui demander ce qu’elle accepterait de partager.",
+      "conclusion": "Distinguer rejet et détresse clinique n’enlève rien à la réalité de l’un ou de l’autre. Loubna comprend mieux la raison de son accompagnement et prépare une demande à sa partenaire. L’accord de celle-ci demeure une décision séparée.",
+      "mirror": [
+        "Si Loubna lui raconte la remarque entendue, Léonie peut répondre : « Je comprends que ces mots t’aient blessée ; tu veux que je t’écoute maintenant ? » Elle n’a pas à expliquer le diagnostic ni à prouver que toute souffrance vient des autres. Son accord pour une conversation ne vaut pas encore accord pour participer à un entretien clinique."
+      ],
+      "clinical_focus": "Le rejet social ne suffit pas",
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "wismeijer-2013"
+      ],
+      "continuity": {
+        "choice": "Loubna ressort avec une formulation moins écrasante : elle demande de l’aide pour sa souffrance, pas une autorisation d’avoir ses préférences. Avant de partir, elle demande si Léonie pourrait venir à une partie d’entretien, uniquement pour parler de leurs échanges après les journées difficiles. Benali répond que cela peut être discuté si elles le souhaitent toutes les deux. Loubna n’inscrit pas encore le nom de Léonie au rendez-vous. Elle devra d’abord lui demander ce qu’elle accepterait de partager.",
+        "next": "L’accord de Léonie reste à demander et ne pourra être présumé au nom du diagnostic."
+      },
+      "diagnostic_stage": "known",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Accueillir la souffrance sans fabriquer une norme",
+          "text": "Une détresse entièrement expliquée par le rejet social ou sa crainte ne fonde pas le diagnostic 6D36, même si elle mérite pleinement une aide. Dans l’histoire de Loubna, la souffrance liée à la nature du schéma a déjà été évaluée et ne se réduit pas à ce rejet. Il ne s’agit pas de mesurer si elle supporte assez bien les opinions des autres. Son orientation et sa relation entre femmes ne relèvent pas de ce diagnostic. Les données sur des groupes ayant des préférences non conventionnelles ne constituent ni un test individuel ni une méthode de traitement ; elles ne permettent pas d’attribuer une pratique à Loubna. Le suivi peut chercher à soulager sa détresse sans prescrire une conformité morale."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment deux sources de souffrance peuvent-elles se mêler ?",
+          "points": [
+            {
+              "heading": "Une remarque pèse sans viser personnellement",
+              "text": "Une parole générale peut être douloureuse, même lorsque son auteur ignore la situation.",
+              "examples": [
+                "Loubna repense à une phrase entendue hors du cabinet.",
+                "Elle craint que cette phrase résume aussi le regard du soin."
+              ]
+            },
+            {
+              "heading": "Le vécu dépasse le jugement",
+              "text": "La distinction se construit à partir de l’histoire clinique, pas d’une déclaration de tolérance.",
+              "examples": [
+                "Loubna décrit une souffrance présente dans un cadre respectueux.",
+                "Benali reprend avec elle les raisons antérieures de sa consultation."
+              ]
+            },
+            {
+              "heading": "L’objectif du suivi devient une question",
+              "text": "Demander pourquoi on consulte n’est pas refuser l’aide.",
+              "examples": [
+                "Loubna dit qu’elle ne veut pas apprendre à être acceptable.",
+                "Elle demande que sa relation avec Léonie reste distincte du trouble."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour clarifier ce qui motive le suivi",
+          "points": [
+            {
+              "heading": "Nommer les sources de souffrance",
+              "objective": "Ouvrir la discussion sans devoir trancher seule.",
+              "exercise": [
+                "Décrire au professionnel la remarque qui a blessé.",
+                "Dire aussi ce qui persiste dans les moments respectueux.",
+                "Demander comment ces éléments sont distingués dans l’évaluation."
+              ],
+              "benefit": "L’échange peut éviter de confondre stigmatisation et fondement clinique."
+            },
+            {
+              "heading": "Demander le raisonnement clinique",
+              "objective": "Comprendre ce que recouvre son diagnostic personnel.",
+              "exercise": [
+                "Formuler ce que l’on craint qu’il signifie.",
+                "Demander sur quels éléments le professionnel s’est appuyé.",
+                "Reformuler la réponse et signaler ce qui reste obscur."
+              ],
+              "benefit": "La compréhension peut progresser sans grille d’autodiagnostic."
+            },
+            {
+              "heading": "Préciser un objectif acceptable",
+              "objective": "Garder une place active dans l’accompagnement.",
+              "exercise": [
+                "Nommer la souffrance pour laquelle une aide est souhaitée.",
+                "Dire ce que l’on ne souhaite pas voir transformé en norme morale.",
+                "Convenir avec le professionnel d’une question à reprendre au prochain entretien."
+              ],
+              "benefit": "Le suivi peut s’organiser autour de besoins explicités, sans garantie de résultat."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

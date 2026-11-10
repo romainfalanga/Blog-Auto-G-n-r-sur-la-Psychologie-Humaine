@@ -1,0 +1,528 @@
+{
+  "character_id": "sylvain",
+  "bio": "Sylvain, 36 ans, est agent de contrôle qualité dans un atelier d’emballage et suit une formation en photographie de nature. Son frotteurisme est déjà diagnostiqué ; des préoccupations persistantes et une détresse peuvent interrompre ses tâches. Il prépare un carnet de six images pour la promenade d’un groupe adulte. Avec une équipe spécialisée et un soutien choisi, il met en œuvre des décisions de prévention sans rendre son entourage garant de son comportement. Le projet photographique conserve sa place, avec des limites révisables et un suivi qui continue.",
+  "profile_topics": [
+    "Frotteurisme",
+    "Préoccupations et détresse",
+    "Consentement et responsabilité",
+    "Prévention individualisée",
+    "Participation adaptée"
+  ],
+  "episodes": [
+    {
+      "number": 1,
+      "slug": "sylvain-preoccupations-tache-familiere",
+      "title": "Des préoccupations persistent malgré une tâche familière",
+      "description": "La légende du hêtre reste ouverte. Sylvain constate que travailler davantage ne suffit pas à faire taire ses préoccupations.",
+      "context": "chez lui devant les photographies",
+      "topics": [
+        "Frotteurisme",
+        "Préoccupations persistantes",
+        "Retentissement"
+      ],
+      "clinical_intro": "Un schéma clinique durable ne se réduit pas à une pensée passagère. Dans le frotteurisme déjà diagnostiqué de Sylvain, des préoccupations persistent alors qu’il essaie de travailler à son carnet. Leur retentissement mérite d’être transmis au suivi ; la réussite d’une tâche ne permet pas, à elle seule, de conclure sur son état de santé.",
+      "opening": "La feuille de hêtre occupe presque toute l’image. Sylvain aime la lumière terne qui laisse voir les nervures sans leur donner un air de révélation. Il a écrit « Après la pluie » sur le dossier vert. Six photographies de végétaux déjà prises doivent former un carnet pour la promenade du groupe adulte de sa formation. Aucune personne ne figure sur les images. Il lui reste à choisir les autres et à rédiger les légendes.\n\nLa première phrase s’arrête après trois mots. Des préoccupations liées au trouble pour lequel il est suivi reviennent, sans rapport avec la feuille devant lui. Il les connaît ; leur contenu reste personnel. Il essaie de reprendre la légende et relit encore le même début. Une heure plus tôt, il pensait qu’une soirée occupée lui éviterait toute difficulté. Maintenant, il envisage d’allonger la séance, comme si travailler jusqu’à finir devait suffire.\n\nSon agenda est posé près du dossier. Le rendez-vous avec la docteure Perrin y figure déjà. Sylvain prend une autre feuille, destinée au suivi, et note que les préoccupations ont interrompu cette tâche familière. Il ne les compte pas pour se donner une note. Il veut pouvoir décrire ce qui s’est passé.\n\nPuis il revient au hêtre. « Six images, pas une forêt entière », dit-il à voix basse. Ce soir, une légende sera assez. Il peut réduire la tâche sans prétendre que la réduire règle son trouble.",
+      "clinical_focus": "Un schéma persiste malgré la tâche",
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-hrb"
+      ],
+      "diagnostic_stage": "known",
+      "continuity": {
+        "choice": "Sylvain note le retentissement à part, termine une légende et annonce six images à Maud sans confirmer sa présence.",
+        "next": "La détresse qui persiste malgré cette petite avancée sera abordée au rendez-vous."
+      },
+      "ending_title": "Une légende, puis le dossier fermé",
+      "ending": "Sylvain termine seulement la légende du hêtre. Il écrit à Maud qu’il prépare six images, sans confirmer sa présence à la promenade. La note destinée au suivi reste à part. Le dossier vert se referme sur une petite avancée réelle ; les préoccupations ne se sont pas effacées avec le dernier mot.",
+      "conclusion": "Une tâche achevée et une difficulté persistante peuvent coexister. Sylvain garde son projet photographique, mais cesse de lui demander de remplacer le suivi ou de servir de preuve sur sa santé.",
+      "mirror": [
+        "Maud peut répondre à son message : « D’accord pour les six images ; nous préciserons ensuite les légendes et la participation. » Elle n’a pas à interpréter son rythme de travail. Si Sylvain parle de l’interruption à Karim, son ami peut lui demander s’il souhaite la transmettre au rendez-vous, sans réclamer le contenu des préoccupations. Son écoute demeure choisie et limitée."
+      ],
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Une persistance déjà évaluée",
+          "text": "Le frotteurisme désigne un schéma durable, ciblé et intense d’excitation sexuelle impliquant le fait de toucher une personne non consentante ou de se frotter contre elle. Cette définition clinique ne décrit aucune scène de ce récit. Le diagnostic exige une évaluation ; une pensée isolée, une crainte ou une préférence consensuelle ne suffisent pas. Chez Sylvain, le diagnostic précède le carnet. Ses préoccupations interrompent une activité appréciée, mais son goût de la précision et ses photographies ne sont pas des signes du trouble."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment la persistance devient-elle visible dans une tâche ?",
+          "points": [
+            {
+              "heading": "La phrase reste ouverte",
+              "text": "La difficulté prend du temps même quand la tâche est connue.",
+              "examples": [
+                "Sylvain relit les trois premiers mots de sa légende.",
+                "La feuille de hêtre reste affichée sans que le texte avance."
+              ]
+            },
+            {
+              "heading": "L’activité reçoit une attente excessive",
+              "text": "S’occuper ne permet pas de promettre la disparition d’un schéma clinique.",
+              "examples": [
+                "Il comptait sur une soirée de travail pour ne plus être préoccupé.",
+                "Il pense prolonger la séance pour obtenir ce résultat."
+              ]
+            },
+            {
+              "heading": "Le retentissement peut être décrit",
+              "text": "Une observation concrète aide à transmettre une difficulté sans se diagnostiquer de nouveau.",
+              "examples": [
+                "Il note l’interruption de son travail sur une feuille personnelle.",
+                "Il garde cette note séparée du dossier destiné à Maud."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour préparer le suivi pendant une tâche difficile",
+          "points": [
+            {
+              "heading": "Noter le retentissement",
+              "objective": "Garder une information utile au rendez-vous.",
+              "exercise": [
+                "Décrire la tâche interrompue.",
+                "Préciser ce qui a changé dans son déroulement.",
+                "Réserver cette observation à l’équipe qui suit la situation."
+              ],
+              "benefit": "Un exemple concret peut faciliter l’entretien sans devenir un test clinique."
+            },
+            {
+              "heading": "Limiter la tâche du moment",
+              "objective": "Choisir un objectif réellement accessible.",
+              "exercise": [
+                "Identifier la partie qui peut être traitée aujourd’hui.",
+                "Laisser explicitement le reste pour plus tard.",
+                "Informer la personne concernée si le délai doit changer."
+              ],
+              "benefit": "Une tâche limitée évite une promesse irréaliste ; elle ne soigne pas à elle seule le trouble."
+            },
+            {
+              "heading": "Conserver le rendez-vous",
+              "objective": "Ne pas faire dépendre le soin du résultat du travail.",
+              "exercise": [
+                "Vérifier le prochain contact prévu.",
+                "Préparer la question que soulève cette interruption.",
+                "Maintenir l’échange même si la tâche finit par avancer."
+              ],
+              "benefit": "La consultation pourra accueillir l’évolution sans attendre une réussite ou un échec supplémentaire."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "slug": "sylvain-detresse-demande-soin",
+      "title": "La détresse mérite une demande de soin",
+      "description": "Sylvain raconte d’abord sa légende terminée. Au rendez-vous, il trouve ensuite les mots pour dire ce qui lui pèse encore.",
+      "context": "au rendez-vous avec la docteure Perrin",
+      "topics": [
+        "Frotteurisme",
+        "Détresse",
+        "Demande de soin"
+      ],
+      "clinical_intro": "La détresse liée à un trouble mérite d’être entendue même quand la personne continue à accomplir certaines tâches. Elle ne permet pas de présumer un acte. Sylvain a terminé une légende, mais cette réussite ne décrit pas ce qu’il éprouve ; le rendez-vous lui permet de parler de sa souffrance et de ses besoins actuels.",
+      "opening": "Le dossier vert reste posé sur les genoux de Sylvain. Il l’a apporté par habitude, puis se demande pourquoi. La docteure Perrin n’a pas besoin de voir une feuille de hêtre pour comprendre comment il va. Pourtant, lorsqu’elle lui demande des nouvelles, il commence par la légende terminée. Il explique qu’il a choisi un titre sobre et qu’il prépare six images pour la formation.\n\nLa médecin l’écoute, puis revient à la raison du rendez-vous. Sylvain cherche sa note personnelle dans une poche différente. Il avait écrit que les préoccupations interrompaient le travail. Sur le papier, la phrase semble nette. À voix haute, il ajoute seulement que ce n’est « pas très pratique ». Il entend lui-même combien ces mots sont petits par rapport au poids qu’il ressent.\n\nIl pourrait continuer à décrire ce qu’il réussit malgré tout. À l’atelier, il sait présenter des résultats ; ici, ce réflexe risque de laisser sa souffrance hors de l’entretien. Il serre un instant le bord du dossier, puis le pose sur la chaise libre. « La légende est faite. Mais les préoccupations me pèsent encore, et je ne voudrais pas que vous pensiez que tout va mieux parce que j’ai travaillé. »\n\nL’entretien reprend à partir de cette phrase. Sylvain distingue ce qui l’occupe, ce qu’il éprouve et ce qui s’est réellement passé. Les détails appartiennent au cadre clinique. Il n’a ni à montrer ses images ni à raconter sa santé au groupe pour que sa demande soit entendue.",
+      "clinical_focus": "La détresse mérite une demande de soin",
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-hrb"
+      ],
+      "diagnostic_stage": "known",
+      "continuity": {
+        "choice": "Sylvain décrit sa détresse à l’équipe, vérifie les contacts et conserve le suivi sans ouvrir le dossier pédagogique.",
+        "next": "La prochaine réunion pédagogique mettra en jeu la portée précise des accords du groupe."
+      },
+      "ending_title": "Le dossier vert reste fermé",
+      "ending": "Sylvain décrit le retentissement à l’équipe et conserve le suivi. Il vérifie les modalités de contact avant de partir. Le dossier vert n’a pas été ouvert ; il pourra reprendre les images chez lui. Ce rendez-vous n’a pas effacé la détresse, mais elle n’est plus réduite au retard d’une légende.",
+      "conclusion": "Demander du soin ne nécessite pas d’abandonner toutes ses compétences. Sylvain peut reconnaître son travail et sa souffrance en même temps, sans faire de l’un une preuve contre l’autre ni du diagnostic une histoire d’actes présumés.",
+      "mirror": [
+        "Si Karim demande comment le rendez-vous s’est passé, Sylvain peut choisir ce qu’il souhaite partager. Son ami peut répondre : « Tu as pu dire ce qui te pesait ? » sans demander une restitution complète. La souffrance n’oblige pas Karim à tout porter, et une légende réussie ne l’autorise pas à conclure que Sylvain n’a plus besoin de l’équipe."
+      ],
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Dire la souffrance sans en déduire un acte",
+          "text": "Une détresse marquée peut faire partie du trouble frotteuriste, sans que le diagnostic permette à lui seul de déduire un acte antérieur. La classification distingue l’existence du schéma, sa mise en acte éventuelle et la détresse qu’il peut entraîner. Dans cette histoire, aucun acte n’est documenté ou ajouté. Sylvain décrit ce qui lui pèse aujourd’hui à une équipe qui connaît sa situation ; son aisance à produire une légende ne mesure pas l’intensité de sa souffrance."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment la détresse reste-t-elle cachée derrière une réussite ?",
+          "points": [
+            {
+              "heading": "Le résultat occupe le début de l’entretien",
+              "text": "Parler d’une compétence peut sembler plus facile que parler de ce qui fait souffrir.",
+              "examples": [
+                "Sylvain détaille le titre du carnet avant son état actuel.",
+                "Il présente la légende achevée comme principale nouvelle."
+              ]
+            },
+            {
+              "heading": "Les mots minimisent le vécu",
+              "text": "Une formule pratique peut ne transmettre qu’une partie de la difficulté.",
+              "examples": [
+                "Il dit que les interruptions ne sont pas très pratiques.",
+                "Il hésite avant de dire combien les préoccupations lui pèsent."
+              ]
+            },
+            {
+              "heading": "La demande devient explicite",
+              "text": "La personne peut préciser ce qu’elle souhaite faire entendre.",
+              "examples": [
+                "Il distingue le travail terminé de sa souffrance persistante.",
+                "Il reprend sa note personnelle avec la médecin."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour parler de sa détresse au suivi",
+          "points": [
+            {
+              "heading": "Dire ce qui pèse actuellement",
+              "objective": "Faire entendre autre chose que le bilan des tâches.",
+              "exercise": [
+                "Repérer la phrase qui minimise le vécu.",
+                "La remplacer par des mots plus fidèles à la souffrance actuelle.",
+                "Dire à l’équipe ce que l’on voudrait aborder pendant l’entretien."
+              ],
+              "benefit": "La demande peut devenir plus compréhensible sans exiger un récit public ou graphique."
+            },
+            {
+              "heading": "Séparer les éléments rapportés",
+              "objective": "Éviter de confondre une préoccupation, une émotion et un fait.",
+              "exercise": [
+                "Décrire sobrement ce qui occupe l’esprit.",
+                "Nommer séparément ce que cela fait éprouver.",
+                "Préciser au clinicien les faits et les incertitudes sans les compléter par des suppositions."
+              ],
+              "benefit": "L’équipe peut poser ses questions sans tirer de conclusion d’un mot ambigu."
+            },
+            {
+              "heading": "Vérifier les contacts",
+              "objective": "Garder un accès concret au suivi.",
+              "exercise": [
+                "Confirmer le prochain échange.",
+                "Demander quel contact utiliser si la difficulté change avant cette date.",
+                "Noter les modalités dans les documents personnels de soin."
+              ],
+              "benefit": "Le besoin d’aide ne dépend pas de la prochaine réunion de photographie."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "slug": "sylvain-consentement-portee-accord",
+      "title": "Un accord garde une portée précise",
+      "description": "Pendant la réunion à distance, Sylvain comprend que son inscription ne règle pas toutes les conditions de sa participation.",
+      "context": "lors de la réunion pédagogique à distance",
+      "topics": [
+        "Frotteurisme",
+        "Consentement",
+        "Limites des accords"
+      ],
+      "clinical_intro": "Le consentement concerne un objet précis et ne se déduit pas d’une inscription ou d’une relation de confiance. Le frotteurisme se distingue des contacts consentis. La réunion de Sylvain porte sur des accords professionnels et pédagogiques : elle permet de clarifier une organisation, sans représenter une scène sexuelle ni démontrer un critère diagnostique.",
+      "opening": "Maud partage un document pendant la réunion à distance. Les participants sont tous adultes ; chacun présente les images qu’il souhaite proposer au groupe. Sylvain garde le dossier vert près du clavier. Il attend son tour et entend Maud préciser que la remise des documents, les échanges pédagogiques et la présence à la promenade feront l’objet de décisions distinctes.\n\nIl avait espéré que son inscription simplifierait tout. Depuis le rendez-vous, il cherche un cadre où les choses seraient réglées une fois pour toutes. Être inscrit, contribuer et participer lui paraissaient presque une seule décision. Les précisions de Maud lui font sentir que plusieurs questions restent ouvertes. Il regarde le bouton du microphone, prêt à demander si l’inscription ne signifie pas déjà que sa place est acquise.\n\nIl s’arrête avant de formuler sa question ainsi. Maud ne connaît pas le contenu de son suivi et ne peut pas répondre à la question clinique qu’il glisse dans une question de groupe. Il demande plutôt quel délai est prévu pour les six légendes. Maud lui donne une date et rappelle que chacun peut poser ses limites concernant les tâches et les échanges. Elle ne demande à personne d’en expliquer publiquement les raisons personnelles.\n\nSylvain note la date sous le titre du carnet. Il sent encore sa déception de devoir distinguer plusieurs décisions. Mais il peut confirmer un travail précis sans demander à l’ensemble du groupe d’approuver sa situation, de recevoir ses confidences ou de répondre aux questions destinées à l’équipe.",
+      "clinical_focus": "Le consentement garde une portée précise",
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-hrb"
+      ],
+      "diagnostic_stage": "known",
+      "continuity": {
+        "choice": "Sylvain confirme seulement les six légendes, accepte le cadre fixé par Maud et réserve les questions cliniques au suivi.",
+        "next": "Il voudra ensuite comprendre pourquoi respecter ces limites ne suffit pas à faire disparaître les préoccupations."
+      },
+      "ending_title": "Six légendes à préparer",
+      "ending": "Sylvain confirme à Maud qu’il prépare les six légendes. Il accepte qu’elle conserve l’organisation de la promenade et ne demande aucune confidence aux autres. Après la réunion, il sépare ses questions de soin des notes sur les images. Son inscription demeure réelle ; elle ne transforme pas les décisions encore ouvertes en autorisations déjà reçues.",
+      "conclusion": "Un accord précis peut soutenir une activité sans tout régler. Sylvain apprend à demander ce qui relève de la formation et à conserver ailleurs les questions cliniques, en respectant les limites de chacun et les domaines distincts du consentement.",
+      "mirror": [
+        "Maud peut dire : « Je peux confirmer la remise des légendes ; la présence se précisera séparément. » Elle n’a pas à recevoir des détails de santé pour maintenir ce cadre. Les membres du groupe peuvent participer aux échanges sur les images sans devenir des confidentes ou confidents. Une limite exprimée reste valable même si Sylvain est déçu ; personne ne lui doit une justification intime."
+      ],
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Distinguer les formes de consentement",
+          "text": "Les contacts consentis sont exclus de la définition du trouble frotteuriste. Un accord à une formation ou à une activité collective ne constitue jamais un consentement sexuel. La réunion à distance traite d’un autre domaine : les documents, les tâches et les possibilités de participation. Ces accords ordinaires ne sont pas des critères diagnostiques. Chez Sylvain, la clarification permet de ne pas utiliser l’inscription comme une réponse globale à des questions qui relèvent d’interlocuteurs et de décisions différents."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment un accord risque-t-il de recevoir une portée trop large ?",
+          "points": [
+            {
+              "heading": "Plusieurs décisions se confondent",
+              "text": "Un engagement précis peut être interprété comme une validation de toute une situation.",
+              "examples": [
+                "Sylvain associe inscription, contribution et présence.",
+                "Il espère que son statut dans la formation ferme les autres questions."
+              ]
+            },
+            {
+              "heading": "L’interlocutrice ne possède pas le même rôle",
+              "text": "Une organisatrice répond au cadre pédagogique, pas à l’état clinique.",
+              "examples": [
+                "Maud fixe le délai des légendes.",
+                "Elle ne connaît pas les éléments discutés au suivi."
+              ]
+            },
+            {
+              "heading": "La question peut retrouver son objet",
+              "text": "Préciser ce que l’on demande rend la réponse utile et limitée.",
+              "examples": [
+                "Sylvain demande la date de remise.",
+                "Il confirme les six légendes sans annoncer sa présence."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour préciser ce qui est réellement convenu",
+          "points": [
+            {
+              "heading": "Identifier l’objet de l’accord",
+              "objective": "Éviter de donner à un oui une portée générale.",
+              "exercise": [
+                "Nommer la tâche ou l’échange concerné.",
+                "Vérifier ce que la personne a effectivement accepté.",
+                "Laisser les autres décisions ouvertes tant qu’elles ne sont pas discutées."
+              ],
+              "benefit": "Les attentes peuvent rester fidèles à la réponse obtenue, sans permission supposée."
+            },
+            {
+              "heading": "Poser une question sans pression",
+              "objective": "Permettre à l’autre de répondre dans son rôle.",
+              "exercise": [
+                "Formuler une demande pratique précise.",
+                "Écouter la réponse sans invoquer une dette ou une proximité.",
+                "Accepter la limite ou demander une autre possibilité réellement disponible."
+              ],
+              "benefit": "La discussion peut clarifier l’organisation sans obliger le groupe à valider la personne."
+            },
+            {
+              "heading": "Garder les questions cliniques à leur place",
+              "objective": "Préserver un cadre adapté pour l’évaluation.",
+              "exercise": [
+                "Repérer la question qui concerne la santé ou la prévention.",
+                "La garder dans les notes de suivi.",
+                "La poser à l’équipe plutôt que de solliciter une assurance des participants."
+              ],
+              "benefit": "Le groupe conserve sa fonction pédagogique et les soins restent individualisés."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "slug": "sylvain-decision-tenue-trouble-persistant",
+      "title": "Une décision tenue ne supprime pas le trouble",
+      "description": "Sylvain a respecté les limites convenues, mais les préoccupations demeurent. Il demande au suivi ce que ses décisions permettent de conclure.",
+      "context": "au suivi après la réunion",
+      "topics": [
+        "Frotteurisme",
+        "Contrôle comportemental",
+        "Persistance du schéma"
+      ],
+      "clinical_intro": "Le contrôle de certaines réponses et l’état d’un trouble ne sont pas des mesures équivalentes. Une personne peut respecter des décisions sans que toutes ses difficultés disparaissent. Sylvain en parle au suivi après la réunion : reconnaître ce qu’il a tenu reste possible, tandis que la persistance des préoccupations demande sa propre appréciation clinique.",
+      "opening": "Sylvain pose deux nouvelles feuilles devant lui : sa note de suivi et la réponse de Maud sur les légendes. Il explique à la docteure Perrin qu’il n’a pas insisté pendant la réunion. Il a laissé la participation ouverte, respecté les limites annoncées et réservé ses questions de santé à l’équipe. Il voudrait que ce compte rendu se termine par une conclusion simple.\n\n« J’ai fait ce qu’on avait convenu. Alors pourquoi est-ce encore difficile ? » La question sort avec plus d’agacement qu’il ne l’avait prévu. Il ne reproche pas à Maud son cadre. Ce qui le déconcerte, c’est l’écart entre ses décisions et ce qui continue à l’occuper. Il s’attendait à sentir une différence plus nette, presque une récompense intérieure pour avoir tenu ses engagements.\n\nLa médecin reprend avec lui ce qu’il rapporte. Les décisions ont leur valeur et leurs conséquences. Elles ne décrivent pas, à elles seules, toute son évolution. Sylvain écoute, puis demande qu’elle reformule cette distinction. Il peut respecter une limite et avoir encore besoin d’aide ; la présence de difficultés n’annule pas ce qu’il a fait.\n\nChez lui, il avait commencé à écrire un commentaire sur son état au verso d’une légende. Il le sort, puis le remet avec ses notes personnelles. Le carnet n’a pas à recevoir un verdict après chaque page. Deux légendes sont maintenant prêtes. Il peut les compter sans transformer ce nombre en preuve que son trouble devrait avoir disparu.",
+      "clinical_focus": "Une décision tenue ne supprime pas le trouble",
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-hrb"
+      ],
+      "diagnostic_stage": "known",
+      "continuity": {
+        "choice": "Sylvain maintient les engagements et le prochain contact ; les deux légendes restent séparées des notes de santé.",
+        "next": "À l’atelier, le retard d’une tâche devra être traité concrètement plutôt que comme un verdict clinique."
+      },
+      "ending_title": "Deux légendes, pas un bilan de santé",
+      "ending": "Sylvain garde ses engagements et confirme le prochain contact. Les deux légendes prêtes rejoignent le dossier vert ; son commentaire personnel reste dans les notes de soin. La distinction ne le soulage pas immédiatement de toutes ses attentes. Elle lui permet néanmoins de poursuivre le carnet sans lui demander de décider si les soins ont encore un sens.",
+      "conclusion": "Une décision respectée compte sans effacer le trouble. Sylvain conserve ce qu’il a mis en place et parle de ce qui demeure difficile, tandis que le carnet retrouve sa fonction de travail photographique.",
+      "mirror": [
+        "Karim peut reconnaître une décision précise : « Tu as respecté ce que Maud avait demandé. » Il n’a pas à en conclure que tout est réglé, ni à nier cet effort parce que Sylvain reste en difficulté. Si la conversation devient une demande répétée de certification, il peut proposer de réserver cette question à l’équipe et limiter son écoute sans organiser un test lui-même."
+      ],
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Le contrôle et le schéma ne se confondent pas",
+          "text": "Un certain contrôle comportemental peut coexister avec le schéma d’excitation du trouble frotteuriste. Il ne suffit pas à exclure ce diagnostic ni à ajouter automatiquement un trouble du comportement sexuel compulsif, qui relève d’une évaluation distincte. Dans la scène, les décisions ordinaires de Sylvain sont des faits utiles à décrire, pas un test de contrôle du trouble. Leur portée est discutée avec la médecin, sans mise à l’épreuve ni utilisation d’autrui pour vérifier un progrès."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment une décision tenue devient-elle une attente de disparition ?",
+          "points": [
+            {
+              "heading": "Le choix est réel",
+              "text": "Un engagement respecté peut être reconnu pour ce qu’il change concrètement.",
+              "examples": [
+                "Sylvain n’a pas insisté auprès de Maud.",
+                "Il a laissé sa participation ouverte comme prévu."
+              ]
+            },
+            {
+              "heading": "L’attente dépasse le résultat",
+              "text": "Le personnage espère que son état intérieur suivra automatiquement sa décision.",
+              "examples": [
+                "Il s’étonne de rester préoccupé après la réunion.",
+                "Il attend une récompense intérieure à ses efforts."
+              ]
+            },
+            {
+              "heading": "Les repères peuvent être séparés",
+              "text": "Un bilan clinique ne se réduit pas à l’avancement d’un projet.",
+              "examples": [
+                "Il retire une note de santé du verso de la légende.",
+                "Deux légendes prêtes restent une information sur le carnet."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour distinguer une décision de sa portée clinique",
+          "points": [
+            {
+              "heading": "Décrire séparément les éléments",
+              "objective": "Ne pas résumer toute la semaine par réussite ou échec.",
+              "exercise": [
+                "Nommer la décision réellement tenue.",
+                "Décrire ce qui reste difficile malgré elle.",
+                "Présenter les deux éléments au suivi."
+              ],
+              "benefit": "L’entretien peut reconnaître un effort sans effacer la difficulté persistante."
+            },
+            {
+              "heading": "Demander une reformulation",
+              "objective": "Comprendre ce qu’un fait permet de conclure.",
+              "exercise": [
+                "Dire la conclusion que l’on espérait.",
+                "Demander au clinicien ce qui la limite.",
+                "Reprendre la distinction avec ses propres mots."
+              ],
+              "benefit": "Une information comprise évite de traiter un résultat pratique comme une mesure complète de santé."
+            },
+            {
+              "heading": "Maintenir les engagements sans test",
+              "objective": "Poursuivre les décisions convenues sans se mettre à l’épreuve.",
+              "exercise": [
+                "Conserver les limites déjà discutées.",
+                "Ne pas organiser de situation destinée à prouver son contrôle.",
+                "Revoir les besoins avec l’équipe au contact prévu."
+              ],
+              "benefit": "Le suivi ne dépend pas d’une démonstration de résistance impliquant d’autres personnes."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "slug": "sylvain-retentissement-professionnel-ajustement",
+      "title": "Le retentissement au travail demande un ajustement",
+      "description": "Le tableau de contrôle n’est pas terminé. Sylvain le dit à sa responsable et convient d’une remise réaliste sans supprimer les vérifications.",
+      "context": "à l’atelier d’emballage",
+      "topics": [
+        "Frotteurisme",
+        "Retentissement professionnel",
+        "Organisation du travail"
+      ],
+      "clinical_intro": "Un trouble peut avoir des conséquences au travail sans que ce retentissement soit universel ou nécessaire au diagnostic. Pour Sylvain, les préoccupations ont ralenti un tableau de contrôle. Reconnaître ce qui reste inachevé permet d’organiser la tâche avec sa responsable et de transmettre séparément à l’équipe de soins ce qui a changé dans son fonctionnement.",
+      "opening": "Le tableau de contrôle devait être transmis en fin de matinée. Sylvain regarde les lignes encore incomplètes avant d’ouvrir le message de sa responsable. Il est agent de contrôle qualité dans l’atelier depuis assez longtemps pour savoir qu’un document presque terminé ne peut pas être présenté comme complet. Les préoccupations liées au trouble ont ralenti sa rédaction ; il a plusieurs fois perdu le fil en passant d’une information à l’autre.\n\nIl commence à répondre « cela arrive », puis efface. Cette phrase laisserait croire que la remise est imminente. Elle ne dirait rien des parties qui doivent encore être reprises. Il connaît la différence entre rassurer quelqu’un et lui fournir une information fiable. Aujourd’hui, cette différence lui coûte parce qu’il voudrait ne pas ajouter une difficulté à la journée.\n\nQuand sa responsable vient le voir, il montre ce qui reste à faire. Elle lui demande quelle partie peut être remise d’abord et ce qui nécessite encore du temps. Elle ne lui demande pas un diagnostic. Les vérifications requises restent au programme ; une répartition du travail ne les rend pas facultatives. Sylvain propose une remise en deux temps, avec les éléments inachevés clairement identifiés.\n\nSur son agenda personnel, la mise en page du carnet occupe aussi la soirée. Elle est facultative à ce stade. Il comprend qu’il ne peut pas conserver chaque échéance en promettant simplement d’aller plus vite. Il peut négocier cette tâche avec Maud et garder pour le suivi l’observation sur les préoccupations qui ont ralenti le tableau.",
+      "clinical_focus": "Le retentissement professionnel demande un ajustement",
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-hrb"
+      ],
+      "diagnostic_stage": "known",
+      "continuity": {
+        "choice": "La remise du tableau est répartie avec contrôles maintenus ; Maud accepte le report de la mise en page facultative.",
+        "next": "L’agenda allégé ne suffira pas à dire au cabinet ce qu’il hésite encore à transmettre."
+      },
+      "ending_title": "Une remise répartie",
+      "ending": "La responsable accepte la remise répartie du tableau et maintient les vérifications requises. Sylvain note les étapes convenues. Il demande ensuite à Maud de reporter la mise en page facultative du carnet ; elle accepte et garde la préparation des légendes comme priorité. L’agenda est moins rempli, mais il reste à parler au cabinet de ce que cette journée lui a coûté.",
+      "conclusion": "Ajuster une tâche signifie rendre le travail réalisable et explicite, sans tirer un verdict clinique du retard. Sylvain obtient une organisation acceptée, conserve les exigences professionnelles et garde le retentissement comme information pour son suivi.",
+      "mirror": [
+        "Sa responsable peut dire : « Indiquons ce qui sera remis d’abord et ce qui restera à vérifier. » Elle traite ainsi la demande visible sans solliciter un dossier médical. Maud peut accepter ou refuser le report d’une tâche facultative selon l’organisation de la formation. Ni l’une ni l’autre ne devient garante de sa santé parce qu’elle consent à un ajustement précis."
+      ],
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Un retentissement concret, sans verdict global",
+          "text": "Le fonctionnement professionnel peut être affecté par un trouble paraphilique, mais une difficulté au travail n’est ni nécessaire ni suffisante pour établir le diagnostic. La scène décrit le retentissement individuel des préoccupations de Sylvain. Le tableau incomplet demande une réponse de travail ; la cause et les besoins cliniques restent discutés au suivi. Répartir une remise ne constitue pas un traitement et n’autorise ni validation fictive ni suppression des contrôles requis par son activité."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment le retard devient-il une information utile ?",
+          "points": [
+            {
+              "heading": "La tâche n’est pas terminée",
+              "text": "Un retard concret doit être distingué de la valeur de la personne.",
+              "examples": [
+                "Des lignes du tableau restent à compléter.",
+                "Sylvain renonce à annoncer une remise imminente qui ne serait pas fiable."
+              ]
+            },
+            {
+              "heading": "La réponse concerne le travail réel",
+              "text": "L’organisation peut être discutée sans divulgation médicale automatique.",
+              "examples": [
+                "La responsable demande quelle partie sera prête en premier.",
+                "Sylvain montre les éléments qui nécessitent encore du temps."
+              ]
+            },
+            {
+              "heading": "Les priorités doivent être révisées",
+              "text": "Garder toutes les tâches au même moment peut rendre les nouvelles promesses intenables.",
+              "examples": [
+                "Le tableau reste prioritaire à l’atelier.",
+                "La mise en page facultative du carnet peut être reportée avec Maud."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour ajuster une tâche devenue difficile",
+          "points": [
+            {
+              "heading": "Annoncer ce qui reste à faire",
+              "objective": "Fournir une information de travail fiable.",
+              "exercise": [
+                "Distinguer les parties terminées des parties inachevées.",
+                "Signaler les vérifications encore nécessaires.",
+                "Dire explicitement ce qui ne peut pas être remis comme complet."
+              ],
+              "benefit": "La responsable peut décider à partir du travail réel, sans deviner un diagnostic."
+            },
+            {
+              "heading": "Convenir d’une priorité et d’une remise",
+              "objective": "Transformer une estimation en accord explicite.",
+              "exercise": [
+                "Demander quelle partie est prioritaire.",
+                "Proposer un délai réaliste pour chaque étape.",
+                "Confirmer la répartition acceptée sans retirer les exigences de contrôle."
+              ],
+              "benefit": "Un accord concret peut réduire les malentendus et préserver la fiabilité de la tâche."
+            },
+            {
+              "heading": "Transmettre le retentissement au suivi",
+              "objective": "Ne pas laisser l’ajustement pratique remplacer la démarche clinique.",
+              "exercise": [
+                "Garder un exemple de l’interruption ou du ralentissement.",
+                "Le présenter à l’équipe avec les autres changements utiles.",
+                "Discuter des besoins de suivi indépendamment du délai obtenu."
+              ],
+              "benefit": "Le soin reçoit une information de fonctionnement, sans faire du travail un test de guérison."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "revision": 683,
+  "revision": 701,
   "created_at": "2026-11-07T14:47:42Z",
   "cases": {
     "mathis": {
@@ -5176,18 +5176,34 @@
     "serge": {
       "character_id": "serge",
       "code": "6D50",
-      "stage": "character",
+      "stage": "story",
       "created_at": "2026-11-07T14:47:42Z",
-      "active_job": "b7376bf5e63a4a5fb0c73f133009b170",
+      "active_job": "6e03354a06a84962aee8e3ebf8b11a2c",
       "owners": {
         "character": [
           "personnage_serge"
         ],
-        "story": [],
+        "story": [
+          "story_serge"
+        ],
         "review": []
       },
       "revision_rounds": 0,
-      "accepted": {},
+      "accepted": {
+        "character": {
+          "job_id": "b7376bf5e63a4a5fb0c73f133009b170",
+          "owner": "personnage_serge",
+          "validated_at": "2026-11-10T10:07:33Z",
+          "validation": {
+            "character_id": "serge",
+            "files": {
+              "editorial/clinical/designs/serge.json": "9d855e9c1026e1b39a3696f65eb63bb81aee86f3be1340ec8042ccdc85238727",
+              "editorial/clinical/dossiers/serge.json": "a3cfbfa2f718c4dbcb8533ce11af976098546fa7f0a3764d351b2ada16bbaa2a"
+            },
+            "episodes": 12
+          }
+        }
+      },
       "observed_at_init": {
         "manuscript_sha256": null,
         "episodes_present": 0,
@@ -5200,18 +5216,34 @@
     "florence": {
       "character_id": "florence",
       "code": "6D51",
-      "stage": "character",
+      "stage": "story",
       "created_at": "2026-11-07T14:47:42Z",
-      "active_job": "f0b857dc836f433aa5dd74cb72e06b34",
+      "active_job": "77dd425a972b49fe9b814b4fe20000fb",
       "owners": {
         "character": [
           "personnage_florence"
         ],
-        "story": [],
+        "story": [
+          "story_florence"
+        ],
         "review": []
       },
       "revision_rounds": 0,
-      "accepted": {},
+      "accepted": {
+        "character": {
+          "job_id": "f0b857dc836f433aa5dd74cb72e06b34",
+          "owner": "personnage_florence",
+          "validated_at": "2026-11-10T10:07:45Z",
+          "validation": {
+            "character_id": "florence",
+            "files": {
+              "editorial/clinical/designs/florence.json": "6ae9569ebf637c8a13c521907bb7256397c86029d0d2143ee2b5784239926f3a",
+              "editorial/clinical/dossiers/florence.json": "366093c6a06e703ff6264dcd930b54e345e2aee22d900fedd6212b231184110c"
+            },
+            "episodes": 12
+          }
+        }
+      },
       "observed_at_init": {
         "manuscript_sha256": null,
         "episodes_present": 0,
@@ -83548,8 +83580,80 @@
       "snapshot_sha256": "b01cdca69bc93a960836892aa9b20e964f4f09d05b009e5ab9745b35b83f39c4",
       "status": "active",
       "token_sha256": "a3fa65920cabab516d3e4a9714d1608238bf73a626137f11043c49efa8877fcc",
-      "heartbeat_at": "2026-11-10T10:01:57Z",
-      "expires_at": "2026-11-10T10:31:57Z"
+      "heartbeat_at": "2026-11-10T10:07:47Z",
+      "expires_at": "2026-11-10T10:37:47Z",
+      "checkpoints": [
+        {
+          "at": "2026-11-10T10:03:30Z",
+          "outputs": {
+            "editorial/clinical/sylvain.json": "0535dc9e0fcf73dbe5487684e2234186516ba6560a90589d3e8e7c2493c0c173"
+          },
+          "observed": {
+            "manuscript_sha256": "0535dc9e0fcf73dbe5487684e2234186516ba6560a90589d3e8e7c2493c0c173",
+            "episodes_present": 1,
+            "manuscript_readable": true,
+            "design_sha256": "4087d08ceb7c50c8e5f99de021b743e3bb6eeda7a8373b41955558eae89b8980",
+            "dossier_sha256": "92f38d739a55330bf2367c87719decd7cbd7c012f1a49b3c7cbee1a772063db8",
+            "review_sha256": null
+          }
+        },
+        {
+          "at": "2026-11-10T10:04:37Z",
+          "outputs": {
+            "editorial/clinical/sylvain.json": "ade73e82d0e0fbaf18d581da905e080798937db1b4322e5b7d49d0f5a365ea8a"
+          },
+          "observed": {
+            "manuscript_sha256": "ade73e82d0e0fbaf18d581da905e080798937db1b4322e5b7d49d0f5a365ea8a",
+            "episodes_present": 2,
+            "manuscript_readable": true,
+            "design_sha256": "4087d08ceb7c50c8e5f99de021b743e3bb6eeda7a8373b41955558eae89b8980",
+            "dossier_sha256": "92f38d739a55330bf2367c87719decd7cbd7c012f1a49b3c7cbee1a772063db8",
+            "review_sha256": null
+          }
+        },
+        {
+          "at": "2026-11-10T10:05:39Z",
+          "outputs": {
+            "editorial/clinical/sylvain.json": "15c58072780ca2749eb37a9e4b83f4b64f8a1bdd90ed77aad2b8c9a7f14ed7fc"
+          },
+          "observed": {
+            "manuscript_sha256": "15c58072780ca2749eb37a9e4b83f4b64f8a1bdd90ed77aad2b8c9a7f14ed7fc",
+            "episodes_present": 3,
+            "manuscript_readable": true,
+            "design_sha256": "4087d08ceb7c50c8e5f99de021b743e3bb6eeda7a8373b41955558eae89b8980",
+            "dossier_sha256": "92f38d739a55330bf2367c87719decd7cbd7c012f1a49b3c7cbee1a772063db8",
+            "review_sha256": null
+          }
+        },
+        {
+          "at": "2026-11-10T10:06:40Z",
+          "outputs": {
+            "editorial/clinical/sylvain.json": "acdac1d54d6c58582173e778ec7c64efdf9bf2c8d42a7dcb3ea7d440bf1518b4"
+          },
+          "observed": {
+            "manuscript_sha256": "acdac1d54d6c58582173e778ec7c64efdf9bf2c8d42a7dcb3ea7d440bf1518b4",
+            "episodes_present": 4,
+            "manuscript_readable": true,
+            "design_sha256": "4087d08ceb7c50c8e5f99de021b743e3bb6eeda7a8373b41955558eae89b8980",
+            "dossier_sha256": "92f38d739a55330bf2367c87719decd7cbd7c012f1a49b3c7cbee1a772063db8",
+            "review_sha256": null
+          }
+        },
+        {
+          "at": "2026-11-10T10:07:47Z",
+          "outputs": {
+            "editorial/clinical/sylvain.json": "b465c64d818656fd899a15ac2fcbaf3ee3c69aa9849c64bc901eb9a61f11c2f0"
+          },
+          "observed": {
+            "manuscript_sha256": "b465c64d818656fd899a15ac2fcbaf3ee3c69aa9849c64bc901eb9a61f11c2f0",
+            "episodes_present": 5,
+            "manuscript_readable": true,
+            "design_sha256": "4087d08ceb7c50c8e5f99de021b743e3bb6eeda7a8373b41955558eae89b8980",
+            "dossier_sha256": "92f38d739a55330bf2367c87719decd7cbd7c012f1a49b3c7cbee1a772063db8",
+            "review_sha256": null
+          }
+        }
+      ]
     },
     "b7376bf5e63a4a5fb0c73f133009b170": {
       "id": "b7376bf5e63a4a5fb0c73f133009b170",
@@ -83686,10 +83790,19 @@
         }
       },
       "snapshot_sha256": "d54e5294cdcb8dd22230d3051660acf991f7a4a8586bd5b9e0e875ade5c5970b",
-      "status": "active",
+      "status": "finished",
       "token_sha256": "52d5e62c1845510ec7d996acafbe3769bec2bee9203953e8337fc4286da0afd7",
       "heartbeat_at": "2026-11-10T10:02:01Z",
-      "expires_at": "2026-11-10T10:32:01Z"
+      "expires_at": "2026-11-10T10:32:01Z",
+      "finished_at": "2026-11-10T10:07:33Z",
+      "validation": {
+        "character_id": "serge",
+        "files": {
+          "editorial/clinical/designs/serge.json": "9d855e9c1026e1b39a3696f65eb63bb81aee86f3be1340ec8042ccdc85238727",
+          "editorial/clinical/dossiers/serge.json": "a3cfbfa2f718c4dbcb8533ce11af976098546fa7f0a3764d351b2ada16bbaa2a"
+        },
+        "episodes": 12
+      }
     },
     "f0b857dc836f433aa5dd74cb72e06b34": {
       "id": "f0b857dc836f433aa5dd74cb72e06b34",
@@ -83826,10 +83939,36 @@
         }
       },
       "snapshot_sha256": "be9f9585eb6e17821bba3099061ab2e26db747877b1832f613ac497879f12e67",
-      "status": "active",
+      "status": "finished",
       "token_sha256": "838714f90e5c1bd12651d2d2a611afbdb55b6af25d079162de6e61db76294a57",
-      "heartbeat_at": "2026-11-10T10:03:10Z",
-      "expires_at": "2026-11-10T10:33:10Z"
+      "heartbeat_at": "2026-11-10T10:07:44Z",
+      "expires_at": "2026-11-10T10:37:44Z",
+      "checkpoints": [
+        {
+          "at": "2026-11-10T10:07:44Z",
+          "outputs": {
+            "editorial/clinical/designs/florence.json": "6ae9569ebf637c8a13c521907bb7256397c86029d0d2143ee2b5784239926f3a",
+            "editorial/clinical/dossiers/florence.json": "366093c6a06e703ff6264dcd930b54e345e2aee22d900fedd6212b231184110c"
+          },
+          "observed": {
+            "manuscript_sha256": null,
+            "episodes_present": 0,
+            "manuscript_readable": true,
+            "design_sha256": "6ae9569ebf637c8a13c521907bb7256397c86029d0d2143ee2b5784239926f3a",
+            "dossier_sha256": "366093c6a06e703ff6264dcd930b54e345e2aee22d900fedd6212b231184110c",
+            "review_sha256": null
+          }
+        }
+      ],
+      "finished_at": "2026-11-10T10:07:45Z",
+      "validation": {
+        "character_id": "florence",
+        "files": {
+          "editorial/clinical/designs/florence.json": "6ae9569ebf637c8a13c521907bb7256397c86029d0d2143ee2b5784239926f3a",
+          "editorial/clinical/dossiers/florence.json": "366093c6a06e703ff6264dcd930b54e345e2aee22d900fedd6212b231184110c"
+        },
+        "episodes": 12
+      }
     },
     "9f65db16910a41c1b068359a23a2c096": {
       "id": "9f65db16910a41c1b068359a23a2c096",
@@ -84214,10 +84353,839 @@
       },
       "snapshot_sha256": "a8fd1ad0e448181992589ef49f3b23ad40f80dcbfdb1397f96124ff07fca1250",
       "status": "active",
-      "token_sha256": "097e86a4fc10844fb6498e960147465c788b99239b749f66ffbf4313424acce0",
-      "heartbeat_at": "2026-11-10T10:03:17Z",
-      "expires_at": "2026-11-10T10:33:17Z"
+      "token_sha256": "53090a6028b8581c99e83602fae34b8e2b0e1807f8f56aa46f981484194b35a2",
+      "heartbeat_at": "2026-11-10T10:07:27Z",
+      "expires_at": "2026-11-10T10:37:27Z",
+      "resumed_at": "2026-11-10T10:03:27Z",
+      "resume_count": 1,
+      "checkpoints": [
+        {
+          "at": "2026-11-10T10:05:14Z",
+          "outputs": {
+            "editorial/clinical/loubna.json": "a58409e0a467ecbc8949c7302eff521849475ee4e2be35e3c4ae41f684ad84b4"
+          },
+          "observed": {
+            "manuscript_sha256": "a58409e0a467ecbc8949c7302eff521849475ee4e2be35e3c4ae41f684ad84b4",
+            "episodes_present": 1,
+            "manuscript_readable": true,
+            "design_sha256": "106ac8ac5ea0a21cd963ab67deb5c664507c9f278ef62d7dd2b7d694e9c347e5",
+            "dossier_sha256": "d23ed9f437ea8b0c328f80a25daeee2e059b5a84a494b67cf5ebbd75cbea6021",
+            "review_sha256": null
+          }
+        },
+        {
+          "at": "2026-11-10T10:07:24Z",
+          "outputs": {
+            "editorial/clinical/loubna.json": "250d052624230a2746f8fcef3748d9d1bbe045c88622aa227d694f1dddc484d6"
+          },
+          "observed": {
+            "manuscript_sha256": "250d052624230a2746f8fcef3748d9d1bbe045c88622aa227d694f1dddc484d6",
+            "episodes_present": 2,
+            "manuscript_readable": true,
+            "design_sha256": "106ac8ac5ea0a21cd963ab67deb5c664507c9f278ef62d7dd2b7d694e9c347e5",
+            "dossier_sha256": "d23ed9f437ea8b0c328f80a25daeee2e059b5a84a494b67cf5ebbd75cbea6021",
+            "review_sha256": null
+          }
+        },
+        {
+          "at": "2026-11-10T10:07:27Z",
+          "outputs": {
+            "editorial/clinical/loubna.json": "afca46f5b6ed85c56190a155c1ac35110bd6b9d4b5aca0fd459f875ca40a74ad"
+          },
+          "observed": {
+            "manuscript_sha256": "afca46f5b6ed85c56190a155c1ac35110bd6b9d4b5aca0fd459f875ca40a74ad",
+            "episodes_present": 3,
+            "manuscript_readable": true,
+            "design_sha256": "106ac8ac5ea0a21cd963ab67deb5c664507c9f278ef62d7dd2b7d694e9c347e5",
+            "dossier_sha256": "d23ed9f437ea8b0c328f80a25daeee2e059b5a84a494b67cf5ebbd75cbea6021",
+            "review_sha256": null
+          }
+        }
+      ]
+    },
+    "6e03354a06a84962aee8e3ebf8b11a2c": {
+      "id": "6e03354a06a84962aee8e3ebf8b11a2c",
+      "character_id": "serge",
+      "role": "story",
+      "owner": "story_serge",
+      "created_at": "2026-11-10T10:07:58Z",
+      "snapshot": {
+        "prompt_file": "editorial/agents/stories.md",
+        "prompt": "# Agent rédacteur d’histoires\n\nUn vrai sous-agent ChatGPT écrit un personnage entier. Il est distinct de son créateur. Plusieurs personnages peuvent être rédigés en parallèle ; les douze épisodes d’un même personnage s’écrivent dans l’ordre. Aucun appel de modèle par API ni production GitHub Actions.\n\nLire `editorial_pipeline.py brief --job <job>`, la charte, l’article modèle d’alexithymie en couple, le dossier individuel et le design gelé. Respecter leurs références et la chronologie du diagnostic. Recopier exactement la biographie et les cinq repères validés, et reprendre chaque aspect prévu dans `clinical_focus`. Ne pas modifier le dossier ou le plan en cours de rédaction ; signaler un problème au pilote.\n\nÉcrire uniquement `editorial/clinical/<id>.json`. Conserver tout épisode déjà sauvegardé après une interruption. Vérifier l’existence du manuscrit et relire ses raccords avant d’ajouter la suite. Sauvegarder chaque épisode complet puis exécuter `checkpoint` avec la mission et son jeton. Le fichier contient `character_id`, `bio`, `profile_topics`, `episodes` ; le brief donne les champs exacts de chaque épisode.\n\nTrame obligatoire, format 2 :\n\n1. Scène d’ouverture d’au moins 180 mots, sans intertitre, illustrant l’aspect précis de l’épisode.\n2. Introduction pédagogique autonome de 40 à 90 mots dans `clinical_intro`, distincte de l’explication développée dans l’article.\n3. Section `explanation` développant le mécanisme (au moins 25 mots).\n4. Section `manifestations`, titre « Comment … ? », trois points comprenant chacun un intertitre, une explication et deux exemples concrets.\n5. Section `strategies`, titre « 3 techniques pour … », trois points comprenant chacun un objectif, un exercice en trois actions et un bénéfice possible.\n6. Retour à la scène avec `ending_title` et `ending` ; une décision et sa conséquence réelle, sans guérison artificielle.\n7. `conclusion` d’au moins 25 mots, affichée après le séparateur.\n8. `mirror` : un ou deux paragraphes de 40 à 160 mots pour « Du côté des proches », ancrés dans la scène avec un geste ou une parole possible.\n\nAu moins 550 mots au total, trois repères d’épisode, titre centré sur le sujet et non sur le prénom, description de 155 caractères maximum, au moins deux références autorisées dont la source primaire. Documenter `continuity.choice` et `continuity.next` après chaque épisode. Les références restent dans les champs éditoriaux : aucune bibliographie publique dans le récit.\n\nLes aides du quotidien ne remplacent pas un soin. Aucun seuil d’autodiagnostic, posologie, exercice dangereux, exposition imposée, récompense pour parler, souvenir forcé, réconciliation obligatoire ou promesse de guérison. Respecter les relais professionnels et les procédures réelles de sécurité. Les proches ne deviennent ni diagnosticiens ni thérapeutes. La fiction décrit une présentation individuelle et ne transforme pas une hypothèse en mécanisme scientifique reconnu.\n\nRelire les raccords, les décisions, les douze aspects et la fin de l’enjeu de série. Exécuter `clinical_agent_contracts.py story <id>` puis `editorial_pipeline.py finish`. Le manuscrit passe alors à un relecteur indépendant. Ne pas écrire son propre rapport de relecture, intégrer, committer ou publier. En cas de retour, corriger les épisodes concernés, puis demander une nouvelle relecture complète liée aux nouvelles empreintes.\n",
+        "inputs": {
+          "data/clinical_catalog.json": "ea545ea8ad5aaa94b2b2e45e2816cde36bc101dc205b0da50e9303a12015cefa",
+          "data/clinical_sources.json": "fdaee525b573758c9f0f33cb52b62bfb2f077402336475a6f859762fea48e6e6",
+          "editorial/clinical/additional_characters.json": "8834d18f0c86a439357f6f776429d57b23c4acab8b88b5c55d1c3dacd651ada3",
+          "editorial/clinical/charter.md": "8032bcae9a54b787febdbc3a99e8811893663c9f93dc323b0108e07c3849cb0b",
+          "editorial/automation/policy.json": "883ae80b4685fbc1365af6494b693358da050e2266554992f11d12dcbde6c1d0",
+          "scripts/clinical_editorial.py": "f1fc7eb80b0eca35fad58925b323b5dee69bc738d3df031a41e465a64e3342d3",
+          "editorial/automation/legacy-publications.json": "974d070654ecad7d2408ecfe893a767fa97352922acca107b768b63a31277ceb",
+          "scripts/clinical_agent_contracts.py": "65f69034e51733a15a24b9e93e3fc8beb7ce545db7736d81a160a52218a3f6e1",
+          "editorial/agents/stories.md": "7725d5f492253cfcee95427c76114fe739c83204e8c7187959309b72da39eece",
+          "editorial/clinical/designs/serge.json": "9d855e9c1026e1b39a3696f65eb63bb81aee86f3be1340ec8042ccdc85238727",
+          "editorial/clinical/dossiers/serge.json": "a3cfbfa2f718c4dbcb8533ce11af976098546fa7f0a3764d351b2ada16bbaa2a"
+        },
+        "data": {
+          "clinical_brief": {
+            "agent_id": "redaction-serge",
+            "character": {
+              "id": "serge",
+              "name": "Serge",
+              "code": "6D50",
+              "related_codes": [],
+              "wave": 20,
+              "diagnosis": {
+                "timing": "established",
+                "episode": null
+              },
+              "canon": {
+                "age": 49,
+                "setting": "Agent d'accueil dans une résidence, remonte un calendrier de promenades avec un groupe adulte.",
+                "independent_goal": "Rendre son rôle dans le groupe plus stable et trouver une manière loyale de solliciter de l'aide.",
+                "tension": "Il veut pouvoir parler de difficultés de soins dans une relation qui ne repose pas sur le blâme.",
+                "supports": "Médecin qui coordonne le suivi, clinicien en santé mentale et proche choisi.",
+                "trajectory": "Récit centré sur le soin, les responsabilités et la reprise des activités, sans montrer comment les symptômes ont été produits.",
+                "guardrail": "Ne jamais donner de méthode de falsification, de simulation ou de blessure. Préserver les accès légitimes aux soins.",
+                "occupation": "agent d’accueil"
+              },
+              "sources": [
+                "https://icd.who.int/browse/2026-01/mms/fr#790764418",
+                "https://www.who.int/publications/i/item/9789240077263"
+              ],
+              "research_status": "prise_en_charge_a_documenter"
+            },
+            "direction": "Serge, 49 ans, agent d’accueil dans une résidence, remet sur pied un calendrier de promenades avec un groupe adulte. Son rôle porte sur les dates, les confirmations et la lisibilité du document, pas sur une décision médicale ni la sécurité des itinéraires. Mireille coordonne le groupe ; Claude est un ami adulte choisi ; le docteur Armand coordonne les soins avec Inès, psychologue. Le diagnostic est établi avant la série. Serge a du goût pour les horaires nets et les cartes pliées, mais trouve plus difficile de dire qu’il souhaite une présence sans se présenter comme plus malade. Cela reste sa trajectoire fictive, pas une explication universelle. Aucune maladie fabriquée, méthode, examen manipulé ou blessure ne sera décrit. La première scène montre qu’il corrige auprès du médecin une information de santé qu’il savait inexacte ; la nature de cette information reste omise. Les professionnels prennent en charge les corrections nécessaires et continuent d’examiner les symptômes réels ou nouveaux. La série suit plusieurs semaines : inventaire des dates, sélection des créneaux, répartition des tâches, première version, report, relecture et calendrier final accepté. La confiance ne revient pas par un aveu récompensé et le soin n’est jamais conditionné à une confession. Le groupe ne devient ni tribunal ni équipe de surveillance. Aucun droit aux soins n’est supprimé en raison du diagnostic. L’enjeu matériel se clôt ; la coordination clinique demeure.",
+            "dossier": {
+              "name": "Trouble factice imposé à soi-même",
+              "aliases": [
+                "6D50",
+                "Factitious disorder imposed on self"
+              ],
+              "references": [
+                "oms-cddr",
+                "oms-mms-6d50",
+                "oms-cddr-hrb",
+                "berar-2021",
+                "eastwood-2008",
+                "mayo-soins",
+                "liu-2025"
+              ],
+              "points": [
+                "Recherche individuelle du 10 novembre 2026 : CDDR OMS original lu dans cddr.txt/PDF local, pages imprimées 593–596 ; lien source HRB ci-dessous. Paraphrases françaises de travail, non traduction officielle. Intitulé français confirmé dans un document OMS indexé ; interface MMS dynamique non extraite. Étude originale Bérar2021 : résumé, méthodes et discussion/conclusion lus sur le site éditeur. Eastwood2008 : résumé original PubMed lu. Mayo : information institutionnelle, pas une étude. Liu2025 : résumé indexé consulté, accès intégral éditeur refusé ; ne pas prétendre avoir lu le texte complet.",
+                "OMS p.593 : 6D50 exige une présentation intentionnellement trompeuse de signes, symptômes ou blessure, avec tromperie identifiée, puis une présentation de soi comme malade ou diminué. Une maladie préexistante peut coexister. Le comportement n’est pas uniquement motivé par des incitations externes évidentes et ne doit pas être mieux expliqué par un autre trouble mental. Le diagnostic de Serge est déjà établi, sans scène montrant comment il a produit ou falsifié quoi que ce soit.",
+                "OMS p.594–595 : un symptôme inexpliqué, des examens normaux, une demande insistante ou une incohérence ne suffisent pas à démontrer une tromperie intentionnelle. Les frontières avec détresse corporelle, hypocondrie et symptômes neurologiques dissociatifs sont importantes : ces vécus ne sont pas assimilés à une fabrication volontaire. L’épisode 3 explicite ce point sans liste de signes permettant aux proches de démasquer quelqu’un ni changement du diagnostic de Serge.",
+                "OMS p.593,595 : différence avec la simulation motivée par un bénéfice externe évident. Dire pas uniquement motivé par des avantages externes, plutôt que garantir l’absence de tout bénéfice. La motivation psychologique reste à explorer ; ne pas réduire le trouble au mensonge pour obtenir de l’attention, à la paresse, à une fraude ou à un trait moral. Aucun gain matériel, litige, statut pénal ou biographie explicative n’est inventé.",
+                "OMS p.594 : adoption d’un rôle de malade et recherche de l’attention soignante peuvent faire partie de la présentation. Chez Serge, le besoin de présence et la crainte de ne compter qu’en étant malade sont des choix de fiction discutés avec Inès. Aucune causalité traumatique, carence affective ou enfance supposée. Ni chaque demande de soutien ni le fait de consulter ne sont pathologisés.",
+                "OMS p.594 : les soins et investigations répétés peuvent exposer à des risques. Le récit montre un médecin coordonnateur qui apprécie l’utilité des actes et vérifie les informations ; il ne donne aucune liste d’examens à obtenir, détourner ou refuser. Aucun patient ni proche ne doit décider seul qu’un soin est inutile. La coordination préserve les consultations légitimes et l’accès aux urgences.",
+                "Bérar2021 : 49 dossiers adultes du CHU de Rennes, 1995–2019, étude rétrospective DSM-5 et hospitalière. Les auteurs discutent les risques iatrogènes, les ruptures de suivi et les faux positifs fondés sur des indices non spécifiques. Sélection hospitalière, données incomplètes, faible fréquence de preuves directes et absence de comparaison thérapeutique limitent généralisation et causalité. Des événements graves après annonce sont rapportés sans preuve que l’annonce les ait causés. Ne pas en faire un taux de risque individuel ou une méthode diagnostique applicable au lecteur.",
+                "La détresse de Serge et le caractère intentionnel de certaines informations inexactes ne s’annulent pas mutuellement. Corriger une information auprès du médecin est une action responsable de fiction ; cela ne constitue ni guérison, ni examen de sincérité, ni obligation d’aveu pour accéder aux soins. La peur du blâme peut gêner sa participation, mais n’est pas un critère universel ni une preuve de danger.",
+                "Mayo, Treatment/Self-care : propose une approche sans jugement, un professionnel principal coordonnant les soins et un travail psychothérapeutique adapté ; les proches gardent une relation ordinaire. Ces conseils institutionnels américains ne constituent pas un protocole français démontré. Les modalités de partage sont discutées dans le cadre applicable et avec l’accord requis ; aucun proche enquêteur, secret absolu ou surveillance permanente. Une envie de se faire du mal ou une urgence réelle impose une réponse professionnelle immédiate ; aucun exercice solitaire ne la remplace.",
+                "Eastwood2008 : 32 cas et 13 séries, données insuffisantes pour déterminer l’efficacité d’une approche ; absence de différence significative entre stratégies ne démontre ni leur équivalence ni leur inefficacité. Liu2025, résumé : 72 études, 107 participants, essentiellement cas cliniques, reporting limité, biais possibles de sélection/publication. Aucun taux de réussite, aucune psychothérapie garantie, aucune molécule, dose ou délai de guérison. Les gestes pratiques du plan ne sont pas des traitements validés de 6D50.",
+                "OMS p.593 et Bérar2021 : des problèmes médicaux et psychiatriques peuvent coexister. Une gêne nouvelle en épisode 8 donne lieu à une évaluation effective sans être présumée factice ; une humeur basse et un sommeil modifié en épisode 9 sont examinés séparément, sans dépression ou autre comorbidité inventée. Le récit n’a pas besoin de préciser le diagnostic somatique ni une prescription.",
+                "OMS p.594 : évolution insuffisamment documentée, pouvant être épisodique ou chronique ; les données ne permettent pas un pronostic individuel assuré. Le retour de l’envie de présenter une information inexacte en épisode 11 est discuté avec l’équipe avant tout nouvel envoi trompeur ; aucun procédé ni scénario de falsification. Un calendrier terminé ne certifie pas la fin du trouble.",
+                "Architecture : 1 correction responsable d’une information trompeuse ; 2 rôle de malade et place dans le lien ; 3 diagnostic différentiel sans soupçon automatique ; 4 coordination et prévention de l’iatrogénie ; 5 peur du blâme et maintien de l’alliance ; 6 retentissement sur les engagements ; 7 limites d’un soutien choisi ; 8 accès légitime pour un symptôme nouveau ; 9 évaluation de difficultés psychiques associées ; 10 choix de soin et limites des preuves ; 11 évolution et réapparition d’une difficulté ; 12 participation ordinaire et continuité. Les enjeux de prise en charge ne sont pas présentés comme douze symptômes."
+              ]
+            },
+            "references": {
+              "oms-cddr": {
+                "title": "OMS, descriptions cliniques de la CIM-11",
+                "url": "https://www.who.int/publications/i/item/9789240077263"
+              },
+              "oms-mms-6d50": {
+                "title": "OMS, CIM-11 MMS 2026-01, 6D50 Trouble factice imposé à soi-même, lien canonique",
+                "url": "https://icd.who.int/browse/2026-01/mms/fr#790764418"
+              },
+              "oms-cddr-hrb": {
+                "title": "OMS, CDDR 2024, ISBN 9789240077263, pages imprimées 593–596 : troubles factices et 6D50, original déposé au HRB",
+                "url": "https://www.drugsandalcohol.ie/41519/1/WHO_Clinical_descriptions_and_diagnostic_requirements_ICD-11.pdf"
+              },
+              "berar-2021": {
+                "title": "Bérar et al., 2021, A descriptive, retrospective case series of patients with factitious disorder imposed on self, BMC Psychiatry 21:588, étude française originale, méthodes/discussion/conclusion consultées",
+                "url": "https://link.springer.com/article/10.1186/s12888-021-03582-8"
+              },
+              "eastwood-2008": {
+                "title": "Eastwood et Bisson, 2008, Management of factitious disorders: a systematic review, résumé original, PMID18418027",
+                "url": "https://pubmed.ncbi.nlm.nih.gov/18418027/"
+              },
+              "mayo-soins": {
+                "title": "Mayo Clinic, Factitious disorder — Diagnosis and treatment, information institutionnelle de soins, rubriques Treatment/Self-care consultées le 10 novembre 2026, avis clinique non essai",
+                "url": "https://www.mayoclinic.org/diseases-conditions/factitious-disorder/diagnosis-treatment/drc-20356034"
+              },
+              "liu-2025": {
+                "title": "Liu et al., 2025, A scoping review of treatment for factitious disorder (imposed on self), Psychiatry Research Communications 5:100216, résumé indexé seulement, DOI10.1016/j.psycom.2025.100216",
+                "url": "https://www.sciencedirect.com/science/article/pii/S2772598725000157"
+              }
+            },
+            "charter": "# Charte de rédaction des parcours cliniques\n\nÉcrire en français pour des lecteurs sans formation clinique. Choisir pour chaque épisode un aspect du trouble qui se distingue des onze autres et que la scène permet de comprendre. Cet aspect peut être une manifestation, un mécanisme, un retentissement ou une particularité de l’évolution. Relier le titre, le résumé, l’explication et le dénouement à cet aspect. Une activité, une décision ou un rendez-vous fournit le cadre où il devient perceptible.\n\nSuivre le déroulé de l’[article de Youssef sur l’alexithymie en couple](../../content/posts/comprendre-et-maitriser-ses-emotions/alexithymie-en-couple.md).\n\n1. Ouvrir sur une scène d’au moins 180 mots, sans intertitre. Montrer ce que la difficulté change pour le personnage dans cette situation.\n2. Expliquer l’aspect et son lien avec le trouble dans une section dédiée. Partir d’une phrase générale autonome, puis revenir à ce qui se joue dans la scène.\n3. Montrer comment l’aspect se manifeste. Sous « Comment … ? », développer trois sous-parties avec une explication et deux exemples concrets chacune. Situer ce que l’on observe dans chaque exemple.\n4. Proposer trois techniques numérotées. Donner pour chacune un objectif, un exercice pratique en trois étapes et une explication de son utilité possible. Adapter les étapes au contexte et au niveau de risque, en incluant le recours à un professionnel lorsque nécessaire.\n5. Revenir à l’histoire sous un intertitre tiré de la scène. Montrer un essai ou une décision, sa conséquence et l’incertitude qui reste. Les difficultés peuvent revenir après un essai qui a fonctionné ailleurs.\n6. Conclure après un séparateur. Résumer ce que cet épisode permet de comprendre et inscrire le dénouement dans le parcours du personnage.\n7. Terminer par « Du côté des proches ». Relier leur point de vue à ce que la scène a montré.\n\nRespecter les faits du canon et la chronologie du diagnostic. Si l’évaluation est en cours, faire comprendre les difficultés sans annoncer le résultat à la place du professionnel. Un diagnostic connu entre dans le récit quand il aide à situer l’expérience. La personne conserve un métier ou un projet, des relations, des ressources, des préférences et le droit de ne pas tout partager.\n\nFonder chaque affirmation clinique sur les points vérifiés du dossier de sources. Renseigner les références dans le dossier et les champs éditoriaux de chaque épisode. Distinguer récit, vécu et description générale du trouble. Les articles ne donnent ni critères permettant de conclure sur soi ou un tiers, ni posologies, ni gestes dangereux, ni promesses de guérison. Une scène de fiction ne représente qu’une présentation possible. Proposer des adaptations discutées avec la personne et situer le recours aux professionnels quand le besoin est clinique ou urgent.\n\nDans « Du côté des proches », partir d’un geste, d’une parole ou d’un besoin visible dans la scène. Donner une réponse concrète que le proche pourrait essayer, dans des mots qu’il pourrait dire. Respecter son périmètre et la possibilité de se retirer ou de passer le relais. Aucun proche ne doit jouer au diagnosticien ou imposer un soin. Dans les situations d’emprise ou de danger, favoriser la sécurité et un appui spécialisé.\n\nRelecture par vague. Relire les douze ouvertures et leurs fins dans l’ordre, puis vérifier les faits cliniques et les propositions aux proches, chaque fois avec le dossier de sources. Annoter les erreurs et les choix qui ont fonctionné. Inscrire les leçons réutilisables dans la charte avant de générer le lot suivant. Une validation de structure ou une relecture par un modèle laisse ouverte la vérification éditoriale des faits et de leur contexte.\n\nLe lot pilote a montré que le premier intertitre explicatif peut varier. Commencer cette section par une phrase générale autonome que le site peut reprendre. Donner à la scène finale un titre tiré de son geste ou de sa décision. Distinguer un signe à discuter d’un épisode ou d’un diagnostic établi. Maintenir les procédures de sécurité réelles et le rôle des soignants, même lorsque le personnage essaie une façon différente de répondre à sa difficulté.\n\nLa deuxième vague distingue l’accord de la personne pour partager ses informations et les démarches de sécurité qui s’appliquent à la situation. Montrer dans le récit qui prévient le service compétent et quand, sans reporter cette action au conseil pour les proches. Pour une règle de métier, utiliser une source du domaine en plus du guide clinique. Le miroir reste ancré dans la scène et conserve sa limite de sécurité jusqu’à la dernière phrase.\n\nLa troisième vague vérifie que le trouble a un effet perceptible dans la vie du personnage dès les deux premières scènes. Montrer ce vécu sans inventaire de signes, description de pratiques dangereuses ou explication totale de sa personnalité. Suivre séparément les questions de santé et les décisions du quotidien. Reprendre les objets, lieux et engagements déjà nommés et fermer les questions concrètes dont la résolution est nécessaire à la scène suivante.\n\nAvant d’écrire, l’agent dédié au personnage fixe une direction dans son dossier. Il y précise ce qui distingue sa voix, son projet et son entourage, les faits cliniques qu’il mettra en scène et les interprétations à écarter. À la fin de chaque épisode, il inscrit la décision prise et ce qu’elle change pour la suite. Au dernier épisode, il résout l’enjeu de la série et garde la perspective du personnage au-delà de cette décision. La relecture reprend les douze scènes dans l’ordre et vérifie les conseils adressés aux proches en regard de chaque scène.\n\nLa quatrième vague distingue les repères du premier diagnostic et ceux des épisodes ultérieurs. Quand une situation urgente se présente, vérifier que son origine n’est pas présumée à partir du diagnostic connu. La première section s’ouvre sur une phrase générale qui fonctionne seule. Les détails de la scène viennent ensuite, après le passage que le site peut reprendre en introduction.\n\nLes histoires d’origine donnent la direction. Le titre commence par le sujet de l’article, une difficulté, une émotion ou un mécanisme réel dans une situation concrète. Le prénom figure séparément au-dessus du titre. Dans la présentation, nommer le trouble documenté et ce qu’il change pour ce personnage. Le premier mot-clé reprend son intitulé et les quatre autres indiquent des manifestations ou enjeux qui reviennent dans plusieurs épisodes. La fiche peut annoncer un diagnostic que le personnage découvre plus tard dans l’histoire.\n\nDans le résumé de la fiche et de la carte, relier une réaction de la scène à l’aspect abordé. Dans un récit d’enfance, vérifier l’apport de cette période pour comprendre le trouble et ouvrir sur d’autres contextes lorsque les sources l’appuient. Lors de la relecture, nommer l’aspect illustré dans chaque épisode, puis retrouver le moment où il devient visible et vérifier que les exemples et les techniques restent centrés sur lui. Renseigner les références dans le manuscrit et le dossier éditorial, sans bibliographie dans le fil de l’article.\n\nLa huitième vague vérifie qui peut savoir quoi, à quel moment et avec quel accord. En cas de changement préoccupant, distinguer le fait observable, ce qu’en dit le personnage, la réponse d’un proche et l’évaluation de l’équipe de soins. Faire apparaître le relais dans la scène où il se produit et en reprendre les conséquences dans la suivante.\n\nLa reprise suivante distingue le résumé affiché avant le récit et l’explication qui vient après. Éviter de recopier le résumé mot pour mot dans cette explication : celle-ci développe le mécanisme et le contraste rendu visible par la scène. Pour les articles d’origine, relire les manifestations et les exercices eux-mêmes ; trois intertitres ou une étiquette ne prouvent pas que les exemples, l’objectif, les trois actions et l’utilité sont présents. Une prose déjà complète peut être conservée. Garder une preuve de lecture liée à l’empreinte du corps et une seconde relecture des passages sensibles.\n",
+            "files": {
+              "manuscript": "editorial/clinical/serge.json",
+              "dossier": "editorial/clinical/dossiers/serge.json"
+            },
+            "manifest_fields": [
+              "character_id",
+              "bio",
+              "profile_topics",
+              "episodes"
+            ],
+            "profile_topics_count": 5,
+            "episode_fields": [
+              "number",
+              "slug",
+              "title",
+              "description",
+              "context",
+              "topics",
+              "clinical_focus",
+              "clinical_intro",
+              "opening",
+              "sections",
+              "ending_title",
+              "ending",
+              "mirror",
+              "sources",
+              "continuity",
+              "conclusion"
+            ],
+            "sections": {
+              "explanation": {
+                "fields": [
+                  "heading",
+                  "text"
+                ]
+              },
+              "manifestations": {
+                "fields": [
+                  "heading",
+                  "points"
+                ],
+                "count": 3,
+                "point_fields": [
+                  "heading",
+                  "text",
+                  "examples"
+                ],
+                "examples_count": 2
+              },
+              "strategies": {
+                "fields": [
+                  "heading",
+                  "points"
+                ],
+                "count": 3,
+                "point_fields": [
+                  "heading",
+                  "objective",
+                  "exercise",
+                  "benefit"
+                ],
+                "exercise_count": 3
+              }
+            },
+            "total_episodes": 12,
+            "continuity": [],
+            "ready_to_draft": true,
+            "instruction": "Rédiger les épisodes dans l’ordre et consigner les choix à reprendre."
+          },
+          "findings": [],
+          "existing_manuscript": null,
+          "design": {
+            "schema_version": 1,
+            "character_id": "serge",
+            "code": "6D50",
+            "article_format": 2,
+            "bio": "Serge, 49 ans, est agent d’accueil dans une résidence. Son Trouble factice imposé à soi-même est déjà diagnostiqué. Il remet sur pied un calendrier de promenades avec un groupe adulte, mais les difficultés liées aux soins et à sa manière de demander de l’aide rendent ses engagements instables. Un médecin coordonne son suivi avec une psychologue ; un ami peut lui offrir une présence limitée. Serge cherche à transmettre des informations fiables, à préserver ses accès légitimes aux soins et à tenir une place dans le groupe sans devoir se présenter comme malade.",
+            "profile_topics": [
+              "Trouble factice imposé à soi-même",
+              "Informations de santé fiables",
+              "Coordination des soins",
+              "Lien et demande d’aide",
+              "Participation et suivi durable"
+            ],
+            "voice": "Serge aime les horaires lisibles, les cases alignées et les cartes que l’on peut replier. Il parle concrètement des dates mais cherche ses mots pour demander de la présence. Sa voix ne devient ni celle d’un stratège de la tromperie ni une confession permanente.",
+            "series_goal": "Faire accepter un calendrier de promenades par le groupe adulte avec un rôle et des relais réalistes, en maintenant des soins coordonnés et une manière directe de demander de l’aide.",
+            "continuity_rules": [
+              "Serge, 49 ans, agent d’accueil dans une résidence, remet sur pied un calendrier de promenades avec un groupe adulte. Son rôle porte sur les dates, les confirmations et la lisibilité du document, pas sur une décision médicale ni la sécurité des itinéraires. Mireille coordonne le groupe ; Claude est un ami adulte choisi ; le docteur Armand coordonne les soins avec Inès, psychologue. Le diagnostic est établi avant la série. Serge a du goût pour les horaires nets et les cartes pliées, mais trouve plus difficile de dire qu’il souhaite une présence sans se présenter comme plus malade. Cela reste sa trajectoire fictive, pas une explication universelle. Aucune maladie fabriquée, méthode, examen manipulé ou blessure ne sera décrit. La première scène montre qu’il corrige auprès du médecin une information de santé qu’il savait inexacte ; la nature de cette information reste omise. Les professionnels prennent en charge les corrections nécessaires et continuent d’examiner les symptômes réels ou nouveaux. La série suit plusieurs semaines : inventaire des dates, sélection des créneaux, répartition des tâches, première version, report, relecture et calendrier final accepté. La confiance ne revient pas par un aveu récompensé et le soin n’est jamais conditionné à une confession. Le groupe ne devient ni tribunal ni équipe de surveillance. Aucun droit aux soins n’est supprimé en raison du diagnostic. L’enjeu matériel se clôt ; la coordination clinique demeure.",
+              "Diagnostic établi avant l’épisode1, known partout. Aucune découverte publique, identité de fraudeur, punition, reconnaissance morale exigée ou changement diagnostique romanesque. La correction initiale est abstraite et confiée au médecin ; ne pas inventer de méthode ni de détail de symptôme falsifié.",
+              "Ne décrire aucune technique de simulation, de manipulation de test, de falsification documentaire, de blessure ou d’induction de maladie ; ne pas reproduire les exemples dangereux présents dans les sources. Ne pas inventer de conseil pour éviter la détection ou organiser des consultations trompeuses.",
+              "Mireille coordonne les dates, Claude est un ami libre de refuser. Ils ne disposent pas automatiquement du diagnostic, ne recueillent pas de preuves, ne conditionnent pas leur aide à un aveu et ne deviennent ni thérapeutes ni surveillants. Armand et Inès agissent effectivement dans les scènes de soins.",
+              "Les symptômes nouveaux restent évalués par des professionnels ; aucune plainte n’est disqualifiée en raison du diagnostic. Le travail et le calendrier n’attestent pas une aptitude médicale. Ne jamais retarder les secours face à une urgence narrée ni faire du médecin coordonnateur une barrière aux soins nécessaires.",
+              "Les épisodes suivent plusieurs semaines. Inventaire et choix des dates précèdent la répartition de tâches, la version partielle, le report médical, la version à relire, la dernière correction puis la livraison. Le sommeil et l’humeur ouverts en8 sont évalués en9. Le suivi continue après12.",
+              "Les trois appuis de chaque épisode sont des gestes pratiques adaptés, pas un traitement validé du trouble. Aucun score de sincérité, exposition imposée, souvenir forcé, diagnostic de proche, récompense pour parler ou promesse de guérison. Les limites des preuves et le caractère individuel du vécu demeurent explicites."
+            ],
+            "episodes": [
+              {
+                "number": 1,
+                "focus": "Corriger une information trompeuse",
+                "scene": "Le calendrier des promenades est ouvert devant Serge, mais une demande médicale inachevée l’empêche de répondre à Mireille sur les dates. À son rendez-vous, il signale au docteur Armand qu’une information de santé transmise auparavant était sciemment inexacte. Sa nature et sa fabrication ne sont jamais indiquées. Le médecin recueille la correction et réexamine les décisions qui pourraient en dépendre.",
+                "development": "Diagnostic établi et réalité du comportement intentionnel, distinct d’une simple erreur ou d’un symptôme inexpliqué. Définition clinique sobre de 6D50, sans exemple de falsification. Le diagnostic n’est pas uniquement une recherche de bénéfice externe et ne résume pas la personne. Trois appuis à développer : signaler l’information inexacte au professionnel concerné ; le laisser vérifier et corriger les éléments du soin ; annoncer au groupe une échéance professionnelle réaliste. Ne pas faire de l’aveu une condition de soin ni une preuve de guérison.",
+                "ending": "Armand prend en charge la correction utile au suivi. Serge maintient le prochain contact et annonce à Mireille quand il pourra envoyer l’inventaire des dates ; il ne lui transmet pas son dossier médical.",
+                "next": "En préparant cet inventaire, il remarque combien il parle facilement de sa place de patient et difficilement de ses autres intérêts.",
+                "source_refs": [
+                  "oms-cddr",
+                  "oms-cddr-hrb",
+                  "berar-2021"
+                ],
+                "diagnostic_stage": "known"
+              },
+              {
+                "number": 2,
+                "focus": "Place du rôle de malade",
+                "scene": "Lors d’un échange avec Mireille sur les créneaux de promenade, Serge revient plusieurs fois à ses consultations au lieu de choisir les dates. Il craint de devenir moins important lorsqu’il ne parle pas de maladie. Plus tard, il apporte cette impression à Inès, qui l’explore sans l’ériger en cause unique du trouble.",
+                "development": "L’adoption du rôle de malade peut être une dimension du trouble ; le besoin de présence est ici un vécu individuel, pas un critère suffisant ni une motivation universelle. Trois appuis : nommer directement un besoin de compagnie ou de soutien ; distinguer cette demande de ses informations de santé ; garder aussi une contribution ordinaire au groupe. Aucune attention retirée en guise de traitement ni contact offert comme récompense de sincérité.",
+                "ending": "Serge demande à Claude s’il serait disponible pour un café, sans prétexte médical. Il renvoie à Mireille deux créneaux possibles. Le café n’est pas encore fixé et Inès poursuit l’exploration de ce besoin.",
+                "next": "Au prochain entretien médical, Serge voudra comprendre pourquoi le diagnostic ne signifie pas que chaque doute ou gêne serait une tromperie.",
+                "source_refs": [
+                  "oms-cddr",
+                  "oms-cddr-hrb",
+                  "mayo-soins"
+                ],
+                "diagnostic_stage": "known"
+              },
+              {
+                "number": 3,
+                "focus": "Inexpliqué ne signifie pas fabriqué",
+                "scene": "Dans le cabinet d’Armand, Serge relit une ancienne conclusion restée incertaine et demande si l’absence d’explication prouvait qu’il avait menti. Le médecin distingue l’incertitude de ce document, les éléments qui ont établi le diagnostic antérieur et les symptômes qu’il faut encore évaluer. Aucun contenu symptomatique ou procédé de tromperie n’est détaillé.",
+                "development": "Frontières OMS avec détresse corporelle, hypocondrie et symptômes dissociatifs : une personne peut souffrir sans cause encore identifiée et sans fabrication volontaire. Examens normaux ou demande insistante ne démontrent pas la tromperie. La simulation liée à un intérêt externe évident ne se confond pas automatiquement avec 6D50. Trois appuis : distinguer ce que le compte rendu conclut et ce qui reste ouvert ; demander une clarification au médecin ; transmettre les faits actuels sans se diagnostiquer ni accuser autrui.",
+                "ending": "Armand explique que le diagnostic de Serge reste établi mais que ce document incertain ne suffit pas à conclure sur tout. Ils conviennent de rassembler les informations utiles dans un suivi coordonné.",
+                "next": "Cette coordination doit devenir concrète pour éviter que les différents interlocuteurs répètent des décisions à partir d’informations partielles.",
+                "source_refs": [
+                  "oms-cddr",
+                  "oms-cddr-hrb",
+                  "berar-2021"
+                ],
+                "diagnostic_stage": "known"
+              },
+              {
+                "number": 4,
+                "focus": "Coordination et prévention des soins inutiles",
+                "scene": "Serge apporte les documents dont il dispose à Armand. Deux démarches de soin risquent de se superposer faute d’un échange clair entre professionnels. Le médecin examine leur utilité et organise les transmissions nécessaires dans le cadre applicable ; Serge n’a pas à choisir seul un acte à supprimer.",
+                "development": "Le trouble peut entraîner des investigations ou traitements inutiles et des dommages iatrogènes. Aucun examen précis, procédure dangereuse ni conseil pour contourner les soins. Trois appuis : communiquer les informations disponibles ; demander qui coordonne les décisions ; faire expliquer les prochaines démarches et les modalités de recours si un problème nouveau apparaît. La coordination n’interdit ni second avis légitime ni accès urgent.",
+                "ending": "Les professionnels disposent des éléments nécessaires et Armand clarifie les démarches retenues. Serge note un interlocuteur et un prochain point. Le calendrier du groupe peut reprendre sans que ses membres arbitrent ses soins.",
+                "next": "Une question du médecin sur les informations antérieures lui laisse cependant une crainte de blâme, à reprendre plutôt que rompre le suivi.",
+                "source_refs": [
+                  "oms-cddr",
+                  "oms-cddr-hrb",
+                  "berar-2021",
+                  "mayo-soins"
+                ],
+                "diagnostic_stage": "known"
+              },
+              {
+                "number": 5,
+                "focus": "Peur du blâme et alliance",
+                "scene": "Avant l’entretien avec Inès, Serge ouvre le message de confirmation et songe à annuler : il a mal vécu une question précise d’Armand sur les informations corrigées. Il vient et dit qu’il a eu peur d’être considéré comme quelqu’un à punir. Inès entend ce vécu puis reprend avec lui les faits et les besoins de soin.",
+                "development": "Risque de rupture d’alliance choisi pour ce personnage, sans présenter tout soignant comme accusateur ou toute question comme violence. Une attitude non punitive ne supprime pas la nécessité de vérifier les faits. Trois appuis : dire ce qui a été ressenti comme un reproche ; demander le sens d’une question clinique ; convenir d’une suite sans exiger de récit public ni confession exhaustive. Les données ne prouvent pas une supériorité thérapeutique universelle de cette démarche.",
+                "ending": "L’entretien a lieu, Inès clarifie avec lui l’objet de la vérification et les modalités de coordination avec Armand. Serge maintient le contact ; sa gêne persiste mais ne devient pas une annulation silencieuse.",
+                "next": "Le retard accumulé sur le calendrier doit désormais être reconnu auprès de Mireille sur le plan des engagements, sans transformer le groupe en tribunal médical.",
+                "source_refs": [
+                  "oms-cddr",
+                  "berar-2021",
+                  "eastwood-2008",
+                  "mayo-soins"
+                ],
+                "diagnostic_stage": "known"
+              },
+              {
+                "number": 6,
+                "focus": "Retentissement sur les engagements",
+                "scene": "Mireille et Serge regardent les cases encore vides du calendrier dans la résidence. Il a promis une version complète alors que ses démarches de soin et ses hésitations ont laissé des tâches en attente. Elle demande ce qu’il peut réellement prendre en charge cette semaine, pas une preuve de diagnostic.",
+                "development": "Retentissement fonctionnel individuel : restaurer un engagement stable ne consiste pas à tout promettre ni à invoquer le trouble pour supprimer ses responsabilités. Trois appuis : séparer tâche terminée et tâche en attente ; convenir d’un rôle plus limité et daté ; prévoir un relais pratique accepté. L’aptitude professionnelle n’est ni déduite du diagnostic ni évaluée par un calendrier.",
+                "ending": "Serge prend en charge la mise en page des dates confirmées, Mireille confie à un autre adulte volontaire la collecte des derniers horaires. Une première version partielle est envoyée ; les rôles sont explicites.",
+                "next": "Claude répond à la demande de café. Une présence amicale peut aider à garder une place ordinaire, mais elle aura ses propres limites.",
+                "source_refs": [
+                  "oms-cddr",
+                  "oms-cddr-hrb",
+                  "mayo-soins"
+                ],
+                "diagnostic_stage": "known"
+              },
+              {
+                "number": 7,
+                "focus": "Soutien choisi sans surveillance",
+                "scene": "Claude accepte un café à une heure précise mais indique qu’il ne peut pas vérifier les récits médicaux de Serge ni l’accompagner à chaque rendez-vous. Serge aimerait cette assurance ; il accepte pourtant la limite et lui parle aussi de la mise en page du calendrier.",
+                "development": "Soutien relationnel distinct du diagnostic et du contrôle de sincérité. Trois appuis : formuler une aide concrète et limitée ; accepter un refus sans l’interpréter comme abandon des soins ; réserver les questions médicales aux professionnels. Claude n’accède pas au dossier, ne teste pas les symptômes et ne récompense pas un aveu. Toute participation aux soins demande le cadre et l’accord appropriés.",
+                "ending": "Le café a lieu et se termine à l’heure convenue. Serge garde les questions cliniques pour ses soignants ; Claude peut rester un ami sans prendre une fonction de surveillance.",
+                "next": "Lorsqu’une gêne physique nouvelle apparaît ensuite, Serge doit utiliser ce relais médical plutôt que demander à Claude de trancher sa réalité.",
+                "source_refs": [
+                  "oms-cddr",
+                  "oms-cddr-hrb",
+                  "mayo-soins"
+                ],
+                "diagnostic_stage": "known"
+              },
+              {
+                "number": 8,
+                "focus": "Préserver les soins légitimes",
+                "scene": "Chez lui, Serge ressent une gêne physique nouvelle et hésite à contacter Armand parce qu’il craint de ne plus être cru. Il utilise les modalités prévues et décrit honnêtement ce qu’il éprouve. Le médecin évalue la situation, organise l’examen nécessaire et le reçoit effectivement. Aucun mécanisme de production de symptôme n’est raconté et aucun signe d’urgence n’est mis en attente.",
+                "development": "Un trouble factice peut coexister avec une affection authentique ; le diagnostic ne justifie pas de rejeter chaque plainte ni de présumer sa cause. Trois appuis : signaler un changement réel avec les informations disponibles ; suivre l’orientation médicale ; demander la conduite à tenir si cela évolue. Le professionnel décide de l’utilité des soins. Si le rédacteur introduit un signe de danger immédiat, il doit montrer le recours urgent effectif, pas attendre ce rendez-vous.",
+                "ending": "L’évaluation a lieu et Armand précise la suite nécessaire sans attribuer automatiquement la gêne au trouble factice. Serge prévient Mireille qu’il doit décaler sa correction de mise en page, sans exposer les détails du soin.",
+                "next": "Cette consultation fait aussi émerger un sommeil perturbé et un moral bas, qui demanderont un entretien spécifique et non une explication automatique par 6D50.",
+                "source_refs": [
+                  "oms-cddr",
+                  "oms-cddr-hrb",
+                  "berar-2021"
+                ],
+                "diagnostic_stage": "known"
+              },
+              {
+                "number": 9,
+                "focus": "Évaluer la santé psychique associée",
+                "scene": "Au point clinique organisé après la consultation, Serge explique qu’il dort mal et manque d’élan devant le calendrier, même lorsque la tâche est claire. Inès et Armand évaluent ces changements dans leurs rôles respectifs. La scène distingue ce qu’il rapporte de ce que l’équipe peut conclure.",
+                "development": "Les comorbidités et autres difficultés sont possibles, non déduites du diagnostic. Aucun trouble dépressif, trouble de personnalité, psychose ou passé traumatique n’est ajouté. Trois appuis : situer la période du changement ; en décrire l’impact quotidien ; suivre la réévaluation proposée. Une souffrance psychique ne devient pas un signe de tromperie ni une preuve d’intention suicidaire. Tout besoin urgent éventuellement identifié doit recevoir son relais dans la scène.",
+                "ending": "Un point de suivi est fixé et Serge reçoit des modalités claires de contact si son état change. La mise en page reste limitée à la tâche convenue avec Mireille ; le groupe ne mesure pas son humeur.",
+                "next": "Serge souhaite maintenant comprendre ce que le suivi psychothérapeutique peut viser et ce qu’aucun soin ne peut lui promettre.",
+                "source_refs": [
+                  "oms-cddr",
+                  "oms-cddr-hrb",
+                  "berar-2021",
+                  "mayo-soins"
+                ],
+                "diagnostic_stage": "known"
+              },
+              {
+                "number": 10,
+                "focus": "Objectifs de soin et preuves limitées",
+                "scene": "À la consultation suivante, Serge demande si une thérapie pourrait garantir qu’il ne transmettra plus jamais une information inexacte. Inès précise les objectifs individualisés du travail, tandis qu’Armand reste responsable des décisions médicales. Ils lui expliquent les limites des connaissances et la nécessité de réévaluer.",
+                "development": "Enjeu thérapeutique : littérature surtout constituée de cas et séries, pas de protocole universel démontré. Trois appuis : demander l’objectif précis d’une démarche ; discuter ses limites et les difficultés à signaler ; convenir d’une prochaine réévaluation. Aucun médicament, posologie, taux de réussite ni promesse de guérison. Les appuis d’organisation ne sont pas une psychothérapie autonome et un traitement d’une éventuelle autre maladie ne prouve pas un effet sur 6D50.",
+                "ending": "Serge accepte de poursuivre le travail convenu, avec des questions clarifiées et une prochaine discussion prévue. Il envoie à Mireille la version relisible du calendrier, sans y voir une preuve que le trouble serait terminé.",
+                "next": "Le retour favorable du groupe sera suivi d’un moment où l’ancienne manière de solliciter de l’attention lui paraît de nouveau attirante.",
+                "source_refs": [
+                  "oms-cddr",
+                  "eastwood-2008",
+                  "liu-2025",
+                  "mayo-soins"
+                ],
+                "diagnostic_stage": "known"
+              },
+              {
+                "number": 11,
+                "focus": "Fluctuations et retour d’une difficulté",
+                "scene": "Après une relecture favorable du calendrier, Serge commence un message à son médecin et remarque l’envie de présenter sa santé de façon inexacte pour obtenir davantage de présence. Il ne transmet pas ce récit. Il contacte l’équipe par le canal convenu pour dire cette difficulté, sans détailler de fausse plainte ni de méthode ; un échange clinique a réellement lieu.",
+                "development": "Évolution incertaine et maintien du soin : une période plus simple ne prouve pas la guérison, une difficulté revenue n’efface pas toutes les décisions responsables. Trois appuis : signaler directement le besoin et l’envie de déformer ; reprendre le cadre avec l’équipe ; maintenir le suivi au lieu de juger seul sa guérison ou son échec. Pas de défi d’honnêteté, score amateur, scénario de simulation ni idée de se blesser. L’équipe apprécie les besoins actuels.",
+                "ending": "Serge a transmis une difficulté réelle plutôt qu’une information médicale inexacte. L’équipe reprend avec lui la demande d’appui et les modalités de suivi. Il corrige la dernière date signalée par Mireille, sans présenter cet échange réussi comme une garantie.",
+                "next": "Le calendrier peut être finalisé et accepté ; le prochain contact clinique reste fixé au-delà de la livraison.",
+                "source_refs": [
+                  "oms-cddr",
+                  "oms-cddr-hrb",
+                  "mayo-soins"
+                ],
+                "diagnostic_stage": "known"
+              },
+              {
+                "number": 12,
+                "focus": "Participation ordinaire et suivi durable",
+                "scene": "Mireille confirme que le calendrier final, avec ses dates et relais, est accepté par le groupe adulte. Serge le range dans le dossier de la résidence et répond sur la tâche accomplie. Claude lui propose de parler d’un livre lors d’un prochain café ; Serge conserve son rendez-vous de suivi sans demander au groupe de certifier son rétablissement.",
+                "development": "Clôture du projet et continuité des soins, pas nouveau symptôme ni preuve d’absence de risque. Trois appuis : fermer les engagements matériels ; garder le prochain contact de soin et les questions ouvertes ; choisir une activité ordinaire pour son intérêt propre. Ni stabilité de l’emploi, ni confiance générale, ni guérison ne sont garanties par le calendrier. Le groupe peut compter sur un rôle plus explicite sans devenir responsable de la santé.",
+                "ending": "Le calendrier est livré, ses tâches et relais sont acceptés. Serge garde sa prochaine consultation et envisage le café selon la disponibilité de Claude. Il a une contribution concrète et une demande d’aide plus directe, avec des difficultés qui peuvent encore revenir.",
+                "next": "La série se ferme sur le calendrier stabilisé, pas sur une guérison. Les accès légitimes aux soins, la coordination et la responsabilité restent ouverts.",
+                "source_refs": [
+                  "oms-cddr",
+                  "oms-cddr-hrb",
+                  "mayo-soins"
+                ],
+                "diagnostic_stage": "known"
+              }
+            ]
+          }
+        },
+        "allowed_outputs": [
+          "editorial/clinical/serge.json"
+        ],
+        "output_baseline": {
+          "editorial/clinical/serge.json": null
+        }
+      },
+      "snapshot_sha256": "b0e478dd0a4187d91f454ba74900dd448bdd6a4bb8d764def4937046998835a5",
+      "status": "active",
+      "token_sha256": "e7b4ceb4dab3ca30d34be77355dd1441b856546db4f01b69e2ff910d9474a6fb",
+      "heartbeat_at": "2026-11-10T10:07:58Z",
+      "expires_at": "2026-11-10T10:37:58Z"
+    },
+    "77dd425a972b49fe9b814b4fe20000fb": {
+      "id": "77dd425a972b49fe9b814b4fe20000fb",
+      "character_id": "florence",
+      "role": "story",
+      "owner": "story_florence",
+      "created_at": "2026-11-10T10:08:13Z",
+      "snapshot": {
+        "prompt_file": "editorial/agents/stories.md",
+        "prompt": "# Agent rédacteur d’histoires\n\nUn vrai sous-agent ChatGPT écrit un personnage entier. Il est distinct de son créateur. Plusieurs personnages peuvent être rédigés en parallèle ; les douze épisodes d’un même personnage s’écrivent dans l’ordre. Aucun appel de modèle par API ni production GitHub Actions.\n\nLire `editorial_pipeline.py brief --job <job>`, la charte, l’article modèle d’alexithymie en couple, le dossier individuel et le design gelé. Respecter leurs références et la chronologie du diagnostic. Recopier exactement la biographie et les cinq repères validés, et reprendre chaque aspect prévu dans `clinical_focus`. Ne pas modifier le dossier ou le plan en cours de rédaction ; signaler un problème au pilote.\n\nÉcrire uniquement `editorial/clinical/<id>.json`. Conserver tout épisode déjà sauvegardé après une interruption. Vérifier l’existence du manuscrit et relire ses raccords avant d’ajouter la suite. Sauvegarder chaque épisode complet puis exécuter `checkpoint` avec la mission et son jeton. Le fichier contient `character_id`, `bio`, `profile_topics`, `episodes` ; le brief donne les champs exacts de chaque épisode.\n\nTrame obligatoire, format 2 :\n\n1. Scène d’ouverture d’au moins 180 mots, sans intertitre, illustrant l’aspect précis de l’épisode.\n2. Introduction pédagogique autonome de 40 à 90 mots dans `clinical_intro`, distincte de l’explication développée dans l’article.\n3. Section `explanation` développant le mécanisme (au moins 25 mots).\n4. Section `manifestations`, titre « Comment … ? », trois points comprenant chacun un intertitre, une explication et deux exemples concrets.\n5. Section `strategies`, titre « 3 techniques pour … », trois points comprenant chacun un objectif, un exercice en trois actions et un bénéfice possible.\n6. Retour à la scène avec `ending_title` et `ending` ; une décision et sa conséquence réelle, sans guérison artificielle.\n7. `conclusion` d’au moins 25 mots, affichée après le séparateur.\n8. `mirror` : un ou deux paragraphes de 40 à 160 mots pour « Du côté des proches », ancrés dans la scène avec un geste ou une parole possible.\n\nAu moins 550 mots au total, trois repères d’épisode, titre centré sur le sujet et non sur le prénom, description de 155 caractères maximum, au moins deux références autorisées dont la source primaire. Documenter `continuity.choice` et `continuity.next` après chaque épisode. Les références restent dans les champs éditoriaux : aucune bibliographie publique dans le récit.\n\nLes aides du quotidien ne remplacent pas un soin. Aucun seuil d’autodiagnostic, posologie, exercice dangereux, exposition imposée, récompense pour parler, souvenir forcé, réconciliation obligatoire ou promesse de guérison. Respecter les relais professionnels et les procédures réelles de sécurité. Les proches ne deviennent ni diagnosticiens ni thérapeutes. La fiction décrit une présentation individuelle et ne transforme pas une hypothèse en mécanisme scientifique reconnu.\n\nRelire les raccords, les décisions, les douze aspects et la fin de l’enjeu de série. Exécuter `clinical_agent_contracts.py story <id>` puis `editorial_pipeline.py finish`. Le manuscrit passe alors à un relecteur indépendant. Ne pas écrire son propre rapport de relecture, intégrer, committer ou publier. En cas de retour, corriger les épisodes concernés, puis demander une nouvelle relecture complète liée aux nouvelles empreintes.\n",
+        "inputs": {
+          "data/clinical_catalog.json": "ea545ea8ad5aaa94b2b2e45e2816cde36bc101dc205b0da50e9303a12015cefa",
+          "data/clinical_sources.json": "fdaee525b573758c9f0f33cb52b62bfb2f077402336475a6f859762fea48e6e6",
+          "editorial/clinical/additional_characters.json": "8834d18f0c86a439357f6f776429d57b23c4acab8b88b5c55d1c3dacd651ada3",
+          "editorial/clinical/charter.md": "8032bcae9a54b787febdbc3a99e8811893663c9f93dc323b0108e07c3849cb0b",
+          "editorial/automation/policy.json": "883ae80b4685fbc1365af6494b693358da050e2266554992f11d12dcbde6c1d0",
+          "scripts/clinical_editorial.py": "f1fc7eb80b0eca35fad58925b323b5dee69bc738d3df031a41e465a64e3342d3",
+          "editorial/automation/legacy-publications.json": "974d070654ecad7d2408ecfe893a767fa97352922acca107b768b63a31277ceb",
+          "scripts/clinical_agent_contracts.py": "65f69034e51733a15a24b9e93e3fc8beb7ce545db7736d81a160a52218a3f6e1",
+          "editorial/agents/stories.md": "7725d5f492253cfcee95427c76114fe739c83204e8c7187959309b72da39eece",
+          "editorial/clinical/designs/florence.json": "6ae9569ebf637c8a13c521907bb7256397c86029d0d2143ee2b5784239926f3a",
+          "editorial/clinical/dossiers/florence.json": "366093c6a06e703ff6264dcd930b54e345e2aee22d900fedd6212b231184110c"
+        },
+        "data": {
+          "clinical_brief": {
+            "agent_id": "redaction-florence",
+            "character": {
+              "id": "florence",
+              "name": "Florence",
+              "code": "6D51",
+              "related_codes": [],
+              "wave": 20,
+              "diagnosis": {
+                "timing": "established",
+                "episode": null
+              },
+              "canon": {
+                "age": 41,
+                "setting": "Correctrice dans un service municipal qui prépare un cahier de dessins ouvert aux habitants.",
+                "independent_goal": "Garder des engagements concrets hors de la situation de protection, dans un cadre validé par les équipes compétentes.",
+                "tension": "Elle doit respecter les décisions de protection et ne peut pas négocier leur application avec une personne exposée.",
+                "supports": "Équipe clinique spécialisée et professionnels chargés de la protection de la personne exposée.",
+                "trajectory": "Le diagnostic antérieur et la sécurité sont posés comme faits du canon. La narration se tient hors des scènes de fabrication et suit responsabilité et prise en charge.",
+                "guardrail": "Aucun détail de falsification, d'accès ou de maltraitance. La sécurité et l'autonomie de la personne exposée sont prioritaires.",
+                "occupation": "correctrice"
+              },
+              "sources": [
+                "https://icd.who.int/browse/2026-01/mms/fr#775605963",
+                "https://www.who.int/publications/i/item/9789240077263"
+              ],
+              "research_status": "prise_en_charge_a_documenter"
+            },
+            "direction": "Florence, 41 ans, est correctrice dans un service municipal qui prépare le cahier de dessins « Regards de quartier », ouvert aux habitants. Elle aime les légendes courtes et lit les épreuves à voix basse ; son métier ne sert jamais de métaphore à la tromperie clinique. Son travail consiste seulement à corriger les textes et à transmettre les épreuves à sa collègue adulte Cathy, coordinatrice éditoriale. La collecte et les échanges avec les participants restent gérés par le service, sans inventer d’accès ou de règle professionnelle. Ce cadre de travail est déjà validé par les équipes compétentes, conformément au canon, sans annoncer quelle autorité ni quelle règle juridique l’a fixé. La docteure Derain, psychiatre, et Marc, psychologue de son équipe spécialisée, assurent le suivi de Florence. Nora est la professionnelle référente de protection ; sa fonction exacte, son service et un éventuel mandat judiciaire ne sont pas inventés. Le diagnostic de Florence est antérieur à la série. La personne exposée demeure hors scène, sans âge, genre, nom, lien familial, état de santé, histoire précise ou parole fabriqués. Sa sécurité, son autonomie et ses soins ne dépendent ni des confidences ni de la réussite de Florence ; les décisions de protection déjà effectives restent appliquées. Le récit nomme sobrement la tromperie médicalisée envers autrui comme fait clinique établi, mais n’en décrit aucun procédé, accès, instrument ou épisode passé. Florence est parfois tentée de parler de ses bonnes intentions plutôt que de sa responsabilité ; cette ambivalence se travaille avec les professionnels, sans déni narratif des faits et sans exiger de la personne exposée qu’elle écoute, pardonne ou rassure. Le cahier avance sur plusieurs semaines : première épreuve, légendes, sommaire, harmonisation, retour collectif par écrit, dernière correction et transmission. Une réussite éditoriale ne mesure jamais le risque clinique. Aucun rapprochement, levée de mesure, guérison ou issue pénale ne clôt la série. Les appuis du quotidien prévus pour les articles restent des gestes d’organisation et de préparation d’entretien, avec un soin réel ; ils ne sont pas un protocole de traitement.",
+            "dossier": {
+              "name": "Trouble factice imposé à autrui",
+              "aliases": [
+                "6D51",
+                "Factitious disorder imposed on another"
+              ],
+              "references": [
+                "oms-cddr",
+                "oms-mms-6d51",
+                "oms-cddr-hrb",
+                "rcpsych-cr223",
+                "rcpch-fii-2021"
+              ],
+              "points": [
+                "Recherche individuelle du 10 novembre 2026 : texte du PDF original OMS CDDR local lu p.593 et 596–597 ; page officielle OMS ISBN vérifiée sur le web. PDF CR223 ouvert au site du RCPsych, p.6 et 26–33 lues. RCPCH 2021 section 3.1 lue. MMS est le lien canonique, sans extraction de son interface dynamique. Paraphrases françaises de travail, sans valeur de traduction officielle. Les exemples dangereux présents dans les textes sources ne sont ni reproduits ni utilisés dans le plan.",
+                "OMS CDDR p.596 : 6D51 est attribué à la personne qui présente intentionnellement autrui comme malade ou atteint sur la base d’une tromperie identifiée, et non à la personne exposée. Les manifestations peuvent concerner les dimensions médicales, psychologiques ou comportementales. Aucun procédé n’est nécessaire pour expliquer cette distinction. Le diagnostic de Florence est établi avant la série ; ne pas le faire déduire de sa réserve, de sa honte ou de son métier.",
+                "OMS CDDR p.593 et 596 : une maladie réelle préexistante chez la personne exposée n’exclut pas le trouble. Inversement, 6D51 ne permet pas de considérer toutes les plaintes de cette personne comme fausses ni de supprimer ses soins légitimes. La série ne spécifie pas son état de santé et ne lui attribue ni parole ni diagnostic.",
+                "OMS CDDR p.596–597 : les conduites ne sont pas uniquement motivées par une récompense extérieure évidente. Cette formulation ne prouve pas un motif unique, une inconscience de la tromperie ou une absence de responsabilité. Une intention de recevoir de l’attention est une possibilité clinique, pas une explication universelle ; aucun récit d’enfance causal n’est inventé.",
+                "OMS CDDR p.597 : une forte inquiétude ou une insistance pour faire soigner un proche ne suffit pas à établir 6D51 ; il faut des éléments de tromperie intentionnelle. Le texte distingue également la dissimulation destinée uniquement à éviter les conséquences d’une maltraitance, et d’autres troubles avec symptômes psychotiques. Ne pas proposer au lecteur de diagnostiquer un parent à partir d’un désaccord médical.",
+                "OMS CDDR p.596–597 : la personne exposée peut subir une maltraitance et des interventions médicales inutiles. La qualification clinique de Florence ne gomme pas ces dommages et ne lui confère aucun droit sur les soins ou la parole d’autrui. La protection déjà effective est un fait canonique ; aucun dommage nouveau n’est fabriqué pour dramatiser la série.",
+                "RCPCH 2021, section 3.1 : le champ pédiatrique FII est plus large que le diagnostic adulte 6D51, qui exige une tromperie identifiée. Les présentations perplexes, l’inquiétude parentale, les symptômes fonctionnels et le trouble factice ne sont pas des synonymes. Cette source sert à éviter un amalgame ; elle ne permet pas de transformer la personne exposée du canon en enfant.",
+                "CR223 p.6 et 26–27 : le rapport inclut les personnes vulnérables dépendantes et préconise coordination et rôles explicites. Protection et évaluation psychiatrique ne se confondent pas. Le contexte est britannique ; aucune procédure, autorité ou obligation légale n’est transposée à la France.",
+                "CR223 p.29–31 : une alliance clinique peut travailler l’ambivalence sans cautionner le dommage. Le soin repose sur une évaluation individuelle et du risque ; la détresse propre peut être abordée sans détourner l’attention des besoins de la personne exposée.",
+                "CR223 p.29–33 : les preuves thérapeutiques sont limitées. Des résultats issus de cas ne donnent ni taux de réussite ni protocole garanti. Les autres problèmes identifiés nécessitent leurs propres soins. Aucun médicament, durée de traitement ou diagnostic associé n’est prescrit à Florence par le plan.",
+                "Choix narratifs prudents : la collègue Cathy reçoit des informations pratiques sur le cahier, pas une mission de protection. Les professionnels effectuent les échanges utiles dans leur cadre expliqué ; ils ne promettent pas un secret absolu et ne délèguent pas à Florence le pouvoir de filtrer les besoins de la personne exposée. En cas d’information nouvelle préoccupante, la réponse spécialisée doit apparaître dans la scène, jamais rester dans un conseil abstrait aux proches.",
+                "Les consultations de Florence sont réelles dans le récit : psychiatre et psychologue questionnent, reformulent et organisent les suites. Les difficultés de concentration ou de sommeil, si décrites, sont des vécus individuels et non des symptômes spécifiques de 6D51. Aucun aveu public, récit de procédé ou confession exhaustive n’est exigé comme technique.",
+                "Douze axes distincts : attribution du diagnostic et protection ; tromperie versus inquiétude ; motivations sans excuse ; autonomie d’autrui ; ambivalence dans l’alliance ; coordination et informations ; détresse propre ; besoins médicaux légitimes ; soutien social limité ; décision de soin et limites des preuves ; appréciation des changements ; participation ordinaire avec suivi. Les axes relationnels et de soin ne sont pas présentés comme douze critères diagnostiques.",
+                "Le cahier municipal est un objectif indépendant, pas une réparation offerte à la personne exposée. Sa réception finale clôt seulement la tâche. Les choix et la distance de la personne protégée restent intacts, et son parcours n’est pas utilisé pour prouver que Florence change. Aucun statut pénal, lien familial, accès à la personne ou issue judiciaire n’est ajouté."
+              ]
+            },
+            "references": {
+              "oms-cddr": {
+                "title": "OMS, descriptions cliniques de la CIM-11",
+                "url": "https://www.who.int/publications/i/item/9789240077263"
+              },
+              "oms-mms-6d51": {
+                "title": "OMS, CIM-11 MMS 2026-01, 6D51, lien canonique français",
+                "url": "https://icd.who.int/browse/2026-01/mms/fr#775605963"
+              },
+              "oms-cddr-hrb": {
+                "title": "OMS CDDR 2024, ISBN 9789240077263, introduction p.593 et trouble imposé à autrui p.596–597, document original déposé au HRB",
+                "url": "https://www.drugsandalcohol.ie/41519/1/WHO_Clinical_descriptions_and_diagnostic_requirements_ICD-11.pdf"
+              },
+              "rcpsych-cr223": {
+                "title": "Royal College of Psychiatrists, CR223, Assessment and management of adults and children in cases of fabricated or induced illness, novembre 2019, actualisé mars 2020, p.6 et 26–33",
+                "url": "https://www.rcpsych.ac.uk/docs/default-source/improving-care/better-mh-policy/college-reports/cr223.pdf?sfvrsn=658db320_2"
+              },
+              "rcpch-fii-2021": {
+                "title": "Royal College of Paediatrics and Child Health, Perplexing Presentations/Fabricated or Induced Illness in Children, 2021, section 3.1, distinction avec le diagnostic adulte",
+                "url": "https://childprotection.rcpch.ac.uk/wp-content/uploads/sites/6/2021/03/Perplexing-Presentations-FII-Guidance.pdf"
+              }
+            },
+            "charter": "# Charte de rédaction des parcours cliniques\n\nÉcrire en français pour des lecteurs sans formation clinique. Choisir pour chaque épisode un aspect du trouble qui se distingue des onze autres et que la scène permet de comprendre. Cet aspect peut être une manifestation, un mécanisme, un retentissement ou une particularité de l’évolution. Relier le titre, le résumé, l’explication et le dénouement à cet aspect. Une activité, une décision ou un rendez-vous fournit le cadre où il devient perceptible.\n\nSuivre le déroulé de l’[article de Youssef sur l’alexithymie en couple](../../content/posts/comprendre-et-maitriser-ses-emotions/alexithymie-en-couple.md).\n\n1. Ouvrir sur une scène d’au moins 180 mots, sans intertitre. Montrer ce que la difficulté change pour le personnage dans cette situation.\n2. Expliquer l’aspect et son lien avec le trouble dans une section dédiée. Partir d’une phrase générale autonome, puis revenir à ce qui se joue dans la scène.\n3. Montrer comment l’aspect se manifeste. Sous « Comment … ? », développer trois sous-parties avec une explication et deux exemples concrets chacune. Situer ce que l’on observe dans chaque exemple.\n4. Proposer trois techniques numérotées. Donner pour chacune un objectif, un exercice pratique en trois étapes et une explication de son utilité possible. Adapter les étapes au contexte et au niveau de risque, en incluant le recours à un professionnel lorsque nécessaire.\n5. Revenir à l’histoire sous un intertitre tiré de la scène. Montrer un essai ou une décision, sa conséquence et l’incertitude qui reste. Les difficultés peuvent revenir après un essai qui a fonctionné ailleurs.\n6. Conclure après un séparateur. Résumer ce que cet épisode permet de comprendre et inscrire le dénouement dans le parcours du personnage.\n7. Terminer par « Du côté des proches ». Relier leur point de vue à ce que la scène a montré.\n\nRespecter les faits du canon et la chronologie du diagnostic. Si l’évaluation est en cours, faire comprendre les difficultés sans annoncer le résultat à la place du professionnel. Un diagnostic connu entre dans le récit quand il aide à situer l’expérience. La personne conserve un métier ou un projet, des relations, des ressources, des préférences et le droit de ne pas tout partager.\n\nFonder chaque affirmation clinique sur les points vérifiés du dossier de sources. Renseigner les références dans le dossier et les champs éditoriaux de chaque épisode. Distinguer récit, vécu et description générale du trouble. Les articles ne donnent ni critères permettant de conclure sur soi ou un tiers, ni posologies, ni gestes dangereux, ni promesses de guérison. Une scène de fiction ne représente qu’une présentation possible. Proposer des adaptations discutées avec la personne et situer le recours aux professionnels quand le besoin est clinique ou urgent.\n\nDans « Du côté des proches », partir d’un geste, d’une parole ou d’un besoin visible dans la scène. Donner une réponse concrète que le proche pourrait essayer, dans des mots qu’il pourrait dire. Respecter son périmètre et la possibilité de se retirer ou de passer le relais. Aucun proche ne doit jouer au diagnosticien ou imposer un soin. Dans les situations d’emprise ou de danger, favoriser la sécurité et un appui spécialisé.\n\nRelecture par vague. Relire les douze ouvertures et leurs fins dans l’ordre, puis vérifier les faits cliniques et les propositions aux proches, chaque fois avec le dossier de sources. Annoter les erreurs et les choix qui ont fonctionné. Inscrire les leçons réutilisables dans la charte avant de générer le lot suivant. Une validation de structure ou une relecture par un modèle laisse ouverte la vérification éditoriale des faits et de leur contexte.\n\nLe lot pilote a montré que le premier intertitre explicatif peut varier. Commencer cette section par une phrase générale autonome que le site peut reprendre. Donner à la scène finale un titre tiré de son geste ou de sa décision. Distinguer un signe à discuter d’un épisode ou d’un diagnostic établi. Maintenir les procédures de sécurité réelles et le rôle des soignants, même lorsque le personnage essaie une façon différente de répondre à sa difficulté.\n\nLa deuxième vague distingue l’accord de la personne pour partager ses informations et les démarches de sécurité qui s’appliquent à la situation. Montrer dans le récit qui prévient le service compétent et quand, sans reporter cette action au conseil pour les proches. Pour une règle de métier, utiliser une source du domaine en plus du guide clinique. Le miroir reste ancré dans la scène et conserve sa limite de sécurité jusqu’à la dernière phrase.\n\nLa troisième vague vérifie que le trouble a un effet perceptible dans la vie du personnage dès les deux premières scènes. Montrer ce vécu sans inventaire de signes, description de pratiques dangereuses ou explication totale de sa personnalité. Suivre séparément les questions de santé et les décisions du quotidien. Reprendre les objets, lieux et engagements déjà nommés et fermer les questions concrètes dont la résolution est nécessaire à la scène suivante.\n\nAvant d’écrire, l’agent dédié au personnage fixe une direction dans son dossier. Il y précise ce qui distingue sa voix, son projet et son entourage, les faits cliniques qu’il mettra en scène et les interprétations à écarter. À la fin de chaque épisode, il inscrit la décision prise et ce qu’elle change pour la suite. Au dernier épisode, il résout l’enjeu de la série et garde la perspective du personnage au-delà de cette décision. La relecture reprend les douze scènes dans l’ordre et vérifie les conseils adressés aux proches en regard de chaque scène.\n\nLa quatrième vague distingue les repères du premier diagnostic et ceux des épisodes ultérieurs. Quand une situation urgente se présente, vérifier que son origine n’est pas présumée à partir du diagnostic connu. La première section s’ouvre sur une phrase générale qui fonctionne seule. Les détails de la scène viennent ensuite, après le passage que le site peut reprendre en introduction.\n\nLes histoires d’origine donnent la direction. Le titre commence par le sujet de l’article, une difficulté, une émotion ou un mécanisme réel dans une situation concrète. Le prénom figure séparément au-dessus du titre. Dans la présentation, nommer le trouble documenté et ce qu’il change pour ce personnage. Le premier mot-clé reprend son intitulé et les quatre autres indiquent des manifestations ou enjeux qui reviennent dans plusieurs épisodes. La fiche peut annoncer un diagnostic que le personnage découvre plus tard dans l’histoire.\n\nDans le résumé de la fiche et de la carte, relier une réaction de la scène à l’aspect abordé. Dans un récit d’enfance, vérifier l’apport de cette période pour comprendre le trouble et ouvrir sur d’autres contextes lorsque les sources l’appuient. Lors de la relecture, nommer l’aspect illustré dans chaque épisode, puis retrouver le moment où il devient visible et vérifier que les exemples et les techniques restent centrés sur lui. Renseigner les références dans le manuscrit et le dossier éditorial, sans bibliographie dans le fil de l’article.\n\nLa huitième vague vérifie qui peut savoir quoi, à quel moment et avec quel accord. En cas de changement préoccupant, distinguer le fait observable, ce qu’en dit le personnage, la réponse d’un proche et l’évaluation de l’équipe de soins. Faire apparaître le relais dans la scène où il se produit et en reprendre les conséquences dans la suivante.\n\nLa reprise suivante distingue le résumé affiché avant le récit et l’explication qui vient après. Éviter de recopier le résumé mot pour mot dans cette explication : celle-ci développe le mécanisme et le contraste rendu visible par la scène. Pour les articles d’origine, relire les manifestations et les exercices eux-mêmes ; trois intertitres ou une étiquette ne prouvent pas que les exemples, l’objectif, les trois actions et l’utilité sont présents. Une prose déjà complète peut être conservée. Garder une preuve de lecture liée à l’empreinte du corps et une seconde relecture des passages sensibles.\n",
+            "files": {
+              "manuscript": "editorial/clinical/florence.json",
+              "dossier": "editorial/clinical/dossiers/florence.json"
+            },
+            "manifest_fields": [
+              "character_id",
+              "bio",
+              "profile_topics",
+              "episodes"
+            ],
+            "profile_topics_count": 5,
+            "episode_fields": [
+              "number",
+              "slug",
+              "title",
+              "description",
+              "context",
+              "topics",
+              "clinical_focus",
+              "clinical_intro",
+              "opening",
+              "sections",
+              "ending_title",
+              "ending",
+              "mirror",
+              "sources",
+              "continuity",
+              "conclusion"
+            ],
+            "sections": {
+              "explanation": {
+                "fields": [
+                  "heading",
+                  "text"
+                ]
+              },
+              "manifestations": {
+                "fields": [
+                  "heading",
+                  "points"
+                ],
+                "count": 3,
+                "point_fields": [
+                  "heading",
+                  "text",
+                  "examples"
+                ],
+                "examples_count": 2
+              },
+              "strategies": {
+                "fields": [
+                  "heading",
+                  "points"
+                ],
+                "count": 3,
+                "point_fields": [
+                  "heading",
+                  "objective",
+                  "exercise",
+                  "benefit"
+                ],
+                "exercise_count": 3
+              }
+            },
+            "total_episodes": 12,
+            "continuity": [],
+            "ready_to_draft": true,
+            "instruction": "Rédiger les épisodes dans l’ordre et consigner les choix à reprendre."
+          },
+          "findings": [],
+          "existing_manuscript": null,
+          "design": {
+            "schema_version": 1,
+            "character_id": "florence",
+            "code": "6D51",
+            "article_format": 2,
+            "bio": "Florence a 41 ans et travaille comme correctrice dans un service municipal. Son Trouble factice imposé à autrui est déjà diagnostiqué ; une équipe spécialisée la suit, tandis que des professionnels assurent la protection de la personne exposée. Elle prépare les textes d’un cahier de dessins ouvert aux habitants, dans un cadre validé par les équipes compétentes. Elle veut tenir cet engagement sans en faire une preuve de guérison ni une raison de négocier les décisions de protection. Le cahier avance ; ses responsabilités demeurent.",
+            "profile_topics": [
+              "Trouble factice imposé à autrui",
+              "Responsabilité et protection",
+              "Parole clinique et ambivalence",
+              "Autonomie de la personne exposée",
+              "Coordination et suivi durable"
+            ],
+            "voice": "Florence parle avec précision, cherche souvent le mot le moins accusateur et peut reconnaître cette préférence en entretien. Elle aime lire une phrase à voix basse et garde des goûts propres. Aucune analogie ne relie une coquille éditoriale à un acte de maltraitance.",
+            "series_goal": "Remettre le cahier de dessins corrigé au service municipal tout en maintenant le suivi et les décisions de protection, sans demander à la personne exposée d’en valider la portée.",
+            "continuity_rules": [
+              "Florence, 41 ans, est correctrice dans un service municipal qui prépare le cahier de dessins « Regards de quartier », ouvert aux habitants. Elle aime les légendes courtes et lit les épreuves à voix basse ; son métier ne sert jamais de métaphore à la tromperie clinique. Son travail consiste seulement à corriger les textes et à transmettre les épreuves à sa collègue adulte Cathy, coordinatrice éditoriale. La collecte et les échanges avec les participants restent gérés par le service, sans inventer d’accès ou de règle professionnelle. Ce cadre de travail est déjà validé par les équipes compétentes, conformément au canon, sans annoncer quelle autorité ni quelle règle juridique l’a fixé. La docteure Derain, psychiatre, et Marc, psychologue de son équipe spécialisée, assurent le suivi de Florence. Nora est la professionnelle référente de protection ; sa fonction exacte, son service et un éventuel mandat judiciaire ne sont pas inventés. Le diagnostic de Florence est antérieur à la série. La personne exposée demeure hors scène, sans âge, genre, nom, lien familial, état de santé, histoire précise ou parole fabriqués. Sa sécurité, son autonomie et ses soins ne dépendent ni des confidences ni de la réussite de Florence ; les décisions de protection déjà effectives restent appliquées. Le récit nomme sobrement la tromperie médicalisée envers autrui comme fait clinique établi, mais n’en décrit aucun procédé, accès, instrument ou épisode passé. Florence est parfois tentée de parler de ses bonnes intentions plutôt que de sa responsabilité ; cette ambivalence se travaille avec les professionnels, sans déni narratif des faits et sans exiger de la personne exposée qu’elle écoute, pardonne ou rassure. Le cahier avance sur plusieurs semaines : première épreuve, légendes, sommaire, harmonisation, retour collectif par écrit, dernière correction et transmission. Une réussite éditoriale ne mesure jamais le risque clinique. Aucun rapprochement, levée de mesure, guérison ou issue pénale ne clôt la série. Les appuis du quotidien prévus pour les articles restent des gestes d’organisation et de préparation d’entretien, avec un soin réel ; ils ne sont pas un protocole de traitement.",
+              "Diagnostic connu aux douze épisodes. Aucun lien familial, âge ou genre de la personne exposée, récit d’acte, méthode, accès, statut pénal ou procédure judiciaire inventés. Le fait diagnostique est nommé sobrement dès les deux premières scènes, sans transformer la série en enquête.",
+              "Les professionnels agissent dans les scènes : entretiens réels, coordination effective de la psychiatre et de Nora à l’épisode 6, évaluation du sommeil à l’épisode 8, reprise à l’épisode 10. La personne exposée ne raconte rien pour permettre à Florence d’évoluer.",
+              "Les décisions de protection déjà effectives ne sont pas détaillées comme un protocole et ne sont jamais négociées avec la personne exposée. Aucune proximité, excuse transmise, pardon, visite, accès ou levée de mesure n’est proposé comme récompense.",
+              "Cathy coordonne le cahier et garde ses propres limites ; elle ne reçoit aucun rôle clinique. Le cadre professionnel validé concerne la correction des épreuves, sans règles de métier inventées. L’envoi final résout le projet et ne certifie pas l’état de santé.",
+              "Les trois appuis de chaque futur article devront rester modestes et sûrs : préparer une question, clarifier une tâche, respecter un rendez-vous ou utiliser un relais donné. Ils ne remplacent ni le traitement ni les décisions de protection ; aucune exposition ou mise à l’épreuve avec autrui."
+            ],
+            "episodes": [
+              {
+                "number": 1,
+                "focus": "Diagnostic établi et protection distincte",
+                "scene": "Florence relit la première épreuve de Regards de quartier avant son rendez-vous avec la docteure Derain. Elle voudrait commencer par le cahier ; la psychiatre reprend le trouble factice imposé à autrui déjà diagnostiqué et le cadre de protection effectif. Florence nomme sobrement sa responsabilité, sans raconter de procédé ni solliciter la personne exposée.",
+                "development": "Expliquer que le diagnostic appartient à Florence et non à la personne présentée comme malade. Dire qu’une tromperie intentionnelle médicalisée envers autrui a été établie antérieurement, sans scène de fabrication. La psychiatre vérifie avec Florence la compréhension des décisions en vigueur ; le soin de l’une et la sécurité de l’autre ont des objectifs distincts.",
+                "ending": "Florence conserve le rendez-vous suivant et confirme à Cathy une date réaliste pour l’épreuve. Le cadre de protection reste appliqué, sans modification obtenue en échange de sa participation au soin.",
+                "next": "L’épreuve suivante lui laisse une question à poser sur la différence entre inquiétude et tromperie.",
+                "source_refs": [
+                  "oms-cddr",
+                  "oms-cddr-hrb",
+                  "rcpsych-cr223"
+                ],
+                "diagnostic_stage": "known"
+              },
+              {
+                "number": 2,
+                "focus": "Inquiétude et tromperie identifiée",
+                "scene": "À l’entretien avec Marc, Florence commence par dire qu’elle voulait que la santé d’autrui soit prise au sérieux. Le psychologue distingue cette présentation de soi et les faits diagnostiques déjà établis, sans laisser une formule sur l’inquiétude effacer la responsabilité. Elle accepte de reprendre ses mots sans détail de méthode.",
+                "development": "La recherche de soins, l’inquiétude ou le désaccord avec un médecin ne suffisent pas à 6D51. Le dossier établi de Florence ne se réduit pourtant pas à une inquiétude : la tromperie a été identifiée. Distinguer aussi FII pédiatrique, plus large, et diagnostic adulte ; ne pas attribuer un âge à la personne exposée.",
+                "ending": "Florence dit à Marc qu’elle ne veut plus employer l’inquiétude comme seule description de ce qui a été établi. Elle termine les premières légendes du cahier ; ce résultat ne prouve rien sur sa santé.",
+                "next": "La distinction des faits permet d’examiner une autre justification : l’absence de bénéfice matériel.",
+                "source_refs": [
+                  "oms-cddr",
+                  "oms-cddr-hrb",
+                  "rcpsych-cr223",
+                  "rcpch-fii-2021"
+                ],
+                "diagnostic_stage": "known"
+              },
+              {
+                "number": 3,
+                "focus": "Motivations et responsabilité",
+                "scene": "En consultation, Florence affirme qu’elle n’avait rien à gagner matériellement. La docteure Derain lui demande ce que cette phrase laisse de côté. Florence cherche ses mots, sans qu’un motif unique soit posé à sa place. Sur son bureau attend le sommaire du cahier.",
+                "development": "Le trouble ne se définit pas par une tromperie uniquement motivée par une récompense extérieure évidente. L’absence alléguée de gain financier ne rend pas les conduites involontaires et n’en annule pas les conséquences. Les motivations sont explorées individuellement ; pas d’explication automatique par besoin d’attention, enfance ou amour.",
+                "ending": "Florence accepte de garder la question ouverte avec la psychiatre au lieu de conclure que l’absence de gain l’innocente. Le sommaire peut être envoyé à Cathy sans être présenté comme une preuve de réparation.",
+                "next": "La prochaine discussion porte sur la place qu’elle continue de vouloir occuper dans le récit de la personne exposée.",
+                "source_refs": [
+                  "oms-cddr",
+                  "oms-cddr-hrb",
+                  "rcpsych-cr223"
+                ],
+                "diagnostic_stage": "known"
+              },
+              {
+                "number": 4,
+                "focus": "Autonomie de la personne exposée",
+                "scene": "Florence dit à Marc qu’elle aimerait que la personne exposée sache qu’elle travaille sérieusement au suivi. Marc lui demande à quel besoin répondrait cette attente, sans proposer de contact. Florence reconnaît qu’elle espère être comprise et laisse ce souhait dans l’entretien.",
+                "development": "La personne exposée n’a pas à écouter, rassurer, pardonner ou participer à la prise en charge de Florence. Aucun état de santé ou désir de cette personne n’est déduit. Le plan de protection reste appliqué ; un besoin de reconnaissance appartient au travail clinique de Florence et n’autorise ni message ni intermédiaire.",
+                "ending": "Florence ne sollicite aucune transmission. Elle reprend le sommaire avec Cathy dans le seul cadre professionnel convenu et garde son attente de reconnaissance comme sujet de soin.",
+                "next": "Ne pas obtenir de confirmation extérieure rend le prochain rendez-vous plus difficile à maintenir.",
+                "source_refs": [
+                  "oms-cddr",
+                  "oms-cddr-hrb",
+                  "rcpsych-cr223"
+                ],
+                "diagnostic_stage": "known"
+              },
+              {
+                "number": 5,
+                "focus": "Ambivalence et alliance clinique",
+                "scene": "Florence envisage d’annuler l’entretien suivant : elle craint d’être confrontée à ce qu’elle préfère encore présenter autrement. Elle s’y rend et le dit d’emblée à Marc. Il accueille cette difficulté tout en revenant clairement aux responsabilités et aux limites effectives.",
+                "development": "L’ambivalence peut se travailler dans une alliance spécialisée sans accord avec le dommage ni récompense pour une confession. L’entretien ne réclame pas de récit détaillé des conduites. Aucune hésitation ordinaire n’est présentée comme preuve diagnostique ou comme mesure suffisante du risque.",
+                "ending": "Le rendez-vous a lieu et une prochaine étape est fixée. Florence prévient Cathy d’un délai pour l’harmonisation des légendes, sans lui confier la tâche de vérifier sa présence au soin.",
+                "next": "Ce délai conduit Florence à demander quels professionnels se coordonnent et quelles informations circulent.",
+                "source_refs": [
+                  "oms-cddr",
+                  "oms-cddr-hrb",
+                  "rcpsych-cr223"
+                ],
+                "diagnostic_stage": "known"
+              },
+              {
+                "number": 6,
+                "focus": "Coordination clinique et protection",
+                "scene": "À la consultation prévue, Florence demande à la docteure Derain si son assiduité suffit à modifier les décisions de protection. La psychiatre explique son rôle et celui de Nora. Elle réalise l’échange de coordination prévu avec Nora, puis précise à Florence la suite qui la concerne sans lui transmettre des informations privées sur la personne exposée.",
+                "development": "La coordination doit être réelle, avec rôles distincts, partage encadré et protection indépendante d’une impression favorable en consultation. Pas de règle juridique universelle ou de consentement absolu de Florence à toutes les transmissions ; le professionnel explique son cadre applicable. Aucun statut judiciaire ou nouvelle menace n’est inventé.",
+                "ending": "La psychiatre et Nora maintiennent leurs responsabilités respectives et confirment les modalités déjà effectives. Florence reçoit les consignes qui la concernent. Cathy reçoit seulement la date de l’épreuve harmonisée.",
+                "next": "La place laissée hors du rôle de responsable de la santé d’autrui permet à Florence de parler de sa propre détresse.",
+                "source_refs": [
+                  "oms-cddr",
+                  "oms-cddr-hrb",
+                  "rcpsych-cr223"
+                ],
+                "diagnostic_stage": "known"
+              },
+              {
+                "number": 7,
+                "focus": "Reconnaître sa propre détresse",
+                "scene": "Devant l’épreuve harmonisée, Florence n’avance plus et pense à la consultation. Avec Marc, elle commence à expliquer ce qui serait bon pour la personne exposée, puis s’arrête. Elle dit qu’elle se sent seule et déstabilisée ; Marc travaille cette souffrance comme la sienne, sans demander à autrui de la soulager.",
+                "development": "Faire place à la détresse propre peut appartenir au suivi sans transformer cette détresse en excuse causale. Solitude et malaise ne définissent pas 6D51 et ne suffisent pas à mesurer le risque. Le professionnel examine ce vécu et les appuis possibles, sans déléguer la réponse à la personne protégée.",
+                "ending": "Florence garde un entretien centré sur ses besoins de soin. Elle envoie à Cathy la partie terminée du cahier et annonce clairement ce qui reste. Elle ne demande ni nouvelles ni message de la personne exposée.",
+                "next": "Un changement de sommeil l’amène à poser une question de santé pour elle-même, sans l’attribuer automatiquement au trouble.",
+                "source_refs": [
+                  "oms-cddr",
+                  "oms-cddr-hrb",
+                  "rcpsych-cr223"
+                ],
+                "diagnostic_stage": "known"
+              },
+              {
+                "number": 8,
+                "focus": "Besoins médicaux légitimes",
+                "scene": "Florence parle de plusieurs mauvaises nuits à la docteure Derain et craint que son diagnostic rende sa parole médicale irrecevable. La psychiatre l’interroge sur ce qu’elle observe, son état général et le contexte ; elle organise un point de suivi plutôt que d’affirmer que tout est factice.",
+                "development": "Le diagnostic imposé à autrui n’est pas une preuve de trouble factice imposé à soi, ni une raison de refuser les soins propres. L’OMS indique qu’un trouble factice peut coexister avec une maladie réelle ; aucune comorbidité n’est pourtant inventée ici. La psychiatre fait une évaluation réelle et précise la suite, sans prescription détaillée.",
+                "ending": "Florence repart avec le point clinique convenu et les modalités pour signaler une aggravation. Elle propose au service une échéance compatible avec son travail en cours, sans transmettre son dossier.",
+                "next": "Elle retrouve ensuite Cathy pour une conversation dont elle doit respecter la limite entre soutien ordinaire et soin.",
+                "source_refs": [
+                  "oms-cddr",
+                  "oms-cddr-hrb",
+                  "rcpsych-cr223"
+                ],
+                "diagnostic_stage": "known"
+              },
+              {
+                "number": 9,
+                "focus": "Soutien social et limites",
+                "scene": "Lors d’une courte pause avec Cathy, Florence ramène plusieurs fois la conversation à ses rendez-vous. Cathy précise qu’elle peut parler du cahier et partager ce moment, mais ne peut pas devenir son interlocutrice clinique. Florence entend d’abord une distance personnelle, puis accepte le cadre dit.",
+                "development": "Le retentissement social de cette trajectoire est possible, non universel. Une collègue n’a à être ni confidente permanente, ni soignante, ni surveillante. Pas de stigmatisation de tout lien, pas de secret absolu demandé ; la personne exposée reste entièrement hors de cette relation ordinaire.",
+                "ending": "Florence réserve ses questions cliniques au rendez-vous et reprend avec Cathy les dernières légendes. La pause se termine sans promesse de disponibilité supplémentaire.",
+                "next": "Au suivi, elle demande quelles options de soin sont réellement adaptées, plutôt qu’une garantie de changement rapide.",
+                "source_refs": [
+                  "oms-cddr",
+                  "oms-cddr-hrb",
+                  "rcpsych-cr223"
+                ],
+                "diagnostic_stage": "known"
+              },
+              {
+                "number": 10,
+                "focus": "Choix de soin et preuves limitées",
+                "scene": "Florence apporte à la docteure Derain des questions sur les objectifs du travail avec Marc et sur ce qu’une prise en charge peut garantir. La psychiatre répond, précise les limites et réexamine le sommeil signalé auparavant. Aucune issue clinique ou prescription n’est préécrite.",
+                "development": "La prise en charge est individualisée ; les données pour les adultes auteurs de FII sont limitées et ne constituent pas un protocole garanti pour 6D51. Distinguer information médicale, choix du soin, évaluation du risque et décisions de protection. Aucun médicament, durée obligatoire ou taux de réussite n’est donné.",
+                "ending": "Florence reformule ce qui est attendu du suivi et garde les questions encore ouvertes. Elle transmet l’épreuve complète à Cathy pour un retour écrit collectif, sans annoncer qu’elle est désormais guérie.",
+                "next": "Un retour favorable sur le cahier risque ensuite de donner à un progrès matériel une portée clinique excessive.",
+                "source_refs": [
+                  "oms-cddr",
+                  "oms-cddr-hrb",
+                  "rcpsych-cr223"
+                ],
+                "diagnostic_stage": "known"
+              },
+              {
+                "number": 11,
+                "focus": "Changements observés et vigilance durable",
+                "scene": "Après un retour écrit favorable, Florence voudrait utiliser la qualité du cahier et sa présence aux rendez-vous comme preuves suffisantes que tout a changé. Au point prévu, elle le dit à la psychiatre. Celle-ci examine avec elle les éléments cliniques et la coordination de protection, sans évaluer la sécurité sur son travail éditorial.",
+                "development": "Une réussite professionnelle ou un discours approprié ne démontre pas une disparition du risque. Le suivi apprécie les changements dans leur contexte et leur durée ; les connaissances ne permettent pas une prédiction individuelle certaine. Pas de nouvel acte inventé, pas de guérison ou d’échec total annoncé.",
+                "ending": "Florence maintient le suivi et les décisions effectives. Elle reprend la dernière correction de légende demandée par Cathy, en lui donnant sa valeur exacte : une correction du cahier.",
+                "next": "La remise finale peut fermer l’engagement matériel tout en laissant soin et protection à leurs équipes.",
+                "source_refs": [
+                  "oms-cddr",
+                  "oms-cddr-hrb",
+                  "rcpsych-cr223"
+                ],
+                "diagnostic_stage": "known"
+              },
+              {
+                "number": 12,
+                "focus": "Participation ordinaire et suivi durable",
+                "scene": "Cathy confirme la réception du cahier corrigé et prêt pour la suite du travail municipal. Florence classe les épreuves, conserve son prochain rendez-vous et ne cherche pas à faire parvenir le résultat à la personne exposée. Elle choisit ensuite de lire un court recueil pour elle-même.",
+                "development": "Une activité indépendante peut garder sa valeur sans devenir réparation, preuve d’innocuité ou monnaie relationnelle. Le diagnostic ne résume pas Florence, et cette humanité ne réduit aucune responsabilité. Les soins et les décisions de protection demeurent effectifs ; l’autonomie de la personne exposée ne sert pas à clôturer la trajectoire de Florence.",
+                "ending": "Le cahier corrigé est transmis et accepté pour le travail du service. Florence conserve le suivi spécialisé, respecte le cadre établi et ouvre son livre. Aucune information, réconciliation ou levée de mesure concernant la personne exposée n’est annoncée.",
+                "next": "La série se termine sur un engagement tenu et un parcours de soin ouvert, sans promettre guérison ni accès à autrui.",
+                "source_refs": [
+                  "oms-cddr",
+                  "oms-cddr-hrb",
+                  "rcpsych-cr223"
+                ],
+                "diagnostic_stage": "known"
+              }
+            ]
+          }
+        },
+        "allowed_outputs": [
+          "editorial/clinical/florence.json"
+        ],
+        "output_baseline": {
+          "editorial/clinical/florence.json": null
+        }
+      },
+      "snapshot_sha256": "172fec397541fa2ddb2f15d7c5b99c2859361f82b0c5469734f4cef5a3dc2b74",
+      "status": "active",
+      "token_sha256": "818834e2632862c7c1411ef6eeeae5b71fc458b8a89fa16f1594bec7b051c471",
+      "heartbeat_at": "2026-11-10T10:08:13Z",
+      "expires_at": "2026-11-10T10:38:13Z"
     }
   },
-  "updated_at": "2026-11-10T10:03:17Z"
+  "updated_at": "2026-11-10T10:08:13Z"
 }

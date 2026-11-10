@@ -1,0 +1,51 @@
+{
+  "references": {
+    "oms-mms-6d51": {
+      "title": "OMS, CIM-11 MMS 2026-01, 6D51, lien canonique français",
+      "url": "https://icd.who.int/browse/2026-01/mms/fr#775605963"
+    },
+    "oms-cddr-hrb": {
+      "title": "OMS CDDR 2024, ISBN 9789240077263, introduction p.593 et trouble imposé à autrui p.596–597, document original déposé au HRB",
+      "url": "https://www.drugsandalcohol.ie/41519/1/WHO_Clinical_descriptions_and_diagnostic_requirements_ICD-11.pdf"
+    },
+    "rcpsych-cr223": {
+      "title": "Royal College of Psychiatrists, CR223, Assessment and management of adults and children in cases of fabricated or induced illness, novembre 2019, actualisé mars 2020, p.6 et 26–33",
+      "url": "https://www.rcpsych.ac.uk/docs/default-source/improving-care/better-mh-policy/college-reports/cr223.pdf?sfvrsn=658db320_2"
+    },
+    "rcpch-fii-2021": {
+      "title": "Royal College of Paediatrics and Child Health, Perplexing Presentations/Fabricated or Induced Illness in Children, 2021, section 3.1, distinction avec le diagnostic adulte",
+      "url": "https://childprotection.rcpch.ac.uk/wp-content/uploads/sites/6/2021/03/Perplexing-Presentations-FII-Guidance.pdf"
+    }
+  },
+  "dossier": {
+    "name": "Trouble factice imposé à autrui",
+    "aliases": [
+      "6D51",
+      "Factitious disorder imposed on another"
+    ],
+    "references": [
+      "oms-cddr",
+      "oms-mms-6d51",
+      "oms-cddr-hrb",
+      "rcpsych-cr223",
+      "rcpch-fii-2021"
+    ],
+    "points": [
+      "Recherche individuelle du 10 novembre 2026 : texte du PDF original OMS CDDR local lu p.593 et 596–597 ; page officielle OMS ISBN vérifiée sur le web. PDF CR223 ouvert au site du RCPsych, p.6 et 26–33 lues. RCPCH 2021 section 3.1 lue. MMS est le lien canonique, sans extraction de son interface dynamique. Paraphrases françaises de travail, sans valeur de traduction officielle. Les exemples dangereux présents dans les textes sources ne sont ni reproduits ni utilisés dans le plan.",
+      "OMS CDDR p.596 : 6D51 est attribué à la personne qui présente intentionnellement autrui comme malade ou atteint sur la base d’une tromperie identifiée, et non à la personne exposée. Les manifestations peuvent concerner les dimensions médicales, psychologiques ou comportementales. Aucun procédé n’est nécessaire pour expliquer cette distinction. Le diagnostic de Florence est établi avant la série ; ne pas le faire déduire de sa réserve, de sa honte ou de son métier.",
+      "OMS CDDR p.593 et 596 : une maladie réelle préexistante chez la personne exposée n’exclut pas le trouble. Inversement, 6D51 ne permet pas de considérer toutes les plaintes de cette personne comme fausses ni de supprimer ses soins légitimes. La série ne spécifie pas son état de santé et ne lui attribue ni parole ni diagnostic.",
+      "OMS CDDR p.596–597 : les conduites ne sont pas uniquement motivées par une récompense extérieure évidente. Cette formulation ne prouve pas un motif unique, une inconscience de la tromperie ou une absence de responsabilité. Une intention de recevoir de l’attention est une possibilité clinique, pas une explication universelle ; aucun récit d’enfance causal n’est inventé.",
+      "OMS CDDR p.597 : une forte inquiétude ou une insistance pour faire soigner un proche ne suffit pas à établir 6D51 ; il faut des éléments de tromperie intentionnelle. Le texte distingue également la dissimulation destinée uniquement à éviter les conséquences d’une maltraitance, et d’autres troubles avec symptômes psychotiques. Ne pas proposer au lecteur de diagnostiquer un parent à partir d’un désaccord médical.",
+      "OMS CDDR p.596–597 : la personne exposée peut subir une maltraitance et des interventions médicales inutiles. La qualification clinique de Florence ne gomme pas ces dommages et ne lui confère aucun droit sur les soins ou la parole d’autrui. La protection déjà effective est un fait canonique ; aucun dommage nouveau n’est fabriqué pour dramatiser la série.",
+      "RCPCH 2021, section 3.1 : le champ pédiatrique FII est plus large que le diagnostic adulte 6D51, qui exige une tromperie identifiée. Les présentations perplexes, l’inquiétude parentale, les symptômes fonctionnels et le trouble factice ne sont pas des synonymes. Cette source sert à éviter un amalgame ; elle ne permet pas de transformer la personne exposée du canon en enfant.",
+      "CR223 p.6 et 26–27 : le rapport inclut les personnes vulnérables dépendantes et préconise coordination et rôles explicites. Protection et évaluation psychiatrique ne se confondent pas. Le contexte est britannique ; aucune procédure, autorité ou obligation légale n’est transposée à la France.",
+      "CR223 p.29–31 : une alliance clinique peut travailler l’ambivalence sans cautionner le dommage. Le soin repose sur une évaluation individuelle et du risque ; la détresse propre peut être abordée sans détourner l’attention des besoins de la personne exposée.",
+      "CR223 p.29–33 : les preuves thérapeutiques sont limitées. Des résultats issus de cas ne donnent ni taux de réussite ni protocole garanti. Les autres problèmes identifiés nécessitent leurs propres soins. Aucun médicament, durée de traitement ou diagnostic associé n’est prescrit à Florence par le plan.",
+      "Choix narratifs prudents : la collègue Cathy reçoit des informations pratiques sur le cahier, pas une mission de protection. Les professionnels effectuent les échanges utiles dans leur cadre expliqué ; ils ne promettent pas un secret absolu et ne délèguent pas à Florence le pouvoir de filtrer les besoins de la personne exposée. En cas d’information nouvelle préoccupante, la réponse spécialisée doit apparaître dans la scène, jamais rester dans un conseil abstrait aux proches.",
+      "Les consultations de Florence sont réelles dans le récit : psychiatre et psychologue questionnent, reformulent et organisent les suites. Les difficultés de concentration ou de sommeil, si décrites, sont des vécus individuels et non des symptômes spécifiques de 6D51. Aucun aveu public, récit de procédé ou confession exhaustive n’est exigé comme technique.",
+      "Douze axes distincts : attribution du diagnostic et protection ; tromperie versus inquiétude ; motivations sans excuse ; autonomie d’autrui ; ambivalence dans l’alliance ; coordination et informations ; détresse propre ; besoins médicaux légitimes ; soutien social limité ; décision de soin et limites des preuves ; appréciation des changements ; participation ordinaire avec suivi. Les axes relationnels et de soin ne sont pas présentés comme douze critères diagnostiques.",
+      "Le cahier municipal est un objectif indépendant, pas une réparation offerte à la personne exposée. Sa réception finale clôt seulement la tâche. Les choix et la distance de la personne protégée restent intacts, et son parcours n’est pas utilisé pour prouver que Florence change. Aucun statut pénal, lien familial, accès à la personne ou issue judiciaire n’est ajouté."
+    ]
+  },
+  "direction": "Florence, 41 ans, est correctrice dans un service municipal qui prépare le cahier de dessins « Regards de quartier », ouvert aux habitants. Elle aime les légendes courtes et lit les épreuves à voix basse ; son métier ne sert jamais de métaphore à la tromperie clinique. Son travail consiste seulement à corriger les textes et à transmettre les épreuves à sa collègue adulte Cathy, coordinatrice éditoriale. La collecte et les échanges avec les participants restent gérés par le service, sans inventer d’accès ou de règle professionnelle. Ce cadre de travail est déjà validé par les équipes compétentes, conformément au canon, sans annoncer quelle autorité ni quelle règle juridique l’a fixé. La docteure Derain, psychiatre, et Marc, psychologue de son équipe spécialisée, assurent le suivi de Florence. Nora est la professionnelle référente de protection ; sa fonction exacte, son service et un éventuel mandat judiciaire ne sont pas inventés. Le diagnostic de Florence est antérieur à la série. La personne exposée demeure hors scène, sans âge, genre, nom, lien familial, état de santé, histoire précise ou parole fabriqués. Sa sécurité, son autonomie et ses soins ne dépendent ni des confidences ni de la réussite de Florence ; les décisions de protection déjà effectives restent appliquées. Le récit nomme sobrement la tromperie médicalisée envers autrui comme fait clinique établi, mais n’en décrit aucun procédé, accès, instrument ou épisode passé. Florence est parfois tentée de parler de ses bonnes intentions plutôt que de sa responsabilité ; cette ambivalence se travaille avec les professionnels, sans déni narratif des faits et sans exiger de la personne exposée qu’elle écoute, pardonne ou rassure. Le cahier avance sur plusieurs semaines : première épreuve, légendes, sommaire, harmonisation, retour collectif par écrit, dernière correction et transmission. Une réussite éditoriale ne mesure jamais le risque clinique. Aucun rapprochement, levée de mesure, guérison ou issue pénale ne clôt la série. Les appuis du quotidien prévus pour les articles restent des gestes d’organisation et de préparation d’entretien, avec un soin réel ; ils ne sont pas un protocole de traitement."
+}

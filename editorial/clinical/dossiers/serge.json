@@ -1,0 +1,60 @@
+{
+  "references": {
+    "oms-mms-6d50": {
+      "title": "OMS, CIM-11 MMS 2026-01, 6D50 Trouble factice imposé à soi-même, lien canonique",
+      "url": "https://icd.who.int/browse/2026-01/mms/fr#790764418"
+    },
+    "oms-cddr-hrb": {
+      "title": "OMS, CDDR 2024, ISBN 9789240077263, pages imprimées 593–596 : troubles factices et 6D50, original déposé au HRB",
+      "url": "https://www.drugsandalcohol.ie/41519/1/WHO_Clinical_descriptions_and_diagnostic_requirements_ICD-11.pdf"
+    },
+    "berar-2021": {
+      "title": "Bérar et al., 2021, A descriptive, retrospective case series of patients with factitious disorder imposed on self, BMC Psychiatry 21:588, étude française originale, méthodes/discussion/conclusion consultées",
+      "url": "https://link.springer.com/article/10.1186/s12888-021-03582-8"
+    },
+    "eastwood-2008": {
+      "title": "Eastwood et Bisson, 2008, Management of factitious disorders: a systematic review, résumé original, PMID18418027",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/18418027/"
+    },
+    "mayo-soins": {
+      "title": "Mayo Clinic, Factitious disorder — Diagnosis and treatment, information institutionnelle de soins, rubriques Treatment/Self-care consultées le 10 novembre 2026, avis clinique non essai",
+      "url": "https://www.mayoclinic.org/diseases-conditions/factitious-disorder/diagnosis-treatment/drc-20356034"
+    },
+    "liu-2025": {
+      "title": "Liu et al., 2025, A scoping review of treatment for factitious disorder (imposed on self), Psychiatry Research Communications 5:100216, résumé indexé seulement, DOI10.1016/j.psycom.2025.100216",
+      "url": "https://www.sciencedirect.com/science/article/pii/S2772598725000157"
+    }
+  },
+  "dossier": {
+    "name": "Trouble factice imposé à soi-même",
+    "aliases": [
+      "6D50",
+      "Factitious disorder imposed on self"
+    ],
+    "references": [
+      "oms-cddr",
+      "oms-mms-6d50",
+      "oms-cddr-hrb",
+      "berar-2021",
+      "eastwood-2008",
+      "mayo-soins",
+      "liu-2025"
+    ],
+    "points": [
+      "Recherche individuelle du 10 novembre 2026 : CDDR OMS original lu dans cddr.txt/PDF local, pages imprimées 593–596 ; lien source HRB ci-dessous. Paraphrases françaises de travail, non traduction officielle. Intitulé français confirmé dans un document OMS indexé ; interface MMS dynamique non extraite. Étude originale Bérar2021 : résumé, méthodes et discussion/conclusion lus sur le site éditeur. Eastwood2008 : résumé original PubMed lu. Mayo : information institutionnelle, pas une étude. Liu2025 : résumé indexé consulté, accès intégral éditeur refusé ; ne pas prétendre avoir lu le texte complet.",
+      "OMS p.593 : 6D50 exige une présentation intentionnellement trompeuse de signes, symptômes ou blessure, avec tromperie identifiée, puis une présentation de soi comme malade ou diminué. Une maladie préexistante peut coexister. Le comportement n’est pas uniquement motivé par des incitations externes évidentes et ne doit pas être mieux expliqué par un autre trouble mental. Le diagnostic de Serge est déjà établi, sans scène montrant comment il a produit ou falsifié quoi que ce soit.",
+      "OMS p.594–595 : un symptôme inexpliqué, des examens normaux, une demande insistante ou une incohérence ne suffisent pas à démontrer une tromperie intentionnelle. Les frontières avec détresse corporelle, hypocondrie et symptômes neurologiques dissociatifs sont importantes : ces vécus ne sont pas assimilés à une fabrication volontaire. L’épisode 3 explicite ce point sans liste de signes permettant aux proches de démasquer quelqu’un ni changement du diagnostic de Serge.",
+      "OMS p.593,595 : différence avec la simulation motivée par un bénéfice externe évident. Dire pas uniquement motivé par des avantages externes, plutôt que garantir l’absence de tout bénéfice. La motivation psychologique reste à explorer ; ne pas réduire le trouble au mensonge pour obtenir de l’attention, à la paresse, à une fraude ou à un trait moral. Aucun gain matériel, litige, statut pénal ou biographie explicative n’est inventé.",
+      "OMS p.594 : adoption d’un rôle de malade et recherche de l’attention soignante peuvent faire partie de la présentation. Chez Serge, le besoin de présence et la crainte de ne compter qu’en étant malade sont des choix de fiction discutés avec Inès. Aucune causalité traumatique, carence affective ou enfance supposée. Ni chaque demande de soutien ni le fait de consulter ne sont pathologisés.",
+      "OMS p.594 : les soins et investigations répétés peuvent exposer à des risques. Le récit montre un médecin coordonnateur qui apprécie l’utilité des actes et vérifie les informations ; il ne donne aucune liste d’examens à obtenir, détourner ou refuser. Aucun patient ni proche ne doit décider seul qu’un soin est inutile. La coordination préserve les consultations légitimes et l’accès aux urgences.",
+      "Bérar2021 : 49 dossiers adultes du CHU de Rennes, 1995–2019, étude rétrospective DSM-5 et hospitalière. Les auteurs discutent les risques iatrogènes, les ruptures de suivi et les faux positifs fondés sur des indices non spécifiques. Sélection hospitalière, données incomplètes, faible fréquence de preuves directes et absence de comparaison thérapeutique limitent généralisation et causalité. Des événements graves après annonce sont rapportés sans preuve que l’annonce les ait causés. Ne pas en faire un taux de risque individuel ou une méthode diagnostique applicable au lecteur.",
+      "La détresse de Serge et le caractère intentionnel de certaines informations inexactes ne s’annulent pas mutuellement. Corriger une information auprès du médecin est une action responsable de fiction ; cela ne constitue ni guérison, ni examen de sincérité, ni obligation d’aveu pour accéder aux soins. La peur du blâme peut gêner sa participation, mais n’est pas un critère universel ni une preuve de danger.",
+      "Mayo, Treatment/Self-care : propose une approche sans jugement, un professionnel principal coordonnant les soins et un travail psychothérapeutique adapté ; les proches gardent une relation ordinaire. Ces conseils institutionnels américains ne constituent pas un protocole français démontré. Les modalités de partage sont discutées dans le cadre applicable et avec l’accord requis ; aucun proche enquêteur, secret absolu ou surveillance permanente. Une envie de se faire du mal ou une urgence réelle impose une réponse professionnelle immédiate ; aucun exercice solitaire ne la remplace.",
+      "Eastwood2008 : 32 cas et 13 séries, données insuffisantes pour déterminer l’efficacité d’une approche ; absence de différence significative entre stratégies ne démontre ni leur équivalence ni leur inefficacité. Liu2025, résumé : 72 études, 107 participants, essentiellement cas cliniques, reporting limité, biais possibles de sélection/publication. Aucun taux de réussite, aucune psychothérapie garantie, aucune molécule, dose ou délai de guérison. Les gestes pratiques du plan ne sont pas des traitements validés de 6D50.",
+      "OMS p.593 et Bérar2021 : des problèmes médicaux et psychiatriques peuvent coexister. Une gêne nouvelle en épisode 8 donne lieu à une évaluation effective sans être présumée factice ; une humeur basse et un sommeil modifié en épisode 9 sont examinés séparément, sans dépression ou autre comorbidité inventée. Le récit n’a pas besoin de préciser le diagnostic somatique ni une prescription.",
+      "OMS p.594 : évolution insuffisamment documentée, pouvant être épisodique ou chronique ; les données ne permettent pas un pronostic individuel assuré. Le retour de l’envie de présenter une information inexacte en épisode 11 est discuté avec l’équipe avant tout nouvel envoi trompeur ; aucun procédé ni scénario de falsification. Un calendrier terminé ne certifie pas la fin du trouble.",
+      "Architecture : 1 correction responsable d’une information trompeuse ; 2 rôle de malade et place dans le lien ; 3 diagnostic différentiel sans soupçon automatique ; 4 coordination et prévention de l’iatrogénie ; 5 peur du blâme et maintien de l’alliance ; 6 retentissement sur les engagements ; 7 limites d’un soutien choisi ; 8 accès légitime pour un symptôme nouveau ; 9 évaluation de difficultés psychiques associées ; 10 choix de soin et limites des preuves ; 11 évolution et réapparition d’une difficulté ; 12 participation ordinaire et continuité. Les enjeux de prise en charge ne sont pas présentés comme douze symptômes."
+    ]
+  },
+  "direction": "Serge, 49 ans, agent d’accueil dans une résidence, remet sur pied un calendrier de promenades avec un groupe adulte. Son rôle porte sur les dates, les confirmations et la lisibilité du document, pas sur une décision médicale ni la sécurité des itinéraires. Mireille coordonne le groupe ; Claude est un ami adulte choisi ; le docteur Armand coordonne les soins avec Inès, psychologue. Le diagnostic est établi avant la série. Serge a du goût pour les horaires nets et les cartes pliées, mais trouve plus difficile de dire qu’il souhaite une présence sans se présenter comme plus malade. Cela reste sa trajectoire fictive, pas une explication universelle. Aucune maladie fabriquée, méthode, examen manipulé ou blessure ne sera décrit. La première scène montre qu’il corrige auprès du médecin une information de santé qu’il savait inexacte ; la nature de cette information reste omise. Les professionnels prennent en charge les corrections nécessaires et continuent d’examiner les symptômes réels ou nouveaux. La série suit plusieurs semaines : inventaire des dates, sélection des créneaux, répartition des tâches, première version, report, relecture et calendrier final accepté. La confiance ne revient pas par un aveu récompensé et le soin n’est jamais conditionné à une confession. Le groupe ne devient ni tribunal ni équipe de surveillance. Aucun droit aux soins n’est supprimé en raison du diagnostic. L’enjeu matériel se clôt ; la coordination clinique demeure."
+}

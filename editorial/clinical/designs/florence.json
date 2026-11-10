@@ -1,0 +1,195 @@
+{
+  "schema_version": 1,
+  "character_id": "florence",
+  "code": "6D51",
+  "article_format": 2,
+  "bio": "Florence a 41 ans et travaille comme correctrice dans un service municipal. Son Trouble factice imposé à autrui est déjà diagnostiqué ; une équipe spécialisée la suit, tandis que des professionnels assurent la protection de la personne exposée. Elle prépare les textes d’un cahier de dessins ouvert aux habitants, dans un cadre validé par les équipes compétentes. Elle veut tenir cet engagement sans en faire une preuve de guérison ni une raison de négocier les décisions de protection. Le cahier avance ; ses responsabilités demeurent.",
+  "profile_topics": [
+    "Trouble factice imposé à autrui",
+    "Responsabilité et protection",
+    "Parole clinique et ambivalence",
+    "Autonomie de la personne exposée",
+    "Coordination et suivi durable"
+  ],
+  "voice": "Florence parle avec précision, cherche souvent le mot le moins accusateur et peut reconnaître cette préférence en entretien. Elle aime lire une phrase à voix basse et garde des goûts propres. Aucune analogie ne relie une coquille éditoriale à un acte de maltraitance.",
+  "series_goal": "Remettre le cahier de dessins corrigé au service municipal tout en maintenant le suivi et les décisions de protection, sans demander à la personne exposée d’en valider la portée.",
+  "continuity_rules": [
+    "Florence, 41 ans, est correctrice dans un service municipal qui prépare le cahier de dessins « Regards de quartier », ouvert aux habitants. Elle aime les légendes courtes et lit les épreuves à voix basse ; son métier ne sert jamais de métaphore à la tromperie clinique. Son travail consiste seulement à corriger les textes et à transmettre les épreuves à sa collègue adulte Cathy, coordinatrice éditoriale. La collecte et les échanges avec les participants restent gérés par le service, sans inventer d’accès ou de règle professionnelle. Ce cadre de travail est déjà validé par les équipes compétentes, conformément au canon, sans annoncer quelle autorité ni quelle règle juridique l’a fixé. La docteure Derain, psychiatre, et Marc, psychologue de son équipe spécialisée, assurent le suivi de Florence. Nora est la professionnelle référente de protection ; sa fonction exacte, son service et un éventuel mandat judiciaire ne sont pas inventés. Le diagnostic de Florence est antérieur à la série. La personne exposée demeure hors scène, sans âge, genre, nom, lien familial, état de santé, histoire précise ou parole fabriqués. Sa sécurité, son autonomie et ses soins ne dépendent ni des confidences ni de la réussite de Florence ; les décisions de protection déjà effectives restent appliquées. Le récit nomme sobrement la tromperie médicalisée envers autrui comme fait clinique établi, mais n’en décrit aucun procédé, accès, instrument ou épisode passé. Florence est parfois tentée de parler de ses bonnes intentions plutôt que de sa responsabilité ; cette ambivalence se travaille avec les professionnels, sans déni narratif des faits et sans exiger de la personne exposée qu’elle écoute, pardonne ou rassure. Le cahier avance sur plusieurs semaines : première épreuve, légendes, sommaire, harmonisation, retour collectif par écrit, dernière correction et transmission. Une réussite éditoriale ne mesure jamais le risque clinique. Aucun rapprochement, levée de mesure, guérison ou issue pénale ne clôt la série. Les appuis du quotidien prévus pour les articles restent des gestes d’organisation et de préparation d’entretien, avec un soin réel ; ils ne sont pas un protocole de traitement.",
+    "Diagnostic connu aux douze épisodes. Aucun lien familial, âge ou genre de la personne exposée, récit d’acte, méthode, accès, statut pénal ou procédure judiciaire inventés. Le fait diagnostique est nommé sobrement dès les deux premières scènes, sans transformer la série en enquête.",
+    "Les professionnels agissent dans les scènes : entretiens réels, coordination effective de la psychiatre et de Nora à l’épisode 6, évaluation du sommeil à l’épisode 8, reprise à l’épisode 10. La personne exposée ne raconte rien pour permettre à Florence d’évoluer.",
+    "Les décisions de protection déjà effectives ne sont pas détaillées comme un protocole et ne sont jamais négociées avec la personne exposée. Aucune proximité, excuse transmise, pardon, visite, accès ou levée de mesure n’est proposé comme récompense.",
+    "Cathy coordonne le cahier et garde ses propres limites ; elle ne reçoit aucun rôle clinique. Le cadre professionnel validé concerne la correction des épreuves, sans règles de métier inventées. L’envoi final résout le projet et ne certifie pas l’état de santé.",
+    "Les trois appuis de chaque futur article devront rester modestes et sûrs : préparer une question, clarifier une tâche, respecter un rendez-vous ou utiliser un relais donné. Ils ne remplacent ni le traitement ni les décisions de protection ; aucune exposition ou mise à l’épreuve avec autrui."
+  ],
+  "episodes": [
+    {
+      "number": 1,
+      "focus": "Diagnostic établi et protection distincte",
+      "scene": "Florence relit la première épreuve de Regards de quartier avant son rendez-vous avec la docteure Derain. Elle voudrait commencer par le cahier ; la psychiatre reprend le trouble factice imposé à autrui déjà diagnostiqué et le cadre de protection effectif. Florence nomme sobrement sa responsabilité, sans raconter de procédé ni solliciter la personne exposée.",
+      "development": "Expliquer que le diagnostic appartient à Florence et non à la personne présentée comme malade. Dire qu’une tromperie intentionnelle médicalisée envers autrui a été établie antérieurement, sans scène de fabrication. La psychiatre vérifie avec Florence la compréhension des décisions en vigueur ; le soin de l’une et la sécurité de l’autre ont des objectifs distincts.",
+      "ending": "Florence conserve le rendez-vous suivant et confirme à Cathy une date réaliste pour l’épreuve. Le cadre de protection reste appliqué, sans modification obtenue en échange de sa participation au soin.",
+      "next": "L’épreuve suivante lui laisse une question à poser sur la différence entre inquiétude et tromperie.",
+      "source_refs": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "rcpsych-cr223"
+      ],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 2,
+      "focus": "Inquiétude et tromperie identifiée",
+      "scene": "À l’entretien avec Marc, Florence commence par dire qu’elle voulait que la santé d’autrui soit prise au sérieux. Le psychologue distingue cette présentation de soi et les faits diagnostiques déjà établis, sans laisser une formule sur l’inquiétude effacer la responsabilité. Elle accepte de reprendre ses mots sans détail de méthode.",
+      "development": "La recherche de soins, l’inquiétude ou le désaccord avec un médecin ne suffisent pas à 6D51. Le dossier établi de Florence ne se réduit pourtant pas à une inquiétude : la tromperie a été identifiée. Distinguer aussi FII pédiatrique, plus large, et diagnostic adulte ; ne pas attribuer un âge à la personne exposée.",
+      "ending": "Florence dit à Marc qu’elle ne veut plus employer l’inquiétude comme seule description de ce qui a été établi. Elle termine les premières légendes du cahier ; ce résultat ne prouve rien sur sa santé.",
+      "next": "La distinction des faits permet d’examiner une autre justification : l’absence de bénéfice matériel.",
+      "source_refs": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "rcpsych-cr223",
+        "rcpch-fii-2021"
+      ],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 3,
+      "focus": "Motivations et responsabilité",
+      "scene": "En consultation, Florence affirme qu’elle n’avait rien à gagner matériellement. La docteure Derain lui demande ce que cette phrase laisse de côté. Florence cherche ses mots, sans qu’un motif unique soit posé à sa place. Sur son bureau attend le sommaire du cahier.",
+      "development": "Le trouble ne se définit pas par une tromperie uniquement motivée par une récompense extérieure évidente. L’absence alléguée de gain financier ne rend pas les conduites involontaires et n’en annule pas les conséquences. Les motivations sont explorées individuellement ; pas d’explication automatique par besoin d’attention, enfance ou amour.",
+      "ending": "Florence accepte de garder la question ouverte avec la psychiatre au lieu de conclure que l’absence de gain l’innocente. Le sommaire peut être envoyé à Cathy sans être présenté comme une preuve de réparation.",
+      "next": "La prochaine discussion porte sur la place qu’elle continue de vouloir occuper dans le récit de la personne exposée.",
+      "source_refs": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "rcpsych-cr223"
+      ],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 4,
+      "focus": "Autonomie de la personne exposée",
+      "scene": "Florence dit à Marc qu’elle aimerait que la personne exposée sache qu’elle travaille sérieusement au suivi. Marc lui demande à quel besoin répondrait cette attente, sans proposer de contact. Florence reconnaît qu’elle espère être comprise et laisse ce souhait dans l’entretien.",
+      "development": "La personne exposée n’a pas à écouter, rassurer, pardonner ou participer à la prise en charge de Florence. Aucun état de santé ou désir de cette personne n’est déduit. Le plan de protection reste appliqué ; un besoin de reconnaissance appartient au travail clinique de Florence et n’autorise ni message ni intermédiaire.",
+      "ending": "Florence ne sollicite aucune transmission. Elle reprend le sommaire avec Cathy dans le seul cadre professionnel convenu et garde son attente de reconnaissance comme sujet de soin.",
+      "next": "Ne pas obtenir de confirmation extérieure rend le prochain rendez-vous plus difficile à maintenir.",
+      "source_refs": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "rcpsych-cr223"
+      ],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 5,
+      "focus": "Ambivalence et alliance clinique",
+      "scene": "Florence envisage d’annuler l’entretien suivant : elle craint d’être confrontée à ce qu’elle préfère encore présenter autrement. Elle s’y rend et le dit d’emblée à Marc. Il accueille cette difficulté tout en revenant clairement aux responsabilités et aux limites effectives.",
+      "development": "L’ambivalence peut se travailler dans une alliance spécialisée sans accord avec le dommage ni récompense pour une confession. L’entretien ne réclame pas de récit détaillé des conduites. Aucune hésitation ordinaire n’est présentée comme preuve diagnostique ou comme mesure suffisante du risque.",
+      "ending": "Le rendez-vous a lieu et une prochaine étape est fixée. Florence prévient Cathy d’un délai pour l’harmonisation des légendes, sans lui confier la tâche de vérifier sa présence au soin.",
+      "next": "Ce délai conduit Florence à demander quels professionnels se coordonnent et quelles informations circulent.",
+      "source_refs": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "rcpsych-cr223"
+      ],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 6,
+      "focus": "Coordination clinique et protection",
+      "scene": "À la consultation prévue, Florence demande à la docteure Derain si son assiduité suffit à modifier les décisions de protection. La psychiatre explique son rôle et celui de Nora. Elle réalise l’échange de coordination prévu avec Nora, puis précise à Florence la suite qui la concerne sans lui transmettre des informations privées sur la personne exposée.",
+      "development": "La coordination doit être réelle, avec rôles distincts, partage encadré et protection indépendante d’une impression favorable en consultation. Pas de règle juridique universelle ou de consentement absolu de Florence à toutes les transmissions ; le professionnel explique son cadre applicable. Aucun statut judiciaire ou nouvelle menace n’est inventé.",
+      "ending": "La psychiatre et Nora maintiennent leurs responsabilités respectives et confirment les modalités déjà effectives. Florence reçoit les consignes qui la concernent. Cathy reçoit seulement la date de l’épreuve harmonisée.",
+      "next": "La place laissée hors du rôle de responsable de la santé d’autrui permet à Florence de parler de sa propre détresse.",
+      "source_refs": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "rcpsych-cr223"
+      ],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 7,
+      "focus": "Reconnaître sa propre détresse",
+      "scene": "Devant l’épreuve harmonisée, Florence n’avance plus et pense à la consultation. Avec Marc, elle commence à expliquer ce qui serait bon pour la personne exposée, puis s’arrête. Elle dit qu’elle se sent seule et déstabilisée ; Marc travaille cette souffrance comme la sienne, sans demander à autrui de la soulager.",
+      "development": "Faire place à la détresse propre peut appartenir au suivi sans transformer cette détresse en excuse causale. Solitude et malaise ne définissent pas 6D51 et ne suffisent pas à mesurer le risque. Le professionnel examine ce vécu et les appuis possibles, sans déléguer la réponse à la personne protégée.",
+      "ending": "Florence garde un entretien centré sur ses besoins de soin. Elle envoie à Cathy la partie terminée du cahier et annonce clairement ce qui reste. Elle ne demande ni nouvelles ni message de la personne exposée.",
+      "next": "Un changement de sommeil l’amène à poser une question de santé pour elle-même, sans l’attribuer automatiquement au trouble.",
+      "source_refs": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "rcpsych-cr223"
+      ],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 8,
+      "focus": "Besoins médicaux légitimes",
+      "scene": "Florence parle de plusieurs mauvaises nuits à la docteure Derain et craint que son diagnostic rende sa parole médicale irrecevable. La psychiatre l’interroge sur ce qu’elle observe, son état général et le contexte ; elle organise un point de suivi plutôt que d’affirmer que tout est factice.",
+      "development": "Le diagnostic imposé à autrui n’est pas une preuve de trouble factice imposé à soi, ni une raison de refuser les soins propres. L’OMS indique qu’un trouble factice peut coexister avec une maladie réelle ; aucune comorbidité n’est pourtant inventée ici. La psychiatre fait une évaluation réelle et précise la suite, sans prescription détaillée.",
+      "ending": "Florence repart avec le point clinique convenu et les modalités pour signaler une aggravation. Elle propose au service une échéance compatible avec son travail en cours, sans transmettre son dossier.",
+      "next": "Elle retrouve ensuite Cathy pour une conversation dont elle doit respecter la limite entre soutien ordinaire et soin.",
+      "source_refs": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "rcpsych-cr223"
+      ],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 9,
+      "focus": "Soutien social et limites",
+      "scene": "Lors d’une courte pause avec Cathy, Florence ramène plusieurs fois la conversation à ses rendez-vous. Cathy précise qu’elle peut parler du cahier et partager ce moment, mais ne peut pas devenir son interlocutrice clinique. Florence entend d’abord une distance personnelle, puis accepte le cadre dit.",
+      "development": "Le retentissement social de cette trajectoire est possible, non universel. Une collègue n’a à être ni confidente permanente, ni soignante, ni surveillante. Pas de stigmatisation de tout lien, pas de secret absolu demandé ; la personne exposée reste entièrement hors de cette relation ordinaire.",
+      "ending": "Florence réserve ses questions cliniques au rendez-vous et reprend avec Cathy les dernières légendes. La pause se termine sans promesse de disponibilité supplémentaire.",
+      "next": "Au suivi, elle demande quelles options de soin sont réellement adaptées, plutôt qu’une garantie de changement rapide.",
+      "source_refs": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "rcpsych-cr223"
+      ],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 10,
+      "focus": "Choix de soin et preuves limitées",
+      "scene": "Florence apporte à la docteure Derain des questions sur les objectifs du travail avec Marc et sur ce qu’une prise en charge peut garantir. La psychiatre répond, précise les limites et réexamine le sommeil signalé auparavant. Aucune issue clinique ou prescription n’est préécrite.",
+      "development": "La prise en charge est individualisée ; les données pour les adultes auteurs de FII sont limitées et ne constituent pas un protocole garanti pour 6D51. Distinguer information médicale, choix du soin, évaluation du risque et décisions de protection. Aucun médicament, durée obligatoire ou taux de réussite n’est donné.",
+      "ending": "Florence reformule ce qui est attendu du suivi et garde les questions encore ouvertes. Elle transmet l’épreuve complète à Cathy pour un retour écrit collectif, sans annoncer qu’elle est désormais guérie.",
+      "next": "Un retour favorable sur le cahier risque ensuite de donner à un progrès matériel une portée clinique excessive.",
+      "source_refs": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "rcpsych-cr223"
+      ],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 11,
+      "focus": "Changements observés et vigilance durable",
+      "scene": "Après un retour écrit favorable, Florence voudrait utiliser la qualité du cahier et sa présence aux rendez-vous comme preuves suffisantes que tout a changé. Au point prévu, elle le dit à la psychiatre. Celle-ci examine avec elle les éléments cliniques et la coordination de protection, sans évaluer la sécurité sur son travail éditorial.",
+      "development": "Une réussite professionnelle ou un discours approprié ne démontre pas une disparition du risque. Le suivi apprécie les changements dans leur contexte et leur durée ; les connaissances ne permettent pas une prédiction individuelle certaine. Pas de nouvel acte inventé, pas de guérison ou d’échec total annoncé.",
+      "ending": "Florence maintient le suivi et les décisions effectives. Elle reprend la dernière correction de légende demandée par Cathy, en lui donnant sa valeur exacte : une correction du cahier.",
+      "next": "La remise finale peut fermer l’engagement matériel tout en laissant soin et protection à leurs équipes.",
+      "source_refs": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "rcpsych-cr223"
+      ],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 12,
+      "focus": "Participation ordinaire et suivi durable",
+      "scene": "Cathy confirme la réception du cahier corrigé et prêt pour la suite du travail municipal. Florence classe les épreuves, conserve son prochain rendez-vous et ne cherche pas à faire parvenir le résultat à la personne exposée. Elle choisit ensuite de lire un court recueil pour elle-même.",
+      "development": "Une activité indépendante peut garder sa valeur sans devenir réparation, preuve d’innocuité ou monnaie relationnelle. Le diagnostic ne résume pas Florence, et cette humanité ne réduit aucune responsabilité. Les soins et les décisions de protection demeurent effectifs ; l’autonomie de la personne exposée ne sert pas à clôturer la trajectoire de Florence.",
+      "ending": "Le cahier corrigé est transmis et accepté pour le travail du service. Florence conserve le suivi spécialisé, respecte le cadre établi et ouvre son livre. Aucune information, réconciliation ou levée de mesure concernant la personne exposée n’est annoncée.",
+      "next": "La série se termine sur un engagement tenu et un parcours de soin ouvert, sans promettre guérison ni accès à autrui.",
+      "source_refs": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "rcpsych-cr223"
+      ],
+      "diagnostic_stage": "known"
+    }
+  ]
+}

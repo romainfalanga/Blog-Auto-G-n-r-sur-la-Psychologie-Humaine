@@ -1,0 +1,199 @@
+{
+  "schema_version": 1,
+  "character_id": "serge",
+  "code": "6D50",
+  "article_format": 2,
+  "bio": "Serge, 49 ans, est agent d’accueil dans une résidence. Son Trouble factice imposé à soi-même est déjà diagnostiqué. Il remet sur pied un calendrier de promenades avec un groupe adulte, mais les difficultés liées aux soins et à sa manière de demander de l’aide rendent ses engagements instables. Un médecin coordonne son suivi avec une psychologue ; un ami peut lui offrir une présence limitée. Serge cherche à transmettre des informations fiables, à préserver ses accès légitimes aux soins et à tenir une place dans le groupe sans devoir se présenter comme malade.",
+  "profile_topics": [
+    "Trouble factice imposé à soi-même",
+    "Informations de santé fiables",
+    "Coordination des soins",
+    "Lien et demande d’aide",
+    "Participation et suivi durable"
+  ],
+  "voice": "Serge aime les horaires lisibles, les cases alignées et les cartes que l’on peut replier. Il parle concrètement des dates mais cherche ses mots pour demander de la présence. Sa voix ne devient ni celle d’un stratège de la tromperie ni une confession permanente.",
+  "series_goal": "Faire accepter un calendrier de promenades par le groupe adulte avec un rôle et des relais réalistes, en maintenant des soins coordonnés et une manière directe de demander de l’aide.",
+  "continuity_rules": [
+    "Serge, 49 ans, agent d’accueil dans une résidence, remet sur pied un calendrier de promenades avec un groupe adulte. Son rôle porte sur les dates, les confirmations et la lisibilité du document, pas sur une décision médicale ni la sécurité des itinéraires. Mireille coordonne le groupe ; Claude est un ami adulte choisi ; le docteur Armand coordonne les soins avec Inès, psychologue. Le diagnostic est établi avant la série. Serge a du goût pour les horaires nets et les cartes pliées, mais trouve plus difficile de dire qu’il souhaite une présence sans se présenter comme plus malade. Cela reste sa trajectoire fictive, pas une explication universelle. Aucune maladie fabriquée, méthode, examen manipulé ou blessure ne sera décrit. La première scène montre qu’il corrige auprès du médecin une information de santé qu’il savait inexacte ; la nature de cette information reste omise. Les professionnels prennent en charge les corrections nécessaires et continuent d’examiner les symptômes réels ou nouveaux. La série suit plusieurs semaines : inventaire des dates, sélection des créneaux, répartition des tâches, première version, report, relecture et calendrier final accepté. La confiance ne revient pas par un aveu récompensé et le soin n’est jamais conditionné à une confession. Le groupe ne devient ni tribunal ni équipe de surveillance. Aucun droit aux soins n’est supprimé en raison du diagnostic. L’enjeu matériel se clôt ; la coordination clinique demeure.",
+    "Diagnostic établi avant l’épisode1, known partout. Aucune découverte publique, identité de fraudeur, punition, reconnaissance morale exigée ou changement diagnostique romanesque. La correction initiale est abstraite et confiée au médecin ; ne pas inventer de méthode ni de détail de symptôme falsifié.",
+    "Ne décrire aucune technique de simulation, de manipulation de test, de falsification documentaire, de blessure ou d’induction de maladie ; ne pas reproduire les exemples dangereux présents dans les sources. Ne pas inventer de conseil pour éviter la détection ou organiser des consultations trompeuses.",
+    "Mireille coordonne les dates, Claude est un ami libre de refuser. Ils ne disposent pas automatiquement du diagnostic, ne recueillent pas de preuves, ne conditionnent pas leur aide à un aveu et ne deviennent ni thérapeutes ni surveillants. Armand et Inès agissent effectivement dans les scènes de soins.",
+    "Les symptômes nouveaux restent évalués par des professionnels ; aucune plainte n’est disqualifiée en raison du diagnostic. Le travail et le calendrier n’attestent pas une aptitude médicale. Ne jamais retarder les secours face à une urgence narrée ni faire du médecin coordonnateur une barrière aux soins nécessaires.",
+    "Les épisodes suivent plusieurs semaines. Inventaire et choix des dates précèdent la répartition de tâches, la version partielle, le report médical, la version à relire, la dernière correction puis la livraison. Le sommeil et l’humeur ouverts en8 sont évalués en9. Le suivi continue après12.",
+    "Les trois appuis de chaque épisode sont des gestes pratiques adaptés, pas un traitement validé du trouble. Aucun score de sincérité, exposition imposée, souvenir forcé, diagnostic de proche, récompense pour parler ou promesse de guérison. Les limites des preuves et le caractère individuel du vécu demeurent explicites."
+  ],
+  "episodes": [
+    {
+      "number": 1,
+      "focus": "Corriger une information trompeuse",
+      "scene": "Le calendrier des promenades est ouvert devant Serge, mais une demande médicale inachevée l’empêche de répondre à Mireille sur les dates. À son rendez-vous, il signale au docteur Armand qu’une information de santé transmise auparavant était sciemment inexacte. Sa nature et sa fabrication ne sont jamais indiquées. Le médecin recueille la correction et réexamine les décisions qui pourraient en dépendre.",
+      "development": "Diagnostic établi et réalité du comportement intentionnel, distinct d’une simple erreur ou d’un symptôme inexpliqué. Définition clinique sobre de 6D50, sans exemple de falsification. Le diagnostic n’est pas uniquement une recherche de bénéfice externe et ne résume pas la personne. Trois appuis à développer : signaler l’information inexacte au professionnel concerné ; le laisser vérifier et corriger les éléments du soin ; annoncer au groupe une échéance professionnelle réaliste. Ne pas faire de l’aveu une condition de soin ni une preuve de guérison.",
+      "ending": "Armand prend en charge la correction utile au suivi. Serge maintient le prochain contact et annonce à Mireille quand il pourra envoyer l’inventaire des dates ; il ne lui transmet pas son dossier médical.",
+      "next": "En préparant cet inventaire, il remarque combien il parle facilement de sa place de patient et difficilement de ses autres intérêts.",
+      "source_refs": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "berar-2021"
+      ],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 2,
+      "focus": "Place du rôle de malade",
+      "scene": "Lors d’un échange avec Mireille sur les créneaux de promenade, Serge revient plusieurs fois à ses consultations au lieu de choisir les dates. Il craint de devenir moins important lorsqu’il ne parle pas de maladie. Plus tard, il apporte cette impression à Inès, qui l’explore sans l’ériger en cause unique du trouble.",
+      "development": "L’adoption du rôle de malade peut être une dimension du trouble ; le besoin de présence est ici un vécu individuel, pas un critère suffisant ni une motivation universelle. Trois appuis : nommer directement un besoin de compagnie ou de soutien ; distinguer cette demande de ses informations de santé ; garder aussi une contribution ordinaire au groupe. Aucune attention retirée en guise de traitement ni contact offert comme récompense de sincérité.",
+      "ending": "Serge demande à Claude s’il serait disponible pour un café, sans prétexte médical. Il renvoie à Mireille deux créneaux possibles. Le café n’est pas encore fixé et Inès poursuit l’exploration de ce besoin.",
+      "next": "Au prochain entretien médical, Serge voudra comprendre pourquoi le diagnostic ne signifie pas que chaque doute ou gêne serait une tromperie.",
+      "source_refs": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "mayo-soins"
+      ],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 3,
+      "focus": "Inexpliqué ne signifie pas fabriqué",
+      "scene": "Dans le cabinet d’Armand, Serge relit une ancienne conclusion restée incertaine et demande si l’absence d’explication prouvait qu’il avait menti. Le médecin distingue l’incertitude de ce document, les éléments qui ont établi le diagnostic antérieur et les symptômes qu’il faut encore évaluer. Aucun contenu symptomatique ou procédé de tromperie n’est détaillé.",
+      "development": "Frontières OMS avec détresse corporelle, hypocondrie et symptômes dissociatifs : une personne peut souffrir sans cause encore identifiée et sans fabrication volontaire. Examens normaux ou demande insistante ne démontrent pas la tromperie. La simulation liée à un intérêt externe évident ne se confond pas automatiquement avec 6D50. Trois appuis : distinguer ce que le compte rendu conclut et ce qui reste ouvert ; demander une clarification au médecin ; transmettre les faits actuels sans se diagnostiquer ni accuser autrui.",
+      "ending": "Armand explique que le diagnostic de Serge reste établi mais que ce document incertain ne suffit pas à conclure sur tout. Ils conviennent de rassembler les informations utiles dans un suivi coordonné.",
+      "next": "Cette coordination doit devenir concrète pour éviter que les différents interlocuteurs répètent des décisions à partir d’informations partielles.",
+      "source_refs": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "berar-2021"
+      ],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 4,
+      "focus": "Coordination et prévention des soins inutiles",
+      "scene": "Serge apporte les documents dont il dispose à Armand. Deux démarches de soin risquent de se superposer faute d’un échange clair entre professionnels. Le médecin examine leur utilité et organise les transmissions nécessaires dans le cadre applicable ; Serge n’a pas à choisir seul un acte à supprimer.",
+      "development": "Le trouble peut entraîner des investigations ou traitements inutiles et des dommages iatrogènes. Aucun examen précis, procédure dangereuse ni conseil pour contourner les soins. Trois appuis : communiquer les informations disponibles ; demander qui coordonne les décisions ; faire expliquer les prochaines démarches et les modalités de recours si un problème nouveau apparaît. La coordination n’interdit ni second avis légitime ni accès urgent.",
+      "ending": "Les professionnels disposent des éléments nécessaires et Armand clarifie les démarches retenues. Serge note un interlocuteur et un prochain point. Le calendrier du groupe peut reprendre sans que ses membres arbitrent ses soins.",
+      "next": "Une question du médecin sur les informations antérieures lui laisse cependant une crainte de blâme, à reprendre plutôt que rompre le suivi.",
+      "source_refs": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "berar-2021",
+        "mayo-soins"
+      ],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 5,
+      "focus": "Peur du blâme et alliance",
+      "scene": "Avant l’entretien avec Inès, Serge ouvre le message de confirmation et songe à annuler : il a mal vécu une question précise d’Armand sur les informations corrigées. Il vient et dit qu’il a eu peur d’être considéré comme quelqu’un à punir. Inès entend ce vécu puis reprend avec lui les faits et les besoins de soin.",
+      "development": "Risque de rupture d’alliance choisi pour ce personnage, sans présenter tout soignant comme accusateur ou toute question comme violence. Une attitude non punitive ne supprime pas la nécessité de vérifier les faits. Trois appuis : dire ce qui a été ressenti comme un reproche ; demander le sens d’une question clinique ; convenir d’une suite sans exiger de récit public ni confession exhaustive. Les données ne prouvent pas une supériorité thérapeutique universelle de cette démarche.",
+      "ending": "L’entretien a lieu, Inès clarifie avec lui l’objet de la vérification et les modalités de coordination avec Armand. Serge maintient le contact ; sa gêne persiste mais ne devient pas une annulation silencieuse.",
+      "next": "Le retard accumulé sur le calendrier doit désormais être reconnu auprès de Mireille sur le plan des engagements, sans transformer le groupe en tribunal médical.",
+      "source_refs": [
+        "oms-cddr",
+        "berar-2021",
+        "eastwood-2008",
+        "mayo-soins"
+      ],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 6,
+      "focus": "Retentissement sur les engagements",
+      "scene": "Mireille et Serge regardent les cases encore vides du calendrier dans la résidence. Il a promis une version complète alors que ses démarches de soin et ses hésitations ont laissé des tâches en attente. Elle demande ce qu’il peut réellement prendre en charge cette semaine, pas une preuve de diagnostic.",
+      "development": "Retentissement fonctionnel individuel : restaurer un engagement stable ne consiste pas à tout promettre ni à invoquer le trouble pour supprimer ses responsabilités. Trois appuis : séparer tâche terminée et tâche en attente ; convenir d’un rôle plus limité et daté ; prévoir un relais pratique accepté. L’aptitude professionnelle n’est ni déduite du diagnostic ni évaluée par un calendrier.",
+      "ending": "Serge prend en charge la mise en page des dates confirmées, Mireille confie à un autre adulte volontaire la collecte des derniers horaires. Une première version partielle est envoyée ; les rôles sont explicites.",
+      "next": "Claude répond à la demande de café. Une présence amicale peut aider à garder une place ordinaire, mais elle aura ses propres limites.",
+      "source_refs": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "mayo-soins"
+      ],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 7,
+      "focus": "Soutien choisi sans surveillance",
+      "scene": "Claude accepte un café à une heure précise mais indique qu’il ne peut pas vérifier les récits médicaux de Serge ni l’accompagner à chaque rendez-vous. Serge aimerait cette assurance ; il accepte pourtant la limite et lui parle aussi de la mise en page du calendrier.",
+      "development": "Soutien relationnel distinct du diagnostic et du contrôle de sincérité. Trois appuis : formuler une aide concrète et limitée ; accepter un refus sans l’interpréter comme abandon des soins ; réserver les questions médicales aux professionnels. Claude n’accède pas au dossier, ne teste pas les symptômes et ne récompense pas un aveu. Toute participation aux soins demande le cadre et l’accord appropriés.",
+      "ending": "Le café a lieu et se termine à l’heure convenue. Serge garde les questions cliniques pour ses soignants ; Claude peut rester un ami sans prendre une fonction de surveillance.",
+      "next": "Lorsqu’une gêne physique nouvelle apparaît ensuite, Serge doit utiliser ce relais médical plutôt que demander à Claude de trancher sa réalité.",
+      "source_refs": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "mayo-soins"
+      ],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 8,
+      "focus": "Préserver les soins légitimes",
+      "scene": "Chez lui, Serge ressent une gêne physique nouvelle et hésite à contacter Armand parce qu’il craint de ne plus être cru. Il utilise les modalités prévues et décrit honnêtement ce qu’il éprouve. Le médecin évalue la situation, organise l’examen nécessaire et le reçoit effectivement. Aucun mécanisme de production de symptôme n’est raconté et aucun signe d’urgence n’est mis en attente.",
+      "development": "Un trouble factice peut coexister avec une affection authentique ; le diagnostic ne justifie pas de rejeter chaque plainte ni de présumer sa cause. Trois appuis : signaler un changement réel avec les informations disponibles ; suivre l’orientation médicale ; demander la conduite à tenir si cela évolue. Le professionnel décide de l’utilité des soins. Si le rédacteur introduit un signe de danger immédiat, il doit montrer le recours urgent effectif, pas attendre ce rendez-vous.",
+      "ending": "L’évaluation a lieu et Armand précise la suite nécessaire sans attribuer automatiquement la gêne au trouble factice. Serge prévient Mireille qu’il doit décaler sa correction de mise en page, sans exposer les détails du soin.",
+      "next": "Cette consultation fait aussi émerger un sommeil perturbé et un moral bas, qui demanderont un entretien spécifique et non une explication automatique par 6D50.",
+      "source_refs": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "berar-2021"
+      ],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 9,
+      "focus": "Évaluer la santé psychique associée",
+      "scene": "Au point clinique organisé après la consultation, Serge explique qu’il dort mal et manque d’élan devant le calendrier, même lorsque la tâche est claire. Inès et Armand évaluent ces changements dans leurs rôles respectifs. La scène distingue ce qu’il rapporte de ce que l’équipe peut conclure.",
+      "development": "Les comorbidités et autres difficultés sont possibles, non déduites du diagnostic. Aucun trouble dépressif, trouble de personnalité, psychose ou passé traumatique n’est ajouté. Trois appuis : situer la période du changement ; en décrire l’impact quotidien ; suivre la réévaluation proposée. Une souffrance psychique ne devient pas un signe de tromperie ni une preuve d’intention suicidaire. Tout besoin urgent éventuellement identifié doit recevoir son relais dans la scène.",
+      "ending": "Un point de suivi est fixé et Serge reçoit des modalités claires de contact si son état change. La mise en page reste limitée à la tâche convenue avec Mireille ; le groupe ne mesure pas son humeur.",
+      "next": "Serge souhaite maintenant comprendre ce que le suivi psychothérapeutique peut viser et ce qu’aucun soin ne peut lui promettre.",
+      "source_refs": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "berar-2021",
+        "mayo-soins"
+      ],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 10,
+      "focus": "Objectifs de soin et preuves limitées",
+      "scene": "À la consultation suivante, Serge demande si une thérapie pourrait garantir qu’il ne transmettra plus jamais une information inexacte. Inès précise les objectifs individualisés du travail, tandis qu’Armand reste responsable des décisions médicales. Ils lui expliquent les limites des connaissances et la nécessité de réévaluer.",
+      "development": "Enjeu thérapeutique : littérature surtout constituée de cas et séries, pas de protocole universel démontré. Trois appuis : demander l’objectif précis d’une démarche ; discuter ses limites et les difficultés à signaler ; convenir d’une prochaine réévaluation. Aucun médicament, posologie, taux de réussite ni promesse de guérison. Les appuis d’organisation ne sont pas une psychothérapie autonome et un traitement d’une éventuelle autre maladie ne prouve pas un effet sur 6D50.",
+      "ending": "Serge accepte de poursuivre le travail convenu, avec des questions clarifiées et une prochaine discussion prévue. Il envoie à Mireille la version relisible du calendrier, sans y voir une preuve que le trouble serait terminé.",
+      "next": "Le retour favorable du groupe sera suivi d’un moment où l’ancienne manière de solliciter de l’attention lui paraît de nouveau attirante.",
+      "source_refs": [
+        "oms-cddr",
+        "eastwood-2008",
+        "liu-2025",
+        "mayo-soins"
+      ],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 11,
+      "focus": "Fluctuations et retour d’une difficulté",
+      "scene": "Après une relecture favorable du calendrier, Serge commence un message à son médecin et remarque l’envie de présenter sa santé de façon inexacte pour obtenir davantage de présence. Il ne transmet pas ce récit. Il contacte l’équipe par le canal convenu pour dire cette difficulté, sans détailler de fausse plainte ni de méthode ; un échange clinique a réellement lieu.",
+      "development": "Évolution incertaine et maintien du soin : une période plus simple ne prouve pas la guérison, une difficulté revenue n’efface pas toutes les décisions responsables. Trois appuis : signaler directement le besoin et l’envie de déformer ; reprendre le cadre avec l’équipe ; maintenir le suivi au lieu de juger seul sa guérison ou son échec. Pas de défi d’honnêteté, score amateur, scénario de simulation ni idée de se blesser. L’équipe apprécie les besoins actuels.",
+      "ending": "Serge a transmis une difficulté réelle plutôt qu’une information médicale inexacte. L’équipe reprend avec lui la demande d’appui et les modalités de suivi. Il corrige la dernière date signalée par Mireille, sans présenter cet échange réussi comme une garantie.",
+      "next": "Le calendrier peut être finalisé et accepté ; le prochain contact clinique reste fixé au-delà de la livraison.",
+      "source_refs": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "mayo-soins"
+      ],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 12,
+      "focus": "Participation ordinaire et suivi durable",
+      "scene": "Mireille confirme que le calendrier final, avec ses dates et relais, est accepté par le groupe adulte. Serge le range dans le dossier de la résidence et répond sur la tâche accomplie. Claude lui propose de parler d’un livre lors d’un prochain café ; Serge conserve son rendez-vous de suivi sans demander au groupe de certifier son rétablissement.",
+      "development": "Clôture du projet et continuité des soins, pas nouveau symptôme ni preuve d’absence de risque. Trois appuis : fermer les engagements matériels ; garder le prochain contact de soin et les questions ouvertes ; choisir une activité ordinaire pour son intérêt propre. Ni stabilité de l’emploi, ni confiance générale, ni guérison ne sont garanties par le calendrier. Le groupe peut compter sur un rôle plus explicite sans devenir responsable de la santé.",
+      "ending": "Le calendrier est livré, ses tâches et relais sont acceptés. Serge garde sa prochaine consultation et envisage le café selon la disponibilité de Claude. Il a une contribution concrète et une demande d’aide plus directe, avec des difficultés qui peuvent encore revenir.",
+      "next": "La série se ferme sur le calendrier stabilisé, pas sur une guérison. Les accès légitimes aux soins, la coordination et la responsabilité restent ouverts.",
+      "source_refs": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "mayo-soins"
+      ],
+      "diagnostic_stage": "known"
+    }
+  ]
+}
