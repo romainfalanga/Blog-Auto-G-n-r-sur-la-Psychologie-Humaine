@@ -1,0 +1,57 @@
+{
+  "references": {
+    "oms-mms-6d36": {
+      "title": "OMS, CIM-11 MMS 2026-01, 6D36 ; lien canonique français",
+      "url": "https://icd.who.int/browse/2026-01/mms/fr#2055403635"
+    },
+    "oms-cddr-hrb": {
+      "title": "OMS, CDDR 2024, ISBN 9789240077263, pages imprimées 571–572 et 588–591, texte original au dépôt HRB",
+      "url": "https://www.drugsandalcohol.ie/41519/1/WHO_Clinical_descriptions_and_diagnostic_requirements_ICD-11.pdf"
+    },
+    "oms-sante-sexuelle": {
+      "title": "OMS, Defining sexual health, section Sexual health et Key conceptual elements ; définition de travail et cadre général, non protocole thérapeutique",
+      "url": "https://www.who.int/teams/sexual-and-reproductive-health-and-research/key-areas-of-work/sexual-health/defining-sexual-health"
+    },
+    "wismeijer-2013": {
+      "title": "Wismeijer et van Assen, 2013, Psychological characteristics of BDSM practitioners, résumé original, PMID 23679066, DOI 10.1111/jsm.12192",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/23679066/"
+    },
+    "wfsbp-2020": {
+      "title": "Thibaut et al., WFSBP 2020, recommandations destinées aux cliniciens centrées sur les hommes adultes ; résumé original PMID 32452729",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32452729/"
+    }
+  },
+  "dossier": {
+    "name": "Trouble paraphilique impliquant un comportement solitaire ou des individus consentants",
+    "aliases": [
+      "6D36",
+      "Trouble paraphilique impliquant un comportement solitaire ou des individus consentants",
+      "Paraphilic disorder involving solitary behaviour or consenting individuals"
+    ],
+    "references": [
+      "oms-cddr",
+      "oms-mms-6d36",
+      "oms-cddr-hrb",
+      "oms-sante-sexuelle",
+      "wismeijer-2013",
+      "wfsbp-2020"
+    ],
+    "points": [
+      "Verification individuelle du 10 novembre 2026 : CDDR original OMS lu dans /workspace/scratch/1965e015942a/tooling/cddr.txt, pages imprimées 571–572 et 588–591. Page MMS canonique ouverte mais le texte dynamique du diagnostic ne ressort pas de cet accès ; ne pas présenter son contenu comme extrait. Paraphrases françaises de travail, non traduction officielle. Le libellé français complet du registre canonique est conservé dans la biographie et le premier repère.",
+      "CDDR p.588 : schéma persistant, focalisé et intense d’excitation sexuelle atypique concernant un comportement solitaire ou des adultes consentants. Il faut en outre une détresse marquée liée à la nature du schéma, non simplement conséquence du rejet ou de sa crainte, OU un risque significatif de blessure ou de mort directement et immédiatement lié au comportement. Ces deux branches sont alternatives, pas cumulatives. Une pensée occasionnelle ou une préférence atypique ne suffit pas. Ne pas exposer de grille permettant de se diagnostiquer.",
+      "CDDR p.588–589 : dévier de normes sociales ou culturelles ne suffit pas à constituer un trouble. Une détresse entièrement due au rejet ou à sa crainte ne justifie pas 6D36 ; un accompagnement peut néanmoins être approprié (l’OMS renvoie au groupe QA15 pour le conseil relatif à la sexualité, ou à un autre trouble si ses propres exigences sont remplies). La souffrance n’a pas besoin d’un diagnostic 6D36 pour mériter accueil et aide. Aucun récit ne doit suggérer que consentement, kink ou pratiques non conventionnelles sont des symptômes.",
+      "Présentation choisie : Loubna consulte pour une détresse marquée liée à la nature même de son schéma, déjà évaluée et non expliquée seulement par le jugement social. Le diagnostic est connu avant la série. Aucune pratique précise, aucun comportement dangereux, aucune blessure ni coercition ne lui sont attribués. La récurrence des préoccupations et le retard professionnel sont des effets individuels, pas des critères supplémentaires. Sa relation avec Léonie n’est ni la cause ni la preuve du diagnostic.",
+      "CDDR p.589 et 591 : une détresse liée à une orientation homosexuelle ou bisexuelle ne relève pas de 6D36 ; une incongruence de genre et un antécédent d’excitation ne suffisent pas non plus à ce diagnostic. Loubna et Léonie sont deux partenaires adultes ; cette relation n’est jamais pathologisée. Aucun projet de modifier orientation, identité ou préférences pour les conformer à une norme.",
+      "CDDR p.588 : lorsque le diagnostic repose sur le risque corporel, celui-ci doit être significatif, direct et immédiat, et non un risque général supposé. Ne donner aucun exemple technique ou corporel de conduite dangereuse. Le consentement n’équivaut pas à une garantie d’absence de dommage. Chez Loubna cette branche sert à expliquer le périmètre clinique, pas à lui inventer un danger. Si un danger immédiat réel survenait, secours compétents sans exercice préalable ; aucun épisode ne simule cette urgence pour dramatiser le canon.",
+      "CDDR p.572 : retentissement au travail ou dans les relations possible, mais non requis universellement. La difficulté de maquette et les demandes de réassurance sont des choix narratifs. Éviter les généralités sur les graphistes, la personnalité créative ou les couples de femmes ; ne pas faire du travail une thérapie ni une mesure de risque.",
+      "CDDR p.590 : distinguer 6D36 et trouble du comportement sexuel compulsif ; le second porte sur une défaillance persistante du contrôle, et n’est pas automatiquement ajouté au premier. La persistance du schéma ne démontre pas une perte de contrôle. Aucun test de réaction, questionnaire intime, inventaire de fréquence ou exercice sexuel proposé. Les différences sont expliquées au professionnel, sans changer le diagnostic établi.",
+      "CDDR p.590–591 : intoxication ou autres états cliniques peuvent produire des comportements atypiques sans schéma durable, et d’autres difficultés peuvent coexister. Une baisse récente d’élan et un sommeil perturbé seront évalués en propre, sans cause ni comorbidité présumée. Le narrateur ne diagnostique dépression, bipolarité, addiction ou trouble neurocognitif, et ne suggère aucun changement de traitement.",
+      "CDDR p.589 : relative stabilité après le début de l’âge adulte, avec possibilité de variations du vécu et des manifestations ; les exigences diagnostiques peuvent ne plus être remplies au cours de l’évolution. Ni fatalité ni promesse de disparition. Une semaine de travail plus simple ou une conversation apaisée ne suffit pas à conclure à une guérison.",
+      "Wismeijer2013 : résumé original consulté via résultats PubMed ; accès direct actuel PubMed limité et texte éditeur refusé, donc aucun texte intégral déclaré lu. Comparaison par questionnaires en ligne de 902 pratiquants BDSM et 434 témoins ; caractéristiques psychologiques globalement non défavorables. Étude transversale, autosélection, autodéclarations, pas échantillon clinique 6D36 ni essai thérapeutique. Elle étaye seulement la prudence envers une pathologisation générale ; aucun effet protecteur, bénéfice causal ou recommandation de pratique ne peut en être tiré. Loubna n’est pas étiquetée pratiquante de BDSM par cette référence.",
+      "OMS Defining sexual health : sections de définition de travail et éléments conceptuels lues, approche respectueuse sans coercition, discrimination ou violence. Cadre général, non guide de traitement de 6D36. La définition de travail des sexual rights comporte une réserve de statut ; ne pas la présenter comme une règle juridique française ni comme une position normative officielle universelle.",
+      "WFSBP2020 : résumé original PubMed vérifié, recommandations cliniques surtout centrées sur les hommes adultes et incluant des populations médico-légales. Ne pas transposer un algorithme pharmacologique, une efficacité ou un contexte pénal à Loubna, femme sans passé pénal défini. Aucun traitement spécifique suffisamment vérifié ici pour proposer un protocole autonome. Les aides proposées sont communication, accès au soin, clarification des objectifs et organisation ; elles n’ont pas d’efficacité démontrée sur le schéma. Pas de prescription, posologie, exposition ou exercice sexuel.",
+      "Implication de Léonie uniquement choisie par les deux femmes, avec périmètre de partage explicite ; elle peut refuser ou arrêter, n’a pas à certifier la normalité, surveiller les pensées ou devenir thérapeute. Respect de la vie privée sans promesse de secret absolu ; les obligations effectives de sécurité restent applicables. Une limite de conversation ou de couple n’est pas en soi une stigmatisation ni un signe de trouble."
+    ]
+  },
+  "direction": "Loubna, 44 ans, graphiste, conçoit l’identité visuelle et le programme d’une petite salle d’exposition dirigée par Salomé. Son projet concret : un programme imprimé lisible et une version numérique claire, sans normes d’accessibilité techniques inventées. Elle aime les marges généreuses et garde un carnet orange réservé aux maquettes ; ses notes de suivi sont séparées. Sa voix est précise et légèrement ironique : elle appelle les titres trop petits des chuchotements imprimés. Léonie, sa partenaire adulte, peut participer à une partie d’entretien si toutes deux le souhaitent ; elle garde le droit de ne pas participer. La docteure Benali, professionnelle compétente en santé sexuelle, assure le suivi déjà établi. Six semaines environ suivent une maquette initiale retardée, un prototype présenté, une livraison répartie puis un programme réceptionné. Le trouble repose dans cette fiction sur la détresse liée au schéma lui-même, non sur la seule crainte du regard extérieur. Aucune pratique sexuelle n’est identifiée ou racontée, aucune situation dangereuse ou pénale inventée. Les épisodes distinguent respect des préférences, souffrance clinique, risque abstrait et limites relationnelles ; l’accomplissement graphique ne prouve pas une guérison."
+}

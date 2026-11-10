@@ -1,0 +1,191 @@
+{
+  "schema_version": 1,
+  "character_id": "sylvain",
+  "code": "6D34",
+  "article_format": 2,
+  "bio": "Sylvain, 36 ans, est agent de contrôle qualité dans un atelier d’emballage et suit une formation en photographie de nature. Son frotteurisme est déjà diagnostiqué ; des préoccupations persistantes et une détresse peuvent interrompre ses tâches. Il prépare un carnet de six images pour la promenade d’un groupe adulte. Avec une équipe spécialisée et un soutien choisi, il met en œuvre des décisions de prévention sans rendre son entourage garant de son comportement. Le projet photographique conserve sa place, avec des limites révisables et un suivi qui continue.",
+  "profile_topics": [
+    "Frotteurisme",
+    "Préoccupations et détresse",
+    "Consentement et responsabilité",
+    "Prévention individualisée",
+    "Participation adaptée"
+  ],
+  "voice": "Une parole concrète, brève, parfois un humour sec sur les titres trop grands pour six images. Sylvain aime vérifier une légende et regarder une lumière ordinaire ; aucune métaphore de chasse, de prise ou de maîtrise appliquée aux personnes. Ses demandes deviennent plus précises sans devenir un discours clinique permanent.",
+  "series_goal": "Achever et remettre le carnet Après la pluie, six images de nature pour une promenade d’un groupe adulte ; préserver une contribution séparée lorsque la participation physique est suspendue, et maintenir les soins après la remise.",
+  "continuity_rules": [
+    "Diagnostic established avant la série : known aux douze épisodes. Âge36 ans, métier, atelier d’emballage, formation de photographie et projet de promenade avec un groupe adulte conservés ; aucune infraction, condamnation, victime, traumatisme ou comorbidité inventés.",
+    "Dossier vert pour Après la pluie : six images existantes de végétaux, hêtre en premier et souche moussue en dernier, sans personne photographiée. Les documents de soin restent à part. Le carnet est un travail pédagogique indépendant, jamais un support d’excitation ou un exercice clinique.",
+    "Maud est formatrice et organisatrice ; Karim est l’ami adulte de soutien choisi, disponible selon son accord ; docteure Perrin et équipe assurent l’évaluation et le soin. Aucun proche ne certifie la sécurité, ne surveille quotidiennement et ne reçoit automatiquement les détails cliniques.",
+    "Les épisodes s’étalent sur plusieurs semaines. L’appel de6 conduit au rendez-vous de7 ; sommeil évalué en7 avant la suite ; décision de soin discutée en8. La participation à la promenade reste conditionnelle jusqu’à11 ; le retrait décidé en11 reste effectif en12.",
+    "Aucun contact intime mis en scène, pensée sexuelle détaillée, geste d’approche, lieu vulnérable, technologie de surveillance, méthode de dissimulation, exposition ou test de résistance. Une définition clinique sobre suffit à expliquer le diagnostic.",
+    "Les appuis relèvent de communication, organisation, relais et recours au soin, sans efficacité clinique revendiquée. Les décisions préventives sont individualisées ; si la sécurité ne peut être maintenue, participation interrompue et aide professionnelle immédiate, urgences compétentes en danger immédiat.",
+    "Consentement sexuel, accord de soutien, validation de légendes et inscription à la formation demeurent distincts. La réussite du carnet ne donne aucun droit sur le groupe ni preuve de guérison. Les limites de Maud et Karim sont valables même si Sylvain est déçu.",
+    "Fin : six images remises, court échange à distance sur les légendes, aucune présence à la promenade rétablie pour produire une fin heureuse. Rendez-vous et prévention maintenus ; projet futur d’arbres en hiver seulement envisagé."
+  ],
+  "episodes": [
+    {
+      "number": 1,
+      "focus": "Un schéma persiste malgré la tâche",
+      "scene": "Chez lui, Sylvain commence la légende du hêtre pour Après la pluie. Des préoccupations liées au trouble connu reviennent ; il relit la même phrase sans la finir. Il ne décrit pas leur contenu et ne se promet pas de se guérir en travaillant davantage.",
+      "development": "Persistance du schéma, différente d’une pensée isolée et d’une simple inquiétude. L’explication nomme sobrement le schéma d’excitation lié à des contacts non consentis, sans scène. Trois appuis : noter le retentissement pour l’équipe ; limiter la tâche immédiate ; conserver le rendez-vous prévu. Photographie et goût de précision ne sont pas des signes cliniques.",
+      "ending": "Il garde une observation dans ses notes personnelles, termine seulement une légende et écrit à Maud qu’il prépare six images, sans confirmer encore sa présence à la promenade.",
+      "next": "La détresse qui persiste malgré cette petite avancée sera abordée au rendez-vous.",
+      "source_refs": [
+        "oms-cddr",
+        "oms-cddr-hrb"
+      ],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 2,
+      "focus": "La détresse mérite une demande de soin",
+      "scene": "Au rendez-vous prévu, Sylvain commence par raconter sa légende terminée. La docteure Perrin lui demande comment il va ; il finit par dire que les préoccupations lui pèsent et qu’il ne veut pas réduire l’entretien à sa compétence à travailler.",
+      "development": "Détresse marquée et demande de soin, sans inférer un acte du diagnostic. Trois appuis : dire la souffrance actuelle ; séparer préoccupations, émotions et faits ; vérifier les contacts de suivi. Aucun récit graphique ni aveu public, aucune culpabilité transformée en mesure de sécurité.",
+      "ending": "Il décrit le retentissement à l’équipe et conserve le suivi. Le dossier vert reste fermé pendant l’entretien.",
+      "next": "La prochaine réunion pédagogique mettra en jeu la portée précise des accords du groupe.",
+      "source_refs": [
+        "oms-cddr",
+        "oms-cddr-hrb"
+      ],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 3,
+      "focus": "Le consentement garde une portée précise",
+      "scene": "Lors d’une réunion pédagogique à distance avec les participants adultes, Maud fixe les limites de chacun et le rôle des images. Sylvain voudrait qu’une inscription au groupe règle toutes les conditions de sa participation ; il entend que plusieurs décisions restent séparées.",
+      "development": "Frontière avec les contacts consentis, sans mise en scène. L’accord à la formation ne vaut jamais consentement sexuel ; les échanges sur les images ne démontrent aucun critère diagnostique. Trois appuis : identifier l’objet de l’accord ; poser une question pratique sans pression ; réserver les questions cliniques à l’équipe.",
+      "ending": "Il accepte que Maud organise la promenade et lui confirme seulement la préparation des six légendes. Les autres membres ne deviennent pas ses confidentes ou confidents.",
+      "next": "Il voudra ensuite comprendre pourquoi respecter ces limites ne suffit pas à faire disparaître les préoccupations.",
+      "source_refs": [
+        "oms-cddr",
+        "oms-cddr-hrb"
+      ],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 4,
+      "focus": "Une décision tenue ne supprime pas le trouble",
+      "scene": "Pendant le suivi, Sylvain rapporte les limites qu’il a respectées et dit qu’il s’attendait à ne plus éprouver de difficulté. La docteure Perrin distingue les décisions réellement prises de la persistance de son état intérieur.",
+      "development": "Contrôle comportemental et schéma d’excitation ne sont pas équivalents ; aucun trouble du comportement sexuel compulsif ajouté automatiquement. Trois appuis : distinguer les éléments rapportés ; demander une reformulation ; maintenir les engagements sans test de résistance.",
+      "ending": "Il garde les engagements et le prochain contact. Deux légendes sont prêtes, mais le carnet ne sert plus à noter sa santé.",
+      "next": "À l’atelier, le retard d’une tâche devra être traité concrètement plutôt que comme un verdict clinique.",
+      "source_refs": [
+        "oms-cddr",
+        "oms-cddr-hrb"
+      ],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 5,
+      "focus": "Le retentissement professionnel demande un ajustement",
+      "scene": "À l’atelier d’emballage, Sylvain doit remettre un tableau de contrôle. Les préoccupations ont ralenti sa rédaction ; il ne le présente pas comme fini. Sa responsable demande une information fiable, pas le diagnostic.",
+      "development": "Retentissement fonctionnel possible, non universel et non nécessaire au diagnostic. Trois appuis : annoncer ce qui reste à faire ; convenir de la priorité et d’une remise réaliste ; transmettre au suivi le retentissement observé. Aucune procédure industrielle détaillée, aucun produit déclaré conforme sans contrôle, aucun droit administratif inventé.",
+      "ending": "La responsable accepte une remise répartie du tableau et maintient les vérifications requises. Sylvain demande à Maud de reporter la mise en page facultative du carnet ; elle accepte.",
+      "next": "L’agenda allégé ne suffira pas à dire au cabinet ce qu’il hésite encore à transmettre.",
+      "source_refs": [
+        "oms-cddr",
+        "oms-cddr-hrb"
+      ],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 6,
+      "focus": "La honte peut réduire la parole clinique",
+      "scene": "Avant un appel convenu, Sylvain a écrit seulement semaine chargée. Il sait que cette note laisse de côté l’augmentation des préoccupations. Il appelle le cabinet et précise sobrement le changement, en demandant le cadre réel de confidentialité.",
+      "development": "Obstacle individuel à la transmission, distinct de la détresse et non symptôme universel. Trois appuis : remplacer la formule vague ; demander les limites de confidentialité ; réserver les informations cliniques aux interlocuteurs compétents. Pas de secret absolu ou de dévoilement au groupe présenté comme traitement.",
+      "ending": "Le cabinet organise un rendez-vous adapté. Sylvain transmet à Maud seulement la date réaliste de remise des légendes.",
+      "next": "Ce rendez-vous permettra aussi de signaler un changement récent du sommeil.",
+      "source_refs": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "wfsbp-2020"
+      ],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 7,
+      "focus": "Un changement récent mérite son propre bilan",
+      "scene": "Au rendez-vous organisé, Sylvain décrit des nuits inhabituelles et une fatigue nouvelle. Il commence à tout expliquer par le trouble connu ; la médecin reprend la chronologie et les éléments utiles à son évaluation avant de conclure quoi que ce soit.",
+      "development": "Distinctions diagnostiques et santé associée. Aucun épisode maniaque, trouble neurocognitif ou usage de substances inventé. Trois appuis : décrire ce qui est nouveau ; répondre aux questions pertinentes sans modifier seul un traitement ; convenir des suites. Aucun autotest à partir du sommeil.",
+      "ending": "La réévaluation a lieu, les suites sont précisées et aucun nouveau diagnostic n’est annoncé dans le récit. Sylvain garde sa réponse sur la promenade ouverte.",
+      "next": "Le suivi suivant discutera ses attentes envers le soin, indépendamment de la date de sortie.",
+      "source_refs": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "wfsbp-2020"
+      ],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 8,
+      "focus": "Le soin se choisit sans garantie totale",
+      "scene": "Lors du point suivant, Sylvain demande une solution qui réglerait tout avant la promenade. La docteure Perrin précise les objectifs discutables dans sa situation, les limites et la réévaluation nécessaire ; les détails thérapeutiques restent hors récit.",
+      "development": "Prise en charge individualisée et information comprise, sans transposer un protocole ou un taux des recommandations. Trois appuis : préparer les questions ; demander bénéfices et limites attendus ; confirmer la prochaine étape. Le calendrier du groupe ne commande pas le choix thérapeutique.",
+      "ending": "Sylvain confirme la poursuite du suivi, puis termine la sélection des six images. Il ne confond plus cette sélection avec une décision clinique.",
+      "next": "Le rôle de Karim, soutien choisi, doit être défini avant qu’il ne devienne une garantie imaginaire.",
+      "source_refs": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "wfsbp-2020"
+      ],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 9,
+      "focus": "Le soutien ne transfère pas la responsabilité",
+      "scene": "Sylvain demande à Karim de vérifier chaque soir si tout va bien. Karim rappelle le périmètre accepté dans le cadre clinique : certains échanges convenus, pas une surveillance permanente ni une décision sur la promenade. Sylvain éprouve une déception et cesse d’insister.",
+      "development": "Retentissement relationnel, rôle choisi et possibilité de retrait. Trois appuis : préciser la demande ; accueillir un refus entier ; conserver les relais professionnels. L’affection ne donne pas au proche la responsabilité des comportements ; aucune personne exposée n’est sollicitée.",
+      "ending": "Ils conviennent d’un appel limité, sans compte rendu obligatoire, et Sylvain vérifie avec l’équipe les contacts à utiliser si Karim n’est pas disponible.",
+      "next": "La préparation concrète doit maintenant distinguer la remise des images et la décision de rejoindre la promenade.",
+      "source_refs": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "wfsbp-2020"
+      ],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 10,
+      "focus": "La prévention exige des décisions effectives",
+      "scene": "Avec l’équipe, Sylvain reprend les modalités de prévention discutées pour son projet. Il vérifie qui contacter et comment interrompre une participation si la situation l’exige. Puis il demande à Maud de séparer la remise du carnet de sa présence éventuelle à la promenade.",
+      "development": "Évaluation individualisée des besoins et mise en œuvre, sans score de risque, détail d’accès à des personnes ou procédure d’aptitude inventée. Trois appuis : distinguer les décisions de soin et d’organisation ; confirmer les modalités applicables ; prévoir l’interruption et le recours immédiat en cas de crainte de danger. En danger immédiat, services d’urgence compétents.",
+      "ending": "Maud accepte la remise des six images et un court échange à distance sur les légendes. La présence physique reste conditionnelle ; Karim n’en est pas le garant.",
+      "next": "Une variation signalée avant la sortie conduira à utiliser réellement la possibilité de ne pas participer.",
+      "source_refs": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "wfsbp-2020"
+      ],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 11,
+      "focus": "Une fluctuation conduit à réviser la participation",
+      "scene": "Quelques jours avant la promenade, les préoccupations et la détresse prennent davantage de place. Sylvain contacte l’équipe par le relais convenu. Après le point effectif, il décide de ne pas rejoindre le groupe le jour prévu et prévient Maud avant l’organisation finale.",
+      "development": "Évolution variable, distincte d’une rechute en acte ; absence de pronostic tiré d’une bonne journée. Trois appuis : transmettre le changement ; réévaluer le projet avec l’équipe ; appliquer la décision au calendrier. Aucun essai sur place pour voir s’il tient, aucune demande au groupe de le sécuriser.",
+      "ending": "La présence physique est retirée du programme. Les six images restent livrables et le court échange à distance est confirmé séparément. Les soins et contacts restent prévus.",
+      "next": "La fin respectera cette décision sans réintroduire la promenade physique comme récompense ou résolution spectaculaire.",
+      "source_refs": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "wfsbp-2020"
+      ],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 12,
+      "focus": "Un projet accompli laisse le suivi ouvert",
+      "scene": "Sylvain transmet Après la pluie à Maud et participe depuis chez lui à l’échange bref sur les légendes. Il corrige une précision sur le hêtre, laisse Maud coordonner le groupe et termine au moment prévu. Il ne rejoint pas la promenade.",
+      "development": "Participation et fonctionnement adaptés, pas certificat de guérison ni garantie d’innocuité. Trois appuis : tenir la tâche délimitée ; respecter la fin de l’échange ; maintenir rendez-vous et engagements. Aucun aménagement présenté comme un traitement validé ou un droit général.",
+      "ending": "Maud confirme la réception du carnet de six images pour le groupe adulte. Sylvain ferme le dossier vert, conserve son rendez-vous et note une idée de série sur les arbres en hiver, sans prendre de nouvel engagement de sortie.",
+      "next": "Le carnet est achevé ; son projet photographique se poursuit avec des limites révisables et un suivi indépendant des réussites sociales.",
+      "source_refs": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "wfsbp-2020"
+      ],
+      "diagnostic_stage": "known"
+    }
+  ]
+}

@@ -118,6 +118,24 @@ class ClinicalAgentContractTests(unittest.TestCase):
         for relative, digest in review["files"].items():
             self.assertEqual(digest, self.sha(relative))
 
+    def test_full_diagnostic_label_can_exceed_secondary_topic_limit(self):
+        dossier = self.read("editorial/clinical/dossiers/mireille.json")
+        previous = dossier["dossier"]["name"]
+        label = "Trouble paraphilique impliquant un comportement solitaire ou des individus consentants"
+        self.assertGreater(len(label), 72)
+        dossier["dossier"]["name"] = label
+        self.write("editorial/clinical/dossiers/mireille.json", dossier)
+        self.design["bio"] = self.design["bio"].replace(previous.lower(), label)
+        self.design["profile_topics"][0] = label
+        self.save_design()
+        self.assertEqual(contracts.validate_design("mireille")["episodes"], 12)
+
+    def test_secondary_profile_topics_remain_limited(self):
+        self.design["profile_topics"][1] = "Repère secondaire " + "long " * 16
+        self.save_design()
+        with self.assertRaises(ValueError):
+            contracts.validate_design("mireille")
+
     def test_biography_preserves_canonical_name_age_diagnosis_and_length(self):
         for bio in ("Mireille présente un trouble neurocognitif léger.",
                     self.manuscript["bio"].replace("trouble neurocognitif léger", "difficulté encore mal comprise"),

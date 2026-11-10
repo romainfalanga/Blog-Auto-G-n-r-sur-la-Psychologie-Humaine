@@ -78,7 +78,8 @@ def validate_design(ident):
             'Prénom et âge canoniques requis dans la biographie')
     topics = design.get('profile_topics')
     require(isinstance(topics, list) and len(topics) == 5
-            and all(clinical.paragraph(topic) and len(topic) <= 72 for topic in topics)
+            and all(clinical.paragraph(topic) for topic in topics)
+            and all(len(topic) <= 72 for topic in topics[1:])
             and topics[0] == dossier['name']
             and len({clinical.normalized(topic) for topic in topics}) == 5,
             'Cinq repères distincts, le premier étant le trouble exact')
