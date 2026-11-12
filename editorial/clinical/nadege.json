@@ -850,6 +850,112 @@
       },
       "clinical_focus": "Moins d’élan : apathie, tristesse ou fatigue à évaluer",
       "diagnostic_stage": "known"
+    },
+    {
+      "number": 9,
+      "slug": "nadege-signes-neurologiques-brutaux-appeler-15",
+      "title": "Signes neurologiques brutaux : appeler le 15 aussitôt",
+      "description": "Au marché, le sac de pommes glisse de la main de Nadège et sa parole change d’un coup : Josette appelle le 15 sans attendre ni l’attribuer à la démence.",
+      "context": "au marché un samedi de mars",
+      "topics": [
+        "Démence due à une maladie cérébrovasculaire",
+        "urgence neurologique",
+        "appel au 15"
+      ],
+      "clinical_intro": "Une faiblesse soudaine d’un côté du corps, une parole qui change brusquement ou un visage qui se déforme sont des signes d’urgence médicale : ils peuvent traduire un accident vasculaire cérébral ou un accident ischémique transitoire. Même chez une personne dont la démence est connue, un changement brutal ne doit pas être mis sur le compte de la maladie. Au marché, la voisine de Nadège appelle le 15 tout de suite.",
+      "opening": "Le samedi 6 mars, le marché de la place Saint-Pierre est plein malgré le vent. Josette, la voisine de palier de Nadège, ancienne vendeuse de la pâtisserie Delaunay, l’accompagne comme chaque samedi, son caddie écossais derrière elle. Elles ont acheté des œufs, une botte de poireaux, et maintenant des reinettes pour la Tatin : Bastien vient la filmer mercredi, c’est décidé depuis sa visite du 24 février. Nadège a choisi les pommes une à une, fermes, un peu acides.\n\nÀ dix heures douze, d’après l’horloge de l’église, le sac de pommes glisse de sa main droite. Les reinettes roulent entre les pieds du stand. Nadège regarde sa main comme si elle appartenait à quelqu’un d’autre. Elle veut dire à Josette que ce n’est rien, qu’elle est maladroite ce matin, mais ce qui sort est pâteux, mal articulé, comme si sa bouche était pleine. Josette voit le coin droit de ses lèvres tomber.\n\nJosette sait que Nadège a une démence ; elle l’a appris en décembre, de la bouche même de Nadège, sur le palier. Elle l’a vue chercher ses mots, hésiter devant un calcul, perdre le fil d’une histoire. Ce n’est pas cela. Il y a une minute, Nadège discutait le prix des pommes avec le maraîcher, la voix claire. Maintenant elle ne peut plus tenir un sac ni finir une phrase.\n\nJosette ne lui demande pas de sourire, ne lui fait pas lever les bras, n’attend pas que ça passe. Elle la fait asseoir sur la chaise pliante du maraîcher, sort son téléphone et compose le 15. Le maraîcher ramasse les pommes sans rien dire.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Un changement brutal est une urgence, quel que soit le diagnostic connu",
+          "text": "Un accident vasculaire cérébral se manifeste par l’apparition brutale d’un déficit neurologique d’origine vasculaire, comme une faiblesse d’un côté, une parole troublée ou un visage asymétrique ; ces signes demandent un appel immédiat au 15, le Samu, ou au 112, et c’est aux soignants de rechercher la cause, y compris d’autres explications possibles. Ils diffèrent des difficultés connues d’une démence, qui ne surgissent pas d’une minute à l’autre. Chez Nadège, la démence due à une maladie cérébrovasculaire est diagnostiquée depuis un an, mais elle ne permet pas d’interpréter ce qui se passe au marché. Josette n’a pas à poser de diagnostic : elle constate un changement soudain, le décrit au téléphone et laisse les médecins décider de ce que c’est."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment reconnaître qu’un changement soudain sort des difficultés habituelles ?",
+          "points": [
+            {
+              "heading": "Un début soudain",
+              "text": "Ce qui alerte, c’est la rupture : un état normal une minute plus tôt, puis un changement net.",
+              "examples": [
+                "Nadège discutait le prix des pommes d’une voix claire juste avant que le sac tombe.",
+                "Josette peut donner l’heure précise, dix heures douze, à l’horloge de l’église."
+              ]
+            },
+            {
+              "heading": "Une faiblesse d’un côté",
+              "text": "Une main ou un bras qui lâche soudain, d’un seul côté, est un signe à transmettre immédiatement.",
+              "examples": [
+                "Le sac de pommes glisse de la main droite de Nadège sans qu’elle l’ait lâché exprès.",
+                "Elle regarde sa main comme si elle ne lui obéissait plus."
+              ]
+            },
+            {
+              "heading": "Une parole et un visage changés",
+              "text": "Des mots soudain mal articulés ou un côté du visage qui tombe ne ressemblent pas à la recherche de mots habituelle.",
+              "examples": [
+                "Ce que Nadège veut dire sort pâteux, comme si sa bouche était pleine.",
+                "Josette voit le coin droit de ses lèvres s’affaisser."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour réagir à des signes neurologiques soudains",
+          "points": [
+            {
+              "heading": "Appeler le 15 sans attendre",
+              "objective": "Faire intervenir les secours le plus tôt possible.",
+              "exercise": [
+                "Composer le 15, ou le 112, dès que les signes apparaissent, même s’ils semblent s’atténuer.",
+                "Décrire ce qu’on voit avec des mots simples : la main, la parole, le visage.",
+                "Suivre les consignes du médecin régulateur et rester avec la personne."
+              ],
+              "benefit": "Les soignants peuvent évaluer et orienter rapidement ; attendre pour voir ou faire ses propres tests fait perdre du temps."
+            },
+            {
+              "heading": "Noter l’heure du début",
+              "objective": "Donner aux médecins une information dont ils ont besoin.",
+              "exercise": [
+                "Regarder l’heure dès que le changement apparaît, sur une montre, un téléphone ou une horloge.",
+                "Noter aussi l’heure à laquelle la personne allait encore bien pour la dernière fois.",
+                "Transmettre ces heures au régulateur puis à l’équipe qui arrive."
+              ],
+              "benefit": "L’heure aide les médecins à décider des examens et de la suite, ce qu’aucun proche ne peut faire à leur place."
+            },
+            {
+              "heading": "Transmettre ce qu’on sait déjà",
+              "objective": "Informer les secours sans interpréter.",
+              "exercise": [
+                "Signaler le diagnostic connu, ici la démence, comme une information et non comme une explication.",
+                "Donner la liste des traitements si elle est disponible, par exemple dans un portefeuille.",
+                "Prévenir un proche choisi par la personne, avec son accord si elle peut le donner."
+              ],
+              "benefit": "Les soignants ont une vue complète, et la personne n’est pas réduite à son diagnostic au moment de l’urgence."
+            }
+          ]
+        }
+      ],
+      "ending_title": "L’heure à l’horloge de l’église",
+      "ending": "Au téléphone, Josette répond aux questions du médecin régulateur : la main droite, la parole, la bouche, dix heures douze. Elle dit aussi que Nadège a une démence diagnostiquée l’an dernier et que la liste de ses traitements est dans son portefeuille, sans ajouter que « c’est sûrement ça ». Elle reste assise à côté d’elle, comme on le lui demande. Les secours arrivent et emmènent Nadège au centre hospitalier ; ce sont les médecins qui chercheront la cause. Avant de monter, Nadège sort son téléphone avec la main gauche et le tend à Josette, en montrant le nom de Bastien. Josette l’appelle depuis la place, le caddie à ses pieds. Bastien quitte son atelier et part pour l’hôpital. Le sac de reinettes reste chez Josette.",
+      "conclusion": "Un déficit neurologique soudain est une urgence médicale, même chez une personne dont la démence est connue, et son origine revient aux médecins. Josette appelle le 15 sans tester ni interpréter, et l’histoire de Nadège s’interrompt sur une question que seule l’équipe hospitalière peut éclairer.",
+      "mirror": [
+        "Josette n’a fait que trois choses, et elles suffisent : regarder l’heure, appeler le 15, rester assise à côté de Nadège. Au téléphone, elle peut dire : « Elle a une démence connue, mais ça, c’est nouveau, ça a commencé d’un coup. » Un proche n’a ni à faire ses propres tests ni à attendre que cela passe, même si les signes s’effacent. Il peut ensuite garder les pommes, prévenir la personne que Nadège a choisie et laisser les médecins conclure."
+      ],
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "nice-ng128",
+        "spf-avc",
+        "service-public-samu"
+      ],
+      "continuity": {
+        "choice": "Josette appelle le 15 à dix heures douze, transmet l’heure, le diagnostic connu et la liste des traitements sans interpréter ; Nadège est hospitalisée et lui tend son téléphone pour prévenir Bastien ; la vidéo de la Tatin du mercredi 10 mars n’aura pas lieu.",
+        "next": "Rentrée chez elle, Nadège revoit avec le docteur Benali le suivi de sa tension après ce que l’équipe a appelé un accident ischémique transitoire."
+      },
+      "clinical_focus": "Signes neurologiques brutaux : appeler le 15 aussitôt",
+      "diagnostic_stage": "known"
     }
   ]
 }

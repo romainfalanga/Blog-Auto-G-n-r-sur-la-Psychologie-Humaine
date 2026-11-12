@@ -1059,6 +1059,111 @@
         "next": "Le jeudi suivant, Hugo Lambert et Mme Diallo viendront reprendre le plan d’aide pour que les visites tiennent compte des jours où l’attention varie ; Anis voudra savoir ce qui reste à sa charge."
       },
       "diagnostic_stage": "known"
+    },
+    {
+      "number": 11,
+      "slug": "farid-soutien-previsible-plan-aide-jeudi",
+      "title": "Un soutien prévisible quand l’attention varie d’un jour à l’autre",
+      "description": "Farid est somnolent le jour où l’équipe vient revoir le plan d’aide. Garder le même cadre, prévoir une version courte et préciser le rôle de chacun.",
+      "context": "à la maison, la visite du jeudi",
+      "topics": [
+        "plan d’aide",
+        "version courte",
+        "rôle et limites des proches"
+      ],
+      "clinical_focus": "Un soutien prévisible quand l’attention varie",
+      "clinical_intro": "Quand l’attention et l’éveil varient d’un jour à l’autre, un soutien efficace garde des repères fixes et prévoit d’emblée une version plus courte pour les jours difficiles. Le plan se construit avec la personne, selon ses préférences, et se revoit en équipe. Le jour où Farid est somnolent, son équipe de soutien et son fils doivent décider sans tout reporter.",
+      "opening": "Jeudi, neuf heures. Hugo Lambert, l’ergothérapeute de l’équipe de soutien au domicile, et Mme Diallo, l’assistante de soins en gérontologie qui vient chaque jeudi, sonnent ensemble. Ils viennent revoir le plan d’aide, une semaine après la chute. Anis, le fils de Farid, professeur de technologie, est là aussi : ses cours commencent à dix heures et demie ce jour-là.\n\nFarid leur ouvre en robe de chambre. Il a mal dormi, il le dit tout de suite. Dans la cuisine, il s’assoit, les paupières lourdes, et répond lentement. Quand Hugo propose de revenir la semaine prochaine, Farid se redresse. « Non. Votre visite a déjà été annulée une fois, à cause de ma chute. Si on déplace encore, on ne fera jamais rien. Je suis fatigué, pas absent. »\n\nAnis, lui, a préparé ses questions sur une feuille. Il a déjà abaissé l’étagère haute de l’atelier lundi, avec l’accord de son père, en attendant l’avis d’Hugo. Mais il ne peut pas venir tous les soirs ; il a ses classes, ses copies, une vie à lui. Depuis la chute, il appelle chaque soir et dort mal. « J’ai besoin de savoir sur quoi je peux compter, dit-il, et ce qui reste à ma charge. »\n\nSur la table, il y a aussi une lettre arrivée la veille : Gilles Perrot, le président du musée Les Lampes du Faubourg, accepte la répartition, neuf postes en l’état et trois remis en marche par Maryse. Il propose une présentation un samedi après-midi. Farid la pousse vers Mme Diallo sans rien dire.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Un cadre stable pour une attention qui varie",
+          "text": "Quand une démence s’accompagne de fluctuations, l’accompagnement gagne à reposer sur des repères stables : les mêmes jours, les mêmes heures, les mêmes personnes, avec une version courte prévue à l’avance pour les jours moins favorables. Les recommandations demandent que les objectifs soient fixés selon les besoins et les préférences de la personne, revus en équipe, et qu’un professionnel coordonne le plan. Elles prévoient aussi d’informer et de soutenir les proches. Ces arrangements organisent la vie quotidienne ; ils ne constituent pas un traitement et ne changent pas l’évolution de la maladie. Ce jeudi, Farid est somnolent : reporter la visite reviendrait à faire dépendre tout le soutien de ses bons jours, alors que ceux-ci ne se prévoient pas. Garder la visite en la raccourcissant respecte à la fois son état du moment et sa demande de ne plus tout déplacer."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment l’imprévisibilité des journées pèse-t-elle sur le soutien ?",
+          "points": [
+            {
+              "heading": "Des rendez-vous menacés par l’état du jour",
+              "text": "La tentation est de reporter dès que la personne paraît moins disponible.",
+              "examples": [
+                "Hugo propose de revenir la semaine suivante en voyant Farid somnolent.",
+                "Sa première visite avait déjà été annulée après la chute."
+              ]
+            },
+            {
+              "heading": "Une personne qui tient à son cadre",
+              "text": "Même fatiguée, la personne peut avoir un avis net sur l’organisation.",
+              "examples": [
+                "Farid refuse qu’on déplace encore le rendez-vous.",
+                "Il dit qu’il est fatigué, pas absent."
+              ]
+            },
+            {
+              "heading": "Un proche qui ne sait plus où s’arrêter",
+              "text": "Sans rôle défini, l’aidant tend à combler toutes les incertitudes.",
+              "examples": [
+                "Anis appelle chaque soir depuis la chute et dort mal.",
+                "Il a abaissé l’étagère avant l’avis de l’ergothérapeute."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour rendre le soutien prévisible",
+          "points": [
+            {
+              "heading": "Des horaires stables avec un plan bref",
+              "objective": "Maintenir les visites même les jours moins favorables.",
+              "exercise": [
+                "Fixer avec la personne des jours et des heures qui ne bougent pas.",
+                "Prévoir pour chaque visite une version courte, avec l’essentiel seulement.",
+                "Décider au début de la visite, avec elle, quelle version on suit."
+              ],
+              "benefit": "Le soutien ne dépend plus des bons jours ; il reste un arrangement d’organisation."
+            },
+            {
+              "heading": "Organiser l’atelier selon l’ergothérapie",
+              "objective": "Adapter le lieu de vie aux besoins actuels, avec un professionnel.",
+              "exercise": [
+                "Montrer à l’ergothérapeute les endroits qui posent problème.",
+                "Discuter de ses propositions avec la personne avant de les mettre en place.",
+                "Prévoir une date pour revoir l’aménagement."
+              ],
+              "benefit": "L’atelier peut rester utilisable plus sereinement ; l’aménagement ne traite pas la maladie."
+            },
+            {
+              "heading": "Préciser le rôle de chaque proche",
+              "objective": "Que chacun sache ce qu’il fait, et ce qu’il ne fait pas.",
+              "exercise": [
+                "Écrire qui vient quand, et qui appeler pour quoi.",
+                "Nommer ce que le proche ne prend pas en charge.",
+                "Indiquer les ressources pour les aidants proposées par l’équipe."
+              ],
+              "benefit": "Le proche peut tenir dans la durée, et la personne sait à qui s’adresser."
+            }
+          ]
+        }
+      ],
+      "ending_title": "La version courte du jeudi",
+      "ending": "Mme Diallo propose la version courte : vingt minutes à la table, puis dix minutes à l’atelier. Farid accepte. Dans l’atelier, Hugo valide l’étagère abaissée, demande d’y ajouter une butée et conseille de remplacer le néon qui grésille par un éclairage plus régulier au-dessus de l’établi. Farid hoche la tête : « Une lumière qui ne clignote pas, je suis d’accord. »\n\nÀ la table, Mme Diallo écrit le plan sur une seule feuille qu’elle colle sur le réfrigérateur, à côté de la liste des traitements : jeudi matin, neuf heures, Mme Diallo, comme avant ; Hugo, référent du plan, revient dans un mois ; Anis, le mardi soir seulement, plus un appel le dimanche. Pour le reste, le numéro de l’équipe. Mme Diallo donne à Anis la date d’une réunion pour les aidants. L’évaluation des chutes à l’hôpital est notée en bas, à sa date.\n\nPour la lettre de Gilles, Farid relit et dicte une réponse : la présentation se fera un mardi matin, pas un samedi après-midi. Hugo et Mme Diallo partent à neuf heures quarante. Farid retourne se coucher. Rien ne dit que le jeudi suivant sera meilleur ; le plan est fait pour ne pas avoir à le savoir.",
+      "conclusion": "Un soutien prévisible ne supprime pas les fluctuations de la démence à corps de Lewy, mais il évite que tout dépende d’elles. Farid garde sa visite du jeudi en version courte, Anis sait désormais ce qui lui revient, et la présentation au musée est placée un matin.",
+      "mirror": [
+        "Anis a dit : « J’ai besoin de savoir ce qui reste à ma charge. » C’est une demande légitime, pas un abandon. Un proche peut la formuler devant l’équipe et demander qu’elle soit écrite : « Je viens le mardi soir, j’appelle le dimanche, et pour le reste j’appelle votre numéro. » Il peut aussi dire ce qu’il ne fera pas, comme passer toutes ses soirées chez son père, et accepter le soutien proposé aux aidants, sans se sentir obligé de tout compenser."
+      ],
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "has-fiche13-comportement",
+        "nice-ng97"
+      ],
+      "continuity": {
+        "choice": "La visite a lieu en version courte. Hugo valide l’étagère abaissée, ajoute une butée et un éclairage régulier ; Mme Diallo garde le jeudi à neuf heures ; Anis vient le mardi soir seulement et appelle le dimanche. Le plan tient sur une feuille au réfrigérateur. Gilles a accepté la répartition ; Farid demande que la présentation ait lieu un mardi matin.",
+        "next": "Quelques semaines plus tard, un mardi matin, les douze postes seront présentés au musée Les Lampes du Faubourg, avant la signature de la convention, en sachant que la maladie continuera d’évoluer."
+      },
+      "diagnostic_stage": "known"
     }
   ]
 }

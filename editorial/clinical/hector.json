@@ -1165,6 +1165,112 @@
       },
       "clinical_focus": "Le delirium n’est ni une démence ni la vieillesse",
       "diagnostic_stage": "known"
+    },
+    {
+      "number": 12,
+      "slug": "hector-risque-recidive-plan-dans-le-couvercle",
+      "title": "Un delirium passé augmente le risque d’un nouvel épisode",
+      "description": "Sur le chantier de la longère, Julien trouve dans le couvercle de la caisse le plan d’Hector en cas de nouveau changement brutal.",
+      "context": "la huitième semaine, sur le chantier de la longère",
+      "topics": [
+        "Delirium",
+        "risque de nouvel épisode",
+        "plan d’appel"
+      ],
+      "clinical_intro": "Avoir déjà eu un delirium augmente le risque d’en refaire un, en particulier lors d’une nouvelle maladie ou d’une hospitalisation. Le savoir ne demande pas une surveillance de chaque instant. Cela permet d’agir vite, sans attendre ni deviner la cause : décrire ce qui est habituel, savoir qui appeler, signaler l’épisode passé aux soignants. À la huitième semaine, Hector range ce plan là où Julien le trouvera.",
+      "opening": "Le samedi de la huitième semaine, à dix heures, Hector Ménard, 77 ans, charpentier retraité qui a traversé un delirium pendant son hospitalisation à Saumur, descend de la voiture de Bernard, son voisin et ancien compagnon de chantier, devant la longère de Julien, son neveu. Bernard porte la caisse jusqu’à la grange ; Hector marche à côté, une main sur le couvercle. Elle est prête depuis mercredi. Chaque outil a été nettoyé et huilé, chaque tiroir porte une étiquette de sa main : le rabot à la semelle en charme, le trusquin, l’équerre, le maillet, les ciseaux à bois du six au trente. Il a fallu sept semaines au lieu de deux. Il ne s’en excuse pas.\n\nJulien a les mains blanches de chaux. Il essuie ses paumes, regarde la caisse posée sur deux tréteaux, sous la charpente refaite de la grange. Il soulève le couvercle. Collée à l’intérieur, protégée par une feuille plastique, il y a une fiche écrite au crayon plat, en lettres droites. Hector l’a rédigée le mardi de la septième semaine, au cabinet du docteur Garnier, son médecin traitant, qui l’a relue avec lui et en garde une copie dans son dossier.\n\nEn haut : « Hector, d’habitude : se lève à sept heures, fait sa soupe le soir, sait toujours le jour, discute bois et outils. » Puis : « Si je change d’un coup, en quelques heures ou en un jour : je ne suis plus la conversation, je me trompe de lieu ou d’heure, je dors toute la journée ou je m’agite, je ne bois plus. » Puis, souligné deux fois : « Appeler le 15 sans attendre. Ne pas chercher pourquoi. » Et enfin : « À l’hôpital, dire : delirium à Saumur, après une infection pulmonaire et une déshydratation. »\n\nJulien lit deux fois. Il ne dit rien pendant un moment.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Un épisode passé qui compte pour l’avenir",
+          "text": "Un antécédent de delirium fait partie des facteurs qui rendent un nouvel épisode plus probable, surtout chez une personne âgée qui tombe malade ou entre à l’hôpital. Ce risque ne permet pas de prédire ce qui arrivera à une personne donnée, et il ne transforme pas la vie quotidienne en surveillance. Il justifie en revanche quelques précautions simples : que l’entourage connaisse le fonctionnement habituel de la personne, qu’un changement brutal conduise à appeler sans délai, et que l’épisode passé soit signalé aux soignants lors de toute admission, pour qu’ils en tiennent compte. La recherche de la cause reste celle des professionnels. La fiche d’Hector suit cette logique : elle ne demande pas à Julien de le surveiller ni de deviner ce qui ne va pas, seulement de reconnaître un changement soudain et d’appeler."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment le risque d’un nouvel épisode se traduit-il dans la vie ordinaire ?",
+          "points": [
+            {
+              "heading": "Un repère de ce qui est habituel",
+              "text": "Le changement ne se reconnaît que si l’on sait à quoi ressemble la personne d’ordinaire.",
+              "examples": [
+                "La fiche commence par les habitudes d’Hector : le lever à sept heures, la soupe du soir, le jour qu’il sait toujours.",
+                "Julien se rappelle qu’à l’hôpital, c’était déjà la comparaison avec midi qui avait alerté."
+              ]
+            },
+            {
+              "heading": "Un appel plutôt qu’une enquête",
+              "text": "En cas de changement brutal, la réponse attendue est d’appeler vite, sans chercher la cause soi-même.",
+              "examples": [
+                "Hector a souligné deux fois : appeler le 15 sans attendre.",
+                "Il a écrit en dessous : ne pas chercher pourquoi."
+              ]
+            },
+            {
+              "heading": "Une information à transmettre aux soignants",
+              "text": "Signaler l’épisode antérieur aide l’équipe qui accueille la personne à en tenir compte.",
+              "examples": [
+                "La fiche contient la phrase à dire à toute admission : delirium à Saumur, après une infection et une déshydratation.",
+                "Le docteur Garnier en garde une copie dans le dossier d’Hector."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour préparer un plan après un delirium",
+          "points": [
+            {
+              "heading": "Décrire son fonctionnement habituel par écrit",
+              "objective": "Donner à l’entourage et aux soignants un point de comparaison.",
+              "exercise": [
+                "Écrire avec la personne trois ou quatre habitudes qui la caractérisent.",
+                "Ajouter ce qu’elle fait seule sans difficulté, comme savoir le jour ou cuisiner.",
+                "Relire cette description avec son médecin traitant et la mettre à jour si elle change."
+              ],
+              "benefit": "Un changement brutal peut être repéré et décrit plus vite, par n’importe quel proche."
+            },
+            {
+              "heading": "Savoir qui appeler en cas de changement brutal",
+              "objective": "Agir vite sans hésiter ni trier les causes.",
+              "exercise": [
+                "Noter en quelques mots ce qu’est un changement soudain par rapport à d’habitude.",
+                "Écrire le numéro à appeler : le 15 pour une urgence médicale.",
+                "Ranger la fiche à un endroit choisi par la personne et connu de ses proches."
+              ],
+              "benefit": "L’entourage sait quoi faire, sans attendre le lendemain ni jouer au médecin."
+            },
+            {
+              "heading": "Signaler l’épisode aux soignants",
+              "objective": "Permettre aux équipes futures de tenir compte du risque.",
+              "exercise": [
+                "Préparer une phrase courte qui résume l’épisode, le lieu et les causes retenues.",
+                "La dire à toute admission, ou la faire dire par le proche présent.",
+                "Vérifier avec le médecin traitant que l’épisode figure dans le dossier."
+              ],
+              "benefit": "L’équipe peut être attentive plus tôt, sans que la personne ait à tout raconter."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Le rabot réglé, la caisse confiée",
+      "ending": "Sous la fiche, il y a un mot plié en deux. Julien l’ouvre. « Julien, cette caisse a quarante-sept ans. Elle a attendu sept semaines de plus. Prends soin du fer du rabot. Ton oncle, Hector. » Julien replie le mot et le remet sous la fiche. « Je ne vais pas te surveiller, tu sais. » Hector répond : « Je ne te le demande pas. Je te demande d’appeler si je change d’un coup. » Puis il sort le rabot de la caisse et montre à Julien comment régler le fer : il desserre le coin d’un coup de maillet léger sur le talon, vise la semelle à contre-jour, sort le fer d’un cheveu, resserre. Il ne touche pas de planche. Julien refait le geste deux fois. Hector referme le couvercle, pose la main dessus, puis la retire. Il garde le crayon plat dans la poche de sa veste. « Je viendrai voir ta charpente au printemps. » Le rendez-vous avec le docteur Garnier, pour la mémoire et le quotidien, reste fixé, dans un peu plus de deux mois ; personne ne sait ce qu’il dira, et Hector ne demande pas à le savoir aujourd’hui. Bernard le ramène à midi. Le soir, il fait sa soupe.",
+      "conclusion": "Avoir eu un delirium rend un nouvel épisode plus probable, mais ce risque se prépare par quelques mots écrits, un appel rapide et une information transmise aux soignants, pas par une surveillance. Hector tient sa promesse, confie la caisse, garde son crayon et son atelier, et laisse l’avenir à son suivi, sans verdict.",
+      "mirror": [
+        "En lisant la fiche, Julien a dit qu’il ne surveillerait pas son oncle, et Hector ne le lui demandait pas. Un proche peut accepter ce rôle limité et le dire clairement : « Si tu changes d’un coup, j’appelle le 15, et je leur dis pour Saumur. » Il peut demander où est rangée la fiche et en garder une photo sur son téléphone. Il ne cherche pas lui-même la cause d’un changement brutal, ne guette pas chaque oubli et continue de parler bois et charpente avec la personne."
+      ],
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "sign-157",
+        "nice-cg103",
+        "service-public-urgences"
+      ],
+      "continuity": {
+        "choice": "Hector remet à Julien la caisse nettoyée, huilée et étiquetée, avec dans le couvercle la fiche rédigée avec le docteur Garnier et un mot de sa main ; il montre le réglage du rabot, garde le crayon plat et maintient la consultation mémoire et quotidien prévue.",
+        "next": "La série se clôt : la promesse est tenue, le plan reste dans le couvercle, Hector garde son atelier et son suivi continue sans verdict sur l’avenir."
+      },
+      "clinical_focus": "Un épisode passé augmente le risque d’un autre",
+      "diagnostic_stage": "known"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "revision": 942,
+  "revision": 949,
   "created_at": "2026-11-07T14:47:42Z",
   "cases": {
     "mathis": {
@@ -5642,12 +5642,14 @@
       "code": "6D84",
       "stage": "story",
       "created_at": "2026-11-07T14:47:42Z",
-      "active_job": null,
+      "active_job": "1e4253ffcac146719a27afaace47b429",
       "owners": {
         "character": [
           "personnage_oumar"
         ],
-        "story": [],
+        "story": [
+          "story_oumar"
+        ],
         "review": []
       },
       "revision_rounds": 0,
@@ -5718,9 +5720,9 @@
     "clarisse": {
       "character_id": "clarisse",
       "code": "6D85.1",
-      "stage": "character",
+      "stage": "story",
       "created_at": "2026-11-07T14:47:42Z",
-      "active_job": "379a7432e8ba4e6492605f52b76c1fe2",
+      "active_job": null,
       "owners": {
         "character": [
           "personnage_clarisse"
@@ -5729,7 +5731,21 @@
         "review": []
       },
       "revision_rounds": 0,
-      "accepted": {},
+      "accepted": {
+        "character": {
+          "job_id": "379a7432e8ba4e6492605f52b76c1fe2",
+          "owner": "personnage_clarisse",
+          "validated_at": "2026-11-12T10:42:38Z",
+          "validation": {
+            "character_id": "clarisse",
+            "files": {
+              "editorial/clinical/designs/clarisse.json": "5d40c8cb959c26f24669d96ccede83735ced9898f215520f0889091ece240693",
+              "editorial/clinical/dossiers/clarisse.json": "eecc9d8a053dae8ca2631fa6f215f7c63778178f1f24c435583c193ae17cf2ac"
+            },
+            "episodes": 12
+          }
+        }
+      },
       "observed_at_init": {
         "manuscript_sha256": null,
         "episodes_present": 0,
@@ -108541,8 +108557,8 @@
       "snapshot_sha256": "b8ac4b8b4d515e823a153b5886e8c934a16de079e74a901d018ad9eb13a97190",
       "status": "active",
       "token_sha256": "2b1b0299c58ae886458e3f844db54c540fda991126d9bec10203f4d9b40bba5b",
-      "heartbeat_at": "2026-11-12T10:41:42Z",
-      "expires_at": "2026-11-12T11:41:42Z",
+      "heartbeat_at": "2026-11-12T10:42:36Z",
+      "expires_at": "2026-11-12T11:42:36Z",
       "checkpoints": [
         {
           "at": "2026-11-12T10:33:01Z",
@@ -108692,6 +108708,20 @@
           "observed": {
             "manuscript_sha256": "a0eab7ed606365f52525803ddd289c0462e05375c2d8b55a40a6ed1de4629cd5",
             "episodes_present": 11,
+            "manuscript_readable": true,
+            "design_sha256": "446a3648f24d12ef8f72c7b8709a09ba066d779affd4904f2cfd6d1afe280b21",
+            "dossier_sha256": "850ae8eb3d15d375fabee0a39688ee04782e24b10e542601e5e0ea60218cc0ad",
+            "review_sha256": null
+          }
+        },
+        {
+          "at": "2026-11-12T10:42:36Z",
+          "outputs": {
+            "editorial/clinical/hector.json": "2df050aab06ee9f99aceb8fa900ad02d4db3a6db09343bd2a76fa49b2b52bf1c"
+          },
+          "observed": {
+            "manuscript_sha256": "2df050aab06ee9f99aceb8fa900ad02d4db3a6db09343bd2a76fa49b2b52bf1c",
+            "episodes_present": 12,
             "manuscript_readable": true,
             "design_sha256": "446a3648f24d12ef8f72c7b8709a09ba066d779affd4904f2cfd6d1afe280b21",
             "dossier_sha256": "850ae8eb3d15d375fabee0a39688ee04782e24b10e542601e5e0ea60218cc0ad",
@@ -111522,8 +111552,8 @@
       "snapshot_sha256": "e9a822d41eb38f38186da73bb702a0116a2c855713e88cb27216a92933b44d6a",
       "status": "active",
       "token_sha256": "80232141c4159c2f4e8ab667d5303cef4ef96b884170b64ce89ed467dbe61143",
-      "heartbeat_at": "2026-11-12T10:41:29Z",
-      "expires_at": "2026-11-12T11:41:29Z",
+      "heartbeat_at": "2026-11-12T10:42:23Z",
+      "expires_at": "2026-11-12T11:42:23Z",
       "checkpoints": [
         {
           "at": "2026-11-12T10:34:28Z",
@@ -111659,6 +111689,20 @@
           "observed": {
             "manuscript_sha256": "c1d15a1f5fe677c70518910f80d09d69d1c3214d25932f7aece2513dd5e4d87c",
             "episodes_present": 10,
+            "manuscript_readable": true,
+            "design_sha256": "8d88a591a9e08e92e7ebf5cf3b61323f27828aae3dcd12927bc8983b768e3765",
+            "dossier_sha256": "9f8406d860519a4c1f9048de161040706352640e8ee68fa499c8d512147e5f2e",
+            "review_sha256": null
+          }
+        },
+        {
+          "at": "2026-11-12T10:42:23Z",
+          "outputs": {
+            "editorial/clinical/farid.json": "3f601e091f26a5c9f96c5f051a186d95bb41f5a41dd870c2a064305695d3b760"
+          },
+          "observed": {
+            "manuscript_sha256": "3f601e091f26a5c9f96c5f051a186d95bb41f5a41dd870c2a064305695d3b760",
+            "episodes_present": 11,
             "manuscript_readable": true,
             "design_sha256": "8d88a591a9e08e92e7ebf5cf3b61323f27828aae3dcd12927bc8983b768e3765",
             "dossier_sha256": "9f8406d860519a4c1f9048de161040706352640e8ee68fa499c8d512147e5f2e",
@@ -113898,8 +113942,8 @@
       "snapshot_sha256": "ffc5b392b2c4babe5e2b02e8f785edfe0f0093bc6a7be32371fd00c0a6754a1f",
       "status": "active",
       "token_sha256": "26ce0b0500fe9bcce350081662ae1808420520ce1150b1362fc74fe72f5f2f0e",
-      "heartbeat_at": "2026-11-12T10:41:41Z",
-      "expires_at": "2026-11-12T11:41:41Z",
+      "heartbeat_at": "2026-11-12T10:42:33Z",
+      "expires_at": "2026-11-12T11:42:33Z",
       "checkpoints": [
         {
           "at": "2026-11-12T10:35:37Z",
@@ -114007,6 +114051,20 @@
           "observed": {
             "manuscript_sha256": "5626962f1550f4a655623b48611fd941a26b11e4f314756bc81ff2c7d5f5cd96",
             "episodes_present": 8,
+            "manuscript_readable": true,
+            "design_sha256": "257fec98799ee8e236e244dcc68d5f8f49b6be8a297d2e88e3aba2308b105608",
+            "dossier_sha256": "c8053e8b6bac33056a1c3257426c6c4710450fda88de8738db057a15ae733fa9",
+            "review_sha256": null
+          }
+        },
+        {
+          "at": "2026-11-12T10:42:33Z",
+          "outputs": {
+            "editorial/clinical/nadege.json": "5834840c53d892d4794481c7a0463489b4d8a83cc3779401ce029bcb0571cd33"
+          },
+          "observed": {
+            "manuscript_sha256": "5834840c53d892d4794481c7a0463489b4d8a83cc3779401ce029bcb0571cd33",
+            "episodes_present": 9,
             "manuscript_readable": true,
             "design_sha256": "257fec98799ee8e236e244dcc68d5f8f49b6be8a297d2e88e3aba2308b105608",
             "dossier_sha256": "c8053e8b6bac33056a1c3257426c6c4710450fda88de8738db057a15ae733fa9",
@@ -114622,10 +114680,19 @@
         }
       },
       "snapshot_sha256": "bcf9f7eae22d1fb92b8e5c9d7fe22d6ec4bc71a49df70a965b6b90f368de085d",
-      "status": "active",
+      "status": "finished",
       "token_sha256": "9ec4b62656dcc35e1dfebeaa7caa98aa0fc6fe4025c89614ce878db1316b2848",
       "heartbeat_at": "2026-11-12T10:32:42Z",
-      "expires_at": "2026-11-12T11:32:42Z"
+      "expires_at": "2026-11-12T11:32:42Z",
+      "finished_at": "2026-11-12T10:42:38Z",
+      "validation": {
+        "character_id": "clarisse",
+        "files": {
+          "editorial/clinical/designs/clarisse.json": "5d40c8cb959c26f24669d96ccede83735ced9898f215520f0889091ece240693",
+          "editorial/clinical/dossiers/clarisse.json": "eecc9d8a053dae8ca2631fa6f215f7c63778178f1f24c435583c193ae17cf2ac"
+        },
+        "episodes": 12
+      }
     },
     "17d6aa84539c4120b86531d737044c72": {
       "id": "17d6aa84539c4120b86531d737044c72",
@@ -127426,7 +127493,450 @@
       "token_sha256": "8a4f6059d4c41c25578054d90bd4da5ee389d8174bc300983f7c2700e440aa0a",
       "heartbeat_at": "2026-11-12T10:41:54Z",
       "expires_at": "2026-11-12T11:41:54Z"
+    },
+    "1e4253ffcac146719a27afaace47b429": {
+      "id": "1e4253ffcac146719a27afaace47b429",
+      "character_id": "oumar",
+      "role": "story",
+      "owner": "story_oumar",
+      "created_at": "2026-11-12T10:42:39Z",
+      "snapshot": {
+        "prompt_file": "editorial/agents/stories.md",
+        "prompt": "# Agent rédacteur d’histoires\n\nUn vrai sous-agent ChatGPT écrit un personnage entier. Il est distinct de son créateur. Plusieurs personnages peuvent être rédigés en parallèle ; les douze épisodes d’un même personnage s’écrivent dans l’ordre. Aucun appel de modèle par API ni production GitHub Actions.\n\nLire `editorial_pipeline.py brief --job <job>`, la charte, l’article modèle d’alexithymie en couple, le dossier individuel et le design gelé. Respecter leurs références et la chronologie du diagnostic. Recopier exactement la biographie et les cinq repères validés, et reprendre chaque aspect prévu dans `clinical_focus`. Ne pas modifier le dossier ou le plan en cours de rédaction ; signaler un problème au pilote.\n\nÉcrire uniquement `editorial/clinical/<id>.json`. Conserver tout épisode déjà sauvegardé après une interruption. Vérifier l’existence du manuscrit et relire ses raccords avant d’ajouter la suite. Sauvegarder chaque épisode complet puis exécuter `checkpoint` avec la mission et son jeton. Le fichier contient `character_id`, `bio`, `profile_topics`, `episodes` ; le brief donne les champs exacts de chaque épisode.\n\nTrame obligatoire, format 2 :\n\n1. Scène d’ouverture d’au moins 180 mots, sans intertitre, illustrant l’aspect précis de l’épisode.\n2. Introduction pédagogique autonome de 40 à 90 mots dans `clinical_intro`, distincte de l’explication développée dans l’article.\n3. Section `explanation` développant le mécanisme (au moins 25 mots).\n4. Section `manifestations`, titre « Comment … ? », trois points comprenant chacun un intertitre, une explication et deux exemples concrets.\n5. Section `strategies`, titre « 3 techniques pour … », trois points comprenant chacun un objectif, un exercice en trois actions et un bénéfice possible.\n6. Retour à la scène avec `ending_title` et `ending` ; une décision et sa conséquence réelle, sans guérison artificielle.\n7. `conclusion` d’au moins 25 mots, affichée après le séparateur.\n8. `mirror` : un ou deux paragraphes de 40 à 160 mots pour « Du côté des proches », ancrés dans la scène avec un geste ou une parole possible.\n\nAu moins 550 mots au total, trois repères d’épisode, titre centré sur le sujet et non sur le prénom, description de 155 caractères maximum, au moins deux références autorisées dont la source primaire. Documenter `continuity.choice` et `continuity.next` après chaque épisode. Les références restent dans les champs éditoriaux : aucune bibliographie publique dans le récit.\n\nLes aides du quotidien ne remplacent pas un soin. Aucun seuil d’autodiagnostic, posologie, exercice dangereux, exposition imposée, récompense pour parler, souvenir forcé, réconciliation obligatoire ou promesse de guérison. Respecter les relais professionnels et les procédures réelles de sécurité. Les proches ne deviennent ni diagnosticiens ni thérapeutes. La fiction décrit une présentation individuelle et ne transforme pas une hypothèse en mécanisme scientifique reconnu.\n\nRelire les raccords, les décisions, les douze aspects et la fin de l’enjeu de série. Exécuter `clinical_agent_contracts.py story <id>` puis `editorial_pipeline.py finish`. Le manuscrit passe alors à un relecteur indépendant. Ne pas écrire son propre rapport de relecture, intégrer, committer ou publier. En cas de retour, corriger les épisodes concernés, puis demander une nouvelle relecture complète liée aux nouvelles empreintes.\n",
+        "inputs": {
+          "data/clinical_catalog.json": "ea545ea8ad5aaa94b2b2e45e2816cde36bc101dc205b0da50e9303a12015cefa",
+          "data/clinical_sources.json": "fdaee525b573758c9f0f33cb52b62bfb2f077402336475a6f859762fea48e6e6",
+          "editorial/clinical/additional_characters.json": "8834d18f0c86a439357f6f776429d57b23c4acab8b88b5c55d1c3dacd651ada3",
+          "editorial/clinical/charter.md": "8032bcae9a54b787febdbc3a99e8811893663c9f93dc323b0108e07c3849cb0b",
+          "editorial/automation/policy.json": "101b6ee850555f94233d2fc2df24d556bdff3a35655aa9ce082fa6613f147324",
+          "scripts/clinical_editorial.py": "f1fc7eb80b0eca35fad58925b323b5dee69bc738d3df031a41e465a64e3342d3",
+          "editorial/automation/legacy-publications.json": "974d070654ecad7d2408ecfe893a767fa97352922acca107b768b63a31277ceb",
+          "scripts/clinical_agent_contracts.py": "65f69034e51733a15a24b9e93e3fc8beb7ce545db7736d81a160a52218a3f6e1",
+          "editorial/agents/stories.md": "7725d5f492253cfcee95427c76114fe739c83204e8c7187959309b72da39eece",
+          "editorial/clinical/designs/oumar.json": "e984738bc0f951beda59459e2b46d1406e0699c039dd1440a8d622f8444b7399",
+          "editorial/clinical/dossiers/oumar.json": "0dca27fa55e4452b0c667a225dcc8e2648f34b3eedda8e07d41e768724673269"
+        },
+        "data": {
+          "clinical_brief": {
+            "agent_id": "redaction-oumar",
+            "character": {
+              "id": "oumar",
+              "name": "Oumar",
+              "code": "6D84",
+              "related_codes": [
+                "6D84.0",
+                "6D84.1",
+                "6D84.2",
+                "6D86",
+                "6D86.0",
+                "6D86.1",
+                "6D86.2",
+                "6D86.3",
+                "6D86.4",
+                "6D86.5",
+                "6D86.6"
+              ],
+              "wave": 22,
+              "diagnosis": {
+                "timing": "established",
+                "episode": null
+              },
+              "canon": {
+                "age": 63,
+                "setting": "Entre dans une résidence accompagnée et conserve un petit projet de jardinage.",
+                "independent_goal": "Organiser la remise en état d'un banc avec les autres résidents et décider des aides qu'il préfère.",
+                "tension": "Il parle de son histoire de soin à certaines personnes, sans accepter d'être défini par une substance ou une erreur passée.",
+                "supports": "Équipe pluridisciplinaire, voisine de jardin et proche choisi.",
+                "trajectory": "Affirme ses préférences, adapte les consignes et prévoit la continuité des appuis pour les tâches devenues coûteuses.",
+                "guardrail": "Ne pas réduire le tableau à une consommation récente ni promettre une réversibilité. Aucun conseil de sevrage.",
+                "occupation": "jardinier amateur"
+              },
+              "sources": [
+                "https://icd.who.int/browse/2026-01/mms/fr#1710319105",
+                "https://www.who.int/publications/i/item/9789240077263"
+              ],
+              "research_status": "prise_en_charge_a_documenter"
+            },
+            "direction": "Oumar Ndiaye, 63 ans, jardinier amateur, a cultivé pendant vingt ans une parcelle aux jardins familiaux de la Crapaudine, à Nantes. Il vient d’entrer dans la résidence accompagnée Le Clos des Mauves, à Rezé, qu’il a choisie parce que les factures, les rendez-vous et les courses à plusieurs étapes lui coûtaient trop seul. Il y garde deux bacs de tomates et de fèves. Sous le tilleul de l’allée, le vieux banc de chêne aux pieds de fonte, offert jadis par la famille d’une résidente, a trois lattes pourries sur sept : Oumar propose à la réunion des résidents de le remettre en état ensemble, en gardant la fonte et le bois d’origine qui tient, et de décider lui-même des aides qu’il accepte. Gérard Pichon, menuisier retraité, voudrait acheter un banc neuf ; Odette Bréhier, 79 ans, voisine de bac, lit volontiers les mesures et ne pose pas de questions. Jean-Paul Le Goff, ancien voisin de parcelle et ami de trente ans, est le proche qu’Oumar a choisi ; sa fille Mariama, 34 ans, infirmière à Angers, revient dans sa vie avec prudence et voudrait gérer ses papiers. Équipe : docteure Claire Morvan, gériatre de la consultation mémoire, qui suit la démence diagnostiquée il y a deux ans ; Yannick Le Floch, ergothérapeute ; Sabrina Haddad, infirmière en addictologie qui accompagne son abstinence, commencée il y a trois ans ; Nathalie Jouan, coordinatrice de la résidence et référente de son plan d’aide. Voix : chaleureuse, imagée, attachée au vocabulaire du potager (laisser reposer la terre, tuteurer avant le vent, ne pas arracher ce qui reprend) ; il parle bien et longtemps, ce qui trompe ceux qui ne voient pas l’effort qu’un plan, un calcul ou un changement de programme lui demande. Ces images sont les siennes, jamais une explication du trouble. Il raconte son histoire de soin à Odette, à Jean-Paul et aux soignants, pas à Gérard ; il refuse d’être résumé à l’alcool ou à une faute passée. Faits cliniques mis en scène : difficultés exécutives et de planification, persistance des troubles bien après l’arrêt, parole préservée face à un assemblage difficile, stigmatisation, rigidité devant l’imprévu, décisions complexes et argent, confusion soudaine évaluée en urgence, stabilité au bilan sans promesse, instabilité de la marche, abstinence soutenue, place négociée des proches, continuité des appuis. À écarter : réduire le tableau à une consommation récente, présenter les troubles comme une ivresse ou de la mauvaise volonté, présumer une rechute devant un changement brutal, promettre une récupération, décrire un sevrage, une consommation, un médicament ou une dose, faire de Mariama ou de Jean-Paul des soignants, donner aux résidents des informations qu’Oumar n’a pas choisi de partager. Fin : le banc est inauguré début septembre avec quatre lattes d’origine et trois neuves, huilé et non peint, avec une plaque aux noms des résidents ; Oumar signe avec Nathalie Jouan, Jean-Paul et Mariama un plan de relais pour les tâches devenues coûteuses, révisable, et garde l’arrosage de ses bacs et le droit de choisir ce qu’il raconte.",
+            "dossier": {
+              "name": "Démence due à des substances psychoactives, y compris des médicaments",
+              "aliases": [
+                "6D84",
+                "6D84.0",
+                "Démence due à la consommation d’alcool",
+                "Démence liée à l’alcool",
+                "Dementia due to psychoactive substances, including medications"
+              ],
+              "references": [
+                "oms-cddr",
+                "oms-mms-6d84",
+                "oms-cddr-hrb",
+                "ridley-2013",
+                "nice-ng97",
+                "nice-cg115",
+                "has-fiche13-comportement",
+                "has-fiche14-communiquer",
+                "service-public-15"
+              ],
+              "points": [
+                "Vérification individuelle du 12 novembre 2026 : téléchargement et extraction locale du texte original anglais des CDDR (PDF OMS déposé au HRB, empreinte b66e7a5d…709b), lecture des pages imprimées 497, 618–621, 626 et 634–636 ; lecture du texte intégral de Ridley, Draper et Withall 2013 sur PMC ; lecture en ligne des recommandations NICE NG97 et CG115 ; lecture des fiches HAS 13 et 14 (mai 2018) ; lecture de la fiche Service Public F33954. Lien MMS 2026-01 : interface dynamique non extraite ; l’intitulé français « Démence due à des substances psychoactives, y compris des médicaments » et celui de 6D84.0 sont repris du registre canonique local. Les paraphrases françaises ne sont pas une traduction officielle. La recommandation française de la SFA (2015) n’a pas pu être obtenue dans une version officielle : elle n’est pas citée.",
+                "CDDR p. 618 : la démence suppose une altération marquée d’au moins deux domaines cognitifs, en déclin par rapport au niveau antérieur ; la mémoire n’est pas seule en jeu (fonctions exécutives, attention, langage, cognition sociale et jugement, vitesse psychomotrice, capacités visuoperceptives ou visuospatiales). L’évaluation s’appuie sur la personne, un informant, l’observation clinique et des tests normés ou une évaluation quantifiée. Des changements de comportement (irritabilité, par exemple) peuvent être présents. p. 619 : la plupart des démences sont progressives, d’autres sont réversibles ou stables ; l’évolution varie selon la cause.",
+                "CDDR p. 626, 6D84 : toutes les exigences de la démence sont remplies ; l’histoire, l’examen ou les analyses montrent que la démence est causée par les conséquences physiologiques directes de l’usage d’une substance ou d’un médicament et qu’elle persiste au-delà de la durée habituelle de l’intoxication ou du sevrage. Ce jugement exige que la substance, la quantité et la durée d’usage soient connues pour pouvoir produire une démence, et que l’évolution (début, trajectoire, réponse au traitement) soit compatible. Quand la substance est identifiée, la sous-catégorie correspondante est attribuée (6D84.0 alcool ; 6D84.1 sédatifs, hypnotiques ou anxiolytiques ; 6D84.2 inhalants volatils) ; un diagnostic du mode d’usage (usage nocif, dépendance) peut aussi être attribué. Usage éditorial : la série retient l’alcool (6D84.0) ; la cause a été établie par l’équipe il y a deux ans, après une hospitalisation, et Oumar ne boit plus depuis trois ans. Le tableau n’est jamais réduit à une consommation récente ni présenté comme une ivresse prolongée.",
+                "CDDR p. 497 : les troubles induits par une substance se distinguent par leur début, leur évolution et leurs caractéristiques ; la coïncidence entre usage et symptômes ne suffit pas à présumer qu’une substance en est la cause. CDDR p. 620 : une personne atteinte de démence a un risque accru de delirium ; une altération aiguë de l’attention, de l’orientation et de la conscience demande une évaluation de sa cause. NICE NG97 1.9.1 : risque accru de delirium lors d’une hospitalisation. Service Public F33954 : urgence médicale, le 15 (Samu), ou le 112. Dans la scène de confusion soudaine, personne ne présume une rechute ni n’explique l’état par le diagnostic connu : Odette prévient l’accueil, Nathalie Jouan appelle le 15 et suit ses consignes ; l’équipe hospitalière recherche la cause.",
+                "Ridley 2013, sections Pathophysiology et Neuropsychological findings : un usage excessif et prolongé d’alcool peut causer des lésions cérébrales durables ; les contributions respectives de la toxicité directe de l’alcool et du déficit en thiamine restent débattues. Le profil décrit associe des difficultés exécutives, visuospatiales (dessin d’horloge, copie de figures) et de mémoire ; le langage est souvent mieux préservé que dans d’autres démences, observation qui n’est pas retrouvée dans toutes les études. Les auteurs soulignent les petits échantillons et des critères diagnostiques insuffisamment testés. Usage éditorial : Oumar explique avec aisance mais peine à reproduire un plan ou un assemblage ; ce contraste n’est pas présenté comme une règle valable pour tous.",
+                "Ridley 2013, sections Neuropsychological findings et Clinical considerations : avec une abstinence maintenue, une stabilité, voire une amélioration partielle de certains domaines, est rapportée sur un à deux ans dans quelques études ; les personnes plus âgées récupèrent moins ; les fonctions exécutives, la mémoire de travail et les capacités perceptives et motrices persistent souvent ; la récupération est vulnérable à une reprise de la consommation. L’évaluation cognitive est à répéter dans le temps pour repérer amélioration, stabilité ou aggravation. NICE CG115 1.2.2.11 : une évaluation cognitive formelle n’est en général conduite que si les troubles persistent après une période d’abstinence. Usage éditorial : le bilan de suivi de l’épisode 8 est décrit comme stable par la gériatre ; aucune réversibilité, guérison ou vitesse d’évolution n’est promise, et l’abstinence n’est pas présentée comme une garantie.",
+                "Ridley 2013 : signes neurologiques comme l’ataxie (instabilité de la marche) et neuropathie périphérique associés chez certaines personnes aux troubles cognitifs liés à l’alcool. NICE NG97 1.8.6 : la prévention des chutes suit le guide NICE dédié, avec le soutien supplémentaire dont la personne peut avoir besoin ; 1.4.4 : l’ergothérapie ou la réadaptation cognitive peut soutenir les capacités fonctionnelles dans les démences légères à modérées. Usage éditorial : l’équipe a noté l’instabilité d’Oumar ; l’ergothérapeute propose des postures assises ; aucun geste technique dangereux n’est détaillé et aucun diagnostic neurologique supplémentaire n’est inventé.",
+                "Ridley 2013, section Prevalence : les personnes concernées sont plus souvent des hommes, plus jeunes que dans les autres démences, souvent socialement isolées et repérées lors d’une hospitalisation. NICE CG115 1.1.1.1 : travailler de manière empathique et non jugeante, en tenant compte de la stigmatisation et de la discrimination souvent associées au mésusage d’alcool, dans le respect de la confidentialité. NICE NG97 1.1.7 : demander à la personne son accord pour le partage des informations, avec qui et lesquelles. Usage éditorial : Oumar choisit à qui il raconte l’origine de ses troubles ; la coordinatrice et l’équipe ne divulguent rien aux résidents.",
+                "NICE CG115 1.3.1.2 : proposer des interventions favorisant l’abstinence ou une consommation modérée selon la situation et prévenant la rechute ; 1.3.8.6 : pour le syndrome de Wernicke-Korsakoff, logement accompagné adapté aux troubles cognitifs avec un soutien au maintien de l’abstinence (recommandation propre à ce syndrome, transposée ici avec prudence comme principe d’environnement adapté et non comme règle pour 6D84). Usage éditorial strict : la série ne décrit aucun sevrage, aucun médicament, aucune dose ni aucune consommation ; l’abstinence d’Oumar est son choix, soutenu par Sabrina Haddad, infirmière en addictologie ; la fête du banc montre une boisson sans alcool choisie par lui, sans scène de tentation détaillée.",
+                "CDDR p. 634 : la sévérité (légère, modérée, sévère) est appréciée par l’examen clinique et un informant ; une démence légère peut permettre de vivre de façon autonome avec une supervision ou un soutien ; elle peut passer inaperçue pour qui connaît peu la personne ; jugement et résolution de problèmes sont souvent touchés, avec des difficultés pour les décisions complexes, les plans et l’argent (rendre la monnaie, payer des factures). p. 635–636 : spécificateurs 6D86 quand des symptômes comportementaux ou psychologiques justifient une intervention ; aucun n’est attribué à Oumar dans la série. CDDR p. 621, frontière avec les troubles de l’humeur : une humeur abattue peut s’accompagner de plaintes cognitives, ce qui relève d’une évaluation clinique.",
+                "NICE NG97 1.1.1–1.1.2 : encourager la personne à donner son avis et adapter la communication (supports visuels, texte simplifié) ; 1.3.1–1.3.5 : un professionnel référent coordonne le plan d’aide, avec l’accord de la personne pour transmettre les plans entre lieux de soin et une continuité des intervenants ; 1.4.1 : activités adaptées aux préférences ; 1.7.1–1.7.2 : devant une détresse, chercher d’abord ses raisons et des causes cliniques ou environnementales, puis proposer des interventions psychosociales et environnementales ; 1.11.1–1.11.2 : soutien et formation des aidants adaptés à leurs besoins ; 1.12.2 : réexaminer besoins et souhaits après chaque changement de lieu de vie. NICE CG115 1.1.2.1–1.1.2.2 : associer famille et proches avec l’accord de la personne et négocier leur rôle et le partage d’informations.",
+                "HAS fiche 13, p. 1 : objectifs définis selon les besoins et préférences de la personne, réévalués en équipe pluriprofessionnelle ; environnement stable, sans sur-stimulation, qui permet une activité physique et une vie sociale ; entourage informé et soutenu dès le début. HAS fiche 14, p. 1–2 : parler directement à la personne, éviter les tâches multiples pendant qu’on parle, laisser le temps de répondre, ne pas insister sur les erreurs, prendre en compte son avis pour les décisions difficiles. NICE NG97 1.1.12–1.1.13 : offrir tôt et régulièrement l’occasion de parler de ses souhaits pour la suite et de les réviser. Les aménagements de la série (fiche d’étapes, gabarit, tabouret, double signature de la cagnotte, plan de relais) sont des arrangements d’organisation fictifs, pas des traitements démontrés.",
+                "Limites : CDDR consultées en anglais ; la description 6D84 est brève et ne détaille pas de profil clinique propre, qui provient d’une revue narrative (Ridley 2013) fondée sur des études de petite taille et des critères débattus (distinction avec le syndrome de Wernicke-Korsakoff discutée) ; NICE est britannique (Mental Capacity Act, lasting power of attorney et organisation des services non transposés en France) ; CG115 vise le mésusage d’alcool et non la démence ; les fiches HAS de 2018 portent sur la maladie d’Alzheimer et les maladies apparentées en général. Aucune règle juridique française sur les résidences, la protection juridique ou la personne de confiance n’est inventée ; la « réunion des résidents » est une instance fictive interne. Aucun chiffre de fréquence n’est repris dans les articles. Architecture : 1 fonctions exécutives et planification ; 2 persistance au-delà de l’intoxication et du sevrage ; 3 parole aisée, assemblage difficile (visuospatial) ; 4 stigmatisation et choix du partage ; 5 flexibilité face à l’imprévu ; 6 décisions complexes et argent ; 7 confusion soudaine sans présumer de rechute ; 8 stabilité sans promesse ; 9 instabilité et postures ; 10 abstinence soutenue comme partie du soin ; 11 place négociée de la fille ; 12 continuité des appuis choisis. Ces axes ne sont pas douze symptômes à cocher."
+              ]
+            },
+            "references": {
+              "oms-cddr": {
+                "title": "OMS, descriptions cliniques de la CIM-11",
+                "url": "https://www.who.int/publications/i/item/9789240077263"
+              },
+              "oms-mms-6d84": {
+                "title": "OMS, CIM-11 MMS 2026-01, 6D84 Démence due à des substances psychoactives, y compris des médicaments, lien canonique français (sous-catégorie 6D84.0 Démence due à la consommation d’alcool)",
+                "url": "https://icd.who.int/browse/2026-01/mms/fr#1710319105"
+              },
+              "oms-cddr-hrb": {
+                "title": "OMS, CDDR 2024, ISBN 9789240077263, pages imprimées 497 (frontières des troubles induits par une substance), 618–621 (exigences générales de la démence et frontières), 626 (6D84) et 634–636 (sévérité et spécificateurs 6D86) ; document original au dépôt HRB",
+                "url": "https://www.drugsandalcohol.ie/41519/1/WHO_Clinical_descriptions_and_diagnostic_requirements_ICD-11.pdf"
+              },
+              "ridley-2013": {
+                "title": "Ridley, Draper et Withall, Alcohol-related dementia: an update of the evidence, Alzheimer’s Research & Therapy 2013;5(1):3, DOI 10.1186/alzrt157 ; sections Pathophysiology, Prevalence, Neuropsychological findings et Clinical considerations",
+                "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3580328/"
+              },
+              "nice-ng97": {
+                "title": "NICE NG97, Dementia: assessment, management and support for people living with dementia and their carers, recommandations 1.1.1–1.1.2, 1.1.7, 1.1.12–1.1.13, 1.3.1–1.3.5, 1.4.1, 1.4.4, 1.7.1–1.7.2, 1.8.6, 1.9.1, 1.11.1–1.11.2 et 1.12.2",
+                "url": "https://www.nice.org.uk/guidance/ng97/chapter/Recommendations"
+              },
+              "nice-cg115": {
+                "title": "NICE CG115, Alcohol-use disorders: diagnosis, assessment and management of harmful drinking (high-risk drinking) and alcohol dependence, recommandations 1.1.1.1, 1.1.2.1–1.1.2.2, 1.2.2.11, 1.3.1.2 et 1.3.8.6",
+                "url": "https://www.nice.org.uk/guidance/cg115/chapter/Recommendations"
+              },
+              "has-fiche13-comportement": {
+                "title": "HAS, parcours de soins Alzheimer ou maladie apparentée, mai 2018, fiche 13 « Prévenir les troubles psychocomportementaux », p. 1",
+                "url": "https://www.has-sante.fr/upload/docs/application/pdf/2018-05/fiche_13_prevenir_troubles_comportement.pdf"
+              },
+              "has-fiche14-communiquer": {
+                "title": "HAS, parcours de soins Alzheimer ou maladie apparentée, mai 2018, fiche 14 « Communiquer malgré les troubles de la mémoire ou du langage », p. 1–2",
+                "url": "https://www.has-sante.fr/upload/docs/application/pdf/2018-05/fiche_14_communiquer_troubles_memoire_langage.pdf"
+              },
+              "service-public-15": {
+                "title": "Service Public, fiche F33954, numéros d’urgence : urgence médicale, le 15 (Samu) ; 112 (page vérifiée le 25 août 2026)",
+                "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F33954"
+              }
+            },
+            "charter": "# Charte de rédaction des parcours cliniques\n\nÉcrire en français pour des lecteurs sans formation clinique. Choisir pour chaque épisode un aspect du trouble qui se distingue des onze autres et que la scène permet de comprendre. Cet aspect peut être une manifestation, un mécanisme, un retentissement ou une particularité de l’évolution. Relier le titre, le résumé, l’explication et le dénouement à cet aspect. Une activité, une décision ou un rendez-vous fournit le cadre où il devient perceptible.\n\nSuivre le déroulé de l’[article de Youssef sur l’alexithymie en couple](../../content/posts/comprendre-et-maitriser-ses-emotions/alexithymie-en-couple.md).\n\n1. Ouvrir sur une scène d’au moins 180 mots, sans intertitre. Montrer ce que la difficulté change pour le personnage dans cette situation.\n2. Expliquer l’aspect et son lien avec le trouble dans une section dédiée. Partir d’une phrase générale autonome, puis revenir à ce qui se joue dans la scène.\n3. Montrer comment l’aspect se manifeste. Sous « Comment … ? », développer trois sous-parties avec une explication et deux exemples concrets chacune. Situer ce que l’on observe dans chaque exemple.\n4. Proposer trois techniques numérotées. Donner pour chacune un objectif, un exercice pratique en trois étapes et une explication de son utilité possible. Adapter les étapes au contexte et au niveau de risque, en incluant le recours à un professionnel lorsque nécessaire.\n5. Revenir à l’histoire sous un intertitre tiré de la scène. Montrer un essai ou une décision, sa conséquence et l’incertitude qui reste. Les difficultés peuvent revenir après un essai qui a fonctionné ailleurs.\n6. Conclure après un séparateur. Résumer ce que cet épisode permet de comprendre et inscrire le dénouement dans le parcours du personnage.\n7. Terminer par « Du côté des proches ». Relier leur point de vue à ce que la scène a montré.\n\nRespecter les faits du canon et la chronologie du diagnostic. Si l’évaluation est en cours, faire comprendre les difficultés sans annoncer le résultat à la place du professionnel. Un diagnostic connu entre dans le récit quand il aide à situer l’expérience. La personne conserve un métier ou un projet, des relations, des ressources, des préférences et le droit de ne pas tout partager.\n\nFonder chaque affirmation clinique sur les points vérifiés du dossier de sources. Renseigner les références dans le dossier et les champs éditoriaux de chaque épisode. Distinguer récit, vécu et description générale du trouble. Les articles ne donnent ni critères permettant de conclure sur soi ou un tiers, ni posologies, ni gestes dangereux, ni promesses de guérison. Une scène de fiction ne représente qu’une présentation possible. Proposer des adaptations discutées avec la personne et situer le recours aux professionnels quand le besoin est clinique ou urgent.\n\nDans « Du côté des proches », partir d’un geste, d’une parole ou d’un besoin visible dans la scène. Donner une réponse concrète que le proche pourrait essayer, dans des mots qu’il pourrait dire. Respecter son périmètre et la possibilité de se retirer ou de passer le relais. Aucun proche ne doit jouer au diagnosticien ou imposer un soin. Dans les situations d’emprise ou de danger, favoriser la sécurité et un appui spécialisé.\n\nRelecture par vague. Relire les douze ouvertures et leurs fins dans l’ordre, puis vérifier les faits cliniques et les propositions aux proches, chaque fois avec le dossier de sources. Annoter les erreurs et les choix qui ont fonctionné. Inscrire les leçons réutilisables dans la charte avant de générer le lot suivant. Une validation de structure ou une relecture par un modèle laisse ouverte la vérification éditoriale des faits et de leur contexte.\n\nLe lot pilote a montré que le premier intertitre explicatif peut varier. Commencer cette section par une phrase générale autonome que le site peut reprendre. Donner à la scène finale un titre tiré de son geste ou de sa décision. Distinguer un signe à discuter d’un épisode ou d’un diagnostic établi. Maintenir les procédures de sécurité réelles et le rôle des soignants, même lorsque le personnage essaie une façon différente de répondre à sa difficulté.\n\nLa deuxième vague distingue l’accord de la personne pour partager ses informations et les démarches de sécurité qui s’appliquent à la situation. Montrer dans le récit qui prévient le service compétent et quand, sans reporter cette action au conseil pour les proches. Pour une règle de métier, utiliser une source du domaine en plus du guide clinique. Le miroir reste ancré dans la scène et conserve sa limite de sécurité jusqu’à la dernière phrase.\n\nLa troisième vague vérifie que le trouble a un effet perceptible dans la vie du personnage dès les deux premières scènes. Montrer ce vécu sans inventaire de signes, description de pratiques dangereuses ou explication totale de sa personnalité. Suivre séparément les questions de santé et les décisions du quotidien. Reprendre les objets, lieux et engagements déjà nommés et fermer les questions concrètes dont la résolution est nécessaire à la scène suivante.\n\nAvant d’écrire, l’agent dédié au personnage fixe une direction dans son dossier. Il y précise ce qui distingue sa voix, son projet et son entourage, les faits cliniques qu’il mettra en scène et les interprétations à écarter. À la fin de chaque épisode, il inscrit la décision prise et ce qu’elle change pour la suite. Au dernier épisode, il résout l’enjeu de la série et garde la perspective du personnage au-delà de cette décision. La relecture reprend les douze scènes dans l’ordre et vérifie les conseils adressés aux proches en regard de chaque scène.\n\nLa quatrième vague distingue les repères du premier diagnostic et ceux des épisodes ultérieurs. Quand une situation urgente se présente, vérifier que son origine n’est pas présumée à partir du diagnostic connu. La première section s’ouvre sur une phrase générale qui fonctionne seule. Les détails de la scène viennent ensuite, après le passage que le site peut reprendre en introduction.\n\nLes histoires d’origine donnent la direction. Le titre commence par le sujet de l’article, une difficulté, une émotion ou un mécanisme réel dans une situation concrète. Le prénom figure séparément au-dessus du titre. Dans la présentation, nommer le trouble documenté et ce qu’il change pour ce personnage. Le premier mot-clé reprend son intitulé et les quatre autres indiquent des manifestations ou enjeux qui reviennent dans plusieurs épisodes. La fiche peut annoncer un diagnostic que le personnage découvre plus tard dans l’histoire.\n\nDans le résumé de la fiche et de la carte, relier une réaction de la scène à l’aspect abordé. Dans un récit d’enfance, vérifier l’apport de cette période pour comprendre le trouble et ouvrir sur d’autres contextes lorsque les sources l’appuient. Lors de la relecture, nommer l’aspect illustré dans chaque épisode, puis retrouver le moment où il devient visible et vérifier que les exemples et les techniques restent centrés sur lui. Renseigner les références dans le manuscrit et le dossier éditorial, sans bibliographie dans le fil de l’article.\n\nLa huitième vague vérifie qui peut savoir quoi, à quel moment et avec quel accord. En cas de changement préoccupant, distinguer le fait observable, ce qu’en dit le personnage, la réponse d’un proche et l’évaluation de l’équipe de soins. Faire apparaître le relais dans la scène où il se produit et en reprendre les conséquences dans la suivante.\n\nLa reprise suivante distingue le résumé affiché avant le récit et l’explication qui vient après. Éviter de recopier le résumé mot pour mot dans cette explication : celle-ci développe le mécanisme et le contraste rendu visible par la scène. Pour les articles d’origine, relire les manifestations et les exercices eux-mêmes ; trois intertitres ou une étiquette ne prouvent pas que les exemples, l’objectif, les trois actions et l’utilité sont présents. Une prose déjà complète peut être conservée. Garder une preuve de lecture liée à l’empreinte du corps et une seconde relecture des passages sensibles.\n",
+            "files": {
+              "manuscript": "editorial/clinical/oumar.json",
+              "dossier": "editorial/clinical/dossiers/oumar.json"
+            },
+            "manifest_fields": [
+              "character_id",
+              "bio",
+              "profile_topics",
+              "episodes"
+            ],
+            "profile_topics_count": 5,
+            "episode_fields": [
+              "number",
+              "slug",
+              "title",
+              "description",
+              "context",
+              "topics",
+              "clinical_focus",
+              "clinical_intro",
+              "opening",
+              "sections",
+              "ending_title",
+              "ending",
+              "mirror",
+              "sources",
+              "continuity",
+              "conclusion"
+            ],
+            "sections": {
+              "explanation": {
+                "fields": [
+                  "heading",
+                  "text"
+                ]
+              },
+              "manifestations": {
+                "fields": [
+                  "heading",
+                  "points"
+                ],
+                "count": 3,
+                "point_fields": [
+                  "heading",
+                  "text",
+                  "examples"
+                ],
+                "examples_count": 2
+              },
+              "strategies": {
+                "fields": [
+                  "heading",
+                  "points"
+                ],
+                "count": 3,
+                "point_fields": [
+                  "heading",
+                  "objective",
+                  "exercise",
+                  "benefit"
+                ],
+                "exercise_count": 3
+              }
+            },
+            "total_episodes": 12,
+            "continuity": [],
+            "ready_to_draft": true,
+            "instruction": "Rédiger les épisodes dans l’ordre et consigner les choix à reprendre."
+          },
+          "findings": [],
+          "existing_manuscript": null,
+          "design": {
+            "schema_version": 1,
+            "character_id": "oumar",
+            "code": "6D84",
+            "article_format": 2,
+            "bio": "Oumar, 63 ans, jardinier amateur, vient d’entrer dans une résidence accompagnée de Rezé où il garde deux bacs de légumes. Il vit avec une démence due à des substances psychoactives, y compris des médicaments, diagnostiquée il y a deux ans et liée à un long usage d’alcool qu’il a arrêté. Il parle avec aisance, mais organiser des étapes, reporter une mesure ou calculer lui coûte. Il remet en état le vieux banc de chêne avec les autres résidents, choisit ses aides et décide à qui il raconte son histoire de soin.",
+            "profile_topics": [
+              "Démence due à des substances psychoactives, y compris des médicaments",
+              "Organiser un projet quand planifier devient coûteux",
+              "Des troubles qui persistent après l’arrêt de l’alcool",
+              "Choisir à qui raconter son histoire de soin",
+              "Des aides choisies et une continuité prévue"
+            ],
+            "voice": "Une parole chaleureuse et imagée, nourrie du vocabulaire du potager : laisser reposer la terre, tuteurer avant le vent, ne pas arracher ce qui reprend. Ces images sont celles d’Oumar, jamais une explication du trouble. Il parle bien et longtemps, ce qui masque l’effort qu’un plan, un calcul ou un imprévu lui demande ; il dit volontiers ce qu’il veut, se tait sur son passé quand il le décide et refuse qu’on le résume à l’alcool.",
+            "series_goal": "Remettre en état le banc de chêne du Clos des Mauves avec les résidents, en gardant la fonte et le bois d’origine qui tient, choisir les aides qu’il accepte pour les tâches devenues coûteuses et prévoir leur continuité dans un plan révisable, tout en décidant lui-même qui connaît l’origine de ses troubles.",
+            "continuity_rules": [
+              "Diagnostic établi avant la série : known aux douze épisodes. Oumar Ndiaye a 63 ans, jardinier amateur, ancien jardinier de parcelle aux jardins familiaux de la Crapaudine à Nantes ; il entre en mars à la résidence accompagnée Le Clos des Mauves, à Rezé, qu’il a choisie. Démence due à des substances psychoactives (6D84.0, alcool), diagnostiquée il y a deux ans après une hospitalisation ; abstinence depuis trois ans ; démence considérée comme légère par l’équipe. Aucun stade, aucune vitesse d’évolution, aucune réversibilité et aucun diagnostic supplémentaire ne sont déduits d’une scène.",
+              "Personnes : Odette Bréhier, 79 ans, voisine de bac, lit les mesures ; Jean-Paul Le Goff, ami de trente ans et proche choisi, cosigne la cagnotte à partir de 6 ; Mariama, sa fille de 34 ans, infirmière à Angers, arrive en 11 et suit seulement les factures d’énergie ; Gérard Pichon, menuisier retraité, résident ; docteure Claire Morvan, gériatre de la consultation mémoire ; Yannick Le Floch, ergothérapeute ; Sabrina Haddad, infirmière en addictologie ; Nathalie Jouan, coordinatrice de la résidence et référente du plan d’aide. Aucun proche ne joue au diagnosticien ni au soignant.",
+              "Objets : le banc de chêne aux pieds de fonte sous le tilleul, trois lattes pourries sur sept ; la fiche d’étapes punaisée dans l’abri (dès 2) ; la feuille de trois phrases de la docteure Morvan dans le portefeuille (2) ; le gabarit en carton (3) ; la boîte de la cagnotte et le cahier cosigné (6) ; le tabouret et les tréteaux (9) ; le plan de relais signé (12). Le chêne est livré en 8 après le refus du châtaignier en 5.",
+              "Chronologie : mars, entrée et début du chantier (1) ; consultation avec Jean-Paul (2) ; avril, gabarit, dîner et livraison manquée (3 à 5) ; cagnotte (6) ; mai, confusion soudaine, appel au 15 par Nathalie Jouan et infection trouvée à l’hôpital (7) ; juillet, bilan de suivi stable (8) ; août, lattes posées assis (9), préparation de la fête (10), venue de Mariama (11) ; début septembre, inauguration et plan de relais (12).",
+              "Partage d’informations : Oumar raconte l’origine de ses troubles à Odette, Jean-Paul et aux soignants, pas à Gérard ni aux autres résidents ; l’équipe ne transmet rien sans son accord, sauf urgence. En 7, personne ne présume une rechute ni n’explique la confusion par le diagnostic ; la cause est recherchée par l’équipe hospitalière.",
+              "Aucun sevrage, aucune consommation, aucun nom de médicament, aucune dose ni aucun arrêt ou ajout de traitement ; l’abstinence est le choix d’Oumar, soutenu par Sabrina Haddad. Les aménagements sont des arrangements d’organisation, sans efficacité thérapeutique revendiquée ; le bilan stable de 8 ne promet aucune récupération.",
+              "Fin : banc inauguré avec quatre lattes d’origine et trois neuves, huilé, plaque aux noms des résidents ; plan de relais signé avec Nathalie Jouan, Jean-Paul et Mariama, révisable à chaque bilan et transmis à la consultation mémoire ; Oumar garde l’arrosage de ses bacs et le choix de ce qu’il raconte."
+            ],
+            "episodes": [
+              {
+                "number": 1,
+                "focus": "Organiser les étapes d’un chantier devient coûteux",
+                "scene": "Un samedi de mars, dans l’abri à outils du Clos des Mauves, Oumar veut commencer le banc qu’il a proposé la veille à la réunion des résidents. Il sait exactement ce qu’il veut obtenir et l’explique à Odette avec ses mots de jardinier. Mais il ponce une latte avant de l’avoir démontée, cherche le tournevis qu’il a posé sur le banc, revient à la liste d’achats commencée puis abandonnée. À midi, rien n’est vraiment fait et il se sent épuisé.",
+                "development": "Les fonctions exécutives permettent d’ordonner des étapes, de les tenir en tête et de vérifier où l’on en est ; leur atteinte est fréquente dans cette démence et se distingue d’un manque de savoir-faire. L’explication part de la différence entre savoir quoi faire et organiser comment le faire, puis revient à la matinée dans l’abri. Trois appuis : écrire les étapes dans l’ordre avant de prendre un outil ; une seule tâche par séance ; faire une pause prévue plutôt que d’attendre l’épuisement. Aucune évaluation proposée par l’entourage.",
+                "ending": "Oumar décide de ne toucher à rien d’autre ce jour-là. Il demande à Nathalie Jouan un rendez-vous avec l’ergothérapeute pour construire une fiche d’étapes qu’il punaisera dans l’abri.",
+                "next": "Jean-Paul, venu le dimanche, demande pourquoi les difficultés durent alors qu’Oumar ne boit plus depuis trois ans : la question sera posée à la docteure Morvan.",
+                "source_refs": [
+                  "oms-cddr",
+                  "oms-mms-6d84",
+                  "oms-cddr-hrb",
+                  "ridley-2013",
+                  "nice-ng97"
+                ],
+                "diagnostic_stage": "known"
+              },
+              {
+                "number": 2,
+                "focus": "Des troubles qui persistent longtemps après l’arrêt",
+                "scene": "À la consultation mémoire, Oumar vient avec Jean-Paul, qu’il a invité. Jean-Paul pose la question qui le travaille : si Oumar ne boit plus depuis trois ans, pourquoi les comptes et les plans restent-ils si difficiles ? Il ajoute, gêné, qu’il croyait que « ça partirait avec l’alcool ». Oumar écoute la docteure Claire Morvan reprendre avec eux ce qui a été établi il y a deux ans, après son hospitalisation.",
+                "development": "Une démence due à une substance n’est ni une ivresse ni un sevrage qui se prolonge : les troubles persistent au-delà de ces périodes, et l’équipe a établi le lien avec un usage long et important, compatible avec l’évolution observée. L’explication distingue cause, persistance et évolution, puis revient à la question de Jean-Paul. Trois appuis : demander au médecin de réexpliquer en mots simples ; distinguer ce qui est connu de ce qui reste incertain ; noter ses questions pour le prochain rendez-vous. Aucune réversibilité promise.",
+                "ending": "Oumar demande que la docteure Morvan écrive en trois phrases ce qu’il peut répondre quand on l’interroge. Il garde la feuille dans son portefeuille et décide qu’il la montrera seulement à qui il voudra.",
+                "next": "La fiche d’étapes conçue avec Yannick Le Floch arrive dans l’abri, mais le premier assemblage révélera une autre difficulté que l’ordre des tâches.",
+                "source_refs": [
+                  "oms-cddr",
+                  "oms-cddr-hrb",
+                  "ridley-2013",
+                  "nice-cg115",
+                  "nice-ng97"
+                ],
+                "diagnostic_stage": "known"
+              },
+              {
+                "number": 3,
+                "focus": "Parler avec aisance, peiner à reproduire un assemblage",
+                "scene": "Devant les résidents réunis sous le tilleul, Oumar explique avec aisance comment le banc était assemblé : les tenons, l’écartement des lattes, le sens du fil du chêne. Gérard Pichon est impressionné. Puis Oumar tente de reporter sur une planche neuve l’écartement des trous à partir du croquis de Yannick ; les repères glissent, il recommence trois fois et finit par percer à côté. Gérard ne comprend pas comment quelqu’un qui parle si bien peut se tromper ainsi.",
+                "development": "Chez certaines personnes atteintes d’une démence liée à l’alcool, le langage reste mieux préservé que les capacités visuospatiales nécessaires pour copier une figure ou reporter une mesure ; ce contraste n’est pas une règle pour tous. L’explication revient au décalage entre l’exposé et le perçage. Trois appuis : un gabarit en carton réalisé une fois avec l’ergothérapeute ; faire lire les mesures à voix haute par une autre personne ; vérifier un repère avant de percer. Aucun test à domicile.",
+                "ending": "Oumar fabrique avec Yannick un gabarit en carton aux trous déjà marqués. Il confie la lecture du mètre à Odette et garde le perçage pour lui.",
+                "next": "Gérard, le soir même, plaisantera sur le verre qu’il faudrait boire pour fêter la première latte.",
+                "source_refs": [
+                  "oms-cddr",
+                  "oms-cddr-hrb",
+                  "ridley-2013",
+                  "nice-ng97",
+                  "has-fiche14-communiquer"
+                ],
+                "diagnostic_stage": "known"
+              },
+              {
+                "number": 4,
+                "focus": "Choisir à qui raconter l’origine de ses troubles",
+                "scene": "Au dîner de la résidence, Gérard lève son verre et lance à Oumar qu’un petit rouge l’aiderait à viser droit. Deux résidents rient. Oumar sent la table attendre une réponse. Il a raconté son histoire de soin à Odette, à Jean-Paul et aux soignants ; il n’a aucune envie de la raconter à Gérard, ni d’être résumé à l’alcool devant tout le monde.",
+                "development": "La stigmatisation accompagne souvent les troubles liés à l’alcool et pèse sur la façon dont une personne parle de son diagnostic ; partager ou non relève de son accord, y compris dans un lieu de vie collectif. L’explication part de ce droit, puis revient au dîner. Trois appuis : préparer une phrase courte qui ne dit que ce qu’on choisit ; demander à l’équipe que rien ne soit transmis sans accord ; parler à part à la personne qui a blessé. Aucune obligation de se justifier.",
+                "ending": "Oumar répond qu’il ne boit pas et qu’il vise très bien avec un gabarit. Le lendemain, il demande à Gérard de ne plus plaisanter là-dessus, sans lui raconter le reste. Il vérifie avec Nathalie Jouan que son dossier reste confidentiel.",
+                "next": "La livraison des lattes de chêne prévue le jeudi n’aura pas lieu, et le programme du chantier devra changer.",
+                "source_refs": [
+                  "oms-cddr",
+                  "ridley-2013",
+                  "nice-cg115",
+                  "nice-ng97",
+                  "has-fiche14-communiquer"
+                ],
+                "diagnostic_stage": "known"
+              },
+              {
+                "number": 5,
+                "focus": "Changer de plan quand le bois manque",
+                "scene": "Le jeudi, la scierie appelle : le chêne n’arrivera pas avant trois semaines, il reste du châtaignier. Oumar avait tout organisé autour de cette livraison et de la fiche d’étapes. Il répète que le banc était en chêne, refuse d’écouter la proposition de Gérard, s’énerve contre Odette qui demande simplement si l’on peut huiler la fonte en attendant. Il quitte l’abri en claquant la porte, puis s’en veut.",
+                "development": "La flexibilité mentale, qui permet de modifier un plan devant un imprévu, fait partie des fonctions exécutives souvent touchées ; l’irritabilité qui accompagne ces moments relève d’abord de la recherche de leurs raisons. L’explication revient au téléphone de la scierie. Trois appuis : prévoir un plan B écrit avant chaque livraison ; reporter la décision au lendemain matin ; séparer ce qui peut avancer de ce qui doit attendre. Aucune étiquette de caractère.",
+                "ending": "Le lendemain, Oumar décide avec Yannick d’attendre le chêne et d’huiler la fonte en attendant. Il présente des excuses à Odette, qui les accepte en lui tendant le chiffon.",
+                "next": "Attendre le chêne coûtera plus cher : la cagnotte des résidents devra être recomptée.",
+                "source_refs": [
+                  "oms-cddr",
+                  "oms-cddr-hrb",
+                  "ridley-2013",
+                  "nice-ng97",
+                  "has-fiche13-comportement"
+                ],
+                "diagnostic_stage": "known"
+              },
+              {
+                "number": 6,
+                "focus": "Gérer la cagnotte : décisions complexes et argent",
+                "scene": "Oumar tient la boîte de la cagnotte du banc : les résidents y ont glissé billets et pièces. Devant deux devis de scierie, il additionne, se trompe dans le rendu de monnaie d’un résident, recompte, puis ne sait plus quel devis inclut la livraison. Gérard propose de tout reprendre. Oumar tient à garder la boîte, qui est sa responsabilité dans le projet.",
+                "development": "Dans une démence légère, les décisions à plusieurs paramètres et le maniement de l’argent deviennent souvent difficiles alors que la vie sociale reste possible. L’explication distingue la responsabilité choisie du calcul lui-même, puis revient aux deux devis. Trois appuis : un tableau à deux colonnes préparé avant la décision ; un second signataire choisi par la personne ; un temps de réflexion avant de payer. Aucune mesure juridique évoquée.",
+                "ending": "Oumar garde la boîte et demande à Jean-Paul de cosigner chaque dépense sur un cahier. Il choisit le devis livraison comprise et l’annonce à la réunion des résidents.",
+                "next": "Deux semaines plus tard, un matin, Odette trouve Oumar devant son bac, désorienté et incapable de tenir debout sans appui.",
+                "source_refs": [
+                  "oms-cddr",
+                  "oms-cddr-hrb",
+                  "nice-ng97",
+                  "has-fiche14-communiquer",
+                  "has-fiche13-comportement"
+                ],
+                "diagnostic_stage": "known"
+              },
+              {
+                "number": 7,
+                "focus": "Confusion soudaine : ne pas présumer une rechute",
+                "scene": "Un matin de mai, Odette trouve Oumar près des fèves, en pyjama, qui cherche la sortie des jardins de la Crapaudine et ne la reconnaît pas. Il tient à peine debout et parle de façon décousue, ce qu’elle n’a jamais vu. Un résident murmure qu’il a dû boire. Odette ne discute pas : elle va chercher l’accueil, et Nathalie Jouan appelle le 15, suit ses consignes et reste avec Oumar jusqu’à l’arrivée des secours.",
+                "development": "Une personne qui vit avec une démence a un risque accru de confusion aiguë ; un changement brutal de l’attention, de l’orientation et de la conscience demande une évaluation médicale de sa cause, qui ne doit pas être présumée à partir du diagnostic connu ni de l’histoire de la personne. L’explication revient au murmure du résident. Trois appuis : décrire ce qu’on voit et depuis quand ; appeler le 15 sans attendre ; transmettre aux secours le diagnostic et le contact de l’équipe. Aucune hypothèse de cause par l’entourage.",
+                "ending": "Aux urgences, l’équipe recherche la cause et trouve une infection, traitée sur place pendant quelques jours d’hospitalisation. Oumar demande à Nathalie que les résidents sachent seulement qu’il a été malade.",
+                "next": "De retour au Clos des Mauves, il lui faudra quelques jours avant de retrouver son niveau habituel, et le bilan de suivi prévu en juillet prendra un autre poids.",
+                "source_refs": [
+                  "oms-cddr",
+                  "oms-cddr-hrb",
+                  "nice-ng97",
+                  "service-public-15",
+                  "nice-cg115"
+                ],
+                "diagnostic_stage": "known"
+              },
+              {
+                "number": 8,
+                "focus": "Un bilan stable, sans promesse de récupération",
+                "scene": "En juillet, Oumar revoit la docteure Morvan pour son bilan de suivi, quelques semaines après l’épisode de confusion. Il a peur d’apprendre qu’il a perdu du terrain. La gériatre lui explique que ses résultats sont comparables à ceux de l’an dernier, avec un peu plus d’aisance sur certaines épreuves. Oumar demande s’il va « tout récupérer » s’il continue sans alcool.",
+                "development": "L’évolution d’une démence dépend de sa cause ; dans les troubles liés à l’alcool, des études décrivent une stabilité, parfois une amélioration partielle de certains domaines quand l’abstinence est maintenue, sans que cela puisse être promis à une personne. L’explication revient à la question d’Oumar. Trois appuis : demander ce qui a changé et ce qui reste identique ; garder les aides qui fonctionnent même si le bilan est rassurant ; prévoir le prochain bilan. Aucun pronostic chiffré.",
+                "ending": "La docteure Morvan répond qu’elle ne peut pas promettre de récupération, et que le prochain bilan dira l’évolution. Oumar décide de garder la fiche d’étapes et la double signature, même s’il se sent mieux.",
+                "next": "En reprenant le chantier, il doit s’agenouiller pour poser les lattes de chêne enfin livrées, et son équilibre l’inquiète.",
+                "source_refs": [
+                  "oms-cddr",
+                  "oms-cddr-hrb",
+                  "ridley-2013",
+                  "nice-cg115",
+                  "nice-ng97"
+                ],
+                "diagnostic_stage": "known"
+              },
+              {
+                "number": 9,
+                "focus": "Équilibre instable au jardin : adapter les postures",
+                "scene": "Les lattes de chêne sont arrivées. Pour les visser, Oumar s’agenouille à côté du banc, se relève en s’agrippant au dossier, vacille et se rattrape à Odette. Elle lui fait remarquer qu’il a déjà failli tomber la semaine dernière en enjambant le tuyau d’arrosage. Il hausse les épaules ; il a toujours jardiné à genoux.",
+                "development": "Chez certaines personnes, les troubles cognitifs liés à l’alcool s’accompagnent d’une instabilité de la marche, qui augmente le risque de chute ; cette instabilité a été notée par l’équipe d’Oumar et relève de son évaluation. L’explication revient au geste du relevé. Trois appuis : en parler à l’équipe pour une évaluation du risque de chute ; travailler assis à la bonne hauteur ; dégager les passages. Aucun exercice physique prescrit dans l’article.",
+                "ending": "Avec Yannick Le Floch, Oumar installe le banc sur deux tréteaux et visse assis sur un tabouret ; le tuyau est enroulé après chaque arrosage. Il accepte, en grommelant que le jardin finit par décider pour lui.",
+                "next": "Gérard propose d’arroser l’inauguration au cidre, et Oumar doit décider comment il veut vivre cette fête.",
+                "source_refs": [
+                  "oms-cddr",
+                  "ridley-2013",
+                  "nice-ng97",
+                  "has-fiche13-comportement",
+                  "oms-cddr-hrb"
+                ],
+                "diagnostic_stage": "known"
+              },
+              {
+                "number": 10,
+                "focus": "Une fête au cidre : protéger son abstinence",
+                "scene": "La réunion des résidents prépare l’inauguration du banc pour début septembre. Gérard propose du cidre, comme pour toutes les fêtes du Clos des Mauves. Tout le monde approuve ; Oumar se tait. Il ne veut ni empêcher la fête ni passer la soirée à refuser des verres. Il appelle Sabrina Haddad, l’infirmière en addictologie qui le suit, avant de répondre.",
+                "development": "Maintenir l’abstinence fait partie de l’accompagnement des troubles cognitifs liés à l’alcool, parce qu’une reprise peut compromettre la stabilité observée ; ce choix appartient à la personne, soutenue par une équipe spécialisée. L’explication revient au silence d’Oumar pendant la réunion. Trois appuis : en parler à l’équipe d’addictologie avant l’événement ; prévoir sa propre boisson et un rôle actif ; choisir une personne à qui faire signe pour partir. Aucun conseil de sevrage ni scène de consommation.",
+                "ending": "Oumar propose un jus de pomme pressé à la fête et prend la charge du discours. Il demande à Odette d’être celle à qui il fera signe s’il veut partir. Gérard accepte de servir les deux boissons.",
+                "next": "Mariama, prévenue de l’inauguration, propose de venir et de profiter du séjour pour reprendre ses papiers.",
+                "source_refs": [
+                  "oms-cddr",
+                  "nice-cg115",
+                  "ridley-2013",
+                  "nice-ng97",
+                  "oms-cddr-hrb"
+                ],
+                "diagnostic_stage": "known"
+              },
+              {
+                "number": 11,
+                "focus": "Négocier la place de sa fille dans le soin",
+                "scene": "Mariama arrive à Rezé deux jours avant l’inauguration. Elle a préparé une procuration et une liste : elle veut reprendre les factures, parler à la docteure Morvan et savoir s’il « tient » sans alcool. Oumar est touché qu’elle soit là, mais il a déjà choisi Jean-Paul pour la cagnotte et Sabrina pour l’abstinence. Il ne veut pas que leur relation, longtemps abîmée, devienne une surveillance.",
+                "development": "Associer les proches au soin suppose de négocier avec la personne leur rôle et les informations partagées ; l’aide d’un proche n’annule pas les choix de la personne. L’explication revient à la liste de Mariama. Trois appuis : dire ce qu’on accepte, refuse et réserve pour plus tard ; organiser un rendez-vous commun avec la coordinatrice ; proposer au proche un soutien pour lui-même. Aucune démarche juridique détaillée.",
+                "ending": "Avec Nathalie Jouan, Oumar confie à Mariama le suivi de ses factures d’énergie, garde ses comptes du quotidien avec Jean-Paul et refuse qu’elle appelle Sabrina. Il accepte qu’elle vienne au prochain rendez-vous chez la docteure Morvan.",
+                "next": "L’inauguration approche, et Oumar veut que les aides choisies cet été ne dépendent pas de sa bonne mémoire de chacune.",
+                "source_refs": [
+                  "oms-cddr",
+                  "nice-cg115",
+                  "nice-ng97",
+                  "has-fiche14-communiquer",
+                  "oms-cddr-hrb"
+                ],
+                "diagnostic_stage": "known"
+              },
+              {
+                "number": 12,
+                "focus": "Prévoir la continuité des aides choisies",
+                "scene": "Début septembre, le banc est inauguré sous le tilleul : quatre lattes d’origine, trois neuves en chêne, huilé et non peint, avec une plaque aux noms des résidents. Oumar fait son discours, un verre de jus de pomme à la main, puis s’assoit sur le banc à côté d’Odette. Le soir, il pense aux tâches qui lui coûtent davantage et à ce qui se passerait si Nathalie, Jean-Paul ou Yannick n’étaient plus là.",
+                "development": "Le suivi d’une démence comprend l’occasion, tôt et régulièrement, de dire ses préférences pour la suite et de les écrire ; un plan d’aide transmis entre les intervenants, avec l’accord de la personne, favorise la continuité. L’explication revient au moment où Oumar s’assoit sur le banc. Trois appuis : lister les tâches devenues coûteuses et qui aide pour chacune ; désigner un relais pour chaque aide ; fixer une date pour réviser le plan. Aucune promesse sur l’évolution.",
+                "ending": "Oumar signe avec Nathalie Jouan, Jean-Paul et Mariama un plan de relais révisable à chaque bilan, qui sera transmis à la consultation mémoire. Il y écrit qu’il garde l’arrosage de ses bacs et qu’il choisira toujours ce qu’il raconte de son histoire.",
+                "next": "Le banc est réparé ; la suite reste ouverte, avec des appuis nommés, un plan révisable et un bilan à venir dont personne ne connaît le résultat.",
+                "source_refs": [
+                  "oms-cddr",
+                  "nice-ng97",
+                  "has-fiche13-comportement",
+                  "oms-cddr-hrb",
+                  "ridley-2013"
+                ],
+                "diagnostic_stage": "known"
+              }
+            ]
+          }
+        },
+        "allowed_outputs": [
+          "editorial/clinical/oumar.json"
+        ],
+        "output_baseline": {
+          "editorial/clinical/oumar.json": null
+        }
+      },
+      "snapshot_sha256": "88bcf52a2eed24fd23b562e66286f109ac6b07df283d1bf48fd6c89350389c27",
+      "status": "active",
+      "token_sha256": "b63f7989e293cec2e689ace05bb846ed175280099fdde9f316d0d49f9198ad7f",
+      "heartbeat_at": "2026-11-12T10:42:39Z",
+      "expires_at": "2026-11-12T11:42:39Z"
     }
   },
-  "updated_at": "2026-11-12T10:42:13Z"
+  "updated_at": "2026-11-12T10:42:39Z"
 }
