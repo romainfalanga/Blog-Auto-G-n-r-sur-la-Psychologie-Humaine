@@ -841,6 +841,110 @@
         "choice": "Derain propose à Florence de continuer à noter ses nuits et fixe un nouveau point dans quinze jours. Elle lui conseille aussi de voir son médecin traitant pour un examen général. Si son état se dégrade, si un symptôme nouveau apparaît ou si elle se sent en danger, Florence appelle le secrétariat de l’équipe ou, en urgence, le 15. Florence range la feuille dans son agenda. Le soir, elle écrit à Cathy : « Pour les pages 17 à 24, je te propose mardi prochain. » Elle ne parle ni de ses nuits ni de la consultation. Elle ne sait pas encore ce que le prochain point montrera.",
         "next": "Elle retrouve ensuite Cathy pour une conversation dont elle doit respecter la limite entre soutien ordinaire et soin."
       }
+    },
+    {
+      "number": 9,
+      "slug": "florence-soutien-social-limites",
+      "title": "Soutien social : une collègue n’est pas une interlocutrice clinique",
+      "description": "À la pause, Florence ramène sans cesse la conversation à ses rendez-vous. Cathy pose une limite, puis reprend avec elle les dernières légendes.",
+      "context": "à la pause café du service municipal",
+      "topics": [
+        "Soutien social",
+        "Limites d’une collègue",
+        "Relations ordinaires"
+      ],
+      "clinical_intro": "Un parcours de soin long et un cadre de protection peuvent réduire le cercle des personnes avec qui l’on parle, sans que ce soit le cas pour tout le monde. Une collègue peut offrir un soutien ordinaire, une conversation ou un café, sans devenir confidente permanente, soignante ou surveillante. Poser cette limite n’est pas un rejet et ne demande à personne de garder un secret.",
+      "opening": "Dans la petite cuisine du service municipal, la machine à café fait son bruit de moteur fatigué. Cathy, la coordinatrice éditoriale du cahier Regards de quartier, a posé sur la table les pages 17 à 24, imprimées la veille. Florence, la correctrice du cahier, les lui a rendues mardi, comme elle l’avait proposé. Il reste à reprendre ensemble deux légendes trop longues, dont celle du kiosque du parc sous la neige.\n\nCathy demande si Florence a passé un bon week-end. Florence répond qu’elle a surtout noté ses nuits, parce que sa psychiatre le lui a demandé. Cathy hoche la tête et revient au kiosque. Deux minutes plus tard, Florence explique que mardi elle voit Marc, son psychologue, et qu’elle ne sait pas comment lui reparler de sa solitude. Cathy tourne sa cuillère dans son gobelet. Quand Florence commence une troisième fois, « Ce que je ne comprends pas, avec mon suivi… », Cathy pose la cuillère.\n\n« Florence, j’aime bien prendre ce café avec toi, dit-elle. On peut parler du cahier, des dessins, de ce que tu lis en ce moment. Mais tes rendez-vous, je ne suis pas la bonne personne. Je ne saurais pas quoi en faire, et je ne veux pas faire semblant. »\n\nFlorence sent son visage se fermer. Elle entend d’abord : je ne veux plus de toi. « D’accord, répond-elle trop vite. Je ne t’embête plus avec ça. » Cathy ne se lève pas. « Tu ne m’embêtes pas. Je reste là pour le cahier, et pour le café. Ce qui concerne ton suivi, parles-en à Marc et à la docteure Derain : ce sont eux qui peuvent t’aider là-dessus. »\n\nFlorence regarde la légende du kiosque et compte les mots : quatorze. Elle sort son carnet personnel et y écrit une ligne pour mardi : « Je parle de mes rendez-vous à tout le monde. Pourquoi ? » Puis elle reprend son crayon.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Un soutien ordinaire a des limites qui protègent chacun",
+          "text": "Le retentissement social d’une trajectoire comme celle de Florence est possible sans être universel : le suivi, la honte ou le cadre de protection peuvent réduire les liens, et les rares relations qui restent risquent d’être chargées de tout. Une collègue n’a pourtant pas à devenir confidente permanente, soignante ou surveillante. Cathy ne coupe pas le lien : elle en dit le périmètre. Elle ne réclame aucun secret et ne porte aucun jugement sur le suivi. La personne exposée reste entièrement en dehors de cette relation de travail, qui n’a pas à la concerner."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment le besoin de soutien déborde-t-il sur une relation ordinaire ?",
+          "points": [
+            {
+              "heading": "La conversation revient toujours au soin",
+              "text": "Les rendez-vous occupent l’esprit de Florence au point de remplir chaque échange.",
+              "examples": [
+                "Elle répond à une question sur le week-end en parlant de ses nuits notées.",
+                "Elle évoque son entretien de mardi au milieu d’une discussion sur le kiosque."
+              ]
+            },
+            {
+              "heading": "Une limite entendue comme un rejet",
+              "text": "Une phrase de cadre peut d’abord sonner comme une perte personnelle.",
+              "examples": [
+                "Florence entend « je ne veux plus de toi » quand Cathy parle de son rôle.",
+                "Elle répond trop vite qu’elle ne l’embêtera plus."
+              ]
+            },
+            {
+              "heading": "Le lien continue autrement",
+              "text": "La relation ordinaire reste possible quand chacune sait ce qu’elle peut offrir.",
+              "examples": [
+                "Cathy reste assise et propose de parler des dessins ou des lectures.",
+                "Florence note sa question pour Marc, puis reprend la légende."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour garder un soutien ordinaire sans le surcharger",
+          "points": [
+            {
+              "heading": "Repérer le sujet qui revient",
+              "objective": "Remarquer quand une conversation de travail devient un relais du soin.",
+              "exercise": [
+                "Observer combien de fois on ramène l’échange à ses rendez-vous.",
+                "Noter ces sujets dans un carnet personnel.",
+                "Les apporter au professionnel qui assure le suivi."
+              ],
+              "benefit": "Les questions cliniques trouvent un interlocuteur capable d’y répondre."
+            },
+            {
+              "heading": "Entendre la limite jusqu’au bout",
+              "objective": "Ne pas confondre un cadre avec un rejet.",
+              "exercise": [
+                "Laisser la personne finir sa phrase avant de répondre.",
+                "Reformuler ce qu’elle propose encore de partager.",
+                "Demander si l’on a bien compris avant de se retirer."
+              ],
+              "benefit": "Le lien reste possible au lieu d’être rompu sur un malentendu."
+            },
+            {
+              "heading": "Choisir un sujet commun",
+              "objective": "Nourrir une relation qui ne repose pas sur le soin.",
+              "exercise": [
+                "Penser à un sujet qui intéresse les deux personnes, comme un livre ou un dessin.",
+                "L’apporter à la prochaine pause.",
+                "Garder pour les rendez-vous ce qui relève du suivi."
+              ],
+              "benefit": "La personne garde des moments ordinaires, qui comptent aussi dans une vie."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Huit mots pour le kiosque",
+      "ending": "Florence et Cathy ramènent la légende du kiosque à huit mots, puis reprennent celle du lavoir. La pause se termine à l’heure, sans promesse de disponibilité supplémentaire. Cathy remonte à son bureau avec les pages 17 à 24 annotées, qu’elle intégrera à l’épreuve complète. Florence garde la ligne de son carnet pour mardi. Elle ne sait pas encore si la prochaine pause sera plus légère ; elle sait à qui poser ses questions de soin.",
+      "conclusion": "Une relation ordinaire peut soutenir Florence à condition de ne pas porter son suivi. En acceptant le cadre posé par Cathy, elle garde à la fois une collègue et une question à travailler en séance, sans que personne autour d’elle ne devienne son soignant.",
+      "mirror": [
+        "Cathy montre un geste possible : dire ce que l’on peut offrir avant ce que l’on ne peut pas. « J’aime bien ce café avec toi. Tes rendez-vous, c’est avec ton équipe. » Un collègue ou un proche peut rester présent sans écouter chaque détail du soin, sans le garder secret et sans en rendre compte à quiconque. S’il entendait un jour quelque chose qui fait craindre un danger immédiat pour Florence ou pour autrui, il n’essaierait pas de l’évaluer seul : il appellerait le 112."
+      ],
+      "clinical_focus": "Soutien social et limites",
+      "diagnostic_stage": "known",
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "rcpsych-cr223"
+      ],
+      "continuity": {
+        "choice": "Florence et Cathy ramènent la légende du kiosque à huit mots, puis reprennent celle du lavoir. La pause se termine à l’heure, sans promesse de disponibilité supplémentaire. Cathy remonte à son bureau avec les pages 17 à 24 annotées, qu’elle intégrera à l’épreuve complète. Florence garde la ligne de son carnet pour mardi. Elle ne sait pas encore si la prochaine pause sera plus légère ; elle sait à qui poser ses questions de soin.",
+        "next": "Au suivi, elle demande quelles options de soin sont réellement adaptées, plutôt qu’une garantie de changement rapide."
+      }
     }
   ]
 }

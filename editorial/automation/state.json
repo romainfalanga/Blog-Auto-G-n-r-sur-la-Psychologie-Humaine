@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "revision": 776,
+  "revision": 780,
   "created_at": "2026-11-07T14:47:42Z",
   "cases": {
     "mathis": {
@@ -5299,9 +5299,9 @@
     "serge": {
       "character_id": "serge",
       "code": "6D50",
-      "stage": "story",
+      "stage": "review",
       "created_at": "2026-11-07T14:47:42Z",
-      "active_job": "b4131f6153e6488c97ce7f384468cafb",
+      "active_job": null,
       "owners": {
         "character": [
           "personnage_serge"
@@ -5322,6 +5322,20 @@
             "files": {
               "editorial/clinical/designs/serge.json": "9d855e9c1026e1b39a3696f65eb63bb81aee86f3be1340ec8042ccdc85238727",
               "editorial/clinical/dossiers/serge.json": "a3cfbfa2f718c4dbcb8533ce11af976098546fa7f0a3764d351b2ada16bbaa2a"
+            },
+            "episodes": 12
+          }
+        },
+        "story": {
+          "job_id": "b4131f6153e6488c97ce7f384468cafb",
+          "owner": "story_serge",
+          "validated_at": "2026-11-12T10:26:23Z",
+          "validation": {
+            "character_id": "serge",
+            "files": {
+              "editorial/clinical/designs/serge.json": "9d855e9c1026e1b39a3696f65eb63bb81aee86f3be1340ec8042ccdc85238727",
+              "editorial/clinical/dossiers/serge.json": "a3cfbfa2f718c4dbcb8533ce11af976098546fa7f0a3764d351b2ada16bbaa2a",
+              "editorial/clinical/serge.json": "c5b7e5478ce2cf8b807c4cbb1c7bfd69383940f4e300605a8faa07ed85429028"
             },
             "episodes": 12
           }
@@ -90247,7 +90261,7 @@
       },
       "snapshot_sha256": "fa9463545b0bd07d7cb272cde73eeb05046dc2103dd04886af0ddb3d2a2e7c2d",
       "resumes_job": "6e03354a06a84962aee8e3ebf8b11a2c",
-      "status": "active",
+      "status": "finished",
       "token_sha256": "47c27fae17dd62f89cc69775190681b71a4116021ef324b9e2f05a08926a7538",
       "heartbeat_at": "2026-11-12T10:26:16Z",
       "expires_at": "2026-11-12T11:26:16Z",
@@ -90308,7 +90322,17 @@
             "review_sha256": null
           }
         }
-      ]
+      ],
+      "finished_at": "2026-11-12T10:26:23Z",
+      "validation": {
+        "character_id": "serge",
+        "files": {
+          "editorial/clinical/designs/serge.json": "9d855e9c1026e1b39a3696f65eb63bb81aee86f3be1340ec8042ccdc85238727",
+          "editorial/clinical/dossiers/serge.json": "a3cfbfa2f718c4dbcb8533ce11af976098546fa7f0a3764d351b2ada16bbaa2a",
+          "editorial/clinical/serge.json": "c5b7e5478ce2cf8b807c4cbb1c7bfd69383940f4e300605a8faa07ed85429028"
+        },
+        "episodes": 12
+      }
     },
     "eb7c46eb6de04f7eb9b6d7c87a4a0723": {
       "id": "eb7c46eb6de04f7eb9b6d7c87a4a0723",
@@ -91367,8 +91391,8 @@
       "resumes_job": "77dd425a972b49fe9b814b4fe20000fb",
       "status": "active",
       "token_sha256": "d2ad351415f7dee0570b604f434425ce122a21bcdf7193253204f6c374796543",
-      "heartbeat_at": "2026-11-12T10:26:05Z",
-      "expires_at": "2026-11-12T11:26:05Z",
+      "heartbeat_at": "2026-11-12T10:26:40Z",
+      "expires_at": "2026-11-12T11:26:40Z",
       "checkpoints": [
         {
           "at": "2026-11-12T10:25:29Z",
@@ -91392,6 +91416,20 @@
           "observed": {
             "manuscript_sha256": "dd2668b39b28b1dda7012d8ca8de3e02e323c8b351b7770ca9600532c9706be2",
             "episodes_present": 8,
+            "manuscript_readable": true,
+            "design_sha256": "6ae9569ebf637c8a13c521907bb7256397c86029d0d2143ee2b5784239926f3a",
+            "dossier_sha256": "366093c6a06e703ff6264dcd930b54e345e2aee22d900fedd6212b231184110c",
+            "review_sha256": null
+          }
+        },
+        {
+          "at": "2026-11-12T10:26:40Z",
+          "outputs": {
+            "editorial/clinical/florence.json": "72d95b6ca1891f0798994c207056e13ef3e4c7f0b384640da304321010f9a5ea"
+          },
+          "observed": {
+            "manuscript_sha256": "72d95b6ca1891f0798994c207056e13ef3e4c7f0b384640da304321010f9a5ea",
+            "episodes_present": 9,
             "manuscript_readable": true,
             "design_sha256": "6ae9569ebf637c8a13c521907bb7256397c86029d0d2143ee2b5784239926f3a",
             "dossier_sha256": "366093c6a06e703ff6264dcd930b54e345e2aee22d900fedd6212b231184110c",
@@ -98969,5 +99007,5 @@
       "expires_at": "2026-11-12T11:25:50Z"
     }
   },
-  "updated_at": "2026-11-12T10:26:16Z"
+  "updated_at": "2026-11-12T10:26:40Z"
 }
