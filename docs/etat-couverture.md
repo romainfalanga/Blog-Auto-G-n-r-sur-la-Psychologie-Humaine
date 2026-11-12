@@ -1,12 +1,12 @@
 # Couverture éditoriale vérifiée
 
-État au 2026-11-09.
+État au 2026-11-12.
 
-Le catalogue contient **1419 articles**, **119 personnages** et **86 parcours cliniques** de douze épisodes. **82** parcours ont un code principal dans le chapitre 06 de la CIM-11. **4** parcours se situent dans d’autres chapitres ou dans le DSM-5-TR.
+Le catalogue contient **1431 articles**, **120 personnages** et **87 parcours cliniques** de douze épisodes. **83** parcours ont un code principal dans le chapitre 06 de la CIM-11. **4** parcours se situent dans d’autres chapitres ou dans le DSM-5-TR.
 
 **387 articles d’origine** disposent d’une preuve de lecture sémantique liée à l’empreinte de leur corps. Cette preuve est distincte des signaux de structure et de la relecture indépendante des passages sensibles.
 
-Il reste **68 cas du registre** à documenter et à traiter sous la forme appropriée. Les renvois à une variante ne comptent pas comme des textes écrits. Les catégories résiduelles, syndromes secondaires et différences entre référentiels restent à examiner.
+Il reste **67 cas du registre** à documenter et à traiter sous la forme appropriée. Les renvois à une variante ne comptent pas comme des textes écrits. Les catégories résiduelles, syndromes secondaires et différences entre référentiels restent à examiner.
 
 Les **161 repères internes indexés sur 161** ne constituent pas un inventaire de toute la psychologie. Une liaison secondaire ne vaut pas un épisode dédié. Les lacunes précises des grilles APA, RDoC et CIF sont consignées dans [la revue des concepts](../data/psychology_coverage_review.json). Le DSM-5-TR reste à comparer diagnostic par diagnostic au-delà des seules familles thématiques.
 
@@ -29,7 +29,7 @@ Les **161 repères internes indexés sur 161** ne constituent pas un inventaire 
 | Troubles du contrôle des impulsions | 6 | 4 | 0 | 0 | 2 |
 | Comportement perturbateur ou troubles dissociaux | 22 | 2 | 0 | 12 | 8 |
 | Troubles de la personnalité et caractéristiques apparentées | 12 | 1 | 0 | 10 | 1 |
-| Troubles paraphiliques | 8 | 4 | 2 | 0 | 2 |
+| Troubles paraphiliques | 8 | 5 | 1 | 0 | 2 |
 | Troubles factices | 3 | 0 | 2 | 0 | 1 |
 | Troubles neurocognitifs | 56 | 2 | 16 | 25 | 13 |
 | Troubles mentaux ou du comportement associés à la grossesse, à l'accouchement ou à la puerpéralité | 3 | 1 | 1 | 0 | 1 |
@@ -54,7 +54,6 @@ Ce tableau suit les scénarios candidats déjà présents dans la cartographie. 
 
 | Code | Sujet | Scénario candidat |
 | --- | --- | --- |
-| 6D34 | Frotteurisme | Sylvain |
 | 6D36 | Trouble paraphilique impliquant un comportement solitaire ou des individus consentants | Loubna |
 | 6D50 | Trouble factice imposé à soi-même | Serge |
 | 6D51 | Trouble factice imposé à autrui | Florence |

@@ -1,0 +1,156 @@
+{
+  "character_id": "djamila",
+  "type": "origine",
+  "auditor": "audit_o2",
+  "audited_on": "2026-11-12",
+  "persona": {
+    "age_metier_proches": "Djamila, née le 6 mai 1989 (36 puis 37 ans pendant le parcours, mars-mai 2026), travailleuse sociale dans une association d'aide aux femmes. Séparée de Samir après sept ans de relation violente, mère d'Adam (6 ans). Grand-mère morte trois mois avant l'ép. 1. Proches et entourage : Amina (collègue et amie), Antoine (coordinateur de l'antenne), « le Dr Martin » ou « son médecin », sa mère.",
+    "arc_summary": "Le parcours suit Djamila après la mort de sa grand-mère, quand des sursauts liés à Samir reviennent (ép. 1). Elle repère ensuite comment ces réflexes jouent dans ses relations : méfiance et lien traumatique avec Amina (ép. 2, 6), conflits avec Antoine au travail (ép. 3 à 5), appels de sa mère (ép. 7). Viennent ensuite la réception d'un succès professionnel (ép. 8, 9), une prise de parole en formation (ép. 10) et le tri des affaires de Samir, qui fait ressurgir son acte d'adoption (ép. 11). Les scènes sont généralement claires, sobres et prudentes. La progression (oser dire une limite, garder une trace écrite, demander) est cohérente, mais la dernière scène introduit des faits nouveaux qui contredisent le début.",
+    "arc_issues": [
+      "Contradiction sur la séparation. Les ép. 2 et 7 disent que Djamila a « fui » Samir après sept ans et vit dans un appartement « loin de l'ombre de Samir ». L'ép. 11 la montre triant chez elle « les affaires de Samir, quatre mois après son départ ». Il faut choisir : soit elle est partie et a gardé quelques cartons à rendre, soit Samir a quitté l'appartement commun il y a quatre mois.",
+      "L'adoption de Djamila apparaît seulement au dernier épisode, sans préparation. Elle change la lecture de la grand-mère (ép. 1) et de la mère (ép. 7), sans qu'on sache s'il s'agit de la famille adoptive.",
+      "Les ép. 3, 4 et 5 se ressemblent : trois conflits de suite avec Antoine, résolus par une note dans un carnet (heure, date, question). Les aspects psychologiques changent, mais l'action finale est la même.",
+      "Les ép. 2 et 6 traitent tous deux une offre généreuse d'Amina et la question « que devrai-je rendre ? ». Les ép. 8 et 9 traitent tous deux un succès au travail reçu avec méfiance et un mérite renvoyé à l'équipe.",
+      "Le soignant varie : « son médecin » (ép. 1, 2), « séances avec le Dr Martin » (ép. 3, 6, 7). On ne sait pas si c'est un médecin généraliste ou un psychothérapeute, ni quand le suivi a commencé.",
+      "La place de Samir auprès d'Adam (droit de visite, contacts) n'est jamais évoquée, alors que la sécurité est un thème central du parcours.",
+      "Le parcours compte 11 épisodes au lieu de 12."
+    ]
+  },
+  "episodes": [
+    {
+      "number": 1,
+      "file": "content/posts/sortir-de-ses-schemas-repetitifs/stress-post-traumatique-complexe-deuil.md",
+      "focus": "distinguer le manque de la grand-mère décédée et les réactions d'alerte liées aux violences passées (deuil et TSPT complexe)",
+      "structure": {"scene": "ok", "concept": "ok", "manifestations": "ok", "techniques": "ok", "retour": "ok", "conclusion": "ok", "proches": "ok"},
+      "comprehension": 4,
+      "comprehension_note": "La scène est très concrète : la veilleuse enjambée, les clés serrées au claquement de porte, puis posées sur un torchon. Les deux lignes du carnet (le rire de la grand-mère, le sursaut au portail) concluent clairement. Seuls Samir et le groupe de parole arrivent sans présentation.",
+      "issues": [
+        {"severity": "mineur", "type": "comprehension", "quote": "La porte qui vient de claquer lui rappelle d’autres soirs, ceux où Samir haussait la voix.", "problem": "Pour un lecteur qui arrive, rien ne dit qui est Samir (ex-conjoint, père d'Adam ?).", "fix": "Écrire « ceux où Samir, son ex-conjoint, haussait la voix »."},
+        {"severity": "mineur", "type": "trame", "quote": "Après une première rencontre avec le groupe de parole, Djamila note ce dont elle a parlé", "problem": "Le groupe de parole n'est pas annoncé dans la scène. Le retour saute à un autre jour sans le dire.", "fix": "Ajouter une transition : « Le jeudi suivant, après une première rencontre avec le groupe de parole sur le deuil qu'on lui avait conseillé… »."}
+      ]
+    },
+    {
+      "number": 2,
+      "file": "content/posts/sortir-de-ses-schemas-repetitifs/mefiance-abus-en-amitie-causes-profondes.md",
+      "focus": "schéma de méfiance et d'abus (Young) : une offre d'aide et un contact physique d'Amina vécus comme une menace",
+      "structure": {"scene": "ok", "concept": "ok", "manifestations": "ok", "techniques": "ok", "retour": "ok", "conclusion": "ok", "proches": "ok"},
+      "comprehension": 5,
+      "comprehension_note": "On sait qui sont Amina et Samir, ce qui est proposé (le dossier Lopez pour libérer le week-end) et pourquoi la main sur le bras déclenche le recul. La phrase dite dans le couloir (« je n'aime pas qu'on me touche par surprise ») et la réponse « Je te demanderai » donnent une fin nette.",
+      "issues": [
+        {"severity": "mineur", "type": "continuite", "quote": "Amina avait posé des gâteaux pour Adam au bureau une fois.", "problem": "« Une fois » renvoie à un passé lointain, mais Amina demande ensuite si Adam a aimé les gâteaux et il « en a gardé un pour le lendemain ». Les gâteaux semblent récents.", "fix": "Écrire « Amina avait posé des gâteaux pour Adam sur son bureau la semaine dernière »."}
+      ]
+    },
+    {
+      "number": 3,
+      "file": "content/posts/sortir-de-ses-schemas-repetitifs/gaslighting-manipulation-psychologique-au-travail.md",
+      "focus": "repérer le gaslighting : une intrusion pendant un entretien confidentiel et une remarque qui déplace la discussion vers son émotion",
+      "structure": {"scene": "ok", "concept": "ok", "manifestations": "ok", "techniques": "ok", "retour": "ok", "conclusion": "ok", "proches": "ok"},
+      "comprehension": 4,
+      "comprehension_note": "L'entrée d'Antoine sans frapper, la phrase « tu es bien susceptible » et le message qu'il dit avoir envoyé sont clairs. La bénéficiaire, qui raconte un vrai gaslighting conjugal, offre un bon contrepoint. Le retour (ligne vide sous ce qui n'est pas vérifiable, demande de frapper) est précis. Un raccord temporel avec l'ép. 2 est faux.",
+      "issues": [
+        {"severity": "majeur", "type": "continuite", "quote": "Elle se rappelle encore ses propres doutes, il y a quelques mois, lorsqu'elle percevait des menaces partout, même dans la gentillesse de sa collègue Amina.", "problem": "La scène de la brasserie (ép. 2) a eu lieu la veille (18 mars contre 19 mars), pas « il y a quelques mois ». Parler du « chemin parcouru » depuis ce déjeuner n'a pas de sens.", "fix": "Écrire « Hier encore, à la brasserie, elle avait reculé devant la main d'Amina »."},
+        {"severity": "mineur", "type": "continuite", "quote": "Elle repense à ses séances avec le Dr Martin", "problem": "Les ép. 1 et 2 parlent de « son médecin » et d'un « prochain rendez-vous ». Le passage à des « séances » avec un Dr Martin n'est pas expliqué.", "fix": "Écrire une fois « le Dr Martin, son médecin, qu'elle voit tous les quinze jours depuis le décès de sa grand-mère » ou préciser s'il s'agit d'un psychothérapeute."}
+      ]
+    },
+    {
+      "number": 4,
+      "file": "content/posts/reprendre-le-controle-de-ses-pensees/biais-confirmation-conflit.md",
+      "focus": "biais de confirmation : entendre d'avance un reproche dans la question d'Antoine pendant une réunion",
+      "structure": {"scene": "ok", "concept": "ok", "manifestations": "faible", "techniques": "ok", "retour": "ok", "conclusion": "ok", "proches": "ok"},
+      "comprehension": 4,
+      "comprehension_note": "L'ouverture montre bien le biais : Djamila « l'entend déjà ajouter qu'elle connaît mal son dossier » avant qu'il le dise. Le retour (sa question écrite et, sur une autre ligne, la réponse attendue) est concret. Une manifestation inverse les faits de l'ép. 3.",
+      "issues": [
+        {"severity": "majeur", "type": "continuite", "quote": "lorsqu'Antoine affirme qu'il n'avait pas reçu le courriel", "problem": "Dans l'ép. 3, c'est Antoine qui dit avoir envoyé un message et Djamila qui ne l'a pas reçu.", "fix": "Écrire « lorsqu'Antoine affirme lui avoir envoyé un message qu'elle n'a pas trouvé »."},
+        {"severity": "mineur", "type": "repetition", "quote": "Djamila ne jette aucune des deux notes.", "problem": "Deuxième épisode de suite sur un conflit avec Antoine, résolu par une note au carnet.", "fix": "Garder la scène, mais faire porter le retour sur un geste différent de l'écrit (par exemple reformuler à voix haute la question d'Antoine en réunion)."}
+      ]
+    },
+    {
+      "number": 5,
+      "file": "content/posts/comprendre-et-maitriser-ses-emotions/sentiment-injustice-conflit-reconstruction-post-toxique.md",
+      "focus": "sentiment d'injustice face à un coordinateur qui ne répond pas sur un relogement urgent",
+      "structure": {"scene": "ok", "concept": "ok", "manifestations": "ok", "techniques": "ok", "retour": "ok", "conclusion": "ok", "proches": "ok"},
+      "comprehension": 4,
+      "comprehension_note": "Antoine qui pianote sur son téléphone pendant qu'elle parle du relogement et la question écrite près de l'école (« Qui peut trancher si ce n'est pas fait demain ? ») rendent l'émotion et la décision lisibles. Le renvoi à la réunion « il y a trois jours » est exact. La gravité du danger évoqué reste en suspens.",
+      "issues": [
+        {"severity": "majeur", "type": "repetition", "quote": "Elle écrit la date de sa première demande et celle du report.", "problem": "Troisième épisode consécutif (ép. 3, 4, 5) de conflit avec Antoine, conclu par une ligne au carnet. Le lecteur a l'impression de relire la même scène.", "fix": "Faire aboutir cet épisode à une action différente : Djamila appelle la responsable du relogement ou sollicite une collègue tout de suite, et le carnet n'est qu'un détail."},
+        {"severity": "mineur", "type": "clinique", "quote": "c'est un fait : il ignore une situation de danger pour une bénéficiaire.", "problem": "Si la bénéficiaire est en danger, attendre « demain » pose problème. Le récit ne montre pas que Djamila a vérifié l'absence de danger immédiat (la rubrique proches le rappelle, mais pas l'épisode).", "fix": "Ajouter une phrase dans le retour : Djamila vérifie que la famille est à l'abri ce soir, sinon elle déclenche le dispositif d'urgence."}
+      ]
+    },
+    {
+      "number": 6,
+      "file": "content/posts/sortir-de-ses-schemas-repetitifs/trauma-bonding-attachement-traumatique-amitie.md",
+      "focus": "suites d'un lien traumatique : le calme d'une amitié stable paraît étrange après l'alternance violence et accalmie",
+      "structure": {"scene": "ok", "concept": "faible", "manifestations": "faible", "techniques": "ok", "retour": "ok", "conclusion": "ok", "proches": "ok"},
+      "comprehension": 4,
+      "comprehension_note": "L'invitation à la mer, la réponse « Est-ce qu'on peut commencer par une journée ? » et l'attente sans réponse sont claires. Le concept annoncé (attachement à l'agresseur) n'est pas montré : l'épisode dit lui-même qu'il ne concerne pas l'amitié avec Amina.",
+      "issues": [
+        {"severity": "majeur", "type": "lien_concept", "quote": "Ce lien n’est ni un diagnostic, ni une explication de l’amitié avec Amina.", "problem": "Le titre et le sujet annoncent le lien traumatique, mais la scène ne montre aucun attachement persistant à Samir. Elle montre une gêne devant le calme et l'envie de refuser. Le concept est plaqué sur une scène d'amitié.", "fix": "Soit ajouter dans la scène un élément du lien à Samir (un message de lui, l'envie de lui répondre, la nostalgie des réconciliations) mis en regard de l'invitation d'Amina, soit renommer l'aspect traité (« quand le calme d'une relation paraît étrange après des violences »)."},
+        {"severity": "majeur", "type": "repetition", "quote": "Elle se demande ce qu’il faudra rendre après le week-end, bien qu’aucune attente n’ait été annoncée.", "problem": "Même question que l'ép. 2 (« Que veut-elle vraiment en échange ? »), devant une offre d'Amina. L'ouverture reparle aussi de « méfiance acide ».", "fix": "Supprimer la sous-partie « Elle hésite à accueillir l'invitation » et la remplacer par ce qui est propre à l'épisode : le manque d'intensité, l'ennui, le réflexe de se rendre indispensable."}
+      ]
+    },
+    {
+      "number": 7,
+      "file": "content/posts/sortir-de-ses-schemas-repetitifs/cycle-abus-tension-explosion-lune-de-miel-parents.md",
+      "focus": "cycle tension, explosion, accalmie appliqué aux relations avec sa mère ; poser une limite au téléphone",
+      "structure": {"scene": "ok", "concept": "ok", "manifestations": "ok", "techniques": "ok", "retour": "ok", "conclusion": "ok", "proches": "ok"},
+      "comprehension": 4,
+      "comprehension_note": "L'appel pendant la tartine d'Adam et la phrase « Samedi, on garde notre sortie » sont clairs et forts. La scène montre seulement la phase de tension. Les cris, les insultes et les accalmies sont racontés en manifestations sans avoir été présentés : la mère n'avait jamais été évoquée comme violente avant cet épisode.",
+      "issues": [
+        {"severity": "majeur", "type": "comprehension", "quote": "Dans le souvenir de Djamila, un retard ou un désaccord sur l’éducation d’Adam précède parfois des cris et des insultes.", "problem": "Le lecteur découvre ici que la mère crie et insulte, et que « ses parents » arrivent ensuite avec un jouet. Rien ne situe ces épisodes (quand, combien de fois) ni le rôle du père, qui n'apparaît jamais. Le cycle annoncé repose entièrement sur ce récit non montré.", "fix": "Ajouter dans la scène d'ouverture un souvenir précis et daté, par exemple le dernier repas de Pâques où sa mère a crié parce qu'elle était arrivée en retard, puis a rappelé le lendemain pour proposer de garder Adam. Préciser si le père est présent."},
+        {"severity": "mineur", "type": "lien_concept", "quote": "Elle anticipe que sa mère va crier, puis l’appeler le lendemain d’une voix douce pour proposer de garder Adam.", "problem": "Dans le retour, la proposition de garde arrive dans le même appel, sans explosion. La scène ne montre donc pas le passage d'une phase à l'autre.", "fix": "Faire reprendre la proposition de garde par la mère après une remarque blessante explicite dans le même appel, ou indiquer qu'elle rappelle le lendemain."}
+      ]
+    },
+    {
+      "number": 8,
+      "file": "content/posts/comprendre-et-maitriser-ses-emotions/soulagement-apres-un-succes.md",
+      "focus": "soulagement après la validation d'un projet de relogement, mêlé d'une attente de remise en cause",
+      "structure": {"scene": "faible", "concept": "ok", "manifestations": "ok", "techniques": "ok", "retour": "ok", "conclusion": "ok", "proches": "ok"},
+      "comprehension": 3,
+      "comprehension_note": "On ne comprend pas d'emblée l'événement : une « sonnette » qui « claque », un « dossier laqué », le mot « reconnaissance » « piqueté » sur la couverture, des applaudissements, puis un conseil municipal. Le ticket de croque-monsieur d'Adam est un bon fil, et la nuit où elle veut vérifier le courrier est juste.",
+      "issues": [
+        {"severity": "majeur", "type": "comprehension", "quote": "La sonnette de la salle polyvalente claque encore dans les oreilles de Djamila lorsqu'elle traverse le parking ce 24 avril 2026. Elle tient entre ses doigts le dossier laqué qu'on lui a remis, un peu chaud après les applaudissements.", "problem": "Images obscures. On ne sait pas quelle cérémonie a eu lieu, qui remet quoi, ni pourquoi Adam y était. Le lien avec le relogement de la famille de l'ép. 5 n'est pas fait (s'agit-il de la même famille ou d'un programme municipal ?).", "fix": "Écrire simplement : « À la sortie de la séance du conseil municipal, où le programme de relogement porté par l'association vient d'être voté, Djamila tient le dossier remis aux partenaires. Adam, qu'elle a dû emmener, l'attend dans la voiture. »"},
+        {"severity": "majeur", "type": "repetition", "quote": "Même après la confirmation écrite, Djamila s’attend encore à une remise en cause.", "problem": "L'ép. 9 traite dix jours plus tard la même situation (un succès professionnel accueilli avec méfiance, l'attente d'une chute), avec le même projet.", "fix": "Différencier les deux : ici, rester sur la détente du corps et la fin d'une attente longue ; dans l'ép. 9, centrer sur le fait de s'attribuer un mérite (voir ép. 9)."}
+      ]
+    },
+    {
+      "number": 9,
+      "file": "content/posts/comprendre-et-maitriser-ses-emotions/fierte-au-travail-comprendre-manifestations-hpi.md",
+      "focus": "fierté au travail : recevoir un remerciement sans le rectifier aussitôt",
+      "structure": {"scene": "faible", "concept": "faible", "manifestations": "ok", "techniques": "ok", "retour": "ok", "conclusion": "ok", "proches": "ok"},
+      "comprehension": 3,
+      "comprehension_note": "L'ouverture (son nom ajouté sur la feuille, le stylo gardé fermé) est bonne. Le deuxième paragraphe commence par « cette sensation », qui ne renvoie à rien. Un passage sur le haut potentiel tombe sans lien avec Djamila. Le « Je peux ? » d'Amina près de la machine à eau rappelle bien l'ép. 2. La dernière phrase sur la personne à qui elle voudrait parler reste floue.",
+      "issues": [
+        {"severity": "majeur", "type": "lien_concept", "quote": "Les profils à haut potentiel sont divers, comme le rappelle le [vade-mecum d’Éduscol](https://eduscol.education.fr/document/1083/download) dans le contexte scolaire.", "problem": "Le haut potentiel n'a jamais été évoqué pour Djamila. Cette mention vient du slug (« hpi ») et non de l'histoire ; elle déroute le lecteur.", "fix": "Supprimer les deux phrases sur le haut potentiel, et renommer le slug si possible."},
+        {"severity": "majeur", "type": "comprehension", "quote": "Pourtant, cette sensation s'accompagne d'une rigidité soudaine.", "problem": "Aucune sensation n'a été nommée dans le paragraphe précédent. Le lecteur ne sait pas que Djamila éprouve de la fierté avant le troisième paragraphe.", "fix": "Ajouter avant : « Une chaleur lui monte au visage : elle est fière de ces rendez-vous. »"},
+        {"severity": "mineur", "type": "comprehension", "quote": "Elle le pense toujours en allant chercher Adam, et elle sait à qui elle voudrait le dire.", "problem": "On ne sait pas à qui (Amina, l'équipe, sa grand-mère ?). La fin reste énigmatique.", "fix": "Nommer la personne, par exemple « elle le dira à l'équipe lundi, une fois qu'elle aura gardé ce merci pour elle »."},
+        {"severity": "mineur", "type": "comprehension", "quote": "À côté du résultat du projet, quelqu’un a ajouté le nom de Djamila.", "problem": "« Le projet » n'est pas rappelé ; c'est probablement le relogement de l'ép. 8.", "fix": "Écrire « À côté du résultat du projet de relogement »."}
+      ]
+    },
+    {
+      "number": 10,
+      "file": "content/posts/reprendre-le-controle-de-ses-pensees/biais-de-groupe-ecole-etudes-psychologie.md",
+      "focus": "conformisme face à une majorité en formation (Asch)",
+      "structure": {"scene": "ok", "concept": "ok", "manifestations": "ok", "techniques": "ok", "retour": "ok", "conclusion": "ok", "proches": "ok"},
+      "comprehension": 4,
+      "comprehension_note": "Le formulaire, le groupe du fond qui valide d'un sourire et l'objection « qui rappelle ? » au moment de la mise en commun forment une scène claire. L'échec partiel (classement non obtenu, question gardée pour l'association) est bien posé. Une phrase de l'ouverture est confuse.",
+      "issues": [
+        {"severity": "mineur", "type": "comprehension", "quote": "Elle identifie soudain ce vieux besoin de jeter ses émotions aux oubliettes pour ne pas perturber l'équilibre du groupe", "problem": "Image vague. La scène parle de taire un avis, pas de ses émotions.", "fix": "Écrire « ce vieux réflexe de se taire pour ne pas perturber l'équilibre du groupe »."}
+      ]
+    },
+    {
+      "number": 11,
+      "file": "content/posts/sortir-de-ses-schemas-repetitifs/enfant-interieur-apres-rupture-amoureuse.md",
+      "focus": "image de l'enfant intérieur pour parler de besoins actuels, déclenchée par un acte d'adoption retrouvé en triant les affaires de Samir",
+      "structure": {"scene": "ok", "concept": "ok", "manifestations": "faible", "techniques": "ok", "retour": "faible", "conclusion": "ok", "proches": "ok"},
+      "comprehension": 2,
+      "comprehension_note": "La scène du carton sous la table est précise, mais elle repose sur deux faits jamais posés : Samir serait parti il y a quatre mois de l'appartement où vit Djamila, et Djamila a été adoptée. Le lecteur du parcours est déstabilisé, et celui qui arrive ne sait pas ce que ces faits impliquent. La fin (formes tracées, ruban oublié) ne dit pas ce que Djamila décide.",
+      "issues": [
+        {"severity": "bloquant", "type": "continuite", "quote": "Djamila termine le tri des affaires de Samir, quatre mois après son départ.", "problem": "Contradiction avec l'ép. 2 (« l'appartement qu'elle a dû reconstruire seule… après avoir fui ses manipulations ») et l'ép. 7 (« cet appartement qu'elle a patiemment décoré, loin de l'ombre de Samir ») : Djamila est partie, et non Samir. Quatre mois ne correspondent pas non plus aux « sept ans » ni à la reconstruction déjà avancée du début.", "fix": "Écrire : « Djamila trie le dernier carton qu'elle avait emporté en partant de chez Samir et n'avait jamais ouvert. » et supprimer « quatre mois après son départ »."},
+        {"severity": "majeur", "type": "continuite", "quote": "Plus bas, elle reconnaît la boîte qui contient son acte d’adoption.", "problem": "L'adoption de Djamila n'a jamais été évoquée. Elle surgit au dernier épisode et change le sens de la grand-mère (ép. 1) et de la mère (ép. 7) sans explication.", "fix": "Soit poser l'adoption plus tôt (une phrase dans l'ép. 1 ou 7 : grand-mère et mère adoptives), soit remplacer l'acte d'adoption par un objet d'enfance déjà compatible avec le canon (un carnet de santé, une photo de classe)."},
+        {"severity": "mineur", "type": "trame", "quote": "Sur le seuil, elle verra si elle a envie de lui parler du carton ou de rester manger.", "problem": "La décision est remise à plus tard, et l'épisode final du parcours se termine sur un report.", "fix": "Montrer brièvement ce qu'elle fait sur le seuil d'Amina (elle reste manger, ou elle dit seulement « j'ai trié un carton difficile »)."}
+      ]
+    }
+  ],
+  "missing_or_extra": "Il manque un épisode (11 sur 12). Le parcours explore la relation à Samir, Amina, Antoine et la mère, mais Adam n'est jamais au centre d'une scène et on ne sait rien des contacts entre Adam et son père. Je propose un 12e épisode sur la culpabilité parentale (ou la peur de transmettre ses réactions à son enfant), placé après l'ép. 7. Adam demande pourquoi papa ne vient plus, ou réagit à un claquement de porte comme sa mère. Djamila lui répond avec des mots adaptés à son âge, distingue sa responsabilité de celle de Samir et organise un appui (pédiatre, point rencontre) sans faire de son fils un confident. Cet aspect est distinct des onze autres et fait d'Adam un vrai personnage. Il faudrait aussi alléger la succession des ép. 3 à 5 (Antoine) et différencier les ép. 8 et 9.",
+  "verdict": "corrections_majeures"
+}

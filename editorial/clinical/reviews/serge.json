@@ -18,8 +18,8 @@
     },
     {
       "episode": 3,
-      "issue": "Inès est évoquée (« la question d’Inès ») sans que son rôle de psychologue soit indiqué ; Mireille n’apparaît pas mais le lecteur isolé ne peut situer l’intervenante.",
-      "requested_change": "Ajouter une apposition courte : « Inès, la psychologue qui le suit ». "
+      "issue": "Inès est évoquée (« la question d’Inès ») sans que son rôle de psychologue soit indiqué : un lecteur arrivant directement sur l’épisode ne peut pas situer cette intervenante.",
+      "requested_change": "Ajouter une apposition courte : « Inès, la psychologue qui le suit » au premier emploi."
     },
     {
       "episode": 4,

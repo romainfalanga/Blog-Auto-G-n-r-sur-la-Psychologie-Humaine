@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "as_of": "2026-11-09",
+  "as_of": "2026-11-12",
   "scope": "État éditorial vérifiable, sans prétention à épuiser tous les concepts de la psychologie.",
   "icd11_reference": {
     "name": "CIM-11 MMS",
@@ -24,15 +24,15 @@
     "other_frameworks": "APA pédagogique, RDoC recherche et CIF fonctionnement restent des grilles distinctes."
   },
   "counts": {
-    "articles": 1419,
-    "characters": 119,
-    "clinical_arcs": 86,
-    "clinical_episodes": 1032,
+    "articles": 1431,
+    "characters": 120,
+    "clinical_arcs": 87,
+    "clinical_episodes": 1044,
     "original_articles_reviewed": 387,
     "icd11_chapter06_codes": 858,
     "icd11_ungrouped_codes": 10,
-    "icd11_primary_arcs": 82,
-    "clinical_cases_pending": 68,
+    "icd11_primary_arcs": 83,
+    "clinical_cases_pending": 67,
     "other_published_arcs": 4,
     "internal_patterns": 161,
     "internal_patterns_indexed": 161
@@ -191,8 +191,8 @@
       "codes": 8,
       "statuses": {
         "no_standalone_arc_planned": 2,
-        "pending_editorial_case": 2,
-        "published_primary_arc": 4
+        "pending_editorial_case": 1,
+        "published_primary_arc": 5
       }
     },
     {
@@ -11315,12 +11315,30 @@
       "label": "Frotteurisme",
       "group_id": "BlockL1-6D3",
       "editorial_status": "parcours",
-      "coverage_status": "pending_editorial_case",
+      "coverage_status": "published_primary_arc",
       "reason": "diagnostic_distinct",
       "candidate_ids": [
         "sylvain"
       ],
-      "published_primary": null,
+      "published_primary": {
+        "character_id": "sylvain",
+        "name": "Sylvain",
+        "reviewed_on": "2026-11-12",
+        "articles": [
+          "posts/comprendre-et-maitriser-ses-emotions/sylvain-changement-sommeil-bilan",
+          "posts/comprendre-et-maitriser-ses-emotions/sylvain-consentement-portee-accord",
+          "posts/comprendre-et-maitriser-ses-emotions/sylvain-decision-tenue-trouble-persistant",
+          "posts/comprendre-et-maitriser-ses-emotions/sylvain-detresse-demande-soin",
+          "posts/comprendre-et-maitriser-ses-emotions/sylvain-fluctuation-revision-participation",
+          "posts/comprendre-et-maitriser-ses-emotions/sylvain-honte-parole-clinique",
+          "posts/comprendre-et-maitriser-ses-emotions/sylvain-preoccupations-tache-familiere",
+          "posts/comprendre-et-maitriser-ses-emotions/sylvain-prevention-decisions-effectives",
+          "posts/comprendre-et-maitriser-ses-emotions/sylvain-projet-accompli-suivi-ouvert",
+          "posts/comprendre-et-maitriser-ses-emotions/sylvain-retentissement-professionnel-ajustement",
+          "posts/comprendre-et-maitriser-ses-emotions/sylvain-soin-individualise-sans-garantie",
+          "posts/comprendre-et-maitriser-ses-emotions/sylvain-soutien-limite-responsabilite"
+        ]
+      },
       "reference_url": "https://icd.who.int/browse/2026-01/mms/fr#1580013387"
     },
     {
@@ -12632,13 +12650,6 @@
     }
   ],
   "pending_cases": [
-    {
-      "character_id": "sylvain",
-      "name": "Sylvain",
-      "code": "6D34",
-      "label": "Frotteurisme",
-      "decision": "À documenter puis choisir entre récit, comparaison et dossier."
-    },
     {
       "character_id": "loubna",
       "name": "Loubna",

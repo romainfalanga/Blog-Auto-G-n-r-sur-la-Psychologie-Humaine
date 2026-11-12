@@ -1,0 +1,404 @@
+{
+ "character_id": "maelle",
+ "type": "origine",
+ "auditor": "audit_o5",
+ "audited_on": "2026-11-12",
+ "persona": {
+  "age_metier_proches": "27 ans (née en 1999, âge cité dans l’ép. 1), opératrice sur une ligne de conditionnement agroalimentaire en horaires alternés (matin, après-midi, nuit). En couple avec Julien (métier jamais précisé), une sœur Julie et un frère non nommé, une collègue Claire, un responsable non nommé. Appartement avec un volet cassé puis réparé (ép. 1 → 11).",
+  "arc_summary": "Les quatre premiers épisodes installent les effets des rotations sur le sommeil et la vie domestique (volet, réveil, chantier chez Julie, supermarché). Les épisodes 5 à 8 déplacent la question vers le travail : pensées après la nuit, planning modifié, rendez-vous au service de santé au travail. Les épisodes 9 à 12 reviennent au corps, au bruit de la ligne, à une routine plus réaliste et se terminent sur une réunion où Maëlle porte la question du repos comme sujet collectif. La progression « de l’autocritique individuelle vers l’organisation du travail » est lisible et les accessoires (volet, rideau, carnet, réveil) sont repris avec soin.",
+  "arc_issues": [
+   "Plusieurs épisodes répètent la même leçon « la fatigue n’est pas un défaut de volonté / ne pas se juger » (ép. 1, 4, 9, 10) et la même micro-intrigue « Julien propose de prendre une tâche, Maëlle hésite puis accepte » (ép. 1, 4, 9, 11) ; les concepts sommeil / fatigue / récupération / rythme (ép. 1, 2, 4, 8, 9, 11) se recouvrent.",
+   "Le métier et le rythme de Julien ne sont jamais donnés, alors que plusieurs épisodes (6, 11) reposent sur la comparaison de leurs emplois du temps.",
+   "Le rendez-vous de santé au travail, annoncé dès l’ép. 1 et préparé pendant sept épisodes, se conclut de façon procédurale à l’ép. 8 : le lecteur ne sait pas ce qui a été proposé.",
+   "Les sections explicatives restent très générales et abstraites (prévention, interlocuteurs, procédures) ; les scènes, elles, sont claires."
+  ]
+ },
+ "episodes": [
+  {
+   "number": 1,
+   "file": "content/posts/reprendre-le-controle-de-ses-pensees/maelle-rythme-horaires-alternes.md",
+   "focus": "décalage entre horaires de travail alternés et possibilités réelles de sommeil (volet cassé, livraison, culpabilité de ne pas dormir)",
+   "structure": {
+    "scene": "ok",
+    "concept": "ok",
+    "manifestations": "ok",
+    "techniques": "ok",
+    "retour": "ok",
+    "conclusion": "ok",
+    "proches": "ok"
+   },
+   "comprehension": 4,
+   "comprehension_note": "Scène concrète et lisible : le volet bloqué, le camion, la réponse sèche à Julien et le planning sur le réfrigérateur posent l’enjeu ; la fin (montrer les deux cases à Julien, rideau provisoire, feuille pour le rendez-vous) est nette. Seul le mot « course » prête à confusion.",
+   "issues": [
+    {
+     "severity": "mineur",
+     "type": "comprehension",
+     "quote": "Aujourd’hui, elle avait prévu de récupérer avant une course.",
+     "problem": "« Une course » peut se lire comme une course à pied ; il s’agit des courses (achats), ce qui n’apparaît qu’au retour à la scène.",
+     "fix": "Écrire « avant d’aller faire les courses »."
+    },
+    {
+     "severity": "mineur",
+     "type": "comprehension",
+     "quote": "Elle prévient sa sœur qu'elle répondra plus tard.",
+     "problem": "La sœur apparaît sans prénom alors qu’elle sera Julie à l’ép. 3 ; le lecteur ne sait pas pourquoi elle attend une réponse.",
+     "fix": "Écrire « Elle prévient sa sœur, Julie, qu’elle la rappellera après sa sieste »."
+    }
+   ]
+  },
+  {
+   "number": 2,
+   "file": "content/posts/reprendre-le-controle-de-ses-pensees/maelle-inquietude-endormissement.md",
+   "focus": "inquiétude anticipatoire de ne pas dormir et surveillance de l’heure au coucher",
+   "structure": {
+    "scene": "ok",
+    "concept": "ok",
+    "manifestations": "ok",
+    "techniques": "ok",
+    "retour": "ok",
+    "conclusion": "ok",
+    "proches": "ok"
+   },
+   "comprehension": 4,
+   "comprehension_note": "Le réveil rouge, le calcul des heures et la proposition de Julien de déplacer le réveil illustrent précisément la surveillance du sommeil ; la fin (trace dans la poussière, plan de sécurité) est claire. Quelques phrases méta affaiblissent la clôture.",
+   "issues": [
+    {
+     "severity": "mineur",
+     "type": "comprehension",
+     "quote": "Le récit ne transforme pas cette absence de mesure en miracle",
+     "problem": "Phrase de narrateur qui commente le texte au lieu de montrer ce que vit Maëlle.",
+     "fix": "Remplacer par une action : « Elle se réveille avant l’alarme, fatiguée, sans savoir à quelle heure elle s’est endormie. »"
+    },
+    {
+     "severity": "mineur",
+     "type": "comprehension",
+     "quote": "qu'elle veut en parler au rendez-vous prévu",
+     "problem": "Le rendez-vous n’est pas identifié dans cet épisode (santé au travail ? médecin ?).",
+     "fix": "Préciser « au rendez-vous avec le service de santé au travail, fixé dans quinze jours »."
+    }
+   ]
+  },
+  {
+   "number": 3,
+   "file": "content/posts/comprendre-et-maitriser-ses-emotions/maelle-culpabilite-repos.md",
+   "focus": "culpabilité de se reposer et besoin de « mériter » son départ lors d’un chantier familial",
+   "structure": {
+    "scene": "ok",
+    "concept": "ok",
+    "manifestations": "faible",
+    "techniques": "ok",
+    "retour": "ok",
+    "conclusion": "ok",
+    "proches": "ok"
+   },
+   "comprehension": 4,
+   "comprehension_note": "La scène chez Julie (gratin, bâche, vitres, chiffon humide) montre bien le réflexe de proposer de l’aide pour avoir le droit de partir ; le retour (elle s’assied, annonce son heure, rentre gênée) résout clairement. Le frère et le chantier restent flous, et une réplique cite une remarque que Julie n’a jamais faite.",
+   "issues": [
+    {
+     "severity": "majeur",
+     "type": "continuite",
+     "quote": "« Quand tu dis que je suis jeune, j'ai l'impression que ma fatigue ne compte pas.",
+     "problem": "Julie ne parle jamais de l’âge de Maëlle dans la scène ; la technique répond à une remarque inventée, ce qui brouille le lien avec l’histoire.",
+     "fix": "Ajouter dans l’ouverture une réplique de Julie (« À ton âge, une vitre, c’est vite fait ») ou ancrer la phrase sur ce que Julie dit réellement (« Tu peux juste nous tenir compagnie »)."
+    },
+    {
+     "severity": "mineur",
+     "type": "comprehension",
+     "quote": "Son frère l’a retirée pour reprendre le chantier.",
+     "problem": "Le frère n’a ni prénom ni rôle et le « chantier » (Julie refait son appartement ?) n’est jamais expliqué.",
+     "fix": "Préciser dès la première phrase : « Julie refait la peinture de son appartement ; leur frère est venu aider »."
+    },
+    {
+     "severity": "mineur",
+     "type": "trame",
+     "quote": "Une autre défense possible consisterait à comparer ses rotations avec le chantier de son frère",
+     "problem": "Les phrases isolées ajoutées à la fin de chaque sous-partie (ici et « La tristesse de manquer la fin du chantier… », « Après les vitres laissées… ») ressemblent à des rustines de contrôle et alourdissent la lecture.",
+     "fix": "Intégrer ces exemples dans les paragraphes qui précèdent ou les supprimer, la sous-partie contenant déjà des exemples de la scène."
+    }
+   ]
+  },
+  {
+   "number": 4,
+   "file": "content/posts/comprendre-et-maitriser-ses-emotions/maelle-fatigue-sans-jugement.md",
+   "focus": "reconnaître la fatigue sans se juger (autocritique pendant des courses au supermarché)",
+   "structure": {
+    "scene": "ok",
+    "concept": "ok",
+    "manifestations": "faible",
+    "techniques": "ok",
+    "retour": "ok",
+    "conclusion": "ok",
+    "proches": "ok"
+   },
+   "comprehension": 4,
+   "comprehension_note": "Le paquet de riz, la liste relue trois fois et le « je ne suis pas en sucre » rendent la fatigue concrète ; la fin (Julien finit le rayon, elle attend à la caisse) est claire. Claire apparaît sans présentation.",
+   "issues": [
+    {
+     "severity": "mineur",
+     "type": "comprehension",
+     "quote": "Exigerait-elle de Claire une disponibilité intacte après une mauvaise récupération ?",
+     "problem": "Claire n’est présentée qu’à l’épisode suivant ; ici le lecteur ignore qui elle est.",
+     "fix": "Écrire « de Claire, sa collègue de ligne »."
+    },
+    {
+     "severity": "mineur",
+     "type": "trame",
+     "quote": "Relire une ligne au rayon du riz et repasser dans une allée déjà parcourue peuvent toutes deux devenir",
+     "problem": "Même procédé de phrase-récapitulatif ajoutée en fin de sous-partie (trois occurrences), formulation lourde.",
+     "fix": "Fondre ces exemples dans le paragraphe principal de chaque sous-partie."
+    }
+   ]
+  },
+  {
+   "number": 5,
+   "file": "content/posts/reprendre-le-controle-de-ses-pensees/maelle-pensees-apres-nuit.md",
+   "focus": "pensées répétées (rumination) après un poste de nuit, distinguer question utile et répétition",
+   "structure": {
+    "scene": "ok",
+    "concept": "ok",
+    "manifestations": "ok",
+    "techniques": "ok",
+    "retour": "ok",
+    "conclusion": "ok",
+    "proches": "ok"
+   },
+   "comprehension": 4,
+   "comprehension_note": "Le bus, le ticket, la fiche introuvable et la phrase de Claire forment une scène lisible ; le retour (deux phrases écrites, excuses à Claire, réponse ordinaire) est concret et clôt bien l’épisode. Une phrase d’ouverture résume les épisodes précédents au lieu de montrer.",
+   "issues": [
+    {
+     "severity": "mineur",
+     "type": "comprehension",
+     "quote": "Elle prépare déjà des observations sur son sommeil et apprend à décrire sa fatigue sans s'insulter.",
+     "problem": "Résumé abstrait du parcours antérieur placé dans la scène ; il ne montre rien au lecteur qui arrive.",
+     "fix": "Remplacer par un détail visible : « Les pages précédentes du carnet portent ses heures de sommeil de la semaine »."
+    },
+    {
+     "severity": "mineur",
+     "type": "comprehension",
+     "quote": "même si elle continue à entendre la dernière phrase de Claire.",
+     "problem": "Le lien entre « une collègue » du premier paragraphe et Claire n’est pas explicité.",
+     "fix": "Écrire « la dernière phrase de Claire, la collègue qui cherchait la fiche »."
+    }
+   ]
+  },
+  {
+   "number": 6,
+   "file": "content/posts/sortir-de-ses-schemas-repetitifs/maelle-rythmes-couple.md",
+   "focus": "rythmes décalés dans le couple : repas avant le poste, manque de temps commun pris pour un désintérêt",
+   "structure": {
+    "scene": "ok",
+    "concept": "ok",
+    "manifestations": "ok",
+    "techniques": "ok",
+    "retour": "ok",
+    "conclusion": "ok",
+    "proches": "ok"
+   },
+   "comprehension": 4,
+   "comprehension_note": "Le dialogue sur l’heure regardée et le repas trop court est clair ; le retour (laisser le paiement, ne plus décider à sa place de l’heure du coucher) donne une décision précise. Le lecteur ne sait rien du travail de Julien.",
+   "issues": [
+    {
+     "severity": "mineur",
+     "type": "comprehension",
+     "quote": "Depuis l’histoire du volet",
+     "problem": "Allusion à l’ép. 1 incompréhensible pour un lecteur isolé.",
+     "fix": "Écrire « Depuis que le volet de leur chambre est cassé et qu’elle doit dormir le jour »."
+    },
+    {
+     "severity": "mineur",
+     "type": "continuite",
+     "quote": "il vient seulement de terminer sa propre journée",
+     "problem": "Le métier et les horaires de Julien ne sont donnés dans aucun épisode, alors que celui-ci repose sur la comparaison de leurs rythmes.",
+     "fix": "Donner une fois son métier et ses horaires (par ex. « il rentre de sa journée de bureau à 18 h »), à reprendre dans les ép. 11 et 12."
+    }
+   ]
+  },
+  {
+   "number": 7,
+   "file": "content/posts/sortir-de-ses-schemas-repetitifs/maelle-stress-conditions-travail.md",
+   "focus": "stress lié aux conditions de travail (planning modifié tardivement, déséquilibre exigences/ressources)",
+   "structure": {
+    "scene": "ok",
+    "concept": "ok",
+    "manifestations": "ok",
+    "techniques": "ok",
+    "retour": "ok",
+    "conclusion": "ok",
+    "proches": "ok"
+   },
+   "comprehension": 4,
+   "comprehension_note": "Le panneau raturé, la photo du planning et le « on te confirme tout à l’heure » rendent l’enjeu clair ; la décision (trois phrases au responsable, horaire du lendemain obtenu) est nette. Claire apparaît dans le retour sans avoir été placée dans la scène et la suite collective reste vague.",
+   "issues": [
+    {
+     "severity": "mineur",
+     "type": "comprehension",
+     "quote": "Claire lui indique un échange prévu sur l'organisation.",
+     "problem": "Claire n’était pas devant le panneau dans l’ouverture et « un échange prévu sur l’organisation » ne dit ni quoi ni quand.",
+     "fix": "Écrire « Claire, qui arrive pour sa relève, lui dit qu’une réunion sur les plannings a lieu le mois prochain avec le responsable et les représentants du personnel »."
+    },
+    {
+     "severity": "mineur",
+     "type": "trame",
+     "quote": "Devant le panneau, Maëlle s'aperçoit qu'elle serre les dents",
+     "problem": "Paragraphe sur la tension corporelle inséré dans la sous-partie sur l’incertitude ; il décrit un autre aspect que le titre de la sous-partie.",
+     "fix": "Le déplacer dans l’ouverture (au moment où elle suit la ligne du doigt) ou créer une phrase de transition vers la sous-partie."
+    }
+   ]
+  },
+  {
+   "number": 8,
+   "file": "content/posts/sortir-de-ses-schemas-repetitifs/maelle-recuperation-appuis.md",
+   "focus": "appuis à la récupération (rendez-vous au service de santé au travail, répartir les demandes)",
+   "structure": {
+    "scene": "ok",
+    "concept": "ok",
+    "manifestations": "ok",
+    "techniques": "ok",
+    "retour": "faible",
+    "conclusion": "ok",
+    "proches": "ok"
+   },
+   "comprehension": 3,
+   "comprehension_note": "La salle d’attente et le carnet sont bien posés, mais le rendez-vous, préparé depuis l’ép. 1, se termine sans qu’on sache ce qui a été proposé ; l’ouverture se répète et un paragraphe sur la suractivité est mal placé. « Appuis disponibles » reste une notion floue plutôt qu’un concept de psychologie.",
+   "issues": [
+    {
+     "severity": "majeur",
+     "type": "comprehension",
+     "quote": "puis lui explique les suites possibles dans son cas",
+     "problem": "Fin procédurale : aucune décision ni conséquence concrète n’est donnée (nouvelle visite ? étude de poste ? orientation vers le médecin traitant ?). Le lecteur ne sait pas ce que Maëlle obtient.",
+     "fix": "Nommer une issue précise : par exemple, le médecin du travail propose une visite du poste et un nouveau rendez-vous dans deux mois, et lui conseille de voir son médecin traitant pour le sommeil."
+    },
+    {
+     "severity": "mineur",
+     "type": "trame",
+     "quote": "Maëlle tourne les pages de son carnet dans la salle d’attente.",
+     "problem": "Le deuxième paragraphe recommence la même situation que le premier (salle d’attente, carnet) : redite.",
+     "fix": "Fusionner les deux paragraphes d’ouverture."
+    },
+    {
+     "severity": "mineur",
+     "type": "trame",
+     "quote": "Cette suractivité empiète sur les plages de récupération",
+     "problem": "Le paragraphe sur la suractivité est placé sous « L’aide reçue ressemble à une dette » sans lien avec ce titre.",
+     "fix": "Le déplacer dans la première sous-partie ou ouvrir une sous-partie dédiée."
+    }
+   ]
+  },
+  {
+   "number": 9,
+   "file": "content/posts/comprendre-et-maitriser-ses-emotions/maelle-besoins-corporels.md",
+   "focus": "perception des besoins corporels (interoception) avant l’épuisement, à la laverie",
+   "structure": {
+    "scene": "ok",
+    "concept": "ok",
+    "manifestations": "ok",
+    "techniques": "ok",
+    "retour": "ok",
+    "conclusion": "ok",
+    "proches": "ok"
+   },
+   "comprehension": 4,
+   "comprehension_note": "La laverie, le banc, la couette et le détour prévu sont clairs ; la décision (rentrer, commande reportée au lendemain) est nette. Mais l’épisode reprend presque la même intrigue et la même leçon que l’ép. 4.",
+   "issues": [
+    {
+     "severity": "majeur",
+     "type": "repetition",
+     "quote": "Sur le banc, Maëlle sent ses jambes lourdes et pense qu'elle devient paresseuse.",
+     "problem": "Répète l’ép. 4 (supermarché) : fatigue pendant une course, jugement « paresseuse », Julien qui prend une tâche, Maëlle qui accepte. L’aspect propre de l’interoception (signaux ambigus de faim, soif, somnolence) est noyé dans cette répétition.",
+     "fix": "Recentrer la scène sur un signal corporel ambigu et sur sa difficulté à le lire (par ex. à la pause de la ligne, ne pas savoir si c’est faim ou somnolence), et retirer la leçon « ne pas se juger » déjà traitée à l’ép. 4."
+    }
+   ]
+  },
+  {
+   "number": 10,
+   "file": "content/posts/reprendre-le-controle-de-ses-pensees/maelle-bruit-attention-travail.md",
+   "focus": "charge sensorielle et attention dans le bruit de la ligne (consigne mal entendue)",
+   "structure": {
+    "scene": "ok",
+    "concept": "ok",
+    "manifestations": "ok",
+    "techniques": "ok",
+    "retour": "ok",
+    "conclusion": "ok",
+    "proches": "ok"
+   },
+   "comprehension": 4,
+   "comprehension_note": "L’arrêt du convoyeur, le mot manquant et la reformulation avec Claire sont très clairs et illustrent bien le coût attentionnel ; la suite collective est vague.",
+   "issues": [
+    {
+     "severity": "mineur",
+     "type": "comprehension",
+     "quote": "Elles décident de porter le sujet au bon interlocuteur",
+     "problem": "« Le bon interlocuteur » ne désigne personne ; phrase procédurale.",
+     "fix": "Nommer l’interlocuteur : le chef de ligne, le référent sécurité ou les représentants du personnel."
+    },
+    {
+     "severity": "mineur",
+     "type": "lien_concept",
+     "quote": "Qu'est-ce que la charge sensorielle au travail ?",
+     "problem": "Le titre parle de « charge d’attention », le sujet de l’épisode de « fatigue et concentration » et l’intertitre de « charge sensorielle » : trois étiquettes pour un même concept.",
+     "fix": "Choisir une seule notion (charge attentionnelle liée au bruit) et l’employer dans le titre, le sujet et l’intertitre."
+    }
+   ]
+  },
+  {
+   "number": 11,
+   "file": "content/posts/reprendre-le-controle-de-ses-pensees/maelle-retrouver-reperes-rythme.md",
+   "focus": "retrouver un rythme après une période irrégulière sans routine surchargée",
+   "structure": {
+    "scene": "ok",
+    "concept": "ok",
+    "manifestations": "ok",
+    "techniques": "ok",
+    "retour": "ok",
+    "conclusion": "ok",
+    "proches": "ok"
+   },
+   "comprehension": 4,
+   "comprehension_note": "Le volet réparé et la feuille quadrillée trop remplie montrent bien l’excès de planification ; le retour (cases effacées, version de repli utilisée le lendemain) est clair.",
+   "issues": [
+    {
+     "severity": "mineur",
+     "type": "comprehension",
+     "quote": "Elle reconnaît la même confusion qu'au début de son carnet",
+     "problem": "Renvoi vague à un épisode antérieur.",
+     "fix": "Écrire « la même confusion qu’au début de l’automne : une case libre n’est pas un temps de repos »."
+    },
+    {
+     "severity": "mineur",
+     "type": "repetition",
+     "quote": "Le premier jour doit réparer toute la période",
+     "problem": "Le thème « une place dans l’agenda n’est pas du repos » a déjà structuré l’ép. 1.",
+     "fix": "Garder ici l’aspect propre (perfectionnisme de la routine, version de repli) et supprimer la reprise de l’argument de l’ép. 1."
+    }
+   ]
+  },
+  {
+   "number": 12,
+   "file": "content/posts/sortir-de-ses-schemas-repetitifs/maelle-repos-besoins-collectifs.md",
+   "focus": "faire reconnaître un besoin de repos comme question collective en réunion",
+   "structure": {
+    "scene": "ok",
+    "concept": "ok",
+    "manifestations": "ok",
+    "techniques": "ok",
+    "retour": "ok",
+    "conclusion": "ok",
+    "proches": "ok"
+   },
+   "comprehension": 4,
+   "comprehension_note": "La réunion, l’exemple apporté et la collègue qui veut tout lui confier à la sortie sont clairs ; la conclusion avec Julien (« On en reparle jeudi », la livraison) clôt la série sur une note concrète. La décision du responsable est formulée de manière procédurale.",
+   "issues": [
+    {
+     "severity": "mineur",
+     "type": "comprehension",
+     "quote": "Le responsable propose une première vérification sur l'anticipation des horaires et un échange avec les acteurs concernés par les pauses.",
+     "problem": "« Les acteurs concernés » et « une première vérification » ne disent pas qui fait quoi.",
+     "fix": "Écrire par ex. « Le responsable s’engage à afficher les plannings quinze jours à l’avance et à voir la salle de pause avec le CSE jeudi »."
+    }
+   ]
+  }
+ ],
+ "missing_or_extra": "Parcours complet de 12 épisodes : aucun épisode manquant. Pas d’épisode à retirer, mais deux recoupements à corriger : l’ép. 9 (laverie) refait l’ép. 4 (supermarché). Recentrer l’ép. 9 sur l’interoception au poste (signaux de faim, de soif ou de somnolence difficiles à distinguer pendant une pause de ligne) plutôt que sur une nouvelle course avec Julien. L’ép. 11 reprend l’argument de l’ép. 1 ; le garder centré sur la routine trop dense et la version de repli. Donner enfin le métier de Julien et l’issue concrète du rendez-vous de santé au travail (ép. 8).",
+ "verdict": "corrections_majeures"
+}
