@@ -945,6 +945,110 @@
         "next": "Au déjeuner du dimanche, Nordine, le frère de Bilal, voudra l’aider en le pressant de questions pour faire revenir ce qu’il a oublié."
       },
       "diagnostic_stage": "known"
+    },
+    {
+      "number": 10,
+      "slug": "bilal-questions-insistantes-souvenirs-suggeres-dejeuner-nordine",
+      "title": "Questions insistantes et souvenirs suggérés au déjeuner du dimanche",
+      "description": "Nordine presse son frère : souviens-toi, fais un effort. Bilal finit par dire oui pour qu’il arrête, puis ne sait plus ce qu’il a lui-même raconté.",
+      "context": "au déjeuner familial du dimanche",
+      "topics": [
+        "Trouble amnésique",
+        "questions insistantes",
+        "limite posée"
+      ],
+      "clinical_focus": "Questions insistantes et souvenirs suggérés",
+      "clinical_intro": "Presser une personne vivant un trouble amnésique de retrouver un souvenir, ou lui suggérer la réponse, ne fait pas revenir l’information : cela peut au contraire brouiller ce qu’elle sait. Bilal, dont le diagnostic est déjà établi, subit les questions affectueuses mais insistantes de son frère. Distinguer ce trouble d’autres formes d’oubli reste le travail des professionnels.",
+      "opening": "Dimanche, treize heures, rue Colbert. Le couscous de Samia, la femme de Bilal, fume au milieu de la table. Nordine, le frère cadet de Bilal, est arrivé de Saint-Avertin avec une bouteille et sa bonne humeur de toujours. Il parle fort, rit fort, aime son frère sans retenue, et ne lâche jamais une idée.\n\nAu dessert, il se penche vers Bilal. « Au fait, tu te rappelles ce que je t’ai dit sur la voiture ? Il y a deux semaines, au téléphone. »\n\nBilal cherche. Rien. Il le dit : « Non, redis-moi. »\n\nNordine secoue la tête. « Non, non, cherche. Fais un effort. Tu te souviens, je t’ai appelé un soir, tu étais à l’atelier, il y avait la machine derrière. La voiture, Bilal. La blanche. » Il tape doucement sur la table, comme pour aider. « Tu bloques, c’est tout. C’est à cause de l’hôpital, tout ça, ça t’a secoué. Si tu te concentres, ça revient. »\n\nBilal sent sa nuque se raidir. Il voit une voiture blanche, mais il ne sait pas si c’est un souvenir ou l’image que Nordine vient de lui mettre dans la tête. Nordine insiste : « Je t’ai dit que je la vendais, non ? Et toi tu m’as dit quoi ? Tu m’as dit que tu passerais la voir, hein ? »\n\nSamia pose sa cuillère. Elle ne dit rien ; elle a promis de ne pas répondre à la place de Bilal.\n\n« Oui, finit par dire Bilal. Oui, c’est ça. »\n\nNordine s’illumine. « Tu vois ! Ça revient quand tu veux. »\n\nMais Bilal, lui, sait qu’il n’a rien retrouvé. Il a dit oui pour que les questions s’arrêtent. Et maintenant, il ne sait plus ce qu’il a raconté à son frère il y a deux semaines, ni s’il a promis quelque chose, ni ce que ce oui vient d’ajouter à l’histoire. Il regarde le carnet vert posé sur le buffet, derrière Nordine. Il n’y a rien dedans sur une voiture.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Insister ne rend pas une information qui n’a pas été retenue",
+          "text": "Le trouble amnésique touche surtout l’apprentissage et la rétention d’informations nouvelles, avec une relative préservation du passé. D’autres tableaux existent, comme l’amnésie dissociative, qui concerne l’impossibilité de rappeler des souvenirs autobiographiques importants, souvent liés à un événement stressant : cette distinction appartient aux professionnels, qui disposent de l’histoire médicale et d’une évaluation. Un proche n’a pas à chercher une cause émotionnelle à un oubli. Chez Bilal, la cause de son trouble est connue de son équipe et il choisit de ne pas la détailler. Les questions pressantes de Nordine ne font pas revenir l’appel ; en suggérant des réponses, elles risquent de mêler l’image proposée et le souvenir réel."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment des questions insistantes brouillent-elles ce que l’on sait ?",
+          "points": [
+            {
+              "heading": "Une demande de performance plutôt que d’information",
+              "text": "Demander « tu te rappelles ? » transforme une conversation en épreuve, sans donner l’information attendue.",
+              "examples": [
+                "Nordine refuse de redire ce qu’il a dit et répète « cherche, fais un effort ».",
+                "Bilal demande qu’on lui redise, et on lui répond de se concentrer."
+              ]
+            },
+            {
+              "heading": "Une image suggérée qui se mêle au souvenir",
+              "text": "Des détails proposés par un autre peuvent sembler familiers sans qu’on sache s’ils viennent de sa propre mémoire.",
+              "examples": [
+                "Bilal voit une voiture blanche sans savoir si c’est un souvenir ou l’image de Nordine.",
+                "La phrase « tu m’as dit que tu passerais la voir » lui est fournie toute faite."
+              ]
+            },
+            {
+              "heading": "Un oui pour faire cesser la pression",
+              "text": "Sous l’insistance, la personne peut acquiescer pour sortir de la situation, ce qui ajoute une fausse confirmation.",
+              "examples": [
+                "Bilal dit « oui, c’est ça » sans avoir rien retrouvé.",
+                "Nordine conclut que « ça revient quand il veut »."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour répondre à une question insistante",
+          "points": [
+            {
+              "heading": "Dire qu’on ne sait pas plutôt que deviner",
+              "objective": "Éviter d’ajouter une réponse inventée à ce qui manque.",
+              "exercise": [
+                "Préparer une phrase simple, comme « je ne m’en souviens pas ».",
+                "La répéter calmement si la question revient.",
+                "Revenir sur un oui donné sous pression dès qu’on le peut."
+              ],
+              "benefit": "Le récit commun peut rester fiable, même s’il contient des trous."
+            },
+            {
+              "heading": "Demander une information plutôt qu’une performance",
+              "objective": "Transformer « tu te rappelles ? » en échange utile.",
+              "exercise": [
+                "Dire « redis-moi » dès qu’on ne retrouve pas.",
+                "Proposer au proche d’envoyer l’information par écrit.",
+                "Noter l’information reçue dans le carnet prévu."
+              ],
+              "benefit": "Le proche peut continuer à partager ses nouvelles sans attendre une preuve de mémoire."
+            },
+            {
+              "heading": "Poser une limite claire",
+              "objective": "Protéger la relation et ce que l’on sait de la pression.",
+              "exercise": [
+                "Dire ce que l’on préfère, sans se justifier sur la cause du trouble.",
+                "Refuser les explications sur la cause avancées par l’entourage.",
+                "Renvoyer les questions sur le trouble à l’équipe de soins si le proche y tient."
+              ],
+              "benefit": "La personne garde la maîtrise de ce qu’elle partage de sa santé, et le proche sait comment aider."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Redis-le-moi, ne me demande pas",
+      "ending": "Bilal repose sa tasse. « Nordine, j’ai dit oui pour que tu arrêtes. Je ne me souviens pas de l’appel. Et je ne sais plus ce que je t’ai raconté. » Nordine rit, puis voit que son frère ne rit pas. Bilal continue, lentement : « Je préfère que tu me redises une information plutôt que tu me demandes de m’en souvenir. Et ce que j’ai, ce n’est pas un blocage. Mon équipe sait ce que c’est. Je n’ai pas envie d’en parler au dessert. » Nordine se vexe. Il dit qu’il voulait aider, qu’on ne peut plus rien dire, et va fumer sur le balcon. Samia débarrasse sans un mot. Dix minutes plus tard, Nordine revient, les mains dans les poches. « Bon. La voiture : je change ma camionnette blanche en décembre. Je t’avais proposé de te la prêter avant, pour transporter ton banc. Tu m’avais dit que tu y réfléchirais. » Bilal ouvre le carnet vert et l’écrit. Nordine ajoute : « Pour les prochaines nouvelles, je t’envoie un message, d’accord ? » Bilal hoche la tête. Il ne sait toujours pas ce qu’il avait répondu au téléphone.",
+      "conclusion": "Presser une personne de retrouver un souvenir ne lui rend pas l’information et peut l’amener à confirmer ce qu’elle ne sait pas. En posant une limite et en demandant qu’on lui redise, Bilal protège son récit et ce qu’il choisit de dire de sa santé, au prix d’une brouille passagère avec son frère.",
+      "mirror": [
+        "Nordine voulait aider, et il a fini par trouver le bon geste : redire lui-même l’information, puis proposer un message pour les prochaines nouvelles. Un proche peut commencer par là : « Je t’avais parlé de la camionnette ; je te redis ce que c’était. » Il évite les « fais un effort », les détails suggérés et les explications sur la cause. Si un changement brutal apparaissait, comme une confusion nouvelle, il ne chercherait pas à l’interpréter : il demanderait un avis médical rapide, ou le 15 en cas d’urgence."
+      ],
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "service-public-urgences"
+      ],
+      "continuity": {
+        "choice": "Bilal refuse les questions pièges de Nordine et lui demande de redire les informations plutôt que de lui demander de s’en souvenir ; Nordine redit la proposition de prêter sa camionnette blanche pour transporter le banc avant décembre, et enverra désormais ses nouvelles par message.",
+        "next": "À l’atelier, les finitions approchent : il reste à percer les fixations et à commander la quincaillerie, et Bilal doit décider quelles tâches il garde."
+      },
+      "diagnostic_stage": "known"
     }
   ]
 }

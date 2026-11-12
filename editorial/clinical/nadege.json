@@ -638,6 +638,112 @@
       },
       "clinical_focus": "Décider avec soutien quand les proches tranchent",
       "diagnostic_stage": "known"
+    },
+    {
+      "number": 7,
+      "slug": "nadege-ergotherapeute-ajuster-risques-cuisine",
+      "title": "Ajuster les risques en cuisine avec l’ergothérapeute",
+      "description": "L’ergothérapeute observe la Tatin dans la cuisine de Nadège : le risque tient à un enchaînement, et les aménagements se choisissent avec elle.",
+      "context": "lors d’une visite à domicile de l’ergothérapeute",
+      "topics": [
+        "Démence due à une maladie cérébrovasculaire",
+        "ergothérapie à domicile",
+        "aménagements choisis"
+      ],
+      "clinical_intro": "Un ergothérapeute peut observer une activité qui compte dans le lieu où elle se fait réellement, pour voir ce qui la facilite ou la complique. Cette mise en situation complète ce que montrent les consultations et aide à décider du niveau d’aide utile. Chez Nadège, c’est la tarte Tatin que l’ergothérapeute vient regarder, sans liste d’interdits, pour chercher avec elle où se situe le risque.",
+      "opening": "Le mardi 19 janvier, à neuf heures et demie, Inès Morel, l’ergothérapeute que la consultation mémoire a proposée à Nadège, sonne rue du Portail-Louis. Elle a un carnet à spirale, un stylo, et pas de liste d’interdits. « Je ne viens pas vous dire ce que vous ne pouvez plus faire, dit-elle en enlevant son manteau. Je viens voir comment vous faites la Tatin, ici, comme d’habitude. Je pose des questions après. »\n\nNadège a mis son tablier. Elle pèle les pommes, des reinettes du marché de samedi, les coupe en quartiers épais, les range dans un saladier. Ses gestes sont nets et rapides. Inès écrit peu. Puis Nadège met le sucre dans la casserole en cuivre et allume le feu. Le sucre fond, blondit, prend une couleur d’ambre clair. Pendant qu’il colore, Nadège se souvient qu’elle n’a pas sorti le moule. Elle se retourne, ouvre le placard du bas, se baisse, déplace deux plats, cherche le moule à bord haut derrière la cocotte. Le minuteur rouge est posé sur le plan de travail, non réglé.\n\n« Le caramel », dit Inès, calmement. Nadège se redresse et retire la casserole du feu. La couleur est plus foncée qu’elle ne la voulait, mais il n’a pas brûlé. Elle respire. Elle sait ce qui aurait pu arriver ; elle pense à la casserole oubliée cet automne. Inès ne fait aucun commentaire sur le danger. Elle note quelque chose, puis demande : « Où est-ce que vous rangiez le moule, à la pâtisserie ? — À hauteur de main, à côté du fourneau. Tout était sorti avant d’allumer. » Inès sourit. « Alors c’est peut-être par là qu’on commence. »",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Observer l’activité là où elle se fait",
+          "text": "L’ergothérapeute évalue l’effet des troubles sur les actes de la vie quotidienne et sur l’environnement, à partir de mises en situation concrètes centrées sur des activités qui ont du sens pour la personne ; ces observations renseignent sur le niveau d’aide utile et complètent les évaluations faites en consultation. Chez Nadège, la visite montre que le risque ne tient pas à un geste mal maîtrisé : peler, couper et cuire le sucre restent sûrs. Il tient à un enchaînement, quand l’attention se déplace vers un objet rangé loin pendant qu’une cuisson très chaude avance. Les aménagements qui en découlent sont discutés avec elle et révisables ; ce sont des arrangements pratiques, dont l’efficacité n’est pas démontrée comme celle d’un traitement."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment un risque en cuisine se révèle-t-il lors d’une mise en situation ?",
+          "points": [
+            {
+              "heading": "Un risque lié à un enchaînement plutôt qu’à un geste",
+              "text": "Le danger apparaît souvent quand deux tâches se croisent, pas pendant les gestes appris eux-mêmes.",
+              "examples": [
+                "Nadège pèle et coupe les pommes sans aucune hésitation, puis cherche le moule pendant que le caramel colore.",
+                "Le caramel fonce au moment précis où elle a le dos tourné à la casserole."
+              ]
+            },
+            {
+              "heading": "Des repères matériels qui comptent",
+              "text": "Le rangement, l’emplacement des objets et les outils disponibles peuvent faciliter ou compliquer une activité.",
+              "examples": [
+                "Le moule à bord haut est rangé derrière la cocotte, dans le placard du bas.",
+                "Le minuteur rouge est sur le plan de travail mais n’a pas été réglé avant d’allumer le feu."
+              ]
+            },
+            {
+              "heading": "Une aide graduée plutôt qu’un interdit",
+              "text": "L’observation permet de proposer juste l’aide nécessaire, à l’endroit où elle est utile, plutôt que de supprimer l’activité.",
+              "examples": [
+                "Inès se contente de dire « le caramel » au bon moment, sans prendre la casserole.",
+                "Elle part de la façon dont Nadège travaillait à la pâtisserie, où tout était sorti avant d’allumer."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour ajuster un risque sans renoncer à une recette",
+          "points": [
+            {
+              "heading": "Tout préparer avant de chauffer",
+              "objective": "Supprimer les allers et retours pendant une cuisson dangereuse.",
+              "exercise": [
+                "Avant d’allumer le feu, sortir sur le plan de travail tout le matériel et tous les ingrédients de la recette.",
+                "Vérifier d’un regard que rien ne manque, en suivant la recette.",
+                "Ranger les objets souvent utilisés à hauteur de main, près de la cuisinière."
+              ],
+              "benefit": "Pendant la cuisson, il n’y a plus de raison de se retourner ; c’est une organisation à essayer, pas une garantie."
+            },
+            {
+              "heading": "Une fiche d’étapes plastifiée",
+              "objective": "Avoir l’ordre de la recette sous les yeux, résistant aux taches et à la chaleur.",
+              "exercise": [
+                "Écrire avec l’ergothérapeute les étapes dans l’ordre réel du travail, en marquant les moments où il ne faut pas quitter le feu.",
+                "Plastifier la fiche et la poser près de la cuisinière.",
+                "La corriger après chaque essai si un passage ne convient pas."
+              ],
+              "benefit": "L’ordre est déjà fait, et les passages sensibles sont signalés à l’endroit où ils se jouent."
+            },
+            {
+              "heading": "Partager un geste chaud avec une personne choisie",
+              "objective": "Garder la recette en confiant seulement le passage le plus risqué.",
+              "exercise": [
+                "Repérer avec l’ergothérapeute le geste le plus dangereux de la recette.",
+                "Choisir soi-même la personne qui le fera, et quand.",
+                "Garder pour soi la conduite de la recette : dire quand, comment et pourquoi."
+              ],
+              "benefit": "La recette reste la sienne, et le passage qui inquiète tout le monde est pris en charge d’une façon décidée par la personne."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Le moule à hauteur de main",
+      "ending": "Avant de partir, Inès et Nadège s’assoient à la table et regardent les notes ensemble. Nadège choisit. Pour la Tatin, tout le matériel sera sorti avant d’allumer, le moule rangé désormais à côté de la cuisinière. Le caramel, c’est Bastien, son filleul, qui le versera dans le moule pendant qu’elle le guide ; elle l’appellera ce soir pour le lui demander. Et la Tatin sera filmée chez elle, pas à l’atelier de la maison de quartier. Pour l’atelier, elle confiera le four et la panade chaude à Karima, l’animatrice. Elle accepte qu’Inès rapporte deux fiches plastifiées à sa prochaine visite, la Tatin et la pâte à choux. Elle refuse en revanche l’alarme de cuisson qu’Inès propose en plus : « J’ai déjà un minuteur. Je vais apprendre à le régler avant, pas après. » Le soir, Bastien dit oui.",
+      "conclusion": "Une mise en situation par l’ergothérapeute peut situer un risque précis plutôt que de conduire à un interdit général. Nadège en tire des aménagements qu’elle choisit et peut réviser : le matériel sorti d’avance, le caramel confié à Bastien, les gestes chauds de l’atelier confiés à Karima.",
+      "mirror": [
+        "Inès montre un geste que les proches peuvent reprendre : nommer le danger en deux mots, « le caramel », sans prendre la casserole des mains de Nadège. Bastien, quand elle l’appelle le soir, peut répondre : « D’accord pour le caramel. Tu me dis quand verser, et moi je ne touche à rien d’autre. » Il accepte un rôle précis sans devenir celui qui surveille. Si un jour il ne peut pas venir, il peut le dire, et la vidéo attendra."
+      ],
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "has-tnc-fiche12",
+        "nice-ng97",
+        "aha-vci-2011"
+      ],
+      "continuity": {
+        "choice": "Nadège décide : matériel sorti avant d’allumer, moule rangé près de la cuisinière, caramel de la Tatin versé par Bastien sous sa direction, Tatin filmée chez elle, four et panade chaude confiés à Karima à l’atelier ; deux fiches plastifiées acceptées, alarme supplémentaire refusée.",
+        "next": "En février, Nadège ne touche plus au cahier bleu et repousse la vidéo de la Tatin ; Bastien croit qu’elle a perdu l’envie."
+      },
+      "clinical_focus": "Ajuster les risques en cuisine avec l’ergothérapeute",
+      "diagnostic_stage": "known"
     }
   ]
 }

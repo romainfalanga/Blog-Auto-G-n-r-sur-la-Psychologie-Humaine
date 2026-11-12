@@ -950,9 +950,114 @@
       ],
       "continuity": {
         "choice": "Hector demande que Julien lui demande désormais avant de parler de ces jours ; il écoute deux pages du carnet puis arrête ; il appelle Bernard pour qu’il ne plaisante plus sur cette période, et Bernard s’excuse.",
-        "next": "La semaine suivante, un bruit venu de chez un voisin réveillera l’image de la nuit de la scie et une peur qu’Hector croyait passée."
+        "next": "Deux jours plus tard, un bruit venu de chez un voisin réveillera l’image de la nuit de la scie et une peur qu’Hector croyait passée."
       },
       "clinical_focus": "Des trous de mémoire sur les jours de confusion",
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 10,
+      "slug": "hector-souvenir-effrayant-apres-delirium",
+      "title": "Un souvenir effrayant de la confusion qui revient à la maison",
+      "description": "Un bruit de scie chez un voisin ramène à Hector la peur de la nuit d’hôpital. Il la note et choisit d’en parler à son médecin traitant.",
+      "context": "la troisième semaine à la maison",
+      "topics": [
+        "Delirium",
+        "souvenir effrayant",
+        "en parler au médecin"
+      ],
+      "clinical_intro": "Certaines personnes gardent, après un delirium, le souvenir effrayant de ce qu’elles ont perçu ou cru pendant la confusion. Ce souvenir peut revenir des semaines plus tard, déclenché par un bruit ou une image. En parler à un professionnel pendant la récupération fait partie du suivi. Au seuil de sa troisième semaine à la maison, Hector sent revenir la peur d’une nuit d’hôpital et décide de la confier à son médecin traitant.",
+      "opening": "Le lundi, treize jours après sa sortie et deux jours avant son rendez-vous chez son médecin traitant, vers quinze heures, Hector Ménard, 77 ans, charpentier retraité rentré de l’hôpital de Saumur après un delirium, range les ciseaux à bois dans le troisième tiroir de la caisse de 1979. Il les a nettoyés et huilés la veille ; il les remet à leur place, du plus étroit au plus large : le six, le douze, le vingt, le trente. Le chiffon sent l’huile de lin. Par la fenêtre de l’atelier, il voit la haie et, derrière, le toit du voisin.\n\nDe l’autre côté de la haie, une machine démarre. C’est la scie électrique de Monsieur Lebrun, qui débite son bois pour l’hiver. Le son monte, aigu, et Hector se fige, le ciseau de vingt à la main. Cette fois, ce n’est pas seulement un bruit. Il revoit un couloir dans la pénombre, une lumière de veilleuse, et il sent la même certitude que cette nuit-là : quelqu’un va se blesser, un jeune, et personne n’arrête la machine. Son cœur bat comme dans la chambre 12. Il sait pourtant qu’il est chez lui, que Monsieur Lebrun a soixante ans et des lunettes de protection, qu’il n’y a aucun apprenti.\n\nIl pose le ciseau de vingt sur l’établi, puis les autres, à côté de la caisse ouverte. Il sort, s’assoit sur le banc contre le mur de l’atelier et attend que la scie s’arrête. Elle s’arrête au bout de dix minutes. La peur, elle, met plus longtemps. Il ne rentre pas finir le tiroir.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Une peur de la confusion qui survit à l’épisode",
+          "text": "Les perceptions et les croyances vécues pendant un delirium peuvent laisser des souvenirs effrayants, parfois plus nets que les souvenirs des faits réels. Ces souvenirs peuvent revenir après le retour à la maison, déclenchés par un bruit, une odeur ou une situation qui rappelle ces heures-là. Les recommandations invitent à informer la personne que ce vécu est possible et à l’encourager à le partager avec un professionnel pendant sa récupération. Ce n’est ni une nouvelle confusion ni, à lui seul, un diagnostic d’un autre trouble. Pour Hector, la scie du voisin rejoint la nuit du chariot que le carnet de Julien lui a racontée. Il est parfaitement orienté : il sait où il est et ce qui se passe. C’est la peur de cette nuit-là, et non la nuit elle-même, qui revient."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment un souvenir effrayant du delirium peut-il revenir ?",
+          "points": [
+            {
+              "heading": "Un déclencheur ordinaire",
+              "text": "Un son ou une scène du quotidien peut rappeler une perception vécue pendant la confusion.",
+              "examples": [
+                "La scie électrique de Monsieur Lebrun, derrière la haie, rappelle à Hector le bruit de la nuit d’hôpital.",
+                "La lumière tombante de l’atelier ressemble pour lui à celle de la veilleuse."
+              ]
+            },
+            {
+              "heading": "Une émotion qui revient entière",
+              "text": "La peur ressentie alors peut revenir avec la même force, même si la personne sait qu’elle est en sécurité.",
+              "examples": [
+                "Hector sent la certitude qu’un jeune va se blesser, alors qu’il sait qu’il n’y a aucun apprenti.",
+                "Son cœur bat comme dans la chambre 12, ciseau à la main."
+              ]
+            },
+            {
+              "heading": "Une activité interrompue",
+              "text": "Le souvenir peut faire suspendre une tâche ou éviter un lieu un moment.",
+              "examples": [
+                "Hector pose les ciseaux sur l’établi et sort s’asseoir sur le banc.",
+                "Il ne rentre pas finir le troisième tiroir ce jour-là."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour parler d’un souvenir effrayant après un delirium",
+          "points": [
+            {
+              "heading": "Noter le moment et le déclencheur",
+              "objective": "Garder une trace précise à partager avec un soignant.",
+              "exercise": [
+                "Écrire le jour, l’heure et ce qui se passait autour.",
+                "Noter ce qui a rappelé le souvenir, un bruit, une lumière, un mot.",
+                "Ajouter en une phrase ce qui a été ressenti."
+              ],
+              "benefit": "Le médecin dispose d’une description concrète plutôt que d’une impression vague."
+            },
+            {
+              "heading": "Le dire au médecin",
+              "objective": "Inscrire ce vécu dans le suivi de la récupération.",
+              "exercise": [
+                "Ajouter la question à la liste du prochain rendez-vous.",
+                "Raconter le souvenir avec ses propres mots, sans le minimiser.",
+                "Demander ce qu’il faut faire s’il revient ou s’il gêne davantage."
+              ],
+              "benefit": "La personne n’a pas à porter seule un souvenir qui l’inquiète."
+            },
+            {
+              "heading": "Distinguer hier et aujourd’hui",
+              "objective": "Reconnaître le souvenir sans le confondre avec la situation présente.",
+              "exercise": [
+                "Nommer ce qui est là : le lieu, l’heure, la source réelle du bruit.",
+                "Se dire que la peur appartient à une nuit passée.",
+                "Faire une pause dans un endroit calme, puis reprendre plus tard si on le souhaite."
+              ],
+              "benefit": "Le souvenir garde sa place dans l’histoire sans prendre toute la journée présente."
+            }
+          ]
+        }
+      ],
+      "ending_title": "La question sous les mots soulignés",
+      "ending": "Le soir, à la table de la cuisine, Hector reprend le courrier de sortie, sous les mots qu’il avait soulignés, et écrit : « Lundi, quinze heures, scie du voisin, peur de la nuit de l’hôpital. Est-ce normal ? » Le mercredi, à dix heures, Bernard, son voisin, le conduit au cabinet du docteur Garnier, son médecin traitant, et l’attend dans la voiture. Le docteur a le courrier de l’hôpital sous les yeux. Hector lui montre sa question. Il raconte le couloir, la veilleuse, l’apprenti, la peur. Le docteur Garnier l’écoute sans l’interrompre. Il lui explique que d’autres personnes gardent des souvenirs effrayants après un delirium, que ce vécu est possible et qu’il a bien fait d’en parler. Il propose d’en reparler si ces moments persistent ou le gênent, et note leur échange dans le dossier. L’après-midi, Julien, son neveu, passe comme prévu ; Hector ne lui parle pas du souvenir. Il ne veut pas qu’il devienne une affaire de famille. Le jeudi matin, Hector retourne à l’atelier. Il n’y a pas de bruit derrière la haie. Il reprend les ciseaux à bois, les range un par un dans le troisième tiroir, puis colle une étiquette : « Tiroir 3 : nettoyé, huilé. »",
+      "conclusion": "Un souvenir effrayant de ce qui a été perçu pendant un delirium peut revenir après la sortie, sans être une nouvelle confusion ; il gagne à être confié au médecin qui suit la récupération. Hector garde ce souvenir pour lui et son médecin, et reprend ses ciseaux le lendemain, au calme.",
+      "mirror": [
+        "Hector a choisi de ne pas parler de ce souvenir à Julien. Un proche n’a pas à tout savoir, mais il peut ouvrir une porte sans forcer : « Si quelque chose de l’hôpital te revient, tu peux m’en parler, ou au docteur Garnier. » S’il voit la personne interrompre une tâche après un bruit, il peut s’asseoir à côté d’elle sans poser de questions. Il ne cherche pas à lui faire revivre la nuit, et il respecte qu’elle réserve ce sujet à son médecin."
+      ],
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "nice-cg103",
+        "sign-157"
+      ],
+      "continuity": {
+        "choice": "Hector note le souvenir et sa question, n’en parle pas à Julien, et le raconte au docteur Garnier le mercredi, quinze jours après la sortie, comme prévu ; le médecin propose d’en reparler si cela persiste ou gêne ; Hector reprend les ciseaux le jeudi et étiquette le troisième tiroir.",
+        "next": "Quelques semaines plus tard, un mot qui manque fera dire à Julien que son oncle « commence peut-être Alzheimer »."
+      },
+      "clinical_focus": "Un souvenir effrayant de l’épisode qui revient",
       "diagnostic_stage": "known"
     }
   ]

@@ -848,6 +848,112 @@
         "next": "Aux urgences, Anis arrivera du collège ; un soignant lui demandera les traitements et ce qu’on sait de la maladie, et il devra transmettre le diagnostic et le contact de la neurologue avant que les équipes décident."
       },
       "diagnostic_stage": "known"
+    },
+    {
+      "number": 9,
+      "slug": "farid-sensibilite-medicaments-carte-urgences",
+      "title": "Signaler le diagnostic à chaque équipe à cause de la sensibilité aux médicaments",
+      "description": "Aux urgences, Anis sort la carte rédigée avec la neurologue. Pourquoi le diagnostic de corps de Lewy doit être connu de toute équipe qui soigne.",
+      "context": "aux urgences, après la chute",
+      "topics": [
+        "sensibilité aux médicaments",
+        "carte de liaison",
+        "décision des soignants"
+      ],
+      "clinical_focus": "Signaler le diagnostic à chaque équipe soignante",
+      "clinical_intro": "Les personnes atteintes de démence à corps de Lewy peuvent réagir de façon particulière à certains médicaments, qui risquent d’aggraver les signes moteurs ou la confusion. C’est aux soignants informés de choisir, jamais aux proches. Aux urgences, la carte préparée avec la neurologue permet à Farid et à son fils de transmettre cette information dès les premières questions.",
+      "opening": "Jeudi, midi passé. Anis, le fils de Farid, professeur de technologie, a laissé sa classe à un collègue et traversé la ville. Aux urgences, il trouve son père sur un brancard dans un box, une couverture jusqu’à la poitrine, une perfusion au bras. Farid a les yeux ouverts. « Tu as abandonné tes élèves », dit-il. La voix n’est plus pâteuse ; elle est fatiguée.\n\nUn infirmier entre avec une tablette. « Vous êtes le fils ? Quels traitements prend votre père, et qu’est-ce qu’on sait de sa maladie ? » Anis sent un vide : il connaît les boîtes de vue, pas tous les noms. Puis il se souvient. Il ouvre le portefeuille que Mme Diallo, l’assistante de soins de l’équipe à domicile, a glissé dans la veste de son père, et en sort la carte remplie il y a moins de deux semaines avec la docteure Tissier, la neurologue. Diagnostic : démence due à une maladie à corps de Lewy. Le numéro de son service. Une phrase : « Merci de contacter le service avant de modifier un traitement. » Sur son téléphone, il a aussi la photo de la liste du réfrigérateur.\n\nL’infirmier lit, photographie la carte, hoche la tête. « C’est utile. Je le transmets au médecin. »\n\nFarid soulève un peu la tête. « Je voudrais dire une chose. Vous faites les examens qu’il faut. Mais je ne veux pas qu’on change quoi que ce soit sans que ma neurologue le sache. » L’infirmier répond qu’il le note tel quel. Anis regarde son père : il a dit lui-même ce qu’Anis aurait voulu dire à sa place.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Une sensibilité qui concerne toutes les équipes",
+          "text": "Dans la démence due à une maladie à corps de Lewy, certaines familles de médicaments, en particulier des antipsychotiques, peuvent aggraver les signes moteurs, la confusion ou les symptômes psychotiques, et provoquer parfois des réactions graves. Les recommandations insistent donc pour que les équipes soignantes connaissent le diagnostic et puissent joindre le spécialiste qui suit la personne. Ce choix appartient aux médecins, qui pèsent les bénéfices et les risques au cas par cas, d’autant que la prise en charge repose en partie sur l’avis d’experts. Les proches n’ont ni à proposer ni à refuser un médicament, ni à arrêter ou ajouter quoi que ce soit. Leur rôle est plus simple et plus précis : faire arriver l’information au bon endroit. Aux urgences, où Farid ne connaît personne et où une hospitalisation peut aussi favoriser la confusion, la carte de la docteure Tissier fait ce travail en quelques secondes."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment la question des médicaments se pose-t-elle hors du service habituel ?",
+          "points": [
+            {
+              "heading": "Des équipes qui ne connaissent pas la personne",
+              "text": "Aux urgences ou lors d’une hospitalisation, les soignants découvrent la personne et ses antécédents.",
+              "examples": [
+                "L’infirmier demande à Anis quels traitements prend son père.",
+                "Il ne sait rien de la neurologue qui suit Farid."
+              ]
+            },
+            {
+              "heading": "Un proche qui ne sait pas tout",
+              "text": "Même un fils attentif peut ignorer les noms et les doses, surtout dans l’émotion.",
+              "examples": [
+                "Anis reconnaît les boîtes mais pas tous les noms.",
+                "Il retrouve la photo de la liste du réfrigérateur sur son téléphone."
+              ]
+            },
+            {
+              "heading": "Une personne qui veut garder la parole",
+              "text": "La personne malade peut exprimer elle-même ce qui compte pour elle.",
+              "examples": [
+                "Farid demande qu’on prévienne sa neurologue avant tout changement.",
+                "L’infirmier note sa demande telle qu’il la formule."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour transmettre le diagnostic à chaque équipe",
+          "points": [
+            {
+              "heading": "Présenter la carte du neurologue",
+              "objective": "Faire connaître le diagnostic et le contact du spécialiste dès l’arrivée.",
+              "exercise": [
+                "Préparer avec le neurologue une carte au format portefeuille.",
+                "La garder sur soi et en laisser une copie à un endroit connu de la maison.",
+                "La montrer à chaque nouvelle équipe, même pour un motif sans rapport apparent."
+              ],
+              "benefit": "L’information arrive vite à ceux qui prescrivent, sans dépendre de la mémoire de quiconque."
+            },
+            {
+              "heading": "Tenir à jour la liste des traitements",
+              "objective": "Donner aux soignants une liste exacte plutôt qu’un souvenir approximatif.",
+              "exercise": [
+                "Afficher la liste remise par le médecin à un endroit visible.",
+                "En garder une photo récente sur le téléphone du proche désigné.",
+                "La faire mettre à jour par le prescripteur à chaque changement."
+              ],
+              "benefit": "Les équipes travaillent sur une base fiable ; le proche n’a pas à reconstituer la liste."
+            },
+            {
+              "heading": "Poser ses questions au prescripteur",
+              "objective": "Comprendre une décision sans la prendre à la place des soignants.",
+              "exercise": [
+                "Demander si le neurologue a été joint ou peut l’être.",
+                "Poser ses questions sur un nouveau médicament au médecin qui le prescrit.",
+                "Ne rien arrêter, ajouter ni modifier seul, même en cas de doute."
+              ],
+              "benefit": "La personne et ses proches restent informés, et la décision reste médicale."
+            }
+          ]
+        }
+      ],
+      "ending_title": "La carte dans le portefeuille",
+      "ending": "Dans l’après-midi, le médecin des urgences vient expliquer qu’il a joint le service de la docteure Tissier et que les examens continuent. Il ne dit pas encore pourquoi Farid est tombé ; il dit qu’on le garde la nuit en observation. Anis demande s’il peut laisser une note : son père se repère moins bien dans un lieu inconnu, surtout le soir. L’infirmier l’ajoute au dossier.\n\nVendredi en fin de matinée, Farid rentre chez lui, raccompagné par Anis. Il a un compte rendu pour la neurologue, un rendez-vous de suivi avec elle et une évaluation des chutes prévue dans les semaines qui viennent. La cause de la chute n’a pas été fixée ce jour-là. Dans l’atelier, Farid rend la carte à son fils. « Garde l’original, c’est toi qui l’as sortie. » Anis la range dans son portefeuille. Il en fait deux photocopies : l’une repart dans le portefeuille de son père, l’autre est punaisée au-dessus de l’établi, à côté de l’étiquette du transistor rouge, toujours inachevée.",
+      "conclusion": "La sensibilité de la démence à corps de Lewy à certains médicaments ne se gère pas à la maison : elle se signale. Grâce à la carte préparée avec la neurologue et à sa propre parole, Farid fait connaître son diagnostic aux urgences ; les médecins décident, et la cause de la chute reste à évaluer.",
+      "mirror": [
+        "Quand l’infirmier demande les traitements, Anis a d’abord senti un vide. Un proche peut simplement dire : « Voici sa carte, avec le contact de sa neurologue, et la photo de sa liste. » Il peut ensuite demander : « Est-ce que vous pouvez la joindre avant de changer quelque chose ? » Il n’a pas à connaître les médicaments à éviter, ni à refuser un soin d’urgence. Il transmet, il pose ses questions, et il laisse décider ceux qui soignent."
+      ],
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "nice-ng97",
+        "has-fiche2-apparentees",
+        "mckeith-2017"
+      ],
+      "continuity": {
+        "choice": "Aux urgences, Anis présente la carte et la photo de la liste ; Farid demande lui-même que sa neurologue soit prévenue avant tout changement. L’équipe joint le service de la docteure Tissier. Farid rentre le vendredi avec un rendez-vous de suivi et une évaluation des chutes prévue ; la cause n’est pas fixée. Anis garde l’original de la carte, une copie va dans le portefeuille de Farid, une autre au-dessus de l’établi.",
+        "next": "Le dimanche, deux jours après le retour, Farid sera persuadé que quelqu’un est entré dans l’atelier pendant son absence et a changé les lampes de trois postes ; la lettre à Gilles n’a toujours pas été écrite."
+      },
+      "diagnostic_stage": "known"
     }
   ]
 }
