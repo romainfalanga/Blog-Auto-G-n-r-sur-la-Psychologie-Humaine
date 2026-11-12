@@ -275,7 +275,7 @@
         {
           "severity": "mineur",
           "type": "comprehension",
-          "quote": "Lucas répond qu’il lui a déjà envoyé l’horaire du match.",
+          "quote": "Lucas lui répond qu’il lui a déjà envoyé l’horaire du match.",
           "problem": "Le match de Lucas (quel sport, quand) n'est pas présent dans la scène d'ouverture, alors que c'est la clé du dénouement.",
           "fix": "Dans l'ouverture : « Lucas râle : il a un match de handball le samedi 11, il l'a écrit hier »."
         },
