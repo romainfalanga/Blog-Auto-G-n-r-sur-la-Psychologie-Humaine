@@ -954,6 +954,111 @@
         "next": "Le dimanche, deux jours après le retour, Farid sera persuadé que quelqu’un est entré dans l’atelier pendant son absence et a changé les lampes de trois postes ; la lettre à Gilles n’a toujours pas été écrite."
       },
       "diagnostic_stage": "known"
+    },
+    {
+      "number": 10,
+      "slug": "farid-conviction-sans-fondement-lettre-musee",
+      "title": "Une conviction sans fondement à côté d’une inquiétude bien réelle",
+      "description": "De retour de l’hôpital, Farid est sûr qu’on a changé les lampes de trois postes. Accueillir la conviction et traiter à part la vraie question du don.",
+      "context": "à l’atelier, après l’hospitalisation",
+      "topics": [
+        "idées délirantes",
+        "ni confirmer ni contester",
+        "la vraie question du don"
+      ],
+      "clinical_focus": "Une conviction sans fondement distincte d’une vraie inquiétude",
+      "clinical_intro": "Dans la démence à corps de Lewy, une personne peut être convaincue d’un fait qui ne repose sur rien de vérifiable, et en souffrir. Cette conviction peut cohabiter avec une inquiétude tout à fait fondée. De retour de l’hôpital, Farid accuse le président du musée d’avoir touché à ses postes, alors qu’une question réelle sur leur avenir attend toujours sa réponse.",
+      "opening": "Dimanche matin, deux jours après le retour de l’hôpital. Anis, le fils de Farid, professeur de technologie, est venu à neuf heures pour la matinée. Il trouve son père debout devant l’étagère, la bande de carton sous le poste à cadran vert, les bras croisés.\n\n« Quelqu’un est entré pendant que j’étais là-bas. Ils ont changé les lampes de trois postes. La bakélite crème, le transistor rouge, le petit bleu de 1957. » Sa voix tremble de colère. « C’est Gilles. Il voulait tout remettre en marche, il en a profité. »\n\nAnis sent la réponse évidente lui monter aux lèvres. Jeudi soir, c’est lui qui a fermé le garage à clé en venant chercher un pyjama ; la clé n’a pas quitté son trousseau. Gilles n’a jamais eu de double. Il ne dit rien de tout cela. Il se souvient de l’enfant sur l’établi, de la phrase qu’il avait failli dire au téléphone, et de l’effet qu’aurait eu « il n’y a personne ».\n\nIl sait aussi autre chose : la page de propositions de Gilles est toujours sous le poste à cadran vert, et la lettre promise sur les postes à modifier n’a jamais été écrite. Depuis la visite, près de trois semaines ont passé, une consultation, une nuit agitée, une chute. Le musée attend une réponse. Son père, peut-être, attend de savoir ce qu’on fera de ses radios quand il ne sera plus là pour les surveiller.\n\nFarid se tourne vers lui. « Tu me crois, toi ? »",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Une certitude qui ne repose sur rien de vérifiable",
+          "text": "Dans la démence due à une maladie à corps de Lewy, des idées délirantes peuvent apparaître : la personne tient pour certain un fait qui ne repose sur aucun élément vérifiable, comme une intrusion ou un vol, et cette certitude peut s’accompagner de colère ou de détresse. Contester point par point tend à renforcer la conviction ou à abîmer la confiance ; la confirmer l’installe. Ce qui peut aider, c’est d’accueillir l’émotion, de vérifier ensemble ce qui peut l’être si la personne l’accepte, et de signaler une conviction persistante ou pénible au médecin. Il faut aussi distinguer cette conviction d’une crainte fondée sur la situation. Chez Farid, l’intrusion n’a pas de fondement connu, mais l’inquiétude qui l’entoure en a un : la décision sur les modifications, laissée en suspens depuis la visite de Gilles, concerne vraiment ses postes. Traiter la seconde ne fait pas disparaître la première ; cela évite de les confondre."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment une conviction sans fondement se présente-t-elle ?",
+          "points": [
+            {
+              "heading": "Une certitude précise",
+              "text": "La conviction porte souvent sur des détails concrets, ce qui la rend crédible pour la personne.",
+              "examples": [
+                "Farid nomme les trois postes dont les lampes auraient été changées.",
+                "Il désigne un responsable précis, Gilles, et un moment, son hospitalisation."
+              ]
+            },
+            {
+              "heading": "Une émotion forte",
+              "text": "La croyance s’accompagne fréquemment de colère, de peur ou de sentiment d’injustice.",
+              "examples": [
+                "La voix de Farid tremble de colère devant l’étagère.",
+                "Il demande à son fils s’il le croit, en cherchant un allié."
+              ]
+            },
+            {
+              "heading": "Un lien avec une préoccupation réelle",
+              "text": "Le contenu peut faire écho à une question réellement ouverte dans la vie de la personne.",
+              "examples": [
+                "Gilles avait bien proposé de remettre tous les postes en marche.",
+                "La lettre de réponse sur les modifications n’a pas été écrite."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour répondre à une conviction sans la confirmer",
+          "points": [
+            {
+              "heading": "Accueillir l’émotion",
+              "objective": "Reconnaître ce que Farid ressent sans prendre parti sur les faits.",
+              "exercise": [
+                "Nommer l’émotion visible : « Je vois que ça te met en colère. »",
+                "Éviter de répondre « c’est faux » comme « tu as raison ».",
+                "Dire ce que l’on ressent soi-même si la question « tu me crois ? » est posée."
+              ],
+              "benefit": "La personne se sent prise au sérieux sans que la conviction soit renforcée."
+            },
+            {
+              "heading": "Vérifier ensemble ce qui est vérifiable",
+              "objective": "Proposer un examen concret, seulement si Farid l’accepte.",
+              "exercise": [
+                "Demander : « Tu veux qu’on regarde les postes un par un ? »",
+                "Comparer chaque poste avec ce qui est écrit sur son étiquette.",
+                "Accepter que la vérification ne convainque pas forcément."
+              ],
+              "benefit": "La démarche respecte la personne même si la certitude demeure."
+            },
+            {
+              "heading": "Séparer la conviction de la vraie question",
+              "objective": "Répondre à l’inquiétude fondée et informer la neurologue de la conviction.",
+              "exercise": [
+                "Identifier ce qui, dans la situation, est réellement en attente.",
+                "Traiter cette question à part, par une décision ou un écrit.",
+                "Noter la conviction et sa durée pour la neurologue, avec l’accord de la personne."
+              ],
+              "benefit": "La décision avance, et la conviction reste un sujet pour l’équipe de soins."
+            }
+          ]
+        }
+      ],
+      "ending_title": "La lettre à Gilles",
+      "ending": "Anis répond : « Je vois que ça te met très en colère. Moi, je n’ai rien remarqué, mais je n’étais pas tout le temps là. Tu veux qu’on regarde les postes un par un ? » Farid accepte. Ils sortent les étiquettes de la boîte à chaussures et comparent chaque poste à ce qu’elles décrivent, en regardant les lampes à travers les grilles arrière. Tout correspond. Farid ne dit pas qu’il s’est trompé. « Ils ont bien fait les choses, alors », marmonne-t-il, méfiant.\n\nPuis il s’assoit. « Ce que je ne veux pas, c’est qu’on touche à mes postes sans moi. » Anis montre la page de Gilles. « Ça, on peut le régler aujourd’hui. » Ils écrivent la lettre ensemble : neuf postes exposés en l’état ; trois remis en marche par Maryse, la technicienne bénévole du musée, selon les notes de Farid, la bakélite crème, le transistor rouge et le petit bleu de 1957. Farid signe. Dans le cahier, avec son accord, Anis écrit : « dimanche, 9 h à 11 h, papa très contrarié, sûr que des lampes ont été changées ». Troisième colonne : « oui, à la docteure ». La lettre part lundi. Farid ne pardonne pas tout à fait à Gilles.",
+      "conclusion": "Une conviction sans fondement peut s’accompagner d’une inquiétude bien réelle. Anis accueille la colère de son père sans confirmer ni contester, vérifie avec lui ce qui peut l’être, puis l’aide à trancher la vraie question : la lettre fixe enfin le sort des douze postes, même si la méfiance persiste.",
+      "mirror": [
+        "« Tu me crois, toi ? » est une question difficile. Un proche peut répondre avec honnêteté sans se battre : « Je n’ai rien vu de tel, mais je vois que tu es en colère, et je reste avec toi. » Il peut proposer une vérification, sans exiger qu’elle convainque. Il peut aussi chercher ce qui, derrière la conviction, attend vraiment une décision. Si la conviction revient, dure ou fait souffrir, il le signale à la neurologue avec l’accord de la personne, sans traiter lui-même."
+      ],
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "mckeith-2017",
+        "nice-ng97"
+      ],
+      "continuity": {
+        "choice": "Avec l’accord de Farid, ils comparent les postes aux étiquettes ; Farid reste méfiant. Ils écrivent et signent la lettre à Gilles : neuf postes en l’état, trois remis en marche par Maryse selon les notes de Farid (bakélite crème, transistor rouge, petit bleu de 1957). La lettre part lundi. Anis note la conviction dans le cahier, avec accord, pour la neurologue.",
+        "next": "Le jeudi suivant, Hugo Lambert et Mme Diallo viendront reprendre le plan d’aide pour que les visites tiennent compte des jours où l’attention varie ; Anis voudra savoir ce qui reste à sa charge."
+      },
+      "diagnostic_stage": "known"
     }
   ]
 }

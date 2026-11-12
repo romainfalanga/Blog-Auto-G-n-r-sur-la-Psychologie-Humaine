@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "revision": 926,
+  "revision": 930,
   "created_at": "2026-11-07T14:47:42Z",
   "cases": {
     "mathis": {
@@ -5650,9 +5650,9 @@
     "amaury": {
       "character_id": "amaury",
       "code": "6D85.0",
-      "stage": "character",
+      "stage": "story",
       "created_at": "2026-11-07T14:47:42Z",
-      "active_job": "6ced274bb8184f578c8ce0c4015feedb",
+      "active_job": null,
       "owners": {
         "character": [
           "personnage_amaury"
@@ -5661,7 +5661,21 @@
         "review": []
       },
       "revision_rounds": 0,
-      "accepted": {},
+      "accepted": {
+        "character": {
+          "job_id": "6ced274bb8184f578c8ce0c4015feedb",
+          "owner": "personnage_amaury",
+          "validated_at": "2026-11-12T10:41:23Z",
+          "validation": {
+            "character_id": "amaury",
+            "files": {
+              "editorial/clinical/designs/amaury.json": "c174799d40aa902537bd0218bc014a922e0951c81ac3162f9a554455bb63e9cb",
+              "editorial/clinical/dossiers/amaury.json": "c7894d40790a6020b8e0abf4e10623161e6bdb76a255328ed8507d30f813803e"
+            },
+            "episodes": 12
+          }
+        }
+      },
       "observed_at_init": {
         "manuscript_sha256": null,
         "episodes_present": 0,
@@ -111436,8 +111450,8 @@
       "snapshot_sha256": "e9a822d41eb38f38186da73bb702a0116a2c855713e88cb27216a92933b44d6a",
       "status": "active",
       "token_sha256": "80232141c4159c2f4e8ab667d5303cef4ef96b884170b64ce89ed467dbe61143",
-      "heartbeat_at": "2026-11-12T10:40:36Z",
-      "expires_at": "2026-11-12T11:40:36Z",
+      "heartbeat_at": "2026-11-12T10:41:29Z",
+      "expires_at": "2026-11-12T11:41:29Z",
       "checkpoints": [
         {
           "at": "2026-11-12T10:34:28Z",
@@ -111559,6 +111573,20 @@
           "observed": {
             "manuscript_sha256": "89417ffcabe7249a5ae02f7bb9c29d7dff40e0fb57be947e3b5caddbd48f14bf",
             "episodes_present": 9,
+            "manuscript_readable": true,
+            "design_sha256": "8d88a591a9e08e92e7ebf5cf3b61323f27828aae3dcd12927bc8983b768e3765",
+            "dossier_sha256": "9f8406d860519a4c1f9048de161040706352640e8ee68fa499c8d512147e5f2e",
+            "review_sha256": null
+          }
+        },
+        {
+          "at": "2026-11-12T10:41:29Z",
+          "outputs": {
+            "editorial/clinical/farid.json": "c1d15a1f5fe677c70518910f80d09d69d1c3214d25932f7aece2513dd5e4d87c"
+          },
+          "observed": {
+            "manuscript_sha256": "c1d15a1f5fe677c70518910f80d09d69d1c3214d25932f7aece2513dd5e4d87c",
+            "episodes_present": 10,
             "manuscript_readable": true,
             "design_sha256": "8d88a591a9e08e92e7ebf5cf3b61323f27828aae3dcd12927bc8983b768e3765",
             "dossier_sha256": "9f8406d860519a4c1f9048de161040706352640e8ee68fa499c8d512147e5f2e",
@@ -114339,10 +114367,19 @@
         }
       },
       "snapshot_sha256": "8920e4ddcaf64974bc13b93123e3c9530a848fdce22711e95a436dd94627aa94",
-      "status": "active",
+      "status": "finished",
       "token_sha256": "4e0f6cda6aaec4b1a8849bda9a77d62fc57a4302036dbe1cbc49f58fd0467796",
       "heartbeat_at": "2026-11-12T10:37:29Z",
-      "expires_at": "2026-11-12T11:37:29Z"
+      "expires_at": "2026-11-12T11:37:29Z",
+      "finished_at": "2026-11-12T10:41:23Z",
+      "validation": {
+        "character_id": "amaury",
+        "files": {
+          "editorial/clinical/designs/amaury.json": "c174799d40aa902537bd0218bc014a922e0951c81ac3162f9a554455bb63e9cb",
+          "editorial/clinical/dossiers/amaury.json": "c7894d40790a6020b8e0abf4e10623161e6bdb76a255328ed8507d30f813803e"
+        },
+        "episodes": 12
+      }
     },
     "379a7432e8ba4e6492605f52b76c1fe2": {
       "id": "379a7432e8ba4e6492605f52b76c1fe2",
@@ -126865,5 +126902,5 @@
       }
     }
   },
-  "updated_at": "2026-11-12T10:41:01Z"
+  "updated_at": "2026-11-12T10:41:29Z"
 }
