@@ -1,0 +1,394 @@
+{
+ "character_id": "margot",
+ "type": "origine",
+ "auditor": "audit_o5",
+ "audited_on": "2026-11-12",
+ "persona": {
+  "age_metier_proches": "52 ans (née en juillet 1973, âge cité à l’ép. 2), ancienne commerciale (vingt-cinq ans de carrière, ép. 3) en reconversion comme coach : mémoire de formation, séances d’essai, puis premières clientes. Mariée ou en couple avec Philippe (le lien n’est jamais nommé), deux enfants partis de la maison, Chloé et Martin. Sylvie (mentor, nommée comme telle seulement à l’ép. 10), Claire (ancienne collègue devenue cliente d’essai), Julie (première cliente), une responsable d’ateliers et une interlocutrice de contrat non nommées. Bureau aménagé dans l’ancienne chambre de Chloé.",
+  "arc_summary": "Margot termine son mémoire (ép. 1), ose une première séance d’essai (ép. 2), libère son bureau puis reçoit sa première cliente (ép. 3–4). Elle traverse la nostalgie du départ des enfants (ép. 5) et la négociation d’un premier contrat d’ateliers (ép. 6). Le couple occupe les ép. 7 et 8 (dîner quitté, pause pendant un désaccord), avant un premier programme payé (ép. 9), des refus (ép. 10) et une proposition de collaboration de trois mois qu’elle conditionne (ép. 11). Les scènes sont courtes, sobres et souvent très réussies, avec des gestes précis ; la cohérence factuelle entre épisodes est bonne.",
+  "arc_issues": [
+   "Sylvie apparaît dès l’ép. 2 et revient dans les techniques (ép. 4, 6, 9) sans être présentée avant l’ép. 10 (« Sa mentor »).",
+   "Le sort des ateliers de l’ép. 6 (« Elle ne sait pas si l’offre tiendra ») n’est jamais raconté ; l’ép. 11 parle ensuite des « ateliers d’avril » comme d’un fait acquis.",
+   "Les conclusions de la plupart des épisodes reprennent un ancien gabarit, généraliste et injonctif (« transformer la peur en énergie créatrice », « ressources … qui ne demandent qu’à être réactivées »), en décalage avec la prudence des scènes.",
+   "La fiche indique « Oscille entre l’impuissance apprise et la surcompensation frénétique » : étiquette quasi clinique que les épisodes ne reprennent pas et qu’ils nuancent même (ép. 10).",
+   "Le parcours compte 11 épisodes et s’arrête sur une négociation en cours ; les fils Chloé (trophée sans réponse), soirées du couple et contrat restent ouverts."
+  ]
+ },
+ "episodes": [
+  {
+   "number": 1,
+   "file": "content/posts/sortir-de-ses-schemas-repetitifs/drivers-contraignants-reconversion-professionnelle.md",
+   "focus": "drivers contraignants (Kahler) : « sois parfait », « sois fort », « fais des efforts » devant un mémoire à rendre",
+   "structure": {
+    "scene": "ok",
+    "concept": "ok",
+    "manifestations": "ok",
+    "techniques": "ok",
+    "retour": "ok",
+    "conclusion": "faible",
+    "proches": "ok"
+   },
+   "comprehension": 4,
+   "comprehension_note": "Les quatre fichiers « Mémoire », la transition réécrite et la demande d’avis effacée dans le métro montrent bien l’exigence ; la fin (relecture de deux pages, envoi vendredi, sortie chercher du pain) est nette. Le lecteur doit deviner la nature du mémoire et le lien avec Philippe.",
+   "issues": [
+    {
+     "severity": "mineur",
+     "type": "comprehension",
+     "quote": "À gauche de l’écran, il y en a déjà quatre qui s’appellent « Mémoire »",
+     "problem": "On ne sait pas qu’il s’agit du mémoire de fin de formation de coach, alors que c’est le lien avec la reconversion annoncée.",
+     "fix": "Écrire « son mémoire de fin de formation de coach » à la première mention."
+    },
+    {
+     "severity": "mineur",
+     "type": "comprehension",
+     "quote": "Philippe appelle de l’étage pour savoir si elle monte.",
+     "problem": "Le lien avec Philippe n’est pas nommé.",
+     "fix": "Écrire « Philippe, son mari, appelle… » (ou « son compagnon »)."
+    },
+    {
+     "severity": "mineur",
+     "type": "trame",
+     "quote": "C'est comprendre que derrière l'exigence se cache souvent la peur",
+     "problem": "Conclusion générale et interprétative, non fondée sur la scène et contraire à la prudence de la définition (« ni des diagnostics »).",
+     "fix": "Remplacer par un retour à la décision de Margot (mémoire envoyé avec une transition imparfaite) et à ce que cela change pour la suite."
+    }
+   ]
+  },
+  {
+   "number": 2,
+   "file": "content/posts/sortir-de-ses-schemas-repetitifs/negativite-pessimisme-reconversion.md",
+   "focus": "schéma négativité/pessimisme : rejet anticipé avant de proposer une séance d’essai à une ancienne collègue",
+   "structure": {
+    "scene": "ok",
+    "concept": "ok",
+    "manifestations": "ok",
+    "techniques": "ok",
+    "retour": "ok",
+    "conclusion": "faible",
+    "proches": "ok"
+   },
+   "comprehension": 3,
+   "comprehension_note": "La scène du parking et le message qui commence par « J’aurais besoin d’un service » sont justes ; le retour (deux remarques de Claire notées côte à côte) est très bien. Mais Sylvie ouvre l’épisode sans présentation et « l’école » désigne deux lieux.",
+   "issues": [
+    {
+     "severity": "majeur",
+     "type": "comprehension",
+     "quote": "« Vous m’avez préparé un tarif et une séance de cinquante minutes », dit Sylvie",
+     "problem": "Le premier personnage nommé n’est pas présenté ; le lecteur ne sait pas s’il s’agit d’une formatrice, d’une cliente ou d’une amie (elle ne sera « sa mentor » qu’à l’ép. 10).",
+     "fix": "Écrire « dit Sylvie, sa formatrice et mentor à l’école de coaching »."
+    },
+    {
+     "severity": "mineur",
+     "type": "comprehension",
+     "quote": "Claire peut venir jeudi, à condition de finir avant la sortie de l’école.",
+     "problem": "« L’école » a désigné plus haut l’école de coaching (« le parking de l’école ») ; ici il s’agit sans doute des enfants de Claire.",
+     "fix": "Écrire « avant la sortie de l’école de ses enfants »."
+    },
+    {
+     "severity": "mineur",
+     "type": "continuite",
+     "quote": "Dans le carnet, sous « trop tard pour commencer »",
+     "problem": "Cette phrase n’a jamais été écrite dans le carnet pendant la scène.",
+     "fix": "Faire écrire à Margot « trop tard pour commencer » sur le parking, dans l’ouverture."
+    },
+    {
+     "severity": "mineur",
+     "type": "trame",
+     "quote": "n'est pas une fatalité, mais le reflet de son parcours",
+     "problem": "Conclusion générique et explicative, qui attribue une cause non montrée.",
+     "fix": "Résumer ce que la séance avec Claire a appris et ce qu’elle change pour les prochains rendez-vous."
+    }
+   ]
+  },
+  {
+   "number": 3,
+   "file": "content/posts/reprendre-le-controle-de-ses-pensees/biais-cout-irrecuperable-decision-importante.md",
+   "focus": "biais du coût irrécupérable (archives commerciales gardées à cause des soirées investies)",
+   "structure": {
+    "scene": "ok",
+    "concept": "ok",
+    "manifestations": "ok",
+    "techniques": "ok",
+    "retour": "ok",
+    "conclusion": "faible",
+    "proches": "ok"
+   },
+   "comprehension": 3,
+   "comprehension_note": "Le carton gondolé, la courbe annotée de 2018 et la chemise finale rendent le biais très concret ; la fin (deux cartons, trophée gardé, chaise décalée) est claire. Mais les deux prénoms de la première phrase utile (Chloé, Julie) ne sont pas présentés.",
+   "issues": [
+    {
+     "severity": "majeur",
+     "type": "comprehension",
+     "quote": "Elle devait dégager l’ancienne chambre de Chloé avant son rendez-vous avec Julie.",
+     "problem": "Le lecteur ignore que Chloé est sa fille partie de la maison et que Julie est sa première cliente ; l’enjeu (recevoir une cliente) n’est compris qu’à la fin.",
+     "fix": "Écrire « l’ancienne chambre de sa fille Chloé, devenue son bureau, avant de recevoir Julie, sa première cliente »."
+    },
+    {
+     "severity": "mineur",
+     "type": "trame",
+     "quote": "Un accompagnement thérapeutique peut vous aider à dénouer ces attaches invisibles",
+     "problem": "Conclusion de gabarit, sans lien avec la décision limitée de Margot.",
+     "fix": "Conclure sur le tri partiel et le trophée gardé pour l’instant."
+    }
+   ]
+  },
+  {
+   "number": 4,
+   "file": "content/posts/sortir-de-ses-schemas-repetitifs/croyances-limitantes-reconversion-professionnelle-methode.md",
+   "focus": "croyances limitantes (illégitimité) avant la première cliente",
+   "structure": {
+    "scene": "ok",
+    "concept": "ok",
+    "manifestations": "ok",
+    "techniques": "ok",
+    "retour": "ok",
+    "conclusion": "faible",
+    "proches": "ok"
+   },
+   "comprehension": 4,
+   "comprehension_note": "La chaise de travers, la question lue « comme une clause de contrat » et le souvenir du silence de Claire sont précis ; la fin (« Racontez-moi hier ») est une décision nette et réussie.",
+   "issues": [
+    {
+     "severity": "mineur",
+     "type": "comprehension",
+     "quote": "le point à préparer ou à demander à Sylvie",
+     "problem": "Sylvie n’est pas présentée dans l’épisode.",
+     "fix": "Écrire « à Sylvie, sa mentor »."
+    },
+    {
+     "severity": "mineur",
+     "type": "trame",
+     "quote": "transformer la peur en une énergie créatrice au service de votre projet",
+     "problem": "Formule de développement personnel qui contredit la nuance de l’épisode (une inquiétude n’est « ni vraie ni fausse »).",
+     "fix": "Remplacer par ce que la séance avec Julie permet de comprendre."
+    }
+   ]
+  },
+  {
+   "number": 5,
+   "file": "content/posts/comprendre-et-maitriser-ses-emotions/nostalgie-avec-ses-enfants-syndrome-nid-vide.md",
+   "focus": "nostalgie liée au départ des enfants (trophée de danse de Chloé)",
+   "structure": {
+    "scene": "ok",
+    "concept": "ok",
+    "manifestations": "ok",
+    "techniques": "ok",
+    "retour": "ok",
+    "conclusion": "faible",
+    "proches": "ok"
+   },
+   "comprehension": 4,
+   "comprehension_note": "Le bras cassé de la danseuse, le souvenir du trajet et le message effacé sont de belles scènes ; la fin (photo envoyée, pas de réponse, téléphone dans la poche) est claire. Martin n’est pas présenté et la conclusion est rapiécée.",
+   "issues": [
+    {
+     "severity": "mineur",
+     "type": "comprehension",
+     "quote": "Martin demandait quand ils allaient s’arrêter manger.",
+     "problem": "Rien n’indique que Martin est son fils.",
+     "fix": "Écrire « Martin, son fils, alors âgé de … »."
+    },
+    {
+     "severity": "mineur",
+     "type": "trame",
+     "quote": "Comme Margot, regardez en arrière pour trouver l'élan nécessaire",
+     "problem": "Injonction générale qui contredit l’épisode (Margot ne cherche pas d’élan, elle propose une transmission) ; la conclusion juxtapose en outre un paragraphe ajouté sur le trophée.",
+     "fix": "Réécrire la conclusion en un seul mouvement à partir de la décision de la scène."
+    }
+   ]
+  },
+  {
+   "number": 6,
+   "file": "content/posts/reprendre-le-controle-de-ses-pensees/biais-retrospectif-decision-importante.md",
+   "focus": "biais rétrospectif (« je devais m’en douter ») face à une condition nouvelle d’un contrat d’ateliers",
+   "structure": {
+    "scene": "ok",
+    "concept": "ok",
+    "manifestations": "ok",
+    "techniques": "ok",
+    "retour": "ok",
+    "conclusion": "ok",
+    "proches": "faible"
+   },
+   "comprehension": 3,
+   "comprehension_note": "Le biais est très bien illustré par la page du premier appel et le trait tiré devant « devais ». Mais le lecteur ne sait pas quel est ce programme d’ateliers, pour qui, ni pourquoi il compte autant.",
+   "issues": [
+    {
+     "severity": "majeur",
+     "type": "comprehension",
+     "quote": "La responsable du programme d’ateliers fait pivoter le cahier des charges",
+     "problem": "Aucun contexte : quelle structure, quels ateliers, pour quel public, premier contrat important ou non. L’enjeu de la décision reste abstrait.",
+     "fix": "Ajouter une phrase : « Une association d’aide au retour à l’emploi lui propose d’animer huit ateliers de groupe ce printemps ; ce serait son premier contrat »."
+    },
+    {
+     "severity": "mineur",
+     "type": "comprehension",
+     "quote": "Margot veut examiner ses questions avec Sylvie",
+     "problem": "Sylvie n’est pas présentée.",
+     "fix": "Écrire « avec Sylvie, sa mentor »."
+    },
+    {
+     "severity": "mineur",
+     "type": "proches",
+     "quote": "Un proche à qui Margot montre son carnet",
+     "problem": "La rubrique ne s’ancre sur aucun proche de la scène ; « un proche » reste anonyme.",
+     "fix": "Ancrer la rubrique sur Philippe, à qui elle pourrait montrer le carnet le soir."
+    }
+   ]
+  },
+  {
+   "number": 7,
+   "file": "content/posts/comprendre-et-maitriser-ses-emotions/degout-en-couple-comprendre-agir.md",
+   "focus": "dégoût / répulsion sensorielle pendant un dîner de couple",
+   "structure": {
+    "scene": "ok",
+    "concept": "ok",
+    "manifestations": "ok",
+    "techniques": "ok",
+    "retour": "ok",
+    "conclusion": "faible",
+    "proches": "ok"
+   },
+   "comprehension": 4,
+   "comprehension_note": "La scène du dîner (couteau sur la faïence, verre rattrapé, départ de table) est très claire et la reprise du lendemain (« J’ai cru que tu ne voulais plus manger avec moi ») est juste. La conclusion dramatise.",
+   "issues": [
+    {
+     "severity": "mineur",
+     "type": "trame",
+     "quote": "déterminer si la relation peut être restaurée ou s'il est temps d'envisager une nouvelle direction",
+     "problem": "Disproportionné pour un dîner quitté et une conversation reportée ; laisse entendre une rupture que rien n’annonce.",
+     "fix": "Conclure sur la reprise convenue avant le dîner et sur la distinction sensation / jugement."
+    }
+   ]
+  },
+  {
+   "number": 8,
+   "file": "content/posts/comprendre-et-maitriser-ses-emotions/respiration-en-boite-box-breathing-en-couple.md",
+   "focus": "pause pendant un désaccord de couple (respiration en boîte) avant de répondre",
+   "structure": {
+    "scene": "ok",
+    "concept": "ok",
+    "manifestations": "ok",
+    "techniques": "ok",
+    "retour": "ok",
+    "conclusion": "faible",
+    "proches": "ok"
+   },
+   "comprehension": 4,
+   "comprehension_note": "Suite claire de l’ép. 7 : les clés sur la table, le calendrier ouvert trop vite et la pause à l’évier sont lisibles ; la fin (une soirée, jeudi impossible, calendrier partagé) est concrète. L’épisode illustre une technique plutôt qu’une émotion.",
+   "issues": [
+    {
+     "severity": "mineur",
+     "type": "lien_concept",
+     "quote": "La respiration en boîte, ou respiration carrée, alterne quatre phases de durée égale",
+     "problem": "Classé « Émotion », l’épisode traite une technique ; l’émotion en jeu (agacement, colère) n’est jamais nommée ni expliquée.",
+     "fix": "Nommer l’émotion de la scène (colère) dans la section explicative et présenter la respiration comme un moyen parmi d’autres."
+    },
+    {
+     "severity": "mineur",
+     "type": "trame",
+     "quote": "Chaque respiration est une opportunité de recommencer",
+     "problem": "Formule de gabarit.",
+     "fix": "Conclure sur l’accord trouvé (une soirée choisie ensemble)."
+    }
+   ]
+  },
+  {
+   "number": 9,
+   "file": "content/posts/comprendre-et-maitriser-ses-emotions/espoir-après-un-succès-reconversion-hpi.md",
+   "focus": "espoir après un premier succès (premier programme complet payé)",
+   "structure": {
+    "scene": "ok",
+    "concept": "ok",
+    "manifestations": "ok",
+    "techniques": "ok",
+    "retour": "ok",
+    "conclusion": "faible",
+    "proches": "ok"
+   },
+   "comprehension": 4,
+   "comprehension_note": "Le virement relu, les rendez-vous imaginaires dans le calendrier et la séance effacée sur le créneau « marche » montrent bien l’élan et sa limite ; la fin est claire. On ne sait pas qui a payé.",
+   "issues": [
+    {
+     "severity": "mineur",
+     "type": "comprehension",
+     "quote": "C’est le premier règlement d’un programme complet après les rendez-vous isolés du début.",
+     "problem": "La cliente n’est pas identifiée (Julie ? une autre personne ?).",
+     "fix": "Préciser « Julie a réglé le programme de six séances » ou nommer la nouvelle cliente."
+    },
+    {
+     "severity": "mineur",
+     "type": "trame",
+     "quote": "Si vous traversez une période de grand changement, rappelez-vous que chaque petite victoire est un point d'ancrage",
+     "problem": "Paragraphe de gabarit ; le slug (« hpi ») et le titre (« à 50 ans ») renvoient à des thèmes absents de l’épisode.",
+     "fix": "Supprimer le paragraphe et aligner le slug sur le contenu."
+    }
+   ]
+  },
+  {
+   "number": 10,
+   "file": "content/posts/comprendre-et-maitriser-ses-emotions/resignation-apres-un-echec-psychologie-solutions.md",
+   "focus": "résignation après des refus (« à quoi bon »), chercher où l’on peut encore agir",
+   "structure": {
+    "scene": "ok",
+    "concept": "ok",
+    "manifestations": "ok",
+    "techniques": "ok",
+    "retour": "ok",
+    "conclusion": "faible",
+    "proches": "ok"
+   },
+   "comprehension": 4,
+   "comprehension_note": "Le carnet neuf reposé en rayon, le courriel de refus relu jusqu’à la signature et le message à Philippe sont précis et sobres ; la fin est claire. La description ne correspond pas aux faits.",
+   "issues": [
+    {
+     "severity": "mineur",
+     "type": "continuite",
+     "quote": "un contact a décliné et les autres n’ont rien envoyé",
+     "problem": "La description annonce « Après trois refus », alors que le texte raconte un refus et deux silences, distinction centrale de l’épisode.",
+     "fix": "Corriger la description : « Après un refus et deux silences »."
+    },
+    {
+     "severity": "mineur",
+     "type": "trame",
+     "quote": "Vous avez en vous des ressources accumulées pendant des décennies",
+     "problem": "Formule de gabarit qui contredit la prudence de la scène (ne pas promettre que l’effort suffit).",
+     "fix": "Conclure sur la note limitée et la marche avec Philippe."
+    }
+   ]
+  },
+  {
+   "number": 11,
+   "file": "content/posts/reprendre-le-controle-de-ses-pensees/biais-croyance-decision-importante.md",
+   "focus": "biais de croyance (conclusion plausible tenue pour démontrée) devant une clause d’échéances",
+   "structure": {
+    "scene": "ok",
+    "concept": "ok",
+    "manifestations": "ok",
+    "techniques": "ok",
+    "retour": "ok",
+    "conclusion": "ok",
+    "proches": "faible"
+   },
+   "comprehension": 4,
+   "comprehension_note": "Le syllogisme explicite et la marge « retour au même poste » rendent le biais clair ; la réponse conditionnelle finale est nette. Le raccord avec les ateliers de l’ép. 6 manque et la rubrique « proches » s’adresse à une interlocutrice professionnelle.",
+   "issues": [
+    {
+     "severity": "majeur",
+     "type": "continuite",
+     "quote": "La proposition porte sur une collaboration plus longue que les ateliers d’avril.",
+     "problem": "L’ép. 6 s’arrêtait sur « Elle ne sait pas si l’offre tiendra » ; aucun épisode ne dit que les ateliers ont eu lieu, ni si la nouvelle proposition vient de la même structure.",
+     "fix": "Ajouter une phrase : « Les ateliers d’avril ont finalement eu lieu, avec deux séances au format commun ; la même association lui propose maintenant… »."
+    },
+    {
+     "severity": "mineur",
+     "type": "proches",
+     "quote": "L’interlocutrice de Margot a déjà écouté son exemple de séance.",
+     "problem": "La rubrique « Du côté des proches » s’adresse à la cocontractante, pas à un proche.",
+     "fix": "Ancrer la rubrique sur Philippe (par ex. relire avec elle les points à éclaircir sans donner son avis sur l’accord)."
+    }
+   ]
+  }
+ ],
+ "missing_or_extra": "Parcours de 11 épisodes : il en manque un. Déjà traités : drivers, négativité/pessimisme, croyances limitantes (schémas) ; coût irrécupérable, biais rétrospectif, biais de croyance (biais) ; nostalgie, dégoût, respiration en boîte, espoir, résignation (émotions et technique). Proposition pour un 12e épisode final : le schéma « sacrifice de soi » (Young), distinct des drivers (exigence) et des croyances (légitimité). Scène possible : au premier mois de l’essai de trois mois, une cliente demande de déplacer une séance sur le lundi réservé à la marche avec Philippe, ou sur la visite de Chloé. Margot garde ce créneau et propose une autre date. L’épisode refermerait les trois fils ouverts : contrat (résultat de la négociation), soirées du couple (ép. 7–8) et trophée de Chloé (ép. 5). Si l’on préfère une émotion, « fierté » conviendrait aussi, mais la série en compte déjà cinq.",
+ "verdict": "corrections_majeures"
+}

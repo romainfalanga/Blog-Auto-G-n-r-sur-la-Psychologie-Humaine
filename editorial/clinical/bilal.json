@@ -112,6 +112,109 @@
         "next": "Mercredi, le chêne arrive : Bilal montre à Jonas comment lire le fil du bois, mais la longueur votée doit être vérifiée sur l’ardoise."
       },
       "diagnostic_stage": "known"
+    },
+    {
+      "number": 2,
+      "slug": "bilal-souvenirs-anciens-faits-recents-fil-du-bois",
+      "title": "Souvenirs anciens disponibles et faits récents fragiles devant le fil du bois",
+      "description": "Bilal enseigne sans hésiter la lecture du fil du chêne, puis bute sur la longueur votée la semaine passée : il va la vérifier sur l’ardoise.",
+      "context": "à l’atelier le jour de la livraison",
+      "topics": [
+        "Trouble amnésique",
+        "mémoire ancienne et récente",
+        "transmission du métier"
+      ],
+      "clinical_focus": "Souvenirs anciens disponibles, faits récents fragiles",
+      "clinical_intro": "Dans le trouble amnésique, la mémoire des faits récents est en général plus touchée que celle des connaissances acquises depuis longtemps, et les autres capacités restent disponibles. Bilal, dont le diagnostic est déjà établi, transmet avec précision un savoir appris il y a trente ans. La même matinée, une décision prise la semaine précédente lui demande un support extérieur.",
+      "opening": "Mercredi, huit heures dix. Le camion du scieur a tenu parole. Les plateaux de chêne reposent sur les tréteaux, encore couverts de sciure humide, et l’atelier sent le tanin. Jonas, l’apprenti menuisier qui fait partie des six habitants du banc, passe la main sur le premier plateau comme sur le dos d’un animal.\n\nBilal s’accroupit à côté de lui. « Regarde la tranche. Tu vois ces petits rayons brillants, les maillures ? Là, le bois a été débité près du cœur. Il bougera moins. » Il prend un crayon de charpentier, trace une flèche le long des cernes. « Mon maître d’apprentissage, à Amboise, me tapait sur les doigts si je rabotais à contre-fil. Il disait : le bois se souvient des coups. Moi aussi, je m’en souviens. »\n\nJonas rit. Bilal continue sans chercher ses mots : comment repérer une gerce avant qu’elle s’ouvre, pourquoi l’aubier part à la chute, où passer la lame pour que le dossier ne se tuile pas sous la pluie du jardin. Il parle lentement, avec les mains. Chaque geste lui revient entier, avec le bruit de la varlope et l’odeur de l’atelier d’Amboise en 1994.\n\nPuis Jonas demande : « Et les lattes du dossier, on avait voté quelle longueur, jeudi dernier ? Je veux tracer la première. »\n\nBilal ouvre la bouche. Rien. Il se souvient de la salle de la maison de quartier en général, des chaises en plastique orange, pas d’un vote. Quarante ? Cinquante ? Il ne veut pas lancer un chiffre au hasard sur un chêne qui coûte le budget de l’année. Il se redresse, cherche des yeux, et tombe sur l’ardoise noire vissée à côté de son établi. Il reconnaît sa propre écriture à la craie, sans se rappeler l’avoir tracée.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Deux mémoires qui ne répondent pas de la même façon",
+          "text": "Dans le trouble amnésique, la mémoire récente est typiquement plus atteinte que la mémoire ancienne, et l’incapacité à rappeler des informations apprises auparavant peut exister ou non selon les personnes. Les autres fonctions, comme le raisonnement ou le langage, ne sont pas altérées de façon significative : c’est ce qui distingue ce profil d’une démence, où plusieurs domaines sont touchés. Ce matin, Bilal explique avec précision un savoir acquis il y a trente ans, alors qu’un vote de la semaine passée ne lui revient pas. La conservation de ses gestes de sculpteur appartient à son histoire ; elle ne constitue pas une règle valable pour toute personne ayant ce trouble."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment le contraste entre ancien et récent apparaît-il à l’atelier ?",
+          "points": [
+            {
+              "heading": "Un savoir ancien qui se déploie entier",
+              "text": "Les connaissances apprises bien avant la difficulté peuvent rester disponibles et organisées.",
+              "examples": [
+                "Bilal explique les maillures et le contre-fil comme son maître d’Amboise le lui a montré.",
+                "Il repère sans hésiter l’aubier à écarter et l’orientation du dossier face à la pluie."
+              ]
+            },
+            {
+              "heading": "Une décision récente sans prise",
+              "text": "Une information de la semaine passée peut manquer alors que le cadre général de la situation reste connu.",
+              "examples": [
+                "Il revoit les chaises orange de la maison de quartier, pas le vote sur la longueur.",
+                "Il ne reconnaît pas le moment où il a écrit sur l’ardoise, même s’il reconnaît son écriture."
+              ]
+            },
+            {
+              "heading": "Un jugement préservé face au doute",
+              "text": "La personne peut évaluer elle-même le risque de se tromper et choisir de vérifier.",
+              "examples": [
+                "Il refuse de lancer un chiffre au hasard sur un plateau coûteux.",
+                "Il cherche une source fiable plutôt que de demander à Jonas de deviner avec lui."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour s’appuyer sur ce qui reste disponible",
+          "points": [
+            {
+              "heading": "Séparer savoir du métier et décision récente",
+              "objective": "Savoir quand on peut se fier à soi et quand il faut un support.",
+              "exercise": [
+                "Avant une tâche, dire à voix haute ce qui relève du savoir-faire ancien.",
+                "Repérer les données qui ont été décidées récemment avec d’autres.",
+                "Réserver la vérification écrite à ces données récentes."
+              ],
+              "benefit": "La confiance dans les gestes peut être gardée, sans exposer le travail commun à une erreur de cote."
+            },
+            {
+              "heading": "Vérifier avant d’engager la matière",
+              "objective": "Placer le contrôle au moment où une erreur coûterait cher.",
+              "exercise": [
+                "Identifier le geste irréversible, ici le premier trait de scie.",
+                "Consulter le support des décisions juste avant ce geste.",
+                "Reporter la donnée directement sur la pièce."
+              ],
+              "benefit": "La donnée voyage avec le bois, ce qui peut éviter de dépendre d’un souvenir entre deux étapes."
+            },
+            {
+              "heading": "Faire de la transmission une place reconnue",
+              "objective": "Valoriser ce que la personne apporte encore pleinement.",
+              "exercise": [
+                "Confier à Bilal l’explication des choix de débit aux participants.",
+                "Laisser l’apprenti noter les cotes pendant que le sculpteur montre les gestes.",
+                "Revoir cette répartition avec lui si elle ne lui convient plus."
+              ],
+              "benefit": "Le projet peut s’appuyer sur ses forces réelles sans réduire Bilal à ses oublis."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Quarante-cinq centimètres sur le plateau",
+      "ending": "Bilal lit à voix haute : « Lattes du dossier : 45 cm. » Il ne se souvient pas du vote, mais il fait confiance à la craie. « On vérifie toujours ici avant de scier, dit-il à Jonas. Moi, pour les cotes nouvelles, je ne me fie plus à ma tête. » Puis il reprend le crayon et trace les coupes à main levée, sans règle, selon le fil qu’il vient de montrer. Jonas, sans qu’on le lui demande, recopie « 45 » au crayon sur la tranche du premier plateau, en gros chiffres. À midi, six lattes sont débitées à la scie à ruban, toutes à la bonne longueur. Bilal sait que l’ardoise a tenu ce matin ; il sait aussi qu’un chiffre recopié sur un plateau ne protégera pas chaque cote de la semaine.",
+      "conclusion": "Le contraste entre une mémoire du métier intacte et une décision récente absente montre le profil propre au trouble amnésique. Bilal transforme ce contraste en méthode : il garde ses gestes et confie les cotes nouvelles à l’ardoise, avant chaque coupe.",
+      "mirror": [
+        "Jonas a eu deux gestes justes : écouter le savoir de Bilal comme un apprentissage, puis recopier la cote sur le plateau sans commenter l’hésitation. Un proche qui pose une question sur une décision récente peut ajouter : « Si tu veux, on regarde ensemble sur l’ardoise. » Il évite ainsi de transformer la question en épreuve. Il n’a pas à vérifier ce que Bilal sait encore du métier, ni à décider pour lui quand il doit consulter un support."
+      ],
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-hrb"
+      ],
+      "continuity": {
+        "choice": "Bilal pose une règle d’atelier : toute cote décidée récemment se vérifie sur l’ardoise avant le premier trait de scie, et Jonas reporte la longueur de 45 cm sur les plateaux.",
+        "next": "Pendant le débit, Odile appelle pour donner les mesures de l’allée : Bilal les répète juste au téléphone, puis les perd après un passage chez le fournisseur de vis."
+      },
+      "diagnostic_stage": "known"
     }
   ]
 }

@@ -113,6 +113,112 @@
       },
       "clinical_focus": "Un changement soudain par rapport à l’Hector habituel",
       "diagnostic_stage": "under_assessment"
+    },
+    {
+      "number": 2,
+      "slug": "hector-nommer-delirium-causes-medicales",
+      "title": "Nommer le delirium et laisser l’équipe chercher ses causes",
+      "description": "Hector ne garde qu’un « soir de travers ». La médecin nomme un delirium et dit ce que l’équipe recherche ; il écrit le mot lui-même.",
+      "context": "le troisième matin à l’hôpital",
+      "topics": [
+        "Delirium",
+        "causes médicales",
+        "accord pour informer un proche"
+      ],
+      "clinical_intro": "Le delirium désigne une confusion d’apparition rapide, qui touche l’attention, l’orientation et la conscience de ce qui entoure la personne. Il signale presque toujours une cause médicale, parfois liée à une substance ou à un médicament, souvent à plusieurs facteurs à la fois. Le troisième matin, Hector entend ce mot pour la première fois et décide ce que son neveu pourra savoir.",
+      "opening": "Le troisième matin, Hector Ménard, 77 ans, charpentier retraité hospitalisé à Saumur pour une infection pulmonaire, a mal dormi. Le plateau du petit déjeuner est intact sur la tablette. De la veille, il garde une seule chose : un soir de travers, comme une pièce de bois qui aurait tourné au séchage. Il ne sait plus ce qu’il a dit. Il sait seulement que Julien, son neveu, est resté tard, puisqu’il a trouvé son écharpe sur la chaise.\n\nJulien revient à huit heures et demie, avant de rejoindre son collège. Il a demandé à son oncle, au téléphone, s’il pouvait assister au passage du médecin ; Hector a répondu oui, à condition qu’on ne lui raconte pas ses bêtises en riant. La docteure Roussel, médecin du service de médecine, entre avec un dossier sous le bras. Elle ne reste pas debout au pied du lit : elle tire la chaise et s’assoit à la hauteur d’Hector.\n\nHector parle le premier. « Je veux que vous m’expliquiez ce qui s’est passé hier soir. Sans détour. Mais sans rire. » La docteure acquiesce. Elle raconte ce que l’équipe a vu : vers vingt heures, il ne suivait plus la conversation, il se croyait sur un chantier, il ne savait plus bien où il était. Elle dit que ce changement est survenu en quelques heures, alors qu’il allait bien à midi. Hector écoute, les mains à plat sur le drap, sans rien reconnaître. « Ça ne tient pas d’équerre », dit-il seulement. Puis il demande comment s’appelle ce qu’il a eu.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Un nom pour une confusion qui a une cause",
+          "text": "Le delirium est une perturbation de l’attention, de l’orientation et de la conscience de l’environnement, qui apparaît rapidement et peut varier d’un moment à l’autre. Ce n’est ni un trait de caractère ni une maladie mentale qui commencerait : il traduit le plus souvent une affection médicale, parfois l’effet d’une substance ou d’un médicament, et souvent plusieurs facteurs en même temps. C’est pourquoi il est traité comme une urgence médicale, et la recherche des causes revient à l’équipe soignante, à partir de l’histoire, de l’examen et des analyses. Ce matin-là, la docteure Roussel ne se contente pas de nommer le delirium. Elle dit ce qui a déjà été retenu : l’infection pulmonaire, une déshydratation, et des traitements qu’elle revoit avec l’équipe. Hector n’a rien à chercher lui-même ; il peut demander des mots simples et décider qui en sera informé."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment le delirium et ses causes se présentent-ils au moment de l’annonce ?",
+          "points": [
+            {
+              "heading": "Une soirée dont il ne reste qu’un fragment",
+              "text": "La personne peut garder peu de souvenirs des heures de confusion, et découvrir ce qui s’est passé par les autres.",
+              "examples": [
+                "Hector ne se souvient que d’un « soir de travers » et ne reconnaît pas le chantier qu’on lui décrit.",
+                "Il déduit que Julien est resté tard en voyant son écharpe sur la chaise."
+              ]
+            },
+            {
+              "heading": "Plusieurs causes possibles à la fois",
+              "text": "L’équipe peut retenir plusieurs facteurs qui se combinent, et continuer à en chercher d’autres.",
+              "examples": [
+                "La docteure Roussel cite l’infection pulmonaire et une déshydratation pour Hector.",
+                "Elle annonce qu’elle revoit aussi ses traitements avec l’équipe, sans demander à Julien de le faire."
+              ]
+            },
+            {
+              "heading": "Un mot qui peut inquiéter",
+              "text": "Entendre le nom d’un trouble peut faire craindre une folie ou une maladie de la mémoire.",
+              "examples": [
+                "Hector répond d’abord que « ça ne tient pas d’équerre » au lieu de dire qu’il a peur.",
+                "Julien se demande en silence si son oncle va rester ainsi, sans oser le formuler devant lui."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour comprendre l’annonce d’un delirium",
+          "points": [
+            {
+              "heading": "Demander une explication en mots simples",
+              "objective": "Comprendre ce qui s’est passé sans se sentir jugé.",
+              "exercise": [
+                "Dire au médecin ce que l’on veut savoir : ce qui s’est passé, et ce qui est recherché.",
+                "Lui demander de répéter un mot nouveau ou de l’épeler.",
+                "Reformuler à voix haute ce que l’on a compris et laisser le médecin corriger."
+              ],
+              "benefit": "La personne peut garder une prise sur ce qui lui arrive, même si elle ne s’en souvient pas."
+            },
+            {
+              "heading": "Poser ses questions par écrit",
+              "objective": "Ne pas perdre une question entre deux visites.",
+              "exercise": [
+                "Garder une feuille et un crayon à portée de main dans la chambre.",
+                "Noter une question dès qu’elle vient, même en un seul mot.",
+                "Montrer la feuille au médecin ou à l’infirmière lors de leur passage."
+              ],
+              "benefit": "Les questions arrivent jusqu’aux soignants, même les jours où l’attention est fragile."
+            },
+            {
+              "heading": "Dire ce qu’un proche peut savoir",
+              "objective": "Garder la main sur les informations qui concernent sa santé.",
+              "exercise": [
+                "Indiquer au médecin quel proche peut recevoir des nouvelles.",
+                "Préciser si certains détails doivent rester entre la personne et l’équipe.",
+                "Dire au proche ce qui a été décidé, pour éviter les malentendus."
+              ],
+              "benefit": "Le proche reçoit ce qui l’aide à soutenir, et la personne garde son droit de choisir."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Le mot au dos des menus",
+      "ending": "« Delirium », répète la docteure Roussel, à la demande d’Hector, puis elle l’épelle. Hector retourne la feuille des menus posée sur le plateau et écrit le mot lui-même, en lettres droites, avec le stylo de Julien. En dessous, il ajoute : infection, eau, traitements revus. Il demande si c’est fini. La docteure répond que ce genre de confusion peut encore varier dans les prochains jours, que l’équipe continue de soigner l’infection et de le faire boire, et qu’elle repassera demain. Hector se tourne alors vers Julien, puis vers elle : « Vous pouvez lui donner des nouvelles. À lui. » La docteure note son accord dans le dossier. Avant de partir, elle demande à Julien s’il peut rapporter les lunettes d’Hector et son appareil auditif, et quelques objets de sa maison. Julien promet de passer ce soir après ses cours. Hector plie la feuille des menus en quatre et la glisse sous son verre d’eau.",
+      "conclusion": "Nommer le delirium aide à le situer : une confusion rapide qui signale un problème médical, dont les causes sont recherchées par l’équipe. Hector ne retrouve pas sa soirée, mais il obtient une explication sans moquerie, garde le mot de sa main et choisit que Julien soit informé.",
+      "mirror": [
+        "Pendant l’annonce, Julien est resté à côté du lit sans compléter les explications de la médecin. S’il entend un mot qu’il ne connaît pas, un proche peut demander devant la personne : « Vous pouvez répéter, pour que nous l’écrivions ? » Il peut ensuite redire ce qu’il a compris et laisser le soignant corriger. Il n’a pas à chercher lui-même ce qui a provoqué la confusion ni à vérifier les traitements. Il respecte aussi ce que la personne choisit de partager avec lui, même si elle lui en confie peu."
+      ],
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "nice-cg103",
+        "has-confusion-aigue",
+        "sign-157"
+      ],
+      "continuity": {
+        "choice": "Hector écrit lui-même « delirium » au dos de la feuille des menus et autorise l’équipe à donner des nouvelles à Julien ; la docteure Roussel demande ses lunettes, son appareil auditif et des objets familiers.",
+        "next": "En fin d’après-midi, Julien apportera les lunettes, l’appareil auditif, une photo de l’atelier et le crayon plat de charpentier, à la demande de l’équipe."
+      },
+      "clinical_focus": "Nommer le delirium et chercher ses causes médicales",
+      "diagnostic_stage": "diagnosis_explained"
     }
   ]
 }

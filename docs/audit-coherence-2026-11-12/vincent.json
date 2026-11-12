@@ -1,0 +1,155 @@
+{
+  "character_id": "vincent",
+  "type": "origine",
+  "auditor": "audit_o8",
+  "audited_on": "2026-11-12",
+  "persona": {
+    "age_metier_proches": "44 ans (cité aux ép. 1 et 5, cohérent avec la fiche), technicien ferroviaire en horaires de poste. Il vit avec son compagnon Cédric, traducteur indépendant qui a une mobilité réduite acquise et se déplace en fauteuil. Proches : Julie (sa sœur), Denis (collègue du vestiaire et de l'atelier).",
+    "arc_summary": "Vincent rend d'abord visibles les tâches invisibles de l'aidance (ép. 1), puis apprend à partager les décisions avec Cédric et à demander son accord avant d'aider (ép. 2 et 3, séjour et exposition). Il nomme son ambivalence et sa fatigue (ép. 4 et 5), confie une mission à Julie (ép. 6) et protège un temps de couple (ép. 7). Il transmet ensuite le dossier de la porte de l'immeuble à Cédric (ép. 8), choisit une formation malgré un désaccord (ép. 9), exprime sa colère sans confisquer la parole de Cédric (ép. 10), demande à Denis une écoute délimitée (ép. 11) et installe un répit régulier à l'atelier vélo (ép. 12). Les objets circulent bien d'un épisode à l'autre (étagère, porte, carnet commun, concert, traduction), et la série se termine sur un bilan ouvert mais net.",
+    "arc_issues": [
+      "Les ép. 1 et 8 traitent presque la même facette (charge mentale ou d'organisation rendue visible) et se terminent par la même scène avec Denis, qui demande si Vincent doit encore appeler pendant la pause.",
+      "Écriture très uniforme d'un épisode à l'autre : longues sections théoriques, et chaque sous-partie des manifestations se termine par un paragraphe-résumé artificiel qui rejoue la scène sur deux exemples (« Le non aux poignées pourrait… ; le souhait de Cédric… »). Le texte reste clair, mais la lecture est lourde.",
+      "Les verbes au présent remplacent souvent le passé ou le futur dans le retour (« comme ils en conviennent », « Vincent reconnaît qu'il présente trop vite », « il dit à Cédric qu'il parle de sa fatigue avec Denis »), ce qui brouille la chronologie."
+    ]
+  },
+  "episodes": [
+    {
+      "number": 1,
+      "file": "content/posts/comprendre-et-maitriser-ses-emotions/vincent-charge-aidance-taches-invisibles.md",
+      "focus": "charge d'aidance : tâches mentales invisibles (anticiper, relancer, garder en tête)",
+      "structure": {"scene": "ok", "concept": "ok", "manifestations": "ok", "techniques": "ok", "retour": "ok", "conclusion": "ok", "proches": "ok"},
+      "comprehension": 4,
+      "comprehension_note": "Vincent, Cédric, Denis et Julie sont tous présentés. La phrase de Cédric (« Dis-moi plutôt ce que tu gardes encore en tête ») pose l'enjeu, et la fin (dossier rendu, Julie qui va chercher les pièces du robinet) est concrète. Seul l'objet du premier appel reste flou.",
+      "issues": [
+        {"severity": "mineur", "type": "comprehension", "quote": "C’est à ce moment-là qu’il faudra rappeler pour l’entrée accessible", "problem": "On ne sait pas de quel lieu il s'agit (cabinet, salle, transport) ; le « dossier de remboursement » repris par Cédric n'est pas non plus situé.", "fix": "« rappeler la salle de concert pour l'entrée accessible » et « un dossier de remboursement de transport »."},
+        {"severity": "mineur", "type": "trame", "quote": "Le premier appel concernant l’entrée le place peu à peu au centre des réponses ; son envie de vérifier le remboursement pourtant repris par Cédric montre le même rôle", "problem": "Phrase-résumé ajoutée en fin de sous-partie, qui répète le paragraphe au lieu d'apporter un exemple.", "fix": "Supprimer ou fondre dans le paragraphe précédent."}
+      ]
+    },
+    {
+      "number": 2,
+      "file": "content/posts/sortir-de-ses-schemas-repetitifs/vincent-autonomie-decisions-partagees.md",
+      "focus": "autonomie du proche : choisir un hébergement à la place de Cédric",
+      "structure": {"scene": "ok", "concept": "ok", "manifestations": "ok", "techniques": "ok", "retour": "ok", "conclusion": "ok", "proches": "ok"},
+      "comprehension": 4,
+      "comprehension_note": "La brochure poussée vers Cédric et sa phrase « Je veux choisir avec toi » rendent le concept immédiatement visible. Le retour (Cédric appelle lui-même le premier lieu, départ plus tardif) est clair.",
+      "issues": [
+        {"severity": "mineur", "type": "comprehension", "quote": "Il dit simplement qu’il vérifiera le mandat avant de réserver une prochaine fois.", "problem": "Le mot « mandat » est un jargon peu clair pour le lecteur ; la phrase précédente (« Vincent reconnaît qu'il présente trop vite ») mélange présent et passé.", "fix": "« Il dit qu'il demandera ce que Cédric veut décider avant de réserver » et « qu'il a présenté trop vite »."}
+      ]
+    },
+    {
+      "number": 3,
+      "file": "content/posts/sortir-de-ses-schemas-repetitifs/vincent-aide-consentie-proteger.md",
+      "focus": "aide consentie : pousser le fauteuil sans demander",
+      "structure": {"scene": "ok", "concept": "ok", "manifestations": "ok", "techniques": "ok", "retour": "ok", "conclusion": "ok", "proches": "ok"},
+      "comprehension": 5,
+      "comprehension_note": "Scène très lisible : mains sur les poignées, « Je préfère avancer moi-même », mains retirées. Le retour montre un accord limité au sac et à la brochure, puis une phrase de réparation brève au déjeuner. Bon raccord avec l'exposition préparée à l'ép. 2.",
+      "issues": [
+        {"severity": "mineur", "type": "comprehension", "quote": "Ils arrivent enfin à l’exposition préparée ensemble. Le choix de l’hébergement tient compte de leurs deux préférences et les informations utiles sont partagées.", "problem": "Le deuxième paragraphe est un récapitulatif abstrait qui interrompt la scène du contrôle.", "fix": "Réduire à une phrase : « C'est l'exposition qu'ils ont choisie ensemble. »"}
+      ]
+    },
+    {
+      "number": 4,
+      "file": "content/posts/comprendre-et-maitriser-ses-emotions/vincent-ambivalence-emotions-aidance.md",
+      "focus": "ambivalence : plaisir du week-end, irritation devant les démarches, soulagement de sortir seul",
+      "structure": {"scene": "ok", "concept": "ok", "manifestations": "ok", "techniques": "ok", "retour": "ok", "conclusion": "ok", "proches": "ok"},
+      "comprehension": 4,
+      "comprehension_note": "Les deux papiers (ticket d'exposition et reçu de transport) donnent une belle image de l'ambivalence. Le concert proposé par Denis met en scène le soulagement coupable. Seule la temporalité du séjour est ambiguë.",
+      "issues": [
+        {"severity": "mineur", "type": "comprehension", "quote": "Quand Julie lui demande si le séjour se passe bien, il hésite entre un récit heureux et une plainte.", "problem": "Vincent est rentré (Cédric travaille « dans la pièce voisine », concert « près de chez eux »), mais le présent laisse croire que le séjour continue.", "fix": "« si le séjour s'est bien passé »."},
+        {"severity": "mineur", "type": "continuite", "quote": "Il peut pourtant aimer la musique de Denis", "problem": "Denis est présenté comme collègue à l'ép. 1 ; on ne sait pas s'il joue au concert ou s'il s'agit de musique qu'il aime.", "fix": "« aimer la musique que Denis lui fait découvrir »."}
+      ]
+    },
+    {
+      "number": 5,
+      "file": "content/posts/comprendre-et-maitriser-ses-emotions/vincent-fatigue-sans-culpabiliser.md",
+      "focus": "reconnaître sa fatigue sans culpabiliser ni comparer sa souffrance à celle de Cédric",
+      "structure": {"scene": "ok", "concept": "ok", "manifestations": "ok", "techniques": "ok", "retour": "ok", "conclusion": "ok", "proches": "ok"},
+      "comprehension": 4,
+      "comprehension_note": "La manche coincée dans le casier, la consigne relue et l'étagère reportée à samedi sont concrètes. La phrase « je n'arrive plus à réfléchir correctement aujourd'hui » fait avancer l'histoire. Bon renvoi vers le médecin en cas de fatigue persistante.",
+      "issues": [
+        {"severity": "mineur", "type": "continuite", "quote": "Vincent peut donc constater qu’il relit trois fois une adresse sans conclure qu’il devient incapable.", "problem": "La scène montre « deux fois la même consigne » et un bon de retrait, pas une adresse relue trois fois.", "fix": "« qu'il relit deux fois une consigne »."}
+      ]
+    },
+    {
+      "number": 6,
+      "file": "content/posts/sortir-de-ses-schemas-repetitifs/vincent-organiser-relais-concret.md",
+      "focus": "organiser un relais concret : confier à Julie le retrait de l'étagère",
+      "structure": {"scene": "ok", "concept": "ok", "manifestations": "ok", "techniques": "ok", "retour": "ok", "conclusion": "ok", "proches": "ok"},
+      "comprehension": 4,
+      "comprehension_note": "La question de Julie (« Qu'est-ce que tu me demandes exactement ? ») est le pivot de l'épisode, et le retrait se fait effectivement sans rappel. Bonne reprise de l'étagère de l'ép. 5 et du robinet de l'ép. 1.",
+      "issues": [
+        {"severity": "mineur", "type": "comprehension", "quote": "rejoint Denis pour une courte promenade, comme ils en conviennent pendant leur pause de travail", "problem": "Le présent laisse croire que l'accord se conclut au même moment ; plusieurs phrases du retour ont le même défaut (« si la mission correspond à ce qui est annoncé »).", "fix": "« comme ils en étaient convenus » et « à ce qui avait été annoncé »."}
+      ]
+    },
+    {
+      "number": 7,
+      "file": "content/posts/sortir-de-ses-schemas-repetitifs/vincent-couple-place-aidance.md",
+      "focus": "préserver une place de couple au-delà de la coordination",
+      "structure": {"scene": "ok", "concept": "ok", "manifestations": "ok", "techniques": "ok", "retour": "ok", "conclusion": "ok", "proches": "ok"},
+      "comprehension": 4,
+      "comprehension_note": "Le dîner coupé par les dates de livraison, puis la discussion sur la traduction et le vieux film, montrent bien le glissement de la coordination vers la présence. La fin, avec une déception brève quand Cédric préfère lire seul, est juste.",
+      "issues": [
+        {"severity": "mineur", "type": "comprehension", "quote": "Quand il sort le plat, ils connaissent leur programme de la semaine", "problem": "Le plat est déjà sorti à la phrase précédente (« Vincent sort le plat du four avec une seule main libre »).", "fix": "« Quand il pose le plat sur la table, ils connaissent… »."}
+      ]
+    },
+    {
+      "number": 8,
+      "file": "content/posts/reprendre-le-controle-de-ses-pensees/vincent-charge-organisation-visible.md",
+      "focus": "charge d'organisation : suivi d'une demande de réparation de la porte commune",
+      "structure": {"scene": "ok", "concept": "ok", "manifestations": "ok", "techniques": "ok", "retour": "ok", "conclusion": "ok", "proches": "ok"},
+      "comprehension": 4,
+      "comprehension_note": "L'enjeu concret (porte qui résiste au passage du fauteuil, numéro de dossier, note « porte entrée » avec une flèche) est clair. Mais l'épisode reprend la facette de l'ép. 1 et presque la même fin.",
+      "issues": [
+        {"severity": "majeur", "type": "repetition", "quote": "Au travail, Denis lui demande s’il doit encore appeler pendant la pause. Vincent explique que Cédric reprend le suivi et qu’ils attendent une proposition.", "problem": "C'est presque la même scène que la fin de l'ép. 1 (« Lundi, Denis lui demande s'il doit encore passer son appel pendant la pause. Vincent répond que cette démarche appartient maintenant à Cédric »). Les deux épisodes traitent aussi la même facette : rendre visible un travail mental et transmettre un dossier à Cédric.", "fix": "Supprimer ce paragraphe et centrer l'épisode sur ce qu'il apporte de nouveau : la règle de fermeture (ce qui clôt le dossier) et l'attente notée avec une date de réexamen. Par exemple, Vincent ne consulte plus sa messagerie devant la porte."},
+        {"severity": "mineur", "type": "comprehension", "quote": "Vincent nomme déjà certaines tâches invisibles depuis le début de son parcours.", "problem": "Le texte renvoie à la série elle-même plutôt qu'à un fait de la vie de Vincent.", "fix": "« Vincent a déjà rendu à Cédric le dossier de remboursement. »"}
+      ]
+    },
+    {
+      "number": 9,
+      "file": "content/posts/reprendre-le-controle-de-ses-pensees/vincent-valeurs-entrent-tension.md",
+      "focus": "valeurs en tension : formation professionnelle contre réunion de l'immeuble",
+      "structure": {"scene": "ok", "concept": "ok", "manifestations": "ok", "techniques": "ok", "retour": "ok", "conclusion": "ok", "proches": "ok"},
+      "comprehension": 4,
+      "comprehension_note": "Les deux cases superposées et la phrase de Cédric (« Je voudrais qu'on vienne ensemble ») posent un vrai dilemme. La décision (formation, observation écrite, désaccord maintenu) est assumée sans fausse réconciliation.",
+      "issues": [
+        {"severity": "mineur", "type": "comprehension", "quote": "Deux cases se superposent sur l’agenda de Vincent. Vincent fait défiler l’agenda jusqu’à la semaine suivante. Il vérifie une troisième fois l’heure de début de la formation.", "problem": "Les trois premières phrases répètent le nom et l'agenda, puis la formation est présentée après coup (« D'un côté, une formation technique… »).", "fix": "« Sur l'agenda de Vincent, deux cases se superposent la semaine prochaine : une formation technique facultative et la réunion de l'immeuble. »"}
+      ]
+    },
+    {
+      "number": 10,
+      "file": "content/posts/comprendre-et-maitriser-ses-emotions/vincent-colere-obstacles-materiels.md",
+      "focus": "colère devant un passage accessible encombré, sans prendre la parole de Cédric",
+      "structure": {"scene": "ok", "concept": "ok", "manifestations": "ok", "techniques": "ok", "retour": "ok", "conclusion": "ok", "proches": "ok"},
+      "comprehension": 3,
+      "comprehension_note": "Les tables le long du passage et le « Vous trouvez ça normal de… » interrompu sont forts. Mais le premier paragraphe donne les événements dans le désordre (Vincent commence sa phrase avant que l'on sache qu'ils arrivent), et l'aspect « laisser la parole à Cédric » recoupe en partie l'ép. 3.",
+      "issues": [
+        {"severity": "mineur", "type": "comprehension", "quote": "Il a déjà commencé sa phrase quand Cédric lui demande d’attendre. Avec Cédric, il arrive à l’heure, billets en main.", "problem": "La chronologie est inversée : l'interruption est racontée avant l'arrivée, puis rejouée au paragraphe suivant.", "fix": "Ouvrir sur l'arrivée (« Vincent et Cédric arrivent à l'heure, billets en main ») puis montrer les tables, et garder l'interruption pour le deuxième paragraphe."},
+        {"severity": "mineur", "type": "repetition", "quote": "Cette fois, la difficulté n’est pas de toucher le fauteuil. C’est de laisser à Cédric sa parole alors qu’il a très envie de protester.", "problem": "« Laisser Cédric répondre lui-même » était déjà l'enjeu d'une partie de l'ép. 3 (accueil, visiteur). La colère est bien traitée ici, mais la leçon finale de Cédric (« il préfère pouvoir poser sa demande avant ») répète l'ép. 3.", "fix": "Centrer le retour sur la colère elle-même (phrase accusatrice regrettée, retour écrit au lieu) et alléger la répétition sur la prise de parole."}
+      ]
+    },
+    {
+      "number": 11,
+      "file": "content/posts/sortir-de-ses-schemas-repetitifs/vincent-soutien-garder-limites.md",
+      "focus": "demander du soutien à un collègue en gardant la vie privée de Cédric",
+      "structure": {"scene": "ok", "concept": "ok", "manifestations": "ok", "techniques": "ok", "retour": "ok", "conclusion": "ok", "proches": "ok"},
+      "comprehension": 4,
+      "comprehension_note": "Le banc derrière l'atelier, la question de Denis (« ce qui arrive à Cédric ») et la demande de « dix minutes » sans solution sont nets. La limite de la vie privée est bien tenue jusqu'à la fin.",
+      "issues": [
+        {"severity": "mineur", "type": "comprehension", "quote": "Le soir, il dit à Cédric qu’il parle de sa fatigue avec Denis sans entrer dans les informations privées de son compagnon.", "problem": "Le présent (« qu'il parle ») laisse croire à une habitude plutôt qu'à la conversation du jour.", "fix": "« qu'il a parlé de sa fatigue avec Denis »."}
+      ]
+    },
+    {
+      "number": 12,
+      "file": "content/posts/sortir-de-ses-schemas-repetitifs/vincent-repit-entraide-durable.md",
+      "focus": "répit régulier et entraide durable (atelier vélo, appuis aux limites reconnues)",
+      "structure": {"scene": "ok", "concept": "ok", "manifestations": "ok", "techniques": "ok", "retour": "ok", "conclusion": "ok", "proches": "ok"},
+      "comprehension": 4,
+      "comprehension_note": "L'atelier vélo et le créneau à garder « sans que tu doives organiser ma pause » donnent une fin de série crédible. Le bilan reprend la porte, Julie, Denis et le contact associatif sans tout résoudre. L'ouverture mélange cependant l'après et le pendant.",
+      "issues": [
+        {"severity": "mineur", "type": "comprehension", "quote": "La roue du vélo tourne encore lorsque Vincent quitte l’atelier participatif. Il l’a fait tourner une dernière fois avant de reposer le vélo.", "problem": "La phrase suivante (« Il parle d'outils, demande un conseil… ») décrit l'atelier au présent alors qu'il vient de le quitter.", "fix": "Ouvrir dans l'atelier (« Vincent fait tourner la roue une dernière fois… »), puis le faire partir au paragraphe suivant."}
+      ]
+    }
+  ],
+  "missing_or_extra": "Douze épisodes présents, aucun surnuméraire. Les facettes sont distinctes, sauf pour les ép. 1 et 8 (charge invisible ou d'organisation), qui se recouvrent fortement. Si l'on préfère remplacer l'ép. 8 plutôt que le recentrer, un aspect absent du parcours serait le deuil de l'avant (tristesse ou perte liée au changement de mobilité de Cédric, vécue par Vincent), à traiter avec l'accord de Cédric sur ce qui est raconté. Cet aspect est seulement effleuré à l'ép. 7 (« Le désaccord et la tristesse peuvent avoir une place »).",
+  "verdict": "corrections_mineures"
+}

@@ -4,62 +4,17 @@
   "reviewer": "review_loubna",
   "reviewed_on": "2026-11-12",
   "status": "revision_requested",
-  "summary": "Lecture indépendante complète de la charte, du modèle d’alexithymie en couple, du dossier, du design, du brief et des douze épisodes. Les douze aspects sont distincts et fondés sur les points vérifiés du dossier (CDDR p.572, 588–591 ; OMS santé sexuelle ; Wismeijer 2013 et WFSBP 2020 limités à la prudence) : branches alternatives, rejet social, consentement, risque circonscrit, retentissement, compulsivité, réévaluation, objectifs, vie privée, évolution et fin de projet. Récit non graphique, aucun danger, acte, passé pénal ou comorbidité inventé ; orientation et relation jamais pathologisées ; rubriques proches sûres. Les raccords de jours vérifiés (remise « fin de la semaine suivante » en 10, mardi, jeudi et vendredi en 11, lundi et mercredi en 12) sont justes, et les miroirs conditionnels des épisodes 11 et 12 restent dans le périmètre. Corrections demandées : les épisodes 1 à 10 ne présentent pas Salomé, Benali ou Léonie pour un lecteur arrivant directement, contrairement aux épisodes 11 et 12 ; plusieurs scènes cliniques (1, 2, 4, 5, 7, 8, 9) remplacent l’échange par des formules procédurales abstraites. Cette relecture ne constitue ni expertise clinique individuelle ni preuve de publication.",
+  "summary": "Seconde lecture après corrections, sur le manuscrit 81ba4906 comparé à la version 5e5033f4 relue précédemment (commit 6ec3d1c). Épisodes 11 et 12, biographie et sujets inchangés. Les épisodes 1 à 10 présentent désormais Salomé, Benali et Léonie à leur première mention, et les formules procédurales des épisodes 1, 2, 4, 5, 7, 8 et 9 sont remplacées par des répliques et des dates concrètes. Branche de risque de l’épisode 5 : paraphrase orale simple, explication conforme au CDDR p.588, aucun risque attribué. Calendrier : appel du lendemain (2), cabinet la semaine suivante (3), jeudi suivant (4), mardi suivant (7→8), dix jours (8→9), environ deux semaines jusqu’au jeudi de 11, remise de fin de semaine suivante compatible avec 10–12. Consigne d’appel de l’épisode 8 proportionnée et sûre. Une seule correction reste ouverte : le pronom « celle-ci » de la fin de l’épisode 9 désigne désormais Benali au lieu de Loubna. Cette relecture ne constitue ni expertise clinique individuelle ni preuve de publication.",
   "files": {
     "editorial/clinical/designs/loubna.json": "106ac8ac5ea0a21cd963ab67deb5c664507c9f278ef62d7dd2b7d694e9c347e5",
     "editorial/clinical/dossiers/loubna.json": "d23ed9f437ea8b0c328f80a25daeee2e059b5a84a494b67cf5ebbd75cbea6021",
-    "editorial/clinical/loubna.json": "5e5033f4e77a43c1cf458d430b17d777905e4a7b39ba870349e93fc5bcc851cb"
+    "editorial/clinical/loubna.json": "81ba4906aa9356f0801ceff7ee6ce7d7e6a15f708674b3f68e03b27ad44d0a98"
   },
   "findings": [
     {
-      "episode": 1,
-      "issue": "Un lecteur arrivant directement sur l’épisode 1 ne sait pas que Salomé dirige la petite salle d’exposition et commande le programme, ni que Léonie est la compagne de Loubna : Léonie n’apparaît que dans l’explication (« sa relation avec Léonie ») puis dans le miroir. La fin dit « Loubna parle effectivement à Benali » sans indiquer s’il s’agit d’un appel ou d’une consultation, ni qui est Benali au-delà de « docteure ».",
-      "requested_change": "Dans l’ouverture, présenter brièvement Salomé (« Salomé, qui dirige la salle ») et Benali (médecin qui la suit en santé sexuelle) ; dans l’explication, écrire « sa relation avec sa compagne Léonie ». Remplacer « parle effectivement à Benali » par une action concrète (par exemple un appel ou un rendez-vous de l’après-midi et une phrase de Benali sur la distinction entre préférence et souffrance)."
-    },
-    {
-      "episode": 2,
-      "issue": "Le « contact clinique prévu » de la fin est abstrait : on ignore s’il s’agit d’un appel ou d’un rendez-vous, et quand il a lieu par rapport au contact de l’épisode 1 et à l’entretien au cabinet de l’épisode 3. Salomé et Benali ne sont pas présentées pour un lecteur arrivant sur cet épisode.",
-      "requested_change": "Rappeler en une incise le rôle de Salomé et de Benali à leur première mention, et remplacer « au contact clinique prévu » par une situation datée et concrète (par exemple un appel convenu avec Benali le lendemain, ou une consultation), compatible avec l’entretien au cabinet de l’épisode 3."
-    },
-    {
-      "episode": 3,
-      "issue": "Léonie n’est désignée que par « sa relation avec Léonie » ; un lecteur arrivant sur l’épisode ne sait pas qu’elle est sa compagne.",
-      "requested_change": "Écrire à la première mention « sa relation avec sa compagne Léonie » ; aucune autre modification nécessaire."
-    },
-    {
-      "episode": 4,
-      "issue": "La fin résume l’entretien partagé par des formules de procédure (« Benali vérifie leur accord et reprend le sujet annoncé ») et Benali n’est pas présentée pour un lecteur arrivant directement.",
-      "requested_change": "Montrer brièvement ce que Benali demande à l’ouverture de la partie commune (par exemple si chacune est toujours d’accord pour parler seulement de leurs soirées) et présenter Benali comme la médecin qui suit Loubna."
-    },
-    {
-      "episode": 5,
-      "issue": "L’échange central est raconté en formule de procédure : « La professionnelle reprend les fondements possibles du diagnostic et celui qui a été retenu dans son évaluation » ; aucune parole ou geste de Benali ne montre ce qu’elle explique. Salomé n’est pas présentée.",
-      "requested_change": "Donner une ou deux répliques simples de Benali (par exemple qu’il existe deux façons possibles de poser ce diagnostic et que, pour Loubna, c’est la souffrance qui a été évaluée, sans aucun danger relevé), sans exemple corporel ; présenter Salomé à sa première mention."
-    },
-    {
-      "episode": 6,
-      "issue": "Salomé ouvre la scène sans que son rôle soit dit ; un lecteur arrivant directement ne sait pas qu’elle dirige la salle et commande le programme.",
-      "requested_change": "À la première mention, préciser en une incise que Salomé dirige la petite salle d’exposition pour laquelle Loubna conçoit le programme."
-    },
-    {
-      "episode": 7,
-      "issue": "La fin reste procédurale (« recueille les premiers éléments et organise un point clinique pour examiner ces changements ») : on ne voit ni ce que Benali demande ni quand a lieu ce point, que l’épisode 8 situe « le matin du rendez-vous ». Benali et Salomé ne sont pas présentées.",
-      "requested_change": "Montrer une question concrète de Benali sur le sommeil ou l’élan et la date du point fixé (par exemple dans quelques jours), puis rappeler à leur première mention qui sont Benali et Salomé."
-    },
-    {
-      "episode": 8,
-      "issue": "Plusieurs phrases remplacent l’action par des formules de procédure : « La professionnelle lui pose les questions utiles sur le contexte et les éléments de santé pertinents », « La réévaluation est effectuée », « reprend les modalités pour la contacter si la situation change ». Le lecteur ne voit pas ce qui se passe concrètement ni ce qui est décidé.",
-      "requested_change": "Remplacer ces formules par des gestes ou répliques simples et non diagnostiques (par exemple Benali demande depuis quand les nuits ont changé et ce qui a changé dans la journée, fixe un nouveau rendez-vous à une date donnée et indique à Loubna comment la joindre d’ici là). Présenter Salomé et Benali à leur première mention."
-    },
-    {
       "episode": 9,
-      "issue": "L’ouverture (« elle a conservé les modalités convenues ») et la fin (« conviennent de poursuivre le travail sur la souffrance et le retentissement quotidien, en gardant les changements récents dans leur suivi ») restent abstraites ; on ne sait pas ce que Benali répond à la question « ne plus souffrir ou devenir quelqu’un d’autre ». Benali et Salomé ne sont pas présentées.",
-      "requested_change": "Donner la réponse de Benali en une ou deux phrases concrètes (le suivi vise à alléger sa souffrance et ce qui pèse sur ses journées, pas à changer ses préférences) et remplacer « modalités convenues » par le fait concret (par exemple le rendez-vous rapproché qu’elle a gardé). Rappeler les rôles de Benali et de Salomé."
-    },
-    {
-      "episode": 10,
-      "issue": "Salomé n’est pas présentée ; un lecteur arrivant sur l’épisode ignore qu’elle dirige la salle. Le raccord de dates est par ailleurs juste.",
-      "requested_change": "À la première mention, préciser que Salomé dirige la salle d’exposition qui a commandé le programme ; ne pas modifier la remise « pour la fin de la semaine suivante », cohérente avec les épisodes 11 et 12."
+      "issue": "Dans la fin, la phrase « Benali fixe le rendez-vous suivant dans deux semaines. Après le rendez-vous, celle-ci remet le programme imprimé à Salomé. » fait de Benali, dernier sujet nommé, celle qui remet le programme : le pronom « celle-ci » est devenu fautif après la réécriture.",
+      "requested_change": "Remplacer « celle-ci remet le programme imprimé à Salomé » par « Loubna remet le programme imprimé à Salomé » (ou formulation équivalente nommant Loubna)."
     }
   ],
   "episode_checks": [
@@ -68,7 +23,7 @@
       "focus": "Souffrance clinique et préférence atypique",
       "opening_quote": "Le titre est trop petit.",
       "ending_quote": "Le fichier reste ouvert sur une page incomplète, mais la date annoncée ne dépend plus d’une promesse d’aller bien.",
-      "continuity_note": "La scène pose le titre trop petit, le carnet orange et la question écrite pour Benali ; la fin installe la maquette provisoire acceptée par Salomé, reprise en 2. Mais un lecteur arrivant ici ignore que Salomé dirige la salle et que Léonie est la compagne de Loubna (nommée seulement dans l’explication), et « parle effectivement à Benali » ne dit pas s’il s’agit d’un appel ou d’une consultation.",
+      "continuity_note": "Salomé est présentée comme directrice qui a commandé le programme, Benali comme médecin en santé sexuelle, Léonie comme compagne dans l’explication. L’appel de quinze heures et la réplique de Benali (« Nous ne soignons pas une préférence… ») rendent la fin concrète ; la maquette provisoire acceptée est reprise en 2.",
       "clinical_note": "Les deux branches alternatives du CDDR p.588 sont exactes ; la branche de détresse est retenue sans risque présumé ; orientation et relation exclues. Wismeijer n’est pas mobilisé au-delà de la prudence. Aucune grille d’autodiagnostic.",
       "relatives_note": "Phrase à Salomé centrée sur le livrable, sans demande de diagnostic ; Léonie écoute seulement si elle le souhaite, sans certifier la normalité ni remplacer Benali. Ancrage correct dans la demande de maquette."
     },
@@ -77,7 +32,7 @@
       "focus": "Persistance et attention interrompue",
       "opening_quote": "Loubna déplace le bloc des horaires vers le bas, puis le remet à sa place.",
       "ending_quote": "Le fichier a quitté la table ; la question, elle, a trouvé un rendez-vous.",
-      "continuity_note": "Le bloc des horaires déplacé deux fois et la note « Horaires, espacement à reprendre » sont concrets ; la phrase sur la peur de la norme prépare exactement l’épisode 3. Le « contact clinique prévu » reste abstrait (quand, sous quelle forme, un jour après celui de l’épisode 1 ?) et les rôles de Salomé et Benali ne sont pas rappelés.",
+      "continuity_note": "Rôles rappelés ; l’appel du lendemain matin est daté et distinct de l’appel de l’épisode 1, et Benali renvoie la question de la norme au rendez-vous au cabinet de la semaine suivante, qui est l’épisode 3. Le bloc des horaires et la note du carnet restent concrets.",
       "clinical_note": "Persistance distinguée de la curiosité et de la perte de contrôle, retentissement présenté comme individuel (CDDR p.572) ; aucun comptage de pensées ni exercice de suppression.",
       "relatives_note": "Salomé dit ce qu’elle examinera sur la version provisoire ; Léonie n’a pas à compter les interruptions. Léonie est absente de la scène : la consigne reste négative et brève, acceptable."
     },
@@ -86,34 +41,34 @@
       "focus": "Le rejet social ne suffit pas",
       "opening_quote": "« On entend encore des gens dire que certaines choses ne sont pas normales.",
       "ending_quote": "Elle devra d’abord lui demander ce qu’elle accepterait de partager.",
-      "continuity_note": "La remarque générale entendue, la feuille de questions séparée du carnet orange et la demande d’inviter Léonie sont précises ; la fin laisse l’accord de Léonie ouvert, repris en 4. Léonie n’est désignée que par « sa relation avec Léonie » dans la scène.",
+      "continuity_note": "Benali et « sa compagne Léonie » sont présentées ; la remarque générale, la feuille séparée du carnet orange et la demande d’inviter Léonie préparent l’épisode 4. Seule l’ouverture a changé.",
       "clinical_note": "Exclusion CDDR p.588–589 d’une détresse entièrement due au rejet correctement formulée, avec aide possible sans ce diagnostic ; orientation exclue (p.589) ; Wismeijer explicitement non utilisé comme test.",
       "relatives_note": "Phrase de Léonie concrète (« tu veux que je t’écoute maintenant ? »), sans rôle d’expert ; distinction utile entre accord pour une conversation et accord pour un entretien."
     },
     {
       "number": 4,
       "focus": "Consentement et place de la partenaire",
-      "opening_quote": "Léonie sort deux assiettes du placard quand Loubna lui parle du prochain rendez-vous.",
+      "opening_quote": "Léonie, sa compagne, sort deux assiettes du placard quand Loubna lui parle de son prochain rendez-vous avec la docteure Benali, la médecin qui la suit en santé sexuelle.",
       "ending_quote": "Loubna conserve un temps individuel distinct pour une autre interrogation, sur ce que le diagnostic signifie ou non en matière de danger.",
-      "continuity_note": "Scène domestique concrète (assiettes, phrase corrigée, limite de Léonie) ; l’entretien conjoint se tient « quelques jours plus tard » et la phrase de demande de disponibilité sera réutilisée en 10. La fin résume la séance en termes procéduraux (« vérifie leur accord et reprend le sujet annoncé »), mais l’échange de Léonie rend l’action lisible.",
+      "continuity_note": "Léonie et Benali sont présentées dès la première phrase ; l’entretien partagé est daté (« le jeudi suivant ») et la question d’ouverture de Benali sur leur accord remplace la formule procédurale. La phrase de demande de disponibilité est reprise en 10.",
       "clinical_note": "Consentement distingué par objet (relation, conversation, entretien), possibilité de retrait, responsabilité clinique laissée à Benali ; aucun conseil sexuel. Conforme au point du dossier sur l’implication de Léonie.",
       "relatives_note": "Phrase de Léonie au cabinet ancrée dans sa limite ; une partie du miroir s’adresse à Benali, qui n’est pas une proche, mais le reste porte bien sur la liberté de Léonie d’être indisponible."
     },
     {
       "number": 5,
       "focus": "Le risque corporel a un périmètre",
-      "opening_quote": "La chaise que Léonie occupait lors de l’entretien partagé est libre.",
+      "opening_quote": "La chaise que Léonie, sa compagne, occupait lors de l’entretien partagé est libre.",
       "ending_quote": "Le retard graphique devra être discuté pour lui-même.",
-      "continuity_note": "La chaise vide relie à l’entretien partagé et le message de Salomé prépare le prototype de l’épisode 6. Le cœur de la scène est abstrait : « reprend les fondements possibles du diagnostic et celui qui a été retenu » ne montre aucune parole de Benali, et Salomé reste « Salomé » sans rôle.",
-      "clinical_note": "Branche de risque significatif, direct et immédiat exacte (CDDR p.588) ; consentement non équivalent à absence de dommage, aucun danger inventé, aucun exemple corporel ; recours aux secours en cas de danger immédiat réel sans exercice. Conforme à la garde-fou.",
+      "continuity_note": "Benali trace deux colonnes et nomme les deux fondements en langage simple, puis dit que la souffrance a été évaluée et qu’aucun danger n’a été relevé : l’échange est désormais visible. « Risque sérieux et immédiat de blessure » est une paraphrase orale ; l’explication qui suit garde la formulation complète (significatif, blessure ou mort, directement et immédiatement lié). Salomé est présentée.",
+      "clinical_note": "Branche de risque formulée dans l’explication selon le CDDR p.588 (significatif, direct, immédiat, blessure ou mort) ; la réplique simplifiée de Benali n’attribue aucun risque et ne donne aucun exemple corporel ; le consentement n’est pas présenté comme garantie ; secours en cas de danger immédiat réel.",
       "relatives_note": "Léonie dit qu’elle ne peut pas évaluer et renvoie à Benali ; limite de sécurité maintenue jusqu’à la dernière phrase. Sûr."
     },
     {
       "number": 6,
       "focus": "Retentissement professionnel et charge réelle",
-      "opening_quote": "Salomé pose le prototype imprimé au milieu de la table.",
+      "opening_quote": "Salomé, qui dirige la petite salle d’exposition pour laquelle Loubna conçoit le programme, pose le prototype imprimé au milieu de la table.",
       "ending_quote": "La question ouvre un autre échange, distinct de leur calendrier de livraison.",
-      "continuity_note": "Prototype lisible, version numérique incomplète, deux remises : la scène est concrète et la question du mot « compulsif » prépare l’épisode 7. Salomé n’est pas présentée comme directrice de la salle dans cet épisode.",
+      "continuity_note": "Salomé présentée dès la première phrase, Léonie dans le miroir, Benali dans la conclusion. Prototype lisible, numérique incomplet et deux remises inchangés ; la question du mot « compulsif » prépare l’épisode 7.",
       "clinical_note": "Retentissement professionnel possible mais non universel ni suffisant (CDDR p.572) ; aucune norme d’accessibilité chiffrée ; réussite graphique non présentée comme mesure clinique.",
       "relatives_note": "Question de Salomé centrée sur la version à valider, sans exigence médicale ; Léonie déchargée du planning. Ancrage direct dans la scène de la salle."
     },
@@ -122,7 +77,7 @@
       "focus": "Répétition et contrôle ne se confondent pas",
       "opening_quote": "« Quand quelque chose revient autant dans ma tête, j’appelle ça compulsif.",
       "ending_quote": "Elle ne sait pas encore ce qui explique cette période, mais elle ne repart pas avec une question importante laissée au fond du sac.",
-      "continuity_note": "Reprise explicite des deux remises et du bloc de texte de l’épisode 2 ; la seconde question sur le sommeil prépare l’épisode 8. La fin reste procédurale (« recueille les premiers éléments et organise un point clinique ») : on ignore quand et sous quelle forme a lieu ce point.",
+      "continuity_note": "Benali et Salomé sont présentées. La fin montre les questions de Benali sur les nuits et le démarrage, la réponse « une dizaine de jours » et un rendez-vous fixé « le mardi suivant », qui devient le matin du rendez-vous de l’épisode 8.",
       "clinical_note": "Distinction CDDR p.590 entre 6D36 et trouble du comportement sexuel compulsif exacte ; diagnostic inchangé ; aucun seuil, test ni inventaire intime ; sommeil et élan non rattachés au trouble.",
       "relatives_note": "Léonie peut demander ce que veut dire le mot et renvoyer à Benali, sans observer ni tester. Conditionnel car Léonie est absente, mais lié au mot employé dans la scène."
     },
@@ -131,25 +86,25 @@
       "focus": "Réévaluer une difficulté nouvelle",
       "opening_quote": "Le matin du rendez-vous, Loubna ouvre son ordinateur puis reste devant la liste des fichiers.",
       "ending_quote": "Loubna n’a pas une explication totale de ses nuits ; elle a une suite de suivi et un calendrier qui reconnaît la difficulté actuelle.",
-      "continuity_note": "Le fichier numérique resté fermé et le report ciblé demandé à Salomé sont concrets et repris en 9 et 10. En revanche « pose les questions utiles sur le contexte et les éléments de santé pertinents », « La réévaluation est effectuée » et « reprend les modalités pour la contacter » remplacent la scène par des formules de procédure.",
-      "clinical_note": "Réévaluation sans diagnostic de dépression ni aggravation présumée, sans supposition de consommation ni changement de traitement seul (CDDR p.590–591). Conforme au dossier.",
+      "continuity_note": "Les formules procédurales sont remplacées par des questions concrètes (changements au travail ou ailleurs, autres soucis de santé) et une fin datée : rendez-vous dans dix jours, numéro du cabinet. Le report numérique demandé à Salomé est repris en 9 et 10.",
+      "clinical_note": "Aucun diagnostic de dépression ni aggravation présumée ; questions de contexte et de santé générales, sans supposer de consommation ni modifier de traitement (CDDR p.590–591). La consigne « Si les nuits empirent ou si quelque chose vous inquiète d’ici là, appelez-moi sans attendre la date » est proportionnée à des changements non urgents et ne retarde aucun recours.",
       "relatives_note": "Léonie n’attribue pas tout au diagnostic et propose une aide pratique pour le rendez-vous en respectant la réponse ; Salomé confirme le report sans réclamer l’évaluation. Sûr ; ancrage indirect car Léonie est absente."
     },
     {
       "number": 9,
       "focus": "Un soin individualisé sans normalisation",
-      "opening_quote": "Loubna arrive au point rapproché avec sa feuille pliée en deux.",
+      "opening_quote": "Dix jours après la consultation sur son sommeil, Loubna arrive au cabinet de la docteure Benali, la médecin qui la suit en santé sexuelle, avec sa feuille pliée en deux.",
       "ending_quote": "Le numérique reste à terminer, et la satisfaction de cette première remise n’a pas besoin de devenir une conclusion clinique.",
-      "continuity_note": "La question « ne plus souffrir ou devenir quelqu’un d’autre » et l’enveloppe remise à Salomé sont fortes ; le prochain point fixé ici devient le rendez-vous du jeudi en 11. Mais « a conservé les modalités convenues », « reprend avec elle les besoins discutés » et « conviennent de poursuivre le travail sur la souffrance et le retentissement quotidien » restent abstraits.",
+      "continuity_note": "Ouverture datée (dix jours après l’épisode 8, sans appel intermédiaire) et réponse explicite de Benali ; rendez-vous suivant « dans deux semaines », qui aboutit au jeudi de l’épisode 11 environ treize jours plus tard, approximation acceptable. Mais « Après le rendez-vous, celle-ci remet le programme imprimé à Salomé » suit désormais « Benali fixe… » : « celle-ci » désigne grammaticalement Benali.",
       "clinical_note": "Absence de conversion, objectifs individualisés, non-transposition des recommandations WFSBP surtout masculines et médico-légales, absence d’efficacité revendiquée des démarches : conforme au dossier.",
       "relatives_note": "Salomé commente le programme sans l’attribuer au suivi ; Léonie peut partager sa satisfaction sans verdict et Loubna demande sa disponibilité. Concret et sûr."
     },
     {
       "number": 10,
       "focus": "Partager sans devoir tout expliquer",
-      "opening_quote": "Le programme imprimé est posé sur une étagère derrière Salomé.",
+      "opening_quote": "Le programme imprimé est posé sur une étagère derrière Salomé, qui dirige la salle d’exposition et lui a commandé ce programme.",
       "ending_quote": "Plus tard, Loubna range les notes de suivi séparément du carnet orange ; les maquettes pourront circuler sans emporter ce qu’elle a choisi de garder privé.",
-      "continuity_note": "Programme sur l’étagère, explication médicale retenue, remise proposée « pour la fin de la semaine suivante », puis report de conversation au lendemain : concret. Ce délai concorde avec le mardi de l’épisode 11 (« à la fin de la semaine »), l’envoi du vendredi et la réception du lundi en 12. Salomé n’est pas présentée comme directrice de la salle.",
+      "continuity_note": "Salomé et Léonie présentées. La remise « pour la fin de la semaine suivante » reste compatible avec l’épisode 11 (échéance en fin de semaine du mardi, envoi le vendredi) dès lors que la scène de l’épisode 10, non datée, se place la semaine qui suit la remise imprimée ; aucune phrase ne la place le même jour.",
       "clinical_note": "Vie privée distinguée de la dissimulation d’un danger réel et du secret absolu ; limite ordinaire de Léonie non pathologisée. Conforme au point du dossier sur la confidentialité.",
       "relatives_note": "Phrase de Léonie (« Pas ce soir ; demain… ») directement tirée de la scène, avec possibilité de ne pas proposer de report ; ni Salomé ni Léonie ne réclament les notes de Benali."
     },
