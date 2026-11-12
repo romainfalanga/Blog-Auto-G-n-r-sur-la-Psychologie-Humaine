@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "revision": 904,
+  "revision": 915,
   "created_at": "2026-11-07T14:47:42Z",
   "cases": {
     "mathis": {
@@ -5244,9 +5244,9 @@
     "serge": {
       "character_id": "serge",
       "code": "6D50",
-      "stage": "review",
+      "stage": "ready_to_publish",
       "created_at": "2026-11-07T14:47:42Z",
-      "active_job": "430ea711c9be4af4b8911eb6ac992df9",
+      "active_job": null,
       "owners": {
         "character": [
           "personnage_serge"
@@ -5288,31 +5288,20 @@
           }
         },
         "review": {
-          "job_id": "583c300a29354481ae12c4915f9fc756",
+          "job_id": "430ea711c9be4af4b8911eb6ac992df9",
           "owner": "review_serge",
-          "validated_at": "2026-11-12T10:36:37Z",
+          "validated_at": "2026-11-12T10:38:49Z",
           "validation": {
             "character_id": "serge",
             "files": {
               "editorial/clinical/designs/serge.json": "9d855e9c1026e1b39a3696f65eb63bb81aee86f3be1340ec8042ccdc85238727",
               "editorial/clinical/dossiers/serge.json": "a3cfbfa2f718c4dbcb8533ce11af976098546fa7f0a3764d351b2ada16bbaa2a",
-              "editorial/clinical/serge.json": "472b9c850da5c10c19f875ab4a482ddc7c661ce374789e7ee1cd6ec3deb65a52",
-              "editorial/clinical/reviews/serge.json": "3107631bad99b99620a339e3049ca13fd6dce7909ebc1b48b9efb1ef65e96f5f"
+              "editorial/clinical/serge.json": "22b3b09d56971b9a42713697445c86a2fe2c8511b28f4a2ff799a44b050d8db8",
+              "editorial/clinical/reviews/serge.json": "c6a686f0857b3016c54506e4330864dac250eed0378c2db77a43ac1b0ede1099"
             },
             "episodes": 12,
-            "status": "revision_requested",
-            "findings": [
-              {
-                "episode": 4,
-                "issue": "Le champ continuity.choice reste l’ancienne formule abstraite (« organise les échanges entre professionnels, précise les démarches retenues et les recours ») et n’enregistre pas les décisions désormais montrées : accord de Serge pour l’appel, rendez-vous du jeudi maintenu, rendez-vous du mardi annulé par Serge après la décision, numéros du cabinet et du 15 au dos de l’enveloppe, prochain point dans trois semaines.",
-                "requested_change": "Réécrire continuity.choice, par exemple : « Avec l’accord de Serge, Armand appelle le second service : le jeudi est maintenu, Serge annule le mardi ; il range l’enveloppe portant le numéro direct du cabinet et le 15, et note le prochain point dans trois semaines ; une question d’Armand lui reste en tête. » Facultatif : remplacer « sous le jeudi qu’il a entouré », ambigu, par la date du point."
-              },
-              {
-                "episode": 9,
-                "issue": "L’ép. 8 fixe désormais un rendez-vous complémentaire « pour le mardi suivant » ; l’ép. 9 se déroule « un mardi matin », la semaine suivant la gêne, sans dire si ce rendez-vous a eu lieu, ce qui laisse une question concrète ouverte entre les deux scènes.",
-                "requested_change": "Ajouter une courte précision, par exemple dans l’ouverture : « Il sort du rendez-vous complémentaire fixé la semaine précédente » ou « Le rendez-vous complémentaire a eu lieu la veille », et la relier à la phrase où Armand précise la suite médicale de la gêne, sans détail clinique."
-              }
-            ],
+            "status": "passed",
+            "findings": [],
             "reviewer": "review_serge"
           }
         }
@@ -5324,26 +5313,14 @@
         "design_sha256": null,
         "dossier_sha256": null,
         "review_sha256": null
-      },
-      "findings": [
-        {
-          "episode": 4,
-          "issue": "Le champ continuity.choice reste l’ancienne formule abstraite (« organise les échanges entre professionnels, précise les démarches retenues et les recours ») et n’enregistre pas les décisions désormais montrées : accord de Serge pour l’appel, rendez-vous du jeudi maintenu, rendez-vous du mardi annulé par Serge après la décision, numéros du cabinet et du 15 au dos de l’enveloppe, prochain point dans trois semaines.",
-          "requested_change": "Réécrire continuity.choice, par exemple : « Avec l’accord de Serge, Armand appelle le second service : le jeudi est maintenu, Serge annule le mardi ; il range l’enveloppe portant le numéro direct du cabinet et le 15, et note le prochain point dans trois semaines ; une question d’Armand lui reste en tête. » Facultatif : remplacer « sous le jeudi qu’il a entouré », ambigu, par la date du point."
-        },
-        {
-          "episode": 9,
-          "issue": "L’ép. 8 fixe désormais un rendez-vous complémentaire « pour le mardi suivant » ; l’ép. 9 se déroule « un mardi matin », la semaine suivant la gêne, sans dire si ce rendez-vous a eu lieu, ce qui laisse une question concrète ouverte entre les deux scènes.",
-          "requested_change": "Ajouter une courte précision, par exemple dans l’ouverture : « Il sort du rendez-vous complémentaire fixé la semaine précédente » ou « Le rendez-vous complémentaire a eu lieu la veille », et la relier à la phrase où Armand précise la suite médicale de la gêne, sans détail clinique."
-        }
-      ]
+      }
     },
     "florence": {
       "character_id": "florence",
       "code": "6D51",
-      "stage": "review",
+      "stage": "ready_to_publish",
       "created_at": "2026-11-07T14:47:42Z",
-      "active_job": "58ec97d9cf0c44c29ece54f913bf42e7",
+      "active_job": null,
       "owners": {
         "character": [
           "personnage_florence"
@@ -5385,56 +5362,20 @@
           }
         },
         "review": {
-          "job_id": "4cfd75b95c034d689237f67972d95c76",
+          "job_id": "58ec97d9cf0c44c29ece54f913bf42e7",
           "owner": "review_florence",
-          "validated_at": "2026-11-12T10:33:15Z",
+          "validated_at": "2026-11-12T10:38:52Z",
           "validation": {
             "character_id": "florence",
             "files": {
               "editorial/clinical/designs/florence.json": "6ae9569ebf637c8a13c521907bb7256397c86029d0d2143ee2b5784239926f3a",
               "editorial/clinical/dossiers/florence.json": "366093c6a06e703ff6264dcd930b54e345e2aee22d900fedd6212b231184110c",
-              "editorial/clinical/florence.json": "eb829eaf3a423d067b4bf67f2dbe25a8fd855324fe07be112787179bc96ac877",
-              "editorial/clinical/reviews/florence.json": "fb4e8292c9a5b47cfdcee0f3f880950b470d17ba6314284bad4e5f52a68d87e5"
+              "editorial/clinical/florence.json": "e97ef86c3fed450334f2d392eb4413514fc16737b0d61bb90637ae97e55cbec7",
+              "editorial/clinical/reviews/florence.json": "e746e6f33bfdd2ef0bdc2c62bdd8da6cdd303b2cbe7237f26c4f20bc6c1a3d5c"
             },
             "episodes": 12,
-            "status": "revision_requested",
-            "findings": [
-              {
-                "episode": 1,
-                "issue": "Lecteur arrivant directement : la scène repose sur des formules procédurales (« dans le cadre déjà validé », « les décisions de protection sont déjà effectives », « Derain lui demande de préciser ce qu’elle a compris », « Florence répond, sans raconter de procédé… ») au lieu d’actions et de paroles. On ne sait ni où elle travaille concrètement, ni que Derain est psychiatre avant la fin du paragraphe, ni ce que Florence répond. Exemples des manifestations trop génériques (« Elle décrit les épreuves du cahier »).",
-                "requested_change": "Réécrire l’ouverture avec lieux et gestes concrets (bureau du service municipal, cabinet de la psychiatre), présenter Derain comme psychiatre dès sa première mention, expliquer en une phrase simple que des professionnels assurent la protection de la personne exposée et que Florence doit respecter ces décisions, et faire entendre la réponse de Florence au discours direct, sans détail de procédé ni de mesure. Rendre les deux exemples de chaque manifestation situés dans la scène."
-              },
-              {
-                "episode": 2,
-                "issue": "Ouverture et développement en grande partie narrés par négations et résumés (« Elle n’ajoute ni scène ancienne ni détail de fabrication », « L’entretien reste centré sur… ») ; Marc n’est pas situé (psychologue de l’équipe spécialisée, lieu). Le miroir s’ouvre sur un conseil général (« Une personne qui entend parler d’un désaccord médical… ») qui ne part d’aucun geste ou parole de la scène.",
-                "requested_change": "Présenter Marc et le lieu dès la première phrase, remplacer les formules négatives par l’échange réel (question de Marc, hésitation et reformulation de Florence au discours direct). Ancrer le miroir dans un geste visible : par exemple Cathy recevant les légendes, ou un proche entendant Florence dire « je voulais que sa santé soit prise au sérieux », avec une réponse qu’il pourrait dire et sa limite."
-              },
-              {
-                "episode": 3,
-                "issue": "La consultation est résumée par des formules (« Elle reprend avec elle les questions utiles à son évaluation », « La médecin lui demande de laisser ouverte celle des motivations ») sans qu’on entende une question de Derain ni une réponse de Florence au-delà de la phrase d’ouverture ; le lecteur ne voit pas comment l’exploration se déroule.",
-                "requested_change": "Montrer au moins une ou deux questions concrètes de Derain et les réponses de Florence au discours direct (sans motif imposé, sans récit d’enfance, sans procédé), puis la phrase par laquelle Florence reconnaît que l’absence de gain ne suffit pas. Situer le cabinet et le bureau où attend le sommaire."
-              },
-              {
-                "episode": 4,
-                "issue": "Le récit insère des commentaires d’auteur à la place de l’action (« Rien n’est dit ici de ce que souhaite la personne exposée… Cette absence d’information n’est pas une invitation à la remplir », « sans la transformer en projet d’envoi ») ; Marc n’est pas présenté et la réponse de Marc reste rapportée.",
-                "requested_change": "Supprimer les phrases métanarratives de l’ouverture, présenter Marc comme psychologue de son équipe spécialisée, faire entendre la question de Marc et la réponse de Florence sur le besoin d’être comprise, et montrer un geste concret de déception (sans contact, message ni intermédiaire)."
-              },
-              {
-                "episode": 5,
-                "issue": "Après une entrée concrète (agenda, téléphone, « J’ai pensé ne pas venir »), le cœur du rendez-vous est résumé par des formules (« Il accueille ce qu’elle permet d’aborder et revient avec elle aux responsabilités et aux limites effectives », « Le rendez-vous ne devient ni une confession exhaustive ni… ») sans parole de Marc ni précision de ce que Florence redoutait.",
-                "requested_change": "Faire entendre une question de Marc et la précision de Florence sur les formulations qu’elle préfère encore employer (bonnes intentions plutôt que responsabilité), puis la façon dont Marc rappelle sa responsabilité, en dialogue, sans récit de procédé. Retirer les phrases qui disent ce que le rendez-vous n’est pas."
-              },
-              {
-                "episode": 6,
-                "issue": "La coordination exigée par le plan n’est pas lisible comme une action : « L’échange prévu avec Nora est effectivement réalisé par la psychiatre. Les professionnelles reprennent les éléments nécessaires à leurs fonctions et confirment la suite applicable. » On ignore quand et comment l’échange a lieu et ce que Florence apprend concrètement (« les consignes qui la concernent » restent opaques).",
-                "requested_change": "Situer l’échange dans la scène (par exemple Derain explique qu’elle appelle Nora à la fin de la consultation comme prévu, puis revient vers Florence) et donner une réponse compréhensible sans inventer de mesure : les décisions restent les mêmes, l’assiduité n’est pas un critère pour les modifier, toute question sur ces décisions s’adresse à Nora par le canal indiqué, et Florence ne reçoit aucune information sur la personne exposée. Garder la fonction et le service de Nora non précisés."
-              },
-              {
-                "episode": 9,
-                "issue": "Raccord de jours : Cathy demande si Florence a passé un bon week-end alors que les pages 17 à 24 ont été « imprimées la veille » et rendues « mardi » ; si la pause a lieu le lundi, l’impression tomberait un dimanche.",
-                "requested_change": "Préciser le jour de la pause et ajuster l’impression (par exemple « imprimées vendredi ») ou la question sur le week-end, pour garder un enchaînement de jours cohérent avec l’épisode 8."
-              }
-            ],
+            "status": "passed",
+            "findings": [],
             "reviewer": "review_florence"
           }
         }
@@ -5446,44 +5387,7 @@
         "design_sha256": null,
         "dossier_sha256": null,
         "review_sha256": null
-      },
-      "findings": [
-        {
-          "episode": 1,
-          "issue": "Lecteur arrivant directement : la scène repose sur des formules procédurales (« dans le cadre déjà validé », « les décisions de protection sont déjà effectives », « Derain lui demande de préciser ce qu’elle a compris », « Florence répond, sans raconter de procédé… ») au lieu d’actions et de paroles. On ne sait ni où elle travaille concrètement, ni que Derain est psychiatre avant la fin du paragraphe, ni ce que Florence répond. Exemples des manifestations trop génériques (« Elle décrit les épreuves du cahier »).",
-          "requested_change": "Réécrire l’ouverture avec lieux et gestes concrets (bureau du service municipal, cabinet de la psychiatre), présenter Derain comme psychiatre dès sa première mention, expliquer en une phrase simple que des professionnels assurent la protection de la personne exposée et que Florence doit respecter ces décisions, et faire entendre la réponse de Florence au discours direct, sans détail de procédé ni de mesure. Rendre les deux exemples de chaque manifestation situés dans la scène."
-        },
-        {
-          "episode": 2,
-          "issue": "Ouverture et développement en grande partie narrés par négations et résumés (« Elle n’ajoute ni scène ancienne ni détail de fabrication », « L’entretien reste centré sur… ») ; Marc n’est pas situé (psychologue de l’équipe spécialisée, lieu). Le miroir s’ouvre sur un conseil général (« Une personne qui entend parler d’un désaccord médical… ») qui ne part d’aucun geste ou parole de la scène.",
-          "requested_change": "Présenter Marc et le lieu dès la première phrase, remplacer les formules négatives par l’échange réel (question de Marc, hésitation et reformulation de Florence au discours direct). Ancrer le miroir dans un geste visible : par exemple Cathy recevant les légendes, ou un proche entendant Florence dire « je voulais que sa santé soit prise au sérieux », avec une réponse qu’il pourrait dire et sa limite."
-        },
-        {
-          "episode": 3,
-          "issue": "La consultation est résumée par des formules (« Elle reprend avec elle les questions utiles à son évaluation », « La médecin lui demande de laisser ouverte celle des motivations ») sans qu’on entende une question de Derain ni une réponse de Florence au-delà de la phrase d’ouverture ; le lecteur ne voit pas comment l’exploration se déroule.",
-          "requested_change": "Montrer au moins une ou deux questions concrètes de Derain et les réponses de Florence au discours direct (sans motif imposé, sans récit d’enfance, sans procédé), puis la phrase par laquelle Florence reconnaît que l’absence de gain ne suffit pas. Situer le cabinet et le bureau où attend le sommaire."
-        },
-        {
-          "episode": 4,
-          "issue": "Le récit insère des commentaires d’auteur à la place de l’action (« Rien n’est dit ici de ce que souhaite la personne exposée… Cette absence d’information n’est pas une invitation à la remplir », « sans la transformer en projet d’envoi ») ; Marc n’est pas présenté et la réponse de Marc reste rapportée.",
-          "requested_change": "Supprimer les phrases métanarratives de l’ouverture, présenter Marc comme psychologue de son équipe spécialisée, faire entendre la question de Marc et la réponse de Florence sur le besoin d’être comprise, et montrer un geste concret de déception (sans contact, message ni intermédiaire)."
-        },
-        {
-          "episode": 5,
-          "issue": "Après une entrée concrète (agenda, téléphone, « J’ai pensé ne pas venir »), le cœur du rendez-vous est résumé par des formules (« Il accueille ce qu’elle permet d’aborder et revient avec elle aux responsabilités et aux limites effectives », « Le rendez-vous ne devient ni une confession exhaustive ni… ») sans parole de Marc ni précision de ce que Florence redoutait.",
-          "requested_change": "Faire entendre une question de Marc et la précision de Florence sur les formulations qu’elle préfère encore employer (bonnes intentions plutôt que responsabilité), puis la façon dont Marc rappelle sa responsabilité, en dialogue, sans récit de procédé. Retirer les phrases qui disent ce que le rendez-vous n’est pas."
-        },
-        {
-          "episode": 6,
-          "issue": "La coordination exigée par le plan n’est pas lisible comme une action : « L’échange prévu avec Nora est effectivement réalisé par la psychiatre. Les professionnelles reprennent les éléments nécessaires à leurs fonctions et confirment la suite applicable. » On ignore quand et comment l’échange a lieu et ce que Florence apprend concrètement (« les consignes qui la concernent » restent opaques).",
-          "requested_change": "Situer l’échange dans la scène (par exemple Derain explique qu’elle appelle Nora à la fin de la consultation comme prévu, puis revient vers Florence) et donner une réponse compréhensible sans inventer de mesure : les décisions restent les mêmes, l’assiduité n’est pas un critère pour les modifier, toute question sur ces décisions s’adresse à Nora par le canal indiqué, et Florence ne reçoit aucune information sur la personne exposée. Garder la fonction et le service de Nora non précisés."
-        },
-        {
-          "episode": 9,
-          "issue": "Raccord de jours : Cathy demande si Florence a passé un bon week-end alors que les pages 17 à 24 ont été « imprimées la veille » et rendues « mardi » ; si la pause a lieu le lundi, l’impression tomberait un dimanche.",
-          "requested_change": "Préciser le jour de la pause et ajuster l’impression (par exemple « imprimées vendredi ») ou la question sur le week-end, pour garder un enchaînement de jours cohérent avec l’épisode 8."
-        }
-      ]
+      }
     },
     "hector": {
       "character_id": "hector",
@@ -108593,8 +108497,8 @@
       "snapshot_sha256": "b8ac4b8b4d515e823a153b5886e8c934a16de079e74a901d018ad9eb13a97190",
       "status": "active",
       "token_sha256": "2b1b0299c58ae886458e3f844db54c540fda991126d9bec10203f4d9b40bba5b",
-      "heartbeat_at": "2026-11-12T10:37:58Z",
-      "expires_at": "2026-11-12T11:37:58Z",
+      "heartbeat_at": "2026-11-12T10:39:40Z",
+      "expires_at": "2026-11-12T11:39:40Z",
       "checkpoints": [
         {
           "at": "2026-11-12T10:33:01Z",
@@ -108688,6 +108592,34 @@
           "observed": {
             "manuscript_sha256": "5e6b2384f8f8614b3421bc47f8b35c1ecb17b3bf4adb2ac1cf670244640a0ec8",
             "episodes_present": 7,
+            "manuscript_readable": true,
+            "design_sha256": "446a3648f24d12ef8f72c7b8709a09ba066d779affd4904f2cfd6d1afe280b21",
+            "dossier_sha256": "850ae8eb3d15d375fabee0a39688ee04782e24b10e542601e5e0ea60218cc0ad",
+            "review_sha256": null
+          }
+        },
+        {
+          "at": "2026-11-12T10:38:51Z",
+          "outputs": {
+            "editorial/clinical/hector.json": "fdd1a67ac0097ad96e3deb41ac9dc93a99e7e7053c17d98bdb2baa7dcebab95e"
+          },
+          "observed": {
+            "manuscript_sha256": "fdd1a67ac0097ad96e3deb41ac9dc93a99e7e7053c17d98bdb2baa7dcebab95e",
+            "episodes_present": 8,
+            "manuscript_readable": true,
+            "design_sha256": "446a3648f24d12ef8f72c7b8709a09ba066d779affd4904f2cfd6d1afe280b21",
+            "dossier_sha256": "850ae8eb3d15d375fabee0a39688ee04782e24b10e542601e5e0ea60218cc0ad",
+            "review_sha256": null
+          }
+        },
+        {
+          "at": "2026-11-12T10:39:40Z",
+          "outputs": {
+            "editorial/clinical/hector.json": "b80d9673e65b8cf5c87c2fea59cc4a73d6cd8a196682e0d15889e1e95e48e20d"
+          },
+          "observed": {
+            "manuscript_sha256": "b80d9673e65b8cf5c87c2fea59cc4a73d6cd8a196682e0d15889e1e95e48e20d",
+            "episodes_present": 9,
             "manuscript_readable": true,
             "design_sha256": "446a3648f24d12ef8f72c7b8709a09ba066d779affd4904f2cfd6d1afe280b21",
             "dossier_sha256": "850ae8eb3d15d375fabee0a39688ee04782e24b10e542601e5e0ea60218cc0ad",
@@ -109097,8 +109029,8 @@
       "snapshot_sha256": "7fd1e3ea5d3ffb9cf6d303c5ab29df59f0602e50e3157d1b5da02984f30e7ce7",
       "status": "active",
       "token_sha256": "eb6e3b7e8d161931a3b6c992498e38b3e68959cdf92a932c3d21d06b36a7e35e",
-      "heartbeat_at": "2026-11-12T10:38:13Z",
-      "expires_at": "2026-11-12T11:38:13Z",
+      "heartbeat_at": "2026-11-12T10:39:06Z",
+      "expires_at": "2026-11-12T11:39:06Z",
       "checkpoints": [
         {
           "at": "2026-11-12T10:33:03Z",
@@ -109192,6 +109124,20 @@
           "observed": {
             "manuscript_sha256": "08e06f5f981dd4903c32f30b21f402749773a0c05791fbf6b8e48f4e2c1b78eb",
             "episodes_present": 7,
+            "manuscript_readable": true,
+            "design_sha256": "c41dfdf0cae416ecb036744ce3ed0f3d24c0afdf34832f99ac58a4b69abc73ef",
+            "dossier_sha256": "fd6d5ceb0a0df7a6e257370471dd030d907bd525378624ac307fcc12e93bd968",
+            "review_sha256": null
+          }
+        },
+        {
+          "at": "2026-11-12T10:39:06Z",
+          "outputs": {
+            "editorial/clinical/bilal.json": "ed3f797dd9cbc0fcc5b58910556f0cd5c215a8e4240d3e302de068cc22abcbf8"
+          },
+          "observed": {
+            "manuscript_sha256": "ed3f797dd9cbc0fcc5b58910556f0cd5c215a8e4240d3e302de068cc22abcbf8",
+            "episodes_present": 8,
             "manuscript_readable": true,
             "design_sha256": "c41dfdf0cae416ecb036744ce3ed0f3d24c0afdf34832f99ac58a4b69abc73ef",
             "dossier_sha256": "fd6d5ceb0a0df7a6e257370471dd030d907bd525378624ac307fcc12e93bd968",
@@ -111448,8 +111394,8 @@
       "snapshot_sha256": "e9a822d41eb38f38186da73bb702a0116a2c855713e88cb27216a92933b44d6a",
       "status": "active",
       "token_sha256": "80232141c4159c2f4e8ab667d5303cef4ef96b884170b64ce89ed467dbe61143",
-      "heartbeat_at": "2026-11-12T10:38:09Z",
-      "expires_at": "2026-11-12T11:38:09Z",
+      "heartbeat_at": "2026-11-12T10:39:01Z",
+      "expires_at": "2026-11-12T11:39:01Z",
       "checkpoints": [
         {
           "at": "2026-11-12T10:34:28Z",
@@ -111529,6 +111475,20 @@
           "observed": {
             "manuscript_sha256": "a92c5e0c087c31cd2c0f6b7dd22088270a7a7231753048af0bc6b937494c3146",
             "episodes_present": 6,
+            "manuscript_readable": true,
+            "design_sha256": "8d88a591a9e08e92e7ebf5cf3b61323f27828aae3dcd12927bc8983b768e3765",
+            "dossier_sha256": "9f8406d860519a4c1f9048de161040706352640e8ee68fa499c8d512147e5f2e",
+            "review_sha256": null
+          }
+        },
+        {
+          "at": "2026-11-12T10:39:01Z",
+          "outputs": {
+            "editorial/clinical/farid.json": "eaf950e11da2c57dc649b73d6373144805e5c41a3efdb0f1646c95a4cae7a8c5"
+          },
+          "observed": {
+            "manuscript_sha256": "eaf950e11da2c57dc649b73d6373144805e5c41a3efdb0f1646c95a4cae7a8c5",
+            "episodes_present": 7,
             "manuscript_readable": true,
             "design_sha256": "8d88a591a9e08e92e7ebf5cf3b61323f27828aae3dcd12927bc8983b768e3765",
             "dossier_sha256": "9f8406d860519a4c1f9048de161040706352640e8ee68fa499c8d512147e5f2e",
@@ -113768,8 +113728,8 @@
       "snapshot_sha256": "ffc5b392b2c4babe5e2b02e8f785edfe0f0093bc6a7be32371fd00c0a6754a1f",
       "status": "active",
       "token_sha256": "26ce0b0500fe9bcce350081662ae1808420520ce1150b1362fc74fe72f5f2f0e",
-      "heartbeat_at": "2026-11-12T10:38:14Z",
-      "expires_at": "2026-11-12T11:38:14Z",
+      "heartbeat_at": "2026-11-12T10:39:07Z",
+      "expires_at": "2026-11-12T11:39:07Z",
       "checkpoints": [
         {
           "at": "2026-11-12T10:35:37Z",
@@ -113821,6 +113781,20 @@
           "observed": {
             "manuscript_sha256": "0993db85f59e275ae4500a348facdd4f2e955a20ddaf7202003fb2bb89665d07",
             "episodes_present": 4,
+            "manuscript_readable": true,
+            "design_sha256": "257fec98799ee8e236e244dcc68d5f8f49b6be8a297d2e88e3aba2308b105608",
+            "dossier_sha256": "c8053e8b6bac33056a1c3257426c6c4710450fda88de8738db057a15ae733fa9",
+            "review_sha256": null
+          }
+        },
+        {
+          "at": "2026-11-12T10:39:07Z",
+          "outputs": {
+            "editorial/clinical/nadege.json": "06a3d1518a970bb3df8fb2fcaa25369c0371dde0d9a113156b02c924a7ea48ad"
+          },
+          "observed": {
+            "manuscript_sha256": "06a3d1518a970bb3df8fb2fcaa25369c0371dde0d9a113156b02c924a7ea48ad",
+            "episodes_present": 5,
             "manuscript_readable": true,
             "design_sha256": "257fec98799ee8e236e244dcc68d5f8f49b6be8a297d2e88e3aba2308b105608",
             "dossier_sha256": "c8053e8b6bac33056a1c3257426c6c4710450fda88de8738db057a15ae733fa9",
@@ -125011,10 +124985,24 @@
         }
       },
       "snapshot_sha256": "52fd2caa9c64fe2c109969088eb1609345db89d62222521c36d6d5c82ae0dee4",
-      "status": "active",
+      "status": "finished",
       "token_sha256": "f7b7a8bf3f554b0347f7ad753642402b87c024c8320aabca4b04aebe5be23ebc",
       "heartbeat_at": "2026-11-12T10:37:38Z",
-      "expires_at": "2026-11-12T11:37:38Z"
+      "expires_at": "2026-11-12T11:37:38Z",
+      "finished_at": "2026-11-12T10:38:52Z",
+      "validation": {
+        "character_id": "florence",
+        "files": {
+          "editorial/clinical/designs/florence.json": "6ae9569ebf637c8a13c521907bb7256397c86029d0d2143ee2b5784239926f3a",
+          "editorial/clinical/dossiers/florence.json": "366093c6a06e703ff6264dcd930b54e345e2aee22d900fedd6212b231184110c",
+          "editorial/clinical/florence.json": "e97ef86c3fed450334f2d392eb4413514fc16737b0d61bb90637ae97e55cbec7",
+          "editorial/clinical/reviews/florence.json": "e746e6f33bfdd2ef0bdc2c62bdd8da6cdd303b2cbe7237f26c4f20bc6c1a3d5c"
+        },
+        "episodes": 12,
+        "status": "passed",
+        "findings": [],
+        "reviewer": "review_florence"
+      }
     },
     "430ea711c9be4af4b8911eb6ac992df9": {
       "id": "430ea711c9be4af4b8911eb6ac992df9",
@@ -126759,11 +126747,25 @@
         }
       },
       "snapshot_sha256": "f5253e90d351e1f4d3cd7ccce219d313bfe459d3138a89e56286e013123bfda0",
-      "status": "active",
+      "status": "finished",
       "token_sha256": "c8d7849981dc388e86d1b0cb4c00492f970de79dace5f1ea081671a0b79cbf70",
       "heartbeat_at": "2026-11-12T10:38:19Z",
-      "expires_at": "2026-11-12T11:38:19Z"
+      "expires_at": "2026-11-12T11:38:19Z",
+      "finished_at": "2026-11-12T10:38:49Z",
+      "validation": {
+        "character_id": "serge",
+        "files": {
+          "editorial/clinical/designs/serge.json": "9d855e9c1026e1b39a3696f65eb63bb81aee86f3be1340ec8042ccdc85238727",
+          "editorial/clinical/dossiers/serge.json": "a3cfbfa2f718c4dbcb8533ce11af976098546fa7f0a3764d351b2ada16bbaa2a",
+          "editorial/clinical/serge.json": "22b3b09d56971b9a42713697445c86a2fe2c8511b28f4a2ff799a44b050d8db8",
+          "editorial/clinical/reviews/serge.json": "c6a686f0857b3016c54506e4330864dac250eed0378c2db77a43ac1b0ede1099"
+        },
+        "episodes": 12,
+        "status": "passed",
+        "findings": [],
+        "reviewer": "review_serge"
+      }
     }
   },
-  "updated_at": "2026-11-12T10:38:19Z"
+  "updated_at": "2026-11-12T10:39:40Z"
 }

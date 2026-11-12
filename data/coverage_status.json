@@ -24,15 +24,15 @@
     "other_frameworks": "APA pédagogique, RDoC recherche et CIF fonctionnement restent des grilles distinctes."
   },
   "counts": {
-    "articles": 1443,
-    "characters": 121,
-    "clinical_arcs": 88,
-    "clinical_episodes": 1056,
+    "articles": 1455,
+    "characters": 122,
+    "clinical_arcs": 89,
+    "clinical_episodes": 1068,
     "original_articles_reviewed": 387,
     "icd11_chapter06_codes": 858,
     "icd11_ungrouped_codes": 10,
-    "icd11_primary_arcs": 84,
-    "clinical_cases_pending": 66,
+    "icd11_primary_arcs": 85,
+    "clinical_cases_pending": 65,
     "other_published_arcs": 4,
     "internal_patterns": 161,
     "internal_patterns_indexed": 161
@@ -200,7 +200,8 @@
       "codes": 3,
       "statuses": {
         "no_standalone_arc_planned": 1,
-        "pending_editorial_case": 2
+        "pending_editorial_case": 1,
+        "published_primary_arc": 1
       }
     },
     {
@@ -11398,12 +11399,30 @@
       "label": "Trouble factice imposé à soi-même",
       "group_id": "BlockL1-6D5",
       "editorial_status": "parcours",
-      "coverage_status": "pending_editorial_case",
+      "coverage_status": "published_primary_arc",
       "reason": "diagnostic_distinct",
       "candidate_ids": [
         "serge"
       ],
-      "published_primary": null,
+      "published_primary": {
+        "character_id": "serge",
+        "name": "Serge",
+        "reviewed_on": "2026-11-12",
+        "articles": [
+          "posts/comprendre-et-maitriser-ses-emotions/serge-coordination-decisions-soin",
+          "posts/comprendre-et-maitriser-ses-emotions/serge-corriger-information-sante",
+          "posts/comprendre-et-maitriser-ses-emotions/serge-engagements-et-role-limite",
+          "posts/comprendre-et-maitriser-ses-emotions/serge-fluctuation-retour-difficulte",
+          "posts/comprendre-et-maitriser-ses-emotions/serge-inexplique-ne-signifie-pas-fabrique",
+          "posts/comprendre-et-maitriser-ses-emotions/serge-objectifs-soin-preuves-limitees",
+          "posts/comprendre-et-maitriser-ses-emotions/serge-participation-ordinaire-suivi-durable",
+          "posts/comprendre-et-maitriser-ses-emotions/serge-peur-blame-alliance",
+          "posts/comprendre-et-maitriser-ses-emotions/serge-role-malade-et-lien",
+          "posts/comprendre-et-maitriser-ses-emotions/serge-sommeil-moral-evaluation",
+          "posts/comprendre-et-maitriser-ses-emotions/serge-soutien-sans-surveillance",
+          "posts/comprendre-et-maitriser-ses-emotions/serge-symptome-nouveau-soins-legitimes"
+        ]
+      },
       "reference_url": "https://icd.who.int/browse/2026-01/mms/fr#790764418"
     },
     {
@@ -12667,13 +12686,6 @@
     }
   ],
   "pending_cases": [
-    {
-      "character_id": "serge",
-      "name": "Serge",
-      "code": "6D50",
-      "label": "Trouble factice imposé à soi-même",
-      "decision": "À documenter puis choisir entre récit, comparaison et dossier."
-    },
     {
       "character_id": "florence",
       "name": "Florence",

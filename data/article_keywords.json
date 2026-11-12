@@ -42578,6 +42578,487 @@
     "clinical_code": "6C43.2",
     "clinical_diagnosis": "Dépendance aux opioïdes"
   },
+  "posts/comprendre-et-maitriser-ses-emotions/serge-coordination-decisions-soin": {
+    "character": "Serge",
+    "character_id": "serge",
+    "keywords": [
+      "Coordination",
+      "Risques iatrogènes",
+      "Accès aux soins"
+    ],
+    "character_keywords": [
+      "Trouble factice imposé à soi-même",
+      "Informations de santé fiables",
+      "Coordination des soins",
+      "Lien et demande d’aide",
+      "Participation et suivi durable"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "35b1011b1efbfcee4652a4fa3eb4365aed2c0ce91049e200ef1ed70b27b229ea",
+    "summary": "Le lundi suivant, Serge apporte une enveloppe épaisse au cabinet du docteur Armand, le médecin qui coordonne ses soins. Il y a réuni les documents demandés au rendez-vous précédent, sans y glisser les pages du calendrier des promenades. Il aimerait que l’enveloppe mette immédiatement de l’ordre dans la situation. Armand sort les feuilles une à une, les répartit en deux piles et note sur un papier ce qui manque encore.\n\n[…]\n\nAvant qu’il parte, Armand fixe le prochain point au cabinet dans trois semaines ; Serge l’inscrit dans son agenda, au lundi correspondant. Sur le trottoir, il appelle le premier service et annule le rendez-vous du mardi, maintenant que la décision a été prise entre médecins. Il glisse l’enveloppe, avec ses deux numéros au dos, dans le tiroir de son entrée. Le soir, il reprend les dates du groupe sans demander à Mireille, la coordinatrice des promenades, de décider lesquels de ses soins méritent une place dans son agenda. Une question d’Armand sur les informations antérieures, posée en relisant les feuilles, lui reste toutefois en tête.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Le lundi suivant, Serge apporte une enveloppe épaisse au cabinet du docteur Armand, le médecin qui coordonne ses soins. Il y a réuni les documents demandés au rendez-vous précédent, sans y glisser les pages du calendrier des promenades. Il aimerait que l’enveloppe mette immédiatement de l’ordre dans la situation. Armand sort les feuilles une à une, les répartit en deux piles et note sur un papier ce qui manque encore.",
+        "start": 2,
+        "end": 423
+      },
+      {
+        "quote": "Avant qu’il parte, Armand fixe le prochain point au cabinet dans trois semaines ; Serge l’inscrit dans son agenda, au lundi correspondant. Sur le trottoir, il appelle le premier service et annule le rendez-vous du mardi, maintenant que la décision a été prise entre médecins. Il glisse l’enveloppe, avec ses deux numéros au dos, dans le tiroir de son entrée. Le soir, il reprend les dates du groupe sans demander à Mireille, la coordinatrice des promenades, de décider lesquels de ses soins méritent une place dans son agenda. Une question d’Armand sur les informations antérieures, posée en relisant les feuilles, lui reste toutefois en tête.",
+        "start": 4651,
+        "end": 5294
+      }
+    ],
+    "canonical_concept": "Coordination et prévention des soins inutiles",
+    "context": "au cabinet avec les documents rassemblés",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour faciliter un suivi coordonné"
+    ],
+    "clinical_code": "6D50",
+    "clinical_diagnosis": "Trouble factice imposé à soi-même"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/serge-corriger-information-sante": {
+    "character": "Serge",
+    "character_id": "serge",
+    "keywords": [
+      "Information fiable",
+      "Responsabilité",
+      "Continuité du soin"
+    ],
+    "character_keywords": [
+      "Trouble factice imposé à soi-même",
+      "Informations de santé fiables",
+      "Coordination des soins",
+      "Lien et demande d’aide",
+      "Participation et suivi durable"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "90ac5293de5f101875f56e031f192bd9fc99a78842f7e87a6af1773167ad4dca",
+    "summary": "Le calendrier des promenades occupe presque toute la table. Serge a tracé des cases assez larges pour que les dates restent lisibles une fois le document affiché à la résidence. Mireille, qui coordonne le groupe de promenade de la résidence, lui demande l’inventaire des créneaux disponibles. Il connaît la réponse pour plusieurs semaines, mais son message reste ouvert. À côté du calendrier, un autre message attend sur son téléphone : celui qui demande un rendez-vous au cabinet du docteur Armand, le médecin qui coordonne ses soins. Il l’a réécrit trois fois sans l’envoyer.\n\n[…]\n\nArmand prend en charge la correction utile au suivi et précise le prochain contact. Serge le maintient. De retour chez lui, il écrit à Mireille qu’il lui enverra l’inventaire des dates le lendemain soir. Il n’ajoute pas le contenu de la consultation. Les cases du calendrier sont encore vides ; elles ont désormais une étape de travail, tandis que la question médicale reste suivie au cabinet.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Le calendrier des promenades occupe presque toute la table. Serge a tracé des cases assez larges pour que les dates restent lisibles une fois le document affiché à la résidence. Mireille, qui coordonne le groupe de promenade de la résidence, lui demande l’inventaire des créneaux disponibles. Il connaît la réponse pour plusieurs semaines, mais son message reste ouvert. À côté du calendrier, un autre message attend sur son téléphone : celui qui demande un rendez-vous au cabinet du docteur Armand, le médecin qui coordonne ses soins. Il l’a réécrit trois fois sans l’envoyer.",
+        "start": 2,
+        "end": 579
+      },
+      {
+        "quote": "Armand prend en charge la correction utile au suivi et précise le prochain contact. Serge le maintient. De retour chez lui, il écrit à Mireille qu’il lui enverra l’inventaire des dates le lendemain soir. Il n’ajoute pas le contenu de la consultation. Les cases du calendrier sont encore vides ; elles ont désormais une étape de travail, tandis que la question médicale reste suivie au cabinet.",
+        "start": 4453,
+        "end": 4846
+      }
+    ],
+    "canonical_concept": "Corriger une information trompeuse",
+    "context": "avant et pendant un rendez-vous médical",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour transmettre une correction au professionnel"
+    ],
+    "clinical_code": "6D50",
+    "clinical_diagnosis": "Trouble factice imposé à soi-même"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/serge-engagements-et-role-limite": {
+    "character": "Serge",
+    "character_id": "serge",
+    "keywords": [
+      "Retentissement",
+      "Engagements réalistes",
+      "Relais pratique"
+    ],
+    "character_keywords": [
+      "Trouble factice imposé à soi-même",
+      "Informations de santé fiables",
+      "Coordination des soins",
+      "Lien et demande d’aide",
+      "Participation et suivi durable"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "b5f9a6e637cd0639713aea0522f41962d55f2c6ac6cb17a25cc917e98ec5e5d8",
+    "summary": "Mireille, qui coordonne le groupe de promenade, a imprimé le brouillon que Serge lui a envoyé la veille au soir avec un mot : « presque complet ». Certaines cases contiennent deux créneaux possibles ; d’autres sont encore vides. Serge reconnaît son document avant même qu’elle le déplie. Après l’envoi des deux créneaux, il avait promis une version complète, puis repoussé la collecte des derniers horaires entre les démarches de soin, les rendez-vous et les messages qu’il hésitait à envoyer.\n\n[…]\n\nSerge prend la mise en page des dates confirmées. Un autre adulte volontaire accepte de recueillir les derniers horaires auprès du groupe, sous la coordination de Mireille. Le soir même, Serge envoie au groupe un nouveau fichier intitulé « Calendrier – version partielle 1 ». Contrairement au brouillon de la veille, il ne se dit pas presque complet : les cases ouvertes restent visibles au lieu d’être présentées comme achevées. Serge n’a pas tenu sa promesse initiale ; il dispose maintenant d’un rôle explicite et d’un relais réellement accepté pour poursuivre.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Mireille, qui coordonne le groupe de promenade, a imprimé le brouillon que Serge lui a envoyé la veille au soir avec un mot : « presque complet ». Certaines cases contiennent deux créneaux possibles ; d’autres sont encore vides. Serge reconnaît son document avant même qu’elle le déplie. Après l’envoi des deux créneaux, il avait promis une version complète, puis repoussé la collecte des derniers horaires entre les démarches de soin, les rendez-vous et les messages qu’il hésitait à envoyer.",
+        "start": 2,
+        "end": 495
+      },
+      {
+        "quote": "Serge prend la mise en page des dates confirmées. Un autre adulte volontaire accepte de recueillir les derniers horaires auprès du groupe, sous la coordination de Mireille. Le soir même, Serge envoie au groupe un nouveau fichier intitulé « Calendrier – version partielle 1 ». Contrairement au brouillon de la veille, il ne se dit pas presque complet : les cases ouvertes restent visibles au lieu d’être présentées comme achevées. Serge n’a pas tenu sa promesse initiale ; il dispose maintenant d’un rôle explicite et d’un relais réellement accepté pour poursuivre.",
+        "start": 4169,
+        "end": 4733
+      }
+    ],
+    "canonical_concept": "Retentissement sur les engagements",
+    "context": "à la résidence avec Mireille",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour rendre un engagement plus fiable"
+    ],
+    "clinical_code": "6D50",
+    "clinical_diagnosis": "Trouble factice imposé à soi-même"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/serge-fluctuation-retour-difficulte": {
+    "character": "Serge",
+    "character_id": "serge",
+    "keywords": [
+      "Fluctuations",
+      "Demande directe",
+      "Maintien du suivi"
+    ],
+    "character_keywords": [
+      "Trouble factice imposé à soi-même",
+      "Informations de santé fiables",
+      "Coordination des soins",
+      "Lien et demande d’aide",
+      "Participation et suivi durable"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "1d5effe1b8b9f7641337190999e2295c283131e03d00a6ed68e2213bea2cb30f",
+    "summary": "Le message de Mireille, qui coordonne le groupe de promenade, arrive à dix-huit heures. Le groupe de promenade a relu le calendrier. « Tout le monde le trouve très clair. Les deux cases grises sont confirmées. Il reste une seule chose : la sortie aux étangs est notée le samedi, alors qu’on avait choisi le dimanche. » Serge relit le message debout dans l’entrée, encore en veste. Il sourit. Il répond qu’il corrigera la date dans la soirée.\n\n[…]\n\nLe lendemain, à midi, Inès le rappelle comme elle l’a proposé en réponse à son message. L’échange dure un quart d’heure. Elle ne le félicite pas et ne lui fait pas de reproche. Elle lui demande ce qui s’est passé juste avant l’envie ; Serge parle du silence de l’appartement après le message de Mireille. Elle lui dit qu’elle en a informé Armand, comme convenu dans leur suivi, et qu’ils reprendront la question de la présence à la prochaine séance, maintenue à la même date. Elle rappelle qu’une gêne nouvelle passe toujours par le contact médical habituel. Le soir, Serge déplace la sortie aux étangs du samedi au dimanche, vérifie l’alignement des cases et renvoie le fichier à Mireille. Il sait que l’envie peut revenir. Cette fois, il a envoyé ce qui était vrai.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Le message de Mireille, qui coordonne le groupe de promenade, arrive à dix-huit heures. Le groupe de promenade a relu le calendrier. « Tout le monde le trouve très clair. Les deux cases grises sont confirmées. Il reste une seule chose : la sortie aux étangs est notée le samedi, alors qu’on avait choisi le dimanche. » Serge relit le message debout dans l’entrée, encore en veste. Il sourit. Il répond qu’il corrigera la date dans la soirée.",
+        "start": 2,
+        "end": 443
+      },
+      {
+        "quote": "Le lendemain, à midi, Inès le rappelle comme elle l’a proposé en réponse à son message. L’échange dure un quart d’heure. Elle ne le félicite pas et ne lui fait pas de reproche. Elle lui demande ce qui s’est passé juste avant l’envie ; Serge parle du silence de l’appartement après le message de Mireille. Elle lui dit qu’elle en a informé Armand, comme convenu dans leur suivi, et qu’ils reprendront la question de la présence à la prochaine séance, maintenue à la même date. Elle rappelle qu’une gêne nouvelle passe toujours par le contact médical habituel. Le soir, Serge déplace la sortie aux étangs du samedi au dimanche, vérifie l’alignement des cases et renvoie le fichier à Mireille. Il sait que l’envie peut revenir. Cette fois, il a envoyé ce qui était vrai.",
+        "start": 5101,
+        "end": 5868
+      }
+    ],
+    "canonical_concept": "Fluctuations et retour d’une difficulté",
+    "context": "chez lui, le soir de la relecture du calendrier",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour faire face au retour d’une difficulté"
+    ],
+    "clinical_code": "6D50",
+    "clinical_diagnosis": "Trouble factice imposé à soi-même"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/serge-inexplique-ne-signifie-pas-fabrique": {
+    "character": "Serge",
+    "character_id": "serge",
+    "keywords": [
+      "Incertitude",
+      "Diagnostic différentiel",
+      "Clarification"
+    ],
+    "character_keywords": [
+      "Trouble factice imposé à soi-même",
+      "Informations de santé fiables",
+      "Coordination des soins",
+      "Lien et demande d’aide",
+      "Participation et suivi durable"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "210c18b6263212a7caa0bdde9810db770ab3d36a22d54f63b3d7cab8627ae6d0",
+    "summary": "Serge a retrouvé le document en classant les papiers destinés au cabinet. Une conclusion ancienne y reste prudente, sans explication certaine. Il l’a lue plusieurs fois depuis la correction transmise à Armand. Peu à peu, il lui a donné un sens plus large : ce qui était resté inexpliqué devait peut-être prouver qu’il avait menti, et le diagnostic actuel venait confirmer tout le passé.\n\n[…]\n\nArmand explique que le diagnostic de Serge reste établi, mais que cette conclusion ancienne ne démontre pas une tromperie sur tout. Ils conviennent de réunir les informations utiles dans un suivi coordonné. Serge range la feuille avec les documents médicaux, sans ajouter sa propre conclusion dans la marge. Elle reste incertaine à l’endroit où elle l’était ; elle n’est plus chargée de raconter toute sa personne.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Serge a retrouvé le document en classant les papiers destinés au cabinet. Une conclusion ancienne y reste prudente, sans explication certaine. Il l’a lue plusieurs fois depuis la correction transmise à Armand. Peu à peu, il lui a donné un sens plus large : ce qui était resté inexpliqué devait peut-être prouver qu’il avait menti, et le diagnostic actuel venait confirmer tout le passé.",
+        "start": 2,
+        "end": 388
+      },
+      {
+        "quote": "Armand explique que le diagnostic de Serge reste établi, mais que cette conclusion ancienne ne démontre pas une tromperie sur tout. Ils conviennent de réunir les informations utiles dans un suivi coordonné. Serge range la feuille avec les documents médicaux, sans ajouter sa propre conclusion dans la marge. Elle reste incertaine à l’endroit où elle l’était ; elle n’est plus chargée de raconter toute sa personne.",
+        "start": 4265,
+        "end": 4679
+      }
+    ],
+    "canonical_concept": "Inexpliqué ne signifie pas fabriqué",
+    "context": "pendant un entretien médical",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour faire préciser un document incertain"
+    ],
+    "clinical_code": "6D50",
+    "clinical_diagnosis": "Trouble factice imposé à soi-même"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/serge-objectifs-soin-preuves-limitees": {
+    "character": "Serge",
+    "character_id": "serge",
+    "keywords": [
+      "Objectifs de soin",
+      "Limites des connaissances",
+      "Réévaluation"
+    ],
+    "character_keywords": [
+      "Trouble factice imposé à soi-même",
+      "Informations de santé fiables",
+      "Coordination des soins",
+      "Lien et demande d’aide",
+      "Participation et suivi durable"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "3ccee873c485c4b015fd86b3382b9d78ca609be5c3c631788bc3ebaeacc45c05",
+    "summary": "Huit jours après le point de suivi, Serge arrive à sa séance avec Inès, la psychologue, une feuille pliée en quatre dans la main. Il y a écrit sa question la veille, à la table de la cuisine, à côté de l’ordinateur où la mise en page du calendrier des promenades avance enfin, case après case. Il a souligné deux fois un mot.\n\n[…]\n\nSerge dit à Inès qu’il poursuit les séances autour des trois objectifs. Ils fixent une réévaluation dans deux mois pour voir ce qui aide, ce qui coince et ce qu’il faudrait changer. Le soir, il termine la mise en page : toutes les dates confirmées sont alignées, deux cases restent marquées « à vérifier par le volontaire ». Il écrit à Mireille, la coordinatrice du groupe de promenade : « Voici la version relisible du calendrier. Les deux cases en gris attendent encore une confirmation. » Avant d’envoyer, il a ajouté une ligne : « Je crois que ça va mieux. » Il l’efface. Ce document parle des promenades, pas de son trouble, et le terminer ne prouve pas que celui-ci a disparu. Il appuie sur « envoyer ». Certaines nuits sont un peu meilleures, d’autres non ; le point prévu dans une douzaine de jours reste à son agenda.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Huit jours après le point de suivi, Serge arrive à sa séance avec Inès, la psychologue, une feuille pliée en quatre dans la main. Il y a écrit sa question la veille, à la table de la cuisine, à côté de l’ordinateur où la mise en page du calendrier des promenades avance enfin, case après case. Il a souligné deux fois un mot.",
+        "start": 2,
+        "end": 327
+      },
+      {
+        "quote": "Serge dit à Inès qu’il poursuit les séances autour des trois objectifs. Ils fixent une réévaluation dans deux mois pour voir ce qui aide, ce qui coince et ce qu’il faudrait changer. Le soir, il termine la mise en page : toutes les dates confirmées sont alignées, deux cases restent marquées « à vérifier par le volontaire ». Il écrit à Mireille, la coordinatrice du groupe de promenade : « Voici la version relisible du calendrier. Les deux cases en gris attendent encore une confirmation. » Avant d’envoyer, il a ajouté une ligne : « Je crois que ça va mieux. » Il l’efface. Ce document parle des promenades, pas de son trouble, et le terminer ne prouve pas que celui-ci a disparu. Il appuie sur « envoyer ». Certaines nuits sont un peu meilleures, d’autres non ; le point prévu dans une douzaine de jours reste à son agenda.",
+        "start": 5208,
+        "end": 6034
+      }
+    ],
+    "canonical_concept": "Objectifs de soin et preuves limitées",
+    "context": "en séance avec Inès puis au cabinet d’Armand",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "Une réussite pratique est prise pour une preuve",
+      "3 techniques pour discuter d’un objectif de soin"
+    ],
+    "clinical_code": "6D50",
+    "clinical_diagnosis": "Trouble factice imposé à soi-même"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/serge-participation-ordinaire-suivi-durable": {
+    "character": "Serge",
+    "character_id": "serge",
+    "keywords": [
+      "Participation ordinaire",
+      "Engagements tenus",
+      "Suivi durable"
+    ],
+    "character_keywords": [
+      "Trouble factice imposé à soi-même",
+      "Informations de santé fiables",
+      "Coordination des soins",
+      "Lien et demande d’aide",
+      "Participation et suivi durable"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "85ab729b2952cbb160dcf18f6c82a4581d3e43e6f27d9f3247e9c8b5d8e023e3",
+    "summary": "Serge le connaît par cœur, mais il le regarde comme s’il le découvrait. Huit sorties, une case par date, la sortie aux étangs bien placée au dimanche. En dernière page, un petit tableau qu’ils ont mis au point ensemble : Mireille choisit les itinéraires et s’occupe de la sécurité ; le volontaire confirme les horaires de départ ; Serge tient à jour les dates et envoie un rappel au groupe la veille de chaque sortie. Si Serge ne peut pas envoyer un rappel, il prévient Mireille, et le volontaire s’en charge.\n\n[…]\n\nSerge répond à Claude : « Avec plaisir. Jeudi je suis pris à dix-sept heures, mais vendredi ça me va, si tu es libre. Prête-moi le livre, je lirai les premiers chapitres. » Il n’ajoute rien sur ses rendez-vous ; ce café sera pour le roman. Claude répond qu’il n’est pas sûr pour vendredi et qu’il lui redira. Serge note « café avec Claude ? » au crayon, avec le point d’interrogation. Le soir, il prépare le premier rappel de la saison et l’enregistre pour l’envoyer la veille de la première sortie. Le calendrier est livré, ses tâches et ses relais sont acceptés. Son suivi continue sans que personne au groupe ait à certifier quoi que ce soit. Il a une contribution concrète, une façon plus directe de demander de la compagnie, et il sait que certaines difficultés pourront encore revenir.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Serge le connaît par cœur, mais il le regarde comme s’il le découvrait. Huit sorties, une case par date, la sortie aux étangs bien placée au dimanche. En dernière page, un petit tableau qu’ils ont mis au point ensemble : Mireille choisit les itinéraires et s’occupe de la sécurité ; le volontaire confirme les horaires de départ ; Serge tient à jour les dates et envoie un rappel au groupe la veille de chaque sortie. Si Serge ne peut pas envoyer un rappel, il prévient Mireille, et le volontaire s’en charge.",
+        "start": 304,
+        "end": 813
+      },
+      {
+        "quote": "Serge répond à Claude : « Avec plaisir. Jeudi je suis pris à dix-sept heures, mais vendredi ça me va, si tu es libre. Prête-moi le livre, je lirai les premiers chapitres. » Il n’ajoute rien sur ses rendez-vous ; ce café sera pour le roman. Claude répond qu’il n’est pas sûr pour vendredi et qu’il lui redira. Serge note « café avec Claude ? » au crayon, avec le point d’interrogation. Le soir, il prépare le premier rappel de la saison et l’enregistre pour l’envoyer la veille de la première sortie. Le calendrier est livré, ses tâches et ses relais sont acceptés. Son suivi continue sans que personne au groupe ait à certifier quoi que ce soit. Il a une contribution concrète, une façon plus directe de demander de la compagnie, et il sait que certaines difficultés pourront encore revenir.",
+        "start": 4829,
+        "end": 5620
+      }
+    ],
+    "canonical_concept": "Participation ordinaire et suivi durable",
+    "context": "à l’accueil de la résidence, le jour où le calendrier est accepté",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour clore un projet sans fermer le suivi"
+    ],
+    "clinical_code": "6D50",
+    "clinical_diagnosis": "Trouble factice imposé à soi-même"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/serge-peur-blame-alliance": {
+    "character": "Serge",
+    "character_id": "serge",
+    "keywords": [
+      "Alliance de soin",
+      "Peur du blâme",
+      "Clarification"
+    ],
+    "character_keywords": [
+      "Trouble factice imposé à soi-même",
+      "Informations de santé fiables",
+      "Coordination des soins",
+      "Lien et demande d’aide",
+      "Participation et suivi durable"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "47854f5877d3f8344d6d2efecc443170afcc6a05845b467dcfcf3b8e1a7b7740",
+    "summary": "Le message de confirmation d’Inès, la psychologue qui le suit, est encore ouvert : rendez-vous mercredi à quinze heures. Serge a posé son téléphone à côté du calendrier, puis l’a repris. Il pourrait annuler l’entretien. Depuis le rendez-vous avec Armand, une question précise sur les informations corrigées revient dans son esprit. Il l’a entendue comme si le médecin cherchait à mesurer ce qu’il méritait désormais de recevoir.\n\n[…]\n\nL’entretien a lieu jusqu’au bout. Ils conviennent de deux choses. Si une question le blesse, Serge pourra le dire, en séance ou directement à Armand, plutôt que d’annuler le rendez-vous suivant. Et, avec son accord, Inès parlera à Armand de la peur qu’a suscitée sa question, sans rien changer à ce qui doit être vérifié. Serge note les deux points dans son agenda et garde le rendez-vous suivant. La gêne n’a pas disparu et il ne sait pas encore comment il recevra une prochaine question difficile. En sortant, il voit le message de Mireille, la coordinatrice du groupe : la version complète du calendrier, promise après l’envoi des deux créneaux, tarde. Ce retard a besoin d’une réponse sur les tâches, pas d’un procès médical au sein du groupe.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Le message de confirmation d’Inès, la psychologue qui le suit, est encore ouvert : rendez-vous mercredi à quinze heures. Serge a posé son téléphone à côté du calendrier, puis l’a repris. Il pourrait annuler l’entretien. Depuis le rendez-vous avec Armand, une question précise sur les informations corrigées revient dans son esprit. Il l’a entendue comme si le médecin cherchait à mesurer ce qu’il méritait désormais de recevoir.",
+        "start": 2,
+        "end": 430
+      },
+      {
+        "quote": "L’entretien a lieu jusqu’au bout. Ils conviennent de deux choses. Si une question le blesse, Serge pourra le dire, en séance ou directement à Armand, plutôt que d’annuler le rendez-vous suivant. Et, avec son accord, Inès parlera à Armand de la peur qu’a suscitée sa question, sans rien changer à ce qui doit être vérifié. Serge note les deux points dans son agenda et garde le rendez-vous suivant. La gêne n’a pas disparu et il ne sait pas encore comment il recevra une prochaine question difficile. En sortant, il voit le message de Mireille, la coordinatrice du groupe : la version complète du calendrier, promise après l’envoi des deux créneaux, tarde. Ce retard a besoin d’une réponse sur les tâches, pas d’un procès médical au sein du groupe.",
+        "start": 4370,
+        "end": 5117
+      }
+    ],
+    "canonical_concept": "Peur du blâme et alliance",
+    "context": "avant un entretien avec la psychologue",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour parler d’un échange de soin mal vécu"
+    ],
+    "clinical_code": "6D50",
+    "clinical_diagnosis": "Trouble factice imposé à soi-même"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/serge-role-malade-et-lien": {
+    "character": "Serge",
+    "character_id": "serge",
+    "keywords": [
+      "Rôle de malade",
+      "Besoin de présence",
+      "Demande directe"
+    ],
+    "character_keywords": [
+      "Trouble factice imposé à soi-même",
+      "Informations de santé fiables",
+      "Coordination des soins",
+      "Lien et demande d’aide",
+      "Participation et suivi durable"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "caf34056961ce45a117e81dbad0febd600d0b8164622bbc15f4adfab2c02cdb1",
+    "summary": "L’inventaire est arrivé chez Mireille à l’heure annoncée. Elle rappelle Serge pour choisir entre deux créneaux. Il a les dates sous les yeux, mais répond d’abord en parlant de son prochain contact avec Armand. Mireille l’écoute, puis revient au calendrier. Il cite encore une consultation, comme si la conversation ne pouvait rester longtemps sur ce qu’il prépare.\n\n[…]\n\nSerge demande à Claude s’il serait disponible pour un café. Il n’ajoute pas de prétexte médical. Son ami n’a pas encore répondu lorsqu’il renvoie à Mireille les deux créneaux possibles. Avec Inès, l’exploration de ce besoin reste ouverte. Une demande plus directe ne lui garantit pas une présence ; elle permet au moins que la réponse porte sur ce qu’il souhaite vraiment.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "L’inventaire est arrivé chez Mireille à l’heure annoncée. Elle rappelle Serge pour choisir entre deux créneaux. Il a les dates sous les yeux, mais répond d’abord en parlant de son prochain contact avec Armand. Mireille l’écoute, puis revient au calendrier. Il cite encore une consultation, comme si la conversation ne pouvait rester longtemps sur ce qu’il prépare.",
+        "start": 2,
+        "end": 366
+      },
+      {
+        "quote": "Serge demande à Claude s’il serait disponible pour un café. Il n’ajoute pas de prétexte médical. Son ami n’a pas encore répondu lorsqu’il renvoie à Mireille les deux créneaux possibles. Avec Inès, l’exploration de ce besoin reste ouverte. Une demande plus directe ne lui garantit pas une présence ; elle permet au moins que la réponse porte sur ce qu’il souhaite vraiment.",
+        "start": 4047,
+        "end": 4419
+      }
+    ],
+    "canonical_concept": "Place du rôle de malade",
+    "context": "pendant la préparation des créneaux",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour exprimer un besoin de présence"
+    ],
+    "clinical_code": "6D50",
+    "clinical_diagnosis": "Trouble factice imposé à soi-même"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/serge-sommeil-moral-evaluation": {
+    "character": "Serge",
+    "character_id": "serge",
+    "keywords": [
+      "Sommeil et moral",
+      "Évaluation séparée",
+      "Contact en cas de changement"
+    ],
+    "character_keywords": [
+      "Trouble factice imposé à soi-même",
+      "Informations de santé fiables",
+      "Coordination des soins",
+      "Lien et demande d’aide",
+      "Participation et suivi durable"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "de2e52a5a536b38f4312f26f18be154f864448d8f217c356e1c4beaaac184eb7",
+    "summary": "Le point de suivi a lieu un mardi matin, dans le bureau d’Inès, la psychologue qui accompagne Serge. Il arrive directement du rendez-vous complémentaire fixé la semaine précédente par le docteur Armand. Le docteur Armand, le médecin qui coordonne ses soins, s’est joint à eux pour la première demi-heure, comme ils l’avaient décidé à la fin de la consultation pour la gêne physique. Serge a apporté son agenda et, par habitude, une copie du calendrier des promenades pliée en trois. Il la laisse dans sa poche.\n\n[…]\n\nAvant la fin de l’entretien, Inès fixe un nouveau point dans trois semaines pour reprendre le sommeil et le moral. Sur une carte de rendez-vous, elle écrit le contact du cabinet à utiliser si son état change d’ici là et, en dessous, les numéros d’urgence. Armand, qui a reçu les éléments du rendez-vous complémentaire du matin, précise la suite médicale de la gêne évaluée la semaine précédente. Aucun diagnostic nouveau n’est posé ce jour-là : Serge repart avec une période à observer et une date. Le soir, il glisse la carte dans son portefeuille, puis répond enfin à Mireille : « Je reprends seulement la mise en page des dates confirmées. Je te l’envoie dans dix jours. » Il ne parle ni de ses nuits ni de l’entretien. Mireille répond : « Parfait, dix jours. » Il ne sait pas encore si ses nuits vont s’améliorer.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Le point de suivi a lieu un mardi matin, dans le bureau d’Inès, la psychologue qui accompagne Serge. Il arrive directement du rendez-vous complémentaire fixé la semaine précédente par le docteur Armand. Le docteur Armand, le médecin qui coordonne ses soins, s’est joint à eux pour la première demi-heure, comme ils l’avaient décidé à la fin de la consultation pour la gêne physique. Serge a apporté son agenda et, par habitude, une copie du calendrier des promenades pliée en trois. Il la laisse dans sa poche.",
+        "start": 2,
+        "end": 512
+      },
+      {
+        "quote": "Avant la fin de l’entretien, Inès fixe un nouveau point dans trois semaines pour reprendre le sommeil et le moral. Sur une carte de rendez-vous, elle écrit le contact du cabinet à utiliser si son état change d’ici là et, en dessous, les numéros d’urgence. Armand, qui a reçu les éléments du rendez-vous complémentaire du matin, précise la suite médicale de la gêne évaluée la semaine précédente. Aucun diagnostic nouveau n’est posé ce jour-là : Serge repart avec une période à observer et une date. Le soir, il glisse la carte dans son portefeuille, puis répond enfin à Mireille : « Je reprends seulement la mise en page des dates confirmées. Je te l’envoie dans dix jours. » Il ne parle ni de ses nuits ni de l’entretien. Mireille répond : « Parfait, dix jours. » Il ne sait pas encore si ses nuits vont s’améliorer.",
+        "start": 5617,
+        "end": 6434
+      }
+    ],
+    "canonical_concept": "Évaluer la santé psychique associée",
+    "context": "lors d’un point de suivi avec Inès et Armand",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour préparer l’évaluation d’un changement psychique"
+    ],
+    "clinical_code": "6D50",
+    "clinical_diagnosis": "Trouble factice imposé à soi-même"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/serge-soutien-sans-surveillance": {
+    "character": "Serge",
+    "character_id": "serge",
+    "keywords": [
+      "Soutien choisi",
+      "Limites",
+      "Relation ordinaire"
+    ],
+    "character_keywords": [
+      "Trouble factice imposé à soi-même",
+      "Informations de santé fiables",
+      "Coordination des soins",
+      "Lien et demande d’aide",
+      "Participation et suivi durable"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "e69424de6a2fd724b3e8e7d8438f624627dac1a4af66fb46788b78c2323000e3",
+    "summary": "Claude répond enfin à la proposition de café : il peut venir jeudi, pendant une heure. Serge inscrit l’horaire dans son agenda. Cette précision lui plaît. Il imagine déjà pouvoir lui parler du calendrier, puis des rendez-vous, et peut-être lui demander de l’accompagner plus souvent. Avoir quelqu’un qui vérifierait avec lui ce qu’il raconte lui paraît rassurant, même s’il ne sait pas exactement ce qu’il attend de cette vérification.\n\n[…]\n\nLe café se termine à l’heure convenue. Claude remet sa veste ; Serge ne lui demande pas de prolonger pour vérifier une dernière question médicale. Il garde cette question pour ses soignants. Ils ont aussi parlé du calendrier et d’une carte mal repliée. Ce moment ne résout pas le trouble, mais il existe sans compte rendu obligatoire ni examen de sincérité. Claude peut rester un ami avec une disponibilité limitée.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Claude répond enfin à la proposition de café : il peut venir jeudi, pendant une heure. Serge inscrit l’horaire dans son agenda. Cette précision lui plaît. Il imagine déjà pouvoir lui parler du calendrier, puis des rendez-vous, et peut-être lui demander de l’accompagner plus souvent. Avoir quelqu’un qui vérifierait avec lui ce qu’il raconte lui paraît rassurant, même s’il ne sait pas exactement ce qu’il attend de cette vérification.",
+        "start": 2,
+        "end": 437
+      },
+      {
+        "quote": "Le café se termine à l’heure convenue. Claude remet sa veste ; Serge ne lui demande pas de prolonger pour vérifier une dernière question médicale. Il garde cette question pour ses soignants. Ils ont aussi parlé du calendrier et d’une carte mal repliée. Ce moment ne résout pas le trouble, mais il existe sans compte rendu obligatoire ni examen de sincérité. Claude peut rester un ami avec une disponibilité limitée.",
+        "start": 4004,
+        "end": 4419
+      }
+    ],
+    "canonical_concept": "Soutien choisi sans surveillance",
+    "context": "lors d’un café avec Claude",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour demander un soutien limité"
+    ],
+    "clinical_code": "6D50",
+    "clinical_diagnosis": "Trouble factice imposé à soi-même"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/serge-symptome-nouveau-soins-legitimes": {
+    "character": "Serge",
+    "character_id": "serge",
+    "keywords": [
+      "Symptôme nouveau",
+      "Accès aux soins",
+      "Évaluation médicale"
+    ],
+    "character_keywords": [
+      "Trouble factice imposé à soi-même",
+      "Informations de santé fiables",
+      "Coordination des soins",
+      "Lien et demande d’aide",
+      "Participation et suivi durable"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "e2999257948bd216b1d23b2a4e93d562840558c6fbf4a1cc5b7c60b7eed842dc",
+    "summary": "La version partielle du calendrier attend sa correction sur la table. Serge vient de recevoir les derniers horaires, mais une gêne physique nouvelle l’empêche de se concentrer sur les cases. Il la remarque, attend quelques instants, puis prend son téléphone. Ce qui l’arrête n’est pas seulement l’incertitude sur ce qu’il ressent : il craint qu’un nouvel appel soit reçu comme une répétition du trouble factice.\n\n[…]\n\nL’évaluation a eu lieu et Armand précise la suite nécessaire sans attribuer automatiquement la gêne au trouble factice. Le point sur le sommeil et le moral est organisé. Serge informe Mireille, la coordinatrice du groupe, qu’il doit décaler la correction de mise en page ; il propose de reprendre après ce temps de soins. Il ne lui envoie pas les détails médicaux et ne lui demande pas de certifier qu’il avait raison de consulter.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "La version partielle du calendrier attend sa correction sur la table. Serge vient de recevoir les derniers horaires, mais une gêne physique nouvelle l’empêche de se concentrer sur les cases. Il la remarque, attend quelques instants, puis prend son téléphone. Ce qui l’arrête n’est pas seulement l’incertitude sur ce qu’il ressent : il craint qu’un nouvel appel soit reçu comme une répétition du trouble factice.",
+        "start": 2,
+        "end": 413
+      },
+      {
+        "quote": "L’évaluation a eu lieu et Armand précise la suite nécessaire sans attribuer automatiquement la gêne au trouble factice. Le point sur le sommeil et le moral est organisé. Serge informe Mireille, la coordinatrice du groupe, qu’il doit décaler la correction de mise en page ; il propose de reprendre après ce temps de soins. Il ne lui envoie pas les détails médicaux et ne lui demande pas de certifier qu’il avait raison de consulter.",
+        "start": 4459,
+        "end": 4890
+      }
+    ],
+    "canonical_concept": "Préserver les soins légitimes",
+    "context": "chez lui puis au cabinet",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour signaler un changement de santé"
+    ],
+    "clinical_code": "6D50",
+    "clinical_diagnosis": "Trouble factice imposé à soi-même"
+  },
   "posts/comprendre-et-maitriser-ses-emotions/solene-amenagement-horaires-deux-colonnes": {
     "character": "Solène",
     "character_id": "solene",

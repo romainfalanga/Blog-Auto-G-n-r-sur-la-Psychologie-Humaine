@@ -337,7 +337,7 @@
       ],
       "clinical_focus": "Hallucinations visuelles bien formées dans l’atelier",
       "clinical_intro": "Dans la démence à corps de Lewy, il arrive que la personne voie de façon répétée des scènes précises, souvent des personnes ou des enfants, que les autres ne voient pas. Elle peut en parler avec plus ou moins de recul et d’émotion. Quand Farid décrit un petit garçon dans l’atelier, la réponse de son fils compte davantage pour son apaisement que la question de savoir qui a raison.",
-      "opening": "Lundi soir, un peu après vingt heures. Farid range dans une boîte à chaussures les étiquettes de carton déjà remplies, par ordre d’année. La page de Gilles Perrot, le président du musée, est posée sous le poste à cadran vert ; il la lira un autre matin. Dehors, la rue est calme. Seule la petite lampe de l’établi est allumée.\n\nQuand il lève la tête, un enfant est assis sur le bord de l’établi. Sept ou huit ans, un pull bleu, les jambes qui pendent et se balancent un peu. Il ne dit rien, il regarde les postes. Farid ne bouge pas. L’enfant n’a pas l’air perdu, ni triste. Il est là, simplement, comme un client qui attend que la réparation soit finie.\n\nLe téléphone sonne. C’est Anis, son fils, professeur de technologie, qui appelle de chez lui. « Papa, je voulais savoir à quelle heure Mme Diallo passe jeudi, pour que je ne t’appelle pas en plein milieu. » Farid répond « neuf heures », puis ajoute, à voix basse : « Il y a un petit garçon chez moi. Sur l’établi. »\n\nÀ l’autre bout, Anis inspire. La phrase est prête dans sa bouche : il n’y a personne, papa, tu es seul. Il connaît la maison, il sait que la porte du garage est fermée à clé. Il s’arrête pourtant. Il se rappelle ce que la docteure Tissier, la neurologue de son père, avait dit lors de l’annonce du diagnostic : contredire n’aide pas, entrer dans le récit non plus. Il entend la respiration de son père, régulière. Il cherche une autre question.",
+      "opening": "Lundi soir, un peu après vingt heures. Farid range dans une boîte à chaussures les étiquettes de carton déjà remplies, par ordre d’année. La page de Gilles Perrot, le président du musée, est posée sous le poste à cadran vert ; il la lira un autre matin. Dehors, la rue est calme. Seule la petite lampe de l’établi est allumée.\n\nQuand il lève la tête, un enfant est assis sur le bord de l’établi. Sept ou huit ans, un pull bleu, les jambes qui pendent et se balancent un peu. Il ne dit rien, il regarde les postes. Farid ne bouge pas. L’enfant n’a pas l’air perdu, ni triste. Il est là, simplement, comme un client qui attend que la réparation soit finie.\n\nLe téléphone sonne. C’est Anis, son fils, professeur de technologie, qui appelle de chez lui. « Papa, je voulais savoir à quelle heure Mme Diallo passe jeudi, pour que je ne t’appelle pas en plein milieu. » Mme Diallo, l’assistante de soins en gérontologie de l’équipe de soutien au domicile, vient chaque jeudi matin. Farid répond « neuf heures », puis ajoute, à voix basse : « Il y a un petit garçon chez moi. Sur l’établi. »\n\nÀ l’autre bout, Anis inspire. La phrase est prête dans sa bouche : il n’y a personne, papa, tu es seul. Il connaît la maison, il sait que la porte du garage est fermée à clé. Il s’arrête pourtant. Il se rappelle ce que la docteure Tissier, la neurologue de son père, avait dit lors de l’annonce du diagnostic : contredire n’aide pas, entrer dans le récit non plus. Il entend la respiration de son père, régulière. Il cherche une autre question.",
       "sections": [
         {
           "role": "explanation",
@@ -636,6 +636,111 @@
       "continuity": {
         "choice": "Avec l’accord de Farid, Anis lit en consultation la ligne de la nuit ; la docteure Tissier propose une consultation spécialisée du sommeil, conseille d’aborder la chambre avec l’équipe du jeudi et remplit une carte (diagnostic, contact de son service, demande de la joindre avant toute modification de traitement). Farid éloigne la table de chevet.",
         "next": "Le samedi suivant, de retour à l’atelier, Farid voudra resserrer le cadran de la radio de bakélite crème, et c’est le geste lui-même qui deviendra plus lent."
+      },
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 7,
+      "slug": "farid-lenteur-tremblement-geste-fer-a-souder",
+      "title": "La lenteur et le tremblement de repos changent le geste de métier",
+      "description": "Le tournevis tremble quand la main repose, chaque vis prend longtemps : Farid hésite devant son fer à souder. Garder son savoir-faire en confiant le geste.",
+      "context": "à l’atelier, un samedi matin",
+      "topics": [
+        "signes parkinsoniens",
+        "savoir-faire préservé",
+        "déléguer un geste à risque"
+      ],
+      "clinical_focus": "Lenteur des gestes et tremblement de repos",
+      "clinical_intro": "La démence à corps de Lewy s’accompagne souvent de signes proches de ceux de la maladie de Parkinson : gestes plus lents, tremblement quand la main est au repos, raideur. Ils modifient la façon de faire sans effacer le savoir. Devant une radio à resserrer et un fer à souder, Farid doit décider de ce qu’il garde et de ce qu’il confie.",
+      "opening": "Samedi, neuf heures et demie, le lendemain de la consultation. Farid s’installe à l’établi avec la radio de bakélite crème, celle que Gilles Perrot, le président du musée Les Lampes du Faubourg, avait ouverte lundi. Le cadran a un peu de jeu ; deux vis à resserrer, rien de plus. Anis, son fils, est chez lui avec ses copies à corriger. La page des propositions de Gilles est toujours sous le poste à cadran vert, sans réponse.\n\nFarid pose le poignet sur le bois pour viser la première vis. Le tournevis se met à trembler, un petit va-et-vient régulier, la pointe qui danse autour de la fente. Quand il lève la main pour tourner, le tremblement diminue, mais le geste est lent, comme freiné. La première vis lui prend plusieurs minutes. La deuxième aussi. Autrefois, il faisait dix postes dans une matinée.\n\nÀ côté, sur son support, le fer à souder attend. Une soudure du cadran est sèche, il l’a vue en ouvrant. Il l’a refaite des milliers de fois. Il branche le fer, regarde le voyant rouge s’allumer, puis regarde sa main droite posée sur l’établi, qui tremble encore. Il pense au fil de soudure qu’il faut tenir de l’autre main, à la pointe brûlante à quelques millimètres du boîtier.\n\nIl ne se trouve pas maladroit. Ses doigts savent où aller. Mais il y a désormais un écart entre ce qu’ils savent et ce qu’ils font, et il n’aime pas l’idée de le découvrir avec un fer chaud à la main.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Des signes moteurs qui changent la façon de faire",
+          "text": "La démence due à une maladie à corps de Lewy peut comporter des signes dits parkinsoniens : une lenteur des mouvements, un tremblement qui apparaît quand le membre est au repos, ou une raideur. Un seul de ces signes peut être présent. Ils modifient la façon d’agir sans faire disparaître les connaissances et l’habileté acquises. Chez une personne âgée, d’autres causes, comme une arthrose ou une douleur articulaire, peuvent aussi gêner les gestes : elles méritent d’être signalées au médecin pour ne pas être confondues. Chez Farid, la scène montre le contraste : le tremblement apparaît quand le poignet repose sur l’établi et se réduit quand il bouge, la vis est bien placée mais lentement serrée. Son métier reste intact dans sa tête ; c’est l’exécution qui a changé. La question qui se pose n’est pas « est-il encore capable ? », mais « quel geste garder, et lequel confier ? »."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment la lenteur et le tremblement apparaissent-ils dans un geste précis ?",
+          "points": [
+            {
+              "heading": "Un tremblement quand la main est posée",
+              "text": "Le tremblement de repos se voit surtout quand le membre ne fait rien et peut diminuer pendant le mouvement.",
+              "examples": [
+                "La pointe du tournevis danse autour de la fente quand le poignet repose sur l’établi.",
+                "Le tremblement diminue quand Farid lève la main pour tourner."
+              ]
+            },
+            {
+              "heading": "Un geste freiné",
+              "text": "La lenteur allonge chaque action, même simple et bien connue.",
+              "examples": [
+                "Chaque vis lui prend plusieurs minutes.",
+                "Il compare à l’époque où il réparait dix postes dans une matinée."
+              ]
+            },
+            {
+              "heading": "Un écart entre savoir et faire",
+              "text": "La personne sait exactement ce qu’il faut faire, mais l’exécution ne suit plus au même rythme.",
+              "examples": [
+                "Farid repère la soudure sèche en un coup d’œil.",
+                "Il hésite à tenir le fer et le fil de soudure en même temps."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour garder son métier quand le geste change",
+          "points": [
+            {
+              "heading": "Décomposer le geste et choisir sa part",
+              "objective": "Garder les étapes qui restent sûres et satisfaisantes.",
+              "exercise": [
+                "Lister les étapes d’une réparation, du diagnostic à la fermeture du boîtier.",
+                "Marquer celles que Farid veut et peut continuer à faire.",
+                "Repérer celles qui présentent un risque de brûlure ou de chute d’objet."
+              ],
+              "benefit": "Le projet reste celui de Farid, avec une part de gestes qu’il choisit."
+            },
+            {
+              "heading": "Demander un avis d’ergothérapie",
+              "objective": "Adapter le poste de travail avec un professionnel.",
+              "exercise": [
+                "Contacter l’équipe de soutien pour demander une visite de l’ergothérapeute.",
+                "Montrer l’établi, les outils et les gestes qui posent problème.",
+                "Signaler aussi à la neurologue toute douleur ou raideur articulaire."
+              ],
+              "benefit": "L’ergothérapeute peut proposer un aménagement ; cela ne traite pas les signes moteurs."
+            },
+            {
+              "heading": "Confier le geste à risque et diriger l’opération",
+              "objective": "Transmettre le geste dangereux sans perdre la main sur la réparation.",
+              "exercise": [
+                "Choisir une personne compétente à qui confier le geste.",
+                "Lui transmettre ses notes et ses réglages.",
+                "Être présent ou relire le résultat, s’il le souhaite."
+              ],
+              "benefit": "Le savoir de Farid continue de servir, sans qu’il prenne un risque qu’il ne veut pas."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Le fer débranché",
+      "ending": "Farid débranche le fer avant que la pointe soit chaude et le repose sur son support. Il prend son téléphone et écrit, lentement, à Maryse, la technicienne bénévole du musée : « Soudure sèche sur la bakélite crème, côté cadran. Je vous dicterai les réglages, vous tiendrez le fer. Je garde les vis et les étiquettes. » Elle répond une heure plus tard : « Avec plaisir, vous me direz quand. »\n\nIl ouvre ensuite le cahier à trois colonnes et écrit lui-même : « samedi, tremblement de la main droite au repos, gestes lents ». Troisième colonne : « oui, à la docteure ». Il laisse un message sur le répondeur de l’équipe de soutien. Lundi, la secrétaire rappelle : Hugo Lambert, l’ergothérapeute, passera jeudi vers onze heures, après la visite de Mme Diallo, l’assistante de soins en gérontologie de la même équipe, pour regarder l’établi. Farid range le fer à souder dans le tiroir du bas. Il n’a pas décidé de ne plus jamais s’en servir ; il a décidé que ce n’était pas à lui de le tenir pour l’instant.",
+      "conclusion": "La lenteur et le tremblement de repos de la démence à corps de Lewy changent l’exécution des gestes sans effacer le savoir. Farid confie le fer à Maryse tout en gardant la direction de la réparation, signale lui-même ces signes pour sa neurologue et attend l’avis de l’ergothérapeute.",
+      "mirror": [
+        "Un proche qui voit le tournevis trembler peut avoir envie de prendre l’outil. Il peut plutôt demander : « Quelle partie tu veux garder, et laquelle tu veux confier ? » S’il remarque un fer branché et une main qui tremble, il peut dire calmement ce qu’il voit et proposer de débrancher ensemble, sans retirer à la personne tout son atelier. Les décisions sur l’aménagement reviennent à la personne et à l’ergothérapeute, et les signes moteurs à la neurologue."
+      ],
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "mckeith-2017",
+        "nice-ng97"
+      ],
+      "continuity": {
+        "choice": "Farid débranche le fer et le range ; à partir de là, il ne l’utilise plus. Maryse tiendra le fer selon ses réglages ; il garde les vis et les étiquettes. Il note lui-même le tremblement dans le cahier. Hugo Lambert doit venir jeudi vers onze heures, après Mme Diallo (neuf heures).",
+        "next": "Le jeudi suivant, pendant la visite de Mme Diallo et avant l’arrivée d’Hugo, Farid tombera en voulant attraper le transistor rouge sur l’étagère haute, et une réponse urgente sera nécessaire."
       },
       "diagnostic_stage": "known"
     }

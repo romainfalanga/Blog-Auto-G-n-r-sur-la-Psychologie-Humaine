@@ -428,6 +428,111 @@
       },
       "clinical_focus": "Partager son attention entre parler et faire",
       "diagnostic_stage": "known"
+    },
+    {
+      "number": 5,
+      "slug": "nadege-demence-legere-difficultes-invisibles-comptes",
+      "title": "Une démence légère invisible pour qui la connaît peu",
+      "description": "Karima pense qu’une ancienne commerçante fera vite le budget de l’atelier ; Nadège peine sur les calculs et n’ose pas le dire, faute de signe visible.",
+      "context": "à la table du salon devant un budget",
+      "topics": [
+        "Démence due à une maladie cérébrovasculaire",
+        "sévérité légère",
+        "calculs et décisions complexes"
+      ],
+      "clinical_intro": "À un stade que l’équipe qualifie de léger, une personne atteinte de démence peut vivre seule, participer à la vie sociale et sembler n’avoir rien pour ceux qui la connaissent peu. Les difficultés apparaissent plutôt dans les calculs, les comptes et les décisions à plusieurs étapes. Nadège le vit quand on lui confie un budget en la croyant parfaitement à l’aise.",
+      "opening": "Mercredi dernier, Bastien, son filleul, a tourné la deuxième vidéo, le Paris-Brest, en deux séances comme le disait la fiche. Ce lundi de mi-décembre, c’est un autre papier qui attend sur la table du salon. Karima, qui anime la maison de quartier des Ponts, le lui a tendu à la sortie de la réunion des bénévoles : « Le budget des ingrédients pour l’atelier, huit personnes, sablés et pâte à choux. On a soixante euros. Vous qui avez tenu une boutique, ce sera vite fait. » Tout le monde a souri. Nadège aussi.\n\nElle a sorti sa calculatrice, un crayon, et le prospectus du supermarché de l’avenue. Pour les sablés, il faut doubler sa recette, peut-être la tripler. La farine est vendue au kilo, le beurre à la plaquette de deux cent cinquante grammes, les œufs par boîte de six ou de douze. Elle multiplie les grammes, puis se demande si elle a multiplié par deux ou par trois. Elle reporte un prix au kilo à côté d’un prix à l’unité et les additionne. Le total dépasse cent euros. C’est impossible ; elle le sait. Elle recommence. La deuxième fois, elle oublie les œufs de la pâte à choux. La troisième, elle ne sait plus quelle colonne est celle des sablés.\n\nÀ la boutique, elle rendait la monnaie sans y penser. Josette, sa voisine, ancienne vendeuse chez Delaunay, le dirait à n’importe qui. Personne à la réunion n’a vu qu’elle avait besoin d’aide ; elle parlait bien, elle riait, elle avait apporté des sablés. Elle regarde la feuille couverte de chiffres raturés. Elle pourrait appeler Karima. Elle n’ose pas : on lui a fait confiance devant tout le monde.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Quand la maladie ne se voit pas mais pèse sur les comptes",
+          "text": "La sévérité d’une démence s’apprécie par un examen clinique et le récit d’un proche ; à un stade léger, la personne peut vivre de façon indépendante, souvent avec un soutien, et paraître non atteinte à ceux qui la connaissent peu, alors que le jugement, la résolution de problèmes, les décisions complexes et les finances deviennent plus difficiles. Pour Nadège, c’est l’équipe de consultation mémoire qui a qualifié cette sévérité de légère, l’an dernier ; une soirée de calculs ratés ne permet ni de la confirmer ni de la contredire. Ce que montre la scène, c’est l’écart entre l’image sociale, aisée et souriante, et l’effort solitaire devant un budget à plusieurs étapes. Cet écart rend la demande d’aide plus difficile : personne ne pense à la proposer."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment une démence légère peut-elle passer inaperçue tout en compliquant les comptes ?",
+          "points": [
+            {
+              "heading": "Une aisance sociale qui masque l’effort",
+              "text": "Dans un échange court et familier, la personne peut paraître tout à fait à l’aise, ce qui rassure ceux qui la connaissent peu.",
+              "examples": [
+                "À la réunion des bénévoles, Nadège parle, rit et offre ses sablés sans que personne ne remarque quoi que ce soit.",
+                "Karima lui confie le budget en rappelant qu’elle a tenu une boutique, sans imaginer un obstacle."
+              ]
+            },
+            {
+              "heading": "Des calculs à plusieurs étapes qui se défont",
+              "text": "Un calcul qui demande de convertir, multiplier et additionner plusieurs lignes peut se dérégler même chez quelqu’un qui comptait bien.",
+              "examples": [
+                "Nadège additionne un prix au kilo et un prix à l’unité et obtient un total de plus de cent euros.",
+                "À la deuxième tentative, elle oublie les œufs de la pâte à choux ; à la troisième, elle confond les colonnes."
+              ]
+            },
+            {
+              "heading": "Une gêne à demander de l’aide",
+              "text": "Quand la difficulté n’est pas visible, la personne peut craindre de décevoir ou d’être vue autrement en la signalant.",
+              "examples": [
+                "Nadège n’ose pas appeler Karima parce qu’on lui a fait confiance devant tout le monde.",
+                "Elle pense à ce que Josette dirait de son habileté à la caisse, comme si cela l’obligeait à réussir seule."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour faire des comptes sans tout céder",
+          "points": [
+            {
+              "heading": "Découper le calcul",
+              "objective": "Ne traiter qu’une opération à la fois.",
+              "exercise": [
+                "Faire une ligne par ingrédient, avec la quantité nécessaire seulement.",
+                "Convertir ensuite chaque quantité dans l’unité de vente, sur une ligne séparée.",
+                "N’additionner qu’à la fin, en relisant chaque ligne."
+              ],
+              "benefit": "Chaque étape reste lisible et une erreur peut être retrouvée sans tout recommencer."
+            },
+            {
+              "heading": "Utiliser un tableau préparé",
+              "objective": "Éviter d’avoir à inventer la structure du calcul.",
+              "exercise": [
+                "Demander à la personne qui confie le budget un tableau avec les colonnes déjà prévues.",
+                "Le remplir seulement avec ce qu’on maîtrise, comme les quantités de la recette.",
+                "Laisser la colonne des prix à quelqu’un qui a les tarifs sous les yeux."
+              ],
+              "benefit": "La personne apporte son savoir sur la recette sans porter seule la partie la plus coûteuse."
+            },
+            {
+              "heading": "Demander une vérification sans tout donner",
+              "objective": "Recevoir de l’aide en gardant sa part de la tâche.",
+              "exercise": [
+                "Choisir la partie que l’on veut garder et celle que l’on confie.",
+                "Le dire simplement, sans avoir à expliquer son diagnostic si on ne le souhaite pas.",
+                "Pour les comptes personnels, noter la question pour en parler avec l’équipe de soins."
+              ],
+              "benefit": "La tâche avance, et les questions plus larges sur les finances trouvent un interlocuteur compétent."
+            }
+          ]
+        }
+      ],
+      "ending_title": "La liste des ingrédients",
+      "ending": "Le lendemain matin, Nadège appelle la maison de quartier. « Karima, je fais la liste des ingrédients, avec les quantités exactes pour huit. Les prix et le total, c’est la maison de quartier qui vérifie. Je compte moins bien qu’avant. » Elle n’en dit pas plus, et Karima ne demande rien. « Très bien, je m’en charge avec la trésorière. Vous me déposez la liste jeudi ? » Nadège recopie au propre, sans un seul chiffre en euros : deux kilos de farine, six plaquettes de beurre, deux boîtes de douze œufs. Elle se sent soulagée, et un peu vexée. Puis elle prend sa feuille de questions pour la consultation mémoire de janvier et ajoute, en bas : « Mes factures à moi : comment m’organiser sans tout donner ? »",
+      "conclusion": "À un stade qualifié de léger, la démence peut rester invisible aux autres tout en rendant les comptes et les décisions complexes plus coûteux. Nadège choisit de garder les quantités, son savoir, et de confier les prix, puis porte la question de ses propres factures à l’équipe.",
+      "mirror": [
+        "Karima aurait pu dire, en tendant la feuille : « Vous voulez faire les quantités et je fais les prix, ou vous préférez tout faire ? » Une proposition de partage, faite à tous les bénévoles, n’oblige personne à révéler une difficulté. Quand Nadège appelle, la bonne réponse de Karima est justement de ne pas demander pourquoi. Un proche n’a pas à surveiller les comptes de quelqu’un qui ne l’a pas demandé ; il peut dire qu’il reste disponible pour relire."
+      ],
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "nice-ng97",
+        "has-tnc-fiche7"
+      ],
+      "continuity": {
+        "choice": "Nadège confie les prix et le total à la maison de quartier, garde les quantités, et inscrit la question de ses propres factures pour la consultation mémoire de janvier.",
+        "next": "En janvier, Bastien et Odile, qui en ont parlé au téléphone sans elle, retirent la tarte Tatin du projet à cause du caramel."
+      },
+      "clinical_focus": "Une démence légère invisible pour qui la connaît peu",
+      "diagnostic_stage": "known"
     }
   ]
 }

@@ -742,6 +742,16 @@
       "design_sha256": "106ac8ac5ea0a21cd963ab67deb5c664507c9f278ef62d7dd2b7d694e9c347e5",
       "independent_review_sha256": "cb253aea92581e13df8be208f21c95da01c64d6865915b2619a591f05543ec5c",
       "review": "Relecture indépendante review_loubna acceptée après trois tours de corrections (lisibilité, présentation des proches, formulations concrètes)"
+    },
+    "serge": {
+      "date": "2026-11-12",
+      "status": "editorially_reviewed",
+      "article_format": 2,
+      "sha256": "22b3b09d56971b9a42713697445c86a2fe2c8511b28f4a2ff799a44b050d8db8",
+      "dossier_sha256": "a3cfbfa2f718c4dbcb8533ce11af976098546fa7f0a3764d351b2ada16bbaa2a",
+      "design_sha256": "9d855e9c1026e1b39a3696f65eb63bb81aee86f3be1340ec8042ccdc85238727",
+      "independent_review_sha256": "c6a686f0857b3016c54506e4330864dac250eed0378c2db77a43ac1b0ede1099",
+      "review": "Relecture indépendante review_serge acceptée après trois tours de corrections (rôles présentés, scènes concrètes, relais 3114/15, raccords)"
     }
   }
 }

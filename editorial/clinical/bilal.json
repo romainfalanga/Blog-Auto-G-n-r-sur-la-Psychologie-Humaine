@@ -737,6 +737,110 @@
         "next": "Hugo lui propose ensuite des alarmes sur son téléphone, après une séance collective manquée, ce que Bilal accueille avec méfiance."
       },
       "diagnostic_stage": "known"
+    },
+    {
+      "number": 8,
+      "slug": "bilal-choisir-ses-aides-externes-rappel-du-mardi",
+      "title": "Choisir ses aides externes après une séance manquée",
+      "description": "Le carnet rouge est resté dans le tablier et Bilal a manqué la séance du jardin. Hugo propose des alarmes ; lui craint qu’elles décident à sa place.",
+      "context": "après une séance collective manquée",
+      "topics": [
+        "Trouble amnésique",
+        "aides externes",
+        "rappel téléphonique"
+      ],
+      "clinical_focus": "Choisir ses aides externes",
+      "clinical_intro": "Les aides externes, comme les agendas, les listes, les calendriers ou les rappels sur téléphone, font partie des stratégies recommandées en réadaptation de la mémoire. Leur choix dépend des tâches et des préférences de la personne. Bilal, dont le trouble amnésique est déjà diagnostiqué, découvre une limite de son carnet et négocie l’aide qu’il accepte.",
+      "opening": "Mercredi, huit heures. Bilal ouvre la porte cochère de l’atelier et trouve, en allumant son téléphone, un message d’Odile, l’animatrice de la maison de quartier : « On t’a attendu hier soir au jardin. Pas grave, on a choisi l’emplacement des pieds sans toi. Jonas, notre apprenti menuisier, a fait un croquis. »\n\nHier soir. Mardi, dix-huit heures trente, la séance collective du banc. Il reste immobile, la clé encore dans la serrure. Il décroche son tablier du clou, sort le carnet rouge, retire l’élastique. Page de lundi : « Mardi 18 h 30, jardin, séance. Apporter plan. » C’était écrit. Seulement, depuis l’arrangement avec Hugo, il ferme le carnet à dix-sept heures et le laisse dans la poche du tablier, et le tablier reste à l’atelier. Hier, à dix-sept heures, il a passé l’élastique, accroché le tablier, et il est rentré dîner. L’information a passé la nuit à deux mètres de l’établi.\n\nÀ dix heures, Hugo Marchal, l’ergothérapeute de son équipe de réadaptation, passe pour leur séance hebdomadaire. Bilal lui raconte sans détour et lui tend le carnet ouvert à la bonne page.\n\nHugo réfléchit. « Le carnet marche quand tu l’as sous les yeux. Le soir, il dort ici. On pourrait mettre des alarmes sur ton téléphone : la séance du mardi, les rendez-vous, les livraisons. »\n\nBilal fait la grimace. Il déteste les sonneries. À l’atelier, elles couvrent le bruit de la gouge sur le bois, celui qui lui dit si le fil part bien. Et il imagine son téléphone lui dicter sa journée, sonner pour tout, décider à sa place quand il doit penser à quoi. « Je ne veux pas devenir une machine qu’on programme, Hugo. Le bois me parle, pas le téléphone. »\n\nHugo ne range pas son idée. Il pose une autre question : « Alors dis-moi où le carnet ne suffit pas. Seulement là. »",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Une aide utile est une aide choisie",
+          "text": "En réadaptation de la mémoire, les aides externes figurent parmi les stratégies recommandées : agendas, listes, calendriers, alarmes ou rappels électroniques, ces derniers étant souvent privilégiés quand l’atteinte est importante. Ces recommandations insistent aussi sur l’adaptation aux besoins fonctionnels et au contexte de la personne : une aide qu’elle refuse ou qui la gêne dans son travail risque de ne pas être utilisée. Le carnet rouge de Bilal fonctionne à l’atelier, mais il reste dans le tablier le soir. Le problème n’est pas l’absence de trace, c’est l’endroit où la trace se trouve au moment où il faut agir. Le choix d’une aide complémentaire se fait avec lui, pour une tâche précise."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment une aide peut-elle fonctionner ici et manquer ailleurs ?",
+          "points": [
+            {
+              "heading": "Une trace présente mais hors de portée",
+              "text": "Une information bien notée peut rester inutile si le support n’est pas là quand il faut agir.",
+              "examples": [
+                "La séance du mardi est écrite dans le carnet, resté dans le tablier à l’atelier.",
+                "Bilal découvre la page le mercredi matin, une fois la séance passée."
+              ]
+            },
+            {
+              "heading": "Un arrangement qui crée un angle mort",
+              "text": "Une règle utile pour limiter l’effort peut, sans ajustement, laisser des moments sans support.",
+              "examples": [
+                "La fermeture du carnet à dix-sept heures protège la soirée de Bilal.",
+                "La séance du jardin tombe justement après cette heure."
+              ]
+            },
+            {
+              "heading": "Une aide proposée qui inquiète",
+              "text": "Une aide efficace pour d’autres peut être vécue comme une perte de contrôle par la personne concernée.",
+              "examples": [
+                "Bilal craint que les sonneries couvrent le bruit de la gouge.",
+                "Il redoute que le téléphone décide à sa place de sa journée."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour choisir une aide externe qui convient",
+          "points": [
+            {
+              "heading": "Lister les situations où l’aide actuelle ne suffit pas",
+              "objective": "Partir des trous réels plutôt que de multiplier les aides.",
+              "exercise": [
+                "Reprendre les dernières situations manquées avec l’ergothérapeute.",
+                "Noter pour chacune où était le support au moment d’agir.",
+                "Retenir les situations qui se répètent chaque semaine."
+              ],
+              "benefit": "L’aide nouvelle peut viser un besoin précis au lieu d’envahir toute la journée."
+            },
+            {
+              "heading": "Essayer une seule aide pour une seule tâche",
+              "objective": "Garder le contrôle de l’outil et juger son effet clairement.",
+              "exercise": [
+                "Choisir une seule tâche, par exemple une réunion hebdomadaire.",
+                "Rédiger soi-même le message du rappel, avec ses propres mots.",
+                "Fixer l’heure du rappel au moment où l’action est encore possible."
+              ],
+              "benefit": "Un rappel écrit par la personne peut rester un outil à son service plutôt qu’une consigne extérieure."
+            },
+            {
+              "heading": "Réévaluer après quelques semaines",
+              "objective": "Garder la possibilité d’ajuster, d’élargir ou d’abandonner l’aide.",
+              "exercise": [
+                "Noter dans le carnet chaque fois que le rappel a servi ou gêné.",
+                "Faire le point avec l’ergothérapeute à une date fixée.",
+                "Décider ensemble de garder, modifier ou arrêter le rappel."
+              ],
+              "benefit": "L’aide reste un arrangement révisable ; elle ne promet pas de résoudre tous les oublis."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Un seul rappel, écrit de sa main",
+      "ending": "Bilal réfléchit, le carnet ouvert sur l’établi. « Le seul endroit où ça coince, c’est le mardi soir. Le reste, c’est ici, devant l’ardoise. » Hugo propose un rappel unique, le mardi à dix-sept heures, au moment où Bilal passe l’élastique autour du carnet. Bilal accepte, à condition de choisir la sonnerie la plus discrète et d’écrire lui-même le texte. Il tape lentement, avec son gros pouce : « Mardi. Jardin 18 h 30. Sors le carnet du tablier et emporte-le. » Il refuse les autres alarmes que Hugo lui montre : livraisons, rendez-vous, fournisseurs. « Ça, c’est l’ardoise et le carnet. » Hugo note la date d’un point dans quatre semaines. Bilal répond à Odile : « Pardon pour hier. Je serai là mardi prochain. Garde-moi le croquis de Jonas. » Le mardi suivant, à dix-sept heures, le téléphone vibre dans sa poche. Bilal lit son propre message, grommelle, et glisse le carnet dans sa veste. À dix-huit heures trente, il est au jardin.",
+      "conclusion": "Une aide externe vaut surtout par l’usage qu’en fait la personne. Bilal garde le carnet rouge comme outil principal et accepte un seul rappel, pour une seule situation, rédigé par lui. L’arrangement sera revu dans quatre semaines ; d’autres trous peuvent apparaître ailleurs.",
+      "mirror": [
+        "Odile a eu un geste simple : signaler l’absence sans reproche et garder une trace de ce qui a été décidé, le croquis de Jonas. Un proche peut écrire de la même façon : « On t’a gardé le croquis, je te l’apporte ? » Il n’installe pas d’alarmes sur le téléphone de quelqu’un sans son accord et ne programme pas sa journée à sa place. S’il pense qu’un rappel pourrait aider, il peut le suggérer et laisser la personne en parler avec son équipe."
+      ],
+      "sources": [
+        "oms-cddr",
+        "incog-memoire-2023",
+        "cicerone-2019"
+      ],
+      "continuity": {
+        "choice": "Bilal accepte un rappel téléphonique unique, le mardi à 17 h, avec un message qu’il a écrit, et refuse les autres alarmes ; le carnet rouge reste son outil principal, avec un point prévu avec Hugo dans quatre semaines.",
+        "next": "À la maison, une nouvelle importante d’Inès, sa fille, va lui échapper malgré les aides de l’atelier."
+      },
+      "diagnostic_stage": "known"
     }
   ]
 }

@@ -6480,6 +6480,78 @@
     "method": "reviewed_clinical_intro",
     "source_body_sha256": "ba57f97819498055214d9e70af48bdd7cff63e79d53ec1f5efabb7f982d426a1"
   },
+  "posts/comprendre-et-maitriser-ses-emotions/serge-coordination-decisions-soin": {
+    "text": "La répétition de démarches médicales sans informations partagées peut exposer à des soins inutiles et à leurs risques. Dans le trouble factice imposé à soi-même, une coordination adaptée aide les professionnels à apprécier les besoins. Elle ne doit ni faire du patient l’arbitre solitaire des actes ni empêcher un second avis légitime ou des soins urgents.",
+    "source_heading": "Coordination et prévention des soins inutiles",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "35b1011b1efbfcee4652a4fa3eb4365aed2c0ce91049e200ef1ed70b27b229ea"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/serge-corriger-information-sante": {
+    "text": "Le trouble factice imposé à soi-même implique une présentation intentionnellement trompeuse de sa santé, identifiée dans une évaluation clinique. Corriger une information peut permettre de revoir les décisions qui en dépendent. Cette démarche ne remplace pas le soin et ne constitue ni une preuve de guérison ni une condition pour recevoir de l’aide.",
+    "source_heading": "Corriger une information trompeuse",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "90ac5293de5f101875f56e031f192bd9fc99a78842f7e87a6af1773167ad4dca"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/serge-engagements-et-role-limite": {
+    "text": "Les difficultés de soin et de communication peuvent avoir des conséquences sur les engagements quotidiens. Reconnaître ce retentissement ne supprime pas la responsabilité d’informer les personnes qui attendent un travail. Pour Serge, stabiliser son rôle passe par une tâche définie, un délai réaliste et un relais accepté, sans faire du calendrier une évaluation médicale.",
+    "source_heading": "Retentissement sur les engagements",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "b5f9a6e637cd0639713aea0522f41962d55f2c6ac6cb17a25cc917e98ec5e5d8"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/serge-fluctuation-retour-difficulte": {
+    "text": "L’évolution d’un trouble factice imposé à soi-même est encore mal connue : elle peut se faire par périodes ou durer, et personne ne peut en prédire le cours pour une personne donnée. Une phase plus calme ne prouve pas la guérison, et le retour d’une difficulté n’efface pas les décisions responsables déjà prises. Ce qui compte alors est de pouvoir en parler à l’équipe de soins plutôt que de se juger seul.",
+    "source_heading": "Fluctuations et retour d’une difficulté",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "1d5effe1b8b9f7641337190999e2295c283131e03d00a6ed68e2213bea2cb30f"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/serge-inexplique-ne-signifie-pas-fabrique": {
+    "text": "Une plainte inexpliquée, des examens normaux ou une demande insistante ne démontrent pas une fabrication intentionnelle. Le trouble factice imposé à soi-même repose sur une évaluation différente. Même lorsqu’il est établi, chaque information garde sa portée : un doute dans un document ne permet pas de conclure que toutes les difficultés de santé sont trompeuses.",
+    "source_heading": "Inexpliqué ne signifie pas fabriqué",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "210c18b6263212a7caa0bdde9810db770ab3d36a22d54f63b3d7cab8627ae6d0"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/serge-objectifs-soin-preuves-limitees": {
+    "text": "Le soin d’un trouble factice imposé à soi-même ne suit pas un protocole unique dont l’efficacité serait démontrée pour tous. Les connaissances reposent surtout sur des descriptions de cas et de petites séries. Un accompagnement psychothérapeutique se construit donc autour d’objectifs précis, discutés avec la personne et revus régulièrement, tandis que le médecin garde la responsabilité des décisions médicales. Aucun soin ne peut promettre qu’une difficulté ne reviendra jamais.",
+    "source_heading": "Objectifs de soin et preuves limitées",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "3ccee873c485c4b015fd86b3382b9d78ca609be5c3c631788bc3ebaeacc45c05"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/serge-participation-ordinaire-suivi-durable": {
+    "text": "Mener un projet à son terme ne signifie pas qu’un trouble factice imposé à soi-même a disparu, ni qu’aucune difficulté ne reviendra. Clore les engagements pratiques et garder le suivi sont deux choses distinctes. Une personne peut tenir une place ordinaire dans un groupe, pour ce qu’elle y apporte, pendant que la coordination des soins se poursuit à son propre rythme.",
+    "source_heading": "Participation ordinaire et suivi durable",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "85ab729b2952cbb160dcf18f6c82a4581d3e43e6f27d9f3247e9c8b5d8e023e3"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/serge-peur-blame-alliance": {
+    "text": "Une personne peut redouter d’être jugée au point d’hésiter à poursuivre son suivi. Dans le parcours d’un trouble factice imposé à soi-même, accueillir cette crainte n’empêche pas de vérifier les faits nécessaires aux soins. Serge tente de parler d’une question vécue comme un reproche, plutôt que de laisser cette impression décider seule de son absence.",
+    "source_heading": "Peur du blâme et alliance",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "47854f5877d3f8344d6d2efecc443170afcc6a05845b467dcfcf3b8e1a7b7740"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/serge-role-malade-et-lien": {
+    "text": "Le rôle de malade peut occuper une place importante dans le trouble factice imposé à soi-même. Cela ne signifie pas que toute demande de soutien serait pathologique ni qu’un besoin d’attention expliquerait tous les cas. Chez Serge, une crainte personnelle apparaît : compter moins pour les autres lorsqu’il ne parle pas de santé.",
+    "source_heading": "Place du rôle de malade",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "caf34056961ce45a117e81dbad0febd600d0b8164622bbc15f4adfab2c02cdb1"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/serge-sommeil-moral-evaluation": {
+    "text": "Une personne qui a un trouble factice imposé à soi-même peut aussi traverser d’autres difficultés, psychiques ou médicales. Un sommeil qui se dérègle ou un moral qui baisse ne se déduisent pas du diagnostic connu : ils ne prouvent ni une tromperie ni une autre maladie. Ils demandent une évaluation propre, menée par chaque professionnel dans son rôle, à partir de ce que la personne rapporte et de ce que l’équipe observe.",
+    "source_heading": "Évaluer la santé psychique associée",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "de2e52a5a536b38f4312f26f18be154f864448d8f217c356e1c4beaaac184eb7"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/serge-soutien-sans-surveillance": {
+    "text": "Un proche peut partager un moment avec une personne ayant un trouble factice imposé à soi-même sans devenir contrôleur de ses symptômes ou de ses récits. Le soutien dépend de son accord et de ses limites. Les questions médicales restent adressées aux professionnels ; une amitié ne constitue ni une enquête ni une garantie de sincérité.",
+    "source_heading": "Soutien choisi sans surveillance",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "e69424de6a2fd724b3e8e7d8438f624627dac1a4af66fb46788b78c2323000e3"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/serge-symptome-nouveau-soins-legitimes": {
+    "text": "Un trouble factice imposé à soi-même peut coexister avec une affection authentique. Son diagnostic ne justifie pas de rejeter chaque plainte nouvelle ni d’en présumer la cause. Signaler un changement avec les informations disponibles permet une évaluation professionnelle ; l’accès aux soins nécessaires, y compris urgents, ne doit pas dépendre d’une preuve de sincérité fournie au préalable.",
+    "source_heading": "Préserver les soins légitimes",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "e2999257948bd216b1d23b2a4e93d562840558c6fbf4a1cc5b7c60b7eed842dc"
+  },
   "posts/comprendre-et-maitriser-ses-emotions/solene-amenagement-horaires-deux-colonnes": {
     "text": "Solène peut reprendre certaines tâches en journée. Elle redoute qu’un changement d’horaire entraîne aussi la perte de son rôle dans le choix des films. Le trouble schizoaffectif peut affecter l’endurance de façon variable selon les périodes. La discussion porte sur les conditions de la reprise, sur les tâches qu’elle souhaite exercer et sur les informations qu’elle choisit de partager.",
     "source_heading": "Reprise après un arrêt",

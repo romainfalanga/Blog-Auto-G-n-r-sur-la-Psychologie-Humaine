@@ -3,25 +3,14 @@
   "character_id": "serge",
   "reviewer": "review_serge",
   "reviewed_on": "2026-11-12",
-  "status": "revision_requested",
-  "summary": "Seconde relecture après corrections. Les épisodes 1, 3, 4, 5, 6, 8, 9, 10 et 11 ont été relus en entier ; 2, 7 et 12 sont identiques champ par champ à la version relue (c5b7e547…). Les neuf corrections précédentes sont appliquées : rôles présentés, scène de l’ép. 4 concrète (accord, appel, jeudi maintenu, mardi annulé, numéros sur l’enveloppe), propos d’Inès et accord de partage explicites en ép. 5, brouillon distinct de la « version partielle 1 » en ép. 6, consultation datée en ép. 8, 3114/15 harmonisés dans les miroirs 9 et 11, exemples des ép. 9 et 10 présents dans la scène, formulation sur le médicament précisée. Aucun procédé de falsification ni examen nommé ; soins et urgences accessibles ; proches sans rôle d’enquête. Deux points restent ouverts : continuity.choice de l’ép. 4 non mis à jour, et rendez-vous complémentaire du mardi (ép. 8) non refermé en ép. 9.",
+  "status": "passed",
+  "summary": "Troisième relecture. Les deux points ouverts au deuxième passage sont résolus : le continuity.choice de l’ép. 4 enregistre l’accord, l’appel, le jeudi maintenu, le mardi annulé, l’enveloppe aux deux numéros et le point à trois semaines, désormais inscrit « au lundi correspondant » ; l’ép. 9 raccorde le rendez-vous complémentaire du mardi fixé en ép. 8, Armand en ayant reçu les éléments. Seuls les ép. 4 et 9 diffèrent de la version précédente (vérifié champ par champ). La répétition « par le docteur Armand. Le docteur Armand, le médecin… » dans l’ouverture de l’ép. 9 est une lourdeur stylistique sans effet sur la compréhension, les faits ou la sécurité ; elle ne justifie pas de correction bloquante et peut être allégée lors de l’intégration. Bilan d’ensemble des deux passages précédents maintenu : douze facettes distinctes conformes au dossier, aucun procédé de falsification ni examen nommé, soin jamais conditionné à un aveu, urgences (15, 3114) et soins légitimes accessibles, proches sans rôle d’enquête ou de surveillance, affirmations cliniques fidèles aux limites d’OMS, Bérar2021, Eastwood2008, Liu2025 et Mayo. Aucune correction ouverte ; cette acceptation éditoriale ne vaut ni expertise clinique individuelle ni preuve de déploiement.",
   "files": {
     "editorial/clinical/designs/serge.json": "9d855e9c1026e1b39a3696f65eb63bb81aee86f3be1340ec8042ccdc85238727",
     "editorial/clinical/dossiers/serge.json": "a3cfbfa2f718c4dbcb8533ce11af976098546fa7f0a3764d351b2ada16bbaa2a",
-    "editorial/clinical/serge.json": "472b9c850da5c10c19f875ab4a482ddc7c661ce374789e7ee1cd6ec3deb65a52"
+    "editorial/clinical/serge.json": "22b3b09d56971b9a42713697445c86a2fe2c8511b28f4a2ff799a44b050d8db8"
   },
-  "findings": [
-    {
-      "episode": 4,
-      "issue": "Le champ continuity.choice reste l’ancienne formule abstraite (« organise les échanges entre professionnels, précise les démarches retenues et les recours ») et n’enregistre pas les décisions désormais montrées : accord de Serge pour l’appel, rendez-vous du jeudi maintenu, rendez-vous du mardi annulé par Serge après la décision, numéros du cabinet et du 15 au dos de l’enveloppe, prochain point dans trois semaines.",
-      "requested_change": "Réécrire continuity.choice, par exemple : « Avec l’accord de Serge, Armand appelle le second service : le jeudi est maintenu, Serge annule le mardi ; il range l’enveloppe portant le numéro direct du cabinet et le 15, et note le prochain point dans trois semaines ; une question d’Armand lui reste en tête. » Facultatif : remplacer « sous le jeudi qu’il a entouré », ambigu, par la date du point."
-    },
-    {
-      "episode": 9,
-      "issue": "L’ép. 8 fixe désormais un rendez-vous complémentaire « pour le mardi suivant » ; l’ép. 9 se déroule « un mardi matin », la semaine suivant la gêne, sans dire si ce rendez-vous a eu lieu, ce qui laisse une question concrète ouverte entre les deux scènes.",
-      "requested_change": "Ajouter une courte précision, par exemple dans l’ouverture : « Il sort du rendez-vous complémentaire fixé la semaine précédente » ou « Le rendez-vous complémentaire a eu lieu la veille », et la relier à la phrase où Armand précise la suite médicale de la gêne, sans détail clinique."
-    }
-  ],
+  "findings": [],
   "episode_checks": [
     {
       "number": 1,
@@ -55,7 +44,7 @@
       "focus": "Coordination et prévention des soins inutiles",
       "opening_quote": "Le lundi suivant, Serge apporte une enveloppe épaisse au cabinet du docteur Armand, le médecin qui coordonne ses soins. Il y a réuni les documents demandés au rendez-vous précédent, sans y glisser les pages du calendrier des promenades",
       "ending_quote": "Le soir, il reprend les dates du groupe sans demander à Mireille, la coordinatrice des promenades, de décider lesquels de ses soins méritent une place dans son agenda. Une question d’Armand sur les informations antérieures, posée en relisant les feuilles, lui reste toutefois en tête.",
-      "continuity_note": "Le lundi suivant l’ép. 3 : deux rendez-vous mardi/jeudi, appel au second service avec accord, jeudi maintenu, mardi annulé par Serge sur le trottoir, deux numéros au dos de l’enveloppe rangée dans le tiroir de l’entrée, retrouvée en ép. 8. Le continuity.choice n’a pas été mis à jour.",
+      "continuity_note": "Le lundi suivant l’ép. 3 : deux rendez-vous mardi/jeudi, appel au second service avec accord, jeudi maintenu, mardi annulé par Serge sur le trottoir, deux numéros au dos de l’enveloppe rangée dans le tiroir de l’entrée, retrouvée en ép. 8. Le continuity.choice enregistre désormais ces décisions, et le point à trois semaines est inscrit « au lundi correspondant ».",
       "clinical_note": "Iatrogénie (OMS p.594, Bérar2021) traitée sans nommer d’examen ; Serge n’arbitre pas seul, l’accord précède l’appel, le 15 reste accessible sans passer par le médecin.",
       "relatives_note": "Mireille et Claude sont situés ; Claude n’ouvre pas l’enveloppe ni ne conseille d’annuler ; urgence : « on appelle le 15 ». Concret et sûr."
     },
@@ -91,16 +80,16 @@
       "focus": "Préserver les soins légitimes",
       "opening_quote": "La version partielle du calendrier attend sa correction sur la table. Serge vient de recevoir les derniers horaires, mais une gêne physique nouvelle l’empêche de se concentrer sur les cases",
       "ending_quote": "Serge informe Mireille, la coordinatrice du groupe, qu’il doit décaler la correction de mise en page ; il propose de reprendre après ce temps de soins. Il ne lui envoie pas les détails médicaux et ne lui demande pas de certifier qu’il avait raison de consulter.",
-      "continuity_note": "Enveloppe du tiroir de l’entrée et numéro direct de l’ép. 4 réutilisés ; appel à 10 h 20, rappel avant midi, cabinet à 16 h, rendez-vous complémentaire « le mardi suivant ». Ce dernier n’est pas refermé en ép. 9, qui a lieu un mardi.",
+      "continuity_note": "Enveloppe du tiroir de l’entrée et numéro direct de l’ép. 4 réutilisés ; appel à 10 h 20, rappel avant midi, cabinet à 16 h, rendez-vous complémentaire « le mardi suivant ». Ce rendez-vous est refermé en ép. 9, le mardi suivant.",
       "clinical_note": "Coexistence d’une affection authentique (OMS p.593, Bérar2021) ; gêne ni décrite ni présumée factice ; examen effectif.",
       "relatives_note": "Claude renvoie au contact médical ; Mireille organise le report sans juger le besoin ; urgence sans verdict amical."
     },
     {
       "number": 9,
       "focus": "Évaluer la santé psychique associée",
-      "opening_quote": "Le point de suivi a lieu un mardi matin, dans le bureau d’Inès, la psychologue qui accompagne Serge. Le docteur Armand, le médecin qui coordonne ses soins, s’est joint à eux pour la première demi-heure, comme ils l’avaient décidé à la fin de la consultation pour la gêne physique",
+      "opening_quote": "Le point de suivi a lieu un mardi matin, dans le bureau d’Inès, la psychologue qui accompagne Serge. Il arrive directement du rendez-vous complémentaire fixé la semaine précédente par le docteur Armand",
       "ending_quote": "Mireille répond : « Parfait, dix jours. » Il ne sait pas encore si ses nuits vont s’améliorer.",
-      "continuity_note": "« Je ne sais pas si c’est important » et le message de Mireille sans réponse depuis trois jours sont désormais dans la scène. Le rendez-vous complémentaire du mardi fixé en ép. 8 n’est pas mentionné alors que ce point a lieu un mardi, la semaine suivant la gêne.",
+      "continuity_note": "« Je ne sais pas si c’est important » et le message de Mireille sans réponse depuis trois jours sont désormais dans la scène. Serge arrive du rendez-vous complémentaire du mardi fixé en ép. 8 et Armand en a reçu les éléments ; la répétition « le docteur Armand » en ouverture est stylistique et non bloquante.",
       "clinical_note": "Évaluation séparée sans comorbidité ajoutée ; question de bilan sur les idées de se faire du mal posée comme question habituelle, réponse négative non interprétée.",
       "relatives_note": "Miroir corrigé : « On appelle le 3114 maintenant, ou le 15 si tu es en danger tout de suite », cohérent avec la technique 3. Mireille reste sur la tâche."
     },
