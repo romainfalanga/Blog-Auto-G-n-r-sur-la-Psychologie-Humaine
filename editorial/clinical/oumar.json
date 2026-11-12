@@ -1,0 +1,437 @@
+{
+  "character_id": "oumar",
+  "bio": "Oumar, 63 ans, jardinier amateur, vient d’entrer dans une résidence accompagnée de Rezé où il garde deux bacs de légumes. Il vit avec une démence due à des substances psychoactives, y compris des médicaments, diagnostiquée il y a deux ans et liée à un long usage d’alcool qu’il a arrêté. Il parle avec aisance, mais organiser des étapes, reporter une mesure ou calculer lui coûte. Il remet en état le vieux banc de chêne avec les autres résidents, choisit ses aides et décide à qui il raconte son histoire de soin.",
+  "profile_topics": [
+    "Démence due à des substances psychoactives, y compris des médicaments",
+    "Organiser un projet quand planifier devient coûteux",
+    "Des troubles qui persistent après l’arrêt de l’alcool",
+    "Choisir à qui raconter son histoire de soin",
+    "Des aides choisies et une continuité prévue"
+  ],
+  "episodes": [
+    {
+      "slug": "oumar-organiser-etapes-chantier-demence-alcool",
+      "title": "Organiser les étapes d’un chantier quand planifier coûte",
+      "description": "Oumar sait comment réparer le banc de chêne, mais ponce avant de démonter et cherche ses outils : ordonner des étapes lui demande un effort épuisant.",
+      "context": "un samedi de mars dans l’abri à outils",
+      "topics": [
+        "fonctions exécutives",
+        "planification d’un projet",
+        "fatigue de l’organisation"
+      ],
+      "clinical_focus": "Organiser les étapes d’un chantier devient coûteux",
+      "clinical_intro": "Dans une démence, la mémoire n’est pas seule en jeu : les fonctions exécutives, qui servent à ordonner des étapes et à vérifier où l’on en est, peuvent être nettement touchées. Oumar vit avec une démence liée à un long usage d’alcool, arrêté depuis trois ans. Il sait ce qu’il veut faire du banc ; c’est l’ordre des gestes qui lui échappe et l’épuise.",
+      "opening": "Le samedi matin, la porte de l’abri à outils du Clos des Mauves grince comme celle de son ancienne cabane de la Crapaudine. Oumar l’a remarqué en arrivant, il y a trois semaines, et ce bruit l’a rassuré. La veille, à la réunion des résidents, il a proposé de remettre en état le vieux banc de chêne de l’allée, celui aux pieds de fonte qui dort sous le tilleul avec trois lattes pourries sur sept. Personne n’a dit non. Gérard Pichon, un menuisier retraité qui habite le deuxième étage, a seulement grogné qu’un banc neuf coûterait moins de soucis.\n\nOdette Bréhier, sa voisine de bac, s’est assise sur un seau retourné pour le regarder faire. Oumar lui explique ce qu’il veut : garder la fonte, garder le bois qui tient, changer seulement ce qui est mort. « On n’arrache pas ce qui reprend, dit-il. On taille autour. » Il parle bien, il le sait, et Odette hoche la tête.\n\nPuis il prend la ponceuse à main et frotte une latte encore vissée au banc, que Gérard l’a aidé à traîner jusqu’à l’abri la veille au soir. Au bout de dix minutes, il s’arrête : il faudrait d’abord la démonter. Il cherche le tournevis cruciforme, retourne la caisse, soulève les chiffons. Odette lui montre le tournevis, posé sur l’accoudoir du banc. Il dévisse deux vis, se souvient qu’il manque de vis neuves, sort un carnet et commence une liste d’achats : vis inox, huile de lin, papier de verre. Il s’interrompt pour mesurer une latte, oublie la liste, revient à la ponceuse.\n\nÀ midi, quand la cloche du déjeuner sonne, une latte est à moitié poncée, une autre à moitié dévissée, la liste tient en trois mots. Oumar s’assoit sur l’établi. Il a les épaules lourdes comme après une journée de bêche, et il n’a rien bêché du tout.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Savoir quoi faire et organiser comment le faire",
+          "text": "Les fonctions exécutives permettent de découper un objectif en étapes, de les ranger dans l’ordre, de les garder en tête pendant qu’on agit et de vérifier où l’on en est. Dans une démence, plusieurs domaines peuvent être atteints en plus de la mémoire, et les descriptions de la démence liée à l’alcool rapportent souvent une atteinte de ces fonctions. Cela ne retire pas le savoir-faire : Oumar connaît le bois, la fonte et le résultat qu’il veut obtenir. Ce qui se dérègle dans l’abri, c’est l’enchaînement. Il ponce avant de démonter, ouvre une liste qu’il ne termine pas, laisse un outil là où il ne le cherchera pas. Chaque changement d’activité l’oblige à reconstruire le plan entier, et c’est cette reconstruction répétée qui le fatigue autant qu’une matinée de bêche. Il ne s’agit ni de paresse ni d’un manque de volonté."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment la difficulté à organiser se voit-elle sur un chantier ?",
+          "points": [
+            {
+              "heading": "Les étapes se présentent dans le désordre",
+              "text": "Sans plan extérieur, une tâche connue peut commencer par la fin ou par le milieu, même quand la personne sait expliquer l’ordre logique.",
+              "examples": [
+                "Oumar ponce une latte encore vissée au banc, puis s’aperçoit qu’il fallait la démonter d’abord.",
+                "Il prend une mesure au milieu de sa liste d’achats, alors qu’aucune latte n’est encore déposée."
+              ]
+            },
+            {
+              "heading": "Une tâche commencée en chasse une autre",
+              "text": "Garder un but en tête pendant qu’on fait autre chose demande un effort ; une nouvelle idée peut alors effacer la précédente.",
+              "examples": [
+                "Le carnet d’achats s’arrête après trois mots quand Oumar se lève pour mesurer.",
+                "Il dévisse deux vis, pense aux vis neuves et laisse la latte à moitié fixée."
+              ]
+            },
+            {
+              "heading": "La fatigue arrive sans résultat visible",
+              "text": "Réorganiser sans cesse ce qu’on fait coûte de l’énergie, même si les gestes eux-mêmes sont légers.",
+              "examples": [
+                "À midi, Oumar a les épaules lourdes alors qu’il n’a soulevé que des outils.",
+                "Il s’assoit sur l’établi en voyant deux lattes à moitié traitées et aucune terminée."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour organiser un chantier par étapes",
+          "points": [
+            {
+              "heading": "Écrire les étapes avant de prendre un outil",
+              "objective": "Sortir le plan de la tête pour ne pas avoir à le reconstruire à chaque geste.",
+              "exercise": [
+                "Avant de commencer, dicter ou écrire l’objectif de la séance en une phrase.",
+                "Noter dessous les étapes dans l’ordre, une par ligne, avec les outils nécessaires.",
+                "Cocher chaque ligne terminée avant de passer à la suivante."
+              ],
+              "benefit": "Une liste visible peut réduire l’effort de mémoire et d’ordonnancement ; si elle reste difficile à construire seul, un ergothérapeute peut aider à l’adapter."
+            },
+            {
+              "heading": "Une seule tâche par séance",
+              "objective": "Éviter que plusieurs chantiers ouverts se brouillent entre eux.",
+              "exercise": [
+                "Choisir une seule action pour la séance, par exemple déposer les trois lattes abîmées.",
+                "Ranger hors de vue les outils qui ne servent pas à cette action.",
+                "Inscrire ce qui reste à faire sur une feuille pour la séance suivante."
+              ],
+              "benefit": "Une séance terminée laisse un résultat visible, ce qui peut rendre le projet moins décourageant."
+            },
+            {
+              "heading": "Prévoir la pause plutôt que la subir",
+              "objective": "Arrêter avant l’épuisement pour garder de l’énergie pour la suite.",
+              "exercise": [
+                "Fixer avant de commencer une heure de pause ou un repère, comme la cloche du déjeuner moins une demi-heure.",
+                "À ce moment-là, poser l’outil même si l’étape n’est pas finie, et noter où l’on s’arrête.",
+                "Reprendre à la séance suivante en relisant cette note."
+              ],
+              "benefit": "Une pause prévue peut éviter de finir la matinée vidé et découragé, sans rien promettre sur la difficulté elle-même."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Ne toucher à rien d’autre aujourd’hui",
+      "ending": "Oumar regarde les deux lattes à moitié traitées et décide de s’en tenir là pour le samedi. Il range la ponceuse, pose le tournevis sur le clou au-dessus de l’établi, là où il le cherchera, et referme le carnet sur ses trois mots. « La terre a besoin de repos entre deux bêchages, dit-il à Odette. Moi aussi, apparemment. »\n\nAprès le déjeuner, il frappe au bureau de Nathalie Jouan, la coordinatrice de la résidence, qui suit son plan d’aide. Il lui raconte la matinée sans l’arranger. Il ne veut pas qu’on fasse le banc à sa place ; il veut une façon de le faire. Nathalie note sa demande et l’appelle le lundi suivant : Yannick Le Floch, l’ergothérapeute qui le voit déjà à la consultation mémoire, passera au Clos le mercredi d’après pour construire avec lui une fiche d’étapes qu’il punaisera dans l’abri. En attendant, le banc reste dans l’abri, deux lattes entamées. Oumar ne sait pas si une feuille suffira. Il sait qu’il ne veut plus passer une matinée à tourner en rond.",
+      "conclusion": "Cet épisode montre qu’une démence peut toucher l’organisation des gestes bien plus que le savoir lui-même. Oumar garde son projet de banc et choisit une aide précise, une fiche d’étapes, au lieu de renoncer ou de laisser faire les autres.",
+      "mirror": [
+        "Devant Oumar qui cherche le tournevis posé sur l’accoudoir, Odette peut simplement le lui montrer, puis demander : « Tu veux qu’on écrive ce que tu fais en premier ? » Elle n’a pas à juger s’il va bien ou mal, ni à reprendre le chantier. Un proche peut proposer de tenir la liste ou de rappeler l’heure de la pause, et laisser la personne décider si elle veut en parler à l’équipe qui la suit."
+      ],
+      "sources": [
+        "oms-cddr",
+        "oms-mms-6d84",
+        "oms-cddr-hrb",
+        "ridley-2013",
+        "nice-ng97"
+      ],
+      "continuity": {
+        "choice": "Oumar arrête le chantier le samedi midi et demande à Nathalie Jouan une aide ; Yannick Le Floch viendra le mercredi suivant construire une fiche d’étapes pour l’abri. Le banc reste dans l’abri avec deux lattes entamées.",
+        "next": "Le dimanche, Jean-Paul Le Goff, son ami de trente ans, demande pourquoi les difficultés durent alors qu’Oumar ne boit plus depuis trois ans ; Oumar l’invite à poser la question à la docteure Morvan."
+      },
+      "number": 1,
+      "diagnostic_stage": "known"
+    },
+    {
+      "slug": "oumar-troubles-persistent-apres-arret-alcool",
+      "title": "Des troubles qui persistent longtemps après l’arrêt de l’alcool",
+      "description": "Jean-Paul croyait que « ça partirait avec l’alcool ». À la consultation mémoire, Oumar entend pourquoi ses difficultés durent trois ans après l’arrêt.",
+      "context": "un mardi de mars à la consultation mémoire",
+      "topics": [
+        "persistance des troubles",
+        "cause établie par l’équipe",
+        "questions d’un ami"
+      ],
+      "clinical_focus": "Des troubles qui persistent longtemps après l’arrêt",
+      "clinical_intro": "Une démence due à une substance ne se confond pas avec une ivresse ni avec les effets passagers de l’arrêt : les troubles durent bien au-delà de ces périodes. Chez Oumar, l’équipe a établi ce lien il y a deux ans, après une hospitalisation, à partir de son histoire et des examens. Ne plus boire depuis trois ans n’efface pas des difficultés devenues durables, et personne ne peut lui promettre leur disparition.",
+      "opening": "Le dimanche, Jean-Paul Le Goff, son ami de trente ans et ancien voisin de parcelle à la Crapaudine, est venu voir le banc. Il a regardé les deux lattes entamées, le carnet aux trois mots, et il a posé la question qu’il retient depuis longtemps : « Tu ne bois plus depuis trois ans. Pourquoi c’est toujours aussi dur, les comptes, les plans ? » Oumar n’a pas su répondre autrement que par une image de jardinier, alors il lui a proposé de venir au rendez-vous déjà prévu le mardi.\n\nDans la salle d’attente de la consultation mémoire, à l’hôpital, Jean-Paul tient sa casquette sur ses genoux. Quand la docteure Claire Morvan, la gériatre qui suit Oumar depuis deux ans, les reçoit, Oumar dit d’emblée qu’il a invité Jean-Paul et qu’elle peut parler devant lui. La docteure note cet accord dans le dossier.\n\nJean-Paul se lance, les yeux sur la casquette. « Je croyais que ça partirait avec l’alcool. Qu’il fallait juste du temps. » Il ajoute qu’il ne veut pas vexer, qu’il a vu Oumar arrêter, qu’il sait ce que ça lui a coûté. Oumar écoute sans l’interrompre. Il a déjà entendu la docteure lui expliquer tout cela, il y a deux ans, mais il ne saurait pas le redire en ordre. Il se souvient surtout des semaines d’hospitalisation d’il y a trois ans, puis, un an plus tard, de la série de tests, des dessins qu’il ne parvenait pas à recopier alors qu’il parlait sans peine.\n\nLa docteure Morvan repousse le clavier et prend une feuille blanche. « Je vais vous redire ce que nous savons, et aussi ce que nous ne savons pas. » Oumar sort ses lunettes. Il veut, cette fois, repartir avec quelque chose qu’il puisse tenir dans la main.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Une cause ancienne, des troubles qui durent",
+          "text": "Dans une démence due à une substance, l’usage a provoqué des atteintes du cerveau dont les effets persistent au-delà de la durée habituelle d’une intoxication ou de l’arrêt. Pour retenir cette cause, l’équipe s’appuie sur l’histoire de la personne, son examen et des analyses : la substance, l’importance et la durée de l’usage doivent pouvoir expliquer une démence, et l’évolution doit être compatible. Pour Oumar, la docteure Morvan rappelle l’ordre des faits. Il a été hospitalisé il y a trois ans et ne boit plus depuis. Comme les difficultés persistaient après plusieurs mois sans alcool, une évaluation cognitive complète a été faite, et le diagnostic posé il y a deux ans. Elle ajoute que les chercheurs discutent encore de la part exacte des différents mécanismes, et que l’évolution varie d’une personne à l’autre. La question de Jean-Paul est donc juste : l’arrêt était nécessaire, mais il ne remet pas le cerveau à son état d’avant."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment la persistance des troubles est-elle mal comprise ?",
+          "points": [
+            {
+              "heading": "L’attente d’un retour à la normale",
+              "text": "Beaucoup de proches imaginent que des troubles liés à l’alcool disparaissent avec lui, comme une ivresse qui se dissipe.",
+              "examples": [
+                "Jean-Paul pensait qu’il fallait « juste du temps » après l’arrêt.",
+                "Il s’étonne que les comptes et les plans restent difficiles trois ans plus tard."
+              ]
+            },
+            {
+              "heading": "Le soupçon d’un effort insuffisant",
+              "text": "Quand la difficulté dure, l’entourage peut la lire comme un manque de volonté ou de sérieux, ce qui pèse sur la personne.",
+              "examples": [
+                "Jean-Paul baisse les yeux sur sa casquette, gêné de poser la question comme un reproche.",
+                "Oumar, le dimanche, ne trouve qu’une image de jardinier pour se défendre."
+              ]
+            },
+            {
+              "heading": "Une explication difficile à redire",
+              "text": "La personne peut avoir compris l’explication du médecin sans parvenir à la restituer en ordre à quelqu’un d’autre.",
+              "examples": [
+                "Oumar se souvient de l’hospitalisation et des dessins ratés, pas de l’enchaînement des raisons.",
+                "Il demande cette fois à repartir avec un texte qu’il puisse tenir dans la main."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour comprendre son diagnostic avec son médecin",
+          "points": [
+            {
+              "heading": "Demander une explication en mots simples",
+              "objective": "Obtenir une version du diagnostic que l’on peut comprendre et réutiliser.",
+              "exercise": [
+                "Dire au médecin ce que l’on a retenu, avec ses propres mots.",
+                "Lui demander de corriger ce qui est faux ou incomplet.",
+                "Demander que l’essentiel soit écrit sur une feuille à emporter."
+              ],
+              "benefit": "Un support écrit et simple peut aider à garder l’explication sans devoir la reconstruire de mémoire."
+            },
+            {
+              "heading": "Séparer le connu de l’incertain",
+              "objective": "Éviter de transformer une hypothèse en promesse ou en condamnation.",
+              "exercise": [
+                "Tracer deux colonnes sur une feuille : ce qui est établi, ce qui ne l’est pas.",
+                "Demander au médecin de placer chaque point dans la bonne colonne.",
+                "Relire la colonne de l’incertain avant de répondre aux questions des autres."
+              ],
+              "benefit": "Distinguer les deux peut protéger des attentes irréalistes comme des inquiétudes inutiles."
+            },
+            {
+              "heading": "Noter ses questions pour la prochaine fois",
+              "objective": "Ne pas perdre une question qui revient entre deux rendez-vous.",
+              "exercise": [
+                "Garder un carnet réservé aux questions pour l’équipe de soin.",
+                "Y écrire la question dès qu’elle se présente, même formulée maladroitement.",
+                "L’apporter au rendez-vous suivant et cocher ce qui a reçu une réponse."
+              ],
+              "benefit": "Le carnet peut rendre les consultations plus utiles, sans remplacer un appel à l’équipe si quelque chose change brusquement."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Trois phrases dans le portefeuille",
+      "ending": "Avant de partir, Oumar demande à la docteure Morvan d’écrire en trois phrases ce qu’il peut répondre quand on l’interroge. Elle réfléchit, puis écrit : « J’ai une maladie qui touche l’organisation, les calculs et les plans. Je parle facilement, mais certaines tâches me demandent plus de temps et des aides. Je choisis ces aides avec mon équipe. » Oumar relit à voix haute. Il remarque que l’alcool n’y figure pas, et la docteure lui dit que c’est volontaire : c’est à lui de décider à qui il raconte l’origine.\n\nIl plie la feuille en quatre et la glisse dans son portefeuille, derrière sa carte de bus. Dans le tramway du retour, Jean-Paul dit seulement : « Alors c’est comme une terre qui a pris un coup de gel. Tu ne la rends pas comme avant en arrêtant de geler. » Oumar répond que l’image est de lui, pas de la docteure, et qu’elle ne dit rien de ce qui repoussera ou non. Le lendemain, il montre la feuille à Odette, pas à Gérard.",
+      "conclusion": "L’épisode montre qu’arrêter l’alcool ne fait pas disparaître une démence qui en est issue : les troubles persistent et leur évolution reste incertaine. Oumar repart avec trois phrases écrites, qu’il montrera seulement aux personnes qu’il aura choisies.",
+      "mirror": [
+        "Dans la salle de consultation, Jean-Paul dit « je croyais que ça partirait avec l’alcool » : c’est une question honnête, et il l’a posée là où quelqu’un pouvait y répondre. Un ami peut faire de même : « Je ne comprends pas pourquoi ça dure, est-ce que je peux venir le demander avec toi ? » Il n’a pas à expliquer le diagnostic à la place du médecin, ni à surveiller ce qui a changé. Il peut aussi accepter qu’Oumar garde pour lui la feuille du portefeuille."
+      ],
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "ridley-2013",
+        "nice-cg115",
+        "nice-ng97"
+      ],
+      "continuity": {
+        "choice": "Oumar obtient de la docteure Morvan trois phrases écrites, sans mention de l’alcool, qu’il garde dans son portefeuille ; il les montre à Odette, pas à Gérard. Jean-Paul a assisté à la consultation avec son accord.",
+        "next": "Le mercredi, Yannick Le Floch construit avec lui la fiche d’étapes punaisée dans l’abri ; les trois lattes pourries sont déposées, mais le premier perçage sur une planche d’essai révélera une autre difficulté que l’ordre des tâches."
+      },
+      "number": 2,
+      "diagnostic_stage": "known"
+    },
+    {
+      "slug": "oumar-parole-aisee-assemblage-difficile",
+      "title": "Bien expliquer un assemblage et peiner à le reproduire",
+      "description": "Oumar décrit le banc avec précision devant les résidents, puis rate trois fois le report des trous sur une planche : un décalage qui surprend Gérard.",
+      "context": "un mercredi d’avril sous le tilleul",
+      "topics": [
+        "capacités visuospatiales",
+        "langage mieux préservé",
+        "gabarit et mesures lues à voix haute"
+      ],
+      "clinical_focus": "Parler avec aisance, peiner à reproduire un assemblage",
+      "clinical_intro": "Chez certaines personnes qui vivent avec une démence liée à l’alcool, la parole reste fluide alors que reporter une mesure, copier une figure ou assembler des pièces devient difficile. Ce contraste n’est pas observé chez tout le monde. Pour Oumar, il trompe les autres : ceux qui l’entendent parler du banc ne devinent pas l’effort que lui demande un simple perçage.",
+      "opening": "Début avril, la fiche d’étapes est punaisée dans l’abri depuis deux semaines, à hauteur d’yeux, au-dessus de l’établi. Yannick Le Floch, l’ergothérapeute qui suit Oumar, l’a écrite avec lui en gros caractères, une étape par ligne, et Oumar y a coché la première : déposer les trois lattes pourries. Elles sont là, contre le mur, noires et spongieuses. Restent quatre lattes d’origine sur la fonte, et un vide de trois.\n\nCe mercredi après-midi, Yannick est revenu au Clos des Mauves pour la séance suivante. Quelques résidents se sont installés sous le tilleul, sur des chaises de jardin, parce qu’Oumar a promis de raconter comment le banc avait été construit. Il le fait sans notes. Il montre les tenons, explique pourquoi les lattes sont espacées d’un doigt pour laisser l’eau filer, pourquoi le fil du chêne doit courir dans le sens de la longueur. Gérard Pichon, le menuisier retraité du deuxième étage, finit par dire : « Tu en sais plus que moi sur ce banc. » Odette Bréhier, sa voisine de bac, sourit.\n\nVient l’étape deux de la fiche : reporter l’écartement des trous de fixation sur une planche d’essai, un reste de sapin que Gérard a donné pour s’entraîner avant que le chêne arrive. Yannick a dessiné un croquis avec les cotes. Oumar pose le mètre, trace un premier repère, puis un second. En vérifiant sur la vieille latte, il voit que l’écart ne correspond pas. Il efface au doigt, recommence. La deuxième fois, il a pris la mesure depuis le mauvais bord. La troisième, le crayon a glissé. Il perce quand même, pour en finir. Le trou tombe à côté de celui de la fonte, d’un bon centimètre.\n\nGérard regarde la planche, puis Oumar. « Je ne comprends pas. Tu viens de nous faire un cours. » Oumar repose la perceuse. Il n’a pas de réponse qui tienne en une phrase.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Quand les mots restent et que l’espace se brouille",
+          "text": "Une démence peut toucher certains domaines et en épargner relativement d’autres. Dans les descriptions de la démence liée à l’alcool, les difficultés visuospatiales, comme copier une figure, dessiner une horloge ou situer des repères les uns par rapport aux autres, apparaissent souvent, tandis que le langage peut rester mieux préservé que dans d’autres démences. Les auteurs qui le rapportent signalent que ce profil ne se retrouve pas dans toutes les études. Sous le tilleul, la différence est flagrante : Oumar raconte l’assemblage parce qu’il le connaît depuis des années, mais reporter des cotes d’un croquis à une planche demande de garder plusieurs repères en tête, de comparer des distances et de corriger un tracé. Ce n’est pas le même travail du cerveau. Sa parole ne prouve pas que la tâche manuelle est facile, et son erreur de perçage ne prouve pas qu’il ne sait rien."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment se manifeste l’écart entre la parole et l’assemblage ?",
+          "points": [
+            {
+              "heading": "Une explication précise et fluide",
+              "text": "La personne peut décrire un objet, une méthode ou une histoire avec richesse, ce qui donne l’impression que tout va bien.",
+              "examples": [
+                "Oumar explique sans notes pourquoi les lattes sont espacées d’un doigt.",
+                "Gérard reconnaît qu’Oumar en sait plus que lui sur ce banc."
+              ]
+            },
+            {
+              "heading": "Des repères qui ne tiennent pas en place",
+              "text": "Passer d’un dessin à un objet réel suppose de transposer des distances et des orientations, ce qui peut devenir laborieux.",
+              "examples": [
+                "Oumar prend une fois la mesure depuis le mauvais bord de la planche d’essai.",
+                "Il compare son tracé à la vieille latte et voit que l’écart ne correspond pas."
+              ]
+            },
+            {
+              "heading": "Une incompréhension autour de soi",
+              "text": "Le contraste peut faire croire à une distraction, voire à de la mauvaise volonté, alors qu’il s’agit d’une difficulté précise.",
+              "examples": [
+                "Gérard ne comprend pas qu’on puisse « faire un cours » puis percer à côté.",
+                "Oumar ne trouve pas de phrase courte pour expliquer ce décalage devant les résidents."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour reporter des mesures sans s’épuiser",
+          "points": [
+            {
+              "heading": "Fabriquer un gabarit une fois pour toutes",
+              "objective": "Remplacer un report de mesures répété par un modèle physique à poser.",
+              "exercise": [
+                "Avec l’ergothérapeute, découper un carton à la taille exacte d’une latte d’origine.",
+                "Y percer les trous en les alignant directement sur la vieille latte.",
+                "Poser ensuite le gabarit sur chaque planche neuve et marquer à travers les trous."
+              ],
+              "benefit": "Le gabarit peut supprimer l’étape de transposition qui pose problème, sans remplacer une évaluation si d’autres gestes deviennent difficiles."
+            },
+            {
+              "heading": "Faire lire les mesures par une autre personne",
+              "objective": "Partager la tâche qui coûte en gardant celle qu’on maîtrise.",
+              "exercise": [
+                "Choisir soi-même la personne qui lira le mètre.",
+                "Lui demander de lire chaque chiffre à voix haute pendant qu’on trace.",
+                "Répéter le chiffre avant de poser le crayon."
+              ],
+              "benefit": "Lire à deux peut limiter les erreurs, tout en laissant à la personne le geste et la décision."
+            },
+            {
+              "heading": "Vérifier un repère avant de percer",
+              "objective": "Ne pas transformer une erreur de tracé en trou définitif.",
+              "exercise": [
+                "Après le tracé, poser la planche contre la pièce d’origine.",
+                "Contrôler que chaque repère tombe en face de l’attache existante.",
+                "Ne percer qu’après ce contrôle, et s’arrêter si l’on se sent pressé d’en finir."
+              ],
+              "benefit": "Une vérification courte peut éviter la frustration d’un perçage raté ; elle ne sert pas de test et ne dit rien de l’évolution."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Le gabarit en carton",
+      "ending": "Yannick ne commente pas l’erreur. Il va chercher dans sa voiture une plaque de carton épais et propose une autre méthode. Oumar pose lui-même la vieille latte d’origine sur le carton, en trace le contour, puis perce le carton à travers les trous existants. Au bout d’une demi-heure, il a un gabarit aux trous déjà marqués. Il écrit dessus au feutre : « Latte du banc. Ne pas mesurer. Poser. »\n\nIl se tourne ensuite vers Odette. « Tu veux bien lire le mètre quand il faudra ? Moi je perce. » Elle accepte, et ne demande rien d’autre. Ils essaient sur la deuxième moitié de la planche de sapin : le gabarit posé, les repères au crayon, Odette qui confirme la longueur à voix haute. Le trou tombe en face de la fonte. Gérard hoche la tête sans rien dire. Oumar raye l’étape deux sur la fiche et ajoute à la main une ligne : « Gabarit d’abord. » Il sait que le chêne, lui, n’autorisera pas trois essais.",
+      "conclusion": "Cet épisode montre qu’une parole aisée peut coexister avec une vraie difficulté à reporter des mesures ou à assembler. Oumar ne renonce pas au perçage : il change d’outil, confie la lecture du mètre à Odette et garde pour lui le geste qui compte.",
+      "mirror": [
+        "Sous le tilleul, Gérard dit « tu viens de nous faire un cours », comme si l’erreur contredisait le savoir. Un voisin ou un proche peut plutôt demander : « Tu veux que je lise les chiffres pendant que tu traces ? », puis laisser la personne répondre oui ou non. Il n’a pas à faire passer de petit test ni à conclure sur ce que le perçage raté signifie. Si les difficultés l’inquiètent, il peut suggérer d’en parler à l’équipe qui suit la personne, sans le faire à sa place."
+      ],
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "ridley-2013",
+        "nice-ng97",
+        "has-fiche14-communiquer"
+      ],
+      "continuity": {
+        "choice": "Oumar fabrique avec Yannick un gabarit en carton aux trous déjà marqués ; Odette lira le mètre, Oumar garde le perçage. La fiche d’étapes porte désormais la ligne « Gabarit d’abord ».",
+        "next": "Le soir même, au dîner de la résidence, Gérard plaisantera sur le verre de rouge qui aiderait Oumar à viser droit."
+      },
+      "number": 3,
+      "diagnostic_stage": "known"
+    },
+    {
+      "slug": "oumar-choisir-a-qui-raconter-origine-troubles",
+      "title": "Choisir à qui raconter l’origine de ses troubles",
+      "description": "Au dîner, une plaisanterie de Gérard sur « un petit rouge » fige la table. Oumar décide ce qu’il dit de son histoire de soin, et à qui.",
+      "context": "un soir d’avril au dîner de la résidence",
+      "topics": [
+        "stigmatisation",
+        "confidentialité du dossier",
+        "phrase choisie"
+      ],
+      "clinical_focus": "Choisir à qui raconter l’origine de ses troubles",
+      "clinical_intro": "Les troubles liés à l’alcool sont souvent entourés de jugements, et ces jugements pèsent sur la façon dont une personne parle de son diagnostic. Partager l’origine de ses troubles reste une décision personnelle, y compris dans un lieu de vie collectif. Oumar en a parlé à quelques personnes choisies ; face à une plaisanterie publique, il cherche une réponse qui ne livre que ce qu’il veut bien dire.",
+      "opening": "Le soir du gabarit, la salle à manger du Clos des Mauves sent le gratin et la soupe de poireaux. Oumar s’assoit à la table du fond avec Odette Bréhier, sa voisine de bac, et deux résidents du rez-de-chaussée. Gérard Pichon, le menuisier retraité qui a donné la planche de sapin, arrive en dernier et s’installe en face.\n\nOn parle du banc. Quelqu’un a vu la planche percée deux fois, un trou à côté, un trou juste. Gérard raconte l’après-midi à sa façon, plutôt gentiment. Puis il lève son verre vers Oumar et lance, assez fort pour la table voisine : « La prochaine fois, un petit rouge avant de percer, ça t’aidera à viser droit ! » Deux résidents rient. Odette, elle, pose sa cuillère.\n\nOumar sent la table attendre. Ce n’est pas la plaisanterie elle-même qui le serre, c’est ce qu’elle touche sans le savoir. Odette connaît son histoire : il la lui a racontée en mars, un soir où elle lui demandait pourquoi il avait quitté sa parcelle de la Crapaudine. Jean-Paul, son ami de trente ans, la connaît depuis toujours. Les soignants la connaissent. Gérard, non, et Oumar n’a aucune envie qu’il l’apprenne ce soir, entre le gratin et le fromage, devant tout le monde. Il n’a pas non plus envie de rire avec eux, ni de se lever en laissant croire qu’il est vexé pour rien.\n\nIl pense à la feuille pliée dans son portefeuille, aux trois phrases de la docteure Morvan. Elles ne parlent pas d’alcool. Il pourrait la sortir, mais ce serait déjà en dire plus qu’il ne veut. Sous la table, il sent sa main se fermer sur sa serviette. Odette le regarde sans rien demander. La table attend toujours.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Le droit de choisir ce que l’on partage",
+          "text": "La stigmatisation et la discrimination accompagnent souvent les troubles liés à l’alcool, et les recommandations demandent aux professionnels de travailler sans jugement et dans le respect de la confidentialité. Pour une personne qui vit avec une démence, le partage de ses informations suppose aussi son accord : avec qui, et quoi. Dans une résidence, cela vaut pour l’équipe comme pour les voisins de table. Gérard ne sait rien de l’histoire d’Oumar ; sa plaisanterie reprend un cliché courant. Mais elle place Oumar devant un choix qu’il n’a pas demandé : se justifier, se taire ou en dire plus qu’il ne veut. Il a le droit de refuser les trois et de choisir une quatrième voie, une réponse courte qui ne dit que ce qu’il a décidé de dire. Avoir parlé à Odette ne l’oblige en rien à parler à Gérard."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment la stigmatisation se glisse-t-elle dans la vie collective ?",
+          "points": [
+            {
+              "heading": "Une plaisanterie qui vise juste sans le savoir",
+              "text": "Un cliché sur l’alcool peut blesser une personne dont l’entourage ignore l’histoire, sans intention de nuire.",
+              "examples": [
+                "Gérard lève son verre en parlant d’un « petit rouge » pour viser droit.",
+                "Deux résidents rient, sans savoir ce que la phrase touche."
+              ]
+            },
+            {
+              "heading": "La pression de répondre devant tous",
+              "text": "Être interpellé en public pousse à se justifier ou à se dévoiler, alors que le moment n’a pas été choisi.",
+              "examples": [
+                "Oumar sent la table attendre une réponse entre le gratin et le fromage.",
+                "Il envisage de sortir la feuille de son portefeuille, puis y renonce."
+              ]
+            },
+            {
+              "heading": "Des cercles de confiance différents",
+              "text": "Une personne peut avoir confié son histoire à quelques-uns et vouloir la garder pour elle avec les autres.",
+              "examples": [
+                "Odette connaît l’histoire depuis mars et ne pose aucune question à table.",
+                "Oumar ne veut pas que Gérard l’apprenne ce soir, ni par quelqu’un d’autre."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour protéger ce que l’on choisit de taire",
+          "points": [
+            {
+              "heading": "Préparer une phrase courte",
+              "objective": "Avoir une réponse prête qui ne livre que ce que l’on veut dire.",
+              "exercise": [
+                "Écrire une ou deux phrases vraies qui ne disent rien de plus que nécessaire.",
+                "Les dire à voix haute une fois à une personne de confiance.",
+                "Les garder sur soi pour les moments où l’on est pris de court."
+              ],
+              "benefit": "Une phrase préparée peut éviter d’improviser une justification sous la pression du groupe."
+            },
+            {
+              "heading": "Vérifier la confidentialité avec l’équipe",
+              "objective": "Savoir qui a accès à ses informations dans le lieu de vie.",
+              "exercise": [
+                "Demander à la coordinatrice ce que contient le dossier et qui peut le lire.",
+                "Préciser à qui l’on accepte que des informations soient transmises.",
+                "Faire noter ce choix, et le modifier plus tard si on le souhaite."
+              ],
+              "benefit": "Connaître les règles peut rassurer et éviter de craindre une fuite qui n’a pas eu lieu."
+            },
+            {
+              "heading": "Parler à part à la personne qui a blessé",
+              "objective": "Poser une limite sans se dévoiler ni humilier l’autre en public.",
+              "exercise": [
+                "Choisir un moment calme, seul à seul, le lendemain par exemple.",
+                "Dire ce qui a gêné et ce que l’on demande, sans expliquer pourquoi si on ne le veut pas.",
+                "Laisser l’autre répondre, puis clore l’échange."
+              ],
+              "benefit": "Une demande simple peut suffire à faire cesser la plaisanterie, même si la relation reste à construire."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Viser juste avec un gabarit",
+      "ending": "Oumar desserre la main sur sa serviette et répond, sans hausser la voix : « Je ne bois pas, Gérard. Et je vise très bien avec un gabarit, tu l’as vu cet après-midi. » Il y a un silence, puis l’un des résidents demande s’il reste du fromage. La conversation repart sur la livraison des lattes de chêne, attendue le jeudi suivant.\n\nLe lendemain matin, Oumar trouve Gérard devant l’abri. Il lui dit qu’il n’aime pas les plaisanteries sur la boisson et lui demande de ne plus en faire, ni à table ni ailleurs. Gérard s’excuse maladroitement, assure qu’il ne pensait à rien. Oumar ne lui raconte pas le reste. Dans l’après-midi, il passe au bureau de Nathalie Jouan, la coordinatrice de la résidence. Elle lui confirme que son dossier n’est lu que par l’équipe, que rien n’est dit aux résidents sans son accord et qu’en cas d’urgence seuls les soignants reçoivent ce qui est utile. Elle l’écrit dans son plan d’aide, à sa demande. Oumar repart soulagé, sans savoir si Gérard a vraiment compris.",
+      "conclusion": "L’épisode montre que l’origine d’une démence liée à l’alcool peut exposer à des jugements, et que la personne garde le droit de choisir ce qu’elle partage. Oumar pose une limite à Gérard, fait inscrire son choix de confidentialité et garde son histoire pour ceux à qui il l’a confiée.",
+      "mirror": [
+        "À table, Odette pose sa cuillère et ne dit rien : elle connaît l’histoire et ne la raconte pas à la place d’Oumar. Une proche dans sa situation peut, après le repas, demander simplement : « Tu veux en parler, ou on parle du banc ? » Elle n’a pas à défendre la personne en dévoilant ce qu’elle sait. Si la plaisanterie se répète, elle peut proposer de l’accompagner chez la coordinatrice, en lui laissant le choix de ce qu’il dira."
+      ],
+      "sources": [
+        "oms-cddr",
+        "ridley-2013",
+        "nice-cg115",
+        "nice-ng97",
+        "has-fiche14-communiquer"
+      ],
+      "continuity": {
+        "choice": "Oumar répond qu’il ne boit pas et qu’il vise bien avec un gabarit ; le lendemain, il demande à Gérard de cesser ces plaisanteries sans lui raconter son histoire. Nathalie Jouan inscrit dans le plan d’aide que rien n’est transmis aux résidents sans son accord, et qu’en urgence seuls les soignants reçoivent l’utile.",
+        "next": "La livraison des lattes de chêne prévue le jeudi suivant n’aura pas lieu, et le programme du chantier devra changer."
+      },
+      "number": 4,
+      "diagnostic_stage": "known"
+    }
+  ]
+}

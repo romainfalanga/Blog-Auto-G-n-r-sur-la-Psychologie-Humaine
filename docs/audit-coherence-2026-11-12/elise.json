@@ -1,0 +1,144 @@
+{
+  "character_id": "elise",
+  "type": "origine",
+  "auditor": "audit_o2",
+  "audited_on": "2026-11-12",
+  "persona": {
+    "age_metier_proches": "Élise, née le 1er janvier 1972 (54 ans, octobre 2026), gestionnaire d'une résidence municipale, séparée depuis huit ans. Amitiés stables : Françoise (amie de longue date, déjeuners, promenades), Mireille (jardin partagé voisin). Collègue : Cédric (agent technique ou de service de la résidence, rôle jamais nommé). Elle a une parcelle au jardin partagé.",
+    "arc_summary": "Une fuite ferme la salle commune le jour d'une rencontre avec les habitants (ép. 1). Élise réorganise l'échange, puis prépare avec Mireille et Cédric une rencontre au jardin : distraction, plaisir d'un moment, gratitude, vérifications répétées, entraide (ép. 2 à 7). La demande de bacs accessibles est refusée ; elle se répond avec justesse et révise sa lecture du silence des autres (ép. 8, 9). La rencontre réduite est préparée avec un plan de report, puis reportée sous la pluie (ép. 10, 11). Le parcours s'achève sur un petit essai d'atelier de graines, limité et sans suite automatique (ép. 12). Chaque épisode reprend précisément le précédent ; la continuité est excellente.",
+    "arc_issues": [
+      "La rencontre des habitants, enjeu de départ, n'a jamais lieu en douze épisodes (salle fermée, rencontre au jardin reportée, aucune date à la fin). Ce choix est cohérent avec le propos (accepter les limites), mais le lecteur de la série termine sans dénouement sur le fil principal. Une phrase de l'ép. 12 pourrait au moins situer la suite prévue pour les habitants (rencontre intérieure demandée à plusieurs reprises).",
+      "Le rôle de Cédric n'est jamais précisé (technicien, agent d'entretien, collègue administratif ?). On le devine par « pendant son service », « véhicule de service » et « point technique ».",
+      "Plusieurs épisodes travaillent la même limite, ne pas tout prendre pour soi : ép. 7 (entraide), ép. 12 (essai limité) et, en partie, ép. 6 et 10 (vérifications répétées). Les aspects psychologiques restent distincts, mais les gestes finaux se ressemblent (une seule relecture, une seule date, rentrer à sa parcelle).",
+      "Les parties explicatives sont longues et très générales. Elles restent correctes et prudentes et ne nuisent pas à la compréhension des scènes."
+    ]
+  },
+  "episodes": [
+    {
+      "number": 1,
+      "file": "content/posts/reprendre-le-controle-de-ses-pensees/elise-imprevu-souplesse.md",
+      "focus": "souplesse psychologique : retrouver l'objectif (écouter les habitants) quand la forme prévue (la salle) disparaît",
+      "structure": {"scene": "ok", "concept": "ok", "manifestations": "ok", "techniques": "ok", "retour": "ok", "conclusion": "ok", "proches": "ok"},
+      "comprehension": 4,
+      "comprehension_note": "Le lieu, l'heure, l'enjeu et la décision sont clairs : la fuite, la rencontre de dix heures, la ligne « recueillir les besoins des habitants » qui fait basculer la réflexion. Les échanges dans le hall bruyant et la note du problème sans conclure que « tout s'est mieux passé » forment une bonne fin. Seuls le rôle de Cédric et la « possibilité » évoquée avec Mireille restent vagues.",
+      "issues": [
+        {"severity": "mineur", "type": "comprehension", "quote": "Élise tient la poignée de la salle commune quand Cédric l’appelle depuis le couloir.", "problem": "Cédric n'est pas présenté. On ne sait pas s'il est technicien, gardien ou collègue, alors qu'il revient dans presque tous les épisodes.", "fix": "Écrire « quand Cédric, l'agent technique de la résidence, l'appelle depuis le couloir »."},
+        {"severity": "mineur", "type": "comprehension", "quote": "Il existe peut-être une possibilité pour une autre date.", "problem": "La possibilité n'est pas nommée : le lecteur ne sait pas encore que le jardin pourrait accueillir la rencontre.", "fix": "Écrire « Le jardin pourrait peut-être accueillir les habitants à une autre date »."}
+      ]
+    },
+    {
+      "number": 2,
+      "file": "content/posts/comprendre-et-maitriser-ses-emotions/elise-humour-emotions.md",
+      "focus": "humour qui rapproche et humour qui minimise une déception",
+      "structure": {"scene": "ok", "concept": "ok", "manifestations": "ok", "techniques": "ok", "retour": "ok", "conclusion": "ok", "proches": "ok"},
+      "comprehension": 5,
+      "comprehension_note": "Le « salon municipal avec plafond optionnel », la serviette froissée, « personne n'est mort » puis « cela m'a fait de la peine » montrent exactement le passage du rire qui ferme au rire qui accompagne. L'habitante repartie sans participer donne un objet précis à la déception.",
+      "issues": []
+    },
+    {
+      "number": 3,
+      "file": "content/posts/sortir-de-ses-schemas-repetitifs/elise-distraction-choisie.md",
+      "focus": "distraction choisie (avec une fin et un point de retour) contre défilement automatique",
+      "structure": {"scene": "ok", "concept": "ok", "manifestations": "ok", "techniques": "ok", "retour": "ok", "conclusion": "ok", "proches": "ok"},
+      "comprehension": 5,
+      "comprehension_note": "Le curseur qui clignote après la même virgule, le repas qui refroidit et la note de deux lignes (sièges avec Cédric, trajet avec Mireille) rendent la scène et la décision évidentes. La reprise du lendemain donne une conséquence claire.",
+      "issues": []
+    },
+    {
+      "number": 4,
+      "file": "content/posts/comprendre-et-maitriser-ses-emotions/elise-savourer-jardin.md",
+      "focus": "savourer une expérience ordinaire (la pomme partagée) sans qu'elle efface les préoccupations",
+      "structure": {"scene": "ok", "concept": "ok", "manifestations": "ok", "techniques": "ok", "retour": "ok", "conclusion": "ok", "proches": "ok"},
+      "comprehension": 5,
+      "comprehension_note": "Le jus de pomme qui oblige à refermer le carnet est une très bonne image du basculement. L'allée étroite notée ensuite garde la nuance, et la conversation du soir sur la pomme et la musique du bus termine simplement.",
+      "issues": [
+        {"severity": "mineur", "type": "comprehension", "quote": "Le point sur la fermeture peut attendre qu’elles aient fini de parler du bus.", "problem": "Dernière phrase un peu elliptique (« parler du bus » pour la musique entendue dans le bus).", "fix": "Écrire « qu'elles aient fini de parler de cette musique »."}
+      ]
+    },
+    {
+      "number": 5,
+      "file": "content/posts/comprendre-et-maitriser-ses-emotions/elise-gratitude-sans-deni.md",
+      "focus": "gratitude précise qui ne fait pas taire un besoin restant (l'accès au jardin)",
+      "structure": {"scene": "ok", "concept": "ok", "manifestations": "ok", "techniques": "ok", "retour": "ok", "conclusion": "ok", "proches": "ok"},
+      "comprehension": 5,
+      "comprehension_note": "La phrase interrompue (« ce sera très bien »), la question de Cédric et le compte rendu à deux lignes (chaises trouvées, accès non validé) montrent très clairement l'aspect traité.",
+      "issues": [
+        {"severity": "mineur", "type": "comprehension", "quote": "Ils ont encore besoin de savoir si on peut laisser cet espace libre.", "problem": "« Cet espace » renvoie aux sièges près du portail ; le pronom « on » rend la phrase floue.", "fix": "Écrire « Il leur reste à savoir si l'espace près du portail pourra rester dégagé pour ces sièges »."}
+      ]
+    },
+    {
+      "number": 6,
+      "file": "content/posts/sortir-de-ses-schemas-repetitifs/elise-routines-verifications.md",
+      "focus": "routine utile et relectures répétées sans information nouvelle",
+      "structure": {"scene": "ok", "concept": "ok", "manifestations": "ok", "techniques": "ok", "retour": "ok", "conclusion": "ok", "proches": "ok"},
+      "comprehension": 5,
+      "comprehension_note": "La procédure papier cochée une fois, puis le courriel rouvert pour la date, puis pour la réserve, rendent très lisible le déplacement du critère d'arrêt. Le texte précise bien la limite de l'exercice (pas de TOC déduit, procédures de sécurité maintenues).",
+      "issues": []
+    },
+    {
+      "number": 7,
+      "file": "content/posts/sortir-de-ses-schemas-repetitifs/elise-entraide-concrete.md",
+      "focus": "entraide concrète : répartir les tâches au lieu de tout prendre, demander une aide délimitée",
+      "structure": {"scene": "ok", "concept": "ok", "manifestations": "ok", "techniques": "ok", "retour": "ok", "conclusion": "ok", "proches": "ok"},
+      "comprehension": 5,
+      "comprehension_note": "La question de Mireille (« à quelle heure tu reviens jardiner ? ») révèle d'un coup qu'Élise s'est mise au centre de chaque ligne. La relecture limitée demandée à Françoise et le plan resté chez Mireille donnent une fin nette.",
+      "issues": [
+        {"severity": "mineur", "type": "repetition", "quote": "Élise relit ses engagements une seule fois avant de l’envoyer, en gardant le petit repère essayé avec le courriel précédent.", "problem": "Renvoi utile, mais le geste final reprend celui de l'ép. 6. Le retour pourrait se concentrer sur l'aspect propre à l'épisode (le plan laissé chez Mireille).", "fix": "Garder la phrase de renvoi courte et placer en dernier le plan déjà rangé par Mireille."}
+      ]
+    },
+    {
+      "number": 8,
+      "file": "content/posts/comprendre-et-maitriser-ses-emotions/elise-bienveillance-apres-revers.md",
+      "focus": "bienveillance envers soi après un refus de financement : pause avant de répondre, part de responsabilité précise",
+      "structure": {"scene": "ok", "concept": "ok", "manifestations": "ok", "techniques": "ok", "retour": "faible", "conclusion": "ok", "proches": "ok"},
+      "comprehension": 4,
+      "comprehension_note": "Le brouillon d'excuses, la reprise fixée à quatorze heures et la réponse sobre envoyée sont très clairs. Le titre du retour (« Le premier courriel reste au brouillon ») et sa dernière phrase brouillent la fin : on ne sait plus quel brouillon reste ni ce qu'Élise note.",
+      "issues": [
+        {"severity": "mineur", "type": "trame", "quote": "Élise le note à l’heure où elle aurait mis une nouvelle date si elle s’était encore crue obligée de tout régler ce soir.", "problem": "Phrase difficile à suivre. Plus haut, le brouillon a déjà été corrigé et envoyé à quatorze heures, et la « phrase où elle annonçait la fin de la rencontre » ne correspond pas exactement à la phrase d'abandon de la proposition citée au début.", "fix": "Remplacer les deux dernières phrases par : « Dans son agenda, à la place d'une nouvelle date, elle inscrit seulement l'échange proposé par Mireille. »"}
+      ]
+    },
+    {
+      "number": 9,
+      "file": "content/posts/reprendre-le-controle-de-ses-pensees/elise-changer-perspective.md",
+      "focus": "changer de perspective sans nier le fait : distinguer refus, interprétation (« on m'en veut ») et réaction",
+      "structure": {"scene": "ok", "concept": "ok", "manifestations": "ok", "techniques": "ok", "retour": "ok", "conclusion": "ok", "proches": "ok"},
+      "comprehension": 5,
+      "comprehension_note": "L'attente au portail, le retard de Mireille lu comme un reproche, les repères concrets (sol, panneau, voiture) puis l'avis réel de Mireille sont limpides. Le cercle tracé sur le plan offre un dénouement concret et modeste.",
+      "issues": [
+        {"severity": "mineur", "type": "repetition", "quote": "le projet ne valait probablement pas grand-chose, Mireille doit regretter de s’y être engagée", "problem": "Le jugement global sur le projet reprend celui de l'ép. 8 (« tout était inutile »). L'aspect propre à l'épisode (prêter un avis aux autres) gagnerait à être isolé.", "fix": "Réduire la première pensée sur la valeur du projet et garder surtout la lecture du silence de Mireille."}
+      ]
+    },
+    {
+      "number": 10,
+      "file": "content/posts/reprendre-le-controle-de-ses-pensees/elise-optimisme-preparations-utiles.md",
+      "focus": "optimisme réaliste : une invitation fondée sur des moyens confirmés et un plan de report",
+      "structure": {"scene": "ok", "concept": "ok", "manifestations": "ok", "techniques": "ok", "retour": "ok", "conclusion": "ok", "proches": "ok"},
+      "comprehension": 5,
+      "comprehension_note": "La phrase « cette fois tout se passera bien » retenue, la ligne sur la pluie et le point de décision fixé la veille montrent exactement la différence entre promesse et préparation. La correction « si le terrain reste praticable » dans la conversation avec Françoise est une fin juste.",
+      "issues": []
+    },
+    {
+      "number": 11,
+      "file": "content/posts/comprendre-et-maitriser-ses-emotions/elise-accepter-agir.md",
+      "focus": "acceptation et action : appliquer le report prévu malgré la déception",
+      "structure": {"scene": "ok", "concept": "ok", "manifestations": "ok", "techniques": "ok", "retour": "ok", "conclusion": "ok", "proches": "ok"},
+      "comprehension": 5,
+      "comprehension_note": "La bâche imaginée, le « je sais » trop sec puis « je suis déçue » à Mireille, l'appel à l'habitante déjà repartie à l'ép. 1 et les deux colonnes du carnet rendent l'épisode très lisible. La décision de ne pas inscrire l'atelier de graines sur le message de report est claire.",
+      "issues": []
+    },
+    {
+      "number": 12,
+      "file": "content/posts/sortir-de-ses-schemas-repetitifs/elise-explorer-petite-possibilite.md",
+      "focus": "explorer une petite possibilité (une séance de graines) sans bouleverser une stabilité choisie",
+      "structure": {"scene": "ok", "concept": "ok", "manifestations": "ok", "techniques": "ok", "retour": "faible", "conclusion": "ok", "proches": "ok"},
+      "comprehension": 4,
+      "comprehension_note": "Les deux élans (essayer, préserver ses soirées sans coordination) et le cadre négocié avec Mireille sont clairs. Le retour laisse un doute : on ne sait pas si « le temps prévu » correspond à la séance d'essai ou à une simple préparation, ni ce que signifie la « seule date » sur l'enveloppe. Le fil principal (la rencontre des habitants) n'est pas refermé.",
+      "issues": [
+        {"severity": "mineur", "type": "comprehension", "quote": "Au bout du temps prévu, elle range ses affaires et rejoint sa parcelle.", "problem": "Le lecteur ne sait pas si l'atelier a eu lieu ou s'il s'agit d'une séance de préparation. La phrase suivante (« Elles ont prévu de se revoir après le premier essai ») suggère qu'il n'a pas encore eu lieu.", "fix": "Écrire « Au bout de l'heure de préparation convenue, elle range ses affaires »."},
+        {"severity": "mineur", "type": "trame", "quote": "Sur l’enveloppe, Élise n’inscrit qu’une seule date.", "problem": "Fin un peu énigmatique : quelle enveloppe, quelle date ? Le dernier épisode du parcours ne dit rien de la suite pour les habitants.", "fix": "Préciser « Sur l'enveloppe des sachets, Élise inscrit la date de l'essai et rien après », et ajouter une phrase sur la rencontre intérieure demandée par les habitants (date à chercher avec la direction)."}
+      ]
+    }
+  ],
+  "missing_or_extra": "Le parcours compte bien 12 épisodes, dans l'ordre et sans doublon de concept (souplesse, humour, distraction, savourer, gratitude, routines, entraide, bienveillance envers soi, perspective, optimisme réaliste, acceptation, exploration). Aucun ajout ni retrait n'est nécessaire. La seule lacune de récit est que la rencontre avec les habitants n'aboutit jamais. Une phrase dans l'ép. 12 suffirait à situer la suite (rencontre intérieure à programmer).",
+  "verdict": "corrections_mineures"
+}

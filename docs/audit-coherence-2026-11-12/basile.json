@@ -1,0 +1,157 @@
+{
+  "character_id": "basile",
+  "type": "clinique",
+  "auditor": "audit_c3",
+  "audited_on": "2026-11-12",
+  "persona": {
+    "age_metier_proches": "Basile, 7 ans, élève accueilli dans une famille, passionné de pistes de billes. Trouble réactionnel de l'attachement diagnostiqué avant la série. Entourage : Nora (adulte référente de la famille d'accueil), Julien (autre adulte du foyer, jamais présenté), Samira (éducatrice, citée sans fonction jusqu'à l'ép. 10), Mme Roux (enseignante), Mme Vidal (remplaçante), Lila (camarade), une équipe pédopsychiatrique.",
+    "arc_summary": "Le tunnel de Basile s'effondre et il ne cherche pas le réconfort de Nora, puis le reçoit sans s'apaiser ; il transforme le carton en deux descentes qui deviennent l'ébauche de la piste de classe. Plaisir discret, irritation devant une aide de Julien, relais préparé pendant l'absence de Mme Roux, difficulté à demander de l'aide pour une mesure, complicité et dispute avec Lila, refus d'un câlin pendant la fête et panneau qui ne raconte pas sa vie jalonnent la construction. Le découragement de Nora trouve un appui auprès de Samira, un mal de ventre est traité comme une question de santé à part, et la séance de jeu aboutit : Basile dépose seul la pièce à réparer sans se tourner vers l'adulte, ce qui est reconnu sans être pris pour une guérison.",
+    "arc_issues": [
+      "La situation familiale n'est jamais posée dans les scènes : aucun épisode ne dit que Nora et Julien sont la famille d'accueil de Basile ; Julien surgit en ép. 4 sans présentation et Samira est nommée dès ép. 1 (rubrique proches) et ép. 2 sans fonction. Un lecteur qui arrive sur un épisode ne sait pas qui sont ces adultes.",
+      "Plusieurs épisodes traitent de l'accompagnement plutôt que d'une facette du trouble (ép. 5 relais, ép. 9 confidentialité) ; l'ép. 5 l'assume explicitement (« pas un symptôme supplémentaire »), ce qui contredit l'exigence d'une facette distincte par épisode.",
+      "Le mal de ventre (ép. 10-12) n'est jamais résolu de façon compréhensible : le lecteur ne sait pas ce que le professionnel a dit ni comment va Basile ; les phrases « organise la suite de l'évaluation selon les consignes reçues » et « au regard des conseils de santé reçus » remplacent l'information.",
+      "Les sections explicatives multiplient les précautions méta (« cette scène ne pose aucun diagnostic », « Le narrateur ne peut pas… ») qui alourdissent sans gêner la compréhension de l'histoire.",
+      "Point fort : continuité matérielle exemplaire (boîte bleue, bille verte, virage moustache, toc, plateau, panneau) et relations crédibles entre enfants."
+    ]
+  },
+  "episodes": [
+    {
+      "number": 1,
+      "file": "content/posts/comprendre-et-maitriser-ses-emotions/basile-chercher-reconfort-tunnel-effondre.md",
+      "focus": "Faible recours au réconfort dans la détresse alors qu'une adulte est disponible",
+      "structure": {"scene": "ok", "concept": "ok", "manifestations": "ok", "techniques": "ok", "retour": "ok", "conclusion": "ok", "proches": "ok"},
+      "comprehension": 3,
+      "comprehension_note": "L'effondrement du tunnel et Basile qui serre les morceaux sans appeler sont très concrets ; mais on ne sait pas qui est Nora pour lui (mère ? accueillante ?), et l'accueil familial n'apparaît que dans une phrase de l'explication.",
+      "issues": [
+        {"severity": "majeur", "type": "comprehension", "quote": "assez bas pour que Nora, près de l’évier, n’entende que le dernier mot", "problem": "Nora n'est pas présentée ; le lien d'accueil, essentiel pour comprendre la série, n'est pas donné dans la scène.", "fix": "« pour que Nora, qui l'accueille chez elle depuis l'an dernier, n'entende… » (durée à choisir selon le dossier)."},
+        {"severity": "mineur", "type": "proches", "quote": "elle peut les décrire à Samira ou à l’équipe qui suit Basile", "problem": "Samira apparaît sans fonction.", "fix": "« à Samira, l'éducatrice qui suit Basile »."}
+      ]
+    },
+    {
+      "number": 2,
+      "file": "content/posts/comprendre-et-maitriser-ses-emotions/basile-recevoir-reconfort-deux-descentes.md",
+      "focus": "Réponse limitée au réconfort offert, distincte du fait de ne pas le demander",
+      "structure": {"scene": "ok", "concept": "ok", "manifestations": "ok", "techniques": "ok", "retour": "ok", "conclusion": "ok", "proches": "ok"},
+      "comprehension": 4,
+      "comprehension_note": "La phrase consolante de Nora suivie de « C'est le ruban. Il collait même pas » montre exactement l'écart entre l'offre et son effet ; la découpe en deux descentes est une décision claire.",
+      "issues": [
+        {"severity": "mineur", "type": "comprehension", "quote": "Les genoux de Basile se rapprochent sous la sienne", "problem": "« la sienne » renvoie à une chaise non mentionnée pour Basile ; l'image est difficile à suivre.", "fix": "« Sous la table, Basile serre les genoux »."},
+        {"severity": "mineur", "type": "comprehension", "quote": "Nora préviendra Samira au moment de leur échange habituel", "problem": "Samira n'est toujours pas identifiée.", "fix": "« Samira, l'éducatrice »."}
+      ]
+    },
+    {
+      "number": 3,
+      "file": "content/posts/comprendre-et-maitriser-ses-emotions/basile-plaisir-peu-visible-toc-final.md",
+      "focus": "Expression émotionnelle positive limitée face à l'adulte ; plaisir dit par un détail (« le bruit est bon »)",
+      "structure": {"scene": "ok", "concept": "ok", "manifestations": "ok", "techniques": "ok", "retour": "ok", "conclusion": "ok", "proches": "ok"},
+      "comprehension": 4,
+      "comprehension_note": "Le contraste entre le « Bravo ! » de Mme Roux et la question sur le couvercle, puis la complicité avec Lila (« une casserole, ton arrivée »), rend la facette sensible sans la surinterpréter.",
+      "issues": [
+        {"severity": "mineur", "type": "trame", "quote": "Le narrateur ne peut pas en faire une mesure de joie intérieure.", "problem": "Phrase méta dans l'explication, qui parle du récit au lieu du trouble.", "fix": "« On ne peut pas en déduire ce qu'il ressent vraiment. »"}
+      ]
+    },
+    {
+      "number": 4,
+      "file": "content/posts/comprendre-et-maitriser-ses-emotions/basile-irritation-offre-aide-raccord.md",
+      "focus": "Irritabilité dans un échange ordinaire et non menaçant avec un adulte qui prend soin de lui",
+      "structure": {"scene": "ok", "concept": "ok", "manifestations": "ok", "techniques": "ok", "retour": "ok", "conclusion": "ok", "proches": "ok"},
+      "comprehension": 3,
+      "comprehension_note": "Le « J'ai rien demandé ! » avant que la main de Julien touche le carton illustre très bien la facette, mais Julien apparaît pour la première fois sans aucune présentation.",
+      "issues": [
+        {"severity": "majeur", "type": "comprehension", "quote": "Julien passe derrière une chaise avec les assiettes du repas.", "problem": "Personnage central de l'épisode jamais présenté (rôle dans la famille d'accueil inconnu).", "fix": "« Julien, le compagnon de Nora, qui accueille Basile avec elle, passe derrière une chaise… »."},
+        {"severity": "mineur", "type": "continuite", "quote": "Mme Roux sera absente le lendemain de l’atelier.", "problem": "L'ép. 5 parle de « la prochaine journée d'essais » et d'une question posée la veille (« Demain, on le met où ? ») ; l'enchaînement atelier / journée d'essais / absence reste flou.", "fix": "Harmoniser : « Mme Roux sera absente jeudi, jour des essais de la piste. »"}
+      ]
+    },
+    {
+      "number": 5,
+      "file": "content/posts/comprendre-et-maitriser-ses-emotions/basile-relais-annonce-atelier-remplacante.md",
+      "focus": "Relais adulte préparé lors d'une absence de l'enseignante (appui d'environnement)",
+      "structure": {"scene": "ok", "concept": "faible", "manifestations": "ok", "techniques": "ok", "retour": "ok", "conclusion": "ok", "proches": "ok"},
+      "comprehension": 4,
+      "comprehension_note": "Le plateau laissé dans le cartable faute de destinataire et la question « Elle va savoir pour le plateau ? » sont clairs ; l'épisode présente pourtant un aménagement plutôt qu'une facette du trouble.",
+      "issues": [
+        {"severity": "majeur", "type": "lien_concept", "quote": "Un relais prévisible aide à rendre les soutiens concrets lorsqu’une relation avec l’adulte est difficile à mobiliser.", "problem": "L'explication (et le résumé : « pas un symptôme supplémentaire ») centre l'épisode sur une mesure d'accompagnement, non sur une facette distincte du trouble.", "fix": "Recentrer l'explication sur ce que la scène montre du trouble : difficulté à s'adresser à un adulte peu familier (Basile ne parle qu'au plateau et ramasse seul le support tombé devant Mme Vidal) ; le relais devient alors la réponse, pas le sujet."},
+        {"severity": "mineur", "type": "comprehension", "quote": "Avec Basile, elles dessinent une boîte, une bille puis un cartable pour les étapes de l’atelier.", "problem": "Le sens des trois dessins (étapes de la journée) n'est pas clair.", "fix": "« elles dessinent les trois moments de la journée : poser la boîte, faire rouler la bille, ranger le cartable »."}
+      ]
+    },
+    {
+      "number": 6,
+      "file": "content/posts/comprendre-et-maitriser-ses-emotions/basile-appui-apprendre-mesure-pente.md",
+      "focus": "Retentissement scolaire : savoir ce qu'on veut construire sans parvenir à solliciter l'adulte pour une étape",
+      "structure": {"scene": "ok", "concept": "ok", "manifestations": "ok", "techniques": "ok", "retour": "ok", "conclusion": "ok", "proches": "ok"},
+      "comprehension": 5,
+      "comprehension_note": "Les traits gommés, les autres élèves qui appellent Mme Roux et le « Fais comme toi » lâché à Lila rendent la facette parfaitement lisible ; la mesure finale à deux règle la question concrète.",
+      "issues": []
+    },
+    {
+      "number": 7,
+      "file": "content/posts/comprendre-et-maitriser-ses-emotions/basile-relations-pairs-depart-deux.md",
+      "focus": "Échanges réciproques avec un pair qui coexistent avec la difficulté à utiliser l'appui adulte",
+      "structure": {"scene": "ok", "concept": "ok", "manifestations": "ok", "techniques": "ok", "retour": "ok", "conclusion": "ok", "proches": "ok"},
+      "comprehension": 4,
+      "comprehension_note": "Le « piège à oreilles » et la languette tenue par quatre doigts sont vivants et clairs ; la scène se termine par une phrase de thèse au lieu d'une image.",
+      "issues": [
+        {"severity": "mineur", "type": "trame", "quote": "Leur échange était rapide et plein d’idées ; l’appui de l’adulte ne devient pas pour autant simple à utiliser lorsque le jeu se bloque.", "problem": "Commentaire explicatif placé dans la scène d'ouverture.", "fix": "Le remplacer par un geste : « Basile regarde la languette, puis Lila, mais pas Mme Roux. » et garder l'idée pour l'explication."}
+      ]
+    },
+    {
+      "number": 8,
+      "file": "content/posts/comprendre-et-maitriser-ses-emotions/basile-refus-contact-fete-piste.md",
+      "focus": "Refus d'un contact affectueux : droit de l'enfant, absence de pression corporelle, place maintenue dans la fête",
+      "structure": {"scene": "ok", "concept": "ok", "manifestations": "ok", "techniques": "ok", "retour": "ok", "conclusion": "ok", "proches": "ok"},
+      "comprehension": 4,
+      "comprehension_note": "Le câlin collectif proposé, le « Non » unique et Nora qui reste de l'autre côté du plateau sont clairs ; la mise en garde contre les thérapies coercitives est juste et bien placée.",
+      "issues": [
+        {"severity": "mineur", "type": "lien_concept", "quote": "Le refus d’un câlin n’est pas, à lui seul, un signe de trouble réactionnel de l’attachement.", "problem": "L'épisode traite surtout d'un principe éducatif valable pour tout enfant ; la facette propre au trouble (rapport au contact des adultes qui s'occupent de lui) est peu visible, Nora ne proposant pas de contact.", "fix": "Ajouter dans la scène un indice propre à Basile vis-à-vis de Nora (il attend qu'elle le regarde mais garde la distance), déjà esquissé dans le retour, et le relier dans l'explication."}
+      ]
+    },
+    {
+      "number": 9,
+      "file": "content/posts/comprendre-et-maitriser-ses-emotions/basile-confidentialite-panneau-jeu.md",
+      "focus": "Confidentialité : participer sans que son histoire ou son diagnostic deviennent publics",
+      "structure": {"scene": "ok", "concept": "ok", "manifestations": "ok", "techniques": "ok", "retour": "ok", "conclusion": "ok", "proches": "ok"},
+      "comprehension": 4,
+      "comprehension_note": "La main posée à plat sur le virage moustache quand une adulte propose d'expliquer ses difficultés est une image forte et lisible ; la règle « On peut regarder avant de jouer » referme bien la scène.",
+      "issues": [
+        {"severity": "mineur", "type": "comprehension", "quote": "« Pourquoi des fois tu arrives avec Nora et Samira ? »", "problem": "La question n'a de poids que si le lecteur sait qui sont Nora et Samira ; aucun des deux rôles n'est rappelé.", "fix": "Ajouter après la question : « Nora l'accueille chez elle ; Samira est son éducatrice. Basile n'a jamais expliqué ça en classe. »"},
+        {"severity": "mineur", "type": "comprehension", "quote": "Plus tard, Mme Roux reprend avec les adultes concernés les informations utiles et la façon de les échanger", "problem": "Formulation procédurale.", "fix": "« Le soir, Mme Roux en parle avec Nora au téléphone. »"}
+      ]
+    },
+    {
+      "number": 10,
+      "file": "content/posts/comprendre-et-maitriser-ses-emotions/basile-soutien-adultes-relais-plateau.md",
+      "focus": "Retentissement sur les adultes accueillants : découragement et besoin d'un appui propre",
+      "structure": {"scene": "ok", "concept": "ok", "manifestations": "ok", "techniques": "ok", "retour": "ok", "conclusion": "ok", "proches": "ok"},
+      "comprehension": 4,
+      "comprehension_note": "La phrase interrompue « Tu vois quand même tout ce que j'essaie… » est le cœur de l'épisode et se comprend immédiatement ; le relais vers Julien est concret.",
+      "issues": [
+        {"severity": "mineur", "type": "comprehension", "quote": "Samira doit venir pour le rendez-vous déjà prévu", "problem": "Samira n'est identifiée comme éducatrice que dans les techniques.", "fix": "« Samira, l'éducatrice, doit venir… »."}
+      ]
+    },
+    {
+      "number": 11,
+      "file": "content/posts/comprendre-et-maitriser-ses-emotions/basile-changement-sante-mal-ventre.md",
+      "focus": "Plainte physique nouvelle (mal de ventre) à évaluer pour elle-même, sans l'attribuer au diagnostic connu",
+      "structure": {"scene": "ok", "concept": "ok", "manifestations": "ok", "techniques": "ok", "retour": "faible", "conclusion": "ok", "proches": "ok"},
+      "comprehension": 3,
+      "comprehension_note": "La plainte « J'ai encore mal au ventre » et le refus des adultes de l'expliquer par la séance sont nets ; mais le lecteur ne sait pas si Basile rentre chez lui, qui le voit ni ce qui a été dit.",
+      "issues": [
+        {"severity": "majeur", "type": "comprehension", "quote": "Nora obtient un avis professionnel et organise la suite de l’évaluation selon les consignes reçues.", "problem": "Dénouement procédural : aucune action ni conséquence visible (qui, où, quand, quel résultat pour Basile).", "fix": "Montrer une suite concrète sans diagnostic : « Nora vient le chercher à midi et l'emmène chez son médecin traitant, qui l'examine et demande de revenir s'il a encore mal en fin de semaine. »"},
+        {"severity": "mineur", "type": "comprehension", "quote": "s’installe avec lui dans un endroit tranquille, sous la surveillance prévue par l’école", "problem": "Formule administrative à la place d'un lieu.", "fix": "« l'installe sur le banc de l'infirmerie, où l'attend l'infirmière scolaire »."}
+      ]
+    },
+    {
+      "number": 12,
+      "file": "content/posts/comprendre-et-maitriser-ses-emotions/basile-evolution-jeu-trois-chemins.md",
+      "focus": "Évolution : une participation réussie n'est ni une guérison ni une preuve d'affection",
+      "structure": {"scene": "ok", "concept": "ok", "manifestations": "ok", "techniques": "ok", "retour": "ok", "conclusion": "ok", "proches": "ok"},
+      "comprehension": 4,
+      "comprehension_note": "Le virage qui se décolle à nouveau et le raccord déposé à l'emplacement prévu font écho à l'ép. 1 et rendent visible un petit changement ; la question du « tunnel qui fait deux bruits » ouvre une suite.",
+      "issues": [
+        {"severity": "mineur", "type": "continuite", "quote": "Avant la séance, Nora et Mme Roux ont vérifié l’organisation au regard des conseils de santé reçus.", "problem": "La question du ventre posée en ép. 10-11 n'est pas fermée pour le lecteur.", "fix": "« Le médecin n'a rien trouvé d'inquiétant mais a demandé de le laisser se reposer s'il a mal ; Basile a dit ce matin qu'il allait bien. »"}
+      ]
+    }
+  ],
+  "missing_or_extra": "Parcours complet (12 épisodes), ni manquant ni surnuméraire. Plutôt que d'ajouter un épisode, recentrer l'ép. 5 sur une facette du trouble (difficulté à s'adresser à un adulte peu familier) ; à défaut, il pourrait être remplacé par une facette non traitée et documentée, par exemple des moments de tristesse ou de crainte sans raison apparente pendant un échange ordinaire avec un adulte (décrits à côté de l'irritabilité de l'ép. 4), à vérifier dans le dossier de sources, en gardant le plateau comme fil.",
+  "verdict": "corrections_majeures"
+}

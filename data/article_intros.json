@@ -2581,6 +2581,78 @@
     "method": "definition_excerpt",
     "source_body_sha256": "8d655a1075c368dd5592ff4ed569358dec604d99caf2978773079e7b2a7df12f"
   },
+  "posts/comprendre-et-maitriser-ses-emotions/florence-ambivalence-alliance": {
+    "text": "Une personne peut vouloir de l’aide tout en redoutant certains sujets du suivi. Cette ambivalence se travaille avec le professionnel ; elle n’est pas, en elle-même, un signe spécifique du trouble factice imposé à autrui. Accueillir une difficulté à parler ne signifie ni approuver le dommage ni remettre en cause les décisions de protection.",
+    "source_heading": "Ambivalence et alliance clinique",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "ae4ca92cf5ec5f14325d2d006dd1457d684cdc1de9e00d2180a5bb55c6dea102"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/florence-autonomie-personne-exposee": {
+    "text": "La personne exposée à un trouble factice imposé à autrui n’a pas à participer au soin de la personne diagnostiquée. Elle ne doit ni écouter ses explications, ni rassurer, ni pardonner. Un souhait de reconnaissance peut être travaillé en consultation, sans devenir un droit au contact ou une raison de modifier la protection.",
+    "source_heading": "Autonomie de la personne exposée",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "58d8897f8b20365f3c7f5ffbf368a6f28b9e6ce4bac7d83b61e7e7d5b22be99e"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/florence-besoins-medicaux-legitimes": {
+    "text": "Le diagnostic de trouble factice imposé à autrui concerne la façon dont une personne a présenté la santé d’une autre. Il ne prouve pas que ses propres plaintes sont inventées et ne justifie pas de lui refuser des soins. Quand elle signale un symptôme, celui-ci s’évalue comme pour tout patient : en l’écoutant, en posant des questions, puis en décidant d’une suite.",
+    "source_heading": "Besoins médicaux légitimes",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "4e32114d69cb9e96604ef03667fe1ee69dcf04ab9b1237502f0450f0ee393802"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/florence-changements-vigilance": {
+    "text": "Une réussite professionnelle, un discours plus juste ou une présence régulière aux rendez-vous ne démontrent pas, à eux seuls, que le risque a disparu. Les changements s’apprécient dans leur contexte et dans la durée, par les professionnels concernés. Les connaissances actuelles ne permettent pas de prédire avec certitude l’évolution d’une personne, ni dans un sens ni dans l’autre.",
+    "source_heading": "Changements observés et vigilance durable",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "001bc09fb5e4f36a6d889fd50a7fac50498c4b045a8f22800e20eaa122561173"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/florence-choix-soin-preuves-limitees": {
+    "text": "Pour les adultes qui ont présenté la santé d’autrui de façon trompeuse, les connaissances sur les traitements restent limitées et reposent surtout sur des descriptions de cas. Aucun protocole ne garantit un résultat ou une durée. Le soin se construit à partir d’une évaluation individuelle et reste distinct de l’évaluation du risque et des décisions de protection, qui relèvent d’autres responsabilités.",
+    "source_heading": "Choix de soin et preuves limitées",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "547a61351e3626dc1c25c63b8715ec9cacaada6bb430b0046bfa9d5f1a0df533"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/florence-coordination-protection": {
+    "text": "Le suivi clinique et la protection nécessitent des rôles identifiables et des échanges adaptés. La présence régulière d’une personne aux rendez-vous ne suffit pas à modifier les décisions concernant la sécurité d’autrui. Les professionnels expliquent le cadre applicable aux informations, sans promettre un secret absolu ni faire dépendre toute transmission du seul souhait de la personne suivie.",
+    "source_heading": "Coordination clinique et protection",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "dea1d63fb2b96ddbbf4bbdde208a8688eccdce0d3b2d26b490e491826925e1fb"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/florence-detresse-propre": {
+    "text": "Une personne suivie pour un trouble factice imposé à autrui peut aussi traverser une souffrance personnelle : solitude, malaise, fatigue. Cette détresse peut être travaillée dans le soin comme la sienne. Elle n’explique pas les faits établis, ne définit pas le trouble et ne dit rien, à elle seule, du risque. Elle n’a pas non plus à être apaisée par la personne exposée.",
+    "source_heading": "Reconnaître sa propre détresse",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "359aaecbbf6b63a34282c7da1d70fcf062b318e89049ff319fde8ce2a2aa86cb"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/florence-diagnostic-protection": {
+    "text": "Le trouble factice imposé à autrui est diagnostiqué chez la personne qui présente intentionnellement une autre personne comme malade sur la base d’une tromperie identifiée. La personne exposée n’est pas porteuse de ce diagnostic. Le suivi de la première et la protection de la seconde ont des objectifs distincts, sans échange entre assiduité au soin et sécurité.",
+    "source_heading": "Diagnostic établi et protection distincte",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "ab13cc88c7cfda5c85fefc25e0fb1e0e3fc56e006d34f8b85a7f0263402b8599"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/florence-inquietude-tromperie": {
+    "text": "Une inquiétude pour la santé, une demande insistante de soins ou un désaccord médical ne suffisent pas à établir un trouble factice imposé à autrui. Celui-ci nécessite une tromperie intentionnelle identifiée. Cette distinction protège contre les accusations improvisées tout en empêchant qu’une inquiétude invoquée efface des faits déjà établis.",
+    "source_heading": "Inquiétude et tromperie identifiée",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "9939addd80b254bd982fa16ba826c41cca00045ed19ae061529395fe93b89386"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/florence-motivations-responsabilite": {
+    "text": "Le trouble factice imposé à autrui ne se définit pas par une tromperie uniquement motivée par une récompense extérieure évidente. Cela ne signifie ni que la conduite serait involontaire ni que ses conséquences disparaîtraient. Les motivations demandent une exploration individuelle ; aucune explication unique ne peut être déduite du seul diagnostic.",
+    "source_heading": "Motivations et responsabilité",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "c8a16efe798af59add18cbbe9cc26763b6e18e8a8491a4ee1ceb2cbaf262f3b4"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/florence-participation-suivi-durable": {
+    "text": "Une activité indépendante, comme un travail mené jusqu’au bout, peut garder sa valeur sans devenir une réparation, une preuve que tout danger a disparu ou un moyen d’obtenir quelque chose d’autrui. Le diagnostic ne résume pas une personne, et reconnaître sa vie ordinaire ne diminue pas sa responsabilité. Les soins et les décisions de protection continuent indépendamment de cette réussite.",
+    "source_heading": "Participation ordinaire et suivi durable",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "e25492773621096dcbaf46f7a24ed07bb454f29b0e2b25050892b2d4180e5f17"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/florence-soutien-social-limites": {
+    "text": "Un parcours de soin long et un cadre de protection peuvent réduire le cercle des personnes avec qui l’on parle, sans que ce soit le cas pour tout le monde. Une collègue peut offrir un soutien ordinaire, une conversation ou un café, sans devenir confidente permanente, soignante ou surveillante. Poser cette limite n’est pas un rejet et ne demande à personne de garder un secret.",
+    "source_heading": "Soutien social et limites",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "9dd777266712d0ee981bcf7cd451afcbba0509b81e2ea3556c5fc2ebb04ff7e4"
+  },
   "posts/comprendre-et-maitriser-ses-emotions/frustration-avec-ses-enfants-comprendre-emotions": {
     "text": "La frustration peut surgir quand quelque chose contrarie une attente ou fait obstacle à un but. La théorie de Dollard et ses collègues, formulée en 1939 puis révisée notamment par Berkowitz, propose que la frustration puisse contribuer à des réactions agressives dans certaines conditions.",
     "source_heading": "Qu'est-ce que la frustration avec ses enfants ?",
@@ -3981,6 +4053,78 @@
     "source_heading": "Soulagement immédiat et conséquences",
     "method": "reviewed_clinical_intro",
     "source_body_sha256": "c358d9a0080692c3a200e5b188ca27a45051652ca00904c2d4d24ce1b3ccf4b6"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/loubna-amelioration-evolution-suivi": {
+    "text": "Le schéma en cause dans ce trouble est décrit comme relativement stable à l’âge adulte, ce qui n’empêche pas le vécu de varier d’une période à l’autre. Une semaine plus facile mérite d’être remarquée et racontée au professionnel. Elle ne permet pas, à elle seule, de conclure à une disparition du trouble ni d’annoncer une rechute. Loubna apprend à rapporter ce qui va mieux sans en faire un verdict.",
+    "source_heading": "Une amélioration ne tranche pas l’évolution",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "cf6d017396113f913f4dafa89a602e46746a5dad9d81c5386ff71647efd88e8b"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/loubna-changements-recents-reevaluation": {
+    "text": "Un diagnostic connu ne suffit pas à expliquer chaque changement de santé. Un sommeil perturbé ou une baisse d’élan demandent à être décrits et évalués dans leur contexte, sans conclusion automatique. Chez Loubna, ces difficultés récentes conduisent à un point clinique distinct. L’organisation du travail peut être ajustée pendant cette démarche sans attendre une nouvelle étiquette.",
+    "source_heading": "Réévaluer une difficulté nouvelle",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "7529cf5684396b3011daa22135f3d5e9a707fc9a9e580d338ec3923f0a319d9b"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/loubna-diagnostic-perimetre-risque": {
+    "text": "Un diagnostic peut comporter plusieurs fondements possibles sans que chacun soit présent chez chaque personne. Pour ce trouble, la branche liée au risque corporel répond à un périmètre précis. Chez Loubna, le diagnostic repose sur une détresse déjà évaluée. Clarifier cette distinction évite de lui attribuer un danger sur la seule base d’un intitulé clinique.",
+    "source_heading": "Le risque corporel a un périmètre",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "dc150877a2682483739c01e8c264fbb1dc2cc392811434788405905d844e256b"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/loubna-fin-projet-continuite-soin": {
+    "text": "Terminer un projet professionnel est un résultat à part entière, mais il ne mesure pas l’évolution d’un trouble paraphilique. Une livraison acceptée, la qualité d’un travail ou une soirée agréable ne remplacent pas l’évaluation clinique. Pour Loubna, la remise du programme de la salle d’exposition ferme un engagement de travail ; l’accompagnement qu’elle a choisi avec sa médecin continue, à son propre rythme.",
+    "source_heading": "Le projet se termine, le soin continue",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "e8ef222606ec01c1d78dd19c8f43b5058a12a6f78b0bdeb5624af2e0dbb3ef99"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/loubna-objectifs-soin-individualise": {
+    "text": "Un accompagnement individualisé demande de discuter ce que la personne souhaite améliorer, ainsi que les limites et contraintes des propositions. Le respect des préférences consenties ne disparaît pas avec un diagnostic. Loubna cherche une aide pour sa souffrance et son fonctionnement quotidien ; elle n’a pas à devenir conforme à une norme pour que cette demande soit entendue.",
+    "source_heading": "Un soin individualisé sans normalisation",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "2b4b188c1313386dc04d3ed28ab3dafb6d52ce25b57805e96ec531cb16c43410"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/loubna-partage-informations-vie-privee": {
+    "text": "Choisir ce que l’on partage de sa santé relève de décisions quotidiennes distinctes du consentement à un entretien. Le destinataire, le besoin et sa disponibilité comptent. Loubna peut donner un délai professionnel sans compte rendu médical, puis demander un échange personnel à Léonie, sa compagne. Préserver sa vie privée reste compatible avec le recours aux professionnels pour les besoins cliniques.",
+    "source_heading": "Partager sans devoir tout expliquer",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "b329524f39098f6aa77a29dedc72e3d787317a0e5495e24bc866704893ba2352"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/loubna-partenaire-consentement-entretien": {
+    "text": "Participer à une relation ne signifie pas consentir à tous les échanges sur la santé de l’autre. La présence d’une partenaire dans un entretien doit rester choisie, avec un objet compréhensible et des limites respectées. Pour Loubna et Léonie, l’enjeu est de parler du soutien quotidien sans confier à la relation une fonction de surveillance ou de soin.",
+    "source_heading": "Consentement et place de la partenaire",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "bd8c4807fa627e3371be7645913e52c88dd4fbb58bdf895fc26928faa64473f0"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/loubna-preoccupations-attention-interrompue": {
+    "text": "La persistance d’un schéma clinique ne se confond pas avec une curiosité passagère. Elle peut s’accompagner de préoccupations qui gênent certaines activités, sans que ce retentissement soit universel. Chez Loubna, l’attention quitte plusieurs fois une correction connue. Décrire cette difficulté au professionnel est plus utile que d’en déduire seule une perte de contrôle de ses comportements.",
+    "source_heading": "Persistance et attention interrompue",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "3d05f677bbc6ad197843bfbe5dd34b9bbde1f0080ac6d40daf8516d5d5dd35d4"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/loubna-rejet-social-et-souffrance": {
+    "text": "La désapprobation sociale peut faire souffrir sans constituer le fondement d’un trouble paraphilique. Une détresse entièrement due au rejet ou à sa crainte ne justifie pas ce diagnostic. Dans le suivi de Loubna, la souffrance liée au schéma a été évaluée séparément. Reprendre cette distinction permet d’accueillir ce qui blesse sans faire de la conformité sociale un objectif de soin.",
+    "source_heading": "Le rejet social ne suffit pas",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "cc78fdc5bfc60c8912a3136a7f4a3fbd55e5daadda093a725f3ffe3efb42eff9"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/loubna-repetition-controle-compulsion": {
+    "text": "La répétition de préoccupations ne prouve pas à elle seule une perte de contrôle des comportements. Le trouble paraphilique et le trouble du comportement sexuel compulsif ne sont pas des termes interchangeables. Pour Loubna, préciser les mots employés permet de parler du retentissement sans s’attribuer un second diagnostic ni entreprendre de vérification personnelle.",
+    "source_heading": "Répétition et contrôle ne se confondent pas",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "7ed552634701fad98e2380c4aa2611c4e2d450964d63cb42f707e995165ed8af"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/loubna-retentissement-charge-professionnelle": {
+    "text": "Une difficulté de santé peut retentir sur le travail sans se voir dans toutes les tâches. Les préoccupations et le temps du suivi pèsent ici sur un projet graphique concret. Distinguer les livrables prêts de ceux qui restent incomplets aide à organiser la collaboration. Cette adaptation professionnelle ne mesure ni la gravité du trouble ni l’efficacité du soin.",
+    "source_heading": "Retentissement professionnel et charge réelle",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "1c6589f61c67f5621aa7c2aa11040276e6cd6b6c6457b50cc864985bc7713ce6"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/loubna-souffrance-preference-atypique": {
+    "text": "Une préférence sexuelle atypique ne constitue pas à elle seule un trouble. Le diagnostic repose sur une évaluation clinique qui distingue notamment la détresse liée au schéma de la seule crainte du rejet. Chez Loubna, cette souffrance est déjà reconnue et interrompt son travail. Clarifier le sens du diagnostic permet de demander une aide sans transformer la différence en faute.",
+    "source_heading": "Souffrance clinique et préférence atypique",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "960d60b72fe6b91e0c8c91abca734234a1fb716ed27e8446fb326f2575ee8d83"
   },
   "posts/comprendre-et-maitriser-ses-emotions/louise-concentration-facture-avel": {
     "text": "La dépression peut rendre l’attention plus difficile à soutenir, y compris dans un travail maîtrisé. Comprendre une information ne garantit pas qu’on pourra en garder le fil parmi les interruptions. Un cadre plus calme et des vérifications habituelles peuvent aider à mener une tâche précise. Le retentissement professionnel mérite aussi une discussion avec le médecin, sans conclure à une perte générale de capacités.",
@@ -6408,6 +6552,78 @@
     "method": "reviewed_clinical_intro",
     "source_body_sha256": "ba57f97819498055214d9e70af48bdd7cff63e79d53ec1f5efabb7f982d426a1"
   },
+  "posts/comprendre-et-maitriser-ses-emotions/serge-coordination-decisions-soin": {
+    "text": "La répétition de démarches médicales sans informations partagées peut exposer à des soins inutiles et à leurs risques. Dans le trouble factice imposé à soi-même, une coordination adaptée aide les professionnels à apprécier les besoins. Elle ne doit ni faire du patient l’arbitre solitaire des actes ni empêcher un second avis légitime ou des soins urgents.",
+    "source_heading": "Coordination et prévention des soins inutiles",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "35b1011b1efbfcee4652a4fa3eb4365aed2c0ce91049e200ef1ed70b27b229ea"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/serge-corriger-information-sante": {
+    "text": "Le trouble factice imposé à soi-même implique une présentation intentionnellement trompeuse de sa santé, identifiée dans une évaluation clinique. Corriger une information peut permettre de revoir les décisions qui en dépendent. Cette démarche ne remplace pas le soin et ne constitue ni une preuve de guérison ni une condition pour recevoir de l’aide.",
+    "source_heading": "Corriger une information trompeuse",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "90ac5293de5f101875f56e031f192bd9fc99a78842f7e87a6af1773167ad4dca"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/serge-engagements-et-role-limite": {
+    "text": "Les difficultés de soin et de communication peuvent avoir des conséquences sur les engagements quotidiens. Reconnaître ce retentissement ne supprime pas la responsabilité d’informer les personnes qui attendent un travail. Pour Serge, stabiliser son rôle passe par une tâche définie, un délai réaliste et un relais accepté, sans faire du calendrier une évaluation médicale.",
+    "source_heading": "Retentissement sur les engagements",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "b5f9a6e637cd0639713aea0522f41962d55f2c6ac6cb17a25cc917e98ec5e5d8"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/serge-fluctuation-retour-difficulte": {
+    "text": "L’évolution d’un trouble factice imposé à soi-même est encore mal connue : elle peut se faire par périodes ou durer, et personne ne peut en prédire le cours pour une personne donnée. Une phase plus calme ne prouve pas la guérison, et le retour d’une difficulté n’efface pas les décisions responsables déjà prises. Ce qui compte alors est de pouvoir en parler à l’équipe de soins plutôt que de se juger seul.",
+    "source_heading": "Fluctuations et retour d’une difficulté",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "1d5effe1b8b9f7641337190999e2295c283131e03d00a6ed68e2213bea2cb30f"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/serge-inexplique-ne-signifie-pas-fabrique": {
+    "text": "Une plainte inexpliquée, des examens normaux ou une demande insistante ne démontrent pas une fabrication intentionnelle. Le trouble factice imposé à soi-même repose sur une évaluation différente. Même lorsqu’il est établi, chaque information garde sa portée : un doute dans un document ne permet pas de conclure que toutes les difficultés de santé sont trompeuses.",
+    "source_heading": "Inexpliqué ne signifie pas fabriqué",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "210c18b6263212a7caa0bdde9810db770ab3d36a22d54f63b3d7cab8627ae6d0"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/serge-objectifs-soin-preuves-limitees": {
+    "text": "Le soin d’un trouble factice imposé à soi-même ne suit pas un protocole unique dont l’efficacité serait démontrée pour tous. Les connaissances reposent surtout sur des descriptions de cas et de petites séries. Un accompagnement psychothérapeutique se construit donc autour d’objectifs précis, discutés avec la personne et revus régulièrement, tandis que le médecin garde la responsabilité des décisions médicales. Aucun soin ne peut promettre qu’une difficulté ne reviendra jamais.",
+    "source_heading": "Objectifs de soin et preuves limitées",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "3ccee873c485c4b015fd86b3382b9d78ca609be5c3c631788bc3ebaeacc45c05"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/serge-participation-ordinaire-suivi-durable": {
+    "text": "Mener un projet à son terme ne signifie pas qu’un trouble factice imposé à soi-même a disparu, ni qu’aucune difficulté ne reviendra. Clore les engagements pratiques et garder le suivi sont deux choses distinctes. Une personne peut tenir une place ordinaire dans un groupe, pour ce qu’elle y apporte, pendant que la coordination des soins se poursuit à son propre rythme.",
+    "source_heading": "Participation ordinaire et suivi durable",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "85ab729b2952cbb160dcf18f6c82a4581d3e43e6f27d9f3247e9c8b5d8e023e3"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/serge-peur-blame-alliance": {
+    "text": "Une personne peut redouter d’être jugée au point d’hésiter à poursuivre son suivi. Dans le parcours d’un trouble factice imposé à soi-même, accueillir cette crainte n’empêche pas de vérifier les faits nécessaires aux soins. Serge tente de parler d’une question vécue comme un reproche, plutôt que de laisser cette impression décider seule de son absence.",
+    "source_heading": "Peur du blâme et alliance",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "47854f5877d3f8344d6d2efecc443170afcc6a05845b467dcfcf3b8e1a7b7740"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/serge-role-malade-et-lien": {
+    "text": "Le rôle de malade peut occuper une place importante dans le trouble factice imposé à soi-même. Cela ne signifie pas que toute demande de soutien serait pathologique ni qu’un besoin d’attention expliquerait tous les cas. Chez Serge, une crainte personnelle apparaît : compter moins pour les autres lorsqu’il ne parle pas de santé.",
+    "source_heading": "Place du rôle de malade",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "caf34056961ce45a117e81dbad0febd600d0b8164622bbc15f4adfab2c02cdb1"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/serge-sommeil-moral-evaluation": {
+    "text": "Une personne qui a un trouble factice imposé à soi-même peut aussi traverser d’autres difficultés, psychiques ou médicales. Un sommeil qui se dérègle ou un moral qui baisse ne se déduisent pas du diagnostic connu : ils ne prouvent ni une tromperie ni une autre maladie. Ils demandent une évaluation propre, menée par chaque professionnel dans son rôle, à partir de ce que la personne rapporte et de ce que l’équipe observe.",
+    "source_heading": "Évaluer la santé psychique associée",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "de2e52a5a536b38f4312f26f18be154f864448d8f217c356e1c4beaaac184eb7"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/serge-soutien-sans-surveillance": {
+    "text": "Un proche peut partager un moment avec une personne ayant un trouble factice imposé à soi-même sans devenir contrôleur de ses symptômes ou de ses récits. Le soutien dépend de son accord et de ses limites. Les questions médicales restent adressées aux professionnels ; une amitié ne constitue ni une enquête ni une garantie de sincérité.",
+    "source_heading": "Soutien choisi sans surveillance",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "e69424de6a2fd724b3e8e7d8438f624627dac1a4af66fb46788b78c2323000e3"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/serge-symptome-nouveau-soins-legitimes": {
+    "text": "Un trouble factice imposé à soi-même peut coexister avec une affection authentique. Son diagnostic ne justifie pas de rejeter chaque plainte nouvelle ni d’en présumer la cause. Signaler un changement avec les informations disponibles permet une évaluation professionnelle ; l’accès aux soins nécessaires, y compris urgents, ne doit pas dépendre d’une preuve de sincérité fournie au préalable.",
+    "source_heading": "Préserver les soins légitimes",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "e2999257948bd216b1d23b2a4e93d562840558c6fbf4a1cc5b7c60b7eed842dc"
+  },
   "posts/comprendre-et-maitriser-ses-emotions/solene-amenagement-horaires-deux-colonnes": {
     "text": "Solène peut reprendre certaines tâches en journée. Elle redoute qu’un changement d’horaire entraîne aussi la perte de son rôle dans le choix des films. Le trouble schizoaffectif peut affecter l’endurance de façon variable selon les périodes. La discussion porte sur les conditions de la reprise, sur les tâches qu’elle souhaite exercer et sur les informations qu’elle choisit de partager.",
     "source_heading": "Reprise après un arrêt",
@@ -6500,6 +6716,78 @@
     "source_paragraph": 1,
     "method": "definition_excerpt",
     "source_body_sha256": "bf074c01e9538e7a1ca1a66ef6eefc5e8b159af4a547fb6fd5f3e0cb17922e9c"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/sylvain-changement-sommeil-bilan": {
+    "text": "Un diagnostic connu n’explique pas automatiquement chaque changement de santé. Un sommeil inhabituel et une fatigue nouvelle demandent une description puis une évaluation adaptées. Sylvain les signale au rendez-vous organisé après son appel ; la médecin reprend leur chronologie sans ajouter un diagnostic à partir de quelques observations ni déduire la cause du seul contexte.",
+    "source_heading": "Un changement récent mérite son propre bilan",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "a1253a76a1c9878c3f6d4330d0243addc47debba8c78464736dccec1a6816e4b"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/sylvain-consentement-portee-accord": {
+    "text": "Le consentement concerne un objet précis et ne se déduit pas d’une inscription ou d’une relation de confiance. Le frotteurisme se distingue des contacts consentis. La réunion de Sylvain porte sur des accords professionnels et pédagogiques : elle permet de clarifier une organisation, sans représenter une scène sexuelle ni démontrer un critère diagnostique.",
+    "source_heading": "Le consentement garde une portée précise",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "c14194c5dcb6f67f41a7327a204194ecae59b8c6a35e7f09e52951b7d7181156"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/sylvain-decision-tenue-trouble-persistant": {
+    "text": "Le contrôle de certaines réponses et l’état d’un trouble ne sont pas des mesures équivalentes. Une personne peut respecter des décisions sans que toutes ses difficultés disparaissent. Sylvain en parle au suivi après la réunion : reconnaître ce qu’il a tenu reste possible, tandis que la persistance des préoccupations demande sa propre appréciation clinique.",
+    "source_heading": "Une décision tenue ne supprime pas le trouble",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "25683d85fb2e2f2a19d4beeba3ca5cdbb026fed5150d261d5b19f1b8a0d2df0d"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/sylvain-detresse-demande-soin": {
+    "text": "La détresse liée à un trouble mérite d’être entendue même quand la personne continue à accomplir certaines tâches. Elle ne permet pas de présumer un acte. Sylvain a terminé une légende, mais cette réussite ne décrit pas ce qu’il éprouve ; le rendez-vous lui permet de parler de sa souffrance et de ses besoins actuels.",
+    "source_heading": "La détresse mérite une demande de soin",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "3c7b952b5d4ddd6e3bb62277c8db85a6eaad292510cc84b88dc407163e219245"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/sylvain-fluctuation-revision-participation": {
+    "text": "L’évolution d’un trouble peut varier sans que chaque changement signifie un acte ou annule tout ce qui a été accompli. Une augmentation des préoccupations et de la détresse appelle une réévaluation. Sylvain transmet ce changement avant la promenade, puis applique une décision de retrait physique tout en préservant une contribution séparée, déjà organisée avec Maud.",
+    "source_heading": "Une fluctuation conduit à réviser la participation",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "b37ee7283734df4381e3c2333d2db80a1108fd6ec61286673fc6bb572271cf1e"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/sylvain-honte-parole-clinique": {
+    "text": "La honte peut rendre plus difficile la transmission d’informations utiles aux soins, sans constituer un symptôme obligatoire du trouble. Sylvain hésite à parler de préoccupations plus présentes et les cache derrière une formule générale. Il peut demander comment fonctionne la confidentialité et adresser le changement à l’équipe sans le dévoiler au groupe de photographie.",
+    "source_heading": "La honte peut réduire la parole clinique",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "eda270a4c54d839207b22125cc5d571b7622fd21cd64fb28b8fae34a2887d1ec"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/sylvain-preoccupations-tache-familiere": {
+    "text": "Un schéma clinique durable ne se réduit pas à une pensée passagère. Dans le frotteurisme déjà diagnostiqué de Sylvain, des préoccupations persistent alors qu’il essaie de travailler à son carnet. Leur retentissement mérite d’être transmis au suivi ; la réussite d’une tâche ne permet pas, à elle seule, de conclure sur son état de santé.",
+    "source_heading": "Un schéma persiste malgré la tâche",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "1c4c63ef155e4545aa75154f6e31fe1367c7b6a377492aab722e6608e6b13453"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/sylvain-prevention-decisions-effectives": {
+    "text": "Une intention de prudence ne suffit pas à organiser la prévention. Les besoins sont appréciés individuellement avec les professionnels, puis les décisions doivent avoir des conséquences concrètes. Sylvain distingue la contribution photographique de sa présence éventuelle à la promenade, vérifie les relais et conserve une possibilité réelle d’interrompre la participation si la situation l’exige.",
+    "source_heading": "La prévention exige des décisions effectives",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "dc8e96ce0f5995866b94b355a5135fe4c77d3ba57f9682ffe385a1a3a35f5a9d"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/sylvain-projet-accompli-suivi-ouvert": {
+    "text": "Accomplir un projet ne démontre pas la disparition d’un trouble ni l’absence de tout besoin de prévention. Une contribution adaptée peut avoir sa valeur propre tandis que les soins continuent. Sylvain remet son carnet et échange brièvement à distance ; cette réussite photographique reste distincte de sa situation clinique et ne rétablit pas sa présence à la promenade.",
+    "source_heading": "Un projet accompli laisse le suivi ouvert",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "e6ce709b2175c34084125806304dd5d39ad584f408e5b450210fe9cb4bb6e8be"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/sylvain-retentissement-professionnel-ajustement": {
+    "text": "Un trouble peut avoir des conséquences au travail sans que ce retentissement soit universel ou nécessaire au diagnostic. Pour Sylvain, les préoccupations ont ralenti un tableau de contrôle. Reconnaître ce qui reste inachevé permet d’organiser la tâche avec sa responsable et de transmettre séparément à l’équipe de soins ce qui a changé dans son fonctionnement.",
+    "source_heading": "Le retentissement professionnel demande un ajustement",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "d6ee54df0417c9ac0b0204434bc98938d8e899772b1edafa1a99202eb3e8f56c"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/sylvain-soin-individualise-sans-garantie": {
+    "text": "Un soin individualisé se discute à partir des besoins de la personne, d’une information comprise et d’une réévaluation. Il ne promet pas de résoudre toute difficulté avant une date choisie. Sylvain peut présenter ses attentes et ses questions à la docteure Perrin, tandis que le calendrier de la promenade reste une question d’organisation distincte.",
+    "source_heading": "Le soin se choisit sans garantie totale",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "6c7d2624fa017b8112ac2c40c1d9a7b850bfbedd1258c36fa8df7fe1ec07be65"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/sylvain-soutien-limite-responsabilite": {
+    "text": "Le soutien d’un proche repose sur un accord précis et révisable. Il ne transfère pas la responsabilité des comportements et ne remplace pas une équipe de soins. Sylvain voudrait demander à Karim une vérification quotidienne ; leur échange clarifie ce qui est réellement accepté, avec le droit de refuser et des relais professionnels indépendants de l’amitié.",
+    "source_heading": "Le soutien ne transfère pas la responsabilité",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "cc063f3a262a5c6814abf4937fe505b746283def50811445aec2e2de1efcc043"
   },
   "posts/comprendre-et-maitriser-ses-emotions/technique-rain-seul-face-a-soi-meme": {
     "text": "RAIN est un aide-mémoire pour une pratique de pleine conscience. Tara Brach décrit deux versions du sigle. Elle attribue la première à l’enseignante Michele McDonald, qui proposait la non-identification pour le N. Dans sa propre version, Brach réserve le N à un geste de soutien envers soi (Nurture).",

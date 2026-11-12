@@ -1,0 +1,356 @@
+{
+  "character_id": "baptiste",
+  "type": "origine",
+  "auditor": "audit_o1",
+  "audited_on": "2026-11-12",
+  "persona": {
+    "age_metier_proches": "Né en 1989, 37 ans (âge cohérent dans tous les épisodes). Coordinateur de maintenance dans un réseau de transports. Vit avec sa compagne Caroline et leur fille Elsa (5 ans). Au travail : sa responsable Patricia et son collègue Emmanuel (aussi partenaire de vélo). Loisirs : atelier photo et parcours photographique de la maison de quartier.",
+    "arc_summary": "Baptiste apprend à arbitrer entre engagements professionnels et familiaux, puis traverse un projet de fiche de transmission entre dépôts : il choisit un format malgré l'incertitude, l'essaie de façon limitée, regrette son arrêt, puis le révise sans renier le travail fait. En parallèle, il choisit un atelier photo plutôt que le vélo, s'engage progressivement dans un parcours de quartier, apprend à préparer le lendemain et à fixer des objectifs selon ses ressources réelles.",
+    "arc_issues": [
+      "Le projet de fiche porte cinq épisodes (2, 4, 5, 7, 12) sans jamais devenir concret : on ne sait ni ce qu'elle transmet ni quels sont les « deux champs » confondus. Les scènes de travail paraissent donc abstraites et procédurales.",
+      "Plusieurs concepts se recouvrent : ép. 1 et ép. 6 (conflit de valeurs travail-famille / deux valeurs), ép. 4 et ép. 12 (coûts irrécupérables), ép. 4 et ép. 10 (essai limité puis point de révision), ép. 8 et ép. 11 (ressources limitées).",
+      "Emmanuel passe de collègue (ép. 1, 2) à ami de vélo (ép. 3) sans transition.",
+      "Aucune contradiction factuelle notable : âge, métier, Caroline, Elsa et Patricia restent cohérents d'un épisode à l'autre.",
+      "Les explications sont longues et remplies de précautions (« selon le cadre », « avec les validations requises »), au détriment des actions. La compréhension reste correcte, mais la lecture est lourde."
+    ]
+  },
+  "episodes": [
+    {
+      "number": 1,
+      "file": "content/posts/reprendre-le-controle-de-ses-pensees/baptiste-valeurs-arbitrages-quotidien.md",
+      "focus": "valeurs personnelles dans un arbitrage quotidien (réunion contre récupération d'Elsa)",
+      "structure": {
+        "scene": "ok",
+        "concept": "ok",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "ok",
+        "conclusion": "ok",
+        "proches": "ok"
+      },
+      "comprehension": 4,
+      "comprehension_note": "Ouverture vivante (garage miniature d'Elsa, voiture garée dans la seule place libre) et conflit d'horaire clair. Le retour montre une vraie négociation avec Patricia et Emmanuel et ses coûts. Patricia et Emmanuel sont toutefois cités avant d'être présentés.",
+      "issues": [
+        {
+          "severity": "mineur",
+          "type": "comprehension",
+          "quote": "Un message de Patricia annonce une réunion",
+          "problem": "Patricia n'est présentée comme « sa responsable » que dans la partie manifestations.",
+          "fix": "Écrire « Un message de Patricia, sa responsable, annonce… »."
+        },
+        {
+          "severity": "mineur",
+          "type": "comprehension",
+          "quote": "Préparer l’exemple pour Emmanuel peut aussi soutenir l’équipe",
+          "problem": "Emmanuel apparaît dans un exemple avant d'être présenté (« Emmanuel, son collègue » n'arrive que dans la technique 3).",
+          "fix": "Présenter Emmanuel comme collègue dans la scène d'ouverture, ou à cette première mention."
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "file": "content/posts/reprendre-le-controle-de-ses-pensees/baptiste-decider-incertitude.md",
+      "focus": "décider avec une part d'incertitude (choisir un format de fiche)",
+      "structure": {
+        "scene": "faible",
+        "concept": "ok",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "ok",
+        "conclusion": "ok",
+        "proches": "ok"
+      },
+      "comprehension": 3,
+      "comprehension_note": "On comprend le dilemme (deux mises en page, peur des réactions), mais l'objet reste abstrait : on ne sait jamais ce que contient la fiche ni quelle « transmission entre deux dépôts » elle sert. Or cet objet porte cinq épisodes (2, 4, 5, 7, 12). La fin (la provenance des exemples vérifiée, des réactions inattendues) est claire.",
+      "issues": [
+        {
+          "severity": "majeur",
+          "type": "comprehension",
+          "quote": "Il doit proposer à Patricia une manière de recueillir les observations des équipes sur les transmissions entre deux dépôts.",
+          "problem": "Le lecteur ne sait pas ce qui est transmis (pannes ? état des rames ? consignes de relève ?) ni qui remplit la fiche. Les « deux champs » confondus plus tard (ép. 4, 5) n'ont donc aucune réalité concrète.",
+          "fix": "Donner une phrase concrète, par ex. « la fiche que remplit l'équipe de nuit pour signaler à celle du matin les défauts constatés sur un tram : “défaut constaté” et “défaut signalé” ». Réutiliser ces noms dans les ép. 4 et 5."
+        },
+        {
+          "severity": "mineur",
+          "type": "comprehension",
+          "quote": "Rien ne modifiera encore les procédures de maintenance.",
+          "problem": "Ce type de précaution revient dans presque chaque paragraphe et rend la scène procédurale.",
+          "fix": "Garder cette précaution une seule fois dans l'épisode."
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "file": "content/posts/reprendre-le-controle-de-ses-pensees/baptiste-cout-opportunite-choix.md",
+      "focus": "coût d’opportunité : choisir entre atelier photo et sortie à vélo",
+      "structure": {
+        "scene": "ok",
+        "concept": "ok",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "ok",
+        "conclusion": "ok",
+        "proches": "ok"
+      },
+      "comprehension": 4,
+      "comprehension_note": "Situation simple et claire (une case du samedi, deux propositions, accord préalable avec Caroline). Le concept est bien illustré par la tentation de tout faire et de promettre des compensations. La fin, où il regarde les photos d'Emmanuel sans envie excessive, conclut nettement.",
+      "issues": [
+        {
+          "severity": "mineur",
+          "type": "continuite",
+          "quote": "Il peut leur souhaiter une autre sortie",
+          "problem": "Emmanuel, présenté comme collègue à l'ép. 1, devient ici un ami de sortie à vélo (« ses amis ») sans transition.",
+          "fix": "Ajouter une phrase dans l'ouverture : « Emmanuel, son collègue avec qui il roule parfois le week-end »."
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "file": "content/posts/reprendre-le-controle-de-ses-pensees/baptiste-decision-essai-reversible.md",
+      "focus": "réversibilité d'une décision (préparer un essai documentaire limité)",
+      "structure": {
+        "scene": "ok",
+        "concept": "ok",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "ok",
+        "conclusion": "ok",
+        "proches": "ok"
+      },
+      "comprehension": 4,
+      "comprehension_note": "Ouverture concrète (renommer le fichier « version de travail ») et question claire de Patricia (« que se passerait-il si l'essai ne convenait pas ? »). Le bilan (garder le résumé, arrêter cette version) est net. La manifestation sur les coûts déjà engagés anticipe l'ép. 12.",
+      "issues": [
+        {
+          "severity": "majeur",
+          "type": "repetition",
+          "quote": "### Le coût déjà engagé transforme l’essai en promesse",
+          "problem": "Cette manifestation traite déjà l'effet des coûts irrécupérables, concept central de l'ép. 12. Le retour en reprend aussi le motif : Emmanuel veut réutiliser des exemples et Baptiste reconnaît « le temps investi ».",
+          "fix": "Remplacer cette manifestation par un aspect propre à la réversibilité (copies déjà diffusées qu'on ne peut pas rappeler, attentes créées chez les participants) et laisser les coûts irrécupérables à l'ép. 12."
+        },
+        {
+          "severity": "mineur",
+          "type": "comprehension",
+          "quote": "Une confusion apparaît pourtant entre deux champs qui portent des noms proches.",
+          "problem": "Les deux champs ne sont jamais nommés ; la confusion reste abstraite.",
+          "fix": "Nommer les deux champs (voir la correction de l'ép. 2)."
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "file": "content/posts/reprendre-le-controle-de-ses-pensees/baptiste-regret-informations-disponibles.md",
+      "focus": "regret et biais rétrospectif (juger avec les informations de l'époque)",
+      "structure": {
+        "scene": "ok",
+        "concept": "ok",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "ok",
+        "conclusion": "ok",
+        "proches": "ok"
+      },
+      "comprehension": 4,
+      "comprehension_note": "Les trois lignes du compte rendu et la phrase d'Emmanuel mal entendue (« avec la nouvelle remarque ») illustrent très précisément le biais rétrospectif. La distinction entre l'omission réelle (un groupe d'usagers non consulté) et le reproche global est claire.",
+      "issues": [
+        {
+          "severity": "mineur",
+          "type": "comprehension",
+          "quote": "Une fois la confusion signalée, il a du mal à retrouver ce qu’il voyait avant.",
+          "problem": "Même abstraction que dans les ép. 2 et 4 : sans contenu de la fiche, le lecteur ne voit pas ce qui « paraît évident » après coup.",
+          "fix": "Citer les deux intitulés confondus."
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "file": "content/posts/reprendre-le-controle-de-ses-pensees/baptiste-conflit-deux-valeurs.md",
+      "focus": "conflit entre deux valeurs (limiter la voiture / préserver la visite familiale)",
+      "structure": {
+        "scene": "ok",
+        "concept": "ok",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "ok",
+        "conclusion": "ok",
+        "proches": "ok"
+      },
+      "comprehension": 4,
+      "comprehension_note": "Scène claire (feuille des correspondances, retour trop tôt, Elsa qui demande combien de temps ils resteront). La décision (voiture cette fois, réserve dite) et sa suite sont nettes. Mais l'aspect traité recoupe fortement l'ép. 1.",
+      "issues": [
+        {
+          "severity": "majeur",
+          "type": "repetition",
+          "quote": "On peut vouloir prendre soin d’un lien et préserver son autonomie, dire les choses clairement et protéger une confidence, soutenir un projet et garder une disponibilité familiale.",
+          "problem": "Le dernier exemple est exactement la situation de l'ép. 1 (« Les valeurs dans les arbitrages du quotidien »), qui traitait déjà un conflit de valeurs entre soutien à l'équipe et accord familial.",
+          "fix": "Recentrer l'ép. 6 sur ce qui le distingue : une même valeur que les deux membres du couple partagent sans lui donner le même poids, et le risque de faire d'un moyen la preuve d'une valeur. Retirer l'exemple « soutenir un projet et garder une disponibilité familiale »."
+        },
+        {
+          "severity": "mineur",
+          "type": "comprehension",
+          "quote": "En transports collectifs, ils peuvent arriver chez ses parents pour le déjeuner",
+          "problem": "« Ses parents » est ambigu (ceux de Caroline ou de Baptiste ?) ; on ne le comprend qu'avec « Caroline appelle ses parents » dans le retour.",
+          "fix": "Écrire « chez les parents de Caroline »."
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "file": "content/posts/reprendre-le-controle-de-ses-pensees/baptiste-sens-actions-ordinaires.md",
+      "focus": "sens des actions ordinaires (réunion de coordination sans éclat)",
+      "structure": {
+        "scene": "faible",
+        "concept": "ok",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "ok",
+        "conclusion": "ok",
+        "proches": "ok"
+      },
+      "comprehension": 3,
+      "comprehension_note": "La déception après une réunion utile mais sans éclat est bien décrite. Mais l'ouverture reste floue : on ne sait pas quelle réunion, quelles personnes « ont clarifié une responsabilité », ni sur quoi. La fin, avec Elsa et la photographie, est concrète.",
+      "issues": [
+        {
+          "severity": "majeur",
+          "type": "comprehension",
+          "quote": "Deux personnes ont clarifié une responsabilité, une date doit être confirmée et un document reste à reprendre.",
+          "problem": "Phrase procédurale qui remplace la scène ; le lecteur ignore de qui et de quoi il s'agit.",
+          "fix": "Nommer la réunion et la décision, par ex. « Karim, du dépôt nord, prend désormais le suivi des signalements de nuit ; la date de démarrage reste à confirmer »."
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "file": "content/posts/reprendre-le-controle-de-ses-pensees/baptiste-soi-demain-present.md",
+      "focus": "penser au soi de demain sans s’oublier aujourd’hui",
+      "structure": {
+        "scene": "ok",
+        "concept": "ok",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "ok",
+        "conclusion": "ok",
+        "proches": "ok"
+      },
+      "comprehension": 4,
+      "comprehension_note": "Le badge caché par la boîte d'Elsa est un très bon point de départ concret. La préparation limitée (badge, document, une note) et la soirée gardée pour les photos sont claires, et le léger imprévu du matin conclut honnêtement.",
+      "issues": [
+        {
+          "severity": "mineur",
+          "type": "comprehension",
+          "quote": "départ plus tôt, document à emporter et organisation différente pour Elsa",
+          "problem": "« Organisation différente » ne dit pas ce qui change (qui l'emmène ? à quelle heure ?).",
+          "fix": "Préciser en quelques mots, par ex. « Caroline emmène Elsa à l'école à sa place »."
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "file": "content/posts/reprendre-le-controle-de-ses-pensees/baptiste-controle-influence-limites.md",
+      "focus": "distinguer contrôle et influence (attendre une réponse)",
+      "structure": {
+        "scene": "ok",
+        "concept": "ok",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "ok",
+        "conclusion": "ok",
+        "proches": "ok"
+      },
+      "comprehension": 4,
+      "comprehension_note": "Messagerie actualisée sans réponse, troisième courriel ouvert : le comportement est clair. Le destinataire silencieux n'est jamais identifié, ce qui rend l'attente un peu abstraite. Le parallèle avec la construction écroulée d'Elsa est mesuré.",
+      "issues": [
+        {
+          "severity": "mineur",
+          "type": "comprehension",
+          "quote": "Le projet paraît suspendu à une personne absente de son bureau",
+          "problem": "On ne sait pas qui doit confirmer (responsable de l'autre dépôt ? service méthodes ?).",
+          "fix": "Identifier la personne par sa fonction (« le chef d'équipe du second dépôt »)."
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "file": "content/posts/reprendre-le-controle-de-ses-pensees/baptiste-engagement-progressif-projet.md",
+      "focus": "engagement progressif dans un projet (parcours photographique)",
+      "structure": {
+        "scene": "ok",
+        "concept": "ok",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "ok",
+        "conclusion": "ok",
+        "proches": "ok"
+      },
+      "comprehension": 4,
+      "comprehension_note": "Le lien avec l'ép. 3 (photos de l'atelier) est bien fait, et la proposition de trois images est concrète. La rencontre (une image refusée à cause d'un passage étroit, une petite tâche acceptée avec ses limites) donne une issue claire. La logique « essai limité puis point de révision » reprend celle de l'ép. 4.",
+      "issues": [
+        {
+          "severity": "mineur",
+          "type": "repetition",
+          "quote": "### 3. Prévoir un point où la suite sera choisie de nouveau",
+          "problem": "Reprend presque à l'identique la technique 3 de l'ép. 4 (« Prévoir une date de décision et la manière de revenir sur la proposition »).",
+          "fix": "Remplacer par une technique propre au démarrage, par ex. transformer la réponse vague effacée (« peut-être intéressé plus tard ») en proposition datée."
+        },
+        {
+          "severity": "mineur",
+          "type": "comprehension",
+          "quote": "Cette formulation le protège d’un engagement trop grand, mais ne permet pas à l’organisatrice de savoir ce qu’il propose.",
+          "problem": "L'organisatrice n'a pas de nom alors qu'elle intervient à plusieurs reprises.",
+          "fix": "Lui donner un prénom."
+        }
+      ]
+    },
+    {
+      "number": 11,
+      "file": "content/posts/reprendre-le-controle-de-ses-pensees/baptiste-objectifs-ressources-reelles.md",
+      "focus": "objectifs réalistes au regard des ressources réelles",
+      "structure": {
+        "scene": "ok",
+        "concept": "ok",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "ok",
+        "conclusion": "ok",
+        "proches": "ok"
+      },
+      "comprehension": 4,
+      "comprehension_note": "La liste de trois lignes qui se déplie en étapes cachées illustre clairement le concept. Le retour (façade masquée par des travaux, échange plus long avec Patricia, tri limité avec le pull qu'Elsa veut garder) montre décisions et conséquences.",
+      "issues": [
+        {
+          "severity": "mineur",
+          "type": "repetition",
+          "quote": "Les espaces blancs sont pris pour du temps sans besoin",
+          "problem": "Recoupe l'ép. 8 (ressources limitées, marge de la soirée, répartition avec Caroline).",
+          "fix": "Ajouter une phrase qui distingue l'échelle de la semaine (ici) de celle d'une soirée (ép. 8)."
+        }
+      ]
+    },
+    {
+      "number": 12,
+      "file": "content/posts/reprendre-le-controle-de-ses-pensees/baptiste-reviser-choix-chemin.md",
+      "focus": "réviser un choix sans effacer le chemin fait (coûts irrécupérables)",
+      "structure": {
+        "scene": "ok",
+        "concept": "ok",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "ok",
+        "conclusion": "ok",
+        "proches": "ok"
+      },
+      "comprehension": 4,
+      "comprehension_note": "Les deux fiches détachées du mur ferment bien le fil documentaire. La distinction entre la direction conservée (transmissions compréhensibles) et le moyen abandonné est claire. Le concept de coûts irrécupérables a toutefois déjà été traité à l'ép. 4 sur le même objet.",
+      "issues": [
+        {
+          "severity": "mineur",
+          "type": "repetition",
+          "quote": "Emmanuel lui demande si la version pourrait servir à une autre équipe.",
+          "problem": "Même réplique qu'à l'ép. 4 (« Emmanuel demande s’ils peuvent réutiliser quelques exemples pour une autre réunion »).",
+          "fix": "Remplacer par une autre forme de tentation, par ex. Baptiste qui envisage lui-même de présenter la fiche à un autre dépôt."
+        }
+      ]
+    }
+  ],
+  "missing_or_extra": "Douze épisodes : rien ne manque et rien n'est en trop. Les chevauchements (1/6, 4/12, 4/10) se règlent en recentrant les épisodes, pas en fusionnant : chaque épisode garde une scène et une décision propres.",
+  "verdict": "corrections_majeures"
+}

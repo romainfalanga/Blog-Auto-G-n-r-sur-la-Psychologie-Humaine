@@ -1,0 +1,155 @@
+{
+  "schema_version": 1,
+  "character_id": "hector",
+  "reviewer": "review_hector",
+  "reviewed_on": "2026-11-12",
+  "status": "revision_requested",
+  "summary": "Lecture indépendante complète de la charte, de l’article modèle, du dossier, du design, du brief et des douze épisodes de Hector (delirium, 6D70). Les douze facettes sont distinctes et visibles dans chaque scène : changement soudain, annonce et causes, réorientation, fluctuation vespérale, illusion unique, peur et colère, forme hypoactive, récupération incomplète, trous de mémoire, souvenir effrayant, frontière avec démence et âge, risque de récidive. Les causes sont nommées par la seule équipe, sans médicament, dose, sédation, contention, pourcentage ni étiquette de stress post-traumatique ; outils manuels sans coupe ; le 15 n’apparaît qu’à l’épisode 12 ; les conseils aux proches sont concrets, consentis et sûrs. Corrections demandées : deux formulations cliniques à l’épisode 2, une affirmation hors dossier à l’épisode 10, et des raccords calendaires (samedi d’hôpital aux épisodes 6–7 du fait du mardi de l’épisode 8, tiroir et rendez-vous à l’épisode 11, date de la fiche à l’épisode 12). Cette relecture éditoriale ne constitue ni expertise clinique individuelle ni preuve de déploiement.",
+  "files": {
+    "editorial/clinical/designs/hector.json": "446a3648f24d12ef8f72c7b8709a09ba066d779affd4904f2cfd6d1afe280b21",
+    "editorial/clinical/dossiers/hector.json": "850ae8eb3d15d375fabee0a39688ee04782e24b10e542601e5e0ea60218cc0ad",
+    "editorial/clinical/hector.json": "40fb469fb7ae1abb80d8a9cca5227f2d2b73bb7b520925b7c483661d01a2ef97"
+  },
+  "findings": [
+    {
+      "episode": 2,
+      "issue": "L’introduction clinique affirme que le delirium « signale presque toujours une cause médicale », alors que le dossier (CDDR p. 603) retient aussi des facteurs multiples ou inconnus ; l’explication dit « ni une maladie mentale qui commencerait », ce qui contredit le classement de 6D70 au chapitre 06 de la CIM-11 et peut laisser croire que le delirium n’est pas un trouble reconnu.",
+      "requested_change": "Remplacer « presque toujours » par une formulation du type « le plus souvent une affection médicale, parfois une substance ou un médicament, souvent plusieurs facteurs, et parfois sans cause identifiée ». Remplacer « ni une maladie mentale qui commencerait » par « ni le début d’une maladie psychiatrique durable » ou équivalent, sans nier qu’il s’agit d’un trouble classé."
+    },
+    {
+      "episode": 6,
+      "issue": "L’épisode 8 fixe le neuvième jour à un mardi ; le sixième jour est donc un samedi. « Le lendemain, à sept heures trente, Julien passe avant ses cours » place une journée de classe un samedi.",
+      "requested_change": "Rendre le lendemain compatible avec un samedi (par exemple « avant de partir à la longère ») ou retirer « un mardi » à l’épisode 8 et recalculer tous les jours de semaine de la série (sortie, rendez-vous à quinze jours, lundi J+13, samedis et jeudis suivants)."
+    },
+    {
+      "episode": 7,
+      "issue": "Même raccord calendaire : au sixième jour (samedi d’après l’épisode 8), Julien « passe pendant sa pause du déjeuner », formule qui suppose une journée de travail au collège.",
+      "requested_change": "Remplacer par une formule compatible avec un samedi (par exemple « en revenant du chantier de la longère ») ou appliquer la même correction globale que pour l’épisode 6."
+    },
+    {
+      "episode": 10,
+      "issue": "L’explication affirme que les souvenirs effrayants sont « parfois plus nets que les souvenirs des faits réels » ; cette comparaison ne figure pas dans les points vérifiés du dossier (NICE 1.8.1, SIGN annexe 4).",
+      "requested_change": "Supprimer cette comparaison ou l’appuyer sur une source ajoutée au dossier ; s’en tenir à « peuvent laisser des souvenirs effrayants de ce qui a été perçu ou cru »."
+    },
+    {
+      "episode": 11,
+      "issue": "La scène d’ouverture dit qu’Hector « nettoie le dernier outil de la caisse » tout en précisant qu’« il reste le quatrième » tiroir, puis la fin indique « Le quatrième tiroir attend samedi » ; par ailleurs le rendez-vous « jeudi » avec le docteur Garnier n’a été fixé dans aucun épisode antérieur (l’épisode 10 propose seulement d’en reparler si besoin).",
+      "requested_change": "Remplacer « nettoie le dernier outil » par une action cohérente (par exemple « commence le quatrième tiroir ») et faire apparaître l’origine du rendez-vous du jeudi : une phrase à l’épisode 10 où le docteur Garnier fixe un suivi, ou dans l’épisode 11 où Hector l’a pris à cause du mot cherché."
+    },
+    {
+      "episode": 12,
+      "issue": "La fiche est datée du « mardi de la septième semaine, au cabinet du docteur Garnier ». Le samedi de la sixième semaine (épisode 11), le rendez-vous annoncé « jeudi » tombe dans la septième semaine, après ce mardi : la fiche serait rédigée avant la consultation de l’épisode 11, lors d’une visite jamais mentionnée, alors que l’annonce de l’épisode 11 place cette démarche après.",
+      "requested_change": "Dater la rédaction de la fiche après le jeudi de l’épisode 11 (par exemple « le mardi de la huitième semaine », la caisse restant prête « depuis mercredi ») ou la rattacher explicitement à une visite postérieure, et vérifier que l’échéance « dans un peu plus de deux mois » reste juste."
+    }
+  ],
+  "episode_checks": [
+    {
+      "number": 1,
+      "focus": "Un changement soudain par rapport à l’Hector habituel",
+      "opening_quote": "À midi, au deuxième jour de son hospitalisation pour une infection pulmonaire, Hector Ménard, 77 ans, charpent",
+      "ending_quote": "Nadia se présente à Hector, lui dit qu’il est à l’hôpital de Saumur et qu’il fait nuit",
+      "continuity_note": "Deuxième soir : l’homme de midi (ciseaux six, douze, vingt, trente, correction du vingt-cinq) contraste avec la question répétée sur le trusquin et le drap tiré comme une bâche ; Nadia note vingt heures, prévient le médecin de garde, Julien laisse son numéro. Le lecteur sait qui est qui et où.",
+      "clinical_note": "Stade under_assessment respecté : « Personne ne lui a dit ce que c’était. On lui a dit qu’on cherchait. » Changement en heures par rapport au fonctionnement habituel (CDDR p. 602–603, NICE 1.3.1/1.5.1, HAS) ; aucun critère d’autodiagnostic ni cause avancée par Julien.",
+      "relatives_note": "Le miroir part de la phrase réelle de Julien à Nadia (« À midi, il allait bien… ») : comparer, sonner l’infirmière présente, laisser son numéro, puis rentrer chez soi ; le proche n’interprète pas."
+    },
+    {
+      "number": 2,
+      "focus": "Nommer le delirium et chercher ses causes médicales",
+      "opening_quote": "Le troisième matin, Hector Ménard, 77 ans, charpentier retraité hospitalisé à Saumur pour une infection pulmon",
+      "ending_quote": "« Delirium », répète la docteure Roussel, à la demande d’Hector, puis elle l’épelle",
+      "continuity_note": "Troisième matin, présence de Julien demandée par téléphone et acceptée à condition qu’on ne rie pas ; le mot écrit au dos de la feuille des menus et l’accord donné pour les nouvelles préparent le sac de l’épisode 3.",
+      "clinical_note": "Causes nommées par la seule équipe (infection, déshydratation, traitements revus), sans médicament ni examen pour le lecteur. Deux formulations dépassent le dossier : « presque toujours une cause médicale » dans l’introduction (la CDDR p. 603 admet des facteurs inconnus) et « ni une maladie mentale » alors que 6D70 figure au chapitre 06 de la CIM-11.",
+      "relatives_note": "Le proche demande de répéter un mot « pour que nous l’écrivions », ne vérifie pas les traitements et accepte ce que Hector choisit de partager : consentement explicite (« Vous pouvez lui donner des nouvelles. À lui. »)."
+    },
+    {
+      "number": 3,
+      "focus": "Des repères visibles pour retrouver où l’on est",
+      "opening_quote": "Le troisième soir, Julien, le neveu d’Hector, entre dans la chambre à dix-neuf heures quinze avec un sac en to",
+      "ending_quote": "Nadia pose le thermomètre, se présente et dit : « Vous êtes au service de médecine de l’hôpital de Saumur, il",
+      "continuity_note": "Lunettes restées sur la table de la cuisine depuis l’admission, appareil auditif dans sa boîte bleue, photo de l’atelier, crayon plat ; horloge masquée par la perfusion, calendrier placé par Hector, « chambre 12 » affichée : objets repris aux épisodes 4 à 6.",
+      "clinical_note": "Réorientation par l’environnement et les sens conforme à NICE 1.4.4/1.7.2 et SIGN §2.2 ; Nadia rappelle que ces repères ne traitent pas l’infection, sans effet prouvé chez Hector.",
+      "relatives_note": "Julien évite « je viens de te le dire » ; proposition concrète « On met le calendrier où tu veux ? », apport d’objets à sa portée, pas de contrôle de mémoire à chaque visite."
+    },
+    {
+      "number": 4,
+      "focus": "Les symptômes fluctuent et s’aggravent le soir",
+      "opening_quote": "Le quatrième jour, à neuf heures, Hector Ménard, 77 ans, charpentier retraité hospitalisé à Saumur pour une in",
+      "ending_quote": "Nadia s’accroupit près du lit, se présente et dit : « Il est sept heures du soir, monsieur Ménard",
+      "continuity_note": "Appel de neuf heures (rabot à semelle en charme, petit rabot au fer fatigué), sieste de l’après-midi, agitation de dix-neuf heures pour fermer l’atelier ; naissance du carnet à spirale et du créneau de dix-neuf heures « pas tous les soirs », respectant les contraintes de Julien.",
+      "clinical_note": "Fluctuation sur vingt-quatre heures, aggravation vespérale et rythme veille-sommeil décalé (HAS, SIGN §9.1 p. 23) ; l’explication précise qu’une variation ne vaut ni aggravation sûre ni guérison.",
+      "relatives_note": "Le proche décrit deux moments à l’infirmière sans les opposer, propose de venir à la tombée du jour en disant franchement quand il ne pourra pas, et s’autorise des soirs chez lui."
+    },
+    {
+      "number": 5,
+      "focus": "Un bruit réel mal interprété pendant la nuit",
+      "opening_quote": "Il est deux heures dix, dans la nuit du quatrième au cinquième jour",
+      "ending_quote": "Nadia allume la lampe de chevet en plus de la veilleuse",
+      "continuity_note": "Nuit du quatrième au cinquième jour, roue de chariot qui frotte, souvenir d’un apprenti blessé à Chinon en 1971 ; Julien appelle à sept heures quarante-cinq « comme convenu », Nadia raconte la nuit dans le cadre de l’accord de l’épisode 2. Une seule illusion dans la série.",
+      "clinical_note": "Illusion définie comme mauvaise interprétation d’un stimulus réel (CDDR p. 603) ; Nadia éclaire, montre le chariot, ne donne pas raison et ne rit pas (SIGN §9.1). Aucune hallucination graphique ni contention.",
+      "relatives_note": "Ancré dans la limite posée par Hector au téléphone : réponse « D’accord. Et si quelqu’un me demande, je te dirai ce que j’ai raconté », relais vers l’infirmière la nuit, limite à respecter après l’épisode."
+    },
+    {
+      "number": 6,
+      "focus": "Peur et colère qui débordent pendant l’épisode",
+      "opening_quote": "Le cinquième jour, à dix-sept heures trente, Sandrine, aide-soignante du service de médecine, entre dans la ch",
+      "ending_quote": "Mathieu reste à distance et parle lentement : « Monsieur Ménard, je suis Mathieu, infirmier",
+      "continuity_note": "Dix-sept heures trente du cinquième jour : chaussures introuvables, main inconnue sous le coude, accusation de vol de la caisse ; photo de la caisse fermée sur l’établi et excuse à Sandrine le lendemain à sept heures trente. Ce lendemain est le sixième jour ; avec le neuvième jour fixé un mardi à l’épisode 8, c’est un samedi, incompatible avec « avant ses cours ».",
+      "clinical_note": "Peur et colère présentées comme perturbations émotionnelles possibles (CDDR p. 603), apaisement verbal et non verbal d’abord (NICE 1.7.3) : « Personne ne tient Hector. » Pas de sédation ni de traitement mentionné.",
+      "relatives_note": "Le proche dit seulement son prénom sur signe de l’infirmier, reste à distance ou sort, puis répond le lendemain à la peur restante (« la caisse est à l’atelier ») ; la conduite reste à l’équipe."
+    },
+    {
+      "number": 7,
+      "focus": "Une journée calme qui n’est pas forcément un mieux",
+      "opening_quote": "Le sixième jour, après s’être excusé auprès de Sandrine, l’aide-soignante, à sept heures trente, Hector Ménard",
+      "ending_quote": "Nadia appelle la docteure Roussel, médecin du service, encore dans son bureau pour finir ses courriers",
+      "continuity_note": "Sixième jour : plateau à peine touché, carafe pleine, « oui » puis « non », message « il va beaucoup mieux » à Anne corrigé le soir. Une matinée lucide (excuse) suivie d’une journée hypoactive reste compatible avec la fluctuation. Raccord calendaire : « pendant sa pause du déjeuner » suppose un jour de classe, alors que ce sixième jour tombe un samedi d’après l’épisode 8.",
+      "clinical_note": "Forme hypoactive souvent manquée (NICE 1.3.2, SIGN §9.1) ; prise de sang et révision des traitements restent des décisions de la docteure Roussel, sans médicament, dose ni examen proposé au lecteur.",
+      "relatives_note": "Le miroir reprend la carafe et la photo : regarder avant de rassurer la famille, dire « Ce n’est pas lui » à l’infirmière, corriger un message trop optimiste ; le proche décrit, l’équipe évalue."
+    },
+    {
+      "number": 8,
+      "focus": "Rentrer chez soi pas encore tout à fait soi-même",
+      "opening_quote": "Le neuvième jour, un mardi, à onze heures, la docteure Roussel, médecin du service de médecine de l’hôpital de",
+      "ending_quote": "Hector referme le deuxième tiroir sans l’avoir trié",
+      "continuity_note": "Neuvième jour, un mardi : courrier de sortie pour le docteur Garnier, passages du mercredi après-midi et du samedi matin, portage de repas sans le soir choisi par Hector, clé chez Bernard, étiquette « Tiroir 1 », rendez-vous le mercredi de la troisième semaine dans quinze jours. Ce mardi fixe rétroactivement les jours d’hospitalisation (voir épisodes 6 et 7).",
+      "clinical_note": "Récupération incomplète après la sortie, durée imprévisible, soutien préparé et delirium mentionné au médecin traitant (SIGN §8 et §9.1, NICE 1.6.4) ; la fatigue au deuxième tiroir n’est pas présentée comme rechute ni le tri comme rééducation.",
+      "relatives_note": "Julien ne finit pas le tri ; phrase proposée « Tu me montreras le tiroir de samedi ? », informations une à une, passages tenus sans promesses supplémentaires, suivi confié au médecin traitant."
+    },
+    {
+      "number": 9,
+      "focus": "Des trous de mémoire sur les jours de confusion",
+      "opening_quote": "Le samedi de la deuxième semaine à la maison, à dix heures, Hector Ménard, 77 ans, charpentier retraité rentré",
+      "ending_quote": "« Je ne lui ai pas dit pour rire, dit Julien",
+      "continuity_note": "Samedi de la deuxième semaine : quatre tiroirs étiquetés « trié », nettoyage commencé par l’équerre ; Bernard apprend la scie par Julien, qui reconnaît l’avoir dit sans accord (point signalé par le rédacteur, traité dans la scène). Deux pages lues, arrêt au début de la troisième ; Bernard s’excuse par téléphone.",
+      "clinical_note": "Trous de mémoire limités à la période de confusion, pas un test ni un signe de démence ; journal des proches pour combler les manques (SIGN §9.1 p. 23). Le fragment conservé (« un bruit aigu ») s’est réduit depuis l’épisode 5, ce qui reste plausible.",
+      "relatives_note": "Proposition concrète « Tu veux que je te lise ce que j’avais noté ? Tu m’arrêtes quand tu veux. », reconnaissance d’une information partagée sans accord, aucune mise à l’épreuve de la mémoire."
+    },
+    {
+      "number": 10,
+      "focus": "Un souvenir effrayant de l’épisode qui revient",
+      "opening_quote": "Le lundi, treize jours après sa sortie et deux jours avant son rendez-vous chez son médecin traitant, vers qui",
+      "ending_quote": "Le soir, à la table de la cuisine, Hector reprend le courrier de sortie, sous les mots qu’il avait soulignés,",
+      "continuity_note": "Lundi, treize jours après la sortie et deux jours avant le rendez-vous : calendrier cohérent avec le mardi de sortie et le mercredi à quinze jours. Scie électrique du voisin en usage protégé, hors scène ; aucun outil coupant manié par Hector. Étiquette du troisième tiroir le jeudi.",
+      "clinical_note": "Souvenir effrayant possible, partagé avec un professionnel (NICE 1.8.1, SIGN annexe 4) ; ni nouvelle confusion ni étiquette de stress post-traumatique. L’affirmation « parfois plus nets que les souvenirs des faits réels » n’est pas dans le dossier.",
+      "relatives_note": "Respecte le choix d’Hector de ne pas en parler à Julien : porte ouverte vers Julien ou le docteur Garnier, s’asseoir à côté sans questions, ne pas faire revivre la nuit."
+    },
+    {
+      "number": 11,
+      "focus": "Le delirium n’est ni une démence ni la vieillesse",
+      "opening_quote": "Le samedi de la sixième semaine à la maison, à onze heures, Hector Ménard, 77 ans, charpentier retraité qui a",
+      "ending_quote": "Le jeudi, à quatorze heures, Julien est assis à côté d’Hector dans le cabinet du docteur Garnier, médecin trai",
+      "continuity_note": "Samedi de la sixième semaine : mot « trusquin » cherché, remarque sur Alzheimer, souvenir de Raymond (point signalé, présenté comme souvenir d’Hector sans généralisation). Raccords fragiles : « nettoie le dernier outil » alors qu’« il reste le quatrième » tiroir et que « le quatrième tiroir attend samedi » ; le rendez-vous de suivi du jeudi n’a été fixé dans aucun épisode antérieur.",
+      "clinical_note": "Distinction début brutal et fluctuant / démence progressive / vieillissement (CDDR p. 603–604, HAS) ; risque de déclin ultérieur sans prédiction ni pourcentage (SIGN §8) ; consultation mémoire et quotidien à trois mois, à distance de l’épisode.",
+      "relatives_note": "Phrase proposée « Ça m’inquiète un peu. Tu veux qu’on en parle au docteur ? », accompagnement au rendez-vous seulement si la personne le souhaite, faits datés, excuse simple ; le diagnostic reste au médecin."
+    },
+    {
+      "number": 12,
+      "focus": "Un épisode passé augmente le risque d’un autre",
+      "opening_quote": "Le samedi de la huitième semaine, à dix heures, Hector Ménard, 77 ans, charpentier retraité qui a traversé un",
+      "ending_quote": "Sous la fiche, il y a un mot plié en deux",
+      "continuity_note": "Samedi de la huitième semaine sur le chantier de la longère, caisse prête depuis mercredi, mot de 1979 à quarante-sept ans, crayon plat gardé, rendez-vous mémoire « dans un peu plus de deux mois ». La fiche est datée du « mardi de la septième semaine » : ce mardi précède le jeudi du rendez-vous de l’épisode 11, contredisant son annonce (« Avant de remettre la caisse, Hector voudra savoir… »).",
+      "clinical_note": "Antécédent de delirium comme facteur de risque (HAS, SIGN §8 et annexe 4) sans prédiction individuelle ; le 15 pour une urgence médicale (Service Public F33954) ; « Ne pas chercher pourquoi » maintient le tri des causes aux professionnels. Réglage du rabot sans coupe, seul « 15 » cité.",
+      "relatives_note": "Rôle limité énoncé dans la scène (« Je ne vais pas te surveiller ») et réponse concrète « Si tu changes d’un coup, j’appelle le 15, et je leur dis pour Saumur » ; photo de la fiche, pas de guet des oublis, conversation bois et charpente préservée."
+    }
+  ]
+}

@@ -1,0 +1,322 @@
+{
+ "character_id": "anatole",
+ "type": "clinique",
+ "auditor": "audit_c2",
+ "audited_on": "2026-11-12",
+ "persona": {
+  "age_metier_proches": "29 ans, médiateur scientifique dans un musée des techniques ; syndrome de la Tourette diagnostiqué dans l'enfance ; Salomé (collègue), Elias (ami illustrateur), docteure Lenoir (neurologue), Denis (installation), Aline (accueil), médecin traitant, une responsable.",
+  "arc_summary": "Anatole prépare avec Salomé un atelier d'engrenages manipulable. Chaque étape (réunion, répétitions, installation, accueil) fait apparaître une facette des tics : moteurs et phoniques, effort de suppression, variabilité, sensations prémonitoires, suggestibilité, baisse pendant une activité absorbante, distinction avec d'autres gestes et compulsions, douleur nouvelle, préjugé de coprolalie, décision de soin. L'atelier ouvre avec six visiteurs et un rythme révisable.",
+  "arc_issues": [
+   "Denis n'est jamais présenté par sa fonction (épisodes 5, 7, 9, 10, 12).",
+   "Les épisodes 7 et 8 partagent le même schéma (un collègue interprète un geste) ; les facettes cliniques restent distinctes, mais la scène se répète.",
+   "Chronologie cohérente : diagnostic dans l'enfance, rendez-vous prévu en 3 qui a lieu en 4, douleur en 9 reprise en 10 et 11, rendez-vous d'information en 11 conservé en 12.",
+   "Les facettes sont réelles et bien distinctes ; c'est le parcours le plus lisible de ce lot."
+  ]
+ },
+ "episodes": [
+  {
+   "number": 1,
+   "file": "content/posts/comprendre-et-maitriser-ses-emotions/anatole-deux-facons-de-survenir.md",
+   "focus": "Tics moteurs et phoniques : un mouvement d'épaule et un son de gorge interrompent une explication",
+   "structure": {
+    "scene": "ok",
+    "concept": "ok",
+    "manifestations": "ok",
+    "techniques": "ok",
+    "retour": "ok",
+    "conclusion": "ok",
+    "proches": "ok"
+   },
+   "comprehension": 4,
+   "comprehension_note": "Scène très visuelle (trois ronds de carton, le doigt qui dévie, le son au milieu du mot « engrenage », la bouteille d'eau refusée). Le lecteur comprend le tic et la réponse « Merci, mais là, c'est un tic ». Seul manque : Salomé n'est jamais présentée comme sa collègue médiatrice dans le corps du texte.",
+   "issues": [
+    {
+     "severity": "mineur",
+     "type": "comprehension",
+     "quote": "pour montrer à Salomé ce que les visiteurs pourraient essayer",
+     "problem": "Salomé apparaît sans fonction ; on ne sait pas si elle est collègue, responsable ou amie avant d'avoir lu la fiche.",
+     "fix": "« pour montrer à Salomé, la médiatrice avec qui il prépare le parcours, ce que les visiteurs pourraient essayer »."
+    },
+    {
+     "severity": "mineur",
+     "type": "comprehension",
+     "quote": "La responsable attend demain un dessin de leur proposition.",
+     "problem": "« La responsable » sans précision (du musée, du service des publics ?), alors qu'elle revient en 2 et 12.",
+     "fix": "« La responsable des publics du musée attend demain… »"
+    }
+   ]
+  },
+  {
+   "number": 2,
+   "file": "content/posts/comprendre-et-maitriser-ses-emotions/anatole-reunion-trop-silencieuse.md",
+   "focus": "Effort de suppression : retenir des tics coûte de l'attention, le calme apparent masque l'effort",
+   "structure": {
+    "scene": "ok",
+    "concept": "ok",
+    "manifestations": "ok",
+    "techniques": "ok",
+    "retour": "ok",
+    "conclusion": "ok",
+    "proches": "ok"
+   },
+   "comprehension": 5,
+   "comprehension_note": "L'enjeu est net : une réunion budgétaire où il retient un mouvement, répond trop vite, fait répéter une question, puis la phrase de Salomé « Tu avais l'air à l'aise » montre le malentendu. Elias est présenté (« son ami illustrateur »). Le dénouement (compte rendu confié à Salomé, légendes relues après le café) est concret.",
+   "issues": []
+  },
+  {
+   "number": 3,
+   "file": "content/posts/comprendre-et-maitriser-ses-emotions/anatole-deux-repetitions.md",
+   "focus": "Variabilité des tics d'un jour à l'autre pour une même tâche",
+   "structure": {
+    "scene": "ok",
+    "concept": "ok",
+    "manifestations": "ok",
+    "techniques": "ok",
+    "retour": "ok",
+    "conclusion": "ok",
+    "proches": "ok"
+   },
+   "comprehension": 5,
+   "comprehension_note": "Le contraste mardi facile / jeudi heurté est montré par les mêmes roues au même endroit, la réponse sèche à Salomé et le mot « impossible » barré dans le carnet. Décision et conséquence claires (consigne coupée en deux, groupe de six maintenu, notes pour la neurologue).",
+   "issues": []
+  },
+  {
+   "number": 4,
+   "file": "content/posts/comprendre-et-maitriser-ses-emotions/anatole-des-mots-pour-la-nuque.md",
+   "focus": "Sensations prémonitoires : une traction avant certains tics, pas avant tous, sans que cela signifie un contrôle",
+   "structure": {
+    "scene": "ok",
+    "concept": "ok",
+    "manifestations": "ok",
+    "techniques": "ok",
+    "retour": "ok",
+    "conclusion": "ok",
+    "proches": "ok"
+   },
+   "comprehension": 5,
+   "comprehension_note": "La docteure Lenoir est située (« la neurologue »), le carnet apporté reprend l'épisode 3, et la réplique « Une traction, c'est déjà une description » rend le concept accessible. La phrase écrite dans le tram pour Salomé est une décision lisible et ancrée.",
+   "issues": []
+  },
+  {
+   "number": 5,
+   "file": "content/posts/comprendre-et-maitriser-ses-emotions/anatole-pas-de-demonstration.md",
+   "focus": "Suggestibilité : parler longuement des tics peut les rendre plus présents ; refus de démonstration",
+   "structure": {
+    "scene": "ok",
+    "concept": "ok",
+    "manifestations": "ok",
+    "techniques": "ok",
+    "retour": "ok",
+    "conclusion": "ok",
+    "proches": "ok"
+   },
+   "comprehension": 4,
+   "comprehension_note": "La montée de la liste de Denis, le tic qui devient plus présent et la phrase « Je ne vais pas faire une démonstration » sont très clairs. Mais Denis n'a pas de fonction : on devine un technicien d'installation à son mètre, sans certitude, alors qu'il revient dans trois épisodes.",
+   "issues": [
+    {
+     "severity": "majeur",
+     "type": "comprehension",
+     "quote": "Denis arrive avec un mètre et une tablette où sont dessinées les tables disponibles. Il n’a pas encore travaillé avec Anatole.",
+     "problem": "Prénom non présenté : le lecteur ne sait pas qui est Denis (régisseur, menuisier, prestataire ?) ni pourquoi son avis compte ; il revient en 7, 9, 10 et 12 sans plus de précision.",
+     "fix": "« Denis, le régisseur chargé du mobilier des salles, arrive avec un mètre… »"
+    }
+   ]
+  },
+  {
+   "number": 6,
+   "file": "content/posts/comprendre-et-maitriser-ses-emotions/anatole-fleches-et-silence.md",
+   "focus": "Diminution des tics pendant une activité absorbante, sans en faire une méthode exigible",
+   "structure": {
+    "scene": "ok",
+    "concept": "ok",
+    "manifestations": "ok",
+    "techniques": "ok",
+    "retour": "ok",
+    "conclusion": "ok",
+    "proches": "ok"
+   },
+   "comprehension": 5,
+   "comprehension_note": "Le croquis avec Elias, la formule ratée gardée au dos de la feuille et la proposition de Salomé de commencer chaque visite par ce moment rendent le risque d'attente très lisible. La réplique « Je ne peux pas promettre ce que feront mes tics » tranche clairement.",
+   "issues": []
+  },
+  {
+   "number": 7,
+   "file": "content/posts/comprendre-et-maitriser-ses-emotions/anatole-crayon-qui-bat-la-mesure.md",
+   "focus": "Distinguer tic, geste volontaire et stéréotypie : la forme d'un mouvement répété ne suffit pas à le nommer",
+   "structure": {
+    "scene": "ok",
+    "concept": "ok",
+    "manifestations": "ok",
+    "techniques": "ok",
+    "retour": "ok",
+    "conclusion": "ok",
+    "proches": "ok"
+   },
+   "comprehension": 4,
+   "comprehension_note": "Le crayon qui bat la mesure et l'épaule qui « ne suit pas le rythme » font voir la différence sans cours. La note « gestes répétitifs à prévoir » donne un enjeu concret. La consigne finale proposée reste un peu jargonnante.",
+   "issues": [
+    {
+     "severity": "mineur",
+     "type": "comprehension",
+     "quote": "« laisser la place latérale libre ; se référer aux accords de relais »",
+     "problem": "« Accords de relais » est un terme interne que le lecteur doit reconstruire (accord avec Salomé de l'épisode 1 et 2).",
+     "fix": "« laisser libre le côté gauche de la table ; Salomé reprend l'explication si Anatole le demande »."
+    },
+    {
+     "severity": "mineur",
+     "type": "repetition",
+     "quote": "Denis regarde successivement le crayon et son visage ; Anatole se demande si chaque geste sera désormais examiné ainsi.",
+     "problem": "Même schéma que l'épisode 8 (un collègue interprète un geste) ; les deux facettes cliniques diffèrent mais la scène se ressemble.",
+     "fix": "Garder, mais différencier l'épisode 8 en mettant l'accent sur la tâche de sécurité réelle plutôt que sur le malentendu."
+    }
+   ]
+  },
+  {
+   "number": 8,
+   "file": "content/posts/comprendre-et-maitriser-ses-emotions/anatole-fiche-et-col-de-chemise.md",
+   "focus": "Tics complexes et compulsions : une même répétition peut avoir des sens différents ; ne pas parler de « rituel »",
+   "structure": {
+    "scene": "ok",
+    "concept": "ok",
+    "manifestations": "ok",
+    "techniques": "ok",
+    "retour": "ok",
+    "conclusion": "ok",
+    "proches": "ok"
+   },
+   "comprehension": 4,
+   "comprehension_note": "Le geste au col, la question de Salomé « Tu veux tout refaire depuis le début ? » et le mot « rituel » qui l'agace sont clairs. Deux phrases abstraites freinent la lecture, dont une sur un « mécanisme de collection » sans contexte.",
+   "issues": [
+    {
+     "severity": "mineur",
+     "type": "comprehension",
+     "quote": "Aucun mécanisme de collection ne sera manipulé ; la maquette d’atelier a été préparée pour être tournée à la main par les visiteurs.",
+     "problem": "Phrase de précaution qui surgit sans contexte ; le lecteur ne sait pas pourquoi une pièce de collection pourrait être en jeu.",
+     "fix": "Supprimer, ou relier : « Les vraies machines restent dans leurs vitrines ; seule la maquette d'atelier sera manipulée. »"
+    },
+    {
+     "severity": "mineur",
+     "type": "comprehension",
+     "quote": "Anatole ne cherche pas à montrer qu’un geste serait forcément un tic dès lors qu’il n’annonce aucune peur.",
+     "problem": "Phrase abstraite et difficile à comprendre à la première lecture ; elle explique le concept au lieu de montrer une pensée du personnage.",
+     "fix": "Remplacer par une pensée simple : « Il sait que ce geste n'a rien à voir avec une peur d'avoir oublié une case, mais il n'a pas envie d'en faire un cours. »"
+    }
+   ]
+  },
+  {
+   "number": 9,
+   "file": "content/posts/comprendre-et-maitriser-ses-emotions/anatole-chaise-a-cote-de-la-table.md",
+   "focus": "Douleur nouvelle : un diagnostic connu ne suffit pas à expliquer un symptôme récent",
+   "structure": {
+    "scene": "ok",
+    "concept": "ok",
+    "manifestations": "ok",
+    "techniques": "ok",
+    "retour": "ok",
+    "conclusion": "ok",
+    "proches": "ok"
+   },
+   "comprehension": 3,
+   "comprehension_note": "L'ouverture est bonne (il hésite à tourner la tête, distingue la douleur de la traction connue, suspend la répétition et appelle son médecin traitant). La consultation est ensuite racontée en langage procédural, et le lecteur ne sait pas ce qui a été décidé, ni ce que sont « les indications reçues » qui conditionnent la nouvelle date.",
+   "issues": [
+    {
+     "severity": "majeur",
+     "type": "comprehension",
+     "quote": "Le médecin organise avec lui la prise en charge et les modalités de recontact si elle change ou persiste.",
+     "problem": "Phrase administrative qui remplace la scène de consultation ; aucune parole, aucune décision visible.",
+     "fix": "Donner un contenu sobre et non prescriptif : « Le médecin l'examine, lui conseille d'éviter de porter des charges cette semaine et de rappeler si la douleur augmente ou dure au-delà de quelques jours. »"
+    },
+    {
+     "severity": "mineur",
+     "type": "comprehension",
+     "quote": "Salomé prévient les deux collègues attendus que la répétition est reportée.",
+     "problem": "« Les deux collègues attendus » ne sont pas identifiés (Denis et Aline ?).",
+     "fix": "Les nommer : « Salomé prévient Denis et Aline… »"
+    },
+    {
+     "severity": "mineur",
+     "type": "comprehension",
+     "quote": "Salomé demande s’il veut qu’elle fasse chauffer la salle.",
+     "problem": "Réplique étrange (chauffer une salle pour une douleur de nuque) qui n'est pas expliquée.",
+     "fix": "« Salomé lui propose une écharpe, croyant à un coup de froid. »"
+    }
+   ]
+  },
+  {
+   "number": 10,
+   "file": "content/posts/comprendre-et-maitriser-ses-emotions/anatole-phrase-pour-accueillir.md",
+   "focus": "Coprolalie et préjugés : elle ne concerne qu'une minorité ; choisir ce qu'on dit au public",
+   "structure": {
+    "scene": "ok",
+    "concept": "ok",
+    "manifestations": "ok",
+    "techniques": "ok",
+    "retour": "ok",
+    "conclusion": "ok",
+    "proches": "ok"
+   },
+   "comprehension": 5,
+   "comprehension_note": "Aline est présentée (accueil le jour de l'ouverture), sa question sur les insultes est crédible et la réponse « Ce n'est pas ce que je vis » est forte. La phrase gardée pour les visiteurs et la flèche corrigée donnent une fin nette, et l'épisode reprend bien la douleur, Denis et la chaise.",
+   "issues": [
+    {
+     "severity": "mineur",
+     "type": "comprehension",
+     "quote": "Anatole n’a pas de coprolalie dans cette histoire.",
+     "problem": "Formule métatextuelle (« dans cette histoire ») qui sort le lecteur du récit.",
+     "fix": "« Anatole, lui, n'a jamais eu ce type de tic. »"
+    }
+   ]
+  },
+  {
+   "number": 11,
+   "file": "content/posts/comprendre-et-maitriser-ses-emotions/anatole-une-question-sur-le-suivi.md",
+   "focus": "Décision de soin partagée à partir du retentissement vécu (effort de suppression), avec information sur l'approche comportementale (CBIT)",
+   "structure": {
+    "scene": "ok",
+    "concept": "ok",
+    "manifestations": "ok",
+    "techniques": "ok",
+    "retour": "ok",
+    "conclusion": "ok",
+    "proches": "ok"
+   },
+   "comprehension": 4,
+   "comprehension_note": "Les trois feuilles sur la table de la cuisine et la question « Comment saurons-nous que cela m'aide ? » ancrent bien la scène. La priorité d'Anatole (rester disponible pour une deuxième question de visiteur) est concrète et distincte de l'épisode 2. Ouverture un peu administrative.",
+   "issues": [
+    {
+     "severity": "mineur",
+     "type": "comprehension",
+     "quote": "L’appel avec la docteure Lenoir a été organisé après la transmission de sa consultation.",
+     "problem": "Phrase passive et procédurale en ouverture.",
+     "fix": "« Il a demandé un appel à la docteure Lenoir après lui avoir envoyé le compte rendu du médecin traitant. »"
+    },
+    {
+     "severity": "mineur",
+     "type": "proches",
+     "quote": "Elias peut demander : « Tu veux me dire ce que tu as compris ou tu préfères parler d’autre chose ? »",
+     "problem": "Elias n'apparaît pas dans la scène ; la rubrique n'est pas ancrée dans ce qui a été montré.",
+     "fix": "Ancrer dans la scène : Salomé, qui reçoit le message sur l'intervalle libre, ou un proche à qui Anatole montre ses trois feuilles."
+    }
+   ]
+  },
+  {
+   "number": 12,
+   "file": "content/posts/comprendre-et-maitriser-ses-emotions/anatole-six-chaises-et-deux-dates.md",
+   "focus": "Retentissement professionnel et adaptations révisables : construire un rythme au-delà d'une bonne séance",
+   "structure": {
+    "scene": "ok",
+    "concept": "ok",
+    "manifestations": "ok",
+    "techniques": "ok",
+    "retour": "ok",
+    "conclusion": "ok",
+    "proches": "ok"
+   },
+   "comprehension": 5,
+   "comprehension_note": "Finale très réussie : les six visiteurs, la phrase d'information choisie, la question répétée, la chaise, l'enfant qui demande si la petite roue va plus vite, puis deux dates espacées et un bilan. Les fils (Elias, exposition d'affiches, rendez-vous d'information, douleur) sont refermés.",
+   "issues": []
+  }
+ ],
+ "missing_or_extra": "Douze épisodes, aucun manquant ni surnuméraire. Aucune facette à ajouter ; les douze aspects sont distincts (tics moteurs/phoniques, suppression, fluctuation, prémonitoire, suggestibilité, absorption, diagnostic différentiel des gestes, tics complexes et compulsions, douleur, coprolalie, décision de soin, retentissement au travail).",
+ "verdict": "corrections_mineures"
+}

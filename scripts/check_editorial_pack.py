@@ -1,4 +1,7 @@
-"""Check the public story structure and the manually authored V10 pack.
+"""Check the public story structure and the manually authored psychology packs.
+
+Every `data/editorial_pack_v*.json` manifest (psychology-v10, psychology-v11, …)
+declares its characters; each of them must have twelve unique episodes.
 
 No provider, generation, text repair or publication is performed here.
 """
@@ -13,6 +16,21 @@ from build_article_intros import normalized, plain_text
 
 ROOT=Path(__file__).resolve().parents[1]
 PACK='psychology-v10'
+PACK_NAME=re.compile(r'^psychology-v(\d+)$')
+
+
+def pack_manifests(root=None):
+    """Return the pack manifests in version order, keyed by pack name."""
+    root=Path(root or ROOT)
+    found={}
+    for path in (root/'data').glob('editorial_pack_v*.json'):
+        manifest=json.loads(path.read_text())
+        name=manifest.get('pack')
+        match=PACK_NAME.match(str(name))
+        if not match or path.name!=f'editorial_pack_v{match.group(1)}.json':raise ValueError(f'Pack name and file differ: {path.name}')
+        if name in found:raise ValueError('Duplicate pack: '+name)
+        found[name]=(int(match.group(1)),path,manifest)
+    return {name:(path,manifest) for name,(_,path,manifest) in sorted(found.items(),key=lambda item:item[1][0])}
 CATEGORIES={
     'cat1_pensees':('Reprendre le contrôle de ses pensées','reprendre-le-controle-de-ses-pensees'),
     'cat2_emotions':('Comprendre et maîtriser ses émotions','comprendre-et-maitriser-ses-emotions'),
@@ -89,6 +107,8 @@ def check_article(path,meta,body):
     return errors,count
 
 def inspect(paths=None,allow_partial=False):
+    manifests=pack_manifests()
+    expected={name:len(manifest.get('characters',[])) for name,(_,manifest) in manifests.items()}
     rows=[];errors=[];by_character=defaultdict(list);fingerprints=defaultdict(list)
     public_articles=0
     for path in paths or sorted((ROOT/'content/posts').rglob('*.md')):
@@ -97,11 +117,13 @@ def inspect(paths=None,allow_partial=False):
         except Exception as exc:errors.append(f'{path.relative_to(ROOT)}: {exc}');continue
         public_articles+=1
         errors.extend(f'{path.relative_to(ROOT)}: {issue}' for issue in structure_issues(meta,body))
-        if meta.get('editorial_pack')!=PACK:continue
+        pack=meta.get('editorial_pack')
+        if not isinstance(pack,str) or not PACK_NAME.match(pack):continue
+        if pack not in expected:errors.append(f'{path.relative_to(ROOT)}: pack sans manifeste {pack}');continue
         issues,count=check_article(path,meta,body)
         errors.extend(f'{path.relative_to(ROOT)}: {issue}' for issue in issues)
-        row={'path':path.relative_to(ROOT).as_posix(),'character':meta.get('personnage'),'episode':meta.get('episode'),'words':count,'slug':meta.get('slug')}
-        rows.append(row);by_character[row['character']].append(row)
+        row={'path':path.relative_to(ROOT).as_posix(),'character':meta.get('personnage'),'episode':meta.get('episode'),'words':count,'slug':meta.get('slug'),'pack':pack}
+        rows.append(row);by_character[(pack,row['character'])].append(row)
         # Long shared prose is a review failure, rather than acceptable padding.
         for paragraph in re.split(r'\n\s*\n',body):
             if word_count(paragraph)<80:continue
@@ -110,13 +132,17 @@ def inspect(paths=None,allow_partial=False):
     for paragraph,files in fingerprints.items():
         if len(set(files))>1:errors.append('paragraphe de80mots ou plus répété : '+', '.join(sorted(set(files))))
     if not allow_partial:
-        if len(by_character)!=13:errors.append(f'{len(by_character)} personnages du pack au lieu de13')
-        if len(rows)!=156:errors.append(f'{len(rows)} articles du pack au lieu de156')
-        for name,items in by_character.items():
+        for pack,count in expected.items():
+            characters=[key for key in by_character if key[0]==pack]
+            pack_rows=[row for row in rows if row['pack']==pack]
+            if len(characters)!=count:errors.append(f'{pack} : {len(characters)} personnages du pack au lieu de {count}')
+            if len(pack_rows)!=12*count:errors.append(f'{pack} : {len(pack_rows)} articles du pack au lieu de {12*count}')
+        for (pack,name),items in by_character.items():
             if sorted(row['episode'] for row in items)!=list(range(1,13)):errors.append(f'{name}: douze épisodes uniques requis')
     counts=Counter(row['slug'] for row in rows)
     errors.extend(f'slug dupliqué: {slug}' for slug,n in counts.items() if n>1)
-    return {'public_articles_checked':public_articles,'pack':PACK,'characters':len(by_character),
+    packs=list(expected) or [PACK]
+    return {'public_articles_checked':public_articles,'pack':packs[0] if len(packs)==1 else ', '.join(packs),'characters':len(by_character),
             'articles':len(rows),'words':sum(r['words'] for r in rows),'rows':rows,'errors':errors}
 
 def main():

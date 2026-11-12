@@ -1,0 +1,324 @@
+{
+  "character_id": "celeste",
+  "type": "clinique",
+  "auditor": "audit_c4",
+  "audited_on": "2026-11-12",
+  "persona": {
+    "age_metier_proches": "Céleste, 34 ans, dessinatrice de bijoux dans un collectif d’artisans, suivie par une thérapeute (et un médecin) pour un trouble dissociatif de l’identité déjà diagnostiqué. Entourage : Anouk (amie et collègue, père qui déménage), Rachid (membre du collectif qui tient le registre), Jeanne (commerçante du passage qui accueille la série), une sœur sans prénom.",
+    "arc_summary": "Sur deux semaines et demie, du choix entre les profils A et B jusqu’aux six Reflets du passage en vitrine, chaque épisode isole une facette : lacune, discontinuité du sentiment de soi, intrusion, voix, dépersonnalisation, engagement oublié, effort de vérification, oublis inhabituels adressés au médecin, fragment non situable, fluctuation, retentissement relationnel, inégalité entre tâches. La chronologie des jours (lundi, mardi, vendredi, lundi, mardi, mercredi, jeudi, vendredi, puis semaine suivante) est tenue avec soin. La solution organisationnelle (registre tenu par Rachid, relais d’Anouk) se construit progressivement et clôt l’arc.",
+    "arc_issues": [
+      "Le rôle de Jeanne et le statut de la vitrine restent flous : « sa boutique » (ép. 1, 9), « la vitrine des artisans » (ép. 1), une vitrine du passage dont Rachid a la clé et où Jeanne laisse des bijoux en papier (ép. 4). Le lecteur ne sait pas si la vitrine appartient au collectif ou à la boutique de Jeanne.",
+      "Rachid apparaît à l’épisode 4 sans présentation alors qu’il devient un appui central.",
+      "Cinq épisodes reposent sur des lacunes ou des souvenirs incertains (1, 6, 9, 11, 12) ; les angles sont distincts mais la résolution de l’épisode 12 (Rachid tient les confirmations) reprend celle de l’épisode 7.",
+      "Le cœur du TDI (états identitaires distincts qui prennent la conduite) n’est abordé qu’à l’épisode 2, dans une description très abstraite ; ce choix de prudence est défendable mais rend cet épisode difficile à comprendre."
+    ]
+  },
+  "episodes": [
+    {
+      "number": 1,
+      "file": "content/posts/comprendre-et-maitriser-ses-emotions/celeste-la-boite-aux-deux-profils.md",
+      "focus": "Lacune de mémoire sur une partie de journée de travail (un profil tracé sans souvenir)",
+      "structure": {
+        "scene": "ok",
+        "concept": "ok",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "ok",
+        "conclusion": "ok",
+        "proches": "ok"
+      },
+      "comprehension": 5,
+      "comprehension_note": "Le double trait reconnu, le souvenir du tissu secoué avant le déjeuner puis « le sac des courses à la maison » rendent la lacune précise et compréhensible ; la fiche datée est une décision concrète.",
+      "issues": [
+        {
+          "severity": "mineur",
+          "type": "comprehension",
+          "quote": "Jeanne attend deux broches pour un essai dans sa boutique le vendredi de la semaine suivante.",
+          "problem": "Jeanne n’est pas présentée et le lien entre sa boutique et « la vitrine des artisans » de la phrase suivante n’est pas clair.",
+          "fix": "« Jeanne, qui tient une boutique de créateurs dans le passage voisin, attend deux broches… »"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "file": "content/posts/comprendre-et-maitriser-ses-emotions/celeste-le-trait-au-milieu.md",
+      "focus": "Discontinuité du sentiment d’être soi alors que le souvenir de l’action reste",
+      "structure": {
+        "scene": "faible",
+        "concept": "ok",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "ok",
+        "conclusion": "ok",
+        "proches": "ok"
+      },
+      "comprehension": 3,
+      "comprehension_note": "La facette est la plus difficile du trouble et la scène la décrit de l’extérieur par des abstractions ; le lecteur sait qu’« un changement » a lieu sans percevoir ce qui change pour Céleste. L’ouverture sur les réglettes est elle-même embrouillée.",
+      "issues": [
+        {
+          "severity": "majeur",
+          "type": "comprehension",
+          "quote": "son rapport à cette amie, au dessin et à la personne qu’elle se sent être ne ressemble plus à celui de quelques minutes auparavant",
+          "problem": "Phrase entièrement abstraite qui remplace l’expérience ; le lecteur ne voit pas ce que vit Céleste au moment du choix.",
+          "fix": "Donner un indice vécu non spectaculaire : sa voix lui semble plus sèche, elle tutoie Anouk comme une inconnue, la ligne droite lui paraît soudain « évidente » sans qu’elle sache d’où vient cette certitude."
+        },
+        {
+          "severity": "mineur",
+          "type": "comprehension",
+          "quote": "Elle lui en a donné deux et en a gardé une pour les modèles.",
+          "problem": "Pronoms ambigus : on ne sait pas qui a donné les réglettes à qui.",
+          "fix": "« Elle en a offert deux à son père et gardé une pour les modèles. »"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "file": "content/posts/comprendre-et-maitriser-ses-emotions/celeste-la-reglette-a-plat.md",
+      "focus": "Intrusion dissociative (pensée et inquiétude imposées) sans changement de la conduite de l’action",
+      "structure": {
+        "scene": "ok",
+        "concept": "ok",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "ok",
+        "conclusion": "ok",
+        "proches": "ok"
+      },
+      "comprehension": 4,
+      "comprehension_note": "La phrase « Il faut tout remettre dans la boîte » et le geste de poser la réglette à plat rendent l’intrusion compréhensible ; la demande « Redis-moi la question sur le bord » est une bonne résolution.",
+      "issues": [
+        {
+          "severity": "mineur",
+          "type": "clinique",
+          "quote": "Dans ce dernier, un état prédomine dans la vie quotidienne et les autres interviennent surtout par des intrusions",
+          "problem": "Le développement sur le TDI partiel, dense, éloigne de la scène sans servir Céleste dont le diagnostic est déjà le TDI.",
+          "fix": "Réduire à une phrase la mention du TDI partiel ou la déplacer en fin de section."
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "file": "content/posts/comprendre-et-maitriser-ses-emotions/celeste-la-vitre-du-passage.md",
+      "focus": "Perception d’une voix de source incertaine et diagnostic différentiel",
+      "structure": {
+        "scene": "ok",
+        "concept": "ok",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "ok",
+        "conclusion": "ok",
+        "proches": "ok"
+      },
+      "comprehension": 4,
+      "comprehension_note": "Le prénom entendu dans le passage et la mesure perdue sont clairs ; la sortie vers la table du collectif est une décision lisible. Rachid arrive sans présentation.",
+      "issues": [
+        {
+          "severity": "mineur",
+          "type": "comprehension",
+          "quote": "Le vendredi, Rachid a la clé de la vitrine.",
+          "problem": "Rachid n’est pas présenté ; le lecteur ignore s’il est membre du collectif.",
+          "fix": "« Le vendredi, Rachid, qui gère les remises du collectif, a la clé de la vitrine. »"
+        },
+        {
+          "severity": "mineur",
+          "type": "continuite",
+          "quote": "La vitrine se trouve dans le passage, à deux portes du collectif, et Jeanne y laisse pour l’instant des bijoux en papier.",
+          "problem": "Statut de la vitrine ambigu (collectif ? boutique de Jeanne ?), source de confusion jusqu’à l’épisode 12.",
+          "fix": "Préciser une fois : « la vitrine de la boutique de Jeanne, dont le collectif a un double des clés »."
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "file": "content/posts/comprendre-et-maitriser-ses-emotions/celeste-le-tissu-sous-la-main.md",
+      "focus": "Dépersonnalisation et déréalisation pendant un geste familier",
+      "structure": {
+        "scene": "ok",
+        "concept": "ok",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "ok",
+        "conclusion": "ok",
+        "proches": "ok"
+      },
+      "comprehension": 4,
+      "comprehension_note": "L’image du poignet « derrière une vitre » et les marques sur le pouce rendent le détachement concret ; confier le fermoir à Anouk est une adaptation claire.",
+      "issues": []
+    },
+    {
+      "number": 6,
+      "file": "content/posts/comprendre-et-maitriser-ses-emotions/celeste-deux-vendredis-sur-la-fiche.md",
+      "focus": "Engagement pris pendant une lacune et ses effets sur un partenaire",
+      "structure": {
+        "scene": "ok",
+        "concept": "ok",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "ok",
+        "conclusion": "ok",
+        "proches": "ok"
+      },
+      "comprehension": 4,
+      "comprehension_note": "Le courriel retrouvé, l’heure d’envoi située entre deux souvenirs et le tiroir des fermoirs donnent une scène précise ; l’appel à Jeanne résout clairement le malentendu.",
+      "issues": []
+    },
+    {
+      "number": 7,
+      "file": "content/posts/comprendre-et-maitriser-ses-emotions/celeste-une-ligne-pour-le-collectif.md",
+      "focus": "Effort invisible de vérification pour maintenir le travail et choix de ce qu’on révèle",
+      "structure": {
+        "scene": "ok",
+        "concept": "ok",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "ok",
+        "conclusion": "ok",
+        "proches": "ok"
+      },
+      "comprehension": 4,
+      "comprehension_note": "Le tour de vérification qui ne laisse qu’un coin du support tracé est parlant. La demande d’aide est d’abord adressée à Anouk puis faite à Rachid, et la conclusion se trompe de rendez-vous.",
+      "issues": [
+        {
+          "severity": "mineur",
+          "type": "continuite",
+          "quote": "Céleste lui demande de rester une minute après la réunion. Elle voudrait que quelqu’un d’autre tienne à jour les remises dans le registre.",
+          "problem": "Céleste demande à Anouk de rester, mais c’est Rachid qui reçoit la demande ensuite ; le rôle d’Anouk devient flou.",
+          "fix": "Faire demander à Rachid de rester, ou montrer qu’Anouk l’accompagne pour la demande."
+        },
+        {
+          "severity": "mineur",
+          "type": "continuite",
+          "quote": "Elle a maintenant une place pour le dessin et un rendez-vous à honorer avec Anouk.",
+          "problem": "Le rendez-vous pris est avec le médecin, pas avec Anouk.",
+          "fix": "« …et un rendez-vous chez son médecin le lendemain. »"
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "file": "content/posts/comprendre-et-maitriser-ses-emotions/celeste-le-papier-du-medecin.md",
+      "focus": "Oublis inhabituels à faire évaluer malgré un diagnostic connu",
+      "structure": {
+        "scene": "ok",
+        "concept": "ok",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "ok",
+        "conclusion": "ok",
+        "proches": "ok"
+      },
+      "comprehension": 4,
+      "comprehension_note": "Trois exemples datés (sœur, pharmacienne, portail) et le prospectus montrent bien en quoi ces oublis diffèrent des lacunes habituelles ; le relais médical et le signe d’urgence sont bien situés.",
+      "issues": [
+        {
+          "severity": "mineur",
+          "type": "continuite",
+          "quote": "Anouk porte les deux broches chez Jeanne. Céleste ira regarder leur emplacement.",
+          "problem": "Le rendez-vous est jeudi et l’essai est fixé vendredi à dix heures ; le présent laisse croire que les broches partent le jour même.",
+          "fix": "« Demain, Anouk portera les deux broches chez Jeanne. »"
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "file": "content/posts/comprendre-et-maitriser-ses-emotions/celeste-deux-broches-a-lessai.md",
+      "focus": "Fragment d’image impossible à situer et refus de combler les blancs",
+      "structure": {
+        "scene": "ok",
+        "concept": "ok",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "ok",
+        "conclusion": "ok",
+        "proches": "ok"
+      },
+      "comprehension": 4,
+      "comprehension_note": "Le mot « retenu » sur lequel Céleste s’arrête est une excellente prise sur l’incertitude ; l’essai des deux positions donne une décision claire. Répétition gênante d’« Anouk ».",
+      "issues": [
+        {
+          "severity": "mineur",
+          "type": "comprehension",
+          "quote": "Anouk défait le pli du papier autour de la deuxième broche. Anouk tourne la broche la plus large vers le ruban",
+          "problem": "Répétition du sujet qui alourdit le moment clé.",
+          "fix": "« Anouk défait le pli du papier et tourne la broche la plus large vers le ruban. »"
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "file": "content/posts/comprendre-et-maitriser-ses-emotions/celeste-le-carton-a-six-places.md",
+      "focus": "Évolution fluctuante : retour du détachement après des jours plus faciles",
+      "structure": {
+        "scene": "ok",
+        "concept": "ok",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "faible",
+        "conclusion": "ok",
+        "proches": "ok"
+      },
+      "comprehension": 3,
+      "comprehension_note": "L’accalmie (fentes, carton fini) et le retour de la main lointaine sont clairs, mais l’objet central du geste (la bande du titre) change de place dans le même épisode, et le paragraphe de séance mélange les temps.",
+      "issues": [
+        {
+          "severity": "majeur",
+          "type": "continuite",
+          "quote": "Elle emporte le nom de la série sur la petite bande de papier, qu’elle a glissée dans son agenda.",
+          "problem": "Contradiction interne : elle a d’abord déposé la bande à côté du carton, puis l’emporte dans son agenda, puis « La bande du titre reste à côté du support » ; à l’épisode 12 c’est Jeanne qui la pose.",
+          "fix": "Supprimer l’emport dans l’agenda : « Elle laisse la bande à côté du carton et note le nom de la série dans son agenda. »"
+        },
+        {
+          "severity": "mineur",
+          "type": "comprehension",
+          "quote": "Chez sa thérapeute, elle a brièvement parlé du moment où elle a entendu son prénom près de la vitrine. Le petit papier est toujours dans son agenda.",
+          "problem": "Plus-que-parfait et présent mélangés : on ne sait pas si l’évocation de la voix a lieu dans cette séance ou une précédente.",
+          "fix": "« Au début de la séance, elle parle brièvement de la voix entendue près de la vitrine, notée sur le petit papier de son agenda. »"
+        }
+      ]
+    },
+    {
+      "number": 11,
+      "file": "content/posts/comprendre-et-maitriser-ses-emotions/celeste-deux-tasses-hors-de-latelier.md",
+      "focus": "Retentissement relationnel d’une lacune sur une conversation entre amies",
+      "structure": {
+        "scene": "ok",
+        "concept": "ok",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "ok",
+        "conclusion": "ok",
+        "proches": "ok"
+      },
+      "comprehension": 5,
+      "comprehension_note": "Le « Derrière quel coussin ? », la tasse qu’Anouk tourne par l’anse et la déception dite puis entendue font une scène juste, compréhensible seule, qui montre les deux côtés de la lacune.",
+      "issues": []
+    },
+    {
+      "number": 12,
+      "file": "content/posts/comprendre-et-maitriser-ses-emotions/celeste-les-six-reflets-du-passage.md",
+      "focus": "Retentissement inégal selon les tâches d’un même métier",
+      "structure": {
+        "scene": "ok",
+        "concept": "ok",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "ok",
+        "conclusion": "ok",
+        "proches": "ok"
+      },
+      "comprehension": 4,
+      "comprehension_note": "L’ouverture avec les six pièces et la cliente qui interroge sur le bleu est claire ; la perte de fil après la question de retrait illustre bien le contraste entre dessin et suivi des demandes. La résolution reprend celle de l’épisode 7.",
+      "issues": [
+        {
+          "severity": "mineur",
+          "type": "repetition",
+          "quote": "Elle propose qu’à la prochaine série elle dessine les profils et mène les essais, tandis que les confirmations passent par le registre. Rachid peut assurer cette partie pour le prochain projet.",
+          "problem": "Décision quasi identique à celle de l’épisode 7 (Rachid tient le registre des remises) ; le finale apporte peu de nouveau.",
+          "fix": "Faire porter la décision finale sur ce que Céleste garde et revendique (présenter la série aux clientes, annoter elle-même la fiche de chaque prototype) plutôt que de reconduire le registre."
+        }
+      ]
+    }
+  ],
+  "missing_or_extra": "Parcours complet de douze épisodes ; aucun ajout ni retrait.",
+  "verdict": "corrections_mineures"
+}

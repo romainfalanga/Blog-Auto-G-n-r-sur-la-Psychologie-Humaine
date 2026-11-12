@@ -1,0 +1,178 @@
+{
+  "character_id": "thomas",
+  "type": "origine",
+  "auditor": "audit_o8",
+  "audited_on": "2026-11-12",
+  "persona": {
+    "age_metier_proches": "Né en 1992 (34 ans), professeur d'histoire-géographie dans un lycée lyonnais (secondes, une élève de première, Julie), en projet de reconversion dans l'édition. En couple avec Émilie, avec un projet d'enfant. Deuxième d'une fratrie de quatre. Proches et collègues nommés : Valérie (collègue qui mène les réunions), Loïc (ami d'enfance), Antoine (jamais présenté).",
+    "arc_summary": "Thomas part d'un réflexe de « sauveur » avec Émilie (ép. 1) et d'une difficulté à contredire au lycée (ép. 2, 8), puis traverse un déménagement, l'ennui, l'accablement (ép. 6, 9) et une première démarche vers l'édition (ép. 12). Les épisodes les plus réussis le montrent en train de poser une limite datée et concrète : l'heure pour les livres de Loïc, le délai écrit sur la feuille de Julie, le déjeuner du lendemain avec Émilie, la consigne reprise avant de juger la classe.",
+    "arc_issues": [
+      "Antoine apparaît cinq fois (ép. 2, 3, 6, 9, 12 : message, « héritage familial », aide au déménagement, demande d'aide) sans jamais être présenté. À l'ép. 6, il prend la place de Loïc comme destinataire du « message ambigu » de l'ép. 5.",
+      "Le déménagement de Thomas et Émilie (ép. 6) n'est annoncé dans aucun épisode antérieur. L'ép. 7 parle d'un « récent déménagement à Lyon », alors que le couple vit déjà à Lyon (fiche) et que Thomas y enseigne depuis l'ép. 2.",
+      "Le projet de reconversion dans l'édition, central dans la fiche, n'apparaît qu'à l'ép. 9 ; les épisodes 1 à 8 n'en disent rien.",
+      "Le rôle de Valérie (collègue, coordinatrice, référente des évaluations ?) n'est jamais précisé. Les épisodes 2, 8 et 11 rejouent la même scène : réunion menée par Valérie, Thomas hésite puis propose un essai.",
+      "Plusieurs épisodes réécrivent l'ép. 7 (« il a évité de sanctionner Julie », « n'ose pas sanctionner une élève comme Julie ») ou l'ép. 1 (dispute « au sujet de la parentalité » le 15 mars, course matinale et Antoine) à l'encontre de ce qui a été montré.",
+      "Le dernier épisode ne résout pas l'enjeu de la série : la candidature au « poste d'éditeur » glissée dans sa poche n'a pas de suite, et le projet d'enfant, très présent aux ép. 3, 4 et 6, n'est plus évoqué."
+    ]
+  },
+  "episodes": [
+    {
+      "number": 1,
+      "file": "content/posts/sortir-de-ses-schemas-repetitifs/jeux-psychologiques-karpman-couple.md",
+      "focus": "position de « sauveur » (triangle de Karpman) : proposer des solutions au lieu d'écouter",
+      "structure": {"scene": "ok", "concept": "ok", "manifestations": "ok", "techniques": "ok", "retour": "faible", "conclusion": "ok", "proches": "ok"},
+      "comprehension": 3,
+      "comprehension_note": "La scène du café et des trois propositions (congé, chef, paperasse) est claire. On ne sait pas pour autant ce qui est arrivé à Émilie, et le retour introduit un « mot-rituel » et une conversation sur la parentalité qui n'ont pas été montrés.",
+      "issues": [
+        {"severity": "majeur", "type": "comprehension", "quote": "La première fois qu'Émilie utilise le mot-rituel qu'ils ont choisi", "problem": "Aucun mot-rituel n'a été convenu dans la scène ni dans les techniques, et « Leur conversation sur la parentalité » surgit sans contexte.", "fix": "Remplacer par la question de la technique 2 (« Tu veux raconter ou chercher une solution ensemble ? ») posée le lendemain, et supprimer la mention de la parentalité ou l'annoncer dans la scène."},
+        {"severity": "majeur", "type": "continuite", "quote": "Il n'est plus seulement celui qui veut tout régler ou qui croit lire dans les pensées d'Émilie.", "problem": "Le premier épisode prétend que Thomas a déjà travaillé la lecture de pensée (ép. 3) et ses « réflexes de soumission » (ép. 2) « depuis ses réflexions du début du mois ».", "fix": "Supprimer ce paragraphe et finir sur la question restée ouverte : ce qu'Émilie voulait dire après la tasse."},
+        {"severity": "mineur", "type": "comprehension", "quote": "Émilie raconte sa journée d'une voix marquée par la fatigue et l'inquiétude.", "problem": "Le contenu de la journée (problème avec son chef ?) et le métier d'Émilie ne sont pas donnés ; l'enjeu de l'écoute reste vague.", "fix": "Ajouter une phrase : « Son chef de service lui a retiré un dossier devant toute l'équipe »."}
+      ]
+    },
+    {
+      "number": 2,
+      "file": "content/posts/reprendre-le-controle-de-ses-pensees/biais-conformite-travail.md",
+      "focus": "conformité : donner son accord à un protocole par crainte de la tension",
+      "structure": {"scene": "ok", "concept": "ok", "manifestations": "ok", "techniques": "ok", "retour": "ok", "conclusion": "ok", "proches": "ok"},
+      "comprehension": 3,
+      "comprehension_note": "La feuille du protocole, le « D'accord, on fera comme ça » et la feuille levée en fin de réunion forment un arc clair. Le statut de Valérie n'est pas dit, et un Antoine inconnu apparaît dans le retour.",
+      "issues": [
+        {"severity": "majeur", "type": "comprehension", "quote": "Thomas froisse un peu la feuille du nouveau protocole que Valérie étale sur la table", "problem": "Valérie est nommée sans fonction : le lecteur ne sait pas si elle est une collègue, une coordinatrice ou une représentante de la direction, alors que tout l'enjeu de la conformité en dépend.", "fix": "« que Valérie, coordinatrice de l'équipe d'histoire-géographie, étale sur la table »."},
+        {"severity": "mineur", "type": "comprehension", "quote": "Après la réunion, dans le couloir, Antoine lui envoie un message pour demander des nouvelles.", "problem": "Antoine n'est pas présenté (ami ? frère ?). Il revient dans quatre épisodes sans plus de précision.", "fix": "« Antoine, son frère aîné, lui envoie… », ou supprimer la phrase."},
+        {"severity": "mineur", "type": "comprehension", "quote": "sa résistance n'est plus un rejet, mais une recherche d'efficacité pour leurs élèves et pour eux-mêmes", "problem": "« leurs élèves » laisse croire qu'Émilie est aussi enseignante.", "fix": "« pour ses élèves et pour lui-même »."}
+      ]
+    },
+    {
+      "number": 3,
+      "file": "content/posts/reprendre-le-controle-de-ses-pensees/lecture-pensee-en-couple.md",
+      "focus": "lecture de pensée : prendre le silence et la fatigue d'Émilie pour un reproche sur le projet d'enfant",
+      "structure": {"scene": "ok", "concept": "ok", "manifestations": "faible", "techniques": "ok", "retour": "faible", "conclusion": "ok", "proches": "ok"},
+      "comprehension": 3,
+      "comprehension_note": "Le « je suis fatiguée » et la question finale « maintenant ou plus tard ? » illustrent très bien la distorsion. Le retour se perd ensuite dans des rappels inventés et une discussion avec Antoine sur un héritage qu'aucun contexte n'explique.",
+      "issues": [
+        {"severity": "majeur", "type": "comprehension", "quote": "Il pratique l'exercice de détachement des pensées le lendemain lors d'une discussion avec Antoine au sujet d'un vieil héritage familial.", "problem": "Antoine et cet héritage arrivent sans aucune présentation. Le lecteur ne sait ni qui il est ni de quoi il s'agit.", "fix": "Supprimer ce paragraphe, ou présenter Antoine et l'héritage en une phrase."},
+        {"severity": "mineur", "type": "continuite", "quote": "Il se rappelle des mots de Valérie en salle des professeurs, quand elle a noté qu'il gagnait souvent l'adhésion en cédant mais perdait sa tranquillité intérieure.", "problem": "L'ép. 2 ne contient pas cette remarque de Valérie, et la « vérification factuelle qu'il a pratiquée après la réunion du 18 mars » n'y figure pas non plus.", "fix": "Supprimer ces deux rappels."},
+        {"severity": "mineur", "type": "trame", "quote": "Par exemple, l'un des partenaires rentre tard du travail et ne répond pas immédiatement au message. L'autre imagine une infidélité ou de la colère", "problem": "La manifestation 1 ne donne qu'un exemple générique sans lien avec la scène, et sans les deux exemples concrets.", "fix": "Prendre deux exemples du dîner : le regard vers la fenêtre, la fourchette posée."}
+      ]
+    },
+    {
+      "number": 4,
+      "file": "content/posts/comprendre-et-maitriser-ses-emotions/culpabilite-face-a-l-argent-et-finances.md",
+      "focus": "culpabilité face à une petite dépense (le café préféré d'Émilie)",
+      "structure": {"scene": "ok", "concept": "ok", "manifestations": "ok", "techniques": "ok", "retour": "faible", "conclusion": "ok", "proches": "ok"},
+      "comprehension": 3,
+      "comprehension_note": "L'hésitation entre deux paquets de café est concrète et la tasse tendue à Émilie fait une belle fin de scène. La suite du retour contient une phrase cassée et deux paragraphes de conclusions abstraites.",
+      "issues": [
+        {"severity": "majeur", "type": "comprehension", "quote": "Il admet qu'il a peur de manquer, non pas par manque de moyens, mais et ne sait pas encore quelle part tient à sa situation actuelle et quelle part à ses souvenirs.", "problem": "La phrase est grammaticalement cassée (« mais et ») au moment clé où Thomas parle enfin à Émilie.", "fix": "« Il admet qu'il a peur de manquer, sans savoir quelle part tient à leur budget actuel et quelle part à ses souvenirs. »"},
+        {"severity": "mineur", "type": "continuite", "quote": "Ils ne sont plus dans le triangle de sauveur et de victime", "problem": "L'ép. 1 refuse explicitement d'assigner à Émilie le rôle de « victime » ; cette phrase le fait.", "fix": "« Thomas ne cherche plus à régler la question à sa place »."},
+        {"severity": "mineur", "type": "comprehension", "quote": "Il a compris que l'argent n'est pas qu'un outil de survie ou une source de jugement, mais aussi un moyen d'expression de ses valeurs.", "problem": "Le dernier paragraphe du retour énumère des leçons générales au lieu d'une action, et contredit la prudence de la conclusion.", "fix": "Le remplacer par la décision concrète : regarder le budget avec Émilie dimanche."},
+        {"severity": "mineur", "type": "comprehension", "quote": "Il finit par placer les deux paquets dans son chariot", "problem": "Le paragraphe précédent dit « le panier lourd au bout du bras ».", "fix": "« dans son panier »."}
+      ]
+    },
+    {
+      "number": 5,
+      "file": "content/posts/sortir-de-ses-schemas-repetitifs/abnegation-et-sacrifice-de-soi-en-amitie.md",
+      "focus": "sacrifice de soi en amitié : le déménagement de Loïc contre la sortie promise à Émilie",
+      "structure": {"scene": "ok", "concept": "ok", "manifestations": "ok", "techniques": "ok", "retour": "ok", "conclusion": "ok", "proches": "ok"},
+      "comprehension": 4,
+      "comprehension_note": "Loïc, l'exposition du samedi et le message vocal de quatre minutes posent un conflit d'engagements très lisible. La fin (« une heure pour les livres », message effacé dans le bus) est concrète et nuancée.",
+      "issues": [
+        {"severity": "mineur", "type": "comprehension", "quote": "lors de leur discussion sur le triangle de Karpman le mois dernier", "problem": "Les personnages ne discutent pas du « triangle de Karpman » : c'est le titre de l'épisode.", "fix": "« lors de leur discussion dans la cuisine, le mois dernier »."},
+        {"severity": "mineur", "type": "trame", "quote": "Il s'ancre dans le moment présent en se concentrant sur son environnement immédiat.", "problem": "Le premier paragraphe du retour (Valérie) est abstrait et retarde la décision sur Loïc.", "fix": "Raccourcir à la question « jusqu'à quand as-tu besoin d'une réponse ? » posée à Valérie."}
+      ]
+    },
+    {
+      "number": 6,
+      "file": "content/posts/comprendre-et-maitriser-ses-emotions/ennui-lors-un-demenagement-signes-anxiete.md",
+      "focus": "ennui et lassitude au milieu d'un déménagement",
+      "structure": {"scene": "ok", "concept": "ok", "manifestations": "ok", "techniques": "ok", "retour": "faible", "conclusion": "ok", "proches": "ok"},
+      "comprehension": 2,
+      "comprehension_note": "Le carton « livres » qui contient aussi le câble et les albums est une bonne image d'ennui et d'indécision. Mais le lecteur ignore que Thomas déménageait : l'épisode précédent parlait du déménagement de Loïc. Les noms Antoine et Loïc sont ensuite confondus.",
+      "issues": [
+        {"severity": "bloquant", "type": "continuite", "quote": "il repense avec une pointe de regret au message ambigu qu'il avait envoyé à Antoine quelques jours plus tôt : une fois de plus, il avait sacrifié son propre repos pour ne pas dire non", "problem": "À l'ép. 5, le message ambigu est envoyé à Loïc et Thomas finit par limiter son aide à une heure. Ici, le destinataire change et le dénouement est inversé.", "fix": "« au premier message flou qu'il avait envoyé à Loïc avant de lui proposer une seule heure »."},
+        {"severity": "majeur", "type": "continuite", "quote": "Le premier carton que Thomas ouvre à Lyon porte la mention « livres »", "problem": "Aucun épisode n'annonce que Thomas et Émilie déménagent. Juste après l'ép. 5 (déménagement de Loïc), le lecteur ne sait pas à qui est cet appartement.", "fix": "Ouvrir sur : « Une semaine après avoir aidé Loïc, c'est au tour de Thomas et d'Émilie d'emménager dans un trois-pièces de la Croix-Rousse. » Ajouter une mention du futur déménagement à l'ép. 4 ou 5."},
+        {"severity": "mineur", "type": "comprehension", "quote": "il choisit de ne plus subir son vide intérieur. Il reprend son rouleau d'adhésif, non pas par obligation, mais avec la conscience tranquille de celui qui habite enfin son propre présent.", "problem": "La fin du retour est abstraite, alors que la scène reposait sur des objets précis (albums, câble).", "fix": "Finir sur l'emplacement choisi pour les albums et ce qui reste à décider l'après-midi."}
+      ]
+    },
+    {
+      "number": 7,
+      "file": "content/posts/sortir-de-ses-schemas-repetitifs/punition-ecole-etudes-schema-repetitif.md",
+      "focus": "punition scolaire : distinguer l'évaluation d'un devoir non rendu d'une sanction",
+      "structure": {"scene": "ok", "concept": "ok", "manifestations": "ok", "techniques": "ok", "retour": "faible", "conclusion": "ok", "proches": "ok"},
+      "comprehension": 4,
+      "comprehension_note": "Julie, le projet sur la Révolution française et l'heure écrite sur la feuille donnent une décision claire et exacte au regard du règlement. Les deux derniers paragraphes du retour reprennent un ton de développement personnel qui contredit les techniques.",
+      "issues": [
+        {"severity": "majeur", "type": "continuite", "quote": "lors de son récent déménagement à Lyon avec Émilie", "problem": "Thomas vit et enseigne déjà à Lyon (fiche, ép. 2). « Déménagement à Lyon » suggère une arrivée dans la ville et rend son poste au lycée incohérent.", "fix": "« lors de leur récent déménagement dans un nouvel appartement lyonnais »."},
+        {"severity": "mineur", "type": "trame", "quote": "Il réalise que son métier d'enseignant est le terrain idéal pour guérir ses propres blessures liées à la scolarité.", "problem": "La technique 2 demande justement de ne pas utiliser Julie « comme moyen de réparer sa propre scolarité ».", "fix": "Supprimer la phrase ou la remplacer par : « Il remarque que son souvenir est revenu sans décider à sa place »."},
+        {"severity": "mineur", "type": "continuite", "quote": "Elle lui avait reproché de ne pas savoir dire non.", "problem": "Cette discussion avec Émilie dans le nouvel appartement n'est pas montrée à l'ép. 6.", "fix": "Supprimer la référence ou la situer : « le soir de l'emménagement »."}
+      ]
+    },
+    {
+      "number": 8,
+      "file": "content/posts/reprendre-le-controle-de-ses-pensees/pensee-de-groupe-en-tant-que-manager-solutions.md",
+      "focus": "pensée de groupe : un projet de suppression du voyage des secondes semble faire l'unanimité",
+      "structure": {"scene": "ok", "concept": "ok", "manifestations": "ok", "techniques": "ok", "retour": "faible", "conclusion": "faible", "proches": "ok"},
+      "comprehension": 3,
+      "comprehension_note": "Le voyage en Provence et la collègue qui entoure une date sans parler sont bien choisis pour le concept. Mais la scène reproduit la structure de l'ép. 2, et le retour s'ouvre sur un récapitulatif de tous les épisodes précédents.",
+      "issues": [
+        {"severity": "majeur", "type": "repetition", "quote": "Lors de la discussion sur le protocole, il avait attendu la fin pour demander un essai.", "problem": "Même dispositif qu'à l'ép. 2 : réunion menée par Valérie, Thomas tenté d'acquiescer, puis proposition de délai et collègue qui l'appuie. L'aspect propre à la pensée de groupe (dynamique collective, rôle de coordinateur) est peu exploité.", "fix": "Faire mener la discussion par Thomas en tant que coordinateur de niveau, qui doit lui-même solliciter les objections. C'est ce qu'annonce le slug « en tant que manager »."},
+        {"severity": "mineur", "type": "comprehension", "quote": "Il se souvient de son passage dans le triangle de Karpman avec Émilie, où il avait compris que vouloir sauver tout le monde finissait par l'étouffer.", "problem": "Le premier paragraphe du retour récapitule les ép. 1, 4 et 5 au lieu de rester dans la réunion.", "fix": "Le réduire à une phrase et passer directement à l'intervention."},
+        {"severity": "mineur", "type": "trame", "quote": "Vous n'avez pas à être le sauveur du groupe, mais vous avez le devoir d'être le garant de votre propre vérité.", "problem": "La conclusion devient emphatique et injonctive, en rupture avec la prudence du reste de l'épisode.", "fix": "Supprimer ce paragraphe et résumer ce que la proposition de 48 heures a ouvert."}
+      ]
+    },
+    {
+      "number": 9,
+      "file": "content/posts/comprendre-et-maitriser-ses-emotions/accablement-en-periode-de-reconversion-professionnelle.md",
+      "focus": "accablement : ne plus pouvoir faire face aux copies et au portfolio de reconversion",
+      "structure": {"scene": "ok", "concept": "ok", "manifestations": "ok", "techniques": "ok", "retour": "faible", "conclusion": "ok", "proches": "ok"},
+      "comprehension": 3,
+      "comprehension_note": "La cuisine, la pile de copies et le portfolio rendent l'épuisement tangible. Le recours au médecin est bien situé. Mais Émilie est partie travailler dans l'ouverture, et le retour la fait pourtant répondre le matin même. La technique appliquée est aussi détournée.",
+      "issues": [
+        {"severity": "majeur", "type": "comprehension", "quote": "puis demande à Émilie si elle peut l’accompagner dans une démarche de santé s’il n’arrive pas à prendre rendez-vous seul", "problem": "Émilie vient de partir travailler (« prête à partir travailler ») ; le retour la fait ensuite « rentrer en fin d'après-midi ». On ne sait pas comment ni quand cette demande est faite.", "fix": "« il écrit à Émilie pour lui demander si elle pourrait l'accompagner… »."},
+        {"severity": "mineur", "type": "trame", "quote": "Il utilise la technique du découpage atomique. Son seul objectif pour la prochaine heure ? Se préparer une infusion, rien d'autre.", "problem": "La technique 1 propose de choisir un seul objet (le message sur le portfolio). L'infusion relève plutôt de la technique 2, et Thomas a déjà répondu au message.", "fix": "« Il s'arrête là pour le portfolio et se prépare une infusion »."},
+        {"severity": "mineur", "type": "continuite", "quote": "lors de ce déménagement avec Antoine, où il s'était senti spectateur de sa propre vie", "problem": "Antoine n'est toujours pas présenté. Le projet de reconversion, présenté ici comme ancien, n'apparaissait dans aucun épisode antérieur.", "fix": "Présenter Antoine ou écrire « lors de leur déménagement » ; mentionner le projet d'édition dans un épisode antérieur."}
+      ]
+    },
+    {
+      "number": 10,
+      "file": "content/posts/comprendre-et-maitriser-ses-emotions/declencheurs-emotionnels-situation-conflit.md",
+      "focus": "déclencheurs émotionnels : un couvercle qui claque et une question sur le portfolio",
+      "structure": {"scene": "ok", "concept": "ok", "manifestations": "ok", "techniques": "ok", "retour": "ok", "conclusion": "ok", "proches": "ok"},
+      "comprehension": 4,
+      "comprehension_note": "Épisode clair : le bruit, les mains moites, la promesse qu'il retient, puis la vraie question d'Émilie (le déjeuner du lendemain). La phrase « Le couvercle a fait plus de bruit que la question » referme bien la scène.",
+      "issues": [
+        {"severity": "mineur", "type": "continuite", "quote": "cet enseignant qui n'ose pas sanctionner une élève comme Julie par peur de représenter lui-même une autorité punitive", "problem": "À l'ép. 7, Thomas applique la règle d'évaluation et fixe un délai ; il ne renonce à rien par peur.", "fix": "« cet enseignant qui avait dû se retenir de transformer la note de Julie en punition »."},
+        {"severity": "mineur", "type": "comprehension", "quote": "Quand Émilie lui répond, il ne sait pas tout de suite quoi faire de sa propre irritation.", "problem": "La réponse d'Émilie n'est pas rapportée ; le lecteur ne sait pas à quoi réagit Thomas.", "fix": "Donner sa réplique (« Je ne te demandais pas de te justifier. »)."}
+      ]
+    },
+    {
+      "number": 11,
+      "file": "content/posts/reprendre-le-controle-de-ses-pensees/surgeneralisation-ecole-lycee.md",
+      "focus": "surgénéralisation : d'une copie ratée à « ma classe est un désastre »",
+      "structure": {"scene": "ok", "concept": "ok", "manifestations": "faible", "techniques": "ok", "retour": "faible", "conclusion": "ok", "proches": "ok"},
+      "comprehension": 3,
+      "comprehension_note": "La copie où l'élève a recopié un exemple et la consigne qui ne précisait pas la trace attendue sont un excellent dénouement. L'ouverture et le deuxième paragraphe du retour accumulent toutefois des rappels faux et des procédures.",
+      "issues": [
+        {"severity": "majeur", "type": "continuite", "quote": "un acquis des exercices de repérage des déclencheurs qu'il a pratiqués après la dispute avec Émilie au sujet de la parentalité en mars", "problem": "Le repérage des déclencheurs date de l'ép. 10 (8 mai) et la dispute du 15 mars ne portait pas sur la parentalité. Plus loin, « il a évité de sanctionner Julie » contredit aussi l'ép. 7.", "fix": "« un acquis du 8 mai, quand il avait noté ce que le couvercle et la question d'Émilie lui faisaient », et supprimer la phrase sur Julie."},
+        {"severity": "majeur", "type": "comprehension", "quote": "Thomas suit l'expérimentation comportementale graduée : il propose d'assister à la première réunion en observateur, puis de soumettre une proposition alternative basée sur une petite expérience en classe.", "problem": "Paragraphe procédural, qui applique à une réunion une technique décrite pour la consigne de la copie. C'est une troisième scène de réunion avec Valérie (après les ép. 2 et 8).", "fix": "Supprimer ce paragraphe ou le remplacer par la séance suivante, où Thomas montre les deux réponses anonymes."},
+        {"severity": "mineur", "type": "trame", "quote": "Par exemple, un étudiant qui obtient une mauvaise note à un partiel peut penser qu'il est nul dans cette matière", "problem": "Les manifestations 1 et 2 utilisent des exemples génériques (étudiant, partiel, exposé), sans les deux exemples tirés de la scène.", "fix": "Prendre les exemples dans le couloir : la copie, la réunion proposée par Valérie, le portfolio."}
+      ]
+    },
+    {
+      "number": 12,
+      "file": "content/posts/sortir-de-ses-schemas-repetitifs/sublimation-reconversion-professionnelle.md",
+      "focus": "goût pour la relecture et besoin de limiter son don de temps, présenté sous l'étiquette « sublimation » (que l'article lui-même réfute comme inobservable)",
+      "structure": {"scene": "ok", "concept": "faible", "manifestations": "faible", "techniques": "ok", "retour": "faible", "conclusion": "faible", "proches": "ok"},
+      "comprehension": 2,
+      "comprehension_note": "La librairie, la page annotée et la proposition de venir une fois pour voir forment une bonne scène finale. Mais le paragraphe suivant fait monter à Thomas un atelier payant dont la première session a déjà lieu, et il s'appuie sur un souvenir du 15 mars qui n'existe pas. Le dénouement de la série devient incompréhensible.",
+      "issues": [
+        {"severity": "bloquant", "type": "comprehension", "quote": "Il choisit la technique de redirection créative : monter un atelier payant et limité à six participants sur l'art de la relecture pour auteurs débutants", "problem": "Le paragraphe précédent et la rubrique proches disent que Thomas viendra une fois écouter l'atelier de la libraire. La technique 2 précise que « Participer ne signifie pas organiser aussitôt ». Ici, il organise son propre atelier et « La première session est un petit succès ». Le lecteur ne sait plus ce que Thomas a décidé.", "fix": "Supprimer les deux paragraphes sur l'atelier payant et finir sur la date donnée par la libraire, la page qu'il garde pour la séance et le dossier de candidature encore dans sa poche."},
+        {"severity": "majeur", "type": "continuite", "quote": "quand elle lui a demandé d'annuler sa course matinale pour aller aider Antoine. Le souvenir de cette discussion qui a mal tourné le 15 mars", "problem": "La discussion du 15 mars (ép. 1) portait sur la journée d'Émilie et les conseils de Thomas, sans course ni Antoine.", "fix": "« il a déjà proposé une seule heure à Loïc pour ses livres »."},
+        {"severity": "majeur", "type": "trame", "quote": "Le projet créatif donne à Thomas une façon d’essayer le travail éditorial.", "problem": "Dernier épisode : la conclusion ne dit pas où en est la reconversion. La candidature « pour un poste d'éditeur » de l'ouverture reste sans suite et le projet d'enfant n'est pas mentionné.", "fix": "Ajouter deux phrases : ce que Thomas décide pour sa candidature (l'envoyer après la séance d'atelier, ou demander un retour) et ce qu'il garde de ces mois avec Émilie."},
+        {"severity": "mineur", "type": "comprehension", "quote": "Dans un autre exemple illustratif, Philippe, ancien infirmier en reconversion vers la communication", "problem": "Les manifestations introduisent deux personnes fictives (Philippe, Clara) étrangères au récit, ce qui brouille la lecture.", "fix": "Remplacer par des exemples tirés de la librairie et du dossier de candidature."}
+      ]
+    }
+  ],
+  "missing_or_extra": "Douze épisodes présents. Les ép. 2, 8 et 11 se recouvrent fortement (réunion avec Valérie, puis essai proposé) : il est conseillé de déplacer la scène de l'ép. 11 vers la classe et de faire mener la réunion de l'ép. 8 par Thomas. Il manque des raccords narratifs, sans épisode à ajouter : annoncer le déménagement avant l'ép. 6, introduire le projet d'édition avant l'ép. 9, présenter Antoine, et refermer la candidature à l'ép. 12.",
+  "verdict": "corrections_majeures"
+}

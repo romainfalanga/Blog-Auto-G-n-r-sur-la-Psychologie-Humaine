@@ -1,0 +1,153 @@
+{
+  "character_id": "remi",
+  "type": "origine",
+  "auditor": "audit_o7",
+  "audited_on": "2026-11-12",
+  "persona": {
+    "age_metier_proches": "32 ans (né en 1994, âge cité à l’épisode 1), agent logistique sur un quai, en colocation avec Julie. Au travail : Claire, responsable de quai ; Nicolas, collègue de relève (ép. 11) ; une collègue du service retours ; des collègues non nommés.",
+    "arc_summary": "Rémi part d’une difficulté concrète (perdre le fil après des interruptions) et construit pas à pas des appuis : trace de reprise (ép. 1), support de consigne unique (ép. 2), premier geste (ép. 3), découpage (ép. 4), choix du lieu (ép. 5), marges (ép. 6). La seconde moitié déplace la question vers l’organisation et l’émotion : priorités négociées avec Claire (ép. 7), procrastination (ép. 8), perfectionnisme (ép. 9), autocritique après une erreur (ép. 10), transmission à Nicolas (ép. 11) et habitudes à la maison (ép. 12). Les outils se répondent d’un épisode à l’autre de façon cohérente, au travail (le bilan des retours) comme à la maison (placard, dons, abonnement, factures).",
+    "arc_issues": [
+      "Le dernier épisode ne referme pas l’arc : l’essai « pendant une semaine » accordé par Claire (ép. 1), le point de suivi sur la charge (ép. 7, repris en une phrase à l’ép. 12), le choix de l’abonnement internet (ép. 5, 8, 9 : « Une question reste ouverte ») et les objets refusés par la ressourcerie (ép. 4 et 6) restent en suspens sans bilan.",
+      "Chaque retour à la scène se termine par une courte vignette avec Julie (facture, enveloppe, pince, chaise) écrite de façon elliptique ; plusieurs ne se comprennent qu’en ayant lu l’épisode précédent (ép. 1 : facture jamais présentée ; ép. 5 : « le papier des horaires » ; ép. 8 : question au fournisseur).",
+      "Usage récurrent du présent à la place du passé pour des faits antérieurs (« qu’elle change de place pendant le tri du placard », « comme il l’apprend avec son bilan », « qu’il anticipe dans la cour »), qui brouille la chronologie.",
+      "Plusieurs premières phrases insèrent le mot-clé de façon artificielle (« Pour démarrer une tâche, Rémi sait souvent quoi faire… », « Le perfectionnisme arrive chez Rémi au moment où… », « Estimer le temps lui semblait pourtant simple »)."
+    ]
+  },
+  "episodes": [
+    {
+      "number": 1,
+      "file": "content/posts/reprendre-le-controle-de-ses-pensees/remi-interruptions-retrouver-fil.md",
+      "focus": "Coût des changements de tâche : une suite d’interruptions fait perdre la ligne d’un bordereau.",
+      "structure": {"scene": "ok", "concept": "ok", "manifestations": "ok", "techniques": "ok", "retour": "ok", "conclusion": "ok", "proches": "ok"},
+      "comprehension": 4,
+      "comprehension_note": "Personnages présentés à leur entrée (Claire « la responsable de quai », Julie « sa colocataire »), incident clair (deux documents mélangés, conductrice à rappeler) et essai d’une semaine accepté. Seule la vignette finale du repas reste opaque.",
+      "issues": [
+        {"severity": "mineur", "type": "comprehension", "quote": "Le soir, Julie ouvre l’enveloppe de la facture au moment où Rémi sort les carottes.", "problem": "La facture commune n’a pas été présentée et le paragraphe n’a pas de lien explicite avec la reprise après interruption ; le lecteur ne sait pas ce qui se joue.", "fix": "Ajouter une demi-phrase reliant la facture au thème : « la facture d’électricité qu’ils se partagent, qu’il avait promis de vérifier avant d’être interrompu par un appel »."}
+      ]
+    },
+    {
+      "number": 2,
+      "file": "content/posts/reprendre-le-controle-de-ses-pensees/remi-memoire-consignes-visibles.md",
+      "focus": "Charge de la mémoire de travail pendant une consigne orale longue et changeante.",
+      "structure": {"scene": "ok", "concept": "ok", "manifestations": "ok", "techniques": "ok", "retour": "ok", "conclusion": "ok", "proches": "ok"},
+      "comprehension": 4,
+      "comprehension_note": "La consigne en cinq gestes énumérée pendant le passage d’un engin rend l’oubli de la pièce jointe très concret, et la fiche validée avec la collègue des retours donne une issue claire.",
+      "issues": [
+        {"severity": "mineur", "type": "comprehension", "quote": "À la maison, il utilise un principe comparable pour la facture commune évoquée avec Julie.", "problem": "Renvoi à un élément de l’épisode 1 resté lui-même vague ; un lecteur arrivant ici ne sait pas de quelle facture il s’agit.", "fix": "« … pour la facture d’électricité qu’ils partagent avec Julie »."},
+        {"severity": "mineur", "type": "repetition", "quote": "Pendant qu'il reçoit une explication, Rémi surveille aussi son visage et ses réponses.", "problem": "La surveillance de soi pendant une consigne de Claire est le mécanisme central de l’épisode 10 ; la sous-partie anticipe et affaiblit cet épisode.", "fix": "Réduire cette sous-partie à la contradiction entre les deux versions de la procédure, ou la centrer sur la crainte de ralentir Claire sans décrire la surveillance du visage."}
+      ]
+    },
+    {
+      "number": 3,
+      "file": "content/posts/reprendre-le-controle-de-ses-pensees/remi-demarrer-tache.md",
+      "focus": "Difficulté à démarrer une tâche floue (synthèse des retours) et distinction avec un obstacle réel (accès aux données).",
+      "structure": {"scene": "ok", "concept": "ok", "manifestations": "ok", "techniques": "ok", "retour": "ok", "conclusion": "ok", "proches": "ok"},
+      "comprehension": 4,
+      "comprehension_note": "Les gestes de préparation (chaise, heure, bons rangés), le refuge des bacs et la liste d’intitulés montrée à Claire forment une progression lisible et bien liée au concept.",
+      "issues": [
+        {"severity": "mineur", "type": "comprehension", "quote": "Pour démarrer une tâche, Rémi sait souvent quoi faire quand un colis se présente devant lui.", "problem": "Mot-clé inséré au début d’une phrase qui devient bancale.", "fix": "« Quand un colis se présente devant lui, Rémi sait quoi faire. »"}
+      ]
+    },
+    {
+      "number": 4,
+      "file": "content/posts/reprendre-le-controle-de-ses-pensees/remi-decouper-garder-but.md",
+      "focus": "Découper une tâche en gardant le but d’usage (rendre le placard utilisable), avec dépendances et décisions partagées.",
+      "structure": {"scene": "ok", "concept": "ok", "manifestations": "ok", "techniques": "ok", "retour": "ok", "conclusion": "ok", "proches": "ok"},
+      "comprehension": 5,
+      "comprehension_note": "Le sac qui cède, le but « ranger l’aspirateur sans vider le placard » et la zone basse libérée donnent une scène et un dénouement immédiatement compréhensibles ; l’aspect est distinct du démarrage traité à l’épisode 3.",
+      "issues": [
+        {"severity": "mineur", "type": "continuite", "quote": "Il peut commencer par un geste très petit, comme il l'apprend avec son bilan au travail", "problem": "Présent employé pour un apprentissage antérieur, ce qui brouille la chronologie.", "fix": "« comme il l’a appris avec son bilan au travail »."}
+      ]
+    },
+    {
+      "number": 5,
+      "file": "content/posts/reprendre-le-controle-de-ses-pensees/remi-distractibilite-environnement.md",
+      "focus": "Distractibilité selon l’environnement : une lecture exigeante dans une laverie.",
+      "structure": {"scene": "ok", "concept": "ok", "manifestations": "ok", "techniques": "ok", "retour": "ok", "conclusion": "ok", "proches": "ok"},
+      "comprehension": 4,
+      "comprehension_note": "La laverie (bouton qui claque, voisin, contrôle du cycle) illustre bien l’interaction tâche-lieu ; la décision de reporter la comparaison à la table commune est claire. Le paragraphe final sur les dons est elliptique.",
+      "issues": [
+        {"severity": "mineur", "type": "comprehension", "quote": "Pour les dons, Julie pose près des sacs le papier des horaires qu’ils ont déjà vérifiés.", "problem": "Vignette sans lien explicite avec la distractibilité ; « les sacs » et « le papier des horaires » supposent la lecture de l’épisode 4.", "fix": "Supprimer la vignette ou préciser « les sacs de dons du placard, à déposer à la ressourcerie samedi »."}
+      ]
+    },
+    {
+      "number": 6,
+      "file": "content/posts/reprendre-le-controle-de-ses-pensees/remi-estimer-temps-marges.md",
+      "focus": "Erreur de planification : oublier transitions et attentes dans l’estimation d’un déplacement.",
+      "structure": {"scene": "ok", "concept": "ok", "manifestations": "ok", "techniques": "ok", "retour": "faible", "conclusion": "ok", "proches": "ok"},
+      "comprehension": 3,
+      "comprehension_note": "La file devant la ressourcerie et le report de la démarche personnelle sont clairs, mais le retour raconte deux fois le même épisode au travail, et la « démarche personnelle » qui justifie l’enjeu n’est jamais précisée.",
+      "issues": [
+        {"severity": "majeur", "type": "trame", "quote": "Au quai, Rémi compte le temps de collecte puis celui de la relecture. Il s’aperçoit qu’il a encore oublié l’attente d’une réponse du service des retours. Il prévient Claire dès qu’il s’en rend compte", "problem": "Ce paragraphe répète presque mot pour mot le précédent (« Lors du prochain bilan au travail, Rémi prévoit la collecte des données et un temps de relecture avec Claire. Il oublie encore le délai… Quand il le remarque, il le signale. ») ; le lecteur croit à deux événements successifs.", "fix": "Fusionner les deux paragraphes en un seul et garder le détail concret (le créneau laissé ouvert sur la note)."},
+        {"severity": "mineur", "type": "comprehension", "quote": "puis le retour avant une démarche personnelle", "problem": "La démarche qui crée la contrainte horaire n’est jamais nommée ; l’enjeu reste abstrait.", "fix": "Nommer la démarche (par ex. un rendez-vous à la banque à 17 h)."},
+        {"severity": "mineur", "type": "proches", "quote": "combien de temps ont pris le trajet à pied et l’attente", "problem": "La rubrique « Du côté des proches » parle d’un trajet à pied alors que la scène décrit l’attente du tramway.", "fix": "« le trajet en tramway et l’attente »."}
+      ]
+    },
+    {
+      "number": 7,
+      "file": "content/posts/comprendre-et-maitriser-ses-emotions/remi-charge-priorites.md",
+      "focus": "Charge réelle de travail : trois demandes « prioritaires » incompatibles et arbitrage demandé à l’encadrement.",
+      "structure": {"scene": "ok", "concept": "ok", "manifestations": "ok", "techniques": "ok", "retour": "ok", "conclusion": "ok", "proches": "ok"},
+      "comprehension": 5,
+      "comprehension_note": "Les trois aimants rouges, le collègue absent et la question « qu’est-ce qu’on décale ? » rendent l’enjeu et la décision immédiatement lisibles ; le retour montre une amélioration partielle sans faux succès.",
+      "issues": []
+    },
+    {
+      "number": 8,
+      "file": "content/posts/comprendre-et-maitriser-ses-emotions/remi-procrastination-emotion.md",
+      "focus": "Procrastination comme évitement de l’émotion liée à la tâche (crainte d’une réponse condescendante du fournisseur).",
+      "structure": {"scene": "ok", "concept": "ok", "manifestations": "ok", "techniques": "ok", "retour": "ok", "conclusion": "ok", "proches": "ok"},
+      "comprehension": 4,
+      "comprehension_note": "La distinction avec l’épisode 3 est nette (ici tout est prêt, seule l’émotion bloque) ; l’envoi après relecture par Julie est clair. La dernière phrase sur la question restée dans le téléphone est confuse.",
+      "issues": [
+        {"severity": "mineur", "type": "comprehension", "quote": "Dans sa poche, son téléphone garde une question sans réponse du fournisseur. Celle-là, il a décidé de l’envoyer dès qu’il la retrouvera au calme.", "problem": "On ne comprend pas s’il s’agit de la relance sur le point manquant ou d’une nouvelle question, ni pourquoi il faudrait l’« envoyer » alors qu’elle est « sans réponse ».", "fix": "« Dans son téléphone, la relance sur le point manquant attend. Il a décidé de l’envoyer ce soir, à la table commune. »"},
+        {"severity": "mineur", "type": "continuite", "quote": "Rémi ressent le même agacement qu'il anticipe dans la cour.", "problem": "Présent à la place du passé.", "fix": "« qu’il avait anticipé dans la cour »."}
+      ]
+    },
+    {
+      "number": 9,
+      "file": "content/posts/sortir-de-ses-schemas-repetitifs/remi-perfectionnisme-terminer.md",
+      "focus": "Perfectionnisme au moment de terminer : critère de fin qui recule et retouches sans information nouvelle.",
+      "structure": {"scene": "ok", "concept": "ok", "manifestations": "ok", "techniques": "ok", "retour": "ok", "conclusion": "ok", "proches": "ok"},
+      "comprehension": 5,
+      "comprehension_note": "La bordure qui change de couleur et la question de Claire (« quelle décision ce détail peut changer ») illustrent exactement le concept ; « La bordure reste grise » donne un dénouement net.",
+      "issues": []
+    },
+    {
+      "number": 10,
+      "file": "content/posts/comprendre-et-maitriser-ses-emotions/remi-erreur-parole-retrait.md",
+      "focus": "Autocritique globale après une erreur, attention centrée sur soi et retrait qui prolonge la honte.",
+      "structure": {"scene": "ok", "concept": "ok", "manifestations": "ok", "techniques": "ok", "retour": "ok", "conclusion": "ok", "proches": "ok"},
+      "comprehension": 4,
+      "comprehension_note": "L’erreur de classement, la phrase intérieure (« Tu demandes de meilleures conditions et tu te trompes encore ») et le banc près du vestiaire sont concrets ; la distinction entre repos choisi et retrait est bien montrée.",
+      "issues": [
+        {"severity": "mineur", "type": "repetition", "quote": "Rémi surveille sa voix, le rythme de ses réponses et la chaleur de son visage.", "problem": "Le même mécanisme est déjà décrit à l’épisode 2 (« Rémi surveille aussi son visage et ses réponses »).", "fix": "Alléger la sous-partie correspondante de l’épisode 2 (voir ce dernier) pour réserver ce mécanisme à l’épisode 10."}
+      ]
+    },
+    {
+      "number": 11,
+      "file": "content/posts/reprendre-le-controle-de-ses-pensees/remi-transmettre-rappel-utile.md",
+      "focus": "Mémoire prospective dans une transmission : connaître l’information mais ne pas y penser au moment du relais.",
+      "structure": {"scene": "ok", "concept": "ok", "manifestations": "ok", "techniques": "ok", "retour": "ok", "conclusion": "ok", "proches": "ok"},
+      "comprehension": 4,
+      "comprehension_note": "Nicolas est introduit par sa réplique et sa place dans le partage convenu avec Claire ; la distinction contenu/intention est bien rendue et le retour montre un oubli secondaire corrigé.",
+      "issues": [
+        {"severity": "mineur", "type": "comprehension", "quote": "Nicolas garde le dossier ouvert dans l'espace de relève.", "problem": "Nicolas apparaît pour la première fois du parcours sans indication de son poste (collègue de l’équipe suivante ?).", "fix": "« Nicolas, qui prend la relève de l’après-midi, garde le dossier ouvert… »."}
+      ]
+    },
+    {
+      "number": 12,
+      "file": "content/posts/sortir-de-ses-schemas-repetitifs/remi-habitudes-indices-contexte.md",
+      "focus": "Habitudes déclenchées par les indices du contexte (la boîte à clés déplacée) et choix d’un geste limité.",
+      "structure": {"scene": "ok", "concept": "ok", "manifestations": "ok", "techniques": "ok", "retour": "ok", "conclusion": "faible", "proches": "ok"},
+      "comprehension": 4,
+      "comprehension_note": "La boîte déplacée et le courrier posé sur le sac illustrent bien l’habitude liée au contexte ; le retour est clair. En revanche, comme dernier épisode, il ne dit presque rien de l’aboutissement du parcours.",
+      "issues": [
+        {"severity": "majeur", "type": "trame", "quote": "Au travail, Claire maintient leur point sur la charge du quai.", "problem": "Seule phrase de bilan du parcours dans le dernier épisode : l’essai de la trace de reprise, la discussion sur la charge, l’abonnement internet et les dons restent sans issue ; la conclusion ne parle que des habitudes.", "fix": "Ajouter au retour ou à la conclusion trois ou quatre phrases qui situent où en est Rémi : ce que la trace de reprise et la fiche ont changé au quai, la décision prise au dernier point avec Claire, le choix de l’abonnement fait avec Julie."},
+        {"severity": "mineur", "type": "continuite", "quote": "puis se rappelle qu'elle change de place pendant le tri du placard", "problem": "Présent pour un fait passé : on croit que le tri a lieu maintenant.", "fix": "« qu’elle a changé de place pendant le tri du placard »."}
+      ]
+    }
+  ],
+  "missing_or_extra": "Douze épisodes, tous distincts : interruptions, mémoire de travail, démarrage, découpage, environnement, estimation du temps, charge et priorités, procrastination émotionnelle, perfectionnisme, autocritique, mémoire prospective, habitudes. Aucun épisode à ajouter ni à retirer. Le chevauchement le plus net (surveillance de soi pendant une consigne, ép. 2 et 10) se règle par une coupe dans l’épisode 2. Il faut en revanche renforcer la fin de l’épisode 12 pour fermer les fils ouverts.",
+  "verdict": "corrections_mineures"
+}

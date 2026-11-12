@@ -1,0 +1,3622 @@
+{
+  "version": 1,
+  "generated_on": "2026-11-12",
+  "status": "analyse en lecture seule ; propositions non attribuées, aucun épisode rédigé",
+  "scope": "387 articles « psychologie » d’origine (front matter sans champ clinical_*) de 33 personnages, comparés aux 161 repères de data/psychology_catalog.json et à des référentiels externes. Les 1032 épisodes cliniques ont servi uniquement à écarter les concepts déjà traités directement.",
+  "method": {
+    "dedicated": "Le repère est le sujet principal de l’épisode : premier pattern_ids de data/article_keywords.json confirmé par le titre ou le sujet, ou, pour les articles sans pattern_ids, sujet du front matter qui nomme le concept. Un seul article de référence est donné par repère.",
+    "secondary_only": "Le repère figure seulement comme pattern_ids secondaire, comme appui d’un autre sujet ou dans une technique ; il reste une lacune de récit dédié.",
+    "missing_concepts": "Concepts des référentiels (APA National Standards 2022, listes classiques de biais, émotions de base et sociales, défenses de Vaillant/DMRS, 18 schémas de Young, styles d’attachement, psychologie sociale et motivation) absents comme sujet des 387 articles et des titres/sujets des 1032 épisodes cliniques (recherche plein texte dans content/posts). nearest_existing signale l’épisode voisin à ne pas répéter.",
+    "checked_complete": "Les 18 schémas de Young, les quatre styles d’attachement et la plupart des défenses de Vaillant (déni, refoulement, déplacement, formation réactionnelle, régression, sublimation, humour, isolation, intellectualisation, rationalisation, annulation, clivage, idéalisation-dévaluation, passage à l’acte, minimisation) ont déjà un épisode dédié.",
+    "names": "Prénoms des personnages et des proches vérifiés absents (mot entier) de content/, data/ (dont clinical_catalog.json), scripts/ et editorial/.",
+    "limits": "Attribution « dédié » fondée sur front matter, pattern_ids et titres, non sur une relecture intégrale des corps ; dix personnages d’origine n’ont encore que onze épisodes. Les propositions doivent passer par les cartes editorial/agents/characters.md, stories.md et review.md."
+  },
+  "summary": {
+    "psychology_articles": 387,
+    "psychology_characters": 33,
+    "catalog_patterns": 161,
+    "dedicated": 125,
+    "secondary_only": 36,
+    "missing_concepts": 125,
+    "missing_by_importance": {
+      "1": 48,
+      "2": 66,
+      "3": 11
+    },
+    "proposed_characters": 9,
+    "concepts_in_proposed_characters": 108,
+    "missing_without_character": [
+      "social_facilitation",
+      "deindividuation",
+      "outgroup_homogeneity",
+      "priming",
+      "change_blindness",
+      "time_perception",
+      "deja_vu",
+      "pygmalion_effect",
+      "door_in_face",
+      "minority_influence",
+      "actor_observer",
+      "neurotransmitter_myths",
+      "hypnosis",
+      "icf_capacity_performance",
+      "multiple_intelligences_myth",
+      "dark_triad",
+      "omnipotence_devaluation"
+    ],
+    "secondary_only_without_character": [
+      "body_stress",
+      "parent_expectations",
+      "family_roles",
+      "withdrawal",
+      "overwork",
+      "stress_resources",
+      "needs_expression",
+      "positive_connection",
+      "self_awareness",
+      "problem_solving",
+      "decision_overload",
+      "metacognitive_check",
+      "distress_tolerance",
+      "self_trust",
+      "balanced_self_evaluation",
+      "communication_clarification",
+      "power_imbalance",
+      "family_mediation",
+      "sibling_comparison",
+      "family_secrecy",
+      "consistency_in_relationships",
+      "separation_reunion",
+      "co_regulation",
+      "grounded_attention",
+      "enjoyable_activity",
+      "nature_contact",
+      "response_pause",
+      "responsibility_repair",
+      "attentional_capture",
+      "external_supports",
+      "anticipatory_arousal",
+      "observational_learning",
+      "affection_preferences",
+      "intimacy_communication",
+      "self_expression",
+      "self_focused_attention"
+    ]
+  },
+  "external_open_gaps_mapping": {
+    "apa_intelligence_measurement": {
+      "concepts": [
+        "iq_measurement",
+        "test_reliability_validity"
+      ],
+      "characters": [
+        "Ambroise"
+      ]
+    },
+    "apa_representative_sampling": {
+      "concepts": [
+        "small_samples",
+        "correlation_causation",
+        "replication_publication_bias"
+      ],
+      "characters": [
+        "Apolline"
+      ]
+    },
+    "apa_memory_leading_question": {
+      "concepts": [
+        "misinformation_effect",
+        "reconstructive_memory"
+      ],
+      "characters": [
+        "Romane"
+      ]
+    },
+    "rdoc_reward_prediction_error": {
+      "concepts": [
+        "reward_prediction_error"
+      ],
+      "characters": [
+        "Tristan"
+      ]
+    },
+    "icf_capacity_performance": {
+      "concepts": [
+        "icf_capacity_performance"
+      ],
+      "characters": []
+    }
+  },
+  "dedicated": {
+    "rumination": {
+      "label": "Pensées en boucle",
+      "article": "posts/reprendre-le-controle-de-ses-pensees/rumination-mentale-seul-face-a-soi-meme-adrien",
+      "title": "Rumination : quand les mêmes pensées reviennent",
+      "sujet": "rumination mentale",
+      "personnage": "Adrien",
+      "basis": "sujet du front matter"
+    },
+    "intellectualization": {
+      "label": "Intellectualisation",
+      "article": "posts/sortir-de-ses-schemas-repetitifs/intellectualisation-au-travail-hpi-solutions",
+      "title": "Intellectualisation au travail : comment sortir du mental ?",
+      "sujet": "intellectualisation",
+      "personnage": "Youssef",
+      "basis": "pattern_ids (premier repère)"
+    },
+    "uncertainty": {
+      "label": "Besoin de certitude",
+      "article": "posts/reprendre-le-controle-de-ses-pensees/baptiste-decider-incertitude",
+      "title": "Décider avec une part d’incertitude",
+      "sujet": "Décider avec une part d’incertitude",
+      "personnage": "Baptiste",
+      "basis": "pattern_ids (premier repère)"
+    },
+    "catastrophizing": {
+      "label": "Anticipation du pire",
+      "article": "posts/reprendre-le-controle-de-ses-pensees/catastrophisation-avec-enfants",
+      "title": "Catastrophisation : Camille distingue les faits des craintes",
+      "sujet": "catastrophisation (dramatisation)",
+      "personnage": "Camille",
+      "basis": "sujet du front matter"
+    },
+    "mind_reading": {
+      "label": "Interpréter le regard des autres",
+      "article": "posts/reprendre-le-controle-de-ses-pensees/lecture-de-pensee-en-amitie-psychologie",
+      "title": "Lecture de pensée en amitié : comment arrêter de deviner ?",
+      "sujet": "lecture de pensée",
+      "personnage": "Léa",
+      "basis": "pattern_ids (premier repère)"
+    },
+    "all_or_nothing": {
+      "label": "Pensée tout ou rien",
+      "article": "posts/reprendre-le-controle-de-ses-pensees/pensee-tout-ou-rien-conflit",
+      "title": "Pensée tout-ou-rien : remettre de la nuance dans un conflit",
+      "sujet": "pensée tout-ou-rien (pensée dichotomique)",
+      "personnage": "Léa",
+      "basis": "pattern_ids (premier repère)"
+    },
+    "confirmation": {
+      "label": "Attention aux indices qui confirment",
+      "article": "posts/reprendre-le-controle-de-ses-pensees/biais-confirmation-conflit",
+      "title": "Biais de confirmation en situation de conflit : comment il vous piège",
+      "sujet": "biais de confirmation",
+      "personnage": "Djamila",
+      "basis": "pattern_ids (premier repère)"
+    },
+    "reframing": {
+      "label": "Capacité à changer de perspective",
+      "article": "posts/reprendre-le-controle-de-ses-pensees/elise-changer-perspective",
+      "title": "Regarder autrement sans changer les faits",
+      "sujet": "Changer de perspective sans nier un fait",
+      "personnage": "Élise",
+      "basis": "pattern_ids (premier repère)"
+    },
+    "emotional_identification": {
+      "label": "Identifier ses émotions",
+      "article": "posts/comprendre-et-maitriser-ses-emotions/granularite-emotionnelle-en-couple-comprendre-ressentis",
+      "title": "Granularité émotionnelle : trouver des mots plus précis",
+      "sujet": "granularité émotionnelle",
+      "personnage": "Youssef",
+      "basis": "sujet du front matter"
+    },
+    "emotional_suppression": {
+      "label": "Retenir l’expression émotionnelle",
+      "article": "posts/sortir-de-ses-schemas-repetitifs/surcontrole-emotionnel-famille",
+      "title": "En famille, Patrick laisse voir ce qu’il ressent",
+      "sujet": "Retenue émotionnelle et suppression expressive",
+      "personnage": "Patrick",
+      "basis": "pattern_ids (premier repère)"
+    },
+    "emotional_overload": {
+      "label": "Se sentir débordé",
+      "article": "posts/comprendre-et-maitriser-ses-emotions/accablement-en-periode-de-reconversion-professionnelle",
+      "title": "Accablement et reconversion : Thomas demande du soutien",
+      "sujet": "accablement",
+      "personnage": "Thomas",
+      "basis": "sujet du front matter"
+    },
+    "anger_needs": {
+      "label": "Colère et besoins contrariés",
+      "article": "posts/comprendre-et-maitriser-ses-emotions/samira-colere-situation-injuste",
+      "title": "Garder sa colère face à une situation injuste",
+      "sujet": "Colère face à une situation injuste",
+      "personnage": "Samira",
+      "basis": "pattern_ids (premier repère)"
+    },
+    "guilt": {
+      "label": "Culpabilité",
+      "article": "posts/comprendre-et-maitriser-ses-emotions/culpabilite-avec-ses-enfants-comprendre-agir",
+      "title": "Culpabilité avec ses enfants : comprendre et agir | Karim",
+      "sujet": "culpabilité",
+      "personnage": "Karim",
+      "basis": "sujet du front matter"
+    },
+    "shame": {
+      "label": "Honte et exposition",
+      "article": "posts/comprendre-et-maitriser-ses-emotions/honte-en-colocation-causes-solutions",
+      "title": "Honte en colocation : comprendre et surmonter cette émotion",
+      "sujet": "honte",
+      "personnage": "Lucas",
+      "basis": "sujet du front matter"
+    },
+    "self_criticism": {
+      "label": "Autocritique",
+      "article": "posts/sortir-de-ses-schemas-repetitifs/exigences-elevees-critique-excessive-parents",
+      "title": "Exigences élevées et critique excessive avec ses parents",
+      "sujet": "exigences élevées/critique excessive",
+      "personnage": "Sophie",
+      "basis": "sujet du front matter"
+    },
+    "conditional_worth": {
+      "label": "Valeur liée à la réussite",
+      "article": "posts/comprendre-et-maitriser-ses-emotions/samira-budget-valeur-personnelle",
+      "title": "Parler d’un budget sans réduire sa valeur",
+      "sujet": "Parler d’un budget sans réduire sa valeur",
+      "personnage": "Samira",
+      "basis": "pattern_ids (premier repère)"
+    },
+    "impostor": {
+      "label": "Sentiment d’imposture",
+      "article": "posts/comprendre-et-maitriser-ses-emotions/sentiment-imposture-apres-un-succes",
+      "title": "Sentiment d’imposture : Camille reçoit les félicitations",
+      "sujet": "sentiment d'imposture",
+      "personnage": "Camille",
+      "basis": "pattern_ids (premier repère)"
+    },
+    "comparison": {
+      "label": "Comparaison sociale",
+      "article": "posts/reprendre-le-controle-de-ses-pensees/comparaison-injuste-competition",
+      "title": "Comparaison injuste en situation de compétition : s'en libérer",
+      "sujet": "comparaison injuste",
+      "personnage": "Stéphane",
+      "basis": "sujet du front matter"
+    },
+    "self_compassion": {
+      "label": "Bienveillance envers soi",
+      "article": "posts/comprendre-et-maitriser-ses-emotions/auto-compassion-kristin-neff-en-famille",
+      "title": "Pratiquer l'auto-compassion (Kristin Neff) en famille",
+      "sujet": "auto-compassion (Kristin Neff)",
+      "personnage": "Camille",
+      "basis": "sujet du front matter"
+    },
+    "identity_transition": {
+      "label": "Identité en évolution",
+      "article": "posts/reprendre-le-controle-de-ses-pensees/salome-continuite-soi-changements",
+      "title": "Continuité de soi : Salomé change sans tout effacer",
+      "sujet": "Continuité de soi au fil des changements",
+      "personnage": "Salomé",
+      "basis": "pattern_ids (premier repère)"
+    },
+    "overresponsibility": {
+      "label": "Rôle de sauveur",
+      "article": "posts/sortir-de-ses-schemas-repetitifs/aline-sauveur-aider-sans-effacer",
+      "title": "« Syndrome du sauveur » : une expression courante",
+      "sujet": "L’expression « syndrome du sauveur » et l’aide sans s’effacer",
+      "personnage": "Aline",
+      "basis": "pattern_ids (premier repère)"
+    },
+    "boundaries": {
+      "label": "Exprimer ses limites",
+      "article": "posts/sortir-de-ses-schemas-repetitifs/aline-limite-affection-couple",
+      "title": "Poser une limite sans retirer son affection : Aline",
+      "sujet": "Poser une limite sans retirer son affection",
+      "personnage": "Aline",
+      "basis": "pattern_ids (premier repère)"
+    },
+    "reassurance": {
+      "label": "Recherche de validation",
+      "article": "posts/sortir-de-ses-schemas-repetitifs/recherche-approbation-reconnaissance-amitie-enfance",
+      "title": "Quand le besoin d’approbation prend trop de place en amitié",
+      "sujet": "recherche d'approbation/reconnaissance",
+      "personnage": "Lucas",
+      "basis": "pattern_ids (premier repère)"
+    },
+    "conflict": {
+      "label": "Rapport au désaccord",
+      "article": "posts/sortir-de-ses-schemas-repetitifs/aline-desaccord-lien-famille",
+      "title": "Désaccord en famille : Aline garde sa place et le lien",
+      "sujet": "Garder un désaccord sans rompre le lien",
+      "personnage": "Aline",
+      "basis": "pattern_ids (premier repère)"
+    },
+    "reciprocity": {
+      "label": "Réciprocité",
+      "article": "posts/sortir-de-ses-schemas-repetitifs/aline-reciprocite-relations",
+      "title": "Réciprocité : Aline cherche une place dans ses relations",
+      "sujet": "Réciprocité dans les relations",
+      "personnage": "Aline",
+      "basis": "pattern_ids (premier repère)"
+    },
+    "trust": {
+      "label": "Confiance et prudence",
+      "article": "posts/sortir-de-ses-schemas-repetitifs/ines-confiance-espace-retrouvailles",
+      "title": "Confiance et espace : Inès prépare les retrouvailles",
+      "sujet": "Confiance et espace personnel",
+      "personnage": "Inès",
+      "basis": "pattern_ids (premier repère)"
+    },
+    "parentification": {
+      "label": "Responsabilités précoces",
+      "article": "posts/sortir-de-ses-schemas-repetitifs/parentification-avec-ses-parents-causes-solutions",
+      "title": "La parentification avec ses parents : comprendre ce poids invisible",
+      "sujet": "la parentification",
+      "personnage": "Isabelle",
+      "basis": "pattern_ids (premier repère)"
+    },
+    "family_loyalty": {
+      "label": "Loyauté et autonomie",
+      "article": "posts/sortir-de-ses-schemas-repetitifs/loyautes-invisibles-boszormenyi-nagy-fetes-famille",
+      "title": "Comprendre les loyautés invisibles en période de fêtes",
+      "sujet": "loyautés invisibles (Boszormenyi-Nagy et Spark)",
+      "personnage": "Monique",
+      "basis": "sujet du front matter"
+    },
+    "emotional_learning": {
+      "label": "Apprentissages émotionnels familiaux",
+      "article": "posts/sortir-de-ses-schemas-repetitifs/transmissions-transgenerationnelles-avec-ses-parents-guide",
+      "title": "Habitudes familiales : Fabien interroge les silences transmis",
+      "sujet": "apprentissages et habitudes relationnelles en famille",
+      "personnage": "Fabien",
+      "basis": "sujet du front matter"
+    },
+    "family_boundaries": {
+      "label": "Frontières dans la famille",
+      "article": "posts/sortir-de-ses-schemas-repetitifs/malik-attentes-familiales",
+      "title": "Négocier des attentes familiales différentes",
+      "sujet": "Négocier des attentes familiales différentes",
+      "personnage": "Malik",
+      "basis": "pattern_ids (premier repère)"
+    },
+    "abandonment_fear": {
+      "label": "Peur de perdre le lien",
+      "article": "posts/sortir-de-ses-schemas-repetitifs/abandon-instabilite-face-solitude",
+      "title": "Abandon et instabilité face à la solitude : comprendre et agir",
+      "sujet": "abandon et instabilité",
+      "personnage": "Adrien",
+      "basis": "pattern_ids (premier repère)"
+    },
+    "closeness_distance": {
+      "label": "Proximité et distance",
+      "article": "posts/sortir-de-ses-schemas-repetitifs/malik-lien-distance",
+      "title": "Entretenir le lien à distance sans surveillance",
+      "sujet": "Entretenir un lien à distance",
+      "personnage": "Malik",
+      "basis": "pattern_ids (premier repère)"
+    },
+    "relational_security": {
+      "label": "Sécurité relationnelle",
+      "article": "posts/comprendre-et-maitriser-ses-emotions/ines-securite-affective-demande-claire",
+      "title": "Sécurité affective : Inès ose une demande précise",
+      "sujet": "Sécurité affective et demande claire",
+      "personnage": "Inès",
+      "basis": "pattern_ids (premier repère)"
+    },
+    "perfectionism": {
+      "label": "Perfectionnisme coûteux",
+      "article": "posts/sortir-de-ses-schemas-repetitifs/remi-perfectionnisme-terminer",
+      "title": "Perfectionnisme : Rémi apprend à terminer son travail",
+      "sujet": "perfectionnisme au moment de terminer",
+      "personnage": "Rémi",
+      "basis": "pattern_ids (premier repère)"
+    },
+    "avoidance": {
+      "label": "Évitement et report",
+      "article": "posts/comprendre-et-maitriser-ses-emotions/remi-procrastination-emotion",
+      "title": "Procrastination : Rémi écoute l'émotion de la tâche",
+      "sujet": "procrastination et émotion de la tâche",
+      "personnage": "Rémi",
+      "basis": "pattern_ids (premier repère)"
+    },
+    "overcontrol": {
+      "label": "Besoin de contrôle",
+      "article": "posts/reprendre-le-controle-de-ses-pensees/baptiste-controle-influence-limites",
+      "title": "Distinguer le contrôle et l’influence",
+      "sujet": "Distinguer contrôle et influence",
+      "personnage": "Baptiste",
+      "basis": "pattern_ids (premier repère)"
+    },
+    "impulsive_reaction": {
+      "label": "Réagir dans l’urgence",
+      "article": "posts/sortir-de-ses-schemas-repetitifs/controle-de-soi-insuffisant-travail",
+      "title": "Contrôle de soi insuffisant au travail : pourquoi ça arrive",
+      "sujet": "contrôle de soi insuffisant",
+      "personnage": "Karim",
+      "basis": "pattern_ids (premier repère)"
+    },
+    "grief_change": {
+      "label": "Perte et changement",
+      "article": "posts/comprendre-et-maitriser-ses-emotions/odile-deuil-retour-quotidien",
+      "title": "Le deuil et les retours au quotidien",
+      "sujet": "Oscillation du deuil et retour au quotidien",
+      "personnage": "Odile",
+      "basis": "pattern_ids (premier repère)"
+    },
+    "social_belonging": {
+      "label": "Appartenance et place",
+      "article": "posts/sortir-de-ses-schemas-repetitifs/malik-appartenances-place",
+      "title": "Trouver sa place dans plusieurs appartenances",
+      "sujet": "Appartenances multiples et sentiment de place",
+      "personnage": "Malik",
+      "basis": "pattern_ids (premier repère)"
+    },
+    "autonomy": {
+      "label": "Autonomie",
+      "article": "posts/sortir-de-ses-schemas-repetitifs/eloi-autonomie-cadre-soutien",
+      "title": "Autonomie : Éloi cherche un cadre qui soutient ses choix",
+      "sujet": "autonomie et cadre qui soutient",
+      "personnage": "Éloi",
+      "basis": "pattern_ids (premier repère)"
+    },
+    "values_alignment": {
+      "label": "Valeurs et cohérence",
+      "article": "posts/reprendre-le-controle-de-ses-pensees/baptiste-valeurs-arbitrages-quotidien",
+      "title": "Les valeurs dans les arbitrages du quotidien",
+      "sujet": "Valeurs personnelles et arbitrages du quotidien",
+      "personnage": "Baptiste",
+      "basis": "pattern_ids (premier repère)"
+    },
+    "support_seeking": {
+      "label": "Demander du soutien",
+      "article": "posts/sortir-de-ses-schemas-repetitifs/eloi-demander-aide-debutant",
+      "title": "Demander de l'aide : Éloi précise ce qui lui manque",
+      "sujet": "demander de l’aide comme débutant",
+      "personnage": "Éloi",
+      "basis": "pattern_ids (premier repère)"
+    },
+    "emotional_flexibility": {
+      "label": "Souplesse émotionnelle",
+      "article": "posts/comprendre-et-maitriser-ses-emotions/elise-accepter-agir",
+      "title": "Reconnaître la limite et choisir son geste",
+      "sujet": "Acceptation et action possible",
+      "personnage": "Élise",
+      "basis": "pattern_ids (premier repère)"
+    },
+    "resilience": {
+      "label": "Appuis dans les épreuves",
+      "article": "posts/comprendre-et-maitriser-ses-emotions/resilience-emotionnelle-lors-un-deuil-comprendre",
+      "title": "Après la mort de Marcel, Patrick partage un souvenir",
+      "sujet": "résilience émotionnelle",
+      "personnage": "Patrick",
+      "basis": "sujet du front matter"
+    },
+    "personalization": {
+      "label": "Tout ramener à sa responsabilité",
+      "article": "posts/reprendre-le-controle-de-ses-pensees/personnalisation-reseaux-sociaux",
+      "title": "Personnalisation sur les réseaux sociaux : quand on prend un silence pour soi",
+      "sujet": "personnalisation",
+      "personnage": "Hugo",
+      "basis": "pattern_ids (premier repère)"
+    },
+    "negative_filter": {
+      "label": "Retenir surtout le négatif",
+      "article": "posts/reprendre-le-controle-de-ses-pensees/filtre-mental-abstraction-selective-conflit-camille",
+      "title": "Le filtre mental en situation de conflit : voir au-delà",
+      "sujet": "filtre mental (abstraction sélective)",
+      "personnage": "Camille",
+      "basis": "pattern_ids (premier repère)"
+    },
+    "overgeneralization": {
+      "label": "Étendre une expérience à toutes les situations",
+      "article": "posts/reprendre-le-controle-de-ses-pensees/surgeneralisation-ecole-lycee",
+      "title": "Surgénéralisation à l'école : comprendre et agir au lycée",
+      "sujet": "surgénéralisation",
+      "personnage": "Thomas",
+      "basis": "sujet du front matter"
+    },
+    "emotional_reasoning": {
+      "label": "Prendre un ressenti pour une preuve",
+      "article": "posts/reprendre-le-controle-de-ses-pensees/raisonnement-emotionnel-en-couple",
+      "title": "Raisonnement émotionnel en couple : quand une crainte devient une certitude",
+      "sujet": "raisonnement émotionnel",
+      "personnage": "Hugo",
+      "basis": "pattern_ids (premier repère)"
+    },
+    "rigid_rules": {
+      "label": "Règles intérieures rigides",
+      "article": "posts/reprendre-le-controle-de-ses-pensees/gerer-obligations-rigides-je-dois-il-faut-conflit",
+      "title": "Gérer les \"je dois et il faut\" (obligations rigides) en conflit",
+      "sujet": "les \"je dois/il faut\" (obligations rigides)",
+      "personnage": "Fabien",
+      "basis": "sujet du front matter"
+    },
+    "decision_tradeoffs": {
+      "label": "Arbitrer entre plusieurs priorités",
+      "article": "posts/reprendre-le-controle-de-ses-pensees/baptiste-cout-opportunite-choix",
+      "title": "Le coût des possibilités auxquelles on renonce",
+      "sujet": "Coût d’opportunité et choix renoncés",
+      "personnage": "Baptiste",
+      "basis": "pattern_ids (premier repère)"
+    },
+    "sunk_cost": {
+      "label": "Rester pour ce qui a déjà coûté",
+      "article": "posts/reprendre-le-controle-de-ses-pensees/biais-cout-irrecoverable-rupture",
+      "title": "Biais du coût irrécupérable après une rupture amoureuse : comment s'en libérer",
+      "sujet": "biais du coût irrécupérable",
+      "personnage": "Fabien",
+      "basis": "sujet du front matter"
+    },
+    "emotional_ambivalence": {
+      "label": "Ressentir plusieurs émotions à la fois",
+      "article": "posts/comprendre-et-maitriser-ses-emotions/ambivalence-emotionnelle-reconversion-professionnelle-burn-out",
+      "title": "Ambivalence émotionnelle et reconversion professionnelle",
+      "sujet": "ambivalence émotionnelle",
+      "personnage": "Youssef",
+      "basis": "sujet du front matter"
+    },
+    "joy_permission": {
+      "label": "S’autoriser la joie",
+      "article": "posts/comprendre-et-maitriser-ses-emotions/odile-joie-chagrin-meme-jour",
+      "title": "De la joie et du chagrin dans la même journée",
+      "sujet": "Joie et chagrin dans une même journée",
+      "personnage": "Odile",
+      "basis": "pattern_ids (premier repère)"
+    },
+    "disappointment": {
+      "label": "Accueillir une déception",
+      "article": "posts/comprendre-et-maitriser-ses-emotions/deception-en-amitie-comprendre-attentes-relations",
+      "title": "Déception en amitié : ce qu’on attend et ce qu’on sait",
+      "sujet": "déception",
+      "personnage": "Léa",
+      "basis": "sujet du front matter"
+    },
+    "authenticity": {
+      "label": "Accorder son expression à ce que l’on vit",
+      "article": "posts/sortir-de-ses-schemas-repetitifs/faux-self-winnicott-parents",
+      "title": "Comprendre le faux self (Winnicott) avec ses parents",
+      "sujet": "le faux self (Winnicott)",
+      "personnage": "Mei",
+      "basis": "sujet du front matter"
+    },
+    "active_listening": {
+      "label": "Écouter sans résoudre tout de suite",
+      "article": "posts/reprendre-le-controle-de-ses-pensees/aline-aide-resout-pas-tout",
+      "title": "Quand l’aide ne résout pas tout : Aline reste présente",
+      "sujet": "Quand l’aide ne résout pas tout",
+      "personnage": "Aline",
+      "basis": "pattern_ids (premier repère)"
+    },
+    "assertive_request": {
+      "label": "Faire une demande explicite",
+      "article": "posts/sortir-de-ses-schemas-repetitifs/anais-demande-aide-concrete",
+      "title": "Demander de l'aide : Anaïs précise le geste dont elle a besoin",
+      "sujet": "Communiquer un besoin d’aide concret",
+      "personnage": "Anaïs",
+      "basis": "pattern_ids (premier repère)"
+    },
+    "repair_after_conflict": {
+      "label": "Réparer après un désaccord",
+      "article": "posts/sortir-de-ses-schemas-repetitifs/ines-reparer-conversation-blessante",
+      "title": "Réparer une conversation : Inès revient sur ses mots",
+      "sujet": "Réparer une conversation blessante",
+      "personnage": "Inès",
+      "basis": "pattern_ids (premier repère)"
+    },
+    "receiving_help": {
+      "label": "Recevoir sans devoir rembourser immédiatement",
+      "article": "posts/sortir-de-ses-schemas-repetitifs/aline-recevoir-aide-justifier",
+      "title": "Recevoir de l’aide sans se justifier : l’essai d’Aline",
+      "sujet": "Recevoir de l’aide sans se justifier",
+      "personnage": "Aline",
+      "basis": "pattern_ids (premier repère)"
+    },
+    "inherited_rules": {
+      "label": "Messages familiaux devenus des règles",
+      "article": "posts/sortir-de-ses-schemas-repetitifs/drivers-contraignants-reconversion-professionnelle",
+      "title": "Drivers contraignants : quand l’exigence freine Margot",
+      "sujet": "les drivers/messages contraignants (sois parfait, fais plaisir, sois fort, dépêche-toi, fais des efforts)",
+      "personnage": "Margot",
+      "basis": "sujet du front matter"
+    },
+    "safe_disclosure": {
+      "label": "Partager une vulnérabilité à son rythme",
+      "article": "posts/reprendre-le-controle-de-ses-pensees/ines-crainte-jugement-intimite",
+      "title": "Crainte du jugement intime : Inès dit ce qu’elle aime",
+      "sujet": "Crainte du jugement dans l’intimité",
+      "personnage": "Inès",
+      "basis": "pattern_ids (premier repère)"
+    },
+    "task_initiation": {
+      "label": "Passer du projet au premier geste",
+      "article": "posts/reprendre-le-controle-de-ses-pensees/remi-demarrer-tache",
+      "title": "Démarrer une tâche : Rémi cherche le premier geste",
+      "sujet": "difficulté à démarrer une tâche",
+      "personnage": "Rémi",
+      "basis": "pattern_ids (premier repère)"
+    },
+    "habit_cues": {
+      "label": "Repérer les déclencheurs d’une habitude",
+      "article": "posts/sortir-de-ses-schemas-repetitifs/remi-habitudes-indices-contexte",
+      "title": "Habitudes : Rémi choisit des indices qui l'aident",
+      "sujet": "habitudes et indices du contexte",
+      "personnage": "Rémi",
+      "basis": "pattern_ids (premier repère)"
+    },
+    "reward_delay": {
+      "label": "Composer avec une récompense lointaine",
+      "article": "posts/reprendre-le-controle-de-ses-pensees/baptiste-soi-demain-present",
+      "title": "Penser à demain sans s’oublier aujourd’hui",
+      "sujet": "Penser au soi de demain sans s’oublier",
+      "personnage": "Baptiste",
+      "basis": "pattern_ids (premier repère)"
+    },
+    "motivation_ambivalence": {
+      "label": "Vouloir changer et vouloir conserver",
+      "article": "posts/sortir-de-ses-schemas-repetitifs/elise-explorer-petite-possibilite",
+      "title": "Essayer quelque chose sans refaire sa vie",
+      "sujet": "Explorer une possibilité sans tout bouleverser",
+      "personnage": "Élise",
+      "basis": "pattern_ids (premier repère)"
+    },
+    "flexible_standards": {
+      "label": "Adapter ses exigences à la situation",
+      "article": "posts/reprendre-le-controle-de-ses-pensees/anais-capacites-fluctuantes-projets",
+      "title": "Capacités fluctuantes : Anaïs garde un projet à sa mesure",
+      "sujet": "Capacités fluctuantes et projets",
+      "personnage": "Anaïs",
+      "basis": "pattern_ids (premier repère)"
+    },
+    "financial_strain": {
+      "label": "Pression financière",
+      "article": "posts/reprendre-le-controle-de-ses-pensees/samira-precarite-place-soucis",
+      "title": "Quand la précarité occupe les pensées",
+      "sujet": "Précarité et place prise par les soucis",
+      "personnage": "Samira",
+      "basis": "pattern_ids (premier repère)"
+    },
+    "housing_instability": {
+      "label": "Instabilité du lieu de vie",
+      "article": "posts/comprendre-et-maitriser-ses-emotions/samira-logement-securite-incertaine",
+      "title": "Le logement incertain et le besoin de sécurité",
+      "sujet": "Incertitude du logement et sentiment de sécurité",
+      "personnage": "Samira",
+      "basis": "pattern_ids (premier repère)"
+    },
+    "workload_context": {
+      "label": "Charge et organisation du travail",
+      "article": "posts/sortir-de-ses-schemas-repetitifs/maelle-stress-conditions-travail",
+      "title": "Stress au travail : Maëlle replace les contraintes en vue",
+      "sujet": "Stress lié aux conditions de travail",
+      "personnage": "Maëlle",
+      "basis": "pattern_ids (premier repère)"
+    },
+    "discrimination_context": {
+      "label": "Expérience déclarée de discrimination",
+      "article": "posts/comprendre-et-maitriser-ses-emotions/malik-discrimination-rester-soi",
+      "title": "Nommer une discrimination sans s’y réduire",
+      "sujet": "Reconnaître une discrimination sans se réduire à elle",
+      "personnage": "Malik",
+      "basis": "pattern_ids (premier repère)"
+    },
+    "caregiver_load": {
+      "label": "Charge d’aidance",
+      "article": "posts/comprendre-et-maitriser-ses-emotions/vincent-charge-aidance-taches-invisibles",
+      "title": "Charge d’aidance : Vincent nomme les tâches invisibles",
+      "sujet": "Charge d’aidance et tâches invisibles",
+      "personnage": "Vincent",
+      "basis": "pattern_ids (premier repère)"
+    },
+    "illness_adjustment": {
+      "label": "S’adapter à un changement de santé déclaré",
+      "article": "posts/sortir-de-ses-schemas-repetitifs/anais-energie-rythme-maladie",
+      "title": "Énergie et maladie : Anaïs adapte son rythme quotidien",
+      "sujet": "Énergie et adaptation du rythme avec une maladie",
+      "personnage": "Anaïs",
+      "basis": "pattern_ids"
+    },
+    "access_barriers": {
+      "label": "Obstacles pour accéder à une aide",
+      "article": "posts/sortir-de-ses-schemas-repetitifs/samira-demander-aides-droits",
+      "title": "Demander une aide sans devoir se justifier",
+      "sujet": "Demander les aides auxquelles on a droit",
+      "personnage": "Samira",
+      "basis": "pattern_ids (premier repère)"
+    },
+    "migration_adjustment": {
+      "label": "Changer de pays ou de milieu de vie",
+      "article": "posts/reprendre-le-controle-de-ses-pensees/malik-adaptation-ressources-concretes",
+      "title": "Le stress d’adaptation et les appuis concrets",
+      "sujet": "Stress d’adaptation et ressources concrètes",
+      "personnage": "Malik",
+      "basis": "pattern_ids (premier repère)"
+    },
+    "role_transition": {
+      "label": "Passer d’un rôle de vie à un autre",
+      "article": "posts/sortir-de-ses-schemas-repetitifs/odile-retraite-changement-role",
+      "title": "La retraite et les rôles que l’on choisit",
+      "sujet": "Retraite et changement de rôle",
+      "personnage": "Odile",
+      "basis": "pattern_ids (premier repère)"
+    },
+    "ambiguous_loss": {
+      "label": "Perte sans clôture claire",
+      "article": "posts/comprendre-et-maitriser-ses-emotions/malik-lieu-perte-sans-cloture",
+      "title": "Un lieu familier entre absence et incertitude",
+      "sujet": "Ce qui manque d’un lieu familier",
+      "personnage": "Malik",
+      "basis": "pattern_ids (premier repère)"
+    },
+    "continuing_bonds": {
+      "label": "Garder une place au lien après une perte",
+      "article": "posts/comprendre-et-maitriser-ses-emotions/odile-liens-apres-deces",
+      "title": "Les liens qui continuent après un décès",
+      "sujet": "Liens qui continuent après un décès",
+      "personnage": "Odile",
+      "basis": "pattern_ids (premier repère)"
+    },
+    "social_isolation": {
+      "label": "Isolement subi",
+      "article": "posts/sortir-de-ses-schemas-repetitifs/isolement-social-alienation-amitie",
+      "title": "Isolement social et aliénation en amitié : comprendre et agir",
+      "sujet": "isolement social/aliénation",
+      "personnage": "Bernard",
+      "basis": "sujet du front matter"
+    },
+    "work_home_conflict": {
+      "label": "Demandes incompatibles entre plusieurs rôles",
+      "article": "posts/sortir-de-ses-schemas-repetitifs/maelle-rythmes-couple",
+      "title": "Rythmes différents en couple : Maëlle cherche un accord",
+      "sujet": "Rythmes différents dans le couple",
+      "personnage": "Maëlle",
+      "basis": "pattern_ids (premier repère)"
+    },
+    "values_conflict": {
+      "label": "Valeurs qui entrent en tension",
+      "article": "posts/reprendre-le-controle-de-ses-pensees/baptiste-conflit-deux-valeurs",
+      "title": "Quand deux valeurs importantes se heurtent",
+      "sujet": "Conflit entre deux valeurs importantes",
+      "personnage": "Baptiste",
+      "basis": "pattern_ids (premier repère)"
+    },
+    "meaning_search": {
+      "label": "Chercher du sens",
+      "article": "posts/reprendre-le-controle-de-ses-pensees/baptiste-sens-actions-ordinaires",
+      "title": "Le sens des actions qui ne font pas événement",
+      "sujet": "Sens et actions ordinaires",
+      "personnage": "Baptiste",
+      "basis": "pattern_ids (premier repère)"
+    },
+    "purpose_direction": {
+      "label": "Choisir une direction personnelle",
+      "article": "posts/reprendre-le-controle-de-ses-pensees/baptiste-engagement-progressif-projet",
+      "title": "S’engager progressivement dans un projet",
+      "sujet": "Engagement progressif dans un projet",
+      "personnage": "Baptiste",
+      "basis": "pattern_ids (premier repère)"
+    },
+    "small_goals": {
+      "label": "Découper un projet en étapes accessibles",
+      "article": "posts/reprendre-le-controle-de-ses-pensees/baptiste-objectifs-ressources-reelles",
+      "title": "Des objectifs avec des ressources réelles",
+      "sujet": "Objectifs réalistes et ressources réelles",
+      "personnage": "Baptiste",
+      "basis": "pattern_ids (premier repère)"
+    },
+    "practical_support": {
+      "label": "Recevoir un appui concret",
+      "article": "posts/sortir-de-ses-schemas-repetitifs/vincent-organiser-relais-concret",
+      "title": "Organiser un relais concret : Vincent partage une mission",
+      "sujet": "Organiser un relais concret",
+      "personnage": "Vincent",
+      "basis": "pattern_ids (premier repère)"
+    },
+    "community_participation": {
+      "label": "Trouver une place dans un collectif",
+      "article": "posts/sortir-de-ses-schemas-repetitifs/odile-collectif-liberte-personnelle",
+      "title": "Participer à un collectif en gardant ses choix",
+      "sujet": "Participation collective et liberté personnelle",
+      "personnage": "Odile",
+      "basis": "pattern_ids (premier repère)"
+    },
+    "gratitude": {
+      "label": "Reconnaître ce qui soutient",
+      "article": "posts/comprendre-et-maitriser-ses-emotions/elise-gratitude-sans-deni",
+      "title": "Remercier sans dire que tout va bien",
+      "sujet": "Gratitude sans nier ce qui va mal",
+      "personnage": "Élise",
+      "basis": "pattern_ids (premier repère)"
+    },
+    "creative_expression": {
+      "label": "Exprimer par la création",
+      "article": "posts/sortir-de-ses-schemas-repetitifs/odile-transmettre-souvenir-maniere",
+      "title": "Transmettre un souvenir à sa manière",
+      "sujet": "Transmettre un souvenir à sa manière",
+      "personnage": "Odile",
+      "basis": "pattern_ids (premier repère)"
+    },
+    "solitude_choice": {
+      "label": "Choisir un temps seul qui ressource",
+      "article": "posts/comprendre-et-maitriser-ses-emotions/malik-solitude-choisie-subie",
+      "title": "Reconnaître la solitude qui aide ou qui pèse",
+      "sujet": "Solitude choisie et solitude subie",
+      "personnage": "Malik",
+      "basis": "pattern_ids (premier repère)"
+    },
+    "self_efficacy": {
+      "label": "Reconnaître sa capacité d’agir",
+      "article": "posts/reprendre-le-controle-de-ses-pensees/eloi-sentiment-efficacite-essais",
+      "title": "Sentiment d'efficacité : Éloi s'appuie sur des essais",
+      "sujet": "sentiment d’efficacité et petites expériences",
+      "personnage": "Éloi",
+      "basis": "pattern_ids (premier repère)"
+    },
+    "minimization": {
+      "label": "Réduire l’importance de ce qui touche",
+      "article": "posts/reprendre-le-controle-de-ses-pensees/biais-angle-mort-vieillissement-psychologie",
+      "title": "Au travail, Patrick prend sa douleur au sérieux",
+      "sujet": "Minimisation de la douleur au travail",
+      "personnage": "Patrick",
+      "basis": "sujet du front matter"
+    },
+    "rationalization": {
+      "label": "Construire une explication après coup",
+      "article": "posts/sortir-de-ses-schemas-repetitifs/rationalisation-face-a-une-decision-importante",
+      "title": "Rationalisation face à une décision importante : le guide",
+      "sujet": "rationalisation",
+      "personnage": "Priya",
+      "basis": "pattern_ids (premier repère)"
+    },
+    "distraction_coping": {
+      "label": "Se distraire pour souffler",
+      "article": "posts/sortir-de-ses-schemas-repetitifs/elise-distraction-choisie",
+      "title": "Une pause qui laisse un chemin de retour",
+      "sujet": "Distraction choisie plutôt que fuite automatique",
+      "personnage": "Élise",
+      "basis": "pattern_ids (premier repère)"
+    },
+    "humor_coping": {
+      "label": "Utiliser l’humour pour traverser",
+      "article": "posts/sortir-de-ses-schemas-repetitifs/humour-defense-conflit-hugo",
+      "title": "Humour comme défense en situation de conflit : comprendre et agir",
+      "sujet": "humour comme défense",
+      "personnage": "Hugo",
+      "basis": "sujet du front matter"
+    },
+    "emotional_detachment": {
+      "label": "Se sentir momentanément à distance",
+      "article": "posts/sortir-de-ses-schemas-repetitifs/isolation-affect-conflit-comprendre-mecanisme",
+      "title": "Isolation de l'affect en conflit : comprendre ce mécanisme",
+      "sujet": "isolation de l'affect",
+      "personnage": "Youssef",
+      "basis": "pattern_ids (premier repère)"
+    },
+    "safety_behaviors": {
+      "label": "Se rassurer par des précautions répétées",
+      "article": "posts/sortir-de-ses-schemas-repetitifs/elise-routines-verifications",
+      "title": "Une routine utile peut avoir une fin",
+      "sujet": "Routines qui soutiennent sans enfermer",
+      "personnage": "Élise",
+      "basis": "pattern_ids (premier repère)"
+    },
+    "appeasement": {
+      "label": "Apaiser autrui pour préserver sa sécurité",
+      "article": "posts/sortir-de-ses-schemas-repetitifs/assujettissement-face-a-l-autorite-se-liberer",
+      "title": "Assujettissement face à l'autorité : s'affirmer enfin",
+      "sujet": "assujettissement",
+      "personnage": "Mei",
+      "basis": "pattern_ids (premier repère)"
+    },
+    "flexible_coping": {
+      "label": "Choisir une réponse selon la situation",
+      "article": "posts/reprendre-le-controle-de-ses-pensees/elise-imprevu-souplesse",
+      "title": "Garder du jeu quand le programme change",
+      "sujet": "Souplesse psychologique face à un imprévu",
+      "personnage": "Élise",
+      "basis": "pattern_ids (premier repère)"
+    },
+    "distractibility": {
+      "label": "Attention facilement détournée",
+      "article": "posts/reprendre-le-controle-de-ses-pensees/remi-distractibilite-environnement",
+      "title": "Distractibilité : Rémi regarde aussi l'environnement",
+      "sujet": "distractibilité et environnement",
+      "personnage": "Rémi",
+      "basis": "pattern_ids (premier repère)"
+    },
+    "attention_switching": {
+      "label": "Coût des changements de tâche",
+      "article": "posts/reprendre-le-controle-de-ses-pensees/remi-interruptions-retrouver-fil",
+      "title": "Interruptions au travail : Rémi retrouve le fil",
+      "sujet": "coût des changements de tâche",
+      "personnage": "Rémi",
+      "basis": "pattern_ids (premier repère)"
+    },
+    "planning_steps": {
+      "label": "Rendre les étapes visibles",
+      "article": "posts/reprendre-le-controle-de-ses-pensees/remi-decouper-garder-but",
+      "title": "Découper une tâche : Rémi garde le but en vue",
+      "sujet": "découper une tâche sans perdre son but",
+      "personnage": "Rémi",
+      "basis": "pattern_ids (premier repère)"
+    },
+    "time_estimation": {
+      "label": "Estimer le temps nécessaire",
+      "article": "posts/reprendre-le-controle-de-ses-pensees/remi-estimer-temps-marges",
+      "title": "Estimer le temps : Rémi compte aussi les transitions",
+      "sujet": "estimation du temps et marges réelles",
+      "personnage": "Rémi",
+      "basis": "pattern_ids (premier repère)"
+    },
+    "priority_setting": {
+      "label": "Distinguer les priorités",
+      "article": "posts/comprendre-et-maitriser-ses-emotions/remi-charge-priorites",
+      "title": "Charge de travail : Rémi fait préciser les priorités",
+      "sujet": "organisation du travail et charge réelle",
+      "personnage": "Rémi",
+      "basis": "pattern_ids (premier repère)"
+    },
+    "working_memory_load": {
+      "label": "Trop d’informations à garder en tête",
+      "article": "posts/reprendre-le-controle-de-ses-pensees/remi-memoire-consignes-visibles",
+      "title": "Mémoire de travail : Rémi rend les consignes visibles",
+      "sujet": "charge de la mémoire de travail",
+      "personnage": "Rémi",
+      "basis": "pattern_ids (premier repère)"
+    },
+    "prospective_memory": {
+      "label": "Se rappeler d’une intention au bon moment",
+      "article": "posts/reprendre-le-controle-de-ses-pensees/remi-transmettre-rappel-utile",
+      "title": "Transmettre une tâche : Rémi prépare le rappel utile",
+      "sujet": "déléguer et transmettre des consignes",
+      "personnage": "Rémi",
+      "basis": "pattern_ids (premier repère)"
+    },
+    "body_awareness": {
+      "label": "Reconnaître ses sensations corporelles",
+      "article": "posts/comprendre-et-maitriser-ses-emotions/maelle-besoins-corporels",
+      "title": "Besoins corporels : Maëlle les écoute avant l'épuisement",
+      "sujet": "Percevoir ses besoins corporels",
+      "personnage": "Maëlle",
+      "basis": "pattern_ids (premier repère)"
+    },
+    "sensory_load": {
+      "label": "Charge de l’environnement sensoriel",
+      "article": "posts/reprendre-le-controle-de-ses-pensees/maelle-bruit-attention-travail",
+      "title": "Bruit au travail : Maëlle décrit sa charge d'attention",
+      "sujet": "Fatigue et concentration au travail",
+      "personnage": "Maëlle",
+      "basis": "pattern_ids (premier repère)"
+    },
+    "sleep_onset": {
+      "label": "Difficulté à décrocher avant le sommeil",
+      "article": "posts/reprendre-le-controle-de-ses-pensees/maelle-inquietude-endormissement",
+      "title": "Peur de ne pas dormir : Maëlle desserre la surveillance",
+      "sujet": "Inquiétude de ne pas réussir à dormir",
+      "personnage": "Maëlle",
+      "basis": "pattern_ids (premier repère)"
+    },
+    "sleep_rhythm": {
+      "label": "Rythmes et possibilités de sommeil",
+      "article": "posts/reprendre-le-controle-de-ses-pensees/maelle-rythme-horaires-alternes",
+      "title": "Horaires alternés : Maëlle retrouve des repères de sommeil",
+      "sujet": "Décalage du rythme en horaires alternés",
+      "personnage": "Maëlle",
+      "basis": "pattern_ids (premier repère)"
+    },
+    "fatigue_pacing": {
+      "label": "Ajuster l’effort à l’énergie disponible",
+      "article": "posts/comprendre-et-maitriser-ses-emotions/maelle-fatigue-sans-jugement",
+      "title": "Reconnaître la fatigue : Maëlle cesse de se noter",
+      "sujet": "Reconnaître la fatigue sans se juger",
+      "personnage": "Maëlle",
+      "basis": "pattern_ids (premier repère)"
+    },
+    "rest_permission": {
+      "label": "S’accorder du repos",
+      "article": "posts/comprendre-et-maitriser-ses-emotions/maelle-culpabilite-repos",
+      "title": "Culpabilité de se reposer : Maëlle protège sa récupération",
+      "sujet": "Repos et culpabilité de ne rien produire",
+      "personnage": "Maëlle",
+      "basis": "pattern_ids (premier repère)"
+    },
+    "health_declared": {
+      "label": "Santé ou fonctionnement explicitement déclaré",
+      "article": "posts/comprendre-et-maitriser-ses-emotions/anais-handicap-invisible-reconnaissance",
+      "title": "Handicap invisible : Anaïs choisit ce qu'elle explique",
+      "sujet": "Handicap invisible et reconnaissance",
+      "personnage": "Anaïs",
+      "basis": "pattern_ids (premier repère)"
+    },
+    "movement_regulation": {
+      "label": "Trouver un mouvement qui convient",
+      "article": "posts/sortir-de-ses-schemas-repetitifs/anais-activites-adaptees-valeurs",
+      "title": "Activités adaptées : Anaïs choisit ce qui compte pour elle",
+      "sujet": "Activités adaptées et valeurs personnelles",
+      "personnage": "Anaïs",
+      "basis": "pattern_ids (premier repère)"
+    },
+    "learned_expectation": {
+      "label": "Attendre la répétition d’une expérience",
+      "article": "posts/comprendre-et-maitriser-ses-emotions/eloi-reprendre-apres-erreur",
+      "title": "Après une erreur : Éloi vérifie ce qui arrive vraiment",
+      "sujet": "reprendre après une erreur concrète",
+      "personnage": "Éloi",
+      "basis": "pattern_ids (premier repère)"
+    },
+    "behavioral_experiment": {
+      "label": "Tester une hypothèse par un petit essai",
+      "article": "posts/reprendre-le-controle-de-ses-pensees/baptiste-decision-essai-reversible",
+      "title": "Reconnaître ce qui rend un choix réversible",
+      "sujet": "Réversibilité d’une décision",
+      "personnage": "Baptiste",
+      "basis": "pattern_ids (premier repère)"
+    },
+    "feedback_learning": {
+      "label": "Utiliser un retour sans s’y réduire",
+      "article": "posts/reprendre-le-controle-de-ses-pensees/eloi-retour-apprentissage",
+      "title": "Recevoir un retour : Éloi apprend sans se condamner",
+      "sujet": "recevoir un retour pendant l’apprentissage",
+      "personnage": "Éloi",
+      "basis": "pattern_ids (premier repère)"
+    },
+    "skill_practice": {
+      "label": "Développer une compétence avec des appuis",
+      "article": "posts/sortir-de-ses-schemas-repetitifs/eloi-progression-droit-essai",
+      "title": "Progression : Éloi donne une place aux essais",
+      "sujet": "progression et droit à l’essai",
+      "personnage": "Éloi",
+      "basis": "pattern_ids (premier repère)"
+    },
+    "consent_boundaries": {
+      "label": "Exprimer et respecter un consentement libre",
+      "article": "posts/sortir-de-ses-schemas-repetitifs/ines-consentement-changer-avis",
+      "title": "Consentement : Inès garde le droit de changer d’avis",
+      "sujet": "Consentement et droit de changer d’avis",
+      "personnage": "Inès",
+      "basis": "pattern_ids (premier repère)"
+    },
+    "privacy_boundaries": {
+      "label": "Définir sa vie privée",
+      "article": "posts/sortir-de-ses-schemas-repetitifs/ines-vie-privee-couple",
+      "title": "Vie privée dans le couple : Inès garde un espace à elle",
+      "sujet": "Vie privée au sein du couple",
+      "personnage": "Inès",
+      "basis": "pattern_ids (premier repère)"
+    },
+    "desire_variation": {
+      "label": "Accueillir des rythmes de désir différents",
+      "article": "posts/comprendre-et-maitriser-ses-emotions/ines-difference-desir-couple",
+      "title": "Différence de désir : Inès cherche un rythme à deux",
+      "sujet": "Différence de désir dans le couple",
+      "personnage": "Inès",
+      "basis": "pattern_ids (premier repère)"
+    },
+    "relational_jealousy": {
+      "label": "Comprendre un ressenti de jalousie",
+      "article": "posts/comprendre-et-maitriser-ses-emotions/jalousie-en-situation-de-conflit-comprendre-agir",
+      "title": "Jalousie en situation de conflit : comprendre pour s'apaiser",
+      "sujet": "jalousie",
+      "personnage": "Léa",
+      "basis": "pattern_ids (premier repère)"
+    },
+    "bicultural_navigation": {
+      "label": "Composer avec plusieurs univers culturels",
+      "article": "posts/reprendre-le-controle-de-ses-pensees/malik-codes-selon-contexte",
+      "title": "Changer de codes sans se perdre",
+      "sujet": "Changer de codes selon le contexte",
+      "personnage": "Malik",
+      "basis": "pattern_ids (premier repère)"
+    },
+    "identity_recognition": {
+      "label": "Être reconnu dans la manière de se définir",
+      "article": "posts/reprendre-le-controle-de-ses-pensees/salome-identite-au-dela-etiquette",
+      "title": "Au-delà d’une étiquette : Salomé garde plusieurs facettes",
+      "sujet": "Identité au-delà d’une seule étiquette",
+      "personnage": "Salomé",
+      "basis": "pattern_ids (premier repère)"
+    },
+    "disclosure_choice": {
+      "label": "Choisir à qui révéler une information personnelle",
+      "article": "posts/reprendre-le-controle-de-ses-pensees/salome-choisir-reveler-soi",
+      "title": "Révéler quelque chose de soi : Salomé choisit le cadre",
+      "sujet": "Choisir ce que l’on révèle de soi",
+      "personnage": "Salomé",
+      "basis": "pattern_ids (premier repère)"
+    },
+    "social_media_comparison": {
+      "label": "Se comparer dans un environnement numérique",
+      "article": "posts/reprendre-le-controle-de-ses-pensees/salome-competence-regard-ateliers-ligne",
+      "title": "Compétence : Salomé regarde autrement les ateliers en ligne",
+      "sujet": "Compétence professionnelle et regard des autres",
+      "personnage": "Salomé",
+      "basis": "pattern_ids (premier repère)"
+    },
+    "role_expectations": {
+      "label": "Attentes sociales autour des identités",
+      "article": "posts/reprendre-le-controle-de-ses-pensees/salome-pression-normes-sociales",
+      "title": "Pression des normes : Salomé distingue usage et obligation",
+      "sujet": "Pression des normes sociales",
+      "personnage": "Salomé",
+      "basis": "pattern_ids (premier repère)"
+    }
+  },
+  "secondary_only": [
+    {
+      "id": "body_stress",
+      "label": "Signaux corporels du stress",
+      "domain": "emotions",
+      "subdomain": "emotions_regulation",
+      "secondary_articles": [
+        "posts/sortir-de-ses-schemas-repetitifs/maelle-stress-conditions-travail"
+      ],
+      "note": "Signaux corporels présents dans la cohérence cardiaque (Nadia) et le stress au travail (Maëlle), mais le sujet de ces épisodes est une technique ou les conditions de travail."
+    },
+    {
+      "id": "parent_expectations",
+      "label": "Attentes parentales intériorisées",
+      "domain": "family",
+      "subdomain": "family_inheritance",
+      "secondary_articles": [
+        "posts/sortir-de-ses-schemas-repetitifs/aline-desaccord-lien-famille"
+      ],
+      "note": "Abordé à travers les schémas « exigences élevées », la recherche d’approbation parentale et le scénario de vie, sans épisode centré sur l’intériorisation des attentes parentales."
+    },
+    {
+      "id": "family_roles",
+      "label": "Place et rôles dans la famille",
+      "domain": "family",
+      "subdomain": "family_roles",
+      "secondary_articles": [
+        "posts/sortir-de-ses-schemas-repetitifs/aline-desaccord-lien-famille"
+      ],
+      "note": "Rôle familial évoqué dans le désaccord familial d’Aline et dans le scénario de vie de Fabien ; jamais sujet principal."
+    },
+    {
+      "id": "withdrawal",
+      "label": "Retrait relationnel",
+      "domain": "action",
+      "subdomain": "action_habits",
+      "secondary_articles": [
+        "posts/comprendre-et-maitriser-ses-emotions/remi-erreur-parole-retrait"
+      ],
+      "note": "Retrait évoqué après une erreur (Rémi) ; les épisodes de retrait relationnel appartiennent aux parcours cliniques."
+    },
+    {
+      "id": "overwork",
+      "label": "Surinvestissement et récupération",
+      "domain": "context",
+      "subdomain": "context_load",
+      "secondary_articles": [
+        "posts/sortir-de-ses-schemas-repetitifs/maelle-recuperation-appuis"
+      ],
+      "note": "Surinvestissement en toile de fond (amertume et enthousiasme en contexte de burn-out, récupération de Maëlle) ; pas d’épisode qui en fait l’objet."
+    },
+    {
+      "id": "stress_resources",
+      "label": "Contraintes et ressources actuelles",
+      "domain": "context",
+      "subdomain": "context_load",
+      "secondary_articles": [
+        "posts/comprendre-et-maitriser-ses-emotions/aline-fatigue-compassion-relais",
+        "posts/reprendre-le-controle-de-ses-pensees/baptiste-objectifs-ressources-reelles",
+        "posts/reprendre-le-controle-de-ses-pensees/maelle-rythme-horaires-alternes",
+        "posts/reprendre-le-controle-de-ses-pensees/malik-adaptation-ressources-concretes",
+        "posts/reprendre-le-controle-de-ses-pensees/samira-precarite-place-soucis",
+        "posts/sortir-de-ses-schemas-repetitifs/maelle-stress-conditions-travail",
+        "posts/sortir-de-ses-schemas-repetitifs/vincent-repit-entraide-durable"
+      ],
+      "note": "Repère transversal présent dans sept épisodes (Malik, Samira, Maëlle, Vincent), toujours en appui d’un autre sujet."
+    },
+    {
+      "id": "needs_expression",
+      "label": "Reconnaître ses besoins",
+      "domain": "needs",
+      "subdomain": "needs_agency",
+      "secondary_articles": [
+        "posts/comprendre-et-maitriser-ses-emotions/eloi-motivation-interet",
+        "posts/comprendre-et-maitriser-ses-emotions/ines-fatigue-disponibilite-affective",
+        "posts/comprendre-et-maitriser-ses-emotions/maelle-besoins-corporels",
+        "posts/comprendre-et-maitriser-ses-emotions/maelle-culpabilite-repos",
+        "posts/comprendre-et-maitriser-ses-emotions/malik-langues-emotions",
+        "posts/comprendre-et-maitriser-ses-emotions/samira-budget-valeur-personnelle",
+        "posts/comprendre-et-maitriser-ses-emotions/samira-colere-situation-injuste",
+        "posts/comprendre-et-maitriser-ses-emotions/vincent-ambivalence-emotions-aidance",
+        "posts/comprendre-et-maitriser-ses-emotions/vincent-charge-aidance-taches-invisibles",
+        "posts/comprendre-et-maitriser-ses-emotions/vincent-fatigue-sans-culpabiliser",
+        "posts/reprendre-le-controle-de-ses-pensees/malik-codes-selon-contexte",
+        "posts/reprendre-le-controle-de-ses-pensees/samira-dignite-besoins-materiels",
+        "posts/sortir-de-ses-schemas-repetitifs/aline-reciprocite-relations",
+        "posts/sortir-de-ses-schemas-repetitifs/anais-demande-aide-concrete"
+      ],
+      "note": "Présent dans quatorze épisodes comme compétence d’appoint ; aucun épisode n’est consacré à reconnaître ses besoins."
+    },
+    {
+      "id": "positive_connection",
+      "label": "Liens nourrissants",
+      "domain": "resources",
+      "subdomain": "resources_connection",
+      "secondary_articles": [
+        "posts/comprendre-et-maitriser-ses-emotions/anais-soutien-espoir-realiste",
+        "posts/sortir-de-ses-schemas-repetitifs/maelle-rythmes-couple"
+      ],
+      "note": "Liens nourrissants évoqués (Anaïs, Maëlle) sans épisode dédié à l’amitié ou au lien positif."
+    },
+    {
+      "id": "self_awareness",
+      "label": "Connaissance de soi",
+      "domain": "resources",
+      "subdomain": "resources_reflection",
+      "secondary_articles": [
+        "posts/comprendre-et-maitriser-ses-emotions/maelle-besoins-corporels",
+        "posts/reprendre-le-controle-de-ses-pensees/elise-changer-perspective"
+      ],
+      "note": "Connaissance de soi utilisée comme appui (Maëlle, Élise) ; pas d’épisode dédié."
+    },
+    {
+      "id": "problem_solving",
+      "label": "Résoudre un problème concret",
+      "domain": "thinking",
+      "subdomain": "thinking_decision",
+      "secondary_articles": [
+        "posts/reprendre-le-controle-de-ses-pensees/anais-incertitude-informations-sante",
+        "posts/reprendre-le-controle-de-ses-pensees/baptiste-controle-influence-limites",
+        "posts/reprendre-le-controle-de-ses-pensees/baptiste-decider-incertitude",
+        "posts/reprendre-le-controle-de-ses-pensees/elise-imprevu-souplesse",
+        "posts/reprendre-le-controle-de-ses-pensees/elise-optimisme-preparations-utiles",
+        "posts/reprendre-le-controle-de-ses-pensees/maelle-pensees-apres-nuit",
+        "posts/reprendre-le-controle-de-ses-pensees/odile-anticiper-sans-tout-perdre"
+      ],
+      "note": "Résolution de problème en appui de l’optimisme réaliste (Élise) et de l’incertitude (Anaïs, Baptiste, Odile) ; pas d’épisode dédié."
+    },
+    {
+      "id": "decision_overload",
+      "label": "Saturation devant les choix",
+      "domain": "thinking",
+      "subdomain": "thinking_decision",
+      "secondary_articles": [
+        "posts/reprendre-le-controle-de-ses-pensees/samira-decider-pression-temps"
+      ],
+      "note": "Saturation décisionnelle seulement en appui de la pression du temps (Samira)."
+    },
+    {
+      "id": "metacognitive_check",
+      "label": "Observer sa manière de penser",
+      "domain": "thinking",
+      "subdomain": "thinking_repetitive",
+      "secondary_articles": [
+        "posts/reprendre-le-controle-de-ses-pensees/anais-decrire-sensations",
+        "posts/reprendre-le-controle-de-ses-pensees/anais-incertitude-informations-sante",
+        "posts/reprendre-le-controle-de-ses-pensees/baptiste-regret-informations-disponibles",
+        "posts/reprendre-le-controle-de-ses-pensees/maelle-inquietude-endormissement",
+        "posts/reprendre-le-controle-de-ses-pensees/maelle-pensees-apres-nuit"
+      ],
+      "note": "Observation de sa pensée présente en appui (Baptiste, Maëlle, Anaïs) et dans des techniques (RAIN, journaling) ; pas d’épisode qui la définit."
+    },
+    {
+      "id": "distress_tolerance",
+      "label": "Traverser un inconfort émotionnel",
+      "domain": "emotions",
+      "subdomain": "emotions_regulation",
+      "secondary_articles": [
+        "posts/comprendre-et-maitriser-ses-emotions/aline-tolerer-deception-autrui",
+        "posts/comprendre-et-maitriser-ses-emotions/malik-lieu-perte-sans-cloture"
+      ],
+      "note": "Tolérance à l’inconfort en appui (Aline, Malik) ; la fenêtre de tolérance d’Isabelle porte sur l’activation, pas sur la tolérance à la détresse."
+    },
+    {
+      "id": "self_trust",
+      "label": "S’appuyer sur son propre jugement",
+      "domain": "self",
+      "subdomain": "self_evaluation",
+      "secondary_articles": [
+        "posts/reprendre-le-controle-de-ses-pensees/salome-pression-normes-sociales",
+        "posts/sortir-de-ses-schemas-repetitifs/ines-dire-non-sans-preuve"
+      ],
+      "note": "S’appuyer sur son jugement présent en appui (Inès, Salomé)."
+    },
+    {
+      "id": "balanced_self_evaluation",
+      "label": "Faire un bilan de soi nuancé",
+      "domain": "self",
+      "subdomain": "self_evaluation",
+      "secondary_articles": [
+        "posts/comprendre-et-maitriser-ses-emotions/maelle-fatigue-sans-jugement",
+        "posts/comprendre-et-maitriser-ses-emotions/salome-bienveillance-apres-interaction",
+        "posts/reprendre-le-controle-de-ses-pensees/baptiste-regret-informations-disponibles",
+        "posts/reprendre-le-controle-de-ses-pensees/salome-competence-regard-ateliers-ligne",
+        "posts/sortir-de-ses-schemas-repetitifs/aline-reciprocite-relations"
+      ],
+      "note": "Bilan nuancé présent en appui dans cinq épisodes."
+    },
+    {
+      "id": "communication_clarification",
+      "label": "Vérifier le sens d’un échange",
+      "domain": "relationships",
+      "subdomain": "relationships_communication",
+      "secondary_articles": [
+        "posts/comprendre-et-maitriser-ses-emotions/ines-difference-desir-couple",
+        "posts/reprendre-le-controle-de-ses-pensees/anais-decrire-sensations",
+        "posts/reprendre-le-controle-de-ses-pensees/baptiste-conflit-deux-valeurs",
+        "posts/reprendre-le-controle-de-ses-pensees/maelle-bruit-attention-travail",
+        "posts/reprendre-le-controle-de-ses-pensees/salome-competence-regard-ateliers-ligne",
+        "posts/sortir-de-ses-schemas-repetitifs/aline-demander-aide-souhaitee",
+        "posts/sortir-de-ses-schemas-repetitifs/aline-limite-affection-couple",
+        "posts/sortir-de-ses-schemas-repetitifs/ines-reparer-conversation-blessante",
+        "posts/sortir-de-ses-schemas-repetitifs/maelle-rythmes-couple",
+        "posts/sortir-de-ses-schemas-repetitifs/vincent-autonomie-decisions-partagees",
+        "posts/sortir-de-ses-schemas-repetitifs/vincent-couple-place-aidance"
+      ],
+      "note": "Clarifier un échange présent dans onze épisodes, toujours au service d’un autre sujet."
+    },
+    {
+      "id": "power_imbalance",
+      "label": "Marge de choix dans un rapport de pouvoir",
+      "domain": "relationships",
+      "subdomain": "relationships_limits",
+      "secondary_articles": [
+        "posts/comprendre-et-maitriser-ses-emotions/malik-discrimination-rester-soi",
+        "posts/comprendre-et-maitriser-ses-emotions/salome-securite-adaptation-contexte",
+        "posts/comprendre-et-maitriser-ses-emotions/samira-colere-situation-injuste",
+        "posts/sortir-de-ses-schemas-repetitifs/maelle-stress-conditions-travail"
+      ],
+      "note": "Rapport de pouvoir présent en appui (Salomé, Samira, Malik, Maëlle) ; l’épisode de Salomé porte sur la sécurité et l’adaptation au contexte."
+    },
+    {
+      "id": "family_mediation",
+      "label": "Se retrouver médiateur familial",
+      "domain": "family",
+      "subdomain": "family_roles",
+      "secondary_articles": [
+        "posts/sortir-de-ses-schemas-repetitifs/aline-desaccord-lien-famille"
+      ],
+      "note": "Médiation familiale seulement en appui du désaccord d’Aline."
+    },
+    {
+      "id": "sibling_comparison",
+      "label": "Comparaisons dans la fratrie",
+      "domain": "family",
+      "subdomain": "family_roles",
+      "secondary_articles": [
+        "posts/sortir-de-ses-schemas-repetitifs/samira-voisinage-reciprocite-comparaison"
+      ],
+      "note": "Comparaison dans la fratrie seulement en appui d’un épisode de voisinage (Samira)."
+    },
+    {
+      "id": "family_secrecy",
+      "label": "Sujets familiaux difficiles à aborder",
+      "domain": "family",
+      "subdomain": "family_individuation",
+      "secondary_articles": [
+        "posts/reprendre-le-controle-de-ses-pensees/aline-aide-resout-pas-tout"
+      ],
+      "note": "Non-dits familiaux seulement en appui (Aline)."
+    },
+    {
+      "id": "consistency_in_relationships",
+      "label": "Prévisibilité de la disponibilité",
+      "domain": "attachment",
+      "subdomain": "attachment_security",
+      "secondary_articles": [
+        "posts/sortir-de-ses-schemas-repetitifs/maelle-rythmes-couple",
+        "posts/sortir-de-ses-schemas-repetitifs/vincent-soutien-garder-limites"
+      ],
+      "note": "Prévisibilité de la disponibilité en appui (Maëlle, Vincent)."
+    },
+    {
+      "id": "separation_reunion",
+      "label": "Vivre les séparations et retrouvailles",
+      "domain": "attachment",
+      "subdomain": "attachment_distance",
+      "secondary_articles": [
+        "posts/sortir-de-ses-schemas-repetitifs/ines-confiance-espace-retrouvailles"
+      ],
+      "note": "Séparations et retrouvailles en appui de la confiance (Inès)."
+    },
+    {
+      "id": "co_regulation",
+      "label": "S’apaiser dans une présence sûre",
+      "domain": "attachment",
+      "subdomain": "attachment_security",
+      "secondary_articles": [
+        "posts/comprendre-et-maitriser-ses-emotions/ines-securite-affective-demande-claire"
+      ],
+      "note": "Corégulation en appui de la sécurité affective (Inès)."
+    },
+    {
+      "id": "grounded_attention",
+      "label": "Revenir aux repères du présent",
+      "domain": "resources",
+      "subdomain": "resources_reflection",
+      "secondary_articles": [
+        "posts/comprendre-et-maitriser-ses-emotions/elise-savourer-jardin",
+        "posts/reprendre-le-controle-de-ses-pensees/elise-changer-perspective"
+      ],
+      "note": "Ancrage dans le présent en appui de la savouration (Élise)."
+    },
+    {
+      "id": "enjoyable_activity",
+      "label": "Préserver des activités agréables",
+      "domain": "resources",
+      "subdomain": "resources_recovery",
+      "secondary_articles": [
+        "posts/comprendre-et-maitriser-ses-emotions/elise-savourer-jardin",
+        "posts/reprendre-le-controle-de-ses-pensees/odile-sens-action-ordinaire",
+        "posts/sortir-de-ses-schemas-repetitifs/anais-activites-adaptees-valeurs"
+      ],
+      "note": "Activités agréables en appui (Anaïs, Odile, Élise)."
+    },
+    {
+      "id": "nature_contact",
+      "label": "Trouver un appui dans un environnement choisi",
+      "domain": "resources",
+      "subdomain": "resources_recovery",
+      "secondary_articles": [
+        "posts/comprendre-et-maitriser-ses-emotions/elise-savourer-jardin"
+      ],
+      "note": "L’épisode d’Élise au jardin a pour sujet la savouration d’une expérience ordinaire ; la nature y est le cadre."
+    },
+    {
+      "id": "response_pause",
+      "label": "Créer une pause avant de répondre",
+      "domain": "adaptation",
+      "subdomain": "adaptation_coping",
+      "secondary_articles": [
+        "posts/comprendre-et-maitriser-ses-emotions/elise-bienveillance-apres-revers",
+        "posts/comprendre-et-maitriser-ses-emotions/vincent-colere-obstacles-materiels",
+        "posts/sortir-de-ses-schemas-repetitifs/vincent-aide-consentie-proteger"
+      ],
+      "note": "Pause avant de répondre utilisée comme technique (Vincent, Élise)."
+    },
+    {
+      "id": "responsibility_repair",
+      "label": "Reconnaître une responsabilité proportionnée",
+      "domain": "adaptation",
+      "subdomain": "adaptation_coping",
+      "secondary_articles": [
+        "posts/comprendre-et-maitriser-ses-emotions/aline-tolerer-deception-autrui",
+        "posts/comprendre-et-maitriser-ses-emotions/elise-bienveillance-apres-revers",
+        "posts/reprendre-le-controle-de-ses-pensees/baptiste-regret-informations-disponibles",
+        "posts/reprendre-le-controle-de-ses-pensees/maelle-pensees-apres-nuit"
+      ],
+      "note": "Responsabilité proportionnée en appui (Aline, Baptiste, Élise, Maëlle) et dans le remords de Nadia, sans épisode qui en fait le sujet."
+    },
+    {
+      "id": "attentional_capture",
+      "label": "Attention captée par une sollicitation",
+      "domain": "executive",
+      "subdomain": "executive_attention",
+      "secondary_articles": [
+        "posts/reprendre-le-controle-de-ses-pensees/remi-distractibilite-environnement"
+      ],
+      "note": "Attention captée en appui de la distractibilité (Rémi)."
+    },
+    {
+      "id": "external_supports",
+      "label": "S’appuyer sur des repères extérieurs",
+      "domain": "executive",
+      "subdomain": "executive_working_memory",
+      "secondary_articles": [
+        "posts/reprendre-le-controle-de-ses-pensees/baptiste-soi-demain-present",
+        "posts/reprendre-le-controle-de-ses-pensees/maelle-rythme-horaires-alternes",
+        "posts/reprendre-le-controle-de-ses-pensees/malik-adaptation-ressources-concretes",
+        "posts/reprendre-le-controle-de-ses-pensees/malik-demarches-charge-mentale",
+        "posts/reprendre-le-controle-de-ses-pensees/remi-memoire-consignes-visibles",
+        "posts/reprendre-le-controle-de-ses-pensees/remi-transmettre-rappel-utile",
+        "posts/reprendre-le-controle-de-ses-pensees/vincent-charge-organisation-visible",
+        "posts/sortir-de-ses-schemas-repetitifs/maelle-recuperation-appuis",
+        "posts/sortir-de-ses-schemas-repetitifs/remi-habitudes-indices-contexte"
+      ],
+      "note": "Repères extérieurs utilisés dans neuf épisodes comme technique."
+    },
+    {
+      "id": "anticipatory_arousal",
+      "label": "Corps mobilisé avant un événement",
+      "domain": "body",
+      "subdomain": "body_arousal",
+      "secondary_articles": [
+        "posts/reprendre-le-controle-de-ses-pensees/maelle-inquietude-endormissement"
+      ],
+      "note": "Activation anticipatoire en appui de l’endormissement (Maëlle) ; l’anxiété (Sophie, Priya) l’évoque sans en faire l’objet."
+    },
+    {
+      "id": "observational_learning",
+      "label": "Apprendre en observant les autres",
+      "domain": "learning",
+      "subdomain": "learning_expectations",
+      "secondary_articles": [
+        "posts/reprendre-le-controle-de-ses-pensees/eloi-comparaison-collegues",
+        "posts/reprendre-le-controle-de-ses-pensees/eloi-sentiment-efficacite-essais"
+      ],
+      "note": "Développé dans la comparaison d’Éloi avec ses collègues (cf. audit_updates), mais l’épisode a pour sujet la comparaison."
+    },
+    {
+      "id": "affection_preferences",
+      "label": "Exprimer ses préférences de proximité",
+      "domain": "intimacy",
+      "subdomain": "intimacy_connection",
+      "secondary_articles": [
+        "posts/comprendre-et-maitriser-ses-emotions/ines-difference-desir-couple",
+        "posts/reprendre-le-controle-de-ses-pensees/ines-crainte-jugement-intimite",
+        "posts/sortir-de-ses-schemas-repetitifs/ines-moments-partages-sans-obligation",
+        "posts/sortir-de-ses-schemas-repetitifs/vincent-couple-place-aidance"
+      ],
+      "note": "Préférences de proximité en appui (Inès, Vincent)."
+    },
+    {
+      "id": "intimacy_communication",
+      "label": "Parler de son intimité à son rythme",
+      "domain": "intimacy",
+      "subdomain": "intimacy_consent",
+      "secondary_articles": [
+        "posts/reprendre-le-controle-de-ses-pensees/ines-crainte-jugement-intimite",
+        "posts/reprendre-le-controle-de-ses-pensees/ines-image-corps-intimite",
+        "posts/sortir-de-ses-schemas-repetitifs/ines-consentement-changer-avis",
+        "posts/sortir-de-ses-schemas-repetitifs/ines-parler-limite-intime",
+        "posts/sortir-de-ses-schemas-repetitifs/vincent-couple-place-aidance"
+      ],
+      "note": "Communication intime en appui (Inès, Vincent) ; l’épisode d’Inès sur une limite intime a pour sujet le consentement."
+    },
+    {
+      "id": "self_expression",
+      "label": "Choisir sa manière de se présenter",
+      "domain": "identity",
+      "subdomain": "identity_expression",
+      "secondary_articles": [
+        "posts/comprendre-et-maitriser-ses-emotions/anais-identite-au-dela-maladie",
+        "posts/reprendre-le-controle-de-ses-pensees/salome-continuite-soi-changements",
+        "posts/reprendre-le-controle-de-ses-pensees/salome-identite-au-dela-etiquette",
+        "posts/reprendre-le-controle-de-ses-pensees/salome-pression-normes-sociales",
+        "posts/sortir-de-ses-schemas-repetitifs/salome-nom-maniere-adressee"
+      ],
+      "note": "Expression de soi en appui de l’identité (Salomé, Anaïs)."
+    },
+    {
+      "id": "self_focused_attention",
+      "label": "Se surveiller pendant un échange",
+      "domain": "executive",
+      "subdomain": "executive_attention",
+      "secondary_articles": [
+        "posts/comprendre-et-maitriser-ses-emotions/remi-erreur-parole-retrait"
+      ],
+      "note": "Liaison secondaire unique (Rémi) ; l’effet spotlight (Lucas, Mei, Stéphane) traite la surestimation de l’attention d’autrui, voisine mais distincte."
+    }
+  ],
+  "missing_concepts": [
+    {
+      "id": "correlation_causation",
+      "label": "Corrélation n’est pas causalité",
+      "family": "Méthodes et pensée scientifique",
+      "importance": 1,
+      "justification": "Erreur de lecture la plus répandue des titres santé ; l’APA en fait un objectif de base des méthodes.",
+      "reference": "APA 2022, Démarche scientifique 4.2 ; écart apa_representative_sampling",
+      "proposed_character": "Apolline",
+      "nearest_existing": "La corrélation illusoire de Lucas porte sur un lien perçu inexistant, pas sur la causalité inférée d’un lien réel."
+    },
+    {
+      "id": "small_samples",
+      "label": "Loi des petits nombres et échantillon représentatif",
+      "family": "Méthodes et pensée scientifique",
+      "importance": 1,
+      "justification": "Généraliser à partir de quelques cas ou d’un public non représentatif est un piège quotidien (sondages, avis en ligne).",
+      "reference": "APA 2022, 2.3 ; écart apa_representative_sampling",
+      "proposed_character": "Apolline"
+    },
+    {
+      "id": "regression_to_mean",
+      "label": "Régression vers la moyenne",
+      "family": "Méthodes et pensée scientifique",
+      "importance": 1,
+      "justification": "Explique pourquoi un mauvais résultat est souvent suivi d’un meilleur, attribué à tort à une intervention.",
+      "reference": "Kahneman & Tversky ; méthodes APA",
+      "proposed_character": "Apolline"
+    },
+    {
+      "id": "replication_publication_bias",
+      "label": "Réplication et biais de publication",
+      "family": "Méthodes et pensée scientifique",
+      "importance": 2,
+      "justification": "Aide le public à relativiser un résultat spectaculaire isolé.",
+      "reference": "APA 2022, 2.3 ; écart apa_representative_sampling",
+      "proposed_character": "Apolline"
+    },
+    {
+      "id": "illusion_explanatory_depth",
+      "label": "Illusion de profondeur explicative",
+      "family": "Biais cognitifs",
+      "importance": 2,
+      "justification": "On croit comprendre un mécanisme familier jusqu’à devoir l’expliquer ; utile contre la surconfiance.",
+      "reference": "Rozenblit & Keil 2002",
+      "proposed_character": "Apolline",
+      "nearest_existing": "Dunning-Kruger (Sophie) porte sur l’estimation de sa compétence, pas sur la compréhension d’un mécanisme."
+    },
+    {
+      "id": "gamblers_fallacy",
+      "label": "Erreur du joueur",
+      "family": "Biais cognitifs",
+      "importance": 2,
+      "justification": "Croire qu’un événement aléatoire « doit » arriver après une série ; jeux, loto, attentes de « tour ».",
+      "reference": "Tversky & Kahneman 1971",
+      "proposed_character": "Apolline"
+    },
+    {
+      "id": "outcome_bias",
+      "label": "Biais de résultat",
+      "family": "Biais cognitifs",
+      "importance": 2,
+      "justification": "Juger une décision à son issue plutôt qu’à la qualité du raisonnement disponible.",
+      "reference": "Baron & Hershey 1988",
+      "proposed_character": "Apolline",
+      "nearest_existing": "Le biais rétrospectif (Margot, Monique) porte sur l’impression d’avoir su ; le biais de résultat sur l’évaluation de la décision."
+    },
+    {
+      "id": "self_serving_bias",
+      "label": "Biais d’auto-complaisance",
+      "family": "Biais cognitifs / attribution",
+      "importance": 1,
+      "justification": "S’attribuer ses réussites et attribuer ses échecs aux circonstances : biais d’attribution majeur absent du corpus.",
+      "reference": "Miller & Ross 1975 ; listes classiques de biais",
+      "proposed_character": "Apolline",
+      "nearest_existing": "L’erreur fondamentale d’attribution (Isabelle, Stéphane) porte sur les autres."
+    },
+    {
+      "id": "ambiguity_aversion",
+      "label": "Aversion à l’ambiguïté",
+      "family": "Biais cognitifs / décision",
+      "importance": 2,
+      "justification": "Préférer un risque connu à un risque inconnu, même moins favorable ; choix d’assurance, de placement, d’emploi.",
+      "reference": "Ellsberg 1961",
+      "proposed_character": "Apolline",
+      "nearest_existing": "Le besoin de certitude (Baptiste) porte sur l’incertitude vécue, pas sur ce choix entre options."
+    },
+    {
+      "id": "loss_aversion",
+      "label": "Aversion à la perte",
+      "family": "Biais cognitifs / décision",
+      "importance": 1,
+      "justification": "Une perte pèse environ deux fois plus qu’un gain équivalent ; concept central de l’économie comportementale.",
+      "reference": "Kahneman & Tversky 1979",
+      "proposed_character": "Apolline",
+      "nearest_existing": "Seulement mentionnée dans l’effet de dotation (Lucas) et le cadrage (Nadia)."
+    },
+    {
+      "id": "mental_accounting",
+      "label": "Comptabilité mentale",
+      "family": "Biais cognitifs / décision",
+      "importance": 2,
+      "justification": "Traiter l’argent différemment selon son origine ou son étiquette ; décisions budgétaires quotidiennes.",
+      "reference": "Thaler 1985",
+      "proposed_character": "Apolline"
+    },
+    {
+      "id": "proportionality_bias",
+      "label": "Biais de proportionnalité",
+      "family": "Biais cognitifs",
+      "importance": 2,
+      "justification": "Supposer qu’un grand événement a forcément une grande cause ; éclaire l’attrait des explications complotistes.",
+      "reference": "Leman & Cinnirella 2007",
+      "proposed_character": "Apolline"
+    },
+    {
+      "id": "forgetting_curve",
+      "label": "Courbe de l’oubli",
+      "family": "Mémoire",
+      "importance": 1,
+      "justification": "L’oubli rapide après un apprentissage est normal ; rassure et oriente les révisions.",
+      "reference": "Ebbinghaus 1885 ; APA Mémoire",
+      "proposed_character": "Romane"
+    },
+    {
+      "id": "fluency_illusion",
+      "label": "Illusion de maîtrise par la fluidité",
+      "family": "Mémoire / métacognition",
+      "importance": 1,
+      "justification": "Relire et surligner donnent une impression de savoir trompeuse ; erreur d’étude très répandue.",
+      "reference": "Bjork 1994 ; Dunlosky et al. 2013",
+      "proposed_character": "Romane"
+    },
+    {
+      "id": "learning_styles_myth",
+      "label": "Mythe des styles d’apprentissage",
+      "family": "Apprentissage",
+      "importance": 1,
+      "justification": "Croyance très répandue (« je suis visuel ») sans appui empirique pour l’adaptation de l’enseignement.",
+      "reference": "Pashler et al. 2008",
+      "proposed_character": "Romane"
+    },
+    {
+      "id": "testing_effect",
+      "label": "Effet de test (récupération active)",
+      "family": "Mémoire",
+      "importance": 1,
+      "justification": "Se tester consolide mieux que relire ; technique d’apprentissage la plus robuste.",
+      "reference": "Roediger & Karpicke 2006",
+      "proposed_character": "Romane"
+    },
+    {
+      "id": "spacing_effect",
+      "label": "Effet d’espacement",
+      "family": "Mémoire",
+      "importance": 1,
+      "justification": "Répartir les révisions dans le temps bat le bachotage ; utile à tout âge.",
+      "reference": "Cepeda et al. 2006",
+      "proposed_character": "Romane"
+    },
+    {
+      "id": "chunking",
+      "label": "Regroupement en unités (chunking)",
+      "family": "Mémoire",
+      "importance": 2,
+      "justification": "Montre comment contourner la capacité limitée de la mémoire à court terme.",
+      "reference": "Miller 1956 ; Cowan 2001",
+      "proposed_character": "Romane",
+      "nearest_existing": "La charge de mémoire de travail (Rémi) porte sur la surcharge, pas sur le regroupement."
+    },
+    {
+      "id": "tip_of_the_tongue",
+      "label": "Mot sur le bout de la langue",
+      "family": "Mémoire",
+      "importance": 2,
+      "justification": "Expérience universelle qui distingue stockage et accès à un souvenir.",
+      "reference": "Brown & McNeill 1966",
+      "proposed_character": "Romane"
+    },
+    {
+      "id": "context_dependent_memory",
+      "label": "Mémoire dépendante du contexte",
+      "family": "Mémoire",
+      "importance": 2,
+      "justification": "Le lieu ou l’état d’apprentissage aide le rappel ; explique des oublis « en situation ».",
+      "reference": "Godden & Baddeley 1975",
+      "proposed_character": "Romane"
+    },
+    {
+      "id": "reconstructive_memory",
+      "label": "Mémoire reconstructive et faux souvenirs",
+      "family": "Mémoire",
+      "importance": 1,
+      "justification": "Objectif APA explicite ; deux personnes sincères peuvent se souvenir différemment.",
+      "reference": "APA 2022, Mémoire 2.2 ; écart apa_memory_leading_question",
+      "proposed_character": "Romane",
+      "nearest_existing": "Les souvenirs incomplets des parcours cliniques (dissociation) sont des lacunes, pas des reconstructions ordinaires."
+    },
+    {
+      "id": "misinformation_effect",
+      "label": "Effet de désinformation (question orientée)",
+      "family": "Mémoire",
+      "importance": 1,
+      "justification": "Une question orientée peut modifier un témoignage ; écart APA resté ouvert.",
+      "reference": "Loftus & Palmer 1974 ; écart apa_memory_leading_question",
+      "proposed_character": "Romane"
+    },
+    {
+      "id": "flashbulb_memory",
+      "label": "Souvenirs flash",
+      "family": "Mémoire",
+      "importance": 2,
+      "justification": "La certitude d’un souvenir marquant ne garantit pas son exactitude.",
+      "reference": "Brown & Kulik 1977 ; Talarico & Rubin 2003",
+      "proposed_character": "Romane"
+    },
+    {
+      "id": "reminiscence_bump",
+      "label": "Bosse de réminiscence",
+      "family": "Mémoire / développement",
+      "importance": 2,
+      "justification": "Les souvenirs de 10-30 ans dominent le récit de vie ; éclaire les échanges entre générations.",
+      "reference": "Rubin et al. 1986",
+      "proposed_character": "Romane"
+    },
+    {
+      "id": "classical_conditioning",
+      "label": "Conditionnement classique",
+      "family": "Apprentissage",
+      "importance": 1,
+      "justification": "Mécanisme fondamental (Pavlov) des réactions apprises à un signal ; absent comme sujet.",
+      "reference": "APA 2022, Apprentissage",
+      "proposed_character": "Tristan"
+    },
+    {
+      "id": "operant_reinforcement",
+      "label": "Renforcement positif et négatif",
+      "family": "Apprentissage",
+      "importance": 1,
+      "justification": "Clarifie un contresens fréquent (renforcement négatif ≠ punition) et les cercles d’habitudes.",
+      "reference": "Skinner ; APA Apprentissage",
+      "proposed_character": "Tristan"
+    },
+    {
+      "id": "intermittent_reinforcement",
+      "label": "Renforcement intermittent",
+      "family": "Apprentissage",
+      "importance": 1,
+      "justification": "Explique la force des vérifications compulsives d’applications et notifications.",
+      "reference": "Ferster & Skinner 1957",
+      "proposed_character": "Tristan",
+      "nearest_existing": "L’attention captée (Rémi) porte sur l’interruption, pas sur le programme de renforcement."
+    },
+    {
+      "id": "extinction_burst",
+      "label": "Extinction et sursaut d’extinction",
+      "family": "Apprentissage",
+      "importance": 2,
+      "justification": "Un comportement non renforcé s’intensifie avant de diminuer ; utile aux parents.",
+      "reference": "Lerman & Iwata 1995",
+      "proposed_character": "Tristan"
+    },
+    {
+      "id": "stimulus_generalization",
+      "label": "Généralisation du stimulus",
+      "family": "Apprentissage",
+      "importance": 2,
+      "justification": "Une peur apprise s’étend à des signaux semblables ; mécanisme ordinaire hors trouble.",
+      "reference": "Watson & Rayner 1920 ; APA",
+      "proposed_character": "Tristan"
+    },
+    {
+      "id": "shaping",
+      "label": "Façonnement par approximations successives",
+      "family": "Apprentissage",
+      "importance": 2,
+      "justification": "Apprendre un geste complexe par étapes renforcées.",
+      "reference": "Skinner",
+      "proposed_character": "Tristan",
+      "nearest_existing": "Les petits objectifs (Baptiste) découpent un projet ; le façonnement renforce des approximations d’un comportement."
+    },
+    {
+      "id": "habituation_sensitization",
+      "label": "Habituation et sensibilisation",
+      "family": "Apprentissage / perception",
+      "importance": 2,
+      "justification": "Pourquoi on cesse d’entendre un bruit constant mais devient plus réactif à un bruit irrégulier.",
+      "reference": "Groves & Thompson 1970",
+      "proposed_character": "Tristan"
+    },
+    {
+      "id": "hedonic_adaptation",
+      "label": "Adaptation hédonique",
+      "family": "Émotions / bien-être",
+      "importance": 1,
+      "justification": "Le plaisir d’un achat ou d’un changement s’estompe ; clé du rapport au bonheur.",
+      "reference": "Brickman & Campbell 1971 ; Lyubomirsky",
+      "proposed_character": "Tristan"
+    },
+    {
+      "id": "reward_prediction_error",
+      "label": "Erreur de prédiction de la récompense",
+      "family": "Motivation / récompense",
+      "importance": 2,
+      "justification": "Écart RDoC resté ouvert : c’est la surprise, pas la récompense, qui modifie l’apprentissage.",
+      "reference": "Schultz 1997 ; écart rdoc_reward_prediction_error",
+      "proposed_character": "Tristan"
+    },
+    {
+      "id": "overjustification",
+      "label": "Effet de surjustification",
+      "family": "Motivation",
+      "importance": 2,
+      "justification": "Une récompense extérieure peut réduire l’envie d’une activité appréciée.",
+      "reference": "Lepper, Greene & Nisbett 1973",
+      "proposed_character": "Tristan",
+      "nearest_existing": "La motivation par intérêt (Éloi) décrit l’intérêt, pas son érosion par la récompense."
+    },
+    {
+      "id": "flow",
+      "label": "Flow (expérience optimale)",
+      "family": "Motivation / attention",
+      "importance": 1,
+      "justification": "Concept majeur de psychologie positive : équilibre défi-compétence et absorption.",
+      "reference": "Csikszentmihalyi 1990",
+      "proposed_character": "Tristan"
+    },
+    {
+      "id": "implementation_intentions",
+      "label": "Intentions de mise en œuvre « si… alors »",
+      "family": "Motivation / autorégulation",
+      "importance": 2,
+      "justification": "Technique validée qui relie une intention à un déclencheur précis.",
+      "reference": "Gollwitzer 1999",
+      "proposed_character": "Tristan",
+      "nearest_existing": "Les indices d’habitude (Rémi) décrivent l’automatisme existant, pas la planification si-alors."
+    },
+    {
+      "id": "bystander_effect",
+      "label": "Effet du témoin",
+      "family": "Psychologie sociale",
+      "importance": 1,
+      "justification": "Plus on est nombreux, moins chacun aide ; signalé manquant par l’audit du 6 novembre.",
+      "reference": "Darley & Latané 1968 ; APA Psychologie sociale",
+      "proposed_character": "Capucine"
+    },
+    {
+      "id": "social_loafing",
+      "label": "Paresse sociale",
+      "family": "Psychologie sociale",
+      "importance": 1,
+      "justification": "Moins d’effort individuel dans un travail collectif ; vie professionnelle et associative.",
+      "reference": "Latané, Williams & Harkins 1979",
+      "proposed_character": "Capucine"
+    },
+    {
+      "id": "pluralistic_ignorance",
+      "label": "Ignorance pluraliste",
+      "family": "Psychologie sociale",
+      "importance": 1,
+      "justification": "Chacun croit être seul à douter et se tait ; explique beaucoup de silences de groupe.",
+      "reference": "Prentice & Miller 1993",
+      "proposed_character": "Capucine",
+      "nearest_existing": "La pensée de groupe (Thomas) porte sur la cohésion d’une équipe décisionnelle, le conformisme (Djamila) sur l’alignement."
+    },
+    {
+      "id": "group_polarization",
+      "label": "Polarisation de groupe",
+      "family": "Psychologie sociale",
+      "importance": 2,
+      "justification": "La discussion entre semblables radicalise les positions ; groupes de messagerie et réseaux.",
+      "reference": "Moscovici & Zavalloni 1969",
+      "proposed_character": "Capucine"
+    },
+    {
+      "id": "scapegoating",
+      "label": "Bouc émissaire",
+      "family": "Psychologie sociale",
+      "importance": 2,
+      "justification": "Désigner un coupable pour décharger une frustration collective.",
+      "reference": "Allport 1954",
+      "proposed_character": "Capucine"
+    },
+    {
+      "id": "stereotype_threat",
+      "label": "Menace du stéréotype",
+      "family": "Psychologie sociale / identités",
+      "importance": 1,
+      "justification": "Craindre de confirmer un stéréotype dégrade la performance ; demandé par l’audit (cultures et genres).",
+      "reference": "Steele & Aronson 1995 ; APA Diversité socioculturelle",
+      "proposed_character": "Capucine"
+    },
+    {
+      "id": "reactance",
+      "label": "Réactance psychologique",
+      "family": "Psychologie sociale / motivation",
+      "importance": 1,
+      "justification": "Une contrainte perçue pousse à faire l’inverse ; parents, santé publique, couple.",
+      "reference": "Brehm 1966",
+      "proposed_character": "Capucine"
+    },
+    {
+      "id": "foot_in_door",
+      "label": "Pied-dans-la-porte",
+      "family": "Influence et persuasion",
+      "importance": 2,
+      "justification": "Une petite demande acceptée en facilite une plus grande ; démarchage et engagement.",
+      "reference": "Freedman & Fraser 1966 ; Joule & Beauvois",
+      "proposed_character": "Capucine",
+      "nearest_existing": "L’escalade d’engagement (Karim) porte sur un investissement personnel, pas sur la technique d’autrui."
+    },
+    {
+      "id": "reciprocity_persuasion",
+      "label": "Norme de réciprocité dans la persuasion",
+      "family": "Influence et persuasion",
+      "importance": 2,
+      "justification": "Un cadeau crée une dette ressentie exploitée commercialement.",
+      "reference": "Cialdini 1984",
+      "proposed_character": "Capucine",
+      "nearest_existing": "La réciprocité relationnelle (Aline) porte sur l’équilibre d’une relation, pas sur l’influence."
+    },
+    {
+      "id": "scarcity_effect",
+      "label": "Effet de rareté",
+      "family": "Influence et persuasion",
+      "importance": 2,
+      "justification": "« Plus que deux places » augmente la valeur perçue ; achats et décisions précipitées.",
+      "reference": "Worchel et al. 1975 ; Cialdini",
+      "proposed_character": "Capucine"
+    },
+    {
+      "id": "cognitive_dissonance",
+      "label": "Dissonance cognitive",
+      "family": "Psychologie sociale",
+      "importance": 1,
+      "justification": "Concept majeur : l’inconfort entre un acte et une conviction pousse à modifier l’un ou l’autre.",
+      "reference": "Festinger 1957",
+      "proposed_character": "Capucine",
+      "nearest_existing": "Seulement mentionnée dans la rationalisation (Priya) et l’imposture (Camille) ; ici l’accent est mis sur l’écart acte-valeur et ses issues."
+    },
+    {
+      "id": "intergroup_contact",
+      "label": "Contact intergroupe",
+      "family": "Psychologie sociale",
+      "importance": 2,
+      "justification": "Conditions dans lesquelles la rencontre réduit les préjugés.",
+      "reference": "Allport 1954 ; Pettigrew & Tropp 2006",
+      "proposed_character": "Capucine",
+      "nearest_existing": "Le favoritisme envers son groupe (Isabelle) décrit le biais, pas ce qui l’atténue."
+    },
+    {
+      "id": "social_facilitation",
+      "label": "Facilitation sociale",
+      "family": "Psychologie sociale",
+      "importance": 2,
+      "justification": "La présence d’autrui améliore les tâches maîtrisées et gêne les tâches nouvelles.",
+      "reference": "Zajonc 1965",
+      "proposed_character": null
+    },
+    {
+      "id": "deindividuation",
+      "label": "Désindividuation",
+      "family": "Psychologie sociale",
+      "importance": 3,
+      "justification": "Anonymat et foule réduisent l’autocontrôle ; commentaires en ligne.",
+      "reference": "Zimbardo ; Postmes & Spears 1998",
+      "proposed_character": null
+    },
+    {
+      "id": "outgroup_homogeneity",
+      "label": "Homogénéité de l’exogroupe",
+      "family": "Psychologie sociale",
+      "importance": 2,
+      "justification": "« Ils sont tous pareils » : base perceptive des stéréotypes.",
+      "reference": "Quattrone & Jones 1980",
+      "proposed_character": null
+    },
+    {
+      "id": "priming",
+      "label": "Amorçage",
+      "family": "Cognition sociale",
+      "importance": 3,
+      "justification": "Concept connu du public mais aux résultats comportementaux peu répliqués ; à traiter avec prudence.",
+      "reference": "Bargh 1996 ; débats de réplication",
+      "proposed_character": null
+    },
+    {
+      "id": "big_five",
+      "label": "Les cinq grands traits de personnalité",
+      "family": "Personnalité",
+      "importance": 1,
+      "justification": "Modèle de référence de la personnalité ; l’audit demande un épisode sur les traits ordinaires.",
+      "reference": "McCrae & Costa ; APA Personnalité",
+      "proposed_character": "Ambroise"
+    },
+    {
+      "id": "introversion_extraversion",
+      "label": "Introversion et extraversion",
+      "family": "Personnalité",
+      "importance": 1,
+      "justification": "Dimension la plus discutée par le grand public, souvent confondue avec la timidité.",
+      "reference": "Eysenck ; Big Five",
+      "proposed_character": "Ambroise"
+    },
+    {
+      "id": "person_situation",
+      "label": "Interaction personne-situation",
+      "family": "Personnalité",
+      "importance": 2,
+      "justification": "Un trait s’exprime selon les situations ; nuance les étiquettes.",
+      "reference": "Mischel 1968 ; Fleeson 2001",
+      "proposed_character": "Ambroise"
+    },
+    {
+      "id": "test_reliability_validity",
+      "label": "Fidélité et validité d’un test de personnalité",
+      "family": "Personnalité / mesure",
+      "importance": 1,
+      "justification": "Éclaire les questionnaires populaires (types) et ce qu’un score peut dire ; demandé par l’audit.",
+      "reference": "APA 2022, 2.2-2.3 ; standards de mesure",
+      "proposed_character": "Ambroise",
+      "nearest_existing": "L’effet Barnum (Lucas) explique l’adhésion à une description vague, pas la fidélité d’un test."
+    },
+    {
+      "id": "iq_measurement",
+      "label": "Ce que mesure un score de QI",
+      "family": "Intelligence",
+      "importance": 1,
+      "justification": "Écart APA resté ouvert : performance, mesure standardisée, marge d’erreur et interprétation.",
+      "reference": "APA 2022 ; écart apa_intelligence_measurement",
+      "proposed_character": "Ambroise"
+    },
+    {
+      "id": "similar_to_me",
+      "label": "Effet « semblable à moi » (homophilie)",
+      "family": "Cognition sociale",
+      "importance": 2,
+      "justification": "Préférer ceux qui nous ressemblent biaise recrutements et amitiés.",
+      "reference": "Byrne 1971 ; McPherson et al. 2001",
+      "proposed_character": "Ambroise"
+    },
+    {
+      "id": "contrast_effect",
+      "label": "Effet de contraste",
+      "family": "Biais cognitifs",
+      "importance": 2,
+      "justification": "Une évaluation dépend de ce qui la précède (candidat, prix, partenaire).",
+      "reference": "Sherif & Hovland ; recherches sur l’entretien",
+      "proposed_character": "Ambroise"
+    },
+    {
+      "id": "impression_management",
+      "label": "Présentation de soi et gestion des impressions",
+      "family": "Psychologie sociale",
+      "importance": 1,
+      "justification": "Comment on ajuste l’image donnée ; entretiens, réseaux, première rencontre.",
+      "reference": "Goffman 1959 ; Leary & Kowalski 1990",
+      "proposed_character": "Ambroise",
+      "nearest_existing": "L’expression de soi (Salomé) porte sur l’identité choisie, pas sur la gestion stratégique d’une impression."
+    },
+    {
+      "id": "locus_of_control",
+      "label": "Lieu de contrôle",
+      "family": "Personnalité / motivation",
+      "importance": 1,
+      "justification": "Attribuer ses résultats à soi ou à l’extérieur influence l’effort ; très utilisé dans le grand public.",
+      "reference": "Rotter 1966",
+      "proposed_character": "Ambroise",
+      "nearest_existing": "L’illusion de contrôle (Karim, Nadia) surestime son influence sur le hasard."
+    },
+    {
+      "id": "sensation_seeking",
+      "label": "Recherche de sensations",
+      "family": "Personnalité",
+      "importance": 2,
+      "justification": "Trait qui éclaire les prises de risque adolescentes et adultes sans pathologiser.",
+      "reference": "Zuckerman 1979",
+      "proposed_character": "Ambroise"
+    },
+    {
+      "id": "personality_maturity",
+      "label": "Évolution de la personnalité avec l’âge",
+      "family": "Personnalité / développement",
+      "importance": 2,
+      "justification": "Les traits changent modestement au cours de la vie (principe de maturité).",
+      "reference": "Roberts et al. 2006",
+      "proposed_character": "Ambroise"
+    },
+    {
+      "id": "divergent_thinking",
+      "label": "Pensée divergente et créativité",
+      "family": "Cognition",
+      "importance": 2,
+      "justification": "La créativité est absente comme processus cognitif ; utile au travail et à l’école.",
+      "reference": "Guilford 1950 ; Diehl & Stroebe 1987",
+      "proposed_character": "Ambroise"
+    },
+    {
+      "id": "temperament",
+      "label": "Tempérament de l’enfant",
+      "family": "Développement",
+      "importance": 1,
+      "justification": "Les différences précoces de réactivité éclairent la parentalité sans culpabiliser.",
+      "reference": "Thomas & Chess 1977 ; Rothbart",
+      "proposed_character": "Joséphine"
+    },
+    {
+      "id": "parenting_styles",
+      "label": "Styles parentaux",
+      "family": "Développement",
+      "importance": 1,
+      "justification": "Chaleur et cadre : référence la plus citée en éducation familiale.",
+      "reference": "Baumrind 1966 ; Maccoby & Martin 1983",
+      "proposed_character": "Joséphine"
+    },
+    {
+      "id": "theory_of_mind",
+      "label": "Théorie de l’esprit chez l’enfant",
+      "family": "Développement",
+      "importance": 2,
+      "justification": "Comprendre que l’autre a des croyances différentes ; étape clé vers 4-5 ans.",
+      "reference": "Wimmer & Perner 1983",
+      "proposed_character": "Joséphine"
+    },
+    {
+      "id": "piaget_conservation",
+      "label": "Stades de Piaget et conservation",
+      "family": "Développement",
+      "importance": 2,
+      "justification": "Classique de l’APA développement ; éclaire les « illogismes » enfantins, avec nuances actuelles.",
+      "reference": "Piaget ; APA Développement",
+      "proposed_character": "Joséphine"
+    },
+    {
+      "id": "symbolic_play",
+      "label": "Jeu symbolique",
+      "family": "Développement",
+      "importance": 2,
+      "justification": "Le faire-semblant soutient langage, régulation et compréhension sociale.",
+      "reference": "Vygotski ; Lillard et al. 2013",
+      "proposed_character": "Joséphine"
+    },
+    {
+      "id": "language_acquisition",
+      "label": "Acquisition du langage et surgénéralisation",
+      "family": "Développement / langage",
+      "importance": 2,
+      "justification": "Les « erreurs » comme « il a prendu » montrent l’apprentissage de règles.",
+      "reference": "APA Langage ; Pinker",
+      "proposed_character": "Joséphine"
+    },
+    {
+      "id": "delay_of_gratification",
+      "label": "Délai de gratification chez l’enfant",
+      "family": "Développement / autorégulation",
+      "importance": 2,
+      "justification": "Test du chamallow souvent mal interprété ; le contexte compte.",
+      "reference": "Mischel 1972 ; Watts et al. 2018",
+      "proposed_character": "Joséphine",
+      "nearest_existing": "Le soi de demain (Baptiste) traite la récompense différée chez l’adulte."
+    },
+    {
+      "id": "infantile_amnesia",
+      "label": "Amnésie infantile",
+      "family": "Développement / mémoire",
+      "importance": 2,
+      "justification": "Pourquoi les premières années ne laissent presque pas de souvenirs.",
+      "reference": "Bauer 2014",
+      "proposed_character": "Joséphine"
+    },
+    {
+      "id": "adolescent_peer_reward",
+      "label": "Adolescence, pairs et prise de risque",
+      "family": "Développement",
+      "importance": 1,
+      "justification": "La présence des pairs augmente la prise de risque à l’adolescence ; préoccupation parentale majeure.",
+      "reference": "Steinberg 2008 ; Gardner & Steinberg 2005",
+      "proposed_character": "Joséphine"
+    },
+    {
+      "id": "erikson_generativity",
+      "label": "Générativité (Erikson)",
+      "family": "Développement / milieu de vie",
+      "importance": 2,
+      "justification": "Le besoin de transmettre au milieu de la vie ; donne un cadre au questionnement des 35-60 ans.",
+      "reference": "Erikson 1950 ; McAdams",
+      "proposed_character": "Joséphine"
+    },
+    {
+      "id": "socioemotional_selectivity",
+      "label": "Sélectivité socio-émotionnelle",
+      "family": "Développement / vieillissement",
+      "importance": 2,
+      "justification": "Avec l’âge, on privilégie moins de liens mais plus significatifs ; corrige l’idée d’un repli.",
+      "reference": "Carstensen 1992",
+      "proposed_character": "Joséphine"
+    },
+    {
+      "id": "selection_optimization_compensation",
+      "label": "Sélection, optimisation, compensation",
+      "family": "Développement / vieillissement",
+      "importance": 2,
+      "justification": "Modèle d’adaptation au vieillissement par choix et compensations.",
+      "reference": "Baltes & Baltes 1990",
+      "proposed_character": "Joséphine"
+    },
+    {
+      "id": "emotional_contagion",
+      "label": "Contagion émotionnelle",
+      "family": "Émotions sociales",
+      "importance": 1,
+      "justification": "Les émotions se transmettent dans un groupe ; famille, travail, réseaux.",
+      "reference": "Hatfield, Cacioppo & Rapson 1994",
+      "proposed_character": "Valentin"
+    },
+    {
+      "id": "surprise",
+      "label": "Surprise",
+      "family": "Émotions de base",
+      "importance": 2,
+      "justification": "Seule émotion de base d’Ekman sans épisode ; brève, elle réoriente l’attention.",
+      "reference": "Ekman ; Meyer et al. 1997",
+      "proposed_character": "Valentin"
+    },
+    {
+      "id": "shyness",
+      "label": "Timidité",
+      "family": "Émotions / personnalité",
+      "importance": 1,
+      "justification": "Très fréquente, souvent confondue avec l’introversion ou l’anxiété sociale clinique.",
+      "reference": "Cheek & Buss 1981",
+      "proposed_character": "Valentin"
+    },
+    {
+      "id": "four_horsemen",
+      "label": "Les quatre cavaliers de Gottman",
+      "family": "Relations / couple",
+      "importance": 1,
+      "justification": "Critique, mépris, défensive, mur : modèle de couple le plus diffusé.",
+      "reference": "Gottman 1994",
+      "proposed_character": "Valentin"
+    },
+    {
+      "id": "demand_withdraw",
+      "label": "Cycle demande-retrait",
+      "family": "Relations / couple",
+      "importance": 1,
+      "justification": "L’un poursuit, l’autre se retire : schéma de dispute très commun.",
+      "reference": "Christensen & Heavey 1990",
+      "proposed_character": "Valentin"
+    },
+    {
+      "id": "capitalization",
+      "label": "Réponse active-constructive aux bonnes nouvelles",
+      "family": "Relations",
+      "importance": 2,
+      "justification": "La façon d’accueillir les bonnes nouvelles de l’autre prédit la qualité du lien.",
+      "reference": "Gable et al. 2004",
+      "proposed_character": "Valentin"
+    },
+    {
+      "id": "triangular_love",
+      "label": "Théorie triangulaire de l’amour",
+      "family": "Relations / couple",
+      "importance": 1,
+      "justification": "Passion, intimité, engagement : éclaire l’évolution de l’amour dans la durée.",
+      "reference": "Sternberg 1986 ; Hatfield",
+      "proposed_character": "Valentin"
+    },
+    {
+      "id": "passive_aggression",
+      "label": "Agressivité passive",
+      "family": "Mécanismes de défense",
+      "importance": 1,
+      "justification": "Exprimer une hostilité de façon indirecte ; défense très reconnue du grand public.",
+      "reference": "Vaillant ; DMRS (niveau des défenses d’action)",
+      "proposed_character": "Valentin"
+    },
+    {
+      "id": "projection_defense",
+      "label": "Projection (mécanisme de défense)",
+      "family": "Mécanismes de défense",
+      "importance": 1,
+      "justification": "Attribuer à autrui ce que l’on ne reconnaît pas en soi ; distinct du biais de projection.",
+      "reference": "A. Freud ; Vaillant ; DMRS",
+      "proposed_character": "Valentin",
+      "nearest_existing": "La « projection sociale » de Youssef est un biais (supposer que l’autre pense comme soi)."
+    },
+    {
+      "id": "co_rumination",
+      "label": "Co-rumination",
+      "family": "Relations / pensées",
+      "importance": 2,
+      "justification": "Ressasser à deux soulage et entretient à la fois ; amitiés proches.",
+      "reference": "Rose 2002",
+      "proposed_character": "Valentin"
+    },
+    {
+      "id": "schadenfreude",
+      "label": "Joie maligne (Schadenfreude)",
+      "family": "Émotions sociales",
+      "importance": 2,
+      "justification": "Émotion sociale ambiguë, souvent honteuse, liée à la comparaison.",
+      "reference": "Smith et al. 1996",
+      "proposed_character": "Valentin"
+    },
+    {
+      "id": "affective_forecasting",
+      "label": "Prévision affective et biais d’impact",
+      "family": "Émotions / décision",
+      "importance": 1,
+      "justification": "On surestime l’intensité et la durée de ses émotions futures ; éclaire les grands choix.",
+      "reference": "Wilson & Gilbert 2003",
+      "proposed_character": "Valentin"
+    },
+    {
+      "id": "internal_working_models",
+      "label": "Modèles internes opérants",
+      "family": "Attachement",
+      "importance": 2,
+      "justification": "Les attentes relationnelles issues de l’enfance guident les liens adultes.",
+      "reference": "Bowlby 1973 ; Bretherton",
+      "proposed_character": "Hadrien"
+    },
+    {
+      "id": "identification_aggressor",
+      "label": "Identification à l’agresseur",
+      "family": "Mécanismes de défense",
+      "importance": 2,
+      "justification": "Reprendre l’attitude de celui qui nous a dominé ; explique des répétitions.",
+      "reference": "A. Freud 1936 ; Ferenczi",
+      "proposed_character": "Hadrien"
+    },
+    {
+      "id": "help_rejecting_complaining",
+      "label": "Plainte avec rejet de l’aide",
+      "family": "Mécanismes de défense",
+      "importance": 2,
+      "justification": "Se plaindre et refuser chaque solution ; défense du DMRS fréquente dans les familles.",
+      "reference": "Perry, DMRS",
+      "proposed_character": "Hadrien"
+    },
+    {
+      "id": "autistic_fantasy",
+      "label": "Rêverie compensatoire",
+      "family": "Mécanismes de défense",
+      "importance": 2,
+      "justification": "S’évader dans des rêveries au lieu d’agir ou de parler ; défense DMRS.",
+      "reference": "Perry, DMRS ; Vaillant",
+      "proposed_character": "Hadrien"
+    },
+    {
+      "id": "crying",
+      "label": "Pleurer et fonctions des larmes",
+      "family": "Émotions",
+      "importance": 2,
+      "justification": "Les larmes ont des fonctions sociales et apaisantes ; souvent vécues comme honteuses.",
+      "reference": "Vingerhoets 2013",
+      "proposed_character": "Hadrien"
+    },
+    {
+      "id": "admiration",
+      "label": "Admiration",
+      "family": "Émotions sociales",
+      "importance": 2,
+      "justification": "Émotion d’élévation qui motive, à distinguer de l’envie déjà traitée.",
+      "reference": "Algoe & Haidt 2009",
+      "proposed_character": "Hadrien",
+      "nearest_existing": "Le « besoin d’admiration » de Renaud est une facette d’un trouble, pas l’émotion ressentie."
+    },
+    {
+      "id": "curiosity",
+      "label": "Curiosité",
+      "family": "Émotions / motivation",
+      "importance": 1,
+      "justification": "Moteur de l’apprentissage tout au long de la vie, sans épisode.",
+      "reference": "Berlyne ; Kidd & Hayden 2015 ; Loewenstein",
+      "proposed_character": "Hadrien"
+    },
+    {
+      "id": "altruism_defense",
+      "label": "Altruisme (défense mature)",
+      "family": "Mécanismes de défense",
+      "importance": 2,
+      "justification": "Transformer une détresse en aide gratifiante ; défense mature de Vaillant.",
+      "reference": "Vaillant 1977 ; DMRS",
+      "proposed_character": "Hadrien",
+      "nearest_existing": "L’abnégation (Camille, Sophie, Thomas) est un schéma coûteux, pas une défense adaptative."
+    },
+    {
+      "id": "anticipation_defense",
+      "label": "Anticipation (défense mature)",
+      "family": "Mécanismes de défense",
+      "importance": 2,
+      "justification": "Préparer de façon réaliste ses réactions à une épreuve future.",
+      "reference": "Vaillant ; DMRS",
+      "proposed_character": "Hadrien",
+      "nearest_existing": "Les scénarios « et si » (Léa) sont une inquiétude, pas une préparation réaliste."
+    },
+    {
+      "id": "contentment",
+      "label": "Contentement et sérénité",
+      "family": "Émotions positives",
+      "importance": 2,
+      "justification": "Émotion positive de faible intensité, absente alors que joie et euphorie sont traitées.",
+      "reference": "Fredrickson 1998 ; Russell",
+      "proposed_character": "Hadrien"
+    },
+    {
+      "id": "forgiveness",
+      "label": "Pardonner",
+      "family": "Relations / émotions",
+      "importance": 1,
+      "justification": "Processus distinct de l’oubli ou de la réconciliation, très recherché par le grand public.",
+      "reference": "Enright ; Worthington ; McCullough",
+      "proposed_character": "Hadrien",
+      "nearest_existing": "Malou (clinique) répare sans exiger d’être pardonnée ; ici il s’agit d’accorder un pardon."
+    },
+    {
+      "id": "earned_security",
+      "label": "Sécurité acquise",
+      "family": "Attachement",
+      "importance": 2,
+      "justification": "L’attachement peut devenir plus sécure à l’âge adulte ; message d’espoir fondé.",
+      "reference": "Main ; Roisman et al. 2002",
+      "proposed_character": "Hadrien"
+    },
+    {
+      "id": "stress_appraisal",
+      "label": "Évaluation du stress (Lazarus)",
+      "family": "Stress et santé",
+      "importance": 1,
+      "justification": "Le stress dépend de l’évaluation de la menace et des ressources ; modèle de référence.",
+      "reference": "Lazarus & Folkman 1984 ; APA Santé",
+      "proposed_character": "Coralie"
+    },
+    {
+      "id": "yerkes_dodson",
+      "label": "Activation et performance (Yerkes-Dodson)",
+      "family": "Stress et santé",
+      "importance": 1,
+      "justification": "Un peu de pression aide, trop nuit : notion utile au travail et aux examens.",
+      "reference": "Yerkes & Dodson 1908 ; Diamond et al. 2007",
+      "proposed_character": "Coralie"
+    },
+    {
+      "id": "allostatic_load",
+      "label": "Stress chronique et charge allostatique",
+      "family": "Stress et santé / biologie",
+      "importance": 2,
+      "justification": "Distinguer stress aigu et usure du stress prolongé.",
+      "reference": "McEwen 1998",
+      "proposed_character": "Coralie"
+    },
+    {
+      "id": "inattentional_blindness",
+      "label": "Cécité inattentionnelle",
+      "family": "Perception / attention",
+      "importance": 1,
+      "justification": "Ne pas voir ce qui est sous les yeux quand l’attention est ailleurs ; erreurs et sécurité.",
+      "reference": "Simons & Chabris 1999",
+      "proposed_character": "Coralie"
+    },
+    {
+      "id": "placebo",
+      "label": "Effet placebo",
+      "family": "Santé / biologie",
+      "importance": 1,
+      "justification": "Les attentes modifient des symptômes ressentis ; très mal compris du public.",
+      "reference": "Benedetti 2008",
+      "proposed_character": "Coralie"
+    },
+    {
+      "id": "nocebo",
+      "label": "Effet nocebo",
+      "family": "Santé / biologie",
+      "importance": 2,
+      "justification": "Lire des effets indésirables peut les faire ressentir.",
+      "reference": "Colloca & Miller 2011",
+      "proposed_character": "Coralie"
+    },
+    {
+      "id": "pain_attention",
+      "label": "Douleur, attention et contexte",
+      "family": "Perception / santé",
+      "importance": 2,
+      "justification": "La douleur varie avec l’attention et le contexte (contrôle de la porte).",
+      "reference": "Melzack & Wall 1965",
+      "proposed_character": "Coralie"
+    },
+    {
+      "id": "mind_wandering",
+      "label": "Vagabondage de l’esprit",
+      "family": "Conscience / attention",
+      "importance": 2,
+      "justification": "L’esprit s’évade une grande partie du temps ; effets sur l’humeur et la créativité.",
+      "reference": "Killingsworth & Gilbert 2010 ; Smallwood",
+      "proposed_character": "Coralie"
+    },
+    {
+      "id": "dreams",
+      "label": "Rêves : ce qu’on en sait",
+      "family": "Conscience / sommeil",
+      "importance": 2,
+      "justification": "L’audit signale les rêves comme manquants ; sujet très demandé.",
+      "reference": "APA États de conscience ; Domhoff",
+      "proposed_character": "Coralie"
+    },
+    {
+      "id": "neuroplasticity",
+      "label": "Plasticité cérébrale à l’âge adulte",
+      "family": "Biologie / apprentissage",
+      "importance": 1,
+      "justification": "Le cerveau adulte continue de se modifier avec la pratique.",
+      "reference": "APA Bases biologiques ; Draganski 2004",
+      "proposed_character": "Coralie"
+    },
+    {
+      "id": "post_traumatic_growth",
+      "label": "Croissance après une épreuve",
+      "family": "Stress et santé",
+      "importance": 2,
+      "justification": "Changements positifs rapportés après une épreuve, sans idéaliser la souffrance.",
+      "reference": "Tedeschi & Calhoun 1996",
+      "proposed_character": "Coralie",
+      "nearest_existing": "La résilience (Patrick) porte sur l’adaptation, pas sur les changements perçus."
+    },
+    {
+      "id": "choosing_therapy",
+      "label": "Choisir une psychothérapie et alliance thérapeutique",
+      "family": "Traitements",
+      "importance": 1,
+      "justification": "Unité APA « traitements » sans épisode général : approches, professionnels, alliance.",
+      "reference": "APA 2022, Traitement ; Wampold",
+      "proposed_character": "Coralie",
+      "nearest_existing": "Les parcours cliniques décrivent des thérapies propres à un trouble."
+    },
+    {
+      "id": "change_blindness",
+      "label": "Cécité au changement",
+      "family": "Perception / attention",
+      "importance": 2,
+      "justification": "Ne pas remarquer un changement visible entre deux vues.",
+      "reference": "Simons & Levin 1997",
+      "proposed_character": null
+    },
+    {
+      "id": "time_perception",
+      "label": "Perception subjective du temps",
+      "family": "Perception",
+      "importance": 2,
+      "justification": "Le temps paraît plus long ou plus court selon l’attention et l’émotion.",
+      "reference": "Droit-Volet & Meck 2007",
+      "proposed_character": null
+    },
+    {
+      "id": "deja_vu",
+      "label": "Déjà-vu",
+      "family": "Mémoire / conscience",
+      "importance": 3,
+      "justification": "Expérience fréquente et intrigante, bien expliquée par la familiarité.",
+      "reference": "Brown 2003",
+      "proposed_character": null
+    },
+    {
+      "id": "pygmalion_effect",
+      "label": "Effet Pygmalion",
+      "family": "Psychologie sociale",
+      "importance": 2,
+      "justification": "Les attentes d’autrui influencent la performance ; voisin des prophéties autoréalisatrices de Karim, à distinguer.",
+      "reference": "Rosenthal & Jacobson 1968",
+      "proposed_character": null
+    },
+    {
+      "id": "door_in_face",
+      "label": "Porte-au-nez",
+      "family": "Influence et persuasion",
+      "importance": 3,
+      "justification": "Une demande excessive refusée facilite une demande modérée.",
+      "reference": "Cialdini et al. 1975",
+      "proposed_character": null
+    },
+    {
+      "id": "minority_influence",
+      "label": "Influence minoritaire",
+      "family": "Psychologie sociale",
+      "importance": 3,
+      "justification": "Une minorité constante peut faire évoluer un groupe.",
+      "reference": "Moscovici 1969",
+      "proposed_character": null
+    },
+    {
+      "id": "actor_observer",
+      "label": "Asymétrie acteur-observateur",
+      "family": "Attribution",
+      "importance": 3,
+      "justification": "Proche de l’erreur fondamentale d’attribution déjà traitée.",
+      "reference": "Jones & Nisbett 1971",
+      "proposed_character": null
+    },
+    {
+      "id": "neurotransmitter_myths",
+      "label": "Neurotransmetteurs et idées reçues (dopamine, sérotonine)",
+      "family": "Biologie",
+      "importance": 2,
+      "justification": "Le vocabulaire « shoot de dopamine » est omniprésent et souvent faux.",
+      "reference": "APA Bases biologiques",
+      "proposed_character": null
+    },
+    {
+      "id": "hypnosis",
+      "label": "Hypnose : ce qu’elle est et n’est pas",
+      "family": "Conscience",
+      "importance": 3,
+      "justification": "Curiosité du public, efficacité dépendante du contexte clinique.",
+      "reference": "APA États de conscience",
+      "proposed_character": null
+    },
+    {
+      "id": "icf_capacity_performance",
+      "label": "Capacité et performance (CIF)",
+      "family": "Fonctionnement",
+      "importance": 3,
+      "justification": "Écart CIF resté ouvert ; distinction technique, à intégrer dans un épisode plutôt qu’un personnage.",
+      "reference": "CIF ; écart icf_capacity_performance",
+      "proposed_character": null
+    },
+    {
+      "id": "multiple_intelligences_myth",
+      "label": "Intelligences multiples : modèle populaire et preuves",
+      "family": "Intelligence",
+      "importance": 3,
+      "justification": "Croyance éducative répandue au soutien empirique limité.",
+      "reference": "Gardner 1983 ; Waterhouse 2006",
+      "proposed_character": null
+    },
+    {
+      "id": "dark_triad",
+      "label": "Triade sombre (traits ordinaires)",
+      "family": "Personnalité",
+      "importance": 3,
+      "justification": "Partiellement abordée par les traits narcissiques de Nadia.",
+      "reference": "Paulhus & Williams 2002",
+      "proposed_character": null
+    },
+    {
+      "id": "omnipotence_devaluation",
+      "label": "Omnipotence (défense DMRS)",
+      "family": "Mécanismes de défense",
+      "importance": 3,
+      "justification": "Défense narcissique du DMRS, proche de l’idéalisation-dévaluation traitée par Hugo.",
+      "reference": "Perry, DMRS",
+      "proposed_character": null
+    }
+  ],
+  "proposed_characters": [
+    {
+      "prenom": "Apolline",
+      "age": 34,
+      "metier": "journaliste santé et sciences dans une rédaction web régionale",
+      "situation": "en couple avec Raphaël, kinésithérapeute ; vit à Nantes",
+      "proches": {
+        "compagnon": "Raphaël",
+        "soeur": "Ninon (28 ans, joueuse de handball amateur)",
+        "redacteur_en_chef": "Hervé"
+      },
+      "projet": "lancer une rubrique et un podcast « Vérifier avant de partager »",
+      "theme": "pensée critique, statistiques du quotidien et décisions",
+      "episodes": [
+        {
+          "ordre": 1,
+          "concept_id": "correlation_causation",
+          "concept": "Corrélation n’est pas causalité",
+          "importance": 1,
+          "scene": "Une étude relie café et longévité ; Raphaël décide de reprendre un troisième café et Apolline doit trouver un titre qui ne promet pas une cause."
+        },
+        {
+          "ordre": 2,
+          "concept_id": "small_samples",
+          "concept": "Loi des petits nombres et échantillon représentatif",
+          "importance": 1,
+          "scene": "Hervé veut titrer « les Nantais boudent le vélo » à partir d’un sondage de 40 abonnés Instagram ; elle compare avec la composition réelle de la population."
+        },
+        {
+          "ordre": 3,
+          "concept_id": "regression_to_mean",
+          "concept": "Régression vers la moyenne",
+          "importance": 1,
+          "scene": "Après le pire match de la saison, l’équipe de Ninon change d’entraîneur et gagne le suivant ; Apolline vérifie les scores sur plusieurs saisons."
+        },
+        {
+          "ordre": 4,
+          "concept_id": "gamblers_fallacy",
+          "concept": "Erreur du joueur",
+          "importance": 2,
+          "scene": "Ninon joue au loto les numéros « en retard » ; Apolline se surprend à croire que son quatrième sujet refusé « doit » passer."
+        },
+        {
+          "ordre": 5,
+          "concept_id": "outcome_bias",
+          "concept": "Biais de résultat",
+          "importance": 2,
+          "scene": "Un article publié sans double vérification fait un record d’audience ; en conférence, Hervé juge la méthode bonne parce que l’issue l’est."
+        },
+        {
+          "ordre": 6,
+          "concept_id": "self_serving_bias",
+          "concept": "Biais d’auto-complaisance",
+          "importance": 1,
+          "scene": "Elle attribue le succès de son enquête à son flair et la chute d’audience suivante à l’algorithme, jusqu’à relire les chiffres des deux."
+        },
+        {
+          "ordre": 7,
+          "concept_id": "illusion_explanatory_depth",
+          "concept": "Illusion de profondeur explicative",
+          "importance": 2,
+          "scene": "Sûre de savoir expliquer un vaccin à ARN, elle bloque en écrivant le script pas à pas du premier épisode du podcast."
+        },
+        {
+          "ordre": 8,
+          "concept_id": "replication_publication_bias",
+          "concept": "Réplication et biais de publication",
+          "importance": 2,
+          "scene": "Le résultat spectaculaire qu’elle voulait citer n’a jamais été répliqué ; elle découvre combien d’études nulles restent dans les tiroirs."
+        },
+        {
+          "ordre": 9,
+          "concept_id": "ambiguity_aversion",
+          "concept": "Aversion à l’ambiguïté",
+          "importance": 2,
+          "scene": "Pour sa mutuelle, elle choisit l’offre aux remboursements connus plutôt qu’une offre plus favorable mais floue sur un point."
+        },
+        {
+          "ordre": 10,
+          "concept_id": "loss_aversion",
+          "concept": "Aversion à la perte",
+          "importance": 1,
+          "scene": "Raphaël refuse un pile ou face où il gagnerait 120 € ou perdrait 100 € ; elle reconnaît la même hésitation à quitter un poste sûr pour le podcast."
+        },
+        {
+          "ordre": 11,
+          "concept_id": "mental_accounting",
+          "concept": "Comptabilité mentale",
+          "importance": 2,
+          "scene": "La prime de 300 € d’Apolline part en « argent bonus » alors que le couple peine à épargner pour le podcast."
+        },
+        {
+          "ordre": 12,
+          "concept_id": "proportionality_bias",
+          "concept": "Biais de proportionnalité",
+          "importance": 2,
+          "scene": "Après une panne électrique géante, des lecteurs exigent une cause cachée à la hauteur de l’événement ; elle écrit l’épisode de lancement sur les explications à grande cause."
+        }
+      ]
+    },
+    {
+      "prenom": "Romane",
+      "age": 41,
+      "metier": "ancienne commerciale en reconversion, étudiante en BTS diététique en formation pour adultes",
+      "situation": "séparée, vit avec son fils Tom (10 ans) ; sa mère Colette (70 ans) habite à proximité",
+      "proches": {
+        "fils": "Tom",
+        "mere": "Colette",
+        "frere": "Bruno"
+      },
+      "projet": "réussir son diplôme et son premier stage en restauration collective",
+      "theme": "mémoire et méthodes d’apprentissage à l’âge adulte",
+      "episodes": [
+        {
+          "ordre": 1,
+          "concept_id": "forgetting_curve",
+          "concept": "Courbe de l’oubli",
+          "importance": 1,
+          "scene": "Une semaine après le cours de biochimie, elle a oublié l’essentiel et conclut qu’à 41 ans elle « n’a plus de mémoire »."
+        },
+        {
+          "ordre": 2,
+          "concept_id": "fluency_illusion",
+          "concept": "Illusion de maîtrise par la fluidité",
+          "importance": 1,
+          "scene": "Elle relit trois fois ses fiches surlignées, se sent prête, puis sèche au premier quiz."
+        },
+        {
+          "ordre": 3,
+          "concept_id": "learning_styles_myth",
+          "concept": "Mythe des styles d’apprentissage",
+          "importance": 1,
+          "scene": "Un test en ligne la déclare « visuelle » ; elle cesse d’écouter les cours enregistrés et sa formatrice lui montre ce que disent les études."
+        },
+        {
+          "ordre": 4,
+          "concept_id": "testing_effect",
+          "concept": "Effet de test (récupération active)",
+          "importance": 1,
+          "scene": "Elle remplace la relecture par des cartes questions qu’elle tire à l’aveugle, avec Tom comme interrogateur."
+        },
+        {
+          "ordre": 5,
+          "concept_id": "spacing_effect",
+          "concept": "Effet d’espacement",
+          "importance": 1,
+          "scene": "Au lieu de bachoter la veille, elle répartit les révisions sur trois semaines, en voyant les premiers jours plus lents."
+        },
+        {
+          "ordre": 6,
+          "concept_id": "chunking",
+          "concept": "Regroupement en unités (chunking)",
+          "importance": 2,
+          "scene": "Elle retient la liste des vitamines en les regroupant par famille d’aliments plutôt qu’une à une."
+        },
+        {
+          "ordre": 7,
+          "concept_id": "tip_of_the_tongue",
+          "concept": "Mot sur le bout de la langue",
+          "importance": 2,
+          "scene": "À l’oral blanc, le nom d’un nutriment lui échappe alors qu’elle en connaît la première lettre ; il revient dans le bus."
+        },
+        {
+          "ordre": 8,
+          "concept_id": "context_dependent_memory",
+          "concept": "Mémoire dépendante du contexte",
+          "importance": 2,
+          "scene": "Elle révise toujours à la table de la cuisine ; avant l’examen dans une salle neutre, elle varie les lieux de révision."
+        },
+        {
+          "ordre": 9,
+          "concept_id": "reconstructive_memory",
+          "concept": "Mémoire reconstructive et faux souvenirs",
+          "importance": 1,
+          "scene": "Bruno et elle se disputent, chacun sûr de lui, sur qui a cassé le vase de Colette en 1993."
+        },
+        {
+          "ordre": 10,
+          "concept_id": "misinformation_effect",
+          "concept": "Effet de désinformation (question orientée)",
+          "importance": 1,
+          "scene": "Témoin d’un accrochage sur un parking, elle voit sa déposition glisser après que l’assureur lui demande « à quelle vitesse la voiture a percuté »."
+        },
+        {
+          "ordre": 11,
+          "concept_id": "flashbulb_memory",
+          "concept": "Souvenirs flash",
+          "importance": 2,
+          "scene": "Colette et elle racontent avec la même certitude deux versions incompatibles de la soirée d’un événement historique."
+        },
+        {
+          "ordre": 12,
+          "concept_id": "reminiscence_bump",
+          "concept": "Bosse de réminiscence",
+          "importance": 2,
+          "scene": "En préparant les fiches nutritionnelles de l’EHPAD de stage, elle remarque que les résidents racontent surtout leurs 15-30 ans et s’en sert pour adapter les menus."
+        }
+      ]
+    },
+    {
+      "prenom": "Tristan",
+      "age": 29,
+      "metier": "éducateur canin indépendant",
+      "situation": "en couple avec Manon ; garde souvent son neveu Ethan (9 ans)",
+      "proches": {
+        "compagne": "Manon",
+        "neveu": "Ethan",
+        "ami": "Corentin"
+      },
+      "projet": "développer son activité et ouvrir des cours collectifs en forêt",
+      "theme": "conditionnement, récompense et motivation appliqués à sa propre vie",
+      "episodes": [
+        {
+          "ordre": 1,
+          "concept_id": "classical_conditioning",
+          "concept": "Conditionnement classique",
+          "importance": 1,
+          "scene": "Son cœur accélère à la sonnerie qu’utilisait son ancien patron, même quand c’est Manon qui appelle."
+        },
+        {
+          "ordre": 2,
+          "concept_id": "operant_reinforcement",
+          "concept": "Renforcement positif et négatif",
+          "importance": 1,
+          "scene": "En donnant la tablette à Ethan pour faire cesser ses protestations, il comprend qu’il renforce les protestations et que le silence obtenu le renforce lui aussi."
+        },
+        {
+          "ordre": 3,
+          "concept_id": "intermittent_reinforcement",
+          "concept": "Renforcement intermittent",
+          "importance": 1,
+          "scene": "Il vérifie sans cesse l’application de réservation : parfois une demande, souvent rien, comme une machine à sous."
+        },
+        {
+          "ordre": 4,
+          "concept_id": "extinction_burst",
+          "concept": "Extinction et sursaut d’extinction",
+          "importance": 2,
+          "scene": "Quand Manon et lui cessent de céder, les protestations d’Ethan redoublent pendant trois jours avant de diminuer."
+        },
+        {
+          "ordre": 5,
+          "concept_id": "stimulus_generalization",
+          "concept": "Généralisation du stimulus",
+          "importance": 2,
+          "scene": "Après une morsure légère d’un grand chien noir, il se raidit devant tous les chiens de grande taille au parc."
+        },
+        {
+          "ordre": 6,
+          "concept_id": "shaping",
+          "concept": "Façonnement par approximations successives",
+          "importance": 2,
+          "scene": "Il apprend l’escalade en appliquant à lui-même sa méthode d’éducation : renforcer chaque petite approximation du mouvement."
+        },
+        {
+          "ordre": 7,
+          "concept_id": "habituation_sensitization",
+          "concept": "Habituation et sensibilisation",
+          "importance": 2,
+          "scene": "Sous ses fenêtres, il n’entend plus le chantier continu mais devient de plus en plus irritable à chaque alarme intermittente."
+        },
+        {
+          "ordre": 8,
+          "concept_id": "hedonic_adaptation",
+          "concept": "Adaptation hédonique",
+          "importance": 1,
+          "scene": "La camionnette aménagée qui le comblait au printemps ne lui fait plus rien trois mois plus tard."
+        },
+        {
+          "ordre": 9,
+          "concept_id": "reward_prediction_error",
+          "concept": "Erreur de prédiction de la récompense",
+          "importance": 2,
+          "scene": "Un pourboire inattendu le ravit ; le mois suivant, le même pourboire attendu ne lui fait rien et son absence le déçoit."
+        },
+        {
+          "ordre": 10,
+          "concept_id": "overjustification",
+          "concept": "Effet de surjustification",
+          "importance": 2,
+          "scene": "Corentin propose de le payer pour les sorties nature qu’il faisait par plaisir ; son envie baisse."
+        },
+        {
+          "ordre": 11,
+          "concept_id": "flow",
+          "concept": "Flow (expérience optimale)",
+          "importance": 1,
+          "scene": "Pendant le premier cours collectif en forêt, il perd la notion du temps quand la difficulté du groupe correspond à son savoir-faire."
+        },
+        {
+          "ordre": 12,
+          "concept_id": "implementation_intentions",
+          "concept": "Intentions de mise en œuvre « si… alors »",
+          "importance": 2,
+          "scene": "Pour tenir enfin sa comptabilité, il formule un plan « si c’est lundi 8 h, alors j’ouvre le tableur » avant le premier café."
+        }
+      ]
+    },
+    {
+      "prenom": "Capucine",
+      "age": 38,
+      "metier": "cheffe de projet au service urbanisme d’une mairie",
+      "situation": "mariée à Octave, deux enfants ; présidente du conseil syndical de sa copropriété",
+      "proches": {
+        "mari": "Octave",
+        "voisine": "Simone (80 ans)",
+        "collegue": "Alban"
+      },
+      "projet": "mener le projet de ravalement de l’immeuble et un atelier avec la résidence voisine",
+      "theme": "psychologie sociale, groupes et influence",
+      "episodes": [
+        {
+          "ordre": 1,
+          "concept_id": "bystander_effect",
+          "concept": "Effet du témoin",
+          "importance": 1,
+          "scene": "Un homme s’effondre sur le quai du tram ; vingt personnes regardent et Capucine attend, comme les autres, que quelqu’un agisse."
+        },
+        {
+          "ordre": 2,
+          "concept_id": "social_loafing",
+          "concept": "Paresse sociale",
+          "importance": 1,
+          "scene": "Le dossier collectif du service avance lentement : chacun des cinq contributeurs en fait moins que seul."
+        },
+        {
+          "ordre": 3,
+          "concept_id": "pluralistic_ignorance",
+          "concept": "Ignorance pluraliste",
+          "importance": 1,
+          "scene": "En assemblée de copropriété, personne ne conteste le devis ; à la sortie, chacun avoue avoir douté en silence."
+        },
+        {
+          "ordre": 4,
+          "concept_id": "group_polarization",
+          "concept": "Polarisation de groupe",
+          "importance": 2,
+          "scene": "Le groupe de messagerie de l’immeuble passe de « réguler les trottinettes » à « les interdire » en une soirée."
+        },
+        {
+          "ordre": 5,
+          "concept_id": "scapegoating",
+          "concept": "Bouc émissaire",
+          "importance": 2,
+          "scene": "Les nuisances du hall sont imputées au locataire du troisième sans élément ; Capucine voit la tension du chantier se décharger sur lui."
+        },
+        {
+          "ordre": 6,
+          "concept_id": "stereotype_threat",
+          "concept": "Menace du stéréotype",
+          "importance": 1,
+          "scene": "Seule femme d’une réunion technique, on lui demande de « vérifier les chiffres » ; elle se crispe et fait une erreur qu’elle ne fait jamais."
+        },
+        {
+          "ordre": 7,
+          "concept_id": "reactance",
+          "concept": "Réactance psychologique",
+          "importance": 1,
+          "scene": "Une nouvelle règle imposée sur le télétravail lui donne envie de faire l’inverse, même si elle était d’accord sur le fond."
+        },
+        {
+          "ordre": 8,
+          "concept_id": "foot_in_door",
+          "concept": "Pied-dans-la-porte",
+          "importance": 2,
+          "scene": "Un démarcheur obtient une petite signature pour un diagnostic gratuit, puis un engagement de travaux."
+        },
+        {
+          "ordre": 9,
+          "concept_id": "reciprocity_persuasion",
+          "concept": "Norme de réciprocité dans la persuasion",
+          "importance": 2,
+          "scene": "Un prestataire offre une étude « cadeau » ; elle se sent redevable au moment de choisir l’entreprise."
+        },
+        {
+          "ordre": 10,
+          "concept_id": "scarcity_effect",
+          "concept": "Effet de rareté",
+          "importance": 2,
+          "scene": "« Plus que deux créneaux cette année » : elle s’apprête à signer dans l’urgence le devis d’un artisan."
+        },
+        {
+          "ordre": 11,
+          "concept_id": "cognitive_dissonance",
+          "concept": "Dissonance cognitive",
+          "importance": 1,
+          "scene": "Elle défend les pistes cyclables au travail et prend sa voiture chaque jour ; l’inconfort la pousse à choisir entre changer d’avis, d’habitude ou d’explication."
+        },
+        {
+          "ordre": 12,
+          "concept_id": "intergroup_contact",
+          "concept": "Contact intergroupe",
+          "importance": 2,
+          "scene": "Elle organise un atelier commun entre sa copropriété et la résidence sociale voisine, avec un but partagé et un statut égal."
+        }
+      ]
+    },
+    {
+      "prenom": "Ambroise",
+      "age": 45,
+      "metier": "consultant en recrutement dans un cabinet de conseil RH",
+      "situation": "divorcé, garde alternée de Juliette (12 ans) et Achille (17 ans)",
+      "proches": {
+        "fille": "Juliette",
+        "fils": "Achille",
+        "collegue": "Perrine"
+      },
+      "projet": "refondre la méthode d’entretien du cabinet",
+      "theme": "personnalité, mesure, intelligence et jugement d’autrui",
+      "episodes": [
+        {
+          "ordre": 1,
+          "concept_id": "big_five",
+          "concept": "Les cinq grands traits de personnalité",
+          "importance": 1,
+          "scene": "En refondant la grille d’entretien, il découvre les cinq grands traits et abandonne les profils en quatre couleurs."
+        },
+        {
+          "ordre": 2,
+          "concept_id": "test_reliability_validity",
+          "concept": "Fidélité et validité d’un test de personnalité",
+          "importance": 1,
+          "scene": "Un client veut trier les candidats avec un questionnaire de types ; Ambroise lui explique fidélité test-retest et validité prédictive."
+        },
+        {
+          "ordre": 3,
+          "concept_id": "introversion_extraversion",
+          "concept": "Introversion et extraversion",
+          "importance": 1,
+          "scene": "Un candidat posé est jugé « pas leader » ; lui-même rentre épuisé d’un salon où tout le monde le croit à l’aise."
+        },
+        {
+          "ordre": 4,
+          "concept_id": "person_situation",
+          "concept": "Interaction personne-situation",
+          "importance": 2,
+          "scene": "Perrine passe pour « toujours stressée », mais seulement en comité de direction ; il observe ce qui change selon les situations."
+        },
+        {
+          "ordre": 5,
+          "concept_id": "iq_measurement",
+          "concept": "Ce que mesure un score de QI",
+          "importance": 1,
+          "scene": "Juliette passe un bilan psychométrique ; il apprend ce que signifient un score, une marge d’erreur et les limites d’un QI."
+        },
+        {
+          "ordre": 6,
+          "concept_id": "similar_to_me",
+          "concept": "Effet « semblable à moi » (homophilie)",
+          "importance": 2,
+          "scene": "Il préfère spontanément le candidat issu de sa propre école et joueur de rugby comme lui."
+        },
+        {
+          "ordre": 7,
+          "concept_id": "contrast_effect",
+          "concept": "Effet de contraste",
+          "importance": 2,
+          "scene": "Après un candidat brillant, le suivant lui paraît médiocre alors que son dossier est solide."
+        },
+        {
+          "ordre": 8,
+          "concept_id": "impression_management",
+          "concept": "Présentation de soi et gestion des impressions",
+          "importance": 1,
+          "scene": "Candidat à un poste interne, il prépare l’image qu’il veut donner et se demande où s’arrête l’ajustement."
+        },
+        {
+          "ordre": 9,
+          "concept_id": "locus_of_control",
+          "concept": "Lieu de contrôle",
+          "importance": 1,
+          "scene": "Achille répète que son bac « ne dépend pas de lui » ; ils distinguent ce qui dépend de ses efforts et ce qui n’en dépend pas."
+        },
+        {
+          "ordre": 10,
+          "concept_id": "sensation_seeking",
+          "concept": "Recherche de sensations",
+          "importance": 2,
+          "scene": "Achille veut faire du parapente ; Ambroise découvre un trait de recherche de sensations sans en faire une pathologie."
+        },
+        {
+          "ordre": 11,
+          "concept_id": "personality_maturity",
+          "concept": "Évolution de la personnalité avec l’âge",
+          "importance": 2,
+          "scene": "Aux retrouvailles de promotion, il constate que les plus impulsifs d’hier sont devenus plus posés."
+        },
+        {
+          "ordre": 12,
+          "concept_id": "divergent_thinking",
+          "concept": "Pensée divergente et créativité",
+          "importance": 2,
+          "scene": "Il anime l’atelier créatif de la nouvelle méthode et remplace le brainstorming oral par une génération individuelle d’idées."
+        }
+      ]
+    },
+    {
+      "prenom": "Joséphine",
+      "age": 36,
+      "metier": "bibliothécaire jeunesse",
+      "situation": "en couple avec Hugues ; deux enfants, Fleur (4 ans) et Arthur (13 ans) ; son père Yves (74 ans) vit seul",
+      "proches": {
+        "compagnon": "Hugues",
+        "fille": "Fleur",
+        "fils": "Arthur",
+        "pere": "Yves"
+      },
+      "projet": "créer un atelier parents-enfants à la médiathèque",
+      "theme": "développement de l’enfance au grand âge",
+      "episodes": [
+        {
+          "ordre": 1,
+          "concept_id": "temperament",
+          "concept": "Tempérament de l’enfant",
+          "importance": 1,
+          "scene": "Fleur reste en retrait à l’heure du conte alors qu’Arthur, bébé, allait vers tout le monde ; Joséphine cesse d’y voir une erreur d’éducation."
+        },
+        {
+          "ordre": 2,
+          "concept_id": "parenting_styles",
+          "concept": "Styles parentaux",
+          "importance": 1,
+          "scene": "Hugues et elle se disputent sur l’heure de coucher d’Arthur : cadre ferme, laisser-faire ou règles expliquées."
+        },
+        {
+          "ordre": 3,
+          "concept_id": "theory_of_mind",
+          "concept": "Théorie de l’esprit chez l’enfant",
+          "importance": 2,
+          "scene": "Pendant un jeu de cachette, Fleur croit que l’ourson caché par sa mère sera cherché là où elle-même l’a vu ranger."
+        },
+        {
+          "ordre": 4,
+          "concept_id": "piaget_conservation",
+          "concept": "Stades de Piaget et conservation",
+          "importance": 2,
+          "scene": "Fleur pleure parce que son jus versé dans un verre large « en a moins » que celui d’Arthur."
+        },
+        {
+          "ordre": 5,
+          "concept_id": "symbolic_play",
+          "concept": "Jeu symbolique",
+          "importance": 2,
+          "scene": "Fleur joue à la bibliothécaire avec des cartons ; Joséphine observe ce que le faire-semblant développe."
+        },
+        {
+          "ordre": 6,
+          "concept_id": "language_acquisition",
+          "concept": "Acquisition du langage et surgénéralisation",
+          "importance": 2,
+          "scene": "Fleur dit « il a prendu le livre » ; Joséphine comprend que l’erreur montre une règle apprise."
+        },
+        {
+          "ordre": 7,
+          "concept_id": "delay_of_gratification",
+          "concept": "Délai de gratification chez l’enfant",
+          "importance": 2,
+          "scene": "Un parent de l’atelier évoque le test du chamallow ; elle découvre le rôle de la confiance dans l’adulte qui promet."
+        },
+        {
+          "ordre": 8,
+          "concept_id": "infantile_amnesia",
+          "concept": "Amnésie infantile",
+          "importance": 2,
+          "scene": "Arthur ne se souvient pas de la Bretagne à 3 ans ; elle se demande ce que Fleur gardera de ce séjour."
+        },
+        {
+          "ordre": 9,
+          "concept_id": "adolescent_peer_reward",
+          "concept": "Adolescence, pairs et prise de risque",
+          "importance": 1,
+          "scene": "Arthur, prudent seul, descend une pente à vélo sans freiner devant ses amis."
+        },
+        {
+          "ordre": 10,
+          "concept_id": "erikson_generativity",
+          "concept": "Générativité (Erikson)",
+          "importance": 2,
+          "scene": "À 36 ans, elle se demande ce qu’elle transmet au-delà de ses enfants et propose l’atelier parents-enfants."
+        },
+        {
+          "ordre": 11,
+          "concept_id": "socioemotional_selectivity",
+          "concept": "Sélectivité socio-émotionnelle",
+          "importance": 2,
+          "scene": "Yves décline les grandes fêtes et ne garde que trois amis ; elle comprend un choix plutôt qu’un repli."
+        },
+        {
+          "ordre": 12,
+          "concept_id": "selection_optimization_compensation",
+          "concept": "Sélection, optimisation, compensation",
+          "importance": 2,
+          "scene": "Yves réduit son potager à trois bacs surélevés et y investit le temps gagné ; il vient présenter son jardin à l’atelier."
+        }
+      ]
+    },
+    {
+      "prenom": "Valentin",
+      "age": 31,
+      "metier": "chef de partie dans une brasserie",
+      "situation": "en couple avec Mathilde depuis six ans",
+      "proches": {
+        "compagne": "Mathilde",
+        "ami": "Gwen",
+        "collegue_rival": "Tanguy"
+      },
+      "projet": "ouvrir son camion de cuisine de rue",
+      "theme": "émotions sociales, couple et défenses du quotidien",
+      "episodes": [
+        {
+          "ordre": 1,
+          "concept_id": "emotional_contagion",
+          "concept": "Contagion émotionnelle",
+          "importance": 1,
+          "scene": "Pendant un coup de feu, la tension du chef se propage à toute la brigade et Valentin la rapporte chez lui."
+        },
+        {
+          "ordre": 2,
+          "concept_id": "surprise",
+          "concept": "Surprise",
+          "importance": 2,
+          "scene": "Un client lui annonce que son plat a été choisi pour un concours ; la surprise passe en deux secondes et réoriente toute sa soirée."
+        },
+        {
+          "ordre": 3,
+          "concept_id": "shyness",
+          "concept": "Timidité",
+          "importance": 1,
+          "scene": "Il refuse de passer en salle présenter son plat, alors qu’il aime les gens et parle volontiers en cuisine."
+        },
+        {
+          "ordre": 4,
+          "concept_id": "four_horsemen",
+          "concept": "Les quatre cavaliers de Gottman",
+          "importance": 1,
+          "scene": "Une dispute sur l’argent du camion enchaîne critique, mépris, défense et mur ; Mathilde et lui repèrent les quatre attitudes."
+        },
+        {
+          "ordre": 5,
+          "concept_id": "demand_withdraw",
+          "concept": "Cycle demande-retrait",
+          "importance": 1,
+          "scene": "Plus Mathilde demande à parler du projet, plus il se retire dans la cuisine, et plus elle insiste."
+        },
+        {
+          "ordre": 6,
+          "concept_id": "capitalization",
+          "concept": "Réponse active-constructive aux bonnes nouvelles",
+          "importance": 2,
+          "scene": "Mathilde annonce sa promotion et il répond en parlant de son camion ; il apprend à accueillir activement une bonne nouvelle."
+        },
+        {
+          "ordre": 7,
+          "concept_id": "triangular_love",
+          "concept": "Théorie triangulaire de l’amour",
+          "importance": 1,
+          "scene": "Après six ans, moins de passion mais plus d’intimité et d’engagement ; il se demande si l’amour s’use ou change de forme."
+        },
+        {
+          "ordre": 8,
+          "concept_id": "passive_aggression",
+          "concept": "Agressivité passive",
+          "importance": 1,
+          "scene": "Il « oublie » de commander ce que Tanguy a demandé et répond « tout va bien » quand on l’interroge."
+        },
+        {
+          "ordre": 9,
+          "concept_id": "projection_defense",
+          "concept": "Projection (mécanisme de défense)",
+          "importance": 1,
+          "scene": "Il accuse Gwen d’être jaloux de son projet alors que c’est lui qui envie la sécurité de son ami."
+        },
+        {
+          "ordre": 10,
+          "concept_id": "co_rumination",
+          "concept": "Co-rumination",
+          "importance": 2,
+          "scene": "Leurs soirées à ressasser le patron le soulagent sur le moment et le laissent plus amer le lendemain."
+        },
+        {
+          "ordre": 11,
+          "concept_id": "schadenfreude",
+          "concept": "Joie maligne (Schadenfreude)",
+          "importance": 2,
+          "scene": "Tanguy reçoit une critique sévère et Valentin sourit malgré lui, puis se sent mal à l’aise."
+        },
+        {
+          "ordre": 12,
+          "concept_id": "affective_forecasting",
+          "concept": "Prévision affective et biais d’impact",
+          "importance": 1,
+          "scene": "À la veille de l’ouverture, il est sûr que le camion le rendra heureux pour toujours, ou qu’un échec le détruirait ; il compare avec ses prévisions passées."
+        }
+      ]
+    },
+    {
+      "prenom": "Coralie",
+      "age": 47,
+      "metier": "pharmacienne titulaire d’une officine",
+      "situation": "mariée à Edgar ; leur fille Albane (20 ans) est étudiante",
+      "proches": {
+        "mari": "Edgar",
+        "fille": "Albane",
+        "stagiaire": "à nommer par le créateur du personnage"
+      },
+      "projet": "apprendre le violoncelle et reprendre une partie de son temps",
+      "theme": "stress, santé, perception et conscience",
+      "episodes": [
+        {
+          "ordre": 1,
+          "concept_id": "stress_appraisal",
+          "concept": "Évaluation du stress (Lazarus)",
+          "importance": 1,
+          "scene": "L’annonce d’une inspection devient une menace ou un défi selon les ressources qu’elle se reconnaît."
+        },
+        {
+          "ordre": 2,
+          "concept_id": "yerkes_dodson",
+          "concept": "Activation et performance (Yerkes-Dodson)",
+          "importance": 1,
+          "scene": "Sa stagiaire est paralysée par le trac au comptoir alors que Coralie travaille mieux avec un peu de pression."
+        },
+        {
+          "ordre": 3,
+          "concept_id": "allostatic_load",
+          "concept": "Stress chronique et charge allostatique",
+          "importance": 2,
+          "scene": "Des mois de ruptures de médicaments usent davantage que les urgences ponctuelles ; elle distingue stress aigu et chronique."
+        },
+        {
+          "ordre": 4,
+          "concept_id": "inattentional_blindness",
+          "concept": "Cécité inattentionnelle",
+          "importance": 1,
+          "scene": "Concentrée sur une ordonnance compliquée, elle ne voit pas le nom d’un autre patient sur la boîte qu’elle tend ; sa stagiaire l’arrête à temps."
+        },
+        {
+          "ordre": 5,
+          "concept_id": "placebo",
+          "concept": "Effet placebo",
+          "importance": 1,
+          "scene": "Un client jure qu’un complément sans principe actif l’a guéri ; elle explique sans mépris le rôle des attentes."
+        },
+        {
+          "ordre": 6,
+          "concept_id": "nocebo",
+          "concept": "Effet nocebo",
+          "importance": 2,
+          "scene": "Une cliente ressent les effets indésirables lus sur la notice avant même la première prise."
+        },
+        {
+          "ordre": 7,
+          "concept_id": "pain_attention",
+          "concept": "Douleur, attention et contexte",
+          "importance": 2,
+          "scene": "Edgar a mal au dos le soir devant la télévision mais pas en bricolant ; Coralie lui parle du rôle de l’attention dans la douleur."
+        },
+        {
+          "ordre": 8,
+          "concept_id": "mind_wandering",
+          "concept": "Vagabondage de l’esprit",
+          "importance": 2,
+          "scene": "Sur la route du retour, son esprit vagabonde et elle arrive sans souvenir du trajet ; elle observe quand cela l’apaise et quand cela l’assombrit."
+        },
+        {
+          "ordre": 9,
+          "concept_id": "dreams",
+          "concept": "Rêves : ce qu’on en sait",
+          "importance": 2,
+          "scene": "Elle refait le rêve d’un examen raté ; elle cherche ce que l’on sait des rêves au lieu d’une clé de lecture."
+        },
+        {
+          "ordre": 10,
+          "concept_id": "neuroplasticity",
+          "concept": "Plasticité cérébrale à l’âge adulte",
+          "importance": 1,
+          "scene": "À 47 ans, ses premières gammes au violoncelle sont laborieuses puis progressent ; elle découvre la plasticité cérébrale adulte."
+        },
+        {
+          "ordre": 11,
+          "concept_id": "post_traumatic_growth",
+          "concept": "Croissance après une épreuve",
+          "importance": 2,
+          "scene": "Deux ans après l’accident de vélo d’Albane, la famille constate des changements positifs sans nier ce qui a été difficile."
+        },
+        {
+          "ordre": 12,
+          "concept_id": "choosing_therapy",
+          "concept": "Choisir une psychothérapie et alliance thérapeutique",
+          "importance": 1,
+          "scene": "Albane veut consulter ; Coralie l’aide à distinguer les professionnels, les approches et l’importance de l’alliance thérapeutique."
+        }
+      ]
+    },
+    {
+      "prenom": "Hadrien",
+      "age": 58,
+      "metier": "notaire associé dans une petite ville",
+      "situation": "divorcé, en couple avec Ariane depuis deux ans ; son père, autoritaire, est mort l’an dernier",
+      "proches": {
+        "compagne": "Ariane",
+        "frere": "Josselin",
+        "stagiaire": "à nommer par le créateur du personnage"
+      },
+      "projet": "vendre la maison familiale et transmettre son étude",
+      "theme": "défenses, émotions sociales et sécurité acquise au milieu de la vie",
+      "episodes": [
+        {
+          "ordre": 1,
+          "concept_id": "internal_working_models",
+          "concept": "Modèles internes opérants",
+          "importance": 2,
+          "scene": "Il s’attend à ce qu’Ariane soit déçue comme son père l’était et interprète chacun de ses silences ainsi."
+        },
+        {
+          "ordre": 2,
+          "concept_id": "identification_aggressor",
+          "concept": "Identification à l’agresseur",
+          "importance": 2,
+          "scene": "Il s’entend reprendre le ton cassant de son père avec son stagiaire."
+        },
+        {
+          "ordre": 3,
+          "concept_id": "help_rejecting_complaining",
+          "concept": "Plainte avec rejet de l’aide",
+          "importance": 2,
+          "scene": "Il se plaint de son genou à Josselin mais rejette chaque solution proposée."
+        },
+        {
+          "ordre": 4,
+          "concept_id": "autistic_fantasy",
+          "concept": "Rêverie compensatoire",
+          "importance": 2,
+          "scene": "Il s’évade dans des rêveries d’une autre vie au lieu d’aborder avec Ariane la vente de la maison."
+        },
+        {
+          "ordre": 5,
+          "concept_id": "crying",
+          "concept": "Pleurer et fonctions des larmes",
+          "importance": 2,
+          "scene": "Il pleure au mariage d’un client et en a honte ; il découvre les fonctions sociales et apaisantes des larmes."
+        },
+        {
+          "ordre": 6,
+          "concept_id": "admiration",
+          "concept": "Admiration",
+          "importance": 2,
+          "scene": "Une jeune collègue plaide brillamment ; il sent l’admiration le pousser plutôt que l’envie le ronger."
+        },
+        {
+          "ordre": 7,
+          "concept_id": "curiosity",
+          "concept": "Curiosité",
+          "importance": 1,
+          "scene": "En classant un acte du XIXe siècle, il se remet à apprendre l’histoire de sa ville."
+        },
+        {
+          "ordre": 8,
+          "concept_id": "altruism_defense",
+          "concept": "Altruisme (défense mature)",
+          "importance": 2,
+          "scene": "Il donne des consultations gratuites à une association et sent que cela l’apaise après le deuil."
+        },
+        {
+          "ordre": 9,
+          "concept_id": "anticipation_defense",
+          "concept": "Anticipation (défense mature)",
+          "importance": 2,
+          "scene": "Il prépare de façon réaliste ce que la signature de vente de la maison risque de lui faire ressentir."
+        },
+        {
+          "ordre": 10,
+          "concept_id": "contentment",
+          "concept": "Contentement et sérénité",
+          "importance": 2,
+          "scene": "Un dimanche sans programme, il découvre un plaisir calme qu’il prenait pour de l’ennui."
+        },
+        {
+          "ordre": 11,
+          "concept_id": "forgiveness",
+          "concept": "Pardonner",
+          "importance": 1,
+          "scene": "Devant la tombe de son père, il distingue pardonner, oublier et se réconcilier."
+        },
+        {
+          "ordre": 12,
+          "concept_id": "earned_security",
+          "concept": "Sécurité acquise",
+          "importance": 2,
+          "scene": "En transmettant son étude, il constate qu’avec Ariane ses attentes relationnelles ont lentement changé."
+        }
+      ]
+    }
+  ]
+}

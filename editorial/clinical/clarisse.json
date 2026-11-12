@@ -1,0 +1,222 @@
+{
+  "character_id": "clarisse",
+  "bio": "Clarisse, 56 ans, ancienne architecte, vit seule à Nantes avec trois cartons de plans. Le groupe de travail de l’Atelier des Quais lui demande cinq documents pour une exposition sur les écoles qu’elle a dessinées. Sa démence due à la maladie de Huntington, déjà diagnostiquée, rend l’organisation, les délais et certains gestes plus difficiles, alors que ses souvenirs de chantier restent précis. Avec sa sœur Viviane, une assistante sociale et l’équipe de neurologie, elle choisit ses documents, demande de l’aide pour les étapes difficiles et décide de ce qu’elle partage de son histoire familiale.",
+  "profile_topics": [
+    "Démence due à la maladie de Huntington",
+    "Fonctions exécutives et organisation des étapes",
+    "Mouvements involontaires et gestes du dessin",
+    "Information génétique et confidentialité familiale",
+    "Anticiper les aides avec sa famille"
+  ],
+  "episodes": [
+    {
+      "number": 1,
+      "slug": "clarisse-fonctions-executives-huntington-planifier-tri",
+      "title": "Planifier un tri quand l’organisation flanche",
+      "description": "Devant trois cartons de plans, Clarisse se souvient de chaque chantier mais ne sait pas par où commencer : la démence de Huntington touche l’organisation.",
+      "context": "un samedi, devant trois cartons de plans",
+      "topics": [
+        "Démence due à la maladie de Huntington",
+        "fonctions exécutives",
+        "organisation des étapes"
+      ],
+      "clinical_focus": "Planifier un tri quand l’organisation flanche",
+      "clinical_intro": "Dans la démence due à la maladie de Huntington, ce sont souvent les fonctions qui organisent l’action qui se dérèglent d’abord : décider par où commencer, enchaîner les étapes, s’arrêter quand c’est fini. La mémoire des faits anciens peut rester précise. Clarisse, ancienne architecte, connaît chaque chantier de ses trois cartons ; c’est le tri lui-même qui lui échappe un samedi matin.",
+      "opening": "Le samedi matin, à huit heures, Clarisse pousse la table de la salle à manger contre le mur de son appartement de l’île de Nantes et pose devant elle les trois cartons de plans. Sur son téléphone, le courriel de Yannick Riou, son ancien associé de l’agence Riou & associés, qui coordonne aujourd’hui le groupe de travail de l’Atelier des Quais : « Pour l’exposition Des écoles pour la ville, peux-tu nous proposer cinq documents d’ici trois semaines ? » Cinq. Elle a dessiné des écoles pendant vingt-cinq ans.\n\nElle ouvre le premier carton. Le rouleau du dessus, c’est la cantine de Bouguenais : elle se rappelle la pente du terrain, le chef de chantier qui sifflait, la cote du seuil reprise trois fois. Elle le déroule, le pose, ouvre le deuxième carton pour vérifier si la version définitive s’y trouve. Elle y tombe sur l’école des Peupliers, à Rezé, 1996, et se souvient de la largeur exacte du préau. Elle referme le deuxième carton sans rien en sortir, revient au premier, puis soulève le couvercle du troisième.\n\nÀ midi, la table et le parquet sont couverts de calques à demi déroulés. Aucun n’est rangé, aucun n’est choisi. Clarisse se tient debout au milieu, la main sur un rouleau, sans savoir ce qu’elle était en train de chercher. Quand on sonne, c’est Viviane, sa sœur cadette, professeure de piano à Saint-Nazaire, qui vient comme chaque samedi. Elle regarde le sol, enlève son manteau et dit doucement : « Laisse, je vais te trier tout ça. Tu me dis juste lesquels tu préfères. » Clarisse sent la proposition comme une gomme passée sur son propre trait.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Quand l’organisation de l’action se dérègle avant la mémoire",
+          "text": "Les fonctions exécutives regroupent les capacités qui permettent de planifier une tâche, de la commencer, de garder un but en tête et de passer d’une étape à la suivante. Dans la démence due à la maladie de Huntington, elles sont souvent atteintes tôt, alors que la mémoire des événements reste relativement préservée ; la difficulté porte davantage sur l’organisation et la récupération que sur le stockage des souvenirs. C’est ce contraste que montre la matinée de Clarisse : elle sait tout de la cantine de Bouguenais et du préau des Peupliers, mais elle ne parvient pas à fixer un ordre, ni à décider qu’un carton est terminé avant d’en ouvrir un autre. Ce n’est ni un manque d’intérêt pour son œuvre ni une perte de compétence d’architecte. Le guide français de prise en charge recommande d’aider la personne à s’organiser et à démarrer, par des listes ou des incitations extérieures, sans faire à sa place tant qu’elle ne se met pas en danger, afin de préserver son indépendance."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment une difficulté d’organisation se voit-elle dans un tri de documents ?",
+          "points": [
+            {
+              "heading": "Démarrer devient le plus difficile",
+              "text": "Initier une tâche, c’est choisir un premier geste parmi beaucoup de possibles ; quand cette fonction est fragilisée, la personne peut rester devant la tâche sans l’entamer vraiment.",
+              "examples": [
+                "Clarisse soulève le couvercle des trois cartons dans la première heure sans en vider aucun.",
+                "Elle relit le courriel de Yannick plusieurs fois avant de poser le premier rouleau sur la table."
+              ]
+            },
+            {
+              "heading": "Une étape en appelle une autre avant d’être finie",
+              "text": "Garder un but en tête pendant qu’on agit demande de la mémoire de travail ; une information nouvelle peut alors détourner l’action en cours.",
+              "examples": [
+                "En déroulant la cantine de Bouguenais, elle part chercher la version définitive dans un autre carton et laisse la première ouverte.",
+                "Le souvenir précis du préau des Peupliers lui fait refermer le deuxième carton sans y avoir rien pris."
+              ]
+            },
+            {
+              "heading": "Des souvenirs nets, un ordre qui manque",
+              "text": "Le contraste entre une mémoire de chantier intacte et une matinée sans résultat déroute la personne et son entourage, qui peuvent croire à de la distraction.",
+              "examples": [
+                "Clarisse cite la cote du seuil reprise trois fois mais ne sait plus, à midi, ce qu’elle cherchait dans le rouleau qu’elle tient.",
+                "Viviane voit un sol couvert de calques et conclut que sa sœur a besoin qu’on trie pour elle."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour organiser une tâche longue sans la confier à un autre",
+          "points": [
+            {
+              "heading": "Écrire les étapes avant de toucher aux documents",
+              "objective": "Rendre visible l’ordre de la tâche pour ne pas avoir à le reconstruire à chaque geste.",
+              "exercise": [
+                "Noter sur une seule feuille trois ou quatre étapes, dans les mots de la personne.",
+                "Poser cette feuille à côté de la tâche, à hauteur des yeux.",
+                "Cocher une étape seulement quand elle est terminée, avant de passer à la suivante."
+              ],
+              "benefit": "La liste peut soulager la planification ; elle n’améliore pas la maladie, mais elle laisse la décision à la personne."
+            },
+            {
+              "heading": "Réduire la séance à une seule unité",
+              "objective": "Limiter le nombre de choix ouverts en même temps.",
+              "exercise": [
+                "Décider d’un seul carton, d’une seule pièce ou d’un seul dossier par séance.",
+                "Fermer ou ranger hors de vue ce qui n’appartient pas à cette séance.",
+                "Fixer un critère unique de tri, énoncé avant de commencer."
+              ],
+              "benefit": "Moins d’options simultanées peut rendre l’enchaînement des gestes plus facile à tenir."
+            },
+            {
+              "heading": "Une aide qui rappelle sans décider",
+              "objective": "Recevoir un appui extérieur tout en restant l’auteur de ses choix.",
+              "exercise": [
+                "Demander au proche de lire l’étape en cours ou de noter ce que la personne dicte.",
+                "Convenir à l’avance de ce que le proche ne fera pas, par exemple choisir un document.",
+                "Signaler au neurologue ou à l’orthophoniste les tâches qui restent bloquées malgré ces appuis."
+              ],
+              "benefit": "Cet appui peut préserver l’indépendance ; les professionnels peuvent proposer une rééducation adaptée si besoin."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Quatre étapes au dos d’un calque",
+      "ending": "Clarisse dit non. Pas sèchement : « Si tu tries, ce sont tes écoles, pas les miennes. » Viviane reste, son manteau sur le dossier de la chaise. Clarisse prend un calque abîmé, le retourne et dicte ; Viviane écrit au feutre, sans rien ajouter : « 1. Carton un, ce samedi. 2. Carton deux, samedi prochain. 3. Carton trois, le samedi d’après. 4. Choisir les cinq et les porter à l’Atelier. » En dessous, un seul critère, souligné deux fois : les écoles. Elles remettent dans le deuxième et le troisième carton tout ce qui traîne, les ferment et les poussent dans l’entrée. Il reste le premier. Clarisse sort les rouleaux un par un ; Viviane lit à voix haute le critère quand elle hésite. À dix-huit heures, le carton un est trié : quatre écoles mises de côté, le reste rangé. Le calque est scotché au-dessus de la table. Rien n’est encore choisi pour l’exposition, et la liste ne dit pas quel jour tombe la prochaine réunion.",
+      "conclusion": "Cet épisode montre que, dans la démence due à la maladie de Huntington, la difficulté peut porter sur l’organisation d’une tâche plutôt que sur la mémoire de son contenu. Clarisse garde le choix de ses écoles ; la liste au dos du calque lui donne un ordre, sans lui donner encore des dates.",
+      "mirror": [
+        "Devant le sol couvert de calques, Viviane a d’abord proposé de trier à la place de sa sœur. Un proche peut plutôt demander : « Tu veux que j’écrive les étapes pendant que tu me les dictes ? » puis tenir le feutre sans choisir. Il peut aussi dire ce qu’il ne fera pas, pour que la personne reste maîtresse de ses documents. Si la tâche reste bloquée de semaine en semaine, il peut lui suggérer d’en parler à son neurologue, sans décider pour elle que c’est trop."
+      ],
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "pnds-huntington-2021",
+        "nice-ng97"
+      ],
+      "continuity": {
+        "choice": "Clarisse refuse que Viviane trie à sa place ; elles écrivent au dos d’un calque une liste de quatre étapes (un carton par samedi, un seul critère : les écoles) et le carton un est trié avant le soir, quatre écoles mises de côté.",
+        "next": "La liste fixe l’ordre des étapes mais pas les dates : la réunion du groupe à l’Atelier des Quais, un mardi, va lui échapper."
+      },
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 2,
+      "slug": "clarisse-orientation-temporelle-huntington-reunion-manquee",
+      "title": "Perdre les dates en gardant son chemin",
+      "description": "Clarisse rejoint l’Atelier sans hésiter, mais la réunion a eu lieu la veille : dans la maladie de Huntington, le temps se dérègle avant l’espace.",
+      "context": "un mercredi, devant une salle vide",
+      "topics": [
+        "Démence due à la maladie de Huntington",
+        "orientation dans le temps",
+        "rappels et calendrier"
+      ],
+      "clinical_focus": "Perdre les dates en gardant son chemin",
+      "clinical_intro": "Se repérer dans le temps et se repérer dans l’espace ne reposent pas exactement sur les mêmes capacités. Dans la maladie de Huntington, les jours, les délais et l’ordre des rendez-vous peuvent devenir incertains bien avant que le chemin habituel ne pose problème. Clarisse traverse l’île de Nantes sans une hésitation, et découvre en arrivant qu’elle s’est trompée de jour.",
+      "opening": "Le mercredi, à dix-huit heures moins dix, Clarisse quitte son immeuble avec le carton un sous le bras, trié le samedi : quatre écoles roulées dans une chemise de papier kraft. Elle prend le quai, longe les anciennes cales, tourne devant la grue jaune et pousse la porte de l’Atelier des Quais, le lieu associatif consacré à l’architecture où se réunit le groupe de l’exposition. Ce chemin, elle le fait depuis vingt ans ; elle n’a pas regardé une seule plaque de rue.\n\nLa grande salle est éteinte. Les chaises sont empilées contre le mur, la table est nue. Le gardien, un homme qu’elle salue depuis des années sans connaître son nom, sort de son bureau. « Le groupe de l’exposition ? C’était hier soir, madame, mardi. Ils sont restés tard. » Clarisse répond que non, que la réunion est le mercredi. Il montre le tableau d’affichage : « Mardi 18 h, groupe Des écoles pour la ville ». La feuille porte l’écriture de Yannick Riou, son ancien associé, qui coordonne le groupe.\n\nSur le trottoir, elle ouvre son téléphone. Elle y trouve trois rappels qu’elle a programmés elle-même : « Atelier lundi », « Atelier mercredi 18 h », « Penser carton mardi ? ». Elle ne sait plus lequel est venu en premier, ni pourquoi elle a choisi de croire le deuxième. Elle se souvient pourtant du courriel, de la salle, des huit personnes du groupe. Elle rentre par le même quai, le carton sous le bras. Elle avait préparé ce qu’elle dirait de chaque école. Personne ne l’a vu. Chez elle, elle pose le carton dans l’entrée, sans l’ouvrir, et ne répond pas au message du soir où Yannick écrit : « Tu nous as manqué hier. »",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Le temps se dérègle avant l’espace",
+          "text": "Dans la maladie de Huntington, l’orientation dans le temps peut être altérée plus tôt que l’orientation dans l’espace : la personne garde ses trajets familiers mais perd plus facilement le jour, la durée écoulée ou l’ordre de plusieurs rendez-vous. Ces difficultés s’associent à celles de la planification. Chez Clarisse, le chemin vers l’Atelier des Quais ne pose aucun problème, alors que trois rappels contradictoires suffisent à brouiller la date d’une réunion. Une routine stable et des rappels peuvent aider, mais leur nombre compte : chez certaines personnes, multiplier les alarmes entretient la vérification plutôt que de la calmer. Enfin, cet oubli prévisible se distingue d’une confusion brutale et inhabituelle, avec une attention ou une conscience altérées : celle-ci appelle un avis médical rapide pour en chercher la cause, sans l’attribuer d’emblée à la démence connue."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment une désorientation dans le temps se distingue-t-elle d’un simple oubli ?",
+          "points": [
+            {
+              "heading": "Le trajet reste sûr, le jour devient flou",
+              "text": "La personne peut se déplacer sans difficulté dans un quartier connu tout en se trompant sur le moment où elle doit y être.",
+              "examples": [
+                "Clarisse rejoint l’Atelier sans lire une plaque de rue, mais un jour trop tard.",
+                "Elle reconnaît le gardien et la salle, mais pas la date écrite par Yannick au tableau."
+              ]
+            },
+            {
+              "heading": "Des rappels qui se contredisent",
+              "text": "Quand l’ordre des événements est incertain, la personne peut ajouter des repères qui finissent par se concurrencer.",
+              "examples": [
+                "Son téléphone annonce l’Atelier un lundi, un mercredi, puis pose une question pour mardi.",
+                "Elle ne sait plus lequel de ses trois rappels est le plus récent."
+              ]
+            },
+            {
+              "heading": "Une déception qui tient à la scène manquée",
+              "text": "Le retentissement est souvent social : ce que la personne avait préparé n’a pas trouvé son public.",
+              "examples": [
+                "Clarisse rentre avec les quatre écoles qu’elle voulait présenter au groupe.",
+                "Elle laisse sans réponse le message de Yannick qui dit qu’elle a manqué."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour garder ses rendez-vous quand les dates glissent",
+          "points": [
+            {
+              "heading": "Un seul support pour toutes les dates",
+              "objective": "Éviter que plusieurs sources de dates se contredisent.",
+              "exercise": [
+                "Choisir avec la personne un support unique, visible dans un lieu de passage.",
+                "Y reporter chaque rendez-vous dès qu’il est connu, avec l’heure et le lieu.",
+                "Supprimer les rappels et notes anciens qui doublent ce support."
+              ],
+              "benefit": "Un repère unique peut réduire les erreurs d’ordre ; il ne supprime pas la difficulté."
+            },
+            {
+              "heading": "Peu d’alarmes, choisies ensemble",
+              "objective": "Recevoir un rappel utile sans multiplier les vérifications.",
+              "exercise": [
+                "Décider ensemble du moment le plus utile pour être prévenu, par exemple la veille.",
+                "Programmer une seule alarme par rendez-vous, avec un texte complet.",
+                "Revoir après quelques semaines si ce rappel aide ou s’il inquiète davantage."
+              ],
+              "benefit": "Un rappel bien placé peut suffire, alors que trop d’alarmes risquent d’entretenir le doute."
+            },
+            {
+              "heading": "Une trace écrite après chaque réunion",
+              "objective": "Garder le lien avec un groupe même après un rendez-vous manqué.",
+              "exercise": [
+                "Demander à l’organisateur un compte rendu très court après chaque séance.",
+                "Y faire figurer la date de la séance suivante en toutes lettres.",
+                "Signaler à l’équipe de neurologie toute confusion soudaine qui ne ressemble pas aux oublis habituels."
+              ],
+              "benefit": "Le groupe reste accessible ; un changement inhabituel est examiné par un médecin."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Le calendrier de l’entrée",
+      "ending": "Le samedi suivant, quand Viviane, sa sœur cadette, arrive de Saint-Nazaire, Clarisse a déjà décroché la reproduction de Le Corbusier de l’entrée. « Il me faut un seul endroit pour les dates. » Elles achètent ensemble un grand calendrier mural et le fixent à côté de la porte, là où Clarisse pose ses clés. Elle supprime elle-même les trois rappels du téléphone et en programme un seul, la veille de chaque réunion à dix-huit heures : « Demain mardi 18 h, Atelier des Quais. » Puis elle répond enfin à Yannick : « Je me suis trompée de jour. Peux-tu m’envoyer après chaque séance un compte rendu de trois lignes, avec la date de la suivante ? » Il répond dans l’heure : « Bien sûr. Prochaine réunion mardi 18 h. On parlera de l’affiche. » Clarisse l’écrit au calendrier. Le carton deux, lui, attendra le samedi suivant : la liste du calque glisse d’une semaine. Et un calendrier ne lui dira pas quel jour on est si elle oublie de le regarder.",
+      "conclusion": "Cet épisode fait comprendre que, dans la maladie de Huntington, perdre une date n’est pas perdre ses repères dans la ville. Clarisse remplace ses rappels contradictoires par un calendrier unique, une alarme et un compte rendu de Yannick, sans que la difficulté disparaisse.",
+      "mirror": [
+        "Yannick a écrit « Tu nous as manqué hier », une phrase gentille qui pouvait aussi sonner comme un reproche. Un proche ou un collègue peut plutôt envoyer la date suivante en toutes lettres, sans commenter l’absence : « Prochaine réunion mardi 18 h, on t’attend avec tes écoles. » Il n’a pas à surveiller l’agenda de la personne. Si un jour elle semble brusquement perdue dans un lieu familier ou très différente de d’habitude, mieux vaut l’encourager à joindre rapidement son médecin."
+      ],
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "pnds-huntington-2021"
+      ],
+      "continuity": {
+        "choice": "Clarisse remplace ses trois rappels par un calendrier mural dans l’entrée et une seule alarme la veille de chaque réunion ; Yannick accepte d’envoyer un compte rendu de trois lignes après chaque séance.",
+        "next": "À la réunion du mardi suivant, le groupe veut qu’elle redessine l’esquisse de l’école des Peupliers devant tout le monde pour l’affiche."
+      },
+      "diagnostic_stage": "known"
+    }
+  ]
+}

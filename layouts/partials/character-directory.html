@@ -1,6 +1,6 @@
 <section id="personnages" class="character-directory" aria-labelledby="character-directory-title">
   <div class="character-directory-heading">
-    {{ if .IsHome }}<h1 id="character-directory-title">Explorer les personnages</h1>{{ else }}<h2 id="character-directory-title">Explorer les personnages</h2>{{ end }}
+    {{ if .IsHome }}<h1 id="character-directory-title">Personnages</h1>{{ else }}<h2 id="character-directory-title">Explorer les personnages</h2>{{ end }}
     {{ $characters := where .Site.RegularPages "Section" "personnages" }}
     <p id="character-count" class="keyword-explainer" role="status">{{ len $characters }} personnages à explorer</p>
   </div>

@@ -1,0 +1,208 @@
+{
+ "schema_version": 1,
+ "character_id": "amaury",
+ "code": "6D85.0",
+ "article_format": 2,
+ "bio": "Amaury, 70 ans, ancien conducteur de bus à Saint-Étienne, veut faire écouter ses souvenirs de lignes à deux jeunes documentaristes pour l’association Mémoire des lignes. Sa démence due à la maladie de Parkinson est déjà diagnostiquée : selon l’heure, sa pensée ralentit, sa voix faiblit et un récit bien connu se met en désordre. Avec sa compagne Rosa et l’équipe spécialisée Parkinson qui le suit, il choisit le moment des séances, leur durée et ce que le groupe pourra montrer.",
+ "profile_topics": [
+  "Démence due à la maladie de Parkinson",
+  "Choisir ses heures quand les capacités fluctuent",
+  "Voix faible et lenteur prises pour de l’oubli",
+  "Attention et organisation d’un récit",
+  "Accord sur ce que le film partagera"
+ ],
+ "voice": "Des phrases courtes, l’humour d’un conducteur qui tient ses horaires (« on ne part pas avant l’heure ») et les noms d’arrêts récités dans l’ordre. Ces images sont celles d’Amaury, jamais une explication du trouble. Il raconte volontiers la neige de 1985 ou les écoliers du terminus, se tait sur sa santé quand il le décide et préfère une question à la fois.",
+ "series_goal": "Terminer avec Soizic Teyssier et Wassim Rey un film de vingt minutes sur ses lignes, tourné en séances courtes le matin, projeté d’abord à l’association avec les seuls passages qu’il a validés, tout en distinguant les variations de ses capacités des aggravations qui demandent un avis et en préparant avec l’équipe des souhaits révisables pour la suite.",
+ "continuity_rules": [
+  "Diagnostic établi avant la série : known aux douze épisodes. Maladie de Parkinson diagnostiquée il y a neuf ans ; trouble cognitif léger noté il y a quatre ans ; démence due à la maladie de Parkinson posée il y a un an par la docteure Aubertin, considérée comme légère par l’équipe au début. Aucun stade, aucune vitesse d’évolution et aucun diagnostic supplémentaire ne sont déduits d’une scène.",
+  "Personnes : Rosa Ferreira, 67 ans, compagne, ancienne aide-comptable, chorale le jeudi, a ses limites et peut passer le relais ; Soizic Teyssier, réalisatrice, et Wassim Rey, son et image ; Gérard Vial, président de l’association Mémoire des lignes ; docteure Aubertin, neurologue ; Sabine Ferrand, infirmière de coordination de l’équipe spécialisée Parkinson ; Quentin Delorme, orthophoniste (à partir de 2) ; Mme Chassagne, psychologue (10) ; docteur Pons, médecin traitant. Aucun proche ni documentariste ne joue au diagnosticien ou ne modifie un traitement.",
+  "Objets et lieux : salle de l’association près d’un ancien dépôt ; boîte en fer de feuilles de service ; casquette posée sur la table comme signal de pause (3) ; fiches d’étapes (4) ; copie agrandie du plan de 1987 avec la 9 surlignée (5) ; ancien bus de l’association ; micro-cravate (2) ; feuille d’horaires de traitement préparée avec l’équipe, jamais reproduite (11).",
+  "Décisions : séances le matin à dix heures dès 1 ; quarante minutes avec pause dès 3 ; une étape par séance dès 4 ; Amaury ne conduit plus la voiture de l’association dès 9 ; hôpital après appel au 15 en 11, cause infectieuse trouvée par les soignants et non présumée ; l’hôpital reste hors du film ; projection à l’association avant toute diffusion en ligne en 12.",
+  "Aucun nom de médicament, aucune dose, aucun horaire de prise ni modification de traitement. Les expériences de présence (8) sont signalées à l’équipe, jamais confrontées ni confirmées ; Amaury décide qui en est informé. Le manque d’élan (10) n’est tranché ni en apathie ni en dépression par un proche. Les aménagements sont des arrangements d’organisation, sans efficacité thérapeutique revendiquée.",
+  "Fin : film de vingt minutes projeté à l’association avec les passages validés par Amaury ; souhaits révisables confiés à Rosa et au docteur Pons ; la démence suit l’évolution de la maladie de Parkinson et Amaury continue de choisir ce qu’il partage."
+ ],
+ "episodes": [
+  {
+   "number": 1,
+   "focus": "Choisir l’heure selon les fluctuations de la journée",
+   "scene": "Dans la salle de l’association Mémoire des lignes, à Saint-Étienne, Gérard Vial a fixé le premier enregistrement à quinze heures. Amaury, 70 ans, ancien conducteur de bus, arrive avec sa boîte en fer de feuilles de service. Le matin, il racontait à Rosa le premier départ de 5 h 10 sans chercher ses mots. Devant le micro de Wassim Rey, ses gestes ralentissent, la réponse tarde, et il demande à Soizic Teyssier de répéter sa question. Gérard propose de « pousser jusqu’à dix-huit heures pour tout boucler ».",
+   "development": "Dans la démence due à la maladie de Parkinson, les capacités disponibles peuvent varier au cours de la journée, et les périodes où les signes moteurs reviennent peuvent s’accompagner d’un ralentissement de la pensée. L’explication part de cette variation, puis revient au contraste entre le récit du matin et la séance de l’après-midi. Trois appuis : repérer avec Amaury ses moments plus disponibles ; organiser les rendez-vous autour de ces moments plutôt que de l’horaire du groupe ; signaler les variations à l’équipe spécialisée sans toucher au traitement. Aucun horaire de prise ni médicament n’est décrit.",
+   "ending": "Amaury arrête la séance au bout de vingt minutes et annonce qu’il ne reviendra que le matin, à dix heures. Gérard accepte à contrecœur de déplacer le planning ; Soizic note l’heure sur le calendrier du film.",
+   "next": "À dix heures, le récit de la neige de 1985 se heurte à une autre difficulté : la voix d’Amaury ne porte plus jusqu’au micro.",
+   "source_refs": [
+    "oms-cddr",
+    "oms-cddr-hrb",
+    "litvan-2012",
+    "has-parkinson-2016",
+    "nice-ng71"
+   ],
+   "diagnostic_stage": "known"
+  },
+  {
+   "number": 2,
+   "focus": "Voix faible et réponse lente prises pour un oubli",
+   "scene": "Le jeudi suivant, à dix heures, Amaury raconte la neige de 1985 sur la côte de Montreynaud. Wassim retire son casque : la voix est si basse qu’il n’entend qu’un souffle. Soizic enchaîne trois questions pendant qu’Amaury cherche encore le début de sa phrase. Il se tait. Gérard, à côté, glisse : « Il ne s’en souvient plus, passons aux autres. » Amaury se souvient très bien du bus resté en travers ; c’est la phrase qui met du temps à sortir, et sa voix qui ne suit pas.",
+   "development": "La voix plus faible et monotone de la maladie de Parkinson et la lenteur à répondre peuvent être prises à tort pour un oubli ou une confusion. L’explication distingue ce que la personne sait de ce qu’elle peut dire à ce moment-là, puis revient à la neige de 1985. Trois appuis : laisser le temps de répondre et poser une question à la fois ; adapter le matériel plutôt que demander de crier ; s’appuyer sur l’orthophonie, que l’équipe peut proposer. Aucune évaluation de la mémoire par le groupe.",
+   "ending": "Amaury demande à Gérard de le laisser finir et accepte un micro-cravate. Il prend rendez-vous avec Quentin Delorme, l’orthophoniste de l’équipe, et propose à Soizic de lui montrer d’un geste quand il a terminé.",
+   "next": "La séance suivante dure plus longtemps, et c’est la fin de l’heure qui devient difficile.",
+   "source_refs": [
+    "oms-cddr",
+    "oms-cddr-hrb",
+    "has-parkinson-2016",
+    "nice-ng71"
+   ],
+   "diagnostic_stage": "known"
+  },
+  {
+   "number": 3,
+   "focus": "Une attention qui s’épuise au fil de la séance",
+   "scene": "Pour gagner du temps, Gérard a prévu une séance d’une heure et demie sur les écoliers du terminus. Pendant les trente premières minutes, Amaury raconte la petite Fatou qui faisait ses devoirs sur la banquette du fond. Ensuite, il perd le fil quand Wassim déplace la lampe, recommence deux fois la même anecdote et regarde la porte. Il dit qu’il va bien, mais il pose sa casquette sur la table, comme à la fin d’un service.",
+   "development": "Dans cette démence, l’attention soutenue peut s’épuiser plus vite, et un récit bien commencé peut se défaire avec la durée ou les distractions. L’explication part de la difficulté à maintenir l’attention, puis revient à la casquette posée sur la table. Trois appuis : fixer une durée courte choisie avec Amaury ; réduire les changements autour de lui pendant la prise ; convenir d’un signal de pause qu’il peut utiliser sans se justifier. Aucune interprétation de la baisse d’attention comme de la mauvaise volonté.",
+   "ending": "Amaury fixe la règle : quarante minutes, une pause, et la casquette sur la table veut dire stop. Wassim règle la lumière avant son arrivée. Gérard grimace devant le calendrier, qui s’allonge de trois semaines.",
+   "next": "Avec des séances courtes, Soizic demande l’ordre de toute une journée de service, et l’organisation du récit pose problème.",
+   "source_refs": [
+    "oms-cddr",
+    "oms-cddr-hrb",
+    "emre-2007",
+    "nice-ng97"
+   ],
+   "diagnostic_stage": "known"
+  },
+  {
+   "number": 4,
+   "focus": "Ordonner les étapes d’un récit de service",
+   "scene": "Soizic voudrait suivre une journée type : prise de service au dépôt, premier départ, coupure de midi, relève. Amaury connaît chaque étape, mais il commence par la relève, saute à la coupure et ne sait plus comment revenir au dépôt. Quand Soizic propose de reprendre dans l’ordre, il s’énerve contre lui-même : « Je l’ai fait dix mille fois, cette journée. » Les feuilles de service de la boîte en fer sont étalées en désordre sur la table.",
+   "development": "Les fonctions exécutives, qui servent à planifier, ordonner et passer d’une étape à l’autre, sont souvent touchées dans la démence due à la maladie de Parkinson, même quand les souvenirs restent présents. L’explication distingue le savoir ancien et la mise en ordre du récit, puis revient aux feuilles étalées. Trois appuis : découper le récit en étapes visibles ; traiter une étape par séance ; laisser Amaury choisir l’ordre final au montage. Aucun exercice cognitif présenté comme un traitement.",
+   "ending": "Amaury classe avec Rosa quatre feuilles de service dans l’ordre de la journée et en fait des fiches, une par étape. Il enregistrera une étape par séance et validera l’ordre au montage.",
+   "next": "La fiche du premier départ renvoie au plan du réseau de 1987, que Wassim veut filmer.",
+   "source_refs": [
+    "oms-cddr",
+    "oms-cddr-hrb",
+    "emre-2007",
+    "has-parkinson-2016"
+   ],
+   "diagnostic_stage": "known"
+  },
+  {
+   "number": 5,
+   "focus": "Suivre un trajet sur un plan de réseau",
+   "scene": "Wassim a déplié le grand plan du réseau de 1987 sur la table pour qu’Amaury montre le trajet de la 9. Amaury connaît les arrêts par cœur et les récite dans l’ordre. Pourtant, son doigt glisse sur une ligne voisine, il confond deux couleurs proches et cherche le terminus au mauvais coin du plan. Il replie le papier d’un geste sec et dit qu’on n’a qu’à filmer les arrêts en voix seule.",
+   "development": "Les capacités visuospatiales, qui permettent de situer des lignes et des repères dans l’espace, font partie des domaines souvent atteints dans cette démence, sans que la mémoire des lieux disparaisse. L’explication sépare les arrêts qu’Amaury connaît et le plan qu’il doit lire, puis revient au papier replié. Trois appuis : simplifier ce qui est montré ; ajouter un repère tactile ou contrasté ; laisser la parole guider l’image plutôt que l’inverse. Aucun test visuel remis à l’entourage.",
+   "ending": "Amaury accepte une copie agrandie où seule la 9 est surlignée en noir. Il récite les arrêts pendant que Wassim suit le tracé à la caméra. Le grand plan d’origine reste replié dans la boîte en fer.",
+   "next": "Au visionnage des premiers rushs, Soizic s’inquiète de l’expression d’Amaury à l’image.",
+   "source_refs": [
+    "oms-cddr",
+    "oms-cddr-hrb",
+    "emre-2007",
+    "nice-ng97"
+   ],
+   "diagnostic_stage": "known"
+  },
+  {
+   "number": 6,
+   "focus": "Un visage peu expressif n’est pas de l’indifférence",
+   "scene": "Soizic montre à Amaury et Rosa les premiers rushs dans la salle de l’association. Pendant qu’il raconte les écoliers du terminus, son visage reste presque immobile. Soizic propose avec précaution de couper ces plans : « On dirait que ça ne te touche pas. » Amaury répond qu’il avait la gorge serrée en parlant de Fatou. Rosa connaît ce visage qui ne bouge plus comme avant et sait que, derrière, il est souvent ému.",
+   "development": "Dans la maladie de Parkinson, l’expression du visage peut diminuer, et ce visage peu mobile peut être pris pour de l’indifférence ou de la tristesse sans l’être. L’explication part de ce décalage entre ce que la personne ressent et ce que son visage montre, puis revient aux rushs. Trois appuis : demander plutôt que lire le visage ; laisser la personne nommer ce qu’elle ressentait ; choisir avec elle comment le film la montre. Le récit ne présente pas ce visage comme un signe de dépression.",
+   "ending": "Amaury refuse qu’on coupe les plans. Il demande des images de ses mains sur le volant de l’ancien bus de l’association et une phrase à lui en voix off pour dire ce qu’il ressentait.",
+   "next": "Soizic veut maintenant écrire dans le texte du film le nom de la maladie, et Amaury hésite sur le mot démence.",
+   "source_refs": [
+    "oms-cddr",
+    "has-parkinson-2016",
+    "nice-ng97"
+   ],
+   "diagnostic_stage": "known"
+  },
+  {
+   "number": 7,
+   "focus": "Trouble cognitif léger ou démence : ce qui a changé",
+   "scene": "Avant la consultation de suivi chez la docteure Aubertin, Soizic demande à Amaury comment présenter sa maladie dans le film. Il dit « Parkinson » sans difficulté, mais bute sur « démence ». Il y a quatre ans, la neurologue avait parlé d’un trouble cognitif léger ; il continuait alors à tenir seul les comptes de l’association. Depuis l’an dernier, Rosa vérifie les factures avec lui. En consultation, Amaury pose lui-même la question : qu’est-ce qui a changé entre les deux mots ?",
+   "development": "Dans la maladie de Parkinson, des difficultés cognitives peuvent exister sans démence ; on parle de démence quand plusieurs domaines sont nettement touchés et que la vie quotidienne s’en trouve significativement gênée, ce que seule une évaluation spécialisée établit. L’explication part de ce spectre, puis revient aux comptes de l’association. Trois appuis : poser ses questions à la neurologue ; distinguer ce qui a changé dans la vie quotidienne ; choisir ses propres mots pour en parler. Aucun critère proposé pour conclure sur soi ou un proche.",
+   "ending": "La docteure Aubertin explique ce qui a fondé le diagnostic posé l’an dernier. Amaury décide que le film dira « démence due à la maladie de Parkinson » une seule fois, dans un carton qu’il rédige, et qu’il ne veut pas en faire le sujet du film.",
+   "next": "Quelques jours plus tard, dans le dépôt, Amaury croit sentir quelqu’un derrière lui.",
+   "source_refs": [
+    "oms-cddr",
+    "oms-cddr-hrb",
+    "litvan-2012",
+    "emre-2007"
+   ],
+   "diagnostic_stage": "known"
+  },
+  {
+   "number": 8,
+   "focus": "Une présence fugace à signaler à l’équipe",
+   "scene": "Pendant une prise dans l’ancien bus de l’association, Amaury s’interrompt deux fois. Il a l’impression qu’un passager vient de monter par la porte arrière, et il se retourne : personne. Il ne raconte rien sur le moment. Le soir, il le confie à Rosa, gêné, en précisant que ce n’était pas effrayant, plutôt agaçant. Rosa se demande s’il faut en parler à Soizic ou appeler quelqu’un.",
+   "development": "Dans la maladie de Parkinson et sa démence, des expériences brèves comme la sensation d’une présence ou d’un passage au coin de l’œil peuvent survenir ; elles se signalent à l’équipe, qui en recherche les causes possibles, y compris médicamenteuses. L’explication part de ces expériences dites mineures, puis revient à la porte arrière du bus. Trois appuis : en parler sans honte à l’équipe ; noter les circonstances ; ne pas confronter ni confirmer. Aucun médicament, aucune modification de traitement n’est décrite.",
+   "ending": "Amaury appelle lui-même Sabine Ferrand, l’infirmière de coordination, qui en parle à la docteure Aubertin et lui propose un point lors du prochain suivi. Il décide de ne rien dire au groupe et Rosa respecte ce choix.",
+   "next": "Les séances reprennent, mais les après-midi de montage deviennent difficiles pour une autre raison : Amaury s’endort.",
+   "source_refs": [
+    "oms-cddr",
+    "has-parkinson-2016",
+    "nice-ng71",
+    "nice-ng97"
+   ],
+   "diagnostic_stage": "known"
+  },
+  {
+   "number": 9,
+   "focus": "Somnolence de l’après-midi pendant le montage",
+   "scene": "Soizic a invité Amaury à choisir les plans sur l’ordinateur de l’association, à quatorze heures. Après le repas, il s’assoupit deux fois devant l’écran, se réveille en sursaut et valide un plan qu’il voulait couper. Gérard propose qu’il rentre en voiture avec la vieille Peugeot de l’association, qu’Amaury conduisait encore pour les sorties l’an passé. Rosa, à la chorale, n’est pas joignable.",
+   "development": "La somnolence pendant la journée fait partie des difficultés décrites dans la démence due à la maladie de Parkinson ; elle peut aussi être liée à certains traitements et compte dans les décisions de sécurité. L’explication part de cette somnolence, puis revient au plan validé par erreur et à la voiture. Trois appuis : placer les tâches qui demandent du jugement aux heures d’éveil ; garder des activités régulières plutôt que de longues siestes ; signaler la somnolence à l’équipe et ne pas prendre le volant. Aucun conseil médicamenteux.",
+   "ending": "Amaury refuse les clés et rentre en taxi. Il annule sa validation de l’après-midi, reporte le montage au matin et en parle à Sabine Ferrand au téléphone le lendemain.",
+   "next": "La semaine suivante, Amaury ne veut plus aller à l’association du tout.",
+   "source_refs": [
+    "oms-cddr",
+    "has-parkinson-2016",
+    "nice-ng71"
+   ],
+   "diagnostic_stage": "known"
+  },
+  {
+   "number": 10,
+   "focus": "Moins d’élan : apathie ou dépression à évaluer",
+   "scene": "Le mardi, Amaury reste dans son fauteuil quand Rosa lui rappelle la séance de dix heures. Il dit que ça ne vaut pas le déplacement et laisse sa boîte en fer sur l’étagère. Il ne se dit pas triste, simplement « sans moteur ». Rosa, qui a annulé deux répétitions de chorale ce mois-ci, s’agace puis s’inquiète. Elle se demande si elle doit insister ou appeler quelqu’un.",
+   "development": "Un manque d’élan peut relever de l’apathie, d’une dépression ou des deux, et les signes de la maladie de Parkinson se confondent parfois avec ceux de la dépression ; c’est l’équipe qui évalue. L’explication part de cette difficulté à distinguer, puis revient au fauteuil et à la boîte en fer. Trois appuis : décrire ce qui a changé sans conclure ; demander un avis à l’équipe ; proposer une activité courte choisie par Amaury. Le récit ne tranche pas et ne nomme aucun traitement.",
+   "ending": "Amaury accepte un rendez-vous avec Mme Chassagne, la psychologue de l’équipe, et propose à Soizic une séance de vingt minutes chez lui. Rosa reprend la chorale et demande à Sabine Ferrand des informations sur les solutions de répit.",
+   "next": "Avant la séance chez lui, Amaury se réveille un matin fiévreux et ne reconnaît plus l’heure ni la cuisine.",
+   "source_refs": [
+    "oms-cddr",
+    "oms-cddr-hrb",
+    "has-parkinson-2016",
+    "nice-ng71"
+   ],
+   "diagnostic_stage": "known"
+  },
+  {
+   "number": 11,
+   "focus": "Une aggravation brusque demande un avis urgent",
+   "scene": "Un matin, Rosa trouve Amaury fiévreux, agité, incapable de dire quel jour on est ; il confond la cuisine avec le dépôt. La veille encore, il préparait la séance chez lui. Rosa pense d’abord que « c’est la maladie qui avance », puis compose le 15. Aux urgences, une infirmière prend sa voix faible et sa lenteur pour de la confusion supplémentaire. Rosa tend la feuille d’horaires de traitement préparée avec l’équipe et explique comment Amaury parle d’habitude.",
+   "development": "Chez une personne atteinte de démence, un changement brutal de l’attention, de l’orientation ou de la vigilance n’est pas présumé être l’évolution de la maladie : il demande une évaluation médicale rapide de sa cause. L’explication part de ce risque accru de confusion aiguë, puis revient à l’appel au 15 et à l’hôpital, où les horaires de traitement et la façon de communiquer comptent. Trois appuis : appeler le 15 sans attendre ; transmettre les documents de l’équipe ; dire aux soignants comment la personne communique d’habitude. Aucun médicament ni horaire n’est détaillé.",
+   "ending": "Les soignants trouvent une infection et la traitent ; Amaury rentre chez lui après quelques jours, encore fatigué. Il demande que l’hôpital ne figure pas dans le film et qu’on reporte la séance chez lui de deux semaines.",
+   "next": "De retour chez lui, Amaury veut finir le film et décider seul de ce que le groupe verra.",
+   "source_refs": [
+    "oms-cddr",
+    "oms-cddr-hrb",
+    "has-parkinson-2016",
+    "nice-ng71",
+    "nice-ng97",
+    "service-public-15"
+   ],
+   "diagnostic_stage": "known"
+  },
+  {
+   "number": 12,
+   "focus": "Choisir ce qui sera partagé et anticiper la suite",
+   "scene": "Trois semaines après l’hôpital, Soizic et Wassim viennent chez Amaury un matin avec le montage de vingt minutes. Il regarde par séquences courtes, la casquette à portée de main. Il garde la neige de 1985, Fatou et les mains sur le volant ; il retire un passage où il cherche longuement le terminus. Gérard voudrait diffuser le film en ligne ; Amaury veut d’abord une projection à l’association. Le lendemain, il a rendez-vous avec la docteure Aubertin et Sabine Ferrand pour parler de la suite.",
+   "development": "La démence due à la maladie de Parkinson suit souvent l’évolution de la maladie de Parkinson elle-même, et le moment où la personne peut encore décider est celui où l’on prépare ses souhaits, révisables à chaque suivi. L’explication part de cette évolution, puis revient au montage validé. Trois appuis : décider avec la personne ce qui est partagé, avec qui et où ; écrire des souhaits pour les soins et la vie quotidienne ; les revoir régulièrement avec l’équipe. Aucune vitesse d’évolution n’est promise.",
+   "ending": "Le film est projeté à l’association avec les passages qu’Amaury a validés ; la diffusion en ligne attendra son accord écrit. Avec l’équipe, il rédige des souhaits révisables confiés à Rosa et au docteur Pons, en sachant que la maladie continue d’évoluer.",
+   "next": "Après la projection, Amaury propose d’écouter les souvenirs d’un ancien collègue, le matin, à dix heures.",
+   "source_refs": [
+    "oms-cddr",
+    "oms-cddr-hrb",
+    "nice-ng71",
+    "nice-ng97",
+    "has-parkinson-2016"
+   ],
+   "diagnostic_stage": "known"
+  }
+ ]
+}

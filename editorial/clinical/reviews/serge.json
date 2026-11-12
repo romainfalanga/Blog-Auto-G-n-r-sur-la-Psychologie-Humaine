@@ -1,0 +1,124 @@
+{
+  "schema_version": 1,
+  "character_id": "serge",
+  "reviewer": "review_serge",
+  "reviewed_on": "2026-11-12",
+  "status": "passed",
+  "summary": "Troisième relecture. Les deux points ouverts au deuxième passage sont résolus : le continuity.choice de l’ép. 4 enregistre l’accord, l’appel, le jeudi maintenu, le mardi annulé, l’enveloppe aux deux numéros et le point à trois semaines, désormais inscrit « au lundi correspondant » ; l’ép. 9 raccorde le rendez-vous complémentaire du mardi fixé en ép. 8, Armand en ayant reçu les éléments. Seuls les ép. 4 et 9 diffèrent de la version précédente (vérifié champ par champ). La répétition « par le docteur Armand. Le docteur Armand, le médecin… » dans l’ouverture de l’ép. 9 est une lourdeur stylistique sans effet sur la compréhension, les faits ou la sécurité ; elle ne justifie pas de correction bloquante et peut être allégée lors de l’intégration. Bilan d’ensemble des deux passages précédents maintenu : douze facettes distinctes conformes au dossier, aucun procédé de falsification ni examen nommé, soin jamais conditionné à un aveu, urgences (15, 3114) et soins légitimes accessibles, proches sans rôle d’enquête ou de surveillance, affirmations cliniques fidèles aux limites d’OMS, Bérar2021, Eastwood2008, Liu2025 et Mayo. Aucune correction ouverte ; cette acceptation éditoriale ne vaut ni expertise clinique individuelle ni preuve de déploiement.",
+  "files": {
+    "editorial/clinical/designs/serge.json": "9d855e9c1026e1b39a3696f65eb63bb81aee86f3be1340ec8042ccdc85238727",
+    "editorial/clinical/dossiers/serge.json": "a3cfbfa2f718c4dbcb8533ce11af976098546fa7f0a3764d351b2ada16bbaa2a",
+    "editorial/clinical/serge.json": "22b3b09d56971b9a42713697445c86a2fe2c8511b28f4a2ff799a44b050d8db8"
+  },
+  "findings": [],
+  "episode_checks": [
+    {
+      "number": 1,
+      "focus": "Corriger une information trompeuse",
+      "opening_quote": "Le calendrier des promenades occupe presque toute la table. Serge a tracé des cases assez larges pour que les dates restent lisibles une fois le document affiché à la résidence",
+      "ending_quote": "Il n’ajoute pas le contenu de la consultation. Les cases du calendrier sont encore vides ; elles ont désormais une étape de travail, tandis que la question médicale reste suivie au cabinet.",
+      "continuity_note": "Nouveau raccord : message de rendez-vous réécrit trois fois puis envoyé, rendez-vous « le jeudi suivant », inventaire promis le lendemain soir et reçu à l’heure en ép. 2.",
+      "clinical_note": "Définition 6D50 conforme à OMS p.593 ; la nature de l’information corrigée reste omise ; l’aveu n’est ni guérison ni condition de soin. Mireille et Armand sont désormais présentés par leur rôle.",
+      "relatives_note": "La phrase de Mireille porte sur les dates confirmées et à vérifier ; le proche encourage la transmission au médecin sans enquêter."
+    },
+    {
+      "number": 2,
+      "focus": "Place du rôle de malade",
+      "opening_quote": "L’inventaire est arrivé chez Mireille à l’heure annoncée. Elle rappelle Serge pour choisir entre deux créneaux",
+      "ending_quote": "Avec Inès, l’exploration de ce besoin reste ouverte. Une demande plus directe ne lui garantit pas une présence ; elle permet au moins que la réponse porte sur ce qu’il souhaite vraiment.",
+      "continuity_note": "Inchangé depuis la première relecture (vérifié par comparaison du champ). Deux créneaux renvoyés et demande de café sans réponse, reprise en ép. 7.",
+      "clinical_note": "Rôle de malade comme dimension possible (OMS p.594), crainte individuelle explorée par Inès sans causalité biographique.",
+      "relatives_note": "Claude répond selon sa disponibilité, sans récompense de sincérité ; Mireille revient à la tâche sans retrait d’attention punitif."
+    },
+    {
+      "number": 3,
+      "focus": "Inexpliqué ne signifie pas fabriqué",
+      "opening_quote": "Serge a retrouvé le document en classant les papiers destinés au cabinet. Une conclusion ancienne y reste prudente, sans explication certaine",
+      "ending_quote": "Serge range la feuille avec les documents médicaux, sans ajouter sa propre conclusion dans la marge. Elle reste incertaine à l’endroit où elle l’était ; elle n’est plus chargée de raconter toute sa personne.",
+      "continuity_note": "Inès est désormais présentée comme « la psychologue qui le suit » ; l’accord sur un suivi coordonné ouvre l’enveloppe de l’ép. 4.",
+      "clinical_note": "Frontières OMS p.594–595 restituées sans liste de signes ; l’ancien compte rendu n’est pas surinterprété et le diagnostic établi demeure.",
+      "relatives_note": "Phrase de Claude concrète (« je ne peux pas interpréter cette conclusion ») ; renvoi au médecin sans comparaison de documents."
+    },
+    {
+      "number": 4,
+      "focus": "Coordination et prévention des soins inutiles",
+      "opening_quote": "Le lundi suivant, Serge apporte une enveloppe épaisse au cabinet du docteur Armand, le médecin qui coordonne ses soins. Il y a réuni les documents demandés au rendez-vous précédent, sans y glisser les pages du calendrier des promenades",
+      "ending_quote": "Le soir, il reprend les dates du groupe sans demander à Mireille, la coordinatrice des promenades, de décider lesquels de ses soins méritent une place dans son agenda. Une question d’Armand sur les informations antérieures, posée en relisant les feuilles, lui reste toutefois en tête.",
+      "continuity_note": "Le lundi suivant l’ép. 3 : deux rendez-vous mardi/jeudi, appel au second service avec accord, jeudi maintenu, mardi annulé par Serge sur le trottoir, deux numéros au dos de l’enveloppe rangée dans le tiroir de l’entrée, retrouvée en ép. 8. Le continuity.choice enregistre désormais ces décisions, et le point à trois semaines est inscrit « au lundi correspondant ».",
+      "clinical_note": "Iatrogénie (OMS p.594, Bérar2021) traitée sans nommer d’examen ; Serge n’arbitre pas seul, l’accord précède l’appel, le 15 reste accessible sans passer par le médecin.",
+      "relatives_note": "Mireille et Claude sont situés ; Claude n’ouvre pas l’enveloppe ni ne conseille d’annuler ; urgence : « on appelle le 15 ». Concret et sûr."
+    },
+    {
+      "number": 5,
+      "focus": "Peur du blâme et alliance",
+      "opening_quote": "Le message de confirmation d’Inès, la psychologue qui le suit, est encore ouvert : rendez-vous mercredi à quinze heures. Serge a posé son téléphone à côté du calendrier, puis l’a repris",
+      "ending_quote": "En sortant, il voit le message de Mireille, la coordinatrice du groupe : la version complète du calendrier, promise après l’envoi des deux créneaux, tarde. Ce retard a besoin d’une réponse sur les tâches, pas d’un procès médical au sein du groupe.",
+      "continuity_note": "Rendez-vous du mercredi à quinze heures après le lundi de l’ép. 4 ; la promesse de version complète « après l’envoi des deux créneaux » prépare l’ép. 6.",
+      "clinical_note": "Inès explicite l’objet de la question d’Armand (décisions fondées sur des informations exactes) sans promettre l’arrêt des vérifications ; accord de partage avec Armand recueilli, repris en ép. 11. Pas de supériorité thérapeutique revendiquée (Eastwood2008).",
+      "relatives_note": "La phrase du proche renvoie à l’équipe sans décider qu’Armand accuse ; aucune relation conditionnée au récit des informations corrigées."
+    },
+    {
+      "number": 6,
+      "focus": "Retentissement sur les engagements",
+      "opening_quote": "Mireille, qui coordonne le groupe de promenade, a imprimé le brouillon que Serge lui a envoyé la veille au soir avec un mot : « presque complet ». Certaines cases contiennent deux créneaux possibles ; d’autres sont encore vides",
+      "ending_quote": "Contrairement au brouillon de la veille, il ne se dit pas presque complet : les cases ouvertes restent visibles au lieu d’être présentées comme achevées. Serge n’a pas tenu sa promesse initiale ; il dispose maintenant d’un rôle explicite et d’un relais réellement accepté pour poursuivre.",
+      "continuity_note": "Raccord résolu : brouillon « presque complet » imprimé, puis « Calendrier – version partielle 1 » envoyé au groupe le soir même, repris tel quel au café de l’ép. 7.",
+      "clinical_note": "Retentissement fonctionnel sans faire du calendrier une mesure d’aptitude ou de sincérité ; responsabilités conservées.",
+      "relatives_note": "Mireille répartit les tâches ; le volontaire reçoit une tâche de calendrier, pas une enquête de santé."
+    },
+    {
+      "number": 7,
+      "focus": "Soutien choisi sans surveillance",
+      "opening_quote": "Claude répond enfin à la proposition de café : il peut venir jeudi, pendant une heure. Serge inscrit l’horaire dans son agenda",
+      "ending_quote": "Ce moment ne résout pas le trouble, mais il existe sans compte rendu obligatoire ni examen de sincérité. Claude peut rester un ami avec une disponibilité limitée.",
+      "continuity_note": "Inchangé depuis la première relecture. Café du jeudi d’une heure répondant à l’ép. 2, départ à l’heure dite.",
+      "clinical_note": "Soutien choisi distinct du contrôle clinique ; participation d’un proche au suivi soumise à cadre et accord (Mayo).",
+      "relatives_note": "Phrase de Claude tirée du refus montré ; relais médical pour une question nouvelle."
+    },
+    {
+      "number": 8,
+      "focus": "Préserver les soins légitimes",
+      "opening_quote": "La version partielle du calendrier attend sa correction sur la table. Serge vient de recevoir les derniers horaires, mais une gêne physique nouvelle l’empêche de se concentrer sur les cases",
+      "ending_quote": "Serge informe Mireille, la coordinatrice du groupe, qu’il doit décaler la correction de mise en page ; il propose de reprendre après ce temps de soins. Il ne lui envoie pas les détails médicaux et ne lui demande pas de certifier qu’il avait raison de consulter.",
+      "continuity_note": "Enveloppe du tiroir de l’entrée et numéro direct de l’ép. 4 réutilisés ; appel à 10 h 20, rappel avant midi, cabinet à 16 h, rendez-vous complémentaire « le mardi suivant ». Ce rendez-vous est refermé en ép. 9, le mardi suivant.",
+      "clinical_note": "Coexistence d’une affection authentique (OMS p.593, Bérar2021) ; gêne ni décrite ni présumée factice ; examen effectif.",
+      "relatives_note": "Claude renvoie au contact médical ; Mireille organise le report sans juger le besoin ; urgence sans verdict amical."
+    },
+    {
+      "number": 9,
+      "focus": "Évaluer la santé psychique associée",
+      "opening_quote": "Le point de suivi a lieu un mardi matin, dans le bureau d’Inès, la psychologue qui accompagne Serge. Il arrive directement du rendez-vous complémentaire fixé la semaine précédente par le docteur Armand",
+      "ending_quote": "Mireille répond : « Parfait, dix jours. » Il ne sait pas encore si ses nuits vont s’améliorer.",
+      "continuity_note": "« Je ne sais pas si c’est important » et le message de Mireille sans réponse depuis trois jours sont désormais dans la scène. Serge arrive du rendez-vous complémentaire du mardi fixé en ép. 8 et Armand en a reçu les éléments ; la répétition « le docteur Armand » en ouverture est stylistique et non bloquante.",
+      "clinical_note": "Évaluation séparée sans comorbidité ajoutée ; question de bilan sur les idées de se faire du mal posée comme question habituelle, réponse négative non interprétée.",
+      "relatives_note": "Miroir corrigé : « On appelle le 3114 maintenant, ou le 15 si tu es en danger tout de suite », cohérent avec la technique 3. Mireille reste sur la tâche."
+    },
+    {
+      "number": 10,
+      "focus": "Objectifs de soin et preuves limitées",
+      "opening_quote": "Huit jours après le point de suivi, Serge arrive à sa séance avec Inès, la psychologue, une feuille pliée en quatre dans la main. Il y a écrit sa question la veille, à la table de la cuisine, à côté de l’ordinateur où la mise en page du calendrier des promenades avance enfin, case après case",
+      "ending_quote": "Il appuie sur « envoyer ». Certaines nuits sont un peu meilleures, d’autres non ; le point prévu dans une douzaine de jours reste à son agenda.",
+      "continuity_note": "Huit jours après le point, gêne « deux semaines plus tôt », point sommeil/moral dans une douzaine de jours, mise en page livrée dans le délai : cohérent.",
+      "clinical_note": "Formule d’Armand précisée (« aucun médicament n’a fait la preuve qu’il traite ce trouble lui-même »), fidèle à Eastwood2008/Liu2025 ; les exemples renvoient maintenant à la question posée au cabinet et à la ligne effacée.",
+      "relatives_note": "Mireille répond sur les cases grises et renvoie la question du soin à ceux qui suivent Serge."
+    },
+    {
+      "number": 11,
+      "focus": "Fluctuations et retour d’une difficulté",
+      "opening_quote": "Le message de Mireille, qui coordonne le groupe de promenade, arrive à dix-huit heures. Le groupe de promenade a relu le calendrier",
+      "ending_quote": "Il sait que l’envie peut revenir. Cette fois, il a envoyé ce qui était vrai.",
+      "continuity_note": "Relecture annoncée en ép. 10, carte et objectifs réutilisés, séance maintenue, date des étangs corrigée ; partage Inès→Armand conforme à l’accord de l’ép. 5.",
+      "clinical_note": "Évolution épisodique ou chronique (OMS p.594) sans pronostic ; envie de déformer nommée sans procédé ; ni félicitation ni reproche.",
+      "relatives_note": "Miroir corrigé : cabinet pour une gêne nouvelle, 3114 pour détresse forte ou idées de se faire du mal, 15 en danger immédiat. Claude n’exerce aucun contrôle."
+    },
+    {
+      "number": 12,
+      "focus": "Participation ordinaire et suivi durable",
+      "opening_quote": "Mireille passe à l’accueil de la résidence en fin de matinée, un calendrier imprimé sous le bras. Le groupe de promenade s’est réuni la veille au soir",
+      "ending_quote": "Son suivi continue sans que personne au groupe ait à certifier quoi que ce soit. Il a une contribution concrète, une façon plus directe de demander de la compagnie, et il sait que certaines difficultés pourront encore revenir.",
+      "continuity_note": "Inchangé depuis la première relecture. Étangs au dimanche, séance du jeudi puis point sommeil/moral la semaine suivante, compatible avec les trois semaines de l’ép. 9.",
+      "clinical_note": "Projet clos sans preuve de guérison ni d’absence de risque ; contacts d’urgence à portée ; suivi maintenu.",
+      "relatives_note": "Phrases de Mireille et de Claude ancrées dans le tableau de relais et le roman ; Claude oriente vers les soignants."
+    }
+  ]
+}

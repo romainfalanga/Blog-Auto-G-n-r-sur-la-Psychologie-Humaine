@@ -1,0 +1,510 @@
+{
+  "character_id": "karim",
+  "type": "origine",
+  "auditor": "audit_o4",
+  "audited_on": "2026-11-12",
+  "persona": {
+    "age_metier_proches": "Karim, né en 1985 (40 ans), restaurateur (PME de plusieurs établissements, dont un troisième restaurant près de Lyon) qui se reconvertit vers une école de cuisine solidaire ; marié à Sofia ; trois enfants, Amine, Lina et Sami (âges jamais donnés) ; associé Romain ; père ancien épicier.",
+    "arc_summary": "Épisodes 1 à 3 : absences familiales dues au travail (regret, téléphone au dîner, illusion de contrôle). Épisodes 4 à 9 : les finances (escalade d'engagement sur Lyon, optimisme et réservation d'un local à Marseille, grandiosité, faux consensus face à Sofia, appels évités de Romain). Épisodes 10 à 12 : sortie de l'accord de Marseille, projet d'école solidaire, bail non signé, entretien d'embauche pour avoir un revenu.",
+    "arc_issues": [
+      "Le sort du restaurant de Lyon est contradictoire : fermeture envisagée et « En acceptant de lâcher ce projet » (épisode 4), ouverture « quelques semaines plus tôt » (épisode 5), « papiers du restaurant lyonnais » rangés au garage (épisode 10, 3 mai), services qui « continuent » (épisode 11, 7 mai), « j'ai redressé Lyon » en entretien (épisode 12).",
+      "La bascule de restaurateur à reconversion se fait hors champ entre l'épisode 9 (2 mai, Karim à la caisse de la salle de Lyon) et l'épisode 10 (3 mai, papiers du restaurant dans des cartons) : aucune fermeture, aucune annonce à l'équipe, rien sur les deux autres établissements.",
+      "L'épisode 10 est indexé « reconversion burn-out » et évoque l'OMS et la récupération, mais aucun épisode n'établit que Karim a été en épuisement professionnel.",
+      "Répétition : les épisodes 4, 5, 7, 9 et 11 reposent tous sur le même schéma (Karim veut engager de l'argent, Romain le freine, Karim reporte et rentre dîner). Les retours répètent la même transformation intérieure (« il n'est plus… », « il se sent plus léger »).",
+      "Chaque retour rappelle la dent de Sami, le spectacle de Lina et la console, au point que ces rappels remplacent l'action ; deux versions du spectacle manqué coexistent (investisseurs, épisode 1 ; livraison de matériel, épisode 4)."
+    ]
+  },
+  "episodes": [
+    {
+      "number": 1,
+      "file": "content/posts/comprendre-et-maitriser-ses-emotions/regret-avec-ses-enfants.md",
+      "focus": "Regret : Karim, resté au travail, découvre par vidéo la dent de lait de Sami qu'il a manquée et repense au spectacle de Lina.",
+      "structure": {
+        "scene": "ok",
+        "concept": "ok",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "faible",
+        "conclusion": "ok",
+        "proches": "ok"
+      },
+      "comprehension": 2,
+      "comprehension_note": "L'ouverture (vidéo de quinze secondes, frigos derrière la cloison) est concrète, mais le lecteur ignore où se trouve Karim et pourquoi il ne rentrera que « demain ». Le retour cite des « articles » datés hors fiction puis résume une métamorphose familiale idéalisée.",
+      "issues": [
+        {
+          "severity": "bloquant",
+          "type": "comprehension",
+          "quote": "la respiration pour gérer la tension (article du 2 mars), la transformation de la culpabilité en responsabilité (article du 7 mars)",
+          "problem": "Le récit renvoie à des « articles » comme s'ils étaient des souvenirs de Karim ; ces épisodes n'existent pas (c'est le premier épisode, publié le 16 mars). La fiction est rompue.",
+          "fix": "Supprimer la phrase entière ou la remplacer par un souvenir interne : « Il respire comme il le fait avant un coup de feu en cuisine. »"
+        },
+        {
+          "severity": "majeur",
+          "type": "comprehension",
+          "quote": "\"Je rentre demain à 18 h. On notera notre petit-déjeuner du dimanche sur le tableau blanc.\"",
+          "problem": "Karim avait « promis de rentrer avant le dîner » ; on ne comprend pas pourquoi il ne rentre que le lendemain (déplacement ? nuit au restaurant ?).",
+          "fix": "Situer Karim : « Il est à Lyon pour l'ouverture et dort sur place » ou faire de la promesse « Je rentre ce soir à 21 h et demain je suis là à 18 h »."
+        },
+        {
+          "severity": "majeur",
+          "type": "trame",
+          "quote": "Ces gestes sont simples, mais ils changent l'ambiance de la maison. Il ne réagit plus par automatisme ou par fatigue, mais par choix conscient.",
+          "problem": "Le retour raconte une transformation globale (rires, match, rituel) au lieu de la conséquence d'une décision précise ; Amine apparaît pour la première fois sans présentation.",
+          "fix": "Réduire le retour au petit-déjeuner du dimanche : Karim arrive, Sami lui montre le trou de sa dent, Karim tient (ou rate) l'heure promise. Présenter les trois enfants avec leur âge dans l'ouverture."
+        },
+        {
+          "severity": "mineur",
+          "type": "comprehension",
+          "quote": "Il n'a pas été présent pour la première dent de Sami.",
+          "problem": "« Première dent » laisse penser à une dent qui pousse, alors qu'il s'agit d'une dent de lait tombée.",
+          "fix": "« … pour la première dent de lait que Sami a perdue. »"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "file": "content/posts/sortir-de-ses-schemas-repetitifs/controle-de-soi-insuffisant-travail.md",
+      "focus": "Contrôle de soi insuffisant (thérapie des schémas) : au dîner d'anniversaire de mariage, Karim prend l'appel de Romain pour un contrat.",
+      "structure": {
+        "scene": "ok",
+        "concept": "ok",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "faible",
+        "conclusion": "ok",
+        "proches": "ok"
+      },
+      "comprehension": 3,
+      "comprehension_note": "La scène du restaurant est nette (main déjà sur le téléphone, dessert qui attend). La suite devient confuse : Sofia lui écrit alors qu'ils sont ensemble, et le retour enchaîne protocole d'entreprise, foire professionnelle et origine familiale en résumé.",
+      "issues": [
+        {
+          "severity": "majeur",
+          "type": "comprehension",
+          "quote": "Dans la voiture, il regarde le message de Sofia, court et sec",
+          "problem": "Sofia est au restaurant avec lui ; on ne comprend pas pourquoi elle lui écrit au lieu de lui parler (a-t-elle quitté la table ? rentrent-ils séparément ?).",
+          "fix": "Préciser : « Sofia est rentrée en taxi. Dans la voiture, il lit son message… » ou transformer en réplique dans la voiture."
+        },
+        {
+          "severity": "majeur",
+          "type": "trame",
+          "quote": "Ensemble, ils mettent en place un protocole au sein de l'entreprise : toute proposition importante passe par une fiche d'évaluation rapide avant validation.",
+          "problem": "Résumé procédural ; l'enjeu de la scène (le contrat du prospect, la soirée gâchée avec Sofia) n'est pas résolu : on ne sait pas ce que Karim a répondu ni s'il s'est excusé.",
+          "fix": "Remplacer par une scène : Karim rappelle le prospect pour dire qu'il répond lundi, puis dit à Sofia « J'ai répondu au dessert, je t'ai laissée seule. »"
+        },
+        {
+          "severity": "mineur",
+          "type": "repetition",
+          "quote": "Le dimanche suivant, lors du petit-déjeuner familial, la maison est animée.",
+          "problem": "Le petit-déjeuner du dimanche et le téléphone posé loin de la table reprennent exactement le retour de l'épisode 1.",
+          "fix": "Placer le test ailleurs (dîner d'anniversaire rattrapé, soirée avec Sofia)."
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "file": "content/posts/reprendre-le-controle-de-ses-pensees/illusion-controle-manager.md",
+      "focus": "Illusion de contrôle : Karim croit pouvoir faire tenir une réunion fournisseur et le match d'Amine en optimisant son agenda.",
+      "structure": {
+        "scene": "ok",
+        "concept": "ok",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "faible",
+        "conclusion": "ok",
+        "proches": "ok"
+      },
+      "comprehension": 3,
+      "comprehension_note": "L'ouverture est très claire (cinq minutes déplacées, trajet qui ne raccourcit pas). Le retour l'est moins : « pari inversé » n'a jamais été défini et on ne sait pas si Karim a vu le match.",
+      "issues": [
+        {
+          "severity": "majeur",
+          "type": "comprehension",
+          "quote": "Sur le trajet vers le terrain de football, il observe les résultats de son pari inversé.",
+          "problem": "« Pari inversé » n'apparaît nulle part ailleurs ; la phrase suivante (« il constate que la mise en place de cadres simples a permis à l'équipe de fonctionner ») est abstraite et ne dit pas s'il arrive pour le coup d'envoi.",
+          "fix": "Écrire : « Il arrive à la mi-temps. Amine le voit depuis le banc. Pendant ce temps, Romain mène la réunion ; Karim se connecte un quart d'heure depuis le parking. »"
+        },
+        {
+          "severity": "mineur",
+          "type": "continuite",
+          "quote": "au dîner d'anniversaire où il a répondu à l'appel d'un client",
+          "problem": "Dans l'épisode 2, l'appel venait de Romain à propos d'un prospect.",
+          "fix": "« où il a pris l'appel de Romain pour un prospect »"
+        },
+        {
+          "severity": "mineur",
+          "type": "comprehension",
+          "quote": "Une réunion jusqu’à dix-sept heures trente et le match d’Amine à dix-huit heures : sur l’écran, les deux tiennent. Karim déplace encore le rendez-vous avec le fournisseur",
+          "problem": "On ne sait pas si « la réunion » et « le rendez-vous avec le fournisseur » sont un seul événement.",
+          "fix": "« La réunion avec le fournisseur finit à 17 h 30… »"
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "file": "content/posts/reprendre-le-controle-de-ses-pensees/biais-engagement-escalade-decision-importante.md",
+      "focus": "Escalade d'engagement : Karim veut remettre dix mille euros dans son troisième restaurant, près de Lyon, malgré les chiffres.",
+      "structure": {
+        "scene": "ok",
+        "concept": "ok",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "faible",
+        "conclusion": "ok",
+        "proches": "ok"
+      },
+      "comprehension": 3,
+      "comprehension_note": "Les enjeux chiffrés (cinquante mille dépensés, dix mille de plus) et la peur du regard du père sont clairs. Le retour mêle deux décisions incompatibles (ne pas engager de fonds avant examen / lâcher le projet) et se termine en transformation héroïque.",
+      "issues": [
+        {
+          "severity": "majeur",
+          "type": "continuite",
+          "quote": "Il revoit le visage déçu de sa fille Lina lors de son dernier spectacle de danse, cet événement qu'il a encore manqué pour superviser une livraison de matériel",
+          "problem": "Dans l'épisode 1, Karim manquait le spectacle parce qu'il « était encore avec les investisseurs ».",
+          "fix": "« … qu'il a manqué, retenu par les investisseurs »"
+        },
+        {
+          "severity": "majeur",
+          "type": "trame",
+          "quote": "En acceptant de lâcher ce projet, il récupère enfin le contrôle sur sa vie et sur son temps",
+          "problem": "Contredit la décision posée deux paragraphes plus haut (« ne pas engager de nouveaux fonds avant d'avoir examiné la trésorerie ») et l'épisode 5 où Lyon continue. Le lecteur ne sait pas ce qui est décidé.",
+          "fix": "Garder une seule décision : « Il dit à Romain qu'il ne remettra pas les dix mille euros et qu'ils regarderont jeudi le plan de sortie. » Supprimer « lâcher ce projet »."
+        },
+        {
+          "severity": "mineur",
+          "type": "trame",
+          "quote": "Il n'est plus l'entrepreneur qui refuse de perdre, il devient l'homme qui sait choisir ses batailles.",
+          "problem": "Formule de transformation définitive, démentie dès l'épisode suivant (réservation de Marseille).",
+          "fix": "Remplacer par une conséquence concrète : il éteint les lumières et achète des pâtisseries pour les trois enfants."
+        },
+        {
+          "severity": "mineur",
+          "type": "continuite",
+          "quote": "acheter les pâtisseries préférées de Sami et Lina",
+          "problem": "Amine, à qui il vient de penser pour son tournoi, est oublié.",
+          "fix": "« … de Sami, Lina et Amine »"
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "file": "content/posts/reprendre-le-controle-de-ses-pensees/biais-optimisme-decision-importante-entrepreneur.md",
+      "focus": "Biais d'optimisme : pendant que Romain lui rappelle une échéance de Lyon, Karim s'enthousiasme pour un local sur le Vieux-Port de Marseille.",
+      "structure": {
+        "scene": "ok",
+        "concept": "ok",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "ok",
+        "conclusion": "ok",
+        "proches": "ok"
+      },
+      "comprehension": 3,
+      "comprehension_note": "L'ouverture est forte (terrasse agrandie pendant que Romain parle du paiement de vendredi) et la fin est très bonne (« Rien aujourd'hui », numéro recopié dans la poche). Le paragraphe central est saturé de rappels et d'images abstraites, et la chronologie de Lyon contredit l'épisode 4.",
+      "issues": [
+        {
+          "severity": "majeur",
+          "type": "continuite",
+          "quote": "Le restaurant a ouvert quelques semaines plus tôt, après des mois de travaux payés en partie sur les économies de Karim.",
+          "problem": "L'épisode 4 (une semaine avant) parlait de « six mois » de travaux puis de premiers services, et d'une fermeture à étudier.",
+          "fix": "« Le restaurant de Lyon tourne depuis cinq mois ; Karim n'y a pas remis d'argent depuis leur dernière discussion. »"
+        },
+        {
+          "severity": "mineur",
+          "type": "comprehension",
+          "quote": "Il se rappelle pourtant le message de rupture de communication qu'elle lui avait envoyé après son échec à se déconnecter lors de leur dîner d'anniversaire",
+          "problem": "Formulation jargonnante pour « le message sec de Sofia ».",
+          "fix": "« Il se rappelle le message de Sofia après le dîner d'anniversaire : « Tu comptes pour la boîte, mais et nous ? » »"
+        },
+        {
+          "severity": "mineur",
+          "type": "repetition",
+          "quote": "Il revoit la vidéo de Sami perdant sa première dent, ce moment précieux qu'il n'a vécu que par écran interposé",
+          "problem": "Cinquième rappel de la dent ; il n'apporte rien à la décision sur Marseille.",
+          "fix": "Supprimer la phrase."
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "file": "content/posts/comprendre-et-maitriser-ses-emotions/culpabilite-avec-ses-enfants-comprendre-agir.md",
+      "focus": "Culpabilité parentale : Karim offre une console à Lina pour compenser un retard à la sortie de l'école ; elle continue son dessin.",
+      "structure": {
+        "scene": "ok",
+        "concept": "ok",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "ok",
+        "conclusion": "ok",
+        "proches": "ok"
+      },
+      "comprehension": 4,
+      "comprehension_note": "Scène claire et sobre (paquet non ouvert, feutre bleu, « J'ai acheté ça parce que j'étais en retard »), fin cohérente (agenda vérifié, réponse promise avant le lendemain). On ignore seulement qui a ramené Lina et pourquoi elle appelle sa mère par son prénom.",
+      "issues": [
+        {
+          "severity": "mineur",
+          "type": "comprehension",
+          "quote": "Lina demande si Sofia sait qu’il est rentré.",
+          "problem": "Une enfant qui parle de sa mère dit rarement « Sofia » ; on ne sait pas non plus qui est allé chercher Lina à l'école.",
+          "fix": "« Lina demande si maman sait qu'il est rentré. » Ajouter : « C'est Sofia qui est allée la chercher. »"
+        },
+        {
+          "severity": "mineur",
+          "type": "comprehension",
+          "quote": "la déception de Sofia après son dernier coup d'éclat impulsif",
+          "problem": "Allusion vague ; on ne sait pas à quel événement elle renvoie.",
+          "fix": "« … après la réservation qu'il a faite sans lui en parler » (si l'ordre le permet) ou supprimer."
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "file": "content/posts/sortir-de-ses-schemas-repetitifs/droits-personnels-excessifs-grandiosité-argent-finances.md",
+      "focus": "Droits personnels excessifs / grandiosité : Karim a versé un acompte pour le local de Marseille sans accord, alors que Lyon a une échéance à payer.",
+      "structure": {
+        "scene": "faible",
+        "concept": "ok",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "ok",
+        "conclusion": "ok",
+        "proches": "ok"
+      },
+      "comprehension": 2,
+      "comprehension_note": "Le premier paragraphe est clair (ligne entourée, virement). Ensuite le lieu se dérobe : Karim est face à Romain, puis il « décroche son téléphone pour appeler Romain », puis le retour se passe dans un café de la place Bellecour. Fauteuils en cuir et « nouveau bureau » surgissent sans contexte.",
+      "issues": [
+        {
+          "severity": "bloquant",
+          "type": "comprehension",
+          "quote": "Il décroche son téléphone pour appeler Romain, prêt à utiliser son charisme habituel pour faire oublier les failles du bilan comptable.",
+          "problem": "Romain vient de lui retourner le relevé dans la même pièce ; l'appel n'a pas de sens et le lecteur ne sait plus où se déroule la scène.",
+          "fix": "Supprimer l'appel : « Il se renverse dans son fauteuil, prêt à utiliser son charisme pour faire oublier le bilan. » Puis placer le retour au même endroit ou indiquer « Le lendemain, dans un café de la place Bellecour »."
+        },
+        {
+          "severity": "majeur",
+          "type": "comprehension",
+          "quote": "L'odeur du cuir neuf des fauteuils et le scintillement de sa montre de luxe lui procurent un apaisement instantané",
+          "problem": "Fauteuils, montre et « nouveau bureau » apparaissent sans qu'on sache quand ils ont été achetés ; or ce sont les preuves du concept (dépenses de statut).",
+          "fix": "Montrer l'achat : « Les fauteuils livrés lundi, choisis sans demander l'avis de Romain… »"
+        },
+        {
+          "severity": "majeur",
+          "type": "lien_concept",
+          "quote": "il admet que les chiffres rouges l'effraient et que son optimisme forcené était une façade",
+          "problem": "Le retour revient au biais d'optimisme (épisode 5) au lieu de traiter l'exception aux règles communes, cœur de l'épisode.",
+          "fix": "« Il admet qu'il s'est donné le droit de signer seul alors qu'ils avaient convenu de décider à deux au-delà de cinq mille euros. »"
+        },
+        {
+          "severity": "mineur",
+          "type": "trame",
+          "quote": "il a accepté d'être un homme parmi les hommes, un père parmi ses enfants, soumis aux mêmes règles et aux mêmes fragilités que tout le monde",
+          "problem": "Conclusion grandiloquente qui remplace la conséquence (dire à Sofia ce qu'il a engagé reste en suspens).",
+          "fix": "Finir sur l'appel à Sofia, ou sur l'heure fixée pour le lui dire."
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "file": "content/posts/reprendre-le-controle-de-ses-pensees/biais-faux-consensus-conflit.md",
+      "focus": "Faux consensus : Karim est persuadé que « n'importe qui » aurait réservé le local de Marseille et s'apprête à l'expliquer à Sofia.",
+      "structure": {
+        "scene": "ok",
+        "concept": "ok",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "faible",
+        "conclusion": "ok",
+        "proches": "ok"
+      },
+      "comprehension": 3,
+      "comprehension_note": "La réplique de Sofia (« Je te demande ce que tu as fait, moi ») et l'aveu du montant sont forts. Mais l'ouverture change trois fois de lieu, et le retour fait écrire à Karim « trois voix imaginées » au milieu de la dispute, puis demander à Sofia d'écrire son avis.",
+      "issues": [
+        {
+          "severity": "majeur",
+          "type": "trame",
+          "quote": "Assis à la table du salon, le téléphone posé face visible, il écrit rapidement trois voix imaginées",
+          "problem": "Geste invraisemblable pendant une conversation de couple ; l'exercice remplace l'échange avec Sofia. La demande de « s'exprimer par écrit » éloigne encore la scène.",
+          "fix": "Placer l'exercice après la discussion, seul, et faire suivre la question à Sofia : « Qu'est-ce que tu en penses, toi, de Marseille ? »"
+        },
+        {
+          "severity": "majeur",
+          "type": "lien_concept",
+          "quote": "Il redoute aussi que tout le monde lui en veuille parce que Sofia et Romain contestent certaines décisions. Cette seconde supposition généralise deux avis ; elle n'est pas, à elle seule, du faux consensus.",
+          "problem": "Toute la première manifestation porte sur une généralisation qui, de l'aveu du texte, n'est pas le concept. Le lecteur est égaré.",
+          "fix": "Remplacer par une manifestation de faux consensus : Karim suppose que la cheffe de cuisine trouve aussi le local idéal et lui annonce Marseille comme acquis."
+        },
+        {
+          "severity": "mineur",
+          "type": "comprehension",
+          "quote": "Karim finit de ranger les factures dans le second établissement. Sofia a demandé qu’ils parlent à son retour.",
+          "problem": "« Second établissement » ne correspond pas au restaurant de Lyon (« troisième ») ; « son retour » peut désigner Sofia ou Karim.",
+          "fix": "« … dans le restaurant de Lyon. Sofia lui a demandé qu'ils parlent quand il rentrerait. »"
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "file": "content/posts/sortir-de-ses-schemas-repetitifs/propheties-autorealizatrices-face-decision-importante.md",
+      "focus": "Prophétie autoréalisatrice : persuadé que Romain lui dira « je te l'avais dit », Karim évite ses appels, ce qui aggrave la colère de Romain.",
+      "structure": {
+        "scene": "ok",
+        "concept": "ok",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "faible",
+        "conclusion": "ok",
+        "proches": "ok"
+      },
+      "comprehension": 3,
+      "comprehension_note": "L'ouverture est exemplaire (appel lancé puis raccroché, dossier trouvé en moins d'une minute, factures de Sofia laissées sur la table). Le retour change de lieu (bureau aux photos), glisse vers une « prophétie de la rupture » avec Sofia jamais posée, et laisse sans suite la question de l'équipe de Lyon.",
+      "issues": [
+        {
+          "severity": "majeur",
+          "type": "lien_concept",
+          "quote": "La prophétie de la rupture commence à s'effriter, remplacée par une réalité plus modeste mais plus solide.",
+          "problem": "La prophétie mise en scène concernait Romain ; celle d'une rupture avec Sofia n'a jamais été posée. La fin plaque le concept sur une autre relation.",
+          "fix": "Finir sur Romain : sa colère, le dossier renvoyé, puis la question restée ouverte sur l'équipe de Lyon. Si Sofia est évoquée, reprendre les factures laissées sur la table le matin."
+        },
+        {
+          "severity": "mineur",
+          "type": "comprehension",
+          "quote": "Assis dans son bureau dont les murs sont couverts de photos de ses trois enfants",
+          "problem": "La scène se passait dans la salle vide, près de la caisse ; changement de lieu non signalé.",
+          "fix": "« Il passe dans son bureau, où sont accrochées les photos de ses enfants. »"
+        },
+        {
+          "severity": "mineur",
+          "type": "comprehension",
+          "quote": "Karim le fait devant lui, au téléphone",
+          "problem": "Romain n'est pas présent ; « devant lui » contredit « au téléphone ».",
+          "fix": "« Karim les lui envoie pendant l'appel. »"
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "file": "content/posts/comprendre-et-maitriser-ses-emotions/enthousiasme-reconversion-professionnelle-burn-out.md",
+      "focus": "Enthousiasme en reconversion : l'accord de Marseille réglé, Karim range le matériel du restaurant lyonnais et s'emballe pour une école de cuisine solidaire.",
+      "structure": {
+        "scene": "ok",
+        "concept": "ok",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "faible",
+        "conclusion": "ok",
+        "proches": "ok"
+      },
+      "comprehension": 2,
+      "comprehension_note": "Les couteaux du père et la page presque vide sont de beaux détails. Mais le lecteur ne sait pas pourquoi le restaurant de Lyon est en cartons au garage, la veille encore ouvert ; la « reconversion après burn-out » n'a aucune base dans le récit ; le retour est fait de rappels conceptuels et d'une transformation déclarée.",
+      "issues": [
+        {
+          "severity": "bloquant",
+          "type": "continuite",
+          "quote": "Dans le garage, Karim retire des cartons les papiers du restaurant lyonnais.",
+          "problem": "Dans l'épisode 9 (la veille), Karim est à la caisse de la salle de Lyon et l'équipe n'a encore rien su. Ici le restaurant semble fermé et vidé, sans explication ; l'épisode 11 dit pourtant que les services continuent.",
+          "fix": "Ajouter le fait manquant : « Le restaurant de Lyon a fermé fin avril ; l'équipe a été reprise par l'établissement de Villeurbanne. » Ou montrer cette fermeture dans un épisode intercalé (voir missing_or_extra), et corriger l'épisode 11 en conséquence."
+        },
+        {
+          "severity": "majeur",
+          "type": "clinique",
+          "quote": "Karim peut se réjouir de son projet d'école et avoir encore besoin de repos.",
+          "problem": "L'épisode suppose un épuisement professionnel (« récupération », « rechute », « l'épuisement est passé ») que rien dans le parcours n'a établi : ni arrêt, ni symptômes, ni consultation.",
+          "fix": "Établir l'épuisement dans la scène (« Depuis l'arrêt de travail prescrit le mois dernier… ») ou retirer la dimension burn-out et la référence à la reconversion « après un burn-out »."
+        },
+        {
+          "severity": "majeur",
+          "type": "trame",
+          "quote": "Il se souvient de l'époque où il aurait immédiatement appelé Romain pour lui dire de chercher des locaux, persuadé par son biais de faux consensus que son associé validerait aveuglément cette nouvelle impulsion.",
+          "problem": "Le retour remplace l'action par des étiquettes de concepts des épisodes précédents (faux consensus, prophéties, micro-optimisation, patriarche providentiel).",
+          "fix": "Garder la décision concrète (eau, ligne verticale, rendez-vous vendredi, arrêt de bus) et retirer les noms de biais."
+        },
+        {
+          "severity": "mineur",
+          "type": "comprehension",
+          "quote": "Il se donne jusqu'à vendredi matin pour reprendre son idée. Son projet d'école attendra vendredi matin pour être couché sur papier de manière formelle.",
+          "problem": "La même information est répétée deux fois de suite.",
+          "fix": "Supprimer la seconde phrase."
+        }
+      ]
+    },
+    {
+      "number": 11,
+      "file": "content/posts/reprendre-le-controle-de-ses-pensees/biais-action-face-a-une-decision-importante.md",
+      "focus": "Biais d'action : Karim veut signer le bail d'un local pour son école avant le rendez-vous comptable de lundi.",
+      "structure": {
+        "scene": "ok",
+        "concept": "ok",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "faible",
+        "conclusion": "ok",
+        "proches": "ok"
+      },
+      "comprehension": 3,
+      "comprehension_note": "L'enjeu est clair (six pages, conditions de sortie non lues, rendez-vous lundi). Le décor est flottant (fenêtre sur jardin, garage, odeur de bois scié) et l'analyse parle d'ouvrir « un nouveau restaurant » et de services lyonnais qui continuent, contre l'épisode précédent. Le retour est surtout introspectif.",
+      "issues": [
+        {
+          "severity": "majeur",
+          "type": "continuite",
+          "quote": "À Lyon, les services continuent pendant qu’il examine avec Romain les comptes et ce qu’une fermeture engagerait pour l’équipe.",
+          "problem": "Contredit l'épisode 10 (papiers du restaurant lyonnais rangés au garage) et l'épisode 12 (« j'ai redressé Lyon »).",
+          "fix": "Aligner sur une seule version de Lyon (fermé fin avril, ou toujours ouvert et en cours de cession) et corriger les trois épisodes."
+        },
+        {
+          "severity": "majeur",
+          "type": "lien_concept",
+          "quote": "Ouvrir un nouveau restaurant est visible et donne des résultats faciles à annoncer.",
+          "problem": "Le projet de l'épisode est une école de cuisine, pas un restaurant ; la manifestation semble copiée d'un autre contexte.",
+          "fix": "« Signer un bail pour l'école est visible et facile à annoncer à Sofia. »"
+        },
+        {
+          "severity": "majeur",
+          "type": "repetition",
+          "quote": "Il se sent plus solide, non pas parce qu'il a agi, mais parce qu'il a eu le courage de ne pas le faire.",
+          "problem": "Même issue que les épisodes 5 et 10 (Karim renonce à agir le jour même, rentre dîner, se sent plus solide). L'épisode n'apporte pas d'aspect distinct au parcours.",
+          "fix": "Donner une conséquence propre au biais d'action : le propriétaire accepte d'attendre lundi, ou au contraire le local est perdu et Karim doit en vivre le coût."
+        },
+        {
+          "severity": "mineur",
+          "type": "continuite",
+          "quote": "cette dispute fracassante avec son associé Romain à propos de l'investissement de Lyon",
+          "problem": "Aucune dispute « fracassante » n'a été montrée ; les échanges étaient des mises en garde.",
+          "fix": "« ces mises en garde de Romain sur Lyon »"
+        }
+      ]
+    },
+    {
+      "number": 12,
+      "file": "content/posts/comprendre-et-maitriser-ses-emotions/impatience-lors-d-un-entretien-d-embauche.md",
+      "focus": "Impatience en entretien d'embauche : Karim coupe la recruteuse Julie, puis lui rend la parole.",
+      "structure": {
+        "scene": "ok",
+        "concept": "ok",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "ok",
+        "conclusion": "ok",
+        "proches": "ok"
+      },
+      "comprehension": 4,
+      "comprehension_note": "Contexte bien posé (Part-Dieu, poste de consultant, besoin d'un revenu, exemple trop spectaculaire rayé) et fin juste (message « C'est fini, je rentre »). Le seul problème notable est l'exemple de Lyon, présenté comme un redressement.",
+      "issues": [
+        {
+          "severity": "majeur",
+          "type": "continuite",
+          "quote": "S’il répond seulement « j’ai redressé Lyon », Karim omet ce qu’il avait refusé d’entendre de Romain.",
+          "problem": "Le parcours a montré Lyon comme l'établissement en difficulté (dettes, fermeture envisagée, papiers rangés) ; « redressé » le contredit. Le retour dit aussi « le redressement de son premier établissement ».",
+          "fix": "Choisir un exemple cohérent : « le redressement de son premier restaurant » pour l'exemple spectaculaire, et « ce qu'il a appris à Lyon, quand il n'a pas écouté Romain » pour la réponse honnête."
+        },
+        {
+          "severity": "mineur",
+          "type": "trame",
+          "quote": "Il n'est plus le Karim qui fuyait le silence de sa maison pour se réfugier dans l'agitation de ses cuisines.",
+          "problem": "Formule de transformation définitive qui interrompt une scène bien menée.",
+          "fix": "Supprimer la phrase et garder la plante grasse et la voix posée."
+        }
+      ]
+    }
+  ],
+  "missing_or_extra": "Les douze épisodes sont présents, mais la moitié financière est surnuméraire et répétitive (épisodes 4, 5, 7, 9, 11 sur le même schéma). Il manque l'épisode charnière : la fermeture du restaurant de Lyon et l'annonce à l'équipe, qui justifierait la reconversion. Proposer de fusionner les épisodes 7 (grandiosité) et 8 (faux consensus) autour de Marseille, et de libérer une place pour un épisode « honte » ou « deuil d'une identité professionnelle » : Karim annonce la fermeture à la brigade de Lyon et rentre dire à son père, l'ancien épicier, qu'il a échoué. Si la dimension burn-out est conservée en épisode 10, l'établir dans cet épisode charnière (arrêt de travail, sommeil, consultation).",
+  "verdict": "corrections_majeures"
+}

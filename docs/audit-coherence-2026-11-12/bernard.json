@@ -1,0 +1,176 @@
+{
+  "character_id": "bernard",
+  "type": "origine",
+  "auditor": "audit_o2",
+  "audited_on": "2026-11-12",
+  "persona": {
+    "age_metier_proches": "Bernard, né le 21 août 1967 (58 ans pendant tout le parcours, mars-mai 2026), artisan ébéniste dans un atelier à la campagne, veuf d'Hélène. Proches : son fils Éric, son voisin Marcel, son chien Sultan. Projet : se réconcilier avec Éric.",
+    "arc_summary": "Bernard, taiseux depuis l'enfance, essaie de dire quelques mots à Éric autour d'une commode qu'il lui fabrique (ép. 1 à 3), puis affronte les suites concrètes du deuil d'Hélène : courrier du notaire, voyage en Toscane offert par Éric, mal de dos, tristesse devant le buffet (ép. 4 à 7). Il ose ensuite inviter Éric à dîner, traverse un désaccord sur la vente de la maison et accepte une sortie avec Marcel avant de livrer la commode (ép. 8 à 10). Le parcours s'achève sur un geste de tendresse demandé avant d'être fait (ép. 11). La progression est lisible, mais la commode et l'idée « parler plutôt que fabriquer » reviennent dans presque chaque épisode.",
+    "arc_issues": [
+      "La cause de la distance avec Éric n'est jamais dite. L'ép. 1 évoque une « feuille » et « cette conversation » qu'Éric veut reprendre, l'ép. 3 une « rancœur », mais aucun épisode ne précise ce que contient la feuille ni ce qu'Éric reproche à son père. Le lecteur ne sait pas sur quoi porte la réconciliation.",
+      "Plusieurs épisodes renvoient à des dates ou à des « articles lus » plutôt qu'à des faits de l'histoire (« Le 15 mars », « le 16 mars », « le 6 mai », « les mots qu'il a lus récemment »). Ce sont des renvois éditoriaux, pas des souvenirs du personnage. L'ép. 1 renvoie même à des épisodes qui n'existent pas encore.",
+      "Le mécanisme « parler au lieu de communiquer par les meubles » est expliqué de nouveau dans les ép. 1, 3, 8, 10 et 11, avec des sous-parties presque identiques (« Communiquer par les objets », « l'amour matérialisé », « préférence pour les objets », « Conversion des liens en objets », « Les objets comme messages affectifs »).",
+      "Les ép. 2 (solitude) et 10 (isolement social) traitent la même distinction solitude et isolement, avec Marcel comme seul ami et la même invitation déclinée.",
+      "Hélène n'est presque jamais présentée comme l'épouse décédée de Bernard au début d'un épisode (« le départ d'Hélène » à l'ép. 2, « la maison d'Hélène » aux ép. 8 et 9). Pour un lecteur qui arrive directement sur l'article, le statut de veuf n'est pas clair.",
+      "Le parcours compte 11 épisodes au lieu de 12."
+    ]
+  },
+  "episodes": [
+    {
+      "number": 1,
+      "file": "content/posts/sortir-de-ses-schemas-repetitifs/surcontrole-emotionnel-parents.md",
+      "focus": "surcontrôle émotionnel et inhibition de l'expression, appris auprès de ses parents et rejoué avec son fils",
+      "structure": {"scene": "ok", "concept": "ok", "manifestations": "ok", "techniques": "ok", "retour": "faible", "conclusion": "ok", "proches": "ok"},
+      "comprehension": 2,
+      "comprehension_note": "On comprend qu'Éric est son fils et qu'il apporte une feuille, mais pas ce qu'elle contient ni de quelle « conversation » il s'agit. Le début renvoie à des « articles » et à des dates qui précèdent ce premier épisode. Le retour juxtapose deux versions : Bernard ne trouve pas les mots avant le départ d'Éric, puis réussit à lui dire où est la plaque.",
+      "issues": [
+        {"severity": "bloquant", "type": "continuite", "quote": "Depuis la veille, depuis les derniers articles qu'il a lus et auxquels il a répondu avec hésitation, Bernard porte en lui des morceaux d'apprentissage. Le 15 mars, il a commencé à reconnaître son apathie face aux conflits. Le 12 mars, il a mesuré l'isolement qui l'entoure.", "problem": "C'est le premier épisode (16 mars). L'apathie est traitée en avril (ép. 5), sans lien avec les conflits, et l'isolement en mai (ép. 10). Le personnage « lit des articles » : c'est un renvoi éditorial qui casse la fiction et invente des étapes inexistantes.", "fix": "Supprimer ce paragraphe et le remplacer par un fait daté dans l'histoire : depuis la mort d'Hélène, Éric passe plus souvent et Bernard se remet au travail dès qu'il arrive."},
+        {"severity": "majeur", "type": "comprehension", "quote": "Depuis des semaines, son fils vient lui demander de reprendre cette conversation.", "problem": "« Cette conversation » et la feuille posée entre les serre-joints ne sont jamais expliquées. On ne sait pas ce qu'Éric attend, donc on ne mesure pas ce que coûte le silence de Bernard.", "fix": "Dire en une phrase ce que porte la feuille (par exemple une liste de questions sur la succession d'Hélène ou sur un reproche ancien) et ce qu'Éric veut en faire."},
+        {"severity": "majeur", "type": "trame", "quote": "Il a encore une chose à lui dire, mais il ne trouve pas les mots avant que son fils ne doive repartir.", "problem": "Contredit la phrase suivante (« il a glissé une petite plaque gravée dans le tiroir et a réussi à dire à Éric où la trouver »), puis le retour se termine encore sur « Éric repart avant que Bernard ait trouvé quoi ajouter ». Le lecteur ne sait pas ce que Bernard a finalement fait.", "fix": "Garder une seule issue : soit il dit où est la plaque avant le départ d'Éric, soit il n'y arrive pas. Supprimer le paragraphe généraliste « Le chemin de Bernard n'est pas une ligne droite… » qui résume des jours non montrés."},
+        {"severity": "mineur", "type": "lien_concept", "quote": "Ce réflexe de fuite dans la tâche manuelle est son armure habituelle ; il se revoit, trente ans plus tôt, fuyant déjà les attentes de ses propres parents en se réfugiant dans le garage", "problem": "Le contexte annoncé est « avec ses parents », mais les parents n'apparaissent qu'en souvenir. Bernard avait 28 ans « trente ans plus tôt », ce qui ne correspond pas à l'enfance évoquée ensuite.", "fix": "Remplacer « trente ans plus tôt » par « enfant » ou « adolescent » pour rester cohérent avec l'enfance décrite dans l'explication."},
+        {"severity": "mineur", "type": "continuite", "quote": "Aujourd'hui, au milieu du bruit monotone du rabot, Bernard tente une première approche.", "problem": "La technique 2 demande « machines arrêtées » et un moment disponible. Dans le retour, Bernard parle en continuant de raboter.", "fix": "Lui faire poser le rabot avant de prononcer la phrase."}
+      ]
+    },
+    {
+      "number": 2,
+      "file": "content/posts/comprendre-et-maitriser-ses-emotions/solitude-face-a-la-solitude-comprendre-difference.md",
+      "focus": "sentiment de solitude distingué de la solitude choisie",
+      "structure": {"scene": "ok", "concept": "ok", "manifestations": "ok", "techniques": "ok", "retour": "faible", "conclusion": "ok", "proches": "ok"},
+      "comprehension": 3,
+      "comprehension_note": "La scène de l'atelier sous la pluie est claire. Marcel n'apparaît qu'en cours d'explication, comme « son voisin Marcel », et Hélène seulement comme « le départ d'Hélène ». La fin hésite entre aller chez Marcel et rester écrire à Éric.",
+      "issues": [
+        {"severity": "majeur", "type": "trame", "quote": "Il siffle Sultan, range son rabot et décide de traverser le jardin pour aller frapper à la porte de Marcel", "problem": "Le paragraphe suivant le montre encore à l'atelier en train d'écrire à Éric et d'attendre Sultan. On ne sait pas s'il est allé chez Marcel, ni comment cela s'est passé : la décision n'a pas de conséquence.", "fix": "Montrer en deux phrases la visite chez Marcel (accueil, fromage, ce que Bernard dit ou tait), ou remplacer « décide de traverser » par un projet daté que le lecteur voit aboutir ou non."},
+        {"severity": "mineur", "type": "continuite", "quote": "Bernard éteint la radio qui diffusait un jazz lointain.", "problem": "La radio a déjà été coupée dans la première phrase (« Bernard laisse finir la chanson avant de couper la radio »).", "fix": "Supprimer cette phrase ou la remplacer par « Le silence l'envahit d'un coup »."},
+        {"severity": "mineur", "type": "comprehension", "quote": "Au début, après le départ d'Hélène", "problem": "« Départ » est ambigu. Rien dans l'épisode ne dit qu'Hélène était sa femme et qu'elle est morte.", "fix": "Écrire « après la mort d'Hélène, sa femme »."}
+      ]
+    },
+    {
+      "number": 3,
+      "file": "content/posts/sortir-de-ses-schemas-repetitifs/manque-affectif-enfants-causes.md",
+      "focus": "distance affective entre un parent et son enfant adulte",
+      "structure": {"scene": "ok", "concept": "faible", "manifestations": "ok", "techniques": "ok", "retour": "faible", "conclusion": "ok", "proches": "ok"},
+      "comprehension": 2,
+      "comprehension_note": "La scène de la commode est claire, mais le retour mélange règles d'exercice (« trois messages », « dix minutes de travail, dix minutes d'échange »), colonnes de feuille jamais présentées et une chronologie impossible : Éric repart, puis tire le tiroir.",
+      "issues": [
+        {"severity": "majeur", "type": "trame", "quote": "Éric tire le tiroir jusqu’au bout et dit qu’il faudra le porter à deux.", "problem": "Ce dernier paragraphe vient après « Après le départ d'Éric, Bernard s'installe à son établi ». Éric est donc reparti avant de tirer le tiroir.", "fix": "Placer la scène du tiroir avant le départ d'Éric, puis finir sur Bernard seul à l'établi qui écrit sa promesse d'appel hebdomadaire."},
+        {"severity": "majeur", "type": "comprehension", "quote": "Il a envoyé trois messages courts, il a tenu la règle des phrases factuelles. Éric remarque la régularité et cela désamorce une partie de la rancœur.", "problem": "Phrase procédurale : on ne lit aucun des messages, et la « rancœur » d'Éric n'a jamais été expliquée. Le lecteur ne sait pas de quoi elle vient.", "fix": "Citer un des messages réellement envoyés et donner en une phrase l'objet de la rancœur d'Éric."},
+        {"severity": "majeur", "type": "repetition", "quote": "Bernard exprime une partie de son affection par des objets.", "problem": "Cette manifestation reprend presque mot pour mot « Communiquer par les objets plutôt que par les mots » de l'ép. 1 (le fond du tiroir, l'objet comme lettre silencieuse). L'épisode n'apporte pas d'aspect nouveau.", "fix": "Recentrer la sous-partie 1 sur ce qui distingue cet épisode : ce qu'Éric dit lui avoir manqué enfant, et la différence entre ce que le parent croit donner et ce que l'enfant a reçu."},
+        {"severity": "mineur", "type": "continuite", "quote": "une cellule d'isolement où ses enfants n'osent plus entrer", "problem": "Bernard n'a qu'un fils, Éric.", "fix": "Remplacer « ses enfants » par « son fils »."},
+        {"severity": "mineur", "type": "continuite", "quote": "Depuis le 16 mars, il a remarqué qu'il se réfugie dans le travail quand une conversation devient trop chaude", "problem": "Les dates renvoient aux publications et non à des moments vécus.", "fix": "Remplacer par « depuis la dernière visite d'Éric, la semaine dernière »."}
+      ]
+    },
+    {
+      "number": 4,
+      "file": "content/posts/reprendre-le-controle-de-ses-pensees/biais-autruche-deuil-comprendre-evitement.md",
+      "focus": "effet autruche : report de la lecture d'un courrier du notaire après la mort d'Hélène",
+      "structure": {"scene": "ok", "concept": "ok", "manifestations": "ok", "techniques": "ok", "retour": "faible", "conclusion": "ok", "proches": "ok"},
+      "comprehension": 3,
+      "comprehension_note": "L'enveloppe déplacée trois fois est une très bonne image de l'évitement, et la mort d'Hélène est posée dès le début. Le retour se brouille : Bernard propose à Éric de venir samedi au téléphone, puis Éric « s'en va » alors qu'il n'est jamais arrivé. Le contenu de la lettre reste vague.",
+      "issues": [
+        {"severity": "majeur", "type": "trame", "quote": "Le papier reste sur la table quand Éric s’en va.", "problem": "Éric n'est présent qu'au téléphone dans la scène. Ce départ suppose une visite non racontée, probablement celle du samedi suivant.", "fix": "Écrire « Le samedi suivant, quand Éric s'en va, le papier reste sur la table » ou supprimer cette phrase."},
+        {"severity": "mineur", "type": "comprehension", "quote": "Ce sont des chiffres, des dates, des termes juridiques froids.", "problem": "Le lecteur ne sait pas ce que demande le notaire (une signature, un rendez-vous, une déclaration de succession). La « démarche » reste abstraite alors que les techniques reposent sur « identifier la prochaine démarche ».", "fix": "Préciser en une proposition ce que demande la lettre, par exemple un rendez-vous pour signer l'attestation de propriété de la maison."},
+        {"severity": "mineur", "type": "continuite", "quote": "Il se rappelle sa prise de conscience du 16 mars", "problem": "Encore un renvoi par date de publication.", "fix": "Remplacer par « le jour où il avait réussi à dire à Éric qu'il était content de le voir »."},
+        {"severity": "mineur", "type": "lien_concept", "quote": "plutôt que de passer cinq minutes à lire un testament", "problem": "Rien n'indique que la lettre contient un testament ; c'est une supposition présentée comme un fait.", "fix": "Écrire « à lire une lettre du notaire »."}
+      ]
+    },
+    {
+      "number": 5,
+      "file": "content/posts/comprendre-et-maitriser-ses-emotions/apathie-en-voyage-ou-expatriation-comprendre.md",
+      "focus": "apathie (baisse de motivation et d'élan) pendant un séjour en Toscane",
+      "structure": {"scene": "ok", "concept": "ok", "manifestations": "ok", "techniques": "ok", "retour": "ok", "conclusion": "ok", "proches": "ok"},
+      "comprehension": 4,
+      "comprehension_note": "Le cadre (séjour offert par Éric, village toscan, Sultan chez Marcel) est posé en deux phrases. L'atelier de restaurateur dans la ruelle fait passer Bernard de l'indifférence à une curiosité de métier de façon crédible. La fin (appel à Éric, musée « on verra ») est nette et modeste.",
+      "issues": [
+        {"severity": "mineur", "type": "lien_concept", "quote": "Cette manifestation est particulièrement handicapante en expatriation, où de nombreux choix logistiques sont nécessaires.", "problem": "Bernard fait un court séjour. Les passages sur l'expatriation ne concernent pas sa situation.", "fix": "Réduire ces généralités à une phrase et garder les exemples du séjour."},
+        {"severity": "mineur", "type": "continuite", "quote": "Il peut être lui-même, un menuisier en voyage", "problem": "Bernard est ébéniste dans le reste du parcours.", "fix": "Remplacer « menuisier » par « ébéniste »."}
+      ]
+    },
+    {
+      "number": 6,
+      "file": "content/posts/sortir-de-ses-schemas-repetitifs/somatisation-face-au-vieillissement-corps-parle.md",
+      "focus": "douleur lombaire aiguë et demande d'aide (avis médical et coup de main d'Éric) ; la somatisation annoncée est écartée",
+      "structure": {"scene": "ok", "concept": "faible", "manifestations": "faible", "techniques": "ok", "retour": "faible", "conclusion": "ok", "proches": "ok"},
+      "comprehension": 3,
+      "comprehension_note": "Le blocage en tirant la planche est concret. La position de Bernard change sans transition (debout contre l'établi, puis assis par terre), il se retrouve « chez lui » sans qu'on sache comment, et la dernière phrase sur la planche lâchée est elliptique. L'épisode refuse le concept qu'il annonce.",
+      "issues": [
+        {"severity": "majeur", "type": "lien_concept", "quote": "Ce mot ne dit pas pourquoi une personne a mal.", "problem": "Le titre et le slug annoncent la somatisation et le vieillissement, mais l'article explique surtout que la douleur n'a rien à voir avec les émotions. Les manifestations listent des symptômes à signaler au médecin. Aucun aspect psychologique distinct n'est illustré : l'épisode traite en réalité la demande d'aide.", "fix": "Assumer le concept réellement traité (« demander de l'aide quand le corps impose une limite » ou « peur de devenir dépendant en vieillissant ») et réécrire l'explication et les trois manifestations autour de la difficulté de Bernard à demander, en gardant les messages de sécurité médicale."},
+        {"severity": "majeur", "type": "continuite", "quote": "Il reste assis sur le sol en béton froid, observant ses mains qui tremblent légèrement.", "problem": "Deux phrases plus haut, il « attend debout, une main sur l'établi », et ne peut pas faire un pas. On ne sait pas comment il s'est retrouvé au sol, alors que c'est important dans une scène de blocage.", "fix": "Montrer le moment où il glisse le long de l'établi pour s'asseoir, ou garder la position debout."},
+        {"severity": "majeur", "type": "comprehension", "quote": "Chez lui, quelques heures après le blocage, Bernard appelle pour demander un avis médical.", "problem": "Saut non raconté de l'atelier à la maison alors qu'il ne pouvait pas marcher. Puis « Éric prend l'autre bout de la planche quand ils reviennent à l'atelier. Bernard la lâche avant qu'il le lui demande » : on ne sait ni quand Éric arrive ni pourquoi Bernard tient encore la planche malgré son dos.", "fix": "Indiquer qui l'a aidé à rentrer ou comment il a rejoint la maison, puis remplacer la dernière phrase par une scène claire : le lendemain, Éric porte seul la planche pendant que Bernard lui indique où la poser."},
+        {"severity": "mineur", "type": "continuite", "quote": "sous le bruit de sa ponceuse", "problem": "Aucune ponceuse ne tourne dans la scène ; Bernard tirait une planche.", "fix": "Supprimer « sous le bruit de sa ponceuse »."},
+        {"severity": "mineur", "type": "trame", "quote": "Demander un avis pour son dos et parler d’Hélène avec son fils répondent à des besoins différents.", "problem": "Bernard ne parle pas d'Hélène avec Éric dans l'épisode ; son message dit seulement « J'aimerais aussi qu'on parle un peu ».", "fix": "Remplacer « parler d'Hélène avec son fils » par « demander à son fils un moment pour parler »."}
+      ]
+    },
+    {
+      "number": 7,
+      "file": "content/posts/comprendre-et-maitriser-ses-emotions/comprendre-tristesse-lors-d-un-deuil.md",
+      "focus": "tristesse du deuil déclenchée par un objet (la poignée du buffet d'Hélène)",
+      "structure": {"scene": "ok", "concept": "ok", "manifestations": "ok", "techniques": "ok", "retour": "faible", "conclusion": "ok", "proches": "ok"},
+      "comprehension": 3,
+      "comprehension_note": "La découverte de la poignée dans le mauvais tiroir est un déclencheur très clair. Le retour enchaîne quatre fins : message au client, appel à Éric, promenade, puis téléphone repris et reposé au portail. Le dernier geste semble contredire l'appel déjà passé.",
+      "issues": [
+        {"severity": "majeur", "type": "continuite", "quote": "Ce n'est pas la colère sourde qu'il a ressentie en Toscane lors de ce voyage vide de sens", "problem": "L'ép. 5 décrit en Toscane une apathie sans relief, pas de la colère. La phrase cite aussi l'apathie « le mois dernier », ce qui en fait deux états différents pour le même voyage.", "fix": "Écrire « Ce n'est pas le vide qu'il a ressenti en Toscane le mois dernier »."},
+        {"severity": "majeur", "type": "trame", "quote": "Il prend son téléphone, le repose et laisse Sultan choisir de quel côté ils partiront.", "problem": "Il vient d'appeler Éric et de raccrocher. Ce dernier geste fait croire qu'il renonce à un appel déjà passé, ce qui brouille la conclusion de la scène.", "fix": "Supprimer le dernier paragraphe ou le remplacer par la phrase qu'il garde pour lui au portail, sans téléphone."},
+        {"severity": "mineur", "type": "comprehension", "quote": "Il y trouve la poignée qu’Hélène avait choisie pour son buffet", "problem": "Hélène n'est jamais présentée comme sa femme décédée.", "fix": "Écrire « Hélène, sa femme morte il y a … »."}
+      ]
+    },
+    {
+      "number": 8,
+      "file": "content/posts/reprendre-le-controle-de-ses-pensees/biais-omission-face-a-la-solitude-bernard.md",
+      "focus": "biais d'omission : ne pas envoyer d'invitation paraît moins risqué que d'en envoyer une",
+      "structure": {"scene": "ok", "concept": "ok", "manifestations": "ok", "techniques": "ok", "retour": "faible", "conclusion": "ok", "proches": "ok"},
+      "comprehension": 3,
+      "comprehension_note": "Le brouillon « Tu passes ce dimanche ? » illustre bien le biais. Mais le message finalement envoyé parle d'une chaise et de « ce soir », sans lien avec le dimanche. Il est envoyé deux fois dans le texte.",
+      "issues": [
+        {"severity": "majeur", "type": "trame", "quote": "Il envoie le message avant de retourner à la pièce de cerisier.", "problem": "Le message a déjà été envoyé (« Il appuie sur envoyer avant que le doute ne le rattrape »). Le brouillon du dimanche de la scène d'ouverture est abandonné sans explication au profit d'une invitation « ce soir ».", "fix": "Supprimer la phrase redondante et relier les deux messages : par exemple, il remplace « Tu passes ce dimanche ? » par l'invitation à dîner, en expliquant pourquoi il change de jour."},
+        {"severity": "mineur", "type": "continuite", "quote": "Il se rappelle l'enveloppe notariale qu'il a laissée traîner des semaines sur son buffet", "problem": "Dans l'ép. 4, l'enveloppe change de place dans l'atelier (sous la radio, sous un catalogue, près des clés), pas sur un buffet.", "fix": "Remplacer « sur son buffet » par « dans l'atelier »."},
+        {"severity": "mineur", "type": "repetition", "quote": "Bernard fabrique des meubles magnifiques pour montrer son attachement.", "problem": "Quatrième reprise du thème « l'objet à la place des mots » (ép. 1, 3).", "fix": "Réduire cette sous-partie à l'aspect propre au biais : la remise d'un objet est vécue comme une action « sans risque », contrairement à une invitation."},
+        {"severity": "mineur", "type": "comprehension", "quote": "alors que le vide dans la maison d'Hélène devient chaque jour plus lourd", "problem": "On ne sait pas si c'est la maison où vit Bernard. L'ép. 9 parle aussi de « la maison d'Hélène » qu'Éric veut faire estimer.", "fix": "Écrire « dans la maison qu'il partageait avec Hélène »."}
+      ]
+    },
+    {
+      "number": 9,
+      "file": "content/posts/sortir-de-ses-schemas-repetitifs/clivage-conflit-comprendre-gerer.md",
+      "focus": "pensée en tout ou rien (clivage) lors d'un désaccord sur l'avenir de la maison",
+      "structure": {"scene": "ok", "concept": "ok", "manifestations": "faible", "techniques": "ok", "retour": "faible", "conclusion": "ok", "proches": "ok"},
+      "comprehension": 3,
+      "comprehension_note": "L'ouverture est précise : Bernard entend « vendre » quand Éric parle d'« estimation ». Les manifestations et le retour introduisent des objets et des décisions non vus (armoire scellée au grenier, chevet, table d'Hélène, compromis sur l'armoire). Un paragraphe sur « le langage de l'outil » reste abstrait.",
+      "issues": [
+        {"severity": "majeur", "type": "comprehension", "quote": "Éric obtient de garder une armoire pour ses affaires et Bernard obtient que la table d'Hélène reste intacte dans la salle à manger pendant encore quelques mois.", "problem": "Ce compromis tombe en une phrase, sans dialogue, sur des objets qui ne faisaient pas partie de la liste d'Éric (une estimation de la maison). Le lecteur ne voit pas comment on passe du désaccord sur la vente à ces deux accords.", "fix": "Montrer l'échange : Éric lit la ligne de la liste sur l'armoire, Bernard répond par la phrase préparée, et ils s'accordent sur un seul point lié à l'estimation."},
+        {"severity": "majeur", "type": "comprehension", "quote": "Il utilise le langage de l'outil pour mesurer ses progrès : la première journée où il a nommé son émotion, la première où il a validé une remarque d'Éric, la première où il a proposé une action réversible.", "problem": "Paragraphe procédural qui énumère des étapes d'exercice au lieu de montrer une action.", "fix": "Supprimer le paragraphe."},
+        {"severity": "mineur", "type": "lien_concept", "quote": "Après un commentaire d'Éric, Bernard propose de sceller une armoire dans le grenier plutôt que d'en discuter", "problem": "Cet événement n'existe pas dans la scène. Il paraît réel mais n'a pas de contexte.", "fix": "Le remplacer par un exemple tiré de la scène (par exemple l'interruption à la deuxième possibilité)."},
+        {"severity": "mineur", "type": "continuite", "quote": "Ce mutisme protecteur, qui l'avait déjà paralysé lors de son voyage en Toscane", "problem": "En Toscane, l'ép. 5 décrit de l'apathie et non un mutisme défensif face à un conflit.", "fix": "Supprimer la référence à la Toscane."}
+      ]
+    },
+    {
+      "number": 10,
+      "file": "content/posts/sortir-de-ses-schemas-repetitifs/isolement-social-alienation-amitie.md",
+      "focus": "isolement social et sentiment de ne plus trouver sa place parmi les amis du hameau",
+      "structure": {"scene": "faible", "concept": "ok", "manifestations": "ok", "techniques": "ok", "retour": "faible", "conclusion": "ok", "proches": "ok"},
+      "comprehension": 2,
+      "comprehension_note": "Le lecteur ne comprend pas l'événement : « le collectif », « la fête du village », « le stand », « montrer un outil » arrivent sans présentation. Le retour enchaîne la fête avec Marcel, la livraison chez Éric, puis une seconde ouverture de porte et une invitation à un café sans qu'on sache qui invite.",
+      "issues": [
+        {"severity": "bloquant", "type": "comprehension", "quote": "Bernard pense au collectif d'il y a quelques semaines", "problem": "Le « collectif » n'est jamais présenté (association du hameau ? atelier partagé ?), pas plus que la fête du village ni le stand où Bernard doit « montrer un outil ». Le cœur de la scène est incompréhensible pour un lecteur qui arrive.", "fix": "Ouvrir sur l'événement : « Ce samedi, le comité des fêtes du hameau tient un stand de vieux métiers ; Marcel a proposé à Bernard d'y montrer ses rabots. » Puis supprimer « collectif » ou le définir."},
+        {"severity": "majeur", "type": "continuite", "quote": "à la discussion tendue avec son fils Éric le 6 mai, quand le silence avait refermé la pièce comme un couvercle", "problem": "L'ép. 9 (6 mai) se termine sur un compromis partiel et une feuille commune, pas sur un silence fermé. La même idée revient plus bas (« la dernière fois où la pièce s'était fermée »).", "fix": "Écrire « la discussion sur la maison, début mai, où ils n'avaient réglé qu'une petite partie de la question »."},
+        {"severity": "majeur", "type": "trame", "quote": "Éric ouvre la porte pour la commode. Bernard lui dit que le collectif passera peut-être à l’atelier un autre jour. En repartant, il garde leur invitation à prendre un café et reprend la route du hameau.", "problem": "La porte d'Éric s'ouvre deux fois. On ne sait pas de qui vient l'invitation au café ni pourquoi le collectif passerait à l'atelier.", "fix": "Supprimer ce dernier paragraphe et finir sur la réponse d'Éric à « Je voulais que tu aies ça »."},
+        {"severity": "majeur", "type": "repetition", "quote": "L’isolement social concerne le manque de contacts ou de liens disponibles. Le sentiment de solitude peut exister même quand les rencontres sont régulières.", "problem": "Même distinction et même situation (Marcel invite, Bernard décline par habitude) qu'à l'ép. 2.", "fix": "Centrer l'épisode sur l'aspect propre à l'aliénation en amitié : Bernard se sent étranger dans le groupe d'amis qu'il fréquentait avec Hélène (le couple ami, les repas à quatre). Ne garder qu'une phrase de rappel sur la distinction."},
+        {"severity": "mineur", "type": "comprehension", "quote": "Aujourd'hui, Bernard attache une petite étiquette à la poignée d'la commode qu’Éric avait essayée en mars.", "problem": "Coquille (« d'la »).", "fix": "Écrire « de la commode »."}
+      ]
+    },
+    {
+      "number": 11,
+      "file": "content/posts/comprendre-et-maitriser-ses-emotions/tendresse-avec-ses-enfants-bernard.md",
+      "focus": "exprimer la tendresse à un fils adulte en demandant avant de faire un geste",
+      "structure": {"scene": "ok", "concept": "ok", "manifestations": "faible", "techniques": "ok", "retour": "ok", "conclusion": "ok", "proches": "ok"},
+      "comprehension": 3,
+      "comprehension_note": "La main qui part puis retombe et la demande « je peux te poser la main sur l'épaule ? » forment un bon arc de scène. Les manifestations inventent des faits sans contexte (chevet laissé sur un palier, dispute, serrures refaites la nuit). La table d'atelier destinée à Éric n'est présentée que dans l'explication.",
+      "issues": [
+        {"severity": "majeur", "type": "continuite", "quote": "Lors d'une dispute il y a quelques semaines, Bernard est resté au garage, sans intervenir, mais la nuit suivante il refait les serrures et renvoie un message laconique.", "problem": "Événement absent du parcours, sans contexte (quelle dispute, quelles serrures, chez qui ?). Bernard n'a pas de garage dans la série, il travaille dans son atelier. De même, le chevet « laissé sur le palier » n'a jamais existé.", "fix": "Remplacer par des exemples du parcours : la commode livrée avec son étiquette (ép. 10), le coup de main demandé pour la planche (ép. 6)."},
+        {"severity": "mineur", "type": "comprehension", "quote": "quand Éric pose la main sur le placard qu'il a construit", "problem": "Un placard apparaît sans contexte ; ailleurs il s'agit d'une table d'atelier.", "fix": "Écrire « sur la table d'atelier que Bernard finit pour lui » et la présenter dès la scène d'ouverture."},
+        {"severity": "mineur", "type": "continuite", "quote": "Quand il avait enfin appelé Éric, son fils lui avait demandé par quel bout il devait la prendre.", "problem": "Dans l'ép. 6, Bernard écrit un message à Éric, il ne l'appelle pas.", "fix": "Remplacer « appelé » par « écrit à »."},
+        {"severity": "mineur", "type": "continuite", "quote": "il repense aux conversations interrompues du 6 mai", "problem": "Renvoi par date de publication, et la conversation n'a pas été « interrompue » à l'ép. 9.", "fix": "Écrire « à la discussion sur la maison »."}
+      ]
+    }
+  ],
+  "missing_or_extra": "Il manque un épisode (11 sur 12). Le parcours aborde l'inhibition, la solitude, la distance affective, l'évitement, l'apathie, la douleur physique, la tristesse, l'omission, la pensée en tout ou rien, l'isolement et la tendresse, mais ne dit jamais ce qu'Éric reproche à son père. Je propose un 12e épisode, après la tendresse (ép. 11), sur la culpabilité parentale et la réparation. Le samedi prévu pour régler le tiroir, Éric dit enfin ce qui lui a manqué enfant (par exemple l'absence de son père lors de la maladie d'Hélène, passée à l'atelier) et ce qu'il y avait sur la feuille de l'ép. 1. Bernard reconnaît un fait sans se justifier par le travail, et ils décident ensemble de la suite de l'estimation de la maison. L'épisode clôt l'arc de réconciliation avec un aspect que le parcours n'a pas encore traité (entendre un reproche, distinguer culpabilité et responsabilité). Il faudrait aussi différencier les ép. 2 et 10 (voir les fixes de l'ép. 10).",
+  "verdict": "corrections_majeures"
+}

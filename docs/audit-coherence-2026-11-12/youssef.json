@@ -1,0 +1,178 @@
+{
+  "character_id": "youssef",
+  "type": "origine",
+  "auditor": "audit_o8",
+  "audited_on": "2026-11-12",
+  "persona": {
+    "age_metier_proches": "Né le 14 août 1996 (29 ans au printemps 2026, âge exact à l'ép. 7), ingénieur en informatique à Paris, en arrêt pour épuisement professionnel puis en préparation de reprise, avec une mobilité proposée à Lyon. En couple avec Léa (étudiante en master de psychologie clinique, qui vit dans son studio). Mère : Leïla. Père : Hamid, comptable, décédé selon l'ép. 12 et la fiche. Ami : Nicolas, muté. Une sœur aînée, mère d'un neveu de quatre ans.",
+    "arc_summary": "Youssef part de l'alexithymie en couple (ép. 1) et de ses exigences héritées de Hamid (ép. 2). Il traverse ensuite la décision lyonnaise (projection, ancrage, représentativité : ép. 3, 4 et 8), le flou émotionnel avec sa mère (ép. 6), l'arrêt et l'hésitation entre démission, mobilité et conseil (ép. 7 et 10), puis la préparation du déménagement (ép. 11). Il termine sur le tri des affaires de son père (ép. 12). Les scènes réussies montrent un geste précis : le jeudi sans Nicolas, le garage de travers, la photo du vélo, la lettre retournée, la calculatrice posée sur la table.",
+    "arc_issues": [
+      "Le décès de Hamid, enjeu du dernier épisode et de la fiche (« en deuil de son père hamid »), n'est jamais raconté ni même mentionné avant l'ép. 12 (« son père décédé quelques semaines plus tôt », soit vers fin avril). Les ép. 7 à 11, écrits pendant ces semaines, n'en portent aucune trace, et l'ép. 9 parle de « l'image de réussite que son père a pour lui » au présent.",
+      "L'arrêt pour épuisement apparaît à l'ép. 7 (« Il est encore en arrêt ») sans avoir été annoncé. À l'ép. 6, dix jours plus tôt, Youssef est « fatigué de sa semaine au bureau » ; à l'ép. 12, l'épuisement est daté « le 19 avril dernier », c'est-à-dire la date de publication de l'ép. 7.",
+      "La décision de partir à Lyon n'est jamais prise en scène. Proposition à l'ép. 4, réponse attendue à l'ép. 7, trois pistes à l'ép. 8, reprise à l'ép. 10, puis « Youssef prépare son départ de Paris vers Lyon » avec un devis de déménageur à l'ép. 11.",
+      "Raccords croisés avec le parcours de Léa : les épisodes de Léa des 18 et 22 avril (« trahison », « gaslighting ») montrent Youssef qui répond à une confidence par une analyse, fait une remarque sur son corps pendant un moment intime puis nie ses mots ; l'épisode du 4 mai parle d'une « dispute avec Youssef du début mai ». Dans le parcours de Youssef, rien de cela n'apparaît. L'ép. 9 (26 avril) montre une Léa tendre et sans réserve, et l'ép. 11 se contente d'une allusion floue (« ne pas tourner en dérision ce qu'elle ressentait »).",
+      "Plusieurs épisodes traitent la même facette, la difficulté à trouver des mots pour ses émotions : ép. 1 (alexithymie), ép. 6 (confusion), ép. 9 (granularité). La roue des émotions revient comme technique aux ép. 1, 6 et 9. Les ép. 10 (intellectualisation) et 11 (isolation de l'affect) se recouvrent aussi.",
+      "Le rappel « corriger l'alignement des jouets de son neveu » revient mécaniquement aux ép. 4 (deux fois), 5, 7 et 8, souvent pour expliquer un comportement sans lien.",
+      "Lieux familiaux flottants : « le jardin de ses parents » (ép. 2), « l'appartement de Leïla » (ép. 6), « la cuisine de ses parents » (ép. 7 et 10)."
+    ]
+  },
+  "episodes": [
+    {
+      "number": 1,
+      "file": "content/posts/comprendre-et-maitriser-ses-emotions/alexithymie-en-couple.md",
+      "focus": "alexithymie en couple : difficulté à identifier et dire ce que lui fait la mutation de Nicolas",
+      "structure": {"scene": "ok", "concept": "ok", "manifestations": "ok", "techniques": "ok", "retour": "ok", "conclusion": "ok", "proches": "ok"},
+      "comprehension": 4,
+      "comprehension_note": "L'article modèle est clair : la tasse, « C'est logique », l'écharpe de Léa et la phrase « ça va me faire drôle de ne plus le voir le jeudi » montrent la difficulté sans la caricaturer. Hamid n'est pas présenté, et la fin du retour anticipe des progrès que la série n'a pas encore montrés.",
+      "issues": [
+        {"severity": "majeur", "type": "comprehension", "quote": "Il pense à Hamid, qui lui demandait souvent comment les choses s’étaient passées et plus rarement ce qu’il en avait éprouvé.", "problem": "Le lecteur ne sait pas qui est Hamid. Comme son décès est l'enjeu du dernier épisode, l'absence de présentation pèse sur toute la série.", "fix": "« Il pense à son père, Hamid, qui lui demandait souvent… »."},
+        {"severity": "mineur", "type": "continuite", "quote": "la patience de Léa et ses progrès sur les biais cognitifs lui offrent un cadre rassurant", "problem": "C'est le premier épisode : aucun travail sur les biais n'a encore été montré. Le jogging (« Il continue de courir ») apparaît aussi sans présentation.", "fix": "« la patience de Léa et ces premiers essais lui offrent un cadre rassurant » ; « Il court toujours le matin, et utilise désormais son jogging… »."}
+      ]
+    },
+    {
+      "number": 2,
+      "file": "content/posts/sortir-de-ses-schemas-repetitifs/exigences-elevees-critique-excessive-enfants.md",
+      "focus": "schéma d'exigences élevées : corriger le jeu de son neveu",
+      "structure": {"scene": "ok", "concept": "ok", "manifestations": "ok", "techniques": "ok", "retour": "ok", "conclusion": "faible", "proches": "ok"},
+      "comprehension": 4,
+      "comprehension_note": "La roue du camion redressée et « C'est mieux comme ça » rendent le schéma visible d'emblée. Le retour au jardin (gadoue, prise extérieure, garage de travers) distingue bien sécurité et préférence.",
+      "issues": [
+        {"severity": "mineur", "type": "continuite", "quote": "Youssef se retrouve à nouveau avec son neveu dans le jardin de ses parents", "problem": "Selon l'ép. 12, Hamid meurt vers fin avril, donc « ses parents » est possible en mars. Mais l'ép. 6 situe Leïla dans un appartement : le lieu familial n'est pas stable.", "fix": "Fixer un lieu (la maison de ses parents avec jardin) et le reprendre à l'ép. 6, ou écrire « le jardin de sa sœur »."},
+        {"severity": "mineur", "type": "trame", "quote": "surtout lorsqu'il s'agit de l'éducation de nos enfants ou de nos proches", "problem": "La conclusion parle de « parentalité » et de « nos enfants » alors que Youssef est oncle et que la scène porte sur un jeu.", "fix": "« surtout auprès des enfants que l'on garde ou que l'on aime »."}
+      ]
+    },
+    {
+      "number": 3,
+      "file": "content/posts/reprendre-le-controle-de-ses-pensees/biais-de-projection-en-couple-comprendre-autre.md",
+      "focus": "projection sociale : attribuer à Léa son propre stress devant des annonces de logement",
+      "structure": {"scene": "ok", "concept": "ok", "manifestations": "ok", "techniques": "ok", "retour": "ok", "conclusion": "faible", "proches": "ok"},
+      "comprehension": 3,
+      "comprehension_note": "Le « si ça te stresse » adressé à Léa et sa réponse (« Moi, celle-ci m'intéresse ») illustrent parfaitement la projection. En revanche, le lecteur ne sait pas pourquoi ils cherchent à Lyon : la proposition de mutation n'arrive qu'à l'ép. 4.",
+      "issues": [
+        {"severity": "majeur", "type": "comprehension", "quote": "Elle a repéré des annonces à Lyon pendant qu’il finissait de ranger chez lui.", "problem": "Lyon surgit sans raison (aucun poste, aucun projet annoncé). « Youssef allait calculer le temps de trajet jusqu'au bureau » renvoie lui aussi à un bureau inconnu.", "fix": "Ajouter une phrase : « Depuis que son entreprise a évoqué un poste à Lyon, Léa regarde les annonces par curiosité. » Ou placer cet épisode après celui de l'offre (ép. 4)."},
+        {"severity": "mineur", "type": "comprehension", "quote": "Léa continue de garder son studio et ne sait pas encore où elle fera son stage.", "problem": "Le stage de Léa (master de psychologie clinique selon sa fiche) n'est pas présenté dans ce parcours.", "fix": "« son stage de master »."},
+        {"severity": "mineur", "type": "trame", "quote": "Youssef sait à présent que Léa aime regarder les annonces. Il ne sait pas encore où chacun vivra.", "problem": "La conclusion tient en trois phrases et ne dit pas ce que l'épisode a montré du mécanisme.", "fix": "Ajouter une phrase : son propre malaise lui a servi de lecture de Léa, et la question l'a corrigée."}
+      ]
+    },
+    {
+      "number": 4,
+      "file": "content/posts/reprendre-le-controle-de-ses-pensees/biais-ancrage-decision-importante.md",
+      "focus": "biais d'ancrage sur le salaire annoncé d'un poste à Lyon",
+      "structure": {"scene": "ok", "concept": "ok", "manifestations": "ok", "techniques": "ok", "retour": "faible", "conclusion": "ok", "proches": "ok"},
+      "comprehension": 3,
+      "comprehension_note": "L'ouverture est excellente : le pouce sur l'écran, les cinq chiffres retenus et le nom du contact à relire, la question de Léa sur l'équipe. Le retour bascule ensuite dans une négociation salariale réussie qui ne répond pas à cette question et que l'épisode suivant ignore.",
+      "issues": [
+        {"severity": "majeur", "type": "continuite", "quote": "Le responsable, surpris par sa méthode structurée, revient avec une proposition intermédiaire améliorée.", "problem": "À l'ép. 7, Youssef reste « fixé sur le salaire de 48 000 euros de sa précédente proposition de mutation », et la rubrique proches dit qu'« Aucun chiffre n'engage déjà Youssef ». La négociation réussie contredit la suite et remplace la question sur le contenu du poste par une contre-ancre à 55 000 €.", "fix": "Supprimer la négociation et finir sur la réponse obtenue (ou attendue) à la question sur l'équipe et le périmètre du poste, le montant restant inchangé."},
+        {"severity": "mineur", "type": "comprehension", "quote": "il sort son carnet noir, un acquis de ses lectures d'essais de philosophie qu'il utilise désormais comme instrument de pensée", "problem": "Le détail est confus (un carnet « acquis » de lectures) et n'apporte rien à la scène.", "fix": "« il sort son carnet noir »."},
+        {"severity": "mineur", "type": "comprehension", "quote": "Ensemble, ils listent les implications pratiques : école éventuelle, temps de trajet, opportunités professionnelles pour Léa.", "problem": "« École éventuelle » suppose un projet d'enfant qui n'est pas posé à ce stade (Léa est étudiante et garde son studio).", "fix": "Supprimer « école éventuelle » ou le remplacer par « stage de Léa »."}
+      ]
+    },
+    {
+      "number": 5,
+      "file": "content/posts/comprendre-et-maitriser-ses-emotions/suppression-emotionnelle-reevaluation-cognitive-couple.md",
+      "focus": "suppression expressive : répondre par les horaires de train quand Léa parle de sa place dans le projet",
+      "structure": {"scene": "ok", "concept": "ok", "manifestations": "ok", "techniques": "ok", "retour": "ok", "conclusion": "ok", "proches": "ok"},
+      "comprehension": 4,
+      "comprehension_note": "La brasserie, les frites qui refroidissent, le verre tenu par le pied et « je suis déjà dans les cartons » forment une scène claire. La phrase « J'ai parlé des trains pour gagner du temps » est une vraie fin de scène. Quelques défauts de mise en scène et d'étiquetage.",
+      "issues": [
+        {"severity": "mineur", "type": "comprehension", "quote": "Il s'approche et s'assoit à côté d'elle", "problem": "Le paragraphe précédent dit que Léa « reste debout près de la porte ».", "fix": "« Il la rejoint près de la porte »."},
+        {"severity": "mineur", "type": "lien_concept", "quote": "Cette fois, il choisit la réévaluation. Il ne voit plus l'inquiétude de Léa comme un problème informatique à résoudre, mais comme une porte ouverte sur son intimité.", "problem": "Ce que Youssef fait réellement, c'est exprimer ce qu'il retenait, pas réinterpréter la situation. Le paragraphe est abstrait.", "fix": "« Cette fois, il ne retient pas ce qu'il a remarqué au restaurant », puis passer directement à sa phrase."},
+        {"severity": "mineur", "type": "continuite", "quote": "reproduisant inconsciemment le biais de projection qu'il avait manifesté lors de leurs premières visites d'appartements", "problem": "À l'ép. 3, ils regardaient des annonces sur une tablette ; aucune visite n'a eu lieu. L'exemple de la « décoration pour un appartement qu'il visite » ne vient pas non plus de la scène.", "fix": "« devant les annonces sur la tablette »."}
+      ]
+    },
+    {
+      "number": 6,
+      "file": "content/posts/comprendre-et-maitriser-ses-emotions/confusion-emotionnelle-avec-ses-parents-comprendre.md",
+      "focus": "flou émotionnel pendant que sa mère raconte ses étés d'enfance",
+      "structure": {"scene": "ok", "concept": "ok", "manifestations": "ok", "techniques": "ok", "retour": "faible", "conclusion": "ok", "proches": "ok"},
+      "comprehension": 3,
+      "comprehension_note": "La cuisine de Leïla, le robinet qui goutte et la main posée sur la sienne sont concrets, et le mot final (tendresse mêlée de fatigue) est juste. Mais le statut de Hamid reste ambigu, et le retour se perd en formules abstraites.",
+      "issues": [
+        {"severity": "majeur", "type": "continuite", "quote": "Autrefois, Hamid lisait le journal dans la pièce voisine.", "problem": "On ne sait pas si Hamid est absent, séparé ou mort. Selon l'ép. 12, il serait décédé peu après. Le même paragraphe dit que Youssef est « fatigué de sa semaine au bureau », alors qu'il est « encore en arrêt » dix jours plus tard (ép. 7).", "fix": "Préciser la situation de Hamid à ce moment (vivant mais affaibli, hospitalisé…) et faire apparaître ici l'arrêt de travail ou sa menace."},
+        {"severity": "mineur", "type": "comprehension", "quote": "Il comprend que l'intellectualisation était une cage et que le flou, s'il est accueilli, est la première étape vers une authenticité qu'il n'osait pas imaginer.", "problem": "Les deux derniers paragraphes du retour accumulent des conclusions générales (« il choisit la vérité de l'instant ») après le geste concret de la main.", "fix": "Finir sur la main serrée et sur une phrase dite à Leïla."},
+        {"severity": "mineur", "type": "continuite", "quote": "C'est un progrès immense par rapport au masque de marbre qu'il arborait encore quelques mois plus tôt.", "problem": "Le « masque de marbre » est celui de l'ép. 5, six jours plus tôt.", "fix": "« encore la semaine dernière, à la brasserie »."}
+      ]
+    },
+    {
+      "number": 7,
+      "file": "content/posts/comprendre-et-maitriser-ses-emotions/ambivalence-emotionnelle-reconversion-professionnelle-burn-out.md",
+      "focus": "ambivalence devant une lettre de démission, pendant un arrêt pour épuisement",
+      "structure": {"scene": "ok", "concept": "ok", "manifestations": "ok", "techniques": "ok", "retour": "ok", "conclusion": "ok", "proches": "ok"},
+      "comprehension": 3,
+      "comprehension_note": "La lettre non cachetée et le verso où il écrit « une équipe sur qui compter » et « des semaines où le téléphone peut sonner à toute heure » sont réussis. Les précautions sur l'arrêt (médecin, médecine du travail) sont bien placées. Mais l'arrêt, le projet de conseil et l'environnement « toxique » arrivent tous sans préparation.",
+      "issues": [
+        {"severity": "majeur", "type": "comprehension", "quote": "Il est encore en arrêt et l’entreprise attend aussi une réponse sur Lyon.", "problem": "Aucun épisode n'a annoncé l'arrêt ; « encore » suppose que le lecteur le connaît. L'ép. 6 le montre au bureau.", "fix": "Écrire « Depuis dix jours, il est en arrêt pour épuisement professionnel » et prévoir un signe avant-coureur à l'ép. 6."},
+        {"severity": "mineur", "type": "continuite", "quote": "restant fixé sur le salaire de 48 000 euros de sa précédente proposition de mutation", "problem": "L'ép. 4 se termine sur une « proposition intermédiaire améliorée ». La « proposition de mutation » est en outre toujours ouverte, pas « précédente ».", "fix": "Aligner sur l'ép. 4 corrigé : « fixé sur les 48 000 euros de la proposition lyonnaise »."},
+        {"severity": "mineur", "type": "comprehension", "quote": "La perspective de quitter un environnement toxique apporte un soulagement immédiat", "problem": "L'entreprise n'a jamais été décrite comme toxique ; le mot plaque un jugement non montré.", "fix": "« La perspective de quitter un poste qui l'a épuisé »."}
+      ]
+    },
+    {
+      "number": 8,
+      "file": "content/posts/reprendre-le-controle-de-ses-pensees/biais-de-representativite-decision-importante-youssef.md",
+      "focus": "biais de représentativité : juger le métier de consultant à l'allure de jeunes entrepreneurs en terrasse",
+      "structure": {"scene": "ok", "concept": "ok", "manifestations": "ok", "techniques": "ok", "retour": "ok", "conclusion": "ok", "proches": "ok"},
+      "comprehension": 4,
+      "comprehension_note": "Le lacet défait au canal de l'Ourcq, la terrasse et ses sweats à capuche, les trois pistes (Lyon, banque, conseil) clairement distinguées, puis le message envoyé à l'autrice d'un rapport : l'épisode est clair et bien centré.",
+      "issues": [
+        {"severity": "mineur", "type": "continuite", "quote": "la fois où, quelques mois plus tôt, il avait tenté de corriger l'alignement des jouets de son neveu", "problem": "La scène du neveu (ép. 2) date d'environ un mois, et ce rappel mécanique revient pour la quatrième fois dans la série.", "fix": "Supprimer la phrase."},
+        {"severity": "mineur", "type": "comprehension", "quote": "Aujourd'hui, il comprend que le biais de représentativité lui a fait confondre la forme et le fond.", "problem": "Le paragraphe central du retour est une auto-analyse abstraite qui nomme le concept à la place d'un geste.", "fix": "Le réduire à une phrase sur Hamid et passer au message envoyé."}
+      ]
+    },
+    {
+      "number": 9,
+      "file": "content/posts/comprendre-et-maitriser-ses-emotions/granularite-emotionnelle-en-couple-comprendre-ressentis.md",
+      "focus": "granularité émotionnelle : préciser un « bof » pendant l'attente de la reprise",
+      "structure": {"scene": "faible", "concept": "ok", "manifestations": "ok", "techniques": "ok", "retour": "ok", "conclusion": "ok", "proches": "ok"},
+      "comprehension": 3,
+      "comprehension_note": "Le « bof » et la phrase finale sur le téléphone qui sonne ou ne sonne pas sont forts. Mais l'ouverture pose deux fois la question de Léa. L'épisode reprend la facette « trouver le mot » des ép. 1 et 6, contredit l'ép. 6 sur Leïla et ignore les tensions du couple racontées dans le parcours de Léa la même semaine.",
+      "issues": [
+        {"severity": "majeur", "type": "repetition", "quote": "Cette technique consiste à utiliser un support visuel pour sortir des émotions primaires comme la joie, la colère ou la tristesse.", "problem": "La roue des émotions est déjà la technique 2 de l'ép. 1 et de l'ép. 6. La facette (passer d'un mot vague à un mot précis) recoupe l'alexithymie (ép. 1) et la confusion émotionnelle (ép. 6).", "fix": "Centrer l'épisode sur ce que la granularité change dans l'échange (distinguer « impatient » et « remplacé » pour formuler une demande à son manager ou à Léa) et remplacer la roue par une autre technique."},
+        {"severity": "majeur", "type": "continuite", "quote": "calquées sur la pudeur de sa mère Leïla", "problem": "À l'ép. 6, Leïla raconte ses souvenirs « avec une voix tremblante » et cherche le contact ; c'est la retenue de Hamid qui est décrite. La même page parle de « l'image de réussite que son père a pour lui » au présent, alors que Hamid serait mort à ce moment (ép. 12).", "fix": "« calquées sur la pudeur de son père Hamid » et mettre le verbe au temps qui correspond à la chronologie du décès."},
+        {"severity": "majeur", "type": "continuite", "quote": "Léa pose sa main sur la sienne. Il la laisse là, le temps de finir sa phrase.", "problem": "Raccord croisé : quatre jours plus tôt, dans le parcours de Léa (épisode du 22 avril), Youssef nie une remarque blessante sur son corps et met en cause sa perception. Ici, aucune trace de cette tension.", "fix": "Coordonner avec le parcours de Léa : soit une allusion ici (Léa reste à distance, la remarque non réglée), soit une révision du parcours de Léa."},
+        {"severity": "mineur", "type": "comprehension", "quote": "Léa lève les yeux de sa lecture et lui demande avec douceur s'il va bien.", "problem": "Le premier paragraphe a déjà posé la question (« comment se passe l'attente depuis son arrêt ») et la réponse « bof ».", "fix": "Supprimer la phrase et enchaîner sur la recherche du mot."}
+      ]
+    },
+    {
+      "number": 10,
+      "file": "content/posts/sortir-de-ses-schemas-repetitifs/intellectualisation-au-travail-hpi-solutions.md",
+      "focus": "intellectualisation : modéliser sa reprise dans un tableur au lieu de poser sa question",
+      "structure": {"scene": "ok", "concept": "ok", "manifestations": "ok", "techniques": "ok", "retour": "ok", "conclusion": "ok", "proches": "ok"},
+      "comprehension": 4,
+      "comprehension_note": "La notification du manager, les colonnes remplies et « Aucune ne contient la question qu'il voudrait lui poser » rendent le mécanisme visible. Le renvoi à la médecine du travail est bien placé.",
+      "issues": [
+        {"severity": "mineur", "type": "continuite", "quote": "utilisant des calculs mentaux pour fuir le brouillard émotionnel provoqué par les attentes de son père", "problem": "À l'ép. 6, le flou vient du récit de sa mère, pas des attentes de son père.", "fix": "« provoqué par les souvenirs que racontait sa mère »."},
+        {"severity": "mineur", "type": "comprehension", "quote": "Il commence à être un homme qui, même quand les mots lui manquent, s'autorise à habiter l'instant présent, une sensation à la fois.", "problem": "La fin du retour remplace le contenu du message au manager par une formule. On ne sait pas ce qu'il demande.", "fix": "Citer le message : « Je voudrais savoir ce qui est prévu pour ma première semaine. »"}
+      ]
+    },
+    {
+      "number": 11,
+      "file": "content/posts/sortir-de-ses-schemas-repetitifs/isolation-affect-conflit-comprendre-mecanisme.md",
+      "focus": "isolation de l'affect : raconter les faits d'une dispute sans accès au ressenti (proche de l'intellectualisation)",
+      "structure": {"scene": "ok", "concept": "faible", "manifestations": "ok", "techniques": "ok", "retour": "ok", "conclusion": "ok", "proches": "ok"},
+      "comprehension": 2,
+      "comprehension_note": "Les objets sont concrets (devis, trois livres, feutre) et la fin est nette : il rend le créneau de samedi. Mais le conflit repose sur une demande antérieure de Léa jamais montrée dans ce parcours, et le départ pour Lyon apparaît comme acquis sans qu'une décision ait été racontée.",
+      "issues": [
+        {"severity": "majeur", "type": "comprehension", "quote": "Elle lui rappelle qu’elle lui avait demandé, la dernière fois, de ne pas tourner en dérision ce qu’elle ressentait.", "problem": "Dans le parcours de Youssef, aucun épisode ne montre cette dérision. Le parcours de Léa raconte un événement plus grave et différent (remarque sur son corps pendant un moment intime, puis négation). Le lecteur de Youssef ne comprend pas l'enjeu, et les deux séries ne racontent pas le même fait.", "fix": "Nommer le fait en une phrase cohérente avec le parcours de Léa (« sa remarque, le mois dernier, puis sa façon de dire qu'elle avait mal compris ») et le faire apparaître plus tôt dans le parcours de Youssef."},
+        {"severity": "majeur", "type": "continuite", "quote": "Youssef prépare son départ de Paris vers Lyon.", "problem": "La décision d'accepter la mobilité n'est montrée nulle part (ép. 7 : réponse attendue ; ép. 8 : trois pistes ; ép. 10 : reprise à préparer).", "fix": "Ajouter une phrase datée : « Depuis qu'il a accepté le poste lyonnais, à la reprise, il a déjà changé deux fois la date… », et en montrer la décision à la fin de l'ép. 10."},
+        {"severity": "majeur", "type": "lien_concept", "quote": "Lorsqu’il réduit la dispute à une question de logistique, cette deuxième réaction ressemble davantage à de l’intellectualisation.", "problem": "L'article admet que le comportement central de la scène (répondre par les horaires du camion) relève du concept de l'épisode précédent. La facette « isolation de l'affect » n'est montrée que par une phrase (« sait lui redonner l'ordre des phrases »).", "fix": "Centrer la scène sur le récit précis et neutre de la dispute précédente, fait sans ressenti, et retirer la logistique du devis comme ressort principal."},
+        {"severity": "mineur", "type": "continuite", "quote": "la phrase de la brasserie ne sort pas toute seule dans son salon", "problem": "À l'ép. 5, sa phrase (« J'ai parlé des trains pour gagner du temps ») est dite chez lui, près de la porte, pas à la brasserie.", "fix": "« la phrase dite près de la porte, le soir de la brasserie »."}
+      ]
+    },
+    {
+      "number": 12,
+      "file": "content/posts/comprendre-et-maitriser-ses-emotions/memoire-emotionnelle-lors-dun-deuil.md",
+      "focus": "mémoire émotionnelle : souvenirs ravivés par les objets de son père pendant le tri",
+      "structure": {"scene": "ok", "concept": "ok", "manifestations": "ok", "techniques": "ok", "retour": "ok", "conclusion": "faible", "proches": "ok"},
+      "comprehension": 2,
+      "comprehension_note": "La scène elle-même est forte : le ressort du couvercle, l'odeur de tabac froid, la calculatrice posée « toujours à gauche de son assiette ». Mais le lecteur de la série découvre ici seulement que Hamid est mort « quelques semaines plus tôt », sans que les épisodes précédents en aient rien dit.",
+      "issues": [
+        {"severity": "bloquant", "type": "continuite", "quote": "les affaires de Hamid, son père décédé quelques semaines plus tôt", "problem": "Le décès du père, événement majeur placé vers fin avril, n'apparaît dans aucun des ép. 7 à 11 (arrêt, lettre, canal, « bof », tableur, devis). L'ép. 9 parle même de Hamid au présent. La série ne prépare pas son dénouement, et le lecteur ne peut pas situer ce deuil.", "fix": "Introduire le décès dans un épisode antérieur (par exemple l'ép. 7 ou 8 : appel de Leïla, obsèques évoquées), en dater la nouvelle, et faire allusion au deuil aux ép. 9 à 11. Sinon, situer le décès avant le début de la série et le dire dès l'ép. 1."},
+        {"severity": "majeur", "type": "comprehension", "quote": "comme il l'avait fait lors de son épuisement professionnel le 19 avril dernier", "problem": "La date est celle de la publication de l'ép. 7. Elle présente un épuisement comme un événement d'un jour et renvoie à la série plutôt qu'à la vie de Youssef.", "fix": "« comme il l'avait fait pendant son arrêt, en avril »."},
+        {"severity": "mineur", "type": "comprehension", "quote": "Il se souvient de ses progrès sur l'alexithymie et réalise que la mémoire émotionnelle lors d'un deuil n'est pas un défaut dans son système, mais une fonctionnalité essentielle pour intégrer la perte.", "problem": "Le paragraphe central du retour recopie les titres d'épisodes et remplace la scène par une métaphore informatique.", "fix": "Supprimer le paragraphe : la calculatrice tendue à Léa et le thé suffisent."},
+        {"severity": "mineur", "type": "trame", "quote": "Vivre avec la mémoire émotionnelle lors d'un deuil est un processus exigeant qui demande de la patience et de l'auto-compassion.", "problem": "Dernier épisode : la conclusion ne dit rien de la suite de Youssef (Lyon, reprise, Léa à Grenoble) et ne referme pas la série.", "fix": "Ajouter deux phrases sur ce qu'il emporte à Lyon (la calculatrice), sur la reprise et sur la distance avec Léa."}
+      ]
+    }
+  ],
+  "missing_or_extra": "Douze épisodes présents, aucun manquant. Le parcours compte toutefois trois épisodes sur la même facette (« trouver le mot » : ép. 1, 6, 9) et deux sur des défenses très proches (ép. 10, 11). Il lui manque en revanche deux tournants indispensables : l'entrée en arrêt pour épuisement et l'annonce du décès de Hamid. Proposition : reconvertir l'ép. 9 (granularité, le plus redondant) en épisode sur l'annonce de la mort de Hamid, par exemple « émotions en décalage face à une mauvaise nouvelle » ou « culpabilité dans le deuil » (ne pas avoir appelé, ne pas avoir pleuré). Cela donnerait un contexte à l'ép. 12 et resterait cohérent avec le fil de l'alexithymie. À défaut, ajouter ces deux tournants comme raccords narratifs dans les ép. 6, 7 et 9. Harmoniser aussi le conflit du couple avec le parcours de Léa (épisodes des 18 et 22 avril et du 4 mai).",
+  "verdict": "corrections_majeures"
+}

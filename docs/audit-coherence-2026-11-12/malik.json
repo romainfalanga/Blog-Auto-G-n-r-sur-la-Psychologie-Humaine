@@ -1,0 +1,411 @@
+{
+ "character_id": "malik",
+ "type": "origine",
+ "auditor": "audit_o5",
+ "audited_on": "2026-11-12",
+ "persona": {
+  "age_metier_proches": "36 ans (né en 1990), mécanicien de maintenance des tramways, arrivé du Sénégal par choix il y a quatre ans. En couple à distance avec Awa, qui vit à Dakar (métier non précisé) ; sa mère Mariama ; son oncle Oumar, artisan à Dakar ; un cousin non nommé. Ici : Bastien (collègue du dépôt), Fatou (rencontrée à la médiathèque, groupe local de photographie), Marc (rôle jamais précisé, décide qui présente à la journée portes ouvertes), Gaëlle (accueil France services).",
+  "arc_summary": "Les trois premiers épisodes posent ses appartenances, ses registres et ses langues autour du groupe photo, de Bastien et d’Awa. Les épisodes 4 et 5 explorent le lien à distance et la solitude. L’ép. 6 introduit une discrimination explicite au dépôt, puis les ép. 7 et 8 ajoutent un dépôt provisoire et un dossier d’Assurance Maladie bloqué. Les ép. 9 et 10 reviennent vers Dakar (atelier d’Oumar, appel familial) et les ép. 11 et 12 répartissent les soutiens puis aboutissent à l’accrochage photo. Le personnage est cohérent et attachant, et les scènes de photographie sont souvent fines.",
+  "arc_issues": [
+   "Le fil le plus grave, la discrimination de l’ép. 6, n’est jamais résolu : la journée portes ouvertes n’est jamais racontée (qui a présenté ?), Marc n’a pas de rôle défini et l’action de Malik se limite à « chercher une information compétente » (ép. 6, 11). Le dernier épisode laisse explicitement ouverts la discrimination, le dossier et l’atelier.",
+   "Le dossier d’Assurance Maladie (ép. 8, 11, 12) n’est jamais identifié : on ignore la démarche, la pièce et l’enjeu.",
+   "La leçon « la disponibilité ne mesure pas l’affection » revient aux ép. 4, 10 et 11 ; les appels avec Awa structurent quatre épisodes (3, 4, 8, 11).",
+   "Plusieurs prénoms arrivent avant leur présentation (Mariama à l’ép. 1, Gaëlle à l’ép. 8, Oumar à l’ép. 10) et le métier d’Awa, cause de l’interruption de l’ép. 4, n’est jamais dit.",
+   "Les fins privilégient souvent des formules procédurales (« interlocuteur compétent », « suite convenue », « échange matériel déjà prévu ») au lieu d’un geste ou d’une décision."
+  ]
+ },
+ "episodes": [
+  {
+   "number": 1,
+   "file": "content/posts/sortir-de-ses-schemas-repetitifs/malik-appartenances-place.md",
+   "focus": "appartenances multiples et sentiment de place (choisir trois photos entre dépôt, quartier et Dakar)",
+   "structure": {
+    "scene": "ok",
+    "concept": "ok",
+    "manifestations": "ok",
+    "techniques": "ok",
+    "retour": "ok",
+    "conclusion": "ok",
+    "proches": "ok"
+   },
+   "comprehension": 3,
+   "comprehension_note": "Le choix des trois tirages sur la caisse est une belle scène d’ouverture, mais la « question réductrice » qui structure l’épisode n’est jamais posée par Bastien dans la scène, et deux personnes (Bastien, Mariama) ne sont pas présentées.",
+   "issues": [
+    {
+     "severity": "majeur",
+     "type": "continuite",
+     "quote": "Malik lui explique aussi pourquoi la question sur sa vraie provenance le gêne. Son collègue reconnaît une formulation maladroite",
+     "problem": "Dans la scène, Bastien demande seulement « Tu présentes le dépôt ou ton quartier ? » ; la question « d’où il vient vraiment » est attribuée à un « on » anonyme. Le retour fait reconnaître à Bastien une phrase qu’il n’a pas dite.",
+     "fix": "Soit faire dire à Bastien dans l’ouverture « Et d’où tu viens vraiment, alors ? », soit faire porter la discussion du retour sur l’alternative « dépôt ou quartier » réellement posée."
+    },
+    {
+     "severity": "majeur",
+     "type": "comprehension",
+     "quote": "Trois photos pour samedi ne mesurent pourtant ni l’affection envers Mariama ni la place d’Awa.",
+     "problem": "Mariama n’est présentée qu’à l’ép. 3 ; un lecteur ne sait pas qu’il s’agit de sa mère.",
+     "fix": "Écrire « envers sa mère, Mariama »."
+    },
+    {
+     "severity": "mineur",
+     "type": "comprehension",
+     "quote": "Bastien regarde les photographies étalées sur le couvercle d’une caisse vide.",
+     "problem": "Le rôle de Bastien n’est donné qu’au milieu de l’explication (« Son collègue »).",
+     "fix": "Écrire « Bastien, son collègue du dépôt, regarde… »."
+    }
+   ]
+  },
+  {
+   "number": 2,
+   "file": "content/posts/reprendre-le-controle-de-ses-pensees/malik-codes-selon-contexte.md",
+   "focus": "changement de codes selon le contexte (critique photo, explication technique, conversation intime)",
+   "structure": {
+    "scene": "ok",
+    "concept": "ok",
+    "manifestations": "ok",
+    "techniques": "ok",
+    "retour": "ok",
+    "conclusion": "ok",
+    "proches": "ok"
+   },
+   "comprehension": 4,
+   "comprehension_note": "Trois mini-scènes claires (Fatou, Bastien, Awa) montrent bien la variation de registre ; le retour illustre un avis direct entendu sans être suivi. Une redite dans l’ouverture.",
+   "issues": [
+    {
+     "severity": "mineur",
+     "type": "trame",
+     "quote": "Il propose de déplacer le cadre vers la gauche, puis ajoute trois précautions.",
+     "problem": "Redit le premier paragraphe (« les trois précautions qu’il vient de prendre »).",
+     "fix": "Supprimer la phrase ou fusionner les deux paragraphes."
+    },
+    {
+     "severity": "mineur",
+     "type": "comprehension",
+     "quote": "Fatou veut un avis sur le cadrage, pas les trois précautions qu’il vient de prendre.",
+     "problem": "On ne sait pas à qui appartient le tirage commenté.",
+     "fix": "Préciser « un avis sur le cadrage de son propre tirage »."
+    }
+   ]
+  },
+  {
+   "number": 3,
+   "file": "content/posts/comprendre-et-maitriser-ses-emotions/malik-langues-emotions.md",
+   "focus": "langue(s) et expression des émotions (message vocal à Awa, appel avec Mariama)",
+   "structure": {
+    "scene": "ok",
+    "concept": "ok",
+    "manifestations": "ok",
+    "techniques": "ok",
+    "retour": "ok",
+    "conclusion": "ok",
+    "proches": "ok"
+   },
+   "comprehension": 5,
+   "comprehension_note": "Épisode très clair : le voyant d’enregistrement, le mot qui résiste, l’image du mur où accrocher une photo et la distinction fatigue/déception avec Mariama sont concrets ; la fin (message bref, réponse d’Awa avec deux photos) résout bien.",
+   "issues": []
+  },
+  {
+   "number": 4,
+   "file": "content/posts/sortir-de-ses-schemas-repetitifs/malik-lien-distance.md",
+   "focus": "entretenir un lien à distance sans surveiller la disponibilité de l’autre (repas en visio interrompu)",
+   "structure": {
+    "scene": "ok",
+    "concept": "ok",
+    "manifestations": "ok",
+    "techniques": "ok",
+    "retour": "ok",
+    "conclusion": "ok",
+    "proches": "ok"
+   },
+   "comprehension": 3,
+   "comprehension_note": "L’assiette qui refroidit devant l’écran est une bonne image, mais la cause de l’absence d’Awa n’est jamais dite, l’ouverture se répète et la décision finale est formulée de façon abstraite.",
+   "issues": [
+    {
+     "severity": "majeur",
+     "type": "comprehension",
+     "quote": "Awa a posé son assiette devant la caméra avant de s’absenter.",
+     "problem": "Le lecteur ne sait ni pourquoi Awa s’absente ni quel est son travail ; l’interruption « par le travail d’Awa » n’apparaît qu’en creux plus loin.",
+     "fix": "Dire dans l’ouverture qu’Awa a reçu un appel de son service (en précisant son métier) et a annoncé « cinq minutes »."
+    },
+    {
+     "severity": "mineur",
+     "type": "trame",
+     "quote": "Il voudrait savoir s’il attend encore ou s’il poursuit sa soirée.",
+     "problem": "Répète la dernière phrase du premier paragraphe (« Il voudrait savoir s’il doit encore attendre »).",
+     "fix": "Supprimer l’une des deux phrases."
+    },
+    {
+     "severity": "mineur",
+     "type": "comprehension",
+     "quote": "lors d’un prochain échange matériel déjà prévu",
+     "problem": "Formule abstraite : on ne sait pas comment la photo voyagera.",
+     "fix": "Écrire par ex. « dans le colis qu’un cousin emporte à Dakar le mois prochain »."
+    }
+   ]
+  },
+  {
+   "number": 5,
+   "file": "content/posts/comprendre-et-maitriser-ses-emotions/malik-solitude-choisie-subie.md",
+   "focus": "solitude choisie (promenade photo) et solitude subie (dimanche sans échange)",
+   "structure": {
+    "scene": "ok",
+    "concept": "ok",
+    "manifestations": "ok",
+    "techniques": "ok",
+    "retour": "ok",
+    "conclusion": "ok",
+    "proches": "ok"
+   },
+   "comprehension": 4,
+   "comprehension_note": "Le contraste entre la feuille dans la grille et le dimanche vide est clair et bien relié au concept ; la fin (réponse de Fatou le lundi, rencontre de cinq images) est concrète. L’ouverture raconte deux fois l’envoi du message.",
+   "issues": [
+    {
+     "severity": "majeur",
+     "type": "continuite",
+     "quote": "Il retrouve la photo de la feuille et prépare un message pour Fatou. Au lieu d’envoyer seulement l’image en espérant qu’une conversation commence",
+     "problem": "Le paragraphe précédent dit déjà qu’il « lui envoie une image et une proposition pour la semaine » ; la scène raconte deux fois le même envoi, dans deux versions.",
+     "fix": "Garder un seul paragraphe : il hésite, puis envoie l’image avec la proposition précise."
+    }
+   ]
+  },
+  {
+   "number": 6,
+   "file": "content/posts/comprendre-et-maitriser-ses-emotions/malik-discrimination-rester-soi.md",
+   "focus": "reconnaître une discrimination explicite sans s’y réduire (retrait d’une présentation en raison de l’origine)",
+   "structure": {
+    "scene": "ok",
+    "concept": "ok",
+    "manifestations": "ok",
+    "techniques": "ok",
+    "retour": "faible",
+    "conclusion": "ok",
+    "proches": "ok"
+   },
+   "comprehension": 3,
+   "comprehension_note": "La phrase de Marc est sans ambiguïté et l’épisode refuse justement de la minimiser. Mais le contexte (qui est Marc, quel événement) n’arrive qu’à la fin, et l’issue reste une démarche sans nom.",
+   "issues": [
+    {
+     "severity": "majeur",
+     "type": "comprehension",
+     "quote": "Marc pose le doigt sur le nom de celui qui parlera.",
+     "problem": "Marc (chef d’équipe ? responsable de site ?) et l’événement (visiteurs de la journée portes ouvertes) ne sont pas présentés ; « journée portes ouvertes » apparaît seulement dans le retour.",
+     "fix": "Écrire dès la première phrase : « Marc, le chef d’atelier qui organise la journée portes ouvertes du dépôt, pose le doigt… »."
+    },
+    {
+     "severity": "majeur",
+     "type": "comprehension",
+     "quote": "Malik prend le temps de chercher une information compétente avant de décider comment poursuivre.",
+     "problem": "Fin floue : aucune personne ni démarche concrète (représentant du personnel, RH, Défenseur des droits) ; on ne sait pas non plus s’il présentera finalement.",
+     "fix": "Nommer un premier pas (rendez-vous avec un délégué du personnel, consultation du site du Défenseur des droits) et dire ce qui est décidé pour la présentation."
+    },
+    {
+     "severity": "mineur",
+     "type": "trame",
+     "quote": "Bastien est présent.",
+     "problem": "Redit la phrase précédente (« Dans l’atelier, Bastien a entendu la phrase »).",
+     "fix": "Supprimer la phrase."
+    }
+   ]
+  },
+  {
+   "number": 7,
+   "file": "content/posts/reprendre-le-controle-de-ses-pensees/malik-adaptation-ressources-concretes.md",
+   "focus": "stress d’adaptation dans un dépôt provisoire et recours à des ressources concrètes",
+   "structure": {
+    "scene": "ok",
+    "concept": "ok",
+    "manifestations": "ok",
+    "techniques": "ok",
+    "retour": "ok",
+    "conclusion": "ok",
+    "proches": "ok"
+   },
+   "comprehension": 4,
+   "comprehension_note": "Le casier, le vestiaire introuvable et la porte qui mène au mauvais couloir rendent l’adaptation tangible ; la distinction avec la discrimination est bien tenue. La raison du dépôt provisoire manque.",
+   "issues": [
+    {
+     "severity": "mineur",
+     "type": "comprehension",
+     "quote": "Au dépôt provisoire, le casier porte le bon numéro.",
+     "problem": "On ne sait pas pourquoi l’équipe est déplacée ni pour combien de temps.",
+     "fix": "Ajouter « Pendant les travaux du dépôt principal, prévus pour trois mois, l’équipe est installée… »."
+    },
+    {
+     "severity": "mineur",
+     "type": "comprehension",
+     "quote": "Après une demande collective, l’équipe obtient un plan plus clair",
+     "problem": "On ne sait pas qui a demandé, à qui, ni comment.",
+     "fix": "Écrire « Bastien et Malik demandent au chef d’équipe un plan des accès ; il l’affiche le lendemain »."
+    }
+   ]
+  },
+  {
+   "number": 8,
+   "file": "content/posts/reprendre-le-controle-de-ses-pensees/malik-demarches-charge-mentale.md",
+   "focus": "charge mentale des démarches administratives (pièce annoncée manquante)",
+   "structure": {
+    "scene": "ok",
+    "concept": "ok",
+    "manifestations": "ok",
+    "techniques": "ok",
+    "retour": "faible",
+    "conclusion": "ok",
+    "proches": "ok"
+   },
+   "comprehension": 3,
+   "comprehension_note": "La vérification répétée du fichier est bien vue, mais l’objet du dossier et de la pièce n’est jamais dit, Gaëlle apparaît avant d’être présentée et la fin place Awa comme si elle était dans la pièce.",
+   "issues": [
+    {
+     "severity": "majeur",
+     "type": "comprehension",
+     "quote": "Malik ouvre le fichier transmis à l’Assurance Maladie.",
+     "problem": "Ni la démarche (rattachement ? arrêt de travail ? carte Vitale ?) ni la pièce demandée ne sont nommées ; l’enjeu reste abstrait pour tout l’épisode et pour les ép. 11 et 12.",
+     "fix": "Nommer la démarche et la pièce dès la première phrase (par ex. « l’attestation de son employeur pour son dossier de… »)."
+    },
+    {
+     "severity": "majeur",
+     "type": "continuite",
+     "quote": "Il étale les tirages sur la table et demande à Awa par lequel elle voudrait commencer.",
+     "problem": "Awa vit à Dakar ; la phrase laisse croire qu’elle est présente. Ce paragraphe ajouté redit aussi le précédent.",
+     "fix": "Fusionner avec le paragraphe précédent et écrire « Il tourne la caméra vers les tirages étalés et demande à Awa… »."
+    },
+    {
+     "severity": "mineur",
+     "type": "comprehension",
+     "quote": "Demandez à Gaëlle ce qui relève de l’aide à la navigation",
+     "problem": "Gaëlle est citée dans les techniques avant d’apparaître ; son rôle (conseillère France services) n’est jamais dit.",
+     "fix": "Présenter Gaëlle dans la scène d’ouverture (« Gaëlle, conseillère numérique à l’espace France services que lui indique Bastien »)."
+    },
+    {
+     "severity": "mineur",
+     "type": "proches",
+     "quote": "un proche peut l’aider à formuler la question à poser à l’organisme",
+     "problem": "La rubrique ne nomme aucun proche présent dans la scène (Bastien, Awa) ; elle reste générique.",
+     "fix": "Ancrer la rubrique sur Bastien, qui lui a indiqué France services, ou sur Awa pendant leur appel."
+    }
+   ]
+  },
+  {
+   "number": 9,
+   "file": "content/posts/comprendre-et-maitriser-ses-emotions/malik-lieu-perte-sans-cloture.md",
+   "focus": "perte sans clôture claire (perte ambiguë) d’un lieu familier, l’atelier d’Oumar à Dakar",
+   "structure": {
+    "scene": "ok",
+    "concept": "ok",
+    "manifestations": "ok",
+    "techniques": "ok",
+    "retour": "ok",
+    "conclusion": "ok",
+    "proches": "ok"
+   },
+   "comprehension": 4,
+   "comprehension_note": "La photo de l’atelier caché par des panneaux et les versions familiales contradictoires illustrent bien l’incertitude ; le concept est employé avec prudence. Le retour (installation provisoire, souvenir de la chaise) est concret.",
+   "issues": [
+    {
+     "severity": "mineur",
+     "type": "comprehension",
+     "quote": "Le banc de la première rencontre photo se trouve à côté de la cour.",
+     "problem": "Renvoi à l’ép. 1 peu compréhensible seul.",
+     "fix": "Écrire « Le banc qu’il avait photographié pour sa première rencontre avec le groupe photo se trouve… »."
+    }
+   ]
+  },
+  {
+   "number": 10,
+   "file": "content/posts/sortir-de-ses-schemas-repetitifs/malik-attentes-familiales.md",
+   "focus": "négocier des attentes familiales différentes (appel collectif fixé le dimanche)",
+   "structure": {
+    "scene": "ok",
+    "concept": "ok",
+    "manifestations": "ok",
+    "techniques": "ok",
+    "retour": "ok",
+    "conclusion": "ok",
+    "proches": "ok"
+   },
+   "comprehension": 4,
+   "comprehension_note": "L’appel à plusieurs voix et la phrase du cousin sont vivants ; le retour (Malik absent le premier dimanche, appel avec Mariama) est clair. La leçon centrale répète celle de l’ép. 4.",
+   "issues": [
+    {
+     "severity": "majeur",
+     "type": "repetition",
+     "quote": "puis se demande pourquoi son affection doit passer un examen de calendrier.",
+     "problem": "Même mécanisme que l’ép. 4 (« la disponibilité d’Awa comme mesure unique de son affection ») et que l’ép. 11 : disponibilité confondue avec l’affection.",
+     "fix": "Centrer l’épisode sur ce qui est propre à la famille : le rôle de coordinateur que Malik endosse, les attentes différentes selon les générations, et réduire le thème « disponibilité = affection »."
+    },
+    {
+     "severity": "mineur",
+     "type": "comprehension",
+     "quote": "Oumar propose qu’il rejoigne les appels quand il peut.",
+     "problem": "Oumar n’est pas représenté ; un lecteur isolé ne sait pas que c’est l’oncle.",
+     "fix": "Écrire « son oncle Oumar »."
+    }
+   ]
+  },
+  {
+   "number": 11,
+   "file": "content/posts/sortir-de-ses-schemas-repetitifs/malik-soutiens-plusieurs-cercles.md",
+   "focus": "répartir les soutiens entre plusieurs cercles (couple, groupe photo, collègue, services)",
+   "structure": {
+    "scene": "ok",
+    "concept": "ok",
+    "manifestations": "ok",
+    "techniques": "ok",
+    "retour": "ok",
+    "conclusion": "ok",
+    "proches": "ok"
+   },
+   "comprehension": 4,
+   "comprehension_note": "La pince, les tirages qui glissent et les trois sujets dans un même appel rendent le problème visible ; la répartition finale est claire, même si le contenu de « l’échange au dépôt » reste vague.",
+   "issues": [
+    {
+     "severity": "mineur",
+     "type": "comprehension",
+     "quote": "il a aussi commencé à lui parler de la réponse administrative et d’un échange au dépôt.",
+     "problem": "« Un échange au dépôt » ne dit pas de quoi il s’agit (suite de la discrimination ?).",
+     "fix": "Écrire « et du rendez-vous qu’il doit avoir avec Marc et un délégué du personnel »."
+    },
+    {
+     "severity": "mineur",
+     "type": "comprehension",
+     "quote": "Malik garde séparément le contact compétent qu’il explore pour comprendre ses options.",
+     "problem": "Reprise de la formule floue de l’ép. 6 ; aucun interlocuteur ni étape n’est nommé.",
+     "fix": "Nommer le contact et l’étape (par ex. « le rendez-vous pris avec le délégué syndical mardi »)."
+    }
+   ]
+  },
+  {
+   "number": 12,
+   "file": "content/posts/sortir-de-ses-schemas-repetitifs/malik-identite-souple-personnelle.md",
+   "focus": "identité souple et personnelle (rédiger trois lignes de présentation pour un accrochage)",
+   "structure": {
+    "scene": "ok",
+    "concept": "ok",
+    "manifestations": "ok",
+    "techniques": "ok",
+    "retour": "faible",
+    "conclusion": "ok",
+    "proches": "ok"
+   },
+   "comprehension": 4,
+   "comprehension_note": "La notice trop longue, la chaise réparée et la réponse à la visiteuse illustrent bien une présentation choisie. Comme dernier épisode, il laisse sans issue tous les fils concrets ouverts depuis l’ép. 6.",
+   "issues": [
+    {
+     "severity": "majeur",
+     "type": "trame",
+     "quote": "Il n’a pas non plus de nouvelles de l’atelier d’Oumar ni de suite à la conversation avec Bastien.",
+     "problem": "La série se termine sans clore aucun fil concret (discrimination, dossier, atelier) ; la discrimination de l’ép. 6 n’a reçu aucune suite visible en six épisodes.",
+     "fix": "Résoudre au moins la discrimination dans l’ép. 11 ou 12 (ce qui s’est passé à la journée portes ouvertes, démarche engagée et sa réponse) et nommer l’issue du dossier."
+    },
+    {
+     "severity": "mineur",
+     "type": "continuite",
+     "quote": "Malik lui montre une chaise réparée, photographiée dans une salle commune.",
+     "problem": "À l’ép. 9, la chaise réparée est un souvenir de Dakar avec Oumar ; on ne sait pas s’il s’agit de la même.",
+     "fix": "Préciser « une autre chaise, réparée dans la salle commune de son immeuble » ou relier explicitement au souvenir d’Oumar."
+    }
+   ]
+  }
+ ],
+ "missing_or_extra": "Parcours complet de 12 épisodes : rien ne manque et rien n’est surnuméraire. En revanche, les ép. 4, 10 et 11 traitent tous trois la confusion entre disponibilité et affection. Garder l’ép. 4 pour ce thème. Recentrer l’ép. 10 sur la négociation familiale proprement dite (rôle de coordinateur, attentes selon les générations) et l’ép. 11 sur la répartition des soutiens. Utiliser l’ép. 11 ou 12 pour donner une suite concrète à la discrimination de l’ép. 6 (journée portes ouvertes, démarche) et à la démarche administrative de l’ép. 8, plutôt que de laisser ces fils ouverts en fin de série.",
+ "verdict": "corrections_majeures"
+}

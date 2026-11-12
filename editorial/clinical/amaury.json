@@ -1,0 +1,539 @@
+{
+  "character_id": "amaury",
+  "bio": "Amaury, 70 ans, ancien conducteur de bus à Saint-Étienne, veut faire écouter ses souvenirs de lignes à deux jeunes documentaristes pour l’association Mémoire des lignes. Sa démence due à la maladie de Parkinson est déjà diagnostiquée : selon l’heure, sa pensée ralentit, sa voix faiblit et un récit bien connu se met en désordre. Avec sa compagne Rosa et l’équipe spécialisée Parkinson qui le suit, il choisit le moment des séances, leur durée et ce que le groupe pourra montrer.",
+  "profile_topics": [
+    "Démence due à la maladie de Parkinson",
+    "Choisir ses heures quand les capacités fluctuent",
+    "Voix faible et lenteur prises pour de l’oubli",
+    "Attention et organisation d’un récit",
+    "Accord sur ce que le film partagera"
+  ],
+  "episodes": [
+    {
+      "slug": "amaury-fluctuations-choisir-heure-demence-parkinson",
+      "title": "Des capacités qui varient selon l’heure : choisir son moment pour raconter",
+      "description": "À quinze heures, le récit du premier départ ralentit devant le micro : Amaury choisit l’heure où sa démence parkinsonienne lui laisse plus de place.",
+      "context": "à l’association, un lundi après-midi",
+      "topics": [
+        "Démence due à la maladie de Parkinson",
+        "fluctuations dans la journée",
+        "choisir ses horaires"
+      ],
+      "clinical_intro": "Dans la démence due à la maladie de Parkinson, les capacités disponibles ne sont pas les mêmes à toute heure. Une personne peut raconter avec aisance le matin, puis répondre plus lentement quelques heures plus tard, sans avoir rien oublié. Amaury, dont le diagnostic est déjà posé, découvre qu’il peut choisir le moment de ses enregistrements plutôt que suivre l’horaire du groupe.",
+      "opening": "Gérard Vial, le président de l’association Mémoire des lignes, a écrit « 15 h – Amaury » au feutre rouge sur le tableau blanc de la salle, près de l’ancien dépôt de Saint-Étienne. Amaury, 70 ans, ancien conducteur de bus, entre à quinze heures pile, sa boîte en fer sous le bras. Dedans, il garde ses feuilles de service de trente-quatre ans de métier, la 9 de Montreynaud en tête. « On ne part pas avant l’heure », dit-il en s’asseyant.\n\nLe matin même, dans la cuisine, il racontait à Rosa, sa compagne, le premier départ de 5 h 10 : le dépôt encore noir, le moteur qu’on laisse chauffer, le premier client toujours le même, un boulanger. Les phrases venaient seules. Rosa riait au passage du boulanger.\n\nÀ quinze heures, ce n’est plus pareil. Wassim Rey, qui s’occupe du son et de l’image, lui tend le micro sur pied. Soizic Teyssier, la réalisatrice, demande : « Racontez-nous votre premier départ. » Amaury ouvre la boîte, mais ses doigts mettent longtemps à saisir la première feuille. Sa main droite tremble davantage qu’au réveil. La réponse se fait attendre. Il connaît l’histoire, il la voit, mais la pensée avance comme un bus dans une montée, en première. « Vous pouvez répéter la question ? » Soizic répète. Il commence par le boulanger, revient au dépôt, s’arrête.\n\nGérard regarde la pendule. « On a du retard, on n’a qu’à pousser jusqu’à dix-huit heures pour tout boucler. Trois heures, et c’est dans la boîte. » Amaury pose la feuille. Il sait qu’à dix-huit heures il ne tiendra plus une phrase.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Pourquoi le même souvenir passe mieux à certaines heures",
+          "text": "Dans la maladie de Parkinson, les signes moteurs peuvent varier au cours de la journée, et les périodes où ils reviennent s’accompagnent parfois d’un ralentissement de la pensée et d’une anxiété qui font paraître une personne moins capable qu’elle ne l’est à d’autres moments. Ces variations déroutent souvent l’entourage : pourquoi réussir un geste ou un récit à un moment, et plus du tout quelques heures après ? Chez Amaury, la démence due à la maladie de Parkinson est déjà établie par sa neurologue ; elle touche notamment l’attention et la vitesse de la pensée. Le récit du premier départ n’a pas disparu entre la cuisine et la salle de l’association. Ce qui a changé, c’est l’heure, la fatigue, la main qui tremble et l’effort nécessaire pour mettre les mots en route. Ces variations se signalent à l’équipe spécialisée qui le suit, seule à pouvoir en discuter les causes et un éventuel ajustement des soins."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment les variations de la journée se voient-elles pendant un enregistrement ?",
+          "points": [
+            {
+              "heading": "Une aisance du matin qui ne se retrouve pas l’après-midi",
+              "text": "Le même contenu peut sortir facilement à un moment et demander un effort important à un autre, sans que la mémoire soit en cause.",
+              "examples": [
+                "Dans la cuisine, Amaury raconte le premier départ de 5 h 10 d’une traite et fait rire Rosa avec le boulanger.",
+                "Devant le micro, à quinze heures, il commence par le boulanger, revient au dépôt et s’arrête au milieu de la phrase."
+              ]
+            },
+            {
+              "heading": "Des gestes et une pensée qui ralentissent ensemble",
+              "text": "Quand les signes moteurs reviennent, le corps et la pensée peuvent sembler avancer au même rythme lent, ce qui rend la tâche plus coûteuse.",
+              "examples": [
+                "Les doigts d’Amaury mettent longtemps à saisir la première feuille de service dans la boîte en fer.",
+                "Il demande à Soizic de répéter une question simple, alors qu’il en connaît parfaitement la réponse."
+              ]
+            },
+            {
+              "heading": "Un horaire de groupe qui ne tient pas compte de la personne",
+              "text": "Un planning pensé pour boucler vite peut placer la personne au plus mauvais moment de sa journée, puis prolonger l’effort au lieu de l’alléger.",
+              "examples": [
+                "Gérard a fixé l’enregistrement à quinze heures parce que la salle était libre ce jour-là.",
+                "Il propose de pousser jusqu’à dix-huit heures, alors qu’Amaury sait que ses phrases auront fondu bien avant."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour organiser un projet autour de ses meilleurs moments",
+          "points": [
+            {
+              "heading": "Repérer ses moments plus disponibles",
+              "objective": "Savoir, avec la personne, à quelles heures elle se sent le plus à l’aise pour parler.",
+              "exercise": [
+                "Pendant une semaine, noter le soir dans un carnet trois moments de la journée et dire pour chacun si parler était facile, moyen ou difficile.",
+                "Relire le carnet avec la personne concernée, qui décide elle-même ce que ces notes disent de ses journées.",
+                "Apporter ces notes au prochain contact avec l’équipe spécialisée, sans y ajouter d’interprétation sur le traitement."
+              ],
+              "benefit": "Ces observations peuvent aider la personne à choisir ses horaires et donner à l’équipe des informations utiles ; elles ne remplacent pas son avis."
+            },
+            {
+              "heading": "Placer le rendez-vous à l’heure de la personne",
+              "objective": "Faire passer l’horaire du projet après celui de la personne qui raconte.",
+              "exercise": [
+                "Demander à la personne : « À quelle heure êtes-vous le plus à l’aise pour parler ? »",
+                "Réserver la salle et le matériel à cette heure, même si cela décale le calendrier.",
+                "Fixer une durée courte au départ, que la personne peut raccourcir encore le jour même."
+              ],
+              "benefit": "Un horaire choisi peut rendre l’effort plus supportable ; il s’agit d’une organisation, pas d’un soin."
+            },
+            {
+              "heading": "Signaler les variations à l’équipe",
+              "objective": "Transmettre ce qui change d’une heure à l’autre à ceux qui suivent la maladie.",
+              "exercise": [
+                "Décrire un exemple précis : le récit facile du matin, la séance difficile de l’après-midi.",
+                "Appeler l’infirmière de coordination ou en parler au prochain rendez-vous avec la neurologue.",
+                "Ne rien modifier soi-même dans les soins ; laisser l’équipe décider s’il faut revoir quelque chose."
+              ],
+              "benefit": "L’équipe peut ainsi tenir compte des fluctuations dans son suivi, sans que la personne ou ses proches prennent seuls des décisions médicales."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Dix heures sur le calendrier du film",
+      "ending": "Au bout de vingt minutes, Amaury referme la boîte en fer. « Je descends à ce terminus-là. » Il explique à Soizic, en phrases courtes, qu’à dix heures du matin il raconte mieux, et qu’il ne reviendra qu’à cette heure-là. Gérard soupire : la salle est prise le matin par l’atelier photo, il faudra négocier, et le tournage prendra plus de semaines que prévu. Il accepte, à contrecœur. Soizic sort son agenda et écrit « jeudi, 10 h, Amaury » sur le calendrier du film. Le soir, Amaury dit à Rosa qu’il ne sait pas si le matin suffira, mais qu’il a choisi son heure de départ. Il note aussi, pour Sabine Ferrand, l’infirmière de coordination de l’équipe Parkinson, la différence entre la cuisine et la salle de quinze heures.",
+      "conclusion": "Ce premier enregistrement montre que, dans la démence due à la maladie de Parkinson, une capacité peut être présente le matin et presque hors d’atteinte l’après-midi. Amaury ne promet pas de tout raconter : il fixe l’heure à laquelle il pourra le faire, et il laisse à son équipe la question des soins.",
+      "mirror": [
+        "Quand Gérard propose de « pousser jusqu’à dix-huit heures », un proche peut plutôt demander : « À quelle heure tu te sens le mieux pour raconter ? On s’arrange autour. » Ce n’est pas au groupe de deviner la cause d’une mauvaise séance ni de toucher au traitement. Rosa peut noter avec Amaury, s’il le souhaite, les moments faciles et difficiles pour Sabine Ferrand, sans devenir pour autant la gardienne de son emploi du temps."
+      ],
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "litvan-2012",
+        "has-parkinson-2016",
+        "nice-ng71"
+      ],
+      "continuity": {
+        "choice": "Amaury arrête la séance de quinze heures après vingt minutes et n’enregistrera plus que le matin à dix heures ; Soizic inscrit jeudi 10 h, Gérard négocie la salle avec l’atelier photo.",
+        "next": "Le jeudi suivant à dix heures, le récit de la neige de 1985 se heurte à la voix d’Amaury, qui ne porte plus jusqu’au micro."
+      },
+      "number": 1,
+      "diagnostic_stage": "known",
+      "clinical_focus": "Choisir l’heure selon les fluctuations de la journée"
+    },
+    {
+      "slug": "amaury-voix-faible-reponse-lente-pas-un-oubli",
+      "title": "Voix faible et réponse lente : quand on prend un récit pour un oubli",
+      "description": "La neige de 1985 n’arrive qu’en souffle au micro, et Gérard croit à un oubli : Amaury se souvient, mais sa voix et ses phrases demandent du temps.",
+      "context": "à l’association, un jeudi à dix heures",
+      "topics": [
+        "Démence due à la maladie de Parkinson",
+        "voix faible",
+        "temps de réponse"
+      ],
+      "clinical_intro": "Dans la maladie de Parkinson, la voix peut devenir plus faible, plus monotone et voilée, et la réponse peut mettre plus de temps à venir. Ces difficultés sont souvent prises à tort pour un oubli ou une confusion. Chez Amaury, dont la démence est déjà diagnostiquée, le souvenir est là ; c’est la parole qui demande du temps et un micro plus proche.",
+      "opening": "Jeudi, dix heures. La salle de l’association Mémoire des lignes sent encore le café de l’atelier photo, qui a cédé sa place. Amaury a choisi cette heure lundi, après la séance ratée de quinze heures. Il a dormi correctement, il se sent plus dispos, et il a sorti de sa boîte en fer la feuille de service du 15 janvier 1985.\n\n« La neige, commence-t-il. La côte de Montreynaud. Le bus en travers. »\n\nWassim Rey, qui tient le son et l’image du film, plisse les yeux derrière son casque. Il pousse le curseur, puis retire le casque. Il n’entend qu’un souffle. Soizic Teyssier, la réalisatrice, n’a pas vu le geste de Wassim ; elle croit qu’Amaury a besoin d’aide pour démarrer. Elle enchaîne : « C’était quel bus ? Il y avait des passagers ? Vous aviez peur ? » Amaury en est encore au début de sa première phrase. Il cherche par où entrer : le bus, les passagers ou la peur. Les trois questions s’empilent. Il se tait.\n\nGérard Vial, le président de l’association, assis au fond avec ses classeurs, se penche vers Soizic. « Il ne s’en souvient plus, passons aux autres. On a Marcel à onze heures. »\n\nAmaury entend très bien. Il se souvient du bus articulé resté en travers, des chaînes qu’on n’avait pas, du collègue venu à pied depuis le dépôt avec une pelle. Il se souvient même de la couleur du bonnet d’un écolier. Ce qui ne vient pas, c’est la phrase entière, au bon volume, au bon moment. Rosa, sa compagne, le lui dit souvent à la maison : « Je ne t’entends pas, parle plus fort. » Il croit parler fort.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Se souvenir n’est pas la même chose que pouvoir le dire",
+          "text": "Dans la maladie de Parkinson, une atteinte particulière de la parole peut s’installer progressivement : la voix perd de l’intensité, devient plus monotone ou voilée, et la personne n’en a pas toujours conscience. À cela peut s’ajouter une lenteur du temps de réponse. Ensemble, ces difficultés sont faciles à confondre avec un trou de mémoire ou une confusion, y compris par des soignants à l’hôpital, alors qu’elles concernent d’abord la production de la parole et sa vitesse. Elles peuvent aussi pousser une personne à se retirer des conversations. Chez Amaury, la démence due à la maladie de Parkinson est connue, mais elle ne permet pas de conclure qu’il a oublié la neige de 1985. Les trois questions de Soizic lui demandent d’organiser trop vite une réponse, et la voix ne porte pas jusqu’au micro. L’orthophonie, que l’équipe spécialisée peut proposer, vise justement à maintenir la parole et la communication."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment une parole qui faiblit peut-elle passer pour un oubli ?",
+          "points": [
+            {
+              "heading": "Une voix qui ne porte plus",
+              "text": "La personne a parfois l’impression de parler normalement, alors que ses interlocuteurs n’entendent qu’une voix basse ou voilée.",
+              "examples": [
+                "Wassim retire son casque parce que le récit de la côte de Montreynaud n’arrive qu’en souffle dans l’enregistrement.",
+                "À la maison, Rosa demande souvent à Amaury de parler plus fort, alors qu’il croit déjà le faire."
+              ]
+            },
+            {
+              "heading": "Une réponse qui met du temps à démarrer",
+              "text": "Le temps entre la question et la réponse peut s’allonger ; si l’on remplit ce silence, la personne perd le fil de ce qu’elle préparait.",
+              "examples": [
+                "Amaury en est encore au début de sa phrase quand Soizic ajoute une deuxième, puis une troisième question.",
+                "Face aux trois questions empilées, il se tait, faute de savoir laquelle prendre en premier."
+              ]
+            },
+            {
+              "heading": "Un silence interprété à tort",
+              "text": "L’entourage peut conclure à un oubli à partir d’un silence, et décider à la place de la personne de passer à autre chose.",
+              "examples": [
+                "Gérard affirme « Il ne s’en souvient plus » alors qu’Amaury revoit le collègue arrivé à pied avec une pelle.",
+                "Il propose de passer à Marcel à onze heures, ce qui retirerait à Amaury le récit qu’il a choisi de faire."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour laisser la parole arriver",
+          "points": [
+            {
+              "heading": "Une question à la fois, et du temps",
+              "objective": "Donner à la personne le temps de construire sa réponse sans la couper.",
+              "exercise": [
+                "Poser une seule question courte, par exemple : « Racontez-nous la côte de Montreynaud. »",
+                "Attendre en silence, sans reformuler, même si la réponse tarde.",
+                "Convenir avec la personne d’un signe pour dire qu’elle a fini ou qu’elle souhaite qu’on répète."
+              ],
+              "benefit": "Le récit peut arriver entier plutôt qu’en morceaux, et le silence cesse d’être lu comme un oubli."
+            },
+            {
+              "heading": "Adapter le matériel plutôt que demander de crier",
+              "objective": "Faire en sorte que la voix soit captée sans effort supplémentaire.",
+              "exercise": [
+                "Rapprocher le micro ou proposer un micro-cravate fixé sur la veste.",
+                "Réduire les bruits autour : fermer la porte, éteindre la machine à café.",
+                "Faire écouter un court extrait à la personne et lui demander si le volume lui convient."
+              ],
+              "benefit": "La personne garde son énergie pour raconter, plutôt que pour forcer sa voix."
+            },
+            {
+              "heading": "S’appuyer sur l’orthophonie",
+              "objective": "Faire suivre la difficulté de parole par le professionnel compétent.",
+              "exercise": [
+                "Décrire à l’équipe ce qui a été observé : la voix basse, la réponse lente, le souvenir intact.",
+                "Demander si un bilan ou des séances d’orthophonie sont possibles.",
+                "Laisser l’orthophoniste proposer les exercices ; le groupe n’évalue ni la parole ni la mémoire."
+              ],
+              "benefit": "Un suivi orthophonique peut aider à maintenir la communication, sans promettre de rendre la voix d’avant."
+            }
+          ]
+        }
+      ],
+      "ending_title": "La main posée à plat sur la table",
+      "ending": "Amaury lève la main vers Gérard. Il parle lentement, et Wassim, cette fois, a remis son casque. « Laisse-moi finir, Gérard. Je me souviens. C’est la phrase qui est lente. » Gérard rougit et se rassoit. Wassim sort de sa sacoche un micro-cravate et le fixe au revers de la veste d’Amaury. Celui-ci propose un signe à Soizic : quand il pose la main à plat sur la table, il a terminé ; avant, elle attend. Soizic repose une seule question. La neige de 1985 arrive, lentement, avec le bus en travers et la pelle du collègue ; dans le casque, Wassim l’entend enfin. Tout n’est pas audible, et il faudra peut-être refaire un passage. En rentrant, Amaury appelle Sabine Ferrand, l’infirmière de coordination de l’équipe Parkinson, qui lui donne un rendez-vous avec Quentin Delorme, l’orthophoniste de l’équipe, le mardi suivant.",
+      "conclusion": "Cet épisode montre qu’une voix faible et une réponse lente, fréquentes dans la maladie de Parkinson, ne signifient pas qu’un souvenir est perdu. Amaury reprend la parole devant le groupe, change de micro et confie sa voix à l’orthophoniste plutôt que de laisser les autres conclure à sa place.",
+      "mirror": [
+        "Devant un silence comme celui d’Amaury, un proche peut retenir la phrase « Il ne s’en souvient plus » et dire plutôt : « Je t’écoute, prends ton temps. » Poser une seule question, puis attendre, respecte ce qu’il sait. Rosa peut aussi lui dire calmement qu’elle l’entend mal, sans lui demander de crier, et lui laisser décider s’il en parle à l’orthophoniste. Ni elle ni Gérard n’ont à tester sa mémoire."
+      ],
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "has-parkinson-2016",
+        "nice-ng71"
+      ],
+      "continuity": {
+        "choice": "Amaury demande à Gérard de le laisser finir, adopte le micro-cravate et le signe de la main à plat, et obtient par Sabine Ferrand un rendez-vous avec l’orthophoniste Quentin Delorme le mardi suivant.",
+        "next": "Le lundi suivant, Gérard a prévu une séance d’une heure et demie sur les écoliers du terminus, et c’est la fin de la séance qui devient difficile."
+      },
+      "number": 2,
+      "diagnostic_stage": "known",
+      "clinical_focus": "Voix faible et réponse lente prises pour un oubli"
+    },
+    {
+      "slug": "amaury-attention-qui-s-epuise-seance-longue",
+      "title": "Une attention qui s’épuise : la casquette posée sur la table",
+      "description": "Après trente minutes sur les écoliers du terminus, Amaury perd le fil et pose sa casquette : son attention s’épuise avec la durée de la séance.",
+      "context": "à l’association, un lundi matin",
+      "topics": [
+        "Démence due à la maladie de Parkinson",
+        "attention soutenue",
+        "signal de pause"
+      ],
+      "clinical_intro": "Maintenir son attention longtemps sur une même tâche fait partie des capacités souvent touchées dans la démence due à la maladie de Parkinson. Un récit peut très bien démarrer, puis se défaire au bout d’un moment ou au premier changement autour de soi. Amaury, déjà diagnostiqué, n’est ni distrait ni de mauvaise volonté : il a besoin d’une durée choisie et d’un moyen simple de dire stop.",
+      "opening": "Le lundi suivant, à dix heures, Gérard Vial, le président de l’association Mémoire des lignes, a écrit sur le tableau blanc : « 10 h – 11 h 30 : les écoliers du terminus ». Il a calculé que, avec la salle disponible seulement le matin, une séance longue rattraperait le retard. Amaury, ancien conducteur de la 9 de Montreynaud, a fixé lui-même le micro-cravate à sa veste, comme jeudi. Sa casquette de service est posée sur la boîte en fer.\n\nPendant trente minutes, tout roule. Il raconte les écoliers qui montaient au terminus à 16 h 40, les cartables entassés près de la porte, et surtout la petite Fatou, qui faisait ses devoirs sur la banquette du fond et lui demandait l’orthographe des noms d’arrêts. Soizic Teyssier, la réalisatrice, rit. Wassim Rey, au son et à l’image, ne touche à rien.\n\nPuis Wassim se lève pour déplacer la lampe, qui fait un reflet sur les lunettes d’Amaury. Le pied racle le sol. Amaury s’arrête au milieu d’une phrase. Il reprend, mais il raconte de nouveau Fatou et l’orthographe de « Chavanelle », mot pour mot. Soizic hésite à le lui dire. Il recommence une troisième fois, s’embrouille, regarde la porte. Ses yeux suivent le moindre bruit du couloir.\n\n« Ça va ? » demande Soizic.\n\n« Ça va », répond-il. Mais il prend sa casquette sur la boîte en fer et la pose à plat sur la table, devant lui, comme il le faisait au dépôt à la fin d’un service, quand il rendait la sacoche. Il est onze heures moins dix. Gérard tapote le planning : encore quarante minutes.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Tenir un récit dans la durée demande une attention qui peut s’épuiser",
+          "text": "L’attention soutenue permet de rester concentré sur une même tâche, et de reprendre le fil après une interruption. Dans la démence due à la maladie de Parkinson, l’attention fait partie des domaines souvent atteints, avec les fonctions exécutives et la mémoire. Une personne peut donc être tout à fait capable de raconter pendant un temps, puis voir son récit se défaire avec la durée ou au moindre changement autour d’elle. Ce n’est ni un manque d’intérêt ni de la mauvaise volonté. Chez Amaury, les trente premières minutes sont fluides ; c’est la lampe déplacée et le temps qui passe qui le font recommencer la même anecdote. La casquette posée sur la table dit ce qu’il n’arrive pas à formuler : son attention est arrivée au terminus, même si le planning de Gérard continue."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment l’attention qui s’épuise se voit-elle dans une séance ?",
+          "points": [
+            {
+              "heading": "Un récit qui tient d’abord, puis se défait",
+              "text": "Le début d’une tâche peut être réussi, et la difficulté n’apparaître qu’au bout d’un certain temps.",
+              "examples": [
+                "Pendant trente minutes, Amaury raconte Fatou et les cartables entassés sans chercher ses mots.",
+                "Vers onze heures moins dix, il ne retrouve plus où il en était dans l’histoire des écoliers."
+              ]
+            },
+            {
+              "heading": "Une distraction qui fait perdre le fil",
+              "text": "Un bruit ou un geste à côté peut suffire à interrompre le fil, et la reprise demande alors un effort important.",
+              "examples": [
+                "Le pied de la lampe qui racle le sol coupe Amaury au milieu d’une phrase.",
+                "Ensuite, ses yeux suivent le moindre bruit du couloir au lieu de revenir au récit."
+              ]
+            },
+            {
+              "heading": "Des répétitions et un « ça va » qui cachent la fatigue",
+              "text": "La personne peut répéter une anecdote sans s’en rendre compte, et affirmer qu’elle va bien alors que son corps signale autre chose.",
+              "examples": [
+                "Amaury raconte trois fois l’orthographe de « Chavanelle », mot pour mot.",
+                "Il répond « ça va » à Soizic, puis pose sa casquette à plat sur la table, comme à la fin d’un service."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour respecter une attention limitée",
+          "points": [
+            {
+              "heading": "Une durée courte choisie par la personne",
+              "objective": "Adapter la longueur des séances à ce que la personne peut tenir.",
+              "exercise": [
+                "Demander à la personne combien de temps elle souhaite travailler avant une pause.",
+                "Inscrire cette durée sur le planning et la respecter, même si une séance démarre bien.",
+                "Revoir la durée ensemble après quelques séances, à la hausse comme à la baisse."
+              ],
+              "benefit": "Une séance plus courte peut laisser un récit entier plutôt qu’une fin répétée ; c’est un aménagement d’organisation, non un traitement."
+            },
+            {
+              "heading": "Réduire les changements autour",
+              "objective": "Limiter ce qui détourne l’attention pendant le travail.",
+              "exercise": [
+                "Régler la lumière, le son et la place des objets avant l’arrivée de la personne.",
+                "Fermer la porte du couloir et prévenir les autres qu’on enregistre.",
+                "Si un réglage est nécessaire en cours de route, faire d’abord une pause annoncée."
+              ],
+              "benefit": "Moins d’interruptions peut rendre la reprise moins coûteuse pour la personne."
+            },
+            {
+              "heading": "Un signal de pause sans justification",
+              "objective": "Permettre à la personne d’arrêter sans avoir à expliquer pourquoi.",
+              "exercise": [
+                "Choisir avec elle un signal simple et visible, par exemple un objet posé sur la table.",
+                "Convenir que ce signal arrête la prise immédiatement, sans question.",
+                "Après la pause, lui demander si elle souhaite reprendre ou terminer pour aujourd’hui."
+              ],
+              "benefit": "Le signal évite à la personne de devoir dire une fatigue qu’elle n’a pas toujours les mots ni l’envie de nommer."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Quarante minutes et la casquette",
+      "ending": "Soizic regarde la casquette, puis Amaury. Elle fait signe à Wassim d’arrêter l’enregistrement. Amaury prend une gorgée d’eau et fixe la règle, en phrases courtes : « Quarante minutes. Une pause. Et quand la casquette est sur la table, on arrête. On ne me demande pas pourquoi. » Wassim promet de régler la lampe avant son arrivée, la prochaine fois. Gérard sort son planning et compte à voix haute : avec des séances de quarante minutes, le tournage s’allonge de trois semaines, et l’atelier photo ne cédera pas la salle tous les matins. Il grimace, mais il raye « 11 h 30 » et écrit « 10 h 40 ». Le passage sur Fatou est enregistré en entier dans les trente premières minutes ; les répétitions de la fin seront coupées. Amaury ne sait pas si quarante minutes suffiront toujours.",
+      "conclusion": "Cet épisode montre que, dans la démence due à la maladie de Parkinson, l’attention peut se maintenir un temps puis s’épuiser, surtout quand l’environnement change. Amaury transforme un geste de son ancien métier en signal de pause, et le tournage s’organise désormais en séances de quarante minutes.",
+      "mirror": [
+        "Quand Amaury dit « ça va » et pose sa casquette, un proche peut croire le geste plutôt que les mots : « Tu as posé la casquette, on s’arrête. Tu me diras si tu veux reprendre. » Ni Rosa, sa compagne, ni Soizic n’ont à lui demander de se justifier ni à tenter de le garder concentré plus longtemps. Respecter le signal, c’est lui laisser décider de la fin, sans en faire un exercice."
+      ],
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "emre-2007",
+        "nice-ng97"
+      ],
+      "continuity": {
+        "choice": "Amaury fixe des séances de quarante minutes avec une pause, la casquette sur la table signifiant stop ; Wassim règle la lumière avant son arrivée et Gérard allonge le calendrier de trois semaines.",
+        "next": "Le jeudi suivant, avec des séances courtes, Soizic demande l’ordre de toute une journée de service, et l’organisation du récit pose problème."
+      },
+      "number": 3,
+      "diagnostic_stage": "known",
+      "clinical_focus": "Une attention qui s’épuise au fil de la séance"
+    },
+    {
+      "slug": "amaury-fonctions-executives-ordonner-recit-service",
+      "title": "Ordonner les étapes d’un récit : la journée de service en désordre",
+      "description": "Amaury connaît chaque étape de sa journée de service, mais le récit part de la relève : ordonner un souvenir demande des fonctions touchées par la démence.",
+      "context": "à l’association, puis à la maison",
+      "topics": [
+        "Démence due à la maladie de Parkinson",
+        "fonctions exécutives",
+        "récit par étapes"
+      ],
+      "clinical_intro": "Les fonctions exécutives servent à planifier, à mettre des étapes dans l’ordre et à passer de l’une à l’autre. Dans la démence due à la maladie de Parkinson, elles sont souvent touchées, alors même que les souvenirs anciens restent présents. Amaury connaît par cœur sa journée de conducteur ; c’est la raconter dans l’ordre, d’un seul tenant, qui lui demande désormais un appui extérieur.",
+      "opening": "Jeudi, dix heures. Wassim Rey, chargé du son et de l’image, a réglé la lampe avant l’arrivée d’Amaury, comme promis. La porte du couloir est fermée. La casquette attend sur la boîte en fer, et le micro-cravate est déjà accroché. Mardi, Quentin Delorme, l’orthophoniste de l’équipe Parkinson, a fait lire à Amaury des noms d’arrêts à voix haute ; il en a gardé la liste dans sa poche.\n\nSoizic Teyssier, la réalisatrice, a une idée de structure pour le film : suivre une journée type, du début à la fin. « La prise de service au dépôt, le premier départ, la coupure de midi, la relève. Vous nous emmenez ? »\n\nAmaury ouvre la boîte et étale ses feuilles de service sur la table. Il les connaît toutes. Il commence pourtant par la relève, place Fourneyron, quand le collègue montait avec son thermos. Puis il saute à la coupure de midi, au sandwich mangé dans le bus au terminus. Il veut revenir au dépôt, au moment où l’on vérifie les pneus et la girouette, mais il ne trouve plus le chemin pour y retourner. Les feuilles se mélangent sous ses mains ; celle de 1979 recouvre celle de 1992.\n\nSoizic propose doucement : « On reprend dans l’ordre ? D’abord le dépôt. »\n\nAmaury frappe la table du plat de la main. Ce n’est pas le signe convenu pour « j’ai fini ». « Je l’ai fait dix mille fois, cette journée ! » Il s’en veut, pas à elle. Il sait chaque geste : la clé, le contrôle, la feuille signée, le premier arrêt. Mais pour les dire dans l’ordre, il faut tenir toute la journée dans sa tête en même temps, et ce matin elle part en morceaux. Wassim baisse les yeux vers ses boutons.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Savoir chaque étape ne suffit pas à les mettre en ordre",
+          "text": "Planifier un récit, choisir par où commencer et passer d’une étape à la suivante relèvent des fonctions exécutives, qui organisent la pensée comme un horaire organise une ligne. Dans la démence due à la maladie de Parkinson, ces fonctions font partie des domaines souvent atteints, avec l’attention et la mémoire, et peuvent l’être même lorsque des souvenirs anciens restent bien présents. Une personne peut alors connaître chaque élément et ne plus réussir à les enchaîner sans appui. Chez Amaury, la clé, le contrôle des pneus, la feuille signée sont intacts ; c’est l’ordre de la journée qui se défait quand il doit la porter seul, devant une table couverte de feuilles mélangées. Le coup sur la table vient de cet écart entre ce qu’il sait et ce qu’il peut organiser à ce moment-là, pas d’un oubli."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment une difficulté d’organisation se voit-elle dans un récit ?",
+          "points": [
+            {
+              "heading": "Un récit qui commence par la fin",
+              "text": "Sans plan extérieur, le récit peut partir de l’étape la plus marquante plutôt que de la première.",
+              "examples": [
+                "Amaury commence par la relève place Fourneyron, avec le thermos du collègue, au lieu du dépôt.",
+                "Il saute ensuite à la coupure de midi, au sandwich mangé dans le bus au terminus."
+              ]
+            },
+            {
+              "heading": "Du mal à revenir en arrière",
+              "text": "Passer d’une étape à une autre, ou revenir à la précédente, demande une souplesse qui peut manquer.",
+              "examples": [
+                "Il veut parler du contrôle des pneus au dépôt mais ne trouve pas comment y revenir depuis midi.",
+                "Quand Soizic propose de reprendre au début, il ne parvient pas à repartir du dépôt."
+              ]
+            },
+            {
+              "heading": "Un support qui ajoute au désordre",
+              "text": "Trop d’éléments présentés à la fois peuvent compliquer la mise en ordre au lieu de l’aider.",
+              "examples": [
+                "Les feuilles de service étalées se mélangent, celle de 1979 sur celle de 1992.",
+                "Amaury frappe la table, frustré, alors qu’il connaît chaque geste de la journée."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour raconter étape par étape",
+          "points": [
+            {
+              "heading": "Découper le récit en étapes visibles",
+              "objective": "Mettre l’ordre à l’extérieur de la tête, sur un support simple.",
+              "exercise": [
+                "Choisir avec la personne quatre ou cinq étapes, une par fiche, avec un mot écrit en gros.",
+                "Les poser dans l’ordre sur la table, ou les numéroter avec elle.",
+                "Ranger tout le reste hors de vue pendant qu’elle raconte."
+              ],
+              "benefit": "Le support peut porter l’ordre à sa place et laisser à la personne la part qui lui revient : les souvenirs."
+            },
+            {
+              "heading": "Une étape par séance",
+              "objective": "Réduire ce qu’il faut organiser en même temps.",
+              "exercise": [
+                "Ne poser sur la table que la fiche du jour.",
+                "Laisser la personne raconter cette étape jusqu’au bout, sans annoncer la suivante.",
+                "Noter à la fin ce qu’elle souhaite ajouter la prochaine fois."
+              ],
+              "benefit": "Raconter un seul morceau à la fois peut éviter la frustration de tout perdre au milieu ; ce n’est pas un exercice qui soigne."
+            },
+            {
+              "heading": "Laisser la personne décider de l’ordre final",
+              "objective": "Garder à la personne le pouvoir sur son histoire, même si elle est enregistrée en morceaux.",
+              "exercise": [
+                "Enregistrer les étapes dans l’ordre où elles viennent.",
+                "Montrer les morceaux à la personne au moment du montage.",
+                "Lui demander de les placer elle-même, puis valider l’ensemble avec elle."
+              ],
+              "benefit": "La personne reste auteur de son récit, même quand l’organisation lui demande plus d’effort."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Quatre fiches dans l’ordre de la journée",
+      "ending": "Amaury pose sa casquette sur la table. Soizic arrête la prise sans un mot. Avant de partir, il demande à garder les feuilles de service pour le week-end. Le vendredi matin, à la table de la cuisine, il en sort quatre avec Rosa, sa compagne : une prise de service de 1983, un premier départ de 5 h 10, une coupure, une relève. Rosa ne lui dit pas dans quel ordre les mettre ; elle tient le carton pendant qu’il les pose. Il recopie sur quatre fiches un seul mot en majuscules : DÉPÔT, DÉPART, COUPURE, RELÈVE. Le lundi, il annonce à Soizic la nouvelle règle : une fiche par séance, et c’est lui qui choisira l’ordre au montage. Gérard Vial, le président de l’association, calcule que cela ajoute encore deux séances. La première fiche, DÉPART, renvoie au plan du réseau de 1987.",
+      "conclusion": "Cet épisode montre que les fonctions exécutives, souvent atteintes dans la démence due à la maladie de Parkinson, peuvent défaire l’ordre d’un récit que la mémoire garde pourtant intact. Avec quatre fiches et une étape par séance, Amaury reste auteur de sa journée de service, au prix d’un tournage plus long.",
+      "mirror": [
+        "Quand Amaury frappe la table en disant « Je l’ai fait dix mille fois », un proche peut répondre : « Je sais que tu la connais. On en pose une seule ? » Rosa n’a pas à classer les feuilles à sa place ni à lui faire répéter la journée pour l’entraîner. Elle peut tenir le carton pendant qu’il choisit, et lui dire si elle n’a pas le temps ce jour-là."
+      ],
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "emre-2007",
+        "has-parkinson-2016"
+      ],
+      "continuity": {
+        "choice": "Amaury classe avec Rosa quatre feuilles de service et en fait quatre fiches (DÉPÔT, DÉPART, COUPURE, RELÈVE) ; il enregistrera une étape par séance et validera l’ordre au montage.",
+        "next": "La fiche DÉPART renvoie au plan du réseau de 1987, que Wassim veut filmer à la séance du jeudi."
+      },
+      "number": 4,
+      "diagnostic_stage": "known",
+      "clinical_focus": "Ordonner les étapes d’un récit de service"
+    },
+    {
+      "slug": "amaury-difficultes-visuospatiales-plan-reseau",
+      "title": "Lire un plan de réseau quand l’espace se brouille",
+      "description": "Amaury récite les arrêts de la 9 sans erreur, mais son doigt s’égare sur le plan de 1987 : la démence brouille la lecture de l’espace, pas ses souvenirs.",
+      "context": "à l’association, un jeudi matin",
+      "topics": [
+        "Démence due à la maladie de Parkinson",
+        "capacités visuospatiales",
+        "support simplifié"
+      ],
+      "clinical_intro": "Situer des lignes, des couleurs et des repères sur une feuille demande des capacités visuospatiales, souvent touchées dans la démence due à la maladie de Parkinson. Une personne peut garder intacte la mémoire d’un trajet et peiner à le suivre sur un plan chargé. Pour Amaury, la liste des arrêts de la 9 est solide ; c’est la carte, avec ses lignes voisines et ses couleurs proches, qui le trompe.",
+      "opening": "Jeudi, dix heures, deuxième fiche : DÉPART. Lundi, Amaury a enregistré la fiche DÉPÔT en trente-cinq minutes, sans poser la casquette. Ce matin, Wassim Rey, qui tourne le son et l’image du film, a une surprise. Il a retrouvé dans les archives de l’association le grand plan du réseau de 1987, un mètre sur quatre-vingts, et il l’a déplié sur la table, tenu aux coins par des tasses. « J’aimerais filmer votre doigt sur le trajet de la 9 pendant que vous racontez le premier départ. »\n\nAmaury sourit. Il récite les arrêts dans l’ordre, de la place du Peuple à Montreynaud, sans en oublier un, avec le ton qu’il prenait au micro intérieur du bus. Soizic Teyssier, la réalisatrice, chuchote le nom des arrêts sur sa liste et coche : tout est juste.\n\nPuis il se penche sur le plan. Son doigt part de la place du Peuple, mais glisse sur une ligne voisine qui file vers Bellevue. Il revient, hésite entre deux traits orange et rouge qui se ressemblent sous la lampe. Il cherche le terminus de Montreynaud en bas à gauche, alors qu’il est en haut, au nord. Wassim, l’œil dans le viseur, ne dit rien et continue de filmer. Amaury sent la caméra suivre un doigt qui se trompe.\n\nIl replie le plan d’un geste sec, si vite qu’une tasse se renverse sur le coin de 1987. « Vous n’avez qu’à filmer les arrêts en voix seule. Je les connais, les arrêts. » Il passe la main sur le papier mouillé. Wassim s’excuse pour la tasse ; Amaury, lui, s’excuse pour le plan.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Connaître un trajet n’est pas la même chose que le suivre sur une carte",
+          "text": "Les capacités visuospatiales permettent de situer des objets et des repères dans l’espace, de distinguer des formes proches et de suivre une ligne au milieu d’autres. Dans la démence due à la maladie de Parkinson, elles font partie des domaines souvent atteints, avec l’attention et les fonctions exécutives, sans que la mémoire des lieux disparaisse forcément. Une personne peut donc réciter un itinéraire parfaitement et se perdre sur sa représentation dessinée. Chez Amaury, les deux savoirs se séparent sur la table : la liste des arrêts, apprise en trente-quatre ans de service, reste juste ; la lecture d’un grand plan aux couleurs voisines devient un piège. Le geste sec qui replie le papier n’est pas un caprice : c’est une façon de se protéger d’une image qui le montrerait en train de se tromper sur sa propre ligne."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment une difficulté visuospatiale se voit-elle devant un plan ?",
+          "points": [
+            {
+              "heading": "Une ligne qui en remplace une autre",
+              "text": "Quand plusieurs tracés se croisent, le regard peut glisser vers une ligne voisine sans que la personne s’en rende compte tout de suite.",
+              "examples": [
+                "Le doigt d’Amaury part de la place du Peuple puis glisse sur la ligne qui file vers Bellevue.",
+                "Il revient en arrière et hésite sur le croisement, comme si le tracé avait changé de place."
+              ]
+            },
+            {
+              "heading": "Des couleurs proches qui se confondent",
+              "text": "Distinguer deux teintes voisines ou un trait fin sur un fond chargé peut devenir plus difficile.",
+              "examples": [
+                "Sous la lampe, le trait orange de la 9 et le trait rouge d’une autre ligne se ressemblent pour lui.",
+                "Il demande à Soizic laquelle est la sienne, alors qu’il la dessinait de mémoire autrefois."
+              ]
+            },
+            {
+              "heading": "Un repère cherché au mauvais endroit",
+              "text": "Situer un point sur la feuille, en haut ou en bas, à gauche ou à droite, peut se brouiller alors que la personne connaît le lieu.",
+              "examples": [
+                "Amaury cherche le terminus de Montreynaud en bas à gauche du plan, alors qu’il se trouve au nord.",
+                "Il récite pourtant sans faute tous les arrêts qui y mènent, avec la voix du micro intérieur."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour s’appuyer sur un support plus lisible",
+          "points": [
+            {
+              "heading": "Simplifier ce qui est montré",
+              "objective": "Garder seulement l’information utile sur le support.",
+              "exercise": [
+                "Demander à la personne ce qu’elle veut montrer, par exemple un seul trajet.",
+                "Préparer une copie où ne figure que ce trajet, avec les noms d’arrêts en gros.",
+                "Lui proposer cette copie, et ranger l’original à portée de main si elle le préfère."
+              ],
+              "benefit": "Moins de lignes à trier peut rendre le support utilisable, sans prétendre restaurer la lecture d’un plan complet."
+            },
+            {
+              "heading": "Ajouter un repère contrasté ou au toucher",
+              "objective": "Rendre le trajet facile à repérer et à suivre.",
+              "exercise": [
+                "Surligner le tracé d’une couleur très contrastée, par exemple en noir sur fond clair.",
+                "Marquer le départ et le terminus d’une gommette en relief.",
+                "Éclairer la table sans reflet et vérifier avec la personne qu’elle distingue bien le tracé."
+              ],
+              "benefit": "Un contraste net et un repère au toucher peuvent faciliter le geste ; ce sont des aménagements, non des soins."
+            },
+            {
+              "heading": "Laisser la parole guider l’image",
+              "objective": "Partir de ce que la personne fait bien plutôt que de ce qui la met en difficulté.",
+              "exercise": [
+                "Laisser la personne réciter le trajet à sa façon, sans support à suivre.",
+                "Faire suivre le tracé par la caméra ou par une autre main, au rythme de sa voix.",
+                "Lui montrer le résultat et lui demander si cela correspond à ce qu’elle voulait."
+              ],
+              "benefit": "La personne reste au centre de la scène avec ce qu’elle maîtrise, sans être mise à l’épreuve devant la caméra."
+            }
+          ]
+        }
+      ],
+      "ending_title": "La 9 surlignée en noir",
+      "ending": "Wassim propose un essai pour la séance de lundi : une copie agrandie du plan, où seule la 9 est surlignée en noir épais, les autres lignes passées en gris clair, avec une gommette au départ et une au terminus. Amaury réfléchit, puis accepte à une condition : il ne suivra pas le tracé lui-même. Il récitera, et c’est la caméra qui suivra. Le lundi suivant, Wassim arrive avec la copie, réglée sous une lumière sans reflet. Amaury pose ses mains à plat de chaque côté de la feuille et récite, de la place du Peuple à Montreynaud. La caméra descend le trait noir au rythme des noms. À un moment, Amaury jette un œil à la copie et pointe du doigt l’arrêt de Bellevue sur la mauvaise ligne ; il le retire sans commentaire, et la prise continue. Le grand plan d’origine, séché, reste replié dans la boîte en fer.",
+      "conclusion": "Cet épisode montre que, dans la démence due à la maladie de Parkinson, la lecture de l’espace peut se troubler alors que la mémoire d’un trajet reste ferme. Amaury choisit de laisser sa voix guider l’image et un support simplifié prendre le relais du grand plan, sans que la difficulté disparaisse.",
+      "mirror": [
+        "Quand Amaury replie le plan d’un geste sec, un proche peut éviter de le rouvrir pour qu’il « réessaie ». Il peut dire : « Tu préfères raconter sans le plan, ou qu’on t’en prépare un plus simple ? » Rosa, sa compagne, n’a pas à lui faire passer des tests avec des cartes à la maison. Elle peut demander ce qui l’aiderait, et laisser l’équipe juger des difficultés si elles la préoccupent."
+      ],
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "emre-2007",
+        "nice-ng97"
+      ],
+      "continuity": {
+        "choice": "Amaury accepte une copie agrandie où seule la 9 est surlignée en noir et récite pendant que la caméra suit le tracé ; le grand plan de 1987 reste replié dans la boîte en fer.",
+        "next": "Au visionnage des premiers rushs, Soizic s’inquiète de l’expression d’Amaury à l’image."
+      },
+      "number": 5,
+      "diagnostic_stage": "known",
+      "clinical_focus": "Suivre un trajet sur un plan de réseau"
+    }
+  ]
+}

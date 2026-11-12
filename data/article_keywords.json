@@ -16883,6 +16883,487 @@
       "3. La pratique de la vulnérabilité choisie"
     ]
   },
+  "posts/comprendre-et-maitriser-ses-emotions/florence-ambivalence-alliance": {
+    "character": "Florence",
+    "character_id": "florence",
+    "keywords": [
+      "Ambivalence",
+      "Alliance clinique",
+      "Continuité du soin"
+    ],
+    "character_keywords": [
+      "Trouble factice imposé à autrui",
+      "Responsabilité et protection",
+      "Parole clinique et ambivalence",
+      "Autonomie de la personne exposée",
+      "Coordination et suivi durable"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "ae4ca92cf5ec5f14325d2d006dd1457d684cdc1de9e00d2180a5bb55c6dea102",
+    "summary": "Mercredi matin, au service municipal, le rappel s’affiche sur l’écran de Florence : « Marc, 14 h ». À côté du clavier, les légendes du cahier Regards de quartier attendent en pile, annotées au crayon, pour être harmonisées. Depuis la séance sur son attente de reconnaissance, Florence redoute de retrouver la même déception.\n\n[…]\n\nMarc propose de revoir Florence la semaine suivante et note la question des bonnes intentions comme point de départ. Tout n’est pas réglé. De retour au bureau, Florence écrit à Cathy, la coordinatrice éditoriale : « L’harmonisation des légendes me prendra plus de temps que prévu. Je te redonne une date d’ici quelques jours. » Cathy répond : « D’accord, je décale la relecture. » Florence ne lui demande pas de vérifier sa présence aux consultations. Elle retourne son téléphone et reprend la première légende de la pile.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Mercredi matin, au service municipal, le rappel s’affiche sur l’écran de Florence : « Marc, 14 h ». À côté du clavier, les légendes du cahier Regards de quartier attendent en pile, annotées au crayon, pour être harmonisées. Depuis la séance sur son attente de reconnaissance, Florence redoute de retrouver la même déception.",
+        "start": 2,
+        "end": 326
+      },
+      {
+        "quote": "Marc propose de revoir Florence la semaine suivante et note la question des bonnes intentions comme point de départ. Tout n’est pas réglé. De retour au bureau, Florence écrit à Cathy, la coordinatrice éditoriale : « L’harmonisation des légendes me prendra plus de temps que prévu. Je te redonne une date d’ici quelques jours. » Cathy répond : « D’accord, je décale la relecture. » Florence ne lui demande pas de vérifier sa présence aux consultations. Elle retourne son téléphone et reprend la première légende de la pile.",
+        "start": 4399,
+        "end": 4921
+      }
+    ],
+    "canonical_concept": "Ambivalence et alliance clinique",
+    "context": "avant et pendant le rendez-vous",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour aborder une hésitation dans le suivi",
+      "3. Préserver la suite pratique"
+    ],
+    "clinical_code": "6D51",
+    "clinical_diagnosis": "Trouble factice imposé à autrui"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/florence-autonomie-personne-exposee": {
+    "character": "Florence",
+    "character_id": "florence",
+    "keywords": [
+      "Autonomie",
+      "Attente de reconnaissance",
+      "Limites de protection"
+    ],
+    "character_keywords": [
+      "Trouble factice imposé à autrui",
+      "Responsabilité et protection",
+      "Parole clinique et ambivalence",
+      "Autonomie de la personne exposée",
+      "Coordination et suivi durable"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "58d8897f8b20365f3c7f5ffbf368a6f28b9e6ce4bac7d83b61e7e7d5b22be99e",
+    "summary": "Sur le bureau de Florence, au service municipal, le sommaire de Regards de quartier est revenu avec les remarques de Cathy, la coordinatrice éditoriale, au stylo vert : inverser les pages 6 et 7, raccourcir le titre du dessin de la fontaine. Florence range la feuille dans son dossier de travail et part pour le centre de consultation.\n\n[…]\n\nFlorence ne demande ni message ni intermédiaire. Elle dit à Marc : « J’aurai besoin de revenir sur cette attente. » Il l’inscrit pour une prochaine séance. Le lendemain, au service, elle inverse les pages 6 et 7, raccourcit le titre de la fontaine et renvoie le sommaire à Cathy. Le document va à la personne qui l’attend pour le cahier. Le soir, la déception est encore là ; les décisions de protection, elles, restent appliquées.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Sur le bureau de Florence, au service municipal, le sommaire de Regards de quartier est revenu avec les remarques de Cathy, la coordinatrice éditoriale, au stylo vert : inverser les pages 6 et 7, raccourcir le titre du dessin de la fontaine. Florence range la feuille dans son dossier de travail et part pour le centre de consultation.",
+        "start": 2,
+        "end": 337
+      },
+      {
+        "quote": "Florence ne demande ni message ni intermédiaire. Elle dit à Marc : « J’aurai besoin de revenir sur cette attente. » Il l’inscrit pour une prochaine séance. Le lendemain, au service, elle inverse les pages 6 et 7, raccourcit le titre de la fontaine et renvoie le sommaire à Cathy. Le document va à la personne qui l’attend pour le cahier. Le soir, la déception est encore là ; les décisions de protection, elles, restent appliquées.",
+        "start": 4409,
+        "end": 4840
+      }
+    ],
+    "canonical_concept": "Autonomie de la personne exposée",
+    "context": "avec le psychologue de l’équipe",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour garder une attente de reconnaissance dans le soin"
+    ],
+    "clinical_code": "6D51",
+    "clinical_diagnosis": "Trouble factice imposé à autrui"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/florence-besoins-medicaux-legitimes": {
+    "character": "Florence",
+    "character_id": "florence",
+    "keywords": [
+      "Sommeil",
+      "Soins pour soi",
+      "Parole médicale"
+    ],
+    "character_keywords": [
+      "Trouble factice imposé à autrui",
+      "Responsabilité et protection",
+      "Parole clinique et ambivalence",
+      "Autonomie de la personne exposée",
+      "Coordination et suivi durable"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "4e32114d69cb9e96604ef03667fe1ee69dcf04ab9b1237502f0450f0ee393802",
+    "summary": "Dans la salle d’attente du centre de consultation, Florence tient une feuille pliée en quatre. Elle y a noté ses nuits des deux dernières semaines, au crayon, comme elle annote une épreuve : endormie vers une heure, réveillée à quatre, parfois de nouveau à cinq. Cinq nuits sur sept. Au service municipal, l’après-midi, elle a laissé passer deux fautes dans une page de Regards de quartier qu’elle connaissait presque par cœur ; Cathy, la coordinatrice du cahier, les a corrigées sans commentaire.\n\n[…]\n\nDerain propose à Florence de continuer à noter ses nuits et fixe un nouveau point dans quinze jours. Elle lui conseille aussi de voir son médecin traitant pour un examen général. Si son état se dégrade, si un symptôme nouveau apparaît ou si elle se sent en danger, Florence appelle le secrétariat de l’équipe ou, en urgence, le 15. Florence range la feuille dans son agenda. Le soir, elle écrit à Cathy : « Pour les pages 17 à 24, je te propose mardi prochain. » Elle ne parle ni de ses nuits ni de la consultation. Elle ne sait pas encore ce que le prochain point montrera.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Dans la salle d’attente du centre de consultation, Florence tient une feuille pliée en quatre. Elle y a noté ses nuits des deux dernières semaines, au crayon, comme elle annote une épreuve : endormie vers une heure, réveillée à quatre, parfois de nouveau à cinq. Cinq nuits sur sept. Au service municipal, l’après-midi, elle a laissé passer deux fautes dans une page de Regards de quartier qu’elle connaissait presque par cœur ; Cathy, la coordinatrice du cahier, les a corrigées sans commentaire.",
+        "start": 2,
+        "end": 499
+      },
+      {
+        "quote": "Derain propose à Florence de continuer à noter ses nuits et fixe un nouveau point dans quinze jours. Elle lui conseille aussi de voir son médecin traitant pour un examen général. Si son état se dégrade, si un symptôme nouveau apparaît ou si elle se sent en danger, Florence appelle le secrétariat de l’équipe ou, en urgence, le 15. Florence range la feuille dans son agenda. Le soir, elle écrit à Cathy : « Pour les pages 17 à 24, je te propose mardi prochain. » Elle ne parle ni de ses nuits ni de la consultation. Elle ne sait pas encore ce que le prochain point montrera.",
+        "start": 4772,
+        "end": 5346
+      }
+    ],
+    "canonical_concept": "Besoins médicaux légitimes",
+    "context": "en consultation psychiatrique",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour parler de sa santé quand on craint de ne pas être cru"
+    ],
+    "clinical_code": "6D51",
+    "clinical_diagnosis": "Trouble factice imposé à autrui"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/florence-changements-vigilance": {
+    "character": "Florence",
+    "character_id": "florence",
+    "keywords": [
+      "Évaluation des changements",
+      "Vigilance durable",
+      "Réussite professionnelle"
+    ],
+    "character_keywords": [
+      "Trouble factice imposé à autrui",
+      "Responsabilité et protection",
+      "Parole clinique et ambivalence",
+      "Autonomie de la personne exposée",
+      "Coordination et suivi durable"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "001bc09fb5e4f36a6d889fd50a7fac50498c4b045a8f22800e20eaa122561173",
+    "summary": "Le retour écrit de l’équipe du cahier arrive un lundi, dans un courriel de Cathy, la coordinatrice éditoriale de Regards de quartier. Florence l’imprime pour le lire à voix basse, comme une épreuve. « Légendes cohérentes et justes, belle harmonisation. Une seule correction : page 14, la légende de l’arrêt de bus passe sur deux lignes. » Elle souligne « belle harmonisation » au crayon, puis la relit.\n\n[…]\n\nFlorence ne range pas le retour imprimé comme une preuve. Elle garde son prochain rendez-vous avec Marc et celui avec la psychiatre dans trois semaines ; les consignes en vigueur restent les mêmes. Au service, elle raccourcit la légende de l’arrêt de bus pour qu’elle tienne sur une ligne, puis écrit à Cathy : « Page 14 corrigée. C’était la dernière remarque, je crois. » C’est une correction du cahier, rien d’autre. La déception de ne pas avoir obtenu davantage est toujours là ; elle la notera pour Marc.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Le retour écrit de l’équipe du cahier arrive un lundi, dans un courriel de Cathy, la coordinatrice éditoriale de Regards de quartier. Florence l’imprime pour le lire à voix basse, comme une épreuve. « Légendes cohérentes et justes, belle harmonisation. Une seule correction : page 14, la légende de l’arrêt de bus passe sur deux lignes. » Elle souligne « belle harmonisation » au crayon, puis la relit.",
+        "start": 2,
+        "end": 404
+      },
+      {
+        "quote": "Florence ne range pas le retour imprimé comme une preuve. Elle garde son prochain rendez-vous avec Marc et celui avec la psychiatre dans trois semaines ; les consignes en vigueur restent les mêmes. Au service, elle raccourcit la légende de l’arrêt de bus pour qu’elle tienne sur une ligne, puis écrit à Cathy : « Page 14 corrigée. C’était la dernière remarque, je crois. » C’est une correction du cahier, rien d’autre. La déception de ne pas avoir obtenu davantage est toujours là ; elle la notera pour Marc.",
+        "start": 4573,
+        "end": 5081
+      }
+    ],
+    "canonical_concept": "Changements observés et vigilance durable",
+    "context": "après le retour écrit, au point de suivi",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour accueillir un progrès sans lui faire tout porter"
+    ],
+    "clinical_code": "6D51",
+    "clinical_diagnosis": "Trouble factice imposé à autrui"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/florence-choix-soin-preuves-limitees": {
+    "character": "Florence",
+    "character_id": "florence",
+    "keywords": [
+      "Objectifs du soin",
+      "Limites des connaissances",
+      "Décision partagée"
+    ],
+    "character_keywords": [
+      "Trouble factice imposé à autrui",
+      "Responsabilité et protection",
+      "Parole clinique et ambivalence",
+      "Autonomie de la personne exposée",
+      "Coordination et suivi durable"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "547a61351e3626dc1c25c63b8715ec9cacaada6bb430b0046bfa9d5f1a0df533",
+    "summary": "Florence a recopié trois questions sur une fiche bristol, numérotées au stylo bleu comme une liste de corrections : « 1. Qu’est-ce qu’on cherche à changer avec Marc ? 2. Combien de temps cela va durer ? 3. Est-ce que ça marche ? » Elle a aussi apporté sa feuille de nuits, complétée depuis quinze jours, comme la docteure Derain le lui avait proposé.\n\n[…]\n\nEn sortant, Florence relit sa fiche à voix basse dans le couloir : comprendre, parler sans atténuer, faire place à ce qu’elle ressent, tenir le cadre. La troisième question reste sans chiffre. De retour au service, elle rassemble les vingt-quatre pages et envoie l’épreuve complète à Cathy, pour le retour écrit collectif de l’équipe du cahier. Son message dit seulement : « Voici l’épreuve complète. J’attends vos remarques. » Elle n’écrit pas qu’elle va mieux. Elle ne le sait pas, et ce n’est pas au cahier de le dire.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Florence a recopié trois questions sur une fiche bristol, numérotées au stylo bleu comme une liste de corrections : « 1. Qu’est-ce qu’on cherche à changer avec Marc ? 2. Combien de temps cela va durer ? 3. Est-ce que ça marche ? » Elle a aussi apporté sa feuille de nuits, complétée depuis quinze jours, comme la docteure Derain le lui avait proposé.",
+        "start": 2,
+        "end": 352
+      },
+      {
+        "quote": "En sortant, Florence relit sa fiche à voix basse dans le couloir : comprendre, parler sans atténuer, faire place à ce qu’elle ressent, tenir le cadre. La troisième question reste sans chiffre. De retour au service, elle rassemble les vingt-quatre pages et envoie l’épreuve complète à Cathy, pour le retour écrit collectif de l’équipe du cahier. Son message dit seulement : « Voici l’épreuve complète. J’attends vos remarques. » Elle n’écrit pas qu’elle va mieux. Elle ne le sait pas, et ce n’est pas au cahier de le dire.",
+        "start": 4605,
+        "end": 5126
+      }
+    ],
+    "canonical_concept": "Choix de soin et preuves limitées",
+    "context": "en consultation psychiatrique",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour préparer une question sur son traitement"
+    ],
+    "clinical_code": "6D51",
+    "clinical_diagnosis": "Trouble factice imposé à autrui"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/florence-coordination-protection": {
+    "character": "Florence",
+    "character_id": "florence",
+    "keywords": [
+      "Coordination",
+      "Informations encadrées",
+      "Protection indépendante"
+    ],
+    "character_keywords": [
+      "Trouble factice imposé à autrui",
+      "Responsabilité et protection",
+      "Parole clinique et ambivalence",
+      "Autonomie de la personne exposée",
+      "Coordination et suivi durable"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "dea1d63fb2b96ddbbf4bbdde208a8688eccdce0d3b2d26b490e491826925e1fb",
+    "summary": "Dans le cabinet de la docteure Derain, sa psychiatre, Florence ouvre son agenda à la page où elle a noté sa question. Elle la lit presque mot pour mot : « Je viens à tous mes rendez-vous. Est-ce que ça peut changer les décisions de protection ? »\n\n[…]\n\nDerain et Nora gardent chacune leur responsabilité, et les décisions déjà en place restent appliquées. Dans le tram du retour, Florence relit sa note : « Décisions inchangées. Questions de protection : Nora. » Au bureau, elle écrit à Cathy : « Je t’envoie l’épreuve harmonisée en deux fois ; la première partie la semaine prochaine. » Elle ne lui parle ni de la consultation ni de l’appel. Cathy répond qu’elle note la date. Florence pose son agenda à côté de la pile de légendes et respecte les décisions en vigueur.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Dans le cabinet de la docteure Derain, sa psychiatre, Florence ouvre son agenda à la page où elle a noté sa question. Elle la lit presque mot pour mot : « Je viens à tous mes rendez-vous. Est-ce que ça peut changer les décisions de protection ? »",
+        "start": 2,
+        "end": 248
+      },
+      {
+        "quote": "Derain et Nora gardent chacune leur responsabilité, et les décisions déjà en place restent appliquées. Dans le tram du retour, Florence relit sa note : « Décisions inchangées. Questions de protection : Nora. » Au bureau, elle écrit à Cathy : « Je t’envoie l’épreuve harmonisée en deux fois ; la première partie la semaine prochaine. » Elle ne lui parle ni de la consultation ni de l’appel. Cathy répond qu’elle note la date. Florence pose son agenda à côté de la pile de légendes et respecte les décisions en vigueur.",
+        "start": 4580,
+        "end": 5097
+      }
+    ],
+    "canonical_concept": "Coordination clinique et protection",
+    "context": "au point de coordination prévu",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour comprendre une coordination professionnelle"
+    ],
+    "clinical_code": "6D51",
+    "clinical_diagnosis": "Trouble factice imposé à autrui"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/florence-detresse-propre": {
+    "character": "Florence",
+    "character_id": "florence",
+    "keywords": [
+      "Détresse personnelle",
+      "Solitude",
+      "Sécurité de la personne suivie"
+    ],
+    "character_keywords": [
+      "Trouble factice imposé à autrui",
+      "Responsabilité et protection",
+      "Parole clinique et ambivalence",
+      "Autonomie de la personne exposée",
+      "Coordination et suivi durable"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "359aaecbbf6b63a34282c7da1d70fcf062b318e89049ff319fde8ce2a2aa86cb",
+    "summary": "Mardi matin, au deuxième étage du service municipal, Florence a étalé sur son bureau l’épreuve harmonisée de Regards de quartier : vingt-quatre pages de dessins envoyés par des habitants, chacun accompagné d’une légende qu’elle relit à voix basse, un crayon à papier à la main. Page 9, le marché du samedi : des cageots, un auvent rayé, une femme qui pèse des pommes. La légende tient en une ligne. Florence la lit une fois, deux fois, trois fois. Elle ne sait plus si la virgule est utile.\n\n[…]\n\nFlorence repart avec une seule consigne : la prochaine séance partira de ce qu’elle vit, pas de ce qu’elle imagine pour quelqu’un d’autre. De retour au bureau, elle tranche pour la virgule du marché, termine les pages 1 à 16 et les envoie à Cathy, la coordinatrice éditoriale du cahier : « Voici la première partie harmonisée. Il reste les pages 17 à 24 ; je te donne une date la semaine prochaine. » Elle ne demande aucune nouvelle de la personne exposée. La solitude ne s’est pas dissipée en sortant du bureau de Marc. Elle a seulement un endroit où être dite.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Mardi matin, au deuxième étage du service municipal, Florence a étalé sur son bureau l’épreuve harmonisée de Regards de quartier : vingt-quatre pages de dessins envoyés par des habitants, chacun accompagné d’une légende qu’elle relit à voix basse, un crayon à papier à la main. Page 9, le marché du samedi : des cageots, un auvent rayé, une femme qui pèse des pommes. La légende tient en une ligne. Florence la lit une fois, deux fois, trois fois. Elle ne sait plus si la virgule est utile.",
+        "start": 2,
+        "end": 492
+      },
+      {
+        "quote": "Florence repart avec une seule consigne : la prochaine séance partira de ce qu’elle vit, pas de ce qu’elle imagine pour quelqu’un d’autre. De retour au bureau, elle tranche pour la virgule du marché, termine les pages 1 à 16 et les envoie à Cathy, la coordinatrice éditoriale du cahier : « Voici la première partie harmonisée. Il reste les pages 17 à 24 ; je te donne une date la semaine prochaine. » Elle ne demande aucune nouvelle de la personne exposée. La solitude ne s’est pas dissipée en sortant du bureau de Marc. Elle a seulement un endroit où être dite.",
+        "start": 5203,
+        "end": 5765
+      }
+    ],
+    "canonical_concept": "Reconnaître sa propre détresse",
+    "context": "au bureau puis chez le psychologue",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour faire place à sa détresse dans le soin"
+    ],
+    "clinical_code": "6D51",
+    "clinical_diagnosis": "Trouble factice imposé à autrui"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/florence-diagnostic-protection": {
+    "character": "Florence",
+    "character_id": "florence",
+    "keywords": [
+      "Diagnostic établi",
+      "Protection",
+      "Responsabilité"
+    ],
+    "character_keywords": [
+      "Trouble factice imposé à autrui",
+      "Responsabilité et protection",
+      "Parole clinique et ambivalence",
+      "Autonomie de la personne exposée",
+      "Coordination et suivi durable"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "ab13cc88c7cfda5c85fefc25e0fb1e0e3fc56e006d34f8b85a7f0263402b8599",
+    "summary": "Au deuxième étage du service municipal, Florence lit à voix basse la première épreuve de Regards de quartier, le cahier de dessins que la ville prépare avec les habitants. Elle est correctrice : elle relit les textes, puis rend les épreuves à Cathy, la coordinatrice éditoriale. Sous le premier dessin, un banc devant la boulangerie, la légende fait trois lignes. Florence la barre, écrit « Le banc du matin » dans la marge, hésite. Il est onze heures. Elle glisse l’épreuve dans son sac.\n\n[…]\n\nEn partant, Florence prend au secrétariat son rendez-vous suivant, avec Marc, le psychologue de l’équipe. Les décisions de protection restent celles qu’elle vient de reformuler ; sa venue ne les modifie pas. De retour au bureau, elle écrit à Cathy : « Tu auras la première épreuve corrigée jeudi. » Cathy répond : « Parfait, je cale la suite. » Florence garde « Le banc du matin » pour la première légende. C’est une légende pour le cahier, et elle la laisse à cette place.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Au deuxième étage du service municipal, Florence lit à voix basse la première épreuve de Regards de quartier, le cahier de dessins que la ville prépare avec les habitants. Elle est correctrice : elle relit les textes, puis rend les épreuves à Cathy, la coordinatrice éditoriale. Sous le premier dessin, un banc devant la boulangerie, la légende fait trois lignes. Florence la barre, écrit « Le banc du matin » dans la marge, hésite. Il est onze heures. Elle glisse l’épreuve dans son sac.",
+        "start": 2,
+        "end": 490
+      },
+      {
+        "quote": "En partant, Florence prend au secrétariat son rendez-vous suivant, avec Marc, le psychologue de l’équipe. Les décisions de protection restent celles qu’elle vient de reformuler ; sa venue ne les modifie pas. De retour au bureau, elle écrit à Cathy : « Tu auras la première épreuve corrigée jeudi. » Cathy répond : « Parfait, je cale la suite. » Florence garde « Le banc du matin » pour la première légende. C’est une légende pour le cahier, et elle la laisse à cette place.",
+        "start": 4465,
+        "end": 4938
+      }
+    ],
+    "canonical_concept": "Diagnostic établi et protection distincte",
+    "context": "avant et pendant la consultation",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour préparer un entretien sans déplacer la responsabilité"
+    ],
+    "clinical_code": "6D51",
+    "clinical_diagnosis": "Trouble factice imposé à autrui"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/florence-inquietude-tromperie": {
+    "character": "Florence",
+    "character_id": "florence",
+    "keywords": [
+      "Inquiétude",
+      "Tromperie identifiée",
+      "Parole clinique"
+    ],
+    "character_keywords": [
+      "Trouble factice imposé à autrui",
+      "Responsabilité et protection",
+      "Parole clinique et ambivalence",
+      "Autonomie de la personne exposée",
+      "Coordination et suivi durable"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "9939addd80b254bd982fa16ba826c41cca00045ed19ae061529395fe93b89386",
+    "summary": "Marc, le psychologue de l’équipe spécialisée qui suit Florence, la reçoit dans un petit bureau aux stores beiges, au premier étage du centre de consultation. Une semaine a passé depuis le rendez-vous avec la docteure Derain, sa psychiatre. Marc lui demande ce qui lui en est resté.\n\n[…]\n\nAvant de partir, Florence dit à Marc : « Je ne veux plus parler seulement d’inquiétude. » Il note qu’ils repartiront de là la prochaine fois. Le lendemain, au bureau, elle termine les premières légendes du cahier et les envoie à Cathy, la coordinatrice éditoriale : « Voici les légendes des pages 1 à 8. » Cathy répond : « Reçu, merci. » C’est une remise de travail. Elle ne dit rien de la santé de Florence, et la protection de la personne exposée reste ce qu’elle était.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Marc, le psychologue de l’équipe spécialisée qui suit Florence, la reçoit dans un petit bureau aux stores beiges, au premier étage du centre de consultation. Une semaine a passé depuis le rendez-vous avec la docteure Derain, sa psychiatre. Marc lui demande ce qui lui en est resté.",
+        "start": 2,
+        "end": 283
+      },
+      {
+        "quote": "Avant de partir, Florence dit à Marc : « Je ne veux plus parler seulement d’inquiétude. » Il note qu’ils repartiront de là la prochaine fois. Le lendemain, au bureau, elle termine les premières légendes du cahier et les envoie à Cathy, la coordinatrice éditoriale : « Voici les légendes des pages 1 à 8. » Cathy répond : « Reçu, merci. » C’est une remise de travail. Elle ne dit rien de la santé de Florence, et la protection de la personne exposée reste ce qu’elle était.",
+        "start": 4374,
+        "end": 4846
+      }
+    ],
+    "canonical_concept": "Inquiétude et tromperie identifiée",
+    "context": "à l’entretien avec le psychologue",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour clarifier une formulation en consultation"
+    ],
+    "clinical_code": "6D51",
+    "clinical_diagnosis": "Trouble factice imposé à autrui"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/florence-motivations-responsabilite": {
+    "character": "Florence",
+    "character_id": "florence",
+    "keywords": [
+      "Motivations",
+      "Responsabilité",
+      "Évaluation individuelle"
+    ],
+    "character_keywords": [
+      "Trouble factice imposé à autrui",
+      "Responsabilité et protection",
+      "Parole clinique et ambivalence",
+      "Autonomie de la personne exposée",
+      "Coordination et suivi durable"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "c8a16efe798af59add18cbbe9cc26763b6e18e8a8491a4ee1ceb2cbaf262f3b4",
+    "summary": "« Je n’avais rien à gagner matériellement. » Florence a préparé cette phrase dans le tram. Elle la prononce dès qu’elle s’assoit dans le cabinet de la docteure Derain, sa psychiatre, au centre de consultation. Elle espère qu’elle rendra plus supportable ce qui a été établi : avoir trompé des soignants en présentant une autre personne comme malade.\n\n[…]\n\nFlorence accepte de laisser la question des motivations ouverte jusqu’au prochain rendez-vous. Dans le tram, elle note dans son carnet : « Pas de gain ne veut pas dire pas de responsabilité. » De retour au bureau, elle vérifie l’ordre des vingt-quatre titres et envoie le sommaire à Cathy : « Voici la version à examiner. » Elle n’ajoute rien. Le sommaire est un document de travail pour le service ; il ne part vers personne d’autre et ne servira pas de preuve à la consultation suivante.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "« Je n’avais rien à gagner matériellement. » Florence a préparé cette phrase dans le tram. Elle la prononce dès qu’elle s’assoit dans le cabinet de la docteure Derain, sa psychiatre, au centre de consultation. Elle espère qu’elle rendra plus supportable ce qui a été établi : avoir trompé des soignants en présentant une autre personne comme malade.",
+        "start": 2,
+        "end": 351
+      },
+      {
+        "quote": "Florence accepte de laisser la question des motivations ouverte jusqu’au prochain rendez-vous. Dans le tram, elle note dans son carnet : « Pas de gain ne veut pas dire pas de responsabilité. » De retour au bureau, elle vérifie l’ordre des vingt-quatre titres et envoie le sommaire à Cathy : « Voici la version à examiner. » Elle n’ajoute rien. Le sommaire est un document de travail pour le service ; il ne part vers personne d’autre et ne servira pas de preuve à la consultation suivante.",
+        "start": 4131,
+        "end": 4620
+      }
+    ],
+    "canonical_concept": "Motivations et responsabilité",
+    "context": "pendant la consultation psychiatrique",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour examiner une justification avec le soignant"
+    ],
+    "clinical_code": "6D51",
+    "clinical_diagnosis": "Trouble factice imposé à autrui"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/florence-participation-suivi-durable": {
+    "character": "Florence",
+    "character_id": "florence",
+    "keywords": [
+      "Engagement tenu",
+      "Suivi au long cours",
+      "Vie ordinaire"
+    ],
+    "character_keywords": [
+      "Trouble factice imposé à autrui",
+      "Responsabilité et protection",
+      "Parole clinique et ambivalence",
+      "Autonomie de la personne exposée",
+      "Coordination et suivi durable"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "e25492773621096dcbaf46f7a24ed07bb454f29b0e2b25050892b2d4180e5f17",
+    "summary": "Le vendredi après-midi, Cathy, la coordinatrice éditoriale du service municipal, passe au bureau de Florence avec une chemise cartonnée. « C’est reçu, dit-elle. Le cahier corrigé est validé, la mise en page finale part la semaine prochaine. Merci pour la page 14. » Elle repart vers la réunion du service. Le mot « reçu » reste sur le bureau comme un tampon.\n\n[…]\n\nLe cahier corrigé est transmis et accepté pour la suite du travail du service. Florence a tenu son engagement. Elle poursuit son suivi avec Marc et la docteure Derain et respecte le cadre établi. Aucune nouvelle de la personne exposée ne lui parvient, et elle n’en demande pas ; aucune décision de protection n’est levée ni rediscutée. Sur le banc, elle tourne la page du recueil. Elle ne sait pas ce que diront les prochains entretiens. Elle sait qu’elle sera là mardi.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Le vendredi après-midi, Cathy, la coordinatrice éditoriale du service municipal, passe au bureau de Florence avec une chemise cartonnée. « C’est reçu, dit-elle. Le cahier corrigé est validé, la mise en page finale part la semaine prochaine. Merci pour la page 14. » Elle repart vers la réunion du service. Le mot « reçu » reste sur le bureau comme un tampon.",
+        "start": 2,
+        "end": 360
+      },
+      {
+        "quote": "Le cahier corrigé est transmis et accepté pour la suite du travail du service. Florence a tenu son engagement. Elle poursuit son suivi avec Marc et la docteure Derain et respecte le cadre établi. Aucune nouvelle de la personne exposée ne lui parvient, et elle n’en demande pas ; aucune décision de protection n’est levée ni rediscutée. Sur le banc, elle tourne la page du recueil. Elle ne sait pas ce que diront les prochains entretiens. Elle sait qu’elle sera là mardi.",
+        "start": 4528,
+        "end": 4998
+      }
+    ],
+    "canonical_concept": "Participation ordinaire et suivi durable",
+    "context": "au service municipal, le jour de la remise",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour terminer un projet sans lui donner une autre mission"
+    ],
+    "clinical_code": "6D51",
+    "clinical_diagnosis": "Trouble factice imposé à autrui"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/florence-soutien-social-limites": {
+    "character": "Florence",
+    "character_id": "florence",
+    "keywords": [
+      "Soutien social",
+      "Limites d’une collègue",
+      "Relations ordinaires"
+    ],
+    "character_keywords": [
+      "Trouble factice imposé à autrui",
+      "Responsabilité et protection",
+      "Parole clinique et ambivalence",
+      "Autonomie de la personne exposée",
+      "Coordination et suivi durable"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "9dd777266712d0ee981bcf7cd451afcbba0509b81e2ea3556c5fc2ebb04ff7e4",
+    "summary": "Dans la petite cuisine du service municipal, la machine à café fait son bruit de moteur fatigué. Cathy, la coordinatrice éditoriale du cahier Regards de quartier, a posé sur la table les pages 17 à 24, qu’elle a imprimées vendredi. C’est lundi matin. Florence, la correctrice du cahier, les lui avait rendues mardi dernier, comme elle l’avait proposé. Il reste à reprendre ensemble deux légendes trop longues, dont celle du kiosque du parc sous la neige.\n\n[…]\n\nFlorence et Cathy ramènent la légende du kiosque à huit mots, puis reprennent celle du lavoir. La pause se termine à l’heure, sans promesse de disponibilité supplémentaire. Cathy remonte à son bureau avec les pages 17 à 24 annotées, qu’elle intégrera à l’épreuve complète. Florence garde la ligne de son carnet pour mardi. Elle ne sait pas encore si la prochaine pause sera plus légère ; elle sait à qui poser ses questions de soin.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Dans la petite cuisine du service municipal, la machine à café fait son bruit de moteur fatigué. Cathy, la coordinatrice éditoriale du cahier Regards de quartier, a posé sur la table les pages 17 à 24, qu’elle a imprimées vendredi. C’est lundi matin. Florence, la correctrice du cahier, les lui avait rendues mardi dernier, comme elle l’avait proposé. Il reste à reprendre ensemble deux légendes trop longues, dont celle du kiosque du parc sous la neige.",
+        "start": 2,
+        "end": 456
+      },
+      {
+        "quote": "Florence et Cathy ramènent la légende du kiosque à huit mots, puis reprennent celle du lavoir. La pause se termine à l’heure, sans promesse de disponibilité supplémentaire. Cathy remonte à son bureau avec les pages 17 à 24 annotées, qu’elle intégrera à l’épreuve complète. Florence garde la ligne de son carnet pour mardi. Elle ne sait pas encore si la prochaine pause sera plus légère ; elle sait à qui poser ses questions de soin.",
+        "start": 4500,
+        "end": 4932
+      }
+    ],
+    "canonical_concept": "Soutien social et limites",
+    "context": "à la pause café du service municipal",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour garder un soutien ordinaire sans le surcharger"
+    ],
+    "clinical_code": "6D51",
+    "clinical_diagnosis": "Trouble factice imposé à autrui"
+  },
   "posts/comprendre-et-maitriser-ses-emotions/frustration-avec-ses-enfants-comprendre-emotions": {
     "character": "Nadia",
     "character_id": "nadia",
@@ -26128,6 +26609,486 @@
     ],
     "clinical_code": "6C70",
     "clinical_diagnosis": "Pyromanie"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/loubna-amelioration-evolution-suivi": {
+    "character": "Loubna",
+    "character_id": "loubna",
+    "keywords": [
+      "Amélioration rapportée",
+      "Évolution du trouble",
+      "Suivi maintenu"
+    ],
+    "character_keywords": [
+      "Trouble paraphilique impliquant un comportement solitaire ou des individus consentants",
+      "Souffrance et préférences",
+      "Consentement et limites",
+      "Accompagnement choisi",
+      "Retentissement quotidien"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "cf6d017396113f913f4dafa89a602e46746a5dad9d81c5386ff71647efd88e8b",
+    "summary": "Mardi matin, Loubna ouvre la version numérique du programme de la petite salle d’exposition. C’est le fichier qu’elle doit remettre à Salomé, la directrice de la salle, à la fin de la semaine. Elle commence par la page des horaires. Le bloc des horaires, celui qu’elle déplaçait puis remettait à sa place il y a quelques semaines, reste cette fois où elle l’a posé. Elle aligne le titre, vérifie l’espace en dessous, coche la ligne dans son carnet orange et passe à la page suivante. À midi, quatre corrections sur sept sont faites. Elle se surprend à déjeuner assise, l’ordinateur fermé.\n\n[…]\n\nJeudi, Loubna se rend au cabinet comme prévu. Elle lit sa feuille à Benali : le bloc des horaires qui ne bouge plus, quatre corrections faites en une matinée, des nuits plus reposantes, mais pas toutes. Elle lit aussi la troisième ligne. Benali ne lui répond ni que c’est fini, ni que tout reviendra forcément. Elle lui dit que cette période compte, qu’elle sera reprise avec les autres, et propose de garder le rythme convenu jusqu’à leur prochain point de réévaluation. Loubna accepte. Le vendredi matin, sur un créneau qu’elle avait laissé libre, elle termine les trois dernières corrections et envoie la version numérique à Salomé avec une ligne : « À vérifier de ton côté avant validation. » Salomé répond qu’elle l’ouvrira lundi. Loubna referme l’ordinateur contente de sa semaine, sans savoir ce que la suivante lui demandera.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Mardi matin, Loubna ouvre la version numérique du programme de la petite salle d’exposition. C’est le fichier qu’elle doit remettre à Salomé, la directrice de la salle, à la fin de la semaine. Elle commence par la page des horaires. Le bloc des horaires, celui qu’elle déplaçait puis remettait à sa place il y a quelques semaines, reste cette fois où elle l’a posé. Elle aligne le titre, vérifie l’espace en dessous, coche la ligne dans son carnet orange et passe à la page suivante. À midi, quatre corrections sur sept sont faites. Elle se surprend à déjeuner assise, l’ordinateur fermé.",
+        "start": 2,
+        "end": 590
+      },
+      {
+        "quote": "Jeudi, Loubna se rend au cabinet comme prévu. Elle lit sa feuille à Benali : le bloc des horaires qui ne bouge plus, quatre corrections faites en une matinée, des nuits plus reposantes, mais pas toutes. Elle lit aussi la troisième ligne. Benali ne lui répond ni que c’est fini, ni que tout reviendra forcément. Elle lui dit que cette période compte, qu’elle sera reprise avec les autres, et propose de garder le rythme convenu jusqu’à leur prochain point de réévaluation. Loubna accepte. Le vendredi matin, sur un créneau qu’elle avait laissé libre, elle termine les trois dernières corrections et envoie la version numérique à Salomé avec une ligne : « À vérifier de ton côté avant validation. » Salomé répond qu’elle l’ouvrira lundi. Loubna referme l’ordinateur contente de sa semaine, sans savoir ce que la suivante lui demandera.",
+        "start": 5715,
+        "end": 6548
+      }
+    ],
+    "canonical_concept": "Une amélioration ne tranche pas l’évolution",
+    "context": "entre le fichier numérique et le rendez-vous de suivi",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour faire place aux améliorations dans le suivi"
+    ],
+    "clinical_code": "6D36",
+    "clinical_diagnosis": "Trouble paraphilique impliquant un comportement solitaire ou des individus consentants"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/loubna-changements-recents-reevaluation": {
+    "character": "Loubna",
+    "character_id": "loubna",
+    "keywords": [
+      "Changements récents",
+      "Réévaluation",
+      "Suivi adapté"
+    ],
+    "character_keywords": [
+      "Trouble paraphilique impliquant un comportement solitaire ou des individus consentants",
+      "Souffrance et préférences",
+      "Consentement et limites",
+      "Accompagnement choisi",
+      "Retentissement quotidien"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "7529cf5684396b3011daa22135f3d5e9a707fc9a9e580d338ec3923f0a319d9b",
+    "summary": "Le matin du rendez-vous, Loubna ouvre son ordinateur puis reste devant la liste des fichiers. Le programme imprimé a sa série de corrections repérées ; elle sait comment les terminer. La version numérique, elle, lui paraît trop vaste pour être ouverte. Elle n’a pas l’impression habituelle de perdre le fil au milieu d’une tâche. Cette fois, c’est le démarrage lui-même qui lui demande un effort qu’elle remarque.\n\n[…]\n\nÀ la fin de la consultation, Benali n’annonce aucun nouveau diagnostic. Elle donne à Loubna un nouveau rendez-vous dans dix jours et lui rappelle le numéro du cabinet : « Si les nuits empirent ou si quelque chose vous inquiète d’ici là, appelez-moi sans attendre la date. » Loubna écrit ensuite à Salomé : la remise imprimée est maintenue, mais elle demande quelques jours supplémentaires pour la version numérique. Salomé accepte ce report limité et confirme les deux étapes. Loubna n’a pas une explication totale de ses nuits ; elle a une suite de suivi et un calendrier qui reconnaît la difficulté actuelle.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Le matin du rendez-vous, Loubna ouvre son ordinateur puis reste devant la liste des fichiers. Le programme imprimé a sa série de corrections repérées ; elle sait comment les terminer. La version numérique, elle, lui paraît trop vaste pour être ouverte. Elle n’a pas l’impression habituelle de perdre le fil au milieu d’une tâche. Cette fois, c’est le démarrage lui-même qui lui demande un effort qu’elle remarque.",
+        "start": 2,
+        "end": 415
+      },
+      {
+        "quote": "À la fin de la consultation, Benali n’annonce aucun nouveau diagnostic. Elle donne à Loubna un nouveau rendez-vous dans dix jours et lui rappelle le numéro du cabinet : « Si les nuits empirent ou si quelque chose vous inquiète d’ici là, appelez-moi sans attendre la date. » Loubna écrit ensuite à Salomé : la remise imprimée est maintenue, mais elle demande quelques jours supplémentaires pour la version numérique. Salomé accepte ce report limité et confirme les deux étapes. Loubna n’a pas une explication totale de ses nuits ; elle a une suite de suivi et un calendrier qui reconnaît la difficulté actuelle.",
+        "start": 4510,
+        "end": 5120
+      }
+    ],
+    "canonical_concept": "Réévaluer une difficulté nouvelle",
+    "context": "au point clinique convenu",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour préparer une réévaluation utile"
+    ],
+    "clinical_code": "6D36",
+    "clinical_diagnosis": "Trouble paraphilique impliquant un comportement solitaire ou des individus consentants"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/loubna-diagnostic-perimetre-risque": {
+    "character": "Loubna",
+    "character_id": "loubna",
+    "keywords": [
+      "Fondement du diagnostic",
+      "Risque circonscrit",
+      "Questions au professionnel"
+    ],
+    "character_keywords": [
+      "Trouble paraphilique impliquant un comportement solitaire ou des individus consentants",
+      "Souffrance et préférences",
+      "Consentement et limites",
+      "Accompagnement choisi",
+      "Retentissement quotidien"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "dc150877a2682483739c01e8c264fbb1dc2cc392811434788405905d844e256b",
+    "summary": "La chaise que Léonie, sa compagne, occupait lors de l’entretien partagé est libre. Loubna est venue seule, comme prévu, et ne sort que sa feuille de questions. Le carnet orange est resté à la maison avec les maquettes. Elle commence par dire que la conversation à trois l’a aidée à comprendre ce qu’elle pouvait demander à sa partenaire. Puis elle regarde une phrase qu’elle avait hésité à écrire : « Est-ce que mon diagnostic veut dire que je suis forcément dangereuse ? »\n\n[…]\n\nLoubna reformule la réponse : son diagnostic ne lui attribue pas tous les fondements possibles de la catégorie. Elle sait pourquoi sa souffrance a été retenue et à qui adresser une question nouvelle. Elle ne demande pas à Léonie de confirmer cette conclusion. En sortant, elle répond à Salomé qu’elle apportera le prototype imprimé à leur réunion. Ce rendez-vous portera sur les titres, les pages et ce qui reste incomplet. Le retard graphique devra être discuté pour lui-même.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "La chaise que Léonie, sa compagne, occupait lors de l’entretien partagé est libre. Loubna est venue seule, comme prévu, et ne sort que sa feuille de questions. Le carnet orange est resté à la maison avec les maquettes. Elle commence par dire que la conversation à trois l’a aidée à comprendre ce qu’elle pouvait demander à sa partenaire. Puis elle regarde une phrase qu’elle avait hésité à écrire : « Est-ce que mon diagnostic veut dire que je suis forcément dangereuse ? »",
+        "start": 2,
+        "end": 475
+      },
+      {
+        "quote": "Loubna reformule la réponse : son diagnostic ne lui attribue pas tous les fondements possibles de la catégorie. Elle sait pourquoi sa souffrance a été retenue et à qui adresser une question nouvelle. Elle ne demande pas à Léonie de confirmer cette conclusion. En sortant, elle répond à Salomé qu’elle apportera le prototype imprimé à leur réunion. Ce rendez-vous portera sur les titres, les pages et ce qui reste incomplet. Le retard graphique devra être discuté pour lui-même.",
+        "start": 4677,
+        "end": 5154
+      }
+    ],
+    "canonical_concept": "Le risque corporel a un périmètre",
+    "context": "en entretien individuel",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour poser une question de sécurité au bon interlocuteur"
+    ],
+    "clinical_code": "6D36",
+    "clinical_diagnosis": "Trouble paraphilique impliquant un comportement solitaire ou des individus consentants"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/loubna-fin-projet-continuite-soin": {
+    "character": "Loubna",
+    "character_id": "loubna",
+    "keywords": [
+      "Livrables réceptionnés",
+      "Continuité du soin",
+      "Projet suivant"
+    ],
+    "character_keywords": [
+      "Trouble paraphilique impliquant un comportement solitaire ou des individus consentants",
+      "Souffrance et préférences",
+      "Consentement et limites",
+      "Accompagnement choisi",
+      "Retentissement quotidien"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "e8ef222606ec01c1d78dd19c8f43b5058a12a6f78b0bdeb5624af2e0dbb3ef99",
+    "summary": "Lundi, Salomé a ouvert la version numérique avant l’arrivée de Loubna. Dans la petite salle d’exposition qu’elle dirige, l’écran de l’accueil affiche la page des horaires ; à côté, une pile du programme imprimé attend les premiers visiteurs. Salomé fait défiler le fichier, prend un exemplaire papier et compare les deux à voix haute : les titres, les dates, le plan de la salle. « Tout correspond. Et on lit les titres depuis l’autre bout de la pièce. » Loubna répond que les chuchotements imprimés ont été définitivement congédiés.\n\n[…]\n\nLéonie feuillette le programme debout dans l’entrée, puis s’assoit pour regarder le plan de la salle. « Ça a l’air simple, et je sais que ça ne l’était pas. » Loubna sourit. Elle n’explique pas davantage ; Léonie ne le demande pas. Elles dînent en parlant de la librairie, du pain trop cuit et d’un film à voir le week-end. Le lendemain, Loubna répond à la libraire : elle accepte l’affiche de rentrée, avec une première piste en grands caractères sur fond clair, et décline pour l’instant le catalogue. Elle fixe un délai qui laisse libres ses créneaux de suivi. Mercredi, elle se rend au rendez-vous avec Benali. Elle raconte la fin du projet, l’envie de rayer la séance, la nouvelle commande. Elles fixent la date du point suivant. Rien n’est clos sur le plan clinique, et Loubna n’attend pas de verdict. Elle a terminé ce qu’elle avait promis à la salle et garde l’accompagnement qu’elle a choisi.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Lundi, Salomé a ouvert la version numérique avant l’arrivée de Loubna. Dans la petite salle d’exposition qu’elle dirige, l’écran de l’accueil affiche la page des horaires ; à côté, une pile du programme imprimé attend les premiers visiteurs. Salomé fait défiler le fichier, prend un exemplaire papier et compare les deux à voix haute : les titres, les dates, le plan de la salle. « Tout correspond. Et on lit les titres depuis l’autre bout de la pièce. » Loubna répond que les chuchotements imprimés ont été définitivement congédiés.",
+        "start": 2,
+        "end": 535
+      },
+      {
+        "quote": "Léonie feuillette le programme debout dans l’entrée, puis s’assoit pour regarder le plan de la salle. « Ça a l’air simple, et je sais que ça ne l’était pas. » Loubna sourit. Elle n’explique pas davantage ; Léonie ne le demande pas. Elles dînent en parlant de la librairie, du pain trop cuit et d’un film à voir le week-end. Le lendemain, Loubna répond à la libraire : elle accepte l’affiche de rentrée, avec une première piste en grands caractères sur fond clair, et décline pour l’instant le catalogue. Elle fixe un délai qui laisse libres ses créneaux de suivi. Mercredi, elle se rend au rendez-vous avec Benali. Elle raconte la fin du projet, l’envie de rayer la séance, la nouvelle commande. Elles fixent la date du point suivant. Rien n’est clos sur le plan clinique, et Loubna n’attend pas de verdict. Elle a terminé ce qu’elle avait promis à la salle et garde l’accompagnement qu’elle a choisi.",
+        "start": 5207,
+        "end": 6108
+      }
+    ],
+    "canonical_concept": "Le projet se termine, le soin continue",
+    "context": "à la petite salle d’exposition puis à la maison",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour clore un projet sans fermer le suivi"
+    ],
+    "clinical_code": "6D36",
+    "clinical_diagnosis": "Trouble paraphilique impliquant un comportement solitaire ou des individus consentants"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/loubna-objectifs-soin-individualise": {
+    "character": "Loubna",
+    "character_id": "loubna",
+    "keywords": [
+      "Objectifs choisis",
+      "Soin individualisé",
+      "Respect de la sexualité"
+    ],
+    "character_keywords": [
+      "Trouble paraphilique impliquant un comportement solitaire ou des individus consentants",
+      "Souffrance et préférences",
+      "Consentement et limites",
+      "Accompagnement choisi",
+      "Retentissement quotidien"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "2b4b188c1313386dc04d3ed28ab3dafb6d52ce25b57805e96ec531cb16c43410",
+    "summary": "Dix jours après la consultation sur son sommeil, Loubna arrive au cabinet de la docteure Benali, la médecin qui la suit en santé sexuelle, avec sa feuille pliée en deux. Elle a gardé ce rendez-vous rapproché, n’a pas eu besoin d’appeler entre-temps et a préparé les dernières corrections du programme imprimé. Le numérique bénéficie du report accepté par Salomé, qui dirige la salle d’exposition. Cette répartition lui paraît plus honnête, mais une question lui manque encore : vers quoi le suivi est-il censé aller ?\n\n[…]\n\nAvant la fin du rendez-vous, Loubna écrit sur sa feuille ce qu’elles ont décidé : continuer à parler de sa souffrance et de ce qui bloque ses journées, garder un œil sur ses nuits, et lui laisser dire ce qui ne lui convient pas. Benali fixe le rendez-vous suivant dans deux semaines. Après le rendez-vous, Loubna remet le programme imprimé à Salomé. La responsable parcourt les pages et accepte cette version. Loubna sourit franchement. Le numérique reste à terminer, et la satisfaction de cette première remise n’a pas besoin de devenir une conclusion clinique.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Dix jours après la consultation sur son sommeil, Loubna arrive au cabinet de la docteure Benali, la médecin qui la suit en santé sexuelle, avec sa feuille pliée en deux. Elle a gardé ce rendez-vous rapproché, n’a pas eu besoin d’appeler entre-temps et a préparé les dernières corrections du programme imprimé. Le numérique bénéficie du report accepté par Salomé, qui dirige la salle d’exposition. Cette répartition lui paraît plus honnête, mais une question lui manque encore : vers quoi le suivi est-il censé aller ?",
+        "start": 2,
+        "end": 519
+      },
+      {
+        "quote": "Avant la fin du rendez-vous, Loubna écrit sur sa feuille ce qu’elles ont décidé : continuer à parler de sa souffrance et de ce qui bloque ses journées, garder un œil sur ses nuits, et lui laisser dire ce qui ne lui convient pas. Benali fixe le rendez-vous suivant dans deux semaines. Après le rendez-vous, Loubna remet le programme imprimé à Salomé. La responsable parcourt les pages et accepte cette version. Loubna sourit franchement. Le numérique reste à terminer, et la satisfaction de cette première remise n’a pas besoin de devenir une conclusion clinique.",
+        "start": 4634,
+        "end": 5196
+      }
+    ],
+    "canonical_concept": "Un soin individualisé sans normalisation",
+    "context": "au rendez-vous suivant",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour participer aux décisions de suivi"
+    ],
+    "clinical_code": "6D36",
+    "clinical_diagnosis": "Trouble paraphilique impliquant un comportement solitaire ou des individus consentants"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/loubna-partage-informations-vie-privee": {
+    "character": "Loubna",
+    "character_id": "loubna",
+    "keywords": [
+      "Vie privée",
+      "Disponibilité",
+      "Information utile"
+    ],
+    "character_keywords": [
+      "Trouble paraphilique impliquant un comportement solitaire ou des individus consentants",
+      "Souffrance et préférences",
+      "Consentement et limites",
+      "Accompagnement choisi",
+      "Retentissement quotidien"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "b329524f39098f6aa77a29dedc72e3d787317a0e5495e24bc866704893ba2352",
+    "summary": "Le programme imprimé est posé sur une étagère derrière Salomé, qui dirige la salle d’exposition et lui a commandé ce programme. Loubna le remarque pendant qu’elles parlent de la version numérique : il a déjà trouvé sa place dans la salle. Salomé demande à quel moment elle pourra ouvrir le fichier terminé. La question est pratique, sans sous-entendu. Loubna commence pourtant à préparer une explication sur son dernier rendez-vous, les questions posées, les suites convenues.\n\n[…]\n\nSalomé reçoit la date et la liste des dernières corrections. Le lendemain, Loubna et Léonie prennent le temps de parler comme elles l’avaient convenu. Loubna raconte surtout le programme posé dans la salle et le soulagement de ne plus devoir défendre une remise impossible. Léonie écoute, puis raconte aussi sa propre journée. Aucun compte rendu clinique n’est requis. Plus tard, Loubna range les notes de suivi séparément du carnet orange ; les maquettes pourront circuler sans emporter ce qu’elle a choisi de garder privé.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Le programme imprimé est posé sur une étagère derrière Salomé, qui dirige la salle d’exposition et lui a commandé ce programme. Loubna le remarque pendant qu’elles parlent de la version numérique : il a déjà trouvé sa place dans la salle. Salomé demande à quel moment elle pourra ouvrir le fichier terminé. La question est pratique, sans sous-entendu. Loubna commence pourtant à préparer une explication sur son dernier rendez-vous, les questions posées, les suites convenues.",
+        "start": 2,
+        "end": 478
+      },
+      {
+        "quote": "Salomé reçoit la date et la liste des dernières corrections. Le lendemain, Loubna et Léonie prennent le temps de parler comme elles l’avaient convenu. Loubna raconte surtout le programme posé dans la salle et le soulagement de ne plus devoir défendre une remise impossible. Léonie écoute, puis raconte aussi sa propre journée. Aucun compte rendu clinique n’est requis. Plus tard, Loubna range les notes de suivi séparément du carnet orange ; les maquettes pourront circuler sans emporter ce qu’elle a choisi de garder privé.",
+        "start": 4358,
+        "end": 4882
+      }
+    ],
+    "canonical_concept": "Partager sans devoir tout expliquer",
+    "context": "au travail puis à la maison",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour partager selon le besoin du moment"
+    ],
+    "clinical_code": "6D36",
+    "clinical_diagnosis": "Trouble paraphilique impliquant un comportement solitaire ou des individus consentants"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/loubna-partenaire-consentement-entretien": {
+    "character": "Loubna",
+    "character_id": "loubna",
+    "keywords": [
+      "Accord partagé",
+      "Limites relationnelles",
+      "Place de la partenaire"
+    ],
+    "character_keywords": [
+      "Trouble paraphilique impliquant un comportement solitaire ou des individus consentants",
+      "Souffrance et préférences",
+      "Consentement et limites",
+      "Accompagnement choisi",
+      "Retentissement quotidien"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "bd8c4807fa627e3371be7645913e52c88dd4fbb58bdf895fc26928faa64473f0",
+    "summary": "Léonie, sa compagne, sort deux assiettes du placard quand Loubna lui parle de son prochain rendez-vous avec la docteure Benali, la médecin qui la suit en santé sexuelle. « Benali a dit que nous pourrions avoir un moment ensemble. Enfin, si tu le veux. » Elle corrige sa première phrase parce qu’elle entend déjà ce qu’elle pourrait laisser croire : que l’entretien est décidé et qu’il ne manque plus qu’une accompagnatrice.\n\n[…]\n\nLa partie d’entretien a lieu le jeudi suivant, au cabinet. Benali commence par une question à chacune : « Vous êtes toujours d’accord pour parler seulement de vos soirées après les journées difficiles ? » Toutes deux répondent oui. Léonie dit qu’elle peut parfois écouter une journée difficile, mais pas être disponible à chaque retour. Loubna propose de demander avant de commencer. Elles essaient une phrase simple : « Est-ce que tu as de la place pour en parler maintenant ? » L’entretien se termine sans tâche de surveillance pour Léonie. Loubna conserve un temps individuel distinct pour une autre interrogation, sur ce que le diagnostic signifie ou non en matière de danger.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Léonie, sa compagne, sort deux assiettes du placard quand Loubna lui parle de son prochain rendez-vous avec la docteure Benali, la médecin qui la suit en santé sexuelle. « Benali a dit que nous pourrions avoir un moment ensemble. Enfin, si tu le veux. » Elle corrige sa première phrase parce qu’elle entend déjà ce qu’elle pourrait laisser croire : que l’entretien est décidé et qu’il ne manque plus qu’une accompagnatrice.",
+        "start": 2,
+        "end": 425
+      },
+      {
+        "quote": "La partie d’entretien a lieu le jeudi suivant, au cabinet. Benali commence par une question à chacune : « Vous êtes toujours d’accord pour parler seulement de vos soirées après les journées difficiles ? » Toutes deux répondent oui. Léonie dit qu’elle peut parfois écouter une journée difficile, mais pas être disponible à chaque retour. Loubna propose de demander avant de commencer. Elles essaient une phrase simple : « Est-ce que tu as de la place pour en parler maintenant ? » L’entretien se termine sans tâche de surveillance pour Léonie. Loubna conserve un temps individuel distinct pour une autre interrogation, sur ce que le diagnostic signifie ou non en matière de danger.",
+        "start": 4269,
+        "end": 4949
+      }
+    ],
+    "canonical_concept": "Consentement et place de la partenaire",
+    "context": "à la maison puis au cabinet",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour préparer un entretien partagé"
+    ],
+    "clinical_code": "6D36",
+    "clinical_diagnosis": "Trouble paraphilique impliquant un comportement solitaire ou des individus consentants"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/loubna-preoccupations-attention-interrompue": {
+    "character": "Loubna",
+    "character_id": "loubna",
+    "keywords": [
+      "Persistance",
+      "Attention interrompue",
+      "Tâche limitée"
+    ],
+    "character_keywords": [
+      "Trouble paraphilique impliquant un comportement solitaire ou des individus consentants",
+      "Souffrance et préférences",
+      "Consentement et limites",
+      "Accompagnement choisi",
+      "Retentissement quotidien"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "3d05f677bbc6ad197843bfbe5dd34b9bbde1f0080ac6d40daf8516d5d5dd35d4",
+    "summary": "Loubna déplace le bloc des horaires vers le bas, puis le remet à sa place. Le résultat lui paraît familier : elle vient de faire exactement la même chose. Dans son carnet orange, une flèche relie le titre au premier paragraphe. La consigne est simple, presque trop simple pour être écrite : vérifier l’espace entre les deux. Pourtant, elle ne sait plus si elle l’a déjà vérifié ou seulement décidé.\n\n[…]\n\nLoubna envoie la maquette avec une phrase sur les pages encore à reprendre. Salomé confirme qu’elle peut déjà regarder l’ordre des informations. Le lendemain matin, pendant le court appel convenu avec Benali, Loubna décrit les déplacements répétés du bloc et la fatigue de devoir retrouver sa tâche. Puis elle ajoute : « J’ai encore peur que le diagnostic dise surtout que je ne suis pas dans la norme. » Benali propose d’en parler au cabinet, à son rendez-vous de la semaine suivante. Le fichier a quitté la table ; la question, elle, a trouvé un rendez-vous.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Loubna déplace le bloc des horaires vers le bas, puis le remet à sa place. Le résultat lui paraît familier : elle vient de faire exactement la même chose. Dans son carnet orange, une flèche relie le titre au premier paragraphe. La consigne est simple, presque trop simple pour être écrite : vérifier l’espace entre les deux. Pourtant, elle ne sait plus si elle l’a déjà vérifié ou seulement décidé.",
+        "start": 2,
+        "end": 400
+      },
+      {
+        "quote": "Loubna envoie la maquette avec une phrase sur les pages encore à reprendre. Salomé confirme qu’elle peut déjà regarder l’ordre des informations. Le lendemain matin, pendant le court appel convenu avec Benali, Loubna décrit les déplacements répétés du bloc et la fatigue de devoir retrouver sa tâche. Puis elle ajoute : « J’ai encore peur que le diagnostic dise surtout que je ne suis pas dans la norme. » Benali propose d’en parler au cabinet, à son rendez-vous de la semaine suivante. Le fichier a quitté la table ; la question, elle, a trouvé un rendez-vous.",
+        "start": 4376,
+        "end": 4936
+      }
+    ],
+    "canonical_concept": "Persistance et attention interrompue",
+    "context": "à la table de travail",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour garder une trace de la tâche interrompue"
+    ],
+    "clinical_code": "6D36",
+    "clinical_diagnosis": "Trouble paraphilique impliquant un comportement solitaire ou des individus consentants"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/loubna-rejet-social-et-souffrance": {
+    "character": "Loubna",
+    "character_id": "loubna",
+    "keywords": [
+      "Rejet social",
+      "Souffrance évaluée",
+      "Respect des préférences"
+    ],
+    "character_keywords": [
+      "Trouble paraphilique impliquant un comportement solitaire ou des individus consentants",
+      "Souffrance et préférences",
+      "Consentement et limites",
+      "Accompagnement choisi",
+      "Retentissement quotidien"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "cc78fdc5bfc60c8912a3136a7f4a3fbd55e5daadda093a725f3ffe3efb42eff9",
+    "summary": "« On entend encore des gens dire que certaines choses ne sont pas normales. » Loubna laisse la phrase au bord du bureau, comme si elle ne savait pas à qui elle appartenait. La remarque était générale, entendue au détour d’une conversation ; personne ne connaissait son suivi. Elle l’a pourtant emportée jusque chez la docteure Benali, la médecin qui la suit en santé sexuelle. Depuis l’envoi de la maquette provisoire, c’est cette phrase qu’elle voulait reprendre au cabinet.\n\n[…]\n\nLoubna ressort avec une formulation moins écrasante : elle demande de l’aide pour sa souffrance, pas une autorisation d’avoir ses préférences. Avant de partir, elle demande si Léonie pourrait venir à une partie d’entretien, uniquement pour parler de leurs échanges après les journées difficiles. Benali répond que cela peut être discuté si elles le souhaitent toutes les deux. Loubna n’inscrit pas encore le nom de Léonie au rendez-vous. Elle devra d’abord lui demander ce qu’elle accepterait de partager.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "« On entend encore des gens dire que certaines choses ne sont pas normales. » Loubna laisse la phrase au bord du bureau, comme si elle ne savait pas à qui elle appartenait. La remarque était générale, entendue au détour d’une conversation ; personne ne connaissait son suivi. Elle l’a pourtant emportée jusque chez la docteure Benali, la médecin qui la suit en santé sexuelle. Depuis l’envoi de la maquette provisoire, c’est cette phrase qu’elle voulait reprendre au cabinet.",
+        "start": 2,
+        "end": 477
+      },
+      {
+        "quote": "Loubna ressort avec une formulation moins écrasante : elle demande de l’aide pour sa souffrance, pas une autorisation d’avoir ses préférences. Avant de partir, elle demande si Léonie pourrait venir à une partie d’entretien, uniquement pour parler de leurs échanges après les journées difficiles. Benali répond que cela peut être discuté si elles le souhaitent toutes les deux. Loubna n’inscrit pas encore le nom de Léonie au rendez-vous. Elle devra d’abord lui demander ce qu’elle accepterait de partager.",
+        "start": 4354,
+        "end": 4859
+      }
+    ],
+    "canonical_concept": "Le rejet social ne suffit pas",
+    "context": "au cabinet de Benali",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour clarifier ce qui motive le suivi"
+    ],
+    "clinical_code": "6D36",
+    "clinical_diagnosis": "Trouble paraphilique impliquant un comportement solitaire ou des individus consentants"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/loubna-repetition-controle-compulsion": {
+    "character": "Loubna",
+    "character_id": "loubna",
+    "keywords": [
+      "Répétition",
+      "Clarification clinique",
+      "Absence d’auto-étiquette"
+    ],
+    "character_keywords": [
+      "Trouble paraphilique impliquant un comportement solitaire ou des individus consentants",
+      "Souffrance et préférences",
+      "Consentement et limites",
+      "Accompagnement choisi",
+      "Retentissement quotidien"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "7ed552634701fad98e2380c4aa2611c4e2d450964d63cb42f707e995165ed8af",
+    "summary": "« Quand quelque chose revient autant dans ma tête, j’appelle ça compulsif. » Loubna vient de raconter à la docteure Benali, la médecin qui la suit en santé sexuelle, les deux remises décidées avec Salomé, la directrice de la salle d’exposition. Le travail lui semble mieux réparti, mais le mot qu’elle a employé reste entre elles. Elle voudrait savoir s’il ajoute quelque chose à ce qui est déjà connu, ou s’il complique seulement la conversation.\n\n[…]\n\nLoubna reformule : le retour des préoccupations ne lui permet pas de se donner un second diagnostic. Benali confirme la distinction, puis lui demande ce qu’elle voulait encore aborder. Loubna parle de son sommeil récemment perturbé et de sa baisse d’élan. Benali lui demande depuis quand ses nuits ont changé et ce qui lui coûte le plus le matin. Loubna répond : « Une dizaine de jours, je crois. C’est surtout le démarrage. » Benali lui propose un rendez-vous consacré à ces changements le mardi suivant. Loubna note la date avant de ranger sa feuille. Elle ne sait pas encore ce qui explique cette période, mais elle ne repart pas avec une question importante laissée au fond du sac.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "« Quand quelque chose revient autant dans ma tête, j’appelle ça compulsif. » Loubna vient de raconter à la docteure Benali, la médecin qui la suit en santé sexuelle, les deux remises décidées avec Salomé, la directrice de la salle d’exposition. Le travail lui semble mieux réparti, mais le mot qu’elle a employé reste entre elles. Elle voudrait savoir s’il ajoute quelque chose à ce qui est déjà connu, ou s’il complique seulement la conversation.",
+        "start": 2,
+        "end": 449
+      },
+      {
+        "quote": "Loubna reformule : le retour des préoccupations ne lui permet pas de se donner un second diagnostic. Benali confirme la distinction, puis lui demande ce qu’elle voulait encore aborder. Loubna parle de son sommeil récemment perturbé et de sa baisse d’élan. Benali lui demande depuis quand ses nuits ont changé et ce qui lui coûte le plus le matin. Loubna répond : « Une dizaine de jours, je crois. C’est surtout le démarrage. » Benali lui propose un rendez-vous consacré à ces changements le mardi suivant. Loubna note la date avant de ranger sa feuille. Elle ne sait pas encore ce qui explique cette période, mais elle ne repart pas avec une question importante laissée au fond du sac.",
+        "start": 4255,
+        "end": 4940
+      }
+    ],
+    "canonical_concept": "Répétition et contrôle ne se confondent pas",
+    "context": "pendant le suivi",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour décrire sans s’attribuer une étiquette"
+    ],
+    "clinical_code": "6D36",
+    "clinical_diagnosis": "Trouble paraphilique impliquant un comportement solitaire ou des individus consentants"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/loubna-retentissement-charge-professionnelle": {
+    "character": "Loubna",
+    "character_id": "loubna",
+    "keywords": [
+      "Charge réelle",
+      "Livraisons distinctes",
+      "Retentissement professionnel"
+    ],
+    "character_keywords": [
+      "Trouble paraphilique impliquant un comportement solitaire ou des individus consentants",
+      "Souffrance et préférences",
+      "Consentement et limites",
+      "Accompagnement choisi",
+      "Retentissement quotidien"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "1c6589f61c67f5621aa7c2aa11040276e6cd6b6c6457b50cc864985bc7713ce6",
+    "summary": "Salomé, qui dirige la petite salle d’exposition pour laquelle Loubna conçoit le programme, pose le prototype imprimé au milieu de la table. Elle le tourne vers la fenêtre, suit du doigt les horaires et sourit devant le titre. « Cette fois, je le vois sans chercher. » Loubna répond que les chuchotements imprimés ont enfin haussé la voix. Pendant quelques secondes, elle retrouve le plaisir précis d’avoir rendu une page plus facile à lire.\n\n[…]\n\nSalomé accepte de recevoir d’abord le programme imprimé, puis sa version numérique. Loubna inscrit les deux étapes dans son message de confirmation et repart avec des corrections clairement identifiées. Elle ne promet pas une semaine parfaite. Lors du suivi suivant, elle rapporte le retard et la place des préoccupations dans sa journée. En cherchant ses mots, elle dit : « Je qualifie tout cela de compulsif, parce que ça revient. Est-ce vraiment le bon mot ? » La question ouvre un autre échange, distinct de leur calendrier de livraison.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Salomé, qui dirige la petite salle d’exposition pour laquelle Loubna conçoit le programme, pose le prototype imprimé au milieu de la table. Elle le tourne vers la fenêtre, suit du doigt les horaires et sourit devant le titre. « Cette fois, je le vois sans chercher. » Loubna répond que les chuchotements imprimés ont enfin haussé la voix. Pendant quelques secondes, elle retrouve le plaisir précis d’avoir rendu une page plus facile à lire.",
+        "start": 2,
+        "end": 442
+      },
+      {
+        "quote": "Salomé accepte de recevoir d’abord le programme imprimé, puis sa version numérique. Loubna inscrit les deux étapes dans son message de confirmation et repart avec des corrections clairement identifiées. Elle ne promet pas une semaine parfaite. Lors du suivi suivant, elle rapporte le retard et la place des préoccupations dans sa journée. En cherchant ses mots, elle dit : « Je qualifie tout cela de compulsif, parce que ça revient. Est-ce vraiment le bon mot ? » La question ouvre un autre échange, distinct de leur calendrier de livraison.",
+        "start": 4306,
+        "end": 4847
+      }
+    ],
+    "canonical_concept": "Retentissement professionnel et charge réelle",
+    "context": "à la petite salle d’exposition",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour négocier une remise réaliste"
+    ],
+    "clinical_code": "6D36",
+    "clinical_diagnosis": "Trouble paraphilique impliquant un comportement solitaire ou des individus consentants"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/loubna-souffrance-preference-atypique": {
+    "character": "Loubna",
+    "character_id": "loubna",
+    "keywords": [
+      "Souffrance clinique",
+      "Préférence atypique",
+      "Demande de clarification"
+    ],
+    "character_keywords": [
+      "Trouble paraphilique impliquant un comportement solitaire ou des individus consentants",
+      "Souffrance et préférences",
+      "Consentement et limites",
+      "Accompagnement choisi",
+      "Retentissement quotidien"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "960d60b72fe6b91e0c8c91abca734234a1fb716ed27e8446fb326f2575ee8d83",
+    "summary": "Le titre est trop petit. Loubna l’a vu dès l’ouverture du fichier, et Salomé, qui dirige la salle et lui a commandé ce programme, l’a signalé dans son dernier message. Il suffirait de reprendre la hiérarchie de la page pour que le programme de la petite salle d’exposition respire un peu. Pourtant, le curseur reste près du même mot. Loubna pose la main sur son carnet orange, où elle a dessiné deux dispositions possibles, puis la retire sans en choisir aucune.\n\n[…]\n\nÀ quinze heures, Benali l’appelle comme prévu. Loubna lit la question écrite sur sa feuille. Benali répond : « Nous ne soignons pas une préférence. Nous travaillons sur la souffrance qui vous a amenée à consulter. » Loubna ne retrouve pas instantanément sa concentration. Elle peut cependant répondre à Salomé : elle proposera une première maquette provisoire, avec les titres repris, avant de finir l’ensemble. Salomé accepte ce point de départ. Le fichier reste ouvert sur une page incomplète, mais la date annoncée ne dépend plus d’une promesse d’aller bien.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Le titre est trop petit. Loubna l’a vu dès l’ouverture du fichier, et Salomé, qui dirige la salle et lui a commandé ce programme, l’a signalé dans son dernier message. Il suffirait de reprendre la hiérarchie de la page pour que le programme de la petite salle d’exposition respire un peu. Pourtant, le curseur reste près du même mot. Loubna pose la main sur son carnet orange, où elle a dessiné deux dispositions possibles, puis la retire sans en choisir aucune.",
+        "start": 2,
+        "end": 464
+      },
+      {
+        "quote": "À quinze heures, Benali l’appelle comme prévu. Loubna lit la question écrite sur sa feuille. Benali répond : « Nous ne soignons pas une préférence. Nous travaillons sur la souffrance qui vous a amenée à consulter. » Loubna ne retrouve pas instantanément sa concentration. Elle peut cependant répondre à Salomé : elle proposera une première maquette provisoire, avec les titres repris, avant de finir l’ensemble. Salomé accepte ce point de départ. Le fichier reste ouvert sur une page incomplète, mais la date annoncée ne dépend plus d’une promesse d’aller bien.",
+        "start": 4430,
+        "end": 4991
+      }
+    ],
+    "canonical_concept": "Souffrance clinique et préférence atypique",
+    "context": "devant la première maquette",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour clarifier une demande d’aide"
+    ],
+    "clinical_code": "6D36",
+    "clinical_diagnosis": "Trouble paraphilique impliquant un comportement solitaire ou des individus consentants"
   },
   "posts/comprendre-et-maitriser-ses-emotions/louise-concentration-facture-avel": {
     "character": "Louise",
@@ -42098,6 +43059,487 @@
     "clinical_code": "6C43.2",
     "clinical_diagnosis": "Dépendance aux opioïdes"
   },
+  "posts/comprendre-et-maitriser-ses-emotions/serge-coordination-decisions-soin": {
+    "character": "Serge",
+    "character_id": "serge",
+    "keywords": [
+      "Coordination",
+      "Risques iatrogènes",
+      "Accès aux soins"
+    ],
+    "character_keywords": [
+      "Trouble factice imposé à soi-même",
+      "Informations de santé fiables",
+      "Coordination des soins",
+      "Lien et demande d’aide",
+      "Participation et suivi durable"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "35b1011b1efbfcee4652a4fa3eb4365aed2c0ce91049e200ef1ed70b27b229ea",
+    "summary": "Le lundi suivant, Serge apporte une enveloppe épaisse au cabinet du docteur Armand, le médecin qui coordonne ses soins. Il y a réuni les documents demandés au rendez-vous précédent, sans y glisser les pages du calendrier des promenades. Il aimerait que l’enveloppe mette immédiatement de l’ordre dans la situation. Armand sort les feuilles une à une, les répartit en deux piles et note sur un papier ce qui manque encore.\n\n[…]\n\nAvant qu’il parte, Armand fixe le prochain point au cabinet dans trois semaines ; Serge l’inscrit dans son agenda, au lundi correspondant. Sur le trottoir, il appelle le premier service et annule le rendez-vous du mardi, maintenant que la décision a été prise entre médecins. Il glisse l’enveloppe, avec ses deux numéros au dos, dans le tiroir de son entrée. Le soir, il reprend les dates du groupe sans demander à Mireille, la coordinatrice des promenades, de décider lesquels de ses soins méritent une place dans son agenda. Une question d’Armand sur les informations antérieures, posée en relisant les feuilles, lui reste toutefois en tête.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Le lundi suivant, Serge apporte une enveloppe épaisse au cabinet du docteur Armand, le médecin qui coordonne ses soins. Il y a réuni les documents demandés au rendez-vous précédent, sans y glisser les pages du calendrier des promenades. Il aimerait que l’enveloppe mette immédiatement de l’ordre dans la situation. Armand sort les feuilles une à une, les répartit en deux piles et note sur un papier ce qui manque encore.",
+        "start": 2,
+        "end": 423
+      },
+      {
+        "quote": "Avant qu’il parte, Armand fixe le prochain point au cabinet dans trois semaines ; Serge l’inscrit dans son agenda, au lundi correspondant. Sur le trottoir, il appelle le premier service et annule le rendez-vous du mardi, maintenant que la décision a été prise entre médecins. Il glisse l’enveloppe, avec ses deux numéros au dos, dans le tiroir de son entrée. Le soir, il reprend les dates du groupe sans demander à Mireille, la coordinatrice des promenades, de décider lesquels de ses soins méritent une place dans son agenda. Une question d’Armand sur les informations antérieures, posée en relisant les feuilles, lui reste toutefois en tête.",
+        "start": 4651,
+        "end": 5294
+      }
+    ],
+    "canonical_concept": "Coordination et prévention des soins inutiles",
+    "context": "au cabinet avec les documents rassemblés",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour faciliter un suivi coordonné"
+    ],
+    "clinical_code": "6D50",
+    "clinical_diagnosis": "Trouble factice imposé à soi-même"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/serge-corriger-information-sante": {
+    "character": "Serge",
+    "character_id": "serge",
+    "keywords": [
+      "Information fiable",
+      "Responsabilité",
+      "Continuité du soin"
+    ],
+    "character_keywords": [
+      "Trouble factice imposé à soi-même",
+      "Informations de santé fiables",
+      "Coordination des soins",
+      "Lien et demande d’aide",
+      "Participation et suivi durable"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "90ac5293de5f101875f56e031f192bd9fc99a78842f7e87a6af1773167ad4dca",
+    "summary": "Le calendrier des promenades occupe presque toute la table. Serge a tracé des cases assez larges pour que les dates restent lisibles une fois le document affiché à la résidence. Mireille, qui coordonne le groupe de promenade de la résidence, lui demande l’inventaire des créneaux disponibles. Il connaît la réponse pour plusieurs semaines, mais son message reste ouvert. À côté du calendrier, un autre message attend sur son téléphone : celui qui demande un rendez-vous au cabinet du docteur Armand, le médecin qui coordonne ses soins. Il l’a réécrit trois fois sans l’envoyer.\n\n[…]\n\nArmand prend en charge la correction utile au suivi et précise le prochain contact. Serge le maintient. De retour chez lui, il écrit à Mireille qu’il lui enverra l’inventaire des dates le lendemain soir. Il n’ajoute pas le contenu de la consultation. Les cases du calendrier sont encore vides ; elles ont désormais une étape de travail, tandis que la question médicale reste suivie au cabinet.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Le calendrier des promenades occupe presque toute la table. Serge a tracé des cases assez larges pour que les dates restent lisibles une fois le document affiché à la résidence. Mireille, qui coordonne le groupe de promenade de la résidence, lui demande l’inventaire des créneaux disponibles. Il connaît la réponse pour plusieurs semaines, mais son message reste ouvert. À côté du calendrier, un autre message attend sur son téléphone : celui qui demande un rendez-vous au cabinet du docteur Armand, le médecin qui coordonne ses soins. Il l’a réécrit trois fois sans l’envoyer.",
+        "start": 2,
+        "end": 579
+      },
+      {
+        "quote": "Armand prend en charge la correction utile au suivi et précise le prochain contact. Serge le maintient. De retour chez lui, il écrit à Mireille qu’il lui enverra l’inventaire des dates le lendemain soir. Il n’ajoute pas le contenu de la consultation. Les cases du calendrier sont encore vides ; elles ont désormais une étape de travail, tandis que la question médicale reste suivie au cabinet.",
+        "start": 4453,
+        "end": 4846
+      }
+    ],
+    "canonical_concept": "Corriger une information trompeuse",
+    "context": "avant et pendant un rendez-vous médical",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour transmettre une correction au professionnel"
+    ],
+    "clinical_code": "6D50",
+    "clinical_diagnosis": "Trouble factice imposé à soi-même"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/serge-engagements-et-role-limite": {
+    "character": "Serge",
+    "character_id": "serge",
+    "keywords": [
+      "Retentissement",
+      "Engagements réalistes",
+      "Relais pratique"
+    ],
+    "character_keywords": [
+      "Trouble factice imposé à soi-même",
+      "Informations de santé fiables",
+      "Coordination des soins",
+      "Lien et demande d’aide",
+      "Participation et suivi durable"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "b5f9a6e637cd0639713aea0522f41962d55f2c6ac6cb17a25cc917e98ec5e5d8",
+    "summary": "Mireille, qui coordonne le groupe de promenade, a imprimé le brouillon que Serge lui a envoyé la veille au soir avec un mot : « presque complet ». Certaines cases contiennent deux créneaux possibles ; d’autres sont encore vides. Serge reconnaît son document avant même qu’elle le déplie. Après l’envoi des deux créneaux, il avait promis une version complète, puis repoussé la collecte des derniers horaires entre les démarches de soin, les rendez-vous et les messages qu’il hésitait à envoyer.\n\n[…]\n\nSerge prend la mise en page des dates confirmées. Un autre adulte volontaire accepte de recueillir les derniers horaires auprès du groupe, sous la coordination de Mireille. Le soir même, Serge envoie au groupe un nouveau fichier intitulé « Calendrier – version partielle 1 ». Contrairement au brouillon de la veille, il ne se dit pas presque complet : les cases ouvertes restent visibles au lieu d’être présentées comme achevées. Serge n’a pas tenu sa promesse initiale ; il dispose maintenant d’un rôle explicite et d’un relais réellement accepté pour poursuivre.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Mireille, qui coordonne le groupe de promenade, a imprimé le brouillon que Serge lui a envoyé la veille au soir avec un mot : « presque complet ». Certaines cases contiennent deux créneaux possibles ; d’autres sont encore vides. Serge reconnaît son document avant même qu’elle le déplie. Après l’envoi des deux créneaux, il avait promis une version complète, puis repoussé la collecte des derniers horaires entre les démarches de soin, les rendez-vous et les messages qu’il hésitait à envoyer.",
+        "start": 2,
+        "end": 495
+      },
+      {
+        "quote": "Serge prend la mise en page des dates confirmées. Un autre adulte volontaire accepte de recueillir les derniers horaires auprès du groupe, sous la coordination de Mireille. Le soir même, Serge envoie au groupe un nouveau fichier intitulé « Calendrier – version partielle 1 ». Contrairement au brouillon de la veille, il ne se dit pas presque complet : les cases ouvertes restent visibles au lieu d’être présentées comme achevées. Serge n’a pas tenu sa promesse initiale ; il dispose maintenant d’un rôle explicite et d’un relais réellement accepté pour poursuivre.",
+        "start": 4169,
+        "end": 4733
+      }
+    ],
+    "canonical_concept": "Retentissement sur les engagements",
+    "context": "à la résidence avec Mireille",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour rendre un engagement plus fiable"
+    ],
+    "clinical_code": "6D50",
+    "clinical_diagnosis": "Trouble factice imposé à soi-même"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/serge-fluctuation-retour-difficulte": {
+    "character": "Serge",
+    "character_id": "serge",
+    "keywords": [
+      "Fluctuations",
+      "Demande directe",
+      "Maintien du suivi"
+    ],
+    "character_keywords": [
+      "Trouble factice imposé à soi-même",
+      "Informations de santé fiables",
+      "Coordination des soins",
+      "Lien et demande d’aide",
+      "Participation et suivi durable"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "1d5effe1b8b9f7641337190999e2295c283131e03d00a6ed68e2213bea2cb30f",
+    "summary": "Le message de Mireille, qui coordonne le groupe de promenade, arrive à dix-huit heures. Le groupe de promenade a relu le calendrier. « Tout le monde le trouve très clair. Les deux cases grises sont confirmées. Il reste une seule chose : la sortie aux étangs est notée le samedi, alors qu’on avait choisi le dimanche. » Serge relit le message debout dans l’entrée, encore en veste. Il sourit. Il répond qu’il corrigera la date dans la soirée.\n\n[…]\n\nLe lendemain, à midi, Inès le rappelle comme elle l’a proposé en réponse à son message. L’échange dure un quart d’heure. Elle ne le félicite pas et ne lui fait pas de reproche. Elle lui demande ce qui s’est passé juste avant l’envie ; Serge parle du silence de l’appartement après le message de Mireille. Elle lui dit qu’elle en a informé Armand, comme convenu dans leur suivi, et qu’ils reprendront la question de la présence à la prochaine séance, maintenue à la même date. Elle rappelle qu’une gêne nouvelle passe toujours par le contact médical habituel. Le soir, Serge déplace la sortie aux étangs du samedi au dimanche, vérifie l’alignement des cases et renvoie le fichier à Mireille. Il sait que l’envie peut revenir. Cette fois, il a envoyé ce qui était vrai.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Le message de Mireille, qui coordonne le groupe de promenade, arrive à dix-huit heures. Le groupe de promenade a relu le calendrier. « Tout le monde le trouve très clair. Les deux cases grises sont confirmées. Il reste une seule chose : la sortie aux étangs est notée le samedi, alors qu’on avait choisi le dimanche. » Serge relit le message debout dans l’entrée, encore en veste. Il sourit. Il répond qu’il corrigera la date dans la soirée.",
+        "start": 2,
+        "end": 443
+      },
+      {
+        "quote": "Le lendemain, à midi, Inès le rappelle comme elle l’a proposé en réponse à son message. L’échange dure un quart d’heure. Elle ne le félicite pas et ne lui fait pas de reproche. Elle lui demande ce qui s’est passé juste avant l’envie ; Serge parle du silence de l’appartement après le message de Mireille. Elle lui dit qu’elle en a informé Armand, comme convenu dans leur suivi, et qu’ils reprendront la question de la présence à la prochaine séance, maintenue à la même date. Elle rappelle qu’une gêne nouvelle passe toujours par le contact médical habituel. Le soir, Serge déplace la sortie aux étangs du samedi au dimanche, vérifie l’alignement des cases et renvoie le fichier à Mireille. Il sait que l’envie peut revenir. Cette fois, il a envoyé ce qui était vrai.",
+        "start": 5101,
+        "end": 5868
+      }
+    ],
+    "canonical_concept": "Fluctuations et retour d’une difficulté",
+    "context": "chez lui, le soir de la relecture du calendrier",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour faire face au retour d’une difficulté"
+    ],
+    "clinical_code": "6D50",
+    "clinical_diagnosis": "Trouble factice imposé à soi-même"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/serge-inexplique-ne-signifie-pas-fabrique": {
+    "character": "Serge",
+    "character_id": "serge",
+    "keywords": [
+      "Incertitude",
+      "Diagnostic différentiel",
+      "Clarification"
+    ],
+    "character_keywords": [
+      "Trouble factice imposé à soi-même",
+      "Informations de santé fiables",
+      "Coordination des soins",
+      "Lien et demande d’aide",
+      "Participation et suivi durable"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "210c18b6263212a7caa0bdde9810db770ab3d36a22d54f63b3d7cab8627ae6d0",
+    "summary": "Serge a retrouvé le document en classant les papiers destinés au cabinet. Une conclusion ancienne y reste prudente, sans explication certaine. Il l’a lue plusieurs fois depuis la correction transmise à Armand. Peu à peu, il lui a donné un sens plus large : ce qui était resté inexpliqué devait peut-être prouver qu’il avait menti, et le diagnostic actuel venait confirmer tout le passé.\n\n[…]\n\nArmand explique que le diagnostic de Serge reste établi, mais que cette conclusion ancienne ne démontre pas une tromperie sur tout. Ils conviennent de réunir les informations utiles dans un suivi coordonné. Serge range la feuille avec les documents médicaux, sans ajouter sa propre conclusion dans la marge. Elle reste incertaine à l’endroit où elle l’était ; elle n’est plus chargée de raconter toute sa personne.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Serge a retrouvé le document en classant les papiers destinés au cabinet. Une conclusion ancienne y reste prudente, sans explication certaine. Il l’a lue plusieurs fois depuis la correction transmise à Armand. Peu à peu, il lui a donné un sens plus large : ce qui était resté inexpliqué devait peut-être prouver qu’il avait menti, et le diagnostic actuel venait confirmer tout le passé.",
+        "start": 2,
+        "end": 388
+      },
+      {
+        "quote": "Armand explique que le diagnostic de Serge reste établi, mais que cette conclusion ancienne ne démontre pas une tromperie sur tout. Ils conviennent de réunir les informations utiles dans un suivi coordonné. Serge range la feuille avec les documents médicaux, sans ajouter sa propre conclusion dans la marge. Elle reste incertaine à l’endroit où elle l’était ; elle n’est plus chargée de raconter toute sa personne.",
+        "start": 4265,
+        "end": 4679
+      }
+    ],
+    "canonical_concept": "Inexpliqué ne signifie pas fabriqué",
+    "context": "pendant un entretien médical",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour faire préciser un document incertain"
+    ],
+    "clinical_code": "6D50",
+    "clinical_diagnosis": "Trouble factice imposé à soi-même"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/serge-objectifs-soin-preuves-limitees": {
+    "character": "Serge",
+    "character_id": "serge",
+    "keywords": [
+      "Objectifs de soin",
+      "Limites des connaissances",
+      "Réévaluation"
+    ],
+    "character_keywords": [
+      "Trouble factice imposé à soi-même",
+      "Informations de santé fiables",
+      "Coordination des soins",
+      "Lien et demande d’aide",
+      "Participation et suivi durable"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "3ccee873c485c4b015fd86b3382b9d78ca609be5c3c631788bc3ebaeacc45c05",
+    "summary": "Huit jours après le point de suivi, Serge arrive à sa séance avec Inès, la psychologue, une feuille pliée en quatre dans la main. Il y a écrit sa question la veille, à la table de la cuisine, à côté de l’ordinateur où la mise en page du calendrier des promenades avance enfin, case après case. Il a souligné deux fois un mot.\n\n[…]\n\nSerge dit à Inès qu’il poursuit les séances autour des trois objectifs. Ils fixent une réévaluation dans deux mois pour voir ce qui aide, ce qui coince et ce qu’il faudrait changer. Le soir, il termine la mise en page : toutes les dates confirmées sont alignées, deux cases restent marquées « à vérifier par le volontaire ». Il écrit à Mireille, la coordinatrice du groupe de promenade : « Voici la version relisible du calendrier. Les deux cases en gris attendent encore une confirmation. » Avant d’envoyer, il a ajouté une ligne : « Je crois que ça va mieux. » Il l’efface. Ce document parle des promenades, pas de son trouble, et le terminer ne prouve pas que celui-ci a disparu. Il appuie sur « envoyer ». Certaines nuits sont un peu meilleures, d’autres non ; le point prévu dans une douzaine de jours reste à son agenda.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Huit jours après le point de suivi, Serge arrive à sa séance avec Inès, la psychologue, une feuille pliée en quatre dans la main. Il y a écrit sa question la veille, à la table de la cuisine, à côté de l’ordinateur où la mise en page du calendrier des promenades avance enfin, case après case. Il a souligné deux fois un mot.",
+        "start": 2,
+        "end": 327
+      },
+      {
+        "quote": "Serge dit à Inès qu’il poursuit les séances autour des trois objectifs. Ils fixent une réévaluation dans deux mois pour voir ce qui aide, ce qui coince et ce qu’il faudrait changer. Le soir, il termine la mise en page : toutes les dates confirmées sont alignées, deux cases restent marquées « à vérifier par le volontaire ». Il écrit à Mireille, la coordinatrice du groupe de promenade : « Voici la version relisible du calendrier. Les deux cases en gris attendent encore une confirmation. » Avant d’envoyer, il a ajouté une ligne : « Je crois que ça va mieux. » Il l’efface. Ce document parle des promenades, pas de son trouble, et le terminer ne prouve pas que celui-ci a disparu. Il appuie sur « envoyer ». Certaines nuits sont un peu meilleures, d’autres non ; le point prévu dans une douzaine de jours reste à son agenda.",
+        "start": 5208,
+        "end": 6034
+      }
+    ],
+    "canonical_concept": "Objectifs de soin et preuves limitées",
+    "context": "en séance avec Inès puis au cabinet d’Armand",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "Une réussite pratique est prise pour une preuve",
+      "3 techniques pour discuter d’un objectif de soin"
+    ],
+    "clinical_code": "6D50",
+    "clinical_diagnosis": "Trouble factice imposé à soi-même"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/serge-participation-ordinaire-suivi-durable": {
+    "character": "Serge",
+    "character_id": "serge",
+    "keywords": [
+      "Participation ordinaire",
+      "Engagements tenus",
+      "Suivi durable"
+    ],
+    "character_keywords": [
+      "Trouble factice imposé à soi-même",
+      "Informations de santé fiables",
+      "Coordination des soins",
+      "Lien et demande d’aide",
+      "Participation et suivi durable"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "85ab729b2952cbb160dcf18f6c82a4581d3e43e6f27d9f3247e9c8b5d8e023e3",
+    "summary": "Serge le connaît par cœur, mais il le regarde comme s’il le découvrait. Huit sorties, une case par date, la sortie aux étangs bien placée au dimanche. En dernière page, un petit tableau qu’ils ont mis au point ensemble : Mireille choisit les itinéraires et s’occupe de la sécurité ; le volontaire confirme les horaires de départ ; Serge tient à jour les dates et envoie un rappel au groupe la veille de chaque sortie. Si Serge ne peut pas envoyer un rappel, il prévient Mireille, et le volontaire s’en charge.\n\n[…]\n\nSerge répond à Claude : « Avec plaisir. Jeudi je suis pris à dix-sept heures, mais vendredi ça me va, si tu es libre. Prête-moi le livre, je lirai les premiers chapitres. » Il n’ajoute rien sur ses rendez-vous ; ce café sera pour le roman. Claude répond qu’il n’est pas sûr pour vendredi et qu’il lui redira. Serge note « café avec Claude ? » au crayon, avec le point d’interrogation. Le soir, il prépare le premier rappel de la saison et l’enregistre pour l’envoyer la veille de la première sortie. Le calendrier est livré, ses tâches et ses relais sont acceptés. Son suivi continue sans que personne au groupe ait à certifier quoi que ce soit. Il a une contribution concrète, une façon plus directe de demander de la compagnie, et il sait que certaines difficultés pourront encore revenir.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Serge le connaît par cœur, mais il le regarde comme s’il le découvrait. Huit sorties, une case par date, la sortie aux étangs bien placée au dimanche. En dernière page, un petit tableau qu’ils ont mis au point ensemble : Mireille choisit les itinéraires et s’occupe de la sécurité ; le volontaire confirme les horaires de départ ; Serge tient à jour les dates et envoie un rappel au groupe la veille de chaque sortie. Si Serge ne peut pas envoyer un rappel, il prévient Mireille, et le volontaire s’en charge.",
+        "start": 304,
+        "end": 813
+      },
+      {
+        "quote": "Serge répond à Claude : « Avec plaisir. Jeudi je suis pris à dix-sept heures, mais vendredi ça me va, si tu es libre. Prête-moi le livre, je lirai les premiers chapitres. » Il n’ajoute rien sur ses rendez-vous ; ce café sera pour le roman. Claude répond qu’il n’est pas sûr pour vendredi et qu’il lui redira. Serge note « café avec Claude ? » au crayon, avec le point d’interrogation. Le soir, il prépare le premier rappel de la saison et l’enregistre pour l’envoyer la veille de la première sortie. Le calendrier est livré, ses tâches et ses relais sont acceptés. Son suivi continue sans que personne au groupe ait à certifier quoi que ce soit. Il a une contribution concrète, une façon plus directe de demander de la compagnie, et il sait que certaines difficultés pourront encore revenir.",
+        "start": 4829,
+        "end": 5620
+      }
+    ],
+    "canonical_concept": "Participation ordinaire et suivi durable",
+    "context": "à l’accueil de la résidence, le jour où le calendrier est accepté",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour clore un projet sans fermer le suivi"
+    ],
+    "clinical_code": "6D50",
+    "clinical_diagnosis": "Trouble factice imposé à soi-même"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/serge-peur-blame-alliance": {
+    "character": "Serge",
+    "character_id": "serge",
+    "keywords": [
+      "Alliance de soin",
+      "Peur du blâme",
+      "Clarification"
+    ],
+    "character_keywords": [
+      "Trouble factice imposé à soi-même",
+      "Informations de santé fiables",
+      "Coordination des soins",
+      "Lien et demande d’aide",
+      "Participation et suivi durable"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "47854f5877d3f8344d6d2efecc443170afcc6a05845b467dcfcf3b8e1a7b7740",
+    "summary": "Le message de confirmation d’Inès, la psychologue qui le suit, est encore ouvert : rendez-vous mercredi à quinze heures. Serge a posé son téléphone à côté du calendrier, puis l’a repris. Il pourrait annuler l’entretien. Depuis le rendez-vous avec Armand, une question précise sur les informations corrigées revient dans son esprit. Il l’a entendue comme si le médecin cherchait à mesurer ce qu’il méritait désormais de recevoir.\n\n[…]\n\nL’entretien a lieu jusqu’au bout. Ils conviennent de deux choses. Si une question le blesse, Serge pourra le dire, en séance ou directement à Armand, plutôt que d’annuler le rendez-vous suivant. Et, avec son accord, Inès parlera à Armand de la peur qu’a suscitée sa question, sans rien changer à ce qui doit être vérifié. Serge note les deux points dans son agenda et garde le rendez-vous suivant. La gêne n’a pas disparu et il ne sait pas encore comment il recevra une prochaine question difficile. En sortant, il voit le message de Mireille, la coordinatrice du groupe : la version complète du calendrier, promise après l’envoi des deux créneaux, tarde. Ce retard a besoin d’une réponse sur les tâches, pas d’un procès médical au sein du groupe.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Le message de confirmation d’Inès, la psychologue qui le suit, est encore ouvert : rendez-vous mercredi à quinze heures. Serge a posé son téléphone à côté du calendrier, puis l’a repris. Il pourrait annuler l’entretien. Depuis le rendez-vous avec Armand, une question précise sur les informations corrigées revient dans son esprit. Il l’a entendue comme si le médecin cherchait à mesurer ce qu’il méritait désormais de recevoir.",
+        "start": 2,
+        "end": 430
+      },
+      {
+        "quote": "L’entretien a lieu jusqu’au bout. Ils conviennent de deux choses. Si une question le blesse, Serge pourra le dire, en séance ou directement à Armand, plutôt que d’annuler le rendez-vous suivant. Et, avec son accord, Inès parlera à Armand de la peur qu’a suscitée sa question, sans rien changer à ce qui doit être vérifié. Serge note les deux points dans son agenda et garde le rendez-vous suivant. La gêne n’a pas disparu et il ne sait pas encore comment il recevra une prochaine question difficile. En sortant, il voit le message de Mireille, la coordinatrice du groupe : la version complète du calendrier, promise après l’envoi des deux créneaux, tarde. Ce retard a besoin d’une réponse sur les tâches, pas d’un procès médical au sein du groupe.",
+        "start": 4370,
+        "end": 5117
+      }
+    ],
+    "canonical_concept": "Peur du blâme et alliance",
+    "context": "avant un entretien avec la psychologue",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour parler d’un échange de soin mal vécu"
+    ],
+    "clinical_code": "6D50",
+    "clinical_diagnosis": "Trouble factice imposé à soi-même"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/serge-role-malade-et-lien": {
+    "character": "Serge",
+    "character_id": "serge",
+    "keywords": [
+      "Rôle de malade",
+      "Besoin de présence",
+      "Demande directe"
+    ],
+    "character_keywords": [
+      "Trouble factice imposé à soi-même",
+      "Informations de santé fiables",
+      "Coordination des soins",
+      "Lien et demande d’aide",
+      "Participation et suivi durable"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "caf34056961ce45a117e81dbad0febd600d0b8164622bbc15f4adfab2c02cdb1",
+    "summary": "L’inventaire est arrivé chez Mireille à l’heure annoncée. Elle rappelle Serge pour choisir entre deux créneaux. Il a les dates sous les yeux, mais répond d’abord en parlant de son prochain contact avec Armand. Mireille l’écoute, puis revient au calendrier. Il cite encore une consultation, comme si la conversation ne pouvait rester longtemps sur ce qu’il prépare.\n\n[…]\n\nSerge demande à Claude s’il serait disponible pour un café. Il n’ajoute pas de prétexte médical. Son ami n’a pas encore répondu lorsqu’il renvoie à Mireille les deux créneaux possibles. Avec Inès, l’exploration de ce besoin reste ouverte. Une demande plus directe ne lui garantit pas une présence ; elle permet au moins que la réponse porte sur ce qu’il souhaite vraiment.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "L’inventaire est arrivé chez Mireille à l’heure annoncée. Elle rappelle Serge pour choisir entre deux créneaux. Il a les dates sous les yeux, mais répond d’abord en parlant de son prochain contact avec Armand. Mireille l’écoute, puis revient au calendrier. Il cite encore une consultation, comme si la conversation ne pouvait rester longtemps sur ce qu’il prépare.",
+        "start": 2,
+        "end": 366
+      },
+      {
+        "quote": "Serge demande à Claude s’il serait disponible pour un café. Il n’ajoute pas de prétexte médical. Son ami n’a pas encore répondu lorsqu’il renvoie à Mireille les deux créneaux possibles. Avec Inès, l’exploration de ce besoin reste ouverte. Une demande plus directe ne lui garantit pas une présence ; elle permet au moins que la réponse porte sur ce qu’il souhaite vraiment.",
+        "start": 4047,
+        "end": 4419
+      }
+    ],
+    "canonical_concept": "Place du rôle de malade",
+    "context": "pendant la préparation des créneaux",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour exprimer un besoin de présence"
+    ],
+    "clinical_code": "6D50",
+    "clinical_diagnosis": "Trouble factice imposé à soi-même"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/serge-sommeil-moral-evaluation": {
+    "character": "Serge",
+    "character_id": "serge",
+    "keywords": [
+      "Sommeil et moral",
+      "Évaluation séparée",
+      "Contact en cas de changement"
+    ],
+    "character_keywords": [
+      "Trouble factice imposé à soi-même",
+      "Informations de santé fiables",
+      "Coordination des soins",
+      "Lien et demande d’aide",
+      "Participation et suivi durable"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "de2e52a5a536b38f4312f26f18be154f864448d8f217c356e1c4beaaac184eb7",
+    "summary": "Le point de suivi a lieu un mardi matin, dans le bureau d’Inès, la psychologue qui accompagne Serge. Il arrive directement du rendez-vous complémentaire fixé la semaine précédente par le docteur Armand. Le docteur Armand, le médecin qui coordonne ses soins, s’est joint à eux pour la première demi-heure, comme ils l’avaient décidé à la fin de la consultation pour la gêne physique. Serge a apporté son agenda et, par habitude, une copie du calendrier des promenades pliée en trois. Il la laisse dans sa poche.\n\n[…]\n\nAvant la fin de l’entretien, Inès fixe un nouveau point dans trois semaines pour reprendre le sommeil et le moral. Sur une carte de rendez-vous, elle écrit le contact du cabinet à utiliser si son état change d’ici là et, en dessous, les numéros d’urgence. Armand, qui a reçu les éléments du rendez-vous complémentaire du matin, précise la suite médicale de la gêne évaluée la semaine précédente. Aucun diagnostic nouveau n’est posé ce jour-là : Serge repart avec une période à observer et une date. Le soir, il glisse la carte dans son portefeuille, puis répond enfin à Mireille : « Je reprends seulement la mise en page des dates confirmées. Je te l’envoie dans dix jours. » Il ne parle ni de ses nuits ni de l’entretien. Mireille répond : « Parfait, dix jours. » Il ne sait pas encore si ses nuits vont s’améliorer.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Le point de suivi a lieu un mardi matin, dans le bureau d’Inès, la psychologue qui accompagne Serge. Il arrive directement du rendez-vous complémentaire fixé la semaine précédente par le docteur Armand. Le docteur Armand, le médecin qui coordonne ses soins, s’est joint à eux pour la première demi-heure, comme ils l’avaient décidé à la fin de la consultation pour la gêne physique. Serge a apporté son agenda et, par habitude, une copie du calendrier des promenades pliée en trois. Il la laisse dans sa poche.",
+        "start": 2,
+        "end": 512
+      },
+      {
+        "quote": "Avant la fin de l’entretien, Inès fixe un nouveau point dans trois semaines pour reprendre le sommeil et le moral. Sur une carte de rendez-vous, elle écrit le contact du cabinet à utiliser si son état change d’ici là et, en dessous, les numéros d’urgence. Armand, qui a reçu les éléments du rendez-vous complémentaire du matin, précise la suite médicale de la gêne évaluée la semaine précédente. Aucun diagnostic nouveau n’est posé ce jour-là : Serge repart avec une période à observer et une date. Le soir, il glisse la carte dans son portefeuille, puis répond enfin à Mireille : « Je reprends seulement la mise en page des dates confirmées. Je te l’envoie dans dix jours. » Il ne parle ni de ses nuits ni de l’entretien. Mireille répond : « Parfait, dix jours. » Il ne sait pas encore si ses nuits vont s’améliorer.",
+        "start": 5617,
+        "end": 6434
+      }
+    ],
+    "canonical_concept": "Évaluer la santé psychique associée",
+    "context": "lors d’un point de suivi avec Inès et Armand",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour préparer l’évaluation d’un changement psychique"
+    ],
+    "clinical_code": "6D50",
+    "clinical_diagnosis": "Trouble factice imposé à soi-même"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/serge-soutien-sans-surveillance": {
+    "character": "Serge",
+    "character_id": "serge",
+    "keywords": [
+      "Soutien choisi",
+      "Limites",
+      "Relation ordinaire"
+    ],
+    "character_keywords": [
+      "Trouble factice imposé à soi-même",
+      "Informations de santé fiables",
+      "Coordination des soins",
+      "Lien et demande d’aide",
+      "Participation et suivi durable"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "e69424de6a2fd724b3e8e7d8438f624627dac1a4af66fb46788b78c2323000e3",
+    "summary": "Claude répond enfin à la proposition de café : il peut venir jeudi, pendant une heure. Serge inscrit l’horaire dans son agenda. Cette précision lui plaît. Il imagine déjà pouvoir lui parler du calendrier, puis des rendez-vous, et peut-être lui demander de l’accompagner plus souvent. Avoir quelqu’un qui vérifierait avec lui ce qu’il raconte lui paraît rassurant, même s’il ne sait pas exactement ce qu’il attend de cette vérification.\n\n[…]\n\nLe café se termine à l’heure convenue. Claude remet sa veste ; Serge ne lui demande pas de prolonger pour vérifier une dernière question médicale. Il garde cette question pour ses soignants. Ils ont aussi parlé du calendrier et d’une carte mal repliée. Ce moment ne résout pas le trouble, mais il existe sans compte rendu obligatoire ni examen de sincérité. Claude peut rester un ami avec une disponibilité limitée.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Claude répond enfin à la proposition de café : il peut venir jeudi, pendant une heure. Serge inscrit l’horaire dans son agenda. Cette précision lui plaît. Il imagine déjà pouvoir lui parler du calendrier, puis des rendez-vous, et peut-être lui demander de l’accompagner plus souvent. Avoir quelqu’un qui vérifierait avec lui ce qu’il raconte lui paraît rassurant, même s’il ne sait pas exactement ce qu’il attend de cette vérification.",
+        "start": 2,
+        "end": 437
+      },
+      {
+        "quote": "Le café se termine à l’heure convenue. Claude remet sa veste ; Serge ne lui demande pas de prolonger pour vérifier une dernière question médicale. Il garde cette question pour ses soignants. Ils ont aussi parlé du calendrier et d’une carte mal repliée. Ce moment ne résout pas le trouble, mais il existe sans compte rendu obligatoire ni examen de sincérité. Claude peut rester un ami avec une disponibilité limitée.",
+        "start": 4004,
+        "end": 4419
+      }
+    ],
+    "canonical_concept": "Soutien choisi sans surveillance",
+    "context": "lors d’un café avec Claude",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour demander un soutien limité"
+    ],
+    "clinical_code": "6D50",
+    "clinical_diagnosis": "Trouble factice imposé à soi-même"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/serge-symptome-nouveau-soins-legitimes": {
+    "character": "Serge",
+    "character_id": "serge",
+    "keywords": [
+      "Symptôme nouveau",
+      "Accès aux soins",
+      "Évaluation médicale"
+    ],
+    "character_keywords": [
+      "Trouble factice imposé à soi-même",
+      "Informations de santé fiables",
+      "Coordination des soins",
+      "Lien et demande d’aide",
+      "Participation et suivi durable"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "e2999257948bd216b1d23b2a4e93d562840558c6fbf4a1cc5b7c60b7eed842dc",
+    "summary": "La version partielle du calendrier attend sa correction sur la table. Serge vient de recevoir les derniers horaires, mais une gêne physique nouvelle l’empêche de se concentrer sur les cases. Il la remarque, attend quelques instants, puis prend son téléphone. Ce qui l’arrête n’est pas seulement l’incertitude sur ce qu’il ressent : il craint qu’un nouvel appel soit reçu comme une répétition du trouble factice.\n\n[…]\n\nL’évaluation a eu lieu et Armand précise la suite nécessaire sans attribuer automatiquement la gêne au trouble factice. Le point sur le sommeil et le moral est organisé. Serge informe Mireille, la coordinatrice du groupe, qu’il doit décaler la correction de mise en page ; il propose de reprendre après ce temps de soins. Il ne lui envoie pas les détails médicaux et ne lui demande pas de certifier qu’il avait raison de consulter.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "La version partielle du calendrier attend sa correction sur la table. Serge vient de recevoir les derniers horaires, mais une gêne physique nouvelle l’empêche de se concentrer sur les cases. Il la remarque, attend quelques instants, puis prend son téléphone. Ce qui l’arrête n’est pas seulement l’incertitude sur ce qu’il ressent : il craint qu’un nouvel appel soit reçu comme une répétition du trouble factice.",
+        "start": 2,
+        "end": 413
+      },
+      {
+        "quote": "L’évaluation a eu lieu et Armand précise la suite nécessaire sans attribuer automatiquement la gêne au trouble factice. Le point sur le sommeil et le moral est organisé. Serge informe Mireille, la coordinatrice du groupe, qu’il doit décaler la correction de mise en page ; il propose de reprendre après ce temps de soins. Il ne lui envoie pas les détails médicaux et ne lui demande pas de certifier qu’il avait raison de consulter.",
+        "start": 4459,
+        "end": 4890
+      }
+    ],
+    "canonical_concept": "Préserver les soins légitimes",
+    "context": "chez lui puis au cabinet",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour signaler un changement de santé"
+    ],
+    "clinical_code": "6D50",
+    "clinical_diagnosis": "Trouble factice imposé à soi-même"
+  },
   "posts/comprendre-et-maitriser-ses-emotions/solene-amenagement-horaires-deux-colonnes": {
     "character": "Solène",
     "character_id": "solene",
@@ -42696,6 +44138,486 @@
       "Techniques pour favoriser la réévaluation cognitive",
       "1. La technique de l'étiquetage affectif"
     ]
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/sylvain-changement-sommeil-bilan": {
+    "character": "Sylvain",
+    "character_id": "sylvain",
+    "keywords": [
+      "Frotteurisme",
+      "Sommeil modifié",
+      "Évaluation clinique"
+    ],
+    "character_keywords": [
+      "Frotteurisme",
+      "Préoccupations et détresse",
+      "Consentement et responsabilité",
+      "Prévention individualisée",
+      "Participation adaptée"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "a1253a76a1c9878c3f6d4330d0243addc47debba8c78464736dccec1a6816e4b",
+    "summary": "Le rendez-vous organisé après l’appel commence par ce que Sylvain voulait transmettre. Les préoccupations ont pris davantage de place et il a eu du mal à en parler. Il reprend aussi sa question sur la confidentialité ; la docteure Perrin lui explique le cadre applicable et ses limites avant qu’ils poursuivent l’entretien.\n\n[…]\n\nLa réévaluation a lieu et Sylvain repart avec des suites précisées par l’équipe. Aucun nouveau diagnostic n’est annoncé dans le récit. Il ne confirme pas sa présence à la promenade ; le carnet et les rendez-vous gardent chacun leur place. Il sait mieux ce qu’il doit transmettre, sans prétendre avoir trouvé à lui seul l’explication de ses nuits.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Le rendez-vous organisé après l’appel commence par ce que Sylvain voulait transmettre. Les préoccupations ont pris davantage de place et il a eu du mal à en parler. Il reprend aussi sa question sur la confidentialité ; la docteure Perrin lui explique le cadre applicable et ses limites avant qu’ils poursuivent l’entretien.",
+        "start": 2,
+        "end": 325
+      },
+      {
+        "quote": "La réévaluation a lieu et Sylvain repart avec des suites précisées par l’équipe. Aucun nouveau diagnostic n’est annoncé dans le récit. Il ne confirme pas sa présence à la promenade ; le carnet et les rendez-vous gardent chacun leur place. Il sait mieux ce qu’il doit transmettre, sans prétendre avoir trouvé à lui seul l’explication de ses nuits.",
+        "start": 4219,
+        "end": 4565
+      }
+    ],
+    "canonical_concept": "Un changement récent mérite son propre bilan",
+    "context": "au rendez-vous organisé après l’appel",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour présenter un changement de santé"
+    ],
+    "clinical_code": "6D34",
+    "clinical_diagnosis": "Frotteurisme"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/sylvain-consentement-portee-accord": {
+    "character": "Sylvain",
+    "character_id": "sylvain",
+    "keywords": [
+      "Frotteurisme",
+      "Consentement",
+      "Limites des accords"
+    ],
+    "character_keywords": [
+      "Frotteurisme",
+      "Préoccupations et détresse",
+      "Consentement et responsabilité",
+      "Prévention individualisée",
+      "Participation adaptée"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "c14194c5dcb6f67f41a7327a204194ecae59b8c6a35e7f09e52951b7d7181156",
+    "summary": "Maud partage un document pendant la réunion à distance. Les participants sont tous adultes ; chacun présente les images qu’il souhaite proposer au groupe. Sylvain garde le dossier vert près du clavier. Il attend son tour et entend Maud préciser que la remise des documents, les échanges pédagogiques et la présence à la promenade feront l’objet de décisions distinctes.\n\n[…]\n\nSylvain confirme à Maud qu’il prépare les six légendes. Il accepte qu’elle conserve l’organisation de la promenade et ne demande aucune confidence aux autres. Après la réunion, il sépare ses questions de soin des notes sur les images. Son inscription demeure réelle ; elle ne transforme pas les décisions encore ouvertes en autorisations déjà reçues.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Maud partage un document pendant la réunion à distance. Les participants sont tous adultes ; chacun présente les images qu’il souhaite proposer au groupe. Sylvain garde le dossier vert près du clavier. Il attend son tour et entend Maud préciser que la remise des documents, les échanges pédagogiques et la présence à la promenade feront l’objet de décisions distinctes.",
+        "start": 2,
+        "end": 371
+      },
+      {
+        "quote": "Sylvain confirme à Maud qu’il prépare les six légendes. Il accepte qu’elle conserve l’organisation de la promenade et ne demande aucune confidence aux autres. Après la réunion, il sépare ses questions de soin des notes sur les images. Son inscription demeure réelle ; elle ne transforme pas les décisions encore ouvertes en autorisations déjà reçues.",
+        "start": 4144,
+        "end": 4494
+      }
+    ],
+    "canonical_concept": "Le consentement garde une portée précise",
+    "context": "lors de la réunion pédagogique à distance",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour préciser ce qui est réellement convenu"
+    ],
+    "clinical_code": "6D34",
+    "clinical_diagnosis": "Frotteurisme"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/sylvain-decision-tenue-trouble-persistant": {
+    "character": "Sylvain",
+    "character_id": "sylvain",
+    "keywords": [
+      "Frotteurisme",
+      "Contrôle comportemental",
+      "Persistance du schéma"
+    ],
+    "character_keywords": [
+      "Frotteurisme",
+      "Préoccupations et détresse",
+      "Consentement et responsabilité",
+      "Prévention individualisée",
+      "Participation adaptée"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "25683d85fb2e2f2a19d4beeba3ca5cdbb026fed5150d261d5b19f1b8a0d2df0d",
+    "summary": "Sylvain pose deux nouvelles feuilles devant lui : sa note de suivi et la réponse de Maud sur les légendes. Il explique à la docteure Perrin qu’il n’a pas insisté pendant la réunion. Il a laissé la participation ouverte, respecté les limites annoncées et réservé ses questions de santé à l’équipe. Il voudrait que ce compte rendu se termine par une conclusion simple.\n\n[…]\n\nSylvain garde ses engagements et confirme le prochain contact. Les deux légendes prêtes rejoignent le dossier vert ; son commentaire personnel reste dans les notes de soin. La distinction ne le soulage pas immédiatement de toutes ses attentes. Elle lui permet néanmoins de poursuivre le carnet sans lui demander de décider si les soins ont encore un sens.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Sylvain pose deux nouvelles feuilles devant lui : sa note de suivi et la réponse de Maud sur les légendes. Il explique à la docteure Perrin qu’il n’a pas insisté pendant la réunion. Il a laissé la participation ouverte, respecté les limites annoncées et réservé ses questions de santé à l’équipe. Il voudrait que ce compte rendu se termine par une conclusion simple.",
+        "start": 2,
+        "end": 368
+      },
+      {
+        "quote": "Sylvain garde ses engagements et confirme le prochain contact. Les deux légendes prêtes rejoignent le dossier vert ; son commentaire personnel reste dans les notes de soin. La distinction ne le soulage pas immédiatement de toutes ses attentes. Elle lui permet néanmoins de poursuivre le carnet sans lui demander de décider si les soins ont encore un sens.",
+        "start": 3910,
+        "end": 4265
+      }
+    ],
+    "canonical_concept": "Une décision tenue ne supprime pas le trouble",
+    "context": "au suivi après la réunion",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour distinguer une décision de sa portée clinique"
+    ],
+    "clinical_code": "6D34",
+    "clinical_diagnosis": "Frotteurisme"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/sylvain-detresse-demande-soin": {
+    "character": "Sylvain",
+    "character_id": "sylvain",
+    "keywords": [
+      "Frotteurisme",
+      "Détresse",
+      "Demande de soin"
+    ],
+    "character_keywords": [
+      "Frotteurisme",
+      "Préoccupations et détresse",
+      "Consentement et responsabilité",
+      "Prévention individualisée",
+      "Participation adaptée"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "3c7b952b5d4ddd6e3bb62277c8db85a6eaad292510cc84b88dc407163e219245",
+    "summary": "Le dossier vert reste posé sur les genoux de Sylvain. Il l’a apporté par habitude, puis se demande pourquoi. La docteure Perrin n’a pas besoin de voir une feuille de hêtre pour comprendre comment il va. Pourtant, lorsqu’elle lui demande des nouvelles, il commence par la légende terminée. Il explique qu’il a choisi un titre sobre et qu’il prépare six images pour la formation.\n\n[…]\n\nSylvain décrit le retentissement à l’équipe et conserve le suivi. Il vérifie les modalités de contact avant de partir. Le dossier vert n’a pas été ouvert ; il pourra reprendre les images chez lui. Ce rendez-vous n’a pas effacé la détresse, mais elle n’est plus réduite au retard d’une légende.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Le dossier vert reste posé sur les genoux de Sylvain. Il l’a apporté par habitude, puis se demande pourquoi. La docteure Perrin n’a pas besoin de voir une feuille de hêtre pour comprendre comment il va. Pourtant, lorsqu’elle lui demande des nouvelles, il commence par la légende terminée. Il explique qu’il a choisi un titre sobre et qu’il prépare six images pour la formation.",
+        "start": 2,
+        "end": 379
+      },
+      {
+        "quote": "Sylvain décrit le retentissement à l’équipe et conserve le suivi. Il vérifie les modalités de contact avant de partir. Le dossier vert n’a pas été ouvert ; il pourra reprendre les images chez lui. Ce rendez-vous n’a pas effacé la détresse, mais elle n’est plus réduite au retard d’une légende.",
+        "start": 3989,
+        "end": 4282
+      }
+    ],
+    "canonical_concept": "La détresse mérite une demande de soin",
+    "context": "au rendez-vous avec la docteure Perrin",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour parler de sa détresse au suivi"
+    ],
+    "clinical_code": "6D34",
+    "clinical_diagnosis": "Frotteurisme"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/sylvain-fluctuation-revision-participation": {
+    "character": "Sylvain",
+    "character_id": "sylvain",
+    "keywords": [
+      "Frotteurisme",
+      "Fluctuation",
+      "Révision du projet"
+    ],
+    "character_keywords": [
+      "Frotteurisme",
+      "Préoccupations et détresse",
+      "Consentement et responsabilité",
+      "Prévention individualisée",
+      "Participation adaptée"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "b37ee7283734df4381e3c2333d2db80a1108fd6ec61286673fc6bb572271cf1e",
+    "summary": "Quelques jours avant la promenade, Sylvain rouvre la légende de la souche moussue. Les six images sont choisies et le carnet approche de sa fin. Pourtant, les préoccupations prennent de nouveau davantage de place et la détresse augmente. Il passe plusieurs fois sur la même ligne sans décider de la dernière correction. Il reconnaît ce décalage entre le travail presque achevé et ce qu’il éprouve.\n\n[…]\n\nMaud retire la présence physique de Sylvain du programme. Les six images restent attendues et le court échange à distance est confirmé séparément. Sylvain garde les soins et les contacts prévus. Il reste déçu de ne pas rejoindre la promenade, mais ne revient pas sur cette décision pour donner au carnet une fin plus flatteuse. Le travail et la prévention conservent chacun leurs conséquences.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Quelques jours avant la promenade, Sylvain rouvre la légende de la souche moussue. Les six images sont choisies et le carnet approche de sa fin. Pourtant, les préoccupations prennent de nouveau davantage de place et la détresse augmente. Il passe plusieurs fois sur la même ligne sans décider de la dernière correction. Il reconnaît ce décalage entre le travail presque achevé et ce qu’il éprouve.",
+        "start": 2,
+        "end": 399
+      },
+      {
+        "quote": "Maud retire la présence physique de Sylvain du programme. Les six images restent attendues et le court échange à distance est confirmé séparément. Sylvain garde les soins et les contacts prévus. Il reste déçu de ne pas rejoindre la promenade, mais ne revient pas sur cette décision pour donner au carnet une fin plus flatteuse. Le travail et la prévention conservent chacun leurs conséquences.",
+        "start": 4247,
+        "end": 4640
+      }
+    ],
+    "canonical_concept": "Une fluctuation conduit à réviser la participation",
+    "context": "quelques jours avant la promenade",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour appliquer une révision de participation"
+    ],
+    "clinical_code": "6D34",
+    "clinical_diagnosis": "Frotteurisme"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/sylvain-honte-parole-clinique": {
+    "character": "Sylvain",
+    "character_id": "sylvain",
+    "keywords": [
+      "Frotteurisme",
+      "Honte",
+      "Transmission clinique"
+    ],
+    "character_keywords": [
+      "Frotteurisme",
+      "Préoccupations et détresse",
+      "Consentement et responsabilité",
+      "Prévention individualisée",
+      "Participation adaptée"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "eda270a4c54d839207b22125cc5d571b7622fd21cd64fb28b8fae34a2887d1ec",
+    "summary": "« Semaine chargée. » Sylvain relit les deux mots notés pour l’appel convenu avec le cabinet. Ils sont vrais : le tableau a pris du retard et la mise en page du carnet a été reportée. Mais ils laissent de côté ce qui l’inquiète. Les préoccupations ont pris davantage de place. Même après l’ajustement de l’agenda, il a du mal à trouver comment le dire.\n\n[…]\n\nLe cabinet organise un rendez-vous adapté à la demande transmise. Sylvain en note la date et garde sa question sur la confidentialité pour la reprendre avec la médecin. Il écrit à Maud seulement une date réaliste de remise des légendes. La honte reste présente, mais elle n’a pas réduit l’appel aux deux mots du début.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "« Semaine chargée. » Sylvain relit les deux mots notés pour l’appel convenu avec le cabinet. Ils sont vrais : le tableau a pris du retard et la mise en page du carnet a été reportée. Mais ils laissent de côté ce qui l’inquiète. Les préoccupations ont pris davantage de place. Même après l’ajustement de l’agenda, il a du mal à trouver comment le dire.",
+        "start": 2,
+        "end": 353
+      },
+      {
+        "quote": "Le cabinet organise un rendez-vous adapté à la demande transmise. Sylvain en note la date et garde sa question sur la confidentialité pour la reprendre avec la médecin. Il écrit à Maud seulement une date réaliste de remise des légendes. La honte reste présente, mais elle n’a pas réduit l’appel aux deux mots du début.",
+        "start": 4141,
+        "end": 4459
+      }
+    ],
+    "canonical_concept": "La honte peut réduire la parole clinique",
+    "context": "avant l’appel au cabinet",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour préparer une transmission malgré la honte"
+    ],
+    "clinical_code": "6D34",
+    "clinical_diagnosis": "Frotteurisme"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/sylvain-preoccupations-tache-familiere": {
+    "character": "Sylvain",
+    "character_id": "sylvain",
+    "keywords": [
+      "Frotteurisme",
+      "Préoccupations persistantes",
+      "Retentissement"
+    ],
+    "character_keywords": [
+      "Frotteurisme",
+      "Préoccupations et détresse",
+      "Consentement et responsabilité",
+      "Prévention individualisée",
+      "Participation adaptée"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "1c4c63ef155e4545aa75154f6e31fe1367c7b6a377492aab722e6608e6b13453",
+    "summary": "La feuille de hêtre occupe presque toute l’image. Sylvain aime la lumière terne qui laisse voir les nervures sans leur donner un air de révélation. Il a écrit « Après la pluie » sur le dossier vert. Le carnet qu’il prépare pour la promenade du groupe adulte de sa formation réunira six images choisies parmi ses photographies de végétaux déjà prises, et cette feuille de hêtre l’ouvrira. Aucune personne ne figure sur les images. Il lui reste à choisir les autres et à rédiger les légendes.\n\n[…]\n\nSylvain termine seulement la légende du hêtre. Il écrit à Maud, qui anime sa formation de photographie et coordonne la promenade du groupe adulte, qu’il prépare six images, sans confirmer sa présence à la promenade. La note destinée au suivi reste à part. Le dossier vert se referme sur une petite avancée réelle ; les préoccupations ne se sont pas effacées avec le dernier mot.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "La feuille de hêtre occupe presque toute l’image. Sylvain aime la lumière terne qui laisse voir les nervures sans leur donner un air de révélation. Il a écrit « Après la pluie » sur le dossier vert. Le carnet qu’il prépare pour la promenade du groupe adulte de sa formation réunira six images choisies parmi ses photographies de végétaux déjà prises, et cette feuille de hêtre l’ouvrira. Aucune personne ne figure sur les images. Il lui reste à choisir les autres et à rédiger les légendes.",
+        "start": 2,
+        "end": 492
+      },
+      {
+        "quote": "Sylvain termine seulement la légende du hêtre. Il écrit à Maud, qui anime sa formation de photographie et coordonne la promenade du groupe adulte, qu’il prépare six images, sans confirmer sa présence à la promenade. La note destinée au suivi reste à part. Le dossier vert se referme sur une petite avancée réelle ; les préoccupations ne se sont pas effacées avec le dernier mot.",
+        "start": 4030,
+        "end": 4408
+      }
+    ],
+    "canonical_concept": "Un schéma persiste malgré la tâche",
+    "context": "chez lui devant les photographies",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour préparer le suivi pendant une tâche difficile"
+    ],
+    "clinical_code": "6D34",
+    "clinical_diagnosis": "Frotteurisme"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/sylvain-prevention-decisions-effectives": {
+    "character": "Sylvain",
+    "character_id": "sylvain",
+    "keywords": [
+      "Frotteurisme",
+      "Prévention individualisée",
+      "Décisions concrètes"
+    ],
+    "character_keywords": [
+      "Frotteurisme",
+      "Préoccupations et détresse",
+      "Consentement et responsabilité",
+      "Prévention individualisée",
+      "Participation adaptée"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "dc8e96ce0f5995866b94b355a5135fe4c77d3ba57f9682ffe385a1a3a35f5a9d",
+    "summary": "Sylvain avait écrit « faire attention » en haut de sa note. Au rendez-vous, la formule lui paraît moins claire qu’elle ne l’était chez lui. Elle dit son intention, mais pas les décisions dont il a besoin. Depuis la conversation avec Karim, il sait qu’un appel amical ne peut pas tenir lieu de plan. Il apporte donc à l’équipe ses questions sur le projet et sur les modalités déjà discutées.\n\n[…]\n\nMaud accepte la remise des six images et un court échange à distance sur les légendes. Sylvain note cet accord séparément de sa présence physique, toujours conditionnelle. Karim n’est inscrit comme garant d’aucune de ces décisions. Le carnet peut maintenant servir au groupe même si la modalité de participation change ; cette possibilité existe dans l’organisation, pas seulement dans ses intentions.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Sylvain avait écrit « faire attention » en haut de sa note. Au rendez-vous, la formule lui paraît moins claire qu’elle ne l’était chez lui. Elle dit son intention, mais pas les décisions dont il a besoin. Depuis la conversation avec Karim, il sait qu’un appel amical ne peut pas tenir lieu de plan. Il apporte donc à l’équipe ses questions sur le projet et sur les modalités déjà discutées.",
+        "start": 2,
+        "end": 392
+      },
+      {
+        "quote": "Maud accepte la remise des six images et un court échange à distance sur les légendes. Sylvain note cet accord séparément de sa présence physique, toujours conditionnelle. Karim n’est inscrit comme garant d’aucune de ces décisions. Le carnet peut maintenant servir au groupe même si la modalité de participation change ; cette possibilité existe dans l’organisation, pas seulement dans ses intentions.",
+        "start": 4423,
+        "end": 4824
+      }
+    ],
+    "canonical_concept": "La prévention exige des décisions effectives",
+    "context": "pendant la préparation du projet",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour rendre les décisions préventives effectives"
+    ],
+    "clinical_code": "6D34",
+    "clinical_diagnosis": "Frotteurisme"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/sylvain-projet-accompli-suivi-ouvert": {
+    "character": "Sylvain",
+    "character_id": "sylvain",
+    "keywords": [
+      "Frotteurisme",
+      "Participation adaptée",
+      "Continuité du soin"
+    ],
+    "character_keywords": [
+      "Frotteurisme",
+      "Préoccupations et détresse",
+      "Consentement et responsabilité",
+      "Prévention individualisée",
+      "Participation adaptée"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "e6ce709b2175c34084125806304dd5d39ad584f408e5b450210fe9cb4bb6e8be",
+    "summary": "Sylvain vérifie le titre du fichier avant de l’envoyer à Maud : Après la pluie. Les six images sont dans l’ordre prévu, du hêtre à la souche moussue. Il regarde encore la première légende, puis transmet le carnet. La fenêtre de l’échange à distance s’ouvre à l’heure convenue. Il est chez lui ; sa présence à la promenade a été retirée du programme et cette décision demeure.\n\n[…]\n\nMaud confirme la réception du carnet de six images pour le groupe adulte et son utilisation comme support pédagogique. Sylvain termine l’échange et ferme le dossier vert. Il ne rejoint pas la promenade. Son rendez-vous reste prévu. Sur une feuille de travail, il note une idée de série sur les arbres en hiver, sans s’inscrire à une nouvelle sortie ni retirer les limites convenues.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Sylvain vérifie le titre du fichier avant de l’envoyer à Maud : Après la pluie. Les six images sont dans l’ordre prévu, du hêtre à la souche moussue. Il regarde encore la première légende, puis transmet le carnet. La fenêtre de l’échange à distance s’ouvre à l’heure convenue. Il est chez lui ; sa présence à la promenade a été retirée du programme et cette décision demeure.",
+        "start": 2,
+        "end": 377
+      },
+      {
+        "quote": "Maud confirme la réception du carnet de six images pour le groupe adulte et son utilisation comme support pédagogique. Sylvain termine l’échange et ferme le dossier vert. Il ne rejoint pas la promenade. Son rendez-vous reste prévu. Sur une feuille de travail, il note une idée de série sur les arbres en hiver, sans s’inscrire à une nouvelle sortie ni retirer les limites convenues.",
+        "start": 4062,
+        "end": 4444
+      }
+    ],
+    "canonical_concept": "Un projet accompli laisse le suivi ouvert",
+    "context": "chez lui lors de la remise du carnet",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour achever un projet sans effacer le suivi"
+    ],
+    "clinical_code": "6D34",
+    "clinical_diagnosis": "Frotteurisme"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/sylvain-retentissement-professionnel-ajustement": {
+    "character": "Sylvain",
+    "character_id": "sylvain",
+    "keywords": [
+      "Frotteurisme",
+      "Retentissement professionnel",
+      "Organisation du travail"
+    ],
+    "character_keywords": [
+      "Frotteurisme",
+      "Préoccupations et détresse",
+      "Consentement et responsabilité",
+      "Prévention individualisée",
+      "Participation adaptée"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "d6ee54df0417c9ac0b0204434bc98938d8e899772b1edafa1a99202eb3e8f56c",
+    "summary": "Le tableau de contrôle devait être transmis en fin de matinée. Sylvain regarde les lignes encore incomplètes avant d’ouvrir le message de sa responsable. Il est agent de contrôle qualité dans l’atelier depuis assez longtemps pour savoir qu’un document presque terminé ne peut pas être présenté comme complet. Les préoccupations liées au trouble ont ralenti sa rédaction ; il a plusieurs fois perdu le fil en passant d’une information à l’autre.\n\n[…]\n\nLa responsable accepte la remise répartie du tableau et maintient les vérifications requises. Sylvain note les étapes convenues. Il demande ensuite à Maud de reporter la mise en page facultative du carnet ; elle accepte et garde la préparation des légendes comme priorité. L’agenda est moins rempli, mais il reste à parler au cabinet de ce que cette journée lui a coûté.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Le tableau de contrôle devait être transmis en fin de matinée. Sylvain regarde les lignes encore incomplètes avant d’ouvrir le message de sa responsable. Il est agent de contrôle qualité dans l’atelier depuis assez longtemps pour savoir qu’un document presque terminé ne peut pas être présenté comme complet. Les préoccupations liées au trouble ont ralenti sa rédaction ; il a plusieurs fois perdu le fil en passant d’une information à l’autre.",
+        "start": 2,
+        "end": 446
+      },
+      {
+        "quote": "La responsable accepte la remise répartie du tableau et maintient les vérifications requises. Sylvain note les étapes convenues. Il demande ensuite à Maud de reporter la mise en page facultative du carnet ; elle accepte et garde la préparation des légendes comme priorité. L’agenda est moins rempli, mais il reste à parler au cabinet de ce que cette journée lui a coûté.",
+        "start": 4253,
+        "end": 4623
+      }
+    ],
+    "canonical_concept": "Le retentissement professionnel demande un ajustement",
+    "context": "à l’atelier d’emballage",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour ajuster une tâche devenue difficile"
+    ],
+    "clinical_code": "6D34",
+    "clinical_diagnosis": "Frotteurisme"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/sylvain-soin-individualise-sans-garantie": {
+    "character": "Sylvain",
+    "character_id": "sylvain",
+    "keywords": [
+      "Frotteurisme",
+      "Décision de soin",
+      "Incertitudes"
+    ],
+    "character_keywords": [
+      "Frotteurisme",
+      "Préoccupations et détresse",
+      "Consentement et responsabilité",
+      "Prévention individualisée",
+      "Participation adaptée"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "6c7d2624fa017b8112ac2c40c1d9a7b850bfbedd1258c36fa8df7fe1ec07be65",
+    "summary": "Au point suivant, Sylvain a apporté une liste de questions. Il en a écrit trois, puis ajouté la date de la promenade au bas de la page. Il regarde cette date avant même de commencer. Les suites discutées au dernier rendez-vous lui ont donné des repères, mais il voudrait maintenant une réponse qui ferme toute incertitude.\n\n[…]\n\nSylvain confirme la poursuite du suivi et la prochaine étape. Chez lui, il termine la sélection des six images : le hêtre ouvre le carnet et la souche moussue le ferme. Il ne donne à cette sélection aucune valeur de décision clinique. Le dossier vert contient désormais un ensemble cohérent ; les questions de soin restent dans leur propre cadre.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Au point suivant, Sylvain a apporté une liste de questions. Il en a écrit trois, puis ajouté la date de la promenade au bas de la page. Il regarde cette date avant même de commencer. Les suites discutées au dernier rendez-vous lui ont donné des repères, mais il voudrait maintenant une réponse qui ferme toute incertitude.",
+        "start": 2,
+        "end": 324
+      },
+      {
+        "quote": "Sylvain confirme la poursuite du suivi et la prochaine étape. Chez lui, il termine la sélection des six images : le hêtre ouvre le carnet et la souche moussue le ferme. Il ne donne à cette sélection aucune valeur de décision clinique. Le dossier vert contient désormais un ensemble cohérent ; les questions de soin restent dans leur propre cadre.",
+        "start": 4117,
+        "end": 4463
+      }
+    ],
+    "canonical_concept": "Le soin se choisit sans garantie totale",
+    "context": "lors du point de suivi suivant",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour discuter une décision de soin"
+    ],
+    "clinical_code": "6D34",
+    "clinical_diagnosis": "Frotteurisme"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/sylvain-soutien-limite-responsabilite": {
+    "character": "Sylvain",
+    "character_id": "sylvain",
+    "keywords": [
+      "Frotteurisme",
+      "Soutien choisi",
+      "Limites relationnelles"
+    ],
+    "character_keywords": [
+      "Frotteurisme",
+      "Préoccupations et détresse",
+      "Consentement et responsabilité",
+      "Prévention individualisée",
+      "Participation adaptée"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "cc063f3a262a5c6814abf4937fe505b746283def50811445aec2e2de1efcc043",
+    "summary": "Les six images sont alignées sur la table de Sylvain quand Karim l’appelle. Son ami demande si la sélection avance. Sylvain lui répond qu’elle est terminée, puis parle de la promenade dont sa présence reste conditionnelle. Il aimerait moins se sentir seul devant les décisions qui l’attendent. La demande lui semble simple lorsqu’il la formule : Karim pourrait-il vérifier chaque soir que tout va bien ?\n\n[…]\n\nIls fixent un appel limité, sans obligation de passer en revue chaque journée. Sylvain vérifie ensuite avec l’équipe les contacts à utiliser lorsque Karim n’est pas disponible. Il n’efface pas sa déception, mais ne demande plus à son ami de la résoudre en acceptant la surveillance. La sélection du carnet reste une nouvelle qu’il pourra partager, pas un rapport à faire approuver.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Les six images sont alignées sur la table de Sylvain quand Karim l’appelle. Son ami demande si la sélection avance. Sylvain lui répond qu’elle est terminée, puis parle de la promenade dont sa présence reste conditionnelle. Il aimerait moins se sentir seul devant les décisions qui l’attendent. La demande lui semble simple lorsqu’il la formule : Karim pourrait-il vérifier chaque soir que tout va bien ?",
+        "start": 2,
+        "end": 405
+      },
+      {
+        "quote": "Ils fixent un appel limité, sans obligation de passer en revue chaque journée. Sylvain vérifie ensuite avec l’équipe les contacts à utiliser lorsque Karim n’est pas disponible. Il n’efface pas sa déception, mais ne demande plus à son ami de la résoudre en acceptant la surveillance. La sélection du carnet reste une nouvelle qu’il pourra partager, pas un rapport à faire approuver.",
+        "start": 4072,
+        "end": 4453
+      }
+    ],
+    "canonical_concept": "Le soutien ne transfère pas la responsabilité",
+    "context": "pendant un échange avec Karim",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour garder un soutien réellement choisi"
+    ],
+    "clinical_code": "6D34",
+    "clinical_diagnosis": "Frotteurisme"
   },
   "posts/comprendre-et-maitriser-ses-emotions/technique-rain-seul-face-a-soi-meme": {
     "character": "Adrien",

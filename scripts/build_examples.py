@@ -168,8 +168,10 @@ def build(write=True):
     article_topics = json.loads((ROOT / 'data/parcours_topics.json').read_text())
     # Editorial links belong to the public story, never to its reader. Only
     # reviewed rows from the complete pack can add controlled concept IDs.
-    pack_path = ROOT / 'data/editorial_pack_v10.json'
-    pack_rows = {row['path']: row for row in json.loads(pack_path.read_text())['rows']} if pack_path.exists() else {}
+    pack_rows = {}
+    for pack_path in sorted((ROOT / 'data').glob('editorial_pack_v*.json')):
+        for row in json.loads(pack_path.read_text())['rows']:
+            pack_rows[row['path']] = row
     pattern_ids = {row['id'] for row in json.loads((ROOT / 'data/psychology_catalog.json').read_text())['patterns']}
     coverage_rows = {}
     coverage_pairs = set()
@@ -191,12 +193,20 @@ def build(write=True):
         relative = path.relative_to(ROOT / 'content').with_suffix('')
         slug = meta.get('slug', path.stem)
         metadata = extractive_metadata(body, meta)
-        if meta.get('editorial_pack') == 'psychology-v10':
+        if str(meta.get('editorial_pack', '')).startswith('psychology-v'):
             reviewed = pack_rows.get(path.relative_to(ROOT).as_posix())
-            if not reviewed or reviewed['slug'] != slug or set(reviewed['pattern_ids']) - pattern_ids:
+            if not reviewed or reviewed['slug'] != slug or set(reviewed.get('pattern_ids', [])) - pattern_ids:
                 raise ValueError('Missing or invalid editorial concept links: ' + str(path))
-            metadata['pattern_ids'] = list(dict.fromkeys(reviewed['pattern_ids']))
-            metadata['pattern_source'] = 'editorial_pack_v10_reviewed_story'
+            if meta['editorial_pack'] == 'psychology-v10' and not reviewed.get('pattern_ids'):
+                raise ValueError('Missing or invalid editorial concept links: ' + str(path))
+            # Later packs may cover concepts absent from the internal catalogue;
+            # they add pattern IDs only when the reviewed row lists some.
+            if reviewed.get('pattern_ids'):
+                metadata['pattern_ids'] = list(dict.fromkeys(reviewed['pattern_ids']))
+                # Same reviewed-story token for every psychology pack: the journal's
+                # recommendation filter (journal/src/recommendations.mjs) accepts it.
+                metadata['pattern_source'] = 'editorial_pack_v10_reviewed_story'
+        pack_linked = metadata.get('pattern_source') == 'editorial_pack_v10_reviewed_story'
         for reviewed in coverage_rows.get(relative.as_posix(), []):
             if (reviewed['source_body_sha256'] != metadata['content_hash']
                     or any(not item.get('quote') or body[item['start']:item['end']] != item['quote']
@@ -205,7 +215,7 @@ def build(write=True):
             metadata.setdefault('pattern_ids', []).append(reviewed['pattern_id'])
             metadata['pattern_ids'] = list(dict.fromkeys(metadata['pattern_ids']))
             metadata['pattern_source'] = ('editorial_pack_v10_and_coverage_reviewed_story'
-                                          if meta.get('editorial_pack') == 'psychology-v10'
+                                          if pack_linked
                                           else 'psychology_coverage_reviewed_story')
             reviewed_articles.add(relative.as_posix())
         if meta.get('clinical_code'):

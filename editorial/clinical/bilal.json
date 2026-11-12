@@ -1,0 +1,1263 @@
+{
+  "character_id": "bilal",
+  "bio": "Bilal, 54 ans, est sculpteur sur bois et reprend l’atelier qu’il partage avec son associée Martine après un problème de santé évalué. Son trouble amnésique est déjà diagnostiqué : les informations nouvelles lui échappent alors que ses savoirs anciens du métier restent disponibles. Il construit avec six habitants un banc collectif pour le jardin de la maison de quartier. Avec son équipe de réadaptation, il teste des façons de garder les décisions visibles, apprend à dire quand il lui faut un rappel écrit et choisit les tâches qu’il délègue.",
+  "profile_topics": [
+    "Trouble amnésique",
+    "Retenir les informations nouvelles",
+    "Effort de compensation",
+    "Aides externes choisies",
+    "Décisions visibles et partagées"
+  ],
+  "episodes": [
+    {
+      "number": 1,
+      "slug": "bilal-retenir-information-nouvelle-livraison-chene",
+      "title": "Retenir une information nouvelle quand la livraison du chêne change",
+      "description": "Bilal attend un camion de chêne qui ne viendra que mercredi : le report annoncé vendredi ne lui est pas resté, et deux voisins sont déjà là.",
+      "context": "à l’atelier un lundi matin",
+      "topics": [
+        "Trouble amnésique",
+        "information nouvelle",
+        "décision écrite"
+      ],
+      "clinical_focus": "Retenir une information nouvelle",
+      "clinical_intro": "Le trouble amnésique se manifeste d’abord par une difficulté marquée à acquérir et à garder des informations nouvelles, alors que le raisonnement et les autres capacités restent disponibles. Chez Bilal, sculpteur dont le diagnostic est déjà posé, un changement de date expliqué de vive voix ne laisse pas de trace. Noter la décision au moment où elle est prise devient un appui concret.",
+      "opening": "Lundi, sept heures et demie, rue des Tanneurs. Bilal a ouvert en grand la porte cochère de l’atelier et poussé l’établi de Martine contre le mur pour laisser passer les plateaux. Il connaît le trajet du camion par cœur : marche arrière depuis la rue, le rétroviseur qui frôle la gouttière, puis l’arrêt juste avant la grille d’égout. Trente ans de livraisons de bois lui ont appris où poser les tréteaux pour que le chêne ne touche jamais le sol mouillé.\n\nÀ huit heures, Jonas, vingt-quatre ans, apprenti menuisier et l’un des six habitants du projet de banc, arrive avec Rachid, retraité de la voirie, les gants déjà enfilés. Bilal leur a envoyé un message samedi pour qu’ils l’aident à décharger. Ils boivent un café debout et regardent la rue vide.\n\nMartine Roussel, son associée ébéniste, entre par la petite porte, son casque de vélo à la main. Elle s’arrête devant les tréteaux.\n\n« Bilal, le scieur a repoussé au mercredi. Je te l’ai dit vendredi, ici, à côté de la ponceuse. Il avait un camion en panne. »\n\nBilal la regarde. Il revoit très bien la ponceuse, il ne revoit pas la conversation. Pas un mot, pas son visage à elle, rien. Ce n’est pas qu’il l’a écoutée d’une oreille : il sait qu’il écoute Martine quand elle parle de bois. C’est un vide net, comme une planche où l’on chercherait un trait de crayon qu’on n’a jamais tracé.\n\nJonas fait semblant de regarder son téléphone. Rachid dit que ce n’est pas grave, qu’il habite à deux rues. Bilal sent pourtant la chaleur lui monter au cou. Il a dérangé deux personnes pour un camion qui n’existe pas, et il ne peut même pas dire à quel moment il a perdu l’information.\n\n« Tu as raison de me le redire, souffle-t-il à Martine. Mais redire ne suffira pas. Il faut que ça soit écrit quelque part où je regarde. »",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Une information récente qui ne s’inscrit pas",
+          "text": "Dans le trouble amnésique, la mémoire est nettement altérée par rapport à ce qui est attendu pour l’âge et au niveau antérieur de la personne, sans autre atteinte cognitive significative : c’est surtout la capacité à acquérir et retenir des informations nouvelles qui est touchée. Le diagnostic repose sur une évaluation clinique, pas sur un oubli observé à la maison ou au travail. Chez Bilal, il a été posé par son équipe avant ce retour à l’atelier. Ce lundi, le report de livraison n’a pas été mal entendu ni jugé sans intérêt : la conversation de vendredi ne s’est pas fixée. Son savoir-faire de livraison, ancien, reste disponible ; la décision nouvelle, elle, demande un support extérieur pour durer jusqu’au mercredi."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment une information nouvelle peut-elle disparaître ?",
+          "points": [
+            {
+              "heading": "Une décision entendue mais absente ensuite",
+              "text": "L’information a été donnée clairement, mais elle n’est plus accessible quelques jours plus tard, sans le sentiment d’avoir oublié.",
+              "examples": [
+                "Bilal ne retrouve aucune trace du report annoncé par Martine à côté de la ponceuse.",
+                "Il prépare les tréteaux pour une livraison qu’il croit toujours prévue lundi."
+              ]
+            },
+            {
+              "heading": "Des actions engagées sur une donnée périmée",
+              "text": "Quand l’information nouvelle manque, la personne agit avec cohérence à partir de ce qu’elle sait encore, ce qui entraîne d’autres personnes.",
+              "examples": [
+                "Samedi, il a convoqué Jonas et Rachid pour décharger le chêne.",
+                "Il pousse l’établi de Martine pour un passage dont personne n’a besoin ce matin."
+              ]
+            },
+            {
+              "heading": "Un contraste avec le reste de ses capacités",
+              "text": "Le trouble se distingue d’un désintérêt ou d’une distraction générale : le jugement et les savoirs anciens fonctionnent.",
+              "examples": [
+                "Il connaît par cœur la manœuvre du camion dans la cour et la place des tréteaux.",
+                "Il comprend tout de suite ce qui s’est passé et cherche lui-même une solution écrite."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour garder une décision nouvelle accessible",
+          "points": [
+            {
+              "heading": "Noter la décision au moment où elle tombe",
+              "objective": "Fixer l’information avant qu’elle ait le temps de se perdre.",
+              "exercise": [
+                "Dès qu’une date change, poser l’outil et l’écrire avant de reprendre le travail.",
+                "Écrire la décision avec la personne qui l’annonce, en relisant ensemble.",
+                "Ajouter qui est concerné et ce qu’il faut prévenir."
+              ],
+              "benefit": "Une trace écrite peut remplacer la conversation perdue, sans prétendre réparer la mémoire."
+            },
+            {
+              "heading": "Un seul endroit visible pour les décisions",
+              "objective": "Éviter de chercher une information dans plusieurs supports.",
+              "exercise": [
+                "Choisir un support fixe, à un endroit où le regard passe chaque jour.",
+                "Y reporter seulement les décisions qui engagent le travail ou d’autres personnes.",
+                "Effacer ce qui est terminé à un moment choisi, par exemple le vendredi soir."
+              ],
+              "benefit": "Le même emplacement peut devenir une habitude de vérification, qui reste à réévaluer avec l’équipe de réadaptation."
+            },
+            {
+              "heading": "Prévenir par écrit les personnes concernées",
+              "objective": "Ne pas dépendre d’un souvenir pour annuler ou déplacer un rendez-vous.",
+              "exercise": [
+                "Envoyer un message court dès que la décision est notée.",
+                "Indiquer la nouvelle date et l’heure, sans se justifier.",
+                "Garder le message envoyé comme preuve consultable plus tard."
+              ],
+              "benefit": "Chacun dispose de la même information, ce qui limite les déplacements inutiles."
+            }
+          ]
+        }
+      ],
+      "ending_title": "La date à la craie",
+      "ending": "Martine décroche une vieille ardoise noire qui servait autrefois à afficher les prix au marché de Noël et la visse à côté de l’établi de Bilal, à hauteur d’yeux. Bilal prend la craie. Ensemble, ils écrivent : « Chêne : livraison mercredi, 8 h. » Martine relit à voix haute ; il ajoute dessous, de sa main, ce que les habitants ont voté jeudi dernier selon le compte rendu d’Odile, l’animatrice de la maison de quartier : « Lattes du dossier : 45 cm. » Puis il envoie lui-même le message à Jonas et Rachid : « Pardon pour ce matin. Le chêne arrive mercredi à 8 h. Vous pouvez venir ? » Rachid répond par un pouce levé, Jonas par « ok chef ». Bilal remet l’établi de Martine à sa place. Il ne sait pas s’il pensera à regarder l’ardoise mercredi. Il sait seulement qu’elle sera là, à côté de ses gouges.",
+      "conclusion": "Cet épisode montre le cœur du trouble amnésique : une information nouvelle, clairement donnée, peut ne pas se fixer, alors que les gestes et le jugement restent intacts. L’ardoise ne guérit rien ; elle rend la décision visible pour Bilal et pour ceux qui travaillent avec lui.",
+      "mirror": [
+        "Quand Martine retrouve les tréteaux en place, elle peut éviter le « je te l’avais dit » et proposer tout de suite : « On l’écrit ensemble, là, maintenant ? » Rachid montre aussi un geste utile en disant que ce n’est pas grave, sans interroger Bilal sur ce qu’il a retenu. Un proche peut offrir d’écrire avec la personne, mais il n’a pas à devenir son agenda ni à vérifier ses souvenirs ; si l’arrangement devient trop lourd, il peut le dire et en parler avec elle."
+      ],
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "nice-ng236"
+      ],
+      "continuity": {
+        "choice": "Bilal et Martine vissent l’ardoise noire à côté de l’établi et y écrivent la livraison du mercredi à 8 h et la longueur de 45 cm votée pour les lattes ; Bilal prévient lui-même Jonas et Rachid par message.",
+        "next": "Mercredi, le chêne arrive : Bilal montre à Jonas comment lire le fil du bois, mais la longueur votée doit être vérifiée sur l’ardoise."
+      },
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 2,
+      "slug": "bilal-souvenirs-anciens-faits-recents-fil-du-bois",
+      "title": "Souvenirs anciens disponibles et faits récents fragiles devant le fil du bois",
+      "description": "Bilal enseigne sans hésiter la lecture du fil du chêne, puis bute sur la longueur votée la semaine passée : il va la vérifier sur l’ardoise.",
+      "context": "à l’atelier le jour de la livraison",
+      "topics": [
+        "Trouble amnésique",
+        "mémoire ancienne et récente",
+        "transmission du métier"
+      ],
+      "clinical_focus": "Souvenirs anciens disponibles, faits récents fragiles",
+      "clinical_intro": "Dans le trouble amnésique, la mémoire des faits récents est en général plus touchée que celle des connaissances acquises depuis longtemps, et les autres capacités restent disponibles. Bilal, dont le diagnostic est déjà établi, transmet avec précision un savoir appris il y a trente ans. La même matinée, une décision prise la semaine précédente lui demande un support extérieur.",
+      "opening": "Mercredi, huit heures dix. Le camion du scieur a tenu parole. Les plateaux de chêne reposent sur les tréteaux, encore couverts de sciure humide, et l’atelier sent le tanin. Jonas, l’apprenti menuisier qui fait partie des six habitants du banc, passe la main sur le premier plateau comme sur le dos d’un animal.\n\nBilal s’accroupit à côté de lui. « Regarde la tranche. Tu vois ces petits rayons brillants, les maillures ? Là, le bois a été débité près du cœur. Il bougera moins. » Il prend un crayon de charpentier, trace une flèche le long des cernes. « Mon maître d’apprentissage, à Amboise, me tapait sur les doigts si je rabotais à contre-fil. Il disait : le bois se souvient des coups. Moi aussi, je m’en souviens. »\n\nJonas rit. Bilal continue sans chercher ses mots : comment repérer une gerce avant qu’elle s’ouvre, pourquoi l’aubier part à la chute, où passer la lame pour que le dossier ne se tuile pas sous la pluie du jardin. Il parle lentement, avec les mains. Chaque geste lui revient entier, avec le bruit de la varlope et l’odeur de l’atelier d’Amboise en 1994.\n\nPuis Jonas demande : « Et les lattes du dossier, on avait voté quelle longueur, jeudi dernier ? Je veux tracer la première. »\n\nBilal ouvre la bouche. Rien. Il se souvient de la salle de la maison de quartier en général, des chaises en plastique orange, pas d’un vote. Quarante ? Cinquante ? Il ne veut pas lancer un chiffre au hasard sur un chêne qui coûte le budget de l’année. Il se redresse, cherche des yeux, et tombe sur l’ardoise noire vissée à côté de son établi. Il reconnaît sa propre écriture à la craie, sans se rappeler l’avoir tracée.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Deux mémoires qui ne répondent pas de la même façon",
+          "text": "Dans le trouble amnésique, la mémoire récente est typiquement plus atteinte que la mémoire ancienne, et l’incapacité à rappeler des informations apprises auparavant peut exister ou non selon les personnes. Les autres fonctions, comme le raisonnement ou le langage, ne sont pas altérées de façon significative : c’est ce qui distingue ce profil d’une démence, où plusieurs domaines sont touchés. Ce matin, Bilal explique avec précision un savoir acquis il y a trente ans, alors qu’un vote de la semaine passée ne lui revient pas. La conservation de ses gestes de sculpteur appartient à son histoire ; elle ne constitue pas une règle valable pour toute personne ayant ce trouble."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment le contraste entre ancien et récent apparaît-il à l’atelier ?",
+          "points": [
+            {
+              "heading": "Un savoir ancien qui se déploie entier",
+              "text": "Les connaissances apprises bien avant la difficulté peuvent rester disponibles et organisées.",
+              "examples": [
+                "Bilal explique les maillures et le contre-fil comme son maître d’Amboise le lui a montré.",
+                "Il repère sans hésiter l’aubier à écarter et l’orientation du dossier face à la pluie."
+              ]
+            },
+            {
+              "heading": "Une décision récente sans prise",
+              "text": "Une information de la semaine passée peut manquer alors que le cadre général de la situation reste connu.",
+              "examples": [
+                "Il revoit les chaises orange de la maison de quartier, pas le vote sur la longueur.",
+                "Il ne reconnaît pas le moment où il a écrit sur l’ardoise, même s’il reconnaît son écriture."
+              ]
+            },
+            {
+              "heading": "Un jugement préservé face au doute",
+              "text": "La personne peut évaluer elle-même le risque de se tromper et choisir de vérifier.",
+              "examples": [
+                "Il refuse de lancer un chiffre au hasard sur un plateau coûteux.",
+                "Il cherche une source fiable plutôt que de demander à Jonas de deviner avec lui."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour s’appuyer sur ce qui reste disponible",
+          "points": [
+            {
+              "heading": "Séparer savoir du métier et décision récente",
+              "objective": "Savoir quand on peut se fier à soi et quand il faut un support.",
+              "exercise": [
+                "Avant une tâche, dire à voix haute ce qui relève du savoir-faire ancien.",
+                "Repérer les données qui ont été décidées récemment avec d’autres.",
+                "Réserver la vérification écrite à ces données récentes."
+              ],
+              "benefit": "La confiance dans les gestes peut être gardée, sans exposer le travail commun à une erreur de cote."
+            },
+            {
+              "heading": "Vérifier avant d’engager la matière",
+              "objective": "Placer le contrôle au moment où une erreur coûterait cher.",
+              "exercise": [
+                "Identifier le geste irréversible, ici le premier trait de scie.",
+                "Consulter le support des décisions juste avant ce geste.",
+                "Reporter la donnée directement sur la pièce."
+              ],
+              "benefit": "La donnée voyage avec le bois, ce qui peut éviter de dépendre d’un souvenir entre deux étapes."
+            },
+            {
+              "heading": "Faire de la transmission une place reconnue",
+              "objective": "Valoriser ce que la personne apporte encore pleinement.",
+              "exercise": [
+                "Confier à Bilal l’explication des choix de débit aux participants.",
+                "Laisser l’apprenti noter les cotes pendant que le sculpteur montre les gestes.",
+                "Revoir cette répartition avec lui si elle ne lui convient plus."
+              ],
+              "benefit": "Le projet peut s’appuyer sur ses forces réelles sans réduire Bilal à ses oublis."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Quarante-cinq centimètres sur le plateau",
+      "ending": "Bilal lit à voix haute : « Lattes du dossier : 45 cm. » Il ne se souvient pas du vote, mais il fait confiance à la craie. « On vérifie toujours ici avant de scier, dit-il à Jonas. Moi, pour les cotes nouvelles, je ne me fie plus à ma tête. » Puis il reprend le crayon et trace les coupes à main levée, sans règle, selon le fil qu’il vient de montrer. Jonas, sans qu’on le lui demande, recopie « 45 » au crayon sur la tranche du premier plateau, en gros chiffres. À midi, six lattes sont débitées à la scie à ruban, toutes à la bonne longueur. Bilal sait que l’ardoise a tenu ce matin ; il sait aussi qu’un chiffre recopié sur un plateau ne protégera pas chaque cote de la semaine.",
+      "conclusion": "Le contraste entre une mémoire du métier intacte et une décision récente absente montre le profil propre au trouble amnésique. Bilal transforme ce contraste en méthode : il garde ses gestes et confie les cotes nouvelles à l’ardoise, avant chaque coupe.",
+      "mirror": [
+        "Jonas a eu deux gestes justes : écouter le savoir de Bilal comme un apprentissage, puis recopier la cote sur le plateau sans commenter l’hésitation. Un proche qui pose une question sur une décision récente peut ajouter : « Si tu veux, on regarde ensemble sur l’ardoise. » Il évite ainsi de transformer la question en épreuve. Il n’a pas à vérifier ce que Bilal sait encore du métier, ni à décider pour lui quand il doit consulter un support."
+      ],
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-hrb"
+      ],
+      "continuity": {
+        "choice": "Bilal pose une règle d’atelier : toute cote décidée récemment se vérifie sur l’ardoise avant le premier trait de scie, et Jonas reporte la longueur de 45 cm sur les plateaux.",
+        "next": "Pendant le débit, Odile appelle pour donner les mesures de l’allée : Bilal les répète juste au téléphone, puis les perd après un passage chez le fournisseur de vis."
+      },
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 3,
+      "slug": "bilal-rappel-immediat-oubli-apres-delai-mesures-allee",
+      "title": "Rappel immédiat préservé et oubli après un délai : les mesures de l’allée",
+      "description": "Au téléphone, Bilal répète sans faute les mesures de l’allée. Une demi-heure plus tard, au retour de la quincaillerie, l’appel lui-même a disparu.",
+      "context": "entre l’atelier et la quincaillerie",
+      "topics": [
+        "Trouble amnésique",
+        "rappel immédiat",
+        "carnet sur le moment"
+      ],
+      "clinical_focus": "Rappel immédiat préservé, oubli après un délai",
+      "clinical_intro": "Dans le trouble amnésique, une personne peut souvent répéter correctement une petite quantité d’informations juste après les avoir entendues, puis ne plus les retrouver après un délai ou une interruption. Bilal, dont le diagnostic est connu, en fait l’expérience avec deux mesures données au téléphone. Répéter juste ne suffit pas : écrire pendant l’appel change la suite.",
+      "opening": "Jeudi, neuf heures douze. Le téléphone fixe de l’atelier sonne au moment où Bilal coupe le moteur de la scie à ruban. C’est Odile, l’animatrice de la maison de quartier qui coordonne les six habitants du banc. Elle est au jardin partagé, un mètre ruban à la main.\n\n« J’ai mesuré l’allée comme tu me l’avais demandé. Un mètre soixante de large. Et entre le tilleul et la bordure, trois mètres quarante. »\n\nBilal répète : « Un mètre soixante, trois mètres quarante. Donc le banc de trois mètres passe, avec vingt centimètres de chaque côté. » Odile confirme, contente. Il a fait le calcul sans effort ; les chiffres sonnent juste dans sa bouche. Il raccroche, reprend son tablier et part à pied chez Brunet, la quincaillerie du boulevard Béranger, chercher des échantillons de tire-fonds en inox. Jonas, l’apprenti menuisier qui débite avec lui depuis hier, reste à l’atelier pour poncer les chutes.\n\nAu comptoir, le vendeur lui montre trois modèles. Bilal compare les filetages, discute de la rouille au contact du tanin, pose des questions précises. Il revient une demi-heure plus tard, une boîte de vis dans chaque poche.\n\nJonas relève ses lunettes de protection. « Alors, ça passe dans l’allée, trois mètres ? »\n\nBilal fronce les sourcils. « Quelle allée ? Odile doit encore la mesurer. »\n\nJonas hésite. « Elle a appelé tout à l’heure. Tu lui as répété les chiffres. »\n\nBilal va jusqu’au téléphone fixe et fait défiler le journal des appels. Maison de quartier, 9 h 12, quatre minutes. Il regarde l’écran longtemps. Il n’y a rien derrière ces chiffres : ni la voix d’Odile, ni le calcul des vingt centimètres, ni le geste de raccrocher. La boîte de tire-fonds pèse dans sa poche comme une preuve qu’il était bien ailleurs pendant que l’appel s’effaçait.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Répéter juste ne veut pas dire retenir",
+          "text": "Dans le trouble amnésique, la capacité à rappeler immédiatement une quantité limitée d’informations est habituellement relativement préservée ; ce qui fait défaut, c’est leur rétention après un délai. Une personne peut donc répéter un numéro ou une mesure sans erreur et ne plus les retrouver une demi-heure plus tard. Au téléphone, Bilal a même calculé la marge de vingt centimètres : sur le moment, l’information était bien présente. Le passage à la quincaillerie, avec d’autres sujets et d’autres décisions, a suffi pour que l’appel ne laisse aucune trace. Ce n’est pas un manque d’attention pendant l’échange, mais une information qui n’a pas été conservée."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment une information retenue sur le moment s’efface-t-elle ensuite ?",
+          "points": [
+            {
+              "heading": "Une répétition exacte qui rassure à tort",
+              "text": "La réponse juste donnée sur le moment peut faire croire, à la personne comme à son interlocuteur, que l’information est acquise.",
+              "examples": [
+                "Bilal répète les deux mesures et en tire un calcul correct.",
+                "Odile raccroche contente, sans raison de douter qu’il s’en souviendra."
+              ]
+            },
+            {
+              "heading": "Un délai rempli par d’autres tâches",
+              "text": "Une interruption ou une activité prenante entre l’information et son usage peut suffire à la perdre.",
+              "examples": [
+                "Il discute filetage et rouille pendant une demi-heure chez Brunet.",
+                "Il rentre persuadé qu’Odile n’a pas encore mesuré l’allée."
+              ]
+            },
+            {
+              "heading": "L’événement lui-même peut manquer",
+              "text": "Ce ne sont pas seulement les chiffres qui disparaissent : le fait d’avoir eu l’échange peut aussi ne plus être accessible.",
+              "examples": [
+                "Il ne se souvient pas d’avoir décroché le téléphone fixe.",
+                "Seul le journal des appels lui montre l’heure et la durée de l’échange."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour qu’une information entendue dure après l’appel",
+          "points": [
+            {
+              "heading": "Écrire pendant l’appel",
+              "objective": "Placer la trace au moment où l’information est encore disponible.",
+              "exercise": [
+                "Garder de quoi noter dans une poche, pas sur un meuble.",
+                "Demander à l’interlocuteur de patienter le temps d’écrire.",
+                "Noter la date, l’heure, la personne et les chiffres."
+              ],
+              "benefit": "La note profite du moment où le rappel immédiat fonctionne encore ; elle ne garantit pas qu’on pensera à la relire."
+            },
+            {
+              "heading": "Relire avant de changer d’activité",
+              "objective": "Relier la note à la suite du travail.",
+              "exercise": [
+                "Avant de sortir ou de reprendre une machine, relire la dernière note.",
+                "Reporter l’information sur le support commun si elle concerne d’autres personnes.",
+                "Cocher la note une fois l’information utilisée."
+              ],
+              "benefit": "Ce passage peut éviter qu’une information reste enfermée dans un carnet que personne ne rouvre."
+            },
+            {
+              "heading": "Demander une confirmation écrite",
+              "objective": "Disposer d’une seconde trace qui ne dépend pas de soi.",
+              "exercise": [
+                "À la fin de l’appel, demander un message reprenant les chiffres.",
+                "Dire simplement qu’on préfère l’écrit, sans avoir à expliquer pourquoi.",
+                "Ranger le message à un endroit facile à retrouver."
+              ],
+              "benefit": "L’interlocuteur garde un rôle limité et clair, sans devenir responsable de la mémoire de l’autre."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Le carnet rouge dans le tablier",
+      "ending": "Bilal ne fait pas semblant. Il sort du tiroir de Martine, son associée ébéniste partie ce matin chez un client, un carnet à spirale rouge, de ceux qu’elle achète par dix pour ses devis, et rappelle Odile. « C’est Bilal. Pardon, je dois te redemander les mesures de l’allée. Je les avais répétées, mais elles ne me sont pas restées. Je les écris cette fois. » Odile, au bout du fil, ne pose pas de question ; elle redonne lentement les deux chiffres. Il écrit : « Jeudi 9 h 12, Odile : allée 1,60 m, tilleul-bordure 3,40 m. Banc 3 m : ça passe. » Puis il demande : « Tu peux aussi me l’envoyer par message ? » Elle accepte. Il glisse le carnet dans la poche avant de son tablier, là où il range d’ordinaire son crayon. Le message d’Odile arrive deux minutes plus tard. Bilal ne sait pas encore s’il pensera à ouvrir le carnet ailleurs qu’à l’atelier.",
+      "conclusion": "Répéter juste et retenir sont deux choses distinctes dans le trouble amnésique : le rappel immédiat peut fonctionner alors que l’information se perd après un délai. Le carnet rouge, utilisé pendant l’appel, s’ajoute à l’ardoise pour les informations reçues loin de l’établi.",
+      "mirror": [
+        "Jonas a demandé une information réelle, « ça passe dans l’allée ? », sans piéger Bilal ; puis il a simplement dit ce qu’il avait entendu. C’est un geste possible : rapporter un fait, sans insister ni demander à l’autre de se souvenir. Odile, de son côté, redonne les chiffres sans questionner et envoie le message demandé. Un proche peut proposer : « Je te l’écris aussi ? », mais il n’a pas à vérifier plus tard que l’information est restée."
+      ],
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "incog-memoire-2023"
+      ],
+      "continuity": {
+        "choice": "Bilal note pendant l’appel, dans un carnet à spirale rouge rangé dans la poche de son tablier, les mesures de l’allée (1,60 m de large, 3,40 m entre le tilleul et la bordure) et demande à Odile une confirmation par message.",
+        "next": "En comparant ses notes avec celles de Martine, Bilal découvrira qu’il croit parfois avoir prévenu quelqu’un alors qu’il ne l’a pas fait : Rachid n’a jamais entendu la date de retour de sa latte."
+      },
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 4,
+      "slug": "bilal-croire-se-souvenir-information-manque-latte-rachid",
+      "title": "Croire se souvenir alors que l’information manque : la latte de Rachid",
+      "description": "Bilal est certain d’avoir donné à Rachid la date de retour de sa latte. Rachid ne l’a jamais entendue et se sent accusé : qui croire ?",
+      "context": "à l’atelier pendant le retour des lattes",
+      "topics": [
+        "Trouble amnésique",
+        "certitude trompeuse",
+        "trace partagée"
+      ],
+      "clinical_focus": "Croire se souvenir alors que l’information manque",
+      "clinical_intro": "Le trouble amnésique ne s’accompagne pas toujours d’une perception exacte de ses propres oublis : une personne peut être sûre d’avoir dit ou entendu une chose qui n’a pas eu lieu, ou se tromper sur l’origine d’une information. Bilal, dont le diagnostic est établi, découvre ce décalage face à Rachid. Il ne s’agit ni de mensonge ni de déni.",
+      "opening": "Mercredi, seize heures. Trois semaines ont passé depuis la livraison du chêne. Sur l’établi du fond, quatre lattes sculptées par les participants attendent déjà leur rainure : les feuilles de vigne de Thérèse, la carpe de Karim, les initiales entrelacées de Germaine, le soleil un peu bancal de Lucie. Il en manque deux, celle de Jonas et celle de Rachid.\n\nRachid, retraité de la voirie et l’un des six habitants du banc, passe la tête par la porte cochère pour rendre une serre-joint empruntée. Bilal l’accueille avec un sourire.\n\n« Ta latte, n’oublie pas, c’est pour demain jeudi. Je te l’ai dit samedi, à la séance du jardin. »\n\nRachid pose la serre-joint. « Samedi, tu ne m’as rien dit. On a parlé de la pluie et des pommes du jardin. Jeudi, c’est la première fois que je l’entends. »\n\nBilal sent la scène très nettement : le jardin, Rachid près du composteur, sa propre voix annonçant jeudi. Il le voit comme s’il y était. « Je t’assure que si. Tu avais ton bonnet vert. »\n\n« Mon bonnet, peut-être. Mais je ne suis pas sourd, Bilal. Si tu m’avais donné une date, je l’aurais notée. Tu me fais passer pour celui qui traîne. »\n\nLe ton monte d’un cran. Martine Roussel, l’associée ébéniste de Bilal, vernit un tiroir dans l’angle. Elle n’était pas au jardin samedi. Elle pose son pinceau, regarde l’un puis l’autre, et ne dit rien : elle ne veut ni contredire son associé devant un participant, ni donner tort à Rachid sans savoir.\n\nBilal sort le carnet rouge de la poche de son tablier et feuillette les pages de samedi. Il y a l’heure de la séance, la couleur du vernis votée, le nom de Lucie à côté de « gouge de 8 ». Rien sur Rachid. Rien sur jeudi. Il regarde la page vide longtemps. Son souvenir, lui, est toujours là, net et faux peut-être.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Quand le sentiment de souvenir ne correspond pas aux faits",
+          "text": "Chez une personne qui vit un trouble amnésique, la plainte ou la certitude ne correspond pas toujours à ce qui s’est réellement passé : la conscience des difficultés peut être modifiée, la perception de ses propres capacités erronée, et la source d’une information mal attribuée. Une personne peut aussi ne pas repérer certains oublis. Ce décalage fait partie des caractéristiques décrites par l’OMS ; il ne relève ni du mensonge ni du refus d’admettre le trouble. Bilal a peut-être pensé à prévenir Rachid, l’a peut-être dit à quelqu’un d’autre, ou a reconstruit une scène plausible : personne ne peut le trancher depuis l’atelier. L’ampleur de ce décalage se discute avec l’équipe de réadaptation, qui dispose d’une évaluation."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment une certitude peut-elle reposer sur une information absente ?",
+          "points": [
+            {
+              "heading": "Un souvenir détaillé mais non confirmé",
+              "text": "Le sentiment d’avoir dit quelque chose peut s’accompagner de détails précis, sans être confirmé par les autres ni par les notes.",
+              "examples": [
+                "Bilal revoit Rachid près du composteur avec son bonnet vert.",
+                "Le carnet rouge de samedi ne mentionne ni Rachid ni le jeudi."
+              ]
+            },
+            {
+              "heading": "Une source mal attribuée",
+              "text": "Une intention, une pensée ou une phrase dite à quelqu’un d’autre peut être rangée comme un échange qui a eu lieu.",
+              "examples": [
+                "La date du jeudi existe bien dans le planning de Bilal, mais personne ne sait qui l’a entendue.",
+                "Il est sûr d’avoir parlé, alors que Rachid se rappelle une conversation sur la pluie et les pommes du jardin."
+              ]
+            },
+            {
+              "heading": "Un conflit qui touche l’autre personne",
+              "text": "Le décalage ne reste pas intérieur : il peut faire porter à l’autre la responsabilité d’un oubli.",
+              "examples": [
+                "Rachid se sent accusé de traîner et rappelle qu’il note toujours ses dates.",
+                "Martine se retrouve prise entre son associé et un participant."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour sortir d’une certitude contestée",
+          "points": [
+            {
+              "heading": "S’appuyer sur une trace partagée",
+              "objective": "Remplacer le face-à-face des souvenirs par un support que chacun peut consulter.",
+              "exercise": [
+                "Noter chaque engagement pris avec une autre personne, avec son nom et la date.",
+                "Le reporter sur le support commun, ici l’ardoise.",
+                "Faire relire la ligne par la personne concernée quand elle est présente."
+              ],
+              "benefit": "La question n’est plus de savoir qui se souvient le mieux, mais ce qui est écrit."
+            },
+            {
+              "heading": "Dire une incertitude plutôt qu’une certitude",
+              "objective": "Éviter de transformer un doute en accusation.",
+              "exercise": [
+                "Remplacer « je te l’ai dit » par « je crois te l’avoir dit ».",
+                "Reconnaître quand la trace écrite manque.",
+                "Proposer une solution pour la suite au lieu de chercher qui a raison."
+              ],
+              "benefit": "La relation peut être préservée même quand le fait reste incertain."
+            },
+            {
+              "heading": "En parler à l’équipe de réadaptation",
+              "objective": "Faire évaluer le décalage par ceux qui en ont les moyens.",
+              "exercise": [
+                "Noter la situation concrète, sans conclure sur sa cause.",
+                "L’apporter à la prochaine séance avec l’ergothérapeute.",
+                "Discuter avec lui des engagements qui méritent un récapitulatif écrit."
+              ],
+              "benefit": "Les proches n’ont pas à arbitrer seuls ; l’équipe peut ajuster les aides si besoin."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Lundi prochain, écrit à la craie",
+      "ending": "Bilal referme le carnet. « Rachid, je ne suis plus sûr de te l’avoir dit. Je le croyais vraiment, mais ce n’est écrit nulle part. Pardon. » Rachid hausse les épaules, encore un peu froissé. Bilal va jusqu’à l’ardoise et écrit : « Latte de Rachid : retour lundi, 10 h. » Il tend la craie : « Tu me dis si ça te va ? » Rachid relit, hoche la tête et ajoute lui-même, d’une écriture penchée : « OK — R. » Après son départ, Bilal se tourne vers Martine. « Tu pourrais faire un récapitulatif écrit à la fin de notre réunion du lundi ? Une fois par semaine, pas plus. Ce qu’on a décidé, qui fait quoi. Je le colle sous l’ardoise. » Martine accepte, à condition que ce soit une feuille simple et qu’il la relise avec elle. Jeudi, Bilal en parlera à Hugo Marchal, l’ergothérapeute de son équipe de réadaptation. Il ne sait toujours pas ce qui s’est passé samedi au jardin.",
+      "conclusion": "Le trouble amnésique peut s’accompagner d’une certitude que les faits ne confirment pas. En disant son incertitude à Rachid et en demandant un récapitulatif hebdomadaire, Bilal déplace le conflit vers une trace commune, sans prétendre retrouver la vérité de samedi.",
+      "mirror": [
+        "Martine n’a pas tranché, et c’était juste : elle n’était pas au jardin et ne pouvait pas savoir. Dans une situation semblable, un proche peut dire : « Je ne sais pas ce qui s’est dit, mais on peut l’écrire maintenant. » Il évite d’accuser l’un ou l’autre et de jouer l’arbitre des souvenirs. Il peut accepter un récapitulatif écrit, comme Martine, en fixant ses limites : une fois par semaine, une feuille simple, relue ensemble."
+      ],
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "nice-ng236"
+      ],
+      "continuity": {
+        "choice": "Bilal reconnaît son incertitude devant Rachid, fixe avec lui le retour de sa latte au lundi 10 h sur l’ardoise, et obtient de Martine un récapitulatif écrit d’une feuille à la fin de la réunion du lundi, collé sous l’ardoise ; il prévoit d’en parler à Hugo jeudi.",
+        "next": "Récapitulatifs, ardoise et carnet rouge finissent par lui coûter beaucoup d’énergie : un soir, à la maison, il ne peut plus rien écouter de nouveau."
+      },
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 5,
+      "slug": "bilal-effort-compensation-fatigue-du-soir",
+      "title": "L’effort de compensation et la fatigue du soir après l’atelier",
+      "description": "À force de relire carnet, ardoise et messages, Bilal arrive vidé à la maison et ne peut plus écouter Samia raconter son conseil de classe.",
+      "context": "entre la fermeture de l’atelier et le dîner",
+      "topics": [
+        "Trouble amnésique",
+        "effort de compensation",
+        "fatigue"
+      ],
+      "clinical_focus": "Effort de compensation et fatigue du soir",
+      "clinical_intro": "Quand une personne vivant un trouble amnésique continue à travailler, elle peut le faire au prix d’un effort supplémentaire important : vérifier, noter, relire. Cet effort fait partie du retentissement du trouble. Bilal, dont le diagnostic est connu, tient l’atelier grâce à ses supports ; le soir, il n’a plus de place pour une information de plus.",
+      "opening": "Lundi, dix-huit heures. Cinq semaines après la livraison du chêne, l’atelier ferme. Bilal a éteint l’aspiration, balayé les copeaux sous la scie à ruban, rangé les gouges dans leur rouleau de cuir. Il reste debout devant l’établi.\n\nIl relit le carnet rouge de la poche de son tablier, page par page depuis le matin. Puis l’ardoise : « Rainures des lattes : attendre réglage », « Jonas : latte jeudi », « Vernis : huile dure, mat ». Puis la feuille du récapitulatif que Martine Roussel, son associée ébéniste, a tapée à la fin de leur réunion du lundi et qu’il a collée sous l’ardoise. Puis le message d’Odile, l’animatrice de la maison de quartier, qui déplace la séance collective au mardi soir. Il recommence. Une troisième fois. Rien n’est faux, rien ne manque, mais il ne parvient pas à se dire que c’est fini. Martine, qui enfile son ciré, lui dit doucement : « Tu l’as déjà lu, Bilal. » Il répond qu’il le sait. Il ne le sent pas.\n\nÀ la maison, rue Colbert, Samia, sa femme, professeure de mathématiques au lycée, met la table. Elle sort de trois heures de conseil de classe et a envie d’en parler : un élève de seconde qu’elle défend depuis septembre, une collègue qui voulait le réorienter, le vote qu’elle a fini par gagner.\n\nBilal s’assoit. Il écoute la première phrase, puis la deuxième. À la troisième, il pose la main à plat sur la nappe.\n\n« Samia, arrête-moi là. Je ne peux plus rien noter aujourd’hui. Je ne veux pas faire semblant d’écouter et te redemander demain. »\n\nSamia se tait, la fourchette en l’air. Elle n’est pas vexée ; elle est surprise de le voir si épuisé à dix-neuf heures, lui qui rentrait autrefois de l’atelier en sifflant. Lui-même n’a pas porté de charge lourde aujourd’hui. Il a seulement passé la journée à vérifier.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Tenir au prix d’un effort qui ne se voit pas",
+          "text": "Dans le trouble amnésique, le retentissement se mesure aussi à ce que coûte le fonctionnement maintenu : lorsqu’une personne continue à travailler ou à gérer sa vie quotidienne, cela peut être au prix d’un effort supplémentaire important, par exemple par des stratégies compensatoires. Cet effort fait partie du trouble ; il ne traduit ni un manque de volonté ni une fragilité de caractère. Les recommandations de réadaptation invitent à adapter le travail à la fatigue et à l’humeur de la personne. Chez Bilal, l’ardoise, le carnet et le récapitulatif fonctionnent ; mais il les relit sans cesse, faute de sentir que l’information est acquise. La fatigue du soir est la facture de cette vigilance."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment l’effort de compensation pèse-t-il sur la fin de journée ?",
+          "points": [
+            {
+              "heading": "Des vérifications qui se répètent",
+              "text": "Quand on ne peut pas se fier au sentiment d’avoir retenu, la relecture peut se prolonger sans fin naturelle.",
+              "examples": [
+                "Bilal relit trois fois le carnet, l’ardoise, le récapitulatif et le message d’Odile.",
+                "Il sait qu’il a lu, mais ne parvient pas à se dire que c’est terminé."
+              ]
+            },
+            {
+              "heading": "Une fatigue sans effort physique",
+              "text": "La fatigue peut venir de l’attention constante portée aux supports plus que du travail manuel lui-même.",
+              "examples": [
+                "Il n’a porté aucune charge lourde, mais il est vidé à dix-neuf heures.",
+                "Samia le compare à l’homme qui rentrait autrefois en sifflant."
+              ]
+            },
+            {
+              "heading": "Moins de place pour les autres le soir",
+              "text": "À la maison, une nouvelle information peut dépasser ce que la personne peut encore accueillir.",
+              "examples": [
+                "Il arrête Samia dès la troisième phrase sur son conseil de classe.",
+                "Il préfère ne pas faire semblant d’écouter plutôt que de redemander le lendemain."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour répartir l’effort de mémoire dans la journée",
+          "points": [
+            {
+              "heading": "Repérer les moments les plus coûteux",
+              "objective": "Voir où l’effort se concentre avant de vouloir le réduire.",
+              "exercise": [
+                "Pendant une semaine, marquer d’un trait dans le carnet chaque relecture des supports.",
+                "Noter l’heure et l’état de fatigue en un mot.",
+                "Apporter ces notes à l’ergothérapeute plutôt que de les interpréter seul."
+              ],
+              "benefit": "Le professionnel peut ajuster l’organisation à partir de faits concrets ; ces notes ne constituent pas un test."
+            },
+            {
+              "heading": "Découper les tâches de mémoire",
+              "objective": "Éviter d’accumuler toutes les vérifications en fin de journée.",
+              "exercise": [
+                "Choisir un moment fixe de la journée pour la relecture complète.",
+                "Le reste du temps, ne consulter que la ligne utile à la tâche en cours.",
+                "Ne pas relire ce qui a déjà été coché."
+              ],
+              "benefit": "Une relecture prévue peut limiter les vérifications répétées, sans promettre de supprimer le doute."
+            },
+            {
+              "heading": "Prévoir une pause fixe et la protéger",
+              "objective": "Garder une heure où aucune information nouvelle n’est demandée.",
+              "exercise": [
+                "Fixer une heure de fermeture du carnet.",
+                "Prévenir les proches de ce moment et de sa raison générale.",
+                "Convenir avec eux d’un autre moment pour les nouvelles importantes."
+              ],
+              "benefit": "Les proches savent quand parler, et la personne peut se reposer sans craindre de perdre ce qui compte."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Midi pour relire, dix-sept heures pour fermer",
+      "ending": "Jeudi, Hugo Marchal, l’ergothérapeute de son équipe de réadaptation, passe à l’atelier comme convenu. Bilal lui montre les traits au crayon qu’Hugo lui a demandé mardi, au téléphone, d’ajouter dans la marge du carnet à chaque relecture : onze relectures mardi, neuf mercredi, presque toutes après seize heures. Hugo ne commente pas les chiffres ; il demande à quel moment Bilal se sent le plus clair. « À midi, quand je mange mon sandwich sur l’établi. » Ils décident ensemble : relecture complète de l’ardoise, du carnet et du récapitulatif à midi ; fermeture du carnet à dix-sept heures, élastique passé autour. Après, rien de nouveau ne s’écrit. Le soir, Bilal raconte l’arrangement à Samia. Elle propose qu’ils gardent les nouvelles importantes pour le samedi matin, au café, et qu’elle lui raconte le conseil de classe à ce moment-là. Le samedi suivant, elle le fait. Bilal écoute jusqu’au bout. Le lundi d’après, il relit encore deux fois après dix-sept heures, l’élastique à la main.",
+      "conclusion": "L’effort pour compenser fait partie du retentissement du trouble amnésique : le travail tient, mais il coûte. Bilal ne supprime pas ses supports ; il fixe avec Hugo et Samia des heures pour relire et pour se reposer, en sachant que le doute peut revenir.",
+      "mirror": [
+        "Samia a entendu la phrase de Bilal sans se vexer, puis a proposé un autre moment : « Je te le raconte samedi, au café ? » C’est une réponse possible : déplacer la conversation plutôt que l’annuler, et ne pas prendre la fatigue pour un désintérêt. Elle n’a pas à devenir son agenda. Une fatigue inhabituelle, une somnolence nouvelle ou une confusion soudaine ne doivent pas être mises sur le compte du trouble connu : elles appellent un avis médical rapide, et le 15 en cas d’urgence."
+      ],
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "nice-ng236",
+        "service-public-urgences"
+      ],
+      "continuity": {
+        "choice": "Avec Hugo, Bilal concentre la relecture complète à midi et ferme le carnet rouge à 17 h avec un élastique ; avec Samia, il réserve les nouvelles importantes au samedi matin, au café.",
+        "next": "La docteure Vasseur, neuropsychologue, a prévu un bilan de suivi pour préciser ce qui a changé depuis le retour à l’atelier."
+      },
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 6,
+      "slug": "bilal-bilan-de-suivi-attentif-a-la-langue",
+      "title": "Un bilan de suivi attentif à la langue et aux consignes",
+      "description": "Pendant son bilan de suivi, Bilal perd le fil d’une consigne longue et un mot lui vient d’abord en arabe. Il hésite, puis demande qu’on reformule.",
+      "context": "au service de réadaptation un mardi matin",
+      "topics": [
+        "Trouble amnésique",
+        "bilan neuropsychologique",
+        "langue et culture"
+      ],
+      "clinical_focus": "Bilan de suivi attentif à la langue",
+      "clinical_intro": "L’évaluation du trouble amnésique associe le récit de la personne, celui de proches ou des observations, et des tests standardisés ou une autre évaluation chiffrée. La langue, la culture et la compréhension des consignes peuvent influencer les résultats et doivent être prises en compte. Bilal, déjà diagnostiqué, passe un bilan de suivi et ose signaler ce qui le gêne.",
+      "opening": "Mardi, neuf heures. Six semaines après la livraison du chêne, Bilal attend dans le couloir du service de réadaptation, au deuxième étage, sur une chaise en bois blond qu’il a déjà jugée : du hêtre, assemblé à la colle, il ne tiendra pas dix ans. Dans la poche de sa veste, le carnet rouge. Hier, à midi, il y a recopié trois situations de l’atelier pour les montrer : le camion attendu un lundi pour rien, l’appel d’Odile, l’animatrice de la maison de quartier, effacé de sa tête ; la date de retour promise à Rachid, l’un des habitants du banc.\n\nLa docteure Anne Vasseur, la neuropsychologue qui suit Bilal depuis son retour, vient le chercher. Elle explique que ce bilan de suivi doit préciser ce qui a changé depuis le premier, et à quoi serviront les résultats. Il écoute, ses mains de sculpteur posées à plat sur les genoux.\n\nPendant une partie de la séance, elle lit une consigne plus longue que les autres. Au milieu, Bilal décroche. Il entend les mots un par un, mais la phrase entière lui file entre les doigts comme un copeau trop fin. Il commence la tâche quand même, sans être sûr de ce qu’on attend.\n\nUn peu plus tard, il doit raconter quelque chose avec ses propres mots. Le mot juste lui vient d’abord en arabe, la langue de sa mère, celle qu’il parlait dans la cuisine de Joué-lès-Tours avant d’entrer en apprentissage. Il le garde dans la bouche, cherche l’équivalent français, le trouve trop tard. Il a soudain l’impression d’être jugé sur sa mémoire alors qu’il cherchait un mot qu’il connaît très bien, dans une autre langue.\n\nIl pourrait se taire. Il a toujours détesté se plaindre devant les gens en blouse. Il serre les poings, puis les desserre.\n\n« Docteure, la consigne d’avant, je ne l’ai pas comprise jusqu’au bout. Et là, le mot m’est venu en arabe d’abord. Est-ce que ça compte dans ce que vous mesurez ? »",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Une évaluation qui doit tenir compte de la personne réelle",
+          "text": "L’évaluation d’un trouble amnésique repose sur plusieurs sources : ce que rapporte la personne, ce qu’observent un proche ou le clinicien, et une performance mesurée par des tests neuropsychologiques standardisés ou, à défaut, une autre évaluation clinique chiffrée. L’OMS rappelle que la langue, la culture, les limites de traduction et la compréhension des consignes influencent les résultats ; des tests non adaptés à la population concernée laissent plus de place au jugement clinique. Bilal a grandi entre l’arabe familial et le français de l’apprentissage. En signalant une consigne mal comprise et un mot venu dans une autre langue, il donne à la neuropsychologue une information utile pour interpréter le bilan, sans en connaître le détail."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment la langue et les consignes pèsent-elles sur un bilan ?",
+          "points": [
+            {
+              "heading": "Une consigne longue qui échappe",
+              "text": "Une instruction mal comprise peut fausser une tâche sans rapport avec la capacité qu’elle cherche à évaluer.",
+              "examples": [
+                "Bilal entend chaque mot mais perd le sens de la phrase entière.",
+                "Il commence la tâche sans être sûr de ce qui lui est demandé."
+              ]
+            },
+            {
+              "heading": "Un mot qui arrive dans une autre langue",
+              "text": "Chez une personne qui a grandi avec plusieurs langues, un mot peut se présenter d’abord dans la langue familiale.",
+              "examples": [
+                "Le mot juste lui vient en arabe, la langue de sa mère.",
+                "Il trouve l’équivalent français, mais trop tard à son goût."
+              ]
+            },
+            {
+              "heading": "Le sentiment d’être jugé",
+              "text": "La situation d’évaluation peut faire craindre que chaque hésitation soit comptée contre soi.",
+              "examples": [
+                "Bilal se sent jugé sur sa mémoire alors qu’il cherchait un mot connu.",
+                "Il hésite à parler par peur de paraître se plaindre."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour participer activement à son bilan",
+          "points": [
+            {
+              "heading": "Préparer des exemples de la vie réelle",
+              "objective": "Donner au clinicien des situations concrètes à côté des résultats.",
+              "exercise": [
+                "Choisir dans ses notes deux ou trois situations récentes où l’oubli a compté.",
+                "Écrire pour chacune ce qui s’est passé et ce que cela a changé.",
+                "Les apporter au rendez-vous, sans chercher à en tirer soi-même une conclusion."
+              ],
+              "benefit": "Ces exemples peuvent aider à relier le bilan au quotidien, sans le remplacer."
+            },
+            {
+              "heading": "Signaler une difficulté de compréhension",
+              "objective": "Permettre au professionnel de tenir compte de la langue et des consignes.",
+              "exercise": [
+                "Dire dès qu’on le remarque qu’une consigne n’a pas été comprise.",
+                "Préciser sa ou ses langues, y compris celles de l’enfance.",
+                "Demander qu’on reformule plutôt que de deviner."
+              ],
+              "benefit": "Le clinicien peut interpréter les résultats avec ces éléments ; c’est à lui d’en juger l’effet."
+            },
+            {
+              "heading": "Demander ce que le bilan permet de décider",
+              "objective": "Comprendre l’usage du bilan sans en attendre un verdict.",
+              "exercise": [
+                "Demander au début à quoi serviront les résultats.",
+                "Indiquer un objectif concret que l’on voudrait travailler.",
+                "Choisir avec qui les conclusions peuvent être partagées."
+              ],
+              "benefit": "Le bilan peut devenir un point de départ pour la réadaptation, en respectant l’accord de la personne."
+            }
+          ]
+        }
+      ],
+      "ending_title": "La consigne redite autrement",
+      "ending": "La docteure Vasseur pose son stylo. « Oui, ça compte, et c’est bien de me le dire. » Elle reformule la consigne en deux phrases courtes et lui propose de reprendre ce passage. Puis elle écrit quelque chose dans la marge de son dossier ; Bilal voit seulement qu’elle a souligné le mot « arabe ». À la fin, il lui montre les trois situations du carnet rouge. Elle les lit, demande ce qu’il aimerait travailler dans les semaines qui viennent. Il pense à la défonceuse neuve livrée vendredi, encore dans son carton sous l’établi de Martine, son associée. « Il faut que j’apprenne une machine que je ne connais pas. D’habitude j’apprends en me trompant. » Elle explique que le bilan sert justement à ajuster les objectifs de réadaptation, et lui demande s’il accepte qu’elle transmette cet objectif à Hugo Marchal, l’ergothérapeute. Il accepte. Les résultats seront repris au prochain rendez-vous. Dans le tramway, Bilal note : « Défonceuse : apprendre autrement. Hugo appelle Martine ? » Il ne sait pas encore ce que « autrement » voudra dire.",
+      "conclusion": "Un bilan de suivi n’est pas un examen de mémoire isolé : il associe des tests, des observations et le récit de la personne, et doit tenir compte de sa langue et de sa compréhension des consignes. En osant parler, Bilal en fait un outil pour fixer un objectif concret.",
+      "mirror": [
+        "Avant le rendez-vous, un proche peut proposer : « Tu veux qu’on relise ensemble les exemples que tu as notés ? », puis laisser la personne choisir ceux qu’elle apporte. Après, il peut demander : « Qu’est-ce que tu veux bien me dire du bilan ? » au lieu d’exiger des résultats. Il ne fait pas passer d’exercices de mémoire à la maison et ne commente pas la langue dans laquelle les mots viennent ; le bilan et son interprétation restent l’affaire de l’équipe de soins."
+      ],
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "nice-ng236"
+      ],
+      "continuity": {
+        "choice": "Bilal signale la consigne mal comprise et sa langue familiale ; la docteure Vasseur reformule, note ses remarques et, avec son accord, transmet à Hugo l’objectif d’apprendre autrement la défonceuse neuve livrée le vendredi précédent.",
+        "next": "À l’atelier, Hugo et Martine préparent un apprentissage de la défonceuse qui évite les essais au hasard."
+      },
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 7,
+      "slug": "bilal-apprendre-procedure-nouvelle-sans-essais-hasard-defonceuse",
+      "title": "Apprendre une procédure nouvelle sans essais au hasard : la défonceuse neuve",
+      "description": "Bilal veut apprivoiser la défonceuse neuve en tâtonnant. Martine se souvient d’un mauvais réglage revenu le lendemain comme s’il était le bon.",
+      "context": "à l’atelier devant une machine neuve",
+      "topics": [
+        "Trouble amnésique",
+        "apprentissage guidé",
+        "procédure nouvelle"
+      ],
+      "clinical_focus": "Apprendre une procédure nouvelle sans essais au hasard",
+      "clinical_intro": "Quand une personne vivant un trouble amnésique apprend une procédure nouvelle par essais et erreurs, une erreur peut rester en mémoire à la place de la bonne étape. Les recommandations de réadaptation évoquent des apprentissages qui limitent les erreurs, centrés sur la tâche réelle. Bilal, dont le diagnostic est établi, accepte d’apprendre la défonceuse neuve autrement.",
+      "opening": "Jeudi, quatorze heures. Le carton de la défonceuse neuve est ouvert sur l’établi, le polystyrène éparpillé jusque sous la scie à ruban. La machine est plus lourde que l’ancienne, avec une molette de profondeur à crans que Bilal n’a jamais vue. Les six lattes sculptées du dossier attendent leur rainure, alignées sur le râtelier : celle de Rachid, retraité de la voirie, est rentrée il y a trois semaines, le lundi fixé sur l’ardoise.\n\nBilal visse une fraise droite, cale une chute de chêne avec deux serre-joints. « Je vais faire comme toujours. Je fais une passe, je regarde, je corrige. En trois essais je l’ai dans la main. »\n\nMartine Roussel, son associée ébéniste, ne bouge pas de l’angle où elle ponce un tiroir. Puis elle éteint sa ponceuse.\n\n« Bilal, tu te souviens de la scie à ruban, il y a trois semaines ? » Elle se reprend aussitôt. « Non, pardon, je te le raconte. Tu avais réglé le guide trop haut, on l’avait corrigé ensemble. Le lendemain matin, tu l’as remis exactement à la mauvaise hauteur, tranquille, comme si c’était la bonne. La correction n’était pas restée. L’erreur, si. »\n\nBilal repose la défonceuse. Il ne se rappelle ni le guide ni la correction. Mais il connaît Martine : elle ne raconte pas ce genre de chose pour le plaisir de le reprendre.\n\nElle sort de sa poche une feuille pliée en quatre. « Hugo, ton ergothérapeute, m’a appelée mardi, après ton bilan. Tu étais d’accord, il me l’a dit. Il m’a expliqué une façon d’apprendre où on évite de se tromper au début. On a écrit les étapes ensemble, avec la notice du fabricant. »\n\nBilal lit la feuille. Sept lignes, de l’écriture ronde de Martine. Débrancher, monter la fraise, régler la profondeur sur la molette, brancher, lunettes, poser la base à plat, pousser de gauche à droite. Il soupire. Il a plus de trente ans d’atelier, et on lui apporte une recette.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Quand l’erreur se retient mieux que la correction",
+          "text": "Apprendre par essais et erreurs suppose de se souvenir de l’erreur pour ne plus la refaire. Chez une personne qui retient mal les informations nouvelles, cette condition fait défaut : une étape mal faite pendant l’apprentissage peut se fixer à la place de la bonne, et revenir ensuite avec l’assurance d’une habitude. Les recommandations de réadaptation de la mémoire évoquent un apprentissage qui limite les erreurs, centré sur les tâches réelles de la personne et guidé au début. Pour Bilal, le geste de sculpteur reste disponible ; c’est le réglage nouveau de la défonceuse qui risque de s’installer de travers. Les règles de sécurité de la machine restent celles du fabricant, quelle que soit la méthode d’apprentissage."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment une procédure nouvelle peut-elle s’apprendre de travers ?",
+          "points": [
+            {
+              "heading": "L’erreur revient comme une habitude",
+              "text": "Une étape fausse, faite avant d’être corrigée, peut être répétée plus tard avec assurance.",
+              "examples": [
+                "Le guide de la scie à ruban est remis à la mauvaise hauteur le lendemain matin.",
+                "Bilal ne garde aucune trace de la correction faite avec Martine."
+              ]
+            },
+            {
+              "heading": "La méthode habituelle ne convient plus",
+              "text": "Une façon d’apprendre efficace pendant des années peut devenir piégeuse pour une procédure nouvelle.",
+              "examples": [
+                "Bilal veut faire une passe, regarder, corriger, comme toujours.",
+                "La molette à crans de la nouvelle machine ne ressemble à rien de connu."
+              ]
+            },
+            {
+              "heading": "Le geste ancien reste distinct du réglage nouveau",
+              "text": "La compétence manuelle peut être intacte alors que la séquence de réglage, elle, est nouvelle.",
+              "examples": [
+                "Il cale la chute et visse la fraise sans hésitation.",
+                "Il ne sait pas dans quel ordre régler la profondeur sur cette machine."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour apprendre une procédure en limitant les erreurs",
+          "points": [
+            {
+              "heading": "Écrire les étapes avant de commencer",
+              "objective": "Disposer d’une séquence juste avant le premier geste.",
+              "exercise": [
+                "Lire la notice du fabricant avec une personne de confiance.",
+                "Écrire les étapes dans l’ordre, une action par ligne.",
+                "Fixer la fiche sur la machine, à portée de regard."
+              ],
+              "benefit": "La séquence correcte est disponible dès le départ, au lieu d’être découverte par l’erreur."
+            },
+            {
+              "heading": "Être guidé pas à pas les premières fois",
+              "objective": "Éviter que la première exécution contienne une erreur.",
+              "exercise": [
+                "Faire les premiers passages sur une chute, pas sur la pièce finale.",
+                "Laisser la personne qui guide lire chaque étape avant le geste.",
+                "Arrêter dès qu’un doute apparaît, plutôt que de tenter une solution."
+              ],
+              "benefit": "Chaque répétition renforce la bonne étape ; le rythme reste celui de la personne qui apprend."
+            },
+            {
+              "heading": "Retirer l’aide progressivement",
+              "objective": "Passer du guidage à l’autonomie sans revenir aux essais au hasard.",
+              "exercise": [
+                "Une fois les premiers passages réussis, lire soi-même la fiche à voix haute.",
+                "Ensuite, consulter la fiche seulement avant de régler la profondeur.",
+                "Garder la fiche sur la machine même quand le geste semble acquis."
+              ],
+              "benefit": "L’autonomie peut grandir sans effacer le filet de sécurité ; l’ergothérapeute peut ajuster ce rythme."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Trois rainures sur une chute",
+      "ending": "Bilal accepte, à une condition : c’est lui qui tient la machine. Martine plastifie la feuille avec du ruban adhésif large et la scotche sur le carter, côté poignée. Elle lit la première ligne ; il débranche. Deuxième ligne ; il monte la fraise. À la troisième, il veut tourner la molette de trois crans, comme sur l’ancienne ; Martine pose le doigt sur la fiche : « Deux crans. C’est écrit. » Il obéit en grognant. Il pousse la défonceuse de gauche à droite sur la chute. La rainure est nette, à la bonne profondeur. Ils recommencent, Martine lit, il exécute. Deux fois. À la troisième, c’est Bilal qui lit à voix haute. Trois rainures propres sur la chute. Il ne passe pas encore aux lattes : ce sera demain, avec la fiche. Il dit qu’il sait déjà le geste. Il laisse quand même la fiche scotchée. Le lendemain, il tend la main vers la molette, s’arrête, et lit la troisième ligne.",
+      "conclusion": "Un apprentissage qui limite les erreurs protège une personne qui retient mal les informations nouvelles d’une mauvaise étape installée comme une habitude. Bilal garde son geste de sculpteur et accepte un guidage pour une machine nouvelle, sans savoir combien de temps la fiche restera nécessaire.",
+      "mirror": [
+        "Martine s’est reprise à temps : au lieu de demander « tu te souviens ? », elle a raconté elle-même l’épisode du guide. Un proche peut faire de même : « Je te raconte ce qui s’est passé la dernière fois », plutôt que de demander à l’autre de retrouver un souvenir. Pendant un apprentissage, il peut lire les étapes et dire « c’est écrit » sans faire à la place. Il n’invente pas de méthode thérapeutique : la démarche a été préparée avec l’ergothérapeute et la notice du fabricant."
+      ],
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "nice-ng236",
+        "incog-memoire-2023"
+      ],
+      "continuity": {
+        "choice": "Bilal apprend la défonceuse guidé par Martine sur une chute de chêne, avec une fiche de sept étapes scotchée sur le carter ; il réussit trois rainures et garde la fiche pour les lattes du lendemain.",
+        "next": "Hugo lui propose ensuite des alarmes sur son téléphone, après une séance collective manquée, ce que Bilal accueille avec méfiance."
+      },
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 8,
+      "slug": "bilal-choisir-ses-aides-externes-rappel-du-mardi",
+      "title": "Choisir ses aides externes après une séance manquée",
+      "description": "Le carnet rouge est resté dans le tablier et Bilal a manqué la séance du jardin. Hugo propose des alarmes ; lui craint qu’elles décident à sa place.",
+      "context": "après une séance collective manquée",
+      "topics": [
+        "Trouble amnésique",
+        "aides externes",
+        "rappel téléphonique"
+      ],
+      "clinical_focus": "Choisir ses aides externes",
+      "clinical_intro": "Les aides externes, comme les agendas, les listes, les calendriers ou les rappels sur téléphone, font partie des stratégies recommandées en réadaptation de la mémoire. Leur choix dépend des tâches et des préférences de la personne. Bilal, dont le trouble amnésique est déjà diagnostiqué, découvre une limite de son carnet et négocie l’aide qu’il accepte.",
+      "opening": "Mercredi, huit heures. Bilal ouvre la porte cochère de l’atelier et trouve, en allumant son téléphone, un message d’Odile, l’animatrice de la maison de quartier : « On t’a attendu hier soir au jardin. Pas grave, on a choisi l’emplacement des pieds sans toi. Jonas, notre apprenti menuisier, a fait un croquis. »\n\nHier soir. Mardi, dix-huit heures trente, la séance collective du banc. Il reste immobile, la clé encore dans la serrure. Il décroche son tablier du clou, sort le carnet rouge, retire l’élastique. Page de lundi : « Mardi 18 h 30, jardin, séance. Apporter plan. » C’était écrit. Seulement, depuis l’arrangement avec Hugo, il ferme le carnet à dix-sept heures et le laisse dans la poche du tablier, et le tablier reste à l’atelier. Hier, à dix-sept heures, il a passé l’élastique, accroché le tablier, et il est rentré dîner. L’information a passé la nuit à deux mètres de l’établi.\n\nLe lendemain, jeudi, à dix heures, Hugo Marchal, l’ergothérapeute de son équipe de réadaptation, passe pour leur séance hebdomadaire. Bilal lui raconte sans détour et lui tend le carnet ouvert à la bonne page.\n\nHugo réfléchit. « Le carnet marche quand tu l’as sous les yeux. Le soir, il dort ici. On pourrait mettre des alarmes sur ton téléphone : la séance du mardi, les rendez-vous, les livraisons. »\n\nBilal fait la grimace. Il déteste les sonneries. À l’atelier, elles couvrent le bruit de la gouge sur le bois, celui qui lui dit si le fil part bien. Et il imagine son téléphone lui dicter sa journée, sonner pour tout, décider à sa place quand il doit penser à quoi. « Je ne veux pas devenir une machine qu’on programme, Hugo. Le bois me parle, pas le téléphone. »\n\nHugo ne range pas son idée. Il pose une autre question : « Alors dis-moi où le carnet ne suffit pas. Seulement là. »",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Une aide utile est une aide choisie",
+          "text": "En réadaptation de la mémoire, les aides externes figurent parmi les stratégies recommandées : agendas, listes, calendriers, alarmes ou rappels électroniques, ces derniers étant souvent privilégiés quand l’atteinte est importante. Ces recommandations insistent aussi sur l’adaptation aux besoins fonctionnels et au contexte de la personne : une aide qu’elle refuse ou qui la gêne dans son travail risque de ne pas être utilisée. Le carnet rouge de Bilal fonctionne à l’atelier, mais il reste dans le tablier le soir. Le problème n’est pas l’absence de trace, c’est l’endroit où la trace se trouve au moment où il faut agir. Le choix d’une aide complémentaire se fait avec lui, pour une tâche précise."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment une aide peut-elle fonctionner ici et manquer ailleurs ?",
+          "points": [
+            {
+              "heading": "Une trace présente mais hors de portée",
+              "text": "Une information bien notée peut rester inutile si le support n’est pas là quand il faut agir.",
+              "examples": [
+                "La séance du mardi est écrite dans le carnet, resté dans le tablier à l’atelier.",
+                "Bilal découvre la page le mercredi matin, une fois la séance passée."
+              ]
+            },
+            {
+              "heading": "Un arrangement qui crée un angle mort",
+              "text": "Une règle utile pour limiter l’effort peut, sans ajustement, laisser des moments sans support.",
+              "examples": [
+                "La fermeture du carnet à dix-sept heures protège la soirée de Bilal.",
+                "La séance du jardin tombe justement après cette heure."
+              ]
+            },
+            {
+              "heading": "Une aide proposée qui inquiète",
+              "text": "Une aide efficace pour d’autres peut être vécue comme une perte de contrôle par la personne concernée.",
+              "examples": [
+                "Bilal craint que les sonneries couvrent le bruit de la gouge.",
+                "Il redoute que le téléphone décide à sa place de sa journée."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour choisir une aide externe qui convient",
+          "points": [
+            {
+              "heading": "Lister les situations où l’aide actuelle ne suffit pas",
+              "objective": "Partir des trous réels plutôt que de multiplier les aides.",
+              "exercise": [
+                "Reprendre les dernières situations manquées avec l’ergothérapeute.",
+                "Noter pour chacune où était le support au moment d’agir.",
+                "Retenir les situations qui se répètent chaque semaine."
+              ],
+              "benefit": "L’aide nouvelle peut viser un besoin précis au lieu d’envahir toute la journée."
+            },
+            {
+              "heading": "Essayer une seule aide pour une seule tâche",
+              "objective": "Garder le contrôle de l’outil et juger son effet clairement.",
+              "exercise": [
+                "Choisir une seule tâche, par exemple une réunion hebdomadaire.",
+                "Rédiger soi-même le message du rappel, avec ses propres mots.",
+                "Fixer l’heure du rappel au moment où l’action est encore possible."
+              ],
+              "benefit": "Un rappel écrit par la personne peut rester un outil à son service plutôt qu’une consigne extérieure."
+            },
+            {
+              "heading": "Réévaluer après quelques semaines",
+              "objective": "Garder la possibilité d’ajuster, d’élargir ou d’abandonner l’aide.",
+              "exercise": [
+                "Noter dans le carnet chaque fois que le rappel a servi ou gêné.",
+                "Faire le point avec l’ergothérapeute à une date fixée.",
+                "Décider ensemble de garder, modifier ou arrêter le rappel."
+              ],
+              "benefit": "L’aide reste un arrangement révisable ; elle ne promet pas de résoudre tous les oublis."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Un seul rappel, écrit de sa main",
+      "ending": "Bilal réfléchit, le carnet ouvert sur l’établi. « Le seul endroit où ça coince, c’est le mardi soir. Le reste, c’est ici, devant l’ardoise. » Hugo propose un rappel unique, le mardi à dix-sept heures, au moment où Bilal passe l’élastique autour du carnet. Bilal accepte, à condition de choisir la sonnerie la plus discrète et d’écrire lui-même le texte. Il tape lentement, avec son gros pouce : « Mardi. Jardin 18 h 30. Sors le carnet du tablier et emporte-le. » Il refuse les autres alarmes que Hugo lui montre : livraisons, rendez-vous, fournisseurs. « Ça, c’est l’ardoise et le carnet. » Hugo note la date d’un point dans quatre semaines. Bilal répond à Odile : « Pardon pour hier. Je serai là mardi prochain. Garde-moi le croquis de Jonas. » Le mardi suivant, à dix-sept heures, le téléphone vibre dans sa poche. Bilal lit son propre message, grommelle, et glisse le carnet dans sa veste. À dix-huit heures trente, il est au jardin.",
+      "conclusion": "Une aide externe vaut surtout par l’usage qu’en fait la personne. Bilal garde le carnet rouge comme outil principal et accepte un seul rappel, pour une seule situation, rédigé par lui. L’arrangement sera revu dans quatre semaines ; d’autres trous peuvent apparaître ailleurs.",
+      "mirror": [
+        "Odile a eu un geste simple : signaler l’absence sans reproche et garder une trace de ce qui a été décidé, le croquis de Jonas. Un proche peut écrire de la même façon : « On t’a gardé le croquis, je te l’apporte ? » Il n’installe pas d’alarmes sur le téléphone de quelqu’un sans son accord et ne programme pas sa journée à sa place. S’il pense qu’un rappel pourrait aider, il peut le suggérer et laisser la personne en parler avec son équipe."
+      ],
+      "sources": [
+        "oms-cddr",
+        "incog-memoire-2023",
+        "cicerone-2019"
+      ],
+      "continuity": {
+        "choice": "Bilal accepte un rappel téléphonique unique, le mardi à 17 h, avec un message qu’il a écrit, et refuse les autres alarmes ; le carnet rouge reste son outil principal, avec un point prévu avec Hugo dans quatre semaines.",
+        "next": "À la maison, une nouvelle importante d’Inès, sa fille, va lui échapper malgré les aides de l’atelier."
+      },
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 9,
+      "slug": "bilal-oublier-nouvelle-familiale-importante-poste-ines",
+      "title": "Oublier une nouvelle familiale importante sans qu’elle compte moins",
+      "description": "Bilal appelle sa fille pour la féliciter de son nouveau poste. Inès lui répond qu’il l’a déjà fait dimanche, à table : il se tait, honteux.",
+      "context": "au téléphone puis autour du buffet",
+      "topics": [
+        "Trouble amnésique",
+        "vie familiale",
+        "carnet familial"
+      ],
+      "clinical_focus": "Oublier une nouvelle familiale importante",
+      "clinical_intro": "Le trouble amnésique ne s’arrête pas à la porte de l’atelier : une nouvelle familiale récente, même heureuse et chargée d’émotion, peut ne pas être retenue. Cet oubli ne mesure pas l’attachement de la personne. Bilal, dont le diagnostic est établi, en fait l’expérience avec sa fille et cherche avec sa famille une trace qui ne transforme personne en secrétaire.",
+      "opening": "Mercredi, dix-neuf heures, rue Colbert. Neuf semaines après la livraison du chêne, Bilal rentre de l’atelier et trouve Samia, sa femme, professeure de mathématiques, en train de corriger des copies sur la table du salon. Elle lève la tête : « Inès a signé son contrat aujourd’hui. Elle m’a envoyé une photo du stylo. »\n\nUn contrat. Bilal ne sait pas de quoi elle parle, mais il comprend qu’il s’agit d’une bonne nouvelle pour leur fille. Inès, vingt-sept ans, vit à Lyon depuis ses études ; elle cherchait depuis des mois un poste dans un bureau d’études. Il sort son téléphone, tout content, et l’appelle.\n\n« Ma fille ! Ta mère me dit que tu as un poste ! Bravo, je suis tellement fier. C’est où ? Tu commences quand ? »\n\nUn silence. Puis la voix d’Inès, très douce, presque prudente.\n\n« Papa… Je te l’ai annoncé dimanche, à table, quand je suis venue déjeuner. Tu m’avais déjà félicitée. Tu avais même sorti le cidre de la cave et tu avais trinqué en disant que les bureaux d’études avaient besoin de gens qui savent lire un plan. »\n\nBilal s’assoit sur l’accoudoir du canapé. Dimanche. Il cherche et ne trouve rien : ni le cidre, ni la phrase sur les plans, ni le visage de sa fille au moment de l’annonce. Le repas lui-même est une page blanche. Ce qu’il ressent n’est pas de l’agacement contre lui-même, comme pour les cotes de l’atelier. C’est de la honte, épaisse, la sensation d’avoir laissé tomber un moment qu’elle avait préparé pour lui.\n\nIl se tait trop longtemps. Inès reprend : « C’est rien, papa. Ça me fait plaisir que tu sois fier deux fois. »\n\nIl entend qu’elle essaie de le protéger. Il entend aussi, sous la gentillesse, une petite peine qu’elle n’ose pas montrer. Samia, de l’autre côté de la table, a posé son stylo rouge.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Une nouvelle qui compte peut aussi s’effacer",
+          "text": "Le trouble amnésique a un retentissement significatif dans la vie personnelle et familiale, pas seulement au travail. Une information récente peut ne pas être retenue même lorsqu’elle est importante et chargée d’émotion pour la personne et pour ses proches. Cet oubli ne dit rien de l’intérêt ou de l’affection qu’elle porte à la nouvelle. Les recommandations de réadaptation insistent sur l’information et le soutien des proches, pour qu’ils comprennent l’impact des troubles dans la vie quotidienne. Bilal était présent dimanche, heureux, il a trinqué. C’est la trace de ce moment qui manque. Inès, elle, a vécu deux fois l’annonce, et la seconde fois un peu seule."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment l’oubli d’une nouvelle familiale touche-t-il chacun ?",
+          "points": [
+            {
+              "heading": "Une joie sincère mais répétée",
+              "text": "La personne peut réagir avec la même émotion qu’à la première annonce, sans savoir qu’elle l’a déjà exprimée.",
+              "examples": [
+                "Bilal appelle Inès, tout content, pour la féliciter d’un poste qu’il croit découvrir.",
+                "Il pose les questions qu’il avait sans doute déjà posées dimanche."
+              ]
+            },
+            {
+              "heading": "Une honte qui n’est pas celle de l’atelier",
+              "text": "Oublier un moment partagé avec un proche peut peser plus lourd qu’oublier une information pratique.",
+              "examples": [
+                "Bilal ressent de la honte, pas l’agacement des cotes perdues.",
+                "Il se tait trop longtemps au téléphone, faute de savoir quoi dire."
+              ]
+            },
+            {
+              "heading": "Une peine discrète du côté du proche",
+              "text": "Le proche peut chercher à protéger la personne en minimisant ce qu’il ressent.",
+              "examples": [
+                "Inès répond que cela lui fait plaisir qu’il soit fier deux fois.",
+                "Sous sa gentillesse, Bilal entend une peine qu’elle n’ose pas dire."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour garder les nouvelles qui comptent en famille",
+          "points": [
+            {
+              "heading": "Nommer la peine des deux côtés",
+              "objective": "Éviter que chacun garde pour soi ce que l’oubli a fait.",
+              "exercise": [
+                "Dire simplement ce que l’on ressent, sans s’accabler.",
+                "Laisser le proche dire, s’il le souhaite, ce que cela lui a fait.",
+                "Reconnaître que l’oubli ne mesure pas l’attachement."
+              ],
+              "benefit": "La conversation peut rester un lien plutôt qu’un malaise silencieux."
+            },
+            {
+              "heading": "Garder une trace des nouvelles importantes",
+              "objective": "Disposer d’un endroit où les événements familiaux restent consultables.",
+              "exercise": [
+                "Choisir un carnet réservé à la famille, distinct de celui du travail.",
+                "Le poser à un endroit de passage dans la maison.",
+                "Y noter seulement les nouvelles qui comptent, avec la date."
+              ],
+              "benefit": "Les nouvelles peuvent être relues sans devoir les redemander, ce qui ne remplace pas le moment vécu."
+            },
+            {
+              "heading": "Choisir ensemble qui écrit",
+              "objective": "Partager la trace sans transformer un proche en secrétaire.",
+              "exercise": [
+                "Décider que la personne qui annonce une nouvelle l’écrit elle-même quand elle est là.",
+                "Au téléphone, prévoir que la personne concernée écrive pendant l’appel.",
+                "Fixer un moment de relecture qui convient à tous."
+              ],
+              "benefit": "Chacun garde un rôle choisi et limité, et peut le revoir si l’arrangement pèse."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Le carnet du buffet",
+      "ending": "Bilal finit par parler. « Inès, j’ai honte. Pas parce que j’ai oublié la date d’un camion. Parce que c’était ton moment. Je suis fier, ça, je le sais, même sans me souvenir de dimanche. » Inès répond qu’elle a eu un peu de peine, et que ça va mieux de pouvoir le dire. Puis elle lui redit, sans se presser, qu’elle commence le 5 janvier. Après l’appel, Samia sort du tiroir un carnet à couverture verte. « Pas question que je devienne ton agenda, tu le sais. Mais un carnet de famille, je veux bien. » Ils le posent sur le buffet, à côté de la corbeille à clés. Bilal y écrit la première ligne de sa main, avec ce qu’Inès vient de lui redire :« Inès : poste au bureau d’études, commence le 5 janvier. Annoncé le dimanche, cidre. » Au téléphone, le lendemain, Inès promet d’écrire elle-même ses nouvelles importantes dans le carnet quand elle vient ; quand elle appelle, c’est lui qui écrit pendant l’appel. Le samedi matin, au café, il relit la page et rappelle sa fille pour lui demander comment s’appelle son futur chef. Cette question-là est nouvelle.",
+      "conclusion": "Une nouvelle familiale peut s’effacer chez une personne vivant un trouble amnésique sans qu’elle compte moins pour elle. En nommant leur peine et en posant un carnet sur le buffet, Bilal, Samia et Inès gardent une trace commune, sans que personne devienne le secrétaire de l’autre.",
+      "mirror": [
+        "Inès a montré une réponse possible : ne pas faire semblant que l’annonce était nouvelle, la rappeler doucement, puis accepter de dire sa peine quand son père l’y invite. Un proche peut dire : « Je te l’ai déjà annoncé, et je suis contente que tu sois fier. » Il peut aussi écrire lui-même sa nouvelle dans le carnet familial lors de sa venue. Il n’a pas à prendre en charge toutes les nouvelles de la famille ; chacun choisit ce qu’il écrit et peut dire quand c’est trop."
+      ],
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "nice-ng236"
+      ],
+      "continuity": {
+        "choice": "Bilal et Samia posent sur le buffet un carnet familial à couverture verte ; Inès y écrira ses nouvelles importantes quand elle vient, Bilal écrit lui-même pendant les appels et relit le carnet le samedi matin au café.",
+        "next": "Au déjeuner du dimanche, Nordine, le frère de Bilal, voudra l’aider en le pressant de questions pour faire revenir ce qu’il a oublié."
+      },
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 10,
+      "slug": "bilal-questions-insistantes-souvenirs-suggeres-dejeuner-nordine",
+      "title": "Questions insistantes et souvenirs suggérés au déjeuner du dimanche",
+      "description": "Nordine presse son frère : souviens-toi, fais un effort. Bilal finit par dire oui pour qu’il arrête, puis ne sait plus ce qu’il a lui-même raconté.",
+      "context": "au déjeuner familial du dimanche",
+      "topics": [
+        "Trouble amnésique",
+        "questions insistantes",
+        "limite posée"
+      ],
+      "clinical_focus": "Questions insistantes et souvenirs suggérés",
+      "clinical_intro": "Presser une personne vivant un trouble amnésique de retrouver un souvenir, ou lui suggérer la réponse, ne fait pas revenir l’information : cela peut au contraire brouiller ce qu’elle sait. Bilal, dont le diagnostic est déjà établi, subit les questions affectueuses mais insistantes de son frère. Distinguer ce trouble d’autres formes d’oubli reste le travail des professionnels.",
+      "opening": "Dimanche, treize heures, rue Colbert. Le couscous de Samia, la femme de Bilal, fume au milieu de la table. Nordine, le frère cadet de Bilal, est arrivé de Saint-Avertin avec une bouteille et sa bonne humeur de toujours. Il parle fort, rit fort, aime son frère sans retenue, et ne lâche jamais une idée.\n\nAu dessert, il se penche vers Bilal. « Au fait, tu te rappelles ce que je t’ai dit sur la voiture ? Il y a deux semaines, au téléphone. »\n\nBilal cherche. Rien. Il le dit : « Non, redis-moi. »\n\nNordine secoue la tête. « Non, non, cherche. Fais un effort. Tu te souviens, je t’ai appelé un soir, tu étais à l’atelier, il y avait la machine derrière. La voiture, Bilal. La blanche. » Il tape doucement sur la table, comme pour aider. « Tu bloques, c’est tout. C’est à cause de l’hôpital, tout ça, ça t’a secoué. Si tu te concentres, ça revient. »\n\nBilal sent sa nuque se raidir. Il voit une voiture blanche, mais il ne sait pas si c’est un souvenir ou l’image que Nordine vient de lui mettre dans la tête. Nordine insiste : « Je t’ai dit que je la vendais, non ? Et toi tu m’as dit quoi ? Tu m’as dit que tu passerais la voir, hein ? »\n\nSamia pose sa cuillère. Elle ne dit rien ; elle a promis de ne pas répondre à la place de Bilal.\n\n« Oui, finit par dire Bilal. Oui, c’est ça. »\n\nNordine s’illumine. « Tu vois ! Ça revient quand tu veux. »\n\nMais Bilal, lui, sait qu’il n’a rien retrouvé. Il a dit oui pour que les questions s’arrêtent. Et maintenant, il ne sait plus ce qu’il a raconté à son frère il y a deux semaines, ni s’il a promis quelque chose, ni ce que ce oui vient d’ajouter à l’histoire. Il regarde le carnet vert posé sur le buffet, derrière Nordine. Il n’y a rien dedans sur une voiture.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Insister ne rend pas une information qui n’a pas été retenue",
+          "text": "Le trouble amnésique touche surtout l’apprentissage et la rétention d’informations nouvelles, avec une relative préservation du passé. D’autres tableaux existent, comme l’amnésie dissociative, qui concerne l’impossibilité de rappeler des souvenirs autobiographiques importants, souvent liés à un événement stressant : cette distinction appartient aux professionnels, qui disposent de l’histoire médicale et d’une évaluation. Un proche n’a pas à chercher une cause émotionnelle à un oubli. Chez Bilal, la cause de son trouble est connue de son équipe et il choisit de ne pas la détailler. Les questions pressantes de Nordine ne font pas revenir l’appel ; en suggérant des réponses, elles risquent de mêler l’image proposée et le souvenir réel."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment des questions insistantes brouillent-elles ce que l’on sait ?",
+          "points": [
+            {
+              "heading": "Une demande de performance plutôt que d’information",
+              "text": "Demander « tu te rappelles ? » transforme une conversation en épreuve, sans donner l’information attendue.",
+              "examples": [
+                "Nordine refuse de redire ce qu’il a dit et répète « cherche, fais un effort ».",
+                "Bilal demande qu’on lui redise, et on lui répond de se concentrer."
+              ]
+            },
+            {
+              "heading": "Une image suggérée qui se mêle au souvenir",
+              "text": "Des détails proposés par un autre peuvent sembler familiers sans qu’on sache s’ils viennent de sa propre mémoire.",
+              "examples": [
+                "Bilal voit une voiture blanche sans savoir si c’est un souvenir ou l’image de Nordine.",
+                "La phrase « tu m’as dit que tu passerais la voir » lui est fournie toute faite."
+              ]
+            },
+            {
+              "heading": "Un oui pour faire cesser la pression",
+              "text": "Sous l’insistance, la personne peut acquiescer pour sortir de la situation, ce qui ajoute une fausse confirmation.",
+              "examples": [
+                "Bilal dit « oui, c’est ça » sans avoir rien retrouvé.",
+                "Nordine conclut que « ça revient quand il veut »."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour répondre à une question insistante",
+          "points": [
+            {
+              "heading": "Dire qu’on ne sait pas plutôt que deviner",
+              "objective": "Éviter d’ajouter une réponse inventée à ce qui manque.",
+              "exercise": [
+                "Préparer une phrase simple, comme « je ne m’en souviens pas ».",
+                "La répéter calmement si la question revient.",
+                "Revenir sur un oui donné sous pression dès qu’on le peut."
+              ],
+              "benefit": "Le récit commun peut rester fiable, même s’il contient des trous."
+            },
+            {
+              "heading": "Demander une information plutôt qu’une performance",
+              "objective": "Transformer « tu te rappelles ? » en échange utile.",
+              "exercise": [
+                "Dire « redis-moi » dès qu’on ne retrouve pas.",
+                "Proposer au proche d’envoyer l’information par écrit.",
+                "Noter l’information reçue dans le carnet prévu."
+              ],
+              "benefit": "Le proche peut continuer à partager ses nouvelles sans attendre une preuve de mémoire."
+            },
+            {
+              "heading": "Poser une limite claire",
+              "objective": "Protéger la relation et ce que l’on sait de la pression.",
+              "exercise": [
+                "Dire ce que l’on préfère, sans se justifier sur la cause du trouble.",
+                "Refuser les explications sur la cause avancées par l’entourage.",
+                "Renvoyer les questions sur le trouble à l’équipe de soins si le proche y tient."
+              ],
+              "benefit": "La personne garde la maîtrise de ce qu’elle partage de sa santé, et le proche sait comment aider."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Redis-le-moi, ne me demande pas",
+      "ending": "Bilal repose sa tasse. « Nordine, j’ai dit oui pour que tu arrêtes. Je ne me souviens pas de l’appel. Et je ne sais plus ce que je t’ai raconté. » Nordine rit, puis voit que son frère ne rit pas. Bilal continue, lentement : « Je préfère que tu me redises une information plutôt que tu me demandes de m’en souvenir. Et ce que j’ai, ce n’est pas un blocage. Mon équipe sait ce que c’est. Je n’ai pas envie d’en parler au dessert. » Nordine se vexe. Il dit qu’il voulait aider, qu’on ne peut plus rien dire, et va fumer sur le balcon. Samia débarrasse sans un mot. Dix minutes plus tard, Nordine revient, les mains dans les poches. « Bon. La voiture : je change ma camionnette blanche en décembre. Je t’avais proposé de te la prêter avant, pour transporter ton banc. Tu m’avais dit que tu y réfléchirais. » Bilal ouvre le carnet vert et l’écrit. Nordine ajoute : « Pour les prochaines nouvelles, je t’envoie un message, d’accord ? » Bilal hoche la tête. Il ne sait toujours pas ce qu’il avait répondu au téléphone.",
+      "conclusion": "Presser une personne de retrouver un souvenir ne lui rend pas l’information et peut l’amener à confirmer ce qu’elle ne sait pas. En posant une limite et en demandant qu’on lui redise, Bilal protège son récit et ce qu’il choisit de dire de sa santé, au prix d’une brouille passagère avec son frère.",
+      "mirror": [
+        "Nordine voulait aider, et il a fini par trouver le bon geste : redire lui-même l’information, puis proposer un message pour les prochaines nouvelles. Un proche peut commencer par là : « Je t’avais parlé de la camionnette ; je te redis ce que c’était. » Il évite les « fais un effort », les détails suggérés et les explications sur la cause. Si un changement brutal apparaissait, comme une confusion nouvelle, il ne chercherait pas à l’interpréter : il demanderait un avis médical rapide, ou le 15 en cas d’urgence."
+      ],
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "service-public-urgences"
+      ],
+      "continuity": {
+        "choice": "Bilal refuse les questions pièges de Nordine et lui demande de redire les informations plutôt que de lui demander de s’en souvenir ; Nordine redit la proposition de prêter sa camionnette blanche pour transporter le banc avant décembre, et enverra désormais ses nouvelles par message.",
+        "next": "À l’atelier, les finitions approchent : il reste à percer les fixations et à commander la quincaillerie, et Bilal doit décider quelles tâches il garde."
+      },
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 11,
+      "slug": "bilal-deleguer-tache-sans-perdre-sa-place-quincaillerie",
+      "title": "Déléguer une tâche sans perdre sa place de sculpteur",
+      "description": "Deux commandes identiques de vis, des fixations à percer : Martine propose de s’en charger. Bilal craint qu’on finisse par lui retirer le banc.",
+      "context": "à l’atelier pendant les finitions",
+      "topics": [
+        "Trouble amnésique",
+        "délégation",
+        "évolution incertaine"
+      ],
+      "clinical_focus": "Déléguer une tâche sans perdre sa place",
+      "clinical_intro": "Selon sa cause, un trouble amnésique peut rester relativement stable, progresser ou parfois s’améliorer : aucun avenir précis ne se lit dans un oubli ou une réussite. La réadaptation aide à analyser les exigences du travail et à répartir les tâches. Bilal, dont le diagnostic est établi, choisit lui-même ce qu’il confie, sans renoncer à son rôle.",
+      "opening": "Mardi, quinze heures. Onze semaines après la livraison du chêne, le banc est presque là : trois mètres d’assise en chêne huilé sur les tréteaux, les deux traverses du dossier taillées en languette. Les six lattes sculptées par les habitants, la carpe de Karim comme le soleil de Lucie, sont reparties chez leurs auteurs pour une dernière couche d’huile ; rainurées à la défonceuse, elles s’emboîteront sur ces languettes au jardin, le jour de la pose. Il reste les accoudoirs à sculpter, les fixations au sol à percer dans les pieds, et la quincaillerie à commander : tire-fonds inox, platines, chevilles pour la dalle du jardin.\n\nSur l’étagère du fond, deux boîtes de tire-fonds identiques, même référence, même étiquette de chez Brunet, la quincaillerie du boulevard Béranger. Bilal les a commandées toutes les deux le mois dernier, à neuf jours d’écart. Il ne se souvient d’aucune des deux commandes.\n\nMartine Roussel, son associée ébéniste, pose les bons de commande sur l’établi. « Je peux m’occuper de la quincaillerie. Je fais les devis de toute façon. Et le perçage des pieds, Jonas peut le faire, il en a besoin pour son diplôme. »\n\nJonas, l’apprenti menuisier du projet, lève la tête de sa ponceuse. Il ne dit rien.\n\nBilal ne répond pas tout de suite. Il caresse le bord d’un accoudoir encore brut. « Et après, ce sera quoi ? Les vis aujourd’hui, le perçage demain, et dans un mois vous me laisserez balayer les copeaux. C’est mon banc, Martine. »\n\nElle ne recule pas. « C’est notre banc, et c’est toi qui l’as dessiné. Je ne te retire rien. Je te propose deux tâches, pas tout le reste. »\n\nBilal sort le carnet rouge. À la page du rendez-vous de la semaine dernière avec la docteure Vasseur, la neuropsychologue de son équipe, il a noté de sa main : « Pas d’avenir écrit dans un oubli. On ajuste le travail, pas la personne. » Il relit la phrase deux fois. Il a peur qu’on décide pour lui, et peur aussi d’une troisième boîte de vis.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Un avenir qu’on ne lit pas dans une erreur",
+          "text": "L’évolution d’un trouble amnésique dépend de sa cause : les symptômes peuvent rester relativement stables, progresser, ou parfois s’améliorer selon les cas et les traitements disponibles. Une erreur isolée, comme une réussite, ne permet pas de prédire la suite ; seule l’équipe de soins peut situer l’évolution, avec le temps et les évaluations. Les recommandations de réadaptation proposent d’analyser les exigences du métier, d’adapter les stratégies et d’aménager les tâches. Pour Bilal, deux commandes en double ne disent rien de l’avenir : elles montrent que la quincaillerie repose sur des informations nouvelles et répétées, là où la sculpture repose sur son savoir. Déléguer, dans ce cadre, est un choix d’organisation et non une perte de place."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment la question de déléguer se pose-t-elle au travail ?",
+          "points": [
+            {
+              "heading": "Des tâches qui reposent sur l’information nouvelle",
+              "text": "Certaines tâches exigent de retenir ce qu’on a déjà fait ou demandé, plus que de savoir faire.",
+              "examples": [
+                "Bilal commande deux fois les mêmes tire-fonds à neuf jours d’écart.",
+                "Il ne se souvient d’aucune des deux commandes passées chez Brunet."
+              ]
+            },
+            {
+              "heading": "La peur d’un retrait progressif",
+              "text": "Une proposition d’aide peut être vécue comme le premier pas d’une mise à l’écart.",
+              "examples": [
+                "Bilal imagine qu’on finira par ne lui laisser que les copeaux à balayer.",
+                "Il répond « c’est mon banc » avant même de discuter les deux tâches proposées."
+              ]
+            },
+            {
+              "heading": "Une incertitude sur l’avenir qui pèse sur le choix",
+              "text": "Ne pas savoir comment le trouble évoluera peut rendre chaque délégation définitive en apparence.",
+              "examples": [
+                "Il relit la phrase notée après le rendez-vous avec la docteure Vasseur.",
+                "Il redoute à la fois de perdre sa place et d’accumuler les erreurs."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour déléguer en restant maître du projet",
+          "points": [
+            {
+              "heading": "Distinguer les tâches selon ce qu’elles demandent",
+              "objective": "Voir quelles tâches dépendent surtout d’informations nouvelles.",
+              "exercise": [
+                "Lister les tâches restantes avec l’associée ou l’équipe.",
+                "Marquer celles qui exigent de suivre des commandes, des délais ou des références.",
+                "Marquer celles qui reposent sur le savoir-faire et le jugement."
+              ],
+              "benefit": "La répartition peut s’appuyer sur la nature des tâches plutôt que sur la peur de mal faire."
+            },
+            {
+              "heading": "Choisir soi-même ce qu’on délègue",
+              "objective": "Garder la décision, même quand on confie l’exécution.",
+              "exercise": [
+                "Proposer soi-même les tâches à confier, parmi celles marquées.",
+                "Nommer celles que l’on garde et pourquoi elles comptent.",
+                "Prévoir un moment pour revoir ce choix avec l’ergothérapeute."
+              ],
+              "benefit": "La délégation reste un choix révisable, et non une décision prise à la place de la personne."
+            },
+            {
+              "heading": "Écrire qui fait quoi",
+              "objective": "Rendre la répartition visible et vérifiable par tous.",
+              "exercise": [
+                "Inscrire chaque tâche avec le nom de la personne et une date.",
+                "Placer cette répartition sur le support commun de l’atelier.",
+                "Cocher chaque tâche terminée en présence de celui qui l’a faite."
+              ],
+              "benefit": "Chacun peut retrouver sa part sans dépendre du souvenir des autres."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Les noms à côté des tâches",
+      "ending": "Bilal referme le carnet. « D’accord. Mais c’est moi qui écris. » Il va à l’ardoise, efface une ligne terminée, et écrit en dessous : « Quincaillerie : Martine, commande jeudi. Perçage des pieds : Jonas, vendredi, avec moi à côté. Accoudoirs : Bilal. Assemblage final : Bilal. » Il ajoute, après réflexion : « Transport : camionnette de Nordine. » Il se tourne vers Jonas. « Tu perceras, mais je règle la profondeur avec toi et je regarde. Si je dis stop, tu t’arrêtes. » Jonas sourit pour la première fois de l’après-midi. Martine rapporte le lendemain la boîte en double chez Brunet ; le vendeur la reprend. Jeudi, elle passe une seule commande et colle le bon sous l’ardoise. Vendredi, Jonas perce les quatre pieds pendant que Bilal tient l’équerre et compte à voix haute. Le soir, Bilal commence le premier accoudoir, une feuille de chêne qui s’enroule. Il ne sait pas ce qu’il pourra encore faire seul l’an prochain. Ce soir, il sculpte.",
+      "conclusion": "Selon la cause, l’évolution d’un trouble amnésique reste incertaine, et aucun oubli ne l’écrit à l’avance. En choisissant lui-même ce qu’il délègue et en l’écrivant sur l’ardoise, Bilal confie la quincaillerie et le perçage tout en gardant la sculpture et l’assemblage du banc.",
+      "mirror": [
+        "Martine a proposé deux tâches précises, sans prendre tout le reste, et a laissé Bilal écrire lui-même la répartition. Un proche ou un collègue peut faire de même : « Je peux prendre ça, si tu veux. Qu’est-ce que tu gardes ? » Il évite de décider seul de ce que l’autre ne peut plus faire. Il peut aussi dire ses propres limites et rappeler que la répartition se revoit, avec la personne et, si elle le souhaite, avec son équipe de réadaptation."
+      ],
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "nice-ng236"
+      ],
+      "continuity": {
+        "choice": "Bilal écrit sur l’ardoise la répartition : commande de quincaillerie à Martine (une seule commande, jeudi), perçage des pieds à Jonas le vendredi sous sa supervision, sculpture des accoudoirs et assemblage final pour lui, transport par la camionnette de Nordine.",
+        "next": "Le jour de la pose au jardin, chaque participant devra retrouver seul l’ordre des étapes et des décisions, y compris ceux qui ont manqué la dernière réunion."
+      },
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 12,
+      "slug": "bilal-garder-decisions-visibles-groupe-pose-du-banc",
+      "title": "Garder les décisions visibles pour tout le groupe le jour de la pose",
+      "description": "Au jardin, deux habitants ne savent plus dans quel ordre poser les lattes, et Bilal non plus. Il sort la fiche des étapes et l’accroche au grillage.",
+      "context": "au jardin de la maison de quartier",
+      "topics": [
+        "Trouble amnésique",
+        "repères partagés",
+        "participation au projet"
+      ],
+      "clinical_focus": "Garder les décisions visibles pour tout le groupe",
+      "clinical_intro": "Les stratégies d’environnement, comme les routines et les repères visibles, font partie des appuis proposés en réadaptation de la mémoire. Un support affiché sert aussi à ceux qui n’ont aucun trouble. Le jour de la pose du banc, Bilal, dont le trouble amnésique est connu, partage avec tout le groupe une fiche qui ne dépend de la mémoire de personne.",
+      "opening": "Samedi, dix heures. Treize semaines après la livraison du chêne, la camionnette blanche de Nordine, le frère de Bilal, recule dans l’allée du jardin partagé de la maison de quartier. Un mètre soixante de large : le rétroviseur frôle le tilleul, mais ça passe. Jonas, l’apprenti menuisier, et Rachid, le retraité de la voirie, descendent l’assise du banc sur leurs épaules et la posent sur la dalle, entre le tilleul et la bordure.\n\nLes autres habitants du projet arrivent un par un, chacun avec sa latte sculptée enveloppée dans un torchon : Thérèse et ses feuilles de vigne, Karim et sa carpe, Germaine et ses initiales entrelacées, Lucie et son soleil. Odile, l’animatrice de la maison de quartier, a apporté du café dans un thermos. Martine Roussel, l’associée ébéniste de Bilal, vérifie les platines de la quincaillerie qu’elle a commandée.\n\nKarim déballe sa carpe et demande : « On les met dans quel ordre, déjà ? J’étais pas là mardi. » Germaine non plus n’était pas à la dernière réunion. Elle croit que la sienne va au milieu. Thérèse pense que non. Lucie hausse les épaules.\n\nTout le monde se tourne vers Bilal. C’est son banc, c’est lui qui sait.\n\nBilal regarde les six lattes posées dans l’herbe. Le carnet rouge dit qu’il était à la réunion de mardi : le rappel de dix-sept heures l’y a envoyé. Mais l’ordre voté ce soir-là ne lui revient pas plus qu’à Karim. Il sent revenir la chaleur au cou du premier lundi, devant les tréteaux vides.\n\nPuis il glisse la main dans la poche de son tablier. À côté du carnet rouge, il y a une feuille pliée en quatre, plastifiée au ruban adhésif large comme celle de la défonceuse. Jeudi, avec Martine, il a recopié dessus le compte rendu d’Odile et la ligne de l’ardoise. En haut, en lettres capitales : « POSE DU BANC — LES ÉTAPES ».",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Un repère affiché qui sert à tout le monde",
+          "text": "Les recommandations de réadaptation de la mémoire comprennent des stratégies d’environnement : routines, repères visibles, organisation des lieux, à côté des aides externes comme les listes et les calendriers. Ces appuis visent la participation aux activités réelles de la personne, avec son accord et, quand c’est approprié, avec ses proches. Un support partagé a une autre qualité : il ne désigne personne. Au jardin, Karim et Germaine ont manqué une réunion, et Bilal ne retrouve pas l’ordre voté. Avec une fiche à hauteur des yeux, la question n’est plus de savoir qui se souvient, mais ce que le groupe a décidé. Ce repère n’efface pas le trouble ; il rend le projet accessible à chacun."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment le manque de repère commun se voit-il dans un groupe ?",
+          "points": [
+            {
+              "heading": "Des absences qui créent des versions différentes",
+              "text": "Dans un groupe, ceux qui ont manqué une décision la reconstruisent chacun à sa façon.",
+              "examples": [
+                "Germaine croit que sa latte va au milieu ; Thérèse pense le contraire.",
+                "Karim n’était pas là mardi et demande l’ordre à voix haute."
+              ]
+            },
+            {
+              "heading": "Un regard qui se tourne vers une seule personne",
+              "text": "Le groupe peut attendre de l’animateur ou du responsable qu’il détienne toute la mémoire du projet.",
+              "examples": [
+                "Tout le monde se tourne vers Bilal parce que c’est son banc.",
+                "Bilal sent revenir la gêne du premier lundi devant les tréteaux vides."
+              ]
+            },
+            {
+              "heading": "Une présence qui ne garantit pas le souvenir",
+              "text": "Avoir assisté à une décision ne suffit pas à la retenir quand l’information nouvelle ne se fixe pas.",
+              "examples": [
+                "Le rappel du mardi a conduit Bilal à la réunion, mais l’ordre voté lui échappe.",
+                "Seule la fiche recopiée jeudi avec Martine garde la décision."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour garder les décisions d’un groupe visibles",
+          "points": [
+            {
+              "heading": "Afficher l’ordre des étapes à hauteur des yeux",
+              "objective": "Rendre la séquence lisible sans avoir à la demander.",
+              "exercise": [
+                "Écrire chaque étape sur une ligne, avec les noms concernés.",
+                "Fixer la fiche sur le lieu même du travail, à hauteur des yeux.",
+                "Lire la première étape à voix haute avant de commencer."
+              ],
+              "benefit": "Chacun peut retrouver sa place seul, qu’il ait ou non un trouble de la mémoire."
+            },
+            {
+              "heading": "Faire valider la fiche par le groupe",
+              "objective": "Transformer une note personnelle en décision commune.",
+              "exercise": [
+                "Demander à chacun de relire sa ligne.",
+                "Corriger ensemble ce qui ne correspond pas au vote.",
+                "Faire signer ou parapher la fiche par les présents."
+              ],
+              "benefit": "La fiche devient la référence du groupe, et personne n’a à arbitrer entre les souvenirs."
+            },
+            {
+              "heading": "Garder une trace pour la suite",
+              "objective": "Ne pas perdre les décisions une fois le projet terminé.",
+              "exercise": [
+                "Conserver la fiche et les comptes rendus dans un même dossier.",
+                "Noter les idées de suite sans les décider le jour même.",
+                "Fixer avec les personnes concernées un moment pour en reparler."
+              ],
+              "benefit": "Le prochain projet peut partir des décisions déjà prises, sans promettre que tout sera plus simple."
+            }
+          ]
+        }
+      ],
+      "ending_title": "La fiche accrochée au grillage",
+      "ending": "Bilal déplie la fiche et l’accroche avec deux pinces à linge au grillage du jardin, à hauteur des yeux. « Je ne m’en souviens pas non plus, dit-il. C’est pour ça qu’on l’a écrit. » Il lit la troisième ligne à voix haute : « Lattes, de gauche à droite : Thérèse, Karim, Germaine, Lucie, Rachid, Jonas. » Germaine rit : elle n’est pas au milieu, mais presque. Chacun relit sa ligne ; Odile demande à tous de parapher la fiche au feutre. Puis on suit les étapes. Jonas visse les platines dans les trous qu’il a percés. Les six lattes s’emboîtent une à une sur les languettes, chacun la sienne. Bilal fixe les deux accoudoirs, la feuille de chêne qui s’enroule. À midi, le banc est posé. Rachid s’assoit le premier. Plus tard, Bilal rapporte la fiche à l’atelier et la colle sous l’ardoise, qui reste l’outil de tout le monde, Martine comprise. Le soir, avant que le carnet rouge se ferme, il écrit : « Une table pour le même jardin ? À décider avec Odile et Martine, au printemps. » Jeudi, il a rendez-vous avec Hugo, comme toutes les semaines.",
+      "conclusion": "Un repère visible et validé par le groupe rend un projet accessible à tous, y compris à une personne vivant un trouble amnésique. Le banc est posé avec les six lattes ; la mémoire de Bilal n’est pas déclarée guérie, le suivi continue, et le projet de table reste une idée à décider plus tard.",
+      "mirror": [
+        "Quand tout le monde s’est tourné vers Bilal, un participant aurait pu dire : « On regarde la fiche ensemble ? », pour que personne ne porte seul la mémoire du groupe. Odile a montré un autre geste utile : faire parapher la fiche par chacun, sans désigner qui avait oublié. Un proche peut proposer d’afficher une décision ou de la relire avec la personne ; il n’a pas à tenir à sa place tous les comptes rendus. Il peut aussi passer le relais à l’équipe de réadaptation quand une aide ne suffit plus."
+      ],
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "nice-ng236",
+        "cicerone-2019"
+      ],
+      "continuity": {
+        "choice": "Bilal affiche au grillage la fiche des étapes recopiée avec Martine, la fait parapher par le groupe ; le banc est posé avec les six lattes dans l’ordre voté, la fiche rejoint l’ardoise de l’atelier, qui reste un outil commun.",
+        "next": "Le parcours se clôt sur le banc installé ; le suivi hebdomadaire avec Hugo continue et le projet de table pour le même jardin reste une idée à décider au printemps avec Odile et Martine."
+      },
+      "diagnostic_stage": "known"
+    }
+  ]
+}

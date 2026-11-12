@@ -21,7 +21,7 @@
         "Responsabilité"
       ],
       "clinical_intro": "Le trouble factice imposé à autrui est diagnostiqué chez la personne qui présente intentionnellement une autre personne comme malade sur la base d’une tromperie identifiée. La personne exposée n’est pas porteuse de ce diagnostic. Le suivi de la première et la protection de la seconde ont des objectifs distincts, sans échange entre assiduité au soin et sécurité.",
-      "opening": "Florence lit la première épreuve à voix basse. Le titre, Regards de quartier, occupe le haut de la page. Elle préfère les légendes courtes et voudrait en proposer une autre pour le premier dessin. Sa collègue Cathy attend une date de retour sur le cahier, pas une version achevée dans l’heure. Florence ferme pourtant le dossier avec l’impression de laisser une question simple sans réponse.\n\nElle a rendez-vous avec la docteure Derain. Dans le cabinet, elle commence par expliquer le travail municipal, le cahier ouvert aux habitants et les épreuves qu’elle corrige dans le cadre déjà validé. La psychiatre écoute, puis revient à l’objet du suivi. Le trouble factice imposé à autrui de Florence est établi depuis avant ce chantier. Une tromperie intentionnelle concernant la présentation de la santé d’une autre personne a été identifiée. Les décisions de protection sont déjà effectives.\n\nFlorence voudrait rester sur ce qu’elle peut finir cette semaine. Elle comprend pourtant que le cahier ne répond pas à la question de la médecin. « Le diagnostic me concerne, dit-elle. Et la protection ne dépend pas de ce que je réussis ici. » La phrase est difficile à prononcer sans aussitôt parler de ses intentions. Derain lui demande de préciser ce qu’elle a compris des décisions qui la concernent. Florence répond, sans raconter de procédé ni demander des nouvelles de la personne exposée. Le dossier du cahier reste fermé sur ses genoux.",
+      "opening": "Au deuxième étage du service municipal, Florence lit à voix basse la première épreuve de Regards de quartier, le cahier de dessins que la ville prépare avec les habitants. Elle est correctrice : elle relit les textes, puis rend les épreuves à Cathy, la coordinatrice éditoriale. Sous le premier dessin, un banc devant la boulangerie, la légende fait trois lignes. Florence la barre, écrit « Le banc du matin » dans la marge, hésite. Il est onze heures. Elle glisse l’épreuve dans son sac.\n\nLe cabinet de la docteure Derain, sa psychiatre, se trouve à vingt minutes de tram, au centre de consultation où une équipe spécialisée la suit. Florence s’assoit et sort l’épreuve. « J’ai commencé le cahier. Je pensais vous montrer où j’en suis. »\n\nDerain regarde la page sans la prendre. « On pourra en parler. Mais je voudrais d’abord revenir à ce qui vous amène ici. Qu’est-ce que vous diriez, vous, de votre diagnostic ? »\n\nFlorence pose l’épreuve sur ses genoux. Avant ce chantier, il a été établi qu’elle avait trompé des soignants en présentant une autre personne comme malade. C’est ce que les médecins appellent un trouble factice imposé à autrui. Depuis, des professionnels assurent la protection de cette personne, et Florence doit respecter les décisions qu’ils ont prises.\n\n« Le diagnostic, c’est le mien, dit-elle lentement. Pas celui de la personne. » Elle commence une autre phrase : « Je voulais seulement… » Puis elle s’arrête. « Non. C’est moi qui suis responsable. »\n\n« Et les décisions de protection, qu’est-ce que vous en avez compris ? »\n\n« Qu’elles s’appliquent, quoi que je fasse ici. Que mon cahier n’y change rien. »\n\n« Est-ce qu’un point reste flou pour vous ? »\n\nFlorence réfléchit. « Non. Pas aujourd’hui. » Elle ne demande pas de nouvelles de la personne. L’épreuve reste sur ses genoux jusqu’à la fin du rendez-vous.",
       "sections": [
         {
           "role": "explanation",
@@ -36,24 +36,24 @@
               "heading": "Le travail fournit un premier sujet",
               "text": "Florence commence par une activité dont les étapes lui paraissent plus faciles à raconter.",
               "examples": [
-                "Elle décrit les épreuves du cahier.",
-                "Elle veut annoncer ce qu’elle terminera cette semaine."
+                "Dans le cabinet, Florence sort l’épreuve et propose de montrer où elle en est.",
+                "Elle parle d’abord de la légende du banc devant la boulangerie."
               ]
             },
             {
               "heading": "La responsabilité doit être nommée",
               "text": "Le suivi revient aux faits établis sans solliciter un récit de méthode.",
               "examples": [
-                "La psychiatre rappelle à qui appartient le diagnostic.",
-                "Florence reconnaît qu’il la concerne personnellement."
+                "Derain lui demande ce qu’elle dirait, elle, de son diagnostic.",
+                "Florence remplace « Je voulais seulement… » par « C’est moi qui suis responsable »."
               ]
             },
             {
               "heading": "La protection garde son objectif",
               "text": "La sécurité d’autrui ne dépend pas de la qualité de l’entretien.",
               "examples": [
-                "Les décisions sont déjà effectives avant cette consultation.",
-                "La compréhension est vérifiée sans négocier une modification."
+                "Florence dit que les décisions s’appliquent quoi qu’elle fasse en consultation.",
+                "Derain vérifie si un point reste flou, sans rien proposer de modifier."
               ]
             }
           ]
@@ -96,7 +96,7 @@
         }
       ],
       "ending_title": "Une date pour la première épreuve",
-      "ending": "Florence conserve le rendez-vous suivant et vérifie avec Derain les décisions qui la concernent. Rien n’est modifié en échange de sa présence. Elle confirme ensuite à Cathy la date de la première épreuve. La collègue peut organiser son propre travail. Florence reprend une légende, sans chercher à faire de cette tâche une preuve clinique ou un message destiné à la personne exposée.",
+      "ending": "En partant, Florence prend au secrétariat son rendez-vous suivant, avec Marc, le psychologue de l’équipe. Les décisions de protection restent celles qu’elle vient de reformuler ; sa venue ne les modifie pas. De retour au bureau, elle écrit à Cathy : « Tu auras la première épreuve corrigée jeudi. » Cathy répond : « Parfait, je cale la suite. » Florence garde « Le banc du matin » pour la première légende. C’est une légende pour le cahier, et elle la laisse à cette place.",
       "conclusion": "Comprendre à qui appartient le diagnostic permet de ne pas faire porter le soin à la personne exposée. Florence engage une tâche professionnelle et poursuit son suivi, tandis que la protection garde ses responsabilités propres.",
       "mirror": [
         "Cathy peut répondre : « Cette date me permet de préparer la suite du cahier. » Elle n’a pas à demander pourquoi Florence consulte ni à évaluer la protection. Les professionnels restent les interlocuteurs des questions cliniques et de sécurité ; la personne exposée n’a rien à confirmer pour que l’épreuve avance."
@@ -109,7 +109,7 @@
         "rcpsych-cr223"
       ],
       "continuity": {
-        "choice": "Florence conserve le rendez-vous suivant et vérifie avec Derain les décisions qui la concernent. Rien n’est modifié en échange de sa présence. Elle confirme ensuite à Cathy la date de la première épreuve. La collègue peut organiser son propre travail. Florence reprend une légende, sans chercher à faire de cette tâche une preuve clinique ou un message destiné à la personne exposée.",
+        "choice": "En partant, Florence prend au secrétariat son rendez-vous suivant, avec Marc, le psychologue de l’équipe. Les décisions de protection restent celles qu’elle vient de reformuler ; sa venue ne les modifie pas. De retour au bureau, elle écrit à Cathy : « Tu auras la première épreuve corrigée jeudi. » Cathy répond : « Parfait, je cale la suite. » Florence garde « Le banc du matin » pour la première légende. C’est une légende pour le cahier, et elle la laisse à cette place.",
         "next": "L’épreuve suivante lui laisse une question à poser sur la différence entre inquiétude et tromperie."
       }
     },
@@ -125,7 +125,7 @@
         "Parole clinique"
       ],
       "clinical_intro": "Une inquiétude pour la santé, une demande insistante de soins ou un désaccord médical ne suffisent pas à établir un trouble factice imposé à autrui. Celui-ci nécessite une tromperie intentionnelle identifiée. Cette distinction protège contre les accusations improvisées tout en empêchant qu’une inquiétude invoquée efface des faits déjà établis.",
-      "opening": "Marc demande à Florence ce qui lui est resté de l’entretien avec la psychiatre. Elle répond qu’elle voulait que la santé d’autrui soit prise au sérieux. Sa phrase arrive rapidement, avec moins d’hésitation que la reconnaissance de sa responsabilité la semaine précédente. Le psychologue ne la coupe pas, mais lui demande si cette formulation suffit à décrire ce qui a été établi dans son suivi.\n\nFlorence baisse les yeux vers son carnet personnel. Le dossier municipal est resté au bureau, où les premières légendes l’attendent. Ici, elle n’a pas de phrase à rendre plus courte pour Cathy. Elle a besoin de distinguer une inquiétude et les faits diagnostiques connus. Marc lui explique qu’une demande de soins ou une insistance ne permettent pas, à elles seules, d’attribuer ce trouble. Mais son diagnostic ne repose pas sur une simple insistance : une tromperie intentionnelle a été identifiée.\n\nElle voudrait préciser qu’elle n’est pas seulement cela. Marc ne lui demande pas de résumer toute sa personne par le diagnostic. Il lui demande de ne pas faire disparaître sa responsabilité derrière un mot plus acceptable. Florence reprend lentement : « Dire que je m’inquiétais ne suffit pas. » Elle n’ajoute ni scène ancienne ni détail de fabrication. L’entretien reste centré sur la façon dont elle décrit aujourd’hui les faits et sur ce que cette description permet, ou empêche, de travailler.",
+      "opening": "Marc, le psychologue de l’équipe spécialisée qui suit Florence, la reçoit dans un petit bureau aux stores beiges, au premier étage du centre de consultation. Une semaine a passé depuis le rendez-vous avec la docteure Derain, sa psychiatre. Marc lui demande ce qui lui en est resté.\n\n« Je voulais que sa santé soit prise au sérieux », répond Florence. La phrase sort vite, plus vite que celle sur sa responsabilité la semaine précédente.\n\nMarc laisse passer un temps. « Est-ce que cette phrase décrit tout ce qui a été établi ? »\n\nFlorence regarde son carnet personnel, ouvert sur ses genoux. Au service municipal, les premières légendes du cahier Regards de quartier l’attendent ; là-bas, elle sait raccourcir une phrase. Ici, elle ne sait pas par où commencer. « Je m’inquiétais. C’est vrai, ça aussi. »\n\n« Je vous crois, dit Marc. Beaucoup de gens s’inquiètent pour la santé de quelqu’un et insistent auprès des médecins. Cela ne veut pas dire qu’ils ont ce trouble. Mais votre diagnostic ne repose pas sur une inquiétude. Il repose sur le fait que des soignants ont été trompés. »\n\n« Je ne suis pas que ça. »\n\n« Non. Je ne vous demande pas de vous résumer à ça. Je vous demande de ne pas mettre le mot inquiétude à la place de ce qui s’est passé. »\n\nFlorence écrit « inquiétude » dans son carnet, le barre, puis le réécrit plus petit. Elle essaie : « Je m’inquiétais, et j’ai trompé les soignants. » Elle s’arrête, recommence. « Dire que je m’inquiétais ne suffit pas. »\n\nMarc lui demande ce que cette phrase change pour elle, maintenant qu’elle l’a dite. Florence répond qu’elle se sent plus exposée, et moins en train de se raconter une histoire. Ils restent sur cette phrase jusqu’à la fin de l’heure.",
       "sections": [
         {
           "role": "explanation",
@@ -140,24 +140,24 @@
               "heading": "Une intention occupe toute la phrase",
               "text": "Florence commence par ce qu’elle souhaite faire entendre d’elle-même.",
               "examples": [
-                "Elle dit qu’elle voulait une santé prise au sérieux.",
-                "Elle ne mentionne d’abord pas la tromperie identifiée."
+                "Florence répond à Marc : « Je voulais que sa santé soit prise au sérieux. »",
+                "Elle ajoute « Je m’inquiétais » avant d’évoquer la tromperie."
               ]
             },
             {
               "heading": "Deux notions sont séparées",
               "text": "Le psychologue précise ce qui distingue la préoccupation et le diagnostic.",
               "examples": [
-                "Une demande de soins seule n’établit pas le trouble.",
-                "Le dossier de Florence contient des faits qui dépassent cette simple demande."
+                "Marc rappelle que s’inquiéter et insister auprès des médecins ne suffit pas à ce diagnostic.",
+                "Il précise que celui de Florence repose sur des soignants trompés."
               ]
             },
             {
               "heading": "La parole devient plus exacte",
               "text": "Reconnaître la différence ne demande pas de rejouer une scène.",
               "examples": [
-                "Florence reprend sa formulation dans le cabinet.",
-                "Elle nomme sa responsabilité sans raconter de méthode."
+                "Florence barre le mot « inquiétude » dans son carnet, puis le réécrit plus petit.",
+                "Elle dit : « Je m’inquiétais, et j’ai trompé les soignants. »"
               ]
             }
           ]
@@ -200,10 +200,10 @@
         }
       ],
       "ending_title": "Les premières légendes peuvent être terminées",
-      "ending": "Florence dit à Marc qu’elle ne veut plus utiliser l’inquiétude comme seule description des faits établis. Le psychologue poursuit l’entretien à partir de cette distinction. Plus tard, elle termine les premières légendes et les transmet à Cathy. Cette remise a une valeur professionnelle. Elle ne prouve ni une disparition du trouble ni un changement des besoins de protection.",
+      "ending": "Avant de partir, Florence dit à Marc : « Je ne veux plus parler seulement d’inquiétude. » Il note qu’ils repartiront de là la prochaine fois. Le lendemain, au bureau, elle termine les premières légendes du cahier et les envoie à Cathy, la coordinatrice éditoriale : « Voici les légendes des pages 1 à 8. » Cathy répond : « Reçu, merci. » C’est une remise de travail. Elle ne dit rien de la santé de Florence, et la protection de la personne exposée reste ce qu’elle était.",
       "conclusion": "Une inquiétude ne suffit pas à diagnostiquer ce trouble, et elle ne suffit pas davantage à effacer une tromperie déjà identifiée. Florence cherche une parole plus exacte avec le professionnel, sans déplacer l’évaluation vers sa collègue.",
       "mirror": [
-        "Une personne qui entend parler d’un désaccord médical ne peut en déduire un trouble factice. Cathy, de son côté, peut simplement dire : « J’ai reçu les légendes. » Elle n’a pas à interpréter cette remise comme une reconnaissance clinique. La protection et l’évaluation restent confiées aux professionnels compétents."
+        "Si Florence répète à un proche ce qu’elle a d’abord dit à Marc, « Je voulais que sa santé soit prise au sérieux », il n’a ni à trancher ni à enquêter. Il peut répondre : « Je t’entends. C’est une phrase à reprendre avec ton psychologue. » Il ne déduit pas non plus un trouble chez quelqu’un de son entourage parce que cette personne insiste auprès d’un médecin. Cathy, en recevant les légendes, peut écrire seulement : « Reçu, merci. » Cette remise ne dit rien de la protection, qui reste l’affaire des professionnels."
       ],
       "clinical_focus": "Inquiétude et tromperie identifiée",
       "diagnostic_stage": "known",
@@ -214,7 +214,7 @@
         "rcpch-fii-2021"
       ],
       "continuity": {
-        "choice": "Florence dit à Marc qu’elle ne veut plus utiliser l’inquiétude comme seule description des faits établis. Le psychologue poursuit l’entretien à partir de cette distinction. Plus tard, elle termine les premières légendes et les transmet à Cathy. Cette remise a une valeur professionnelle. Elle ne prouve ni une disparition du trouble ni un changement des besoins de protection.",
+        "choice": "Avant de partir, Florence dit à Marc : « Je ne veux plus parler seulement d’inquiétude. » Il note qu’ils repartiront de là la prochaine fois. Le lendemain, au bureau, elle termine les premières légendes du cahier et les envoie à Cathy, la coordinatrice éditoriale : « Voici les légendes des pages 1 à 8. » Cathy répond : « Reçu, merci. » C’est une remise de travail. Elle ne dit rien de la santé de Florence, et la protection de la personne exposée reste ce qu’elle était.",
         "next": "La distinction des faits permet d’examiner une autre justification : l’absence de bénéfice matériel."
       }
     },
@@ -230,7 +230,7 @@
         "Évaluation individuelle"
       ],
       "clinical_intro": "Le trouble factice imposé à autrui ne se définit pas par une tromperie uniquement motivée par une récompense extérieure évidente. Cela ne signifie ni que la conduite serait involontaire ni que ses conséquences disparaîtraient. Les motivations demandent une exploration individuelle ; aucune explication unique ne peut être déduite du seul diagnostic.",
-      "opening": "« Je n’avais rien à gagner matériellement. » Florence a préparé cette phrase avant le rendez-vous. Elle la prononce dès que la docteure Derain lui demande ce qu’elle souhaite reprendre aujourd’hui. Elle espère qu’elle donnera une forme plus supportable à ce qui a été établi. La psychiatre lui demande ce que cette phrase décrit, puis ce qu’elle laisse de côté.\n\nFlorence attend quelques secondes. Elle sait qu’elle ne parle pas des conséquences pour la personne exposée. Elle ne parle pas davantage de la tromperie intentionnelle reconnue dans le diagnostic. Elle présente une absence de bénéfice matériel comme si elle pouvait expliquer tout le reste. Derain ne lui fournit pas un motif à apprendre par cœur. Elle ne conclut pas que Florence aurait nécessairement cherché de l’attention ou agi pour une raison venue de l’enfance. Elle reprend avec elle les questions utiles à son évaluation.\n\nAu bureau, le sommaire du cahier attend une dernière vérification avant son envoi à Cathy. Florence pense à cette tâche, dont elle connaît le terme. L’entretien n’offre pas cette certitude. Elle cherche encore une phrase qui réglerait la question de sa responsabilité. La médecin lui demande de laisser ouverte celle des motivations, sans transformer cette incertitude en excuse. Florence écoute, puis reconnaît que l’absence de gain alléguée ne suffit pas à parler des faits.",
+      "opening": "« Je n’avais rien à gagner matériellement. » Florence a préparé cette phrase dans le tram. Elle la prononce dès qu’elle s’assoit dans le cabinet de la docteure Derain, sa psychiatre, au centre de consultation. Elle espère qu’elle rendra plus supportable ce qui a été établi : avoir trompé des soignants en présentant une autre personne comme malade.\n\nDerain ne conteste pas. « D’accord. Qu’est-ce que cette phrase dit de ce qui s’est passé ? »\n\nFlorence réfléchit. « Que je ne l’ai pas fait pour l’argent. »\n\n« Et qu’est-ce qu’elle laisse de côté ? »\n\nLe silence dure. Florence regarde la fenêtre. « Ce que ça a fait à la personne, dit-elle enfin. Et le fait que j’ai menti. »\n\nDerain lui demande ce qu’elle cherchait, à ce moment-là, si ce n’était pas un gain. Florence ouvre la bouche, la referme. « Je ne sais pas. Je voudrais que vous me le disiez. »\n\n« Je ne vais pas vous donner une raison toute faite, répond la psychiatre. Ce serait plus confortable pour nous deux, et probablement faux. On peut la chercher ensemble, au fil des rendez-vous. »\n\nFlorence pense au sommaire du cahier Regards de quartier, posé sur son bureau au service municipal : vingt-quatre titres de dessins dans l’ordre des pages, une dernière vérification et il partira chez Cathy, la coordinatrice éditoriale. Là-bas, elle sait exactement ce qui reste à faire. Ici, rien n’est aussi net. Elle essaie : « L’absence de gain, ça ne m’excuse pas. »\n\n« Vous le pensez ? » demande Derain.\n\n« Je commence à le penser. »",
       "sections": [
         {
           "role": "explanation",
@@ -245,24 +245,24 @@
               "heading": "Un seul élément est mis en avant",
               "text": "Florence choisit ce qui lui semble rendre les faits moins difficiles à porter.",
               "examples": [
-                "Elle commence par l’absence de gain matériel.",
-                "Elle espère que la phrase suffira à expliquer sa conduite."
+                "Florence prononce sa phrase sur l’absence de gain dès qu’elle s’assoit.",
+                "Elle l’a préparée dans le tram pour rendre les faits plus supportables."
               ]
             },
             {
               "heading": "Les conséquences restent hors de la phrase",
               "text": "Ce qu’elle ne mentionne pas garde pourtant sa place dans l’évaluation.",
               "examples": [
-                "La tromperie identifiée n’est pas nommée au début.",
-                "La situation de la personne exposée ne disparaît pas avec cet argument."
+                "Derain demande ce que la phrase laisse de côté.",
+                "Florence finit par nommer ce que cela a fait à la personne, et son mensonge."
               ]
             },
             {
               "heading": "L’incertitude est difficile à accepter",
               "text": "Explorer une motivation ne produit pas forcément une réponse immédiate.",
               "examples": [
-                "Florence attend une conclusion définitive.",
-                "Derain poursuit les questions sans donner une cause unique à répéter."
+                "Florence demande à la psychiatre de lui donner la raison.",
+                "Derain refuse une cause toute faite et propose de la chercher ensemble."
               ]
             }
           ]
@@ -305,7 +305,7 @@
         }
       ],
       "ending_title": "Le sommaire part pour le service",
-      "ending": "Florence accepte de garder la question des motivations ouverte avec Derain. Elle ne conclut plus, dans cet échange, que l’absence de gain matériel suffirait à l’innocenter. De retour au bureau, elle vérifie le sommaire et l’envoie à Cathy. Elle précise simplement qu’il s’agit de la version à examiner. Le document n’est ni une réparation offerte à la personne exposée ni une preuve pour la consultation suivante.",
+      "ending": "Florence accepte de laisser la question des motivations ouverte jusqu’au prochain rendez-vous. Dans le tram, elle note dans son carnet : « Pas de gain ne veut pas dire pas de responsabilité. » De retour au bureau, elle vérifie l’ordre des vingt-quatre titres et envoie le sommaire à Cathy : « Voici la version à examiner. » Elle n’ajoute rien. Le sommaire est un document de travail pour le service ; il ne part vers personne d’autre et ne servira pas de preuve à la consultation suivante.",
       "conclusion": "Explorer les motivations ne signifie pas effacer la responsabilité. Florence laisse une question clinique ouverte et termine une tâche distincte, sans faire de cette tâche la réponse aux conséquences qui doivent rester prises en compte.",
       "mirror": [
         "Cathy peut dire : « Je regarderai l’ordre des pages et te ferai un retour. » Elle n’a pas à interpréter la qualité du sommaire comme une preuve des intentions de Florence. Si une question de responsabilité lui est adressée, elle peut la renvoyer vers le suivi spécialisé sans engager une enquête personnelle."
@@ -318,7 +318,7 @@
         "rcpsych-cr223"
       ],
       "continuity": {
-        "choice": "Florence accepte de garder la question des motivations ouverte avec Derain. Elle ne conclut plus, dans cet échange, que l’absence de gain matériel suffirait à l’innocenter. De retour au bureau, elle vérifie le sommaire et l’envoie à Cathy. Elle précise simplement qu’il s’agit de la version à examiner. Le document n’est ni une réparation offerte à la personne exposée ni une preuve pour la consultation suivante.",
+        "choice": "Florence accepte de laisser la question des motivations ouverte jusqu’au prochain rendez-vous. Dans le tram, elle note dans son carnet : « Pas de gain ne veut pas dire pas de responsabilité. » De retour au bureau, elle vérifie l’ordre des vingt-quatre titres et envoie le sommaire à Cathy : « Voici la version à examiner. » Elle n’ajoute rien. Le sommaire est un document de travail pour le service ; il ne part vers personne d’autre et ne servira pas de preuve à la consultation suivante.",
         "next": "La prochaine discussion porte sur la place qu’elle continue de vouloir occuper dans le récit de la personne exposée."
       }
     },
@@ -334,7 +334,7 @@
         "Limites de protection"
       ],
       "clinical_intro": "La personne exposée à un trouble factice imposé à autrui n’a pas à participer au soin de la personne diagnostiquée. Elle ne doit ni écouter ses explications, ni rassurer, ni pardonner. Un souhait de reconnaissance peut être travaillé en consultation, sans devenir un droit au contact ou une raison de modifier la protection.",
-      "opening": "Florence a reçu les remarques de Cathy sur le sommaire. Deux pages doivent changer d’ordre et une légende reste à raccourcir. Elle a mis ces demandes dans son dossier de travail. Au rendez-vous avec Marc, c’est une autre attente qu’elle formule : elle aimerait que la personne exposée sache qu’elle prend son suivi au sérieux.\n\nLe psychologue lui demande ce qu’elle espère de ce savoir. Florence répond d’abord qu’il serait important de comprendre ses efforts. Puis elle s’arrête sur le mot comprendre. Elle voudrait être regardée autrement, peut-être ne plus avoir à porter seule cette attente. Marc ne propose ni lettre, ni message transmis, ni rencontre. Il lui demande de parler de ce besoin dans l’entretien, où il peut être examiné sans solliciter autrui.\n\nFlorence ressent une déception. Elle avait imaginé qu’une démarche de soin sérieuse finirait par donner une place à son explication. Elle entend que les efforts réalisés ne créent pas ce droit. Rien n’est dit ici de ce que souhaite la personne exposée, de son état ou de ses décisions. Cette absence d’information n’est pas une invitation à la remplir. Florence reste assise avec sa demande, sans la transformer en projet d’envoi. Marc reprend ce que la déception change pour elle aujourd’hui. Le sujet peut continuer dans le soin, même sans réponse extérieure.",
+      "opening": "Sur le bureau de Florence, au service municipal, le sommaire de Regards de quartier est revenu avec les remarques de Cathy, la coordinatrice éditoriale, au stylo vert : inverser les pages 6 et 7, raccourcir le titre du dessin de la fontaine. Florence range la feuille dans son dossier de travail et part pour le centre de consultation.\n\nMarc, le psychologue de son équipe spécialisée, la reçoit dans son petit bureau aux stores beiges. Elle commence sans attendre : « J’aimerais que la personne sache que je prends mon suivi au sérieux. »\n\n« Qu’est-ce que vous espérez de ce savoir ? » demande Marc.\n\n« Qu’elle comprenne mes efforts. » Florence s’arrête sur le mot. « Comprendre… En fait, je voudrais qu’on me regarde autrement. Ne plus être seule avec ça. »\n\nMarc acquiesce lentement. « C’est un besoin réel, et il vous appartient. On peut le travailler ici. Mais la personne n’a rien à savoir, à comprendre ou à vous répondre pour que ce travail avance. Je ne transmettrai aucun message de votre part, et ce n’est pas à vous d’en organiser un. »\n\nFlorence sent sa gorge se serrer. Elle avait imaginé qu’un suivi sérieux finirait par donner une place à son explication. Elle tourne son stylo entre ses doigts, le pose sur la table, le reprend. « Donc je fais tout ça et personne ne le saura. »\n\n« Moi, je le sais, dit Marc. Votre équipe le sait. Et vous. Qu’est-ce que ça vous fait, d’entendre ça ? »\n\n« Ça me déçoit. » Elle le dit sans lever les yeux. Marc lui demande à quels moments cette déception se fait sentir. Elle parle du soir, de l’appartement trop calme, de l’envie d’avoir enfin un retour. Il la laisse aller jusqu’au bout de sa phrase.",
       "sections": [
         {
           "role": "explanation",
@@ -349,24 +349,24 @@
               "heading": "L’effort cherche un destinataire",
               "text": "Florence voudrait que son assiduité soit connue ailleurs que dans le soin.",
               "examples": [
-                "Elle souhaite que la personne exposée sache qu’elle consulte sérieusement.",
-                "Elle espère que cette connaissance modifiera le regard porté sur elle."
+                "Florence ouvre la séance par « J’aimerais que la personne sache que je prends mon suivi au sérieux ».",
+                "Elle espère qu’on la regardera autrement."
               ]
             },
             {
               "heading": "Un besoin personnel devient visible",
               "text": "La discussion revient à ce que Florence attend de cette réponse.",
               "examples": [
-                "Marc lui demande ce qu’elle espère obtenir.",
-                "Elle reconnaît son souhait d’être comprise."
+                "Marc demande ce qu’elle espère de ce savoir.",
+                "Florence s’arrête sur le mot « comprendre » et dit qu’elle ne veut plus être seule avec ça."
               ]
             },
             {
               "heading": "Une limite laisse de la déception",
               "text": "Le refus d’organiser une transmission ne met pas fin au travail clinique.",
               "examples": [
-                "Aucun message n’est préparé dans l’entretien.",
-                "Florence parle de sa déception sans demander un intermédiaire."
+                "Marc précise qu’il ne transmettra aucun message de sa part.",
+                "Florence tourne son stylo et dit « Ça me déçoit », sans demander d’intermédiaire."
               ]
             }
           ]
@@ -409,7 +409,7 @@
         }
       ],
       "ending_title": "Le sommaire revient seulement à Cathy",
-      "ending": "Florence ne sollicite aucune transmission à la personne exposée. Elle dit à Marc qu’elle aura besoin de revenir sur son attente de reconnaissance. Au service, elle reprend l’ordre des pages avec Cathy et lui renvoie le sommaire. Le destinataire est celui du travail prévu. Florence reste déçue ; cette déception n’entraîne ni information demandée sur autrui ni modification des décisions de protection.",
+      "ending": "Florence ne demande ni message ni intermédiaire. Elle dit à Marc : « J’aurai besoin de revenir sur cette attente. » Il l’inscrit pour une prochaine séance. Le lendemain, au service, elle inverse les pages 6 et 7, raccourcit le titre de la fontaine et renvoie le sommaire à Cathy. Le document va à la personne qui l’attend pour le cahier. Le soir, la déception est encore là ; les décisions de protection, elles, restent appliquées.",
       "conclusion": "La reconnaissance espérée ne peut pas être exigée de la personne exposée. Florence garde cette attente comme sujet de soin et poursuit une tâche distincte, sans faire du contact ou du pardon une condition pour continuer.",
       "mirror": [
         "Un proche ou une collègue peut refuser de porter un message : « Cette demande doit rester avec les professionnels qui te suivent. » Cathy peut continuer à parler du sommaire sans devenir intermédiaire. La personne exposée n’a pas à répondre, expliquer sa distance ou récompenser l’engagement de Florence dans les soins."
@@ -422,7 +422,7 @@
         "rcpsych-cr223"
       ],
       "continuity": {
-        "choice": "Florence ne sollicite aucune transmission à la personne exposée. Elle dit à Marc qu’elle aura besoin de revenir sur son attente de reconnaissance. Au service, elle reprend l’ordre des pages avec Cathy et lui renvoie le sommaire. Le destinataire est celui du travail prévu. Florence reste déçue ; cette déception n’entraîne ni information demandée sur autrui ni modification des décisions de protection.",
+        "choice": "Florence ne demande ni message ni intermédiaire. Elle dit à Marc : « J’aurai besoin de revenir sur cette attente. » Il l’inscrit pour une prochaine séance. Le lendemain, au service, elle inverse les pages 6 et 7, raccourcit le titre de la fontaine et renvoie le sommaire à Cathy. Le document va à la personne qui l’attend pour le cahier. Le soir, la déception est encore là ; les décisions de protection, elles, restent appliquées.",
         "next": "Ne pas obtenir de confirmation extérieure rend le prochain rendez-vous plus difficile à maintenir."
       }
     },
@@ -438,7 +438,7 @@
         "Continuité du soin"
       ],
       "clinical_intro": "Une personne peut vouloir de l’aide tout en redoutant certains sujets du suivi. Cette ambivalence se travaille avec le professionnel ; elle n’est pas, en elle-même, un signe spécifique du trouble factice imposé à autrui. Accueillir une difficulté à parler ne signifie ni approuver le dommage ni remettre en cause les décisions de protection.",
-      "opening": "Le rappel du rendez-vous est déjà inscrit dans l’agenda. Florence le regarde en préparant les légendes à harmoniser. Elle sait quelles pages doivent être reprises et pourrait facilement remplir cette heure de travail. Depuis l’entretien sur son attente de reconnaissance, elle se demande ce qu’elle pourra dire à Marc sans retrouver la même déception.\n\nElle envisage d’annuler. Elle imagine une réponse courte au cabinet, puis pose son téléphone. Ce n’est pas seulement une question d’horaire. Elle craint de revenir sur des formulations qu’elle préfère encore employer, celles qui lui permettent de parler de ses intentions en laissant moins de place à sa responsabilité. Le cahier lui offre aujourd’hui un sujet plus confortable, mais il ne rend pas la consultation inutile.\n\nFlorence se rend au rendez-vous. « J’ai pensé ne pas venir », dit-elle avant de s’asseoir complètement. Marc lui demande ce qui a rendu ce choix difficile. Il ne félicite pas cette phrase comme si elle suffisait à évaluer la situation. Il accueille ce qu’elle permet d’aborder et revient avec elle aux responsabilités et aux limites effectives. Florence répond d’abord en peu de mots, puis précise ce qu’elle redoutait. Le rendez-vous ne devient ni une confession exhaustive ni une conversation où tout serait approuvé. Il lui faut rester avec la question, même lorsqu’elle préférerait reprendre ses pages.",
+      "opening": "Mercredi matin, au service municipal, le rappel s’affiche sur l’écran de Florence : « Marc, 14 h ». À côté du clavier, les légendes du cahier Regards de quartier attendent en pile, annotées au crayon, pour être harmonisées. Depuis la séance sur son attente de reconnaissance, Florence redoute de retrouver la même déception.\n\nElle prend son téléphone et commence un message au secrétariat du centre de consultation : « Je ne pourrai pas venir aujourd’hui, j’ai un travail urgent. » Elle relit la phrase. Le travail n’est pas urgent. Elle efface le message et pose le téléphone, écran contre la pile.\n\nÀ quatorze heures, elle est assise en face de Marc, le psychologue de son équipe spécialisée. « J’ai pensé ne pas venir », dit-elle avant même d’avoir enlevé sa veste.\n\n« Qu’est-ce qui rendait la venue difficile ? »\n\n« J’avais peur qu’on reparle de mes phrases. » Elle hésite. « Quand je dis que je voulais bien faire, que j’avais de bonnes intentions… c’est plus facile que de dire ce que j’ai fait. Je savais que vous alliez me ramener là. »\n\nMarc ne la félicite pas. « Merci de me le dire. C’est utile qu’on puisse en parler. Et oui, je vais vous ramener là : vos intentions comptent pour comprendre, mais elles ne remplacent pas votre responsabilité. Vous avez trompé des soignants au sujet de la santé de quelqu’un. Les décisions de protection qui en découlent restent les mêmes. »\n\nFlorence serre les mains sur ses genoux. « Je sais. Je préférerais parler du cahier. »\n\n« Je comprends. On peut rester un moment avec cette préférence, ici, au lieu de la laisser décider si vous venez. »\n\nElle répond d’abord en peu de mots, puis plus longuement. À la fin de l’heure, les phrases difficiles sont toujours là, mais elle les a dites dans la pièce.",
       "sections": [
         {
           "role": "explanation",
@@ -453,24 +453,24 @@
               "heading": "Une tâche disponible sert de détour",
               "text": "Le travail pourrait occuper l’espace du soin sans répondre au besoin clinique.",
               "examples": [
-                "Florence regarde les légendes à harmoniser.",
-                "Elle imagine remplir l’heure prévue par une correction."
+                "Florence regarde la pile de légendes annotées à côté de son clavier.",
+                "Elle écrit au secrétariat qu’elle a un travail urgent, puis efface le message."
               ]
             },
             {
               "heading": "La difficulté concerne le contenu",
               "text": "L’obstacle ne se résume pas à une collision d’agenda.",
               "examples": [
-                "Elle redoute de reprendre certaines formulations.",
-                "Elle associe le prochain entretien à la déception du précédent."
+                "Elle dit à Marc qu’elle avait peur qu’on reparle de ses phrases.",
+                "Elle reconnaît que parler de bonnes intentions est plus facile que dire ce qu’elle a fait."
               ]
             },
             {
               "heading": "Le désaccord intérieur peut être dit",
               "text": "Nommer l’hésitation permet de l’examiner avec le professionnel.",
               "examples": [
-                "Florence dit qu’elle a pensé annuler.",
-                "Marc demande ce qui lui a rendu la venue difficile."
+                "Florence dit « J’ai pensé ne pas venir » avant d’enlever sa veste.",
+                "Marc lui demande ce qui rendait la venue difficile."
               ]
             }
           ]
@@ -513,7 +513,7 @@
         }
       ],
       "ending_title": "L’heure de soin reste une heure de soin",
-      "ending": "Le rendez-vous a lieu et Marc fixe avec Florence la prochaine étape du travail. Les questions ne sont pas toutes résolues. Elle informe Cathy qu’elle lui enverra l’harmonisation à une date revue, sans lui demander de contrôler sa présence aux consultations. Cathy ajuste son planning. Florence conserve le contact clinique, même s’il n’a pas procuré l’accord ou le soulagement qu’elle aurait souhaité.",
+      "ending": "Marc propose de revoir Florence la semaine suivante et note la question des bonnes intentions comme point de départ. Tout n’est pas réglé. De retour au bureau, Florence écrit à Cathy, la coordinatrice éditoriale : « L’harmonisation des légendes me prendra plus de temps que prévu. Je te redonne une date d’ici quelques jours. » Cathy répond : « D’accord, je décale la relecture. » Florence ne lui demande pas de vérifier sa présence aux consultations. Elle retourne son téléphone et reprend la première légende de la pile.",
       "conclusion": "L’ambivalence peut devenir un sujet de soin plutôt qu’un motif de disparaître du suivi. Florence maintient l’échange et ajuste son délai professionnel, sans attendre de sa collègue une surveillance ou des professionnels une approbation des faits.",
       "mirror": [
         "Cathy peut dire : « Je note le nouveau délai ; préviens-moi si l’épreuve ne sera pas prête. » Elle n’a pas à vérifier les consultations de Florence pour organiser le cahier. Si Florence lui demande de garantir qu’elle ira au rendez-vous, Cathy peut renvoyer cette question à l’équipe, sans devenir responsable de son assiduité."
@@ -526,7 +526,7 @@
         "rcpsych-cr223"
       ],
       "continuity": {
-        "choice": "Le rendez-vous a lieu et Marc fixe avec Florence la prochaine étape du travail. Les questions ne sont pas toutes résolues. Elle informe Cathy qu’elle lui enverra l’harmonisation à une date revue, sans lui demander de contrôler sa présence aux consultations. Cathy ajuste son planning. Florence conserve le contact clinique, même s’il n’a pas procuré l’accord ou le soulagement qu’elle aurait souhaité.",
+        "choice": "Marc propose de revoir Florence la semaine suivante et note la question des bonnes intentions comme point de départ. Tout n’est pas réglé. De retour au bureau, Florence écrit à Cathy, la coordinatrice éditoriale : « L’harmonisation des légendes me prendra plus de temps que prévu. Je te redonne une date d’ici quelques jours. » Cathy répond : « D’accord, je décale la relecture. » Florence ne lui demande pas de vérifier sa présence aux consultations. Elle retourne son téléphone et reprend la première légende de la pile.",
         "next": "Ce délai conduit Florence à demander quels professionnels se coordonnent et quelles informations circulent."
       }
     },
@@ -542,7 +542,7 @@
         "Protection indépendante"
       ],
       "clinical_intro": "Le suivi clinique et la protection nécessitent des rôles identifiables et des échanges adaptés. La présence régulière d’une personne aux rendez-vous ne suffit pas à modifier les décisions concernant la sécurité d’autrui. Les professionnels expliquent le cadre applicable aux informations, sans promettre un secret absolu ni faire dépendre toute transmission du seul souhait de la personne suivie.",
-      "opening": "Florence arrive avec une question notée dans son agenda personnel. Elle a maintenu ses derniers rendez-vous, même celui qu’elle avait pensé annuler. Elle demande à la docteure Derain si cette assiduité suffit à modifier les décisions de protection. La psychiatre lui répond que la présence en consultation et ces décisions ne se confondent pas.\n\nElle distingue son rôle clinique de celui de Nora, la professionnelle référente de protection. Florence voudrait savoir ce qui se dit entre elles. Derain explique le cadre de leurs échanges et les informations utiles à leurs responsabilités, sans lui donner les renseignements privés concernant la personne exposée. Florence entend qu’une coordination n’est ni une discussion informelle ni un compte rendu intégral remis à son attention.\n\nL’échange prévu avec Nora est effectivement réalisé par la psychiatre. Les professionnelles reprennent les éléments nécessaires à leurs fonctions et confirment la suite applicable. Derain revient ensuite vers Florence sur ce qui la concerne. Elle ne lui demande pas de décider quelles informations relatives aux besoins d’autrui pourront être prises en compte.\n\nFlorence cherche un moment le lien avec son effort récent. Elle voulait que venir régulièrement produise une conséquence visible sur la protection. Ce qui lui est donné aujourd’hui est une clarification des rôles et des consignes, pas cette conséquence. Elle vérifie qu’elle a compris, puis range sa note. La date d’envoi de l’épreuve harmonisée reste une autre question, destinée à Cathy.",
+      "opening": "Dans le cabinet de la docteure Derain, sa psychiatre, Florence ouvre son agenda à la page où elle a noté sa question. Elle la lit presque mot pour mot : « Je viens à tous mes rendez-vous. Est-ce que ça peut changer les décisions de protection ? »\n\nDerain pose son stylo. « Non. Votre présence ici compte pour votre soin. Mais ce n’est pas un critère pour modifier ces décisions. Elles ne se prennent pas dans ce cabinet. »\n\nElle rappelle qui fait quoi. Elle-même suit Florence pour son trouble. Nora, la professionnelle référente de protection, s’occupe de la sécurité de la personne exposée. Les deux échangent quand c’est utile à leurs missions.\n\n« Qu’est-ce que vous vous dites ? » demande Florence.\n\n« Ce qui est nécessaire à nos rôles, dans le cadre qui s’applique à chacune. Je ne vous promets pas que tout restera entre nous, et je ne vous donnerai rien sur la vie de la personne. »\n\nDerain regarde l’heure. « Un échange avec Nora est prévu aujourd’hui. Je vais l’appeler à la fin de notre rendez-vous, comme convenu, puis je vous dirai ce qui vous concerne. »\n\nFlorence attend dans la salle d’attente pendant l’appel. Elle regarde une affiche du couloir sans la lire. Dix minutes plus tard, Derain la fait revenir. « J’ai parlé avec Nora. Les décisions restent les mêmes. Rien ne change pour vous aujourd’hui. Si vous avez une question sur ces décisions, c’est à Nora qu’il faut l’adresser, par le contact qui vous a été indiqué, pas à moi ni à quelqu’un d’autre. »\n\nFlorence répète : « Les décisions restent les mêmes. Mes questions sur la protection, c’est Nora. » Derain confirme. Florence avait espéré que ses rendez-vous auraient un effet visible. Ce qu’elle reçoit, c’est une répartition claire. Elle referme son agenda. La date de l’épreuve harmonisée du cahier, elle, est une question pour Cathy, sa collègue coordinatrice.",
       "sections": [
         {
           "role": "explanation",
@@ -557,24 +557,24 @@
               "heading": "L’assiduité devient un argument",
               "text": "Florence attend de sa présence une portée qui dépasse l’entretien.",
               "examples": [
-                "Elle compte les rendez-vous maintenus.",
-                "Elle demande si cela suffit à modifier les décisions de protection."
+                "Florence lit sa question notée dans l’agenda : « Je viens à tous mes rendez-vous. »",
+                "Elle demande si cela peut changer les décisions de protection."
               ]
             },
             {
               "heading": "La circulation de l’information suscite des attentes",
               "text": "Elle aimerait connaître le contenu de tous les échanges.",
               "examples": [
-                "Elle demande ce qui se dit avec Nora.",
-                "Derain distingue information utile et renseignements privés sur autrui."
+                "Elle demande « Qu’est-ce que vous vous dites ? » au sujet de Nora.",
+                "Derain répond qu’elle ne lui donnera rien sur la vie de la personne."
               ]
             },
             {
               "heading": "Les professionnelles réalisent le relais",
               "text": "La coordination ne reste pas une intention annoncée.",
               "examples": [
-                "Derain échange effectivement avec Nora.",
-                "Elle précise ensuite à Florence les consignes qui la concernent."
+                "Derain appelle Nora à la fin du rendez-vous, comme convenu.",
+                "Elle revient dire que les décisions restent les mêmes et que les questions s’adressent à Nora."
               ]
             }
           ]
@@ -617,7 +617,7 @@
         }
       ],
       "ending_title": "Une date pour Cathy, des consignes pour Florence",
-      "ending": "Derain et Nora maintiennent leurs responsabilités respectives et confirment les modalités déjà effectives. Florence vérifie les consignes qui lui sont adressées. Elle écrit ensuite à Cathy la date de l’épreuve harmonisée, sans lui transmettre le contenu clinique ni attendre une appréciation de son assiduité. La collègue organise le cahier. Florence garde la clarification professionnelle pour le suivi et respecte les décisions en vigueur.",
+      "ending": "Derain et Nora gardent chacune leur responsabilité, et les décisions déjà en place restent appliquées. Dans le tram du retour, Florence relit sa note : « Décisions inchangées. Questions de protection : Nora. » Au bureau, elle écrit à Cathy : « Je t’envoie l’épreuve harmonisée en deux fois ; la première partie la semaine prochaine. » Elle ne lui parle ni de la consultation ni de l’appel. Cathy répond qu’elle note la date. Florence pose son agenda à côté de la pile de légendes et respecte les décisions en vigueur.",
       "conclusion": "La coordination rend les responsabilités plus lisibles sans les mettre en concurrence. Florence connaît mieux les consignes qui la concernent, tandis que la sécurité et les informations privées de la personne exposée restent du ressort des professionnels compétents.",
       "mirror": [
         "Cathy peut répondre à la date de l’épreuve et laisser le reste aux professionnels : « Pour le cahier, cette échéance me convient. » Elle ne doit pas devenir destinataire d’un dossier clinique pour coordonner les textes. La personne exposée garde ses droits à la protection et à la vie privée, indépendamment de la régularité des consultations de Florence."
@@ -630,8 +630,632 @@
         "rcpsych-cr223"
       ],
       "continuity": {
-        "choice": "Derain et Nora maintiennent leurs responsabilités respectives et confirment les modalités déjà effectives. Florence vérifie les consignes qui lui sont adressées. Elle écrit ensuite à Cathy la date de l’épreuve harmonisée, sans lui transmettre le contenu clinique ni attendre une appréciation de son assiduité. La collègue organise le cahier. Florence garde la clarification professionnelle pour le suivi et respecte les décisions en vigueur.",
+        "choice": "Derain et Nora gardent chacune leur responsabilité, et les décisions déjà en place restent appliquées. Dans le tram du retour, Florence relit sa note : « Décisions inchangées. Questions de protection : Nora. » Au bureau, elle écrit à Cathy : « Je t’envoie l’épreuve harmonisée en deux fois ; la première partie la semaine prochaine. » Elle ne lui parle ni de la consultation ni de l’appel. Cathy répond qu’elle note la date. Florence pose son agenda à côté de la pile de légendes et respecte les décisions en vigueur.",
         "next": "La place laissée hors du rôle de responsable de la santé d’autrui permet à Florence de parler de sa propre détresse."
+      }
+    },
+    {
+      "number": 7,
+      "slug": "florence-detresse-propre",
+      "title": "Détresse personnelle : une souffrance qui a sa place dans le soin",
+      "description": "Florence commence par parler des besoins d’autrui, puis dit qu’elle se sent seule. Marc traite cette souffrance comme la sienne.",
+      "context": "au bureau puis chez le psychologue",
+      "topics": [
+        "Détresse personnelle",
+        "Solitude",
+        "Sécurité de la personne suivie"
+      ],
+      "clinical_intro": "Une personne suivie pour un trouble factice imposé à autrui peut aussi traverser une souffrance personnelle : solitude, malaise, fatigue. Cette détresse peut être travaillée dans le soin comme la sienne. Elle n’explique pas les faits établis, ne définit pas le trouble et ne dit rien, à elle seule, du risque. Elle n’a pas non plus à être apaisée par la personne exposée.",
+      "opening": "Mardi matin, au deuxième étage du service municipal, Florence a étalé sur son bureau l’épreuve harmonisée de Regards de quartier : vingt-quatre pages de dessins envoyés par des habitants, chacun accompagné d’une légende qu’elle relit à voix basse, un crayon à papier à la main. Page 9, le marché du samedi : des cageots, un auvent rayé, une femme qui pèse des pommes. La légende tient en une ligne. Florence la lit une fois, deux fois, trois fois. Elle ne sait plus si la virgule est utile.\n\nElle s’est réveillée avant le jour. La consultation de la semaine dernière lui revient par morceaux : la docteure Derain, sa psychiatre, qui distinguait son propre rôle de celui de Nora, la référente de protection ; les décisions confirmées ; rien de modifié. Tout était clair. C’est peut-être pour cela qu’elle ne sait plus quoi faire de ses mains.\n\nL’après-midi, elle retrouve Marc, le psychologue de son équipe spécialisée, dans le petit bureau aux stores beiges où ils se voient chaque semaine. Elle s’assoit et commence : « Ce qui serait le mieux, pour la personne, ce serait… » Elle s’arrête. Marc attend sans finir la phrase à sa place.\n\n« Je recommence à parler de ce qui serait bon pour quelqu’un d’autre, dit-elle. Ce n’est pas à moi d’en décider. » Puis, plus bas : « En fait, je me sens seule. Depuis la dernière consultation, je ne sais plus où me mettre. »\n\nMarc lui demande à quoi ressemble cette solitude, concrètement. Florence parle des soirées où son téléphone reste muet, du dîner qu’elle saute, de la radio qu’elle laisse allumée pour entendre une voix dans la cuisine. Il l’écoute, puis pose la question qu’il pose à toute personne qui décrit ce genre de journées : lui arrive-t-il de penser à se faire du mal ? Florence répond que non, qu’elle est surtout fatiguée et vide. Marc le note et lui rappelle le numéro du secrétariat de l’équipe, puis le 3114, la ligne nationale de prévention du suicide, si un soir devenait trop lourd, et le 15 en cas d’urgence. Ensuite il revient à elle : ce qu’elle ressent mérite une place dans le suivi, à côté de sa responsabilité, pas à sa place.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Une souffrance personnelle a sa place dans le suivi",
+          "text": "Le suivi d’une personne ayant ce diagnostic peut aborder sa détresse propre sans détourner l’attention des besoins de la personne exposée. Les deux questions coexistent : ce que Florence ressent aujourd’hui et ce dont elle est responsable. La solitude et le sentiment d’être déstabilisée ne sont pas des signes spécifiques du trouble ; ils ne forment pas une cause qui l’excuserait et ne permettent pas d’évaluer le risque. Dans la scène, Marc fait deux choses distinctes : il vérifie la sécurité de Florence elle-même, puis il examine avec elle ce qui pourrait l’aider au quotidien. Il ne suggère à aucun moment que quelqu’un d’autre vienne combler ce manque."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment la détresse propre se fait-elle entendre ?",
+          "points": [
+            {
+              "heading": "Une phrase qui commence par autrui",
+              "text": "Florence a pris l’habitude de parler des besoins d’une autre personne avant les siens, même quand elle vient pour elle.",
+              "examples": [
+                "Elle ouvre l’entretien par « ce qui serait le mieux, pour la personne ».",
+                "Elle s’interrompt d’elle-même et dit que ce n’est pas à elle d’en décider."
+              ]
+            },
+            {
+              "heading": "Un travail ordinaire qui n’avance plus",
+              "text": "La fatigue et le malaise se voient d’abord dans des tâches simples, sans être propres au trouble.",
+              "examples": [
+                "Au bureau, elle relit trois fois la légende du marché sans trancher pour une virgule.",
+                "Réveillée avant le jour, elle repasse en pensée la consultation précédente."
+              ]
+            },
+            {
+              "heading": "Une solitude décrite en gestes",
+              "text": "Marc demande des faits du quotidien plutôt qu’un mot général, ce qui rend la détresse évaluable.",
+              "examples": [
+                "Florence parle du téléphone muet et du dîner qu’elle saute.",
+                "Elle laisse la radio allumée pour entendre une voix dans la cuisine."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour faire place à sa détresse dans le soin",
+          "points": [
+            {
+              "heading": "Repérer à qui s’adresse sa première phrase",
+              "objective": "Remarquer quand on parle d’autrui pour éviter de parler de soi.",
+              "exercise": [
+                "Noter avant l’entretien la phrase par laquelle on compte commencer.",
+                "Vérifier si elle concerne ses propres besoins ou ceux d’une autre personne.",
+                "Si elle concerne autrui, chercher ce que l’on ressent soi-même et commencer par là."
+              ],
+              "benefit": "L’entretien peut porter sur ce qui appartient vraiment à la personne suivie."
+            },
+            {
+              "heading": "Décrire une journée plutôt qu’un état",
+              "objective": "Donner au professionnel des éléments concrets sur le malaise.",
+              "exercise": [
+                "Choisir une journée récente.",
+                "Noter trois moments où la solitude ou la fatigue se sont fait sentir.",
+                "Apporter cette liste au rendez-vous sans chercher à l’expliquer seul."
+              ],
+              "benefit": "Le soignant peut évaluer la détresse et proposer des appuis adaptés."
+            },
+            {
+              "heading": "Garder les numéros d’aide à portée de main",
+              "objective": "Savoir qui joindre si la détresse s’aggrave entre deux rendez-vous.",
+              "exercise": [
+                "Noter le numéro de l’équipe qui assure le suivi.",
+                "Ajouter le 3114 pour une détresse suicidaire et le 15 pour une urgence.",
+                "Dire au professionnel si les soirées difficiles deviennent plus fréquentes."
+              ],
+              "benefit": "La personne n’attend pas seule le prochain rendez-vous si un soir devient trop lourd."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Seize pages envoyées, huit qui restent",
+      "ending": "Florence repart avec une seule consigne : la prochaine séance partira de ce qu’elle vit, pas de ce qu’elle imagine pour quelqu’un d’autre. De retour au bureau, elle tranche pour la virgule du marché, termine les pages 1 à 16 et les envoie à Cathy, la coordinatrice éditoriale du cahier : « Voici la première partie harmonisée. Il reste les pages 17 à 24 ; je te donne une date la semaine prochaine. » Elle ne demande aucune nouvelle de la personne exposée. La solitude ne s’est pas dissipée en sortant du bureau de Marc. Elle a seulement un endroit où être dite.",
+      "conclusion": "La détresse de Florence est réelle et mérite d’être soignée. Elle ne réduit pas sa responsabilité et n’a pas à être soulagée par la personne exposée. En la disant à Marc plutôt qu’en parlant à la place d’autrui, Florence ouvre un travail sur ses propres besoins, tandis que le cahier avance à son rythme.",
+      "mirror": [
+        "Si Florence confie à un proche qu’elle se sent seule, il peut répondre : « Merci de me le dire. Tu en as parlé à ton équipe ? Et si on dînait ensemble jeudi ? » Partager un repas reste un soutien ordinaire, pas une thérapie. Si elle évoque l’envie de se faire du mal, le proche ne garde pas cela pour lui : il l’encourage à appeler le 3114 et, en cas de danger immédiat, appelle le 15. Il ne propose jamais de transmettre un message à la personne exposée pour apaiser Florence."
+      ],
+      "clinical_focus": "Reconnaître sa propre détresse",
+      "diagnostic_stage": "known",
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "rcpsych-cr223"
+      ],
+      "continuity": {
+        "choice": "Florence repart avec une seule consigne : la prochaine séance partira de ce qu’elle vit, pas de ce qu’elle imagine pour quelqu’un d’autre. De retour au bureau, elle tranche pour la virgule du marché, termine les pages 1 à 16 et les envoie à Cathy, la coordinatrice éditoriale du cahier : « Voici la première partie harmonisée. Il reste les pages 17 à 24 ; je te donne une date la semaine prochaine. » Elle ne demande aucune nouvelle de la personne exposée. La solitude ne s’est pas dissipée en sortant du bureau de Marc. Elle a seulement un endroit où être dite.",
+        "next": "Un changement de sommeil l’amène à poser une question de santé pour elle-même, sans l’attribuer automatiquement au trouble."
+      }
+    },
+    {
+      "number": 8,
+      "slug": "florence-besoins-medicaux-legitimes",
+      "title": "Santé personnelle : un diagnostic ne rend pas toute plainte suspecte",
+      "description": "Florence dort mal et craint de ne pas être crue. La psychiatre évalue ses nuits comme une plainte réelle et organise un point de suivi.",
+      "context": "en consultation psychiatrique",
+      "topics": [
+        "Sommeil",
+        "Soins pour soi",
+        "Parole médicale"
+      ],
+      "clinical_intro": "Le diagnostic de trouble factice imposé à autrui concerne la façon dont une personne a présenté la santé d’une autre. Il ne prouve pas que ses propres plaintes sont inventées et ne justifie pas de lui refuser des soins. Quand elle signale un symptôme, celui-ci s’évalue comme pour tout patient : en l’écoutant, en posant des questions, puis en décidant d’une suite.",
+      "opening": "Dans la salle d’attente du centre de consultation, Florence tient une feuille pliée en quatre. Elle y a noté ses nuits des deux dernières semaines, au crayon, comme elle annote une épreuve : endormie vers une heure, réveillée à quatre, parfois de nouveau à cinq. Cinq nuits sur sept. Au service municipal, l’après-midi, elle a laissé passer deux fautes dans une page de Regards de quartier qu’elle connaissait presque par cœur ; Cathy, la coordinatrice du cahier, les a corrigées sans commentaire.\n\nQuand la docteure Derain, sa psychiatre, l’appelle, Florence garde la feuille dans sa main. Elle ne la tend pas tout de suite. « Je dors mal depuis quelque temps, dit-elle. Mais je ne sais pas si je dois vous en parler. » La psychiatre lui demande pourquoi. Florence cherche le mot le moins lourd et n’en trouve pas : « Avec mon diagnostic, j’ai peur que vous pensiez que j’invente, ou que j’en rajoute. »\n\nDerain ne la rassure pas d’une formule. Elle répond que le diagnostic porte sur des faits établis concernant la santé d’une autre personne et qu’il ne lui sert pas à trier ce que Florence dit de son propre corps. Puis elle fait ce qu’elle ferait avec n’importe quel patient qui dort mal. Elle demande à voir la feuille. Elle pose des questions : à quelle heure Florence se couche, ce qu’elle fait quand elle se réveille, si elle a des douleurs, comment va son appétit, si son humeur a changé, combien de cafés elle boit l’après-midi, ce qui lui tourne dans la tête la nuit. Florence répond : trois cafés, la radio rallumée à quatre heures, les pensées sur la consultation de coordination et sur la solitude dont elle a parlé à Marc, le psychologue de l’équipe.\n\nLa psychiatre ne conclut ni que tout vient du trouble, ni que tout va bien. Elle explique qu’elle a besoin d’en savoir davantage avant de décider quoi que ce soit, et qu’elles vont organiser cela ensemble.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Une plainte personnelle s’évalue pour elle-même",
+          "text": "Un diagnostic de trouble factice imposé à autrui ne vaut pas diagnostic de trouble factice imposé à soi-même. Il ne rend pas suspectes, par principe, les plaintes que la personne exprime sur sa propre santé et ne justifie pas de lui refuser des soins. Les descriptions cliniques de l’OMS rappellent qu’une maladie réelle peut coexister avec un trouble factice ; aucune maladie n’est pour autant attribuée ici à Florence. Face à ses nuits, la psychiatre fait une évaluation : elle écoute, interroge le contexte et l’état général, puis organise une suite. Elle ne balaie pas la plainte et ne la traite pas non plus à la hâte."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment la crainte de ne pas être crue se manifeste-t-elle ?",
+          "points": [
+            {
+              "heading": "Hésiter à parler de soi",
+              "text": "Florence retient une information utile par peur de la façon dont elle sera reçue.",
+              "examples": [
+                "Elle garde la feuille de ses nuits pliée dans sa main au lieu de la tendre.",
+                "Elle demande si elle doit vraiment parler de son sommeil."
+              ]
+            },
+            {
+              "heading": "Anticiper un soupçon",
+              "text": "Elle prête à la médecin un jugement que celle-ci n’a pas formulé.",
+              "examples": [
+                "Elle dit craindre qu’on pense qu’elle invente ou qu’elle en rajoute.",
+                "Elle cherche un mot moins lourd pour décrire sa fatigue."
+              ]
+            },
+            {
+              "heading": "Une évaluation ordinaire répond",
+              "text": "La psychiatre traite la plainte comme une donnée clinique à examiner, sans la rattacher d’office au diagnostic.",
+              "examples": [
+                "Derain lit la feuille et demande les heures de coucher et de réveil.",
+                "Elle interroge l’appétit, les douleurs, l’humeur et le café de l’après-midi."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour parler de sa santé quand on craint de ne pas être cru",
+          "points": [
+            {
+              "heading": "Noter les faits avant le rendez-vous",
+              "objective": "Apporter une description précise plutôt qu’une impression.",
+              "exercise": [
+                "Noter pendant une à deux semaines l’heure du coucher et des réveils.",
+                "Ajouter ce qui a changé dans la journée, comme la fatigue ou des erreurs inhabituelles.",
+                "Remettre la feuille au médecin dès le début de la consultation."
+              ],
+              "benefit": "Le professionnel dispose d’éléments concrets pour évaluer, sans dépendre de la façon dont on se juge."
+            },
+            {
+              "heading": "Dire la crainte elle-même",
+              "objective": "Éviter que la peur du soupçon empêche de se soigner.",
+              "exercise": [
+                "Formuler la crainte en une phrase simple.",
+                "Laisser le médecin expliquer comment il va évaluer la plainte.",
+                "Poursuivre avec la description des symptômes."
+              ],
+              "benefit": "La consultation peut porter sur la santé au lieu de rester bloquée sur la peur d’être mal jugé."
+            },
+            {
+              "heading": "Repartir avec une conduite à tenir",
+              "objective": "Savoir quoi faire entre deux rendez-vous si la situation change.",
+              "exercise": [
+                "Demander quand aura lieu le prochain point.",
+                "Faire préciser qui appeler si l’état s’aggrave.",
+                "Noter le 15 pour une urgence médicale."
+              ],
+              "benefit": "La personne ne reste pas seule à décider si un changement mérite un appel."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Une feuille de nuits et un rendez-vous dans quinze jours",
+      "ending": "Derain propose à Florence de continuer à noter ses nuits et fixe un nouveau point dans quinze jours. Elle lui conseille aussi de voir son médecin traitant pour un examen général. Si son état se dégrade, si un symptôme nouveau apparaît ou si elle se sent en danger, Florence appelle le secrétariat de l’équipe ou, en urgence, le 15. Florence range la feuille dans son agenda. Le soir, elle écrit à Cathy : « Pour les pages 17 à 24, je te propose mardi prochain. » Elle ne parle ni de ses nuits ni de la consultation. Elle ne sait pas encore ce que le prochain point montrera.",
+      "conclusion": "Florence découvre que son diagnostic n’efface pas son droit à être soignée. Sa plainte est écoutée, examinée et suivie, sans être déclarée factice ni rassurée trop vite. L’échéance proposée au service tient compte de sa fatigue, sans que Cathy reçoive la moindre information médicale.",
+      "mirror": [
+        "Si Florence dit à un proche « Je dors mal, mais on ne va pas me croire », il peut répondre : « Ce que tu ressens compte. Tu as noté tes nuits, montre-les à ton médecin. » Il n’a pas à juger si la fatigue est réelle ni à proposer un remède. Cathy, elle, peut accepter la nouvelle échéance sans demander pourquoi : « Mardi, ça me va. » Si Florence semble aller nettement plus mal, le proche l’encourage à appeler son équipe et, en cas d’urgence, compose le 15."
+      ],
+      "clinical_focus": "Besoins médicaux légitimes",
+      "diagnostic_stage": "known",
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "rcpsych-cr223"
+      ],
+      "continuity": {
+        "choice": "Derain propose à Florence de continuer à noter ses nuits et fixe un nouveau point dans quinze jours. Elle lui conseille aussi de voir son médecin traitant pour un examen général. Si son état se dégrade, si un symptôme nouveau apparaît ou si elle se sent en danger, Florence appelle le secrétariat de l’équipe ou, en urgence, le 15. Florence range la feuille dans son agenda. Le soir, elle écrit à Cathy : « Pour les pages 17 à 24, je te propose mardi prochain. » Elle ne parle ni de ses nuits ni de la consultation. Elle ne sait pas encore ce que le prochain point montrera.",
+        "next": "Elle retrouve ensuite Cathy pour une conversation dont elle doit respecter la limite entre soutien ordinaire et soin."
+      }
+    },
+    {
+      "number": 9,
+      "slug": "florence-soutien-social-limites",
+      "title": "Soutien social : une collègue n’est pas une interlocutrice clinique",
+      "description": "À la pause, Florence ramène sans cesse la conversation à ses rendez-vous. Cathy pose une limite, puis reprend avec elle les dernières légendes.",
+      "context": "à la pause café du service municipal",
+      "topics": [
+        "Soutien social",
+        "Limites d’une collègue",
+        "Relations ordinaires"
+      ],
+      "clinical_intro": "Un parcours de soin long et un cadre de protection peuvent réduire le cercle des personnes avec qui l’on parle, sans que ce soit le cas pour tout le monde. Une collègue peut offrir un soutien ordinaire, une conversation ou un café, sans devenir confidente permanente, soignante ou surveillante. Poser cette limite n’est pas un rejet et ne demande à personne de garder un secret.",
+      "opening": "Dans la petite cuisine du service municipal, la machine à café fait son bruit de moteur fatigué. Cathy, la coordinatrice éditoriale du cahier Regards de quartier, a posé sur la table les pages 17 à 24, qu’elle a imprimées vendredi. C’est lundi matin. Florence, la correctrice du cahier, les lui avait rendues mardi dernier, comme elle l’avait proposé. Il reste à reprendre ensemble deux légendes trop longues, dont celle du kiosque du parc sous la neige.\n\nCathy demande si Florence a passé un bon week-end. Florence répond qu’elle a surtout noté ses nuits, parce que sa psychiatre le lui a demandé. Cathy hoche la tête et revient au kiosque. Deux minutes plus tard, Florence explique que demain, mardi, elle voit Marc, son psychologue, et qu’elle ne sait pas comment lui reparler de sa solitude. Cathy tourne sa cuillère dans son gobelet. Quand Florence commence une troisième fois, « Ce que je ne comprends pas, avec mon suivi… », Cathy pose la cuillère.\n\n« Florence, j’aime bien prendre ce café avec toi, dit-elle. On peut parler du cahier, des dessins, de ce que tu lis en ce moment. Mais tes rendez-vous, je ne suis pas la bonne personne. Je ne saurais pas quoi en faire, et je ne veux pas faire semblant. »\n\nFlorence sent son visage se fermer. Elle entend d’abord : je ne veux plus de toi. « D’accord, répond-elle trop vite. Je ne t’embête plus avec ça. » Cathy ne se lève pas. « Tu ne m’embêtes pas. Je reste là pour le cahier, et pour le café. Ce qui concerne ton suivi, parles-en à Marc et à la docteure Derain : ce sont eux qui peuvent t’aider là-dessus. »\n\nFlorence regarde la légende du kiosque et compte les mots : quatorze. Elle sort son carnet personnel et y écrit une ligne pour mardi : « Je parle de mes rendez-vous à tout le monde. Pourquoi ? » Puis elle reprend son crayon.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Un soutien ordinaire a des limites qui protègent chacun",
+          "text": "Le retentissement social d’une trajectoire comme celle de Florence est possible sans être universel : le suivi, la honte ou le cadre de protection peuvent réduire les liens, et les rares relations qui restent risquent d’être chargées de tout. Une collègue n’a pourtant pas à devenir confidente permanente, soignante ou surveillante. Cathy ne coupe pas le lien : elle en dit le périmètre. Elle ne réclame aucun secret et ne porte aucun jugement sur le suivi. La personne exposée reste entièrement en dehors de cette relation de travail, qui n’a pas à la concerner."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment le besoin de soutien déborde-t-il sur une relation ordinaire ?",
+          "points": [
+            {
+              "heading": "La conversation revient toujours au soin",
+              "text": "Les rendez-vous occupent l’esprit de Florence au point de remplir chaque échange.",
+              "examples": [
+                "Elle répond à une question sur le week-end en parlant de ses nuits notées.",
+                "Elle évoque son entretien de mardi au milieu d’une discussion sur le kiosque."
+              ]
+            },
+            {
+              "heading": "Une limite entendue comme un rejet",
+              "text": "Une phrase de cadre peut d’abord sonner comme une perte personnelle.",
+              "examples": [
+                "Florence entend « je ne veux plus de toi » quand Cathy parle de son rôle.",
+                "Elle répond trop vite qu’elle ne l’embêtera plus."
+              ]
+            },
+            {
+              "heading": "Le lien continue autrement",
+              "text": "La relation ordinaire reste possible quand chacune sait ce qu’elle peut offrir.",
+              "examples": [
+                "Cathy reste assise et propose de parler des dessins ou des lectures.",
+                "Florence note sa question pour Marc, puis reprend la légende."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour garder un soutien ordinaire sans le surcharger",
+          "points": [
+            {
+              "heading": "Repérer le sujet qui revient",
+              "objective": "Remarquer quand une conversation de travail devient un relais du soin.",
+              "exercise": [
+                "Observer combien de fois on ramène l’échange à ses rendez-vous.",
+                "Noter ces sujets dans un carnet personnel.",
+                "Les apporter au professionnel qui assure le suivi."
+              ],
+              "benefit": "Les questions cliniques trouvent un interlocuteur capable d’y répondre."
+            },
+            {
+              "heading": "Entendre la limite jusqu’au bout",
+              "objective": "Ne pas confondre un cadre avec un rejet.",
+              "exercise": [
+                "Laisser la personne finir sa phrase avant de répondre.",
+                "Reformuler ce qu’elle propose encore de partager.",
+                "Demander si l’on a bien compris avant de se retirer."
+              ],
+              "benefit": "Le lien reste possible au lieu d’être rompu sur un malentendu."
+            },
+            {
+              "heading": "Choisir un sujet commun",
+              "objective": "Nourrir une relation qui ne repose pas sur le soin.",
+              "exercise": [
+                "Penser à un sujet qui intéresse les deux personnes, comme un livre ou un dessin.",
+                "L’apporter à la prochaine pause.",
+                "Garder pour les rendez-vous ce qui relève du suivi."
+              ],
+              "benefit": "La personne garde des moments ordinaires, qui comptent aussi dans une vie."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Huit mots pour le kiosque",
+      "ending": "Florence et Cathy ramènent la légende du kiosque à huit mots, puis reprennent celle du lavoir. La pause se termine à l’heure, sans promesse de disponibilité supplémentaire. Cathy remonte à son bureau avec les pages 17 à 24 annotées, qu’elle intégrera à l’épreuve complète. Florence garde la ligne de son carnet pour mardi. Elle ne sait pas encore si la prochaine pause sera plus légère ; elle sait à qui poser ses questions de soin.",
+      "conclusion": "Une relation ordinaire peut soutenir Florence à condition de ne pas porter son suivi. En acceptant le cadre posé par Cathy, elle garde à la fois une collègue et une question à travailler en séance, sans que personne autour d’elle ne devienne son soignant.",
+      "mirror": [
+        "Cathy montre un geste possible : dire ce que l’on peut offrir avant ce que l’on ne peut pas. « J’aime bien ce café avec toi. Tes rendez-vous, c’est avec ton équipe. » Un collègue ou un proche peut rester présent sans écouter chaque détail du soin, sans le garder secret et sans en rendre compte à quiconque. S’il entendait un jour quelque chose qui fait craindre un danger immédiat pour Florence ou pour autrui, il n’essaierait pas de l’évaluer seul : il appellerait le 112."
+      ],
+      "clinical_focus": "Soutien social et limites",
+      "diagnostic_stage": "known",
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "rcpsych-cr223"
+      ],
+      "continuity": {
+        "choice": "Florence et Cathy ramènent la légende du kiosque à huit mots, puis reprennent celle du lavoir. La pause se termine à l’heure, sans promesse de disponibilité supplémentaire. Cathy remonte à son bureau avec les pages 17 à 24 annotées, qu’elle intégrera à l’épreuve complète. Florence garde la ligne de son carnet pour mardi. Elle ne sait pas encore si la prochaine pause sera plus légère ; elle sait à qui poser ses questions de soin.",
+        "next": "Au suivi, elle demande quelles options de soin sont réellement adaptées, plutôt qu’une garantie de changement rapide."
+      }
+    },
+    {
+      "number": 10,
+      "slug": "florence-choix-soin-preuves-limitees",
+      "title": "Choix de soin : ce qu’une prise en charge peut et ne peut pas garantir",
+      "description": "Florence demande à sa psychiatre ce que le suivi peut garantir. Derain explique objectifs et limites des connaissances, puis reprend son sommeil.",
+      "context": "en consultation psychiatrique",
+      "topics": [
+        "Objectifs du soin",
+        "Limites des connaissances",
+        "Décision partagée"
+      ],
+      "clinical_intro": "Pour les adultes qui ont présenté la santé d’autrui de façon trompeuse, les connaissances sur les traitements restent limitées et reposent surtout sur des descriptions de cas. Aucun protocole ne garantit un résultat ou une durée. Le soin se construit à partir d’une évaluation individuelle et reste distinct de l’évaluation du risque et des décisions de protection, qui relèvent d’autres responsabilités.",
+      "opening": "Florence a recopié trois questions sur une fiche bristol, numérotées au stylo bleu comme une liste de corrections : « 1. Qu’est-ce qu’on cherche à changer avec Marc ? 2. Combien de temps cela va durer ? 3. Est-ce que ça marche ? » Elle a aussi apporté sa feuille de nuits, complétée depuis quinze jours, comme la docteure Derain le lui avait proposé.\n\nDans le cabinet, elle pose la fiche sur le bureau avant même de s’asseoir. La psychiatre lit les trois questions et les prend dans l’ordre. Le travail avec Marc, le psychologue de l’équipe, cherche à comprendre ce qui a conduit aux conduites établies, à aider Florence à en parler sans les atténuer, à faire place à sa propre détresse et à tenir le cadre qui existe. Florence note. Pour la durée, Derain répond qu’elle ne peut pas donner de date de fin : l’équipe réévaluera régulièrement avec elle. Pour la troisième question, elle prend un moment. « Honnêtement, on dispose de peu d’études. Ce qu’on sait vient surtout de situations individuelles. Je ne peux pas vous donner un pourcentage de réussite, et je ne veux pas vous en inventer un. »\n\nFlorence attendait un chiffre. Elle demande si, au moins, un bon déroulement du suivi changera les décisions de protection. Derain répète ce qu’elle a expliqué lors de la coordination : l’évaluation du risque et la protection relèvent d’autres responsabilités, notamment celle de Nora, la référente de protection, et ne se décident pas dans ce cabinet sur la seule base de son assiduité.\n\nPuis la psychiatre prend la feuille de nuits. Les réveils à quatre heures sont moins fréquents la deuxième semaine, sans être réguliers. Florence a réduit le café de l’après-midi ; elle voit son médecin traitant jeudi pour l’examen général conseillé. Derain pose quelques questions, note les réponses et propose de poursuivre l’observation, puis d’en reparler au prochain rendez-vous.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Choisir un soin sans promesse de résultat",
+          "text": "Une prise en charge peut se choisir à partir d’objectifs clairs, même quand les preuves scientifiques sont limitées. Pour les adultes concernés par un trouble factice imposé à autrui, les données disponibles proviennent surtout de cas individuels : elles ne fournissent ni taux de réussite, ni durée type, ni protocole garanti. Derain sépare quatre choses que Florence avait tendance à mélanger : l’information médicale qu’elle peut recevoir, le choix du soin qu’elle construit avec l’équipe, l’évaluation du risque et les décisions de protection, qui ne dépendent pas d’elle. Le sommeil, lui, reste une question de santé suivie pour elle-même."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment l’attente d’une garantie apparaît-elle en consultation ?",
+          "points": [
+            {
+              "heading": "Chercher un chiffre",
+              "text": "Florence espère qu’une donnée précise rendra le soin prévisible.",
+              "examples": [
+                "Elle écrit « Est-ce que ça marche ? » en troisième question sur sa fiche.",
+                "Elle reste silencieuse quand Derain refuse d’inventer un pourcentage."
+              ]
+            },
+            {
+              "heading": "Lier soin et protection",
+              "text": "Elle voudrait qu’un suivi réussi entraîne une conséquence sur les décisions de protection.",
+              "examples": [
+                "Elle demande si un bon déroulement changera ces décisions.",
+                "Derain la renvoie à la répartition des rôles déjà expliquée avec Nora."
+              ]
+            },
+            {
+              "heading": "Des objectifs qui se formulent",
+              "text": "La consultation remplace la promesse par des buts concrets et une suite décidée ensemble.",
+              "examples": [
+                "Florence note sur sa fiche les objectifs du travail avec Marc.",
+                "La feuille de nuits est relue et l’observation se poursuit jusqu’au prochain rendez-vous."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour préparer une question sur son traitement",
+          "points": [
+            {
+              "heading": "Écrire ses questions à l’avance",
+              "objective": "Ne pas repartir sans avoir posé ce qui compte.",
+              "exercise": [
+                "Noter trois questions sur une fiche.",
+                "Les numéroter par ordre d’importance.",
+                "Poser la fiche sur le bureau au début du rendez-vous."
+              ],
+              "benefit": "Le temps de consultation sert aux questions réelles plutôt qu’à les retrouver."
+            },
+            {
+              "heading": "Faire préciser ce qui est connu",
+              "objective": "Distinguer ce que le soignant sait de ce qu’il ne peut pas promettre.",
+              "exercise": [
+                "Demander sur quoi repose une recommandation.",
+                "Accepter qu’une réponse soit « on ne sait pas encore ».",
+                "Noter ce qui reste ouvert pour en reparler."
+              ],
+              "benefit": "La décision de soin repose sur une information honnête, même incomplète."
+            },
+            {
+              "heading": "Reformuler les objectifs",
+              "objective": "Repartir avec une idée claire de ce qui est attendu du suivi.",
+              "exercise": [
+                "Résumer les objectifs avec ses propres mots.",
+                "Les relire au professionnel pour vérifier.",
+                "Garder la liste pour le prochain entretien avec l’équipe."
+              ],
+              "benefit": "Le suivi a un cap, même sans date de fin garantie."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Une fiche bristol relue dans le couloir",
+      "ending": "En sortant, Florence relit sa fiche à voix basse dans le couloir : comprendre, parler sans atténuer, faire place à ce qu’elle ressent, tenir le cadre. La troisième question reste sans chiffre. De retour au service, elle rassemble les vingt-quatre pages et envoie l’épreuve complète à Cathy, pour le retour écrit collectif de l’équipe du cahier. Son message dit seulement : « Voici l’épreuve complète. J’attends vos remarques. » Elle n’écrit pas qu’elle va mieux. Elle ne le sait pas, et ce n’est pas au cahier de le dire.",
+      "conclusion": "Florence apprend à choisir son soin sans garantie : des objectifs clairs, des réponses honnêtes et un suivi réévalué. Ce choix ne décide pas de la protection, et la remise de l’épreuve complète reste une étape du cahier, pas un résultat clinique.",
+      "mirror": [
+        "Si Florence demande à un proche « Tu crois que ça va marcher ? », il n’a pas à répondre à la place de l’équipe. Il peut dire : « Je ne sais pas. Pose la question à ta psychiatre ; et moi, je suis là pour parler d’autre chose aussi. » Il évite de promettre une guérison comme de prédire un échec. Cathy, de son côté, reçoit l’épreuve et répond sur le cahier : « Merci, je la transmets à l’équipe pour le retour écrit. »"
+      ],
+      "clinical_focus": "Choix de soin et preuves limitées",
+      "diagnostic_stage": "known",
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "rcpsych-cr223"
+      ],
+      "continuity": {
+        "choice": "En sortant, Florence relit sa fiche à voix basse dans le couloir : comprendre, parler sans atténuer, faire place à ce qu’elle ressent, tenir le cadre. La troisième question reste sans chiffre. De retour au service, elle rassemble les vingt-quatre pages et envoie l’épreuve complète à Cathy, pour le retour écrit collectif de l’équipe du cahier. Son message dit seulement : « Voici l’épreuve complète. J’attends vos remarques. » Elle n’écrit pas qu’elle va mieux. Elle ne le sait pas, et ce n’est pas au cahier de le dire.",
+        "next": "Un retour favorable sur le cahier risque ensuite de donner à un progrès matériel une portée clinique excessive."
+      }
+    },
+    {
+      "number": 11,
+      "slug": "florence-changements-vigilance",
+      "title": "Changements observés : un bon retour ne mesure pas le risque",
+      "description": "Le cahier reçoit un retour favorable. Florence voudrait en faire une preuve de changement ; sa psychiatre sépare la réussite et l’évaluation.",
+      "context": "après le retour écrit, au point de suivi",
+      "topics": [
+        "Évaluation des changements",
+        "Vigilance durable",
+        "Réussite professionnelle"
+      ],
+      "clinical_intro": "Une réussite professionnelle, un discours plus juste ou une présence régulière aux rendez-vous ne démontrent pas, à eux seuls, que le risque a disparu. Les changements s’apprécient dans leur contexte et dans la durée, par les professionnels concernés. Les connaissances actuelles ne permettent pas de prédire avec certitude l’évolution d’une personne, ni dans un sens ni dans l’autre.",
+      "opening": "Le retour écrit de l’équipe du cahier arrive un lundi, dans un courriel de Cathy, la coordinatrice éditoriale de Regards de quartier. Florence l’imprime pour le lire à voix basse, comme une épreuve. « Légendes cohérentes et justes, belle harmonisation. Une seule correction : page 14, la légende de l’arrêt de bus passe sur deux lignes. » Elle souligne « belle harmonisation » au crayon, puis la relit.\n\nDans le bus du soir, elle fait des comptes. Le cahier est presque fini. Elle n’a manqué aucun rendez-vous depuis le début du chantier, même celui qu’elle avait pensé annuler. Elle parle de sa responsabilité sans se réfugier derrière l’inquiétude. Ses nuits sont un peu plus régulières, et son médecin traitant, vu comme prévu, lui a dit de revenir si elles se dégradaient. Elle se surprend à penser : voilà, tout a changé. La phrase lui plaît et l’inquiète à la fois.\n\nLe surlendemain, au point de suivi prévu avec la docteure Derain, sa psychiatre, elle pose la feuille imprimée sur le bureau. « Je voudrais que ça compte, dit-elle. Le cahier, les rendez-vous. Je voudrais que ce soit la preuve que je ne suis plus la même. » Derain lit le retour et sourit brièvement. « Je suis contente pour le cahier. C’est votre travail, et il est réussi. Mais je ne peux pas évaluer la sécurité de quelqu’un d’autre avec la qualité d’une maquette. »\n\nElle reprend avec Florence ce qui relève du suivi : la façon dont elle parle aujourd’hui des faits établis, les moments où elle revient encore à ses bonnes intentions, la détresse dont elle a parlé à Marc, le psychologue de l’équipe, les nuits qui se stabilisent un peu. Elle note ce qui a bougé et ce qui reste fragile. Puis elle rappelle que la coordination avec Nora, la référente de protection, se poursuit comme prévu, dans le même cadre. Rien n’est modifié aujourd’hui. Florence demande si cela veut dire qu’elle a échoué. Derain répond que non : cela veut dire qu’on observe dans la durée.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Apprécier un changement demande du temps et du contexte",
+          "text": "Ce qu’une personne réussit dans un domaine ne mesure pas ce qui se passe dans un autre. Un cahier bien corrigé, une assiduité constante et un discours plus juste peuvent être de vrais changements ; ils ne démontrent pas pour autant la disparition du risque. Le suivi apprécie les évolutions dans leur contexte et dans la durée, et les connaissances ne permettent aucune prédiction individuelle certaine. La psychiatre ne balaie pas les progrès de Florence et ne lui annonce pas d’échec : elle les situe, et laisse la protection à la coordination qui existe déjà."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment une réussite peut-elle prendre une portée excessive ?",
+          "points": [
+            {
+              "heading": "Le compliment devient un argument",
+              "text": "Une remarque sur le travail est relue comme un jugement sur la personne.",
+              "examples": [
+                "Florence souligne « belle harmonisation » et relit la phrase plusieurs fois.",
+                "Elle apporte le retour imprimé à sa consultation psychiatrique."
+              ]
+            },
+            {
+              "heading": "Additionner les signes",
+              "text": "Des éléments réels sont mis bout à bout pour conclure trop vite.",
+              "examples": [
+                "Dans le bus, elle compte ses rendez-vous maintenus.",
+                "Elle ajoute ses nuits plus régulières et se dit que tout a changé."
+              ]
+            },
+            {
+              "heading": "Une évaluation qui situe",
+              "text": "La psychiatre distingue ce qui a évolué et ce qui reste à suivre, sans conclure à la place du temps.",
+              "examples": [
+                "Derain note la parole plus précise et ce qui reste fragile.",
+                "Elle rappelle que la coordination avec Nora se poursuit dans le même cadre."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour accueillir un progrès sans lui faire tout porter",
+          "points": [
+            {
+              "heading": "Nommer le domaine du progrès",
+              "objective": "Donner à chaque réussite sa juste portée.",
+              "exercise": [
+                "Écrire en une phrase ce qui a réussi.",
+                "Préciser dans quel domaine cette réussite compte.",
+                "Se demander à qui revient l’évaluation des autres domaines."
+              ],
+              "benefit": "La satisfaction reste légitime sans servir de preuve ailleurs."
+            },
+            {
+              "heading": "Apporter l’envie de conclure au suivi",
+              "objective": "Partager le désir d’une preuve plutôt que de conclure seul.",
+              "exercise": [
+                "Dire au professionnel ce que l’on aimerait que ce progrès démontre.",
+                "Écouter ce que lui observe dans le suivi.",
+                "Noter ce qui a bougé et ce qui reste fragile."
+              ],
+              "benefit": "Le progrès est reconnu sans court-circuiter l’évaluation."
+            },
+            {
+              "heading": "Garder les engagements en place",
+              "objective": "Ne pas relâcher le cadre après une bonne nouvelle.",
+              "exercise": [
+                "Vérifier la date du prochain rendez-vous.",
+                "Relire les consignes qui restent en vigueur.",
+                "Adresser toute question sur ces consignes au professionnel concerné."
+              ],
+              "benefit": "Le suivi continue au même rythme, quelle que soit l’humeur du jour."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Page 14, l’arrêt de bus",
+      "ending": "Florence ne range pas le retour imprimé comme une preuve. Elle garde son prochain rendez-vous avec Marc et celui avec la psychiatre dans trois semaines ; les consignes en vigueur restent les mêmes. Au service, elle raccourcit la légende de l’arrêt de bus pour qu’elle tienne sur une ligne, puis écrit à Cathy : « Page 14 corrigée. C’était la dernière remarque, je crois. » C’est une correction du cahier, rien d’autre. La déception de ne pas avoir obtenu davantage est toujours là ; elle la notera pour Marc.",
+      "conclusion": "Les changements de Florence sont réels et méritent d’être vus, mais ils ne valent pas preuve de sécurité. En maintenant le suivi et les décisions effectives après une bonne nouvelle, elle laisse à chaque responsabilité son lieu et donne à sa correction sa valeur exacte.",
+      "mirror": [
+        "Quand Florence montre le retour favorable, un proche peut s’en réjouir sans en tirer de conclusion : « Bravo pour le cahier, tu as bien travaillé. » Il évite d’ajouter « tu vois, tu as changé » ou « alors tout est réglé », qui donneraient au travail une portée clinique. Cathy peut répondre à la correction de la page 14 par un simple accusé de réception. L’appréciation du risque et la protection restent aux professionnels, qui poursuivent leur travail."
+      ],
+      "clinical_focus": "Changements observés et vigilance durable",
+      "diagnostic_stage": "known",
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "rcpsych-cr223"
+      ],
+      "continuity": {
+        "choice": "Florence ne range pas le retour imprimé comme une preuve. Elle garde son prochain rendez-vous avec Marc et celui avec la psychiatre dans trois semaines ; les consignes en vigueur restent les mêmes. Au service, elle raccourcit la légende de l’arrêt de bus pour qu’elle tienne sur une ligne, puis écrit à Cathy : « Page 14 corrigée. C’était la dernière remarque, je crois. » C’est une correction du cahier, rien d’autre. La déception de ne pas avoir obtenu davantage est toujours là ; elle la notera pour Marc.",
+        "next": "La remise finale peut fermer l’engagement matériel tout en laissant soin et protection à leurs équipes."
+      }
+    },
+    {
+      "number": 12,
+      "slug": "florence-participation-suivi-durable",
+      "title": "Participation ordinaire : un engagement tenu, un suivi qui continue",
+      "description": "Le cahier est reçu. Florence range les épreuves, garde son rendez-vous et ne cherche pas à faire parvenir le résultat à la personne exposée.",
+      "context": "au service municipal, le jour de la remise",
+      "topics": [
+        "Engagement tenu",
+        "Suivi au long cours",
+        "Vie ordinaire"
+      ],
+      "clinical_intro": "Une activité indépendante, comme un travail mené jusqu’au bout, peut garder sa valeur sans devenir une réparation, une preuve que tout danger a disparu ou un moyen d’obtenir quelque chose d’autrui. Le diagnostic ne résume pas une personne, et reconnaître sa vie ordinaire ne diminue pas sa responsabilité. Les soins et les décisions de protection continuent indépendamment de cette réussite.",
+      "opening": "Le vendredi après-midi, Cathy, la coordinatrice éditoriale du service municipal, passe au bureau de Florence avec une chemise cartonnée. « C’est reçu, dit-elle. Le cahier corrigé est validé, la mise en page finale part la semaine prochaine. Merci pour la page 14. » Elle repart vers la réunion du service. Le mot « reçu » reste sur le bureau comme un tampon.\n\nFlorence range les épreuves de Regards de quartier dans une boîte d’archives grise : la première épreuve, les légendes annotées, le sommaire, l’épreuve harmonisée, les pages 17 à 24, la version complète, le retour écrit. Elle note sur l’étiquette « Regards de quartier, épreuves » et la date. Ses gestes sont lents et précis, ceux d’un travail fini.\n\nEn fermant la boîte, une pensée familière lui vient : elle pourrait garder un exemplaire imprimé et faire en sorte qu’il parvienne à la personne exposée, pour qu’elle voie. Florence reconnaît cette envie. C’est la même attente de reconnaissance que celle dont elle a parlé à Marc, son psychologue, des semaines plus tôt. Elle ne la suit pas. La personne exposée n’a rien à voir avec ce cahier, ni à juger, ni à recevoir. Florence ouvre son carnet personnel et écrit une ligne pour mardi : « Envie d’envoyer le cahier. Pas fait. »\n\nPuis elle vérifie son agenda. Mardi, Marc, à seize heures. Dans quinze jours, la docteure Derain. La remise du cahier ne change ni ces rendez-vous ni les décisions de protection, qui restent appliquées. Elle le sait sans avoir besoin de le demander.\n\nEn quittant le service, elle passe à la médiathèque du quartier et emprunte un court recueil de nouvelles, choisi pour sa couverture et parce qu’elle aime les textes brefs. Assise sur un banc du square, elle en lit la première phrase à voix basse, pour elle seule.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Une réussite peut compter sans servir de monnaie",
+          "text": "Un engagement indépendant peut avoir de la valeur pour une personne en soin sans devenir réparation, preuve d’innocuité ou monnaie d’échange dans une relation. Le cahier Regards de quartier est un travail municipal : sa remise clôt une tâche, pas un parcours. Le diagnostic de Florence ne la résume pas ; elle a un métier, des goûts, des lectures. Cette humanité ne réduit pas sa responsabilité. Les soins et les décisions de protection restent effectifs, et l’autonomie de la personne exposée n’est pas utilisée pour conclure l’histoire de Florence : cette personne n’a ni à voir le cahier, ni à en dire quoi que ce soit."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment un engagement tenu reste-t-il à sa place ?",
+          "points": [
+            {
+              "heading": "Une remise qui clôt une tâche",
+              "text": "La validation du cahier ferme le travail prévu, et seulement lui.",
+              "examples": [
+                "Cathy annonce que la mise en page finale part la semaine prochaine.",
+                "Florence étiquette la boîte d’archives des épreuves avec le titre et la date."
+              ]
+            },
+            {
+              "heading": "Une ancienne envie revient",
+              "text": "La fin du projet réveille l’attente de reconnaissance déjà travaillée en séance.",
+              "examples": [
+                "Florence imagine faire parvenir un exemplaire à la personne exposée.",
+                "Elle n’en fait rien et note l’envie pour son entretien avec Marc."
+              ]
+            },
+            {
+              "heading": "La vie ordinaire continue",
+              "text": "Le suivi et les goûts personnels coexistent avec le travail achevé.",
+              "examples": [
+                "Elle vérifie ses rendez-vous de mardi et de dans quinze jours.",
+                "Elle emprunte un recueil de nouvelles et en lit une phrase à voix basse."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour terminer un projet sans lui donner une autre mission",
+          "points": [
+            {
+              "heading": "Clore le projet concrètement",
+              "objective": "Marquer la fin d’une tâche par des gestes simples.",
+              "exercise": [
+                "Ranger les documents de travail au même endroit.",
+                "Les étiqueter avec le nom du projet et la date.",
+                "Remercier les collègues concernés pour le travail fait ensemble."
+              ],
+              "benefit": "La fin du projet est nette et ne reste pas en suspens."
+            },
+            {
+              "heading": "Repérer l’envie de faire porter le résultat à autrui",
+              "objective": "Ne pas transformer une réussite en message.",
+              "exercise": [
+                "Remarquer l’envie d’envoyer ou de montrer le résultat à une personne précise.",
+                "Se demander à quel besoin personnel cette envie répond.",
+                "La noter pour l’entretien de suivi plutôt que d’agir."
+              ],
+              "benefit": "Les limites établies sont respectées et le besoin trouve un lieu où être travaillé."
+            },
+            {
+              "heading": "Garder ses rendez-vous après la réussite",
+              "objective": "Ne pas laisser une bonne nouvelle desserrer le suivi.",
+              "exercise": [
+                "Vérifier les dates des prochains rendez-vous.",
+                "Les inscrire dans l’agenda avec un rappel.",
+                "Prévoir aussi une activité personnelle pour la fin de semaine."
+              ],
+              "benefit": "Le soin continue, et la vie ordinaire trouve sa place à côté de lui."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Une boîte grise et un recueil ouvert",
+      "ending": "Le cahier corrigé est transmis et accepté pour la suite du travail du service. Florence a tenu son engagement. Elle poursuit son suivi avec Marc et la docteure Derain et respecte le cadre établi. Aucune nouvelle de la personne exposée ne lui parvient, et elle n’en demande pas ; aucune décision de protection n’est levée ni rediscutée. Sur le banc, elle tourne la page du recueil. Elle ne sait pas ce que diront les prochains entretiens. Elle sait qu’elle sera là mardi.",
+      "conclusion": "La série se termine sur un engagement tenu et un parcours de soin ouvert. Florence a mené le cahier jusqu’au bout sans lui faire porter une réparation ou une preuve. Sa responsabilité, ses soins et la protection de la personne exposée continuent, chacun à sa place, sans promesse de guérison.",
+      "mirror": [
+        "Le jour où Florence annonce la fin du cahier, un proche peut la féliciter pour ce qui est vrai : « Tu as tenu jusqu’au bout, c’est un beau travail. » Il peut aussi lui proposer un moment ordinaire, une promenade ou un café, sans lien avec le soin. Si elle évoque l’envie d’envoyer le cahier à la personne exposée, il ne s’en charge pas et ne l’y encourage pas : « Ça, c’est à travailler avec ton équipe. » La personne exposée n’a rien à recevoir ni à dire."
+      ],
+      "clinical_focus": "Participation ordinaire et suivi durable",
+      "diagnostic_stage": "known",
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "rcpsych-cr223"
+      ],
+      "continuity": {
+        "choice": "Le cahier corrigé est transmis et accepté pour la suite du travail du service. Florence a tenu son engagement. Elle poursuit son suivi avec Marc et la docteure Derain et respecte le cadre établi. Aucune nouvelle de la personne exposée ne lui parvient, et elle n’en demande pas ; aucune décision de protection n’est levée ni rediscutée. Sur le banc, elle tourne la page du recueil. Elle ne sait pas ce que diront les prochains entretiens. Elle sait qu’elle sera là mardi.",
+        "next": "La série se termine sur un engagement tenu et un parcours de soin ouvert, sans promettre guérison ni accès à autrui."
       }
     }
   ]

@@ -1,0 +1,148 @@
+{
+  "character_id": "samira",
+  "type": "origine",
+  "auditor": "audit_o7",
+  "audited_on": "2026-11-12",
+  "persona": {
+    "age_metier_proches": "41 ans (née en 1985, âge cité aux épisodes 1 et 12), caissière intérimaire, mère seule de Noé, 9 ans. Entourage : Chantal, collègue de caisse ; Mireille, voisine qui garde parfois Noé ; Jeanne, autre mère de l’école ; Étienne, travailleur social du quartier ; Soraya, sa sœur (ép. 9 et 11) ; un responsable de secteur et l’agence d’intérim.",
+    "arc_summary": "Samira part de la place que prennent les soucis de précarité dans sa tête (ép. 1) et traverse une suite d’épreuves concrètes : courrier inquiétant du bailleur (ép. 2), remarque humiliante au portail (ép. 3), dossier d’aide avec Étienne (ép. 4 et 7), relais de trajet avec Jeanne (ép. 5), planning modifié au magasin (ép. 6), mission refusée faute de garde (ép. 8), budget familial avec Soraya (ép. 9). Elle ouvre ensuite un espace personnel avec l’atelier de dessin (ép. 10), une réciprocité avec ses voisins (ép. 11), et termine en faisant reconnaître un obstacle d’accès aux services sans réduire sa vie à la précarité (ép. 12). Les fils (enveloppe de rappels, pochette, dossier, logement, dessin de la chaise) sont repris d’un épisode à l’autre et l’épisode final dit explicitement ce qui reste ouvert.",
+    "arc_issues": [
+      "Le fil du logement, posé à l’épisode 2 (« à quelle date recevront-ils une information écrite ? »), reste en sommeil jusqu’à l’épisode 12, où la même question est reprise mot pour mot ; une mention intermédiaire (ép. 6 à 9) éviterait l’impression d’un fil oublié.",
+      "Soraya, la sœur, n’apparaît qu’à l’épisode 9, et la comparaison avec elle est traitée deux fois (ép. 9, troisième manifestation, et ép. 11).",
+      "Usage ponctuel du présent pour des faits passés (« plus qu’elle ne l’attend », « celui qui lui est envoyé la veille »), plus rare que dans d’autres parcours mais visible."
+    ]
+  },
+  "episodes": [
+    {
+      "number": 1,
+      "file": "content/posts/reprendre-le-controle-de-ses-pensees/samira-precarite-place-soucis.md",
+      "focus": "Place prise par les soucis de précarité dans l’attention : vérifications répétées et jugement global sur soi.",
+      "structure": {"scene": "ok", "concept": "ok", "manifestations": "ok", "techniques": "ok", "retour": "ok", "conclusion": "ok", "proches": "ok"},
+      "comprehension": 5,
+      "comprehension_note": "Le ticket relu, le planning à deux journées vides, l’histoire de l’aimant mal suivie et l’enveloppe aux trois lignes rendent le concept immédiatement compréhensible ; personnages et lieux sont présentés à leur entrée et la fin (délai connu, attente maintenue) est nette.",
+      "issues": [
+        {"severity": "mineur", "type": "continuite", "quote": "Le geste lui plaît plus qu’elle ne l’attend", "problem": "Présent pour un fait passé.", "fix": "« Le geste lui plaît plus qu’elle ne s’y attendait »."}
+      ]
+    },
+    {
+      "number": 2,
+      "file": "content/posts/comprendre-et-maitriser-ses-emotions/samira-logement-securite-incertaine.md",
+      "focus": "Incertitude du logement et sentiment de sécurité : distinguer la lettre des scénarios et répondre à l’enfant sans promesse.",
+      "structure": {"scene": "ok", "concept": "ok", "manifestations": "ok", "techniques": "ok", "retour": "ok", "conclusion": "ok", "proches": "ok"},
+      "comprehension": 4,
+      "comprehension_note": "L’enveloppe du bailleur, la question de Noé sur l’étagère et l’aide concrète de Mireille sont très clairs ; le retour montre une clarification partielle sans faux soulagement. Le lieu du rendez-vous n’est pas nommé.",
+      "issues": [
+        {"severity": "mineur", "type": "comprehension", "quote": "Sur la table de l’accueil, la lettre semble moins énorme lorsqu’elle est posée à côté des questions écrites.", "problem": "« l’accueil » n’est pas identifié (le service d’information sur le logement évoqué dans la technique 2 ?).", "fix": "« Sur la table de l’accueil de l’ADIL… » ou le nom du service effectivement rencontré."}
+      ]
+    },
+    {
+      "number": 3,
+      "file": "content/posts/comprendre-et-maitriser-ses-emotions/samira-honte-financiere-regard.md",
+      "focus": "Honte financière sous le regard des autres après une remarque stigmatisante au portail.",
+      "structure": {"scene": "ok", "concept": "ok", "manifestations": "ok", "techniques": "ok", "retour": "ok", "conclusion": "ok", "proches": "ok"},
+      "comprehension": 5,
+      "comprehension_note": "La phrase du parent (« on peut quand même faire un effort »), le prétexte donné à Jeanne et l’envie de Noé forment une scène nette ; le retour (entretien discret, travail sur le trajet avec Jeanne) montre une décision et ce qui reste en suspens.",
+      "issues": []
+    },
+    {
+      "number": 4,
+      "file": "content/posts/sortir-de-ses-schemas-repetitifs/samira-demander-aides-droits.md",
+      "focus": "Non-recours et demande d’aide : obstacles pratiques et crainte d’un examen moral.",
+      "structure": {"scene": "ok", "concept": "ok", "manifestations": "ok", "techniques": "ok", "retour": "ok", "conclusion": "ok", "proches": "ok"},
+      "comprehension": 4,
+      "comprehension_note": "La photocopieuse qui refuse la seconde page, les contrats aux dates différentes et l’entretien avec Étienne (présenté comme travailleur social) rendent l’enjeu concret ; la fin distingue nettement l’étape franchie et le résultat inconnu.",
+      "issues": []
+    },
+    {
+      "number": 5,
+      "file": "content/posts/reprendre-le-controle-de-ses-pensees/samira-charge-mentale-parentalite.md",
+      "focus": "Charge mentale de la parentalité seule : travail d’anticipation invisible, relais cadré et place de l’enfant.",
+      "structure": {"scene": "ok", "concept": "ok", "manifestations": "ok", "techniques": "ok", "retour": "ok", "conclusion": "ok", "proches": "ok"},
+      "comprehension": 4,
+      "comprehension_note": "Le bonnet de piscine, l’autorisation et la proposition de Jeanne illustrent bien l’anticipation invisible. Le cadre de la scène (pourquoi Samira est au vestiaire d’une séance scolaire) et le trajet exact confié à Jeanne restent un peu flous.",
+      "issues": [
+        {"severity": "mineur", "type": "comprehension", "quote": "Le bonnet de piscine roule sous le banc du vestiaire.", "problem": "On ne sait pas si Samira accompagne une séance scolaire, une séance publique ou si elle récupère Noé après le bus scolaire ; « À la porte, Jeanne… » ne précise pas de quelle porte il s’agit.", "fix": "Situer la scène en une demi-phrase (par ex. « À la sortie de la séance de piscine scolaire, Samira attend Noé au vestiaire… »)."},
+        {"severity": "mineur", "type": "comprehension", "quote": "Jeanne pourra accompagner Noé de la grille de l’école à l’arrêt du bus scolaire lorsqu’elles se le seront confirmé. Pour le reste du trajet, l’organisation ne change pas.", "problem": "Dernière phrase administrative qui répète l’accord déjà conclu dans le paragraphe précédent et brouille la fin sur le dessin de Noé.", "fix": "Supprimer ces deux phrases ou les remplacer par un geste (Samira note le jour de Jeanne sur le calendrier à côté du bonnet dessiné)."}
+      ]
+    },
+    {
+      "number": 6,
+      "file": "content/posts/comprendre-et-maitriser-ses-emotions/samira-colere-situation-injuste.md",
+      "focus": "Colère face à une injustice au travail : protéger un revenu sans effacer l’injustice, et ne pas déplacer la colère sur une collègue ou l’enfant.",
+      "structure": {"scene": "ok", "concept": "ok", "manifestations": "ok", "techniques": "ok", "retour": "ok", "conclusion": "ok", "proches": "ok"},
+      "comprehension": 4,
+      "comprehension_note": "Les deux plannings pliés, la réponse sèche à Chantal et la réparation qui suit sont limpides ; le retour montre un arrangement obtenu et une reconnaissance qui manque.",
+      "issues": [
+        {"severity": "mineur", "type": "continuite", "quote": "L’horaire remplace celui qui lui est envoyé la veille, sans qu’on lui demande si elle peut prolonger sa présence.", "problem": "Présent pour un fait antérieur.", "fix": "« … celui qui lui a été envoyé la veille… »."}
+      ]
+    },
+    {
+      "number": 7,
+      "file": "content/posts/sortir-de-ses-schemas-repetitifs/samira-agir-marge-etroite.md",
+      "focus": "Pouvoir d’agir dans une marge étroite : distinguer un blocage local (accueil fermé) d’une impuissance totale.",
+      "structure": {"scene": "ok", "concept": "ok", "manifestations": "ok", "techniques": "ok", "retour": "ok", "conclusion": "ok", "proches": "ok"},
+      "comprehension": 4,
+      "comprehension_note": "L’accueil municipal fermé avec le justificatif en main est une scène claire et bien distincte du non-recours de l’épisode 4 ; la fin répète cependant deux fois le même geste et se termine sur une phrase obscure.",
+      "issues": [
+        {"severity": "mineur", "type": "trame", "quote": "Le lendemain, Samira barre la ligne du justificatif qu’elle vient de transmettre.", "problem": "Doublon du paragraphe précédent (« Elle barre la transmission sur sa liste ») ; le lecteur ne sait plus si la transmission a eu lieu la veille ou le lendemain.", "fix": "Garder un seul des deux paragraphes."},
+        {"severity": "mineur", "type": "comprehension", "quote": "Au magasin, Chantal a une nouvelle question sur l’horaire du soir. Samira reprend le premier planning avant d’ouvrir le second.", "problem": "Phrases elliptiques : on ne sait pas de quels plannings il s’agit ni ce que ce geste signifie.", "fix": "Supprimer, ou expliciter : « elle compare d’abord l’ancien planning, comme après la modification du mois dernier »."}
+      ]
+    },
+    {
+      "number": 8,
+      "file": "content/posts/reprendre-le-controle-de-ses-pensees/samira-decider-pression-temps.md",
+      "focus": "Décider sous la pression du temps : identifier les conditions essentielles (horaire, garde) et la vérification décisive.",
+      "structure": {"scene": "ok", "concept": "ok", "manifestations": "ok", "techniques": "ok", "retour": "ok", "conclusion": "ok", "proches": "ok"},
+      "comprehension": 5,
+      "comprehension_note": "L’appel dans le bus, le banc du square, les réponses claires de Mireille et Jeanne puis le refus motivé de la mission forment une décision nette, avec son coût (« Le créneau de travail restera vide »).",
+      "issues": [
+        {"severity": "mineur", "type": "trame", "quote": "### Des choix successifs finissent par se brouiller", "problem": "La section « manifestations » compte quatre sous-parties au lieu de trois, et celle-ci introduit un autre mécanisme (surcharge de décisions) à côté de la pression du temps.", "fix": "Fusionner cette sous-partie avec « Une conséquence prend toute la place » ou la réduire à un paragraphe."}
+      ]
+    },
+    {
+      "number": 9,
+      "file": "content/posts/comprendre-et-maitriser-ses-emotions/samira-budget-valeur-personnelle.md",
+      "focus": "Parler d’un budget sans lier sa valeur à sa capacité de payer, dans une préparation familiale.",
+      "structure": {"scene": "ok", "concept": "ok", "manifestations": "ok", "techniques": "ok", "retour": "ok", "conclusion": "ok", "proches": "ok"},
+      "comprehension": 4,
+      "comprehension_note": "La liste des achats, la question ouverte de Soraya et la phrase « oui, pour elle » sont claires ; Samira tient sa limite face au cousin. L’épisode recoupe en partie l’épisode 3 et anticipe l’épisode 11.",
+      "issues": [
+        {"severity": "mineur", "type": "repetition", "quote": "### La comparaison gomme les différences de situation", "problem": "Cette sous-partie (comparaison avec Soraya) est l’aspect central de l’épisode 11, qui le reprend avec les mêmes arguments.", "fix": "Supprimer cette sous-partie ici et la remplacer par un aspect propre à la scène, par ex. le temps offert en compensation (« Donner davantage d’heures pour éviter la honte »), déjà esquissé dans la première sous-partie."}
+      ]
+    },
+    {
+      "number": 10,
+      "file": "content/posts/sortir-de-ses-schemas-repetitifs/samira-projet-reporte-place.md",
+      "focus": "Faire une place à un projet personnel reporté (le dessin) par un essai limité et sans verdict.",
+      "structure": {"scene": "ok", "concept": "ok", "manifestations": "ok", "techniques": "ok", "retour": "ok", "conclusion": "ok", "proches": "ok"},
+      "comprehension": 5,
+      "comprehension_note": "L’affiche de la chaise, la séance de découverte et la « chaise qui danse » choisie par Noé donnent une scène et une fin très lisibles ; l’envie personnelle ouvre l’arc au-delà de la précarité.",
+      "issues": []
+    },
+    {
+      "number": 11,
+      "file": "content/posts/sortir-de-ses-schemas-repetitifs/samira-voisinage-reciprocite-comparaison.md",
+      "focus": "Réciprocité dans le soutien de voisinage, mêlée à une comparaison avec sa sœur.",
+      "structure": {"scene": "ok", "concept": "faible", "manifestations": "ok", "techniques": "ok", "retour": "ok", "conclusion": "ok", "proches": "ok"},
+      "comprehension": 4,
+      "comprehension_note": "La boîte à livres, la permanence proposée et la contribution limitée aux étiquettes sont claires. Mais l’épisode traite deux sujets (réciprocité avec Mireille, comparaison avec Soraya) ; la sœur n’est pas dans la scène et son rôle paraît ajouté.",
+      "issues": [
+        {"severity": "majeur", "type": "repetition", "quote": "Soraya raconte un repas improvisé avec ses voisins. Samira entend surtout qu’elle sait recevoir et aider sans compter.", "problem": "La comparaison avec Soraya reprend celle de l’épisode 9 (« Soraya peut annoncer une dépense sans la même hésitation… »), avec la même conclusion sur les situations différentes.", "fix": "Garder la comparaison fraternelle dans cet épisode (son slug et son sujet la nomment) et retirer la sous-partie correspondante de l’épisode 9 ; ici, la rattacher explicitement à la dette ressentie envers Mireille pour qu’elle serve la réciprocité plutôt que de former un second sujet."},
+        {"severity": "mineur", "type": "lien_concept", "quote": "Soraya lui envoie régulièrement des nouvelles de ses propres voisins.", "problem": "Le troisième paragraphe de la scène passe sans transition du hall à la sœur, absente de la scène ; l’aspect annoncé dans le titre (réciprocité de voisinage) est dilué.", "fix": "Supprimer ce paragraphe de la scène ou le relier à un geste (un message de Soraya reçu dans le hall)."}
+      ]
+    },
+    {
+      "number": 12,
+      "file": "content/posts/reprendre-le-controle-de-ses-pensees/samira-dignite-besoins-materiels.md",
+      "focus": "Dignité et besoins matériels fondamentaux : faire reconnaître un obstacle d’accès sans réduire sa vie à la précarité.",
+      "structure": {"scene": "ok", "concept": "ok", "manifestations": "ok", "techniques": "ok", "retour": "ok", "conclusion": "ok", "proches": "ok"},
+      "comprehension": 4,
+      "comprehension_note": "La laverie, l’uniforme dans le sac d’école et la contribution écrite transmise par Étienne bouclent l’arc ; la fin rassemble les fils (logement, dessin, besoins) en disant clairement ce qui reste ouvert.",
+      "issues": [
+        {"severity": "mineur", "type": "trame", "quote": "La fin d’un parcours d’articles n’impose donc pas une fin heureuse à tous les problèmes.", "problem": "Phrase méta (« parcours d’articles ») qui sort de la fiction au milieu d’une section explicative.", "fix": "« La fin de cette période n’impose donc pas une fin heureuse… »."}
+      ]
+    }
+  ],
+  "missing_or_extra": "Douze épisodes, tous centrés sur des aspects distincts de la vie en précarité (soucis, logement, honte, non-recours, charge mentale, colère, pouvoir d’agir, décision sous pression, budget et valeur, projet personnel, réciprocité, dignité). Aucun ajout ni retrait nécessaire. Seule correction de répartition : ne garder la comparaison avec Soraya que dans un seul épisode (de préférence le 11) et retirer la sous-partie correspondante de l’épisode 9.",
+  "verdict": "corrections_mineures"
+}

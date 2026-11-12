@@ -1,0 +1,354 @@
+{
+  "character_id": "aline",
+  "type": "origine",
+  "auditor": "audit_o1",
+  "audited_on": "2026-11-12",
+  "persona": {
+    "age_metier_proches": "Née en 1987, 39 ans (âge confirmé dans les ép. 1 et 9). Responsable de quincaillerie, bénévole d'une association de réparation. Proches : son compagnon Étienne (pas d'enfants), son amie Chloé (restauration) ; à l'association, la coordinatrice Claire et le bénévole Bastien ; Hélène, une participante ; ses parents et un frère sans prénom.",
+    "arc_summary": "Aline passe de la prise en charge réflexe (transport des établis, perceuse de Bastien) au partage réel des missions, puis apprend à se reposer et à refuser sans retirer son affection ni effacer la déception d'autrui. Elle demande de la réciprocité et accepte d'en recevoir, refuse le rôle de médiatrice familiale, construit des relais face aux récits difficiles, et termine en choisissant une contribution associative limitée et révisable.",
+    "arc_issues": [
+      "Trois épisodes se chevauchent autour de « vérifier la demande / ne pas prendre en charge » (ép. 1, 2, 7) ; l'ép. 7 reprend la technique centrale de l'ép. 1.",
+      "Trois épisodes portent sur le refus (ép. 4 couple, 6 association, 9 famille) et l'ép. 11 reprend la frontière de médiatrice de l'ép. 9. Les angles restent distincts mais devraient être davantage soulignés.",
+      "Le frère d'Aline n'a pas de prénom dans les ép. 9 et 11.",
+      "La continuité est par ailleurs solide : âge, métier, Étienne, Chloé, Claire et Bastien restent cohérents, et chaque épisode s'appuie explicitement sur le précédent sans contradiction factuelle notable."
+    ]
+  },
+  "episodes": [
+    {
+      "number": 1,
+      "file": "content/posts/sortir-de-ses-schemas-repetitifs/aline-sauveur-aider-sans-effacer.md",
+      "focus": "« syndrome du sauveur » (expression courante) : aider sans tout prendre en charge",
+      "structure": {
+        "scene": "ok",
+        "concept": "ok",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "ok",
+        "conclusion": "ok",
+        "proches": "ok"
+      },
+      "comprehension": 4,
+      "comprehension_note": "Ouverture concrète et bien située : inventaire des poignées, appel de Claire pour transporter les établis, Bastien qui demande une perceuse, randonnée prévue avec Étienne. Chaque personne est présentée par sa fonction. La fin montre la décision (une demi-heure vendredi) et sa conséquence (un autre bénévole prend le trajet).",
+      "issues": [
+        {
+          "severity": "mineur",
+          "type": "comprehension",
+          "quote": "Elle dépose enfin les clés : pour une fois, ce détail matériel l’arrête davantage qu’une grande résolution.",
+          "problem": "On ne sait pas de quelles clés il s'agit (voiture ? local ?) ni ce qu'elles arrêtent ; la phrase clôt l'ouverture de façon énigmatique.",
+          "fix": "Écrire « Elle repose les clés de sa voiture dans le tiroir : elle n'ira pas chez Bastien ce soir sans savoir ce qu'il demande »."
+        },
+        {
+          "severity": "mineur",
+          "type": "continuite",
+          "quote": "quelqu’un peut-il tenir la caisse pendant sa pause samedi suivant ?",
+          "problem": "Une « caisse » à l'association n'est mentionnée nulle part ailleurs ; on peut croire qu'il s'agit de la caisse du magasin.",
+          "fix": "Préciser « l'accueil de la permanence » au lieu de « la caisse »."
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "file": "content/posts/sortir-de-ses-schemas-repetitifs/aline-surresponsabilite-partage-taches.md",
+      "focus": "surresponsabilité : partager une mission avec ses décisions et ses informations",
+      "structure": {
+        "scene": "ok",
+        "concept": "ok",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "ok",
+        "conclusion": "ok",
+        "proches": "ok"
+      },
+      "comprehension": 4,
+      "comprehension_note": "La scène autour des inscriptions confiées à Bastien est claire et l'enjeu (garder toutes les décisions en ne donnant que l'exécution) se voit dans le dialogue « ce qu'il peut décider seul ». Le retour au point du jeudi et l'incident du samedi concluent nettement.",
+      "issues": [
+        {
+          "severity": "mineur",
+          "type": "comprehension",
+          "quote": "Elle lui dit qu’elle modifie deux intitulés pendant la réunion précédente sans le prévenir.",
+          "problem": "Le présent rend l'aveu confus (on croit qu'elle le fait pendant la réunion) ; l'épisode des intitulés n'est raconté que dans la partie manifestations, au présent de généralité.",
+          "fix": "Écrire « Elle lui dit qu'elle a modifié deux intitulés pendant la réunion précédente sans le prévenir », et raconter ce geste au passé composé dans la partie manifestations."
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "file": "content/posts/comprendre-et-maitriser-ses-emotions/aline-culpabilite-repos.md",
+      "focus": "culpabilité au repos",
+      "structure": {
+        "scene": "ok",
+        "concept": "ok",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "ok",
+        "conclusion": "ok",
+        "proches": "ok"
+      },
+      "comprehension": 5,
+      "comprehension_note": "Scène simple et immédiatement lisible (étang, prunes, livre, téléphone posé dessus) ; le conflit intérieur (chaises du local contre couverture) est concret. La fin montre une décision mesurable : consulter la conversation à l'heure choisie, ne pas ajouter d'offre de service.",
+      "issues": [
+        {
+          "severity": "mineur",
+          "type": "comprehension",
+          "quote": "Étienne lui demande si elle souhaite lire ou préparer une collecte.",
+          "problem": "La « collecte » n'est pas expliquée et ressemble à une ironie d'Étienne que le lecteur doit deviner.",
+          "fix": "Écrire « Étienne lui demande, mi-amusé, si elle compte lire ou préparer une collecte pour l'atelier »."
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "file": "content/posts/sortir-de-ses-schemas-repetitifs/aline-limite-affection-couple.md",
+      "focus": "poser une limite dans le couple sans retirer son affection",
+      "structure": {
+        "scene": "faible",
+        "concept": "ok",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "ok",
+        "conclusion": "ok",
+        "proches": "ok"
+      },
+      "comprehension": 3,
+      "comprehension_note": "Le cœur de l'épisode est clair (refuser un dîner sans multiplier garanties et compensations), mais l'ouverture se contredit : Étienne aurait déjà annoncé aux amis qu'ils viendraient à deux, puis il « propose » le dîner et demande combien de places réserver. Le lieu (porte du garage, casque de vélo, clés) reste flou.",
+      "issues": [
+        {
+          "severity": "majeur",
+          "type": "comprehension",
+          "quote": "Aline l’a vu prévenir leurs amis qu’ils viendraient à deux, et elle a attendu jusqu’à ce soir pour lui en parler. Étienne lui propose un dîner avec deux amis.",
+          "problem": "Contradiction interne : si les amis sont déjà prévenus de leur venue à deux, Étienne ne « propose » plus le dîner, et l'article affirme ensuite « Aujourd’hui, aucune réservation n’est faite ».",
+          "fix": "Supprimer la phrase « Aline l’a vu prévenir… pour lui en parler » ou la remplacer par « Étienne vient de lui proposer un dîner avec deux amis et attend sa réponse pour réserver »."
+        },
+        {
+          "severity": "mineur",
+          "type": "comprehension",
+          "quote": "Quand Étienne lui demande de préciser, Aline entend une négociation et répond : « Je ne vais quand même pas devoir demander la permission. »",
+          "problem": "Cette réplique accusatrice n'apparaît pas dans la scène d'ouverture ; on ne sait pas si elle a été dite ce soir-là, alors que la technique 3 et le retour la « réparent ».",
+          "fix": "Ajouter cette réplique dans la scène d'ouverture, juste après la question « faut-il réserver une place ou deux ? »."
+        },
+        {
+          "severity": "mineur",
+          "type": "proches",
+          "quote": "« D’accord, je préviens qu’on sera trois. Tu peux garder ta soirée. »",
+          "problem": "Calcul implicite (deux amis plus lui) que le lecteur doit refaire ; la scène parle d'une place à réserver.",
+          "fix": "Écrire « Je réserve une seule place pour moi »."
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "file": "content/posts/sortir-de-ses-schemas-repetitifs/aline-reciprocite-relations.md",
+      "focus": "réciprocité en amitié",
+      "structure": {
+        "scene": "ok",
+        "concept": "ok",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "ok",
+        "conclusion": "ok",
+        "proches": "ok"
+      },
+      "comprehension": 4,
+      "comprehension_note": "Chloé est présentée (amie, restauration, horaires variables) et le déséquilibre se voit dans un objet : les billets que c'est toujours Aline qui achète. La conversation après le film et le déjeuner proposé par Chloé donnent une issue nette et nuancée (Aline renégocie le créneau).",
+      "issues": [
+        {
+          "severity": "mineur",
+          "type": "comprehension",
+          "quote": "Aline propose une rencontre qui commence par une invitation venant d’elle, même toute simple.",
+          "problem": "« D’elle » est ambigu (Aline ou Chloé ?), alors que c'est le point central de la demande.",
+          "fix": "Écrire « une rencontre qui commence par une invitation venant de Chloé »."
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "file": "content/posts/comprendre-et-maitriser-ses-emotions/aline-tolerer-deception-autrui.md",
+      "focus": "tolérer la déception de l’autre après un refus",
+      "structure": {
+        "scene": "ok",
+        "concept": "ok",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "ok",
+        "conclusion": "ok",
+        "proches": "ok"
+      },
+      "comprehension": 5,
+      "comprehension_note": "Scène très lisible (punaise, « c’est vraiment dommage », calendrier) et le concept est montré dans un geste : elle laisse le pot de punaises au lieu d'empiler des contre-propositions. La suite à la réunion (une séance ponctuelle proposée par un autre) résout clairement.",
+      "issues": [
+        {
+          "severity": "mineur",
+          "type": "repetition",
+          "quote": "Elle ne sait pas encore attendre devant une personne déçue sans se sentir responsable de la ramener à un état agréable.",
+          "problem": "Troisième épisode sur un refus (ép. 1 : le transport, ép. 4 : le dîner). L'angle ici (supporter l'émotion de l'autre) est distinct, mais les rappels pourraient le souligner davantage.",
+          "fix": "Garder tel quel, ou ajouter une phrase qui oppose explicitement ce refus (dit sans peine) à l'émotion de Claire, qui seule pose problème."
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "file": "content/posts/sortir-de-ses-schemas-repetitifs/aline-demander-aide-souhaitee.md",
+      "focus": "demander si une aide est souhaitée (et poids de l'expertise)",
+      "structure": {
+        "scene": "ok",
+        "concept": "ok",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "ok",
+        "conclusion": "ok",
+        "proches": "ok"
+      },
+      "comprehension": 4,
+      "comprehension_note": "Hélène, le tiroir, le tournevis sur le chiffon bleu et la file d'attente posent une scène claire. La démonstration demandée en cours de route et le meuble partiellement réglé donnent une fin concrète. L'aspect principal reprend cependant la technique 1 de l'épisode 1.",
+      "issues": [
+        {
+          "severity": "majeur",
+          "type": "repetition",
+          "quote": "Aline connaît déjà cette distinction depuis le prêt de la perceuse à Bastien.",
+          "problem": "Le concept « vérifier la demande avant d'intervenir » est déjà la technique centrale de l'ép. 1 (« Vérifier la demande avant de construire la solution »). L'article le reconnaît, mais garde ce même aspect pour titre.",
+          "fix": "Recentrer l'épisode sur l'aspect réellement nouveau, déjà présent dans le texte : le poids de l'expertise et de la file d'attente, qui transforment une suggestion en consigne (« L’expertise transforme une suggestion en ordre »). Retitrer dans ce sens."
+        },
+        {
+          "severity": "mineur",
+          "type": "comprehension",
+          "quote": "Elle demande alors s’il cherche un outil ou une intervention.",
+          "problem": "Le présent fait croire qu'elle le demande à Bastien maintenant ; il s'agit d'un souvenir.",
+          "fix": "Écrire « Elle lui avait alors demandé s’il cherchait un outil ou une intervention »."
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "file": "content/posts/sortir-de-ses-schemas-repetitifs/aline-recevoir-aide-justifier.md",
+      "focus": "recevoir de l’aide sans se justifier",
+      "structure": {
+        "scene": "faible",
+        "concept": "ok",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "ok",
+        "conclusion": "ok",
+        "proches": "ok"
+      },
+      "comprehension": 3,
+      "comprehension_note": "Le concept est clair et bien illustré (Aline accumule les justifications, Chloé l'arrête avec douceur). Mais le cadre temporel se brouille : on parle d'un déjeuner à annuler ou déplacer, puis d'un trajet « avant son service » qui simplifie « la soirée », et Aline est déposée chez elle sans qu'on sache ce qu'est devenu le déjeuner.",
+      "issues": [
+        {
+          "severity": "majeur",
+          "type": "comprehension",
+          "quote": "Chloé, qu’elle appelle pour déplacer leur déjeuner, propose de passer la chercher.",
+          "problem": "On ne sait pas où va le trajet : au déjeuner ou chez Aline ? Le retour la dépose « au coin de sa rue », elle « prépare son repas », et le remerciement parle de « la soirée ». Le déjeuner disparaît.",
+          "fix": "Choisir un seul cadre : Chloé propose de la ramener chez elle en fin d'après-midi, avant son service du soir, et elles reportent le déjeuner. Remplacer « déplacer leur déjeuner » par « reporter leur déjeuner du lendemain »."
+        },
+        {
+          "severity": "mineur",
+          "type": "comprehension",
+          "quote": "Aline fait tourner la clé dans sa poche.",
+          "problem": "Doublon immédiat de la phrase précédente (« qui garde sa clé inutile dans la poche »).",
+          "fix": "Supprimer l'une des deux phrases."
+        },
+        {
+          "severity": "mineur",
+          "type": "comprehension",
+          "quote": "La barrière du garage descend derrière la voiture d’Aline",
+          "problem": "« Garage » désigne ici un garagiste, alors que l'ép. 4 emploie le mot pour le garage de la maison ; le lecteur met une phrase à comprendre que la voiture est en panne.",
+          "fix": "Écrire « La barrière du garagiste descend derrière la voiture en panne d’Aline »."
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "file": "content/posts/sortir-de-ses-schemas-repetitifs/aline-desaccord-lien-famille.md",
+      "focus": "garder un désaccord familial sans rompre le lien (refuser le rôle de médiatrice)",
+      "structure": {
+        "scene": "ok",
+        "concept": "ok",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "ok",
+        "conclusion": "ok",
+        "proches": "ok"
+      },
+      "comprehension": 4,
+      "comprehension_note": "Scène claire : carnet d'adresses poussé vers elle, prénom déjà écrit, « Tu sais lui parler ». Le frère n'est jamais nommé, mais son rôle reste lisible. L'accord partiel final (deux salles, nouvelle discussion sur le budget) conclut clairement.",
+      "issues": [
+        {
+          "severity": "mineur",
+          "type": "comprehension",
+          "quote": "négocie avec son frère, qui préfère une fête plus petite",
+          "problem": "Le frère n'a pas de prénom alors qu'il parle et revient dans l'ép. 11.",
+          "fix": "Lui donner un prénom à la première mention."
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "file": "content/posts/comprendre-et-maitriser-ses-emotions/aline-fatigue-compassion-relais.md",
+      "focus": "« fatigue de compassion » et relais concrets au local",
+      "structure": {
+        "scene": "ok",
+        "concept": "ok",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "ok",
+        "conclusion": "ok",
+        "proches": "ok"
+      },
+      "comprehension": 4,
+      "comprehension_note": "L'ouverture est précise (elle n'écoute plus Bastien jusqu'au bout, des récits de logement mal chauffé et d'isolement). La prudence sur le terme est bien tenue. Le retour (pause demandée, Bastien qui reprend l'accueil) montre une décision et sa conséquence.",
+      "issues": []
+    },
+    {
+      "number": 11,
+      "file": "content/posts/reprendre-le-controle-de-ses-pensees/aline-aide-resout-pas-tout.md",
+      "focus": "limites de l’aide face à une confidence familiale privée",
+      "structure": {
+        "scene": "ok",
+        "concept": "ok",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "ok",
+        "conclusion": "ok",
+        "proches": "ok"
+      },
+      "comprehension": 4,
+      "comprehension_note": "La confidence de la mère, faite pendant le choix des photos et avec la consigne « Je n’ai pas envie que tu lui en parles », est claire. La scène montre l'écoute sans solution. La fin reprend toutefois la frontière de médiatrice déjà posée à l'ép. 9.",
+      "issues": [
+        {
+          "severity": "mineur",
+          "type": "repetition",
+          "quote": "Elle dit aussi qu’elle préfère ne pas recevoir de messages à faire passer entre les parents.",
+          "problem": "Reprend l'aspect central de l'ép. 9 (refuser d'être l'intermédiaire) au lieu de rester sur l'aspect propre : supporter une difficulté qui reste ouverte.",
+          "fix": "Supprimer cette phrase ; garder la promesse de ne pas transmettre la confidence au frère."
+        }
+      ]
+    },
+    {
+      "number": 12,
+      "file": "content/posts/reprendre-le-controle-de-ses-pensees/aline-entraide-fidele-valeurs.md",
+      "focus": "choisir une entraide fidèle à ses valeurs (bilan de saison)",
+      "structure": {
+        "scene": "ok",
+        "concept": "ok",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "ok",
+        "conclusion": "ok",
+        "proches": "ok"
+      },
+      "comprehension": 4,
+      "comprehension_note": "Ouverture concrète (planning raturé, son nom sous la gomme) qui résume visuellement l'arc. Le choix final (deux ateliers d'essai, une case vide) referme bien le parcours. Les parties explicatives sont longues et un peu récapitulatives, sans nuire à la compréhension.",
+      "issues": [
+        {
+          "severity": "mineur",
+          "type": "trame",
+          "quote": "La mission d’inscription appartient maintenant à Bastien, avec un cadre et un point de suivi.",
+          "problem": "La sous-partie « La continuité du projet… » récapitule les ép. 2 et 10 au lieu de montrer une manifestation nouvelle.",
+          "fix": "Raccourcir à deux phrases et garder une manifestation située dans la réunion de planning."
+        }
+      ]
+    }
+  ],
+  "missing_or_extra": "Douze épisodes : rien ne manque et rien n'est en trop. Si l'on veut réduire les chevauchements, l'ép. 7 (aide souhaitée) peut être recentré sur l'asymétrie d'expertise plutôt que fusionné, car il apporte une scène (Hélène) et un lieu nouveaux.",
+  "verdict": "corrections_mineures"
+}

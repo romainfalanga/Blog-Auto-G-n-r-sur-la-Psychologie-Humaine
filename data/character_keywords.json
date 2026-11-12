@@ -767,6 +767,18 @@
     ],
     "source": "repères des parcours cliniques de fiction"
   },
+  "florence": {
+    "id": "florence",
+    "name": "Florence",
+    "keywords": [
+      "Trouble factice imposé à autrui",
+      "Responsabilité et protection",
+      "Parole clinique et ambivalence",
+      "Autonomie de la personne exposée",
+      "Coordination et suivi durable"
+    ],
+    "source": "repères des parcours cliniques de fiction"
+  },
   "gabin": {
     "id": "gabin",
     "name": "Gabin",
@@ -980,6 +992,18 @@
       "Tension et contrôle",
       "Prévention individualisée",
       "Participation et relais"
+    ],
+    "source": "repères des parcours cliniques de fiction"
+  },
+  "loubna": {
+    "id": "loubna",
+    "name": "Loubna",
+    "keywords": [
+      "Trouble paraphilique impliquant un comportement solitaire ou des individus consentants",
+      "Souffrance et préférences",
+      "Consentement et limites",
+      "Accompagnement choisi",
+      "Retentissement quotidien"
     ],
     "source": "repères des parcours cliniques de fiction"
   },
@@ -1343,6 +1367,18 @@
     ],
     "source": "repères des parcours cliniques de fiction"
   },
+  "serge": {
+    "id": "serge",
+    "name": "Serge",
+    "keywords": [
+      "Trouble factice imposé à soi-même",
+      "Informations de santé fiables",
+      "Coordination des soins",
+      "Lien et demande d’aide",
+      "Participation et suivi durable"
+    ],
+    "source": "repères des parcours cliniques de fiction"
+  },
   "solène": {
     "id": "solene",
     "name": "Solène",
@@ -1352,6 +1388,18 @@
       "Épisodes de l’humeur",
       "Signes de rechute",
       "Rétablissement au travail"
+    ],
+    "source": "repères des parcours cliniques de fiction"
+  },
+  "sylvain": {
+    "id": "sylvain",
+    "name": "Sylvain",
+    "keywords": [
+      "Frotteurisme",
+      "Préoccupations et détresse",
+      "Consentement et responsabilité",
+      "Prévention individualisée",
+      "Participation adaptée"
     ],
     "source": "repères des parcours cliniques de fiction"
   },

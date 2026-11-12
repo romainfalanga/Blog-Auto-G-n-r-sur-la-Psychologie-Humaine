@@ -1,0 +1,425 @@
+{
+  "character_id": "agnes",
+  "type": "clinique",
+  "auditor": "audit_c1",
+  "audited_on": "2026-11-12",
+  "persona": {
+    "age_metier_proches": "46 ans, professeure de danse dans un centre culturel ; état de transe (6B62) diagnostiqué avant la série ; collègue chorégraphe Mireille ; médecin Dr Valette.",
+    "arc_summary": "Un épisode de transe interrompt une séance ; Mireille reprend le groupe. Agnès apprend le geste répété qu'elle ne se rappelle pas, distingue souvenir et témoignage, ressent la fatigue qui suit, défend sa pratique culturelle face à une suppression, clarifie transe et possession, fait évaluer un malaise inhabituel, refuse que le relais dépende d'un signal, renonce à chercher une règle causale, vit un nouvel épisode malgré deux réussites, partage enfin la préparation et tient l'atelier avec une pause volontaire.",
+    "arc_issues": [
+      "Le plan clinique est suivi fidèlement : douze facettes distinctes, réelles et cohérentes avec le design ; chronologie du diagnostic (connu dès l'épisode 1, suivi puis réévaluation à l'épisode 7) sans contradiction.",
+      "Défaut majeur et transversal de compréhension : les scènes sont écrites en formules de précaution et de procédure (« selon le relais convenu », « les modalités de contact », « les indications reçues », « après la fin de l’événement et le temps nécessaire »). Les deux épisodes de transe (1 et 10) et le malaise (7) ne sont pas montrés.",
+      "Rien n'est concret dans l'univers d'Agnès : ni la danse enseignée, ni la pratique culturelle à préserver, ni les participants, ni la « transition » qui revient dans tous les épisodes. La voix prévue par le design (humour sur les feuilles égarées, « je ne sais pas ») est presque absente.",
+      "Les sections explicatives et techniques sont saturées de négations (« ne… ni… sans… »), ce qui rend le propos clinique difficile à saisir pour un lecteur sans formation."
+    ]
+  },
+  "episodes": [
+    {
+      "number": 1,
+      "file": "content/posts/comprendre-et-maitriser-ses-emotions/agnes-conscience-retrecie.md",
+      "focus": "Rétrécissement du champ de conscience pendant une séance : l'environnement devient moins accessible, Mireille reprend le groupe",
+      "structure": {
+        "scene": "faible",
+        "concept": "ok",
+        "manifestations": "ok",
+        "techniques": "faible",
+        "retour": "faible",
+        "conclusion": "ok",
+        "proches": "ok"
+      },
+      "comprehension": 2,
+      "comprehension_note": "L'épisode inaugural ne montre pas ce qui arrive : l'état est décrit par négations et périphrases (« ne lui restent pas accessibles de la même manière ») ; on ne sait pas non plus si une séance avec élèves a lieu ni ce qu'est la « transition » discutée.",
+      "issues": [
+        {
+          "severity": "bloquant",
+          "type": "comprehension",
+          "quote": "Puis Agnès perd le fil de ce qui se passe autour d’elle. Elle ne chute pas. Ce qu’elle pourra ensuite raconter de l’espace est limité ; les échanges du groupe ne lui restent pas accessibles de la même manière.",
+          "problem": "Le moment central de la série est raconté sans aucune perception concrète : le lecteur ne voit ni ce que vit Agnès ni ce que voit Mireille. Le trouble n'a pas d'effet perceptible dans la scène, contrairement à ce que demande la charte (troisième vague).",
+          "fix": "Raconter sobrement, du point de vue d'Agnès puis de Mireille, deux ou trois faits perceptibles et non spectaculaires (les voix du groupe qui s'éloignent, la musique qui continue sans qu'elle donne le compte suivant, un participant qui attend la consigne, Mireille qui s'avance et annonce la suite), sans détail d'induction."
+        },
+        {
+          "severity": "majeur",
+          "type": "comprehension",
+          "quote": "Elles en discutent pendant la préparation avec quelques adultes venus essayer le cours.",
+          "problem": "On ne comprend pas s'il s'agit d'une préparation entre collègues ou d'un cours avec participants ; la suite parle de « participants » encadrés.",
+          "fix": "Écrire clairement : « Ce mardi, cinq adultes sont venus essayer la première séance de l’atelier ; Agnès et Mireille l’animent ensemble. » et dire ce qu'est l'atelier."
+        },
+        {
+          "severity": "majeur",
+          "type": "comprehension",
+          "quote": "Après la fin de l’événement et le temps nécessaire, Agnès choisit de ne pas reprendre le cours ce jour-là. Mireille termine la séance et conserve la feuille quadrillée pour leur prochaine discussion. Elles suivront les modalités convenues avec l’équipe si un contact est nécessaire.",
+          "problem": "Retour procédural : ni lieu, ni geste, ni parole d'Agnès ; « les modalités convenues » restent opaques.",
+          "fix": "Montrer Agnès assise au fond du studio, une bouteille d'eau, la phrase qu'elle dit à Mireille pour ne pas reprendre, et le geste concret prévu avec l'équipe (par ex. un message au numéro du service s'il le faut)."
+        },
+        {
+          "severity": "mineur",
+          "type": "trame",
+          "quote": "Prévoir la réponse individualisée avec l’équipe de suivi.",
+          "problem": "Les étapes des techniques sont abstraites et peu liées à la scène.",
+          "fix": "Ancrer chaque étape dans la scène : qui reprend le groupe, à quel signal de Mireille, où Agnès peut s'asseoir."
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "file": "content/posts/comprendre-et-maitriser-ses-emotions/agnes-geste-sans-intention.md",
+      "focus": "Répertoire restreint de gestes et de paroles vécu hors contrôle ; une répétition observée ne révèle pas une intention",
+      "structure": {
+        "scene": "ok",
+        "concept": "ok",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "ok",
+        "conclusion": "ok",
+        "proches": "ok"
+      },
+      "comprehension": 3,
+      "comprehension_note": "Le témoignage de Mireille (un bref mouvement de la main, quelques mots) rend enfin l'épisode du studio perceptible, et « Ce n’était pas ma transition » est une réplique forte ; le reste est dominé par ce que les personnages ne font pas.",
+      "issues": [
+        {
+          "severity": "majeur",
+          "type": "comprehension",
+          "quote": "Elle n’imite pas le mouvement. Elle ne donne ni cadence ni démonstration, et n’en cherche pas la signification dans la chorégraphie.",
+          "problem": "La scène se définit par une liste de précautions plutôt que par l'échange ; le lecteur voit une consigne éditoriale plutôt qu'une conversation.",
+          "fix": "Remplacer par une action : Mireille garde les mains sur sa tasse en décrivant le geste, et Agnès lui demande où elles étaient dans le cours à ce moment-là."
+        },
+        {
+          "severity": "mineur",
+          "type": "comprehension",
+          "quote": "elle ne sait pas comment ses indications sont devenues inaccessibles aux autres",
+          "problem": "Formulation obscure : ce sont ses indications qui ont cessé, non qui sont devenues inaccessibles.",
+          "fix": "« elle ne sait pas à quel moment elle a cessé de donner les indications »."
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "file": "content/posts/comprendre-et-maitriser-ses-emotions/agnes-souvenirs-incomplets.md",
+      "focus": "Amnésie partielle possible autour d'un épisode ; distinguer souvenir propre et témoignage sans combler les blancs",
+      "structure": {
+        "scene": "ok",
+        "concept": "ok",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "ok",
+        "conclusion": "ok",
+        "proches": "ok"
+      },
+      "comprehension": 3,
+      "comprehension_note": "La consultation est lisible et le mécanisme (Agnès intègre à son récit un geste qu'elle ne connaît que par Mireille) est bien observé ; la fin redevient procédurale.",
+      "issues": [
+        {
+          "severity": "majeur",
+          "type": "comprehension",
+          "quote": "L’équipe ajuste avec elle les modalités de contact utiles pour la suite.",
+          "problem": "Phrase procédurale qui ne dit rien de concret ; le lecteur ne sait pas ce qui est décidé.",
+          "fix": "Donner la décision : « La docteure Valette lui donne le numéro de l’infirmière du service et lui dit de rappeler si un nouvel épisode survient avant le prochain rendez-vous. »"
+        },
+        {
+          "severity": "mineur",
+          "type": "comprehension",
+          "quote": "Le diagnostic était déjà posé avant cette séance ; elles cherchent aujourd’hui à préciser le vécu et les appuis, pas à annoncer un nom pour la première fois.",
+          "problem": "Rappel méta qui ressemble à une consigne éditoriale insérée dans la scène.",
+          "fix": "Intégrer l'information dans l'action (« Depuis le diagnostic, il y a deux ans, elle vient tous les deux mois… »)."
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "file": "content/posts/comprendre-et-maitriser-ses-emotions/agnes-fatigue-apres-episode.md",
+      "focus": "Fatigue après l'épisode, distincte de sa cause ; reporter la préparation sans délai de récupération imposé",
+      "structure": {
+        "scene": "ok",
+        "concept": "ok",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "ok",
+        "conclusion": "ok",
+        "proches": "ok"
+      },
+      "comprehension": 3,
+      "comprehension_note": "La scène chez elle (relire une annotation, ne pas avancer, appeler Mireille) est compréhensible ; mais une phrase clé est obscure et le contact avec l'équipe reste abstrait.",
+      "issues": [
+        {
+          "severity": "majeur",
+          "type": "comprehension",
+          "quote": "Ce serait encore une manière de faire semblant qu’une rencontre a eu lieu.",
+          "problem": "Phrase incompréhensible : on ne sait pas de quelle rencontre il s'agit ni en quoi tenir serait faire semblant.",
+          "fix": "« Ce serait faire semblant de travailler avec Mireille alors qu’elle n’aurait rien à lui apporter. »"
+        },
+        {
+          "severity": "mineur",
+          "type": "comprehension",
+          "quote": "Elle transmet aussi cette fatigue persistante par le contact convenu avec l’équipe",
+          "problem": "On ne sait pas ce qu'elle fait concrètement (appel, message, à qui).",
+          "fix": "« Elle laisse aussi un message à l’infirmière du service pour signaler cette fatigue. »"
+        },
+        {
+          "severity": "mineur",
+          "type": "continuite",
+          "quote": "La fatigue ressentie depuis l’événement du studio est encore là.",
+          "problem": "Le délai depuis l'épisode du studio n'est pas indiqué (le rendez-vous a lieu à une date inconnue), ce qui rend « persistante » difficile à situer.",
+          "fix": "Préciser « depuis l’événement du studio, il y a quatre jours »."
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "file": "content/posts/comprendre-et-maitriser-ses-emotions/agnes-pratique-culturelle-choisie.md",
+      "focus": "Une pratique culturelle choisie et une absorption ordinaire ne sont pas le trouble ; refuser de tout retirer du programme",
+      "structure": {
+        "scene": "faible",
+        "concept": "ok",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "ok",
+        "conclusion": "ok",
+        "proches": "ok"
+      },
+      "comprehension": 2,
+      "comprehension_note": "L'enjeu est compréhensible (Mireille veut supprimer une référence culturelle), mais la pratique n'est jamais nommée ni située, la phrase barrée n'est pas citée et la « brochure » apparaît sans explication : le lecteur discute d'un objet invisible.",
+      "issues": [
+        {
+          "severity": "majeur",
+          "type": "comprehension",
+          "quote": "Mireille a barré une référence à la pratique culturelle d’Agnès.",
+          "problem": "Ni la référence ni la pratique ne sont données ; la scène entière reste abstraite et la distinction culture/trouble ne peut pas être comprise.",
+          "fix": "Citer la phrase barrée de la présentation de l'atelier et nommer, sans rituel, la tradition de danse de la communauté d'Agnès (ou une périphrase concrète : « les danses de la fête de son village, qu’elle pratique chaque été »)."
+        },
+        {
+          "severity": "mineur",
+          "type": "comprehension",
+          "quote": "Agnès arrive avec les indications de suivi qu’elle doit conserver pour son organisation.",
+          "problem": "Phrase procédurale sans contenu.",
+          "fix": "Supprimer ou remplacer par un fait concret lié au report (« Agnès a dormi deux nuits complètes et revient avec une page annotée »)."
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "file": "content/posts/comprendre-et-maitriser-ses-emotions/agnes-transe-et-possession.md",
+      "focus": "Distinction clinique entre état de transe et transe de possession ; le diagnostic d'Agnès ne comporte pas de remplacement d'identité",
+      "structure": {
+        "scene": "ok",
+        "concept": "ok",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "ok",
+        "conclusion": "ok",
+        "proches": "ok"
+      },
+      "comprehension": 3,
+      "comprehension_note": "La question apportée en consultation est claire (« Je ne sais pas ce que je dois en comprendre pour moi ») et la distinction est bien posée ; la brochure reste sans origine et la consultation est résumée plus que jouée.",
+      "issues": [
+        {
+          "severity": "mineur",
+          "type": "comprehension",
+          "quote": "La brochure dépasse de l’enveloppe qu’Agnès a posée à côté d’elle.",
+          "problem": "On ignore d'où vient la brochure (centre culturel ? salle d'attente ?).",
+          "fix": "« La brochure trouvée au centre culturel, sur un stage de danses rituelles, dépasse de l’enveloppe… »."
+        },
+        {
+          "severity": "mineur",
+          "type": "comprehension",
+          "quote": "La médecin reprend les termes du dossier et leur différence",
+          "problem": "La réponse de la médecin n'est pas donnée ; le lecteur ne l'entend pas.",
+          "fix": "Lui donner une ou deux phrases au discours direct expliquant la différence avec des mots simples."
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "file": "content/posts/comprendre-et-maitriser-ses-emotions/agnes-malaise-inhabituel-reevaluation.md",
+      "focus": "Un diagnostic connu ne dispense pas d'évaluer un changement : malaise inhabituel avec possible perte de connaissance",
+      "structure": {
+        "scene": "ok",
+        "concept": "ok",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "faible",
+        "conclusion": "ok",
+        "proches": "ok"
+      },
+      "comprehension": 2,
+      "comprehension_note": "La décision de suspendre la préparation est juste et visible, mais le malaise n'est situé ni dans le temps ni dans le lieu, le « service médical » contacté n'est pas identifié et le dénouement se réduit à des formules administratives.",
+      "issues": [
+        {
+          "severity": "majeur",
+          "type": "comprehension",
+          "quote": "Elle veut d’abord raconter quelque chose survenu plus tôt, un malaise qui ne lui a pas semblé comparable à l’événement du premier cours.",
+          "problem": "Le malaise n'est ni daté ni situé ; on ne sait pas ce qu'Agnès a constaté (s'être retrouvée assise ? une heure manquante ?).",
+          "fix": "Ajouter un ou deux faits observables : « Ce matin, dans sa cuisine, elle s’est retrouvée par terre, la tasse renversée, sans savoir comment. »"
+        },
+        {
+          "severity": "majeur",
+          "type": "comprehension",
+          "quote": "L’évaluation médicale a lieu selon l’orientation reçue. Agnès poursuit le suivi avec les indications qui lui sont données.",
+          "problem": "Retour entièrement procédural : le lecteur ne sait pas qui a été appelé, ce qui a été décidé ni où Agnès est allée.",
+          "fix": "Montrer l'appel : Mireille compose le numéro du médecin traitant ou du service (préciser), la personne au téléphone demande de venir le jour même ; Agnès part en taxi avec Mireille, la maquette reste sur la table. Garder l'incertitude sur le résultat."
+        },
+        {
+          "severity": "mineur",
+          "type": "clinique",
+          "quote": "Elles contactent immédiatement le service médical",
+          "problem": "Le niveau d'urgence et l'interlocuteur adapté (médecin traitant, 15) ne sont pas explicites, alors que la charte demande de montrer qui prévient quel service et quand.",
+          "fix": "Nommer l'interlocuteur et justifier en une phrase pourquoi ce n'est pas le 15 (récupération complète) ou le contraire."
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "file": "content/posts/comprendre-et-maitriser-ses-emotions/agnes-relais-sans-signal.md",
+      "focus": "Le contrôle ne revient pas sur commande : un signal volontaire (carte « pause ») ne peut pas conditionner le relais pendant un épisode",
+      "structure": {
+        "scene": "ok",
+        "concept": "ok",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "ok",
+        "conclusion": "ok",
+        "proches": "ok"
+      },
+      "comprehension": 3,
+      "comprehension_note": "La carte « pause » et la question « Si je ne la lève pas, tu fais quoi ? » rendent la facette très claire ; la fin retombe dans la transmission abstraite.",
+      "issues": [
+        {
+          "severity": "mineur",
+          "type": "comprehension",
+          "quote": "La question clinique qui restait incertaine est transmise à l’équipe, et elles retiennent les précisions reçues pour leur organisation.",
+          "problem": "On ne sait ni quelle question ni quelle précision.",
+          "fix": "Nommer la question (« faut-il prévenir le centre si l’épisode dure plus longtemps ? ») et la réponse pratique reçue."
+        },
+        {
+          "severity": "mineur",
+          "type": "comprehension",
+          "quote": "La préparation reprend plus tard, après l’évaluation et selon les indications reçues.",
+          "problem": "Le résultat de l'évaluation de l'épisode 7 n'est pas même évoqué ; le lecteur ne sait pas si le malaise a été expliqué.",
+          "fix": "Indiquer en une phrase ce qu'Agnès choisit d'en dire (« les examens n’ont rien montré d’inquiétant ; elle doit en reparler dans un mois ») sans trancher la cause."
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "file": "content/posts/comprendre-et-maitriser-ses-emotions/agnes-circonstances-et-cause.md",
+      "focus": "Des circonstances observées ne prouvent pas une cause ; refus d'une enquête sur des déclencheurs ou un traumatisme",
+      "structure": {
+        "scene": "ok",
+        "concept": "ok",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "ok",
+        "conclusion": "ok",
+        "proches": "ok"
+      },
+      "comprehension": 3,
+      "comprehension_note": "Les trois notes (désaccord, cours agréable, journée difficile) et la tentation d'écarter le fait gênant illustrent bien la facette ; la scène reste générique (aucun désaccord nommé, aucun épisode daté).",
+      "issues": [
+        {
+          "severity": "mineur",
+          "type": "comprehension",
+          "quote": "Sur la première, elle a écrit un désaccord au centre.",
+          "problem": "Les notes ne sont pas citées ; on ne sait pas quels épisodes elles accompagnent (Agnès n'en a vécu qu'un à l'écran).",
+          "fix": "Citer les notes (« mardi 4 : dispute avec la direction sur les horaires ») et préciser si elles concernent des épisodes antérieurs à la série."
+        },
+        {
+          "severity": "mineur",
+          "type": "comprehension",
+          "quote": "Agnès conserve les observations dont elles ont défini l’utilité pour le suivi.",
+          "problem": "Retour procédural.",
+          "fix": "« Agnès garde une seule note, celle du cours agréable, et jette les autres dans la corbeille du cabinet. »"
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "file": "content/posts/comprendre-et-maitriser-ses-emotions/agnes-recurrence-et-relais.md",
+      "focus": "Récurrence variable : un nouvel épisode après deux préparations réussies ; le relais fonctionne sans que cela mesure l'évolution",
+      "structure": {
+        "scene": "faible",
+        "concept": "ok",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "ok",
+        "conclusion": "ok",
+        "proches": "ok"
+      },
+      "comprehension": 2,
+      "comprehension_note": "La question d'Agnès (« les deux dernières fois, ça ne comptait pas ? ») porte l'émotion de l'épisode, mais l'épisode lui-même et le relais sont racontés uniquement en termes de plan et de dispositions.",
+      "issues": [
+        {
+          "severity": "majeur",
+          "type": "comprehension",
+          "quote": "Un épisode involontaire interrompt pourtant la participation d’Agnès. Mireille prend la responsabilité du groupe selon le relais convenu et le plan de soutien est suivi.",
+          "problem": "Phrases procédurales à la place de la scène : on ne sait ni à quel moment, ni ce que voit le groupe, ni ce que fait concrètement Mireille.",
+          "fix": "Raconter en trois phrases sobres : le moment du cours, Mireille qui annonce l'exercice suivant au groupe, ce qu'elle fait pour Agnès selon le plan (s'asseoir près d'elle, éloigner les chaises), sans rejouer le détail du premier épisode."
+        },
+        {
+          "severity": "mineur",
+          "type": "comprehension",
+          "quote": "Les informations utiles sont transmises selon le cadre de suivi.",
+          "problem": "Formule administrative.",
+          "fix": "« Le soir, Agnès envoie un message à l’infirmière du service pour signaler l’épisode. »"
+        }
+      ]
+    },
+    {
+      "number": 11,
+      "file": "content/posts/comprendre-et-maitriser-ses-emotions/agnes-effort-invisible-preparation.md",
+      "focus": "Coût invisible du maintien de l'activité : trois versions du même cours préparées pour masquer toute interruption",
+      "structure": {
+        "scene": "ok",
+        "concept": "ok",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "ok",
+        "conclusion": "ok",
+        "proches": "ok"
+      },
+      "comprehension": 4,
+      "comprehension_note": "Les trois versions étalées sur la table rendent l'effort visible ; la réplique sur « trois cours » qui fait sourire et la décision de confier entièrement la transition à Mireille sont concrètes et claires.",
+      "issues": [
+        {
+          "severity": "mineur",
+          "type": "comprehension",
+          "quote": "une autre entrée pour que rien ne paraisse interrompu",
+          "problem": "Le vocabulaire chorégraphique (entrée, transition) n'est jamais expliqué au lecteur non danseur.",
+          "fix": "Décrire une fois, dans un épisode antérieur ou ici, ce qu'est la transition (« le passage où le groupe quitte le travail au sol pour se lever »)."
+        }
+      ]
+    },
+    {
+      "number": 12,
+      "file": "content/posts/comprendre-et-maitriser-ses-emotions/agnes-atelier-appuis-durables.md",
+      "focus": "Participation avec des appuis durables : pause volontaire et animation partagée, sans preuve de guérison",
+      "structure": {
+        "scene": "ok",
+        "concept": "ok",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "ok",
+        "conclusion": "ok",
+        "proches": "ok"
+      },
+      "comprehension": 3,
+      "comprehension_note": "L'atelier a lieu et la pause volontaire d'Agnès est un vrai dénouement ; mais le groupe, la danse et la phrase sur la pratique culturelle restent sans visage, ce qui affaiblit la fin.",
+      "issues": [
+        {
+          "severity": "majeur",
+          "type": "comprehension",
+          "quote": "La présentation conserve la place de sa pratique culturelle choisie, dans les mots qu’elles ont retravaillés ; elle ne raconte pas son dossier médical.",
+          "problem": "Fil rouge de la série (préserver la pratique culturelle) résolu par une périphrase : le lecteur ne sait toujours pas de quoi il s'agit.",
+          "fix": "Citer la phrase de présentation retenue à l'épisode 5 et la faire dire par Agnès au groupe."
+        },
+        {
+          "severity": "mineur",
+          "type": "comprehension",
+          "quote": "Le groupe entre dans le studio et trouve plusieurs places où s’asseoir.",
+          "problem": "Aucun participant n'est nommé ou décrit dans toute la série ; le groupe reste abstrait.",
+          "fix": "Donner un ou deux visages (une participante qui s'assoit aussi, sans que personne ne la regarde) pour montrer que la règle sert à tous."
+        }
+      ]
+    }
+  ],
+  "missing_or_extra": "Douze épisodes conformes au plan, aucun manquant ni surnuméraire. Aucune facette à remplacer : la priorité est de réécrire les scènes en actions concrètes.",
+  "verdict": "corrections_majeures"
+}

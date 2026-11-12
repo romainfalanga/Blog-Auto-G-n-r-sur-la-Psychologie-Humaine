@@ -1,0 +1,509 @@
+{
+  "character_id": "adrien",
+  "type": "origine",
+  "auditor": "audit_o1",
+  "audited_on": "2026-11-12",
+  "persona": {
+    "age_metier_proches": "Né en 1994 (31 ans au printemps 2026), graphiste freelance, ancien salarié d'agence ; célibataire depuis le départ de Marina il y a un an. Proches : sa sœur Charlotte (qui l'aide pour ses comptes), son ami Julien (course à pied) ; client récurrent Antoine ; concurrente Julie, ancienne collègue.",
+    "arc_summary": "Adrien part de la peur d'être abandonné pendant les soirées seules après Marina, puis voit les mêmes mécanismes se déplacer vers son travail (raisonnement émotionnel, doute face au client Antoine, négativité devant un appel d'offres). La perte de cet appel d'offres face à Julie ouvre une séquence amertume, déni, regrets ; il blesse sa sœur puis répare, et termine en observant une émotion avec RAIN plutôt qu'en la fuyant.",
+    "arc_issues": [
+      "La ville change : marché des Carmes (Toulouse) en ép. 3, « une petite rue de Lyon » en ép. 4, square du Temple, métro et canal Saint-Martin (Paris) en ép. 7-8. Il faut fixer Paris.",
+      "Julie est « une certaine Julie » en ép. 6, puis « son ancienne collègue » en ép. 7.",
+      "Le burn-out du titre de l'ép. 7 n'est jamais posé dans les épisodes précédents (ép. 5 parle seulement d'avoir quitté son CDI) ; il apparaît dans une lettre en fin d'épisode.",
+      "Des dates de publication servent de repères diégétiques (« la nuit du 7 mars » en ép. 2, « le 10 mai dernier » en ép. 11).",
+      "Les ép. 5 (rumination) et 9 (regrets) reprennent la même scène : redessiner Marina au lieu du logo d'Antoine.",
+      "L'origine du tatouage diffère : lignes dessinées « il y a des années » (ép. 4) contre symbole fait « après son départ de l'agence » (ép. 8).",
+      "L'exposition collective acceptée en ép. 9 n'est jamais reprise.",
+      "Plusieurs retours (ép. 2, 3, 6, 9) sont des bilans abstraits sur plusieurs jours plutôt qu'un retour à la scène."
+    ]
+  },
+  "episodes": [
+    {
+      "number": 1,
+      "file": "content/posts/sortir-de-ses-schemas-repetitifs/abandon-instabilite-face-solitude.md",
+      "focus": "schéma abandon/instabilité (Young) face à la solitude du soir",
+      "structure": {
+        "scene": "ok",
+        "concept": "ok",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "ok",
+        "conclusion": "ok",
+        "proches": "ok"
+      },
+      "comprehension": 4,
+      "comprehension_note": "Scène très lisible : Adrien attend une réponse de Julien, relit son propre message, l'abandon se joue dans un geste (retourner le téléphone). Julien n'est présenté que par son prénom mais son rôle d'ami se déduit vite ; la fin (« libre jeudi ») résout clairement.",
+      "issues": [
+        {
+          "severity": "mineur",
+          "type": "comprehension",
+          "quote": "Après avoir épluché l’orange, il peut sentir de nouveau l’envie d’appeler Marina",
+          "problem": "L'orange n'apparaît que dans le retour à la scène ; dans les manifestations, le lecteur ne sait pas de quelle orange il s'agit.",
+          "fix": "Remplacer par « Plus tard dans la soirée, il peut sentir de nouveau l'envie d'appeler Marina… » ou placer l'orange dans la scène d'ouverture."
+        },
+        {
+          "severity": "mineur",
+          "type": "comprehension",
+          "quote": "Julien finit par écrire qu’il était en train de dîner",
+          "problem": "Julien n'est jamais présenté comme ami (ni comme compagnon de course avant la fin) ; un lecteur isolé peut hésiter sur la nature du lien.",
+          "fix": "Ajouter dans l'ouverture « Julien, son ami de course, … » à la première mention."
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "file": "content/posts/reprendre-le-controle-de-ses-pensees/raisonnement-emotionnel-seul-face-a-soi.md",
+      "focus": "raisonnement émotionnel au travail (ressenti pris pour preuve)",
+      "structure": {
+        "scene": "faible",
+        "concept": "ok",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "faible",
+        "conclusion": "ok",
+        "proches": "ok"
+      },
+      "comprehension": 2,
+      "comprehension_note": "La scène initiale (deux traits, un courriel client) est vite noyée sous deux paragraphes abstraits sur ses « schémas » ; on ne sait pas ce que dit le courriel du client ni ce qui est demandé. Le retour est un résumé d'habitudes sur plusieurs jours, pas une action dans la scène.",
+      "issues": [
+        {
+          "severity": "majeur",
+          "type": "comprehension",
+          "quote": "Il vient de relire le courriel de son client et tout lui paraît raté",
+          "problem": "Le contenu du courriel n'est jamais donné : le lecteur ignore si le client critique, demande une modification ou rien de particulier, ce qui empêche de voir l'écart ressenti/faits qui est tout le concept.",
+          "fix": "Indiquer en une phrase le contenu réel du courriel (ex. « le client demande la dimension finale et ajoute “merci pour la première piste” ») pour que la conclusion « tout est raté » soit visiblement émotionnelle."
+        },
+        {
+          "severity": "majeur",
+          "type": "comprehension",
+          "quote": "il parvient désormais à observer le même processus s'appliquer à ses clients, marquant une prise de conscience de la transversalité de ses schémas",
+          "problem": "Paragraphes abstraits et procéduraux à la place de l'action ; ils récapitulent l'épisode précédent au lieu de faire avancer la scène.",
+          "fix": "Couper les paragraphes 2 et 3 de l'ouverture à une phrase de rappel (Marina, Julien) et garder la scène des deux traits."
+        },
+        {
+          "severity": "majeur",
+          "type": "continuite",
+          "quote": "Il se souvient de la nuit du 7 mars",
+          "problem": "La date est la date de publication de l'épisode 1, pas un repère diégétique ; l'épisode 1 ne situe pas la scène un 7 mars. Même procédé dans l'épisode 11 (« le 10 mai »).",
+          "fix": "Remplacer par « Il se souvient du soir où il attendait la réponse de Julien »."
+        },
+        {
+          "severity": "majeur",
+          "type": "lien_concept",
+          "quote": "Adrien utilise désormais ce retour comme une preuve tangible de la qualité de son travail.",
+          "problem": "Remplacer le ressenti par la réassurance d'un ami comme « preuve » contredit le concept (ne pas faire d'une impression une preuve) et la technique 1.",
+          "fix": "Écrire que l'avis de Julien est un retour parmi d'autres et que seule la réponse du client sur la dimension tranchera."
+        },
+        {
+          "severity": "mineur",
+          "type": "trame",
+          "quote": "Après avoir pratiqué ces techniques, Adrien observe un changement dans son quotidien.",
+          "problem": "Le retour commence par une formule générique de bilan au lieu de revenir au moment des deux traits.",
+          "fix": "Commencer le retour par le geste : il note dans une colonne ce que dit le courriel, puis trace la troisième esquisse."
+        },
+        {
+          "severity": "mineur",
+          "type": "continuite",
+          "quote": "Adrien est assis devant sa toile",
+          "problem": "La scène est une esquisse sur feuille pour un logo client, pas une toile.",
+          "fix": "Remplacer « sa toile » par « sa feuille d'esquisse »."
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "file": "content/posts/comprendre-et-maitriser-ses-emotions/melancolie-face-a-la-solitude.md",
+      "focus": "mélancolie (humeur triste et songeuse) face à la solitude du freelance",
+      "structure": {
+        "scene": "ok",
+        "concept": "ok",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "faible",
+        "conclusion": "ok",
+        "proches": "ok"
+      },
+      "comprehension": 3,
+      "comprehension_note": "L'ouverture est concrète (logo promis pour lundi, nuque de Marina dessinée, café froid) mais le troisième paragraphe bascule en commentaire abstrait. Le retour s'étale sur dix jours et une promenade au « marché des Carmes » qui situe Adrien à Toulouse, alors que les autres épisodes le placent à Lyon puis Paris.",
+      "issues": [
+        {
+          "severity": "majeur",
+          "type": "continuite",
+          "quote": "il organise un rendez-vous avec Julien pour une promenade près du marché des Carmes",
+          "problem": "Le marché des Carmes est à Toulouse ; l'épisode 4 le place à Lyon (« une petite rue de Lyon ») et les épisodes 7-8 à Paris (square du Temple, canal Saint-Martin).",
+          "fix": "Fixer une ville unique pour Adrien (Paris, majoritaire) et remplacer par un lieu parisien, par ex. « le marché des Enfants-Rouges »."
+        },
+        {
+          "severity": "majeur",
+          "type": "comprehension",
+          "quote": "pendant un échange réel avec Charlotte",
+          "problem": "Charlotte apparaît ici pour la première fois du parcours sans être présentée (sa qualité de sœur n'est donnée qu'à l'épisode 4).",
+          "fix": "Écrire « avec sa sœur Charlotte »."
+        },
+        {
+          "severity": "mineur",
+          "type": "comprehension",
+          "quote": "Il peut accepter une exposition puis partir du vestiaire sans avoir dit à Julien",
+          "problem": "Exposition et vestiaire sortent de nulle part dans l'histoire.",
+          "fix": "Remplacer par un exemple tiré de la soirée décrite (laisser un message de Julien sans réponse)."
+        },
+        {
+          "severity": "mineur",
+          "type": "comprehension",
+          "quote": "c'est une texture qui nourrit ses compositions, une tonalité qu'il sait extraire et transformer en projet",
+          "problem": "Formulation abstraite qui remplace une action ; l'ouverture perd sa concrétude.",
+          "fix": "Remplacer par un geste : il garde la nuque de Marina dans un coin de la feuille et commence une autre esquisse."
+        },
+        {
+          "severity": "mineur",
+          "type": "trame",
+          "quote": "Après dix jours, il voit une courbe",
+          "problem": "Le retour devient un bilan de dix jours ; la fin du soir (minuteur, encre) est bonne mais diluée.",
+          "fix": "Raccourcir le paragraphe sur la courbe et garder la session de 50 minutes et la fin à l'évier."
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "file": "content/posts/sortir-de-ses-schemas-repetitifs/dependance-incompetence-face-autorite-causes.md",
+      "focus": "schéma dépendance/incompétence face à l'autorité (client)",
+      "structure": {
+        "scene": "ok",
+        "concept": "ok",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "faible",
+        "conclusion": "ok",
+        "proches": "ok"
+      },
+      "comprehension": 3,
+      "comprehension_note": "La situation est claire (deux demandes d'Antoine, une troisième question qu'Adrien n'ose pas envoyer). Antoine n'est présenté que comme « un homme qui représente l'autorité » et le retour enchaîne deux envois contradictoires.",
+      "issues": [
+        {
+          "severity": "majeur",
+          "type": "comprehension",
+          "quote": "Il écrit une réponse concise à Antoine, expliquant ses choix graphiques avec assurance, sans poser de question ni solliciter de validation préalable. Il clique sur envoyer",
+          "problem": "Le paragraphe final dit ensuite « Il envoie à Antoine les deux versions et lui demande sur quel support le lettrage doit rester lisible » : deux envois différents, l'un sans question, l'autre avec question. Le lecteur ne sait pas ce qui a été réellement envoyé.",
+          "fix": "Garder un seul envoi : les deux versions avec la seule question utile sur le support, et supprimer « sans poser de question »."
+        },
+        {
+          "severity": "mineur",
+          "type": "comprehension",
+          "quote": "face à ce mail d'un homme qui représente l'autorité",
+          "problem": "Antoine n'est jamais présenté explicitement comme son client.",
+          "fix": "Écrire « le courriel d'Antoine, le client qui lui a commandé ce logo »."
+        },
+        {
+          "severity": "mineur",
+          "type": "continuite",
+          "quote": "Pourquoi serait-il moins capable aujourd'hui de choisir entre deux nuances de bleu pour un client ?",
+          "problem": "La demande porte sur la taille du lettrage et une version sur fond sombre, pas sur des nuances de bleu.",
+          "fix": "Remplacer par « choisir la taille d'un lettrage »."
+        },
+        {
+          "severity": "mineur",
+          "type": "continuite",
+          "quote": "ses tatouages au poignet, des lignes géométriques qu'il a lui-même dessinées il y a des années",
+          "problem": "L'épisode 8 dit que le tatouage est « un petit symbole de résilience qu'il s'est fait faire après son départ de l'agence » (il y a environ 18 mois).",
+          "fix": "Aligner l'épisode 8 sur cette version (lignes géométriques anciennes)."
+        },
+        {
+          "severity": "mineur",
+          "type": "comprehension",
+          "quote": "il commence enfin à devenir le propre patron de son esprit",
+          "problem": "Formule grandiloquente qui contredit la nuance juste avant (Antoine garde un rôle de validation).",
+          "fix": "Supprimer la phrase."
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "file": "content/posts/reprendre-le-controle-de-ses-pensees/rumination-mentale-seul-face-a-soi-meme-adrien.md",
+      "focus": "rumination nocturne sur la rupture",
+      "structure": {
+        "scene": "ok",
+        "concept": "ok",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "ok",
+        "conclusion": "ok",
+        "proches": "ok"
+      },
+      "comprehension": 4,
+      "comprehension_note": "Ouverture forte et concrète : deux heures du matin, calque « Marina-test », nez déplacé puis remis. On comprend l'enjeu (logo à tracer) et la fin (repère, réveil, « demain »).",
+      "issues": [
+        {
+          "severity": "mineur",
+          "type": "clinique",
+          "quote": "Sa dépendance affective, qu'il pensait avoir domptée après avoir affronté ses peurs face à l'autorité de ses clients",
+          "problem": "Confond le schéma dépendance/incompétence (épisode 4) avec une « dépendance affective », que l'article lui-même écarte plus bas.",
+          "fix": "Écrire « son doute sur ses capacités, qu'il pensait avoir apprivoisé face à Antoine »."
+        },
+        {
+          "severity": "mineur",
+          "type": "comprehension",
+          "quote": "faisant de sa solitude un tribunal où il est à la fois l'accusé et le juge",
+          "problem": "Métaphores accumulées (glue, tribunal, machine) à la place d'un fait.",
+          "fix": "Garder une seule image."
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "file": "content/posts/reprendre-le-controle-de-ses-pensees/biais-negativite-situation-competition-adrien.md",
+      "focus": "biais de négativité en situation de compétition (appel d'offres)",
+      "structure": {
+        "scene": "ok",
+        "concept": "ok",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "faible",
+        "conclusion": "ok",
+        "proches": "ok"
+      },
+      "comprehension": 3,
+      "comprehension_note": "On comprend qu'Adrien compare son dossier à celui d'une finaliste, mais la compétition elle-même (client, enjeu, échéance) n'est jamais posée ; « dossier », « logo », « portfolio », « appel d'offres » alternent. Le retour envoie le dossier puis y repère une correction à faire.",
+      "issues": [
+        {
+          "severity": "majeur",
+          "type": "comprehension",
+          "quote": "Adrien agrandit le dossier d’une autre finaliste",
+          "problem": "Le concours n'est jamais présenté : pour quel client, quel enjeu, quelle échéance ? Le lecteur n'apprend qu'à l'épisode 7 qu'il s'agit d'une marque de cosmétiques.",
+          "fix": "Ajouter dès l'ouverture : « l'appel d'offres d'une marque de cosmétiques éthiques ; trois finalistes, envoi des dossiers ce soir »."
+        },
+        {
+          "severity": "majeur",
+          "type": "continuite",
+          "quote": "une certaine Julie dont le style minimaliste",
+          "problem": "« Une certaine Julie » présente une inconnue ; l'épisode 7 en fait « Julie, son ancienne collègue ».",
+          "fix": "Écrire ici « Julie, une ancienne collègue de l'agence »."
+        },
+        {
+          "severity": "majeur",
+          "type": "comprehension",
+          "quote": "En envoyant son dossier, il ressent une satisfaction sobre.",
+          "problem": "Le dernier paragraphe dit ensuite « Il repère enfin dans le sien une page qu’il aimerait rendre plus lisible. Il note la modification » : on ne sait pas si le dossier est déjà parti.",
+          "fix": "Placer la correction de page avant l'envoi, ou supprimer la phrase sur l'envoi et finir sur la correction notée avant l'échéance."
+        },
+        {
+          "severity": "mineur",
+          "type": "continuite",
+          "quote": "Ce décalage d'un millimètre qu'il trouvait catastrophique",
+          "problem": "Le défaut dans la scène est un interligne trop serré, pas un décalage d'un millimètre sur un logo.",
+          "fix": "Écrire « cet interligne qu'il trouvait catastrophique »."
+        },
+        {
+          "severity": "mineur",
+          "type": "comprehension",
+          "quote": "Trois jours plus tôt, il avait envoyé cette même version à un ami.",
+          "problem": "L'ami n'est pas nommé alors que Julien est l'ami récurrent ; la rubrique proches parle aussi d'un ami anonyme.",
+          "fix": "Nommer Julien."
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "file": "content/posts/comprendre-et-maitriser-ses-emotions/amertume-reconversion-professionnelle-burn-out.md",
+      "focus": "amertume après un refus professionnel, sur fond de reconversion",
+      "structure": {
+        "scene": "ok",
+        "concept": "ok",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "faible",
+        "conclusion": "ok",
+        "proches": "ok"
+      },
+      "comprehension": 3,
+      "comprehension_note": "Le banc face à l'ancienne agence et la victoire de Julie posent bien l'amertume. Mais le burn-out du titre n'est mentionné qu'en passant à la fin, et la chronologie du retour revient en arrière (il rentre écrire chez lui puis « en quittant le square » remet le carnet dans le sac).",
+      "issues": [
+        {
+          "severity": "majeur",
+          "type": "lien_concept",
+          "quote": "commence à rédiger la lettre de décharge adressée à son ancien patron. Il y jette ses colères sur le burn-out",
+          "problem": "Le burn-out, annoncé dans le titre, n'a jamais été posé auparavant dans le parcours (l'épisode 5 parle seulement d'avoir « quitté son CDI ») ; il surgit en fin d'épisode sans scène.",
+          "fix": "Ajouter dans l'ouverture une phrase concrète sur son départ (arrêt, épuisement, date) ou retirer « burn-out » du titre."
+        },
+        {
+          "severity": "majeur",
+          "type": "comprehension",
+          "quote": "En quittant le square, il sort le carnet neuf du sac, puis le remet sans l’ouvrir. Il écrira chez lui.",
+          "problem": "Le paragraphe précédent l'a déjà fait rentrer chez lui et écrire ; la fin revient au square, la chronologie est incohérente.",
+          "fix": "Supprimer les deux paragraphes « Il décide de s'arrêter… » et « Ce constat… » ou déplacer la phrase finale avant ceux-ci."
+        },
+        {
+          "severity": "majeur",
+          "type": "lien_concept",
+          "quote": "Il admet que son dossier manquait peut-être de clarté commerciale par rapport à celui de Julie, non par manque de talent, mais parce qu'il était trop concentré sur sa propre souffrance",
+          "problem": "Cette auto-attribution sans information nouvelle contredit la technique de réattribution (« laisser les causes inconnues ouvertes »).",
+          "fix": "Remplacer par « il note qu'il ne connaît pas les critères et décide de demander un retour au client »."
+        },
+        {
+          "severity": "mineur",
+          "type": "continuite",
+          "quote": "dont le portfolio lui semblait pourtant bien moins audacieux que le sien",
+          "problem": "À l'épisode 6, le style de Julie lui « semble bien plus percutant que le sien ».",
+          "fix": "Ajouter « aujourd'hui » pour montrer que l'amertume réécrit son jugement, ou harmoniser."
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "file": "content/posts/sortir-de-ses-schemas-repetitifs/deni-apres-un-echec-comprendre-et-agir.md",
+      "focus": "déni / minimisation après l'échec à l'appel d'offres",
+      "structure": {
+        "scene": "ok",
+        "concept": "ok",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "ok",
+        "conclusion": "ok",
+        "proches": "ok"
+      },
+      "comprehension": 4,
+      "comprehension_note": "Scène claire (banc du canal, dix jours après, il dit à Charlotte que ça n'avait pas d'importance) et fin très réussie au téléphone avec Charlotte. Le lieu oscille entre banc du canal et « parc », et le tatouage reçoit une autre origine qu'à l'épisode 4.",
+      "issues": [
+        {
+          "severity": "mineur",
+          "type": "continuite",
+          "quote": "un petit symbole de résilience qu'il s'est fait faire après son départ de l'agence",
+          "problem": "L'épisode 4 décrit des « lignes géométriques qu'il a lui-même dessinées il y a des années ».",
+          "fix": "Écrire « les lignes géométriques de son poignet, dessinées bien avant l'agence »."
+        },
+        {
+          "severity": "mineur",
+          "type": "continuite",
+          "quote": "installe son matériel dans ce parc qu'il affectionne",
+          "problem": "La scène est sur un banc au bord du canal Saint-Martin, pas dans un parc ; il « nettoie ses pinceaux » au même endroit.",
+          "fix": "Écrire « sur ce banc du canal qu'il affectionne » et placer le nettoyage des pinceaux chez lui."
+        },
+        {
+          "severity": "mineur",
+          "type": "repetition",
+          "quote": "il se perdait dans des activités secondaires pour ne pas voir que la relation était terminée",
+          "problem": "Troisième épisode consécutif (6, 7, 8) construit sur le même appel d'offres ; le déni est bien distinct de l'amertume, mais les rappels successifs alourdissent.",
+          "fix": "Réduire le paragraphe de rappel de l'ouverture (« Cette réaction lui rappelle étrangement… ») à une phrase."
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "file": "content/posts/reprendre-le-controle-de-ses-pensees/orientation-regret-rupture.md",
+      "focus": "regrets répétitifs (pensée contrefactuelle) après la rupture",
+      "structure": {
+        "scene": "ok",
+        "concept": "ok",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "faible",
+        "conclusion": "ok",
+        "proches": "ok"
+      },
+      "comprehension": 3,
+      "comprehension_note": "L'ouverture (deux dessins collés, Antoine qui attend) est claire, mais elle reprend presque à l'identique la scène de l'épisode 5 (redessiner Marina au lieu du logo). Le retour accumule appel à Charlotte, défi, exposition en galerie surgie de nulle part et bilan.",
+      "issues": [
+        {
+          "severity": "majeur",
+          "type": "repetition",
+          "quote": "préférant passer du temps à redessiner des portraits de Marina plutôt qu'à créer un logo",
+          "problem": "Même aspect que l'épisode 5 (rumination : retoucher le calque Marina-test au lieu du logo). Le regret contrefactuel est un concept voisin et la scène ne le distingue pas.",
+          "fix": "Centrer la scène sur un « si j'avais » précis et datable (la phrase non dite lors de la dernière dispute) et retirer le motif du portrait de Marina au lieu du logo."
+        },
+        {
+          "severity": "majeur",
+          "type": "comprehension",
+          "quote": "Il accepte une proposition d'exposition collective dans une galerie",
+          "problem": "Proposition jamais introduite : qui la fait, quand, pourquoi maintenant ? L'exposition n'est plus reprise ensuite.",
+          "fix": "Supprimer, ou l'introduire dans l'ouverture (message d'un galeriste reçu le matin)."
+        },
+        {
+          "severity": "mineur",
+          "type": "trame",
+          "quote": "Ce processus fait suite à ses apprentissages précédents : reconnaître sa rumination, utiliser le carnet pour interroger les pensées et sortir du déni",
+          "problem": "Paragraphe récapitulatif du parcours au lieu d'une action.",
+          "fix": "Supprimer le paragraphe."
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "file": "content/posts/sortir-de-ses-schemas-repetitifs/annulation-retroactive-en-situation-de-conflit.md",
+      "focus": "annulation rétroactive après une dispute avec sa sœur",
+      "structure": {
+        "scene": "ok",
+        "concept": "ok",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "faible",
+        "conclusion": "ok",
+        "proches": "ok"
+      },
+      "comprehension": 3,
+      "comprehension_note": "La dispute est claire et l'article distingue bien le jugement en colère du geste d'annulation (la pâtisserie). Mais le retour fait partir Charlotte (« Je vais rentrer »), puis lui fait proposer de s'asseoir pour parler, puis la dit partie.",
+      "issues": [
+        {
+          "severity": "majeur",
+          "type": "comprehension",
+          "quote": "Il propose à sa sœur de s'asseoir quelques minutes, non pas pour effacer la dispute, mais pour en parler vraiment",
+          "problem": "Charlotte vient de dire « Je vais rentrer. On se parle demain » et le paragraphe suivant commence par « Quand elle est partie » ; la scène est contradictoire.",
+          "fix": "Supprimer le paragraphe « Il renonce à déposer une pâtisserie… » ou le réécrire au futur (ce qu'il proposera demain)."
+        },
+        {
+          "severity": "mineur",
+          "type": "comprehension",
+          "quote": "Adrien se prépare à laisser Charlotte partir.",
+          "problem": "Doublons : « Assis… s'apprête à partir » puis « se prépare à laisser Charlotte partir » ; « la main sur la poignée » deux fois de suite.",
+          "fix": "Supprimer les phrases redondantes."
+        },
+        {
+          "severity": "mineur",
+          "type": "comprehension",
+          "quote": "Charlotte a besoin d’un coin de table pour étaler les pièces comptables.",
+          "problem": "On ne comprend pas d'emblée que Charlotte est sa sœur et qu'elle l'aide pour sa comptabilité de freelance.",
+          "fix": "Écrire « Charlotte, sa sœur, vient l'aider à classer ses pièces comptables de freelance »."
+        }
+      ]
+    },
+    {
+      "number": 11,
+      "file": "content/posts/comprendre-et-maitriser-ses-emotions/technique-rain-seul-face-a-soi-meme.md",
+      "focus": "pratique RAIN pour observer une émotion, seul",
+      "structure": {
+        "scene": "ok",
+        "concept": "ok",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "ok",
+        "conclusion": "ok",
+        "proches": "ok"
+      },
+      "comprehension": 4,
+      "comprehension_note": "Scène simple et compréhensible : un courriel d'Antoine fermé à la deuxième ligne, une lourdeur, dix minutes au sol, puis la découverte qu'Antoine ne veut qu'un export. La fin est nette. Le retour attribue toutefois une origine à l'émotion, ce que l'article déconseille.",
+      "issues": [
+        {
+          "severity": "majeur",
+          "type": "lien_concept",
+          "quote": "En investiguant, il a compris que son anxiété actuelle est une résonance de son sentiment d'incompétence ressenti lors de son départ de l'agence",
+          "problem": "La technique 2 précise « sans chercher l'origine cachée de l'émotion » ; le retour fait exactement l'inverse.",
+          "fix": "Remplacer par « En investiguant, il a remarqué que la peur portait sur une phrase qu'il n'avait pas encore lue »."
+        },
+        {
+          "severity": "mineur",
+          "type": "continuite",
+          "quote": "Il se souvient de la dispute avec Charlotte le 10 mai dernier",
+          "problem": "Date de publication de l'épisode 10 utilisée comme date diégétique.",
+          "fix": "Écrire « de la dispute avec Charlotte autour de la table »."
+        },
+        {
+          "severity": "mineur",
+          "type": "proches",
+          "quote": "Antoine peut placer la demande utile au début du courriel",
+          "problem": "La rubrique « proches » s'adresse au client, qui n'est pas un proche ; Julien n'arrive qu'en seconde moitié.",
+          "fix": "Centrer la rubrique sur Julien (ou Charlotte) et laisser Antoine en arrière-plan."
+        }
+      ]
+    }
+  ],
+  "missing_or_extra": "Parcours de 11 épisodes : il en manque un. Concepts déjà traités : abandon/instabilité, dépendance/incompétence, déni, annulation rétroactive (schémas) ; raisonnement émotionnel, rumination, biais de négativité, regrets (pensées) ; mélancolie, amertume, RAIN (émotions). Proposition : un 12e épisode « honte » (émotion, distincte de l'amertume et de la mélancolie ; l'ép. 8 la nomme sans la traiter), placé en fin de parcours lors de l'accrochage de l'exposition collective acceptée en ép. 9. Adrien montre pour la première fois un travail personnel devant Julien et Charlotte ; il est tenté de décrocher une pièce trop intime, puis choisit de la laisser avec un cartel sobre. Cela referme l'arc (passer du dessin caché de Marina à un travail montré) et reprend un fil laissé ouvert. Autre option : intercaler cet épisode entre 9 et 10, si l'on préfère finir sur RAIN.",
+  "verdict": "corrections_majeures"
+}

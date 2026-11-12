@@ -1,0 +1,212 @@
+{
+ "schema_version": 1,
+ "character_id": "nadege",
+ "code": "6D81",
+ "article_format": 2,
+ "bio": "Nadège, 68 ans, ancienne pâtissière à Saumur, aime encore expliquer à son filleul Bastien pourquoi un geste réussit. Elle vit avec une démence due à une maladie cérébrovasculaire, diagnostiquée l’an dernier : ses souvenirs restent riches, mais planifier une recette, suivre une conversation rapide ou faire des comptes lui demande plus d’effort selon les jours. Elle choisit six recettes de son cahier bleu et la forme de leur transmission. Avec l’ergothérapeute et l’équipe de consultation mémoire, elle ajuste les risques sans laisser ses proches décider à sa place.",
+ "profile_topics": [
+  "Démence due à une maladie cérébrovasculaire",
+  "Planification et fonctions exécutives",
+  "Lenteur et attention partagée",
+  "Décisions soutenues et autonomie",
+  "Risques ajustés et évolution variable"
+ ],
+ "voice": "Une parole précise et gourmande, un humour de laboratoire (« une pâte se respecte, une personne aussi »), le goût d’expliquer le pourquoi des gestes. Nadège se fâche quand on finit ses phrases ou décide pour elle ; elle reconnaît ses peurs sans se réduire à son diagnostic et n’emploie pas de vocabulaire clinique en continu.",
+ "series_goal": "Choisir six recettes du cahier bleu et les transmettre sous des formes qu’elle décide (carnet illustré, trois vidéos filmées par Bastien, un atelier à la maison de quartier des Ponts), en ajustant les risques avec l’ergothérapeute et l’équipe, et garder la suite ouverte.",
+ "continuity_rules": [
+  "Diagnostic établi avant la série par la consultation mémoire (docteure Leclerc) : known aux douze épisodes. Âge 68 ans, ancienne pâtissière de la pâtisserie Delaunay à Saumur, appartement rue du Portail-Louis, sévérité qualifiée de légère par l’équipe, hypertension suivie par le docteur Benali. Aucun AVC antérieur, aucun score ni comorbidité inventés.",
+  "Proches : Bastien, 27 ans, filleul graphiste indépendant, le mercredi, avec ses délais et le droit de limiter son rôle ; Odile, sœur aînée de 72 ans à Nantes, appels du dimanche ; Josette, voisine et ancienne vendeuse, marché du samedi ; Karima anime la maison de quartier des Ponts ; Inès Morel est l’ergothérapeute. Personne ne teste Nadège ni ne pose de diagnostic.",
+  "Objets : cahier bleu taché de beurre, minuteur rouge, fiches d’étapes plastifiées (épisode 7), téléphone de Bastien sur trépied, liste des six recettes : sablés de Lucienne, pâte à choux, Paris-Brest, tarte Tatin, crème pâtissière, quatre-quarts. La Tatin reste dans le projet après l’épisode 6 et n’est filmée que chez elle, Bastien versant le caramel.",
+  "Chronologie : de novembre à avril. Épisode 9 : alerte neurologique brutale au marché, Josette appelle le 15 ; épisode 10 : les médecins ont parlé d’un accident ischémique transitoire, signes disparus ; épisode 11 : réévaluation planifiée, atelier fixé en avril ; épisode 12 : atelier tenu. L’évaluation de l’élan (épisode 8) reste confiée à l’équipe, sans conclusion inventée.",
+  "Les difficultés varient selon les jours, la fatigue, le bruit et le contexte ; toute difficulté n’est pas imputée à la démence vasculaire. Les changements brutaux sont une urgence médicale. Aucun cours uniforme, aucune promesse de stabilité ou de guérison, aucune posologie, régime ou nom de médicament.",
+  "Les aménagements (ordre écrit, une question à la fois, partage des gestes chauds, rôles d’atelier) sont discutés avec Nadège et révisables ; ils ne sont pas présentés comme des traitements démontrés. Les informations médicales ne sont partagées qu’avec son accord, sauf urgence."
+ ],
+ "episodes": [
+  {
+   "number": 1,
+   "focus": "Planifier une recette quand les étapes se chevauchent",
+   "scene": "Un mercredi, dans sa cuisine de la rue du Portail-Louis, Nadège montre à Bastien le Paris-Brest de son cahier bleu. Elle sait cuire la pâte à choux depuis quarante ans, mais quand la crème doit refroidir pendant que les choux cuisent et que le praliné attend, elle ne sait plus ce qui vient d’abord. Bastien propose de prendre la main ; elle refuse et pose le fouet.",
+   "development": "Fonctions exécutives et planification : chaque geste reste connu, c’est l’ordre et la coordination de tâches parallèles qui demandent un effort, variable selon les jours. Manifestations : ordre des étapes, attente simultanée, reprise après une pause. Techniques : écrire l’ordre avant de commencer ; ne mener qu’une préparation en parallèle ; décider seule qui fait quoi. Pas de test de capacité, pas d’attribution totale à la démence d’une journée moins fluide.",
+   "ending": "Elle recopie l’ordre du Paris-Brest sur une fiche à part et réserve la crème pour la semaine suivante. Elle commence la liste des recettes à transmettre avec un premier nom.",
+   "next": "Odile, au téléphone dimanche, doute du diagnostic parce que Nadège se souvient de tout.",
+   "source_refs": [
+    "oms-cddr",
+    "oms-cddr-hrb",
+    "aha-vci-2011",
+    "has-tnc-fiche2"
+   ],
+   "diagnostic_stage": "known"
+  },
+  {
+   "number": 2,
+   "focus": "Démence vasculaire : la mémoire n’est pas tout",
+   "scene": "Le dimanche, Odile appelle de Nantes. Nadège lui raconte la fiche du Paris-Brest ; Odile répond qu’elle se rappelle encore les prix de 1987 et que ce n’est donc pas une démence, juste de la fatigue. Nadège, assise près de la fenêtre, sent la conversation lui échapper : elle ne trouve pas comment expliquer ce que la docteure Leclerc lui a dit l’an dernier.",
+   "development": "Le diagnostic connu de démence due à une maladie cérébrovasculaire : atteinte marquée d’au moins deux domaines avec retentissement, attribuée par l’équipe à des atteintes des petits vaisseaux visibles à l’imagerie et à l’histoire clinique ; la mémoire peut être moins touchée que l’attention, la vitesse ou la planification. Manifestations : idée reçue de la démence-mémoire, explication difficile, besoin de mots à soi. Techniques : préparer une phrase personnelle ; garder le compte rendu à portée ; choisir ce qu’on partage. Ni critères à appliquer à Odile ou au lecteur, ni pronostic.",
+   "ending": "Nadège écrit dans le cahier bleu sa propre phrase : « Ma tête range moins bien les étapes, mes souvenirs sont là. » Elle dit à Odile qu’elle n’a pas à la croire tout de suite, mais qu’elle ne veut pas d’autre diagnostic au téléphone.",
+   "next": "Bastien installe son téléphone pour filmer les sablés de leur mère ; il pose ses questions vite.",
+   "source_refs": [
+    "oms-cddr",
+    "oms-cddr-hrb",
+    "nice-ng97",
+    "has-tnc-fiche2"
+   ],
+   "diagnostic_stage": "known"
+  },
+  {
+   "number": 3,
+   "focus": "Lenteur de traitement face aux questions rapides",
+   "scene": "Bastien a installé son téléphone sur un trépied pour la première vidéo, les sablés de Lucienne, la mère de Nadège. Il enchaîne trois questions pendant qu’elle sable la pâte : pourquoi du beurre froid, combien de temps, et si elle veut recommencer la prise. La réponse de Nadège arrive alors que Bastien parle déjà d’autre chose ; sur l’écran, elle paraît hésiter alors qu’elle connaît la réponse.",
+   "development": "Vitesse de traitement de l’information, typiquement touchée dans les atteintes microvasculaires : comprendre et répondre prend plus de temps, sans perte du savoir. Manifestations : réponses décalées, impression d’hésitation, fatigue en fin d’enregistrement. Techniques : une question à la fois ; laisser un silence convenu ; préparer les explications à l’avance. L’ouïe, la fatigue ou le stress d’être filmée sont aussi à considérer ; ne pas tout imputer à la démence.",
+   "ending": "Ils conviennent d’un geste : Nadège lève la spatule quand elle est prête. La deuxième prise est plus longue mais complète ; Bastien découpe ensuite les silences au montage seulement avec son accord.",
+   "next": "Karima propose une répétition de démonstration devant un petit groupe à la maison de quartier des Ponts.",
+   "source_refs": [
+    "oms-cddr",
+    "oms-cddr-hrb",
+    "aha-vci-2011",
+    "nice-ng97"
+   ],
+   "diagnostic_stage": "known"
+  },
+  {
+   "number": 4,
+   "focus": "Partager son attention entre parler et faire",
+   "scene": "À la maison de quartier des Ponts, Karima a réuni quatre habitants pour une répétition. Nadège explique la pâte à choux en remuant la panade quand une participante pose une question et que le four sonne. Elle s’arrête au milieu de sa phrase, perd le fil de la cuisson et doit regarder la casserole pour savoir où elle en était. Elle rit, puis se tait plus longtemps qu’elle ne voudrait.",
+   "development": "Attention, notamment l’attention partagée, fragilisée dans les atteintes vasculaires des petits vaisseaux : mener une explication et un geste en même temps, dans un lieu bruyant, coûte davantage. Manifestations : phrase interrompue, geste suspendu, fatigue après la séance. Techniques : séparer le temps de démonstration et le temps de questions ; confier le minuteur à quelqu’un ; aménager le lieu. Ne pas juger la séance comme une réussite ou un échec cognitif.",
+   "ending": "Nadège décide qu’à l’atelier, elle montrera d’abord le geste en silence puis expliquera, avec un tableau de questions tenu par Karima. Elle note que les répétitions la fatiguent plus que prévu.",
+   "next": "Karima lui demande de chiffrer les achats de l’atelier ; personne ne pense qu’elle pourrait avoir besoin d’aide.",
+   "source_refs": [
+    "oms-cddr",
+    "oms-cddr-hrb",
+    "aha-vci-2011",
+    "nice-ng97"
+   ],
+   "diagnostic_stage": "known"
+  },
+  {
+   "number": 5,
+   "focus": "Une démence légère invisible pour qui la connaît peu",
+   "scene": "Karima a confié à Nadège le budget des ingrédients pour l’atelier : farine, beurre, œufs, sucre pour huit personnes, avec un plafond de la maison de quartier. « Vous qui avez tenu une boutique, ce sera vite fait. » Assise à la table du salon, Nadège multiplie les quantités, mélange les prix au kilo et à l’unité et recommence trois fois. Personne autour d’elle n’imagine qu’elle peine ; elle n’ose pas le dire à Karima.",
+   "development": "Sévérité légère : la personne peut vivre seule et participer à la vie sociale en paraissant non atteinte à ceux qui la connaissent peu, tandis que les décisions complexes, les calculs et les comptes deviennent difficiles. Manifestations : façade sociale préservée, calculs à plusieurs étapes, gêne à demander. Techniques : découper le calcul ; utiliser un tableau préparé ; demander une vérification sans tout céder. Le stade est apprécié par l’équipe, jamais par la scène.",
+   "ending": "Nadège dit à Karima qu’elle fait la liste des ingrédients et que la maison de quartier vérifie les montants. Elle ajoute la question des factures de son propre foyer pour son prochain rendez-vous.",
+   "next": "Odile et Bastien parlent ensemble de supprimer la tarte Tatin du projet à cause du caramel, sans elle.",
+   "source_refs": [
+    "oms-cddr",
+    "oms-cddr-hrb",
+    "nice-ng97",
+    "has-tnc-fiche7"
+   ],
+   "diagnostic_stage": "known"
+  },
+  {
+   "number": 6,
+   "focus": "Décider avec soutien quand les proches tranchent",
+   "scene": "Bastien arrive avec une liste imprimée des recettes « adaptées » où la tarte Tatin a disparu. Il explique qu’Odile et lui en ont parlé au téléphone : le caramel brûlant, c’est trop risqué maintenant. Nadège reconnaît sa crainte réelle, mais elle n’a pas été consultée. Elle pose le cahier bleu ouvert sur la page de la Tatin, celle que sa mère faisait les dimanches, et demande qui a décidé.",
+   "development": "Prise de décision soutenue : la personne a droit à une information adaptée et à participer aux décisions qui la concernent ; les proches peuvent exprimer une inquiétude sans trancher à sa place. Manifestations : décision prise en son absence, inquiétude légitime, besoin de supports pour comparer les options. Techniques : poser les options sur papier ; nommer le risque précis ; demander l’avis d’un professionnel compétent. Aucune règle juridique inventée.",
+   "ending": "Nadège garde la Tatin dans la liste et propose que le risque du caramel soit examiné par l’ergothérapeute avant toute décision. Bastien s’excuse d’avoir décidé avec Odile ; il garde son inquiétude.",
+   "next": "Inès Morel, l’ergothérapeute, vient observer la Tatin dans la cuisine de Nadège.",
+   "source_refs": [
+    "oms-cddr",
+    "oms-cddr-hrb",
+    "nice-ng97",
+    "has-tnc-fiche7"
+   ],
+   "diagnostic_stage": "known"
+  },
+  {
+   "number": 7,
+   "focus": "Ajuster les risques en cuisine avec l’ergothérapeute",
+   "scene": "Inès Morel arrive un mardi matin avec un carnet et sans liste d’interdits. Elle demande à Nadège de préparer la Tatin comme d’habitude et observe. Les pommes sont parfaites ; mais pendant que le caramel prend couleur, Nadège se retourne pour chercher le moule, et le minuteur rouge n’est pas réglé. Inès ne la juge pas : elle note où l’attention se déplace et ce qui est rangé loin.",
+   "development": "Mise en situation concrète par l’ergothérapeute : l’activité significative est observée dans son lieu réel pour repérer ce qui facilite ou gêne, en tenant compte des préférences ; les aménagements se décident avec la personne. Manifestations : risque lié à un enchaînement plus qu’à un geste, repères matériels, aide graduée. Techniques : préparer tout le matériel avant de chauffer ; fiche d’étapes plastifiée ; partager un geste chaud avec une personne choisie. Aménagements discutés, pas traitements démontrés.",
+   "ending": "Nadège choisit : pour la Tatin, tout le matériel est sorti avant, Bastien verse le caramel pendant qu’elle guide, et la recette sera filmée chez elle plutôt qu’en atelier. Elle accepte deux fiches plastifiées et refuse une alarme de plus.",
+   "next": "Quelques semaines plus tard, Nadège ne touche plus au cahier bleu ; Bastien croit qu’elle a perdu l’envie.",
+   "source_refs": [
+    "oms-cddr",
+    "oms-cddr-hrb",
+    "has-tnc-fiche12",
+    "nice-ng97",
+    "aha-vci-2011"
+   ],
+   "diagnostic_stage": "known"
+  },
+  {
+   "number": 8,
+   "focus": "Moins d’élan : apathie, tristesse ou fatigue à évaluer",
+   "scene": "En février, le cahier bleu reste fermé sur le buffet. Nadège dit à Bastien qu’on fera la vidéo plus tard, comme la semaine précédente, et laisse la fiche plastifiée de la Tatin sous une pile de courrier. Elle ne se sent pas malheureuse, dit-elle, elle n’a juste pas envie de commencer. Bastien, qui a réservé son mercredi, se demande s’il doit insister ou abandonner le projet.",
+   "development": "Manque d’élan à évaluer : apathie, troubles de l’humeur ou d’anxiété peuvent accompagner une démence et justifier une attention clinique, et la maladie cérébrovasculaire peut s’associer à une dépression ; fatigue, douleur ou autre cause sont aussi à rechercher. Manifestations : difficulté à démarrer, plaisir encore possible une fois lancé, malentendu avec l’entourage. Techniques : décrire les changements à l’équipe ; tester un démarrage très court avec quelqu’un ; distinguer « je ne veux plus » et « je n’arrive pas à commencer ». Aucune étiquette posée par Bastien ni traitement suggéré.",
+   "ending": "Nadège accepte que Bastien commence la pesée et elle termine les sablés ; elle en parle elle-même à la docteure Leclerc, qui propose d’évaluer l’humeur et la fatigue. Rien n’est conclu dans l’épisode.",
+   "next": "Au marché du samedi, Josette remarque un changement soudain dans la main et la parole de Nadège.",
+   "source_refs": [
+    "oms-cddr",
+    "oms-cddr-hrb",
+    "has-tnc-fiche2",
+    "aha-vci-2011",
+    "nice-ng97"
+   ],
+   "diagnostic_stage": "known"
+  },
+  {
+   "number": 9,
+   "focus": "Signes neurologiques brutaux : appeler le 15 aussitôt",
+   "scene": "Samedi matin, au marché de la place Saint-Pierre, Nadège tient un sac de pommes pour la Tatin quand il glisse de sa main droite. Elle veut dire à Josette que ce n’est rien, mais les mots sortent mal articulés et un coin de sa bouche tombe. Josette sait qu’elle a une démence, mais elle n’a jamais vu cela : un changement d’une minute à l’autre. Elle compose le 15 tout de suite.",
+   "development": "Un déficit neurologique d’apparition brutale peut signaler un accident vasculaire cérébral ou un accident ischémique transitoire : c’est une urgence médicale, différente des difficultés connues de la démence. Manifestations : début soudain, faiblesse d’un côté, parole changée. Techniques : appeler le 15 sans attendre ; noter l’heure du début ; transmettre les traitements et le diagnostic connu aux secours. Aucun geste médical ni attente « pour voir », aucune attribution d’office à la démence.",
+   "ending": "Josette suit les consignes du Samu et donne l’heure exacte où le sac est tombé. Nadège est transportée à l’hôpital ; les médecins évaluent la cause. Bastien est prévenu par Josette avec le téléphone de Nadège, qui le lui tend.",
+   "next": "Rentrée chez elle, Nadège revoit avec le docteur Benali le suivi de sa tension après ce que l’équipe a appelé un accident ischémique transitoire.",
+   "source_refs": [
+    "oms-cddr",
+    "oms-cddr-hrb",
+    "nice-ng128",
+    "spf-avc",
+    "service-public-samu"
+   ],
+   "diagnostic_stage": "known"
+  },
+  {
+   "number": 10,
+   "focus": "Suivre ses facteurs de risque vasculaire sans tout céder",
+   "scene": "Au cabinet du docteur Benali, Nadège pose sur le bureau le compte rendu de l’hôpital : les signes ont disparu en quelques heures, les médecins ont parlé d’un accident ischémique transitoire et ont revu son traitement. Odile a déjà envoyé trois messages sur le sucre et les gâteaux. Nadège veut comprendre ce qui dépend du suivi de sa tension, ce qui ne dépend pas d’elle, et garder sa pâtisserie.",
+   "development": "Les facteurs de risque vasculaire, notamment l’hypertension, font partie du suivi d’une démence liée à une maladie cérébrovasculaire ; leur prise en charge se décide avec les médecins, sans garantie de stabiliser les capacités. Manifestations : culpabilité, injonctions de l’entourage, questions sur le quotidien. Techniques : préparer ses questions ; noter ce qui est décidé avec le médecin ; dire aux proches ce qui relève d’eux. Aucune posologie, aucun régime, aucun nom de médicament.",
+   "ending": "Nadège repart avec un rendez-vous de suivi et une liste écrite de ce qui a été décidé avec le docteur Benali. Elle répond à Odile qu’elle a vu son médecin et qu’elle ne discutera pas de sa tension par messages.",
+   "next": "La docteure Leclerc prévoit une réévaluation ; Nadège craint de descendre « marche après marche ».",
+   "source_refs": [
+    "oms-cddr",
+    "oms-cddr-hrb",
+    "aha-vci-2011",
+    "has-tnc-fiche2",
+    "nice-ng97"
+   ],
+   "diagnostic_stage": "known"
+  },
+  {
+   "number": 11,
+   "focus": "Une évolution qui ne suit pas un modèle unique",
+   "scene": "À la consultation mémoire, Nadège apporte le cahier bleu et la liste des recettes. Depuis l’hôpital, certains matins sont clairs et d’autres plus lents ; elle a lu qu’on descendait par paliers et demande à la docteure Leclerc combien de marches il lui reste. Bastien, assis à côté, a préparé ses propres questions sur son rôle. La docteure prend le temps, mais ne répond pas avec une date.",
+   "development": "Évolution variable : selon l’atteinte vasculaire, elle peut être stable, lentement progressive ou marquée par un événement, et le déclin par paliers n’est pas la règle ; elle se suit par réévaluation. Manifestations : jours inégaux, peur d’un scénario unique, besoin d’un plan révisable. Techniques : noter des faits datés ; convenir d’une date de réévaluation ; parler des souhaits futurs à son rythme. Ni pronostic chiffré ni promesse de stabilité.",
+   "ending": "Nadège choisit de fixer l’atelier en avril plutôt que d’attendre de « savoir ». Bastien dit à l’équipe qu’il ne peut pas venir plus d’un mercredi sur deux ; un relais avec Josette et Karima est discuté avec l’accord de Nadège.",
+   "next": "L’atelier des Ponts a lieu avec les gestes chauds confiés à Karima et le carnet imprimé.",
+   "source_refs": [
+    "oms-cddr",
+    "oms-cddr-hrb",
+    "aha-vci-2011",
+    "nice-ng97",
+    "has-tnc-fiche15"
+   ],
+   "diagnostic_stage": "known"
+  },
+  {
+   "number": 12,
+   "focus": "Transmettre ses recettes sous des formes choisies",
+   "scene": "Un samedi d’avril, à la maison de quartier des Ponts, huit habitants attendent devant les plans de travail. Nadège montre le sablage de la pâte en silence, puis lève la spatule pour les questions. Karima s’occupe du four et de la panade chaude comme convenu ; le minuteur rouge est posé devant elle. Le carnet de six recettes, mis en page par Bastien, est sur la table, avec le lien des trois vidéos : sablés, Paris-Brest et tarte Tatin.",
+   "development": "Participation et transmission adaptées : une activité qui compte peut continuer avec des aménagements choisis et révisables ; elle ne prouve ni une guérison ni une absence d’évolution. Manifestations : partage des tâches, fatigue de fin de séance, fierté sans garantie. Techniques : définir les rôles d’avance ; prévoir une fin de séance ; revoir les aménagements après coup. Les limites des proches restent valables.",
+   "ending": "L’atelier se termine à l’heure ; une participante demande une deuxième séance. Nadège dit qu’elle y réfléchira avec Karima et Inès, range le cahier bleu et note l’idée d’une quatrième vidéo, le quatre-quarts, pour l’été, sans s’y engager.",
+   "next": "Le projet de transmission est accompli ; la suite reste un choix de Nadège, revu avec l’équipe et selon ses jours.",
+   "source_refs": [
+    "oms-cddr",
+    "oms-cddr-hrb",
+    "nice-ng97",
+    "has-tnc-fiche12",
+    "has-tnc-fiche15"
+   ],
+   "diagnostic_stage": "known"
+  }
+ ]
+}

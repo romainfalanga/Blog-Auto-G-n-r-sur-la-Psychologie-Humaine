@@ -1,0 +1,169 @@
+{
+  "character_id": "salome",
+  "type": "origine",
+  "auditor": "audit_o7",
+  "audited_on": "2026-11-12",
+  "persona": {
+    "age_metier_proches": "29 ans (née en 1997, âge donné à l’épisode 1), luthière, non binaire, utilise les accords féminins, célibataire. Partage l’atelier avec Gaspard, collègue artisan ; amie proche : Nora (jardin partagé, énigmes) ; client récurrent : Étienne (ép. 7 et 9). Personnages ponctuels : un vendeur, une personne qui organise une photo, un participant hostile, une personne qui réalise un portrait, un visiteur curieux.",
+    "arc_summary": "Le parcours suit Salomé dans une suite de situations où sa manière d’être nommée et vue est en jeu : corriger un « monsieur » (ép. 1), choisir ce qu’elle écrit dans une fiche publique (ép. 2), garder sa chemise pour une photo (ép. 3), déplacer sa démonstration après un propos hostile (ép. 4), puis élargir un portrait réduit à sa non-binarité (ép. 6) et poser une limite à un visiteur qui l’a lu (ép. 10). Des épisodes sur d’autres thèmes (appartenance au jardin, bienveillance envers soi après une erreur, compétence face aux vitrines en ligne, continuité de soi) la montrent dans son métier et ses amitiés. L’arc se ferme sur des alliances concrètes avec Gaspard et Nora (ép. 12).",
+    "arc_issues": [
+      "Défaut de trame récurrent : la décision ou son résultat est raconté à l’intérieur des sections « techniques » (ép. 2, 3, 5, 6, 7, 12) ou même des manifestations (ép. 4), si bien que le retour à la scène répète un événement déjà narré, ou en donne une version différente (ép. 12).",
+      "Les épisodes 1, 2, 8 et 10 proposent presque la même technique (préparer une phrase courte pour refuser une question personnelle et revenir au sujet), et les épisodes 8 et 10 traitent le même aspect (ne pas inventer de prétexte, répéter la limite sans ajouter d’explication). Les épisodes 2 et 6 tournent aussi tous deux autour d’un texte de présentation public.",
+      "Plusieurs ouvertures ont un deuxième paragraphe qui raconte à nouveau le premier, avec un léger décalage chronologique (ép. 4, 9, 10, 12), ce qui donne l’impression d’un montage de deux versions de la même scène.",
+      "Le présent est très souvent employé pour des faits passés (« une forme qu’elle trace au début de son apprentissage », « qu’elle imagine au départ », « Une pièce arrive en retard, et Salomé oublie de prévenir »), particulièrement gênant dans l’épisode 11 dont le sujet est justement le rapport entre passé et présent.",
+      "Nora est nommée dès l’épisode 2 dans un exemple avant d’être présentée, et n’est jamais présentée au début d’un épisode où elle joue un rôle (ép. 5)."
+    ]
+  },
+  "episodes": [
+    {
+      "number": 1,
+      "file": "content/posts/sortir-de-ses-schemas-repetitifs/salome-nom-maniere-adressee.md",
+      "focus": "Demander l’usage de son prénom et des accords féminins par une phrase courte, sans débat sur son identité.",
+      "structure": {"scene": "ok", "concept": "ok", "manifestations": "ok", "techniques": "ok", "retour": "ok", "conclusion": "ok", "proches": "ok"},
+      "comprehension": 4,
+      "comprehension_note": "La scène du comptoir (« Le colis de monsieur est prêt », la corde bleue, la phrase « Vous pouvez m’appeler Salomé ») est claire et la correction est suivie. Le paragraphe de présentation de Salomé au milieu de la scène interrompt un peu l’action.",
+      "issues": [
+        {"severity": "mineur", "type": "comprehension", "quote": "Elle a vingt-neuf ans, est luthière, célibataire et non binaire. Elle choisit les accords féminins pour parler d’elle et demande qu’on les utilise. Son prénom est Salomé. Ces informations ne racontent ni un trouble ni une cause générale de son fonctionnement.", "problem": "Paragraphe de fiche d’identité inséré dans la scène, au ton de notice (« Ces informations ne racontent ni un trouble… ») qui coupe la tension du comptoir.", "fix": "Garder âge, métier et accords en une phrase intégrée à l’action et supprimer la phrase sur le trouble, déjà dite dans la conclusion."}
+      ]
+    },
+    {
+      "number": 2,
+      "file": "content/posts/reprendre-le-controle-de-ses-pensees/salome-choisir-reveler-soi.md",
+      "focus": "Choisir ce que l’on révèle de soi dans une présentation publique, selon le public, le support et la circulation du texte.",
+      "structure": {"scene": "ok", "concept": "ok", "manifestations": "ok", "techniques": "faible", "retour": "ok", "conclusion": "ok", "proches": "ok"},
+      "comprehension": 4,
+      "comprehension_note": "La case trop grande de la fiche et les deux versions écrites rendent le dilemme concret ; la décision (mentionner son identité puis parler du travail) est claire, mais elle est annoncée dans une technique avant le retour.",
+      "issues": [
+        {"severity": "majeur", "type": "trame", "quote": "Salomé décide finalement de mentionner qu’elle est non binaire, avec ses accords féminins, puis de consacrer le reste du texte au travail de réparation.", "problem": "La décision de la scène est racontée dans la troisième technique ; la section « Le bouton Envoyer » ne fait plus que la confirmer.", "fix": "Écrire la technique au conditionnel ou à la deuxième personne et réserver la décision et l’envoi à la section de retour."},
+        {"severity": "mineur", "type": "comprehension", "quote": "À l’inverse, elle prépare une version très personnelle en supposant que la salle entière accueillera cette visibilité comme Nora.", "problem": "Nora est citée avant d’être présentée (« Nora, son amie » n’arrive qu’à la technique suivante).", "fix": "« … comme le ferait Nora, son amie. »"},
+        {"severity": "mineur", "type": "comprehension", "quote": "Gaspard lui montre où il en est sur son propre portrait.", "problem": "« portrait » désigne-t-il la fiche de présentation de Gaspard ? Le mot anticipe le portrait de l’épisode 6 et brouille la fin.", "fix": "« … sur sa propre fiche de présentation »."}
+      ]
+    },
+    {
+      "number": 3,
+      "file": "content/posts/reprendre-le-controle-de-ses-pensees/salome-pression-normes-sociales.md",
+      "focus": "Pression des normes : distinguer un usage présenté comme évident (la veste sombre) d’une obligation réelle.",
+      "structure": {"scene": "ok", "concept": "ok", "manifestations": "ok", "techniques": "faible", "retour": "ok", "conclusion": "ok", "proches": "ok"},
+      "comprehension": 4,
+      "comprehension_note": "La veste prêtée, la chemise brodée et la question « obligation ou proposition ? » illustrent bien le concept. La réponse de l’organisation et l’essai de cadrage sont toutefois racontés dans les techniques, puis la dernière phrase reste obscure.",
+      "issues": [
+        {"severity": "majeur", "type": "trame", "quote": "La personne chargée de la séance explique qu’elle cherche une image harmonieuse pour l’affiche, sans besoin technique particulier. Une chemise personnelle reste possible si les contrastes ne gênent pas le cadrage.", "problem": "La réponse qui dénoue la scène, puis l’essai du premier cliché (technique 3), sont narrés dans les techniques ; le retour « La chemise reste dans le cadre » arrive après coup.", "fix": "Déplacer la réponse de l’organisation et l’essai de cadrage dans la section de retour ; formuler les techniques comme des pistes."},
+        {"severity": "mineur", "type": "comprehension", "quote": "Dans la série de clichés suivante, elle laisse celui où elle regarde ailleurs, même si elle préfère la façon dont la lumière y tombe sur le bois.", "problem": "« elle laisse » est ambigu (elle l’écarte ? elle le laisse publier ?) ; la fin ne dit pas clairement ce qu’elle décide.", "fix": "« … elle écarte celui où elle regarde ailleurs, même si… »."},
+        {"severity": "mineur", "type": "trame", "quote": "alors que Gaspard pense lui aussi suivre une obligation", "problem": "L’exemple révèle ce que Gaspard dira dans le retour.", "fix": "Remplacer par un exemple tiré de l’ouverture (les artisans qui déplient la veste sans commentaire)."}
+      ]
+    },
+    {
+      "number": 4,
+      "file": "content/posts/comprendre-et-maitriser-ses-emotions/salome-securite-adaptation-contexte.md",
+      "focus": "Adapter sa participation au contexte de sécurité après un propos hostile : demander un lieu ouvert et des relais sans attendre une certitude.",
+      "structure": {"scene": "ok", "concept": "ok", "manifestations": "faible", "techniques": "faible", "retour": "ok", "conclusion": "ok", "proches": "ok"},
+      "comprehension": 3,
+      "comprehension_note": "La porte coupe-feu, le propos méprisant et la caisse laissée fermée posent clairement l’enjeu. Mais l’événement clé du résumé (rester brièvement cordiale avec le participant) n’apparaît qu’au milieu de la section « manifestations », et la réponse de l’organisation est racontée dans une technique.",
+      "issues": [
+        {"severity": "majeur", "type": "trame", "quote": "Dans le couloir, le participant se rapproche et reprend son commentaire. Salomé lui adresse un sourire bref et hoche la tête, puis dit qu’elle rejoint l’accueil.", "problem": "Une nouvelle action de la scène (deuxième rencontre avec le participant) surgit dans la section explicative ; le lecteur ne sait plus à quel moment elle a lieu par rapport à l’appel à l’organisation.", "fix": "Placer cette rencontre dans la scène d’ouverture, avant qu’elle pose sa caisse, et laisser la section explicative la commenter."},
+        {"severity": "majeur", "type": "lien_concept", "quote": "Dans deux études de terrain, les personnes ont souri plus souvent lorsqu’on leur faisait croire à un faux pas social, par exemple à l’interruption d’une conversation.", "problem": "Référence au sourire après un faux pas social, sans rapport clair avec une situation d’hostilité ; elle brouille le propos sur la sécurité.", "fix": "Supprimer ce paragraphe ou le remplacer par une phrase indiquant que répondre poliment pour s’éloigner est un choix de circonstance, sans référence d’étude."},
+        {"severity": "mineur", "type": "trame", "quote": "L’organisation répond que le hall reste ouvert et qu’une personne d’accueil sera présente jusqu’à la fin.", "problem": "La réponse qui permet la décision est donnée dans la technique 2, avant le retour.", "fix": "La déplacer dans la section « La table dans le hall »."},
+        {"severity": "mineur", "type": "comprehension", "quote": "Salomé connaît l’ordre de la démonstration : préparer les outils, faire écouter une note, changer le réglage, faire écouter à nouveau. Elle a accepté qu’on mentionne son identité dans le programme de cette rencontre.", "problem": "Deuxième paragraphe qui reprend le premier (la remarque, l’hésitation) ; le lien avec la fiche de l’épisode 2 (« cette rencontre ») reste implicite.", "fix": "Fusionner avec le premier paragraphe et préciser « la rencontre artisanale pour laquelle elle a envoyé sa fiche »."}
+      ]
+    },
+    {
+      "number": 5,
+      "file": "content/posts/sortir-de-ses-schemas-repetitifs/salome-appartenance-sans-effacement.md",
+      "focus": "Appartenir à un groupe sans payer sa place par une disponibilité professionnelle (le banc à réparer).",
+      "structure": {"scene": "ok", "concept": "ok", "manifestations": "faible", "techniques": "faible", "retour": "ok", "conclusion": "ok", "proches": "ok"},
+      "comprehension": 4,
+      "comprehension_note": "Le sachet de graines tenu pendant qu’on lui apporte un tournevis résume très bien le conflit ; le refus de la réparation est net. Un « repas partagé » et une question sur les bacs surgissent ensuite dans les manifestations et les techniques sans avoir été placés dans la scène.",
+      "issues": [
+        {"severity": "majeur", "type": "trame", "quote": "Au repas partagé, Salomé n’est pas d’accord avec une proposition de plantation.", "problem": "Le repas et le désaccord sur les bacs n’apparaissent pas dans la scène ; la technique 3 raconte ensuite la question posée et le bac déplacé sur le dessin, épisode que le retour ne reprend pas.", "fix": "Introduire le repas et le croquis des bacs dans la scène d’ouverture ou dans le retour, et formuler la technique 3 comme une piste."},
+        {"severity": "mineur", "type": "comprehension", "quote": "Nora l’invite à découvrir son jardin partagé et lui montre où poser son sac.", "problem": "Nora n’est pas présentée dans cet épisode.", "fix": "« Nora, son amie, l’invite… »."}
+      ]
+    },
+    {
+      "number": 6,
+      "file": "content/posts/reprendre-le-controle-de-ses-pensees/salome-identite-au-dela-etiquette.md",
+      "focus": "Ne pas être réduite à une seule étiquette dans un portrait : demander d’élargir l’entretien à son travail.",
+      "structure": {"scene": "ok", "concept": "ok", "manifestations": "ok", "techniques": "faible", "retour": "ok", "conclusion": "ok", "proches": "ok"},
+      "comprehension": 4,
+      "comprehension_note": "Le chevalet resté intact à côté du micro est une image forte et la phrase de recadrage est claire. Le changement d’angle accepté est toutefois raconté dans une technique.",
+      "issues": [
+        {"severity": "mineur", "type": "trame", "quote": "La personne qui l’interroge accepte et pose une question sur la réparation.", "problem": "Le résultat du recadrage est donné dans la technique 2, puis repris dans « Le chevalet à côté du micro ».", "fix": "Supprimer cette phrase de la technique et la laisser au retour."},
+        {"severity": "mineur", "type": "comprehension", "quote": "Salomé avait posé un chevalet sur la table en pensant montrer ce qu’elle a dû changer à sa forme.", "problem": "« ce qu’elle a dû changer à sa forme » reste vague pour un lecteur qui ne connaît pas la lutherie.", "fix": "Préciser en une demi-phrase (par ex. « la hauteur qu’elle a abaissée pour soulager les cordes »)."},
+        {"severity": "mineur", "type": "repetition", "quote": "Pour la fiche des artisans, Salomé avait choisi elle-même la phrase qui présentait son identité.", "problem": "L’épisode reprend la question du texte public de l’épisode 2 ; l’aspect est distinct (réduction par l’autre) mais les deux épisodes se rapprochent.", "fix": "Garder le rappel court et insister sur ce qui est nouveau : l’interlocuteur qui choisit les questions."}
+      ]
+    },
+    {
+      "number": 7,
+      "file": "content/posts/comprendre-et-maitriser-ses-emotions/salome-bienveillance-apres-interaction.md",
+      "focus": "Se parler avec bienveillance après une réclamation justifiée : garder la responsabilité sans verdict global.",
+      "structure": {"scene": "ok", "concept": "ok", "manifestations": "ok", "techniques": "ok", "retour": "ok", "conclusion": "ok", "proches": "ok"},
+      "comprehension": 4,
+      "comprehension_note": "Étienne est présenté comme client, l’erreur (rendez-vous non décalé) et la réparation (message, repère dans le planning) sont concrètes ; la fin montre le retrait réussi et le nouveau repère.",
+      "issues": [
+        {"severity": "mineur", "type": "comprehension", "quote": "La poignée reste tiède sous la main de Salomé après le départ d’Étienne. Son client vient récupérer un instrument qui n’est pas prêt.", "problem": "Le passage du départ (passé) à « vient récupérer » (présent) brouille l’ordre des faits dès la première ligne.", "fix": "« Son client était venu récupérer un instrument qui n’était pas prêt. »"}
+      ]
+    },
+    {
+      "number": 8,
+      "file": "content/posts/sortir-de-ses-schemas-repetitifs/salome-vie-privee-sans-expliquer.md",
+      "focus": "Garder une information privée (photos d’enfance) sans inventer de prétexte ni ouvrir son histoire.",
+      "structure": {"scene": "ok", "concept": "ok", "manifestations": "ok", "techniques": "ok", "retour": "ok", "conclusion": "ok", "proches": "ok"},
+      "comprehension": 4,
+      "comprehension_note": "La boîte à chaussures, le prétexte envisagé puis le message à Nora sont limpides ; la soirée montre que le format était moins contraignant qu’imaginé.",
+      "issues": [
+        {"severity": "majeur", "type": "repetition", "quote": "Elle s’apprête à écrire qu’elle ne retrouve pas les photos tout en gardant la boîte ouverte devant elle.", "problem": "Le mécanisme (inventer un obstacle au lieu de nommer une préférence) et la technique 2 (réponse brève à une relance) sont repris presque à l’identique à l’épisode 10 (« Chercher une raison que l’autre ne pourrait pas discuter », « Répéter la limite sans enrichir le dossier »).", "fix": "Différencier les deux épisodes : garder ici le prétexte et l’amitié, et recentrer l’épisode 10 sur l’insistance d’un inconnu dans un cadre professionnel (voir ce dernier)."}
+      ]
+    },
+    {
+      "number": 9,
+      "file": "content/posts/reprendre-le-controle-de-ses-pensees/salome-competence-regard-ateliers-ligne.md",
+      "focus": "Évaluer sa compétence au-delà des vitrines en ligne : comparer un processus entier à un résultat sélectionné.",
+      "structure": {"scene": "ok", "concept": "ok", "manifestations": "ok", "techniques": "ok", "retour": "ok", "conclusion": "ok", "proches": "ok"},
+      "comprehension": 4,
+      "comprehension_note": "L’atelier impeccable à l’écran, la table de Salomé et la question d’Étienne sur la machine montrent bien la confusion entre vitrine et compétence ; la photo cadrée avec Gaspard en donne la preuve concrète.",
+      "issues": [
+        {"severity": "mineur", "type": "comprehension", "quote": "Pour ce réglage, il lui reste quelque chose à écouter.", "problem": "Dernière phrase sibylline : on ne sait pas ce qu’elle doit encore écouter ni avec qui.", "fix": "« Pour ce réglage, elle doit encore écouter avec Étienne la note qui le gêne. »"},
+        {"severity": "mineur", "type": "proches", "quote": "Elle garde le cadrage, y compris la décision de ne pas publier la photo.", "problem": "La rubrique évoque une décision de ne pas publier qui n’existe pas dans la scène.", "fix": "Supprimer « y compris la décision de ne pas publier la photo » ou ajouter ce choix dans le retour."}
+      ]
+    },
+    {
+      "number": 10,
+      "file": "content/posts/sortir-de-ses-schemas-repetitifs/salome-limite-curiosite-personnelle.md",
+      "focus": "Poser une limite claire à une question personnelle d’un client, après le portrait public.",
+      "structure": {"scene": "ok", "concept": "ok", "manifestations": "ok", "techniques": "ok", "retour": "ok", "conclusion": "ok", "proches": "ok"},
+      "comprehension": 3,
+      "comprehension_note": "La phrase de limite et le retour à la fiche de réception sont clairs. Mais l’ouverture raconte deux fois la question (« ce que sa non-binarité change dans sa vie amoureuse », puis « avec qui elle partage sa vie ») sans qu’on sache s’il y a eu une ou deux questions, et l’épisode reprend l’essentiel de l’épisode 8.",
+      "issues": [
+        {"severity": "majeur", "type": "comprehension", "quote": "Le visiteur connaît déjà le prénom de Salomé. Il dit qu’il a lu son portrait et demande si c’est elle qui fait les réparations. Jusqu’ici, l’échange lui convient.", "problem": "Ce deuxième paragraphe revient en arrière par rapport au premier (où la question intime est déjà posée) et donne une autre formulation de la question ; la chronologie de l’entretien est confuse.", "fix": "Fusionner les deux paragraphes : arrivée, compliment sur le portrait, question sur les réparations, puis une seule question intime."},
+        {"severity": "majeur", "type": "repetition", "quote": "Salomé imagine annoncer qu’elle ne dispose pas de temps, puis craint qu’on lui propose de parler à la fin du rendez-vous.", "problem": "Même aspect que l’épisode 8 (prétexte au lieu d’une limite) et même technique de répétition brève de la limite.", "fix": "Remplacer cette sous-partie par un aspect propre à la scène : l’effet du portrait public (une information publiée semble donner accès au reste) ou la tension entre accueil commercial et refus."}
+      ]
+    },
+    {
+      "number": 11,
+      "file": "content/posts/reprendre-le-controle-de-ses-pensees/salome-continuite-soi-changements.md",
+      "focus": "Continuité de soi au fil des changements, à partir du tri d’anciens croquis.",
+      "structure": {"scene": "ok", "concept": "faible", "manifestations": "faible", "techniques": "ok", "retour": "ok", "conclusion": "ok", "proches": "ok"},
+      "comprehension": 2,
+      "comprehension_note": "Le tri des croquis est concret, mais on ne sait pas quel changement de vie est en jeu : le texte évoque « sa manière de se présenter », « une biographie modifiée », « un mot qui ne lui convient plus » sans dire ce qui a changé. L’usage systématique du présent pour le passé rend en plus la frontière entre hier et aujourd’hui difficile à suivre.",
+      "issues": [
+        {"severity": "majeur", "type": "comprehension", "quote": "que garde-t-elle de ces étapes, maintenant que sa manière de travailler et de se présenter change ?", "problem": "Le changement qui met la continuité à l’épreuve n’est jamais nommé ; les allusions (« anciens textes et sa présentation actuelle », « Une biographie modifiée ») laissent supposer un changement d’identité ou de prénom que ni la fiche ni les épisodes précédents ne mentionnent.", "fix": "Nommer le changement réel (par ex. sa nouvelle technique de pose apprise l’an dernier et la mention publique de son identité depuis la fiche de l’épisode 2), ou supprimer les allusions à d’anciennes biographies si elles n’ont pas de référent."},
+        {"severity": "majeur", "type": "comprehension", "quote": "Salomé reconnaît une forme qu’elle trace au début de son apprentissage.", "problem": "Le présent est employé pour le passé dans tout l’épisode (« elle se trompe longtemps avant de trouver », « ce qu’elle sait à l’époque », « qu’elle ne recherche pas auparavant »), ce qui empêche de distinguer les étapes alors que c’est le sujet même.", "fix": "Mettre au passé composé ou à l’imparfait tous les faits antérieurs : « qu’elle traçait au début de son apprentissage », « elle s’est trompée longtemps », etc."},
+        {"severity": "mineur", "type": "comprehension", "quote": "Salomé retrouve un dessin dont elle avait oublié le papier quadrillé.", "problem": "Deuxième paragraphe qui reprend la découverte du premier avec un autre dessin ; on ne sait pas s’il s’agit du même croquis.", "fix": "Fusionner avec le premier paragraphe."}
+      ]
+    },
+    {
+      "number": 12,
+      "file": "content/posts/sortir-de-ses-schemas-repetitifs/salome-alliances-soutien-quotidien.md",
+      "focus": "Alliances de soutien : définir avec Gaspard et Nora des relais précis et consentis.",
+      "structure": {"scene": "ok", "concept": "ok", "manifestations": "ok", "techniques": "faible", "retour": "faible", "conclusion": "ok", "proches": "ok"},
+      "comprehension": 3,
+      "comprehension_note": "La correction du courriel par Gaspard est claire et bien cadrée. La soirée après la réunion du jardin est en revanche racontée en trois versions incompatibles (technique 3, puis deux paragraphes du retour).",
+      "issues": [
+        {"severity": "majeur", "type": "continuite", "quote": "Nora lui envoie un message au moment où elle rentre : « T’as trouvé un créneau ? » Salomé répond qu’elle viendra regarder les semis, mais qu’elle n’a pas pu rester pour la répartition du matériel.", "problem": "Contredit le paragraphe précédent (« À la réunion du jardin, Salomé […] choisit un créneau qui lui convient. […] Le soir, elle raconte à Nora deux éléments, puis elles passent à leur énigme ») et la technique 3 (« L’échange après la réunion dure plus longtemps que prévu et son amie commence à manquer d’attention »).", "fix": "Choisir une seule version de la soirée (par ex. le message de Nora, la réponse sur le créneau, puis l’énigme) et retirer les deux autres."},
+        {"severity": "mineur", "type": "comprehension", "quote": "Le message qui vient de circuler reprend la présentation de Salomé avec une formulation qu’elle n’a pas choisie.", "problem": "Deuxième paragraphe qui répète le premier ; la formule fautive n’est jamais citée, si bien que l’enjeu reste abstrait.", "fix": "Supprimer la redite et citer la formule (par ex. « notre luthier ») dès le premier paragraphe."},
+        {"severity": "mineur", "type": "trame", "quote": "Les alliances et le soutien dans la vie quotidienne reposent sur des gestes compréhensibles, des autorisations et des limites.", "problem": "Dernière conclusion du parcours limitée au thème de l’épisode ; elle ne situe pas ce que Salomé a construit sur les douze épisodes.", "fix": "Ajouter une ou deux phrases qui relient les appuis obtenus (fiche, hall, portrait, agenda partagé) à ce qu’elle peut désormais choisir."}
+      ]
+    }
+  ],
+  "missing_or_extra": "Douze épisodes, sans manque. Le parcours a un surplus d’épisodes sur la même compétence (poser une limite à une question personnelle) : épisodes 1, 2, 8 et 10. Proposition : garder l’épisode 8 (vie privée entre amis) et réécrire l’épisode 10 autour d’un aspect absent du parcours, par exemple « le coût de la répétition des corrections / fatigue de devoir expliquer » (minority stress au quotidien, sans pathologiser) ou « réagir à un mégenrage répété par une personne proche », ce qui donnerait aussi à Gaspard ou à Nora une erreur à réparer. Si l’on préfère ne rien retirer, il faut au minimum différencier les techniques des épisodes 8 et 10.",
+  "verdict": "corrections_majeures"
+}

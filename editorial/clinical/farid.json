@@ -1,0 +1,1274 @@
+{
+  "character_id": "farid",
+  "bio": "Farid, 74 ans, ancien réparateur de radios, trie ses douze derniers postes avec son fils Anis dans l’atelier de sa maison. Sa démence due à une maladie à corps de Lewy est déjà diagnostiquée : son attention varie d’une heure à l’autre, l’espace le trompe parfois et il voit certains soirs ce que les autres ne voient pas. Il veut donner ses radios à un musée associatif qui les montrera sans toutes les modifier. Avec sa neurologue et une équipe de soutien au domicile, il garde ses choix et le droit de ne pas tout raconter.",
+  "profile_topics": [
+    "Démence due à une maladie à corps de Lewy",
+    "Fluctuations de l’attention et de la vigilance",
+    "Hallucinations visuelles accueillies sans confrontation",
+    "Partager ce qu’on a observé avec l’accord de la personne",
+    "Soutien prévisible et projet de don"
+  ],
+  "episodes": [
+    {
+      "number": 1,
+      "slug": "farid-fluctuations-vigilance-journee-atelier",
+      "title": "Des fluctuations de la vigilance d’une heure à l’autre",
+      "description": "Le matin, Farid dicte sans peine l’histoire de ses radios ; l’après-midi, il fixe l’établi. Comprendre les fluctuations de la démence à corps de Lewy.",
+      "context": "à l’atelier, un samedi de tri",
+      "topics": [
+        "Démence due à une maladie à corps de Lewy",
+        "fluctuations de l’attention",
+        "organiser la journée"
+      ],
+      "clinical_focus": "Fluctuations de la vigilance au cours d’une même journée",
+      "clinical_intro": "Dans la démence due à une maladie à corps de Lewy, l’attention et l’éveil peuvent varier nettement d’un moment à l’autre de la même journée, sans effort en moins ni oubli isolé. Farid, dont le diagnostic est déjà posé, raconte ses radios avec précision le matin et décroche l’après-midi. Comprendre ce contraste aide son fils à ajuster le travail plutôt qu’à le juger.",
+      "opening": "À neuf heures, l’ancien garage de la maison de Villeurbanne sent encore la poussière chaude et le vernis. Farid, 74 ans, a passé quarante ans à réparer des postes de radio ; il en garde douze sur l’étagère du fond, les derniers qu’il veut donner au musée associatif Les Lampes du Faubourg. Anis, son fils, professeur de technologie dans un collège, a apporté des étiquettes de carton et un feutre noir. C’est samedi : ils ont la journée.\n\nFarid prend le premier poste, un poste en noyer de 1949, et dicte sans hésiter : « Acheté à une veuve de la Croix-Rousse, condensateurs changés en 1987, ne pas toucher au haut-parleur, il est d’origine. » Le deuxième, le troisième suivent au même rythme. Anis écrit, rit à une remarque sur un client qui voulait « plus de basses dans les informations ». Il a l’impression de retrouver l’atelier de son enfance.\n\nAprès le déjeuner, Anis pose sur l’établi le petit transistor rouge. Farid le regarde longtemps. Il répond « oui, la bakélite » alors qu’Anis lui demandait l’année, puis commence une phrase sur un marché du dimanche et la laisse en suspens. Son regard reste sur le bois de l’établi, comme s’il attendait qu’une lampe chauffe. Anis pose le feutre.\n\n« Papa, ce matin tu savais tout. Tu m’as donné les dates de trois postes sans réfléchir. »\n\nFarid lève les yeux, met un temps à répondre. « Ce matin, c’était ce matin. » Le ton n’est pas agacé ; il est lent, un peu loin. Anis sent monter une impatience qu’il n’aime pas chez lui.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Quand l’attention monte et descend sans prévenir",
+          "text": "Dans la démence due à une maladie à corps de Lewy, la cognition, l’attention et l’éveil peuvent fluctuer de façon spontanée : la personne paraît par moments alerte et précise, puis somnolente, absente ou au discours plus décousu, sans que rien dans la situation ne l’explique. Ces variations font partie des signes centraux décrits par les cliniciens et se distinguent d’un manque de motivation comme d’un simple trou de mémoire. Elles sont souvent plus marquantes, dans cette maladie, que les difficultés de mémoire elles-mêmes. Pour Farid, le savoir sur ses postes n’a pas disparu entre le matin et l’après-midi : c’est l’accès à ce savoir, l’état d’éveil qui le porte, qui a baissé. Le rapprochement que fait Anis, « tu savais tout », est compréhensible, mais il transforme une variation du trouble en reproche implicite. Seul le médecin qui suit Farid peut apprécier ces fluctuations ; l’entourage peut en revanche rapporter ce qu’il observe."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment les fluctuations se voient-elles dans une journée de tri ?",
+          "points": [
+            {
+              "heading": "Un contraste entre deux moments proches",
+              "text": "La même tâche peut être facile à une heure et difficile quelques heures plus tard, avec la même personne et les mêmes objets.",
+              "examples": [
+                "À neuf heures, Farid dicte trois étiquettes complètes, dates et pièces d’origine comprises.",
+                "Après le déjeuner, il ne retrouve pas l’année du transistor rouge, qu’il connaît pourtant."
+              ]
+            },
+            {
+              "heading": "Un regard fixe ou une absence",
+              "text": "La baisse de vigilance se remarque parfois avant toute erreur, par un regard qui reste posé ou un temps de réponse allongé.",
+              "examples": [
+                "Farid fixe le bois de l’établi plusieurs secondes sans regarder le poste.",
+                "Il met un long moment avant de répondre à Anis, d’une voix plus lente."
+              ]
+            },
+            {
+              "heading": "Une parole qui se défait",
+              "text": "Le discours peut devenir moins organisé : une réponse à côté, une idée qui commence et ne se termine pas.",
+              "examples": [
+                "Il répond « la bakélite » à une question portant sur l’année du poste.",
+                "Il entame une histoire de marché du dimanche et laisse la phrase en suspens."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour travailler avec des moments plus ou moins favorables",
+          "points": [
+            {
+              "heading": "Repérer avec Farid ses meilleurs moments",
+              "objective": "Placer les tâches qui demandent le plus d’attention là où elles ont le plus de chances d’aboutir.",
+              "exercise": [
+                "Demander à Farid à quels moments il se sent le plus clair pour dicter.",
+                "Prévoir les étiquettes et les décisions dans ces créneaux, sans en faire une règle rigide.",
+                "Revoir ensemble cet arrangement après quelques semaines de tri."
+              ],
+              "benefit": "Le travail peut avancer sans épreuve de force ; cela ne modifie pas le trouble lui-même."
+            },
+            {
+              "heading": "Raccourcir sans annuler",
+              "objective": "Garder une place à Farid dans le projet quand son attention baisse.",
+              "exercise": [
+                "Proposer une seule action simple, comme ranger un poste déjà étiqueté.",
+                "Laisser la décision difficile pour un autre moment, en le disant clairement.",
+                "Arrêter la séance si Farid le demande ou paraît très fatigué."
+              ],
+              "benefit": "La tâche reste la sienne, à une taille qui convient au moment."
+            },
+            {
+              "heading": "Noter des faits plutôt que des jugements",
+              "objective": "Disposer d’observations utiles pour le médecin qui suit Farid, avec son accord.",
+              "exercise": [
+                "Écrire l’heure à laquelle le changement est apparu.",
+                "Décrire ce qui a été vu, par exemple un regard fixe ou une phrase interrompue.",
+                "Demander à Farid s’il accepte que ces notes soient montrées à sa neurologue."
+              ],
+              "benefit": "Des faits datés peuvent aider l’équipe de soins, sans transformer le proche en évaluateur."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Le transistor rouge attendra demain",
+      "ending": "Farid repousse doucement le transistor rouge vers Anis. « Les étiquettes, on les fait le matin. Celui-là, demain. » Anis ouvre la bouche pour dire qu’il n’aura peut-être pas le temps, puis se tait. Il range le poste sur l’étagère, son carton vierge glissé sous la poignée.\n\nIls passent la fin de l’après-midi à dépoussiérer les boîtiers déjà notés, un travail que Farid fait sans parler, à son rythme. Sur son téléphone, Anis écrit seulement : « samedi, vers 14 h 30, regard fixe, réponses à côté ». Il n’ajoute pas « alors que ce matin… ». En partant, il dit qu’il reviendra demain à neuf heures. Farid hoche la tête sans savoir encore dans quel état il se réveillera.",
+      "conclusion": "Les fluctuations de la démence à corps de Lewy font alterner, dans la même journée, des moments de grande précision et des moments d’absence. Farid ne perd pas son savoir de réparateur ; il décide de placer le travail exigeant le matin, et Anis commence à noter l’heure au lieu de comparer.",
+      "mirror": [
+        "Quand Anis dit « ce matin tu savais tout », il exprime sa surprise, mais Farid entend une comparaison qu’il ne peut pas contrôler. Un proche peut plutôt dire : « On s’arrête là pour les dates, tu veux qu’on dépoussière ou qu’on fasse une pause ? » Noter l’heure d’un changement, sans commentaire, suffit souvent. Le proche n’a pas à mesurer ces variations : il les rapporte au médecin si la personne l’accepte, et il peut aussi s’accorder une pause quand son impatience monte."
+      ],
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "mckeith-2017",
+        "has-fiche2-apparentees"
+      ],
+      "continuity": {
+        "choice": "Farid réserve l’étiquetage aux matinées et laisse le transistor rouge pour le dimanche ; Anis note sur son téléphone l’heure du changement (samedi vers 14 h 30) sans comparer à voix haute.",
+        "next": "Dimanche à neuf heures, Anis revient ; Farid voudra rendre présentable le poste à cadran vert de 1953 pour la visite de Gilles Perrot, et c’est l’évaluation de l’espace qui le trompera."
+      },
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 2,
+      "slug": "farid-capacites-visuospatiales-cadran-etagere",
+      "title": "Les distances qui trompent : aligner un cadran et poser un poste",
+      "description": "Farid connaît chaque station gravée sur son cadran, mais l’aiguille reste décalée. Ce que la démence à corps de Lewy change dans la perception de l’espace.",
+      "context": "à l’atelier, la veille d’une visite",
+      "topics": [
+        "capacités visuospatiales",
+        "savoir et perception",
+        "repère tactile"
+      ],
+      "clinical_focus": "Évaluer les distances et l’alignement d’un cadran",
+      "clinical_intro": "Dans la démence à corps de Lewy, apprécier une distance, un alignement ou la position d’un objet peut devenir difficile, parfois davantage que se souvenir. Farid sait exactement ce que son poste à cadran vert doit montrer, mais son évaluation de l’espace le trompe. Distinguer ce qu’il sait de ce qu’il voit lui permet de garder la main sur le réglage.",
+      "opening": "Dimanche, neuf heures. Anis, le fils de Farid, professeur de technologie, est revenu comme promis. Avant tout, Farid lui tend le transistor rouge et dicte son étiquette d’une traite : « 1961, offert par un chauffeur de car, boîtier fêlé recollé. » Il laisse une ligne vide : « origine du haut-parleur, à vérifier. » La question de la veille est close.\n\nPuis il sort de l’étagère le poste à cadran vert de 1953, celui qu’il veut montrer en premier à Gilles Perrot, le président du musée associatif Les Lampes du Faubourg, qui vient lundi matin. Le cadran porte une trentaine de stations gravées en lettres dorées. Farid les récite sans les regarder : Luxembourg, Monte-Carlo, Sottens, Droitwich. « L’aiguille doit tomber pile sur Paris, c’est comme ça qu’on le présentait en vitrine. »\n\nIl tourne le bouton, s’arrête, satisfait. Anis se penche : l’aiguille est à un bon centimètre à gauche, entre deux noms. Farid recommence et s’arrête au même endroit. Il soulève ensuite le poste pour le reposer au milieu de l’étagère ; le boîtier se retrouve au bord, une patte dans le vide. Anis le retient. Farid le reprend, le repose, presque au même endroit.\n\n« C’est mes mains, dit-il en les regardant. Elles ne font plus ce que je leur dis. » Il serre et desserre les doigts, agacé. Anis voit pourtant que ses mains sont sûres : c’est la place qu’il vise qui n’est pas la bonne.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Voir où sont les choses, une capacité à part entière",
+          "text": "Estimer une distance, juger qu’un objet est centré ou qu’une aiguille est alignée relève de capacités visuospatiales et visuoperceptives distinctes de la mémoire. Dans la démence due à une maladie à corps de Lewy, ces capacités sont souvent plus touchées que la mémoire, ce qui distingue fréquemment cette démence de la maladie d’Alzheimer. Une personne peut alors réciter parfaitement les noms d’un cadran tout en plaçant l’aiguille à côté. Chez Farid, la scène sépare deux choses que l’on croit liées : le savoir, intact, sur ce que le poste doit montrer, et la perception, qui l’induit en erreur sur l’endroit exact. Attribuer l’erreur à ses mains l’amène à douter d’un geste qui reste précis. Seule l’équipe de soins peut évaluer ces capacités ; à la maison, il s’agit d’aménager la tâche."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment une difficulté d’espace se remarque-t-elle à l’atelier ?",
+          "points": [
+            {
+              "heading": "Un alignement jugé juste alors qu’il ne l’est pas",
+              "text": "La personne croit avoir obtenu la bonne position et s’arrête, sans voir l’écart.",
+              "examples": [
+                "Farid arrête l’aiguille à un centimètre de Paris et se déclare satisfait.",
+                "Il recommence et s’arrête au même endroit décalé."
+              ]
+            },
+            {
+              "heading": "Des distances mal estimées",
+              "text": "Poser un objet au bon endroit demande de juger la profondeur et les bords, ce qui peut devenir incertain.",
+              "examples": [
+                "Le poste se retrouve au bord de l’étagère, une patte dans le vide.",
+                "Au second essai, Farid le repose presque au même endroit."
+              ]
+            },
+            {
+              "heading": "Un savoir qui reste vif à côté",
+              "text": "La mémoire des objets peut contraster avec l’erreur de perception, ce qui déroute l’entourage.",
+              "examples": [
+                "Farid récite les stations gravées sans regarder le cadran.",
+                "Il se souvient de la façon dont le poste était présenté en vitrine en 1953."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour garder la main quand l’espace trompe",
+          "points": [
+            {
+              "heading": "Séparer ce qu’il sait de ce qu’il voit",
+              "objective": "Éviter que Farid doute de son savoir ou de ses mains à cause d’une erreur de perception.",
+              "exercise": [
+                "Lui laisser dire ce que le poste doit montrer, par exemple l’aiguille sur Paris.",
+                "Décrire ensuite simplement l’écart observé, sans parler d’erreur.",
+                "Lui laisser choisir s’il veut corriger seul ou avec une aide."
+              ],
+              "benefit": "Le savoir de Farid reste reconnu, et la difficulté devient un problème pratique."
+            },
+            {
+              "heading": "Un repère que l’on touche",
+              "objective": "Remplacer une estimation visuelle incertaine par un repère choisi par Farid.",
+              "exercise": [
+                "Lui demander quel repère lui conviendrait : une bande, une cale, une marque.",
+                "L’installer avec lui à l’endroit qu’il désigne quand il a le temps de vérifier.",
+                "Vérifier après quelques jours que ce repère l’aide encore."
+              ],
+              "benefit": "Un gabarit peut rendre le rangement plus sûr ; il n’améliore pas la perception elle-même."
+            },
+            {
+              "heading": "Demander une lecture, pas une reprise",
+              "objective": "Obtenir une vérification visuelle sans qu’un proche reprenne la tâche.",
+              "exercise": [
+                "Convenir de ce que le proche doit dire : « à gauche », « à droite », « dessus ».",
+                "Laisser les mains de Farid sur le bouton pendant que le proche lit.",
+                "Signaler à la neurologue, si Farid l’accepte, que ces erreurs d’espace reviennent."
+              ],
+              "benefit": "Chacun garde sa place : Farid règle, Anis lit, l’équipe de soins évalue."
+            }
+          ]
+        }
+      ],
+      "ending_title": "La bande de carton au milieu de l’étagère",
+      "ending": "Farid découpe une bande dans un carton d’étiquettes et la colle au centre de l’étagère, là où Anis lui indique le milieu. Il passe le doigt dessus deux fois. Puis il pose le poste : le pied gauche touche la bande, le boîtier est droit. « On ne fait pas confiance à l’œil, on fait confiance au gabarit », dit-il.\n\nPour l’aiguille, il demande à Anis de ne pas toucher au bouton. « Tu me lis seulement où elle est. » Anis dit « un peu à gauche », puis « encore », puis « dessus ». Farid garde le réglage final pour lui et lâche le bouton. Le résultat tient. Ce qui reste incertain, c’est demain : Gilles parlera, ouvrira des postes, et Farid ne sait pas encore ce que cela lui demandera.",
+      "conclusion": "Dans la démence à corps de Lewy, la perception de l’espace peut se dérégler alors que la mémoire des objets reste vive. Farid ne renonce pas à préparer son poste à cadran vert : il s’appuie sur un repère tactile et sur la lecture d’Anis, et il garde le dernier geste.",
+      "mirror": [
+        "Quand Farid accuse ses mains, Anis pourrait le contredire ou reprendre le bouton. Il peut plutôt dire : « Tes mains sont sûres. Tu veux que je te lise où est l’aiguille ? » Lire une position sans toucher, ou désigner le milieu d’une étagère, aide sans retirer la tâche. Le proche n’a pas à tester la vue ou l’orientation de la personne à la maison ; s’il remarque que ces erreurs se répètent, il peut proposer d’en parler ensemble à la neurologue."
+      ],
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "mckeith-2017",
+        "has-fiche13-comportement"
+      ],
+      "continuity": {
+        "choice": "Farid colle une bande de carton au centre de l’étagère comme repère et demande à Anis de lui lire seulement la position de l’aiguille ; l’étiquette du transistor rouge est faite, avec une ligne à vérifier sur l’origine du haut-parleur.",
+        "next": "Lundi matin, Gilles Perrot visite l’atelier seul avec Farid ; il parlera de vitrines et de restauration tout en ouvrant un poste, et Farid devra suivre deux choses à la fois."
+      },
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 3,
+      "slug": "farid-attention-partagee-decision-visite-musee",
+      "title": "L’attention partagée entre une conversation et un poste ouvert",
+      "description": "Gilles parle de vitrines en ouvrant un poste ; Farid perd le fil et craint d’avoir dit oui. L’attention divisée dans la démence à corps de Lewy.",
+      "context": "à l’atelier, pendant la visite du musée",
+      "topics": [
+        "attention divisée",
+        "fonctions exécutives",
+        "décider par écrit"
+      ],
+      "clinical_focus": "Attention partagée entre deux demandes simultanées",
+      "clinical_intro": "Suivre une conversation tout en surveillant un geste, puis garder en tête une décision en cours, mobilise l’attention divisée et les fonctions exécutives. Dans la démence à corps de Lewy, ces capacités sont souvent fragilisées. Pendant la visite du président du musée, Farid comprend chaque phrase séparément, mais l’accumulation des demandes menace une décision qui lui tient à cœur.",
+      "opening": "Lundi, dix heures. Gilles Perrot, le président du musée associatif Les Lampes du Faubourg, entre dans l’atelier avec un carnet à spirale et beaucoup d’enthousiasme. Anis, le fils de Farid, est au collège ; Farid reçoit seul, comme il l’a voulu. Le poste à cadran vert attend sur sa bande de carton, l’aiguille sur Paris.\n\nGilles admire, puis parle vite. Il décrit les vitrines vitrées de la salle du rez-de-chaussée, une date d’inauguration au printemps, une restauratrice qu’il connaît. En même temps, il retourne la radio de bakélite crème et commence à dévisser le dos, « juste pour voir l’état des lampes ». Farid regarde les vis tomber dans la paume de Gilles. « Et pour la date, vous seriez disponible un samedi ? »\n\nFarid répond sur le samedi. Gilles enchaîne déjà sur les postes : « L’idéal, ce serait qu’ils marchent tous, les visiteurs adorent entendre une vieille radio s’allumer. » Farid veut répondre, mais il cherche encore où Gilles a posé la troisième vis. Quand il revient à la question, Gilles parle des assurances.\n\nUn peu plus tard, Gilles referme son carnet. « Donc on part là-dessus, tout remettre en état ? » Farid sent le mot oui arriver tout seul, poli, facile. Il ne sait plus s’il l’a déjà prononcé dix minutes plus tôt. Il sait seulement qu’il n’a pas décidé cela. Ses postes, il les a soignés pour qu’on les voie tels qu’ils sont, pas pour qu’on change leurs pièces d’origine.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Faire deux choses à la fois demande plus que de comprendre",
+          "text": "Partager son attention entre deux sources, passer de l’une à l’autre et maintenir une décision en suspens relèvent de l’attention et des fonctions exécutives, qui organisent la pensée au fil d’une situation. Dans la démence due à une maladie à corps de Lewy, ces capacités sont souvent plus touchées que la mémoire. La difficulté dépend alors de la charge du moment, pas de l’intérêt de la personne pour le sujet. Farid comprend chacune des phrases de Gilles ; ce qui lui échappe, c’est la superposition : une question, un poste qu’on ouvre, une autre question, puis un résumé qui semble acquis. Le risque n’est pas qu’il oublie son projet, mais qu’il accepte par politesse une proposition qu’il n’a pas pesée. Les recommandations sur la communication conseillent de ne pas multiplier les tâches au moment où l’on parle et de laisser le temps de répondre."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment la surcharge d’attention se remarque-t-elle pendant une visite ?",
+          "points": [
+            {
+              "heading": "Une question chasse la précédente",
+              "text": "Quand les questions s’enchaînent, la personne répond à l’une et perd la suivante.",
+              "examples": [
+                "Farid répond sur le samedi et ne revient pas à la question des postes à remettre en marche.",
+                "Quand il veut répondre, Gilles parle déjà des assurances."
+              ]
+            },
+            {
+              "heading": "Le geste capte l’attention",
+              "text": "Un objet manipulé pendant la conversation peut absorber l’attention nécessaire pour écouter.",
+              "examples": [
+                "Farid suit les vis qui tombent dans la paume de Gilles au lieu de suivre sa phrase.",
+                "Il cherche la troisième vis pendant que la discussion avance."
+              ]
+            },
+            {
+              "heading": "Une décision qui semble prise sans l’avoir été",
+              "text": "Garder la trace de ce qui a été accepté devient incertain, et une réponse polie peut passer pour un accord.",
+              "examples": [
+                "Farid ne sait plus s’il a déjà dit oui à une restauration complète.",
+                "Il sent le mot oui venir seul quand Gilles résume la discussion."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour protéger une décision quand l’attention se partage",
+          "points": [
+            {
+              "heading": "Une question à la fois",
+              "objective": "Ramener la conversation à une charge que Farid peut suivre.",
+              "exercise": [
+                "Demander à l’interlocuteur de poser ses questions l’une après l’autre.",
+                "Répondre ou dire « je réfléchis » avant de passer à la suivante.",
+                "Accepter un silence le temps que la réponse se forme."
+              ],
+              "benefit": "La discussion ralentit, mais chaque réponse correspond mieux à ce que Farid pense."
+            },
+            {
+              "heading": "Poser l’objet avant de parler",
+              "objective": "Éviter qu’une manipulation et une discussion se superposent.",
+              "exercise": [
+                "Demander que le poste soit refermé ou posé pendant l’échange.",
+                "Reprendre la manipulation seulement après la question traitée.",
+                "Prévoir un moment séparé pour regarder l’intérieur des postes."
+              ],
+              "benefit": "L’attention n’a plus à se partager entre deux demandes."
+            },
+            {
+              "heading": "Reporter une décision importante par écrit",
+              "objective": "Ne pas engager le don sur une réponse donnée dans la surcharge.",
+              "exercise": [
+                "Demander que les propositions soient écrites et remises.",
+                "Relire ces propositions à un moment plus favorable, seul ou avec quelqu’un de choisi.",
+                "Répondre par écrit, en gardant une copie."
+              ],
+              "benefit": "La décision reste celle de Farid ; un proche peut aider à relire sans répondre à sa place."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Refermer le poste avant de répondre",
+      "ending": "Farid pose la main à plat sur l’établi. « Gilles, refermez-le, s’il vous plaît. On ne parle pas en même temps qu’on ouvre. » Gilles s’excuse, revisse le dos de la radio de bakélite crème. Farid attend que la dernière vis soit en place.\n\n« Je n’ai rien décidé pour les modifications. Écrivez-moi ce que vous proposez, poste par poste. Je vous répondrai par lettre. » Gilles hésite, puis arrache une page de son carnet et commence une liste. Farid ne signe rien ce jour-là. Quand Gilles part, la question reste entière : combien de postes Farid laissera-t-il toucher ? Il n’en sait rien encore, mais c’est de nouveau à lui de le dire.",
+      "conclusion": "Dans la démence à corps de Lewy, la difficulté à partager son attention peut menacer une décision plus que la mémoire elle-même. En demandant de refermer le poste et de recevoir les propositions par écrit, Farid ne règle pas la question des modifications ; il la garde ouverte et à lui.",
+      "mirror": [
+        "Anis n’était pas là, mais il recevra peut-être la liste de Gilles. Plutôt que de demander « alors, tu as dit oui ? », il peut proposer : « Tu veux qu’on relise sa page ensemble un matin, sans décider tout de suite ? » Un proche qui assiste à une telle visite peut aussi demander une pause ou qu’on pose l’objet, sans parler à la place de la personne. Il n’a pas à négocier le don lui-même ; il aide seulement à ce que les questions arrivent une par une."
+      ],
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "mckeith-2017",
+        "has-fiche14-communiquer"
+      ],
+      "continuity": {
+        "choice": "Farid demande à Gilles de refermer la radio de bakélite crème et d’écrire ses propositions poste par poste ; il ne signe rien et annonce une réponse par lettre. La décision sur les modifications reste ouverte.",
+        "next": "Le lundi soir, seul dans l’atelier en rangeant les étiquettes, Farid verra un enfant assis sur l’établi ; Anis appellera au même moment pour l’horaire de la visite du jeudi."
+      },
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 4,
+      "slug": "farid-hallucinations-visuelles-enfant-etabli",
+      "title": "Une hallucination visuelle accueillie sans la contredire",
+      "description": "Un soir, Farid voit un enfant calme assis sur l’établi. Comment accueillir une hallucination visuelle sans la confirmer ni la contester.",
+      "context": "à l’atelier, un soir au téléphone",
+      "topics": [
+        "hallucinations visuelles",
+        "accueillir sans confronter",
+        "sécurité immédiate"
+      ],
+      "clinical_focus": "Hallucinations visuelles bien formées dans l’atelier",
+      "clinical_intro": "Dans la démence à corps de Lewy, il arrive que la personne voie de façon répétée des scènes précises, souvent des personnes ou des enfants, que les autres ne voient pas. Elle peut en parler avec plus ou moins de recul et d’émotion. Quand Farid décrit un petit garçon dans l’atelier, la réponse de son fils compte davantage pour son apaisement que la question de savoir qui a raison.",
+      "opening": "Lundi soir, un peu après vingt heures. Farid range dans une boîte à chaussures les étiquettes de carton déjà remplies, par ordre d’année. La page de Gilles Perrot, le président du musée, est posée sous le poste à cadran vert ; il la lira un autre matin. Dehors, la rue est calme. Seule la petite lampe de l’établi est allumée.\n\nQuand il lève la tête, un enfant est assis sur le bord de l’établi. Sept ou huit ans, un pull bleu, les jambes qui pendent et se balancent un peu. Il ne dit rien, il regarde les postes. Farid ne bouge pas. L’enfant n’a pas l’air perdu, ni triste. Il est là, simplement, comme un client qui attend que la réparation soit finie.\n\nLe téléphone sonne. C’est Anis, son fils, professeur de technologie, qui appelle de chez lui. « Papa, je voulais savoir à quelle heure Mme Diallo passe jeudi, pour que je ne t’appelle pas en plein milieu. » Mme Diallo, l’assistante de soins en gérontologie de l’équipe de soutien au domicile, vient chaque jeudi matin. Farid répond « neuf heures », puis ajoute, à voix basse : « Il y a un petit garçon chez moi. Sur l’établi. »\n\nÀ l’autre bout, Anis inspire. La phrase est prête dans sa bouche : il n’y a personne, papa, tu es seul. Il connaît la maison, il sait que la porte du garage est fermée à clé. Il s’arrête pourtant. Il se rappelle ce que la docteure Tissier, la neurologue de son père, avait dit lors de l’annonce du diagnostic : contredire n’aide pas, entrer dans le récit non plus. Il entend la respiration de son père, régulière. Il cherche une autre question.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Voir ce que les autres ne voient pas",
+          "text": "Les hallucinations visuelles récurrentes, souvent précises et bien formées, font partie des signes centraux de la démence due à une maladie à corps de Lewy : il peut s’agir de personnes, d’enfants ou d’animaux, parfois d’une simple impression de présence. Beaucoup de personnes peuvent les décrire ; leur recul et leur émotion varient d’une fois à l’autre. Contester l’expérience risque d’isoler la personne ou de l’inquiéter davantage, la confirmer peut l’enfermer dans un récit qu’elle ne partage pas avec son entourage. Ce qui aide plutôt, c’est d’accueillir l’émotion et de vérifier qu’il n’y a pas de danger immédiat. Ce soir, Farid ne paraît pas effrayé : il décrit sobrement un enfant calme. La question utile pour Anis n’est donc pas « est-ce vrai ? », mais « comment vas-tu, maintenant ? ». La fréquence de ces expériences et ce qu’elles demandent relèvent ensuite de la neurologue, si Farid accepte qu’on lui en parle."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment une hallucination visuelle peut-elle se présenter ?",
+          "points": [
+            {
+              "heading": "Une scène précise et calme",
+              "text": "L’image peut être détaillée et stable, sans rien de spectaculaire.",
+              "examples": [
+                "Farid voit un enfant d’environ sept ans, en pull bleu, assis sur l’établi.",
+                "L’enfant balance les jambes et regarde les postes sans parler."
+              ]
+            },
+            {
+              "heading": "Un moment souvent tranquille",
+              "text": "Ces expériences surviennent fréquemment dans des moments ordinaires, parfois en lumière faible.",
+              "examples": [
+                "Farid range des étiquettes un soir, seule la petite lampe allumée.",
+                "Rien ne s’est passé juste avant ; la rue est calme."
+              ]
+            },
+            {
+              "heading": "Un récit plus ou moins partagé",
+              "text": "La personne peut en parler spontanément, à voix basse, sans toujours dire ce qu’elle en pense.",
+              "examples": [
+                "Farid dit à Anis qu’il y a un petit garçon chez lui.",
+                "Il ne demande pas à son fils de confirmer ni d’expliquer."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour accueillir une hallucination sans la confirmer",
+          "points": [
+            {
+              "heading": "Demander comment il se sent",
+              "objective": "S’intéresser à l’émotion plutôt qu’à la réalité de l’image.",
+              "exercise": [
+                "Poser une question simple : « Est-ce que ça t’inquiète ? »",
+                "Écouter la réponse sans commenter ce qu’il voit.",
+                "Demander s’il a besoin de quelque chose maintenant, ou de quelqu’un."
+              ],
+              "benefit": "La personne se sent entendue sans être contredite ni confortée dans l’image."
+            },
+            {
+              "heading": "Proposer un geste qu’il choisit",
+              "objective": "Offrir un appui concret, décidé par Farid, sans en faire un remède.",
+              "exercise": [
+                "Suggérer une option, par exemple allumer la grande lampe du plafond.",
+                "Lui laisser accepter, refuser ou choisir autre chose.",
+                "Respecter ce qu’il décide de faire ensuite."
+              ],
+              "benefit": "Un geste familier peut apaiser le moment ; il ne traite pas les hallucinations."
+            },
+            {
+              "heading": "En parler à la neurologue avec son accord",
+              "objective": "Que l’équipe de soins soit informée sans que le proche raconte à la place de la personne.",
+              "exercise": [
+                "Noter le jour et l’heure, sans décrire l’image à sa place.",
+                "Demander plus tard à Farid ce qu’il accepte qu’on transmette.",
+                "Appeler les secours si une détresse importante ou un danger apparaît."
+              ],
+              "benefit": "La neurologue peut évaluer ces expériences ; aucune décision de traitement n’est prise par les proches."
+            }
+          ]
+        }
+      ],
+      "ending_title": "La grande lampe du plafond",
+      "ending": "Anis finit par demander : « Tu es inquiet, papa ? » Un silence. « Non. Je suis fatigué. » Anis demande s’il veut qu’il vienne ; Farid dit que non, qu’il va allumer la grande lampe et monter. Anis répond seulement : « D’accord. Appelle-moi si ça change. »\n\nFarid appuie sur l’interrupteur près de la porte. Le néon du plafond grésille, puis éclaire tout l’atelier. Il ne regarde pas l’établi plus longtemps qu’il ne faut, ferme la porte du garage et monte se coucher. Chez lui, Anis écrit dans les notes de son téléphone : « lundi, 20 h 15, papa dit voir quelqu’un, calme, fatigué ». Il n’ajoute rien. Il ne sait pas si son père voudra en reparler demain.",
+      "conclusion": "Les hallucinations visuelles de la démence à corps de Lewy peuvent être calmes et précises. Anis renonce à contredire son père et demande comment il se sent ; Farid choisit la lumière et le sommeil. L’expérience n’est ni niée ni confirmée, et la suite reste ouverte.",
+      "mirror": [
+        "Au téléphone, Anis avait une phrase prête : « Il n’y a personne. » Il a préféré : « Tu es inquiet ? » Un proche peut faire de même, puis proposer un geste simple, comme allumer une lampe, et demander s’il doit venir. Il n’a pas à décider si l’image existe, ni à interpréter ce qu’elle veut dire. Si la personne est très angoissée, se met en danger ou paraît soudain très confuse, il appelle le 15 ; sinon, il note l’heure et laisse à la personne le choix d’en parler."
+      ],
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "mckeith-2017",
+        "nice-ng97"
+      ],
+      "continuity": {
+        "choice": "Anis ne contredit ni ne confirme ; il demande si son père est inquiet. Farid répond qu’il est fatigué, allume la grande lampe, ferme l’atelier et monte se coucher. Anis note « lundi, 20 h 15 » sans rien ajouter. Mme Diallo passe jeudi à neuf heures.",
+        "next": "Mardi matin, Anis passe avant le collège ; Farid refusera de parler de la veille, et ils devront décider de ce qui peut être transmis à la docteure Tissier, dont la consultation est prévue dix jours plus tard."
+      },
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 5,
+      "slug": "farid-accord-partage-informations-neurologue",
+      "title": "L’accord pour partager ce qu’on a vu avec la neurologue",
+      "description": "Farid refuse de parler de la veille ; Anis craint de devoir cacher quelque chose. Décider ensemble de ce qui sera transmis à la neurologue.",
+      "context": "à la cuisine, avant le collège",
+      "topics": [
+        "accord pour partager",
+        "droit de garder son récit",
+        "cahier d’observations"
+      ],
+      "clinical_focus": "Choisir ce qui est confié au neurologue",
+      "clinical_intro": "Une personne atteinte de démence garde le droit de décider de ce que l’on dit d’elle, à qui et comment. Ses proches peuvent rapporter un fait observé sans raconter à sa place ce qu’elle a vécu. Quand Farid refuse de parler de la soirée précédente, son fils et lui cherchent comment informer la neurologue sans trahir ni mettre en danger.",
+      "opening": "Mardi, sept heures et quart. Anis, le fils de Farid, professeur de technologie, s’arrête chez son père avant le collège avec deux croissants dans un sac en papier. Farid a fait le café. La cuisine sent le pain grillé ; la radio de la cuisine, la seule qui ne part pas au musée, donne les informations à voix basse.\n\nAnis attend que son père ait bu la moitié de sa tasse. « Hier soir, au téléphone… le petit garçon. Tu veux m’en dire un peu plus ? »\n\nFarid pose sa tasse. Pas brusquement, mais avec soin, au centre de la soucoupe. « Non. Je n’ai pas envie d’en parler. Ni maintenant, ni avec toi. » Il le dit sans colère, comme on refuse un deuxième sucre.\n\nAnis hoche la tête, mais il sent son ventre se nouer. Dans dix jours, vendredi de la semaine prochaine, son père a rendez-vous avec la docteure Tissier, sa neurologue. Anis a pris l’habitude de l’accompagner. Que dira-t-il si elle demande comment vont les soirées ? Il ne veut pas mentir à la médecin, ni raconter derrière le dos de son père une chose que celui-ci garde pour lui. Il a aussi, dans les notes de son téléphone, deux lignes : samedi, 14 h 30 ; lundi, 20 h 15.\n\n« Papa, je ne veux pas avoir de secret avec la docteure. Mais je ne veux pas non plus parler à ta place. »\n\nFarid regarde la radio de la cuisine. « Alors on fait comme à l’atelier. On sépare ce qui se mesure de ce qui se raconte. »",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Ce que l’on transmet et ce qui reste à la personne",
+          "text": "Les recommandations sur l’accompagnement des personnes atteintes de démence insistent sur leur droit de dire quelles informations peuvent être partagées, avec qui et lesquelles. Un proche peut ainsi décrire un fait qu’il a observé, avec une heure, sans raconter l’expérience intérieure que la personne préfère garder. Cette distinction protège à la fois la relation et la qualité des informations données au médecin. Elle a une limite : si un danger apparaît, la sécurité passe avant le secret. Ici, Farid ne refuse pas les soins ; il refuse de rejouer devant son fils une soirée qui lui appartient. Anis, de son côté, ne veut pas devenir le porte-parole de son père. La consultation de la semaine suivante reste le lieu où Farid peut parler lui-même s’il le souhaite, et où la docteure Tissier pourra lui poser ses propres questions."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment la question du partage se pose-t-elle au quotidien ?",
+          "points": [
+            {
+              "heading": "Un refus de raconter la veille",
+              "text": "La personne peut ne pas vouloir revenir sur une expérience, sans pour autant refuser l’aide.",
+              "examples": [
+                "Farid dit qu’il ne veut pas parler du petit garçon, ni maintenant ni avec son fils.",
+                "Il répond calmement, sans colère, et continue son petit-déjeuner."
+              ]
+            },
+            {
+              "heading": "Un proche pris entre deux loyautés",
+              "text": "L’aidant peut craindre de mentir au médecin ou de trahir la confiance de la personne.",
+              "examples": [
+                "Anis redoute la question de la neurologue sur les soirées.",
+                "Il garde dans son téléphone deux heures notées sans savoir quoi en faire."
+              ]
+            },
+            {
+              "heading": "Des faits et des récits mêlés",
+              "text": "Une note peut contenir à la fois un fait observable et l’interprétation d’un proche, ce qui brouille ce qu’on transmet.",
+              "examples": [
+                "« Papa dit voir quelqu’un » relève du récit de Farid, pas d’une observation d’Anis.",
+                "« Regard fixe à 14 h 30 » décrit ce qu’Anis a vu lui-même."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour transmettre avec l’accord de la personne",
+          "points": [
+            {
+              "heading": "Séparer le fait, l’heure et le récit",
+              "objective": "Distinguer ce que le proche a vu de ce que la personne a vécu.",
+              "exercise": [
+                "Écrire dans une colonne ce que le proche a observé lui-même.",
+                "Noter dans une autre le jour et l’heure.",
+                "Laisser le récit de l’expérience à la personne, qui le dira si elle le veut."
+              ],
+              "benefit": "Le médecin reçoit des faits datés, et la personne garde son histoire."
+            },
+            {
+              "heading": "Demander l’accord pour chaque destinataire",
+              "objective": "Que la personne décide qui saura quoi.",
+              "exercise": [
+                "Lire à voix haute chaque ligne que l’on souhaite transmettre.",
+                "Demander : « Je peux le dire à la neurologue ? À l’équipe du jeudi ? »",
+                "Écrire la réponse dans une troisième colonne et la respecter."
+              ],
+              "benefit": "L’accord devient visible et révisable, au lieu de rester supposé."
+            },
+            {
+              "heading": "Laisser la personne parler en consultation",
+              "objective": "Préserver la place de Farid face à sa neurologue.",
+              "exercise": [
+                "Convenir avant le rendez-vous de qui parle en premier.",
+                "Laisser le temps de répondre aux questions du médecin sans compléter.",
+                "Prévenir qu’en cas de danger, le proche parlera aux soignants sans attendre."
+              ],
+              "benefit": "La consultation reste la sienne ; la limite de sécurité est connue à l’avance."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Le cahier à trois colonnes",
+      "ending": "Anis sort de son sac un cahier d’écolier à grands carreaux. Avec la règle de la cuisine, Farid trace trois colonnes : « ce qu’Anis a vu », « quand », « ce que Farid accepte qu’on dise ». Ils recopient la ligne du samedi : regard fixe, réponses à côté, vers 14 h 30. Dans la troisième colonne, Farid écrit lui-même : « oui, à la docteure ».\n\nPour le lundi soir, il réfléchit longtemps, puis dicte une seule phrase : « Il a vu quelqu’un le soir et n’était pas effrayé. » Le reste, il le racontera s’il le souhaite. Anis demande s’il peut ajouter : « s’il y a un danger, je le dirai ». Farid accepte. Anis part au collège à huit heures moins dix, le cahier laissé sur la table de la cuisine. Ni l’un ni l’autre ne sait encore ce que Farid dira vraiment, vendredi prochain.",
+      "conclusion": "Le droit de ne pas raconter une expérience n’empêche pas d’informer la neurologue. Avec le cahier à trois colonnes, Farid choisit ce qui sera transmis, Anis rapporte seulement ce qu’il a vu, et la limite du danger est posée à l’avance entre eux.",
+      "mirror": [
+        "Quand Farid pose sa tasse et refuse d’en parler, Anis pourrait insister au nom de la santé de son père. Il peut plutôt dire : « D’accord. Est-ce qu’on décide ensemble de ce que je peux dire à la docteure ? » Un proche peut ensuite séparer ce qu’il a vu de ce que la personne a vécu, et demander l’accord ligne par ligne. Il n’a pas à garder un secret qui mettrait quelqu’un en danger : il le dit à l’avance, une fois, sans en faire une menace."
+      ],
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "nice-ng97",
+        "has-fiche14-communiquer"
+      ],
+      "continuity": {
+        "choice": "Farid et Anis ouvrent un cahier à trois colonnes (ce qu’Anis a vu, quand, ce que Farid accepte qu’on dise). Farid autorise la ligne du samedi et une seule phrase sur le lundi soir : il a vu quelqu’un et n’était pas effrayé. Anis dira tout danger. Le cahier reste sur la table de la cuisine.",
+        "next": "La nuit du jeudi au vendredi de la semaine suivante, veille de la consultation, Anis dormira dans la chambre d’amis pour conduire son père tôt, et il observera autre chose vers trois heures."
+      },
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 6,
+      "slug": "farid-sommeil-paradoxal-reves-agis-consultation",
+      "title": "Des rêves agis pendant le sommeil paradoxal",
+      "description": "À trois heures, Farid parle fort et renverse sa lampe en rêvant qu’il retient un poste. Ce que sont les rêves agis et à qui en parler.",
+      "context": "une nuit avant la consultation",
+      "topics": [
+        "sommeil paradoxal",
+        "décrire sans interpréter",
+        "sécurité de la chambre"
+      ],
+      "clinical_focus": "Rêves agis pendant le sommeil paradoxal",
+      "clinical_intro": "Certaines personnes bougent, parlent ou se débattent pendant le sommeil paradoxal, comme si elles vivaient leur rêve. Ce trouble du comportement en sommeil paradoxal fait partie des signes possibles de la démence à corps de Lewy et commence souvent des années avant les autres. D’autres causes peuvent lui ressembler. Une nuit chez son père permet à Anis de décrire ce qu’il a entendu.",
+      "opening": "Jeudi soir, Anis, le fils de Farid, professeur de technologie, s’installe dans la chambre d’amis. Il a échangé sa première heure de cours du vendredi avec une collègue : la consultation de la docteure Tissier, la neurologue de son père, est à huit heures trente à l’hôpital, et il préfère partir d’ici. Le cahier à trois colonnes est dans son sac.\n\nVers trois heures, un bruit le réveille. La voix de son père, forte, presque un cri : « Tiens-le ! Tiens-le par en dessous ! » Puis un choc sourd contre le bois, et quelque chose qui tombe. Anis se lève, allume la lumière du couloir et s’arrête sur le seuil de la chambre. La lampe de chevet est par terre, l’abat-jour cabossé. Son père a le bras tendu hors du lit, la main ouverte, les yeux fermés.\n\nAnis l’appelle doucement, sans le toucher : « Papa. Papa, c’est Anis. » Il répète deux fois. Farid ouvre les yeux, cligne, regarde la lumière du couloir. Il respire vite. « Le poste glissait de l’établi. Le gros poste de salon. Je le retenais. » Il se tourne vers la lampe au sol et soupire.\n\nAnis ramasse la lampe, vérifie qu’il n’y a pas de verre. Son père ne s’est pas blessé. Assis sur le bord du lit, Farid dit, presque amusé : « Ça fait des années, tu sais. Ta mère disait que je réparais la nuit. » Anis ne le savait pas. Il retourne se coucher, mais ne se rendort pas avant cinq heures.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Quand le corps suit le rêve",
+          "text": "Pendant le sommeil paradoxal, le corps est normalement relâché alors que les rêves sont les plus vifs. Dans le trouble du comportement en sommeil paradoxal, ce relâchement ne se fait pas complètement : la personne peut parler, crier ou faire des gestes qui accompagnent le contenu de son rêve. Ce trouble fait partie des signes décrits dans la démence due à une maladie à corps de Lewy et apparaît souvent bien des années avant les autres, ce qui rejoint le souvenir de Farid. D’autres situations peuvent pourtant lui ressembler, comme des réveils confus ou certains troubles respiratoires du sommeil : c’est à l’équipe de soins de faire la part des choses, éventuellement avec une consultation spécialisée du sommeil. Anis, lui, a vu et entendu une scène précise : une phrase criée, un bras tendu, une lampe tombée, un réveil progressif. C’est cette description, et non une interprétation, qui peut être utile à la neurologue."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment des rêves agis peuvent-ils se manifester la nuit ?",
+          "points": [
+            {
+              "heading": "Des paroles et des gestes pendant le sommeil",
+              "text": "La personne endormie parle ou bouge en lien avec ce qu’elle rêve.",
+              "examples": [
+                "Farid crie « Tiens-le par en dessous ! » les yeux fermés.",
+                "Il tend le bras hors du lit, la main ouverte."
+              ]
+            },
+            {
+              "heading": "Un rêve que l’on peut raconter au réveil",
+              "text": "Une fois réveillée, la personne se souvient parfois d’un rêve qui correspond aux gestes observés.",
+              "examples": [
+                "Farid raconte qu’il retenait un gros poste qui glissait de l’établi.",
+                "Ses paroles pendant le sommeil collent à ce récit."
+              ]
+            },
+            {
+              "heading": "Un risque matériel dans la chambre",
+              "text": "Les mouvements peuvent heurter un meuble ou faire tomber un objet proche.",
+              "examples": [
+                "La lampe de chevet est renversée, l’abat-jour cabossé.",
+                "La table de chevet est collée au lit, à portée du bras."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour décrire une nuit agitée et sécuriser la chambre",
+          "points": [
+            {
+              "heading": "Décrire ce qui a été vu et entendu",
+              "objective": "Donner à la neurologue des faits précis, avec l’accord de la personne.",
+              "exercise": [
+                "Noter l’heure, les paroles entendues et les gestes vus.",
+                "Écrire séparément ce que la personne a raconté au réveil.",
+                "Lui demander le matin si l’on peut lire ces lignes en consultation."
+              ],
+              "benefit": "La description aide l’évaluation, sans que le proche pose un diagnostic."
+            },
+            {
+              "heading": "Discuter de la sécurité de la chambre",
+              "objective": "Limiter les risques matériels la nuit, en accord avec la personne et l’équipe.",
+              "exercise": [
+                "Repérer avec la personne les objets qui peuvent tomber ou blesser.",
+                "En parler à l’équipe de soutien ou à l’ergothérapeute avant de tout déplacer.",
+                "Laisser la personne choisir ce qu’elle accepte de changer."
+              ],
+              "benefit": "La chambre peut devenir plus sûre ; cet aménagement ne traite pas le trouble."
+            },
+            {
+              "heading": "Demander s’il faut un avis spécialisé",
+              "objective": "Laisser aux soignants le choix des examens.",
+              "exercise": [
+                "Signaler à la neurologue depuis quand ces nuits agitées existent, si la personne l’accepte.",
+                "Demander si une consultation du sommeil est utile.",
+                "Ne rien prendre ni changer pour dormir sans l’avis du médecin."
+              ],
+              "benefit": "L’équipe décide des examens, et le proche n’a pas à trancher seul."
+            }
+          ]
+        }
+      ],
+      "ending_title": "La table de chevet déplacée",
+      "ending": "Au petit-déjeuner, Anis écrit dans le cahier : « vendredi, 3 h, parle fort, bras tendu, lampe tombée, réveil en l’appelant ». Il demande s’il pourra le lire. Farid lit la ligne, ajoute lui-même « rêve du poste qui glisse », et coche la troisième colonne.\n\nÀ huit heures trente, dans le bureau de la docteure Tissier, Farid parle en premier : « J’ai vu quelqu’un un soir. Je n’étais pas effrayé. C’est tout ce que j’en dis. » La neurologue note sans insister. Anis lit ensuite la ligne de la nuit, puis celle du samedi. La docteure Tissier pose des questions sur la somnolence dans la journée, les siestes, depuis quand les nuits sont agitées. Elle propose une consultation spécialisée du sommeil et conseille de parler de la chambre avec l’équipe du jeudi. Avant qu’ils partent, elle remplit avec eux une carte au format portefeuille : le diagnostic, le numéro de son service, et une phrase demandant à toute équipe soignante de la contacter avant de modifier un traitement.\n\nLe soir même, Farid tire la table de chevet à un bras du lit et pose la lampe sur la commode. Il ne sait pas si ses nuits changeront. Il sait que la lampe, au moins, ne tombera plus.",
+      "conclusion": "Les rêves agis du sommeil paradoxal peuvent précéder de longtemps les autres signes de la démence à corps de Lewy. En décrivant une nuit précise avec l’accord de son père, Anis donne à la neurologue des faits utiles ; Farid garde la parole sur ce qu’il a vécu et accepte un premier changement dans sa chambre.",
+      "mirror": [
+        "Devant son père qui crie les yeux fermés, Anis a allumé le couloir et l’a appelé par son prénom depuis le seuil, sans le secouer. Un proche peut faire de même, puis dire au réveil : « Tu rêvais, je suis là. Tu veux qu’on note ça pour la docteure ? » Il n’a pas à expliquer le trouble ni à changer les habitudes de sommeil de son propre chef. Si la personne s’est blessée ou ne se réveille pas normalement, il appelle le 15."
+      ],
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "mckeith-2017",
+        "nice-ng97"
+      ],
+      "continuity": {
+        "choice": "Avec l’accord de Farid, Anis lit en consultation la ligne de la nuit ; la docteure Tissier propose une consultation spécialisée du sommeil, conseille d’aborder la chambre avec l’équipe du jeudi et remplit une carte (diagnostic, contact de son service, demande de la joindre avant toute modification de traitement). Farid éloigne la table de chevet.",
+        "next": "Le samedi suivant, de retour à l’atelier, Farid voudra resserrer le cadran de la radio de bakélite crème, et c’est le geste lui-même qui deviendra plus lent."
+      },
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 7,
+      "slug": "farid-lenteur-tremblement-geste-fer-a-souder",
+      "title": "La lenteur et le tremblement de repos changent le geste de métier",
+      "description": "Le tournevis tremble quand la main repose, chaque vis prend longtemps : Farid hésite devant son fer à souder. Garder son savoir-faire en confiant le geste.",
+      "context": "à l’atelier, un samedi matin",
+      "topics": [
+        "signes parkinsoniens",
+        "savoir-faire préservé",
+        "déléguer un geste à risque"
+      ],
+      "clinical_focus": "Lenteur des gestes et tremblement de repos",
+      "clinical_intro": "La démence à corps de Lewy s’accompagne souvent de signes proches de ceux de la maladie de Parkinson : gestes plus lents, tremblement quand la main est au repos, raideur. Ils modifient la façon de faire sans effacer le savoir. Devant une radio à resserrer et un fer à souder, Farid doit décider de ce qu’il garde et de ce qu’il confie.",
+      "opening": "Samedi, neuf heures et demie, le lendemain de la consultation. Farid s’installe à l’établi avec la radio de bakélite crème, celle que Gilles Perrot, le président du musée Les Lampes du Faubourg, avait ouverte lors de sa visite à l’atelier. Le cadran a un peu de jeu ; deux vis à resserrer, rien de plus. Anis, son fils, est chez lui avec ses copies à corriger. La page des propositions de Gilles est toujours sous le poste à cadran vert, sans réponse.\n\nFarid pose le poignet sur le bois pour viser la première vis. Le tournevis se met à trembler, un petit va-et-vient régulier, la pointe qui danse autour de la fente. Quand il lève la main pour tourner, le tremblement diminue, mais le geste est lent, comme freiné. La première vis lui prend plusieurs minutes. La deuxième aussi. Autrefois, il faisait dix postes dans une matinée.\n\nÀ côté, sur son support, le fer à souder attend. Une soudure du cadran est sèche, il l’a vue en ouvrant. Il l’a refaite des milliers de fois. Il branche le fer, regarde le voyant rouge s’allumer, puis regarde sa main droite posée sur l’établi, qui tremble encore. Il pense au fil de soudure qu’il faut tenir de l’autre main, à la pointe brûlante à quelques millimètres du boîtier.\n\nIl ne se trouve pas maladroit. Ses doigts savent où aller. Mais il y a désormais un écart entre ce qu’ils savent et ce qu’ils font, et il n’aime pas l’idée de le découvrir avec un fer chaud à la main.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Des signes moteurs qui changent la façon de faire",
+          "text": "La démence due à une maladie à corps de Lewy peut comporter des signes dits parkinsoniens : une lenteur des mouvements, un tremblement qui apparaît quand le membre est au repos, ou une raideur. Un seul de ces signes peut être présent. Ils modifient la façon d’agir sans faire disparaître les connaissances et l’habileté acquises. Chez une personne âgée, d’autres causes, comme une arthrose ou une douleur articulaire, peuvent aussi gêner les gestes : elles méritent d’être signalées au médecin pour ne pas être confondues. Chez Farid, la scène montre le contraste : le tremblement apparaît quand le poignet repose sur l’établi et se réduit quand il bouge, la vis est bien placée mais lentement serrée. Son métier reste intact dans sa tête ; c’est l’exécution qui a changé. La question qui se pose n’est pas « est-il encore capable ? », mais « quel geste garder, et lequel confier ? »."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment la lenteur et le tremblement apparaissent-ils dans un geste précis ?",
+          "points": [
+            {
+              "heading": "Un tremblement quand la main est posée",
+              "text": "Le tremblement de repos se voit surtout quand le membre ne fait rien et peut diminuer pendant le mouvement.",
+              "examples": [
+                "La pointe du tournevis danse autour de la fente quand le poignet repose sur l’établi.",
+                "Le tremblement diminue quand Farid lève la main pour tourner."
+              ]
+            },
+            {
+              "heading": "Un geste freiné",
+              "text": "La lenteur allonge chaque action, même simple et bien connue.",
+              "examples": [
+                "Chaque vis lui prend plusieurs minutes.",
+                "Il compare à l’époque où il réparait dix postes dans une matinée."
+              ]
+            },
+            {
+              "heading": "Un écart entre savoir et faire",
+              "text": "La personne sait exactement ce qu’il faut faire, mais l’exécution ne suit plus au même rythme.",
+              "examples": [
+                "Farid repère la soudure sèche en un coup d’œil.",
+                "Il hésite à tenir le fer et le fil de soudure en même temps."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour garder son métier quand le geste change",
+          "points": [
+            {
+              "heading": "Décomposer le geste et choisir sa part",
+              "objective": "Garder les étapes qui restent sûres et satisfaisantes.",
+              "exercise": [
+                "Lister les étapes d’une réparation, du diagnostic à la fermeture du boîtier.",
+                "Marquer celles que Farid veut et peut continuer à faire.",
+                "Repérer celles qui présentent un risque de brûlure ou de chute d’objet."
+              ],
+              "benefit": "Le projet reste celui de Farid, avec une part de gestes qu’il choisit."
+            },
+            {
+              "heading": "Demander un avis d’ergothérapie",
+              "objective": "Adapter le poste de travail avec un professionnel.",
+              "exercise": [
+                "Contacter l’équipe de soutien pour demander une visite de l’ergothérapeute.",
+                "Montrer l’établi, les outils et les gestes qui posent problème.",
+                "Signaler aussi à la neurologue toute douleur ou raideur articulaire."
+              ],
+              "benefit": "L’ergothérapeute peut proposer un aménagement ; cela ne traite pas les signes moteurs."
+            },
+            {
+              "heading": "Confier le geste à risque et diriger l’opération",
+              "objective": "Transmettre le geste dangereux sans perdre la main sur la réparation.",
+              "exercise": [
+                "Choisir une personne compétente à qui confier le geste.",
+                "Lui transmettre ses notes et ses réglages.",
+                "Être présent ou relire le résultat, s’il le souhaite."
+              ],
+              "benefit": "Le savoir de Farid continue de servir, sans qu’il prenne un risque qu’il ne veut pas."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Le fer débranché",
+      "ending": "Farid débranche le fer avant que la pointe soit chaude et le repose sur son support. Il prend son téléphone et écrit, lentement, à Maryse, la technicienne bénévole du musée : « Soudure sèche sur la bakélite crème, côté cadran. Je vous dicterai les réglages, vous tiendrez le fer. Je garde les vis et les étiquettes. » Elle répond une heure plus tard : « Avec plaisir, vous me direz quand. »\n\nIl ouvre ensuite le cahier à trois colonnes et écrit lui-même : « samedi, tremblement de la main droite au repos, gestes lents ». Troisième colonne : « oui, à la docteure ». Il laisse un message sur le répondeur de l’équipe de soutien. Lundi, la secrétaire rappelle : Hugo Lambert, l’ergothérapeute, passera jeudi vers onze heures, après la visite de Mme Diallo, l’assistante de soins en gérontologie de la même équipe, pour regarder l’établi. Farid range le fer à souder dans le tiroir du bas. Il n’a pas décidé de ne plus jamais s’en servir ; il a décidé que ce n’était pas à lui de le tenir pour l’instant.",
+      "conclusion": "La lenteur et le tremblement de repos de la démence à corps de Lewy changent l’exécution des gestes sans effacer le savoir. Farid confie le fer à Maryse tout en gardant la direction de la réparation, signale lui-même ces signes pour sa neurologue et attend l’avis de l’ergothérapeute.",
+      "mirror": [
+        "Un proche qui voit le tournevis trembler peut avoir envie de prendre l’outil. Il peut plutôt demander : « Quelle partie tu veux garder, et laquelle tu veux confier ? » S’il remarque un fer branché et une main qui tremble, il peut dire calmement ce qu’il voit et proposer de débrancher ensemble, sans retirer à la personne tout son atelier. Les décisions sur l’aménagement reviennent à la personne et à l’ergothérapeute, et les signes moteurs à la neurologue."
+      ],
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "mckeith-2017",
+        "nice-ng97"
+      ],
+      "continuity": {
+        "choice": "Farid débranche le fer et le range ; à partir de là, il ne l’utilise plus. Maryse tiendra le fer selon ses réglages ; il garde les vis et les étiquettes. Il note lui-même le tremblement dans le cahier. Hugo Lambert doit venir jeudi vers onze heures, après Mme Diallo (neuf heures).",
+        "next": "Le jeudi suivant, pendant la visite de Mme Diallo et avant l’arrivée d’Hugo, Farid tombera en voulant attraper le transistor rouge sur l’étagère haute, et une réponse urgente sera nécessaire."
+      },
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 8,
+      "slug": "farid-chute-absence-reponse-appel-15",
+      "title": "Une chute suivie d’une absence de réponse demande un avis urgent",
+      "description": "Farid tombe en attrapant un transistor et ne répond plus quelques secondes. Mme Diallo appelle le 15 : la cause doit être cherchée par les médecins.",
+      "context": "à l’atelier, un jeudi matin",
+      "topics": [
+        "chute et malaise",
+        "appeler le 15",
+        "ne pas présumer la cause"
+      ],
+      "clinical_focus": "Une chute soudaine demande un avis urgent",
+      "clinical_intro": "Quand une personne tombe et ne répond plus, même quelques secondes, il faut un avis médical urgent pour en chercher la cause. Un diagnostic déjà connu ne permet pas de deviner ce qui s’est passé. Chez Farid, une chute pendant la visite de l’assistante de soins oblige à suspendre le projet du jour et à laisser les médecins décider.",
+      "opening": "Jeudi, neuf heures quarante. Mme Diallo, assistante de soins en gérontologie de l’équipe de soutien au domicile, est arrivée à neuf heures comme chaque semaine. Farid lui a parlé du poste qui glissait dans son rêve et de la table de chevet déplacée ; il plaisantait sur la lampe « enfin à l’abri ». Puis il l’a entraînée dans l’atelier : il veut compléter l’étiquette du transistor rouge, la ligne restée vide sur l’origine du haut-parleur. Hugo Lambert, l’ergothérapeute, doit passer à onze heures.\n\nLe transistor est sur l’étagère haute. Farid se lève vite de son tabouret et tend le bras. Il chancelle, sa main manque le rebord, et il tombe sur le côté, contre le pied de l’établi. Mme Diallo est à deux pas. Elle s’agenouille, l’appelle par son nom. Farid ne répond pas. Ses yeux sont ouverts mais ne la regardent pas. Elle compte dans sa tête : quatre, cinq, six secondes.\n\nPuis il cligne des yeux et la voit. « Ce n’est rien. Aidez-moi à me relever, je veux finir l’étiquette. » Sa voix est un peu pâteuse. Il essaie de prendre appui sur le tabouret.\n\nMme Diallo pose une main sur son épaule. « Restez allongé, monsieur Farid. Je reste là. » Elle a déjà son téléphone dans l’autre main. Elle ne cherche pas à savoir pourquoi il est tombé. Elle sait seulement qu’il n’a pas répondu pendant plusieurs secondes, et que ce n’est pas à elle d’en décider.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Une chute avec perte de réponse n’est pas un incident ordinaire",
+          "text": "Une chute suivie d’une absence de réponse, même brève, demande un avis médical urgent, quel que soit l’âge ou le diagnostic déjà connu. Dans la démence à corps de Lewy, des chutes répétées, des malaises ou des épisodes transitoires où la personne ne répond plus font partie des signes possibles ; mais ils sont parfois difficiles à distinguer d’un vrai malaise, et bien d’autres causes peuvent provoquer une chute. Une personne atteinte de démence est aussi plus exposée à une confusion aiguë, qui se distingue de son état habituel et doit être évaluée. Mme Diallo ne choisit donc entre aucune de ces hypothèses. Elle part de ce qu’elle a vu : un homme qui allait bien à neuf heures, une chute en se levant vite, six secondes sans réponse, une voix pâteuse. Ce sont ces faits que le médecin régulateur du 15 a besoin de connaître pour décider de la suite."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment reconnaître qu’une chute appelle une réponse urgente ?",
+          "points": [
+            {
+              "heading": "Un moment sans réponse",
+              "text": "La personne ne réagit plus à son nom ou à la voix, même pendant quelques secondes.",
+              "examples": [
+                "Farid a les yeux ouverts mais ne regarde pas Mme Diallo qui l’appelle.",
+                "Elle compte six secondes avant qu’il cligne des yeux."
+              ]
+            },
+            {
+              "heading": "Un changement par rapport à l’habitude",
+              "text": "Après la chute, la personne n’est pas tout à fait comme quelques minutes plus tôt.",
+              "examples": [
+                "Sa voix est pâteuse alors qu’il plaisantait juste avant.",
+                "À neuf heures, il racontait sa nuit avec précision."
+              ]
+            },
+            {
+              "heading": "Une envie de minimiser",
+              "text": "La personne peut vouloir reprendre aussitôt son activité, ce qui ne dit rien de la cause.",
+              "examples": [
+                "Farid dit que ce n’est rien et veut finir l’étiquette.",
+                "Il essaie de se relever en s’appuyant sur le tabouret."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour réagir à une chute inquiétante",
+          "points": [
+            {
+              "heading": "Appeler le 15 et suivre les consignes",
+              "objective": "Obtenir sans délai l’avis d’un médecin régulateur.",
+              "exercise": [
+                "Appeler le 15, ou le 112, dès que la personne ne répond pas ou paraît changée.",
+                "Rester près d’elle et ne pas la relever sans l’accord du régulateur.",
+                "Répondre aux questions et faire ce qui est demandé jusqu’à l’arrivée des secours."
+              ],
+              "benefit": "La décision repose sur un médecin, pas sur une supposition à partir du diagnostic."
+            },
+            {
+              "heading": "Transmettre l’état habituel et l’heure",
+              "objective": "Permettre aux soignants de mesurer le changement.",
+              "exercise": [
+                "Dire à quelle heure la chute a eu lieu et combien de temps la personne n’a pas répondu.",
+                "Décrire comment elle était juste avant, en mots simples.",
+                "Préciser le diagnostic connu et où se trouvent la liste des traitements et le contact du neurologue."
+              ],
+              "benefit": "Les équipes disposent d’un point de comparaison pour chercher la cause."
+            },
+            {
+              "heading": "Reporter les engagements ordinaires",
+              "objective": "Libérer la journée pour l’évaluation médicale.",
+              "exercise": [
+                "Prévenir les personnes attendues que la visite est annulée.",
+                "Laisser l’objet ou la tâche en cours en place, sans chercher à la terminer.",
+                "Prévenir le proche désigné, en lui disant seulement ce qui est sûr."
+              ],
+              "benefit": "Rien d’autre ne vient compliquer la prise en charge ; le projet attendra."
+            }
+          ]
+        }
+      ],
+      "ending_title": "L’étiquette attend sur l’établi",
+      "ending": "Mme Diallo appelle le 15 sans attendre. Au médecin régulateur, elle dit l’heure, la chute en se levant, les six secondes sans réponse, la voix pâteuse, et qu’il allait comme d’habitude à neuf heures. Elle précise que Farid a une démence à corps de Lewy suivie par une neurologue, que la liste de ses traitements est sur le réfrigérateur et que sa carte est dans son portefeuille. On lui demande de ne pas le relever, de rester près de lui et de rappeler si quelque chose change. Elle le fait.\n\nPendant l’attente, elle appelle Anis, le fils de Farid, au collège : « Votre père est tombé, il a été quelques secondes sans répondre, les secours arrivent. Il parle. » Elle prévient aussi le secrétariat pour qu’Hugo ne vienne pas à onze heures. Farid proteste encore un peu, puis se tait. L’équipe des secours l’examine et décide de l’emmener aux urgences. Mme Diallo glisse son portefeuille dans la poche de sa veste. Sur l’établi, l’étiquette du transistor rouge reste avec sa ligne vide.",
+      "conclusion": "Une chute avec absence de réponse demande un avis urgent, et sa cause n’est pas déduite de la démence à corps de Lewy déjà connue. Mme Diallo appelle le 15, transmet des faits précis et reporte le reste de la matinée ; Farid part aux urgences, son projet suspendu pour la journée.",
+      "mirror": [
+        "Farid voulait se relever et finir son étiquette. Un proche présent peut répondre : « On la finira plus tard. Pour l’instant, je reste avec toi et j’appelle le 15. » Il n’a pas à deviner si la chute vient de la maladie ou d’autre chose, ni à attendre de voir si cela passe. Une fois les secours prévenus, il peut dire ce qu’il a vu, l’heure et l’état habituel, puis laisser les soignants décider, même si la personne minimise."
+      ],
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "service-public-15",
+        "mckeith-2017"
+      ],
+      "continuity": {
+        "choice": "Mme Diallo appelle le 15 sans attendre, transmet l’heure, les six secondes sans réponse et l’état habituel, signale le diagnostic, la liste des traitements sur le réfrigérateur et la carte dans le portefeuille. Elle prévient Anis et annule la visite d’Hugo. Les secours conduisent Farid aux urgences ; l’étiquette du transistor rouge reste inachevée.",
+        "next": "Aux urgences, Anis arrivera du collège ; un soignant lui demandera les traitements et ce qu’on sait de la maladie, et il devra transmettre le diagnostic et le contact de la neurologue avant que les équipes décident."
+      },
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 9,
+      "slug": "farid-sensibilite-medicaments-carte-urgences",
+      "title": "Signaler le diagnostic à chaque équipe à cause de la sensibilité aux médicaments",
+      "description": "Aux urgences, Anis sort la carte rédigée avec la neurologue. Pourquoi le diagnostic de corps de Lewy doit être connu de toute équipe qui soigne.",
+      "context": "aux urgences, après la chute",
+      "topics": [
+        "sensibilité aux médicaments",
+        "carte de liaison",
+        "décision des soignants"
+      ],
+      "clinical_focus": "Signaler le diagnostic à chaque équipe soignante",
+      "clinical_intro": "Les personnes atteintes de démence à corps de Lewy peuvent réagir de façon particulière à certains médicaments, qui risquent d’aggraver les signes moteurs ou la confusion. C’est aux soignants informés de choisir, jamais aux proches. Aux urgences, la carte préparée avec la neurologue permet à Farid et à son fils de transmettre cette information dès les premières questions.",
+      "opening": "Jeudi, midi passé. Anis, le fils de Farid, professeur de technologie, a laissé sa classe à un collègue et traversé la ville. Aux urgences, il trouve son père sur un brancard dans un box, une couverture jusqu’à la poitrine, une perfusion au bras. Farid a les yeux ouverts. « Tu as abandonné tes élèves », dit-il. La voix n’est plus pâteuse ; elle est fatiguée.\n\nUn infirmier entre avec une tablette. « Vous êtes le fils ? Quels traitements prend votre père, et qu’est-ce qu’on sait de sa maladie ? » Anis sent un vide : il connaît les boîtes de vue, pas tous les noms. Puis il se souvient. Il ouvre le portefeuille que Mme Diallo, l’assistante de soins de l’équipe à domicile, a glissé dans la veste de son père, et en sort la carte remplie il y a moins de deux semaines avec la docteure Tissier, la neurologue. Diagnostic : démence due à une maladie à corps de Lewy. Le numéro de son service. Une phrase : « Merci de contacter le service avant de modifier un traitement. » Sur son téléphone, il a aussi la photo de la liste du réfrigérateur.\n\nL’infirmier lit, photographie la carte, hoche la tête. « C’est utile. Je le transmets au médecin. »\n\nFarid soulève un peu la tête. « Je voudrais dire une chose. Vous faites les examens qu’il faut. Mais je ne veux pas qu’on change quoi que ce soit sans que ma neurologue le sache. » L’infirmier répond qu’il le note tel quel. Anis regarde son père : il a dit lui-même ce qu’Anis aurait voulu dire à sa place.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Une sensibilité qui concerne toutes les équipes",
+          "text": "Dans la démence due à une maladie à corps de Lewy, certaines familles de médicaments, en particulier des antipsychotiques, peuvent aggraver les signes moteurs, la confusion ou les symptômes psychotiques, et provoquer parfois des réactions graves. Les recommandations insistent donc pour que les équipes soignantes connaissent le diagnostic et puissent joindre le spécialiste qui suit la personne. Ce choix appartient aux médecins, qui pèsent les bénéfices et les risques au cas par cas, d’autant que la prise en charge repose en partie sur l’avis d’experts. Les proches n’ont ni à proposer ni à refuser un médicament, ni à arrêter ou ajouter quoi que ce soit. Leur rôle est plus simple et plus précis : faire arriver l’information au bon endroit. Aux urgences, où Farid ne connaît personne et où une hospitalisation peut aussi favoriser la confusion, la carte de la docteure Tissier fait ce travail en quelques secondes."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment la question des médicaments se pose-t-elle hors du service habituel ?",
+          "points": [
+            {
+              "heading": "Des équipes qui ne connaissent pas la personne",
+              "text": "Aux urgences ou lors d’une hospitalisation, les soignants découvrent la personne et ses antécédents.",
+              "examples": [
+                "L’infirmier demande à Anis quels traitements prend son père.",
+                "Il ne sait rien de la neurologue qui suit Farid."
+              ]
+            },
+            {
+              "heading": "Un proche qui ne sait pas tout",
+              "text": "Même un fils attentif peut ignorer les noms et les doses, surtout dans l’émotion.",
+              "examples": [
+                "Anis reconnaît les boîtes mais pas tous les noms.",
+                "Il retrouve la photo de la liste du réfrigérateur sur son téléphone."
+              ]
+            },
+            {
+              "heading": "Une personne qui veut garder la parole",
+              "text": "La personne malade peut exprimer elle-même ce qui compte pour elle.",
+              "examples": [
+                "Farid demande qu’on prévienne sa neurologue avant tout changement.",
+                "L’infirmier note sa demande telle qu’il la formule."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour transmettre le diagnostic à chaque équipe",
+          "points": [
+            {
+              "heading": "Présenter la carte du neurologue",
+              "objective": "Faire connaître le diagnostic et le contact du spécialiste dès l’arrivée.",
+              "exercise": [
+                "Préparer avec le neurologue une carte au format portefeuille.",
+                "La garder sur soi et en laisser une copie à un endroit connu de la maison.",
+                "La montrer à chaque nouvelle équipe, même pour un motif sans rapport apparent."
+              ],
+              "benefit": "L’information arrive vite à ceux qui prescrivent, sans dépendre de la mémoire de quiconque."
+            },
+            {
+              "heading": "Tenir à jour la liste des traitements",
+              "objective": "Donner aux soignants une liste exacte plutôt qu’un souvenir approximatif.",
+              "exercise": [
+                "Afficher la liste remise par le médecin à un endroit visible.",
+                "En garder une photo récente sur le téléphone du proche désigné.",
+                "La faire mettre à jour par le prescripteur à chaque changement."
+              ],
+              "benefit": "Les équipes travaillent sur une base fiable ; le proche n’a pas à reconstituer la liste."
+            },
+            {
+              "heading": "Poser ses questions au prescripteur",
+              "objective": "Comprendre une décision sans la prendre à la place des soignants.",
+              "exercise": [
+                "Demander si le neurologue a été joint ou peut l’être.",
+                "Poser ses questions sur un nouveau médicament au médecin qui le prescrit.",
+                "Ne rien arrêter, ajouter ni modifier seul, même en cas de doute."
+              ],
+              "benefit": "La personne et ses proches restent informés, et la décision reste médicale."
+            }
+          ]
+        }
+      ],
+      "ending_title": "La carte dans le portefeuille",
+      "ending": "Dans l’après-midi, le médecin des urgences vient expliquer qu’il a joint le service de la docteure Tissier et que les examens continuent. Il ne dit pas encore pourquoi Farid est tombé ; il dit qu’on le garde la nuit en observation. Anis demande s’il peut laisser une note : son père se repère moins bien dans un lieu inconnu, surtout le soir. L’infirmier l’ajoute au dossier.\n\nVendredi en fin de matinée, Farid rentre chez lui, raccompagné par Anis. Il a un compte rendu pour la neurologue, un rendez-vous de suivi avec elle et une évaluation des chutes prévue dans les semaines qui viennent. La cause de la chute n’a pas été fixée ce jour-là. Dans l’atelier, Farid rend la carte à son fils. « Garde l’original, c’est toi qui l’as sortie. » Anis la range dans son portefeuille. Il en fait deux photocopies : l’une repart dans le portefeuille de son père, l’autre est punaisée au-dessus de l’établi, à côté de l’étiquette du transistor rouge, toujours inachevée.",
+      "conclusion": "La sensibilité de la démence à corps de Lewy à certains médicaments ne se gère pas à la maison : elle se signale. Grâce à la carte préparée avec la neurologue et à sa propre parole, Farid fait connaître son diagnostic aux urgences ; les médecins décident, et la cause de la chute reste à évaluer.",
+      "mirror": [
+        "Quand l’infirmier demande les traitements, Anis a d’abord senti un vide. Un proche peut simplement dire : « Voici sa carte, avec le contact de sa neurologue, et la photo de sa liste. » Il peut ensuite demander : « Est-ce que vous pouvez la joindre avant de changer quelque chose ? » Il n’a pas à connaître les médicaments à éviter, ni à refuser un soin d’urgence. Il transmet, il pose ses questions, et il laisse décider ceux qui soignent."
+      ],
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "nice-ng97",
+        "has-fiche2-apparentees",
+        "mckeith-2017"
+      ],
+      "continuity": {
+        "choice": "Aux urgences, Anis présente la carte et la photo de la liste ; Farid demande lui-même que sa neurologue soit prévenue avant tout changement. L’équipe joint le service de la docteure Tissier. Farid rentre le vendredi avec un rendez-vous de suivi et une évaluation des chutes prévue ; la cause n’est pas fixée. Anis garde l’original de la carte, une copie va dans le portefeuille de Farid, une autre au-dessus de l’établi.",
+        "next": "Le dimanche, deux jours après le retour, Farid sera persuadé que quelqu’un est entré dans l’atelier pendant son absence et a changé les lampes de trois postes ; la lettre à Gilles n’a toujours pas été écrite."
+      },
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 10,
+      "slug": "farid-conviction-sans-fondement-lettre-musee",
+      "title": "Une conviction sans fondement à côté d’une inquiétude bien réelle",
+      "description": "De retour de l’hôpital, Farid est sûr qu’on a changé les lampes de trois postes. Accueillir la conviction et traiter à part la vraie question du don.",
+      "context": "à l’atelier, après l’hospitalisation",
+      "topics": [
+        "idées délirantes",
+        "ni confirmer ni contester",
+        "la vraie question du don"
+      ],
+      "clinical_focus": "Une conviction sans fondement distincte d’une vraie inquiétude",
+      "clinical_intro": "Dans la démence à corps de Lewy, une personne peut être convaincue d’un fait qui ne repose sur rien de vérifiable, et en souffrir. Cette conviction peut cohabiter avec une inquiétude tout à fait fondée. De retour de l’hôpital, Farid accuse le président du musée d’avoir touché à ses postes, alors qu’une question réelle sur leur avenir attend toujours sa réponse.",
+      "opening": "Dimanche matin, deux jours après le retour de l’hôpital. Anis, le fils de Farid, professeur de technologie, est venu à neuf heures pour la matinée. Il trouve son père debout devant l’étagère, la bande de carton sous le poste à cadran vert, les bras croisés.\n\n« Quelqu’un est entré pendant que j’étais là-bas. Ils ont changé les lampes de trois postes. La bakélite crème, le transistor rouge, le petit bleu de 1957. » Sa voix tremble de colère. « C’est Gilles. Il voulait tout remettre en marche, il en a profité. »\n\nAnis sent la réponse évidente lui monter aux lèvres. Jeudi soir, c’est lui qui a fermé le garage à clé en venant chercher un pyjama ; la clé n’a pas quitté son trousseau. Gilles Perrot, le président du musée associatif Les Lampes du Faubourg, n’a jamais eu de double. Il ne dit rien de tout cela. Il se souvient de l’enfant sur l’établi, de la phrase qu’il avait failli dire au téléphone, et de l’effet qu’aurait eu « il n’y a personne ».\n\nIl sait aussi autre chose : la page de propositions de Gilles est toujours sous le poste à cadran vert, et la lettre promise sur les postes à modifier n’a jamais été écrite. Depuis la visite, près de trois semaines ont passé, une consultation, une nuit agitée, une chute. Le musée attend une réponse. Son père, peut-être, attend de savoir ce qu’on fera de ses radios quand il ne sera plus là pour les surveiller.\n\nFarid se tourne vers lui. « Tu me crois, toi ? »",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Une certitude qui ne repose sur rien de vérifiable",
+          "text": "Dans la démence due à une maladie à corps de Lewy, des idées délirantes peuvent apparaître : la personne tient pour certain un fait qui ne repose sur aucun élément vérifiable, comme une intrusion ou un vol, et cette certitude peut s’accompagner de colère ou de détresse. Contester point par point tend à renforcer la conviction ou à abîmer la confiance ; la confirmer l’installe. Ce qui peut aider, c’est d’accueillir l’émotion, de vérifier ensemble ce qui peut l’être si la personne l’accepte, et de signaler une conviction persistante ou pénible au médecin. Il faut aussi distinguer cette conviction d’une crainte fondée sur la situation. Chez Farid, l’intrusion n’a pas de fondement connu, mais l’inquiétude qui l’entoure en a un : la décision sur les modifications, laissée en suspens depuis la visite de Gilles, concerne vraiment ses postes. Traiter la seconde ne fait pas disparaître la première ; cela évite de les confondre."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment une conviction sans fondement se présente-t-elle ?",
+          "points": [
+            {
+              "heading": "Une certitude précise",
+              "text": "La conviction porte souvent sur des détails concrets, ce qui la rend crédible pour la personne.",
+              "examples": [
+                "Farid nomme les trois postes dont les lampes auraient été changées.",
+                "Il désigne un responsable précis, Gilles, et un moment, son hospitalisation."
+              ]
+            },
+            {
+              "heading": "Une émotion forte",
+              "text": "La croyance s’accompagne fréquemment de colère, de peur ou de sentiment d’injustice.",
+              "examples": [
+                "La voix de Farid tremble de colère devant l’étagère.",
+                "Il demande à son fils s’il le croit, en cherchant un allié."
+              ]
+            },
+            {
+              "heading": "Un lien avec une préoccupation réelle",
+              "text": "Le contenu peut faire écho à une question réellement ouverte dans la vie de la personne.",
+              "examples": [
+                "Gilles avait bien proposé de remettre tous les postes en marche.",
+                "La lettre de réponse sur les modifications n’a pas été écrite."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour répondre à une conviction sans la confirmer",
+          "points": [
+            {
+              "heading": "Accueillir l’émotion",
+              "objective": "Reconnaître ce que Farid ressent sans prendre parti sur les faits.",
+              "exercise": [
+                "Nommer l’émotion visible : « Je vois que ça te met en colère. »",
+                "Éviter de répondre « c’est faux » comme « tu as raison ».",
+                "Dire ce que l’on ressent soi-même si la question « tu me crois ? » est posée."
+              ],
+              "benefit": "La personne se sent prise au sérieux sans que la conviction soit renforcée."
+            },
+            {
+              "heading": "Vérifier ensemble ce qui est vérifiable",
+              "objective": "Proposer un examen concret, seulement si Farid l’accepte.",
+              "exercise": [
+                "Demander : « Tu veux qu’on regarde les postes un par un ? »",
+                "Comparer chaque poste avec ce qui est écrit sur son étiquette.",
+                "Accepter que la vérification ne convainque pas forcément."
+              ],
+              "benefit": "La démarche respecte la personne même si la certitude demeure."
+            },
+            {
+              "heading": "Séparer la conviction de la vraie question",
+              "objective": "Répondre à l’inquiétude fondée et informer la neurologue de la conviction.",
+              "exercise": [
+                "Identifier ce qui, dans la situation, est réellement en attente.",
+                "Traiter cette question à part, par une décision ou un écrit.",
+                "Noter la conviction et sa durée pour la neurologue, avec l’accord de la personne."
+              ],
+              "benefit": "La décision avance, et la conviction reste un sujet pour l’équipe de soins."
+            }
+          ]
+        }
+      ],
+      "ending_title": "La lettre à Gilles",
+      "ending": "Anis répond : « Je vois que ça te met très en colère. Moi, je n’ai rien remarqué, mais je n’étais pas tout le temps là. Tu veux qu’on regarde les postes un par un ? » Farid accepte. Ils sortent les étiquettes de la boîte à chaussures et comparent chaque poste à ce qu’elles décrivent, en regardant les lampes à travers les grilles arrière. Tout correspond. Farid ne dit pas qu’il s’est trompé. « Ils ont bien fait les choses, alors », marmonne-t-il, méfiant.\n\nPuis il s’assoit. « Ce que je ne veux pas, c’est qu’on touche à mes postes sans moi. » Anis montre la page de Gilles. « Ça, on peut le régler aujourd’hui. » Ils écrivent la lettre ensemble : neuf postes exposés en l’état ; trois remis en marche par Maryse, la technicienne bénévole du musée, selon les notes de Farid, la bakélite crème, le transistor rouge et le petit bleu de 1957. Farid signe. Dans le cahier, avec son accord, Anis écrit : « dimanche, 9 h à 11 h, papa très contrarié, sûr que des lampes ont été changées ». Troisième colonne, de la main de Farid : « oui, à la docteure ». La docteure Tissier, sa neurologue, le lira au rendez-vous de suivi. La lettre part lundi. Farid ne pardonne pas tout à fait à Gilles.",
+      "conclusion": "Une conviction sans fondement peut s’accompagner d’une inquiétude bien réelle. Anis accueille la colère de son père sans confirmer ni contester, vérifie avec lui ce qui peut l’être, puis l’aide à trancher la vraie question : la lettre fixe enfin le sort des douze postes, même si la méfiance persiste.",
+      "mirror": [
+        "« Tu me crois, toi ? » est une question difficile. Un proche peut répondre avec honnêteté sans se battre : « Je n’ai rien vu de tel, mais je vois que tu es en colère, et je reste avec toi. » Il peut proposer une vérification, sans exiger qu’elle convainque. Il peut aussi chercher ce qui, derrière la conviction, attend vraiment une décision. Si la conviction revient, dure ou fait souffrir, il le signale à la neurologue avec l’accord de la personne, sans traiter lui-même."
+      ],
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "mckeith-2017",
+        "nice-ng97"
+      ],
+      "continuity": {
+        "choice": "Avec l’accord de Farid, ils comparent les postes aux étiquettes ; Farid reste méfiant. Ils écrivent et signent la lettre à Gilles : neuf postes en l’état, trois remis en marche par Maryse selon les notes de Farid (bakélite crème, transistor rouge, petit bleu de 1957). La lettre part lundi. Anis note la conviction dans le cahier, avec accord, pour la neurologue.",
+        "next": "Le jeudi suivant, Hugo Lambert et Mme Diallo viendront reprendre le plan d’aide pour que les visites tiennent compte des jours où l’attention varie ; Anis voudra savoir ce qui reste à sa charge."
+      },
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 11,
+      "slug": "farid-soutien-previsible-plan-aide-jeudi",
+      "title": "Un soutien prévisible quand l’attention varie d’un jour à l’autre",
+      "description": "Farid est somnolent le jour où l’équipe vient revoir le plan d’aide. Garder le même cadre, prévoir une version courte et préciser le rôle de chacun.",
+      "context": "à la maison, la visite du jeudi",
+      "topics": [
+        "plan d’aide",
+        "version courte",
+        "rôle et limites des proches"
+      ],
+      "clinical_focus": "Un soutien prévisible quand l’attention varie",
+      "clinical_intro": "Quand l’attention et l’éveil varient d’un jour à l’autre, un soutien efficace garde des repères fixes et prévoit d’emblée une version plus courte pour les jours difficiles. Le plan se construit avec la personne, selon ses préférences, et se revoit en équipe. Le jour où Farid est somnolent, son équipe de soutien et son fils doivent décider sans tout reporter.",
+      "opening": "Jeudi, neuf heures. Hugo Lambert, l’ergothérapeute de l’équipe de soutien au domicile, et Mme Diallo, l’assistante de soins en gérontologie qui vient chaque jeudi, sonnent ensemble. Ils viennent revoir le plan d’aide, une semaine après la chute. Anis, le fils de Farid, professeur de technologie, est là aussi : ses cours commencent à dix heures et demie ce jour-là.\n\nFarid leur ouvre en robe de chambre. Il a mal dormi, il le dit tout de suite. Dans la cuisine, il s’assoit, les paupières lourdes, et répond lentement. Quand Hugo propose de revenir la semaine prochaine, Farid se redresse. « Non. Votre visite a déjà été annulée une fois, à cause de ma chute. Si on déplace encore, on ne fera jamais rien. Je suis fatigué, pas absent. »\n\nAnis, lui, a préparé ses questions sur une feuille. Il a déjà abaissé l’étagère haute de l’atelier lundi, avec l’accord de son père, en attendant l’avis d’Hugo. Mais il ne peut pas venir tous les soirs ; il a ses classes, ses copies, une vie à lui. Depuis la chute, il appelle chaque soir et dort mal. « J’ai besoin de savoir sur quoi je peux compter, dit-il, et ce qui reste à ma charge. »\n\nSur la table, il y a aussi une lettre arrivée la veille : Gilles Perrot, le président du musée Les Lampes du Faubourg, accepte la répartition, neuf postes en l’état et trois remis en marche par Maryse, la technicienne bénévole du musée. Il propose une présentation un samedi après-midi. Farid la pousse vers Mme Diallo sans rien dire.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Un cadre stable pour une attention qui varie",
+          "text": "Quand une démence s’accompagne de fluctuations, l’accompagnement gagne à reposer sur des repères stables : les mêmes jours, les mêmes heures, les mêmes personnes, avec une version courte prévue à l’avance pour les jours moins favorables. Les recommandations demandent que les objectifs soient fixés selon les besoins et les préférences de la personne, revus en équipe, et qu’un professionnel coordonne le plan. Elles prévoient aussi d’informer et de soutenir les proches. Ces arrangements organisent la vie quotidienne ; ils ne constituent pas un traitement et ne changent pas l’évolution de la maladie. Ce jeudi, Farid est somnolent : reporter la visite reviendrait à faire dépendre tout le soutien de ses bons jours, alors que ceux-ci ne se prévoient pas. Garder la visite en la raccourcissant respecte à la fois son état du moment et sa demande de ne plus tout déplacer."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment l’imprévisibilité des journées pèse-t-elle sur le soutien ?",
+          "points": [
+            {
+              "heading": "Des rendez-vous menacés par l’état du jour",
+              "text": "La tentation est de reporter dès que la personne paraît moins disponible.",
+              "examples": [
+                "Hugo propose de revenir la semaine suivante en voyant Farid somnolent.",
+                "Sa première visite avait déjà été annulée après la chute."
+              ]
+            },
+            {
+              "heading": "Une personne qui tient à son cadre",
+              "text": "Même fatiguée, la personne peut avoir un avis net sur l’organisation.",
+              "examples": [
+                "Farid refuse qu’on déplace encore le rendez-vous.",
+                "Il dit qu’il est fatigué, pas absent."
+              ]
+            },
+            {
+              "heading": "Un proche qui ne sait plus où s’arrêter",
+              "text": "Sans rôle défini, l’aidant tend à combler toutes les incertitudes.",
+              "examples": [
+                "Anis appelle chaque soir depuis la chute et dort mal.",
+                "Il a abaissé l’étagère avant l’avis de l’ergothérapeute."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour rendre le soutien prévisible",
+          "points": [
+            {
+              "heading": "Des horaires stables avec un plan bref",
+              "objective": "Maintenir les visites même les jours moins favorables.",
+              "exercise": [
+                "Fixer avec la personne des jours et des heures qui ne bougent pas.",
+                "Prévoir pour chaque visite une version courte, avec l’essentiel seulement.",
+                "Décider au début de la visite, avec elle, quelle version on suit."
+              ],
+              "benefit": "Le soutien ne dépend plus des bons jours ; il reste un arrangement d’organisation."
+            },
+            {
+              "heading": "Organiser l’atelier selon l’ergothérapie",
+              "objective": "Adapter le lieu de vie aux besoins actuels, avec un professionnel.",
+              "exercise": [
+                "Montrer à l’ergothérapeute les endroits qui posent problème.",
+                "Discuter de ses propositions avec la personne avant de les mettre en place.",
+                "Prévoir une date pour revoir l’aménagement."
+              ],
+              "benefit": "L’atelier peut rester utilisable plus sereinement ; l’aménagement ne traite pas la maladie."
+            },
+            {
+              "heading": "Préciser le rôle de chaque proche",
+              "objective": "Que chacun sache ce qu’il fait, et ce qu’il ne fait pas.",
+              "exercise": [
+                "Écrire qui vient quand, et qui appeler pour quoi.",
+                "Nommer ce que le proche ne prend pas en charge.",
+                "Indiquer les ressources pour les aidants proposées par l’équipe."
+              ],
+              "benefit": "Le proche peut tenir dans la durée, et la personne sait à qui s’adresser."
+            }
+          ]
+        }
+      ],
+      "ending_title": "La version courte du jeudi",
+      "ending": "Mme Diallo propose la version courte : vingt minutes à la table, puis dix minutes à l’atelier. Farid accepte. Dans l’atelier, Hugo valide l’étagère abaissée, demande d’y ajouter une butée et conseille de remplacer le néon qui grésille par un éclairage plus régulier au-dessus de l’établi. Farid hoche la tête : « Une lumière qui ne clignote pas, je suis d’accord. »\n\nÀ la table, Mme Diallo écrit le plan sur une seule feuille qu’elle colle sur le réfrigérateur, à côté de la liste des traitements : jeudi matin, neuf heures, Mme Diallo, comme avant ; Hugo, référent du plan, revient dans un mois ; Anis, le mardi soir seulement, plus un appel le dimanche. Pour le reste, le numéro de l’équipe. Mme Diallo donne à Anis la date d’une réunion pour les aidants. L’évaluation des chutes à l’hôpital est notée en bas, à sa date.\n\nPour la lettre de Gilles, Farid relit et dicte une réponse : la présentation se fera un mardi matin, pas un samedi après-midi. Hugo et Mme Diallo partent à neuf heures quarante. Farid retourne se coucher. Rien ne dit que le jeudi suivant sera meilleur ; le plan est fait pour ne pas avoir à le savoir.",
+      "conclusion": "Un soutien prévisible ne supprime pas les fluctuations de la démence à corps de Lewy, mais il évite que tout dépende d’elles. Farid garde sa visite du jeudi en version courte, Anis sait désormais ce qui lui revient, et la présentation au musée est placée un matin.",
+      "mirror": [
+        "Anis a dit : « J’ai besoin de savoir ce qui reste à ma charge. » C’est une demande légitime, pas un abandon. Un proche peut la formuler devant l’équipe et demander qu’elle soit écrite : « Je viens le mardi soir, j’appelle le dimanche, et pour le reste j’appelle votre numéro. » Il peut aussi dire ce qu’il ne fera pas, comme passer toutes ses soirées chez son père, et accepter le soutien proposé aux aidants, sans se sentir obligé de tout compenser."
+      ],
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "has-fiche13-comportement",
+        "nice-ng97"
+      ],
+      "continuity": {
+        "choice": "La visite a lieu en version courte. Hugo valide l’étagère abaissée, ajoute une butée et un éclairage régulier ; Mme Diallo garde le jeudi à neuf heures ; Anis vient le mardi soir seulement et appelle le dimanche. Le plan tient sur une feuille au réfrigérateur. Gilles a accepté la répartition ; Farid demande que la présentation ait lieu un mardi matin.",
+        "next": "Quelques semaines plus tard, un mardi matin, les douze postes seront présentés au musée Les Lampes du Faubourg, avant la signature de la convention, en sachant que la maladie continuera d’évoluer."
+      },
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 12,
+      "slug": "farid-evolution-progressive-souhaits-anticipes-don",
+      "title": "Une évolution progressive et des souhaits écrits pour la suite",
+      "description": "Au musée, Farid présente son poste à cadran vert puis s’assoit. Le don signé, il écrit des souhaits révisables pour la suite, sans prédire l’avenir.",
+      "context": "au musée, un mardi matin",
+      "topics": [
+        "évolution progressive",
+        "souhaits anticipés",
+        "garder ses choix"
+      ],
+      "clinical_focus": "Anticiper l’évolution en gardant ses choix",
+      "clinical_intro": "La démence due à une maladie à corps de Lewy est en général progressive, à un rythme que personne ne peut prédire pour une personne donnée. Parler tôt de ses préférences pour la suite, les écrire et pouvoir les modifier permet de garder ses choix au premier plan. Le jour du don de ses radios, Farid se demande aussi ce qu’il veut pour les années qui viennent.",
+      "opening": "Mardi, dix heures. La salle du rez-de-chaussée du musée associatif Les Lampes du Faubourg sent la cire et le café. Les douze postes de Farid sont alignés sur trois tables couvertes de feutre gris, chacun avec son étiquette de carton. Anis, son fils, professeur de technologie, a posé une demi-journée pour l’occasion. Gilles Perrot, le président du musée, a fait venir une dizaine de bénévoles.\n\nNeuf postes sont tels que Farid les a gardés : le poste en noyer de 1949, le gros poste de salon, les autres. Trois ont été remis en marche par Maryse, la technicienne bénévole du musée, au cours de deux matinées à l’atelier où Farid dictait les réglages et où elle tenait le fer. En ouvrant le transistor rouge, elle a trouvé une marque sous le haut-parleur ; Farid a enfin rempli la ligne vide de l’étiquette.\n\nIl commence par le poste à cadran vert de 1953. Maryse a posé l’aiguille sur Paris. Farid raconte en quelques phrases la vitrine d’autrefois, les stations gravées, Luxembourg, Monte-Carlo, Sottens. « Et surtout, n’y touchez pas : il marche, il est d’origine, on le laisse chauffer et on écoute. » Les bénévoles rient.\n\nAu bout de dix minutes, sa phrase ralentit. Il cherche le nom d’une rue, ne le trouve pas, sent l’attention qui baisse comme une lampe qui refroidit. Il ne s’excuse pas. Il tire une chaise et s’assoit. Anis ne finit pas la phrase pour lui. Maryse met en marche la bakélite crème, et la salle écoute un moment une voix d’aujourd’hui sortir d’un poste de 1950.\n\nPlus tard, Gilles s’approche avec la convention et un stylo. « Vous reviendrez nous voir ? »",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Une maladie qui évolue, des choix qui restent à soi",
+          "text": "La plupart des démences, dont celle due à une maladie à corps de Lewy, sont progressives : les difficultés tendent à s’accentuer avec le temps, selon un rythme propre à chaque personne et que ni l’entourage ni le médecin ne peuvent fixer à l’avance. Les recommandations proposent de donner tôt, puis régulièrement, l’occasion de parler de ses souhaits pour les soins et la vie à venir, de les écrire et de les réviser. Ces souhaits ne ralentissent pas la maladie ; ils permettent que les décisions futures s’appuient sur ce que la personne a dit elle-même, au moment où elle pouvait le formuler à sa façon. Pour Farid, la présentation montre les deux faces : une parole encore vive sur son métier et une fatigue qui l’oblige à s’asseoir. La question de Gilles, « vous reviendrez ? », n’a pas de réponse certaine ; elle invite à dire ce qui compte, sans promettre."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment l’évolution se mêle-t-elle aux moments importants ?",
+          "points": [
+            {
+              "heading": "Une compétence vive à côté de la fatigue",
+              "text": "Le même moment peut réunir un savoir intact et une limite nouvelle.",
+              "examples": [
+                "Farid présente le poste à cadran vert avec humour et précision.",
+                "Au bout de dix minutes, il cherche un nom de rue et s’assoit."
+              ]
+            },
+            {
+              "heading": "Des questions sur l’avenir posées par d’autres",
+              "text": "L’entourage interroge souvent la suite, parfois sans le vouloir.",
+              "examples": [
+                "Gilles demande à Farid s’il reviendra au musée.",
+                "Anis se demande combien de temps son père pourra vivre seul avec ce soutien."
+              ]
+            },
+            {
+              "heading": "Des décisions qui comptent maintenant",
+              "text": "Certaines décisions peuvent être prises et écrites tant que la personne les formule elle-même.",
+              "examples": [
+                "Farid a fixé le sort de ses postes par une lettre signée.",
+                "Il veut aussi dire ce qu’il souhaite pour son atelier et ses soins."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour écrire ses souhaits sans prédire l’avenir",
+          "points": [
+            {
+              "heading": "Nommer ce qui compte",
+              "objective": "Mettre par écrit les préférences de Farid, dans ses mots.",
+              "exercise": [
+                "Lister ce qui lui importe au quotidien : lieux, horaires, manières de lui parler.",
+                "Ajouter ce qu’il ne veut pas, comme être contredit sur ce qu’il voit.",
+                "Relire la page à voix haute et corriger ce qui ne lui ressemble pas."
+              ],
+              "benefit": "Les décisions futures peuvent s’appuyer sur sa propre parole."
+            },
+            {
+              "heading": "Choisir avec qui partager ces souhaits",
+              "objective": "Que les bonnes personnes connaissent la page, avec son accord.",
+              "exercise": [
+                "Désigner les personnes qui recevront une copie.",
+                "Prévoir de la remettre au médecin qui le suit, pour son dossier.",
+                "Dire ce qui reste privé, même dans ce document."
+              ],
+              "benefit": "La page circule là où elle peut servir, sans dépasser ce qu’il autorise."
+            },
+            {
+              "heading": "Prévoir une date pour les revoir",
+              "objective": "Garder des souhaits révisables, puisque la situation évolue.",
+              "exercise": [
+                "Inscrire une date de relecture sur la page.",
+                "Accepter de les modifier plus tôt si Farid le demande.",
+                "Revoir la page avec l’équipe de soins lors d’une consultation."
+              ],
+              "benefit": "Les souhaits restent les siens au fil du temps, sans promesse sur l’évolution."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Une page de souhaits sur la table de la cuisine",
+      "ending": "Farid signe la convention : neuf postes exposés en l’état, trois en marche, chacun avec son étiquette d’origine. Puis il répond à Gilles : « Je reviendrai un matin, si j’en ai envie. Et je ne raconterai pas forcément mes nuits. » Gilles rit et lui tend la main.\n\nLe jeudi suivant, à neuf heures, Mme Diallo, l’assistante de soins de l’équipe à domicile, s’assoit avec lui à la table de la cuisine pour la version longue de la visite. Farid a envie d’écrire. Ensemble, ils remplissent une page : le matin pour les choses importantes ; une question à la fois ; l’atelier ouvert tant qu’il le souhaite, le fer rangé ; qu’on ne le contredise pas et qu’on ne lui donne pas raison sur ce qu’il voit le soir ; la carte de la docteure Tissier à montrer à toute équipe ; le droit de ne pas raconter la veille. En bas : « à relire dans six mois, ou avant si je le demande ».\n\nMardi soir, il en donne une copie à Anis, qui la range avec la carte, sans la commenter. Une autre part au secrétariat de la docteure Tissier, sa neurologue, pour le rendez-vous de suivi. Farid sait que la maladie continuera d’avancer, à un rythme que personne ne lui a promis. Il sait aussi où sont ses radios, et ce qu’il a écrit.",
+      "conclusion": "La démence à corps de Lewy évolue, et rien dans le soutien mis en place ne promet de la ralentir. Farid a pourtant mené son don à son terme selon ses conditions, et il a écrit, avec l’équipe, des souhaits révisables qui gardent sa voix au centre des décisions à venir.",
+      "mirror": [
+        "Quand Farid s’est assis au milieu de sa présentation, Anis n’a pas terminé sa phrase à sa place. Un proche peut faire de même, puis, plus tard, recevoir une page de souhaits sans la discuter tout de suite : « Merci. Je la garde avec ta carte. On la relira quand tu voudras. » Il n’a pas à deviner la suite ni à la préparer seul. Il peut demander à l’équipe de soins ce qu’on peut prévoir, et garder pour lui une part de sa propre vie."
+      ],
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "nice-ng97",
+        "has-fiche13-comportement"
+      ],
+      "continuity": {
+        "choice": "La convention est signée : neuf postes en l’état, trois remis en marche par Maryse selon les notes de Farid. Farid dit à Gilles qu’il reviendra un matin s’il en a envie, sans forcément raconter ses nuits. Le jeudi, il rédige avec Mme Diallo une page de souhaits révisable dans six mois, remise à Anis le mardi soir et au secrétariat de la docteure Tissier.",
+        "next": "Le don est accompli ; la suite reste ouverte, avec un soutien régulier le jeudi, Anis le mardi soir, des souhaits écrits et révisables, et le droit de Farid de choisir ce qu’il partage."
+      },
+      "diagnostic_stage": "known"
+    }
+  ]
+}

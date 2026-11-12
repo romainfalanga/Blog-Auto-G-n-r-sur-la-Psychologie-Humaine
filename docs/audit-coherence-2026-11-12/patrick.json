@@ -1,0 +1,321 @@
+{
+  "character_id": "patrick",
+  "type": "origine",
+  "auditor": "audit_o6",
+  "audited_on": "2026-11-12",
+  "persona": {
+    "age_metier_proches": "56-57 ans, chef d’équipe dans le BTP ; marié à Catherine depuis 30 ans ; enfants Stéphanie et Julien, petit-fils Léo (fils de Julien) ; père Marcel, mort au cours du parcours ; mère jamais présentée ; jeune ouvrier Antoine.",
+    "arc_summary": "Patrick passe d’une retenue réflexe (la météo à la place d’une réponse à Stéphanie) à des demandes d’aide limitées (le bocal, le relais sur le chantier), puis traverse la mort de son père : souvenir de la pince, tri des papiers qui se termine par des coups sur l’établi, départ de Catherine pour l’après-midi et demande d’aide professionnelle, enfin quelques lignes dans un carnet. Le fil du rendez-vous médical jamais pris (épisodes 5, 6, 8) se résout à l’épisode 9. L’évolution est lisible ; la mort de Marcel n’est pas préparée et la douleur au chantier est traitée trois ou quatre fois.",
+    "arc_issues": [
+      "La mort de Marcel, centrale dans la fiche, n’est annoncée qu’à l’épisode 7 (« L’enterrement a eu lieu trois jours plus tôt ») ; les épisodes 1 à 6 ne disent jamais s’il est vivant, malade ou mort, et l’épisode 4 (« que Marcel lui a laissé ») laisse croire à un héritage.",
+      "Les épisodes 2, 3, 5 et 9 reprennent la même facette (une douleur physique, la tentation de la cacher, accepter un relais ou une règle de prévention) ; l’épisode 9 double en outre le concept de l’épisode 2 (point aveugle / angle mort, d’après le nom du fichier).",
+      "La mère de Patrick apparaît à l’épisode 10 (« le salon de sa mère », « le garage de ses parents ») sans avoir jamais été citée, et son absence pendant les coups n’est pas expliquée.",
+      "Julien et Antoine arrivent sans être présentés (épisodes 1 et 5).",
+      "Parcours de onze épisodes : il en manque un."
+    ]
+  },
+  "episodes": [
+    {
+      "number": 1,
+      "file": "content/posts/sortir-de-ses-schemas-repetitifs/surcontrole-emotionnel-famille.md",
+      "focus": "Retenue de l’expression émotionnelle : répondre par la météo à la confidence de Stéphanie",
+      "structure": {
+        "scene": "ok",
+        "concept": "ok",
+        "manifestations": "faible",
+        "techniques": "ok",
+        "retour": "ok",
+        "conclusion": "ok",
+        "proches": "ok"
+      },
+      "comprehension": 3,
+      "comprehension_note": "Le repas, la serviette lissée et la question finalement posée à Stéphanie sont clairs ; mais Julien n’est pas présenté et la feuille « pour Marcel » reste énigmatique, faute de savoir où en est son père.",
+      "issues": [
+        {
+          "severity": "majeur",
+          "type": "comprehension",
+          "quote": "Dans la soirée, il griffonne quelques mots qu’il aimerait dire à Marcel.",
+          "problem": "Le lecteur ignore si Marcel est vivant, malade ou mort (sa mort n’intervient qu’à l’épisode 7) : la fin perd son sens.",
+          "fix": "Situer Marcel dès cet épisode (« son père, hospitalisé depuis l’hiver »)."
+        },
+        {
+          "severity": "mineur",
+          "type": "comprehension",
+          "quote": "Le silence qui suit laisse entendre la cuillère de Julien au fond de sa tasse.",
+          "problem": "Julien n’est pas présenté (fils ? gendre ?).",
+          "fix": "« … la cuillère de Julien, son fils, … »."
+        },
+        {
+          "severity": "mineur",
+          "type": "trame",
+          "quote": "Quand il est préoccupé par la retraite, il peut proposer à Julien une promenade",
+          "problem": "La retraite n’est évoquée nulle part dans la scène ni dans la fiche.",
+          "fix": "Remplacer par la préoccupation réelle de la scène (le responsable de Stéphanie)."
+        },
+        {
+          "severity": "mineur",
+          "type": "trame",
+          "quote": "Cette expérience ne permet pas d’expliquer les douleurs de Patrick",
+          "problem": "Aucune douleur n’est mentionnée dans cet épisode.",
+          "fix": "Supprimer la phrase."
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "file": "content/posts/reprendre-le-controle-de-ses-pensees/biais-point-aveugle-face-vieillissement-psychologie.md",
+      "focus": "Biais du point aveugle : dénoncer l’âgisme des collègues et juger soi-même la douleur d’un jeune",
+      "structure": {
+        "scene": "ok",
+        "concept": "ok",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "ok",
+        "conclusion": "ok",
+        "proches": "ok"
+      },
+      "comprehension": 4,
+      "comprehension_note": "Le plan sur le capot, la phrase « À ton âge, on récupère vite » et la question du collègue montrent bien l’asymétrie entre le jugement porté sur les autres et sur soi ; la fin (aller voir la tâche, avouer le dos à Catherine) est nette.",
+      "issues": []
+    },
+    {
+      "number": 3,
+      "file": "content/posts/comprendre-et-maitriser-ses-emotions/vulnerabilite-face-au-vieillissement-accepter-limites.md",
+      "focus": "Vulnérabilité : demander à Catherine d’ouvrir le bocal",
+      "structure": {
+        "scene": "ok",
+        "concept": "ok",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "ok",
+        "conclusion": "ok",
+        "proches": "ok"
+      },
+      "comprehension": 4,
+      "comprehension_note": "Le pouce qui tire, la remarque sur les fabricants retenue et la phrase « Mon pouce, là, ça tire » sont précis ; le retour passe à une autre scène avec Léo sans l’avoir annoncée.",
+      "issues": [
+        {
+          "severity": "mineur",
+          "type": "comprehension",
+          "quote": "L’après-midi, Léo remplit de terre un seau qu’il ne réussit pas à retourner.",
+          "problem": "On ne savait pas que Léo était là ce jour-là ; sa présence surprend.",
+          "fix": "Annoncer dans la scène d’ouverture que Julien a déposé Léo pour le déjeuner."
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "file": "content/posts/comprendre-et-maitriser-ses-emotions/nostalgie-face-a-la-solitude-comprendre-emotions.md",
+      "focus": "Nostalgie face à la solitude : le niveau de Marcel et la photo de Stéphanie",
+      "structure": {
+        "scene": "ok",
+        "concept": "ok",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "ok",
+        "conclusion": "ok",
+        "proches": "ok"
+      },
+      "comprehension": 4,
+      "comprehension_note": "Le niveau cabossé, la photo du bleu trop long et le message envoyé à Stéphanie forment un épisode clair ; seul le statut de Marcel trouble.",
+      "issues": [
+        {
+          "severity": "majeur",
+          "type": "continuite",
+          "quote": "Dans la caisse à outils, Patrick retrouve le petit niveau vert que Marcel lui a laissé.",
+          "problem": "« Lui a laissé » suggère un héritage, alors que l’enterrement n’a lieu qu’à l’épisode 7 ; contradiction avec « L’enterrement a eu lieu trois jours plus tôt ».",
+          "fix": "« … que Marcel lui a donné il y a des années » et une mention de son état actuel."
+        },
+        {
+          "severity": "mineur",
+          "type": "lien_concept",
+          "quote": "Catherine est sortie faire des courses.",
+          "problem": "La solitude du titre se réduit à une heure d’absence de Catherine ; le manque de conversations avec les enfants n’est que commenté.",
+          "fix": "Ajouter un fait (Stéphanie n’écrit plus que pour des horaires depuis des mois) dans la scène."
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "file": "content/posts/comprendre-et-maitriser-ses-emotions/impuissance-face-au-vieillissement-signes-et-solutions.md",
+      "focus": "Impuissance : une douleur l’empêche de porter la plaque de coffrage",
+      "structure": {
+        "scene": "ok",
+        "concept": "ok",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "ok",
+        "conclusion": "ok",
+        "proches": "ok"
+      },
+      "comprehension": 4,
+      "comprehension_note": "La plaque lâchée, le chariot que va chercher Antoine et le repère montré depuis le poteau sont clairs ; la facette répète les épisodes 2 et 3.",
+      "issues": [
+        {
+          "severity": "majeur",
+          "type": "repetition",
+          "quote": "Au premier mouvement, son dos le lance jusque dans la jambe gauche.",
+          "problem": "Troisième épisode sur la même facette (douleur au chantier, accepter un relais) après les épisodes 2 et 3, avant le 9 ; l’impuissance se distingue mal de la vulnérabilité de l’épisode 3.",
+          "fix": "Faire porter l’impuissance sur une situation où Patrick ne peut rien changer : l’état de Marcel qui décline à l’hôpital, ce qui préparerait aussi l’épisode 7."
+        },
+        {
+          "severity": "mineur",
+          "type": "comprehension",
+          "quote": "Antoine a déjà soulevé un côté de la plaque de coffrage.",
+          "problem": "Antoine, récurrent jusqu’à l’épisode 9, n’est pas présenté.",
+          "fix": "« Antoine, le plus jeune de son équipe, … »."
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "file": "content/posts/comprendre-et-maitriser-ses-emotions/colere-en-situation-de-conflit-comprendre-s-affirmer.md",
+      "focus": "Colère en conflit : insulter Antoine quand un étai ripe",
+      "structure": {
+        "scene": "ok",
+        "concept": "ok",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "ok",
+        "conclusion": "ok",
+        "proches": "ok"
+      },
+      "comprehension": 5,
+      "comprehension_note": "Distinction nette entre la consigne de sécurité et l’insulte, pause dans la camionnette, excuse précise et reconnaissance devant l’équipe : épisode exemplaire.",
+      "issues": []
+    },
+    {
+      "number": 7,
+      "file": "content/posts/comprendre-et-maitriser-ses-emotions/resilience-emotionnelle-lors-un-deuil-comprendre.md",
+      "focus": "Résilience et deuil : la pince de Marcel trois jours après l’enterrement",
+      "structure": {
+        "scene": "ok",
+        "concept": "faible",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "ok",
+        "conclusion": "ok",
+        "proches": "ok"
+      },
+      "comprehension": 4,
+      "comprehension_note": "Le ruban sur la pince, la phrase de Marcel (« Tu peux la mettre dans ta caisse ») et l’appel à Julien sont touchants et clairs ; la mort elle-même arrive sans aucun contexte.",
+      "issues": [
+        {
+          "severity": "majeur",
+          "type": "continuite",
+          "quote": "L’enterrement a eu lieu trois jours plus tôt.",
+          "problem": "La mort de Marcel, événement central du parcours, n’est préparée par aucun épisode (maladie, hospitalisation, décès) ; le lecteur la découvre au détour d’une phrase.",
+          "fix": "Ajouter en ouverture une phrase sur les circonstances (« Marcel est mort dimanche, à l’hôpital ») et préparer cet événement dans les épisodes 1 à 6."
+        },
+        {
+          "severity": "mineur",
+          "type": "lien_concept",
+          "quote": "Rien dans les premiers jours de deuil de Patrick ne permet de prédire la sienne.",
+          "problem": "La scène illustre l’alternance perte/quotidien (Stroebe et Schut) plus que la résilience, qui n’est pas montrée.",
+          "fix": "Montrer une ressource qui soutient Patrick (la routine du chantier, Catherine, Julien) et ce qu’elle lui permet."
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "file": "content/posts/reprendre-le-controle-de-ses-pensees/effet-de-leurre-face-au-vieillissement-quotidien.md",
+      "focus": "Effet de leurre : trois abonnements de salle de sport",
+      "structure": {
+        "scene": "ok",
+        "concept": "ok",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "ok",
+        "conclusion": "ok",
+        "proches": "ok"
+      },
+      "comprehension": 4,
+      "comprehension_note": "L’exemple chiffré est correct et la fin (prospectus plié pour ne garder que deux offres) est claire ; le cadre de la scène est flou.",
+      "issues": [
+        {
+          "severity": "mineur",
+          "type": "comprehension",
+          "quote": "« Vous voulez que je vous donne un formulaire ? » demande le vendeur.",
+          "problem": "Patrick est au rayon d’un magasin de bricolage devant un panneau de salle de sport : on ne sait pas qui est ce vendeur.",
+          "fix": "Placer un stand de la salle de sport à l’entrée du magasin, avec un commercial."
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "file": "content/posts/reprendre-le-controle-de-ses-pensees/biais-angle-mort-vieillissement-psychologie.md",
+      "focus": "Minimisation de sa propre douleur sur l’échafaudage (doublon du point aveugle)",
+      "structure": {
+        "scene": "ok",
+        "concept": "faible",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "ok",
+        "conclusion": "ok",
+        "proches": "ok"
+      },
+      "comprehension": 4,
+      "comprehension_note": "L’échelle, le sac redescendu et l’appel enfin passé sont clairs et ferment le fil du rendez-vous ; mais l’épisode n’apporte aucun concept nouveau.",
+      "issues": [
+        {
+          "severity": "majeur",
+          "type": "repetition",
+          "quote": "Le biais du point aveugle, abordé dans un autre récit de Patrick, porte sur la facilité à attribuer des biais aux autres plutôt qu’à soi.",
+          "problem": "Le fichier « biais-angle-mort » double le concept de l’épisode 2 ; l’article renonce au concept et reprend la facette des épisodes 2, 3 et 5 (douleur au chantier, règle de prévention, relais).",
+          "fix": "Remplacer par un concept distinct (voir missing_or_extra) ou fusionner avec l’épisode 5, en gardant l’appel au cabinet."
+        },
+        {
+          "severity": "mineur",
+          "type": "comprehension",
+          "quote": "Patrick se souvient de l’étai qui a ripé le 10 avril.",
+          "problem": "Date calquée sur la date de publication de l’épisode 6 ; artificielle dans le récit.",
+          "fix": "« … l’étai qui a ripé il y a trois semaines. »"
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "file": "content/posts/sortir-de-ses-schemas-repetitifs/acting-out-passage-a-l-acte-famille.md",
+      "focus": "Passage à l’acte : frapper l’établi de Marcel pendant le tri des papiers",
+      "structure": {
+        "scene": "ok",
+        "concept": "ok",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "ok",
+        "conclusion": "ok",
+        "proches": "ok"
+      },
+      "comprehension": 4,
+      "comprehension_note": "La facture, la page déchirée, les coups, l’éclat près de la porte et le départ de Catherine sont clairs ; la priorité donnée à la sécurité et la demande d’aide sont justes. La présence de la mère reste un trou.",
+      "issues": [
+        {
+          "severity": "majeur",
+          "type": "comprehension",
+          "quote": "Dans le salon de sa mère, Patrick compare deux chemises de papiers.",
+          "problem": "La mère de Patrick n’existe dans aucun autre épisode ; on ne sait ni pourquoi le tri se fait chez elle, ni si elle est présente pendant les coups, alors que sa sécurité serait en jeu.",
+          "fix": "Présenter la mère (veuve de Marcel), dire où elle est (sortie, chez une voisine) et en tenir compte dans la mise en sécurité."
+        }
+      ]
+    },
+    {
+      "number": 11,
+      "file": "content/posts/comprendre-et-maitriser-ses-emotions/ecriture-expressive-pennebaker-en-famille-guide.md",
+      "focus": "Écriture expressive après la mort de Marcel",
+      "structure": {
+        "scene": "ok",
+        "concept": "ok",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "ok",
+        "conclusion": "ok",
+        "proches": "ok"
+      },
+      "comprehension": 4,
+      "comprehension_note": "Le carnet posé sur le côté intact de l’établi, le message laissé pour un rendez-vous et le « Pas aujourd’hui » de Catherine forment une fin respectueuse et claire.",
+      "issues": []
+    }
+  ],
+  "missing_or_extra": "Onze épisodes : il en manque un, et l’épisode 9 n’apporte pas de concept distinct. Concepts déjà traités : suppression expressive, point aveugle, vulnérabilité, nostalgie, impuissance, colère, résilience, effet de leurre, passage à l’acte, écriture expressive. Proposition 1 (épisode 12, après l’écriture) : honte et culpabilité après les coups (distinction de Tangney) — au premier rendez-vous ou devant Stéphanie qui apprend ce qui s’est passé, Patrick passe de « je suis un mauvais homme » à « j’ai fait peur à Catherine » et propose une réparation concrète, en laissant Catherine fixer le rythme ; cela clôt l’arc. Proposition 2 (remplacer l’épisode 9, entre le leurre et les coups) : l’évitement émotionnel du deuil — Patrick repousse le tri des papiers de Marcel en se réfugiant dans le chantier, ce qui prépare l’explosion de l’épisode 10 ; l’appel au cabinet peut y être conservé.",
+  "verdict": "corrections_majeures"
+}

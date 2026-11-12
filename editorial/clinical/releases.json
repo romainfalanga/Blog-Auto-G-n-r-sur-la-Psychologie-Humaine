@@ -722,6 +722,46 @@
       "design_sha256": "eac6b5450fa6f5147fc809417d4b3cc6fdcd4bb2d24bbdc7be29f5c656957a01",
       "independent_review_sha256": "e0b458a6220b3b0e67a5fe4a08893a44d90ffa4df89e643aa5e298d1561fbc19",
       "review": "Douze épisodes relus indépendamment par review_marceau ; sources OMS et limites WFSBP vérifiées. Consentement, soins effectifs, protection, limites des proches, trame et continuité contrôlés ; aucune scène graphique ni correction ouverte."
+    },
+    "sylvain": {
+      "date": "2026-11-12",
+      "status": "editorially_reviewed",
+      "article_format": 2,
+      "sha256": "d936b7e15af621fdfe66d07fa9d73caca105bffb40b9836c5afd179b9def9d0a",
+      "dossier_sha256": "92f38d739a55330bf2367c87719decd7cbd7c012f1a49b3c7cbee1a772063db8",
+      "design_sha256": "4087d08ceb7c50c8e5f99de021b743e3bb6eeda7a8373b41955558eae89b8980",
+      "independent_review_sha256": "23dee71b8db5db34c8f3c5e6e6c16f6e2de381b5f04a52b113e75a1b19c1866d",
+      "review": "Relecture indépendante review_sylvain acceptée après deux tours de corrections"
+    },
+    "loubna": {
+      "date": "2026-11-12",
+      "status": "editorially_reviewed",
+      "article_format": 2,
+      "sha256": "e17c90425e099d81462c06fcc223debb2af13f990744bb39b01dcd7dd5c549ae",
+      "dossier_sha256": "d23ed9f437ea8b0c328f80a25daeee2e059b5a84a494b67cf5ebbd75cbea6021",
+      "design_sha256": "106ac8ac5ea0a21cd963ab67deb5c664507c9f278ef62d7dd2b7d694e9c347e5",
+      "independent_review_sha256": "cb253aea92581e13df8be208f21c95da01c64d6865915b2619a591f05543ec5c",
+      "review": "Relecture indépendante review_loubna acceptée après trois tours de corrections (lisibilité, présentation des proches, formulations concrètes)"
+    },
+    "serge": {
+      "date": "2026-11-12",
+      "status": "editorially_reviewed",
+      "article_format": 2,
+      "sha256": "22b3b09d56971b9a42713697445c86a2fe2c8511b28f4a2ff799a44b050d8db8",
+      "dossier_sha256": "a3cfbfa2f718c4dbcb8533ce11af976098546fa7f0a3764d351b2ada16bbaa2a",
+      "design_sha256": "9d855e9c1026e1b39a3696f65eb63bb81aee86f3be1340ec8042ccdc85238727",
+      "independent_review_sha256": "c6a686f0857b3016c54506e4330864dac250eed0378c2db77a43ac1b0ede1099",
+      "review": "Relecture indépendante review_serge acceptée après trois tours de corrections (rôles présentés, scènes concrètes, relais 3114/15, raccords)"
+    },
+    "florence": {
+      "date": "2026-11-12",
+      "status": "editorially_reviewed",
+      "article_format": 2,
+      "sha256": "e97ef86c3fed450334f2d392eb4413514fc16737b0d61bb90637ae97e55cbec7",
+      "dossier_sha256": "366093c6a06e703ff6264dcd930b54e345e2aee22d900fedd6212b231184110c",
+      "design_sha256": "6ae9569ebf637c8a13c521907bb7256397c86029d0d2143ee2b5784239926f3a",
+      "independent_review_sha256": "e746e6f33bfdd2ef0bdc2c62bdd8da6cdd303b2cbe7237f26c4f20bc6c1a3d5c",
+      "review": "Relecture indépendante review_florence acceptée après deux tours de corrections (scènes en actions et dialogues, protection de la personne exposée, raccords)"
     }
   }
 }

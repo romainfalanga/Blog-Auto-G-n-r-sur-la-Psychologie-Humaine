@@ -1,0 +1,206 @@
+{
+ "schema_version": 1,
+ "character_id": "clarisse",
+ "code": "6D85.1",
+ "article_format": 2,
+ "bio": "Clarisse, 56 ans, ancienne architecte, vit seule à Nantes avec trois cartons de plans. Le groupe de travail de l’Atelier des Quais lui demande cinq documents pour une exposition sur les écoles qu’elle a dessinées. Sa démence due à la maladie de Huntington, déjà diagnostiquée, rend l’organisation, les délais et certains gestes plus difficiles, alors que ses souvenirs de chantier restent précis. Avec sa sœur Viviane, une assistante sociale et l’équipe de neurologie, elle choisit ses documents, demande de l’aide pour les étapes difficiles et décide de ce qu’elle partage de son histoire familiale.",
+ "profile_topics": [
+  "Démence due à la maladie de Huntington",
+  "Fonctions exécutives et organisation des étapes",
+  "Mouvements involontaires et gestes du dessin",
+  "Information génétique et confidentialité familiale",
+  "Anticiper les aides avec sa famille"
+ ],
+ "voice": "Une parole exacte et sèche, nourrie du vocabulaire du métier : une esquisse se trace au calque, un plan se lit par son axe, on ne déplace pas une cote sans prévenir. Ces images sont celles de Clarisse, jamais une explication du trouble. Elle raconte volontiers ses chantiers, se tait sur sa mère quand elle le décide et préfère des phrases courtes, une question à la fois.",
+ "series_goal": "Transmettre au groupe de l’Atelier des Quais cinq documents choisis par elle, dont l’esquisse originale de l’école des Peupliers, et un souvenir enregistré de sa propre voix, tout en demandant de l’aide pour les étapes difficiles, en protégeant ce qui appartient à sa famille et en anticipant avec Viviane et l’équipe les aides et les choix de la suite.",
+ "continuity_rules": [
+  "Diagnostic établi avant la série : known aux douze épisodes. Clarisse a 56 ans, ancienne architecte de l’agence Riou & associés, sans activité depuis deux ans, vit seule sur l’île de Nantes ; diagnostic de démence due à la maladie de Huntington posé il y a trois ans ; démence considérée comme légère par l’équipe au début. Aucun stade, aucune vitesse d’évolution et aucun diagnostic supplémentaire ne sont déduits d’une scène.",
+  "Personnes : Viviane, sœur cadette, 52 ans, professeure de piano à Saint-Nazaire, vient le samedi et garde sa propre vie ; Erwan, 24 ans, fils de Viviane, étudiant à Rennes ; Yannick Riou, ancien associé, coordonne le groupe ; Maud, bénévole, scans et son ; docteure Lebreton, neurologue de la consultation spécialisée du CHU ; Nathalie Kerjean, assistante sociale de cette consultation ; Bérangère Joly, psychologue de l’équipe ; Lucien Morvan, orthophoniste, le mercredi ; M. Ferrand, ergothérapeute. Aucun proche ne joue au diagnosticien ni ne modifie un soin.",
+  "Génétique et confidentialité : Jeanne, la mère, morte il y a quinze ans, avait la maladie de Huntington. Clarisse a transmis l’information à Viviane lors de son diagnostic ; le statut génétique de Viviane et celui d’Erwan ne sont jamais connus, devinés ni calculés. Viviane parle elle-même à son fils (5). Clarisse ne dit pas publiquement que sa mère était malade ; Yannick connaît le nom de la maladie de Clarisse depuis 3.",
+  "Objets : trois cartons de plans ; la liste de quatre étapes au dos d’un calque (1) ; le calendrier mural de l’entrée et l’alarme unique (2) ; l’esquisse originale au feutre de l’école des Peupliers, Rezé, 1996, scannée en 3 et donnée aux archives en 12 ; la fiche de choix signée (6) ; le cahier du groupe et le carnet des décisions closes (8) ; l’enregistrement en six phrases et sa carte transcrite (9) ; la carte du 31 14 (11). La rambarde est vert d’eau.",
+  "Chronologie : tri commencé un samedi (1) ; réunion manquée un mercredi (2) ; affiche en 3 ; Erwan en 5 avant la consultation commune ; colère un mardi (6) ; deux semaines sans ouvrir le troisième carton (7) ; bilan de déglutition demandé en 10 ; suivi hebdomadaire avec la psychologue à partir de 11 ; rendez-vous avec Mme Kerjean le mardi avant l’ouverture, un samedi (12).",
+  "Aucun nom de médicament, aucune dose, aucun arrêt ou ajout. La neurologue décide des traitements et des examens. En cas de gêne respiratoire persistante, le 15 ; en cas de danger immédiat, le 15 ou le 112 ; le 31 14 pour la détresse. Les idées noires de 11 sont évaluées par la neurologue, sans méthode ni scène de passage à l’acte. Les aménagements sont des arrangements d’organisation, sans efficacité thérapeutique revendiquée.",
+  "Fin : cinq documents exposés, l’esquisse originale donnée aux archives de l’Atelier, la voix de Clarisse racontant la barque retournée ; Viviane personne de confiance ; demande MDPH déposée sans réponse ; souhaits révisables ; le trouble continue d’évoluer et Clarisse choisit ce qu’elle partage."
+ ],
+ "episodes": [
+  {
+   "number": 1,
+   "focus": "Planifier un tri quand l’organisation flanche",
+   "scene": "Un samedi matin, dans son appartement de l’île de Nantes, Clarisse ouvre les trois cartons de plans. Le courriel de Yannick demande cinq documents dans trois semaines pour l’exposition « Des écoles pour la ville ». Elle se souvient de chaque chantier, de chaque cote du préau de l’école des Peupliers, mais ne sait pas par où commencer : elle ouvre un carton, le referme, en ouvre un autre. À midi, la table est couverte et rien n’est choisi. Viviane arrive et propose de trier à sa place.",
+   "development": "Atteinte des fonctions exécutives (planifier, initier, passer d’une étape à l’autre), typique du début de cette démence, avec une mémoire relativement épargnée : le contraste entre des souvenirs précis et une matinée sans résultat. Trois appuis : découper la tâche en étapes écrites ; limiter chaque séance à un carton ; utiliser des incitations externes sans faire à la place de Clarisse.",
+   "ending": "Clarisse refuse que Viviane trie pour elle. Elles écrivent au dos d’un calque une liste de quatre étapes, un carton par samedi et un seul critère, les écoles. Viviane note seulement ce que sa sœur dicte. Le premier carton est trié avant le soir.",
+   "next": "La liste fixe l’ordre des étapes, pas les dates : mardi, le rendez-vous du groupe à l’Atelier des Quais va lui échapper.",
+   "source_refs": [
+    "oms-cddr",
+    "oms-cddr-hrb",
+    "pnds-huntington-2021",
+    "nice-ng97"
+   ],
+   "diagnostic_stage": "known"
+  },
+  {
+   "number": 2,
+   "focus": "Perdre les dates en gardant son chemin",
+   "scene": "Clarisse marche sans hésiter jusqu’à l’Atelier des Quais, par le chemin qu’elle prend depuis vingt ans, son premier carton trié sous le bras. La salle est vide. Le gardien lui dit que la réunion du groupe a eu lieu la veille, mardi. Elle était certaine que c’était aujourd’hui. Sur son téléphone, trois rappels contradictoires qu’elle a programmés elle-même. Elle rentre avec le carton, vexée de ne pas avoir pu montrer son choix.",
+   "development": "Dans la maladie de Huntington, l’orientation dans le temps peut se dérégler plus tôt que l’orientation dans l’espace : Clarisse retrouve son chemin mais perd les jours, les délais et l’ordre des rendez-vous. Trois appuis : un seul support visible pour les dates ; une routine stable ; des rappels peu nombreux, choisis avec elle, parce que trop d’alarmes peuvent gêner. Une confusion soudaine et inhabituelle demanderait un avis médical rapide.",
+   "ending": "Avec Viviane, Clarisse remplace les trois rappels par un calendrier mural dans l’entrée et une seule alarme la veille de chaque réunion. Elle demande à Yannick d’envoyer après chaque séance un compte rendu de trois lignes. Il accepte.",
+   "next": "À la réunion suivante, le groupe veut qu’elle redessine son esquisse devant tout le monde pour l’affiche.",
+   "source_refs": [
+    "oms-cddr",
+    "oms-cddr-hrb",
+    "pnds-huntington-2021"
+   ],
+   "diagnostic_stage": "known"
+  },
+  {
+   "number": 3,
+   "focus": "Mouvements involontaires accentués par le stress",
+   "scene": "À l’Atelier des Quais, Yannick tend à Clarisse un feutre et un calque : l’affiche aurait besoin d’une copie propre de l’esquisse de l’école des Peupliers. Huit personnes la regardent. Son épaule tressaute, sa main part sur le côté, le trait du préau dévie. Maud, la bénévole qui scanne les documents, demande gentiment si elle a froid. Clarisse pose le feutre. Chez elle, la veille au soir, elle avait tracé la même courbe sans encombre.",
+   "development": "La chorée de la maladie de Huntington : des mouvements involontaires, irréguliers et sans but, qui augmentent avec la fatigue et le stress émotionnel et disparaissent en général pendant le sommeil ; la dextérité fine peut aussi être touchée. Trois appuis : repérer avec elle les situations qui les accentuent ; demander à l’ergothérapeute des aides adaptées ; signaler la gêne à la neurologue, qui décide d’un éventuel traitement.",
+   "ending": "Clarisse propose de scanner l’esquisse originale plutôt que de la recopier. Sur le quai, elle dit à Yannick le nom de sa maladie et lui demande de ne plus lui proposer de dessiner en public. Elle prend rendez-vous avec M. Ferrand, l’ergothérapeute, pour ses feutres et sa tablette.",
+   "next": "Le samedi, Clarisse raconte cette conversation à Viviane, et sa sœur se méprend sur son visage.",
+   "source_refs": [
+    "oms-cddr",
+    "oms-cddr-hrb",
+    "pnds-huntington-2021"
+   ],
+   "diagnostic_stage": "known"
+  },
+  {
+   "number": 4,
+   "focus": "Un visage qui ne traduit plus ses émotions",
+   "scene": "Le samedi, dans la cuisine, Clarisse raconte à Viviane qu’elle a parlé de sa maladie à Yannick. Sa voix est égale, son visage immobile. Viviane croit que cela lui a été indifférent et lui dit qu’elle aurait aimé être prévenue. Puis Viviane, les yeux rouges, annonce que son fils Erwan part en stage à Montréal. Clarisse ne relève pas et revient à l’affiche. Viviane remet son manteau plus tôt que prévu.",
+   "development": "Une cognition sociale modifiée : la maladie peut rendre plus difficile la reconnaissance des émotions d’autrui et leur expression par le visage ou la voix. Un visage peu mobile est souvent pris à tort pour de l’indifférence. Trois appuis : dire les émotions avec des mots ; vérifier ce que l’autre a voulu montrer ; expliquer ces difficultés aux proches, avec l’accord de Clarisse.",
+   "ending": "Le lendemain, au téléphone, les deux sœurs conviennent d’une phrase : « Dis-moi avec des mots ce que tu ressens, je ferai pareil. » Clarisse dit qu’elle avait eu peur sur le quai. Elle propose à Viviane de venir à la prochaine consultation, pour que la docteure Lebreton explique ces difficultés devant elles deux.",
+   "next": "Avant cette consultation, Erwan vient aider à porter les cartons et pose une question sur la famille.",
+   "source_refs": [
+    "oms-cddr",
+    "oms-cddr-hrb",
+    "pnds-huntington-2021",
+    "nice-ng97"
+   ],
+   "diagnostic_stage": "known"
+  },
+  {
+   "number": 5,
+   "focus": "Une information génétique qui appartient à chacun",
+   "scene": "Erwan, 24 ans, porte le deuxième carton jusqu’à la voiture. Sur le pont, il demande : « Mamie Jeanne avait la même maladie que toi ? Et maman, elle l’a ? » Clarisse serre la poignée de la portière. Elle sait ce qui concerne sa mère et elle-même. Elle ne sait pas ce que Viviane a décidé de faire de l’information qu’elle lui a transmise il y a trois ans, et ne l’a jamais demandé. Erwan attend une réponse.",
+   "development": "La maladie de Huntington se transmet selon un mode autosomique dominant ; chaque personne apparentée a pourtant son propre parcours : droit de savoir ou de ne pas savoir, confidentialité, conseil génétique en consultation spécialisée, test présymptomatique réservé aux adultes qui le demandent. Trois appuis : dire ce qui nous concerne soi-même ; ne pas répondre à la place d’un autre ; orienter vers la bonne personne ou la consultation. Aucun risque individuel n’est calculé.",
+   "ending": "Clarisse répond : « Oui, mamie Jeanne avait la maladie de Huntington, comme moi. Pour ta mère et pour toi, ce n’est pas à moi de répondre. Parle avec elle ; il existe aussi des consultations de génétique. » Le soir, elle dit à Viviane qu’Erwan a posé la question, sans rien ajouter. Viviane répond qu’elle lui parlera elle-même.",
+   "next": "Elle décide de ne pas évoquer la maladie de sa mère à l’exposition, pour l’instant ; mardi, à l’Atelier, une autre surprise l’attend.",
+   "source_refs": [
+    "oms-cddr",
+    "oms-cddr-hrb",
+    "pnds-huntington-2021",
+    "legifrance-l1131-1"
+   ],
+   "diagnostic_stage": "known"
+  },
+  {
+   "number": 6,
+   "focus": "Une colère soudaine devant un changement imposé",
+   "scene": "Mardi, à l’Atelier des Quais, Clarisse ouvre la chemise de ses cinq documents. Pour gagner du temps, Yannick les a regroupés avec d’autres et a remplacé le plan de l’école des Peupliers par celui de la médiathèque. Elle hausse la voix, referme la chemise d’un coup sec, lui dit qu’il a toujours fait ainsi. Le silence tombe. Maud baisse les yeux. Clarisse sent que sa colère est allée plus loin qu’elle ne le voulait.",
+   "development": "L’irritabilité, fréquente et fluctuante dans cette maladie : impatience et colère déclenchées par une contrariété minime, favorisées par l’impulsivité, la fatigue et la frustration des capacités perdues. Trois appuis : chercher d’abord ce qui l’a déclenchée dans l’environnement ; des règles prévisibles ; des façons d’éviter la confrontation, apprises aussi par l’entourage.",
+   "ending": "Clarisse sort dix minutes sur le quai, revient et dit : « Je veux qu’on me demande avant de déplacer mes documents. » Le groupe adopte une fiche de choix qu’elle signe pour chaque document ; rien n’est modifié hors de sa présence. Elle raconte l’épisode à la docteure Lebreton, qui l’interroge sur sa fatigue et son sommeil.",
+   "next": "Après cette séance, Clarisse n’ouvre plus le troisième carton pendant deux semaines.",
+   "source_refs": [
+    "oms-cddr",
+    "oms-cddr-hrb",
+    "pnds-huntington-2021",
+    "nice-ng97"
+   ],
+   "diagnostic_stage": "known"
+  },
+  {
+   "number": 7,
+   "focus": "Quand l’élan manque sans que la volonté cède",
+   "scene": "Le samedi, Viviane trouve le troisième carton fermé dans l’entrée, la liste du calque arrêtée à l’étape trois. Clarisse, sur le canapé, dit qu’elle n’a envie de rien mais qu’elle n’est pas triste. Les plans de la médiathèque, qu’elle aimait tant, ne l’attirent plus. Viviane lâche : « Tu ne fais plus aucun effort. » Clarisse ne répond pas. La date de remise au groupe est dans dix jours.",
+   "development": "L’apathie, symptôme très fréquent de cette maladie : une baisse de l’intérêt, de la spontanéité et de l’élan vers un but, distincte d’un manque de volonté, parfois liée à une surcharge et en alternance avec l’irritabilité. Trois appuis : expliquer l’apathie à l’entourage ; donner un point de départ concret et une routine ; demander à l’équipe de vérifier qu’une dépression n’est pas en jeu.",
+   "ending": "Elles fixent un rendez-vous : à dix heures, Viviane ouvre le carton, Clarisse choisit, Viviane note. Le carton est trié en une heure. À la consultation, la docteure Lebreton ne retrouve pas de dépression ce jour-là ; Mme Kerjean, l’assistante sociale, propose un service d’accompagnement à domicile, que Clarisse accepte d’étudier.",
+   "next": "Le carton rouvert, une teinte de rambarde va occuper toutes ses pensées.",
+   "source_refs": [
+    "oms-cddr",
+    "oms-cddr-hrb",
+    "pnds-huntington-2021",
+    "nice-ng97"
+   ],
+   "diagnostic_stage": "known"
+  },
+  {
+   "number": 8,
+   "focus": "Revenir sans cesse au même détail",
+   "scene": "Sur l’épreuve de l’affiche, la rambarde de l’escalier des Peupliers est grise. Clarisse se souvient du vert d’eau choisi en 1996. Elle appelle Yannick, qui promet de corriger. Elle rappelle le soir, puis quatre fois le lendemain, relit le même courriel, et ramène le sujet à la réunion alors que la correction a été validée la veille. Elle ne s’en rend pas compte. Yannick finit par répondre sèchement.",
+   "development": "La persévération : une pensée ou une demande qui se répète au-delà du moment où elle avait un sens, avec peu de conscience de cette répétition, à distinguer d’une obsession vécue comme pénible et reconnue comme telle. Elle est surtout fréquente aux stades plus avancés ; chez Clarisse, elle reste limitée. Trois appuis : aider l’entourage à y voir un symptôme ; garder une trace visible des décisions closes ; en parler à l’équipe.",
+   "ending": "Yannick écrit dans le cahier du groupe : « Rambarde vert d’eau : corrigé le 12, validé par Clarisse. » Quand elle y revient, il ouvre la page au lieu de discuter. Clarisse crée chez elle un carnet des décisions closes et le mentionne à la docteure Lebreton.",
+   "next": "Les cinq documents sont choisis ; le groupe lui demande maintenant d’enregistrer un court souvenir pour l’exposition.",
+   "source_refs": [
+    "oms-cddr",
+    "oms-cddr-hrb",
+    "pnds-huntington-2021"
+   ],
+   "diagnostic_stage": "known"
+  },
+  {
+   "number": 9,
+   "focus": "Parler plus lentement et se faire comprendre",
+   "scene": "Dans l’arrière-salle de l’Atelier des Quais, Maud installe un micro pour enregistrer le souvenir de Clarisse. De l’autre côté de la cloison, une perceuse démarre. Clarisse commence la phrase sur le préau, s’arrête, reprend ; un mot se casse, sa voix monte d’un coup. Elle recommence quatre fois. Maud propose qu’une comédienne lise son texte. Clarisse répond qu’elle veut que ce soit sa voix.",
+   "development": "Une parole ralentie et moins nette, avec des pauses, des éclats de voix et des phrases longues plus difficiles à construire : un aspect de la maladie souvent méconnu, source de malentendus. Trois appuis : laisser le temps et réduire le bruit ; préférer des phrases courtes, des questions fermées et la reformulation ; travailler avec un orthophoniste, en gardant si possible la parole de la personne.",
+   "ending": "Avec Lucien Morvan, son orthophoniste, Clarisse découpe le souvenir en six phrases courtes. Maud l’enregistre chez elle, un mercredi matin, fenêtres fermées. Une carte transcrite accompagnera l’enregistrement à l’exposition. Le souvenir de la barque retournée y figure, sans le prénom de sa mère.",
+   "next": "Pour fêter l’enregistrement, le groupe déjeune dans une crêperie du quai, et le repas tourne court.",
+   "source_refs": [
+    "oms-cddr",
+    "oms-cddr-hrb",
+    "pnds-huntington-2021",
+    "nice-ng97"
+   ],
+   "diagnostic_stage": "known"
+  },
+  {
+   "number": 10,
+   "focus": "Fausses routes pendant un repas animé",
+   "scene": "À la crêperie, la table est bruyante. Clarisse parle de l’enregistrement, mange vite, reprend une bouchée avant d’avoir avalé la précédente. Elle tousse fort, longtemps ; la table se tait. Yannick demande s’il doit appeler les secours ; elle fait signe d’attendre, et la toux finit par libérer sa gorge. Elle respire de nouveau normalement mais reste rouge et gênée. C’est la deuxième fois ce mois-ci, dit-elle à mi-voix.",
+   "development": "Les troubles de la déglutition peuvent apparaître tôt dans cette maladie : manger vite, mâcher moins, enchaîner les bouchées et parler en mangeant favorisent les fausses routes, avec un risque d’infections pulmonaires. Trois appuis : en parler à l’équipe pour un bilan d’orthophonie ; un repas au calme, une seule tâche à la fois ; savoir qu’une gêne respiratoire qui persiste justifie d’appeler le 15 sans attendre.",
+   "ending": "Clarisse signale les deux épisodes à la docteure Lebreton, qui demande un bilan de déglutition à Lucien Morvan. Elle décide de parler d’abord et de manger ensuite, et de choisir une table au calme. Elle demande au groupe de ne pas s’affoler, mais d’appeler le 15 si elle ne reprend pas son souffle.",
+   "next": "En rédigeant la courte biographie du catalogue, Clarisse compte ce qu’elle a perdu, et les nuits deviennent sombres.",
+   "source_refs": [
+    "oms-cddr",
+    "oms-cddr-hrb",
+    "pnds-huntington-2021",
+    "service-public-urgences"
+   ],
+   "diagnostic_stage": "known"
+  },
+  {
+   "number": 11,
+   "focus": "Idées noires à dire et à faire évaluer",
+   "scene": "Le catalogue demande trois lignes de biographie. Clarisse écrit « ancienne architecte », barre, recommence. Elle pense à l’agence, au dessin, aux repas, à sa mère à la fin. La nuit, elle se surprend à penser que tout serait plus simple si elle n’était plus là. À la consultation, la docteure Lebreton lui demande directement si elle a de telles pensées. Clarisse hésite longtemps, puis répond oui, sans projet.",
+   "development": "Dans la maladie de Huntington, la dépression est fréquente à tous les stades et le risque suicidaire doit être évalué régulièrement, surtout quand la maladie commence à peser sur la vie quotidienne. Trois appuis : en parler à un professionnel ; un suivi régulier et un entourage prévenu avec son accord ; le 31 14 jour et nuit, et le 15 ou le 112 en cas de danger immédiat.",
+   "ending": "La docteure Lebreton évalue la situation et propose un suivi rapproché avec Bérangère Joly, la psychologue de l’équipe. Clarisse accepte une consultation par semaine et autorise l’équipe à prévenir Viviane. Elle garde dans son portefeuille une carte avec le 31 14. Elle réécrit la biographie au présent : « Clarisse, architecte, a dessiné des écoles. »",
+   "next": "Avec Mme Kerjean, Clarisse doit maintenant préparer la suite, quelques jours avant l’ouverture de l’exposition.",
+   "source_refs": [
+    "oms-cddr",
+    "oms-cddr-hrb",
+    "pnds-huntington-2021",
+    "service-public-urgences",
+    "numero-3114"
+   ],
+   "diagnostic_stage": "known"
+  },
+  {
+   "number": 12,
+   "focus": "Anticiper les aides et transmettre l’esquisse",
+   "scene": "Le samedi de l’ouverture, l’Atelier des Quais est plein. L’esquisse originale de l’école des Peupliers est sous verre, la voix de Clarisse passe en boucle avec sa carte transcrite. Le mardi précédent, avec Mme Kerjean, elle a rempli une demande à la MDPH et parlé de personne de confiance. Yannick lui demande si elle veut dire quelques mots. Viviane et Erwan sont au fond de la salle.",
+   "development": "Anticiper les aides et les choix futurs dans une maladie évolutive : demander tôt les aides utiles, avant certaines limites d’âge comme celle de 60 ans pour la PCH, désigner une personne de confiance, envisager mandat de protection et directives anticipées révisables. Trois appuis : partir de ses besoins exprimés ; choisir qui sera informé de quoi ; prévoir de revoir ces choix. Aucun aménagement ne ralentit la maladie.",
+   "ending": "Clarisse donne l’esquisse originale aux archives de l’Atelier. Devant le public, elle dit en deux phrases que sa mère, Jeanne, a vu dans ce préau une barque retournée, sans parler de sa maladie. Elle a désigné Viviane comme personne de confiance ; Viviane accepte, en précisant que l’aide du quotidien viendra aussi des services.",
+   "next": "L’exposition est ouverte ; la réponse de la MDPH prendra des mois, les souhaits restent révisables et Clarisse continue de choisir ce qu’elle partage.",
+   "source_refs": [
+    "oms-cddr",
+    "oms-cddr-hrb",
+    "pnds-huntington-2021",
+    "service-public-pch",
+    "nice-ng97"
+   ],
+   "diagnostic_stage": "known"
+  }
+ ]
+}

@@ -1,0 +1,209 @@
+{
+ "schema_version": 1,
+ "character_id": "anne",
+ "code": "6D83",
+ "article_format": 2,
+ "bio": "Anne, 61 ans, ancienne gestionnaire d’un réseau de médiathèques, garde chez elle 140 cassettes de conférences publiques qu’elle a programmées pendant vingt ans. Sa démence frontotemporale, diagnostiquée à 59 ans, efface d’abord le sens des mots peu familiers et change parfois sa manière d’être avec les autres. Chaque mercredi, son amie Solange vient en écouter une avec elle. Anne veut décider quelles archives transmettre et préserver ces échanges familiers, avec sa fille Clémence et l’équipe du centre mémoire, en gardant ses choix.",
+ "profile_topics": [
+  "Démence frontotemporale",
+  "Le sens des mots qui s’efface",
+  "Changements d’empathie et de comportement",
+  "Adapter les échanges sans décider à sa place",
+  "Transmettre des archives sonores"
+ ],
+ "voice": "Une parole fluide et ironique de bibliothécaire, attachée aux catalogues, aux cotes et aux fiches bien faites. Quand un mot manque, Anne le contourne par une périphrase élégante, « la machine qui garde les voix », et ces images sont les siennes, jamais une explication du trouble. Elle tient à ses horaires, défend ses choix sur les archives et ne raconte pas tout de ses rendez-vous médicaux.",
+ "series_goal": "Signer avec les archives intercommunales une convention qui dépose 137 cassettes des Rencontres du jeudi avec les résumés et le carnet de mots dictés par Anne, garder trois cassettes familiales pour Clémence et préserver les mercredis d’écoute avec Solange, tout en apprenant à ses proches à adapter les échanges et en préparant la suite avec l’équipe du centre mémoire.",
+ "continuity_rules": [
+  "Diagnostic établi avant la série : known aux douze épisodes. Anne Lebreton, 61 ans, ancienne gestionnaire du réseau des médiathèques des Coteaux, vit seule à Chalonnes-sur-Loire ; démence frontotemporale diagnostiquée à 59 ans au centre mémoire d’Angers, forme qui touche d’abord le sens des mots, avec des changements de comportement apparus ensuite ; démence considérée comme légère par l’équipe au début. Au départ, à 58 ans, on avait parlé d’épuisement ou de dépression. Aucun stade, aucun sous-type supplémentaire ni aucune vitesse d’évolution ne sont déduits d’une scène.",
+  "Objets et lieux : 140 cassettes des Rencontres du jeudi (1991–2012), dont « Le fleuve et ses mots » (1998) ; résumés de trois phrases au dos des jaquettes (1) ; fiche d’inventaire de Yann avec colonne « terme technique » (2) ; légendes des photos en trois parties (3) ; deux post-it gardés (5) ; classement par couleur ajouté en second (7) ; une platine conservée pour les archives, quatre renvoyées (8) ; carnet de mots des archives (10) ; trois cassettes familiales avec messages pour Clémence enfant (12).",
+  "Personnes : Solange Ferrand, 66 ans, amie, ancienne régisseuse son du réseau, vient le mercredi à quinze heures ; son frère est hospitalisé en 6 et sort en 10 ou 11. Clémence Lebreton, 33 ans, fille, paysagiste à Nantes, vient le dimanche, n’est pas soignante ; groupe d’aidants à partir de 11. Docteure Claire Kervella, neurologue du centre mémoire ; Delphine Arnoux, orthophoniste libérale, à partir de 10. Yann Le Goff, responsable des archives intercommunales ; Pascal Viard, successeur d’Anne à la tête du réseau. Aucun proche ne joue au diagnosticien ni ne décide à la place d’Anne.",
+  "Chronologie : appel de Yann le jeudi (2) ; bande-annonce enregistrée en 4 ; colis le mardi (8) ; consultation au centre mémoire en 9, qu’Anne a demandée ; première séance avec Delphine un mercredi (10) ; signature de la convention avant la numérisation de printemps (12). La répartition des cassettes reste ouverte de 2 à 11 : Yann veut tout, Pascal une vingtaine.",
+  "Partage d’informations : Clémence et Solange décrivent à l’équipe des faits observés seulement avec l’accord d’Anne (6, 7, 8) ; Anne peut garder pour elle une partie de ses rendez-vous. La décision génétique d’Anne (9) et celle de Clémence sont distinctes ; aucune probabilité ni protocole de test.",
+  "Aucun nom de médicament, aucune dose ; les médicaments de la maladie d’Alzheimer ne sont pas proposés dans ce trouble (10). Les aménagements (résumés, carnet de mots, rituels) sont des arrangements d’organisation, sans effet revendiqué sur l’évolution. Les changements de comportement ne sont jamais présentés comme de la mauvaise volonté ; un changement nouveau est signalé à l’équipe pour évaluation.",
+  "Fin : convention signée, 137 cassettes déposées, trois cassettes familiales confiées à Clémence ; mandat de protection future en préparation avec Clémence comme mandataire ; souhaits écrits, révisables, avec la docteure Kervella ; écoute du mercredi limitée à une heure ; le trouble continue d’évoluer."
+ ],
+ "episodes": [
+  {
+   "number": 1,
+   "focus": "Ne plus comprendre des mots peu familiers",
+   "scene": "Un mercredi à quinze heures, dans le salon de Chalonnes-sur-Loire, Solange Ferrand glisse dans le lecteur la cassette de 1998, « Le fleuve et ses mots », une conférence qu’Anne avait elle-même programmée. Le conférencier parle de l’étiage. Anne arrête la bande, répète le mot sans la moindre faute et demande ce qu’il veut dire. Solange rit, croit à une plaisanterie, puis voit qu’Anne attend vraiment la réponse.",
+   "development": "Dans la démence frontotemporale qui touche d’abord le langage par le sens des mots, la compréhension des mots isolés se perd, surtout pour les mots rares ou peu familiers, alors que la répétition et l’articulation restent intactes. L’explication part de ce décalage entre savoir dire un mot et savoir ce qu’il désigne, puis revient au rire de Solange. Trois appuis : donner le sens en une phrase simple sans transformer l’écoute en interrogation ; ralentir la bande sur les passages denses ; laisser Anne choisir quand on s’arrête. Aucun test de vocabulaire n’est proposé à domicile.",
+   "ending": "Anne décide que chaque écoute sera suivie d’un résumé de trois phrases en mots simples, qu’elle dicte et que Solange écrit au dos de la jaquette. Solange cesse de rire quand Anne demande un mot et répond d’une phrase.",
+   "next": "Le jeudi suivant, remplir la fiche d’inventaire envoyée par Yann Le Goff demandera à Anne de nommer des objets et des métiers qu’elle décrit sans peine.",
+   "source_refs": [
+    "oms-cddr",
+    "oms-cddr-hrb",
+    "gorno-tempini-2011",
+    "has-fiche14-communiquer"
+   ],
+   "diagnostic_stage": "known"
+  },
+  {
+   "number": 2,
+   "focus": "Parler couramment mais sans trouver le mot",
+   "scene": "Yann Le Goff, responsable des archives intercommunales, appelle pour remplir avec Anne la fiche d’inventaire des Rencontres du jeudi. Elle parle avec aisance, en phrases complètes, de la salle comble de 1994 et du débat qui avait suivi, mais ne trouve ni « magnétophone », ni « micro-cravate », ni le nom du métier de Solange. Elle dit « la machine qui garde les voix ». Au bout du fil, Yann propose de rappeler un jour où elle sera moins fatiguée.",
+   "development": "Le manque du mot, ou anomie, accompagne la perte du sens des mots : la parole reste fluide et grammaticale, mais les noms précis se dérobent et sont remplacés par des périphrases ou des termes généraux. L’explication distingue ce manque d’une fatigue passagère ou d’un désintérêt, puis revient au malentendu de Yann. Trois appuis : accepter la périphrase quand le sens passe ; proposer le mot sans exiger qu’elle le répète ; préparer par écrit les termes techniques avant un appel. Le téléphone, sans gestes ni objets sous les yeux, rend l’échange plus difficile.",
+   "ending": "Anne demande à Yann de lui envoyer la fiche par écrit. Elle dictera ses descriptions avec ses propres mots ; Solange remplira à côté une colonne « terme technique ». Yann accepte de ne plus fixer les rendez-vous par téléphone.",
+   "next": "En triant les photos des conférences pour accompagner la fiche, Anne butera sur des visages et des objets qu’elle a pourtant côtoyés pendant vingt ans.",
+   "source_refs": [
+    "oms-cddr",
+    "oms-cddr-hrb",
+    "gorno-tempini-2011",
+    "nice-ng97"
+   ],
+   "diagnostic_stage": "known"
+  },
+  {
+   "number": 3,
+   "focus": "Reconnaître moins bien des visages et des objets connus",
+   "scene": "Dans la salle à manger, Anne et Solange étalent les photos des Rencontres du jeudi sur la grande table. Anne reconnaît la salle, l’affiche et l’année ; elle ne reconnaît pas l’ancien maire qui l’avait soutenue, ni le nom qu’on prononce devant elle, et tient la perchette à micro de Solange en demandant à quoi elle servait. Elle se souvient pourtant très bien de la soirée et de l’orage qui avait coupé le courant.",
+   "development": "La mémoire sémantique ne porte pas seulement sur les mots : elle contient aussi ce que l’on sait des objets et des personnes. Quand elle s’altère, une personne peut ne plus reconnaître un visage, un nom ou l’usage d’un objet, par la vue comme par le toucher, tout en gardant le souvenir de l’événement. L’explication part de ce contraste, puis revient à la soirée de l’orage. Trois appuis : associer à chaque photo un nom, un rôle et un souvenir partagé ; présenter les personnes en contexte lors des rencontres ; ne pas tester la reconnaissance.",
+   "ending": "Anne dicte sous chaque photo une légende en trois parties : qui, ce qu’il faisait, ce qu’elles avaient vécu ensemble. Elle choisit de ne pas montrer l’album au repas de famille et de le garder pour le dossier des archives.",
+   "next": "Pascal Viard, son successeur, lui demande de lire à voix haute la liste des titres pour préparer le podcast du réseau.",
+   "source_refs": [
+    "oms-cddr",
+    "oms-cddr-hrb",
+    "gorno-tempini-2011",
+    "has-fiche14-communiquer"
+   ],
+   "diagnostic_stage": "known"
+  },
+  {
+   "number": 4,
+   "focus": "Lire les mots irréguliers comme ils s’écrivent",
+   "scene": "Dans le bureau de Pascal Viard, à la médiathèque centrale, Anne lit à voix haute la liste des titres pour l’enregistrement d’une bande-annonce. Sa voix est claire et posée ; mais elle prononce « le fils du meunier » en faisant sonner le l, lit « août » en deux syllabes et écorche le nom d’un conférencier qu’elle a pourtant invité. Le technicien relance la prise ; Pascal propose gentiment de « faire sans la liste ».",
+   "development": "Dans l’atteinte du sens des mots, la lecture peut suivre les règles d’orthographe au lieu de s’appuyer sur la connaissance du mot : les mots dont l’écriture ne correspond pas à la prononciation habituelle sont lus comme ils s’écrivent. Ce phénomène, appelé dyslexie de surface, peut toucher aussi l’écriture. L’explication part de ce mécanisme, puis revient à la prise ratée. Les exemples français sont des choix de la série. Trois appuis : préparer les mots difficiles à l’avance avec leur prononciation ; partager la lecture ; laisser à Anne la partie qu’elle veut garder.",
+   "ending": "Anne décide que Pascal lira les titres et qu’elle enregistrera l’introduction, avec ses propres mots, sans papier. La bande-annonce est enregistrée en deux prises.",
+   "next": "Le dimanche, Clémence découvre des post-it de rappel qu’elle a collés partout et se demande si sa mère oublie aussi les rendez-vous.",
+   "source_refs": [
+    "oms-cddr",
+    "oms-cddr-hrb",
+    "gorno-tempini-2011",
+    "has-fiche14-communiquer"
+   ],
+   "diagnostic_stage": "known"
+  },
+  {
+   "number": 5,
+   "focus": "Une mémoire du quotidien mieux préservée que les mots",
+   "scene": "Clémence arrive de Nantes un dimanche et colle des post-it sur la porte du frigo : le rendez-vous de Yann, le passage de Solange, la prise de la bande-annonce. Anne les décolle un à un en rappelant la date, l’heure et ce que Yann a proposé jeudi dernier. Elle a seulement oublié le mot « frigo ». Clémence, qui a lu des témoignages sur la maladie d’Alzheimer, ne comprend pas ce mélange.",
+   "development": "Dans cette forme de démence frontotemporale, la mémoire des événements récents est souvent mieux préservée au début que le sens des mots, à la différence du profil le plus courant de la maladie d’Alzheimer. Ce contraste peut évoluer avec le temps et ne vaut pas pour toutes les personnes. L’explication part de cette distinction, puis revient aux post-it. Trois appuis : demander à Anne quelles aides lui sont utiles ; réserver l’écrit aux mots et aux noms plutôt qu’aux dates ; signaler à l’équipe tout changement observé, avec son accord.",
+   "ending": "Anne garde deux post-it, ceux où Clémence a écrit les noms de Yann et de Pascal, et retire les autres. Clémence accepte de demander avant d’ajouter une aide.",
+   "next": "Le mercredi suivant, Solange arrive bouleversée et Anne ne semble pas le remarquer.",
+   "source_refs": [
+    "oms-cddr",
+    "oms-cddr-hrb",
+    "gorno-tempini-2011",
+    "has-fiche2-apparentees"
+   ],
+   "diagnostic_stage": "known"
+  },
+  {
+   "number": 6,
+   "focus": "Percevoir moins la peine de ceux qu’on aime",
+   "scene": "Solange arrive en retard, les yeux rouges : son frère vient d’être hospitalisé. Elle le dit en posant son manteau. Anne enchaîne aussitôt sur la cassette de 2003 et lui reproche d’avoir mal rangé les jaquettes. Solange se tait, puis lâche qu’elle ne reconnaît plus son amie. En rentrant, elle appelle Clémence, qui se souvient qu’au début, à 58 ans, tout le monde avait parlé de dureté, d’épuisement ou de dépression.",
+   "development": "Les maladies frontotemporales peuvent diminuer la capacité à percevoir les émotions d’autrui et à y répondre : les proches ressentent une distance inhabituelle ou des propos blessants qui ne correspondent pas à la personne d’avant. Ce changement neurologique n’est ni de la froideur choisie ni de la mauvaise volonté, et il a longtemps été confondu avec des troubles psychiatriques. L’explication part de ce mécanisme, puis revient au manteau posé et à la phrase non entendue. Trois appuis : dire son émotion et son besoin en mots simples ; noter les faits observés pour l’équipe, avec l’accord d’Anne ; protéger aussi l’aidante.",
+   "ending": "Le mercredi suivant, Solange commence par une phrase préparée : « Aujourd’hui je suis triste, j’ai besoin qu’on parle dix minutes de mon frère. » Anne pose la cassette et l’écoute. Elle accepte que Clémence mentionne ce changement au prochain rendez-vous au centre mémoire.",
+   "next": "Les mercredis prennent une forme plus fixe, qu’Anne défend désormais avec une insistance nouvelle.",
+   "source_refs": [
+    "oms-cddr",
+    "oms-cddr-hrb",
+    "rascovsky-2011",
+    "has-fiche2-apparentees"
+   ],
+   "diagnostic_stage": "known"
+  },
+  {
+   "number": 7,
+   "focus": "Routines rigides et goût nouveau pour le sucré",
+   "scene": "Anne exige que l’écoute commence à quinze heures exactes, dans le même fauteuil, avec le même paquet de madeleines qu’elle termine désormais à chaque séance. Elle a aussi rangé les cassettes par couleur de jaquette, ce qui défait la numérotation que Yann avait établie. Quand Solange arrive à quinze heures dix à cause d’un bouchon, Anne refuse de lancer la bande et reste à la fenêtre.",
+   "development": "Des comportements répétitifs ou ritualisés et des changements d’alimentation, comme une attirance pour le sucré, peuvent apparaître dans les démences frontotemporales. Ils traduisent des changements cérébraux, pas un caprice. L’explication distingue une préférence ancienne qu’on respecte d’un changement nouveau qui mérite d’être signalé à l’équipe, puis revient au fauteuil et aux madeleines. Trois appuis : garder les rituels qui apaisent ; prévenir d’un retard avant l’heure ; noter le changement alimentaire, avec l’accord d’Anne, pour le prochain rendez-vous. Aucun régime n’est imposé par les proches.",
+   "ending": "Anne et Solange gardent quinze heures, mais Solange envoie un message dès qu’elle est en retard. Yann accepte d’ajouter la couleur de la jaquette comme second classement. Clémence note la consommation de madeleines pour la consultation.",
+   "next": "Une nuit, Anne commande sur internet plusieurs appareils dont elle n’a pas besoin.",
+   "source_refs": [
+    "oms-cddr",
+    "oms-cddr-hrb",
+    "rascovsky-2011",
+    "nice-ng97"
+   ],
+   "diagnostic_stage": "known"
+  },
+  {
+   "number": 8,
+   "focus": "Achats impulsifs et risques mal perçus",
+   "scene": "Le mardi, cinq colis s’empilent devant la porte : cinq platines à cassettes identiques, commandées en une nuit, alors qu’Anne en possède déjà deux. Clémence, prévenue par la voisine, arrive le soir. Anne assure qu’elle en avait besoin pour les archives et ne voit pas le problème du montant. Elle refuse d’abord qu’on parle de son argent.",
+   "development": "Les démences frontotemporales peuvent s’accompagner d’actes impulsifs, comme des achats sans égard pour leurs conséquences, et d’une moindre conscience de ces changements. La personne ne cherche pas à tromper : son évaluation du risque est modifiée. L’explication part de ce mécanisme, puis revient aux colis et au refus d’Anne. Trois appuis : parler des faits, pas de la personne ; utiliser le droit de rétractation de quatorze jours prévu pour les achats à distance ; préparer avec elle et l’équipe des protections pour la suite.",
+   "ending": "Anne accepte de renvoyer quatre platines dans le délai de rétractation et d’en garder une pour Yann. Elle décide de parler elle-même de la question de l’argent à la docteure Kervella et autorise Clémence à l’accompagner.",
+   "next": "La consultation au centre mémoire d’Angers ouvrira une question que Clémence n’osait pas poser.",
+   "source_refs": [
+    "oms-cddr",
+    "oms-cddr-hrb",
+    "rascovsky-2011",
+    "service-public-retractation"
+   ],
+   "diagnostic_stage": "known"
+  },
+  {
+   "number": 9,
+   "focus": "Une cause parfois génétique : la question de Clémence",
+   "scene": "Dans le bureau de la docteure Claire Kervella, au centre mémoire d’Angers, Anne présente elle-même les colis et les madeleines. À la fin, Clémence demande si la maladie se transmet et si elle-même doit faire un test. Anne se raidit : elle était venue parler de son argent, pas de l’avenir de sa fille. La neurologue répond aux deux, l’une après l’autre.",
+   "development": "La démence frontotemporale a une cause génétique chez certaines personnes, ce qui peut amener l’équipe à proposer une consultation de génétique. La décision de la personne malade et celle de ses enfants sont distinctes et se prennent avec des professionnels de génétique, sans pression familiale. L’explication part de cette distinction, puis revient au raidissement d’Anne. Trois appuis : séparer les sujets d’une consultation ; laisser à chacun le temps de décider ; préparer ses questions par écrit. Aucune probabilité ni aucun protocole de test n’est donné.",
+   "ending": "Anne demande du temps avant d’accepter une consultation de génétique pour elle-même. Clémence prend rendez-vous de son côté, sans en faire une condition. La neurologue note les changements de comportement et propose une orthophoniste.",
+   "next": "Delphine Arnoux, orthophoniste, viendra un mercredi assister à l’écoute avec Solange.",
+   "source_refs": [
+    "oms-cddr",
+    "oms-cddr-hrb",
+    "nice-ng97",
+    "has-fiche2-apparentees"
+   ],
+   "diagnostic_stage": "known"
+  },
+  {
+   "number": 10,
+   "focus": "Sans les médicaments d’Alzheimer, adapter les échanges",
+   "scene": "Clémence a imprimé un article sur les médicaments de la maladie d’Alzheimer et le pose sur la table le mercredi où Delphine Arnoux, orthophoniste, assiste à l’écoute. La docteure Kervella avait expliqué que ces médicaments ne sont pas proposés dans ce trouble. Delphine regarde plutôt comment Solange parle à Anne pendant la cassette de 2007 : trois questions à la suite, la télévision allumée, des mots repris pour corriger.",
+   "development": "Les médicaments utilisés dans la maladie d’Alzheimer ne sont pas proposés dans la démence frontotemporale. La prise en charge s’appuie surtout sur des adaptations de la communication, des activités choisies, l’orthophonie et le soutien de l’entourage, sans promesse d’effet sur l’évolution. L’explication part de ce constat, puis revient à la scène observée. Trois appuis : une question à la fois, sans bruit de fond ; un lexique personnel d’images et de définitions dictées par Anne ; laisser le temps de répondre avant d’aider.",
+   "ending": "Anne et Delphine commencent un carnet de mots des archives : photo, mot technique et définition dictée par Anne. Solange éteint la télévision avant chaque écoute. Clémence range l’article.",
+   "next": "Les nouvelles règles demandent à Solange plus d’attention, au moment où son frère sort de l’hôpital.",
+   "source_refs": [
+    "oms-cddr",
+    "oms-cddr-hrb",
+    "nice-ng97",
+    "has-fiche13-comportement",
+    "has-fiche14-communiquer"
+   ],
+   "diagnostic_stage": "known"
+  },
+  {
+   "number": 11,
+   "focus": "Les limites et le répit de l’amie aidante",
+   "scene": "Solange, 66 ans, s’endort dans le fauteuil pendant la cassette de 2010. En se réveillant, elle avoue qu’elle ne tient plus le rythme : son frère, les mercredis, les fiches de Yann. Elle propose de venir un mercredi sur deux et se sent coupable de le dire. Anne, d’abord, répond seulement que quinze heures reste quinze heures.",
+   "development": "Accompagner une personne atteinte de démence frontotemporale use souvent l’entourage, d’autant plus que les changements de comportement et d’échange modifient la relation. Les aidants ont droit à une information, à une formation et à un répit adaptés à leurs besoins. L’explication part de ce constat, puis revient à l’endormissement de Solange. Trois appuis : dire ses limites sans se justifier ; chercher un relais extérieur, groupe d’aidants ou plateforme de répit ; garder une partie de la relation hors de l’aide.",
+   "ending": "Solange garde les mercredis mais limite l’écoute à une heure et ne remplit plus les fiches. Pascal Viard envoie une bénévole du réseau pour la numérotation. Clémence rejoint un groupe d’aidants. Anne accepte, à condition que l’heure ne change pas.",
+   "next": "Le dépôt aux archives doit être signé avant la numérisation de printemps ; Anne veut aussi préparer ce qui viendra après.",
+   "source_refs": [
+    "oms-cddr",
+    "oms-cddr-hrb",
+    "nice-ng97",
+    "has-fiche13-comportement"
+   ],
+   "diagnostic_stage": "known"
+  },
+  {
+   "number": 12,
+   "focus": "Anticiper l’évolution en gardant sa propre voix",
+   "scene": "Dans la salle de lecture des archives intercommunales, Yann Le Goff pose sur la table la convention de dépôt des Rencontres du jeudi. Anne relit avec Clémence la liste des 137 cassettes confiées, accompagnées de ses résumés et du carnet de mots, et met de côté les trois cassettes où elle avait enregistré des messages pour sa fille enfant. Elle sait que le sens des mots continue de lui échapper, plus vite certains mois que d’autres.",
+   "development": "La démence frontotemporale est une maladie progressive, et le moment où l’on peut encore exprimer ses choix est précieux pour préparer la suite. Anticiper peut passer par des souhaits écrits pour les soins, révisables, et en France par un mandat de protection future qui désigne qui la représentera le jour où elle ne pourra plus pourvoir à ses intérêts, sans lui retirer ses droits. L’explication part de cette anticipation, puis revient à la convention. Trois appuis : écrire ses souhaits avec l’équipe ; choisir son mandataire ; prévoir de réviser ces choix.",
+   "ending": "Anne signe la convention et confie les trois cassettes familiales à Clémence. Elle prépare un mandat de protection future désignant sa fille et écrit avec la docteure Kervella ses souhaits pour la suite. Le mercredi suivant, Solange revient à quinze heures pour une écoute d’une heure.",
+   "next": "Le parcours se clôt sur une transmission choisie ; la maladie continue d’évoluer et Anne garde la main sur ce qu’elle partage.",
+   "source_refs": [
+    "oms-cddr",
+    "oms-cddr-hrb",
+    "nice-ng97",
+    "service-public-mandat",
+    "has-fiche13-comportement"
+   ],
+   "diagnostic_stage": "known"
+  }
+ ]
+}

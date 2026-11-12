@@ -1,0 +1,328 @@
+{
+  "character_id": "anne",
+  "bio": "Anne, 61 ans, ancienne gestionnaire d’un réseau de médiathèques, garde chez elle 140 cassettes de conférences publiques qu’elle a programmées pendant vingt ans. Sa démence frontotemporale, diagnostiquée à 59 ans, efface d’abord le sens des mots peu familiers et change parfois sa manière d’être avec les autres. Chaque mercredi, son amie Solange vient en écouter une avec elle. Anne veut décider quelles archives transmettre et préserver ces échanges familiers, avec sa fille Clémence et l’équipe du centre mémoire, en gardant ses choix.",
+  "profile_topics": [
+    "Démence frontotemporale",
+    "Le sens des mots qui s’efface",
+    "Changements d’empathie et de comportement",
+    "Adapter les échanges sans décider à sa place",
+    "Transmettre des archives sonores"
+  ],
+  "episodes": [
+    {
+      "number": 1,
+      "slug": "anne-comprendre-mots-peu-familiers-demence-frontotemporale",
+      "title": "Ne plus comprendre des mots peu familiers qu’on sait répéter",
+      "description": "Pendant l’écoute d’une conférence de 1998, Anne répète « étiage » sans faute et demande ce qu’il veut dire : le sens des mots rares s’efface.",
+      "context": "un mercredi d’écoute dans son salon",
+      "topics": [
+        "Démence frontotemporale",
+        "compréhension des mots",
+        "répétition préservée"
+      ],
+      "clinical_intro": "Dans la démence frontotemporale qui touche d’abord le langage, une personne peut perdre le sens de certains mots tout en les prononçant parfaitement. Les mots rares ou peu familiers sont souvent les premiers concernés. Chez Anne, diagnostiquée à 59 ans au centre mémoire d’Angers, ce décalage apparaît au milieu d’une conférence qu’elle avait elle-même programmée.",
+      "opening": "Le mercredi, à quinze heures, Solange Ferrand sonne deux fois, comme toujours. L’amie d’Anne depuis trente ans, ancienne régisseuse son du réseau des médiathèques des Coteaux, porte sous le bras le lecteur à cassettes qu’elle préfère à celui de la maison. Dans le salon de Chalonnes-sur-Loire, Anne a déjà sorti la boîte numéro 61 : « Le fleuve et ses mots », Rencontres du jeudi, mars 1998. Elle avait programmé cette conférence elle-même, à l’époque où elle dirigeait le réseau. Cent quarante cassettes dorment dans son bureau, et chaque mercredi elles en écoutent une.\n\nLa voix du conférencier remplit la pièce, un peu nasillarde, ralentie par l’usure de la bande. Il parle des bateliers, des quais de Chalonnes, des crues de 1910. Puis il dit : « En été, à l’étiage, on voyait les bancs de sable jusqu’au pont. » Anne appuie sur la touche d’arrêt.\n\n« Étiage », répète-t-elle, très nettement, avec l’accent tonique à la bonne place. « Qu’est-ce que c’est, l’étiage ? »\n\nSolange éclate de rire. Anne a toujours aimé les questions faussement naïves ; dans les années quatre-vingt-dix, elle les posait au micro pour lancer le débat. Mais Anne ne sourit pas. Elle tient la télécommande à deux mains et attend. Ses yeux vont de la bouche de Solange à la jaquette, où le mot n’est pas écrit. Le rire de Solange s’arrête net.\n\n« C’est le niveau le plus bas de la rivière, dit-elle enfin. Quand il n’a pas plu. »\n\nAnne hoche la tête, reprend la bande, puis l’arrête encore deux minutes plus tard, sur « gabare ». Elle répète le mot sans la moindre hésitation. Elle connaît la voix, l’année, la salle, la place du conférencier sur l’estrade. C’est le sens qui ne vient plus.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Savoir dire un mot sans savoir ce qu’il désigne",
+          "text": "Prononcer un mot et en connaître le sens reposent sur des capacités différentes, et la maladie peut toucher l’une sans l’autre. Dans la forme de démence frontotemporale qui atteint d’abord le sens des mots, la compréhension des mots isolés se perd progressivement, surtout pour les mots rares ou peu familiers, alors que la répétition et l’articulation restent intactes. Anne peut donc répéter « étiage » parfaitement, reconnaître la voix du conférencier et se rappeler l’année : c’est le lien entre le mot et ce qu’il désigne qui s’est défait. Le rire de Solange venait d’une impression trompeuse : un mot bien prononcé semble compris. Ce n’est ni de la distraction ni un jeu, et ce décalage relève de l’équipe qui suit Anne, pas d’un test fait à la maison."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment la perte du sens des mots se remarque-t-elle pendant une écoute ?",
+          "points": [
+            {
+              "heading": "Le mot rare arrête la phrase",
+              "text": "Les mots courants passent encore, mais un terme spécialisé ou ancien suffit à interrompre la compréhension d’un passage entier.",
+              "examples": [
+                "Anne suit sans difficulté l’histoire des crues, puis arrête la bande sur « étiage ».",
+                "Deux minutes plus tard, « gabare » l’arrête de la même façon, alors que « bateau » ne l’avait pas gênée."
+              ]
+            },
+            {
+              "heading": "La répétition reste parfaite",
+              "text": "La personne redit le mot sans hésitation ni déformation, ce qui peut faire croire à l’entourage qu’elle le connaît.",
+              "examples": [
+                "Anne prononce « étiage » avec l’accent juste avant de demander ce qu’il signifie.",
+                "Elle reprend « gabare » à l’identique, comme elle le ferait pour vérifier une cote."
+              ]
+            },
+            {
+              "heading": "Le contexte reste mieux tenu que le mot",
+              "text": "L’événement, le lieu et la voix peuvent rester familiers alors même qu’un mot isolé n’a plus de sens.",
+              "examples": [
+                "Anne se rappelle le mois de la conférence et la place du conférencier sur l’estrade.",
+                "Elle sait que la jaquette 61 vient de la série des fleuves, sans retrouver ce que désigne le terme entendu."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour écouter ensemble sans transformer l’écoute en interrogation",
+          "points": [
+            {
+              "heading": "Donner le sens en une phrase",
+              "objective": "Répondre à la question posée sans faire de leçon ni vérifier ce qu’Anne a retenu.",
+              "exercise": [
+                "Attendre qu’Anne pose elle-même la question.",
+                "Répondre en une phrase avec des mots courants, comme « le niveau le plus bas de la rivière ».",
+                "Reprendre la bande sans demander de répéter la définition."
+              ],
+              "benefit": "L’écoute continue et Anne garde la main sur ce qu’elle veut savoir."
+            },
+            {
+              "heading": "Ralentir les passages denses",
+              "objective": "Laisser le temps de suivre quand un orateur enchaîne les termes techniques.",
+              "exercise": [
+                "Repérer avant l’écoute les passages connus pour leur vocabulaire spécialisé.",
+                "Proposer à Anne une pause à la fin de chaque paragraphe parlé.",
+                "Accepter qu’elle préfère parfois continuer sans pause."
+              ],
+              "benefit": "La conversation reste un plaisir partagé plutôt qu’une suite d’obstacles."
+            },
+            {
+              "heading": "Laisser Anne décider des arrêts",
+              "objective": "Préserver son choix sur le rythme de l’écoute.",
+              "exercise": [
+                "Lui laisser la télécommande pendant toute la séance.",
+                "Ne pas arrêter la bande à sa place pour expliquer un mot.",
+                "Noter seulement les mots qu’elle demande, si elle le souhaite."
+              ],
+              "benefit": "Anne reste l’hôte des mercredis ; ce choix d’organisation ne remplace pas le suivi au centre mémoire."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Trois phrases au dos de la jaquette",
+      "ending": "À la fin de la face B, Anne rembobine et tend la jaquette à Solange. « Tu écris, je dicte. Trois phrases, avec des mots de tous les jours. » Elle dicte : « Un homme raconte la Loire autrefois. Il parle des bateaux de commerce et de l’eau très basse en été. Les gens de Chalonnes posent des questions sur les inondations. » Solange écrit au feutre, au dos du carton. Anne relit à voix haute et corrige « posent » en « posaient ». Elles décident que chaque écoute finira ainsi. Quand Anne demande plus tard ce que veut dire « halage », Solange ne rit pas : elle répond d’une phrase. Le mot ne revient pas pour autant la semaine suivante ; la jaquette, elle, reste lisible.",
+      "conclusion": "Cet épisode montre qu’on peut répéter un mot sans en connaître le sens, et que les mots rares s’effacent les premiers. Le résumé dicté par Anne ne fait pas revenir le mot ; il garde une trace qu’elle peut relire et décide de produire pour chaque cassette.",
+      "mirror": [
+        "Quand Anne répète « étiage » et attend, Solange peut s’arrêter de sourire et répondre simplement : « C’est l’eau la plus basse de l’été. » Un proche n’a pas à vérifier si le mot est retenu ni à guetter les suivants. S’il remarque que les arrêts deviennent plus nombreux d’un mois à l’autre, il peut demander à Anne si elle souhaite en parler elle-même à son équipe, sans le faire à sa place."
+      ],
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "gorno-tempini-2011",
+        "has-fiche14-communiquer"
+      ],
+      "continuity": {
+        "choice": "Anne décide que chaque écoute du mercredi se terminera par un résumé de trois phrases simples qu’elle dicte et que Solange écrit au dos de la jaquette ; Solange répond désormais d’une phrase quand Anne demande un mot.",
+        "next": "Le jeudi suivant, Yann Le Goff appelle pour remplir la fiche d’inventaire ; Anne devra nommer des objets et des métiers qu’elle décrit sans peine."
+      },
+      "clinical_focus": "Ne plus comprendre des mots peu familiers",
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 2,
+      "slug": "anne-manque-du-mot-parole-fluide-telephone",
+      "title": "Parler couramment mais sans trouver le mot juste",
+      "description": "Au téléphone avec l’archiviste, Anne raconte une soirée de 1994 avec aisance mais dit « la machine qui garde les voix » faute de trouver le mot.",
+      "context": "un appel pour la fiche d’inventaire",
+      "topics": [
+        "manque du mot",
+        "parole fluide",
+        "téléphone"
+      ],
+      "clinical_intro": "Le manque du mot peut survenir dans une parole qui reste fluide, construite et vivante. La personne sait ce qu’elle veut dire, mais le nom précis lui échappe et elle le remplace par une périphrase. Chez Anne, atteinte d’une démence frontotemporale qui touche d’abord le sens des mots, ce manque devient plus visible au téléphone, sans objet ni geste pour l’aider.",
+      "opening": "Le jeudi matin, à dix heures, le téléphone sonne dans l’entrée de la maison de Chalonnes-sur-Loire. Yann Le Goff, le responsable des archives intercommunales, a prévenu par courrier qu’il appellerait pour remplir avec Anne la fiche d’inventaire des Rencontres du jeudi. Il voudrait recevoir les cent quarante cassettes pour les numériser au printemps. Pascal Viard, le successeur d’Anne à la tête du réseau des médiathèques, n’en voudrait qu’une vingtaine pour un podcast. Anne, elle, veut d’abord que chaque bande soit décrite correctement.\n\nElle s’assoit sur la chaise de l’entrée, la jaquette 61 sur les genoux, avec au dos les trois phrases dictées la veille. Yann commence par l’année 1994. Anne s’anime : la salle Saint-Pierre était comble, on avait ajouté des chaises dans le couloir, le débat sur le pont avait duré plus longtemps que la conférence, un adjoint avait claqué la porte. Ses phrases sont longues, bien construites, drôles.\n\n« Et l’enregistrement, il était fait comment ? demande Yann.\n— Avec la machine qui garde les voix. La grosse, avec les deux bobines… Celle qu’on posait sur la table de la régie. »\n\nYann propose « magnétophone ». Anne dit « voilà » et continue. Il demande si le conférencier portait un micro fixé au revers. Elle dit « la petite pince qui parle », rit d’elle-même, puis cherche le nom du métier de Solange Ferrand, son amie, qui faisait les prises de son. « Elle était… la dame des boutons. Celle qui règle tout derrière. » Le silence dure au bout du fil.\n\n« Je vous sens fatiguée, madame Lebreton, dit enfin Yann, avec douceur. On peut reprendre un autre jour, quand vous serez plus reposée. »\n\nAnne serre la jaquette. Elle n’est pas fatiguée. Elle vient de raconter 1994 mieux que n’importe qui.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Le manque du mot dans une parole qui reste fluide",
+          "text": "Une personne peut parler avec aisance, en phrases complètes et grammaticales, tout en ne parvenant pas à trouver certains noms précis. Ce manque du mot, appelé anomie, accompagne la perte du sens des mots dans cette forme de démence frontotemporale : le nom se dérobe et laisse place à une périphrase ou à un terme général. Anne raconte la salle comble de 1994 sans difficulté, mais « magnétophone », « micro-cravate » et « régisseuse son » ne viennent pas. Yann interprète cela comme de la fatigue, parce que l’histoire est fluide et que seuls les noms manquent. Le téléphone ajoute une contrainte : pas d’objet à montrer, pas de geste pour situer ce qu’elle désigne. Les activités qui reposent sur le langage, comme cet appel, sont les plus touchées au début."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment le manque du mot se présente-t-il dans une conversation ?",
+          "points": [
+            {
+              "heading": "Une périphrase remplace le nom",
+              "text": "La personne décrit la forme ou la fonction de ce qu’elle ne peut pas nommer, souvent avec précision.",
+              "examples": [
+                "Anne dit « la machine qui garde les voix » pour le magnétophone de la régie.",
+                "Elle appelle le micro-cravate « la petite pince qui parle »."
+              ]
+            },
+            {
+              "heading": "Le récit continue sans se défaire",
+              "text": "La grammaire, le rythme et l’humour restent présents, ce qui rend le manque peu visible pour un interlocuteur pressé.",
+              "examples": [
+                "Elle raconte l’adjoint qui claque la porte en 1994 avec toutes les nuances.",
+                "Elle accepte « magnétophone » d’un « voilà » et reprend sa phrase là où elle l’avait laissée."
+              ]
+            },
+            {
+              "heading": "Le malentendu de l’interlocuteur",
+              "text": "Celui qui écoute peut attribuer le manque à la fatigue, au désintérêt ou à la distraction.",
+              "examples": [
+                "Yann propose de rappeler « quand elle sera plus reposée ».",
+                "Le silence au bout du fil, après « la dame des boutons », est pris pour une baisse de forme."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour préparer un échange quand les mots se dérobent",
+          "points": [
+            {
+              "heading": "Accepter la périphrase",
+              "objective": "Laisser passer le sens sans exiger le terme exact.",
+              "exercise": [
+                "Écouter la description jusqu’au bout.",
+                "Vérifier le sens par une question fermée, comme « le magnétophone de la régie ? ».",
+                "Reprendre la conversation sans demander à Anne de redire le mot."
+              ],
+              "benefit": "L’échange garde son fil et Anne reste celle qui raconte."
+            },
+            {
+              "heading": "Proposer sans imposer",
+              "objective": "Offrir le mot comme une aide facultative.",
+              "exercise": [
+                "Proposer le terme une seule fois, sur un ton neutre.",
+                "Laisser Anne l’adopter, le refuser ou garder sa formule.",
+                "Ne pas revenir sur le mot dans la suite de l’appel."
+              ],
+              "benefit": "Le mot aide l’interlocuteur à suivre sans devenir une correction."
+            },
+            {
+              "heading": "Préparer l’écrit avant l’appel",
+              "objective": "Réduire les échanges qui reposent uniquement sur la voix.",
+              "exercise": [
+                "Envoyer à l’avance la liste des questions et des termes techniques.",
+                "Laisser Anne choisir entre un appel, une visite ou un échange écrit.",
+                "Garder l’appel pour les récits, et l’écrit pour les noms."
+              ],
+              "benefit": "Le format s’adapte à ce qui est plus difficile pour elle, sans remplacer un avis orthophonique."
+            }
+          ]
+        }
+      ],
+      "ending_title": "La colonne « terme technique »",
+      "ending": "Anne répond qu’elle n’est pas fatiguée et qu’elle préfère travailler sur papier. « Envoyez-moi la fiche par écrit. Je dicterai mes descriptions, avec mes mots. Solange remplira à côté une colonne pour les termes techniques. » Yann se tait une seconde, puis accepte. Il promet de poster la fiche le jour même et de ne plus fixer les rendez-vous par téléphone : il écrira. Le lundi suivant, l’enveloppe arrive. Le mercredi, Solange trace au crayon une colonne supplémentaire, intitulée « terme technique ». Anne dicte « la machine qui garde les voix » dans la première ; Solange écrit « magnétophone à bandes » dans la seconde. La question de la répartition entre Yann et Pascal, elle, reste entière.",
+      "conclusion": "Cet épisode montre qu’une parole fluide peut masquer un manque du mot, et qu’un interlocuteur bienveillant peut se tromper sur sa cause. En choisissant l’écrit et une double colonne, Anne garde ses descriptions et laisse à d’autres le terme exact.",
+      "mirror": [
+        "Quand Anne dit « la dame des boutons » et que le silence s’installe, le proche peut proposer une fois : « Tu veux dire régisseuse son ? », puis la laisser poursuivre. Il évite de conclure à la fatigue sans le lui demander. Si elle préfère un échange écrit, il peut le relayer auprès de ses interlocuteurs avec son accord, en disant simplement qu’elle travaille mieux sur papier, sans détailler sa santé."
+      ],
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "gorno-tempini-2011",
+        "nice-ng97"
+      ],
+      "continuity": {
+        "choice": "Anne obtient de Yann la fiche d’inventaire par écrit et l’arrêt des rendez-vous téléphoniques ; elle dicte ses descriptions et Solange remplit une colonne « terme technique ».",
+        "next": "Pour accompagner la fiche, Anne et Solange trieront les photos des conférences et Anne butera sur des visages et des objets qu’elle a côtoyés pendant vingt ans."
+      },
+      "clinical_focus": "Parler couramment mais sans trouver le mot",
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 3,
+      "slug": "anne-reconnaitre-visages-objets-connus-memoire-semantique",
+      "title": "Reconnaître moins bien des visages et des objets familiers",
+      "description": "Devant les photos des conférences, Anne se souvient de l’orage de 1996 mais ne reconnaît ni l’ancien maire ni la perchette à micro de Solange.",
+      "context": "un tri de photos sur la table de la salle à manger",
+      "topics": [
+        "mémoire sémantique",
+        "reconnaissance des visages",
+        "usage des objets"
+      ],
+      "clinical_intro": "Ce que l’on sait des personnes et des objets fait partie de la même mémoire que le sens des mots. Quand elle s’altère, un visage connu ou un outil manié pendant des années peut devenir étranger, alors que le souvenir d’une soirée reste net. Chez Anne, qui vit avec une démence frontotemporale, ce contraste apparaît en triant les photos de ses anciennes conférences.",
+      "opening": "Le mercredi suivant, après l’écoute, Solange Ferrand, l’amie d’Anne et ancienne régisseuse son du réseau des médiathèques, apporte de son garage deux boîtes à chaussures pleines de photos. Yann Le Goff, le responsable des archives intercommunales, a demandé quelques images pour accompagner la fiche d’inventaire des Rencontres du jeudi. Elles étalent tout sur la grande table de la salle à manger, entre la corbeille de fruits et la pile de jaquettes annotées.\n\nAnne travaille vite. « Salle Saint-Pierre, 1996. L’affiche verte, c’est la série sur les métiers du fleuve. » Elle retourne une photo, lit la date au dos, la pose à gauche. Puis elle s’arrête sur un homme en costume clair qui lui serre la main devant le pupitre.\n\n« Et lui ?\n— C’est Bernard Mauduit, dit Solange. Le maire. Celui qui t’a obtenu le budget pour les enregistrements.\n— Mauduit », répète Anne. Le nom ne réveille rien. Elle regarde le visage longtemps, comme une cote mal recopiée.\n\nSolange sort ensuite de la boîte une perche télescopique noire, terminée par une bonnette grise, qu’elle avait gardée en souvenir. Anne la prend, la soupèse, la fait tourner dans ses mains. « Ça servait à quoi, ce bâton ? À montrer l’écran ? » Solange la regarde, puis regarde l’objet qu’elle a tenu au-dessus de cent conférenciers.\n\nPourtant, sur la photo suivante, prise le même soir de 1996, Anne s’illumine. « Ce soir-là, l’orage a coupé le courant au milieu du débat. On a fini à la bougie, et toi tu as continué à enregistrer sur piles. » Elle se rappelle la pluie sur la verrière, le gâteau de la boulangère, la voix du conférencier dans le noir. Elle ne reconnaît ni le maire, ni l’objet qui a permis d’enregistrer cette voix.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Une mémoire des choses et des gens, pas seulement des mots",
+          "text": "La mémoire sémantique rassemble tout ce que l’on sait du monde : le sens des mots, mais aussi l’usage d’un objet, l’identité d’un visage ou ce qu’évoque un nom. Lorsqu’elle s’altère, comme dans la forme de démence frontotemporale qui touche d’abord le sens des mots, une personne peut ne plus reconnaître quelqu’un ou ne plus savoir à quoi sert un objet, que ce soit en le regardant ou en le tenant dans ses mains. Le souvenir d’un événement vécu, lui, peut rester mieux préservé. C’est ce contraste que montre la table de la salle à manger : Anne raconte l’orage et la bougie, mais ne sait plus qui est Bernard Mauduit ni ce que faisait la perche que Solange tenait ce soir-là."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment la reconnaissance des visages et des objets change-t-elle ?",
+          "points": [
+            {
+              "heading": "Un visage qui ne dit plus qui il est",
+              "text": "La personne voit nettement un visage mais ne retrouve plus ce qu’elle sait de lui, et le nom prononcé n’aide pas toujours.",
+              "examples": [
+                "Anne regarde longtemps l’homme au costume clair sans le reconnaître.",
+                "Quand Solange dit « Mauduit », Anne répète le nom sans qu’il évoque le maire."
+              ]
+            },
+            {
+              "heading": "Un objet familier devenu énigme",
+              "text": "Même en touchant ou en manipulant l’objet, son usage peut ne plus revenir.",
+              "examples": [
+                "Anne soupèse la perchette à micro et demande si elle servait à montrer l’écran.",
+                "Elle fait tourner la bonnette grise dans ses doigts sans y associer le son."
+              ]
+            },
+            {
+              "heading": "L’événement reste vivant",
+              "text": "Le récit d’une soirée vécue peut rester précis, avec ses détails sensoriels, malgré les trous dans ce qu’elle sait des personnes et des choses.",
+              "examples": [
+                "Anne se souvient de la coupure de courant et du débat fini à la bougie.",
+                "Elle cite la pluie sur la verrière et le gâteau de la boulangère."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour accompagner un tri de souvenirs sans tester",
+          "points": [
+            {
+              "heading": "Associer nom, rôle et souvenir",
+              "objective": "Donner à chaque visage un contexte qui ne dépend pas de la reconnaissance.",
+              "exercise": [
+                "Dire le nom et le rôle de la personne sur la photo, sans attendre qu’Anne le trouve.",
+                "Ajouter un souvenir partagé, comme le budget obtenu pour les enregistrements.",
+                "Laisser Anne décider si cette information va sur la légende."
+              ],
+              "benefit": "La photo garde sa valeur pour les archives même si le visage reste étranger."
+            },
+            {
+              "heading": "Présenter les gens en contexte",
+              "objective": "Éviter à Anne de chercher seule qui est en face d’elle lors d’une rencontre.",
+              "exercise": [
+                "Annoncer le nom et le lien de la personne en arrivant, comme « Voici Yann, des archives ».",
+                "Rappeler brièvement la dernière occasion de rencontre.",
+                "Ne pas demander « Tu te souviens de lui ? »."
+              ],
+              "benefit": "La rencontre commence sans mise à l’épreuve et Anne peut participer pleinement."
+            },
+            {
+              "heading": "Ne pas faire du tri un examen",
+              "objective": "Préserver le plaisir de l’activité choisie par Anne.",
+              "exercise": [
+                "Alterner les photos qu’Anne commente spontanément et celles qu’on légende ensemble.",
+                "Arrêter quand elle le décide.",
+                "Signaler un changement de reconnaissance à l’équipe seulement si Anne l’accepte."
+              ],
+              "benefit": "L’activité reste un projet d’Anne ; l’évaluation de ce changement revient aux professionnels qui la suivent."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Qui, ce qu’il faisait, ce qu’on a vécu",
+      "ending": "Anne pose la photo du maire devant elle et décide d’une règle de légende en trois parties. Elle dicte, Solange écrit au crayon au dos : « Bernard Mauduit, maire. Il a obtenu le budget des enregistrements en 1993. Il est venu à toutes les soirées de la série du fleuve. » Pour la perchette, Solange raconte et Anne dicte : « Perche de prise de son. Solange la tenait au-dessus de la tête des orateurs. Ce soir d’orage, elle a continué sur piles. » Elles légendent ainsi quarante photos avant dix-sept heures. Clémence, sa fille, avait proposé de montrer l’album au repas de famille de décembre ; Anne choisit de le garder pour le dossier des archives. « Les cousins me demanderaient qui est qui. Ce n’est pas une soirée de devinettes. »",
+      "conclusion": "Cet épisode montre que la perte de ce que l’on sait des personnes et des objets peut coexister avec un souvenir vivant des événements. La légende en trois parties ne rend pas la reconnaissance ; elle permet à Anne de transmettre ce qu’elle a vécu.",
+      "mirror": [
+        "Quand Anne demande « Et lui ? » devant une photo, Solange peut répondre directement : « C’est Bernard Mauduit, le maire qui t’a obtenu le budget. » Elle évite « Tu ne te souviens pas ? », qui transforme le souvenir en épreuve. Lors d’une visite, un proche peut se présenter en arrivant par son prénom et son lien avec Anne. Si Anne préfère ne pas montrer l’album en famille, ce choix se respecte sans commentaire."
+      ],
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "gorno-tempini-2011",
+        "has-fiche14-communiquer"
+      ],
+      "continuity": {
+        "choice": "Anne impose des légendes en trois parties (qui, ce qu’il faisait, ce qu’elles avaient vécu) sur quarante photos et garde l’album pour le dossier des archives plutôt que pour le repas de famille.",
+        "next": "Pascal Viard, son successeur à la tête du réseau, lui demande de lire à voix haute la liste des titres pour la bande-annonce du podcast."
+      },
+      "clinical_focus": "Reconnaître moins bien des visages et des objets connus",
+      "diagnostic_stage": "known"
+    }
+  ]
+}

@@ -1,0 +1,309 @@
+{
+  "character_id": "odile",
+  "type": "origine",
+  "auditor": "audit_o6",
+  "audited_on": "2026-11-12",
+  "persona": {
+    "age_metier_proches": "74 ans, ancienne agente postale retraitée, vit seule par choix ; sa sœur Françoise est morte il y a environ six mois ; fille Lucie (vit loin), voisine et amie Josiane, Gérard, ami et animateur du collectif de quartier.",
+    "arc_summary": "Le parcours suit les mois qui suivent la mort de Françoise, sans calendrier imposé au deuil : une recette annotée, une journée qui oscille, un après-midi seule, le rôle proposé au collectif, le tri d’un carton, l’anniversaire de Françoise, une demande d’accompagnement, l’affiche du quartier, le dessin des devantures, le projet de déménagement de Gérard, un spectacle et l’enregistrement d’un souvenir avec Lucie. Odile apprend à formuler des demandes et des limites précises et à faire coexister manque et plaisir. Les scènes sont claires et les proches bien dessinés ; la faiblesse principale vient des facettes qui se répètent.",
+    "arc_issues": [
+      "Gérard apparaît à l’épisode 3 sans être présenté ; on devine aux épisodes 4 et 9 qu’il est un ami qui anime le collectif de quartier.",
+      "Le temps ne bouge pas : « il y a six mois » aux épisodes 1 et 4, alors que le carton attend « depuis plusieurs semaines » (épisode 5) et que l’anniversaire passe (épisode 6).",
+      "Répétitions : épisodes 4 et 8 (le collectif suppose une disponibilité, Odile limite son engagement à deux séances) ; épisodes 6 et 10 (séparer le connu du scénario anticipé) ; épisodes 2 et 11 (rire en sortie avec Josiane puis manque, remarque d’un tiers) ; Gérard fait une proposition qu’Odile décline aux épisodes 3, 4, 8 et 9.",
+      "Les scènes glissent souvent des commentaires du narrateur à la place d’actions (« Ce petit achat ne marque pas une renaissance », « Ni fidélité ni trahison ne se décident sur cette commande ») : on comprend toujours, mais le ton devient démonstratif."
+    ]
+  },
+  "episodes": [
+    {
+      "number": 1,
+      "file": "content/posts/comprendre-et-maitriser-ses-emotions/odile-liens-apres-deces.md",
+      "focus": "Liens qui continuent après un décès : la recette annotée de Françoise",
+      "structure": {
+        "scene": "ok",
+        "concept": "ok",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "ok",
+        "conclusion": "ok",
+        "proches": "ok"
+      },
+      "comprehension": 5,
+      "comprehension_note": "Ouverture exemplaire : la boîte, la remarque sur le beurre, Josiane et ses pommes, Lucie qui propose de photographier ; le retour (pochette du classeur, photo, appel de Lucie) répond à la question posée.",
+      "issues": []
+    },
+    {
+      "number": 2,
+      "file": "content/posts/comprendre-et-maitriser-ses-emotions/odile-deuil-retour-quotidien.md",
+      "focus": "Oscillation du deuil dans une même journée : opticien, groupe de quartier, cinéma",
+      "structure": {
+        "scene": "ok",
+        "concept": "ok",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "ok",
+        "conclusion": "ok",
+        "proches": "ok"
+      },
+      "comprehension": 5,
+      "comprehension_note": "Le présentoir de cordons, le rire devant le message du quartier puis la réponse à la connaissance du guichet montrent l’aller-retour sans confusion.",
+      "issues": [
+        {
+          "severity": "mineur",
+          "type": "continuite",
+          "quote": "Elle a envoyé à Lucie la photo de la recette retrouvée dans sa boîte en métal.",
+          "problem": "À l’épisode 1, la photo est envoyée et commentée par Lucie le jour même des biscuits ; « le matin même » en fait un second envoi.",
+          "fix": "« La veille, elle avait envoyé à Lucie la photo… »."
+        },
+        {
+          "severity": "mineur",
+          "type": "comprehension",
+          "quote": "Ni fidélité ni trahison ne se décident sur cette commande.",
+          "problem": "Commentaire du narrateur qui conclut à la place du personnage.",
+          "fix": "Laisser l’action parler : Odile achète la tarte qu’elle aime et la mange en rentrant."
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "file": "content/posts/sortir-de-ses-schemas-repetitifs/odile-solitude-choisie-perte.md",
+      "focus": "Solitude choisie après une perte : préférer la bibliothèque au déjeuner proposé",
+      "structure": {
+        "scene": "ok",
+        "concept": "ok",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "ok",
+        "conclusion": "ok",
+        "proches": "ok"
+      },
+      "comprehension": 4,
+      "comprehension_note": "La table de bibliothèque, le refus suivi de la proposition de vendredi et la distinction avec la conférence manquée sont clairs ; Gérard arrive sans être présenté.",
+      "issues": [
+        {
+          "severity": "majeur",
+          "type": "comprehension",
+          "quote": "Son téléphone affiche un message de Lucie : Gérard propose un déjeuner, sa fille pense que cela lui ferait du bien.",
+          "problem": "Première apparition de Gérard, personnage récurrent (épisodes 3, 4, 8, 9, 10), sans indication de qui il est ni pourquoi il passe par Lucie.",
+          "fix": "« Gérard, un ami du quartier qui anime les activités de la salle, propose… »."
+        },
+        {
+          "severity": "mineur",
+          "type": "comprehension",
+          "quote": "Ce petit achat ne marque pas une renaissance.",
+          "problem": "Commentaire abstrait du narrateur au milieu de l’action.",
+          "fix": "Supprimer ; le choix du carnet simple suffit."
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "file": "content/posts/sortir-de-ses-schemas-repetitifs/odile-retraite-changement-role.md",
+      "focus": "Changement de rôle à la retraite : on lui tend les clés de la salle",
+      "structure": {
+        "scene": "ok",
+        "concept": "ok",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "ok",
+        "conclusion": "ok",
+        "proches": "ok"
+      },
+      "comprehension": 5,
+      "comprehension_note": "Le trousseau posé devant elle, la question « Qu’est-ce que la personne s’engage exactement à faire ? » et les quatre colonnes tracées par le groupe forment une scène et un retour précis.",
+      "issues": [
+        {
+          "severity": "mineur",
+          "type": "continuite",
+          "quote": "Depuis la mort de Françoise, il y a six mois",
+          "problem": "Même indication qu’à l’épisode 1 alors que plusieurs semaines ont passé.",
+          "fix": "« Depuis la mort de Françoise, au printemps, … » ou supprimer la durée."
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "file": "content/posts/sortir-de-ses-schemas-repetitifs/odile-objets-souvenirs-choisir.md",
+      "focus": "Objets de souvenir : trier un carton d’affaires de Françoise avec Lucie",
+      "structure": {
+        "scene": "ok",
+        "concept": "ok",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "ok",
+        "conclusion": "ok",
+        "proches": "ok"
+      },
+      "comprehension": 5,
+      "comprehension_note": "Le carton dans le passage, le bol bleu donné à Lucie, l’écharpe gardée et le vase en attente : chaque décision est visible.",
+      "issues": [
+        {
+          "severity": "mineur",
+          "type": "comprehension",
+          "quote": "Quand sa fille arrive, Odile précise qu’elle ne veut pas vider l’appartement aujourd’hui.",
+          "problem": "On ne sait pas de quel appartement il s’agit (celui d’Odile ? celui de Françoise ?) alors que le tri porte sur un carton.",
+          "fix": "« … qu’elle ne veut pas trier aujourd’hui toutes les affaires de Françoise. »"
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "file": "content/posts/comprendre-et-maitriser-ses-emotions/odile-dates-emotions-variables.md",
+      "focus": "Date repère : l’anniversaire de Françoise approche",
+      "structure": {
+        "scene": "ok",
+        "concept": "ok",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "ok",
+        "conclusion": "ok",
+        "proches": "ok"
+      },
+      "comprehension": 5,
+      "comprehension_note": "Le calendrier où voisinent l’anniversaire et le cordonnier, la réponse « Je ne sais pas encore » puis la journée réelle (pas de bouquet, l’appel prévu) sont très lisibles.",
+      "issues": []
+    },
+    {
+      "number": 7,
+      "file": "content/posts/sortir-de-ses-schemas-repetitifs/odile-demander-presence-precise.md",
+      "focus": "Demander une présence précise : être accompagnée à la réunion sur les travaux",
+      "structure": {
+        "scene": "ok",
+        "concept": "ok",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "ok",
+        "conclusion": "ok",
+        "proches": "ok"
+      },
+      "comprehension": 5,
+      "comprehension_note": "Le plan incompréhensible, le brouillon « Tu fais quoi jeudi ? » réécrit, Josiane qui vient avec une heure de départ : la demande se précise sous les yeux du lecteur.",
+      "issues": []
+    },
+    {
+      "number": 8,
+      "file": "content/posts/sortir-de-ses-schemas-repetitifs/odile-collectif-liberte-personnelle.md",
+      "focus": "Participer à un collectif en gardant ses choix : l’affiche du programme",
+      "structure": {
+        "scene": "ok",
+        "concept": "ok",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "ok",
+        "conclusion": "ok",
+        "proches": "ok"
+      },
+      "comprehension": 4,
+      "comprehension_note": "La scène de l’affiche et du pli est claire, mais le second enjeu (le samedi, la disponibilité) rejoue l’épisode 4.",
+      "issues": [
+        {
+          "severity": "majeur",
+          "type": "repetition",
+          "quote": "Elle a accepté deux séances de préparation du programme",
+          "problem": "Reprend l’enjeu de l’épisode 4 (le groupe de Gérard suppose une disponibilité, Odile s’en tient à deux séances) ; seul le désaccord sur l’affiche est nouveau.",
+          "fix": "Recentrer l’épisode sur l’appartenance malgré un désaccord (sa proposition est en partie refusée, elle reste et le dit) et retirer la reprise du samedi."
+        },
+        {
+          "severity": "mineur",
+          "type": "comprehension",
+          "quote": "Elle suffit pourtant à lui faire envisager d’annuler son propre rendez-vous",
+          "problem": "On ne sait pas de quel rendez-vous il s’agit.",
+          "fix": "Nommer le rendez-vous (« son déjeuner avec Lucie samedi »)."
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "file": "content/posts/reprendre-le-controle-de-ses-pensees/odile-sens-action-ordinaire.md",
+      "focus": "Le sens d’une action ordinaire : dessiner des lettres sans en faire un projet",
+      "structure": {
+        "scene": "ok",
+        "concept": "ok",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "ok",
+        "conclusion": "ok",
+        "proches": "ok"
+      },
+      "comprehension": 5,
+      "comprehension_note": "Le crayon, la lettre qui penche, la proposition d’exposition et la découverte de l’espace entre deux lettres rendent le concept concret.",
+      "issues": [
+        {
+          "severity": "mineur",
+          "type": "repetition",
+          "quote": "Son ami lui propose alors de chercher un atelier pour exposer ses dessins.",
+          "problem": "Quatrième proposition de Gérard qu’Odile décline (épisodes 3, 4, 8, 9) ; le schéma devient prévisible.",
+          "fix": "Faire venir la pression d’Odile elle-même (se demander ce qu’elle « a fait d’utile ») ou d’un autre proche."
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "file": "content/posts/reprendre-le-controle-de-ses-pensees/odile-anticiper-sans-tout-perdre.md",
+      "focus": "Anticiper sans vivre toutes les pertes à l’avance : le projet de déménagement de Gérard",
+      "structure": {
+        "scene": "ok",
+        "concept": "ok",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "ok",
+        "conclusion": "ok",
+        "proches": "ok"
+      },
+      "comprehension": 4,
+      "comprehension_note": "La brochure, le panneau de bus et la demi-heure sur le plan des transports sont clairs ; mais la facette répète celle de l’épisode 6.",
+      "issues": [
+        {
+          "severity": "majeur",
+          "type": "repetition",
+          "quote": "Sur le papier, elle distingue ce qui est certain de ce qui reste conditionnel.",
+          "problem": "Même mécanisme et même technique que l’épisode 6 (« Séparer les contraintes connues du scénario imaginé », « On vit plusieurs fois une journée qui n’a pas encore eu lieu »).",
+          "fix": "Différencier l’épisode : la peur des pertes liées au vieillissement (amis qui partent, mobilité) et une action relationnelle (convenir avec Gérard d’un rythme de déjeuners), sans reprendre la double colonne."
+        }
+      ]
+    },
+    {
+      "number": 11,
+      "file": "content/posts/comprendre-et-maitriser-ses-emotions/odile-joie-chagrin-meme-jour.md",
+      "focus": "Joie et chagrin dans la même soirée : une lecture publique",
+      "structure": {
+        "scene": "ok",
+        "concept": "ok",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "ok",
+        "conclusion": "ok",
+        "proches": "ok"
+      },
+      "comprehension": 5,
+      "comprehension_note": "Le rire devant la boîte vide, la chaise où Françoise aurait été et la réponse à Josiane à l’entracte sont précis ; la facette recouvre pourtant l’épisode 2.",
+      "issues": [
+        {
+          "severity": "majeur",
+          "type": "repetition",
+          "quote": "Sa voisine commence à dire que sa sœur aurait sûrement voulu la voir rire.",
+          "problem": "L’épisode 2 traite déjà le rire en sortie avec Josiane, la culpabilité de passer de la peine à la plaisanterie et la remarque d’un tiers sur le moral ; l’épisode 11 refait la même sortie.",
+          "fix": "Ancrer la joie dans une situation sans équivalent dans l’épisode 2 (une bonne nouvelle familiale qu’elle aurait annoncée à Françoise, un premier plaisir nouveau qu’elle n’a jamais partagé avec elle) et éviter une nouvelle sortie-spectacle avec Josiane."
+        }
+      ]
+    },
+    {
+      "number": 12,
+      "file": "content/posts/sortir-de-ses-schemas-repetitifs/odile-transmettre-souvenir-maniere.md",
+      "focus": "Transmettre un souvenir à sa manière : enregistrer l’histoire de l’autocar avec Lucie",
+      "structure": {
+        "scene": "ok",
+        "concept": "ok",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "ok",
+        "conclusion": "ok",
+        "proches": "ok"
+      },
+      "comprehension": 5,
+      "comprehension_note": "Le compteur, la manche qui frotte, les deux conditions posées et la phrase retirée : la transmission se fait au rythme d’Odile, et le dernier épisode clôt le parcours sur un présent ouvert.",
+      "issues": []
+    }
+  ],
+  "missing_or_extra": "Douze épisodes présents, aucun manquant ni surnuméraire. Trois épisodes à différencier plutôt qu’à retirer : 8 (doublon de 4), 10 (doublon de 6), 11 (doublon de 2). Propositions : 8 sur l’appartenance et le désaccord ; 10 sur la peur des pertes liées à l’âge et l’entretien actif d’un lien ; 11 sur une joie liée à une nouveauté que Françoise ne connaîtra pas. Il faudrait aussi présenter Gérard dès l’épisode 3 et faire avancer le temps du deuil.",
+  "verdict": "corrections_majeures"
+}

@@ -1,0 +1,447 @@
+{
+  "character_id": "lucas",
+  "type": "origine",
+  "auditor": "audit_o4",
+  "audited_on": "2026-11-12",
+  "persona": {
+    "age_metier_proches": "Lucas, né en 2001 (24 puis 25 ans en avril 2026), en dernière année d'école de commerce à Paris, en stage dans une agence de marketing, mémoire à rendre ; en colocation avec Maxime et Romain ; parents Sandrine et Jean-Marc, de milieu modeste, qui l'aident financièrement ; joue au basket (Antoine, adversaire) ; recruteur Mathieu pour un poste à Lyon.",
+    "arc_summary": "Lucas, boursier de fait dans un milieu aisé, cache ses difficultés (cravate tachée, budget du ski, rapport refusé, question non posée) puis apprend à les dire à ses colocataires et à son professeur. La seconde moitié porte sur l'image de soi (réseaux sociaux, approbation, effet de groupe) et sur une offre d'emploi à Lyon qu'il finit par accepter (épisode 10) avant de gérer un agacement en colocation et une comparaison sur Instagram.",
+    "arc_issues": [
+      "Romain change de statut : étudiant avec « ses propres galères de stage » (épisode 2), camarade de cours (épisode 5), mais salarié « célébrant une promotion interne dans son agence de communication » (épisode 3).",
+      "La décision lyonnaise est contradictoire : acceptée à l'épisode 10, rappelée à l'épisode 12 (« depuis qu'il a dit oui à Lyon »), puis décrite dans le même épisode comme une « indécision chronique […] qui le paralyse face à l'offre d'emploi à Lyon ».",
+      "Répétitions : le budget et la sortie de groupe (2 et 9), les réseaux sociaux (7 et 12), la décision Lyon (8 et 10), le masque social et l'approbation (2, 5, 6, 9). La « respiration consciente » de l'entretien de La Défense est rappelée dans presque chaque retour.",
+      "Plusieurs retours se terminent par une transformation déclarée (« calme inédite », « assurance qu'il ne soupçonnait pas », « ne se demande pas ce que les autres pensent de lui ») au lieu d'une conséquence observable.",
+      "Le résultat de l'entretien de La Défense (épisode 1) n'est jamais donné, et l'on ne sait pas s'il était lié au stage actuel ; le rôle du « tuteur » (mémoire ou stage) varie selon les épisodes."
+    ]
+  },
+  "episodes": [
+    {
+      "number": 1,
+      "file": "content/posts/reprendre-le-controle-de-ses-pensees/effet-spotlight-entretien-embauche.md",
+      "focus": "Effet spotlight : avant un entretien à La Défense, Lucas croit que tout le monde voit la tache sur sa cravate.",
+      "structure": {
+        "scene": "ok",
+        "concept": "ok",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "faible",
+        "conclusion": "ok",
+        "proches": "ok"
+      },
+      "comprehension": 3,
+      "comprehension_note": "L'ouverture est très concrète (ascenseur, tissu frotté qui brille, stylo ramassé) et illustre bien le concept. Maxime n'est pas présenté, Romain apparaît en fin d'épisode sans contexte, et le retour résume un entretien réussi par des formules (« il active ses outils », « surprend son interlocuteur par sa clarté »).",
+      "issues": [
+        {
+          "severity": "majeur",
+          "type": "trame",
+          "quote": "La porte s'ouvre. Lucas sent son cœur s'emballer, mais il active ses outils. Dans l'ascenseur, il a déjà pratiqué son ancrage sensoriel et sa respiration calme son rythme.",
+          "problem": "Le retour raconte l'application des techniques et un succès global au lieu d'un moment précis ; l'ascenseur est déjà passé.",
+          "fix": "Montrer une seule chose : la recruteuse ouvre, Lucas lâche sa veste, donne le chiffre de la campagne ; plus tard il demande un instant sur une question."
+        },
+        {
+          "severity": "majeur",
+          "type": "comprehension",
+          "quote": "Après l’entretien, Lucas appelle Romain.",
+          "problem": "Romain n'a pas été présenté (Maxime non plus, seulement « dans le salon »).",
+          "fix": "« La veille, Maxime, un de ses deux colocataires, … » et « il appelle Romain, son autre colocataire »."
+        },
+        {
+          "severity": "mineur",
+          "type": "comprehension",
+          "quote": "Dans l’ascenseur, Lucas tourne le bout de sa cravate vers la lumière. La tache est toujours là.",
+          "problem": "On ignore d'où vient la tache et pour quel poste il passe l'entretien.",
+          "fix": "« … La tache de café du métro est toujours là. » et préciser : « entretien pour un CDI à la sortie de l'école »"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "file": "content/posts/comprendre-et-maitriser-ses-emotions/honte-en-colocation-causes-solutions.md",
+      "focus": "Honte en colocation : faute de budget pour un week-end au ski, Lucas invente une mission freelance, puis l'avoue à Romain.",
+      "structure": {
+        "scene": "ok",
+        "concept": "ok",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "ok",
+        "conclusion": "ok",
+        "proches": "ok"
+      },
+      "comprehension": 3,
+      "comprehension_note": "L'enjeu est clair (virement de Sandrine, solde en rouge, mensonge). Les dialogues ne sont pas marqués typographiquement, ce qui oblige à relire, et l'ouverture répète la proposition de Maxime. L'aveu dans la cuisine est concret et la réponse de Romain plausible.",
+      "issues": [
+        {
+          "severity": "majeur",
+          "type": "comprehension",
+          "quote": "On se fait le week-end au ski dont on a parlé ? demande Maxime en naviguant sur un site de réservation de chalets haut de gamme.",
+          "problem": "Les répliques de cet épisode ne sont pas entre guillemets (ici, « Franchement, ça me tente trop… », « Romain, au fait… », « Ah mec… ») ; on confond paroles et narration. La proposition du ski est en outre annoncée deux fois.",
+          "fix": "Ajouter les guillemets à toutes les répliques et fusionner les deux annonces du chalet."
+        },
+        {
+          "severity": "mineur",
+          "type": "trame",
+          "quote": "C'est un nouveau pas dans son parcours, une manière de s'accepter sans avoir besoin de la validation constante d'un statut social qu'il craignait de perdre.",
+          "problem": "Commentaire de bilan à la place de la conséquence.",
+          "fix": "Finir sur une action : Romain propose de parler à Maxime d'une sortie moins chère, ou Lucas répond à Sandrine."
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "file": "content/posts/sortir-de-ses-schemas-repetitifs/echec-ecole-etudes-psychologie-hpi.md",
+      "focus": "Rapport ou mémoire refusé : Lucas lit « refusé » et doit transformer les annotations en tâches.",
+      "structure": {
+        "scene": "ok",
+        "concept": "ok",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "ok",
+        "conclusion": "ok",
+        "proches": "ok"
+      },
+      "comprehension": 4,
+      "comprehension_note": "Situation claire (commentaire répété, phrase soulignée, Maxime qui entre avec un ballon) et fin concrète (tir raté, message au référent, deux sources surlignées). La partie HPI est prudente. Un raccord sur Romain est faux.",
+      "issues": [
+        {
+          "severity": "majeur",
+          "type": "continuite",
+          "quote": "Il voit passer une photo de Romain, son colocataire, célébrant une promotion interne dans son agence de communication.",
+          "problem": "Romain est étudiant avec Lucas (épisodes 2 et 5) ; une « promotion interne » suppose un salarié.",
+          "fix": "« … une photo de Romain, son colocataire, qui annonce qu'il a décroché son stage de fin d'études dans une agence de communication. »"
+        },
+        {
+          "severity": "mineur",
+          "type": "comprehension",
+          "quote": "Lucas a ouvert trois fois le fichier du mémoire.",
+          "problem": "Le texte parle ensuite de « rapport », de « correcteur », de « tuteur » et de « référent » sans dire s'il s'agit de la même personne.",
+          "fix": "Fixer « son tuteur de mémoire » et garder ce terme."
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "file": "content/posts/comprendre-et-maitriser-ses-emotions/envie-en-situation-de-competition-hpi.md",
+      "focus": "Envie en compétition : au basket, Lucas envie le tir et l'assurance d'Antoine, joue seul et perd ; il va ensuite lui demander un conseil.",
+      "structure": {
+        "scene": "ok",
+        "concept": "ok",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "ok",
+        "conclusion": "ok",
+        "proches": "ok"
+      },
+      "comprehension": 4,
+      "comprehension_note": "Deux séquences de jeu lisibles (tir précipité, Maxime ignoré à droite), vestiaire, puis un échange court et crédible avec Antoine. Le lecteur comprend seulement par déduction qu'Antoine est un adversaire.",
+      "issues": [
+        {
+          "severity": "mineur",
+          "type": "comprehension",
+          "quote": "Antoine marque de nouveau depuis le même endroit.",
+          "problem": "Antoine n'est pas situé (coéquipier ou adversaire ?).",
+          "fix": "« Antoine, l'ailier de l'équipe adverse, marque de nouveau… »"
+        },
+        {
+          "severity": "mineur",
+          "type": "repetition",
+          "quote": "Il ferme les yeux et tente de mettre en pratique la respiration consciente qu'il avait apprise pour calmer son anxiété lors de son entretien à La Défense.",
+          "problem": "Rappel systématique de la respiration de l'épisode 1, repris dans presque tous les retours.",
+          "fix": "Supprimer la phrase."
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "file": "content/posts/sortir-de-ses-schemas-repetitifs/syndrome-imposteur-ecole-etudes-lucas.md",
+      "focus": "Sentiment d'imposture : en cours, Lucas n'ose pas demander la différence entre deux études sur le microcrédit ; il la pose au professeur à la fin.",
+      "structure": {
+        "scene": "ok",
+        "concept": "ok",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "ok",
+        "conclusion": "ok",
+        "proches": "ok"
+      },
+      "comprehension": 4,
+      "comprehension_note": "Scène simple (stylo levé puis reposé) et fin juste (« J'ai compris la différence, mais je ne saurais pas encore l'expliquer »). L'ouverture se charge de rappels familiaux, et la réponse du professeur est un peu trop flatteuse.",
+      "issues": [
+        {
+          "severity": "mineur",
+          "type": "comprehension",
+          "quote": "Le cours de stratégie se termine.",
+          "problem": "Le cours était présenté comme un cours sur le microcrédit ; l'épisode 11 parle ensuite de « cours de stratégie internationale ».",
+          "fix": "« Le cours d'économie du développement se termine. » ou garder « stratégie » partout."
+        },
+        {
+          "severity": "mineur",
+          "type": "trame",
+          "quote": "soulignant que c'est un point de vue que peu d'étudiants soulèvent",
+          "problem": "La récompense par le professeur contredit l'idée de l'épisode (oser poser une question même élémentaire).",
+          "fix": "Le professeur répond simplement et renvoie à une page du texte."
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "file": "content/posts/sortir-de-ses-schemas-repetitifs/recherche-approbation-reconnaissance-amitie-enfance.md",
+      "focus": "Recherche d'approbation : Lucas embellit une journée de stage pour faire rire ses colocataires, puis renonce à inventer une offre de cabinet.",
+      "structure": {
+        "scene": "ok",
+        "concept": "ok",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "ok",
+        "conclusion": "ok",
+        "proches": "ok"
+      },
+      "comprehension": 4,
+      "comprehension_note": "L'ouverture (tableau corrigé devenu exploit, Maxime sur son téléphone) et la décision (il écoute Romain, lui pose une question) sont claires. Le dernier paragraphe déclare une transformation et contredit le statut d'étudiant.",
+      "issues": [
+        {
+          "severity": "mineur",
+          "type": "trame",
+          "quote": "Pour la première fois depuis longtemps, il ne se demande pas ce que les autres pensent de lui. Il se sent juste là, à sa place, sans avoir besoin de prouver quoi que ce soit.",
+          "problem": "Transformation déclarée, démentie par les épisodes suivants (bandwagon, agacement).",
+          "fix": "Supprimer le paragraphe ou finir sur un geste (il reste dans la cuisine sans ouvrir Instagram)."
+        },
+        {
+          "severity": "mineur",
+          "type": "continuite",
+          "quote": "comparer sa vie à celle de ses anciens camarades de promo",
+          "problem": "Lucas est encore en dernière année ; ses camarades de promo ne sont pas « anciens ».",
+          "fix": "« … à celle de ses camarades de promo »"
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "file": "content/posts/reprendre-le-controle-de-ses-pensees/effet-barnum-forer-reseaux-sociaux.md",
+      "focus": "Effet Barnum : Lucas se reconnaît dans une vidéo de portrait psychologique général et la commente comme une révélation.",
+      "structure": {
+        "scene": "ok",
+        "concept": "ok",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "faible",
+        "conclusion": "ok",
+        "proches": "ok"
+      },
+      "comprehension": 4,
+      "comprehension_note": "La scène illustre très bien le concept (phrases générales, « moi aussi » en commentaires). Le retour est une méditation de bilan (calme inédit, rappel de tous les épisodes) qui contredit la technique qui interdit d'attribuer des émotions à Romain.",
+      "issues": [
+        {
+          "severity": "majeur",
+          "type": "trame",
+          "quote": "En éteignant son écran, Lucas ressent une forme de calme inédite. Il n'a plus besoin que l'algorithme lui dise qui il est pour se sentir exister.",
+          "problem": "Fin de transformation déclarée, puis récapitulatif du parcours ; la décision concrète (s'abonner ou se désabonner, partager ou non) n'est pas montrée.",
+          "fix": "Finir sur un geste : il se désabonne du compte, ou enregistre la vidéo pour la montrer à Romain, et rejoint la cuisine."
+        },
+        {
+          "severity": "mineur",
+          "type": "comprehension",
+          "quote": "Une nouvelle vidéo défile : Pourquoi les gens ambitieux nés dans des milieux modestes sont souvent des perfectionnistes anxieux.",
+          "problem": "Titre cité sans guillemets.",
+          "fix": "Mettre le titre entre guillemets."
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "file": "content/posts/reprendre-le-controle-de-ses-pensees/effet-dotation-decision-importante-lucas.md",
+      "focus": "Effet de dotation : convoqué à un dernier entretien pour un poste à Lyon, Lucas surévalue son stage parisien et ses habitudes.",
+      "structure": {
+        "scene": "ok",
+        "concept": "ok",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "ok",
+        "conclusion": "ok",
+        "proches": "ok"
+      },
+      "comprehension": 3,
+      "comprehension_note": "L'ouverture est claire (message de Mathieu, téléphone fêlé, « Rien n'est signé »). Le dilemme est mal posé : un stage de fin d'études s'arrête de toute façon ; on ne comprend pas ce que Lucas risquerait de perdre en allant à un entretien. La décision finale (accepter l'entretien) est mince pour un épisode entier.",
+      "issues": [
+        {
+          "severity": "majeur",
+          "type": "lien_concept",
+          "quote": "Mais c'est son stage. Il connaît le code de la machine à café qui fuit, il a sa place attitrée près de la fenêtre",
+          "problem": "Le stage se termine avec l'année ; l'alternative réelle est « poste à Lyon » contre « chercher un emploi à Paris » ou « être embauché par l'agence ». Sans cette précision, l'effet de dotation porte sur un bien que Lucas va perdre de toute façon.",
+          "fix": "Poser l'alternative : « L'agence lui propose de rester en CDD après le stage. » L'attachement au bureau près de la fenêtre devient alors un vrai biais de dotation."
+        },
+        {
+          "severity": "mineur",
+          "type": "continuite",
+          "quote": "celui-là même qui lui avait valu les critiques de son tuteur au début et qu'il a fini par dompter à force de nuits blanches",
+          "problem": "Les critiques de l'épisode 3 portaient sur le mémoire, pas sur un dossier de stage ; l'épisode 10 qualifie ensuite ces dossiers de « médiocres ».",
+          "fix": "« … ce dossier sur lequel il travaille depuis trois mois »"
+        },
+        {
+          "severity": "mineur",
+          "type": "clinique",
+          "quote": "La liberté commence au moment où l'on accepte de lâcher ce que l'on a pour laisser de la place à ce que l'on mérite.",
+          "problem": "Conclusion qui prône le départ, alors que l'article précise que rester n'est pas une erreur.",
+          "fix": "« La question utile est de comparer les deux options avec les mêmes critères. »"
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "file": "content/posts/reprendre-le-controle-de-ses-pensees/effet-bandwagon-amitie.md",
+      "focus": "Effet bandwagon : sur le quai, Lucas s'apprête à répondre « pareil » à une soirée chère parce que ses colocataires ont dit oui.",
+      "structure": {
+        "scene": "ok",
+        "concept": "ok",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "faible",
+        "conclusion": "ok",
+        "proches": "ok"
+      },
+      "comprehension": 3,
+      "comprehension_note": "L'ouverture est très claire (« pareil » tapé avant de regarder le solde). Mais Lucas a déjà répondu « peut-être » dans le métro, et le retour rejoue la même proposition le soir dans le salon, puis résume plusieurs jours. Le thème (budget et sortie de groupe) reprend l'épisode 2.",
+      "issues": [
+        {
+          "severity": "majeur",
+          "type": "comprehension",
+          "quote": "Ce soir, dans le salon de la colocation, la proposition revient : un événement très en vogue dans la ville, avec un coût élevé et une organisation de dernière minute.",
+          "problem": "Chronologie confuse : la même invitation a déjà reçu une réponse dans le métro ; on ne sait pas s'il s'agit d'une autre soirée.",
+          "fix": "Garder une seule scène : l'invitation dans le groupe, la réponse différée, puis le refus envoyé du salon le soir même."
+        },
+        {
+          "severity": "majeur",
+          "type": "repetition",
+          "quote": "Il repense au chalet pour lequel il avait inventé un travail de dernière minute.",
+          "problem": "Le problème (sortie chère proposée par les colocataires, budget serré) est celui de l'épisode 2 ; l'aspect propre au concept (suivre parce que d'autres ont dit oui) est dilué par la question d'argent.",
+          "fix": "Choisir un objet d'entraînement sans enjeu financier : tout le groupe de promo opte pour un sujet de mémoire collectif ou une option, et Lucas suit avant de lire le programme."
+        },
+        {
+          "severity": "mineur",
+          "type": "trame",
+          "quote": "Dans les jours qui suivent, il expérimente d’autres situations. En cours, face à une opinion majoritaire, il partage désormais une nuance",
+          "problem": "Résumé de progrès au lieu d'une scène.",
+          "fix": "Supprimer ou réduire à une phrase."
+        },
+        {
+          "severity": "mineur",
+          "type": "comprehension",
+          "quote": "Ce soir, il va tester une technique qu’il a lue : se donner une pseudo-décision.",
+          "problem": "« Pseudo-décision » n'est pas expliquée et ne correspond à aucune technique de l'article.",
+          "fix": "« … il va se donner un délai avant de répondre. »"
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "file": "content/posts/reprendre-le-controle-de-ses-pensees/effet-recence-decision-importante.md",
+      "focus": "Effet de récence : au moment de répondre à l'offre de Lyon, Lucas donne trop de poids à la dernière critique de son tuteur.",
+      "structure": {
+        "scene": "ok",
+        "concept": "ok",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "ok",
+        "conclusion": "ok",
+        "proches": "ok"
+      },
+      "comprehension": 4,
+      "comprehension_note": "Situation claire (mail d'offre, dernier commentaire du tuteur), technique bien reliée (journal par date et source) et fin nette : il accepte le poste et prévient ses colocataires. Le retour réintroduit l'effet de dotation et dévalorise le stage.",
+      "issues": [
+        {
+          "severity": "majeur",
+          "type": "repetition",
+          "quote": "Ce travail d'écriture lui permet de réaliser que son hésitation à quitter Paris n'est pas seulement liée à l'offre actuelle, mais à cet effet de dotation qu'il avait identifié auparavant.",
+          "problem": "Le retour reprend le concept de l'épisode 8 sur la même décision ; le lecteur ne voit plus ce qui distingue cet épisode.",
+          "fix": "Rester sur la récence : en relisant ses notes datées, Lucas retrouve un compliment de février sur le même dossier et voit que la critique d'hier porte sur une seule présentation."
+        },
+        {
+          "severity": "mineur",
+          "type": "continuite",
+          "quote": "Il s'accroche à ses dossiers de stage médiocres simplement parce qu'ils sont familiers.",
+          "problem": "L'épisode 8 décrivait un dossier qu'il avait « fini par dompter » ; « médiocres » le contredit.",
+          "fix": "« Il s'accroche à des dossiers familiers… »"
+        }
+      ]
+    },
+    {
+      "number": 11,
+      "file": "content/posts/comprendre-et-maitriser-ses-emotions/agacement-en-colocation-comprendre-emotions.md",
+      "focus": "Agacement en colocation : le bruit et la poêle de Romain l'empêchent de préparer une visioconférence ; Lucas fait une demande brève.",
+      "structure": {
+        "scene": "ok",
+        "concept": "ok",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "ok",
+        "conclusion": "ok",
+        "proches": "ok"
+      },
+      "comprehension": 4,
+      "comprehension_note": "Scène nette (fourchette qui grince, casserole dans l'évier, réunion dans quinze minutes) ; la réplique, un peu plus sèche que voulu, est crédible. La réaction de Romain est trop idéale et la dernière phrase déclare une transformation.",
+      "issues": [
+        {
+          "severity": "mineur",
+          "type": "trame",
+          "quote": "Il retourne à son clavier, l'esprit plus léger, prêt à affronter sa visioconférence avec une assurance qu'il ne soupçonnait pas quelques semaines auparavant.",
+          "problem": "Conclusion de transformation ; la conséquence réelle (Romain lave la poêle) suffit.",
+          "fix": "Couper après « Il retourne à son clavier. »"
+        },
+        {
+          "severity": "mineur",
+          "type": "continuite",
+          "quote": "lorsqu'il n'osait pas poser de questions de peur que Romain ou les autres ne découvrent ses origines modestes",
+          "problem": "Romain connaît sa situation financière depuis l'aveu de l'épisode 2.",
+          "fix": "« … de peur que les autres ne découvrent… »"
+        }
+      ]
+    },
+    {
+      "number": 12,
+      "file": "content/posts/reprendre-le-controle-de-ses-pensees/correlation-illusoire-sur-les-reseaux-sociaux.md",
+      "focus": "Corrélation illusoire : sur le fil d'un coach, Lucas associe réveil à cinq heures et réussite, puis compare son stage aux publications de Thomas.",
+      "structure": {
+        "scene": "ok",
+        "concept": "ok",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "faible",
+        "conclusion": "ok",
+        "proches": "ok"
+      },
+      "comprehension": 2,
+      "comprehension_note": "L'ouverture est claire (trois vidéos, même personne sur deux images). Ensuite surgit Thomas, ni présenté ni distingué du coach, puis la définition parle d'un « ancien camarade ». Le retour contredit l'épisode 10 sur Lyon et finit en bilan général.",
+      "issues": [
+        {
+          "severity": "bloquant",
+          "type": "continuite",
+          "quote": "Il réalise que son indécision chronique, comme celle qui le paralyse face à l'offre d'emploi à Lyon, est souvent nourrie par ces fausses corrélations entre confort géographique et réussite.",
+          "problem": "Lucas a accepté le poste de Lyon (épisode 10), et la première phrase de cet épisode le rappelle (« depuis qu'il a dit oui à Lyon »). Contradiction interne au même épisode.",
+          "fix": "Supprimer la phrase ou la remplacer par : « Il remarque que depuis qu'il a dit oui à Lyon, il cherche des preuves qu'il a fait le bon choix. »"
+        },
+        {
+          "severity": "majeur",
+          "type": "comprehension",
+          "quote": "Il remarque que chaque fois qu'il voit une publication de Thomas, il se sent instantanément plus médiocre dans son propre stage.",
+          "problem": "Thomas n'est pas présenté et le lecteur ne sait pas s'il est le coach ; la définition parle plus loin des photos « qu'un ancien camarade choisit de publier ».",
+          "fix": "Choisir : soit le coach seul, soit « Thomas, un ancien camarade de lycée devenu coach » présenté dès la première phrase."
+        },
+        {
+          "severity": "mineur",
+          "type": "continuite",
+          "quote": "au portrait de l'hypersensible sur TikTok",
+          "problem": "L'épisode 7 ne nommait ni la plateforme ni l'hypersensibilité comme portrait principal.",
+          "fix": "« au portrait vidéo dans lequel il s'était reconnu »"
+        },
+        {
+          "severity": "mineur",
+          "type": "trame",
+          "quote": "Il se rend compte que ses amis l'apprécient pour sa personnalité, et non pour la corrélation qu'il tente de construire entre son image et sa réussite.",
+          "problem": "Phrase de bilan abstraite au lieu de la réaction de Maxime.",
+          "fix": "Donner la réponse de Maxime (il reconnaît le même visage sur deux vidéos)."
+        }
+      ]
+    }
+  ],
+  "missing_or_extra": "Douze épisodes présents, mais l'arc a des doublons : réseaux sociaux (7 et 12), décision Lyon (8 et 10), sortie chère et budget (2 et 9). Proposer de remplacer l'épisode 12 (corrélation illusoire) par un épisode situé avec ses parents, absents des scènes alors qu'ils fondent la pression de tout le parcours : par exemple « culpabilité » ou « peur de décevoir » quand Lucas annonce à Sandrine et Jean-Marc qu'il part à Lyon. Recentrer l'épisode 9 sur l'effet de groupe sans enjeu d'argent. Corriger le statut de Romain dans l'épisode 3.",
+  "verdict": "corrections_majeures"
+}

@@ -1,0 +1,88 @@
+{
+ "references": {
+  "oms-mms-6d81": {
+   "title": "OMS, CIM-11 MMS 2026-01, 6D81 Démence due à une maladie cérébrovasculaire, lien canonique français",
+   "url": "https://icd.who.int/browse/2026-01/mms/fr#1365258270"
+  },
+  "oms-cddr-hrb": {
+   "title": "OMS, CDDR 2024, ISBN 9789240077263, pages imprimées 618–621 (exigences générales de la démence), 623–624 (6D81) et 634–636 (sévérité et spécificateurs 6D86) ; document original au dépôt HRB",
+   "url": "https://www.drugsandalcohol.ie/41519/1/WHO_Clinical_descriptions_and_diagnostic_requirements_ICD-11.pdf"
+  },
+  "nice-ng97": {
+   "title": "NICE NG97 (2018), Dementia: assessment, management and support, recommandations 1.1.1–1.1.13, 1.2.26–1.2.27, 1.3.1–1.3.2, 1.4.1–1.4.4, 1.5.14, 1.7.1–1.7.2, 1.7.11–1.7.12, 1.11.1–1.11.5",
+   "url": "https://www.nice.org.uk/guidance/ng97/chapter/Recommendations"
+  },
+  "nice-ng128": {
+   "title": "NICE NG128, Stroke and transient ischaemic attack in over 16s: diagnosis and initial management, recommandations 1.1.1–1.1.2",
+   "url": "https://www.nice.org.uk/guidance/ng128/chapter/Recommendations"
+  },
+  "has-tnc-fiche2": {
+   "title": "HAS, parcours de soins des patients présentant un trouble neurocognitif associé à la maladie d’Alzheimer ou à une maladie apparentée, fiche 2 « Maladies apparentées », mai 2018, p. 1, rubrique Troubles neurocognitifs vasculaires",
+   "url": "https://www.has-sante.fr/upload/docs/application/pdf/2018-05/fiche_2_maladies_apparentees_differentes.pdf"
+  },
+  "has-tnc-fiche7": {
+   "title": "HAS, parcours de soins TNC, fiche 7 « Le droit de savoir, le droit de décider », mai 2018, p. 1–2",
+   "url": "https://www.has-sante.fr/upload/docs/application/pdf/2018-05/fiche_7_droit_savoir_decider-revue.pdf"
+  },
+  "has-tnc-fiche12": {
+   "title": "HAS, parcours de soins TNC, fiche 12 « Préserver une autonomie fonctionnelle, prise en charge non médicamenteuse », mai 2018, p. 1–2, rubrique L’ergothérapeute",
+   "url": "https://www.has-sante.fr/upload/docs/application/pdf/2018-05/fiche_12_tnm_preserver_autonomie_cognitivo-fonctionnelle.pdf"
+  },
+  "has-tnc-fiche15": {
+   "title": "HAS, parcours de soins TNC, fiche 15 « Vivre le quotidien, le point de vue de l’aidant », mai 2018, p. 1–2",
+   "url": "https://www.has-sante.fr/upload/docs/application/pdf/2018-05/fiche_15_vivre_le_quotidien.pdf"
+  },
+  "aha-vci-2011": {
+   "title": "Gorelick et al., Vascular Contributions to Cognitive Impairment and Dementia, déclaration AHA/ASA, Stroke 2011;42:2672–2713, DOI 10.1161/STR.0b013e3182299496, sections 2.5–2.6, 7.5–7.6, 8.3, 8.4.6 et 10.4",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3778669/"
+  },
+  "spf-avc": {
+   "title": "Santé publique France, dossier Accident vasculaire cérébral : apparition brutale d’un déficit neurologique d’origine vasculaire",
+   "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-cardiovasculaires-et-accident-vasculaire-cerebral/accident-vasculaire-cerebral"
+  },
+  "service-public-samu": {
+   "title": "Service Public, fiche F33954, numéros d’urgence : le 15 pour l’urgence médicale (Samu) et le service d’accès aux soins",
+   "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F33954"
+  }
+ },
+ "dossier": {
+  "name": "Démence due à une maladie cérébrovasculaire",
+  "aliases": [
+   "6D81",
+   "Démence vasculaire",
+   "Trouble neurocognitif vasculaire",
+   "Dementia due to cerebrovascular disease"
+  ],
+  "references": [
+   "oms-cddr",
+   "oms-mms-6d81",
+   "oms-cddr-hrb",
+   "nice-ng97",
+   "nice-ng128",
+   "has-tnc-fiche2",
+   "has-tnc-fiche7",
+   "has-tnc-fiche12",
+   "has-tnc-fiche15",
+   "aha-vci-2011",
+   "spf-avc",
+   "service-public-samu"
+  ],
+  "points": [
+   "Vérification individuelle du 12 novembre 2026 : texte original des CDDR (PDF OMS déposé au HRB, 340 pages extraites) lu aux pages imprimées 618–621, 623–624 et 634–636 ; NICE NG97 et NG128 lus en ligne sur la page Recommendations ; HAS fiches 2, 7, 12 et 15 du parcours 2018 lues en PDF ; déclaration AHA/ASA 2011 lue sur PMC ; pages Service Public F33954 et Santé publique France AVC lues. Le lien MMS 2026-01 est une interface dynamique non extraite : l’intitulé français « Démence due à une maladie cérébrovasculaire » est repris du registre canonique local (6D81). Les paraphrases françaises ne sont pas une traduction officielle des textes anglais.",
+   "CDDR p. 618 (exigences générales de la démence) : atteinte marquée d’au moins deux domaines cognitifs par rapport au niveau attendu pour l’âge et au fonctionnement antérieur, représentant un déclin. La mémoire est atteinte dans la plupart des formes, mais l’atteinte ne se limite pas à elle : fonctions exécutives, attention, langage, cognition sociale et jugement, vitesse psychomotrice, fonctions visuoperceptives ou visuospatiales. Les éléments viennent de la personne, d’un informant ou de l’observation clinique, et d’une évaluation standardisée ou quantifiée. Des changements comportementaux peuvent exister. Aucune scène ne fournit une liste permettant de conclure sur soi ou un proche.",
+   "CDDR p. 623 (6D81, caractéristiques essentielles) : toutes les exigences de la démence sont remplies, et la démence est présumée attribuable à une maladie cérébrovasculaire sous-jacente, démontrée par neuro-imagerie, examens médicaux et/ou antécédents cliniques ; les exigences de la forme mixte avec maladie d’Alzheimer (6D80.2) ne sont pas remplies. Note p. 624 : un diagnostic du groupe des maladies cérébrovasculaires du chapitre 8 est aussi attribué. Le canon établit le diagnostic avant la série : stage known partout. L’attribution vasculaire est une conclusion de l’équipe, pas une déduction de Nadège ou de ses proches.",
+   "CDDR p. 624 (caractéristiques cliniques additionnelles) : après un AVC, l’atteinte dépend de la région touchée, débute typiquement brutalement, s’améliore puis atteint un plateau, avec des déficits résiduels souvent chroniques. Dans les atteintes microvasculaires, elle touche typiquement des fonctions dites sous-corticales : attention, vitesse de traitement, fonctions exécutives ; quand ces atteintes sont liées à des affections chroniques évolutives comme l’hypertension ou le diabète, l’évolution peut être lentement progressive. Choix narratif : l’équipe a parlé à Nadège d’atteintes des petits vaisseaux visibles à l’IRM, avec une hypertension suivie de longue date ; aucun AVC antérieur n’est inventé avant l’épisode 9.",
+   "CDDR p. 619 (évolution) : la plupart des démences sont progressives, d’autres réversibles, certaines démences dues à une maladie cérébrovasculaire sont stables ; le début et l’évolution varient beaucoup selon l’étiologie. AHA/ASA 2011, §7.6 : la présentation et l’évolution sont très variables ; le déclin « par paliers » associé aux AVC est une présentation relativement peu fréquente. Aucun épisode ne promet un cours uniforme, une stabilisation ou un déclin prévisible ; l’épisode 11 montre une incertitude discutée avec l’équipe.",
+   "CDDR p. 634 (sévérité légère, XS5W) : la personne peut vivre de façon indépendante avec souvent un soutien ; elle peut participer seule à des activités sociales et paraître non atteinte à ceux qui la connaissent peu ; jugement et résolution de problèmes sont typiquement atteints, avec des difficultés possibles pour les décisions complexes, les projets et les finances (calcul, règlement de factures). La sévérité s’apprécie par l’examen clinique et un informant. Choix narratif : l’équipe a qualifié la sévérité de légère ; aucun score n’est inventé ; le stade n’est jamais déduit d’une scène.",
+   "CDDR p. 635–636 (spécificateurs 6D86) : les troubles comportementaux et psychologiques (apathie, troubles de l’humeur, anxiété, irritabilité, troubles du sommeil…) sont fréquents ; un spécificateur s’emploie quand ils justifient une intervention clinique. 6D86.1 humeur, 6D86.2 anxiété, 6D86.3 apathie : indifférence ou manque d’intérêt cliniquement significatif. HAS fiche 2, p. 1 : troubles neurocognitifs vasculaires sous-diagnostiqués car souvent confondus avec une dépression ou une fatigue post-AVC ; troubles psychocomportementaux fréquents. AHA/ASA 2011, §2.5, 7.5 et 8.3 : la maladie cérébrovasculaire peut s’associer à une dépression, qui peut peser sur le fonctionnement et la cognition et répondre à un traitement. Dans l’épisode 8, le manque d’élan est décrit et évalué par l’équipe, sans être étiqueté par Bastien ni attribué d’office à la démence.",
+   "CDDR p. 620 (limite avec le délirium) et caractéristiques de l’AVC p. 624 ; Santé publique France, dossier AVC : l’AVC se manifeste par l’apparition brutale d’un déficit neurologique d’origine vasculaire. NICE NG128, 1.1.1–1.1.2 : en dehors de l’hôpital, un outil validé comme FAST sert au repérage chez une personne présentant des symptômes neurologiques d’apparition soudaine ; l’hypoglycémie est à exclure par les soignants. Service Public F33954 : le 15 joint le Samu pour une urgence médicale ; le 112 est aussi possible. Dans l’épisode 9, Josette appelle le 15 sans attendre, sans attribuer le changement à la démence connue et sans test de remplacement. Le récit ne détaille ni traitement d’urgence ni posologie ; les médecins posent le diagnostic.",
+   "NICE NG97, 1.2.26–1.2.27 : en cas de doute sur le sous-type et de suspicion de démence vasculaire, IRM (ou scanner) ; ne pas poser le diagnostic sur la seule charge lésionnelle vasculaire. NG97 1.5.14 : les médicaments anti-démence ne sont envisagés dans la démence vasculaire qu’en cas de suspicion d’une autre pathologie associée ; aucun traitement médicamenteux n’est présenté comme soignant la démence de Nadège, aucun nom de médicament ni posologie. AHA/ASA 2011, §8.4.6 : chez les personnes à risque de troubles cognitifs vasculaires, le traitement de l’hypertension est recommandé (classe I, niveau A), la portée des autres mesures est plus incertaine. Cette recommandation concerne la prévention ; dans la série, le suivi de la tension et des autres facteurs de risque est décidé avec le médecin traitant et la neurologue, sans promettre qu’il stabilise les capacités.",
+   "NICE NG97, 1.1.1–1.1.3, 1.1.7 et 1.1.12–1.1.13 : permettre à la personne de donner ses vues, adapter la communication (supports visuels, texte simplifié), connaître ses préférences et son histoire, recueillir son accord sur ce qui est partagé et avec qui, proposer tôt et régulièrement de parler des souhaits futurs. HAS fiche 7, p. 1–2 : droit à une information adaptée et à participer aux décisions qui la concernent ; la personne malade est seule apte à décider des traitements qu’elle accepte ; personne de confiance et directives anticipées peuvent être proposées. Le récit ne décrit ni mesure de protection juridique ni règle légale non sourcée ; Odile et Bastien ne décident pas à la place de Nadège.",
+   "NICE NG97, 1.4.1 et 1.4.4 : activités adaptées aux préférences ; réhabilitation cognitive ou ergothérapie à envisager pour soutenir les capacités fonctionnelles dans une démence légère à modérée. HAS fiche 12, p. 1–2 : l’ergothérapeute évalue l’effet des troubles sur les actes de la vie quotidienne et l’environnement, se centre sur des activités significatives où maîtrise, plaisir et satisfaction priment, et ses mises en situation concrètes complètent les évaluations en cabinet et renseignent sur le niveau d’aide. AHA/ASA 2011, §10.4 : peu d’essais spécifiques aux troubles vasculaires et réhabilitation non démontrée dans cette population. Les supports de Nadège (fiches d’étapes, minuteur, partage des gestes chauds) sont des aménagements discutés, pas des traitements dont l’efficacité serait établie.",
+   "NICE NG97, 1.3.1–1.3.2 : un professionnel nommé coordonne et révise avec la personne un plan de soins et d’accompagnement. NG97 1.11.1–1.11.5 et HAS fiche 15, p. 1–2 : les proches aidants peuvent avoir besoin d’information, d’appui, de répit et d’une évaluation de leurs propres besoins ; l’aide est souvent minimisée et a des effets sur leur santé et leur vie professionnelle ; accompagnement avec l’accord du patient lorsqu’il peut consentir. Bastien a son travail de graphiste et peut limiter son rôle ; Josette est voisine, pas soignante ; Odile vit à Nantes et n’est pas informée de tout.",
+   "Limites : CDDR rédigées en anglais pour les cliniciens, sans valeur d’outil d’autodiagnostic ; NICE NG97 et NG128 décrivent l’organisation anglaise des soins (transposition française partielle, les numéros et parcours français viennent de Service Public et HAS) ; la déclaration AHA/ASA date de 2011, porte surtout sur la prévention et des études observationnelles, et ses classes de recommandation ne valent pas pour une personne donnée ; le guide HAS 2018 porte sur la maladie d’Alzheimer et les maladies apparentées et ne détaille pas les adaptations propres à la cause vasculaire. HAS fiche 2 situe l’âge médian du diagnostic vers 80–85 ans : Nadège, 68 ans, n’est pas présentée comme un cas typique. Aucun chiffre de fréquence n’est transposé à son histoire.",
+   "Architecture des douze aspects : 1 planification et ordre des étapes (fonctions exécutives) ; 2 démence où la mémoire n’est pas au premier plan (exigences diagnostiques) ; 3 lenteur de traitement de l’information ; 4 attention partagée entre parole et geste ; 5 sévérité légère et difficultés invisibles avec les décisions complexes et les comptes ; 6 décision soutenue face aux proches qui décident ; 7 mise en situation par l’ergothérapeute et ajustement des risques ; 8 manque d’élan à évaluer (apathie, humeur, fatigue) ; 9 signes neurologiques brutaux et appel du 15 ; 10 suivi des facteurs de risque vasculaire ; 11 évolution variable et réévaluation ; 12 transmission adaptée et participation. Ce sont des manifestations, mécanismes, retentissements, étapes de soin et d’évolution, pas douze synonymes d’un oubli."
+  ]
+ },
+ "direction": "Nadège, 68 ans, ancienne pâtissière, a travaillé trente ans à la pâtisserie Delaunay, près des quais de Saumur ; elle vit seule dans un appartement de la rue du Portail-Louis. Sa voix est précise, gourmande, avec un humour de laboratoire : « une pâte se respecte, une personne aussi ». Elle explique volontiers le pourquoi d’un geste et déteste qu’on finisse ses phrases ou qu’on décide à sa place. Son projet indépendant : choisir six recettes de son cahier bleu, taché de beurre, et la forme de leur transmission (carnet écrit avec photos des gestes, courtes vidéos, atelier à la maison de quartier des Ponts animée par Karima). Bastien, 27 ans, son filleul graphiste indépendant, vient le mercredi, filme et met en page ; il a ses délais et peut dire non. Odile, sa sœur aînée de 72 ans, appelle de Nantes le dimanche et tranche vite ce que Nadège peut faire. Josette, voisine et ancienne vendeuse de la pâtisserie, partage le marché du samedi. Inès Morel, ergothérapeute, vient à domicile ; la docteure Leclerc et l’équipe de consultation mémoire du centre hospitalier suivent le diagnostic établi l’an dernier ; le docteur Benali, médecin traitant, suit la tension. Faits cliniques mis en scène : difficultés de planification qui varient selon les jours, lenteur et attention partagée, mémoire relativement moins touchée, sévérité qualifiée de légère, manque d’élan évalué, alerte neurologique brutale traitée comme une urgence, suivi vasculaire, évolution sans modèle unique. Interprétations à écarter : toute difficulté imputée à la démence, cours uniforme, guérison par la pâtisserie, test de capacités par les proches, autodiagnostic. Objets et raccords : cahier bleu, minuteur rouge, fiches d’étapes plastifiées, téléphone de Bastien sur son trépied, liste des six recettes. Décision finale : un carnet de six recettes, trois vidéos et un atelier de sablés et de pâte à choux où les gestes chauds sont confiés à Karima ; la Tatin reste filmée chez elle. Nadège garde la suite ouverte."
+}

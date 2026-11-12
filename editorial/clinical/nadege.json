@@ -1,0 +1,1279 @@
+{
+  "character_id": "nadege",
+  "bio": "Nadège, 68 ans, ancienne pâtissière à Saumur, aime encore expliquer à son filleul Bastien pourquoi un geste réussit. Elle vit avec une démence due à une maladie cérébrovasculaire, diagnostiquée l’an dernier : ses souvenirs restent riches, mais planifier une recette, suivre une conversation rapide ou faire des comptes lui demande plus d’effort selon les jours. Elle choisit six recettes de son cahier bleu et la forme de leur transmission. Avec l’ergothérapeute et l’équipe de consultation mémoire, elle ajuste les risques sans laisser ses proches décider à sa place.",
+  "profile_topics": [
+    "Démence due à une maladie cérébrovasculaire",
+    "Planification et fonctions exécutives",
+    "Lenteur et attention partagée",
+    "Décisions soutenues et autonomie",
+    "Risques ajustés et évolution variable"
+  ],
+  "episodes": [
+    {
+      "number": 1,
+      "slug": "nadege-planifier-recette-etapes-demence-vasculaire",
+      "title": "Planifier une recette quand les étapes se chevauchent",
+      "description": "Devant le Paris-Brest, Nadège connaît chaque geste mais perd l’ordre des étapes : la planification devient l’effort principal de sa démence vasculaire.",
+      "context": "dans sa cuisine un mercredi de novembre",
+      "topics": [
+        "Démence due à une maladie cérébrovasculaire",
+        "planification",
+        "fonctions exécutives"
+      ],
+      "clinical_intro": "Dans une démence due à une maladie cérébrovasculaire, organiser plusieurs étapes dans le bon ordre peut devenir plus coûteux que réaliser chacune d’elles. Nadège, dont le diagnostic a été posé l’an dernier, sait encore faire une pâte à choux les yeux fermés. Ce qui se brouille, ce mercredi, c’est l’enchaînement : qu’est-ce qui doit refroidir, qu’est-ce qui attend, qu’est-ce qui commence maintenant.",
+      "opening": "Le cahier bleu est ouvert à la page du Paris-Brest, celle où une tache de beurre a rendu transparent le mot « praliné ». Ce mercredi de novembre, dans la cuisine de la rue du Portail-Louis, Nadège a sorti la casserole en cuivre, le fouet, le sac à douille et le minuteur rouge. Bastien, son filleul, graphiste indépendant qui vient chez elle chaque mercredi, s’est assis au bout de la table avec un carnet de croquis. Il veut comprendre la recette avant de la mettre en page.\n\nLa pâte à choux, elle la fait depuis quarante ans, dont trente à la pâtisserie Delaunay, près des quais. Elle dessèche la panade sans regarder, ajoute les œufs un à un, juge la consistance au ruban qui tombe de la spatule. « Une pâte se respecte, dit-elle, elle te dit quand elle est prête. » La couronne part au four. Le minuteur rouge tourne.\n\nC’est là que tout se met à parler en même temps. La crème doit être cuite et refroidie avant d’être montée au beurre. Le praliné attend dans son bocal. Les choux ont encore vingt-cinq minutes. Faut-il lancer la crème maintenant pour qu’elle ait le temps de refroidir, ou attendre que le four soit libre ? Elle regarde le lait dans le pot, puis la page, puis le four. Chaque geste est là, intact. C’est l’ordre qui ne vient pas. D’habitude, certains jours, il se range tout seul.\n\n« Je peux m’occuper de la crème, si tu veux », propose Bastien en se levant à moitié. Nadège pose le fouet sur le plan de travail, un peu trop fort. « Assieds-toi. Je ne t’ai pas demandé de finir ma recette. » Bastien se rassoit. Le minuteur continue de tourner.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Quand l’ordre des étapes demande plus d’effort que les gestes",
+          "text": "Les fonctions exécutives permettent de planifier, d’ordonner des étapes et de mener plusieurs tâches en parallèle ; dans une démence liée à une atteinte des petits vaisseaux du cerveau, elles font partie des capacités souvent touchées, avec l’attention et la vitesse de traitement. La mémoire des gestes appris peut rester riche pendant que l’organisation devient laborieuse. Chez Nadège, l’équipe de consultation mémoire a posé ce diagnostic l’an dernier, à partir de l’examen, de l’imagerie et de son histoire. Ce mercredi montre ce que cela change dans une recette : la difficulté n’est pas de savoir monter une crème, mais de décider ce qui commence pendant que la couronne cuit. Cela varie selon les jours, la fatigue et le contexte, et une journée moins fluide ne se résume pas au diagnostic."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment la planification se brouille-t-elle dans une recette à plusieurs temps ?",
+          "points": [
+            {
+              "heading": "L’enchaînement se perd alors que les gestes restent sûrs",
+              "text": "Une personne peut réussir chaque étape isolée et hésiter sur celle qui doit venir ensuite, surtout quand l’ordre dépend de délais.",
+              "examples": [
+                "Nadège dessèche la panade et incorpore les œufs sans regarder la page, puis ne sait plus si la crème passe avant ou après la cuisson des choux.",
+                "Elle lit la recette du cahier bleu ligne par ligne mais n’arrive pas à en tirer un ordre de travail pour l’après-midi."
+              ]
+            },
+            {
+              "heading": "Les attentes simultanées se superposent",
+              "text": "Quand plusieurs préparations doivent cuire, refroidir ou reposer en même temps, il faut garder en tête plusieurs horloges à la fois.",
+              "examples": [
+                "La couronne a vingt-cinq minutes de four pendant que la crème devrait déjà refroidir et que le praliné attend dans son bocal.",
+                "Le minuteur rouge ne compte qu’un seul temps, celui des choux, et ne dit rien de la crème qu’il faudrait lancer."
+              ]
+            },
+            {
+              "heading": "Une interruption oblige à tout reconstruire",
+              "text": "Après une pause ou une question, retrouver où l’on en était peut demander de reprendre tout le plan depuis le début.",
+              "examples": [
+                "Quand Bastien propose son aide, Nadège doit relire la page pour se resituer entre le lait et le four.",
+                "Après avoir posé le fouet, elle regarde successivement le pot de lait, le cahier et la porte du four avant de retrouver l’étape suivante."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour garder la main sur une recette à plusieurs étapes",
+          "points": [
+            {
+              "heading": "Écrire l’ordre avant d’allumer le four",
+              "objective": "Séparer le moment où l’on organise du moment où l’on exécute.",
+              "exercise": [
+                "La veille ou le matin, lire la recette et recopier sur une fiche à part les étapes dans l’ordre où on les fera, pas dans celui du livre.",
+                "Noter à côté de chaque étape ce qui doit être prêt avant de la commencer.",
+                "Poser la fiche près du plan de travail et cocher chaque étape terminée."
+              ],
+              "benefit": "L’ordre n’a plus à être reconstruit pendant que la cuisson tourne ; c’est un aménagement à essayer et à ajuster, pas un traitement."
+            },
+            {
+              "heading": "Ne mener qu’une préparation en parallèle",
+              "objective": "Réduire le nombre d’horloges à surveiller en même temps.",
+              "exercise": [
+                "Repérer dans la recette les préparations qui peuvent se faire un autre jour, comme une crème ou un praliné.",
+                "Les répartir sur deux séances plutôt qu’une seule longue après-midi.",
+                "Garder pour chaque séance une seule cuisson et un seul temps à minuter."
+              ],
+              "benefit": "La séance devient plus courte et plus lisible, au prix d’une recette étalée sur plusieurs jours."
+            },
+            {
+              "heading": "Décider soi-même qui fait quoi",
+              "objective": "Recevoir de l’aide sans perdre la direction de sa recette.",
+              "exercise": [
+                "Avant de commencer, dire à la personne présente quel rôle on lui confie, par exemple lire l’étape suivante à voix haute.",
+                "Dire aussi ce qu’on ne veut pas qu’elle fasse sans demander.",
+                "Revoir ce partage à la fin de la séance, en disant ce qui a aidé ou gêné."
+              ],
+              "benefit": "L’aide arrive au moment choisi, et l’entourage n’a pas à deviner ni à évaluer ce que la personne peut faire."
+            }
+          ]
+        }
+      ],
+      "ending_title": "La fiche du Paris-Brest",
+      "ending": "Nadège prend une feuille quadrillée dans le tiroir et écrit, en lettres capitales : « 1. Choux au four. 2. Pendant ce temps : rien. 3. Crème : mercredi prochain, seule. » Elle décide que la couronne sera garnie ce soir d’une simple chantilly et que la crème au praliné aura sa propre séance. Bastien demande s’il peut photographier la fiche pour le futur carnet ; elle accepte. Quand le minuteur sonne, elle sort la couronne, dorée, et la pose sur la grille. La recette complète n’est pas faite aujourd’hui, et elle le regrette un peu. Puis elle ouvre le cahier bleu à la dernière page et écrit en haut : « Recettes à transmettre ». En dessous, un seul nom pour l’instant : Paris-Brest.",
+      "conclusion": "Une démence due à une maladie cérébrovasculaire peut toucher l’organisation des étapes bien avant le savoir-faire. Ce premier épisode montre Nadège choisir de découper sa recette plutôt que de céder la main, et ouvrir la liste qui donnera sa direction à tout le projet de transmission.",
+      "mirror": [
+        "Quand Nadège pose le fouet, Bastien pourrait rester assis et demander : « Tu veux que je lise l’étape suivante à voix haute, ou que je me taise jusqu’à ce que tu me dises ? » Proposer un rôle précis laisse la recette entre ses mains. Il n’a pas à vérifier ce qu’elle sait encore faire ni à interpréter une journée difficile ; s’il s’inquiète durablement, il peut lui demander si elle souhaite en parler à l’équipe qui la suit."
+      ],
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "aha-vci-2011",
+        "has-tnc-fiche2"
+      ],
+      "continuity": {
+        "choice": "Nadège découpe le Paris-Brest en deux séances, écrit une première fiche d’ordre que Bastien photographie, et ouvre dans le cahier bleu la liste « Recettes à transmettre » avec le Paris-Brest.",
+        "next": "Dimanche, Odile appelle de Nantes et doute du diagnostic parce que Nadège se souvient de tout."
+      },
+      "clinical_focus": "Planifier une recette quand les étapes se chevauchent",
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 2,
+      "slug": "nadege-demence-vasculaire-memoire-pas-tout",
+      "title": "Démence vasculaire : la mémoire n’est pas tout",
+      "description": "Odile conclut que sa sœur n’a rien puisqu’elle se souvient de tout ; Nadège cherche comment dire que sa démence touche surtout l’organisation.",
+      "context": "au téléphone un dimanche de novembre",
+      "topics": [
+        "Démence due à une maladie cérébrovasculaire",
+        "mémoire préservée",
+        "expliquer son diagnostic"
+      ],
+      "clinical_intro": "On associe souvent la démence à la perte de mémoire. Dans une démence due à une maladie cérébrovasculaire, d’autres capacités peuvent être touchées en premier plan, comme l’attention, la rapidité ou l’organisation, alors que les souvenirs restent nets. Nadège en fait l’expérience un dimanche, quand sa sœur aînée lui oppose sa mémoire intacte comme une preuve qu’elle n’a rien.",
+      "opening": "Le dimanche, à onze heures, le téléphone sonne toujours. Odile, la sœur aînée de Nadège, soixante-douze ans, appelle de Nantes après la messe, avant de mettre son rôti au four. Nadège s’est assise dans le fauteuil près de la fenêtre, d’où elle voit le toit de l’église de la rue du Portail-Louis. Sur ses genoux, le cahier bleu, ouvert à la liste qu’elle a commencée mercredi.\n\nElle raconte la fiche du Paris-Brest, les trois lignes en capitales, la crème remise à mercredi prochain. Elle pense que cela fera sourire Odile. Odile ne sourit pas, on l’entend à sa voix. « Tu te rappelles le prix d’un Paris-Brest chez Delaunay en 1987 ? — Onze francs cinquante. Douze à partir de Pâques. — Tu vois bien. Une démence, c’est quand on oublie. Toi, tu te souviens de tout. C’est de la fatigue, ma grande, tu en fais trop. »\n\nNadège ouvre la bouche. Elle voudrait expliquer ce que la docteure Leclerc, la neurologue de la consultation mémoire du centre hospitalier, lui a dit l’an dernier, avec les images de l’IRM sur l’écran. Elle se souvient très bien du bureau, de la plante en plastique, de la blouse. Ce qu’elle ne retrouve pas, ce sont les mots dans le bon ordre pour que cela tienne au téléphone, pendant qu’Odile parle déjà du rôti, puis de son voisin, puis revient au diagnostic. La conversation file plus vite qu’elle. Elle se surprend à répondre « oui, oui » à des phrases qu’elle n’a pas suivies jusqu’au bout.\n\n« Tu devrais demander un autre avis », dit Odile. Nadège serre le cahier contre elle. Elle n’a pas envie de se défendre, encore moins de se justifier d’être malade.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Une démence ne se résume pas à l’oubli",
+          "text": "Une démence correspond à un déclin marqué de plusieurs capacités de pensée par rapport au fonctionnement antérieur, avec un retentissement sur la vie quotidienne ; la mémoire est touchée dans la plupart des formes, mais pas toujours au premier plan. Dans la démence due à une maladie cérébrovasculaire, l’équipe médicale attribue ce déclin à une atteinte des vaisseaux du cerveau, démontrée par l’imagerie, les examens et l’histoire clinique. Pour Nadège, la docteure Leclerc a parlé d’atteintes des petits vaisseaux visibles à l’IRM, chez une femme dont la tension est suivie depuis longtemps. Ce sont des conclusions de l’équipe, établies par une évaluation, pas une impression qu’Odile ou Nadège pourraient vérifier au téléphone. Se souvenir d’un prix de 1987 ne contredit donc pas le diagnostic ; cela montre seulement que sa mémoire ancienne reste une ressource."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment une mémoire préservée peut-elle brouiller la compréhension du diagnostic ?",
+          "points": [
+            {
+              "heading": "L’idée que démence veut dire oubli",
+              "text": "Beaucoup de proches cherchent d’abord des trous de mémoire et concluent à l’absence de maladie quand ils n’en voient pas.",
+              "examples": [
+                "Odile utilise le prix du Paris-Brest en 1987 comme une preuve que sa sœur n’a rien.",
+                "Elle propose une explication plus familière, la fatigue, plutôt que d’entendre ce qui a changé dans l’organisation."
+              ]
+            },
+            {
+              "heading": "Un diagnostic difficile à expliquer avec ses propres mots",
+              "text": "Les termes médicaux entendus en consultation ne se transforment pas facilement en phrases simples, surtout dans une conversation rapide.",
+              "examples": [
+                "Nadège se rappelle le bureau de la docteure Leclerc mais ne retrouve pas comment résumer ce qui lui a été expliqué.",
+                "Elle répond « oui, oui » à des phrases d’Odile qu’elle n’a pas suivies jusqu’au bout."
+              ]
+            },
+            {
+              "heading": "Le besoin de choisir ce qu’on partage",
+              "text": "La personne garde le droit de décider à qui elle donne des détails médicaux et à quel moment.",
+              "examples": [
+                "Nadège n’a pas envie de se justifier ni de réciter son compte rendu à sa sœur.",
+                "Quand Odile parle d’un autre avis, elle sent qu’on discute de sa santé sans qu’elle ait la main sur la conversation."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour parler de son diagnostic sans avoir à le prouver",
+          "points": [
+            {
+              "heading": "Préparer une phrase personnelle",
+              "objective": "Avoir sous la main une façon simple de dire ce que la maladie change pour soi.",
+              "exercise": [
+                "Relire calmement ce que l’équipe a expliqué et garder une ou deux idées qui parlent de son quotidien.",
+                "Écrire une phrase courte avec ses propres mots, sans vocabulaire technique.",
+                "La garder à un endroit qu’on consulte souvent, comme un cahier ou un carnet près du téléphone."
+              ],
+              "benefit": "Une phrase prête évite de chercher les mots au moment où la conversation va vite ; elle n’oblige personne à être convaincu."
+            },
+            {
+              "heading": "Garder le compte rendu à portée",
+              "objective": "Pouvoir s’appuyer sur ce que l’équipe a écrit sans devoir tout retenir.",
+              "exercise": [
+                "Ranger le compte rendu de consultation dans une pochette identifiée.",
+                "Noter les questions qu’on n’a pas su poser ou les explications à faire préciser.",
+                "Les apporter au prochain rendez-vous à la consultation mémoire ou chez le médecin traitant."
+              ],
+              "benefit": "Les questions qui restent trouvent une réponse auprès des professionnels qui ont posé le diagnostic, plutôt qu’au téléphone avec un proche."
+            },
+            {
+              "heading": "Choisir ce que l’on partage",
+              "objective": "Rester maître des informations sur sa santé.",
+              "exercise": [
+                "Décider ce que l’on veut bien dire à chaque proche, et ce qu’on garde pour soi ou pour l’équipe.",
+                "Formuler une limite claire, par exemple : « Je t’en parlerai, mais pas pour en débattre. »",
+                "Si un proche s’inquiète vraiment, lui proposer, avec son accord à soi, de venir à une consultation."
+              ],
+              "benefit": "La relation peut continuer sans que chaque appel devienne une discussion sur la réalité du diagnostic."
+            }
+          ]
+        }
+      ],
+      "ending_title": "La phrase du cahier bleu",
+      "ending": "Nadège demande à Odile d’attendre une seconde. Elle ouvre le cahier bleu sous la liste des recettes et écrit lentement : « Ma tête range moins bien les étapes, mes souvenirs sont là. » Puis elle la lit à voix haute. Odile se tait un instant, ce qui est rare. « Tu n’as pas à me croire tout de suite, ajoute Nadège. Mais je ne veux pas d’autre diagnostic au téléphone. Si tu as des questions, viens avec moi au prochain rendez-vous. » Odile dit qu’elle verra et revient au rôti. Nadège raccroche à onze heures vingt, plus fatiguée qu’après une matinée de pâtisserie. Elle ajoute un deuxième nom sur la liste : les sablés de Lucienne, leur mère. Bastien, son filleul, doit venir les filmer mercredi.",
+      "conclusion": "Dans une démence due à une maladie cérébrovasculaire, la mémoire peut rester riche pendant que d’autres capacités ont changé ; c’est l’équipe qui pose et explique ce diagnostic. Nadège trouve une phrase à elle, fixe une limite à sa sœur et garde son projet au centre de la semaine.",
+      "mirror": [
+        "Quand Odile entend le prix de 1987, elle pourrait dire : « Je ne comprends pas bien ce que la neurologue t’a expliqué. Tu veux me le raconter à ta façon, ou on en reparle une autre fois ? » Elle n’a pas à confirmer ni à contester le diagnostic. Si le doute l’empêche de dormir, elle peut demander à Nadège si elle accepte qu’elle l’accompagne à un rendez-vous, et respecter sa réponse."
+      ],
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "nice-ng97",
+        "has-tnc-fiche2"
+      ],
+      "continuity": {
+        "choice": "Nadège écrit sa phrase dans le cahier bleu, refuse qu’Odile discute du diagnostic au téléphone, l’invite à un rendez-vous si elle le souhaite et ajoute les sablés de Lucienne à la liste.",
+        "next": "Mercredi, Bastien installe son téléphone sur un trépied pour filmer les sablés de Lucienne et pose ses questions trop vite."
+      },
+      "clinical_focus": "Démence vasculaire : la mémoire n’est pas tout",
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 3,
+      "slug": "nadege-lenteur-traitement-questions-rapides",
+      "title": "Lenteur de traitement face aux questions rapides",
+      "description": "Filmée pour la vidéo des sablés, Nadège connaît chaque réponse mais elle arrive trop tard : la lenteur de traitement se voit à l’écran.",
+      "context": "pendant le tournage d’une vidéo dans sa cuisine",
+      "topics": [
+        "Démence due à une maladie cérébrovasculaire",
+        "lenteur de traitement",
+        "rythme de conversation"
+      ],
+      "clinical_intro": "Comprendre une question et y répondre demande une vitesse de traitement de l’information qui peut diminuer dans une démence liée aux petits vaisseaux du cerveau. Le savoir reste là, mais il lui faut plus de temps pour se mettre en mots. Pendant le tournage des sablés de sa mère, Nadège découvre à l’écran un décalage qu’elle ressent sans toujours le voir.",
+      "opening": "Ce mercredi, la crème au praliné refroidit déjà au réfrigérateur : Nadège l’a faite ce matin, seule, comme le disait la fiche du Paris-Brest. L’après-midi est réservé aux sablés de Lucienne, sa mère, ceux qu’elle découpait à l’emporte-pièce en forme de cœur les jours de fête. Bastien, son filleul graphiste, a fixé son téléphone sur un petit trépied au bout de la table de la cuisine. Il a orienté la lampe, poussé le pot d’ustensiles hors du cadre. « C’est la première vidéo, dit-il, on verra bien. »\n\nNadège verse la farine sur le plan de travail, ajoute le beurre coupé en dés, et commence à sabler du bout des doigts. Bastien, derrière l’écran, pose sa première question : « Pourquoi le beurre doit être froid ? » Elle cherche le début de sa réponse, les mains dans la farine. Avant qu’elle ait trouvé, il enchaîne : « Et tu sables combien de temps, à peu près ? » Puis, en regardant l’image : « Tu veux qu’on recommence la prise, la lumière n’est pas top ? »\n\n« Parce que s’il fond, la pâte devient… », commence-t-elle. Bastien parle déjà de la lumière. Elle s’arrête. Elle connaît la réponse depuis cinquante ans : le beurre froid reste en petits grains, c’est ce qui donne le sablé. Elle sait aussi combien de temps, jusqu’à ce que ça ressemble à du sable mouillé. Mais les trois questions se sont empilées et elle ne sait plus à laquelle elle répond. Bastien lui montre l’écran. On y voit une femme aux mains immobiles, la bouche entrouverte, qui a l’air d’hésiter. « On dirait que je ne sais pas faire des sablés », dit-elle. Elle se frotte les doigts. Elle a chaud, la lampe est près, et l’appareil la regarde.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Quand la réponse existe mais arrive en retard",
+          "text": "La vitesse de traitement de l’information désigne le temps nécessaire pour percevoir une question, la comprendre et organiser une réponse ; dans les atteintes des petits vaisseaux du cerveau, elle fait partie des fonctions typiquement ralenties, sans que les connaissances soient perdues. Chez Nadège, le savoir sur le beurre froid est intact, mais trois questions posées coup sur coup dépassent le rythme auquel elle peut les traiter. Le décalage donne à la caméra l’image d’une hésitation qui n’en est pas une. D’autres facteurs pèsent aussi ce mercredi : la chaleur de la lampe, le stress d’être filmée, la fatigue de la matinée, et peut-être l’audition si Bastien parle derrière l’écran. Tout ne revient pas à la démence."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment la lenteur de traitement se remarque-t-elle dans un échange rapide ?",
+          "points": [
+            {
+              "heading": "Des réponses décalées",
+              "text": "Quand les questions s’enchaînent, la réponse à la première peut arriver alors que l’interlocuteur est déjà passé à la suivante.",
+              "examples": [
+                "Nadège commence à expliquer le beurre froid pendant que Bastien parle déjà de recommencer la prise.",
+                "Elle ne sait plus si elle doit répondre sur la durée du sablage ou sur la lumière."
+              ]
+            },
+            {
+              "heading": "Une impression d’hésitation trompeuse",
+              "text": "Le temps nécessaire pour organiser une réponse peut être lu par les autres comme un doute ou une ignorance.",
+              "examples": [
+                "À l’écran, ses mains immobiles et sa bouche entrouverte donnent l’air de quelqu’un qui ne sait pas.",
+                "Nadège elle-même dit qu’on croirait qu’elle ne sait pas faire des sablés, alors qu’elle les fait depuis cinquante ans."
+              ]
+            },
+            {
+              "heading": "Une fatigue qui s’accumule",
+              "text": "Suivre un rythme plus rapide que le sien demande un effort qui se paie souvent en fin de séance.",
+              "examples": [
+                "Après trois questions empilées, Nadège a chaud et se frotte les doigts au lieu de continuer à sabler.",
+                "La matinée passée sur la crème au praliné s’ajoute à l’effort du tournage."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour laisser le temps de répondre",
+          "points": [
+            {
+              "heading": "Une question à la fois",
+              "objective": "Éviter que plusieurs questions se superposent.",
+              "exercise": [
+                "Poser une seule question, courte, puis attendre la réponse complète.",
+                "Ne passer à la suivante qu’après un signe que la personne a terminé.",
+                "Noter les autres questions sur un papier pour ne pas les oublier."
+              ],
+              "benefit": "La personne peut répondre à la question posée plutôt que de trier celles qui s’accumulent."
+            },
+            {
+              "heading": "Un silence convenu",
+              "objective": "Rendre normal le temps de réflexion, pour les deux.",
+              "exercise": [
+                "Se mettre d’accord avant de commencer sur un signal qui veut dire « je suis prête ».",
+                "Pendant le silence, ne pas reformuler ni proposer de réponse.",
+                "Après coup, demander si le signal a convenu ou s’il faut le changer."
+              ],
+              "benefit": "Le silence cesse d’être une gêne à combler et redevient un temps de travail."
+            },
+            {
+              "heading": "Préparer les explications à l’avance",
+              "objective": "Déplacer l’effort de formulation avant le moment filmé ou public.",
+              "exercise": [
+                "Choisir avec la personne les deux ou trois explications qu’elle veut donner.",
+                "Les lui laisser écrire ou dire une première fois sans caméra.",
+                "Vérifier l’éclairage, la chaleur et le bruit avant de tourner, pour écarter ce qui gêne en plus."
+              ],
+              "benefit": "Le tournage montre ce qu’elle sait, et l’on réduit les autres sources de gêne qui ne relèvent pas de la maladie."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Le signal de la spatule",
+      "ending": "Nadège demande à Bastien d’éteindre la lampe et d’ouvrir la fenêtre deux minutes. Puis elle pose ses conditions : une question à la fois, et il attend qu’elle lève la spatule avant d’en poser une autre. Bastien écrit ses trois questions sur un post-it collé au trépied. La deuxième prise dure presque le double. On y entend des silences, ses doigts dans la farine, puis sa voix : « Le beurre froid reste en petits grains. C’est ça, le sablé. » Elle lève la spatule. Bastien demande s’il peut raccourcir les silences au montage ; elle accepte pour les longs, pas pour tous. À la fin, elle est fatiguée et laisse les cœurs cuire sans rien expliquer de plus. La première vidéo existe.",
+      "conclusion": "La lenteur de traitement peut faire passer une connaissance intacte pour une hésitation. En imposant un rythme et un signal, Nadège obtient la première des vidéos de son projet, plus longue mais complète, et garde le contrôle de ce que le montage montrera d’elle.",
+      "mirror": [
+        "Derrière l’écran, Bastien aurait pu poser sa première question puis se taire, les yeux sur Nadège plutôt que sur l’image : « Prends ton temps, je t’écoute. » Le post-it collé au trépied est un geste simple que tout proche peut reprendre. Il n’a pas à mesurer ses temps de réponse ni à décider seul de ce qu’on coupe ; il peut lui demander, à la fin, si le rythme lui a convenu."
+      ],
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "aha-vci-2011",
+        "nice-ng97"
+      ],
+      "continuity": {
+        "choice": "Nadège fixe le signal de la spatule et la règle d’une question à la fois ; la vidéo des sablés est tournée et Bastien ne coupe que les longs silences, avec son accord.",
+        "next": "Karima propose une répétition de démonstration de la pâte à choux devant un petit groupe à la maison de quartier des Ponts."
+      },
+      "clinical_focus": "Lenteur de traitement face aux questions rapides",
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 4,
+      "slug": "nadege-attention-partagee-parler-et-faire",
+      "title": "Partager son attention entre parler et faire",
+      "description": "En répétition, une question et la sonnerie du four coupent Nadège au milieu de sa panade : son attention partagée s’épuise.",
+      "context": "lors d’une répétition à la maison de quartier",
+      "topics": [
+        "Démence due à une maladie cérébrovasculaire",
+        "attention partagée",
+        "environnement bruyant"
+      ],
+      "clinical_intro": "Expliquer un geste tout en le faisant, dans une salle où l’on vous interrompt, demande de partager son attention entre plusieurs sources. Cette attention partagée fait partie des capacités qui peuvent être fragilisées dans une démence liée à une maladie des petits vaisseaux du cerveau. Lors d’une répétition devant quatre habitants, Nadège voit sa phrase et sa cuisson se défaire en même temps.",
+      "opening": "Un jeudi de début décembre, la grande salle de la maison de quartier des Ponts sent encore le café du matin. Karima, qui anime la maison de quartier et a proposé l’idée d’un atelier de pâtisserie, a rapproché deux tables sous les fenêtres et réuni quatre habitants pour une répétition : un retraité du club de belote, deux mères qui viennent au soutien scolaire et une étudiante qui loge au-dessus de la boulangerie. La cuisine collective a deux plaques électriques et un four qui sonne fort.\n\nNadège a choisi la pâte à choux, parce que c’est la base de tout. Elle a pesé ses ingrédients chez elle, dans des bols empilés, et les a portés dans un cabas. Dans la casserole, l’eau, le lait, le beurre et la pincée de sel frémissent. Elle jette la farine d’un coup et remue avec la spatule. « Là, on dessèche la panade. On remue jusqu’à ce qu’elle se décolle et fasse une fine pellicule au fond. Pourquoi ? Parce que… »\n\nL’étudiante lève la main : « Pardon, on peut le faire avec de la farine complète ? » Au même moment, le four, que Karima a mis à préchauffer, se met à sonner. Nadège tourne la tête vers le four, puis vers l’étudiante, puis vers la casserole. Sa spatule s’est arrêtée. Elle ne sait plus si la panade a séché deux minutes ou trente secondes, ni ce qu’elle voulait dire après « parce que ». Elle doit se pencher pour regarder le fond de la casserole et juger à l’œil.\n\nElle rit, dit « vous voyez, même les pâtissières se perdent », et les participants rient avec elle. Puis elle se tait un long moment en remuant, plus longtemps qu’elle ne le voudrait, pendant que Karima éteint la sonnerie.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Quand faire et expliquer à la fois coûte davantage",
+          "text": "L’attention partagée est la capacité à suivre plusieurs sources d’information ou à mener deux activités en même temps ; dans une démence due à une atteinte des petits vaisseaux du cerveau, l’attention fait partie des fonctions souvent touchées, comme la vitesse de traitement. Un geste très appris peut rester sûr tant qu’on le fait seul, et devenir plus fragile quand il faut, en même temps, parler, écouter une question et surveiller un signal sonore. Pour Nadège, la répétition dans une salle bruyante additionne ces demandes. Ce qui se défait n’est pas son savoir sur la panade, mais la possibilité de tenir l’explication et la cuisson ensemble. La séance n’est pas un examen : elle montre seulement ce qui charge l’attention dans ce lieu-là."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment l’attention partagée se dérobe-t-elle quand on démontre un geste ?",
+          "points": [
+            {
+              "heading": "Une phrase interrompue",
+              "text": "Une sollicitation extérieure peut couper le fil d’une explication en cours, qu’il est ensuite difficile de reprendre.",
+              "examples": [
+                "Nadège s’arrête après « parce que » quand l’étudiante pose sa question sur la farine complète.",
+                "Elle ne retrouve pas la raison qu’elle allait donner pour dessécher la panade."
+              ]
+            },
+            {
+              "heading": "Un geste suspendu",
+              "text": "Lorsque l’attention se déplace vers la parole ou un bruit, le geste en cours peut s’arrêter sans que la personne s’en aperçoive.",
+              "examples": [
+                "Sa spatule s’immobilise au moment où le four sonne.",
+                "Elle doit se pencher sur la casserole pour estimer depuis combien de temps la panade sèche."
+              ]
+            },
+            {
+              "heading": "Une fatigue après la séance",
+              "text": "Tenir plusieurs fils à la fois dans un lieu bruyant peut épuiser plus qu’une longue préparation faite au calme.",
+              "examples": [
+                "Après avoir ri avec le groupe, Nadège se tait plus longtemps qu’elle ne le voudrait.",
+                "Rentrée chez elle, elle note que la répétition l’a plus fatiguée qu’une après-midi entière de pâtisserie."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour démontrer un geste sans tout porter en même temps",
+          "points": [
+            {
+              "heading": "Séparer le geste et les questions",
+              "objective": "Ne pas avoir à faire, expliquer et écouter au même moment.",
+              "exercise": [
+                "Annoncer au groupe que le geste sera d’abord montré sans parler.",
+                "Expliquer ensuite, la casserole posée hors du feu.",
+                "Ouvrir un temps de questions séparé, à la fin de chaque étape."
+              ],
+              "benefit": "Chaque moment ne demande qu’une seule chose ; l’ordre peut être revu si l’essai ne convient pas."
+            },
+            {
+              "heading": "Confier le minuteur à quelqu’un d’autre",
+              "objective": "Retirer les signaux sonores de ce que la démonstratrice doit surveiller.",
+              "exercise": [
+                "Choisir une personne de confiance pour surveiller le four et les temps de cuisson.",
+                "Convenir qu’elle prévient à voix basse plutôt que de laisser sonner.",
+                "Lui donner la liste des temps à l’avance."
+              ],
+              "benefit": "Le bruit qui interrompt disparaît, et la personne n’a pas à guetter plusieurs choses à la fois."
+            },
+            {
+              "heading": "Aménager le lieu",
+              "objective": "Réduire ce qui disperse l’attention dans la salle.",
+              "exercise": [
+                "Repérer avant la séance les sources de bruit et de passage, comme le four ou la porte.",
+                "Placer la démonstratrice dos à ces sources et les participants face à elle.",
+                "Prévoir un nombre limité de participants et une durée courte."
+              ],
+              "benefit": "Un cadre plus calme peut rendre la séance moins coûteuse, sans garantir qu’elle se passe sans accroc."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Le tableau des questions",
+      "ending": "Après le départ des participants, Nadège reste avec Karima devant les choux qui ont gonflé, un peu inégaux. « La prochaine fois, je montre d’abord, en silence. Après, j’explique. Les questions, on les écrit. » Karima propose d’apporter le tableau blanc du soutien scolaire : chacun y notera sa question pendant la démonstration, et elle les lira à Nadège à la fin de chaque étape. Nadège accepte. Sur le chemin du retour, son cabas lui paraît plus lourd qu’à l’aller. Chez elle, elle s’assoit avant d’enlever son manteau, ouvre le cahier bleu et note sous la liste : « Répétitions : plus fatigantes que prévu. Pas plus d’une heure. » Puis elle ajoute un troisième nom : pâte à choux.",
+      "conclusion": "L’attention partagée peut céder quand il faut faire, parler et écouter dans un lieu bruyant, même pour un geste très appris. Nadège en tire une règle pour l’atelier, montrer d’abord puis expliquer, et une limite de durée qu’elle inscrit elle-même dans son projet.",
+      "mirror": [
+        "Quand la spatule de Nadège s’arrête, Karima pourrait dire simplement : « Je note votre question, on la reprend à la fin de l’étape », puis éteindre le four sans commentaire. Ce geste protège la démonstration sans faire de Nadège une personne à ménager devant le groupe. Un proche ou une animatrice n’a pas à juger si la séance a réussi ; il peut demander après coup ce qui a gêné et ce qu’elle veut changer."
+      ],
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "aha-vci-2011",
+        "nice-ng97"
+      ],
+      "continuity": {
+        "choice": "Nadège décide de montrer les gestes en silence puis d’expliquer, avec un tableau de questions tenu par Karima ; elle limite les répétitions à une heure et ajoute la pâte à choux à la liste.",
+        "next": "Karima lui confie le budget des ingrédients de l’atelier, en pensant que ce sera facile pour une ancienne commerçante."
+      },
+      "clinical_focus": "Partager son attention entre parler et faire",
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 5,
+      "slug": "nadege-demence-legere-difficultes-invisibles-comptes",
+      "title": "Une démence légère invisible pour qui la connaît peu",
+      "description": "Karima pense qu’une ancienne commerçante fera vite le budget de l’atelier ; Nadège peine sur les calculs et n’ose pas le dire, faute de signe visible.",
+      "context": "à la table du salon devant un budget",
+      "topics": [
+        "Démence due à une maladie cérébrovasculaire",
+        "sévérité légère",
+        "calculs et décisions complexes"
+      ],
+      "clinical_intro": "À un stade que l’équipe qualifie de léger, une personne atteinte de démence peut vivre seule, participer à la vie sociale et sembler n’avoir rien pour ceux qui la connaissent peu. Les difficultés apparaissent plutôt dans les calculs, les comptes et les décisions à plusieurs étapes. Nadège le vit quand on lui confie un budget en la croyant parfaitement à l’aise.",
+      "opening": "Mercredi dernier, Bastien, son filleul, a tourné la deuxième vidéo, le Paris-Brest, en deux séances comme le disait la fiche. Ce lundi de mi-décembre, c’est un autre papier qui attend sur la table du salon. Karima, qui anime la maison de quartier des Ponts, le lui a tendu à la sortie de la réunion des bénévoles : « Le budget des ingrédients pour l’atelier, huit personnes, sablés et pâte à choux. On a soixante euros. Vous qui avez tenu une boutique, ce sera vite fait. » Tout le monde a souri. Nadège aussi.\n\nElle a sorti sa calculatrice, un crayon, et le prospectus du supermarché de l’avenue. Pour les sablés, il faut doubler sa recette, peut-être la tripler. La farine est vendue au kilo, le beurre à la plaquette de deux cent cinquante grammes, les œufs par boîte de six ou de douze. Elle multiplie les grammes, puis se demande si elle a multiplié par deux ou par trois. Elle reporte un prix au kilo à côté d’un prix à l’unité et les additionne. Le total dépasse cent euros. C’est impossible ; elle le sait. Elle recommence. La deuxième fois, elle oublie les œufs de la pâte à choux. La troisième, elle ne sait plus quelle colonne est celle des sablés.\n\nÀ la boutique, elle rendait la monnaie sans y penser. Josette, sa voisine, ancienne vendeuse chez Delaunay, le dirait à n’importe qui. Personne à la réunion n’a vu qu’elle avait besoin d’aide ; elle parlait bien, elle riait, elle avait apporté des sablés. Elle regarde la feuille couverte de chiffres raturés. Elle pourrait appeler Karima. Elle n’ose pas : on lui a fait confiance devant tout le monde.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Quand la maladie ne se voit pas mais pèse sur les comptes",
+          "text": "La sévérité d’une démence s’apprécie par un examen clinique et le récit d’un proche ; à un stade léger, la personne peut vivre de façon indépendante, souvent avec un soutien, et paraître non atteinte à ceux qui la connaissent peu, alors que le jugement, la résolution de problèmes, les décisions complexes et les finances deviennent plus difficiles. Pour Nadège, c’est l’équipe de consultation mémoire qui a qualifié cette sévérité de légère, l’an dernier ; une soirée de calculs ratés ne permet ni de la confirmer ni de la contredire. Ce que montre la scène, c’est l’écart entre l’image sociale, aisée et souriante, et l’effort solitaire devant un budget à plusieurs étapes. Cet écart rend la demande d’aide plus difficile : personne ne pense à la proposer."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment une démence légère peut-elle passer inaperçue tout en compliquant les comptes ?",
+          "points": [
+            {
+              "heading": "Une aisance sociale qui masque l’effort",
+              "text": "Dans un échange court et familier, la personne peut paraître tout à fait à l’aise, ce qui rassure ceux qui la connaissent peu.",
+              "examples": [
+                "À la réunion des bénévoles, Nadège parle, rit et offre ses sablés sans que personne ne remarque quoi que ce soit.",
+                "Karima lui confie le budget en rappelant qu’elle a tenu une boutique, sans imaginer un obstacle."
+              ]
+            },
+            {
+              "heading": "Des calculs à plusieurs étapes qui se défont",
+              "text": "Un calcul qui demande de convertir, multiplier et additionner plusieurs lignes peut se dérégler même chez quelqu’un qui comptait bien.",
+              "examples": [
+                "Nadège additionne un prix au kilo et un prix à l’unité et obtient un total de plus de cent euros.",
+                "À la deuxième tentative, elle oublie les œufs de la pâte à choux ; à la troisième, elle confond les colonnes."
+              ]
+            },
+            {
+              "heading": "Une gêne à demander de l’aide",
+              "text": "Quand la difficulté n’est pas visible, la personne peut craindre de décevoir ou d’être vue autrement en la signalant.",
+              "examples": [
+                "Nadège n’ose pas appeler Karima parce qu’on lui a fait confiance devant tout le monde.",
+                "Elle pense à ce que Josette dirait de son habileté à la caisse, comme si cela l’obligeait à réussir seule."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour faire des comptes sans tout céder",
+          "points": [
+            {
+              "heading": "Découper le calcul",
+              "objective": "Ne traiter qu’une opération à la fois.",
+              "exercise": [
+                "Faire une ligne par ingrédient, avec la quantité nécessaire seulement.",
+                "Convertir ensuite chaque quantité dans l’unité de vente, sur une ligne séparée.",
+                "N’additionner qu’à la fin, en relisant chaque ligne."
+              ],
+              "benefit": "Chaque étape reste lisible et une erreur peut être retrouvée sans tout recommencer."
+            },
+            {
+              "heading": "Utiliser un tableau préparé",
+              "objective": "Éviter d’avoir à inventer la structure du calcul.",
+              "exercise": [
+                "Demander à la personne qui confie le budget un tableau avec les colonnes déjà prévues.",
+                "Le remplir seulement avec ce qu’on maîtrise, comme les quantités de la recette.",
+                "Laisser la colonne des prix à quelqu’un qui a les tarifs sous les yeux."
+              ],
+              "benefit": "La personne apporte son savoir sur la recette sans porter seule la partie la plus coûteuse."
+            },
+            {
+              "heading": "Demander une vérification sans tout donner",
+              "objective": "Recevoir de l’aide en gardant sa part de la tâche.",
+              "exercise": [
+                "Choisir la partie que l’on veut garder et celle que l’on confie.",
+                "Le dire simplement, sans avoir à expliquer son diagnostic si on ne le souhaite pas.",
+                "Pour les comptes personnels, noter la question pour en parler avec l’équipe de soins."
+              ],
+              "benefit": "La tâche avance, et les questions plus larges sur les finances trouvent un interlocuteur compétent."
+            }
+          ]
+        }
+      ],
+      "ending_title": "La liste des ingrédients",
+      "ending": "Le lendemain matin, Nadège appelle la maison de quartier. « Karima, je fais la liste des ingrédients, avec les quantités exactes pour huit. Les prix et le total, c’est la maison de quartier qui vérifie. Je compte moins bien qu’avant. » Elle n’en dit pas plus, et Karima ne demande rien. « Très bien, je m’en charge avec la trésorière. Vous me déposez la liste jeudi ? » Nadège recopie au propre, sans un seul chiffre en euros : deux kilos de farine, six plaquettes de beurre, deux boîtes de douze œufs. Elle se sent soulagée, et un peu vexée. Puis elle prend sa feuille de questions pour la consultation mémoire de janvier et ajoute, en bas : « Mes factures à moi : comment m’organiser sans tout donner ? »",
+      "conclusion": "À un stade qualifié de léger, la démence peut rester invisible aux autres tout en rendant les comptes et les décisions complexes plus coûteux. Nadège choisit de garder les quantités, son savoir, et de confier les prix, puis porte la question de ses propres factures à l’équipe.",
+      "mirror": [
+        "Karima aurait pu dire, en tendant la feuille : « Vous voulez faire les quantités et je fais les prix, ou vous préférez tout faire ? » Une proposition de partage, faite à tous les bénévoles, n’oblige personne à révéler une difficulté. Quand Nadège appelle, la bonne réponse de Karima est justement de ne pas demander pourquoi. Un proche n’a pas à surveiller les comptes de quelqu’un qui ne l’a pas demandé ; il peut dire qu’il reste disponible pour relire."
+      ],
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "nice-ng97",
+        "has-tnc-fiche7"
+      ],
+      "continuity": {
+        "choice": "Nadège confie les prix et le total à la maison de quartier, garde les quantités, et inscrit la question de ses propres factures pour la consultation mémoire de janvier.",
+        "next": "En janvier, Bastien et Odile, qui en ont parlé au téléphone sans elle, retirent la tarte Tatin du projet à cause du caramel."
+      },
+      "clinical_focus": "Une démence légère invisible pour qui la connaît peu",
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 6,
+      "slug": "nadege-decision-soutenue-proches-tranchent",
+      "title": "Décider avec soutien quand les proches tranchent",
+      "description": "Bastien et Odile ont retiré la tarte Tatin du projet sans elle : Nadège reconnaît le risque du caramel, mais réclame sa place dans la décision.",
+      "context": "dans sa cuisine un mercredi de janvier",
+      "topics": [
+        "Démence due à une maladie cérébrovasculaire",
+        "décision soutenue",
+        "droit de participer"
+      ],
+      "clinical_intro": "Vivre avec une démence ne retire pas le droit d’être informé de façon adaptée et de participer aux décisions qui vous concernent. Les proches peuvent avoir des inquiétudes justes, mais les exprimer n’est pas trancher à la place de la personne. Nadège le rappelle le jour où son filleul arrive avec une liste de recettes d’où l’on a retiré, sans elle, la tarte de sa mère.",
+      "opening": "Avant Noël, Nadège avait complété la liste au dos du cahier bleu : les sablés de Lucienne, la pâte à choux, le Paris-Brest, la tarte Tatin, la crème pâtissière et le quatre-quarts. Six recettes, six pages tachées. Le lundi 4 janvier, à la consultation mémoire, la docteure Leclerc, sa neurologue, a repris sa question sur les factures ; Nadège a décidé de mettre le loyer et l’électricité en prélèvement et de garder le reste à la main. La docteure lui a aussi proposé des visites à domicile d’une ergothérapeute, Inès Morel. La première est fixée au mardi 19 janvier.\n\nCe mercredi, Bastien, son filleul graphiste, arrive avec une chemise cartonnée. Il en sort une feuille imprimée, joliment mise en page, intitulée « Recettes adaptées ». Il y en a cinq. La Tatin a disparu.\n\n« Odile et moi, on en a parlé au téléphone dimanche, dit-il en évitant son regard. Le caramel à cent quatre-vingts degrés, retourner le moule brûlant… On s’est dit que c’était trop risqué, maintenant. » Odile, sa sœur aînée qui vit à Nantes, ne lui en a rien dit dimanche dernier. Nadège reste debout près du buffet. Elle a peur du caramel, elle aussi, depuis l’automne ; une fois, elle a oublié la casserole sur le feu le temps de répondre au téléphone. Elle ne l’a dit à personne. Mais ce n’est pas cela qui lui serre la gorge.\n\nElle prend le cahier bleu, l’ouvre à la page de la Tatin, celle où l’écriture de Lucienne, leur mère, est restée au crayon, et le pose ouvert devant Bastien. La tarte des dimanches, retournée sur le plat ébréché. « Qui a décidé ? » demande-t-elle. Bastien ne répond pas tout de suite.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "S’inquiéter pour quelqu’un n’est pas décider à sa place",
+          "text": "Une personne vivant avec une démence a droit à une information adaptée et à participer aux décisions qui la concernent ; ses proches peuvent l’aider à comparer les options, exprimer leurs craintes et proposer des supports, mais ils ne tranchent pas à sa place. Chez Nadège, l’inquiétude de Bastien et d’Odile repose sur un risque réel : un caramel très chaud demande une attention soutenue, et Nadège elle-même s’en méfie. Ce qui blesse, c’est la méthode. La décision a été prise au téléphone, entre deux personnes qui l’aiment, sans elle. Un soutien à la décision commence par mettre le risque précis sur la table, devant la personne, et par chercher avec elle ce qui pourrait le réduire, éventuellement avec un professionnel."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment une décision prise sans la personne se manifeste-t-elle dans la famille ?",
+          "points": [
+            {
+              "heading": "Une décision prise en son absence",
+              "text": "Par souci de protéger, des proches peuvent régler une question entre eux et présenter ensuite le résultat.",
+              "examples": [
+                "Bastien arrive avec une liste imprimée de cinq recettes « adaptées » où la Tatin a disparu.",
+                "Odile et lui en ont parlé dimanche au téléphone, sans que Nadège soit au courant."
+              ]
+            },
+            {
+              "heading": "Une inquiétude légitime mais mal partagée",
+              "text": "Le risque qui motive les proches peut être réel ; c’est sa façon d’être traité qui crée le conflit.",
+              "examples": [
+                "Nadège a elle-même peur du caramel depuis qu’elle a oublié une casserole sur le feu cet automne.",
+                "Elle ne l’avait dit à personne, et personne ne lui a demandé ce qu’elle en pensait."
+              ]
+            },
+            {
+              "heading": "Le besoin de supports pour comparer",
+              "text": "Pour décider, la personne peut avoir besoin de voir les options posées clairement plutôt que d’en entendre une seule.",
+              "examples": [
+                "La feuille de Bastien ne présente qu’une liste finale, sans alternative à discuter.",
+                "Nadège pose le cahier ouvert à la page de la Tatin pour remettre la recette au milieu de la table."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour décider ensemble d’un risque",
+          "points": [
+            {
+              "heading": "Poser les options sur papier",
+              "objective": "Rendre la décision visible et comparable.",
+              "exercise": [
+                "Écrire en colonnes les options possibles, y compris celle de garder la recette telle quelle.",
+                "Noter pour chacune ce qui inquiète et ce qui compte pour la personne.",
+                "Laisser la personne choisir, ou dire qu’elle veut plus d’informations avant."
+              ],
+              "benefit": "La discussion porte sur des choix concrets plutôt que sur une liste déjà tranchée."
+            },
+            {
+              "heading": "Nommer le risque précis",
+              "objective": "Distinguer ce qui est réellement dangereux de ce qui inquiète en général.",
+              "exercise": [
+                "Dire exactement à quel moment de la recette se situe le risque, par exemple le caramel ou le démoulage.",
+                "Demander à la personne si elle partage cette crainte et ce qu’elle a déjà remarqué.",
+                "Chercher ensemble si une partie seulement de la recette pose problème."
+              ],
+              "benefit": "On peut aménager un passage au lieu de supprimer toute une activité qui compte."
+            },
+            {
+              "heading": "Demander l’avis d’un professionnel compétent",
+              "objective": "Appuyer la décision sur une observation plutôt que sur une supposition.",
+              "exercise": [
+                "Identifier le professionnel qui peut observer la situation réelle, comme un ergothérapeute.",
+                "Lui transmettre la question avec l’accord de la personne.",
+                "Attendre son observation avant de décider, et en reparler tous ensemble."
+              ],
+              "benefit": "L’inquiétude des proches est prise au sérieux sans qu’elle remplace la parole de la personne."
+            }
+          ]
+        }
+      ],
+      "ending_title": "La page de la Tatin",
+      "ending": "Bastien finit par dire : « C’est nous. Tu as raison, on aurait dû t’en parler. » Nadège s’assoit. « J’ai peur du caramel, moi aussi. Une fois, j’ai oublié la casserole. Mais la Tatin reste dans la liste. Ce qu’on change, on le décide avec Inès Morel, l’ergothérapeute, le 19. Elle viendra voir comment je la fais, ici. » Elle reprend la feuille imprimée, barre le titre « Recettes adaptées » et écrit à la main, en bas : « 6. Tarte Tatin, à revoir avec l’ergothérapeute. » Bastien s’excuse encore et dit qu’il est toujours inquiet ; il ne veut pas qu’elle se brûle. Elle répond qu’elle non plus. Le soir, au téléphone, elle dira à Odile la même chose, sans élever la voix, et Odile répondra seulement : « On verra ce que dit ton ergothérapeute. »",
+      "conclusion": "Le soutien à la décision ne consiste pas à décider à la place de quelqu’un, même pour un risque réel. Nadège reconnaît sa propre crainte, garde la Tatin dans son projet et confie l’examen du caramel à une professionnelle qui viendra l’observer chez elle.",
+      "mirror": [
+        "Devant le cahier ouvert à la page de la Tatin, Bastien aurait pu commencer autrement : « Le caramel me fait peur pour toi. On regarde ensemble ce qu’on peut changer ? » Dire sa crainte sans apporter la solution déjà imprimée laisse la place à celle de Nadège. Un proche peut aussi reconnaître une erreur sans se justifier longuement, comme Bastien finit par le faire. Il garde le droit d’être inquiet et de le dire, et peut, si elle l’accepte, transmettre son inquiétude à l’ergothérapeute."
+      ],
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "nice-ng97",
+        "has-tnc-fiche7"
+      ],
+      "continuity": {
+        "choice": "Nadège garde la Tatin dans la liste des six recettes et confie l’examen du risque du caramel à Inès Morel, lors de sa visite du mardi 19 janvier ; Bastien s’excuse et garde son inquiétude.",
+        "next": "Le mardi 19 janvier, Inès Morel observe Nadège préparer la Tatin dans sa cuisine."
+      },
+      "clinical_focus": "Décider avec soutien quand les proches tranchent",
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 7,
+      "slug": "nadege-ergotherapeute-ajuster-risques-cuisine",
+      "title": "Ajuster les risques en cuisine avec l’ergothérapeute",
+      "description": "L’ergothérapeute observe la Tatin dans la cuisine de Nadège : le risque tient à un enchaînement, et les aménagements se choisissent avec elle.",
+      "context": "lors d’une visite à domicile de l’ergothérapeute",
+      "topics": [
+        "Démence due à une maladie cérébrovasculaire",
+        "ergothérapie à domicile",
+        "aménagements choisis"
+      ],
+      "clinical_intro": "Un ergothérapeute peut observer une activité qui compte dans le lieu où elle se fait réellement, pour voir ce qui la facilite ou la complique. Cette mise en situation complète ce que montrent les consultations et aide à décider du niveau d’aide utile. Chez Nadège, c’est la tarte Tatin que l’ergothérapeute vient regarder, sans liste d’interdits, pour chercher avec elle où se situe le risque.",
+      "opening": "Le mardi 19 janvier, à neuf heures et demie, Inès Morel, l’ergothérapeute que la consultation mémoire a proposée à Nadège, sonne rue du Portail-Louis. Elle a un carnet à spirale, un stylo, et pas de liste d’interdits. « Je ne viens pas vous dire ce que vous ne pouvez plus faire, dit-elle en enlevant son manteau. Je viens voir comment vous faites la Tatin, ici, comme d’habitude. Je pose des questions après. »\n\nNadège a mis son tablier. Elle pèle les pommes, des reinettes du marché de samedi, les coupe en quartiers épais, les range dans un saladier. Ses gestes sont nets et rapides. Inès écrit peu. Puis Nadège met le sucre dans la casserole en cuivre et allume le feu. Le sucre fond, blondit, prend une couleur d’ambre clair. Pendant qu’il colore, Nadège se souvient qu’elle n’a pas sorti le moule. Elle se retourne, ouvre le placard du bas, se baisse, déplace deux plats, cherche le moule à bord haut derrière la cocotte. Le minuteur rouge est posé sur le plan de travail, non réglé.\n\n« Le caramel », dit Inès, calmement. Nadège se redresse et retire la casserole du feu. La couleur est plus foncée qu’elle ne la voulait, mais il n’a pas brûlé. Elle respire. Elle sait ce qui aurait pu arriver ; elle pense à la casserole oubliée cet automne. Inès ne fait aucun commentaire sur le danger. Elle note quelque chose, puis demande : « Où est-ce que vous rangiez le moule, à la pâtisserie ? — À hauteur de main, à côté du fourneau. Tout était sorti avant d’allumer. » Inès sourit. « Alors c’est peut-être par là qu’on commence. »",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Observer l’activité là où elle se fait",
+          "text": "L’ergothérapeute évalue l’effet des troubles sur les actes de la vie quotidienne et sur l’environnement, à partir de mises en situation concrètes centrées sur des activités qui ont du sens pour la personne ; ces observations renseignent sur le niveau d’aide utile et complètent les évaluations faites en consultation. Chez Nadège, la visite montre que le risque ne tient pas à un geste mal maîtrisé : peler, couper et cuire le sucre restent sûrs. Il tient à un enchaînement, quand l’attention se déplace vers un objet rangé loin pendant qu’une cuisson très chaude avance. Les aménagements qui en découlent sont discutés avec elle et révisables ; ce sont des arrangements pratiques, dont l’efficacité n’est pas démontrée comme celle d’un traitement."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment un risque en cuisine se révèle-t-il lors d’une mise en situation ?",
+          "points": [
+            {
+              "heading": "Un risque lié à un enchaînement plutôt qu’à un geste",
+              "text": "Le danger apparaît souvent quand deux tâches se croisent, pas pendant les gestes appris eux-mêmes.",
+              "examples": [
+                "Nadège pèle et coupe les pommes sans aucune hésitation, puis cherche le moule pendant que le caramel colore.",
+                "Le caramel fonce au moment précis où elle a le dos tourné à la casserole."
+              ]
+            },
+            {
+              "heading": "Des repères matériels qui comptent",
+              "text": "Le rangement, l’emplacement des objets et les outils disponibles peuvent faciliter ou compliquer une activité.",
+              "examples": [
+                "Le moule à bord haut est rangé derrière la cocotte, dans le placard du bas.",
+                "Le minuteur rouge est sur le plan de travail mais n’a pas été réglé avant d’allumer le feu."
+              ]
+            },
+            {
+              "heading": "Une aide graduée plutôt qu’un interdit",
+              "text": "L’observation permet de proposer juste l’aide nécessaire, à l’endroit où elle est utile, plutôt que de supprimer l’activité.",
+              "examples": [
+                "Inès se contente de dire « le caramel » au bon moment, sans prendre la casserole.",
+                "Elle part de la façon dont Nadège travaillait à la pâtisserie, où tout était sorti avant d’allumer."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour ajuster un risque sans renoncer à une recette",
+          "points": [
+            {
+              "heading": "Tout préparer avant de chauffer",
+              "objective": "Supprimer les allers et retours pendant une cuisson dangereuse.",
+              "exercise": [
+                "Avant d’allumer le feu, sortir sur le plan de travail tout le matériel et tous les ingrédients de la recette.",
+                "Vérifier d’un regard que rien ne manque, en suivant la recette.",
+                "Ranger les objets souvent utilisés à hauteur de main, près de la cuisinière."
+              ],
+              "benefit": "Pendant la cuisson, il n’y a plus de raison de se retourner ; c’est une organisation à essayer, pas une garantie."
+            },
+            {
+              "heading": "Une fiche d’étapes plastifiée",
+              "objective": "Avoir l’ordre de la recette sous les yeux, résistant aux taches et à la chaleur.",
+              "exercise": [
+                "Écrire avec l’ergothérapeute les étapes dans l’ordre réel du travail, en marquant les moments où il ne faut pas quitter le feu.",
+                "Plastifier la fiche et la poser près de la cuisinière.",
+                "La corriger après chaque essai si un passage ne convient pas."
+              ],
+              "benefit": "L’ordre est déjà fait, et les passages sensibles sont signalés à l’endroit où ils se jouent."
+            },
+            {
+              "heading": "Partager un geste chaud avec une personne choisie",
+              "objective": "Garder la recette en confiant seulement le passage le plus risqué.",
+              "exercise": [
+                "Repérer avec l’ergothérapeute le geste le plus dangereux de la recette.",
+                "Choisir soi-même la personne qui le fera, et quand.",
+                "Garder pour soi la conduite de la recette : dire quand, comment et pourquoi."
+              ],
+              "benefit": "La recette reste la sienne, et le passage qui inquiète tout le monde est pris en charge d’une façon décidée par la personne."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Le moule à hauteur de main",
+      "ending": "Avant de partir, Inès et Nadège s’assoient à la table et regardent les notes ensemble. Nadège choisit. Pour la Tatin, tout le matériel sera sorti avant d’allumer, le moule rangé désormais à côté de la cuisinière. Le caramel, c’est Bastien, son filleul, qui le versera dans le moule pendant qu’elle le guide ; elle l’appellera ce soir pour le lui demander. Et la Tatin sera filmée chez elle, pas à l’atelier de la maison de quartier. Pour l’atelier, elle confiera le four et la panade chaude à Karima, l’animatrice. Elle accepte qu’Inès rapporte deux fiches plastifiées à sa prochaine visite, la Tatin et la pâte à choux. Elle refuse en revanche l’alarme de cuisson qu’Inès propose en plus : « J’ai déjà un minuteur. Je vais apprendre à le régler avant, pas après. » Le soir, Bastien dit oui.",
+      "conclusion": "Une mise en situation par l’ergothérapeute peut situer un risque précis plutôt que de conduire à un interdit général. Nadège en tire des aménagements qu’elle choisit et peut réviser : le matériel sorti d’avance, le caramel confié à Bastien, les gestes chauds de l’atelier confiés à Karima.",
+      "mirror": [
+        "Inès montre un geste que les proches peuvent reprendre : nommer le danger en deux mots, « le caramel », sans prendre la casserole des mains de Nadège. Bastien, quand elle l’appelle le soir, peut répondre : « D’accord pour le caramel. Tu me dis quand verser, et moi je ne touche à rien d’autre. » Il accepte un rôle précis sans devenir celui qui surveille. Si un jour il ne peut pas venir, il peut le dire, et la vidéo attendra."
+      ],
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "has-tnc-fiche12",
+        "nice-ng97",
+        "aha-vci-2011"
+      ],
+      "continuity": {
+        "choice": "Nadège décide : matériel sorti avant d’allumer, moule rangé près de la cuisinière, caramel de la Tatin versé par Bastien sous sa direction, Tatin filmée chez elle, four et panade chaude confiés à Karima à l’atelier ; deux fiches plastifiées acceptées, alarme supplémentaire refusée.",
+        "next": "En février, Nadège ne touche plus au cahier bleu et repousse la vidéo de la Tatin ; Bastien croit qu’elle a perdu l’envie."
+      },
+      "clinical_focus": "Ajuster les risques en cuisine avec l’ergothérapeute",
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 8,
+      "slug": "nadege-manque-elan-apathie-humeur-fatigue",
+      "title": "Moins d’élan : apathie, tristesse ou fatigue à évaluer",
+      "description": "En février, le cahier bleu reste fermé et Nadège repousse la vidéo : un manque d’élan que l’équipe doit évaluer avant toute conclusion.",
+      "context": "chez elle un mercredi de février",
+      "topics": [
+        "Démence due à une maladie cérébrovasculaire",
+        "manque d’élan",
+        "humeur et fatigue"
+      ],
+      "clinical_intro": "Un manque d’élan durable peut accompagner une démence liée à une maladie cérébrovasculaire, sous la forme d’une apathie, de troubles de l’humeur ou d’anxiété, mais il peut aussi venir de la fatigue, d’une douleur ou d’autre chose. C’est à l’équipe de soins de l’évaluer. En février, Nadège laisse son cahier fermé, et son filleul ne sait plus s’il doit insister ou renoncer.",
+      "opening": "Le mercredi 10 février, le cahier bleu est fermé sur le buffet de la salle à manger, sous la corbeille à fruits. Il n’a pas bougé depuis deux semaines. La fiche plastifiée de la Tatin, qu’Inès Morel, l’ergothérapeute, a rapportée lors de sa deuxième visite, a glissé sous une pile de courrier qu’on n’a pas ouverte : la facture d’eau, une publicité pour des fenêtres, une carte de vœux tardive d’Odile, sa sœur aînée.\n\nBastien, son filleul graphiste, est arrivé à quatorze heures avec son trépied. Il a refusé une commande pour garder ce mercredi libre ; il a une maquette à rendre vendredi et il travaillera tard jeudi. Il demande si l’on tourne la Tatin aujourd’hui. Nadège, dans son fauteuil, répond qu’on la fera plus tard. C’est ce qu’elle a dit le mercredi précédent.\n\n« Tu es triste ? demande-t-il. — Non. Je ne crois pas. » Elle cherche. Elle a regardé une émission de cuisine hier soir et elle a ri. Elle a mangé avec appétit. Elle dort à peu près, se réveille parfois tôt. Ce n’est pas du chagrin, dit-elle, c’est plutôt que commencer lui paraît une montagne. Sortir le beurre, peser, allumer le four : tout cela, elle sait le faire, mais elle n’arrive pas à se lever pour le premier geste. Elle ajoute qu’elle est fatiguée depuis Noël, sans savoir de quoi.\n\nBastien reste debout avec le trépied replié sous le bras. Il se demande s’il doit insister, comme on pousse un ami à aller courir, ou si le projet est fini et qu’il faut le lui dire. Il n’ose ni l’un ni l’autre. Il pense à sa maquette de vendredi.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Un manque d’élan à faire examiner plutôt qu’à interpréter",
+          "text": "Les changements de comportement et d’humeur sont fréquents au cours d’une démence : apathie, c’est-à-dire perte d’intérêt ou d’initiative, troubles de l’humeur, anxiété ou troubles du sommeil peuvent justifier une attention clinique, et une maladie cérébrovasculaire peut aussi s’associer à une dépression, qui pèse sur le fonctionnement et peut se soigner. La fatigue, une douleur, un problème de sommeil ou une autre affection sont également à rechercher. Ces pistes se distinguent par une évaluation de l’équipe, pas par l’intuition d’un proche. Chez Nadège, la scène montre une difficulté à démarrer plutôt qu’une perte de plaisir déclarée, avec une fatigue depuis Noël et des réveils précoces. Ce sont des faits à décrire aux soignants, sans étiquette posée par Bastien ni par elle."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment un manque d’élan se remarque-t-il au quotidien ?",
+          "points": [
+            {
+              "heading": "Une difficulté à démarrer",
+              "text": "L’activité reste connue et souhaitée, mais le premier geste semble demander une énergie qui manque.",
+              "examples": [
+                "Nadège repousse la vidéo de la Tatin deux mercredis de suite en disant « plus tard ».",
+                "Elle décrit le fait de sortir le beurre et de peser comme une montagne, alors qu’elle sait tout faire."
+              ]
+            },
+            {
+              "heading": "Un plaisir encore possible une fois lancé",
+              "text": "Ne pas commencer ne signifie pas toujours ne plus rien aimer ; l’intérêt peut revenir pendant l’activité.",
+              "examples": [
+                "Elle a ri devant une émission de cuisine la veille au soir.",
+                "Elle dit ne pas se sentir malheureuse, mais fatiguée depuis Noël, sans savoir pourquoi."
+              ]
+            },
+            {
+              "heading": "Un malentendu avec l’entourage",
+              "text": "Les proches peuvent lire ce manque d’élan comme un désintérêt pour eux ou pour le projet commun.",
+              "examples": [
+                "Bastien a refusé une commande pour garder son mercredi et se demande si le projet est terminé.",
+                "Il hésite entre insister comme avec un ami et renoncer, sans oser lui en parler."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour réagir à un manque d’élan sans le juger",
+          "points": [
+            {
+              "heading": "Décrire les changements à l’équipe",
+              "objective": "Permettre aux soignants d’évaluer ce qui se passe à partir de faits précis.",
+              "exercise": [
+                "Noter depuis quand le changement dure et ce qui a été abandonné.",
+                "Ajouter ce qui va encore : appétit, plaisir, rires, sommeil, douleurs éventuelles.",
+                "Appeler soi-même la consultation ou le médecin traitant, ou accepter qu’un proche le fasse avec son accord."
+              ],
+              "benefit": "L’équipe dispose d’éléments concrets pour chercher une cause et proposer une réponse, y compris un soin si une dépression était repérée."
+            },
+            {
+              "heading": "Tester un démarrage très court",
+              "objective": "Réduire la marche du premier geste.",
+              "exercise": [
+                "Proposer à quelqu’un de confiance de faire la toute première étape, comme sortir et peser les ingrédients.",
+                "Rejoindre l’activité quand on le souhaite, sans obligation de la finir.",
+                "S’arrêter sans se justifier si l’envie ne vient pas."
+              ],
+              "benefit": "Le démarrage devient plus accessible, sans que cela tienne lieu d’évaluation ni de traitement."
+            },
+            {
+              "heading": "Distinguer ne plus vouloir et ne pas arriver à commencer",
+              "objective": "Éviter que le projet soit abandonné sur un malentendu.",
+              "exercise": [
+                "Poser la question directement : « Tu ne veux plus, ou tu n’arrives pas à t’y mettre ? »",
+                "Accepter la réponse, y compris « je ne sais pas ».",
+                "Convenir d’une date pour en reparler, sans pression entre-temps."
+              ],
+              "benefit": "La personne garde la décision sur son projet, et le proche sait mieux comment se situer."
+            }
+          ]
+        }
+      ],
+      "ending_title": "La pesée de Bastien",
+      "ending": "Bastien pose le trépied contre le mur. « Tu ne veux plus faire le projet, ou tu n’arrives pas à commencer ? — Je n’arrive pas à commencer. » Il propose de ne rien filmer et de peser lui-même les ingrédients des sablés ; elle viendra si elle veut. Il sort le beurre, la farine, la balance. Au bout d’un quart d’heure, Nadège se lève et vient sabler la pâte. Elle termine les cœurs, les fait cuire, en emballe six pour Josette, sa voisine. La Tatin n’est pas tournée. Le jeudi matin, elle appelle elle-même le secrétariat de la consultation mémoire. La docteure Leclerc, sa neurologue, la rappelle le lendemain, écoute, et propose un entretien sur l’humeur et la fatigue le lundi 15 mars, en lui demandant de signaler d’ici là toute aggravation au docteur Benali, son médecin traitant. Rien n’est conclu. Bastien, lui, dit qu’il viendra le 24 février, pas le 17.",
+      "conclusion": "Un manque d’élan au cours d’une démence peut avoir plusieurs origines et relève d’une évaluation par l’équipe. Nadège distingue elle-même ne plus vouloir et ne pas arriver à commencer, accepte un démarrage partagé et porte la question aux soignants, sans que la réponse soit encore connue.",
+      "mirror": [
+        "Le trépied replié sous le bras, Bastien a trouvé la question qui ouvre la porte : « Tu ne veux plus, ou tu n’arrives pas à commencer ? » Il peut aussi proposer un geste qui n’engage à rien, comme peser la farine sans caméra, et dire : « Tu viens si tu veux, sinon on goûte juste. » Il n’a pas à décider s’il s’agit de tristesse ou d’apathie. Il a aussi le droit de protéger son travail en espaçant ses venues, comme il le fait pour le 17."
+      ],
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "has-tnc-fiche2",
+        "aha-vci-2011",
+        "nice-ng97"
+      ],
+      "continuity": {
+        "choice": "Nadège accepte que Bastien commence la pesée des sablés, termine la fournée, et appelle elle-même la consultation ; la docteure Leclerc fixe un entretien sur l’humeur et la fatigue au lundi 15 mars ; la Tatin n’est pas filmée et Bastien saute le mercredi 17 février.",
+        "next": "Le samedi 6 mars, au marché, Josette remarque un changement soudain dans la main et la parole de Nadège."
+      },
+      "clinical_focus": "Moins d’élan : apathie, tristesse ou fatigue à évaluer",
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 9,
+      "slug": "nadege-signes-neurologiques-brutaux-appeler-15",
+      "title": "Signes neurologiques brutaux : appeler le 15 aussitôt",
+      "description": "Au marché, le sac de pommes glisse de la main de Nadège et sa parole change d’un coup : Josette appelle le 15 sans attendre ni l’attribuer à la démence.",
+      "context": "au marché un samedi de mars",
+      "topics": [
+        "Démence due à une maladie cérébrovasculaire",
+        "urgence neurologique",
+        "appel au 15"
+      ],
+      "clinical_intro": "Une faiblesse soudaine d’un côté du corps, une parole qui change brusquement ou un visage qui se déforme sont des signes d’urgence médicale : ils peuvent traduire un accident vasculaire cérébral ou un accident ischémique transitoire. Même chez une personne dont la démence est connue, un changement brutal ne doit pas être mis sur le compte de la maladie. Au marché, la voisine de Nadège appelle le 15 tout de suite.",
+      "opening": "Le samedi 6 mars, le marché de la place Saint-Pierre est plein malgré le vent. Josette, la voisine de palier de Nadège, ancienne vendeuse de la pâtisserie Delaunay, l’accompagne comme chaque samedi, son caddie écossais derrière elle. Elles ont acheté des œufs, une botte de poireaux, et maintenant des reinettes pour la Tatin : Bastien, son filleul, vient la filmer mercredi, c’est décidé depuis sa visite du 24 février. Nadège a choisi les pommes une à une, fermes, un peu acides.\n\nÀ dix heures douze, d’après l’horloge de l’église, le sac de pommes glisse de sa main droite. Les reinettes roulent entre les pieds du stand. Nadège regarde sa main comme si elle appartenait à quelqu’un d’autre. Elle veut dire à Josette que ce n’est rien, qu’elle est maladroite ce matin, mais ce qui sort est pâteux, mal articulé, comme si sa bouche était pleine. Josette voit le coin droit de ses lèvres tomber.\n\nJosette sait que Nadège a une démence ; elle l’a appris en décembre, de la bouche même de Nadège, sur le palier. Elle l’a vue chercher ses mots, hésiter devant un calcul, perdre le fil d’une histoire. Ce n’est pas cela. Il y a une minute, Nadège discutait le prix des pommes avec le maraîcher, la voix claire. Maintenant elle ne peut plus tenir un sac ni finir une phrase.\n\nJosette ne lui demande pas de sourire, ne lui fait pas lever les bras, n’attend pas que ça passe. Elle la fait asseoir sur la chaise pliante du maraîcher, sort son téléphone et compose le 15. Le maraîcher ramasse les pommes sans rien dire.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Un changement brutal est une urgence, quel que soit le diagnostic connu",
+          "text": "Un accident vasculaire cérébral se manifeste par l’apparition brutale d’un déficit neurologique d’origine vasculaire, comme une faiblesse d’un côté, une parole troublée ou un visage asymétrique ; ces signes demandent un appel immédiat au 15, le Samu, ou au 112, et c’est aux soignants de rechercher la cause, y compris d’autres explications possibles. Ils diffèrent des difficultés connues d’une démence, qui ne surgissent pas d’une minute à l’autre. Chez Nadège, la démence due à une maladie cérébrovasculaire est diagnostiquée depuis un an, mais elle ne permet pas d’interpréter ce qui se passe au marché. Josette n’a pas à poser de diagnostic : elle constate un changement soudain, le décrit au téléphone et laisse les médecins décider de ce que c’est."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment reconnaître qu’un changement soudain sort des difficultés habituelles ?",
+          "points": [
+            {
+              "heading": "Un début soudain",
+              "text": "Ce qui alerte, c’est la rupture : un état normal une minute plus tôt, puis un changement net.",
+              "examples": [
+                "Nadège discutait le prix des pommes d’une voix claire juste avant que le sac tombe.",
+                "Josette peut donner l’heure précise, dix heures douze, à l’horloge de l’église."
+              ]
+            },
+            {
+              "heading": "Une faiblesse d’un côté",
+              "text": "Une main ou un bras qui lâche soudain, d’un seul côté, est un signe à transmettre immédiatement.",
+              "examples": [
+                "Le sac de pommes glisse de la main droite de Nadège sans qu’elle l’ait lâché exprès.",
+                "Elle regarde sa main comme si elle ne lui obéissait plus."
+              ]
+            },
+            {
+              "heading": "Une parole et un visage changés",
+              "text": "Des mots soudain mal articulés ou un côté du visage qui tombe ne ressemblent pas à la recherche de mots habituelle.",
+              "examples": [
+                "Ce que Nadège veut dire sort pâteux, comme si sa bouche était pleine.",
+                "Josette voit le coin droit de ses lèvres s’affaisser."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour réagir à des signes neurologiques soudains",
+          "points": [
+            {
+              "heading": "Appeler le 15 sans attendre",
+              "objective": "Faire intervenir les secours le plus tôt possible.",
+              "exercise": [
+                "Composer le 15, ou le 112, dès que les signes apparaissent, même s’ils semblent s’atténuer.",
+                "Décrire ce qu’on voit avec des mots simples : la main, la parole, le visage.",
+                "Suivre les consignes du médecin régulateur et rester avec la personne."
+              ],
+              "benefit": "Les soignants peuvent évaluer et orienter rapidement ; attendre pour voir ou faire ses propres tests fait perdre du temps."
+            },
+            {
+              "heading": "Noter l’heure du début",
+              "objective": "Donner aux médecins une information dont ils ont besoin.",
+              "exercise": [
+                "Regarder l’heure dès que le changement apparaît, sur une montre, un téléphone ou une horloge.",
+                "Noter aussi l’heure à laquelle la personne allait encore bien pour la dernière fois.",
+                "Transmettre ces heures au régulateur puis à l’équipe qui arrive."
+              ],
+              "benefit": "L’heure aide les médecins à décider des examens et de la suite, ce qu’aucun proche ne peut faire à leur place."
+            },
+            {
+              "heading": "Transmettre ce qu’on sait déjà",
+              "objective": "Informer les secours sans interpréter.",
+              "exercise": [
+                "Signaler le diagnostic connu, ici la démence, comme une information et non comme une explication.",
+                "Donner la liste des traitements si elle est disponible, par exemple dans un portefeuille.",
+                "Prévenir un proche choisi par la personne, avec son accord si elle peut le donner."
+              ],
+              "benefit": "Les soignants ont une vue complète, et la personne n’est pas réduite à son diagnostic au moment de l’urgence."
+            }
+          ]
+        }
+      ],
+      "ending_title": "L’heure à l’horloge de l’église",
+      "ending": "Au téléphone, Josette répond aux questions du médecin régulateur : la main droite, la parole, la bouche, dix heures douze. Elle dit aussi que Nadège a une démence diagnostiquée l’an dernier et que la liste de ses traitements est dans son portefeuille, sans ajouter que « c’est sûrement ça ». Elle reste assise à côté d’elle, comme on le lui demande. Les secours arrivent et emmènent Nadège au centre hospitalier ; ce sont les médecins qui chercheront la cause. Avant de monter, Nadège sort son téléphone avec la main gauche et le tend à Josette, en montrant le nom de Bastien. Josette l’appelle depuis la place, le caddie à ses pieds. Bastien quitte son atelier et part pour l’hôpital. Le sac de reinettes reste chez Josette.",
+      "conclusion": "Un déficit neurologique soudain est une urgence médicale, même chez une personne dont la démence est connue, et son origine revient aux médecins. Josette appelle le 15 sans tester ni interpréter, et l’histoire de Nadège s’interrompt sur une question que seule l’équipe hospitalière peut éclairer.",
+      "mirror": [
+        "Josette n’a fait que trois choses, et elles suffisent : regarder l’heure, appeler le 15, rester assise à côté de Nadège. Au téléphone, elle peut dire : « Elle a une démence connue, mais ça, c’est nouveau, ça a commencé d’un coup. » Un proche n’a ni à faire ses propres tests ni à attendre que cela passe, même si les signes s’effacent. Il peut ensuite garder les pommes, prévenir la personne que Nadège a choisie et laisser les médecins conclure."
+      ],
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "nice-ng128",
+        "spf-avc",
+        "service-public-samu"
+      ],
+      "continuity": {
+        "choice": "Josette appelle le 15 à dix heures douze, transmet l’heure, le diagnostic connu et la liste des traitements sans interpréter ; Nadège est hospitalisée et lui tend son téléphone pour prévenir Bastien ; la vidéo de la Tatin du mercredi 10 mars n’aura pas lieu.",
+        "next": "Rentrée chez elle, Nadège revoit avec le docteur Benali le suivi de sa tension après ce que l’équipe a appelé un accident ischémique transitoire."
+      },
+      "clinical_focus": "Signes neurologiques brutaux : appeler le 15 aussitôt",
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 10,
+      "slug": "nadege-facteurs-risque-vasculaire-suivi-tension",
+      "title": "Suivre ses facteurs de risque vasculaire sans tout céder",
+      "description": "Après un accident ischémique transitoire, Nadège revoit sa tension avec son médecin traitant et refuse que sa sœur dirige son suivi par messages.",
+      "context": "au cabinet du médecin traitant en mars",
+      "topics": [
+        "Démence due à une maladie cérébrovasculaire",
+        "facteurs de risque vasculaire",
+        "suivi médical partagé"
+      ],
+      "clinical_intro": "Dans une démence liée à une maladie cérébrovasculaire, le suivi des facteurs de risque vasculaire, au premier rang desquels l’hypertension, fait partie de l’accompagnement médical. Il se décide avec les médecins et ne garantit pas que les capacités resteront stables. Après son passage à l’hôpital, Nadège veut comprendre ce qui dépend de ce suivi et ce qui n’en dépend pas.",
+      "opening": "Le jeudi 11 mars, Bastien, son filleul, la dépose devant le cabinet du docteur Benali, son médecin traitant depuis vingt ans, avenue du Général-de-Gaulle. Il ira l’attendre au café d’en face : elle a dit qu’elle voulait entrer seule.\n\nNadège pose sur le bureau la pochette de l’hôpital. Elle connaît le compte rendu presque par cœur, à force de l’avoir relu. Sa main droite et sa parole sont revenues en quelques heures, le samedi même, avant le soir. Les médecins ont fait des examens et ont parlé d’un accident ischémique transitoire. Ils ont revu son traitement et lui ont demandé de voir son médecin traitant dans la semaine. Elle est rentrée rue du Portail-Louis le lundi. Elle sait aussi ce que ces mots veulent dire : cela aurait pu être plus grave, et cela pourrait revenir.\n\nSur son téléphone, trois messages d’Odile, sa sœur aînée qui vit à Nantes, arrivés depuis la veille. « Il faut arrêter le sucre. » « Plus de gâteaux, tu entends ? Le beurre, c’est pour les artères. » « Tu demandes à ton médecin un régime, je t’envoie une liste. » Nadège a lu les trois sans répondre. Elle se sent coupable, sans savoir de quoi exactement : d’avoir eu de la tension pendant des années, d’avoir goûté chaque crème qu’elle faisait, de ne pas être morte de peur.\n\nLe docteur Benali lit le compte rendu en silence, puis lève les yeux. Elle a préparé trois questions sur une fiche bristol : ce qui dépend de sa tension, ce qui ne dépend pas d’elle, et si elle peut encore faire des gâteaux. Elle la pose à côté de la pochette.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Ce que le suivi vasculaire peut et ne peut pas promettre",
+          "text": "Chez les personnes exposées aux troubles cognitifs d’origine vasculaire, le traitement de l’hypertension fait partie des mesures recommandées, tandis que la portée des autres mesures est plus incertaine ; ce suivi vise à réduire le risque de nouveaux événements, sans garantir que les capacités cognitives resteront stables. Il se décide avec le médecin traitant et l’équipe spécialisée, en tenant compte de la personne et de ses préférences. Chez Nadège, l’accident ischémique transitoire a été diagnostiqué par les médecins de l’hôpital, qui ont revu son traitement ; le docteur Benali, qui suit sa tension depuis longtemps, reprend ce plan avec elle. Ce qui relève d’Odile, c’est son inquiétude, pas les décisions médicales."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment le suivi des facteurs de risque se répercute-t-il dans la vie quotidienne ?",
+          "points": [
+            {
+              "heading": "Une culpabilité diffuse",
+              "text": "Après un événement vasculaire, la personne peut se reprocher ses habitudes ou son passé, même quand aucun lien simple n’est établi.",
+              "examples": [
+                "Nadège se sent coupable d’avoir eu de la tension pendant des années et d’avoir goûté chaque crème.",
+                "Elle relit le compte rendu jusqu’à le connaître par cœur, comme pour y trouver une faute."
+              ]
+            },
+            {
+              "heading": "Des injonctions de l’entourage",
+              "text": "Les proches inquiets peuvent multiplier les conseils, parfois contradictoires avec ce que décident les médecins.",
+              "examples": [
+                "Odile envoie trois messages pour exiger l’arrêt du sucre et des gâteaux.",
+                "Elle propose d’envoyer une liste de régime avant même que Nadège ait vu son médecin."
+              ]
+            },
+            {
+              "heading": "Des questions concrètes sur le quotidien",
+              "text": "La personne a besoin de savoir ce qui change pour elle, dans ses activités et ses habitudes, plutôt que des principes généraux.",
+              "examples": [
+                "Nadège a écrit sur sa fiche bristol si elle peut encore faire des gâteaux.",
+                "Elle veut savoir ce qui dépend du suivi de sa tension et ce qui ne dépend pas d’elle."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour garder la main sur son suivi vasculaire",
+          "points": [
+            {
+              "heading": "Préparer ses questions",
+              "objective": "Obtenir des réponses sur ce qui compte vraiment pour soi.",
+              "exercise": [
+                "Écrire avant le rendez-vous trois questions au plus, dans ses propres mots.",
+                "Mettre en premier celle qui inquiète le plus.",
+                "Apporter les comptes rendus récents pour que le médecin ait toutes les informations."
+              ],
+              "benefit": "Le temps de consultation sert les préoccupations de la personne et pas seulement le protocole."
+            },
+            {
+              "heading": "Noter ce qui est décidé",
+              "objective": "Avoir une trace fiable de ce qui a été convenu avec le médecin.",
+              "exercise": [
+                "Demander au médecin de reformuler les décisions à la fin du rendez-vous.",
+                "Les écrire sur une feuille, ou demander qu’il les écrive.",
+                "Ranger la feuille avec le compte rendu, et la relire avant le rendez-vous suivant."
+              ],
+              "benefit": "Les décisions sont faciles à retrouver, et les conseils extérieurs peuvent être comparés à ce qui a réellement été dit."
+            },
+            {
+              "heading": "Dire aux proches ce qui relève d’eux",
+              "objective": "Accueillir leur inquiétude sans leur confier son suivi médical.",
+              "exercise": [
+                "Remercier le proche pour son inquiétude, en une phrase.",
+                "Lui dire qui décide du suivi médical et que c’est déjà en place.",
+                "Lui proposer un rôle à sa mesure, comme appeler pour prendre des nouvelles."
+              ],
+              "benefit": "La relation reste possible sans que chaque échange devienne une surveillance."
+            }
+          ]
+        }
+      ],
+      "ending_title": "La liste du docteur Benali",
+      "ending": "Le docteur Benali répond à ses trois questions, une par une. Ce qui dépend du suivi : prendre le traitement comme l’hôpital l’a revu, mesurer sa tension chez elle et noter les chiffres pour le prochain rendez-vous, l’appeler en cas de doute, et faire le 15 si des signes comme ceux du marché revenaient, même brièvement. Ce qui ne dépend pas d’elle : il ne peut pas lui promettre que tout restera comme aujourd’hui. Pour la pâtisserie, il ne lui impose pas de régime ; il en reparlera avec elle si nécessaire. Il écrit ces points sur une feuille à en-tête et fixe un rendez-vous le 8 avril. Nadège apprend aussi que l’entretien du 15 mars à la consultation mémoire est déplacé au lundi 29, avec la docteure Leclerc, la neurologue qui la suit. Au café, elle répond à Odile : « J’ai vu mon médecin. Le suivi est en place. Je ne discuterai pas de ma tension par messages. Appelle-moi dimanche, on parlera d’autre chose. »",
+      "conclusion": "Le suivi des facteurs de risque vasculaire fait partie de l’accompagnement d’une démence liée à une maladie cérébrovasculaire, sans promesse de stabilité. Nadège repart avec des décisions écrites, prises avec son médecin, et rend à Odile une place de sœur plutôt que de conseillère médicale.",
+      "mirror": [
+        "Odile, à Nantes, aurait pu écrire un seul message : « J’ai eu très peur pour toi. Tu me racontes ce que dit ton médecin quand tu veux ? » Son inquiétude est réelle ; elle trouve sa place dans une parole qui ne dicte rien. Bastien, au café d’en face, respecte un autre geste : il attend qu’elle sorte sans demander ce qui s’est dit. Ni l’un ni l’autre n’a à surveiller son alimentation ou sa tension à la place du médecin."
+      ],
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "aha-vci-2011",
+        "has-tnc-fiche2",
+        "nice-ng97"
+      ],
+      "continuity": {
+        "choice": "Nadège repart avec une liste écrite des décisions prises avec le docteur Benali et un rendez-vous le 8 avril ; elle refuse de discuter de sa tension par messages avec Odile ; l’entretien prévu le 15 mars est déplacé au lundi 29 mars avec la docteure Leclerc.",
+        "next": "Le 29 mars, à la consultation mémoire, Nadège demande combien de « marches » il lui reste ; une réévaluation est planifiée."
+      },
+      "clinical_focus": "Suivre ses facteurs de risque vasculaire sans tout céder",
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 11,
+      "slug": "nadege-evolution-variable-sans-modele-unique",
+      "title": "Une évolution qui ne suit pas un modèle unique",
+      "description": "Nadège a lu qu’on descend par paliers et demande combien de marches il lui reste ; la neurologue ne donne pas de date, mais un plan révisable.",
+      "context": "à la consultation mémoire fin mars",
+      "topics": [
+        "Démence due à une maladie cérébrovasculaire",
+        "évolution variable",
+        "réévaluation"
+      ],
+      "clinical_intro": "L’évolution d’une démence due à une maladie cérébrovasculaire varie beaucoup d’une personne à l’autre : elle peut rester stable, progresser lentement ou changer après un événement, et le déclin par paliers souvent décrit n’est pas la règle. Cette incertitude se suit par des réévaluations plutôt que par une prédiction. À la consultation mémoire, Nadège demande pourtant une réponse simple que personne ne peut lui donner.",
+      "opening": "Le lundi 29 mars, la salle d’attente de la consultation mémoire du centre hospitalier sent le produit pour les sols. Nadège a posé sur ses genoux le cahier bleu et, glissée dedans, la liste des six recettes. Bastien, son filleul, est assis à côté d’elle ; il a demandé s’il pouvait venir, et elle a dit oui, à condition qu’il ne parle pas à sa place. Il a, lui aussi, une feuille pliée en quatre dans sa poche.\n\nDepuis l’hôpital, ses matins ne se ressemblent pas. Certains sont clairs : mercredi dernier, elle a refait seule la crème pâtissière, sans fiche. D’autres sont plus lents ; jeudi, elle a mis vingt minutes à comprendre une lettre de la caisse de retraite. Une infirmière de l’équipe l’a reçue ce matin pour l’entretien sur l’humeur et la fatigue prévu depuis février ; elle a posé beaucoup de questions et n’a rien conclu devant elle.\n\nDans le bureau, la docteure Leclerc, sa neurologue, la même plante en plastique sur l’étagère, l’écoute raconter le marché, le 15, les heures à l’hôpital. Puis Nadège sort de son cahier une page photocopiée à la bibliothèque. « J’ai lu qu’on descend par paliers. Une marche à chaque accident. Alors je voudrais savoir : combien de marches il me reste ? »\n\nBastien serre sa feuille. La docteure ne répond pas tout de suite. Elle ne détourne pas les yeux non plus. Nadège attend une date, un chiffre, quelque chose qu’on puisse écrire dans un agenda. Elle s’entend demander : « Avant l’été ? Avant Noël ? » Elle n’aime pas sa propre voix quand elle supplie.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Pourquoi l’évolution ne se prédit pas sur un seul modèle",
+          "text": "La plupart des démences progressent, mais leur début et leur évolution varient beaucoup selon la cause ; certaines démences dues à une maladie cérébrovasculaire restent stables, d’autres évoluent lentement quand les atteintes des petits vaisseaux s’aggravent, d’autres changent après un accident vasculaire, et la descente par paliers souvent citée ne concerne qu’une partie des personnes. C’est pourquoi l’équipe suit l’évolution par des réévaluations datées plutôt que par un pronostic. Chez Nadège, des matins inégaux depuis l’hôpital ne disent pas à eux seuls ce qui va suivre : la fatigue, le choc de l’hospitalisation ou une autre cause peuvent compter. La docteure Leclerc ne refuse pas de répondre ; elle refuse de donner une certitude qu’elle n’a pas."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment l’incertitude sur l’évolution se vit-elle au quotidien ?",
+          "points": [
+            {
+              "heading": "Des jours inégaux",
+              "text": "Les capacités peuvent varier d’un jour à l’autre, ce qui rend difficile de savoir si quelque chose a changé durablement.",
+              "examples": [
+                "Nadège refait seule la crème pâtissière un mercredi, sans fiche.",
+                "Le jeudi suivant, elle met vingt minutes à comprendre une lettre de la caisse de retraite."
+              ]
+            },
+            {
+              "heading": "La peur d’un scénario unique",
+              "text": "Une image simple trouvée dans une lecture peut devenir une prédiction personnelle et effrayante.",
+              "examples": [
+                "Nadège apporte une page photocopiée qui parle de paliers et demande combien de marches il lui reste.",
+                "Elle réclame une échéance, « avant l’été ? avant Noël ? », qu’elle pourrait inscrire dans son agenda."
+              ]
+            },
+            {
+              "heading": "Le besoin d’un plan révisable",
+              "text": "Faute de prédiction, la personne et ses proches ont besoin de savoir quand et comment les choses seront revues.",
+              "examples": [
+                "Bastien arrive avec ses propres questions sur le rôle qu’il peut tenir dans les mois qui viennent.",
+                "Nadège tient la liste des six recettes comme un repère qui ne dépend pas d’un pronostic."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour vivre avec une évolution incertaine",
+          "points": [
+            {
+              "heading": "Noter des faits datés",
+              "objective": "Donner à l’équipe des observations utiles plutôt que des impressions.",
+              "exercise": [
+                "Écrire brièvement, quand on le remarque, ce qui a été plus facile ou plus difficile, avec la date.",
+                "Ajouter le contexte : fatigue, sommeil, bruit, événement particulier.",
+                "Apporter ces notes au rendez-vous de réévaluation."
+              ],
+              "benefit": "L’équipe peut comparer des faits dans le temps, et la personne voit aussi les bons jours qu’elle oublierait de compter."
+            },
+            {
+              "heading": "Convenir d’une date de réévaluation",
+              "objective": "Remplacer l’attente d’une prédiction par un rendez-vous connu.",
+              "exercise": [
+                "Demander au médecin quand l’évolution sera revue, et l’inscrire dans l’agenda.",
+                "Savoir qui appeler entre-temps si quelque chose change, et faire le 15 en cas de signe brutal.",
+                "Préparer pour ce rendez-vous les questions qui reviennent."
+              ],
+              "benefit": "L’incertitude reste, mais elle a un cadre et des interlocuteurs."
+            },
+            {
+              "heading": "Parler des souhaits futurs à son rythme",
+              "objective": "Faire connaître ses préférences sans attendre une crise.",
+              "exercise": [
+                "Choisir un moment calme pour dire ce qui compte le plus pour soi dans les mois à venir.",
+                "Demander à l’équipe, si on le souhaite, ce que sont une personne de confiance ou des directives anticipées.",
+                "Décider seule de ce qu’on partage avec les proches, et quand."
+              ],
+              "benefit": "Les choix de la personne sont connus et respectés, sans qu’elle soit obligée de tout décider le jour même."
+            }
+          ]
+        }
+      ],
+      "ending_title": "L’atelier inscrit en avril",
+      "ending": "La docteure Leclerc dit qu’elle ne peut pas compter les marches, parce que tout le monde ne descend pas un escalier. Elle propose une réévaluation complète le lundi 21 juin, avec l’entretien de ce matin, et lui rappelle d’appeler le 15 si des signes comme ceux du marché revenaient. Elle ajoute qu’elle pourra, quand elle le voudra, lui parler de la personne de confiance. Nadège referme la page photocopiée. « Alors je n’attends pas de savoir. L’atelier, ce sera en avril. » Elle inscrit dans son agenda le samedi 24 avril, puis le mercredi 14 avril pour la vidéo de la Tatin. Bastien déplie enfin sa feuille : il ne peut pas venir plus d’un mercredi sur deux, à cause de ses commandes. La docteure demande à Nadège si elle accepte d’en parler ici ; elle accepte. Ils conviennent que Josette, sa voisine, l’accompagnera porter les ingrédients le jour de l’atelier et que Karima, l’animatrice des Ponts, gardera le four. Nadège téléphonera elle-même à toutes les deux.",
+      "conclusion": "L’évolution d’une démence due à une maladie cérébrovasculaire ne suit pas un modèle unique et se suit par réévaluation, sans date ni promesse. Nadège cesse d’attendre une prédiction pour fixer son atelier et la vidéo de la Tatin, et le rôle de Bastien est ajusté avec son accord.",
+      "mirror": [
+        "Bastien a attendu, feuille en poche, que Nadège ait posé sa question avant de poser les siennes. Quand elle demande « avant l’été ? », il pourrait poser la main sur le cahier bleu et dire : « Moi non plus je ne sais pas. Mais je serai là le 14 pour la Tatin. » Il n’a pas à rassurer avec une promesse. Dire qu’il ne viendra qu’un mercredi sur deux n’est pas un abandon : c’est une limite qui permet de passer le relais à Josette et Karima."
+      ],
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "aha-vci-2011",
+        "nice-ng97",
+        "has-tnc-fiche15"
+      ],
+      "continuity": {
+        "choice": "Nadège fixe l’atelier au samedi 24 avril et la vidéo de la Tatin au mercredi 14 avril ; la réévaluation complète est planifiée le lundi 21 juin ; Bastien limite sa présence à un mercredi sur deux, et un relais avec Josette et Karima est convenu avec l’accord de Nadège.",
+        "next": "Le samedi 24 avril, l’atelier des Ponts a lieu avec les gestes chauds confiés à Karima et le carnet imprimé."
+      },
+      "clinical_focus": "Une évolution qui ne suit pas un modèle unique",
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 12,
+      "slug": "nadege-transmettre-recettes-formes-choisies",
+      "title": "Transmettre ses recettes sous des formes choisies",
+      "description": "À l’atelier des Ponts, Nadège montre le sablage en silence, Karima tient le four, et le carnet des six recettes passe de main en main.",
+      "context": "lors de l’atelier à la maison de quartier en avril",
+      "topics": [
+        "Démence due à une maladie cérébrovasculaire",
+        "participation",
+        "transmission adaptée"
+      ],
+      "clinical_intro": "Une activité qui compte peut se poursuivre avec une démence, à condition d’en adapter la forme avec la personne et de revoir ces adaptations au fil du temps. Réussir un atelier ne prouve ni une guérison ni une absence d’évolution ; cela montre une participation rendue possible. Nadège tient enfin l’atelier qu’elle a choisi, avec les rôles qu’elle a répartis elle-même.",
+      "opening": "Le samedi 24 avril, à quatorze heures, la grande salle de la maison de quartier des Ponts a été rangée autrement. Les tables forment un U face à la fenêtre, et la démonstration se fait dos au four. Huit habitants attendent devant les plans de travail, tabliers noués : le retraité du club de belote, revenu de la répétition de décembre, une boulangère à la retraite, trois adolescents du soutien scolaire et leurs mères. Josette, la voisine de Nadège, a porté le matin les bols d’ingrédients pesés dans son caddie écossais ; elle s’est assise au fond, près des tasses.\n\nKarima, l’animatrice de la maison de quartier, est au four, comme convenu depuis janvier. Le minuteur rouge de Nadège est posé devant elle, réglé. Sur la petite table, le tableau blanc du soutien scolaire attend les questions. À côté, une pile de carnets agrafés à couverture bleue, mis en page par Bastien, son filleul : six recettes, des photos des gestes et, au dos, le lien des trois vidéos. Les sablés de Lucienne, le Paris-Brest, et la tarte Tatin, tournée mercredi 14 avril dans la cuisine de la rue du Portail-Louis, Bastien versant le caramel pendant qu’elle disait quand.\n\nNadège verse la farine, ajoute le beurre froid et commence à sabler, sans un mot. Les huit la regardent faire. Elle laisse le silence durer, du bout des doigts, jusqu’à ce que ça ressemble à du sable mouillé. Puis elle lève la spatule. « Maintenant, les questions. » Karima lit la première au tableau : pourquoi du beurre froid ? Nadège sourit. Elle connaît la réponse depuis cinquante ans, et cette fois elle a le temps de la donner en entier.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Participer autrement plutôt que renoncer",
+          "text": "Les activités qui ont du sens pour une personne vivant avec une démence peuvent être maintenues en les adaptant à ses préférences et à ses capacités du moment ; ces aménagements se décident avec elle, se revoient au fil du temps et ne sont pas des traitements dont l’effet serait démontré. L’atelier de Nadège réunit ce qu’elle a construit depuis novembre : montrer avant d’expliquer, une question à la fois, les gestes chauds confiés à Karima, le matériel prêt d’avance. Il ne dit rien de l’évolution de sa maladie, que l’équipe réévaluera en juin. Il montre qu’une transmission reste possible, sous une forme qu’elle a choisie, avec les limites de chacun : Bastien un mercredi sur deux, Josette au fond de la salle, Karima au four."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment une transmission adaptée se déroule-t-elle concrètement ?",
+          "points": [
+            {
+              "heading": "Un partage des tâches décidé d’avance",
+              "text": "Les rôles convenus avant la séance évitent d’avoir à réorganiser en cours de route.",
+              "examples": [
+                "Karima tient le four et la panade chaude, avec le minuteur rouge réglé devant elle.",
+                "Josette a apporté les ingrédients pesés dans son caddie le matin même."
+              ]
+            },
+            {
+              "heading": "Une fatigue de fin de séance",
+              "text": "Même une séance réussie peut épuiser, et cette fatigue fait partie de ce qu’il faut prévoir.",
+              "examples": [
+                "À la fin, Nadège s’assoit pendant que les participants rangent les plaques.",
+                "Elle laisse Karima répondre aux deux dernières questions du tableau sur la cuisson."
+              ]
+            },
+            {
+              "heading": "Une fierté sans garantie",
+              "text": "La satisfaction d’avoir transmis coexiste avec l’incertitude sur la suite.",
+              "examples": [
+                "Les carnets bleus partent tous, et une participante demande une deuxième séance.",
+                "Nadège ne promet rien et dit qu’elle doit d’abord en parler avec Karima et l’ergothérapeute."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour transmettre un savoir-faire avec des aménagements",
+          "points": [
+            {
+              "heading": "Définir les rôles d’avance",
+              "objective": "Que chacun sache ce qu’il fait avant le début.",
+              "exercise": [
+                "Lister les tâches de la séance, y compris les plus risquées.",
+                "Attribuer chaque tâche à une personne choisie, avec son accord.",
+                "Écrire la répartition sur une feuille posée sur la table."
+              ],
+              "benefit": "La personne peut se concentrer sur ce qu’elle veut transmettre plutôt que sur l’organisation."
+            },
+            {
+              "heading": "Prévoir une fin de séance",
+              "objective": "Protéger l’énergie de la personne et le plaisir de tous.",
+              "exercise": [
+                "Fixer une heure de fin réaliste, plus courte qu’on ne l’imagine.",
+                "Confier à une autre personne les dernières questions ou le rangement.",
+                "Prévoir un temps assis, un verre d’eau, et un trajet de retour accompagné si besoin."
+              ],
+              "benefit": "La séance se termine avant l’épuisement, ce qui laisse envie de recommencer."
+            },
+            {
+              "heading": "Revoir les aménagements après coup",
+              "objective": "Ajuster pour la fois suivante plutôt que de figer une formule.",
+              "exercise": [
+                "Noter le soir même ce qui a aidé et ce qui a gêné.",
+                "En parler avec les personnes impliquées et, si utile, avec l’ergothérapeute.",
+                "Décider seule s’il y aura une suite, et sous quelle forme."
+              ],
+              "benefit": "Les aménagements suivent l’évolution, qu’elle soit stable ou non, et restent ceux de la personne."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Le carnet sur la table",
+      "ending": "À seize heures, comme prévu, Karima sort la dernière plaque de choux. Les carnets sont tous partis. Une participante, la boulangère à la retraite, demande s’il y aura une deuxième séance, peut-être avec la crème pâtissière. Nadège, assise, la remercie et dit qu’elle va y réfléchir avec Karima et avec Inès Morel, l’ergothérapeute qui vient chez elle ; elle ne promet rien. Josette remballe les bols dans le caddie. Le soir, rue du Portail-Louis, Nadège écrit sous la liste des six recettes : « Atelier fait. Fatiguée, contente. Le tableau a aidé. » Puis, plus bas, au crayon : « Quatre-quarts, vidéo cet été ? » Elle ne le souligne pas. Elle range le cahier bleu sur le buffet, ouvert, et éteint la lumière de la cuisine.",
+      "conclusion": "Une démence due à une maladie cérébrovasculaire n’empêche pas de transmettre, à condition d’en choisir la forme et de la revoir au fil du temps. Nadège accomplit son projet, un carnet, trois vidéos et un atelier, et garde la suite ouverte, à décider avec l’équipe et selon ses jours.",
+      "mirror": [
+        "Au fond de la salle, Josette n’a rien fait d’autre que porter les bols et rester là. C’est parfois exactement ce qu’il faut. Quand la boulangère demande une deuxième séance, un proche pourrait dire à Nadège, plus tard et en privé : « Tu me diras si tu en as envie. Je peux porter le caddie, pas plus. » Proposer une aide précise et limitée laisse la décision à Nadège. Bastien, de son côté, a le droit de dire que le quatre-quarts attendra la fin de ses commandes de juin."
+      ],
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "nice-ng97",
+        "has-tnc-fiche12",
+        "has-tnc-fiche15"
+      ],
+      "continuity": {
+        "choice": "Nadège tient l’atelier de sablés et de pâte à choux avec Karima au four, distribue le carnet de six recettes et les trois vidéos, ne s’engage pas sur une deuxième séance et note, sans s’y engager, une vidéo du quatre-quarts pour l’été.",
+        "next": "Le projet de transmission est accompli ; la suite reste un choix de Nadège, revu avec l’équipe lors de la réévaluation du 21 juin et selon ses jours."
+      },
+      "clinical_focus": "Transmettre ses recettes sous des formes choisies",
+      "diagnostic_stage": "known"
+    }
+  ]
+}

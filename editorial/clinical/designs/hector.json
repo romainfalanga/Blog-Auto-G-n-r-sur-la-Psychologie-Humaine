@@ -1,0 +1,209 @@
+{
+  "schema_version": 1,
+  "character_id": "hector",
+  "code": "6D70",
+  "article_format": 2,
+  "bio": "Hector, 77 ans, est charpentier retraité. Hospitalisé pour une infection pulmonaire, il a traversé un delirium : en quelques heures, son attention, son orientation et sa conscience de ce qui l’entourait ont changé, avec des variations d’un moment à l’autre. L’équipe hospitalière en a recherché les causes. De retour chez lui, il reprend des habitudes simples et prépare la caisse d’outils promise à son neveu Julien. Il déteste qu’on plaisante sur des souvenirs qu’il ne reconnaît pas et préfère qu’on lui explique doucement ce qui s’est passé.",
+  "profile_topics": [
+    "Delirium",
+    "Attention et orientation qui fluctuent",
+    "Causes médicales recherchées en urgence",
+    "Récupération progressive au quotidien",
+    "Souvenirs manquants de l’épisode"
+  ],
+  "voice": "Une voix sobre de charpentier : mesures, bois, équerre et ordre des outils. Hector parle peu de ses émotions et dit « ça ne tient pas d’équerre » quand quelque chose l’inquiète. Il garde une dignité têtue, un humour rare et refuse qu’on rie de ce qu’il a vécu ; il demande des explications simples et les note lui-même.",
+  "series_goal": "Préparer et remettre à Julien la caisse d’outils promise, nettoyée et étiquetée, en traversant l’hospitalisation et la récupération ; comprendre ce qu’a été son delirium sans le confondre avec une démence, et ranger dans le couvercle un plan clair en cas de nouveau changement brutal.",
+  "continuity_rules": [
+    "Chronologie diagnostique : under_assessment à l’épisode 1, diagnosis_explained à l’épisode 2 par la docteure Roussel, known ensuite. Hector, 77 ans, charpentier retraité, vit seul près de Saumur avec un atelier au fond du jardin ; aucune démence, aucun trouble psychiatrique ni usage de substance inventés.",
+    "Les causes sont recherchées et nommées par l’équipe hospitalière seulement : infection pulmonaire et déshydratation, traitements revus. Aucun nom de médicament, dose, examen à faire soi-même, sédation ou contention mis en scène. Julien décrit ce qu’il voit ; il ne trie jamais les causes.",
+    "Épisodes 1 à 7 à l’hôpital de Saumur sur une semaine, sortie au neuvième jour (épisode 8), épisodes 9 à 12 à la maison sur environ deux mois. La confusion n’est pas prolongée artificiellement : plus d’épisode de confusion après la sortie.",
+    "Objets suivis : caisse construite en 1979 (rabot, ciseaux à bois, trusquin, équerre, maillet), crayon plat de charpentier, photo de l’atelier, carnet de Julien commencé à l’épisode 4, étiquettes d’Hector, fiche du couvercle à l’épisode 12. Aucun outil électrique ni geste de coupe montré.",
+    "Entourage : Julien, 44 ans, professeur de technologie qui rénove une longère, avec ses contraintes ; Nadia, infirmière de nuit ; docteure Roussel, médecin du service ; docteur Garnier, médecin traitant ; Bernard, ancien compagnon de chantier. Hector décide de ce qui est partagé avec Julien et de ce qu’il veut savoir de ses nuits.",
+    "Une seule illusion sonore (chariot entendu comme une scie), une seule scène de colère, une journée hypoactive : pas de répétition des mêmes signes. Le delirium n’est jamais assimilé à la vieillesse, à la folie, au caractère ou à une démence ; aucune prédiction individuelle ni promesse de récupération complète."
+  ],
+  "episodes": [
+    {
+      "number": 1,
+      "focus": "Un changement soudain par rapport à l’Hector habituel",
+      "scene": "Deuxième soir à l’hôpital de Saumur, où Hector est soigné pour une infection pulmonaire. À midi, il a raconté à Julien la caisse d’outils promise et l’ordre exact des ciseaux à bois. À vingt heures, il ne suit plus la conversation, demande où il a rangé le trusquin, croit que le chantier attend et tire sur le drap comme sur une bâche. Julien, déconcerté, compare avec le midi et appelle Nadia, l’infirmière de nuit.",
+      "development": "Aspect : un changement apparu en quelques heures, qui tranche avec le fonctionnement habituel de la personne, concerne l’attention, l’orientation et la conscience de ce qui l’entoure. L’explication générale dit qu’un tel changement chez une personne âgée appelle une évaluation médicale rapide. Trois appuis : décrire à l’équipe la différence entre midi et le soir ; dire ce qui est habituel chez Hector ; laisser l’équipe évaluer. Le résultat n’est pas annoncé : l’équipe examine, le médecin de garde est prévenu.",
+      "ending": "Nadia pose quelques questions courtes, note l’heure du changement et prévient le médecin de garde ; Julien écrit dans son téléphone ce qu’Hector disait à midi, pour pouvoir le redire, et reste jusqu’à ce qu’Hector s’apaise, en laissant son numéro au service.",
+      "next": "Le lendemain matin, Hector, plus clair, demandera qu’on lui explique doucement ce qui s’est passé.",
+      "source_refs": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "nice-cg103",
+        "has-confusion-aigue"
+      ],
+      "diagnostic_stage": "under_assessment"
+    },
+    {
+      "number": 2,
+      "focus": "Nommer le delirium et chercher ses causes médicales",
+      "scene": "Matin du troisième jour. Hector a mal dormi et se souvient seulement d’un « soir de travers ». La docteure Roussel s’assoit à hauteur de son lit, Julien est présent avec l’accord d’Hector. Il lui demande d’expliquer sans détour mais sans rire. Elle nomme un delirium, explique ce que l’équipe a vu, ce qu’elle recherche et ce qui a déjà été trouvé : l’infection, une déshydratation, et des traitements qu’elle revoit.",
+      "development": "Aspect : le delirium est une perturbation de l’attention, de l’orientation et de la conscience, d’apparition rapide, qui traduit une cause médicale ou parfois une substance ou un médicament, souvent plusieurs facteurs à la fois. C’est une urgence médicale ; la recherche des causes appartient à l’équipe. Trois appuis : demander une explication en mots simples ; poser ses questions par écrit ; dire ce que l’on accepte que le proche sache. Aucun nom de médicament, aucune dose ni liste d’examens à faire soi-même.",
+      "ending": "Hector demande à la docteure de répéter le mot et l’écrit lui-même au dos de la feuille des menus. Il autorise l’équipe à donner des nouvelles à Julien.",
+      "next": "Julien apportera ce soir-là ses lunettes et des objets de l’atelier, à la demande de l’équipe.",
+      "source_refs": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "nice-cg103",
+        "has-confusion-aigue",
+        "sign-157"
+      ],
+      "diagnostic_stage": "diagnosis_explained"
+    },
+    {
+      "number": 3,
+      "focus": "Des repères visibles pour retrouver où l’on est",
+      "scene": "Julien arrive avec les lunettes oubliées à la maison, l’appareil auditif dans sa boîte, une photo de l’atelier et le crayon plat de charpentier d’Hector. L’horloge de la chambre est cachée derrière une perfusion. Hector demande deux fois quel jour on est ; il se vexe d’avoir à demander. Nadia propose de mettre l’horloge et un calendrier en face du lit et d’écrire le nom du service.",
+      "development": "Aspect : dans le delirium, l’orientation peut se perdre ; l’équipe soutient la réorientation par l’environnement, les sens et des visages familiers, en même temps qu’elle traite la cause. Trois appuis : rendre lunettes et appareil auditif disponibles ; placer horloge, calendrier et objets familiers dans le regard ; se présenter et dire où l’on est en phrases courtes. Ces mesures ne remplacent pas le traitement et ne prouvent pas une guérison.",
+      "ending": "Hector choisit lui-même où poser la photo et le crayon ; il trace au crayon plat la date du jour sur le calendrier, comme un repère de chantier.",
+      "next": "Le soir venu, ces repères seront mis à l’épreuve par une nouvelle baisse d’attention.",
+      "source_refs": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "nice-cg103",
+        "sign-157"
+      ],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 4,
+      "focus": "Les symptômes fluctuent et s’aggravent le soir",
+      "scene": "Quatrième jour. Le matin, Hector discute du choix des rabots avec Julien au téléphone. L’après-midi, il somnole ; à la tombée de la nuit, il s’agite, veut se lever pour « fermer l’atelier », confond l’heure et ne tient plus une phrase. Julien, rassuré le matin, ne comprend pas ce recul. Nadia lui explique que des variations dans la journée sont attendues et qu’elles sont notées.",
+      "development": "Aspect : le delirium évolue de façon fluctuante sur vingt-quatre heures, souvent avec une aggravation en fin de journée et une perturbation du rythme veille-sommeil. Une bonne matinée ne signifie pas que l’épisode est terminé. Trois appuis : noter les heures où Hector est clair ou perdu ; garder une lumière douce plutôt que l’obscurité totale ; signaler un changement à l’équipe plutôt que conclure seul.",
+      "ending": "Avec l’accord d’Hector, Julien et Nadia conviennent que Julien passera aussi en début de soirée quand son planning le permet, avec une voix connue et une veilleuse allumée ; Julien note les heures dans le carnet qu’il commence.",
+      "next": "La nuit suivante, un bruit du couloir prendra pour Hector une autre forme.",
+      "source_refs": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "has-confusion-aigue",
+        "sign-157"
+      ],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 5,
+      "focus": "Un bruit réel mal interprété pendant la nuit",
+      "scene": "Nuit du quatrième au cinquième jour. Le chariot de soins passe dans le couloir ; Hector entend une scie circulaire et pense qu’un apprenti travaille sans protection. Il appelle, inquiet, demande qu’on arrête la machine. Nadia entre, allume la veilleuse, lui montre le chariot, dit où il est et ne lui donne pas raison, sans se moquer.",
+      "development": "Aspect : le delirium peut altérer les perceptions, par exemple sous forme d’illusions où un stimulus réel est mal interprété, sans que la personne soit « folle ». Trois appuis : montrer la source réelle du bruit ; ne pas confirmer l’idée erronée, la corriger avec tact et changer de sujet ; prévenir l’équipe si une perception inquiète ou se répète. Aucune hallucination graphique, une seule illusion.",
+      "ending": "Hector se rendort après que Nadia a laissé la porte entrouverte ; le matin, il ne se souvient que d’une scie et demande à Julien de ne pas en faire une histoire drôle.",
+      "next": "Le même jour, la peur de la nuit se transforme en colère contre une aide-soignante.",
+      "source_refs": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "nice-cg103",
+        "sign-157"
+      ],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 6,
+      "focus": "Peur et colère qui débordent pendant l’épisode",
+      "scene": "Cinquième jour, en fin d’après-midi. Une aide-soignante veut l’aider à se lever ; Hector, apeuré de ne pas savoir où sont ses chaussures et qui elle est, hausse le ton et repousse son bras. Julien arrive au moment où il crie qu’on lui a volé sa caisse. L’équipe parle doucement, s’éloigne d’un pas et attend. Plus tard, Hector se tait, honteux.",
+      "development": "Aspect : le delirium s’accompagne souvent de troubles émotionnels comme la peur, l’irritabilité ou la colère, qui ne disent rien du caractère habituel de la personne. Les soignants commencent par des moyens verbaux et non verbaux d’apaisement. Trois appuis : se présenter et expliquer chaque geste ; laisser de la distance et du temps ; parler de l’incident plus tard, sans reproche. Aucun traitement, contention ou sédation montrés.",
+      "ending": "Le lendemain, Hector demande à voir l’aide-soignante pour s’excuser ; elle accepte et lui dit qu’elle connaît ces moments. Julien note que la caisse est en sécurité à l’atelier.",
+      "next": "Le jour suivant, Hector sera calme, peut-être trop.",
+      "source_refs": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "nice-cg103",
+        "has-confusion-aigue"
+      ],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 7,
+      "focus": "Une journée calme qui n’est pas forcément un mieux",
+      "scene": "Sixième jour. Hector dort presque toute la journée, touche à peine son plateau, répond lentement par un mot. Julien, soulagé de ne plus voir d’agitation, envoie à sa sœur qu’« il va beaucoup mieux ». Nadia, au changement d’équipe, remarque qu’il n’a pas bu et ne s’intéresse pas à la photo de l’atelier ; elle prévient le médecin.",
+      "development": "Aspect : le delirium peut prendre une forme hypoactive, faite de retrait, de somnolence, de lenteur et d’appétit réduit, souvent moins repérée qu’une agitation. Une personne calme peut rester confuse. Trois appuis : comparer avec son intérêt habituel ; signaler ce qu’il ne fait plus (boire, manger, répondre) ; ne pas tirer une conclusion d’un seul moment.",
+      "ending": "La docteure Roussel réévalue Hector et adapte la prise en charge ; Julien corrige son message à sa sœur et ajoute dans le carnet ce qu’il a vu.",
+      "next": "Les jours suivants, l’amélioration permettra de préparer la sortie, sans que tout soit revenu.",
+      "source_refs": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "nice-cg103",
+        "sign-157"
+      ],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 8,
+      "focus": "Rentrer chez soi pas encore tout à fait soi-même",
+      "scene": "Neuvième jour, sortie. Hector est orienté, l’infection est traitée, mais il est lent, se fatigue vite et perd le fil d’une liste. La docteure Roussel indique que le courrier de sortie mentionne le delirium pour le docteur Garnier. Julien a organisé deux passages par semaine et un portage de repas choisi par Hector. À la maison, Hector ouvre l’atelier, regarde la caisse et ne trie qu’un tiroir.",
+      "development": "Aspect : la récupération du delirium peut prendre des jours, parfois des semaines ; à la sortie, la personne peut encore être moins capable qu’à l’habitude. Le soutien se prépare avant le retour et le médecin traitant est informé. Trois appuis : relire le courrier de sortie avec la personne ; prévoir des aides qu’elle choisit ; découper les tâches du quotidien. Aucun calendrier de récupération promis.",
+      "ending": "Hector décide de préparer la caisse un tiroir par jour et de noter sur une étiquette ce qui est fait ; il prend rendez-vous avec le docteur Garnier dans les quinze jours.",
+      "next": "Une plaisanterie de Bernard sur les jours d’hôpital va heurter les trous de sa mémoire.",
+      "source_refs": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "sign-157",
+        "nice-cg103"
+      ],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 9,
+      "focus": "Des trous de mémoire sur les jours de confusion",
+      "scene": "Deuxième semaine à la maison. Bernard, ancien compagnon de chantier, passe et rit : « Il paraît que tu voulais faire arrêter la scie de l’hôpital ! » Hector ne reconnaît pas ce souvenir et se ferme. Après le départ de Bernard, il demande à Julien de lui raconter doucement ce qui s’est passé ces nuits-là. Julien sort le carnet tenu pendant l’hospitalisation.",
+      "development": "Aspect : après un delirium, la personne peut ne garder que des fragments des jours de confusion ; reconstituer le récit avec un proche, à son rythme, peut aider à donner sens à l’expérience. Trois appuis : demander avant de raconter ; s’en tenir aux faits notés, sans moquerie ; laisser la personne choisir ce qu’elle veut savoir. Ce n’est pas un test de mémoire ni un signe de démence.",
+      "ending": "Hector écoute deux pages du carnet, puis arrête ; il demande à Bernard, par téléphone, de ne plus faire de blague sur ces jours-là. Bernard s’excuse.",
+      "next": "Un passage du carnet réveille une image qui l’effraie encore.",
+      "source_refs": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "sign-157",
+        "nice-cg103"
+      ],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 10,
+      "focus": "Un souvenir effrayant de l’épisode qui revient",
+      "scene": "Troisième semaine. En rangeant les ciseaux à bois, Hector entend la scie électrique d’un voisin. Il revoit la nuit où il croyait un apprenti en danger et sent la même peur. Il pose les outils et sort s’asseoir. Il n’en parle pas à Julien, mais il note la question pour le rendez-vous avec le docteur Garnier.",
+      "development": "Aspect : certaines personnes gardent après un delirium des souvenirs effrayants de ce qu’elles ont perçu ou cru ; en parler à un professionnel pendant la récupération fait partie du suivi. Trois appuis : noter le moment et ce qui a rappelé le souvenir ; le dire au médecin ; distinguer le souvenir d’hier de ce qui se passe aujourd’hui. Aucune étiquette de stress post-traumatique, aucun traitement proposé.",
+      "ending": "Au rendez-vous, Hector raconte le souvenir ; le docteur Garnier l’écoute, explique que ce vécu est possible et propose d’en reparler s’il persiste ou gêne. Hector reprend les ciseaux le lendemain matin, au calme.",
+      "next": "Julien, de son côté, se demande à voix haute si son oncle « commence Alzheimer ».",
+      "source_refs": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "nice-cg103",
+        "sign-157"
+      ],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 11,
+      "focus": "Le delirium n’est ni une démence ni la vieillesse",
+      "scene": "Sixième semaine. Hector cherche un mot pour le trusquin et Julien lâche : « C’est peut-être le début d’Alzheimer. » Hector se raidit. Il demande à Julien de venir avec lui au rendez-vous de suivi. Le docteur Garnier explique ce qui distingue un delirium, au début brutal et fluctuant, d’une démence plus progressive et du vieillissement ordinaire, et ce qu’il prévoit d’évaluer à distance.",
+      "development": "Aspect : le delirium se distingue d’une démence et des changements liés à l’âge, même si une évaluation cognitive peut être proposée plus tard, une fois l’épisode passé. Ni le proche ni la personne ne tranchent seuls. Trois appuis : décrire au médecin les difficultés actuelles, datées ; demander ce qui sera réévalué et quand ; éviter les étiquettes dans la conversation familiale. Aucun pronostic, aucun pourcentage.",
+      "ending": "Hector accepte une évaluation de suivi à la date proposée ; Julien s’excuse de son mot et ils conviennent de dire « on en parle au docteur » au lieu de commenter chaque oubli.",
+      "next": "Avant de remettre la caisse, Hector veut savoir quoi faire si cela recommence.",
+      "source_refs": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "has-confusion-aigue",
+        "sign-157",
+        "nice-cg103"
+      ],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 12,
+      "focus": "Un épisode passé augmente le risque d’un autre",
+      "scene": "Huitième semaine. La caisse est prête : chaque outil nettoyé, huilé, étiqueté de la main d’Hector. Sur le chantier de la longère, Julien l’ouvre et trouve dans le couvercle une fiche rédigée avec le docteur Garnier : ce qui est habituel chez Hector, les signes d’un changement brutal, le 15 à appeler, la mention de l’épisode à dire à toute admission.",
+      "development": "Aspect : avoir eu un delirium augmente le risque d’un nouvel épisode, notamment lors d’une maladie ou d’une hospitalisation ; le connaître permet d’agir vite sans attendre ni deviner la cause. Trois appuis : décrire son fonctionnement habituel par écrit ; savoir qui appeler en cas de changement brutal ; signaler l’épisode antérieur aux soignants. Pas de surveillance permanente par le neveu.",
+      "ending": "Hector montre à Julien comment régler le rabot, puis lui confie la caisse ; il garde le crayon plat et dit qu’il viendra voir la charpente au printemps. Le suivi continue, sans verdict sur l’avenir.",
+      "next": "La série se clôt : la promesse est tenue, le plan reste dans le couvercle, Hector garde son atelier.",
+      "source_refs": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "sign-157",
+        "nice-cg103",
+        "service-public-urgences"
+      ],
+      "diagnostic_stage": "known"
+    }
+  ]
+}

@@ -1,0 +1,455 @@
+{
+  "character_id": "nadia",
+  "type": "origine",
+  "auditor": "audit_o6",
+  "audited_on": "2026-11-12",
+  "persona": {
+    "age_metier_proches": "38-39 ans, directrice marketing dans une entreprise tech ; divorcée de Karim, père de Yasmine (8 ans) en garde alternée ; compagnon Antoine ; mère Fatima ; collaboratrice Julie, collègues Mathieu et Marc.",
+    "arc_summary": "Le parcours alterne bureau (interruptions, exigence sur le rapport de Julie, cadrage, trac, recrutement, défense d’un calendrier, pause respiratoire) et vie privée (farine renversée, anniversaire de Yasmine, intimité avec Antoine, remords envers Fatima). La progression est réelle : Nadia apprend à laisser Julie propriétaire de son travail, à demander un retour précis et à s’excuser. Le fil de l’offre de la scale-up (épisode 4) est abandonné après l’épisode 7 et contredit à l’épisode 9 ; la série s’achève sur une journée de travail sans issue de cet arc.",
+    "arc_issues": [
+      "La décision sur l’offre de la scale-up (épisode 4, rappelée aux épisodes 6 et 7) n’est jamais tranchée ; l’épisode 9 parle d’« une opportunité de direction générale » qu’elle aurait failli refuser par peur, version incompatible.",
+      "Antoine, le compagnon de la fiche, n’apparaît qu’à l’épisode 6 sans être présenté ; l’épisode 11 (« Chez Antoine ») laisse entendre qu’ils ne vivent pas ensemble, ce qui n’est jamais précisé.",
+      "Marc est candidat en entretien à l’épisode 10, puis membre de l’équipe produit qui conteste le calendrier aux épisodes 11 et 12, sans explication.",
+      "Fatima est nommée à l’épisode 3 sans être présentée ; elle n’est désignée comme mère qu’à l’épisode 5.",
+      "Répétitions : épisodes 2 et 5 (cuisine, gâteau, ingrédient renversé, reprendre l’ustensile puis le rendre à Yasmine) ; épisodes 3 et 11 (délégation à Julie, reprise de fichier) ; épisodes 11 et 12 (Marc et l’ordre des campagnes).",
+      "Plusieurs manifestations rattachent les comportements à « l’éducation rigide » de Fatima alors que les sections récentes refusent ce lien causal (épisodes 5, 6, 8, 9)."
+    ]
+  },
+  "episodes": [
+    {
+      "number": 1,
+      "file": "content/posts/reprendre-le-controle-de-ses-pensees/effet-zeigarnik-manager-perfectionniste.md",
+      "focus": "Reprendre le fil après une interruption et se disperser dans les retouches (effet Zeigarnik annoncé)",
+      "structure": {
+        "scene": "ok",
+        "concept": "faible",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "ok",
+        "conclusion": "ok",
+        "proches": "ok"
+      },
+      "comprehension": 4,
+      "comprehension_note": "La fin de journée, la légende grise, le message de Karim et la note pour Julie sont limpides ; mais l’article dit lui-même que la scène n’illustre pas le concept.",
+      "issues": [
+        {
+          "severity": "majeur",
+          "type": "lien_concept",
+          "quote": "La scène ne compare pas son rappel de tâches terminées et interrompues et ne permet donc pas de conclure à un effet Zeigarnik.",
+          "problem": "L’article désavoue sa propre scène : elle montre la difficulté à reprendre un fil et la dispersion perfectionniste (sujet de l’épisode 3), pas le fait qu’une tâche inachevée reste plus présente à l’esprit qu’une tâche terminée.",
+          "fix": "Faire porter le retour sur ce qui revient à l’esprit : chez Karim ou avec Yasmine, la légende inachevée revient alors que les diapositives terminées ne reviennent pas ; la note « Demain : vérifier… » sert alors de point d’arrêt."
+        },
+        {
+          "severity": "mineur",
+          "type": "comprehension",
+          "quote": "Elle sait que Julie lui a envoyé le chiffre.",
+          "problem": "Julie, présente dans tout le parcours, n’est pas présentée (rôle dans l’équipe).",
+          "fix": "« Julie, chargée d’études dans son équipe, lui a envoyé le chiffre. »"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "file": "content/posts/comprendre-et-maitriser-ses-emotions/frustration-avec-ses-enfants-comprendre-emotions.md",
+      "focus": "Frustration parentale : crier sur Yasmine pour un paquet de farine",
+      "structure": {
+        "scene": "ok",
+        "concept": "ok",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "ok",
+        "conclusion": "ok",
+        "proches": "ok"
+      },
+      "comprehension": 5,
+      "comprehension_note": "Scène très claire : le geste de Yasmine, le cri, la cuisine rangée seule, puis l’excuse et la spatule rendue. Le lien avec la frustration est direct.",
+      "issues": [
+        {
+          "severity": "majeur",
+          "type": "proches",
+          "quote": "Si Karim apprend que le gâteau s’est arrêté après le paquet de farine renversé, il peut demander à Nadia si elle a besoin d’un coup de main en cuisine.",
+          "problem": "Karim est l’ex-conjoint en garde alternée (épisode 1) ; il n’est pas dans la maison et ne peut pas « s’occuper du dîner pendant que tu vas voir Yasmine ». L’adulte qui pourrait aider sur place serait Antoine.",
+          "fix": "Remplacer Karim par Antoine, ou par un geste à distance réaliste de Karim."
+        },
+        {
+          "severity": "mineur",
+          "type": "trame",
+          "quote": "Le chemin vers une parentalité plus sereine n'est pas une ligne droite vers la perfection",
+          "problem": "Paragraphe générique, sans lien avec la scène.",
+          "fix": "Le réduire à une phrase reliée à la spatule rendue à Yasmine."
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "file": "content/posts/sortir-de-ses-schemas-repetitifs/exigences-elevees-critique-excessive-au-travail.md",
+      "focus": "Exigences élevées et critique excessive : la virgule avant le chiffre dans le rapport de Julie",
+      "structure": {
+        "scene": "ok",
+        "concept": "ok",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "ok",
+        "conclusion": "ok",
+        "proches": "ok"
+      },
+      "comprehension": 4,
+      "comprehension_note": "Le rapport, le brouillon « encore un manque de rigueur » effacé et le document laissé à Julie forment une scène et un retour clairs ; le souvenir d’enfance repose sur une Fatima non présentée.",
+      "issues": [
+        {
+          "severity": "majeur",
+          "type": "comprehension",
+          "quote": "Fatima avait regardé la feuille et demandé où étaient les deux autres points.",
+          "problem": "Fatima n’est pas présentée ; le lecteur ne sait pas qu’il s’agit de la mère de Nadia, et c’est la clé du schéma.",
+          "fix": "« Fatima, sa mère, avait regardé la feuille… »."
+        },
+        {
+          "severity": "mineur",
+          "type": "trame",
+          "quote": "Cela ne suffit pas à conclure à un effet Zeigarnik.",
+          "problem": "Résidu de l’épisode 1, hors sujet ici.",
+          "fix": "Supprimer."
+        },
+        {
+          "severity": "mineur",
+          "type": "lien_concept",
+          "quote": "Elle traite ses collègues comme des rouages d'une machine",
+          "problem": "Exagération contredite par la scène, où elle efface sa remarque et laisse Julie décider.",
+          "fix": "Aligner sur la scène : « son premier réflexe est de pointer le défaut avant le résultat »."
+        },
+        {
+          "severity": "mineur",
+          "type": "trame",
+          "quote": "Sur une feuille, créez deux colonnes.",
+          "problem": "La technique 1 est écrite deux fois (prose puis Objectif/Exercice).",
+          "fix": "Garder seulement la version Objectif/Exercice."
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "file": "content/posts/reprendre-le-controle-de-ses-pensees/biais-statu-quo-decision-importante-psychologie.md",
+      "focus": "Biais du statu quo : comparer son poste actuel et l’offre d’une scale-up",
+      "structure": {
+        "scene": "ok",
+        "concept": "ok",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "ok",
+        "conclusion": "ok",
+        "proches": "ok"
+      },
+      "comprehension": 5,
+      "comprehension_note": "Le salaire recopié, la colonne « tard tous les soirs » qu’elle n’ose pas écrire et l’appel au recruteur illustrent précisément le concept ; la fin (attendre les réponses) est assumée.",
+      "issues": [
+        {
+          "severity": "mineur",
+          "type": "comprehension",
+          "quote": "Le salaire de la scale-up tient sur une ligne.",
+          "problem": "L’offre apparaît sans introduction ; on comprend peu à peu qu’il s’agit d’une proposition d’embauche.",
+          "fix": "« L’offre de la scale-up est arrivée hier. Le salaire tient sur une ligne. »"
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "file": "content/posts/reprendre-le-controle-de-ses-pensees/illusion-de-controle-avec-ses-enfants-parentalite.md",
+      "focus": "Illusion de contrôle : le programme d’anniversaire et le pot de perles renversé",
+      "structure": {
+        "scene": "ok",
+        "concept": "faible",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "ok",
+        "conclusion": "ok",
+        "proches": "ok"
+      },
+      "comprehension": 4,
+      "comprehension_note": "La scène est claire et la fin (deux bandes de couleurs) répond à l’enjeu, mais elle rejoue presque l’épisode 2.",
+      "issues": [
+        {
+          "severity": "majeur",
+          "type": "repetition",
+          "quote": "Elle s’entend presque redire la phrase du jour où le paquet de farine est tombé.",
+          "problem": "Même scène que l’épisode 2 (cuisine, gâteau, ingrédient renversé, Nadia prête à reprendre le pot puis le laisse à Yasmine) ; l’aspect « contrôle » est déjà nommé à l’épisode 2 (« L’exigence de perfection déplacée »).",
+          "fix": "Placer la scène pendant la fête elle-même et montrer une croyance d’influence sur un aléa (un jeu prévu à la minute, la météo d’un goûter dehors, la conviction que Yasmine sera heureuse si le programme est suivi)."
+        },
+        {
+          "severity": "mineur",
+          "type": "trame",
+          "quote": "Ce besoin de perfection est une armure qu'elle a héritée de l'éducation rigide de sa mère Fatima",
+          "problem": "Lien causal affirmé, contraire à la prudence du reste de l’article.",
+          "fix": "Supprimer ou formuler comme une hypothèse de Nadia."
+        },
+        {
+          "severity": "mineur",
+          "type": "lien_concept",
+          "quote": "Nadia, par exemple, ne conçoit pas un mercredi après-midi sans un programme structuré.",
+          "problem": "Généralisation non montrée par la scène.",
+          "fix": "La remplacer par le programme de la tablette effectivement visible."
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "file": "content/posts/reprendre-le-controle-de-ses-pensees/journaling-pensees-intimite-sexualite-nadia.md",
+      "focus": "Journaling de pensées : noter après une hésitation avec Antoine",
+      "structure": {
+        "scene": "ok",
+        "concept": "ok",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "ok",
+        "conclusion": "ok",
+        "proches": "ok"
+      },
+      "comprehension": 4,
+      "comprehension_note": "Le soir, le carnet, la phrase « Je devrais arriver à arrêter de penser à ça » puis la réponse à Antoine sont clairs et respectueux du consentement ; Antoine n’est jamais présenté.",
+      "issues": [
+        {
+          "severity": "majeur",
+          "type": "comprehension",
+          "quote": "Avant d’éteindre la lampe, Antoine lui a demandé si elle voulait se rapprocher.",
+          "problem": "Première apparition d’Antoine dans le parcours, sans indication qu’il est son compagnon ; le lecteur peut le confondre avec Karim.",
+          "fix": "« Antoine, son compagnon depuis deux ans, … »."
+        },
+        {
+          "severity": "mineur",
+          "type": "trame",
+          "quote": "par exemple : Antoine a posé sa main sur mon épaule",
+          "problem": "L’exemple ABC décrit un autre événement que la scène (une question, pas un geste).",
+          "fix": "Reprendre la question réelle d’Antoine."
+        },
+        {
+          "severity": "mineur",
+          "type": "lien_concept",
+          "quote": "Nadia, en relisant ses notes, s'aperçoit que l'exigence de sa mère Fatima résonne encore en elle, même sous la couette.",
+          "problem": "Affirmation d’origine que le texte récuse quelques lignes plus bas.",
+          "fix": "Retirer la référence à Fatima ou la formuler comme une hypothèse."
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "file": "content/posts/reprendre-le-controle-de-ses-pensees/biais-de-cadrage-decision-importante-nadia.md",
+      "focus": "Biais de cadrage : « 80 % conservé » et « 20 % perdu » en réunion",
+      "structure": {
+        "scene": "ok",
+        "concept": "ok",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "ok",
+        "conclusion": "ok",
+        "proches": "ok"
+      },
+      "comprehension": 4,
+      "comprehension_note": "Les deux graphiques et les deux mots notés dans le carnet rendent le cadrage visible ; on comprend mal qui sont Mathieu et le directeur financier.",
+      "issues": [
+        {
+          "severity": "mineur",
+          "type": "comprehension",
+          "quote": "Mathieu veut savoir s’ils peuvent conserver le créneau de lancement.",
+          "problem": "Mathieu n’est pas présenté (rôle) et l’on ne sait pas s’il est le « directeur financier » cité au retour.",
+          "fix": "« Mathieu, le chef de projet du lancement, … »."
+        },
+        {
+          "severity": "mineur",
+          "type": "continuite",
+          "quote": "En examinant une promotion, Nadia peut prendre au sérieux le temps passé avec Yasmine",
+          "problem": "Il s’agit d’une offre dans une autre entreprise (épisode 4), pas d’une promotion.",
+          "fix": "« En examinant l’offre de la scale-up, … »."
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "file": "content/posts/comprendre-et-maitriser-ses-emotions/remords-en-famille-comprendre-et-agir.md",
+      "focus": "Remords envers sa mère après une remarque blessante au dîner",
+      "structure": {
+        "scene": "ok",
+        "concept": "ok",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "ok",
+        "conclusion": "ok",
+        "proches": "ok"
+      },
+      "comprehension": 4,
+      "comprehension_note": "Le gilet oublié, le souvenir du reproche et l’appel d’excuse sont clairs ; Fatima est présentée et garde sa liberté de réponse.",
+      "issues": [
+        {
+          "severity": "mineur",
+          "type": "comprehension",
+          "quote": "Yasmine avait regardé sa grand-mère avant de lui tendre elle-même le verre vide.",
+          "problem": "Pronom ambigu : on ne sait pas à qui Yasmine tend le verre.",
+          "fix": "« … avant de tendre elle-même son verre vide à Fatima. »"
+        },
+        {
+          "severity": "mineur",
+          "type": "continuite",
+          "quote": "Ce besoin de tout lisser rappelle son obsession pour le tableur Excel lors de l'anniversaire de sa fille",
+          "problem": "À l’épisode 5, il s’agit d’un programme sur tablette, pas d’un tableur ; la parenthèse sur sa « nouvelle vie de divorcée » est plaquée.",
+          "fix": "Supprimer la phrase ou parler du programme de la tablette."
+        },
+        {
+          "severity": "mineur",
+          "type": "continuite",
+          "quote": "Elle se sent responsable du bonheur de sa mère, un fardeau qu'elle porte depuis ses dix ans",
+          "problem": "Biographie inventée qui ne correspond pas au souvenir de l’épisode 3 (exigence sur les notes).",
+          "fix": "Supprimer ou relier au souvenir du dix-huit en mathématiques."
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "file": "content/posts/reprendre-le-controle-de-ses-pensees/illusion-de-transparence-interactions-sociales-psychologie.md",
+      "focus": "Illusion de transparence : croire que tout le comité voit son trou de mémoire",
+      "structure": {
+        "scene": "ok",
+        "concept": "ok",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "ok",
+        "conclusion": "ok",
+        "proches": "ok"
+      },
+      "comprehension": 4,
+      "comprehension_note": "Le blanc entre les diapositives, le stylo de Mathieu qui s’arrête et le retour limité de Mathieu illustrent bien le concept.",
+      "issues": [
+        {
+          "severity": "majeur",
+          "type": "continuite",
+          "quote": "Nadia se rappelle comment, quelques semaines plus tôt, elle avait failli refuser une opportunité de direction générale par peur de ne pas paraître assez solide",
+          "problem": "Contredit l’épisode 4 : l’offre était un poste dans une scale-up, examiné pour ses horaires, jamais une direction générale refusée par peur.",
+          "fix": "Supprimer ou réécrire : « Devant l’offre de la scale-up, elle s’était demandé si le recruteur avait vu son hésitation. »"
+        },
+        {
+          "severity": "mineur",
+          "type": "lien_concept",
+          "quote": "une image qu'elle s'efforce de maintenir depuis son enfance pour satisfaire les standards de sa mère",
+          "problem": "Origine affirmée sans appui.",
+          "fix": "Supprimer la fin de phrase."
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "file": "content/posts/reprendre-le-controle-de-ses-pensees/effet-de-primaute-en-tant-que-manager.md",
+      "focus": "Effet de primauté en entretien d’embauche",
+      "structure": {
+        "scene": "ok",
+        "concept": "ok",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "ok",
+        "conclusion": "ok",
+        "proches": "ok"
+      },
+      "comprehension": 4,
+      "comprehension_note": "Le mot « hésitant » écrit avant la première question, la case cochée pour Sarah et la grille remise entre les fiches montrent nettement le concept ; le poste recruté n’est pas dit.",
+      "issues": [
+        {
+          "severity": "mineur",
+          "type": "comprehension",
+          "quote": "Marc accroche du pied la chaise de l’entretien.",
+          "problem": "On ne sait pas pour quel poste Nadia recrute.",
+          "fix": "« Pour le poste de chef de produit, Marc accroche… »."
+        },
+        {
+          "severity": "mineur",
+          "type": "lien_concept",
+          "quote": "Chercher surtout à confirmer sa première impression, comme le fait Nadia, constitue un biais de confirmation.",
+          "problem": "Mélange deux concepts au moment de définir celui de l’épisode.",
+          "fix": "« La première impression peut ensuite orienter les questions, ce qui renforce son poids. »"
+        },
+        {
+          "severity": "mineur",
+          "type": "trame",
+          "quote": "L’objectif est de comparer une impression et les faits pertinents pour le poste.",
+          "problem": "Les techniques 1 et 3 ne suivent pas la forme Objectif / Exercice / Utilité.",
+          "fix": "Restituer la forme commune."
+        }
+      ]
+    },
+    {
+      "number": 11,
+      "file": "content/posts/sortir-de-ses-schemas-repetitifs/narcissisme-sain-pathologique-travail.md",
+      "focus": "Narcissisme sain ou pathologique : défendre sa décision de calendrier avant d’écouter",
+      "structure": {
+        "scene": "ok",
+        "concept": "faible",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "ok",
+        "conclusion": "ok",
+        "proches": "ok"
+      },
+      "comprehension": 3,
+      "comprehension_note": "La réunion se comprend, mais ce Marc semble être le candidat de l’épisode précédent, la scène n’illustre pas le narcissisme et la fin sur le message de Karim reste opaque.",
+      "issues": [
+        {
+          "severity": "majeur",
+          "type": "continuite",
+          "quote": "Marc, de l’équipe produit, montre les deux premières lignes du calendrier.",
+          "problem": "À l’épisode 10, Marc était un candidat en entretien ; même prénom, autre rôle, sans explication.",
+          "fix": "Renommer le collègue (ex. « Hugo, de l’équipe produit ») ou indiquer que Marc a été recruté."
+        },
+        {
+          "severity": "majeur",
+          "type": "lien_concept",
+          "quote": "L'histoire de Nadia porte sur sa façon de travailler et n'établit pas qu'elle présente un trouble.",
+          "problem": "La scène (commentaire non lu, choix défendu) ne montre ni trait narcissique ni narcissisme sain ; elle répète l’épisode 3 (délégation à Julie, reprise du fichier).",
+          "fix": "Montrer un aspect réel : besoin de reconnaissance (Nadia présente à la direction comme sienne une idée de Julie) ou blessure à une critique publique, puis ce qu’elle en fait."
+        },
+        {
+          "severity": "mineur",
+          "type": "comprehension",
+          "quote": "Nadia lui dit oui, puis revient à la proposition de Karim sans présumer de ce qu’il a voulu lui faire comprendre.",
+          "problem": "La proposition de Karim n’est jamais expliquée ; la fin est floue et sans lien avec le concept.",
+          "fix": "Dire ce que propose Karim (échange de week-end) et en quoi Nadia l’écoute sans se défendre, ou retirer ce paragraphe."
+        },
+        {
+          "severity": "mineur",
+          "type": "trame",
+          "quote": "Elle a déjà appris, depuis l'épisode du tableur d'anniversaire et l'illusion de contrôle",
+          "problem": "Renvoi méta à un autre article.",
+          "fix": "Supprimer."
+        }
+      ]
+    },
+    {
+      "number": 12,
+      "file": "content/posts/comprendre-et-maitriser-ses-emotions/coherence-cardiaque-au-travail-nadia.md",
+      "focus": "Cohérence cardiaque : une pause respiratoire après avoir perdu le fil en réunion",
+      "structure": {
+        "scene": "faible",
+        "concept": "ok",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "ok",
+        "conclusion": "ok",
+        "proches": "ok"
+      },
+      "comprehension": 3,
+      "comprehension_note": "La pause sur le palier et la fin (un point de suivi retiré, la réponse de Karim) sont claires, mais l’ouverture enchaîne agenda, budget, Karim et Marc sans dire où l’on est ni ce qui est en jeu.",
+      "issues": [
+        {
+          "severity": "majeur",
+          "type": "comprehension",
+          "quote": "Mathieu en est au budget du lancement quand Nadia trouve enfin un créneau commun dans son agenda.",
+          "problem": "On ne sait ni quelle réunion se tient, ni à quoi sert le créneau, ni le lien avec la réponse attendue de Karim.",
+          "fix": "« Pendant le comité, Nadia cherche dans son agenda un créneau pour une réunion de suivi, tout en attendant que Karim lui dise s’il peut récupérer Yasmine. »"
+        },
+        {
+          "severity": "majeur",
+          "type": "repetition",
+          "quote": "Marc revient sur les dates des campagnes. Nadia a déjà préparé la réponse qu’elle lui donnerait s’il contestait encore leur ordre.",
+          "problem": "Reprise presque identique de l’épisode 11 (Marc, ordre des campagnes, Julie qui vérifie le calendrier).",
+          "fix": "Choisir un autre déclencheur de la montée du stress (budget contesté, appel de l’école)."
+        }
+      ]
+    }
+  ],
+  "missing_or_extra": "Douze épisodes présents, aucun manquant ni surnuméraire. Recentrages proposés : l’épisode 5 sort de la cuisine pour ne pas doubler l’épisode 2 ; l’épisode 11 est réécrit sur un aspect réel du narcissisme (besoin de reconnaissance) pour ne pas doubler l’épisode 3 ; l’épisode 12 change de déclencheur. Il faudrait aussi qu’un épisode tardif (9 ou 12) règle la décision sur l’offre de la scale-up (refus, acceptation ou négociation d’horaires), seul arc ouvert de la série.",
+  "verdict": "corrections_majeures"
+}

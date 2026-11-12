@@ -1,0 +1,436 @@
+{
+ "character_id": "mei",
+ "type": "origine",
+ "auditor": "audit_o5",
+ "audited_on": "2026-11-12",
+ "persona": {
+  "age_metier_proches": "22 ans (née en juillet 2003 ; « 22 ans » dans les descriptions), étudiante en illustration dans une école d’art, vit en résidence étudiante. Parents Li (mère, implicite) et Wei (père) qui tiennent un restaurant où elle aide au service et qui espèrent qu’elle fasse médecine. Julien (petit ami « depuis un mois » selon la fiche, étudiant en gestion, ép. 8), Océane (camarade d’atelier), M. Dubois (professeur et évaluateur).",
+  "arc_summary": "Mei passe d’un embarras au vernissage (ép. 1) et d’un silence face à ses parents (ép. 2) à des scènes d’atelier où elle se croit observée (ép. 3) puis négocie avec M. Dubois (ép. 4, 6, 9). Elle apprend à dire ce qu’elle veut avec Julien (ép. 5), repère l’influence des réseaux (ép. 7, 11), cherche sa place dans la critique collective (ép. 8) et s’émerveille à Florence (ép. 10). Les scènes d’ouverture et de retour sont généralement sobres et concrètes ; le fil du bleu et de la planche est bien suivi.",
+  "arc_issues": [
+   "Trois épisodes sur onze (4 assujettissement, 6 honte, 9 peur) reprennent la même situation : Mei hésite devant M. Dubois à propos d’une planche, puis lui pose une question sur ce qu’il attend ou sur le bleu. Quatre retours se terminent par « Mei montre sa planche à Océane » (ép. 1, 3, 6, 8).",
+   "Le fil familial (question de Wei sur la médecine, photo entière gardée pour Li) ouvert à l’ép. 2 n’est jamais repris : les parents ne réapparaissent qu’en souvenir.",
+   "Les sections « manifestations » et les conclusions conservent un ancien gabarit avec des exemples hors scène (apéritif, cafétéria, couple parfait, migraine) et des surinterprétations. On y lit « crises d’embarras », « vestige de son faux self », « performance de docilité », « l’enfant qui doit obéir », qui contredisent les mises en garde des définitions et parfois les épisodes précédents (ép. 9 contre ép. 4 et 5).",
+   "Les épisodes tardifs résument les précédents par des renvois méta (« identifié le 19 avril », « son travail sur la honte ») qui cassent la fiction.",
+   "Les rubriques proches des ép. 4 et 9 s’adressent au professeur, qui n’est pas un proche."
+  ]
+ },
+ "episodes": [
+  {
+   "number": 1,
+   "file": "content/posts/comprendre-et-maitriser-ses-emotions/embarras-en-societe-interactions.md",
+   "focus": "embarras en société (vernissage, rire entendu après une réponse hésitante sur son propre dessin)",
+   "structure": {
+    "scene": "faible",
+    "concept": "ok",
+    "manifestations": "faible",
+    "techniques": "ok",
+    "retour": "ok",
+    "conclusion": "faible",
+    "proches": "ok"
+   },
+   "comprehension": 3,
+   "comprehension_note": "Le feuillet plié de travers et la phrase finale sur le gris changé au dernier moment sont réussis, mais l’enchaînement d’ouverture (qui demande quoi, à quel moment Mei se désigne) est difficile à suivre. Les manifestations inventent des situations hors de la scène.",
+   "issues": [
+    {
+     "severity": "majeur",
+     "type": "comprehension",
+     "quote": "Elle demande à Mei où se trouve l’artiste du dessin devant elles. Mei lui montre la planche du bout du doigt. Il lui vient d’abord une réponse sur le numéro, puis elle comprend qu’on attend un nom.",
+     "problem": "Chronologie confuse : Mei montre la planche (et non elle-même), puis répond sur un numéro qu’on ne lit pas, puis la visiteuse dit « Ah, c’est vous ? ». Le lecteur ne comprend pas l’hésitation qui provoque l’embarras.",
+     "fix": "Réécrire en trois temps : la visiteuse demande qui a fait ce dessin ; Mei répond « le numéro 12 » avant de dire « c’est moi » ; « Ah, c’est vous ? », un rire derrière elles."
+    },
+    {
+     "severity": "majeur",
+     "type": "trame",
+     "quote": "Par exemple, lors d'un apéritif, si quelqu'un raconte une anecdote maladroite sur elle",
+     "problem": "Les manifestations s’appuient sur des scènes absentes de l’épisode (apéritif, tasse, présentation en petit comité, réunion, boutade) et affirment un tempérament (« timide par tempérament ») non montré.",
+     "fix": "Supprimer ces paragraphes génériques et garder pour chaque sous-partie les deux exemples tirés du vernissage."
+    },
+    {
+     "severity": "mineur",
+     "type": "comprehension",
+     "quote": "échangez avec Océane sur ce qu’elle a entendu",
+     "problem": "Océane est citée avant d’apparaître et n’est jamais présentée.",
+     "fix": "Présenter Océane dans le retour (« Océane, sa camarade d’atelier ») et ne la citer dans la technique qu’ensuite."
+    },
+    {
+     "severity": "mineur",
+     "type": "trame",
+     "quote": "l'exposition progressive",
+     "problem": "La conclusion annonce « l’exposition progressive » alors que la technique 3 précise « Aucune progression n’est imposée ».",
+     "fix": "Remplacer par « un petit pas choisi »."
+    }
+   ]
+  },
+  {
+   "number": 2,
+   "file": "content/posts/sortir-de-ses-schemas-repetitifs/faux-self-winnicott-parents.md",
+   "focus": "faux self (Winnicott) : réponse conforme au père sur la médecine, travail personnel tu",
+   "structure": {
+    "scene": "ok",
+    "concept": "ok",
+    "manifestations": "faible",
+    "techniques": "ok",
+    "retour": "ok",
+    "conclusion": "faible",
+    "proches": "ok"
+   },
+   "comprehension": 3,
+   "comprehension_note": "Le ticket de la table six, la réserve et la photo recadrée envoyée à Li forment une scène fine. Mais Li n’est jamais identifiée comme la mère, le restaurant familial reste implicite et les manifestations surinterprètent.",
+   "issues": [
+    {
+     "severity": "majeur",
+     "type": "comprehension",
+     "quote": "Li lui demande aussi de prendre deux bols dans la réserve.",
+     "problem": "Rien n’indique que Li est sa mère ; la seule piste (« au cas où sa mère voudrait la voir ») arrive à la dernière ligne et reste ambiguë. Le cadre (restaurant des parents, Mei au service) n’est pas dit.",
+     "fix": "Écrire dès le premier paragraphe « Au restaurant de ses parents… » et « Li, sa mère, lui demande… »."
+    },
+    {
+     "severity": "majeur",
+     "type": "clinique",
+     "quote": "C'est une stratégie de survie relationnelle.",
+     "problem": "Surinterprétation (avec « crises d’embarras », « pour que son identité artistique soit tolérée », carnet laissé derrière le comptoir) : elle contredit la définition (« ne désigne ni un diagnostic ni une preuve sur la qualité du lien parental ») et invente des faits hors scène.",
+     "fix": "Supprimer ces formules et les faits inventés ; s’en tenir aux deux exemples de la scène dans chaque sous-partie."
+    },
+    {
+     "severity": "mineur",
+     "type": "trame",
+     "quote": "Réconcilier le vrai self et le faux self face à ses parents",
+     "problem": "La conclusion parle de deux selfs à réconcilier, alors que l’épisode écarte « l’existence de deux identités distinctes ».",
+     "fix": "Conclure sur la photo recadrée envoyée et la question de Li."
+    }
+   ]
+  },
+  {
+   "number": 3,
+   "file": "content/posts/reprendre-le-controle-de-ses-pensees/effet-spotlight-ecole-etudes.md",
+   "focus": "effet spotlight en atelier (bavure qu’elle croit vue de tous)",
+   "structure": {
+    "scene": "ok",
+    "concept": "faible",
+    "manifestations": "faible",
+    "techniques": "ok",
+    "retour": "ok",
+    "conclusion": "ok",
+    "proches": "ok"
+   },
+   "comprehension": 4,
+   "comprehension_note": "La bavure à quelques millimètres de la manche et les pas imaginés derrière elle illustrent parfaitement l’effet ; Océane qui parle du contraste sans voir la bavure est un très bon retour. L’explication attribue en revanche une origine non montrée.",
+   "issues": [
+    {
+     "severity": "majeur",
+     "type": "clinique",
+     "quote": "Ce besoin de se cacher est un vestige de son faux self, cette armure de docilité qu'elle a longtemps portée pour satisfaire les attentes médicales de ses parents",
+     "problem": "Explication causale par l’histoire familiale, que l’ép. 2 refusait explicitement ; ajoute un passé (« longtemps portée ») jamais raconté.",
+     "fix": "Supprimer la phrase."
+    },
+    {
+     "severity": "mineur",
+     "type": "clinique",
+     "quote": "ils alimentent une croyance stable selon laquelle elle est constamment scrutée",
+     "problem": "Généralisation qui contredit la définition (« écart moyen dans des situations précises »).",
+     "fix": "Remplacer par « Mei reconnaît une impression déjà ressentie au vernissage »."
+    }
+   ]
+  },
+  {
+   "number": 4,
+   "file": "content/posts/sortir-de-ses-schemas-repetitifs/assujettissement-face-a-l-autorite-se-liberer.md",
+   "focus": "schéma d’assujettissement face à un professeur (présenter d’abord la version qu’elle préfère le moins)",
+   "structure": {
+    "scene": "ok",
+    "concept": "ok",
+    "manifestations": "faible",
+    "techniques": "ok",
+    "retour": "ok",
+    "conclusion": "faible",
+    "proches": "faible"
+   },
+   "comprehension": 4,
+   "comprehension_note": "Les deux planches superposées, la ligne bleue tournée vers le professeur et la question « on voit toujours où commence le bras ? » forment une scène claire et une décision nette. Les manifestations exagèrent et contredisent ce que montre la scène.",
+   "issues": [
+    {
+     "severity": "majeur",
+     "type": "trame",
+     "quote": "Mei, par exemple, accepte des corrections qu'elle juge absurdes sur ses dessins simplement parce que c'est le professeur qui les suggère.",
+     "problem": "Fait inventé et exagérations (« peur panique », « hyper-vigilance constante », « dégoût pour son propre travail », « passifs-agressifs ») contraires à la scène, où Mei finit par défendre son bleu.",
+     "fix": "Supprimer ces phrases génériques et conserver les deux exemples de la scène."
+    },
+    {
+     "severity": "mineur",
+     "type": "clinique",
+     "quote": "Vous n'êtes plus l'enfant qui doit obéir pour exister",
+     "problem": "Présuppose une origine infantile que la définition refuse d’établir.",
+     "fix": "Conclure sur la question posée à M. Dubois et le critère demandé."
+    },
+    {
+     "severity": "mineur",
+     "type": "trame",
+     "quote": "Mei peut proposer un autre lieu de déjeuner à Océane.",
+     "problem": "Exemple hors scène sans rapport avec le professeur.",
+     "fix": "Remplacer par une préférence liée à la planche (garder une partie du bleu)."
+    },
+    {
+     "severity": "mineur",
+     "type": "proches",
+     "quote": "M. Dubois peut laisser les deux planches côte à côte",
+     "problem": "La rubrique proches s’adresse au professeur, qui n’est pas un proche.",
+     "fix": "La réécrire du point de vue d’Océane ou de Julien, à qui Mei raconte le rendez-vous."
+    }
+   ]
+  },
+  {
+   "number": 5,
+   "file": "content/posts/sortir-de-ses-schemas-repetitifs/fusion-personnalite-atrophiee-intimite-sexualite.md",
+   "focus": "effacement de ses préférences et consentement dans l’intimité (proposition de soirée de Julien)",
+   "structure": {
+    "scene": "ok",
+    "concept": "ok",
+    "manifestations": "faible",
+    "techniques": "ok",
+    "retour": "ok",
+    "conclusion": "ok",
+    "proches": "ok"
+   },
+   "comprehension": 4,
+   "comprehension_note": "Le message « J’adore ce réalisateur » effacé, la lampe sur le carnet et la phrase « Je ne suis pas sûre d’avoir envie d’autre chose » sont clairs et le consentement est bien traité. Julien n’est pas présenté et un intertitre ne correspond pas aux exemples.",
+   "issues": [
+    {
+     "severity": "mineur",
+     "type": "comprehension",
+     "quote": "Julien lui envoie l’affiche d’un film et propose de le regarder chez lui.",
+     "problem": "Julien n’est pas présenté (petit ami depuis peu, selon la fiche).",
+     "fix": "Écrire « Julien, avec qui elle sort depuis un mois, lui envoie… »."
+    },
+    {
+     "severity": "mineur",
+     "type": "lien_concept",
+     "quote": "Le retrait émotionnel après l'acte",
+     "problem": "L’intertitre évoque un rapport sexuel alors que les exemples parlent d’un thé et d’un temps pour dessiner ; décalage entre titre et contenu.",
+     "fix": "Renommer « Le besoin de temps à soi après un moment partagé »."
+    },
+    {
+     "severity": "mineur",
+     "type": "trame",
+     "quote": "Il s'infiltre dans les strates les plus profondes de la vie de couple",
+     "problem": "Dramatisation générique (« étouffer le désir ») hors de proportion pour une relation d’un mois et non montrée.",
+     "fix": "Supprimer le paragraphe d’introduction de la section."
+    }
+   ]
+  },
+  {
+   "number": 6,
+   "file": "content/posts/comprendre-et-maitriser-ses-emotions/honte-face-a-l-autorite-causes-profondes.md",
+   "focus": "honte face à l’autorité (annotation « intention ? » qui donne envie de cacher la planche)",
+   "structure": {
+    "scene": "ok",
+    "concept": "ok",
+    "manifestations": "ok",
+    "techniques": "ok",
+    "retour": "ok",
+    "conclusion": "ok",
+    "proches": "ok"
+   },
+   "comprehension": 4,
+   "comprehension_note": "La planche retournée devant Océane, l’attente que l’atelier se vide et la question finale à M. Dubois sont claires ; le raccord avec le coin aplati de l’ép. 4 est soigné. Une manifestation n’est pas présente dans la scène.",
+   "issues": [
+    {
+     "severity": "mineur",
+     "type": "lien_concept",
+     "quote": "Sous pression, Mei perd le fil, bafouille ou répond trop vite.",
+     "problem": "Aucun bafouillage dans la scène : les deux exemples sont hypothétiques (« elle pourrait »).",
+     "fix": "Remplacer la sous-partie par un signe présent dans la scène (vérifier l’horaire du professeur sans oser frapper)."
+    },
+    {
+     "severity": "mineur",
+     "type": "trame",
+     "quote": "Mei sent ses pieds sur le sol avant de frapper.",
+     "problem": "Elle ne frappe à aucune porte dans la scène ; la technique se rapporte à un moment non raconté.",
+     "fix": "Situer la technique devant la porte du bureau, moment ajouté au retour (« Elle frappe au bureau de M. Dubois »)."
+    }
+   ]
+  },
+  {
+   "number": 7,
+   "file": "content/posts/reprendre-le-controle-de-ses-pensees/effet-simple-exposition-reseaux-sociaux-mei.md",
+   "focus": "effet de simple exposition (publicité de logiciel devenue familière)",
+   "structure": {
+    "scene": "ok",
+    "concept": "ok",
+    "manifestations": "faible",
+    "techniques": "ok",
+    "retour": "ok",
+    "conclusion": "ok",
+    "proches": "ok"
+   },
+   "comprehension": 4,
+   "comprehension_note": "La démonstration reconnue avant même le geste, le bord d’aile gommé puis repris sont très clairs ; la fin (son coupé, retour à la planche) est nette. La première sous-partie se contredit elle-même.",
+   "issues": [
+    {
+     "severity": "majeur",
+     "type": "comprehension",
+     "quote": "Elle réalise que ce besoin de conformité numérique n'est qu'une extension du faux self qu'elle a construit pour satisfaire Li et Wei",
+     "problem": "Contredit la phrase qui précède (« La scène ne permet pas d’attribuer… ») ; plus loin, « ne démontre pas que la répétition est à l’origine de l’effet spotlight » mêle trois concepts sans lien. Passage incompréhensible pour le lecteur.",
+     "fix": "Supprimer les deux phrases (faux self, effet spotlight) et garder la question de Mei sur ses critères."
+    },
+    {
+     "severity": "mineur",
+     "type": "trame",
+     "quote": "Mei voit passer des vidéos sur ce que doit être un couple parfait.",
+     "problem": "Fait hors scène, sans exemple réel dans l’épisode.",
+     "fix": "Supprimer la sous-partie ou la relier à un élément de la scène (une seconde publicité réellement vue)."
+    }
+   ]
+  },
+  {
+   "number": 8,
+   "file": "content/posts/comprendre-et-maitriser-ses-emotions/sentiment-inadequation-ecole-etudes-hpi.md",
+   "focus": "sentiment d’inadéquation (ne pas trouver sa place dans une critique collective)",
+   "structure": {
+    "scene": "ok",
+    "concept": "ok",
+    "manifestations": "faible",
+    "techniques": "ok",
+    "retour": "ok",
+    "conclusion": "faible",
+    "proches": "ok"
+   },
+   "comprehension": 4,
+   "comprehension_note": "Le cadre qui coupe les pieds du personnage, la page tournée trop tôt et les trois rectangles dessinés montrent bien le décalage ; la fin (cinq minutes à deux avec Océane) est claire. Deux sous-parties reprennent un gabarit hors scène.",
+   "issues": [
+    {
+     "severity": "majeur",
+     "type": "trame",
+     "quote": "Dans les couloirs ou les cafétérias, l'inadéquation se traduit par une difficulté à se joindre aux conversations légères.",
+     "problem": "Paragraphes génériques (camouflage social, « code secret », « masque », hypersensibilité) issus d’un gabarit sur le haut potentiel que l’épisode écarte lui-même ; ils ne décrivent pas Mei.",
+     "fix": "Remplacer par l’explication des exemples réels (réponse à Julien, hésitation à proposer sa planche)."
+    },
+    {
+     "severity": "mineur",
+     "type": "repetition",
+     "quote": "« Tu regardes ma planche cinq minutes avec moi avant la critique ?",
+     "problem": "Quatrième retour qui se résout par un échange en tête-à-tête avec Océane (ép. 1, 3, 6, 8).",
+     "fix": "Varier la résolution : par exemple Mei montre ses trois cadres à tout le groupe, ou demande à l’enseignant un tour de parole."
+    }
+   ]
+  },
+  {
+   "number": 9,
+   "file": "content/posts/comprendre-et-maitriser-ses-emotions/peur-face-a-lautorite.md",
+   "focus": "peur face à l’autorité (laisser vide la ligne de remarques avant la note)",
+   "structure": {
+    "scene": "ok",
+    "concept": "ok",
+    "manifestations": "faible",
+    "techniques": "ok",
+    "retour": "ok",
+    "conclusion": "ok",
+    "proches": "faible"
+   },
+   "comprehension": 4,
+   "comprehension_note": "Le tiroir, la ligne « Remarques pour l’enseignant » laissée vide et les doigts sur la poignée sont précis ; la fin (question sur la note, solution qui garde le bleu) est claire. Mais c’est la troisième variante de la même scène avec M. Dubois, et les manifestations contredisent les épisodes précédents.",
+   "issues": [
+    {
+     "severity": "majeur",
+     "type": "repetition",
+     "quote": "« Sur quelle partie je dois travailler en priorité pour la note ? »",
+     "problem": "Même situation et même issue qu’aux ép. 4 (« connaître le critère d’évaluation », garder le bleu) et 6 (question à M. Dubois sur son annotation).",
+     "fix": "Fusionner peur et honte en un épisode, ou déplacer la peur vers une autre autorité (Wei au restaurant, jury de candidature, responsable de la résidence) et retirer la question sur le bleu déjà résolue."
+    },
+    {
+     "severity": "majeur",
+     "type": "continuite",
+     "quote": "Lors d'une critique, M. Dubois suggère d'éliminer une couleur qu'il juge trop personnelle, et Mei accepte sans proposer d'alternative",
+     "problem": "Contredit l’ép. 4, où elle demande à garder le bleu. De même, « elle s’oubliait pour mimer les désirs de l’autre, transformant sa vie en une performance de docilité » contredit l’ép. 5, où elle dit ce qu’elle veut à Julien.",
+     "fix": "Supprimer ces passages et s’en tenir aux exemples de la scène du tiroir."
+    },
+    {
+     "severity": "mineur",
+     "type": "trame",
+     "quote": "parfois une migraine sourde",
+     "problem": "Symptôme inventé, absent de toute scène.",
+     "fix": "Supprimer."
+    },
+    {
+     "severity": "mineur",
+     "type": "proches",
+     "quote": "Une fois qu’elle pose sa question, M. Dubois peut distinguer ce qu’il évaluera de ce qu’il suggère",
+     "problem": "La rubrique proches s’adresse au professeur.",
+     "fix": "Recentrer sur Océane ou une camarade qui l’accompagne au panneau des rendez-vous."
+    }
+   ]
+  },
+  {
+   "number": 10,
+   "file": "content/posts/comprendre-et-maitriser-ses-emotions/emerveillement-en-voyage-ou-en-expatriation-guide.md",
+   "focus": "émerveillement en voyage (lignes électriques depuis le train, coupole de Florence)",
+   "structure": {
+    "scene": "ok",
+    "concept": "ok",
+    "manifestations": "faible",
+    "techniques": "ok",
+    "retour": "ok",
+    "conclusion": "ok",
+    "proches": "ok"
+   },
+   "comprehension": 4,
+   "comprehension_note": "Le dessin des câbles qui fait manquer la gare surveillée et la bande d’ocre sous la coupole illustrent bien l’émerveillement ; le message à Julien clôt simplement. On ignore pourquoi Mei va à Florence.",
+   "issues": [
+    {
+     "severity": "mineur",
+     "type": "comprehension",
+     "quote": "Mei a enregistré trois fois l’adresse de son logement à Florence.",
+     "problem": "Le but du voyage (vacances, stage, visite d’école) et sa durée ne sont pas donnés.",
+     "fix": "Ajouter une phrase : « Elle part quatre jours dessiner les musées pendant les vacances de printemps, seule pour la première fois »."
+    },
+    {
+     "severity": "mineur",
+     "type": "clinique",
+     "quote": "Pour une personnalité comme Mei, habituée à tout anticiper par peur du jugement, ces manifestations sont des bouffées d'oxygène.",
+     "problem": "Étiquette globale sur sa personnalité, non fondée sur la scène.",
+     "fix": "Supprimer ou remplacer par « Mei, qui surveillait ses correspondances… »."
+    }
+   ]
+  },
+  {
+   "number": 11,
+   "file": "content/posts/reprendre-le-controle-de-ses-pensees/effet-verite-illusoire-reseaux-sociaux.md",
+   "focus": "effet de vérité illusoire (règle des six pages répétée sur les réseaux)",
+   "structure": {
+    "scene": "ok",
+    "concept": "ok",
+    "manifestations": "ok",
+    "techniques": "faible",
+    "retour": "ok",
+    "conclusion": "ok",
+    "proches": "ok"
+   },
+   "comprehension": 4,
+   "comprehension_note": "La buanderie, la règle des six pages et « trois conseils ou trois fois le même » sont très clairs ; le retour (site du studio, aucune limite trouvée, planches gardées) est une bonne fin de série. Les techniques contiennent des rappels méta qui cassent la fiction.",
+   "issues": [
+    {
+     "severity": "majeur",
+     "type": "comprehension",
+     "quote": "Elle se rappelle de l'effet de simple exposition qu'elle a identifié le 19 avril",
+     "problem": "Renvoi à la date de publication d’un autre article ; avec « depuis son travail sur la honte face à l’autorité », le personnage parle comme une table des matières.",
+     "fix": "Supprimer ces rappels ou les remplacer par un souvenir de scène (la publicité du logiciel)."
+    },
+    {
+     "severity": "mineur",
+     "type": "continuite",
+     "quote": "l'expérience du petit soi face à l'immensité des Alpes",
+     "problem": "L’ép. 10 montre des versants depuis le train et une coupole à Florence, pas une expérience face aux Alpes.",
+     "fix": "Supprimer la phrase ou renvoyer à la coupole."
+    },
+    {
+     "severity": "mineur",
+     "type": "comprehension",
+     "quote": "lors d'une séance de consultation",
+     "problem": "Expression incompréhensible (consultation de quoi ?).",
+     "fix": "Écrire « pendant qu’elle fait défiler son fil »."
+    }
+   ]
+  }
+ ],
+ "missing_or_extra": "Parcours de 11 épisodes : il en manque un, et un épisode fait doublon. Déjà traités : embarras, honte, inadéquation, peur, émerveillement (émotions) ; faux self, assujettissement, fusion/consentement (schémas) ; effet spotlight, simple exposition, vérité illusoire (biais). Doublon : les ép. 4, 6 et 9 rejouent la même scène avec M. Dubois. Fusionner « peur » avec « honte » (ép. 6), ou réécrire l’ép. 9 avec une autre figure d’autorité (Wei au restaurant ou un jury de candidature). Proposition pour le 12e épisode : le schéma « recherche d’approbation et de reconnaissance » (Young), distinct de l’assujettissement (céder par crainte d’une réaction hostile). Scène possible au restaurant familial : Mei montre enfin à Li et Wei la planche entière gardée dans ses favoris depuis l’ép. 2 et répond à la question sur la médecine sans attendre leur approbation. Cela fermerait le fil familial laissé ouvert depuis l’ép. 2 et rééquilibrerait la série (6 schémas/biais pour 5 émotions).",
+ "verdict": "corrections_majeures"
+}
