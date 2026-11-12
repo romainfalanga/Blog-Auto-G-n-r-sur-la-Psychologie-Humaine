@@ -1,0 +1,347 @@
+{
+  "character_id": "blandine",
+  "type": "clinique",
+  "auditor": "audit_c4",
+  "audited_on": "2026-11-12",
+  "persona": {
+    "age_metier_proches": "Blandine, 49 ans, relectrice de traductions indépendante (commandes d’Esther, éditrice), suivie par une thérapeute pour un trouble du deuil prolongé depuis la mort de sa sœur Jeanne, avec qui elle chantait au chœur. Proches : Yannis (ami, un fils), Mireille (lien de parenté jamais précisé), un cousin sans prénom ; au chœur, Léon (chef), Alice (archives) et Malo (basse).",
+    "arc_summary": "Du dossier noir à l’élastique bleu ouvert au dîner jusqu’au don de deux partitions (Le Pont, Les Fenêtres) aux archives, la série suit une seule question concrète : que faire des feuilles annotées par Jeanne. Blandine passe de la demande prudente à Léon, par l’annexe de la bibliothèque, le report devant la place, puis l’écoute depuis la chaise près de la porte, pour finir par déposer deux originaux et garder Les Saules. Le fil professionnel (guide de jardins, puis légendes) et le suivi thérapeutique avancent en parallèle de façon cohérente. La chronologie (lundi annexe, jeudi report, lundi Alice et Malo, jeudi écoute, vendredi dépôt) tient.",
+    "arc_issues": [
+      "Mireille n’est jamais présentée (sœur, cousine, tante ?) alors qu’elle porte l’épisode 3 et que « leur mère » laisse supposer qu’elle est aussi la sœur de Jeanne ; le cousin reste anonyme dans les épisodes 3, 6 et 11.",
+      "Les titres Les Saules, Le Pont et Les Fenêtres apparaissent dès les épisodes 1-2 sans qu’on dise que ce sont des pièces du répertoire du chœur.",
+      "Trois épisodes (4, 6, 10) reposent sur la coexistence plaisir/manque ; les angles diffèrent (ambivalence face au don, culpabilité, intérêt retrouvé) mais la nuance mérite d’être tenue dans les titres et explications.",
+      "Des aspects documentés du trouble (difficulté à accepter la mort, colère, sentiment d’avoir perdu une part de soi, engourdissement émotionnel) ne sont pas abordés ; la série reste centrée sur manque, évitement et retentissement."
+    ]
+  },
+  "episodes": [
+    {
+      "number": 1,
+      "file": "content/posts/comprendre-et-maitriser-ses-emotions/blandine-elastique-bleu.md",
+      "focus": "Manque persistant de la personne décédée déclenché par un détail ordinaire (l’écriture de Jeanne sur une partition)",
+      "structure": {
+        "scene": "ok",
+        "concept": "ok",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "ok",
+        "conclusion": "ok",
+        "proches": "ok"
+      },
+      "comprehension": 4,
+      "comprehension_note": "La scène est très lisible : la casserole qui déborde, la feuille retenue du pied, la question « de quelle casserole il s’agissait » rendent le manque concret. Léon est présenté comme chef de chœur ; en revanche « la marge des Saules » est opaque pour un lecteur qui ignore qu’il s’agit d’un chant.",
+      "issues": [
+        {
+          "severity": "mineur",
+          "type": "comprehension",
+          "quote": "Blandine reconnaît la marge des Saules et le trait de crayon qui coupe deux mesures.",
+          "problem": "« Les Saules » n’est pas identifié comme titre d’une pièce chantée par le chœur ; le lecteur peut croire à un lieu.",
+          "fix": "Écrire « la marge des Saules, un chant qu’elles travaillaient au chœur, »."
+        },
+        {
+          "severity": "mineur",
+          "type": "trame",
+          "quote": "Puis elle pose le téléphone sur le buffet et replace la feuille sous l’élastique bleu.",
+          "problem": "Le retour ne dit pas si le message à Léon est envoyé ; la conclusion « peut partir » laisse le dénouement au conditionnel.",
+          "fix": "Ajouter « Elle envoie le message » avant de poser le téléphone."
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "file": "content/posts/comprendre-et-maitriser-ses-emotions/blandine-phrase-sur-les-branches.md",
+      "focus": "Retentissement professionnel : l’effort caché pour tenir une livraison (deux nuits de rattrapage)",
+      "structure": {
+        "scene": "ok",
+        "concept": "ok",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "ok",
+        "conclusion": "ok",
+        "proches": "ok"
+      },
+      "comprehension": 4,
+      "comprehension_note": "L’enjeu (midi, la maquettiste, douze pages) est clair et la phrase sur les branches basses montre le métier. Le basculement vers le banc où Jeanne l’attendait explique bien la page qui n’avance pas. Mireille surgit en dernière ligne sans présentation.",
+      "issues": [
+        {
+          "severity": "mineur",
+          "type": "continuite",
+          "quote": "Le téléphone affiche aussi un message de Mireille pour samedi : « Tu apportes la tarte ou je la fais ? »",
+          "problem": "Mireille est nommée sans lien avec Blandine ; l’épisode suivant ne le précise pas non plus.",
+          "fix": "Écrire « un message de Mireille, sa cousine (ou sa sœur aînée), pour l’anniversaire de Jeanne samedi »."
+        },
+        {
+          "severity": "mineur",
+          "type": "continuite",
+          "quote": "Les nuits perdues gardent leur place dans ce qu’elle pourra aborder en suivi.",
+          "problem": "Le suivi n’a pas encore été mentionné dans le récit ; la thérapeute n’apparaît qu’à l’épisode 5.",
+          "fix": "Mentionner dans la scène que Blandine a un rendez-vous avec sa thérapeute la semaine suivante."
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "file": "content/posts/comprendre-et-maitriser-ses-emotions/blandine-table-de-mireille.md",
+      "focus": "Contexte social et familial des rituels de deuil dans l’évaluation du trouble",
+      "structure": {
+        "scene": "ok",
+        "concept": "ok",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "ok",
+        "conclusion": "ok",
+        "proches": "ok"
+      },
+      "comprehension": 3,
+      "comprehension_note": "Le rituel des cartes dans la boîte à thé est bien posé, mais la scène devient confuse : on ne sait pas qui est Mireille, pourquoi elle veut photographier la partition, ni à qui « lui » renvoie dans « Mireille lui rapportera la feuille ». Le cousin reste anonyme.",
+      "issues": [
+        {
+          "severity": "majeur",
+          "type": "comprehension",
+          "quote": "Mireille a sorti un grand plat creux pour recueillir les morceaux et le jus.",
+          "problem": "Personnage central de l’épisode jamais présenté ; « leur mère » plus loin suggère qu’elle est une autre sœur de Jeanne, ce qui change le sens du deuil familial.",
+          "fix": "Dès la première phrase, préciser le lien : « Mireille, leur sœur aînée » ou « sa cousine Mireille », et ajuster « leur mère » en conséquence."
+        },
+        {
+          "severity": "majeur",
+          "type": "comprehension",
+          "quote": "L’initiale au dos est celle de leur mère ; Mireille lui rapportera la feuille.",
+          "problem": "On ne sait pas si la mère est vivante ni à qui « lui » renvoie ; la résolution du feuillet est incompréhensible.",
+          "fix": "Écrire « L’initiale au dos est celle de leur mère ; Mireille lui rapportera la feuille à la maison de retraite dimanche » (ou toute précision qui situe la mère)."
+        },
+        {
+          "severity": "mineur",
+          "type": "comprehension",
+          "quote": "Elle propose de prendre en photo la page des Saules et d’envoyer l’image avec la recette à ceux qui ne sont pas venus.",
+          "problem": "On ignore comment Mireille connaît cette page et pourquoi elle voudrait la diffuser.",
+          "fix": "Ajouter que Blandine lui avait parlé au téléphone de la note « reprendre après nous »."
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "file": "content/posts/comprendre-et-maitriser-ses-emotions/blandine-mesure-neuf.md",
+      "focus": "Ambivalence : plaisir de reparler de Jeanne et douleur à l’idée de séparer la partition",
+      "structure": {
+        "scene": "ok",
+        "concept": "ok",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "ok",
+        "conclusion": "ok",
+        "proches": "ok"
+      },
+      "comprehension": 4,
+      "comprehension_note": "La dispute sur la mesure neuf, l’écharpe et le mot « rejoignent » qui arrête Blandine rendent l’ambivalence tangible. La décision (lecture à deux avant tout don) est claire.",
+      "issues": []
+    },
+    {
+      "number": 5,
+      "file": "content/posts/comprendre-et-maitriser-ses-emotions/blandine-notes-de-consultation.md",
+      "focus": "Psychothérapie ciblée du deuil prolongé partant d’objectifs de vie concrets",
+      "structure": {
+        "scene": "ok",
+        "concept": "ok",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "ok",
+        "conclusion": "ok",
+        "proches": "ok"
+      },
+      "comprehension": 4,
+      "comprehension_note": "La colonne des dates et la colonne « écharpe » donnent une entrée concrète à la séance ; le détour qui évite la place est bien raconté. La phrase de Léon sur les chanteurs est embrouillée.",
+      "issues": [
+        {
+          "severity": "mineur",
+          "type": "comprehension",
+          "quote": "Il confirme qu’il attendra devant la salle et pourra dire aux deux chanteurs de se préparer pour la répétition si elle ne vient pas.",
+          "problem": "Phrase confuse : on comprend mal ce que Léon fera si Blandine ne vient pas.",
+          "fix": "« Il confirme qu’il l’attendra devant la salle ; si elle ne vient pas, les deux chanteurs commenceront simplement la répétition. »"
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "file": "content/posts/comprendre-et-maitriser-ses-emotions/blandine-galette-sur-le-carrelage.md",
+      "focus": "Culpabilité après un moment de plaisir pendant le deuil",
+      "structure": {
+        "scene": "ok",
+        "concept": "ok",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "ok",
+        "conclusion": "ok",
+        "proches": "ok"
+      },
+      "comprehension": 4,
+      "comprehension_note": "La galette contre le mur et le fou rire sont vivants ; le passage au reproche (« jamais assez de beurre ») est net, comme le choix de rester dans la cuisine. Petite incohérence à la fin sur le numéro de Léon.",
+      "issues": [
+        {
+          "severity": "mineur",
+          "type": "continuite",
+          "quote": "Elle écrit à Léon pour vérifier qu’il a bien son numéro s’il faut le prévenir au dernier moment.",
+          "problem": "Blandine et Léon échangent par messages depuis l’épisode 1 ; il a forcément son numéro.",
+          "fix": "« Elle écrit à Léon qu’elle l’appellera s’il faut annuler au dernier moment. »"
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "file": "content/posts/comprendre-et-maitriser-ses-emotions/blandine-avant-la-place.md",
+      "focus": "Évitement des lieux qui rappellent la personne décédée (la salle du chœur)",
+      "structure": {
+        "scene": "ok",
+        "concept": "ok",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "ok",
+        "conclusion": "ok",
+        "proches": "ok"
+      },
+      "comprehension": 3,
+      "comprehension_note": "Le rideau du cordonnier, la chaise que Jeanne avançait du talon et la pharmacie oubliée donnent une scène forte. Mais l’appel à Léon, moment-clé du report, est embrouillé.",
+      "issues": [
+        {
+          "severity": "majeur",
+          "type": "comprehension",
+          "quote": "Il décroche au moment où elle s’apprête à raccrocher et lui dit qu’il peut laisser les chanteurs se préparer. Blandine entend sa question sur la porte ouverte.",
+          "problem": "On ne comprend ni ce que Léon propose ni quelle est « sa question sur la porte ouverte » ; le geste décisif du report devient flou.",
+          "fix": "« Il décroche au moment où elle va raccrocher : “Tu es devant ? La porte est ouverte, entre quand tu veux.” Elle lui dit où elle est et qu’elle veut reporter. »"
+        },
+        {
+          "severity": "mineur",
+          "type": "comprehension",
+          "quote": "Léon lui écrit que Alice et Malo sont avec les autres, prêts à répéter.",
+          "problem": "Élision manquante et prénoms nouveaux présentés seulement plus loin.",
+          "fix": "« Léon lui écrit qu’Alice et Malo, les deux chanteurs prévus, ont rejoint les autres. »"
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "file": "content/posts/comprendre-et-maitriser-ses-emotions/blandine-encre-et-crayon.md",
+      "focus": "Conservation des objets du défunt : valeur intime et temps qu’ils occupent",
+      "structure": {
+        "scene": "ok",
+        "concept": "ok",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "ok",
+        "conclusion": "ok",
+        "proches": "ok"
+      },
+      "comprehension": 4,
+      "comprehension_note": "Malo qui reconnaît sa propre encre au-dessus du crayon de Jeanne est une belle trouvaille ; la frontière entre les deux feuilles discutées et Les Saules gardée est nette. L’aspect « temps occupé par le dossier » est surtout porté par les exemples, pas par la scène.",
+      "issues": [
+        {
+          "severity": "mineur",
+          "type": "lien_concept",
+          "quote": "Blandine a parfois passé assez de temps dans le dossier pour repousser une course.",
+          "problem": "L’autre versant annoncé (le dossier qui décale une course) n’apparaît que dans un exemple rappelant l’épisode 6 ; la scène n’en montre rien.",
+          "fix": "Ajouter dans l’ouverture une phrase sur la veille, où Blandine a relu le dossier jusqu’à manquer la fermeture de la pharmacie."
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "file": "content/posts/comprendre-et-maitriser-ses-emotions/blandine-case-des-remerciements.md",
+      "focus": "Pression de l’entourage à reprendre une activité (un « retour » annoncé au programme)",
+      "structure": {
+        "scene": "ok",
+        "concept": "ok",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "ok",
+        "conclusion": "ok",
+        "proches": "ok"
+      },
+      "comprehension": 4,
+      "comprehension_note": "La phrase d’Alice « À l’occasion du retour de Blandine » et la correction faite comme une traduction montrent bien la pression ; la distinction archives / programme est claire.",
+      "issues": [
+        {
+          "severity": "mineur",
+          "type": "comprehension",
+          "quote": "Sur son exemplaire, Blandine garde la fiche intérieure avec les deux noms, en attente de sa décision sur le don.",
+          "problem": "On ne sait pas de quel exemplaire il s’agit (programme ? fiche d’archives ?).",
+          "fix": "« Sur le brouillon de fiche qu’Alice lui a envoyé, les deux titres restent en attente de sa décision. »"
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "file": "content/posts/comprendre-et-maitriser-ses-emotions/blandine-chaise-pres-porte.md",
+      "focus": "Intérêt retrouvé pour une activité alors que le manque reste vif",
+      "structure": {
+        "scene": "ok",
+        "concept": "ok",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "ok",
+        "conclusion": "ok",
+        "proches": "ok"
+      },
+      "comprehension": 4,
+      "comprehension_note": "La traversée de la place, le nouveau chanteur qui ramène sa chaise du talon et le choix d’écouter plutôt que chanter forment une scène claire et émouvante.",
+      "issues": [
+        {
+          "severity": "mineur",
+          "type": "continuite",
+          "quote": "Elle a fait sa course près du bureau le lendemain du rendez-vous reporté.",
+          "problem": "Blandine travaille chez elle (sous-main, fenêtre) ; « le bureau » n’existe pas ailleurs.",
+          "fix": "« Elle a fait sa course près de chez elle le lendemain du rendez-vous reporté. »"
+        }
+      ]
+    },
+    {
+      "number": 11,
+      "file": "content/posts/comprendre-et-maitriser-ses-emotions/blandine-portee-de-la-semaine.md",
+      "focus": "Diagnostic différentiel et coexistence possible entre deuil prolongé et dépression",
+      "structure": {
+        "scene": "ok",
+        "concept": "ok",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "ok",
+        "conclusion": "ok",
+        "proches": "ok"
+      },
+      "comprehension": 4,
+      "comprehension_note": "L’évaluation est incarnée par des faits (le livre resté dans le sac, les légendes acceptées, les visites refusées) et la question de la thérapeute sur les jours sans rappel est juste. Le cousin reste anonyme.",
+      "issues": [
+        {
+          "severity": "mineur",
+          "type": "comprehension",
+          "quote": "Le samedi, elle avait acheté un livre pour son cousin.",
+          "problem": "Troisième apparition du cousin sans prénom ; il reste une silhouette.",
+          "fix": "Lui donner un prénom dès l’épisode 3 et le reprendre ici."
+        }
+      ]
+    },
+    {
+      "number": 12,
+      "file": "content/posts/comprendre-et-maitriser-ses-emotions/blandine-deux-feuilles-pour-choeur.md",
+      "focus": "Évolution du deuil prolongé : décisions retrouvées et manque persistant",
+      "structure": {
+        "scene": "ok",
+        "concept": "ok",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "ok",
+        "conclusion": "ok",
+        "proches": "ok"
+      },
+      "comprehension": 4,
+      "comprehension_note": "Le dépôt des deux originaux, la correction du nom de Jeanne et la chemise jaune réutilisée pour les plans d’Esther ferment l’arc avec netteté. La pépinière apparaît d’abord dans un exemple avant d’être expliquée.",
+      "issues": [
+        {
+          "severity": "mineur",
+          "type": "comprehension",
+          "quote": "Blandine prévoit la pépinière selon l’avancement des légendes attendues par Esther.",
+          "problem": "La sortie à la pépinière avec Yannis n’a pas été introduite avant cet exemple ; elle n’apparaît qu’au retour final.",
+          "fix": "Mentionner dans l’ouverture que Yannis lui a proposé de l’accompagner à la pépinière samedi."
+        }
+      ]
+    }
+  ],
+  "missing_or_extra": "Parcours complet de douze épisodes ; aucun ajout ni retrait. Pour une éventuelle refonte, un épisode sur la difficulté à accepter la réalité de la mort ou sur le sentiment d’avoir perdu une part de soi (Blandine qui ne sait plus chanter seule sa partie) pourrait remplacer l’un des trois épisodes plaisir/manque (4, 6 ou 10).",
+  "verdict": "corrections_mineures"
+}

@@ -219,6 +219,111 @@
       "number": 2,
       "diagnostic_stage": "known",
       "clinical_focus": "Voix faible et réponse lente prises pour un oubli"
+    },
+    {
+      "slug": "amaury-attention-qui-s-epuise-seance-longue",
+      "title": "Une attention qui s’épuise : la casquette posée sur la table",
+      "description": "Après trente minutes sur les écoliers du terminus, Amaury perd le fil et pose sa casquette : son attention s’épuise avec la durée de la séance.",
+      "context": "à l’association, un lundi matin",
+      "topics": [
+        "Démence due à la maladie de Parkinson",
+        "attention soutenue",
+        "signal de pause"
+      ],
+      "clinical_intro": "Maintenir son attention longtemps sur une même tâche fait partie des capacités souvent touchées dans la démence due à la maladie de Parkinson. Un récit peut très bien démarrer, puis se défaire au bout d’un moment ou au premier changement autour de soi. Amaury, déjà diagnostiqué, n’est ni distrait ni de mauvaise volonté : il a besoin d’une durée choisie et d’un moyen simple de dire stop.",
+      "opening": "Le lundi suivant, à dix heures, Gérard Vial, le président de l’association Mémoire des lignes, a écrit sur le tableau blanc : « 10 h – 11 h 30 : les écoliers du terminus ». Il a calculé que, avec la salle disponible seulement le matin, une séance longue rattraperait le retard. Amaury, ancien conducteur de la 9 de Montreynaud, a fixé lui-même le micro-cravate à sa veste, comme jeudi. Sa casquette de service est posée sur la boîte en fer.\n\nPendant trente minutes, tout roule. Il raconte les écoliers qui montaient au terminus à 16 h 40, les cartables entassés près de la porte, et surtout la petite Fatou, qui faisait ses devoirs sur la banquette du fond et lui demandait l’orthographe des noms d’arrêts. Soizic Teyssier, la réalisatrice, rit. Wassim Rey, au son et à l’image, ne touche à rien.\n\nPuis Wassim se lève pour déplacer la lampe, qui fait un reflet sur les lunettes d’Amaury. Le pied racle le sol. Amaury s’arrête au milieu d’une phrase. Il reprend, mais il raconte de nouveau Fatou et l’orthographe de « Chavanelle », mot pour mot. Soizic hésite à le lui dire. Il recommence une troisième fois, s’embrouille, regarde la porte. Ses yeux suivent le moindre bruit du couloir.\n\n« Ça va ? » demande Soizic.\n\n« Ça va », répond-il. Mais il prend sa casquette sur la boîte en fer et la pose à plat sur la table, devant lui, comme il le faisait au dépôt à la fin d’un service, quand il rendait la sacoche. Il est onze heures moins dix. Gérard tapote le planning : encore quarante minutes.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Tenir un récit dans la durée demande une attention qui peut s’épuiser",
+          "text": "L’attention soutenue permet de rester concentré sur une même tâche, et de reprendre le fil après une interruption. Dans la démence due à la maladie de Parkinson, l’attention fait partie des domaines souvent atteints, avec les fonctions exécutives et la mémoire. Une personne peut donc être tout à fait capable de raconter pendant un temps, puis voir son récit se défaire avec la durée ou au moindre changement autour d’elle. Ce n’est ni un manque d’intérêt ni de la mauvaise volonté. Chez Amaury, les trente premières minutes sont fluides ; c’est la lampe déplacée et le temps qui passe qui le font recommencer la même anecdote. La casquette posée sur la table dit ce qu’il n’arrive pas à formuler : son attention est arrivée au terminus, même si le planning de Gérard continue."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment l’attention qui s’épuise se voit-elle dans une séance ?",
+          "points": [
+            {
+              "heading": "Un récit qui tient d’abord, puis se défait",
+              "text": "Le début d’une tâche peut être réussi, et la difficulté n’apparaître qu’au bout d’un certain temps.",
+              "examples": [
+                "Pendant trente minutes, Amaury raconte Fatou et les cartables entassés sans chercher ses mots.",
+                "Vers onze heures moins dix, il ne retrouve plus où il en était dans l’histoire des écoliers."
+              ]
+            },
+            {
+              "heading": "Une distraction qui fait perdre le fil",
+              "text": "Un bruit ou un geste à côté peut suffire à interrompre le fil, et la reprise demande alors un effort important.",
+              "examples": [
+                "Le pied de la lampe qui racle le sol coupe Amaury au milieu d’une phrase.",
+                "Ensuite, ses yeux suivent le moindre bruit du couloir au lieu de revenir au récit."
+              ]
+            },
+            {
+              "heading": "Des répétitions et un « ça va » qui cachent la fatigue",
+              "text": "La personne peut répéter une anecdote sans s’en rendre compte, et affirmer qu’elle va bien alors que son corps signale autre chose.",
+              "examples": [
+                "Amaury raconte trois fois l’orthographe de « Chavanelle », mot pour mot.",
+                "Il répond « ça va » à Soizic, puis pose sa casquette à plat sur la table, comme à la fin d’un service."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour respecter une attention limitée",
+          "points": [
+            {
+              "heading": "Une durée courte choisie par la personne",
+              "objective": "Adapter la longueur des séances à ce que la personne peut tenir.",
+              "exercise": [
+                "Demander à la personne combien de temps elle souhaite travailler avant une pause.",
+                "Inscrire cette durée sur le planning et la respecter, même si une séance démarre bien.",
+                "Revoir la durée ensemble après quelques séances, à la hausse comme à la baisse."
+              ],
+              "benefit": "Une séance plus courte peut laisser un récit entier plutôt qu’une fin répétée ; c’est un aménagement d’organisation, non un traitement."
+            },
+            {
+              "heading": "Réduire les changements autour",
+              "objective": "Limiter ce qui détourne l’attention pendant le travail.",
+              "exercise": [
+                "Régler la lumière, le son et la place des objets avant l’arrivée de la personne.",
+                "Fermer la porte du couloir et prévenir les autres qu’on enregistre.",
+                "Si un réglage est nécessaire en cours de route, faire d’abord une pause annoncée."
+              ],
+              "benefit": "Moins d’interruptions peut rendre la reprise moins coûteuse pour la personne."
+            },
+            {
+              "heading": "Un signal de pause sans justification",
+              "objective": "Permettre à la personne d’arrêter sans avoir à expliquer pourquoi.",
+              "exercise": [
+                "Choisir avec elle un signal simple et visible, par exemple un objet posé sur la table.",
+                "Convenir que ce signal arrête la prise immédiatement, sans question.",
+                "Après la pause, lui demander si elle souhaite reprendre ou terminer pour aujourd’hui."
+              ],
+              "benefit": "Le signal évite à la personne de devoir dire une fatigue qu’elle n’a pas toujours les mots ni l’envie de nommer."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Quarante minutes et la casquette",
+      "ending": "Soizic regarde la casquette, puis Amaury. Elle fait signe à Wassim d’arrêter l’enregistrement. Amaury prend une gorgée d’eau et fixe la règle, en phrases courtes : « Quarante minutes. Une pause. Et quand la casquette est sur la table, on arrête. On ne me demande pas pourquoi. » Wassim promet de régler la lampe avant son arrivée, la prochaine fois. Gérard sort son planning et compte à voix haute : avec des séances de quarante minutes, le tournage s’allonge de trois semaines, et l’atelier photo ne cédera pas la salle tous les matins. Il grimace, mais il raye « 11 h 30 » et écrit « 10 h 40 ». Le passage sur Fatou est enregistré en entier dans les trente premières minutes ; les répétitions de la fin seront coupées. Amaury ne sait pas si quarante minutes suffiront toujours.",
+      "conclusion": "Cet épisode montre que, dans la démence due à la maladie de Parkinson, l’attention peut se maintenir un temps puis s’épuiser, surtout quand l’environnement change. Amaury transforme un geste de son ancien métier en signal de pause, et le tournage s’organise désormais en séances de quarante minutes.",
+      "mirror": [
+        "Quand Amaury dit « ça va » et pose sa casquette, un proche peut croire le geste plutôt que les mots : « Tu as posé la casquette, on s’arrête. Tu me diras si tu veux reprendre. » Rosa, sa compagne, comme Soizic n’ont pas à lui demander de se justifier ni à tenter de le garder concentré plus longtemps. Respecter le signal, c’est lui laisser décider de la fin, sans en faire un exercice."
+      ],
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "emre-2007",
+        "nice-ng97"
+      ],
+      "continuity": {
+        "choice": "Amaury fixe des séances de quarante minutes avec une pause, la casquette sur la table signifiant stop ; Wassim règle la lumière avant son arrivée et Gérard allonge le calendrier de trois semaines.",
+        "next": "Le jeudi suivant, avec des séances courtes, Soizic demande l’ordre de toute une journée de service, et l’organisation du récit pose problème."
+      },
+      "number": 3,
+      "diagnostic_stage": "known",
+      "clinical_focus": "Une attention qui s’épuise au fil de la séance"
     }
   ]
 }

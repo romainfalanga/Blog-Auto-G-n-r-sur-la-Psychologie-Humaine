@@ -1,0 +1,118 @@
+{
+  "character_id": "anne",
+  "bio": "Anne, 61 ans, ancienne gestionnaire d’un réseau de médiathèques, garde chez elle 140 cassettes de conférences publiques qu’elle a programmées pendant vingt ans. Sa démence frontotemporale, diagnostiquée à 59 ans, efface d’abord le sens des mots peu familiers et change parfois sa manière d’être avec les autres. Chaque mercredi, son amie Solange vient en écouter une avec elle. Anne veut décider quelles archives transmettre et préserver ces échanges familiers, avec sa fille Clémence et l’équipe du centre mémoire, en gardant ses choix.",
+  "profile_topics": [
+    "Démence frontotemporale",
+    "Le sens des mots qui s’efface",
+    "Changements d’empathie et de comportement",
+    "Adapter les échanges sans décider à sa place",
+    "Transmettre des archives sonores"
+  ],
+  "episodes": [
+    {
+      "number": 1,
+      "slug": "anne-comprendre-mots-peu-familiers-demence-frontotemporale",
+      "title": "Ne plus comprendre des mots peu familiers qu’on sait répéter",
+      "description": "Pendant l’écoute d’une conférence de 1998, Anne répète « étiage » sans faute et demande ce qu’il veut dire : le sens des mots rares s’efface.",
+      "context": "un mercredi d’écoute dans son salon",
+      "topics": [
+        "Démence frontotemporale",
+        "compréhension des mots",
+        "répétition préservée"
+      ],
+      "clinical_intro": "Dans la démence frontotemporale qui touche d’abord le langage, une personne peut perdre le sens de certains mots tout en les prononçant parfaitement. Les mots rares ou peu familiers sont souvent les premiers concernés. Chez Anne, diagnostiquée à 59 ans au centre mémoire d’Angers, ce décalage apparaît au milieu d’une conférence qu’elle avait elle-même programmée.",
+      "opening": "Le mercredi, à quinze heures, Solange Ferrand sonne deux fois, comme toujours. L’amie d’Anne depuis trente ans, ancienne régisseuse son du réseau des médiathèques des Coteaux, porte sous le bras le lecteur à cassettes qu’elle préfère à celui de la maison. Dans le salon de Chalonnes-sur-Loire, Anne a déjà sorti la boîte numéro 61 : « Le fleuve et ses mots », Rencontres du jeudi, mars 1998. Elle avait programmé cette conférence elle-même, à l’époque où elle dirigeait le réseau. Cent quarante cassettes dorment dans son bureau, et chaque mercredi elles en écoutent une.\n\nLa voix du conférencier remplit la pièce, un peu nasillarde, ralentie par l’usure de la bande. Il parle des bateliers, des quais de Chalonnes, des crues de 1910. Puis il dit : « En été, à l’étiage, on voyait les bancs de sable jusqu’au pont. » Anne appuie sur la touche d’arrêt.\n\n« Étiage », répète-t-elle, très nettement, avec l’accent tonique à la bonne place. « Qu’est-ce que c’est, l’étiage ? »\n\nSolange éclate de rire. Anne a toujours aimé les questions faussement naïves ; dans les années quatre-vingt-dix, elle les posait au micro pour lancer le débat. Mais Anne ne sourit pas. Elle tient la télécommande à deux mains et attend. Ses yeux vont de la bouche de Solange à la jaquette, où le mot n’est pas écrit. Le rire de Solange s’arrête net.\n\n« C’est le niveau le plus bas de la rivière, dit-elle enfin. Quand il n’a pas plu. »\n\nAnne hoche la tête, reprend la bande, puis l’arrête encore deux minutes plus tard, sur « gabare ». Elle répète le mot sans la moindre hésitation. Elle connaît la voix, l’année, la salle, la place du conférencier sur l’estrade. C’est le sens qui ne vient plus.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Savoir dire un mot sans savoir ce qu’il désigne",
+          "text": "Prononcer un mot et en connaître le sens reposent sur des capacités différentes, et la maladie peut toucher l’une sans l’autre. Dans la forme de démence frontotemporale qui atteint d’abord le sens des mots, la compréhension des mots isolés se perd progressivement, surtout pour les mots rares ou peu familiers, alors que la répétition et l’articulation restent intactes. Anne peut donc répéter « étiage » parfaitement, reconnaître la voix du conférencier et se rappeler l’année : c’est le lien entre le mot et ce qu’il désigne qui s’est défait. Le rire de Solange venait d’une impression trompeuse : un mot bien prononcé semble compris. Ce n’est ni de la distraction ni un jeu, et ce décalage relève de l’équipe qui suit Anne, pas d’un test fait à la maison."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment la perte du sens des mots se remarque-t-elle pendant une écoute ?",
+          "points": [
+            {
+              "heading": "Le mot rare arrête la phrase",
+              "text": "Les mots courants passent encore, mais un terme spécialisé ou ancien suffit à interrompre la compréhension d’un passage entier.",
+              "examples": [
+                "Anne suit sans difficulté l’histoire des crues, puis arrête la bande sur « étiage ».",
+                "Deux minutes plus tard, « gabare » l’arrête de la même façon, alors que « bateau » ne l’avait pas gênée."
+              ]
+            },
+            {
+              "heading": "La répétition reste parfaite",
+              "text": "La personne redit le mot sans hésitation ni déformation, ce qui peut faire croire à l’entourage qu’elle le connaît.",
+              "examples": [
+                "Anne prononce « étiage » avec l’accent juste avant de demander ce qu’il signifie.",
+                "Elle reprend « gabare » à l’identique, comme elle le ferait pour vérifier une cote."
+              ]
+            },
+            {
+              "heading": "Le contexte reste mieux tenu que le mot",
+              "text": "L’événement, le lieu et la voix peuvent rester familiers alors même qu’un mot isolé n’a plus de sens.",
+              "examples": [
+                "Anne se rappelle le mois de la conférence et la place du conférencier sur l’estrade.",
+                "Elle sait que la jaquette 61 vient de la série des fleuves, sans retrouver ce que désigne le terme entendu."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour écouter ensemble sans transformer l’écoute en interrogation",
+          "points": [
+            {
+              "heading": "Donner le sens en une phrase",
+              "objective": "Répondre à la question posée sans faire de leçon ni vérifier ce qu’Anne a retenu.",
+              "exercise": [
+                "Attendre qu’Anne pose elle-même la question.",
+                "Répondre en une phrase avec des mots courants, comme « le niveau le plus bas de la rivière ».",
+                "Reprendre la bande sans demander de répéter la définition."
+              ],
+              "benefit": "L’écoute continue et Anne garde la main sur ce qu’elle veut savoir."
+            },
+            {
+              "heading": "Ralentir les passages denses",
+              "objective": "Laisser le temps de suivre quand un orateur enchaîne les termes techniques.",
+              "exercise": [
+                "Repérer avant l’écoute les passages connus pour leur vocabulaire spécialisé.",
+                "Proposer à Anne une pause à la fin de chaque paragraphe parlé.",
+                "Accepter qu’elle préfère parfois continuer sans pause."
+              ],
+              "benefit": "La conversation reste un plaisir partagé plutôt qu’une suite d’obstacles."
+            },
+            {
+              "heading": "Laisser Anne décider des arrêts",
+              "objective": "Préserver son choix sur le rythme de l’écoute.",
+              "exercise": [
+                "Lui laisser la télécommande pendant toute la séance.",
+                "Ne pas arrêter la bande à sa place pour expliquer un mot.",
+                "Noter seulement les mots qu’elle demande, si elle le souhaite."
+              ],
+              "benefit": "Anne reste l’hôte des mercredis ; ce choix d’organisation ne remplace pas le suivi au centre mémoire."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Trois phrases au dos de la jaquette",
+      "ending": "À la fin de la face B, Anne rembobine et tend la jaquette à Solange. « Tu écris, je dicte. Trois phrases, avec des mots de tous les jours. » Elle dicte : « Un homme raconte la Loire autrefois. Il parle des bateaux de commerce et de l’eau très basse en été. Les gens de Chalonnes posent des questions sur les inondations. » Solange écrit au feutre, au dos du carton. Anne relit à voix haute et corrige « posent » en « posaient ». Elles décident que chaque écoute finira ainsi. Quand Anne demande plus tard ce que veut dire « halage », Solange ne rit pas : elle répond d’une phrase. Le mot ne revient pas pour autant la semaine suivante ; la jaquette, elle, reste lisible.",
+      "conclusion": "Cet épisode montre qu’on peut répéter un mot sans en connaître le sens, et que les mots rares s’effacent les premiers. Le résumé dicté par Anne ne fait pas revenir le mot ; il garde une trace qu’elle peut relire et décide de produire pour chaque cassette.",
+      "mirror": [
+        "Quand Anne répète « étiage » et attend, Solange peut s’arrêter de sourire et répondre simplement : « C’est l’eau la plus basse de l’été. » Un proche n’a pas à vérifier si le mot est retenu ni à guetter les suivants. S’il remarque que les arrêts deviennent plus nombreux d’un mois à l’autre, il peut demander à Anne si elle souhaite en parler elle-même à son équipe, sans le faire à sa place."
+      ],
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "gorno-tempini-2011",
+        "has-fiche14-communiquer"
+      ],
+      "continuity": {
+        "choice": "Anne décide que chaque écoute du mercredi se terminera par un résumé de trois phrases simples qu’elle dicte et que Solange écrit au dos de la jaquette ; Solange répond désormais d’une phrase quand Anne demande un mot.",
+        "next": "Le jeudi suivant, Yann Le Goff appelle pour remplir la fiche d’inventaire ; Anne devra nommer des objets et des métiers qu’elle décrit sans peine."
+      },
+      "clinical_focus": "Ne plus comprendre des mots peu familiers",
+      "diagnostic_stage": "known"
+    }
+  ]
+}
