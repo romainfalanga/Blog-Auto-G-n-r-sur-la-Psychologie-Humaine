@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "revision": 1007,
+  "revision": 1013,
   "created_at": "2026-11-07T14:47:42Z",
   "cases": {
     "mathis": {
@@ -5392,9 +5392,9 @@
     "hector": {
       "character_id": "hector",
       "code": "6D70",
-      "stage": "review",
+      "stage": "story",
       "created_at": "2026-11-07T14:47:42Z",
-      "active_job": "7ad605c4a9104420bd8459098f3d5a8a",
+      "active_job": null,
       "owners": {
         "character": [
           "personnage_hector"
@@ -5406,7 +5406,7 @@
           "review_hector"
         ]
       },
-      "revision_rounds": 0,
+      "revision_rounds": 1,
       "accepted": {
         "character": {
           "job_id": "ce115a68c5234a4eb5e4d6ae7f10ceca",
@@ -5434,6 +5434,55 @@
             },
             "episodes": 12
           }
+        },
+        "review": {
+          "job_id": "7ad605c4a9104420bd8459098f3d5a8a",
+          "owner": "review_hector",
+          "validated_at": "2026-11-12T10:47:45Z",
+          "validation": {
+            "character_id": "hector",
+            "files": {
+              "editorial/clinical/designs/hector.json": "446a3648f24d12ef8f72c7b8709a09ba066d779affd4904f2cfd6d1afe280b21",
+              "editorial/clinical/dossiers/hector.json": "850ae8eb3d15d375fabee0a39688ee04782e24b10e542601e5e0ea60218cc0ad",
+              "editorial/clinical/hector.json": "40fb469fb7ae1abb80d8a9cca5227f2d2b73bb7b520925b7c483661d01a2ef97",
+              "editorial/clinical/reviews/hector.json": "35f22336b0ffbd59135cbfd47c715671e08ca73e79328e2716b64c67f10babb7"
+            },
+            "episodes": 12,
+            "status": "revision_requested",
+            "findings": [
+              {
+                "episode": 2,
+                "issue": "L’introduction clinique affirme que le delirium « signale presque toujours une cause médicale », alors que le dossier (CDDR p. 603) retient aussi des facteurs multiples ou inconnus ; l’explication dit « ni une maladie mentale qui commencerait », ce qui contredit le classement de 6D70 au chapitre 06 de la CIM-11 et peut laisser croire que le delirium n’est pas un trouble reconnu.",
+                "requested_change": "Remplacer « presque toujours » par une formulation du type « le plus souvent une affection médicale, parfois une substance ou un médicament, souvent plusieurs facteurs, et parfois sans cause identifiée ». Remplacer « ni une maladie mentale qui commencerait » par « ni le début d’une maladie psychiatrique durable » ou équivalent, sans nier qu’il s’agit d’un trouble classé."
+              },
+              {
+                "episode": 6,
+                "issue": "L’épisode 8 fixe le neuvième jour à un mardi ; le sixième jour est donc un samedi. « Le lendemain, à sept heures trente, Julien passe avant ses cours » place une journée de classe un samedi.",
+                "requested_change": "Rendre le lendemain compatible avec un samedi (par exemple « avant de partir à la longère ») ou retirer « un mardi » à l’épisode 8 et recalculer tous les jours de semaine de la série (sortie, rendez-vous à quinze jours, lundi J+13, samedis et jeudis suivants)."
+              },
+              {
+                "episode": 7,
+                "issue": "Même raccord calendaire : au sixième jour (samedi d’après l’épisode 8), Julien « passe pendant sa pause du déjeuner », formule qui suppose une journée de travail au collège.",
+                "requested_change": "Remplacer par une formule compatible avec un samedi (par exemple « en revenant du chantier de la longère ») ou appliquer la même correction globale que pour l’épisode 6."
+              },
+              {
+                "episode": 10,
+                "issue": "L’explication affirme que les souvenirs effrayants sont « parfois plus nets que les souvenirs des faits réels » ; cette comparaison ne figure pas dans les points vérifiés du dossier (NICE 1.8.1, SIGN annexe 4).",
+                "requested_change": "Supprimer cette comparaison ou l’appuyer sur une source ajoutée au dossier ; s’en tenir à « peuvent laisser des souvenirs effrayants de ce qui a été perçu ou cru »."
+              },
+              {
+                "episode": 11,
+                "issue": "La scène d’ouverture dit qu’Hector « nettoie le dernier outil de la caisse » tout en précisant qu’« il reste le quatrième » tiroir, puis la fin indique « Le quatrième tiroir attend samedi » ; par ailleurs le rendez-vous « jeudi » avec le docteur Garnier n’a été fixé dans aucun épisode antérieur (l’épisode 10 propose seulement d’en reparler si besoin).",
+                "requested_change": "Remplacer « nettoie le dernier outil » par une action cohérente (par exemple « commence le quatrième tiroir ») et faire apparaître l’origine du rendez-vous du jeudi : une phrase à l’épisode 10 où le docteur Garnier fixe un suivi, ou dans l’épisode 11 où Hector l’a pris à cause du mot cherché."
+              },
+              {
+                "episode": 12,
+                "issue": "La fiche est datée du « mardi de la septième semaine, au cabinet du docteur Garnier ». Le samedi de la sixième semaine (épisode 11), le rendez-vous annoncé « jeudi » tombe dans la septième semaine, après ce mardi : la fiche serait rédigée avant la consultation de l’épisode 11, lors d’une visite jamais mentionnée, alors que l’annonce de l’épisode 11 place cette démarche après.",
+                "requested_change": "Dater la rédaction de la fiche après le jeudi de l’épisode 11 (par exemple « le mardi de la huitième semaine », la caisse restant prête « depuis mercredi ») ou la rattacher explicitement à une visite postérieure, et vérifier que l’échéance « dans un peu plus de deux mois » reste juste."
+              }
+            ],
+            "reviewer": "review_hector"
+          }
         }
       },
       "observed_at_init": {
@@ -5443,7 +5492,39 @@
         "design_sha256": null,
         "dossier_sha256": null,
         "review_sha256": null
-      }
+      },
+      "findings": [
+        {
+          "episode": 2,
+          "issue": "L’introduction clinique affirme que le delirium « signale presque toujours une cause médicale », alors que le dossier (CDDR p. 603) retient aussi des facteurs multiples ou inconnus ; l’explication dit « ni une maladie mentale qui commencerait », ce qui contredit le classement de 6D70 au chapitre 06 de la CIM-11 et peut laisser croire que le delirium n’est pas un trouble reconnu.",
+          "requested_change": "Remplacer « presque toujours » par une formulation du type « le plus souvent une affection médicale, parfois une substance ou un médicament, souvent plusieurs facteurs, et parfois sans cause identifiée ». Remplacer « ni une maladie mentale qui commencerait » par « ni le début d’une maladie psychiatrique durable » ou équivalent, sans nier qu’il s’agit d’un trouble classé."
+        },
+        {
+          "episode": 6,
+          "issue": "L’épisode 8 fixe le neuvième jour à un mardi ; le sixième jour est donc un samedi. « Le lendemain, à sept heures trente, Julien passe avant ses cours » place une journée de classe un samedi.",
+          "requested_change": "Rendre le lendemain compatible avec un samedi (par exemple « avant de partir à la longère ») ou retirer « un mardi » à l’épisode 8 et recalculer tous les jours de semaine de la série (sortie, rendez-vous à quinze jours, lundi J+13, samedis et jeudis suivants)."
+        },
+        {
+          "episode": 7,
+          "issue": "Même raccord calendaire : au sixième jour (samedi d’après l’épisode 8), Julien « passe pendant sa pause du déjeuner », formule qui suppose une journée de travail au collège.",
+          "requested_change": "Remplacer par une formule compatible avec un samedi (par exemple « en revenant du chantier de la longère ») ou appliquer la même correction globale que pour l’épisode 6."
+        },
+        {
+          "episode": 10,
+          "issue": "L’explication affirme que les souvenirs effrayants sont « parfois plus nets que les souvenirs des faits réels » ; cette comparaison ne figure pas dans les points vérifiés du dossier (NICE 1.8.1, SIGN annexe 4).",
+          "requested_change": "Supprimer cette comparaison ou l’appuyer sur une source ajoutée au dossier ; s’en tenir à « peuvent laisser des souvenirs effrayants de ce qui a été perçu ou cru »."
+        },
+        {
+          "episode": 11,
+          "issue": "La scène d’ouverture dit qu’Hector « nettoie le dernier outil de la caisse » tout en précisant qu’« il reste le quatrième » tiroir, puis la fin indique « Le quatrième tiroir attend samedi » ; par ailleurs le rendez-vous « jeudi » avec le docteur Garnier n’a été fixé dans aucun épisode antérieur (l’épisode 10 propose seulement d’en reparler si besoin).",
+          "requested_change": "Remplacer « nettoie le dernier outil » par une action cohérente (par exemple « commence le quatrième tiroir ») et faire apparaître l’origine du rendez-vous du jeudi : une phrase à l’épisode 10 où le docteur Garnier fixe un suivi, ou dans l’épisode 11 où Hector l’a pris à cause du mot cherché."
+        },
+        {
+          "episode": 12,
+          "issue": "La fiche est datée du « mardi de la septième semaine, au cabinet du docteur Garnier ». Le samedi de la sixième semaine (épisode 11), le rendez-vous annoncé « jeudi » tombe dans la septième semaine, après ce mardi : la fiche serait rédigée avant la consultation de l’épisode 11, lors d’une visite jamais mentionnée, alors que l’annonce de l’épisode 11 place cette démarche après.",
+          "requested_change": "Dater la rédaction de la fiche après le jeudi de l’épisode 11 (par exemple « le mardi de la huitième semaine », la caisse restant prête « depuis mercredi ») ou la rattacher explicitement à une visite postérieure, et vérifier que l’échéance « dans un peu plus de deux mois » reste juste."
+        }
+      ]
     },
     "mireille": {
       "character_id": "mireille",
@@ -127719,8 +127800,8 @@
       "snapshot_sha256": "4dabdf46f54ccf4dcc7dfd041c9d12101b82896239b0abc86534b5e01fa830b5",
       "status": "active",
       "token_sha256": "8a4f6059d4c41c25578054d90bd4da5ee389d8174bc300983f7c2700e440aa0a",
-      "heartbeat_at": "2026-11-12T10:47:00Z",
-      "expires_at": "2026-11-12T11:47:00Z",
+      "heartbeat_at": "2026-11-12T10:47:51Z",
+      "expires_at": "2026-11-12T11:47:51Z",
       "checkpoints": [
         {
           "at": "2026-11-12T10:44:32Z",
@@ -127772,6 +127853,20 @@
           "observed": {
             "manuscript_sha256": "0ab4002601e2fab8cc3736c4a51026936ac7a068a8801a1020785a52f026aafe",
             "episodes_present": 4,
+            "manuscript_readable": true,
+            "design_sha256": "c174799d40aa902537bd0218bc014a922e0951c81ac3162f9a554455bb63e9cb",
+            "dossier_sha256": "c7894d40790a6020b8e0abf4e10623161e6bdb76a255328ed8507d30f813803e",
+            "review_sha256": null
+          }
+        },
+        {
+          "at": "2026-11-12T10:47:51Z",
+          "outputs": {
+            "editorial/clinical/amaury.json": "76053faee86330137b2d12747de49a907387b76cc18ff0cd9468d8cf5d23103e"
+          },
+          "observed": {
+            "manuscript_sha256": "76053faee86330137b2d12747de49a907387b76cc18ff0cd9468d8cf5d23103e",
+            "episodes_present": 5,
             "manuscript_readable": true,
             "design_sha256": "c174799d40aa902537bd0218bc014a922e0951c81ac3162f9a554455bb63e9cb",
             "dossier_sha256": "c7894d40790a6020b8e0abf4e10623161e6bdb76a255328ed8507d30f813803e",
@@ -128220,8 +128315,8 @@
       "snapshot_sha256": "88bcf52a2eed24fd23b562e66286f109ac6b07df283d1bf48fd6c89350389c27",
       "status": "active",
       "token_sha256": "b63f7989e293cec2e689ace05bb846ed175280099fdde9f316d0d49f9198ad7f",
-      "heartbeat_at": "2026-11-12T10:47:13Z",
-      "expires_at": "2026-11-12T11:47:13Z",
+      "heartbeat_at": "2026-11-12T10:48:06Z",
+      "expires_at": "2026-11-12T11:48:06Z",
       "checkpoints": [
         {
           "at": "2026-11-12T10:45:28Z",
@@ -128259,6 +128354,20 @@
           "observed": {
             "manuscript_sha256": "f0226091bcc93464a89441ec4a9cbae0fa2f63cb1f03e0a16cccdfe0b241ee09",
             "episodes_present": 3,
+            "manuscript_readable": true,
+            "design_sha256": "e984738bc0f951beda59459e2b46d1406e0699c039dd1440a8d622f8444b7399",
+            "dossier_sha256": "0dca27fa55e4452b0c667a225dcc8e2648f34b3eedda8e07d41e768724673269",
+            "review_sha256": null
+          }
+        },
+        {
+          "at": "2026-11-12T10:48:05Z",
+          "outputs": {
+            "editorial/clinical/oumar.json": "eb020a49f7df73c12cac6ccb28ed4f7dc61eb56494a86371fb56b1b7fbbbd20b"
+          },
+          "observed": {
+            "manuscript_sha256": "eb020a49f7df73c12cac6ccb28ed4f7dc61eb56494a86371fb56b1b7fbbbd20b",
+            "episodes_present": 4,
             "manuscript_readable": true,
             "design_sha256": "e984738bc0f951beda59459e2b46d1406e0699c039dd1440a8d622f8444b7399",
             "dossier_sha256": "0dca27fa55e4452b0c667a225dcc8e2648f34b3eedda8e07d41e768724673269",
@@ -130593,10 +130702,55 @@
         }
       },
       "snapshot_sha256": "55f9d7d1d01ce749ebfe0539343a1eeed039653f2263fcbe59f566a20c276fa8",
-      "status": "active",
+      "status": "finished",
       "token_sha256": "dfe595fc04a152d970c68ad6174e727da0a6907dde54aa55eb1a564321e105be",
       "heartbeat_at": "2026-11-12T10:43:44Z",
-      "expires_at": "2026-11-12T11:43:44Z"
+      "expires_at": "2026-11-12T11:43:44Z",
+      "finished_at": "2026-11-12T10:47:45Z",
+      "validation": {
+        "character_id": "hector",
+        "files": {
+          "editorial/clinical/designs/hector.json": "446a3648f24d12ef8f72c7b8709a09ba066d779affd4904f2cfd6d1afe280b21",
+          "editorial/clinical/dossiers/hector.json": "850ae8eb3d15d375fabee0a39688ee04782e24b10e542601e5e0ea60218cc0ad",
+          "editorial/clinical/hector.json": "40fb469fb7ae1abb80d8a9cca5227f2d2b73bb7b520925b7c483661d01a2ef97",
+          "editorial/clinical/reviews/hector.json": "35f22336b0ffbd59135cbfd47c715671e08ca73e79328e2716b64c67f10babb7"
+        },
+        "episodes": 12,
+        "status": "revision_requested",
+        "findings": [
+          {
+            "episode": 2,
+            "issue": "L’introduction clinique affirme que le delirium « signale presque toujours une cause médicale », alors que le dossier (CDDR p. 603) retient aussi des facteurs multiples ou inconnus ; l’explication dit « ni une maladie mentale qui commencerait », ce qui contredit le classement de 6D70 au chapitre 06 de la CIM-11 et peut laisser croire que le delirium n’est pas un trouble reconnu.",
+            "requested_change": "Remplacer « presque toujours » par une formulation du type « le plus souvent une affection médicale, parfois une substance ou un médicament, souvent plusieurs facteurs, et parfois sans cause identifiée ». Remplacer « ni une maladie mentale qui commencerait » par « ni le début d’une maladie psychiatrique durable » ou équivalent, sans nier qu’il s’agit d’un trouble classé."
+          },
+          {
+            "episode": 6,
+            "issue": "L’épisode 8 fixe le neuvième jour à un mardi ; le sixième jour est donc un samedi. « Le lendemain, à sept heures trente, Julien passe avant ses cours » place une journée de classe un samedi.",
+            "requested_change": "Rendre le lendemain compatible avec un samedi (par exemple « avant de partir à la longère ») ou retirer « un mardi » à l’épisode 8 et recalculer tous les jours de semaine de la série (sortie, rendez-vous à quinze jours, lundi J+13, samedis et jeudis suivants)."
+          },
+          {
+            "episode": 7,
+            "issue": "Même raccord calendaire : au sixième jour (samedi d’après l’épisode 8), Julien « passe pendant sa pause du déjeuner », formule qui suppose une journée de travail au collège.",
+            "requested_change": "Remplacer par une formule compatible avec un samedi (par exemple « en revenant du chantier de la longère ») ou appliquer la même correction globale que pour l’épisode 6."
+          },
+          {
+            "episode": 10,
+            "issue": "L’explication affirme que les souvenirs effrayants sont « parfois plus nets que les souvenirs des faits réels » ; cette comparaison ne figure pas dans les points vérifiés du dossier (NICE 1.8.1, SIGN annexe 4).",
+            "requested_change": "Supprimer cette comparaison ou l’appuyer sur une source ajoutée au dossier ; s’en tenir à « peuvent laisser des souvenirs effrayants de ce qui a été perçu ou cru »."
+          },
+          {
+            "episode": 11,
+            "issue": "La scène d’ouverture dit qu’Hector « nettoie le dernier outil de la caisse » tout en précisant qu’« il reste le quatrième » tiroir, puis la fin indique « Le quatrième tiroir attend samedi » ; par ailleurs le rendez-vous « jeudi » avec le docteur Garnier n’a été fixé dans aucun épisode antérieur (l’épisode 10 propose seulement d’en reparler si besoin).",
+            "requested_change": "Remplacer « nettoie le dernier outil » par une action cohérente (par exemple « commence le quatrième tiroir ») et faire apparaître l’origine du rendez-vous du jeudi : une phrase à l’épisode 10 où le docteur Garnier fixe un suivi, ou dans l’épisode 11 où Hector l’a pris à cause du mot cherché."
+          },
+          {
+            "episode": 12,
+            "issue": "La fiche est datée du « mardi de la septième semaine, au cabinet du docteur Garnier ». Le samedi de la sixième semaine (épisode 11), le rendez-vous annoncé « jeudi » tombe dans la septième semaine, après ce mardi : la fiche serait rédigée avant la consultation de l’épisode 11, lors d’une visite jamais mentionnée, alors que l’annonce de l’épisode 11 place cette démarche après.",
+            "requested_change": "Dater la rédaction de la fiche après le jeudi de l’épisode 11 (par exemple « le mardi de la huitième semaine », la caisse restant prête « depuis mercredi ») ou la rattacher explicitement à une visite postérieure, et vérifier que l’échéance « dans un peu plus de deux mois » reste juste."
+          }
+        ],
+        "reviewer": "review_hector"
+      }
     },
     "4ec90fd96d1d4b16abd00e1331315ba3": {
       "id": "4ec90fd96d1d4b16abd00e1331315ba3",
@@ -133242,8 +133396,8 @@
       "snapshot_sha256": "9e9e61d60a4beab9d4c1a33380b5c12e5830ad4acf086c1ce3d3c31c3376cffe",
       "status": "active",
       "token_sha256": "fb63cc1026d356c7a66c043797fa98181ab0439cf445c95795bf403e9f0ab55c",
-      "heartbeat_at": "2026-11-12T10:47:41Z",
-      "expires_at": "2026-11-12T11:47:41Z",
+      "heartbeat_at": "2026-11-12T10:47:54Z",
+      "expires_at": "2026-11-12T11:47:54Z",
       "checkpoints": [
         {
           "at": "2026-11-12T10:46:58Z",
@@ -133266,6 +133420,20 @@
           },
           "observed": {
             "manuscript_sha256": "38a9841867177ec836ac42e97524c12a2654ce439349194f84bf326f2499b8a4",
+            "episodes_present": 2,
+            "manuscript_readable": true,
+            "design_sha256": "5d40c8cb959c26f24669d96ccede83735ced9898f215520f0889091ece240693",
+            "dossier_sha256": "eecc9d8a053dae8ca2631fa6f215f7c63778178f1f24c435583c193ae17cf2ac",
+            "review_sha256": null
+          }
+        },
+        {
+          "at": "2026-11-12T10:47:54Z",
+          "outputs": {
+            "editorial/clinical/clarisse.json": "cba4218e69dc805ed6547ce577786bc1be05993b846aae67916fc2377703d41b"
+          },
+          "observed": {
+            "manuscript_sha256": "cba4218e69dc805ed6547ce577786bc1be05993b846aae67916fc2377703d41b",
             "episodes_present": 2,
             "manuscript_readable": true,
             "design_sha256": "5d40c8cb959c26f24669d96ccede83735ced9898f215520f0889091ece240693",
@@ -136851,5 +137019,5 @@
       "expires_at": "2026-11-12T11:46:07Z"
     }
   },
-  "updated_at": "2026-11-12T10:47:41Z"
+  "updated_at": "2026-11-12T10:48:06Z"
 }

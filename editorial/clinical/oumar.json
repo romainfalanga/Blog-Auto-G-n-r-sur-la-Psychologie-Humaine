@@ -326,6 +326,112 @@
       },
       "number": 3,
       "diagnostic_stage": "known"
+    },
+    {
+      "slug": "oumar-choisir-a-qui-raconter-origine-troubles",
+      "title": "Choisir à qui raconter l’origine de ses troubles",
+      "description": "Au dîner, une plaisanterie de Gérard sur « un petit rouge » fige la table. Oumar décide ce qu’il dit de son histoire de soin, et à qui.",
+      "context": "un soir d’avril au dîner de la résidence",
+      "topics": [
+        "stigmatisation",
+        "confidentialité du dossier",
+        "phrase choisie"
+      ],
+      "clinical_focus": "Choisir à qui raconter l’origine de ses troubles",
+      "clinical_intro": "Les troubles liés à l’alcool sont souvent entourés de jugements, et ces jugements pèsent sur la façon dont une personne parle de son diagnostic. Partager l’origine de ses troubles reste une décision personnelle, y compris dans un lieu de vie collectif. Oumar en a parlé à quelques personnes choisies ; face à une plaisanterie publique, il cherche une réponse qui ne livre que ce qu’il veut bien dire.",
+      "opening": "Le soir du gabarit, la salle à manger du Clos des Mauves sent le gratin et la soupe de poireaux. Oumar s’assoit à la table du fond avec Odette Bréhier, sa voisine de bac, et deux résidents du rez-de-chaussée. Gérard Pichon, le menuisier retraité qui a donné la planche de sapin, arrive en dernier et s’installe en face.\n\nOn parle du banc. Quelqu’un a vu la planche percée deux fois, un trou à côté, un trou juste. Gérard raconte l’après-midi à sa façon, plutôt gentiment. Puis il lève son verre vers Oumar et lance, assez fort pour la table voisine : « La prochaine fois, un petit rouge avant de percer, ça t’aidera à viser droit ! » Deux résidents rient. Odette, elle, pose sa cuillère.\n\nOumar sent la table attendre. Ce n’est pas la plaisanterie elle-même qui le serre, c’est ce qu’elle touche sans le savoir. Odette connaît son histoire : il la lui a racontée en mars, un soir où elle lui demandait pourquoi il avait quitté sa parcelle de la Crapaudine. Jean-Paul, son ami de trente ans, la connaît depuis toujours. Les soignants la connaissent. Gérard, non, et Oumar n’a aucune envie qu’il l’apprenne ce soir, entre le gratin et le fromage, devant tout le monde. Il n’a pas non plus envie de rire avec eux, ni de se lever en laissant croire qu’il est vexé pour rien.\n\nIl pense à la feuille pliée dans son portefeuille, aux trois phrases de la docteure Morvan. Elles ne parlent pas d’alcool. Il pourrait la sortir, mais ce serait déjà en dire plus qu’il ne veut. Sous la table, il sent sa main se fermer sur sa serviette. Odette le regarde sans rien demander. La table attend toujours.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Le droit de choisir ce que l’on partage",
+          "text": "La stigmatisation et la discrimination accompagnent souvent les troubles liés à l’alcool, et les recommandations demandent aux professionnels de travailler sans jugement et dans le respect de la confidentialité. Pour une personne qui vit avec une démence, le partage de ses informations suppose aussi son accord : avec qui, et quoi. Dans une résidence, cela vaut pour l’équipe comme pour les voisins de table. Gérard ne sait rien de l’histoire d’Oumar ; sa plaisanterie reprend un cliché courant. Mais elle place Oumar devant un choix qu’il n’a pas demandé : se justifier, se taire ou en dire plus qu’il ne veut. Il a le droit de refuser les trois et de choisir une quatrième voie, une réponse courte qui ne dit que ce qu’il a décidé de dire. Avoir parlé à Odette ne l’oblige en rien à parler à Gérard."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment la stigmatisation se glisse-t-elle dans la vie collective ?",
+          "points": [
+            {
+              "heading": "Une plaisanterie qui vise juste sans le savoir",
+              "text": "Un cliché sur l’alcool peut blesser une personne dont l’entourage ignore l’histoire, sans intention de nuire.",
+              "examples": [
+                "Gérard lève son verre en parlant d’un « petit rouge » pour viser droit.",
+                "Deux résidents rient, sans savoir ce que la phrase touche."
+              ]
+            },
+            {
+              "heading": "La pression de répondre devant tous",
+              "text": "Être interpellé en public pousse à se justifier ou à se dévoiler, alors que le moment n’a pas été choisi.",
+              "examples": [
+                "Oumar sent la table attendre une réponse entre le gratin et le fromage.",
+                "Il envisage de sortir la feuille de son portefeuille, puis y renonce."
+              ]
+            },
+            {
+              "heading": "Des cercles de confiance différents",
+              "text": "Une personne peut avoir confié son histoire à quelques-uns et vouloir la garder pour elle avec les autres.",
+              "examples": [
+                "Odette connaît l’histoire depuis mars et ne pose aucune question à table.",
+                "Oumar ne veut pas que Gérard l’apprenne ce soir, ni par quelqu’un d’autre."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour protéger ce que l’on choisit de taire",
+          "points": [
+            {
+              "heading": "Préparer une phrase courte",
+              "objective": "Avoir une réponse prête qui ne livre que ce que l’on veut dire.",
+              "exercise": [
+                "Écrire une ou deux phrases vraies qui ne disent rien de plus que nécessaire.",
+                "Les dire à voix haute une fois à une personne de confiance.",
+                "Les garder sur soi pour les moments où l’on est pris de court."
+              ],
+              "benefit": "Une phrase préparée peut éviter d’improviser une justification sous la pression du groupe."
+            },
+            {
+              "heading": "Vérifier la confidentialité avec l’équipe",
+              "objective": "Savoir qui a accès à ses informations dans le lieu de vie.",
+              "exercise": [
+                "Demander à la coordinatrice ce que contient le dossier et qui peut le lire.",
+                "Préciser à qui l’on accepte que des informations soient transmises.",
+                "Faire noter ce choix, et le modifier plus tard si on le souhaite."
+              ],
+              "benefit": "Connaître les règles peut rassurer et éviter de craindre une fuite qui n’a pas eu lieu."
+            },
+            {
+              "heading": "Parler à part à la personne qui a blessé",
+              "objective": "Poser une limite sans se dévoiler ni humilier l’autre en public.",
+              "exercise": [
+                "Choisir un moment calme, seul à seul, le lendemain par exemple.",
+                "Dire ce qui a gêné et ce que l’on demande, sans expliquer pourquoi si on ne le veut pas.",
+                "Laisser l’autre répondre, puis clore l’échange."
+              ],
+              "benefit": "Une demande simple peut suffire à faire cesser la plaisanterie, même si la relation reste à construire."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Viser juste avec un gabarit",
+      "ending": "Oumar desserre la main sur sa serviette et répond, sans hausser la voix : « Je ne bois pas, Gérard. Et je vise très bien avec un gabarit, tu l’as vu cet après-midi. » Il y a un silence, puis l’un des résidents demande s’il reste du fromage. La conversation repart sur la livraison des lattes de chêne, attendue le jeudi suivant.\n\nLe lendemain matin, Oumar trouve Gérard devant l’abri. Il lui dit qu’il n’aime pas les plaisanteries sur la boisson et lui demande de ne plus en faire, ni à table ni ailleurs. Gérard s’excuse maladroitement, assure qu’il ne pensait à rien. Oumar ne lui raconte pas le reste. Dans l’après-midi, il passe au bureau de Nathalie Jouan, la coordinatrice de la résidence. Elle lui confirme que son dossier n’est lu que par l’équipe, que rien n’est dit aux résidents sans son accord et qu’en cas d’urgence seuls les soignants reçoivent ce qui est utile. Elle l’écrit dans son plan d’aide, à sa demande. Oumar repart soulagé, sans savoir si Gérard a vraiment compris.",
+      "conclusion": "L’épisode montre que l’origine d’une démence liée à l’alcool peut exposer à des jugements, et que la personne garde le droit de choisir ce qu’elle partage. Oumar pose une limite à Gérard, fait inscrire son choix de confidentialité et garde son histoire pour ceux à qui il l’a confiée.",
+      "mirror": [
+        "À table, Odette pose sa cuillère et ne dit rien : elle connaît l’histoire et ne la raconte pas à la place d’Oumar. Une proche dans sa situation peut, après le repas, demander simplement : « Tu veux en parler, ou on parle du banc ? » Elle n’a pas à défendre la personne en dévoilant ce qu’elle sait. Si la plaisanterie se répète, elle peut proposer de l’accompagner chez la coordinatrice, en lui laissant le choix de ce qu’il dira."
+      ],
+      "sources": [
+        "oms-cddr",
+        "ridley-2013",
+        "nice-cg115",
+        "nice-ng97",
+        "has-fiche14-communiquer"
+      ],
+      "continuity": {
+        "choice": "Oumar répond qu’il ne boit pas et qu’il vise bien avec un gabarit ; le lendemain, il demande à Gérard de cesser ces plaisanteries sans lui raconter son histoire. Nathalie Jouan inscrit dans le plan d’aide que rien n’est transmis aux résidents sans son accord, et qu’en urgence seuls les soignants reçoivent l’utile.",
+        "next": "La livraison des lattes de chêne prévue le jeudi suivant n’aura pas lieu, et le programme du chantier devra changer."
+      },
+      "number": 4,
+      "diagnostic_stage": "known"
     }
   ]
 }
