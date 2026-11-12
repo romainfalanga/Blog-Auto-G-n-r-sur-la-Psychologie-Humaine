@@ -1,0 +1,2135 @@
+{
+ "adele": {
+  "clinical": true,
+  "articles": [
+   "content/posts/comprendre-et-maitriser-ses-emotions/adele-croix-a-cote-du-metier.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/adele-la-ligne-a-effacer.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/adele-ne-pas-remplir-la-case.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/adele-porte-vitree.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/adele-trois-barres-decalees.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/adele-bruit-des-pedales.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/adele-deux-portes-sur-le-palier.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/adele-barre-qui-manque.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/adele-les-chaises-ajoutees.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/adele-lampe-au-dessus-du-lit.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/adele-ce-que-la-bande-montre.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/adele-un-tirage-pour-la-vitre.md"
+  ],
+  "mirror": "data/article_mirrors/adele.json"
+ },
+ "adrien": {
+  "clinical": false,
+  "articles": [
+   "content/posts/sortir-de-ses-schemas-repetitifs/abandon-instabilite-face-solitude.md",
+   "content/posts/reprendre-le-controle-de-ses-pensees/raisonnement-emotionnel-seul-face-a-soi.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/melancolie-face-a-la-solitude.md",
+   "content/posts/sortir-de-ses-schemas-repetitifs/dependance-incompetence-face-autorite-causes.md",
+   "content/posts/reprendre-le-controle-de-ses-pensees/rumination-mentale-seul-face-a-soi-meme-adrien.md",
+   "content/posts/reprendre-le-controle-de-ses-pensees/biais-negativite-situation-competition-adrien.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/amertume-reconversion-professionnelle-burn-out.md",
+   "content/posts/sortir-de-ses-schemas-repetitifs/deni-apres-un-echec-comprendre-et-agir.md",
+   "content/posts/reprendre-le-controle-de-ses-pensees/orientation-regret-rupture.md",
+   "content/posts/sortir-de-ses-schemas-repetitifs/annulation-retroactive-en-situation-de-conflit.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/technique-rain-seul-face-a-soi-meme.md"
+  ],
+  "mirror": "data/article_mirrors/adrien.json"
+ },
+ "agathe": {
+  "clinical": true,
+  "articles": [
+   "content/posts/comprendre-et-maitriser-ses-emotions/agathe-boite-bleue.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/agathe-sachet-sous-la-pluie.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/agathe-plan-sans-estrade.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/agathe-laquelle-dabord.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/agathe-la-copie-grise.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/agathe-deux-creneaux.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/agathe-la-place-au-soleil.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/agathe-le-plan-a-lenvers.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/agathe-ce-qui-sest-passe-au-banc.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/agathe-un-jeudi-sous-toit.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/agathe-une-question-sur-la-table.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/agathe-la-carte-reste-au-jardin.md"
+  ],
+  "mirror": "data/article_mirrors/agathe.json"
+ },
+ "agnes": {
+  "clinical": true,
+  "articles": [
+   "content/posts/comprendre-et-maitriser-ses-emotions/agnes-conscience-retrecie.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/agnes-geste-sans-intention.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/agnes-souvenirs-incomplets.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/agnes-fatigue-apres-episode.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/agnes-pratique-culturelle-choisie.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/agnes-transe-et-possession.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/agnes-malaise-inhabituel-reevaluation.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/agnes-relais-sans-signal.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/agnes-circonstances-et-cause.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/agnes-recurrence-et-relais.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/agnes-effort-invisible-preparation.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/agnes-atelier-appuis-durables.md"
+  ],
+  "mirror": "data/article_mirrors/agnes.json"
+ },
+ "aline": {
+  "clinical": false,
+  "articles": [
+   "content/posts/sortir-de-ses-schemas-repetitifs/aline-sauveur-aider-sans-effacer.md",
+   "content/posts/sortir-de-ses-schemas-repetitifs/aline-surresponsabilite-partage-taches.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/aline-culpabilite-repos.md",
+   "content/posts/sortir-de-ses-schemas-repetitifs/aline-limite-affection-couple.md",
+   "content/posts/sortir-de-ses-schemas-repetitifs/aline-reciprocite-relations.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/aline-tolerer-deception-autrui.md",
+   "content/posts/sortir-de-ses-schemas-repetitifs/aline-demander-aide-souhaitee.md",
+   "content/posts/sortir-de-ses-schemas-repetitifs/aline-recevoir-aide-justifier.md",
+   "content/posts/sortir-de-ses-schemas-repetitifs/aline-desaccord-lien-famille.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/aline-fatigue-compassion-relais.md",
+   "content/posts/reprendre-le-controle-de-ses-pensees/aline-aide-resout-pas-tout.md",
+   "content/posts/reprendre-le-controle-de-ses-pensees/aline-entraide-fidele-valeurs.md"
+  ],
+  "mirror": "data/article_mirrors/aline.json"
+ },
+ "alix": {
+  "clinical": true,
+  "articles": [
+   "content/posts/comprendre-et-maitriser-ses-emotions/alix-plus-de-dates-que-de-samedis.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/alix-deux-papiers-sur-la-table.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/alix-trois-samedis-dans-le-carnet.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/alix-veille-bleue-et-deux-reveils.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/alix-la-boite-qui-prend-la-place.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/alix-samedi-qui-prend-toute-la-journee.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/alix-un-bleu-dans-la-petite-boite.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/alix-le-mot-sur-la-lettre.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/alix-le-banc-que-robin-a-quitte.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/alix-deux-messages-restes-ouverts.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/alix-ce-qui-entre-dans-le-roulement.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/alix-table-passee-de-main-en-main.md"
+  ],
+  "mirror": "data/article_mirrors/alix.json"
+ },
+ "amael": {
+  "clinical": true,
+  "articles": [
+   "content/posts/comprendre-et-maitriser-ses-emotions/amael-schema-persistant-au-travail.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/amael-consentement-et-vie-privee.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/amael-detresse-et-consultation.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/amael-pensees-et-comportements.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/amael-retentissement-au-travail.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/amael-honte-et-parole-clinique.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/amael-soin-individualise.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/amael-reevaluation-changement-recent.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/amael-responsabilites-prevention.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/amael-limites-des-proches.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/amael-evolution-et-reussite.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/amael-participation-et-suivi.md"
+  ],
+  "mirror": "data/article_mirrors/amael.json"
+ },
+ "anais": {
+  "clinical": false,
+  "articles": [
+   "content/posts/sortir-de-ses-schemas-repetitifs/anais-energie-rythme-maladie.md",
+   "content/posts/reprendre-le-controle-de-ses-pensees/anais-incertitude-informations-sante.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/anais-fatigue-droit-repos.md",
+   "content/posts/reprendre-le-controle-de-ses-pensees/anais-capacites-fluctuantes-projets.md",
+   "content/posts/reprendre-le-controle-de-ses-pensees/anais-decrire-sensations.md",
+   "content/posts/sortir-de-ses-schemas-repetitifs/anais-demande-aide-concrete.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/anais-handicap-invisible-reconnaissance.md",
+   "content/posts/reprendre-le-controle-de-ses-pensees/anais-plans-journee-variable.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/anais-identite-au-dela-maladie.md",
+   "content/posts/sortir-de-ses-schemas-repetitifs/anais-activites-adaptees-valeurs.md",
+   "content/posts/sortir-de-ses-schemas-repetitifs/anais-amenagement-travail.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/anais-soutien-espoir-realiste.md"
+  ],
+  "mirror": "data/article_mirrors/anais.json"
+ },
+ "anatole": {
+  "clinical": true,
+  "articles": [
+   "content/posts/comprendre-et-maitriser-ses-emotions/anatole-deux-facons-de-survenir.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/anatole-reunion-trop-silencieuse.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/anatole-deux-repetitions.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/anatole-des-mots-pour-la-nuque.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/anatole-pas-de-demonstration.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/anatole-fleches-et-silence.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/anatole-crayon-qui-bat-la-mesure.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/anatole-fiche-et-col-de-chemise.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/anatole-chaise-a-cote-de-la-table.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/anatole-phrase-pour-accueillir.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/anatole-une-question-sur-le-suivi.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/anatole-six-chaises-et-deux-dates.md"
+  ],
+  "mirror": "data/article_mirrors/anatole.json"
+ },
+ "antonin": {
+  "clinical": true,
+  "articles": [
+   "content/posts/comprendre-et-maitriser-ses-emotions/antonin-cle-sans-date.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/antonin-seuil-qui-bouge.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/antonin-creneau-des-clarinettes.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/antonin-devis-du-velo.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/antonin-sommeil-au-rendez-vous.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/antonin-livraison-en-retard.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/antonin-avis-que-personne-na-donne.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/antonin-derniere-partie-du-jeudi.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/antonin-planning-du-soir.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/antonin-essai-porte-fermee.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/antonin-repetition-reprend.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/antonin-venir-comme-auditeur.md"
+  ],
+  "mirror": "data/article_mirrors/antonin.json"
+ },
+ "armand": {
+  "clinical": true,
+  "articles": [
+   "content/posts/comprendre-et-maitriser-ses-emotions/armand-carton-gris-premier-tri.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/armand-porte-du-foyer.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/armand-carte-pont-bas-rester.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/armand-feuille-consultation-memoire.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/armand-trait-bord-rive.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/armand-affiche-sous-son-nom.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/armand-jeanne-rend-jeudi.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/armand-buffet-deux-destinations.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/armand-matin-inhabituel-appel.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/armand-retour-billet-a-remplacer.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/armand-trois-cartes-remises.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/armand-table-des-passages.md"
+  ],
+  "mirror": "data/article_mirrors/armand.json"
+ },
+ "aubin": {
+  "clinical": true,
+  "articles": [
+   "content/posts/comprendre-et-maitriser-ses-emotions/aubin-envie-et-comprehension.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/aubin-honte-et-aide-discrete.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/aubin-carences-et-bilan.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/aubin-materiel-adapte-et-risque.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/aubin-envie-pendant-attente.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/aubin-pause-et-cooperation.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/aubin-nouvel-environnement.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/aubin-recrudescence-sans-faute.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/aubin-signaler-ingestion-possible.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/aubin-coordination-apres-alerte.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/aubin-autonomie-et-appui.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/aubin-participation-durable.md"
+  ],
+  "mirror": "data/article_mirrors/aubin.json"
+ },
+ "augustin": {
+  "clinical": true,
+  "articles": [
+   "content/posts/comprendre-et-maitriser-ses-emotions/augustin-le-bord-du-soleil.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/augustin-deux-roles.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/augustin-la-legende-de-la-carte.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/augustin-le-soleil-sur-la-nappe.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/augustin-la-boite-a-plat.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/augustin-laisser-le-disque.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/augustin-la-grande-salle.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/augustin-le-programme.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/augustin-le-voisin.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/augustin-un-soleil-plus-pale.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/augustin-le-temps-du-silence.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/augustin-la-prochaine-piece.md"
+  ],
+  "mirror": "data/article_mirrors/augustin.json"
+ },
+ "baptiste": {
+  "clinical": false,
+  "articles": [
+   "content/posts/reprendre-le-controle-de-ses-pensees/baptiste-valeurs-arbitrages-quotidien.md",
+   "content/posts/reprendre-le-controle-de-ses-pensees/baptiste-decider-incertitude.md",
+   "content/posts/reprendre-le-controle-de-ses-pensees/baptiste-cout-opportunite-choix.md",
+   "content/posts/reprendre-le-controle-de-ses-pensees/baptiste-decision-essai-reversible.md",
+   "content/posts/reprendre-le-controle-de-ses-pensees/baptiste-regret-informations-disponibles.md",
+   "content/posts/reprendre-le-controle-de-ses-pensees/baptiste-conflit-deux-valeurs.md",
+   "content/posts/reprendre-le-controle-de-ses-pensees/baptiste-sens-actions-ordinaires.md",
+   "content/posts/reprendre-le-controle-de-ses-pensees/baptiste-soi-demain-present.md",
+   "content/posts/reprendre-le-controle-de-ses-pensees/baptiste-controle-influence-limites.md",
+   "content/posts/reprendre-le-controle-de-ses-pensees/baptiste-engagement-progressif-projet.md",
+   "content/posts/reprendre-le-controle-de-ses-pensees/baptiste-objectifs-ressources-reelles.md",
+   "content/posts/reprendre-le-controle-de-ses-pensees/baptiste-reviser-choix-chemin.md"
+  ],
+  "mirror": "data/article_mirrors/baptiste.json"
+ },
+ "basile": {
+  "clinical": true,
+  "articles": [
+   "content/posts/comprendre-et-maitriser-ses-emotions/basile-chercher-reconfort-tunnel-effondre.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/basile-recevoir-reconfort-deux-descentes.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/basile-plaisir-peu-visible-toc-final.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/basile-irritation-offre-aide-raccord.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/basile-relais-annonce-atelier-remplacante.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/basile-appui-apprendre-mesure-pente.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/basile-relations-pairs-depart-deux.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/basile-refus-contact-fete-piste.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/basile-confidentialite-panneau-jeu.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/basile-soutien-adultes-relais-plateau.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/basile-changement-sante-mal-ventre.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/basile-evolution-jeu-trois-chemins.md"
+  ],
+  "mirror": "data/article_mirrors/basile.json"
+ },
+ "berenice": {
+  "clinical": true,
+  "articles": [
+   "content/posts/comprendre-et-maitriser-ses-emotions/berenice-changement-brutal-relais-medical.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/berenice-attribution-traitement-evaluation.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/berenice-parole-entravee-adresser-personne.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/berenice-initiative-motrice-geste-bloque.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/berenice-besoins-corporels-complication.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/berenice-fluctuations-appreciation-amelioration.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/berenice-peur-immobilite-vecue.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/berenice-inquietudes-participation-soins.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/berenice-souvenirs-partiels-recit.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/berenice-retour-accueil-role-choisi.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/berenice-changement-ulterieur-reevaluation.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/berenice-resolution-reprise-place-tournoi.md"
+  ],
+  "mirror": "data/article_mirrors/berenice.json"
+ },
+ "bernard": {
+  "clinical": false,
+  "articles": [
+   "content/posts/sortir-de-ses-schemas-repetitifs/surcontrole-emotionnel-parents.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/solitude-face-a-la-solitude-comprendre-difference.md",
+   "content/posts/sortir-de-ses-schemas-repetitifs/manque-affectif-enfants-causes.md",
+   "content/posts/reprendre-le-controle-de-ses-pensees/biais-autruche-deuil-comprendre-evitement.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/apathie-en-voyage-ou-expatriation-comprendre.md",
+   "content/posts/sortir-de-ses-schemas-repetitifs/somatisation-face-au-vieillissement-corps-parle.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/comprendre-tristesse-lors-d-un-deuil.md",
+   "content/posts/reprendre-le-controle-de-ses-pensees/biais-omission-face-a-la-solitude-bernard.md",
+   "content/posts/sortir-de-ses-schemas-repetitifs/clivage-conflit-comprendre-gerer.md",
+   "content/posts/sortir-de-ses-schemas-repetitifs/isolement-social-alienation-amitie.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/tendresse-avec-ses-enfants-bernard.md"
+  ],
+  "mirror": "data/article_mirrors/bernard.json"
+ },
+ "blandine": {
+  "clinical": true,
+  "articles": [
+   "content/posts/comprendre-et-maitriser-ses-emotions/blandine-elastique-bleu.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/blandine-phrase-sur-les-branches.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/blandine-table-de-mireille.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/blandine-mesure-neuf.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/blandine-notes-de-consultation.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/blandine-galette-sur-le-carrelage.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/blandine-avant-la-place.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/blandine-encre-et-crayon.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/blandine-case-des-remerciements.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/blandine-chaise-pres-porte.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/blandine-portee-de-la-semaine.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/blandine-deux-feuilles-pour-choeur.md"
+  ],
+  "mirror": "data/article_mirrors/blandine.json"
+ },
+ "camille": {
+  "clinical": false,
+  "articles": [
+   "content/posts/comprendre-et-maitriser-ses-emotions/fatigue-compassion-face-maladie.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/sentiment-imposture-apres-un-succes.md",
+   "content/posts/reprendre-le-controle-de-ses-pensees/catastrophisation-avec-enfants.md",
+   "content/posts/reprendre-le-controle-de-ses-pensees/biais-negativite-face-decision-importante-camille.md",
+   "content/posts/sortir-de-ses-schemas-repetitifs/abnegation-sacrifice-de-soi-maladie.md",
+   "content/posts/sortir-de-ses-schemas-repetitifs/vulnerabilite-au-danger-face-a-la-maladie.md",
+   "content/posts/sortir-de-ses-schemas-repetitifs/attachement-secure-enfants-caracteristiques-developper.md",
+   "content/posts/sortir-de-ses-schemas-repetitifs/comprendre-le-deplacement-en-famille-guide-camille.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/auto-compassion-kristin-neff-en-famille.md",
+   "content/posts/sortir-de-ses-schemas-repetitifs/refoulement-avec-ses-parents-causes.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/compassion-face-a-la-maladie-aider-proche.md",
+   "content/posts/reprendre-le-controle-de-ses-pensees/filtre-mental-abstraction-selective-conflit-camille.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/inquietude-decision-importante.md"
+  ],
+  "mirror": "data/article_mirrors/camille.json"
+ },
+ "celeste": {
+  "clinical": true,
+  "articles": [
+   "content/posts/comprendre-et-maitriser-ses-emotions/celeste-la-boite-aux-deux-profils.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/celeste-le-trait-au-milieu.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/celeste-la-reglette-a-plat.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/celeste-la-vitre-du-passage.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/celeste-le-tissu-sous-la-main.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/celeste-deux-vendredis-sur-la-fiche.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/celeste-une-ligne-pour-le-collectif.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/celeste-le-papier-du-medecin.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/celeste-deux-broches-a-lessai.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/celeste-le-carton-a-six-places.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/celeste-deux-tasses-hors-de-latelier.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/celeste-les-six-reflets-du-passage.md"
+  ],
+  "mirror": "data/article_mirrors/celeste.json"
+ },
+ "celian": {
+  "clinical": true,
+  "articles": [
+   "content/posts/comprendre-et-maitriser-ses-emotions/celian-fiche-et-spatule.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/celian-case-des-absents.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/celian-coin-du-gateau.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/celian-huit-lignes-apres-service.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/celian-choisir-ce-qu-il-partage.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/celian-relire-son-bilan.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/celian-partager-les-taches-du-gouter.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/celian-le-doute-sur-le-carton.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/celian-reperes-changement-de-salle.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/celian-quand-laudio-ne-suit-plus.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/celian-faire-confiance-a-la-table.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/celian-garder-les-appuis-qui-servent.md"
+  ],
+  "mirror": "data/article_mirrors/celian.json"
+ },
+ "clemence": {
+  "clinical": true,
+  "articles": [
+   "content/posts/comprendre-et-maitriser-ses-emotions/clemence-case-douverture.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/clemence-horaire-dans-le-fil.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/clemence-noms-sur-le-carnet.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/clemence-fiche-pour-baya.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/clemence-affiche-retournee.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/clemence-page-du-cours.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/clemence-fauteuils-du-foyer.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/clemence-titre-efface.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/clemence-boitier-au-sol.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/clemence-rendez-vous-apres.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/clemence-programme-plie.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/clemence-question-dans-le-noir.md"
+  ],
+  "mirror": "data/article_mirrors/clemence.json"
+ },
+ "clovis": {
+  "clinical": true,
+  "articles": [
+   "content/posts/comprendre-et-maitriser-ses-emotions/clovis-discordance-difficile-a-nommer.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/clovis-preoccupation-au-travail.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/clovis-honte-et-parole.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/clovis-ecoute-en-consultation.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/clovis-vecu-ancien-diagnostic.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/clovis-au-dela-du-defaut-esthetique.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/clovis-etude-et-soin.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/clovis-intensite-variable.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/clovis-securite-prioritaire.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/clovis-proche-et-relais.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/clovis-place-professionnelle-choisie.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/clovis-projet-et-suivi.md"
+  ],
+  "mirror": "data/article_mirrors/clovis.json"
+ },
+ "come": {
+  "clinical": true,
+  "articles": [
+   "content/posts/comprendre-et-maitriser-ses-emotions/come-craie-sur-le-bati.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/come-bac-derriere-le-comptoir.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/come-feuille-a-deux-colonnes.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/come-jeudi-petite-carte.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/come-place-pour-la-chaise.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/come-plateau-deja-parti.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/come-avant-le-deuxieme-essai.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/come-un-appel-sans-la-partie.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/come-les-references-sur-le-ticket.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/come-une-invitation-pour-sana.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/come-tour-de-table.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/come-premier-pion-sur-le-bois.md"
+  ],
+  "mirror": "data/article_mirrors/come.json"
+ },
+ "constance": {
+  "clinical": true,
+  "articles": [
+   "content/posts/comprendre-et-maitriser-ses-emotions/constance-effort-invisible.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/constance-plaisir-emousse.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/constance-comprendre-tableau-mixte.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/constance-tension-pendant-pause.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/constance-pensees-sans-solution.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/constance-attention-detournee.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/constance-sommeil-fatigue.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/constance-autocritique-decouragement.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/constance-retrait-relations.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/constance-contrainte-reelle-anticipation.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/constance-variations-reevaluation.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/constance-participer-difficultes-persistantes.md"
+  ],
+  "mirror": "data/article_mirrors/constance.json"
+ },
+ "cyril": {
+  "clinical": true,
+  "articles": [
+   "content/posts/comprendre-et-maitriser-ses-emotions/cyril-remarquer-le-geste-apres-coup.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/cyril-envie-attiree-par-une-sensation.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/cyril-soulagement-bref-quand-la-tension-monte.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/cyril-temps-pris-sur-les-soirees.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/cyril-crainte-que-les-lesions-se-voient.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/cyril-plaie-qui-change-et-avis-rapide.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/cyril-irritation-et-geste-qui-persiste.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/cyril-fin-de-journee-et-fatigue.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/cyril-geste-qui-revient-apres-un-essai.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/cyril-gene-de-la-main-et-role-au-jardin.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/cyril-attente-qui-fait-revenir-lenvie.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/cyril-progres-et-retours-du-geste.md"
+  ],
+  "mirror": "data/article_mirrors/cyril.json"
+ },
+ "damien": {
+  "clinical": true,
+  "articles": [
+   "content/posts/comprendre-et-maitriser-ses-emotions/damien-explosion-pour-une-cle.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/damien-violence-des-mots-au-travail.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/damien-colere-sans-agression.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/damien-lire-une-demande-comme-une-attaque.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/damien-reperer-la-montee-de-tension.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/damien-examiner-les-causes-d-un-acces.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/damien-impulsivite-et-emprise.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/damien-reparer-le-pupitre-sans-condition.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/damien-revoir-le-plan-apres-un-acces.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/damien-regler-le-pret-en-respectant-les-limites.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/damien-reprendre-une-repetition-avec-un-relais.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/damien-jouer-sans-reclamer-la-confiance.md"
+  ],
+  "mirror": "data/article_mirrors/damien.json"
+ },
+ "diane": {
+  "clinical": true,
+  "articles": [
+   "content/posts/comprendre-et-maitriser-ses-emotions/diane-premier-message-atelier.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/diane-nom-trouble-premier-rendez-vous.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/diane-excuses-banc-canal.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/diane-honte-table-poterie.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/diane-faire-ses-preuves-bibliotheque.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/diane-doute-bol-four.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/diane-appeler-malik-accueil.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/diane-choisir-ce-que-dit-cartel.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/diane-peur-que-ca-revienne-marche.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/diane-demander-aide-sans-tout-confier.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/diane-defendre-place-des-pieces.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/diane-faire-place-avis-vernissage.md"
+  ],
+  "mirror": "data/article_mirrors/diane.json"
+ },
+ "djamila": {
+  "clinical": false,
+  "articles": [
+   "content/posts/sortir-de-ses-schemas-repetitifs/stress-post-traumatique-complexe-deuil.md",
+   "content/posts/sortir-de-ses-schemas-repetitifs/mefiance-abus-en-amitie-causes-profondes.md",
+   "content/posts/sortir-de-ses-schemas-repetitifs/gaslighting-manipulation-psychologique-au-travail.md",
+   "content/posts/reprendre-le-controle-de-ses-pensees/biais-confirmation-conflit.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/sentiment-injustice-conflit-reconstruction-post-toxique.md",
+   "content/posts/sortir-de-ses-schemas-repetitifs/trauma-bonding-attachement-traumatique-amitie.md",
+   "content/posts/sortir-de-ses-schemas-repetitifs/cycle-abus-tension-explosion-lune-de-miel-parents.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/soulagement-apres-un-succes.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/fierte-au-travail-comprendre-manifestations-hpi.md",
+   "content/posts/reprendre-le-controle-de-ses-pensees/biais-de-groupe-ecole-etudes-psychologie.md",
+   "content/posts/sortir-de-ses-schemas-repetitifs/enfant-interieur-apres-rupture-amoureuse.md"
+  ],
+  "mirror": "data/article_mirrors/djamila.json"
+ },
+ "doriane": {
+  "clinical": true,
+  "articles": [
+   "content/posts/comprendre-et-maitriser-ses-emotions/doriane-envie-rejoindre-groupe.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/doriane-preference-livre-devalorisation.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/doriane-certitude-etre-acceptee.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/doriane-retour-pratique-jugement-personnel.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/doriane-reserver-parole-amie.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/doriane-renoncer-role-peur-contact.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/doriane-surveiller-voix-perdre-fil.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/doriane-desaccord-peur-perdre-place.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/doriane-peur-jugement-therapeute.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/doriane-rejouer-repetition-soiree.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/doriane-nouveau-lieu-peur-revient.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/doriane-participer-peur-encore-presente.md"
+  ],
+  "mirror": "data/article_mirrors/doriane.json"
+ },
+ "elina": {
+  "clinical": true,
+  "articles": [
+   "content/posts/comprendre-et-maitriser-ses-emotions/elina-changement-choisi-reperes-perdus.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/elina-preoccupation-qui-revient.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/elina-evaluation-apres-transition.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/elina-reprise-activite-limitee.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/elina-effort-invisible-tache-familiere.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/elina-rappel-ancien-travail.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/elina-demander-relais-et-confidentialite.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/elina-imprevu-et-retour-des-difficultes.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/elina-suivi-quand-difficultes-reviennent.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/elina-activite-qui-a-du-sens.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/elina-lien-social-presence-limitee.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/elina-faire-le-point-sans-date-de-guerison.md"
+  ],
+  "mirror": "data/article_mirrors/elina.json"
+ },
+ "elise": {
+  "clinical": false,
+  "articles": [
+   "content/posts/reprendre-le-controle-de-ses-pensees/elise-imprevu-souplesse.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/elise-humour-emotions.md",
+   "content/posts/sortir-de-ses-schemas-repetitifs/elise-distraction-choisie.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/elise-savourer-jardin.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/elise-gratitude-sans-deni.md",
+   "content/posts/sortir-de-ses-schemas-repetitifs/elise-routines-verifications.md",
+   "content/posts/sortir-de-ses-schemas-repetitifs/elise-entraide-concrete.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/elise-bienveillance-apres-revers.md",
+   "content/posts/reprendre-le-controle-de-ses-pensees/elise-changer-perspective.md",
+   "content/posts/reprendre-le-controle-de-ses-pensees/elise-optimisme-preparations-utiles.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/elise-accepter-agir.md",
+   "content/posts/sortir-de-ses-schemas-repetitifs/elise-explorer-petite-possibilite.md"
+  ],
+  "mirror": "data/article_mirrors/elise.json"
+ },
+ "eloi": {
+  "clinical": false,
+  "articles": [
+   "content/posts/reprendre-le-controle-de-ses-pensees/eloi-retour-apprentissage.md",
+   "content/posts/reprendre-le-controle-de-ses-pensees/eloi-sentiment-efficacite-essais.md",
+   "content/posts/reprendre-le-controle-de-ses-pensees/eloi-expliquer-echec.md",
+   "content/posts/reprendre-le-controle-de-ses-pensees/eloi-comparaison-collegues.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/eloi-motivation-interet.md",
+   "content/posts/sortir-de-ses-schemas-repetitifs/eloi-apprendre-prouver-valeur.md",
+   "content/posts/sortir-de-ses-schemas-repetitifs/eloi-demander-aide-debutant.md",
+   "content/posts/sortir-de-ses-schemas-repetitifs/eloi-progression-droit-essai.md",
+   "content/posts/sortir-de-ses-schemas-repetitifs/eloi-orientation-valeurs.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/eloi-reprendre-apres-erreur.md",
+   "content/posts/reprendre-le-controle-de-ses-pensees/eloi-competences-transferables.md",
+   "content/posts/sortir-de-ses-schemas-repetitifs/eloi-autonomie-cadre-soutien.md"
+  ],
+  "mirror": "data/article_mirrors/eloi.json"
+ },
+ "elvire": {
+  "clinical": true,
+  "articles": [
+   "content/posts/comprendre-et-maitriser-ses-emotions/elvire-reveil-precoce-et-attention.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/elvire-possibilite-de-dormir.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/elvire-bilan-insomnie-chronique.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/elvire-somnolence-avant-de-conduire.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/elvire-apprehension-du-lendemain.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/elvire-chambre-devenue-bureau.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/elvire-agenda-du-sommeil.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/elvire-irritabilite-et-reparer.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/elvire-nuit-difficile-apres-progres.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/elvire-parler-des-besoins-au-travail.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/elvire-ouvrir-apres-une-nuit-fragile.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/elvire-donner-une-suite-au-suivi.md"
+  ],
+  "mirror": "data/article_mirrors/elvire.json"
+ },
+ "emilien": {
+  "clinical": true,
+  "articles": [
+   "content/posts/comprendre-et-maitriser-ses-emotions/emilien-bruit-de-la-caisse.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/emilien-bruit-de-la-gouttiere.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/emilien-feuillet-sous-aimant.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/emilien-devis-avant-midi.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/emilien-cle-du-fourgon.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/emilien-vingt-minutes-de-bande.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/emilien-extrait-restait-ferme.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/emilien-le-velo-de-lucie.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/emilien-bouton-du-niveau.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/emilien-horaire-de-la-regie.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/emilien-matin-sous-auvent.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/emilien-apres-la-derniere-ecoute.md"
+  ],
+  "mirror": "data/article_mirrors/emilien.json"
+ },
+ "eric": {
+  "clinical": true,
+  "articles": [
+   "content/posts/comprendre-et-maitriser-ses-emotions/eric-perdre-lheure-depart.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/eric-deplacer-les-rendez-vous.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/eric-envie-au-detour-de-la-place.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/eric-distinguer-envie-et-sevrage.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/eric-soins-qui-se-parlent.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/eric-honte-avant-de-parler.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/eric-venir-sans-promettre-la-suite.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/eric-reparler-dune-reprise.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/eric-confusion-demander-une-aide-urgente.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/eric-reparer-un-engagement.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/eric-envie-de-boire-apres-une-reussite.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/eric-amelioration-et-suite-du-suivi.md"
+  ],
+  "mirror": "data/article_mirrors/eric.json"
+ },
+ "esmee": {
+  "clinical": true,
+  "articles": [
+   "content/posts/comprendre-et-maitriser-ses-emotions/esmee-la-pile-grise-a-change-de-cote.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/esmee-attendre-le-retour-sur-les-carnets.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/esmee-entre-le-grain-et-le-silence.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/esmee-une-pause-trop-courte.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/esmee-la-table-vue-du-couloir.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/esmee-ce-qui-reste-derriere-la-table.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/esmee-un-avis-pour-une-sensation-nouvelle.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/esmee-un-essai-choisi-avec-camille.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/esmee-quand-ines-demande-quoi-faire.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/esmee-le-programme-a-lenvers.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/esmee-ouvrir-le-carnet-devant-la-visiteuse.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/esmee-la-derniere-feuille-pour-un-autre-carnet.md"
+  ],
+  "mirror": "data/article_mirrors/esmee.json"
+ },
+ "evaelle": {
+  "clinical": true,
+  "articles": [
+   "content/posts/comprendre-et-maitriser-ses-emotions/evaelle-pensee-interrompt-etiquette.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/evaelle-peur-pendant-tri.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/evaelle-parole-interieure-suggestions.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/evaelle-geste-et-initiative.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/evaelle-memoire-presente.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/evaelle-passage-incertain-reunion.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/evaelle-partiel-retentissement.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/evaelle-origine-non-deduite.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/evaelle-cout-du-quotidien.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/evaelle-soutien-aux-limites-claires.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/evaelle-fluctuation-et-relais.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/evaelle-engagement-choisi-aboutit.md"
+  ],
+  "mirror": "data/article_mirrors/evaelle.json"
+ },
+ "fabien": {
+  "clinical": false,
+  "articles": [
+   "content/posts/reprendre-le-controle-de-ses-pensees/biais-cout-irrecoverable-rupture.md",
+   "content/posts/sortir-de-ses-schemas-repetitifs/transmissions-transgenerationnelles-avec-ses-parents-guide.md",
+   "content/posts/sortir-de-ses-schemas-repetitifs/isolement-social-alienation-solitude.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/comprendre-envie-ecole-etudes-psychologie.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/mepris-au-travail-comprendre-et-agir.md",
+   "content/posts/reprendre-le-controle-de-ses-pensees/gerer-obligations-rigides-je-dois-il-faut-conflit.md",
+   "content/posts/sortir-de-ses-schemas-repetitifs/scenario-de-vie-analyse-transactionnelle-famille.md",
+   "content/posts/sortir-de-ses-schemas-repetitifs/positions-de-vie-travail-analyse-transactionnelle.md",
+   "content/posts/reprendre-le-controle-de-ses-pensees/malediction-du-savoir-manager-hpi.md",
+   "content/posts/sortir-de-ses-schemas-repetitifs/compulsion-repetition-freud-seul-face-soi-meme.md",
+   "content/posts/sortir-de-ses-schemas-repetitifs/adultification-avec-ses-parents-sortir-schema.md"
+  ],
+  "mirror": "data/article_mirrors/fabien.json"
+ },
+ "fanny": {
+  "clinical": true,
+  "articles": [
+   "content/posts/comprendre-et-maitriser-ses-emotions/fanny-preoccupation-odeur-lecture-interrompue.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/fanny-gestes-ambigus-interpretes-comme-indices.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/fanny-verifications-repetees-depart-retarde.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/fanny-reassurance-repetee-relation-limites.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/fanny-camouflage-preparation-envahissante.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/fanny-evitement-proximite-rencontre-choisie.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/fanny-honte-difficulte-a-se-confier.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/fanny-recul-variable-detresse-conviction.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/fanny-evaluation-clinique-trouble-olfactif.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/fanny-travail-accompli-cout-invisible.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/fanny-autoattention-echanges-litteraires.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/fanny-projet-reussi-preoccupation-persistante.md"
+  ],
+  "mirror": "data/article_mirrors/fanny.json"
+ },
+ "felix": {
+  "clinical": true,
+  "articles": [
+   "content/posts/comprendre-et-maitriser-ses-emotions/felix-fuite-percue-trop-tard.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/felix-douleur-retenue.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/felix-comprendre-debordement.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/felix-diagnostic-bilan.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/felix-acces-toilettes.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/felix-honte-parmi-autres.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/felix-accident-reproche.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/felix-soins-sans-epreuve.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/felix-fatigue-parentale-relais.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/felix-fluctuations-suivi.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/felix-peur-accident-renoncer.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/felix-participer-sans-preuve.md"
+  ],
+  "mirror": "data/article_mirrors/felix.json"
+ },
+ "gabin": {
+  "clinical": true,
+  "articles": [
+   "content/posts/comprendre-et-maitriser-ses-emotions/gabin-chaise-contre-le-mur.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/gabin-argent-qui-manque.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/gabin-pli-du-justificatif.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/gabin-trajet-du-soir.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/gabin-message-au-dessert.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/gabin-liste-a-la-craie.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/gabin-deux-paniers.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/gabin-dernier-bac.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/gabin-feuille-a-mettre-a-jour.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/gabin-lumiere-du-couloir.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/gabin-vis-dans-enveloppe.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/gabin-assiette-au-bout.md"
+  ],
+  "mirror": "data/article_mirrors/gabin.json"
+ },
+ "gaelle": {
+  "clinical": true,
+  "articles": [
+   "content/posts/comprendre-et-maitriser-ses-emotions/gaelle-chaise-pres-du-bac.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/gaelle-ce-que-lexamen-montre.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/gaelle-un-tablier-a-portee.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/gaelle-quai-au-milieu-du-trajet.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/gaelle-ce-qui-va-sur-le-plan.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/gaelle-mots-du-diagnostic.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/gaelle-lendemain-des-plaques.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/gaelle-quand-les-mots-se-brouillent.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/gaelle-apres-le-coup-de-fil.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/gaelle-chacun-son-etabli.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/gaelle-empreinte-a-lepreuve-du-public.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/gaelle-dimanche-a-deux.md"
+  ],
+  "mirror": "data/article_mirrors/gaelle.json"
+ },
+ "garance": {
+  "clinical": true,
+  "articles": [
+   "content/posts/comprendre-et-maitriser-ses-emotions/garance-joie-repetition-humeur.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/garance-calendrier-plan-soutien.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/garance-changements-appeler-suivi.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/garance-hypomanie-evaluation.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/garance-lise-accord-confidentialite.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/garance-repetition-energie-basse.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/garance-episode-depressif-consultation.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/garance-effet-signaler-traitement.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/garance-securite-relais-urgent.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/garance-retour-partie-ensemble.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/garance-concert-heure-avant.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/garance-calendrier-apres-concert.md"
+  ],
+  "mirror": "data/article_mirrors/garance.json"
+ },
+ "gasparde": {
+  "clinical": true,
+  "articles": [
+   "content/posts/comprendre-et-maitriser-ses-emotions/gasparde-nom-retire-tableau.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/gasparde-deux-confirmations.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/gasparde-banc-boulangerie.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/gasparde-la-place-dessai.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/gasparde-deux-portails.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/gasparde-note-pour-farah.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/gasparde-deux-durees-reunion.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/gasparde-reprendre-apres-pique.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/gasparde-telephone-en-promenade.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/gasparde-heure-a-corriger.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/gasparde-appeler-apres-une-nuit.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/gasparde-service-cote-vent.md"
+  ],
+  "mirror": "data/article_mirrors/gasparde.json"
+ },
+ "helene": {
+  "clinical": true,
+  "articles": [
+   "content/posts/comprendre-et-maitriser-ses-emotions/helene-ou-tombent-les-tasses.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/helene-la-chaise-de-sofia.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/helene-la-porte-bleue.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/helene-deux-facons-de-montrer.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/helene-le-prix-qui-nexiste-pas.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/helene-la-table-dans-la-cour.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/helene-le-jeudi-sans-verrerie.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/helene-le-panneau-sans-portrait.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/helene-le-parvis-de-tannerie.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/helene-la-fleche-apres-les-plats.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/helene-qui-deplace-la-fleche.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/helene-au-bout-de-la-fleche.md"
+  ],
+  "mirror": "data/article_mirrors/helene.json"
+ },
+ "hugo": {
+  "clinical": false,
+  "articles": [
+   "content/posts/comprendre-et-maitriser-ses-emotions/vide-interieur-apres-rupture-amoureuse.md",
+   "content/posts/sortir-de-ses-schemas-repetitifs/idealisation-devaluation-en-couple.md",
+   "content/posts/reprendre-le-controle-de-ses-pensees/raisonnement-emotionnel-en-couple.md",
+   "content/posts/sortir-de-ses-schemas-repetitifs/abandon-instabilité-couple-causes-solutions.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/trahison-en-situation-de-competition-musicale.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/euphorie-apres-un-succes-psychologie.md",
+   "content/posts/sortir-de-ses-schemas-repetitifs/attachement-desorganise-craintif-oscillation-rupture-amoureuse.md",
+   "content/posts/sortir-de-ses-schemas-repetitifs/etats-du-moi-conflit-hugo.md",
+   "content/posts/sortir-de-ses-schemas-repetitifs/humour-defense-conflit-hugo.md",
+   "content/posts/reprendre-le-controle-de-ses-pensees/personnalisation-reseaux-sociaux.md",
+   "content/posts/reprendre-le-controle-de-ses-pensees/divination-en-amitie-predire-avenir-negativement.md"
+  ],
+  "mirror": "data/article_mirrors/hugo.json"
+ },
+ "inaya": {
+  "clinical": true,
+  "articles": [
+   "content/posts/comprendre-et-maitriser-ses-emotions/inaya-affiche-sans-date.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/inaya-perte-interet-etal-fleurs.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/inaya-heure-sortie-dessin.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/inaya-reveils-signaux-suivi.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/inaya-horaires-boutique-adapter.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/inaya-consultation-decider-ensemble.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/inaya-choisir-ce-qu-elle-partage.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/inaya-atelier-essai-activite-adaptee.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/inaya-dire-qu-elle-pense-a-mourir.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/inaya-reporter-atelier-garder-choix.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/inaya-atelier-quatre-places.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/inaya-plan-suivi-apres-atelier.md"
+  ],
+  "mirror": "data/article_mirrors/inaya.json"
+ },
+ "ines": {
+  "clinical": false,
+  "articles": [
+   "content/posts/sortir-de-ses-schemas-repetitifs/ines-consentement-changer-avis.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/ines-difference-desir-couple.md",
+   "content/posts/sortir-de-ses-schemas-repetitifs/ines-parler-limite-intime.md",
+   "content/posts/sortir-de-ses-schemas-repetitifs/ines-vie-privee-couple.md",
+   "content/posts/reprendre-le-controle-de-ses-pensees/ines-image-corps-intimite.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/ines-fatigue-disponibilite-affective.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/ines-securite-affective-demande-claire.md",
+   "content/posts/reprendre-le-controle-de-ses-pensees/ines-crainte-jugement-intimite.md",
+   "content/posts/sortir-de-ses-schemas-repetitifs/ines-reparer-conversation-blessante.md",
+   "content/posts/sortir-de-ses-schemas-repetitifs/ines-dire-non-sans-preuve.md",
+   "content/posts/sortir-de-ses-schemas-repetitifs/ines-confiance-espace-retrouvailles.md",
+   "content/posts/sortir-de-ses-schemas-repetitifs/ines-moments-partages-sans-obligation.md"
+  ],
+  "mirror": "data/article_mirrors/ines.json"
+ },
+ "irene": {
+  "clinical": true,
+  "articles": [
+   "content/posts/comprendre-et-maitriser-ses-emotions/irene-garder-sa-place-a-latelier.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/irene-chercher-un-coin-a-deux.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/irene-montrer-le-plan-au-cdi.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/irene-arret-des-rappels-a-la-maison.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/irene-demander-un-relais-dans-le-passage.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/irene-choisir-les-mots-en-consultation.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/irene-defendre-une-idee-au-montage.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/irene-revenir-au-livre-devant-une-invitee.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/irene-choisir-la-place-de-chacun-au-programme.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/irene-dire-non-a-une-table-dans-le-hall.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/irene-retrouver-le-fil-devant-les-visiteurs.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/irene-preter-le-livre-et-garder-ses-feutres.md"
+  ],
+  "mirror": "data/article_mirrors/irene.json"
+ },
+ "irma": {
+  "clinical": true,
+  "articles": [
+   "content/posts/comprendre-et-maitriser-ses-emotions/irma-tension-et-courriel.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/irma-besoin-et-impulsion.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/irma-soulagement-bref.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/irma-honte-et-place.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/irma-contexte-et-solitude.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/irma-signaux-peu-perceptibles.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/irma-parole-et-confidentialite.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/irma-soin-et-incertitudes.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/irma-confiance-et-consequences.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/irma-sommeil-et-inquietude.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/irma-retour-apres-accalmie.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/irma-premiere-classe.md"
+  ],
+  "mirror": "data/article_mirrors/irma.json"
+ },
+ "isabelle": {
+  "clinical": false,
+  "articles": [
+   "content/posts/sortir-de-ses-schemas-repetitifs/attachement-anxieux-preoccupe-couple.md",
+   "content/posts/reprendre-le-controle-de-ses-pensees/biais-attribution-fondamentale-ecole.md",
+   "content/posts/sortir-de-ses-schemas-repetitifs/parentification-avec-ses-parents-causes-solutions.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/fatigue-compassion-travail-consequences.md",
+   "content/posts/reprendre-le-controle-de-ses-pensees/biais-de-groupe-en-situation-de-conflit-comprendre.md",
+   "content/posts/reprendre-le-controle-de-ses-pensees/methode-abcde-ellis-seule-face-a-soi-meme.md",
+   "content/posts/reprendre-le-controle-de-ses-pensees/pensees-automatiques-negatives-en-amitie-isabelle.md",
+   "content/posts/sortir-de-ses-schemas-repetitifs/dissociation-rupture-amoureuse.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/mepris-lors-d-un-deuil-comprendre-surmonter.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/empathie-cognitive-vs-affective-avec-ses-parents.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/fenetre-de-tolerance-dan-siegel-en-famille.md",
+   "content/posts/sortir-de-ses-schemas-repetitifs/les-5-blessures-ame-rupture-amoureuse.md"
+  ],
+  "mirror": "data/article_mirrors/isabelle.json"
+ },
+ "ismael": {
+  "clinical": true,
+  "articles": [
+   "content/posts/comprendre-et-maitriser-ses-emotions/ismael-souvenir-manquant-premiere-cle.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/ismael-gestes-connus-mesure-chassis.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/ismael-facture-fait-sans-souvenir.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/ismael-objet-egare-lacune-durable.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/ismael-pression-de-raconter-debuts.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/ismael-aides-choisies-fiche-du-jour.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/ismael-changement-brutal-parole-memoire.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/ismael-bilan-separe-changement-nouveau.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/ismael-histoire-personnelle-lacune-appartenance.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/ismael-reprise-travail-poste-et-permis.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/ismael-lacunes-privees-et-organisation-du-travail.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/ismael-lacunes-persistantes-vie-quotidienne.md"
+  ],
+  "mirror": "data/article_mirrors/ismael.json"
+ },
+ "joachim": {
+  "clinical": true,
+  "articles": [
+   "content/posts/comprendre-et-maitriser-ses-emotions/joachim-le-bus-du-retour.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/joachim-la-veille-de-la-sortie.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/joachim-la-file-quil-quitte.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/joachim-une-montee-dans-le-cinema.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/joachim-la-question-de-lascenseur.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/joachim-se-mettre-daccord-sur-laide.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/joachim-le-passage-detrempe.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/joachim-un-objectif-choisi-avec-louise.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/joachim-le-detour-du-bus.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/joachim-ce-quil-veut-dire-a-martine.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/joachim-reprendre-la-parole-apres-la-pause.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/joachim-la-carte-laisse-un-chemin-ouvert.md"
+  ],
+  "mirror": "data/article_mirrors/joachim.json"
+ },
+ "joris": {
+  "clinical": true,
+  "articles": [
+   "content/posts/comprendre-et-maitriser-ses-emotions/joris-un-geste-qui-lui-parait-lointain.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/joris-le-studio-familier.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/joris-la-feuille-quil-peut-examiner.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/joris-une-impression-qui-est-passee.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/joris-un-changement-a-signaler.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/joris-quand-ava-le-croyait-tranquille.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/joris-loin-de-la-regie.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/joris-quand-la-question-prend-la-place.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/joris-la-demande-qui-change-lessai.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/joris-laccueil-quil-peut-choisir.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/joris-une-question-apres-la-lecture.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/joris-ce-quil-veut-faire-ensuite.md"
+  ],
+  "mirror": "data/article_mirrors/joris.json"
+ },
+ "jules": {
+  "clinical": true,
+  "articles": [
+   "content/posts/comprendre-et-maitriser-ses-emotions/jules-ruban-sur-le-carnet.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/jules-appel-de-sonia.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/jules-nom-au-cabinet.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/jules-enveloppe-pour-solange.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/jules-essai-convenu.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/jules-commande-aux-pavots.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/jules-aller-jusqu-au-libraire.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/jules-feuille-repliee.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/jules-arret-deplace.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/jules-deux-dessins-au-cabinet.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/jules-table-tournee-vers-les-etalages.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/jules-enveloppe-au-ruban-bleu.md"
+  ],
+  "mirror": "data/article_mirrors/jules.json"
+ },
+ "karim": {
+  "clinical": false,
+  "articles": [
+   "content/posts/comprendre-et-maitriser-ses-emotions/regret-avec-ses-enfants.md",
+   "content/posts/sortir-de-ses-schemas-repetitifs/controle-de-soi-insuffisant-travail.md",
+   "content/posts/reprendre-le-controle-de-ses-pensees/illusion-controle-manager.md",
+   "content/posts/reprendre-le-controle-de-ses-pensees/biais-engagement-escalade-decision-importante.md",
+   "content/posts/reprendre-le-controle-de-ses-pensees/biais-optimisme-decision-importante-entrepreneur.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/culpabilite-avec-ses-enfants-comprendre-agir.md",
+   "content/posts/sortir-de-ses-schemas-repetitifs/droits-personnels-excessifs-grandiosité-argent-finances.md",
+   "content/posts/reprendre-le-controle-de-ses-pensees/biais-faux-consensus-conflit.md",
+   "content/posts/sortir-de-ses-schemas-repetitifs/propheties-autorealizatrices-face-decision-importante.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/enthousiasme-reconversion-professionnelle-burn-out.md",
+   "content/posts/reprendre-le-controle-de-ses-pensees/biais-action-face-a-une-decision-importante.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/impatience-lors-d-un-entretien-d-embauche.md"
+  ],
+  "mirror": "data/article_mirrors/karim.json"
+ },
+ "khadija": {
+  "clinical": true,
+  "articles": [
+   "content/posts/comprendre-et-maitriser-ses-emotions/khadija-sentiment-de-soi.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/khadija-parole-et-commande.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/khadija-souvenirs-incomplets.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/khadija-mots-communs-au-soin.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/khadija-pratique-choisie-episode-subi.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/khadija-volonte-et-episode.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/khadija-diagnostic-et-evaluation.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/khadija-choisir-qui-peut-savoir.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/khadija-effort-cache-atelier.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/khadija-recidive-et-efforts.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/khadija-soutien-et-limites.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/khadija-place-choisie-atelier.md"
+  ],
+  "mirror": "data/article_mirrors/khadija.json"
+ },
+ "laure": {
+  "clinical": true,
+  "articles": [
+   "content/posts/comprendre-et-maitriser-ses-emotions/laure-douleur-prend-place.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/laure-evaluation-et-soins.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/laure-attention-diner.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/laure-premier-accueil.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/laure-crainte-et-symptomes.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/laure-planifier-avec-fatigue.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/laure-plainte-nouvelle.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/laure-suite-evaluation.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/laure-creneau-a-deux.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/laure-aide-et-vie-privee.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/laure-preparation-jours-difficiles.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/laure-creneau-qui-tient.md"
+  ],
+  "mirror": "data/article_mirrors/laure.json"
+ },
+ "lea": {
+  "clinical": false,
+  "articles": [
+   "content/posts/comprendre-et-maitriser-ses-emotions/rejet-societe-interactions-sociales.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/abandon-emotionnel-parents.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/deception-en-amitie-comprendre-attentes-relations.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/jalousie-en-situation-de-conflit-comprendre-agir.md",
+   "content/posts/reprendre-le-controle-de-ses-pensees/lecture-de-pensee-en-amitie-psychologie.md",
+   "content/posts/sortir-de-ses-schemas-repetitifs/causes-profondes-codependance-en-amitie.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/trahison-en-couple-comprendre-surmonter-blessure.md",
+   "content/posts/sortir-de-ses-schemas-repetitifs/gaslighting-manipulation-psychologique-intimite-sexualite.md",
+   "content/posts/sortir-de-ses-schemas-repetitifs/dependance-affective-attachement-anxieux.md",
+   "content/posts/reprendre-le-controle-de-ses-pensees/pensee-tout-ou-rien-conflit.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/rage-en-situation-de-conflit.md",
+   "content/posts/reprendre-le-controle-de-ses-pensees/pensée-et-si-decision-importante.md"
+  ],
+  "mirror": "data/article_mirrors/lea.json"
+ },
+ "lenaic": {
+  "clinical": true,
+  "articles": [
+   "content/posts/comprendre-et-maitriser-ses-emotions/lenaic-recherches-en-ligne-atelier.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/lenaic-sensation-scenario-grave.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/lenaic-attention-au-corps-garage.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/lenaic-demande-assurance-qui-revient.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/lenaic-portee-avis-medical.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/lenaic-eviter-club-par-peur.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/lenaic-conviction-qui-varie.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/lenaic-signaler-changement-physique.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/lenaic-precautions-en-plus-kayak.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/lenaic-s-inquieter-pour-rester-prudent.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/lenaic-retour-automatismes-essai-reporte.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/lenaic-activite-retrouvee-premiere-sortie.md"
+  ],
+  "mirror": "data/article_mirrors/lenaic.json"
+ },
+ "lila": {
+  "clinical": true,
+  "articles": [
+   "content/posts/comprendre-et-maitriser-ses-emotions/lila-quand-les-choses-aimees-perdent-leur-attrait.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/lila-sommeil-et-fatigue-quand-le-relais-est-la.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/lila-baby-blues-depression-dater-les-changements.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/lila-quand-demander-de-laide-reveille-la-culpabilite.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/lila-garder-le-fil-quand-les-informations-se-bousculent.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/lila-choisir-un-soin-quand-plusieurs-aides-sont-possibles.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/lila-aggravation-savoir-quand-passer-le-relais.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/lila-ralentissement-et-possibilite-de-reporter.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/lila-quand-le-plaisir-revient-par-moments.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/lila-se-sentir-loin-tout-en-etant-presente.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/lila-passer-la-main-quand-la-tache-se-prolonge.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/lila-faire-le-point-apres-une-reprise-choisie.md"
+  ],
+  "mirror": "data/article_mirrors/lila.json"
+ },
+ "lison": {
+  "clinical": true,
+  "articles": [
+   "content/posts/comprendre-et-maitriser-ses-emotions/lison-dire-oui-devant-le-devis.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/lison-douter-centimetres-metres.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/lison-demander-une-relecture.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/lison-contredire-etiquette-reserve.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/lison-faire-attendre-le-fournisseur.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/lison-se-croire-fautive-devant-le-devis.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/lison-effort-invisible-rendez-vous.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/lison-vouloir-verifier-seule-livraison.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/lison-defendre-demande-reliquat.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/lison-rire-pour-eviter-de-compter.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/lison-aide-surveillance-deballage.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/lison-garder-la-main-commande.md"
+  ],
+  "mirror": "data/article_mirrors/lison.json"
+ },
+ "loic": {
+  "clinical": true,
+  "articles": [
+   "content/posts/comprendre-et-maitriser-ses-emotions/loic-preoccupation-attention.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/loic-montee-de-tension.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/loic-soulagement-consequences.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/loic-anticipation-et-controle.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/loic-solitude-contexte-affectif.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/loic-diagnostic-et-incendie.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/loic-partage-limite-et-soin.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/loic-confiance-limites-proches.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/loic-prevention-contexte.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/loic-fluctuation-reevaluation.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/loic-soins-preuves-limitees.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/loic-participation-suivi-maintenu.md"
+  ],
+  "mirror": "data/article_mirrors/loic.json"
+ },
+ "louise": {
+  "clinical": true,
+  "articles": [
+   "content/posts/comprendre-et-maitriser-ses-emotions/louise-energie-gestes-familiers.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/louise-plaisir-emousse-chanson.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/louise-ralentissement-reponses-gestes.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/louise-concentration-facture-avel.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/louise-indecision-deux-partitions.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/louise-devalorisation-retard-repare.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/louise-sommeil-reveil-precoce.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/louise-ruminations-appel-clos.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/louise-retrait-desir-lien.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/louise-desespoir-avenir-retreci.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/louise-variations-suivi-confidence.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/louise-participation-deux-couplets-chaise.md"
+  ],
+  "mirror": "data/article_mirrors/louise.json"
+ },
+ "lucas": {
+  "clinical": false,
+  "articles": [
+   "content/posts/reprendre-le-controle-de-ses-pensees/effet-spotlight-entretien-embauche.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/honte-en-colocation-causes-solutions.md",
+   "content/posts/sortir-de-ses-schemas-repetitifs/echec-ecole-etudes-psychologie-hpi.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/envie-en-situation-de-competition-hpi.md",
+   "content/posts/sortir-de-ses-schemas-repetitifs/syndrome-imposteur-ecole-etudes-lucas.md",
+   "content/posts/sortir-de-ses-schemas-repetitifs/recherche-approbation-reconnaissance-amitie-enfance.md",
+   "content/posts/reprendre-le-controle-de-ses-pensees/effet-barnum-forer-reseaux-sociaux.md",
+   "content/posts/reprendre-le-controle-de-ses-pensees/effet-dotation-decision-importante-lucas.md",
+   "content/posts/reprendre-le-controle-de-ses-pensees/effet-bandwagon-amitie.md",
+   "content/posts/reprendre-le-controle-de-ses-pensees/effet-recence-decision-importante.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/agacement-en-colocation-comprendre-emotions.md",
+   "content/posts/reprendre-le-controle-de-ses-pensees/correlation-illusoire-sur-les-reseaux-sociaux.md"
+  ],
+  "mirror": "data/article_mirrors/lucas.json"
+ },
+ "maelle": {
+  "clinical": false,
+  "articles": [
+   "content/posts/reprendre-le-controle-de-ses-pensees/maelle-rythme-horaires-alternes.md",
+   "content/posts/reprendre-le-controle-de-ses-pensees/maelle-inquietude-endormissement.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/maelle-culpabilite-repos.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/maelle-fatigue-sans-jugement.md",
+   "content/posts/reprendre-le-controle-de-ses-pensees/maelle-pensees-apres-nuit.md",
+   "content/posts/sortir-de-ses-schemas-repetitifs/maelle-rythmes-couple.md",
+   "content/posts/sortir-de-ses-schemas-repetitifs/maelle-stress-conditions-travail.md",
+   "content/posts/sortir-de-ses-schemas-repetitifs/maelle-recuperation-appuis.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/maelle-besoins-corporels.md",
+   "content/posts/reprendre-le-controle-de-ses-pensees/maelle-bruit-attention-travail.md",
+   "content/posts/reprendre-le-controle-de-ses-pensees/maelle-retrouver-reperes-rythme.md",
+   "content/posts/sortir-de-ses-schemas-repetitifs/maelle-repos-besoins-collectifs.md"
+  ],
+  "mirror": "data/article_mirrors/maelle.json"
+ },
+ "maiwenn": {
+  "clinical": true,
+  "articles": [
+   "content/posts/comprendre-et-maitriser-ses-emotions/maiwenn-proposer-un-reportage.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/maiwenn-prendre-part-au-reportage.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/maiwenn-relire-la-dictee.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/maiwenn-garder-sa-phrase.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/maiwenn-compter-le-temps-de-relecture.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/maiwenn-choisir-un-indice.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/maiwenn-garder-le-brouillon-pour-soi.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/maiwenn-dire-le-besoin-a-la-cantine.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/maiwenn-choisir-la-signature.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/maiwenn-retirer-un-portrait.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/maiwenn-couper-au-bouclage.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/maiwenn-reconnaitre-sa-voix-imprimee.md"
+  ],
+  "mirror": "data/article_mirrors/maiwenn.json"
+ },
+ "malik": {
+  "clinical": false,
+  "articles": [
+   "content/posts/sortir-de-ses-schemas-repetitifs/malik-appartenances-place.md",
+   "content/posts/reprendre-le-controle-de-ses-pensees/malik-codes-selon-contexte.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/malik-langues-emotions.md",
+   "content/posts/sortir-de-ses-schemas-repetitifs/malik-lien-distance.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/malik-solitude-choisie-subie.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/malik-discrimination-rester-soi.md",
+   "content/posts/reprendre-le-controle-de-ses-pensees/malik-adaptation-ressources-concretes.md",
+   "content/posts/reprendre-le-controle-de-ses-pensees/malik-demarches-charge-mentale.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/malik-lieu-perte-sans-cloture.md",
+   "content/posts/sortir-de-ses-schemas-repetitifs/malik-attentes-familiales.md",
+   "content/posts/sortir-de-ses-schemas-repetitifs/malik-soutiens-plusieurs-cercles.md",
+   "content/posts/sortir-de-ses-schemas-repetitifs/malik-identite-souple-personnelle.md"
+  ],
+  "mirror": "data/article_mirrors/malik.json"
+ },
+ "malo": {
+  "clinical": true,
+  "articles": [
+   "content/posts/comprendre-et-maitriser-ses-emotions/malo-derriere-le-pendard.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/malo-les-mots-de-la-docteure.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/malo-la-question-au-dessus-du-tirage.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/malo-ce-que-chacun-a-vu.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/malo-la-phrase-revenue.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/malo-non-a-la-mallette-ouverte.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/malo-une-seule-rangee.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/malo-avant-la-reunion.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/malo-la-phrase-qui-a-circule.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/malo-la-place-du-numero.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/malo-deux-questions-puis-la-remise.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/malo-une-place-pour-la-regie.md"
+  ],
+  "mirror": "data/article_mirrors/malo.json"
+ },
+ "malou": {
+  "clinical": true,
+  "articles": [
+   "content/posts/comprendre-et-maitriser-ses-emotions/malou-choix-des-acteurs.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/malou-consequences-et-intention.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/malou-intentions-supposees.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/malou-soutien-et-pression-des-pairs.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/malou-interrompre-escalade.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/malou-mefiance-envers-soin.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/malou-famille-et-epuisement.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/malou-coordonner-les-attentes.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/malou-confiance-et-temps.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/malou-reparation-sans-pardon.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/malou-reprise-et-limites.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/malou-film-termine-suivi-poursuivi.md"
+  ],
+  "mirror": "data/article_mirrors/malou.json"
+ },
+ "marceau": {
+  "clinical": true,
+  "articles": [
+   "content/posts/comprendre-et-maitriser-ses-emotions/marceau-detresse-legende.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/marceau-consentement-limites.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/marceau-honte-parole-clinique.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/marceau-justifications-responsabilite.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/marceau-controle-vecu-persistant.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/marceau-stress-calendrier.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/marceau-changement-reevaluation.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/marceau-soutien-limites.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/marceau-choix-therapeutique.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/marceau-informations-protection.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/marceau-fluctuations-progres.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/marceau-participation-suivi-durable.md"
+  ],
+  "mirror": "data/article_mirrors/marceau.json"
+ },
+ "margot": {
+  "clinical": false,
+  "articles": [
+   "content/posts/sortir-de-ses-schemas-repetitifs/drivers-contraignants-reconversion-professionnelle.md",
+   "content/posts/sortir-de-ses-schemas-repetitifs/negativite-pessimisme-reconversion.md",
+   "content/posts/reprendre-le-controle-de-ses-pensees/biais-cout-irrecuperable-decision-importante.md",
+   "content/posts/sortir-de-ses-schemas-repetitifs/croyances-limitantes-reconversion-professionnelle-methode.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/nostalgie-avec-ses-enfants-syndrome-nid-vide.md",
+   "content/posts/reprendre-le-controle-de-ses-pensees/biais-retrospectif-decision-importante.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/degout-en-couple-comprendre-agir.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/respiration-en-boite-box-breathing-en-couple.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/espoir-après-un-succès-reconversion-hpi.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/resignation-apres-un-echec-psychologie-solutions.md",
+   "content/posts/reprendre-le-controle-de-ses-pensees/biais-croyance-decision-importante.md"
+  ],
+  "mirror": "data/article_mirrors/margot.json"
+ },
+ "martin": {
+  "clinical": true,
+  "articles": [
+   "content/posts/comprendre-et-maitriser-ses-emotions/martin-le-premier-cafe.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/martin-avant-le-deuxieme-trait.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/martin-sous-lauvent.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/martin-la-grille-fermee.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/martin-le-repit-court.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/martin-la-vis-au-bord.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/martin-deux-places-a-table.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/martin-la-tasse-encore-chaude.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/martin-une-ligne-pour-ce-soir.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/martin-deux-soirs-au-meme-endroit.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/martin-le-bruit-de-la-grille.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/martin-les-deux-toits.md"
+  ],
+  "mirror": "data/article_mirrors/martin.json"
+ },
+ "mathis": {
+  "clinical": true,
+  "articles": [
+   "content/posts/comprendre-et-maitriser-ses-emotions/mathis-velo-bleu-interruptions.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/mathis-cahiers-enfance-evaluation.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/mathis-diagnostic-tdah-adulte.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/mathis-pince-rouge-amenagements.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/mathis-fiche-partagee-confidentialite.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/mathis-trajet-materiel-temps.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/mathis-livraison-repartition-maison.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/mathis-options-soins-suivi.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/mathis-changement-plan-reprise.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/mathis-premiere-permanence-limites.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/mathis-suivi-avec-simon.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/mathis-deuxieme-samedi-permanence.md"
+  ],
+  "mirror": "data/article_mirrors/mathis.json"
+ },
+ "mei": {
+  "clinical": false,
+  "articles": [
+   "content/posts/comprendre-et-maitriser-ses-emotions/embarras-en-societe-interactions.md",
+   "content/posts/sortir-de-ses-schemas-repetitifs/faux-self-winnicott-parents.md",
+   "content/posts/reprendre-le-controle-de-ses-pensees/effet-spotlight-ecole-etudes.md",
+   "content/posts/sortir-de-ses-schemas-repetitifs/assujettissement-face-a-l-autorite-se-liberer.md",
+   "content/posts/sortir-de-ses-schemas-repetitifs/fusion-personnalite-atrophiee-intimite-sexualite.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/honte-face-a-l-autorite-causes-profondes.md",
+   "content/posts/reprendre-le-controle-de-ses-pensees/effet-simple-exposition-reseaux-sociaux-mei.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/sentiment-inadequation-ecole-etudes-hpi.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/peur-face-a-lautorite.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/emerveillement-en-voyage-ou-en-expatriation-guide.md",
+   "content/posts/reprendre-le-controle-de-ses-pensees/effet-verite-illusoire-reseaux-sociaux.md"
+  ],
+  "mirror": "data/article_mirrors/mei.json"
+ },
+ "meriem": {
+  "clinical": true,
+  "articles": [
+   "content/posts/comprendre-et-maitriser-ses-emotions/meriem-trois-chutes.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/meriem-carre-de-controle.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/meriem-vingt-minutes.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/meriem-salle-fermee.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/meriem-colonne-des-nuits.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/meriem-trois-lignes-pour-le-bulletin.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/meriem-appareil-dans-le-sac.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/meriem-enveloppes-en-attente.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/meriem-rendez-vous-du-mardi.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/meriem-marge-comprise.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/meriem-chemise-bleue.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/meriem-un-nom-et-une-date.md"
+  ],
+  "mirror": "data/article_mirrors/meriem.json"
+ },
+ "mila": {
+  "clinical": true,
+  "articles": [
+   "content/posts/comprendre-et-maitriser-ses-emotions/mila-parole-contextes-soleil-vert.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/mila-figement-carte-bleue.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/mila-anticipation-affiche-retournee.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/mila-besoins-pause-boite.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/mila-apprentissages-deux-lignes.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/mila-pairs-cachette-deplacee.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/mila-langue-album-couleurs.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/mila-suivi-page-soleil.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/mila-inquietude-retard-ines.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/mila-irritabilite-boite-fermee.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/mila-murmure-feutre-orange.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/mila-evolution-jeu-acheve.md"
+  ],
+  "mirror": "data/article_mirrors/mila.json"
+ },
+ "mina": {
+  "clinical": true,
+  "articles": [
+   "content/posts/comprendre-et-maitriser-ses-emotions/mina-rendez-vous-papier-carnet.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/mina-livraison-dix-neuf-heures.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/mina-pli-papier-reliure.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/mina-pause-loges-festival.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/mina-excuse-et-desaccord.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/mina-horaire-alice-limites.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/mina-plan-de-suivi-et-choix.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/mina-appeler-contact-prevu.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/mina-revoir-le-relais-avec-alice.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/mina-ouverture-festival-repartir.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/mina-carnet-offert-alice.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/mina-table-apres-festival.md"
+  ],
+  "mirror": "data/article_mirrors/mina.json"
+ },
+ "mireille": {
+  "clinical": true,
+  "articles": [
+   "content/posts/comprendre-et-maitriser-ses-emotions/mireille-information-recente.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/mireille-attention-interruptions.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/mireille-planification-etapes.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/mireille-chercher-un-mot.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/mireille-intention-differee.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/mireille-autonomie-appuis.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/mireille-bilan-contexte.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/mireille-inquietude-surveillance.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/mireille-sommeil-variations.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/mireille-choisir-aide.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/mireille-evolution-incertaine.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/mireille-transmission-participation.md"
+  ],
+  "mirror": "data/article_mirrors/mireille.json"
+ },
+ "monique": {
+  "clinical": false,
+  "articles": [
+   "content/posts/comprendre-et-maitriser-ses-emotions/impuissance-deuil-reprendre-main.md",
+   "content/posts/reprendre-le-controle-de-ses-pensees/biais-monde-juste-deuil-causes.md",
+   "content/posts/sortir-de-ses-schemas-repetitifs/negativite-pessimisme-parents-education-psychologie.md",
+   "content/posts/sortir-de-ses-schemas-repetitifs/isolement-social-alienation-interactions-societe.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/gratitude-face-a-l-argent-et-aux-finances.md",
+   "content/posts/sortir-de-ses-schemas-repetitifs/transmissions-transgenerationnelles-avec-ses-enfants-comprendre.md",
+   "content/posts/sortir-de-ses-schemas-repetitifs/syndrome-imposteur-intimite-sexualité-monique.md",
+   "content/posts/reprendre-le-controle-de-ses-pensees/biais-de-normalite-decision-importante-monique.md",
+   "content/posts/sortir-de-ses-schemas-repetitifs/loyautes-invisibles-boszormenyi-nagy-fetes-famille.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/charge-mentale-emotionnelle-au-travail-solutions.md",
+   "content/posts/reprendre-le-controle-de-ses-pensees/peak-end-rule-decision-importante.md",
+   "content/posts/reprendre-le-controle-de-ses-pensees/biais-retrospectif-rupture-amoureuse.md"
+  ],
+  "mirror": "data/article_mirrors/monique.json"
+ },
+ "morgane": {
+  "clinical": true,
+  "articles": [
+   "content/posts/comprendre-et-maitriser-ses-emotions/morgane-le-geste-qui-sarrete.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/morgane-lappetit-au-dejeuner.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/morgane-la-photo-de-latelier.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/morgane-les-mots-au-rendez-vous.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/morgane-deux-places-a-la-table.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/morgane-deux-jours-de-travers.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/morgane-le-message-repris.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/morgane-le-message-de-trop.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/morgane-ce-que-le-suivi-mesure.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/morgane-le-tablier-de-laccueil.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/morgane-la-legende-sous-la-photo.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/morgane-le-mercredi-dapres.md"
+  ],
+  "mirror": "data/article_mirrors/morgane.json"
+ },
+ "nadia": {
+  "clinical": false,
+  "articles": [
+   "content/posts/reprendre-le-controle-de-ses-pensees/effet-zeigarnik-manager-perfectionniste.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/frustration-avec-ses-enfants-comprendre-emotions.md",
+   "content/posts/sortir-de-ses-schemas-repetitifs/exigences-elevees-critique-excessive-au-travail.md",
+   "content/posts/reprendre-le-controle-de-ses-pensees/biais-statu-quo-decision-importante-psychologie.md",
+   "content/posts/reprendre-le-controle-de-ses-pensees/illusion-de-controle-avec-ses-enfants-parentalite.md",
+   "content/posts/reprendre-le-controle-de-ses-pensees/journaling-pensees-intimite-sexualite-nadia.md",
+   "content/posts/reprendre-le-controle-de-ses-pensees/biais-de-cadrage-decision-importante-nadia.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/remords-en-famille-comprendre-et-agir.md",
+   "content/posts/reprendre-le-controle-de-ses-pensees/illusion-de-transparence-interactions-sociales-psychologie.md",
+   "content/posts/reprendre-le-controle-de-ses-pensees/effet-de-primaute-en-tant-que-manager.md",
+   "content/posts/sortir-de-ses-schemas-repetitifs/narcissisme-sain-pathologique-travail.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/coherence-cardiaque-au-travail-nadia.md"
+  ],
+  "mirror": "data/article_mirrors/nadia.json"
+ },
+ "nathalie": {
+  "clinical": true,
+  "articles": [
+   "content/posts/comprendre-et-maitriser-ses-emotions/nathalie-encombrement-usage-table.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/nathalie-collection-attachement-encombrement.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/nathalie-evaluation-usage-logement.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/nathalie-aide-accord-pas-de-debarras-surprise.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/nathalie-acquisition-objets-gratuits.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/nathalie-passage-securite-incendie-relais.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/nathalie-tcc-decision-separation-accompagnee.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/nathalie-honte-participation-choix-confidence.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/nathalie-souvenirs-attachement-objets.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/nathalie-courrier-retour-encombrement.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/nathalie-visite-place-proche-accueil.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/nathalie-bilan-usage-et-suivi.md"
+  ],
+  "mirror": "data/article_mirrors/nathalie.json"
+ },
+ "nawel": {
+  "clinical": true,
+  "articles": [
+   "content/posts/comprendre-et-maitriser-ses-emotions/nawel-larret-sous-le-lampadaire.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/nawel-la-table-ou-soraya-attend.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/nawel-une-heure-passee-sur-le-billet.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/nawel-lescalier-que-nawel-ne-prend-plus.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/nawel-le-cadre-attend-a-latelier.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/nawel-effet-attendu-et-effet-ressenti.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/nawel-les-nuits-que-nawel-veut-situer.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/nawel-un-mot-que-nawel-choisit-de-dire.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/nawel-deux-horaires-et-une-limite.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/nawel-le-rideau-ferme-plus-tard.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/nawel-la-porte-quon-regarde-deux-fois.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/nawel-trois-estampes-sur-le-mur.md"
+  ],
+  "mirror": "data/article_mirrors/nawel.json"
+ },
+ "nils": {
+  "clinical": true,
+  "articles": [
+   "content/posts/comprendre-et-maitriser-ses-emotions/nils-deux-lignes-sur-la-fiche.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/nils-entre-deux-prises.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/nils-numero-au-verso.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/nils-ordre-des-bacs.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/nils-une-ligne-sur-laffiche.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/nils-appel-avant-la-repetition.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/nils-vingt-minutes-chez-elsa.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/nils-repere-au-crayon.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/nils-la-permanence-du-vendredi.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/nils-la-question-sur-le-ticket.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/nils-le-voyant-rouge.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/nils-une-date-au-crayon.md"
+  ],
+  "mirror": "data/article_mirrors/nils.json"
+ },
+ "noemie": {
+  "clinical": true,
+  "articles": [
+   "content/posts/comprendre-et-maitriser-ses-emotions/noemie-cote-sur-la-boite.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/noemie-rituel-sans-geste.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/noemie-place-dans-la-vitrine.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/noemie-message-de-maud.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/noemie-preparer-exposition-en-seance.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/noemie-deux-places-au-cinema.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/noemie-ce-quelle-choisit-de-dire.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/noemie-eau-dans-le-couloir.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/noemie-repetition-de-maud.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/noemie-semaine-plus-difficile.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/noemie-jour-du-vernissage.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/noemie-le-dimanche-suivant.md"
+  ],
+  "mirror": "data/article_mirrors/noemie.json"
+ },
+ "nolwenn": {
+  "clinical": true,
+  "articles": [
+   "content/posts/comprendre-et-maitriser-ses-emotions/nolwenn-remontees-apres-repas.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/nolwenn-decrire-sans-conclure.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/nolwenn-diagnostic-sans-culpabilite.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/nolwenn-honte-et-secret.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/nolwenn-repas-evites.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/nolwenn-apprentissage-accompagne.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/nolwenn-reponse-sans-jugement.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/nolwenn-place-a-table.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/nolwenn-symptome-nouveau.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/nolwenn-inquietude-avant-presentation.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/nolwenn-fluctuations-et-progres.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/nolwenn-projet-accompli-et-suivi.md"
+  ],
+  "mirror": "data/article_mirrors/nolwenn.json"
+ },
+ "nour": {
+  "clinical": true,
+  "articles": [
+   "content/posts/comprendre-et-maitriser-ses-emotions/nour-legende-choisir-ecrit.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/nour-kiosque-premier-reperage.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/nour-ordre-du-jour-accessible.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/nour-joel-carte-preferences.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/nour-annonce-confidentialite.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/nour-consultation-format-fatigue.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/nour-visite-test-banc-cour.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/nour-travaux-plan-visite.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/nour-visite-pause-auvent.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/nour-apres-visite-limites.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/nour-legende-ecrite-enregistree.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/nour-deuxieme-visite-quai.md"
+  ],
+  "mirror": "data/article_mirrors/nour.json"
+ },
+ "odile": {
+  "clinical": false,
+  "articles": [
+   "content/posts/comprendre-et-maitriser-ses-emotions/odile-liens-apres-deces.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/odile-deuil-retour-quotidien.md",
+   "content/posts/sortir-de-ses-schemas-repetitifs/odile-solitude-choisie-perte.md",
+   "content/posts/sortir-de-ses-schemas-repetitifs/odile-retraite-changement-role.md",
+   "content/posts/sortir-de-ses-schemas-repetitifs/odile-objets-souvenirs-choisir.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/odile-dates-emotions-variables.md",
+   "content/posts/sortir-de-ses-schemas-repetitifs/odile-demander-presence-precise.md",
+   "content/posts/sortir-de-ses-schemas-repetitifs/odile-collectif-liberte-personnelle.md",
+   "content/posts/reprendre-le-controle-de-ses-pensees/odile-sens-action-ordinaire.md",
+   "content/posts/reprendre-le-controle-de-ses-pensees/odile-anticiper-sans-tout-perdre.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/odile-joie-chagrin-meme-jour.md",
+   "content/posts/sortir-de-ses-schemas-repetitifs/odile-transmettre-souvenir-maniere.md"
+  ],
+  "mirror": "data/article_mirrors/odile.json"
+ },
+ "olivier": {
+  "clinical": true,
+  "articles": [
+   "content/posts/comprendre-et-maitriser-ses-emotions/olivier-heures-reprise-entrepot.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/olivier-regle-qui-ne-tient-pas-planning.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/olivier-copies-planning-consequences.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/olivier-creux-apres-le-depart.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/olivier-poursuivre-sans-satisfaction.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/olivier-desir-honte-et-controle.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/olivier-limites-de-simon.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/olivier-badges-a-l-heure.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/olivier-changer-acces-au-telephone.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/olivier-reprendre-le-suivi-apres-une-reprise.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/olivier-sommeil-court-et-premiere-seance.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/olivier-choisir-sa-place-au-cinema.md"
+  ],
+  "mirror": "data/article_mirrors/olivier.json"
+ },
+ "owen": {
+  "clinical": true,
+  "articles": [
+   "content/posts/comprendre-et-maitriser-ses-emotions/owen-le-mot-qui-manque.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/owen-les-huit-minutes.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/owen-trois-bandes-sur-la-table.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/owen-ce-quon-peut-deplacer.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/owen-le-bruit-dans-la-cour.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/owen-le-voyant-rouge.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/owen-le-bout-dessai.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/owen-un-carre-de-silence.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/owen-la-table-de-quatre.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/owen-deux-cases-sur-une-feuille.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/owen-trois-minutes-de-rab.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/owen-au-milieu-du-generique.md"
+  ],
+  "mirror": "data/article_mirrors/owen.json"
+ },
+ "patrick": {
+  "clinical": false,
+  "articles": [
+   "content/posts/sortir-de-ses-schemas-repetitifs/surcontrole-emotionnel-famille.md",
+   "content/posts/reprendre-le-controle-de-ses-pensees/biais-point-aveugle-face-vieillissement-psychologie.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/vulnerabilite-face-au-vieillissement-accepter-limites.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/nostalgie-face-a-la-solitude-comprendre-emotions.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/impuissance-face-au-vieillissement-signes-et-solutions.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/colere-en-situation-de-conflit-comprendre-s-affirmer.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/resilience-emotionnelle-lors-un-deuil-comprendre.md",
+   "content/posts/reprendre-le-controle-de-ses-pensees/effet-de-leurre-face-au-vieillissement-quotidien.md",
+   "content/posts/reprendre-le-controle-de-ses-pensees/biais-angle-mort-vieillissement-psychologie.md",
+   "content/posts/sortir-de-ses-schemas-repetitifs/acting-out-passage-a-l-acte-famille.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/ecriture-expressive-pennebaker-en-famille-guide.md"
+  ],
+  "mirror": "data/article_mirrors/patrick.json"
+ },
+ "priya": {
+  "clinical": false,
+  "articles": [
+   "content/posts/sortir-de-ses-schemas-repetitifs/attachement-evitant-dans-intimite.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/anxiete-face-maladie-blouse.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/trahison-en-amitie-impacts-quotidiens.md",
+   "content/posts/reprendre-le-controle-de-ses-pensees/biais-de-disponibilite-face-a-une-decision-importante.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/mepris-face-a-l-autorite-mecanisme-defense.md",
+   "content/posts/sortir-de-ses-schemas-repetitifs/mefiance-abus-face-a-l-autorite.md",
+   "content/posts/reprendre-le-controle-de-ses-pensees/biais-autorite-face-a-l-autorite-priya.md",
+   "content/posts/reprendre-le-controle-de-ses-pensees/biais-de-survivant-face-decision-importante.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/vulnerabilite-en-couple-signes.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/indifference-face-maladie.md",
+   "content/posts/sortir-de-ses-schemas-repetitifs/rationalisation-face-a-une-decision-importante.md"
+  ],
+  "mirror": "data/article_mirrors/priya.json"
+ },
+ "rebecca": {
+  "clinical": true,
+  "articles": [
+   "content/posts/comprendre-et-maitriser-ses-emotions/rebecca-eviter-un-projet-avant-de-choisir.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/rebecca-peur-de-la-separation-ou-de-l-inconnu.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/rebecca-imaginer-un-malheur-pendant-l-absence.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/rebecca-nausee-au-moment-de-partir.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/rebecca-rappeler-pour-etre-sure.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/rebecca-quand-la-duree-parait-sans-borne.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/rebecca-se-retirer-une-fois-loin.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/rebecca-repousser-le-coucher-loin-de-chez-soi.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/rebecca-un-silence-pris-pour-un-signe.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/rebecca-effort-invisible-au-travail.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/rebecca-quand-partir-ressemble-a-delaisser.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/rebecca-reprendre-un-choix-apres-le-retour.md"
+  ],
+  "mirror": "data/article_mirrors/rebecca.json"
+ },
+ "remi": {
+  "clinical": false,
+  "articles": [
+   "content/posts/reprendre-le-controle-de-ses-pensees/remi-interruptions-retrouver-fil.md",
+   "content/posts/reprendre-le-controle-de-ses-pensees/remi-memoire-consignes-visibles.md",
+   "content/posts/reprendre-le-controle-de-ses-pensees/remi-demarrer-tache.md",
+   "content/posts/reprendre-le-controle-de-ses-pensees/remi-decouper-garder-but.md",
+   "content/posts/reprendre-le-controle-de-ses-pensees/remi-distractibilite-environnement.md",
+   "content/posts/reprendre-le-controle-de-ses-pensees/remi-estimer-temps-marges.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/remi-charge-priorites.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/remi-procrastination-emotion.md",
+   "content/posts/sortir-de-ses-schemas-repetitifs/remi-perfectionnisme-terminer.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/remi-erreur-parole-retrait.md",
+   "content/posts/reprendre-le-controle-de-ses-pensees/remi-transmettre-rappel-utile.md",
+   "content/posts/sortir-de-ses-schemas-repetitifs/remi-habitudes-indices-contexte.md"
+  ],
+  "mirror": "data/article_mirrors/remi.json"
+ },
+ "remiel": {
+  "clinical": true,
+  "articles": [
+   "content/posts/comprendre-et-maitriser-ses-emotions/remiel-diagnostic-responsabilite.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/remiel-attention-disponible.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/remiel-crainte-jugement.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/remiel-acces-suivi.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/remiel-planning-soins.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/remiel-termes-diagnostiques.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/remiel-difficultes-associees.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/remiel-relais-urgent.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/remiel-incertitude-soins.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/remiel-limites-soutien.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/remiel-periode-calme.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/remiel-continuite-apres-projet.md"
+  ],
+  "mirror": "data/article_mirrors/remiel.json"
+ },
+ "renaud": {
+  "clinical": true,
+  "articles": [
+   "content/posts/comprendre-et-maitriser-ses-emotions/renaud-besoin-admiration-signature.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/renaud-attendre-une-exception.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/renaud-critique-honte-retour.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/renaud-ecouter-edith.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/renaud-envie-credit-yara.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/renaud-retrait-apres-mise-ecart.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/renaud-diagnostic-contextes-dsm-cim.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/renaud-reparer-credit-public.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/renaud-refus-limite-malik.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/renaud-fierte-besoin-regard.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/renaud-reprendre-apres-un-ecart.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/renaud-tenir-place-et-laisser-place.md"
+  ],
+  "mirror": "data/article_mirrors/renaud.json"
+ },
+ "ronan": {
+  "clinical": true,
+  "articles": [
+   "content/posts/comprendre-et-maitriser-ses-emotions/ronan-detresse-trouble-exhibitionniste-demander-aide.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/ronan-schema-durable-journee-calme.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/ronan-consentement-limites-conversation.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/ronan-evaluation-individuelle-participation.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/ronan-controle-reponse-suivi.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/ronan-sommeil-nouveau-changement-bilan.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/ronan-justification-permission-limite.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/ronan-frustration-appui-soin.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/ronan-proche-soutien-limites-disponibilite.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/ronan-decision-soin-incertitudes.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/ronan-fluctuation-reviser-participation.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/ronan-travail-accompli-suivi-maintenu.md"
+  ],
+  "mirror": "data/article_mirrors/ronan.json"
+ },
+ "roxane": {
+  "clinical": true,
+  "articles": [
+   "content/posts/comprendre-et-maitriser-ses-emotions/roxane-pince-orange.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/roxane-banc-vert.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/roxane-tiroir-des-sons.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/roxane-mot-sous-trombone.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/roxane-dessin-attendra.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/roxane-gomme-clavier.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/roxane-chaise-qui-grince.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/roxane-enveloppe-sans-son.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/roxane-tour-de-bille.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/roxane-case-laissee-libre.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/roxane-premier-jeton.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/roxane-papier-a-emporter.md"
+  ],
+  "mirror": "data/article_mirrors/roxane.json"
+ },
+ "ruben": {
+  "clinical": true,
+  "articles": [
+   "content/posts/comprendre-et-maitriser-ses-emotions/ruben-contester-et-perdre-son-tour.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/ruben-demandes-evitees-maison.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/ruben-remarque-irritation.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/ruben-erreur-et-responsabilite.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/ruben-provocation-et-camarades.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/ruben-refus-et-incomprehension.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/ruben-ressentiment-apres-dispute.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/ruben-soutien-parents-sans-blame.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/ruben-plusieurs-solutions.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/ruben-reparer-retard-groupe.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/ruben-inquietude-avant-salon.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/ruben-participation-evolution.md"
+  ],
+  "mirror": "data/article_mirrors/ruben.json"
+ },
+ "sacha": {
+  "clinical": true,
+  "articles": [
+   "content/posts/comprendre-et-maitriser-ses-emotions/sacha-pot-de-travers.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/sacha-place-au-cafe.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/sacha-sachet-sur-la-table.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/sacha-deux-decisions.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/sacha-verso-de-la-fiche.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/sacha-sourire-de-nora.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/sacha-deux-affiches.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/sacha-troisieme-chaise.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/sacha-fiche-en-place.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/sacha-racines-au-bord.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/sacha-plier-la-table.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/sacha-ligne-pour-le-cafe.md"
+  ],
+  "mirror": "data/article_mirrors/sacha.json"
+ },
+ "salome": {
+  "clinical": false,
+  "articles": [
+   "content/posts/sortir-de-ses-schemas-repetitifs/salome-nom-maniere-adressee.md",
+   "content/posts/reprendre-le-controle-de-ses-pensees/salome-choisir-reveler-soi.md",
+   "content/posts/reprendre-le-controle-de-ses-pensees/salome-pression-normes-sociales.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/salome-securite-adaptation-contexte.md",
+   "content/posts/sortir-de-ses-schemas-repetitifs/salome-appartenance-sans-effacement.md",
+   "content/posts/reprendre-le-controle-de-ses-pensees/salome-identite-au-dela-etiquette.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/salome-bienveillance-apres-interaction.md",
+   "content/posts/sortir-de-ses-schemas-repetitifs/salome-vie-privee-sans-expliquer.md",
+   "content/posts/reprendre-le-controle-de-ses-pensees/salome-competence-regard-ateliers-ligne.md",
+   "content/posts/sortir-de-ses-schemas-repetitifs/salome-limite-curiosite-personnelle.md",
+   "content/posts/reprendre-le-controle-de-ses-pensees/salome-continuite-soi-changements.md",
+   "content/posts/sortir-de-ses-schemas-repetitifs/salome-alliances-soutien-quotidien.md"
+  ],
+  "mirror": "data/article_mirrors/salome.json"
+ },
+ "samira": {
+  "clinical": false,
+  "articles": [
+   "content/posts/reprendre-le-controle-de-ses-pensees/samira-precarite-place-soucis.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/samira-logement-securite-incertaine.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/samira-honte-financiere-regard.md",
+   "content/posts/sortir-de-ses-schemas-repetitifs/samira-demander-aides-droits.md",
+   "content/posts/reprendre-le-controle-de-ses-pensees/samira-charge-mentale-parentalite.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/samira-colere-situation-injuste.md",
+   "content/posts/sortir-de-ses-schemas-repetitifs/samira-agir-marge-etroite.md",
+   "content/posts/reprendre-le-controle-de-ses-pensees/samira-decider-pression-temps.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/samira-budget-valeur-personnelle.md",
+   "content/posts/sortir-de-ses-schemas-repetitifs/samira-projet-reporte-place.md",
+   "content/posts/sortir-de-ses-schemas-repetitifs/samira-voisinage-reciprocite-comparaison.md",
+   "content/posts/reprendre-le-controle-de-ses-pensees/samira-dignite-besoins-materiels.md"
+  ],
+  "mirror": "data/article_mirrors/samira.json"
+ },
+ "sebastien": {
+  "clinical": true,
+  "articles": [
+   "content/posts/comprendre-et-maitriser-ses-emotions/sebastien-temps-perdu-a-verifier-son-apparence.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/sebastien-eviter-un-lieu-ou-lon-redoute-detre-vu.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/sebastien-chercher-une-reponse-qui-rassure-quelques-instants.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/sebastien-honte-et-difficulte-cachee.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/sebastien-choisir-un-soin-pour-une-preoccupation-envahissante.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/sebastien-peur-du-regard-et-photo-publique.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/sebastien-croire-que-les-autres-parlent-de-son-apparence.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/sebastien-image-partagee-hors-accord.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/sebastien-difficultes-qui-reprennent-de-la-place.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/sebastien-demander-un-appui-que-chacun-peut-tenir.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/sebastien-choisir-sa-place-dans-une-photo-de-groupe.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/sebastien-faire-le-point-sur-le-quotidien.md"
+  ],
+  "mirror": "data/article_mirrors/sebastien.json"
+ },
+ "selma": {
+  "clinical": true,
+  "articles": [
+   "content/posts/comprendre-et-maitriser-ses-emotions/selma-bruit-serre-familiale.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/selma-reviviscence-quincaillerie.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/selma-detour-canal-evitement.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/selma-double-cle-hypervigilance.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/selma-cauchemars-reveil.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/selma-choix-en-therapie.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/selma-demande-medecin-travail.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/selma-choisir-de-parler-au-travail.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/selma-revoir-amenagement-imprevu.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/selma-choisir-sa-place-table-jardin.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/selma-recoltes-au-portail.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/selma-suivi-et-choix-apres-recoltes.md"
+  ],
+  "mirror": "data/article_mirrors/selma.json"
+ },
+ "seraphine": {
+  "clinical": true,
+  "articles": [
+   "content/posts/comprendre-et-maitriser-ses-emotions/seraphine-envie-imperieuse-au-milieu-du-tri.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/seraphine-envie-au-moment-de-fermer.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/seraphine-intention-et-controle-de-lusage.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/seraphine-usage-qui-prend-la-place.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/seraphine-usage-et-consequences-connues.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/seraphine-tolerance-et-traitement-prescrit.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/seraphine-douleur-et-retentissement-quotidien.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/seraphine-peur-du-jugement-et-parole-retenue.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/seraphine-douleur-envie-vecues-ensemble.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/seraphine-absence-de-reponse-et-secours.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/seraphine-ambivalence-face-a-un-suivi.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/seraphine-envie-qui-revient-et-suivi.md"
+  ],
+  "mirror": "data/article_mirrors/seraphine.json"
+ },
+ "solene": {
+  "clinical": true,
+  "articles": [
+   "content/posts/comprendre-et-maitriser-ses-emotions/solene-essai-son-deux-ecoutes.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/solene-cuisine-appeler-equipe.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/solene-carnet-chronologie-consultation.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/solene-seance-jour-choix-films.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/solene-tilleuls-reactions-sans-camera.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/solene-salle-annulee-deux-appels.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/solene-livia-appel-15.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/solene-bol-fatigue-apres-soins.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/solene-amenagement-horaires-deux-colonnes.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/solene-dernier-rang-sous-titres.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/solene-seance-public-retour-oral.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/solene-cartes-suite-tournee.md"
+  ],
+  "mirror": "data/article_mirrors/solene.json"
+ },
+ "sophie": {
+  "clinical": false,
+  "articles": [
+   "content/posts/reprendre-le-controle-de-ses-pensees/overthinking-surpensee-travail.md",
+   "content/posts/reprendre-le-controle-de-ses-pensees/effet-dunning-kruger-decision-importante.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/anxiete-au-travail-signes-discrets.md",
+   "content/posts/sortir-de-ses-schemas-repetitifs/exigences-elevees-critique-excessive-parents.md",
+   "content/posts/sortir-de-ses-schemas-repetitifs/abnegation-sacrifice-de-soi-vieillissement-parents.md",
+   "content/posts/reprendre-le-controle-de-ses-pensees/pensees-automatiques-negatives-seule-face-a-soi-meme.md",
+   "content/posts/sortir-de-ses-schemas-repetitifs/formation-reactionnelle-en-situation-de-conflit.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/humiliation-en-societe-comprendre-pourquoi.md",
+   "content/posts/sortir-de-ses-schemas-repetitifs/comprendre-sentiment-echec-apres-un-echec.md",
+   "content/posts/reprendre-le-controle-de-ses-pensees/heuristique-affect-argent.md",
+   "content/posts/sortir-de-ses-schemas-repetitifs/syndrome-imposteur-amitie-causes.md",
+   "content/posts/sortir-de-ses-schemas-repetitifs/recherche-approbation-parents.md"
+  ],
+  "mirror": "data/article_mirrors/sophie.json"
+ },
+ "stephane": {
+  "clinical": false,
+  "articles": [
+   "content/posts/sortir-de-ses-schemas-repetitifs/recherche-approbation-reconnaissance-travail.md",
+   "content/posts/reprendre-le-controle-de-ses-pensees/effet-spotlight-en-societe.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/degout-en-société-interactions-sociales.md",
+   "content/posts/sortir-de-ses-schemas-repetitifs/imperfection-honte-societe.md",
+   "content/posts/reprendre-le-controle-de-ses-pensees/effet-de-halo-sur-les-reseaux-sociaux.md",
+   "content/posts/reprendre-le-controle-de-ses-pensees/biais-attribution-fondamentale-situation-conflit.md",
+   "content/posts/reprendre-le-controle-de-ses-pensees/effet-ikea-decision-importante-psychologie.md",
+   "content/posts/sortir-de-ses-schemas-repetitifs/rationalisation-avec-ses-parents.md",
+   "content/posts/sortir-de-ses-schemas-repetitifs/regression-apres-un-echec-psychologie.md",
+   "content/posts/reprendre-le-controle-de-ses-pensees/comparaison-injuste-competition.md",
+   "content/posts/sortir-de-ses-schemas-repetitifs/syndrome-stockholm-quotidien-parents-causes.md"
+  ],
+  "mirror": "data/article_mirrors/stephane.json"
+ },
+ "thael": {
+  "clinical": true,
+  "articles": [
+   "content/posts/comprendre-et-maitriser-ses-emotions/thael-aborder-inconnu-atelier.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/thael-limites-conversation-tissus.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/thael-proximite-corporelle-demonstration.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/thael-retour-regard-referent.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/thael-suivre-adulte-inconnu.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/thael-lien-selectif-reparation.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/thael-joie-jeu-desinhibition.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/thael-impulsivite-desinhibition-repetition.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/thael-etiquette-familiarite-affiche.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/thael-charge-protection-adultes.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/thael-progres-variables-nouvelle-salle.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/thael-public-choisi-cadre-protecteur.md"
+  ],
+  "mirror": "data/article_mirrors/thael.json"
+ },
+ "thais": {
+  "clinical": true,
+  "articles": [
+   "content/posts/comprendre-et-maitriser-ses-emotions/thais-peur-anticipation-plan-expedition.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/thais-peur-et-prudence-belvedere.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/thais-dire-son-besoin-sans-dossier-medical.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/thais-se-confier-honte-escalier.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/thais-soulagement-du-detour.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/thais-fermeture-meteo-et-soulagement.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/thais-choisir-objectif-suivi.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/thais-reaction-image-mouvement.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/thais-expedition-role-au-sol.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/thais-peur-revient-autre-situation.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/thais-soutenir-sans-promettre-pour-autre.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/thais-progres-et-vie-quotidienne.md"
+  ],
+  "mirror": "data/article_mirrors/thais.json"
+ },
+ "thomas": {
+  "clinical": false,
+  "articles": [
+   "content/posts/sortir-de-ses-schemas-repetitifs/jeux-psychologiques-karpman-couple.md",
+   "content/posts/reprendre-le-controle-de-ses-pensees/biais-conformite-travail.md",
+   "content/posts/reprendre-le-controle-de-ses-pensees/lecture-pensee-en-couple.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/culpabilite-face-a-l-argent-et-finances.md",
+   "content/posts/sortir-de-ses-schemas-repetitifs/abnegation-et-sacrifice-de-soi-en-amitie.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/ennui-lors-un-demenagement-signes-anxiete.md",
+   "content/posts/sortir-de-ses-schemas-repetitifs/punition-ecole-etudes-schema-repetitif.md",
+   "content/posts/reprendre-le-controle-de-ses-pensees/pensee-de-groupe-en-tant-que-manager-solutions.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/accablement-en-periode-de-reconversion-professionnelle.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/declencheurs-emotionnels-situation-conflit.md",
+   "content/posts/reprendre-le-controle-de-ses-pensees/surgeneralisation-ecole-lycee.md",
+   "content/posts/sortir-de-ses-schemas-repetitifs/sublimation-reconversion-professionnelle.md"
+  ],
+  "mirror": "data/article_mirrors/thomas.json"
+ },
+ "timothee": {
+  "clinical": true,
+  "articles": [
+   "content/posts/comprendre-et-maitriser-ses-emotions/timothee-quand-humeur-basse-devient-familiere.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/timothee-effort-cache-derriere-travail-fait.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/timothee-bon-moment-humeur-depressive-durable.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/timothee-preparer-sans-attendre-enthousiasme.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/timothee-parler-depuis-quand-et-retentissement.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/timothee-quand-doute-devient-verdict.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/timothee-retrait-gagne-sur-habitudes.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/timothee-aggravation-et-evaluation-episode-depressif.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/timothee-aide-choisie-garder-place.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/timothee-ajuster-suivi-a-sa-vie.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/timothee-transmettre-meme-si-elan-varie.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/timothee-faire-le-point-au-dela-bonne-seance.md"
+  ],
+  "mirror": "data/article_mirrors/timothee.json"
+ },
+ "titouan": {
+  "clinical": true,
+  "articles": [
+   "content/posts/comprendre-et-maitriser-ses-emotions/titouan-accident-sans-faute.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/titouan-eveil-ne-se-commande-pas.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/titouan-bilan-journee.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/titouan-transit-evaluation.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/titouan-eau-toilettes-accessibles.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/titouan-observer-sans-note.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/titouan-soin-projet-nuit.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/titouan-fatigue-familiale.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/titouan-confidentialite-participation.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/titouan-variation-nuits.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/titouan-accident-aide-discrete.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/titouan-participer-sans-guerison.md"
+  ],
+  "mirror": "data/article_mirrors/titouan.json"
+ },
+ "victoire": {
+  "clinical": true,
+  "articles": [
+   "content/posts/comprendre-et-maitriser-ses-emotions/victoire-perte-controle-apres-fermeture.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/victoire-photo-image-corps.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/victoire-repetition-compensations.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/victoire-dire-boulimie-a-une-amie.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/victoire-honte-et-rendez-vous-annule.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/victoire-emotions-avant-apres-crise.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/victoire-malaise-boutique.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/victoire-suivi-apres-malaise.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/victoire-commentaires-autour-du-repas.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/victoire-reapparition-apres-periode-stable.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/victoire-partager-suivi-et-garder-choix.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/victoire-retrouver-place-apres-rallye.md"
+  ],
+  "mirror": "data/article_mirrors/victoire.json"
+ },
+ "vincent": {
+  "clinical": false,
+  "articles": [
+   "content/posts/comprendre-et-maitriser-ses-emotions/vincent-charge-aidance-taches-invisibles.md",
+   "content/posts/sortir-de-ses-schemas-repetitifs/vincent-autonomie-decisions-partagees.md",
+   "content/posts/sortir-de-ses-schemas-repetitifs/vincent-aide-consentie-proteger.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/vincent-ambivalence-emotions-aidance.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/vincent-fatigue-sans-culpabiliser.md",
+   "content/posts/sortir-de-ses-schemas-repetitifs/vincent-organiser-relais-concret.md",
+   "content/posts/sortir-de-ses-schemas-repetitifs/vincent-couple-place-aidance.md",
+   "content/posts/reprendre-le-controle-de-ses-pensees/vincent-charge-organisation-visible.md",
+   "content/posts/reprendre-le-controle-de-ses-pensees/vincent-valeurs-entrent-tension.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/vincent-colere-obstacles-materiels.md",
+   "content/posts/sortir-de-ses-schemas-repetitifs/vincent-soutien-garder-limites.md",
+   "content/posts/sortir-de-ses-schemas-repetitifs/vincent-repit-entraide-durable.md"
+  ],
+  "mirror": "data/article_mirrors/vincent.json"
+ },
+ "youssef": {
+  "clinical": false,
+  "articles": [
+   "content/posts/comprendre-et-maitriser-ses-emotions/alexithymie-en-couple.md",
+   "content/posts/sortir-de-ses-schemas-repetitifs/exigences-elevees-critique-excessive-enfants.md",
+   "content/posts/reprendre-le-controle-de-ses-pensees/biais-de-projection-en-couple-comprendre-autre.md",
+   "content/posts/reprendre-le-controle-de-ses-pensees/biais-ancrage-decision-importante.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/suppression-emotionnelle-reevaluation-cognitive-couple.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/confusion-emotionnelle-avec-ses-parents-comprendre.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/ambivalence-emotionnelle-reconversion-professionnelle-burn-out.md",
+   "content/posts/reprendre-le-controle-de-ses-pensees/biais-de-representativite-decision-importante-youssef.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/granularite-emotionnelle-en-couple-comprendre-ressentis.md",
+   "content/posts/sortir-de-ses-schemas-repetitifs/intellectualisation-au-travail-hpi-solutions.md",
+   "content/posts/sortir-de-ses-schemas-repetitifs/isolation-affect-conflit-comprendre-mecanisme.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/memoire-emotionnelle-lors-dun-deuil.md"
+  ],
+  "mirror": "data/article_mirrors/youssef.json"
+ },
+ "zephyr": {
+  "clinical": true,
+  "articles": [
+   "content/posts/comprendre-et-maitriser-ses-emotions/zephyr-creneau-barre.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/zephyr-perdre-son-eleve.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/zephyr-cloche-des-absents.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/zephyr-note-de-consultation.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/zephyr-avoir-lair-de-sen-ficher.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/zephyr-sortir-quand-le-groupe-arrive.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/zephyr-compte-rendu-atelier.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/zephyr-prenom-dans-la-piece.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/zephyr-reparler-a-un-visiteur.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/zephyr-craindre-de-passer-la-main.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/zephyr-reprendre-son-fil-devant-le-groupe.md",
+   "content/posts/comprendre-et-maitriser-ses-emotions/zephyr-garder-du-temps-seul.md"
+  ],
+  "mirror": "data/article_mirrors/zephyr.json"
+ }
+}

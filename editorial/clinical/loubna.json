@@ -1043,6 +1043,213 @@
           ]
         }
       ]
+    },
+    {
+      "number": 11,
+      "slug": "loubna-amelioration-evolution-suivi",
+      "title": "Amélioration : une semaine plus légère ne dit pas toute l’évolution",
+      "description": "Une semaine plus facile donne à Loubna l’envie de décaler son rendez-vous. Elle le garde et décrit à Benali ce qui va mieux, sans conclure.",
+      "context": "entre le fichier numérique et le rendez-vous de suivi",
+      "topics": [
+        "Amélioration rapportée",
+        "Évolution du trouble",
+        "Suivi maintenu"
+      ],
+      "clinical_intro": "Le schéma en cause dans ce trouble est décrit comme relativement stable à l’âge adulte, ce qui n’empêche pas le vécu de varier d’une période à l’autre. Une semaine plus facile mérite d’être remarquée et racontée au professionnel. Elle ne permet pas, à elle seule, de conclure à une disparition du trouble ni d’annoncer une rechute. Loubna apprend à rapporter ce qui va mieux sans en faire un verdict.",
+      "opening": "Mardi matin, Loubna ouvre la version numérique du programme de la petite salle d’exposition. C’est le fichier qu’elle doit remettre à Salomé, la directrice de la salle, à la fin de la semaine. Elle commence par la page des horaires. Le bloc des horaires, celui qu’elle déplaçait puis remettait à sa place il y a quelques semaines, reste cette fois où elle l’a posé. Elle aligne le titre, vérifie l’espace en dessous, coche la ligne dans son carnet orange et passe à la page suivante. À midi, quatre corrections sur sept sont faites. Elle se surprend à déjeuner assise, l’ordinateur fermé.\n\nDepuis quelques jours, les préoccupations liées à son trouble l’interrompent moins souvent. Elle a dormi correctement plusieurs nuits, pas toutes. Le matin, se mettre au travail lui coûte moins qu’au moment du point clinique sur son sommeil et son élan. Elle ne sait pas pourquoi, et elle n’a pas envie de chercher tout de suite une explication définitive.\n\nVers quinze heures, son téléphone lui rappelle le rendez-vous de jeudi avec la docteure Benali, la médecin qui la suit en santé sexuelle. Loubna regarde les trois corrections restantes. Une idée lui vient, raisonnable en apparence : si elle décalait ce rendez-vous d’une semaine, elle aurait toute la journée de jeudi pour finir le fichier et l’envoyer en avance. Après tout, elle va mieux. Elle commence à écrire au secrétariat : « Je souhaiterais reporter… »\n\nElle s’arrête sur le mot « reporter ». Ce point a été fixé au dernier rendez-vous justement pour reprendre son sommeil, son élan et ce qui lui convient dans le suivi. Elle s’apprête à annuler la conversation au moment précis où elle a quelque chose de nouveau à dire. Elle efface le message. Sur sa feuille de suivi, celle qui ne va jamais dans le carnet orange, elle écrit : « Ce qui va mieux. Ce qui reste. » Puis elle ajoute une troisième ligne : « Est-ce que ça veut dire que c’est fini ? »",
+      "ending_title": "Le rendez-vous de jeudi tient",
+      "ending": "Jeudi, Loubna se rend au cabinet comme prévu. Elle lit sa feuille à Benali : le bloc des horaires qui ne bouge plus, quatre corrections faites en une matinée, des nuits plus reposantes, mais pas toutes. Elle lit aussi la troisième ligne. Benali ne lui répond ni que c’est fini, ni que tout reviendra forcément. Elle lui dit que cette période compte, qu’elle sera reprise avec les autres, et propose de garder le rythme convenu jusqu’à leur prochain point de réévaluation. Loubna accepte. Le vendredi matin, sur un créneau qu’elle avait laissé libre, elle termine les trois dernières corrections et envoie la version numérique à Salomé avec une ligne : « À vérifier de ton côté avant validation. » Salomé répond qu’elle l’ouvrira lundi. Loubna referme l’ordinateur contente de sa semaine, sans savoir ce que la suivante lui demandera.",
+      "conclusion": "Une amélioration est une information utile pour le suivi, pas une conclusion sur l’évolution du trouble. En maintenant son rendez-vous, Loubna a pu dire ce qui allait mieux sans renoncer à l’accompagnement qu’elle a choisi. Le fichier numérique est parti chez Salomé ; il reste à savoir s’il sera accepté tel quel.",
+      "mirror": [
+        "Si Loubna raconte sa bonne semaine, Léonie peut s’en réjouir simplement : « Je suis contente que ta matinée ait été plus facile. » Elle n’a pas à demander si le trouble a disparu, ni à conseiller d’espacer ou de garder les rendez-vous : cette décision se prend avec Benali. Si Loubna évoque l’envie d’annuler pour finir son fichier, Léonie peut dire : « Tu veux que je te laisse la soirée pour tes corrections ? » Elle peut aussi ne rien proposer si elle n’est pas disponible. Salomé, en recevant le fichier, peut seulement annoncer quand elle le vérifiera."
+      ],
+      "clinical_focus": "Une amélioration ne tranche pas l’évolution",
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-hrb"
+      ],
+      "continuity": {
+        "choice": "Jeudi, Loubna se rend au cabinet comme prévu. Elle lit sa feuille à Benali : le bloc des horaires qui ne bouge plus, quatre corrections faites en une matinée, des nuits plus reposantes, mais pas toutes. Elle lit aussi la troisième ligne. Benali ne lui répond ni que c’est fini, ni que tout reviendra forcément. Elle lui dit que cette période compte, qu’elle sera reprise avec les autres, et propose de garder le rythme convenu jusqu’à leur prochain point de réévaluation. Loubna accepte. Le vendredi matin, sur un créneau qu’elle avait laissé libre, elle termine les trois dernières corrections et envoie la version numérique à Salomé avec une ligne : « À vérifier de ton côté avant validation. » Salomé répond qu’elle l’ouvrira lundi. Loubna referme l’ordinateur contente de sa semaine, sans savoir ce que la suivante lui demandera.",
+        "next": "Salomé doit encore vérifier la version numérique ; sa réception terminera le projet visuel de la salle sans fermer le parcours de soin."
+      },
+      "diagnostic_stage": "known",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Une période meilleure se raconte sans devenir un verdict",
+          "text": "Dans les descriptions cliniques de l’OMS, le schéma d’excitation en cause dans ce trouble est présenté comme relativement stable après le début de l’âge adulte, tout en laissant place à des variations du vécu et des manifestations au fil du temps. Les exigences du diagnostic peuvent aussi ne plus être remplies à un moment de l’évolution ; c’est une évaluation clinique qui permet d’en juger, pas une semaine de travail réussie. Chez Loubna, la détresse a pesé moins lourd ces derniers jours et ses nuits se sont en partie améliorées. Ces changements sont réels et utiles à transmettre. Le sommeil, examiné pour lui-même depuis la réévaluation, n’est pas présumé lié au trouble dans un sens ou dans l’autre. Rien ne dit non plus que la période difficile reviendra avec la même intensité. Le suivi sert à situer ces jours parmi les autres, avec elle, sans fatalité ni calendrier de guérison."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment une amélioration peut-elle brouiller les décisions de suivi ?",
+          "points": [
+            {
+              "heading": "L’envie de raccourcir le suivi",
+              "text": "Quand le quotidien devient plus facile, un rendez-vous peut sembler soudain moins nécessaire que le travail à finir.",
+              "examples": [
+                "Mardi après-midi, Loubna commence un message au secrétariat pour décaler son rendez-vous et gagner une journée sur le fichier numérique.",
+                "Elle se dit « je vais mieux » au moment même où elle a, pour la première fois depuis des semaines, des progrès à raconter à Benali."
+              ]
+            },
+            {
+              "heading": "Les progrès passent sous silence",
+              "text": "On parle plus volontiers au professionnel de ce qui pèse ; ce qui s’allège paraît parfois trop mince pour être mentionné.",
+              "examples": [
+                "Loubna a failli ne pas noter que le bloc des horaires est resté à sa place toute la matinée.",
+                "Elle hésite à parler de ses nuits plus reposantes, de peur qu’on en tire une conclusion trop rapide."
+              ]
+            },
+            {
+              "heading": "Une question d’avenir s’invite",
+              "text": "Une bonne période peut faire naître deux idées opposées : tout serait réglé, ou la rechute serait certaine.",
+              "examples": [
+                "Sur sa feuille de suivi, Loubna écrit : « Est-ce que ça veut dire que c’est fini ? »",
+                "Dans le même temps, elle redoute qu’une journée difficile la semaine suivante efface ce qu’elle vient de constater."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour faire place aux améliorations dans le suivi",
+          "points": [
+            {
+              "heading": "Rapporter ce qui va mieux et ce qui reste",
+              "objective": "Donner au professionnel une image complète de la période écoulée.",
+              "exercise": [
+                "Noter brièvement, avant le rendez-vous, deux changements remarqués dans la semaine.",
+                "Ajouter ce qui reste difficile ou incertain, même si cela paraît moins important.",
+                "Lire ces deux listes au professionnel sans chercher à leur attribuer une note."
+              ],
+              "benefit": "Le professionnel peut situer l’amélioration dans l’évolution, au lieu de n’entendre que les moments difficiles."
+            },
+            {
+              "heading": "Discuter des besoins actuels",
+              "objective": "Ajuster l’accompagnement à la situation présente, avec le professionnel.",
+              "exercise": [
+                "Demander ce que cette période change, ou non, pour les objectifs déjà convenus.",
+                "Dire si un aspect du suivi paraît moins utile ou, au contraire, plus nécessaire.",
+                "Laisser au professionnel le temps de répondre, sans exiger de pronostic."
+              ],
+              "benefit": "Le suivi peut évoluer à partir d’un échange plutôt que d’une décision prise seule dans un moment favorable."
+            },
+            {
+              "heading": "Garder les modalités jusqu’à leur réévaluation",
+              "objective": "Éviter de modifier seule un cadre convenu à deux.",
+              "exercise": [
+                "Maintenir le prochain rendez-vous déjà fixé, même lorsque la semaine se passe mieux.",
+                "Placer le travail urgent sur un autre créneau plutôt que sur l’heure du suivi.",
+                "Poser au rendez-vous la question d’un éventuel changement de rythme."
+              ],
+              "benefit": "Un changement de rythme reste possible ; il se décide avec le soignant et peut être revu si la situation varie."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 12,
+      "slug": "loubna-fin-projet-continuite-soin",
+      "title": "Fin de projet : livrer le programme sans clore le suivi",
+      "description": "Salomé réceptionne le programme imprimé et sa version numérique. Loubna savoure la fin du projet et garde son prochain rendez-vous de suivi.",
+      "context": "à la petite salle d’exposition puis à la maison",
+      "topics": [
+        "Livrables réceptionnés",
+        "Continuité du soin",
+        "Projet suivant"
+      ],
+      "clinical_intro": "Terminer un projet professionnel est un résultat à part entière, mais il ne mesure pas l’évolution d’un trouble paraphilique. Une livraison acceptée, la qualité d’un travail ou une soirée agréable ne remplacent pas l’évaluation clinique. Pour Loubna, la remise du programme de la salle d’exposition ferme un engagement de travail ; l’accompagnement qu’elle a choisi avec sa médecin continue, à son propre rythme.",
+      "opening": "Lundi, Salomé a ouvert la version numérique avant l’arrivée de Loubna. Dans la petite salle d’exposition qu’elle dirige, l’écran de l’accueil affiche la page des horaires ; à côté, une pile du programme imprimé attend les premiers visiteurs. Salomé fait défiler le fichier, prend un exemplaire papier et compare les deux à voix haute : les titres, les dates, le plan de la salle. « Tout correspond. Et on lit les titres depuis l’autre bout de la pièce. » Loubna répond que les chuchotements imprimés ont été définitivement congédiés.\n\nIl reste un détail : une lettre manque dans le nom d’un artiste, sur la version numérique seulement. Loubna la corrige en deux minutes sur l’ordinateur de l’accueil et renvoie le fichier. Salomé vérifie la page, puis signe le bon de réception des deux livrables. Six semaines plus tôt, la première maquette n’avançait pas au-delà d’un titre trop petit. Aujourd’hui, le programme est entre les mains de quelqu’un d’autre.\n\nEn rentrant chez elle, Loubna range le carnet orange sur l’étagère des projets terminés. Sa feuille de suivi reste dans le tiroir où elle la garde à part. Une petite voix voudrait relier les deux : si le projet est réussi, peut-être que le reste est réglé aussi. Elle reconnaît cette tentation, déjà apparue la semaine précédente. Le rendez-vous avec la docteure Benali, la médecin qui la suit, est fixé à mercredi ; elle le laisse dans l’agenda. Un message attend dans sa boîte : une librairie du quartier, qui a vu le programme à la salle, lui demande une affiche de rentrée et un petit catalogue. Loubna le lit deux fois sans répondre.\n\nLe soir, Léonie, sa compagne, rentre avec du pain et demande comment s’est passée la remise. Loubna lui tend un exemplaire du programme.",
+      "ending_title": "Une affiche, pas encore le catalogue",
+      "ending": "Léonie feuillette le programme debout dans l’entrée, puis s’assoit pour regarder le plan de la salle. « Ça a l’air simple, et je sais que ça ne l’était pas. » Loubna sourit. Elle n’explique pas davantage ; Léonie ne le demande pas. Elles dînent en parlant de la librairie, du pain trop cuit et d’un film à voir le week-end. Le lendemain, Loubna répond à la libraire : elle accepte l’affiche de rentrée, avec une première piste en grands caractères sur fond clair, et décline pour l’instant le catalogue. Elle fixe un délai qui laisse libres ses créneaux de suivi. Mercredi, elle se rend au rendez-vous avec Benali. Elle raconte la fin du projet, l’envie de rayer la séance, la nouvelle commande. Elles fixent la date du point suivant. Rien n’est clos sur le plan clinique, et Loubna n’attend pas de verdict. Elle a terminé ce qu’elle avait promis à la salle et garde l’accompagnement qu’elle a choisi.",
+      "conclusion": "Ce dernier épisode montre qu’un aboutissement professionnel ferme un engagement sans trancher l’évolution du trouble. Loubna a livré le programme imprimé et sa version numérique, choisi la part du projet suivant qu’elle peut prendre et conservé son suivi. Ses préférences n’ont pas été normalisées ; sa souffrance reste accompagnée là où elle a choisi de la confier.",
+      "mirror": [
+        "Devant le programme, Léonie a dit ce qu’elle voyait : « Ça a l’air simple, et je sais que ça ne l’était pas. » Un proche peut partager ainsi sa fierté pour le travail sans demander si la fin du projet signifie que tout va mieux. Léonie n’a pas à garantir que le suivi continue, ni à conseiller d’accepter ou de refuser la nouvelle commande. Si Loubna semble vouloir parler de sa santé, Léonie peut lui demander : « Tu veux en parler ce soir, ou on reste sur la librairie ? » Elle garde aussi le droit de dire qu’elle n’est pas disponible."
+      ],
+      "clinical_focus": "Le projet se termine, le soin continue",
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "oms-sante-sexuelle"
+      ],
+      "continuity": {
+        "choice": "Léonie feuillette le programme debout dans l’entrée, puis s’assoit pour regarder le plan de la salle. « Ça a l’air simple, et je sais que ça ne l’était pas. » Loubna sourit. Elle n’explique pas davantage ; Léonie ne le demande pas. Elles dînent en parlant de la librairie, du pain trop cuit et d’un film à voir le week-end. Le lendemain, Loubna répond à la libraire : elle accepte l’affiche de rentrée, avec une première piste en grands caractères sur fond clair, et décline pour l’instant le catalogue. Elle fixe un délai qui laisse libres ses créneaux de suivi. Mercredi, elle se rend au rendez-vous avec Benali. Elle raconte la fin du projet, l’envie de rayer la séance, la nouvelle commande. Elles fixent la date du point suivant. Rien n’est clos sur le plan clinique, et Loubna n’attend pas de verdict. Elle a terminé ce qu’elle avait promis à la salle et garde l’accompagnement qu’elle a choisi.",
+        "next": "L’enjeu de la salle est résolu : les deux versions du programme sont réceptionnées. Loubna poursuit l’affiche de la librairie et l’accompagnement choisi avec Benali, sans guérison déclarée ni conclusion morale sur ses préférences."
+      },
+      "diagnostic_stage": "known",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Un résultat de travail ne mesure pas un trouble",
+          "text": "La réussite d’un projet n’est pas un instrument de mesure clinique. Le diagnostic de Loubna repose sur un schéma persistant et sur la détresse marquée qui lui est liée ; il a été posé et il est suivi dans le cadre d’une évaluation professionnelle. Une livraison acceptée, des titres enfin lisibles ou une soirée paisible ne disent pas si ces exigences sont toujours remplies. Le vécu peut varier au cours de l’évolution, et c’est dans le suivi que ces variations sont examinées. Le travail graphique garde sa valeur propre : Loubna peut en être fière sans qu’il devienne la preuve d’une guérison, ni que ses difficultés passées se résument à un retard de maquette. Ses préférences, sa vie privée et les limites de Léonie restent respectées après la fin du projet comme avant."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment la fin d’un projet peut-elle se mêler aux questions de santé ?",
+          "points": [
+            {
+              "heading": "La réussite tente de servir de bilan",
+              "text": "Après une longue période de travail difficile, l’envie de lire un succès comme une conclusion sur soi peut être forte.",
+              "examples": [
+                "En rangeant le carnet orange, Loubna se dit un instant que si le projet est réussi, le reste est peut-être réglé.",
+                "Le bon de réception signé par Salomé lui donne brièvement envie de rayer aussi le rendez-vous de mercredi."
+              ]
+            },
+            {
+              "heading": "Le projet suivant arrive vite",
+              "text": "Un travail visible attire de nouvelles demandes, parfois avant que l’on ait mesuré la charge du précédent.",
+              "examples": [
+                "La librairie du quartier propose une affiche et un catalogue le jour même de la réception.",
+                "Loubna se surprend à compter les semaines disponibles sans y inscrire ses créneaux de suivi."
+              ]
+            },
+            {
+              "heading": "Les proches partagent la joie",
+              "text": "L’entourage peut se réjouir d’une étape sans savoir s’il doit parler du reste.",
+              "examples": [
+                "Léonie feuillette le programme et s’attarde sur le plan de la salle.",
+                "Elle ne demande pas comment Loubna va « vraiment » et laisse la soirée porter sur la librairie et le dîner."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour clore un projet sans fermer le suivi",
+          "points": [
+            {
+              "heading": "Confirmer les livrables reçus",
+              "objective": "Fermer clairement l’engagement professionnel.",
+              "exercise": [
+                "Vérifier avec la responsable chaque document remis, version par version.",
+                "Corriger les derniers détails signalés et obtenir une confirmation écrite.",
+                "Archiver les fichiers et le carnet du projet à part des notes personnelles."
+              ],
+              "benefit": "Une fin nette peut éviter de prolonger un projet par inquiétude et laisser la satisfaction à sa place."
+            },
+            {
+              "heading": "Conserver le prochain rendez-vous",
+              "objective": "Distinguer la fin du travail et la suite de l’accompagnement.",
+              "exercise": [
+                "Laisser dans l’agenda le rendez-vous déjà fixé avec le professionnel.",
+                "Y apporter la fin du projet comme un élément de contexte, pas comme un résultat clinique.",
+                "Discuter avec lui, s’il y a lieu, d’un éventuel changement de rythme."
+              ],
+              "benefit": "Le suivi peut s’ajuster à la nouvelle période sans être interrompu par une impression de réussite."
+            },
+            {
+              "heading": "Examiner la charge du projet suivant",
+              "objective": "Répondre à une nouvelle demande en tenant compte de ses besoins.",
+              "exercise": [
+                "Lire la proposition et noter ce qu’elle demande concrètement.",
+                "Placer dans le calendrier les créneaux de suivi et de repos avant d’annoncer un délai.",
+                "Répondre avec ce que l’on peut prendre, quitte à décliner une partie de la demande."
+              ],
+              "benefit": "Le prochain engagement peut partir d’un calendrier réaliste plutôt que de l’élan d’une réussite."
+            }
+          ]
+        }
+      ]
     }
   ]
 }
