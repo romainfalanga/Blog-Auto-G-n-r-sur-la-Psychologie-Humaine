@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "revision": 949,
+  "revision": 952,
   "created_at": "2026-11-07T14:47:42Z",
   "cases": {
     "mathis": {
@@ -5392,9 +5392,9 @@
     "hector": {
       "character_id": "hector",
       "code": "6D70",
-      "stage": "story",
+      "stage": "review",
       "created_at": "2026-11-07T14:47:42Z",
-      "active_job": "55bafd6fb9e747399e9c4e4a988e91ca",
+      "active_job": null,
       "owners": {
         "character": [
           "personnage_hector"
@@ -5415,6 +5415,20 @@
             "files": {
               "editorial/clinical/designs/hector.json": "446a3648f24d12ef8f72c7b8709a09ba066d779affd4904f2cfd6d1afe280b21",
               "editorial/clinical/dossiers/hector.json": "850ae8eb3d15d375fabee0a39688ee04782e24b10e542601e5e0ea60218cc0ad"
+            },
+            "episodes": 12
+          }
+        },
+        "story": {
+          "job_id": "55bafd6fb9e747399e9c4e4a988e91ca",
+          "owner": "story_hector",
+          "validated_at": "2026-11-12T10:42:54Z",
+          "validation": {
+            "character_id": "hector",
+            "files": {
+              "editorial/clinical/designs/hector.json": "446a3648f24d12ef8f72c7b8709a09ba066d779affd4904f2cfd6d1afe280b21",
+              "editorial/clinical/dossiers/hector.json": "850ae8eb3d15d375fabee0a39688ee04782e24b10e542601e5e0ea60218cc0ad",
+              "editorial/clinical/hector.json": "40fb469fb7ae1abb80d8a9cca5227f2d2b73bb7b520925b7c483661d01a2ef97"
             },
             "episodes": 12
           }
@@ -108555,10 +108569,10 @@
         }
       },
       "snapshot_sha256": "b8ac4b8b4d515e823a153b5886e8c934a16de079e74a901d018ad9eb13a97190",
-      "status": "active",
+      "status": "finished",
       "token_sha256": "2b1b0299c58ae886458e3f844db54c540fda991126d9bec10203f4d9b40bba5b",
-      "heartbeat_at": "2026-11-12T10:42:36Z",
-      "expires_at": "2026-11-12T11:42:36Z",
+      "heartbeat_at": "2026-11-12T10:42:53Z",
+      "expires_at": "2026-11-12T11:42:53Z",
       "checkpoints": [
         {
           "at": "2026-11-12T10:33:01Z",
@@ -108727,8 +108741,32 @@
             "dossier_sha256": "850ae8eb3d15d375fabee0a39688ee04782e24b10e542601e5e0ea60218cc0ad",
             "review_sha256": null
           }
+        },
+        {
+          "at": "2026-11-12T10:42:53Z",
+          "outputs": {
+            "editorial/clinical/hector.json": "40fb469fb7ae1abb80d8a9cca5227f2d2b73bb7b520925b7c483661d01a2ef97"
+          },
+          "observed": {
+            "manuscript_sha256": "40fb469fb7ae1abb80d8a9cca5227f2d2b73bb7b520925b7c483661d01a2ef97",
+            "episodes_present": 12,
+            "manuscript_readable": true,
+            "design_sha256": "446a3648f24d12ef8f72c7b8709a09ba066d779affd4904f2cfd6d1afe280b21",
+            "dossier_sha256": "850ae8eb3d15d375fabee0a39688ee04782e24b10e542601e5e0ea60218cc0ad",
+            "review_sha256": null
+          }
         }
-      ]
+      ],
+      "finished_at": "2026-11-12T10:42:54Z",
+      "validation": {
+        "character_id": "hector",
+        "files": {
+          "editorial/clinical/designs/hector.json": "446a3648f24d12ef8f72c7b8709a09ba066d779affd4904f2cfd6d1afe280b21",
+          "editorial/clinical/dossiers/hector.json": "850ae8eb3d15d375fabee0a39688ee04782e24b10e542601e5e0ea60218cc0ad",
+          "editorial/clinical/hector.json": "40fb469fb7ae1abb80d8a9cca5227f2d2b73bb7b520925b7c483661d01a2ef97"
+        },
+        "episodes": 12
+      }
     },
     "3b3645c5bf71478dabf0103d5a6b4b7d": {
       "id": "3b3645c5bf71478dabf0103d5a6b4b7d",
@@ -127938,5 +127976,5 @@
       "expires_at": "2026-11-12T11:42:39Z"
     }
   },
-  "updated_at": "2026-11-12T10:42:39Z"
+  "updated_at": "2026-11-12T10:42:54Z"
 }
