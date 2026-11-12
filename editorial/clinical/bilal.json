@@ -632,6 +632,111 @@
         "next": "À l’atelier, Hugo et Martine préparent un apprentissage de la défonceuse qui évite les essais au hasard."
       },
       "diagnostic_stage": "known"
+    },
+    {
+      "number": 7,
+      "slug": "bilal-apprendre-procedure-nouvelle-sans-essais-hasard-defonceuse",
+      "title": "Apprendre une procédure nouvelle sans essais au hasard : la défonceuse neuve",
+      "description": "Bilal veut apprivoiser la défonceuse neuve en tâtonnant. Martine se souvient d’un mauvais réglage revenu le lendemain comme s’il était le bon.",
+      "context": "à l’atelier devant une machine neuve",
+      "topics": [
+        "Trouble amnésique",
+        "apprentissage guidé",
+        "procédure nouvelle"
+      ],
+      "clinical_focus": "Apprendre une procédure nouvelle sans essais au hasard",
+      "clinical_intro": "Quand une personne vivant un trouble amnésique apprend une procédure nouvelle par essais et erreurs, une erreur peut rester en mémoire à la place de la bonne étape. Les recommandations de réadaptation évoquent des apprentissages qui limitent les erreurs, centrés sur la tâche réelle. Bilal, dont le diagnostic est établi, accepte d’apprendre la défonceuse neuve autrement.",
+      "opening": "Jeudi, quatorze heures. Le carton de la défonceuse neuve est ouvert sur l’établi, le polystyrène éparpillé jusque sous la scie à ruban. La machine est plus lourde que l’ancienne, avec une molette de profondeur à crans que Bilal n’a jamais vue. Les six lattes sculptées du dossier attendent leur rainure, alignées sur le râtelier : celle de Rachid, retraité de la voirie, est rentrée il y a trois semaines, le lundi fixé sur l’ardoise.\n\nBilal visse une fraise droite, cale une chute de chêne avec deux serre-joints. « Je vais faire comme toujours. Je fais une passe, je regarde, je corrige. En trois essais je l’ai dans la main. »\n\nMartine Roussel, son associée ébéniste, ne bouge pas de l’angle où elle ponce un tiroir. Puis elle éteint sa ponceuse.\n\n« Bilal, tu te souviens de la scie à ruban, il y a trois semaines ? » Elle se reprend aussitôt. « Non, pardon, je te le raconte. Tu avais réglé le guide trop haut, on l’avait corrigé ensemble. Le lendemain matin, tu l’as remis exactement à la mauvaise hauteur, tranquille, comme si c’était la bonne. La correction n’était pas restée. L’erreur, si. »\n\nBilal repose la défonceuse. Il ne se rappelle ni le guide ni la correction. Mais il connaît Martine : elle ne raconte pas ce genre de chose pour le plaisir de le reprendre.\n\nElle sort de sa poche une feuille pliée en quatre. « Hugo, ton ergothérapeute, m’a appelée mardi, après ton bilan. Tu étais d’accord, il me l’a dit. Il m’a expliqué une façon d’apprendre où on évite de se tromper au début. On a écrit les étapes ensemble, avec la notice du fabricant. »\n\nBilal lit la feuille. Sept lignes, de l’écriture ronde de Martine. Débrancher, monter la fraise, régler la profondeur sur la molette, brancher, lunettes, poser la base à plat, pousser de gauche à droite. Il soupire. Il a plus de trente ans d’atelier, et on lui apporte une recette.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Quand l’erreur se retient mieux que la correction",
+          "text": "Apprendre par essais et erreurs suppose de se souvenir de l’erreur pour ne plus la refaire. Chez une personne qui retient mal les informations nouvelles, cette condition fait défaut : une étape mal faite pendant l’apprentissage peut se fixer à la place de la bonne, et revenir ensuite avec l’assurance d’une habitude. Les recommandations de réadaptation de la mémoire évoquent un apprentissage qui limite les erreurs, centré sur les tâches réelles de la personne et guidé au début. Pour Bilal, le geste de sculpteur reste disponible ; c’est le réglage nouveau de la défonceuse qui risque de s’installer de travers. Les règles de sécurité de la machine restent celles du fabricant, quelle que soit la méthode d’apprentissage."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment une procédure nouvelle peut-elle s’apprendre de travers ?",
+          "points": [
+            {
+              "heading": "L’erreur revient comme une habitude",
+              "text": "Une étape fausse, faite avant d’être corrigée, peut être répétée plus tard avec assurance.",
+              "examples": [
+                "Le guide de la scie à ruban est remis à la mauvaise hauteur le lendemain matin.",
+                "Bilal ne garde aucune trace de la correction faite avec Martine."
+              ]
+            },
+            {
+              "heading": "La méthode habituelle ne convient plus",
+              "text": "Une façon d’apprendre efficace pendant des années peut devenir piégeuse pour une procédure nouvelle.",
+              "examples": [
+                "Bilal veut faire une passe, regarder, corriger, comme toujours.",
+                "La molette à crans de la nouvelle machine ne ressemble à rien de connu."
+              ]
+            },
+            {
+              "heading": "Le geste ancien reste distinct du réglage nouveau",
+              "text": "La compétence manuelle peut être intacte alors que la séquence de réglage, elle, est nouvelle.",
+              "examples": [
+                "Il cale la chute et visse la fraise sans hésitation.",
+                "Il ne sait pas dans quel ordre régler la profondeur sur cette machine."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour apprendre une procédure en limitant les erreurs",
+          "points": [
+            {
+              "heading": "Écrire les étapes avant de commencer",
+              "objective": "Disposer d’une séquence juste avant le premier geste.",
+              "exercise": [
+                "Lire la notice du fabricant avec une personne de confiance.",
+                "Écrire les étapes dans l’ordre, une action par ligne.",
+                "Fixer la fiche sur la machine, à portée de regard."
+              ],
+              "benefit": "La séquence correcte est disponible dès le départ, au lieu d’être découverte par l’erreur."
+            },
+            {
+              "heading": "Être guidé pas à pas les premières fois",
+              "objective": "Éviter que la première exécution contienne une erreur.",
+              "exercise": [
+                "Faire les premiers passages sur une chute, pas sur la pièce finale.",
+                "Laisser la personne qui guide lire chaque étape avant le geste.",
+                "Arrêter dès qu’un doute apparaît, plutôt que de tenter une solution."
+              ],
+              "benefit": "Chaque répétition renforce la bonne étape ; le rythme reste celui de la personne qui apprend."
+            },
+            {
+              "heading": "Retirer l’aide progressivement",
+              "objective": "Passer du guidage à l’autonomie sans revenir aux essais au hasard.",
+              "exercise": [
+                "Une fois les premiers passages réussis, lire soi-même la fiche à voix haute.",
+                "Ensuite, consulter la fiche seulement avant de régler la profondeur.",
+                "Garder la fiche sur la machine même quand le geste semble acquis."
+              ],
+              "benefit": "L’autonomie peut grandir sans effacer le filet de sécurité ; l’ergothérapeute peut ajuster ce rythme."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Trois rainures sur une chute",
+      "ending": "Bilal accepte, à une condition : c’est lui qui tient la machine. Martine plastifie la feuille avec du ruban adhésif large et la scotche sur le carter, côté poignée. Elle lit la première ligne ; il débranche. Deuxième ligne ; il monte la fraise. À la troisième, il veut tourner la molette de trois crans, comme sur l’ancienne ; Martine pose le doigt sur la fiche : « Deux crans. C’est écrit. » Il obéit en grognant. Il pousse la défonceuse de gauche à droite sur la chute. La rainure est nette, à la bonne profondeur. Ils recommencent, Martine lit, il exécute. Deux fois. À la troisième, c’est Bilal qui lit à voix haute. Trois rainures propres sur la chute. Il ne passe pas encore aux lattes : ce sera demain, avec la fiche. Il dit qu’il sait déjà le geste. Il laisse quand même la fiche scotchée. Le lendemain, il tend la main vers la molette, s’arrête, et lit la troisième ligne.",
+      "conclusion": "Un apprentissage qui limite les erreurs protège une personne qui retient mal les informations nouvelles d’une mauvaise étape installée comme une habitude. Bilal garde son geste de sculpteur et accepte un guidage pour une machine nouvelle, sans savoir combien de temps la fiche restera nécessaire.",
+      "mirror": [
+        "Martine s’est reprise à temps : au lieu de demander « tu te souviens ? », elle a raconté elle-même l’épisode du guide. Un proche peut faire de même : « Je te raconte ce qui s’est passé la dernière fois », plutôt que de demander à l’autre de retrouver un souvenir. Pendant un apprentissage, il peut lire les étapes et dire « c’est écrit » sans faire à la place. Il n’invente pas de méthode thérapeutique : la démarche a été préparée avec l’ergothérapeute et la notice du fabricant."
+      ],
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "nice-ng236",
+        "incog-memoire-2023"
+      ],
+      "continuity": {
+        "choice": "Bilal apprend la défonceuse guidé par Martine sur une chute de chêne, avec une fiche de sept étapes scotchée sur le carter ; il réussit trois rainures et garde la fiche pour les lattes du lendemain.",
+        "next": "Hugo lui propose ensuite des alarmes sur son téléphone, après une séance collective manquée, ce que Bilal accueille avec méfiance."
+      },
+      "diagnostic_stage": "known"
     }
   ]
 }

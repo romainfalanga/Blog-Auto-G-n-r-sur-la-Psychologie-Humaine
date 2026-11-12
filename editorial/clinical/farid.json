@@ -533,6 +533,111 @@
         "next": "La nuit du jeudi au vendredi de la semaine suivante, veille de la consultation, Anis dormira dans la chambre d’amis pour conduire son père tôt, et il observera autre chose vers trois heures."
       },
       "diagnostic_stage": "known"
+    },
+    {
+      "number": 6,
+      "slug": "farid-sommeil-paradoxal-reves-agis-consultation",
+      "title": "Des rêves agis pendant le sommeil paradoxal",
+      "description": "À trois heures, Farid parle fort et renverse sa lampe en rêvant qu’il retient un poste. Ce que sont les rêves agis et à qui en parler.",
+      "context": "une nuit avant la consultation",
+      "topics": [
+        "sommeil paradoxal",
+        "décrire sans interpréter",
+        "sécurité de la chambre"
+      ],
+      "clinical_focus": "Rêves agis pendant le sommeil paradoxal",
+      "clinical_intro": "Certaines personnes bougent, parlent ou se débattent pendant le sommeil paradoxal, comme si elles vivaient leur rêve. Ce trouble du comportement en sommeil paradoxal fait partie des signes possibles de la démence à corps de Lewy et commence souvent des années avant les autres. D’autres causes peuvent lui ressembler. Une nuit chez son père permet à Anis de décrire ce qu’il a entendu.",
+      "opening": "Jeudi soir, Anis, le fils de Farid, professeur de technologie, s’installe dans la chambre d’amis. Il a échangé sa première heure de cours du vendredi avec une collègue : la consultation de la docteure Tissier, la neurologue de son père, est à huit heures trente à l’hôpital, et il préfère partir d’ici. Le cahier à trois colonnes est dans son sac.\n\nVers trois heures, un bruit le réveille. La voix de son père, forte, presque un cri : « Tiens-le ! Tiens-le par en dessous ! » Puis un choc sourd contre le bois, et quelque chose qui tombe. Anis se lève, allume la lumière du couloir et s’arrête sur le seuil de la chambre. La lampe de chevet est par terre, l’abat-jour cabossé. Son père a le bras tendu hors du lit, la main ouverte, les yeux fermés.\n\nAnis l’appelle doucement, sans le toucher : « Papa. Papa, c’est Anis. » Il répète deux fois. Farid ouvre les yeux, cligne, regarde la lumière du couloir. Il respire vite. « Le poste glissait de l’établi. Le gros poste de salon. Je le retenais. » Il se tourne vers la lampe au sol et soupire.\n\nAnis ramasse la lampe, vérifie qu’il n’y a pas de verre. Son père ne s’est pas blessé. Assis sur le bord du lit, Farid dit, presque amusé : « Ça fait des années, tu sais. Ta mère disait que je réparais la nuit. » Anis ne le savait pas. Il retourne se coucher, mais ne se rendort pas avant cinq heures.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Quand le corps suit le rêve",
+          "text": "Pendant le sommeil paradoxal, le corps est normalement relâché alors que les rêves sont les plus vifs. Dans le trouble du comportement en sommeil paradoxal, ce relâchement ne se fait pas complètement : la personne peut parler, crier ou faire des gestes qui accompagnent le contenu de son rêve. Ce trouble fait partie des signes décrits dans la démence due à une maladie à corps de Lewy et apparaît souvent bien des années avant les autres, ce qui rejoint le souvenir de Farid. D’autres situations peuvent pourtant lui ressembler, comme des réveils confus ou certains troubles respiratoires du sommeil : c’est à l’équipe de soins de faire la part des choses, éventuellement avec une consultation spécialisée du sommeil. Anis, lui, a vu et entendu une scène précise : une phrase criée, un bras tendu, une lampe tombée, un réveil progressif. C’est cette description, et non une interprétation, qui peut être utile à la neurologue."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment des rêves agis peuvent-ils se manifester la nuit ?",
+          "points": [
+            {
+              "heading": "Des paroles et des gestes pendant le sommeil",
+              "text": "La personne endormie parle ou bouge en lien avec ce qu’elle rêve.",
+              "examples": [
+                "Farid crie « Tiens-le par en dessous ! » les yeux fermés.",
+                "Il tend le bras hors du lit, la main ouverte."
+              ]
+            },
+            {
+              "heading": "Un rêve que l’on peut raconter au réveil",
+              "text": "Une fois réveillée, la personne se souvient parfois d’un rêve qui correspond aux gestes observés.",
+              "examples": [
+                "Farid raconte qu’il retenait un gros poste qui glissait de l’établi.",
+                "Ses paroles pendant le sommeil collent à ce récit."
+              ]
+            },
+            {
+              "heading": "Un risque matériel dans la chambre",
+              "text": "Les mouvements peuvent heurter un meuble ou faire tomber un objet proche.",
+              "examples": [
+                "La lampe de chevet est renversée, l’abat-jour cabossé.",
+                "La table de chevet est collée au lit, à portée du bras."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour décrire une nuit agitée et sécuriser la chambre",
+          "points": [
+            {
+              "heading": "Décrire ce qui a été vu et entendu",
+              "objective": "Donner à la neurologue des faits précis, avec l’accord de la personne.",
+              "exercise": [
+                "Noter l’heure, les paroles entendues et les gestes vus.",
+                "Écrire séparément ce que la personne a raconté au réveil.",
+                "Lui demander le matin si l’on peut lire ces lignes en consultation."
+              ],
+              "benefit": "La description aide l’évaluation, sans que le proche pose un diagnostic."
+            },
+            {
+              "heading": "Discuter de la sécurité de la chambre",
+              "objective": "Limiter les risques matériels la nuit, en accord avec la personne et l’équipe.",
+              "exercise": [
+                "Repérer avec la personne les objets qui peuvent tomber ou blesser.",
+                "En parler à l’équipe de soutien ou à l’ergothérapeute avant de tout déplacer.",
+                "Laisser la personne choisir ce qu’elle accepte de changer."
+              ],
+              "benefit": "La chambre peut devenir plus sûre ; cet aménagement ne traite pas le trouble."
+            },
+            {
+              "heading": "Demander s’il faut un avis spécialisé",
+              "objective": "Laisser aux soignants le choix des examens.",
+              "exercise": [
+                "Signaler à la neurologue depuis quand ces nuits agitées existent, si la personne l’accepte.",
+                "Demander si une consultation du sommeil est utile.",
+                "Ne rien prendre ni changer pour dormir sans l’avis du médecin."
+              ],
+              "benefit": "L’équipe décide des examens, et le proche n’a pas à trancher seul."
+            }
+          ]
+        }
+      ],
+      "ending_title": "La table de chevet déplacée",
+      "ending": "Au petit-déjeuner, Anis écrit dans le cahier : « vendredi, 3 h, parle fort, bras tendu, lampe tombée, réveil en l’appelant ». Il demande s’il pourra le lire. Farid lit la ligne, ajoute lui-même « rêve du poste qui glisse », et coche la troisième colonne.\n\nÀ huit heures trente, dans le bureau de la docteure Tissier, Farid parle en premier : « J’ai vu quelqu’un un soir. Je n’étais pas effrayé. C’est tout ce que j’en dis. » La neurologue note sans insister. Anis lit ensuite la ligne de la nuit, puis celle du samedi. La docteure Tissier pose des questions sur la somnolence dans la journée, les siestes, depuis quand les nuits sont agitées. Elle propose une consultation spécialisée du sommeil et conseille de parler de la chambre avec l’équipe du jeudi. Avant qu’ils partent, elle remplit avec eux une carte au format portefeuille : le diagnostic, le numéro de son service, et une phrase demandant à toute équipe soignante de la contacter avant de modifier un traitement.\n\nLe soir même, Farid tire la table de chevet à un bras du lit et pose la lampe sur la commode. Il ne sait pas si ses nuits changeront. Il sait que la lampe, au moins, ne tombera plus.",
+      "conclusion": "Les rêves agis du sommeil paradoxal peuvent précéder de longtemps les autres signes de la démence à corps de Lewy. En décrivant une nuit précise avec l’accord de son père, Anis donne à la neurologue des faits utiles ; Farid garde la parole sur ce qu’il a vécu et accepte un premier changement dans sa chambre.",
+      "mirror": [
+        "Devant son père qui crie les yeux fermés, Anis a allumé le couloir et l’a appelé par son prénom depuis le seuil, sans le secouer. Un proche peut faire de même, puis dire au réveil : « Tu rêvais, je suis là. Tu veux qu’on note ça pour la docteure ? » Il n’a pas à expliquer le trouble ni à changer les habitudes de sommeil de son propre chef. Si la personne s’est blessée ou ne se réveille pas normalement, il appelle le 15."
+      ],
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "mckeith-2017",
+        "nice-ng97"
+      ],
+      "continuity": {
+        "choice": "Avec l’accord de Farid, Anis lit en consultation la ligne de la nuit ; la docteure Tissier propose une consultation spécialisée du sommeil, conseille d’aborder la chambre avec l’équipe du jeudi et remplit une carte (diagnostic, contact de son service, demande de la joindre avant toute modification de traitement). Farid éloigne la table de chevet.",
+        "next": "Le samedi suivant, de retour à l’atelier, Farid voudra resserrer le cadran de la radio de bakélite crème, et c’est le geste lui-même qui deviendra plus lent."
+      },
+      "diagnostic_stage": "known"
     }
   ]
 }

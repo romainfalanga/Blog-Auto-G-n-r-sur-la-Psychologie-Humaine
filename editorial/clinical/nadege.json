@@ -323,6 +323,111 @@
       },
       "clinical_focus": "Lenteur de traitement face aux questions rapides",
       "diagnostic_stage": "known"
+    },
+    {
+      "number": 4,
+      "slug": "nadege-attention-partagee-parler-et-faire",
+      "title": "Partager son attention entre parler et faire",
+      "description": "En répétition, une question et la sonnerie du four coupent Nadège au milieu de sa panade : son attention partagée s’épuise.",
+      "context": "lors d’une répétition à la maison de quartier",
+      "topics": [
+        "Démence due à une maladie cérébrovasculaire",
+        "attention partagée",
+        "environnement bruyant"
+      ],
+      "clinical_intro": "Expliquer un geste tout en le faisant, dans une salle où l’on vous interrompt, demande de partager son attention entre plusieurs sources. Cette attention partagée fait partie des capacités qui peuvent être fragilisées dans une démence liée à une maladie des petits vaisseaux du cerveau. Lors d’une répétition devant quatre habitants, Nadège voit sa phrase et sa cuisson se défaire en même temps.",
+      "opening": "Un jeudi de début décembre, la grande salle de la maison de quartier des Ponts sent encore le café du matin. Karima, qui anime la maison de quartier et a proposé l’idée d’un atelier de pâtisserie, a rapproché deux tables sous les fenêtres et réuni quatre habitants pour une répétition : un retraité du club de belote, deux mères qui viennent au soutien scolaire et une étudiante qui loge au-dessus de la boulangerie. La cuisine collective a deux plaques électriques et un four qui sonne fort.\n\nNadège a choisi la pâte à choux, parce que c’est la base de tout. Elle a pesé ses ingrédients chez elle, dans des bols empilés, et les a portés dans un cabas. Dans la casserole, l’eau, le lait, le beurre et la pincée de sel frémissent. Elle jette la farine d’un coup et remue avec la spatule. « Là, on dessèche la panade. On remue jusqu’à ce qu’elle se décolle et fasse une fine pellicule au fond. Pourquoi ? Parce que… »\n\nL’étudiante lève la main : « Pardon, on peut le faire avec de la farine complète ? » Au même moment, le four, que Karima a mis à préchauffer, se met à sonner. Nadège tourne la tête vers le four, puis vers l’étudiante, puis vers la casserole. Sa spatule s’est arrêtée. Elle ne sait plus si la panade a séché deux minutes ou trente secondes, ni ce qu’elle voulait dire après « parce que ». Elle doit se pencher pour regarder le fond de la casserole et juger à l’œil.\n\nElle rit, dit « vous voyez, même les pâtissières se perdent », et les participants rient avec elle. Puis elle se tait un long moment en remuant, plus longtemps qu’elle ne le voudrait, pendant que Karima éteint la sonnerie.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Quand faire et expliquer à la fois coûte davantage",
+          "text": "L’attention partagée est la capacité à suivre plusieurs sources d’information ou à mener deux activités en même temps ; dans une démence due à une atteinte des petits vaisseaux du cerveau, l’attention fait partie des fonctions souvent touchées, comme la vitesse de traitement. Un geste très appris peut rester sûr tant qu’on le fait seul, et devenir plus fragile quand il faut, en même temps, parler, écouter une question et surveiller un signal sonore. Pour Nadège, la répétition dans une salle bruyante additionne ces demandes. Ce qui se défait n’est pas son savoir sur la panade, mais la possibilité de tenir l’explication et la cuisson ensemble. La séance n’est pas un examen : elle montre seulement ce qui charge l’attention dans ce lieu-là."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment l’attention partagée se dérobe-t-elle quand on démontre un geste ?",
+          "points": [
+            {
+              "heading": "Une phrase interrompue",
+              "text": "Une sollicitation extérieure peut couper le fil d’une explication en cours, qu’il est ensuite difficile de reprendre.",
+              "examples": [
+                "Nadège s’arrête après « parce que » quand l’étudiante pose sa question sur la farine complète.",
+                "Elle ne retrouve pas la raison qu’elle allait donner pour dessécher la panade."
+              ]
+            },
+            {
+              "heading": "Un geste suspendu",
+              "text": "Lorsque l’attention se déplace vers la parole ou un bruit, le geste en cours peut s’arrêter sans que la personne s’en aperçoive.",
+              "examples": [
+                "Sa spatule s’immobilise au moment où le four sonne.",
+                "Elle doit se pencher sur la casserole pour estimer depuis combien de temps la panade sèche."
+              ]
+            },
+            {
+              "heading": "Une fatigue après la séance",
+              "text": "Tenir plusieurs fils à la fois dans un lieu bruyant peut épuiser plus qu’une longue préparation faite au calme.",
+              "examples": [
+                "Après avoir ri avec le groupe, Nadège se tait plus longtemps qu’elle ne le voudrait.",
+                "Rentrée chez elle, elle note que la répétition l’a plus fatiguée qu’une après-midi entière de pâtisserie."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour démontrer un geste sans tout porter en même temps",
+          "points": [
+            {
+              "heading": "Séparer le geste et les questions",
+              "objective": "Ne pas avoir à faire, expliquer et écouter au même moment.",
+              "exercise": [
+                "Annoncer au groupe que le geste sera d’abord montré sans parler.",
+                "Expliquer ensuite, la casserole posée hors du feu.",
+                "Ouvrir un temps de questions séparé, à la fin de chaque étape."
+              ],
+              "benefit": "Chaque moment ne demande qu’une seule chose ; l’ordre peut être revu si l’essai ne convient pas."
+            },
+            {
+              "heading": "Confier le minuteur à quelqu’un d’autre",
+              "objective": "Retirer les signaux sonores de ce que la démonstratrice doit surveiller.",
+              "exercise": [
+                "Choisir une personne de confiance pour surveiller le four et les temps de cuisson.",
+                "Convenir qu’elle prévient à voix basse plutôt que de laisser sonner.",
+                "Lui donner la liste des temps à l’avance."
+              ],
+              "benefit": "Le bruit qui interrompt disparaît, et la personne n’a pas à guetter plusieurs choses à la fois."
+            },
+            {
+              "heading": "Aménager le lieu",
+              "objective": "Réduire ce qui disperse l’attention dans la salle.",
+              "exercise": [
+                "Repérer avant la séance les sources de bruit et de passage, comme le four ou la porte.",
+                "Placer la démonstratrice dos à ces sources et les participants face à elle.",
+                "Prévoir un nombre limité de participants et une durée courte."
+              ],
+              "benefit": "Un cadre plus calme peut rendre la séance moins coûteuse, sans garantir qu’elle se passe sans accroc."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Le tableau des questions",
+      "ending": "Après le départ des participants, Nadège reste avec Karima devant les choux qui ont gonflé, un peu inégaux. « La prochaine fois, je montre d’abord, en silence. Après, j’explique. Les questions, on les écrit. » Karima propose d’apporter le tableau blanc du soutien scolaire : chacun y notera sa question pendant la démonstration, et elle les lira à Nadège à la fin de chaque étape. Nadège accepte. Sur le chemin du retour, son cabas lui paraît plus lourd qu’à l’aller. Chez elle, elle s’assoit avant d’enlever son manteau, ouvre le cahier bleu et note sous la liste : « Répétitions : plus fatigantes que prévu. Pas plus d’une heure. » Puis elle ajoute un troisième nom : pâte à choux.",
+      "conclusion": "L’attention partagée peut céder quand il faut faire, parler et écouter dans un lieu bruyant, même pour un geste très appris. Nadège en tire une règle pour l’atelier, montrer d’abord puis expliquer, et une limite de durée qu’elle inscrit elle-même dans son projet.",
+      "mirror": [
+        "Quand la spatule de Nadège s’arrête, Karima pourrait dire simplement : « Je note votre question, on la reprend à la fin de l’étape », puis éteindre le four sans commentaire. Ce geste protège la démonstration sans faire de Nadège une personne à ménager devant le groupe. Un proche ou une animatrice n’a pas à juger si la séance a réussi ; il peut demander après coup ce qui a gêné et ce qu’elle veut changer."
+      ],
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "aha-vci-2011",
+        "nice-ng97"
+      ],
+      "continuity": {
+        "choice": "Nadège décide de montrer les gestes en silence puis d’expliquer, avec un tableau de questions tenu par Karima ; elle limite les répétitions à une heure et ajoute la pâte à choux à la liste.",
+        "next": "Karima lui confie le budget des ingrédients de l’atelier, en pensant que ce sera facile pour une ancienne commerçante."
+      },
+      "clinical_focus": "Partager son attention entre parler et faire",
+      "diagnostic_stage": "known"
     }
   ]
 }

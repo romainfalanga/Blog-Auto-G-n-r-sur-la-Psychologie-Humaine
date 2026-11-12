@@ -639,6 +639,111 @@
       },
       "clinical_focus": "Peur et colère qui débordent pendant l’épisode",
       "diagnostic_stage": "known"
+    },
+    {
+      "number": 7,
+      "slug": "hector-delirium-hypoactif-journee-calme",
+      "title": "Une journée calme qui cache une confusion silencieuse",
+      "description": "Hector dort, ne boit pas, répond d’un mot. Julien croit à un mieux ; l’infirmière y voit un retrait à signaler au médecin.",
+      "context": "le sixième jour à l’hôpital",
+      "topics": [
+        "Delirium",
+        "forme hypoactive",
+        "retrait et somnolence"
+      ],
+      "clinical_intro": "Le delirium ne se présente pas toujours sous forme d’agitation. Il peut aussi prendre une forme dite hypoactive : la personne est somnolente, lente, retirée, elle mange et boit peu. Cette forme passe facilement inaperçue, car le calme rassure. Au sixième jour, Julien croit son oncle tiré d’affaire ; l’infirmière remarque ce qu’Hector ne fait plus et prévient le médecin.",
+      "opening": "Le sixième jour, après s’être excusé auprès de Sandrine, l’aide-soignante, à sept heures trente, Hector Ménard, 77 ans, charpentier retraité hospitalisé à Saumur pour une infection pulmonaire, se rendort. Il dort encore à midi et demi, quand Julien, son neveu, passe pendant sa pause du déjeuner. Le plateau est posé sur la tablette, à peine touché : deux cuillerées de purée, la compote fermée. La carafe d’eau est pleine.\n\nJulien s’assoit. Après les cris de la veille, ce silence lui fait du bien. Hector ouvre les yeux, le regarde longtemps, puis dit « oui » quand Julien lui demande s’il va bien. « Tu veux que je t’approche la photo de l’atelier ? » Un temps. « Non. » Il referme les yeux. Julien attribue cette lenteur à la fatigue des derniers jours. À treize heures, dans le couloir, il écrit à Anne, sa sœur, qui vit à Lyon : « Il est calme, il dort, il va beaucoup mieux. » Anne répond par un cœur.\n\nÀ dix-neuf heures, Julien revient, comme convenu. Hector est dans la même position. Nadia, l’infirmière de nuit, prend son service et lit les transmissions de la journée. Puis elle entre, regarde la carafe, toujours pleine, et la feuille où l’équipe note ce qu’il boit. Elle approche la photo de l’atelier, que Julien avait laissée sur la tablette. « Monsieur Ménard, c’est votre établi. » D’habitude, Hector commente la position du rabot. Ce soir, il ne tourne même pas la tête. Nadia lui demande s’il a soif ; la réponse tarde, et n’arrive pas.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Le calme n’est pas toujours un retour",
+          "text": "Le delirium peut prendre une forme hypoactive, faite de retrait, de somnolence, de réponses lentes, d’appétit réduit et de mouvements rares. Cette forme est souvent moins repérée qu’une agitation, parce qu’elle ne dérange personne et qu’elle ressemble à du repos. Pourtant, une personne calme peut rester confuse, et la détresse peut y être simplement moins visible. Ce qui compte, là encore, est la comparaison avec la personne habituelle et avec les jours précédents. Pour Julien, l’absence de cris ressemble à une guérison. Nadia, elle, regarde ce qu’Hector ne fait plus : boire, manger, s’intéresser à son établi. Elle ne pose pas de diagnostic à la place du médecin ; elle remarque un changement et le transmet."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment une forme hypoactive du delirium se remarque-t-elle ?",
+          "points": [
+            {
+              "heading": "La somnolence remplace la journée",
+              "text": "La personne peut dormir de longues heures et peiner à rester éveillée pendant une visite.",
+              "examples": [
+                "Hector dort de sept heures trente à midi et demi, puis referme les yeux pendant la visite de Julien.",
+                "À dix-neuf heures, il est encore dans la même position qu’à midi."
+              ]
+            },
+            {
+              "heading": "Les réponses se réduisent à un mot",
+              "text": "Les réponses peuvent devenir lentes, brèves, ou ne pas venir du tout.",
+              "examples": [
+                "Hector répond « oui » puis « non » après un long silence.",
+                "Il ne répond pas quand Nadia lui demande s’il a soif."
+              ]
+            },
+            {
+              "heading": "Ce qui intéressait ne compte plus",
+              "text": "Le retrait se voit souvent à ce que la personne cesse de faire ou de regarder.",
+              "examples": [
+                "Hector ne commente plus la photo de l’atelier et ne tourne pas la tête vers elle.",
+                "La carafe reste pleine et le plateau du déjeuner presque intact."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour ne pas confondre calme et amélioration",
+          "points": [
+            {
+              "heading": "Comparer avec l’intérêt habituel",
+              "objective": "Situer le calme par rapport à la personne qu’on connaît.",
+              "exercise": [
+                "Se rappeler ce qui l’intéresse d’ordinaire, un objet, un sujet, une personne.",
+                "Lui proposer cet objet ou ce sujet une fois, sans insister.",
+                "Noter s’il réagit comme d’habitude, moins, ou pas du tout."
+              ],
+              "benefit": "Le proche dispose d’un repère concret à transmettre, sans interpréter seul."
+            },
+            {
+              "heading": "Signaler ce qu’il ne fait plus",
+              "objective": "Rendre visible ce qui manque autant que ce qui inquiète.",
+              "exercise": [
+                "Regarder ce qui a été bu et mangé depuis la dernière visite.",
+                "Dire à l’infirmière ce que la personne ne fait plus : répondre, boire, regarder.",
+                "Préciser depuis quand, avec les heures si possible."
+              ],
+              "benefit": "L’équipe peut repérer un retrait qui serait passé pour du repos."
+            },
+            {
+              "heading": "Ne pas conclure sur un seul moment",
+              "objective": "Éviter d’annoncer un mieux ou une aggravation trop tôt.",
+              "exercise": [
+                "Attendre l’avis de l’équipe avant d’envoyer des nouvelles à la famille.",
+                "Écrire plutôt ce qu’on a vu que ce qu’on en déduit.",
+                "Corriger un message déjà envoyé si l’information change."
+              ],
+              "benefit": "La famille reçoit des nouvelles plus justes, et le proche s’épargne des montagnes russes."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Le message corrigé à Anne",
+      "ending": "Nadia appelle la docteure Roussel, médecin du service, encore dans son bureau pour finir ses courriers. Elle lui dit au téléphone : « Il n’a presque rien bu depuis ce matin, il répond d’un mot, il ne regarde plus sa photo. Ce n’est pas lui. » La docteure vient à dix-neuf heures trente. Elle examine Hector, lui parle lentement, demande à Julien comment il l’a trouvé à midi. Julien lit son carnet. Elle explique qu’un delirium peut aussi se présenter ainsi, endormi et silencieux, et que ce calme ne veut pas dire que l’épisode est fini. Elle fait faire une nouvelle prise de sang dans la soirée, revoit ses traitements avec Nadia et demande que l’équipe lui propose à boire à chaque passage, en notant chaque verre. Elle repassera demain matin. Dans le couloir, Julien relit son message de treize heures. Il écrit à Anne : « Je me suis trompé. Il est calme mais pas mieux. Le médecin l’a revu ce soir. » Dans le carnet, il ajoute : douze heures trente, dort, carafe pleine, répond oui, non ; dix-neuf heures, ne regarde pas la photo ; dix-neuf heures trente, vu par la docteure Roussel. À vingt et une heures, Hector a bu un demi-verre avec Nadia. Il ne parle toujours pas.",
+      "conclusion": "Un delirium peut être calme, somnolent et silencieux ; ce retrait se repère à ce que la personne cesse de faire, plus qu’à ce qu’elle montre. Julien apprend que l’absence d’agitation ne signifie pas un retour, et corrige ce qu’il avait annoncé.",
+      "mirror": [
+        "Julien avait envoyé « il va beaucoup mieux » après une visite silencieuse. Un proche peut, avant de rassurer la famille, regarder la carafe et l’intérêt de la personne pour ce qu’elle aime, puis dire à l’infirmière : « Il ne boit pas et ne regarde plus sa photo. Ce n’est pas lui. » Il peut aussi corriger un message trop optimiste sans s’en vouloir. Il n’a pas à décider si c’est grave ; il décrit, et l’équipe évalue."
+      ],
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "nice-cg103",
+        "sign-157"
+      ],
+      "continuity": {
+        "choice": "Nadia prévient la docteure Roussel, qui réexamine Hector, fait refaire une prise de sang, revoit ses traitements et fait proposer à boire à chaque passage ; Julien corrige son message à Anne et complète le carnet.",
+        "next": "Dans les jours suivants, l’amélioration permettra de préparer la sortie au neuvième jour, sans que tout soit revenu."
+      },
+      "clinical_focus": "Une journée calme qui n’est pas forcément un mieux",
+      "diagnostic_stage": "known"
     }
   ]
 }
