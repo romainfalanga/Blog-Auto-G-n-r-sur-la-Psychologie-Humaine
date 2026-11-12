@@ -1,0 +1,207 @@
+{
+ "schema_version": 1,
+ "character_id": "farid",
+ "code": "6D82",
+ "article_format": 2,
+ "bio": "Farid, 74 ans, ancien réparateur de radios, trie ses douze derniers postes avec son fils Anis dans l’atelier de sa maison. Sa démence due à une maladie à corps de Lewy est déjà diagnostiquée : son attention varie d’une heure à l’autre, l’espace le trompe parfois et il voit certains soirs ce que les autres ne voient pas. Il veut donner ses radios à un musée associatif qui les montrera sans toutes les modifier. Avec sa neurologue et une équipe de soutien au domicile, il garde ses choix et le droit de ne pas tout raconter.",
+ "profile_topics": [
+  "Démence due à une maladie à corps de Lewy",
+  "Fluctuations de l’attention et de la vigilance",
+  "Hallucinations visuelles accueillies sans confrontation",
+  "Partager ce qu’on a observé avec l’accord de la personne",
+  "Soutien prévisible et projet de don"
+ ],
+ "voice": "Une parole précise et pince-sans-rire, nourrie des mots du métier : laisser chauffer les lampes, ne pas toucher à ce qui marche, lire l’aiguille et pas l’étiquette. Ces images sont celles de Farid, jamais une explication du trouble. Il raconte volontiers l’histoire de chaque poste, se tait sur ses nuits quand il le décide et préfère une question à la fois.",
+ "series_goal": "Donner les douze postes au musée associatif Les Lampes du Faubourg selon une convention qui expose neuf postes en l’état et en fait remettre trois en marche d’après ses notes, tout en construisant un soutien prévisible malgré les fluctuations et en apprenant à Anis à décrire ce qu’il voit, avec l’accord de son père.",
+ "continuity_rules": [
+  "Diagnostic établi avant la série : known aux douze épisodes. Farid a 74 ans, ancien réparateur de radios, vit seul à Villeurbanne ; démence considérée comme légère par l’équipe au début. Aucun stade, aucune vitesse d’évolution et aucun diagnostic supplémentaire ne sont déduits d’une scène.",
+  "Objets : douze postes étiquetés sur carton, dont le poste à cadran vert de 1953, la radio de bakélite crème et le petit transistor rouge ; la bande de carton centrale de l’étagère (2) ; le cahier à trois colonnes ouvert en 5 (fait observé, heure, ce que Farid accepte de transmettre) ; la carte avec diagnostic et contact de la neurologue (9). Le fer à souder n’est plus utilisé par Farid à partir de 7.",
+  "Personnes : Anis, fils, professeur de technologie, a sa propre vie et vient le mardi soir à partir de 11 ; docteure Tissier, neurologue ; Hugo Lambert, ergothérapeute, et Mme Diallo, assistante de soins en gérontologie, équipe de soutien au domicile du jeudi matin ; Gilles Perrot, président du musée ; Maryse, technicienne bénévole. Aucun proche ne joue au diagnosticien ni ne modifie un traitement.",
+  "Chronologie : consultation dix jours après 5, en 6 ; maîtrise du fer confiée à Maryse en 7 ; chute du jeudi en 8 avec appel au 15 par Mme Diallo ; urgences puis retour le lendemain en 9 ; lettre à Gilles écrite en 10 ; plan d’aide en 11 ; présentation et convention en 12, un mardi matin. La décision sur les modifications reste ouverte de 3 à 10.",
+  "Hallucinations et convictions : jamais confrontées ni confirmées ; l’enfant de 4 est calme et décrit sobrement ; la conviction de 10 est distinguée de la vraie question du don. Farid garde le droit de ne pas raconter une expérience de la veille ; Anis transmet seulement ce que son père autorise, sauf danger.",
+  "Aucun nom de médicament, aucune dose, aucun arrêt ou ajout ; la sensibilité aux médicaments est seulement transmise aux équipes, qui décident. La chute n’est pas expliquée par le diagnostic. Les aménagements sont des arrangements d’organisation, sans efficacité thérapeutique revendiquée.",
+  "Fin : neuf postes en l’état, trois remis en marche par Maryse selon les notes de Farid ; souhaits écrits et révisables confiés à Anis et à la docteure Tissier ; le trouble continue d’évoluer et Farid choisit ce qu’il partage."
+ ],
+ "episodes": [
+  {
+   "number": 1,
+   "focus": "Fluctuations de la vigilance au cours d’une même journée",
+   "scene": "Dans l’atelier de Villeurbanne, Farid commence le tri avec Anis à neuf heures. Il raconte sans hésiter l’histoire des trois premiers postes et dicte leurs étiquettes. L’après-midi, devant le transistor rouge, il fixe l’établi, répond à côté et laisse une phrase en suspens. Anis, déconcerté, lui rappelle qu’il savait tout le matin.",
+   "development": "Fluctuations spontanées de l’attention et de l’éveil, typiques de cette démence et distinctes d’un manque d’effort ou d’un oubli isolé. L’explication part de la variabilité d’un moment à l’autre, puis revient au contraste du matin et de l’après-midi. Trois appuis : repérer les moments plus favorables avec Farid ; raccourcir la tâche quand l’attention baisse sans l’annuler ; noter les faits observables pour le suivi. Aucune échelle d’évaluation remise à l’entourage.",
+   "ending": "Farid décide de réserver l’étiquetage aux matinées et de laisser le transistor rouge pour le lendemain. Anis cesse de comparer les deux moments à voix haute et note seulement l’heure du changement.",
+   "next": "Le lendemain matin, préparer le poste à cadran vert pour la visite de Gilles mettra en jeu une autre difficulté que la mémoire.",
+   "source_refs": [
+    "oms-cddr",
+    "oms-cddr-hrb",
+    "mckeith-2017",
+    "has-fiche2-apparentees"
+   ],
+   "diagnostic_stage": "known"
+  },
+  {
+   "number": 2,
+   "focus": "Évaluer les distances et l’alignement d’un cadran",
+   "scene": "Farid veut que le poste à cadran vert soit présentable pour la visite de Gilles Perrot. Il se souvient du nom de chaque station gravée, mais l’aiguille qu’il croit centrée reste décalée, et il pose deux fois le poste au bord de l’étagère plutôt qu’au milieu. Il s’agace contre ses mains, alors que c’est l’évaluation de l’espace qui le trompe.",
+   "development": "Les capacités visuospatiales et visuoperceptives sont souvent plus touchées que la mémoire dans cette démence, à la différence de la maladie d’Alzheimer. Trois appuis : séparer ce qu’il sait de ce qu’il voit ; utiliser un repère tactile ou un gabarit choisi par lui ; demander une vérification visuelle sans reprendre la tâche. Aucun test cognitif proposé à domicile.",
+   "ending": "Farid colle une bande de carton au centre de l’étagère et demande à Anis de lui lire seulement la position de l’aiguille. Il garde le réglage final pour lui.",
+   "next": "La visite de Gilles demandera de suivre une discussion et une manipulation en même temps.",
+   "source_refs": [
+    "oms-cddr",
+    "oms-cddr-hrb",
+    "mckeith-2017",
+    "has-fiche13-comportement"
+   ],
+   "diagnostic_stage": "known"
+  },
+  {
+   "number": 3,
+   "focus": "Attention partagée entre deux demandes simultanées",
+   "scene": "Gilles Perrot visite l’atelier et parle de vitrines, de restauration et de dates tout en ouvrant le dos d’un poste. Farid répond à une question, perd la suivante, puis ne sait plus s’il a accepté que tous les postes soient remis en marche. Il sent qu’il pourrait dire oui sans l’avoir décidé.",
+   "development": "Attention divisée et fonctions exécutives : suivre deux demandes, passer de l’une à l’autre, garder une décision en cours. La difficulté dépend de la charge du moment, pas de l’intérêt de Farid pour son projet. Trois appuis : une question à la fois ; poser l’objet avant de discuter ; reporter une décision importante par écrit. Communication adaptée selon la HAS, sans parler à sa place.",
+   "ending": "Farid demande à Gilles de refermer le poste et d’écrire ses propositions. Il ne signe rien ce jour-là et annonce qu’il répondra par lettre sur les postes à modifier.",
+   "next": "Le soir, seul dans l’atelier, Farid verra quelqu’un que personne d’autre ne voit.",
+   "source_refs": [
+    "oms-cddr",
+    "oms-cddr-hrb",
+    "mckeith-2017",
+    "has-fiche14-communiquer"
+   ],
+   "diagnostic_stage": "known"
+  },
+  {
+   "number": 4,
+   "focus": "Hallucinations visuelles bien formées dans l’atelier",
+   "scene": "Le soir, Farid range les étiquettes et voit un enfant assis sur l’établi, calme, les jambes pendantes. Anis appelle au même moment pour l’horaire du jeudi. Farid lui dit qu’il y a un petit garçon chez lui ; Anis s’apprête à lui répondre qu’il n’y a personne, puis s’arrête.",
+   "development": "Hallucinations visuelles récurrentes, souvent bien formées, que la personne peut parfois rapporter avec un recul et une émotion variables. Ni la confrontation ni la confirmation n’aident ; accueillir la détresse et vérifier la sécurité immédiate le peuvent. Trois appuis : demander comment il se sent ; proposer un geste rassurant choisi par lui, comme allumer la lampe du plafond ; signaler les expériences à la neurologue avec son accord. Aucun récit effrayant, aucun traitement suggéré.",
+   "ending": "Anis demande seulement si son père est inquiet ; Farid répond que non, qu’il est fatigué. Il allume la grande lampe, ferme l’atelier et monte se coucher. Anis note l’heure sans rien ajouter.",
+   "next": "Le lendemain, Farid refusera d’en parler, et Anis devra savoir ce qu’il peut transmettre à la docteure Tissier.",
+   "source_refs": [
+    "oms-cddr",
+    "oms-cddr-hrb",
+    "mckeith-2017",
+    "nice-ng97"
+   ],
+   "diagnostic_stage": "known"
+  },
+  {
+   "number": 5,
+   "focus": "Choisir ce qui est confié au neurologue",
+   "scene": "Au petit-déjeuner, Anis revient sur l’enfant de la veille. Farid pose sa tasse : il ne veut pas en parler, ni maintenant ni avec lui. Anis, inquiet, craint de devoir cacher quelque chose à la neurologue. Ils sont tous les deux attachés à la même consultation, prévue dans dix jours.",
+   "development": "Consentement au partage d’informations et droit de garder son récit : la personne indique ce qui peut être transmis, à qui, et par quelle voie. Le proche peut décrire un fait observable sans raconter l’expérience à la place de la personne. Trois appuis : séparer fait, heure et récit ; demander l’accord pour chaque destinataire ; laisser la personne s’exprimer elle-même en consultation. Aucun secret imposé si un danger apparaît.",
+   "ending": "Ils ouvrent un cahier à trois colonnes : ce qu’Anis a vu, quand, et ce que Farid accepte qu’on dise. Farid autorise une phrase : il a vu quelqu’un le soir et n’était pas effrayé. Il racontera le reste s’il le souhaite.",
+   "next": "La nuit précédant la consultation, Anis dormira chez son père et observera autre chose.",
+   "source_refs": [
+    "oms-cddr",
+    "oms-cddr-hrb",
+    "nice-ng97",
+    "has-fiche14-communiquer"
+   ],
+   "diagnostic_stage": "known"
+  },
+  {
+   "number": 6,
+   "focus": "Rêves agis pendant le sommeil paradoxal",
+   "scene": "Anis dort dans la chambre d’amis pour conduire son père tôt à la consultation. Vers trois heures, il entend Farid parler fort et cogner la table de chevet ; la lampe est tombée. Réveillé, Farid se souvient d’un rêve où il retenait un poste qui glissait. Il dit que ses nuits sont agitées depuis des années.",
+   "development": "Comportement en sommeil paradoxal : des mouvements qui accompagnent le contenu d’un rêve, souvent présents bien avant les autres signes. D’autres causes peuvent lui ressembler et l’évaluation appartient aux soignants. Trois appuis : décrire ce qui a été vu et entendu ; discuter avec l’équipe de la sécurité de la chambre ; demander s’il faut un avis spécialisé du sommeil. Aucun médicament ni réveil brusque conseillé.",
+   "ending": "Le matin, avec l’accord de Farid, Anis lit la ligne du cahier sur la nuit. La docteure Tissier pose des questions sur la somnolence et le sommeil et propose une évaluation spécialisée. Farid accepte de déplacer la table de chevet.",
+   "next": "De retour à l’atelier, c’est le geste lui-même qui deviendra plus lent.",
+   "source_refs": [
+    "oms-cddr",
+    "oms-cddr-hrb",
+    "mckeith-2017",
+    "nice-ng97"
+   ],
+   "diagnostic_stage": "known"
+  },
+  {
+   "number": 7,
+   "focus": "Lenteur des gestes et tremblement de repos",
+   "scene": "Farid veut resserrer le cadran de la radio de bakélite crème. Le tournevis tremble quand sa main repose sur l’établi, et chaque vis lui prend longtemps. Il pense au fer à souder posé à côté et hésite à le brancher, comme il l’a fait des milliers de fois.",
+   "development": "Signes parkinsoniens possibles dans cette démence : lenteur, tremblement de repos ou raideur, qui changent le geste sans effacer le savoir-faire. Ne pas confondre avec une douleur articulaire, à signaler aussi. Trois appuis : décomposer le geste et décider de ce qu’il garde ; demander un avis d’ergothérapie sur le poste de travail ; confier le geste à risque en dirigeant l’opération. Aucune consigne technique dangereuse.",
+   "ending": "Farid débranche le fer et écrit à Maryse, technicienne du musée : il dictera les réglages, elle tiendra le fer. Il garde les vis et les étiquettes. Hugo Lambert viendra regarder l’établi jeudi.",
+   "next": "Le jeudi suivant, une chute pendant la visite de Mme Diallo exigera une réponse urgente.",
+   "source_refs": [
+    "oms-cddr",
+    "oms-cddr-hrb",
+    "mckeith-2017",
+    "nice-ng97"
+   ],
+   "diagnostic_stage": "known"
+  },
+  {
+   "number": 8,
+   "focus": "Une chute soudaine demande un avis urgent",
+   "scene": "Jeudi matin, Farid se lève vite pour attraper le transistor rouge sur l’étagère haute. Il chancelle, tombe, et ne répond pas pendant quelques secondes. Mme Diallo, de l’équipe de soutien, est là. Quand il revient à lui, il dit que ce n’est rien et veut terminer l’étiquette.",
+   "development": "Chutes répétées et malaises font partie des signes possibles, mais une chute avec absence de réponse appelle une évaluation médicale de sa cause, sans la déduire du diagnostic connu. Une confusion aiguë peut aussi survenir et se distinguer de la démence. Trois appuis : appeler le 15 et suivre les consignes ; transmettre le dernier état habituel et l’heure ; reporter les engagements ordinaires. Aucun diagnostic posé dans la scène.",
+   "ending": "Mme Diallo appelle le 15 sans attendre, reste près de Farid et suit les consignes. Elle prévient Anis. Farid est conduit aux urgences ; l’étiquette attend sur l’établi.",
+   "next": "À l’hôpital, Anis devra transmettre le diagnostic et le contact de la neurologue avant que les équipes décident.",
+   "source_refs": [
+    "oms-cddr",
+    "oms-cddr-hrb",
+    "service-public-15",
+    "mckeith-2017"
+   ],
+   "diagnostic_stage": "known"
+  },
+  {
+   "number": 9,
+   "focus": "Signaler le diagnostic à chaque équipe soignante",
+   "scene": "Aux urgences, un soignant demande à Anis quels traitements prend son père et ce qu’on sait de sa maladie. Anis sort la carte rédigée avec la docteure Tissier. Farid, fatigué mais éveillé, dit qu’il ne veut pas qu’on change quoi que ce soit sans que sa neurologue le sache.",
+   "development": "Sensibilité particulière à certains médicaments dans cette démence : certaines prescriptions peuvent aggraver les signes moteurs ou la confusion. Le choix revient aux soignants informés, jamais aux proches. Trois appuis : présenter la carte avec le diagnostic et le contact du neurologue ; signaler la liste à jour des traitements ; poser ses questions au prescripteur sans rien arrêter ni ajouter seul. Aucun nom de médicament ni dose.",
+   "ending": "L’équipe contacte le service de la docteure Tissier et poursuit ses examens. Farid rentre chez lui le lendemain avec un rendez-vous de suivi et une évaluation des chutes prévue. Anis range la carte dans son portefeuille et en laisse une copie dans l’atelier.",
+   "next": "Quelques jours après le retour, Farid sera persuadé que quelqu’un a touché à ses postes pendant son absence.",
+   "source_refs": [
+    "oms-cddr",
+    "oms-cddr-hrb",
+    "nice-ng97",
+    "has-fiche2-apparentees"
+   ],
+   "diagnostic_stage": "known"
+  },
+  {
+   "number": 10,
+   "focus": "Une conviction sans fondement distincte d’une vraie inquiétude",
+   "scene": "Revenu à l’atelier, Farid affirme que quelqu’un est entré pendant son hospitalisation et a changé les lampes de trois postes. Il en veut à Gilles. Anis sait que l’atelier est resté fermé, mais il sait aussi que la lettre sur les modifications n’a toujours pas été envoyée.",
+   "development": "Idées délirantes possibles dans cette démence : une conviction sans fondement qui peut s’accompagner de détresse, à distinguer d’une crainte réelle liée à la situation. Trois appuis : accueillir l’émotion sans confirmer ni contester ; vérifier ensemble ce qui est vérifiable, avec son accord ; signaler une conviction persistante ou pénible à la neurologue. Traiter séparément la vraie question du don.",
+   "ending": "Avec l’accord de Farid, ils comparent les étiquettes aux postes un par un. Farid reste méfiant, mais ils écrivent ensemble la lettre à Gilles : neuf postes en l’état, trois remis en marche par Maryse selon ses notes. Anis ajoute une ligne au cahier pour la consultation.",
+   "next": "Pour la suite, l’équipe de soutien devra organiser des visites qui tiennent compte des jours où l’attention varie.",
+   "source_refs": [
+    "oms-cddr",
+    "oms-cddr-hrb",
+    "mckeith-2017",
+    "nice-ng97"
+   ],
+   "diagnostic_stage": "known"
+  },
+  {
+   "number": 11,
+   "focus": "Un soutien prévisible quand l’attention varie",
+   "scene": "Jeudi, Hugo Lambert et Mme Diallo arrivent pour reprendre le plan d’aide. Farid est somnolent et ne veut pas d’un rendez-vous déplacé encore une fois. Anis, qui ne peut pas venir tous les soirs, voudrait savoir sur quoi compter et ce qui reste à sa charge.",
+   "development": "Soutien régulier et coordonné adapté aux fluctuations : garder le même cadre, prévoir une version courte des tâches les jours moins favorables, réévaluer les objectifs selon les préférences de la personne. Trois appuis : fixer des horaires stables avec un plan bref ; organiser l’atelier selon l’évaluation d’ergothérapie ; préciser le rôle de chaque proche et ses limites. Aucun aménagement présenté comme un traitement.",
+   "ending": "La visite a lieu dans sa version courte : Hugo valide l’étagère abaissée et un éclairage plus régulier, Mme Diallo garde le jeudi matin. Anis vient le mardi soir seulement. Farid accepte que la présentation au musée soit placée un matin.",
+   "next": "La remise des postes au musée permettra de tenir la décision de don, en sachant que la maladie continuera d’évoluer.",
+   "source_refs": [
+    "oms-cddr",
+    "oms-cddr-hrb",
+    "has-fiche13-comportement",
+    "nice-ng97"
+   ],
+   "diagnostic_stage": "known"
+  },
+  {
+   "number": 12,
+   "focus": "Anticiper l’évolution en gardant ses choix",
+   "scene": "Un mardi matin, au musée Les Lampes du Faubourg, les douze postes arrivent sur des tables. Neuf restent tels quels, trois ont été remis en marche par Maryse selon les notes de Farid. Farid présente le poste à cadran vert en quelques phrases, puis s’assoit quand l’attention baisse. Gilles lui demande s’il reviendra.",
+   "development": "Évolution progressive de la démence et souhaits anticipés : parler tôt de ses préférences pour la suite, les écrire et pouvoir les réviser, sans prédire un rythme d’évolution. Trois appuis : nommer ce qui compte pour lui ; désigner avec qui partager ces souhaits ; prévoir une date pour les revoir. Aucune promesse que les aménagements ralentissent la maladie.",
+   "ending": "La convention est signée : neuf postes en l’état, trois en marche. De retour chez lui, Farid rédige avec Mme Diallo une page de souhaits pour la suite et la confie à Anis et à la docteure Tissier. Il dit à Gilles qu’il reviendra un matin, s’il en a envie, et qu’il ne racontera pas forcément ses nuits.",
+   "next": "Le don est accompli ; la suite reste ouverte, avec un soutien régulier, des souhaits écrits et révisables, et le droit de Farid de choisir ce qu’il partage.",
+   "source_refs": [
+    "oms-cddr",
+    "oms-cddr-hrb",
+    "nice-ng97",
+    "has-fiche13-comportement"
+   ],
+   "diagnostic_stage": "known"
+  }
+ ]
+}
