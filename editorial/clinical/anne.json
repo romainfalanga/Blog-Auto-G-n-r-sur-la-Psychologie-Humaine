@@ -848,6 +848,111 @@
       },
       "clinical_focus": "Achats impulsifs et risques mal perçus",
       "diagnostic_stage": "known"
+    },
+    {
+      "number": 9,
+      "slug": "anne-cause-genetique-decisions-distinctes-consultation",
+      "title": "Une cause parfois génétique et deux décisions distinctes",
+      "description": "Au centre mémoire, Anne venait parler d’argent ; sa fille demande si la maladie se transmet. La neurologue sépare les deux questions et les deux décisions.",
+      "context": "une consultation au centre mémoire d’Angers",
+      "topics": [
+        "cause génétique possible",
+        "décision personnelle",
+        "consultation de génétique"
+      ],
+      "clinical_intro": "La démence frontotemporale a une cause génétique chez certaines personnes, ce qui peut conduire l’équipe à proposer une consultation spécialisée. La décision de la personne malade et celle de ses enfants restent distinctes et se prennent avec des professionnels de génétique. Chez Anne, la question surgit à la fin d’une consultation où elle était venue parler d’autre chose.",
+      "opening": "Le jeudi de janvier prévu de longue date, à neuf heures et demie, Anne et Clémence s’assoient dans le bureau de la docteure Claire Kervella, la neurologue qui suit Anne au centre mémoire d’Angers depuis le diagnostic. Clémence, sa fille, a pris sa matinée. Sur les genoux d’Anne, une chemise cartonnée qu’elle a préparée elle-même, avec des intercalaires : « platines », « madeleines », « mercredi de Solange ».\n\nC’est Anne qui parle. Elle raconte les cinq cartons, les quatre renvoyés dans le délai, le remboursement arrivé la semaine dernière. Elle dit qu’elle finit les paquets de madeleines, que sa fille l’a noté et qu’elle est d’accord pour qu’on en parle. Elle lit la phrase de Clémence sur le mercredi où Solange, son amie qui vient écouter les cassettes chaque semaine, est arrivée en pleurs : « Maman a parlé des jaquettes et n’a pas demandé de nouvelles de Michel. » Elle ajoute : « Je ne m’en suis pas rendu compte. » La docteure Kervella pose des questions précises : depuis quand, à quelle heure, le sommeil, une douleur, un changement de traitement. Elle note, sans commenter.\n\nPuis Anne referme la chemise. « Et pour l’argent, je voulais savoir ce que je dois prévoir. Je refuse qu’on me retire mes comptes. » La neurologue répond qu’on en reparlera, que rien ne se décidera sans elle.\n\nC’est au moment de se lever que Clémence parle, très vite, comme on saute dans l’eau froide. « Est-ce que ça se transmet ? Est-ce que je dois faire un test, moi ? »\n\nAnne se raidit sur sa chaise. Elle regarde sa fille comme si elle venait de lire à voix haute une page de son agenda. « Je suis venue pour mon argent, Clémence. Pas pour ton avenir. » Le silence dure. La docteure Kervella se rassoit, pose son stylo, et dit : « Je vais répondre aux deux. L’une après l’autre. »",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Une cause génétique chez certaines personnes, deux décisions séparées",
+          "text": "La démence frontotemporale a une cause génétique chez certaines personnes, et l’équipe peut alors évoquer une consultation de génétique. Cette possibilité ne signifie pas qu’une cause génétique est présente chez Anne, et la consultation ne se décide pas dans l’urgence. Surtout, la question concerne deux personnes différentes : Anne peut choisir d’explorer ou non cette piste pour elle-même, et Clémence peut, de son côté, demander à rencontrer des professionnels de génétique pour réfléchir à sa propre situation. Ces deux décisions sont distinctes, se prennent sans pression familiale et avec des spécialistes. Dans le bureau, la question de Clémence arrive au moment où Anne défend son autonomie financière ; son raidissement vient aussi de là : le sujet de sa fille semble effacer le sien."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment la question génétique se glisse-t-elle dans une famille ?",
+          "points": [
+            {
+              "heading": "Une question longtemps retenue",
+              "text": "Un enfant peut garder longtemps la question de la transmission avant de la poser, souvent à un moment inattendu.",
+              "examples": [
+                "Clémence parle au moment de se lever, très vite.",
+                "Elle n’avait pas prévenu sa mère qu’elle voulait aborder ce sujet."
+              ]
+            },
+            {
+              "heading": "Deux sujets qui se télescopent",
+              "text": "Dans une même consultation, la question d’un proche peut recouvrir celle que la personne malade était venue poser.",
+              "examples": [
+                "Anne était venue parler de son argent et de son autonomie.",
+                "Elle dit « Je suis venue pour mon argent, pas pour ton avenir »."
+              ]
+            },
+            {
+              "heading": "Le besoin d’une réponse séparée",
+              "text": "Chaque personne a besoin que sa question soit traitée pour elle-même, avec son propre temps.",
+              "examples": [
+                "La neurologue annonce qu’elle répondra aux deux, l’une après l’autre.",
+                "Anne demande du temps, quand Clémence veut agir tout de suite."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour aborder la question génétique sans pression",
+          "points": [
+            {
+              "heading": "Séparer les sujets d’une consultation",
+              "objective": "Laisser à chaque question son temps et son destinataire.",
+              "exercise": [
+                "Lister avant le rendez-vous les questions de chacun.",
+                "Convenir de l’ordre avec la personne malade.",
+                "Garder une question à part pour un autre rendez-vous si elle déborde."
+              ],
+              "benefit": "Anne peut traiter ce qu’elle était venue dire, et Clémence obtenir une réponse sans la prendre de court."
+            },
+            {
+              "heading": "Laisser à chacun le temps de décider",
+              "objective": "Éviter qu’une décision personnelle devienne une obligation familiale.",
+              "exercise": [
+                "Dire clairement : « Ta décision ne dépend pas de la mienne ».",
+                "Ne fixer aucune échéance à l’autre.",
+                "Rapporter les choix aux professionnels de génétique, pas au repas de famille."
+              ],
+              "benefit": "Chaque décision reste libre et peut être reprise plus tard."
+            },
+            {
+              "heading": "Préparer ses questions par écrit",
+              "objective": "Arriver à la consultation spécialisée avec ce qui compte pour soi.",
+              "exercise": [
+                "Noter ses questions sans chercher les réponses sur internet.",
+                "Indiquer ce que l’on souhaite savoir et ce que l’on ne souhaite pas savoir.",
+                "Apporter cette feuille au professionnel de génétique."
+              ],
+              "benefit": "L’échange part des besoins de la personne, sans chiffres trouvés au hasard."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Deux rendez-vous, pas un seul",
+      "ending": "La docteure Kervella répond d’abord à Anne : on parlera au prochain rendez-vous des façons de préparer la suite pour ses affaires, avec elle, sans rien lui retirer. Puis à Clémence : la maladie a une cause génétique chez certaines personnes ; une consultation de génétique existe pour en parler, pour Anne si elle le souhaite, et pour Clémence de son côté. Anne demande du temps. « Je vous répondrai pour moi plus tard. » La neurologue l’écrit dans le dossier. Elle donne à Clémence les coordonnées de la consultation de génétique du CHU. Dans le parking, Clémence dit qu’elle appellera, mais que ce n’est pas une condition pour sa mère. Anne ne répond pas. Le lendemain, Clémence prend rendez-vous pour mars. La neurologue a noté les madeleines, les platines et le mercredi de Solange, et propose à Anne de voir une orthophoniste libérale, Delphine Arnoux.",
+      "conclusion": "Cet épisode montre qu’une cause génétique peut exister chez certaines personnes atteintes de démence frontotemporale, et que la décision de la personne et celle de ses enfants sont séparées. Anne garde son temps ; Clémence avance de son côté, avec des professionnels.",
+      "mirror": [
+        "Quand Clémence pose sa question en se levant, elle peut ajouter : « Ce que je déciderai ne dépend pas de toi. » Un enfant a le droit de s’informer pour lui-même auprès de professionnels de génétique, sans demander à son parent de faire un examen. Il peut aussi choisir un autre moment que la consultation de sa mère, pour que la question d’Anne, ce jour-là, ne soit pas recouverte par la sienne."
+      ],
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "nice-ng97",
+        "has-fiche2-apparentees"
+      ],
+      "continuity": {
+        "choice": "Anne demande du temps avant de décider d’une consultation de génétique pour elle-même ; Clémence prend de son côté rendez-vous en mars à la consultation de génétique du CHU, sans en faire une condition ; la neurologue note les changements et propose l’orthophoniste Delphine Arnoux ; les mesures pour l’argent seront préparées au prochain rendez-vous.",
+        "next": "Delphine Arnoux, orthophoniste, viendra un mercredi assister à l’écoute avec Solange."
+      },
+      "clinical_focus": "Une cause parfois génétique : la question de Clémence",
+      "diagnostic_stage": "known"
     }
   ]
 }

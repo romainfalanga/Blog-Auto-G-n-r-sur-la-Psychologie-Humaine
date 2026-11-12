@@ -856,6 +856,112 @@
       },
       "number": 8,
       "diagnostic_stage": "known"
+    },
+    {
+      "slug": "oumar-equilibre-instable-adapter-postures-jardin",
+      "title": "Un équilibre instable oblige à revoir ses postures au jardin",
+      "description": "En se relevant près du banc, Oumar vacille et se rattrape à Odette. Il a toujours jardiné à genoux ; il faudra pourtant travailler autrement.",
+      "context": "un après-midi d’août devant l’abri",
+      "topics": [
+        "instabilité de la marche",
+        "risque de chute",
+        "travail assis"
+      ],
+      "clinical_focus": "Équilibre instable au jardin : adapter les postures",
+      "clinical_intro": "Chez certaines personnes, les troubles cognitifs liés à l’alcool s’accompagnent d’une instabilité de la marche, qui augmente le risque de chute. Cette instabilité relève de l’évaluation de l’équipe de soin, pas d’un jugement sur l’âge ou la prudence. Pour Oumar, qui a toujours jardiné à genoux, elle oblige à repenser des gestes qu’il croyait aller de soi.",
+      "opening": "Les trois lattes de chêne sont arrivées de Bouaye à la mi-juillet, une semaine après le bilan. Elles sentent encore la scie. Oumar les a tracées avec le gabarit en carton pendant qu’Odette Bréhier, sa voisine de bac, lisait le mètre à voix haute, puis il les a percées une à une. Aucune n’est tombée à côté. Ce premier mardi d’août, il ne reste qu’à les visser sur la fonte, à côté des quatre lattes d’origine.\n\nLe banc est posé à même le sol devant l’abri. Pour atteindre les vis de dessous, Oumar s’agenouille sur un vieux sac de toile, comme il l’a fait pendant vingt ans dans sa parcelle de la Crapaudine. Il visse la première latte, puis la deuxième. Ses genoux protestent, mais c’est surtout le moment de se relever qui le surprend. Il s’agrippe au dossier du banc, pousse sur ses jambes, et le sol semble pencher. Il vacille vers la gauche, lâche le tournevis, et se rattrape à l’épaule d’Odette, qui tenait la troisième latte.\n\nElle tient bon, de justesse. Ils restent une seconde ainsi, elle crispée, lui le souffle court. Puis Odette dit, sans reproche : « La semaine dernière, tu as déjà failli tomber en enjambant le tuyau d’arrosage. Je l’ai vu. » Oumar s’en souvient vaguement : le tuyau vert déroulé en travers de l’allée, son pied qui accroche, la main sur le bord du bac.\n\nIl hausse les épaules. Il a toujours jardiné à genoux ; ce n’est pas à soixante-trois ans qu’il va apprendre à planter debout. Il ramasse le tournevis, se penche pour reprendre la troisième latte. Odette ne la lâche pas. « Assieds-toi d’abord, s’il te plaît. » Il obéit, plus vexé qu’il ne veut le montrer.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Quand l’équilibre devient un sujet de soin",
+          "text": "Certaines personnes qui ont des troubles cognitifs liés à l’alcool présentent aussi des signes neurologiques, comme une instabilité de la marche, et cette instabilité augmente le risque de chute. Dans une démence, la prévention des chutes suit une évaluation dédiée, avec le soutien supplémentaire dont la personne peut avoir besoin, et l’ergothérapie peut aider à adapter les gestes du quotidien. Chez Oumar, l’équipe avait déjà noté cette instabilité lors de son suivi. Ce qui change cet été, c’est qu’elle se montre dans son geste le plus familier : se relever après avoir travaillé à genoux. Le tuyau enjambé la semaine précédente et le vacillement près du banc ne sont pas des maladresses à cacher. Ce sont des faits à rapporter à l’équipe, qui jugera de ce qu’il faut évaluer. Ils ne permettent à personne autour de lui d’en tirer une conclusion médicale."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment l’instabilité se manifeste-t-elle dans les gestes du jardin ?",
+          "points": [
+            {
+              "heading": "Le relevé devient le moment fragile",
+              "text": "Passer de la position à genoux à la position debout demande de l’équilibre et de la force en même temps.",
+              "examples": [
+                "Oumar s’agrippe au dossier du banc et sent le sol pencher.",
+                "Il vacille vers la gauche et se rattrape à l’épaule d’Odette."
+              ]
+            },
+            {
+              "heading": "Les obstacles bas deviennent des pièges",
+              "text": "Un objet au sol, facile à enjamber autrefois, peut faire trébucher quand l’équilibre est moins sûr.",
+              "examples": [
+                "La semaine précédente, le pied d’Oumar accroche le tuyau vert en travers de l’allée.",
+                "Il se rattrape au bord du bac au lieu de tomber dans l’allée."
+              ]
+            },
+            {
+              "heading": "Minimiser pour garder ses habitudes",
+              "text": "La personne peut tenir à ses gestes de toujours et réduire l’importance d’un incident pour ne pas les perdre.",
+              "examples": [
+                "Oumar hausse les épaules : il a toujours jardiné à genoux.",
+                "Il se penche aussitôt pour reprendre la latte, avant qu’Odette l’arrête."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour jardiner en limitant le risque de chute",
+          "points": [
+            {
+              "heading": "Signaler les incidents à l’équipe",
+              "objective": "Permettre une évaluation du risque de chute par des professionnels.",
+              "exercise": [
+                "Noter chaque presque-chute avec le lieu et le geste en cours.",
+                "En parler à l’ergothérapeute ou à la coordinatrice dans la semaine.",
+                "Accepter, si l’équipe le propose, une évaluation dédiée."
+              ],
+              "benefit": "Des faits rapportés peuvent aider l’équipe à proposer des adaptations ; un malaise ou une chute avec blessure relève d’un appel au 15."
+            },
+            {
+              "heading": "Travailler assis à la bonne hauteur",
+              "objective": "Supprimer le passage à genoux et le relevé qui fragilise.",
+              "exercise": [
+                "Avec l’ergothérapeute, surélever l’ouvrage sur des tréteaux stables.",
+                "Choisir un tabouret ou une chaise dont la hauteur permet d’atteindre l’ouvrage sans se pencher fort.",
+                "Poser les outils à portée de main avant de s’asseoir."
+              ],
+              "benefit": "Travailler assis peut réduire les moments à risque tout en gardant le geste et le plaisir du travail manuel."
+            },
+            {
+              "heading": "Dégager les passages",
+              "objective": "Retirer du sol ce qui fait trébucher.",
+              "exercise": [
+                "Repérer avec quelqu’un les objets qui traînent dans l’allée et devant l’abri.",
+                "Enrouler le tuyau sur son dévidoir après chaque arrosage.",
+                "Garder un chemin libre entre l’abri, les bacs et le banc."
+              ],
+              "benefit": "Un passage dégagé peut éviter des chutes évitables, sans rien changer à l’instabilité elle-même."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Le banc sur deux tréteaux",
+      "ending": "Le soir, Oumar parle du relevé et du tuyau à Nathalie Jouan, la coordinatrice de la résidence, parce qu’il sait qu’Odette le ferait sinon, et qu’il préfère le dire lui-même. Nathalie transmet, avec son accord, à Yannick Le Floch, l’ergothérapeute, et à la docteure Morvan, qui propose une évaluation du risque de chute à la consultation. Le jeudi, Yannick passe au Clos avec deux tréteaux pliants. Ils soulèvent le banc à quatre, avec Gérard Pichon et Odette, et le posent dessus. Yannick règle avec Oumar la hauteur d’un tabouret de l’atelier. Assis, Oumar atteint les vis de dessous sans se pencher.\n\nIl visse la troisième latte en vingt minutes. Puis il enroule lui-même le tuyau vert sur son dévidoir, et Nathalie fait ajouter au plan d’aide : « Tuyau enroulé après chaque arrosage. » Oumar accepte tout, en grommelant que le jardin finit par décider pour lui. Il continue d’arroser ses bacs debout. Il ne sait pas encore ce que dira l’évaluation, ni s’il pourra un jour planter ses fèves à genoux sans y penser.",
+      "conclusion": "Cet épisode montre qu’une instabilité de la marche peut accompagner des troubles cognitifs liés à l’alcool et rendre risqués des gestes familiers. Oumar signale lui-même l’incident, accepte de travailler assis et termine les lattes, sans renoncer à son jardin.",
+      "mirror": [
+        "Quand Oumar vacille, Odette le retient, puis dit : « Assieds-toi d’abord, s’il te plaît. » Elle ne lui fait pas la leçon et ne prétend pas savoir d’où vient l’instabilité. Une proche peut faire de même, puis proposer : « Tu veux en parler à Yannick, ou je t’accompagne chez Nathalie ? » Elle n’a pas à surveiller chacun de ses pas. Si la personne tombe et se blesse ou paraît soudain très différente, elle appelle le 15."
+      ],
+      "sources": [
+        "oms-cddr",
+        "ridley-2013",
+        "nice-ng97",
+        "has-fiche13-comportement",
+        "oms-cddr-hrb"
+      ],
+      "continuity": {
+        "choice": "Oumar signale lui-même le relevé et le tuyau à Nathalie Jouan ; la docteure Morvan propose une évaluation du risque de chute. Le banc est posé sur deux tréteaux, Oumar visse assis sur un tabouret, les trois lattes neuves sont fixées et le tuyau est enroulé après chaque arrosage.",
+        "next": "Gérard propose d’arroser l’inauguration au cidre, comme pour toutes les fêtes du Clos, et Oumar doit décider comment il veut vivre cette fête."
+      },
+      "number": 9,
+      "diagnostic_stage": "known"
     }
   ]
 }

@@ -952,6 +952,111 @@
       "number": 9,
       "diagnostic_stage": "known",
       "clinical_focus": "Somnolence de l’après-midi pendant le montage"
+    },
+    {
+      "slug": "amaury-manque-d-elan-apathie-ou-depression-a-evaluer",
+      "title": "Moins d’élan : une baisse à faire évaluer sans conclure",
+      "description": "Amaury reste dans son fauteuil, « sans moteur », et laisse la boîte en fer sur l’étagère : ce manque d’élan demande l’avis de l’équipe, pas un verdict.",
+      "context": "à la maison, un mardi matin",
+      "topics": [
+        "Démence due à la maladie de Parkinson",
+        "manque d’élan",
+        "épuisement de l’aidante"
+      ],
+      "clinical_intro": "Dans la démence due à la maladie de Parkinson, une personne peut perdre de l’élan pour des activités qui comptaient pour elle. Ce manque d’élan peut relever d’une apathie, d’une dépression ou des deux, et certains signes de la maladie ressemblent à ceux de la dépression : c’est l’équipe de soins qui évalue. Amaury ne se dit pas triste ; Rosa, elle, ne sait plus si elle doit insister.",
+      "opening": "Le mardi, à neuf heures et quart, Rosa, la compagne d’Amaury, pose sa veste sur le dossier du fauteuil. « Le taxi est réservé pour dix heures moins le quart. Soizic, la réalisatrice, a refait la liste des plans. » C’est la séance de montage du matin, celle qu’Amaury a lui-même fixée jeudi en rendant les clés de la Peugeot.\n\nAmaury ne bouge pas. Il est habillé, rasé, la casquette sur l’accoudoir. Il regarde la fenêtre. « Ça ne vaut pas le déplacement. » La boîte en fer de feuilles de service est restée sur l’étagère du salon depuis vendredi ; il ne l’a pas rouverte. Il ne lit plus le journal en entier, seulement les résultats de l’ASSE, et samedi il n’a pas voulu descendre au marché, où il aimait discuter avec le marchand de fromages, un ancien du dépôt.\n\nRosa s’assoit sur l’accoudoir du canapé. « Tu es triste ? »\n\nIl réfléchit, longtemps. « Non. Pas triste. Je suis sans moteur. Comme un bus au dépôt, le contact coupé. »\n\nRosa s’agace d’abord. Elle a annulé deux répétitions de chorale ce mois-ci pour rester près de lui, depuis l’après-midi des clés, et elle a l’impression de porter le film à sa place. « C’est ton projet, Amaury, pas le mien. » Puis elle regarde son visage, qui bouge si peu, et elle ne sait plus ce qu’il y a derrière. Elle pense au mot « dépression », qu’elle a lu dans une brochure de l’équipe. Elle pense aussi qu’il est peut-être juste fatigué après des semaines de tournage. Elle se demande si elle doit insister, le laisser tranquille ou appeler quelqu’un. Le taxi klaxonne en bas à dix heures moins le quart. Elle descend le décommander.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Un manque d’élan dont l’origine se discute avec l’équipe",
+          "text": "Un manque d’élan peut avoir plusieurs origines dans la maladie de Parkinson et sa démence : une apathie, c’est-à-dire une baisse de l’intérêt et de l’initiative, une dépression, ou les deux à la fois. Les distinguer est difficile, car la réduction de l’expression du visage, le ralentissement et le manque de motivation sont communs à la maladie de Parkinson et à la dépression. C’est pourquoi l’évaluation revient à l’équipe, par exemple à la psychologue et à la neurologue, qui s’appuient aussi sur ce que les proches observent. Chez Amaury, plusieurs changements se voient depuis quelques jours : la boîte en fer qui reste fermée, le marché abandonné, le projet qui « ne vaut pas le déplacement ». Il ne se dit pas triste, il se dit « sans moteur ». Ni Rosa ni le lecteur ne peuvent en conclure s’il s’agit d’apathie ou de dépression ; ils peuvent décrire ce qui a changé et le dire à ceux qui savent évaluer."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment un manque d’élan se remarque-t-il au quotidien ?",
+          "points": [
+            {
+              "heading": "Des activités qui comptaient abandonnées",
+              "text": "La personne délaisse des activités qu’elle choisissait volontiers, sans toujours dire pourquoi.",
+              "examples": [
+                "La boîte en fer de feuilles de service reste sur l’étagère du salon depuis vendredi.",
+                "Samedi, Amaury ne descend pas au marché, où il discutait avec un ancien du dépôt."
+              ]
+            },
+            {
+              "heading": "Des mots qui ne disent pas forcément la tristesse",
+              "text": "La personne peut décrire une absence d’envie plutôt qu’une tristesse, et ses mots méritent d’être rapportés tels quels.",
+              "examples": [
+                "À la question « Tu es triste ? », Amaury répond « Non. Je suis sans moteur. »",
+                "Il compare son état à un bus au dépôt, le contact coupé, plutôt qu’à un chagrin."
+              ]
+            },
+            {
+              "heading": "Un proche partagé entre agacement et inquiétude",
+              "text": "L’entourage peut hésiter entre insister, laisser faire ou chercher de l’aide, surtout s’il est lui-même fatigué.",
+              "examples": [
+                "Rosa s’agace d’avoir annulé deux répétitions de chorale et d’avoir l’impression de porter le film.",
+                "Elle pense au mot « dépression » lu dans une brochure, puis à la fatigue du tournage, sans pouvoir trancher."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour répondre à un manque d’élan",
+          "points": [
+            {
+              "heading": "Décrire ce qui a changé sans conclure",
+              "objective": "Rassembler des observations concrètes plutôt qu’une étiquette.",
+              "exercise": [
+                "Noter deux ou trois changements précis, avec leur date : la boîte fermée, le marché abandonné.",
+                "Rapporter les mots exacts de la personne, comme « sans moteur ».",
+                "Lui proposer de relire ces notes avec elle avant de les transmettre."
+              ],
+              "benefit": "L’équipe dispose d’éléments utiles, et la personne n’est pas réduite à un diagnostic posé par un proche."
+            },
+            {
+              "heading": "Demander un avis à l’équipe",
+              "objective": "Confier l’évaluation du manque d’élan aux professionnels compétents.",
+              "exercise": [
+                "Proposer à la personne d’appeler ensemble le point de contact de l’équipe.",
+                "Demander si un rendez-vous avec la psychologue ou la neurologue est possible.",
+                "Si la personne exprime des idées de mort ou semble en danger, le dire le jour même à un professionnel, et appeler le 15 en cas d’urgence."
+              ],
+              "benefit": "L’origine du manque d’élan peut être recherchée, et un soutien proposé selon ce que l’équipe constate."
+            },
+            {
+              "heading": "Proposer une activité courte choisie par la personne",
+              "objective": "Maintenir un lien avec ce qui compte, sans forcer ni récompenser.",
+              "exercise": [
+                "Demander à la personne quelle version plus petite de l’activité lui semblerait possible.",
+                "La laisser choisir le lieu, l’heure et la durée.",
+                "Accepter qu’elle refuse ou annule, sans reproche."
+              ],
+              "benefit": "Une activité réduite peut garder une porte ouverte ; ce n’est pas un traitement, et ce n’est pas une épreuve."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Vingt minutes dans le salon",
+      "ending": "Quand Rosa remonte, elle ne relance pas le taxi. Elle s’assoit en face de lui. « Je ne sais pas si tu es déprimé ou juste sans moteur. Ce n’est pas à moi de le savoir. On appelle Sabine ? » Amaury hausse les épaules, puis tend la main vers le téléphone. Il met le haut-parleur. Sabine Ferrand, l’infirmière de coordination de l’équipe Parkinson, l’écoute décrire la boîte fermée et le marché. Elle lui propose un rendez-vous avec Mme Chassagne, la psychologue de l’équipe, le vendredi à dix heures, et prévient la docteure Aubertin. Amaury accepte. Il ajoute, pour Soizic : une séance de vingt minutes, chez lui, dans le salon, le mardi suivant à dix heures, avec la fiche RELÈVE. Rosa prend le combiné à son tour. Elle dit qu’elle reprendra la chorale jeudi, et demande à Sabine ce qui existe comme solutions de répit pour elle. Sabine promet de lui envoyer des adresses. Le soir, la boîte en fer est toujours sur l’étagère.",
+      "conclusion": "Cet épisode montre que, dans la démence due à la maladie de Parkinson, un manque d’élan ne se tranche pas à la maison : il se décrit, puis il se confie à l’équipe, qui évalue s’il s’agit d’apathie, de dépression ou des deux. Amaury garde une petite place à son film, et Rosa reprend une place pour elle.",
+      "mirror": [
+        "Quand Amaury dit « ça ne vaut pas le déplacement », Rosa peut éviter les deux pièges : insister jusqu’à la dispute ou conclure à une dépression. Elle peut dire : « Je vois que tu n’as plus envie depuis vendredi. On en parle à Sabine ? » Elle a aussi le droit de dire qu’elle est fatiguée et de demander de l’aide pour elle-même. Reprendre la chorale n’est pas un abandon : c’est une façon de tenir dans la durée."
+      ],
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "has-parkinson-2016",
+        "nice-ng71"
+      ],
+      "continuity": {
+        "choice": "Amaury accepte un rendez-vous avec Mme Chassagne le vendredi et propose à Soizic une séance de vingt minutes chez lui le mardi suivant, sur la fiche RELÈVE ; Rosa reprend la chorale le jeudi et demande à Sabine des informations sur le répit.",
+        "next": "Avant la séance chez lui, Amaury se réveille un matin fiévreux et ne reconnaît plus l’heure ni la cuisine."
+      },
+      "number": 10,
+      "diagnostic_stage": "known",
+      "clinical_focus": "Moins d’élan : apathie ou dépression à évaluer"
     }
   ]
 }

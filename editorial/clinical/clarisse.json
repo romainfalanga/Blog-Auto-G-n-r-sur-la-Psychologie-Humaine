@@ -741,6 +741,110 @@
         "next": "Le carton rouvert et les cinq documents presque arrêtés, une teinte de rambarde sur l’épreuve de l’affiche va occuper toutes ses pensées."
       },
       "diagnostic_stage": "known"
+    },
+    {
+      "number": 8,
+      "slug": "clarisse-perseveration-huntington-rambarde-vert-d-eau",
+      "title": "Revenir sans cesse au même détail",
+      "description": "Clarisse rappelle six fois Yannick pour une rambarde déjà corrigée sans s’en rendre compte : la persévération peut accompagner la maladie de Huntington.",
+      "context": "pendant la correction de l’affiche",
+      "topics": [
+        "Démence due à la maladie de Huntington",
+        "persévération",
+        "décisions closes"
+      ],
+      "clinical_focus": "Revenir sans cesse au même détail",
+      "clinical_intro": "Il arrive à chacun de revenir sur un souci, mais en sachant qu’on y revient. La persévération est différente : une pensée ou une demande se répète au-delà du moment où elle avait un sens, sans que la personne perçoive bien la répétition. Elle peut accompagner la maladie de Huntington. Pour une rambarde de couleur grise sur une affiche, Clarisse rappelle Yannick bien après que tout a été réglé.",
+      "opening": "Le dimanche soir, Maud, la bénévole qui s’occupe des scans de l’Atelier des Quais, envoie l’épreuve de l’affiche. Clarisse l’agrandit sur son écran. Le préau de l’école des Peupliers est là, net, tiré du scan de son esquisse. Mais sur la photographie du hall, la rambarde de l’escalier est grise. En 1996, elle avait choisi un vert d’eau, elle se souvient du nuancier ouvert sur le capot de la camionnette du peintre. Elle appelle Yannick Riou, son ancien associé, qui coordonne le groupe. « La rambarde était vert d’eau. » Il répond qu’il demandera à Maud de corriger la teinte d’après le nuancier. Elle le remercie.\n\nÀ vingt-deux heures, elle le rappelle pour lui redire que la rambarde était vert d’eau. Le lundi, elle l’appelle à neuf heures, à onze heures, à quinze heures et à dix-sept heures. Entre deux appels, elle relit le courriel de Maud, toujours le même, et chaque fois la rambarde grise lui saute aux yeux. À seize heures pourtant, Maud a envoyé l’épreuve corrigée, et Clarisse a répondu : « C’est bon. » Elle ne s’en souvient pas comme d’une affaire réglée.\n\nLe mardi, à la réunion où elle remet ses cinq fiches de choix signées, le groupe passe à la question du catalogue. Clarisse lève la main. « Et la rambarde, vous avez pensé au vert d’eau ? » Yannick soupire, plus fort qu’il ne le voudrait. « Clarisse, on en a parlé six fois. C’est corrigé depuis hier, tu l’as validé toi-même. » Le ton est sec. Clarisse le regarde, sincèrement surprise. Pour elle, la question vient de se poser.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Une pensée qui se répète au-delà de son utilité",
+          "text": "La persévération est la répétition d’une pensée, d’une question ou d’un comportement au-delà du contexte où il avait un sens, avec peu de conscience de cette répétition. Elle se distingue de l’obsession, qui est vécue comme pénible et reconnue par la personne comme excessive. Dans la maladie de Huntington, la persévération est fréquente surtout aux stades modérés et avancés et pèse sur la vie des proches ; chez Clarisse, elle reste ici limitée à un détail, et rien dans la scène ne permet d’en déduire un stade. Le souci de départ était juste : la rambarde était bien vert d’eau. C’est la suite qui relève du trouble : la question revient alors qu’elle a été close, et Clarisse ne perçoit pas qu’elle la repose. Les spécialistes recommandent d’aider l’entourage à y voir un symptôme plutôt qu’une provocation, et d’en parler à l’équipe de soins."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment la persévération se reconnaît-elle dans un échange ?",
+          "points": [
+            {
+              "heading": "La même demande, encore et encore",
+              "text": "La personne reformule la même question ou la même demande à plusieurs reprises, souvent avec les mêmes mots.",
+              "examples": [
+                "Clarisse appelle Yannick six fois en moins de vingt-quatre heures pour dire que la rambarde était vert d’eau.",
+                "Elle relit à chaque fois le même courriel de Maud avec la rambarde grise."
+              ]
+            },
+            {
+              "heading": "Une décision close qui ne s’inscrit pas comme close",
+              "text": "Même après avoir validé une solution, la personne peut ne pas garder le sentiment que l’affaire est réglée.",
+              "examples": [
+                "Elle répond « C’est bon » à l’épreuve corrigée, puis rappelle Yannick une heure plus tard.",
+                "À la réunion du mardi, elle repose la question comme si elle venait de se poser."
+              ]
+            },
+            {
+              "heading": "L’entourage s’épuise",
+              "text": "La répétition use la patience de ceux qui répondent, qui peuvent finir par se montrer secs sans le vouloir.",
+              "examples": [
+                "Yannick soupire devant le groupe et dit « on en a parlé six fois ».",
+                "Clarisse, sincèrement surprise, ne comprend pas pourquoi il lui parle sur ce ton."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour répondre à une question qui revient",
+          "points": [
+            {
+              "heading": "Une trace visible des décisions closes",
+              "objective": "Remplacer la discussion par un repère que la personne peut consulter.",
+              "exercise": [
+                "Écrire chaque décision réglée sur une ligne, avec la date et qui l’a validée.",
+                "Ranger ces lignes dans un seul carnet, toujours au même endroit.",
+                "Quand la question revient, ouvrir la page plutôt que de répondre de mémoire."
+              ],
+              "benefit": "Une trace écrite peut clore la question plus facilement qu’un nouvel argument ; elle n’empêche pas toujours qu’elle revienne."
+            },
+            {
+              "heading": "Y voir un symptôme",
+              "objective": "Éviter que la répétition ne tourne au conflit.",
+              "exercise": [
+                "Se rappeler que la personne ne perçoit pas forcément qu’elle répète.",
+                "Répondre brièvement, sur le même ton, sans « je te l’ai déjà dit ».",
+                "Passer le relais ou faire une pause si l’on sent que l’on va s’agacer."
+              ],
+              "benefit": "Comprendre la persévération peut aider les proches à garder leur calme, sans leur demander une patience sans limite."
+            },
+            {
+              "heading": "En parler à l’équipe de soins",
+              "objective": "Faire connaître un comportement nouveau à ceux qui suivent la maladie.",
+              "exercise": [
+                "Noter quelques exemples précis de répétition, avec leurs dates.",
+                "Les transmettre au neurologue, par téléphone ou à la consultation suivante.",
+                "Laisser le médecin juger de ce qu’il faut en faire."
+              ],
+              "benefit": "L’équipe peut situer ce changement et conseiller la personne et ses proches."
+            }
+          ]
+        }
+      ],
+      "ending_title": "La page du cahier",
+      "ending": "Après la réunion, Yannick s’excuse de son ton. Il ouvre le cahier du groupe, celui où sont collées les fiches de choix, et écrit devant elle : « Rambarde vert d’eau : corrigé le 12, validé par Clarisse. » Il lui montre la ligne. « La prochaine fois, je t’ouvre cette page au lieu de discuter. Ça te va ? » Clarisse lit deux fois. Elle ne se souvient toujours pas d’avoir répondu « C’est bon », mais la ligne est là, avec la date. Elle dit que ça lui va. Le jeudi, au téléphone, elle recommence : « La rambarde… » Yannick répond seulement : « Page du cahier, ligne du 12. » Elle s’arrête. L’après-midi, elle achète à la papeterie du quai un carnet à couverture noire et écrit chez elle sur la première page : « Décisions closes ». Première ligne : la rambarde. Deuxième : les cinq documents, remis le 13. Le vendredi, elle appelle le secrétariat de la consultation ; la docteure Lebreton, sa neurologue au CHU, la rappelle le soir, écoute, et lui demande d’apporter le carnet à la prochaine consultation.",
+      "conclusion": "Cet épisode montre que la persévération, possible dans la maladie de Huntington, fait revenir une question déjà réglée sans que la personne s’en aperçoive. Le cahier du groupe et le carnet des décisions closes donnent à Clarisse une trace à consulter, et sa neurologue est informée.",
+      "mirror": [
+        "Yannick a fini par répondre sèchement, après six appels sur la même rambarde ; c’est humain. Un proche peut préparer une réponse qui ne demande pas de patience infinie : ouvrir la page où la décision est notée et dire seulement « C’est écrit ici, ligne du 12 ». Il peut aussi reconnaître sa propre lassitude et passer le relais à quelqu’un d’autre pour un moment. Il n’a pas à décider si c’est un symptôme grave : la personne peut le signaler à son équipe."
+      ],
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "pnds-huntington-2021"
+      ],
+      "continuity": {
+        "choice": "Yannick note dans le cahier du groupe « Rambarde vert d’eau : corrigé le 12, validé par Clarisse » et ouvre cette page quand elle y revient ; Clarisse crée un carnet des décisions closes et en parle à la docteure Lebreton, qui lui demande de l’apporter à la prochaine consultation. Les cinq documents ont été remis le 13.",
+        "next": "Les cinq documents sont choisis ; le groupe lui demande maintenant d’enregistrer un court souvenir pour l’exposition."
+      },
+      "diagnostic_stage": "known"
     }
   ]
 }
