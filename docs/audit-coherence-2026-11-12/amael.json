@@ -1,0 +1,434 @@
+{
+ "character_id": "amael",
+ "type": "clinique",
+ "auditor": "audit_c2",
+ "audited_on": "2026-11-12",
+ "persona": {
+  "age_metier_proches": "31 ans, chargé d'inventaire dans un atelier de conservation ; trouble voyeuriste diagnostiqué avant le récit ; suivi par la docteure Vidal, cadre de prévention avec Mme Arnaud ; Nora, présidente du club municipal d'échecs ; Malik, son frère ; une responsable d'atelier sans nom.",
+  "arc_summary": "Amaël veut organiser un échange de quatre tables avec le club des Saules. Il réduit son rôle aux appariements, parle de sa détresse et de ses préoccupations à la docteure Vidal, ajuste son travail et son agenda au soin, accepte une réévaluation pour un changement récent et fait vérifier ses engagements de prévention. Son frère refuse d'être son contrôleur ; l'échange a lieu et le suivi continue.",
+  "arc_issues": [
+   "Le cadre de prévention et Mme Arnaud ne sont jamais présentés : allusion en 6 (« cadre à vérifier »), premier nom en 8, rôle non expliqué en 9. Le lecteur ne comprend pas la moitié des enjeux de 8 à 12.",
+   "Le « relais » (épisodes 9, 11, 12) n'est jamais une personne identifiée.",
+   "Cinq épisodes (3, 4, 6, 8, 11) ont le même dénouement : transmettre une information au professionnel. Les facettes sont distinctes sur le papier mais se ressemblent dans la scène.",
+   "Les épisodes 8, 9 et 11 remplacent l'action par des formules procédurales (« les interlocuteurs compétents confirment les dispositions individualisées applicables ») : c'est le principal défaut de compréhension du parcours.",
+   "Chronologie cohérente : diagnostic connu dès l'épisode 1, consultation 3-4, appel 6, rendez-vous 7, réévaluation 8, point de prévention 9, événement 12 (« six semaines environ »).",
+   "Rubrique des proches de l'épisode 4 : Malik y est cité avant d'être présenté dans le corps (épisode 10) et la « bonne partie » évoquée n'apparaît pas dans la scène."
+  ]
+ },
+ "episodes": [
+  {
+   "number": 1,
+   "file": "content/posts/comprendre-et-maitriser-ses-emotions/amael-schema-persistant-au-travail.md",
+   "focus": "Persistance du schéma : des préoccupations récurrentes interrompent une tâche de travail malgré la décision d'accélérer",
+   "structure": {
+    "scene": "ok",
+    "concept": "ok",
+    "manifestations": "faible",
+    "techniques": "ok",
+    "retour": "ok",
+    "conclusion": "ok",
+    "proches": "ok"
+   },
+   "comprehension": 4,
+   "comprehension_note": "La scène est concrète (fiche relue trois fois, coin plié, classeur bleu dans le sac, proposition à Nora) et Nora est présentée comme présidente. Le lecteur comprend l'enjeu : ne pas attendre une matinée « impeccable » pour agir. Les exemples des manifestations sont des fragments d'une ligne qui répètent la scène sans l'approfondir.",
+   "issues": [
+    {
+     "severity": "mineur",
+     "type": "trame",
+     "quote": "- Il recommence la lecture d’une ligne déjà parcourue.",
+     "problem": "Les « exemples concrets » sont des reprises télégraphiques de la scène, sans situer ce que l'on observe comme le demande la charte (explication + deux exemples développés).",
+     "fix": "Développer chaque exemple en une ou deux phrases situées (moment, geste, conséquence sur la vérification), par exemple : préciser quelle vérification est perdue et ce qu'il doit refaire."
+    },
+    {
+     "severity": "mineur",
+     "type": "comprehension",
+     "quote": "Le diagnostic est connu, le rendez-vous avec la docteure Vidal inscrit dans son agenda.",
+     "problem": "La docteure Vidal est nommée sans dire qu'elle est la psychiatre/clinicienne qui le suit pour ce trouble ; un lecteur arrivant ici peut le déduire mais pas sa fonction exacte.",
+     "fix": "Écrire « la docteure Vidal, la psychiatre qui le suit depuis le diagnostic »."
+    }
+   ]
+  },
+  {
+   "number": 2,
+   "file": "content/posts/comprendre-et-maitriser-ses-emotions/amael-consentement-et-vie-privee.md",
+   "focus": "Consentement : l'adhésion à une activité ne vaut pas accord sur la vie privée ; dimension non consentie au cœur de la définition",
+   "structure": {
+    "scene": "ok",
+    "concept": "ok",
+    "manifestations": "faible",
+    "techniques": "ok",
+    "retour": "ok",
+    "conclusion": "ok",
+    "proches": "ok"
+   },
+   "comprehension": 3,
+   "comprehension_note": "La réunion est lisible (Nora, feuille d'inscriptions, partage des tâches), mais le geste central reste opaque : on ne sait pas quelle « demande d'informations personnelles » Amaël raye ni pourquoi il l'avait ajoutée. Le lien avec le consentement repose sur cette case invisible, ce qui rend la scène légère pour porter le concept.",
+   "issues": [
+    {
+     "severity": "majeur",
+     "type": "lien_concept",
+     "quote": "Il barre une demande d’informations personnelles dont il n’a pas besoin pour les appariements.",
+     "problem": "Le seul acte qui illustre le consentement est une case non décrite ; le lecteur ne voit ni ce qui aurait débordé l'accord des membres ni pourquoi c'est un enjeu. Le concept paraît plaqué sur une réunion d'organisation.",
+     "fix": "Nommer une information ordinaire et non sensible (par exemple le numéro de téléphone personnel ou l'adresse des joueurs des Saules) qu'il avait ajoutée « pour tout prévoir », et faire dire par Nora que l'inscription couvre seulement le nom, le classement et l'horaire."
+    },
+    {
+     "severity": "mineur",
+     "type": "comprehension",
+     "quote": "Il voudrait pourtant savoir ce que les autres pensent de lui.",
+     "problem": "La phrase arrive sans lien explicite avec ce qui précède ; on ne sait pas si les membres connaissent son diagnostic, ce qui change le sens de la scène.",
+     "fix": "Préciser en une phrase que les membres du club ne connaissent pas son diagnostic et qu'il n'a pas à le leur dire."
+    }
+   ]
+  },
+  {
+   "number": 3,
+   "file": "content/posts/comprendre-et-maitriser-ses-emotions/amael-detresse-et-consultation.md",
+   "focus": "Détresse liée au schéma comme motif de soin, distincte de la peur d'être découvert",
+   "structure": {
+    "scene": "ok",
+    "concept": "ok",
+    "manifestations": "ok",
+    "techniques": "ok",
+    "retour": "ok",
+    "conclusion": "ok",
+    "proches": "ok"
+   },
+   "comprehension": 4,
+   "comprehension_note": "Scène claire et humaine : il commence par parler du tournoi, s'en rend compte, pose le classeur sur la chaise et dit enfin sa demande. La phrase « Cela me fait souffrir, même quand je tiens ce qui est prévu » donne une vraie décision. La fin laisse volontairement la consultation ouverte, ce qui est cohérent avec l'épisode 4.",
+   "issues": [
+    {
+     "severity": "mineur",
+     "type": "comprehension",
+     "quote": "La docteure Vidal entend cette demande et maintient le suivi.",
+     "problem": "« Maintient le suivi » est une formule procédurale qui ne montre pas ce que fait la médecin en réponse.",
+     "fix": "Remplacer par une réplique ou un geste de la médecin (elle reformule, propose de prendre le temps de parler des soirées) avant la question sur la confusion."
+    }
+   ]
+  },
+  {
+   "number": 4,
+   "file": "content/posts/comprendre-et-maitriser-ses-emotions/amael-pensees-et-comportements.md",
+   "focus": "Distinction entre contrôle du comportement et persistance du schéma d'excitation",
+   "structure": {
+    "scene": "faible",
+    "concept": "ok",
+    "manifestations": "ok",
+    "techniques": "ok",
+    "retour": "ok",
+    "conclusion": "ok",
+    "proches": "ok"
+   },
+   "comprehension": 3,
+   "comprehension_note": "L'épisode suit directement la consultation de l'épisode 3 (« La docteure Vidal reprend les derniers mots ») : un lecteur isolé ne sait pas où il est ni de quoi on parle avant le deuxième paragraphe. La scène reste intérieure ; la médecin « l'invite à séparer » et « pose une question plus précise » sans qu'aucune question ni réponse ne soit donnée.",
+   "issues": [
+    {
+     "severity": "majeur",
+     "type": "comprehension",
+     "quote": "Elle lui pose une question plus précise sur la période écoulée. Il prend le temps de répondre.",
+     "problem": "Le dialogue clé est résumé en phrases vides : on ne sait ni la question ni la réponse, alors que c'est le moment où la distinction devrait devenir visible.",
+     "fix": "Écrire l'échange : par exemple la médecin demande « Cette semaine, avez-vous fait quelque chose que vous vous étiez engagé à ne pas faire ? », il répond « Non, mais j'y ai pensé presque chaque soir », et elle sépare les deux phrases."
+    },
+    {
+     "severity": "majeur",
+     "type": "repetition",
+     "quote": "Il revient sur la réunion du club. Il a limité sa demande d’informations, laissé les inscriptions à Nora et accepté de ne prendre qu’une tâche. Pourtant, les préoccupations ont continué.",
+     "problem": "Même consultation, même matériau que l'épisode 3 (respect des limites sans soulagement) : la frontière entre « détresse » et « pensées/comportements » est faible pour le lecteur.",
+     "fix": "Recentrer la scène sur un exemple de la semaine où l'engagement a été tenu malgré une préoccupation forte, et retirer le récapitulatif de la réunion déjà raconté en 2 et 3."
+    },
+    {
+     "severity": "mineur",
+     "type": "comprehension",
+     "quote": "La docteure Vidal reprend les derniers mots d’Amaël.",
+     "problem": "Ouverture dépendante de l'épisode précédent.",
+     "fix": "Ajouter une phrase de situation : « Dans le cabinet de la docteure Vidal, la consultation commencée sur sa souffrance se poursuit. »"
+    },
+    {
+     "severity": "mineur",
+     "type": "proches",
+     "quote": "Si Amaël demande à Malik si une bonne partie prouve qu’il va mieux",
+     "problem": "Rubrique non ancrée dans la scène (consultation sans Malik ni partie) et Malik non encore présenté dans le corps.",
+     "fix": "Ancrer la rubrique dans la consultation : un proche à qui Amaël dit « j'ai tenu mes engagements mais ça ne passe pas » peut répondre sans juger ni rassurer."
+    }
+   ]
+  },
+  {
+   "number": 5,
+   "file": "content/posts/comprendre-et-maitriser-ses-emotions/amael-retentissement-au-travail.md",
+   "focus": "Retentissement fonctionnel : retard d'un lot d'inventaire, renégociation d'une livraison",
+   "structure": {
+    "scene": "ok",
+    "concept": "ok",
+    "manifestations": "ok",
+    "techniques": "ok",
+    "retour": "ok",
+    "conclusion": "ok",
+    "proches": "ok"
+   },
+   "comprehension": 5,
+   "comprehension_note": "Scène la plus concrète du parcours : deux piles de fiches, la responsable qui demande quand le lot sera prêt, la phrase « Il en reste une partie », la remise répartie puis le message à Nora pour lâcher le matériel. Enjeu, décision et conséquence sont nets.",
+   "issues": [
+    {
+     "severity": "mineur",
+     "type": "comprehension",
+     "quote": "Sa responsable s’arrête devant le bureau",
+     "problem": "La responsable n'a pas de nom alors qu'elle revient comme interlocutrice ; détail isolé.",
+     "fix": "Lui donner un nom ou une fonction précise (« Claire, la responsable des collections »)."
+    }
+   ]
+  },
+  {
+   "number": 6,
+   "file": "content/posts/comprendre-et-maitriser-ses-emotions/amael-honte-et-parole-clinique.md",
+   "focus": "La honte et la crainte d'être réduit à une étiquette freinent la transmission d'un changement au professionnel",
+   "structure": {
+    "scene": "ok",
+    "concept": "ok",
+    "manifestations": "ok",
+    "techniques": "ok",
+    "retour": "ok",
+    "conclusion": "ok",
+    "proches": "ok"
+   },
+   "comprehension": 4,
+   "comprehension_note": "La note « semaine compliquée » sur la table de la cuisine et l'appel au cabinet rendent la honte visible ; la phrase où il se reprend est un vrai geste. En revanche le dénouement retombe dans le procédural et introduit un « cadre à vérifier » que le lecteur ne connaît pas encore.",
+   "issues": [
+    {
+     "severity": "majeur",
+     "type": "comprehension",
+     "quote": "il peut toujours préparer les appariements sous réserve du cadre à vérifier",
+     "problem": "Première allusion à un cadre de prévention distinct du soin, sans l'expliquer ; le lecteur ne sait pas qui vérifie quoi (Mme Arnaud n'apparaît qu'en 8-9).",
+     "fix": "Introduire ici en une phrase l'existence du cadre de prévention et de son interlocutrice : « sous réserve de ce qu'il vérifiera avec Mme Arnaud, qui suit ses engagements de prévention »."
+    },
+    {
+     "severity": "mineur",
+     "type": "comprehension",
+     "quote": "Le cabinet organise un point de suivi adapté à ce qu’Amaël vient de signaler.",
+     "problem": "Formule administrative au lieu d'une action (qui répond, quel rendez-vous, quand).",
+     "fix": "« La secrétaire lui propose un rendez-vous avec la docteure Vidal le mardi suivant. »"
+    }
+   ]
+  },
+  {
+   "number": 7,
+   "file": "content/posts/comprendre-et-maitriser-ses-emotions/amael-soin-individualise.md",
+   "focus": "Soin individualisé : pas de méthode standard ni de calendrier de guérison calé sur un événement",
+   "structure": {
+    "scene": "ok",
+    "concept": "ok",
+    "manifestations": "ok",
+    "techniques": "ok",
+    "retour": "ok",
+    "conclusion": "ok",
+    "proches": "ok"
+   },
+   "comprehension": 4,
+   "comprehension_note": "La question naïve d'Amaël (« une méthode qui réglerait le problème avant la rencontre ») est un bon point d'entrée et le chevauchement entre le rendez-vous et le premier horaire du club donne un choix concret. L'explication de la médecin reste toutefois abstraite (« les choix de soin dépendent de l'évaluation et de leur suivi »).",
+   "issues": [
+    {
+     "severity": "mineur",
+     "type": "comprehension",
+     "quote": "Elle explique que les choix de soin dépendent de l’évaluation et de leur suivi, sans promettre une échéance.",
+     "problem": "La réponse de la médecin est paraphrasée en langage de notice ; on ne l'entend pas parler.",
+     "fix": "Lui donner une réplique simple : « Je ne peux pas vous promettre que ce sera réglé pour une date ; on va regarder ensemble ce qui vous aide, semaine après semaine. »"
+    },
+    {
+     "severity": "mineur",
+     "type": "repetition",
+     "quote": "Il avait espéré pouvoir rentrer avec une solution à inscrire en face de la date.",
+     "problem": "Troisième consultation consécutive (3, 4, 7 et bientôt 8) centrée sur une attente déçue de solution ou de verdict ; le motif se répète.",
+     "fix": "Garder l'attente déçue mais insister sur ce qui est propre à l'épisode (le choix entre deux dates)."
+    }
+   ]
+  },
+  {
+   "number": 8,
+   "file": "content/posts/comprendre-et-maitriser-ses-emotions/amael-reevaluation-changement-recent.md",
+   "focus": "Un changement récent (nuits inhabituelles, agitation) ne doit pas être attribué d'office au diagnostic connu",
+   "structure": {
+    "scene": "ok",
+    "concept": "ok",
+    "manifestations": "ok",
+    "techniques": "ok",
+    "retour": "faible",
+    "conclusion": "ok",
+    "proches": "ok"
+   },
+   "comprehension": 2,
+   "comprehension_note": "Le point de départ est clair (il dit « Ce doit être encore le même trouble »), mais tout le reste est en voix passive et abstraite : « questions nécessaires », « traitements éventuels », « suivi adapté à la situation ». Le lecteur ne sait pas ce qui a été conclu ni ce qui change pour Amaël. Mme Arnaud est nommée pour la première fois dans le dénouement sans aucune présentation.",
+   "issues": [
+    {
+     "severity": "bloquant",
+     "type": "comprehension",
+     "quote": "Il indique à Nora qu’il confirmera le créneau après le point prévu avec Mme Arnaud.",
+     "problem": "Personnage inconnu du lecteur à ce stade : ni sa fonction, ni le lien avec Amaël, ni la nature du « point » ne sont dits. La fin de l'épisode repose sur elle.",
+     "fix": "Présenter Mme Arnaud dans la phrase : « après le point prévu avec Mme Arnaud, la conseillère qui suit ses engagements de prévention » (fonction à aligner sur le canon), et l'annoncer dès l'épisode 6."
+    },
+    {
+     "severity": "majeur",
+     "type": "comprehension",
+     "quote": "La réévaluation est menée et le suivi est adapté à la situation, sans qu’un nouveau diagnostic soit annoncé dans cette histoire.",
+     "problem": "Le dénouement n'est qu'une formule procédurale ; aucune décision concrète ni conséquence visible (examen demandé, rendez-vous avancé, consigne sur le sommeil, orientation). La phrase métatextuelle « dans cette histoire » casse le récit.",
+     "fix": "Montrer une suite concrète et non diagnostique : la médecin propose de revoir ses nuits dans quinze jours avec un relevé simple et lui demande de rappeler si l'agitation augmente ; retirer « dans cette histoire »."
+    },
+    {
+     "severity": "majeur",
+     "type": "comprehension",
+     "quote": "L’entretien se poursuit avec les questions nécessaires sur son état, son contexte de vie et les traitements éventuels. Le récit ne leur donne pas une réponse fabriquée.",
+     "problem": "Le narrateur commente ses propres précautions au lieu de raconter ; c'est exactement la formulation procédurale abstraite qui rend l'épisode difficile à suivre.",
+     "fix": "Remplacer par une ou deux questions entendues (« Depuis quand dormez-vous moins ? Quelque chose a changé chez vous, au travail ? ») et ses réponses incertaines."
+    },
+    {
+     "severity": "mineur",
+     "type": "clinique",
+     "quote": "plusieurs nuits inhabituelles et qu’une agitation récente le gêne",
+     "problem": "« Nuits inhabituelles » reste très vague ; le lecteur ne comprend pas le signe qui justifie la réévaluation.",
+     "fix": "Préciser sobrement : « il se réveille vers trois heures et ne se rendort plus, et il tient mal en place à l'atelier »."
+    }
+   ]
+  },
+  {
+   "number": 9,
+   "file": "content/posts/comprendre-et-maitriser-ses-emotions/amael-responsabilites-prevention.md",
+   "focus": "Prévention : responsabilités distinctes du club, du suivi clinique et du cadre de prévention",
+   "structure": {
+    "scene": "faible",
+    "concept": "ok",
+    "manifestations": "ok",
+    "techniques": "ok",
+    "retour": "faible",
+    "conclusion": "ok",
+    "proches": "ok"
+   },
+   "comprehension": 2,
+   "comprehension_note": "L'épisode porte sur Mme Arnaud, mais ne dit jamais qui elle est (fonction, cadre, pourquoi Amaël a des engagements avec elle). La scène est presque entièrement composée de formules administratives et le dénouement est confié à des « interlocuteurs compétents » anonymes. Le lecteur comprend qu'Amaël obtient le créneau du soir, pas comment ni par qui.",
+   "issues": [
+    {
+     "severity": "bloquant",
+     "type": "comprehension",
+     "quote": "Mme Arnaud a repris avec Amaël les engagements déjà convenus dans son cadre de prévention.",
+     "problem": "Ni le rôle de Mme Arnaud ni la nature du « cadre de prévention » ne sont expliqués ; le lecteur ignore s'il s'agit d'un cadre volontaire, d'un programme spécialisé, etc. L'épisode entier dépend de ce point.",
+     "fix": "Ajouter une phrase de présentation conforme au canon (par exemple : « Mme Arnaud, intervenante du programme de prévention auquel il participe depuis son diagnostic, avec qui il a fixé des engagements écrits »)."
+    },
+    {
+     "severity": "majeur",
+     "type": "comprehension",
+     "quote": "Les changements pertinents sont transmis dans le cadre des obligations applicables. Les dispositions nécessaires sont vérifiées, sans transformer le tournoi en démonstration de maîtrise.",
+     "problem": "Passif impersonnel : qui transmet quoi à qui ? Ces phrases remplacent l'action.",
+     "fix": "Faire parler Mme Arnaud : elle demande s'il a parlé à la docteure Vidal de ses nuits, relit avec lui ses engagements et lui dit ce qu'elle vérifiera avant de lui répondre."
+    },
+    {
+     "severity": "majeur",
+     "type": "comprehension",
+     "quote": "Les interlocuteurs compétents confirment les dispositions individualisées applicables.",
+     "problem": "Dénouement abstrait : on ne sait pas qui confirme ni ce qui est confirmé, alors que c'est la décision de l'épisode.",
+     "fix": "« Le lendemain, Mme Arnaud le rappelle : la soirée est compatible avec ses engagements, à condition qu'il garde seulement les appariements et que le relais soit prévu. »"
+    }
+   ]
+  },
+  {
+   "number": 10,
+   "file": "content/posts/comprendre-et-maitriser-ses-emotions/amael-limites-des-proches.md",
+   "focus": "Limite d'un proche : un frère refuse le rôle de contrôleur quotidien",
+   "structure": {
+    "scene": "ok",
+    "concept": "ok",
+    "manifestations": "ok",
+    "techniques": "ok",
+    "retour": "ok",
+    "conclusion": "ok",
+    "proches": "ok"
+   },
+   "comprehension": 5,
+   "comprehension_note": "Très lisible : Malik est présenté comme son frère, la demande (un appel chaque soir pour vérifier le programme) est explicite, le refus et la déception sont joués, et la plaisanterie sur les crêpes donne une fin claire. La scène illustre bien la limite du proche.",
+   "issues": [
+    {
+     "severity": "mineur",
+     "type": "proches",
+     "quote": "Malik peut dire : « Je veux bien dîner avec toi ; je ne vérifierai pas ton programme chaque soir. »",
+     "problem": "La rubrique reprend presque mot pour mot la réplique déjà jouée dans la scène, sans apport.",
+     "fix": "Ajouter une piste pour Malik sur ce qu'il peut faire de sa propre gêne (par exemple dire qu'il peut demander « comment ça va » sans attendre de compte rendu)."
+    }
+   ]
+  },
+  {
+   "number": 11,
+   "file": "content/posts/comprendre-et-maitriser-ses-emotions/amael-evolution-et-reussite.md",
+   "focus": "Évolution variable : une réussite pratique ne prédit pas la suite, une hausse des préoccupations se transmet au suivi",
+   "structure": {
+    "scene": "ok",
+    "concept": "ok",
+    "manifestations": "ok",
+    "techniques": "ok",
+    "retour": "faible",
+    "conclusion": "ok",
+    "proches": "ok"
+   },
+   "comprehension": 3,
+   "comprehension_note": "La « répétition » et le tableau d'une page sont concrets, mais on ne sait pas ce qu'est cette répétition (séance de préparation au club ?). La seconde moitié bascule dans l'abstrait : il « transmet » une description sans qu'on sache à qui, et « le point professionnel est effectivement réalisé » sans interlocuteur ni contenu.",
+   "issues": [
+    {
+     "severity": "majeur",
+     "type": "comprehension",
+     "quote": "Il prépare une description brève et la transmet avant la soirée.",
+     "problem": "Destinataire et moyen absents ; le geste décisif n'est pas visible.",
+     "fix": "« Il écrit trois lignes à la docteure Vidal par la messagerie du cabinet et appelle Mme Arnaud pour avancer leur point. »"
+    },
+    {
+     "severity": "majeur",
+     "type": "comprehension",
+     "quote": "Le point professionnel est effectivement réalisé. Les dispositions restent applicables avec le rôle limité d’Amaël ; le changement ne reste pas une note non lue.",
+     "problem": "Formulation procédurale ; aucune scène, aucun échange, aucune incertitude restante montrée.",
+     "fix": "Résumer le point en une réplique concrète de l'interlocuteur et une conséquence (rendez-vous rapproché, consigne de passer la feuille au relais s'il se sent débordé)."
+    },
+    {
+     "severity": "mineur",
+     "type": "comprehension",
+     "quote": "Amaël présente les appariements de la répétition à Nora",
+     "problem": "« Répétition » n'est pas expliqué ; on peut croire à une répétition de l'échange lui-même.",
+     "fix": "Préciser : « la séance de préparation du jeudi, où le club teste l'enchaînement des quatre tables »."
+    },
+    {
+     "severity": "mineur",
+     "type": "repetition",
+     "quote": "La variation appartient au suivi, même si elle arrive après une bonne répétition.",
+     "problem": "Le geste « transmettre un changement au suivi » est déjà le dénouement des épisodes 6 et 8.",
+     "fix": "Différencier en montrant ce que la variation après un succès a de spécifique (la tentation de se taire pour ne pas gâcher l'événement) par une réplique ou une hésitation concrète."
+    }
+   ]
+  },
+  {
+   "number": 12,
+   "file": "content/posts/comprendre-et-maitriser-ses-emotions/amael-participation-et-suivi.md",
+   "focus": "Participation sociale sans valeur de certificat de guérison ; le suivi continue après l'événement",
+   "structure": {
+    "scene": "faible",
+    "concept": "ok",
+    "manifestations": "ok",
+    "techniques": "ok",
+    "retour": "ok",
+    "conclusion": "ok",
+    "proches": "ok"
+   },
+   "comprehension": 3,
+   "comprehension_note": "L'événement est enfin là (accueil des Saules, appariements posés, résultats remis à Nora, finale étudiée chez lui), ce qui ferme l'arc. Mais la scène est surtout faite de négations (« aucun trophée », « Nora n'a pas reçu la mission de le soigner », « aucun ne devient le témoin ») et le « relais », qui joue un rôle dans le dénouement, n'est jamais une personne nommée.",
+   "issues": [
+    {
+     "severity": "majeur",
+     "type": "comprehension",
+     "quote": "À la fin du rôle prévu, Amaël transmet la feuille au relais pour les dernières vérifications.",
+     "problem": "« Le relais » est une fonction abstraite répétée depuis l'épisode 9 sans visage ; le lecteur ne sait pas qui prend la feuille ni pourquoi à ce moment.",
+     "fix": "Nommer la personne (par exemple « Jérôme, le trésorier du club, désigné comme relais ») dès l'épisode 9 et montrer ici le passage de la feuille."
+    },
+    {
+     "severity": "mineur",
+     "type": "comprehension",
+     "quote": "Nora n’a pas reçu la mission de le soigner. Les joueurs sont venus jouer ; aucun ne devient le témoin obligé de ses efforts.",
+     "problem": "Accumulation de précautions énoncées par le narrateur au milieu de la scène ; cela affaiblit l'émotion de la soirée.",
+     "fix": "Garder une seule de ces phrases et la remplacer par un moment de jeu concret (une partie qu'il regarde, un joueur des Saules qui le remercie pour l'horaire)."
+    }
+   ]
+  }
+ ],
+ "missing_or_extra": "Douze épisodes, aucun manquant ni surnuméraire. Pour réduire la répétition, l'épisode 4 (pensées et comportements) pourrait être déplacé hors de la consultation de l'épisode 3, dans une soirée où Amaël tient un engagement malgré une préoccupation forte ; l'épisode 11 gagnerait à montrer une facette propre (la tentation de taire une variation pour protéger l'événement) plutôt qu'une nouvelle transmission.",
+ "verdict": "corrections_majeures"
+}

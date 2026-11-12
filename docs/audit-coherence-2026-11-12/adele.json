@@ -1,0 +1,424 @@
+{
+  "character_id": "adele",
+  "type": "clinique",
+  "auditor": "audit_c1",
+  "audited_on": "2026-11-12",
+  "persona": {
+    "age_metier_proches": "15 ans, collégienne qui dessine des motifs textiles ; ARFID connu et suivi (diététicienne, médecin) ; mère Eva ; amie Inès ; professeure Mme Roussel ; accompagnateur M. Benhamou.",
+    "arc_summary": "Adèle veut visiter un atelier de tissage lors d'un voyage scolaire avec nuitée malgré l'appréhension des repas. Elle prépare la demande d'aide (message à l'école, rendez-vous diététique, choix d'une salle), affronte une remarque sur un « régime », puis vit sur place un déjeuner possible, un dîner rendu difficile par un changement de salle, une nuit qu'elle choisit de passer au centre et un petit déjeuner pris avec l'appui. Le bilan final distingue ce que la mère et la fille retiennent et accroche le dessin né de l'ombre du métier.",
+    "arc_issues": [
+      "L'appui concret n'est jamais décrit : « l’appui convenu », « le repas prévu », « l’option », « le cadre décidé avec l’équipe » reviennent dans presque tous les épisodes sans que le lecteur sache ce qu'Adèle mange, où, ni ce que fait l'adulte. La dimension sensorielle (texture en bouche) n'est montrée qu'une fois (épisode 1).",
+      "Eva n'est presque jamais présentée comme la mère d'Adèle (épisodes 1, 3, 4, 5, 9, 12).",
+      "Trois épisodes reprennent l'effort invisible (5, 8, 11) et deux la variabilité selon les conditions (3, 9) ; plusieurs épisodes (4, 7) portent davantage sur la logistique d'accès à la salle que sur une facette du trouble.",
+      "Chronologie du diagnostic cohérente : diagnostic connu dès l'épisode 1, suivi continu, pas de contradiction factuelle relevée."
+    ]
+  },
+  "episodes": [
+    {
+      "number": 1,
+      "file": "content/posts/comprendre-et-maitriser-ses-emotions/adele-croix-a-cote-du-metier.md",
+      "focus": "Retentissement social : l'appréhension des repas en groupe menace l'inscription à une sortie qui lui plaît (déjà une sortie manquée l'an dernier)",
+      "structure": {
+        "scene": "ok",
+        "concept": "faible",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "ok",
+        "conclusion": "ok",
+        "proches": "ok"
+      },
+      "comprehension": 4,
+      "comprehension_note": "La scène de la fiche cochée, du haut-le-cœur de midi et de la demande à la professeure se suit bien ; l'enjeu (garder la croix du tissage) est net. Seuls l'aide habituelle et le prénom Eva restent flous.",
+      "issues": [
+        {
+          "severity": "mineur",
+          "type": "comprehension",
+          "quote": "La réponse attend encore un échange avec Eva et l’école.",
+          "problem": "Eva n'apparaît nulle part ailleurs dans l'épisode, qui ne parle que de « sa mère » : le lecteur ne sait pas qui est Eva.",
+          "fix": "Écrire « avec sa mère, Eva, et l’école » ou nommer Eva comme la mère dans la scène (« Depuis que l’équipe… avec sa mère, Eva »)."
+        },
+        {
+          "severity": "mineur",
+          "type": "comprehension",
+          "quote": "elle avait eu besoin de demander de l’aide à l’adulte qu’elle peut aller voir d’habitude",
+          "problem": "L'aide reçue à la cantine reste abstraite : qui est cet adulte, que fait-il concrètement ? Mme Roussel n'est pas non plus présentée comme professeure dans l'ouverture.",
+          "fix": "Préciser en une demi-phrase (« la surveillante qui lui garde une place au calme », par ex.) et présenter « Mme Roussel, sa professeure principale » à la première mention."
+        },
+        {
+          "severity": "mineur",
+          "type": "trame",
+          "quote": "Le problème se retrouve jusque sur une fiche de sortie scolaire.",
+          "problem": "La section explicative tient en quatre phrases et ne développe pas le critère de retentissement au-delà de la définition.",
+          "fix": "Ajouter deux phrases sur la différence entre « ne pas aimer un aliment » et un évitement qui coûte une activité, en reprenant la sortie manquée de l'an dernier."
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "file": "content/posts/comprendre-et-maitriser-ses-emotions/adele-la-ligne-a-effacer.md",
+      "focus": "Risque d'être pris pour un caprice et besoin de maîtriser ce qui est divulgué ; contraste entre goût des matières textiles et aversion des textures en bouche",
+      "structure": {
+        "scene": "ok",
+        "concept": "faible",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "ok",
+        "conclusion": "ok",
+        "proches": "ok"
+      },
+      "comprehension": 3,
+      "comprehension_note": "La scène du brouillon de mail est claire (Eva veut tout dire, Adèle réécrit la phrase), mais le parallèle annoncé entre étoffes et textures en bouche n'est porté que par une phrase elliptique, et le lien de parenté d'Eva n'est jamais posé dans l'ouverture.",
+      "issues": [
+        {
+          "severity": "majeur",
+          "type": "lien_concept",
+          "quote": "Ça lui arrive de refuser une couleur même après avoir vérifié qu’elle allait bien avec le reste. À table, il lui arrive de vouloir que quelque chose soit possible et de sentir pourtant un recul immédiat.",
+          "problem": "Le contraste annoncé par le résumé (aimer manipuler des matières mais pas les textures en bouche) n'est pas montré : la comparaison porte sur une couleur, pas sur une texture, et reste obscure.",
+          "fix": "Remplacer par une phrase concrète : Adèle passe le pouce sur la doublure râpeuse avec plaisir, alors qu'une purée granuleuse en bouche lui soulève le cœur ; rattacher explicitement cela à la crainte du « caprice »."
+        },
+        {
+          "severity": "mineur",
+          "type": "comprehension",
+          "quote": "« Lis ça, quand même », dit Eva.",
+          "problem": "Eva est présentée sans lien ; ce n'est qu'en fin d'article (« devant sa mère ») que l'on comprend qu'il s'agit de sa mère.",
+          "fix": "Écrire « dit Eva, sa mère » à la première mention."
+        },
+        {
+          "severity": "mineur",
+          "type": "comprehension",
+          "quote": "Eva lui dit qu’elle a surtout peur qu’on prenne ça pour un caprice et qu’on réponde comme l’an dernier.",
+          "problem": "« comme l’an dernier » renvoie à la sortie manquée de l'épisode 1 sans la rappeler : le lecteur isolé ne sait pas ce qui s'est passé.",
+          "fix": "Ajouter « quand la sortie d’un jour s’était faite sans elle »."
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "file": "content/posts/comprendre-et-maitriser-ses-emotions/adele-ne-pas-remplir-la-case.md",
+      "focus": "Variabilité selon le lieu : un repas réussi à la maison ne prédit pas les repas du séjour ; peur qu'un oui à l'atelier engage tout le séjour",
+      "structure": {
+        "scene": "ok",
+        "concept": "ok",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "ok",
+        "conclusion": "ok",
+        "proches": "ok"
+      },
+      "comprehension": 3,
+      "comprehension_note": "Le rendez-vous chez la diététicienne et la question d'Eva sont lisibles, mais le lieu (« dans le bureau ») n'est pas situé, le repas réussi à la maison n'est jamais décrit et la fin se clôt sur une transmission administrative.",
+      "issues": [
+        {
+          "severity": "majeur",
+          "type": "comprehension",
+          "quote": "À la maison, le même jour, elle avait pu prendre le repas dont elles avaient parlé avec la diététicienne.",
+          "problem": "Le repas réussi, pivot de l'épisode, reste abstrait : on ne sait ni ce qu'elle a mangé ni ce qui l'a rendu possible, donc la comparaison avec le centre ne se voit pas.",
+          "fix": "Décrire en une phrase ce qui était différent (aliment connu, cuisine silencieuse, Eva à côté, pas de regards) pour rendre visible ce qui manquera au centre."
+        },
+        {
+          "severity": "mineur",
+          "type": "comprehension",
+          "quote": "La diététicienne convient de transmettre à la famille les éléments utiles après échange avec le médecin.",
+          "problem": "Phrase procédurale qui remplace un geste ; elle n'apporte rien au lecteur sur ce qui va se passer.",
+          "fix": "Remplacer par une action : « La diététicienne note les deux questions et dit qu’elle en parlera au médecin avant vendredi. »"
+        },
+        {
+          "severity": "mineur",
+          "type": "comprehension",
+          "quote": "Elle avait demandé à Eva de lui tenir le bout de la règle pendant qu’elle marquait une ligne pour son dessin.",
+          "problem": "Détail sans lien avec le repas qui brouille le souvenir ; et Eva n'est identifiée comme la mère que par « maman » à la fin.",
+          "fix": "Supprimer ce détail ou le relier au repas ; écrire « sa mère, Eva » à la première mention."
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "file": "content/posts/comprendre-et-maitriser-ses-emotions/adele-porte-vitree.md",
+      "focus": "Environnement du repas : bruit, passages et crainte d'être observée s'ajoutent à la difficulté sensorielle",
+      "structure": {
+        "scene": "ok",
+        "concept": "ok",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "ok",
+        "conclusion": "ok",
+        "proches": "ok"
+      },
+      "comprehension": 3,
+      "comprehension_note": "La conversation téléphonique sur le plan du centre est bien construite (le bureau vitré sur le couloir le plus fréquenté), mais trois adultes interviennent et Eva n'est pas identifiée ; l'épisode tourne surtout autour de la logistique de la clé.",
+      "issues": [
+        {
+          "severity": "majeur",
+          "type": "comprehension",
+          "quote": "Eva a le stylo en main.",
+          "problem": "Eva n'est jamais présentée dans l'épisode : le lecteur ne sait pas qu'il s'agit de la mère ni pourquoi elle est au collège.",
+          "fix": "« Eva, sa mère, a le stylo en main. »"
+        },
+        {
+          "severity": "mineur",
+          "type": "lien_concept",
+          "quote": "La responsable prévoit de remettre la clé aux accompagnateurs aux heures convenues.",
+          "problem": "Une partie des manifestations et des techniques porte sur l'organisation (clé, numéro de salle) plus que sur l'effet du bruit et du regard sur la difficulté à manger.",
+          "fix": "Remplacer cet exemple par une manifestation vécue : à la cantine, un passage dans son dos suffit à lui faire reposer sa fourchette."
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "file": "content/posts/comprendre-et-maitriser-ses-emotions/adele-trois-barres-decalees.md",
+      "focus": "Effort invisible et contrecoup après un repas réussi avec l'appui prévu ; refus d'être questionnée en public",
+      "structure": {
+        "scene": "ok",
+        "concept": "ok",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "ok",
+        "conclusion": "ok",
+        "proches": "ok"
+      },
+      "comprehension": 2,
+      "comprehension_note": "La scène de la table de coupe est belle, mais le repas qui fonde l'épisode n'est raconté qu'en jargon de protocole (« l’appui convenu », « le cadre décidé avec l’équipe ») : on ne sait pas ce qui s'est passé à midi.",
+      "issues": [
+        {
+          "severity": "majeur",
+          "type": "comprehension",
+          "quote": "La diététicienne avait repris les modalités avec le médecin ; Eva, Adèle et le collège avaient convenu de vérifier sur un jour ordinaire comment Adèle pouvait joindre un adulte sans devoir s’expliquer dans la file. À midi, elle avait demandé l’appui convenu. Mme Roussel l’avait rejointe, et le repas prévu avait pu se prendre dans le cadre décidé avec l’équipe.",
+          "problem": "Phrases procédurales qui remplacent l'action : le lecteur ignore quel est cet appui (une salle ? un plat apporté ? un adulte à côté ?) et ce qu'Adèle a vécu à table.",
+          "fix": "Raconter le midi en trois gestes concrets : le signe convenu à la file, la salle ou la table où elle s'assoit avec Mme Roussel, ce qu'elle parvient à manger et ce qui reste dur."
+        },
+        {
+          "severity": "mineur",
+          "type": "comprehension",
+          "quote": "Mme Roussel sort la fiche déjà signée par Eva",
+          "problem": "Eva n'est pas identifiée comme la mère dans cet épisode.",
+          "fix": "« signée par Eva, sa mère, »"
+        },
+        {
+          "severity": "mineur",
+          "type": "repetition",
+          "quote": "Ce que les autres voient ne rend pas compte de l’effort pour demander une aide ou de la fatigue qui suit.",
+          "problem": "La facette « effort que les autres ne voient pas » revient aux épisodes 8 et 11 avec des formulations proches.",
+          "fix": "Centrer cet épisode sur le contrecoup physique après le repas (l'arrêt dans le couloir) et réserver « l'effort invisible aux autres » à l'épisode 11."
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "file": "content/posts/comprendre-et-maitriser-ses-emotions/adele-bruit-des-pedales.md",
+      "focus": "Diagnostic différentiel : la restriction de l'ARFID n'est pas motivée par le poids ou la silhouette, contrairement à ce que suppose un camarade (« régime »)",
+      "structure": {
+        "scene": "ok",
+        "concept": "ok",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "ok",
+        "conclusion": "ok",
+        "proches": "ok"
+      },
+      "comprehension": 4,
+      "comprehension_note": "Scène vive et lisible : la remarque du garçon sur le « régime », le refus d'Adèle de se justifier, le relais de la professeure et le retour au projet sonore avec Inès. Facette clinique distincte et bien reliée.",
+      "issues": [
+        {
+          "severity": "mineur",
+          "type": "comprehension",
+          "quote": "Elle pourrait dire le nom que lui a donné l’équipe qui la suit",
+          "problem": "Formulation contournée : le lecteur isolé ne sait pas encore à ce stade de l'article de quel trouble il s'agit.",
+          "fix": "« Elle pourrait dire “ARFID”, le nom que lui a donné l’équipe qui la suit, »"
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "file": "content/posts/comprendre-et-maitriser-ses-emotions/adele-deux-portes-sur-le-palier.md",
+      "focus": "Anxiété anticipatoire à l'arrivée dans un lieu inconnu : la question du repas capte l'attention avant l'activité désirée",
+      "structure": {
+        "scene": "ok",
+        "concept": "ok",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "ok",
+        "conclusion": "ok",
+        "proches": "ok"
+      },
+      "comprehension": 4,
+      "comprehension_note": "L'arrivée en car, les deux portes semblables et le repère du palier rendent concrète l'appréhension ; la fin (Adèle rejoint Inès) résout la scène. M. Benhamou n'est pas présenté.",
+      "issues": [
+        {
+          "severity": "mineur",
+          "type": "comprehension",
+          "quote": "Mme Roussel ouvre la salle réservée et en montre la clé à M. Benhamou.",
+          "problem": "M. Benhamou n'est pas présenté dans l'épisode.",
+          "fix": "« à M. Benhamou, l’autre accompagnateur du voyage »."
+        },
+        {
+          "severity": "mineur",
+          "type": "continuite",
+          "quote": "où dépasse le plan plié du collège",
+          "problem": "Le plan en question est celui du centre annoté au collège (épisode 4) ; « plan du collège » prête à confusion.",
+          "fix": "« le plan du centre annoté au collège »."
+        },
+        {
+          "severity": "mineur",
+          "type": "repetition",
+          "quote": "L’inquiétude concurrence ce qu’on veut découvrir",
+          "problem": "La sous-partie « L’inquiétude concurrence ce qu’on veut découvrir » reprend le mécanisme de l'épisode 1 (« La question du repas arrive avant l’activité »).",
+          "fix": "Recentrer les exemples sur ce qui est propre à l'arrivée : l'attention captée au point de ne plus écouter les consignes de la responsable."
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "file": "content/posts/comprendre-et-maitriser-ses-emotions/adele-barre-qui-manque.md",
+      "focus": "Charge attentionnelle du repas : surveiller le cadre fait perdre le fil de la conversation avec Inès",
+      "structure": {
+        "scene": "ok",
+        "concept": "ok",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "faible",
+        "conclusion": "ok",
+        "proches": "ok"
+      },
+      "comprehension": 3,
+      "comprehension_note": "Le déjeuner (histoire du chauffeur perdue puis reprise) est clair mais tenu en un paragraphe au plus-que-parfait ; tout le reste de la scène et le retour portent sur l'ombre dans l'atelier, qui n'a pas de lien avec la facette.",
+      "issues": [
+        {
+          "severity": "majeur",
+          "type": "lien_concept",
+          "quote": "Adèle retourne la bande blanche et trace les deux montants. À la place du troisième, elle dessine une barre qui s’arrête un peu avant le bord.",
+          "problem": "Le retour à la scène ne revient pas sur le repas ni sur l'attention partagée : il conclut l'histoire de l'ombre. La décision liée à la facette manque.",
+          "fix": "Ajouter dans le retour un geste lié au repas : Adèle dit à Inès qu'au dîner elle aimerait qu'elle lui raconte les histoires après, ou choisit une place dos au mur ; garder l'ombre comme écho."
+        },
+        {
+          "severity": "mineur",
+          "type": "comprehension",
+          "quote": "L’arrangement convenu était disponible et Mme Roussel n’a pas posé de question devant le groupe.",
+          "problem": "« L’arrangement convenu » reste abstrait.",
+          "fix": "Dire en quelques mots ce qu'est l'arrangement (place en bout de table, plat prévu, adulte à proximité)."
+        },
+        {
+          "severity": "mineur",
+          "type": "repetition",
+          "quote": "Le repas peut être possible avec les appuis prévus et la conversation demander encore un effort.",
+          "problem": "L'explication (et le résumé de la fiche) reprend l'idée d'effort qui échappe aux autres, déjà centrale aux épisodes 5 et 11.",
+          "fix": "Formuler en termes d'attention : « le repas occupe une part de l’attention qui manque ensuite à la conversation »."
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "file": "content/posts/comprendre-et-maitriser-ses-emotions/adele-les-chaises-ajoutees.md",
+      "focus": "Retour des difficultés le même jour quand la disposition du réfectoire change",
+      "structure": {
+        "scene": "ok",
+        "concept": "ok",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "ok",
+        "conclusion": "ok",
+        "proches": "ok"
+      },
+      "comprehension": 4,
+      "comprehension_note": "La table ajoutée après la fuite du radiateur, la tension à la porte et le recul vers M. Benhamou forment une scène concrète et compréhensible ; la décision (petite salle, appel à Eva) est claire.",
+      "issues": [
+        {
+          "severity": "majeur",
+          "type": "repetition",
+          "quote": "Dans l’ARFID, des difficultés peuvent revenir quand les conditions changent, même après un repas possible dans le même lieu.",
+          "problem": "Même facette que l'épisode 3 (« Les difficultés liées à l’ARFID peuvent varier selon les aliments, les lieux et les conditions du repas »).",
+          "fix": "Différencier explicitement : l'épisode 3 compare deux lieux, celui-ci montre la sensibilité au changement imprévu et la tension qui surgit dès la porte ; reformuler la section explicative autour de l'imprévisibilité et de l'anticipation."
+        },
+        {
+          "severity": "mineur",
+          "type": "comprehension",
+          "quote": "Après le dîner dans la petite salle, elle demande à Mme Roussel de joindre Eva",
+          "problem": "Eva n'est pas identifiée comme la mère dans cet épisode.",
+          "fix": "« de joindre sa mère, Eva, »"
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "file": "content/posts/comprendre-et-maitriser-ses-emotions/adele-lampe-au-dessus-du-lit.md",
+      "focus": "Retentissement au-delà du repas : la crainte du petit déjeuner pèse sur la décision de dormir au centre",
+      "structure": {
+        "scene": "ok",
+        "concept": "ok",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "ok",
+        "conclusion": "ok",
+        "proches": "ok"
+      },
+      "comprehension": 4,
+      "comprehension_note": "L'appel à la mère au bout du couloir, le volet qui claque chez elle et la question précise sur le petit déjeuner rendent la décision très lisible ; la fin (rester, sommeil interrompu) nuance sans flou.",
+      "issues": []
+    },
+    {
+      "number": 11,
+      "file": "content/posts/comprendre-et-maitriser-ses-emotions/adele-ce-que-la-bande-montre.md",
+      "focus": "Participation sociale possible alors que les repas exigent encore un appui ; demander l'aide d'emblée",
+      "structure": {
+        "scene": "ok",
+        "concept": "ok",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "ok",
+        "conclusion": "ok",
+        "proches": "ok"
+      },
+      "comprehension": 4,
+      "comprehension_note": "Le petit déjeuner dans la petite salle puis la présentation avec Inès sont clairs ; le choix de demander l'aide sans retenter le réfectoire est un vrai changement par rapport au dîner.",
+      "issues": [
+        {
+          "severity": "majeur",
+          "type": "repetition",
+          "quote": "L’effort fourni ne devient pas pour autant visible aux camarades.",
+          "problem": "Troisième reprise de l'effort invisible (épisodes 5 et 8).",
+          "fix": "Centrer l'explication sur l'apprentissage du recours anticipé à l'appui (demander avant d'échouer), qui est l'élément nouveau de la scène."
+        },
+        {
+          "severity": "mineur",
+          "type": "comprehension",
+          "quote": "D’autres groupes viendront bientôt montrer ce qu’ils ont fait ; elles auront le temps d’un seul extrait.",
+          "problem": "On ne sait pas clairement que la restitution a lieu au centre, le matin du départ, alors que l'épisode 6 la situait après le voyage.",
+          "fix": "Préciser « la restitution de fin de séjour, avant le car »."
+        }
+      ]
+    },
+    {
+      "number": 12,
+      "file": "content/posts/comprendre-et-maitriser-ses-emotions/adele-un-tirage-pour-la-vitre.md",
+      "focus": "Évolution et suivi : une sortie réussie ne résume pas l'évolution ; les souvenirs de la mère et d'Adèle diffèrent",
+      "structure": {
+        "scene": "ok",
+        "concept": "ok",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "ok",
+        "conclusion": "ok",
+        "proches": "ok"
+      },
+      "comprehension": 4,
+      "comprehension_note": "Le bilan chez la diététicienne et l'accrochage de la vitrine ferment bien la série (veste bleue, « Vu du bout de la ligne ») ; seuls Eva et les deux cartons restent un peu flous.",
+      "issues": [
+        {
+          "severity": "mineur",
+          "type": "comprehension",
+          "quote": "Eva arrive avec le carton qui protégera le tirage",
+          "problem": "Eva n'est pas présentée comme la mère ; un second carton préparé par Inès apparaît deux lignes plus loin.",
+          "fix": "« Eva, sa mère, arrive avec un carton à dessin… » et appeler l'autre objet « le cartel » ou « l'étiquette »."
+        },
+        {
+          "severity": "mineur",
+          "type": "clinique",
+          "quote": "Le suivi de l’ARFID tient compte de la santé et des conséquences dans plusieurs situations au fil du temps.",
+          "problem": "Le résumé de la fiche annonce que l’ARFID peut persister à l’âge adulte, mais l'article ne le dit pas ; l'explication reste très générale.",
+          "fix": "Ajouter dans la section explicative une phrase sourcée sur l'évolution possible à long terme et la nécessité d'un suivi au-delà de l'adolescence."
+        }
+      ]
+    }
+  ],
+  "missing_or_extra": "Douze épisodes, aucun manquant ni surnuméraire. Pour réduire les répétitions, l'épisode 5 ou l'épisode 11 pourrait être réorienté vers une facette absente : la dimension sensorielle elle-même (texture, odeur, haut-le-cœur, nombre restreint d'aliments acceptés) ou le retentissement nutritionnel et la surveillance de santé par l'équipe.",
+  "verdict": "corrections_majeures"
+}

@@ -1,0 +1,163 @@
+{
+  "character_id": "aubin",
+  "type": "clinique",
+  "auditor": "audit_c3",
+  "audited_on": "2026-11-12",
+  "persona": {
+    "age_metier_proches": "Aubin, 12 ans, collégien, peint les nuages du décor du spectacle scolaire. Pica déjà diagnostiqué et évalué avant la série. Entourage : Mme Legrand (enseignante qui dirige le décor puis les acteurs), Inès (camarade de décor), Camille (son parent, jamais présenté comme tel dans les articles ; masculin en ép. 9), une médecin sans nom, un adulte de remplacement sans nom (ép. 10-12).",
+    "arc_summary": "Aubin découvre que connaître la règle ne suffit pas à interrompre l'envie, puis obtient un signal discret (« entracte ») et sépare ce que les adultes doivent savoir de ce que le groupe n'a pas à connaître. Après une consultation sur les carences, un poste adapté, une difficulté pendant le séchage et un malentendu avec Inès, il traverse une recrudescence puis signale une ingestion possible à Camille, qui appelle le centre antipoison. La reprise est coordonnée avec un adulte de remplacement, il termine la retouche, et le ciel gris perle est vu sur scène sans que la soirée soit présentée comme une guérison.",
+    "arc_issues": [
+      "Camille n'est jamais présenté : aucun épisode ne dit qu'il est le parent (père) d'Aubin ; le lecteur d'un épisode isolé ne sait pas qui il est. Le genre n'apparaît qu'en ép. 9 (« Il reste auprès de lui »).",
+      "Le symptôme central reste invisible sur douze épisodes : « l'envie » n'est jamais rattachée, même en termes génériques, au fait d'avoir envie d'avaler ou de mâcher quelque chose qui n'est pas de la nourriture. La prudence de la charte (pas de pratiques dangereuses) n'interdit pas une formule générale ; sans elle, un lecteur non averti ne comprend pas ce qui interrompt Aubin.",
+      "La série penche fortement vers l'organisation adulte (ép. 2, 4, 7, 10, 11 : discrétion, préparation des lieux, relais, remplacement) ; plusieurs explications se ressemblent et la facette propre au trouble s'efface derrière la procédure.",
+      "L'ingestion possible de l'ép. 9 n'est ni située (à l'atelier ? à la maison ?) ni reprise concrètement en ép. 10, alors que la charte demande d'en reprendre les conséquences dans la scène suivante.",
+      "La fiche parle du « théâtre de l'école » pour un collégien ; détail mineur (« collège » serait plus juste)."
+    ]
+  },
+  "episodes": [
+    {
+      "number": 1,
+      "file": "content/posts/comprendre-et-maitriser-ses-emotions/aubin-envie-et-comprehension.md",
+      "focus": "Décalage entre la connaissance de la règle et la capacité d'interrompre l'envie ; demande d'aide qui coûte une place dans le projet",
+      "structure": {"scene": "ok", "concept": "ok", "manifestations": "ok", "techniques": "ok", "retour": "ok", "conclusion": "ok", "proches": "ok"},
+      "comprehension": 3,
+      "comprehension_note": "La scène du gris « couverture » et la peur de perdre les nuages sont nettes, mais le lecteur ne sait pas ce que veut faire Aubin quand « l'envie » arrive, et Camille surgit au dernier paragraphe sans identité.",
+      "issues": [
+        {"severity": "majeur", "type": "comprehension", "quote": "L’envie prend trop de place pour qu’il continue à décider de la couleur.", "problem": "Rien ne dit en quoi consiste l'envie ; un lecteur qui ne connaît pas le pica ne comprend pas pourquoi Aubin quitte son mélange.", "fix": "Ajouter une phrase générique sans objet ni geste précis, par exemple : « Ce qui l'occupe, c'est l'envie de porter à la bouche quelque chose qui n'est pas de la nourriture. »"},
+        {"severity": "majeur", "type": "comprehension", "quote": "L’enseignante propose que Camille vienne en parler avant le prochain atelier", "problem": "Camille n'est pas présenté ; on ne sait pas s'il s'agit d'un parent, d'un soignant ou d'un élève.", "fix": "Écrire « que Camille, le père d'Aubin, vienne en parler » (et garder cette apposition à la première mention dans chaque épisode)."},
+        {"severity": "mineur", "type": "comprehension", "quote": "Mme Legrand sait qu’Aubin a un pica", "problem": "Le rôle de Mme Legrand (enseignante responsable du décor) n'est donné qu'à la fin de la scène.", "fix": "« Mme Legrand, l'enseignante qui encadre le décor, sait qu'Aubin a un pica »."},
+        {"severity": "mineur", "type": "comprehension", "quote": "à condition de pouvoir montrer aussi son carnet des choix", "problem": "Le « carnet des choix » apparaît sans avoir été montré dans la scène.", "fix": "Le faire apparaître dès l'ouverture (« son carnet où il note les gris essayés ») ."}
+      ]
+    },
+    {
+      "number": 2,
+      "file": "content/posts/comprendre-et-maitriser-ses-emotions/aubin-honte-et-aide-discrete.md",
+      "focus": "Retentissement social : honte des questions posées devant le groupe et tentation de renoncer au projet",
+      "structure": {"scene": "ok", "concept": "ok", "manifestations": "ok", "techniques": "ok", "retour": "ok", "conclusion": "ok", "proches": "ok"},
+      "comprehension": 3,
+      "comprehension_note": "La gêne d'Aubin (carnet fermé, « oui » réflexe, proposition de céder les nuages à Inès) est très lisible ; en revanche Camille et les adultes qui interrogent restent indéterminés.",
+      "issues": [
+        {"severity": "majeur", "type": "comprehension", "quote": "Camille arrive avec quelques minutes d’avance.", "problem": "Le lecteur arrivant sur cet épisode ne sait pas qui est Camille ni pourquoi il vient à l'atelier.", "fix": "« Camille, son père, arrive avec quelques minutes d'avance pour le rendez-vous avec Mme Legrand. »"},
+        {"severity": "mineur", "type": "comprehension", "quote": "Un autre ajoute une question sur la dernière séance.", "problem": "« La dernière séance » peut désigner l'atelier ou une consultation ; l'ambiguïté brouille ce qui gêne Aubin.", "fix": "Préciser « une question sur ce qui s'était passé à l'atelier précédent »."}
+      ]
+    },
+    {
+      "number": 3,
+      "file": "content/posts/comprendre-et-maitriser-ses-emotions/aubin-carences-et-bilan.md",
+      "focus": "Place des carences dans l'évaluation : le pica n'est pas automatiquement un manque nutritionnel",
+      "structure": {"scene": "ok", "concept": "ok", "manifestations": "ok", "techniques": "ok", "retour": "faible", "conclusion": "ok", "proches": "ok"},
+      "comprehension": 3,
+      "comprehension_note": "La question de Camille sur les repas est claire, mais la réponse de la médecin reste une généralité et le lecteur ne sait pas ce qui est décidé pour Aubin.",
+      "issues": [
+        {"severity": "majeur", "type": "lien_concept", "quote": "Elle explique qu’une carence et un pica ne sont pas des mots interchangeables et que le raisonnement dépend de la situation évaluée.", "problem": "La question centrale (changer les repas réglerait-il tout ?) n'obtient pas de réponse compréhensible ; la scène illustre l'abstraction plutôt que la facette.", "fix": "Donner une réponse en mots simples, sans résultat biologique : « Pour Aubin, le bilan fait au début a déjà été discuté ; changer les repas à la maison ne remplacera pas le suivi. Si quelque chose doit être revérifié, c'est moi qui le proposerai. »"},
+        {"severity": "majeur", "type": "comprehension", "quote": "Ce n’est pas le rendez-vous qui lui a donné envie de partir. C’est d’avoir eu l’impression que son suivi devenait une conversation de toute la salle.", "problem": "« Partir » est ambigu (quitter la consultation ? le décor ?) et la phrase oppose deux choses que le lecteur n'avait pas reliées.", "fix": "« Ce n'est pas le pica qui lui a donné envie de quitter le décor, c'est d'avoir entendu son suivi discuté devant toute la salle. »"},
+        {"severity": "mineur", "type": "comprehension", "quote": "Il voudrait une réponse courte : pourra-t-il terminer les nuages ?", "problem": "Cette question n'est jamais posée explicitement ni tranchée dans la scène finale.", "fix": "Faire répondre la médecin dans le retour : « Oui, avec l'aide prévue à l'atelier. »"}
+      ]
+    },
+    {
+      "number": 4,
+      "file": "content/posts/comprendre-et-maitriser-ses-emotions/aubin-materiel-adapte-et-risque.md",
+      "focus": "Prévention par l'aménagement : un matériel adapté n'est pas un risque nul",
+      "structure": {"scene": "ok", "concept": "ok", "manifestations": "ok", "techniques": "ok", "retour": "ok", "conclusion": "ok", "proches": "ok"},
+      "comprehension": 4,
+      "comprehension_note": "La question « adapté veut dire que je ne risque plus rien ? » rend la facette concrète, et le choix de la place qui donne sur Inès donne un vrai enjeu à l'enfant.",
+      "issues": [
+        {"severity": "mineur", "type": "comprehension", "quote": "certaines opérations seront faites par les adultes", "problem": "On ne sait pas quelles opérations ; le partage des rôles reste flou.", "fix": "Nommer une opération neutre : « ce sont les adultes qui prépareront et rangeront les pots »."}
+      ]
+    },
+    {
+      "number": 5,
+      "file": "content/posts/comprendre-et-maitriser-ses-emotions/aubin-envie-pendant-attente.md",
+      "focus": "Variabilité des difficultés au cours d'une séance (temps de séchage), sans en faire une cause",
+      "structure": {"scene": "ok", "concept": "ok", "manifestations": "ok", "techniques": "ok", "retour": "ok", "conclusion": "ok", "proches": "ok"},
+      "comprehension": 4,
+      "comprehension_note": "Le contraste entre l'aisance du début et le séchage où « son nuage n'a besoin de rien » est bien montré ; la dictée des ombres et le nuage déplacé par Inès forment une fin claire qui ouvre l'épisode suivant.",
+      "issues": [
+        {"severity": "mineur", "type": "comprehension", "quote": "L’envie prend de nouveau de la place et il dit « entracte » à Mme Legrand.", "problem": "Même absence de description générique de l'envie qu'en ép. 1.", "fix": "Réutiliser la formule générique adoptée en ép. 1."}
+      ]
+    },
+    {
+      "number": 6,
+      "file": "content/posts/comprendre-et-maitriser-ses-emotions/aubin-pause-et-cooperation.md",
+      "focus": "Retentissement sur la coopération : une pause mal comprise par une camarade",
+      "structure": {"scene": "ok", "concept": "ok", "manifestations": "ok", "techniques": "ok", "retour": "ok", "conclusion": "ok", "proches": "ok"},
+      "comprehension": 5,
+      "comprehension_note": "Épisode le plus limpide : le nuage abaissé, la réplique « je sers à quoi ? », l'intention d'Inès (le retard) et l'accord sur la partie haute sont concrets et compréhensibles seuls.",
+      "issues": []
+    },
+    {
+      "number": 7,
+      "file": "content/posts/comprendre-et-maitriser-ses-emotions/aubin-nouvel-environnement.md",
+      "focus": "Préparation d'un nouveau lieu (salle de spectacle) : la protection ne se transfère pas d'un espace à l'autre",
+      "structure": {"scene": "ok", "concept": "ok", "manifestations": "ok", "techniques": "ok", "retour": "ok", "conclusion": "ok", "proches": "ok"},
+      "comprehension": 4,
+      "comprehension_note": "L'attente devant la porte et la question « est-ce que j'ai fait quelque chose de travers ? » sont claires ; le nuage presque blanc sous les projecteurs donne une conséquence concrète.",
+      "issues": [
+        {"severity": "mineur", "type": "clinique", "quote": "Une petite étude portant sur trois familles avec des troubles neurodéveloppementaux soutient l’intérêt d’une vérification adulte des nouveaux lieux", "problem": "La mention d'une population (troubles neurodéveloppementaux) qui ne correspond pas à Aubin peut faire croire qu'il en a un ; la phrase alourdit l'explication.", "fix": "Reformuler : « Les recommandations insistent sur la vérification des lieux par les adultes ; les données restent limitées. »"}
+      ]
+    },
+    {
+      "number": 8,
+      "file": "content/posts/comprendre-et-maitriser-ses-emotions/aubin-recrudescence-sans-faute.md",
+      "focus": "Recrudescence d'un jour à l'autre et découragement (« ça n'a servi à rien »)",
+      "structure": {"scene": "ok", "concept": "ok", "manifestations": "ok", "techniques": "ok", "retour": "ok", "conclusion": "ok", "proches": "ok"},
+      "comprehension": 4,
+      "comprehension_note": "Le lendemain de la visite réussie, l'arrêt avant la retouche et la phrase « alors ça n'a servi à rien » rendent la facette sensible ; la dernière phrase est en revanche cryptique.",
+      "issues": [
+        {"severity": "mineur", "type": "repetition", "quote": "Une variation de l’intensité ou de la présence des difficultés est compatible avec le pica", "problem": "L'explication reprend presque celle de l'ép. 5 (« L’évolution du pica peut être variable »), avec la même mécanique de scène (entracte, espace préparé, comparaison avec un moment meilleur).", "fix": "Centrer l'explication sur ce qui est propre ici : une intensité plus forte sur plusieurs jours, à signaler à la médecin, et le risque de découragement ; renvoyer la variation intra-séance à l'ép. 5."},
+        {"severity": "mineur", "type": "comprehension", "quote": "Chez lui, cette conversation devra aussi laisser une place à une incertitude qu’il n’a pas encore formulée.", "problem": "Teaser opaque : le lecteur ne sait pas de quelle incertitude il s'agit.", "fix": "Supprimer ou rendre concret : « Il n'a pas dit à Mme Legrand qu'il n'était pas sûr de ce qui s'était passé juste avant l'entracte. »"}
+      ]
+    },
+    {
+      "number": 9,
+      "file": "content/posts/comprendre-et-maitriser-ses-emotions/aubin-signaler-ingestion-possible.md",
+      "focus": "Signalement d'une ingestion possible malgré l'incertitude ; appel immédiat au centre antipoison",
+      "structure": {"scene": "ok", "concept": "ok", "manifestations": "ok", "techniques": "ok", "retour": "faible", "conclusion": "ok", "proches": "ok"},
+      "comprehension": 2,
+      "comprehension_note": "Le réflexe de Camille (appeler sans attendre de certitude) est juste et clair, mais on ignore où et quand l'ingestion possible a eu lieu, et le dénouement est décrit en termes procéduraux qui ne disent pas ce qui s'est passé ensuite.",
+      "issues": [
+        {"severity": "majeur", "type": "comprehension", "quote": "« Je ne suis pas sûr de ce qui s’est passé plus tôt. Peut-être que j’ai avalé quelque chose. »", "problem": "« Plus tôt » n'est pas situé : à l'atelier (où des adultes étaient censés être disponibles) ou ailleurs ? Le lecteur ne peut pas comprendre l'enjeu de coordination de l'ép. 10.", "fix": "Situer sans détailler la substance : « plus tôt, à l'atelier, pendant la séance où il avait dû s'arrêter »."},
+        {"severity": "majeur", "type": "comprehension", "quote": "Le conseil médical est obtenu et Camille applique les consignes reçues, puis organise le suivi demandé. Le récit ne permet pas d’en déduire un produit, un examen ou un pronostic.", "problem": "Fin procédurale et méta-narrative : on ne sait pas si Aubin est resté à la maison, a été vu par un médecin, ni comment il va ; la seconde phrase parle du récit au lieu de raconter.", "fix": "Montrer une suite concrète, non prescriptive : « Le centre antipoison leur demande de passer aux urgences pédiatriques pour être examiné. Le soir, Aubin rentre ; un rendez-vous de contrôle est fixé avec sa médecin. » Supprimer la phrase sur ce que « le récit ne permet pas »."},
+        {"severity": "mineur", "type": "continuite", "quote": "Il reste auprès de lui et explique ce qu’il sait", "problem": "Première indication du genre de Camille, toujours sans lien de parenté explicite.", "fix": "« Camille, son père, prend immédiatement son téléphone… »"}
+      ]
+    },
+    {
+      "number": 10,
+      "file": "content/posts/comprendre-et-maitriser-ses-emotions/aubin-coordination-apres-alerte.md",
+      "focus": "Coordination de la reprise après l'alerte : consignes, partage limité de l'information, adulte de remplacement",
+      "structure": {"scene": "faible", "concept": "ok", "manifestations": "ok", "techniques": "ok", "retour": "faible", "conclusion": "ok", "proches": "ok"},
+      "comprehension": 3,
+      "comprehension_note": "La plaisanterie sur le nuage qui n'a pas « changé de couleur tout seul » et la découverte que Mme Legrand sera prise par les acteurs donnent un vrai problème, mais l'ouverture et le dénouement sont rédigés comme un compte rendu administratif.",
+      "issues": [
+        {"severity": "majeur", "type": "comprehension", "quote": "Avec les interlocuteurs compétents, une modalité de reprise est convenue selon les consignes reçues.", "problem": "Phrase procédurale abstraite à la place d'une décision : qui décide quoi, et quand Aubin reprend-il ?", "fix": "« Mme Legrand, Camille et Aubin fixent la retouche au jeudi suivant, comme l'a accepté la médecin. »"},
+        {"severity": "majeur", "type": "continuite", "quote": "Le relais médical a eu lieu et Camille a suivi les consignes reçues.", "problem": "L'ouverture ne reprend rien de concret de l'alerte (lieu, ce qui a été fait, état d'Aubin) ; si l'ingestion possible a eu lieu à l'atelier, la réunion devrait en tirer une conséquence pour l'organisation.", "fix": "Ouvrir sur un fait : « Deux jours après l'appel au centre antipoison et le passage chez la médecin… » et faire dire à Mme Legrand ce qui change à l'atelier."},
+        {"severity": "mineur", "type": "comprehension", "quote": "Mme Legrand identifie l’adulte qui pourra prendre le relais pendant qu’elle dirigera les acteurs", "problem": "L'adulte de remplacement, qui devient central aux ép. 11-12, n'a ni nom ni fonction.", "fix": "Le nommer : « M. Royer, le surveillant qui aide aux répétitions »."}
+      ]
+    },
+    {
+      "number": 11,
+      "file": "content/posts/comprendre-et-maitriser-ses-emotions/aubin-autonomie-et-appui.md",
+      "focus": "Autonomie soutenue : utiliser seul le signal auprès d'un relais, limiter son récit au groupe",
+      "structure": {"scene": "ok", "concept": "ok", "manifestations": "ok", "techniques": "ok", "retour": "ok", "conclusion": "ok", "proches": "ok"},
+      "comprehension": 4,
+      "comprehension_note": "Le geste d'Aubin qui va vers le relais plutôt que vers Mme Legrand, et l'acteur qui se trompe de côté (« l'interruption que tout le monde commente ne le concerne pas ») rendent l'autonomie visible.",
+      "issues": [
+        {"severity": "mineur", "type": "comprehension", "quote": "Il est venu pour la retouche, dans les conditions convenues après le relais médical et la réunion de reprise. L’adulte de remplacement est là", "problem": "Formulation procédurale et personnage anonyme.", "fix": "« Il est venu pour la retouche. M. Royer est assis près de la porte de l'atelier, comme prévu. »"},
+        {"severity": "mineur", "type": "repetition", "quote": "Personne n’annonce à la salle qu’Aubin a encore besoin d’aide.", "problem": "L'enjeu de discrétion reprend largement l'ép. 2.", "fix": "Garder l'accent sur l'initiative d'Aubin (choisir à qui s'adresser, refuser de raconter) plutôt que sur la discrétion elle-même."}
+      ]
+    },
+    {
+      "number": 12,
+      "file": "content/posts/comprendre-et-maitriser-ses-emotions/aubin-participation-durable.md",
+      "focus": "Réussite du projet distincte de l'évolution clinique ; maintien des appuis après le spectacle",
+      "structure": {"scene": "ok", "concept": "ok", "manifestations": "ok", "techniques": "ok", "retour": "ok", "conclusion": "ok", "proches": "ok"},
+      "comprehension": 4,
+      "comprehension_note": "Le ciel allumé, la « montagne » d'Inès devenue nuage et le paysage noté pour un prochain projet ferment l'arc avec une vraie résolution et une perspective.",
+      "issues": [
+        {"severity": "mineur", "type": "comprehension", "quote": "Les adultes disponibles ont été identifiés avant la représentation.", "problem": "Phrase passive et procédurale dans la scène.", "fix": "« M. Royer est assis au bout du rang, comme convenu. »"}
+      ]
+    }
+  ],
+  "missing_or_extra": "Parcours complet (12 épisodes), aucun manquant ni surnuméraire. Pas de fusion nécessaire ; en revanche, différencier davantage ép. 5 et ép. 8 (variation intra-séance contre aggravation sur plusieurs jours) et ép. 2 et ép. 11 (discrétion contre initiative).",
+  "verdict": "corrections_majeures"
+}
