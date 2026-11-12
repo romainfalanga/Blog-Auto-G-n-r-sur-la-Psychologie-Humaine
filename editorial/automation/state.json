@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "revision": 994,
+  "revision": 997,
   "created_at": "2026-11-07T14:47:42Z",
   "cases": {
     "mathis": {
@@ -128206,8 +128206,8 @@
       "snapshot_sha256": "88bcf52a2eed24fd23b562e66286f109ac6b07df283d1bf48fd6c89350389c27",
       "status": "active",
       "token_sha256": "b63f7989e293cec2e689ace05bb846ed175280099fdde9f316d0d49f9198ad7f",
-      "heartbeat_at": "2026-11-12T10:45:28Z",
-      "expires_at": "2026-11-12T11:45:28Z",
+      "heartbeat_at": "2026-11-12T10:46:21Z",
+      "expires_at": "2026-11-12T11:46:21Z",
       "checkpoints": [
         {
           "at": "2026-11-12T10:45:28Z",
@@ -128217,6 +128217,20 @@
           "observed": {
             "manuscript_sha256": "99f56046fef223db5a44a108745146283e47ab54470090aebf698371ea976e3f",
             "episodes_present": 1,
+            "manuscript_readable": true,
+            "design_sha256": "e984738bc0f951beda59459e2b46d1406e0699c039dd1440a8d622f8444b7399",
+            "dossier_sha256": "0dca27fa55e4452b0c667a225dcc8e2648f34b3eedda8e07d41e768724673269",
+            "review_sha256": null
+          }
+        },
+        {
+          "at": "2026-11-12T10:46:20Z",
+          "outputs": {
+            "editorial/clinical/oumar.json": "42cb8af163485b05b29fb096311409f061c10f9cc6b02fba13de6f99d7d44c1b"
+          },
+          "observed": {
+            "manuscript_sha256": "42cb8af163485b05b29fb096311409f061c10f9cc6b02fba13de6f99d7d44c1b",
+            "episodes_present": 2,
             "manuscript_readable": true,
             "design_sha256": "e984738bc0f951beda59459e2b46d1406e0699c039dd1440a8d622f8444b7399",
             "dossier_sha256": "0dca27fa55e4452b0c667a225dcc8e2648f34b3eedda8e07d41e768724673269",
@@ -136751,5 +136765,5 @@
       "expires_at": "2026-11-12T11:46:07Z"
     }
   },
-  "updated_at": "2026-11-12T10:46:07Z"
+  "updated_at": "2026-11-12T10:46:27Z"
 }

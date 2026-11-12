@@ -114,6 +114,112 @@
       },
       "number": 1,
       "diagnostic_stage": "known"
+    },
+    {
+      "slug": "oumar-troubles-persistent-apres-arret-alcool",
+      "title": "Des troubles qui persistent longtemps après l’arrêt de l’alcool",
+      "description": "Jean-Paul croyait que « ça partirait avec l’alcool ». À la consultation mémoire, Oumar entend pourquoi ses difficultés durent trois ans après l’arrêt.",
+      "context": "un mardi de mars à la consultation mémoire",
+      "topics": [
+        "persistance des troubles",
+        "cause établie par l’équipe",
+        "questions d’un ami"
+      ],
+      "clinical_focus": "Des troubles qui persistent longtemps après l’arrêt",
+      "clinical_intro": "Une démence due à une substance ne se confond pas avec une ivresse ni avec les effets passagers de l’arrêt : les troubles durent bien au-delà de ces périodes. Chez Oumar, l’équipe a établi ce lien il y a deux ans, après une hospitalisation, à partir de son histoire et des examens. Ne plus boire depuis trois ans n’efface pas des difficultés devenues durables, et personne ne peut lui promettre leur disparition.",
+      "opening": "Le dimanche, Jean-Paul Le Goff, son ami de trente ans et ancien voisin de parcelle à la Crapaudine, est venu voir le banc. Il a regardé les deux lattes entamées, le carnet aux trois mots, et il a posé la question qu’il retient depuis longtemps : « Tu ne bois plus depuis trois ans. Pourquoi c’est toujours aussi dur, les comptes, les plans ? » Oumar n’a pas su répondre autrement que par une image de jardinier, alors il lui a proposé de venir au rendez-vous déjà prévu le mardi.\n\nDans la salle d’attente de la consultation mémoire, à l’hôpital, Jean-Paul tient sa casquette sur ses genoux. Quand la docteure Claire Morvan, la gériatre qui suit Oumar depuis deux ans, les reçoit, Oumar dit d’emblée qu’il a invité Jean-Paul et qu’elle peut parler devant lui. La docteure note cet accord dans le dossier.\n\nJean-Paul se lance, les yeux sur la casquette. « Je croyais que ça partirait avec l’alcool. Qu’il fallait juste du temps. » Il ajoute qu’il ne veut pas vexer, qu’il a vu Oumar arrêter, qu’il sait ce que ça lui a coûté. Oumar écoute sans l’interrompre. Il a déjà entendu la docteure lui expliquer tout cela, il y a deux ans, mais il ne saurait pas le redire en ordre. Il se souvient surtout des semaines d’hospitalisation d’il y a trois ans, puis, un an plus tard, de la série de tests, des dessins qu’il ne parvenait pas à recopier alors qu’il parlait sans peine.\n\nLa docteure Morvan repousse le clavier et prend une feuille blanche. « Je vais vous redire ce que nous savons, et aussi ce que nous ne savons pas. » Oumar sort ses lunettes. Il veut, cette fois, repartir avec quelque chose qu’il puisse tenir dans la main.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Une cause ancienne, des troubles qui durent",
+          "text": "Dans une démence due à une substance, l’usage a provoqué des atteintes du cerveau dont les effets persistent au-delà de la durée habituelle d’une intoxication ou de l’arrêt. Pour retenir cette cause, l’équipe s’appuie sur l’histoire de la personne, son examen et des analyses : la substance, l’importance et la durée de l’usage doivent pouvoir expliquer une démence, et l’évolution doit être compatible. Pour Oumar, la docteure Morvan rappelle l’ordre des faits. Il a été hospitalisé il y a trois ans et ne boit plus depuis. Comme les difficultés persistaient après plusieurs mois sans alcool, une évaluation cognitive complète a été faite, et le diagnostic posé il y a deux ans. Elle ajoute que les chercheurs discutent encore de la part exacte des différents mécanismes, et que l’évolution varie d’une personne à l’autre. La question de Jean-Paul est donc juste : l’arrêt était nécessaire, mais il ne remet pas le cerveau à son état d’avant."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment la persistance des troubles est-elle mal comprise ?",
+          "points": [
+            {
+              "heading": "L’attente d’un retour à la normale",
+              "text": "Beaucoup de proches imaginent que des troubles liés à l’alcool disparaissent avec lui, comme une ivresse qui se dissipe.",
+              "examples": [
+                "Jean-Paul pensait qu’il fallait « juste du temps » après l’arrêt.",
+                "Il s’étonne que les comptes et les plans restent difficiles trois ans plus tard."
+              ]
+            },
+            {
+              "heading": "Le soupçon d’un effort insuffisant",
+              "text": "Quand la difficulté dure, l’entourage peut la lire comme un manque de volonté ou de sérieux, ce qui pèse sur la personne.",
+              "examples": [
+                "Jean-Paul baisse les yeux sur sa casquette, gêné de poser la question comme un reproche.",
+                "Oumar, le dimanche, ne trouve qu’une image de jardinier pour se défendre."
+              ]
+            },
+            {
+              "heading": "Une explication difficile à redire",
+              "text": "La personne peut avoir compris l’explication du médecin sans parvenir à la restituer en ordre à quelqu’un d’autre.",
+              "examples": [
+                "Oumar se souvient de l’hospitalisation et des dessins ratés, pas de l’enchaînement des raisons.",
+                "Il demande cette fois à repartir avec un texte qu’il puisse tenir dans la main."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour comprendre son diagnostic avec son médecin",
+          "points": [
+            {
+              "heading": "Demander une explication en mots simples",
+              "objective": "Obtenir une version du diagnostic que l’on peut comprendre et réutiliser.",
+              "exercise": [
+                "Dire au médecin ce que l’on a retenu, avec ses propres mots.",
+                "Lui demander de corriger ce qui est faux ou incomplet.",
+                "Demander que l’essentiel soit écrit sur une feuille à emporter."
+              ],
+              "benefit": "Un support écrit et simple peut aider à garder l’explication sans devoir la reconstruire de mémoire."
+            },
+            {
+              "heading": "Séparer le connu de l’incertain",
+              "objective": "Éviter de transformer une hypothèse en promesse ou en condamnation.",
+              "exercise": [
+                "Tracer deux colonnes sur une feuille : ce qui est établi, ce qui ne l’est pas.",
+                "Demander au médecin de placer chaque point dans la bonne colonne.",
+                "Relire la colonne de l’incertain avant de répondre aux questions des autres."
+              ],
+              "benefit": "Distinguer les deux peut protéger des attentes irréalistes comme des inquiétudes inutiles."
+            },
+            {
+              "heading": "Noter ses questions pour la prochaine fois",
+              "objective": "Ne pas perdre une question qui revient entre deux rendez-vous.",
+              "exercise": [
+                "Garder un carnet réservé aux questions pour l’équipe de soin.",
+                "Y écrire la question dès qu’elle se présente, même formulée maladroitement.",
+                "L’apporter au rendez-vous suivant et cocher ce qui a reçu une réponse."
+              ],
+              "benefit": "Le carnet peut rendre les consultations plus utiles, sans remplacer un appel à l’équipe si quelque chose change brusquement."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Trois phrases dans le portefeuille",
+      "ending": "Avant de partir, Oumar demande à la docteure Morvan d’écrire en trois phrases ce qu’il peut répondre quand on l’interroge. Elle réfléchit, puis écrit : « J’ai une maladie qui touche l’organisation, les calculs et les plans. Je parle facilement, mais certaines tâches me demandent plus de temps et des aides. Je choisis ces aides avec mon équipe. » Oumar relit à voix haute. Il remarque que l’alcool n’y figure pas, et la docteure lui dit que c’est volontaire : c’est à lui de décider à qui il raconte l’origine.\n\nIl plie la feuille en quatre et la glisse dans son portefeuille, derrière sa carte de bus. Dans le tramway du retour, Jean-Paul dit seulement : « Alors c’est comme une terre qui a pris un coup de gel. Tu ne la rends pas comme avant en arrêtant de geler. » Oumar répond que l’image est de lui, pas de la docteure, et qu’elle ne dit rien de ce qui repoussera ou non. Le lendemain, il montre la feuille à Odette, pas à Gérard.",
+      "conclusion": "L’épisode montre qu’arrêter l’alcool ne fait pas disparaître une démence qui en est issue : les troubles persistent et leur évolution reste incertaine. Oumar repart avec trois phrases écrites, qu’il montrera seulement aux personnes qu’il aura choisies.",
+      "mirror": [
+        "Dans la salle de consultation, Jean-Paul dit « je croyais que ça partirait avec l’alcool » : c’est une question honnête, et il l’a posée là où quelqu’un pouvait y répondre. Un ami peut faire de même : « Je ne comprends pas pourquoi ça dure, est-ce que je peux venir le demander avec toi ? » Il n’a pas à expliquer le diagnostic à la place du médecin, ni à surveiller ce qui a changé. Il peut aussi accepter qu’Oumar garde pour lui la feuille du portefeuille."
+      ],
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "ridley-2013",
+        "nice-cg115",
+        "nice-ng97"
+      ],
+      "continuity": {
+        "choice": "Oumar obtient de la docteure Morvan trois phrases écrites, sans mention de l’alcool, qu’il garde dans son portefeuille ; il les montre à Odette, pas à Gérard. Jean-Paul a assisté à la consultation avec son accord.",
+        "next": "Le mercredi, Yannick Le Floch construit avec lui la fiche d’étapes punaisée dans l’abri ; les trois lattes pourries sont déposées, mais le premier perçage sur une planche d’essai révélera une autre difficulté que l’ordre des tâches."
+      },
+      "number": 2,
+      "diagnostic_stage": "known"
     }
   ]
 }
