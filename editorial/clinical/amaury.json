@@ -1,0 +1,119 @@
+{
+  "character_id": "amaury",
+  "bio": "Amaury, 70 ans, ancien conducteur de bus à Saint-Étienne, veut faire écouter ses souvenirs de lignes à deux jeunes documentaristes pour l’association Mémoire des lignes. Sa démence due à la maladie de Parkinson est déjà diagnostiquée : selon l’heure, sa pensée ralentit, sa voix faiblit et un récit bien connu se met en désordre. Avec sa compagne Rosa et l’équipe spécialisée Parkinson qui le suit, il choisit le moment des séances, leur durée et ce que le groupe pourra montrer.",
+  "profile_topics": [
+    "Démence due à la maladie de Parkinson",
+    "Choisir ses heures quand les capacités fluctuent",
+    "Voix faible et lenteur prises pour de l’oubli",
+    "Attention et organisation d’un récit",
+    "Accord sur ce que le film partagera"
+  ],
+  "episodes": [
+    {
+      "slug": "amaury-fluctuations-choisir-heure-demence-parkinson",
+      "title": "Des capacités qui varient selon l’heure : choisir son moment pour raconter",
+      "description": "À quinze heures, le récit du premier départ ralentit devant le micro : Amaury choisit l’heure où sa démence parkinsonienne lui laisse plus de place.",
+      "context": "à l’association, un lundi après-midi",
+      "topics": [
+        "Démence due à la maladie de Parkinson",
+        "fluctuations dans la journée",
+        "choisir ses horaires"
+      ],
+      "clinical_intro": "Dans la démence due à la maladie de Parkinson, les capacités disponibles ne sont pas les mêmes à toute heure. Une personne peut raconter avec aisance le matin, puis répondre plus lentement quelques heures plus tard, sans avoir rien oublié. Amaury, dont le diagnostic est déjà posé, découvre qu’il peut choisir le moment de ses enregistrements plutôt que suivre l’horaire du groupe.",
+      "opening": "Gérard Vial, le président de l’association Mémoire des lignes, a écrit « 15 h – Amaury » au feutre rouge sur le tableau blanc de la salle, près de l’ancien dépôt de Saint-Étienne. Amaury, 70 ans, ancien conducteur de bus, entre à quinze heures pile, sa boîte en fer sous le bras. Dedans, il garde ses feuilles de service de trente-quatre ans de métier, la 9 de Montreynaud en tête. « On ne part pas avant l’heure », dit-il en s’asseyant.\n\nLe matin même, dans la cuisine, il racontait à Rosa, sa compagne, le premier départ de 5 h 10 : le dépôt encore noir, le moteur qu’on laisse chauffer, le premier client toujours le même, un boulanger. Les phrases venaient seules. Rosa riait au passage du boulanger.\n\nÀ quinze heures, ce n’est plus pareil. Wassim Rey, qui s’occupe du son et de l’image, lui tend le micro sur pied. Soizic Teyssier, la réalisatrice, demande : « Racontez-nous votre premier départ. » Amaury ouvre la boîte, mais ses doigts mettent longtemps à saisir la première feuille. Sa main droite tremble davantage qu’au réveil. La réponse se fait attendre. Il connaît l’histoire, il la voit, mais la pensée avance comme un bus dans une montée, en première. « Vous pouvez répéter la question ? » Soizic répète. Il commence par le boulanger, revient au dépôt, s’arrête.\n\nGérard regarde la pendule. « On a du retard, on n’a qu’à pousser jusqu’à dix-huit heures pour tout boucler. Trois heures, et c’est dans la boîte. » Amaury pose la feuille. Il sait qu’à dix-huit heures il ne tiendra plus une phrase.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Pourquoi le même souvenir passe mieux à certaines heures",
+          "text": "Dans la maladie de Parkinson, les signes moteurs peuvent varier au cours de la journée, et les périodes où ils reviennent s’accompagnent parfois d’un ralentissement de la pensée et d’une anxiété qui font paraître une personne moins capable qu’elle ne l’est à d’autres moments. Ces variations déroutent souvent l’entourage : pourquoi réussir un geste ou un récit à un moment, et plus du tout quelques heures après ? Chez Amaury, la démence due à la maladie de Parkinson est déjà établie par sa neurologue ; elle touche notamment l’attention et la vitesse de la pensée. Le récit du premier départ n’a pas disparu entre la cuisine et la salle de l’association. Ce qui a changé, c’est l’heure, la fatigue, la main qui tremble et l’effort nécessaire pour mettre les mots en route. Ces variations se signalent à l’équipe spécialisée qui le suit, seule à pouvoir en discuter les causes et un éventuel ajustement des soins."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment les variations de la journée se voient-elles pendant un enregistrement ?",
+          "points": [
+            {
+              "heading": "Une aisance du matin qui ne se retrouve pas l’après-midi",
+              "text": "Le même contenu peut sortir facilement à un moment et demander un effort important à un autre, sans que la mémoire soit en cause.",
+              "examples": [
+                "Dans la cuisine, Amaury raconte le premier départ de 5 h 10 d’une traite et fait rire Rosa avec le boulanger.",
+                "Devant le micro, à quinze heures, il commence par le boulanger, revient au dépôt et s’arrête au milieu de la phrase."
+              ]
+            },
+            {
+              "heading": "Des gestes et une pensée qui ralentissent ensemble",
+              "text": "Quand les signes moteurs reviennent, le corps et la pensée peuvent sembler avancer au même rythme lent, ce qui rend la tâche plus coûteuse.",
+              "examples": [
+                "Les doigts d’Amaury mettent longtemps à saisir la première feuille de service dans la boîte en fer.",
+                "Il demande à Soizic de répéter une question simple, alors qu’il en connaît parfaitement la réponse."
+              ]
+            },
+            {
+              "heading": "Un horaire de groupe qui ne tient pas compte de la personne",
+              "text": "Un planning pensé pour boucler vite peut placer la personne au plus mauvais moment de sa journée, puis prolonger l’effort au lieu de l’alléger.",
+              "examples": [
+                "Gérard a fixé l’enregistrement à quinze heures parce que la salle était libre ce jour-là.",
+                "Il propose de pousser jusqu’à dix-huit heures, alors qu’Amaury sait que ses phrases auront fondu bien avant."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour organiser un projet autour de ses meilleurs moments",
+          "points": [
+            {
+              "heading": "Repérer ses moments plus disponibles",
+              "objective": "Savoir, avec la personne, à quelles heures elle se sent le plus à l’aise pour parler.",
+              "exercise": [
+                "Pendant une semaine, noter le soir dans un carnet trois moments de la journée et dire pour chacun si parler était facile, moyen ou difficile.",
+                "Relire le carnet avec la personne concernée, qui décide elle-même ce que ces notes disent de ses journées.",
+                "Apporter ces notes au prochain contact avec l’équipe spécialisée, sans y ajouter d’interprétation sur le traitement."
+              ],
+              "benefit": "Ces observations peuvent aider la personne à choisir ses horaires et donner à l’équipe des informations utiles ; elles ne remplacent pas son avis."
+            },
+            {
+              "heading": "Placer le rendez-vous à l’heure de la personne",
+              "objective": "Faire passer l’horaire du projet après celui de la personne qui raconte.",
+              "exercise": [
+                "Demander à la personne : « À quelle heure êtes-vous le plus à l’aise pour parler ? »",
+                "Réserver la salle et le matériel à cette heure, même si cela décale le calendrier.",
+                "Fixer une durée courte au départ, que la personne peut raccourcir encore le jour même."
+              ],
+              "benefit": "Un horaire choisi peut rendre l’effort plus supportable ; il s’agit d’une organisation, pas d’un soin."
+            },
+            {
+              "heading": "Signaler les variations à l’équipe",
+              "objective": "Transmettre ce qui change d’une heure à l’autre à ceux qui suivent la maladie.",
+              "exercise": [
+                "Décrire un exemple précis : le récit facile du matin, la séance difficile de l’après-midi.",
+                "Appeler l’infirmière de coordination ou en parler au prochain rendez-vous avec la neurologue.",
+                "Ne rien modifier soi-même dans les soins ; laisser l’équipe décider s’il faut revoir quelque chose."
+              ],
+              "benefit": "L’équipe peut ainsi tenir compte des fluctuations dans son suivi, sans que la personne ou ses proches prennent seuls des décisions médicales."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Dix heures sur le calendrier du film",
+      "ending": "Au bout de vingt minutes, Amaury referme la boîte en fer. « Je descends à ce terminus-là. » Il explique à Soizic, en phrases courtes, qu’à dix heures du matin il raconte mieux, et qu’il ne reviendra qu’à cette heure-là. Gérard soupire : la salle est prise le matin par l’atelier photo, il faudra négocier, et le tournage prendra plus de semaines que prévu. Il accepte, à contrecœur. Soizic sort son agenda et écrit « jeudi, 10 h, Amaury » sur le calendrier du film. Le soir, Amaury dit à Rosa qu’il ne sait pas si le matin suffira, mais qu’il a choisi son heure de départ. Il note aussi, pour Sabine Ferrand, l’infirmière de coordination de l’équipe Parkinson, la différence entre la cuisine et la salle de quinze heures.",
+      "conclusion": "Ce premier enregistrement montre que, dans la démence due à la maladie de Parkinson, une capacité peut être présente le matin et presque hors d’atteinte l’après-midi. Amaury ne promet pas de tout raconter : il fixe l’heure à laquelle il pourra le faire, et il laisse à son équipe la question des soins.",
+      "mirror": [
+        "Quand Gérard propose de « pousser jusqu’à dix-huit heures », un proche peut plutôt demander : « À quelle heure tu te sens le mieux pour raconter ? On s’arrange autour. » Ce n’est pas au groupe de deviner la cause d’une mauvaise séance ni de toucher au traitement. Rosa peut noter avec Amaury, s’il le souhaite, les moments faciles et difficiles pour Sabine Ferrand, sans devenir pour autant la gardienne de son emploi du temps."
+      ],
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "litvan-2012",
+        "has-parkinson-2016",
+        "nice-ng71"
+      ],
+      "continuity": {
+        "choice": "Amaury arrête la séance de quinze heures après vingt minutes et n’enregistrera plus que le matin à dix heures ; Soizic inscrit jeudi 10 h, Gérard négocie la salle avec l’atelier photo.",
+        "next": "Le jeudi suivant à dix heures, le récit de la neige de 1985 se heurte à la voix d’Amaury, qui ne porte plus jusqu’au micro."
+      },
+      "number": 1,
+      "diagnostic_stage": "known",
+      "clinical_focus": "Choisir l’heure selon les fluctuations de la journée"
+    }
+  ]
+}

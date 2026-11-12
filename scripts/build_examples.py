@@ -203,7 +203,10 @@ def build(write=True):
             # they add pattern IDs only when the reviewed row lists some.
             if reviewed.get('pattern_ids'):
                 metadata['pattern_ids'] = list(dict.fromkeys(reviewed['pattern_ids']))
+                # Same reviewed-story token for every psychology pack: the journal's
+                # recommendation filter (journal/src/recommendations.mjs) accepts it.
                 metadata['pattern_source'] = 'editorial_pack_v10_reviewed_story'
+        pack_linked = metadata.get('pattern_source') == 'editorial_pack_v10_reviewed_story'
         for reviewed in coverage_rows.get(relative.as_posix(), []):
             if (reviewed['source_body_sha256'] != metadata['content_hash']
                     or any(not item.get('quote') or body[item['start']:item['end']] != item['quote']
@@ -212,7 +215,7 @@ def build(write=True):
             metadata.setdefault('pattern_ids', []).append(reviewed['pattern_id'])
             metadata['pattern_ids'] = list(dict.fromkeys(metadata['pattern_ids']))
             metadata['pattern_source'] = ('editorial_pack_v10_and_coverage_reviewed_story'
-                                          if meta.get('editorial_pack') == 'psychology-v10'
+                                          if pack_linked
                                           else 'psychology_coverage_reviewed_story')
             reviewed_articles.add(relative.as_posix())
         if meta.get('clinical_code'):

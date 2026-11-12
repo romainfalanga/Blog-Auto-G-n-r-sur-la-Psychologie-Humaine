@@ -1062,6 +1062,112 @@
       },
       "clinical_focus": "Suivre ses facteurs de risque vasculaire sans tout céder",
       "diagnostic_stage": "known"
+    },
+    {
+      "number": 11,
+      "slug": "nadege-evolution-variable-sans-modele-unique",
+      "title": "Une évolution qui ne suit pas un modèle unique",
+      "description": "Nadège a lu qu’on descend par paliers et demande combien de marches il lui reste ; la neurologue ne donne pas de date, mais un plan révisable.",
+      "context": "à la consultation mémoire fin mars",
+      "topics": [
+        "Démence due à une maladie cérébrovasculaire",
+        "évolution variable",
+        "réévaluation"
+      ],
+      "clinical_intro": "L’évolution d’une démence due à une maladie cérébrovasculaire varie beaucoup d’une personne à l’autre : elle peut rester stable, progresser lentement ou changer après un événement, et le déclin par paliers souvent décrit n’est pas la règle. Cette incertitude se suit par des réévaluations plutôt que par une prédiction. À la consultation mémoire, Nadège demande pourtant une réponse simple que personne ne peut lui donner.",
+      "opening": "Le lundi 29 mars, la salle d’attente de la consultation mémoire du centre hospitalier sent le produit pour les sols. Nadège a posé sur ses genoux le cahier bleu et, glissée dedans, la liste des six recettes. Bastien, son filleul, est assis à côté d’elle ; il a demandé s’il pouvait venir, et elle a dit oui, à condition qu’il ne parle pas à sa place. Il a, lui aussi, une feuille pliée en quatre dans sa poche.\n\nDepuis l’hôpital, ses matins ne se ressemblent pas. Certains sont clairs : mercredi dernier, elle a refait seule la crème pâtissière, sans fiche. D’autres sont plus lents ; jeudi, elle a mis vingt minutes à comprendre une lettre de la caisse de retraite. Une infirmière de l’équipe l’a reçue ce matin pour l’entretien sur l’humeur et la fatigue prévu depuis février ; elle a posé beaucoup de questions et n’a rien conclu devant elle.\n\nDans le bureau, la docteure Leclerc, sa neurologue, la même plante en plastique sur l’étagère, l’écoute raconter le marché, le 15, les heures à l’hôpital. Puis Nadège sort de son cahier une page photocopiée à la bibliothèque. « J’ai lu qu’on descend par paliers. Une marche à chaque accident. Alors je voudrais savoir : combien de marches il me reste ? »\n\nBastien serre sa feuille. La docteure ne répond pas tout de suite. Elle ne détourne pas les yeux non plus. Nadège attend une date, un chiffre, quelque chose qu’on puisse écrire dans un agenda. Elle s’entend demander : « Avant l’été ? Avant Noël ? » Elle n’aime pas sa propre voix quand elle supplie.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Pourquoi l’évolution ne se prédit pas sur un seul modèle",
+          "text": "La plupart des démences progressent, mais leur début et leur évolution varient beaucoup selon la cause ; certaines démences dues à une maladie cérébrovasculaire restent stables, d’autres évoluent lentement quand les atteintes des petits vaisseaux s’aggravent, d’autres changent après un accident vasculaire, et la descente par paliers souvent citée ne concerne qu’une partie des personnes. C’est pourquoi l’équipe suit l’évolution par des réévaluations datées plutôt que par un pronostic. Chez Nadège, des matins inégaux depuis l’hôpital ne disent pas à eux seuls ce qui va suivre : la fatigue, le choc de l’hospitalisation ou une autre cause peuvent compter. La docteure Leclerc ne refuse pas de répondre ; elle refuse de donner une certitude qu’elle n’a pas."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment l’incertitude sur l’évolution se vit-elle au quotidien ?",
+          "points": [
+            {
+              "heading": "Des jours inégaux",
+              "text": "Les capacités peuvent varier d’un jour à l’autre, ce qui rend difficile de savoir si quelque chose a changé durablement.",
+              "examples": [
+                "Nadège refait seule la crème pâtissière un mercredi, sans fiche.",
+                "Le jeudi suivant, elle met vingt minutes à comprendre une lettre de la caisse de retraite."
+              ]
+            },
+            {
+              "heading": "La peur d’un scénario unique",
+              "text": "Une image simple trouvée dans une lecture peut devenir une prédiction personnelle et effrayante.",
+              "examples": [
+                "Nadège apporte une page photocopiée qui parle de paliers et demande combien de marches il lui reste.",
+                "Elle réclame une échéance, « avant l’été ? avant Noël ? », qu’elle pourrait inscrire dans son agenda."
+              ]
+            },
+            {
+              "heading": "Le besoin d’un plan révisable",
+              "text": "Faute de prédiction, la personne et ses proches ont besoin de savoir quand et comment les choses seront revues.",
+              "examples": [
+                "Bastien arrive avec ses propres questions sur le rôle qu’il peut tenir dans les mois qui viennent.",
+                "Nadège tient la liste des six recettes comme un repère qui ne dépend pas d’un pronostic."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour vivre avec une évolution incertaine",
+          "points": [
+            {
+              "heading": "Noter des faits datés",
+              "objective": "Donner à l’équipe des observations utiles plutôt que des impressions.",
+              "exercise": [
+                "Écrire brièvement, quand on le remarque, ce qui a été plus facile ou plus difficile, avec la date.",
+                "Ajouter le contexte : fatigue, sommeil, bruit, événement particulier.",
+                "Apporter ces notes au rendez-vous de réévaluation."
+              ],
+              "benefit": "L’équipe peut comparer des faits dans le temps, et la personne voit aussi les bons jours qu’elle oublierait de compter."
+            },
+            {
+              "heading": "Convenir d’une date de réévaluation",
+              "objective": "Remplacer l’attente d’une prédiction par un rendez-vous connu.",
+              "exercise": [
+                "Demander au médecin quand l’évolution sera revue, et l’inscrire dans l’agenda.",
+                "Savoir qui appeler entre-temps si quelque chose change, et faire le 15 en cas de signe brutal.",
+                "Préparer pour ce rendez-vous les questions qui reviennent."
+              ],
+              "benefit": "L’incertitude reste, mais elle a un cadre et des interlocuteurs."
+            },
+            {
+              "heading": "Parler des souhaits futurs à son rythme",
+              "objective": "Faire connaître ses préférences sans attendre une crise.",
+              "exercise": [
+                "Choisir un moment calme pour dire ce qui compte le plus pour soi dans les mois à venir.",
+                "Demander à l’équipe, si on le souhaite, ce que sont une personne de confiance ou des directives anticipées.",
+                "Décider seule de ce qu’on partage avec les proches, et quand."
+              ],
+              "benefit": "Les choix de la personne sont connus et respectés, sans qu’elle soit obligée de tout décider le jour même."
+            }
+          ]
+        }
+      ],
+      "ending_title": "L’atelier inscrit en avril",
+      "ending": "La docteure Leclerc dit qu’elle ne peut pas compter les marches, parce que tout le monde ne descend pas un escalier. Elle propose une réévaluation complète le lundi 21 juin, avec l’entretien de ce matin, et lui rappelle d’appeler le 15 si des signes comme ceux du marché revenaient. Elle ajoute qu’elle pourra, quand elle le voudra, lui parler de la personne de confiance. Nadège referme la page photocopiée. « Alors je n’attends pas de savoir. L’atelier, ce sera en avril. » Elle inscrit dans son agenda le samedi 24 avril, puis le mercredi 14 avril pour la vidéo de la Tatin. Bastien déplie enfin sa feuille : il ne peut pas venir plus d’un mercredi sur deux, à cause de ses commandes. La docteure demande à Nadège si elle accepte d’en parler ici ; elle accepte. Ils conviennent que Josette, sa voisine, l’accompagnera porter les ingrédients le jour de l’atelier et que Karima, l’animatrice des Ponts, gardera le four. Nadège téléphonera elle-même à toutes les deux.",
+      "conclusion": "L’évolution d’une démence due à une maladie cérébrovasculaire ne suit pas un modèle unique et se suit par réévaluation, sans date ni promesse. Nadège cesse d’attendre une prédiction pour fixer son atelier et la vidéo de la Tatin, et le rôle de Bastien est ajusté avec son accord.",
+      "mirror": [
+        "Bastien a attendu, feuille en poche, que Nadège ait posé sa question avant de poser les siennes. Quand elle demande « avant l’été ? », il pourrait poser la main sur le cahier bleu et dire : « Moi non plus je ne sais pas. Mais je serai là le 14 pour la Tatin. » Il n’a pas à rassurer avec une promesse. Dire qu’il ne viendra qu’un mercredi sur deux n’est pas un abandon : c’est une limite qui permet de passer le relais à Josette et Karima."
+      ],
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "aha-vci-2011",
+        "nice-ng97",
+        "has-tnc-fiche15"
+      ],
+      "continuity": {
+        "choice": "Nadège fixe l’atelier au samedi 24 avril et la vidéo de la Tatin au mercredi 14 avril ; la réévaluation complète est planifiée le lundi 21 juin ; Bastien limite sa présence à un mercredi sur deux, et un relais avec Josette et Karima est convenu avec l’accord de Nadège.",
+        "next": "Le samedi 24 avril, l’atelier des Ponts a lieu avec les gestes chauds confiés à Karima et le carnet imprimé."
+      },
+      "clinical_focus": "Une évolution qui ne suit pas un modèle unique",
+      "diagnostic_stage": "known"
     }
   ]
 }
