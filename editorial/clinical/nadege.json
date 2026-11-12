@@ -1168,6 +1168,112 @@
       },
       "clinical_focus": "Une évolution qui ne suit pas un modèle unique",
       "diagnostic_stage": "known"
+    },
+    {
+      "number": 12,
+      "slug": "nadege-transmettre-recettes-formes-choisies",
+      "title": "Transmettre ses recettes sous des formes choisies",
+      "description": "À l’atelier des Ponts, Nadège montre le sablage en silence, Karima tient le four, et le carnet des six recettes passe de main en main.",
+      "context": "lors de l’atelier à la maison de quartier en avril",
+      "topics": [
+        "Démence due à une maladie cérébrovasculaire",
+        "participation",
+        "transmission adaptée"
+      ],
+      "clinical_intro": "Une activité qui compte peut se poursuivre avec une démence, à condition d’en adapter la forme avec la personne et de revoir ces adaptations au fil du temps. Réussir un atelier ne prouve ni une guérison ni une absence d’évolution ; cela montre une participation rendue possible. Nadège tient enfin l’atelier qu’elle a choisi, avec les rôles qu’elle a répartis elle-même.",
+      "opening": "Le samedi 24 avril, à quatorze heures, la grande salle de la maison de quartier des Ponts a été rangée autrement. Les tables forment un U face à la fenêtre, et la démonstration se fait dos au four. Huit habitants attendent devant les plans de travail, tabliers noués : le retraité du club de belote, revenu de la répétition de décembre, une boulangère à la retraite, trois adolescents du soutien scolaire et leurs mères. Josette, la voisine de Nadège, a porté le matin les bols d’ingrédients pesés dans son caddie écossais ; elle s’est assise au fond, près des tasses.\n\nKarima, l’animatrice de la maison de quartier, est au four, comme convenu depuis janvier. Le minuteur rouge de Nadège est posé devant elle, réglé. Sur la petite table, le tableau blanc du soutien scolaire attend les questions. À côté, une pile de carnets agrafés à couverture bleue, mis en page par Bastien, son filleul : six recettes, des photos des gestes et, au dos, le lien des trois vidéos. Les sablés de Lucienne, le Paris-Brest, et la tarte Tatin, tournée mercredi 14 avril dans la cuisine de la rue du Portail-Louis, Bastien versant le caramel pendant qu’elle disait quand.\n\nNadège verse la farine, ajoute le beurre froid et commence à sabler, sans un mot. Les huit la regardent faire. Elle laisse le silence durer, du bout des doigts, jusqu’à ce que ça ressemble à du sable mouillé. Puis elle lève la spatule. « Maintenant, les questions. » Karima lit la première au tableau : pourquoi du beurre froid ? Nadège sourit. Elle connaît la réponse depuis cinquante ans, et cette fois elle a le temps de la donner en entier.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Participer autrement plutôt que renoncer",
+          "text": "Les activités qui ont du sens pour une personne vivant avec une démence peuvent être maintenues en les adaptant à ses préférences et à ses capacités du moment ; ces aménagements se décident avec elle, se revoient au fil du temps et ne sont pas des traitements dont l’effet serait démontré. L’atelier de Nadège réunit ce qu’elle a construit depuis novembre : montrer avant d’expliquer, une question à la fois, les gestes chauds confiés à Karima, le matériel prêt d’avance. Il ne dit rien de l’évolution de sa maladie, que l’équipe réévaluera en juin. Il montre qu’une transmission reste possible, sous une forme qu’elle a choisie, avec les limites de chacun : Bastien un mercredi sur deux, Josette au fond de la salle, Karima au four."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment une transmission adaptée se déroule-t-elle concrètement ?",
+          "points": [
+            {
+              "heading": "Un partage des tâches décidé d’avance",
+              "text": "Les rôles convenus avant la séance évitent d’avoir à réorganiser en cours de route.",
+              "examples": [
+                "Karima tient le four et la panade chaude, avec le minuteur rouge réglé devant elle.",
+                "Josette a apporté les ingrédients pesés dans son caddie le matin même."
+              ]
+            },
+            {
+              "heading": "Une fatigue de fin de séance",
+              "text": "Même une séance réussie peut épuiser, et cette fatigue fait partie de ce qu’il faut prévoir.",
+              "examples": [
+                "À la fin, Nadège s’assoit pendant que les participants rangent les plaques.",
+                "Elle laisse Karima répondre aux deux dernières questions du tableau sur la cuisson."
+              ]
+            },
+            {
+              "heading": "Une fierté sans garantie",
+              "text": "La satisfaction d’avoir transmis coexiste avec l’incertitude sur la suite.",
+              "examples": [
+                "Les carnets bleus partent tous, et une participante demande une deuxième séance.",
+                "Nadège ne promet rien et dit qu’elle doit d’abord en parler avec Karima et l’ergothérapeute."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour transmettre un savoir-faire avec des aménagements",
+          "points": [
+            {
+              "heading": "Définir les rôles d’avance",
+              "objective": "Que chacun sache ce qu’il fait avant le début.",
+              "exercise": [
+                "Lister les tâches de la séance, y compris les plus risquées.",
+                "Attribuer chaque tâche à une personne choisie, avec son accord.",
+                "Écrire la répartition sur une feuille posée sur la table."
+              ],
+              "benefit": "La personne peut se concentrer sur ce qu’elle veut transmettre plutôt que sur l’organisation."
+            },
+            {
+              "heading": "Prévoir une fin de séance",
+              "objective": "Protéger l’énergie de la personne et le plaisir de tous.",
+              "exercise": [
+                "Fixer une heure de fin réaliste, plus courte qu’on ne l’imagine.",
+                "Confier à une autre personne les dernières questions ou le rangement.",
+                "Prévoir un temps assis, un verre d’eau, et un trajet de retour accompagné si besoin."
+              ],
+              "benefit": "La séance se termine avant l’épuisement, ce qui laisse envie de recommencer."
+            },
+            {
+              "heading": "Revoir les aménagements après coup",
+              "objective": "Ajuster pour la fois suivante plutôt que de figer une formule.",
+              "exercise": [
+                "Noter le soir même ce qui a aidé et ce qui a gêné.",
+                "En parler avec les personnes impliquées et, si utile, avec l’ergothérapeute.",
+                "Décider seule s’il y aura une suite, et sous quelle forme."
+              ],
+              "benefit": "Les aménagements suivent l’évolution, qu’elle soit stable ou non, et restent ceux de la personne."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Le carnet sur la table",
+      "ending": "À seize heures, comme prévu, Karima sort la dernière plaque de choux. Les carnets sont tous partis. Une participante, la boulangère à la retraite, demande s’il y aura une deuxième séance, peut-être avec la crème pâtissière. Nadège, assise, la remercie et dit qu’elle va y réfléchir avec Karima et avec Inès Morel, l’ergothérapeute qui vient chez elle ; elle ne promet rien. Josette remballe les bols dans le caddie. Le soir, rue du Portail-Louis, Nadège écrit sous la liste des six recettes : « Atelier fait. Fatiguée, contente. Le tableau a aidé. » Puis, plus bas, au crayon : « Quatre-quarts, vidéo cet été ? » Elle ne le souligne pas. Elle range le cahier bleu sur le buffet, ouvert, et éteint la lumière de la cuisine.",
+      "conclusion": "Une démence due à une maladie cérébrovasculaire n’empêche pas de transmettre, à condition d’en choisir la forme et de la revoir au fil du temps. Nadège accomplit son projet, un carnet, trois vidéos et un atelier, et garde la suite ouverte, à décider avec l’équipe et selon ses jours.",
+      "mirror": [
+        "Au fond de la salle, Josette n’a rien fait d’autre que porter les bols et rester là. C’est parfois exactement ce qu’il faut. Quand la boulangère demande une deuxième séance, un proche pourrait dire à Nadège, plus tard et en privé : « Tu me diras si tu en as envie. Je peux porter le caddie, pas plus. » Proposer une aide précise et limitée laisse la décision à Nadège. Bastien, de son côté, a le droit de dire que le quatre-quarts attendra la fin de ses commandes de juin."
+      ],
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "nice-ng97",
+        "has-tnc-fiche12",
+        "has-tnc-fiche15"
+      ],
+      "continuity": {
+        "choice": "Nadège tient l’atelier de sablés et de pâte à choux avec Karima au four, distribue le carnet de six recettes et les trois vidéos, ne s’engage pas sur une deuxième séance et note, sans s’y engager, une vidéo du quatre-quarts pour l’été.",
+        "next": "Le projet de transmission est accompli ; la suite reste un choix de Nadège, revu avec l’équipe lors de la réévaluation du 21 juin et selon ses jours."
+      },
+      "clinical_focus": "Transmettre ses recettes sous des formes choisies",
+      "diagnostic_stage": "known"
     }
   ]
 }

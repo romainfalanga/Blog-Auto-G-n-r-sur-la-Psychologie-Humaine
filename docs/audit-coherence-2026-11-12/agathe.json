@@ -1,0 +1,346 @@
+{
+  "character_id": "agathe",
+  "type": "clinique",
+  "auditor": "audit_c1",
+  "audited_on": "2026-11-12",
+  "persona": {
+    "age_metier_proches": "11 ans, élève de CM2 ; trouble développemental du langage connu, suivi en orthophonie ; mère ; camarade Inès ; maîtresse Mme Roussel ; animatrice du jardin Camille ; CM1 Sami, Lila, Nora ; secrétaire Mme Sorel.",
+    "arc_summary": "Agathe veut transmettre le jardin scolaire aux CM1 en leur laissant une boîte de graines et un plan. Elle se heurte à une consigne à étapes, à un mot qui arrive trop tard, à des questions simultanées, puis forge en orthophonie un appui (« laquelle d’abord ? »), participe à une réunion d'aménagement et améliore le plan par des essais avec les CM1. La pluie déplace la présentation, et la série se clôt quand les CM1 trouvent seuls la boîte tandis qu'Agathe fait encore préciser une phrase.",
+    "arc_issues": [
+      "Série très cohérente dans ses objets (boîte bleue, ficelle, fermoir, étoiles, papier « laquelle d’abord ? ») et sa chronologie ; diagnostic connu dès le début, sans contradiction.",
+      "Les noms Inès et Mme Roussel sont aussi ceux de l'amie et de la professeure d'Adèle, et Camille est le prénom d'un autre personnage du catalogue : un lecteur du site peut croire à un même univers. Envisager de renommer les personnages secondaires.",
+      "Deux épisodes (5 et 8) portent sur des malentendus universels (photocopie grise, gauche relative) avec un lien au trouble ténu ; l'épisode 11 répète la situation de l'épisode 3."
+    ]
+  },
+  "episodes": [
+    {
+      "number": 1,
+      "file": "content/posts/comprendre-et-maitriser-ses-emotions/agathe-boite-bleue.md",
+      "focus": "Compréhension (langage réceptif) d'une consigne longue : mots reconnus, ordre des actions et exception perdus",
+      "structure": {
+        "scene": "ok",
+        "concept": "ok",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "ok",
+        "conclusion": "ok",
+        "proches": "ok"
+      },
+      "comprehension": 4,
+      "comprehension_note": "La consigne de Camille est citée en entier, ce qui permet au lecteur de voir exactement ce qu'Agathe retient (« panier du haut ») et ce qu'elle perd ; la demande d'un exemple concret et le projet de boîte pour les CM1 sont clairs.",
+      "issues": [
+        {
+          "severity": "mineur",
+          "type": "comprehension",
+          "quote": "Camille avait envoyé les CM2 chercher le matériel par groupes.",
+          "problem": "Camille n'est identifiée comme « l’animatrice » que plus loin ; Inès apparaît dans le retour sans présentation.",
+          "fix": "« Camille, l’animatrice du jardin, avait envoyé… » et « Dehors, Inès, sa camarade de jardinage, lui dit… »."
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "file": "content/posts/comprendre-et-maitriser-ses-emotions/agathe-sachet-sous-la-pluie.md",
+      "focus": "Langage expressif : l'idée est prête avant le mot (« vérifier »), le groupe avance et prend le silence pour un accord",
+      "structure": {
+        "scene": "ok",
+        "concept": "ok",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "ok",
+        "conclusion": "ok",
+        "proches": "ok"
+      },
+      "comprehension": 4,
+      "comprehension_note": "Le sachet illisible, « Capucines ? » et le mot « vérifier » qui arrive trop tard montrent très concrètement l'écart entre idée et formulation ; le point d'interrogation dessiné est une solution visible.",
+      "issues": [
+        {
+          "severity": "mineur",
+          "type": "comprehension",
+          "quote": "Inès avait traîné un tabouret sous l’auvent",
+          "problem": "Inès n'est pas présentée dans cet épisode.",
+          "fix": "« Inès, avec qui elle tient le jardin le jeudi, avait traîné… »."
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "file": "content/posts/comprendre-et-maitriser-ses-emotions/agathe-plan-sans-estrade.md",
+      "focus": "Échanges en groupe : suivre plusieurs questions simultanées tout en préparant une réponse ; être annoncée oratrice sans accord",
+      "structure": {
+        "scene": "ok",
+        "concept": "ok",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "ok",
+        "conclusion": "ok",
+        "proches": "ok"
+      },
+      "comprehension": 4,
+      "comprehension_note": "Scène vivante (bille, carton déplié, rafale de questions) ; l'enjeu (Inès annonce qu'Agathe va parler) et la décision (faire passer le carton, poser une limite à Inès) sont nets.",
+      "issues": [
+        {
+          "severity": "mineur",
+          "type": "comprehension",
+          "quote": "L’ASHA rappelle que les compétences d’un enfant peuvent se manifester différemment quand les exigences changent.",
+          "problem": "Sigle non expliqué pour un lecteur non spécialiste.",
+          "fix": "« L’association américaine des orthophonistes (ASHA) rappelle… » ou supprimer la mention de source dans le fil, conformément à la charte."
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "file": "content/posts/comprendre-et-maitriser-ses-emotions/agathe-laquelle-dabord.md",
+      "focus": "Distinguer en séance d'orthophonie une question mal comprise (référent de « après ») d'une réponse difficile à formuler (mot « étagère/ficelle »)",
+      "structure": {
+        "scene": "ok",
+        "concept": "ok",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "ok",
+        "conclusion": "ok",
+        "proches": "ok"
+      },
+      "comprehension": 4,
+      "comprehension_note": "La séance part des papiers réels de la classe et produit un outil personnel (« laquelle d’abord ? ») ; la fin avec la copie grise prépare clairement l'épisode suivant.",
+      "issues": [
+        {
+          "severity": "mineur",
+          "type": "repetition",
+          "quote": "Dans le trouble développemental du langage, ces deux dimensions peuvent demander des efforts différents.",
+          "problem": "La facette juxtapose les épisodes 1 (réceptif) et 2 (expressif) avec la même formule ; l'apport propre (comment la séance utilise des situations réelles) est moins développé.",
+          "fix": "Ajouter dans l'explication ce que l'orthophoniste fait de ces exemples (choix d'objectifs à partir de situations qui comptent pour l'enfant) et alléger la redite réceptif/expressif."
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "file": "content/posts/comprendre-et-maitriser-ses-emotions/agathe-la-copie-grise.md",
+      "focus": "Un support visuel aide s'il porte l'information : la copie grise rend deux repères ambigus pour tout lecteur",
+      "structure": {
+        "scene": "ok",
+        "concept": "faible",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "ok",
+        "conclusion": "ok",
+        "proches": "ok"
+      },
+      "comprehension": 4,
+      "comprehension_note": "La photocopie, l'erreur de Mme Sorel sur l'entrée et l'ajout de « entrée du jardin » et du fermoir sont faciles à suivre ; mais l'épisode montre surtout un défaut de document, pas une facette du trouble.",
+      "issues": [
+        {
+          "severity": "majeur",
+          "type": "clinique",
+          "quote": "Le trouble développemental du langage peut rendre un repère visuel utile à Agathe, mais la même ambiguïté arrête sa mère puis Mme Sorel.",
+          "problem": "La facette traitée concerne la conception d'un plan, ambiguë pour n'importe qui ; le lien au trouble se limite à une phrase, ce qui fait de l'épisode un épisode sans aspect propre du TDL.",
+          "fix": "Recentrer sur une facette réelle : par exemple, Agathe a du mal à expliquer oralement la différence entre les deux portes (« là, l’autre, celle-là ») et découvre qu'un mot écrit sur le plan remplace l'explication verbale ; dire en une phrase pourquoi les appuis visuels sont fréquemment recommandés dans le TDL."
+        },
+        {
+          "severity": "mineur",
+          "type": "comprehension",
+          "quote": "Au secrétariat, Mme Sorel leur avait dit qu’elle pouvait faire deux copies avant la pile des menus.",
+          "problem": "Mme Sorel n'est pas présentée (secrétaire ?).",
+          "fix": "« Mme Sorel, la secrétaire de l’école, … »."
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "file": "content/posts/comprendre-et-maitriser-ses-emotions/agathe-deux-creneaux.md",
+      "focus": "Participation de l'enfant aux décisions d'aménagement quand le vocabulaire abstrait des adultes (« élargir les aménagements ») empêche de suivre",
+      "structure": {
+        "scene": "ok",
+        "concept": "ok",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "ok",
+        "conclusion": "ok",
+        "proches": "ok"
+      },
+      "comprehension": 4,
+      "comprehension_note": "La réunion avec la maîtresse et la mère est crédible ; la question « Quels aménagements ? » et la traduction en deux cases d'agenda rendent l'enjeu lisible. Le choix de ne pas montrer la feuille de l'orthophoniste est bien posé, mais celle-ci n'est pas expliquée.",
+      "issues": [
+        {
+          "severity": "mineur",
+          "type": "comprehension",
+          "quote": "Elle était d’accord pour que la maîtresse en parle à Camille.",
+          "problem": "Camille n'est pas présentée dans l'épisode.",
+          "fix": "« à Camille, l’animatrice du jardin »."
+        },
+        {
+          "severity": "mineur",
+          "type": "comprehension",
+          "quote": "La feuille de l’orthophoniste dans le sac de sa mère, c’était autre chose",
+          "problem": "On ne sait pas de quelle feuille il s'agit (compte rendu de bilan ?).",
+          "fix": "« Le compte rendu de l’orthophoniste, dans le sac de sa mère, … »."
+        },
+        {
+          "severity": "mineur",
+          "type": "repetition",
+          "quote": "Un terme abstrait laisse la situation dans le flou",
+          "problem": "Le mécanisme (un mot dont le sens échappe) est proche de celui de l'épisode 7 (« naines »).",
+          "fix": "Garder ici l'accent sur la participation à la décision et réserver l'acquisition du vocabulaire à l'épisode 7."
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "file": "content/posts/comprendre-et-maitriser-ses-emotions/agathe-la-place-au-soleil.md",
+      "focus": "Vocabulaire : un mot spécialisé (« naines ») dont le sens doit être rattaché à un exemple concret pour décider",
+      "structure": {
+        "scene": "ok",
+        "concept": "ok",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "ok",
+        "conclusion": "ok",
+        "proches": "ok"
+      },
+      "comprehension": 5,
+      "comprehension_note": "Scène hors école très claire : balcon mesuré en chaussures, deux sachets, mère qui commence à choisir et Agathe qui retient le papier ; le mot devient utile grâce au pot montré.",
+      "issues": []
+    },
+    {
+      "number": 8,
+      "file": "content/posts/comprendre-et-maitriser-ses-emotions/agathe-le-plan-a-lenvers.md",
+      "focus": "Reformuler une direction quand le point de vue change ; montrer le départ et faire expliquer le trajet par le lecteur",
+      "structure": {
+        "scene": "ok",
+        "concept": "faible",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "ok",
+        "conclusion": "ok",
+        "proches": "ok"
+      },
+      "comprehension": 4,
+      "comprehension_note": "Le premier essai des CM1 Sami et Lila est vivant (gauche qui s'inverse, plan qu'on fait pivoter) ; mais la confusion gauche/droite n'est pas présentée comme liée au trouble et l'explication reprend une formule déjà vue.",
+      "issues": [
+        {
+          "severity": "majeur",
+          "type": "lien_concept",
+          "quote": "Dans le trouble développemental du langage, comprendre puis formuler une réponse peuvent présenter des difficultés distinctes.",
+          "problem": "L'explication recycle la phrase des épisodes 2 et 4 ; le problème de la scène (gauche relative au corps de Sami) est universel et n'est pas relié à une facette du TDL.",
+          "fix": "Relier la scène à une facette précise : par exemple la difficulté à produire une consigne spatiale complète (« tourne à gauche après le banc ») et le recours au geste et à la démonstration ; ou, si les sources l'appuient, la compréhension des termes spatiaux relatifs."
+        },
+        {
+          "severity": "mineur",
+          "type": "comprehension",
+          "quote": "Toutes deux gardent les deux étoiles des fleurs sans trancher.",
+          "problem": "« Toutes deux » est ambigu : les étoiles ont été dessinées par Lila et Sami.",
+          "fix": "« Agathe garde les deux étoiles de Lila et de Sami sans trancher. »"
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "file": "content/posts/comprendre-et-maitriser-ses-emotions/agathe-ce-qui-sest-passe-au-banc.md",
+      "focus": "Organisation du récit (discours) : pronoms sans référent et ordre des événements pour quelqu'un qui n'a pas vu la scène",
+      "structure": {
+        "scene": "ok",
+        "concept": "ok",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "ok",
+        "conclusion": "ok",
+        "proches": "ok"
+      },
+      "comprehension": 4,
+      "comprehension_note": "La phrase dictée (« Quand elle a tourné, c’était plus du même côté, alors elle l’a mis devant ») illustre parfaitement le problème ; les deux dessins-légendes sont une solution concrète. Facette nouvelle et bien distincte.",
+      "issues": [
+        {
+          "severity": "mineur",
+          "type": "comprehension",
+          "quote": "Agathe regarda l’endroit où Lila avait fait son carré.",
+          "problem": "Dans l'épisode précédent, Lila dessinait un fermoir dans la marge, pas un carré : le raccord est flou.",
+          "fix": "« l’endroit où Lila avait dessiné le fermoir »."
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "file": "content/posts/comprendre-et-maitriser-ses-emotions/agathe-un-jeudi-sous-toit.md",
+      "focus": "Changement de contexte : une annonce qui modifie lieu, nombre de participants et rôles fait réapparaître la difficulté de compréhension",
+      "structure": {
+        "scene": "ok",
+        "concept": "ok",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "ok",
+        "conclusion": "ok",
+        "proches": "ok"
+      },
+      "comprehension": 4,
+      "comprehension_note": "L'annonce longue de Mme Roussel, les notes « tous » et « Camille » et la question « on change juste le lieu ? » rendent bien visible la perte des relations entre les mots ; le portillon en carton est une solution concrète.",
+      "issues": [
+        {
+          "severity": "mineur",
+          "type": "repetition",
+          "quote": "Agathe retient « tous » et « Camille » mais perd la relation entre les deux.",
+          "problem": "Le mécanisme (mots retenus, relations perdues) est celui de l'épisode 1 ; la nouveauté (le changement imprévu) pourrait être davantage mise en avant.",
+          "fix": "Insister dans l'explication sur la mise à jour d'un plan mental déjà construit, ce qui distingue cet épisode du premier."
+        }
+      ]
+    },
+    {
+      "number": 11,
+      "file": "content/posts/comprendre-et-maitriser-ses-emotions/agathe-une-question-sur-la-table.md",
+      "focus": "Faire préciser une question perdue parmi plusieurs, puis y répondre lors de la présentation aux CM1",
+      "structure": {
+        "scene": "ok",
+        "concept": "ok",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "ok",
+        "conclusion": "ok",
+        "proches": "ok"
+      },
+      "comprehension": 4,
+      "comprehension_note": "La présentation en salle de lecture est concrète et Agathe utilise enfin sa stratégie ; mais la situation reprend presque à l'identique celle de l'épisode 3 (rafale de questions, première perdue).",
+      "issues": [
+        {
+          "severity": "majeur",
+          "type": "repetition",
+          "quote": "Le trouble développemental du langage continue d’avoir des effets quand plusieurs élèves l’interrogent presque ensemble.",
+          "problem": "Même facette que l'épisode 3 (« Une nouvelle question chasse la précédente ») et outil déjà forgé à l'épisode 4.",
+          "fix": "Assumer explicitement l'épisode comme mise à l'épreuve de la stratégie (ce qui a marché, ce qui reste difficile) ou déplacer le centre vers une autre facette, par exemple la formulation d'une réponse spontanée non préparée (« Les deux, c’est pour vous… »)."
+        },
+        {
+          "severity": "mineur",
+          "type": "comprehension",
+          "quote": "Nora, qui n’avait encore rien dit, leva la main.",
+          "problem": "Nora apparaît pour la première fois en toute fin d'épisode alors qu'elle devient centrale dans l'épisode 12.",
+          "fix": "La faire apparaître plus tôt dans la scène (une élève silencieuse qui suit le doigt d'Agathe) pour préparer l'épisode final."
+        }
+      ]
+    },
+    {
+      "number": 12,
+      "file": "content/posts/comprendre-et-maitriser-ses-emotions/agathe-la-carte-reste-au-jardin.md",
+      "focus": "Une passation réussie peut coexister avec un échange encore difficile ; garder ses appuis au-delà du projet",
+      "structure": {
+        "scene": "ok",
+        "concept": "ok",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "ok",
+        "conclusion": "ok",
+        "proches": "ok"
+      },
+      "comprehension": 4,
+      "comprehension_note": "Nora trouve la boîte seule, « passage » remplace la rature, et Agathe fait reprendre une phrase sur les deux copies : la série se résout clairement et rejoint les capucines du balcon.",
+      "issues": [
+        {
+          "severity": "mineur",
+          "type": "comprehension",
+          "quote": "Agathe avait suivi « classeur » et perdu la fin.",
+          "problem": "La phrase de Camille contenant l'information perdue est rapportée au discours indirect, ce qui rend la difficulté moins perceptible que dans les autres épisodes.",
+          "fix": "Citer la phrase de Camille au discours direct, comme dans l'épisode 1."
+        }
+      ]
+    }
+  ],
+  "missing_or_extra": "Douze épisodes, aucun manquant ni surnuméraire. Si l'épisode 5 ou 8 est réorienté, des facettes encore absentes et documentées du TDL pourraient y trouver place : difficultés de grammaire ou de syntaxe à l'écrit et à l'oral, retentissement sur les apprentissages et la lecture, fatigue liée à l'effort langagier sur une journée, ou incompréhension d'expressions non littérales.",
+  "verdict": "corrections_mineures"
+}

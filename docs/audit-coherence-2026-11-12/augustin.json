@@ -1,0 +1,151 @@
+{
+  "character_id": "augustin",
+  "type": "clinique",
+  "auditor": "audit_c3",
+  "audited_on": "2026-11-12",
+  "persona": {
+    "age_metier_proches": "Augustin, 14 ans, collégien, membre de la troupe du centre social qui monte « L’Aube en carton ». Trouble développemental de la coordination motrice connu avant la série. Entourage : Samira (éducatrice qui encadre la troupe), Nora, Maya et Maxence (camarades de troupe : décor/programme, rôle du concierge, bruitage), Mme Besson (enseignante de géographie), Mme Rivière (ergothérapeute), sa mère, un cousin sans prénom.",
+    "arc_summary": "Augustin fabrique le soleil doré de la pièce et découvre que sa lenteur passe pour du désintérêt, puis hésite entre le rôle du concierge et celui du voisin qui lève le soleil. À travers la carte en classe, la fatigue après un geste réussi, le rangement du disque travaillé avec l'ergothérapeute, l'aide anticipée de Maxence et le changement de salle, il construit des repères concrets (bac à plat, soleil posé près de la fenêtre, signal « Montrez-leur »). Il choisit le voisin, joue avec le disque pâle après le pliage du doré, prend le temps du geste devant le public et demande pour le prochain atelier une case vide pour proposer sa propre scène.",
+    "arc_issues": [
+      "Série très cohérente : objets, lieux et engagements (chute de papier, bac des grandes feuilles, disque pâle, signal, programme) sont repris d'un épisode à l'autre et les questions concrètes sont fermées.",
+      "Trois épisodes reposent sur un mécanisme voisin, la dépendance du geste au matériel ou au contexte (ép. 5 rangement, ép. 7 autre salle, ép. 10 objet de remplacement) ; les scènes diffèrent mais les explications se ressemblent.",
+      "Plusieurs proches sont introduits sans fonction au premier passage (Maya en ép. 1, Mme Rivière en ép. 5) ; défaut léger car le contexte les éclaire vite."
+    ]
+  },
+  "episodes": [
+    {
+      "number": 1,
+      "file": "content/posts/comprendre-et-maitriser-ses-emotions/augustin-le-bord-du-soleil.md",
+      "focus": "Lenteur et imprécision des gestes fins prises pour du désintérêt (comptage des pièces terminées)",
+      "structure": {"scene": "ok", "concept": "ok", "manifestations": "ok", "techniques": "ok", "retour": "ok", "conclusion": "ok", "proches": "ok"},
+      "comprehension": 4,
+      "comprehension_note": "La bande dorée qui colle à l'index et le « Tu n'as encore rien fait » de Nora rendent la facette immédiatement visible ; seul le deuxième paragraphe a un ordre de phrases qui trouble la lecture.",
+      "issues": [
+        {"severity": "mineur", "type": "comprehension", "quote": "Il se surprend à chercher une réponse qui ferait rire Maxence et tairait Nora. Ce qui le touche, c’est d’entendre « rien » à propos d’un geste qu’il reprend depuis le début de l’atelier. Pour une fois, il ne la trouve pas.", "problem": "« la » renvoie à « une réponse » deux phrases plus haut ; la phrase intercalée casse le lien.", "fix": "Placer « Pour une fois, il ne la trouve pas. » juste après la phrase sur la réponse, puis « Ce qui le touche… »."},
+        {"severity": "mineur", "type": "comprehension", "quote": "Elle lui demande s’il veut plutôt aller lire le texte avec Maya.", "problem": "Maya n'est pas présentée.", "fix": "« avec Maya, qui lit les rôles à l'autre bout de la salle »."}
+      ]
+    },
+    {
+      "number": 2,
+      "file": "content/posts/comprendre-et-maitriser-ses-emotions/augustin-deux-roles.md",
+      "focus": "Enchaînement de gestes et de répliques : la transition coûte plus que chaque geste isolé",
+      "structure": {"scene": "ok", "concept": "ok", "manifestations": "ok", "techniques": "ok", "retour": "ok", "conclusion": "ok", "proches": "ok"},
+      "comprehension": 4,
+      "comprehension_note": "La main encore tendue au-dessus de la chaise au moment de reprendre le texte montre exactement la difficulté de transition ; le choix entre deux rôles et le délai de Maya donnent un enjeu partagé.",
+      "issues": [
+        {"severity": "mineur", "type": "comprehension", "quote": "ça lui fait le même effet que quand Maxence termine une de ses blagues", "problem": "Comparaison obscure : on ne sait pas quel effet produit une blague terminée par un autre.", "fix": "« ça lui fait le même effet que quand Maxence lui vole la chute d'une blague »."}
+      ]
+    },
+    {
+      "number": 3,
+      "file": "content/posts/comprendre-et-maitriser-ses-emotions/augustin-la-legende-de-la-carte.md",
+      "focus": "Charge attentionnelle du tracé manuel en classe : surveiller l'encre fait manquer l'explication",
+      "structure": {"scene": "ok", "concept": "ok", "manifestations": "ok", "techniques": "ok", "retour": "ok", "conclusion": "ok", "proches": "ok"},
+      "comprehension": 5,
+      "comprehension_note": "La règle qui tire l'encre, le « quartier récent » sur la feuille de Safia et la demande précise d'un fond imprimé forment une scène autonome et parfaitement claire.",
+      "issues": [
+        {"severity": "mineur", "type": "comprehension", "quote": "Augustin range sa règle, laisse la carte dehors et attend que les autres passent la porte.", "problem": "« dehors » est ambigu (hors de la classe ?) ; il veut dire hors de son sac.", "fix": "« laisse la carte sur la table »."}
+      ]
+    },
+    {
+      "number": 4,
+      "file": "content/posts/comprendre-et-maitriser-ses-emotions/augustin-le-soleil-sur-la-nappe.md",
+      "focus": "Coût d'un geste réussi : fatigue qui pèse sur la suite de la journée",
+      "structure": {"scene": "ok", "concept": "ok", "manifestations": "ok", "techniques": "ok", "retour": "ok", "conclusion": "ok", "proches": "ok"},
+      "comprehension": 4,
+      "comprehension_note": "Les épaules levées puis le soupir, et l'aide limitée de la mère (« tiens juste ici ») sont concrets ; la fin introduit le disque pâle de façon confuse.",
+      "issues": [
+        {"severity": "mineur", "type": "comprehension", "quote": "Augustin remet le rayon et son carton jaune pâle dans la boîte. Ce carton est déjà rond. Il leur avait servi à choisir la taille du disque.", "problem": "On ne comprend pas si « son carton jaune pâle » est le carton du rayon ou un second disque ; c'est pourtant le disque pâle qui deviendra central (ép. 5, 10, 11).", "fix": "« Il range le rayon dans la boîte, à côté du disque jaune pâle, le premier carton rond qui leur avait servi à choisir la taille du soleil. »"}
+      ]
+    },
+    {
+      "number": 5,
+      "file": "content/posts/comprendre-et-maitriser-ses-emotions/augustin-la-boite-a-plat.md",
+      "focus": "Effet du rangement et du matériel sur la prise ; travail avec l'ergothérapeute",
+      "structure": {"scene": "ok", "concept": "ok", "manifestations": "ok", "techniques": "ok", "retour": "ok", "conclusion": "ok", "proches": "ok"},
+      "comprehension": 4,
+      "comprehension_note": "Le fond de la boîte qui suit le disque et le coude coincé contre le ventre montrent clairement le problème ; le croquis sur le ticket de bus est une décision nette.",
+      "issues": [
+        {"severity": "mineur", "type": "comprehension", "quote": "Mme Rivière a mis de côté le jeu qu’Augustin reconnaît à ses pions transparents.", "problem": "Mme Rivière n'est identifiée comme ergothérapeute qu'indirectement (cabinet, section explicative).", "fix": "« Mme Rivière, son ergothérapeute, a mis de côté… »."}
+      ]
+    },
+    {
+      "number": 6,
+      "file": "content/posts/comprendre-et-maitriser-ses-emotions/augustin-laisser-le-disque.md",
+      "focus": "Temps immobile de préparation d'une prise pris pour un appel à l'aide ; aide anticipée",
+      "structure": {"scene": "ok", "concept": "ok", "manifestations": "ok", "techniques": "ok", "retour": "ok", "conclusion": "ok", "proches": "ok"},
+      "comprehension": 5,
+      "comprehension_note": "Maxence qui quitte sa boîte à gâteaux pour tendre le soleil, puis « tu as essayé à ma place. J'avais trouvé le bord », rendent la facette évidente ; la seconde prise réussie ferme proprement la scène.",
+      "issues": []
+    },
+    {
+      "number": 7,
+      "file": "content/posts/comprendre-et-maitriser-ses-emotions/augustin-la-grande-salle.md",
+      "focus": "Geste connu qui se complique dans un autre lieu (hauteur, accès, coordination avec le son et l'entrée)",
+      "structure": {"scene": "ok", "concept": "ok", "manifestations": "ok", "techniques": "ok", "retour": "ok", "conclusion": "ok", "proches": "ok"},
+      "comprehension": 4,
+      "comprehension_note": "Le meuble plus bas, l'entrée ratée et la phrase couverte par le papier de Maxence sont lisibles ; l'idée de poser le soleil près de la fenêtre est une solution claire.",
+      "issues": [
+        {"severity": "mineur", "type": "repetition", "quote": "Une façon de faire qui convient dans un lieu peut demander des ajustements dans un autre.", "problem": "L'explication est proche de celles des ép. 5 et 10 (le contexte et le matériel changent la prise).", "fix": "Insister ici sur ce qui est propre au lieu : coordination simultanée avec l'entrée et le bruitage, trajet ajouté."}
+      ]
+    },
+    {
+      "number": 8,
+      "file": "content/posts/comprendre-et-maitriser-ses-emotions/augustin-le-programme.md",
+      "focus": "Sentiment de compétence et peur d'être réduit à sa difficulté dans le regard du public",
+      "structure": {"scene": "ok", "concept": "ok", "manifestations": "ok", "techniques": "ok", "retour": "ok", "conclusion": "ok", "proches": "ok"},
+      "comprehension": 4,
+      "comprehension_note": "L'encadré « Ce qu'on n'avait jamais fait » et la ligne « Comment fait-on du jour avec du carton ? » traduisent le choix d'Augustin de manière concrète et lisible.",
+      "issues": [
+        {"severity": "mineur", "type": "comprehension", "quote": "Il pense à la question de Mme Besson, qui a gardé le fond imprimé pour la prochaine carte après avoir entendu que cela l’aidait à suivre.", "problem": "« La question de Mme Besson » n'est pas identifiable ; la phrase est longue et le contraste voulu (un interlocuteur connu contre un public inconnu) se perd.", "fix": "« Il pense à Mme Besson : à elle, il avait expliqué le fleuve, et elle avait gardé le fond imprimé. Il savait à qui il parlait. »"}
+      ]
+    },
+    {
+      "number": 9,
+      "file": "content/posts/comprendre-et-maitriser-ses-emotions/augustin-le-voisin.md",
+      "focus": "Doute sur ses gestes qui pousse à choisir le rôle « qui ferait preuve » plutôt que celui qu'on préfère",
+      "structure": {"scene": "ok", "concept": "ok", "manifestations": "ok", "techniques": "ok", "retour": "ok", "conclusion": "ok", "proches": "ok"},
+      "comprehension": 4,
+      "comprehension_note": "L'échange des rôles avec Maya et le geste de faire glisser le texte du concierge vers elle montrent bien la décision ; le signal « Montrez-leur » est clairement posé.",
+      "issues": [
+        {"severity": "mineur", "type": "comprehension", "quote": "Maxence attend toujours la fin de la réplique sur le réveil.", "problem": "« La réplique sur le réveil » n'a pas été citée ; le lecteur doit deviner qu'il s'agit de « Vous auriez pu attendre que je me lève ».", "fix": "Citer la réplique : « Maxence attend toujours la fin de “que je me lève” »."}
+      ]
+    },
+    {
+      "number": 10,
+      "file": "content/posts/comprendre-et-maitriser-ses-emotions/augustin-un-soleil-plus-pale.md",
+      "focus": "Objet de remplacement aux propriétés différentes qui impose une autre prise",
+      "structure": {"scene": "ok", "concept": "ok", "manifestations": "ok", "techniques": "ok", "retour": "ok", "conclusion": "ok", "proches": "ok"},
+      "comprehension": 4,
+      "comprehension_note": "Le pli qui traverse la trace de pouce et le disque pâle qui fléchit sous un seul pouce sont des images précises ; le « matin froid » vu du dernier rang donne une issue convaincante.",
+      "issues": [
+        {"severity": "mineur", "type": "repetition", "quote": "Les caractéristiques d’un objet comptent dans la façon de le prendre, même quand il sert au même usage.", "problem": "Troisième variation sur la dépendance de la prise au matériel (après ép. 5 et 7).", "fix": "Mettre davantage en avant le deuil du premier soleil et la décision de ne pas tout refaire le soir même, déjà présents dans la scène, pour distinguer l'épisode."}
+      ]
+    },
+    {
+      "number": 11,
+      "file": "content/posts/comprendre-et-maitriser-ses-emotions/augustin-le-temps-du-silence.md",
+      "focus": "Prendre le temps du geste sous le regard du public ; pression ressentie à combler le silence",
+      "structure": {"scene": "ok", "concept": "ok", "manifestations": "ok", "techniques": "ok", "retour": "ok", "conclusion": "ok", "proches": "ok"},
+      "comprehension": 5,
+      "comprehension_note": "La manche qui couvre les doigts, la toux au fond et le choix d'écarter le tissu avant de parler rendent la représentation tendue et compréhensible ; la question au cousin clôt bien.",
+      "issues": [
+        {"severity": "mineur", "type": "comprehension", "quote": "Au ras du rideau, Augustin voit d’abord les mains des gens du premier rang. Augustin reconnaît celles de son cousin", "problem": "Répétition du prénom en deux phrases consécutives.", "fix": "« Il reconnaît celles de son cousin »."}
+      ]
+    },
+    {
+      "number": 12,
+      "file": "content/posts/comprendre-et-maitriser-ses-emotions/augustin-la-prochaine-piece.md",
+      "focus": "Persistance du trouble d'un projet à l'autre ; révision des appuis quand l'activité change",
+      "structure": {"scene": "ok", "concept": "ok", "manifestations": "ok", "techniques": "ok", "retour": "ok", "conclusion": "ok", "proches": "ok"},
+      "comprehension": 4,
+      "comprehension_note": "Le disque qui glisse sous le bras pendant le rangement montre la persistance sans dramatiser ; la case vide et la chaise en biais donnent une vraie perspective.",
+      "issues": [
+        {"severity": "mineur", "type": "continuite", "quote": "Son cousin lui a raconté qu’il avait surtout aimé le moment où le concierge parlait à la clé.", "problem": "À la fin de l'ép. 11, le cousin avait surtout retenu l'attente du soleil (« J'ai vraiment cru qu'ils allaient attendre dix minutes de plus ») ; le glissement n'est pas expliqué.", "fix": "Raccorder : « Après l'attente du soleil, son cousin lui a dit qu'il avait surtout aimé… »."},
+        {"severity": "mineur", "type": "comprehension", "quote": "On voit la couleur que la cour aurait eue si Nora avait préféré la première peinture.", "problem": "Allusion à une première peinture jamais évoquée.", "fix": "Supprimer ou expliquer brièvement (« le dos porte encore le bleu que Nora avait essayé au début »)."}
+      ]
+    }
+  ],
+  "missing_or_extra": "Parcours complet (12 épisodes), ni manquant ni surnuméraire. Pas de retrait nécessaire ; différencier les explications des ép. 5, 7 et 10, qui traitent toutes trois de l'effet du contexte matériel sur la prise.",
+  "verdict": "corrections_mineures"
+}

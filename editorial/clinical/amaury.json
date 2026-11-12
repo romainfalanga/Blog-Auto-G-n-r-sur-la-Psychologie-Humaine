@@ -114,6 +114,111 @@
       "number": 1,
       "diagnostic_stage": "known",
       "clinical_focus": "Choisir l’heure selon les fluctuations de la journée"
+    },
+    {
+      "slug": "amaury-voix-faible-reponse-lente-pas-un-oubli",
+      "title": "Voix faible et réponse lente : quand on prend un récit pour un oubli",
+      "description": "La neige de 1985 n’arrive qu’en souffle au micro, et Gérard croit à un oubli : Amaury se souvient, mais sa voix et ses phrases demandent du temps.",
+      "context": "à l’association, un jeudi à dix heures",
+      "topics": [
+        "Démence due à la maladie de Parkinson",
+        "voix faible",
+        "temps de réponse"
+      ],
+      "clinical_intro": "Dans la maladie de Parkinson, la voix peut devenir plus faible, plus monotone et voilée, et la réponse peut mettre plus de temps à venir. Ces difficultés sont souvent prises à tort pour un oubli ou une confusion. Chez Amaury, dont la démence est déjà diagnostiquée, le souvenir est là ; c’est la parole qui demande du temps et un micro plus proche.",
+      "opening": "Jeudi, dix heures. La salle de l’association Mémoire des lignes sent encore le café de l’atelier photo, qui a cédé sa place. Amaury a choisi cette heure lundi, après la séance ratée de quinze heures. Il a dormi correctement, il se sent plus dispos, et il a sorti de sa boîte en fer la feuille de service du 15 janvier 1985.\n\n« La neige, commence-t-il. La côte de Montreynaud. Le bus en travers. »\n\nWassim Rey, qui tient le son et l’image du film, plisse les yeux derrière son casque. Il pousse le curseur, puis retire le casque. Il n’entend qu’un souffle. Soizic Teyssier, la réalisatrice, n’a pas vu le geste de Wassim ; elle croit qu’Amaury a besoin d’aide pour démarrer. Elle enchaîne : « C’était quel bus ? Il y avait des passagers ? Vous aviez peur ? » Amaury en est encore au début de sa première phrase. Il cherche par où entrer : le bus, les passagers ou la peur. Les trois questions s’empilent. Il se tait.\n\nGérard Vial, le président de l’association, assis au fond avec ses classeurs, se penche vers Soizic. « Il ne s’en souvient plus, passons aux autres. On a Marcel à onze heures. »\n\nAmaury entend très bien. Il se souvient du bus articulé resté en travers, des chaînes qu’on n’avait pas, du collègue venu à pied depuis le dépôt avec une pelle. Il se souvient même de la couleur du bonnet d’un écolier. Ce qui ne vient pas, c’est la phrase entière, au bon volume, au bon moment. Rosa, sa compagne, le lui dit souvent à la maison : « Je ne t’entends pas, parle plus fort. » Il croit parler fort.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Se souvenir n’est pas la même chose que pouvoir le dire",
+          "text": "Dans la maladie de Parkinson, une atteinte particulière de la parole peut s’installer progressivement : la voix perd de l’intensité, devient plus monotone ou voilée, et la personne n’en a pas toujours conscience. À cela peut s’ajouter une lenteur du temps de réponse. Ensemble, ces difficultés sont faciles à confondre avec un trou de mémoire ou une confusion, y compris par des soignants à l’hôpital, alors qu’elles concernent d’abord la production de la parole et sa vitesse. Elles peuvent aussi pousser une personne à se retirer des conversations. Chez Amaury, la démence due à la maladie de Parkinson est connue, mais elle ne permet pas de conclure qu’il a oublié la neige de 1985. Les trois questions de Soizic lui demandent d’organiser trop vite une réponse, et la voix ne porte pas jusqu’au micro. L’orthophonie, que l’équipe spécialisée peut proposer, vise justement à maintenir la parole et la communication."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment une parole qui faiblit peut-elle passer pour un oubli ?",
+          "points": [
+            {
+              "heading": "Une voix qui ne porte plus",
+              "text": "La personne a parfois l’impression de parler normalement, alors que ses interlocuteurs n’entendent qu’une voix basse ou voilée.",
+              "examples": [
+                "Wassim retire son casque parce que le récit de la côte de Montreynaud n’arrive qu’en souffle dans l’enregistrement.",
+                "À la maison, Rosa demande souvent à Amaury de parler plus fort, alors qu’il croit déjà le faire."
+              ]
+            },
+            {
+              "heading": "Une réponse qui met du temps à démarrer",
+              "text": "Le temps entre la question et la réponse peut s’allonger ; si l’on remplit ce silence, la personne perd le fil de ce qu’elle préparait.",
+              "examples": [
+                "Amaury en est encore au début de sa phrase quand Soizic ajoute une deuxième, puis une troisième question.",
+                "Face aux trois questions empilées, il se tait, faute de savoir laquelle prendre en premier."
+              ]
+            },
+            {
+              "heading": "Un silence interprété à tort",
+              "text": "L’entourage peut conclure à un oubli à partir d’un silence, et décider à la place de la personne de passer à autre chose.",
+              "examples": [
+                "Gérard affirme « Il ne s’en souvient plus » alors qu’Amaury revoit le collègue arrivé à pied avec une pelle.",
+                "Il propose de passer à Marcel à onze heures, ce qui retirerait à Amaury le récit qu’il a choisi de faire."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour laisser la parole arriver",
+          "points": [
+            {
+              "heading": "Une question à la fois, et du temps",
+              "objective": "Donner à la personne le temps de construire sa réponse sans la couper.",
+              "exercise": [
+                "Poser une seule question courte, par exemple : « Racontez-nous la côte de Montreynaud. »",
+                "Attendre en silence, sans reformuler, même si la réponse tarde.",
+                "Convenir avec la personne d’un signe pour dire qu’elle a fini ou qu’elle souhaite qu’on répète."
+              ],
+              "benefit": "Le récit peut arriver entier plutôt qu’en morceaux, et le silence cesse d’être lu comme un oubli."
+            },
+            {
+              "heading": "Adapter le matériel plutôt que demander de crier",
+              "objective": "Faire en sorte que la voix soit captée sans effort supplémentaire.",
+              "exercise": [
+                "Rapprocher le micro ou proposer un micro-cravate fixé sur la veste.",
+                "Réduire les bruits autour : fermer la porte, éteindre la machine à café.",
+                "Faire écouter un court extrait à la personne et lui demander si le volume lui convient."
+              ],
+              "benefit": "La personne garde son énergie pour raconter, plutôt que pour forcer sa voix."
+            },
+            {
+              "heading": "S’appuyer sur l’orthophonie",
+              "objective": "Faire suivre la difficulté de parole par le professionnel compétent.",
+              "exercise": [
+                "Décrire à l’équipe ce qui a été observé : la voix basse, la réponse lente, le souvenir intact.",
+                "Demander si un bilan ou des séances d’orthophonie sont possibles.",
+                "Laisser l’orthophoniste proposer les exercices ; le groupe n’évalue ni la parole ni la mémoire."
+              ],
+              "benefit": "Un suivi orthophonique peut aider à maintenir la communication, sans promettre de rendre la voix d’avant."
+            }
+          ]
+        }
+      ],
+      "ending_title": "La main posée à plat sur la table",
+      "ending": "Amaury lève la main vers Gérard. Il parle lentement, et Wassim, cette fois, a remis son casque. « Laisse-moi finir, Gérard. Je me souviens. C’est la phrase qui est lente. » Gérard rougit et se rassoit. Wassim sort de sa sacoche un micro-cravate et le fixe au revers de la veste d’Amaury. Celui-ci propose un signe à Soizic : quand il pose la main à plat sur la table, il a terminé ; avant, elle attend. Soizic repose une seule question. La neige de 1985 arrive, lentement, avec le bus en travers et la pelle du collègue ; dans le casque, Wassim l’entend enfin. Tout n’est pas audible, et il faudra peut-être refaire un passage. En rentrant, Amaury appelle Sabine Ferrand, l’infirmière de coordination de l’équipe Parkinson, qui lui donne un rendez-vous avec Quentin Delorme, l’orthophoniste de l’équipe, le mardi suivant.",
+      "conclusion": "Cet épisode montre qu’une voix faible et une réponse lente, fréquentes dans la maladie de Parkinson, ne signifient pas qu’un souvenir est perdu. Amaury reprend la parole devant le groupe, change de micro et confie sa voix à l’orthophoniste plutôt que de laisser les autres conclure à sa place.",
+      "mirror": [
+        "Devant un silence comme celui d’Amaury, un proche peut retenir la phrase « Il ne s’en souvient plus » et dire plutôt : « Je t’écoute, prends ton temps. » Poser une seule question, puis attendre, respecte ce qu’il sait. Rosa peut aussi lui dire calmement qu’elle l’entend mal, sans lui demander de crier, et lui laisser décider s’il en parle à l’orthophoniste. Ni elle ni Gérard n’ont à tester sa mémoire."
+      ],
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "has-parkinson-2016",
+        "nice-ng71"
+      ],
+      "continuity": {
+        "choice": "Amaury demande à Gérard de le laisser finir, adopte le micro-cravate et le signe de la main à plat, et obtient par Sabine Ferrand un rendez-vous avec l’orthophoniste Quentin Delorme le mardi suivant.",
+        "next": "Le lundi suivant, Gérard a prévu une séance d’une heure et demie sur les écoliers du terminus, et c’est la fin de la séance qui devient difficile."
+      },
+      "number": 2,
+      "diagnostic_stage": "known",
+      "clinical_focus": "Voix faible et réponse lente prises pour un oubli"
     }
   ]
 }
