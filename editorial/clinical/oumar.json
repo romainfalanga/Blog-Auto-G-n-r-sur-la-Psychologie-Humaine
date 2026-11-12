@@ -432,6 +432,324 @@
       },
       "number": 4,
       "diagnostic_stage": "known"
+    },
+    {
+      "slug": "oumar-changer-de-plan-imprevu-livraison",
+      "title": "Changer de plan quand un imprévu bouscule le chantier",
+      "description": "La scierie annonce trois semaines de retard pour le chêne. Oumar, qui avait tout prévu autour de cette livraison, se braque et claque la porte de l’abri.",
+      "context": "un jeudi d’avril, le jour de la livraison manquée",
+      "topics": [
+        "flexibilité mentale",
+        "irritabilité devant l’imprévu",
+        "plan B écrit"
+      ],
+      "clinical_focus": "Changer de plan quand le bois manque",
+      "clinical_intro": "Modifier un plan devant un imprévu fait partie des fonctions exécutives, qui peuvent être touchées dans une démence. Quand un programme construit avec effort s’effondre, l’irritation peut monter vite. Pour Oumar, la livraison de chêne n’était pas un détail : toute la fiche d’étapes reposait dessus. Avant de juger son caractère, il s’agit de comprendre ce que ce changement lui demande.",
+      "opening": "Le jeudi matin, Oumar a dégagé l’allée devant l’abri pour le camion. Le gabarit en carton est posé sur l’établi, la fiche d’étapes porte à l’encre la ligne suivante : « Jeudi : recevoir trois lattes de chêne. Vendredi : tracer avec le gabarit. » Il l’a relue deux fois au petit-déjeuner. Odette Bréhier, sa voisine de bac, est descendue avec un thermos de café et un chiffon propre, parce qu’elle aime voir arriver les choses.\n\nÀ dix heures, le téléphone sonne. C’est la scierie Guérin, à Bouguenais, où Oumar a commandé le chêne avec l’aide de Nathalie Jouan, la coordinatrice de la résidence. Le chêne de bonne longueur n’arrivera pas avant trois semaines. Il leur reste du châtaignier, sec, qu’on peut livrer lundi. Oumar répète au téléphone que le banc était en chêne. La dame de la scierie dit qu’elle comprend et qu’il peut rappeler.\n\nGérard Pichon, le menuisier retraité qui habite le deuxième étage, passait par l’allée. Il a entendu. « Le châtaignier, ça tient très bien dehors. On le prend lundi et c’est réglé. » Oumar ne l’écoute pas. Il voit la fiche, la ligne du jeudi, celle du vendredi, et tout ce qui venait après, et il n’arrive pas à imaginer un autre ordre. Il dit que le chêne est le chêne, que les quatre lattes d’origine sont en chêne, que ça ne se mélange pas. Gérard hausse les épaules.\n\nOdette demande doucement : « En attendant, on pourrait huiler la fonte ? » C’est la question de trop. Oumar répond sèchement qu’il n’a pas besoin qu’on lui trouve de quoi s’occuper. Il sort de l’abri en claquant la porte, si fort que le gabarit glisse de l’établi. Il marche jusqu’au bout de l’allée, jusqu’à ses bacs de fèves. Là, devant les tiges qui montent, la colère retombe d’un coup, et il ne reste que la honte d’avoir parlé ainsi à Odette.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Quand le plan ne peut plus se déplier autrement",
+          "text": "La flexibilité mentale permet d’abandonner un plan devenu impossible et d’en construire un autre à partir de la situation nouvelle. Elle fait partie des fonctions exécutives, souvent touchées dans la démence liée à l’alcool, et une démence peut aussi s’accompagner de changements comme une irritabilité. Les recommandations demandent, devant ce genre de réaction, de chercher d’abord ses raisons et ce qui, dans l’environnement, l’a déclenchée. Ici, la raison est visible : Oumar avait mis des semaines à installer une fiche d’étapes et chaque ligne dépendait de la livraison. L’appel de la scierie ne retire pas une étape, il fait tomber toute la suite. Ce qu’on lui propose demande alors de comparer deux bois, de recalculer un ordre et de décider vite, trois opérations coûteuses pour lui. Son refus et sa colère tiennent à cette surcharge plus qu’à un trait de caractère."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment l’imprévu bouscule-t-il une organisation fragile ?",
+          "points": [
+            {
+              "heading": "Le plan initial s’impose encore",
+              "text": "Quand le programme prévu devient impossible, la personne peut continuer à s’y référer, faute de pouvoir en imaginer un autre tout de suite.",
+              "examples": [
+                "Oumar répète au téléphone que le banc était en chêne.",
+                "Il revoit les lignes du jeudi et du vendredi sans parvenir à un autre ordre."
+              ]
+            },
+            {
+              "heading": "Les propositions arrivent trop vite",
+              "text": "Plusieurs options lancées en même temps, même bonnes, peuvent ajouter de la charge au lieu d’aider.",
+              "examples": [
+                "Gérard propose le châtaignier et une livraison lundi dans la même phrase.",
+                "Odette suggère d’huiler la fonte alors qu’Oumar n’a pas encore digéré l’appel."
+              ]
+            },
+            {
+              "heading": "La colère puis le regret",
+              "text": "L’irritation peut éclater contre la personne la plus proche, puis retomber et laisser place à la gêne.",
+              "examples": [
+                "Oumar répond sèchement à Odette et claque la porte de l’abri.",
+                "Devant ses bacs de fèves, il a honte de lui avoir parlé ainsi."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour traverser un changement de programme",
+          "points": [
+            {
+              "heading": "Écrire un plan B avant chaque livraison",
+              "objective": "Avoir une suite déjà pensée si l’étape attendue n’a pas lieu.",
+              "exercise": [
+                "Sous chaque étape qui dépend d’un autre, ajouter une ligne « si ça n’arrive pas ».",
+                "Y écrire une action possible sans cette étape, préparée au calme.",
+                "Relire le plan B au moment où l’imprévu se produit, avant de répondre."
+              ],
+              "benefit": "Un plan B écrit à l’avance peut éviter d’avoir à inventer une solution sous le coup de la surprise."
+            },
+            {
+              "heading": "Reporter la décision au lendemain matin",
+              "objective": "Ne pas trancher pendant que l’irritation est à son maximum.",
+              "exercise": [
+                "Dire à son interlocuteur : « Je vous rappelle demain matin. »",
+                "Noter les options proposées sur une feuille, sans les comparer tout de suite.",
+                "Les reprendre le lendemain, si possible avec une personne choisie."
+              ],
+              "benefit": "Un délai court peut laisser la colère retomber et rendre la comparaison plus abordable."
+            },
+            {
+              "heading": "Séparer ce qui avance de ce qui attend",
+              "objective": "Garder une activité possible sans toucher à la décision difficile.",
+              "exercise": [
+                "Lister les tâches du chantier qui ne dépendent pas de la livraison.",
+                "En choisir une seule pour la journée.",
+                "Laisser la décision du bois sur une ligne à part, datée."
+              ],
+              "benefit": "Avancer sur une tâche indépendante peut redonner prise sur le projet ; si l’irritabilité devient fréquente, en parler à l’équipe aide à en chercher les raisons."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Le chiffon tendu",
+      "ending": "Le soir, Oumar écrit sur un papier les deux options sans les comparer : « chêne dans trois semaines » et « châtaignier lundi ». Il ne rappelle pas la scierie. Le vendredi matin, Yannick Le Floch, l’ergothérapeute, le rappelle comme convenu avec Nathalie. Ils reprennent le papier ensemble au téléphone. Oumar dit qu’il préfère attendre : quatre lattes de chêne et trois de châtaignier, il ne s’y ferait pas. Yannick lui propose d’ajouter à la fiche une ligne qui ne dépend de personne : « En attendant : brosser et huiler la fonte. » Oumar rit, parce que c’était l’idée d’Odette.\n\nIl rappelle la scierie pour confirmer le chêne, puis descend à l’abri. Odette est là, devant les bacs. Il s’excuse, sans détour : il lui a mal parlé et elle ne le méritait pas. Elle accepte en lui tendant le chiffon. Ils passent l’après-midi sur la fonte. Le soir, Oumar ajoute sous chaque étape une ligne « si ça n’arrive pas ». Il se doute que le prochain imprévu le prendra encore de court.",
+      "conclusion": "Cet épisode montre qu’un imprévu peut faire tomber tout un plan construit avec effort, et que la colère qui suit tient souvent à cette surcharge. En reportant sa décision, Oumar choisit d’attendre le chêne et répare la relation avec Odette.",
+      "mirror": [
+        "Devant l’abri, Odette propose d’huiler la fonte au mauvais moment, et reçoit une réponse sèche. Un proche dans cette situation peut laisser passer la colère sans y répondre, puis dire plus tard : « Tu veux qu’on regarde ce qui peut avancer sans le bois ? » Il n’a pas à accepter d’être mal traité ni à tout excuser au nom de la maladie ; il peut dire que la réponse l’a blessé. Si les colères deviennent fréquentes, il peut encourager la personne à en parler à son équipe."
+      ],
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "ridley-2013",
+        "nice-ng97",
+        "has-fiche13-comportement"
+      ],
+      "continuity": {
+        "choice": "Oumar décide le vendredi, avec Yannick au téléphone, d’attendre le chêne de la scierie Guérin et d’huiler la fonte en attendant ; il s’excuse auprès d’Odette. La fiche porte désormais un plan B sous chaque étape.",
+        "next": "Attendre le chêne coûtera plus cher et une seconde scierie a fait une offre : la cagnotte des résidents devra être recomptée devant deux devis."
+      },
+      "number": 5,
+      "diagnostic_stage": "known"
+    },
+    {
+      "slug": "oumar-cagnotte-decisions-complexes-argent",
+      "title": "Gérer de l’argent et comparer des devis devient difficile",
+      "description": "Devant deux devis et la boîte de la cagnotte, Oumar se trompe dans la monnaie et perd le fil des livraisons. Il tient pourtant à garder sa responsabilité.",
+      "context": "un samedi de fin avril dans le salon de la résidence",
+      "topics": [
+        "décisions complexes",
+        "maniement de l’argent",
+        "second signataire choisi"
+      ],
+      "clinical_focus": "Gérer la cagnotte : décisions complexes et argent",
+      "clinical_intro": "Dans une démence légère, une personne peut vivre de façon largement autonome avec du soutien, tout en ayant du mal avec les décisions à plusieurs paramètres et le maniement de l’argent, comme rendre la monnaie ou comparer des factures. Oumar a accepté de tenir la cagnotte du banc. Comparer deux devis, compter et rendre juste lui coûtent, mais cette responsabilité compte pour lui.",
+      "opening": "Le samedi après-midi, Oumar a posé sur la table basse du salon la boîte de la cagnotte : une ancienne boîte à biscuits bleue, avec une fente découpée dans le couvercle par Gérard Pichon, le menuisier retraité du deuxième étage. Depuis la réunion de mars, les résidents y ont glissé des billets et des pièces. À côté, deux devis. Le premier vient de la scierie Guérin, celle du chêne attendu : trois lattes à 168 euros, et une ligne en petit plus bas. Le second, que Gérard a obtenu d’une scierie de Bouaye qu’il connaît, annonce 196 euros, lattes coupées à mesure, livrées début juillet.\n\nMonsieur Rio, un résident du rez-de-chaussée, arrive avec un billet de vingt euros. Il veut donner cinq euros. Oumar ouvre la boîte, cherche la monnaie, compte à voix haute et lui rend un billet de cinq. Monsieur Rio attend, poli. Odette Bréhier, la voisine de bac d’Oumar, dit doucement qu’il manque dix euros. Oumar recompte, rougit, rend le billet de dix.\n\nPuis il reprend les devis. Il additionne le contenu de la boîte sur un coin de papier : il trouve 231 euros, puis 213, puis à nouveau 231. Il ne sait plus lequel des deux devis comprend la livraison, ni si 168 est plus ou moins que 196 une fois tout compté. Les chiffres se déplacent dès qu’il regarde l’autre feuille.\n\nGérard s’approche de la table. « Donne-moi tout ça, je m’en occupe, ce sera plus simple. » Il le dit sans méchanceté, en tendant déjà la main vers la boîte. Oumar pose la sienne sur le couvercle. C’est lui qui a proposé le banc, c’est lui que la réunion a désigné pour la cagnotte. Il ne veut pas qu’on la lui retire parce qu’il s’est trompé de dix euros. Mais il sait aussi qu’il ne saura pas choisir seul entre ces deux feuilles.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Une responsabilité choisie, un calcul qui coûte",
+          "text": "Les décisions complexes demandent de tenir plusieurs informations à la fois, de les comparer et d’en tirer un choix. Dans une démence, même légère, le jugement et la résolution de problèmes sont souvent touchés, et l’argent devient un terrain difficile : rendre la monnaie, payer une facture, additionner des frais cachés. Une démence légère peut pourtant passer inaperçue pour qui connaît peu la personne et permettre une vie largement autonome avec un soutien. Devant les devis, Oumar doit garder en tête deux prix, une livraison incluse ou non, deux délais et le contenu de la boîte. Ce sont ces informations simultanées qui se brouillent, pas sa compréhension du projet. Il faut donc distinguer la responsabilité, qu’il peut garder, du calcul lui-même, qu’il peut partager. Retirer la boîte à Oumar parce qu’un calcul lui échappe effacerait cette distinction."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment l’argent et les choix complexes deviennent-ils difficiles ?",
+          "points": [
+            {
+              "heading": "Rendre la monnaie demande un effort",
+              "text": "Une opération courante, faite mille fois, peut devenir source d’erreurs quand il faut compter et soustraire en même temps.",
+              "examples": [
+                "Oumar rend cinq euros au lieu de quinze à Monsieur Rio pour un billet de vingt.",
+                "Il recompte devant tout le monde après la remarque d’Odette."
+              ]
+            },
+            {
+              "heading": "Plusieurs paramètres se mélangent",
+              "text": "Comparer des offres suppose de garder à l’esprit les prix, les frais et les délais ; l’un d’eux peut s’effacer pendant qu’on lit l’autre.",
+              "examples": [
+                "Oumar ne sait plus lequel des devis comprend la livraison.",
+                "Il trouve trois totaux différents pour la même boîte."
+              ]
+            },
+            {
+              "heading": "La tentation de tout reprendre",
+              "text": "L’entourage peut vouloir remplacer la personne dès la première erreur, au risque de lui retirer un rôle qui compte.",
+              "examples": [
+                "Gérard tend la main vers la boîte en disant que ce sera « plus simple ».",
+                "Oumar pose la main sur le couvercle pour garder sa place dans le projet."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour décider d’une dépense sans se perdre",
+          "points": [
+            {
+              "heading": "Préparer un tableau à deux colonnes",
+              "objective": "Mettre côte à côte les informations à comparer au lieu de les garder en tête.",
+              "exercise": [
+                "Tracer une colonne par devis sur une grande feuille.",
+                "Écrire sur la même ligne le prix, la livraison et le délai de chacun.",
+                "Entourer le total final de chaque colonne avant de choisir."
+              ],
+              "benefit": "Un tableau peut rendre visibles des frais oubliés et alléger la comparaison."
+            },
+            {
+              "heading": "Choisir soi-même un second signataire",
+              "objective": "Partager le contrôle des calculs sans perdre la responsabilité.",
+              "exercise": [
+                "Désigner une personne de confiance pour vérifier chaque dépense.",
+                "Noter chaque entrée et chaque sortie dans un cahier signé par les deux.",
+                "Garder la boîte et la décision finale chez la personne responsable."
+              ],
+              "benefit": "Une double signature peut protéger l’argent commun et la personne, sans la remplacer."
+            },
+            {
+              "heading": "Laisser un temps avant de payer",
+              "objective": "Ne pas engager l’argent sous la pression d’un moment.",
+              "exercise": [
+                "Fixer une règle simple : aucune dépense le jour où l’on découvre les devis.",
+                "Relire le tableau le lendemain avec le second signataire.",
+                "Annoncer le choix à ceux qui ont donné, puis payer."
+              ],
+              "benefit": "Ce délai peut réduire les erreurs et rendre la décision plus sereine ; pour les finances personnelles plus lourdes, l’équipe peut aider à trouver un appui adapté."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Le cahier à deux signatures",
+      "ending": "Oumar remercie Gérard et garde la boîte. « Je la garde. Mais je ne compterai plus seul. » Le soir, il appelle Jean-Paul Le Goff, son ami de trente ans, et lui demande s’il veut bien cosigner chaque dépense. Jean-Paul vient le dimanche avec un cahier d’écolier à grands carreaux. Ils comptent ensemble : 231 euros. Ils tracent deux colonnes. Dans la colonne Guérin, la petite ligne du bas apparaît enfin : livraison, 45 euros. Total, 213. Dans la colonne Bouaye, 196, livraison comprise, mais pas de lattes avant début juillet.\n\nOumar laisse le cahier fermé jusqu’au lundi. Puis il choisit Bouaye : moins cher, et il préfère attendre un chêne coupé à la mesure de son banc. Jean-Paul signe sous lui. Oumar rappelle la scierie Guérin pour annuler poliment. Le vendredi suivant, à la réunion des résidents, il annonce le choix, le prix et la date de juillet. Gérard grogne que le banc ne sera pas fini avant l’été ; personne ne demande à reprendre la boîte. Oumar sait que les prochaines dépenses, l’huile et les vis inox, passeront par le cahier.",
+      "conclusion": "L’épisode montre qu’une démence légère peut rendre l’argent et les décisions à plusieurs paramètres difficiles sans retirer à la personne sa responsabilité. Oumar garde la cagnotte, choisit son cosignataire et un devis qu’il comprend, au prix d’un chantier plus long.",
+      "mirror": [
+        "Quand Gérard tend la main vers la boîte, il croit aider. Jean-Paul, lui, apporte un cahier et une colonne par devis, puis signe sous Oumar. Un proche peut proposer : « Tu veux qu’on compte ensemble, et c’est toi qui décides ? » Il n’a pas à prendre le contrôle de l’argent ni à évaluer les capacités de la personne. S’il s’inquiète pour des finances plus importantes, il peut l’encourager à en parler avec la coordinatrice ou l’équipe, plutôt que d’agir seul."
+      ],
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "nice-ng97",
+        "has-fiche14-communiquer",
+        "has-fiche13-comportement"
+      ],
+      "continuity": {
+        "choice": "Oumar garde la boîte de la cagnotte et fait cosigner chaque dépense par Jean-Paul dans un cahier ; il choisit le devis de Bouaye, livraison comprise, 196 euros, lattes coupées à mesure et livrées début juillet, et l’annonce à la réunion des résidents.",
+        "next": "Deux semaines plus tard, un matin de mai, Odette trouve Oumar devant son bac, désorienté et incapable de tenir debout sans appui."
+      },
+      "number": 6,
+      "diagnostic_stage": "known"
+    },
+    {
+      "slug": "oumar-confusion-soudaine-ne-pas-presumer-rechute",
+      "title": "Une confusion soudaine demande une évaluation, pas une supposition",
+      "description": "Un matin de mai, Odette trouve Oumar perdu près des fèves. Un résident murmure qu’il a dû boire ; Odette, elle, va chercher l’accueil, qui appelle le 15.",
+      "context": "un matin de mai près des bacs du jardin",
+      "topics": [
+        "confusion aiguë",
+        "appel au 15",
+        "cause recherchée par les soignants"
+      ],
+      "clinical_focus": "Confusion soudaine : ne pas présumer une rechute",
+      "clinical_intro": "Une personne qui vit avec une démence a un risque accru de confusion aiguë. Un changement brutal de l’attention, de l’orientation ou de la vigilance est une urgence médicale dont la cause doit être recherchée par des soignants. Ni le diagnostic connu ni l’histoire de la personne ne permettent de deviner cette cause. Ce matin-là, devant Oumar, il s’agit d’abord d’appeler à l’aide.",
+      "opening": "Il est un peu plus de sept heures, un mardi de mai, quand Odette Bréhier, la voisine de bac d’Oumar, descend arroser ses salades avant la chaleur. Le jardin du Clos des Mauves est encore humide. Elle voit Oumar près des fèves, en pyjama et en chaussons, une main sur le rebord du bac. Il se retourne vers elle et lui demande où est la sortie des jardins de la Crapaudine. Il dit qu’il doit rentrer avant que Jean-Paul ferme le portail.\n\nOdette connaît Oumar depuis mars. Elle l’a vu fatigué, irrité, perdu dans des chiffres, jamais comme ça. Il ne la reconnaît pas tout de suite. Ses phrases partent dans un sens puis dans un autre ; il parle de la cabane, puis du banc, puis d’un rendez-vous qu’il aurait manqué. Il lâche le bac pour faire un pas et ses jambes ne le portent presque plus. Elle le rattrape par le bras et l’aide à s’asseoir sur la chaise de jardin restée près des tomates.\n\nMonsieur Lebrun, un résident du premier étage qui promène son chien tous les matins, s’est arrêté dans l’allée. Il regarde Oumar et murmure à Odette, assez bas : « Il a dû boire, non ? » Odette ne lui répond pas. Elle ne sait pas ce qu’a Oumar, et ce n’est pas à elle de le deviner. Elle sait seulement qu’hier soir, au dîner, il racontait la fonte du banc avec ses mots habituels, et que ce matin il ne sait plus où il est.\n\nElle demande à Monsieur Lebrun de rester à côté d’Oumar sans le faire lever et de lui parler doucement. Puis elle marche aussi vite qu’elle peut jusqu’à l’accueil. Nathalie Jouan, la coordinatrice de la résidence, vient d’arriver. Odette lui dit ce qu’elle a vu, dans l’ordre, et depuis quand. Nathalie prend le téléphone et compose le 15.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Un changement brutal n’a pas d’explication évidente",
+          "text": "Une confusion aiguë se reconnaît à un changement rapide, en quelques heures ou quelques jours, de l’attention, de l’orientation et de la vigilance. Les personnes qui vivent avec une démence y sont plus exposées, et ce changement demande une évaluation médicale de sa cause. Les descriptions cliniques rappellent aussi qu’une coïncidence avec une histoire de consommation ne suffit pas pour présumer qu’une substance est en cause. Le murmure de Monsieur Lebrun fait exactement ce raccourci : il voit un homme qui vacille et parle mal, il pense au cliché le plus courant et il conclut, sans rien savoir de l’histoire d’Oumar. Odette, elle, compare avec ce qu’elle connaît d’Oumar : la veille au soir, il parlait comme d’habitude ; ce matin, il ne sait plus où il se trouve. Cette différence brutale, quelle que soit son origine, est la seule information utile qu’elle peut donner. La cause, ce sont les soignants qui la chercheront."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment repérer une confusion soudaine qui nécessite de l’aide ?",
+          "points": [
+            {
+              "heading": "Une désorientation inhabituelle",
+              "text": "La personne peut se croire dans un autre lieu ou à une autre époque, d’une façon qui tranche avec ses difficultés connues.",
+              "examples": [
+                "Oumar cherche la sortie des jardins de la Crapaudine, qu’il a quittés en mars.",
+                "Il ne reconnaît pas tout de suite Odette, qu’il voit chaque jour depuis deux mois."
+              ]
+            },
+            {
+              "heading": "Une parole décousue et un corps qui lâche",
+              "text": "Le discours peut perdre son fil et la personne peut tenir mal debout, alors qu’elle allait bien peu avant.",
+              "examples": [
+                "Ses phrases sautent de la cabane au banc puis à un rendez-vous imaginaire.",
+                "Ses jambes ne le portent presque plus quand il lâche le rebord du bac."
+              ]
+            },
+            {
+              "heading": "Une explication hâtive de l’entourage",
+              "text": "Devant un changement brutal, l’entourage peut plaquer une cause tirée d’un cliché ou d’un diagnostic connu, ce qui risque de retarder l’aide.",
+              "examples": [
+                "Monsieur Lebrun murmure qu’Oumar « a dû boire ».",
+                "Odette refuse de répondre et décrit seulement ce qu’elle voit à Nathalie."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour réagir face à une confusion brutale",
+          "points": [
+            {
+              "heading": "Décrire ce qu’on voit et depuis quand",
+              "objective": "Donner aux secours des faits plutôt qu’une hypothèse.",
+              "exercise": [
+                "Noter mentalement l’heure où l’on a trouvé la personne.",
+                "Dire ce qu’elle fait et dit, et comment elle allait la dernière fois qu’on l’a vue.",
+                "Ne rien ajouter sur la cause supposée."
+              ],
+              "benefit": "Des faits précis peuvent aider le médecin régulateur à évaluer l’urgence."
+            },
+            {
+              "heading": "Appeler le 15 sans attendre",
+              "objective": "Faire évaluer rapidement un changement brutal de l’état.",
+              "exercise": [
+                "Composer le 15, ou faire appeler une personne de l’accueil.",
+                "Suivre les consignes données au téléphone et rappeler si l’état change.",
+                "Rester près de la personne jusqu’à l’arrivée des secours."
+              ],
+              "benefit": "Un appel immédiat permet à des soignants de chercher la cause au lieu de laisser l’entourage la deviner."
+            },
+            {
+              "heading": "Transmettre le diagnostic et les contacts",
+              "objective": "Donner aux soignants les informations utiles à leur évaluation.",
+              "exercise": [
+                "Préparer, quand c’est prévu dans le plan d’aide, le nom de l’équipe qui suit la personne.",
+                "Remettre aux secours le diagnostic connu et le contact de la consultation, sans l’utiliser comme explication.",
+                "Prévenir le proche désigné par la personne."
+              ],
+              "benefit": "Ces informations peuvent orienter l’équipe hospitalière, qui reste seule à pouvoir établir la cause."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Seulement qu’il a été malade",
+      "ending": "Au téléphone, le médecin régulateur du Samu pose ses questions à Nathalie : depuis quand, comment il allait la veille, s’il respire normalement, s’il répond. Il lui demande de le laisser assis, de le couvrir et de rester avec lui. Nathalie redescend au jardin avec une couverture et reste près d’Oumar jusqu’à l’arrivée de l’ambulance. Elle remet aux secours la fiche du plan d’aide, avec le diagnostic et le numéro de la consultation mémoire, et dit à Monsieur Lebrun que personne ne sait encore ce qui se passe. Puis elle appelle Jean-Paul Le Goff, le proche qu’Oumar a désigné.\n\nAux urgences, l’équipe examine Oumar, fait des analyses et trouve une infection. Il reste hospitalisé quatre jours pour la traiter. Le troisième jour, il reconnaît Jean-Paul, puis Nathalie, venue lui apporter des affaires. Il ne se souvient presque pas du matin au jardin. Quand Nathalie lui raconte ce qu’Odette a fait, il lui demande une seule chose : que les résidents sachent seulement qu’il a été malade. Nathalie promet de dire cela, et rien d’autre. Oumar ne sait pas encore dans quel état il rentrera au Clos.",
+      "conclusion": "Cet épisode montre qu’une confusion soudaine chez une personne qui vit avec une démence est une urgence dont la cause doit être cherchée par des soignants. Ni la rumeur ni le diagnostic ne l’expliquaient : c’était une infection, et Oumar garde la main sur ce que les résidents en sauront.",
+      "mirror": [
+        "Devant Oumar en pyjama près des fèves, Odette ne répond pas au murmure de Monsieur Lebrun : elle l’assoit, demande qu’on reste avec lui et va chercher l’accueil. Un voisin ou un proche peut faire de même et dire : « Il allait bien hier soir, ce matin il ne sait plus où il est. » Il n’a pas à deviner la cause, ni à répéter des suppositions aux autres résidents. Si personne de l’équipe n’est là, il compose lui-même le 15 et suit les consignes."
+      ],
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "nice-ng97",
+        "service-public-15",
+        "nice-cg115"
+      ],
+      "continuity": {
+        "choice": "Nathalie Jouan appelle le 15, suit les consignes, transmet le diagnostic et le contact de la consultation aux secours et prévient Jean-Paul ; l’hôpital trouve une infection, traitée pendant quatre jours d’hospitalisation. Oumar demande que les résidents sachent seulement qu’il a été malade.",
+        "next": "De retour au Clos des Mauves, il lui faudra quelques jours pour retrouver son niveau habituel, et le bilan de suivi prévu en juillet chez la docteure Morvan prendra un autre poids."
+      },
+      "number": 7,
+      "diagnostic_stage": "known"
     }
   ]
 }

@@ -138,7 +138,7 @@
     {
      "severity": "mineur",
      "type": "lien_concept",
-     "quote": "le rendez-vous de Benoît chez le dentiste",
+     "quote": "rendez-vous de Benoît chez le dentiste",
      "problem": "La fiche annonce une inquiétude pour « la santé de son frère Benoît » ; un rendez-vous dentaire ordinaire illustre mal ce souci et peut sembler anecdotique.",
      "fix": "Donner une raison crédible et sobre : un contrôle médical que Benoît a mentionné en passant, et dont Antonin n'ose pas demander le résultat."
     }

@@ -534,6 +534,320 @@
       "number": 5,
       "diagnostic_stage": "known",
       "clinical_focus": "Suivre un trajet sur un plan de réseau"
+    },
+    {
+      "slug": "amaury-visage-peu-expressif-pas-indifference",
+      "title": "Un visage peu expressif n’est pas de l’indifférence",
+      "description": "Sur les rushs, le visage d’Amaury bouge à peine pendant qu’il parle de Fatou ; Soizic croit qu’il n’est pas touché, alors qu’il avait la gorge serrée.",
+      "context": "devant les premiers rushs, un mardi matin",
+      "topics": [
+        "Démence due à la maladie de Parkinson",
+        "expression du visage",
+        "dire ce qu’on ressent"
+      ],
+      "clinical_intro": "Dans la maladie de Parkinson, le visage peut devenir moins mobile et exprimer moins qu’avant ce que la personne ressent. Ce décalage est souvent pris pour de l’indifférence ou de la tristesse, sans l’être. Amaury, dont la démence parkinsonienne est déjà diagnostiquée, découvre sur un écran un visage presque immobile au moment où, intérieurement, il était ému.",
+      "opening": "Le mardi suivant, à dix heures, Soizic Teyssier, la réalisatrice du film, a branché son ordinateur sur la télévision de la salle de l’association. Elle a demandé à Amaury s’il voulait voir les premiers rushs seul ou accompagné ; il a choisi de venir avec Rosa, sa compagne, qui a pris sa matinée. Wassim Rey, le technicien son et image, baisse les stores.\n\nÀ l’écran, Amaury raconte les écoliers du terminus. On entend bien sa voix, grâce au micro-cravate. Il parle de Fatou, la petite qui faisait ses devoirs sur la banquette du fond, et de ce jour de juin où elle lui a offert un dessin du bus avec écrit « Monsieur 9 ». Sa voix ralentit sur « Monsieur 9 ». Mais son visage, lui, bouge à peine. Les sourcils restent immobiles, la bouche presque droite, les yeux fixés au-dessus de la caméra.\n\nSoizic met sur pause. Elle choisit ses mots, gênée. « Je me demande si on garde ces plans-là. On dirait que ça ne te touche pas. Les spectateurs risquent de ne pas comprendre. »\n\nAmaury regarde l’image figée de lui-même. Il ne la reconnaît pas tout à fait. « J’avais la gorge serrée, dit-il. Je l’ai gardé, le dessin. » Sa voix est basse ; il doit le redire pour que Soizic entende.\n\nRosa ne dit rien tout de suite. Elle connaît ce visage-là, qui ne bouge plus comme avant depuis plusieurs années. Au début, elle croyait qu’il boudait, au repas du dimanche, ou que ses amies de la chorale l’ennuyaient. Puis elle a appris à regarder ailleurs : ses mains, ses silences, ce qu’il racontait le soir. Derrière ce visage, il est souvent ému. Elle pose la main sur le dossier de sa chaise.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Ce que montre le visage et ce que ressent la personne",
+          "text": "Dans la maladie de Parkinson, l’expression du visage peut diminuer : les traits bougent moins et moins vite, et le visage peut paraître figé alors que la personne ressent beaucoup. Ce signe, comme le ralentissement, est commun à la maladie de Parkinson et à d’autres difficultés, si bien qu’on ne peut pas en déduire de l’indifférence, ni de la tristesse, ni une dépression : seule l’équipe de soins peut évaluer l’humeur, en écoutant la personne et ses proches. Chez Amaury, la démence due à la maladie de Parkinson est connue, mais le visage immobile sur l’écran dit autre chose que ce qu’il éprouvait. Sa gorge serrée et le dessin gardé de Fatou racontent l’émotion que ses sourcils n’ont pas montrée. Soizic lit le visage comme on le fait d’habitude ; Rosa, elle, a appris à demander et à regarder les mains."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment un visage moins expressif peut-il être mal compris ?",
+          "points": [
+            {
+              "heading": "Une émotion forte derrière des traits immobiles",
+              "text": "Ce que la personne ressent peut être intense alors que son visage en montre peu.",
+              "examples": [
+                "À l’écran, les sourcils d’Amaury restent immobiles pendant qu’il raconte le dessin « Monsieur 9 ».",
+                "Il explique ensuite qu’il avait la gorge serrée à ce moment-là, et qu’il a gardé le dessin."
+              ]
+            },
+            {
+              "heading": "Une lecture spontanée qui se trompe",
+              "text": "L’entourage lit souvent un visage peu mobile comme du désintérêt, de l’ennui ou de la bouderie.",
+              "examples": [
+                "Soizic dit « On dirait que ça ne te touche pas » et propose de couper les plans.",
+                "Rosa se souvient qu’autrefois elle pensait qu’il boudait au repas du dimanche."
+              ]
+            },
+            {
+              "heading": "D’autres indices que le visage",
+              "text": "La voix, les gestes, les mots choisis et ce que la personne dit d’elle-même renseignent mieux que les traits seuls.",
+              "examples": [
+                "La voix d’Amaury ralentit sur « Monsieur 9 », ce que le micro-cravate a bien capté.",
+                "Rosa a appris à regarder ses mains et à écouter ce qu’il raconte le soir."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour ne pas se fier au seul visage",
+          "points": [
+            {
+              "heading": "Demander plutôt que deviner",
+              "objective": "Remplacer l’interprétation du visage par la parole de la personne.",
+              "exercise": [
+                "Remarquer le moment où l’on se dit « il n’a pas l’air touché ».",
+                "Poser une question ouverte : « Qu’est-ce que tu ressentais à ce moment-là ? »",
+                "Accepter la réponse telle qu’elle vient, même brève, sans la discuter."
+              ],
+              "benefit": "La personne peut dire ce que son visage ne montre plus, et l’entourage évite une conclusion fausse."
+            },
+            {
+              "heading": "Laisser la personne nommer son émotion",
+              "objective": "Lui garder le dernier mot sur ce qu’elle éprouve.",
+              "exercise": [
+                "Ne pas proposer d’étiquette à sa place, comme « tu es triste » ou « tu t’en fiches ».",
+                "Si elle le souhaite, lui laisser écrire ou enregistrer une phrase sur ce moment.",
+                "Utiliser ses mots à elle quand on en reparle aux autres."
+              ],
+              "benefit": "L’émotion est décrite par celui qui la vit ; c’est aussi utile à l’équipe si l’humeur doit un jour être évaluée."
+            },
+            {
+              "heading": "Choisir avec elle comment on la montre",
+              "objective": "Associer la personne aux décisions sur son image.",
+              "exercise": [
+                "Lui montrer les images et lui demander ce qu’elle souhaite garder.",
+                "Proposer d’autres plans qui disent l’émotion autrement : les mains, un objet, la voix.",
+                "Lui faire valider la séquence avant de la monter définitivement."
+              ],
+              "benefit": "Le film peut alors montrer ce que la personne ressent, sans la réduire à un visage qu’elle ne reconnaît pas."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Les mains sur le volant",
+      "ending": "Amaury secoue la tête quand Soizic propose de couper. « On garde. C’est ma figure, maintenant. » Mais il demande deux choses. D’abord, des images de ses mains sur le volant de l’ancien bus de l’association, un Saviem garé derrière la salle, parce que ses mains, dit-il, ont toujours mieux parlé que lui. Ensuite, une phrase à lui, en voix off, posée sur les plans de Fatou. Rosa lui propose de l’écrire le soir à la cuisine ; il accepte qu’elle tienne le stylo s’il tremble trop. Ils écrivent : « Quand je parle de Fatou, j’ai la gorge serrée. Ça ne se voit plus sur ma figure. Ça s’entend peut-être. » Soizic note la prise du volant pour la semaine suivante. En repartant, elle avoue qu’elle aurait coupé les plans sans demander. Amaury ne sait pas encore si les spectateurs comprendront.",
+      "conclusion": "Cet épisode montre qu’un visage moins expressif, fréquent dans la maladie de Parkinson, peut cacher une émotion vive. Amaury refuse qu’on coupe ses plans, choisit d’autres images pour dire ce qu’il ressent et garde le dernier mot sur son émotion, comme sur le film.",
+      "mirror": [
+        "Quand Soizic dit « On dirait que ça ne te touche pas », un proche peut remplacer cette lecture par une question : « Qu’est-ce que ça te faisait, ce moment avec Fatou ? » Rosa peut aussi raconter à Soizic, si Amaury est d’accord, qu’elle a appris à regarder ses mains plutôt que son visage. Elle n’a pas à décider s’il est triste ou déprimé ; si quelque chose dans son humeur l’inquiète, elle peut en parler à l’équipe avec lui."
+      ],
+      "sources": [
+        "oms-cddr",
+        "has-parkinson-2016",
+        "nice-ng97"
+      ],
+      "continuity": {
+        "choice": "Amaury refuse qu’on coupe les plans de Fatou, demande des images de ses mains sur le volant de l’ancien bus et écrit avec Rosa une phrase en voix off ; la prise du volant est prévue la semaine suivante.",
+        "next": "Soizic veut maintenant écrire dans le texte du film le nom de la maladie, et Amaury hésite sur le mot démence avant sa consultation avec la docteure Aubertin."
+      },
+      "number": 6,
+      "diagnostic_stage": "known",
+      "clinical_focus": "Un visage peu expressif n’est pas de l’indifférence"
+    },
+    {
+      "slug": "amaury-trouble-cognitif-leger-ou-demence-ce-qui-a-change",
+      "title": "Trouble cognitif léger ou démence : comprendre ce qui a changé",
+      "description": "Amaury dit « Parkinson » sans peine mais bute sur « démence » : il demande à sa neurologue ce qui a changé depuis son trouble cognitif léger.",
+      "context": "en consultation de suivi, un vendredi",
+      "topics": [
+        "Démence due à la maladie de Parkinson",
+        "trouble cognitif léger",
+        "choisir ses mots"
+      ],
+      "clinical_intro": "Dans la maladie de Parkinson, des difficultés cognitives peuvent exister sans qu’il s’agisse d’une démence. Entre un trouble cognitif léger et une démence, la différence tient surtout au retentissement sur la vie de tous les jours, et seule une évaluation spécialisée permet de l’établir. Amaury a connu les deux mots, à quatre ans d’écart ; il veut comprendre ce qui a changé avant de décider comment le film en parlera.",
+      "opening": "Le vendredi matin, Soizic Teyssier, la réalisatrice du film, appelle Amaury pendant son petit-déjeuner. Elle prépare le texte qui ouvrira le documentaire et voudrait savoir comment présenter sa santé. « On dit quoi, exactement ? Je ne veux rien écrire sans toi. »\n\nAmaury tient le téléphone d’une main, sa tasse de l’autre. « Parkinson », répond-il tout de suite. Le mot ne lui fait plus peur ; il le dit depuis neuf ans. Puis il s’arrête. « Et l’autre mot. » Il ne le prononce pas. Rosa, sa compagne, qui beurre une tartine en face de lui, lève les yeux.\n\nIl y a quatre ans, la docteure Aubertin, sa neurologue, avait parlé d’un « trouble cognitif léger ». À l’époque, Amaury tenait encore seul les comptes de l’association Mémoire des lignes : cotisations, factures de la salle, remboursements des sorties. Il y passait plus de temps qu’avant, recommençait ses additions, mais il y arrivait. Depuis l’an dernier, c’est Rosa, ancienne aide-comptable, qui vérifie les factures avec lui le dimanche soir, à la table du salon. Il a confondu deux fois le montant d’un chèque et la date d’un virement ; une facture de chauffage a été payée deux fois. Gérard Vial, le président, a fini par confier la trésorerie à quelqu’un d’autre, avec tact.\n\n« Démence », dit enfin Amaury, et il repose sa tasse trop fort. « Pour moi, la démence, c’est le vieux qui ne reconnaît plus sa femme. Moi, je sais qui tu es, Rosa. »\n\nÀ onze heures, il a rendez-vous de suivi avec la docteure Aubertin. Il a noté sa question sur une fiche, comme pour le film, en majuscules : QU’EST-CE QUI A CHANGÉ ENTRE LES DEUX MOTS ?",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Un spectre de difficultés, et une limite que fixe le retentissement",
+          "text": "Dans la maladie de Parkinson, les difficultés cognitives forment un spectre : elles peuvent rester légères, sans gêne importante dans la vie quotidienne, ou devenir plus marquées. On parle de démence lorsque plusieurs domaines de la pensée, pas seulement la mémoire, sont nettement touchés par rapport à avant et que la vie personnelle, familiale ou sociale s’en trouve significativement gênée. Un trouble cognitif léger peut rester stable, s’aggraver ou s’améliorer, et ne conduit pas toujours à une démence. Faire la part de ce qui revient à la pensée et de ce qui revient aux difficultés motrices est délicat : c’est une évaluation spécialisée, avec des tests, l’observation et le témoignage d’un proche, qui le fait, et non l’entourage. Chez Amaury, le changement le plus concret se voit à la table du salon : les comptes qu’il tenait seul, au prix d’un effort, demandent désormais l’aide de Rosa. Son image du « vieux qui ne reconnaît plus sa femme » ne correspond pas à sa situation, ni à ce que recouvre le mot."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment le passage d’un mot à l’autre se traduit-il dans la vie quotidienne ?",
+          "points": [
+            {
+              "heading": "Une tâche maintenue au prix d’un effort",
+              "text": "Dans un trouble léger, la personne peut continuer ses activités, même si elles lui demandent plus de temps ou de vérifications.",
+              "examples": [
+                "Il y a quatre ans, Amaury tenait seul les comptes de l’association, en recommençant ses additions.",
+                "Il passait plus de temps qu’avant sur les factures de la salle, mais il les réglait sans erreur."
+              ]
+            },
+            {
+              "heading": "Une activité qui demande désormais de l’aide",
+              "text": "Le retentissement se voit quand une activité habituelle ne peut plus se faire sans soutien ou entraîne des erreurs qui comptent.",
+              "examples": [
+                "Une facture de chauffage a été payée deux fois, et la date d’un virement confondue.",
+                "Rosa vérifie maintenant les factures avec Amaury le dimanche soir, à la table du salon."
+              ]
+            },
+            {
+              "heading": "Un mot chargé d’images qui ne correspondent pas",
+              "text": "Le mot « démence » évoque souvent un stade avancé, alors qu’il recouvre des situations très différentes, y compris des formes légères compatibles avec une vie à domicile.",
+              "examples": [
+                "Amaury associe le mot au « vieux qui ne reconnaît plus sa femme » et ne parvient pas à le dire à Soizic.",
+                "Il continue pourtant de raconter ses lignes, de choisir ses heures et de décider de son film."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour s’approprier un diagnostic",
+          "points": [
+            {
+              "heading": "Poser ses questions au spécialiste",
+              "objective": "Obtenir une explication de son propre diagnostic par la personne qui l’a posé.",
+              "exercise": [
+                "Écrire sa question avant la consultation, en une phrase.",
+                "La poser au début du rendez-vous, et demander à la neurologue de répondre avec des exemples de sa vie.",
+                "Demander une trace écrite ou venir accompagné, si on le souhaite, pour garder la réponse."
+              ],
+              "benefit": "La personne comprend ce qui fonde son diagnostic, au lieu de rester avec des images qui ne la concernent pas."
+            },
+            {
+              "heading": "Distinguer ce qui a changé au quotidien",
+              "objective": "Relier le mot à des situations concrètes, sans en faire une grille d’auto-évaluation.",
+              "exercise": [
+                "Repérer une ou deux activités qui ont changé, comme la tenue des comptes.",
+                "En parler avec la neurologue, qui seule fait le lien avec le diagnostic.",
+                "Noter aussi ce qui reste possible, comme raconter, choisir et décider."
+              ],
+              "benefit": "Le diagnostic prend un sens dans la vie réelle, sans servir à se juger soi-même ni à juger un proche."
+            },
+            {
+              "heading": "Choisir ses propres mots pour en parler",
+              "objective": "Rester maître de ce que l’on dit de sa santé, à qui et comment.",
+              "exercise": [
+                "Décider qui a besoin de connaître le diagnostic, et qui non.",
+                "Rédiger soi-même la phrase que l’on accepte de partager.",
+                "Se donner le droit de la modifier plus tard."
+              ],
+              "benefit": "La personne garde la main sur son récit et peut nommer sa maladie sans qu’elle devienne tout son sujet."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Une seule phrase dans un carton",
+      "ending": "À onze heures, dans le cabinet de la docteure Aubertin, Amaury sort sa fiche et lit la question lui-même. La neurologue lui répond avec ses exemples à lui. Il y a quatre ans, certaines difficultés étaient présentes, mais il continuait ses activités, dont les comptes, avec plus d’effort. L’an dernier, les tests réalisés à l’hôpital, ce que Rosa a décrit et ce qu’elle-même a observé montraient plusieurs domaines nettement touchés, l’attention, l’organisation, la lecture de l’espace, et une gêne réelle au quotidien. C’est ce qui a fondé le diagnostic de démence due à la maladie de Parkinson, considérée comme légère. « Ça ne dit pas que vous ne reconnaîtrez plus Rosa. Ça dit que vous avez besoin d’aménagements. » Le soir, Amaury rappelle Soizic. Le film dira « démence due à la maladie de Parkinson » une seule fois, dans un carton qu’il rédige : « Depuis neuf ans, j’ai la maladie de Parkinson. Depuis un an, on parle de démence. Je raconte mes lignes le matin. » Il ne veut pas en faire le sujet du film. Le mot lui pèse encore.",
+      "conclusion": "Cet épisode montre que, dans la maladie de Parkinson, un trouble cognitif léger et une démence ne se distinguent pas par une impression, mais par une évaluation spécialisée qui mesure le retentissement au quotidien. Amaury choisit la phrase qui nommera sa maladie, une seule fois, et garde son film centré sur ses lignes.",
+      "mirror": [
+        "Quand Amaury bute sur le mot, Rosa n’a pas à le prononcer à sa place ni à lui expliquer son diagnostic. Elle peut dire : « Tu veux qu’on écrive ta question pour la docteure Aubertin ? » et l’accompagner s’il le demande. Si elle vérifie les comptes avec lui, elle peut le présenter comme un arrangement entre eux, pas comme une preuve. Elle a aussi le droit de dire quand cette tâche devient trop lourde pour elle."
+      ],
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "litvan-2012",
+        "emre-2007"
+      ],
+      "continuity": {
+        "choice": "Après l’explication de la docteure Aubertin, Amaury décide que le film nommera sa démence due à la maladie de Parkinson une seule fois, dans un carton qu’il a rédigé, sans en faire le sujet du film.",
+        "next": "Quelques jours plus tard, pendant la prise des mains sur le volant dans l’ancien bus de l’association, Amaury croit sentir quelqu’un derrière lui."
+      },
+      "number": 7,
+      "diagnostic_stage": "known",
+      "clinical_focus": "Trouble cognitif léger ou démence : ce qui a changé"
+    },
+    {
+      "slug": "amaury-sensation-de-presence-signaler-equipe",
+      "title": "Une sensation de présence fugace, à signaler à l’équipe",
+      "description": "Dans l’ancien bus, Amaury sent un passager monter par la porte arrière : personne. Il choisit d’en parler à son équipe plutôt que de se taire.",
+      "context": "dans l’ancien bus de l’association, puis à la maison",
+      "topics": [
+        "Démence due à la maladie de Parkinson",
+        "sensation de présence",
+        "informer l’équipe"
+      ],
+      "clinical_intro": "Dans la maladie de Parkinson et la démence qui peut l’accompagner, certaines personnes vivent des expériences brèves, comme la sensation qu’une présence est là ou qu’une silhouette passe au coin de l’œil. Ces expériences, dites mineures, méritent d’être signalées tôt à l’équipe de soins, qui en cherche les causes. Amaury hésite, puis décide lui-même à qui il en parle.",
+      "opening": "Le mardi, à dix heures, l’ancien bus de l’association Mémoire des lignes est garé derrière la salle, portes ouvertes. C’est un Saviem crème et vert, que les bénévoles astiquent tous les printemps. Amaury s’installe au poste de conduite. Wassim Rey, qui filme et prend le son, cadre ses mains sur le grand volant, comme prévu depuis le visionnage des rushs. Soizic Teyssier, la réalisatrice, se tient sur le trottoir avec la fiche du jour : COUPURE.\n\nAmaury pose les mains à dix heures dix, par réflexe. Il commence : « Midi, au terminus. On coupe le moteur, on sort le casse-croûte, on regarde dans le rétro… » Il regarde dans le rétroviseur intérieur. Il a l’impression très nette qu’un passager vient de monter par la porte arrière, qu’il s’est assis sur la banquette du fond. Il se retourne. Personne. La porte arrière est ouverte sur le parking vide.\n\nIl reprend sa phrase. Deux minutes plus tard, de nouveau, quelque chose passe au coin de son œil gauche, du côté de la porte. Il s’interrompt encore, tourne la tête. Rien.\n\n« Un souci ? » demande Wassim, l’œil dans le viseur.\n\n« Un courant d’air », répond Amaury. Il ne dit rien d’autre, et termine la prise. Il n’a pas eu peur. C’était plutôt agaçant, comme un voyageur qui monte sans valider.\n\nLe soir, à la cuisine, il en parle à Rosa, sa compagne, en coupant le pain. Il est gêné, il cherche ses mots. « Ce n’est pas la première fois. La semaine dernière, dans le couloir. Je sens quelqu’un, et il n’y a personne. Ça ne me fait pas peur. Ça m’agace. » Rosa repose le couteau. Elle se demande s’il faut prévenir Soizic, pour le tournage, ou appeler quelqu’un ce soir même.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Des expériences brèves qui se signalent sans honte",
+          "text": "Dans la maladie de Parkinson, et plus encore lorsqu’une démence s’y associe, des expériences brèves peuvent survenir : sentir qu’une personne est là alors qu’il n’y a personne, ou voir quelque chose passer au coin de l’œil. Elles sont souvent qualifiées de mineures, peuvent rester stables longtemps et ne sont pas toujours effrayantes. Elles ont pourtant de l’importance, parce qu’elles peuvent être liées à des traitements, à la démence ou à une autre cause, comme une infection, et parce qu’elles précèdent parfois des troubles plus gênants. C’est à l’équipe de soins d’en chercher l’origine, et de décider s’il faut faire quelque chose ; une expérience bien tolérée ne demande pas forcément de traitement. Chez Amaury, la porte arrière du bus et le passager qui n’est pas là ne disent rien de sa lucidité : il sait qu’il n’y avait personne, et il en parle à Rosa. La question est maintenant de savoir qui doit être informé, et c’est lui qui en décide."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment une sensation de présence peut-elle se manifester ?",
+          "points": [
+            {
+              "heading": "Une présence sentie sans être vue",
+              "text": "La personne a la conviction brève qu’une présence est là, souvent derrière elle ou sur le côté, puis constate qu’il n’y a personne.",
+              "examples": [
+                "Amaury sent qu’un passager vient de monter par la porte arrière et de s’asseoir au fond du bus.",
+                "Il se retourne et ne voit que le parking vide par la porte ouverte."
+              ]
+            },
+            {
+              "heading": "Un passage au coin de l’œil",
+              "text": "Quelque chose semble passer en marge du regard et disparaît quand la personne tourne la tête.",
+              "examples": [
+                "Deux minutes plus tard, une silhouette passe à gauche d’Amaury, du côté de la porte.",
+                "La semaine précédente, la même impression l’a arrêté dans le couloir de l’appartement."
+              ]
+            },
+            {
+              "heading": "Une gêne plus qu’une peur, et une hésitation à en parler",
+              "text": "Ces expériences peuvent être peu effrayantes, mais embarrassantes ; la personne peut les taire par crainte d’être jugée.",
+              "examples": [
+                "Devant Wassim, Amaury parle d’un « courant d’air » et ne dit rien de plus.",
+                "Le soir, il se confie à Rosa en cherchant ses mots, en précisant que c’est agaçant plutôt qu’effrayant."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour réagir à une sensation de présence",
+          "points": [
+            {
+              "heading": "En parler à l’équipe sans honte",
+              "objective": "Faire connaître l’expérience aux soignants, qui peuvent en rechercher la cause.",
+              "exercise": [
+                "Appeler le point de contact de l’équipe, par exemple l’infirmière de coordination, dans les jours qui suivent.",
+                "Décrire ce qui s’est passé avec ses propres mots, y compris que ce n’était pas effrayant.",
+                "Demander ce qu’il faut surveiller, et quand rappeler ou appeler le 15."
+              ],
+              "benefit": "L’équipe peut vérifier les causes possibles et décider de la suite ; la personne n’a pas à porter seule cette inquiétude."
+            },
+            {
+              "heading": "Noter les circonstances",
+              "objective": "Donner aux soignants des informations précises plutôt qu’un souvenir flou.",
+              "exercise": [
+                "Noter le jour, l’heure et le lieu : le bus, le couloir, le matin ou le soir.",
+                "Ajouter ce que la personne faisait et ce qu’elle a ressenti.",
+                "Signaler tout autre changement en même temps, comme une fièvre ou une fatigue inhabituelle."
+              ],
+              "benefit": "Ces notes peuvent aider l’équipe à repérer ce qui se répète ou ce qui change."
+            },
+            {
+              "heading": "Ne pas confronter ni confirmer",
+              "objective": "Rester à côté de la personne sans contester ni valider ce qu’elle a perçu.",
+              "exercise": [
+                "Écouter le récit sans dire « tu as rêvé » ni « il y avait peut-être quelqu’un ».",
+                "Reconnaître le vécu : « Ça a dû t’agacer. »",
+                "Demander à la personne ce qu’elle souhaite faire, et qui elle veut informer."
+              ],
+              "benefit": "La personne peut continuer à en parler sans se sentir jugée, et garder le contrôle de ce qui est partagé."
+            }
+          ]
+        }
+      ],
+      "ending_title": "L’appel à l’infirmière de coordination",
+      "ending": "Rosa ne dit ni « tu as rêvé » ni « il y avait quelqu’un ». Elle demande : « Qu’est-ce que tu veux en faire ? » Amaury décide d’appeler lui-même, le lendemain matin. À neuf heures, il compose le numéro de Sabine Ferrand, l’infirmière de coordination de l’équipe spécialisée Parkinson, sa fiche à la main. Elle lui demande si c’était effrayant, s’il a de la fièvre, s’il s’est senti plus confus ces jours-ci : non à tout. Elle transmet le jour même à la docteure Aubertin, sa neurologue, qui demande au docteur Pons, son médecin traitant, de le voir dans la semaine pour écarter une autre cause, et propose d’en reparler au suivi prévu dans trois semaines. Sabine ajoute : si cela devient effrayant, s’il y a de la fièvre ou un changement brusque, il faut rappeler aussitôt, et faire le 15 en cas d’urgence. Amaury décide de ne rien dire à Soizic, à Wassim ni à Gérard. Rosa respecte ce choix, même si elle aurait préféré prévenir Soizic.",
+      "conclusion": "Cet épisode montre que, dans la démence due à la maladie de Parkinson, une sensation de présence peut être brève et peu effrayante, mais mérite d’être signalée à l’équipe. Amaury choisit lui-même son interlocuteur et garde ce sujet hors du tournage, pendant que les soignants recherchent les causes possibles.",
+      "mirror": [
+        "Quand Amaury dit « je sens quelqu’un, et il n’y a personne », un proche peut éviter de trancher. Rosa peut dire : « Merci de me l’avoir dit. Tu veux appeler Sabine, ou on l’appelle ensemble ? » Elle n’a pas à juger si l’expérience est grave ni à en parler au groupe sans son accord. Si un jour il paraît effrayé, fiévreux ou brusquement confus, elle prévient l’équipe sans attendre, et appelle le 15 en cas d’urgence."
+      ],
+      "sources": [
+        "oms-cddr",
+        "has-parkinson-2016",
+        "nice-ng71",
+        "nice-ng97"
+      ],
+      "continuity": {
+        "choice": "Amaury appelle lui-même Sabine Ferrand, qui informe la docteure Aubertin ; le docteur Pons le voit dans la semaine pour écarter une autre cause, et un point est prévu au suivi dans trois semaines. Le groupe n’est pas informé, par choix d’Amaury.",
+        "next": "Les séances reprennent, mais les après-midi de montage deviennent difficiles pour une autre raison : Amaury s’endort."
+      },
+      "number": 8,
+      "diagnostic_stage": "known",
+      "clinical_focus": "Une présence fugace à signaler à l’équipe"
     }
   ]
 }

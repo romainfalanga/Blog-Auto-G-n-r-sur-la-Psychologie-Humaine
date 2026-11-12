@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "revision": 1013,
+  "revision": 1047,
   "created_at": "2026-11-07T14:47:42Z",
   "cases": {
     "mathis": {
@@ -5096,7 +5096,7 @@
     "sylvain": {
       "character_id": "sylvain",
       "code": "6D34",
-      "stage": "ready_to_publish",
+      "stage": "published",
       "created_at": "2026-11-07T14:47:42Z",
       "active_job": null,
       "owners": {
@@ -5165,12 +5165,42 @@
         "design_sha256": null,
         "dossier_sha256": null,
         "review_sha256": null
+      },
+      "publication": {
+        "verified_at": "2026-11-12T10:50:24Z",
+        "release": {
+          "date": "2026-11-12",
+          "status": "editorially_reviewed",
+          "article_format": 2,
+          "sha256": "d936b7e15af621fdfe66d07fa9d73caca105bffb40b9836c5afd179b9def9d0a",
+          "dossier_sha256": "92f38d739a55330bf2367c87719decd7cbd7c012f1a49b3c7cbee1a772063db8",
+          "design_sha256": "4087d08ceb7c50c8e5f99de021b743e3bb6eeda7a8373b41955558eae89b8980",
+          "independent_review_sha256": "23dee71b8db5db34c8f3c5e6e6c16f6e2de381b5f04a52b113e75a1b19c1866d",
+          "review": "Relecture indépendante review_sylvain acceptée après deux tours de corrections"
+        },
+        "files": {
+          "content/posts/comprendre-et-maitriser-ses-emotions/sylvain-preoccupations-tache-familiere.md": "d15fcfcbdc3c2c02cdb55fd95d8c569295ae721444e9811f39be62d80ef9b715",
+          "content/posts/comprendre-et-maitriser-ses-emotions/sylvain-detresse-demande-soin.md": "c27050d78226d326b8cc533be2fee72cdd204071ab7d7ea5d13113ab8682ded2",
+          "content/posts/comprendre-et-maitriser-ses-emotions/sylvain-consentement-portee-accord.md": "f482d52bdce464d8e22d5eaffdfff90775b97f568a7afa3f7189f0dbbe7f9e9e",
+          "content/posts/comprendre-et-maitriser-ses-emotions/sylvain-decision-tenue-trouble-persistant.md": "1f5ec2d0c6d3d46fa1a436fea9da66c53eec7512ef89671b44eb7c9a4d1fc832",
+          "content/posts/comprendre-et-maitriser-ses-emotions/sylvain-retentissement-professionnel-ajustement.md": "1f546f65427b2552eeb6f03929bf13f7369f646f568ba470b264725a619bda55",
+          "content/posts/comprendre-et-maitriser-ses-emotions/sylvain-honte-parole-clinique.md": "6ad8da8fa12c10cd2690f327870506161fe6d72838530702c5e6fbf515d8b0b5",
+          "content/posts/comprendre-et-maitriser-ses-emotions/sylvain-changement-sommeil-bilan.md": "7ac94a3ade6781365bfeb004b41d83698f2ed48a2a75f7782072580f8f9c7018",
+          "content/posts/comprendre-et-maitriser-ses-emotions/sylvain-soin-individualise-sans-garantie.md": "f2f2c2be2d7d89d1906e4f59e2289df788c90ce133a8c54c261c3cf909396478",
+          "content/posts/comprendre-et-maitriser-ses-emotions/sylvain-soutien-limite-responsabilite.md": "67e08460909ea2205e8c787efe73df21a17fd4b53bec0bab7b1e48b2460d7adb",
+          "content/posts/comprendre-et-maitriser-ses-emotions/sylvain-prevention-decisions-effectives.md": "f1a09ad7c8ad5b796c0ff99f5e248ae2356a343cae1c75864b9a9e227cc187a6",
+          "content/posts/comprendre-et-maitriser-ses-emotions/sylvain-fluctuation-revision-participation.md": "abc5a31836084adccf413805bc03e5eaef478dd8d3d0c4bfd1c71e1e93d89852",
+          "content/posts/comprendre-et-maitriser-ses-emotions/sylvain-projet-accompli-suivi-ouvert.md": "17154fcd3882479c24eca778b18b8a775498b5ef23d24502def7543aa6915567",
+          "content/personnages/sylvain.md": "ef815f078ef463e7d427579fb14bd62dfa059bea8390d634ea6214ccefb7d871",
+          "data/article_mirrors/sylvain.json": "2c74f49615ac8b5bd750aba3b3a0796c716e2f43f8dab85b898f02591aae8e97"
+        },
+        "topics_sha256": "3475306a1ab5f647dd1a908b13ba07aeb68b96fb1fde5a3a12f1dcd56b32270a"
       }
     },
     "loubna": {
       "character_id": "loubna",
       "code": "6D36",
-      "stage": "ready_to_publish",
+      "stage": "published",
       "created_at": "2026-11-07T14:47:42Z",
       "active_job": null,
       "owners": {
@@ -5239,12 +5269,42 @@
         "design_sha256": null,
         "dossier_sha256": null,
         "review_sha256": null
+      },
+      "publication": {
+        "verified_at": "2026-11-12T10:50:25Z",
+        "release": {
+          "date": "2026-11-12",
+          "status": "editorially_reviewed",
+          "article_format": 2,
+          "sha256": "e17c90425e099d81462c06fcc223debb2af13f990744bb39b01dcd7dd5c549ae",
+          "dossier_sha256": "d23ed9f437ea8b0c328f80a25daeee2e059b5a84a494b67cf5ebbd75cbea6021",
+          "design_sha256": "106ac8ac5ea0a21cd963ab67deb5c664507c9f278ef62d7dd2b7d694e9c347e5",
+          "independent_review_sha256": "cb253aea92581e13df8be208f21c95da01c64d6865915b2619a591f05543ec5c",
+          "review": "Relecture indépendante review_loubna acceptée après trois tours de corrections (lisibilité, présentation des proches, formulations concrètes)"
+        },
+        "files": {
+          "content/posts/comprendre-et-maitriser-ses-emotions/loubna-souffrance-preference-atypique.md": "858ddccc18d0ef749160075dcfacbd30f2cfb376eb0acb98a97192ebf0a19dba",
+          "content/posts/comprendre-et-maitriser-ses-emotions/loubna-preoccupations-attention-interrompue.md": "a949283118b5bc658c222ca480b8ea8c67e1e461c30a68bee148ccf944e9e9d4",
+          "content/posts/comprendre-et-maitriser-ses-emotions/loubna-rejet-social-et-souffrance.md": "8054ca3a31a251dc00ad1c5ab6c90e7da5a396f7ead7e0769a259e143dce7227",
+          "content/posts/comprendre-et-maitriser-ses-emotions/loubna-partenaire-consentement-entretien.md": "d3d7d66ca5c039bf76ddb08216a0afef875954a351b57a4a6102547c38597fb5",
+          "content/posts/comprendre-et-maitriser-ses-emotions/loubna-diagnostic-perimetre-risque.md": "00ffbc5c658629603835a07a6377e6be29561e5968cb1e63ce7076d9606323ea",
+          "content/posts/comprendre-et-maitriser-ses-emotions/loubna-retentissement-charge-professionnelle.md": "8085609c85b13cb972174f91ce21d4a9addf37bd671c9f47aee45161eefc4caa",
+          "content/posts/comprendre-et-maitriser-ses-emotions/loubna-repetition-controle-compulsion.md": "5ed8c30735bb3ce2962e940d87b84e520c0e5219137968d9410f15f0da09e29e",
+          "content/posts/comprendre-et-maitriser-ses-emotions/loubna-changements-recents-reevaluation.md": "361a955fc30c3af401ba9fda097ccda187309474beac1685cb92b750c0f86609",
+          "content/posts/comprendre-et-maitriser-ses-emotions/loubna-objectifs-soin-individualise.md": "34b743c8b03b9720905004b83a164112550c106cd810e9e7377878e505cc8204",
+          "content/posts/comprendre-et-maitriser-ses-emotions/loubna-partage-informations-vie-privee.md": "2ab5dc04024ff3144728c25b4c4c419d5c47fd5ba0a07f8b88ffb1ffe1f247e5",
+          "content/posts/comprendre-et-maitriser-ses-emotions/loubna-amelioration-evolution-suivi.md": "f889914a6019f29d9a510d0ea3ae54c72aa6260ce1d8a1eb7e108afaadcd8fbf",
+          "content/posts/comprendre-et-maitriser-ses-emotions/loubna-fin-projet-continuite-soin.md": "ce11101d049f591a0ee0d0f95dbd73aa6a4140b4eeb66c8e660684bdc4799a72",
+          "content/personnages/loubna.md": "88c7df00b608919e4bc16c560e4f9f57228034149e82189bbca2277732ff6204",
+          "data/article_mirrors/loubna.json": "6d6c23e3d95574136bb58cd6cd9fc455ebc33606e46f9bcc258920eafe96b8c9"
+        },
+        "topics_sha256": "e0623851b96df352d6f9274965b470c12999c1b279171e4f097474bf111addbd"
       }
     },
     "serge": {
       "character_id": "serge",
       "code": "6D50",
-      "stage": "ready_to_publish",
+      "stage": "published",
       "created_at": "2026-11-07T14:47:42Z",
       "active_job": null,
       "owners": {
@@ -5313,12 +5373,42 @@
         "design_sha256": null,
         "dossier_sha256": null,
         "review_sha256": null
+      },
+      "publication": {
+        "verified_at": "2026-11-12T10:50:26Z",
+        "release": {
+          "date": "2026-11-12",
+          "status": "editorially_reviewed",
+          "article_format": 2,
+          "sha256": "22b3b09d56971b9a42713697445c86a2fe2c8511b28f4a2ff799a44b050d8db8",
+          "dossier_sha256": "a3cfbfa2f718c4dbcb8533ce11af976098546fa7f0a3764d351b2ada16bbaa2a",
+          "design_sha256": "9d855e9c1026e1b39a3696f65eb63bb81aee86f3be1340ec8042ccdc85238727",
+          "independent_review_sha256": "c6a686f0857b3016c54506e4330864dac250eed0378c2db77a43ac1b0ede1099",
+          "review": "Relecture indépendante review_serge acceptée après trois tours de corrections (rôles présentés, scènes concrètes, relais 3114/15, raccords)"
+        },
+        "files": {
+          "content/posts/comprendre-et-maitriser-ses-emotions/serge-corriger-information-sante.md": "8727b2669cf8a68f9bc5dcd361cf9a9e1ac02612e3df8f657876d0562c14eaa6",
+          "content/posts/comprendre-et-maitriser-ses-emotions/serge-role-malade-et-lien.md": "cac7f36793d14581464accb5d2da06648d6b5ec4d1807033ed37a9df320544ee",
+          "content/posts/comprendre-et-maitriser-ses-emotions/serge-inexplique-ne-signifie-pas-fabrique.md": "9ed8ab5287c1f1680bddd2bd4cd15ebac0e39a86fe26237f12c7ab8a55f346c6",
+          "content/posts/comprendre-et-maitriser-ses-emotions/serge-coordination-decisions-soin.md": "6f702685372336bc7ee70375a8f012d3c6c070cc3d074c9d189dd15e9599f045",
+          "content/posts/comprendre-et-maitriser-ses-emotions/serge-peur-blame-alliance.md": "8a64862208124391faa8c99a43cc5d5f85c8522536d6c82cca8dcc643495fc05",
+          "content/posts/comprendre-et-maitriser-ses-emotions/serge-engagements-et-role-limite.md": "b362f61c778e3adcd24ec6f9e005479aaa6069cdc39913b0681067602f980da4",
+          "content/posts/comprendre-et-maitriser-ses-emotions/serge-soutien-sans-surveillance.md": "01a865399eb2cfd67499bac0f0046d8e611ab91cfd39c12e03dae341398ca2ec",
+          "content/posts/comprendre-et-maitriser-ses-emotions/serge-symptome-nouveau-soins-legitimes.md": "fdb8d0bd480bf5b1ffbc2d477f73940c4f8b41678e7cf13956e2c2536603a9c2",
+          "content/posts/comprendre-et-maitriser-ses-emotions/serge-sommeil-moral-evaluation.md": "dde7649a425a41d4a295c6a942154ff5966d794d9b1332bff807d47d7ce8f497",
+          "content/posts/comprendre-et-maitriser-ses-emotions/serge-objectifs-soin-preuves-limitees.md": "eafe2368f85c114d2fb3fc1fc4ac9d8fdfe29b237c98be861dba81b9a9fe3093",
+          "content/posts/comprendre-et-maitriser-ses-emotions/serge-fluctuation-retour-difficulte.md": "d16bb9cf2dde4084e569cc871af2edfb58c40014d538a0082163177222ec256a",
+          "content/posts/comprendre-et-maitriser-ses-emotions/serge-participation-ordinaire-suivi-durable.md": "f36b1a22c0ba341cf071c76c4bd498d162dd67449850dd16185ca451d64fe052",
+          "content/personnages/serge.md": "5d02ed1c83d41d5471a5aa7886c7be419a50daabbe58aa38bb019a6015f0593c",
+          "data/article_mirrors/serge.json": "6c2dd54b1c0f719153338b66079be6015f0b8ff4a129d297b39bdb716e7e2bb9"
+        },
+        "topics_sha256": "1b2b406776e1cb5ee0d41b02bb2d8ac4f85810014b84cfa3c3dfb6f40351c90d"
       }
     },
     "florence": {
       "character_id": "florence",
       "code": "6D51",
-      "stage": "ready_to_publish",
+      "stage": "published",
       "created_at": "2026-11-07T14:47:42Z",
       "active_job": null,
       "owners": {
@@ -5387,6 +5477,36 @@
         "design_sha256": null,
         "dossier_sha256": null,
         "review_sha256": null
+      },
+      "publication": {
+        "verified_at": "2026-11-12T10:50:27Z",
+        "release": {
+          "date": "2026-11-12",
+          "status": "editorially_reviewed",
+          "article_format": 2,
+          "sha256": "e97ef86c3fed450334f2d392eb4413514fc16737b0d61bb90637ae97e55cbec7",
+          "dossier_sha256": "366093c6a06e703ff6264dcd930b54e345e2aee22d900fedd6212b231184110c",
+          "design_sha256": "6ae9569ebf637c8a13c521907bb7256397c86029d0d2143ee2b5784239926f3a",
+          "independent_review_sha256": "e746e6f33bfdd2ef0bdc2c62bdd8da6cdd303b2cbe7237f26c4f20bc6c1a3d5c",
+          "review": "Relecture indépendante review_florence acceptée après deux tours de corrections (scènes en actions et dialogues, protection de la personne exposée, raccords)"
+        },
+        "files": {
+          "content/posts/comprendre-et-maitriser-ses-emotions/florence-diagnostic-protection.md": "011bc9e581b5af8497d24d8613d9e65707c2ddc97077bdc66c9ebaec28da4be6",
+          "content/posts/comprendre-et-maitriser-ses-emotions/florence-inquietude-tromperie.md": "5459eb04e85a140c0a1630b261a582f1a8e271267f4cbc165639a298d16847f1",
+          "content/posts/comprendre-et-maitriser-ses-emotions/florence-motivations-responsabilite.md": "dcb0c96ac9854c53fba33ec8d1f4e9e98120c79b95c48f426ef2f3f7db5c2d92",
+          "content/posts/comprendre-et-maitriser-ses-emotions/florence-autonomie-personne-exposee.md": "b043b34d9b3b5eacfe3d7d5a8ee6ccc3ccd6a0bc71d69066636573311c6cbb62",
+          "content/posts/comprendre-et-maitriser-ses-emotions/florence-ambivalence-alliance.md": "6d2e5c60a6c808f8063a9f479fd4f26df69fa078619b7eaaeee58640a676945c",
+          "content/posts/comprendre-et-maitriser-ses-emotions/florence-coordination-protection.md": "c738eda090ed96fdf6955e8769df82c3c5ece8631145db6739cd57fa7703ff33",
+          "content/posts/comprendre-et-maitriser-ses-emotions/florence-detresse-propre.md": "cd547c34e8bde5ca17a1f3bec1ae2df33a1f4dfc4b520d6a2672690cb9a48e63",
+          "content/posts/comprendre-et-maitriser-ses-emotions/florence-besoins-medicaux-legitimes.md": "7ab623e1e4963e337f803be13850928ba1783b9a144233f01d09837a6c00d43b",
+          "content/posts/comprendre-et-maitriser-ses-emotions/florence-soutien-social-limites.md": "47bb31e64f576756f98ba7d05477afb5335b97a8a617d9d0127c6abfd552ce93",
+          "content/posts/comprendre-et-maitriser-ses-emotions/florence-choix-soin-preuves-limitees.md": "09ba7ceaf3d8d932a0a0e0e371d474910e4492edb16d15f0f8d9cba2457c4949",
+          "content/posts/comprendre-et-maitriser-ses-emotions/florence-changements-vigilance.md": "036cad8e9c9b3872cbf6480ef89e1a9a80bb2b83caab8887a419819b0c2990b3",
+          "content/posts/comprendre-et-maitriser-ses-emotions/florence-participation-suivi-durable.md": "e2f9715a94b8aea17b706f0e20886832e048d6cbbcceb924f258660f096c6cc0",
+          "content/personnages/florence.md": "01650cd21239e9ae7f3e849697599fa6010176ae03af73610736cc21dedf12f7",
+          "data/article_mirrors/florence.json": "b1dae851fcb33f7a1bd653c5ea994ac9ae298875a0acf7bd7395eb1b556d1843"
+        },
+        "topics_sha256": "19f47e239b13099b3a49f0b4191837d778103b4711d7f6ef5f16f58f5b2d5d76"
       }
     },
     "hector": {
@@ -5579,9 +5699,9 @@
     "bilal": {
       "character_id": "bilal",
       "code": "6D72",
-      "stage": "review",
+      "stage": "story",
       "created_at": "2026-11-07T14:47:42Z",
-      "active_job": "c75de5b91ff14ae08393f0384520cbf2",
+      "active_job": null,
       "owners": {
         "character": [
           "personnage_bilal"
@@ -5593,7 +5713,7 @@
           "review_bilal"
         ]
       },
-      "revision_rounds": 0,
+      "revision_rounds": 1,
       "accepted": {
         "character": {
           "job_id": "8dc995219e9943d7a61aa9bf99d11d1c",
@@ -5621,6 +5741,55 @@
             },
             "episodes": 12
           }
+        },
+        "review": {
+          "job_id": "c75de5b91ff14ae08393f0384520cbf2",
+          "owner": "review_bilal",
+          "validated_at": "2026-11-12T10:49:04Z",
+          "validation": {
+            "character_id": "bilal",
+            "files": {
+              "editorial/clinical/designs/bilal.json": "c41dfdf0cae416ecb036744ce3ed0f3d24c0afdf34832f99ac58a4b69abc73ef",
+              "editorial/clinical/dossiers/bilal.json": "fd6d5ceb0a0df7a6e257370471dd030d907bd525378624ac307fcc12e93bd968",
+              "editorial/clinical/bilal.json": "39ea8a08a2e5a03a6236d7cab038d03cbe54d8c0f3f4aa4dce6609f40ffe1fa0",
+              "editorial/clinical/reviews/bilal.json": "b09d11b0bd408d842fe21b2e648d347ecf348dd0fc26baaadb1e3d33671e872c"
+            },
+            "episodes": 12,
+            "status": "revision_requested",
+            "findings": [
+              {
+                "episode": 4,
+                "issue": "L’explication attribue à l’OMS une « source d’une information mal attribuée » et évoque une « scène plausible » reconstruite ; la sous-partie « Une source mal attribuée » et la généralisation « Le sentiment d’avoir dit quelque chose peut s’accompagner de détails précis » vont dans le même sens. Or la CDDR p.613 (texte anglais vérifié) parle de « misattribution of the cause/source of symptoms or problems », c’est-à-dire de difficultés attribuées à une autre cause, d’une conscience modifiée des difficultés et d’oublis non reconnus ; le dossier ne documente ni erreur de source d’une information, ni souvenir reconstruit détaillé.",
+                "requested_change": "Réécrire l’explication et la deuxième sous-partie avec les seuls éléments du dossier : conscience modifiée des difficultés, perception erronée de ses capacités, mauvaise attribution de la cause des difficultés et possibilité de ne pas repérer un oubli (par exemple avoir eu l’intention de prévenir Rachid sans s’apercevoir que ce n’était pas fait). Supprimer « ou a reconstruit une scène plausible » et la mention d’une source d’information mal attribuée. La certitude détaillée de Bilal (le bonnet vert) peut rester dans la scène comme vécu du personnage, mais pas comme mécanisme général décrit par l’OMS ; reformuler en conséquence la sous-partie « Un souvenir détaillé mais non confirmé » et l’intro clinique (« se tromper sur l’origine d’une information »)."
+              },
+              {
+                "episode": 4,
+                "issue": "Erreur de genre répétée : « rendre une serre-joint empruntée » et « Rachid pose la serre-joint » ; le nom est masculin, comme l’écrit correctement l’ép. 7 (« deux serre-joints »).",
+                "requested_change": "Écrire « rendre un serre-joint emprunté » et « Rachid pose le serre-joint »."
+              },
+              {
+                "episode": 5,
+                "issue": "Calendrier scolaire peu plausible : la série se termine avant décembre (camionnette changée en décembre, ép. 10 ; poste d’Inès au 5 janvier, ép. 9 ; pommes au jardin, ép. 4), donc la semaine 5 tombe vers début octobre. Un conseil de classe de trois heures avec vote sur la réorientation d’un élève de seconde ne se tient pas à cette période en lycée.",
+                "requested_change": "Remplacer le conseil de classe par une réunion plausible en octobre (par exemple une longue réunion de l’équipe pédagogique sur un élève de seconde en difficulté, sans vote de réorientation), en gardant la même charge et en ajustant les reprises dans les manifestations, les techniques et le dénouement de l’ép. 5 (récit du samedi au café)."
+              },
+              {
+                "episode": 6,
+                "issue": "Raccord du carnet rouge : à l’hôpital le mardi 9 h, le carnet est « dans la poche de sa veste » après la recopie du lundi midi, et il sert dans le tramway ; or l’ép. 8 affirme que, depuis l’arrangement de l’ép. 5, le carnet reste le soir dans le tablier et que le tablier reste à l’atelier, ce qui explique la séance manquée.",
+                "requested_change": "Ajouter dans l’ouverture de l’ép. 6 une phrase indiquant que Bilal a exceptionnellement sorti le carnet du tablier lundi à dix-sept heures pour ce rendez-vous du matin (par exemple sur le conseil d’Hugo ou de Martine), afin que la règle décrite en ép. 8 reste vraie et que l’oubli de l’ép. 8 garde sa logique."
+              },
+              {
+                "episode": 7,
+                "issue": "Écart de chronologie : la latte de Rachid est « rentrée il y a trois semaines, le lundi fixé sur l’ardoise ». Ce lundi suit le mercredi de l’ép. 4 (trois semaines après la livraison) ; l’ép. 7 se passe le jeudi de la semaine du bilan (six semaines après), soit environ dix-sept jours plus tard.",
+                "requested_change": "Écrire « il y a un peu plus de deux semaines » (ou « dix-sept jours plus tôt »), sans changer le reste."
+              },
+              {
+                "episode": 12,
+                "issue": "Raccord physique : l’allée mesurée en ép. 3 fait 1,60 m de large ; une camionnette, rétroviseurs compris, est plus large, et la phrase « Un mètre soixante de large : le rétroviseur frôle le tilleul, mais ça passe » rend la manœuvre impossible. Par ailleurs « Le soir, avant que le carnet rouge se ferme, il écrit » contredit la fermeture du carnet à dix-sept heures décidée en ép. 5 et reprise en ép. 8.",
+                "requested_change": "Faire stationner la camionnette au portail ou dans la rue et faire porter l’assise du banc à l’épaule par Jonas et Rachid le long de l’allée de 1,60 m (le banc de 3 m y passe en longueur), en gardant le clin d’œil au tilleul si souhaité. Remplacer « Le soir, avant que le carnet rouge se ferme » par une heure compatible, par exemple « Avant dix-sept heures, avant de passer l’élastique »."
+              }
+            ],
+            "reviewer": "review_bilal"
+          }
         }
       },
       "observed_at_init": {
@@ -5630,14 +5799,46 @@
         "design_sha256": null,
         "dossier_sha256": null,
         "review_sha256": null
-      }
+      },
+      "findings": [
+        {
+          "episode": 4,
+          "issue": "L’explication attribue à l’OMS une « source d’une information mal attribuée » et évoque une « scène plausible » reconstruite ; la sous-partie « Une source mal attribuée » et la généralisation « Le sentiment d’avoir dit quelque chose peut s’accompagner de détails précis » vont dans le même sens. Or la CDDR p.613 (texte anglais vérifié) parle de « misattribution of the cause/source of symptoms or problems », c’est-à-dire de difficultés attribuées à une autre cause, d’une conscience modifiée des difficultés et d’oublis non reconnus ; le dossier ne documente ni erreur de source d’une information, ni souvenir reconstruit détaillé.",
+          "requested_change": "Réécrire l’explication et la deuxième sous-partie avec les seuls éléments du dossier : conscience modifiée des difficultés, perception erronée de ses capacités, mauvaise attribution de la cause des difficultés et possibilité de ne pas repérer un oubli (par exemple avoir eu l’intention de prévenir Rachid sans s’apercevoir que ce n’était pas fait). Supprimer « ou a reconstruit une scène plausible » et la mention d’une source d’information mal attribuée. La certitude détaillée de Bilal (le bonnet vert) peut rester dans la scène comme vécu du personnage, mais pas comme mécanisme général décrit par l’OMS ; reformuler en conséquence la sous-partie « Un souvenir détaillé mais non confirmé » et l’intro clinique (« se tromper sur l’origine d’une information »)."
+        },
+        {
+          "episode": 4,
+          "issue": "Erreur de genre répétée : « rendre une serre-joint empruntée » et « Rachid pose la serre-joint » ; le nom est masculin, comme l’écrit correctement l’ép. 7 (« deux serre-joints »).",
+          "requested_change": "Écrire « rendre un serre-joint emprunté » et « Rachid pose le serre-joint »."
+        },
+        {
+          "episode": 5,
+          "issue": "Calendrier scolaire peu plausible : la série se termine avant décembre (camionnette changée en décembre, ép. 10 ; poste d’Inès au 5 janvier, ép. 9 ; pommes au jardin, ép. 4), donc la semaine 5 tombe vers début octobre. Un conseil de classe de trois heures avec vote sur la réorientation d’un élève de seconde ne se tient pas à cette période en lycée.",
+          "requested_change": "Remplacer le conseil de classe par une réunion plausible en octobre (par exemple une longue réunion de l’équipe pédagogique sur un élève de seconde en difficulté, sans vote de réorientation), en gardant la même charge et en ajustant les reprises dans les manifestations, les techniques et le dénouement de l’ép. 5 (récit du samedi au café)."
+        },
+        {
+          "episode": 6,
+          "issue": "Raccord du carnet rouge : à l’hôpital le mardi 9 h, le carnet est « dans la poche de sa veste » après la recopie du lundi midi, et il sert dans le tramway ; or l’ép. 8 affirme que, depuis l’arrangement de l’ép. 5, le carnet reste le soir dans le tablier et que le tablier reste à l’atelier, ce qui explique la séance manquée.",
+          "requested_change": "Ajouter dans l’ouverture de l’ép. 6 une phrase indiquant que Bilal a exceptionnellement sorti le carnet du tablier lundi à dix-sept heures pour ce rendez-vous du matin (par exemple sur le conseil d’Hugo ou de Martine), afin que la règle décrite en ép. 8 reste vraie et que l’oubli de l’ép. 8 garde sa logique."
+        },
+        {
+          "episode": 7,
+          "issue": "Écart de chronologie : la latte de Rachid est « rentrée il y a trois semaines, le lundi fixé sur l’ardoise ». Ce lundi suit le mercredi de l’ép. 4 (trois semaines après la livraison) ; l’ép. 7 se passe le jeudi de la semaine du bilan (six semaines après), soit environ dix-sept jours plus tard.",
+          "requested_change": "Écrire « il y a un peu plus de deux semaines » (ou « dix-sept jours plus tôt »), sans changer le reste."
+        },
+        {
+          "episode": 12,
+          "issue": "Raccord physique : l’allée mesurée en ép. 3 fait 1,60 m de large ; une camionnette, rétroviseurs compris, est plus large, et la phrase « Un mètre soixante de large : le rétroviseur frôle le tilleul, mais ça passe » rend la manœuvre impossible. Par ailleurs « Le soir, avant que le carnet rouge se ferme, il écrit » contredit la fermeture du carnet à dix-sept heures décidée en ép. 5 et reprise en ép. 8.",
+          "requested_change": "Faire stationner la camionnette au portail ou dans la rue et faire porter l’assise du banc à l’épaule par Jonas et Rachid le long de l’allée de 1,60 m (le banc de 3 m y passe en longueur), en gardant le clin d’œil au tilleul si souhaité. Remplacer « Le soir, avant que le carnet rouge se ferme » par une heure compatible, par exemple « Avant dix-sept heures, avant de passer l’élastique »."
+        }
+      ]
     },
     "nadege": {
       "character_id": "nadege",
       "code": "6D81",
-      "stage": "review",
+      "stage": "story",
       "created_at": "2026-11-07T14:47:42Z",
-      "active_job": "06ddc07834bd4ba0b0ac73f994f2d6b0",
+      "active_job": null,
       "owners": {
         "character": [
           "personnage_nadege"
@@ -5649,7 +5850,7 @@
           "review_nadege"
         ]
       },
-      "revision_rounds": 0,
+      "revision_rounds": 1,
       "accepted": {
         "character": {
           "job_id": "251831ad72984b3fa2bb31ea6d1e34da",
@@ -5677,6 +5878,45 @@
             },
             "episodes": 12
           }
+        },
+        "review": {
+          "job_id": "06ddc07834bd4ba0b0ac73f994f2d6b0",
+          "owner": "review_nadege",
+          "validated_at": "2026-11-12T10:50:22Z",
+          "validation": {
+            "character_id": "nadege",
+            "files": {
+              "editorial/clinical/designs/nadege.json": "257fec98799ee8e236e244dcc68d5f8f49b6be8a297d2e88e3aba2308b105608",
+              "editorial/clinical/dossiers/nadege.json": "c8053e8b6bac33056a1c3257426c6c4710450fda88de8738db057a15ae733fa9",
+              "editorial/clinical/nadege.json": "d48f271273f5e8b5d51110bd23011294404fac3a75c147d260b382604451e700",
+              "editorial/clinical/reviews/nadege.json": "63e77facfb19458bc182e9355c3f7fbd2bc8e00739a1dc8c30b4a3c5e9e9d8e6"
+            },
+            "episodes": 12,
+            "status": "revision_requested",
+            "findings": [
+              {
+                "episode": 9,
+                "issue": "La technique « Appeler le 15 sans attendre » conclut que « faire ses propres tests fait perdre du temps », et le miroir dit qu’« un proche n’a ni à faire ses propres tests ». Or les signes que Josette décrit (visage, bras, parole) sont précisément ceux que les messages de santé publique invitent le public à repérer ; c’est le fait de retarder l’appel ou de remplacer l’évaluation médicale qui est à écarter, pas l’observation. Cette généralisation n’est pas portée par les sources du dossier (SPF, NICE NG128 1.1.1–1.1.2, F33954).",
+                "requested_change": "Reformuler le bénéfice de la technique 1 et la phrase du miroir pour écarter le délai et le test de remplacement, par exemple : « attendre que cela passe ou retarder l’appel pour faire des vérifications fait perdre du temps ; décrire ce que l’on voit suffit ». Garder la scène où Josette ne fait pas lever les bras et appelle aussitôt."
+              },
+              {
+                "episode": 11,
+                "issue": "Raccord sur l’entretien d’humeur et de fatigue. L’épisode 8 le fait proposer par la docteure Leclerc et l’épisode 10 l’annonce « déplacé au lundi 29, avec la docteure Leclerc ». L’épisode 11 le fait mener le matin par une infirmière de l’équipe. Puis la fin évoque une réévaluation « avec l’entretien de ce matin », formule ambiguë pour un lecteur qui se demande ce que devient la question de l’élan soulevée à l’épisode 8.",
+                "requested_change": "Harmoniser : soit indiquer à l’épisode 10 que l’entretien du 29 mars sera mené par une infirmière de l’équipe avant la consultation avec la docteure Leclerc, soit le faire mener par la docteure à l’épisode 11. Préciser en une phrase, sans résultat inventé, que l’équipe reprendra les conclusions de cet entretien avec Nadège (par exemple lors de la réévaluation du 21 juin) et qui elle appelle si l’élan ou l’humeur se dégrade d’ici là."
+              },
+              {
+                "episode": 12,
+                "issue": "« Karima […] est au four, comme convenu depuis janvier » : en janvier (épisode 7), Nadège décide seule de confier le four et la panade chaude à Karima ; l’accord avec Karima n’est pris qu’après le 29 mars, quand Nadège annonce qu’elle téléphonera elle-même à Josette et à Karima (épisode 11).",
+                "requested_change": "Remplacer par une formule exacte, par exemple « comme Nadège l’avait décidé en janvier et le lui a demandé au téléphone fin mars »."
+              },
+              {
+                "episode": 12,
+                "issue": "À l’épisode 4, Nadège inscrit dans le cahier bleu « Répétitions : plus fatigantes que prévu. Pas plus d’une heure. » L’atelier final dure de quatorze à seize heures « comme prévu » sans que le texte reprenne cette limite, alors que la technique « Prévoir une fin de séance » recommande une durée plus courte qu’on ne l’imagine. Le lecteur suivant la série peut y voir une contradiction ou une limite oubliée.",
+                "requested_change": "Reprendre la limite en une phrase concrète, par exemple : Nadège démontre pendant la première heure puis s’assoit pendant que Karima conduit les choux, ou une pause est prévue au milieu ; ou bien préciser que la règle concernait les répétitions et qu’elle a choisi cette durée avec une pause."
+              }
+            ],
+            "reviewer": "review_nadege"
+          }
         }
       },
       "observed_at_init": {
@@ -5686,14 +5926,36 @@
         "design_sha256": null,
         "dossier_sha256": null,
         "review_sha256": null
-      }
+      },
+      "findings": [
+        {
+          "episode": 9,
+          "issue": "La technique « Appeler le 15 sans attendre » conclut que « faire ses propres tests fait perdre du temps », et le miroir dit qu’« un proche n’a ni à faire ses propres tests ». Or les signes que Josette décrit (visage, bras, parole) sont précisément ceux que les messages de santé publique invitent le public à repérer ; c’est le fait de retarder l’appel ou de remplacer l’évaluation médicale qui est à écarter, pas l’observation. Cette généralisation n’est pas portée par les sources du dossier (SPF, NICE NG128 1.1.1–1.1.2, F33954).",
+          "requested_change": "Reformuler le bénéfice de la technique 1 et la phrase du miroir pour écarter le délai et le test de remplacement, par exemple : « attendre que cela passe ou retarder l’appel pour faire des vérifications fait perdre du temps ; décrire ce que l’on voit suffit ». Garder la scène où Josette ne fait pas lever les bras et appelle aussitôt."
+        },
+        {
+          "episode": 11,
+          "issue": "Raccord sur l’entretien d’humeur et de fatigue. L’épisode 8 le fait proposer par la docteure Leclerc et l’épisode 10 l’annonce « déplacé au lundi 29, avec la docteure Leclerc ». L’épisode 11 le fait mener le matin par une infirmière de l’équipe. Puis la fin évoque une réévaluation « avec l’entretien de ce matin », formule ambiguë pour un lecteur qui se demande ce que devient la question de l’élan soulevée à l’épisode 8.",
+          "requested_change": "Harmoniser : soit indiquer à l’épisode 10 que l’entretien du 29 mars sera mené par une infirmière de l’équipe avant la consultation avec la docteure Leclerc, soit le faire mener par la docteure à l’épisode 11. Préciser en une phrase, sans résultat inventé, que l’équipe reprendra les conclusions de cet entretien avec Nadège (par exemple lors de la réévaluation du 21 juin) et qui elle appelle si l’élan ou l’humeur se dégrade d’ici là."
+        },
+        {
+          "episode": 12,
+          "issue": "« Karima […] est au four, comme convenu depuis janvier » : en janvier (épisode 7), Nadège décide seule de confier le four et la panade chaude à Karima ; l’accord avec Karima n’est pris qu’après le 29 mars, quand Nadège annonce qu’elle téléphonera elle-même à Josette et à Karima (épisode 11).",
+          "requested_change": "Remplacer par une formule exacte, par exemple « comme Nadège l’avait décidé en janvier et le lui a demandé au téléphone fin mars »."
+        },
+        {
+          "episode": 12,
+          "issue": "À l’épisode 4, Nadège inscrit dans le cahier bleu « Répétitions : plus fatigantes que prévu. Pas plus d’une heure. » L’atelier final dure de quatorze à seize heures « comme prévu » sans que le texte reprenne cette limite, alors que la technique « Prévoir une fin de séance » recommande une durée plus courte qu’on ne l’imagine. Le lecteur suivant la série peut y voir une contradiction ou une limite oubliée.",
+          "requested_change": "Reprendre la limite en une phrase concrète, par exemple : Nadège démontre pendant la première heure puis s’assoit pendant que Karima conduit les choux, ou une pause est prévue au milieu ; ou bien préciser que la règle concernait les répétitions et qu’elle a choisi cette durée avec une pause."
+        }
+      ]
     },
     "farid": {
       "character_id": "farid",
       "code": "6D82",
-      "stage": "review",
+      "stage": "story",
       "created_at": "2026-11-07T14:47:42Z",
-      "active_job": "7225ced68ded45458f95abdd6d5a20ec",
+      "active_job": null,
       "owners": {
         "character": [
           "personnage_farid"
@@ -5705,7 +5967,7 @@
           "review_farid"
         ]
       },
-      "revision_rounds": 0,
+      "revision_rounds": 1,
       "accepted": {
         "character": {
           "job_id": "d754f6c0b0804bbba60869d9493c644d",
@@ -5733,6 +5995,65 @@
             },
             "episodes": 12
           }
+        },
+        "review": {
+          "job_id": "7225ced68ded45458f95abdd6d5a20ec",
+          "owner": "review_farid",
+          "validated_at": "2026-11-12T10:48:46Z",
+          "validation": {
+            "character_id": "farid",
+            "files": {
+              "editorial/clinical/designs/farid.json": "8d88a591a9e08e92e7ebf5cf3b61323f27828aae3dcd12927bc8983b768e3765",
+              "editorial/clinical/dossiers/farid.json": "9f8406d860519a4c1f9048de161040706352640e8ee68fa499c8d512147e5f2e",
+              "editorial/clinical/farid.json": "0bb003e361c4500abbafb54f37449c3aa9fcd2c065d79fe1f46b2be29daa872b",
+              "editorial/clinical/reviews/farid.json": "617e5715551ebf0228d903a5fd229e9c183a960ecf32685363a03403e1ce44be"
+            },
+            "episodes": 12,
+            "status": "revision_requested",
+            "findings": [
+              {
+                "episode": 1,
+                "issue": "L’explication affirme que les fluctuations « sont souvent plus marquantes, dans cette maladie, que les difficultés de mémoire elles-mêmes ». Le dossier (CDDR p. 624) dit que les troubles de l’attention, des fonctions exécutives et visuospatiaux sont souvent plus marqués que ceux de la mémoire ; il ne compare pas les fluctuations à la mémoire.",
+                "requested_change": "Remplacer cette phrase par une formulation fidèle à la source, par exemple : « Dans cette maladie, l’attention est d’ailleurs souvent plus touchée que la mémoire. » ou supprimer la comparaison."
+              },
+              {
+                "episode": 4,
+                "issue": "Dans les manifestations, « Ces expériences surviennent fréquemment dans des moments ordinaires, parfois en lumière faible » énonce une fréquence et une circonstance (lumière faible) qui ne figurent dans aucun point du dossier de sources.",
+                "requested_change": "Reformuler sans affirmation non sourcée, par exemple : « Elles peuvent survenir dans un moment ordinaire, sans événement particulier juste avant. » ; ou ajouter au dossier une source vérifiée pour le lien avec la lumière."
+              },
+              {
+                "episode": 6,
+                "issue": "La rubrique « Du côté des proches » dit qu’Anis « l’a appelé par son prénom depuis le seuil », alors que la scène le montre dire « Papa. Papa, c’est Anis » : le raccord est faux.",
+                "requested_change": "Écrire par exemple : « Anis a allumé le couloir et l’a appelé doucement depuis le seuil, en se nommant, sans le secouer. »"
+              },
+              {
+                "episode": 8,
+                "issue": "L’explication écrit que « des malaises ou des épisodes transitoires où la personne ne répond plus » sont « parfois difficiles à distinguer d’un vrai malaise » : la phrase est circulaire et ne rend pas la distinction de McKeith 2017 entre épisodes transitoires d’absence de réponse et vraie syncope.",
+                "requested_change": "Reformuler, par exemple : « des chutes répétées, des syncopes ou des épisodes transitoires où la personne ne répond plus font partie des signes possibles ; ces épisodes sont parfois difficiles à distinguer d’une vraie perte de connaissance, et bien d’autres causes peuvent provoquer une chute. »"
+              },
+              {
+                "episode": 8,
+                "issue": "Fin : « Mme Diallo glisse son portefeuille dans la poche de sa veste » est ambigu pour un lecteur arrivant sur l’épisode (on peut comprendre qu’elle garde le portefeuille sur elle) ; l’épisode 9 précise après coup qu’il s’agit de la veste de Farid.",
+                "requested_change": "Préciser : « Mme Diallo glisse le portefeuille de Farid, avec la carte de la neurologue, dans la poche de la veste qui part avec lui. »"
+              },
+              {
+                "episode": 9,
+                "issue": "La carte est dite remplie « il y a moins de deux semaines », alors que la consultation (épisode 6) a eu lieu le vendredi précédent, six jours avant la chute du jeudi : formulation trompeuse pour la chronologie.",
+                "requested_change": "Écrire « remplie vendredi dernier » ou « il y a six jours » avec la docteure Tissier."
+              },
+              {
+                "episode": 9,
+                "issue": "Dans la fin, Anis fait ajouter au dossier une note sur la moindre orientation de son père dans un lieu inconnu le soir sans lui demander son accord, alors que Farid est éveillé et vient de parler pour lui-même ; cela contredit la règle de la série (Anis transmet ce que son père autorise, sauf danger) et le travail de l’épisode 5.",
+                "requested_change": "Montrer l’accord dans la scène, par exemple : Anis se tourne vers son père : « Je peux leur dire que tu te repères moins bien ici le soir ? » Farid acquiesce, ou le dit lui-même à l’infirmier, qui l’ajoute au dossier."
+              },
+              {
+                "episode": 12,
+                "issue": "Exemple des manifestations « Anis se demande combien de temps son père pourra vivre seul avec ce soutien » : cette pensée n’apparaît nulle part dans la scène ; l’exemple n’est pas situé dans ce que le lecteur a observé, contrairement à la charte.",
+                "requested_change": "Remplacer par un élément présent dans la scène (par exemple : « Gilles tend la convention en demandant la suite, avant même la signature. ») ou ajouter dans l’ouverture un court passage montrant cette question chez Anis, sans prédire l’évolution."
+              }
+            ],
+            "reviewer": "review_farid"
+          }
         }
       },
       "observed_at_init": {
@@ -5742,7 +6063,49 @@
         "design_sha256": null,
         "dossier_sha256": null,
         "review_sha256": null
-      }
+      },
+      "findings": [
+        {
+          "episode": 1,
+          "issue": "L’explication affirme que les fluctuations « sont souvent plus marquantes, dans cette maladie, que les difficultés de mémoire elles-mêmes ». Le dossier (CDDR p. 624) dit que les troubles de l’attention, des fonctions exécutives et visuospatiaux sont souvent plus marqués que ceux de la mémoire ; il ne compare pas les fluctuations à la mémoire.",
+          "requested_change": "Remplacer cette phrase par une formulation fidèle à la source, par exemple : « Dans cette maladie, l’attention est d’ailleurs souvent plus touchée que la mémoire. » ou supprimer la comparaison."
+        },
+        {
+          "episode": 4,
+          "issue": "Dans les manifestations, « Ces expériences surviennent fréquemment dans des moments ordinaires, parfois en lumière faible » énonce une fréquence et une circonstance (lumière faible) qui ne figurent dans aucun point du dossier de sources.",
+          "requested_change": "Reformuler sans affirmation non sourcée, par exemple : « Elles peuvent survenir dans un moment ordinaire, sans événement particulier juste avant. » ; ou ajouter au dossier une source vérifiée pour le lien avec la lumière."
+        },
+        {
+          "episode": 6,
+          "issue": "La rubrique « Du côté des proches » dit qu’Anis « l’a appelé par son prénom depuis le seuil », alors que la scène le montre dire « Papa. Papa, c’est Anis » : le raccord est faux.",
+          "requested_change": "Écrire par exemple : « Anis a allumé le couloir et l’a appelé doucement depuis le seuil, en se nommant, sans le secouer. »"
+        },
+        {
+          "episode": 8,
+          "issue": "L’explication écrit que « des malaises ou des épisodes transitoires où la personne ne répond plus » sont « parfois difficiles à distinguer d’un vrai malaise » : la phrase est circulaire et ne rend pas la distinction de McKeith 2017 entre épisodes transitoires d’absence de réponse et vraie syncope.",
+          "requested_change": "Reformuler, par exemple : « des chutes répétées, des syncopes ou des épisodes transitoires où la personne ne répond plus font partie des signes possibles ; ces épisodes sont parfois difficiles à distinguer d’une vraie perte de connaissance, et bien d’autres causes peuvent provoquer une chute. »"
+        },
+        {
+          "episode": 8,
+          "issue": "Fin : « Mme Diallo glisse son portefeuille dans la poche de sa veste » est ambigu pour un lecteur arrivant sur l’épisode (on peut comprendre qu’elle garde le portefeuille sur elle) ; l’épisode 9 précise après coup qu’il s’agit de la veste de Farid.",
+          "requested_change": "Préciser : « Mme Diallo glisse le portefeuille de Farid, avec la carte de la neurologue, dans la poche de la veste qui part avec lui. »"
+        },
+        {
+          "episode": 9,
+          "issue": "La carte est dite remplie « il y a moins de deux semaines », alors que la consultation (épisode 6) a eu lieu le vendredi précédent, six jours avant la chute du jeudi : formulation trompeuse pour la chronologie.",
+          "requested_change": "Écrire « remplie vendredi dernier » ou « il y a six jours » avec la docteure Tissier."
+        },
+        {
+          "episode": 9,
+          "issue": "Dans la fin, Anis fait ajouter au dossier une note sur la moindre orientation de son père dans un lieu inconnu le soir sans lui demander son accord, alors que Farid est éveillé et vient de parler pour lui-même ; cela contredit la règle de la série (Anis transmet ce que son père autorise, sauf danger) et le travail de l’épisode 5.",
+          "requested_change": "Montrer l’accord dans la scène, par exemple : Anis se tourne vers son père : « Je peux leur dire que tu te repères moins bien ici le soir ? » Farid acquiesce, ou le dit lui-même à l’infirmier, qui l’ajoute au dossier."
+        },
+        {
+          "episode": 12,
+          "issue": "Exemple des manifestations « Anis se demande combien de temps son père pourra vivre seul avec ce soutien » : cette pensée n’apparaît nulle part dans la scène ; l’exemple n’est pas situé dans ce que le lecteur a observé, contrairement à la charte.",
+          "requested_change": "Remplacer par un élément présent dans la scène (par exemple : « Gilles tend la convention en demandant la suite, avant même la signature. ») ou ajouter dans l’ouverture un court passage montrant cette question chez Anis, sans prédire l’évolution."
+        }
+      ]
     },
     "anne": {
       "character_id": "anne",
@@ -127800,8 +128163,8 @@
       "snapshot_sha256": "4dabdf46f54ccf4dcc7dfd041c9d12101b82896239b0abc86534b5e01fa830b5",
       "status": "active",
       "token_sha256": "8a4f6059d4c41c25578054d90bd4da5ee389d8174bc300983f7c2700e440aa0a",
-      "heartbeat_at": "2026-11-12T10:47:51Z",
-      "expires_at": "2026-11-12T11:47:51Z",
+      "heartbeat_at": "2026-11-12T10:50:52Z",
+      "expires_at": "2026-11-12T11:50:52Z",
       "checkpoints": [
         {
           "at": "2026-11-12T10:44:32Z",
@@ -127867,6 +128230,48 @@
           "observed": {
             "manuscript_sha256": "76053faee86330137b2d12747de49a907387b76cc18ff0cd9468d8cf5d23103e",
             "episodes_present": 5,
+            "manuscript_readable": true,
+            "design_sha256": "c174799d40aa902537bd0218bc014a922e0951c81ac3162f9a554455bb63e9cb",
+            "dossier_sha256": "c7894d40790a6020b8e0abf4e10623161e6bdb76a255328ed8507d30f813803e",
+            "review_sha256": null
+          }
+        },
+        {
+          "at": "2026-11-12T10:48:40Z",
+          "outputs": {
+            "editorial/clinical/amaury.json": "3074419abc6014bbf62eea59618c5a01dc3534806a195978191f47b5177698eb"
+          },
+          "observed": {
+            "manuscript_sha256": "3074419abc6014bbf62eea59618c5a01dc3534806a195978191f47b5177698eb",
+            "episodes_present": 6,
+            "manuscript_readable": true,
+            "design_sha256": "c174799d40aa902537bd0218bc014a922e0951c81ac3162f9a554455bb63e9cb",
+            "dossier_sha256": "c7894d40790a6020b8e0abf4e10623161e6bdb76a255328ed8507d30f813803e",
+            "review_sha256": null
+          }
+        },
+        {
+          "at": "2026-11-12T10:49:47Z",
+          "outputs": {
+            "editorial/clinical/amaury.json": "60620d95f939332ec25c84b73c0ef408a6caea144a1a5469b302dcc3af0dc8bd"
+          },
+          "observed": {
+            "manuscript_sha256": "60620d95f939332ec25c84b73c0ef408a6caea144a1a5469b302dcc3af0dc8bd",
+            "episodes_present": 7,
+            "manuscript_readable": true,
+            "design_sha256": "c174799d40aa902537bd0218bc014a922e0951c81ac3162f9a554455bb63e9cb",
+            "dossier_sha256": "c7894d40790a6020b8e0abf4e10623161e6bdb76a255328ed8507d30f813803e",
+            "review_sha256": null
+          }
+        },
+        {
+          "at": "2026-11-12T10:50:51Z",
+          "outputs": {
+            "editorial/clinical/amaury.json": "4054a480aea7135e1168268d8cb73cbe0db0c87f1563a49aed82caef56d04bf0"
+          },
+          "observed": {
+            "manuscript_sha256": "4054a480aea7135e1168268d8cb73cbe0db0c87f1563a49aed82caef56d04bf0",
+            "episodes_present": 8,
             "manuscript_readable": true,
             "design_sha256": "c174799d40aa902537bd0218bc014a922e0951c81ac3162f9a554455bb63e9cb",
             "dossier_sha256": "c7894d40790a6020b8e0abf4e10623161e6bdb76a255328ed8507d30f813803e",
@@ -128315,8 +128720,8 @@
       "snapshot_sha256": "88bcf52a2eed24fd23b562e66286f109ac6b07df283d1bf48fd6c89350389c27",
       "status": "active",
       "token_sha256": "b63f7989e293cec2e689ace05bb846ed175280099fdde9f316d0d49f9198ad7f",
-      "heartbeat_at": "2026-11-12T10:48:06Z",
-      "expires_at": "2026-11-12T11:48:06Z",
+      "heartbeat_at": "2026-11-12T10:50:54Z",
+      "expires_at": "2026-11-12T11:50:54Z",
       "checkpoints": [
         {
           "at": "2026-11-12T10:45:28Z",
@@ -128368,6 +128773,48 @@
           "observed": {
             "manuscript_sha256": "eb020a49f7df73c12cac6ccb28ed4f7dc61eb56494a86371fb56b1b7fbbbd20b",
             "episodes_present": 4,
+            "manuscript_readable": true,
+            "design_sha256": "e984738bc0f951beda59459e2b46d1406e0699c039dd1440a8d622f8444b7399",
+            "dossier_sha256": "0dca27fa55e4452b0c667a225dcc8e2648f34b3eedda8e07d41e768724673269",
+            "review_sha256": null
+          }
+        },
+        {
+          "at": "2026-11-12T10:48:58Z",
+          "outputs": {
+            "editorial/clinical/oumar.json": "345bc233e8a4e0888eec0dc4dd70adc85187317042aa0702015d1c2a4833604d"
+          },
+          "observed": {
+            "manuscript_sha256": "345bc233e8a4e0888eec0dc4dd70adc85187317042aa0702015d1c2a4833604d",
+            "episodes_present": 5,
+            "manuscript_readable": true,
+            "design_sha256": "e984738bc0f951beda59459e2b46d1406e0699c039dd1440a8d622f8444b7399",
+            "dossier_sha256": "0dca27fa55e4452b0c667a225dcc8e2648f34b3eedda8e07d41e768724673269",
+            "review_sha256": null
+          }
+        },
+        {
+          "at": "2026-11-12T10:49:56Z",
+          "outputs": {
+            "editorial/clinical/oumar.json": "353dd92dab1553c4305848bfd48840018fd57e52c66238cff43cec901de538a1"
+          },
+          "observed": {
+            "manuscript_sha256": "353dd92dab1553c4305848bfd48840018fd57e52c66238cff43cec901de538a1",
+            "episodes_present": 6,
+            "manuscript_readable": true,
+            "design_sha256": "e984738bc0f951beda59459e2b46d1406e0699c039dd1440a8d622f8444b7399",
+            "dossier_sha256": "0dca27fa55e4452b0c667a225dcc8e2648f34b3eedda8e07d41e768724673269",
+            "review_sha256": null
+          }
+        },
+        {
+          "at": "2026-11-12T10:50:54Z",
+          "outputs": {
+            "editorial/clinical/oumar.json": "b9c2dac0fc19a84f2a79a05f30d090ea71f7e9638f5a9954475a7e2e243b5a22"
+          },
+          "observed": {
+            "manuscript_sha256": "b9c2dac0fc19a84f2a79a05f30d090ea71f7e9638f5a9954475a7e2e243b5a22",
+            "episodes_present": 7,
             "manuscript_readable": true,
             "design_sha256": "e984738bc0f951beda59459e2b46d1406e0699c039dd1440a8d622f8444b7399",
             "dossier_sha256": "0dca27fa55e4452b0c667a225dcc8e2648f34b3eedda8e07d41e768724673269",
@@ -128515,8 +128962,8 @@
       "snapshot_sha256": "48487c359ef66d371b827e0089186040cf93aba00dd02a6615d0a492067611c0",
       "status": "active",
       "token_sha256": "ac2cde580a40d73d980edc99d1fee15b0aff65c6069b23f6587cde79e1d94da8",
-      "heartbeat_at": "2026-11-12T10:43:25Z",
-      "expires_at": "2026-11-12T11:43:25Z"
+      "heartbeat_at": "2026-11-12T10:50:58Z",
+      "expires_at": "2026-11-12T11:50:58Z"
     },
     "3ccf211082884111acca8610a4f47dfe": {
       "id": "3ccf211082884111acca8610a4f47dfe",
@@ -128941,8 +129388,8 @@
       "snapshot_sha256": "1d923f5e459c4f6c32b830b4232410f2b3108cb430ae0a2768a757f29d83eebf",
       "status": "active",
       "token_sha256": "a35a57e1258129088ddbfb3af10644b7315ccae80ba408c83802b035040146dc",
-      "heartbeat_at": "2026-11-12T10:43:27Z",
-      "expires_at": "2026-11-12T11:43:27Z"
+      "heartbeat_at": "2026-11-12T10:51:01Z",
+      "expires_at": "2026-11-12T11:51:01Z"
     },
     "7ad605c4a9104420bd8459098f3d5a8a": {
       "id": "7ad605c4a9104420bd8459098f3d5a8a",
@@ -131191,8 +131638,8 @@
       "snapshot_sha256": "3143c79ef36ab7f0e5a61a467de90482abc803d8031e5f661bffa039538f7f8c",
       "status": "active",
       "token_sha256": "8f126104030192242562c7e3bd1f63ab1b278921e76c060224c4218f34aa8d6d",
-      "heartbeat_at": "2026-11-12T10:47:36Z",
-      "expires_at": "2026-11-12T11:47:36Z",
+      "heartbeat_at": "2026-11-12T10:50:21Z",
+      "expires_at": "2026-11-12T11:50:21Z",
       "checkpoints": [
         {
           "at": "2026-11-12T10:45:58Z",
@@ -131230,6 +131677,48 @@
           "observed": {
             "manuscript_sha256": "a4d84a15d6969d8d37f501be6d8436bd7be40daef53028e28c1f3a961eea0c2e",
             "episodes_present": 3,
+            "manuscript_readable": true,
+            "design_sha256": "e589c168524931de6f54ca26d46e7bda62de3a6b1163447ad1bda097cf454ec9",
+            "dossier_sha256": "293da73e9d38ccd48b0632f4523ed43accbcefd99c45db0043fa53cae8f763f5",
+            "review_sha256": null
+          }
+        },
+        {
+          "at": "2026-11-12T10:48:32Z",
+          "outputs": {
+            "editorial/clinical/anne.json": "e10451ba62af2c232015fe84921d56c080815eeff425a55dc395d10cf0862e3e"
+          },
+          "observed": {
+            "manuscript_sha256": "e10451ba62af2c232015fe84921d56c080815eeff425a55dc395d10cf0862e3e",
+            "episodes_present": 4,
+            "manuscript_readable": true,
+            "design_sha256": "e589c168524931de6f54ca26d46e7bda62de3a6b1163447ad1bda097cf454ec9",
+            "dossier_sha256": "293da73e9d38ccd48b0632f4523ed43accbcefd99c45db0043fa53cae8f763f5",
+            "review_sha256": null
+          }
+        },
+        {
+          "at": "2026-11-12T10:49:31Z",
+          "outputs": {
+            "editorial/clinical/anne.json": "d1e5d77da3a4a8de2447af13eac7189572e990581f6a17250b8b8719cb7c7837"
+          },
+          "observed": {
+            "manuscript_sha256": "d1e5d77da3a4a8de2447af13eac7189572e990581f6a17250b8b8719cb7c7837",
+            "episodes_present": 5,
+            "manuscript_readable": true,
+            "design_sha256": "e589c168524931de6f54ca26d46e7bda62de3a6b1163447ad1bda097cf454ec9",
+            "dossier_sha256": "293da73e9d38ccd48b0632f4523ed43accbcefd99c45db0043fa53cae8f763f5",
+            "review_sha256": null
+          }
+        },
+        {
+          "at": "2026-11-12T10:50:21Z",
+          "outputs": {
+            "editorial/clinical/anne.json": "e0fb2bbb8df9d7b2a0a0a0ff067a105469ae70fa05271dc7214470bc7eda260c"
+          },
+          "observed": {
+            "manuscript_sha256": "e0fb2bbb8df9d7b2a0a0a0ff067a105469ae70fa05271dc7214470bc7eda260c",
+            "episodes_present": 6,
             "manuscript_readable": true,
             "design_sha256": "e589c168524931de6f54ca26d46e7bda62de3a6b1163447ad1bda097cf454ec9",
             "dossier_sha256": "293da73e9d38ccd48b0632f4523ed43accbcefd99c45db0043fa53cae8f763f5",
@@ -132973,10 +133462,55 @@
         }
       },
       "snapshot_sha256": "51d9efc88ae05429f99fc37fc76a11f4e95cb5f666e23bae2ef50df23134bdc1",
-      "status": "active",
+      "status": "finished",
       "token_sha256": "47904b5f5b9188a6fbf27d4a7b7b5d31aa0d4f337200c6409652c3f37b64b9f4",
       "heartbeat_at": "2026-11-12T10:44:13Z",
-      "expires_at": "2026-11-12T11:44:13Z"
+      "expires_at": "2026-11-12T11:44:13Z",
+      "finished_at": "2026-11-12T10:49:04Z",
+      "validation": {
+        "character_id": "bilal",
+        "files": {
+          "editorial/clinical/designs/bilal.json": "c41dfdf0cae416ecb036744ce3ed0f3d24c0afdf34832f99ac58a4b69abc73ef",
+          "editorial/clinical/dossiers/bilal.json": "fd6d5ceb0a0df7a6e257370471dd030d907bd525378624ac307fcc12e93bd968",
+          "editorial/clinical/bilal.json": "39ea8a08a2e5a03a6236d7cab038d03cbe54d8c0f3f4aa4dce6609f40ffe1fa0",
+          "editorial/clinical/reviews/bilal.json": "b09d11b0bd408d842fe21b2e648d347ecf348dd0fc26baaadb1e3d33671e872c"
+        },
+        "episodes": 12,
+        "status": "revision_requested",
+        "findings": [
+          {
+            "episode": 4,
+            "issue": "L’explication attribue à l’OMS une « source d’une information mal attribuée » et évoque une « scène plausible » reconstruite ; la sous-partie « Une source mal attribuée » et la généralisation « Le sentiment d’avoir dit quelque chose peut s’accompagner de détails précis » vont dans le même sens. Or la CDDR p.613 (texte anglais vérifié) parle de « misattribution of the cause/source of symptoms or problems », c’est-à-dire de difficultés attribuées à une autre cause, d’une conscience modifiée des difficultés et d’oublis non reconnus ; le dossier ne documente ni erreur de source d’une information, ni souvenir reconstruit détaillé.",
+            "requested_change": "Réécrire l’explication et la deuxième sous-partie avec les seuls éléments du dossier : conscience modifiée des difficultés, perception erronée de ses capacités, mauvaise attribution de la cause des difficultés et possibilité de ne pas repérer un oubli (par exemple avoir eu l’intention de prévenir Rachid sans s’apercevoir que ce n’était pas fait). Supprimer « ou a reconstruit une scène plausible » et la mention d’une source d’information mal attribuée. La certitude détaillée de Bilal (le bonnet vert) peut rester dans la scène comme vécu du personnage, mais pas comme mécanisme général décrit par l’OMS ; reformuler en conséquence la sous-partie « Un souvenir détaillé mais non confirmé » et l’intro clinique (« se tromper sur l’origine d’une information »)."
+          },
+          {
+            "episode": 4,
+            "issue": "Erreur de genre répétée : « rendre une serre-joint empruntée » et « Rachid pose la serre-joint » ; le nom est masculin, comme l’écrit correctement l’ép. 7 (« deux serre-joints »).",
+            "requested_change": "Écrire « rendre un serre-joint emprunté » et « Rachid pose le serre-joint »."
+          },
+          {
+            "episode": 5,
+            "issue": "Calendrier scolaire peu plausible : la série se termine avant décembre (camionnette changée en décembre, ép. 10 ; poste d’Inès au 5 janvier, ép. 9 ; pommes au jardin, ép. 4), donc la semaine 5 tombe vers début octobre. Un conseil de classe de trois heures avec vote sur la réorientation d’un élève de seconde ne se tient pas à cette période en lycée.",
+            "requested_change": "Remplacer le conseil de classe par une réunion plausible en octobre (par exemple une longue réunion de l’équipe pédagogique sur un élève de seconde en difficulté, sans vote de réorientation), en gardant la même charge et en ajustant les reprises dans les manifestations, les techniques et le dénouement de l’ép. 5 (récit du samedi au café)."
+          },
+          {
+            "episode": 6,
+            "issue": "Raccord du carnet rouge : à l’hôpital le mardi 9 h, le carnet est « dans la poche de sa veste » après la recopie du lundi midi, et il sert dans le tramway ; or l’ép. 8 affirme que, depuis l’arrangement de l’ép. 5, le carnet reste le soir dans le tablier et que le tablier reste à l’atelier, ce qui explique la séance manquée.",
+            "requested_change": "Ajouter dans l’ouverture de l’ép. 6 une phrase indiquant que Bilal a exceptionnellement sorti le carnet du tablier lundi à dix-sept heures pour ce rendez-vous du matin (par exemple sur le conseil d’Hugo ou de Martine), afin que la règle décrite en ép. 8 reste vraie et que l’oubli de l’ép. 8 garde sa logique."
+          },
+          {
+            "episode": 7,
+            "issue": "Écart de chronologie : la latte de Rachid est « rentrée il y a trois semaines, le lundi fixé sur l’ardoise ». Ce lundi suit le mercredi de l’ép. 4 (trois semaines après la livraison) ; l’ép. 7 se passe le jeudi de la semaine du bilan (six semaines après), soit environ dix-sept jours plus tard.",
+            "requested_change": "Écrire « il y a un peu plus de deux semaines » (ou « dix-sept jours plus tôt »), sans changer le reste."
+          },
+          {
+            "episode": 12,
+            "issue": "Raccord physique : l’allée mesurée en ép. 3 fait 1,60 m de large ; une camionnette, rétroviseurs compris, est plus large, et la phrase « Un mètre soixante de large : le rétroviseur frôle le tilleul, mais ça passe » rend la manœuvre impossible. Par ailleurs « Le soir, avant que le carnet rouge se ferme, il écrit » contredit la fermeture du carnet à dix-sept heures décidée en ép. 5 et reprise en ép. 8.",
+            "requested_change": "Faire stationner la camionnette au portail ou dans la rue et faire porter l’assise du banc à l’épaule par Jonas et Rachid le long de l’allée de 1,60 m (le banc de 3 m y passe en longueur), en gardant le clin d’œil au tilleul si souhaité. Remplacer « Le soir, avant que le carnet rouge se ferme » par une heure compatible, par exemple « Avant dix-sept heures, avant de passer l’élastique »."
+          }
+        ],
+        "reviewer": "review_bilal"
+      }
     },
     "47c83e0f7e804c89a0b491c8834b61fd": {
       "id": "47c83e0f7e804c89a0b491c8834b61fd",
@@ -133396,8 +133930,8 @@
       "snapshot_sha256": "9e9e61d60a4beab9d4c1a33380b5c12e5830ad4acf086c1ce3d3c31c3376cffe",
       "status": "active",
       "token_sha256": "fb63cc1026d356c7a66c043797fa98181ab0439cf445c95795bf403e9f0ab55c",
-      "heartbeat_at": "2026-11-12T10:47:54Z",
-      "expires_at": "2026-11-12T11:47:54Z",
+      "heartbeat_at": "2026-11-12T10:50:20Z",
+      "expires_at": "2026-11-12T11:50:20Z",
       "checkpoints": [
         {
           "at": "2026-11-12T10:46:58Z",
@@ -133435,6 +133969,48 @@
           "observed": {
             "manuscript_sha256": "cba4218e69dc805ed6547ce577786bc1be05993b846aae67916fc2377703d41b",
             "episodes_present": 2,
+            "manuscript_readable": true,
+            "design_sha256": "5d40c8cb959c26f24669d96ccede83735ced9898f215520f0889091ece240693",
+            "dossier_sha256": "eecc9d8a053dae8ca2631fa6f215f7c63778178f1f24c435583c193ae17cf2ac",
+            "review_sha256": null
+          }
+        },
+        {
+          "at": "2026-11-12T10:48:41Z",
+          "outputs": {
+            "editorial/clinical/clarisse.json": "a0f934b60f0348377c17dc2a3c4f3faab8b4d416f9f3eefab0b952b01a9adf5e"
+          },
+          "observed": {
+            "manuscript_sha256": "a0f934b60f0348377c17dc2a3c4f3faab8b4d416f9f3eefab0b952b01a9adf5e",
+            "episodes_present": 3,
+            "manuscript_readable": true,
+            "design_sha256": "5d40c8cb959c26f24669d96ccede83735ced9898f215520f0889091ece240693",
+            "dossier_sha256": "eecc9d8a053dae8ca2631fa6f215f7c63778178f1f24c435583c193ae17cf2ac",
+            "review_sha256": null
+          }
+        },
+        {
+          "at": "2026-11-12T10:49:31Z",
+          "outputs": {
+            "editorial/clinical/clarisse.json": "795a8f128977e26f5c40720f72960a05c538080d02726a498dcd39224d07d954"
+          },
+          "observed": {
+            "manuscript_sha256": "795a8f128977e26f5c40720f72960a05c538080d02726a498dcd39224d07d954",
+            "episodes_present": 4,
+            "manuscript_readable": true,
+            "design_sha256": "5d40c8cb959c26f24669d96ccede83735ced9898f215520f0889091ece240693",
+            "dossier_sha256": "eecc9d8a053dae8ca2631fa6f215f7c63778178f1f24c435583c193ae17cf2ac",
+            "review_sha256": null
+          }
+        },
+        {
+          "at": "2026-11-12T10:50:20Z",
+          "outputs": {
+            "editorial/clinical/clarisse.json": "c8d68aa862ed01cb2204aecd64b5763b293dd3c12974abcb596606a88945c106"
+          },
+          "observed": {
+            "manuscript_sha256": "c8d68aa862ed01cb2204aecd64b5763b293dd3c12974abcb596606a88945c106",
+            "episodes_present": 5,
             "manuscript_readable": true,
             "design_sha256": "5d40c8cb959c26f24669d96ccede83735ced9898f215520f0889091ece240693",
             "dossier_sha256": "eecc9d8a053dae8ca2631fa6f215f7c63778178f1f24c435583c193ae17cf2ac",
@@ -135213,10 +135789,65 @@
         }
       },
       "snapshot_sha256": "72990f3e4e1ae2cdaaa42a43e56c23b3bcf37d715d319682b737d1632b7a5ea1",
-      "status": "active",
+      "status": "finished",
       "token_sha256": "209d1855df087d76a6dc3d112ad17a0f0c67380ab01c7ac291d5ed53646228ac",
       "heartbeat_at": "2026-11-12T10:44:42Z",
-      "expires_at": "2026-11-12T11:44:42Z"
+      "expires_at": "2026-11-12T11:44:42Z",
+      "finished_at": "2026-11-12T10:48:46Z",
+      "validation": {
+        "character_id": "farid",
+        "files": {
+          "editorial/clinical/designs/farid.json": "8d88a591a9e08e92e7ebf5cf3b61323f27828aae3dcd12927bc8983b768e3765",
+          "editorial/clinical/dossiers/farid.json": "9f8406d860519a4c1f9048de161040706352640e8ee68fa499c8d512147e5f2e",
+          "editorial/clinical/farid.json": "0bb003e361c4500abbafb54f37449c3aa9fcd2c065d79fe1f46b2be29daa872b",
+          "editorial/clinical/reviews/farid.json": "617e5715551ebf0228d903a5fd229e9c183a960ecf32685363a03403e1ce44be"
+        },
+        "episodes": 12,
+        "status": "revision_requested",
+        "findings": [
+          {
+            "episode": 1,
+            "issue": "L’explication affirme que les fluctuations « sont souvent plus marquantes, dans cette maladie, que les difficultés de mémoire elles-mêmes ». Le dossier (CDDR p. 624) dit que les troubles de l’attention, des fonctions exécutives et visuospatiaux sont souvent plus marqués que ceux de la mémoire ; il ne compare pas les fluctuations à la mémoire.",
+            "requested_change": "Remplacer cette phrase par une formulation fidèle à la source, par exemple : « Dans cette maladie, l’attention est d’ailleurs souvent plus touchée que la mémoire. » ou supprimer la comparaison."
+          },
+          {
+            "episode": 4,
+            "issue": "Dans les manifestations, « Ces expériences surviennent fréquemment dans des moments ordinaires, parfois en lumière faible » énonce une fréquence et une circonstance (lumière faible) qui ne figurent dans aucun point du dossier de sources.",
+            "requested_change": "Reformuler sans affirmation non sourcée, par exemple : « Elles peuvent survenir dans un moment ordinaire, sans événement particulier juste avant. » ; ou ajouter au dossier une source vérifiée pour le lien avec la lumière."
+          },
+          {
+            "episode": 6,
+            "issue": "La rubrique « Du côté des proches » dit qu’Anis « l’a appelé par son prénom depuis le seuil », alors que la scène le montre dire « Papa. Papa, c’est Anis » : le raccord est faux.",
+            "requested_change": "Écrire par exemple : « Anis a allumé le couloir et l’a appelé doucement depuis le seuil, en se nommant, sans le secouer. »"
+          },
+          {
+            "episode": 8,
+            "issue": "L’explication écrit que « des malaises ou des épisodes transitoires où la personne ne répond plus » sont « parfois difficiles à distinguer d’un vrai malaise » : la phrase est circulaire et ne rend pas la distinction de McKeith 2017 entre épisodes transitoires d’absence de réponse et vraie syncope.",
+            "requested_change": "Reformuler, par exemple : « des chutes répétées, des syncopes ou des épisodes transitoires où la personne ne répond plus font partie des signes possibles ; ces épisodes sont parfois difficiles à distinguer d’une vraie perte de connaissance, et bien d’autres causes peuvent provoquer une chute. »"
+          },
+          {
+            "episode": 8,
+            "issue": "Fin : « Mme Diallo glisse son portefeuille dans la poche de sa veste » est ambigu pour un lecteur arrivant sur l’épisode (on peut comprendre qu’elle garde le portefeuille sur elle) ; l’épisode 9 précise après coup qu’il s’agit de la veste de Farid.",
+            "requested_change": "Préciser : « Mme Diallo glisse le portefeuille de Farid, avec la carte de la neurologue, dans la poche de la veste qui part avec lui. »"
+          },
+          {
+            "episode": 9,
+            "issue": "La carte est dite remplie « il y a moins de deux semaines », alors que la consultation (épisode 6) a eu lieu le vendredi précédent, six jours avant la chute du jeudi : formulation trompeuse pour la chronologie.",
+            "requested_change": "Écrire « remplie vendredi dernier » ou « il y a six jours » avec la docteure Tissier."
+          },
+          {
+            "episode": 9,
+            "issue": "Dans la fin, Anis fait ajouter au dossier une note sur la moindre orientation de son père dans un lieu inconnu le soir sans lui demander son accord, alors que Farid est éveillé et vient de parler pour lui-même ; cela contredit la règle de la série (Anis transmet ce que son père autorise, sauf danger) et le travail de l’épisode 5.",
+            "requested_change": "Montrer l’accord dans la scène, par exemple : Anis se tourne vers son père : « Je peux leur dire que tu te repères moins bien ici le soir ? » Farid acquiesce, ou le dit lui-même à l’infirmier, qui l’ajoute au dossier."
+          },
+          {
+            "episode": 12,
+            "issue": "Exemple des manifestations « Anis se demande combien de temps son père pourra vivre seul avec ce soutien » : cette pensée n’apparaît nulle part dans la scène ; l’exemple n’est pas situé dans ce que le lecteur a observé, contrairement à la charte.",
+            "requested_change": "Remplacer par un élément présent dans la scène (par exemple : « Gilles tend la convention en demandant la suite, avant même la signature. ») ou ajouter dans l’ouverture un court passage montrant cette question chez Anis, sans prédire l’évolution."
+          }
+        ],
+        "reviewer": "review_farid"
+      }
     },
     "06ddc07834bd4ba0b0ac73f994f2d6b0": {
       "id": "06ddc07834bd4ba0b0ac73f994f2d6b0",
@@ -137013,11 +137644,46 @@
         }
       },
       "snapshot_sha256": "9df9cb539c18b132c1a173e7f65eb64731532161302a7b25a9978a0d074d54aa",
-      "status": "active",
+      "status": "finished",
       "token_sha256": "16c877304037bfd7df01bfaa5febe46de9f4148b1039fc0a24a68d0403efb32c",
       "heartbeat_at": "2026-11-12T10:46:07Z",
-      "expires_at": "2026-11-12T11:46:07Z"
+      "expires_at": "2026-11-12T11:46:07Z",
+      "finished_at": "2026-11-12T10:50:22Z",
+      "validation": {
+        "character_id": "nadege",
+        "files": {
+          "editorial/clinical/designs/nadege.json": "257fec98799ee8e236e244dcc68d5f8f49b6be8a297d2e88e3aba2308b105608",
+          "editorial/clinical/dossiers/nadege.json": "c8053e8b6bac33056a1c3257426c6c4710450fda88de8738db057a15ae733fa9",
+          "editorial/clinical/nadege.json": "d48f271273f5e8b5d51110bd23011294404fac3a75c147d260b382604451e700",
+          "editorial/clinical/reviews/nadege.json": "63e77facfb19458bc182e9355c3f7fbd2bc8e00739a1dc8c30b4a3c5e9e9d8e6"
+        },
+        "episodes": 12,
+        "status": "revision_requested",
+        "findings": [
+          {
+            "episode": 9,
+            "issue": "La technique « Appeler le 15 sans attendre » conclut que « faire ses propres tests fait perdre du temps », et le miroir dit qu’« un proche n’a ni à faire ses propres tests ». Or les signes que Josette décrit (visage, bras, parole) sont précisément ceux que les messages de santé publique invitent le public à repérer ; c’est le fait de retarder l’appel ou de remplacer l’évaluation médicale qui est à écarter, pas l’observation. Cette généralisation n’est pas portée par les sources du dossier (SPF, NICE NG128 1.1.1–1.1.2, F33954).",
+            "requested_change": "Reformuler le bénéfice de la technique 1 et la phrase du miroir pour écarter le délai et le test de remplacement, par exemple : « attendre que cela passe ou retarder l’appel pour faire des vérifications fait perdre du temps ; décrire ce que l’on voit suffit ». Garder la scène où Josette ne fait pas lever les bras et appelle aussitôt."
+          },
+          {
+            "episode": 11,
+            "issue": "Raccord sur l’entretien d’humeur et de fatigue. L’épisode 8 le fait proposer par la docteure Leclerc et l’épisode 10 l’annonce « déplacé au lundi 29, avec la docteure Leclerc ». L’épisode 11 le fait mener le matin par une infirmière de l’équipe. Puis la fin évoque une réévaluation « avec l’entretien de ce matin », formule ambiguë pour un lecteur qui se demande ce que devient la question de l’élan soulevée à l’épisode 8.",
+            "requested_change": "Harmoniser : soit indiquer à l’épisode 10 que l’entretien du 29 mars sera mené par une infirmière de l’équipe avant la consultation avec la docteure Leclerc, soit le faire mener par la docteure à l’épisode 11. Préciser en une phrase, sans résultat inventé, que l’équipe reprendra les conclusions de cet entretien avec Nadège (par exemple lors de la réévaluation du 21 juin) et qui elle appelle si l’élan ou l’humeur se dégrade d’ici là."
+          },
+          {
+            "episode": 12,
+            "issue": "« Karima […] est au four, comme convenu depuis janvier » : en janvier (épisode 7), Nadège décide seule de confier le four et la panade chaude à Karima ; l’accord avec Karima n’est pris qu’après le 29 mars, quand Nadège annonce qu’elle téléphonera elle-même à Josette et à Karima (épisode 11).",
+            "requested_change": "Remplacer par une formule exacte, par exemple « comme Nadège l’avait décidé en janvier et le lui a demandé au téléphone fin mars »."
+          },
+          {
+            "episode": 12,
+            "issue": "À l’épisode 4, Nadège inscrit dans le cahier bleu « Répétitions : plus fatigantes que prévu. Pas plus d’une heure. » L’atelier final dure de quatorze à seize heures « comme prévu » sans que le texte reprenne cette limite, alors que la technique « Prévoir une fin de séance » recommande une durée plus courte qu’on ne l’imagine. Le lecteur suivant la série peut y voir une contradiction ou une limite oubliée.",
+            "requested_change": "Reprendre la limite en une phrase concrète, par exemple : Nadège démontre pendant la première heure puis s’assoit pendant que Karima conduit les choux, ou une pause est prévue au milieu ; ou bien préciser que la règle concernait les répétitions et qu’elle a choisi cette durée avec une pause."
+          }
+        ],
+        "reviewer": "review_nadege"
+      }
     }
   },
-  "updated_at": "2026-11-12T10:48:06Z"
+  "updated_at": "2026-11-12T10:51:01Z"
 }

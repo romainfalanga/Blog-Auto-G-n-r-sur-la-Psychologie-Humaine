@@ -217,6 +217,320 @@
         "next": "À la réunion du mardi suivant, le groupe veut qu’elle redessine l’esquisse de l’école des Peupliers devant tout le monde pour l’affiche."
       },
       "diagnostic_stage": "known"
+    },
+    {
+      "number": 3,
+      "slug": "clarisse-choree-stress-huntington-dessiner-en-public",
+      "title": "Mouvements involontaires accentués par le stress",
+      "description": "Devant le groupe, la main de Clarisse dévie sur le calque alors qu’elle traçait la même courbe la veille : la chorée augmente avec le stress.",
+      "context": "un mardi, devant le groupe de l’Atelier",
+      "topics": [
+        "Démence due à la maladie de Huntington",
+        "chorée et stress",
+        "gestes du dessin"
+      ],
+      "clinical_focus": "Mouvements involontaires accentués par le stress",
+      "clinical_intro": "La maladie de Huntington ne touche pas seulement la pensée : elle provoque aussi des mouvements involontaires, appelés chorée, qui varient selon les moments. La fatigue et l’émotion les amplifient, le calme et le sommeil les atténuent. Un geste réussi seul chez soi peut ainsi échapper devant huit personnes. Clarisse le découvre un mardi, un feutre à la main, au moment de recopier son esquisse pour l’affiche.",
+      "opening": "Le mardi, à dix-huit heures, Clarisse est à l’heure. L’alarme de la veille a sonné, le calendrier de l’entrée portait la date, et le compte rendu de Yannick Riou, son ancien associé qui coordonne le groupe, annonçait : « On parlera de l’affiche. » Autour de la grande table de l’Atelier des Quais, ils sont huit. Yannick a posé au centre la photocopie de l’esquisse de l’école des Peupliers, Rezé, 1996, qu’elle a sortie du carton un : le préau en courbe, la cour, l’alignement des peupliers.\n\n« Il nous faudrait une copie propre pour l’affiche, dit-il. Tu la referais devant nous ? Ce serait beau, la main de l’architecte. » Il lui tend un feutre noir et une feuille de calque. Quelqu’un approuve. Maud, la bénévole qui scanne les documents et s’occupe du son, rapproche la lampe.\n\nClarisse pose le calque sur la photocopie, fixe les coins avec deux bandes de scotch. Elle connaît ce trait : la veille au soir, à sa table, elle l’a repassé trois fois pour le plaisir, sans une bavure. Elle place la pointe au départ de la courbe. Les huit regards se posent sur sa main. Son épaule droite tressaute. Sa main part vers la gauche, revient, et le préau se plie au milieu comme une tôle froissée. Elle reprend un peu plus loin ; un mouvement de son pied cogne le pied de la table. « Tu as froid ? » demande Maud avec gentillesse. Clarisse pose le feutre à plat, capuchon remis. Elle sent la chaleur monter dans son cou, et ses doigts qui continuent de bouger tout seuls sur le bord du calque.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Des mouvements que l’émotion amplifie",
+          "text": "La chorée est faite de mouvements involontaires, irréguliers, intermittents et sans but, qui peuvent toucher le visage, le tronc et les membres. Dans la maladie de Huntington, elle varie au cours d’une même journée : la fatigue et le stress émotionnel l’aggravent, et elle disparaît en général pendant le sommeil. Son intensité à un moment donné ne suffit pas à dire où en est la maladie. La dextérité fine, celle des doigts qui tiennent un feutre, peut aussi être touchée. Chez Clarisse, c’est la situation qui change tout : la même courbe, tracée seule la veille, se casse devant huit personnes attentives. Ce n’est ni de la maladresse ni un manque d’entraînement. La décision d’un éventuel traitement, si ces mouvements deviennent gênants, appartient au neurologue ; un ergothérapeute peut conseiller des aides adaptées aux gestes du quotidien."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment la chorée se manifeste-t-elle quand on est regardé ?",
+          "points": [
+            {
+              "heading": "Un geste qui dépend du contexte",
+              "text": "Les mouvements involontaires fluctuent selon l’émotion et la fatigue ; un geste peut réussir dans un cadre calme et échouer dans un autre.",
+              "examples": [
+                "La veille, chez elle, Clarisse repasse la courbe du préau trois fois sans bavure.",
+                "Devant le groupe, la même courbe se plie au milieu dès le premier trait."
+              ]
+            },
+            {
+              "heading": "Le corps entier peut bouger",
+              "text": "La chorée ne se limite pas à la main qui travaille ; l’épaule, le pied ou le visage peuvent être concernés.",
+              "examples": [
+                "Son épaule droite tressaute au moment où elle pose la pointe du feutre.",
+                "Son pied heurte le pied de la table sans qu’elle l’ait décidé."
+              ]
+            },
+            {
+              "heading": "Les autres cherchent une explication ordinaire",
+              "text": "Faute de connaître la maladie, l’entourage interprète les mouvements comme du froid, de la nervosité ou de la maladresse.",
+              "examples": [
+                "Maud demande gentiment à Clarisse si elle a froid.",
+                "Yannick avait imaginé le dessin en public comme un hommage à « la main de l’architecte »."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour adapter une activité aux mouvements involontaires",
+          "points": [
+            {
+              "heading": "Repérer les situations qui amplifient les mouvements",
+              "objective": "Comprendre dans quels moments un geste devient plus difficile.",
+              "exercise": [
+                "Noter pendant quelques semaines les moments où les mouvements gênent une activité.",
+                "Indiquer à côté le contexte : fatigue, regard des autres, hâte, bruit.",
+                "Apporter ces notes à la consultation de neurologie."
+              ],
+              "benefit": "Ces observations peuvent aider la personne et son médecin à situer la gêne, sans en tirer de conclusion sur l’évolution."
+            },
+            {
+              "heading": "Demander des aides au geste",
+              "objective": "Garder une activité qui compte en adaptant ses outils.",
+              "exercise": [
+                "Prendre rendez-vous avec un ergothérapeute en décrivant le geste précis concerné.",
+                "Essayer avec lui des outils adaptés, par exemple un feutre plus épais ou un support stable.",
+                "Garder ceux qui conviennent et abandonner les autres sans se forcer."
+              ],
+              "benefit": "Une aide adaptée peut rendre un geste plus confortable ; elle n’agit pas sur la maladie."
+            },
+            {
+              "heading": "Choisir ce que l’on montre en public",
+              "objective": "Participer à un projet sans s’exposer à une épreuve imposée.",
+              "exercise": [
+                "Proposer une autre façon de contribuer, comme un document original ou un scan.",
+                "Dire à une personne de confiance ce que l’on préfère ne plus faire devant un groupe.",
+                "Signaler au neurologue si les mouvements deviennent gênants au quotidien, car il décide d’un éventuel traitement."
+              ],
+              "benefit": "La personne garde la main sur sa participation, et la question médicale reste entre les mains du médecin."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Le scan plutôt que la copie",
+      "ending": "Clarisse respire, puis dit au groupe : « L’original existe. Maud, tu peux le scanner ? Ce sera plus juste qu’une copie. » Maud répond qu’elle a un scanner grand format le jeudi. Yannick hoche la tête et passe au point suivant. À la fin de la séance, il la raccompagne jusqu’au quai. Devant la rambarde, elle lui dit, sans le regarder : « J’ai une maladie de Huntington. Les mouvements, c’est ça. Je te demande de ne plus me proposer de dessiner en public. » Yannick reste un moment silencieux, puis répond : « D’accord. Je ne le dirai à personne sans te demander. » Elle ne parle pas de sa mère. Le lendemain matin, elle appelle le cabinet de M. Ferrand, l’ergothérapeute qui intervient à sa demande, et obtient un rendez-vous le lundi suivant pour ses feutres et sa tablette. Le jeudi, Maud scanne l’esquisse originale. Le soir, chez elle, Clarisse repasse la courbe sans témoin ; elle sort presque juste. Elle ne sait pas si sa main tiendra la prochaine fois que quelqu’un la regardera.",
+      "conclusion": "Cet épisode montre que la chorée de la maladie de Huntington varie avec le stress et la fatigue, si bien qu’un geste réussi seul peut échouer en public. Clarisse choisit le scan de son original, révèle le nom de sa maladie à Yannick et demande des aides à l’ergothérapeute.",
+      "mirror": [
+        "Maud a demandé « Tu as froid ? » pour être gentille, et Yannick avait imaginé un hommage. Quand une personne pose son outil après un geste qui a dérapé, un proche peut simplement proposer une autre voie : « On peut scanner l’original, si tu préfères. » Il n’a pas à commenter les mouvements ni à en deviner la cause. Si elle choisit de lui dire de quoi il s’agit, il peut lui demander qui d’autre peut le savoir, et s’en tenir à sa réponse."
+      ],
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "pnds-huntington-2021"
+      ],
+      "continuity": {
+        "choice": "Clarisse fait scanner l’esquisse originale par Maud au lieu de la recopier, dit sur le quai le nom de sa maladie à Yannick en lui demandant de ne plus lui proposer de dessiner en public, et prend rendez-vous le lundi suivant avec M. Ferrand, l’ergothérapeute.",
+        "next": "Le samedi, Clarisse raconte cette conversation à Viviane, et sa sœur se méprend sur son visage."
+      },
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 4,
+      "slug": "clarisse-cognition-sociale-masque-facial-huntington",
+      "title": "Un visage qui ne traduit plus ses émotions",
+      "description": "Clarisse raconte d’une voix égale ce qui l’a bouleversée, et Viviane croit à de l’indifférence : la maladie peut figer l’expression des émotions.",
+      "context": "un samedi, dans la cuisine avec sa sœur",
+      "topics": [
+        "Démence due à la maladie de Huntington",
+        "cognition sociale",
+        "expression des émotions"
+      ],
+      "clinical_focus": "Un visage qui ne traduit plus ses émotions",
+      "clinical_intro": "On lit les émotions des autres sur leur visage et dans leur voix, et on montre les siennes de la même façon. La maladie de Huntington peut rendre ces deux mouvements plus difficiles : un visage moins mobile, une voix plus égale, des signaux d’autrui moins bien perçus. Entre deux sœurs proches, un samedi, cela suffit à faire croire à de la froideur là où il y avait de la peur.",
+      "opening": "Le samedi, le carton deux est trié avant onze heures : trois écoles de plus, roulées et étiquetées. Viviane, la sœur cadette de Clarisse, venue de Saint-Nazaire comme chaque samedi, a lu le critère à voix haute deux fois, pas davantage. Elles s’assoient dans la cuisine avec deux tasses de thé. Clarisse raconte le mardi à l’Atelier des Quais : le feutre, le calque, le préau plié au milieu, le scan de Maud. Puis, sans changer de ton : « Sur le quai, j’ai dit à Yannick que j’avais une maladie de Huntington. »\n\nViviane repose sa tasse. Elle regarde le visage de sa sœur, qui ne bouge pas, et sa bouche, qui ne se serre pas. « Tu l’as dit à Yannick comme ça ? Ça n’a pas eu l’air de te faire grand-chose. J’aurais aimé que tu me préviennes avant. » Clarisse répond qu’elle la prévient maintenant. Le silence dure.\n\nAlors Viviane sort son téléphone, montre une photo. « Erwan part en stage à Montréal en janvier. Six mois. » Sa voix se casse sur le dernier mot ; ses yeux sont rouges. Erwan, son fils de vingt-quatre ans, étudie à Rennes ; il n’a jamais vécu plus loin. Clarisse regarde la photo, un garçon souriant devant un bâtiment de briques, et dit : « C’est bien pour lui. » Puis, après un temps : « Tu crois que l’affiche sera prête pour l’ouverture ? » Viviane met une seconde à comprendre la question. Elle se lève, rince sa tasse, et décroche son manteau une heure plus tôt que d’habitude. « Je vais rentrer avant la nuit. » Dans l’entrée, sous le calendrier, Clarisse ne trouve pas quoi ajouter.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Quand les émotions passent mal par le visage et la voix",
+          "text": "La cognition sociale désigne l’ensemble des capacités qui permettent de comprendre ce que ressent ou pense une autre personne et de lui faire comprendre ce que l’on ressent soi-même. Dans la maladie de Huntington, elle peut être touchée de deux côtés : reconnaître les émotions d’autrui sur son visage ou dans sa voix devient plus difficile, et l’expression de ses propres émotions par le visage ou l’intonation s’appauvrit. Ce visage peu mobile, parfois appelé masque facial, est souvent pris à tort pour de l’indifférence. Dans la cuisine, les deux mouvements se croisent : Viviane lit de la froideur sur le visage immobile de Clarisse, qui avait eu peur ; Clarisse ne relève pas les yeux rouges de sa sœur et revient à l’affiche. Les spécialistes recommandent d’expliquer ces difficultés aux proches, avec l’accord de la personne, pour éviter de tels malentendus."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment une cognition sociale modifiée crée-t-elle des malentendus ?",
+          "points": [
+            {
+              "heading": "Une émotion forte racontée d’une voix égale",
+              "text": "Quand le visage et l’intonation bougent peu, l’interlocuteur reçoit les faits sans le poids qu’ils ont eu.",
+              "examples": [
+                "Clarisse annonce qu’elle a parlé de sa maladie à Yannick sans changer de ton.",
+                "Sa bouche ne se serre pas au moment où elle raconte le préau plié sur le calque."
+              ]
+            },
+            {
+              "heading": "Les signaux de l’autre passent inaperçus",
+              "text": "Des yeux rouges, une voix qui se casse peuvent ne pas être perçus comme le signe d’une émotion qui appelle une réponse.",
+              "examples": [
+                "Clarisse répond « c’est bien pour lui » au départ d’Erwan, alors que sa sœur a la voix brisée.",
+                "Elle passe à la date de l’affiche quand Viviane attendait un mot sur son fils."
+              ]
+            },
+            {
+              "heading": "L’entourage conclut à l’indifférence",
+              "text": "Faute d’explication, le proche interprète ce qu’il voit comme un manque d’intérêt et s’en protège.",
+              "examples": [
+                "Viviane dit que l’annonce à Yannick « n’a pas eu l’air de faire grand-chose » à sa sœur.",
+                "Elle repart une heure plus tôt que prévu, sans dire qu’elle est blessée."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour se comprendre quand le visage parle moins",
+          "points": [
+            {
+              "heading": "Dire les émotions avec des mots",
+              "objective": "Transmettre ce que l’on ressent sans compter sur le visage pour le montrer.",
+              "exercise": [
+                "Convenir ensemble d’une phrase simple qui autorise chacun à nommer son émotion.",
+                "Ajouter un mot d’émotion aux faits importants, par exemple « j’ai eu peur ».",
+                "Accepter que l’autre réponde plus tard s’il n’a pas les mots tout de suite."
+              ],
+              "benefit": "Les mots peuvent remplacer en partie les signaux du visage et de la voix ; ils ne les rétablissent pas."
+            },
+            {
+              "heading": "Vérifier ce que l’autre a voulu montrer",
+              "objective": "Éviter de tirer une conclusion d’un visage ou d’un silence.",
+              "exercise": [
+                "Poser une question directe et courte : « Tu es triste, là ? »",
+                "Laisser le temps de répondre sans enchaîner une autre question.",
+                "Reformuler la réponse pour s’assurer qu’on l’a bien comprise."
+              ],
+              "benefit": "Une vérification simple peut éviter qu’un malentendu ne s’installe entre deux visites."
+            },
+            {
+              "heading": "Faire expliquer ces difficultés par l’équipe",
+              "objective": "Donner aux proches une explication fiable, choisie avec la personne.",
+              "exercise": [
+                "Demander à la personne si elle souhaite qu’un proche vienne à une consultation.",
+                "Préparer avec elle ce qu’elle accepte qu’on y aborde.",
+                "Laisser le neurologue expliquer les troubles de l’expression devant eux deux."
+              ],
+              "benefit": "Une explication professionnelle peut aider l’entourage à ne plus prendre un visage immobile pour de la froideur."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Une phrase au téléphone",
+      "ending": "Le dimanche à dix heures, Clarisse appelle Saint-Nazaire. Elle a écrit sur un papier ce qu’elle veut dire, pour ne pas se perdre dans la phrase. « Mardi, sur le quai avec Yannick, j’ai eu peur. Ça ne se voyait pas, je crois. Et pour Erwan, je n’ai pas compris que tu étais triste. » Au bout du fil, Viviane souffle. « Je croyais que ça t’était égal. » Elles conviennent d’une phrase, que Clarisse note en grosses lettres sous le calendrier de l’entrée : « Dis-moi avec des mots ce que tu ressens, je ferai pareil. » Viviane dit qu’elle est triste de voir partir son fils, et fière. Clarisse propose : « Viens à ma prochaine consultation, le jeudi dans quinze jours. Que la docteure Lebreton explique ça devant nous deux. » La docteure Lebreton est sa neurologue au CHU. Viviane déplace un cours de piano pour venir. Elle ajoute qu’Erwan voudrait passer avant son départ, pour aider à porter les cartons. Le visage de Clarisse reste immobile ; elle dit : « Ça me fait plaisir. »",
+      "conclusion": "Cet épisode montre que la maladie de Huntington peut toucher la cognition sociale : le visage et la voix traduisent moins les émotions, et celles des autres sont moins bien perçues. Clarisse et Viviane remplacent les regards par des mots et prévoient une explication par la neurologue.",
+      "mirror": [
+        "Viviane a lu de l’indifférence sur un visage immobile, et elle est repartie plus tôt sans dire qu’elle était blessée. Un proche peut essayer une question simple au moment même : « Je ne vois pas sur ton visage ce que ça te fait. Tu peux me le dire ? » Il peut aussi nommer sa propre émotion plutôt que d’attendre qu’elle soit devinée : « Je suis triste qu’Erwan parte. » Il n’a pas à tout expliquer lui-même ; une consultation choisie avec la personne peut le faire."
+      ],
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "pnds-huntington-2021",
+        "nice-ng97"
+      ],
+      "continuity": {
+        "choice": "Clarisse et Viviane conviennent au téléphone de la phrase « Dis-moi avec des mots ce que tu ressens, je ferai pareil » ; Clarisse invite Viviane à sa consultation du jeudi dans quinze jours avec la docteure Lebreton, et Viviane accepte.",
+        "next": "Avant cette consultation, Erwan vient aider à porter le carton deux et pose une question sur la famille."
+      },
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 5,
+      "slug": "clarisse-information-genetique-huntington-confidentialite-famille",
+      "title": "Une information génétique qui appartient à chacun",
+      "description": "Erwan demande si sa mère a la maladie : Clarisse dit ce qui la concerne et le renvoie vers Viviane, car le parcours génétique de chacun lui appartient.",
+      "context": "un vendredi, sur le pont avec son neveu",
+      "topics": [
+        "Démence due à la maladie de Huntington",
+        "information génétique",
+        "confidentialité familiale"
+      ],
+      "clinical_focus": "Une information génétique qui appartient à chacun",
+      "clinical_intro": "La maladie de Huntington est héréditaire, et cette transmission fait entrer toute une famille dans des questions difficiles. Pourtant, chaque apparenté garde son propre chemin : savoir ou ne pas savoir, consulter ou non, en parler ou se taire. Quand son neveu l’interroge sur un pont, Clarisse peut dire ce qui la concerne, elle et sa mère, mais pas ce qui appartient à sa sœur.",
+      "opening": "Le vendredi, Erwan, le fils de Viviane, vingt-quatre ans, étudiant à Rennes, arrive à quatorze heures avec la voiture de sa mère. Il part pour Montréal en janvier et a proposé de porter le carton deux, trié le samedi précédent, jusqu’à l’Atelier des Quais, où Maud, la bénévole qui scanne les documents, l’attend à seize heures. Il soulève le carton comme s’il était vide. Clarisse marche à côté de lui, les clés de l’appartement dans la poche.\n\nIls traversent le pont qui mène au parking du quai. Le vent de Loire plaque les cheveux d’Erwan sur son front. Il parle de son stage, d’un laboratoire de matériaux, de la neige. Puis, sans transition, en regardant l’eau : « Tatie, je peux te demander un truc ? Mamie Jeanne, elle avait la même maladie que toi ? » Il ne l’a pas connue ; il avait neuf ans à sa mort. « Et maman, elle l’a ? »\n\nClarisse s’arrête. Elle pose la main sur la poignée de la portière, la serre. Elle sait ce qui concerne sa mère et elle-même. Il y a trois ans, le jour de son diagnostic, elle a appelé Viviane, comme la neurologue le lui avait expliqué, pour lui dire que la maladie de leur mère était aussi la sienne, et qu’une consultation de génétique existait. Viviane avait dit merci, puis : « Je ne veux pas en parler maintenant. » Clarisse n’a jamais demandé ce que sa sœur avait décidé ensuite. Elle ne sait pas ce qu’Erwan sait, ni ce que Viviane voudrait qu’il sache. Le carton est dans le coffre. Erwan attend, les mains dans les poches, le regard sur elle.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Une maladie héréditaire, des décisions individuelles",
+          "text": "La maladie de Huntington se transmet selon un mode autosomique dominant : un parent atteint peut la transmettre à chacun de ses enfants. Mais ce que cela signifie pour une personne précise ne se devine pas de l’extérieur. En France, une personne chez qui une anomalie génétique grave est diagnostiquée doit informer les membres de sa famille potentiellement concernés, ou peut demander au médecin de le faire sans révéler son identité. Ensuite, chaque apparenté décide pour lui-même : il a le droit de savoir comme celui de ne pas savoir. Le test présymptomatique n’est proposé qu’à un adulte qui le demande, dans une consultation pluridisciplinaire, avec du temps et un consentement éclairé, et l’âge de début ne peut pas être prédit. Sur le pont, Clarisse a déjà fait ce qui lui revenait il y a trois ans en prévenant sa sœur. Ce que Viviane a choisi depuis lui appartient ; ni Clarisse ni Erwan ne peuvent le déduire."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment l’information génétique circule-t-elle dans une famille ?",
+          "points": [
+            {
+              "heading": "Chacun ne détient qu’une partie de l’histoire",
+              "text": "Dans une même famille, les personnes savent des choses différentes, à des moments différents, selon ce qu’on leur a dit et ce qu’elles ont choisi de demander.",
+              "examples": [
+                "Clarisse connaît le diagnostic de sa mère et le sien, mais pas les choix de Viviane.",
+                "Erwan avait neuf ans à la mort de Jeanne et pose aujourd’hui sa première question."
+              ]
+            },
+            {
+              "heading": "Une question posée au mauvais interlocuteur",
+              "text": "Il est fréquent qu’une question sur un parent soit adressée à quelqu’un d’autre, parce qu’il semble plus facile à aborder.",
+              "examples": [
+                "Erwan interroge sa tante sur le pont plutôt que sa mère.",
+                "Il demande « Et maman, elle l’a ? » à quelqu’un qui ne peut pas le savoir."
+              ]
+            },
+            {
+              "heading": "Le droit de ne pas parler maintenant",
+              "text": "Recevoir une information génétique familiale n’oblige pas à agir tout de suite ; certains prennent des années avant d’en parler.",
+              "examples": [
+                "Viviane a répondu il y a trois ans qu’elle ne voulait pas en parler maintenant.",
+                "Clarisse n’a jamais demandé à sa sœur ce qu’elle avait décidé ensuite."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour répondre sans parler à la place d’un autre",
+          "points": [
+            {
+              "heading": "Dire seulement ce qui nous concerne",
+              "objective": "Répondre honnêtement sans révéler ce qui appartient à un autre.",
+              "exercise": [
+                "Repérer, dans la question posée, ce qui touche à soi et ce qui touche à quelqu’un d’autre.",
+                "Répondre clairement à la part qui nous concerne.",
+                "Dire simplement que l’autre part n’est pas la sienne à donner."
+              ],
+              "benefit": "La personne qui demande reçoit une vraie réponse, et la confidentialité de chacun est respectée."
+            },
+            {
+              "heading": "Orienter vers la bonne personne",
+              "objective": "Aider celui qui s’interroge à trouver un interlocuteur légitime.",
+              "exercise": [
+                "Nommer la personne la mieux placée pour répondre, ici le parent concerné.",
+                "Mentionner qu’il existe des consultations de génétique pour les adultes qui le souhaitent.",
+                "Ne fixer ni délai ni obligation pour qu’il les contacte."
+              ],
+              "benefit": "La démarche reste un choix personnel, accompagné par des professionnels formés au conseil génétique."
+            },
+            {
+              "heading": "Prévenir sans rapporter",
+              "objective": "Ne pas laisser un proche découvrir qu’une question a été posée à son sujet.",
+              "exercise": [
+                "Dire au proche concerné qu’une question a été posée, sans en raconter le détail.",
+                "Ne pas lui demander de se justifier ni de révéler ses propres choix.",
+                "Le laisser décider s’il en parlera, et comment."
+              ],
+              "benefit": "Chacun garde la main sur son histoire, sans secret qui se retourne plus tard contre la relation."
+            }
+          ]
+        }
+      ],
+      "ending_title": "La main sur la portière",
+      "ending": "Clarisse lâche la poignée. « Oui, mamie Jeanne avait la maladie de Huntington, comme moi. Pour ta mère et pour toi, ce n’est pas à moi de répondre. Parle avec elle. Il existe aussi des consultations de génétique, si un jour tu veux en savoir plus. » Erwan hoche la tête, ouvre la portière, la referme sans monter. « D’accord. Merci de ne pas avoir fait semblant. » Ils déposent le carton deux à l’Atelier ; Maud commence le scan. Le soir, Clarisse appelle Viviane. Elle a son papier près du téléphone. « Erwan m’a demandé si maman avait la maladie, et si toi tu l’avais. J’ai dit oui pour maman et moi. Pour toi, je l’ai renvoyé vers toi. » Elle n’ajoute rien. Après un silence, Viviane répond : « Je lui parlerai moi-même. Merci. » Clarisse raccroche et écrit dans le carnet où elle prépare l’exposition : « Maman : on ne dira pas sa maladie. Pour l’instant. » Elle ne sait pas ce que Viviane dira à son fils, ni quand.",
+      "conclusion": "Cet épisode rappelle que la maladie de Huntington est héréditaire, mais que l’information génétique de chaque apparenté lui appartient. Clarisse répond pour sa mère et pour elle-même, renvoie Erwan vers Viviane et décide, pour l’instant, de ne pas évoquer la maladie de Jeanne à l’exposition.",
+      "mirror": [
+        "Sur le pont, Erwan a posé une question à la mauvaise personne, et c’était compréhensible. Un proche à qui l’on demande ce qui concerne quelqu’un d’autre peut répondre : « Ça, c’est à ta mère qu’il faut le demander. Moi, je peux te dire ce qui me concerne. » Il n’a pas à calculer un risque ni à rassurer sur ce qu’il ignore. Il peut indiquer qu’il existe des consultations de génétique, puis laisser l’autre choisir s’il veut y aller, et quand."
+      ],
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "pnds-huntington-2021",
+        "legifrance-l1131-1"
+      ],
+      "continuity": {
+        "choice": "Clarisse dit à Erwan que Jeanne avait la maladie de Huntington comme elle, le renvoie vers sa mère et vers une consultation de génétique, prévient Viviane sans détail ; Viviane parlera elle-même à son fils. Clarisse décide de ne pas évoquer la maladie de sa mère à l’exposition, pour l’instant.",
+        "next": "Le mardi, à l’Atelier des Quais, Clarisse découvre que ses documents ont été déplacés sans elle."
+      },
+      "diagnostic_stage": "known"
     }
   ]
 }

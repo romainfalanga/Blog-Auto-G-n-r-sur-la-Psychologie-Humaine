@@ -1,0 +1,92 @@
+{
+ "references": {
+  "oms-mms-6d85-3": {
+   "title": "OMS, CIM-11 MMS 2026-01, 6D85.3 Démence due au virus de l'immunodéficience humaine, lien canonique français",
+   "url": "https://icd.who.int/browse/2026-01/mms/fr#1173624218"
+  },
+  "oms-cddr-hrb": {
+   "title": "OMS, CDDR 2024, ISBN 9789240077263, pages imprimées 618–620 (exigences générales de la démence, frontière avec le delirium), 628–629 (6D85.3 Dementia due to HIV) et 634–635 (sévérité, spécificateurs 6D86) ; document original au dépôt HRB",
+   "url": "https://www.drugsandalcohol.ie/41519/1/WHO_Clinical_descriptions_and_diagnostic_requirements_ICD-11.pdf"
+  },
+  "antinori-2007": {
+   "title": "Antinori et al., Updated research nosology for HIV-associated neurocognitive disorders, Neurology 2007;69(18):1789-1799, DOI 10.1212/01.WNL.0000287431.88658.8b ; manuscrit auteur PMC4472366, sections Section 1 (critères AAN 1991), critères révisés HAD/MND/ANI et définitions du déclin fonctionnel",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4472366/"
+  },
+  "eacs-2023": {
+   "title": "European AIDS Clinical Society, EACS Guidelines version 12.0, octobre 2023, partie II p. 10 (obstacles à l’observance) et partie IV p. 113 (algorithme de diagnostic et de prise en charge des symptômes cognitifs)",
+   "url": "https://www.eacsociety.org/media/guidelines-12.0.pdf"
+  },
+  "cns-anrs-comorbidites-2024": {
+   "title": "ANRS MIE et CNS, Recommandation « Dépistage et prise en charge des comorbidités chez l’adulte vivant avec le VIH », septembre 2024, chapitre 9 « Le déclin cognitif », p. 58–62 (recommandations 102 à 109, tableaux 14 et 15)",
+   "url": "https://cns.sante.fr/sites/cns-sante/files/2024/11/VIH-Comorbidites_Recommandations_Rapport-dexperts_-20241104.pdf"
+  },
+  "cns-comorbidites-2019": {
+   "title": "CNS, Prise en charge médicale des personnes vivant avec le VIH, « Prise en charge des comorbidités au cours de l’infection par le VIH », juin 2019, section 10.4 « Prise en charge », p. 37–38",
+   "url": "https://cns.sante.fr/sites/cns-sante/files/2019/08/experts-vih_comorbidites.pdf"
+  },
+  "nice-ng97": {
+   "title": "NICE NG97, Dementia: assessment, management and support for people living with dementia and their carers, recommandations 1.1.1–1.1.4, 1.1.7, 1.1.10, 1.1.12, 1.4.1–1.4.4, 1.11.1–1.11.2",
+   "url": "https://www.nice.org.uk/guidance/ng97/chapter/Recommendations"
+  },
+  "service-public-secret-medical": {
+   "title": "Service Public, fiche F34302 « Secret médical : de quoi s’agit-il ? », vérifiée le 26 novembre 2025 : informations couvertes, échanges entre professionnels, proches, employeur",
+   "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F34302"
+  },
+  "service-public-discrimination": {
+   "title": "Service Public, fiche F34648 « Discrimination au travail », vérifiée le 20 octobre 2025 : état de santé parmi les critères prohibés, vie privée du salarié, Défenseur des droits (3928)",
+   "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F34648"
+  },
+  "service-public-medecine-travail": {
+   "title": "Service Public, fiche F13940 « Médecine du travail pour un salarié du secteur privé », vérifiée le 11 août 2025 : visite à la demande du salarié, mesures d’aménagement du poste et du temps de travail",
+   "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F13940"
+  },
+  "oms-vih-aide-memoire": {
+   "title": "OMS, aide-mémoire « HIV and AIDS », page datée du 27 juillet 2026, section transmission",
+   "url": "https://www.who.int/news-room/fact-sheets/detail/hiv-aids"
+  },
+  "service-public-15": {
+   "title": "Service Public, fiche F33954, numéros d’urgence : urgence médicale, le 15 (Samu) ; 112, vérifiée le 25 août 2026",
+   "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F33954"
+  }
+ },
+ "dossier": {
+  "name": "Démence due au virus de l'immunodéficience humaine",
+  "aliases": [
+   "6D85.3",
+   "Démence due au VIH",
+   "Démence associée au VIH",
+   "HIV-associated dementia",
+   "Dementia due to HIV"
+  ],
+  "references": [
+   "oms-cddr",
+   "oms-mms-6d85-3",
+   "oms-cddr-hrb",
+   "antinori-2007",
+   "eacs-2023",
+   "cns-anrs-comorbidites-2024",
+   "cns-comorbidites-2019",
+   "nice-ng97",
+   "service-public-secret-medical",
+   "service-public-discrimination",
+   "service-public-medecine-travail",
+   "oms-vih-aide-memoire",
+   "service-public-15"
+  ],
+  "points": [
+   "Vérification individuelle du 12 novembre 2026 : téléchargement et extraction locale du PDF original anglais des CDDR (dépôt HRB), lecture des pages imprimées 618–620, 628–629 et 634–635 ; lecture du manuscrit auteur d’Antinori 2007 sur PMC ; extraction du PDF EACS 12.0 (octobre 2023), partie II p. 10 et partie IV p. 113 ; extraction des deux documents CNS/ANRS (2024, chapitre 9, p. 58–62 ; 2019, section 10.4, p. 37–38) ; lecture en ligne des recommandations NICE NG97 citées, des fiches Service Public F34302, F34648, F13940 et F33954 et de l’aide-mémoire OMS sur le VIH. Lien MMS 2026-01 : interface dynamique non extraite ; l’intitulé français « Démence due au virus de l'immunodéficience humaine » est repris du registre canonique local. Les paraphrases françaises des textes anglais ne sont pas une traduction officielle.",
+   "CDDR p. 618 : la démence suppose une altération marquée d’au moins deux domaines cognitifs, en déclin par rapport au niveau antérieur ; la mémoire n’est pas seule en jeu (fonctions exécutives, attention, langage, cognition sociale et jugement, vitesse psychomotrice, capacités visuoperceptives ou visuospatiales). L’évaluation s’appuie sur les informations de la personne, d’un informant ou de l’observation clinique, et sur des tests neuropsychologiques normés ou, à défaut, une autre évaluation clinique quantifiée. p. 619 : la démence se distingue du vieillissement normal par l’ampleur des difficultés et leur retentissement sur les tâches de la vie quotidienne ; l’évolution varie selon la cause.",
+   "CDDR p. 628–629, 6D85.3 : toutes les exigences de la démence sont remplies et la démence est présumée attribuable à la maladie à VIH sous-jacente (tests neuropsychologiques, imagerie, examens médicaux, histoire clinique). Caractéristiques additionnelles : elle peut survenir au cours d’une infection à VIH confirmée, en l’absence d’une autre affection pouvant expliquer le tableau ; plusieurs profils sont possibles, mais les déficits suivent typiquement un profil sous-cortical : fonctions exécutives, vitesse de traitement, attention et apprentissage d’informations nouvelles. L’évolution varie : déclin progressif, amélioration ou disparition des symptômes, ou fluctuations dans le temps ; un déclin rapide est rare depuis l’arrivée des antirétroviraux. Un diagnostic du groupe « maladie à VIH » du chapitre 1 est aussi attribué. Ces éléments ne sont jamais présentés comme une liste permettant de conclure sur soi ou un proche ; le diagnostic de Mona est établi par l’équipe qui la suit.",
+   "CDDR p. 634 (catégories voisines) et p. 634–635, sévérité : dans les formes légères, le fonctionnement peut n’être maintenu qu’au prix d’un effort supplémentaire important, par exemple des stratégies de compensation ; une démence légère permet souvent de vivre de façon autonome avec un soutien, de participer à des activités sociales sans aide et peut passer inaperçue auprès de ceux qui connaissent peu la personne ; prendre des décisions complexes, planifier ou gérer l’argent (rendre la monnaie, payer des factures) peut devenir difficile. La sévérité est cotée par l’équipe d’après l’examen et un informant ; le récit ne fixe aucun stade au-delà de « légère selon l’équipe » au début.",
+   "Antinori 2007 (critères de recherche dits de Frascati) : la démence associée au VIH (HAD) correspond à une altération acquise marquée d’au moins deux domaines, surtout l’apprentissage d’informations nouvelles, le ralentissement du traitement de l’information et l’attention, avec un retentissement marqué sur la vie quotidienne, hors delirium et sans autre cause préexistante ; les définitions du déclin fonctionnel citent une efficacité moindre au travail, plus d’erreurs, plus d’effort pour les mêmes activités et une aide accrue pour les médicaments, l’argent ou l’emploi du temps ; le groupe observe des fluctuations dans les deux sens chez une partie des personnes et prévoit une catégorie « en rémission ». Limites : critères de recherche et non clinique courante, élaborés surtout avec des tests normés occidentaux ; la terminologie diffère de celle de la CIM-11.",
+   "CNS/ANRS 2024, chapitre 9, p. 58–60 : la classification HAND distingue déficit asymptomatique, trouble léger et démence associée au VIH ; les formes les plus sévères ont fortement diminué chez les personnes traitées avec contrôle virologique. Il est essentiel de rechercher systématiquement les facteurs contributifs (âge, troubles psychiatriques, antécédents cérébraux, co-infection VHC, diabète, hypertension, syndrome d’apnées du sommeil, pathologie cérébrovasculaire…) ; devant un trouble avéré, l’enquête étiologique est systématique (recommandation 106) et le VIH peut n’être qu’un facteur parmi d’autres. Le dépistage associe une échelle courte et l’évaluation de symptômes dépressifs, puis une orientation vers une consultation spécialisée de neurologie ou de neuropsychologie (recommandations 103 à 105). EACS 12.0, partie IV p. 113 : examiner dépression et anxiété, puis bilan neuropsychologique, examen neurologique, IRM et parfois ponction lombaire pour écarter d’autres causes. Le récit montre une équipe qui vérifie d’autres causes contributives au suivi, sans conclure à la place des soignants.",
+   "CNS/ANRS 2024, recommandation 107, p. 61 : trois objectifs de prise en charge : charge virale indétectable grâce au traitement antirétroviral, correction des facteurs de risque (dont dépression et apnées du sommeil), et objectif non spécifique de maintien de bonnes conditions de vie, avec réduction des risques de chute, d’accidents et d’erreurs de prise médicamenteuse, interactions sociales et aides, notamment associatives ; « la compréhension des enjeux par l’entourage du patient, avec l’accord du patient, est un atout important ». CNS 2019, p. 37–38 : les troubles neurocognitifs peuvent entraîner une moins bonne observance ; l’accompagnement de l’observance et la réhabilitation cognitive avec des neuropsychologues peuvent être proposés ; aucune molécule spécifique ne peut être proposée. EACS 12.0, partie II p. 10 : parmi les obstacles à l’observance, examiner les problèmes cognitifs et parler du soutien social et de la révélation du statut. Le récit ne nomme aucun médicament, aucune dose, aucun changement de traitement : en cas de doute sur une prise, Mona appelle l’équipe ou la pharmacie.",
+   "NICE NG97 : 1.1.1 encourager la personne à donner son avis sur ses soins ; 1.1.2 adapter les modes de communication (aides visuelles, texte simplifié) ; 1.1.7 demander son accord pour le partage d’informations, avec qui et quoi partager ; 1.1.10 savoir à qui s’adresser si les besoins changent ; 1.1.12 occasions précoces et répétées de planifier l’avenir (directives anticipées, souhaits) ; 1.4.1 activités adaptées aux préférences ; 1.4.4 réadaptation cognitive ou ergothérapie pour soutenir les capacités fonctionnelles dans les démences légères à modérées ; 1.11.1–1.11.2 soutien des aidants adapté à leurs besoins. Limite : recommandation anglaise générale sur les démences, non spécifique au VIH ; elle sert pour l’accompagnement et non pour un traitement.",
+   "Service Public F34302 : le secret médical couvre toutes les informations que le professionnel de santé a sur la personne, dont diagnostic et traitement ; les professionnels qui la soignent échangent les informations nécessaires ; en cas de diagnostic grave, proches ou personne de confiance peuvent être informés, mais la personne peut s’y opposer ; le médecin du travail ne doit pas communiquer à un employeur les informations recueillies pendant une visite. F34648 : l’état de santé est un critère de discrimination prohibé ; l’employeur respecte la vie privée et ne recueille que les informations nécessaires à la gestion du personnel ; le Défenseur des droits peut être saisi gratuitement (3928). F13940 : le salarié peut contacter lui-même la médecine du travail sans l’accord de l’employeur ; le médecin du travail peut proposer des mesures individuelles d’aménagement du poste et du temps de travail. Limites : droit français du travail salarié ; le récit situe Mona comme gérante salariée d’une association coopérative et ne détaille aucune procédure contentieuse.",
+   "OMS, aide-mémoire VIH : on ne peut pas être infecté par des contacts ordinaires du quotidien comme s’embrasser, se serrer dans les bras, se serrer la main, partager des objets personnels, de la nourriture ou de l’eau ; les personnes sous traitement avec une charge virale indétectable ne transmettent pas le VIH à leurs partenaires sexuels. Cet élément sert seulement à écarter une crainte infondée liée au rayon vrac ; Mona n’a aucune obligation de révéler son statut à la coopérative et le récit ne fait pas de la révélation une condition de sa place.",
+   "CDDR p. 620, frontière avec le delirium : une personne atteinte de démence a un risque accru de delirium ; une altération aiguë de l’attention, de l’orientation et de la conscience demande un diagnostic supplémentaire et la recherche de sa cause. Service Public F33954 : urgence médicale, le 15 (Samu), ou le 112. Dans la scène de confusion soudaine avec fièvre, l’origine n’est pas présumée à partir du diagnostic connu : Perrine appelle le 15 sans attendre et suit les consignes ; ce sont les soignants qui recherchent la cause, que le récit ne détaille pas.",
+   "Limites et interprétations à écarter : les données sur les troubles cognitifs associés au VIH reposent largement sur des cohortes de pays à revenu élevé et sur des tests normés dans ces pays ; les critères de Frascati sont discutés (EACS cite une proposition de nouveaux critères, Nightingale 2021, non lue ici). Aucun pronostic individuel, aucune promesse d’amélioration, aucun lien de cause entre un geste du quotidien et l’évolution. Ne pas présenter le VIH comme un danger pour les clients ou l’équipe, ne pas faire de la révélation du statut une preuve de sincérité, ne pas faire de Rozenn une soignante, ne pas confondre lenteur et manque d’intelligence ou de volonté."
+  ]
+ },
+ "direction": "Mona, 60 ans, est depuis douze ans la gérante salariée du Panier de Chantenay, une épicerie coopérative associative de Nantes qui compte environ quatre cents coopérateurs bénévoles. Elle vit avec le VIH depuis plus de vingt ans, suivie au service des maladies infectieuses du CHU par le docteur Paul Achard ; sa démence due au virus de l'immunodéficience humaine a été diagnostiquée huit mois avant la série après un bilan avec Mme Solène Guéret, neuropsychologue, et l’équipe la considère comme légère. Elle a choisi de réduire son implication : Kilian Tanguy, trente et un ans, nouveau coordinateur salarié, reprend la gestion, et le conseil collégial est présidé par Hélène Carré. Son projet : laisser un mode de rangement, le classeur vert et les étiquettes de couleur rangées zone par zone, qui permette à l’équipe de fonctionner sans elle et à elle de rester membre. Rozenn, sa compagne depuis vingt ans, libraire, connaît le diagnostic et a sa propre vie. Perrine Quéméner, coopératrice depuis l’ouverture et ancienne magasinière, est la seule membre que Mona choisit d’informer, à l’épisode 10. La docteure Lemaître est médecin du travail du service interentreprises. Voix : directe, chaleureuse, ironique, faite de mots de magasin (rotation, premier entré premier sorti, la réserve respire) ; elle préfère montrer que parler d’elle et tient à ce que personne ne décide à sa place. Faits cliniques mis en scène : ralentissement du traitement de l’information, fonctions exécutives et planification, attention et reprise après interruption, apprentissage d’informations nouvelles, fonctionnement maintenu au prix d’efforts, confidentialité et besoins concrets, aménagement par la médecine du travail, recherche des facteurs contributifs, observance soutenue, stigmatisation du VIH, confusion aiguë évaluée en urgence, évolution variable et planification. À écarter : révéler le statut sans son accord, présenter le VIH comme un risque pour la clientèle, nommer un médicament ou une dose, suggérer une modification de traitement, donner un pronostic, expliquer la confusion aiguë par le diagnostic, faire de la lenteur un manque d’intelligence. Trajectoire : elle teste la transmission (1 à 4), accepte un accord trop ambitieux (5), revient dessus sans dévoiler son diagnostic (6 et 7), suit les questions de santé séparément des décisions du magasin (8, 9, 11), choisit une confidente (10) puis organise une présence choisie au magasin (12)."
+}

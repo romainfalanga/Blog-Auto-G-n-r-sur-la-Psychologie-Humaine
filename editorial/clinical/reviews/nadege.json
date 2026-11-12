@@ -1,0 +1,145 @@
+{
+  "schema_version": 1,
+  "character_id": "nadege",
+  "reviewer": "review_nadege",
+  "reviewed_on": "2026-11-12",
+  "status": "revision_requested",
+  "summary": "Lecture indépendante complète de la charte, du modèle, du dossier, du design, du brief et des douze épisodes. Les douze aspects sont distincts (planification, mémoire non au premier plan, lenteur, attention partagée, sévérité légère, décision soutenue, mise en situation ergothérapique, manque d’élan, signes neurologiques brutaux, facteurs de risque, évolution variable, transmission adaptée) et chacun devient visible dans sa scène. Calendrier vérifié : 4 et 19 janvier, 10, 17 et 24 février, 6, 10, 11, 15 et 29 mars, 8, 14 et 24 avril, 21 juin 2027 tombent aux jours annoncés ; le 21 avril n’apparaît pas dans le texte. Aucun AVC avant l’épisode 9 ; aucun nom de médicament, chiffre de tension, régime, score ou détail juridique ; la personne de confiance reste une proposition. Josette appelle le 15 sans test de remplacement ; les incises des épisodes 2, 8 et 9 et la présentation d’Odile à l’épisode 6 restent lisibles. Le patronyme Benali, aussi employé dans d’autres séries du catalogue (dont Loubna), ne gêne pas la lecture de celle-ci mais peut être harmonisé par le pilote au niveau du catalogue. Quatre corrections ponctuelles sont demandées : une nuance sur les « tests » des proches à l’épisode 9, le raccord de l’entretien d’humeur entre épisodes 10 et 11, et deux raccords de l’atelier final. Cette relecture éditoriale ne constitue ni expertise clinique individuelle ni preuve de publication.",
+  "files": {
+    "editorial/clinical/designs/nadege.json": "257fec98799ee8e236e244dcc68d5f8f49b6be8a297d2e88e3aba2308b105608",
+    "editorial/clinical/dossiers/nadege.json": "c8053e8b6bac33056a1c3257426c6c4710450fda88de8738db057a15ae733fa9",
+    "editorial/clinical/nadege.json": "d48f271273f5e8b5d51110bd23011294404fac3a75c147d260b382604451e700"
+  },
+  "findings": [
+    {
+      "episode": 9,
+      "issue": "La technique « Appeler le 15 sans attendre » conclut que « faire ses propres tests fait perdre du temps », et le miroir dit qu’« un proche n’a ni à faire ses propres tests ». Or les signes que Josette décrit (visage, bras, parole) sont précisément ceux que les messages de santé publique invitent le public à repérer ; c’est le fait de retarder l’appel ou de remplacer l’évaluation médicale qui est à écarter, pas l’observation. Cette généralisation n’est pas portée par les sources du dossier (SPF, NICE NG128 1.1.1–1.1.2, F33954).",
+      "requested_change": "Reformuler le bénéfice de la technique 1 et la phrase du miroir pour écarter le délai et le test de remplacement, par exemple : « attendre que cela passe ou retarder l’appel pour faire des vérifications fait perdre du temps ; décrire ce que l’on voit suffit ». Garder la scène où Josette ne fait pas lever les bras et appelle aussitôt."
+    },
+    {
+      "episode": 11,
+      "issue": "Raccord sur l’entretien d’humeur et de fatigue. L’épisode 8 le fait proposer par la docteure Leclerc et l’épisode 10 l’annonce « déplacé au lundi 29, avec la docteure Leclerc ». L’épisode 11 le fait mener le matin par une infirmière de l’équipe. Puis la fin évoque une réévaluation « avec l’entretien de ce matin », formule ambiguë pour un lecteur qui se demande ce que devient la question de l’élan soulevée à l’épisode 8.",
+      "requested_change": "Harmoniser : soit indiquer à l’épisode 10 que l’entretien du 29 mars sera mené par une infirmière de l’équipe avant la consultation avec la docteure Leclerc, soit le faire mener par la docteure à l’épisode 11. Préciser en une phrase, sans résultat inventé, que l’équipe reprendra les conclusions de cet entretien avec Nadège (par exemple lors de la réévaluation du 21 juin) et qui elle appelle si l’élan ou l’humeur se dégrade d’ici là."
+    },
+    {
+      "episode": 12,
+      "issue": "« Karima […] est au four, comme convenu depuis janvier » : en janvier (épisode 7), Nadège décide seule de confier le four et la panade chaude à Karima ; l’accord avec Karima n’est pris qu’après le 29 mars, quand Nadège annonce qu’elle téléphonera elle-même à Josette et à Karima (épisode 11).",
+      "requested_change": "Remplacer par une formule exacte, par exemple « comme Nadège l’avait décidé en janvier et le lui a demandé au téléphone fin mars »."
+    },
+    {
+      "episode": 12,
+      "issue": "À l’épisode 4, Nadège inscrit dans le cahier bleu « Répétitions : plus fatigantes que prévu. Pas plus d’une heure. » L’atelier final dure de quatorze à seize heures « comme prévu » sans que le texte reprenne cette limite, alors que la technique « Prévoir une fin de séance » recommande une durée plus courte qu’on ne l’imagine. Le lecteur suivant la série peut y voir une contradiction ou une limite oubliée.",
+      "requested_change": "Reprendre la limite en une phrase concrète, par exemple : Nadège démontre pendant la première heure puis s’assoit pendant que Karima conduit les choux, ou une pause est prévue au milieu ; ou bien préciser que la règle concernait les répétitions et qu’elle a choisi cette durée avec une pause."
+    }
+  ],
+  "episode_checks": [
+    {
+      "number": 1,
+      "focus": "Planifier une recette quand les étapes se chevauchent",
+      "opening_quote": "Le cahier bleu est ouvert à la page du Paris-Brest, celle où une tache de beurre a rendu transparent le mot « praliné ».",
+      "ending_quote": "En dessous, un seul nom pour l’instant : Paris-Brest.",
+      "continuity_note": "Mercredi de novembre, cuisine de la rue du Portail-Louis : la fiche « 1. Choux au four… 3. Crème : mercredi prochain, seule » est bien reprise à l’épisode 3 (crème faite seule le matin) et la liste « Recettes à transmettre » ouvre le fil des six recettes. Bastien, le cahier bleu et le minuteur rouge sont présentés à un lecteur arrivant directement.",
+      "clinical_note": "La facette exécutive est visible dans la scène (gestes intacts, ordre qui ne vient pas devant trois horloges) et conforme au CDDR p. 624 (fonctions sous-corticales). Le diagnostic connu est attribué à l’équipe (examen, imagerie, histoire) ; la variabilité selon les jours évite d’imputer toute difficulté à la démence. Les techniques sont présentées comme aménagements, pas traitement.",
+      "relatives_note": "Ancré sur le fouet posé trop fort : Bastien propose un rôle précis au lieu de prendre la crème. Pas de test des capacités ; relais vers l’équipe seulement si inquiétude durable et avec l’accord de Nadège."
+    },
+    {
+      "number": 2,
+      "focus": "Démence vasculaire : la mémoire n’est pas tout",
+      "opening_quote": "Le dimanche, à onze heures, le téléphone sonne toujours.",
+      "ending_quote": "Bastien, son filleul, doit venir les filmer mercredi.",
+      "continuity_note": "Dimanche onze heures, appel d’Odile depuis Nantes, après l’épisode 1 (fiche du Paris-Brest racontée). L’incise finale sur Bastien est utile à un lecteur direct et prépare le mercredi suivant. La phrase écrite dans le cahier bleu est un objet réutilisable.",
+      "clinical_note": "Distinction juste entre exigences générales de démence (CDDR p. 618 : mémoire touchée dans la plupart des formes, pas toujours au premier plan) et attribution vasculaire par l’équipe (p. 623). Le prix de 1987 n’est ni preuve ni contre-preuve ; la conversation rapide fait aussi apparaître la lenteur sans l’étiqueter.",
+      "relatives_note": "Odile peut dire qu’elle ne comprend pas et demander à entendre la version de Nadège ; l’accompagnement au rendez-vous est soumis à l’accord de Nadège, conforme à NG97 1.1.12–1.1.13."
+    },
+    {
+      "number": 3,
+      "focus": "Lenteur de traitement face aux questions rapides",
+      "opening_quote": "Ce mercredi, la crème au praliné refroidit déjà au réfrigérateur : Nadège l’a faite ce matin, seule, comme le disait la fiche du Paris-Brest.",
+      "ending_quote": "À la fin, elle est fatiguée et laisse les cœurs cuire sans rien expliquer de plus. La première vidéo existe.",
+      "continuity_note": "Le mercredi suivant, la crème au praliné faite seule le matin respecte la fiche ; les sablés de Lucienne ajoutés à l’épisode 2 sont filmés. Le signal de la spatule et le post-it au trépied seront repris à l’épisode 12.",
+      "clinical_note": "Lenteur de traitement typique des atteintes microvasculaires (CDDR p. 624) rendue visible par trois questions empilées et l’image d’hésitation. Les facteurs concurrents (lampe, stress, fatigue, audition) sont nommés, ce qui écarte l’imputation totale à la démence.",
+      "relatives_note": "Bastien peut poser une question puis se taire ; il ne mesure pas les temps de réponse et ne décide pas seul du montage. Geste simple et reproductible."
+    },
+    {
+      "number": 4,
+      "focus": "Partager son attention entre parler et faire",
+      "opening_quote": "Un jeudi de début décembre, la grande salle de la maison de quartier des Ponts sent encore le café du matin.",
+      "ending_quote": "Puis elle ajoute un troisième nom : pâte à choux.",
+      "continuity_note": "Jeudi de début décembre (3 décembre 2026, cohérent), répétition aux Ponts avec quatre habitants dont le retraité de la belote, retrouvé à l’atelier final. Karima est présentée dans la scène. La règle « Pas plus d’une heure » pour les répétitions est inscrite dans le cahier bleu (voir la remarque sur l’épisode 12).",
+      "clinical_note": "Attention partagée distincte de la lenteur de l’épisode 3 : la panade et la phrase se défont sous une double sollicitation (question, sonnerie). Le texte précise que la séance n’est pas un examen ; aucune affirmation hors CDDR p. 624.",
+      "relatives_note": "Karima note la question et éteint le four sans commentaire : réponse concrète d’une animatrice qui ne joue pas la soignante et demande après coup ce qui a gêné."
+    },
+    {
+      "number": 5,
+      "focus": "Une démence légère invisible pour qui la connaît peu",
+      "opening_quote": "Mercredi dernier, Bastien, son filleul, a tourné la deuxième vidéo, le Paris-Brest, en deux séances comme le disait la fiche.",
+      "ending_quote": "Puis elle prend sa feuille de questions pour la consultation mémoire de janvier et ajoute, en bas : « Mes factures à moi : comment m’organiser sans tout donner ? »",
+      "continuity_note": "Lundi de mi-décembre ; la deuxième vidéo (Paris-Brest) tournée le mercredi précédent fait avancer les trois vidéos annoncées. La question des factures personnelles est portée à la consultation de janvier, effectivement reprise le 4 janvier à l’épisode 6.",
+      "clinical_note": "Sévérité légère conforme au CDDR p. 634 (paraître non atteinte pour qui connaît peu, difficultés avec décisions complexes et finances), attribuée à l’équipe ; la scène ne sert pas à déduire le stade. Les calculs raturés sont concrets et sans score inventé.",
+      "relatives_note": "Karima peut proposer un partage quantités/prix à tous les bénévoles et ne pas demander pourquoi ; le proche ne surveille pas les comptes sans demande. Respect du droit de ne pas révéler le diagnostic."
+    },
+    {
+      "number": 6,
+      "focus": "Décider avec soutien quand les proches tranchent",
+      "opening_quote": "Avant Noël, Nadège avait complété la liste au dos du cahier bleu : les sablés de Lucienne, la pâte à choux, le Paris-Brest, la tarte Tatin, la crème pâtissière et le quatre-quarts.",
+      "ending_quote": "Le soir, au téléphone, elle dira à Odile la même chose, sans élever la voix, et Odile répondra seulement : « On verra ce que dit ton ergothérapeute. »",
+      "continuity_note": "Lundi 4 janvier 2027 et mardi 19 janvier vérifiés au calendrier ; la liste complétée avant Noël réunit les six recettes. Odile est nommée dans la réplique de Bastien et expliquée dès la phrase suivante, ce qui reste lisible. La décision de soumettre la Tatin à Inès Morel le 19 prépare exactement l’épisode 7.",
+      "clinical_note": "Décision soutenue conforme à HAS fiche 7 et NG97 1.1 : risque réel reconnu par Nadège elle-même (casserole oubliée), mais la méthode des proches est contestée. Aucune mesure juridique ni décision imposée.",
+      "relatives_note": "Bastien peut dire sa peur sans apporter la solution imprimée et reconnaître son erreur ; il garde son inquiétude et peut la transmettre à l’ergothérapeute si Nadège l’accepte."
+    },
+    {
+      "number": 7,
+      "focus": "Ajuster les risques en cuisine avec l’ergothérapeute",
+      "opening_quote": "Le mardi 19 janvier, à neuf heures et demie, Inès Morel, l’ergothérapeute que la consultation mémoire a proposée à Nadège, sonne rue du Portail-Louis.",
+      "ending_quote": "» Le soir, Bastien dit oui.",
+      "continuity_note": "Mardi 19 janvier à domicile ; les reinettes du marché du samedi, le minuteur non réglé et la casserole de l’automne raccordent avec l’épisode 6. Les décisions (moule à hauteur de main, caramel versé par Bastien, Tatin filmée chez elle, gestes chauds de l’atelier à Karima, deux fiches plastifiées, alarme refusée) sont toutes reprises ensuite.",
+      "clinical_note": "Mise en situation ergothérapique conforme à HAS fiche 12 et NG97 1.4.4 ; le risque est situé dans un enchaînement, et l’efficacité des aménagements n’est pas revendiquée (AHA §10.4). Le refus de l’alarme reste respecté.",
+      "relatives_note": "Le geste « le caramel » sans prendre la casserole et le rôle limité accepté par Bastien sont concrets ; Bastien peut se retirer et la vidéo attend."
+    },
+    {
+      "number": 8,
+      "focus": "Moins d’élan : apathie, tristesse ou fatigue à évaluer",
+      "opening_quote": "Le mercredi 10 février, le cahier bleu est fermé sur le buffet de la salle à manger, sous la corbeille à fruits.",
+      "ending_quote": "Bastien, lui, dit qu’il viendra le 24 février, pas le 17.",
+      "continuity_note": "Mercredi 10 février vérifié ; fiche plastifiée de la deuxième visite, carte d’Odile et maquette de Bastien donnent un cadre concret. Bastien saute le 17 et vient le 24, repris à l’épisode 9. L’entretien du 15 mars est ensuite déplacé (voir remarque épisodes 10–11).",
+      "clinical_note": "Manque d’élan décrit sans étiquette (CDDR p. 635–636, HAS fiche 2, AHA §8.3) ; fatigue, sommeil, douleur et dépression soignable sont cités comme pistes que seule l’équipe distingue. La consigne de signaler toute aggravation au médecin traitant d’ici l’entretien fournit un relais.",
+      "relatives_note": "La question « Tu ne veux plus, ou tu n’arrives pas à commencer ? » et la pesée sans caméra sont concrètes ; Bastien n’a pas à trancher entre tristesse et apathie et protège son travail."
+    },
+    {
+      "number": 9,
+      "focus": "Signes neurologiques brutaux : appeler le 15 aussitôt",
+      "opening_quote": "Le samedi 6 mars, le marché de la place Saint-Pierre est plein malgré le vent.",
+      "ending_quote": "Bastien quitte son atelier et part pour l’hôpital. Le sac de reinettes reste chez Josette.",
+      "continuity_note": "Samedi 6 mars place Saint-Pierre, vidéo prévue le mercredi 10 depuis la visite du 24 février : raccord exact. Josette est présentée (voisine de palier, ancienne vendeuse) et l’origine de ce qu’elle sait est datée. Le téléphone tendu de la main gauche montre l’accord de Nadège pour prévenir Bastien.",
+      "clinical_note": "Premier événement vasculaire aigu de la série, sans AVC antérieur inventé. Appel immédiat du 15, heure de début, diagnostic connu transmis comme information et non comme explication : conforme à SPF, Service Public F33954 et à la quatrième vague de la charte. Une formulation sur les « tests » des proches mérite une nuance (remarque).",
+      "relatives_note": "Trois gestes concrets (heure, 15, rester assise) et une phrase à dire au régulateur ; le proche ne conclut pas et prévient la personne choisie. Voir la remarque sur la formulation des tests."
+    },
+    {
+      "number": 10,
+      "focus": "Suivre ses facteurs de risque vasculaire sans tout céder",
+      "opening_quote": "Le jeudi 11 mars, Bastien, son filleul, la dépose devant le cabinet du docteur Benali, son médecin traitant depuis vingt ans, avenue du Général-de-Gaulle.",
+      "ending_quote": "Appelle-moi dimanche, on parlera d’autre chose. »",
+      "continuity_note": "Jeudi 11 mars, retour à domicile le lundi 8 et consultation « dans la semaine » : cohérent. Bastien attend au café, Odile écrit depuis Nantes ; le rendez-vous du 8 avril et le déplacement de l’entretien au 29 mars préparent l’épisode 11.",
+      "clinical_note": "AIT diagnostiqué par l’hôpital ; traitement « revu » sans nom ni posologie ; automesure sans chiffre ; pas de régime imposé. Traitement de l’hypertension présenté comme recommandé sans promesse de stabilité (AHA §8.4.6), consigne d’appeler le 15 si les signes reviennent même brièvement.",
+      "relatives_note": "Odile peut dire sa peur en un message sans dicter ; Bastien attend sans questionner. Personne ne surveille alimentation ou tension à la place du médecin. Le patronyme Benali, partagé avec d’autres séries, ne gêne pas la lecture de celle-ci."
+    },
+    {
+      "number": 11,
+      "focus": "Une évolution qui ne suit pas un modèle unique",
+      "opening_quote": "Le lundi 29 mars, la salle d’attente de la consultation mémoire du centre hospitalier sent le produit pour les sols.",
+      "ending_quote": "Nadège téléphonera elle-même à toutes les deux.",
+      "continuity_note": "Lundi 29 mars ; crème pâtissière refaite le mercredi 24 mars et lettre de retraite le jeudi : jours inégaux datés. Le 14 avril (Tatin), le 24 avril (atelier) et le 21 juin (réévaluation) sont cohérents au calendrier. L’entretien sur l’humeur est mené par une infirmière, alors que l’épisode 10 l’annonçait avec la docteure Leclerc (remarque).",
+      "clinical_note": "Évolution variable conforme au CDDR p. 619 et AHA §7.6 (paliers peu fréquents) ; la neurologue refuse une certitude sans refuser de répondre. Personne de confiance proposée sans détail juridique, conforme à HAS fiche 7.",
+      "relatives_note": "Bastien n’a pas à rassurer par une promesse ; sa limite d’un mercredi sur deux devient un relais avec Josette et Karima convenu avec l’accord de Nadège, conforme à HAS fiche 15 et NG97 1.11."
+    },
+    {
+      "number": 12,
+      "focus": "Transmettre ses recettes sous des formes choisies",
+      "opening_quote": "Le samedi 24 avril, à quatorze heures, la grande salle de la maison de quartier des Ponts a été rangée autrement.",
+      "ending_quote": "Elle range le cahier bleu sur le buffet, ouvert, et éteint la lumière de la cuisine.",
+      "continuity_note": "Samedi 24 avril aux Ponts : U dos au four, tableau blanc, minuteur rouge réglé, carnet de six recettes avec les trois vidéos, Tatin tournée le 14 avec Bastien au caramel. La décision finale du design est tenue et la suite reste ouverte (quatre-quarts au crayon). Deux raccords à préciser : « comme convenu depuis janvier » et la durée de deux heures face à la règle d’une heure (remarques).",
+      "clinical_note": "La réussite n’est présentée ni comme guérison ni comme stabilisation ; les aménagements restent révisables et non thérapeutiques (NG97 1.4.1, HAS fiche 12). La fatigue de fin de séance est montrée sans en tirer de conclusion.",
+      "relatives_note": "Josette porte et reste là ; l’aide proposée (« je peux porter le caddie, pas plus ») est précise et limitée ; Bastien peut différer le quatre-quarts. Décision laissée à Nadège."
+    }
+  ]
+}
