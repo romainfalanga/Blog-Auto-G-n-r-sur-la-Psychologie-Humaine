@@ -113,6 +113,216 @@
       },
       "clinical_focus": "Planifier une recette quand les étapes se chevauchent",
       "diagnostic_stage": "known"
+    },
+    {
+      "number": 2,
+      "slug": "nadege-demence-vasculaire-memoire-pas-tout",
+      "title": "Démence vasculaire : la mémoire n’est pas tout",
+      "description": "Odile conclut que sa sœur n’a rien puisqu’elle se souvient de tout ; Nadège cherche comment dire que sa démence touche surtout l’organisation.",
+      "context": "au téléphone un dimanche de novembre",
+      "topics": [
+        "Démence due à une maladie cérébrovasculaire",
+        "mémoire préservée",
+        "expliquer son diagnostic"
+      ],
+      "clinical_intro": "On associe souvent la démence à la perte de mémoire. Dans une démence due à une maladie cérébrovasculaire, d’autres capacités peuvent être touchées en premier plan, comme l’attention, la rapidité ou l’organisation, alors que les souvenirs restent nets. Nadège en fait l’expérience un dimanche, quand sa sœur aînée lui oppose sa mémoire intacte comme une preuve qu’elle n’a rien.",
+      "opening": "Le dimanche, à onze heures, le téléphone sonne toujours. Odile, la sœur aînée de Nadège, soixante-douze ans, appelle de Nantes après la messe, avant de mettre son rôti au four. Nadège s’est assise dans le fauteuil près de la fenêtre, d’où elle voit le toit de l’église de la rue du Portail-Louis. Sur ses genoux, le cahier bleu, ouvert à la liste qu’elle a commencée mercredi.\n\nElle raconte la fiche du Paris-Brest, les trois lignes en capitales, la crème remise à mercredi prochain. Elle pense que cela fera sourire Odile. Odile ne sourit pas, on l’entend à sa voix. « Tu te rappelles le prix d’un Paris-Brest chez Delaunay en 1987 ? — Onze francs cinquante. Douze à partir de Pâques. — Tu vois bien. Une démence, c’est quand on oublie. Toi, tu te souviens de tout. C’est de la fatigue, ma grande, tu en fais trop. »\n\nNadège ouvre la bouche. Elle voudrait expliquer ce que la docteure Leclerc, la neurologue de la consultation mémoire du centre hospitalier, lui a dit l’an dernier, avec les images de l’IRM sur l’écran. Elle se souvient très bien du bureau, de la plante en plastique, de la blouse. Ce qu’elle ne retrouve pas, ce sont les mots dans le bon ordre pour que cela tienne au téléphone, pendant qu’Odile parle déjà du rôti, puis de son voisin, puis revient au diagnostic. La conversation file plus vite qu’elle. Elle se surprend à répondre « oui, oui » à des phrases qu’elle n’a pas suivies jusqu’au bout.\n\n« Tu devrais demander un autre avis », dit Odile. Nadège serre le cahier contre elle. Elle n’a pas envie de se défendre, encore moins de se justifier d’être malade.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Une démence ne se résume pas à l’oubli",
+          "text": "Une démence correspond à un déclin marqué de plusieurs capacités de pensée par rapport au fonctionnement antérieur, avec un retentissement sur la vie quotidienne ; la mémoire est touchée dans la plupart des formes, mais pas toujours au premier plan. Dans la démence due à une maladie cérébrovasculaire, l’équipe médicale attribue ce déclin à une atteinte des vaisseaux du cerveau, démontrée par l’imagerie, les examens et l’histoire clinique. Pour Nadège, la docteure Leclerc a parlé d’atteintes des petits vaisseaux visibles à l’IRM, chez une femme dont la tension est suivie depuis longtemps. Ce sont des conclusions de l’équipe, établies par une évaluation, pas une impression qu’Odile ou Nadège pourraient vérifier au téléphone. Se souvenir d’un prix de 1987 ne contredit donc pas le diagnostic ; cela montre seulement que sa mémoire ancienne reste une ressource."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment une mémoire préservée peut-elle brouiller la compréhension du diagnostic ?",
+          "points": [
+            {
+              "heading": "L’idée que démence veut dire oubli",
+              "text": "Beaucoup de proches cherchent d’abord des trous de mémoire et concluent à l’absence de maladie quand ils n’en voient pas.",
+              "examples": [
+                "Odile utilise le prix du Paris-Brest en 1987 comme une preuve que sa sœur n’a rien.",
+                "Elle propose une explication plus familière, la fatigue, plutôt que d’entendre ce qui a changé dans l’organisation."
+              ]
+            },
+            {
+              "heading": "Un diagnostic difficile à expliquer avec ses propres mots",
+              "text": "Les termes médicaux entendus en consultation ne se transforment pas facilement en phrases simples, surtout dans une conversation rapide.",
+              "examples": [
+                "Nadège se rappelle le bureau de la docteure Leclerc mais ne retrouve pas comment résumer ce qui lui a été expliqué.",
+                "Elle répond « oui, oui » à des phrases d’Odile qu’elle n’a pas suivies jusqu’au bout."
+              ]
+            },
+            {
+              "heading": "Le besoin de choisir ce qu’on partage",
+              "text": "La personne garde le droit de décider à qui elle donne des détails médicaux et à quel moment.",
+              "examples": [
+                "Nadège n’a pas envie de se justifier ni de réciter son compte rendu à sa sœur.",
+                "Quand Odile parle d’un autre avis, elle sent qu’on discute de sa santé sans qu’elle ait la main sur la conversation."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour parler de son diagnostic sans avoir à le prouver",
+          "points": [
+            {
+              "heading": "Préparer une phrase personnelle",
+              "objective": "Avoir sous la main une façon simple de dire ce que la maladie change pour soi.",
+              "exercise": [
+                "Relire calmement ce que l’équipe a expliqué et garder une ou deux idées qui parlent de son quotidien.",
+                "Écrire une phrase courte avec ses propres mots, sans vocabulaire technique.",
+                "La garder à un endroit qu’on consulte souvent, comme un cahier ou un carnet près du téléphone."
+              ],
+              "benefit": "Une phrase prête évite de chercher les mots au moment où la conversation va vite ; elle n’oblige personne à être convaincu."
+            },
+            {
+              "heading": "Garder le compte rendu à portée",
+              "objective": "Pouvoir s’appuyer sur ce que l’équipe a écrit sans devoir tout retenir.",
+              "exercise": [
+                "Ranger le compte rendu de consultation dans une pochette identifiée.",
+                "Noter les questions qu’on n’a pas su poser ou les explications à faire préciser.",
+                "Les apporter au prochain rendez-vous à la consultation mémoire ou chez le médecin traitant."
+              ],
+              "benefit": "Les questions qui restent trouvent une réponse auprès des professionnels qui ont posé le diagnostic, plutôt qu’au téléphone avec un proche."
+            },
+            {
+              "heading": "Choisir ce que l’on partage",
+              "objective": "Rester maître des informations sur sa santé.",
+              "exercise": [
+                "Décider ce que l’on veut bien dire à chaque proche, et ce qu’on garde pour soi ou pour l’équipe.",
+                "Formuler une limite claire, par exemple : « Je t’en parlerai, mais pas pour en débattre. »",
+                "Si un proche s’inquiète vraiment, lui proposer, avec son accord à soi, de venir à une consultation."
+              ],
+              "benefit": "La relation peut continuer sans que chaque appel devienne une discussion sur la réalité du diagnostic."
+            }
+          ]
+        }
+      ],
+      "ending_title": "La phrase du cahier bleu",
+      "ending": "Nadège demande à Odile d’attendre une seconde. Elle ouvre le cahier bleu sous la liste des recettes et écrit lentement : « Ma tête range moins bien les étapes, mes souvenirs sont là. » Puis elle la lit à voix haute. Odile se tait un instant, ce qui est rare. « Tu n’as pas à me croire tout de suite, ajoute Nadège. Mais je ne veux pas d’autre diagnostic au téléphone. Si tu as des questions, viens avec moi au prochain rendez-vous. » Odile dit qu’elle verra et revient au rôti. Nadège raccroche à onze heures vingt, plus fatiguée qu’après une matinée de pâtisserie. Elle ajoute un deuxième nom sur la liste : les sablés de Lucienne, leur mère. Bastien doit venir les filmer mercredi.",
+      "conclusion": "Dans une démence due à une maladie cérébrovasculaire, la mémoire peut rester riche pendant que d’autres capacités ont changé ; c’est l’équipe qui pose et explique ce diagnostic. Nadège trouve une phrase à elle, fixe une limite à sa sœur et garde son projet au centre de la semaine.",
+      "mirror": [
+        "Quand Odile entend le prix de 1987, elle pourrait dire : « Je ne comprends pas bien ce que la neurologue t’a expliqué. Tu veux me le raconter à ta façon, ou on en reparle une autre fois ? » Elle n’a pas à confirmer ni à contester le diagnostic. Si le doute l’empêche de dormir, elle peut demander à Nadège si elle accepte qu’elle l’accompagne à un rendez-vous, et respecter sa réponse."
+      ],
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "nice-ng97",
+        "has-tnc-fiche2"
+      ],
+      "continuity": {
+        "choice": "Nadège écrit sa phrase dans le cahier bleu, refuse qu’Odile discute du diagnostic au téléphone, l’invite à un rendez-vous si elle le souhaite et ajoute les sablés de Lucienne à la liste.",
+        "next": "Mercredi, Bastien installe son téléphone sur un trépied pour filmer les sablés de Lucienne et pose ses questions trop vite."
+      },
+      "clinical_focus": "Démence vasculaire : la mémoire n’est pas tout",
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 3,
+      "slug": "nadege-lenteur-traitement-questions-rapides",
+      "title": "Lenteur de traitement face aux questions rapides",
+      "description": "Filmée pour la vidéo des sablés, Nadège connaît chaque réponse mais elle arrive trop tard : la lenteur de traitement se voit à l’écran.",
+      "context": "pendant le tournage d’une vidéo dans sa cuisine",
+      "topics": [
+        "Démence due à une maladie cérébrovasculaire",
+        "lenteur de traitement",
+        "rythme de conversation"
+      ],
+      "clinical_intro": "Comprendre une question et y répondre demande une vitesse de traitement de l’information qui peut diminuer dans une démence liée aux petits vaisseaux du cerveau. Le savoir reste là, mais il lui faut plus de temps pour se mettre en mots. Pendant le tournage des sablés de sa mère, Nadège découvre à l’écran un décalage qu’elle ressent sans toujours le voir.",
+      "opening": "Ce mercredi, la crème au praliné refroidit déjà au réfrigérateur : Nadège l’a faite ce matin, seule, comme le disait la fiche du Paris-Brest. L’après-midi est réservé aux sablés de Lucienne, sa mère, ceux qu’elle découpait à l’emporte-pièce en forme de cœur les jours de fête. Bastien, son filleul graphiste, a fixé son téléphone sur un petit trépied au bout de la table de la cuisine. Il a orienté la lampe, poussé le pot d’ustensiles hors du cadre. « C’est la première vidéo, dit-il, on verra bien. »\n\nNadège verse la farine sur le plan de travail, ajoute le beurre coupé en dés, et commence à sabler du bout des doigts. Bastien, derrière l’écran, pose sa première question : « Pourquoi le beurre doit être froid ? » Elle cherche le début de sa réponse, les mains dans la farine. Avant qu’elle ait trouvé, il enchaîne : « Et tu sables combien de temps, à peu près ? » Puis, en regardant l’image : « Tu veux qu’on recommence la prise, la lumière n’est pas top ? »\n\n« Parce que s’il fond, la pâte devient… », commence-t-elle. Bastien parle déjà de la lumière. Elle s’arrête. Elle connaît la réponse depuis cinquante ans : le beurre froid reste en petits grains, c’est ce qui donne le sablé. Elle sait aussi combien de temps, jusqu’à ce que ça ressemble à du sable mouillé. Mais les trois questions se sont empilées et elle ne sait plus à laquelle elle répond. Bastien lui montre l’écran. On y voit une femme aux mains immobiles, la bouche entrouverte, qui a l’air d’hésiter. « On dirait que je ne sais pas faire des sablés », dit-elle. Elle se frotte les doigts. Elle a chaud, la lampe est près, et l’appareil la regarde.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Quand la réponse existe mais arrive en retard",
+          "text": "La vitesse de traitement de l’information désigne le temps nécessaire pour percevoir une question, la comprendre et organiser une réponse ; dans les atteintes des petits vaisseaux du cerveau, elle fait partie des fonctions typiquement ralenties, sans que les connaissances soient perdues. Chez Nadège, le savoir sur le beurre froid est intact, mais trois questions posées coup sur coup dépassent le rythme auquel elle peut les traiter. Le décalage donne à la caméra l’image d’une hésitation qui n’en est pas une. D’autres facteurs pèsent aussi ce mercredi : la chaleur de la lampe, le stress d’être filmée, la fatigue de la matinée, et peut-être l’audition si Bastien parle derrière l’écran. Tout ne revient pas à la démence."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment la lenteur de traitement se remarque-t-elle dans un échange rapide ?",
+          "points": [
+            {
+              "heading": "Des réponses décalées",
+              "text": "Quand les questions s’enchaînent, la réponse à la première peut arriver alors que l’interlocuteur est déjà passé à la suivante.",
+              "examples": [
+                "Nadège commence à expliquer le beurre froid pendant que Bastien parle déjà de recommencer la prise.",
+                "Elle ne sait plus si elle doit répondre sur la durée du sablage ou sur la lumière."
+              ]
+            },
+            {
+              "heading": "Une impression d’hésitation trompeuse",
+              "text": "Le temps nécessaire pour organiser une réponse peut être lu par les autres comme un doute ou une ignorance.",
+              "examples": [
+                "À l’écran, ses mains immobiles et sa bouche entrouverte donnent l’air de quelqu’un qui ne sait pas.",
+                "Nadège elle-même dit qu’on croirait qu’elle ne sait pas faire des sablés, alors qu’elle les fait depuis cinquante ans."
+              ]
+            },
+            {
+              "heading": "Une fatigue qui s’accumule",
+              "text": "Suivre un rythme plus rapide que le sien demande un effort qui se paie souvent en fin de séance.",
+              "examples": [
+                "Après trois questions empilées, Nadège a chaud et se frotte les doigts au lieu de continuer à sabler.",
+                "La matinée passée sur la crème au praliné s’ajoute à l’effort du tournage."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour laisser le temps de répondre",
+          "points": [
+            {
+              "heading": "Une question à la fois",
+              "objective": "Éviter que plusieurs questions se superposent.",
+              "exercise": [
+                "Poser une seule question, courte, puis attendre la réponse complète.",
+                "Ne passer à la suivante qu’après un signe que la personne a terminé.",
+                "Noter les autres questions sur un papier pour ne pas les oublier."
+              ],
+              "benefit": "La personne peut répondre à la question posée plutôt que de trier celles qui s’accumulent."
+            },
+            {
+              "heading": "Un silence convenu",
+              "objective": "Rendre normal le temps de réflexion, pour les deux.",
+              "exercise": [
+                "Se mettre d’accord avant de commencer sur un signal qui veut dire « je suis prête ».",
+                "Pendant le silence, ne pas reformuler ni proposer de réponse.",
+                "Après coup, demander si le signal a convenu ou s’il faut le changer."
+              ],
+              "benefit": "Le silence cesse d’être une gêne à combler et redevient un temps de travail."
+            },
+            {
+              "heading": "Préparer les explications à l’avance",
+              "objective": "Déplacer l’effort de formulation avant le moment filmé ou public.",
+              "exercise": [
+                "Choisir avec la personne les deux ou trois explications qu’elle veut donner.",
+                "Les lui laisser écrire ou dire une première fois sans caméra.",
+                "Vérifier l’éclairage, la chaleur et le bruit avant de tourner, pour écarter ce qui gêne en plus."
+              ],
+              "benefit": "Le tournage montre ce qu’elle sait, et l’on réduit les autres sources de gêne qui ne relèvent pas de la maladie."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Le signal de la spatule",
+      "ending": "Nadège demande à Bastien d’éteindre la lampe et d’ouvrir la fenêtre deux minutes. Puis elle pose ses conditions : une question à la fois, et il attend qu’elle lève la spatule avant d’en poser une autre. Bastien écrit ses trois questions sur un post-it collé au trépied. La deuxième prise dure presque le double. On y entend des silences, ses doigts dans la farine, puis sa voix : « Le beurre froid reste en petits grains. C’est ça, le sablé. » Elle lève la spatule. Bastien demande s’il peut raccourcir les silences au montage ; elle accepte pour les longs, pas pour tous. À la fin, elle est fatiguée et laisse les cœurs cuire sans rien expliquer de plus. La première vidéo existe.",
+      "conclusion": "La lenteur de traitement peut faire passer une connaissance intacte pour une hésitation. En imposant un rythme et un signal, Nadège obtient la première des vidéos de son projet, plus longue mais complète, et garde le contrôle de ce que le montage montrera d’elle.",
+      "mirror": [
+        "Derrière l’écran, Bastien aurait pu poser sa première question puis se taire, les yeux sur Nadège plutôt que sur l’image : « Prends ton temps, je t’écoute. » Le post-it collé au trépied est un geste simple que tout proche peut reprendre. Il n’a pas à mesurer ses temps de réponse ni à décider seul de ce qu’on coupe ; il peut lui demander, à la fin, si le rythme lui a convenu."
+      ],
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "aha-vci-2011",
+        "nice-ng97"
+      ],
+      "continuity": {
+        "choice": "Nadège fixe le signal de la spatule et la règle d’une question à la fois ; la vidéo des sablés est tournée et Bastien ne coupe que les longs silences, avec son accord.",
+        "next": "Karima propose une répétition de démonstration de la pâte à choux devant un petit groupe à la maison de quartier des Ponts."
+      },
+      "clinical_focus": "Lenteur de traitement face aux questions rapides",
+      "diagnostic_stage": "known"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "revision": 869,
+  "revision": 890,
   "created_at": "2026-11-07T14:47:42Z",
   "cases": {
     "mathis": {
@@ -5170,9 +5170,9 @@
     "loubna": {
       "character_id": "loubna",
       "code": "6D36",
-      "stage": "review",
+      "stage": "ready_to_publish",
       "created_at": "2026-11-07T14:47:42Z",
-      "active_job": "81d321ebeba640e0991fd5d12f31afdb",
+      "active_job": null,
       "owners": {
         "character": [
           "personnage_loubna"
@@ -5214,26 +5214,20 @@
           }
         },
         "review": {
-          "job_id": "a2ff13290a174a67a24ec2ad3658ead8",
+          "job_id": "81d321ebeba640e0991fd5d12f31afdb",
           "owner": "review_loubna",
-          "validated_at": "2026-11-12T10:33:44Z",
+          "validated_at": "2026-11-12T10:36:24Z",
           "validation": {
             "character_id": "loubna",
             "files": {
               "editorial/clinical/designs/loubna.json": "106ac8ac5ea0a21cd963ab67deb5c664507c9f278ef62d7dd2b7d694e9c347e5",
               "editorial/clinical/dossiers/loubna.json": "d23ed9f437ea8b0c328f80a25daeee2e059b5a84a494b67cf5ebbd75cbea6021",
-              "editorial/clinical/loubna.json": "81ba4906aa9356f0801ceff7ee6ce7d7e6a15f708674b3f68e03b27ad44d0a98",
-              "editorial/clinical/reviews/loubna.json": "1654208e1921f9951e1191db11a780bd1a67942ad5bcd7b0eb928d43a0d99863"
+              "editorial/clinical/loubna.json": "e17c90425e099d81462c06fcc223debb2af13f990744bb39b01dcd7dd5c549ae",
+              "editorial/clinical/reviews/loubna.json": "cb253aea92581e13df8be208f21c95da01c64d6865915b2619a591f05543ec5c"
             },
             "episodes": 12,
-            "status": "revision_requested",
-            "findings": [
-              {
-                "episode": 9,
-                "issue": "Dans la fin, la phrase « Benali fixe le rendez-vous suivant dans deux semaines. Après le rendez-vous, celle-ci remet le programme imprimé à Salomé. » fait de Benali, dernier sujet nommé, celle qui remet le programme : le pronom « celle-ci » est devenu fautif après la réécriture.",
-                "requested_change": "Remplacer « celle-ci remet le programme imprimé à Salomé » par « Loubna remet le programme imprimé à Salomé » (ou formulation équivalente nommant Loubna)."
-              }
-            ],
+            "status": "passed",
+            "findings": [],
             "reviewer": "review_loubna"
           }
         }
@@ -5245,21 +5239,14 @@
         "design_sha256": null,
         "dossier_sha256": null,
         "review_sha256": null
-      },
-      "findings": [
-        {
-          "episode": 9,
-          "issue": "Dans la fin, la phrase « Benali fixe le rendez-vous suivant dans deux semaines. Après le rendez-vous, celle-ci remet le programme imprimé à Salomé. » fait de Benali, dernier sujet nommé, celle qui remet le programme : le pronom « celle-ci » est devenu fautif après la réécriture.",
-          "requested_change": "Remplacer « celle-ci remet le programme imprimé à Salomé » par « Loubna remet le programme imprimé à Salomé » (ou formulation équivalente nommant Loubna)."
-        }
-      ]
+      }
     },
     "serge": {
       "character_id": "serge",
       "code": "6D50",
-      "stage": "review",
+      "stage": "story",
       "created_at": "2026-11-07T14:47:42Z",
-      "active_job": "583c300a29354481ae12c4915f9fc756",
+      "active_job": null,
       "owners": {
         "character": [
           "personnage_serge"
@@ -5271,7 +5258,7 @@
           "review_serge"
         ]
       },
-      "revision_rounds": 1,
+      "revision_rounds": 2,
       "accepted": {
         "character": {
           "job_id": "b7376bf5e63a4a5fb0c73f133009b170",
@@ -5301,64 +5288,29 @@
           }
         },
         "review": {
-          "job_id": "7ad16da0faca4c08994a6e5540ab2315",
+          "job_id": "583c300a29354481ae12c4915f9fc756",
           "owner": "review_serge",
-          "validated_at": "2026-11-12T10:31:02Z",
+          "validated_at": "2026-11-12T10:36:37Z",
           "validation": {
             "character_id": "serge",
             "files": {
               "editorial/clinical/designs/serge.json": "9d855e9c1026e1b39a3696f65eb63bb81aee86f3be1340ec8042ccdc85238727",
               "editorial/clinical/dossiers/serge.json": "a3cfbfa2f718c4dbcb8533ce11af976098546fa7f0a3764d351b2ada16bbaa2a",
-              "editorial/clinical/serge.json": "c5b7e5478ce2cf8b807c4cbb1c7bfd69383940f4e300605a8faa07ed85429028",
-              "editorial/clinical/reviews/serge.json": "7a71bef5de3892d69af9709a7951aad06a41406fdd4979877b440816550b1c95"
+              "editorial/clinical/serge.json": "472b9c850da5c10c19f875ab4a482ddc7c661ce374789e7ee1cd6ec3deb65a52",
+              "editorial/clinical/reviews/serge.json": "3107631bad99b99620a339e3049ca13fd6dce7909ebc1b48b9efb1ef65e96f5f"
             },
             "episodes": 12,
             "status": "revision_requested",
             "findings": [
               {
-                "episode": 1,
-                "issue": "Un lecteur arrivant sur l’épisode ne sait pas qui est Mireille (coordinatrice du groupe de promenade) ni ce qu’est concrètement « une demande destinée au cabinet » ; l’ouverture reste abstraite au-delà de ce qu’exige l’omission de la nature de l’information.",
-                "requested_change": "Présenter Mireille par son rôle dans la première scène et préciser la forme concrète de la démarche en attente (par exemple un message de prise de rendez-vous à envoyer au cabinet du docteur Armand), sans jamais indiquer le contenu de l’information corrigée."
-              },
-              {
-                "episode": 3,
-                "issue": "Inès est évoquée (« la question d’Inès ») sans que son rôle de psychologue soit indiqué : un lecteur arrivant directement sur l’épisode ne peut pas situer cette intervenante.",
-                "requested_change": "Ajouter une apposition courte : « Inès, la psychologue qui le suit » au premier emploi."
-              },
-              {
                 "episode": 4,
-                "issue": "La scène remplace les actions par des formulations procédurales : « deux démarches envisagées », « organise les transmissions utiles dans le cadre applicable », « modalités de recours ». Le lecteur ne voit pas ce que fait concrètement Armand ni ce que Serge décide ; Mireille et Claude (miroir) ne sont pas situés.",
-                "requested_change": "Montrer des gestes précis sans nommer d’examen : par exemple deux rendez-vous pris auprès de deux services différents pour la même question ; Armand demande à Serge son accord pour écrire ou téléphoner à l’autre praticien, le fait devant lui ou fixe quand il le fera, indique lequel des deux rendez-vous est maintenu après cet échange, et donne un numéro du cabinet à utiliser en cas de problème nouveau, en rappelant le 15 pour une urgence. Nommer le rôle de Mireille et de Claude au premier emploi."
-              },
-              {
-                "episode": 5,
-                "issue": "Le rôle d’Inès n’est jamais nommé ; la fin « clarifie l’objet de la vérification et les modalités de coordination avec Armand dans le cadre convenu » est un résumé procédural qui ne montre ni ce qu’Inès dit, ni ce qui est décidé.",
-                "requested_change": "Présenter Inès comme psychologue ; faire dire concrètement à Inès à quoi servait la question d’Armand (que les décisions de soin reposent sur des informations exactes, sans détailler l’information) et montrer l’accord pris (par exemple : Serge pourra signaler en séance ou au médecin qu’une question l’a blessé ; Inès et Armand échangent sur ce point avec son accord) ; garder l’absence de promesse de ne plus revenir aux informations antérieures."
-              },
-              {
-                "episode": 6,
-                "issue": "Raccord ambigu : en ouverture Mireille imprime « la version reçue », déjà incomplète, puis la fin annonce que « la première version partielle est envoyée » ; la promesse d’une version complète n’a été montrée dans aucun épisode antérieur. Mireille n’est pas présentée.",
-                "requested_change": "Nommer le document imprimé autrement (par exemple « le brouillon envoyé la veille, présenté comme presque complet ») ou dater la promesse de version complète (« promise après l’envoi des deux créneaux »), afin que la « première version partielle clairement nommée » envoyée à la fin se distingue sans équivoque. Présenter Mireille comme coordinatrice du groupe."
-              },
-              {
-                "episode": 8,
-                "issue": "La consultation est résumée en termes abstraits (« évalue la situation, lui indique l’orientation nécessaire et organise un examen. Serge suit cette orientation et est reçu effectivement ») ; le lecteur ne sait ni quand ni où Serge est reçu, et Inès n’est pas présentée.",
-                "requested_change": "Concrétiser sans décrire la gêne ni l’examen : par exemple Armand rappelle dans l’heure, le reçoit le jour même ou le lendemain au cabinet, l’examine et lui remet un rendez-vous complémentaire dont Serge note la date ; présenter Inès comme psychologue au moment où le point sommeil/moral est convenu."
+                "issue": "Le champ continuity.choice reste l’ancienne formule abstraite (« organise les échanges entre professionnels, précise les démarches retenues et les recours ») et n’enregistre pas les décisions désormais montrées : accord de Serge pour l’appel, rendez-vous du jeudi maintenu, rendez-vous du mardi annulé par Serge après la décision, numéros du cabinet et du 15 au dos de l’enveloppe, prochain point dans trois semaines.",
+                "requested_change": "Réécrire continuity.choice, par exemple : « Avec l’accord de Serge, Armand appelle le second service : le jeudi est maintenu, Serge annule le mardi ; il range l’enveloppe portant le numéro direct du cabinet et le 15, et note le prochain point dans trois semaines ; une question d’Armand lui reste en tête. » Facultatif : remplacer « sous le jeudi qu’il a entouré », ambigu, par la date du point."
               },
               {
                 "episode": 9,
-                "issue": "Le miroir indique, en cas de confidence d’idées de se faire du mal : « On appelle maintenant ton médecin ou le 15 », alors que la technique 3 cite le 3114, numéro national de prévention du suicide (24 h/24, gratuit) ; la réponse proposée au proche est donc moins adaptée que celle donnée à Serge. Par ailleurs l’exemple « Il commence chaque nouvelle information par « je ne sais pas si c’est important » » n’apparaît pas dans la scène. La question de bilan d’Inès est pertinente et bien formulée : à conserver.",
-                "requested_change": "Remplacer la phrase du miroir par une formulation du type : « Je ne peux pas évaluer ça. On appelle le 3114 maintenant, ou le 15 si tu es en danger tout de suite. » Ajouter dans la scène la formule « je ne sais pas si c’est important » ou remplacer l’exemple par un élément effectivement montré."
-              },
-              {
-                "episode": 10,
-                "issue": "Deux exemples ne correspondent à rien dans la scène (« Il compare la thérapie à une réparation dont il sortirait avec un certificat » ; « Il se demande si espacer les séances serait logique ») ; la phrase sur le médicament est acceptable au regard du dossier car elle énonce une absence de preuve.",
-                "requested_change": "Montrer brièvement ces deux pensées dans l’ouverture ou la fin, ou les remplacer par des éléments présents (la feuille pliée, la demande de médicament adressée à Armand, la ligne « Je crois que ça va mieux » effacée). Conserver la formulation d’Armand sur le médicament, éventuellement précisée en « aucun médicament n’a fait la preuve qu’il traite ce trouble lui-même »."
-              },
-              {
-                "episode": 11,
-                "issue": "Le miroir renvoie une « détresse forte » au « cabinet ou le 15 » sans le 3114, alors que l’épisode traite d’une envie de déformer liée au vide et que l’épisode 9 a introduit ce numéro ; la réponse aux proches doit rester cohérente.",
-                "requested_change": "Écrire par exemple : « il peut l’orienter vers le cabinet ; en cas de détresse forte ou d’idées de se faire du mal, vers le 3114, et vers le 15 en cas de danger immédiat. » Le partage d’information Inès→Armand est cohérent avec le cadre de l’épisode 4 et peut rester tel quel."
+                "issue": "L’ép. 8 fixe désormais un rendez-vous complémentaire « pour le mardi suivant » ; l’ép. 9 se déroule « un mardi matin », la semaine suivant la gêne, sans dire si ce rendez-vous a eu lieu, ce qui laisse une question concrète ouverte entre les deux scènes.",
+                "requested_change": "Ajouter une courte précision, par exemple dans l’ouverture : « Il sort du rendez-vous complémentaire fixé la semaine précédente » ou « Le rendez-vous complémentaire a eu lieu la veille », et la relier à la phrase où Armand précise la suite médicale de la gêne, sans détail clinique."
               }
             ],
             "reviewer": "review_serge"
@@ -5375,58 +5327,23 @@
       },
       "findings": [
         {
-          "episode": 1,
-          "issue": "Un lecteur arrivant sur l’épisode ne sait pas qui est Mireille (coordinatrice du groupe de promenade) ni ce qu’est concrètement « une demande destinée au cabinet » ; l’ouverture reste abstraite au-delà de ce qu’exige l’omission de la nature de l’information.",
-          "requested_change": "Présenter Mireille par son rôle dans la première scène et préciser la forme concrète de la démarche en attente (par exemple un message de prise de rendez-vous à envoyer au cabinet du docteur Armand), sans jamais indiquer le contenu de l’information corrigée."
-        },
-        {
-          "episode": 3,
-          "issue": "Inès est évoquée (« la question d’Inès ») sans que son rôle de psychologue soit indiqué : un lecteur arrivant directement sur l’épisode ne peut pas situer cette intervenante.",
-          "requested_change": "Ajouter une apposition courte : « Inès, la psychologue qui le suit » au premier emploi."
-        },
-        {
           "episode": 4,
-          "issue": "La scène remplace les actions par des formulations procédurales : « deux démarches envisagées », « organise les transmissions utiles dans le cadre applicable », « modalités de recours ». Le lecteur ne voit pas ce que fait concrètement Armand ni ce que Serge décide ; Mireille et Claude (miroir) ne sont pas situés.",
-          "requested_change": "Montrer des gestes précis sans nommer d’examen : par exemple deux rendez-vous pris auprès de deux services différents pour la même question ; Armand demande à Serge son accord pour écrire ou téléphoner à l’autre praticien, le fait devant lui ou fixe quand il le fera, indique lequel des deux rendez-vous est maintenu après cet échange, et donne un numéro du cabinet à utiliser en cas de problème nouveau, en rappelant le 15 pour une urgence. Nommer le rôle de Mireille et de Claude au premier emploi."
-        },
-        {
-          "episode": 5,
-          "issue": "Le rôle d’Inès n’est jamais nommé ; la fin « clarifie l’objet de la vérification et les modalités de coordination avec Armand dans le cadre convenu » est un résumé procédural qui ne montre ni ce qu’Inès dit, ni ce qui est décidé.",
-          "requested_change": "Présenter Inès comme psychologue ; faire dire concrètement à Inès à quoi servait la question d’Armand (que les décisions de soin reposent sur des informations exactes, sans détailler l’information) et montrer l’accord pris (par exemple : Serge pourra signaler en séance ou au médecin qu’une question l’a blessé ; Inès et Armand échangent sur ce point avec son accord) ; garder l’absence de promesse de ne plus revenir aux informations antérieures."
-        },
-        {
-          "episode": 6,
-          "issue": "Raccord ambigu : en ouverture Mireille imprime « la version reçue », déjà incomplète, puis la fin annonce que « la première version partielle est envoyée » ; la promesse d’une version complète n’a été montrée dans aucun épisode antérieur. Mireille n’est pas présentée.",
-          "requested_change": "Nommer le document imprimé autrement (par exemple « le brouillon envoyé la veille, présenté comme presque complet ») ou dater la promesse de version complète (« promise après l’envoi des deux créneaux »), afin que la « première version partielle clairement nommée » envoyée à la fin se distingue sans équivoque. Présenter Mireille comme coordinatrice du groupe."
-        },
-        {
-          "episode": 8,
-          "issue": "La consultation est résumée en termes abstraits (« évalue la situation, lui indique l’orientation nécessaire et organise un examen. Serge suit cette orientation et est reçu effectivement ») ; le lecteur ne sait ni quand ni où Serge est reçu, et Inès n’est pas présentée.",
-          "requested_change": "Concrétiser sans décrire la gêne ni l’examen : par exemple Armand rappelle dans l’heure, le reçoit le jour même ou le lendemain au cabinet, l’examine et lui remet un rendez-vous complémentaire dont Serge note la date ; présenter Inès comme psychologue au moment où le point sommeil/moral est convenu."
+          "issue": "Le champ continuity.choice reste l’ancienne formule abstraite (« organise les échanges entre professionnels, précise les démarches retenues et les recours ») et n’enregistre pas les décisions désormais montrées : accord de Serge pour l’appel, rendez-vous du jeudi maintenu, rendez-vous du mardi annulé par Serge après la décision, numéros du cabinet et du 15 au dos de l’enveloppe, prochain point dans trois semaines.",
+          "requested_change": "Réécrire continuity.choice, par exemple : « Avec l’accord de Serge, Armand appelle le second service : le jeudi est maintenu, Serge annule le mardi ; il range l’enveloppe portant le numéro direct du cabinet et le 15, et note le prochain point dans trois semaines ; une question d’Armand lui reste en tête. » Facultatif : remplacer « sous le jeudi qu’il a entouré », ambigu, par la date du point."
         },
         {
           "episode": 9,
-          "issue": "Le miroir indique, en cas de confidence d’idées de se faire du mal : « On appelle maintenant ton médecin ou le 15 », alors que la technique 3 cite le 3114, numéro national de prévention du suicide (24 h/24, gratuit) ; la réponse proposée au proche est donc moins adaptée que celle donnée à Serge. Par ailleurs l’exemple « Il commence chaque nouvelle information par « je ne sais pas si c’est important » » n’apparaît pas dans la scène. La question de bilan d’Inès est pertinente et bien formulée : à conserver.",
-          "requested_change": "Remplacer la phrase du miroir par une formulation du type : « Je ne peux pas évaluer ça. On appelle le 3114 maintenant, ou le 15 si tu es en danger tout de suite. » Ajouter dans la scène la formule « je ne sais pas si c’est important » ou remplacer l’exemple par un élément effectivement montré."
-        },
-        {
-          "episode": 10,
-          "issue": "Deux exemples ne correspondent à rien dans la scène (« Il compare la thérapie à une réparation dont il sortirait avec un certificat » ; « Il se demande si espacer les séances serait logique ») ; la phrase sur le médicament est acceptable au regard du dossier car elle énonce une absence de preuve.",
-          "requested_change": "Montrer brièvement ces deux pensées dans l’ouverture ou la fin, ou les remplacer par des éléments présents (la feuille pliée, la demande de médicament adressée à Armand, la ligne « Je crois que ça va mieux » effacée). Conserver la formulation d’Armand sur le médicament, éventuellement précisée en « aucun médicament n’a fait la preuve qu’il traite ce trouble lui-même »."
-        },
-        {
-          "episode": 11,
-          "issue": "Le miroir renvoie une « détresse forte » au « cabinet ou le 15 » sans le 3114, alors que l’épisode traite d’une envie de déformer liée au vide et que l’épisode 9 a introduit ce numéro ; la réponse aux proches doit rester cohérente.",
-          "requested_change": "Écrire par exemple : « il peut l’orienter vers le cabinet ; en cas de détresse forte ou d’idées de se faire du mal, vers le 3114, et vers le 15 en cas de danger immédiat. » Le partage d’information Inès→Armand est cohérent avec le cadre de l’épisode 4 et peut rester tel quel."
+          "issue": "L’ép. 8 fixe désormais un rendez-vous complémentaire « pour le mardi suivant » ; l’ép. 9 se déroule « un mardi matin », la semaine suivant la gêne, sans dire si ce rendez-vous a eu lieu, ce qui laisse une question concrète ouverte entre les deux scènes.",
+          "requested_change": "Ajouter une courte précision, par exemple dans l’ouverture : « Il sort du rendez-vous complémentaire fixé la semaine précédente » ou « Le rendez-vous complémentaire a eu lieu la veille », et la relier à la phrase où Armand précise la suite médicale de la gêne, sans détail clinique."
         }
       ]
     },
     "florence": {
       "character_id": "florence",
       "code": "6D51",
-      "stage": "story",
+      "stage": "review",
       "created_at": "2026-11-07T14:47:42Z",
-      "active_job": "17d6aa84539c4120b86531d737044c72",
+      "active_job": null,
       "owners": {
         "character": [
           "personnage_florence"
@@ -5454,15 +5371,15 @@
           }
         },
         "story": {
-          "job_id": "eb7c46eb6de04f7eb9b6d7c87a4a0723",
+          "job_id": "17d6aa84539c4120b86531d737044c72",
           "owner": "story_florence",
-          "validated_at": "2026-11-12T10:28:34Z",
+          "validated_at": "2026-11-12T10:37:07Z",
           "validation": {
             "character_id": "florence",
             "files": {
               "editorial/clinical/designs/florence.json": "6ae9569ebf637c8a13c521907bb7256397c86029d0d2143ee2b5784239926f3a",
               "editorial/clinical/dossiers/florence.json": "366093c6a06e703ff6264dcd930b54e345e2aee22d900fedd6212b231184110c",
-              "editorial/clinical/florence.json": "eb829eaf3a423d067b4bf67f2dbe25a8fd855324fe07be112787179bc96ac877"
+              "editorial/clinical/florence.json": "e97ef86c3fed450334f2d392eb4413514fc16737b0d61bb90637ae97e55cbec7"
             },
             "episodes": 12
           }
@@ -108676,8 +108593,8 @@
       "snapshot_sha256": "b8ac4b8b4d515e823a153b5886e8c934a16de079e74a901d018ad9eb13a97190",
       "status": "active",
       "token_sha256": "2b1b0299c58ae886458e3f844db54c540fda991126d9bec10203f4d9b40bba5b",
-      "heartbeat_at": "2026-11-12T10:35:24Z",
-      "expires_at": "2026-11-12T11:35:24Z",
+      "heartbeat_at": "2026-11-12T10:37:12Z",
+      "expires_at": "2026-11-12T11:37:12Z",
       "checkpoints": [
         {
           "at": "2026-11-12T10:33:01Z",
@@ -108729,6 +108646,34 @@
           "observed": {
             "manuscript_sha256": "45ccc2d98bf5ae90ecb75f9b145ca288a3d77fcb487c72e6d26c4ac5c6eb645f",
             "episodes_present": 4,
+            "manuscript_readable": true,
+            "design_sha256": "446a3648f24d12ef8f72c7b8709a09ba066d779affd4904f2cfd6d1afe280b21",
+            "dossier_sha256": "850ae8eb3d15d375fabee0a39688ee04782e24b10e542601e5e0ea60218cc0ad",
+            "review_sha256": null
+          }
+        },
+        {
+          "at": "2026-11-12T10:36:21Z",
+          "outputs": {
+            "editorial/clinical/hector.json": "ee896bb61c4bed5224b193eba1bdfd95397ea76cdc908779e9d04d66cfaa3e78"
+          },
+          "observed": {
+            "manuscript_sha256": "ee896bb61c4bed5224b193eba1bdfd95397ea76cdc908779e9d04d66cfaa3e78",
+            "episodes_present": 5,
+            "manuscript_readable": true,
+            "design_sha256": "446a3648f24d12ef8f72c7b8709a09ba066d779affd4904f2cfd6d1afe280b21",
+            "dossier_sha256": "850ae8eb3d15d375fabee0a39688ee04782e24b10e542601e5e0ea60218cc0ad",
+            "review_sha256": null
+          }
+        },
+        {
+          "at": "2026-11-12T10:37:11Z",
+          "outputs": {
+            "editorial/clinical/hector.json": "d12ae44d39e7a6a042381136490d8397dbc70cf157c5833a78f85c6a9bd1ca64"
+          },
+          "observed": {
+            "manuscript_sha256": "d12ae44d39e7a6a042381136490d8397dbc70cf157c5833a78f85c6a9bd1ca64",
+            "episodes_present": 6,
             "manuscript_readable": true,
             "design_sha256": "446a3648f24d12ef8f72c7b8709a09ba066d779affd4904f2cfd6d1afe280b21",
             "dossier_sha256": "850ae8eb3d15d375fabee0a39688ee04782e24b10e542601e5e0ea60218cc0ad",
@@ -109138,8 +109083,8 @@
       "snapshot_sha256": "7fd1e3ea5d3ffb9cf6d303c5ab29df59f0602e50e3157d1b5da02984f30e7ce7",
       "status": "active",
       "token_sha256": "eb6e3b7e8d161931a3b6c992498e38b3e68959cdf92a932c3d21d06b36a7e35e",
-      "heartbeat_at": "2026-11-12T10:35:37Z",
-      "expires_at": "2026-11-12T11:35:37Z",
+      "heartbeat_at": "2026-11-12T10:37:18Z",
+      "expires_at": "2026-11-12T11:37:18Z",
       "checkpoints": [
         {
           "at": "2026-11-12T10:33:03Z",
@@ -109191,6 +109136,34 @@
           "observed": {
             "manuscript_sha256": "c04d0b558b553046eea4ceb1f035aba238e30b6775150d369a649b1b0deba17f",
             "episodes_present": 4,
+            "manuscript_readable": true,
+            "design_sha256": "c41dfdf0cae416ecb036744ce3ed0f3d24c0afdf34832f99ac58a4b69abc73ef",
+            "dossier_sha256": "fd6d5ceb0a0df7a6e257370471dd030d907bd525378624ac307fcc12e93bd968",
+            "review_sha256": null
+          }
+        },
+        {
+          "at": "2026-11-12T10:36:27Z",
+          "outputs": {
+            "editorial/clinical/bilal.json": "816653772b17a271f4eb0f924239a22400ec5776fc835a2cb42bcf648a415a68"
+          },
+          "observed": {
+            "manuscript_sha256": "816653772b17a271f4eb0f924239a22400ec5776fc835a2cb42bcf648a415a68",
+            "episodes_present": 5,
+            "manuscript_readable": true,
+            "design_sha256": "c41dfdf0cae416ecb036744ce3ed0f3d24c0afdf34832f99ac58a4b69abc73ef",
+            "dossier_sha256": "fd6d5ceb0a0df7a6e257370471dd030d907bd525378624ac307fcc12e93bd968",
+            "review_sha256": null
+          }
+        },
+        {
+          "at": "2026-11-12T10:37:18Z",
+          "outputs": {
+            "editorial/clinical/bilal.json": "8be654d9367b58948101aa0bb91f108e67bc1169eed38a028d0fcd7d2ba7002d"
+          },
+          "observed": {
+            "manuscript_sha256": "8be654d9367b58948101aa0bb91f108e67bc1169eed38a028d0fcd7d2ba7002d",
+            "episodes_present": 6,
             "manuscript_readable": true,
             "design_sha256": "c41dfdf0cae416ecb036744ce3ed0f3d24c0afdf34832f99ac58a4b69abc73ef",
             "dossier_sha256": "fd6d5ceb0a0df7a6e257370471dd030d907bd525378624ac307fcc12e93bd968",
@@ -111447,8 +111420,8 @@
       "snapshot_sha256": "e9a822d41eb38f38186da73bb702a0116a2c855713e88cb27216a92933b44d6a",
       "status": "active",
       "token_sha256": "80232141c4159c2f4e8ab667d5303cef4ef96b884170b64ce89ed467dbe61143",
-      "heartbeat_at": "2026-11-12T10:35:14Z",
-      "expires_at": "2026-11-12T11:35:14Z",
+      "heartbeat_at": "2026-11-12T10:37:22Z",
+      "expires_at": "2026-11-12T11:37:22Z",
       "checkpoints": [
         {
           "at": "2026-11-12T10:34:28Z",
@@ -111472,6 +111445,48 @@
           "observed": {
             "manuscript_sha256": "2263bedbcc6ff7c57fb263f09241393b991efef37abcbbdb219422f6e22d52cc",
             "episodes_present": 2,
+            "manuscript_readable": true,
+            "design_sha256": "8d88a591a9e08e92e7ebf5cf3b61323f27828aae3dcd12927bc8983b768e3765",
+            "dossier_sha256": "9f8406d860519a4c1f9048de161040706352640e8ee68fa499c8d512147e5f2e",
+            "review_sha256": null
+          }
+        },
+        {
+          "at": "2026-11-12T10:35:57Z",
+          "outputs": {
+            "editorial/clinical/farid.json": "9a98334b7425e724b4dd3a20829b7c0b0104fff6b3ebd295110e26f419def617"
+          },
+          "observed": {
+            "manuscript_sha256": "9a98334b7425e724b4dd3a20829b7c0b0104fff6b3ebd295110e26f419def617",
+            "episodes_present": 3,
+            "manuscript_readable": true,
+            "design_sha256": "8d88a591a9e08e92e7ebf5cf3b61323f27828aae3dcd12927bc8983b768e3765",
+            "dossier_sha256": "9f8406d860519a4c1f9048de161040706352640e8ee68fa499c8d512147e5f2e",
+            "review_sha256": null
+          }
+        },
+        {
+          "at": "2026-11-12T10:36:39Z",
+          "outputs": {
+            "editorial/clinical/farid.json": "418485c9339bb09c3790a4f5b01a35f5848e5d95b837a9a408a1ecca29f6869d"
+          },
+          "observed": {
+            "manuscript_sha256": "418485c9339bb09c3790a4f5b01a35f5848e5d95b837a9a408a1ecca29f6869d",
+            "episodes_present": 4,
+            "manuscript_readable": true,
+            "design_sha256": "8d88a591a9e08e92e7ebf5cf3b61323f27828aae3dcd12927bc8983b768e3765",
+            "dossier_sha256": "9f8406d860519a4c1f9048de161040706352640e8ee68fa499c8d512147e5f2e",
+            "review_sha256": null
+          }
+        },
+        {
+          "at": "2026-11-12T10:37:22Z",
+          "outputs": {
+            "editorial/clinical/farid.json": "14450b4892c195028e03b2de655e030cac8b6e6ae95e5230256e638ecb4c43d5"
+          },
+          "observed": {
+            "manuscript_sha256": "14450b4892c195028e03b2de655e030cac8b6e6ae95e5230256e638ecb4c43d5",
+            "episodes_present": 5,
             "manuscript_readable": true,
             "design_sha256": "8d88a591a9e08e92e7ebf5cf3b61323f27828aae3dcd12927bc8983b768e3765",
             "dossier_sha256": "9f8406d860519a4c1f9048de161040706352640e8ee68fa499c8d512147e5f2e",
@@ -113711,8 +113726,8 @@
       "snapshot_sha256": "ffc5b392b2c4babe5e2b02e8f785edfe0f0093bc6a7be32371fd00c0a6754a1f",
       "status": "active",
       "token_sha256": "26ce0b0500fe9bcce350081662ae1808420520ce1150b1362fc74fe72f5f2f0e",
-      "heartbeat_at": "2026-11-12T10:35:37Z",
-      "expires_at": "2026-11-12T11:35:37Z",
+      "heartbeat_at": "2026-11-12T10:37:21Z",
+      "expires_at": "2026-11-12T11:37:21Z",
       "checkpoints": [
         {
           "at": "2026-11-12T10:35:37Z",
@@ -113722,6 +113737,34 @@
           "observed": {
             "manuscript_sha256": "09a301fdbb74426dcdc88f46c888f9f4b9a8c11b55ae9d5a256439b21667700e",
             "episodes_present": 1,
+            "manuscript_readable": true,
+            "design_sha256": "257fec98799ee8e236e244dcc68d5f8f49b6be8a297d2e88e3aba2308b105608",
+            "dossier_sha256": "c8053e8b6bac33056a1c3257426c6c4710450fda88de8738db057a15ae733fa9",
+            "review_sha256": null
+          }
+        },
+        {
+          "at": "2026-11-12T10:36:35Z",
+          "outputs": {
+            "editorial/clinical/nadege.json": "bcdb0e7635ebd6183d7c9cff4d84db50e5485556ec4b04a467a9fec26a47dbee"
+          },
+          "observed": {
+            "manuscript_sha256": "bcdb0e7635ebd6183d7c9cff4d84db50e5485556ec4b04a467a9fec26a47dbee",
+            "episodes_present": 2,
+            "manuscript_readable": true,
+            "design_sha256": "257fec98799ee8e236e244dcc68d5f8f49b6be8a297d2e88e3aba2308b105608",
+            "dossier_sha256": "c8053e8b6bac33056a1c3257426c6c4710450fda88de8738db057a15ae733fa9",
+            "review_sha256": null
+          }
+        },
+        {
+          "at": "2026-11-12T10:37:21Z",
+          "outputs": {
+            "editorial/clinical/nadege.json": "406aae687949a1e74b6f8019c33df2877daf5d9bb71bda425b9af7cfdbd22a1e"
+          },
+          "observed": {
+            "manuscript_sha256": "406aae687949a1e74b6f8019c33df2877daf5d9bb71bda425b9af7cfdbd22a1e",
+            "episodes_present": 3,
             "manuscript_readable": true,
             "design_sha256": "257fec98799ee8e236e244dcc68d5f8f49b6be8a297d2e88e3aba2308b105608",
             "dossier_sha256": "c8053e8b6bac33056a1c3257426c6c4710450fda88de8738db057a15ae733fa9",
@@ -116066,10 +116109,36 @@
         }
       },
       "snapshot_sha256": "2681a09fe85b1d71502215fe6740efe49d6d9f655cd85e015495002c19afd613",
-      "status": "active",
+      "status": "finished",
       "token_sha256": "c32731b2f77e9811c85d4361819c46ea763defd9f086d5320344db7170e73fcb",
-      "heartbeat_at": "2026-11-12T10:33:54Z",
-      "expires_at": "2026-11-12T11:33:54Z"
+      "heartbeat_at": "2026-11-12T10:37:06Z",
+      "expires_at": "2026-11-12T11:37:06Z",
+      "checkpoints": [
+        {
+          "at": "2026-11-12T10:37:06Z",
+          "outputs": {
+            "editorial/clinical/florence.json": "e97ef86c3fed450334f2d392eb4413514fc16737b0d61bb90637ae97e55cbec7"
+          },
+          "observed": {
+            "manuscript_sha256": "e97ef86c3fed450334f2d392eb4413514fc16737b0d61bb90637ae97e55cbec7",
+            "episodes_present": 12,
+            "manuscript_readable": true,
+            "design_sha256": "6ae9569ebf637c8a13c521907bb7256397c86029d0d2143ee2b5784239926f3a",
+            "dossier_sha256": "366093c6a06e703ff6264dcd930b54e345e2aee22d900fedd6212b231184110c",
+            "review_sha256": "fb4e8292c9a5b47cfdcee0f3f880950b470d17ba6314284bad4e5f52a68d87e5"
+          }
+        }
+      ],
+      "finished_at": "2026-11-12T10:37:07Z",
+      "validation": {
+        "character_id": "florence",
+        "files": {
+          "editorial/clinical/designs/florence.json": "6ae9569ebf637c8a13c521907bb7256397c86029d0d2143ee2b5784239926f3a",
+          "editorial/clinical/dossiers/florence.json": "366093c6a06e703ff6264dcd930b54e345e2aee22d900fedd6212b231184110c",
+          "editorial/clinical/florence.json": "e97ef86c3fed450334f2d392eb4413514fc16737b0d61bb90637ae97e55cbec7"
+        },
+        "episodes": 12
+      }
     },
     "3235890c6a3742e0955699bfd68ad5ad": {
       "id": "3235890c6a3742e0955699bfd68ad5ad",
@@ -119596,10 +119665,35 @@
         }
       },
       "snapshot_sha256": "1e113ee1b55e3a9b7bf88e0cb2c005aed4a41aa87f76c36ea488e15f271e5a8b",
-      "status": "active",
+      "status": "finished",
       "token_sha256": "1f12c8c414903849ec4e65bf86251048aae9aa3e73a7eec2149d24837a1c5885",
       "heartbeat_at": "2026-11-12T10:34:56Z",
-      "expires_at": "2026-11-12T11:34:56Z"
+      "expires_at": "2026-11-12T11:34:56Z",
+      "finished_at": "2026-11-12T10:36:37Z",
+      "validation": {
+        "character_id": "serge",
+        "files": {
+          "editorial/clinical/designs/serge.json": "9d855e9c1026e1b39a3696f65eb63bb81aee86f3be1340ec8042ccdc85238727",
+          "editorial/clinical/dossiers/serge.json": "a3cfbfa2f718c4dbcb8533ce11af976098546fa7f0a3764d351b2ada16bbaa2a",
+          "editorial/clinical/serge.json": "472b9c850da5c10c19f875ab4a482ddc7c661ce374789e7ee1cd6ec3deb65a52",
+          "editorial/clinical/reviews/serge.json": "3107631bad99b99620a339e3049ca13fd6dce7909ebc1b48b9efb1ef65e96f5f"
+        },
+        "episodes": 12,
+        "status": "revision_requested",
+        "findings": [
+          {
+            "episode": 4,
+            "issue": "Le champ continuity.choice reste l’ancienne formule abstraite (« organise les échanges entre professionnels, précise les démarches retenues et les recours ») et n’enregistre pas les décisions désormais montrées : accord de Serge pour l’appel, rendez-vous du jeudi maintenu, rendez-vous du mardi annulé par Serge après la décision, numéros du cabinet et du 15 au dos de l’enveloppe, prochain point dans trois semaines.",
+            "requested_change": "Réécrire continuity.choice, par exemple : « Avec l’accord de Serge, Armand appelle le second service : le jeudi est maintenu, Serge annule le mardi ; il range l’enveloppe portant le numéro direct du cabinet et le 15, et note le prochain point dans trois semaines ; une question d’Armand lui reste en tête. » Facultatif : remplacer « sous le jeudi qu’il a entouré », ambigu, par la date du point."
+          },
+          {
+            "episode": 9,
+            "issue": "L’ép. 8 fixe désormais un rendez-vous complémentaire « pour le mardi suivant » ; l’ép. 9 se déroule « un mardi matin », la semaine suivant la gêne, sans dire si ce rendez-vous a eu lieu, ce qui laisse une question concrète ouverte entre les deux scènes.",
+            "requested_change": "Ajouter une courte précision, par exemple dans l’ouverture : « Il sort du rendez-vous complémentaire fixé la semaine précédente » ou « Le rendez-vous complémentaire a eu lieu la veille », et la relier à la phrase où Armand précise la suite médicale de la gêne, sans détail clinique."
+          }
+        ],
+        "reviewer": "review_serge"
+      }
     },
     "81d321ebeba640e0991fd5d12f31afdb": {
       "id": "81d321ebeba640e0991fd5d12f31afdb",
@@ -121317,11 +121411,25 @@
         }
       },
       "snapshot_sha256": "ae46f3e9a52d9af8a512d17ce8eaa706eec30052aadfb8216b80142f326661bb",
-      "status": "active",
+      "status": "finished",
       "token_sha256": "95072acaf5b6737a326420d8a9cc01e9426b6d2e6eb6565bbb9cf7c0f93dec1f",
       "heartbeat_at": "2026-11-12T10:35:41Z",
-      "expires_at": "2026-11-12T11:35:41Z"
+      "expires_at": "2026-11-12T11:35:41Z",
+      "finished_at": "2026-11-12T10:36:24Z",
+      "validation": {
+        "character_id": "loubna",
+        "files": {
+          "editorial/clinical/designs/loubna.json": "106ac8ac5ea0a21cd963ab67deb5c664507c9f278ef62d7dd2b7d694e9c347e5",
+          "editorial/clinical/dossiers/loubna.json": "d23ed9f437ea8b0c328f80a25daeee2e059b5a84a494b67cf5ebbd75cbea6021",
+          "editorial/clinical/loubna.json": "e17c90425e099d81462c06fcc223debb2af13f990744bb39b01dcd7dd5c549ae",
+          "editorial/clinical/reviews/loubna.json": "cb253aea92581e13df8be208f21c95da01c64d6865915b2619a591f05543ec5c"
+        },
+        "episodes": 12,
+        "status": "passed",
+        "findings": [],
+        "reviewer": "review_loubna"
+      }
     }
   },
-  "updated_at": "2026-11-12T10:35:41Z"
+  "updated_at": "2026-11-12T10:37:22Z"
 }

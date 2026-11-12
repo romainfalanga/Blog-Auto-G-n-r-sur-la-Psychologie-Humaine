@@ -218,6 +218,321 @@
         "next": "Lundi matin, Gilles Perrot visite l’atelier seul avec Farid ; il parlera de vitrines et de restauration tout en ouvrant un poste, et Farid devra suivre deux choses à la fois."
       },
       "diagnostic_stage": "known"
+    },
+    {
+      "number": 3,
+      "slug": "farid-attention-partagee-decision-visite-musee",
+      "title": "L’attention partagée entre une conversation et un poste ouvert",
+      "description": "Gilles parle de vitrines en ouvrant un poste ; Farid perd le fil et craint d’avoir dit oui. L’attention divisée dans la démence à corps de Lewy.",
+      "context": "à l’atelier, pendant la visite du musée",
+      "topics": [
+        "attention divisée",
+        "fonctions exécutives",
+        "décider par écrit"
+      ],
+      "clinical_focus": "Attention partagée entre deux demandes simultanées",
+      "clinical_intro": "Suivre une conversation tout en surveillant un geste, puis garder en tête une décision en cours, mobilise l’attention divisée et les fonctions exécutives. Dans la démence à corps de Lewy, ces capacités sont souvent fragilisées. Pendant la visite du président du musée, Farid comprend chaque phrase séparément, mais l’accumulation des demandes menace une décision qui lui tient à cœur.",
+      "opening": "Lundi, dix heures. Gilles Perrot, le président du musée associatif Les Lampes du Faubourg, entre dans l’atelier avec un carnet à spirale et beaucoup d’enthousiasme. Anis, le fils de Farid, est au collège ; Farid reçoit seul, comme il l’a voulu. Le poste à cadran vert attend sur sa bande de carton, l’aiguille sur Paris.\n\nGilles admire, puis parle vite. Il décrit les vitrines vitrées de la salle du rez-de-chaussée, une date d’inauguration au printemps, une restauratrice qu’il connaît. En même temps, il retourne la radio de bakélite crème et commence à dévisser le dos, « juste pour voir l’état des lampes ». Farid regarde les vis tomber dans la paume de Gilles. « Et pour la date, vous seriez disponible un samedi ? »\n\nFarid répond sur le samedi. Gilles enchaîne déjà sur les postes : « L’idéal, ce serait qu’ils marchent tous, les visiteurs adorent entendre une vieille radio s’allumer. » Farid veut répondre, mais il cherche encore où Gilles a posé la troisième vis. Quand il revient à la question, Gilles parle des assurances.\n\nUn peu plus tard, Gilles referme son carnet. « Donc on part là-dessus, tout remettre en état ? » Farid sent le mot oui arriver tout seul, poli, facile. Il ne sait plus s’il l’a déjà prononcé dix minutes plus tôt. Il sait seulement qu’il n’a pas décidé cela. Ses postes, il les a soignés pour qu’on les voie tels qu’ils sont, pas pour qu’on change leurs pièces d’origine.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Faire deux choses à la fois demande plus que de comprendre",
+          "text": "Partager son attention entre deux sources, passer de l’une à l’autre et maintenir une décision en suspens relèvent de l’attention et des fonctions exécutives, qui organisent la pensée au fil d’une situation. Dans la démence due à une maladie à corps de Lewy, ces capacités sont souvent plus touchées que la mémoire. La difficulté dépend alors de la charge du moment, pas de l’intérêt de la personne pour le sujet. Farid comprend chacune des phrases de Gilles ; ce qui lui échappe, c’est la superposition : une question, un poste qu’on ouvre, une autre question, puis un résumé qui semble acquis. Le risque n’est pas qu’il oublie son projet, mais qu’il accepte par politesse une proposition qu’il n’a pas pesée. Les recommandations sur la communication conseillent de ne pas multiplier les tâches au moment où l’on parle et de laisser le temps de répondre."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment la surcharge d’attention se remarque-t-elle pendant une visite ?",
+          "points": [
+            {
+              "heading": "Une question chasse la précédente",
+              "text": "Quand les questions s’enchaînent, la personne répond à l’une et perd la suivante.",
+              "examples": [
+                "Farid répond sur le samedi et ne revient pas à la question des postes à remettre en marche.",
+                "Quand il veut répondre, Gilles parle déjà des assurances."
+              ]
+            },
+            {
+              "heading": "Le geste capte l’attention",
+              "text": "Un objet manipulé pendant la conversation peut absorber l’attention nécessaire pour écouter.",
+              "examples": [
+                "Farid suit les vis qui tombent dans la paume de Gilles au lieu de suivre sa phrase.",
+                "Il cherche la troisième vis pendant que la discussion avance."
+              ]
+            },
+            {
+              "heading": "Une décision qui semble prise sans l’avoir été",
+              "text": "Garder la trace de ce qui a été accepté devient incertain, et une réponse polie peut passer pour un accord.",
+              "examples": [
+                "Farid ne sait plus s’il a déjà dit oui à une restauration complète.",
+                "Il sent le mot oui venir seul quand Gilles résume la discussion."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour protéger une décision quand l’attention se partage",
+          "points": [
+            {
+              "heading": "Une question à la fois",
+              "objective": "Ramener la conversation à une charge que Farid peut suivre.",
+              "exercise": [
+                "Demander à l’interlocuteur de poser ses questions l’une après l’autre.",
+                "Répondre ou dire « je réfléchis » avant de passer à la suivante.",
+                "Accepter un silence le temps que la réponse se forme."
+              ],
+              "benefit": "La discussion ralentit, mais chaque réponse correspond mieux à ce que Farid pense."
+            },
+            {
+              "heading": "Poser l’objet avant de parler",
+              "objective": "Éviter qu’une manipulation et une discussion se superposent.",
+              "exercise": [
+                "Demander que le poste soit refermé ou posé pendant l’échange.",
+                "Reprendre la manipulation seulement après la question traitée.",
+                "Prévoir un moment séparé pour regarder l’intérieur des postes."
+              ],
+              "benefit": "L’attention n’a plus à se partager entre deux demandes."
+            },
+            {
+              "heading": "Reporter une décision importante par écrit",
+              "objective": "Ne pas engager le don sur une réponse donnée dans la surcharge.",
+              "exercise": [
+                "Demander que les propositions soient écrites et remises.",
+                "Relire ces propositions à un moment plus favorable, seul ou avec quelqu’un de choisi.",
+                "Répondre par écrit, en gardant une copie."
+              ],
+              "benefit": "La décision reste celle de Farid ; un proche peut aider à relire sans répondre à sa place."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Refermer le poste avant de répondre",
+      "ending": "Farid pose la main à plat sur l’établi. « Gilles, refermez-le, s’il vous plaît. On ne parle pas en même temps qu’on ouvre. » Gilles s’excuse, revisse le dos de la radio de bakélite crème. Farid attend que la dernière vis soit en place.\n\n« Je n’ai rien décidé pour les modifications. Écrivez-moi ce que vous proposez, poste par poste. Je vous répondrai par lettre. » Gilles hésite, puis arrache une page de son carnet et commence une liste. Farid ne signe rien ce jour-là. Quand Gilles part, la question reste entière : combien de postes Farid laissera-t-il toucher ? Il n’en sait rien encore, mais c’est de nouveau à lui de le dire.",
+      "conclusion": "Dans la démence à corps de Lewy, la difficulté à partager son attention peut menacer une décision plus que la mémoire elle-même. En demandant de refermer le poste et de recevoir les propositions par écrit, Farid ne règle pas la question des modifications ; il la garde ouverte et à lui.",
+      "mirror": [
+        "Anis n’était pas là, mais il recevra peut-être la liste de Gilles. Plutôt que de demander « alors, tu as dit oui ? », il peut proposer : « Tu veux qu’on relise sa page ensemble un matin, sans décider tout de suite ? » Un proche qui assiste à une telle visite peut aussi demander une pause ou qu’on pose l’objet, sans parler à la place de la personne. Il n’a pas à négocier le don lui-même ; il aide seulement à ce que les questions arrivent une par une."
+      ],
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "mckeith-2017",
+        "has-fiche14-communiquer"
+      ],
+      "continuity": {
+        "choice": "Farid demande à Gilles de refermer la radio de bakélite crème et d’écrire ses propositions poste par poste ; il ne signe rien et annonce une réponse par lettre. La décision sur les modifications reste ouverte.",
+        "next": "Le lundi soir, seul dans l’atelier en rangeant les étiquettes, Farid verra un enfant assis sur l’établi ; Anis appellera au même moment pour l’horaire de la visite du jeudi."
+      },
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 4,
+      "slug": "farid-hallucinations-visuelles-enfant-etabli",
+      "title": "Une hallucination visuelle accueillie sans la contredire",
+      "description": "Un soir, Farid voit un enfant calme assis sur l’établi. Comment accueillir une hallucination visuelle sans la confirmer ni la contester.",
+      "context": "à l’atelier, un soir au téléphone",
+      "topics": [
+        "hallucinations visuelles",
+        "accueillir sans confronter",
+        "sécurité immédiate"
+      ],
+      "clinical_focus": "Hallucinations visuelles bien formées dans l’atelier",
+      "clinical_intro": "Dans la démence à corps de Lewy, il arrive que la personne voie de façon répétée des scènes précises, souvent des personnes ou des enfants, que les autres ne voient pas. Elle peut en parler avec plus ou moins de recul et d’émotion. Quand Farid décrit un petit garçon dans l’atelier, la réponse de son fils compte davantage pour son apaisement que la question de savoir qui a raison.",
+      "opening": "Lundi soir, un peu après vingt heures. Farid range dans une boîte à chaussures les étiquettes de carton déjà remplies, par ordre d’année. La page de Gilles Perrot, le président du musée, est posée sous le poste à cadran vert ; il la lira un autre matin. Dehors, la rue est calme. Seule la petite lampe de l’établi est allumée.\n\nQuand il lève la tête, un enfant est assis sur le bord de l’établi. Sept ou huit ans, un pull bleu, les jambes qui pendent et se balancent un peu. Il ne dit rien, il regarde les postes. Farid ne bouge pas. L’enfant n’a pas l’air perdu, ni triste. Il est là, simplement, comme un client qui attend que la réparation soit finie.\n\nLe téléphone sonne. C’est Anis, son fils, professeur de technologie, qui appelle de chez lui. « Papa, je voulais savoir à quelle heure Mme Diallo passe jeudi, pour que je ne t’appelle pas en plein milieu. » Farid répond « neuf heures », puis ajoute, à voix basse : « Il y a un petit garçon chez moi. Sur l’établi. »\n\nÀ l’autre bout, Anis inspire. La phrase est prête dans sa bouche : il n’y a personne, papa, tu es seul. Il connaît la maison, il sait que la porte du garage est fermée à clé. Il s’arrête pourtant. Il se rappelle ce que la docteure Tissier, la neurologue de son père, avait dit lors de l’annonce du diagnostic : contredire n’aide pas, entrer dans le récit non plus. Il entend la respiration de son père, régulière. Il cherche une autre question.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Voir ce que les autres ne voient pas",
+          "text": "Les hallucinations visuelles récurrentes, souvent précises et bien formées, font partie des signes centraux de la démence due à une maladie à corps de Lewy : il peut s’agir de personnes, d’enfants ou d’animaux, parfois d’une simple impression de présence. Beaucoup de personnes peuvent les décrire ; leur recul et leur émotion varient d’une fois à l’autre. Contester l’expérience risque d’isoler la personne ou de l’inquiéter davantage, la confirmer peut l’enfermer dans un récit qu’elle ne partage pas avec son entourage. Ce qui aide plutôt, c’est d’accueillir l’émotion et de vérifier qu’il n’y a pas de danger immédiat. Ce soir, Farid ne paraît pas effrayé : il décrit sobrement un enfant calme. La question utile pour Anis n’est donc pas « est-ce vrai ? », mais « comment vas-tu, maintenant ? ». La fréquence de ces expériences et ce qu’elles demandent relèvent ensuite de la neurologue, si Farid accepte qu’on lui en parle."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment une hallucination visuelle peut-elle se présenter ?",
+          "points": [
+            {
+              "heading": "Une scène précise et calme",
+              "text": "L’image peut être détaillée et stable, sans rien de spectaculaire.",
+              "examples": [
+                "Farid voit un enfant d’environ sept ans, en pull bleu, assis sur l’établi.",
+                "L’enfant balance les jambes et regarde les postes sans parler."
+              ]
+            },
+            {
+              "heading": "Un moment souvent tranquille",
+              "text": "Ces expériences surviennent fréquemment dans des moments ordinaires, parfois en lumière faible.",
+              "examples": [
+                "Farid range des étiquettes un soir, seule la petite lampe allumée.",
+                "Rien ne s’est passé juste avant ; la rue est calme."
+              ]
+            },
+            {
+              "heading": "Un récit plus ou moins partagé",
+              "text": "La personne peut en parler spontanément, à voix basse, sans toujours dire ce qu’elle en pense.",
+              "examples": [
+                "Farid dit à Anis qu’il y a un petit garçon chez lui.",
+                "Il ne demande pas à son fils de confirmer ni d’expliquer."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour accueillir une hallucination sans la confirmer",
+          "points": [
+            {
+              "heading": "Demander comment il se sent",
+              "objective": "S’intéresser à l’émotion plutôt qu’à la réalité de l’image.",
+              "exercise": [
+                "Poser une question simple : « Est-ce que ça t’inquiète ? »",
+                "Écouter la réponse sans commenter ce qu’il voit.",
+                "Demander s’il a besoin de quelque chose maintenant, ou de quelqu’un."
+              ],
+              "benefit": "La personne se sent entendue sans être contredite ni confortée dans l’image."
+            },
+            {
+              "heading": "Proposer un geste qu’il choisit",
+              "objective": "Offrir un appui concret, décidé par Farid, sans en faire un remède.",
+              "exercise": [
+                "Suggérer une option, par exemple allumer la grande lampe du plafond.",
+                "Lui laisser accepter, refuser ou choisir autre chose.",
+                "Respecter ce qu’il décide de faire ensuite."
+              ],
+              "benefit": "Un geste familier peut apaiser le moment ; il ne traite pas les hallucinations."
+            },
+            {
+              "heading": "En parler à la neurologue avec son accord",
+              "objective": "Que l’équipe de soins soit informée sans que le proche raconte à la place de la personne.",
+              "exercise": [
+                "Noter le jour et l’heure, sans décrire l’image à sa place.",
+                "Demander plus tard à Farid ce qu’il accepte qu’on transmette.",
+                "Appeler les secours si une détresse importante ou un danger apparaît."
+              ],
+              "benefit": "La neurologue peut évaluer ces expériences ; aucune décision de traitement n’est prise par les proches."
+            }
+          ]
+        }
+      ],
+      "ending_title": "La grande lampe du plafond",
+      "ending": "Anis finit par demander : « Tu es inquiet, papa ? » Un silence. « Non. Je suis fatigué. » Anis demande s’il veut qu’il vienne ; Farid dit que non, qu’il va allumer la grande lampe et monter. Anis répond seulement : « D’accord. Appelle-moi si ça change. »\n\nFarid appuie sur l’interrupteur près de la porte. Le néon du plafond grésille, puis éclaire tout l’atelier. Il ne regarde pas l’établi plus longtemps qu’il ne faut, ferme la porte du garage et monte se coucher. Chez lui, Anis écrit dans les notes de son téléphone : « lundi, 20 h 15, papa dit voir quelqu’un, calme, fatigué ». Il n’ajoute rien. Il ne sait pas si son père voudra en reparler demain.",
+      "conclusion": "Les hallucinations visuelles de la démence à corps de Lewy peuvent être calmes et précises. Anis renonce à contredire son père et demande comment il se sent ; Farid choisit la lumière et le sommeil. L’expérience n’est ni niée ni confirmée, et la suite reste ouverte.",
+      "mirror": [
+        "Au téléphone, Anis avait une phrase prête : « Il n’y a personne. » Il a préféré : « Tu es inquiet ? » Un proche peut faire de même, puis proposer un geste simple, comme allumer une lampe, et demander s’il doit venir. Il n’a pas à décider si l’image existe, ni à interpréter ce qu’elle veut dire. Si la personne est très angoissée, se met en danger ou paraît soudain très confuse, il appelle le 15 ; sinon, il note l’heure et laisse à la personne le choix d’en parler."
+      ],
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "mckeith-2017",
+        "nice-ng97"
+      ],
+      "continuity": {
+        "choice": "Anis ne contredit ni ne confirme ; il demande si son père est inquiet. Farid répond qu’il est fatigué, allume la grande lampe, ferme l’atelier et monte se coucher. Anis note « lundi, 20 h 15 » sans rien ajouter. Mme Diallo passe jeudi à neuf heures.",
+        "next": "Mardi matin, Anis passe avant le collège ; Farid refusera de parler de la veille, et ils devront décider de ce qui peut être transmis à la docteure Tissier, dont la consultation est prévue dix jours plus tard."
+      },
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 5,
+      "slug": "farid-accord-partage-informations-neurologue",
+      "title": "L’accord pour partager ce qu’on a vu avec la neurologue",
+      "description": "Farid refuse de parler de la veille ; Anis craint de devoir cacher quelque chose. Décider ensemble de ce qui sera transmis à la neurologue.",
+      "context": "à la cuisine, avant le collège",
+      "topics": [
+        "accord pour partager",
+        "droit de garder son récit",
+        "cahier d’observations"
+      ],
+      "clinical_focus": "Choisir ce qui est confié au neurologue",
+      "clinical_intro": "Une personne atteinte de démence garde le droit de décider de ce que l’on dit d’elle, à qui et comment. Ses proches peuvent rapporter un fait observé sans raconter à sa place ce qu’elle a vécu. Quand Farid refuse de parler de la soirée précédente, son fils et lui cherchent comment informer la neurologue sans trahir ni mettre en danger.",
+      "opening": "Mardi, sept heures et quart. Anis, le fils de Farid, professeur de technologie, s’arrête chez son père avant le collège avec deux croissants dans un sac en papier. Farid a fait le café. La cuisine sent le pain grillé ; la radio de la cuisine, la seule qui ne part pas au musée, donne les informations à voix basse.\n\nAnis attend que son père ait bu la moitié de sa tasse. « Hier soir, au téléphone… le petit garçon. Tu veux m’en dire un peu plus ? »\n\nFarid pose sa tasse. Pas brusquement, mais avec soin, au centre de la soucoupe. « Non. Je n’ai pas envie d’en parler. Ni maintenant, ni avec toi. » Il le dit sans colère, comme on refuse un deuxième sucre.\n\nAnis hoche la tête, mais il sent son ventre se nouer. Dans dix jours, vendredi de la semaine prochaine, son père a rendez-vous avec la docteure Tissier, sa neurologue. Anis a pris l’habitude de l’accompagner. Que dira-t-il si elle demande comment vont les soirées ? Il ne veut pas mentir à la médecin, ni raconter derrière le dos de son père une chose que celui-ci garde pour lui. Il a aussi, dans les notes de son téléphone, deux lignes : samedi, 14 h 30 ; lundi, 20 h 15.\n\n« Papa, je ne veux pas avoir de secret avec la docteure. Mais je ne veux pas non plus parler à ta place. »\n\nFarid regarde la radio de la cuisine. « Alors on fait comme à l’atelier. On sépare ce qui se mesure de ce qui se raconte. »",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Ce que l’on transmet et ce qui reste à la personne",
+          "text": "Les recommandations sur l’accompagnement des personnes atteintes de démence insistent sur leur droit de dire quelles informations peuvent être partagées, avec qui et lesquelles. Un proche peut ainsi décrire un fait qu’il a observé, avec une heure, sans raconter l’expérience intérieure que la personne préfère garder. Cette distinction protège à la fois la relation et la qualité des informations données au médecin. Elle a une limite : si un danger apparaît, la sécurité passe avant le secret. Ici, Farid ne refuse pas les soins ; il refuse de rejouer devant son fils une soirée qui lui appartient. Anis, de son côté, ne veut pas devenir le porte-parole de son père. La consultation de la semaine suivante reste le lieu où Farid peut parler lui-même s’il le souhaite, et où la docteure Tissier pourra lui poser ses propres questions."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment la question du partage se pose-t-elle au quotidien ?",
+          "points": [
+            {
+              "heading": "Un refus de raconter la veille",
+              "text": "La personne peut ne pas vouloir revenir sur une expérience, sans pour autant refuser l’aide.",
+              "examples": [
+                "Farid dit qu’il ne veut pas parler du petit garçon, ni maintenant ni avec son fils.",
+                "Il répond calmement, sans colère, et continue son petit-déjeuner."
+              ]
+            },
+            {
+              "heading": "Un proche pris entre deux loyautés",
+              "text": "L’aidant peut craindre de mentir au médecin ou de trahir la confiance de la personne.",
+              "examples": [
+                "Anis redoute la question de la neurologue sur les soirées.",
+                "Il garde dans son téléphone deux heures notées sans savoir quoi en faire."
+              ]
+            },
+            {
+              "heading": "Des faits et des récits mêlés",
+              "text": "Une note peut contenir à la fois un fait observable et l’interprétation d’un proche, ce qui brouille ce qu’on transmet.",
+              "examples": [
+                "« Papa dit voir quelqu’un » relève du récit de Farid, pas d’une observation d’Anis.",
+                "« Regard fixe à 14 h 30 » décrit ce qu’Anis a vu lui-même."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour transmettre avec l’accord de la personne",
+          "points": [
+            {
+              "heading": "Séparer le fait, l’heure et le récit",
+              "objective": "Distinguer ce que le proche a vu de ce que la personne a vécu.",
+              "exercise": [
+                "Écrire dans une colonne ce que le proche a observé lui-même.",
+                "Noter dans une autre le jour et l’heure.",
+                "Laisser le récit de l’expérience à la personne, qui le dira si elle le veut."
+              ],
+              "benefit": "Le médecin reçoit des faits datés, et la personne garde son histoire."
+            },
+            {
+              "heading": "Demander l’accord pour chaque destinataire",
+              "objective": "Que la personne décide qui saura quoi.",
+              "exercise": [
+                "Lire à voix haute chaque ligne que l’on souhaite transmettre.",
+                "Demander : « Je peux le dire à la neurologue ? À l’équipe du jeudi ? »",
+                "Écrire la réponse dans une troisième colonne et la respecter."
+              ],
+              "benefit": "L’accord devient visible et révisable, au lieu de rester supposé."
+            },
+            {
+              "heading": "Laisser la personne parler en consultation",
+              "objective": "Préserver la place de Farid face à sa neurologue.",
+              "exercise": [
+                "Convenir avant le rendez-vous de qui parle en premier.",
+                "Laisser le temps de répondre aux questions du médecin sans compléter.",
+                "Prévenir qu’en cas de danger, le proche parlera aux soignants sans attendre."
+              ],
+              "benefit": "La consultation reste la sienne ; la limite de sécurité est connue à l’avance."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Le cahier à trois colonnes",
+      "ending": "Anis sort de son sac un cahier d’écolier à grands carreaux. Avec la règle de la cuisine, Farid trace trois colonnes : « ce qu’Anis a vu », « quand », « ce que Farid accepte qu’on dise ». Ils recopient la ligne du samedi : regard fixe, réponses à côté, vers 14 h 30. Dans la troisième colonne, Farid écrit lui-même : « oui, à la docteure ».\n\nPour le lundi soir, il réfléchit longtemps, puis dicte une seule phrase : « Il a vu quelqu’un le soir et n’était pas effrayé. » Le reste, il le racontera s’il le souhaite. Anis demande s’il peut ajouter : « s’il y a un danger, je le dirai ». Farid accepte. Anis part au collège à huit heures moins dix, le cahier laissé sur la table de la cuisine. Ni l’un ni l’autre ne sait encore ce que Farid dira vraiment, vendredi prochain.",
+      "conclusion": "Le droit de ne pas raconter une expérience n’empêche pas d’informer la neurologue. Avec le cahier à trois colonnes, Farid choisit ce qui sera transmis, Anis rapporte seulement ce qu’il a vu, et la limite du danger est posée à l’avance entre eux.",
+      "mirror": [
+        "Quand Farid pose sa tasse et refuse d’en parler, Anis pourrait insister au nom de la santé de son père. Il peut plutôt dire : « D’accord. Est-ce qu’on décide ensemble de ce que je peux dire à la docteure ? » Un proche peut ensuite séparer ce qu’il a vu de ce que la personne a vécu, et demander l’accord ligne par ligne. Il n’a pas à garder un secret qui mettrait quelqu’un en danger : il le dit à l’avance, une fois, sans en faire une menace."
+      ],
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "nice-ng97",
+        "has-fiche14-communiquer"
+      ],
+      "continuity": {
+        "choice": "Farid et Anis ouvrent un cahier à trois colonnes (ce qu’Anis a vu, quand, ce que Farid accepte qu’on dise). Farid autorise la ligne du samedi et une seule phrase sur le lundi soir : il a vu quelqu’un et n’était pas effrayé. Anis dira tout danger. Le cahier reste sur la table de la cuisine.",
+        "next": "La nuit du jeudi au vendredi de la semaine suivante, veille de la consultation, Anis dormira dans la chambre d’amis pour conduire son père tôt, et il observera autre chose vers trois heures."
+      },
+      "diagnostic_stage": "known"
     }
   ]
 }

@@ -3982,6 +3982,78 @@
     "method": "reviewed_clinical_intro",
     "source_body_sha256": "c358d9a0080692c3a200e5b188ca27a45051652ca00904c2d4d24ce1b3ccf4b6"
   },
+  "posts/comprendre-et-maitriser-ses-emotions/loubna-amelioration-evolution-suivi": {
+    "text": "Le schéma en cause dans ce trouble est décrit comme relativement stable à l’âge adulte, ce qui n’empêche pas le vécu de varier d’une période à l’autre. Une semaine plus facile mérite d’être remarquée et racontée au professionnel. Elle ne permet pas, à elle seule, de conclure à une disparition du trouble ni d’annoncer une rechute. Loubna apprend à rapporter ce qui va mieux sans en faire un verdict.",
+    "source_heading": "Une amélioration ne tranche pas l’évolution",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "cf6d017396113f913f4dafa89a602e46746a5dad9d81c5386ff71647efd88e8b"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/loubna-changements-recents-reevaluation": {
+    "text": "Un diagnostic connu ne suffit pas à expliquer chaque changement de santé. Un sommeil perturbé ou une baisse d’élan demandent à être décrits et évalués dans leur contexte, sans conclusion automatique. Chez Loubna, ces difficultés récentes conduisent à un point clinique distinct. L’organisation du travail peut être ajustée pendant cette démarche sans attendre une nouvelle étiquette.",
+    "source_heading": "Réévaluer une difficulté nouvelle",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "7529cf5684396b3011daa22135f3d5e9a707fc9a9e580d338ec3923f0a319d9b"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/loubna-diagnostic-perimetre-risque": {
+    "text": "Un diagnostic peut comporter plusieurs fondements possibles sans que chacun soit présent chez chaque personne. Pour ce trouble, la branche liée au risque corporel répond à un périmètre précis. Chez Loubna, le diagnostic repose sur une détresse déjà évaluée. Clarifier cette distinction évite de lui attribuer un danger sur la seule base d’un intitulé clinique.",
+    "source_heading": "Le risque corporel a un périmètre",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "dc150877a2682483739c01e8c264fbb1dc2cc392811434788405905d844e256b"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/loubna-fin-projet-continuite-soin": {
+    "text": "Terminer un projet professionnel est un résultat à part entière, mais il ne mesure pas l’évolution d’un trouble paraphilique. Une livraison acceptée, la qualité d’un travail ou une soirée agréable ne remplacent pas l’évaluation clinique. Pour Loubna, la remise du programme de la salle d’exposition ferme un engagement de travail ; l’accompagnement qu’elle a choisi avec sa médecin continue, à son propre rythme.",
+    "source_heading": "Le projet se termine, le soin continue",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "e8ef222606ec01c1d78dd19c8f43b5058a12a6f78b0bdeb5624af2e0dbb3ef99"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/loubna-objectifs-soin-individualise": {
+    "text": "Un accompagnement individualisé demande de discuter ce que la personne souhaite améliorer, ainsi que les limites et contraintes des propositions. Le respect des préférences consenties ne disparaît pas avec un diagnostic. Loubna cherche une aide pour sa souffrance et son fonctionnement quotidien ; elle n’a pas à devenir conforme à une norme pour que cette demande soit entendue.",
+    "source_heading": "Un soin individualisé sans normalisation",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "2b4b188c1313386dc04d3ed28ab3dafb6d52ce25b57805e96ec531cb16c43410"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/loubna-partage-informations-vie-privee": {
+    "text": "Choisir ce que l’on partage de sa santé relève de décisions quotidiennes distinctes du consentement à un entretien. Le destinataire, le besoin et sa disponibilité comptent. Loubna peut donner un délai professionnel sans compte rendu médical, puis demander un échange personnel à Léonie, sa compagne. Préserver sa vie privée reste compatible avec le recours aux professionnels pour les besoins cliniques.",
+    "source_heading": "Partager sans devoir tout expliquer",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "b329524f39098f6aa77a29dedc72e3d787317a0e5495e24bc866704893ba2352"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/loubna-partenaire-consentement-entretien": {
+    "text": "Participer à une relation ne signifie pas consentir à tous les échanges sur la santé de l’autre. La présence d’une partenaire dans un entretien doit rester choisie, avec un objet compréhensible et des limites respectées. Pour Loubna et Léonie, l’enjeu est de parler du soutien quotidien sans confier à la relation une fonction de surveillance ou de soin.",
+    "source_heading": "Consentement et place de la partenaire",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "bd8c4807fa627e3371be7645913e52c88dd4fbb58bdf895fc26928faa64473f0"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/loubna-preoccupations-attention-interrompue": {
+    "text": "La persistance d’un schéma clinique ne se confond pas avec une curiosité passagère. Elle peut s’accompagner de préoccupations qui gênent certaines activités, sans que ce retentissement soit universel. Chez Loubna, l’attention quitte plusieurs fois une correction connue. Décrire cette difficulté au professionnel est plus utile que d’en déduire seule une perte de contrôle de ses comportements.",
+    "source_heading": "Persistance et attention interrompue",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "3d05f677bbc6ad197843bfbe5dd34b9bbde1f0080ac6d40daf8516d5d5dd35d4"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/loubna-rejet-social-et-souffrance": {
+    "text": "La désapprobation sociale peut faire souffrir sans constituer le fondement d’un trouble paraphilique. Une détresse entièrement due au rejet ou à sa crainte ne justifie pas ce diagnostic. Dans le suivi de Loubna, la souffrance liée au schéma a été évaluée séparément. Reprendre cette distinction permet d’accueillir ce qui blesse sans faire de la conformité sociale un objectif de soin.",
+    "source_heading": "Le rejet social ne suffit pas",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "cc78fdc5bfc60c8912a3136a7f4a3fbd55e5daadda093a725f3ffe3efb42eff9"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/loubna-repetition-controle-compulsion": {
+    "text": "La répétition de préoccupations ne prouve pas à elle seule une perte de contrôle des comportements. Le trouble paraphilique et le trouble du comportement sexuel compulsif ne sont pas des termes interchangeables. Pour Loubna, préciser les mots employés permet de parler du retentissement sans s’attribuer un second diagnostic ni entreprendre de vérification personnelle.",
+    "source_heading": "Répétition et contrôle ne se confondent pas",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "7ed552634701fad98e2380c4aa2611c4e2d450964d63cb42f707e995165ed8af"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/loubna-retentissement-charge-professionnelle": {
+    "text": "Une difficulté de santé peut retentir sur le travail sans se voir dans toutes les tâches. Les préoccupations et le temps du suivi pèsent ici sur un projet graphique concret. Distinguer les livrables prêts de ceux qui restent incomplets aide à organiser la collaboration. Cette adaptation professionnelle ne mesure ni la gravité du trouble ni l’efficacité du soin.",
+    "source_heading": "Retentissement professionnel et charge réelle",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "1c6589f61c67f5621aa7c2aa11040276e6cd6b6c6457b50cc864985bc7713ce6"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/loubna-souffrance-preference-atypique": {
+    "text": "Une préférence sexuelle atypique ne constitue pas à elle seule un trouble. Le diagnostic repose sur une évaluation clinique qui distingue notamment la détresse liée au schéma de la seule crainte du rejet. Chez Loubna, cette souffrance est déjà reconnue et interrompt son travail. Clarifier le sens du diagnostic permet de demander une aide sans transformer la différence en faute.",
+    "source_heading": "Souffrance clinique et préférence atypique",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "960d60b72fe6b91e0c8c91abca734234a1fb716ed27e8446fb326f2575ee8d83"
+  },
   "posts/comprendre-et-maitriser-ses-emotions/louise-concentration-facture-avel": {
     "text": "La dépression peut rendre l’attention plus difficile à soutenir, y compris dans un travail maîtrisé. Comprendre une information ne garantit pas qu’on pourra en garder le fil parmi les interruptions. Un cadre plus calme et des vérifications habituelles peuvent aider à mener une tâche précise. Le retentissement professionnel mérite aussi une discussion avec le médecin, sans conclure à une perte générale de capacités.",
     "source_heading": "Concentration fragile malgré les compétences",

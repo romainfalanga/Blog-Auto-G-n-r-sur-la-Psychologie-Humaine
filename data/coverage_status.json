@@ -24,15 +24,15 @@
     "other_frameworks": "APA pédagogique, RDoC recherche et CIF fonctionnement restent des grilles distinctes."
   },
   "counts": {
-    "articles": 1431,
-    "characters": 120,
-    "clinical_arcs": 87,
-    "clinical_episodes": 1044,
+    "articles": 1443,
+    "characters": 121,
+    "clinical_arcs": 88,
+    "clinical_episodes": 1056,
     "original_articles_reviewed": 387,
     "icd11_chapter06_codes": 858,
     "icd11_ungrouped_codes": 10,
-    "icd11_primary_arcs": 83,
-    "clinical_cases_pending": 67,
+    "icd11_primary_arcs": 84,
+    "clinical_cases_pending": 66,
     "other_published_arcs": 4,
     "internal_patterns": 161,
     "internal_patterns_indexed": 161
@@ -191,8 +191,7 @@
       "codes": 8,
       "statuses": {
         "no_standalone_arc_planned": 2,
-        "pending_editorial_case": 1,
-        "published_primary_arc": 5
+        "published_primary_arc": 6
       }
     },
     {
@@ -11357,12 +11356,30 @@
       "label": "Trouble paraphilique impliquant un comportement solitaire ou des individus consentants",
       "group_id": "BlockL1-6D3",
       "editorial_status": "parcours",
-      "coverage_status": "pending_editorial_case",
+      "coverage_status": "published_primary_arc",
       "reason": "diagnostic_distinct",
       "candidate_ids": [
         "loubna"
       ],
-      "published_primary": null,
+      "published_primary": {
+        "character_id": "loubna",
+        "name": "Loubna",
+        "reviewed_on": "2026-11-12",
+        "articles": [
+          "posts/comprendre-et-maitriser-ses-emotions/loubna-amelioration-evolution-suivi",
+          "posts/comprendre-et-maitriser-ses-emotions/loubna-changements-recents-reevaluation",
+          "posts/comprendre-et-maitriser-ses-emotions/loubna-diagnostic-perimetre-risque",
+          "posts/comprendre-et-maitriser-ses-emotions/loubna-fin-projet-continuite-soin",
+          "posts/comprendre-et-maitriser-ses-emotions/loubna-objectifs-soin-individualise",
+          "posts/comprendre-et-maitriser-ses-emotions/loubna-partage-informations-vie-privee",
+          "posts/comprendre-et-maitriser-ses-emotions/loubna-partenaire-consentement-entretien",
+          "posts/comprendre-et-maitriser-ses-emotions/loubna-preoccupations-attention-interrompue",
+          "posts/comprendre-et-maitriser-ses-emotions/loubna-rejet-social-et-souffrance",
+          "posts/comprendre-et-maitriser-ses-emotions/loubna-repetition-controle-compulsion",
+          "posts/comprendre-et-maitriser-ses-emotions/loubna-retentissement-charge-professionnelle",
+          "posts/comprendre-et-maitriser-ses-emotions/loubna-souffrance-preference-atypique"
+        ]
+      },
       "reference_url": "https://icd.who.int/browse/2026-01/mms/fr#2055403635"
     },
     {
@@ -12650,13 +12667,6 @@
     }
   ],
   "pending_cases": [
-    {
-      "character_id": "loubna",
-      "name": "Loubna",
-      "code": "6D36",
-      "label": "Trouble paraphilique impliquant un comportement solitaire ou des individus consentants",
-      "decision": "À documenter puis choisir entre récit, comparaison et dossier."
-    },
     {
       "character_id": "serge",
       "name": "Serge",

@@ -423,6 +423,215 @@
         "next": "Récapitulatifs, ardoise et carnet rouge finissent par lui coûter beaucoup d’énergie : un soir, à la maison, il ne peut plus rien écouter de nouveau."
       },
       "diagnostic_stage": "known"
+    },
+    {
+      "number": 5,
+      "slug": "bilal-effort-compensation-fatigue-du-soir",
+      "title": "L’effort de compensation et la fatigue du soir après l’atelier",
+      "description": "À force de relire carnet, ardoise et messages, Bilal arrive vidé à la maison et ne peut plus écouter Samia raconter son conseil de classe.",
+      "context": "entre la fermeture de l’atelier et le dîner",
+      "topics": [
+        "Trouble amnésique",
+        "effort de compensation",
+        "fatigue"
+      ],
+      "clinical_focus": "Effort de compensation et fatigue du soir",
+      "clinical_intro": "Quand une personne vivant un trouble amnésique continue à travailler, elle peut le faire au prix d’un effort supplémentaire important : vérifier, noter, relire. Cet effort fait partie du retentissement du trouble. Bilal, dont le diagnostic est connu, tient l’atelier grâce à ses supports ; le soir, il n’a plus de place pour une information de plus.",
+      "opening": "Lundi, dix-huit heures. Cinq semaines après la livraison du chêne, l’atelier ferme. Bilal a éteint l’aspiration, balayé les copeaux sous la scie à ruban, rangé les gouges dans leur rouleau de cuir. Il reste debout devant l’établi.\n\nIl relit le carnet rouge de la poche de son tablier, page par page depuis le matin. Puis l’ardoise : « Rainures des lattes : attendre réglage », « Jonas : latte jeudi », « Vernis : huile dure, mat ». Puis la feuille du récapitulatif que Martine Roussel, son associée ébéniste, a tapée à la fin de leur réunion du lundi et qu’il a collée sous l’ardoise. Puis le message d’Odile, l’animatrice de la maison de quartier, qui déplace la séance collective au mardi soir. Il recommence. Une troisième fois. Rien n’est faux, rien ne manque, mais il ne parvient pas à se dire que c’est fini. Martine, qui enfile son ciré, lui dit doucement : « Tu l’as déjà lu, Bilal. » Il répond qu’il le sait. Il ne le sent pas.\n\nÀ la maison, rue Colbert, Samia, sa femme, professeure de mathématiques au lycée, met la table. Elle sort de trois heures de conseil de classe et a envie d’en parler : un élève de seconde qu’elle défend depuis septembre, une collègue qui voulait le réorienter, le vote qu’elle a fini par gagner.\n\nBilal s’assoit. Il écoute la première phrase, puis la deuxième. À la troisième, il pose la main à plat sur la nappe.\n\n« Samia, arrête-moi là. Je ne peux plus rien noter aujourd’hui. Je ne veux pas faire semblant d’écouter et te redemander demain. »\n\nSamia se tait, la fourchette en l’air. Elle n’est pas vexée ; elle est surprise de le voir si épuisé à dix-neuf heures, lui qui rentrait autrefois de l’atelier en sifflant. Lui-même n’a pas porté de charge lourde aujourd’hui. Il a seulement passé la journée à vérifier.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Tenir au prix d’un effort qui ne se voit pas",
+          "text": "Dans le trouble amnésique, le retentissement se mesure aussi à ce que coûte le fonctionnement maintenu : lorsqu’une personne continue à travailler ou à gérer sa vie quotidienne, cela peut être au prix d’un effort supplémentaire important, par exemple par des stratégies compensatoires. Cet effort fait partie du trouble ; il ne traduit ni un manque de volonté ni une fragilité de caractère. Les recommandations de réadaptation invitent à adapter le travail à la fatigue et à l’humeur de la personne. Chez Bilal, l’ardoise, le carnet et le récapitulatif fonctionnent ; mais il les relit sans cesse, faute de sentir que l’information est acquise. La fatigue du soir est la facture de cette vigilance."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment l’effort de compensation pèse-t-il sur la fin de journée ?",
+          "points": [
+            {
+              "heading": "Des vérifications qui se répètent",
+              "text": "Quand on ne peut pas se fier au sentiment d’avoir retenu, la relecture peut se prolonger sans fin naturelle.",
+              "examples": [
+                "Bilal relit trois fois le carnet, l’ardoise, le récapitulatif et le message d’Odile.",
+                "Il sait qu’il a lu, mais ne parvient pas à se dire que c’est terminé."
+              ]
+            },
+            {
+              "heading": "Une fatigue sans effort physique",
+              "text": "La fatigue peut venir de l’attention constante portée aux supports plus que du travail manuel lui-même.",
+              "examples": [
+                "Il n’a porté aucune charge lourde, mais il est vidé à dix-neuf heures.",
+                "Samia le compare à l’homme qui rentrait autrefois en sifflant."
+              ]
+            },
+            {
+              "heading": "Moins de place pour les autres le soir",
+              "text": "À la maison, une nouvelle information peut dépasser ce que la personne peut encore accueillir.",
+              "examples": [
+                "Il arrête Samia dès la troisième phrase sur son conseil de classe.",
+                "Il préfère ne pas faire semblant d’écouter plutôt que de redemander le lendemain."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour répartir l’effort de mémoire dans la journée",
+          "points": [
+            {
+              "heading": "Repérer les moments les plus coûteux",
+              "objective": "Voir où l’effort se concentre avant de vouloir le réduire.",
+              "exercise": [
+                "Pendant une semaine, marquer d’un trait dans le carnet chaque relecture des supports.",
+                "Noter l’heure et l’état de fatigue en un mot.",
+                "Apporter ces notes à l’ergothérapeute plutôt que de les interpréter seul."
+              ],
+              "benefit": "Le professionnel peut ajuster l’organisation à partir de faits concrets ; ces notes ne constituent pas un test."
+            },
+            {
+              "heading": "Découper les tâches de mémoire",
+              "objective": "Éviter d’accumuler toutes les vérifications en fin de journée.",
+              "exercise": [
+                "Choisir un moment fixe de la journée pour la relecture complète.",
+                "Le reste du temps, ne consulter que la ligne utile à la tâche en cours.",
+                "Ne pas relire ce qui a déjà été coché."
+              ],
+              "benefit": "Une relecture prévue peut limiter les vérifications répétées, sans promettre de supprimer le doute."
+            },
+            {
+              "heading": "Prévoir une pause fixe et la protéger",
+              "objective": "Garder une heure où aucune information nouvelle n’est demandée.",
+              "exercise": [
+                "Fixer une heure de fermeture du carnet.",
+                "Prévenir les proches de ce moment et de sa raison générale.",
+                "Convenir avec eux d’un autre moment pour les nouvelles importantes."
+              ],
+              "benefit": "Les proches savent quand parler, et la personne peut se reposer sans craindre de perdre ce qui compte."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Midi pour relire, dix-sept heures pour fermer",
+      "ending": "Jeudi, Hugo Marchal, l’ergothérapeute de son équipe de réadaptation, passe à l’atelier comme convenu. Bilal lui montre les traits au crayon qu’Hugo lui a demandé mardi, au téléphone, d’ajouter dans la marge du carnet à chaque relecture : onze relectures mardi, neuf mercredi, presque toutes après seize heures. Hugo ne commente pas les chiffres ; il demande à quel moment Bilal se sent le plus clair. « À midi, quand je mange mon sandwich sur l’établi. » Ils décident ensemble : relecture complète de l’ardoise, du carnet et du récapitulatif à midi ; fermeture du carnet à dix-sept heures, élastique passé autour. Après, rien de nouveau ne s’écrit. Le soir, Bilal raconte l’arrangement à Samia. Elle propose qu’ils gardent les nouvelles importantes pour le samedi matin, au café, et qu’elle lui raconte le conseil de classe à ce moment-là. Le samedi suivant, elle le fait. Bilal écoute jusqu’au bout. Le lundi d’après, il relit encore deux fois après dix-sept heures, l’élastique à la main.",
+      "conclusion": "L’effort pour compenser fait partie du retentissement du trouble amnésique : le travail tient, mais il coûte. Bilal ne supprime pas ses supports ; il fixe avec Hugo et Samia des heures pour relire et pour se reposer, en sachant que le doute peut revenir.",
+      "mirror": [
+        "Samia a entendu la phrase de Bilal sans se vexer, puis a proposé un autre moment : « Je te le raconte samedi, au café ? » C’est une réponse possible : déplacer la conversation plutôt que l’annuler, et ne pas prendre la fatigue pour un désintérêt. Elle n’a pas à devenir son agenda. Une fatigue inhabituelle, une somnolence nouvelle ou une confusion soudaine ne doivent pas être mises sur le compte du trouble connu : elles appellent un avis médical rapide, et le 15 en cas d’urgence."
+      ],
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "nice-ng236",
+        "service-public-urgences"
+      ],
+      "continuity": {
+        "choice": "Avec Hugo, Bilal concentre la relecture complète à midi et ferme le carnet rouge à 17 h avec un élastique ; avec Samia, il réserve les nouvelles importantes au samedi matin, au café.",
+        "next": "La docteure Vasseur, neuropsychologue, a prévu un bilan de suivi pour préciser ce qui a changé depuis le retour à l’atelier."
+      },
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 6,
+      "slug": "bilal-bilan-de-suivi-attentif-a-la-langue",
+      "title": "Un bilan de suivi attentif à la langue et aux consignes",
+      "description": "Pendant son bilan de suivi, Bilal perd le fil d’une consigne longue et un mot lui vient d’abord en arabe. Il hésite, puis demande qu’on reformule.",
+      "context": "au service de réadaptation un mardi matin",
+      "topics": [
+        "Trouble amnésique",
+        "bilan neuropsychologique",
+        "langue et culture"
+      ],
+      "clinical_focus": "Bilan de suivi attentif à la langue",
+      "clinical_intro": "L’évaluation du trouble amnésique associe le récit de la personne, celui de proches ou des observations, et des tests standardisés ou une autre évaluation chiffrée. La langue, la culture et la compréhension des consignes peuvent influencer les résultats et doivent être prises en compte. Bilal, déjà diagnostiqué, passe un bilan de suivi et ose signaler ce qui le gêne.",
+      "opening": "Mardi, neuf heures. Six semaines après la livraison du chêne, Bilal attend dans le couloir du service de réadaptation, au deuxième étage, sur une chaise en bois blond qu’il a déjà jugée : du hêtre, assemblé à la colle, il ne tiendra pas dix ans. Dans la poche de sa veste, le carnet rouge. Hier, à midi, il y a recopié trois situations de l’atelier pour les montrer : le camion attendu un lundi pour rien, l’appel d’Odile, l’animatrice de la maison de quartier, effacé de sa tête ; la date de retour promise à Rachid, l’un des habitants du banc.\n\nLa docteure Anne Vasseur, la neuropsychologue qui suit Bilal depuis son retour, vient le chercher. Elle explique que ce bilan de suivi doit préciser ce qui a changé depuis le premier, et à quoi serviront les résultats. Il écoute, ses mains de sculpteur posées à plat sur les genoux.\n\nPendant une partie de la séance, elle lit une consigne plus longue que les autres. Au milieu, Bilal décroche. Il entend les mots un par un, mais la phrase entière lui file entre les doigts comme un copeau trop fin. Il commence la tâche quand même, sans être sûr de ce qu’on attend.\n\nUn peu plus tard, il doit raconter quelque chose avec ses propres mots. Le mot juste lui vient d’abord en arabe, la langue de sa mère, celle qu’il parlait dans la cuisine de Joué-lès-Tours avant d’entrer en apprentissage. Il le garde dans la bouche, cherche l’équivalent français, le trouve trop tard. Il a soudain l’impression d’être jugé sur sa mémoire alors qu’il cherchait un mot qu’il connaît très bien, dans une autre langue.\n\nIl pourrait se taire. Il a toujours détesté se plaindre devant les gens en blouse. Il serre les poings, puis les desserre.\n\n« Docteure, la consigne d’avant, je ne l’ai pas comprise jusqu’au bout. Et là, le mot m’est venu en arabe d’abord. Est-ce que ça compte dans ce que vous mesurez ? »",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Une évaluation qui doit tenir compte de la personne réelle",
+          "text": "L’évaluation d’un trouble amnésique repose sur plusieurs sources : ce que rapporte la personne, ce qu’observent un proche ou le clinicien, et une performance mesurée par des tests neuropsychologiques standardisés ou, à défaut, une autre évaluation clinique chiffrée. L’OMS rappelle que la langue, la culture, les limites de traduction et la compréhension des consignes influencent les résultats ; des tests non adaptés à la population concernée laissent plus de place au jugement clinique. Bilal a grandi entre l’arabe familial et le français de l’apprentissage. En signalant une consigne mal comprise et un mot venu dans une autre langue, il donne à la neuropsychologue une information utile pour interpréter le bilan, sans en connaître le détail."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment la langue et les consignes pèsent-elles sur un bilan ?",
+          "points": [
+            {
+              "heading": "Une consigne longue qui échappe",
+              "text": "Une instruction mal comprise peut fausser une tâche sans rapport avec la capacité qu’elle cherche à évaluer.",
+              "examples": [
+                "Bilal entend chaque mot mais perd le sens de la phrase entière.",
+                "Il commence la tâche sans être sûr de ce qui lui est demandé."
+              ]
+            },
+            {
+              "heading": "Un mot qui arrive dans une autre langue",
+              "text": "Chez une personne qui a grandi avec plusieurs langues, un mot peut se présenter d’abord dans la langue familiale.",
+              "examples": [
+                "Le mot juste lui vient en arabe, la langue de sa mère.",
+                "Il trouve l’équivalent français, mais trop tard à son goût."
+              ]
+            },
+            {
+              "heading": "Le sentiment d’être jugé",
+              "text": "La situation d’évaluation peut faire craindre que chaque hésitation soit comptée contre soi.",
+              "examples": [
+                "Bilal se sent jugé sur sa mémoire alors qu’il cherchait un mot connu.",
+                "Il hésite à parler par peur de paraître se plaindre."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour participer activement à son bilan",
+          "points": [
+            {
+              "heading": "Préparer des exemples de la vie réelle",
+              "objective": "Donner au clinicien des situations concrètes à côté des résultats.",
+              "exercise": [
+                "Choisir dans ses notes deux ou trois situations récentes où l’oubli a compté.",
+                "Écrire pour chacune ce qui s’est passé et ce que cela a changé.",
+                "Les apporter au rendez-vous, sans chercher à en tirer soi-même une conclusion."
+              ],
+              "benefit": "Ces exemples peuvent aider à relier le bilan au quotidien, sans le remplacer."
+            },
+            {
+              "heading": "Signaler une difficulté de compréhension",
+              "objective": "Permettre au professionnel de tenir compte de la langue et des consignes.",
+              "exercise": [
+                "Dire dès qu’on le remarque qu’une consigne n’a pas été comprise.",
+                "Préciser sa ou ses langues, y compris celles de l’enfance.",
+                "Demander qu’on reformule plutôt que de deviner."
+              ],
+              "benefit": "Le clinicien peut interpréter les résultats avec ces éléments ; c’est à lui d’en juger l’effet."
+            },
+            {
+              "heading": "Demander ce que le bilan permet de décider",
+              "objective": "Comprendre l’usage du bilan sans en attendre un verdict.",
+              "exercise": [
+                "Demander au début à quoi serviront les résultats.",
+                "Indiquer un objectif concret que l’on voudrait travailler.",
+                "Choisir avec qui les conclusions peuvent être partagées."
+              ],
+              "benefit": "Le bilan peut devenir un point de départ pour la réadaptation, en respectant l’accord de la personne."
+            }
+          ]
+        }
+      ],
+      "ending_title": "La consigne redite autrement",
+      "ending": "La docteure Vasseur pose son stylo. « Oui, ça compte, et c’est bien de me le dire. » Elle reformule la consigne en deux phrases courtes et lui propose de reprendre ce passage. Puis elle écrit quelque chose dans la marge de son dossier ; Bilal voit seulement qu’elle a souligné le mot « arabe ». À la fin, il lui montre les trois situations du carnet rouge. Elle les lit, demande ce qu’il aimerait travailler dans les semaines qui viennent. Il pense à la défonceuse neuve livrée vendredi, encore dans son carton sous l’établi de Martine, son associée. « Il faut que j’apprenne une machine que je ne connais pas. D’habitude j’apprends en me trompant. » Elle explique que le bilan sert justement à ajuster les objectifs de réadaptation, et lui demande s’il accepte qu’elle transmette cet objectif à Hugo Marchal, l’ergothérapeute. Il accepte. Les résultats seront repris au prochain rendez-vous. Dans le tramway, Bilal note : « Défonceuse : apprendre autrement. Hugo appelle Martine ? » Il ne sait pas encore ce que « autrement » voudra dire.",
+      "conclusion": "Un bilan de suivi n’est pas un examen de mémoire isolé : il associe des tests, des observations et le récit de la personne, et doit tenir compte de sa langue et de sa compréhension des consignes. En osant parler, Bilal en fait un outil pour fixer un objectif concret.",
+      "mirror": [
+        "Avant le rendez-vous, un proche peut proposer : « Tu veux qu’on relise ensemble les exemples que tu as notés ? », puis laisser la personne choisir ceux qu’elle apporte. Après, il peut demander : « Qu’est-ce que tu veux bien me dire du bilan ? » au lieu d’exiger des résultats. Il ne fait pas passer d’exercices de mémoire à la maison et ne commente pas la langue dans laquelle les mots viennent ; le bilan et son interprétation restent l’affaire de l’équipe de soins."
+      ],
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "nice-ng236"
+      ],
+      "continuity": {
+        "choice": "Bilal signale la consigne mal comprise et sa langue familiale ; la docteure Vasseur reformule, note ses remarques et, avec son accord, transmet à Hugo l’objectif d’apprendre autrement la défonceuse neuve livrée le vendredi précédent.",
+        "next": "À l’atelier, Hugo et Martine préparent un apprentissage de la défonceuse qui évite les essais au hasard."
+      },
+      "diagnostic_stage": "known"
     }
   ]
 }

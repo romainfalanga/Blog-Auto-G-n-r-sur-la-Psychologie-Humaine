@@ -26129,6 +26129,486 @@
     "clinical_code": "6C70",
     "clinical_diagnosis": "Pyromanie"
   },
+  "posts/comprendre-et-maitriser-ses-emotions/loubna-amelioration-evolution-suivi": {
+    "character": "Loubna",
+    "character_id": "loubna",
+    "keywords": [
+      "Amélioration rapportée",
+      "Évolution du trouble",
+      "Suivi maintenu"
+    ],
+    "character_keywords": [
+      "Trouble paraphilique impliquant un comportement solitaire ou des individus consentants",
+      "Souffrance et préférences",
+      "Consentement et limites",
+      "Accompagnement choisi",
+      "Retentissement quotidien"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "cf6d017396113f913f4dafa89a602e46746a5dad9d81c5386ff71647efd88e8b",
+    "summary": "Mardi matin, Loubna ouvre la version numérique du programme de la petite salle d’exposition. C’est le fichier qu’elle doit remettre à Salomé, la directrice de la salle, à la fin de la semaine. Elle commence par la page des horaires. Le bloc des horaires, celui qu’elle déplaçait puis remettait à sa place il y a quelques semaines, reste cette fois où elle l’a posé. Elle aligne le titre, vérifie l’espace en dessous, coche la ligne dans son carnet orange et passe à la page suivante. À midi, quatre corrections sur sept sont faites. Elle se surprend à déjeuner assise, l’ordinateur fermé.\n\n[…]\n\nJeudi, Loubna se rend au cabinet comme prévu. Elle lit sa feuille à Benali : le bloc des horaires qui ne bouge plus, quatre corrections faites en une matinée, des nuits plus reposantes, mais pas toutes. Elle lit aussi la troisième ligne. Benali ne lui répond ni que c’est fini, ni que tout reviendra forcément. Elle lui dit que cette période compte, qu’elle sera reprise avec les autres, et propose de garder le rythme convenu jusqu’à leur prochain point de réévaluation. Loubna accepte. Le vendredi matin, sur un créneau qu’elle avait laissé libre, elle termine les trois dernières corrections et envoie la version numérique à Salomé avec une ligne : « À vérifier de ton côté avant validation. » Salomé répond qu’elle l’ouvrira lundi. Loubna referme l’ordinateur contente de sa semaine, sans savoir ce que la suivante lui demandera.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Mardi matin, Loubna ouvre la version numérique du programme de la petite salle d’exposition. C’est le fichier qu’elle doit remettre à Salomé, la directrice de la salle, à la fin de la semaine. Elle commence par la page des horaires. Le bloc des horaires, celui qu’elle déplaçait puis remettait à sa place il y a quelques semaines, reste cette fois où elle l’a posé. Elle aligne le titre, vérifie l’espace en dessous, coche la ligne dans son carnet orange et passe à la page suivante. À midi, quatre corrections sur sept sont faites. Elle se surprend à déjeuner assise, l’ordinateur fermé.",
+        "start": 2,
+        "end": 590
+      },
+      {
+        "quote": "Jeudi, Loubna se rend au cabinet comme prévu. Elle lit sa feuille à Benali : le bloc des horaires qui ne bouge plus, quatre corrections faites en une matinée, des nuits plus reposantes, mais pas toutes. Elle lit aussi la troisième ligne. Benali ne lui répond ni que c’est fini, ni que tout reviendra forcément. Elle lui dit que cette période compte, qu’elle sera reprise avec les autres, et propose de garder le rythme convenu jusqu’à leur prochain point de réévaluation. Loubna accepte. Le vendredi matin, sur un créneau qu’elle avait laissé libre, elle termine les trois dernières corrections et envoie la version numérique à Salomé avec une ligne : « À vérifier de ton côté avant validation. » Salomé répond qu’elle l’ouvrira lundi. Loubna referme l’ordinateur contente de sa semaine, sans savoir ce que la suivante lui demandera.",
+        "start": 5715,
+        "end": 6548
+      }
+    ],
+    "canonical_concept": "Une amélioration ne tranche pas l’évolution",
+    "context": "entre le fichier numérique et le rendez-vous de suivi",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour faire place aux améliorations dans le suivi"
+    ],
+    "clinical_code": "6D36",
+    "clinical_diagnosis": "Trouble paraphilique impliquant un comportement solitaire ou des individus consentants"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/loubna-changements-recents-reevaluation": {
+    "character": "Loubna",
+    "character_id": "loubna",
+    "keywords": [
+      "Changements récents",
+      "Réévaluation",
+      "Suivi adapté"
+    ],
+    "character_keywords": [
+      "Trouble paraphilique impliquant un comportement solitaire ou des individus consentants",
+      "Souffrance et préférences",
+      "Consentement et limites",
+      "Accompagnement choisi",
+      "Retentissement quotidien"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "7529cf5684396b3011daa22135f3d5e9a707fc9a9e580d338ec3923f0a319d9b",
+    "summary": "Le matin du rendez-vous, Loubna ouvre son ordinateur puis reste devant la liste des fichiers. Le programme imprimé a sa série de corrections repérées ; elle sait comment les terminer. La version numérique, elle, lui paraît trop vaste pour être ouverte. Elle n’a pas l’impression habituelle de perdre le fil au milieu d’une tâche. Cette fois, c’est le démarrage lui-même qui lui demande un effort qu’elle remarque.\n\n[…]\n\nÀ la fin de la consultation, Benali n’annonce aucun nouveau diagnostic. Elle donne à Loubna un nouveau rendez-vous dans dix jours et lui rappelle le numéro du cabinet : « Si les nuits empirent ou si quelque chose vous inquiète d’ici là, appelez-moi sans attendre la date. » Loubna écrit ensuite à Salomé : la remise imprimée est maintenue, mais elle demande quelques jours supplémentaires pour la version numérique. Salomé accepte ce report limité et confirme les deux étapes. Loubna n’a pas une explication totale de ses nuits ; elle a une suite de suivi et un calendrier qui reconnaît la difficulté actuelle.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Le matin du rendez-vous, Loubna ouvre son ordinateur puis reste devant la liste des fichiers. Le programme imprimé a sa série de corrections repérées ; elle sait comment les terminer. La version numérique, elle, lui paraît trop vaste pour être ouverte. Elle n’a pas l’impression habituelle de perdre le fil au milieu d’une tâche. Cette fois, c’est le démarrage lui-même qui lui demande un effort qu’elle remarque.",
+        "start": 2,
+        "end": 415
+      },
+      {
+        "quote": "À la fin de la consultation, Benali n’annonce aucun nouveau diagnostic. Elle donne à Loubna un nouveau rendez-vous dans dix jours et lui rappelle le numéro du cabinet : « Si les nuits empirent ou si quelque chose vous inquiète d’ici là, appelez-moi sans attendre la date. » Loubna écrit ensuite à Salomé : la remise imprimée est maintenue, mais elle demande quelques jours supplémentaires pour la version numérique. Salomé accepte ce report limité et confirme les deux étapes. Loubna n’a pas une explication totale de ses nuits ; elle a une suite de suivi et un calendrier qui reconnaît la difficulté actuelle.",
+        "start": 4510,
+        "end": 5120
+      }
+    ],
+    "canonical_concept": "Réévaluer une difficulté nouvelle",
+    "context": "au point clinique convenu",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour préparer une réévaluation utile"
+    ],
+    "clinical_code": "6D36",
+    "clinical_diagnosis": "Trouble paraphilique impliquant un comportement solitaire ou des individus consentants"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/loubna-diagnostic-perimetre-risque": {
+    "character": "Loubna",
+    "character_id": "loubna",
+    "keywords": [
+      "Fondement du diagnostic",
+      "Risque circonscrit",
+      "Questions au professionnel"
+    ],
+    "character_keywords": [
+      "Trouble paraphilique impliquant un comportement solitaire ou des individus consentants",
+      "Souffrance et préférences",
+      "Consentement et limites",
+      "Accompagnement choisi",
+      "Retentissement quotidien"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "dc150877a2682483739c01e8c264fbb1dc2cc392811434788405905d844e256b",
+    "summary": "La chaise que Léonie, sa compagne, occupait lors de l’entretien partagé est libre. Loubna est venue seule, comme prévu, et ne sort que sa feuille de questions. Le carnet orange est resté à la maison avec les maquettes. Elle commence par dire que la conversation à trois l’a aidée à comprendre ce qu’elle pouvait demander à sa partenaire. Puis elle regarde une phrase qu’elle avait hésité à écrire : « Est-ce que mon diagnostic veut dire que je suis forcément dangereuse ? »\n\n[…]\n\nLoubna reformule la réponse : son diagnostic ne lui attribue pas tous les fondements possibles de la catégorie. Elle sait pourquoi sa souffrance a été retenue et à qui adresser une question nouvelle. Elle ne demande pas à Léonie de confirmer cette conclusion. En sortant, elle répond à Salomé qu’elle apportera le prototype imprimé à leur réunion. Ce rendez-vous portera sur les titres, les pages et ce qui reste incomplet. Le retard graphique devra être discuté pour lui-même.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "La chaise que Léonie, sa compagne, occupait lors de l’entretien partagé est libre. Loubna est venue seule, comme prévu, et ne sort que sa feuille de questions. Le carnet orange est resté à la maison avec les maquettes. Elle commence par dire que la conversation à trois l’a aidée à comprendre ce qu’elle pouvait demander à sa partenaire. Puis elle regarde une phrase qu’elle avait hésité à écrire : « Est-ce que mon diagnostic veut dire que je suis forcément dangereuse ? »",
+        "start": 2,
+        "end": 475
+      },
+      {
+        "quote": "Loubna reformule la réponse : son diagnostic ne lui attribue pas tous les fondements possibles de la catégorie. Elle sait pourquoi sa souffrance a été retenue et à qui adresser une question nouvelle. Elle ne demande pas à Léonie de confirmer cette conclusion. En sortant, elle répond à Salomé qu’elle apportera le prototype imprimé à leur réunion. Ce rendez-vous portera sur les titres, les pages et ce qui reste incomplet. Le retard graphique devra être discuté pour lui-même.",
+        "start": 4677,
+        "end": 5154
+      }
+    ],
+    "canonical_concept": "Le risque corporel a un périmètre",
+    "context": "en entretien individuel",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour poser une question de sécurité au bon interlocuteur"
+    ],
+    "clinical_code": "6D36",
+    "clinical_diagnosis": "Trouble paraphilique impliquant un comportement solitaire ou des individus consentants"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/loubna-fin-projet-continuite-soin": {
+    "character": "Loubna",
+    "character_id": "loubna",
+    "keywords": [
+      "Livrables réceptionnés",
+      "Continuité du soin",
+      "Projet suivant"
+    ],
+    "character_keywords": [
+      "Trouble paraphilique impliquant un comportement solitaire ou des individus consentants",
+      "Souffrance et préférences",
+      "Consentement et limites",
+      "Accompagnement choisi",
+      "Retentissement quotidien"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "e8ef222606ec01c1d78dd19c8f43b5058a12a6f78b0bdeb5624af2e0dbb3ef99",
+    "summary": "Lundi, Salomé a ouvert la version numérique avant l’arrivée de Loubna. Dans la petite salle d’exposition qu’elle dirige, l’écran de l’accueil affiche la page des horaires ; à côté, une pile du programme imprimé attend les premiers visiteurs. Salomé fait défiler le fichier, prend un exemplaire papier et compare les deux à voix haute : les titres, les dates, le plan de la salle. « Tout correspond. Et on lit les titres depuis l’autre bout de la pièce. » Loubna répond que les chuchotements imprimés ont été définitivement congédiés.\n\n[…]\n\nLéonie feuillette le programme debout dans l’entrée, puis s’assoit pour regarder le plan de la salle. « Ça a l’air simple, et je sais que ça ne l’était pas. » Loubna sourit. Elle n’explique pas davantage ; Léonie ne le demande pas. Elles dînent en parlant de la librairie, du pain trop cuit et d’un film à voir le week-end. Le lendemain, Loubna répond à la libraire : elle accepte l’affiche de rentrée, avec une première piste en grands caractères sur fond clair, et décline pour l’instant le catalogue. Elle fixe un délai qui laisse libres ses créneaux de suivi. Mercredi, elle se rend au rendez-vous avec Benali. Elle raconte la fin du projet, l’envie de rayer la séance, la nouvelle commande. Elles fixent la date du point suivant. Rien n’est clos sur le plan clinique, et Loubna n’attend pas de verdict. Elle a terminé ce qu’elle avait promis à la salle et garde l’accompagnement qu’elle a choisi.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Lundi, Salomé a ouvert la version numérique avant l’arrivée de Loubna. Dans la petite salle d’exposition qu’elle dirige, l’écran de l’accueil affiche la page des horaires ; à côté, une pile du programme imprimé attend les premiers visiteurs. Salomé fait défiler le fichier, prend un exemplaire papier et compare les deux à voix haute : les titres, les dates, le plan de la salle. « Tout correspond. Et on lit les titres depuis l’autre bout de la pièce. » Loubna répond que les chuchotements imprimés ont été définitivement congédiés.",
+        "start": 2,
+        "end": 535
+      },
+      {
+        "quote": "Léonie feuillette le programme debout dans l’entrée, puis s’assoit pour regarder le plan de la salle. « Ça a l’air simple, et je sais que ça ne l’était pas. » Loubna sourit. Elle n’explique pas davantage ; Léonie ne le demande pas. Elles dînent en parlant de la librairie, du pain trop cuit et d’un film à voir le week-end. Le lendemain, Loubna répond à la libraire : elle accepte l’affiche de rentrée, avec une première piste en grands caractères sur fond clair, et décline pour l’instant le catalogue. Elle fixe un délai qui laisse libres ses créneaux de suivi. Mercredi, elle se rend au rendez-vous avec Benali. Elle raconte la fin du projet, l’envie de rayer la séance, la nouvelle commande. Elles fixent la date du point suivant. Rien n’est clos sur le plan clinique, et Loubna n’attend pas de verdict. Elle a terminé ce qu’elle avait promis à la salle et garde l’accompagnement qu’elle a choisi.",
+        "start": 5207,
+        "end": 6108
+      }
+    ],
+    "canonical_concept": "Le projet se termine, le soin continue",
+    "context": "à la petite salle d’exposition puis à la maison",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour clore un projet sans fermer le suivi"
+    ],
+    "clinical_code": "6D36",
+    "clinical_diagnosis": "Trouble paraphilique impliquant un comportement solitaire ou des individus consentants"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/loubna-objectifs-soin-individualise": {
+    "character": "Loubna",
+    "character_id": "loubna",
+    "keywords": [
+      "Objectifs choisis",
+      "Soin individualisé",
+      "Respect de la sexualité"
+    ],
+    "character_keywords": [
+      "Trouble paraphilique impliquant un comportement solitaire ou des individus consentants",
+      "Souffrance et préférences",
+      "Consentement et limites",
+      "Accompagnement choisi",
+      "Retentissement quotidien"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "2b4b188c1313386dc04d3ed28ab3dafb6d52ce25b57805e96ec531cb16c43410",
+    "summary": "Dix jours après la consultation sur son sommeil, Loubna arrive au cabinet de la docteure Benali, la médecin qui la suit en santé sexuelle, avec sa feuille pliée en deux. Elle a gardé ce rendez-vous rapproché, n’a pas eu besoin d’appeler entre-temps et a préparé les dernières corrections du programme imprimé. Le numérique bénéficie du report accepté par Salomé, qui dirige la salle d’exposition. Cette répartition lui paraît plus honnête, mais une question lui manque encore : vers quoi le suivi est-il censé aller ?\n\n[…]\n\nAvant la fin du rendez-vous, Loubna écrit sur sa feuille ce qu’elles ont décidé : continuer à parler de sa souffrance et de ce qui bloque ses journées, garder un œil sur ses nuits, et lui laisser dire ce qui ne lui convient pas. Benali fixe le rendez-vous suivant dans deux semaines. Après le rendez-vous, Loubna remet le programme imprimé à Salomé. La responsable parcourt les pages et accepte cette version. Loubna sourit franchement. Le numérique reste à terminer, et la satisfaction de cette première remise n’a pas besoin de devenir une conclusion clinique.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Dix jours après la consultation sur son sommeil, Loubna arrive au cabinet de la docteure Benali, la médecin qui la suit en santé sexuelle, avec sa feuille pliée en deux. Elle a gardé ce rendez-vous rapproché, n’a pas eu besoin d’appeler entre-temps et a préparé les dernières corrections du programme imprimé. Le numérique bénéficie du report accepté par Salomé, qui dirige la salle d’exposition. Cette répartition lui paraît plus honnête, mais une question lui manque encore : vers quoi le suivi est-il censé aller ?",
+        "start": 2,
+        "end": 519
+      },
+      {
+        "quote": "Avant la fin du rendez-vous, Loubna écrit sur sa feuille ce qu’elles ont décidé : continuer à parler de sa souffrance et de ce qui bloque ses journées, garder un œil sur ses nuits, et lui laisser dire ce qui ne lui convient pas. Benali fixe le rendez-vous suivant dans deux semaines. Après le rendez-vous, Loubna remet le programme imprimé à Salomé. La responsable parcourt les pages et accepte cette version. Loubna sourit franchement. Le numérique reste à terminer, et la satisfaction de cette première remise n’a pas besoin de devenir une conclusion clinique.",
+        "start": 4634,
+        "end": 5196
+      }
+    ],
+    "canonical_concept": "Un soin individualisé sans normalisation",
+    "context": "au rendez-vous suivant",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour participer aux décisions de suivi"
+    ],
+    "clinical_code": "6D36",
+    "clinical_diagnosis": "Trouble paraphilique impliquant un comportement solitaire ou des individus consentants"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/loubna-partage-informations-vie-privee": {
+    "character": "Loubna",
+    "character_id": "loubna",
+    "keywords": [
+      "Vie privée",
+      "Disponibilité",
+      "Information utile"
+    ],
+    "character_keywords": [
+      "Trouble paraphilique impliquant un comportement solitaire ou des individus consentants",
+      "Souffrance et préférences",
+      "Consentement et limites",
+      "Accompagnement choisi",
+      "Retentissement quotidien"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "b329524f39098f6aa77a29dedc72e3d787317a0e5495e24bc866704893ba2352",
+    "summary": "Le programme imprimé est posé sur une étagère derrière Salomé, qui dirige la salle d’exposition et lui a commandé ce programme. Loubna le remarque pendant qu’elles parlent de la version numérique : il a déjà trouvé sa place dans la salle. Salomé demande à quel moment elle pourra ouvrir le fichier terminé. La question est pratique, sans sous-entendu. Loubna commence pourtant à préparer une explication sur son dernier rendez-vous, les questions posées, les suites convenues.\n\n[…]\n\nSalomé reçoit la date et la liste des dernières corrections. Le lendemain, Loubna et Léonie prennent le temps de parler comme elles l’avaient convenu. Loubna raconte surtout le programme posé dans la salle et le soulagement de ne plus devoir défendre une remise impossible. Léonie écoute, puis raconte aussi sa propre journée. Aucun compte rendu clinique n’est requis. Plus tard, Loubna range les notes de suivi séparément du carnet orange ; les maquettes pourront circuler sans emporter ce qu’elle a choisi de garder privé.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Le programme imprimé est posé sur une étagère derrière Salomé, qui dirige la salle d’exposition et lui a commandé ce programme. Loubna le remarque pendant qu’elles parlent de la version numérique : il a déjà trouvé sa place dans la salle. Salomé demande à quel moment elle pourra ouvrir le fichier terminé. La question est pratique, sans sous-entendu. Loubna commence pourtant à préparer une explication sur son dernier rendez-vous, les questions posées, les suites convenues.",
+        "start": 2,
+        "end": 478
+      },
+      {
+        "quote": "Salomé reçoit la date et la liste des dernières corrections. Le lendemain, Loubna et Léonie prennent le temps de parler comme elles l’avaient convenu. Loubna raconte surtout le programme posé dans la salle et le soulagement de ne plus devoir défendre une remise impossible. Léonie écoute, puis raconte aussi sa propre journée. Aucun compte rendu clinique n’est requis. Plus tard, Loubna range les notes de suivi séparément du carnet orange ; les maquettes pourront circuler sans emporter ce qu’elle a choisi de garder privé.",
+        "start": 4358,
+        "end": 4882
+      }
+    ],
+    "canonical_concept": "Partager sans devoir tout expliquer",
+    "context": "au travail puis à la maison",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour partager selon le besoin du moment"
+    ],
+    "clinical_code": "6D36",
+    "clinical_diagnosis": "Trouble paraphilique impliquant un comportement solitaire ou des individus consentants"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/loubna-partenaire-consentement-entretien": {
+    "character": "Loubna",
+    "character_id": "loubna",
+    "keywords": [
+      "Accord partagé",
+      "Limites relationnelles",
+      "Place de la partenaire"
+    ],
+    "character_keywords": [
+      "Trouble paraphilique impliquant un comportement solitaire ou des individus consentants",
+      "Souffrance et préférences",
+      "Consentement et limites",
+      "Accompagnement choisi",
+      "Retentissement quotidien"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "bd8c4807fa627e3371be7645913e52c88dd4fbb58bdf895fc26928faa64473f0",
+    "summary": "Léonie, sa compagne, sort deux assiettes du placard quand Loubna lui parle de son prochain rendez-vous avec la docteure Benali, la médecin qui la suit en santé sexuelle. « Benali a dit que nous pourrions avoir un moment ensemble. Enfin, si tu le veux. » Elle corrige sa première phrase parce qu’elle entend déjà ce qu’elle pourrait laisser croire : que l’entretien est décidé et qu’il ne manque plus qu’une accompagnatrice.\n\n[…]\n\nLa partie d’entretien a lieu le jeudi suivant, au cabinet. Benali commence par une question à chacune : « Vous êtes toujours d’accord pour parler seulement de vos soirées après les journées difficiles ? » Toutes deux répondent oui. Léonie dit qu’elle peut parfois écouter une journée difficile, mais pas être disponible à chaque retour. Loubna propose de demander avant de commencer. Elles essaient une phrase simple : « Est-ce que tu as de la place pour en parler maintenant ? » L’entretien se termine sans tâche de surveillance pour Léonie. Loubna conserve un temps individuel distinct pour une autre interrogation, sur ce que le diagnostic signifie ou non en matière de danger.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Léonie, sa compagne, sort deux assiettes du placard quand Loubna lui parle de son prochain rendez-vous avec la docteure Benali, la médecin qui la suit en santé sexuelle. « Benali a dit que nous pourrions avoir un moment ensemble. Enfin, si tu le veux. » Elle corrige sa première phrase parce qu’elle entend déjà ce qu’elle pourrait laisser croire : que l’entretien est décidé et qu’il ne manque plus qu’une accompagnatrice.",
+        "start": 2,
+        "end": 425
+      },
+      {
+        "quote": "La partie d’entretien a lieu le jeudi suivant, au cabinet. Benali commence par une question à chacune : « Vous êtes toujours d’accord pour parler seulement de vos soirées après les journées difficiles ? » Toutes deux répondent oui. Léonie dit qu’elle peut parfois écouter une journée difficile, mais pas être disponible à chaque retour. Loubna propose de demander avant de commencer. Elles essaient une phrase simple : « Est-ce que tu as de la place pour en parler maintenant ? » L’entretien se termine sans tâche de surveillance pour Léonie. Loubna conserve un temps individuel distinct pour une autre interrogation, sur ce que le diagnostic signifie ou non en matière de danger.",
+        "start": 4269,
+        "end": 4949
+      }
+    ],
+    "canonical_concept": "Consentement et place de la partenaire",
+    "context": "à la maison puis au cabinet",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour préparer un entretien partagé"
+    ],
+    "clinical_code": "6D36",
+    "clinical_diagnosis": "Trouble paraphilique impliquant un comportement solitaire ou des individus consentants"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/loubna-preoccupations-attention-interrompue": {
+    "character": "Loubna",
+    "character_id": "loubna",
+    "keywords": [
+      "Persistance",
+      "Attention interrompue",
+      "Tâche limitée"
+    ],
+    "character_keywords": [
+      "Trouble paraphilique impliquant un comportement solitaire ou des individus consentants",
+      "Souffrance et préférences",
+      "Consentement et limites",
+      "Accompagnement choisi",
+      "Retentissement quotidien"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "3d05f677bbc6ad197843bfbe5dd34b9bbde1f0080ac6d40daf8516d5d5dd35d4",
+    "summary": "Loubna déplace le bloc des horaires vers le bas, puis le remet à sa place. Le résultat lui paraît familier : elle vient de faire exactement la même chose. Dans son carnet orange, une flèche relie le titre au premier paragraphe. La consigne est simple, presque trop simple pour être écrite : vérifier l’espace entre les deux. Pourtant, elle ne sait plus si elle l’a déjà vérifié ou seulement décidé.\n\n[…]\n\nLoubna envoie la maquette avec une phrase sur les pages encore à reprendre. Salomé confirme qu’elle peut déjà regarder l’ordre des informations. Le lendemain matin, pendant le court appel convenu avec Benali, Loubna décrit les déplacements répétés du bloc et la fatigue de devoir retrouver sa tâche. Puis elle ajoute : « J’ai encore peur que le diagnostic dise surtout que je ne suis pas dans la norme. » Benali propose d’en parler au cabinet, à son rendez-vous de la semaine suivante. Le fichier a quitté la table ; la question, elle, a trouvé un rendez-vous.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Loubna déplace le bloc des horaires vers le bas, puis le remet à sa place. Le résultat lui paraît familier : elle vient de faire exactement la même chose. Dans son carnet orange, une flèche relie le titre au premier paragraphe. La consigne est simple, presque trop simple pour être écrite : vérifier l’espace entre les deux. Pourtant, elle ne sait plus si elle l’a déjà vérifié ou seulement décidé.",
+        "start": 2,
+        "end": 400
+      },
+      {
+        "quote": "Loubna envoie la maquette avec une phrase sur les pages encore à reprendre. Salomé confirme qu’elle peut déjà regarder l’ordre des informations. Le lendemain matin, pendant le court appel convenu avec Benali, Loubna décrit les déplacements répétés du bloc et la fatigue de devoir retrouver sa tâche. Puis elle ajoute : « J’ai encore peur que le diagnostic dise surtout que je ne suis pas dans la norme. » Benali propose d’en parler au cabinet, à son rendez-vous de la semaine suivante. Le fichier a quitté la table ; la question, elle, a trouvé un rendez-vous.",
+        "start": 4376,
+        "end": 4936
+      }
+    ],
+    "canonical_concept": "Persistance et attention interrompue",
+    "context": "à la table de travail",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour garder une trace de la tâche interrompue"
+    ],
+    "clinical_code": "6D36",
+    "clinical_diagnosis": "Trouble paraphilique impliquant un comportement solitaire ou des individus consentants"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/loubna-rejet-social-et-souffrance": {
+    "character": "Loubna",
+    "character_id": "loubna",
+    "keywords": [
+      "Rejet social",
+      "Souffrance évaluée",
+      "Respect des préférences"
+    ],
+    "character_keywords": [
+      "Trouble paraphilique impliquant un comportement solitaire ou des individus consentants",
+      "Souffrance et préférences",
+      "Consentement et limites",
+      "Accompagnement choisi",
+      "Retentissement quotidien"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "cc78fdc5bfc60c8912a3136a7f4a3fbd55e5daadda093a725f3ffe3efb42eff9",
+    "summary": "« On entend encore des gens dire que certaines choses ne sont pas normales. » Loubna laisse la phrase au bord du bureau, comme si elle ne savait pas à qui elle appartenait. La remarque était générale, entendue au détour d’une conversation ; personne ne connaissait son suivi. Elle l’a pourtant emportée jusque chez la docteure Benali, la médecin qui la suit en santé sexuelle. Depuis l’envoi de la maquette provisoire, c’est cette phrase qu’elle voulait reprendre au cabinet.\n\n[…]\n\nLoubna ressort avec une formulation moins écrasante : elle demande de l’aide pour sa souffrance, pas une autorisation d’avoir ses préférences. Avant de partir, elle demande si Léonie pourrait venir à une partie d’entretien, uniquement pour parler de leurs échanges après les journées difficiles. Benali répond que cela peut être discuté si elles le souhaitent toutes les deux. Loubna n’inscrit pas encore le nom de Léonie au rendez-vous. Elle devra d’abord lui demander ce qu’elle accepterait de partager.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "« On entend encore des gens dire que certaines choses ne sont pas normales. » Loubna laisse la phrase au bord du bureau, comme si elle ne savait pas à qui elle appartenait. La remarque était générale, entendue au détour d’une conversation ; personne ne connaissait son suivi. Elle l’a pourtant emportée jusque chez la docteure Benali, la médecin qui la suit en santé sexuelle. Depuis l’envoi de la maquette provisoire, c’est cette phrase qu’elle voulait reprendre au cabinet.",
+        "start": 2,
+        "end": 477
+      },
+      {
+        "quote": "Loubna ressort avec une formulation moins écrasante : elle demande de l’aide pour sa souffrance, pas une autorisation d’avoir ses préférences. Avant de partir, elle demande si Léonie pourrait venir à une partie d’entretien, uniquement pour parler de leurs échanges après les journées difficiles. Benali répond que cela peut être discuté si elles le souhaitent toutes les deux. Loubna n’inscrit pas encore le nom de Léonie au rendez-vous. Elle devra d’abord lui demander ce qu’elle accepterait de partager.",
+        "start": 4354,
+        "end": 4859
+      }
+    ],
+    "canonical_concept": "Le rejet social ne suffit pas",
+    "context": "au cabinet de Benali",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour clarifier ce qui motive le suivi"
+    ],
+    "clinical_code": "6D36",
+    "clinical_diagnosis": "Trouble paraphilique impliquant un comportement solitaire ou des individus consentants"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/loubna-repetition-controle-compulsion": {
+    "character": "Loubna",
+    "character_id": "loubna",
+    "keywords": [
+      "Répétition",
+      "Clarification clinique",
+      "Absence d’auto-étiquette"
+    ],
+    "character_keywords": [
+      "Trouble paraphilique impliquant un comportement solitaire ou des individus consentants",
+      "Souffrance et préférences",
+      "Consentement et limites",
+      "Accompagnement choisi",
+      "Retentissement quotidien"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "7ed552634701fad98e2380c4aa2611c4e2d450964d63cb42f707e995165ed8af",
+    "summary": "« Quand quelque chose revient autant dans ma tête, j’appelle ça compulsif. » Loubna vient de raconter à la docteure Benali, la médecin qui la suit en santé sexuelle, les deux remises décidées avec Salomé, la directrice de la salle d’exposition. Le travail lui semble mieux réparti, mais le mot qu’elle a employé reste entre elles. Elle voudrait savoir s’il ajoute quelque chose à ce qui est déjà connu, ou s’il complique seulement la conversation.\n\n[…]\n\nLoubna reformule : le retour des préoccupations ne lui permet pas de se donner un second diagnostic. Benali confirme la distinction, puis lui demande ce qu’elle voulait encore aborder. Loubna parle de son sommeil récemment perturbé et de sa baisse d’élan. Benali lui demande depuis quand ses nuits ont changé et ce qui lui coûte le plus le matin. Loubna répond : « Une dizaine de jours, je crois. C’est surtout le démarrage. » Benali lui propose un rendez-vous consacré à ces changements le mardi suivant. Loubna note la date avant de ranger sa feuille. Elle ne sait pas encore ce qui explique cette période, mais elle ne repart pas avec une question importante laissée au fond du sac.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "« Quand quelque chose revient autant dans ma tête, j’appelle ça compulsif. » Loubna vient de raconter à la docteure Benali, la médecin qui la suit en santé sexuelle, les deux remises décidées avec Salomé, la directrice de la salle d’exposition. Le travail lui semble mieux réparti, mais le mot qu’elle a employé reste entre elles. Elle voudrait savoir s’il ajoute quelque chose à ce qui est déjà connu, ou s’il complique seulement la conversation.",
+        "start": 2,
+        "end": 449
+      },
+      {
+        "quote": "Loubna reformule : le retour des préoccupations ne lui permet pas de se donner un second diagnostic. Benali confirme la distinction, puis lui demande ce qu’elle voulait encore aborder. Loubna parle de son sommeil récemment perturbé et de sa baisse d’élan. Benali lui demande depuis quand ses nuits ont changé et ce qui lui coûte le plus le matin. Loubna répond : « Une dizaine de jours, je crois. C’est surtout le démarrage. » Benali lui propose un rendez-vous consacré à ces changements le mardi suivant. Loubna note la date avant de ranger sa feuille. Elle ne sait pas encore ce qui explique cette période, mais elle ne repart pas avec une question importante laissée au fond du sac.",
+        "start": 4255,
+        "end": 4940
+      }
+    ],
+    "canonical_concept": "Répétition et contrôle ne se confondent pas",
+    "context": "pendant le suivi",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour décrire sans s’attribuer une étiquette"
+    ],
+    "clinical_code": "6D36",
+    "clinical_diagnosis": "Trouble paraphilique impliquant un comportement solitaire ou des individus consentants"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/loubna-retentissement-charge-professionnelle": {
+    "character": "Loubna",
+    "character_id": "loubna",
+    "keywords": [
+      "Charge réelle",
+      "Livraisons distinctes",
+      "Retentissement professionnel"
+    ],
+    "character_keywords": [
+      "Trouble paraphilique impliquant un comportement solitaire ou des individus consentants",
+      "Souffrance et préférences",
+      "Consentement et limites",
+      "Accompagnement choisi",
+      "Retentissement quotidien"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "1c6589f61c67f5621aa7c2aa11040276e6cd6b6c6457b50cc864985bc7713ce6",
+    "summary": "Salomé, qui dirige la petite salle d’exposition pour laquelle Loubna conçoit le programme, pose le prototype imprimé au milieu de la table. Elle le tourne vers la fenêtre, suit du doigt les horaires et sourit devant le titre. « Cette fois, je le vois sans chercher. » Loubna répond que les chuchotements imprimés ont enfin haussé la voix. Pendant quelques secondes, elle retrouve le plaisir précis d’avoir rendu une page plus facile à lire.\n\n[…]\n\nSalomé accepte de recevoir d’abord le programme imprimé, puis sa version numérique. Loubna inscrit les deux étapes dans son message de confirmation et repart avec des corrections clairement identifiées. Elle ne promet pas une semaine parfaite. Lors du suivi suivant, elle rapporte le retard et la place des préoccupations dans sa journée. En cherchant ses mots, elle dit : « Je qualifie tout cela de compulsif, parce que ça revient. Est-ce vraiment le bon mot ? » La question ouvre un autre échange, distinct de leur calendrier de livraison.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Salomé, qui dirige la petite salle d’exposition pour laquelle Loubna conçoit le programme, pose le prototype imprimé au milieu de la table. Elle le tourne vers la fenêtre, suit du doigt les horaires et sourit devant le titre. « Cette fois, je le vois sans chercher. » Loubna répond que les chuchotements imprimés ont enfin haussé la voix. Pendant quelques secondes, elle retrouve le plaisir précis d’avoir rendu une page plus facile à lire.",
+        "start": 2,
+        "end": 442
+      },
+      {
+        "quote": "Salomé accepte de recevoir d’abord le programme imprimé, puis sa version numérique. Loubna inscrit les deux étapes dans son message de confirmation et repart avec des corrections clairement identifiées. Elle ne promet pas une semaine parfaite. Lors du suivi suivant, elle rapporte le retard et la place des préoccupations dans sa journée. En cherchant ses mots, elle dit : « Je qualifie tout cela de compulsif, parce que ça revient. Est-ce vraiment le bon mot ? » La question ouvre un autre échange, distinct de leur calendrier de livraison.",
+        "start": 4306,
+        "end": 4847
+      }
+    ],
+    "canonical_concept": "Retentissement professionnel et charge réelle",
+    "context": "à la petite salle d’exposition",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour négocier une remise réaliste"
+    ],
+    "clinical_code": "6D36",
+    "clinical_diagnosis": "Trouble paraphilique impliquant un comportement solitaire ou des individus consentants"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/loubna-souffrance-preference-atypique": {
+    "character": "Loubna",
+    "character_id": "loubna",
+    "keywords": [
+      "Souffrance clinique",
+      "Préférence atypique",
+      "Demande de clarification"
+    ],
+    "character_keywords": [
+      "Trouble paraphilique impliquant un comportement solitaire ou des individus consentants",
+      "Souffrance et préférences",
+      "Consentement et limites",
+      "Accompagnement choisi",
+      "Retentissement quotidien"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "960d60b72fe6b91e0c8c91abca734234a1fb716ed27e8446fb326f2575ee8d83",
+    "summary": "Le titre est trop petit. Loubna l’a vu dès l’ouverture du fichier, et Salomé, qui dirige la salle et lui a commandé ce programme, l’a signalé dans son dernier message. Il suffirait de reprendre la hiérarchie de la page pour que le programme de la petite salle d’exposition respire un peu. Pourtant, le curseur reste près du même mot. Loubna pose la main sur son carnet orange, où elle a dessiné deux dispositions possibles, puis la retire sans en choisir aucune.\n\n[…]\n\nÀ quinze heures, Benali l’appelle comme prévu. Loubna lit la question écrite sur sa feuille. Benali répond : « Nous ne soignons pas une préférence. Nous travaillons sur la souffrance qui vous a amenée à consulter. » Loubna ne retrouve pas instantanément sa concentration. Elle peut cependant répondre à Salomé : elle proposera une première maquette provisoire, avec les titres repris, avant de finir l’ensemble. Salomé accepte ce point de départ. Le fichier reste ouvert sur une page incomplète, mais la date annoncée ne dépend plus d’une promesse d’aller bien.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Le titre est trop petit. Loubna l’a vu dès l’ouverture du fichier, et Salomé, qui dirige la salle et lui a commandé ce programme, l’a signalé dans son dernier message. Il suffirait de reprendre la hiérarchie de la page pour que le programme de la petite salle d’exposition respire un peu. Pourtant, le curseur reste près du même mot. Loubna pose la main sur son carnet orange, où elle a dessiné deux dispositions possibles, puis la retire sans en choisir aucune.",
+        "start": 2,
+        "end": 464
+      },
+      {
+        "quote": "À quinze heures, Benali l’appelle comme prévu. Loubna lit la question écrite sur sa feuille. Benali répond : « Nous ne soignons pas une préférence. Nous travaillons sur la souffrance qui vous a amenée à consulter. » Loubna ne retrouve pas instantanément sa concentration. Elle peut cependant répondre à Salomé : elle proposera une première maquette provisoire, avec les titres repris, avant de finir l’ensemble. Salomé accepte ce point de départ. Le fichier reste ouvert sur une page incomplète, mais la date annoncée ne dépend plus d’une promesse d’aller bien.",
+        "start": 4430,
+        "end": 4991
+      }
+    ],
+    "canonical_concept": "Souffrance clinique et préférence atypique",
+    "context": "devant la première maquette",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour clarifier une demande d’aide"
+    ],
+    "clinical_code": "6D36",
+    "clinical_diagnosis": "Trouble paraphilique impliquant un comportement solitaire ou des individus consentants"
+  },
   "posts/comprendre-et-maitriser-ses-emotions/louise-concentration-facture-avel": {
     "character": "Louise",
     "character_id": "louise",

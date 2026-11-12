@@ -3,20 +3,14 @@
   "character_id": "loubna",
   "reviewer": "review_loubna",
   "reviewed_on": "2026-11-12",
-  "status": "revision_requested",
-  "summary": "Seconde lecture après corrections, sur le manuscrit 81ba4906 comparé à la version 5e5033f4 relue précédemment (commit 6ec3d1c). Épisodes 11 et 12, biographie et sujets inchangés. Les épisodes 1 à 10 présentent désormais Salomé, Benali et Léonie à leur première mention, et les formules procédurales des épisodes 1, 2, 4, 5, 7, 8 et 9 sont remplacées par des répliques et des dates concrètes. Branche de risque de l’épisode 5 : paraphrase orale simple, explication conforme au CDDR p.588, aucun risque attribué. Calendrier : appel du lendemain (2), cabinet la semaine suivante (3), jeudi suivant (4), mardi suivant (7→8), dix jours (8→9), environ deux semaines jusqu’au jeudi de 11, remise de fin de semaine suivante compatible avec 10–12. Consigne d’appel de l’épisode 8 proportionnée et sûre. Une seule correction reste ouverte : le pronom « celle-ci » de la fin de l’épisode 9 désigne désormais Benali au lieu de Loubna. Cette relecture ne constitue ni expertise clinique individuelle ni preuve de publication.",
+  "status": "passed",
+  "summary": "Troisième lecture après corrections, sur le manuscrit e17c9042 : depuis la version 81ba4906 seule la fin de l’épisode 9 (et sa continuité) change, et l’ensemble a été comparé à la version 5e5033f4 relue en premier. Épisodes 11 et 12, biographie et sujets inchangés. Les épisodes 1 à 10 présentent désormais Salomé, Benali et Léonie à leur première mention, et les formules procédurales des épisodes 1, 2, 4, 5, 7, 8 et 9 sont remplacées par des répliques et des dates concrètes. Branche de risque de l’épisode 5 : paraphrase orale simple, explication conforme au CDDR p.588, aucun risque attribué. Calendrier : appel du lendemain (2), cabinet la semaine suivante (3), jeudi suivant (4), mardi suivant (7→8), dix jours (8→9), environ deux semaines jusqu’au jeudi de 11, remise de fin de semaine suivante compatible avec 10–12. Consigne d’appel de l’épisode 8 proportionnée et sûre. La fin de l’épisode 9 nomme désormais Loubna pour la remise à Salomé. Aucune correction ouverte. Cette relecture ne constitue ni expertise clinique individuelle ni preuve de publication.",
   "files": {
     "editorial/clinical/designs/loubna.json": "106ac8ac5ea0a21cd963ab67deb5c664507c9f278ef62d7dd2b7d694e9c347e5",
     "editorial/clinical/dossiers/loubna.json": "d23ed9f437ea8b0c328f80a25daeee2e059b5a84a494b67cf5ebbd75cbea6021",
-    "editorial/clinical/loubna.json": "81ba4906aa9356f0801ceff7ee6ce7d7e6a15f708674b3f68e03b27ad44d0a98"
+    "editorial/clinical/loubna.json": "e17c90425e099d81462c06fcc223debb2af13f990744bb39b01dcd7dd5c549ae"
   },
-  "findings": [
-    {
-      "episode": 9,
-      "issue": "Dans la fin, la phrase « Benali fixe le rendez-vous suivant dans deux semaines. Après le rendez-vous, celle-ci remet le programme imprimé à Salomé. » fait de Benali, dernier sujet nommé, celle qui remet le programme : le pronom « celle-ci » est devenu fautif après la réécriture.",
-      "requested_change": "Remplacer « celle-ci remet le programme imprimé à Salomé » par « Loubna remet le programme imprimé à Salomé » (ou formulation équivalente nommant Loubna)."
-    }
-  ],
+  "findings": [],
   "episode_checks": [
     {
       "number": 1,
@@ -95,7 +89,7 @@
       "focus": "Un soin individualisé sans normalisation",
       "opening_quote": "Dix jours après la consultation sur son sommeil, Loubna arrive au cabinet de la docteure Benali, la médecin qui la suit en santé sexuelle, avec sa feuille pliée en deux.",
       "ending_quote": "Le numérique reste à terminer, et la satisfaction de cette première remise n’a pas besoin de devenir une conclusion clinique.",
-      "continuity_note": "Ouverture datée (dix jours après l’épisode 8, sans appel intermédiaire) et réponse explicite de Benali ; rendez-vous suivant « dans deux semaines », qui aboutit au jeudi de l’épisode 11 environ treize jours plus tard, approximation acceptable. Mais « Après le rendez-vous, celle-ci remet le programme imprimé à Salomé » suit désormais « Benali fixe… » : « celle-ci » désigne grammaticalement Benali.",
+      "continuity_note": "Ouverture datée (dix jours après l’épisode 8, sans appel intermédiaire) et réponse explicite de Benali ; rendez-vous suivant « dans deux semaines », qui aboutit au jeudi de l’épisode 11 environ treize jours plus tard, approximation acceptable. La fin nomme désormais Loubna comme celle qui remet le programme imprimé à Salomé, dans la fin comme dans continuity.choice ; l’enveloppe annoncée dans l’ouverture change bien de mains.",
       "clinical_note": "Absence de conversion, objectifs individualisés, non-transposition des recommandations WFSBP surtout masculines et médico-légales, absence d’efficacité revendiquée des démarches : conforme au dossier.",
       "relatives_note": "Salomé commente le programme sans l’attribuer au suivi ; Léonie peut partager sa satisfaction sans verdict et Loubna demande sa disponibilité. Concret et sûr."
     },

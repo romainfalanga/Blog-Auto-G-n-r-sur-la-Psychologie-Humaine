@@ -429,6 +429,216 @@
       },
       "clinical_focus": "Les symptômes fluctuent et s’aggravent le soir",
       "diagnostic_stage": "known"
+    },
+    {
+      "number": 5,
+      "slug": "hector-illusion-sonore-nuit-chariot",
+      "title": "Un bruit réel mal interprété au milieu de la nuit",
+      "description": "La nuit, le chariot de soins devient pour Hector une scie dangereuse. L’infirmière montre la vraie source du bruit sans se moquer ni approuver.",
+      "context": "la nuit du quatrième au cinquième jour",
+      "topics": [
+        "Delirium",
+        "illusion",
+        "réponse sans moquerie"
+      ],
+      "clinical_intro": "Pendant un delirium, les perceptions peuvent être altérées : un bruit réel peut être entendu comme autre chose, c’est ce qu’on appelle une illusion. Cela ne signifie pas que la personne devient folle. Dans la nuit du quatrième au cinquième jour, Hector croit entendre une scie dans le couloir ; l’infirmière lui montre la vraie source du bruit, sans lui donner raison ni rire de lui.",
+      "opening": "Il est deux heures dix, dans la nuit du quatrième au cinquième jour. Hector Ménard, 77 ans, charpentier retraité hospitalisé à Saumur pour une infection pulmonaire, dort par à-coups sous la veilleuse que l’équipe laisse désormais allumée. Dans le couloir, un chariot de soins avance sur le lino. Une de ses roues frotte. Le bruit monte, aigu, régulier, et s’arrête net devant la porte voisine, puis reprend.\n\nHector ouvre les yeux. Il connaît ce son. C’est une scie, il en est sûr, une lame qui attaque le bois trop vite, et derrière, un apprenti qui travaille sans lunettes ni casque. Il a vu un garçon se blesser comme ça en 1971, sur un chantier de Chinon. Son cœur cogne. Il appuie sur la sonnette, une fois, deux fois, puis appelle à voix haute : « Arrêtez la machine ! Il va se blesser ! Arrêtez-la ! »\n\nIl n’y a personne d’autre dans la chambre. La photo de l’atelier est sur la tablette, le calendrier en face, la case du jour entourée la veille, mais rien de tout cela ne compte face au bruit. Il tente de se redresser pour aller voir lui-même. Le drap lui colle aux jambes. Le bruit recommence, plus proche. Il crie encore, la voix cassée par la toux. La porte s’ouvre. Nadia, l’infirmière de nuit du service de médecine, entre sans précipitation.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Quand un bruit réel change de sens",
+          "text": "Le delirium peut altérer les perceptions. L’une des formes possibles est l’illusion : la personne perçoit un stimulus qui existe vraiment, un son, une ombre, un mouvement, mais elle l’interprète de travers. Ce n’est pas un signe de folie, ni la preuve d’une maladie psychiatrique : c’est une conséquence possible de l’attention et de la conscience perturbées, souvent plus fréquente la nuit, quand les repères visuels manquent. Pour Hector, le frottement d’une roue de chariot rejoint la mémoire d’un métier où une scie mal tenue pouvait blesser. La peur est réelle, même si le danger ne l’est pas. La réponse attendue des soignants est d’éclairer, de montrer la source du bruit, de ne pas confirmer l’idée erronée et de la corriger avec tact, sans moquerie."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment une illusion peut-elle surgir pendant un delirium ?",
+          "points": [
+            {
+              "heading": "Un son ordinaire prend une autre forme",
+              "text": "Un bruit banal de l’hôpital peut être entendu comme un son lié à la vie de la personne.",
+              "examples": [
+                "La roue qui frotte du chariot devient pour Hector une lame qui attaque le bois.",
+                "L’arrêt du bruit devant la porte voisine ressemble pour lui à une pause entre deux coupes."
+              ]
+            },
+            {
+              "heading": "Une peur pour quelqu’un d’autre",
+              "text": "L’illusion peut entraîner une inquiétude vive, parfois tournée vers une personne imaginée en danger.",
+              "examples": [
+                "Hector crie qu’on arrête la machine avant qu’un apprenti ne se blesse.",
+                "Il se rappelle un garçon blessé sur un chantier de Chinon en 1971."
+              ]
+            },
+            {
+              "heading": "Les repères de jour ne suffisent plus",
+              "text": "La nuit, les objets familiers peuvent passer au second plan face à une perception qui inquiète.",
+              "examples": [
+                "La photo de l’atelier et le calendrier sont dans la chambre, mais Hector ne les regarde pas.",
+                "Il essaie de se lever pour aller voir lui-même malgré le drap qui le retient."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour répondre à un bruit mal interprété",
+          "points": [
+            {
+              "heading": "Montrer la source réelle",
+              "objective": "Rattacher la perception à ce qui existe vraiment.",
+              "exercise": [
+                "Éclairer la pièce doucement avant de parler.",
+                "Désigner la source du bruit, ou la montrer si c’est possible.",
+                "Dire en une phrase ce que c’est, sans argumenter."
+              ],
+              "benefit": "La personne dispose d’une autre explication visible, sans être contrainte de l’accepter."
+            },
+            {
+              "heading": "Corriger avec tact sans approuver",
+              "objective": "Ne pas confirmer une idée erronée ni humilier la personne.",
+              "exercise": [
+                "Reconnaître la peur : « Vous avez eu peur pour quelqu’un. »",
+                "Dire calmement ce qui se passe réellement, sans entrer dans le scénario imaginé.",
+                "Changer de sujet vers un repère simple, l’heure ou le lieu."
+              ],
+              "benefit": "L’émotion est entendue, tandis que la perception erronée n’est pas renforcée."
+            },
+            {
+              "heading": "Transmettre à l’équipe",
+              "objective": "Permettre aux soignants de suivre ce qui se passe la nuit.",
+              "exercise": [
+                "Noter l’heure et la nature de ce que la personne a perçu.",
+                "Le dire à l’infirmière ou au médecin, surtout si cela inquiète ou se répète.",
+                "Ne pas en tirer soi-même de conclusion sur la gravité ou la cause."
+              ],
+              "benefit": "L’équipe peut tenir compte de ces nuits dans son évaluation."
+            }
+          ]
+        }
+      ],
+      "ending_title": "La porte entrouverte",
+      "ending": "Nadia allume la lampe de chevet en plus de la veilleuse. « Je suis Nadia, l’infirmière de nuit. Vous êtes à l’hôpital, il est deux heures du matin. » Elle ouvre la porte en grand : dans le couloir, une aide-soignante pousse le chariot de soins vers la chambre suivante. « C’est ce chariot. Sa roue frotte. Il n’y a pas de scie ici, et personne n’est blessé. » Hector fixe le chariot longtemps. « Elle couine comme une lame, cette roue. » Nadia ne lui donne pas raison et ne rit pas ; elle répond qu’elle signalera la roue, et lui parle de la photo de l’atelier. Elle note dans le dossier l’heure et le bruit mal interprété, pour l’équipe de jour. Hector demande qu’on laisse la porte entrouverte. Il se rendort vers trois heures. À sept heures quarante-cinq, Julien, son neveu, appelle le service comme convenu ; Nadia, avant de partir, lui raconte la nuit. Puis Hector prend le combiné. Il se souvient d’une scie, de rien d’autre. « Et tu ne vas pas en faire une histoire drôle. » Julien promet. Il écrit l’heure dans son carnet, avec les mots exacts de Nadia.",
+      "conclusion": "Une illusion transforme un stimulus réel en autre chose ; dans le delirium, elle peut surgir la nuit et faire très peur sans rien dire de la santé mentale de la personne. Hector ne garde qu’un fragment de cette nuit, et il pose une limite claire : ce qu’il a vécu ne sera pas raconté pour faire rire.",
+      "mirror": [
+        "Au téléphone, Hector a demandé qu’on ne fasse pas de cette scie une histoire drôle. Un proche peut répondre simplement : « D’accord. Et si quelqu’un me demande, je te dirai ce que j’ai raconté. » S’il est présent la nuit, il peut montrer d’où vient un bruit, dire où l’on est, et ne pas entrer dans l’histoire de l’apprenti ni la ridiculiser. Il prévient l’infirmière plutôt que de rester seul à rassurer. Cette limite reste à respecter ensuite, même quand l’épisode est passé."
+      ],
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "nice-cg103",
+        "sign-157"
+      ],
+      "continuity": {
+        "choice": "Nadia montre le chariot, note le bruit mal interprété pour l’équipe de jour et laisse la porte entrouverte ; Hector ne garde que le souvenir d’une scie et demande à Julien de ne pas en faire une histoire drôle.",
+        "next": "Le même jour, en fin d’après-midi, la peur de la nuit se transformera en colère contre une aide-soignante."
+      },
+      "clinical_focus": "Un bruit réel mal interprété pendant la nuit",
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 6,
+      "slug": "hector-peur-colere-pendant-delirium",
+      "title": "Une peur qui devient colère pendant la confusion",
+      "description": "Ne sachant plus qui l’aide ni où sont ses chaussures, Hector repousse le bras d’une aide-soignante. L’équipe apaise par la voix et la distance.",
+      "context": "le cinquième jour à l’hôpital",
+      "topics": [
+        "Delirium",
+        "peur et colère",
+        "apaisement"
+      ],
+      "clinical_intro": "Pendant un delirium, la peur, l’irritabilité ou la colère peuvent déborder, parce que la personne ne comprend plus ce qui l’entoure. Ces réactions ne disent rien de son caractère habituel. Les soignants commencent par apaiser avec la voix, la distance et le temps. Au cinquième jour, Hector repousse une aide-soignante qu’il ne reconnaît pas, puis se tait, honteux.",
+      "opening": "Le cinquième jour, à dix-sept heures trente, Sandrine, aide-soignante du service de médecine, entre dans la chambre 12 pour aider Hector Ménard à se lever. Hector, 77 ans, charpentier retraité hospitalisé à Saumur pour une infection pulmonaire, a peu dormi depuis la nuit de la scie. Il somnolait. Il ouvre les yeux sur une femme en blouse qu’il n’a jamais vue, penchée sur lui, la main sous son coude.\n\n« Qui vous êtes ? » Sandrine répond, mais il n’entend que la fin de la phrase. Il cherche ses chaussures au pied du lit et ne les trouve pas. Ses pieds nus touchent le sol froid. Il ne sait plus où il est, ni pourquoi cette inconnue le tire. La peur monte d’un coup, et elle sort en colère. « Lâchez-moi ! » Il repousse le bras de Sandrine d’un geste sec. Sa voix remplit la chambre.\n\nC’est à ce moment que Julien, son neveu, arrive, son sac de cours à l’épaule. Il a quitté le collège plus tôt pour venir avant le dîner. Il entend son oncle avant de le voir : « On m’a volé ma caisse ! Vous l’avez prise, ma caisse ! » Julien reste figé dans l’encadrement de la porte. Il n’a jamais entendu Hector crier sur quelqu’un, pas même sur Bernard, son ancien compagnon de chantier, le jour où une ferme de charpente était tombée de travers.\n\nSandrine ne s’approche plus. Elle recule d’un pas, mains visibles, et dit doucement son prénom. Mathieu, l’infirmier de jour, entre derrière Julien et s’arrête à distance.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Des émotions qui débordent quand le monde devient incompréhensible",
+          "text": "Le delirium s’accompagne souvent de perturbations émotionnelles : anxiété, peur, irritabilité, colère, parfois tristesse ou apathie. Elles naissent dans un moment où la personne ne sait plus bien où elle est, qui l’entoure ni ce qu’on lui fait. Ce ne sont pas des révélations sur sa vraie nature, et elles ne disent rien de son caractère habituel. Face à une personne en détresse, les soignants commencent par des moyens verbaux et non verbaux d’apaisement : se présenter, parler lentement, garder de la distance, attendre. Pour Hector, une main inconnue sous le coude et des chaussures introuvables suffisent à transformer la peur en colère. Le cri sur la caisse volée vient de ce même brouillard : l’objet qui compte le plus semble menacé."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment la peur et la colère se manifestent-elles pendant un delirium ?",
+          "points": [
+            {
+              "heading": "Un geste mal compris devient une menace",
+              "text": "Un soin ordinaire peut être vécu comme une agression lorsque la personne ne reconnaît pas celui qui le fait.",
+              "examples": [
+                "Hector ne reconnaît pas Sandrine et vit sa main sous son coude comme une prise.",
+                "Il ne trouve pas ses chaussures et ne comprend pas pourquoi on veut le faire lever."
+              ]
+            },
+            {
+              "heading": "La voix monte et le corps repousse",
+              "text": "La peur peut s’exprimer par des cris ou un geste brusque, inhabituels chez la personne.",
+              "examples": [
+                "Hector repousse le bras de Sandrine d’un geste sec.",
+                "Julien ne l’a jamais entendu crier, pas même le jour où une ferme de charpente est tombée de travers."
+              ]
+            },
+            {
+              "heading": "Une idée fausse qui touche ce qui compte",
+              "text": "La colère peut s’accrocher à une crainte précise, liée à ce qui importe à la personne.",
+              "examples": [
+                "Hector accuse l’équipe de lui avoir volé sa caisse d’outils.",
+                "Le lendemain, il se souvient surtout de sa honte, presque pas de ses mots."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour apaiser une peur pendant un delirium",
+          "points": [
+            {
+              "heading": "Se présenter et annoncer chaque geste",
+              "objective": "Rendre compréhensible ce qui se passe avant de toucher la personne.",
+              "exercise": [
+                "Dire son prénom et son rôle en entrant, en face de la personne.",
+                "Expliquer en une phrase le geste prévu avant de le faire.",
+                "Attendre un signe d’accord, ou reporter le geste s’il n’est pas urgent."
+              ],
+              "benefit": "La personne a une chance de reconnaître un soin plutôt qu’une menace."
+            },
+            {
+              "heading": "Laisser de la distance et du temps",
+              "objective": "Faire baisser la peur sans affrontement.",
+              "exercise": [
+                "Reculer d’un pas et garder les mains visibles.",
+                "Parler lentement, à voix basse, sans contredire chaque mot.",
+                "Laisser à l’équipe la conduite de la situation, et sortir si sa présence agite davantage."
+              ],
+              "benefit": "L’apaisement peut venir de la situation elle-même, sans geste imposé."
+            },
+            {
+              "heading": "Reparler de l’incident plus tard",
+              "objective": "Permettre à la personne de comprendre ce moment sans honte.",
+              "exercise": [
+                "Attendre un moment plus calme et demander si elle veut en parler.",
+                "Raconter les faits brièvement, sans reproche ni plaisanterie.",
+                "Lui laisser décider de ce qu’elle veut faire de ce moment, une excuse, une question ou rien."
+              ],
+              "benefit": "La personne peut retrouver de la dignité face à un comportement qui ne lui ressemble pas."
+            }
+          ]
+        }
+      ],
+      "ending_title": "La photo de la caisse sur l’établi",
+      "ending": "Mathieu reste à distance et parle lentement : « Monsieur Ménard, je suis Mathieu, infirmier. Vous êtes à l’hôpital de Saumur. Personne ne vous veut de mal. Vos chaussures sont sous la chaise. » Sandrine attend près de la porte. Julien, sur un signe de Mathieu, dit seulement : « C’est Julien. Je suis là. » Personne ne tient Hector. Au bout de quelques minutes, il se rassoit sur le lit, les pieds nus, et se tait. Mathieu note l’heure et ce qui s’est passé pour la docteure Roussel. Quand Julien repart, Hector fixe le mur sans un mot ; il a compris qu’il a crié, sans savoir sur qui. Le lendemain, à sept heures trente, Julien passe avant ses cours. Il montre à Hector une photo prise la veille au soir sur son téléphone : la caisse de 1979, fermée, sur l’établi de l’atelier. « Elle n’a pas bougé. » Hector demande alors à voir l’aide-soignante. Sandrine vient. Il dit, lentement : « Je vous ai bousculée. Je vous demande pardon. » Elle répond qu’elle connaît ces moments, qu’elle n’en garde pas rancune. Julien écrit dans son carnet : caisse en sécurité à l’atelier, excuse faite à Sandrine.",
+      "conclusion": "La peur et la colère d’un delirium ne sont pas des traits de caractère : elles naissent d’un monde devenu incompréhensible et s’apaisent d’abord par la voix, la distance et le temps. Hector ne se souvient pas de ses mots, mais il choisit de s’excuser, et apprend que sa caisse n’a pas bougé.",
+      "mirror": [
+        "Arrivé au milieu des cris, Julien n’a pas raisonné son oncle ni défendu l’équipe. Un proche peut, si les soignants le lui proposent, dire seulement son prénom d’une voix calme, puis rester à distance ou sortir. Le lendemain, il peut répondre à la peur qui restait : « J’ai vérifié, la caisse est à l’atelier. » Il ne reproche rien et ne raconte pas la scène en détail si la personne ne le demande pas. La conduite de la situation reste à l’équipe."
+      ],
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "nice-cg103",
+        "has-confusion-aigue"
+      ],
+      "continuity": {
+        "choice": "L’équipe apaise Hector par la voix et la distance, sans le tenir ; le lendemain matin, Julien montre la photo de la caisse fermée sur l’établi, et Hector s’excuse auprès de Sandrine, qui accepte.",
+        "next": "Le reste de ce sixième jour, Hector sera calme, peut-être trop."
+      },
+      "clinical_focus": "Peur et colère qui débordent pendant l’épisode",
+      "diagnostic_stage": "known"
     }
   ]
 }
