@@ -848,6 +848,110 @@
       "number": 8,
       "diagnostic_stage": "known",
       "clinical_focus": "Une présence fugace à signaler à l’équipe"
+    },
+    {
+      "slug": "amaury-somnolence-apres-midi-montage-securite",
+      "title": "La somnolence de l’après-midi pèse sur les décisions",
+      "description": "Au montage, Amaury s’assoupit et valide un plan qu’il voulait couper : la somnolence de l’après-midi touche ses choix, puis la question du volant.",
+      "context": "au montage, un jeudi après-midi",
+      "topics": [
+        "Démence due à la maladie de Parkinson",
+        "somnolence diurne",
+        "décisions de sécurité"
+      ],
+      "clinical_intro": "La somnolence pendant la journée fait partie des difficultés décrites dans la démence due à la maladie de Parkinson ; elle peut aussi être favorisée par certains traitements. Elle pèse sur les tâches qui demandent du jugement et sur les décisions de sécurité, comme prendre le volant. Amaury, déjà diagnostiqué, découvre qu’un après-midi de montage peut lui faire valider ce qu’il voulait couper.",
+      "opening": "Le jeudi suivant, à quatorze heures, Soizic Teyssier, la réalisatrice du film, a installé l’ordinateur de l’association sur la grande table. L’après-midi est le seul moment où l’atelier photo laisse la salle, et Amaury a accepté : choisir des plans, pense-t-il, c’est moins fatigant que raconter. Le docteur Pons, son médecin traitant, l’a examiné lundi, après l’appel à Sabine Ferrand : il n’a rien trouvé d’autre à signaler pour l’instant. Rosa, sa compagne, est à sa répétition de chorale, comme chaque jeudi après-midi ; elle laisse son téléphone au vestiaire.\n\nSur l’écran défilent les rushs de la fiche COUPURE, dans l’ancien bus. Amaury a déjeuné d’un gratin chez lui, puis il est venu à pied, par l’arrêt Chavanelle. Il regarde le premier plan, approuve d’un hochement de tête. Au deuxième, ses paupières tombent. Sa tête glisse vers sa poitrine. Il se réveille en sursaut quand Soizic demande : « Celui-là, on le garde ? » Il répond « oui » sans avoir vu le plan. C’est celui où il se retourne vers la porte arrière, le regard perdu. Il voulait le couper.\n\nUn quart d’heure plus tard, il s’assoupit de nouveau, les bras croisés. Soizic baisse le son sans rien dire.\n\nÀ seize heures, Gérard Vial, le président de l’association, passe la tête par la porte, ses clés à la main. « Tu as l’air crevé. Prends la Peugeot, tu me la ramèneras lundi. » C’est la vieille 306 de l’association, celle qu’Amaury conduisait encore pour les sorties l’an passé, jusqu’au musée de la Mine. Gérard pose les clés sur la table, à côté de la souris. Amaury les regarde. Il essaie d’appeler Rosa : messagerie.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Une somnolence de jour qui touche le jugement autant que le corps",
+          "text": "La somnolence pendant la journée fait partie des difficultés décrites dans la démence due à la maladie de Parkinson, avec les troubles de la concentration ; elle peut aussi être favorisée par certains traitements, ce que seule l’équipe de soins peut examiner. Les recommandations insistent sur les risques qu’elle entraîne : en cas de somnolence de jour ou d’endormissement soudain, il ne faut pas conduire. Elles conseillent aussi de maintenir des activités régulières et le lien social, en évitant les longues siestes. Chez Amaury, la séance de quatorze heures cumule plusieurs fragilités : l’heure de l’après-midi, déjà difficile pour lui, le repas, la pénombre de l’écran. En s’assoupissant, il valide un plan qu’il voulait couper ; la même somnolence rendrait dangereuse la conduite de la Peugeot. Ce n’est pas une question de bonne volonté : c’est une question de sécurité et de choix des heures."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment la somnolence de l’après-midi se manifeste-t-elle ?",
+          "points": [
+            {
+              "heading": "Des endormissements brefs pendant une tâche",
+              "text": "La personne peut s’assoupir quelques instants alors qu’elle est occupée, parfois sans s’en rendre compte.",
+              "examples": [
+                "Devant le deuxième plan, les paupières d’Amaury tombent et sa tête glisse vers sa poitrine.",
+                "Un quart d’heure plus tard, il s’endort de nouveau, les bras croisés devant l’écran."
+              ]
+            },
+            {
+              "heading": "Une décision prise au réveil",
+              "text": "Au sortir d’un assoupissement, une réponse peut être donnée par réflexe, sans le jugement habituel.",
+              "examples": [
+                "Réveillé en sursaut, Amaury répond « oui » à Soizic sans avoir vu le plan.",
+                "Il garde ainsi l’image où il se retourne vers la porte arrière, qu’il voulait couper."
+              ]
+            },
+            {
+              "heading": "Une sécurité en jeu au-delà de la séance",
+              "text": "La somnolence ne s’arrête pas à la tâche : elle concerne aussi le trajet de retour et les gestes à risque.",
+              "examples": [
+                "Gérard propose à Amaury de rentrer avec la Peugeot de l’association après l’avoir vu épuisé.",
+                "Rosa, à la chorale, ne répond pas, et Amaury doit décider seul devant les clés posées sur la table."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour tenir compte de la somnolence de jour",
+          "points": [
+            {
+              "heading": "Placer les décisions aux heures d’éveil",
+              "objective": "Réserver les tâches qui demandent du jugement aux moments où la personne est la plus alerte.",
+              "exercise": [
+                "Demander à la personne à quelle heure elle se sent le plus éveillée.",
+                "Y placer les choix importants, comme valider un montage ou signer un document.",
+                "Revoir avec elle, à ce moment-là, toute décision prise dans un moment de somnolence."
+              ],
+              "benefit": "Les choix de la personne ont plus de chances de correspondre à ce qu’elle veut vraiment."
+            },
+            {
+              "heading": "Garder une journée régulière",
+              "objective": "Éviter que les après-midi deviennent de longues plages de sommeil.",
+              "exercise": [
+                "Prévoir une activité courte et choisie après le repas, comme une marche jusqu’à l’arrêt.",
+                "Garder le contact avec d’autres personnes dans la journée, même brièvement.",
+                "Discuter avec l’équipe de la place d’une sieste plutôt que de la décider seul."
+              ],
+              "benefit": "Un rythme régulier peut rendre la journée plus prévisible, sans faire disparaître la somnolence."
+            },
+            {
+              "heading": "Signaler la somnolence et ne pas conduire",
+              "objective": "Protéger la personne et les autres, et informer ceux qui peuvent en chercher la cause.",
+              "exercise": [
+                "Ne pas prendre le volant en cas de somnolence, et prévoir un autre moyen de rentrer.",
+                "Décrire à l’équipe quand et comment les endormissements surviennent.",
+                "Laisser l’équipe examiner si un traitement peut y contribuer, sans rien modifier soi-même."
+              ],
+              "benefit": "La sécurité passe avant la commodité, et l’équipe dispose des éléments pour décider de la suite."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Les clés rendues à Gérard",
+      "ending": "Amaury pousse les clés vers Gérard. « Non. Je me suis endormi deux fois. Un conducteur qui pique du nez, on le remplace. » Gérard proteste un peu, puis se tait. Soizic appelle un taxi, qui arrive vingt minutes plus tard. Avant de partir, Amaury lui demande d’annuler tout ce qu’il a validé dans l’après-midi : on recommencera le mardi suivant, à dix heures. Le soir, il raconte tout à Rosa, qui s’inquiète d’avoir été injoignable. Il lui dit qu’il ne conduira plus la voiture de l’association, ni pour les sorties ni pour rentrer. Le vendredi matin, il appelle Sabine Ferrand, l’infirmière de coordination de l’équipe Parkinson, et décrit les deux endormissements. Elle le note pour la docteure Aubertin et lui rappelle de ne pas conduire. Amaury raccroche, vexé de ne plus avoir de volant, sauf celui du vieux Saviem à l’arrêt.",
+      "conclusion": "Cet épisode montre que, dans la démence due à la maladie de Parkinson, la somnolence de l’après-midi peut fausser une décision et rendre la conduite dangereuse. Amaury rend les clés, annule les choix faits dans le sommeil et renvoie le montage au matin, au prix d’une perte qui lui coûte.",
+      "mirror": [
+        "Quand Gérard pose les clés sur la table, un proche peut proposer autre chose que la voiture : « Je t’appelle un taxi, et on refera le montage un matin. » Il n’a pas à décider à la place d’Amaury de ce qui est grave, mais il peut refuser de lui confier un volant quand il le voit s’endormir. Rosa n’a pas à rester joignable pendant sa chorale : un moyen de retour prévu à l’avance protège aussi son temps à elle."
+      ],
+      "sources": [
+        "oms-cddr",
+        "has-parkinson-2016",
+        "nice-ng71"
+      ],
+      "continuity": {
+        "choice": "Amaury refuse les clés de la Peugeot, rentre en taxi, annule ses validations de l’après-midi, reporte le montage au mardi matin et ne conduit plus la voiture de l’association ; il signale la somnolence à Sabine Ferrand le vendredi.",
+        "next": "Le mardi suivant, Amaury ne veut plus aller à l’association du tout."
+      },
+      "number": 9,
+      "diagnostic_stage": "known",
+      "clinical_focus": "Somnolence de l’après-midi pendant le montage"
     }
   ]
 }

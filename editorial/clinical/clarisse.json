@@ -531,6 +531,111 @@
         "next": "Le mardi, à l’Atelier des Quais, Clarisse découvre que ses documents ont été déplacés sans elle."
       },
       "diagnostic_stage": "known"
+    },
+    {
+      "number": 6,
+      "slug": "clarisse-irritabilite-huntington-changement-impose",
+      "title": "Une colère soudaine devant un changement imposé",
+      "description": "Yannick a déplacé ses documents sans la prévenir et Clarisse explose : l’irritabilité de la maladie de Huntington surgit pour une contrariété minime.",
+      "context": "un mardi, à la table du groupe",
+      "topics": [
+        "Démence due à la maladie de Huntington",
+        "irritabilité",
+        "règles prévisibles"
+      ],
+      "clinical_focus": "Une colère soudaine devant un changement imposé",
+      "clinical_intro": "Tout le monde se fâche, mais certaines maladies rendent la colère plus rapide et plus forte que la contrariété qui la déclenche. Dans la maladie de Huntington, l’irritabilité est fréquente et varie d’un jour à l’autre ; la fatigue, l’impulsivité et la frustration de ce qui devient difficile la favorisent. Un mardi, Clarisse découvre que ses choix ont été modifiés sans elle, et sa voix part plus loin qu’elle ne le voulait.",
+      "opening": "Le mardi, à dix-huit heures, l’alarme de la veille a fait son travail. Clarisse arrive à l’Atelier des Quais avec une chemise verte contenant ses cinq choix provisoires, pris dans les cartons un et deux. Elle a dormi quatre heures ; la nuit, elle a refait mentalement l’ordre de présentation. Sur la grande table, Yannick Riou, son ancien associé qui coordonne le groupe, a déjà étalé des tirages. « Pour gagner du temps, j’ai fait un premier montage avec tout le monde », dit-il.\n\nElle cherche ses documents. Ils sont là, mélangés à ceux des autres architectes, répartis par quartier. Et à la place du plan de l’école des Peupliers, celui qu’elle avait mis en premier, il y a le plan de la médiathèque de Rezé, dessinée la même année, que Yannick a retrouvé dans les archives de l’agence. « Elle est plus photogénique, et ça fait un ensemble », explique-t-il.\n\nClarisse sent quelque chose monter d’un coup, sans palier. Elle ramasse ses tirages, les remet dans la chemise et la referme d’un geste sec qui claque sur la table. « Tu as toujours fait ça. Tu déplaces mes cotes sans prévenir et tu appelles ça gagner du temps. » Sa voix est trop forte pour la salle. Quelqu’un recule sa chaise. Maud, la bénévole qui scanne les documents, baisse les yeux sur son ordinateur. Yannick ouvre la bouche, ne dit rien. Le silence tombe sur les huit personnes autour de la table. Clarisse entend encore sa phrase dans la pièce, et sait qu’elle est allée plus loin que ce qu’elle pensait. Elle ne sait pas comment revenir en arrière.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Une colère plus grande que sa cause",
+          "text": "L’irritabilité, faite d’impatience et de colères déclenchées par une provocation minime, est fréquente dans la maladie de Huntington et fluctue d’un jour à l’autre. Elle est favorisée par l’impulsivité, par la fatigue, par la difficulté à exprimer ce qui gêne et par la frustration de voir certaines capacités se perdre. Elle ne dit rien de la méchanceté de la personne. Le guide de prise en charge recommande de chercher d’abord ce qui, dans l’environnement, a pu la déclencher, puis de s’appuyer sur une routine, des règles prévisibles et des façons d’éviter la confrontation que l’entourage peut aussi apprendre. Mardi, plusieurs éléments se cumulent : une nuit courte, une présentation préparée avec effort, et un changement fait sans elle sur ce qu’elle avait choisi. La colère est réelle et sa cause aussi ; c’est l’écart entre les deux qui appartient au trouble."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment l’irritabilité se manifeste-t-elle dans un travail en groupe ?",
+          "points": [
+            {
+              "heading": "Un déclenchement sans palier",
+              "text": "La colère peut monter d’un coup, sans le temps habituel d’agacement qui permet de se reprendre.",
+              "examples": [
+                "Clarisse referme la chemise d’un geste sec dès qu’elle voit le plan de la médiathèque.",
+                "Sa voix devient trop forte pour la salle avant qu’elle ait choisi ses mots."
+              ]
+            },
+            {
+              "heading": "Des facteurs qui s’additionnent",
+              "text": "Fatigue, effort de préparation et changement imprévu peuvent se cumuler et rendre une contrariété banale insupportable.",
+              "examples": [
+                "Elle n’a dormi que quatre heures en répétant l’ordre de sa présentation.",
+                "Le montage de Yannick défait d’un coup l’ordre qu’elle avait eu du mal à fixer."
+              ]
+            },
+            {
+              "heading": "Une phrase qui dépasse la pensée",
+              "text": "La personne peut dire plus durement qu’elle ne le pense, puis le percevoir sans savoir comment le réparer.",
+              "examples": [
+                "Elle reproche à Yannick d’avoir « toujours » fait ainsi, un reproche qu’elle ne pense pas vraiment.",
+                "Dans le silence, elle entend encore sa phrase et ne trouve pas comment revenir en arrière."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour prévenir les colères soudaines",
+          "points": [
+            {
+              "heading": "Chercher ce qui a déclenché",
+              "objective": "Repérer les situations qui précèdent la colère plutôt que de juger la personne.",
+              "exercise": [
+                "Noter après coup ce qui s’est passé juste avant : changement, fatigue, bruit, attente.",
+                "Chercher avec la personne ce qui, dans la situation, aurait pu être évité.",
+                "Parler de ces épisodes au neurologue, qui peut s’intéresser à d’autres causes comme le sommeil."
+              ],
+              "benefit": "Comprendre le déclencheur peut permettre d’ajuster l’environnement ; le médecin évalue ce qui relève du soin."
+            },
+            {
+              "heading": "Poser des règles prévisibles",
+              "objective": "Réduire les changements imposés par surprise.",
+              "exercise": [
+                "Convenir ensemble d’une règle simple sur ce qui peut être modifié, et par qui.",
+                "L’écrire sur un support que tout le groupe peut voir.",
+                "Appliquer la règle à chaque fois, même pour un petit changement."
+              ],
+              "benefit": "Une règle connue peut rendre l’imprévu plus rare et la contrariété moins brusque."
+            },
+            {
+              "heading": "Se donner une sortie",
+              "objective": "Laisser à chacun le temps de redescendre sans affrontement.",
+              "exercise": [
+                "Prévoir qu’on peut quitter la pièce quelques minutes sans avoir à s’expliquer.",
+                "Pour l’entourage, éviter de répondre sur le même ton et différer la discussion.",
+                "Revenir ensuite avec une seule demande, formulée simplement."
+              ],
+              "benefit": "Une pause peut éviter que la colère ne s’entretienne ; elle n’efface pas ce qui a été dit, mais permet d’en reparler."
+            }
+          ]
+        }
+      ],
+      "ending_title": "La fiche de choix",
+      "ending": "Clarisse se lève. « Je sors dix minutes. » Sur le quai, elle s’accoude à la rambarde et regarde passer une navette fluviale. Quand elle revient, personne n’a touché à sa chaise. Elle reste debout. « Je me suis emportée. Je ne pense pas que tu aies toujours fait ça. Mais je veux qu’on me demande avant de déplacer mes documents. » Yannick répond qu’il comprend et qu’il aurait dû l’appeler. Maud propose une fiche par document : titre, place dans l’exposition, signature de l’architecte. Le groupe l’adopte pour tout le monde. Clarisse signe la fiche du plan des Peupliers, remis en premier. Rien ne sera plus modifié hors de sa présence. Le jeudi, à la consultation de neurologie, Viviane, sa sœur, est là comme prévu. La docteure Lebreton, sa neurologue au CHU, leur explique d’abord pourquoi le visage de Clarisse bouge moins. Puis Clarisse raconte le mardi. La neurologue l’interroge sur sa fatigue, ses nuits, ses heures de coucher. Clarisse avoue des nuits courtes depuis deux semaines. Elle rentre épuisée.",
+      "conclusion": "Cet épisode montre que l’irritabilité de la maladie de Huntington peut transformer une contrariété réelle en colère disproportionnée, surtout avec la fatigue. Clarisse obtient une fiche de choix qu’elle signe et signale l’épisode à sa neurologue, qui s’intéresse d’abord à son sommeil.",
+      "mirror": [
+        "Yannick n’a rien dit pendant le silence, et c’était sans doute le plus sage. Quand une colère part trop fort, un proche peut éviter de répondre sur le même ton et laisser une sortie : « On reprend quand tu veux. » Au retour, il peut écouter la demande plutôt que la manière : « D’accord, on te demandera avant de déplacer tes documents. » Il n’a pas à tout accepter : il peut dire qu’une phrase l’a blessé, plus tard et au calme. Si les colères deviennent fréquentes, la personne peut en parler à son équipe de soins."
+      ],
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "pnds-huntington-2021",
+        "nice-ng97"
+      ],
+      "continuity": {
+        "choice": "Après dix minutes sur le quai, Clarisse demande qu’on la consulte avant de déplacer ses documents ; le groupe adopte une fiche de choix signée par document. Le jeudi, en présence de Viviane, la docteure Lebreton explique le visage peu mobile, puis interroge Clarisse sur sa fatigue et son sommeil.",
+        "next": "Après cette semaine, Clarisse n’ouvre plus le troisième carton pendant deux semaines."
+      },
+      "diagnostic_stage": "known"
     }
   ]
 }

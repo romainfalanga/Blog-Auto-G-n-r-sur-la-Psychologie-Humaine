@@ -638,6 +638,111 @@
       },
       "clinical_focus": "Percevoir moins la peine de ceux qu’on aime",
       "diagnostic_stage": "known"
+    },
+    {
+      "number": 7,
+      "slug": "anne-routines-rigides-gout-sucre-changement",
+      "title": "Routines rigides et goût nouveau pour le sucré",
+      "description": "Anne refuse la cassette quand Solange arrive à 15 h 10 et finit chaque paquet de madeleines : des changements à signaler, pas des caprices.",
+      "context": "un mercredi d’écoute retardé par un bouchon",
+      "topics": [
+        "rituels rigides",
+        "attirance pour le sucré",
+        "signaler un changement"
+      ],
+      "clinical_intro": "Des habitudes qui se figent en rituels et un goût soudain pour le sucré peuvent faire partie des changements de comportement observés dans les démences frontotemporales. Ils ne relèvent pas du caprice. Chez Anne, dont la maladie touche d’abord le sens des mots, ces changements apparaissent autour du rendez-vous du mercredi, et c’est l’équipe qui pourra les évaluer.",
+      "opening": "Depuis trois semaines, les mercredis ont pris une forme qu’Anne ne discute plus. À quinze heures, Solange Ferrand, son amie et ancienne régisseuse son du réseau des médiathèques, doit être assise dans le fauteuil vert, à gauche de la cheminée. Anne occupe le fauteuil en cuir. Sur la table basse, un paquet de madeleines pur beurre, toujours la même marque, toujours ouvert au même moment, quand la bande démarre. Anne, qui pendant vingt ans a refusé les gâteaux des pots de fin de conférence, finit maintenant le paquet entier avant la fin de la face B. Solange en a pris une, la première semaine ; depuis, elle n’y touche plus.\n\nIl y a aussi les étagères. Dans le bureau, les cent quarante cassettes des Rencontres du jeudi ne suivent plus la numérotation que Yann Le Goff, le responsable des archives intercommunales, avait établie sur la fiche d’inventaire. Anne les a rangées par couleur de jaquette : les vertes, puis les bleues, puis les blanches. La 61, « Le fleuve et ses mots », se trouve maintenant entre une conférence de 2009 et une autre de 1993.\n\nCe mercredi, un camion s’est mis en travers sur la levée, à l’entrée de Chalonnes-sur-Loire. Solange arrive à quinze heures dix, essoufflée, en s’excusant dès la porte.\n\nAnne est debout à la fenêtre du salon. La cassette est sur la table, le paquet de madeleines fermé. « Il est quinze heures dix.\n— Je sais, il y avait un bouchon. On lance ?\n— Non. C’est trois heures. Pas trois heures dix. »\n\nElle ne crie pas. Elle reste à la fenêtre, les bras croisés, à regarder la rue. Solange s’assoit dans le fauteuil vert et attend. À quinze heures quarante, Anne ouvre le paquet, mange une madeleine, puis une autre, et ne lance toujours pas la bande.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Quand l’habitude devient un rituel et le goût change",
+          "text": "Les démences frontotemporales peuvent s’accompagner de comportements répétitifs ou ritualisés, comme des horaires fixes ou des rangements précis, et de changements alimentaires, notamment une attirance nouvelle pour le sucré. Ces changements traduisent l’atteinte cérébrale, pas une exigence capricieuse. Anne n’a pas reçu de diagnostic de forme comportementale ; ces traits sont des changements possibles de sa forme, que l’équipe du centre mémoire évaluera. Il faut distinguer une préférence ancienne, qu’on respecte, d’un changement nouveau qui mérite d’être signalé. Le goût d’Anne pour les cotes et les horaires est ancien ; le refus de lancer une cassette pour dix minutes de retard, le paquet de madeleines terminé et le classement par couleur sont nouveaux."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment ces changements de routine et d’alimentation se remarquent-ils ?",
+          "points": [
+            {
+              "heading": "Un horaire qui ne souffre plus d’écart",
+              "text": "Un rendez-vous habituel peut devenir intouchable, et le moindre décalage empêcher l’activité.",
+              "examples": [
+                "Anne refuse de lancer la bande parce que Solange arrive à quinze heures dix.",
+                "Elle exige le fauteuil vert pour Solange et le fauteuil en cuir pour elle."
+              ]
+            },
+            {
+              "heading": "Un rangement qui remplace l’ordre établi",
+              "text": "Un nouveau système de classement peut s’imposer, même s’il défait un travail partagé.",
+              "examples": [
+                "Les cassettes sont rangées par couleur de jaquette et non plus par numéro.",
+                "La cassette 61 se retrouve entre une conférence de 2009 et une de 1993."
+              ]
+            },
+            {
+              "heading": "Un goût nouveau pour le sucré",
+              "text": "Une personne peut se tourner vers les aliments sucrés alors que ce n’était pas son habitude.",
+              "examples": [
+                "Anne finit le paquet de madeleines à chaque séance, elle qui refusait les gâteaux des pots de conférence.",
+                "Elle exige toujours la même marque, ouverte au même moment."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour vivre avec des rituels nouveaux sans les combattre",
+          "points": [
+            {
+              "heading": "Garder les rituels qui apaisent",
+              "objective": "Respecter ce qui rend la visite prévisible pour Anne.",
+              "exercise": [
+                "Repérer avec Anne les éléments auxquels elle tient : heure, fauteuils, cassette.",
+                "Les conserver tant qu’ils ne mettent personne en difficulté.",
+                "Discuter avec elle des éléments qui gênent un autre, comme le classement de Yann."
+              ],
+              "benefit": "La visite reste possible et Anne garde des repères qu’elle a choisis."
+            },
+            {
+              "heading": "Prévenir avant l’heure",
+              "objective": "Éviter qu’un retard soit découvert à l’heure du rituel.",
+              "exercise": [
+                "Envoyer un message dès qu’un retard est probable.",
+                "Indiquer l’heure d’arrivée prévue.",
+                "Laisser Anne décider de commencer plus tard ou de raccourcir."
+              ],
+              "benefit": "Le changement est annoncé, ce qui laisse à Anne le temps de l’intégrer."
+            },
+            {
+              "heading": "Noter un changement alimentaire pour l’équipe",
+              "objective": "Transmettre un fait nouveau sans imposer de régime.",
+              "exercise": [
+                "Noter ce qui a changé et depuis quand, en faits précis.",
+                "Demander à Anne si cette note peut être lue à sa consultation.",
+                "Laisser la neurologue décider de ce qu’il faut évaluer."
+              ],
+              "benefit": "L’équipe peut rechercher les causes d’un changement nouveau ; les proches n’ont pas à surveiller les repas."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Un message avant quinze heures",
+      "ending": "À seize heures, Anne s’assoit enfin. Elles conviennent ensemble que quinze heures reste quinze heures, mais que Solange enverra un message dès qu’elle se saura en retard ; Anne décidera alors si l’on commence ou si l’on écoute seulement une face. Le jeudi, Yann passe chercher les fiches et découvre les étagères colorées. Il propose d’ajouter la couleur de la jaquette comme second classement sur la fiche, à côté du numéro ; Anne accepte. Le dimanche, Clémence, sa fille, trouve trois paquets vides dans la poubelle de la cuisine. Elle demande à sa mère si elle peut l’écrire pour la consultation. Anne hausse les épaules : « Écris-le. Ce sont des madeleines, pas un crime. » Clémence note le fait, sans autre commentaire. Le mercredi suivant, Solange arrive à l’heure ; le paquet est terminé avant la face B.",
+      "conclusion": "Cet épisode montre que des rituels rigides et un goût nouveau pour le sucré peuvent accompagner la maladie, sans relever de la mauvaise humeur. Le message de Solange et le second classement de Yann aménagent le quotidien ; le changement alimentaire, lui, est confié à l’équipe.",
+      "mirror": [
+        "Quand Anne reste à la fenêtre à quinze heures dix, Solange peut s’asseoir sans discuter et dire : « Je t’envoie un message la prochaine fois. Tu me dis si on commence. » Elle n’a pas à confisquer les madeleines ni à surveiller les repas. Si un proche remarque un changement nouveau, comme un goût pour le sucré, il note le fait et demande à Anne s’il peut le transmettre à son équipe."
+      ],
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "rascovsky-2011",
+        "nice-ng97"
+      ],
+      "continuity": {
+        "choice": "Quinze heures reste l’heure de l’écoute, Solange prévient de tout retard par message ; Yann ajoute la couleur de jaquette comme second classement ; Clémence note, avec l’accord d’Anne, les paquets de madeleines pour la consultation.",
+        "next": "Une nuit, Anne commande sur internet plusieurs appareils dont elle n’a pas besoin."
+      },
+      "clinical_focus": "Routines rigides et goût nouveau pour le sucré",
+      "diagnostic_stage": "known"
     }
   ]
 }
