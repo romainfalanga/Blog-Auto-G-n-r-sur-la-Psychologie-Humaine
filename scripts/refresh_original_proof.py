@@ -143,11 +143,23 @@ def extract_technique(unit: dict) -> dict:
     return {'title': unit['title'], 'objective': objective or '', 'actions': actions}
 
 
-def strict_problems(root: Path, relative: str, body: str, character_id: str) -> tuple[list[str], dict, list[dict]]:
-    """Refusal reasons for the original trame; empty when the article conforms."""
+def strict_problems(root: Path, relative: str, body: str, character_id: str,
+                    supplied_techniques: list[dict] | None = None) -> tuple[list[str], dict, list[dict]]:
+    """Refusal reasons for the original trame; empty when the article conforms.
+
+    `supplied_techniques` is the reviewer's reading of an existing article whose
+    examples and actions are written in prose (many articles of 2026): the hard
+    structure stays mandatory, the labelled markers are then replaced by the
+    reviewer's objective and three actions per technique. New episodes never use it.
+    """
     mirror_digest, mirror_error = checker.read_mirror(root, character_id, relative)
     result = checker.analyze(body, None, mirror_digest)
-    problems = list(result['mechanical_problems']) + list(result['prose_signals_requiring_review'])
+    problems = list(result['mechanical_problems'])
+    signals = list(result['prose_signals_requiring_review'])
+    if supplied_techniques is None:
+        problems += signals
+    else:
+        problems += [signal for signal in signals if signal.startswith(('Fewer than three', 'Three practical techniques'))]
     if mirror_error:
         problems.append(mirror_error)
     else:
@@ -160,7 +172,7 @@ def strict_problems(root: Path, relative: str, body: str, character_id: str) -> 
     h2 = checker.parts(body, checker.H2)
     if len(h2) == 4:
         manifestations = checker.parts(h2[1]['text'], checker.H3)
-        if len(manifestations) != 3:
+        if len(manifestations) != 3 and (supplied_techniques is None or len(manifestations) < 3):
             problems.append(f'Trois manifestations (H3) requises, {len(manifestations)} trouvées')
         techniques_all = checker.parts(h2[2]['text'], checker.H3)
         numbered = [t for t in techniques_all if checker.NUMBERED.match(t['title'])]
@@ -168,6 +180,10 @@ def strict_problems(root: Path, relative: str, body: str, character_id: str) -> 
             problems.append('Trois techniques numérotées 1., 2., 3. requises dans la troisième partie')
         if not any(marker in normalized(plain_text(h2[0]['title'])) for marker in DEFINITION_MARKERS):
             problems.append('La première partie doit expliquer le concept (« Qu’est-ce que … ? »)')
+    key = Path(relative).relative_to('content').with_suffix('').as_posix()
+    topics = json.loads((root / 'data/parcours_topics.json').read_text()).get(key)
+    if not isinstance(topics, list) or not 2 <= len(topics) <= 3:
+        problems.append('Deux ou trois repères de lecture requis dans data/parcours_topics.json')
     first_heading = HEADING.search(body)
     opening = len(WORD.findall(plain_text(body[:first_heading.start()]))) if first_heading else 0
     if opening < 180:
@@ -176,6 +192,17 @@ def strict_problems(root: Path, relative: str, body: str, character_id: str) -> 
     if len(h2) == 4:
         units = [t for t in checker.parts(h2[2]['text'], checker.H3) if checker.NUMBERED.match(t['title'])]
         techniques = [extract_technique(unit) for unit in units]
+        if supplied_techniques is not None:
+            titles = [unit['title'] for unit in units]
+            valid = (isinstance(supplied_techniques, list) and len(supplied_techniques) == 3
+                     and all(isinstance(t, dict) and isinstance(t.get('objective'), str) and t['objective'].strip()
+                             and isinstance(t.get('actions'), list) and len(t['actions']) >= 3
+                             and all(isinstance(a, str) and a.strip() for a in t['actions']) for t in supplied_techniques))
+            if not valid or [t.get('title') for t in supplied_techniques] != titles:
+                problems.append('--techniques-json : trois techniques aux titres exacts ' + json.dumps(titles, ensure_ascii=False)
+                                + ', chacune avec objective et au moins trois actions')
+            return problems, result, [{'title': t['title'], 'objective': t['objective'].strip(),
+                                       'actions': [a.strip() for a in t['actions']]} for t in supplied_techniques] if valid else []
         for technique, metrics in zip(techniques, result['techniques']):
             if not technique['objective'].strip():
                 problems.append('Objectif introuvable : ' + technique['title'])
@@ -183,10 +210,6 @@ def strict_problems(root: Path, relative: str, body: str, character_id: str) -> 
                 problems.append('Trois actions introuvables : ' + technique['title'])
             if not metrics['goal_label_or_phrase']:
                 problems.append('Objectif non formulé : ' + technique['title'])
-    key = Path(relative).relative_to('content').with_suffix('').as_posix()
-    topics = json.loads((root / 'data/parcours_topics.json').read_text()).get(key)
-    if not isinstance(topics, list) or not 2 <= len(topics) <= 3:
-        problems.append('Deux ou trois repères de lecture requis dans data/parcours_topics.json')
     return problems, result, techniques
 
 
@@ -334,7 +357,7 @@ def parse_coverage_evidence(values: list[str], paths: list[str]) -> dict:
 def refresh(root: Path, paths: list[str], *, reviewer: str, corrector: str, changes: dict[str, list[str]],
             mirror_changes: dict[str, list[str]], review_source: str | None = None, batch: str | None = None,
             today: str | None = None, coverage_evidence: dict | None = None, withdraw: dict[str, str] | None = None,
-            dry_run: bool = False) -> dict:
+            supplied_techniques: dict[str, list[dict]] | None = None, dry_run: bool = False) -> dict:
     root = root.resolve()
     today = today or date.today().isoformat()
     withdraw = withdraw or {}
@@ -354,6 +377,12 @@ def refresh(root: Path, paths: list[str], *, reviewer: str, corrector: str, chan
     rows = {row['path']: row for row in doc['articles']}
     errors, warnings, refreshed = [], [], []
     coverage_evidence = coverage_evidence or {}
+    supplied_techniques = supplied_techniques or {}
+    for relative in supplied_techniques:
+        if relative not in paths:
+            errors.append(f'{relative} : --techniques-json pour un article non relu')
+        elif relative not in rows:
+            errors.append(f'{relative} : un nouvel épisode doit étiqueter objectif, exercice et exemples (pas de --techniques-json)')
 
     for relative in withdraw:
         if (root / relative).exists():
@@ -383,7 +412,8 @@ def refresh(root: Path, paths: list[str], *, reviewer: str, corrector: str, chan
         if not changes.get(relative):
             errors.append(f'{relative} : au moins une modification relue (--change) est requise')
         character_id = names[name]
-        problems, result, techniques = strict_problems(root, relative, body, character_id)
+        problems, result, techniques = strict_problems(root, relative, body, character_id,
+                                                       supplied_techniques.get(relative))
         if problems:
             errors.extend(f'{relative} : {problem}' for problem in problems)
             continue
@@ -426,7 +456,8 @@ def refresh(root: Path, paths: list[str], *, reviewer: str, corrector: str, chan
             'batch': entry.get('batch', batch or f'revue-{today}'),
             'character_id': character_id,
             'path': relative,
-            'body_changed_vs_head': before is None or before != body,
+            # Historical flag of the 2026 review, kept true once set; a new body counts too.
+            'body_changed_vs_head': bool(entry.get('body_changed_vs_head')) or before is None or before != body,
             'flags': entry.get('flags', []),
             'body_sha256': result['body_sha256'],
             'current_body_sha256': result['body_sha256'],
@@ -448,6 +479,10 @@ def refresh(root: Path, paths: list[str], *, reviewer: str, corrector: str, chan
             entry['review_source'] = source
         if touched:
             entry['coverage_evidence_refreshed'] = sorted(set(touched))
+        if relative in supplied_techniques:
+            entry['techniques_source'] = 'reviewer_summary_of_prose_equivalents'
+        else:
+            entry.pop('techniques_source', None)
         if history:
             entry['revision_history'] = history
         entry['manual_review'] = checker.review_proof(entry, result['body_sha256'], mirror_digest)
@@ -512,6 +547,8 @@ def main() -> int:
                         help='[CHEMIN::]PATTERN_ID::citation exacte remplaçant une preuve de couverture disparue')
     parser.add_argument('--withdraw', action='append', default=[], metavar='CHEMIN::RAISON',
                         help='Archiver la preuve d’un article retiré du corpus')
+    parser.add_argument('--techniques-json', type=Path,
+                        help='Article existant rédigé en prose : {"chemin": [{"title", "objective", "actions": [3]}, …]} relus')
     parser.add_argument('--batch', help='Étiquette de lot pour une nouvelle entrée')
     parser.add_argument('--date', help='Date de relecture ISO (défaut : aujourd’hui)')
     parser.add_argument('--dry-run', action='store_true')
@@ -535,7 +572,8 @@ def main() -> int:
         result = refresh(args.root, paths, reviewer=args.reviewer, corrector=args.corrector, changes=changes,
                          mirror_changes=mirror_changes, review_source=args.review_source, batch=args.batch,
                          today=args.date, coverage_evidence=parse_coverage_evidence(args.coverage_evidence, paths),
-                         withdraw=withdraw, dry_run=args.dry_run)
+                         withdraw=withdraw, dry_run=args.dry_run,
+                         supplied_techniques=json.loads(args.techniques_json.read_text()) if args.techniques_json else None)
     except RefreshError as error:
         print('Refus, aucune preuve modifiée :\n' + str(error), file=sys.stderr)
         return 2

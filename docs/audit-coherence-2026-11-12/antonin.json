@@ -1,0 +1,391 @@
+{
+ "character_id": "antonin",
+ "type": "clinique",
+ "auditor": "audit_c2",
+ "audited_on": "2026-11-12",
+ "persona": {
+  "age_metier_proches": "46 ans, agent d'intendance dans une école de musique ; trouble anxieux généralisé diagnostiqué par son médecin avant le récit ; Eva (collègue, jamais présentée), Benoît (frère, billard le jeudi), la direction/directrice, un professeur de clarinette, le réparateur de vélo, un technicien.",
+  "arc_summary": "Antonin prépare la réouverture d'un local de répétition. Pendant le chantier (seuil défectueux, porte en retard, permanences floues), ses inquiétudes passent d'un domaine à l'autre, perturbent ses nuits et le poussent à chercher de la réassurance. Il apprend à déléguer, à décider avec une information partielle et à préserver le billard avec Benoît. Le local rouvre et il assiste à l'audition en spectateur, avec un accompagnement psychologique qui commence.",
+  "arc_issues": [
+   "Eva, présente dans presque tous les épisodes, n'est jamais présentée par sa fonction.",
+   "Facettes répétées : 1 et 4 (passage d'un domaine d'inquiétude à l'autre) ; 2, 10 et 11 (inquiétude qui persiste après la résolution du problème concret).",
+   "Aspects réels du TAG absents : tension musculaire, fatigue, irritabilité ou agitation, difficulté de concentration au travail.",
+   "Les scènes accumulent des fils secondaires (affiche des auditions, titre du morceau, craie, étuis) qui diluent parfois la facette ; le fil du morceau est « reconnu » trois fois (3, 6, 11).",
+   "Incohérence possible entre le billard du jeudi et les permanences du jeudi choisies en 9.",
+   "Plusieurs sections explicatives sont trop courtes (6, 9, 12) ; la chronologie du soin (médecin en 1 et 5, contact psychologique en 10, premier entretien attendu en 12) est cohérente mais l'orientation n'est jamais montrée."
+  ]
+ },
+ "episodes": [
+  {
+   "number": 1,
+   "file": "content/posts/comprendre-et-maitriser-ses-emotions/antonin-cle-sans-date.md",
+   "focus": "Inquiétudes multiples et difficiles à contrôler qui touchent plusieurs domaines (travail, argent, famille) à partir d'une question simple",
+   "structure": {
+    "scene": "ok",
+    "concept": "ok",
+    "manifestations": "ok",
+    "techniques": "ok",
+    "retour": "ok",
+    "conclusion": "faible",
+    "proches": "ok"
+   },
+   "comprehension": 3,
+   "comprehension_note": "La scène montre bien la cascade (chauffage, livraison, accordeur, professeur absent, roue du vélo, coût) pendant qu'Eva attend un simple nom de groupe. Mais Eva n'est jamais présentée (collègue ? responsable ?), « le local » et « les travaux » arrivent sans qu'on sache de quel local il s'agit, et la conclusion ne fait que répéter les deux décisions.",
+   "issues": [
+    {
+     "severity": "majeur",
+     "type": "comprehension",
+     "quote": "Eva demande à Antonin quel groupe pourrait retrouver le premier son créneau de répétition.",
+     "problem": "Personnage central jamais présenté dans le corps : ni sa fonction à l'école ni son lien avec le projet. Le lecteur ne sait pas non plus de quel « créneau » ni de quel local il s'agit.",
+     "fix": "« Eva, la coordinatrice pédagogique avec qui il prépare la réouverture du local de répétition fermé pour travaux, lui demande quel groupe pourrait y retrouver le premier son créneau. »"
+    },
+    {
+     "severity": "mineur",
+     "type": "trame",
+     "quote": "Le médecin tient compte de la souffrance, du temps et de l’effort que la personne consacre à tenir ses activités.",
+     "problem": "Phrase isolée en fin de section explicative, sans lien avec ce qui précède ni avec la scène.",
+     "fix": "La fondre dans le paragraphe précédent en la reliant à ce qu'Antonin a raconté au médecin sur ses nuits."
+    },
+    {
+     "severity": "mineur",
+     "type": "trame",
+     "quote": "Eva peut noter le groupe avant de connaître la date. Benoît peut savoir qu’Antonin veut venir avant que la roue soit réparée.",
+     "problem": "La conclusion reformule le dénouement sans dire ce que l'épisode fait comprendre du trouble ni l'inscrire dans le parcours.",
+     "fix": "Ajouter une phrase sur le mécanisme (une question limitée qui ouvre tous les domaines de la vie) et sur ce qu'Antonin cherche pour la suite."
+    }
+   ]
+  },
+  {
+   "number": 2,
+   "file": "content/posts/comprendre-et-maitriser-ses-emotions/antonin-seuil-qui-bouge.md",
+   "focus": "Inquiétude qui se prolonge après une mesure de sécurité justifiée (risque réel distinct de l'anticipation anxieuse)",
+   "structure": {
+    "scene": "ok",
+    "concept": "faible",
+    "manifestations": "ok",
+    "techniques": "ok",
+    "retour": "ok",
+    "conclusion": "ok",
+    "proches": "ok"
+   },
+   "comprehension": 3,
+   "comprehension_note": "Le seuil soulevé et le signalement sont clairs, mais la scène passe longuement à une vieille affiche d'auditions et au morceau des clarinettes : l'inquiétude anxieuse elle-même tient en une phrase (« songe à appeler une deuxième fois »). L'explication porte presque entièrement sur la légitimité du signalement et ne développe pas le mécanisme anxieux annoncé par le titre.",
+   "issues": [
+    {
+     "severity": "majeur",
+     "type": "lien_concept",
+     "quote": "L’inquiétude peut se prolonger après les mesures nécessaires.",
+     "problem": "Une seule phrase isolée explique la facette annoncée ; le reste de la section traite de la sécurité du seuil. Le lecteur comprend que le signalement était juste, pas ce que le trouble ajoute.",
+     "fix": "Développer : après une action adaptée, l'esprit continue d'examiner d'autres défauts possibles, ce qui maintient la tension et empêche de passer à la tâche suivante ; relier à l'envie de rappeler le service et à la question d'Eva."
+    },
+    {
+     "severity": "mineur",
+     "type": "comprehension",
+     "quote": "Au bureau, Eva décroche une annonce devenue illisible sous trois couches de ruban.",
+     "problem": "Le fil de l'affiche occupe un paragraphe entier au cœur de la scène sans lien avec la facette ; il dilue l'enjeu.",
+     "fix": "Réduire l'affiche à une phrase et donner plus de place au moment où Antonin hésite à rappeler le service."
+    }
+   ]
+  },
+  {
+   "number": 3,
+   "file": "content/posts/comprendre-et-maitriser-ses-emotions/antonin-creneau-des-clarinettes.md",
+   "focus": "Anticipation anxieuse d'une erreur future qui complique la délégation d'une tâche",
+   "structure": {
+    "scene": "ok",
+    "concept": "ok",
+    "manifestations": "ok",
+    "techniques": "ok",
+    "retour": "ok",
+    "conclusion": "ok",
+    "proches": "ok"
+   },
+   "comprehension": 4,
+   "comprehension_note": "L'enjeu est lisible : Eva propose de prendre les échanges, Antonin veut une copie de chaque message, et son rendez-vous au vélo risque d'être décalé une deuxième fois. La décision (donner les coordonnées et partir à l'heure) est claire. Une phrase métatextuelle gêne l'explication.",
+   "issues": [
+    {
+     "severity": "mineur",
+     "type": "comprehension",
+     "quote": "Dans ce récit, l’histoire de l’élève oublié aide à prévoir une vérification ciblée de la liste.",
+     "problem": "Phrase de commentaire sur le récit, abstraite, qui n'explique rien au lecteur.",
+     "fix": "Supprimer ou remplacer par : « Le souvenir de l'élève oublié peut justifier une vérification de la liste, une seule fois, sans relire chaque message. »"
+    }
+   ]
+  },
+  {
+   "number": 4,
+   "file": "content/posts/comprendre-et-maitriser-ses-emotions/antonin-devis-du-velo.md",
+   "focus": "Passage d'un souci à l'autre (argent, santé d'un proche, travail) pendant une conversation",
+   "structure": {
+    "scene": "ok",
+    "concept": "ok",
+    "manifestations": "ok",
+    "techniques": "ok",
+    "retour": "ok",
+    "conclusion": "ok",
+    "proches": "ok"
+   },
+   "comprehension": 4,
+   "comprehension_note": "Le devis, la craie du père apportée par Benoît et la question du bus forment une scène sensible et claire. Mais la facette répète l'épisode 1 (inquiétudes qui passent d'un domaine à l'autre), et la « santé d'un proche » annoncée par le titre se réduit à un rendez-vous chez le dentiste.",
+   "issues": [
+    {
+     "severity": "majeur",
+     "type": "repetition",
+     "quote": "Puis il pense à une dépense du mois suivant, au rendez-vous de Benoît chez le dentiste et à la clé du local qui attend dans le bureau.",
+     "problem": "Même mécanisme que l'épisode 1 (la roue du vélo, le coût, Benoît, le travail se succèdent) ; les deux épisodes illustrent la même facette.",
+     "fix": "Recentrer l'épisode sur un autre aspect absent du parcours, par exemple la tension physique et la fatigue liées à l'inquiétude (épaules serrées, irritabilité avec Benoît), en gardant le devis et la craie."
+    },
+    {
+     "severity": "mineur",
+     "type": "lien_concept",
+     "quote": "le rendez-vous de Benoît chez le dentiste",
+     "problem": "La fiche annonce une inquiétude pour « la santé de son frère Benoît » ; un rendez-vous dentaire ordinaire illustre mal ce souci et peut sembler anecdotique.",
+     "fix": "Donner une raison crédible et sobre : un contrôle médical que Benoît a mentionné en passant, et dont Antonin n'ose pas demander le résultat."
+    }
+   ]
+  },
+  {
+   "number": 5,
+   "file": "content/posts/comprendre-et-maitriser-ses-emotions/antonin-sommeil-au-rendez-vous.md",
+   "focus": "Sommeil perturbé par les inquiétudes et retentissement le lendemain ; demande de suivi",
+   "structure": {
+    "scene": "ok",
+    "concept": "ok",
+    "manifestations": "ok",
+    "techniques": "ok",
+    "retour": "faible",
+    "conclusion": "ok",
+    "proches": "ok"
+   },
+   "comprehension": 4,
+   "comprehension_note": "Le ticket de bus, le fou rire au billard, le devis relu à trois heures et le volet entrouvert rendent les nuits concrètes. La consultation reste en revanche très résumée et le dénouement ne dit pas ce que le médecin propose.",
+   "issues": [
+    {
+     "severity": "majeur",
+     "type": "comprehension",
+     "quote": "Ils conviennent d’un nouveau point et le médecin explique les possibilités d’accompagnement à examiner.",
+     "problem": "Formule procédurale : le lecteur ne sait pas ce qui est proposé (psychothérapie, orientation, simple suivi), alors que l'épisode 10 parlera d'un « accompagnement psychologique » qui semble venir de là.",
+     "fix": "Préciser sans posologie : « Le médecin lui propose de rencontrer un psychologue formé aux thérapies cognitivo-comportementales et lui donne deux noms ; ils se reverront dans un mois. »"
+    },
+    {
+     "severity": "mineur",
+     "type": "comprehension",
+     "quote": "Son médecin l’appelle.",
+     "problem": "Ambigu (téléphone ou appel en salle d'attente).",
+     "fix": "« Son médecin l'appelle depuis la porte du cabinet. »"
+    }
+   ]
+  },
+  {
+   "number": 6,
+   "file": "content/posts/comprendre-et-maitriser-ses-emotions/antonin-livraison-en-retard.md",
+   "focus": "Intolérance à l'incertitude : vouloir toutes les réponses avant de décider, alors qu'une décision partielle est possible",
+   "structure": {
+    "scene": "ok",
+    "concept": "faible",
+    "manifestations": "ok",
+    "techniques": "ok",
+    "retour": "ok",
+    "conclusion": "ok",
+    "proches": "ok"
+   },
+   "comprehension": 4,
+   "comprehension_note": "Le message au fournisseur où il demande « la date, l'heure, la durée de la pose et le nom du premier ouvrier » est une très bonne image de l'intolérance à l'incertitude, et le mardi entouré donne la décision. L'explication est très courte et ne nomme pas le mécanisme.",
+   "issues": [
+    {
+     "severity": "majeur",
+     "type": "trame",
+     "quote": "Un retard peut créer de vraies difficultés d’organisation et laisser en suspens plusieurs décisions. L’inquiétude d’Antonin s’appuie ici sur une livraison qui a changé et sur un groupe à prévenir.",
+     "problem": "La section explicative (quatre phrases) ne dit pas ce qui relève du trouble : difficulté à supporter l'inconnu, besoin de tout savoir avant d'agir. Elle décrit seulement le chantier.",
+     "fix": "Ajouter un paragraphe sur l'intolérance à l'incertitude, souvent décrite dans le TAG, et la relier au brouillon trop détaillé et au mardi suivant qui « lui échappe »."
+    },
+    {
+     "severity": "mineur",
+     "type": "continuite",
+     "quote": "Antonin finit par reconnaître le morceau de l’ancienne audition.",
+     "problem": "L'épisode 3 disait déjà « il reconnaît enfin le début du morceau » ; la reconnaissance est racontée deux fois comme une découverte.",
+     "fix": "Écrire : « Antonin reconnaît la suite du morceau dont il avait entendu le début dans la cour. »"
+    }
+   ]
+  },
+  {
+   "number": 7,
+   "file": "content/posts/comprendre-et-maitriser-ses-emotions/antonin-avis-que-personne-na-donne.md",
+   "focus": "Recherche de réassurance répétée après un message ambigu",
+   "structure": {
+    "scene": "ok",
+    "concept": "ok",
+    "manifestations": "ok",
+    "techniques": "ok",
+    "retour": "ok",
+    "conclusion": "ok",
+    "proches": "ok"
+   },
+   "comprehension": 5,
+   "comprehension_note": "Très claire : « Bien reçu, à reprendre au point de jeudi », la question redemandée à Eva pendant qu'elle a deux inscriptions à traiter, la tentation de demander à une autre collègue, puis la vraie question vérifiable. Le dénouement montre le passage de la réassurance à l'information utile.",
+   "issues": []
+  },
+  {
+   "number": 8,
+   "file": "content/posts/comprendre-et-maitriser-ses-emotions/antonin-derniere-partie-du-jeudi.md",
+   "focus": "Inquiétude qui détourne l'attention pendant un loisir, même après un relais complet",
+   "structure": {
+    "scene": "ok",
+    "concept": "ok",
+    "manifestations": "ok",
+    "techniques": "ok",
+    "retour": "ok",
+    "conclusion": "ok",
+    "proches": "ok"
+   },
+   "comprehension": 4,
+   "comprehension_note": "La queue lourde, l'angle près de la bande et le coup manqué donnent une scène vivante ; on comprend qu'il pense à la ligne vide du calendrier. Le deuxième paragraphe, qui raconte le relais du soir, est un résumé administratif avec une personne de permanence sans nom.",
+   "issues": [
+    {
+     "severity": "mineur",
+     "type": "comprehension",
+     "quote": "La direction a fixé la prochaine décision à la réception de la nouvelle date. La personne qui assure la permanence de ce soir a repris la clé et les informations nécessaires.",
+     "problem": "Passage procédural et impersonnel ; « la personne qui assure la permanence » reviendra (épisode 11) sans jamais être nommée.",
+     "fix": "Nommer la collègue de permanence (par exemple « Lucie, du secrétariat ») et réduire le compte rendu du point de chantier à une phrase concrète."
+    }
+   ]
+  },
+  {
+   "number": 9,
+   "file": "content/posts/comprendre-et-maitriser-ses-emotions/antonin-planning-du-soir.md",
+   "focus": "Inquiétude alimentée par une responsabilité mal définie (« si besoin ») ; distinguer souci légitime et anticipation",
+   "structure": {
+    "scene": "ok",
+    "concept": "faible",
+    "manifestations": "ok",
+    "techniques": "ok",
+    "retour": "ok",
+    "conclusion": "ok",
+    "proches": "ok"
+   },
+   "comprehension": 3,
+   "comprehension_note": "La mention « si besoin » et le mercredi de poterie d'Eva rendent l'enjeu concret. Mais le dénouement crée une confusion : Antonin choisit les jeudis de permanence alors que le jeudi est le soir de billard avec Benoît qu'il cherche à préserver depuis l'épisode 1 ; le lecteur ne comprend pas si c'est un renoncement ou une erreur. Le souvenir de la craie est aussi inversé par rapport à l'épisode 4.",
+   "issues": [
+    {
+     "severity": "majeur",
+     "type": "continuite",
+     "quote": "Antonin choisit les jeudis où il peut tenir la permanence et laisse les autres à décider.",
+     "problem": "Le jeudi est le soir du billard (épisodes 1, 4, 7, 8) ; le texte ne dit pas si Antonin le sacrifie ou choisit des jeudis sans billard. L'enjeu personnel de la scène devient illisible.",
+     "fix": "Faire choisir un autre soir (« les mardis ») ou préciser : « deux jeudis par mois, en gardant les deux autres pour le billard », et le dire à Benoît."
+    },
+    {
+     "severity": "mineur",
+     "type": "continuite",
+     "quote": "Il pense à Benoît, qui a posé la craie de billard près de sa tasse",
+     "problem": "Dans l'épisode 4, c'est Antonin qui pose la craie près de sa tasse, et Benoît qui la ramasse.",
+     "fix": "« Il pense à Benoît, qui avait ramassé la craie de leur père en lui demandant de revenir la semaine suivante. »"
+    },
+    {
+     "severity": "majeur",
+     "type": "lien_concept",
+     "quote": "Un engagement mal défini peut créer des raisons légitimes de s’inquiéter. Le fait de vivre avec une anxiété généralisée n’enlève rien à ce problème.",
+     "problem": "L'explication porte sur un problème d'organisation et non sur une facette du trouble ; elle est très courte (quatre phrases) et ne dit pas ce qui rend la mention « si besoin » particulièrement lourde pour Antonin.",
+     "fix": "Développer le mécanisme : une consigne ouverte est vécue comme une disponibilité permanente, ce qui entretient l'anticipation et empêche de planifier ses soirées ; relier aux soirs où il gardait la clé dans sa poche."
+    }
+   ]
+  },
+  {
+   "number": 10,
+   "file": "content/posts/comprendre-et-maitriser-ses-emotions/antonin-essai-porte-fermee.md",
+   "focus": "Amélioration partielle : l'anxiété s'allège au travail mais persiste la nuit et dans la peur de décevoir",
+   "structure": {
+    "scene": "ok",
+    "concept": "faible",
+    "manifestations": "ok",
+    "techniques": "ok",
+    "retour": "ok",
+    "conclusion": "ok",
+    "proches": "ok"
+   },
+   "comprehension": 3,
+   "comprehension_note": "L'essai acoustique est bien rendu (bruit sourd à travers le mur), mais la scène saute du local au cabinet sans transition dans le même paragraphe d'ouverture et accumule des fils secondaires (vélo, bus, étuis). L'accompagnement psychologique « pris en contact » arrive sans qu'on ait vu cette décision.",
+   "issues": [
+    {
+     "severity": "majeur",
+     "type": "repetition",
+     "quote": "L’anxiété peut s’alléger au travail et continuer de perturber les nuits.",
+     "problem": "Même facette que les épisodes 2 et 11 (l'inquiétude persiste quand le problème concret se règle). Les trois épisodes se ressemblent.",
+     "fix": "Recentrer sur un aspect non traité, par exemple la peur d'être jugé ou de décevoir (« qui pourrait être mécontent de lui ») comme thème d'inquiétude, ou sur la manière dont l'évolution se suit avec le médecin."
+    },
+    {
+     "severity": "mineur",
+     "type": "comprehension",
+     "quote": "Depuis leur dernière rencontre, il a pris contact pour un accompagnement psychologique et attend le premier entretien.",
+     "problem": "Étape de soin racontée après coup ; on ne sait pas qui l'a orienté ni comment il a fait la démarche.",
+     "fix": "Relier explicitement à la proposition du médecin dans l'épisode 5 (« le psychologue dont le médecin lui avait donné le nom »)."
+    },
+    {
+     "severity": "mineur",
+     "type": "comprehension",
+     "quote": "En rentrant, il reçoit le compte rendu technique avec Eva.",
+     "problem": "Formulation confuse (le reçoit-il en même temps qu'Eva, ou avec elle à l'école ?).",
+     "fix": "« De retour à l'école, Eva lui montre le compte rendu technique qu'ils viennent de recevoir. »"
+    }
+   ]
+  },
+  {
+   "number": 11,
+   "file": "content/posts/comprendre-et-maitriser-ses-emotions/antonin-repetition-reprend.md",
+   "focus": "Passer le relais en fin de journée sans attendre que l'inquiétude retombe",
+   "structure": {
+    "scene": "ok",
+    "concept": "ok",
+    "manifestations": "ok",
+    "techniques": "ok",
+    "retour": "ok",
+    "conclusion": "ok",
+    "proches": "ok"
+   },
+   "comprehension": 4,
+   "comprehension_note": "Le local rouvre : étui carré, chaise au pied neuf, morceau enfin entendu en entier, clé remise à la collègue de permanence, vélo qui ne frotte plus. Le dénouement est net et ferme plusieurs fils. La collègue de permanence reste anonyme, et la facette recoupe celles de 2 et 10.",
+   "issues": [
+    {
+     "severity": "mineur",
+     "type": "comprehension",
+     "quote": "Eva se tient près du cahier avec la collègue qui prend la permanence.",
+     "problem": "Personnage qui reçoit la clé, geste central du dénouement, sans nom ni présentation.",
+     "fix": "Lui donner un nom et une fonction dès l'épisode 8."
+    },
+    {
+     "severity": "mineur",
+     "type": "trame",
+     "quote": "L’ouverture répond à des validations que l’école a reçues.",
+     "problem": "Phrase isolée et abstraite à la fin de la section explicative.",
+     "fix": "Supprimer ou intégrer dans la scène (le professeur tient l'autorisation)."
+    }
+   ]
+  },
+  {
+   "number": 12,
+   "file": "content/posts/comprendre-et-maitriser-ses-emotions/antonin-venir-comme-auditeur.md",
+   "focus": "Préserver une activité choisie malgré des inquiétudes résiduelles ; suivi ajusté à l'évolution",
+   "structure": {
+    "scene": "ok",
+    "concept": "faible",
+    "manifestations": "ok",
+    "techniques": "ok",
+    "retour": "ok",
+    "conclusion": "ok",
+    "proches": "ok"
+   },
+   "comprehension": 4,
+   "comprehension_note": "Fin touchante et claire : les deux places au fond, le pied qui grince confié à l'accueil, les deux notes fredonnées avec Benoît. L'arc (ne plus tout porter, rester assis) est résolu. La section explicative tient en deux phrases générales qui ne reviennent pas à la scène.",
+   "issues": [
+    {
+     "severity": "majeur",
+     "type": "trame",
+     "quote": "L’accompagnement de l’anxiété généralisée s’ajuste à ce qui pèse sur la personne, à ses préférences et à la réponse aux aides déjà essayées.",
+     "problem": "La section explicative ne compte que deux phrases et ne revient pas à ce que la scène montre (envie de rester assis, peur de ce qu'on pensera de lui).",
+     "fix": "Ajouter un paragraphe qui relie le suivi en cours (premier entretien, réveils) au choix d'être auditeur et à la crainte d'être jugé s'il ne fait pas tout."
+    }
+   ]
+  }
+ ],
+ "missing_or_extra": "Douze épisodes, aucun manquant ni surnuméraire. Pour obtenir douze facettes distinctes, remplacer la facette de l'épisode 4 (doublon de 1) par les manifestations physiques de l'anxiété (tension, fatigue, irritabilité avec Benoît au café), et celle de l'épisode 10 (doublon de 2 et 11) par la peur d'être jugé ou de décevoir comme thème d'inquiétude, déjà amorcée dans la scène (« qui pourrait être mécontent de lui »).",
+ "verdict": "corrections_majeures"
+}

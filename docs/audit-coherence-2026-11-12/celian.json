@@ -1,0 +1,316 @@
+{
+  "character_id": "celian",
+  "type": "clinique",
+  "auditor": "audit_c4",
+  "audited_on": "2026-11-12",
+  "persona": {
+    "age_metier_proches": "Célian, 19 ans, apprenti cuisinier (centre de formation avec la formatrice Aïcha et son binôme Maxime ; restaurant avec sa tutrice Farah), dyslexie diagnostiquée dans l’enfance, revoit l’orthophoniste Mme Vidal. Au volley : Jade (capitaine), Léonie, Yanis, Nadia (trésorière), Rachid (gardien).",
+    "arc_summary": "Le parcours suit l’organisation du goûter d’après-match, de la proposition « Je veux bien m’en charger » jusqu’au remboursement des tickets, en alternance avec la formation (fiche reçue la veille, aménagement discret, retour d’Aïcha) et la reprise d’un suivi orthophonique. Chaque épisode isole un aspect : lecture à voix haute, coût d’une lecture exacte, accès oral au sens, fatigabilité, divulgation choisie, bilan ancien, délégation, information manquante, format selon le lieu, coût des appuis, relais, persistance après réussite. La chronologie (trois semaines jusqu’au match, mardi de clôture des inscriptions, vendredi de cuisson, samedi du match) est cohérente.",
+    "arc_issues": [
+      "Trois épisodes portent sur le choix entre oral et écrit (3, 9, 10) et trois sur listes, délégation et relais (2, 7, 11) ; les angles diffèrent mais la série paraît par moments tourner autour des mêmes outils.",
+      "L’orthographe et l’écriture, souvent touchées dans un trouble de la lecture, ne sont jamais abordées alors que Célian écrit des listes, des titres de colonnes et des messages.",
+      "Le rendez-vous de suivi avec Mme Vidal annoncé à l’épisode 6 n’apparaît plus que comme intention (ép. 12)."
+    ]
+  },
+  "episodes": [
+    {
+      "number": 1,
+      "file": "content/posts/comprendre-et-maitriser-ses-emotions/celian-fiche-et-spatule.md",
+      "focus": "Lecture à voix haute devant le groupe : précision, fluence et compréhension séparées",
+      "structure": {
+        "scene": "ok",
+        "concept": "ok",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "ok",
+        "conclusion": "ok",
+        "proches": "ok"
+      },
+      "comprehension": 5,
+      "comprehension_note": "Le geste de la spatule mimé avec Maxime, la fiche découverte face retournée et la demande « Je peux commencer en montrant ce passage ? » rendent la difficulté et la solution parfaitement claires ; le projet du goûter est bien amorcé.",
+      "issues": []
+    },
+    {
+      "number": 2,
+      "file": "content/posts/comprendre-et-maitriser-ses-emotions/celian-case-des-absents.md",
+      "focus": "Coût caché d’une lecture exacte dans un fil de messages",
+      "structure": {
+        "scene": "ok",
+        "concept": "ok",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "ok",
+        "conclusion": "ok",
+        "proches": "ok"
+      },
+      "comprehension": 4,
+      "comprehension_note": "Le gymnase, le filet de travers et le fil de messages mêlant maillots et covoiturages installent bien la difficulté ; la colonne « reste au goûter » est une résolution précise. Le « foyer » n’est pas situé.",
+      "issues": [
+        {
+          "severity": "mineur",
+          "type": "comprehension",
+          "quote": "en le prévenant qu’elle n’a pas encore la confirmation du foyer",
+          "problem": "Le foyer (salle du gymnase réservée pour le goûter) n’est pas expliqué ; il ne l’est qu’à l’épisode 7.",
+          "fix": "« …la confirmation du foyer du gymnase, la petite salle où l’on prend le goûter. »"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "file": "content/posts/comprendre-et-maitriser-ses-emotions/celian-coin-du-gateau.md",
+      "focus": "Accès au sens par l’oral quand le déchiffrage coûte, avec retour à l’écrit pour les détails",
+      "structure": {
+        "scene": "ok",
+        "concept": "faible",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "faible",
+        "conclusion": "ok",
+        "proches": "ok"
+      },
+      "comprehension": 3,
+      "comprehension_note": "La découverte de la phrase oubliée sous la main est une bonne scène, mais l’épisode se contredit sur qui parle (enregistrements de Célian ou lecture par Maxime) et le gâteau aux pommes surgit sans avoir été mentionné.",
+      "issues": [
+        {
+          "severity": "majeur",
+          "type": "continuite",
+          "quote": "Célian entend plus facilement l’ordre de la recette quand Maxime la reprend avec lui.",
+          "problem": "La scène montre les enregistrements de Célian écoutés par Maxime, jamais Maxime lisant la recette ; l’explication décrit une autre scène.",
+          "fix": "« Célian suit plus facilement l’ordre de la recette en écoutant ses enregistrements, avec Maxime qui vérifie sur la fiche. »"
+        },
+        {
+          "severity": "majeur",
+          "type": "comprehension",
+          "quote": "Il envisage deux recettes, puis regarde la boîte et décide de commencer par celle aux pommes, qu’il sait maintenant bien présenter.",
+          "problem": "Le gâteau aux pommes n’a jamais été nommé ; on ignore quel gâteau ils viennent de faire et ce que sont les « deux recettes ».",
+          "fix": "Nommer dès l’ouverture le gâteau aux pommes de l’essai, puis écrire « Il garde le gâteau aux pommes pour le goûter »."
+        },
+        {
+          "severity": "mineur",
+          "type": "continuite",
+          "quote": "Le message de Maxime aide Célian à suivre la recette",
+          "problem": "Les messages audio sont ceux de Célian.",
+          "fix": "« Ses messages audio, vérifiés avec Maxime, aident Célian… »"
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "file": "content/posts/comprendre-et-maitriser-ses-emotions/celian-huit-lignes-apres-service.md",
+      "focus": "Fatigabilité : une lecture déjà coûteuse devient plus difficile en fin de service",
+      "structure": {
+        "scene": "ok",
+        "concept": "ok",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "ok",
+        "conclusion": "ok",
+        "proches": "ok"
+      },
+      "comprehension": 5,
+      "comprehension_note": "Le placard au pêne, les deux feuilles classées différemment et Farah qui laisse retomber sa main de l’interrupteur font une scène très claire ; la ligne utile à l’ouverture et le trait sous la dernière ligne lue ferment bien l’épisode.",
+      "issues": []
+    },
+    {
+      "number": 5,
+      "file": "content/posts/comprendre-et-maitriser-ses-emotions/celian-choisir-ce-qu-il-partage.md",
+      "focus": "Demander un aménagement et choisir ce qu’on révèle de son diagnostic",
+      "structure": {
+        "scene": "ok",
+        "concept": "ok",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "ok",
+        "conclusion": "ok",
+        "proches": "ok"
+      },
+      "comprehension": 4,
+      "comprehension_note": "La question préalable « en disant non, pourra-t-il quand même recevoir la fiche » montre bien l’enjeu de la divulgation ; la phrase qu’Aïcha dira est concrète. Un détail reste obscur.",
+      "issues": [
+        {
+          "severity": "mineur",
+          "type": "comprehension",
+          "quote": "où traîne encore le ticket froissé du premier essai",
+          "problem": "On ne sait pas de quel essai ni de quel ticket il s’agit.",
+          "fix": "Supprimer le détail ou préciser « le ticket des courses du premier gâteau »."
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "file": "content/posts/comprendre-et-maitriser-ses-emotions/celian-relire-son-bilan.md",
+      "focus": "Reprendre un bilan ancien à partir des difficultés actuelles",
+      "structure": {
+        "scene": "ok",
+        "concept": "ok",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "ok",
+        "conclusion": "ok",
+        "proches": "faible"
+      },
+      "comprehension": 4,
+      "comprehension_note": "L’agrafe qui coince, la phrase soulignée autrefois et la question « Ça rentre où ? » donnent une consultation incarnée ; le choix de garder la liste des joueurs pour lui est net. La rubrique proches est détachée de la scène.",
+      "issues": [
+        {
+          "severity": "mineur",
+          "type": "proches",
+          "quote": "Si Célian raconte son rendez-vous, un proche peut lui demander",
+          "problem": "Aucun proche nommé ni présent dans la scène ; le conseil reste générique.",
+          "fix": "Ancrer la rubrique sur Jade ou Maxime, à qui Célian pourrait parler du rendez-vous en sortant."
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "file": "content/posts/comprendre-et-maitriser-ses-emotions/celian-partager-les-taches-du-gouter.md",
+      "focus": "Réduire la charge de vérification en déléguant sans perdre la responsabilité du projet",
+      "structure": {
+        "scene": "ok",
+        "concept": "ok",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "ok",
+        "conclusion": "ok",
+        "proches": "ok"
+      },
+      "comprehension": 4,
+      "comprehension_note": "Le budget de quarante-cinq euros, la vaisselle comptée deux fois et « tout est à son nom » donnent un enjeu concret ; Yanis inscrit à côté de son prénom est une belle fin.",
+      "issues": [
+        {
+          "severity": "mineur",
+          "type": "comprehension",
+          "quote": "Célian a dessiné deux gâteaux sur le dos d’un reçu alors qu’il ne lui reste qu’une boîte de transport à trouver.",
+          "problem": "La logique de la phrase (deux gâteaux mais une seule boîte à trouver) est obscure.",
+          "fix": "« …alors qu’il n’a trouvé qu’une boîte de transport. »"
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "file": "content/posts/comprendre-et-maitriser-ses-emotions/celian-le-doute-sur-le-carton.md",
+      "focus": "Distinguer une difficulté de lecture d’une information réellement absente (étiquette d’allergènes)",
+      "structure": {
+        "scene": "ok",
+        "concept": "ok",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "ok",
+        "conclusion": "ok",
+        "proches": "ok"
+      },
+      "comprehension": 4,
+      "comprehension_note": "Le carton offert, le côté arraché et les deux dessins de sachets rendent la distinction compréhensible ; le refus poli et la feuille d’ingrédients séparée sont des décisions claires et prudentes.",
+      "issues": []
+    },
+    {
+      "number": 9,
+      "file": "content/posts/comprendre-et-maitriser-ses-emotions/celian-reperes-changement-de-salle.md",
+      "focus": "Adapter le format d’une indication au lieu (bruit, plan, trajet réel)",
+      "structure": {
+        "scene": "ok",
+        "concept": "faible",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "ok",
+        "conclusion": "ok",
+        "proches": "ok"
+      },
+      "comprehension": 4,
+      "comprehension_note": "La fuite du foyer, le ballon qui tape et la porte bleue repérée en marchant rendent la scène claire. Le lien avec le trouble est ténu : le bruit gênerait n’importe qui.",
+      "issues": [
+        {
+          "severity": "mineur",
+          "type": "lien_concept",
+          "quote": "Dans ce couloir, le bruit couvre une partie des mots de Jade.",
+          "problem": "La difficulté montrée tient surtout au bruit, pas au déficit de lecture ; le plan écrit est à peine travaillé.",
+          "fix": "Montrer davantage le plan : Célian confond les deux libellés d’accès qui commencent par le même mot avant de proposer de marcher."
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "file": "content/posts/comprendre-et-maitriser-ses-emotions/celian-quand-laudio-ne-suit-plus.md",
+      "focus": "Coût d’un appui : chercher le bon enregistrement ajoute à l’effort",
+      "structure": {
+        "scene": "ok",
+        "concept": "ok",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "faible",
+        "conclusion": "ok",
+        "proches": "ok"
+      },
+      "comprehension": 3,
+      "comprehension_note": "Les deux fichiers presque homonymes et la main restée sur le carnet sont bien vus ; mais le dénouement contredit la décision prise de revenir au carnet.",
+      "issues": [
+        {
+          "severity": "majeur",
+          "type": "continuite",
+          "quote": "Célian retrouve l’étape qu’il avait perdue dans l’audio.",
+          "problem": "Il vient de couper l’enregistrement et de choisir le carnet comme référence ; la conclusion répète que « la fiche convient mieux ». Le retour annule la décision.",
+          "fix": "« Sur le carnet, Célian retrouve l’étape qu’il avait perdue et coche la carte après chaque passage. »"
+        },
+        {
+          "severity": "mineur",
+          "type": "repetition",
+          "quote": "Les deux audios avaient été utiles pour les premiers essais.",
+          "problem": "Troisième épisode consacré à l’arbitrage oral/écrit après les épisodes 3 et 9.",
+          "fix": "Renforcer ce qui est propre ici (charge de navigation sous fatigue) dans le titre et la première phrase de l’explication."
+        }
+      ]
+    },
+    {
+      "number": 11,
+      "file": "content/posts/comprendre-et-maitriser-ses-emotions/celian-faire-confiance-a-la-table.md",
+      "focus": "Passer le relais en gardant l’information vérifiée accessible",
+      "structure": {
+        "scene": "ok",
+        "concept": "ok",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "ok",
+        "conclusion": "ok",
+        "proches": "ok"
+      },
+      "comprehension": 4,
+      "comprehension_note": "La défaite de deux points, la pomme trop contente du panneau et Léonie qui sert sans attendre les consignes rendent la scène vivante ; le relais pour aller voir la vidéo est clair. Le lien à la dyslexie est surtout dans l’explication.",
+      "issues": [
+        {
+          "severity": "mineur",
+          "type": "repetition",
+          "quote": "Il a aussi accepté que d’autres prennent des tâches, comme Jade à la porte et Yanis avec les caisses.",
+          "problem": "Proche de l’épisode 7 (répartir les vérifications) ; l’aspect spécifique au trouble est peu visible dans la scène.",
+          "fix": "Montrer que la feuille d’ingrédients a été mise en page pour que Léonie la lise vite, ce qui rend le relais possible pour lui aussi."
+        }
+      ]
+    },
+    {
+      "number": 12,
+      "file": "content/posts/comprendre-et-maitriser-ses-emotions/celian-garder-les-appuis-qui-servent.md",
+      "focus": "Persistance des besoins de lecture après une réussite",
+      "structure": {
+        "scene": "ok",
+        "concept": "ok",
+        "manifestations": "ok",
+        "techniques": "ok",
+        "retour": "ok",
+        "conclusion": "ok",
+        "proches": "ok"
+      },
+      "comprehension": 4,
+      "comprehension_note": "La pelure collée au ticket, le message d’Aïcha relu deux fois et la tentation du « tout va bien » montrent bien que la réussite n’efface pas la difficulté ; les rôles qui tournent closent l’arc. La dernière image est obscure.",
+      "issues": [
+        {
+          "severity": "mineur",
+          "type": "comprehension",
+          "quote": "Il pose son téléphone sur le banc pour lui montrer.",
+          "problem": "On ne comprend pas ce que le téléphone montre à Léonie pour un service de volley.",
+          "fix": "« Il pose son téléphone sur le banc et lui montre du doigt l’endroit du terrain où il veut faire tomber le service. »"
+        }
+      ]
+    }
+  ],
+  "missing_or_extra": "Parcours complet de douze épisodes ; aucun ajout ni retrait. Lors d’une refonte, l’un des épisodes oral/écrit (9 ou 10) pourrait céder la place à l’écriture et à l’orthographe (rédiger le panneau ou le message aux joueurs), aspect fréquent non traité.",
+  "verdict": "corrections_mineures"
+}

@@ -220,6 +220,112 @@
       },
       "number": 2,
       "diagnostic_stage": "known"
+    },
+    {
+      "slug": "oumar-parole-aisee-assemblage-difficile",
+      "title": "Bien expliquer un assemblage et peiner à le reproduire",
+      "description": "Oumar décrit le banc avec précision devant les résidents, puis rate trois fois le report des trous sur une planche : un décalage qui surprend Gérard.",
+      "context": "un mercredi d’avril sous le tilleul",
+      "topics": [
+        "capacités visuospatiales",
+        "langage mieux préservé",
+        "gabarit et mesures lues à voix haute"
+      ],
+      "clinical_focus": "Parler avec aisance, peiner à reproduire un assemblage",
+      "clinical_intro": "Chez certaines personnes qui vivent avec une démence liée à l’alcool, la parole reste fluide alors que reporter une mesure, copier une figure ou assembler des pièces devient difficile. Ce contraste n’est pas observé chez tout le monde. Pour Oumar, il trompe les autres : ceux qui l’entendent parler du banc ne devinent pas l’effort que lui demande un simple perçage.",
+      "opening": "Début avril, la fiche d’étapes est punaisée dans l’abri depuis deux semaines, à hauteur d’yeux, au-dessus de l’établi. Yannick Le Floch, l’ergothérapeute qui suit Oumar, l’a écrite avec lui en gros caractères, une étape par ligne, et Oumar y a coché la première : déposer les trois lattes pourries. Elles sont là, contre le mur, noires et spongieuses. Restent quatre lattes d’origine sur la fonte, et un vide de trois.\n\nCe mercredi après-midi, Yannick est revenu au Clos des Mauves pour la séance suivante. Quelques résidents se sont installés sous le tilleul, sur des chaises de jardin, parce qu’Oumar a promis de raconter comment le banc avait été construit. Il le fait sans notes. Il montre les tenons, explique pourquoi les lattes sont espacées d’un doigt pour laisser l’eau filer, pourquoi le fil du chêne doit courir dans le sens de la longueur. Gérard Pichon, le menuisier retraité du deuxième étage, finit par dire : « Tu en sais plus que moi sur ce banc. » Odette Bréhier, sa voisine de bac, sourit.\n\nVient l’étape deux de la fiche : reporter l’écartement des trous de fixation sur une planche d’essai, un reste de sapin que Gérard a donné pour s’entraîner avant que le chêne arrive. Yannick a dessiné un croquis avec les cotes. Oumar pose le mètre, trace un premier repère, puis un second. En vérifiant sur la vieille latte, il voit que l’écart ne correspond pas. Il efface au doigt, recommence. La deuxième fois, il a pris la mesure depuis le mauvais bord. La troisième, le crayon a glissé. Il perce quand même, pour en finir. Le trou tombe à côté de celui de la fonte, d’un bon centimètre.\n\nGérard regarde la planche, puis Oumar. « Je ne comprends pas. Tu viens de nous faire un cours. » Oumar repose la perceuse. Il n’a pas de réponse qui tienne en une phrase.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Quand les mots restent et que l’espace se brouille",
+          "text": "Une démence peut toucher certains domaines et en épargner relativement d’autres. Dans les descriptions de la démence liée à l’alcool, les difficultés visuospatiales, comme copier une figure, dessiner une horloge ou situer des repères les uns par rapport aux autres, apparaissent souvent, tandis que le langage peut rester mieux préservé que dans d’autres démences. Les auteurs qui le rapportent signalent que ce profil ne se retrouve pas dans toutes les études. Sous le tilleul, la différence est flagrante : Oumar raconte l’assemblage parce qu’il le connaît depuis des années, mais reporter des cotes d’un croquis à une planche demande de garder plusieurs repères en tête, de comparer des distances et de corriger un tracé. Ce n’est pas le même travail du cerveau. Sa parole ne prouve pas que la tâche manuelle est facile, et son erreur de perçage ne prouve pas qu’il ne sait rien."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment se manifeste l’écart entre la parole et l’assemblage ?",
+          "points": [
+            {
+              "heading": "Une explication précise et fluide",
+              "text": "La personne peut décrire un objet, une méthode ou une histoire avec richesse, ce qui donne l’impression que tout va bien.",
+              "examples": [
+                "Oumar explique sans notes pourquoi les lattes sont espacées d’un doigt.",
+                "Gérard reconnaît qu’Oumar en sait plus que lui sur ce banc."
+              ]
+            },
+            {
+              "heading": "Des repères qui ne tiennent pas en place",
+              "text": "Passer d’un dessin à un objet réel suppose de transposer des distances et des orientations, ce qui peut devenir laborieux.",
+              "examples": [
+                "Oumar prend une fois la mesure depuis le mauvais bord de la planche d’essai.",
+                "Il compare son tracé à la vieille latte et voit que l’écart ne correspond pas."
+              ]
+            },
+            {
+              "heading": "Une incompréhension autour de soi",
+              "text": "Le contraste peut faire croire à une distraction, voire à de la mauvaise volonté, alors qu’il s’agit d’une difficulté précise.",
+              "examples": [
+                "Gérard ne comprend pas qu’on puisse « faire un cours » puis percer à côté.",
+                "Oumar ne trouve pas de phrase courte pour expliquer ce décalage devant les résidents."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour reporter des mesures sans s’épuiser",
+          "points": [
+            {
+              "heading": "Fabriquer un gabarit une fois pour toutes",
+              "objective": "Remplacer un report de mesures répété par un modèle physique à poser.",
+              "exercise": [
+                "Avec l’ergothérapeute, découper un carton à la taille exacte d’une latte d’origine.",
+                "Y percer les trous en les alignant directement sur la vieille latte.",
+                "Poser ensuite le gabarit sur chaque planche neuve et marquer à travers les trous."
+              ],
+              "benefit": "Le gabarit peut supprimer l’étape de transposition qui pose problème, sans remplacer une évaluation si d’autres gestes deviennent difficiles."
+            },
+            {
+              "heading": "Faire lire les mesures par une autre personne",
+              "objective": "Partager la tâche qui coûte en gardant celle qu’on maîtrise.",
+              "exercise": [
+                "Choisir soi-même la personne qui lira le mètre.",
+                "Lui demander de lire chaque chiffre à voix haute pendant qu’on trace.",
+                "Répéter le chiffre avant de poser le crayon."
+              ],
+              "benefit": "Lire à deux peut limiter les erreurs, tout en laissant à la personne le geste et la décision."
+            },
+            {
+              "heading": "Vérifier un repère avant de percer",
+              "objective": "Ne pas transformer une erreur de tracé en trou définitif.",
+              "exercise": [
+                "Après le tracé, poser la planche contre la pièce d’origine.",
+                "Contrôler que chaque repère tombe en face de l’attache existante.",
+                "Ne percer qu’après ce contrôle, et s’arrêter si l’on se sent pressé d’en finir."
+              ],
+              "benefit": "Une vérification courte peut éviter la frustration d’un perçage raté ; elle ne sert pas de test et ne dit rien de l’évolution."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Le gabarit en carton",
+      "ending": "Yannick ne commente pas l’erreur. Il va chercher dans sa voiture une plaque de carton épais et propose une autre méthode. Oumar pose lui-même la vieille latte d’origine sur le carton, en trace le contour, puis perce le carton à travers les trous existants. Au bout d’une demi-heure, il a un gabarit aux trous déjà marqués. Il écrit dessus au feutre : « Latte du banc. Ne pas mesurer. Poser. »\n\nIl se tourne ensuite vers Odette. « Tu veux bien lire le mètre quand il faudra ? Moi je perce. » Elle accepte, et ne demande rien d’autre. Ils essaient sur la deuxième moitié de la planche de sapin : le gabarit posé, les repères au crayon, Odette qui confirme la longueur à voix haute. Le trou tombe en face de la fonte. Gérard hoche la tête sans rien dire. Oumar raye l’étape deux sur la fiche et ajoute à la main une ligne : « Gabarit d’abord. » Il sait que le chêne, lui, n’autorisera pas trois essais.",
+      "conclusion": "Cet épisode montre qu’une parole aisée peut coexister avec une vraie difficulté à reporter des mesures ou à assembler. Oumar ne renonce pas au perçage : il change d’outil, confie la lecture du mètre à Odette et garde pour lui le geste qui compte.",
+      "mirror": [
+        "Sous le tilleul, Gérard dit « tu viens de nous faire un cours », comme si l’erreur contredisait le savoir. Un voisin ou un proche peut plutôt demander : « Tu veux que je lise les chiffres pendant que tu traces ? », puis laisser la personne répondre oui ou non. Il n’a pas à faire passer de petit test ni à conclure sur ce que le perçage raté signifie. Si les difficultés l’inquiètent, il peut suggérer d’en parler à l’équipe qui suit la personne, sans le faire à sa place."
+      ],
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "ridley-2013",
+        "nice-ng97",
+        "has-fiche14-communiquer"
+      ],
+      "continuity": {
+        "choice": "Oumar fabrique avec Yannick un gabarit en carton aux trous déjà marqués ; Odette lira le mètre, Oumar garde le perçage. La fiche d’étapes porte désormais la ligne « Gabarit d’abord ».",
+        "next": "Le soir même, au dîner de la résidence, Gérard plaisantera sur le verre de rouge qui aiderait Oumar à viser droit."
+      },
+      "number": 3,
+      "diagnostic_stage": "known"
     }
   ]
 }

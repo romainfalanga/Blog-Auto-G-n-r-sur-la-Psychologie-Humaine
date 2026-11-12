@@ -324,6 +324,111 @@
       "number": 3,
       "diagnostic_stage": "known",
       "clinical_focus": "Une attention qui s’épuise au fil de la séance"
+    },
+    {
+      "slug": "amaury-fonctions-executives-ordonner-recit-service",
+      "title": "Ordonner les étapes d’un récit : la journée de service en désordre",
+      "description": "Amaury connaît chaque étape de sa journée de service, mais le récit part de la relève : ordonner un souvenir demande des fonctions touchées par la démence.",
+      "context": "à l’association, puis à la maison",
+      "topics": [
+        "Démence due à la maladie de Parkinson",
+        "fonctions exécutives",
+        "récit par étapes"
+      ],
+      "clinical_intro": "Les fonctions exécutives servent à planifier, à mettre des étapes dans l’ordre et à passer de l’une à l’autre. Dans la démence due à la maladie de Parkinson, elles sont souvent touchées, alors même que les souvenirs anciens restent présents. Amaury connaît par cœur sa journée de conducteur ; c’est la raconter dans l’ordre, d’un seul tenant, qui lui demande désormais un appui extérieur.",
+      "opening": "Jeudi, dix heures. Wassim Rey, chargé du son et de l’image, a réglé la lampe avant l’arrivée d’Amaury, comme promis. La porte du couloir est fermée. La casquette attend sur la boîte en fer, et le micro-cravate est déjà accroché. Mardi, Quentin Delorme, l’orthophoniste de l’équipe Parkinson, a fait lire à Amaury des noms d’arrêts à voix haute ; il en a gardé la liste dans sa poche.\n\nSoizic Teyssier, la réalisatrice, a une idée de structure pour le film : suivre une journée type, du début à la fin. « La prise de service au dépôt, le premier départ, la coupure de midi, la relève. Vous nous emmenez ? »\n\nAmaury ouvre la boîte et étale ses feuilles de service sur la table. Il les connaît toutes. Il commence pourtant par la relève, place Fourneyron, quand le collègue montait avec son thermos. Puis il saute à la coupure de midi, au sandwich mangé dans le bus au terminus. Il veut revenir au dépôt, au moment où l’on vérifie les pneus et la girouette, mais il ne trouve plus le chemin pour y retourner. Les feuilles se mélangent sous ses mains ; celle de 1979 recouvre celle de 1992.\n\nSoizic propose doucement : « On reprend dans l’ordre ? D’abord le dépôt. »\n\nAmaury frappe la table du plat de la main. Ce n’est pas le signe convenu pour « j’ai fini ». « Je l’ai fait dix mille fois, cette journée ! » Il s’en veut, pas à elle. Il sait chaque geste : la clé, le contrôle, la feuille signée, le premier arrêt. Mais pour les dire dans l’ordre, il faut tenir toute la journée dans sa tête en même temps, et ce matin elle part en morceaux. Wassim baisse les yeux vers ses boutons.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Savoir chaque étape ne suffit pas à les mettre en ordre",
+          "text": "Planifier un récit, choisir par où commencer et passer d’une étape à la suivante relèvent des fonctions exécutives, qui organisent la pensée comme un horaire organise une ligne. Dans la démence due à la maladie de Parkinson, ces fonctions font partie des domaines souvent atteints, avec l’attention et la mémoire, et peuvent l’être même lorsque des souvenirs anciens restent bien présents. Une personne peut alors connaître chaque élément et ne plus réussir à les enchaîner sans appui. Chez Amaury, la clé, le contrôle des pneus, la feuille signée sont intacts ; c’est l’ordre de la journée qui se défait quand il doit la porter seul, devant une table couverte de feuilles mélangées. Le coup sur la table vient de cet écart entre ce qu’il sait et ce qu’il peut organiser à ce moment-là, pas d’un oubli."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment une difficulté d’organisation se voit-elle dans un récit ?",
+          "points": [
+            {
+              "heading": "Un récit qui commence par la fin",
+              "text": "Sans plan extérieur, le récit peut partir de l’étape la plus marquante plutôt que de la première.",
+              "examples": [
+                "Amaury commence par la relève place Fourneyron, avec le thermos du collègue, au lieu du dépôt.",
+                "Il saute ensuite à la coupure de midi, au sandwich mangé dans le bus au terminus."
+              ]
+            },
+            {
+              "heading": "Du mal à revenir en arrière",
+              "text": "Passer d’une étape à une autre, ou revenir à la précédente, demande une souplesse qui peut manquer.",
+              "examples": [
+                "Il veut parler du contrôle des pneus au dépôt mais ne trouve pas comment y revenir depuis midi.",
+                "Quand Soizic propose de reprendre au début, il ne parvient pas à repartir du dépôt."
+              ]
+            },
+            {
+              "heading": "Un support qui ajoute au désordre",
+              "text": "Trop d’éléments présentés à la fois peuvent compliquer la mise en ordre au lieu de l’aider.",
+              "examples": [
+                "Les feuilles de service étalées se mélangent, celle de 1979 sur celle de 1992.",
+                "Amaury frappe la table, frustré, alors qu’il connaît chaque geste de la journée."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour raconter étape par étape",
+          "points": [
+            {
+              "heading": "Découper le récit en étapes visibles",
+              "objective": "Mettre l’ordre à l’extérieur de la tête, sur un support simple.",
+              "exercise": [
+                "Choisir avec la personne quatre ou cinq étapes, une par fiche, avec un mot écrit en gros.",
+                "Les poser dans l’ordre sur la table, ou les numéroter avec elle.",
+                "Ranger tout le reste hors de vue pendant qu’elle raconte."
+              ],
+              "benefit": "Le support peut porter l’ordre à sa place et laisser à la personne la part qui lui revient : les souvenirs."
+            },
+            {
+              "heading": "Une étape par séance",
+              "objective": "Réduire ce qu’il faut organiser en même temps.",
+              "exercise": [
+                "Ne poser sur la table que la fiche du jour.",
+                "Laisser la personne raconter cette étape jusqu’au bout, sans annoncer la suivante.",
+                "Noter à la fin ce qu’elle souhaite ajouter la prochaine fois."
+              ],
+              "benefit": "Raconter un seul morceau à la fois peut éviter la frustration de tout perdre au milieu ; ce n’est pas un exercice qui soigne."
+            },
+            {
+              "heading": "Laisser la personne décider de l’ordre final",
+              "objective": "Garder à la personne le pouvoir sur son histoire, même si elle est enregistrée en morceaux.",
+              "exercise": [
+                "Enregistrer les étapes dans l’ordre où elles viennent.",
+                "Montrer les morceaux à la personne au moment du montage.",
+                "Lui demander de les placer elle-même, puis valider l’ensemble avec elle."
+              ],
+              "benefit": "La personne reste auteur de son récit, même quand l’organisation lui demande plus d’effort."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Quatre fiches dans l’ordre de la journée",
+      "ending": "Amaury pose sa casquette sur la table. Soizic arrête la prise sans un mot. Avant de partir, il demande à garder les feuilles de service pour le week-end. Le vendredi matin, à la table de la cuisine, il en sort quatre avec Rosa, sa compagne : une prise de service de 1983, un premier départ de 5 h 10, une coupure, une relève. Rosa ne lui dit pas dans quel ordre les mettre ; elle tient le carton pendant qu’il les pose. Il recopie sur quatre fiches un seul mot en majuscules : DÉPÔT, DÉPART, COUPURE, RELÈVE. Le lundi, il annonce à Soizic la nouvelle règle : une fiche par séance, et c’est lui qui choisira l’ordre au montage. Gérard Vial, le président de l’association, calcule que cela ajoute encore deux séances. La première fiche, DÉPART, renvoie au plan du réseau de 1987.",
+      "conclusion": "Cet épisode montre que les fonctions exécutives, souvent atteintes dans la démence due à la maladie de Parkinson, peuvent défaire l’ordre d’un récit que la mémoire garde pourtant intact. Avec quatre fiches et une étape par séance, Amaury reste auteur de sa journée de service, au prix d’un tournage plus long.",
+      "mirror": [
+        "Quand Amaury frappe la table en disant « Je l’ai fait dix mille fois », un proche peut répondre : « Je sais que tu la connais. On en pose une seule ? » Rosa n’a pas à classer les feuilles à sa place ni à lui faire répéter la journée pour l’entraîner. Elle peut tenir le carton pendant qu’il choisit, et lui dire si elle n’a pas le temps ce jour-là."
+      ],
+      "sources": [
+        "oms-cddr",
+        "oms-cddr-hrb",
+        "emre-2007",
+        "has-parkinson-2016"
+      ],
+      "continuity": {
+        "choice": "Amaury classe avec Rosa quatre feuilles de service et en fait quatre fiches (DÉPÔT, DÉPART, COUPURE, RELÈVE) ; il enregistrera une étape par séance et validera l’ordre au montage.",
+        "next": "La fiche DÉPART renvoie au plan du réseau de 1987, que Wassim veut filmer à la séance du jeudi."
+      },
+      "number": 4,
+      "diagnostic_stage": "known",
+      "clinical_focus": "Ordonner les étapes d’un récit de service"
     }
   ]
 }
